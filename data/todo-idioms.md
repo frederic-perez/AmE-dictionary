@@ -1,6 +1,8 @@
 __(and) that’s that__  
-__(down) in the trenches__ The place, situation, or environment in which the most difficult or demanding work takes place.  
+__(down) in the trenches__ :two: The place, situation, or environment in which the most difficult or demanding work takes place.  
+__(one’s) fair share (of something)__  
 __a broken reed__ An unreliable or unsupportive person.  
+__all too often__ :two: Too frequently.  
 __all-out__  
 __and counting__ :two::hammer:  
 __and so on and so forth__ And or along with other things of a similar kind; et cetera.  
@@ -9,6 +11,7 @@ __bad sport__ Someone who becomes petulant, disagreeable, or belligerent when th
 __bald as a coot__ Totally bald.  
 __bank shot__ _sports_ __1__ In basketball, a shot that touches the backboard, then goes into the basket. _Jordan sinks another bank shot for two points, putting the Bulls back in the lead, 89–91._  
 __barter with__  
+__be in the know__ _slang_ To be well-informed, especially about a topic that is not widely known.  
 __be in the wrong__ To have done something incorrect or inappropriate.  
 __be on the line__ __1__ To be in a state of jeopardy or uncertainty.  
 __behind bars__  
@@ -16,16 +19,19 @@ __behind closed doors__
 __behind the scenes__  
 __bow out__ To resign from a competition or election.  
 __by all accounts__  
+__case out__ _slang_ To observe and examine someone or something, often to gain knowledge for a specific future purpose. A noun or pronoun can be used between “case” and “out.” _I cased my opponent out in preparation for the big fight._  
 __catch momentum__ The idiom “catch momentum” is used to describe something that is gaining energy and speed, or “catching on” and becoming more popular. For example, if a new restaurant opens and becomes a hit, it can be said that the restaurant is “catching momentum” because it’s gaining popularity and business.  
 __coast along__ To proceed with little effort. _I’m worried that you’re just coasting along through your senior year without taking your future seriously._  
 __coast__ To proceed with little effort. Taking it easy or not putting in as much effort as you normally would. _Only once did Michael Jordan try to coast._  
 __cockeyed__ Crazy, stupid, or ridiculous.  
+__come (a)round__  
 __cozy up__ Try to get on friendly or intimate terms, ingratiate oneself. _That new woman is always cozying up to one or another club member so she’ll be asked to join._  
 __cross (one’s) mind__ To be thought of by one.  
 __cry-baby__  
 __do a dare__  
 __do or die__  
 __double down__  
+__duck__ :dart: __2__ _v tr_ To avoid someone or something. _Clare is ducking her responsibility._ _Duck the blame._  
 __elephant in the room__  
 __enmesh in (something)__  
 __fairy godmother__ __1__ In children’s fairy tales, a woman with magical powers who appears in order to help others in their time of need. _Cinderella’s fairy godmother helped her get ready for the ball so she could meet Prince Charming._ __2__ Someone who helps others with their problems, usually providing financial assistance. _Thank you so much for helping me with my car repair bill! You are my fairy godmother._  
@@ -51,6 +57,7 @@ __go (off) on a tangent__ To begin addressing or discussing a topic or topics no
 __go above and beyond__ To act in a way that exceeds expectations or requirements.  
 __go blooey__ _slang_ To go completely awry; to totally fail. _Plans for the gala went blooey after our chief donor backed out and took his millions with him._  
 __go both ways__ __1__ A bisexual person who is attracted to both men and women. __2__ Something that has two functions or purposes. For example, an all-purpose cleaner can be said to “go both ways” because it can be used to clean multiple surfaces.  
+__go out the window__ To be forgotten, disregarded, or lost.  
 __go pffft__ It’s basically James Ellroy-speak for something just…fizzling out or disappearing.  
 __God forbid__  
 __grapple with (someone or something)__  
@@ -58,6 +65,7 @@ __green sheet__
 __gung-ho__ Exceptionally enthusiastic, eager, or zealous, sometimes overly so.  
 __hard to say__ “Hard to say” is an idiomatic expression used to convey uncertainty or a lack of knowledge about something. It means that it’s difficult to predict or determine the outcome or the answer to a question, as the information is incomplete or unknown.  
 __have (got) (someone’s) back__  
+__have a leg up__  
 __have a sneaking suspicion__ To have a slight but persistent premonition or intuition (about something).  
 __have a thing for (someone)__ To have a romantic infatuation with someone, especially unbeknownst to that person. _I had a thing for one of my colleagues for a while, but I decided not to pursue it for the sake of our work._  
 __have a thing for (something)__ To have a very keen or particular interest in something; to really like or enjoy something. _I know they’re stupid, but I’ve always had a thing for cheesy horror movies._  
@@ -97,9 +105,11 @@ __head over heels__
 __head south__  
 __head start__  
 __head up__  
+__head-to-head__ Describing a one-on-one matchup or comparison.  
 __head-to-toe__  
 __heads up__  
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
+__here and there__  
 __hidden agenda__ A secret goal or an ulterior motive.  
 __highball__ To make an estimate which tends toward exaggeration. _Highball an offer._  
 __hit a wall__  
@@ -110,11 +120,14 @@ __hoofing__ Walking.
 __I don’t belong here__ The idiom “I don’t belong here” is a common phrase used to express a feeling of not fitting in or not being in the right place or situation. It conveys a sense of discomfort, alienation, or a lack of connection with one’s surroundings or the people around them.  
 __I hear you__  
 __in (one’s) own right__  
+__in a tizz(y)__ In a nervous, confused, agitated, or excited state.  
 __in earnest__ With sincere intentions.  
 __in short order__ :dart: Quickly, efficiently, and without any delays.  
 __in the face of (something)__  
 __into overdrive__  
 __it is what it is__  
+__jump the gun__  
+__jump-start__  
 __keep harping on about (someone or something)__ To continue to discuss, mention, or gripe about someone or something in a very persistent and irritating manner. _My roommate keeps harping on about all the irritating people she works with. I wish she would just find a different job already._  
 __keester__ __1__ In the context of James Ellroy’s novels, “keester” generally means to conceal or hide something in a secret or hidden place. It’s often used in reference to illegal or illicit activities, like hiding contraband or stashing stolen goods. __2__ _n_ A chest; a suitcase. _The old lady was hauling the most enormous keester._ __3__ _n_ The buttocks; the anus. _Get your keester over here!_  
 __know for a fact__ To have definitive knowledge of something.  
@@ -146,6 +159,7 @@ __mic drop__
 __Mickey (Finn)__  
 __mill about__ To loiter, wander about, or waste time idly (some place). _I’ll just mill about in the store across the street while you get your hair cut._  
 __mind (one’s) p’s and q’s__ To be polite and well behaved; to mind one’s manners.  
+__miss out on (something)__ To lose the chance or opportunity to do or experience something.  
 __modus operandi__ :mega: /ˈməʊdəs ˌɒpəˈrændiː; -ˈrændaɪ/  
 __more so__  
 __mud-shark__ In the novels by James Ellroy, the term “mud-shark” is used to refer to a type of predatory behavior, often associated with characters who engage in morally questionable or criminal activities. The term “mud-shark” is symbolic of the predatory nature of certain characters, reflecting their willingness to exploit others for personal gain or pleasure.  
@@ -221,6 +235,7 @@ __poon__
 __posse__ _slang_ A group of friends or associates that spend a lot of time together.  
 __pounce on (someone or something)__  
 __pressure cooker__  
+__prevention is better than cure__ _proverb_ Work to stop something from happening is easier and better than having to try to resolve it later.  
 __pricey__ Moderately expensive.  
 __prima donna__  
 __promises, promises__ A sarcastic reply to a promise or assurance that one does not believe. _A: “I swear, as soon as I have a bit more free time, we will go on a proper date together.” B: “Promises, promises! I won’t hold my breath.”_  
@@ -265,6 +280,7 @@ __rag on (one)__
 __ragtop__ _n_ A convertible car.  
 __rain check__  
 __rainbows and unicorns__ Innocent, carefree happiness. Often used in negative constructions to indicate the opposite.  
+__raise the bar__ To raise the standards of quality that are expected of or required for something.  
 __raise the stakes__  
 __rake in (something)__ To acquire or accumulate an abundance of something, especially money.  
 __ramp up__ To increase. A noun or pronoun can be used between “ramp” and “up.” _Ever since that break-in, they’ve really ramped up security at the office._  
@@ -310,6 +326,7 @@ __secret sauce__ _informal_ A secret idea or plan; a crucial element of somethin
 __secretor__ A “secretor” in James Ellroy’s novels is essentially a character who has a hidden or suppressed aspect of their personality or identity. They might be someone who seems upstanding and respectable on the surface, but underneath, they’re harboring a dark secret that could ruin their reputation or even get them into serious trouble.  
 __see somebody/something for what they ˈare/it is__ Realize that somebody/something is not as good, pleasant, etc. as they seem/it seems: _I used to really like him, but now I can see him for what he really is — selfish and arrogant!_  
 __sell like hot cakes__  
+__serve (one’s) time__ To spend the amount of time in jail that is required by one’s prison sentence.  
 __shafted__ _slang_ Cheated or swindled; unfairly deprived or taken advantage of; screwed (over).  
 __shag (off)__ _slang_ To depart. _I gotta shag. It’s late. Go on! Shag off! I gotta shag. Somebody’s calling my name._  
 __shagged out__ _slang_ Exhausted. _What a day! I’m shagged out!_ _You guys look sort of shagged out._  
@@ -322,6 +339,7 @@ __shitheel__ Oh man, “shitheel” is a doozy - a real gem of vulgarity in Ellr
 __shy away (from someone or something)__  
 __silver lining__  
 __simply put__  
+__sit shiva__ _Judaism_ To mourn for a period of seven days following the funeral of a close relative. _To sit shiva for the dead._  
 __six ways from (next) Sunday__ Askew, at an angle.  
 __six ways to Sunday__ _adj_ Askew, at an angle.  
 __skate__  
@@ -368,6 +386,7 @@ __take aim (at someone or something)__
 __take center stage__ To be the main focus.  
 __talk out (of) (one’s) ass__  
 __talk the talk__  
+__tease apart__ “Tease apart” is an idiomatic expression that means to carefully analyze something in order to understand the different components or aspects of it. It’s like trying to untangle a ball of yarn to figure out what each individual strand is made up of. _A clear causal connection between drug use and schizophrenia has been difficult to tease apart._  
 __tell me something I don’t know__  
 __ten-spot__ _slang_ A ten-dollar bill or a sum of ten dollars. Primarily heard in US. _This restaurant is an incredibly good value. For just a ten-spot you can get an appetizer, an entrée, and a dessert!_  
 __the (hand)writing on the wall__ :two::hammer:  
@@ -375,11 +394,14 @@ __the Fourth Estate__ The people and organizations that report the news, or news
 __the lowdown on__ :dart: The whole truth about something.  
 __the mother of all (something)__ The largest, most extreme, or ultimate example of a particular kind of thing. _Wow, that is the mother of all sandwiches. It’s nearly a foot high!_  
 __the old days__  
+__the revolution will be televised__  
 __the scoots__ _n_ A case of diarrhea. _Our vacation was ruined by a case of the scoots._  
 __the wild west of (something)__  
 __the Wild West__ __2__ By extension, that which is characterized by a lack of law, order, and regulations; that which is totally untamed and unfettered. Often followed by “of something.“  
 __thingamajig__ (thingy) Some tool, gadget, or other such implement the proper name for which is unknown or unremembered.  
+__tied up in knots__ Feeling anxious, stressed, or overwhelmed. It’s often used to describe someone who is struggling to cope with a difficult or confusing situation.  
 __time after time__  
+__time and (time) again__ :two::hammer:  
 __time flies__  
 __toe the line__  
 __train wreck__ :dart:  
@@ -397,6 +419,7 @@ __under-promise and over-deliver__ To avoid raising expectations in order to sub
 __unheard of__ Extremely uncommon or unusual; beyond belief. Hyphenated if used as a modifier before a noun. _His prowess on the balance beam is unheard of._  
 __up for grabs__  
 __upbeat__ _informal_ Of, inspiring, or exuding cheerfulness, happiness, or optimism.  
+__urban legend__ A myth or piece of folklore that is totally false. _That story about the rats in the sewer being as big as dogs is an urban legend. It’s just not so._  
 __vamoose__ :two::hammer: (vamoosed)  
 __wait for it__  
 __wake-up call__  
@@ -407,6 +430,7 @@ __warmed-over__ Unoriginal, reused, or derivative. An allusion to reheated lefto
 __well, well, (well)__ Used to express surprise or incredulity, either sincerely or sarcastically. _Well, well, I must say that I didn’t expect to see results like that from the experiment!_  
 __whammo__ It’s basically a slang term for a big, dramatic, or explosive event. James Ellroy uses it to describe things like shootouts, car chases, explosions, or any other kind of crazy action scene.  
 __what else?__ The phrase “what else?” in James Ellroy’s novels typically carries a sense of cynicism, as if the character is resigned to the fact that there is nothing new or unexpected to be found in the world. It often reflects the jaded worldview of the characters in his crime novels, who have seen the worst of humanity and are not easily surprised or impressed. The phrase is often used as a rhetorical question, implying that the speaker already knows the answer, or as a means of brushing off a situation or event as being predictable or mundane.  
+__what gives?__ Used to ask the reason for something.  
 __what it takes__  
 __when the rubber hits the road__ The point at which someone’s or something’s efforts, resolve, or viability are put to the test; the point at which things become truly or meaningfully challenging.  
 __whipout__ It’s another slang term that Ellroy uses to describe something that happens quickly and violently. In his books, it can mean a sudden attack, a fast getaway, or even just a quick, sharp response to something.  
