@@ -1,3 +1,15 @@
+__allegedly__ _adv_ /əˈlɛdʒɪdlɪ/ __1__ Reportedly; supposedly: _payments allegedly made to a former colleague._ __2__ _sentence modifier_ It is alleged that.  
+__betel nut__ _n_ The seed of the betel palm, chewed with betel leaves and lime by people in S and SE Asia as a digestive stimulant and narcotic.  
+__confidant__ _n_  
+__driver’s seat__ _n_ :dart: A position of control or authority.  
+__frontispiece__ _n_  
+__inpainting__ _n_ A conservation process where damaged, deteriorating, or missing parts of an artwork are filled in to present a complete image.  
+__jacks__ _n_ _functioning as singular_ A game in which jackstones are thrown and picked up in various groups between bounces of a small rubber ball. _Syn_ knucklebones, jackstones  
+__lair__ _n_ A wild animal’s den or resting place; a person’s hiding place.  
+__listless__ _adj_ :dart::two::hammer: :es: lánguido; apático, indiferente  
+__locus__ _n_ :three: __2__ A center or source, as of activities or power: _locus of control._  
+__maladaptive__ _adj_ :three::hammer:  
+__outpainting__ _n_ _Outpainting_ is a term used in the field of computer graphics, specifically in the context of AI-generated art. It refers to the process of expanding an existing image by generating additional content beyond the original image boundaries.  
 __overview__ _n_ A general review or summary of something.  
 __overzealous__ _adj_  
 __oxymoron__ _n_ /ahk-sih-MOR-ahn/  
@@ -47,6 +59,7 @@ __pogrom__ _n_
 __poison__ _n_ /ˈpɔɪzən/  
 __possum__ _n_ _Possums in New Zealand are known to destroy plants, birds’ nests, and eat birds’ eggs and invertebrates, posing a serious threat to forests and native wildlife._ :es: zarigüeya  
 __precipice__ _n_  
+__preparedness__ _n_ /prɪˈpɛər ɪd nɪs, -ˈpɛərd nɪs/ The state of being prepared or ready, esp militarily ready for war.  
 __prevail__ _v intr_  
 __prove__ _v intr_ To be shown to be such; turn out: _a theory that proved impractical in practice; a schedule that proved to be too demanding._  
 __pry__ _v_  
@@ -66,13 +79,14 @@ __quixotic__ _adj_ /kwik-SAH-tik/
 __racketeer__ _n, v_  
 __radio__ _v_ _He never even thought to radio for help._  
 __rage__ _v intr_  
-__rambunctious__ _adj_  
+__rambunctious__ _adj_ :two::hammer:  
 __ramify__ _v_ To have complicating consequences or outgrowths. _Syn_ complexify _The problem merely ramified after the unsuccessful meeting._  
 __rampant__ _adj_  
 __ransack__ _v tr_  
 __ransom__ _n_  
 __rapture__ _v_  
 __rationalize__ _v_  
+__recap__ _n_ A summary or recapitulation, as of a news report, sports contest, or television show.  
 __recidivism__ _n_  
 __redress__ _v tr_  
 __redux__ _adj_  
@@ -98,6 +112,7 @@ __salve__ _v tr_ __2__ To ease the distress or agitation of; assuage: _salved my
 __salvo__ _n_ (_n pl_ salvos, salvoes)  
 __sanguine__ _adj_ :two::hammer:  
 __sanity check__  
+__sap__ _v tr_ __2__ To deplete or weaken gradually.  
 __sate__ _v tr_  
 __saunter__  
 __scallop__ _n_  
@@ -156,6 +171,7 @@ __shanty__ _n_ A roughly built, often ramshackle building; a shack.
 __shash window__ _n_  
 __sheep__ _n_ (_n pl_ sheep)  
 __shim__ _v tr_  
+__shin splints__ _n_ (shinsplints) A painful condition of the shins caused by inflammation of muscles and connective tissue, frequently occurring among runners. _She was crippled by shin splints._ :es: calambres en la pierna, periostitis  
 __shirk__ _v_  
 __shirtsleeves__ _n_ :two::hammer:  
 __shirtwaist__ _n_ :two::hammer:  
@@ -184,6 +200,7 @@ __Six-Day War__ _n_
 __six-figure__ _adj_  
 __ski jump__ _n_  
 __skin__ _v tr_ _He skinned his knee and started to cry._  
+__slash__ _n_ __1b__ A long cut or other opening made by such a stroke; a gash or slit. _The slash of the sword._  
 __slum<sup>1</sup>__ _n_  
 __slum<sup>2</sup>__ _v intr_ To visit impoverished areas or squalid locales, especially out of curiosity or for amusement.  
 __small-time__  
@@ -194,6 +211,7 @@ __snarky__ _adj_ :two: _informal_ Unpleasant and scornful.
 __sniveling__ _n_ Whining in a tearful manner . _Syn_ snivel  
 __snooker<sup>1</sup>__ _n_  
 __snooker<sup>2</sup>__ _v tr_ _slang_ To deceive.  
+__spiteful__ _adj_ Filled with, prompted by, or showing spite; malicious.  
 __spittoon__ _n_  
 __split__ _v_ _Women who have split from a relationship._  
 __squarely__ _adv_ /ˈskwɛəlɪ/  
@@ -217,10 +235,12 @@ __stickup__ _n slang_ A robbery, especially at gunpoint.
 __stifle<sup>1</sup>__ _v tr_ __1__ To interrupt or cut off (the voice, for example). __2__ To keep in or hold back; repress: _stifled my indignation._ __3__ To kill by preventing respiration; smother or suffocate.  
 __stifle<sup>2</sup>__ _v intr_ __1__ To suffer from difficulty in breathing, as in a close atmosphere. __2__ To become stifled or suffocated.  
 __stillbirth__ _n_  
+__stingy__ _adj_ __1__ Giving or spending reluctantly. __2__ Scanty or meager: _a stingy meal; stingy with details about the past._  
 __stoke__ _v_  
 __strait__ _n_  
 __strife__ _n_  
 __stuffing__ _n_  
+__sub__ _v_ (subbed)  
 __subaltern__ _n_  
 __submarine__ _v_  
 __suborn__ _v tr_  
@@ -231,6 +251,7 @@ __supercilious__
 __surprise__ _n, v_ /səˈpraɪz/  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
 __susurous__ _adj_ _The susurous swash of the sea._  
+__swashbuckler__ _n_  
 __swell__ _adj_ Excelent.  
 __sweltering__ _adj_  
 __Syracuse__ _n_ :mega: /ˈsɪr əˌkyus, -ˌkyuz/  
@@ -259,6 +280,7 @@ __threshold__ _n_ /THRESH-hohld/ A threshold is a piece of wood, metal, or stone
 __thrust__ _v_  
 __thunderstruck__ _adj_ Affected with sudden astonishment or amazement. _I was thunderstruck._  
 __tidbit__ _n_ A choice morsel, as of gossip or food. _Syn_ choice morsel, titbit  
+__tiddlywinks__ _n_ /ˈtɪdlɪˌwɪŋks/ _functioning as singular_ A game in which players try to flick discs of plastic into a cup by pressing them sharply on the side with other larger discs.  
 __ting<sup>1</sup>__ _n_ A high metallic sound such as that made by a small bell.  
 __ting<sup>2</sup>__ _v intr_ To give forth a light metallic sound.  
 __toil__ _n_ _A lifetime of toil._  
@@ -274,6 +296,7 @@ __traipse__ _v_
 __transience__  
 __transsexual__ _adj, n_ (transexual) Note: The term “transgender” is more commonly used than “transsexual” or “transexual” in current literature and discussions.  
 __transvestite__ _n_  
+__tub__ _n_ __1a__ An open, flat-bottomed vessel, usually round and typically wider than it is deep, used for washing, packing, or storing. _A tub of Ben & Jerry’s._ __b__ The amount that such a vessel can hold. __c__ The contents of such a vessel.  
 __tumbledown__ _adj_  
 __ukulele__ _n_ :pencil2:  
 __unclear__ _adj_  
