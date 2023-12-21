@@ -1,3 +1,17 @@
+__accrue__ _v_  
+__Cairo__ _n_ :es: El Cairo  
+__ceasefire__  
+__commendable__ _adj_ Worthy of high praise.  
+__crackdown__ _n_  
+__curiosity__ _n_ :mega: /ˌkyʊər iˈɒs ɪ t/  
+__dearth__ _n_  
+__downplay__ _v tr_  
+__dump__ _n_ __3__ An unordered accumulation; a pile.  
+__foghorn__ _n_  
+__jettison__ _v_  
+__kerchief__ _n_  
+__miscalculation__ _n_ A mistake in calculating. :es: error de cálculo  
+__ongoing__ _adj_  
 __pandemonium__ _n_ /pan-duh-MOH-nee-um/ Pandemonium refers to a situation in which a crowd or mass of people act in a wild, uncontrolled, or violent way because they are afraid, excited, or confused. _Pandemonium ensued when a power failure knocked out the city’s traffic lights during rush hour._  
 __pap__ _n_ :two: __3__ _slang_ Money and favors obtained as political patronage. __4__ A paparazzo.  
 __paraplegia__ _n_  
@@ -33,6 +47,7 @@ __plummet__ _v tr_ /ˈplʌm ɪt/ To fall straight or sharply down; plunge.
 __pogrom__ _n_  
 __poison__ _n_ /ˈpɔɪzən/  
 __possum__ _n_ _Possums in New Zealand are known to destroy plants, birds’ nests, and eat birds’ eggs and invertebrates, posing a serious threat to forests and native wildlife._ :es: zarigüeya  
+__Precambrian__ _adj, n_  
 __precipice__ _n_  
 __preparedness__ _n_ /prɪˈpɛər ɪd nɪs, -ˈpɛərd nɪs/ The state of being prepared or ready, esp militarily ready for war.  
 __prevail__ _v intr_  
@@ -40,7 +55,7 @@ __prove__ _v intr_ To be shown to be such; turn out: _a theory that proved impra
 __pry__ _v_  
 __psyche__ _n_ /ˈsaɪkɪ/ (Psychology) The human mind or soul.  
 __psychobabble__ _n_  
-__punitive__ _adj_ :two: Relating to, involving, or with the intention of inflicting punishment. _Punitive damages._ _The Green party wants punitive taxes on petrol._  
+__punitive__ _adj_ :three: Relating to, involving, or with the intention of inflicting punishment. _Punitive damages._ _The Green party wants punitive taxes on petrol._  
 __pup__ _n_  
 __purloin__ _v tr_  
 __purportedly__  
@@ -72,6 +87,7 @@ __register__ _v intr_ __7__ To make an impression; be recorded in the mind: _The
 __rehouse__ _v tr_ To provide with new, usually improved housing.  
 __reinstate__ _v tr_ /ˌri ɪnˈsteɪt/  
 __repercussion__ _n_  
+__reportedly__ _adv_ /rɪˈpɔr tɪd li, -ˈpoʊr-/  
 __resumption__ _n_ The act or an instance of resuming; a beginning again: _resumption of negotiations._  
 __rewrite__ _n_ __1__ The act or an instance of rewriting. __2__ Something rewritten.  
 __rightfully__  
@@ -206,13 +222,16 @@ __stepwise__ _adj_ :two::hammer: _An optimal stepwise upgrade strategy._
 __stereophony__  
 __sternutation__  
 __Stetson__  
+__stick__ _v_ :two::hammer:  
 __stickup__ _n slang_ A robbery, especially at gunpoint.  
+__stiffen__ _v_ :two::hammer: /ˈstɪfən/  
 __stifle<sup>1</sup>__ _v tr_ __1__ To interrupt or cut off (the voice, for example). __2__ To keep in or hold back; repress: _stifled my indignation._ __3__ To kill by preventing respiration; smother or suffocate.  
 __stifle<sup>2</sup>__ _v intr_ __1__ To suffer from difficulty in breathing, as in a close atmosphere. __2__ To become stifled or suffocated.  
 __stillbirth__ _n_  
 __stingy__ _adj_ __1__ Giving or spending reluctantly. __2__ Scanty or meager: _a stingy meal; stingy with details about the past._  
 __stoke__ _v_  
 __strait__ _n_  
+__streamline__ _v tr_ __2__ To improve the efficiency of, often by simplification: _streamline a factory process._  
 __strife__ _n_  
 __stuffing__ _n_  
 __sub__ _v_ (subbed)  
@@ -230,6 +249,7 @@ __swashbuckler__ _n_
 __swell__ _adj_ Excelent.  
 __sweltering__ _adj_  
 __Syracuse__ _n_ :mega: /ˈsɪr əˌkyus, -ˌkyuz/  
+__Tahiti__ _n_ :mega: /təˈhi ti, tɑ-/  
 __talkie__ _n_ _informal_ An early film with a soundtrack. Full name: _talking picture_.  
 __tarnish__ _v_  
 __taunt__  
@@ -271,6 +291,7 @@ __traipse__ _v_
 __transience__  
 __transsexual__ _adj, n_ (transexual) Note: The term “transgender” is more commonly used than “transsexual” or “transexual” in current literature and discussions.  
 __transvestite__ _n_  
+__truce__ _n_ /truːs/  
 __tub__ _n_ __1a__ An open, flat-bottomed vessel, usually round and typically wider than it is deep, used for washing, packing, or storing. _A tub of Ben & Jerry’s._ __b__ The amount that such a vessel can hold. __c__ The contents of such a vessel.  
 __tumbledown__ _adj_  
 __ukulele__ _n_ :pencil2:  
@@ -285,11 +306,14 @@ __unsavory__ _adj_ __4__ Socially or morally objectionable or offensive: _an uns
 __unto__ _prep_ /ˈʌntuː/ An archaic word for to. _Do unto others._  
 __unworldly__ _adj_  
 __upend__ _v_  
+__uphold__ _v tr_ __3__ To maintain or affirm: _uphold a standard of behavior._ _Syn_ support  
 __V-E Day__ _n_ [:scroll: V(ictory in) E(urope) Day] May 8, 1945, the day on which the Allies announced the surrender of German forces in Europe.  
 __valance__ _n_ An ornamental drapery hung across a top edge, as of a bed, table, or canopy. _Syn_ cornice, pelmet, valance board _Large valances of silk, embroidered with flowers of gay colors, which were rather faded, fell from the wide windows._  
 __valediction__ _n_  
 __valedictory__ _n_  
 __veranda__ _n_  
+__verdict__ _n_  
+__veto__ _v tr_  
 __visceral__ _adj_ /VISS-uh-rul/  
 __walkout__ _n_ :four: __1__ A labor strike.  
 __walrus mustache__ _n_ A bushy, drooping mustache.  

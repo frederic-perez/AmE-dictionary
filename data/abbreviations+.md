@@ -147,6 +147,7 @@ __NB__
 __NCO__  
 __NDA__  
 __NG__ Not guilty. _The NG celebration at the bar._  
+__NGO__ Nongovernmental organization.  
 __NICE__ National Institute for Health and Care Excellence.  
 __NLP__ Natural language processing.  
 __nos__ Numbers: _nos. 9 and 10._  
