@@ -1,28 +1,3 @@
-__accrue__ _v_  
-__Cairo__ _n_ :es: El Cairo  
-__ceasefire__  
-__commendable__ _adj_ Worthy of high praise.  
-__crackdown__ _n_  
-__curiosity__ _n_ :mega: /ˌkyʊər iˈɒs ɪ t/  
-__dearth__ _n_  
-__downplay__ _v tr_  
-__dump__ _n_ __3__ An unordered accumulation; a pile.  
-__foghorn__ _n_  
-__jettison__ _v_  
-__kerchief__ _n_  
-__miscalculation__ _n_ A mistake in calculating. :es: error de cálculo  
-__ongoing__ _adj_  
-__pandemonium__ _n_ /pan-duh-MOH-nee-um/ Pandemonium refers to a situation in which a crowd or mass of people act in a wild, uncontrolled, or violent way because they are afraid, excited, or confused. _Pandemonium ensued when a power failure knocked out the city’s traffic lights during rush hour._  
-__pap__ _n_ :two: __3__ _slang_ Money and favors obtained as political patronage. __4__ A paparazzo.  
-__paraplegia__ _n_  
-__parcel__ _v tr_ :mega:  
-__pastiche__ _n_  
-__patent leather__ _n_  
-__paunch__ _n_ A protruding abdomen. _Syn_ belly  
-__paw__ _v_  
-__pedal pushers__ _n pl_  
-__pelt__ _n_  
-__people pleaser__ _n_  
 __percolate__ _v_  
 __peremptory__ _adj_ :dart:  
 __permeable__ _adj_ /PER-mee-uh-bul/  

@@ -146,7 +146,7 @@ __accounts__ _n_ _By some accounts._
 __accoutrement__ _n_ :eight: /uh-KOO-truh-munt/ (accouterment, accouterments, accoutrement, accoutrements) An accoutrement is a piece of clothing or equipment that is used in a particular place or for a particular activity. In military contexts, accoutrement refers specifically to a soldier’s outfit. The word can also refer to an identifying and often superficial characteristic or device. Accoutrement in any of its uses is often pluralized. _The little closet was cluttered with belts and scarves and other accoutrements of use to a fashion-conscious teenager._  
 __accrete__ _v_ :seven: (accretes, accreted) To make larger or greater, as by increased growth. _Once details are mixed with essential concepts, more and more details tend to accrete within the function._  
 __accretion__ _n_ :two::hammer: _Ice accretion._  
-__accrue__ _v_ :six: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
+__accrue__ _v_ :seven: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
 __acculturation__ _n_  
 __acerbic__ _adj_ :five::hammer:  
 __acetate__ _n_  
@@ -2606,6 +2606,7 @@ __cagey__ _adj_ :four: __1__ Wary; careful: _a cagey avoidance of a definite ans
 __cagily__ _adv_  
 __cagy__ _adj_ :two: Variant of cagey.  
 __cahoots__  
+__Cairo__ _n_ :es: El Cairo  
 __caisson__ _n_  
 __caitiff__ _adj_ _Caitiff nobles._  
 __cajole__ _v_ :nine::m: /kuh-JOHL/ Cajole usually means “to persuade someone to do something or to give you something by making promises or saying nice things.” To persuade (someone) by flattery or pleasing talk to do what one wants; wheedle; coax. _She cajoled her partner into going to the party with her._ It can also mean “to deceive with soothing words or false promises.”  
@@ -2951,7 +2952,7 @@ __caw<sup>1</sup>__ _n_ :two: (caws) The hoarse raucous sound that is characteri
 __caw<sup>2</sup>__ _v_ :two::hammer: (cawed, cawing)  
 __cc__ _v tr_ (cc’d _or_ cc’ed; cc’ng) _The bugs are cc’ed to me._  
 __ce__  
-__ceasefire__ _n_ :five::hammer: (cease-fire)  
+__ceasefire__ _n_ :six::hammer: (cease-fire)  
 __cede__  
 __ceilometer__ _n_ :four::hammer:  
 __cel__ _n_ A piece of celluloid on which has been drawn a frame of an animated film. _A Bugs Bunny production cel, by Chuck Jones._  
@@ -3642,7 +3643,7 @@ __commemorate__ _v_ /kuh-MEM-uh-rayt/
 __commence__ _v_  
 __commencement__ _n_ _The high school commencement ceremony._  
 __commend__ _v_ :three::hammer: (commended) _The King commended to his brothers his twelve-year-old son._  
-__commendable__ _adj_ :six: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
+__commendable__ _adj_ :seven: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
 __commendation__ _n_ :three::hammer: (commendations) _He earned two commendation medals._ _He received two commendations._  
 __commensurate__ _adj_ :seven: /kuh-MEN-suh-rut/ __1__ Proportionate. _The job posting states that salary will be commensurate with experience._ __2__ Having the same measure.  
 __commentary__  
@@ -4402,6 +4403,7 @@ __curfew__ _n_ :three: A regulation requiring people to remain indoors between s
 __Curia__ _n_ :four: (Roman Catholic Church) The central administration governing the Church.  
 __Curie__ _n_ :two::hammer::mega:  
 __curio__ _n_ :two::hammer: _Curio shop._  
+__curiosity__ _n_ :mega: /ˌkyʊər iˈɒs ɪ t/  
 __curlicue<sup>1</sup>__ _n_ :three: A fancy twist or curl, such as a flourish made with a pen. _Syn_ squiggle _Her penmanship was beautiful, but with so many curlicues, it was hard to read._  
 __curlicue<sup>2</sup>__ _v_ (curlicued)  
 __curly__ _adj_ /ˈkɜr li/ The Three Little Pigs _is a curly tail for the whole family._  
@@ -4590,7 +4592,7 @@ __deafening__ _adj_
 __dealbreaker__  
 __dean__ _n_ :four: A senior official at a college or university. _He served as dean._  
 __dear__ _adj_ __1__ Bearing a high price; high-priced; costly; expensive. __2__ Marked by scarcity or dearth, and exorbitance of price. _Though bread and cheese were available from the inhabitants, provision and other supplies were dear._ __3__ Highly valued; greatly beloved; cherished; precious.  
-__dearth__ _n_ :five::dart::hammer:  
+__dearth__ _n_ :dart::six::hammer:  
 __death toll__ _n_ The number of deaths resulting from some particular cause such as an accident or a battle or a natural disaster.  
 __deathbed__ _n_ :two::hammer:  
 __deathless__  
@@ -5591,7 +5593,7 @@ __dumbbells__ _n_ :two: (dumbbell, dumb-bell) A short bar with a weight at each 
 __dumbfound__ _v_ :four::hammer: (dumbfounded) _This swaggering gesture by a petty German prince, ruler of a narrow territory, dumbfounded the court._  
 __dumbstruck__ _adj_ :two::hammer:  
 __dummy__ _n_  
-__dump<sup>1</sup>__ _n_ _A munitions dump._  
+__dump<sup>1</sup>__ _n_ :two::hammer: __3__ An unordered accumulation; a pile. _A munitions dump._  
 __dump<sup>2</sup>__ _v_ :two::hammer: _Dumping ash on the carpet._ _They walkes to the trash can and dumped their cups._  
 __dumpling__ _n_ :two::hammer: (dumplings) _Bavarian bread dumpling._  
 __dumpster fire__ _n slang_ A complete and utter disaster or a completely chaotic situation likened to a fire in a dumpster, which quickly becomes uncontrollable. The phrase can be applied to both situations and people.  
@@ -6960,6 +6962,7 @@ __focal fibrosis__
 __focus__ _n_ :mega:  
 __fodder__ _n_ :seven: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_ _A fodder for scientific research._  
 __foe__ _n_  
+__foghorn__ _n_  
 __fogy__ _n_ An extremely old-fashioned or conservative person (usu. prec. by old). _An old fogy of thirty-two._  
 __foible__ _n_ :nine::m: /FOY-bul/ A minor weakness or failing of character. A behavioral attribute that is distinctive and peculiar to an individual. Foibles are minor flaws or shortcomings in character or behavior. In fencing, foible refers to the part of a sword’s blade between the middle and point, which is considered the weakest part. _He was amused daily by the foibles of his eccentric neighbor._ :es: manía _Syn_ fault, defect, imperfection _His father’s foibles did not prevent his son from loving and honoring him._  
 __foil<sup>1</sup>__ _n_ :four::hammer: _He lost in the round of 32 in individual foil._ _Blister packs are pre-formed plastic/paper/foil packaging used for formed solid drugs._  
@@ -9669,7 +9672,7 @@ __jet ventilation__ _n_
 __jet__ _n_ :two::hammer: _Low-level jet formation._ _The sky was jet overhead._  
 __jetliners__  
 __jetpack__ _n_ A backpack powered by jets, used especially to enable an astronaut to maneuver independently during a spacewalk.  
-__jettison__ _v_ :eight: /JET-uh-sun/ (jettisoned, jettisoning) __1__ To throw (something) overboard to lighten a ship or aircraft in distress. To cast overboard or off: _a ship jettisoning wastes; a pilot jettisoning aircraft fuel._ _Princess Leia Organa hid the data tapes in the memory banks of R2-D2, and the astromech jettisoned the ship with C-3PO._ _Seven seconds later the aeroshell was jettisoned._ __2__ To get rid of (something). _The coach was jettisoned after the team failed to make the playoffs for the third straight year._  
+__jettison__ _v_ :nine::mega: /JET-uh-sun/ (jettisoned, jettisoning) __1__ To throw (something) overboard to lighten a ship or aircraft in distress. To cast overboard or off: _a ship jettisoning wastes; a pilot jettisoning aircraft fuel._ _Princess Leia Organa hid the data tapes in the memory banks of R2-D2, and the astromech jettisoned the ship with C-3PO._ _Seven seconds later the aeroshell was jettisoned._ __2__ To get rid of (something). _The coach was jettisoned after the team failed to make the playoffs for the third straight year._  
 __jetty<sup>1</sup>__ _n_ :three::hammer:  
 __jetty<sup>2</sup>__ _adj_  
 __jeu d’esprit__ _n_ A work of light playfulness or wit, especially in literature.  
@@ -9856,7 +9859,7 @@ __ken__ _n_ :four::astonished: __1__ Range of what one can know or understand. _
 __Kendall__ _n_ /ˈkɛndəl/  
 __kennel__ _n_ :two::hammer:  
 __keno__ _n_ :two: A game of chance, similar to lotto, that uses balls rather than counters.  
-__kerchief__ _n_  
+__kerchief__ _n_ :two::hammer:  
 __kerf__ _n_  
 __kerfuffle__ _n informal_ :five: /ker-FUFF-ul/ _chiefly Brit_ A disturbance or fuss typically caused by a dispute or conflict. _The reclassification of Pluto from a planet to a dwarf planet caused quite a kerfuffle among astronomy lovers._ _In all the kerfuffle, nobody seemed to have noticed Harry, which suited him perfectly._  
 __kersey__ _n_  
@@ -11345,6 +11348,7 @@ __misanthrope__ _n_ /MISS-un-throhp/ Someone who hates people in general.
 __misanthropic__ _adj_ :two: Characterized by a hatred or mistrustful scorn for humankind. _Syn_ cynical _Perhaps rendered more misanthropic by the infirmities that come with years upon a ship, she had made up her mind to kill all hands at once._  
 __misapprehension__  
 __misbegotten__ _adj_ :two::hammer: /miss-bih-GAH-tun/  
+__miscalculation__ _n_ A mistake in calculating. :es: error de cálculo  
 __miscarriage__ _n_ :two::hammer:  
 __miscarry__ _v_  
 __miscegenation__ _n_ :two::hammer:  
@@ -12364,7 +12368,7 @@ __one-stop__ _adj_ :three: Having or providing a range of related services or go
 __onerous__ _adj_ :seven::pencil2::astonished: /AH-nuh-rus/ Onerous means “involving, imposing, or constituting a burden.” It typically describes something that is difficult and unpleasant to do or deal with. _They were assigned the onerous task of post-show cleanup._ _The government imposed onerous taxes on imports._  
 __onesie__ _n_ :four::hammer: _The actor in the Lycra onesie is stealing the _Avengers_ show._  
 __onetime__ _adj_ __1__ Former, sometime. _A onetime actor._ __2__ Occurring only once. _Syn_ one-shot _It’s a onetime thing._  
-__ongoing__ _adj_ :three::hammer: _Ongoing efforts._ _The ongoing research activities,_  
+__ongoing__ _adj_ :four::hammer: _Ongoing efforts._ _The ongoing research activities,_  
 __onionskin__ _n_ /′ən‚yən‚skin/ A thin strong lightweight translucent paper used especially for making carbon copies. _Onionskin pages._ _Onionskin paper._  
 __onlooker__ _n_ :three::hammer: (onlookers)  
 __only problem is__  
@@ -12763,6 +12767,7 @@ __pan__ _v_ :two::hammer: _Obama pans republicans._ _Try your hand at milking a 
 __panacea__ _n_ :eight::mega: /ˌpæn əˈsi ə/ /pan-uh-SEE-uh/ (panaceas) [:scroll: _Panacea_ comes from a Greek word meaning “all-healing,” and Panacea was the goddess of healing.] A remedy for all diseases, evils, or difficulties. Something that is regarded as a cure-all—that is, a remedy for all ills or difficulties. _Syn_ cure-all _The new program should help with the city’s housing crisis, but it’s no panacea._  
 __panache__ _n_ :nine::m: /puh-NAHSH/ [:scroll: Originally, the word referred to an ornamental tuft or plume of feathers, and especially one affixed to a helmet.] The word was popularized in English from the success of Edmond Rostand’s 1897 play _Cyrano de Bergerac_. Cyrano proclaims: “I’m going to take the simplest approach to life of all ... I’ve decided to excel in everything.” He, of course, wears a panache, and it is literally his last word: “Yet there is something still that will always be mine, and when today I go into God’s presence, there I will doff it and sweep the heavenly pavement with a gesture: something I’ll take unstained out of this world ... my panache.” __1__ A confident, stylish manner; swagger. When we say that someone has panache, we are saying that they have energy, spirit, and style. Distinctive and stylish elegance. _Syn_ dash, elan, flair, style _He wooed her with the confident panache of a cavalry officer._ _Ever the showman, he not only caught the ball, he made a diving catch and caught it with panache._ _With great panache._ __2__ A tuft of feathers on a headdress, such as a helmet, hat, etc.  
 __pancetta__ _n_ Italian bacon that has been cured in salt and spices and then air-dried.  
+__pandemonium__ _n_ /pan-duh-MOH-nee-um/ Pandemonium refers to a situation in which a crowd or mass of people act in a wild, uncontrolled, or violent way because they are afraid, excited, or confused. _Pandemonium ensued when a power failure knocked out the city’s traffic lights during rush hour._  
 __pander__ _v_ :nine::m: (panders, pandering) (+to) To provide gratification for the desires of.  
 __panderer__ _n_ :two: /PAN-duhr-uhr/ [:scroll: After Pandarus, a Trojan warrior in Greek mythology. He was known for his skill in archery. In later accounts, such as Chaucer’s and Shakespeare’s, he acts as a go-between in the love affair of Troilus and Cressida. This resulted in his reputation as a procurer in the English language.] One who caters to the base desires, whims, or prejudices of others.  
 __pandiculation__ _n_ The act of yawning and stretching (as when first waking up).  
@@ -12793,6 +12798,7 @@ __pantry__ _n_ :three::hammer:
 __pants__ _n_  
 __pants-on-fire__  
 __pantsed__ _v_  
+__pap__ _n_ :two: __3__ _slang_ Money and favors obtained as political patronage. __4__ A paparazzo.  
 __papacy__  
 __paper cut__ _n_ (papercut) _He can’t stand the sight of blood, not even from a paper cut._  
 __paper lantern__ _n_ :camera:  
@@ -12833,7 +12839,7 @@ __parapet__ _n_ :two::hammer:
 __paraph__ _n_ A flourish made after or below a signature, originally to prevent forgery.  
 __paraphernalia__ _n_ :six::pencil2::hammer: _Star Wars paraphernalia._  
 __paraphilia__ _n_ :two::hammer:  
-__paraplegia__ _n_ Complete paralysis of the lower half of the body including both legs, usually caused by damage to the spinal cord.  
+__paraplegia__ _n_ :two: Complete paralysis of the lower half of the body including both legs, usually caused by damage to the spinal cord.  
 __parapraxis__ _n_  
 __paraprosdokian__  
 __parasailing__  
@@ -12843,7 +12849,7 @@ __parasympathetic__
 __paratransit__ _adj_ _Paratransit services._  
 __paratrooper__ _n_  
 __parcel<sup>1</sup>__ _n_ :nine::m: __1__ Something wrapped up or packaged; a package. :es: paquete _Delivering mail and small parcels to countries around the world._ _Open up that parcel of books._ __2__ A plot of land, usually a division of a larger area. __3__ A quantity of merchandise offered for sale. __4__ A group or company; a pack: _“this youthful parcel of noble bachelors” (Shakespeare)._ _Never miss a visitor or parcel._  
-__parcel<sup>2</sup>__ _v tr_ :three::hammer:  
+__parcel<sup>2</sup>__ _v tr_ :four::mega::hammer:  
 __parched__ _adj_ :six: /pärcht/ __1__ Dried out from extreme heat: _parched land._ _The dryness will encompass parched California._ __2__ Roasted or dried: _parched rice._ _Quench your parched throat with a long tall cool Yard of Beer._ __3__ Very thirsty: _parched laborers._  
 __Parcheesi__ _n_ :pencil2: A brand-name American adaptation of the Indian cross and circle board game Pachisi. _She politely asks him to go play Parcheesi._  
 __parchment paper__ _n_ :camera:  
@@ -12921,7 +12927,7 @@ __passionate__ _adj_
 __passive-aggressive__ _adj_  
 __Passover__ _n_ :two::hammer:  
 __pasta__  
-__pastiche__ _n_ :three::hammer:  
+__pastiche__ _n_ :four::hammer:  
 __pastime__ _n_ :seven::pencil2: (pastimes) An activity that occupies one’s spare time pleasantly: _Sailing is her favorite pastime._ :es: afición, diversión, pasatiempo  
 __pastoral__ _adj_ :two: Idyllically rustic. _Syn_ arcadian, bucolic _Last I heard he bought a cottage on farmland and now leads a perfectly pastoral existence._ _A pastoral letter._  
 __pastry__ _n_ (pastries) _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
@@ -12932,7 +12938,7 @@ __pat<sup>2</sup>__ _n_ A light touch or stroke.
 __pat<sup>3</sup>__ _adj_ Exactly suited to the occasion. _A pat reply._  
 __pat<sup>4</sup>__ _adj_ Having only superficial plausibility.  
 __pate__ _n_ :five::hammer: _The pate of a monk with a wet red tonsure._ _His grizzled pate shone like tan wax._ _A balding pate._ _His bald pate._  
-__patent leather__ _n_ :two::astonished: Leather with a glossy varnished surface, used chiefly for shoes, belts, and handbags. _Don’t step on my patent leather shoes._ :es: charol  
+__patent leather__ _n_ :three::astonished: Leather with a glossy varnished surface, used chiefly for shoes, belts, and handbags. _Don’t step on my patent leather shoes._ :es: charol  
 __patently__ _adv_ :two: Obviously. _Patently absurd._ _This is patently false._  
 __paterfamilias__ _n_ :astonished: The male head of a household or family, usu. the father.  
 __paternoster__ _n_ _Beads for telling paternosters._  
@@ -12967,12 +12973,12 @@ __patty__ _n_ :four::hammer: (patties) _Two beef patties topped with knockwurst.
 __patty-cake__ _n_ _They can play patty-cake._  
 __paucity__ _n_ :eight: /PAW-suh-tee/ The word paucity means not enough of something. If you’ve got a paucity of good cheer, for example, you’d better cheer up! One good way to remember the meaning of paucity is that it’s a bit like pauper, as in The Prince and the Pauper. The prince had too much money, and the pauper had a paucity. There are a lot of words that mean “little” or “small,” but paucity is used when you mean specifically “not enough” or “too little.” _Syn_ dearth _People in LA don’t understand how New Yorkers can live with such a paucity of space._ _She was made late by broken trains in Brooklyn and a paucity of taxis._ _There was a paucity of detail in the report._  
 __Paulistano__  
-__paunch__ _n_  
+__paunch__ _n_ :two: A protruding abdomen. _Syn_ belly  
 __paunchy__ _adj_  
 __pavers__ _n_  
 __pavilion__ _n_ :four::hammer:  
 __paving stones__  
-__paw__ _v_ _A drunken master paws her._  
+__paw__ _v_ :two::hammer: _A drunken master paws her._  
 __pawn__ _v_ _She pawned her jewelry._  
 __pax vobiscum__ _n_ _phr_ :two: /pæks vəʊˈbɪskʊm/ Peace be with you.  
 __pay dirt__ _n_ :two::hammer:  
@@ -13017,6 +13023,7 @@ __peculiar__ _adj_ :three: /pih-KYOOL-yer/ Peculiar describes people and things 
 __pecuniary__ _adj_ :three::hammer: _Pecuniary benefits._  
 __pedagogue__ _n_ :mega:  
 __pedal boat__ _n_  
+__pedal pushers__ _n pl_  
 __pedantic__ _adj_ :two: Characterized by a narrow, often ostentatious concern for book learning and formal rules. _Syn_ donnish, academic _Pedantic and hypercritical, meddlesome and fault-finding, he was a terror to the clerks under him._  
 __peddle__ _v_ :four: (peddling) __2__ _informal_ To seek to disseminate; give out: _peddling lies._  
 __pedestal__ _n_  
@@ -13052,7 +13059,7 @@ __pellet__ _n_
 __pellucid__ _adj_ Admitting the passage of light; transparent or translucent. _Syn_ transparent, crystal clear, limpid, crystalline, lucid _The water in the fountain, pellucid as crystal, was alive with myriads of gold and silver fishes._  
 __pelorus__ _n_  
 __peloton__ _n_ The main group of riders in a cycle race.  
-__pelt<sup>1</sup>__ _n_ :five::hammer: (pelts)  
+__pelt<sup>1</sup>__ _n_ :six::hammer: (pelts)  
 __pelt<sup>2</sup>__ _v_ :seven::hammer: (pelted, pelting) _The rain pelted the windows._ _Inmates pelting him with objects from above._ _The rain was pelting down._  
 __pen name__ _n_ :two::hammer:  
 __pen<sup>1</sup>__ _n_ _Cricket pen._  
@@ -13089,6 +13096,7 @@ __pent-up__ _adj_ :three::hammer: _Years of pent-up misery._ _Scott let loose a 
 __Pentecostal__  
 __penultimatum__ _n_ /puh-nuhl-tuh-MAY-tuhm/ A demand made before an ultimatum.  
 __penurious__ _adj_ :two: Unwilling to spend money. _Syn_ stingy, parsimonious _When solicited for a donation, the penurious man began to extend a nickel, but, thinking twice, withdrew it._  
+__people pleaser__ _n_  
 __people-watch__ _v intr_ Spend time idly observing people in a public place. _The large glass windows invite you to people-watch over a bottle of wine._  
 __peoples__ _n pl_ :four: A body of persons sharing a common religion, culture, or language: _the peoples of central Asia._  
 __pep talk__ _n_ _Giving Chris Gethard a pep talk._  
