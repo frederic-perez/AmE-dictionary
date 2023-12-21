@@ -1,12 +1,15 @@
 __(and) that’s that__  
 __(down) in the trenches__ :two: The place, situation, or environment in which the most difficult or demanding work takes place.  
 __(one’s) fair share (of something)__  
+__a (whole) host of (something)__ A very large number or collection of people or things.  
 __a broken reed__ An unreliable or unsupportive person.  
+__a night out__ An evening spent having an enjoyable time away from home, as in a restaurant, theater, bar, or other such locations.  
 __all too often__ :two: Too frequently.  
 __all-out__  
 __and counting__ :two::hammer:  
 __and so on and so forth__ And or along with other things of a similar kind; et cetera.  
 __as of now__  
+__at work__ __1__ At one’s place of work. _I’m sorry to call you at work, but this is important._ _She’s at work now. She’ll be home at supper time._ __2__ Working [at something]; busy [with something]. _Tom is presently at work on his project. He’ll be finished in a half hour._  
 __bad sport__ Someone who becomes petulant, disagreeable, or belligerent when they lose.  
 __bald as a coot__ Totally bald.  
 __bank shot__ _sports_ __1__ In basketball, a shot that touches the backboard, then goes into the basket. _Jordan sinks another bank shot for two points, putting the Bulls back in the lead, 89–91._  
@@ -16,8 +19,10 @@ __be in the wrong__ To have done something incorrect or inappropriate.
 __be on the line__ __1__ To be in a state of jeopardy or uncertainty.  
 __behind bars__  
 __behind closed doors__  
-__behind the scenes__  
+__behind the scenes__ :two::hammer:  
 __bow out__ To resign from a competition or election.  
+__breakout moment__ A “breakout moment” is a term used to describe a pivotal point in someone’s career, when they suddenly become much more visible, successful, or well-known.  
+__buckle up__  
 __by all accounts__  
 __case out__ _slang_ To observe and examine someone or something, often to gain knowledge for a specific future purpose. A noun or pronoun can be used between “case” and “out.” _I cased my opponent out in preparation for the big fight._  
 __catch momentum__ The idiom “catch momentum” is used to describe something that is gaining energy and speed, or “catching on” and becoming more popular. For example, if a new restaurant opens and becomes a hit, it can be said that the restaurant is “catching momentum” because it’s gaining popularity and business.  
@@ -25,6 +30,8 @@ __coast along__ To proceed with little effort. _I’m worried that you’re just
 __coast__ To proceed with little effort. Taking it easy or not putting in as much effort as you normally would. _Only once did Michael Jordan try to coast._  
 __cockeyed__ Crazy, stupid, or ridiculous.  
 __come (a)round__  
+__come and go__ (came and went) _The seasons came and went, but the memories of that summer lingered like a sweet melody in her heart._  
+__counterfeit__ _adj, n, v_ :pencil2: /ˈkaʊntəfɪt/ _Counterfeit goods._  
 __cozy up__ Try to get on friendly or intimate terms, ingratiate oneself. _That new woman is always cozying up to one or another club member so she’ll be asked to join._  
 __cross (one’s) mind__ To be thought of by one.  
 __cry-baby__  
@@ -39,9 +46,11 @@ __fall (flat) on (one’s)/its face__
 __fall short__  
 __fallaway jumper__ _basketball_  
 __final nail in the coffin__  
+__flat-footed__  
 __fly under (the/someone’s) radar__  
 __flyboy__ _slang_ A pilot or other member of an air force.  
 __for kicks__  
+__friendly fire__  
 __from jump street__  
 __fruitcake__ __2__ _slang_ Someone who is odd or wacky. _What conspiracy theory is that old fruitcake blathering on about now?_  
 __geez__ A mild expression of surprise, annoyance, anger, disappointment, etc. (A minced oath for “Jesus.”)  
@@ -62,7 +71,10 @@ __go pffft__ It’s basically James Ellroy-speak for something just…fizzling o
 __God forbid__  
 __grapple with (someone or something)__  
 __green sheet__  
+__gun down__  
 __gung-ho__ Exceptionally enthusiastic, eager, or zealous, sometimes overly so.  
+__gut punch__ A “gut punch” is an expression that is typically used to describe a sudden, painful, or shocking experience that leaves a person feeling emotionally or physically drained. It can be used both figuratively and literally to describe something that is unexpectedly hurtful or upsetting.  
+__hand out__  
 __hard to say__ “Hard to say” is an idiomatic expression used to convey uncertainty or a lack of knowledge about something. It means that it’s difficult to predict or determine the outcome or the answer to a question, as the information is incomplete or unknown.  
 __have (got) (someone’s) back__  
 __have a leg up__  
@@ -130,6 +142,7 @@ __jump the gun__
 __jump-start__  
 __keep harping on about (someone or something)__ To continue to discuss, mention, or gripe about someone or something in a very persistent and irritating manner. _My roommate keeps harping on about all the irritating people she works with. I wish she would just find a different job already._  
 __keester__ __1__ In the context of James Ellroy’s novels, “keester” generally means to conceal or hide something in a secret or hidden place. It’s often used in reference to illegal or illicit activities, like hiding contraband or stashing stolen goods. __2__ _n_ A chest; a suitcase. _The old lady was hauling the most enormous keester._ __3__ _n_ The buttocks; the anus. _Get your keester over here!_  
+__kick-start__  
 __know for a fact__ To have definitive knowledge of something.  
 __ladies and gents__  
 __land on (one’s) feet__  
@@ -137,6 +150,7 @@ __lap dog__ :two: __2__ A person who is readily inclined to submit to, seek the 
 __lark__ A frolic, a game; thus _larkiness_, a propensity for such pleasures; also used ironically/negatively.  
 __left and right__  
 __let down__  
+__let’s face it__ We need to recognize the truth; we should face reality.  
 __light on (one’s) feet__  
 __lionhearted__ _adj_  
 __long in the tooth__ Old. Animals’ teeth, especially those of horses, are thought to be an indicator of age. As animals age, their gums recede, and their teeth look longer. _Our poor cat is so long in the tooth that he struggles just walking around the house these days._  
@@ -169,6 +183,7 @@ __nerve-wracking__ :two: (nerve-racking) Causing fear or anxiety.
 __nest egg__  
 __nip and tuck__ :astonished:  
 __nitpicker__  
+__no matter what__ In any conditions; regardless of what happens. _I don’t care if it’s raining, I’m going to the concert no matter what._  
 __no offense taken__  
 __no question about it__ Definitely; for sure. _Look at that foreboding sky. It’s going to rain shortly, no question about it._  
 __no sale__ I reject the request, offer, or plan in question. No.  
@@ -272,6 +287,7 @@ __put upon__
 __putz__ __1__ _n_ _slang_ A stupid, incompetent, or unpleasant person. From Yiddish. _How on earth did those putzes in Washington screw this up so badly?_ __2__ _n_ _vulgar slang_ The penis. From Yiddish. _If he had made decisions with his brain instead of with his putz, maybe his marriage would have survived._  
 __putzo__ :two::hammer:  
 __putzy__ “Putzy” is a term that James Ellroy uses in his novels to describe someone who is incompetent, inept, or otherwise ineffective. It’s a slang term that captures the idea of someone who is struggling to get things done, or who is making a lot of mistakes.  
+__quack__ _n_  
 __Queen of Angels__ :two: It’s a nickname for Los Angeles in James Ellroy’s novels.  
 __quick buck__  
 __rabbit__ _v_ __1__ To run away quickly, usually to escape from something or someone. __2__ To talk excessively or rapidly.  
@@ -312,6 +328,7 @@ __rub someone wrong__
 __ruckus__ A large, uproarious commotion.  
 __rumble on__ To continue at a low but consistent level or degree, especially when no clear conclusion or resolution seems imminent or likely. Said especially of some argument, complaint, debate, discussion, etc. _The issue has been rumbling on in the background of our industry for nearly 10 years now, but we’re still no closer to figuring out a solution to it._  
 __run late__ To be behind schedule; to be a bit late. Typically used in the continuous tense.  
+__safe and sound__ Unharmed and whole or healthy.  
 __sandbag__  
 __sap__ __1__ _slang_ A foolish, naïve, or gullible person. _You’re a bigger sap than I thought if you believe that, Phil._ __3__ _n_ Extreme self-confidence. A shortened form of the word “swagger.” _All the girls want to date him because he’s got swag._ __4__ _adj_ Cool; awesome. _Yeah, that dude’s pretty swag._  
 __schlep__ __3__ _n, slang_ A foolish, bumbling, or incompetent person. From Yiddish. _Jeff is managing the project? That schlep couldn’t manage his own sock drawer._  
@@ -361,6 +378,7 @@ __speak with a forked tongue__
 __spill__ :dart: _informal_ To disclose or divulge (something).  
 __split__ :dart: _slang_ To leave or depart, especially quickly or suddenly. _We’d better split, Tom. We don’t want to miss our flight._  
 __spread like wildfire__ To spread, circulate, or propagate very quickly and widely. Likened to the rapid spread of a literal wildfire. _News of the scandal spread like wildfire across the news outlets._  
+__stand by someone or something__  
 __stand by__  
 __status quo__ :mega: /kwoʊ/  
 __staying power__ The ability to remain relevant, influential, profitable, or successful in the future.  
@@ -398,12 +416,14 @@ __the revolution will be televised__
 __the scoots__ _n_ A case of diarrhea. _Our vacation was ruined by a case of the scoots._  
 __the wild west of (something)__  
 __the Wild West__ __2__ By extension, that which is characterized by a lack of law, order, and regulations; that which is totally untamed and unfettered. Often followed by “of something.“  
+__thick blood__ “Thick blood” can be used to describe someone who is resilient or tough. _He’s got thick blood and can bounce back from anything._  
 __thingamajig__ (thingy) Some tool, gadget, or other such implement the proper name for which is unknown or unremembered.  
 __tied up in knots__ Feeling anxious, stressed, or overwhelmed. It’s often used to describe someone who is struggling to cope with a difficult or confusing situation.  
 __time after time__  
 __time and (time) again__ :two::hammer:  
 __time flies__  
 __toe the line__  
+__top-flight__ Stellar; excellent; of the highest level of quality or worth. Can be used with or without the hyphen when used after a noun.  
 __train wreck__ :dart:  
 __trifle with (someone or something)__ To treat or deal with someone or something in a frivolous or disrespectful manner. Often used in passive constructions.  
 __true to (one’s) word__ As one has promised.  
@@ -411,12 +431,14 @@ __tuff__ :two: In James Ellroy’s novels, the term “tuff” is often used to 
 __turkey__  
 __turn out all right__  
 __turnaround jumper__ _basketball_  
+__turning poin__ A time when things may change; a point at which a change of course is possible or desirable.  
 __twisted__  
 __two peas in a pod__ Two people who are very similar, typically in interests, dispositions, or beliefs.  
 __two-way street__  
 __under the hood__  
 __under-promise and over-deliver__ To avoid raising expectations in order to subsequently exceed them. Used as a strategy to ensure the satisfaction of one’s client, customer, boss, etc. Also spelled without hyphens. _I want all of our customer service representatives to under-promise and over-deliver, so that all experiences with our company are positive ones._  
 __unheard of__ Extremely uncommon or unusual; beyond belief. Hyphenated if used as a modifier before a noun. _His prowess on the balance beam is unheard of._  
+__up and coming__ An _up and coming_ person is someone who is likely to be successful in the future.  
 __up for grabs__  
 __upbeat__ _informal_ Of, inspiring, or exuding cheerfulness, happiness, or optimism.  
 __urban legend__ A myth or piece of folklore that is totally false. _That story about the rats in the sewer being as big as dogs is an urban legend. It’s just not so._  
@@ -432,10 +454,12 @@ __whammo__ It’s basically a slang term for a big, dramatic, or explosive event
 __what else?__ The phrase “what else?” in James Ellroy’s novels typically carries a sense of cynicism, as if the character is resigned to the fact that there is nothing new or unexpected to be found in the world. It often reflects the jaded worldview of the characters in his crime novels, who have seen the worst of humanity and are not easily surprised or impressed. The phrase is often used as a rhetorical question, implying that the speaker already knows the answer, or as a means of brushing off a situation or event as being predictable or mundane.  
 __what gives?__ Used to ask the reason for something.  
 __what it takes__  
+__what’s cooking__  
 __when the rubber hits the road__ The point at which someone’s or something’s efforts, resolve, or viability are put to the test; the point at which things become truly or meaningfully challenging.  
 __whipout__ It’s another slang term that Ellroy uses to describe something that happens quickly and violently. In his books, it can mean a sudden attack, a fast getaway, or even just a quick, sharp response to something.  
 __wingding__ :two::hammer:  
 __wise up__  
+__with a bang__  
 __with flying colors__  
 __within reason__  
 __wrack (one’s) brain(s)__  
