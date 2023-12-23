@@ -1,28 +1,3 @@
-__bordello__ _n_ /bɔrˈdɛl oʊ/ A brothel.  
-__Boxing Day__ _n_ :two::hammer:  
-__dappled__ _adj_ Spotted; mottled.  
-__dowager__ _n_ /ˈdaʊ ə dʒər/  
-__downey__ _adj_  
-__egret__ _n_  
-__fallow__ _n_ _We camped out in fallow fields._  
-__firebird__ _n_ /ˈfaɪəˌbɜːd/ Any of various birds, such as the Baltimore oriole, having bright scarlet or orange plumage.  
-__fox__ _v_  
-__impervious__ _adj_ :dart:  
-__johnnycake__ _n_ /ˈdʒɒn iˌkeɪk/ (johnny cake, journey cake) _Northern U.S._ A flat cake or bread made with cornmeal, usu. cooked on a griddle.  
-__juncture__ _n_  
-__monger__ _n_ __2__ _(in combination)_ A promoter of something unpleasant: _warmonger._  
-__mother-of-pearl__ _n_  
-__ongoing__ _adj_  
-__percolate__ _v_  
-__peremptory__ _adj_ :dart:  
-__permeable__ _adj_ /PER-mee-uh-bul/  
-__peruse__ _v tr_  
-__pester__ _v tr_  
-__petulant__ _adj_ :two::hammer:  
-__philosophy__ _n_ /fɪˈlɒs ə fi/  
-__pier glass__ _n_ A tall mirror, especially one placed between windows.  
-__pilfer__ _v_  
-__pilfered__  
 __pillory__ _v tr_ (pilloried)  
 __pinafore__ _n_  
 __pit<sup>1</sup>__ _n_  

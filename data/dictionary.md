@@ -2025,7 +2025,7 @@ __bop<sup>3</sup>__ _v intr_ :dart: _slang_ To move, go, or proceed. _I just bop
 __borak__ _n_ Rubbish; nonsense.  
 __borborygmi__ _n pl_ :astonished: [:scroll:: From the Greek verb _borboryzein_, which means “to rumble.” It is believed that the Greek verb was coined to imitate the digestive noises made by a stomach.] Bowel noises caused by the gurgling of gas through the almost liquid contents of the small bowel as they are passed along by the process of peristalsis.  
 __bordeline__ _n_ __2__ An indeterminate position between two conditions or qualities: _the borderline between friendship and love._  
-__bordello__  
+__bordello__ _n_ :two: /bɔrˈdɛl oʊ/ A brothel.  
 __border on__ _phr v_ To be very near to a particular quality, feeling, state, etc.  
 __borderline__  
 __bore<sup>1</sup>__ _v_ :three::hammer: (boring) _Boring a tunnel._ _He began throwing two touchdown passes, boring through traffic._ _The interior of the wooden shaft was riddled with the trail of boring insects._  
@@ -2089,6 +2089,7 @@ __bowsprit__ _n_
 __box score__  
 __box__ _n_ :four::hammer: (soccer) _Kyle fouled Ben in the box._ _The Etihad is the last empty box on his list._  
 __boxcars__ _n_ _My best thorw of the die kept coming back boxcars, deuces, and treys._  
+__Boxing Day__ _n_ :two::hammer:  
 __boxwood__ _n_ :two::hammer: /ˈbɒksˌwʊd/ /BOY-kaht/  
 __boy wonder__ _n_ An extremely talented or accomplished boy or young man. _What happened to the boy wonder?_  
 __boycott<sup>1</sup>__ _n_ :astonished::three::mega::hammer: /ˈbɔɪkɒt/  
@@ -4518,7 +4519,7 @@ __dankness__ _n_ :two::hammer:
 __danse macabre__ _n_ (Art Terms) Another name for dance of death.  
 __danseuse__ _n_ A woman who is a ballet dancer.  
 __dapper__ _adj_ :six: (of a man) Neat and trim in dress and appearance. Marked by up-to-dateness in dress and manners. _Syn_ jaunty, natty, raffish, rakish, spiffy, spruce, dashing, snappy _He smiled pleasantly upon her, looking very dapper in evening dress and a silk hat._ _The dapper lead singer._  
-__dappled__ _adj_ :eight: Marked with spots of colour, light, or shade. Having spots or patches of color. _Syn_ mottled _A dappled horse._ _Trees cast their dappled shade._  
+__dappled__ _adj_ :nine: Marked with spots of colour, light, or shade. Having spots or patches of color. _Syn_ mottled _A dappled horse._ _Trees cast their dappled shade._  
 __dare<sup>1</sup>__ _n_ :two: An act of daring; a challenge. _I applied to Harvard on a dare._  
 __dare<sup>2</sup>__ _v_  
 __daredevil__ _n_ :four::hammer: _The daredevils of the group._  
@@ -5364,7 +5365,7 @@ __dove tail__ _v_
 __dove__ _v_  
 __dovecote__ _n_ (dovecot) /DUHV-koht or DUHV-kot/ [:scroll: From dove, from Old English dufe + cote (shelter, coop), from Old English cote.] __1__ A structure with holes for housing domestic pigeons. __2__ A settled group, especially one of a quiet, conservative nature.  
 __dovetail__ _v_ :eight::hammer:  
-__dowager__ _n_ :three::hammer:  
+__dowager__ _n_ :four::hammer: /ˈdaʊ ə dʒər/  
 __dowdy__ _adj_ :two::hammer:  
 __down pat__ _adj_ Understood perfectly. _Sun_ mastered _Cy already had the presentation down pat._  
 __down payment__ _n_ :four: A partial payment made at the time of purchase, with the balance to be paid later. _Syn_ deposit _A down payment for his role as a recruitment of muscle for the operation._  
@@ -5381,6 +5382,7 @@ __downcast__ _adj_ Filled with melancholy and despondency. _Syn_ low-spirited, g
 __downdraft__ _n_ :two: (downdrafts) A downward current, as of air.  
 __downed__ _v_ _Terrorists had downed a Russian plane in October._  
 __downer__ _n_ :four::hammer: (downers)  
+__downey__ _adj_  
 __downhearted__ _adj_  
 __downhill<sup>1</sup>__ _adv_ :camera::three: __1__ Down the slope of a hill. __2__ Toward a lower or worse condition: _The alcoholic’s health went downhill fast._ _David Bowie dead, and it was all downhill from there._  
 __downhill<sup>2</sup>__ _adj_ Sloping downward; descending.  
@@ -5772,7 +5774,7 @@ __egotists__
 __egregious__ _adj_ :nine::m: /ih-GREE-juss/ /ih-gree-juhs, -jee-uhs/ Something that is egregious stands out, but not in a good way — it means “really bad or offensive.” If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game. Extraordinary in some bad way; glaring; flagrant: _an egregious mistake; an egregious liar._  
 __egress<sup>1</sup>__ _n_ :four::hammer:  
 __egress<sup>2</sup>__ _v intr_ :two: To go out; emerge.  
-__egret__ _n_ :six: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
+__egret__ _n_ :seven: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
 __egrote__ _v intr_ /EE-groht/ To feign sickness.  
 __Egyptian eye__ _n_ The term _Egyptian eye_ most frequently refers to the Eye of Horus, which is usually depicted as the left eye and represents healing, protection, and wisdom.  
 __Eid al-Fitr__ _n_ An Islamic festival that begins the day after Ramadan ends.  
@@ -6386,7 +6388,8 @@ __falloff__
 __Fallon, NV__ _n_  
 __fallout__ _n informal_ :nine::m::dart: Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie’s carefully cultivated image._ _The Fukushima fallout._  
 __fallow ground__  
-__fallow__ _adj_ :two: marked by inactivity; plowed unseeded land: _They let the land go fallow for a season._  
+__fallow<sup>1</sup>__ _adj_ :two: marked by inactivity; plowed unseeded land: _They let the land go fallow for a season._  
+__fallow<sup>2</sup>__ _n_ _We camped out in fallow fields._  
 __false flag operation__ _n_ An act committed with the intent of disguising the actual source of responsibility and pinning blame on another party.  
 __false friend__  
 __falsehood__ _n_ :es: falsedad _AI chatbots often present falsehoods as facts and have inconsistent logic, and that can be hard to spot._  
@@ -6693,6 +6696,7 @@ __fire sale__ _n_ :three::hammer:
 __fire-and-brimstone__ _adj_ __1__ (of a sermon, preacher, etc) Zealous, esp in threatening eternal damnation. __2__ Portending future disaster. _He had become a country preacher at the age of fourteen, a regular hellfire-and-brimstoner, but that career was cut short._  
 __fire-eater__ _n_ A belligerent grouch.  
 __fire-engine red__ _adj, n_  
+__firebird__ _n_ /ˈfaɪəˌbɜːd/ Any of various birds, such as the Baltimore oriole, having bright scarlet or orange plumage.  
 __firebrand__ _n_ :two::hammer:  
 __firebrick__ _n_  
 __firebug__ _n_  
@@ -7134,6 +7138,7 @@ __fovea__ _n_
 __fowl<sup>1</sup>__ _n_ :three::hammer: _Access to public lands and water fowl._  
 __fowl<sup>2</sup>__ _v_  
 __fowler__  
+__fox__ _v_  
 __foxholes__ _n_  
 __foxing stains__  
 __foxy__ _adj_ __4__ _slang_ Sexually attractive.  
@@ -9139,7 +9144,7 @@ __imperishable__ _adj_ :astonished: Unceasing. _Syn_ abiding, enduring
 __impermanence__ _n_ :two: The property of not existing for indefinitely long durations. _Syn_ impermanency  
 __impermissible__ _adj_ :two::hammer:  
 __impersonation__  
-__impervious__ _adj_ :nine::m: /ɪmˈpɜːvɪəs, ɪmˈpɜr vi əs/ __1__ Incapable of being penetrated: _a material impervious to water._ __2__ Incapable of being affected: _impervious to fear._ _The donjon was impervious to time._  
+__impervious__ _adj_ :dart::nine::m: /ɪmˈpɜːvɪəs, ɪmˈpɜr vi əs/ __1__ Incapable of being penetrated: _a material impervious to water._ __2__ Incapable of being affected: _impervious to fear._ _The donjon was impervious to time._  
 __impetuous__ _adj_  
 __impetus__ _n_ :seven: /IM-puh-tus/ /ˈɪm pɪ təs/ A force that causes or encourages something to be done or to become more active. _The high salary and generous benefits package were impetus enough to apply for the job._  
 __impinge on/upon somebody/something__ _v_ :two: (impinging) To have a harmful effect on someone or something.  
@@ -9724,6 +9729,7 @@ __John Doe__
 __John Henry__ _n_ /jon HEN-ree/ [:scroll: From the name John Henry, from confusion with John Hancock. Hancock’s signature was the most prominent on the United States Declaration of Independence and his name became a synonym for a signature.] A person’s signature. _Joe scribbled his John Henry on the card._  
 __John Q. Public__ _n_ (John Q., John Q. Citizen)  
 __johnny__ _n_ (johnnies) _Actual voters, not just financiers and think-tank johnnies._  
+__johnnycake__ _n_ /ˈdʒɒn iˌkeɪk/ (johnny cake, journey cake) _Northern U.S._ A flat cake or bread made with cornmeal, usu. cooked on a griddle.  
 __joint__ _n_ A prison, a jail.  
 __jointly__  
 __joist__ _n_ :two::hammer:  
@@ -9790,7 +9796,7 @@ __jumpstar<sup>2</sup>__ _v_ :five: __1__ Start (a car engine whose battery is d
 __jumpsuit__ _n_ :three::hammer: /ˈdʒʌmpˌsut/  
 __jumpy__ _adj_ Nervous, afraid that something bad will happen.  
 __junction__ _n_ :three: A place where roads meet. _At 1st junction turn R & head to E to Hapton on Burnley Road._ _Conjunction junctions._  
-__juncture__ _n_ :eight: /JUNK-cher/ A point in time, esp a critical one (often in the phrase at this juncture). _At this juncture, a president might say, the government must decide whether to go ahead with war or to try to solve things diplomatically._ A juncture is a joint or connection between two things. Originally used in the physical sense, it has broadened in meaning to refer to an often urgent decision-making crossroads. _At some point you and your partner will reach a critical juncture and have to decide whether to get serious or break up._ It can also simply mean “point in time.” _She had never learned how to drive and, at this juncture, she knew she never would._ _Prep football at critical juncture._ _The game is at a critical juncture._  
+__juncture__ _n_ :nine: /JUNK-cher/ A point in time, esp a critical one (often in the phrase at this juncture). _At this juncture, a president might say, the government must decide whether to go ahead with war or to try to solve things diplomatically._ A juncture is a joint or connection between two things. Originally used in the physical sense, it has broadened in meaning to refer to an often urgent decision-making crossroads. _At some point you and your partner will reach a critical juncture and have to decide whether to get serious or break up._ It can also simply mean “point in time.” _She had never learned how to drive and, at this juncture, she knew she never would._ _Prep football at critical juncture._ _The game is at a critical juncture._  
 __Juneteenth__ _n_ :four: June 19, celebrated by African-Americans as the anniversary of the emancipation of slaves in Texas on June 19, 1865.  
 __junior__ _adj_ :two: A person who is a specified number of years younger than someone else. _He’s five years her junior._ _My partner is 15 years my junior and I’m probably going to die before he does._  
 __juniper berries__  
@@ -11475,7 +11481,8 @@ __mondegreen__ _n_ :four::dart: [:scroll: from the Scottish ballad _The Bonny Ea
 __money on the hoof__  
 __money__ _n_ :two::mega::hammer: /ˈmʌnɪ/  
 __moneyed__  
-__monger__ _v_ :seven: (mongering) To disseminate, promote, etc., often in a way that is regarded as deceptive or self-serving. _Hate-mongering._  
+__monger<sup>1</sup>__ _n_ __2__ _(in combination)_ A promoter of something unpleasant: _warmonger._  
+__monger<sup>2</sup>__ _v_ :seven: (mongering) To disseminate, promote, etc., often in a way that is regarded as deceptive or self-serving. _Hate-mongering._  
 __monied__ _v_  
 __monies__ _n_ :pencil2: _Taxpayer monies._  
 __moniker__ _n informal_ :four::hammer:  
@@ -11568,7 +11575,7 @@ __moth__ _n_ :two::hammer:
 __mothball__ _v_ :six:hammer: (mothballed) _The reactor was shut down in 1976, and it was mothballed in 1978._  
 __mother hen__  
 __Mother Hubbard__ _n_ [:scroll: After Mother Hubbard, a character in the nursery rhyme “Old Mother Hubbard”.] A loose shapeless dress for a woman.  
-__mother-of-pearl__ _n_ :es: nácar _Mother-of-pearl inlays._  
+__mother-of-pearl__ _n_ :two::hammer: :es: nácar _Mother-of-pearl inlays._  
 __motif__ _n_ :three::hammer:  
 __motion sickness__ _n_ :dart: Nausea and dizziness induced by motion, as in travel by aircraft, car, or ship. _For one grandson prone to motion sickness, I took some meclizine as well._  
 __motion__ _n_ _Defense attorneys had filed motions._  
@@ -12368,7 +12375,7 @@ __one-stop__ _adj_ :three: Having or providing a range of related services or go
 __onerous__ _adj_ :seven::pencil2::astonished: /AH-nuh-rus/ Onerous means “involving, imposing, or constituting a burden.” It typically describes something that is difficult and unpleasant to do or deal with. _They were assigned the onerous task of post-show cleanup._ _The government imposed onerous taxes on imports._  
 __onesie__ _n_ :four::hammer: _The actor in the Lycra onesie is stealing the _Avengers_ show._  
 __onetime__ _adj_ __1__ Former, sometime. _A onetime actor._ __2__ Occurring only once. _Syn_ one-shot _It’s a onetime thing._  
-__ongoing__ _adj_ :four::hammer: _Ongoing efforts._ _The ongoing research activities,_  
+__ongoing__ _adj_ :five::hammer: _Ongoing efforts._ _The ongoing research activities,_  
 __onionskin__ _n_ /′ən‚yən‚skin/ A thin strong lightweight translucent paper used especially for making carbon copies. _Onionskin pages._ _Onionskin paper._  
 __onlooker__ _n_ :three::hammer: (onlookers)  
 __only problem is__  
@@ -13116,12 +13123,12 @@ __percentile__ _n_ :mega:
 __perceptible__ _adj_ /per-SEP-tuh-bul/ Able to be seen or noticed.  
 __perch<sup>1</sup>__ _n_ :two::hammer: _His perch for 14 years._  
 __perch<sup>2</sup>__ _v_ :seven::hammer: (perched) _The sunglasses were perched on the top of her head._  
-__percolate__ _v_  
+__percolate__ _v_ :two::hammer:  
 __percolation__ _n_  
 __percolator__ _n_  
 __percutaneous__ _adj_ Passed, done, or effected through the skin. _Syn_ transdermal _I simply apply the ointment to my arm, and the medication makes its way into my bloodstream in a process called percutaneous absorption._  
 __perdure__ _v_ _formal_ To last permanently; endure.  
-__peremptory<sup>1</sup>__ _adj_ :four: /puh-REMP-tuh-ree/ __1__ Expressive of urgency or command. _The soldiers were given a peremptory order to abandon the mission._ __2__ Marked by arrogant self-assurance. _The company’s president has a peremptory manner about her especially at the negotiating table._  
+__peremptory<sup>1</sup>__ _adj_ :dart::five: /puh-REMP-tuh-ree/ __1__ Expressive of urgency or command. _The soldiers were given a peremptory order to abandon the mission._ __2__ Marked by arrogant self-assurance. _The company’s president has a peremptory manner about her especially at the negotiating table._  
 __perennial<sup>1</sup>__ _adj_ :six::hammer: /puh-REN-ee-ul/ _A perennial favorite._  
 __perennial<sup>2</sup>__ _n_ :astonished: A plant that lasts for more than two growing seasons.  
 __perf__ _n_ __1__ Perfect. __2__ Perforated. __3__ Performance.  
@@ -13162,6 +13169,7 @@ __Perkins booth__ _n_
 __perks__  
 __perky__ _adj_ _You should be perky until last call._  
 __permafrost__ _n_ :two::hammer:  
+__permeable__ _adj_ /PER-mee-uh-bul/  
 __permeate__ _v_  
 __permed__  
 __permit__ _n_ _Camping permit fee._  
@@ -13189,12 +13197,12 @@ __pertinent__ _adj_ :three::hammer: _The meeting was full of pertinent informati
 __perturbing__ _adj_ Causing distress or worry or anxiety. _Syn_ distressful, disturbing, worrisome _The kindergarten teacher found her student’s erratic behavior to be perturbing, and she resolved to consult with the child’s parents._  
 __pertussis__  
 __perusal__ _n_ :three::hammer:  
-__peruse__ _v_ :five::mega::hammer: (perused)  
+__peruse__ _v tr_ :six::mega::hammer: (perused)  
 __Peruvian__  
 __pervasive__ _adj_ :four::hammer:  
 __pesky__ _adj_ :two::hammer:  
 __pessary__ _n_  
-__pester__ _v_ :three::hammer: (pestered)  
+__pester__ _v tr_ :four::hammer: (pestered)  
 __pestiferous__ _adj_  
 __pestilence__ _n_ :two::hammer:  
 __pet name__ _n_  
@@ -13220,7 +13228,7 @@ __petty cash__ _n_ :two: A small cash fund kept on a firm’s premises for the p
 __petty officer__ _n_ :three::hammer:  
 __petty__ _adj_ :dart::three: Not important and not worth giving attention to. _A petty argument resulted in her son’s murder._ __2__ Complaining too much about things that are not important. _Don’t be so petty._  
 __petulance__  
-__petulant__ _adj_ :eight::mega: Unreasonably irritable or ill-tempered. _Syn_ peevish, testy, cranky, fractious _After their fight, her friend came to make amends, but she was feeling petulant and sulky and ignored him._  
+__petulant__ _adj_ :nine::m:::mega: /ˈpɛtʃ ə lənt/ Unreasonably irritable or ill-tempered. _Syn_ peevish, testy, cranky, fractious _After their fight, her friend came to make amends, but she was feeling petulant and sulky and ignored him._  
 __petulantly__  
 __pew__ _n_ _Church pews._  
 __pewter__ _n_ :four::hammer:  
@@ -13245,6 +13253,7 @@ __philistine__ _n_ A smug, ignorant, especially middle-class person who is regar
 __philistinism__ _n_ A desire for wealth and material possessions with little interest in ethical or spiritual matters. _Syn_ materialism  
 __Philly__ _n_ :four: Philadelphia. _The small-time Philly boxer Rocky Balboa._  
 __philosopher__ _n_ _These people we call philosophers. The word comes from two Greek words, philos loving, sophos wise, and means loving wisdom._  
+__philosophy__ _n_ /fɪˈlɒs ə fi/  
 __philtre__  
 __philtrum__ _n_ :two: __1__ A philter or love potion. __2__ The infranasal depression; the groove in the midline of the upper lip.  
 __phimosis__ _n_ :mega:  
@@ -13313,6 +13322,7 @@ __piecemeal<sup>2</sup>__ _adj_ :four: Accomplished or made in stages. _A piecem
 __Pied Piper__ _n_ _He was to be a new Pied Piper._  
 __pied__  
 __pied-à-terre__ _n_ :two: (pieds-à-terre) A French term meaning foot on the ground, used to mean a house that the owner uses as a secondary home, such as an apartment in town. _Use as pied-à-terre is allowed._  
+__pier glass__ _n_ A tall mirror, especially one placed between windows.  
 __pietist__  
 __pig emoji__ _n_ Since there is no piggy bank emoji, the pig has become a representation of it and money as well.  
 __pig iron__ _n_ :four::hammer: _Pigs of iron._ _Edgerton is a pig-iron and power station historian._  
@@ -13337,7 +13347,7 @@ __pilcrow__ _n_ :two: [:scroll: Apparently an alteration of the word paragraph, 
 __pile bridge__ _n_ :two::hammer:  
 __pile__ _v_ (piling) _There’s a lot of investors piling in._  
 __pileup__  
-__pilfer__ _v_ :three::hammer: (pilfering)  
+__pilfer__ _v_ :five::hammer: (pilfering)  
 __pilfered__ _v_  
 __piling__ _n_ _A deserted cabin built on pilings._  
 __pill caddy__ _n_  
