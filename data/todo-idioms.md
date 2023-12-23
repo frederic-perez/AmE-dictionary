@@ -1,28 +1,3 @@
-__(and) that’s that__  
-__(down) in the trenches__ :two: The place, situation, or environment in which the most difficult or demanding work takes place.  
-__(one’s) fair share (of something)__  
-__a (whole) host of (something)__ A very large number or collection of people or things.  
-__a broken reed__ An unreliable or unsupportive person.  
-__a night out__ An evening spent having an enjoyable time away from home, as in a restaurant, theater, bar, or other such locations.  
-__all over the place__  
-__all too often__ :two: Too frequently.  
-__all-out__  
-__and counting__ :two::hammer:  
-__and so on and so forth__ And or along with other things of a similar kind; et cetera.  
-__as of now__  
-__at work__ __1__ At one’s place of work. _I’m sorry to call you at work, but this is important._ _She’s at work now. She’ll be home at supper time._ __2__ Working [at something]; busy [with something]. _Tom is presently at work on his project. He’ll be finished in a half hour._  
-__back on track__ Continuing as planned or expected, typically after a problem or distraction.  
-__bad sport__ Someone who becomes petulant, disagreeable, or belligerent when they lose.  
-__bald as a coot__ Totally bald.  
-__bank on__  
-__bank shot__ _sports_ __1__ In basketball, a shot that touches the backboard, then goes into the basket. _Jordan sinks another bank shot for two points, putting the Bulls back in the lead, 89–91._  
-__barter with__  
-__be in the know__ _slang_ To be well-informed, especially about a topic that is not widely known.  
-__be in the wrong__ To have done something incorrect or inappropriate.  
-__be on the line__ __1__ To be in a state of jeopardy or uncertainty.  
-__behind bars__  
-__behind closed doors__  
-__behind the scenes__ :two::hammer:  
 __big fat__  
 __bow out__ To resign from a competition or election.  
 __bread__ _slang_ Money.  
