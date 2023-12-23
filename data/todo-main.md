@@ -1,3 +1,18 @@
+__bordello__ _n_ /bɔrˈdɛl oʊ/ A brothel.  
+__Boxing Day__ _n_ :two::hammer:  
+__dappled__ _adj_ Spotted; mottled.  
+__dowager__ _n_ /ˈdaʊ ə dʒər/  
+__downey__ _adj_  
+__egret__ _n_  
+__fallow__ _n_ _We camped out in fallow fields._  
+__firebird__ _n_ /ˈfaɪəˌbɜːd/ Any of various birds, such as the Baltimore oriole, having bright scarlet or orange plumage.  
+__fox__ _v_  
+__impervious__ _adj_ :dart:  
+__johnnycake__ _n_ /ˈdʒɒn iˌkeɪk/ (johnny cake, journey cake) _Northern U.S._ A flat cake or bread made with cornmeal, usu. cooked on a griddle.  
+__juncture__ _n_  
+__monger__ _n_ __2__ _(in combination)_ A promoter of something unpleasant: _warmonger._  
+__mother-of-pearl__ _n_  
+__ongoing__ _adj_  
 __percolate__ _v_  
 __peremptory__ _adj_ :dart:  
 __permeable__ _adj_ /PER-mee-uh-bul/  
@@ -21,11 +36,15 @@ __plodding__ _adj_
 __plummet__ _v tr_ /ˈplʌm ɪt/ To fall straight or sharply down; plunge.  
 __pogrom__ _n_  
 __poison__ _n_ /ˈpɔɪzən/  
+__porthole__ _n_  
 __possum__ _n_ _Possums in New Zealand are known to destroy plants, birds’ nests, and eat birds’ eggs and invertebrates, posing a serious threat to forests and native wildlife._ :es: zarigüeya  
 __Precambrian__ _adj, n_  
 __precipice__ _n_  
+__prediction__ _n_ :mega: /prɪˈdɪk ʃən/  
 __preparedness__ _n_ /prɪˈpɛər ɪd nɪs, -ˈpɛərd nɪs/ The state of being prepared or ready, esp militarily ready for war.  
 __prevail__ _v intr_  
+__pricking__ _n_ _The prickings of memory._ (_Prickings of conscience._ :es: remordimientos)  
+__prime__ _v_  
 __prove__ _v intr_ To be shown to be such; turn out: _a theory that proved impractical in practice; a schedule that proved to be too demanding._  
 __pry__ _v_  
 __psyche__ _n_ /ˈsaɪkɪ/ (Psychology) The human mind or soul.  
@@ -61,9 +80,12 @@ __regency__ _n_
 __register__ _v intr_ __7__ To make an impression; be recorded in the mind: _The warning failed to register._  
 __rehouse__ _v tr_ To provide with new, usually improved housing.  
 __reinstate__ _v tr_ /ˌri ɪnˈsteɪt/  
+__rejoice__ _v_ /rɪˈdʒɔɪs/  
+__relegation__ _n_ :two::hammer:  
 __repercussion__ _n_  
 __reportedly__ _adv_ /rɪˈpɔr tɪd li, -ˈpoʊr-/  
 __resumption__ _n_ The act or an instance of resuming; a beginning again: _resumption of negotiations._  
+__retaliate__ _v_  
 __rewrite__ _n_ __1__ The act or an instance of rewriting. __2__ Something rewritten.  
 __rightfully__  
 __rigmarole__ _n_  
@@ -128,6 +150,7 @@ __sesquipedalian__ _adj, n_
 __sesshin__ _n_  
 __settee__ _n_  
 __Seul__ _n_ :mega:  
+__seven seas__ _n pl_ (Seven Seas)  
 __shackle__ _v_ _Our identities are no longer shackled to a job-for-life._  
 __shady__  
 __shakedown__ _n_ :two: An act of extortion. (Underworld.) _Mary was giving Bruno the shakedown, so he tried to put her out of the way._  
@@ -177,6 +200,7 @@ __snarky__ _adj_ :two: _informal_ Unpleasant and scornful.
 __sniveling__ _n_ Whining in a tearful manner . _Syn_ snivel  
 __snooker<sup>1</sup>__ _n_  
 __snooker<sup>2</sup>__ _v tr_ _slang_ To deceive.  
+__solace__ _n_ :mega: /ˈsɒl ɪs/  
 __spiteful__ _adj_ Filled with, prompted by, or showing spite; malicious.  
 __spittoon__ _n_  
 __split__ _v_ _Women who have split from a relationship._  
@@ -332,6 +356,7 @@ __write-up__ _n_
 __wrongdoing__ _n_  
 __wrung__ _v_ _They have wrung their hands._  
 __yammering__  
+__yawp__ _n_ /jɔːp/ _A pure yawp of joy._  
 __yellow jacket__ _n_ __1__ _slang_ A barbiturate (trade name Nembutal) used as a sedative and hypnotic and anti-spasmodic. __2__ Any of several social wasps of the genus Vespa, having yellow markings on the body.  
 __yelp__ _v_  
 __yin and yang__  
