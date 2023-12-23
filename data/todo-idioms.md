@@ -4,14 +4,17 @@ __(one’s) fair share (of something)__
 __a (whole) host of (something)__ A very large number or collection of people or things.  
 __a broken reed__ An unreliable or unsupportive person.  
 __a night out__ An evening spent having an enjoyable time away from home, as in a restaurant, theater, bar, or other such locations.  
+__all over the place__  
 __all too often__ :two: Too frequently.  
 __all-out__  
 __and counting__ :two::hammer:  
 __and so on and so forth__ And or along with other things of a similar kind; et cetera.  
 __as of now__  
 __at work__ __1__ At one’s place of work. _I’m sorry to call you at work, but this is important._ _She’s at work now. She’ll be home at supper time._ __2__ Working [at something]; busy [with something]. _Tom is presently at work on his project. He’ll be finished in a half hour._  
+__back on track__ Continuing as planned or expected, typically after a problem or distraction.  
 __bad sport__ Someone who becomes petulant, disagreeable, or belligerent when they lose.  
 __bald as a coot__ Totally bald.  
+__bank on__  
 __bank shot__ _sports_ __1__ In basketball, a shot that touches the backboard, then goes into the basket. _Jordan sinks another bank shot for two points, putting the Bulls back in the lead, 89–91._  
 __barter with__  
 __be in the know__ _slang_ To be well-informed, especially about a topic that is not widely known.  
@@ -20,7 +23,9 @@ __be on the line__ __1__ To be in a state of jeopardy or uncertainty.
 __behind bars__  
 __behind closed doors__  
 __behind the scenes__ :two::hammer:  
+__big fat__  
 __bow out__ To resign from a competition or election.  
+__bread__ _slang_ Money.  
 __breakout moment__ A “breakout moment” is a term used to describe a pivotal point in someone’s career, when they suddenly become much more visible, successful, or well-known.  
 __buckle up__  
 __by all accounts__  
@@ -43,16 +48,21 @@ __elephant in the room__
 __enmesh in (something)__  
 __fairy godmother__ __1__ In children’s fairy tales, a woman with magical powers who appears in order to help others in their time of need. _Cinderella’s fairy godmother helped her get ready for the ball so she could meet Prince Charming._ __2__ Someone who helps others with their problems, usually providing financial assistance. _Thank you so much for helping me with my car repair bill! You are my fairy godmother._  
 __fall (flat) on (one’s)/its face__  
+__fall into (someone’s or something’s) hands__ To come into the possession of some person, group, organization, etc., especially when it is undesirable or detrimental to someone else. _If this report falls into the media’s hands, you can expect a full-blown scandal._  
 __fall short__  
 __fallaway jumper__ _basketball_  
+__fast and furious__  
 __final nail in the coffin__  
 __flat-footed__  
 __fly under (the/someone’s) radar__  
 __flyboy__ _slang_ A pilot or other member of an air force.  
 __for kicks__  
+__fox__ _n_ __1__ A sly, crafty person. __2__ _slang_ Someone who is very sexually attractive.  
 __friendly fire__  
 __from jump street__  
 __fruitcake__ __2__ _slang_ Someone who is odd or wacky. _What conspiracy theory is that old fruitcake blathering on about now?_  
+__fuzz__ :two: _slang_ The police. _Come on, we’ve got to get out of here before the fuzz show up and bust us!_  
+__game-changer__ :dart:  
 __geez__ A mild expression of surprise, annoyance, anger, disappointment, etc. (A minced oath for “Jesus.”)  
 __geeze (up)__ To inject narcotics. _They fed a spike. They tied off tourniquets. They geezed._  
 __get (one’s) hands on (something)__ Obtain something that you want or need very much. _This is all about OpenAI getting their hands on more data._  
@@ -71,6 +81,7 @@ __go pffft__ It’s basically James Ellroy-speak for something just…fizzling o
 __God forbid__  
 __grapple with (someone or something)__  
 __green sheet__  
+__grind to a halt__ To halt progression very abruptly, especially in an ultimately detrimental or undesirable manner. Likened to a machine or automobile that stops functioning due to the grinding of gears. _Our project will grind to a halt if the CEO pulls his approval._  
 __gun down__  
 __gung-ho__ Exceptionally enthusiastic, eager, or zealous, sometimes overly so.  
 __gut punch__ A “gut punch” is an expression that is typically used to describe a sudden, painful, or shocking experience that leaves a person feeling emotionally or physically drained. It can be used both figuratively and literally to describe something that is unexpectedly hurtful or upsetting.  
@@ -123,6 +134,7 @@ __heads up__
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
 __here and there__  
 __hidden agenda__ A secret goal or an ulterior motive.  
+__high stakes__ If you have high stakes in something such as a venture or decision, you have a major interest in its outcome.  
 __highball__ To make an estimate which tends toward exaggeration. _Highball an offer._  
 __hit a wall__  
 __hit or miss__ _adj_ Sometimes good or successful, sometimes not; having mixed or unpredictable results; random, aimless, careless, or haphazard. Often hyphenated.  
@@ -131,24 +143,27 @@ __hoof it__ _informal_ To walk. _If nobody gives us a ride, we’ll have to hoof
 __hoofing__ Walking.  
 __I don’t belong here__ The idiom “I don’t belong here” is a common phrase used to express a feeling of not fitting in or not being in the right place or situation. It conveys a sense of discomfort, alienation, or a lack of connection with one’s surroundings or the people around them.  
 __I hear you__  
+__I wasn’t born yesterday__ Used to indicate that you are not foolish or gullible.  
 __in (one’s) own right__  
 __in a tizz(y)__ In a nervous, confused, agitated, or excited state.  
 __in earnest__ With sincere intentions.  
 __in short order__ :dart: Quickly, efficiently, and without any delays.  
 __in the face of (something)__  
+__in the know__  
 __into overdrive__  
 __it is what it is__  
 __jump the gun__  
 __jump-start__  
 __keep harping on about (someone or something)__ To continue to discuss, mention, or gripe about someone or something in a very persistent and irritating manner. _My roommate keeps harping on about all the irritating people she works with. I wish she would just find a different job already._  
 __keester__ __1__ In the context of James Ellroy’s novels, “keester” generally means to conceal or hide something in a secret or hidden place. It’s often used in reference to illegal or illicit activities, like hiding contraband or stashing stolen goods. __2__ _n_ A chest; a suitcase. _The old lady was hauling the most enormous keester._ __3__ _n_ The buttocks; the anus. _Get your keester over here!_  
-__kick-start__  
+__kick-start__ :two::hammer:  
 __know for a fact__ To have definitive knowledge of something.  
 __ladies and gents__  
 __land on (one’s) feet__  
 __lap dog__ :two: __2__ A person who is readily inclined to submit to, seek the favor of, or agree with someone else, especially a person of higher authority. _It sickens me to see you be a lap dog of your boss like that. Have a little self-respect!_  
 __lark__ A frolic, a game; thus _larkiness_, a propensity for such pleasures; also used ironically/negatively.  
 __left and right__  
+__legend has it__ “Legend has it” is a phrase used to introduce a story that is traditionally regarded as true, but which may not be verifiable or historically accurate.  
 __let down__  
 __let’s face it__ We need to recognize the truth; we should face reality.  
 __light on (one’s) feet__  
@@ -240,6 +255,7 @@ __pillow talk__ Intimate conversations between two people in a romantic relation
 __pisser__  
 __plastered__ :three: _adj_ _slang_ Intoxicated; drunk.  
 __play around__  
+__play it safe__  
 __play with fire__  
 __plea bargain__ To agree to plead guilty, especially to a lesser criminal offense, in exchange for some concession from the prosecution, such as dismissal of more serious charges.  
 __plea deal__ Plea bargain.  
@@ -298,9 +314,10 @@ __rain check__
 __rainbows and unicorns__ Innocent, carefree happiness. Often used in negative constructions to indicate the opposite.  
 __raise the bar__ To raise the standards of quality that are expected of or required for something.  
 __raise the stakes__  
-__rake in (something)__ To acquire or accumulate an abundance of something, especially money.  
-__ramp up__ To increase. A noun or pronoun can be used between “ramp” and “up.” _Ever since that break-in, they’ve really ramped up security at the office._  
+__rake in (something)__ :two: To acquire or accumulate an abundance of something, especially money.  
+__ramp up__ :two: To increase. A noun or pronoun can be used between “ramp” and “up.” _Ever since that break-in, they’ve really ramped up security at the office._  
 __rank and file__  
+__rat fink__  
 __rat race__ :two::hammer:  
 __ratchet up__  
 __rave about (something)__ To give wildly enthusiastic praise for something.  
@@ -366,6 +383,7 @@ __skyhook__
 __slob__  
 __smear (one’s) name__ To disparage one publicly, especially to the detriment of one’s reputation.  
 __sneak peek__  
+__sneak up (on someone or something)__  
 __snookered__ /ˈsnʊkɚd/ _mod_ __1__ Cheated; deceived. _I was snookered skillfully and quickly. It was almost a pleasure._ __2__ _slang_ Drunk.  
 __snout__ __4__ _slang_ A person’s nose.  
 __snuff (one)__ _slang_ To kill one. _He was planning on going to the police, but the criminals snuffed him before he had the chance._ _Tragically, he was snuffed in his prime by cancer._  
@@ -424,6 +442,7 @@ __time and (time) again__ :two::hammer:
 __time flies__  
 __toe the line__  
 __top-flight__ Stellar; excellent; of the highest level of quality or worth. Can be used with or without the hyphen when used after a noun.  
+__touch up__ :dart::two::hammer: _You need to touch up your hair color._  
 __train wreck__ :dart:  
 __trifle with (someone or something)__ To treat or deal with someone or something in a frivolous or disrespectful manner. Often used in passive constructions.  
 __true to (one’s) word__ As one has promised.  
@@ -432,6 +451,7 @@ __turkey__
 __turn out all right__  
 __turnaround jumper__ _basketball_  
 __turning poin__ A time when things may change; a point at which a change of course is possible or desirable.  
+__turning point__  
 __twisted__  
 __two peas in a pod__ Two people who are very similar, typically in interests, dispositions, or beliefs.  
 __two-way street__  
@@ -445,6 +465,7 @@ __urban legend__ A myth or piece of folklore that is totally false. _That story 
 __vamoose__ :two::hammer: (vamoosed)  
 __wait for it__  
 __wake-up call__  
+__walk in the park__ _Major depression—and especially treatment-resistant depression—is no walk in the park._  
 __walk the walk__  
 __walk through__  
 __war chest__ A financial reserve collected and maintained for specific political purposes, especially election campaigns. _The party has been able to strengthen its war chest ahead of the midterm elections, thanks to huge donations from across the tech sector._  
@@ -457,6 +478,7 @@ __what it takes__
 __what’s cooking__  
 __when the rubber hits the road__ The point at which someone’s or something’s efforts, resolve, or viability are put to the test; the point at which things become truly or meaningfully challenging.  
 __whipout__ It’s another slang term that Ellroy uses to describe something that happens quickly and violently. In his books, it can mean a sudden attack, a fast getaway, or even just a quick, sharp response to something.  
+__why on earth__  
 __wingding__ :two::hammer:  
 __wise up__  
 __with a bang__  
