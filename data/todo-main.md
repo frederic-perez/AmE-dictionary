@@ -1,3 +1,21 @@
+__barnacled__ _adj_ _His nose was barnacled with spots._  
+__battlement__ _n_  
+__blossom__ _n_  
+__bloviate__ _v tr_ [:scroll: Mock-Latinate formation, from _blow_.]  
+__buckskin__ _n_ :es: ante  
+__bullet__ _n_ /ˈbʊl ɪt/  
+__ceasefire__ _n_ /ˈsiːsfaiə(r)/  
+__coverage__ _n_ :mega: /ˈkʌv ər ɪdʒ, ˈkʌv rɪdʒ/  
+__disingenuous__ _adj_ :dart: Lacking in frankness, candor, or sincerity; insincere.  
+__fiend__ _n_  
+__filly__ _n_ /ˈfɪlɪ/  
+__formaldehyde__ _n_  
+__gobble__ _v_  
+__highbinder__ _n_ /ˈhaɪˌbaɪndə/ __1__ A gangster. __2__ A corrupt politician.  
+__knight errant__ _n_ A knight who wanders in search of deeds of courage, chivalry, etc.  
+__mosey__ _v intr_  
+__nacre__ _n_ /ˈneɪkə/ The technical name for mother-of-pearl.  
+__pad__ _v_  
 __pillory__ _v tr_ (pilloried)  
 __pinafore__ _n_  
 __pit<sup>1</sup>__ _n_  
@@ -64,9 +82,11 @@ __retaliate__ _v_
 __rewrite__ _n_ __1__ The act or an instance of rewriting. __2__ Something rewritten.  
 __rightfully__  
 __rigmarole__ _n_  
+__road map__ _n_ :pencil2:  
 __robe__ _n_  
 __rubbing__ _n_  
 __rue__ _v_  
+__ruffle__ _n_  
 __rumpled__ _adj_ _A rumpled voice._  
 __run sheet__  
 __running dog__ _n_ A servile follower or lackey. :es: perro faldero  
@@ -152,6 +172,7 @@ __simulacrum__
 __sine die__ _adv_ Without a day specified for a future meeting; indefinitely: _Parliament was dismissed sine die._  
 __sinew__ _n_  
 __single-handedly__  
+__singsong__ _n_  
 __singsong<sup>1</sup>__ _adj_ _Singsong cantillation._  
 __singsong<sup>2</sup>__ _n_  
 __siphon__ _v tr_ __2__ To take or transfer (something), often illicitly: _siphon money from an account; siphon customers from a competitor._  
@@ -175,6 +196,7 @@ __snarky__ _adj_ :two: _informal_ Unpleasant and scornful.
 __sniveling__ _n_ Whining in a tearful manner . _Syn_ snivel  
 __snooker<sup>1</sup>__ _n_  
 __snooker<sup>2</sup>__ _v tr_ _slang_ To deceive.  
+__sobering__ _adj_  
 __solace__ _n_ :mega: /ˈsɒl ɪs/  
 __spiteful__ _adj_ Filled with, prompted by, or showing spite; malicious.  
 __spittoon__ _n_  
@@ -190,6 +212,7 @@ __steno__ _n informal_ _US and Canadian_ Short for stenographer. _Steno pad and 
 __stenos__  
 __stenotic__ _adj_ _Stenotic burden._  
 __stentorian__  
+__stephanotis__ _n_ _A sprig of stephanotis._  
 __steppe__ _n_ /stɛp/  
 __stepping stone__  
 __stepwise__ _adj_ :two::hammer: _An optimal stepwise upgrade strategy._  
@@ -225,6 +248,7 @@ __sweltering__ _adj_
 __Syracuse__ _n_ :mega: /ˈsɪr əˌkyus, -ˌkyuz/  
 __Tahiti__ _n_ :mega: /təˈhi ti, tɑ-/  
 __talkie__ _n_ _informal_ An early film with a soundtrack. Full name: _talking picture_.  
+__taper__ _n_  
 __tarnish__ _v_  
 __taunt__  
 __televise__ _v_ To broadcast or be broadcast by television.  
@@ -272,6 +296,7 @@ __ukulele__ _n_ :pencil2:
 __unclear__ _adj_  
 __undercut__  
 __unfettered__ _adj_ /ʌnˈfɛtəd/  
+__unfold__ _v_  
 __uni__ _n_ /ˈjuːnɪ/ _informal_ Short for university.  
 __unpack__  
 __unravel__ _v_ /ʌnˈrævəl/  
@@ -302,7 +327,8 @@ __waver__ _v_
 __waxing__ _v_  
 __wayward__  
 __weaponize__  
-__weasel__ _v_  
+__weasel<sup>1</sup>__ _n_ :es: comadreja  
+__weasel<sup>2</sup>__ _v intr_  
 __weather__ _v tr_ __3__ To come through (something) safely; survive: _weather a crisis._  
 __weeping__ _adj_ :astonished: __1__ Tearful. __2__ Dripping or oozing liquid. __3__ Having slender, drooping branches. _Weeping willow._  
 __wellbeing__ _n_ :pencil2:  
