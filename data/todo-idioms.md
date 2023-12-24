@@ -1,4 +1,6 @@
+__barnacled__ _adj_  
 __big fat__  
+__bookie__ One who collects bets and pays those who win. A shortening of “bookmaker.”  
 __bow out__ To resign from a competition or election.  
 __bread__ _slang_ Money.  
 __breakout moment__ A “breakout moment” is a term used to describe a pivotal point in someone’s career, when they suddenly become much more visible, successful, or well-known.  
@@ -27,15 +29,18 @@ __fall into (someone’s or something’s) hands__ To come into the possession o
 __fall short__  
 __fallaway jumper__ _basketball_  
 __fast and furious__  
+__filch (something)__ To steal something.  
 __final nail in the coffin__  
 __flat-footed__  
 __fly under (the/someone’s) radar__  
 __flyboy__ _slang_ A pilot or other member of an air force.  
 __for kicks__  
+__fotostat__ “Fotostat” is a term that James Ellroy uses in his novels to refer to a type of photocopying machine that was popular in the mid-20th century. It’s short for “photo-stat,” which is a combination of the words “photo” and “stat,” short for “statistical.”  
 __fox__ _n_ __1__ A sly, crafty person. __2__ _slang_ Someone who is very sexually attractive.  
 __friendly fire__  
 __from jump street__  
 __fruitcake__ __2__ _slang_ Someone who is odd or wacky. _What conspiracy theory is that old fruitcake blathering on about now?_  
+__futz__ _v_ In James Ellroy’ novels, “futz” is a verb that means to waste time, to mess around, or to fiddle with something without really accomplishing anything. It’s often used to describe a character who is procrastinating or avoiding doing something important or necessary.  
 __fuzz__ :two: _slang_ The police. _Come on, we’ve got to get out of here before the fuzz show up and bust us!_  
 __game-changer__ :dart:  
 __geez__ A mild expression of surprise, annoyance, anger, disappointment, etc. (A minced oath for “Jesus.”)  
@@ -45,6 +50,7 @@ __get in(to) (one’s) pants__ _vulgar slang_ To have sex with one. (Usually sai
 __get smart (with one)__ To make disrespectful comments to one; to sass one. _Just take out the trash like I asked you to, and don’t get smart with me._  
 __get the drift__  
 __get under (one’s) skin__ :two: __2__ Obsess someone or affect someone’s deep feelings, as in _Jean’s really gotten under his skin; he misses her terribly._ Cole Porter used this sense in his love song, “I’ve Got You Under My Skin” (1936).  
+__give (oneself) away__ To reveal or make known—usually unintentionally—something about oneself, such as one’s actions, intentions, ideas, guilt, etc.  
 __give it a whirl__ To try something (often for the first time as a means of forming an opinion about it).  
 __glitch__ _A phone glitch._  
 __go (off) on a tangent__ To begin addressing or discussing a topic or topics not relevant to the main discussion.  
@@ -132,7 +138,7 @@ __jump-start__
 __keep harping on about (someone or something)__ To continue to discuss, mention, or gripe about someone or something in a very persistent and irritating manner. _My roommate keeps harping on about all the irritating people she works with. I wish she would just find a different job already._  
 __keester__ __1__ In the context of James Ellroy’s novels, “keester” generally means to conceal or hide something in a secret or hidden place. It’s often used in reference to illegal or illicit activities, like hiding contraband or stashing stolen goods. __2__ _n_ A chest; a suitcase. _The old lady was hauling the most enormous keester._ __3__ _n_ The buttocks; the anus. _Get your keester over here!_  
 __kick-start__ :two::hammer:  
-__know for a fact__ To have definitive knowledge of something.  
+__know for a fact__ :two: To have definitive knowledge of something.  
 __ladies and gents__  
 __land on (one’s) feet__  
 __lap dog__ :two: __2__ A person who is readily inclined to submit to, seek the favor of, or agree with someone else, especially a person of higher authority. _It sickens me to see you be a lap dog of your boss like that. Have a little self-respect!_  
@@ -146,10 +152,14 @@ __lionhearted__ _adj_
 __long in the tooth__ Old. Animals’ teeth, especially those of horses, are thought to be an indicator of age. As animals age, their gums recede, and their teeth look longer. _Our poor cat is so long in the tooth that he struggles just walking around the house these days._  
 __loom large__ To seem imminent and cause worry or unease.  
 __loopy__ _slang_ Feeling or showing the effects of taking drugs or alcohol. _I only had a couple glasses of wine with my lunch, but I was a bit loopy by the time we left the restaurant._  
+__loosey-goosey__  
 __lose out__ __1__ To miss the chance or opportunity to do something. _Because I was so sick last week, I lost out on the chance to see my sister while she was in town._  
+__lovestruck__ Consumed with or overwhelmed by romantic feelings (for someone).  
 __lowball__ _Lowball an offer._  
 __lox__ James Ellroy uses a lot of slang and abbreviations in his novels, and “lox” is one of them! It stands for “louse,” which is a derogatory term for someone who is a loser or a lowlife.  
 __Lucky 13__ “Lucky 13” in Elmore Leonard’s novels refers to the 13th Street gang, a group of criminals who play a significant role in several of his works.  
+__lug<sup>1</sup>__ _n_ In James Ellroy’s novels, “lug” is a term used to refer to a person, usually a man, who is tough, strong, and maybe a little slow-witted. It’s often used in a slightly derogatory way to describe someone who’s not very sophisticated or intelligent, but is still physically imposing and intimidating.  
+__lug<sup>2</sup>__ _v_ In James Ellroy’s novels, “lug” can also be used as a verb, and it means to carry or move something heavy or cumbersome with effort. It’s often used to describe a character physically dragging or hauling something, like a body or a heavy bag of evidence.  
 __magpie__  
 __mainline__ _n_ __2__ _slang_ An accessible vein that can be used to inject a narcotic.  
 __make (one’s)/the rounds__ :two::hammer:  
@@ -167,6 +177,7 @@ __miss out on (something)__ To lose the chance or opportunity to do or experienc
 __modus operandi__ :mega: /ˈməʊdəs ˌɒpəˈrændiː; -ˈrændaɪ/  
 __more so__  
 __mud-shark__ In the novels by James Ellroy, the term “mud-shark” is used to refer to a type of predatory behavior, often associated with characters who engage in morally questionable or criminal activities. The term “mud-shark” is symbolic of the predatory nature of certain characters, reflecting their willingness to exploit others for personal gain or pleasure.  
+__nab__ To catch and arrest someone. Often used in passive constructions.  
 __neck and neck__  
 __nerve-racking__ (nerve-wracking) Causing fear or anxiety.  
 __nerve-wracking__ :two: (nerve-racking) Causing fear or anxiety.  
@@ -303,6 +314,7 @@ __regardless of (something)__
 __rep__ __2__ _n_ A shortening of “reputation.”  
 __riffle__ :two: In James Ellroy’s novels, “riffle” is a verb that means to search quickly through something, usually a pile of papers or documents. It implies a sense of urgency and impatience, as if the person doing the riffling is searching for something important and doesn’t have time to waste.  
 __riffraff__ Undesirable, disreputable, or vulgar people, often used in a condescending manner. _I wouldn’t be seen in a place like that, there’s a lot of riffraff that hang out around there._  
+__ring of Venus__ In James Ellroy’s novels, the “ring of Venus” is a term used to describe a secret society or network of powerful people who engage in corrupt or illegal activities. It’s usually presented as a shadowy and mysterious organization that operates behind the scenes, pulling the strings of government, business, and society.  
 __ring-a-ding-ding__ The idiom “ring-a-ding-ding” generally means something that’s super exciting or energetic! It’s often used to describe things like parties, events, or even certain types of music. In a way, it’s kind of like saying “it’s a real hoot” or “it’s a blast!”  
 __ripple effect__  
 __rizz<sup>1</sup>__ _n_ Romantic appeal or charm. _A bro who has rizz._  
@@ -315,6 +327,7 @@ __round and round__ :two: (around and around) In circles.
 __round something out__  
 __roundhouse__  
 __roust sheets__ “Roust sheets” is a term used in James Ellroy’s novels to refer to arrest records. It’s basically a list of people who have been arrested and charged with a crime.  
+__rub it in__  
 __rub off on (someone)__ _I’m trying hard to not let his stress rub off on me._  
 __rub someone wrong__  
 __ruckus__ A large, uproarious commotion.  
@@ -323,8 +336,10 @@ __run late__ To be behind schedule; to be a bit late. Typically used in the cont
 __safe and sound__ Unharmed and whole or healthy.  
 __sandbag__  
 __sap__ __1__ _slang_ A foolish, naïve, or gullible person. _You’re a bigger sap than I thought if you believe that, Phil._ __3__ _n_ Extreme self-confidence. A shortened form of the word “swagger.” _All the girls want to date him because he’s got swag._ __4__ _adj_ Cool; awesome. _Yeah, that dude’s pretty swag._  
+__save on__  
 __schlep__ __3__ _n, slang_ A foolish, bumbling, or incompetent person. From Yiddish. _Jeff is managing the project? That schlep couldn’t manage his own sock drawer._  
 __schtick__  
+__scooch__ _v_ /skutʃ/  
 __scoop__  
 __scoot__ :two: __1__ _v intr_ To run or scurry quickly from one place to another. _I scooted from the bank to the cleaners and then on to the dentist’s._ __2__ _n_ A motorcycle. _Do you wear a brain-bucket on your scoot?_  
 __screw up__ :dart: __5__ _n_ A huge mistake, blunder, or mishandling. In this usage, the phrase is usually hyphenated or spelled as one word. _Another screwup like that and you’re fired!_ _I don’t care whose screw-up it was—just fix it!_  
@@ -340,19 +355,22 @@ __shafted__ _slang_ Cheated or swindled; unfairly deprived or taken advantage of
 __shag (off)__ _slang_ To depart. _I gotta shag. It’s late. Go on! Shag off! I gotta shag. Somebody’s calling my name._  
 __shagged out__ _slang_ Exhausted. _What a day! I’m shagged out!_ _You guys look sort of shagged out._  
 __shake down__ __1__ 1. verb To blackmail someone for money; to extort someone. A noun or pronoun is often used between “shake” and “down.” _I shook down him for twenty thou._  
+__shank<sup>1</sup>__ _n, slang_ A homemade or makeshift cutting or stabbing weapon, especially one fashioned in prison.  
+__shank<sup>2</sup>__ _v, slang_ To stab or cut (someone) with such a weapon.  
 __shantytown__  
 __shellac__ (shellack) __4__ _US, slang_ __a__ To beat. __b__ To defeat decisively.  
 __shit sandwitch__ Playful term much like the traditional “stuck between a rock and a hard place.”  
 __shitbird__ It’s used in James Ellroy’s novels to describe someone who’s particularly slimy, dishonest, or untrustworthy - the kind of person who’ll do anything to get ahead, regardless of who they hurt or deceive along the way.  
 __shitheel__ Oh man, “shitheel” is a doozy - a real gem of vulgarity in Ellroy’s writing. It’s basically a very, very rude way of referring to someone who’s a lowlife, a scoundrel, or just generally a bad person. In Ellroy’s world, it’s often used to describe corrupt cops, sleazy gangsters, or anyone else who’s part of the seedy underworld of crime and corruption.  
 __shy away (from someone or something)__  
+__sick twist__ :four: “Sick twist” is a term that James Ellroy uses in his novels to describe a disturbing or perverted turn of events. It’s used to describe something that is twisted or warped, often in a way that is both unsettling and fascinating.  
 __silver lining__  
 __simply put__  
 __sit shiva__ _Judaism_ To mourn for a period of seven days following the funeral of a close relative. _To sit shiva for the dead._  
 __six ways from (next) Sunday__ Askew, at an angle.  
 __six ways to Sunday__ _adj_ Askew, at an angle.  
 __skate__  
-__skeevy__ Offensively or unscrupulously repellant, repugnant, or disreputable.  
+__skeevy__ :two: Offensively or unscrupulously repellant, repugnant, or disreputable.  
 __skin flute__ _vulgar, slang_ A penis.  
 __skyhook__  
 __slob__  
@@ -369,6 +387,7 @@ __something of a (something)__ Having a lot of qualities like or associated with
 __soul searching__ :two::hammer:  
 __speak with a forked tongue__  
 __spill__ :dart: _informal_ To disclose or divulge (something).  
+__spiral__ _v intr_ To increase continually.  
 __split__ :dart: _slang_ To leave or depart, especially quickly or suddenly. _We’d better split, Tom. We don’t want to miss our flight._  
 __spread like wildfire__ To spread, circulate, or propagate very quickly and widely. Likened to the rapid spread of a literal wildfire. _News of the scandal spread like wildfire across the news outlets._  
 __stand by someone or something__  
@@ -383,6 +402,7 @@ __strike a deal__ :two: To successfully achieve a deal or agreement, especially 
 __studette__ The female version of a stud. A girl that can get any guy she wants, is incredibly good looking, has an amazing personality and is overall awesome at life.  
 __suck it up__ :dart:  
 __suck up to (one)__  
+__sure thing__  
 __swag__ :two::hammer: _slang_ __1__ _n_ Stolen goods or money; loot. _Come on, show us the swag you scored from the jewelry shop!_  
 __swamped__ :dart: Extremely busy, to the point of being overwhelmed, overburdened, or overworked.  
 __swear by (someone or something)__  
@@ -451,7 +471,9 @@ __what else?__ The phrase “what else?” in James Ellroy’s novels typically 
 __what gives?__ Used to ask the reason for something.  
 __what it takes__  
 __what’s cooking__  
+__wheel man__ The driver of an escape vehicle during some kind of crime, especially a robbery. Sometimes spelled as a single word.  
 __when the rubber hits the road__ The point at which someone’s or something’s efforts, resolve, or viability are put to the test; the point at which things become truly or meaningfully challenging.  
+__whipcrack__ “Whipcrack” is a term that James Ellroy uses in his novels to describe a fast, sharp, and sudden action or event. It’s used to evoke a sense of speed, intensity, and urgency.  
 __whipout__ It’s another slang term that Ellroy uses to describe something that happens quickly and violently. In his books, it can mean a sudden attack, a fast getaway, or even just a quick, sharp response to something.  
 __why on earth__  
 __wingding__ :two::hammer:  
@@ -461,5 +483,6 @@ __with flying colors__
 __within reason__  
 __wrack (one’s) brain(s)__  
 __XYZ__ In spoken language, “XYZ” is often used to refer to hypothetical or unspecified elements, variables, or situations.  
+__yap__ __2__ To chatter; to gossip. _Did you just come here to yap?_ __3__ _n_ Nonsense; gibberish. _That windbag can produce an enormous amount of yap._ __4__ _v intr_ To empty one’s stomach; to vomit. _Who yapped in the bushes?_ _A yapping dog._  
 __yen__ A desire. Often used in the phrase “have a yen for (someone/something).“  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
