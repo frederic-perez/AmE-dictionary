@@ -1,28 +1,3 @@
-__’twas__ _phr_ Contraction of _it was._  
-__barnacle<sup>1</sup>__ _n_ /BAHR-nuh-kuhl/ __1__ Any marine crustacean of the subclass Cirripedia that attaches itself to rocks, hulls, docks, whales, etc. :es: percebe __2__ Someone or something that clings.  
-__barnacle<sup>2</sup>__ _v intr_ To cling in a persistent manner.  
-__barnacled__ _adj_ _His nose was barnacled with spots._  
-__battlement__ _n_  
-__blossom__ _n_  
-__bloviate__ _v tr_ [:scroll: Mock-Latinate formation, from _blow_.]  
-__boilerplate__  
-__bollard__ _n_ A thick post on a ship or wharf, used for securing ropes and hawsers. _Syn_ bitt  
-__bowdlerize__ _v_ /BOHD-ler-ize/ In its strictest sense, to _bowdlerize_ a book, manuscript, etc. is to modify it by editing so that nothing judged to be morally harmful or offensive remains. More broadly, _bowdlerize_ means “to modify by abridging, simplifying, or distorting in style or content.”  
-__buckskin__ _n_ :es: ante  
-__bullet__ _n_ /ˈbʊl ɪt/  
-__ceasefire__ _n_ /ˈsiːsfaiə(r)/  
-__Christmas__ _n_ [:scroll: From the Old English Cristes mǣsse, meaning “Mass of Christ”]  
-__Christmastime__ _n_ The Christmas season.  
-__coverage__ _n_ :mega: /ˈkʌv ər ɪdʒ, ˈkʌv rɪdʒ/  
-__cutesy__ _adj_ /ˈkyut si/ Deliberately or affectedly cute; precious: _a cutesy boutique._  
-__disingenuous__ _adj_ :dart: Lacking in frankness, candor, or sincerity; insincere.  
-__eras__ _n pl_ /er-uhz/ Periods of time in a person’s life characterized by something distinctive and noticeable, such as a particular emotional state, relationship, achievement, or interest. _I’ve lived through three separate eras just this year, but I feel like I’m finally in my lucky girl era._  
-__fiend__ _n_  
-__filly__ _n_ /ˈfɪlɪ/  
-__formaldehyde__ _n_  
-__Frisbee__ _n_ /ˈfrɪz bi/ A trademark for a plastic disk-shaped toy that players throw and catch.  
-__gobble__ _v_  
-__highbinder__ _n_ /ˈhaɪˌbaɪndə/ __1__ A gangster. __2__ A corrupt politician.  
 __hog__ _n slang_ A large motorcycle, often a Harley-Davidson. _I can’t wait to get my hog out on the open road and feel the wind in my hair._  
 __Kafkaesque__ _adj_ /ˌkɑf kəˈɛsk/  
 __knight errant__ _n_ A knight who wanders in search of deeds of courage, chivalry, etc.  

@@ -20,6 +20,7 @@ __, so why (even) bother?__
 __, to say the least.__  
 __’hood__ _n slang_ Short for neighborhood.  
 __’tis__ _contraction_ Contraction of _it is_.  
+__’twas__ _phr_ Contraction of _it was._  
 __(sic)__ _adv_ :two: _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn’t do it!”  
 __101__ _adj_ (only after noun) Used to say that a piece of knowledge relating to something is very simple and basic. From the practice in US colleges of numbering courses, the initial (introductory) course normally being numbered “101.”  
 __105s__  
@@ -1297,7 +1298,9 @@ __barker__ _n_ :two::astonished: __2__ An employee who stands before the entranc
 __Barmecidal__ _adj_ Plentiful or abundant in appearance only; illusory: _a Barmecidal feast._  
 __Barmecide__ _adj_ /BAHR-muh-syd/ [:scroll: After Barmecide, a nobleman in the story “Barber’s Sixth Brother“ from the collection _One Thousand and One Nights_ (also known as _The Arabian Nights_).] Lavish or plentiful in imagination only; illusory; sham: _a Barmecide feast._  
 __barn__ _n_ _Out of the barn._  
-__barnacle__ _n_ __2__ A person or thing that is difficult to get rid of.  
+__barnacle<sup>1</sup>__ _n_ :dart::two: /BAHR-nuh-kuhl/ __1__ A person or thing that is difficult to get rid of. __2__ Any marine crustacean of the subclass Cirripedia that attaches itself to rocks, hulls, docks, whales, etc. :es: percebe __3__ Someone or something that clings.  
+__barnacle<sup>2</sup>__ _v intr_ :two: To cling in a persistent manner.  
+__barnacled__ _adj_ _His nose was barnacled with spots._  
 __barnstorm__ _v_ :two: To tour rural districts making speeches in a political campaign.  
 __barnyard__ _n_ :two::pencil2: The area surrounding a barn, often enclosed by a fence.  
 __baron__  
@@ -1358,7 +1361,7 @@ __battery__ _n_ :four::hammer: _Cameron was charged with attempted murder, mayhe
 __batting cage__ _n_ :two::hammer: _Baseball_ _The rookie suffered an injury while taking swings in the batting cage._  
 __battledore and shuttlecock__ _n_ An ancient racket game.  
 __battleground__ _n_ _AI models are battlegrounds._  
-__battlement__ _n_ :five: (battlements) A notched parapet built on top of a wall, with alternating merlons and crenels for decoration or defense. Also called embattlement. _Syn_ crenelation, crenellation  
+__battlement__ _n_ :six: (battlements) A notched parapet built on top of a wall, with alternating merlons and crenels for decoration or defense. Also called embattlement. _Syn_ crenelation, crenellation  
 __batty__  
 __bauble__ _n_ :seven: (baubles) A small, showy ornament of little value. _Syn_ fallal, gaud, gewgaw, trinket, bangle, novelty _The tacky bauble she wore around her neck was intended to attract attention, but it mostly drew snickers._  
 __bawd__ _n_ __1__ A woman who keeps a brothel; a madam. __2__ A woman prostitute.  
@@ -1817,14 +1820,14 @@ __blooker__ _n_ _slang_ :two: Someone with a blog who managed to get their blog 
 __blooms__ _n_ :astonished: _The messengers toured the area to hand out blooms._  
 __bloop__  
 __blooper__ _n informal_ :four::dart: A clumsy mistake, especially one made in public; a faux pas.  
-__blossom__ _n_  
+__blossom__ _n_ :two::hammer:  
 __blot__ _n_ :two::hammer:  
 __blotch__ _n_ __1__ A large, irregular spot or blot; stain. __2__ A discolored spot on the skin; blemish. _Black blotches on the skin from internal bleeding._  
 __blotched__ _v_  
 __blotches__ _n_  
 __blotter__ _n_ :five: __1__ Desk pad (or desk blotter), a table protector used when work such as painting or writing would otherwise damage the table or desk. _Desk blotter._ __2__ Police blotter, a daily record of arrests and other events at a police station. _Police blotters._ __3__ Blotting paper, used to absorb ink or oil from writing materials, particularly when quill or fountain pens were popular.  
 __blotting__ _v_  
-__bloviate__ _v intr_ :two: /ˈbləʊvɪˌeɪt/ To speak or write verbosely and windily. To talk at length, esp in an insubstantial but inflated manner. _Pundits bloviating on the radio._  
+__bloviate__ _v intr_ :dart::three: /ˈbləʊvɪˌeɪt/ [:scroll: Mock-Latinate formation, from _blow_.] To speak or write verbosely and windily. To talk at length, esp in an insubstantial but inflated manner. _Pundits bloviating on the radio._  
 __blow away__ _phr v_ To surprise or amaze someone.  
 __blow it off__  
 __blow off__ _v_ _slang_ Slang To choose not to attend or accompany. _Those mornings you slept in and blew off the gym? That was the rest you needed._  
@@ -1915,7 +1918,7 @@ __boiler room__ _n_
 __boiler__  
 __boilermaker__ _n_ :two: __2__ _slang_ A drink of whiskey with a beer chaser.  
 __boilerplate code__ _n_  
-__boilerplate__ _n_ :seven::hammer:  
+__boilerplate__ _n_ :eight::hammer:  
 __boilers__  
 __boiling point__ _n_ /BOI-ling point/ [:scroll: From Old French boillir, from Latin bullire (to bubble), from bulla (bubble).] __1__ The point at which a situation turns into a crisis. __2__ The point at which one loses one’s temper. __3__ The temperature at which a liquid boils.  
 __boisterous__ _adj_ :two::hammer:  
@@ -1923,7 +1926,7 @@ __bold-faced__ _adj_
 __boldface name__ _n_ :dart: A well-known or famous name or person. _Hundreds of mourners, including boldface names like Paul Simon and [Billy] Joel, show up at the funeral._ _Many boldface names enabled the stratosferic rise of the start-up Theranos._  
 __bole__ _n_ The trunk of a tree. _The arrow slammed solidly into the bole of a tree._  
 __bolide__ _n_ A meteoric flash or flare created when a meteoroid explodes or vaporizes as it passes through Earth’s atmosphere. _Syn_ fireball :astonished:  
-__bollard__ _n_ __1__ (Nautical Terms) A strong wooden or metal post mounted on a wharf, quay, etc, used for securing mooring lines. _es_ noray _Sailors on the pier threw the line off the bollard._  
+__bollard__ _n_ :two: __1__ (Nautical Terms) A strong wooden or metal post mounted on a wharf, quay, etc, used for securing mooring lines. A thick post on a ship or wharf, used for securing ropes and hawsers. _Syn_ bitt _es_ noray _Sailors on the pier threw the line off the bollard._  
 __bolo tie__ _n_ :two: (bola tie, bolo) A necktie consisting of a piece of cord fastened with an ornamental bar or clasp.  
 __bologna__  
 __boloney__ _n_ Baloney.  
@@ -2078,7 +2081,7 @@ __bovarism__ _n_
 __bovine<sup>1</sup>__ _adj_ Relating to a cow or cattle.  
 __bovine<sup>2</sup>__ _n_ An animal belonging to the genus (Bos) of ruminant mammals that includes the cow, wild ox, and yak.  
 __bow__ _n_ :five::camera::hammer: _A gift bow._ _Lexus (Toyota’s luxury brand) put the red bows atop its cars two weeks before Thanksgiving._ _Violins, violas, cellos and bows._ _The bow of the ship._  
-__bowdlerize__ _v_ :four: To remove the parts of a book, movie, or play that are likely to offend people, with the result that it is no longer very good. _Syn_ expurgate, sanitize _The publisher refused to bowdlerize the classic novel, so the school board voted to place it on the district’s banned books list._  
+__bowdlerize__ _v_ :five: /BOHD-ler-ize/ In its strictest sense, to _bowdlerize_ a book, manuscript, etc. is to modify it by editing so that nothing judged to be morally harmful or offensive remains. More broadly, _bowdlerize_ means “to modify by abridging, simplifying, or distorting in style or content.” To remove the parts of a book, movie, or play that are likely to offend people, with the result that it is no longer very good. _Syn_ expurgate, sanitize _The publisher refused to bowdlerize the classic novel, so the school board voted to place it on the district’s banned books list._  
 __bowel movement__ _n_ (BM) A euphemism for defecation; _“he had a bowel movement.”_  
 __bowie knife__ _n_ :two::hammer:  
 __bowl over__ _phr v_ __1__ To take by surprise. __2__ To make a powerful impression on; overwhelm.  
@@ -2317,7 +2320,7 @@ __buckeyes__
 __buckle down (to something)__ _v informal_ :seven::dart: To apply oneself with determination. To start to do something seriously: _I’d better buckle down to those reports._  
 __buckle__ _v_ :nine::m: (buckled) Bend and give way under pressure or strain. _The earth buckled under the titanic stress._ _My knees buckle with fright._ _Syn_ warp, bend  
 __buckshot__ _n_ :two: Large lead shot for shotgun shells, used especially in hunting big game.  
-__buckskin__ _n_ :two::hammer: (buckskins)  
+__buckskin__ _n_ :three::hammer: (buckskins) :es: ante  
 __bucktooth__ _n_ /ˈbʌkˌtuːθ/  
 __buckwheat__ _n_  
 __buckwheats__  
@@ -2368,7 +2371,8 @@ __Bull__ _n_
 __bull__ _n_ :three: __1a__ An adult male bovine mammal. __b__ The uncastrated adult male of domestic cattle. __c__ The adult male of certain other large animals, such as alligators, elephants, moose, or whales. __6__ (Bull) An official document issued by the pope and sealed with a bulla. :es: bula _Papal Bull._ _No Pope ever issued a Bull to approve of something._  
 __bulldozing__ _v_ _Henry was bulldozing for 201 yards._  
 __bullet point__ _n_ :three::hammer: _Give me the bullet points._  
-__bullet__ _v_ _Watch the pros bullet down the icy bobsled track._  
+__bullet<sup>1</sup>__ _n_ /ˈbʊl ɪt/  
+__bullet<sup>2</sup>__ _v_ _Watch the pros bullet down the icy bobsled track._  
 __bulletin__ _n_  
 __bulletproof__ _adj_ _A bulletproof relationship._  
 __bullfrog__ _n_ Largest North American frog; highly aquatic with a deep-pitched voice.  
@@ -2953,7 +2957,7 @@ __caw<sup>1</sup>__ _n_ :two: (caws) The hoarse raucous sound that is characteri
 __caw<sup>2</sup>__ _v_ :two::hammer: (cawed, cawing)  
 __cc__ _v tr_ (cc’d _or_ cc’ed; cc’ng) _The bugs are cc’ed to me._  
 __ce__  
-__ceasefire__ _n_ :six::hammer: (cease-fire)  
+__ceasefire__ _n_ :seven::hammer: /ˈsiːsfaiə(r)/ (cease-fire)  
 __cede__  
 __ceilometer__ _n_ :four::hammer:  
 __cel__ _n_ A piece of celluloid on which has been drawn a frame of an animated film. _A Bugs Bunny production cel, by Chuck Jones._  
@@ -3237,7 +3241,8 @@ __christening__ _n_
 __Christian__ _adj, n_ :mute:[C~~h~~ristian]  
 __Christmas fly__  
 __Christmas stocking__ _n_ A stocking hung up by children on Christmas Eve for Santa Claus to fill with presents.  
-__Christmas__ _n_ :mute:[C~~h~~istmas]  
+__Christmas__ _n_ :two::hammer::mute:[C~~h~~istmas] [:scroll: From the Old English Cristes mǣsse, meaning “Mass of Christ”]  
+__Christmastime__ _n_ The Christmas season.  
 __chrome__ _n_  
 __chronic__ _adj_ __1__ Of long duration; continuing: _chronic money problems._ _Chronic use._  
 __chrysalis__ _n_ (_n pl_ chrysalises or chrysalides)  
@@ -4107,6 +4112,7 @@ __Coventrate__ _v_ To devastate, such as by heavy bombing. After Coventry, a cit
 __Coventry__ _n_ A state of ostracism or exile. After Coventry, a city in central England. It’s unclear how Coventry developed this sense. One conjecture is that Royalist prisoners were sent there during the English Civil War. _“It.s not that smoke-filled rooms are back; smokers huddle in Coventry these days.” (Flora Lewis)._  
 __cover all bases__  
 __cover charge__ _n_ :three: A fixed amount paid when arriving or added to the bill at a nightclub or restaurant for entertainment or services.  
+__coverage__ _n_ :mega: /ˈkʌv ər ɪdʒ, ˈkʌv rɪdʒ/  
 __covertly__  
 __covertness__ _n_ __1__ The state of being covert and hidden. _Syn_ hiddenness __2__ The habit, practice, or policy of keeping secrets. _Syn_ clandestineness, clandestinity, concealment, huggermugger, huggermuggery, secrecy, secretiveness, secretness  
 __coverup__ _n_  
@@ -4438,7 +4444,7 @@ __cut__ _n_ :three: __10__ _informal_ A portion of profits or earnings; a share.
 __cut-and-dry task__  
 __cut-off date__ _n_  
 __cutdown__ _n_ __2__ The surgical insertion of a catheter into a vein, as for the administration of intravenous medication.  
-__cutesy__ _adj_ _informal chiefly US_ Affectedly cute or coy.  
+__cutesy__ _adj_ :two: /ˈkyut si/ _informal chiefly US_ Affectedly cute or coy. Deliberately or affectedly cute; precious: _a cutesy boutique._  
 __cutlass__ _n_ A short heavy sword with a curved single-edged blade, once used as a weapon by sailors.  
 __cutlet__ _n_ _Chicken cutlets._  
 __cutline__ _n_  
@@ -5105,7 +5111,7 @@ __disincentive<sup>1</sup>__ _n_ /ˌdɪsɪnˈsɛntɪv/ Something that acts as a 
 __disincentive<sup>2</sup>__ _adj_ Acting as a deterrent: _a disincentive effect on productivity._  
 __disinfectant__ _n_ :pencil2: An agent, such as heat, radiation, or a chemical, that destroys, neutralizes, or inhibits the growth of disease-carrying microorganisms: _household disinfectant_.  
 __disinformation__ _n_ :two: __1__ False information, as about a country’s military strength or plans, disseminated by a government or intelligence agency in a hostile act of tactical political subversion. __2__ Deliberately misleading or biased information; manipulated narrative or facts; propaganda.  
-__disingenuous__ _adj_ :dart::six: /dis-in-JEN-yuh-wuss/ Disingenuous is a formal word that describes things, such as speech or behavior, that give a false appearance of being honest or sincere. Similarly, a person who is being disingenuous may seem sincere, but is in fact only pretending to be open and candid.  
+__disingenuous__ _adj_ :dart::seven: /dis-in-JEN-yuh-wuss/ Disingenuous is a formal word that describes things, such as speech or behavior, that give a false appearance of being honest or sincere. Similarly, a person who is being disingenuous may seem sincere, but is in fact only pretending to be open and candid.  
 __disingenuousness__  
 __disinherited__ _adj_ Deprived of your rightful heritage.  
 __disinhibition__ _n_ :pencil2:  
@@ -6077,6 +6083,7 @@ __equivocal__ _adj_ :two: /ih-KWIV-uh-kul/ __1__ Having two or more possible mea
 __equivocate__ _v_ To be deliberately ambiguous or unclear in order to mislead or withhold information. _Syn_ prevaricate, beat around the bush, palter, tergiversate  
 __equivocation__ _n_  
 __eradicate__ _v tr_ :two: __1__ To do away with as completely as if by pulling up by the roots. __2__ To pull up by the roots.  
+__eras__ _n pl_ /er-uhz/ Periods of time in a person’s life characterized by something distinctive and noticeable, such as a particular emotional state, relationship, achievement, or interest. _I’ve lived through three separate eras just this year, but I feel like I’m finally in my lucky girl era._  
 __ergomania__ _n_ An excessive desire to work or exercise.  
 __ermine__ _n_ :two::hammer:  
 __Eros__ _n_ __2__ (sometimes l.c.) Physical love; sexual desire.  
@@ -6628,7 +6635,7 @@ __fiefdom__ _n_ :three::hammer:
 __field day__  
 __field trip__ _n_  
 __field__ _v_ :nine::m: (fielded, fielding) __1__ _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ Send out (a team or individual) to play in a game. __3__ Answer adequately or successfully. _To field questions._ _Fielding emails._ _Fielding offers._ _The press office fielded numerous calls from the media._  
-__fiend__ _n_ :two::hammer:  
+__fiend__ _n_ :three::hammer:  
 __fiendish__  
 __fierce__ _adj_ :two::hammer:  
 __fiery__ _adj_ :three::hammer: _A fiery Tabasco-ish sauce._  
@@ -6664,7 +6671,7 @@ __fill out__
 __filler__ _n_ _Some pills use fillers made up of rice, or worse, black walnut._  
 __filling__  
 __fillip__ _n_ :three::hammer:  
-__filly__ _n_ A young female horse, especially one less than four years old. _The filly had to be euthanized when she suffered an unspecified fracture._ :es: potra  
+__filly__ _n_ :two: /ˈfɪlɪ/ A young female horse, especially one less than four years old. _The filly had to be euthanized when she suffered an unspecified fracture._ :es: potra  
 __film noir__ _n_  
 __filmmaker__ _n_ :two: One who directs or produces movies.  
 __filthy__ _adj_  
@@ -7091,6 +7098,7 @@ __fork__ _n, v_ _Gordon at fork in the road._
 __forklift__ _n_ :two::hammer:  
 __forlorn__ _adj_ :nine::m: __1__ Pitifully sad and abandoned or lonely. _Forlorn figures at bus stops._ _Syn_ unhappy, sad __2__ (of an aim or endeavour) Unlikely to succeed or be fulfilled. _A forlorn attempt to escape._ _A forlorn dream._ _Syn_ hopeless, with no chance of success, beyond hope  
 __forlornly__  
+__formaldehyde__ _n_  
 __formals__ _n_  
 __Formica__  
 __formidable__ _adj_ :astonished::two::hammer:  
@@ -7226,6 +7234,7 @@ __frill__ _v_
 __frilled__ _adj_ Having decorative ruffles or frills. _Frilled apron._  
 __frilly__  
 __fringe__  
+__Frisbee__ _n_ /ˈfrɪz bi/ A trademark for a plastic disk-shaped toy that players throw and catch.  
 __frisk__ _v_ :six::hammer: (frisked, frisking) _I have to frisk you._  
 __frisky__ _adj_  
 __frisson__ _n_ :eight: /free-SOHN (the second vowel is pronounced nasally)/ Frisson refers to a brief moment of emotional excitement. A sudden strong feeling of excitement, fear, or pleasure. A French word meaning a shiver, used to mean a thrill or sensation of excitement or fear. _Syn_ shudder, thrill _A frisson of excitement._  
@@ -7718,7 +7727,7 @@ __goalpost__ _n_
 __goaltender__  
 __goatee__ _n_ :two::hammer: _Sagging goatee._  
 __gobble up__ _v_ :four::hammer: _Money-losing Pandora is gobbling up a former competitor on the cheap after huge rivals Apple and Google have entered the market._  
-__gobble<sup>1</sup>__ _v_ :five::hammer: _Gobbling a plate of spaguetti and meatballs._ _Do you savor or gobble?_  
+__gobble<sup>1</sup>__ _v_ :six::hammer: _Gobbling a plate of spaguetti and meatballs._ _Do you savor or gobble?_  
 __gobble<sup>2</sup>__ _n_  
 __gobbledygook__ _n_ :two::hammer:  
 __goblin__ _n_ :four::hammer: (goblins)  
@@ -8611,7 +8620,7 @@ __high-spirited__ _adj_ Joyously unrestrained. _Syn_ ebullient, exuberant
 __high-tail__ _v_  
 __highball<sup>1</sup>__ _n_ :astonished::two: An alcoholic drink made by mixing whiskey with water or soda, usually served in a tall glass. _The passengers were sipping highballs at the bar._  
 __highball<sup>2</sup>__ _v_ _To decide whether to lowball or highball an offer._  
-__highbinder__ _n_  
+__highbinder__ _n_ :two: /ˈhaɪˌbaɪndə/ __1__ A gangster. __2__ A corrupt politician.  
 __highfalutin__ _adj informal_ :three: /ˌhaɪfəˈluːtɪn/ (hifalutin; highfaluting) Pompous or pretentious.  
 __highlands__  
 __highlight<sup>1</sup>__ _n_ :es: punto culminante  
