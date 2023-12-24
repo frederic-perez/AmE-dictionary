@@ -1,21 +1,41 @@
+__’twas__ _phr_ Contraction of _it was._  
+__barnacle<sup>1</sup>__ _n_ /BAHR-nuh-kuhl/ __1__ Any marine crustacean of the subclass Cirripedia that attaches itself to rocks, hulls, docks, whales, etc. :es: percebe __2__ Someone or something that clings.  
+__barnacle<sup>2</sup>__ _v intr_ To cling in a persistent manner.  
 __barnacled__ _adj_ _His nose was barnacled with spots._  
 __battlement__ _n_  
 __blossom__ _n_  
 __bloviate__ _v tr_ [:scroll: Mock-Latinate formation, from _blow_.]  
+__boilerplate__  
+__bollard__ _n_ A thick post on a ship or wharf, used for securing ropes and hawsers. _Syn_ bitt  
+__bowdlerize__ _v_ /BOHD-ler-ize/ In its strictest sense, to _bowdlerize_ a book, manuscript, etc. is to modify it by editing so that nothing judged to be morally harmful or offensive remains. More broadly, _bowdlerize_ means “to modify by abridging, simplifying, or distorting in style or content.”  
 __buckskin__ _n_ :es: ante  
 __bullet__ _n_ /ˈbʊl ɪt/  
 __ceasefire__ _n_ /ˈsiːsfaiə(r)/  
+__Christmas__ _n_ [:scroll: From the Old English Cristes mǣsse, meaning “Mass of Christ”]  
+__Christmastime__ _n_ The Christmas season.  
 __coverage__ _n_ :mega: /ˈkʌv ər ɪdʒ, ˈkʌv rɪdʒ/  
+__cutesy__ _adj_ /ˈkyut si/ Deliberately or affectedly cute; precious: _a cutesy boutique._  
 __disingenuous__ _adj_ :dart: Lacking in frankness, candor, or sincerity; insincere.  
+__eras__ _n pl_ /er-uhz/ Periods of time in a person’s life characterized by something distinctive and noticeable, such as a particular emotional state, relationship, achievement, or interest. _I’ve lived through three separate eras just this year, but I feel like I’m finally in my lucky girl era._  
 __fiend__ _n_  
 __filly__ _n_ /ˈfɪlɪ/  
 __formaldehyde__ _n_  
+__Frisbee__ _n_ /ˈfrɪz bi/ A trademark for a plastic disk-shaped toy that players throw and catch.  
 __gobble__ _v_  
 __highbinder__ _n_ /ˈhaɪˌbaɪndə/ __1__ A gangster. __2__ A corrupt politician.  
+__hog__ _n slang_ A large motorcycle, often a Harley-Davidson. _I can’t wait to get my hog out on the open road and feel the wind in my hair._  
+__Kafkaesque__ _adj_ /ˌkɑf kəˈɛsk/  
 __knight errant__ _n_ A knight who wanders in search of deeds of courage, chivalry, etc.  
+__Kwanzaa__ _n_ /ˈkwænzɑː/ (Kwanza) A seven-day festival beginning on Dec 26 when African-Americans celebrate family, community, and culture.  
+__manger__ _n_ A trough or an open box in which feed for livestock is placed. _Syn_ trough _Nativity scenes depicting the scene of Jesus’s birth include the baby Jesus in a manger._  
 __mosey__ _v intr_  
 __nacre__ _n_ /ˈneɪkə/ The technical name for mother-of-pearl.  
+__neophyte__ _n_ A beginner or novice. _Syn_ fledgling, newbie, newcomer, freshman, entrant, starter  
+__overweening__ _adj_ /oh-ver-WEE-ning/ To describe someone as _overweening_ is to say that they are arrogant and unduly proud. _Overweening_ also disapprovingly describes qualities or desires, such as greed or ambition, that are seen as excessive.  
 __pad__ _v_  
+__pernicious__  
+__physic<sup>1</sup>__ _n_ :dart: /ˈfɪz ɪk/ __1__ A medicine, especially one that acts as a laxative. __2__ A doctor. __3__ Medical science or the medical profession.  
+__physic<sup>2</sup>__ _v tr_ :dart: __1__ To act upon as a laxative. __2__ To treat with, or as if with, a medicine. __3__ To cure or heal.  
 __pillory__ _v tr_ (pilloried)  
 __pinafore__ _n_  
 __pit<sup>1</sup>__ _n_  
@@ -47,6 +67,7 @@ __pup__ _n_
 __purloin__ _v tr_  
 __purportedly__  
 __purpose__ _n_ :mega:  
+__purview__ _n_ /PER-vyoo/ _Purview_ refers to an area within which someone or something has authority, influence, or knowledge. It can also refer to a range of vision, understanding, or awareness.  
 __pusillanimous__ _adj_  
 __pyromancy__ _n_  
 __quaint__ _adj_  
@@ -91,6 +112,7 @@ __rumpled__ _adj_ _A rumpled voice._
 __run sheet__  
 __running dog__ _n_ A servile follower or lackey. :es: perro faldero  
 __ruralism__ _n_ A rural idiom or expression. _Syn_ rusticism  
+__salubrious__  
 __salve__ _v tr_ __2__ To ease the distress or agitation of; assuage: _salved my conscience by apologizing._  
 __salvo__ _n_ (_n pl_ salvos, salvoes)  
 __sanguine__ _adj_ :two::hammer:  
@@ -186,6 +208,7 @@ __six-figure__ _adj_
 __ski jump__ _n_  
 __skin__ _v tr_ _He skinned his knee and started to cry._  
 __slash__ _n_ __1b__ A long cut or other opening made by such a stroke; a gash or slit. _The slash of the sword._  
+__slinky__ _adj_ Graceful, sinuous, and sleek: _wore a slinky outfit to the party._  
 __slum<sup>1</sup>__ _n_  
 __slum<sup>2</sup>__ _v intr_ To visit impoverished areas or squalid locales, especially out of curiosity or for amusement.  
 __small-time__  
@@ -314,6 +337,7 @@ __veranda__ _n_
 __verdict__ _n_  
 __veto__ _v tr_  
 __visceral__ _adj_ /VISS-uh-rul/  
+__vixen__ _n_ __2a__ A woman regarded as sexually alluring.  
 __walkout__ _n_ :four: __1__ A labor strike.  
 __walrus mustache__ _n_ A bushy, drooping mustache.  
 __wanderlust__ _n_  
@@ -361,7 +385,7 @@ __yawp__ _n_ /jɔːp/ _A pure yawp of joy._
 __yellow jacket__ _n_ __1__ _slang_ A barbiturate (trade name Nembutal) used as a sedative and hypnotic and anti-spasmodic. __2__ Any of several social wasps of the genus Vespa, having yellow markings on the body.  
 __yelp__ _v_  
 __yin and yang__  
-__yo-yo__ _n_  
+__yo-yo__ _n_ :two::pencil2::hammer:  
 __yogi__ _n_ (_n pl_ yogis, yogin) /ˈjəʊgɪ/  
 __yowl__ _v_  
 __zenith__ _n_ /ZEE-nith/ Zenith refers to the strongest or most successful period of time for a person or thing.  
