@@ -504,6 +504,7 @@ __bar star__ Someone who has or seeks a popular reputation by frequenting bars o
 __bare (one’s) teeth__ :two: To display an angry, violent, or threatening reaction to or against something or someone, as does a dog or wolf when threatened. _I will bare my teeth to anyone who tries to take away my land._  
 __bare metal__  
 __barking up the wrong tree__ Looking in the wrong place.  
+__barnacled__ _adj_  
 __barnburner__ :four: Any thing, event, or occasion that is especially exciting, impressive, or successful. _I had so much fun at Jonathan’s bachelor party last night—it was a real barnburner!_  
 __barrel of laugh__ :two: Someone who is very funny.  
 __barrel of laughs__ :two: Fun, funny, and pleasant. Often used sarcastically to indicate that someone is unpleasant or not enjoyable to be around. _A: “Is Mr. Grant always cranky?” B: “Oh, yeah—he’s a real barrel of laughs!”_ _I always have so much fun when Katie’s around—she’s totally a barrel of laughs!_  
@@ -705,6 +706,7 @@ __big boned__ _euphemism_ Fat or obese. Usually used as an excuse for one’s si
 __big break__ :two: A fortuitous moment, opportunity, or turn of events of great consequence, especially as relates to one’s career. _He had been writing for years, but his big break came when his third novel became a huge international bestseller._ _I had a big break when a movie director saw me in an improv group and offered me an audition for his new film._  
 __big cheese__ :two: An influential person.  
 __big deal__  
+__big fat__  
 __big fish__  
 __big if__ Something that is both important and uncertain. _Syn_ a fundamental question  
 __big name__ :two: __2__ _adj_ Of great importance, fame, success, or reputation in a particular field or area. Often hyphenated. _We’ve got a lot of big-name singers who perform at our annual charity event._  
@@ -773,6 +775,7 @@ __bonehead__
 __bonus points__  
 __boo-boo__ _n_ :dart: /ˈbubu/ __1__ An error. _It’s only a small boo-boo. Don’t stress yourself._ __2__ A hurt; a cut; a bruise. _She has a little boo-boo on her knee._  
 __booby prize__ :astonished: A mock prize given to the worst player or performer. _Bob should get the booby prize for the worst showing in the race._  
+__bookie__ One who collects bets and pays those who win. A shortening of “bookmaker.”  
 __bookworm__ _n_ A person who spends a large or excessive amount of time reading or studying.  
 __boom chicka wah wah__  
 __boom__ An exclamation used in conjunction with a decisive or impressive statement or action. _Boom! You can’t argue with that logic._  
@@ -789,7 +792,7 @@ __bottom of the ninth__ The final and critical moment or moments of a tense, imp
 __bottom out__ _Europe is bottomed out._  
 __bounce back__ :dart::three: __2__ Of a person, to recover from a setback. _The doctors expect her to bounce back and make a full recovery._  
 __bound to (be or do something)__ :two::hammer: _It’s bound to be an exciting game._  
-__bow out__ Depart, withdraw, resign, as in _After five years as chairman, I felt it was time I bowed out,_ or _We’ll have to beat them; they’ll never bow out._ _I was so sick I just pulled the shades and bowed out for half the month._  
+__bow out__ :two: To resign from a competition or election. Depart, withdraw, resign, as in _After five years as chairman, I felt it was time I bowed out,_ or _We’ll have to beat them; they’ll never bow out._ _I was so sick I just pulled the shades and bowed out for half the month._  
 __Box and Cox__ Two people who always miss each other and thus are never together. The phrase comes from the 19th-century story of the same name, in which two men named Box and Cox rent the same room at different times of day. _Since I’ve been on night work all week, Irene and I are like Box and Cox these days, constantly missing each other. I hope to actually spend time with her over the weekend!_  
 __boy oh boy__ :six: An expression said when one is excited, pleased, or pleasantly surprised. _Boy oh boy, that was a delicious birthday cake!_  
 __brace (oneself) for (something)__  
@@ -804,6 +807,7 @@ __brass monkeys__ Very cold weather.
 __brazen it out__ To face a difficult, uncertain, or intimidating situation with brave or impudent self-confidence. _I’m terrified to give this presentation, but I just have to brazen it out and hope for the best._  
 __breach of etiquette__ A violation of established social norms or expectations, especially as relates to polite society or specific professions. _In an unexpected breach of etiquette, she announced her candidacy before the governor officially resigned._  
 __bread and butter__  
+__bread__ _slang_ Money.  
 __break a leg__ _interj_ :four: Good luck! (A special theatrical way of wishing a performer good luck. Saying “good luck” is considered by actors to be a jinx.) _“Break a leg!” shouted the stage manager to the heroine. Let’s all go and do our best. Break a leg!_  
 __break a sweat__ :two: Use a lot of physical effort: _He hardly needed to break sweat to reach the final._  
 __break bread__ To eat. _We should break bread before the meal gets cold._  
@@ -819,6 +823,7 @@ __break the news__ To reveal information, often that which is bad or upsetting. 
 __break your back__ :two: To work extremely hard.  
 __break your duck__ To do something for the first time.  
 __breaking point__ :three: The point at which an overworked or overburdened person, system, organization, etc., fails, give ups, or collapses. _I was already fed up with my husband’s lazy, selfish ways, but his refusal to come with me to my mother’s funeral was the breaking point._  
+__breakout moment__ A “breakout moment” is a term used to describe a pivotal point in someone’s career, when they suddenly become much more visible, successful, or well-known.  
 __breathe easily__ To relax or feel relieved, as after a period of stress or worry. _I can finally breathe easily now that I’m done my term paper—I had been working on that thing all day every day for weeks!_  
 __breathe new life__  
 __breather__ _n_ A rest period; a lull. (A chance to catch one’s breath.) _As soon as we’ve had a breather, it’s back to work._  
@@ -855,7 +860,7 @@ __bubble over__ Of an emotion, to be too strong for one to contain or refrain fr
 __buck the trend__  
 __bucket list__ :three::hammer: _That’s one of my bucket list items._  
 __buckle down__ _Buckle down and work harder._  
-__buckle up__ :six::hammer: _Bucking up a seat belt._ _Oregon law calls for drivers and passengers to buckle up for safety in both the front and back seats._ __4__ _slang_ Prepare for what is about to happen, such as danger, excitement, trouble, etc. _The boss is in a terrible mood today, so buckle up!_ _Buckle up, folks. This game is going down to the wire!_  
+__buckle up__ :seven::hammer: _Bucking up a seat belt._ _Oregon law calls for drivers and passengers to buckle up for safety in both the front and back seats._ __4__ _slang_ Prepare for what is about to happen, such as danger, excitement, trouble, etc. _The boss is in a terrible mood today, so buckle up!_ _Buckle up, folks. This game is going down to the wire!_  
 __buff up__  
 __bug off__ _slang_  
 __bug__ __7__ _v_ To annoy, pester, or irritate someone. _I don’t know what it is about Tom, but he just bugs me whenever I’m around him._ _Your kids will be too busy bugging you to buy them cotton candy at the concession._  
@@ -914,7 +919,7 @@ __buy__ _slang_ To believe or accept something as true or feasible without quest
 __buzz__ :two::hammer: _Buzzed the fuzz._  
 __by (oneself)__  
 __by a mile__ :two: By a large amount; by a lot. _We won that game by a mile! I think the final score was 10-1._  
-__by all accounts__ :dart::three: From all the reports (that are available); according to what everyone is saying. _According to all accounts, the police were on the scene immediately._ _By all accounts, it was a very poor performance._  
+__by all accounts__ :dart::four: From all the reports (that are available); according to what everyone is saying. _According to all accounts, the police were on the scene immediately._ _By all accounts, it was a very poor performance._  
 __by all means__  
 __by and by__  
 __by and large__ :five::hammer:  
@@ -990,6 +995,7 @@ __carve out__ :four::hammer: _New options help you carve out downtime between me
 __case closed__ :two::hammer:  
 __case in point__ :seven: A specific example of what one is talking about. An example that demonstrates a point being made as truthful or correct. _Now, as a case in point, let’s look at nineteenth-century England._ _Fireworks can be dangerous. For a case in point, look at what happened to Bob Smith last Fourth of July._  
 __case of the dropsy__ A fictitious “condition” characterized by continually dropping things from one’s hands. It is a play on the term “dropsy,” which was formerly used to denote the condition now known as edema (or oedema). _I’ve broken four or five plates since I started work. I guess I’ve got a bad case of the dropsy today._  
+__case out__ _slang_ To observe and examine someone or something, often to gain knowledge for a specific future purpose. A noun or pronoun can be used between “case” and “out.” _I cased my opponent out in preparation for the big fight._  
 __case the joint__ :three::hammer: (casing the joint)  
 __cash cow__ A product or business that always makes a lot of profit.  
 __cash in__ :two::hammer:  
@@ -1016,6 +1022,7 @@ __catch a snooze__ :three: To sleep or take a nap, especially of a short duratio
 __catch big air__ To jump into the air, especially in a vehicle or on sports equipment (e.g., a snowboard, skis, skateboard, bike, etc.). _I love this ski slope, you can catch some big air off some of its jumps!_  
 __catch fire__ __1__ Be ignited, as in _This wood is dry enough to catch fire._ __2__ Become inflamed with enthusiasm or passion, as in _His ideas caught fire all over the country._ _The magazine never quite caught fire._  
 __catch hell__ _I’d catch hell for it._  
+__catch momentum__ The idiom “catch momentum” is used to describe something that is gaining energy and speed, or “catching on” and becoming more popular. For example, if a new restaurant opens and becomes a hit, it can be said that the restaurant is “catching momentum” because it’s gaining popularity and business.  
 __catch on__  
 __catch one’s breath__ :two: To pause or rest before continuing an activity or beginning a new one; resume regular breathing: _Let me catch my breath before I begin anything new._  
 __catch onto (something)__  
@@ -1119,10 +1126,12 @@ __clout list__ :two: A secret list of people who, through advantageous connectio
 __clusterfuck__ _rude slang_ A chaotic situation rife with problems. _Oh, the dinner party was a total clusterfuck—the roast was dry, the toilet overflowed, and everyone argued about politics._ __2__ _vulgar slang_ A group sexual encounter. _No, I’ve never taken part in a clusterfuck—have you?_  
 __clutch (one’s)/the pearls__ To react in a scandalized or mortified manner to once-salacious but now relatively common things, events, situations, etc. _Parents should try not to clutch the pearls every time their teenagers come out of their room dressed outrageously—it only makes them want to push the envelope even further._  
 __clutch at straws__  
-__coast along__ :two: To proceed with little effort. _Because the route was mostly downhill, the car just coasted along._  
+__coast along__ :three: To proceed with little effort. _Because the route was mostly downhill, the car just coasted along._ _I’m worried that you’re just coasting along through your senior year without taking your future seriously._  
+__coast__ To proceed with little effort. Taking it easy or not putting in as much effort as you normally would. _Only once did Michael Jordan try to coast._  
 __cock in the henhouse__ The only male in an all-female environment. _Getting a male teacher is a big deal when you go to an all-girls school! Finally, a cock in the henhouse!_  
 __cock of the walk__ [:scroll: In animal husbandry, an enclosed yard or a pen is known as a walk. A rooster who rules a roost is, literally, a cock of the walk.] A person who behaves in an arrogant and domineering manner in a group. _The deputy manager was cock of the walk until the new manager arrived. He loved acting cock of the walk and ordering everyone about._  
 __cock one’s head__ :two::hammer: _She cocked her head to the sound of a locomotive._  
+__cockeyed__ Crazy, stupid, or ridiculous.  
 __cocktease__  
 __code of silence__ :two: The practice of not disclosing important or vital information by members of a group, as due to the threat of violence, reprisal, being branded as a traitor, or an inherent sense of honor. _There are parts of the city where the code of silence is so strong that police don’t even bother questioning the residents there._  
 __cold call__  
@@ -1131,12 +1140,12 @@ __cold fish__ :two: A person who is very reserved or aloof in manner or who lack
 __collect (one’s) thoughts__ To pause and think before speaking or taking action. _Can I please just have a second to collect my thoughts before I respond?_  
 __collect (one’s) wits__ :two: To try to calm oneself and think clearly and rationally. _Take a moment to collect your wits, then tell us how the accident happened._  
 __collect dust__ :two: To be in a state of disuse for a prolonged period of time. _My father has lots of old trinkets and memorabilia collecting dust in the attic._ _Why do you want another video game console? You already have three collecting dust under the television!_  
-__come (a)round__  
+__come (a)round__ :two::hammer:  
 __come a long way__ To make significant progress. Almost always used in the present perfect tense (“have/has come a long way”). _He can play entire songs now, and they sound pretty good! He’s really come a long way from when he could barely hold a guitar._  
 __come across something__  
 __come across__ :four::hammer:  
 __come again?__ :two::hammer:  
-__come and go__  
+__come and go__ :two::hammer: (came and went) _The seasons came and went, but the memories of that summer lingered like a sweet melody in her heart._  
 __come as no surprise__ :two: To be completely unsurprising. _Considering how much they had been fighting lately, their break-up came as no surprise._  
 __come by__  
 __come clean__ To admit something to someone, often regarding a wrongdoing that one has tried to hide. _The kids finally came clean about eating the cookies I’d made for the bake sale._  
@@ -1201,12 +1210,13 @@ __couch potato__
 __cough up__ :two::hammer:  
 __count someone in (for something)__  
 __count your blessings__ :six: (count (one’s) blessings) To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
+__counterfeit__ _adj, n, v_ :pencil2: /ˈkaʊntəfɪt/ _Counterfeit goods._  
 __country bumpkin/cousin__ _informal, usually disapproving_ A person from the countryside who is not used to towns or cities and seems stupid: _He felt a real country bumpkin, sitting in that expensive restaurant, not knowing which cutlery to use._  
 __course of action__ A plan and the series of actions that will follow. _Our options are limited, but we have to decide on a course of action instead of doing nothing._  
 __courtesy of (someone or something)__  
 __cowboy up__ To act tough and determined, like a stereotypical cowboy. _Come on, dude, cowboy up! We can totally make that jump on our bikes!_  
 __cozy up (to someone or something)__ :two::hammer:  
-__cozy up__  
+__cozy up__ :two: Try to get on friendly or intimate terms, ingratiate oneself. _That new woman is always cozying up to one or another club member so she’ll be asked to join._  
 __crack a book__ To open a book to study. (Usually used with a negative.) _I never cracked a book and still passed the course._ _Sally didn’t crack a book all semester._  
 __crack down (on someone or something)__ :three: To put limits on someone or something; to become strict about enforcing rules about someone or something. _The police cracked down on the street gangs. They cracked down once last year too._ _Chinese regulators have cracked down on access to ChatGPT._  
 __crack down__ _France is cracking down on shady influencers._  
@@ -1234,6 +1244,7 @@ __creep out__ __2__ _slang_ To make someone feel nervous, uncomfortable, and sli
 __crickets__ Used to indicate an absence of any positive response or reaction from someone else. Typically used with singular verbs. _A: “Well, did the board of directors like your presentation?” B: “I guess not. It was crickets after we were finished.”_  
 __cringey__  
 __croc__ _n_ /krɒk/ Crocodile.  
+__cross (one’s) mind__ To be thought of by one.  
 __cross (one’s) t’s and dot (one’s) i’s__ To do something carefully and make sure that every last minor detail is completed. _Make sure the legal team crosses their t’s and dots their i’s when drawing up the contract._  
 __cross my heart (and hope to die)__ A vow that one is being truthful. _Billy’s the one who broke the cookie jar—cross my heart and hope to die!_  
 __cross one’s mind__ _It never crossed my mind._  
@@ -1255,7 +1266,7 @@ __cry foul__
 __cry on (one’s) shoulder__ To bemoan one’s problems to someone else. _We need to try to cheer Ben up—he’s been crying on my shoulder all week._  
 __cry out for (someone or something)__  
 __cry over spilled milk__ :two: To be upset over something that cannot be fixed, often something minor. To be unhappy about what cannot be undone. _Please calm down, you’re just crying over spilled milk. We already submitted the report, so we can’t fix it now._  
-__cry-baby__ A person who cries or complains a lot, especially for little reason. _James whines and complains whenever he doesn’t get his own way. He’s such a cry-baby!_  
+__cry-baby__ :two: A person who cries or complains a lot, especially for little reason. _James whines and complains whenever he doesn’t get his own way. He’s such a cry-baby!_  
 __crystal clear__  
 __crystal__ _slang_ A stimulant drug in powdered form, often methamphetamine. _Where can we score some crystal around here?_  
 __culture vulture__ An individual with a consuming or excessive interest in the arts. For example, _A relentless culture vulture, she dragged her children to every museum in town._  
@@ -1391,12 +1402,13 @@ __do (one) a disservice__ To do something that hinders or is detrimental to one.
 __do (one) wrong__ :three: _slang_ To mistreat, deceive, or betray one. _I can’t believe that you’re the one who did me wrong and sabotaged my presentation!_  
 __do (oneself) a favor__ To do something that helps or betters oneself. _Do yourself a favor and go to college—now that I’m older, I regret not having that experience._  
 __do (someone or something) harm__  
+__do a dare__  
 __do a runner__ To leave a place quickly in order to escape trouble or to avoid paying for something.  
 __do a U-turn__  
 __do an about-face__ (do a flip-flop, do a one-eighty) Reverse one’s opinion or course of action. _She did an about-face and walked back up the steps once she saw that the subway wasn’t running._  
 __do more harm than good__  
 __do nicely__  
-__do or die__  
+__do or die__ :two::hammer:  
 __do over__  
 __do the dishes__ Wash dishes.  
 __do the right thing__ To act or behave correctly, appropriately, or with the best intentions. _We are none of us perfect; I just try to do the right thing and let other people live as they wish._  
@@ -1447,7 +1459,7 @@ __dorky__ Describing someone or something that is socially awkward, nerdy, or st
 __dot (one’s) i’s and cross (one’s) t’s__ To do something carefully and make sure that every last minor detail is completed. _Please make sure to dot your i’s and cross your t’s when signing this contract._  
 __dote on (someone or something)__ To give a lot of love and attention to someone or something, perhaps to excess. _I can’t help but dote on my kids whenever they’re home from college—I just miss them so much when they’re away!_  
 __double back__ To return to some thing or place after moving away from it, especially by following the same path taken when leaving. _I was walking to my car when I realized I’d forgotten my lunch on the kitchen counter and doubled back to get it._  
-__double down__ :five: To significantly increase or strengthen effort, investment, or resolve toward some goal, strategy, or action so as to maximize the potential yield as a result.  
+__double down__ :six: To significantly increase or strengthen effort, investment, or resolve toward some goal, strategy, or action so as to maximize the potential yield as a result.  
 __double entendre__ :two::hammer:  
 __double talk__  
 __double whammy__ A situation in which two negative things happen at the same time or in rapid succession. _Jack suffered a double whammy when his car broke down the same day he lost his job._  
@@ -1498,7 +1510,7 @@ __drop in the bucket__ :two: A very small or unimportant amount.
 __drop out__  
 __drop the ball__ :dart::seven: To make a mistake, to fail.  
 __duck and cover__  
-__duck__ __2__ _v tr_ To avoid someone or something. _Clare is ducking her responsibility._ _Investment falls short and politicians duck social care reform (again)._  
+__duck__ :dart::two: __2__ _v tr_ To avoid someone or something. _Clare is ducking her responsibility._ _Investment falls short and politicians duck social care reform (again)._ _Duck the blame._  
 __dud__ :two::astonished: __1__ Something that does not work as intended, is ineffectual, or is defective. _This car I bought yesterday is a complete dud. Its engine won’t even start!_ __2__ Someone who is disappointing or unsuccessful. _He turned out to be a bit of a dud. He doesn’t have any plans to get a job—he just wants to watch TV all day._  
 __duke it out__ :two::hammer:  
 __dumb bunny__ Stupid, silly, or naïve person, usually used in an affectionate or endearing (if condescending) manner. _Oh, my darling! You are the sweetest dumb bunny I’ve ever known._  
@@ -1523,7 +1535,7 @@ __educated guess__
 __egghead__ _slang_ A derogatory term for an intelligent, studious person.  
 __elbow grease__ :four: Hard physical effort. _I tend to rely on elbow grease and hotel room sinks._  
 __elbow room__ __1__ Enough space to move around an area easily. _Ugh, the mall is so crowded today that there’s hardly any elbow room at all!_ __2__ The freedom and ability to act as one wants. _Well, you’re her cabinet—if you’re worried about her having too much elbow room as student council president, you should impose limitations._  
-__elephant in the room__ :three: An obvious truth or fact, especially one regarded as embarrassing or undesirable, that is being intentionally ignored or left unaddressed. _We all sat sipping our tea quietly, no one wanting to bring up the elephant in the room about Joel’s expulsion from college._  
+__elephant in the room__ :four: An obvious truth or fact, especially one regarded as embarrassing or undesirable, that is being intentionally ignored or left unaddressed. _We all sat sipping our tea quietly, no one wanting to bring up the elephant in the room about Joel’s expulsion from college._  
 __elevator pitch__ :two: A short sales presentation for a product/service/person/idea.  
 __Elvis has left the building__ :four: Said when an event or performance has come to an end, or when someone or something has left a place, especially in a dramatic fashion. The phrase refers to an announcement famously made at the end of Elvis Presley concerts alerting people that he vacated the premises and no further encores would be played.  
 __Elysian Fields__  
@@ -1538,6 +1550,7 @@ __end run__ :two: An evasive or diversionary action or maneuver around some obst
 __endgame__ :three: The final stages of a process, development, or activity.  
 __engine room__ :two::dart: The main source of talent, power, or ability in a team or group, likened to the room that houses a ship’s engine. _Sarah is our engine room, so with her injured, I’m not sure how we’ll be able to win on Saturday._  
 __engross in (something)__ To capture and hold someone’s interest in something. A noun or pronoun can be used between “engross” and “in.” _Dad is engrossed in fixing the car, so he can’t talk right now._  
+__enmesh in (something)__  
 __enough (something) to choke Caligula’s horse__ A lot of something. The phrase likely mentions Caligula because the Roman emperor was known for his penchant for excess. _A: “Do you think I got enough balloons?” B: “Are you kidding? There are enough balloons here to choke Caligula’s horse!”_  
 __entry level__  
 __envelope > push the envelope__ To go beyond established limits; to pioneer.  

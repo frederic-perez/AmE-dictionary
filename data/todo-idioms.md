@@ -1,28 +1,3 @@
-__barnacled__ _adj_  
-__big fat__  
-__bookie__ One who collects bets and pays those who win. A shortening of “bookmaker.”  
-__bow out__ To resign from a competition or election.  
-__bread__ _slang_ Money.  
-__breakout moment__ A “breakout moment” is a term used to describe a pivotal point in someone’s career, when they suddenly become much more visible, successful, or well-known.  
-__buckle up__  
-__by all accounts__  
-__case out__ _slang_ To observe and examine someone or something, often to gain knowledge for a specific future purpose. A noun or pronoun can be used between “case” and “out.” _I cased my opponent out in preparation for the big fight._  
-__catch momentum__ The idiom “catch momentum” is used to describe something that is gaining energy and speed, or “catching on” and becoming more popular. For example, if a new restaurant opens and becomes a hit, it can be said that the restaurant is “catching momentum” because it’s gaining popularity and business.  
-__coast along__ To proceed with little effort. _I’m worried that you’re just coasting along through your senior year without taking your future seriously._  
-__coast__ To proceed with little effort. Taking it easy or not putting in as much effort as you normally would. _Only once did Michael Jordan try to coast._  
-__cockeyed__ Crazy, stupid, or ridiculous.  
-__come (a)round__  
-__come and go__ (came and went) _The seasons came and went, but the memories of that summer lingered like a sweet melody in her heart._  
-__counterfeit__ _adj, n, v_ :pencil2: /ˈkaʊntəfɪt/ _Counterfeit goods._  
-__cozy up__ Try to get on friendly or intimate terms, ingratiate oneself. _That new woman is always cozying up to one or another club member so she’ll be asked to join._  
-__cross (one’s) mind__ To be thought of by one.  
-__cry-baby__  
-__do a dare__  
-__do or die__  
-__double down__  
-__duck__ :dart: __2__ _v tr_ To avoid someone or something. _Clare is ducking her responsibility._ _Duck the blame._  
-__elephant in the room__  
-__enmesh in (something)__  
 __fairy godmother__ __1__ In children’s fairy tales, a woman with magical powers who appears in order to help others in their time of need. _Cinderella’s fairy godmother helped her get ready for the ball so she could meet Prince Charming._ __2__ Someone who helps others with their problems, usually providing financial assistance. _Thank you so much for helping me with my car repair bill! You are my fairy godmother._  
 __fall (flat) on (one’s)/its face__  
 __fall into (someone’s or something’s) hands__ To come into the possession of some person, group, organization, etc., especially when it is undesirable or detrimental to someone else. _If this report falls into the media’s hands, you can expect a full-blown scandal._  
