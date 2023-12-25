@@ -1,3 +1,8 @@
+__a doozy__  
+__chuck__ __2__ _v_ _informal_ To eject or force out from some place. _The bouncer chucked the man for being belligerent._ _Vader chucked the emperor._  
+__dippy__ Crazy, silly, or strange.  
+__do a one-eighty__ (do a 180)  
+__face to face__  
 __fairy godmother__ __1__ In children’s fairy tales, a woman with magical powers who appears in order to help others in their time of need. _Cinderella’s fairy godmother helped her get ready for the ball so she could meet Prince Charming._ __2__ Someone who helps others with their problems, usually providing financial assistance. _Thank you so much for helping me with my car repair bill! You are my fairy godmother._  
 __fall (flat) on (one’s)/its face__  
 __fall into (someone’s or something’s) hands__ To come into the possession of some person, group, organization, etc., especially when it is undesirable or detrimental to someone else. _If this report falls into the media’s hands, you can expect a full-blown scandal._  
@@ -15,9 +20,11 @@ __fox__ _n_ __1__ A sly, crafty person. __2__ _slang_ Someone who is very sexual
 __friendly fire__  
 __from jump street__  
 __fruitcake__ __2__ _slang_ Someone who is odd or wacky. _What conspiracy theory is that old fruitcake blathering on about now?_  
+__funny farm__ _slang_ A derogatory term for a psychiatric hospital or mental health facility.  
 __futz__ _v_ In James Ellroy’ novels, “futz” is a verb that means to waste time, to mess around, or to fiddle with something without really accomplishing anything. It’s often used to describe a character who is procrastinating or avoiding doing something important or necessary.  
 __fuzz__ :two: _slang_ The police. _Come on, we’ve got to get out of here before the fuzz show up and bust us!_  
 __game-changer__ :dart:  
+__gas__ __4__ _v intr_ To have a good time. _We gassed all evening._  
 __geez__ A mild expression of surprise, annoyance, anger, disappointment, etc. (A minced oath for “Jesus.”)  
 __geeze (up)__ To inject narcotics. _They fed a spike. They tied off tourniquets. They geezed._  
 __get (one’s) hands on (something)__ Obtain something that you want or need very much. _This is all about OpenAI getting their hands on more data._  
@@ -34,13 +41,16 @@ __go blooey__ _slang_ To go completely awry; to totally fail. _Plans for the gal
 __go both ways__ __1__ A bisexual person who is attracted to both men and women. __2__ Something that has two functions or purposes. For example, an all-purpose cleaner can be said to “go both ways” because it can be used to clean multiple surfaces.  
 __go out the window__ To be forgotten, disregarded, or lost.  
 __go pffft__ It’s basically James Ellroy-speak for something just…fizzling out or disappearing.  
+__go tits up__ :dart: __1__ _rude slang_ To break or malfunction; to die, fall apart, or cease to work. (A play on the phrase “go belly up.” “Tits up” is sometimes hyphenated.) _Sorry, Mark, I’d love to give you a lift to the airport but my car’s gone tits up on me again._ _Jimmy Dean went tits-up in a car wreck._  
 __God forbid__  
+__goofball__ __3__ A pill with a tranquilizing effect (often because it contains barbiturates), taken recreationally. _Tad took a goofball last night and passed out, man._  
 __grapple with (someone or something)__  
 __green sheet__  
 __grind to a halt__ To halt progression very abruptly, especially in an ultimately detrimental or undesirable manner. Likened to a machine or automobile that stops functioning due to the grinding of gears. _Our project will grind to a halt if the CEO pulls his approval._  
 __gun down__  
 __gung-ho__ Exceptionally enthusiastic, eager, or zealous, sometimes overly so.  
 __gut punch__ A “gut punch” is an expression that is typically used to describe a sudden, painful, or shocking experience that leaves a person feeling emotionally or physically drained. It can be used both figuratively and literally to describe something that is unexpectedly hurtful or upsetting.  
+__half-ass__  
 __hand out__  
 __hard to say__ “Hard to say” is an idiomatic expression used to convey uncertainty or a lack of knowledge about something. It means that it’s difficult to predict or determine the outcome or the answer to a question, as the information is incomplete or unknown.  
 __have (got) (someone’s) back__  
@@ -80,7 +90,7 @@ __have the wind up__ To be very anxious, upset, or frightened. _They had the win
 __hazarded__ _v_  
 __he who hesitates is lost__  
 __head down__ To proceed or go to some specific destination or event.  
-__head over heels__  
+__head over heels__ :two::hammer:  
 __head south__  
 __head start__  
 __head up__  
@@ -88,8 +98,10 @@ __head-to-head__ Describing a one-on-one matchup or comparison.
 __head-to-toe__  
 __heads up__  
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
+__heat__ __1__ _slang_ Adverse, hostile criticism. _The senator has been facing a lot of heat in the media for his involvement in the scandal._ __2__ _slang_ Intense pressure. _Their defensive line has been cranking up on the heat on the other team’s quarterback._ __3__ _slang_ Increased police activity in response to some criminal activity. _We’ll have to wait until the heat dies down a bit before we try to sell the stolen goods._ __4__ _slang_ One or more firearms, especially a handgun. _Make sure you’re packing heat before you meet with the rival gang leader._  
 __here and there__  
 __hidden agenda__ A secret goal or an ulterior motive.  
+__hide-and-seek__  
 __high stakes__ If you have high stakes in something such as a venture or decision, you have a major interest in its outcome.  
 __highball__ To make an estimate which tends toward exaggeration. _Highball an offer._  
 __hit a wall__  
@@ -111,8 +123,9 @@ __it is what it is__
 __jump the gun__  
 __jump-start__  
 __keep harping on about (someone or something)__ To continue to discuss, mention, or gripe about someone or something in a very persistent and irritating manner. _My roommate keeps harping on about all the irritating people she works with. I wish she would just find a different job already._  
-__keester__ __1__ In the context of James Ellroy’s novels, “keester” generally means to conceal or hide something in a secret or hidden place. It’s often used in reference to illegal or illicit activities, like hiding contraband or stashing stolen goods. __2__ _n_ A chest; a suitcase. _The old lady was hauling the most enormous keester._ __3__ _n_ The buttocks; the anus. _Get your keester over here!_  
+__keester__ :two: __1__ In the context of James Ellroy’s novels, “keester” generally means to conceal or hide something in a secret or hidden place. It’s often used in reference to illegal or illicit activities, like hiding contraband or stashing stolen goods. __2__ _n_ A chest; a suitcase. _The old lady was hauling the most enormous keester._ __3__ _n_ The buttocks; the anus. _Get your keester over here!_  
 __kick-start__ :two::hammer:  
+__kip__ _v intr_ To sleep. _He’s upstairs kipping. Can he call you back?_  
 __know for a fact__ :two: To have definitive knowledge of something.  
 __ladies and gents__  
 __land on (one’s) feet__  
@@ -123,6 +136,7 @@ __legend has it__ “Legend has it” is a phrase used to introduce a story that
 __let down__  
 __let’s face it__ We need to recognize the truth; we should face reality.  
 __light on (one’s) feet__  
+__line up__  
 __lionhearted__ _adj_  
 __long in the tooth__ Old. Animals’ teeth, especially those of horses, are thought to be an indicator of age. As animals age, their gums recede, and their teeth look longer. _Our poor cat is so long in the tooth that he struggles just walking around the house these days._  
 __loom large__ To seem imminent and cause worry or unease.  
@@ -309,9 +323,11 @@ __ruckus__ A large, uproarious commotion.
 __rumble on__ To continue at a low but consistent level or degree, especially when no clear conclusion or resolution seems imminent or likely. Said especially of some argument, complaint, debate, discussion, etc. _The issue has been rumbling on in the background of our industry for nearly 10 years now, but we’re still no closer to figuring out a solution to it._  
 __run late__ To be behind schedule; to be a bit late. Typically used in the continuous tense.  
 __safe and sound__ Unharmed and whole or healthy.  
+__sally__ _v_ In James Ellroy’s novels, the verb “sally” means to venture out or to go forth, often into some kind of danger or uncertainty.  
 __sandbag__  
 __sap__ __1__ _slang_ A foolish, naïve, or gullible person. _You’re a bigger sap than I thought if you believe that, Phil._ __3__ _n_ Extreme self-confidence. A shortened form of the word “swagger.” _All the girls want to date him because he’s got swag._ __4__ _adj_ Cool; awesome. _Yeah, that dude’s pretty swag._  
 __save on__  
+__save the day__  
 __schlep__ __3__ _n, slang_ A foolish, bumbling, or incompetent person. From Yiddish. _Jeff is managing the project? That schlep couldn’t manage his own sock drawer._  
 __schtick__  
 __scooch__ _v_ /skutʃ/  
@@ -347,13 +363,16 @@ __six ways to Sunday__ _adj_ Askew, at an angle.
 __skate__  
 __skeevy__ :two: Offensively or unscrupulously repellant, repugnant, or disreputable.  
 __skin flute__ _vulgar, slang_ A penis.  
+__skip off__ To leave or depart hastily so as to avoid something or escape with something.  
 __skyhook__  
 __slob__  
 __smear (one’s) name__ To disparage one publicly, especially to the detriment of one’s reputation.  
+__smooch__ /smutʃ/  
 __sneak peek__  
 __sneak up (on someone or something)__  
 __snookered__ /ˈsnʊkɚd/ _mod_ __1__ Cheated; deceived. _I was snookered skillfully and quickly. It was almost a pleasure._ __2__ _slang_ Drunk.  
 __snout__ __4__ _slang_ A person’s nose.  
+__snow job__ :dart: A form of manipulation that involves lying or flattery to persuade someone. a systematic deception; a deceptive story that tries to hide the truth. _You can generally tell when a student is trying to do a snow job._ _This snow job you call an explanation just won’t do._  
 __snuff (one)__ _slang_ To kill one. _He was planning on going to the police, but the criminals snuffed him before he had the chance._ _Tragically, he was snuffed in his prime by cancer._  
 __so to speak__  
 __so-so__  
@@ -367,6 +386,7 @@ __split__ :dart: _slang_ To leave or depart, especially quickly or suddenly. _We
 __spread like wildfire__ To spread, circulate, or propagate very quickly and widely. Likened to the rapid spread of a literal wildfire. _News of the scandal spread like wildfire across the news outlets._  
 __stand by someone or something__  
 __stand by__  
+__starkers__ _adj_ _British informal_ Stark naked.  
 __status quo__ :mega: /kwoʊ/  
 __staying power__ The ability to remain relevant, influential, profitable, or successful in the future.  
 __stick (one’s) tongue out__  
@@ -381,6 +401,7 @@ __sure thing__
 __swag__ :two::hammer: _slang_ __1__ _n_ Stolen goods or money; loot. _Come on, show us the swag you scored from the jewelry shop!_  
 __swamped__ :dart: Extremely busy, to the point of being overwhelmed, overburdened, or overworked.  
 __swear by (someone or something)__  
+__sweatshop__ __1__ A factory or workshop in which employees are forced to do very hard work, especially the manufacturing of clothing, for long hours with very low wages. :dart: Can be used facetiously to describe generally unpleasant or undesirable work conditions.  
 __switch-heater__ Switch-heater in the novels by James Ellroy refers to a device used to ignite a cigarette.  
 __switch-hitter__ __2__ By extension, someone who is bisexual.  
 __tail__ _n_  
@@ -433,6 +454,7 @@ __up for grabs__
 __upbeat__ _informal_ Of, inspiring, or exuding cheerfulness, happiness, or optimism.  
 __urban legend__ A myth or piece of folklore that is totally false. _That story about the rats in the sewer being as big as dogs is an urban legend. It’s just not so._  
 __vamoose__ :two::hammer: (vamoosed)  
+__veep__ _n_ /vip/ A vice president. _The veep is going to preside today._  
 __wait for it__  
 __wake-up call__  
 __walk in the park__ _Major depression—and especially treatment-resistant depression—is no walk in the park._  
@@ -459,5 +481,6 @@ __within reason__
 __wrack (one’s) brain(s)__  
 __XYZ__ In spoken language, “XYZ” is often used to refer to hypothetical or unspecified elements, variables, or situations.  
 __yap__ __2__ To chatter; to gossip. _Did you just come here to yap?_ __3__ _n_ Nonsense; gibberish. _That windbag can produce an enormous amount of yap._ __4__ _v intr_ To empty one’s stomach; to vomit. _Who yapped in the bushes?_ _A yapping dog._  
+__yard__ _n_ A one-hundred-dollar bill. (Underworld.) _The guy wanted a yard just to fix a little dent in the fender._  
 __yen__ A desire. Often used in the phrase “have a yen for (someone/something).“  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
