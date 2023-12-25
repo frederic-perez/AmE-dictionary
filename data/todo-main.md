@@ -1,28 +1,3 @@
-__hog__ _n slang_ A large motorcycle, often a Harley-Davidson. _I can’t wait to get my hog out on the open road and feel the wind in my hair._  
-__Kafkaesque__ _adj_ /ˌkɑf kəˈɛsk/  
-__knight errant__ _n_ A knight who wanders in search of deeds of courage, chivalry, etc.  
-__Kwanzaa__ _n_ /ˈkwænzɑː/ (Kwanza) A seven-day festival beginning on Dec 26 when African-Americans celebrate family, community, and culture.  
-__manger__ _n_ A trough or an open box in which feed for livestock is placed. _Syn_ trough _Nativity scenes depicting the scene of Jesus’s birth include the baby Jesus in a manger._  
-__mosey__ _v intr_  
-__nacre__ _n_ /ˈneɪkə/ The technical name for mother-of-pearl.  
-__neophyte__ _n_ A beginner or novice. _Syn_ fledgling, newbie, newcomer, freshman, entrant, starter  
-__overweening__ _adj_ /oh-ver-WEE-ning/ To describe someone as _overweening_ is to say that they are arrogant and unduly proud. _Overweening_ also disapprovingly describes qualities or desires, such as greed or ambition, that are seen as excessive.  
-__pad__ _v_  
-__pernicious__  
-__physic<sup>1</sup>__ _n_ :dart: /ˈfɪz ɪk/ __1__ A medicine, especially one that acts as a laxative. __2__ A doctor. __3__ Medical science or the medical profession.  
-__physic<sup>2</sup>__ _v tr_ :dart: __1__ To act upon as a laxative. __2__ To treat with, or as if with, a medicine. __3__ To cure or heal.  
-__pillory__ _v tr_ (pilloried)  
-__pinafore__ _n_  
-__pit<sup>1</sup>__ _n_  
-__pit<sup>2</sup>__ _v tr_ __2__ To set in direct opposition or competition: _a war that pitted brother against brother._ _They pit two neural networks against each other._  
-__pit<sup>3</sup>__ _v intr_  
-__plaintive__ _adj_  
-__playact__ _v intr_ (play-act) __2__ To play a pretended role; make believe.  
-__plaza__ _n_ :mega:  
-__plodder__ _n_  
-__plodding__ _adj_  
-__plummet__ _v tr_ /ˈplʌm ɪt/ To fall straight or sharply down; plunge.  
-__pogrom__ _n_  
 __poison__ _n_ /ˈpɔɪzən/  
 __porthole__ _n_  
 __possum__ _n_ _Possums in New Zealand are known to destroy plants, birds’ nests, and eat birds’ eggs and invertebrates, posing a serious threat to forests and native wildlife._ :es: zarigüeya  

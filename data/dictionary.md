@@ -8698,7 +8698,7 @@ __hoe<sup>2</sup>__ _v_ (hoeing) :two: _Hoeing soybeans._
 __hoedowns__ _n_  
 __hog cracklings__  
 __hog the sofa__  
-__hog<sup>1</sup>__ _n_ :two: (hogged) _slang_ A big, heavy motorcycle.  
+__hog<sup>1</sup>__ _n_ :three: (hogged) _slang_ A big, heavy motorcycle. A large motorcycle, often a Harley-Davidson. _I can’t wait to get my hog out on the open road and feel the wind in my hair._  
 __hog<sup>2</sup>__ _v_ :three: __4__ _informal_ To take more than one’s share of: _Don’t hog the couch._ _Don’t hog the floor during meetings._  
 __hogslop__  
 __hogwash__ _n_ :four: Worthless, false, or ridiculous speech or writing; nonsense. _Syn_ bunkum, guff, rot _The entire article is hogwash, and I demand that you print a retraction posthaste!_  
@@ -9842,7 +9842,7 @@ __kaboom__ _n_ An onomatopoeia representing the sound of an explosion.
 __kabuki__ _n_ :three::hammer:  
 __kachina__ _n_  
 __kaffeeklatsch__ _n_  
-__Kafkaesque__ _adj_  
+__Kafkaesque__ _adj_ :two::hammer: /ˌkɑf kəˈɛsk/  
 __kairos__ _n_ /KY-rahs/ The right time for taking an action; a decisive moment.  
 __kale__ _n_ :six::hammer:  
 __kamikaze__ _n_ :mega:  
@@ -9981,6 +9981,7 @@ __knick-knack__ _n_
 __Knickerbocker__ _n_ __1a__ A descendant of the Dutch settlers of New York. __b__ :dart: A native or inhabitant of New York. __2__ Full breeches gathered and banded just below the knee; knickers.  
 __knickers__ _n_ :two::camera: __2__ A US variant of knickerbockers.  
 __knife__ _n, v_ :mute:[~~k~~nife]  
+__knight errant__ _n_ A knight who wanders in search of deeds of courage, chivalry, etc.  
 __knight__ _n_ :mute:[~~k~~night]:mute:[kni~~gh~~t]  
 __knit cap__ _n_ A soft, head-hugging cap usually without a specified front or back, barring those with designs or logos.  
 __knit tie__  
@@ -10039,6 +10040,7 @@ __kumquat__ _n_
 __kung flu__ _n_ Racist name for the COVID-19 coronavirus.  
 __kurtosis__ _n_  
 __kvell__ _v intr_ :pencil2: _slang_ To be extraordinarily pleased; esp., to be bursting with pride, as over one’s family. To be happy or show satisfaction. _The parents kvelled over their daughter’s dance solo._  
+__Kwanzaa__ _n_ /ˈkwænzɑː/ (Kwanza) A seven-day festival beginning on Dec 26 when African-Americans celebrate family, community, and culture.  
 __kybosh__ _v_  
 __kyphoplasty__ _n_ A treatment for a vertebral compression fracture in which a collapsed vertebral body is restored to its normal size and shape with a balloon, followed by the injection of bone cement to maintain the bone’s shape and strength.  
 __L-plate__ _n_ _He saw the L-plate on the back of the car._  
@@ -10894,7 +10896,7 @@ __Mandy__ _n_ Diminutive form of Amanda.
 __mane__ _n_ :five::hammer: _A lion’s mane._  
 __maneuver<sup>1</sup>__ _n_ :two: A movement or combination of movements involving skill and dexterity: _a gymnastics maneuver._  
 __maneuver<sup>2</sup>__ _v_ :two::hammer:  
-__manger__ _n_ :three: A container (usually in a barn or stable) from which cattle or horses feed. A trough or an open box in which feed for livestock is placed. _Syn_ trough, feeder, crib _All the feed went into one manger._  
+__manger__ _n_ :four: A container (usually in a barn or stable) from which cattle or horses feed. A trough or an open box in which feed for livestock is placed. _Syn_ trough, feeder, crib _All the feed went into one manger._ _Nativity scenes depicting the scene of Jesus’s birth include the baby Jesus in a manger._  
 __mangle__ _v_ :two: __1__ To mutilate or disfigure by battering, hacking, cutting, or tearing: _fishing nets that mangle fish._ _Syn_ maim __2__ To ruin or spoil through ineptitude or ignorance: _mangle a speech._  
 __mangrove__ _n_  
 __mangy__ _adj_ :three::hammer:  
@@ -11574,7 +11576,7 @@ __mortified__ _adj_ :seven: Having been offended or embarrassed.
 __mortify__ _v_  
 __mortuaries__  
 __mosey<sup>1</sup>__ _n_  
-__mosey<sup>2</sup>__ _v intr_ :three:hammer:  
+__mosey<sup>2</sup>__ _v intr_ :four:hammer:  
 __mosh pit__ _n_ :two: An area in front of a stage where very physical and rough dancing takes place at a rock concert.  
 __mosh__ _v intr_ :two: To knock against others intentionally while dancing at a rock concert; slam-dance.  
 __mosque__ _n_ :two::hammer: (mosques)  
@@ -11766,6 +11768,7 @@ __mythos__ _n_ :four::hammer:
 __naan bread__ _n_  
 __nab__ _v_ :seven::hammer: (nabbed, nabbing) _You can nab bargains before Black Friday._ _Filipino actor nabbed with 1kg of marijuana._ _Leave no stone unturned to nab the perpetrators._ _She finished second and nabbed $150,000._  
 __nacelle__ _n_ __1__ The enclosed part of an airplane, dirigible, etc., in which the engine is housed or in which cargo or passengers are carried. __2__ The car of a balloon.  
+__nacre__ _n_ /ˈneɪkə/ The technical name for mother-of-pearl.  
 __nadir__ _n_ :four: /NAY-deer/ __1__ An extreme state of adversity; the lowest or worst point of anything. _Syn_ low-water mark, rock bottom _The nadir of French fortunes._ _Only once the novel’s protagonist reaches her nadir does she arouse the reader’s empathy, and we root for her to climb back to respectability._ __2__ When used in astronomy, nadir describes the point of the celestial sphere that is directly opposite the zenith and vertically downward from the observer.  
 __naevus__ _n_ (nevus)  
 __nag<sup>1</sup>__ _v_ :five::hammer:  
@@ -11877,7 +11880,7 @@ __neocortex__ _n_
 __neologism__ _n_  
 __neonate__ _n_ A newborn infant, especially one less than four weeks old. _Syn_ newborn  
 __neophilia__ _n_  
-__neophyte__ _n_ :two::hammer:  
+__neophyte__ _n_ :three: A beginner or novice. _Syn_ fledgling, newbie, newcomer, freshman, entrant, starter  
 __neorealist__  
 __neoteric__  
 __Nepalese__ _adj_  
@@ -12670,7 +12673,7 @@ __overtourism__ _n_ A situation in which too many tourists travel to a popular d
 __overtures__ _n_  
 __overturn__ _v_ (overturning) _It is part and parcel of overturning obstacles._  
 __overview__ _n_ A general review or summary of something.  
-__overweenimg__ _adj_ :two::hammer: _An overweening pride._  
+__overweening__ _adj_ :three: /oh-ver-WEE-ning/ To describe someone as _overweening_ is to say that they are arrogant and unduly proud. _Overweening_ also disapprovingly describes qualities or desires, such as greed or ambition, that are seen as excessive. _An overweening pride._  
 __overwhelm__ _v_ /oh-ver-WELM/  
 __overwrought__ _adj_ :four::hammer: _Overwrought adults_ _Overwrought minds turned to magic and the supernatural._  
 __overzealous__ _adj_ :two::hammer:  
@@ -12700,7 +12703,7 @@ __package peanuts__
 __package__ _n_ :two::hammer::mega: /păk′ĭj/  
 __packtrain__ _n_ :two: A string of animals for transporting supplies and equipment.  
 __Pacu__ _n_ :astonished: A South American fresh-water fish.  
-__pad__ _v intr_ __1__ To go about on foot. __2__ To move or walk about almost inaudibly. _The cat was padding through the grass._  
+__pad__ _v intr_ :two: __1__ To go about on foot. __2__ To move or walk about almost inaudibly. _The cat was padding through the grass._  
 __padded__ _adj_ _He leaned back in his padded chair._  
 __padding__ _v_ _Those who imagine slumber parties and members padding in their slipeers down dark hallways would be disappointed._  
 __paddle<sup>1</sup>__ _n_  
@@ -13182,7 +13185,7 @@ __permeable__ _adj_ /PER-mee-uh-bul/
 __permeate__ _v_  
 __permed__  
 __permit__ _n_ _Camping permit fee._  
-__pernicious__ _adj_ :eight: /per-nish-uhs/ __1__ Having a harmful effect or influence. Causing insidious harm or ruin; ruinous; injurious; hurtful: _pernicious teachings; a pernicious lie._ _Syn_ harmful, damaging, destructive _The belief that we are just our genes is one of the most pernicious myths in modern culture._ __2__ Deadly; fatal. Tending to cause death or serious injury. _Syn_ baneful, pestilent, deadly _The pernicious effects of alcoholism are well documented in the medical literature._ _A pernicious disease._  
+ __pernicious__ _adj_ :nine: /per-nish-uhs/ __1__ Having a harmful effect or influence. Causing insidious harm or ruin; ruinous; injurious; hurtful: _pernicious teachings; a pernicious lie._ _Syn_ harmful, damaging, destructive _The belief that we are just our genes is one of the most pernicious myths in modern culture._ __2__ Deadly; fatal. Tending to cause death or serious injury. _Syn_ baneful, pestilent, deadly _The pernicious effects of alcoholism are well documented in the medical literature._ _A pernicious disease._  
 __peroral__ _adj_ _Medicine_ Administered or performed through the mouth, as surgery or administration of a drug. Through or by way of the mouth: _a peroral infection; peroral administration of fluids._  
 __peroxide__  
 __perpetrate__ _v_ Perform an act, usually with a negative connotation. _Syn_ commit, pull _Only a sadistic, depraved person could perpetrate a crime like this._  
@@ -13283,6 +13286,8 @@ __photography__ _n_ :mega:
 __photovoltaic__ _adj_ Capable of producing a voltage when exposed to radiant energy, especially light.  
 __phub__ _n_ _slang_ :dart: To ignore someone in one’s presence in order to pay attention to the content on one’s phone or other mobile device. The term derives from “phubbing,” a combination of “phone” and “snubbing” that was coined as part of a marketing campaign for an Australian dictionary. _I’m right here—quit phubbing me and read your tweets later!_  
 __phylacteries__ _n_ :two::hammer:  
+__physic<sup>1</sup>__ _n_ :dart: /ˈfɪz ɪk/ __1__ A medicine, especially one that acts as a laxative. __2__ A doctor. __3__ Medical science or the medical profession.  
+__physic<sup>2</sup>__ _v tr_ :dart: __1__ To act upon as a laxative. __2__ To treat with, or as if with, a medicine. __3__ To cure or heal.  
 __physicalize__ _v_ __1__ To express with the body: _physicalize one’s emotions._ __2__ To describe or interpret in physical terms: _“a writer who physicalizes everything he feels” (James Wolcott)._  
 __physiology__ _n_  
 __phytophagous__ _adj_ Feeding on plants, including shrubs and trees. _Syn_ plant-eating, phytophilous _The dot moth is phytophagous, feeding on a wide variety of plants._  
@@ -13363,7 +13368,8 @@ __pill caddy__ _n_
 __pillbox hat__ _n_ :two::hammer:  
 __pillbox__ _n_ :two: [:scroll: From pill, from Latin pilula (little ball), from pila (ball) + box, from Old English, from Latin buxis, from pyxis (boxwood box), from Greek pyxis, from pyxos (box tree).] __1__ A small container for pills. __2__ A small fortified enclosure, used for firing weapons, observing, etc. __3__ A small brimless hat with a flat top and straight sides. _A plum-colored pillbox hat._ __4__ Something small or ineffectual.  
 __pilloried__ _v_ :two::hammer:  
-__pillory__ _n_  
+__pillory<sup>1</sup>__ _n_  
+__pillory<sup>2</sup>__ _v tr_ (pilloried)  
 __pillowcase__ _n_ :three: (pillow case) A cloth cover for a pillow.  
 __pilot light__ _n_ :astonished:  
 __pilot__ _v tr_ __2__ To steer or control the course of: _piloted the visitors around the city._  
@@ -13375,7 +13381,7 @@ __pin-curled__
 __pin-drop silence__  
 __pin<sup>1</sup>__ _n_ :camera: _McCloud needed a pin placed in his wrist this offseason._  
 __pin<sup>2</sup>__ _v_ :two: (pinned) _Evans pinned a 32-18 loss to the New York Giants._ _Pin the blame on its inability to develop an economy independent of the United States._  
-__pinafore__  
+__pinafore__ _n_ :two::hammer:  
 __pinback__ _n_ :two::hammer:  
 __pincer__ _n_ :two: __3__ A military maneuver in which an enemy force is attacked from two flanks and the front. _A pincer movement._  
 __pinch > in a pinch__  
@@ -13443,8 +13449,9 @@ __pistachios__ _n_ :two::pencil2::hammer:
 __pit latrine__ _n_  
 __pit toilet__ _n_  
 __pit wagon__  
-__pit<sup>1</sup>__ _n_ :three::hammer: _The pit of his stomach._ _Money pit._ _A pit of snakes._  
-__pit<sup>2</sup>__ _v tr_ :four::hammer: __2__ To set in direct opposition or competition: _a war that pitted brother against brother._ _The culture of complaints pits providers against patients._ _The special election pits Ed Marley against Gabriel Gomez._ _1/2 mango, peeled and pitted._ _You don’t pit amateurs against pros._  
+__pit<sup>1</sup>__ _n_ :four::hammer: _The pit of his stomach._ _Money pit._ _A pit of snakes._  
+__pit<sup>2</sup>__ _v tr_ :five::hammer: __2__ To set in direct opposition or competition: _a war that pitted brother against brother._ _The culture of complaints pits providers against patients._ _The special election pits Ed Marley against Gabriel Gomez._ _1/2 mango, peeled and pitted._ _You don’t pit amateurs against pros._ _They pit two neural networks against each other._  
+__pit<sup>3</sup>__ _v intr_  
 __pita__ _n_ A round flat bread of Middle Eastern origin that can be opened to form a pocket for filling. Also called _pocket bread_.  
 __pitch in__ _v_  
 __pitch__ _v_ _They hadn’t rolled or pitched too much 9n the storm they hit just outside of San Francisco._  
@@ -13488,7 +13495,7 @@ __plague<sup>2</sup__ _v_
 __plaid__ _n_ :two::hammer: _Plaid number._ _Plaid shirt._  
 __plaint__ _n_ A cry of sorrow and grief. _Syn_ lament, lamentation, wail _The plaints of the bereaved widow and her young children haunt me in my sleep._  
 __plaintiff__ _n_ (plaintiffs) :three::hammer:  
-__plaintive__ _adj_ :seven: /PLAYN-tiv/ Plaintive is an adjective for describing someone or something with a pleading, sorrowful, desperate tone. If you have ever heard the plaintive howl of a wolf, then you know what we are getting at here. Expressing sorrow; melancholy. Something (usually a sound) that is described as plaintive is expressive of sorrow or suffering. _Syn_ mournful _She uttered a plaintive sob, closed her fine eyes, and fled, trying in vain to still the beating of her heart._  
+__plaintive__ _adj_ :eight: /PLAYN-tiv/ Plaintive is an adjective for describing someone or something with a pleading, sorrowful, desperate tone. If you have ever heard the plaintive howl of a wolf, then you know what we are getting at here. Expressing sorrow; melancholy. Something (usually a sound) that is described as plaintive is expressive of sorrow or suffering. _Syn_ mournful _She uttered a plaintive sob, closed her fine eyes, and fled, trying in vain to still the beating of her heart._  
 __plaintively__ _adv_ :three:  
 __plaiting__ _n_ _Tshanyi earns money plaiting hair._  
 __plan B__ _n_ (capital B) An alternative strategy. _It’s time I put plan B into action._  
@@ -13534,6 +13541,7 @@ __play second fiddle__
 __play short__  
 __play tricks on someone__  
 __play-off__ _n_ :pencil2:  
+__playact__ _v intr_ (play-act) __2__ To play a pretended role; make believe.  
 __playbook__ _n_ :six::hammer: _The industry’s playbook._  
 __playful__ _adj_ _A playful aside._  
 __playmaker__ _n_ :two: A player who leads the offense for a team (as in basketball or hockey).  
@@ -13542,6 +13550,7 @@ __playpark__ _n_
 __playpen__ _n_ :two: A portable enclosure in which babies may be left to play. _Playpen balls._  
 __playthings__ _n_  
 __playwright__ _n_ :three::hammer:  
+__plaza__ _n_ :mega:  
 __plea deal__  
 __plea__ _n_ :seven::hammer: _A prayerful plea to break free of alcohol._ _A plea for legitimacy._ _She responded to Jack’s plea for help._  
 __plead out__  
@@ -13571,6 +13580,8 @@ __plinian__ _adj_
 __plinking__  
 __plinth__ _n_ :four::hammer: (plinths)  
 __plod__ _v_ :nine::m: (plodded, plodding) __1__ To walk heavily, slowly, and with difficulty. _Syn_ slog, slop, toil, trudge, wade _Plod to the shower._ __2__ To do tedious, laborious, and sometimes menial work. _Syn_ drudge, grub, slave, slog. _Average people go to work and plod through the day._  
+__plodder__ _n_  
+__plodding__ _adj_  
 __plonk__ _v_ :two::hammer: (plonked)  
 __plop<sup>1</sup>__ _n_ A short sound as of a small, solid object dropping into water without a splash. _The stone fell into the water with a soft plop._  
 __plop<sup>2</sup>__ _v_ :nine: (plopping, plopped, plops) __3__ Fall or cause to fall with a plop. To drop or fall with full force or direct impact: _to plop into a chair._ _Really resist the temptation to plop down into the chair._ _The stone plopped into the pond._ _He plopped his hat on._  
@@ -13591,7 +13602,7 @@ __plumb__ _v_ :two::hammer:
 __plumbago__ _n_  
 __plumber__ _n_ :mute:[plum~~b~~er]  
 __plumbing__  
-__plummet__ _v_ :seven::hammer: (plummeted, plummeting)  
+__plummet__ _v tr_ :eight: /ˈplʌm ɪt/ To fall straight or sharply down; plunge.  
 __plump<sup>1</sup>__ _adj_ _Plump and juicy hotdogs._  
 __plump<sup>2</sup>__ _v_  
 __plums__ _n_ :three::hammer:  
@@ -13636,7 +13647,7 @@ __podsnappery__ _n_ (derogatory) Smug self-satisfaction and a lack of interest i
 __Podunk town__  
 __Poe, Edgar Allan__ _n_ :mega: /pəʊ/  
 __pogonip__ _n_ A dense winter fog containing ice particles. _Syn_ ice fog  
-__pogrom__ _n_ :dart::seven: (pogroms) An organized, often officially encouraged massacre or persecution of a minority group, especially one conducted against Jews.  
+__pogrom__ _n_ :dart::eight: (pogroms) An organized, often officially encouraged massacre or persecution of a minority group, especially one conducted against Jews.  
 __poignance__ _n_  
 __poignant__ _adj_ :six: Making you feel sad or full of pit. _This is another, more poignant example._ _A poignant ceremony._  
 __poinsettia__ _n_ :pencil2:  
