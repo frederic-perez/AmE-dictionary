@@ -57,6 +57,7 @@
 - __Sam__ A given name or nickname, often used by people named “Samuel,” “Samson,” and “Samantha”, and occasionally used by people named “Salvatore.”
 - __Sid__ A nickname deriving from (and hypocorism for) the given name Sidney, Siddhartha, Sidonia, or Sidra, though it is also used by people with other given names.
 - __Sue__ Acommon short form of the following female given names: Susan, Susanna/Susannah/Suzanna, Susanne, Suzanne. It is rarely used as a man’s name, a notable example being Sue K. Hicks (1895-1980), American jurist, who may have inspired the song “A Boy Named Sue”.
+- __Tad__ A male given name or shortened version of Tadhg, Thaddeus, Thomas or other names.
 - __Ted__ A shortened form of Edward, Thaddeus, or Theodore.
 - __Tim__ A masculine given name; it can also be used as a short form of Timothy.
 - __Tod__ The name Tod is derived from the Old English word “todde,” which means “fox.” This animal association has contributed to the name’s popularity, as foxes are often associated with cleverness, agility, and adaptability.
