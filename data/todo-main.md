@@ -1,28 +1,3 @@
-__poison__ _n_ /ˈpɔɪzən/  
-__porthole__ _n_  
-__possum__ _n_ _Possums in New Zealand are known to destroy plants, birds’ nests, and eat birds’ eggs and invertebrates, posing a serious threat to forests and native wildlife._ :es: zarigüeya  
-__Precambrian__ _adj, n_  
-__precipice__ _n_  
-__prediction__ _n_ :mega: /prɪˈdɪk ʃən/  
-__preparedness__ _n_ /prɪˈpɛər ɪd nɪs, -ˈpɛərd nɪs/ The state of being prepared or ready, esp militarily ready for war.  
-__prevail__ _v intr_  
-__pricking__ _n_ _The prickings of memory._ (_Prickings of conscience._ :es: remordimientos)  
-__prime__ _v_  
-__prove__ _v intr_ To be shown to be such; turn out: _a theory that proved impractical in practice; a schedule that proved to be too demanding._  
-__pry__ _v_  
-__psyche__ _n_ /ˈsaɪkɪ/ (Psychology) The human mind or soul.  
-__psychobabble__ _n_  
-__punitive__ _adj_ :three: Relating to, involving, or with the intention of inflicting punishment. _Punitive damages._ _The Green party wants punitive taxes on petrol._  
-__pup__ _n_  
-__purloin__ _v tr_  
-__purportedly__  
-__purpose__ _n_ :mega:  
-__purview__ _n_ /PER-vyoo/ _Purview_ refers to an area within which someone or something has authority, influence, or knowledge. It can also refer to a range of vision, understanding, or awareness.  
-__pusillanimous__ _adj_  
-__pyromancy__ _n_  
-__quaint__ _adj_  
-__quash__ _v tr_  
-__quiescent__ _adj_  
 __quixotic__ _adj_ /kwik-SAH-tik/  
 __racketeer__ _n, v_  
 __radio__ _v_ _He never even thought to radio for help._  

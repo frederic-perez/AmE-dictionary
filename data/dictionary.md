@@ -13185,7 +13185,7 @@ __permeable__ _adj_ /PER-mee-uh-bul/
 __permeate__ _v_  
 __permed__  
 __permit__ _n_ _Camping permit fee._  
- __pernicious__ _adj_ :nine: /per-nish-uhs/ __1__ Having a harmful effect or influence. Causing insidious harm or ruin; ruinous; injurious; hurtful: _pernicious teachings; a pernicious lie._ _Syn_ harmful, damaging, destructive _The belief that we are just our genes is one of the most pernicious myths in modern culture._ __2__ Deadly; fatal. Tending to cause death or serious injury. _Syn_ baneful, pestilent, deadly _The pernicious effects of alcoholism are well documented in the medical literature._ _A pernicious disease._  
+__pernicious__ _adj_ :nine: /per-nish-uhs/ __1__ Having a harmful effect or influence. Causing insidious harm or ruin; ruinous; injurious; hurtful: _pernicious teachings; a pernicious lie._ _Syn_ harmful, damaging, destructive _The belief that we are just our genes is one of the most pernicious myths in modern culture._ __2__ Deadly; fatal. Tending to cause death or serious injury. _Syn_ baneful, pestilent, deadly _The pernicious effects of alcoholism are well documented in the medical literature._ _A pernicious disease._  
 __peroral__ _adj_ _Medicine_ Administered or performed through the mouth, as surgery or administration of a drug. Through or by way of the mouth: _a peroral infection; peroral administration of fluids._  
 __peroxide__  
 __perpetrate__ _v_ Perform an act, usually with a negative connotation. _Syn_ commit, pull _Only a sadistic, depraved person could perpetrate a crime like this._  
@@ -13659,6 +13659,7 @@ __pointed questions__
 __pointless__ _adj_ :four::hammer:  
 __poise__ _n_ :two::hammer: _Develop poise between body and mind._  
 __poison ivy__ _n_ :es: hiedra venenosa  
+__poison__ _n_ /ˈpɔɪzən/  
 __poke__ _v_  
 __poker face__ _n_ A face lacking any interpretable expression, as that of an expert poker player.  
 __poker__ _n_ _(Tools)_ A metal rod, usually with a handle, for stirring a fire.  
@@ -13769,7 +13770,7 @@ __portent__ _n_ :five::hammer: (portents)
 __portentous__ _adj_ :two::hammer: /por-TEN-tuss/  
 __porter__ _n_  
 __porterhouse__ _n_ :six::hammer: :es: bistec de filete _Its tender dry-aged porterhouse is unmatched._  
-__porthole__ _n_ :two: __1__ _Nautical_ A small, usually circular window in a ship’s side. __2__ An opening in a fortified wall; an embrasure.  
+__porthole__ _n_ :three: __1__ _Nautical_ A small, usually circular window in a ship’s side. __2__ An opening in a fortified wall; an embrasure.  
 __portico__ _n_  
 __Portlander__ _n_  
 __portly__  
@@ -13784,7 +13785,7 @@ __posit<sup>1</sup>__ _v tr_ :seven::hammer::pencil2: (posited) _BYU has posited
 __posit<sup>2</sup>__ _n_ A proposition that is accepted as true in order to provide a basis for logical reasoning. _Syn_ postulate  
 __posse__ _n_ :two::hammer: _A posse clad._  
 __possum > play possum__ _v informal_ :seven: To pretend to be ignorant, asleep, or deal in order to deceive somebody. _To play possum._ _He’d been playing possum._  
-__possum__ _n_ :four::hammer: :es: zarigüeya  
+__possum__ _n_ :five::hammer: _Possums in New Zealand are known to destroy plants, birds’ nests, and eat birds’ eggs and invertebrates, posing a serious threat to forests and native wildlife._ :es: zarigüeya  
 __post hoc__ _adj, adv, n_ :two::hammer:  
 __post-war groove__  
 __postbellum__ _adj_ :two: Of, relating to, or characteristic of the period following a war and especially following the American Civil War. _Postbellum years._  
@@ -13876,6 +13877,7 @@ __prayer wheel__
 __praying mantis__ _n_ A mantis, especially the European species _Mantis religiosa_, which while at rest folds its front legs as if in prayer.  
 __pre-emptive__  
 __preachment__ _n_ A tiresome or unwelcome moral lecture or discourse; tedious sermonizing. _Syn_ homily _Don’t torment me with your preachments now, unless you want to kill me outright._  
+__Precambrian__ _adj, n_  
 __precarious__ _adj_ :two: /prih-KAIR-ee-us/ Precarious means “characterized by uncertainty, insecurity, or instability that threatens with danger.” _College debt leaves many students in a precarious financial situation after graduation._ _The books were stacked high in a precarious tower._  
 __preceded__ _v_  
 __precedent<sup>1</sup>__ _n_  
@@ -13883,6 +13885,7 @@ __precedent<sup>2</sup>__ _adj_
 __precept__ _n_ A rule, instruction, or principle that teaches correct behavior.  
 __preceptor__ _n_ :three::hammer:  
 __precint__  
+__precipice__ _n_  
 __precipitancy__ _n_ The quality of happening with headlong haste or without warning. _Syn_ suddenness, abruptness  
 __precisely__ _adv_ :two::hammer: _Keeping it real, or more precisely keeping it fair, has proved a challenge._  
 __precision<sup>1</sup>__ _n_  
@@ -13894,6 +13897,7 @@ __predate__ _v_ :six::hammer: (predated) _The building predated the revolution._
 __predator__ _n_ :three::mega::hammer: /ˈprɛd ə tər, -ˌtɔr/  
 __prediabetes__  
 __predicament__ _n_ :nine::m: A situation, especially an unpleasant, troublesome, or trying one, from which extrication is difficult. _I’m sorry to see you in this predicament._ _Hearsay suggests that green apples can induce such a predicament._ _She was sorry for her daughter’s predicament._  
+__prediction__ _n_ :mega: /prɪˈdɪk ʃən/  
 __predilection__ _n_ /pred-uh-LEK-shun/ __1__ A natural liking for something. _The restaurant’s chef has a predilection for creating spicy new dishes._ __2__ A tendency to do or to be attracted to something. _The program is geared toward students who have predilections for learning a skilled trade._  
 __preeminent__ _adj_ :five::hammer:  
 __preempt__ _v_ :two::hammer:  
@@ -13917,6 +13921,7 @@ __Prep__
 __prep<sup>1</sup>__ _adj_  
 __prep<sup>2</sup>__ _n_  
 __prep<sup>3</sup>__ _v_ :seven::hammer: (prepped, prepping) _I was prepping for the show._  
+__preparedness__ _n_ /prɪˈpɛər ɪd nɪs, -ˈpɛərd nɪs/ The state of being prepared or ready, esp militarily ready for war.  
 __preponderate__ _v_  
 __prepone__ _v_ To bring forward to an earlier time.  
 __preposterous__ _adj_ :nine::m: Contrary to nature, reason, or common sense; absurd. _Pre- means before. Post- means after. To use both prefixes together, ...would be preposterous._ _Syn_ foolish  
@@ -13963,7 +13968,7 @@ __preterm birth__ _n_ :two: Preterm birth (PTB), also known as premature birth, 
 __preternatural__ _n_  
 __pretty penny__ _n_ _informal_ A considerable sum of money: _I paid a pretty penny for that ring._  
 __pretzel__ _v_ Twist, bend, or contort. _He found the snake pretzeled into a tangle of knots._  
-__prevail__ _v_ :four::hammer: (prevails)  
+__prevail__ _v intr_ :five::hammer: (prevails)  
 __prevalence__ _n_ :two: The total number of cases of a disease in a given population at a specific time.  
 __prevalent__ _adj_ :two::hammer:  
 __prevaricate__ _v_ :five::dart: To speak falsely, misleadingly, or so as to avoid the truth; deliberately misstate or create an incorrect impression; equivocate; lie. _Syn_ beat around the bush, palter, tergiversate  
@@ -13981,6 +13986,7 @@ __prick__ _v_
 __prick-tease__ _n_ :dart: (prick-teaser) A woman who is sexually provocative but refuses to engage in sexual activity. _She was a first-class prick-tease._  
 __prick<sup>1</sup>__ _v_ :seven::hammer: (pricked, pricking) _Pricked by a needle._ __3__ To affect with a mental or emotional pang, as of sorrow or remorse: _criticism that pricked his conscience._ _To prick consciences._ _Horse pricked up her ears and pranced._ _Pricking their finger to do a blood test._  
 __prick<sup>2</sup>__ _n_ _He already had the prick for it._  
+__pricking__ _n_ _The prickings of memory._ (_Prickings of conscience._ :es: remordimientos)  
 __prickle__ _n_ :two: __2__ A tingling or pricking sensation: _felt prickles in my leg after sitting for so long._  
 __prickled__ _v_ _Rob’s skin prickled._  
 __prickling__ _n_ :two: A somatic sensation as from many tiny prickles. _Syn_ tingling, tingle  
@@ -13997,7 +14003,7 @@ __primacy__ _n_
 __primal__ _adj_ :two::hammer: _He let out a primal scream._ _Primal feelings._  
 __primary school__ _n_ A school for young children; usually the first 6 or 8 grades.  
 __Prime Minister__  
-__prime__ _v_ :two::hammer:  
+__prime__ _v_ :three::hammer:  
 __prime-age__  
 __prime<sup>1</sup>__ _adj_ :five::hammer: _Their master bedroom has a prime view of the green wall._ _Prime steaks._ _Prime examples of his work still exist._  
 __prime<sup>2</sup>__ _n_ :two::hammer:  
@@ -14160,7 +14166,7 @@ __protonation__ _n_
 __protract__ _v_ :three: (protracted) Lengthen in time; cause to be or last longer. _Syn_ prolong, draw out, extend _Wisputants who needlessly protracted the negotiations._  
 __protracted__ _adj_ :two: Extended or lengthened in time; prolonged: _a protracted legal battle._ _The king’s health required protracted stops._ _A protracted discussion._  
 __prove<sup>1</sup>__ _v tr_  
-__prove<sup>2</sup>__ _v intr_ To be shown to be such; turn out: a theory that proved impractical in practice; _a schedule that proved to be too demanding._ _His first story proved immensely popular._  
+__prove<sup>2</sup>__ _v intr_ :two: To be shown to be such; turn out: _a theory that proved impractical in practice; a schedule that proved to be too demanding._ _His first story proved immensely popular._  
 __provenance__  
 __provender__ _n_ :three::hammer:  
 __proverb__ _n_ A short, common saying or phrase that gives advice or shares a universal truth.  
@@ -14179,7 +14185,7 @@ __prudery__ _n_
 __prudishness__ _n_  
 __prurient__ _adj_ :three::hammer:  
 __pruritus__ _n_ :three: Severe itching, often of undamaged skin. An intense itching sensation that can have various causes (as by allergies or infection or lymphoma or jaundice etc.). Ocular pruritus: itching in the eye. Brachioradial pruritus: itching in the outer part of the lower arm. Senile pruritus: itching due to aging skin. Cholestatic pruritus: itching due to liver disease.  
-__pry__ _v_  
+__pry__ _v_ :two::hammer:  
 __pry<sup>1</sup>__ _v intr_ :nine::m: To look or inquire closely, curiously, or impertinently: _was always prying into the affairs of others._  
 __pry<sup>2</sup>__ _v tr_ :nine::m: __1__ To raise, move, or force open with a lever. _He pries your buttocks apart._ _To pry the crack open wider and wider._ __2__ To obtain with effort or difficulty: _pried a confession out of the suspect._  
 __psalm<sup>1</sup>__ _n_ :two::mute:[psa~~l~~m, ~~p~~salm] /sahm/ A sacred poem or song.  
@@ -14189,14 +14195,14 @@ __pseudo__ _adj_ :two::mute:[~~p~~seudo] /ˈsu doʊ/ Made-up; false, pretended, 
 __pseudonym__ _n_ :mute:[~~p~~seudonym] /so͞od′n-ĭm′/  
 __pseudopseudohypoparathyroidism__  
 __psych__ _v_  
-__psyche__ _n_ :two::pencil2::mega::mute:[~~p~~syche]:hammer:  
+__psyche__ _n_ :three::pencil2::mega::mute:[~~p~~syche] /ˈsaɪkɪ/ (Psychology) The human mind or soul.  
 __psyched__ _v_  
 __psychiatrist__ _n_ :mute:[~~p~~sychiatrist]  
 __psychic reading__ _n_  
 __psychic<sup>1</sup>__ _n_ :mute:[~~p~~sychic]  
 __psychic<sup>2</sup>__ _adj_ :mute:[~~p~~sychic]  
 __psycho__ _adj_ Mentally deranged; crazy.  
-__psychobabble__ _n_ /SY-ko-bab-uhl/ Language laden with jargon from psychotherapy or psychiatry, used without concern for accuracy.  
+__psychobabble__ _n_ :two: /SY-ko-bab-uhl/ Language laden with jargon from psychotherapy or psychiatry, used without concern for accuracy.  
 __psychology__ _n_ :mute:[~~p~~sychology]  
 __psychopath__  
 __psychopathic__  
@@ -14274,13 +14280,14 @@ __pungent__ _adj_ :three: /PUN-junt/ Pungent typically describes things that hav
 __pungi__  
 __punim__ _n slang_ /POO-nuhm/ [:scroll: From Yiddish ponem (face), from Hebrew panim (face)] The face.  
 __punitive damages__ _n pl_ Damages awarded in cases of serious or malicious wrongdoing to punish or deter the wrongdoer or deter others from behaving similarly.  
-__punitive__ _adj_ :two::hammer: _Punitive pension tax charges._  
+__punitive__ _adj_ :five: Relating to, involving, or with the intention of inflicting punishment. _Punitive damages._ _The Green party wants punitive taxes on petrol._ _Punitive pension tax charges._  
 __punt<sup>1</sup>__ _n_ :three: __1__ An open flatbottom boat with squared ends, used in shallow waters and usually propelled by a long pole. __2__ A kick in which the ball is dropped from the hands and kicked before it touches the ground.  
 __punt<sup>2</sup>__ _v tr_ To propel (a ball) by means of a punt.  
 __punt<sup>3</sup>__ _v intr_ :three: __1__ To execute a punt. __2__ _informal_ To cease doing something; give up: _Let’s punt on this and try something else._ _Obama punted until after the election._  
 __punters__ _n_ :two::hammer: _I have laced a few punters._  
 __punting__ _n_ _football_ A kick in which the football is dropped from the hands and kicked before it touches the ground. _Syn_ punt  
 __puny__ _adj_ _A puny garden snail._  
+__pup__ _n_  
 __pupil__ _n_ :two::hammer: /ˈpjuːpəl/  
 __pupillary__ _adj_ _Pupillary distance._  
 __puppet government__ _n_ A government that is appointed by and whose affairs are directed by an outside authority that may impose hardships on those governed.  
@@ -14295,13 +14302,14 @@ __puree<sup>1</sup>__ _n_ :mega:
 __puree<sup>2</sup>__ _v tr_ :three::hammer:  
 __purge__ _v_ :two::hammer:  
 __purist__  
-__purloin__ _v_ :nine: To steal, often in a violation of trust. _Syn_ cabbage, filch, pilfer, snarf, swipe, abstract, nobble, pinch, sneak, hook, lift _Someone at the party purloined my emerald ring!_  
+__purloin__ _v tr_ :nine::m: To steal, often in a violation of trust. _Syn_ cabbage, filch, pilfer, snarf, swipe, abstract, nobble, pinch, sneak, hook, lift _Someone at the party purloined my emerald ring!_  
 __purloiner__ _n_  
 __Purple Hearts__  
 __purple__ _n_ _A hint of purple._  
 __purport<sup>1</sup>__ _v tr_ :nine::m::astonished::hammer: (purported) _The purported attack._ _JFK’s purported affairs._  
 __purport<sup>2</sup>__ _n_  
-__purportedly__ _adv_ :two: Believed or reputed to be the case. _Syn_ supposedly  
+__purportedly__ _adv_ :three: Believed or reputed to be the case. _Syn_ supposedly  
+__purpose__ _n_ :mega:  
 __purr<sup>1</sup>__ _n_ __1__ The soft vibrant sound made by a cat. __2__ A sound similar to that made by a cat: the purr of an engine.  
 __purr<sup>2</sup>__ _v_ :three: (purrs, purring) __1__ To make or utter a soft vibrant sound: _The cat purred. The sewing machine purred._ __2__ To express by a soft vibrant sound.  
 __purse__ _v_ _His lips pursed._  
@@ -14310,7 +14318,7 @@ __purslane__ _n_ :four::hammer:
 __purulent__ _adj_  
 __purveyance__ _n_  
 __purveyor__ _n_ :eight::hammer: _Purveyors of unhelpfully vapid self help._  
-__purview__ _n_ :two::hammer: /ˈpɜr vyu/  
+__purview__ _n_ :three: /PER-vyoo/ /ˈpɜr vyu/ _Purview_ refers to an area within which someone or something has authority, influence, or knowledge. It can also refer to a range of vision, understanding, or awareness.  
 __pus__ _n_ /pʌs/ :pencil2::three: A generally viscous, yellowish-white fluid formed in infected tissue, consisting of white blood cells, cellular debris, and necrotic tissue._Pus bags_  
 __push back__ _phr v_ :two::hammer:  
 __push puppet__ _n_ :camera:  
@@ -14320,7 +14328,7 @@ __pushcart__ _n_ _A pushcart vendor._
 __pushover__ _n_ :dart::nine: A pushover is a person who’s easy to fool or influence. A substitute teacher who’s a pushover is easily convinced that the class usually spends an hour watching music videos. If you’re a pushover, you find it hard to deny anyone what they ask for.  
 __pushpins__  
 __pushy__ _adj_ :three::hammer: _I guess I was a little pushy._ _Pushy sales._  
-__pusillanimous__ _adj_ :two: Characterized by a lack of courage or determination. Lacking courage; cowardly. _Syn_ spineless, craven _Why, you pusillanimous piece of dirt, you’d run with your tail between your legs if I said boo!_  
+__pusillanimous__ _adj_ :three: Characterized by a lack of courage or determination. Lacking courage; cowardly. _Syn_ spineless, craven _Why, you pusillanimous piece of dirt, you’d run with your tail between your legs if I said boo!_  
 __pussyfooting__ _adj, n_ _No pussyfooting around, Mel._  
 __pustule__ _n_ :three::hammer:  
 __put it on the money__  
@@ -14353,6 +14361,7 @@ __pyrheliometer__ _n_ :two::hammer:
 __pyrite__ _n_ :two: /PY-ryt/ [:scroll: From Latin pyrites (flint), from Greek pyrites lithos (stone of fire, flint), from its shiny surface and its use for starting fire.] __1__ A shiny yellow mineral of iron disulfide. Also known as iron pyrites or fool’s gold. __2__ Something that appears valuable but is worthless.  
 __pyroclast__ _n_ /ˈpaɪrəʊˌklæst/ (Geological Science) A piece of lava ejected from a volcano.  
 __pyroclastic__ _adj_ :three::hammer: _Pyroclastic cloud._ _Pyroclastic flow._  
+__pyromancy__ _n_  
 __pyrosis__ _n_ :astonished: A painful burning sensation in the chest caused by gastroesophageal reflux (backflow from the stomach irritating the esophagus); symptomatic of an ulcer or a diaphragmatic hernia or other disorder. _Syn_ heartburn _Even after he swore off spicy foods, his pyrosis kept him up at night._  
 __pyrrhic__ _adj_ :five::pencil2: (of a victory) Won at too great a cost to have been worthwhile for the victor.  
 __Pyrrhonism__ _n_ /PIR-uh-niz-uhm/ [:scroll: After Pyrrho, a Greek philosopher, c. 360-270 BCE.] Extreme or absolute skepticism.  
@@ -14424,7 +14433,7 @@ __quid__
 __quiddity__ _n_ :three: /ˈkwɪdɪtɪ/ /KWID-uh-tee/ Quiddity refers to the essence of a thing—that is, whatever makes something the type of thing that it is. Quiddity can also refer to a small and usually trivial complaint or criticism, or to a quirk or eccentricity in someone’s behavior. _He portrayed the character’s quirks and quiddities with tender playfulness._  
 __quidnunc__ _n_ A person eager to learn news and scandal; gossipmonger.  
 __quiescence__ _n_ A state of quiet (but possibly temporary) inaction. _Syn_ dormancy _The volcano erupted after centuries of quiescence._  
-__quiescent__ _adj_ :five: /kwy-ESS-unt/ __1__ Quiet, still, or inactive.  
+__quiescent__ _adj_ :six: /kwy-ESS-unt/ __1__ Quiet, still, or inactive.  
 __quietude__ _n_ A state of peace and quiet. _Syn_ tranquility, quietness  
 __quiff__ _n_ :two: A woman regarded as promiscuous.  
 __quill__ _n_  
