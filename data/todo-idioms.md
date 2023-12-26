@@ -1,7 +1,10 @@
 __a doozy__  
+__a hill of beans__ Something of little or no importance, value, or worth.  
+__be left holding the bag__ :dart: To have responsibility or guilt for something foisted upon oneself; to take the blame for something. Primarily heard in US. _My partner had been cooking the books for years, but I was left holding the bag when the business collapsed._ _If a project goes bust, investors are left holding the bag._  
 __chuck__ __2__ _v_ _informal_ To eject or force out from some place. _The bouncer chucked the man for being belligerent._ _Vader chucked the emperor._  
 __dippy__ Crazy, silly, or strange.  
 __do a one-eighty__ (do a 180)  
+__end (something) on a high note__  
 __face to face__  
 __fairy godmother__ __1__ In children’s fairy tales, a woman with magical powers who appears in order to help others in their time of need. _Cinderella’s fairy godmother helped her get ready for the ball so she could meet Prince Charming._ __2__ Someone who helps others with their problems, usually providing financial assistance. _Thank you so much for helping me with my car repair bill! You are my fairy godmother._  
 __fall (flat) on (one’s)/its face__  
@@ -10,7 +13,9 @@ __fall short__
 __fallaway jumper__ _basketball_  
 __fast and furious__  
 __filch (something)__ To steal something.  
+__finagle__  
 __final nail in the coffin__  
+__five o’clock shadow__  
 __flat-footed__  
 __fly under (the/someone’s) radar__  
 __flyboy__ _slang_ A pilot or other member of an air force.  
@@ -87,6 +92,7 @@ __have the heart (to do something)__ To be hard hearted, callous, or unsympathet
 __have the last laugh__  
 __have the say__ To have the ultimate authority to command, control, or make a decision. _Your report looks good enough to me, but it’s the manager who has the say on whether it’s finished or not._  
 __have the wind up__ To be very anxious, upset, or frightened. _They had the wind up after we threatened them with legal action._  
+__hawks and doves__ Respectively, those who favor or support aggressive military action, especially regarding foreign policy, versus those who are inclined to more peaceful, diplomatic solutions.  
 __hazarded__ _v_  
 __he who hesitates is lost__  
 __head down__ To proceed or go to some specific destination or event.  
@@ -100,18 +106,30 @@ __heads up__
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
 __heat__ __1__ _slang_ Adverse, hostile criticism. _The senator has been facing a lot of heat in the media for his involvement in the scandal._ __2__ _slang_ Intense pressure. _Their defensive line has been cranking up on the heat on the other team’s quarterback._ __3__ _slang_ Increased police activity in response to some criminal activity. _We’ll have to wait until the heat dies down a bit before we try to sell the stolen goods._ __4__ _slang_ One or more firearms, especially a handgun. _Make sure you’re packing heat before you meet with the rival gang leader._  
 __here and there__  
+__here you are__  
 __hidden agenda__ A secret goal or an ulterior motive.  
 __hide-and-seek__  
 __high stakes__ If you have high stakes in something such as a venture or decision, you have a major interest in its outcome.  
+__high-handed__ Haughtily presumptuous; arrogantly or inconsiderately overbearing. _The new boss is unbearably high-handed in dealing with employees._  
 __highball__ To make an estimate which tends toward exaggeration. _Highball an offer._  
+__hindsight is (always) 20/20__ It is easier to clearly reevaluate past actions or decisions than when they are being made or done; things are clearer or more obvious when they are reflected upon. A reference to the visual acuity of normal eyesight (20/20 vision). _I can see now that having my brother as my legal counsel was unwise, but I guess hindsight is always 20/20._  
 __hit a wall__  
+__hit on all cylinders__ To operate, perform, function, or proceed exceptionally well or at the greatest possible speed or efficiency. _We’ll be hitting on all cylinders if we get Janet to join our team._  
 __hit or miss__ _adj_ Sometimes good or successful, sometimes not; having mixed or unpredictable results; random, aimless, careless, or haphazard. Often hyphenated.  
+__hit the gas__ To move quickly; to accelerate or go faster. Used especially while riding in an automobile. _We’ll need to hit the gas if we want to make it to the movie on time._  
+__hit the rocks__ To encounter an especially difficult, troubled, or low point, as in a relationship or some pursuit. _We’d been great friends for nearly 10 years, but our friendship has hit the rocks lately._  
+__hobby-horse__ A subject, topic, or issue about which one frequently or incessantly talks, expounds, or complains. The term can also be spelled as a single word. _Ah, here we go again. Once grandpa gets on his hobby-horse about the government, there’s no stopping him!_  
+__hog (something)__ To take or use something all for oneself; to not allow others to have or use something. _Hey buddy, quit hogging the road!_  
 __hogwash__  
+__hoist by/with (one’s) own petard__  
+__hold (one’s) water__  
+__hold on to your hat__  
 __hoof it__ _informal_ To walk. _If nobody gives us a ride, we’ll have to hoof it._ _She hoofed it home from the dance in her high-heeled shoes._  
 __hoofing__ Walking.  
 __I don’t belong here__ The idiom “I don’t belong here” is a common phrase used to express a feeling of not fitting in or not being in the right place or situation. It conveys a sense of discomfort, alienation, or a lack of connection with one’s surroundings or the people around them.  
 __I hear you__  
 __I wasn’t born yesterday__ Used to indicate that you are not foolish or gullible.  
+__iffy__ _informal_ Questionable or uncertain.  
 __in (one’s) own right__  
 __in a tizz(y)__ In a nervous, confused, agitated, or excited state.  
 __in earnest__ With sincere intentions.  
@@ -120,6 +138,7 @@ __in the face of (something)__
 __in the know__  
 __into overdrive__  
 __it is what it is__  
+__jerry-built__ _mod._ Carelessly and awkwardly built. _The lawyer’s case was jerry-built, but the jury bought it anyway._  
 __jump the gun__  
 __jump-start__  
 __keep harping on about (someone or something)__ To continue to discuss, mention, or gripe about someone or something in a very persistent and irritating manner. _My roommate keeps harping on about all the irritating people she works with. I wish she would just find a different job already._  
@@ -166,6 +185,7 @@ __miss out on (something)__ To lose the chance or opportunity to do or experienc
 __modus operandi__ :mega: /ˈməʊdəs ˌɒpəˈrændiː; -ˈrændaɪ/  
 __more so__  
 __mud-shark__ In the novels by James Ellroy, the term “mud-shark” is used to refer to a type of predatory behavior, often associated with characters who engage in morally questionable or criminal activities. The term “mud-shark” is symbolic of the predatory nature of certain characters, reflecting their willingness to exploit others for personal gain or pleasure.  
+__muddle along__ “Muddle along” is an idiomatic expression that means to manage or cope with a situation or task in a way that’s somewhat disorganized or unsystematic, but still effective. It suggests that someone is making progress, even if it’s slow or messy. To progress in confusion; to continue awkwardly.  
 __nab__ To catch and arrest someone. Often used in passive constructions.  
 __neck and neck__  
 __nerve-racking__ (nerve-wracking) Causing fear or anxiety.  
@@ -190,6 +210,7 @@ __nudnik__ An irritating, nagging person; a boring pest of a person who makes co
 __null and void__  
 __of late__  
 __off (one’s) case__ No longer a source of constant pressure; not nagging one anymore. _We need to do something to get the boss off our case._  
+__off key__  
 __off to the races__  
 __oh, boy__  
 __okay__ __9__ To give approval, authorization, agreement, or endorsement (for something). _You’ll need the boss to okay any changes you want to make to the budget._ _In the last year Copilot has suggested—and had okayed by developers—more than a billion lines of code._  
@@ -220,6 +241,7 @@ __pass the buck__ To shift or reassign the blame or responsibility (for somethin
 __pave the way (for someone or something)__ :two::hammer:  
 __pay it forward__ To perform some act of kindness for someone else after being the recipient of such an act oneself.  
 __PC__  
+__peach fuzz__ _informal_ A nickname for “vellus hair,” a very thin, soft layer of hair, likened to that which appears on the skin of a peach.  
 __peeps__  
 __percolate__ In the context of James Ellroy’s novels, “percolate” means to spread or become known gradually or by word of mouth. It’s often used to describe the way information or rumors circulate in the criminal underworld, or how news of a crime or scandal might slowly reach the public.  
 __phase out__ :two::hammer:  
@@ -330,6 +352,7 @@ __save on__
 __save the day__  
 __schlep__ __3__ _n, slang_ A foolish, bumbling, or incompetent person. From Yiddish. _Jeff is managing the project? That schlep couldn’t manage his own sock drawer._  
 __schtick__  
+__scooch over__  
 __scooch__ _v_ /skutʃ/  
 __scoop__  
 __scoot__ :two: __1__ _v intr_ To run or scurry quickly from one place to another. _I scooted from the bank to the cleaners and then on to the dentist’s._ __2__ _n_ A motorcycle. _Do you wear a brain-bucket on your scoot?_  
@@ -393,6 +416,7 @@ __stick (one’s) tongue out__
 __stick with (someone or something)__  
 __stir the pot__ To exacerbate a tense or otherwise difficult situation.  
 __stop (dead) in (one’s) tracks__  
+__street urchin__ A poor child who spends most of their time outside, often due to living on the streets.  
 __strike a deal__ :two: To successfully achieve a deal or agreement, especially regarding an acceptable price or exchange for something.  
 __studette__ The female version of a stud. A girl that can get any guy she wants, is incredibly good looking, has an amazing personality and is overall awesome at life.  
 __suck it up__ :dart:  
@@ -411,6 +435,7 @@ __take a deep breath__
 __take a shine to (someone or something)__  
 __take aim (at someone or something)__  
 __take center stage__ To be the main focus.  
+__take the high road__ To choose the most noble, ethical, or diplomatic course or method, especially after or in the face of negativity or ill treatment. _Strive to always take the high road when dealing with others, even if they’ve treated you unfairly in the past. Life has a habit of rewarding those who learn to turn the other cheek._  
 __talk out (of) (one’s) ass__  
 __talk the talk__  
 __tease apart__ “Tease apart” is an idiomatic expression that means to carefully analyze something in order to understand the different components or aspects of it. It’s like trying to untangle a ball of yarn to figure out what each individual strand is made up of. _A clear causal connection between drug use and schizophrenia has been difficult to tease apart._  
