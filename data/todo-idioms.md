@@ -1,28 +1,3 @@
-__a doozy__  
-__a hill of beans__ Something of little or no importance, value, or worth.  
-__be left holding the bag__ :dart: To have responsibility or guilt for something foisted upon oneself; to take the blame for something. Primarily heard in US. _My partner had been cooking the books for years, but I was left holding the bag when the business collapsed._ _If a project goes bust, investors are left holding the bag._  
-__chuck__ __2__ _v_ _informal_ To eject or force out from some place. _The bouncer chucked the man for being belligerent._ _Vader chucked the emperor._  
-__dippy__ Crazy, silly, or strange.  
-__do a one-eighty__ (do a 180)  
-__end (something) on a high note__  
-__face to face__  
-__fairy godmother__ __1__ In children’s fairy tales, a woman with magical powers who appears in order to help others in their time of need. _Cinderella’s fairy godmother helped her get ready for the ball so she could meet Prince Charming._ __2__ Someone who helps others with their problems, usually providing financial assistance. _Thank you so much for helping me with my car repair bill! You are my fairy godmother._  
-__fall (flat) on (one’s)/its face__  
-__fall into (someone’s or something’s) hands__ To come into the possession of some person, group, organization, etc., especially when it is undesirable or detrimental to someone else. _If this report falls into the media’s hands, you can expect a full-blown scandal._  
-__fall short__  
-__fallaway jumper__ _basketball_  
-__fast and furious__  
-__filch (something)__ To steal something.  
-__finagle__  
-__final nail in the coffin__  
-__five o’clock shadow__  
-__flat-footed__  
-__fly under (the/someone’s) radar__  
-__flyboy__ _slang_ A pilot or other member of an air force.  
-__for kicks__  
-__fotostat__ “Fotostat” is a term that James Ellroy uses in his novels to refer to a type of photocopying machine that was popular in the mid-20th century. It’s short for “photo-stat,” which is a combination of the words “photo” and “stat,” short for “statistical.”  
-__fox__ _n_ __1__ A sly, crafty person. __2__ _slang_ Someone who is very sexually attractive.  
-__friendly fire__  
 __from jump street__  
 __fruitcake__ __2__ _slang_ Someone who is odd or wacky. _What conspiracy theory is that old fruitcake blathering on about now?_  
 __funny farm__ _slang_ A derogatory term for a psychiatric hospital or mental health facility.  
