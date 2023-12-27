@@ -1,3 +1,21 @@
+__beget__  
+__bestest__ _adj_ _informal + humorous_ Best.  
+__bicker__ _v_  
+__big brother__ _n_ :es: hermano mayor  
+__bluster<sup>1</sup>__ _n_ __1__ Boisterous talk or action; swagger. __2__ Empty threats or protests. __3__ A strong wind; gale.  
+__bluster<sup>2</sup>__ _v_  
+__bootstrap__ _v tr_  
+__cadet__ _n_  
+__chickadee__ _n_ :es: carbonero  
+__cookie__ _n_ :dart: __3__ _informal_ A person: _smart cookie._  
+__defect__ _v intr_  
+__deliver__ _v_  
+__dissident__  
+__horrendous__  
+__manic__  
+__memento__ _n_  
+__overjoyed__ _adj_ Delighted; excessively happy.  
+__prep__ _n_ __2__ Preparation.  
 __quixotic__ _adj_ /kwik-SAH-tik/  
 __racketeer__ _n, v_  
 __radio__ _v_ _He never even thought to radio for help._  
@@ -20,6 +38,7 @@ __register__ _v intr_ __7__ To make an impression; be recorded in the mind: _The
 __rehouse__ _v tr_ To provide with new, usually improved housing.  
 __reinstate__ _v tr_ /ˌri ɪnˈsteɪt/  
 __rejoice__ _v_ /rɪˈdʒɔɪs/  
+__relatable__  
 __relegation__ _n_ :two::hammer:  
 __repercussion__ _n_  
 __reportedly__ _adv_ /rɪˈpɔr tɪd li, -ˈpoʊr-/  
@@ -43,6 +62,7 @@ __salvo__ _n_ (_n pl_ salvos, salvoes)
 __sanguine__ _adj_ :two::hammer:  
 __sanity check__  
 __sap__ _v tr_ __2__ To deplete or weaken gradually.  
+__sassy__ _adj_ /ˈsæsɪ/ _informal US_ Insolent, impertinent.  
 __sate__ _v tr_  
 __saunter__  
 __scallop__ _n_  
@@ -132,6 +152,7 @@ __Six-Day War__ _n_
 __six-figure__ _adj_  
 __ski jump__ _n_  
 __skin__ _v tr_ _He skinned his knee and started to cry._  
+__skyrocket__ _v_  
 __slash__ _n_ __1b__ A long cut or other opening made by such a stroke; a gash or slit. _The slash of the sword._  
 __slinky__ _adj_ Graceful, sinuous, and sleek: _wore a slinky outfit to the party._  
 __slum<sup>1</sup>__ _n_  
@@ -194,6 +215,7 @@ __swashbuckler__ _n_
 __swell__ _adj_ Excelent.  
 __sweltering__ _adj_  
 __Syracuse__ _n_ :mega: /ˈsɪr əˌkyus, -ˌkyuz/  
+__tadpole__ _n_  
 __Tahiti__ _n_ :mega: /təˈhi ti, tɑ-/  
 __talkie__ _n_ _informal_ An early film with a soundtrack. Full name: _talking picture_.  
 __taper__ _n_  
@@ -211,6 +233,7 @@ __terse__ _adj_ Brief and to the point; effectively concise. _Syn_ laconic, curt
 __test-driven__  
 __testament__ _n_  
 __testy__ _adj_  
+__thank yous__ _n pl_ It’s a plural form of “thank you,” used to express gratitude to multiple people or for multiple things. _I want to give my thank yous to everyone who helped me with this project._  
 __that much__ _adv_ To a certain degree.  
 __thence__ _adv_  
 __thicket__  
@@ -241,6 +264,7 @@ __truce__ _n_ /truːs/
 __tub__ _n_ __1a__ An open, flat-bottomed vessel, usually round and typically wider than it is deep, used for washing, packing, or storing. _A tub of Ben & Jerry’s._ __b__ The amount that such a vessel can hold. __c__ The contents of such a vessel.  
 __tumbledown__ _adj_  
 __ukulele__ _n_ :pencil2:  
+__umbrella__ _n_ /ʌmˈbrɛl ə/ [:scroll: Etymologically, it is a “little shadow.”]  
 __unclear__ _adj_  
 __undercut__  
 __unfettered__ _adj_ /ʌnˈfɛtəd/  
@@ -258,6 +282,7 @@ __V-E Day__ _n_ [:scroll: V(ictory in) E(urope) Day] May 8, 1945, the day on whi
 __valance__ _n_ An ornamental drapery hung across a top edge, as of a bed, table, or canopy. _Syn_ cornice, pelmet, valance board _Large valances of silk, embroidered with flowers of gay colors, which were rather faded, fell from the wide windows._  
 __valediction__ _n_  
 __valedictory__ _n_  
+__vent__ _n_ __2__ An opening permitting the escape of fumes, a liquid, a gas, or steam. _Laundry vents are the tube that runs from a clothes dryer to the exterior of your home or building. They act like an exhaust pipe for the dryer, allowing the moisture from your clothes to escape vent._  
 __veranda__ _n_  
 __verdict__ _n_  
 __veto__ _v tr_  
