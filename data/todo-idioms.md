@@ -1,3 +1,10 @@
+__bang for the buck__  
+__bare metal__ Computer hardware without an operating system.  
+__beat the shit out of__  
+__big brother__  
+__bomb__ (bombed)  
+__close the gap (between someone or something)__  
+__freshen up__  
 __from jump street__  
 __fruitcake__ __2__ _slang_ Someone who is odd or wacky. _What conspiracy theory is that old fruitcake blathering on about now?_  
 __funny farm__ _slang_ A derogatory term for a psychiatric hospital or mental health facility.  
@@ -8,10 +15,12 @@ __gas__ __4__ _v intr_ To have a good time. _We gassed all evening._
 __geez__ A mild expression of surprise, annoyance, anger, disappointment, etc. (A minced oath for “Jesus.”)  
 __geeze (up)__ To inject narcotics. _They fed a spike. They tied off tourniquets. They geezed._  
 __get (one’s) hands on (something)__ Obtain something that you want or need very much. _This is all about OpenAI getting their hands on more data._  
+__get along__  
 __get in(to) (one’s) pants__ _vulgar slang_ To have sex with one. (Usually said of the intention or expectation.)  
 __get smart (with one)__ To make disrespectful comments to one; to sass one. _Just take out the trash like I asked you to, and don’t get smart with me._  
 __get the drift__  
 __get under (one’s) skin__ :two: __2__ Obsess someone or affect someone’s deep feelings, as in _Jean’s really gotten under his skin; he misses her terribly._ Cole Porter used this sense in his love song, “I’ve Got You Under My Skin” (1936).  
+__giddy up__  
 __give (oneself) away__ To reveal or make known—usually unintentionally—something about oneself, such as one’s actions, intentions, ideas, guilt, etc.  
 __give it a whirl__ To try something (often for the first time as a means of forming an opinion about it).  
 __glitch__ _A phone glitch._  
@@ -32,6 +41,7 @@ __gung-ho__ Exceptionally enthusiastic, eager, or zealous, sometimes overly so.
 __gut punch__ A “gut punch” is an expression that is typically used to describe a sudden, painful, or shocking experience that leaves a person feeling emotionally or physically drained. It can be used both figuratively and literally to describe something that is unexpectedly hurtful or upsetting.  
 __half-ass__  
 __hand out__  
+__hands-on__ __2__ Involving actual, practical use of something, such as a tool, piece of equipment, or program.  
 __hard to say__ “Hard to say” is an idiomatic expression used to convey uncertainty or a lack of knowledge about something. It means that it’s difficult to predict or determine the outcome or the answer to a question, as the information is incomplete or unknown.  
 __have (got) (someone’s) back__  
 __have a leg up__  
@@ -99,6 +109,7 @@ __hogwash__
 __hoist by/with (one’s) own petard__  
 __hold (one’s) water__  
 __hold on to your hat__  
+__hold that thought__ An expression used to interrupt someone mid-speech and indicate that one’s attention is being or about to be diverted. _Sorry, Janet, hold that thought—I’m getting a call on the other line._  
 __hoof it__ _informal_ To walk. _If nobody gives us a ride, we’ll have to hoof it._ _She hoofed it home from the dance in her high-heeled shoes._  
 __hoofing__ Walking.  
 __I don’t belong here__ The idiom “I don’t belong here” is a common phrase used to express a feeling of not fitting in or not being in the right place or situation. It conveys a sense of discomfort, alienation, or a lack of connection with one’s surroundings or the people around them.  
@@ -111,6 +122,7 @@ __in earnest__ With sincere intentions.
 __in short order__ :dart: Quickly, efficiently, and without any delays.  
 __in the face of (something)__  
 __in the know__  
+__in the works__ Being prepared; being planned; being done.  
 __into overdrive__  
 __it is what it is__  
 __jerry-built__ _mod._ Carelessly and awkwardly built. _The lawyer’s case was jerry-built, but the jury bought it anyway._  
@@ -118,6 +130,7 @@ __jump the gun__
 __jump-start__  
 __keep harping on about (someone or something)__ To continue to discuss, mention, or gripe about someone or something in a very persistent and irritating manner. _My roommate keeps harping on about all the irritating people she works with. I wish she would just find a different job already._  
 __keester__ :two: __1__ In the context of James Ellroy’s novels, “keester” generally means to conceal or hide something in a secret or hidden place. It’s often used in reference to illegal or illicit activities, like hiding contraband or stashing stolen goods. __2__ _n_ A chest; a suitcase. _The old lady was hauling the most enormous keester._ __3__ _n_ The buttocks; the anus. _Get your keester over here!_  
+__kick in the ass__  
 __kick-start__ :two::hammer:  
 __kip__ _v intr_ To sleep. _He’s upstairs kipping. Can he call you back?_  
 __know for a fact__ :two: To have definitive knowledge of something.  
@@ -129,6 +142,7 @@ __left and right__
 __legend has it__ “Legend has it” is a phrase used to introduce a story that is traditionally regarded as true, but which may not be verifiable or historically accurate.  
 __let down__  
 __let’s face it__ We need to recognize the truth; we should face reality.  
+__ley go__  
 __light on (one’s) feet__  
 __line up__  
 __lionhearted__ _adj_  
@@ -149,6 +163,7 @@ __make (one’s)/the rounds__ :two::hammer:
 __make amends__  
 __make sense__ To be understandable. _John doesn’t make sense._ _What John says makes sense to me._  
 __mama bear__  
+__manosphere__  
 __Mary Jane__ :two::hammer:  
 __megillah__ /məˈgɪlə/ _n_ A long and complicated story.  
 __Merc__ _n_ _slang_ Clipping of Mercedes-Benz (an automotive brand or marque from Daimler-Benz).  
@@ -162,6 +177,7 @@ __more so__
 __mud-shark__ In the novels by James Ellroy, the term “mud-shark” is used to refer to a type of predatory behavior, often associated with characters who engage in morally questionable or criminal activities. The term “mud-shark” is symbolic of the predatory nature of certain characters, reflecting their willingness to exploit others for personal gain or pleasure.  
 __muddle along__ “Muddle along” is an idiomatic expression that means to manage or cope with a situation or task in a way that’s somewhat disorganized or unsystematic, but still effective. It suggests that someone is making progress, even if it’s slow or messy. To progress in confusion; to continue awkwardly.  
 __nab__ To catch and arrest someone. Often used in passive constructions.  
+__navigate__ :three: To carefully and skillfully manage or deal with something that is complex, challenging, or difficult. _Navigating difficult relationships._ _Navigating life._  
 __neck and neck__  
 __nerve-racking__ (nerve-wracking) Causing fear or anxiety.  
 __nerve-wracking__ :two: (nerve-racking) Causing fear or anxiety.  
@@ -202,6 +218,7 @@ __on the horizon__
 __on the mat__ __1__ In a position to face a reprimand from someone. _When my team lost that big client, the boss called me on the mat._ __2__ Under discussion or consideration. _We don’t have time to discuss those issues, but don’t worry, they’ll be on the mat the next time we meet._  
 __on the table__ :two::hammer:  
 __one size fits all__ Supposedly well-suited to any situation, as of a product, method, solution, etc. Often hyphenated. _We must move away from a “one size fits all” approach._  
+__oomph__ _slang_ Power, vigor, or energy.  
 __open question__  
 __open season (on someone or something)__  
 __orbiter__ In James Ellroy’s novels, “orbiter” is a term used to describe someone who is on the periphery or fringes of a criminal organization or network. It’s someone who is not a central player or a key decision-maker, but who is still involved in the criminal activity in some way, perhaps as a lookout, a messenger, or a low-level enforcer.  
@@ -320,6 +337,7 @@ __ruckus__ A large, uproarious commotion.
 __rumble on__ To continue at a low but consistent level or degree, especially when no clear conclusion or resolution seems imminent or likely. Said especially of some argument, complaint, debate, discussion, etc. _The issue has been rumbling on in the background of our industry for nearly 10 years now, but we’re still no closer to figuring out a solution to it._  
 __run late__ To be behind schedule; to be a bit late. Typically used in the continuous tense.  
 __safe and sound__ Unharmed and whole or healthy.  
+__safety net__  
 __sally__ _v_ In James Ellroy’s novels, the verb “sally” means to venture out or to go forth, often into some kind of danger or uncertainty.  
 __sandbag__  
 __sap__ __1__ _slang_ A foolish, naïve, or gullible person. _You’re a bigger sap than I thought if you believe that, Phil._ __3__ _n_ Extreme self-confidence. A shortened form of the word “swagger.” _All the girls want to date him because he’s got swag._ __4__ _adj_ Cool; awesome. _Yeah, that dude’s pretty swag._  
@@ -335,6 +353,7 @@ __screw up__ :dart: __5__ _n_ A huge mistake, blunder, or mishandling. In this u
 __scruff(y)__  
 __scuttlebutt__ _n_ News; information; gossip. (The legend of origin is that the scuttlebutt was a butt [= cask, keg] of drinking water located near a scuttle [= hatch]. Sailors gathered there to exchange gossip.)  
 __second base__ _singular only, US, colloquial_ Touching a partner under his or her clothes, without having sex.  
+__second best__  
 __secret sauce__ _informal_ A secret idea or plan; a crucial element of something that makes it unique or functional.  
 __secretor__ A “secretor” in James Ellroy’s novels is essentially a character who has a hidden or suppressed aspect of their personality or identity. They might be someone who seems upstanding and respectable on the surface, but underneath, they’re harboring a dark secret that could ruin their reputation or even get them into serious trouble.  
 __see somebody/something for what they ˈare/it is__ Realize that somebody/something is not as good, pleasant, etc. as they seem/it seems: _I used to really like him, but now I can see him for what he really is — selfish and arrogant!_  
@@ -364,6 +383,7 @@ __skin flute__ _vulgar, slang_ A penis.
 __skip off__ To leave or depart hastily so as to avoid something or escape with something.  
 __skyhook__  
 __slob__  
+__slow down__  
 __smear (one’s) name__ To disparage one publicly, especially to the detriment of one’s reputation.  
 __smooch__ /smutʃ/  
 __sneak peek__  
@@ -387,6 +407,7 @@ __stand by__
 __starkers__ _adj_ _British informal_ Stark naked.  
 __status quo__ :mega: /kwoʊ/  
 __staying power__ The ability to remain relevant, influential, profitable, or successful in the future.  
+__step in__ :dart: To enter into some position, activity, or situation to intervene or improve it.  
 __stick (one’s) tongue out__  
 __stick with (someone or something)__  
 __stir the pot__ To exacerbate a tense or otherwise difficult situation.  
@@ -403,6 +424,7 @@ __swear by (someone or something)__
 __sweatshop__ __1__ A factory or workshop in which employees are forced to do very hard work, especially the manufacturing of clothing, for long hours with very low wages. :dart: Can be used facetiously to describe generally unpleasant or undesirable work conditions.  
 __switch-heater__ Switch-heater in the novels by James Ellroy refers to a device used to ignite a cigarette.  
 __switch-hitter__ __2__ By extension, someone who is bisexual.  
+__tacky__  
 __tail__ _n_  
 __take (someone, something, or some place) by storm__  
 __take (something) for a spin__ To take a brief, leisurely ride in a vehicle, especially an automobile. _Do you want to go take my dad’s Corvette for a spin later?_  
@@ -417,6 +439,7 @@ __tease apart__ “Tease apart” is an idiomatic expression that means to caref
 __tell me something I don’t know__  
 __ten-spot__ _slang_ A ten-dollar bill or a sum of ten dollars. Primarily heard in US. _This restaurant is an incredibly good value. For just a ten-spot you can get an appetizer, an entrée, and a dessert!_  
 __the (hand)writing on the wall__ :two::hammer:  
+__the cream of the crop__ The best of a particular group.  
 __the Fourth Estate__ The people and organizations that report the news, or news journalism as a whole, regarded as having palpable but unofficial political influence.  
 __the lowdown on__ :dart: The whole truth about something.  
 __the mother of all (something)__ The largest, most extreme, or ultimate example of a particular kind of thing. _Wow, that is the mother of all sandwiches. It’s nearly a foot high!_  
@@ -451,6 +474,7 @@ __under-promise and over-deliver__ To avoid raising expectations in order to sub
 __unheard of__ Extremely uncommon or unusual; beyond belief. Hyphenated if used as a modifier before a noun. _His prowess on the balance beam is unheard of._  
 __up and coming__ An _up and coming_ person is someone who is likely to be successful in the future.  
 __up for grabs__  
+__up front__  
 __upbeat__ _informal_ Of, inspiring, or exuding cheerfulness, happiness, or optimism.  
 __urban legend__ A myth or piece of folklore that is totally false. _That story about the rats in the sewer being as big as dogs is an urban legend. It’s just not so._  
 __vamoose__ :two::hammer: (vamoosed)  
