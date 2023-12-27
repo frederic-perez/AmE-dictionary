@@ -1451,6 +1451,7 @@ __befouled__
 __befriend__ _v tr_ /bɪˈfrɛnd/ To act as a friend to; help.  
 __befuddle__ _v tr_ :nine::m: (befuddled, befuddling) __1__ To cause (someone) to be unable to think clearly; confuse. __2__ To stupefy with alcohol; intoxicate.  
 __befuddled__ _adj_ :two: Perplexed by many conflicting situations or statements; filled with bewilderment. _Syn_ bewildered, confounded, baffled, mixed-up, bemused, lost  
+__beget__  
 __beggar__ _n_ :two::hammer:  
 __beggar-thy-neighbor__  
 __begrudge__ _v_ :six: To envy the possession or enjoyment of. _Syn_ envy _I begrudge him his success._  
@@ -1565,6 +1566,7 @@ __best effort__ _n_ :two::hammer:
 __best in show__  
 __best__ _v_ :five: (bested) To get the better of; beat. _Bivalirudin bests heparin for treating heart attack patients undergoing PCI._  
 __best-of-breed__ _adj_  
+__bestest__ _adj_ _informal + humorous_ Best.  
 __bestiary__ _n_ A book consisting of a collection of descriptions of real and fabulous animals, often including a moral or allegorical interpretation of each animal’s behavior. Bestiaries were particularly popular in medieval Europe.  
 __bestow__ _v tr_ _formal_ :nine::m: /bɪˈstəʊ/ (bestowed) Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
 __beta__ _n_ :mega:  
@@ -1596,7 +1598,7 @@ __bibliophagist__ _n_ /bib-lee-AH-fuh-jist/ [:scroll: From Greek biblio- (book) 
 __bibliophile__ _n_  
 __bibliopole__ _n_ A dealer in rare books.  
 __bibliotherapy__ _n_ A form of supportive psychotherapy in which carefully selected reading materials are used to assist a subject in solving personal problems or for other therapeutic purposes.  
-__bicker__ _v_ :seven: (bickering) Argue about petty and trivial matters. _The time for bickering is over._  
+__bicker__ _v_ :eight: (bickering) Argue about petty and trivial matters. _The time for bickering is over._  
 __bickering__ _n_ :two: A quarrel about petty points. _Everyday bickering._  
 __bicyclist__  
 __bid farewell__  
@@ -1611,7 +1613,7 @@ __biff<sup>1</sup>__ _n_
 __biff<sup>2</sup>__ _v tr_  
 __Big A__ _n_ Big Apple, nickname for New York City.  
 __Big Apple__  
-__big brother__  
+__big brother__ _n_ :two::hammer: :es: hermano mayor  
 __Big C__ _n_ _slang_ The disease cancer. Used with _the_.  
 __big cat__ _n_ :two::hammer: :es: felino  
 __big deal<sup>1</sup>__ _n_ :four: __1__ Something of great importance or consequence: made a big deal out of getting there on time; losing one penny was no big deal. _It’s not a big deal._ __2__ An important person: She was a big deal in local politics.  
@@ -1871,8 +1873,8 @@ __blunt<sup>2</sup>__ _v_ :four: (blunting) __1__ To dull the edge of (a knife, 
 __bluntly__ _adv_ :two::hammer: _“We haven’t got the money,” Ingold responded bluntly._  
 __blurb__ _n_ :three: A brief testimonial or excerpt of a review, as on a book jacket. _Anonymous titles and blurbs had graced the front cover._ :es: comentario de sobrecubierta  
 __blurt__ _v_ :four: (blurting) /bləːt/ To say something suddenly and without thinking carefully enough. _Syn_ utter suddenly, exclaim, tell, babble, jabber _She blurted it out before I could stop her._  
-__bluster<sup>1</sup>__ _v_ :two::hammer: _The bitter blustering of the wind._  
-__bluster<sup>2</sup>__ _n_ :two: __1__ Boisterous talk or action; swagger. __2__ Empty threats or protests. __3__ A strong wind; gale.  
+__bluster<sup>1</sup>__ _v_ :three::hammer: _The bitter blustering of the wind._  
+__bluster<sup>2</sup>__ _n_ :three: __1__ Boisterous talk or action; swagger. __2__ Empty threats or protests. __3__ A strong wind; gale.  
 __blustery__ _adj_ :eight: __1__ (of weather) Characterized by strong winds. _A gusty, blustery day._ __2__ (of a wind) Blowing in strong gusts. _A blustery wind was sending flurries of rain against the window._  
 __board<sup>1</sup>__ _n_ :four: __6a__ A table at which official meetings are held; a council table. __b__ An organized body of administrators or investigators: _a board of trustees; a board of directors._ _Encouraging Amazon’s board (member) diversity._ __9__ _Basketball_ A rebound. _Green finished with 10 points and 11 boards for the warriors._  
 __board<sup>2</sup>__ _v_ :mega: _Board the plane._  
@@ -2017,7 +2019,7 @@ __booties__ _n_ _Pick up some booties at_ Babinski’s Baby.
 __bootleg__ _adj_ Produced, distributed, or sold illicitly: _bootleg whisky; bootleg tapes._  
 __bootlegger__  
 __bootstrap paradox__ _n_ A time travel paradox in which the consequences of an event in the future travel back in time and cause an event in the past or present, which in turn is among the causes of the first event, forming a causal loop in which each event is caused by the other.  
-__bootstrap__ _v_ :three: __1__ To promote and develop by use of one’s own initiative and work without reliance on outside help.  
+__bootstrap__ _v tr_ :four: __1__ To promote and develop by use of one’s own initiative and work without reliance on outside help.  
 __bootstrapping__ _n_  
 __booty__ _n_ :three::hammer: _You can shake your booty at late-night hot spots._  
 __boozehound__ _n_ _slang_ :two: Someone who drinks a lot of alcohol.  
@@ -2597,7 +2599,7 @@ __cadaver__ _n_ :four::mega:
 __caddish__ _adj_ :two::hammer:  
 __Caddy__ _n_ A Cadillac car.  
 __cadence__ _n_ :four: /KAY-dunss/ Cadence is used to refer to various rhythmic or repeated motions, activities, or patterns of sound, or to a falling inflection of the voice. _Stephanie relaxed at the beach, listening to the cadence of the surf._ _The files are updated at a regular cadence._ _The drill sergeant counted cadence._  
-__cadet__ _n_  
+__cadet__ _n_ :two::hammer:  
 __cadge__ _v_ :three: __1__ Ask for and get free; be a parasite. _Syn_ bum, grub, mooch, sponge _Though she had a pantry full of groceries, Sheila loved to cadge her meals from her sister._ __2__ To cadge is to plead or beg for something. _A hungry child might cadge an extra cookie from her dad while he’s baking._ _He cadged money and bribed guards._  
 __cadre__ _n_ :nine::hammer: /KAD-ray/ _The collectible cadre of brands._ _Party cadres._ _A cadre of layers._  
 __caduceus__ _n_ An insignia used by the medical profession; modeled after the staff of Hermes.  
@@ -3137,6 +3139,7 @@ __Chicagoan__ _n_
 __Chicagoland__  
 __chicanery__ _n_ :six: The use of clever plans or actions to deceive people. Deception by trickery or sophistry. _Syn_ guile _The trial revealed a world of crime, corruption and political chicanery._  
 __Chick-fil-A__ _n_  
+__chickadee__ _n_ :es: carbonero  
 __chicken > game of chicken__  
 __chicken coop__ _n_ :two: A farm building for housing poultry. _Syn_ coop, hencoop, henhouse  
 __chicken feed__ _n_ /CHIK-en feed/ [:scroll: Why chicken feed, as opposed to, say, cattle feed. The term alludes to a chicken’s relatively small size and hence their needing a small amount of feed. Also, they scratch at the soil in search for insects, seeds, etc.] A small amount of something, especially money.  
@@ -3954,7 +3957,7 @@ __coo__ _v_ :eight: (cooed) __1__ _(of a pigeon or dove)_ Make a soft murmuring 
 __cooing__ _n_  
 __cook__ _n_  
 __cook-off__ _n_ :two: A cooking competition. _Chili cook-offs._  
-__cookie__ _n_ [:scroll: from Dutch koekje, diminutive of koek _cake_, so it essentially means a “small cake”]  
+__cookie__ _n_ :dart::two: [:scroll: from Dutch koekje, diminutive of koek _cake_, so it essentially means a “small cake”] __3__ _informal_ A person: _smart cookie._  
 __cookout__ _n_ :four: A social gathering at which a meal is cooked and eaten outdoors.  
 __cooktop__ _n_ :six::hammer: _Ceramic/Electric/Gas cooktop._  
 __cookware__  
@@ -4753,7 +4756,7 @@ __delimit__ _v_ Set, mark, or draw the boundaries of something. _Syn_ demarcate 
 __delirium tremens__ _n_ An acute, sometimes fatal episode of delirium usually caused by withdrawal or abstinence from alcohol following habitual excessive drinking. It also may occur during an episode of heavy alcohol consumption.  
 __delisted__ _v_  
 __deliver<sup>1</sup>__ _v tr_ :two::hammer:  
-__deliver<sup>2</sup>__ _v intr_ :dart::nine: __1__ To produce or achieve what is desired or expected; make good: _The senator delivered on her pledge._ _He is a manager who just can’t seem to deliver._ _Al was a man who could deliver._ _Republicans apparently cannot deliver._ _There is a hundred grand if you can deliver._ _Can the recovery plan for elective care in England deliver?_ __2__ To give birth: _She expects to deliver in late August._  
+__deliver<sup>2</sup>__ _v intr_ :dart::nine::m: __1__ To produce or achieve what is desired or expected; make good: _The senator delivered on her pledge._ _He is a manager who just can’t seem to deliver._ _Al was a man who could deliver._ _Republicans apparently cannot deliver._ _There is a hundred grand if you can deliver._ _Can the recovery plan for elective care in England deliver?_ __2__ To give birth: _She expects to deliver in late August._  
 __deliverance__ _n_ :seven::hammer: _Hope and deliverance._  
 __delivery note__  
 __dell__ _n_ A small secluded wooded valley.  
@@ -5169,7 +5172,7 @@ __dissenter__ _n_ :three: A person who dissents from some established policy. _S
 __disservice<sup>1</sup>__ _n_ :seven::hammer::pencil2:  
 __disservice<sup>2</sup>__ _v_  
 __dissever__ _v_  
-__dissident__ _n_ :two::hammer:  
+__dissident__ _n_ :three::hammer:  
 __dissimilar__ _adj_ :two::hammer:  
 __dissimilarly__  
 __dissimulate__ _v_ :two::pencil2::hammer:  
@@ -8834,6 +8837,7 @@ __Horn of Africa__ _n_ :camera: Somalia.
 __horn__ _n_  
 __hornswoggle__ _v_ Deprive of by deceit. _Syn_ bunco, con, defraud, diddle, goldbrick, mulct, nobble, rook, scam, swindle, short-change, victimize _I might be a thief, but even I think it is shameful to hornswoggle an old lady out of her life savings!_  
 __horologist__ _n_ Someone who makes or repairs watches.  
+__horrendous__  
 __horripilation__ _n_ :four::astonished: __1__ A technical name for gooseflesh. Goose bumps. __2__ The erection of any short bodily hairs. A bristling of the hair on the skin from cold, fear, etc.  
 __hors d’oeuvres__  
 __horse race__  
@@ -10906,7 +10910,7 @@ __manhole cover__
 __manhunt__ _n_ :two::hammer: _A psychological manhunt for happiness._  
 __mania__ _n_ :two::hammer:  
 __manic episode__ _n_ :two::hammer:  
-__manic__ _adj_ :two::mega::hammer: _I was manic._  
+__manic__ _adj_ :three::mega::hammer: _I was manic._  
 __manicure__ _v_ :dart: __1__ To trim, clean, and polish (the fingernails). __2__ To clip or trim evenly and closely; to trim or cut meticulously: _to manicure a hedge; to manicure a lawn._  
 __manicured__ _adj_ _Manicured landscape._  
 __manifest__ _n_ _A manifest of olive oil._  
@@ -11144,7 +11148,7 @@ __melon scratcher__ _phr_ Melon is head, so melon scratcher is a head scratcher 
 __meltdown__ _n_ :seven: __1__ Severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping. __2__ A disaster comparable to a nuclear meltdown.  
 __melting pot__ _n_ :two::hammer:  
 __meme__ _n_ _slang_ :five::mega: A thought, idea, joke, or concept that spreads online, often virally. Can be in the form of an image, a video, an email, an animation, or music.  
-__memento__ _n_ :four::hammer: (mementos, mementoes) _Removing mementos from a national park is illegal._  
+__memento__ _n_ :five::hammer: (mementos, mementoes) _Removing mementos from a national park is illegal._  
 __memetic__ _adj_ /muh/mee/mi-MET-ik/ [:scroll: From meme, from Greek mimeisthai (to imitate, copy).] Relating to memes.  
 __memo pad__ _n_  
 __memo__ _n_ :four: (memos) Short for memorandum. _A memo sent to reporters._  
@@ -12634,7 +12638,7 @@ __overhaul<sup>2</sup>__ _n_ :three::hammer:
 __overhead bin__ _n_ :four::hammer: (airplane; overhead bins) _Overhead bin space._  
 __overhead__ _n_ :two::hammer: (overheads) _That money just covered their overheads._  
 __overhype__ _v tr_ To promote or publicize to excess: _Promoters grossly overhyped the movie._  
-__overjoyed__ _adj_  
+__overjoyed__ _adj_ :two: Delighted; excessively happy.  
 __overkill__ _v_ _I’ll top the bill, I’ll overkill._  
 __overlay<sup>1</sup>__ _v tr_ _Overlay relevant metadata on the cellphone’s screen._  
 __overlay<sup>2</sup>__ _n_  
@@ -13919,7 +13923,7 @@ __preordained__
 __prep schools__  
 __Prep__  
 __prep<sup>1</sup>__ _adj_  
-__prep<sup>2</sup>__ _n_  
+__prep<sup>2</sup>__ _n_ :two: __2__ Preparation.  
 __prep<sup>3</sup>__ _v_ :seven::hammer: (prepped, prepping) _I was prepping for the show._  
 __preparedness__ _n_ /prɪˈpɛər ɪd nɪs, -ˈpɛərd nɪs/ The state of being prepared or ready, esp militarily ready for war.  
 __preponderate__ _v_  
@@ -14459,7 +14463,7 @@ __quitessential__ _adj_
 __quittance__ _n_ Payment of a debt or obligation. _Syn_ repayment  
 __quitter__ _n_ _Are you calling me a quitter?_  
 __quiver__ _v_ :seven::hammer: (quivering)  
-__quixotic__ _adj_ :two: Extravagantly chivalrous or romantic; visionary, impractical, or impracticable. _Her actions may seem quixotic, but they also speak to her courage and passion._  
+__quixotic__ _adj_ :three: /kwik-SAH-tik/ Extravagantly chivalrous or romantic; visionary, impractical, or impracticable. _Her actions may seem quixotic, but they also speak to her courage and passion._  
 __quiz__ _n_ :three: (_n pl_ quizzes) A quiz is a short series of questions with a quick result. A magazine quiz might tell a reader if “he’s into you,” or a pop quiz in English class will let your teacher know how far you got (or didn’t get) in last night’s reading. _Take the quiz!_  
 __quondam__ _adj_ :two: Of an earlier time; former: _her quondam lover._  
 __quorum__ _n_ /KWOR-um/ Quorum refers to the smallest number of people who must be present at a meeting in order for official decisions to be made. Broadly speaking, quorum may refer to any select group.  
@@ -14482,8 +14486,8 @@ __rack<sup>1</sup>__ _n_
 __rack<sup>2</sup>__ _v_ :three: (racked) __1__ (also _wrack_) To cause great physical or mental suffering to: _Pain racked his entire body._ _Syn_ afflict __2__ To torture by means of the rack. _She woke up racked with anxiety and fear that this was the final blow._ __3__ To place (billiard balls, for example) in a rack.  
 __racket<sup>1</sup>__ _n_ :eight: __1__ A loud distressing noise. _He heard the trains making their racket._ __5__ _slang_ __a__ An occupation, livelihood, or business. __b__ An easy or profitable source of livelihood. _Extortion rackets._  
 __racket<sup>2</sup>__ _v_  
-__racketeer<sup>1</sup>__ _n_ :four: A person who engages in dishonest and fraudulent business dealings. :es: estafador, timador  
-__racketeer<sup>2</sup>__ _v_  
+__racketeer<sup>1</sup>__ _n_ :five: A person who engages in dishonest and fraudulent business dealings. :es: estafador, timador  
+__racketeer<sup>2</sup>__ _v_ :two::hammer:  
 __racketeering__ _n_ :two: Engaging in a racket.  
 __raconteur__ _n_ :two: One who tells stories and anecdotes with skill and wit. _Syn_ anecdotist _Dave is quite the raconteur and will no doubt keep my guests entertained throughout the evening._  
 __racous__  
@@ -14495,6 +14499,7 @@ __radial__ _n_ _Such a thrill when your radials squeal._
 __radiation budget__  
 __radical candor__  
 __radical__ _adj_ :two::hammer::mega: _What a radical idea!_  
+__radio__ _v_ _He never even thought to radio for help._  
 __radiometer__ _n_ :two::hammer:  
 __radiosonde__ _n_ :four::hammer:  
 __radish__  
@@ -14510,7 +14515,7 @@ __ragamuffin__ _n_ :two: A shabbily clothed, dirty child. _Syn_ tatterdemalion
 __ragbag__ _n_ :two: A motley assortment of things.  
 __rage farming__ _n slang_ The practice of posting intentionally provocative political content in order to take advantage of a negative reaction that garners exposure and media attention.  
 __rage<sup>1</sup>__ _n_ :two::hammer:  
-__rage<sup>2</sup>__ _v_ :two::hammer: (raged)  
+__rage<sup>2</sup>__ _v intr_ :three::hammer: (raged)  
 __ragged__ _adj_ _I feel quite ragged from lack of sleep._  
 __raging__ _adj_ _The strength of a raging bull._  
 __ragpicker__ _n_ _The ragpicker’s dream._  
@@ -14544,16 +14549,17 @@ __ramble__ _v_ :dart::four: __4__ To speak or write at length and with many digr
 __rambler__ _n_ :four::hammer: (ramblers)  
 __rambling__ _v_ :four::hammer:  
 __rambly__ _adv_  
-__rambunctious__ _adj_ :six: _informal_ Boisterous; unruly.  
+__rambunctious__ _adj_ :eight: _informal_ Boisterous; unruly.  
 __ramekin__ _n_ (ramequin) A small ceramic bowl used for baking and serving.  
 __ramen shop__  
 __ramen__ _n_ :four::hammer: _Ramen shops._ _Ramen bowls._ _Ramen restaurant._  
 __ramification__ _n_  
+__ramify__ _v_ To have complicating consequences or outgrowths. _Syn_ complexify _The problem merely ramified after the unsuccessful meeting._  
 __ramose__ _adj_ Having many branches. _Syn_ branching _The ramose tree sheltered us from the blistering sun._  
 __ramp up__ _v_ :six::hammer: _Official decisions ramped up activity._  
 __rampage<sup>1</sup>__ _v intr_ :seven::hammer:  
 __rampage<sup>2</sup>__ _n_ :eight::hammer: (rampages)  
-__rampant__ _adj_ :five::hammer:  
+__rampant__ _adj_ :six::hammer:  
 __rampantly__  
 __rampart__ _n_ :seven::hammer: (ramparts) _Ancient stone ramparts._  
 __ramrod__  

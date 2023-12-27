@@ -1,28 +1,3 @@
-__beget__  
-__bestest__ _adj_ _informal + humorous_ Best.  
-__bicker__ _v_  
-__big brother__ _n_ :es: hermano mayor  
-__bluster<sup>1</sup>__ _n_ __1__ Boisterous talk or action; swagger. __2__ Empty threats or protests. __3__ A strong wind; gale.  
-__bluster<sup>2</sup>__ _v_  
-__bootstrap__ _v tr_  
-__cadet__ _n_  
-__chickadee__ _n_ :es: carbonero  
-__cookie__ _n_ :dart: __3__ _informal_ A person: _smart cookie._  
-__defect__ _v intr_  
-__deliver__ _v_  
-__dissident__  
-__horrendous__  
-__manic__  
-__memento__ _n_  
-__overjoyed__ _adj_ Delighted; excessively happy.  
-__prep__ _n_ __2__ Preparation.  
-__quixotic__ _adj_ /kwik-SAH-tik/  
-__racketeer__ _n, v_  
-__radio__ _v_ _He never even thought to radio for help._  
-__rage__ _v intr_  
-__rambunctious__ _adj_ :two::hammer:  
-__ramify__ _v_ To have complicating consequences or outgrowths. _Syn_ complexify _The problem merely ramified after the unsuccessful meeting._  
-__rampant__ _adj_  
 __ransack__ _v tr_  
 __ransom__ _n_  
 __rapture__ _v_  
