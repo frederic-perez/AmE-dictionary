@@ -193,10 +193,10 @@ VALID_PARTS_OF_SPEECH = ( \
     '_adj, adv, conj, pron_', \
     '_adj, adv, n_', \
     '_adj, adv, n, v_', \
-    '_adj, adv, n, v tr_', \
-    '_adj, adv, v tr_', \
+    '_adj, adv, n, vt_', \
     '_adj, adv, prep_', \
     '_adj, adv, pron_', \
+    '_adj, adv, vt_', \
     '_adj, conj, n_', \
     '_adj, n_', \
     '_adj, n, v_', \
@@ -228,11 +228,11 @@ VALID_PARTS_OF_SPEECH = ( \
     '_suffix_', \
     '_trademark_', \
     '_v informal_', \
-    '_v intr_', \
-    '_v tr_', \
-    '_v tr, v intr_', \
     '_v_', \
-    '_v-link phr_' \
+    '_v-link phr_', \
+    '_vi_', \
+    '_vi/t_', \
+    '_vt_', \
 )
 
 def entry_misses_part_of_speech(entry):

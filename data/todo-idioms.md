@@ -11,7 +11,7 @@ __funny farm__ _slang_ A derogatory term for a psychiatric hospital or mental he
 __futz__ _v_ In James Ellroy’ novels, “futz” is a verb that means to waste time, to mess around, or to fiddle with something without really accomplishing anything. It’s often used to describe a character who is procrastinating or avoiding doing something important or necessary.  
 __fuzz__ :two: _slang_ The police. _Come on, we’ve got to get out of here before the fuzz show up and bust us!_  
 __game-changer__ :dart:  
-__gas__ __4__ _v intr_ To have a good time. _We gassed all evening._  
+__gas__ __4__ _vi_ To have a good time. _We gassed all evening._  
 __geez__ A mild expression of surprise, annoyance, anger, disappointment, etc. (A minced oath for “Jesus.”)  
 __geeze (up)__ To inject narcotics. _They fed a spike. They tied off tourniquets. They geezed._  
 __get (one’s) hands on (something)__ Obtain something that you want or need very much. _This is all about OpenAI getting their hands on more data._  
@@ -132,7 +132,7 @@ __keep harping on about (someone or something)__ To continue to discuss, mention
 __keester__ :two: __1__ In the context of James Ellroy’s novels, “keester” generally means to conceal or hide something in a secret or hidden place. It’s often used in reference to illegal or illicit activities, like hiding contraband or stashing stolen goods. __2__ _n_ A chest; a suitcase. _The old lady was hauling the most enormous keester._ __3__ _n_ The buttocks; the anus. _Get your keester over here!_  
 __kick in the ass__  
 __kick-start__ :two::hammer:  
-__kip__ _v intr_ To sleep. _He’s upstairs kipping. Can he call you back?_  
+__kip__ _vi_ To sleep. _He’s upstairs kipping. Can he call you back?_  
 __know for a fact__ :two: To have definitive knowledge of something.  
 __ladies and gents__  
 __land on (one’s) feet__  
@@ -348,7 +348,7 @@ __schtick__
 __scooch over__  
 __scooch__ _v_ /skutʃ/  
 __scoop__  
-__scoot__ :two: __1__ _v intr_ To run or scurry quickly from one place to another. _I scooted from the bank to the cleaners and then on to the dentist’s._ __2__ _n_ A motorcycle. _Do you wear a brain-bucket on your scoot?_  
+__scoot__ :two: __1__ _vi_ To run or scurry quickly from one place to another. _I scooted from the bank to the cleaners and then on to the dentist’s._ __2__ _n_ A motorcycle. _Do you wear a brain-bucket on your scoot?_  
 __screw up__ :dart: __5__ _n_ A huge mistake, blunder, or mishandling. In this usage, the phrase is usually hyphenated or spelled as one word. _Another screwup like that and you’re fired!_ _I don’t care whose screw-up it was—just fix it!_  
 __scruff(y)__  
 __scuttlebutt__ _n_ News; information; gossip. (The legend of origin is that the scuttlebutt was a butt [= cask, keg] of drinking water located near a scuttle [= hatch]. Sailors gathered there to exchange gossip.)  
@@ -399,7 +399,7 @@ __something of a (something)__ Having a lot of qualities like or associated with
 __soul searching__ :two::hammer:  
 __speak with a forked tongue__  
 __spill__ :dart: _informal_ To disclose or divulge (something).  
-__spiral__ _v intr_ To increase continually.  
+__spiral__ _vi_ To increase continually.  
 __split__ :dart: _slang_ To leave or depart, especially quickly or suddenly. _We’d better split, Tom. We don’t want to miss our flight._  
 __spread like wildfire__ To spread, circulate, or propagate very quickly and widely. Likened to the rapid spread of a literal wildfire. _News of the scandal spread like wildfire across the news outlets._  
 __stand by someone or something__  
@@ -504,7 +504,7 @@ __with flying colors__
 __within reason__  
 __wrack (one’s) brain(s)__  
 __XYZ__ In spoken language, “XYZ” is often used to refer to hypothetical or unspecified elements, variables, or situations.  
-__yap__ __2__ To chatter; to gossip. _Did you just come here to yap?_ __3__ _n_ Nonsense; gibberish. _That windbag can produce an enormous amount of yap._ __4__ _v intr_ To empty one’s stomach; to vomit. _Who yapped in the bushes?_ _A yapping dog._  
+__yap__ __2__ To chatter; to gossip. _Did you just come here to yap?_ __3__ _n_ Nonsense; gibberish. _That windbag can produce an enormous amount of yap._ __4__ _vi_ To empty one’s stomach; to vomit. _Who yapped in the bushes?_ _A yapping dog._  
 __yard__ _n_ A one-hundred-dollar bill. (Underworld.) _The guy wanted a yard just to fix a little dent in the fender._  
 __yen__ A desire. Often used in the phrase “have a yen for (someone/something).“  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  

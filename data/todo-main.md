@@ -1,17 +1,17 @@
-__ransack__ _v tr_  
+__ransack__ _vt_  
 __ransom__ _n_  
 __rapture__ _v_  
 __rationalize__ _v_  
 __recap__ _n_ A summary or recapitulation, as of a news report, sports contest, or television show.  
 __recidivism__ _n_  
-__redress__ _v tr_  
+__redress__ _vt_  
 __redux__ _adj_  
 __refrain__ _n_  
 __refusenik__ _n_  
 __regency__ _n_  
-__register__ _v intr_ __7__ To make an impression; be recorded in the mind: _The warning failed to register._  
-__rehouse__ _v tr_ To provide with new, usually improved housing.  
-__reinstate__ _v tr_ /ˌri ɪnˈsteɪt/  
+__register__ _vi_ __7__ To make an impression; be recorded in the mind: _The warning failed to register._  
+__rehouse__ _vt_ To provide with new, usually improved housing.  
+__reinstate__ _vt_ /ˌri ɪnˈsteɪt/  
 __rejoice__ _v_ /rɪˈdʒɔɪs/  
 __relatable__  
 __relegation__ _n_ :two::hammer:  
@@ -32,13 +32,13 @@ __run sheet__
 __running dog__ _n_ A servile follower or lackey. :es: perro faldero  
 __ruralism__ _n_ A rural idiom or expression. _Syn_ rusticism  
 __salubrious__  
-__salve__ _v tr_ __2__ To ease the distress or agitation of; assuage: _salved my conscience by apologizing._  
+__salve__ _vt_ __2__ To ease the distress or agitation of; assuage: _salved my conscience by apologizing._  
 __salvo__ _n_ (_n pl_ salvos, salvoes)  
 __sanguine__ _adj_ :two::hammer:  
 __sanity check__  
-__sap__ _v tr_ __2__ To deplete or weaken gradually.  
+__sap__ _vt_ __2__ To deplete or weaken gradually.  
 __sassy__ _adj_ /ˈsæsɪ/ _informal US_ Insolent, impertinent.  
-__sate__ _v tr_  
+__sate__ _vt_  
 __saunter__  
 __scallop__ _n_  
 __schizophrenic__ _adj, n_  
@@ -47,9 +47,9 @@ __scintilla__ _n_ A minute amount; an iota or trace. _Syn_ shred, smidge, smidge
 __scorecard__ _n_  
 __scores__ _n pl_ A large number or amount.  
 __scraggly__ _adj_ _A scraggly beard._  
-__scram__ _v intr_  
+__scram__ _vi_  
 __scramble__ _v_ _They scrambled for personal power._  
-__scrap__ _v tr_ :dart: __2__ To discard or abandon as useless; cancel: scrap a plan.  
+__scrap__ _vt_ :dart: __2__ To discard or abandon as useless; cancel: scrap a plan.  
 __scratch pad__ _n_  
 __scrawl__ _v_  
 __scrawny__  
@@ -79,7 +79,7 @@ __serenade__ _n_ /ser-uh-NAYD/
 __serial comma__ _n_ _Syn_ Oxford comma  
 __Sermon on the Mount__  
 __serpentine<sup>1</sup>__ _adj_ /SUHR-pen-teen/tyn/ [:scroll: From Latin serpens, present participle of serpere (to creep)] __1__ Of or relating to a snake. __2__ Winding, twisting, or coiling. __3__ Intricate; cunning; treacherous.  
-__serpentine<sup>2</sup>__ _v intr_ To move or lie in a winding course.  
+__serpentine<sup>2</sup>__ _vi_ To move or lie in a winding course.  
 __serpentine<sup>3</sup>__ _n_ __1__ Something winding, twisting, or coiling. __2__ A dull green mineral with a texture resembling the skin of a snake.  
 __serpiginous__ _adj_ :astonished:  
 __sesquicentennial__ _adj_  
@@ -96,7 +96,7 @@ __shanghai__ _v_
 __shanty__ _n_ A roughly built, often ramshackle building; a shack.  
 __shash window__ _n_  
 __sheep__ _n_ (_n pl_ sheep)  
-__shim__ _v tr_  
+__shim__ _vt_  
 __shin splints__ _n_ (shinsplints) A painful condition of the shins caused by inflammation of muscles and connective tissue, frequently occurring among runners. _She was crippled by shin splints._ :es: calambres en la pierna, periostitis  
 __shirk__ _v_  
 __shirtsleeves__ _n_ :two::hammer:  
@@ -117,36 +117,36 @@ __single-handedly__
 __singsong__ _n_  
 __singsong<sup>1</sup>__ _adj_ _Singsong cantillation._  
 __singsong<sup>2</sup>__ _n_  
-__siphon__ _v tr_ __2__ To take or transfer (something), often illicitly: _siphon money from an account; siphon customers from a competitor._  
+__siphon__ _vt_ __2__ To take or transfer (something), often illicitly: _siphon money from an account; siphon customers from a competitor._  
 __siphon<sup>1</sup>__ _n_  
-__siphon<sup>2</sup>__ _v tr_ __2__ To take or transfer (something), often illicitly: _siphon money from an account; siphon customers from a competitor._  
-__siphon<sup>3</sup>__ _v intr_  
+__siphon<sup>2</sup>__ _vt_ __2__ To take or transfer (something), often illicitly: _siphon money from an account; siphon customers from a competitor._  
+__siphon<sup>3</sup>__ _vi_  
 __Sistine Chapel__ _n_ (etymology?)  
 __sitting__ _n_  
 __Six-Day War__ _n_  
 __six-figure__ _adj_  
 __ski jump__ _n_  
-__skin__ _v tr_ _He skinned his knee and started to cry._  
+__skin__ _vt_ _He skinned his knee and started to cry._  
 __skyrocket__ _v_  
 __slash__ _n_ __1b__ A long cut or other opening made by such a stroke; a gash or slit. _The slash of the sword._  
 __slinky__ _adj_ Graceful, sinuous, and sleek: _wore a slinky outfit to the party._  
 __slum<sup>1</sup>__ _n_  
-__slum<sup>2</sup>__ _v intr_ To visit impoverished areas or squalid locales, especially out of curiosity or for amusement.  
+__slum<sup>2</sup>__ _vi_ To visit impoverished areas or squalid locales, especially out of curiosity or for amusement.  
 __small-time__  
 __smithereens__  
 __smorgasbord__  
-__snarf__ _v tr_ To eat or drink rapidly or eagerly; devour: _snarfed down some cookies._  
+__snarf__ _vt_ To eat or drink rapidly or eagerly; devour: _snarfed down some cookies._  
 __snarky__ _adj_ :two: _informal_ Unpleasant and scornful.  
 __sniveling__ _n_ Whining in a tearful manner . _Syn_ snivel  
 __snooker<sup>1</sup>__ _n_  
-__snooker<sup>2</sup>__ _v tr_ _slang_ To deceive.  
+__snooker<sup>2</sup>__ _vt_ _slang_ To deceive.  
 __sobering__ _adj_  
 __solace__ _n_ :mega: /ˈsɒl ɪs/  
 __spiteful__ _adj_ Filled with, prompted by, or showing spite; malicious.  
 __spittoon__ _n_  
 __split__ _v_ _Women who have split from a relationship._  
 __squarely__ _adv_ /ˈskwɛəlɪ/  
-__squeak__ _v intr_ :two: __2__ _slang_ To turn informer.  
+__squeak__ _vi_ :two: __2__ _slang_ To turn informer.  
 __squib__ _n_ __2a__ A brief satirical or witty writing or speech, such as a lampoon.  
 __squirm__ _v_ :two::hammer:  
 __stable__ _n_ __3__ A group, as of athletes or entertainers, under common management: _a stable of prizefighters._  
@@ -166,19 +166,19 @@ __Stetson__
 __stick__ _v_ :two::hammer:  
 __stickup__ _n slang_ A robbery, especially at gunpoint.  
 __stiffen__ _v_ :two::hammer: /ˈstɪfən/  
-__stifle<sup>1</sup>__ _v tr_ __1__ To interrupt or cut off (the voice, for example). __2__ To keep in or hold back; repress: _stifled my indignation._ __3__ To kill by preventing respiration; smother or suffocate.  
-__stifle<sup>2</sup>__ _v intr_ __1__ To suffer from difficulty in breathing, as in a close atmosphere. __2__ To become stifled or suffocated.  
+__stifle<sup>1</sup>__ _vt_ __1__ To interrupt or cut off (the voice, for example). __2__ To keep in or hold back; repress: _stifled my indignation._ __3__ To kill by preventing respiration; smother or suffocate.  
+__stifle<sup>2</sup>__ _vi_ __1__ To suffer from difficulty in breathing, as in a close atmosphere. __2__ To become stifled or suffocated.  
 __stillbirth__ _n_  
 __stingy__ _adj_ __1__ Giving or spending reluctantly. __2__ Scanty or meager: _a stingy meal; stingy with details about the past._  
 __stoke__ _v_  
 __strait__ _n_  
-__streamline__ _v tr_ __2__ To improve the efficiency of, often by simplification: _streamline a factory process._  
+__streamline__ _vt_ __2__ To improve the efficiency of, often by simplification: _streamline a factory process._  
 __strife__ _n_  
 __stuffing__ _n_  
 __sub__ _v_ (subbed)  
 __subaltern__ _n_  
 __submarine__ _v_  
-__suborn__ _v tr_  
+__suborn__ _vt_  
 __subsequent__ _adj_ Following in time or order; succeeding.  
 __succubus__ _n_  
 __sultry__ _adj_  
@@ -221,7 +221,7 @@ __thunderstruck__ _adj_ Affected with sudden astonishment or amazement. _I was t
 __tidbit__ _n_ A choice morsel, as of gossip or food. _Syn_ choice morsel, titbit  
 __tiddlywinks__ _n_ /ˈtɪdlɪˌwɪŋks/ _functioning as singular_ A game in which players try to flick discs of plastic into a cup by pressing them sharply on the side with other larger discs.  
 __ting<sup>1</sup>__ _n_ A high metallic sound such as that made by a small bell.  
-__ting<sup>2</sup>__ _v intr_ To give forth a light metallic sound.  
+__ting<sup>2</sup>__ _vi_ To give forth a light metallic sound.  
 __toil__ _n_ _A lifetime of toil._  
 __toll__  
 __tomboy__ _n_ A girl who behaves in a way that is perceived to be stereotypically boyish or masculine.  
@@ -252,7 +252,7 @@ __unsavory__ _adj_ __4__ Socially or morally objectionable or offensive: _an uns
 __unto__ _prep_ /ˈʌntuː/ An archaic word for to. _Do unto others._  
 __unworldly__ _adj_  
 __upend__ _v_  
-__uphold__ _v tr_ __3__ To maintain or affirm: _uphold a standard of behavior._ _Syn_ support  
+__uphold__ _vt_ __3__ To maintain or affirm: _uphold a standard of behavior._ _Syn_ support  
 __V-E Day__ _n_ [:scroll: V(ictory in) E(urope) Day] May 8, 1945, the day on which the Allies announced the surrender of German forces in Europe.  
 __valance__ _n_ An ornamental drapery hung across a top edge, as of a bed, table, or canopy. _Syn_ cornice, pelmet, valance board _Large valances of silk, embroidered with flowers of gay colors, which were rather faded, fell from the wide windows._  
 __valediction__ _n_  
@@ -260,7 +260,7 @@ __valedictory__ _n_
 __vent__ _n_ __2__ An opening permitting the escape of fumes, a liquid, a gas, or steam. _Laundry vents are the tube that runs from a clothes dryer to the exterior of your home or building. They act like an exhaust pipe for the dryer, allowing the moisture from your clothes to escape vent._  
 __veranda__ _n_  
 __verdict__ _n_  
-__veto__ _v tr_  
+__veto__ _vt_  
 __visceral__ _adj_ /VISS-uh-rul/  
 __vixen__ _n_ __2a__ A woman regarded as sexually alluring.  
 __walkout__ _n_ :four: __1__ A labor strike.  
@@ -277,8 +277,8 @@ __waxing__ _v_
 __wayward__  
 __weaponize__  
 __weasel<sup>1</sup>__ _n_ :es: comadreja  
-__weasel<sup>2</sup>__ _v intr_  
-__weather__ _v tr_ __3__ To come through (something) safely; survive: _weather a crisis._  
+__weasel<sup>2</sup>__ _vi_  
+__weather__ _vt_ __3__ To come through (something) safely; survive: _weather a crisis._  
 __weeping__ _adj_ :astonished: __1__ Tearful. __2__ Dripping or oozing liquid. __3__ Having slender, drooping branches. _Weeping willow._  
 __wellbeing__ _n_ :pencil2:  
 __welt__ _n_  
