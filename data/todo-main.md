@@ -1,7 +1,19 @@
+__back-number__ _n_ Someone who is no longer popular. _Syn_ has-been  
+__conspicuous__  
+__dot__ _v_  
+__ensuing__ _adj_ /ɪnˈsjuːɪŋ/  
+__eurythmics__ _n_  
+__full disclosure__  
+__homage__ _n_ /ˈhɒm ɪdʒ, ˈɒm-/  
+__jaunty__ _adj_ __2__ 2Sprightly; lively: _walking at a jaunty pace; music with jaunty rhythms._ _A jaunty tune._  
+__Jehovah__ _n_ :mega:  
+__light-hearted__ _adj_ Cheerful or carefree in mood or disposition.  
+__pan__ _v_  
 __ransack__ _vt_  
 __ransom__ _n_  
 __rapture__ _v_  
 __rationalize__ _v_  
+__reborn__ _adj_ /riːˈbɔːn/  
 __recap__ _n_ A summary or recapitulation, as of a news report, sports contest, or television show.  
 __recidivism__ _n_  
 __redress__ _vt_  
@@ -24,6 +36,7 @@ __rightfully__
 __rigmarole__ _n_  
 __road map__ _n_ :pencil2:  
 __robe__ _n_  
+__roleplay__ _v_  
 __rubbing__ _n_  
 __rue__ _v_  
 __ruffle__ _n_  
@@ -40,7 +53,9 @@ __sap__ _vt_ __2__ To deplete or weaken gradually.
 __sassy__ _adj_ /ˈsæsɪ/ _informal US_ Insolent, impertinent.  
 __sate__ _vt_  
 __saunter__  
+__sawmill__ _n_ :es: aserradero  
 __scallop__ _n_  
+__scavenger hunt__ _n_  
 __schizophrenic__ _adj, n_  
 __schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept person who fails at everything. A person with no luck, someone who tends to do everything wrong.  
 __scintilla__ _n_ A minute amount; an iota or trace. _Syn_ shred, smidge, smidgeon, tittle, whit  
@@ -70,7 +85,9 @@ __seesaw__
 __seething__ _adj_  
 __seize__ _v_ _Students with the growth mindset seized the chance._  
 __self-absorbed__ _adj_ :two::hammer:  
+__self-awareness__ _n_  
 __self-effacing__ _adj_  
+__self-explanatory__ _adj_  
 __senility__ _n_  
 __sepsis__ _n_  
 __serape__ _n_  
@@ -113,6 +130,7 @@ __simpatico__ _adj_
 __simulacrum__  
 __sine die__ _adv_ Without a day specified for a future meeting; indefinitely: _Parliament was dismissed sine die._  
 __sinew__ _n_  
+__sing-along__ _n_  
 __single-handedly__  
 __singsong__ _n_  
 __singsong<sup>1</sup>__ _adj_ _Singsong cantillation._  
@@ -142,6 +160,7 @@ __snooker<sup>1</sup>__ _n_
 __snooker<sup>2</sup>__ _vt_ _slang_ To deceive.  
 __sobering__ _adj_  
 __solace__ _n_ :mega: /ˈsɒl ɪs/  
+__sombrero__  
 __spiteful__ _adj_ Filled with, prompted by, or showing spite; malicious.  
 __spittoon__ _n_  
 __split__ _v_ _Women who have split from a relationship._  
@@ -150,6 +169,7 @@ __squeak__ _vi_ :two: __2__ _slang_ To turn informer.
 __squib__ _n_ __2a__ A brief satirical or witty writing or speech, such as a lampoon.  
 __squirm__ _v_ :two::hammer:  
 __stable__ _n_ __3__ A group, as of athletes or entertainers, under common management: _a stable of prizefighters._  
+__stakeout__ _n_  
 __stale__ _adj_ __1__ Having lost freshness, effervescence, or palatability: _stale bread; stale air._  
 __stem__ _v_  
 __steno__ _n informal_ _US and Canadian_ Short for stenographer. _Steno pad and pen._  
@@ -173,6 +193,7 @@ __stingy__ _adj_ __1__ Giving or spending reluctantly. __2__ Scanty or meager: _
 __stoke__ _v_  
 __strait__ _n_  
 __streamline__ _vt_ __2__ To improve the efficiency of, often by simplification: _streamline a factory process._  
+__stress__ _v_ _I cannot stress it enough._  
 __strife__ _n_  
 __stuffing__ _n_  
 __sub__ _v_ (subbed)  
@@ -195,11 +216,13 @@ __Tahiti__ _n_ :mega: /təˈhi ti, tɑ-/
 __talkie__ _n_ _informal_ An early film with a soundtrack. Full name: _talking picture_.  
 __taper__ _n_  
 __tarnish__ _v_  
+__task__ _vt_ __1__ To assign a task to or impose a task on. _The agency was tasked with creating an advertising campaign._  
 __taunt__  
 __televise__ _v_ To broadcast or be broadcast by television.  
 __telling__ _adj, n_ _That response was very telling._  
 __telltale__ _adj_ _Telltale signs._  
 __ten-year__ _adj_ _A ten-year prison sentence._  
+__tenet__ _n_ /ˈtɛnɪt; ˈtiːnɪt/  
 __tentative__ _adj_  
 __terraform__ _v_  
 __terrazzo__  
@@ -216,12 +239,14 @@ __thistle__ _n_ :es: cardo
 __thrash__ _v_  
 __thresher__ _n_ _A mental thresher for separating wheat from chaff._  
 __threshold__ _n_ /THRESH-hohld/ A threshold is a piece of wood, metal, or stone that lies across the base of a doorway. In figurative use, threshold refers to the point or level at which something begins or changes.  
+__throwaway__ _adj_ _Throwaway one-liners._  
 __thrust__ _v_  
 __thunderstruck__ _adj_ Affected with sudden astonishment or amazement. _I was thunderstruck._  
 __tidbit__ _n_ A choice morsel, as of gossip or food. _Syn_ choice morsel, titbit  
 __tiddlywinks__ _n_ /ˈtɪdlɪˌwɪŋks/ _functioning as singular_ A game in which players try to flick discs of plastic into a cup by pressing them sharply on the side with other larger discs.  
 __ting<sup>1</sup>__ _n_ A high metallic sound such as that made by a small bell.  
 __ting<sup>2</sup>__ _vi_ To give forth a light metallic sound.  
+__titular__ _adj_  
 __toil__ _n_ _A lifetime of toil._  
 __toll__  
 __tomboy__ _n_ A girl who behaves in a way that is perceived to be stereotypically boyish or masculine.  
@@ -253,6 +278,7 @@ __unto__ _prep_ /ˈʌntuː/ An archaic word for to. _Do unto others._
 __unworldly__ _adj_  
 __upend__ _v_  
 __uphold__ _vt_ __3__ To maintain or affirm: _uphold a standard of behavior._ _Syn_ support  
+__uprising__ _n_  
 __V-E Day__ _n_ [:scroll: V(ictory in) E(urope) Day] May 8, 1945, the day on which the Allies announced the surrender of German forces in Europe.  
 __valance__ _n_ An ornamental drapery hung across a top edge, as of a bed, table, or canopy. _Syn_ cornice, pelmet, valance board _Large valances of silk, embroidered with flowers of gay colors, which were rather faded, fell from the wide windows._  
 __valediction__ _n_  
