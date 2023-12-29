@@ -1,4 +1,7 @@
 __as of now__ Starting now.  
+__at (long) last__ Finally. Typically said after a long period.  
+__at gunpoint__  
+__aw__ :dart::two::hammer: _interj_ [Sometimes elongated with multiple w’s to add emphasis.]  
 __bang for the buck__  
 __bare metal__ Computer hardware without an operating system.  
 __beat the shit out of__  
@@ -9,10 +12,15 @@ __bubble up__
 __cakewalk__  
 __chime in__  
 __chip in__  
+__classy__  
 __close the gap (between someone or something)__  
+__cold open__  
+__come to fruition__  
 __cram for (something)__ _You should not cram for an exam._  
+__critically panned__ A phrase used to describe a negative reception or response to something, particularly in the context of reviews or critiques by critics or experts. _The critically panned fifth _Die Hard_ movie._  
 __crystal ball__  
 __dud__  
+__fit the bill__  
 __freshen up__  
 __from jump street__  
 __fruitcake__ __2__ _slang_ Someone who is odd or wacky. _What conspiracy theory is that old fruitcake blathering on about now?_  
@@ -45,6 +53,7 @@ __goofball__ __3__ A pill with a tranquilizing effect (often because it contains
 __grapple with (someone or something)__  
 __green sheet__  
 __grind to a halt__ To halt progression very abruptly, especially in an ultimately detrimental or undesirable manner. Likened to a machine or automobile that stops functioning due to the grinding of gears. _Our project will grind to a halt if the CEO pulls his approval._  
+__grok__  
 __gun down__  
 __gung-ho__ Exceptionally enthusiastic, eager, or zealous, sometimes overly so.  
 __gut punch__ A “gut punch” is an expression that is typically used to describe a sudden, painful, or shocking experience that leaves a person feeling emotionally or physically drained. It can be used both figuratively and literally to describe something that is unexpectedly hurtful or upsetting.  
@@ -122,6 +131,7 @@ __hold on to your hat__
 __hold that thought__ An expression used to interrupt someone mid-speech and indicate that one’s attention is being or about to be diverted. _Sorry, Janet, hold that thought—I’m getting a call on the other line._  
 __hoof it__ _informal_ To walk. _If nobody gives us a ride, we’ll have to hoof it._ _She hoofed it home from the dance in her high-heeled shoes._  
 __hoofing__ Walking.  
+__hoot__ __1__ _v intr_ To laugh loudly. _The audience screamed and hooted with their appreciation._  
 __I don’t belong here__ The idiom “I don’t belong here” is a common phrase used to express a feeling of not fitting in or not being in the right place or situation. It conveys a sense of discomfort, alienation, or a lack of connection with one’s surroundings or the people around them.  
 __I hear you__  
 __I wasn’t born yesterday__ Used to indicate that you are not foolish or gullible.  
@@ -161,6 +171,7 @@ __ley go__
 __light on (one’s) feet__  
 __line up__  
 __lionhearted__ _adj_  
+__long and hard__ :two: The phrase “long and hard” is an idiom that generally means something that requires a lot of time, effort, or energy to accomplish. It’s often used to describe a task or project that is difficult or challenging, but also requires patience and perseverance to complete. _I thought long and hard about it._  
 __long in the tooth__ Old. Animals’ teeth, especially those of horses, are thought to be an indicator of age. As animals age, their gums recede, and their teeth look longer. _Our poor cat is so long in the tooth that he struggles just walking around the house these days._  
 __loom large__ To seem imminent and cause worry or unease.  
 __loopy__ _slang_ Feeling or showing the effects of taking drugs or alcohol. _I only had a couple glasses of wine with my lunch, but I was a bit loopy by the time we left the restaurant._  
@@ -174,9 +185,11 @@ __lug<sup>1</sup>__ _n_ In James Ellroy’s novels, “lug” is a term used to 
 __lug<sup>2</sup>__ _v_ In James Ellroy’s novels, “lug” can also be used as a verb, and it means to carry or move something heavy or cumbersome with effort. It’s often used to describe a character physically dragging or hauling something, like a body or a heavy bag of evidence.  
 __magpie__  
 __mainline__ _n_ __2__ _slang_ An accessible vein that can be used to inject a narcotic.  
+__make (one’s) day__  
 __make (one’s)/the rounds__ :two::hammer:  
 __make amends__  
 __make inroads (in/into something)__  
+__make or break__ _Music can make or break a show, especially a sitcom._  
 __make sense__ To be understandable. _John doesn’t make sense._ _What John says makes sense to me._  
 __mama bear__  
 __manosphere__  
@@ -200,6 +213,8 @@ __nerve-wracking__ :two: (nerve-racking) Causing fear or anxiety.
 __nest egg__  
 __nip and tuck__ :astonished:  
 __nitpicker__  
+__nix__  
+__no harm, no foul__ :two: If there was no bad outcome to an action, then there’s no need to be angry or upset about it. _A: “Oh, excuse me! I’m so sorry for knocking over your glass!” B: “It’s OK, it was empty. No harm, no foul!”_  
 __no matter what__ In any conditions; regardless of what happens. _I don’t care if it’s raining, I’m going to the concert no matter what._  
 __no offense taken__  
 __no question about it__ Definitely; for sure. _Look at that foreboding sky. It’s going to rain shortly, no question about it._  
@@ -236,6 +251,7 @@ __on the mat__ __1__ In a position to face a reprimand from someone. _When my te
 __on the table__ :two::hammer:  
 __on the verge of (doing) (something)__  
 __one size fits all__ Supposedly well-suited to any situation, as of a product, method, solution, etc. Often hyphenated. _We must move away from a “one size fits all” approach._  
+__one-liner__ _informal_ A very short, witty joke, remark, or riposte.  
 __oomph__ _slang_ Power, vigor, or energy.  
 __open question__  
 __open season (on someone or something)__  
@@ -243,6 +259,7 @@ __orbiter__ In James Ellroy’s novels, “orbiter” is a term used to describe
 __out of curiosity__ A phrase that is used to indicate that a person is asking a question or seeking information out of a genuine desire to know more about something, rather than for any specific or practical purpose.  
 __out of whack__  
 __out-of-pocket__ Out-of-pocket expenses are costs connected with work that people pay themselves at first but are usually paid back to them later. _I charge twenty dollars an hour plus out-of-pocket expenses._ Note: If you pay out of pocket, you pay for something yourself and claim the money back later.  
+__outtro__ In a sense, “outtro” is a pun on “intro,” and it’s a creative way to refer to the closing or concluding section of a creative work.  
 __own someone__ The idiom “own someone” typically means to have power or control over someone else. It can imply that the person being “owned” is subservient or subordinate to the person doing the “owning.” For example, if someone says, “I totally owned that job interview,” it means they were confident and in control of the situation, and they likely impressed the interviewer. Conversely, if someone says “I got owned by my boss at the meeting,” it implies that they felt intimidated or powerless, and the boss had the upper hand in the conversation.  
 __oy__ :dart: In the novels by James Ellroy, “oy” is a Yiddish expression that is often used to convey frustration, dismay, or exasperation. _Tom went oy and walked out._  
 __pablum__ In Ellroy’s novels, it’s used as a derogatory term for something that is bland, uninteresting, or lacking in substance. It’s sort of like saying that something is “boring” or “unoriginal.”  
@@ -269,7 +286,9 @@ __plea deal__ Plea bargain.
 __plod on__ To move, progress, or develop at a slow but constant and deliberate pace.  
 __point fingers (at someone or something)__  
 __poised to (do something)__  
+__poke fun__ To mildly taunt or mock someone or something; to make light fun of someone or something.  
 __poke__ __1__ _v_ _vulgar slang_ To have penetrative sex (with someone). _I can’t remember the last time I poked my wife._ __2__ _n_ _vulgar slang_ Penetrative sex. _Look at that hottie at the bar. Wouldn’t mind giving her a poke!_  
+__police lineup__ A law enforcement procedure in which a witness or victim of a crime is asked to identify a suspect from a group of people, typically standing in a row or line.  
 __poon__  
 __posse__ _slang_ A group of friends or associates that spend a lot of time together.  
 __pounce on (someone or something)__  
@@ -345,6 +364,7 @@ __rizz<sup>1</sup>__ _n_ Romantic appeal or charm. _A bro who has rizz._
 __rizz<sup>2</sup>__ _v_ (typically used with _up_, as in _rizz up that cutie._) To charm or seduce.  
 __roll out__  
 __roly-poly__ _A roly-poly hustler._  
+__room to grow__ A phrase used to describe the potential for something to improve or expand in the future. _There is always room to grow._  
 __root cause__ The most fundamental, central, or basic causal element of something.  
 __rosy__  
 __round and round__ :two: (around and around) In circles.  
@@ -403,6 +423,7 @@ __skeevy__ :two: Offensively or unscrupulously repellant, repugnant, or disreput
 __skin flute__ _vulgar, slang_ A penis.  
 __skip off__ To leave or depart hastily so as to avoid something or escape with something.  
 __skyhook__  
+__slated for__  
 __slip through the cracks__  
 __slob__  
 __slow down__  
@@ -413,7 +434,7 @@ __sneak up (on someone or something)__
 __snookered__ /ˈsnʊkɚd/ _mod_ __1__ Cheated; deceived. _I was snookered skillfully and quickly. It was almost a pleasure._ __2__ _slang_ Drunk.  
 __snout__ __4__ _slang_ A person’s nose.  
 __snow job__ :dart: A form of manipulation that involves lying or flattery to persuade someone. a systematic deception; a deceptive story that tries to hide the truth. _You can generally tell when a student is trying to do a snow job._ _This snow job you call an explanation just won’t do._  
-__snuff (one)__ _slang_ To kill one. _He was planning on going to the police, but the criminals snuffed him before he had the chance._ _Tragically, he was snuffed in his prime by cancer._  
+__snuff (one)__ :two: _slang_ To kill one. _He was planning on going to the police, but the criminals snuffed him before he had the chance._ _Tragically, he was snuffed in his prime by cancer._  
 __so to speak__  
 __so-so__  
 __sock__ _informal_ __1__ _n_ A sharp, forceful blow. _He gave me a sock in the arm when I called him a wuss._ __2__ _v_ To deliver a sharp, forceful blow. _Talk about my mother like that again, and I’ll sock you in the jaw!_  
@@ -522,7 +543,8 @@ __why on earth__
 __wingding__ :two::hammer:  
 __wise up__  
 __wit a vengeance__ _Generative AI left the lab with a vengeance._  
-__with a bang__  
+__with a bang__ :two::hammer:  
+__with a vengeance__ _Die Hard with a Vengeance._  
 __with flying colors__  
 __within reason__  
 __wrack (one’s) brain(s)__  
@@ -530,4 +552,5 @@ __XYZ__ In spoken language, “XYZ” is often used to refer to hypothetical or 
 __yap__ __2__ To chatter; to gossip. _Did you just come here to yap?_ __3__ _n_ Nonsense; gibberish. _That windbag can produce an enormous amount of yap._ __4__ _vi_ To empty one’s stomach; to vomit. _Who yapped in the bushes?_ _A yapping dog._  
 __yard__ _n_ A one-hundred-dollar bill. (Underworld.) _The guy wanted a yard just to fix a little dent in the fender._  
 __yen__ A desire. Often used in the phrase “have a yen for (someone/something).“  
+__yippee-ki-yay__  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
