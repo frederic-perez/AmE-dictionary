@@ -13209,7 +13209,7 @@ __personal best__ _n_ Personal record, also called “personal best” or “PB,
 __personification__ _n_ Personification is the act of giving human elements to non-human things. Example: The beautiful valley spread its arms out and embraced us.  
 __personify__ _v_  
 __perspicacious__ _adj_ :three: /per-spuh-KAY-shus/ Perspicacious is a formal word that means “possessing acute mental vision or discernment.” Someone who is perspicacious has a keen ability to notice and understand things that are difficult or not obvious. Having or showing penetrating mental discernment; clear-sighted. _Syn_ sagacious, sapient :es: perspicaz _She was much too perspicacious to be taken in by such a spurious argument._ _She considers herself a perspicacious judge of character._  
-__perspicuous__ _adj_ Clearly expressed; lucid, plain, distinct.  
+__perspicuous__ _adj_ :two: Clearly expressed or presented; easy to understand; lucid, plain, distinct. _Syn_ lucid, luculent, pellucid, crystal clear, limpid  
 __perspiration__  
 __pert__ _adj_ :two::hammer:  
 __pertinacious__ _adj_  
@@ -14584,7 +14584,8 @@ __rank<sup>1</sup>__ _n_ _[Urine smelling of] the rank grassiness of someone who
 __rank<sup>2</sup>__ _v_  
 __ranking__ _adj_ A ranking person has a high, or the highest, position in an organization or is one of the best at an activity. _The panel’s ranking Democrat, William Clay._ _He’s the ship’s ranking officer (=the one with the highest rank)._  
 __rankle__ _v_ :five: /RANK-ul/ (rankles, rankled) Gnaw into; make resentful or angry. _Syn_ eat into, grate, fret _If you were aiming to rankle me with your sexist comments, you succeeded!_ _Rae Ann’s snooty attitude and rude behavior rankled the host, but he smiled to hide his irritation._  
-__ransack__ _vt_ :eight: (ransacked) To search carefully for plunder; pillage. _Syn_ foray, reave, rifle, loot, plunder, strip _My apartment looked like a tornado had torn through it after it was ransacked by a band of thieves._  
+__ransack__ _vt_ :nine: (ransacked) To search carefully for plunder; pillage. _Syn_ foray, reave, rifle, loot, plunder, strip _My apartment looked like a tornado had torn through it after it was ransacked by a band of thieves._  
+__ransom__ _n_  
 __ransomware__ _n_ :two: Malware that disables the normal operation of a computer until money or other ransom is paid to the person or organization responsible for the malware.  
 __rant__ _n, v_ :dart:  
 __rant<sup>1</sup>__ _n_ :two::hammer:  
@@ -14604,7 +14605,7 @@ __rapscallion__ _n_ /rap-SKAL-yun/ The word rapscallion refers to someone who ca
 __rapt<sup>1</sup>__ _adj_ :seven::hammer: _In rapt silence._ _Robert C. Cone had a rapt audience._  
 __rapt<sup>2</sup>__ _v_  
 __rapture<sup>1</sup>__ _n_ :five::hammer: _The film _Carol_ left critics in rapture._  
-__rapture<sup>2</sup>__ _v_ :two::hammer:  
+__rapture<sup>2</sup>__ _v_ :three::hammer:  
 __rapturous__  
 __rare news conference__  
 __rare__  
@@ -14636,7 +14637,7 @@ __rathskeller__ _n_ A restaurant or bar located below street level.
 __ratify__ _v_ (ratified)  
 __rating__ _n_ :two::hammer:  
 __rationale__ _n_ :two::dart: /rash-uh-NAL/ An explanation or reason for something said or done. _Senators who opposed the bill were questioned by media to uncover their rationale for voting against it._ _It has four main rationales._  
-__rationalize__ _v_ :dart::three::hammer:  
+__rationalize__ _v_ :dart::four::hammer:  
 __ratlines__  
 __ratoon__ _n_  
 __rattan__ _n_ :three::hammer: _Rattan chairs._ _Rattan couch._  
@@ -14716,6 +14717,7 @@ __rebar__ _n_ A steel reinforcing bar in a reinforced concrete structure, or a g
 __rebate__ _n_ :six: A partial refund to someone who has paid too much for tax, rent, or a utility. _Syn_ refund, partial refund, repayment _To pay rebates._ :es: reembolso _Amount off MSRP includes all additional available rebate and incentive programs._ _Tax rebates._ _10% rebate with the purchase of 3 or more Bosch kitchen appliances._  
 __rebellion__ _n_ :pencil2:  
 __rebop__ _n_ :four: A form of jazz improvising by musicians of the post-bebop era that embodies the traditions of bebop but includes the musical advances since that time, i.e. group improvisation, free, pentagonic and intervalic improvising, as well as incorporating contemporary and historic rhythmic concepts.  
+__reborn__ _adj_ /riːˈbɔːn/  
 __rebuff__ _v_ :nine::m: To refuse; to offer sudden or harsh resistance; to turn down or shut out. To refuse to accept a helpful suggestion offer from someone, often by answering in an unfriendly way. _Syn_ reject, turn down, decline _She rebuffed all suggestions that she should resign._ _The effort has been rebuffed._  
 __rebuke__ _n_ :six::hammer:  
 __rebus__ _n_ A puzzle in which one must decode a message consisting of pictures representing syllables and words.  
@@ -14727,7 +14729,7 @@ __recall<sup>1</sup>__ _n_ :three::hammer:
 __recall<sup>2</sup>__ _v_ :three::hammer:  
 __recant__ _v_ :six: Formally reject or disavow a formerly held belief, usually under pressure. _Syn_ abjure, forswear, retract, resile _Christianity held a tragic power indeed if the need for salvation could lead a man to recant his own creation._  
 __recantation__ _n_ :two: A statement that one no longer holds a particular opinion or belief; a retraction. _Syn_ renunciation, renouncement, disavowal, denial :es: retractación  
-__recap<sup>1</sup>__ _n informal_ :three::hammer: _The written recap of the meeting._ _A quick recap._  
+__recap<sup>1</sup>__ _n informal_ :four: A summary or recapitulation, as of a news report, sports contest, or television show. _The written recap of the meeting._ _A quick recap._  
 __recap<sup>2</sup>__ _vt_ _informal_ :five: To recapitulate: _recapped the headlines at the end of the news broadcast; recapped her favorite reality show on her blog._  
 __recapitulate__ _v_ :two::hammer:  
 __recce__ _n_ :two::hammer:  
@@ -14738,7 +14740,7 @@ __receiving end__ _n_
 __recess<sup>1</sup>__ _n_ :two::hammer: (recesses) _The deepest recesses of the brain._  
 __recess<sup>2</sup>__ _v_  
 __recidivate__ _v_ To return to a previous pattern of behavior, especially to return to criminal habits. _Syn_ relapse, retrogress, lapse, regress, fall back _I did not mean to recidivate, but burgling homes is second nature to me._  
-__recidivism__ _n_ :three: /rih-SID-uh-viz-um/ Relapse into criminal behavior, or more broadly, a tendency to relapse into a previous condition or mode of behavior. The repeating of or returning to criminal behavior by the same offender or type of offender. _The county’s new program has been very successful in reducing recidivism rates._  
+__recidivism__ _n_ :four: /rih-SID-uh-viz-um/ Relapse into criminal behavior, or more broadly, a tendency to relapse into a previous condition or mode of behavior. The repeating of or returning to criminal behavior by the same offender or type of offender. _The county’s new program has been very successful in reducing recidivism rates._  
 __recidivist__ _n_ :four::hammer:  
 __recipe__ _n_ :m: _Recipe to success._  
 __reciprocate__ _v_ /rih-SIP-ruh-kayt/ To do something for or to someone who has done something similar for or to you. _It was kind of my friend to give me a ride to the airport, and on the flight I was thinking of how to reciprocate the favor._  
@@ -14809,11 +14811,11 @@ __redoubt__ _n_ :astonished::three: A small, often temporary defensive fortifica
 __redoubtable__ _adj_ :five::astonished: That is to be feared; formidable. _Two redoubtable warriors._  
 __redoubted__ _adj_  
 __redound__ _v_ /rih-DOWND/ :two::hammer:  
-__redress<sup>1</sup>__ _v_ :six: The verb redress is used when you are supposed to fix a problem and make amends. You want your parents to redress the fact that you don’t have a pet. Your parents offer to get a hamster, but instead, you say you want a monkey.  
+__redress<sup>1</sup>__ _vt_ :seven: The verb redress is used when you are supposed to fix a problem and make amends. You want your parents to redress the fact that you don’t have a pet. Your parents offer to get a hamster, but instead, you say you want a monkey.  
 __redress<sup>2</sup>__ _n_ :eight: A sum of money paid in compensation for loss or injury. _To seek redress._ _They demanded redress of 146 grievances before they would consent to a new subsidy._  
 __redshirt__ _v_ :four::hammer: (redshirting)  
 __reductive__ _adj_  
-__redux__ _adj_ :six: /ree-DUKS/ Redux is an adjective that means “brought back,” and it is usually used to describe an event or situation that closely resembles something from the past. Redux is always used postpostively, that is, after the word or phrase it describes. Brought back—used postpositively; revived. _Damian has the veneer of the angry young man redux._ _Is the expensive drug remdesivir just Tamiflu redux?_  
+__redux__ _adj_ :seven: /ree-DUKS/ Redux is an adjective that means “brought back,” and it is usually used to describe an event or situation that closely resembles something from the past. Redux is always used postpostively, that is, after the word or phrase it describes. Brought back—used postpositively; revived. _Damian has the veneer of the angry young man redux._ _Is the expensive drug remdesivir just Tamiflu redux?_  
 __redwood__ _n_ :two::hammer:  
 __reed__ _n_ :two::hammer: _A reed basket._  
 __reeds__ _n_ :four::hammer: _The reeds fringed the Euphrates._  
@@ -14837,7 +14839,7 @@ __referred__ _v_ _Donovan referred to the main engine room of the destroyer._
 __reffing__  
 __reflexive__ _adj_ /ri-FLEK-siv/  
 __refractory__ _adj_ :five::hammer: _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._ _Refractory VT._  
-__refrain<sup>1</sup>__ _n_ :five::hammer::astonished:  
+__refrain<sup>1</sup>__ _n_ :six::hammer::astonished:  
 __refrain<sup>2</sup>__ _vi_ :three::hammer: _Refraining from email was definitely a challenge._ _Lorna refrained from comment._  
 __refreshment__ _n_  
 __refugium__ _n_ :two::hammer:  
@@ -14847,15 +14849,18 @@ __refurbish__ _v_ :eight::hammer: (refurbished)
 __refurbishment__ _n_ :three::hammer:  
 __refuse<sup>1</sup>__ _v_ _Tim refused to worry about it._  
 __refuse<sup>2</sup>__ _n_ :two: Items or material discarded or rejected as useless or worthless; trash or rubbish.  
+__refusenik__ _n_  
 __regal__ _n_ :five: _A black West Indian with regal manners._ _Even though he was homeless, Dan had a regal bearing. Regal is an adjective that describes things that appear to be royal. There are several synonyms for regal, but they all have slightly different meanings. Reserve regal for those instances when the person or thing truly seems like it wants to be the queen, actually is the queen, or looks like it might belong to the queen. My French teacher has a truly regal bearing: she stands stick-straight, with her chin in the air, and acts as though she’s the queen and we’re her court. A regal attitude from a trembling Chihuahua is the height of irony: that little bugger couldn’t rule a cat-box, let alone a whole country._ _Despite his homely perch Robert felt regal._  
 __regale__ _v_ :three: /rih-GAIL/ __1__ Regale is a somewhat formal word that means “to entertain or amuse by telling stories, describing experiences, etc.” It is often followed by _with_. _He regaled his party guests with stories of his adventures abroad._ To give delight or amusement to: _he regaled them with stories of his youth._ __2__ To provide with choice or abundant food or drink.  
 __regalia__ _n_ :three: Magnificent attire; finery. _Syn_ raiment, array  
 __regatta__ _n_ :four::pencil2::hammer:  
-__regency__ _n_ :two::hammer:  
+__regency__ _n_ :three::hammer:  
 __regent__ _n_ :two::hammer:  
 __regimen__ _n_ :two: /REJ-uh-mun/ _Regimen_ refers to a plan or set of rules about food, exercise, etc., designed to make someone become or stay healthy. _An exercise regimen._  
 __regiment__ _n_ _Several regiments of soldiers._  
-__register__ _n_ _Instant savings at register when 5 Colgate products are purchased in a single transaction._  
+__register<sup>1</sup>__ _n_ _Instant savings at register when 5 Colgate products are purchased in a single transaction._  
+__register<sup>2</sup>__ _vt_  
+__register<sup>3</sup>__ _vi_ __7__ To make an impression; be recorded in the mind: _The warning failed to register._  
 __regnant__ _adj_ __1__ Reigning; ruling: _a queen regnant._ __2__ Predominant. __3__ Widespread; prevalent.  
 __regolith__ _n_ The layer of loose rock resting on bedrock, constituting the surface of most land. Also called _mantle rock_.  
 __regret__ _v_ :two::hammer: (regreted) :pencil2: _We violated this rule with regret._  
@@ -14870,30 +14875,31 @@ __regulatory__
 __rehabber__ _n informal_ A person who engages in rehabilitating something. _A wildlife rehabber._  
 __rehabilitation__ _n_  
 __rehash__ _v_ :two::hammer:  
+__rehouse__ _vt_ To provide with new, usually improved housing.  
 __reign__ _n_ :two::mute:[rei~~g~~n]:hammer:  
 __reiki__ _n_ /ˈreɪkɪ/  
 __reimagining__ _n_  
 __reindeer__ _n pl_ :three::hammer:  
-__reinstate__ _v_ :five::hammer:  
+__reinstate__ _vt_ :six::hammer: /ˌri ɪnˈsteɪt/  
 __reinstatement__ _n_  
 __reiterate__ _v_ :two::hammer: /riːˈɪtəˌreɪt/  
 __reject__ _v_ :dart: __2b__ To refuse to accept (someone) as a lover, spouse, or friend; rebuff.  
 __rejigged__ _v_  
 __rejiggered__  
-__rejoice__ _v_ :four::pencil2::hammer: (rejoiced, rejoicing)  
+__rejoice__ _v_ :five::pencil2::hammer: /rɪˈdʒɔɪs/ (rejoiced, rejoicing)  
 __rejoicing__ _n_ :pencil2:  
 __rejoinder__ _n_ :five: A quick reply to a question or remark (especially a witty or critical one). _Syn_ riposte, comeback, retort, replication, counter, return _Her eyes darkened, and he expected an indignant rejoinder._  
 __rejuvenate__ _v_ /rih-JOO-vuh-nayt/  
 __rejuvenated__ _adj_  
 __rekindle__ _vt_ :three::hammer: _Will generative AI wreck or rekindle the doctor-patient relationship?_ _We must rekindle the fire of idealism in this country._  
 __relapse__ _n_  
-__relatable__ _adj_ :seven: __2__ _informal_ Easy to relate to, sympathize with, or identify with: _a novel with relatable characters._  
+__relatable__ _adj_ :eight: __2__ _informal_ Easy to relate to, sympathize with, or identify with: _a novel with relatable characters._  
 __relate__ _v_ :two::hammer: _I don’t relate._  
 __relay<sup>1</sup>__ _n_ _A relay race._  
 __relay<sup>2</sup>__ _v_ :two::hammer: (relayed) _Ed was relaying a message directly from Jane._  
 __release__ _v_ (from a hospital)  
 __relegate__ _v_ To assign to an obscure place, position, or condition. _Syn_ demote, bump _After allowing the other team to score on three consecutive shots, he was relegated to the bench._  
-__relegation__ _n_ _Sports_  
+__relegation__ _n_ :three::hammer: _Sports_  
 __relent__ _vi_ :six::hammer: /rɪˈlɛnt/ (relented)  
 __relentless__ _adj_ :six::hammer: _I relentlessly go to YouTube to watch all new footage._  
 __reliable__ _adj_ _Must have reliable transportation._  
@@ -14953,13 +14959,13 @@ __repeat<sup>2</sup>__ _n_ :two::dart::hammer: _CBS is filling this spot with a_
 __repeieve__  
 __repent__ _v_ :five::hammer: (repented)  
 __repentance__ _n_ :three::hammer:  
-__repercussion__ _n_ :dart::two::hammer:  
+__repercussion__ _n_ :dart::three::hammer:  
 __repertoire__ _n_ :two::hammer:  
 __repine__ _v_ __1__ To feel or express dejection or discontent. _Syn_ complain __2__ To long for something.  
 __replenishing__ _n_  
 __replete__ _adj_  
 __replica__ _n_  
-__reportedly__ _adv_ :two::hammer: _Apparently his cellphone battery reportedly died._  
+__reportedly__ _adv_ :three::hammer: /rɪˈpɔr tɪd li, -ˈpoʊr-/ _Apparently his cellphone battery reportedly died._  
 __repote__ _n_  
 __reprehensible__ _adj_ :three: /rep-rih-HEN-suh-bul/ /ruh-pri-HEN-suh-buhl/ Deserving criticism or condemnation. Reprehensible is a formal word that means “worthy of or deserving blame or very strong criticism. Bringing or deserving severe rebuke or censure. _Syn_ condemnable, deplorable _I must apologize for my children’s reprehensible behavior, which I assure you will not go unpunished._  
 __reprieve<sup>1</sup>__ _n_ :seven: A cancellation or postponement of a punishment. _He accepted the death sentence and refused to appeal for a reprieve._ _It’s a momentary reprieve._ _Syn_ stay of execution, cancellation of punishment :es: indulto  
@@ -15024,7 +15030,7 @@ __restrain__ _v_ _Adding competition could restrain prices._
 __restrained__ _adj_ /rɪˈstreɪnd/  
 __restraint__ _n_ :three: __3__ Control of the expression of one’s feelings; constraint.  
 __restroom__ _n_  
-__resumption__ _n_ :seven::hammer::pencil2: _n_ _A possible resumption of talks between those countries._ _The resumption of negotiations._ _Power resumption._  
+__resumption__ _n_ :eight::pencil2: _n_ The act or an instance of resuming; a beginning again: _resumption of negotiations._ _A possible resumption of talks between those countries._ _The resumption of negotiations._ _Power resumption._  
 __resurgence__  
 __resurrection__ _n_ /ˌrɛz əˈrɛk ʃən/ _The community applauded the resurrection of the commuter rail system._  
 __resuscitate__ _v_ :astonished:  

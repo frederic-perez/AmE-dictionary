@@ -1,28 +1,3 @@
-__perspicuous__ _adj_ Clearly expressed or presented; easy to understand. _Syn_ lucid, luculent, pellucid, crystal clear, limpid  
-__physic<sup>1</sup>__ _n_ :dart: /ˈfɪz ɪk/ __1__ A medicine, especially one that acts as a laxative. __2__ A doctor. __3__ Medical science or the medical profession.  
-__physic<sup>2</sup>__ _vt_ :dart: __1__ To act upon as a laxative. __2__ To treat with, or as if with, a medicine. __3__ To cure or heal.  
-__purview__ _n_ /PER-vyoo/ _Purview_ refers to an area within which someone or something has authority, influence, or knowledge. It can also refer to a range of vision, understanding, or awareness.  
-__ransack__ _vt_  
-__ransom__ _n_  
-__rapture__ _v_  
-__rationalize__ _v_  
-__reborn__ _adj_ /riːˈbɔːn/  
-__recap__ _n_ A summary or recapitulation, as of a news report, sports contest, or television show.  
-__recidivism__ _n_  
-__redress__ _vt_  
-__redux__ _adj_  
-__refrain__ _n_  
-__refusenik__ _n_  
-__regency__ _n_  
-__register__ _vi_ __7__ To make an impression; be recorded in the mind: _The warning failed to register._  
-__rehouse__ _vt_ To provide with new, usually improved housing.  
-__reinstate__ _vt_ /ˌri ɪnˈsteɪt/  
-__rejoice__ _v_ /rɪˈdʒɔɪs/  
-__relatable__  
-__relegation__ _n_ :two::hammer:  
-__repercussion__ _n_  
-__reportedly__ _adv_ /rɪˈpɔr tɪd li, -ˈpoʊr-/  
-__resumption__ _n_ The act or an instance of resuming; a beginning again: _resumption of negotiations._  
 __retaliate__ _v_  
 __rewrite__ _n_ __1__ The act or an instance of rewriting. __2__ Something rewritten.  
 __rightfully__  
