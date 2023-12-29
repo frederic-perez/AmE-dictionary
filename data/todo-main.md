@@ -1,28 +1,3 @@
-__’twas__ _phr_ Contraction of _it was._  
-__back-number__ _n_ Someone who is no longer popular. _Syn_ has-been  
-__barnacle<sup>1</sup>__ _n_ /BAHR-nuh-kuhl/ __1__ Any marine crustacean of the subclass Cirripedia that attaches itself to rocks, hulls, docks, whales, etc. :es: percebe __2__ Someone or something that clings.  
-__barnacle<sup>2</sup>__ _vi_ To cling in a persistent manner.  
-__bollard__ _n_ A thick post on a ship or wharf, used for securing ropes and hawsers. _Syn_ bitt  
-__bowdlerize__ _v_ /BOHD-ler-ize/ In its strictest sense, to _bowdlerize_ a book, manuscript, etc. is to modify it by editing so that nothing judged to be morally harmful or offensive remains. More broadly, _bowdlerize_ means “to modify by abridging, simplifying, or distorting in style or content.”  
-__Christmas__ _n_ [:scroll: From the Old English Cristes mǣsse, meaning “Mass of Christ”]  
-__Christmastime__ _n_ The Christmas season.  
-__conspicuous__  
-__cutesy__ _adj_ /ˈkyut si/ Deliberately or affectedly cute; precious: _a cutesy boutique._  
-__dot__ _v_  
-__ensuing__ _adj_ /ɪnˈsjuːɪŋ/  
-__eurythmics__ _n_  
-__Frisbee__ _n_ /ˈfrɪz bi/ A trademark for a plastic disk-shaped toy that players throw and catch.  
-__full disclosure__  
-__homage__ _n_ /ˈhɒm ɪdʒ, ˈɒm-/  
-__jaunty__ _adj_ __2__ 2Sprightly; lively: _walking at a jaunty pace; music with jaunty rhythms._ _A jaunty tune._  
-__Jehovah__ _n_ :mega:  
-__Kafkaesque__ _adj_ /ˌkɑf kəˈɛsk/  
-__Kwanzaa__ _n_ /ˈkwænzɑː/ (Kwanza) A seven-day festival beginning on Dec 26 when African-Americans celebrate family, community, and culture.  
-__light-hearted__ _adj_ Cheerful or carefree in mood or disposition.  
-__manger__ _n_ A trough or an open box in which feed for livestock is placed. _Syn_ trough _Nativity scenes depicting the scene of Jesus’s birth include the baby Jesus in a manger._  
-__neophyte__ _n_ A beginner or novice. _Syn_ fledgling, newbie, newcomer, freshman, entrant, starter  
-__overweening__ _adj_ /oh-ver-WEE-ning/ To describe someone as _overweening_ is to say that they are arrogant and unduly proud. _Overweening_ also disapprovingly describes qualities or desires, such as greed or ambition, that are seen as excessive.  
-__pan__ _v_  
 __perspicuous__ _adj_ Clearly expressed or presented; easy to understand. _Syn_ lucid, luculent, pellucid, crystal clear, limpid  
 __physic<sup>1</sup>__ _n_ :dart: /ˈfɪz ɪk/ __1__ A medicine, especially one that acts as a laxative. __2__ A doctor. __3__ Medical science or the medical profession.  
 __physic<sup>2</sup>__ _vt_ :dart: __1__ To act upon as a laxative. __2__ To treat with, or as if with, a medicine. __3__ To cure or heal.  
