@@ -1,14 +1,32 @@
+__’twas__ _phr_ Contraction of _it was._  
 __back-number__ _n_ Someone who is no longer popular. _Syn_ has-been  
+__barnacle<sup>1</sup>__ _n_ /BAHR-nuh-kuhl/ __1__ Any marine crustacean of the subclass Cirripedia that attaches itself to rocks, hulls, docks, whales, etc. :es: percebe __2__ Someone or something that clings.  
+__barnacle<sup>2</sup>__ _vi_ To cling in a persistent manner.  
+__bollard__ _n_ A thick post on a ship or wharf, used for securing ropes and hawsers. _Syn_ bitt  
+__bowdlerize__ _v_ /BOHD-ler-ize/ In its strictest sense, to _bowdlerize_ a book, manuscript, etc. is to modify it by editing so that nothing judged to be morally harmful or offensive remains. More broadly, _bowdlerize_ means “to modify by abridging, simplifying, or distorting in style or content.”  
+__Christmas__ _n_ [:scroll: From the Old English Cristes mǣsse, meaning “Mass of Christ”]  
+__Christmastime__ _n_ The Christmas season.  
 __conspicuous__  
+__cutesy__ _adj_ /ˈkyut si/ Deliberately or affectedly cute; precious: _a cutesy boutique._  
 __dot__ _v_  
 __ensuing__ _adj_ /ɪnˈsjuːɪŋ/  
 __eurythmics__ _n_  
+__Frisbee__ _n_ /ˈfrɪz bi/ A trademark for a plastic disk-shaped toy that players throw and catch.  
 __full disclosure__  
 __homage__ _n_ /ˈhɒm ɪdʒ, ˈɒm-/  
 __jaunty__ _adj_ __2__ 2Sprightly; lively: _walking at a jaunty pace; music with jaunty rhythms._ _A jaunty tune._  
 __Jehovah__ _n_ :mega:  
+__Kafkaesque__ _adj_ /ˌkɑf kəˈɛsk/  
+__Kwanzaa__ _n_ /ˈkwænzɑː/ (Kwanza) A seven-day festival beginning on Dec 26 when African-Americans celebrate family, community, and culture.  
 __light-hearted__ _adj_ Cheerful or carefree in mood or disposition.  
+__manger__ _n_ A trough or an open box in which feed for livestock is placed. _Syn_ trough _Nativity scenes depicting the scene of Jesus’s birth include the baby Jesus in a manger._  
+__neophyte__ _n_ A beginner or novice. _Syn_ fledgling, newbie, newcomer, freshman, entrant, starter  
+__overweening__ _adj_ /oh-ver-WEE-ning/ To describe someone as _overweening_ is to say that they are arrogant and unduly proud. _Overweening_ also disapprovingly describes qualities or desires, such as greed or ambition, that are seen as excessive.  
 __pan__ _v_  
+__perspicuous__ _adj_ Clearly expressed or presented; easy to understand. _Syn_ lucid, luculent, pellucid, crystal clear, limpid  
+__physic<sup>1</sup>__ _n_ :dart: /ˈfɪz ɪk/ __1__ A medicine, especially one that acts as a laxative. __2__ A doctor. __3__ Medical science or the medical profession.  
+__physic<sup>2</sup>__ _vt_ :dart: __1__ To act upon as a laxative. __2__ To treat with, or as if with, a medicine. __3__ To cure or heal.  
+__purview__ _n_ /PER-vyoo/ _Purview_ refers to an area within which someone or something has authority, influence, or knowledge. It can also refer to a range of vision, understanding, or awareness.  
 __ransack__ _vt_  
 __ransom__ _n_  
 __rapture__ _v_  
@@ -47,6 +65,7 @@ __ruralism__ _n_ A rural idiom or expression. _Syn_ rusticism
 __salubrious__  
 __salve__ _vt_ __2__ To ease the distress or agitation of; assuage: _salved my conscience by apologizing._  
 __salvo__ _n_ (_n pl_ salvos, salvoes)  
+__sangfroid__ _n_ /SAHNG-FRWAH/ Sangfroid refers to the ability to stay calm in dangerous situations.  
 __sanguine__ _adj_ :two::hammer:  
 __sanity check__  
 __sap__ _vt_ __2__ To deplete or weaken gradually.  
@@ -207,6 +226,7 @@ __supercilious__
 __surprise__ _n, v_ /səˈpraɪz/  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
 __susurous__ _adj_ _The susurous swash of the sea._  
+__swanky__ _adj_ /SWANG-kee/ __1__ Stylish; fashionable; luxurious. __2__ Pretentious; ostentatious.  
 __swashbuckler__ _n_  
 __swell__ _adj_ Excelent.  
 __sweltering__ _adj_  
@@ -263,6 +283,7 @@ __transvestite__ _n_
 __truce__ _n_ /truːs/  
 __tub__ _n_ __1a__ An open, flat-bottomed vessel, usually round and typically wider than it is deep, used for washing, packing, or storing. _A tub of Ben & Jerry’s._ __b__ The amount that such a vessel can hold. __c__ The contents of such a vessel.  
 __tumbledown__ _adj_  
+__ubiquitous__ _adj_ /yoo-BIK-wuh-tuss/ _Syn_ widespread  
 __ukulele__ _n_ :pencil2:  
 __umbrella__ _n_ /ʌmˈbrɛl ə/ [:scroll: Etymologically, it is a “little shadow.”]  
 __unclear__ _adj_  
@@ -336,8 +357,9 @@ __yawp__ _n_ /jɔːp/ _A pure yawp of joy._
 __yellow jacket__ _n_ __1__ _slang_ A barbiturate (trade name Nembutal) used as a sedative and hypnotic and anti-spasmodic. __2__ Any of several social wasps of the genus Vespa, having yellow markings on the body.  
 __yelp__ _v_  
 __yin and yang__  
-__yo-yo__ _n_ :two::pencil2::hammer:  
+__yo-yo__ _n_ :three::pencil2::hammer:  
 __yogi__ _n_ (_n pl_ yogis, yogin) /ˈjəʊgɪ/  
 __yowl__ _v_  
 __zenith__ _n_ /ZEE-nith/ Zenith refers to the strongest or most successful period of time for a person or thing.  
 __zip pouch__ _n_ (zipper pouch)  
+__zoophagous__ _adj_ Feeding on animal matter; carnivorous. _Syn_ meat-eating  
