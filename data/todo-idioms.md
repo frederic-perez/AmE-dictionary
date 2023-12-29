@@ -1,9 +1,18 @@
+__as of now__ Starting now.  
 __bang for the buck__  
 __bare metal__ Computer hardware without an operating system.  
 __beat the shit out of__  
 __big brother__  
 __bomb__ (bombed)  
+__break ground__ __2__ Take the first steps for a new venture; advance beyond previous achievements. For example, _Jeff is breaking new ground in intellectual property law._  
+__bubble up__  
+__cakewalk__  
+__chime in__  
+__chip in__  
 __close the gap (between someone or something)__  
+__cram for (something)__ _You should not cram for an exam._  
+__crystal ball__  
+__dud__  
 __freshen up__  
 __from jump street__  
 __fruitcake__ __2__ _slang_ Someone who is odd or wacky. _What conspiracy theory is that old fruitcake blathering on about now?_  
@@ -89,6 +98,7 @@ __head-to-head__ Describing a one-on-one matchup or comparison.
 __head-to-toe__  
 __heads up__  
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
+__heat up__  
 __heat__ __1__ _slang_ Adverse, hostile criticism. _The senator has been facing a lot of heat in the media for his involvement in the scandal._ __2__ _slang_ Intense pressure. _Their defensive line has been cranking up on the heat on the other team’s quarterback._ __3__ _slang_ Increased police activity in response to some criminal activity. _We’ll have to wait until the heat dies down a bit before we try to sell the stolen goods._ __4__ _slang_ One or more firearms, especially a handgun. _Make sure you’re packing heat before you meet with the rival gang leader._  
 __here and there__  
 __here you are__  
@@ -119,7 +129,10 @@ __iffy__ _informal_ Questionable or uncertain.
 __in (one’s) own right__  
 __in a tizz(y)__ In a nervous, confused, agitated, or excited state.  
 __in earnest__ With sincere intentions.  
+__in less than no time__ (in no time (at all)) In a very little amount of time. Very quickly. _That test was so easy, I was done in less than no time._  
+__in no time (at all)__ (in less than no time) In a very little amount of time. Very quickly. _That test was so easy, I was done in no time._  
 __in short order__ :dart: Quickly, efficiently, and without any delays.  
+__in sum__ As a final brief, concluding point.  
 __in the face of (something)__  
 __in the know__  
 __in the works__ Being prepared; being planned; being done.  
@@ -128,11 +141,13 @@ __it is what it is__
 __jerry-built__ _mod._ Carelessly and awkwardly built. _The lawyer’s case was jerry-built, but the jury bought it anyway._  
 __jump the gun__  
 __jump-start__  
+__keen on (someone or something)__  
 __keep harping on about (someone or something)__ To continue to discuss, mention, or gripe about someone or something in a very persistent and irritating manner. _My roommate keeps harping on about all the irritating people she works with. I wish she would just find a different job already._  
 __keester__ :two: __1__ In the context of James Ellroy’s novels, “keester” generally means to conceal or hide something in a secret or hidden place. It’s often used in reference to illegal or illicit activities, like hiding contraband or stashing stolen goods. __2__ _n_ A chest; a suitcase. _The old lady was hauling the most enormous keester._ __3__ _n_ The buttocks; the anus. _Get your keester over here!_  
 __kick in the ass__  
 __kick-start__ :two::hammer:  
 __kip__ _vi_ To sleep. _He’s upstairs kipping. Can he call you back?_  
+__know a thing or two__  
 __know for a fact__ :two: To have definitive knowledge of something.  
 __ladies and gents__  
 __land on (one’s) feet__  
@@ -161,6 +176,7 @@ __magpie__
 __mainline__ _n_ __2__ _slang_ An accessible vein that can be used to inject a narcotic.  
 __make (one’s)/the rounds__ :two::hammer:  
 __make amends__  
+__make inroads (in/into something)__  
 __make sense__ To be understandable. _John doesn’t make sense._ _What John says makes sense to me._  
 __mama bear__  
 __manosphere__  
@@ -176,7 +192,7 @@ __modus operandi__ :mega: /ˈməʊdəs ˌɒpəˈrændiː; -ˈrændaɪ/
 __more so__  
 __mud-shark__ In the novels by James Ellroy, the term “mud-shark” is used to refer to a type of predatory behavior, often associated with characters who engage in morally questionable or criminal activities. The term “mud-shark” is symbolic of the predatory nature of certain characters, reflecting their willingness to exploit others for personal gain or pleasure.  
 __muddle along__ “Muddle along” is an idiomatic expression that means to manage or cope with a situation or task in a way that’s somewhat disorganized or unsystematic, but still effective. It suggests that someone is making progress, even if it’s slow or messy. To progress in confusion; to continue awkwardly.  
-__nab__ To catch and arrest someone. Often used in passive constructions.  
+__nab__ :two: To catch and arrest someone. Often used in passive constructions.  
 __navigate__ :three: To carefully and skillfully manage or deal with something that is complex, challenging, or difficult. _Navigating difficult relationships._ _Navigating life._  
 __neck and neck__  
 __nerve-racking__ (nerve-wracking) Causing fear or anxiety.  
@@ -207,6 +223,7 @@ __oh, boy__
 __okay__ __9__ To give approval, authorization, agreement, or endorsement (for something). _You’ll need the boss to okay any changes you want to make to the budget._ _In the last year Copilot has suggested—and had okayed by developers—more than a billion lines of code._  
 __old coot__ An eccentric or irritable older person, especially a man, whose views or attitudes are considered boring or old-fashioned.  
 __on (one’s) own__  
+__on a mission__  
 __on a roll__  
 __on and on__  
 __on point__  
@@ -217,6 +234,7 @@ __on the bright side__
 __on the horizon__  
 __on the mat__ __1__ In a position to face a reprimand from someone. _When my team lost that big client, the boss called me on the mat._ __2__ Under discussion or consideration. _We don’t have time to discuss those issues, but don’t worry, they’ll be on the mat the next time we meet._  
 __on the table__ :two::hammer:  
+__on the verge of (doing) (something)__  
 __one size fits all__ Supposedly well-suited to any situation, as of a product, method, solution, etc. Often hyphenated. _We must move away from a “one size fits all” approach._  
 __oomph__ _slang_ Power, vigor, or energy.  
 __open question__  
@@ -250,6 +268,7 @@ __plea bargain__ To agree to plead guilty, especially to a lesser criminal offen
 __plea deal__ Plea bargain.  
 __plod on__ To move, progress, or develop at a slow but constant and deliberate pace.  
 __point fingers (at someone or something)__  
+__poised to (do something)__  
 __poke__ __1__ _v_ _vulgar slang_ To have penetrative sex (with someone). _I can’t remember the last time I poked my wife._ __2__ _n_ _vulgar slang_ Penetrative sex. _Look at that hottie at the bar. Wouldn’t mind giving her a poke!_  
 __poon__  
 __posse__ _slang_ A group of friends or associates that spend a lot of time together.  
@@ -270,6 +289,7 @@ __put (one) off (something)__
 __put (one) on notice__ To warn or alert one about something. _Boston put their prima donnas on notice._  
 __put (someone or something) out of business__  
 __put (someone or something) to bed__  
+__put (someone) in the picture__ To keep someone informed, aware, or up to date (about something); to involve someone in something.  
 __put (something) on ice__ __2__ To postpone or delay acting on or dealing with something.  
 __put a spoke in (one’s) wheel__  
 __put an end to (something)__  
@@ -295,6 +315,7 @@ __putzy__ “Putzy” is a term that James Ellroy uses in his novels to describe
 __quack__ _n_  
 __Queen of Angels__ :two: It’s a nickname for Los Angeles in James Ellroy’s novels.  
 __quick buck__  
+__quite a (something)__ Used to signify something very significant, exemplary, or impressive.  
 __rabbit__ _v_ __1__ To run away quickly, usually to escape from something or someone. __2__ To talk excessively or rapidly.  
 __radio silence__  
 __rag on (one)__  
@@ -354,7 +375,7 @@ __scruff(y)__
 __scuttlebutt__ _n_ News; information; gossip. (The legend of origin is that the scuttlebutt was a butt [= cask, keg] of drinking water located near a scuttle [= hatch]. Sailors gathered there to exchange gossip.)  
 __second base__ _singular only, US, colloquial_ Touching a partner under his or her clothes, without having sex.  
 __second best__  
-__secret sauce__ _informal_ A secret idea or plan; a crucial element of something that makes it unique or functional.  
+__secret sauce__ :two: _informal_ A secret idea or plan; a crucial element of something that makes it unique or functional.  
 __secretor__ A “secretor” in James Ellroy’s novels is essentially a character who has a hidden or suppressed aspect of their personality or identity. They might be someone who seems upstanding and respectable on the surface, but underneath, they’re harboring a dark secret that could ruin their reputation or even get them into serious trouble.  
 __see somebody/something for what they ˈare/it is__ Realize that somebody/something is not as good, pleasant, etc. as they seem/it seems: _I used to really like him, but now I can see him for what he really is — selfish and arrogant!_  
 __sell like hot cakes__  
@@ -382,6 +403,7 @@ __skeevy__ :two: Offensively or unscrupulously repellant, repugnant, or disreput
 __skin flute__ _vulgar, slang_ A penis.  
 __skip off__ To leave or depart hastily so as to avoid something or escape with something.  
 __skyhook__  
+__slip through the cracks__  
 __slob__  
 __slow down__  
 __smear (one’s) name__ To disparage one publicly, especially to the detriment of one’s reputation.  
@@ -499,6 +521,7 @@ __whipout__ It’s another slang term that Ellroy uses to describe something tha
 __why on earth__  
 __wingding__ :two::hammer:  
 __wise up__  
+__wit a vengeance__ _Generative AI left the lab with a vengeance._  
 __with a bang__  
 __with flying colors__  
 __within reason__  
