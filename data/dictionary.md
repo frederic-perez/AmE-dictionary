@@ -2602,7 +2602,7 @@ __Caddy__ _n_ A Cadillac car.
 __cadence__ _n_ :four: /KAY-dunss/ Cadence is used to refer to various rhythmic or repeated motions, activities, or patterns of sound, or to a falling inflection of the voice. _Stephanie relaxed at the beach, listening to the cadence of the surf._ _The files are updated at a regular cadence._ _The drill sergeant counted cadence._  
 __cadet__ _n_ :two::hammer:  
 __cadge__ _v_ :three: __1__ Ask for and get free; be a parasite. _Syn_ bum, grub, mooch, sponge _Though she had a pantry full of groceries, Sheila loved to cadge her meals from her sister._ __2__ To cadge is to plead or beg for something. _A hungry child might cadge an extra cookie from her dad while he’s baking._ _He cadged money and bribed guards._  
-__cadre__ _n_ :nine::hammer: /KAD-ray/ _The collectible cadre of brands._ _Party cadres._ _A cadre of layers._  
+__cadre__ _n_ :nine: /KAD-ray/ __1__ The key group of officers and enlisted personnel necessary to establish and train a new military unit. __2__ Any core group qualified to form, train, and lead an expanded organization or work force. _The collectible cadre of brands._ _A cadre of layers._ __3__ A member of a cadre. _Party cadres._ __4__ A framework.  
 __caduceus__ _n_ An insignia used by the medical profession; modeled after the staff of Hermes.  
 __caducous__ _adj_ :two: /kuh-DOO/DYOO-kuhs/ Tending to fall easily or before the usual time. Dropping off or shedding at an early stage of development, as the gills of most amphibians or the sepals or stipules of certain plants.  
 __cafeteria__ _n_ :mega: /kăf′ĭ-tîr′ē-ə/  
@@ -12784,7 +12784,7 @@ __palsy__ _n_ :five::hammer: _Mild cerebral palsy._ _Risks of cerebral palsy and
 __palsy-walsy<sup>1</sup>__ _n_ A friend. _I’m surprised you haven’t met Ricky’s new palsy-walsy from school yet—they’re together all the time._  
 __palsy-walsy<sup>2</sup>__ _adj_ Friendly, but (usually) disingenuous.  
 __paltry__ _adj_ :nine::m: Very small or inadequate in amount; negligible: _was paid a paltry sum for his work._  
-__pamper__ _vt_ :nine::m::hammer: _We’ll pamper you with a complimentary morning coffee service and evening wine tasting._ _The Lumbr Baron Inn will pamper you with in-room Jacuzzi tubs._  
+__pamper__ _vt_ :nine::m: __1__ To treat with excessive indulgence: _pampered their child._ __2__ To give in to; gratify: _He pampered his ambition for wealth and fame._ _We’ll pamper you with a complimentary morning coffee service and evening wine tasting._ _The Lumbr Baron Inn will pamper you with in-room Jacuzzi tubs._  
 __pampered__ _adj_  
 __pampering__ _n_  
 __pamphlet__ _n_  
@@ -13773,7 +13773,7 @@ __porta-potty__ _n_ :three: A toilet that is in a small plastic building that ca
 __portable building__ _n_ A portable, demountable or transportable building is a building designed and built to be movable rather than permanently located. :es: barracones  
 __portal__  
 __portcullis__ _n_ :two::camera: A grating of iron or wooden bars or slats, suspended in the gateway of a fortified place and lowered to block passage.  
-__portend__ _vt_ :nine::m::hammer: /por-TEND/ (portended) _...may portend a disruption._  
+__portend__ _vt_ :nine::m: /por-TEND/ Foreshadow as an omen; signify; foretell; forecast; forebode. _...may portend a disruption._  
 __portent__ _n_ :five::hammer: (portents)  
 __portentous__ _adj_ :two::hammer: /por-TEN-tuss/  
 __porter__ _n_  
@@ -14314,7 +14314,7 @@ __purloin__ _vt_ :nine::m: To steal, often in a violation of trust. _Syn_ cabbag
 __purloiner__ _n_  
 __Purple Hearts__  
 __purple__ _n_ _A hint of purple._  
-__purport<sup>1</sup>__ _vt_ :nine::m::astonished::hammer: (purported) _The purported attack._ _JFK’s purported affairs._  
+__purport<sup>1</sup>__ _vt_ :nine::m::astonished: To have or present the often false appearance of being or intending; claim or profess: _a novel that purports to be a sailor’s memoir; an author who purports to have witnessed the events._ _The purported attack._ _JFK’s purported affairs._  
 __purport<sup>2</sup>__ _n_  
 __purportedly__ _adv_ :three: Believed or reputed to be the case. _Syn_ supposedly  
 __purpose__ _n_ :mega:  
