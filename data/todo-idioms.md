@@ -1,28 +1,3 @@
-__as of now__ Starting now.  
-__at (long) last__ Finally. Typically said after a long period.  
-__at gunpoint__  
-__aw__ :dart::two::hammer: _interj_ [Sometimes elongated with multiple w’s to add emphasis.]  
-__bang for the buck__  
-__bare metal__ Computer hardware without an operating system.  
-__beat the shit out of__  
-__big brother__  
-__bomb__ (bombed)  
-__break ground__ __2__ Take the first steps for a new venture; advance beyond previous achievements. For example, _Jeff is breaking new ground in intellectual property law._  
-__bubble up__  
-__cakewalk__  
-__chime in__  
-__chip in__  
-__classy__  
-__close the gap (between someone or something)__  
-__cold open__  
-__come to fruition__  
-__cram for (something)__ _You should not cram for an exam._  
-__critically panned__ A phrase used to describe a negative reception or response to something, particularly in the context of reviews or critiques by critics or experts. _The critically panned fifth _Die Hard_ movie._  
-__crystal ball__  
-__dud__  
-__fit the bill__  
-__freshen up__  
-__from jump street__  
 __fruitcake__ __2__ _slang_ Someone who is odd or wacky. _What conspiracy theory is that old fruitcake blathering on about now?_  
 __funny farm__ _slang_ A derogatory term for a psychiatric hospital or mental health facility.  
 __futz__ _v_ In James Ellroy’ novels, “futz” is a verb that means to waste time, to mess around, or to fiddle with something without really accomplishing anything. It’s often used to describe a character who is procrastinating or avoiding doing something important or necessary.  

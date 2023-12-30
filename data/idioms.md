@@ -376,7 +376,7 @@ __as many as__ _As many as five terror plots were foiled last year._
 __as much as__ _Inside today’s Stateman as much as $215 in coupon savings._  
 __as much__ Almost the same: _I thought as much._ _She said as much._  
 __as of late__ :two::hammer:  
-__as of now__ :two: From now on; from this moment on: _As of now, smoking is forbidden in this house._  
+__as of now__ :three: Starting now. From now on; from this moment on: _As of now, smoking is forbidden in this house._  
 __as of today__  
 __as the crow flies__ By the most direct way, along a straight line between two places.  
 __as the next person__ You use _as the next person_ to mean that you are no different from anyone else in the way you have mentioned.  
@@ -387,7 +387,7 @@ __as you please__
 __ascribe (something) to (something)__ To attribute something to a person or source. _The cause of the accident was ascribed to human error._  
 __ask for the moon__ To ask for too much, to want something that is not possible.  
 __ask for trouble__  
-__at (long) last__ :two: Finally. Typically said after a long period. _My husband returns from his trip today at last—I’ve missed him so much!_  
+__at (long) last__ :three: Finally. Typically said after a long period. _My husband returns from his trip today at last—I’ve missed him so much!_  
 __at (one’s) beck and call__ Completely compliant or obedient to another person; catering to one’s every need. The phrase has a negative connotation. Ready to obey someone’s orders instantly; subject to someone’s slightest whim. _Do you really think I’ll do anything you say? I’m not at your beck and call!_  
 __at (one’s) leisure__ :dart::two: When one has free time; at one’s convenience: _I’ll return the call at my leisure._ _Enjoy coffee at your leisure._  
 __at a (single) stroke__ All at once, with a single decisive or powerful action. _When the economy crashed, thousands of people lost their jobs, their homes, and their pensions at a single stroke._  
@@ -401,6 +401,7 @@ __at any rate__ :three: Whatever happens or may have happened. _For the moment, 
 __at breakneck speed/pace__ :two: Extremely and often dangerously fast. _He drove away at breakneck speed._  
 __at every turn__ :two: __1__ At every opportunity. _My opponent has tried to discredit me at every turn._ __2__ Everywhere. _I’ve been seeing my old roommate at every turn lately. Just today, I bumped into her at the mall!_  
 __at first blush__ :two: Upon first seeing or considering something. _At first blush, it sounded like a supremely dumb idea._  
+__at gunpoint__  
 __at heart__ :three::hammer: _Most people are crooks at heart._ _I’m a country girl at heart._  
 __at its best__ :two: Of or at the highest standard of quality possible. _You’ll love their new album; it’s simply jazz at its best._ _An excellent tribute to nature at its best._  
 __at its worst__  
@@ -433,6 +434,7 @@ __at your leisure__
 __atone for (something)__  
 __attaboy__ :five: (atta boy) An expression of encouragement, support, or approval toward a boy, man, or male animal, used as a standalone interjection before or after a sentence. Largely presumed to be a corruption of the expression “that’s the boy.” _You won the spelling bee? Attaboy!_  
 __auld lang syne__ [At many New Year’s Eve parties, the song “Auld Lang Syne” is played or sung at midnight, as a means of saying farewell to the old year and greeting the new.] Old times, especially those that are remembered fondly. In Scottish, the phrase means “old long since.” _Come on, you’re only in town for a few days—let’s go to dinner for auld lang syne._  
+__aw__ :dart::two::hammer: _interj_ [Sometimes elongated with multiple w’s to add emphasis.]  
 __awash__ _adj_ Drunk.  
 __awesome sauce__ _slang_ Excellent, great, or exceptionally interesting. _I couldn’t take him seriously when he described the movie as being awesome sauce._ _Awesome sauce! I got an A on my midterm!_  
 __AWOL__ _John didn’t just cut his Tuesday classes; he went AWOL._  
@@ -493,7 +495,7 @@ __ballyhoo__ _v_
 __bamboozle__ :dart::three: To cheat, deceive, or take advantage of someone by elaborate and underhanded means. _I can’t believe I let that salesmen bamboozle me like that._  
 __banana oil__ _n_ /buh-NAN-uh oyl/ [:scroll: It’s not known why the banana oil earned this sense, although “to go bananas” means to be crazy or wildly enthusiastic. Perhaps the sense arose because the liquid known as banana oil does not involve bananas at all. Instead, it’s a mixture of amyl acetate and cellulose that has a banana-like odor and is used as food flavoring and a solvent. ] __1__ Nonsense. __2__ Insincere talk or flattery.  
 __Band E__  
-__bang for (one’s)/the buck__ :three: A lot of value for little cost. _With no sales tax, Portland gives shoppers a bigger bang for their buck._  
+__bang for (one’s)/the buck__ :four: A lot of value for little cost. _With no sales tax, Portland gives shoppers a bigger bang for their buck._  
 __bank on something__  
 __bank on__ :eight: To rely on a future occurrence (even though it might not happen). Rely on, count on. For example, _You can bank on Molly’s caterer to do a good job._ This expression alludes to _bank_ as a reliable storage place for money. To have confidence in; to rely on somebody or something. _Ted was banking on that._ _Fillon can beat Le Pen, but don’t bank on it._ _I’ve really been banking on a holiday bonus this year—I don’t have enough money to buy presents without it._  
 __bank shot__ _sports_ __1__ In basketball, a shot that touches the backboard, then goes into the basket. _Jordan sinks another bank shot for two points, putting the Bulls back in the lead, 89–91._  
@@ -502,7 +504,7 @@ __bankroll__ _Remember, Microsoft bankrolls OpenAI, which basically means it jus
 __banner year__  
 __bar star__ Someone who has or seeks a popular reputation by frequenting bars or night clubs. Primarily heard in US, South Africa. _Though he does not have a vibrant social life during the week, during the weekend he is something of a bar star._  
 __bare (one’s) teeth__ :two: To display an angry, violent, or threatening reaction to or against something or someone, as does a dog or wolf when threatened. _I will bare my teeth to anyone who tries to take away my land._  
-__bare metal__  
+__bare metal__ :two: Computer hardware without an operating system.  
 __barking up the wrong tree__ Looking in the wrong place.  
 __barnacled__ _adj_  
 __barnburner__ :four: Any thing, event, or occasion that is especially exciting, impressive, or successful. _I had so much fun at Jonathan’s bachelor party last night—it was a real barnburner!_  
@@ -658,6 +660,7 @@ __beat the bushes (for someone or something)__ To search for someone or somethin
 __beat the clock__ :two: To finish something before the time is up.  
 __beat the crap out of (someone)__  
 __beat the shit out of (someone)__ :two::hammer: _I expect them to beat the shit out of the Eagles._  
+__beat the shit out of__  
 __beat your head against the wall__ To try to do something that is hopeless.  
 __beautiful people__ Stylish, glamorous, and often wealthy people admired by others. _I wish we were as cool as them—man, they are really the beautiful people._  
 __beauty is in the eye of the beholder__ Different people have different opinions about what or who is beautiful.  
@@ -704,6 +707,7 @@ __beyond measure__ :three::hammer:
 __beyond repair__  
 __big boned__ _euphemism_ Fat or obese. Usually used as an excuse for one’s size. _I know that people think I have an eating problem, but really I’m just big boned!_  
 __big break__ :two: A fortuitous moment, opportunity, or turn of events of great consequence, especially as relates to one’s career. _He had been writing for years, but his big break came when his third novel became a huge international bestseller._ _I had a big break when a movie director saw me in an improv group and offered me an audition for his new film._  
+__big brother__  
 __big cheese__ :two: An influential person.  
 __big deal__  
 __big fat__  
@@ -767,7 +771,7 @@ __boil (something) down to (something)__ To reduce or simplify (something) to th
 __boil down__  
 __boiling frog__  
 __bomb out__  
-__bomb__ __2__ _v_ To fail spectacularly or to a great degree. _I bombed on the exam._  
+__bomb__ :two: __2__ _v_ To fail spectacularly or to a great degree. _I bombed on the exam._  
 __bombed__ _slang_ Intoxicated. _Do you remember last night at all? You were totally bombed by the time I got to the bar._  
 __bona fide__  
 __bone-idle__ Extremely lazy. _Can you please get Billy to go to the playground or something? He’s just laying around all day, being bone-idle._  
@@ -813,6 +817,7 @@ __break a sweat__ :two: Use a lot of physical effort: _He hardly needed to break
 __break bread__ To eat. _We should break bread before the meal gets cold._  
 __break cover__ To suddenly and quickly emerge from a place of hiding or protection.  
 __break free__ :three: __2__ To move away or separate from someone or something. _I’m starting to break free from the religious tradition I was raised in._  
+__break ground__ __2__ Take the first steps for a new venture; advance beyond previous achievements. For example, _Jeff is breaking new ground in intellectual property law._  
 __break into a smile__ To start smiling. _Even though she scolded me for disrupting class, I’m pretty sure I saw Ms. Miller break into a smile for a second._  
 __break into__  
 __break it down__ To explain something in steps. _I know it can be confusing, but once I break it down for you, I think you’ll start to get it._ _Thank you for breaking it down for us._  
@@ -857,6 +862,7 @@ __browbeat (one) into (something)__ To thoroughly and continually dominate, inti
 __brown eye__  
 __brown noser__ _n idiom_ (brown-noser) Someone who pleases an important or powerful person in order to get a benefit.  
 __bubble over__ Of an emotion, to be too strong for one to contain or refrain from expressing. _Her enthusiasm for the subject she teaches just bubbles over in the classroom._  
+__bubble up__  
 __buck the trend__  
 __bucket list__ :three::hammer: _That’s one of my bucket list items._  
 __buckle down__ _Buckle down and work harder._  
@@ -941,6 +947,7 @@ __bystander effect__ :three: A social psychological phenomenon in which the more
 __C-note__  
 __caboose__ /kəˈbus/  
 __cake-eater__ :two: __1__ _slang_ A winsome, often effeminate young man who is apt to socialize. _Of course you like that cake-eater—he’s a very charming fellow._  
+__cakewalk__  
 __call (all) the shots__ :two::hammer:  
 __call (one) names__  
 __call (one) on (something)__  
@@ -1074,11 +1081,11 @@ __chicken out__
 __child’s play__  
 __chillax__ _slang_ Calm down and relax. _You can dance to your favorite tune, chillax, or have friends over._  
 __chillaxing__ _slang_ Relaxing. A portmanteau of “chilling” and “relaxing,” often shortened colloquially to “chillaxin’.” _We’re just chillaxin’ and watching some TV, if you want to join us._  
-__chime in__ :four::hammer:  
+__chime in__ :five::hammer:  
 __chin up__ :dart::two: __1__ A phrase that encourages one to improve one’s mood, especially when sad or discouraged. _Come on, the project was not a total failure—chin up!_  
 __chip (away) at (something)__ :dart: __1__ Literally, to break off fragments of something. _We won’t be able to move this huge rock until we chip at it and make it smaller._ __2__ :dart: By extension, to complete small, incremental portions of a task. _I knew I wouldn’t be able to write 50 pages in one night, so I’ve been chipping away at this paper for a few weeks._  
 __chip away__ :dart::eight: __1__ To break off fragments of something. _We won’t be able to move this huge rock until we chip away at it and make it smaller._ __2__ To come off of something in small pieces. _The paint is so old that it has completely chipped away from this side of the house._ __3__ :dart: To complete small, incremental portions of a task. _Try not to get too overwhelmed about cleaning the house and just chip away at it one room at a time._  
-__chip in__  
+__chip in__ :two::hammer:  
 __chip on (someone) shoulders__ :nine::m::dart: [:sound: chip on his shoulder] (chip on his shoulder, chip on one’s shoulder) A disposition to quarrel. _Let’s walk into that meeting tomorrow with a chip on our shoulders._  
 __chock full of (something)__ Having a lot of something; very full of something. _If you don’t like raisins, you won’t like this cake —it’s chock full of them._  
 __chocoholic__ A person who craves chocolate. (Patterned on alcoholic.)  
@@ -1101,6 +1108,7 @@ __circle the drain__ :two: To be in a state of severe deterioration such that on
 __cisgender__  
 __clam__ _n_ :three: __1__ A dollar. (Underworld.) _You got a couple of clams I can bum for a little bottle?_  
 __clap back__ __1__ _v_ To respond to an insult or criticism, sometimes in a vengeful manner. _Microsoft is clapping back, removing Twitter from its advertising network._ _She calmly clapped back at critics by asserting that her weight is none of their business._ _I’m not proud of it, but I did clap back at the girl who stole my boyfriend by starting a vicious rumor about her._ __2__ _n_ A response to an insult or criticism, sometimes in a vengeful manner. _I’m not great at the clap back because I get easily flustered by criticism._  
+__classy__  
 __clean (one’s) plate (up)__ To eat all of the food that is on one’s plate.  
 __clean house__ To eliminate or discard what is undesirable: _The scandal forced the company to clean house._  
 __clean one’s plate__ Eat up all the food put on one’s plate.  
@@ -1115,7 +1123,7 @@ __close a/the deal__
 __close as the bark to the tree__ As connected as is possible. Often used to describe a particularly intimate relationship or friendship. _Jenna and Elise are as close as the bark to the tree—I rarely see one without the other!_  
 __close call__ _n_ :three::hammer:  
 __close in__  
-__close the gap (between someone or something)__ To reduce or eliminate some disparity or imbalance between two people, things, groups, etc. _The former champions were ahead by 21 points at halftime, but the underdogs have been steadily closing the gap._  
+__close the gap (between someone or something)__ :two: To reduce or eliminate some disparity or imbalance between two people, things, groups, etc. _The former champions were ahead by 21 points at halftime, but the underdogs have been steadily closing the gap._  
 __close up shop__  
 __close, but no cigar__ Close, but not enough to win or succeed.  
 __closed-minded__ :dart:  
@@ -1137,6 +1145,7 @@ __code of silence__ :two: The practice of not disclosing important or vital info
 __cold call__  
 __cold feet__ :four::hammer:  
 __cold fish__ :two: A person who is very reserved or aloof in manner or who lacks normal cordiality, sympathy, or other feeling. Someone who shows no emotion and comes across as unfriendly or disinterested. Someone who has very little emotions, who is regarded as hard-hearted and unfeeling. _The manager decided not to hire Bill as the store greeter because he came across like a cold fish during the interview._  
+__cold open__  
 __collect (one’s) thoughts__ To pause and think before speaking or taking action. _Can I please just have a second to collect my thoughts before I respond?_  
 __collect (one’s) wits__ :two: To try to calm oneself and think clearly and rationally. _Take a moment to collect your wits, then tell us how the accident happened._  
 __collect dust__ :two: To be in a state of disuse for a prolonged period of time. _My father has lots of old trinkets and memorabilia collecting dust in the attic._ _Why do you want another video game console? You already have three collecting dust under the television!_  
@@ -1163,7 +1172,7 @@ __come to a halt__
 __come to a parting of the ways__ To separate. To leave someone or something behind, often at a dramatic moment. _It looks like we have come to a parting of the ways, old friend. I hope your endeavor in the city works out, and I will keep you in my prayers on the farm._  
 __come to a stop__ To stop, cease, or conclude. _Every driver came to a stop as the police car, with its flashing lights and siren, sped by._ _Our research came to a stop after a sudden reduction in funding._  
 __come to an end__  
-__come to fruition__ :three: To successfully be brought into existence or to completion.  
+__come to fruition__ :four: To successfully be brought into existence or to completion.  
 __come to grips with (someone or something)__ :two::hammer:  
 __come to grips__ :two::hammer:  
 __come to terms with (someone or something)__ :nine: To begin to or make an effort to understand, accept, and deal with a difficult or problematic person, thing, or situation. I_ should have the report ready for you by this afternoon, I just need to come to terms with this new software update first._ _I’ve tried, but I just can’t come to terms with Amy, she’s totally out of control!_  
@@ -1224,7 +1233,7 @@ __crack open__
 __crack someone up__ :three: To make someone laugh very hard; to make someone break out laughing. _You and your jokes really crack me up._ _That comedian really knows how to crack up an audience._ _The lecturer would talk along sort of boring like, and then all of a sudden he would crack up everybody with a joke._  
 __crack the code__  
 __cradle-to-grave__ (used as a modifier before a noun) Lasting the full spectrum of life, existence, or a given process; that is, from the first point to the very last. Derived from the phrase “from the cradle to the grave” (or “from cradle to grave”).  
-__cram for (something)__ To study for a test shortly before it is to happen. _You might have gotten a higher grade if you didn’t cram for that exam at the last minute._  
+__cram for (something)__ :two: To study for a test shortly before it is to happen. _You might have gotten a higher grade if you didn’t cram for that exam at the last minute._  
 __cram in__  
 __crank out__  
 __crank up__  
@@ -1243,6 +1252,7 @@ __creep on (someone or something)__
 __creep out__ __2__ _slang_ To make someone feel nervous, uncomfortable, and slightly frightened. In this usage, a noun or pronoun is commonly used between “creep” and “out.” _I’m OK with most bugs, but centipedes just creep me out, man._  
 __crickets__ Used to indicate an absence of any positive response or reaction from someone else. Typically used with singular verbs. _A: “Well, did the board of directors like your presentation?” B: “I guess not. It was crickets after we were finished.”_  
 __cringey__  
+__critically panned__ A phrase used to describe a negative reception or response to something, particularly in the context of reviews or critiques by critics or experts. _The critically panned fifth _Die Hard_ movie._  
 __croc__ _n_ /krɒk/ Crocodile.  
 __cross (one’s) mind__ To be thought of by one.  
 __cross (one’s) t’s and dot (one’s) i’s__ To do something carefully and make sure that every last minor detail is completed. _Make sure the legal team crosses their t’s and dots their i’s when drawing up the contract._  
@@ -1267,6 +1277,7 @@ __cry on (one’s) shoulder__ To bemoan one’s problems to someone else. _We ne
 __cry out for (someone or something)__  
 __cry over spilled milk__ :two: To be upset over something that cannot be fixed, often something minor. To be unhappy about what cannot be undone. _Please calm down, you’re just crying over spilled milk. We already submitted the report, so we can’t fix it now._  
 __cry-baby__ :two: A person who cries or complains a lot, especially for little reason. _James whines and complains whenever he doesn’t get his own way. He’s such a cry-baby!_  
+__crystal ball__  
 __crystal clear__  
 __crystal__ _slang_ A stimulant drug in powdered form, often methamphetamine. _Where can we score some crystal around here?_  
 __culture vulture__ An individual with a consuming or excessive interest in the arts. For example, _A relentless culture vulture, she dragged her children to every museum in town._  
@@ -1512,7 +1523,7 @@ __drop out__
 __drop the ball__ :dart::seven: To make a mistake, to fail.  
 __duck and cover__  
 __duck__ :dart::two: __2__ _vt_ To avoid someone or something. _Clare is ducking her responsibility._ _Investment falls short and politicians duck social care reform (again)._ _Duck the blame._  
-__dud__ :two::astonished: __1__ Something that does not work as intended, is ineffectual, or is defective. _This car I bought yesterday is a complete dud. Its engine won’t even start!_ __2__ Someone who is disappointing or unsuccessful. _He turned out to be a bit of a dud. He doesn’t have any plans to get a job—he just wants to watch TV all day._  
+__dud__ :three::astonished: __1__ Something that does not work as intended, is ineffectual, or is defective. _This car I bought yesterday is a complete dud. Its engine won’t even start!_ __2__ Someone who is disappointing or unsuccessful. _He turned out to be a bit of a dud. He doesn’t have any plans to get a job—he just wants to watch TV all day._  
 __duke it out__ :two::hammer:  
 __dumb bunny__ Stupid, silly, or naïve person, usually used in an affectionate or endearing (if condescending) manner. _Oh, my darling! You are the sweetest dumb bunny I’ve ever known._  
 __dumpster fire__ _slang_ A complete and utter disaster or a completely chaotic situation, likened to a fire in a dumpster, which quickly becomes uncontrollable. The phrase can be applied to both situations and people. _As you might imagine, a 17-1 loss was a dumpster fire._  
@@ -1687,7 +1698,7 @@ __first port of call__ :two: The first place where one stops to visit, accomplis
 __first things first__ :three::hammer:  
 __fish eye__ _Nobody on the bus would give you the fish eye if you were a grown man and happened to be reading it._  
 __fit like a glove__ To fit perfectly.  
-__fit the bill__ :three::hammer: (fill the bill) _His appearance fitted the bill._  
+__fit the bill__ :four::hammer: (fill the bill) _His appearance fitted the bill._  
 __five o’clock shadow__ :two: A short beard on a man’s face that has grown since the morning shave.  
 __fizzle out__  
 __fizzle__ __2__ To fail or weaken, often slowly over time. _No, I don’t have a back-up plan—I didn’t expect this idea to fizzle out so fast._  
@@ -1790,6 +1801,7 @@ __fresh legs__ In sports, one or more substitute players who have not yet partic
 __fresh out (of something)__  
 __fresh__ __3__ _slang_ Excellent; cool. _The DJ started spinning some fresh beats on the dance floor._  
 __fresh-faced__ :two: Of or having an appearance of health, vitality, and/or youthfulness. _After a good night’s sleep, he woke up fresh-faced and feeling like a million bucks._  
+__freshen up__  
 __Freudian slip__ :two: Any inadvertent verbal or written mistake that reveals, or can be construed as revealing, an unconscious or repressed intention, belief, thought, attitude, etc.  
 __fricking__  
 __friend with benefits__  
@@ -1799,6 +1811,7 @@ __frigging__ :dart::three: _rude slang_ (friggin’) An intensifier used as a mi
 __from a mile away__ :two: Well or far in advance; exceptionally easily. _That movie was so corny, you could tell what was going to happen from a mile away!_  
 __from A to Z__  
 __from bad to worse__ :two::hammer:  
+__from jump street__  
 __from rags to riches__ From being poor to being wealthy.  
 __from the get-go__  
 __from the ground up__ :two: [:scroll: This expression alludes to the construction of a house, which begins with the foundation.] From the very beginning; also, completely, thoroughly. For example, _We’ve had to learn a new system from the ground up_, or _The company changed all of the forms from the ground up._ _Written from the ground up._  
