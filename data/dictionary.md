@@ -469,7 +469,7 @@ __along with__
 __alongside__ _prep_ :four::hammer:  
 __aloof<sup>1</sup>__ _adj_ :nine: /əˈluːf/ __1__ Emotionally reserved or indifferent: _an aloof manner._ __2__ Distant or uninvolved: _remained aloof from political movements._ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._ _Commanders with an aloof demeanor._  
 __aloof<sup>2</sup>__ _adv_ In an aloof manner. _Held aloof._  
-__aloofness__  
+__aloofness__ _n_ :two::hammer:  
 __alot__ _v_  
 __alpaca__ _n_ :four::hammer:  
 __alphabetize__ _vt_ :dart: __1__ To arrange in alphabetical order. __2__ To supply with an alphabet.  
@@ -818,7 +818,7 @@ __ardor__ _n_ :two: Intensity of emotion, especially strong desire, enthusiasm, 
 __arduous__ _adj_ :two: Very difficult.  
 __arena__ _n_ :two::hammer: _In the professional and personal arenas._  
 __Argentina__ _n_ _Syn_ the Argentine  
-__Argentine__ _n_ _The pope is an Argentine._  
+__Argentine__ _n_ :two::hammer::mega: /ˈɑr dʒənˌtin, -ˌtaɪn/ _The pope is an Argentine._  
 __argonaut__  
 __argot__ _n_ A specialized vocabulary or set of idioms used by a particular group. _Syn_ jargon, lingo, patois, vernacular, slang, cant  
 __arguably__ _adv_ :five::hammer:  
@@ -1075,7 +1075,7 @@ __avidity__ _n_ Keen interest or enthusiasm. _Syn_ eagerness, avidness, keenness
 __avionics__ _n_  
 __avocado__ _n_  
 __avocation__ _n_ :two::pencil2: An activity taken up in addition to one’s regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ :es: (= minor occupation) > diversión, distracción; (= employment) > vocación  
-__avoidance__ _n_  
+__avoidance__ _n_ :two::hammer:  
 __avow__ _v_ :two::hammer: (avowed)  
 __avowal__ _n_ An open statement of affirmation; frank acknowledgment or admission. _Syn_ avouchment _He had no right to extort a confession of attachment from me when he had made no correspondent avowal himself._  
 __avuncular__ _adj_ :seven: /uh-VUNK-yuh-ler/ Avuncular is used to describe someone or something as being “like an uncle,” especially “kind or friendly like an uncle.” Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven’t been good. Resembling a uncle in kindness or indulgence. __1__ Of or concerned with an uncle. __2__ Resembling an uncle; friendly; helpful. _The shopkeeper was known for his avuncular charm, always handing out free treats to the neighborhood children._  
@@ -2592,7 +2592,7 @@ __cackleberry__ _n_ _slang_ An egg. _No cackleberries for me, please—I’ll ju
 __cacoethes__ _n_ :three: /kak-oh/uh-WEE-theez/ [:scroll: From Greek kakoethes (ill-disposed), from kakos (bad) + ethe (disposition).] (Pathology) An uncontrollable urge or desire, esp for something harmful. An irresistible urge to do something, especially something inadvisable; mania: _a cacoethes for smoking._  
 __cacography__ _n_ Poor handwriting. _Syn_ scrawl, scribble, scratch  
 __cacophonous__ _adj_ :two: Having a harsh, unpleasant sound; discordant. _Syn_ jarring, grating, raucous, strident, dissonant, inharmonious _The school’s cafeteria was as cacophonous as a hen yard._  
-__cacophony__ _n_ :four Jarring, discordant sound; dissonance. Cacophony is the act of purposefully using harsh sounds. Example: The gnashing of teeth and screeching of bats kept me awake. _Syn_ blare, blaring, clamor, din _I heard a cacophony of horns during the traffic jam._  
+__cacophony__ _n_ :five: /kəˈkɒf ə ni/ Jarring, discordant sound; dissonance. Cacophony is the act of purposefully using harsh sounds. Example: The gnashing of teeth and screeching of bats kept me awake. _Syn_ blare, blaring, clamor, din _I heard a cacophony of horns during the traffic jam._  
 __cacti__ _n_ :two::hammer:  
 __cactus__ _n_ :mega:  
 __cad__ _n_  
@@ -3958,6 +3958,7 @@ __coo__ _v_ :eight: (cooed) __1__ _(of a pigeon or dove)_ Make a soft murmuring 
 __cooing__ _n_  
 __cook__ _n_  
 __cook-off__ _n_ :two: A cooking competition. _Chili cook-offs._  
+__cookie cutter__ _n_ :camera: A device for cutting flattened cookie dough into shapes before baking.  
 __cookie__ _n_ :dart::two: [:scroll: from Dutch koekje, diminutive of koek _cake_, so it essentially means a “small cake”] __3__ _informal_ A person: _smart cookie._  
 __cookout__ _n_ :four: A social gathering at which a meal is cooked and eaten outdoors.  
 __cooktop__ _n_ :six::hammer: _Ceramic/Electric/Gas cooktop._  
@@ -4833,6 +4834,7 @@ __deranged__ _adj_ :four::hammer: _A deranged man._
 __derangement__ _n_  
 __derated__ _v_ _A derated estimation of the actual peak power consumption._  
 __derecho__ _n_ :three: /də-rā′chō/ A widespread and severe windstorm that moves rapidly along a fairly straight path and is associated with bands of rapidly moving thunderstorms.  
+__deregulation__ _n_  
 __derelict<sup>1</sup>__ _adj_ :three::hammer: _Derelict buildings._  
 __derelict<sup>2</sup>__ _n_  
 __dereliction__ _n_ :two::hammer:  
@@ -5757,7 +5759,7 @@ __efferent__
 __effete__ _adj_ :two: Weak, ineffectual, or decadent as a result of overrefinement. _Syn_ weak, feeble, ineffectual  
 __efficacious__ _adj_ Having the power to produce a desired effect. Efficacious suggests possession of a special quality or virtue that makes it possible to achieve a result: _a detergent that is efficacious in removing grease._  
 __efficacy__ _n_ /ˈɛf ɪ kə si/  
-__effigy__ _n_ :six: (effigies) A likeness or image, especially of a person. _Syn_ simulacrum, image  
+__effigy__ _n_ :seven: /ˈɛfɪdʒɪ/ (effigies) A likeness or image, especially of a person. _Syn_ simulacrum, image  
 __effing<sup>1</sup>__ _adv_ _vulgar slang_ Used as an intensive.  
 __effing<sup>2</sup>__ _adj_ _vulgar slang_ Used as an intensive.  
 __effluent__  
@@ -7916,6 +7918,7 @@ __green thumb__ _n_ _Not everyone has a green thumb._
 __green-behimd-the-ears__  
 __green-eyed__ _adj_ Jealous.  
 __greenback__ _n_ :three: A note of US currency. :es: billete _Green greenbacks._  
+__greenery__ _n_ /ˈgri nə ri/  
 __greenhorn__ _n_ :two: A newcomer, especially one who is unfamiliar with the ways of a place or group. _Syn_ novice, beginner, apprentice, naïf, learner, ingénue, tyro, newbie, neophyte _I am a bit of a greenhorn in the kitchen, but I am a fast learner and expect to be cooking like a pro in no time._  
 __greenhouse__ _n_ :three::hammer: :es: invernadero  
 __greenlight__ _vt_ :two::hammer:  
@@ -11910,6 +11913,7 @@ __nestle__ _v_ :nine::m: (nestled) __1__ (intr; often foll by up or down) To snu
 __nestled__ _adj_ :four: Drawn or pressed close to someone or something for or as if for affection or protection; _saw a number of small houses nestled against the hillside._ _Nestled in the heart of the city._  
 __nestlings__ _n_  
 __net__ _v_ (netted)  
+__nether region__  
 __nether__ _adj_ :two::hammer:  
 __netherworld__ _n_ The world of the dead. _Syn_ Scheol, underworld, Hades, infernal region, Hell  
 __netiquette__ _n_ Etiquette practiced or advocated in electronic communication over a computer network.  
@@ -12033,6 +12037,7 @@ __noetic__ _adj_ :two: Of, relating to, originating in, or apprehended by the in
 __noggin__ _n informal_ :two: __3__ A person’s head. _Syn_ bonce, dome  
 __noir__ _adj_ _A noir novel._  
 __noise__ _n_ __5__ _informal_ __a__ A complaint or protest. __b__ Rumor; talk. __c__ (noises) Remarks or actions intended to convey a specific impression or to attract attention: _“The U.S. is making appropriately friendly noises to the new Socialist Government” (Flora Lewis)._ _There are some noises coming from the two sides._  
+__noisemaker__ _n_ /ˈnɔɪzˌmeɪ kər./ A person or thing that makes noise, esp. a rattle, horn, or other device used on festive occasions. _Whether they twirl noisemakers, blow up fireworks, or bang on pots and pans, people the world over often celebrate the new year by making a big racket._  
 __noisome__ _adj_ /noi′səm/ __1__ Offensive to the point of arousing disgust; foul: _a noisome odor._ __2__ Harmful or dangerous: _noisome fumes._  
 __nom de guerre__  
 __nomad__ _n_ :mega:  
@@ -12346,6 +12351,7 @@ __omega__ _n_ /oʊˈmi gə, oʊˈmeɪ-, oʊˈmɛg ə/ [:scroll: Middle English, 
 __omelet__ _n_ :two::hammer::mega: (omelette)  
 __omen__ _n_ :six::hammer:  
 __omicron__ _n_ :two: /ˈɒm ɪˌkrɒn, ˈoʊ mɪ-/ [:scroll: Middle English, from Greek o mīkron, _small o (because of its being a short vowel in Greek)_] The 15th letter of the Greek alphabet (Ο, ο).  
+__omics__ _n_  
 __ominous__ _adj_ :nine::m: Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
 __ominously__  
 __omission__  
@@ -13220,7 +13226,7 @@ __perusal__ _n_ :three::hammer:
 __peruse__ _vt_ :six::mega::hammer: (perused)  
 __Peruvian__  
 __pervasive__ _adj_ :four::hammer:  
-__pesky__ _adj_ :two::hammer:  
+__pesky__ _adj_ :three::hammer:  
 __pessary__ _n_  
 __pester__ _vt_ :four::hammer: (pestered)  
 __pestiferous__ _adj_  
@@ -13987,7 +13993,7 @@ __preventive__ _adj_ _Preventive and corrective maintenance._
 __prey__ _v_ :two::hammer: (preyed) _A sniper who prays on victims in broad daylight._  
 __prez__ _n informal_ (Prez) President.  
 __priapic__ _adj_ :two: __1__ A less common word for _phallic_. __2__ Characterized by or exhibiting unrestrained or excessive male sexual activity.  
-__price point__ _n_ _The best in price point._  
+__price point__ _n_ :two::hammer: _The best in price point._  
 __price tag__ _n_ :two::hammer: _Success always comes with a price tag._  
 __pricey__ _adj_ :two: Expensive. _Syn_ costly, dear  
 __prick__ _v_  
@@ -14235,7 +14241,7 @@ __puff pastry__ _n_ A light, flaky, rich pastry made by rolling dough with butte
 __puff<sup>1</sup>__ _n_ :four::hammer: (puffs)  
 __puff<sup>2</sup>__ _v_ :five::hammer: (puffed) _I could hear the screen door puffing open._  
 __puffer jacket__ _n_ (puffer) A quilted, fitted jacket filled with down or other material for warmth.  
-__puffer__ _n_  
+__puffer__ _n_ :two::hammer: /ˈpʌfə/  
 __puffery__ _n_ :dart:  
 __puffy__ _adj_ :six::hammer: _Puffy snowflakes._ _His eyes were red and puffy._ :es: hinchado  
 __pug__  
@@ -14642,7 +14648,8 @@ __ratlines__
 __ratoon__ _n_  
 __rattan__ _n_ :three::hammer: _Rattan chairs._ _Rattan couch._  
 __ratter__ _n_  
-__rattle__ _v_ :nine: (rattled) __1__ To make or cause to make a rapid succession of short sharp sounds, as of loose pellets colliding when shaken in a container. _They rattled their swords against the trim of their shields._ __2__ To shake or cause to shake with such a sound: _the explosion rattled the windows._ __3__ To send, move, drive, etc, with such a sound: _the car rattled along the country road._ __4__ _(foll by: on)_ To chatter idly; talk, esp at length: _he rattled on about his work._ __5__ _(tr; foll by off, out, etc)_ To recite perfunctorily or rapidly. __6__ _(tr)_ _informal_ To disconcert; make frightened or anxious.  
+__rattle<sup>1</sup>__ _n_ :es: carraca  
+__rattle<sup>2</sup>__ _v_ :nine: (rattled) __1__ To make or cause to make a rapid succession of short sharp sounds, as of loose pellets colliding when shaken in a container. _They rattled their swords against the trim of their shields._ __2__ To shake or cause to shake with such a sound: _the explosion rattled the windows._ __3__ To send, move, drive, etc, with such a sound: _the car rattled along the country road._ __4__ _(foll by: on)_ To chatter idly; talk, esp at length: _he rattled on about his work._ __5__ _(tr; foll by off, out, etc)_ To recite perfunctorily or rapidly. __6__ _(tr)_ _informal_ To disconcert; make frightened or anxious.  
 __rattled__ _adj_ :two::hammer: _I feel rattled._  
 __rattlers__  
 __rattlesnake__  
@@ -15036,7 +15043,7 @@ __resurrection__ _n_ /ˌrɛz əˈrɛk ʃən/ _The community applauded the resurr
 __resuscitate__ _v_ :astonished:  
 __retailer__ _n_ :three: A retailer is a person or business that sells goods to the public. _Big retailers lik Walmart, Target, Amazon._ _Big Lots, discount retailer; Staples, office supplies retailer._  
 __retainer__ _n_ :five: __3a__ An employee, typically a long-term employee. __b__ A servant or an attendant, especially one in the household of a person of high rank. _The cardinal rented 51 houses to lodge all his retainers._  
-__retaliate__ _v_ :two::hammer:  
+__retaliate__ _v_ :three::hammer:  
 __retaliation__ _n_ :mega:  
 __retch__ _v_ :four::hammer: (retched)  
 __retcon__ _n_ /RET-kon/ [:scroll: From the first three letters of words in the phrase _retroactive continuity_] The introduction of new information to give a different interpretation of an established storyline.  
@@ -15100,6 +15107,7 @@ __Revolutionary War__
 __revolve__ _v_  
 __revue__ _n_ :five::mega: A light theatrical entertainment consisting of a series of short sketches, songs, and dances, typically dealing satirically with topical issue. _A kazoo revue._ _A musical revue._ _Improv revues._ _Female impersonators in a Las Vegas-style cabaret revue._ :es: revista, show  
 __reward__ _n_ :mega:  
+__rewrite__ _n_ __1__ The act or an instance of rewriting. __2__ Something rewritten.  
 __Reynolds__ _n_ :mega:  
 __rezoning__  
 __rhabdomancy__  
@@ -15165,8 +15173,8 @@ __right__ _n_ :three::dart::mute:[ri~~gh~~t]:hammer: _Exactly right._ _Absolutel
 __right-wing__ _adj_ Believing in or supporting tenets of the political right. _Syn_ rightist  
 __righteous__ _adj_ :two::mega: /ˈraɪ tʃəs/ __1__ Morally upright; without guilt or sin: _a righteous parishioner._ __2__ In accordance with virtue or morality: _a righteous judgment._ _Syn_ moral __3__ _slang_ Absolutely genuine or wonderful: _some righteous playing by a jazz great._  
 __rightful__ _adj_ _Edward III announced himself the rightful King of France._  
-__rightfully__ _adv_ _Rightfully so._ :es: con razón  
-__rigmarole__ _n_ :six: __1__ Confused or meaningless talk. Confused, rambling, or incoherent discourse; nonsense. _Syn_twaddle, story, saga, trash, jargon, yarn, gibberish, spiel _When I asked why he missed the meeting, he gave me some rigmarole about the train being late._ __2__ A complex and sometimes ritualistic procedure. _Rigmarole controls._  
+__rightfully__ _adv_ :two::hammer: _Rightfully so._ :es: con razón  
+__rigmarole__ _n_ :seven: __1__ Confused or meaningless talk. Confused, rambling, or incoherent discourse; nonsense. _Syn_twaddle, story, saga, trash, jargon, yarn, gibberish, spiel _When I asked why he missed the meeting, he gave me some rigmarole about the train being late._ __2__ A complex and sometimes ritualistic procedure. _Rigmarole controls._  
 __rigor__ _n_ :two::hammer:  
 __rigorous__ _adj_ :dart:  
 __rigors__ _n_  
@@ -15219,7 +15227,7 @@ __rivulet__ _n_ :five: A small brook or stream. _Syn_ rill, runnel, streamlet, r
 __roach motel__ _n_ In computing, a type of dark pattern deceptive user interface. _The “roach motel” is another opt-in tactic dubbed as such because it opts you in and makes it nearly impossible to leave._  
 __roach paste__  
 __roach__ _n_ :two::hammer: _Roach paste._  
-__road map__ _n_ :pencil2:  
+__road map__ _n_ :two::hammer::pencil2:  
 __road salt__ _n_  
 __roadblock__ _n_ :three::hammer: _Substantial roadblocks stand in the way._  
 __roadkill__ _n_ The remains of an animal or animals killed on the road by motor vehicles. _That coat is made of either pure possum or random roadkill. (Sara Rosinsky)_  
@@ -15228,7 +15236,7 @@ __roam__ _v_ :nine::m: (roaming) __1__ To move about without purpose or plan; wa
 __roaring__ _adj_ :two::hammer: _A roaring marble fireplace._  
 __roast__ _n_  
 __roasted__ _adj_ (meat) Cooked by dry heat in an oven. _Roasted tea._ :camera:  
-__robe<sup>1</sup>__ _n_ :two::hammer: _The judge’s robe._  
+__robe<sup>1</sup>__ _n_ :three::hammer: _The judge’s robe._  
 __robe<sup>2</sup>__ _v_  
 __robed__ _adj_ Dressed or clothed especially in fine attire; often used in combination. _Crimson-robed nuns._  
 __Robert Burns__ _n_  
@@ -15261,7 +15269,7 @@ __roguery__ _n_ Reckless or malicious behavior that causes discomfort or annoyan
 __roil__ _v_ :nine::m: (roiled, roiling) US term for rile (make someone annoyed or irritated). _Another shocker roils _Game_ finale._ _They plunged into the roiling water._ _His stomach was roiling._ _The sky was gray and roiling with clouds._ :es: enturbiarse; agitarse  
 __roister__ _v_ :three: /ROY-ster/ Engage in boisterous, drunken merrymaking. _Syn_ carouse, riot _Grab your hats and your flasks, lads; we’re going to roister till sunup._ _Fans roistered after their team won the championship._  
 __role model__ _n_ :two::hammer: _The best role models embrace their flaws._  
-__role play__ _v_  
+__roleplay__ _v_ :two::hammer:  
 __roll (someone’s) eyes__  
 __roll call__ _n_ :three: The calling of a list of names, as of soldiers or students, for checking attendance. _McConnell indefinitely postponed a critical roll call planned for this week._ _A unique roll call of featured designers._  
 __roll out__ _v_ :four::hammer: _The retailer will roll out deals two days early._  
@@ -15373,7 +15381,7 @@ __rub elbows__ _v_
 __rub something in someone’s face__  
 __rub<sup>1</sup>__ _n_ :three::hammer: _By “evidence” I mean hard facts, as defined by the scientific community, and there’s the rub._  
 __rub<sup>2</sup>__ _v_  
-__rubbings__ _n_  
+__rubbing__ _n_ :two::hammer:  
 __rubbish__ _n_ __1__ Worthless, useless, or unwanted matter. __2__ Discarded or waste matter; refuse. __3__ :dart: Foolish words or speech; nonsense.  
 __rubble__ _n_ :three::hammer: /ˈrʌbəl/  
 __rube__ _n informal_ :two: A person who is not very intelligent or interested in culture. _Syn_ bumpkin, chawbacon, hayseed, hick, yahoo, yokel  

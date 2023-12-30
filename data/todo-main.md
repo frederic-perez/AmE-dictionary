@@ -1,29 +1,3 @@
-__according to legend__  
-__aloofness__ _n_  
-__Argentine__ _n_ :megav /ˈɑr dʒənˌtin, -ˌtaɪn/  
-__avoidance__ _n_  
-__cacophony__ _n_ /kəˈkɒf ə ni/  
-__cookie cutter__ _n_ :camera: A device for cutting flattened cookie dough into shapes before baking.  
-__deregulation__ _n_  
-__effigy__ _n_ /ˈɛfɪdʒɪ/  
-__greenery__ _n_ /ˈgri nə ri/  
-__juggernaut__ _n_  
-__nether region__  
-__noisemaker__ _n_ /ˈnɔɪzˌmeɪ kər./ A person or thing that makes noise, esp. a rattle, horn, or other device used on festive occasions. _Whether they twirl noisemakers, blow up fireworks, or bang on pots and pans, people the world over often celebrate the new year by making a big racket._  
-__omics__ _n_  
-__pamper__ _vt_  
-__pesky__ _adj_  
-__price point__ _n_  
-__puffer__ _n_ /ˈpʌfə/  
-__rattle__ _n_ :es: carraca  
-__retaliate__ _v_  
-__rewrite__ _n_ __1__ The act or an instance of rewriting. __2__ Something rewritten.  
-__rightfully__  
-__rigmarole__ _n_  
-__road map__ _n_ :pencil2:  
-__robe__ _n_  
-__roleplay__ _v_  
-__rubbing__ _n_  
 __rue__ _v_  
 __ruffle__ _n_  
 __rumpled__ _adj_ _A rumpled voice._  
