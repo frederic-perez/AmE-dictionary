@@ -1,27 +1,3 @@
-__fruitcake__ __2__ _slang_ Someone who is odd or wacky. _What conspiracy theory is that old fruitcake blathering on about now?_  
-__funny farm__ _slang_ A derogatory term for a psychiatric hospital or mental health facility.  
-__futz__ _v_ In James Ellroy’ novels, “futz” is a verb that means to waste time, to mess around, or to fiddle with something without really accomplishing anything. It’s often used to describe a character who is procrastinating or avoiding doing something important or necessary.  
-__fuzz__ :two: _slang_ The police. _Come on, we’ve got to get out of here before the fuzz show up and bust us!_  
-__game-changer__ :dart:  
-__gas__ __4__ _vi_ To have a good time. _We gassed all evening._  
-__geez__ A mild expression of surprise, annoyance, anger, disappointment, etc. (A minced oath for “Jesus.”)  
-__geeze (up)__ To inject narcotics. _They fed a spike. They tied off tourniquets. They geezed._  
-__get (one’s) hands on (something)__ Obtain something that you want or need very much. _This is all about OpenAI getting their hands on more data._  
-__get along__  
-__get in(to) (one’s) pants__ _vulgar slang_ To have sex with one. (Usually said of the intention or expectation.)  
-__get smart (with one)__ To make disrespectful comments to one; to sass one. _Just take out the trash like I asked you to, and don’t get smart with me._  
-__get the drift__  
-__get under (one’s) skin__ :two: __2__ Obsess someone or affect someone’s deep feelings, as in _Jean’s really gotten under his skin; he misses her terribly._ Cole Porter used this sense in his love song, “I’ve Got You Under My Skin” (1936).  
-__giddy up__  
-__give (oneself) away__ To reveal or make known—usually unintentionally—something about oneself, such as one’s actions, intentions, ideas, guilt, etc.  
-__give it a whirl__ To try something (often for the first time as a means of forming an opinion about it).  
-__glitch__ _A phone glitch._  
-__go (off) on a tangent__ To begin addressing or discussing a topic or topics not relevant to the main discussion.  
-__go above and beyond__ To act in a way that exceeds expectations or requirements.  
-__go blooey__ _slang_ To go completely awry; to totally fail. _Plans for the gala went blooey after our chief donor backed out and took his millions with him._  
-__go both ways__ __1__ A bisexual person who is attracted to both men and women. __2__ Something that has two functions or purposes. For example, an all-purpose cleaner can be said to “go both ways” because it can be used to clean multiple surfaces.  
-__go out the window__ To be forgotten, disregarded, or lost.  
-__go pffft__ It’s basically James Ellroy-speak for something just…fizzling out or disappearing.  
 __go tits up__ :dart: __1__ _rude slang_ To break or malfunction; to die, fall apart, or cease to work. (A play on the phrase “go belly up.” “Tits up” is sometimes hyphenated.) _Sorry, Mark, I’d love to give you a lift to the airport but my car’s gone tits up on me again._ _Jimmy Dean went tits-up in a car wreck._  
 __God forbid__  
 __goofball__ __3__ A pill with a tranquilizing effect (often because it contains barbiturates), taken recreationally. _Tad took a goofball last night and passed out, man._  
