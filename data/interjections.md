@@ -63,6 +63,7 @@ __namaste__ Used especially among Hindus to express a polite or respectful greet
 __oh man__ _informal_ __1__ Used to express excitement or enthusiasm. _Oh man, the first Indiana Jones is such a great movie!_ __2__ Used to express disappointment, frustration, or overwhelm. _Oh man, Mom is going to have a fit when she sees all this mud on the carpet._  
 __oh__ :two::hammer: _You went oh for two._  
 __oof__  
+__ooh__ _intej_ :mega: /uː/ An exclamation of surprise, pleasure, pain, etc.  
 __oops__  
 __ouch__  
 __oy__ :two: Used especially to express irritation, dismay, sorrow, or self-pity. _Oy. Way to ruin a great talk._  

@@ -1,3 +1,21 @@
+__according to legend__  
+__aloofness__ _n_  
+__Argentine__ _n_ :megav /ˈɑr dʒənˌtin, -ˌtaɪn/  
+__avoidance__ _n_  
+__cacophony__ _n_ /kəˈkɒf ə ni/  
+__cookie cutter__ _n_ :camera: A device for cutting flattened cookie dough into shapes before baking.  
+__deregulation__ _n_  
+__effigy__ _n_ /ˈɛfɪdʒɪ/  
+__greenery__ _n_ /ˈgri nə ri/  
+__juggernaut__ _n_  
+__nether region__  
+__noisemaker__ _n_ /ˈnɔɪzˌmeɪ kər./ A person or thing that makes noise, esp. a rattle, horn, or other device used on festive occasions. _Whether they twirl noisemakers, blow up fireworks, or bang on pots and pans, people the world over often celebrate the new year by making a big racket._  
+__omics__ _n_  
+__pamper__ _vt_  
+__pesky__ _adj_  
+__price point__ _n_  
+__puffer__ _n_ /ˈpʌfə/  
+__rattle__ _n_ :es: carraca  
 __retaliate__ _v_  
 __rewrite__ _n_ __1__ The act or an instance of rewriting. __2__ Something rewritten.  
 __rightfully__  
@@ -10,6 +28,7 @@ __rue__ _v_
 __ruffle__ _n_  
 __rumpled__ _adj_ _A rumpled voice._  
 __run sheet__  
+__runaway__ _adj_  
 __running dog__ _n_ A servile follower or lackey. :es: perro faldero  
 __ruralism__ _n_ A rural idiom or expression. _Syn_ rusticism  
 __salubrious__  
@@ -19,6 +38,7 @@ __sangfroid__ _n_ /SAHNG-FRWAH/ Sangfroid refers to the ability to stay calm in 
 __sanguine__ _adj_ :two::hammer:  
 __sanity check__  
 __sap__ _vt_ __2__ To deplete or weaken gradually.  
+__sash__ _n_  
 __sassy__ _adj_ /ˈsæsɪ/ _informal US_ Insolent, impertinent.  
 __sate__ _vt_  
 __saunter__  
@@ -100,6 +120,7 @@ __simulacrum__
 __sine die__ _adv_ Without a day specified for a future meeting; indefinitely: _Parliament was dismissed sine die._  
 __sinew__ _n_  
 __sing-along__ _n_  
+__Singapore__ _n_ /ˈsɪŋ gəˌpɔr, -ˌpoʊr, ˈsɪŋ ə-/ [:scroll: From Malay _Singapora_, “Lion-city.”]  
 __single-handedly__  
 __singsong__ _n_  
 __singsong<sup>1</sup>__ _adj_ _Singsong cantillation._  
@@ -159,6 +180,7 @@ __stifle<sup>1</sup>__ _vt_ __1__ To interrupt or cut off (the voice, for exampl
 __stifle<sup>2</sup>__ _vi_ __1__ To suffer from difficulty in breathing, as in a close atmosphere. __2__ To become stifled or suffocated.  
 __stillbirth__ _n_  
 __stingy__ _adj_ __1__ Giving or spending reluctantly. __2__ Scanty or meager: _a stingy meal; stingy with details about the past._  
+__stockpile__ _n_  
 __stoke__ _v_  
 __strait__ _n_  
 __streamline__ _vt_ __2__ To improve the efficiency of, often by simplification: _streamline a factory process._  
@@ -172,6 +194,7 @@ __suborn__ _vt_
 __subsequent__ _adj_ Following in time or order; succeeding.  
 __succubus__ _n_  
 __sultry__ _adj_  
+__supercharge__ _vt_  
 __supercilious__  
 __surprise__ _n, v_ /səˈpraɪz/  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
@@ -184,6 +207,7 @@ __Syracuse__ _n_ :mega: /ˈsɪr əˌkyus, -ˌkyuz/
 __tadpole__ _n_  
 __Tahiti__ _n_ :mega: /təˈhi ti, tɑ-/  
 __talkie__ _n_ _informal_ An early film with a soundtrack. Full name: _talking picture_.  
+__tank__ _n_ __5__ A tank top.  
 __taper__ _n_  
 __tarnish__ _v_  
 __task__ _vt_ __1__ To assign a task to or impose a task on. _The agency was tasked with creating an advertising campaign._  
@@ -214,6 +238,7 @@ __thrust__ _v_
 __thunderstruck__ _adj_ Affected with sudden astonishment or amazement. _I was thunderstruck._  
 __tidbit__ _n_ A choice morsel, as of gossip or food. _Syn_ choice morsel, titbit  
 __tiddlywinks__ _n_ /ˈtɪdlɪˌwɪŋks/ _functioning as singular_ A game in which players try to flick discs of plastic into a cup by pressing them sharply on the side with other larger discs.  
+__time ball__ _n_  
 __ting<sup>1</sup>__ _n_ A high metallic sound such as that made by a small bell.  
 __ting<sup>2</sup>__ _vi_ To give forth a light metallic sound.  
 __titular__ _adj_  
@@ -233,6 +258,7 @@ __transvestite__ _n_
 __truce__ _n_ /truːs/  
 __tub__ _n_ __1a__ An open, flat-bottomed vessel, usually round and typically wider than it is deep, used for washing, packing, or storing. _A tub of Ben & Jerry’s._ __b__ The amount that such a vessel can hold. __c__ The contents of such a vessel.  
 __tumbledown__ _adj_  
+__tyrant__ _n_ /ˈtaɪ rənt/  
 __ubiquitous__ _adj_ /yoo-BIK-wuh-tuss/ _Syn_ widespread  
 __ukulele__ _n_ :pencil2:  
 __umbrella__ _n_ /ʌmˈbrɛl ə/ [:scroll: Etymologically, it is a “little shadow.”]  
