@@ -4247,7 +4247,7 @@ __crinkly__ _adv_
 __crinoline__ _n_  
 __cripple__ _vt_ :dart: __2__ To disable, damage, or impair the functioning of: _a strike that crippled the factory._  
 __crippling__ _adj_ :four::hammer: _Crippling drought._ _Crippling strikes and violence._  
-__crisp<sup>1</sup>__ _adj_ :nine::m::hammer: _A crisp white tunic._ _In a crisp white dress._ _William teed up Pedro with a crisp pass._ _A crisp young guy._  
+__crisp<sup>1</sup>__ _adj_ :nine::m: __1__ Dry and brittle. __2__ Fresh and firm: _crisp lettuce._ __3__ Invigorating or bracing: _a crisp breeze._ __4__ Clear; sharp: _crisp reasoning._ _A crisp young guy._ __5__ Lively or stimulating: _crisp conversation._ __6__ Clean and orderly; neat: _a crisp appearance._ _A crisp white tunic._ _In a crisp white dress._ __7__ Concise and pithy; terse: _a crisp reply._ __8__ Wrinkled or curly: _crisp hair._  
 __crisp<sup>2</sup>__ _v_  
 __crisp<sup>3</sup>__ _n_  
 __crisper__ _n_ :dart: A compartment at the bottom of a refrigerator for storing fruit and vegetables. _Our dishes and crisper trays._  
@@ -19563,7 +19563,7 @@ __upstream__
 __upswing__ _n_ :five: __1__ An upward swing or trend. __2__ An increase, as in movement or business activity.  
 __uptake__ _n_ :seven::hammer: _Other applications have had limited uptake._ __4__ The act of accepting or taking up something on offer or available.  
 __uptalk__ _v_  
-__uptick__ _n_ :nine::m::hammer:  
+__uptick__ _n_ :nine::m: __1__ A rise or improvement, esp. in business. __2__ A slight rise or rising trend in the stock market.  
 __uptight__ _adj_ :two::dart::hammer:  
 __uptime__ _n_ :three: The time during which a device, such as a computer, is functioning or available for use.  
 __uptown__ _adj, adv, n_ :two::hammer:  
@@ -19706,7 +19706,7 @@ __vendetta__ _n_ :two: __1__ A feud between two families that arises from the in
 __vending machine__ _n_  
 __vending__ _n_ The act of selling.  
 __vendor__ _n_ :two::hammer:  
-__veneer__ _n_ :nine::m::hammer: (veneers) _A veneer of quality._ _Porcelain veneers._  
+__veneer__ _n_ :nine::m: (veneers) __1__ A thin surface layer, as of finely grained wood, glued to a base of inferior material. __2__ Any of the thin layers glued together to make plywood. __3__ A decorative facing, as of brick. __4__ :dart: A deceptive, superficial show; a façade: _a veneer of friendliness._ _A veneer of quality._  
 __venerable__ _adj_ :two::hammer: _Venerable institution._  
 __venerate__ _v_ :two: /VEN-uh-rayt/ To feel or show deep respect and honor for someone or something. To hold in deep respect. _Syn_ revere _In our culture, we venerate the elderly and pay heed to their wisdom._ _Volunteers of the Peace Corps are venerated for their selfless dedication and contributions._  
 __vengeful__ _adj_  
@@ -20585,7 +20585,7 @@ __yardage__
 __yardstick__ _n_ :four: __1__ A ruler or tape that is three feet long. __2__ A measure or standard used for comparison. _On what kind of yardstick is he basing his judgment?_ _Colleges need some standard yardstick._  
 __yarmulke__ _n_ (yarmelke) A skullcap worn by Jewish men and boys, especially those adhering to Orthodox or Conservative Judaism. Also called kippah.  
 __yarn du jour__  
-__yarn__ _n_ :nine::m::hammer: _Political yarns._ _Nylon yarn._  
+__yarn__ _n_ :nine::m: __1__ A continuous twisted strand of natural or synthetic fibres, used in weaving, knitting, etc. _Nylon yarn._ __2__ _informal_ A long and often involved story or account, usually telling of incredible or fantastic events. _Political yarns._  
 __yatch__ _n_ :mega:  
 __yaw__ _v_ :three: (yawing) __1__ _Nautical_ To swerve off course momentarily or temporarily: _The ship yawed as the heavy wave struck abeam._  
 __yawn__ _n_ :two::hammer: _The sound of yawns and crickets._  
