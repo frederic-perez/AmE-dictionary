@@ -1,28 +1,3 @@
-__rue__ _v_  
-__ruffle__ _n_  
-__rumpled__ _adj_ _A rumpled voice._  
-__run sheet__  
-__runaway__ _adj_  
-__running dog__ _n_ A servile follower or lackey. :es: perro faldero  
-__ruralism__ _n_ A rural idiom or expression. _Syn_ rusticism  
-__salubrious__  
-__salve__ _vt_ __2__ To ease the distress or agitation of; assuage: _salved my conscience by apologizing._  
-__salvo__ _n_ (_n pl_ salvos, salvoes)  
-__sangfroid__ _n_ /SAHNG-FRWAH/ Sangfroid refers to the ability to stay calm in dangerous situations.  
-__sanguine__ _adj_ :two::hammer:  
-__sanity check__  
-__sap__ _vt_ __2__ To deplete or weaken gradually.  
-__sash__ _n_  
-__sassy__ _adj_ /ˈsæsɪ/ _informal US_ Insolent, impertinent.  
-__sate__ _vt_  
-__saunter__  
-__sawmill__ _n_ :es: aserradero  
-__scallop__ _n_  
-__scavenger hunt__ _n_  
-__schizophrenic__ _adj, n_  
-__schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept person who fails at everything. A person with no luck, someone who tends to do everything wrong.  
-__scintilla__ _n_ A minute amount; an iota or trace. _Syn_ shred, smidge, smidgeon, tittle, whit  
-__scorecard__ _n_  
 __scores__ _n pl_ A large number or amount.  
 __scraggly__ _adj_ _A scraggly beard._  
 __scram__ _vi_  

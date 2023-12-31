@@ -15400,13 +15400,13 @@ __rudderless__
 __ruddy__ _adj_ :nine::m: Ruddy is used to describe something that is reddish—like the color of red hair, tomatoes, or your cheeks on a cold winter’s day. _Until her skin was ruddy._  
 __rude__  
 __rudiment__ _n_  
-__rue__ _v_ :seven::astonished::pencil2: (rues, rued) To be sorry about something and wish that it had not happened. A more usual word is regret. _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
+__rue__ _v_ :eight::astonished::pencil2: (rues, rued) To be sorry about something and wish that it had not happened. A more usual word is regret. _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
 __rueful__ _adj_ :six::dart::hammer: _He gave a rueful smile._  
 __ruefully__ _adv_ :nine::m::hammer: _Dan shook his head ruefully._  
 __rufescent__ _adj_ :two: /ru-FES-uhnt/ [:scroll::astonished: From Latin rufus (red, reddish)] Reddish. Tinged with red.  
 __ruffian__ _n_ /ˈrʌf i ən, ˈrʌf yən/ A cruel and brutal fellow. _Syn_ bully, hooligan, roughneck _He had been a bully in grade school, so no one was surprised to hear that he is still considered a ruffian._  
-__ruffle__ _v_ :three::hammer: (ruffled, ruffling)  
-__ruffles__  
+__ruffle<sup>1</sup>__ _n_ :two::hammer:  
+__ruffle<sup>2</sup>__ _v_ :three::hammer: (ruffled, ruffling)  
 __rug > sweep it under the rug__  
 __rug__ _n_ :two: Hairpiece, chignon.  
 __rugelach__ _n_ A cookie of cream-cheese dough spread with filling, such as jam or nuts, and then rolled into a crescent shape.  
@@ -15426,10 +15426,12 @@ __rummy__ _n_ :three::hammer:
 __rumor-monger__ _n_ :two::hammer:  
 __rump__ _n_ _The archers aimed for thw horses’ unarmored rumps._  
 __rumple__ _v_ _His clothes were rumpled._  
+__rumpled__ _adj_ _A rumpled voice._  
 __run afoul__  
 __run by__ _phr v_  
 __run in__ _n_  
 __run over__ _phr v_  
+__run sheet__  
 __run tests__ _phr_ _A 42-stone patient to discharge himself, but Cameron finds a way to keep him in hospital to run further tests._  
 __run the show__  
 __run-and-gun__ _adj_ Relating to or being a fast, freewheeling style of play in basketball that de-emphasizes set plays and defense. _A run-and-gun platform game._  
@@ -15437,11 +15439,12 @@ __run-in__ _n_ :dart::four: (run-ins) __1__ A quarrel or argument. _A run-in wit
 __run-of-the-mill__ _adj_ :five: Not special or outstanding; average. Ordinary, average.  
 __runabout__ _n, v_  
 __runaway<sup>1</sup>__ _n_ :three::hammer: (runaways)  
-__runaway<sup>2</sup>__ _adj_ _Bryant was a runaway winner._  
+__runaway<sup>2</sup>__ _adj_ :two::hammer: _Bryant was a runaway winner._  
 __rundown__ _n_ :dart::five:::hammer: __1__ A point-by-point summary.  
 __rung__ _n informal_ :nine::m: (rungs) A particular level or position in an organization: _I started on the bottom rung of the company._ _He deserves to be in the lowest rungs of hell._ _The Romans climbed the rungs._ _The rung of the ladder._  
 __runner-up__ _n_ :nine::m::dart: (runners-up) The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _They are runners-up to Real Madrid._ _Nishikori was runner-up here last season._ _That was a close runner-up._  
 __running account__ _n_ Current account.  
+__running dog__ _n_ A servile follower or lackey. :es: perro faldero  
 __running shoes__ _n_  
 __running-of-the-mill husband__  
 __runny__ _adj_ :four: Inclined to run or flow: _runny icing; a runny nose._ _Runny eyes._  
@@ -15453,6 +15456,7 @@ __runway__ _n_ :two::hammer:
 __Runyonesque__ _adj_ :three::hammer: _A torrent of Runyonesque chitchat._  
 __ruptured__ _v_ _He ruptured his Achilles._  
 __rural area__ _n_ :mega: An area outside of cities and towns.  
+__ruralism__ _n_ A rural idiom or expression. _Syn_ rusticism  
 __ruse__ _n_ :nine::m::mega: /ruz/ An action intended to mislead, deceive, or trick; stratagem.  
 __rush<sup>1</sup>__ _n_  
 __rush<sup>2</sup>__ _v_  
@@ -15542,7 +15546,7 @@ __salt junk__ _n_ /SAWLT-JUNK/ Dried salted beef. _In the past, sailors survived
 __saltigrade__ _adj_ Having the feet or legs adapted to leaping—usually used of spiders (such as members of the family Salticidae).  
 __saltines__ _n_  
 __salty__  
-__salubrious__ _adj_ Conducive or favorable to health or well-being.  
+__salubrious__ _adj_ :two: Conducive or favorable to health or well-being.  
 __saludatorian__ _n_ The student with the second highest academic rank in a class who delivers the salutatory at graduation exercises.  
 __saludatory__  
 __salutary__ _adj_ :two::hammer: _Salutary effects._  
@@ -15550,8 +15554,9 @@ __salute<sup>1</sup>__ _n_
 __salute<sup>2</sup>__ _v_ To salute a person or their achievements means to publicly show or state your admiration for them.  
 __salvage__ _adj_  
 __Salvation Army__ _n_ :two: A charitable and religious organization to evangelize and to care for the poor and homeless. _Salvation Army shelter._  
-__salve__ _n_ :five: (salves) __1__ _(Medicine)_ An ointment for wounds, sores, etc. _Karim’s skin needed the yellow salve._ _Salves, poultices, and plasters._ __2__ Anything that heals or soothes.  
-__salvo__ _n_ :seven::hammer: /SAL-voh/ _A full salvo of torpedoes._ _Joe fired the first salvo._  
+__salve<sup>1</sup>__ _n_ :five: (salves) __1__ _(Medicine)_ An ointment for wounds, sores, etc. _Karim’s skin needed the yellow salve._ _Salves, poultices, and plasters._ __2__ Anything that heals or soothes.  
+__salve<sup>2</sup>__ _vt_ __2__ To ease the distress or agitation of; assuage: _salved my conscience by apologizing._  
+__salvo__ _n_ :eight::hammer: /SAL-voh/ (_n pl_ salvos, salvoes) _A full salvo of torpedoes._ _Joe fired the first salvo._  
 __Sam Browne belt__  
 __samara__ _n_  
 __Samaritan__  
@@ -15583,14 +15588,14 @@ __sandstone__
 __sandwich<sup>1</<up>__ _n_ :mute:[san~~d~~wich]  
 __sandwich<sup>2</<up>__ _v_ :mute:[san~~d~~wich]  
 __sandy__ _adj_ :two: __3__ Of the color of sand; light yellowish brown. _Sandy hair; sandy-haired._  
-__sang-froid__ _n_ :three: (sangfroid) Coolness and composure, especially in trying circumstances.  
+__sang-froid__ _n_ :four: /SAHNG-FRWAH/ (sangfroid) Coolness and composure, especially in trying circumstances. Sangfroid refers to the ability to stay calm in dangerous situations.  
 __sangria__ _n_  
 __sanguine__ _adj_ :nine::m::astonished: /SANG-gwin/ /ˈsæŋ gwɪn/ __1__ Confidently optimistic. _The young CEO is sanguine about the struggling company’s future._ __2__ Of a healthy reddish color. _Syn_ rubicund, ruddy _He had a sanguine complexion that was matched by his cheerful outlook._  
 __sanguinolency__ _n_ Addiction to bloodshed.  
 __sanitation__ _n_ _Sanitation systems._  
 __sanitize__ _v_  
-__sanity check__  
-__sap<sup>1</sup>__ _v_ :nine::m: (saps, sapped, sapping, sappy) Gradually weaken or destroy (a person’s strength or power). _Weak demand sapping trade._ _His energy was sapping._ _Worry never robs tomorrow of its sorrow, it only saps today of its joy._  
+__sanity check__ _n_ :two::hammer:  
+__sap<sup>1</sup>__ _vt_ :nine::m: (saps, sapped, sapping, sappy) __2__ To deplete or weaken gradually. Gradually weaken or destroy (a person’s strength or power). _Weak demand sapping trade._ _His energy was sapping._ _Worry never robs tomorrow of its sorrow, it only saps today of its joy._  
 __sap<sup>2</sup>__ _n_ :four::hammer: _A flat-sided sap stuck out of his back pocket._ _What a sap!_  
 __sapient__ _adj_ /SAY-pee-unt/ Sapient is a formal word that means “possessing or expressing great wisdom.”  
 __sapiosexual__ _n_ A relatively new word that refers to a person who is erotically attracted to intelligence.  
@@ -15610,14 +15615,14 @@ __sardonic__ _adj_ :two: Scornfully or cynically mocking. Characterized by bitte
 __sari__ _n_ /ˈsɑːrɪ/ (saree) An Indian or Pakistani women’s garment consisting of a length of cloth wrapped around the waist like a skirt then draped over the shoulder and sometimes the head.  
 __sarsaparilla__ _n_  
 __sartorial__ _adj_ :two::hammer:  
-__sash__ _n_ :five::hammer: (sashes) :es: banda _A sash cord._ _A sash window._  
+__sash__ _n_ :six::hammer: (sashes) :es: banda _A sash cord._ _A sash window._  
 __sashay__ _vi_ :seven: /sa-SHAY/ (sashayed) To sashay is to proudly walk in a slow, confident way that is meant to attract attention. _Sashay_ can also mean simply “to walk, glide, or go,” or “to proceed or move in a diagonal or sideways manner.” In contexts involving dance, sashay means “to make a chassé,” which is a dance step in which a slide on one foot is followed closely by a slide on the other foot. To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house._  
 __sashimi__ _n_ :two::hammer:  
 __sass__ _v_ (sassed)  
-__sassy__ _adj_ :three::hammer:  
+__sassy__ _adj_ :four: /ˈsæsɪ/ _informal US_ Insolent, impertinent.  
 __satays__ _n_  
 __satchel__ _n_ :two::hammer:  
-__sate__ _v_ :two::hammer: (sated) _Sate your appetite._  
+__sate__ _vt_ :three::hammer: (sated) _Sate your appetite._  
 __satiate__ _v_ /SAY-shee-ayt/ Satiate is a formal word that means “to satisfy (something, such as a need or desire) fully.”  
 __satire__ _n_ :two: Satire is using humor to criticize public figures. Example: When Senator Jackson said “numbers don’t lie,” he forgot that his first name wasn’t “Numbers.”  
 __satirist__ _n_ A humorist who uses ridicule and irony and sarcasm. _Syn_ ironist, ridiculer _The satirist got into trouble with the network after he ridiculed a number of prominent donors on his live television show._  
@@ -15635,7 +15640,7 @@ __saucy__
 __saudade__  
 __sauerkraut__ _n_  
 __sauna__ _n_ :mega: /ˈsɔːnə/  
-__saunter<sup>1</sup>__ _v_ :six: (sauntered, sauntering) To walk in a casual manner; stroll. _Lynn sauntered to the edge of the stage._  
+__saunter<sup>1</sup>__ _v_ :seven: (sauntered, sauntering) To walk in a casual manner; stroll. _Lynn sauntered to the edge of the stage._  
 __saunter<sup>2</sup>__ _n_  
 __sausage dog__ _n_ An informal name for dachshund. _Syn_ sausage hound  
 __sausage party__ _n_ :two: (slang, derogatory) A gathering with many more men than women.  
@@ -15660,6 +15665,7 @@ __sawdust__ _n_
 __sawed-off__  
 __sawgrass__ _n_ :two::hammer:  
 __sawhorse__ _n_ :six: A frame with legs, used to support pieces of wood being sawed. _Syn_ buck, horse, sawbuck :es: caballete  
+__sawmill__ _n_ :es: aserradero  
 __sawyer__ _n_ :astonished:  
 __say the world__  
 __saying__ _n_ :two::hammer:  
@@ -15674,7 +15680,7 @@ __scaffold__ _n_ :mega::two::hammer:
 __scaffolding__ _n_  
 __scale up__ _v_ _That’s the challenge of scaling up._  
 __scallion__ _n_ :four::hammer: :es: cebolleta  
-__scallop<sup>1</sup>__ _n_ :three::hammer: _A scallop-shell logo._ :es: vieira  
+__scallop<sup>1</sup>__ _n_ :four::hammer: _A scallop-shell logo._ :es: vieira  
 __scallop<sup>2</sup>__ _v_ :camera: (scalloped)  
 __scalloped__ _adj_ Having an edge shaped like a scallop. _Scalloped robes._  
 __scalp bounties__  
@@ -15713,6 +15719,7 @@ __scathing__ _adj_ :nine::m: Bitterly severe. _His scathing indictment of Congre
 __scatterbrained__ _adj_ :three: /ˈskætəˌbreɪnd/ Exhibiting or characterized by lack of serious thought or concentration; disorganized; silly.  
 __scattergood__ _n_ :four: /SKAT-uhr-good/ One who spends wastefully. Someone who spends money prodigally. _Syn_ spendthrift _I prefer to think of myself not as a scattergood but as a collector of rare designer shoes and handbags._  
 __scattershot__ _adj_ :two::hammer:  
+__scavenger hunt__ _n_  
 __scenario__ _n_ :mega::mute:[s~~c~~enario] /sɪˈnɛər iˌoʊ, -ˈnɑr-/  
 __scend<sup>1</sup>__ _vi_ (send) To rise or lift by, or as if by, a wave.  
 __scend<sup>2</sup>__ _n_ (send) The rising movement of a wave or a ship on a wave.  
@@ -15727,8 +15734,10 @@ __schedule__ _n_ _A schedule was set._
 __schemer__ _n_ A planner who draws up a personal scheme of action.  
 __schism__ _n_ :four: A separation or division into factions. _Syn_ discord, split :es: cisma _Heretics were burned for attempting to create a schism in the Catholic Church._  
 __schizoid__ _adj_ _She had a schizoid personality._  
+__schizophrenic__ _adj, n_  
 __schlep__ _v_ :four::hammer: (schlepping)  
 __schleps__ _v_ _He schleps to the House gym in workout clothes._  
+__schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept person who fails at everything. A person with no luck, someone who tends to do everything wrong.  
 __schlock__  
 __schlocky__  
 __schmaltz__ _n_ _informal_ :two: The quality or condition of being affectedly or overly emotional.  
@@ -15754,7 +15763,7 @@ __sciatic__
 __sciatica__  
 __science__ _n_ :mute:[s~~c~~ience]  
 __scimitar__ _n_ :three::hammer:  
-__scintilla__ _n_  
+__scintilla__ _n_ :two: A minute amount; an iota or trace. _Syn_ shred, smidge, smidgeon, tittle, whit  
 __scintillate__ _v_ /SIN-tuh-layt/ To dazzle or impress with liveliness or wit. _Her hilarious and topical standup routine absolutely scintillated; the audience brought her back for two encores._  
 __scintillating__ _adj_ :four::hammer: _Scintillating company._  
 __scintillometer__  
@@ -15775,7 +15784,7 @@ __scope out__ _v_
 __scorching__  
 __score<sup>1</sup>__ _n_ :three: A group or set of twenty or about twenty. _Five score years ago._ :es: veintena  
 __score<sup>2</sup>__ _v_ Make small marks into the surface of. _Score the clay before firing it._ _What tool is used to score a loaf of bread before baking?_  
-__scorecard__ _n_ :two: /ˈskɔːˌkɑːd/ __1__ A card on which scores are recorded in various games, esp golf. _Inner scorecard._ __2__ A card identifying the players in a sports match, esp cricket or baseball.  
+__scorecard__ _n_ :three: /ˈskɔːˌkɑːd/ __1__ A card on which scores are recorded in various games, esp golf. _Inner scorecard._ __2__ A card identifying the players in a sports match, esp cricket or baseball.  
 __scores__ _n_ A large number of something. _Syn_ a great many, a lot, a great/good deal, a large/great number/amount, great quantities, plenty _He sent scores of enthusiastic letters to friends._  
 __scorn<sup>1</sup>__ _n_ :three::hammer:  
 __scorn<sup>2</sup>__ _v_ (scorned)  
