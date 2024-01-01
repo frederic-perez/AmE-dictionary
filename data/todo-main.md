@@ -1,28 +1,3 @@
-__scores__ _n pl_ A large number or amount.  
-__scraggly__ _adj_ _A scraggly beard._  
-__scram__ _vi_  
-__scramble__ _v_ _They scrambled for personal power._  
-__scrap__ _vt_ :dart: __2__ To discard or abandon as useless; cancel: scrap a plan.  
-__scratch pad__ _n_  
-__scrawl__ _v_  
-__scrawny__  
-__scrim__ _n_  
-__scrimmage__ _n_  
-__scrutiny__ _n_  
-__scurvy<sup>1</sup>__ _n_  
-__scurvy<sup>2</sup>__ _adj_ Contemptible; despicable.  
-__seabird__ _n_ A bird, such as a petrel or albatross, that frequents the ocean, especially far from shore.  
-__seamstress__ _n_ :dart:  
-__seance__ _n_ :es: sesión de esperitismo  
-__second__ _n_ :mega: /ˈsɛkənd/  
-__secreted__ _v_ _He secreted himself in the hotel._  
-__security__ _n_ /sɪˈkyʊər ɪ ti/  
-__seep__ _v_ (seeped)  
-__seersuckers__ _n_  
-__seesaw__  
-__seething__ _adj_  
-__seize__ _v_ _Students with the growth mindset seized the chance._  
-__self-absorbed__ _adj_ :two::hammer:  
 __self-awareness__ _n_  
 __self-effacing__ _adj_  
 __self-explanatory__ _adj_  

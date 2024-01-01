@@ -15785,7 +15785,7 @@ __scorching__
 __score<sup>1</sup>__ _n_ :three: A group or set of twenty or about twenty. _Five score years ago._ :es: veintena  
 __score<sup>2</sup>__ _v_ Make small marks into the surface of. _Score the clay before firing it._ _What tool is used to score a loaf of bread before baking?_  
 __scorecard__ _n_ :three: /ˈskɔːˌkɑːd/ __1__ A card on which scores are recorded in various games, esp golf. _Inner scorecard._ __2__ A card identifying the players in a sports match, esp cricket or baseball.  
-__scores__ _n_ A large number of something. _Syn_ a great many, a lot, a great/good deal, a large/great number/amount, great quantities, plenty _He sent scores of enthusiastic letters to friends._  
+__scores__ _n pl_ :two: A large number of something. _Syn_ a great many, a lot, a great/good deal, a large/great number/amount, great quantities, plenty _He sent scores of enthusiastic letters to friends._  
 __scorn<sup>1</sup>__ _n_ :three::hammer:  
 __scorn<sup>2</sup>__ _v_ (scorned)  
 __scotch__ _n_ :astonished: __2__ (Games, other than specified) A line marked down, as for hopscotch.  
@@ -15799,23 +15799,25 @@ __scout out__ _v_ To examine a place or area in order to get information about i
 __scowl<sup>1</sup>__ _n_  
 __scowl<sup>2</sup>__ _v_ :six::hammer: (scowled, scowling)  
 __scrabble__ _n_ /ˈskræbəl/  
-__scram__ _v_ _We better scram._  
-__scramble<sup>1</sup>__ _vi_ :four: __2__ To struggle or contend frantically in order to get something: _scrambled for the best seats._ _Google scrambles to integrate AI into Search._ _We were scrambling financially._  
+__scraggly__ _adj_ _A scraggly beard._  
+__scram__ _vi_ :two::hammer: _We better scram._  
+__scramble<sup>1</sup>__ _vi_ :five: __2__ To struggle or contend frantically in order to get something: _scrambled for the best seats._ _Google scrambles to integrate AI into Search._ _We were scrambling financially._ _They scrambled for personal power._  
 __scramble<sup>2</sup>__ _vt_ :eight: (scrambles, scrambled, scrambling) __1__ Make one’s way quickly or awkwardly up a steep slope or over rough ground by using one’s hands as well as one’s feet. _We scrambled over the wet boulders._ _Syn_ clamber, climb __2__ Make (something) jumbled or muddled. _Maybe the alcohol has scrambled his brains._ _Syn_ muddle, confuse, mix up, disarrange, disorganize, mess up _The alcohol has scrambled his brains._  
 __scrap<sup>1</sup>__ _n_ :three: (scraps) __1__ A small piece or bit; a fragment. __2__ (scraps) Leftover bits of food. __3__ Discarded waste material, especially metal suitable for reprocessing. _Scrap iron._ __4__ (scraps) Crisp pieces of rendered animal fat; cracklings. __5__ A fight or scuffle. _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
-__scrap<sup>2</sup>__ _vt_ :nine::m: (scraps, scrapped, scrapping) __1__ To break down into parts for disposal or salvage: _scrap an old stove._ __2__ To discard or abandon as useless; cancel: _scrap a plan._ _It forced oil companies to scrap planned investments._ _Ship to be scrapped had reactor built on board in 1960s._ _Scrapping the legislation._  
+__scrap<sup>2</sup>__ _vt_ :nine::m: (scraps, scrapped, scrapping) __1__ To break down into parts for disposal or salvage: _scrap an old stove._ __2__ :dart: To discard or abandon as useless; cancel: _scrap a plan._ _It forced oil companies to scrap planned investments._ _Ship to be scrapped had reactor built on board in 1960s._ _Scrapping the legislation._  
 __scrap<sup>3</sup>__ _vi_ :nine::m: (scrapping) To fight, usually with the fists. _A boy spends the next four decades scrapping._ _A lifestyle of snorting and scrapping._  
 __scrapbook__ _n_  
 __scrape__ _v_  
 __scrapper__  
 __scrappy__ _adj_ :five::hammer: _The scrappy journalist inside me fuels my fire in the marketing world._ _A scrappy industrial city._ _They are young, scrapoyband hungry._  
+__scratch pad__ _n_  
 __scratch<sup>1</sup>__ _v_ :mute:[scra~~t~~ch]  
 __scratch<sup>2</sup>__ _n_ :mute:[scra~~t~~ch]  
 __scratcher__ _n_ __1__ A workman who uses a tool for scratching. __2__ A person who scratches to relieve an itch. __3__ A device used for scratching.  
 __scratching__ _n_ :two: A percussive effect obtained by rotating a gramophone record manually: a disc-jockey and dub technique.  
 __scraunch__ _vt_ /skrawnch/ (scranch) [:scroll: Of imitative origin. The word scraunched is the longest one-syllable word in the English language. ] To crunch, crush, or grind.  
-__scrawl__ _v_ :six: (scrawled) To write hastily or sloppily. Write carelessly. _Syn_ scribble _The note that my brother scrawled before his quick exit was unreadable._ _Ben scrawled a notation on the memo._  
-__scrawny__ _adj_ :two::hammer: _Two scrawny containers of grape jelly._  
+__scrawl__ _v_ :seven: (scrawled) To write hastily or sloppily. Write carelessly. _Syn_ scribble _The note that my brother scrawled before his quick exit was unreadable._ _Ben scrawled a notation on the memo._  
+__scrawny__ _adj_ :three::hammer: _Two scrawny containers of grape jelly._  
 __scream-o-meter__  
 __screaming yellow__  
 __screech<sup>1</sup>__ _n_ :two::hammer:  
@@ -15830,7 +15832,8 @@ __screwup__ _n_ _slang_ (screw-up) /skro͞o′ŭp′/ __1__ One that makes a mes
 __scribbled__ _v_  
 __scribe__ _n_ :two::hammer: (scribes)  
 __scribles__ _n_  
-__scrimmage<sup>1</sup>__ _n_ :four::hammer:  
+__scrim__ _n_  
+__scrimmage<sup>1</sup>__ _n_ :five::hammer:  
 __scrimmage<sup>2</sup>__ _v_  
 __scrimshaw__ _n_ A carving (or engraving) on whalebone, whale ivory, walrus tusk, etc., usually by American whalers.  
 __scripted__ _adj_ Written in advance.  
@@ -15856,7 +15859,7 @@ __scruple__ _n_ An uneasy feeling arising from conscience or principle that tend
 __scrupulous__ _adj_ /SKROO-pyuh-lus/ __1__ Very careful about doing something correctly. _She was always very scrupulous about her work, paying attention to every little detail._ __2__ Careful about doing what is honest and morally right. _Less scrupulous companies find ways to evade the law._  
 __scrupulously__  
 __scrutinize__ _v_ :two: /SKROO-tuh-nyze/ To examine (something) carefully especially in a critical way.  
-__scrutiny__ _n_ :six::dart::hammer:  
+__scrutiny__ _n_ :seven::dart::hammer:  
 __scry__ _v_ To see or predict the future by means of a crystal ball.  
 __scud<sup>1</sup>__ _n_ _Scud work._  
 __scud<sup>2</sup>__ _v_ :four::hammer: (scudded, scudding)  
@@ -15874,7 +15877,8 @@ __scupper__ _v_
 __scuppers__ _n_ :two::hammer:  
 __scurry<sup>1</sup>__ _v_ :three: To move about or proceed hurriedly. _Syn_ scamper, scuttle, skitter _Once we heard thunder and saw lightning, we scurried from the beach and sprinted back to the house._  
 __scurry<sup>2</sup>__ _n_  
-__scurvy__ _n_ :es: escorbuto  
+__scurvy<sup>1</sup>__ _n_ :two::hammer: :es: escorbuto  
+__scurvy<sup>2</sup>__ _adj_ Contemptible; despicable.  
 __scut work__ _n_ :four::dart: Trivial, unrewarding, tedious, dirty, and disagreeable chores.  
 __scuttle__ _v_ :nine: (scuttled, scuttling) __1__ Run hurriedly or furtively with short quick steps. __2__ Deliberately cause (a scheme) to fail. _A tighter budgetary policy will scuttle plans to boost consumption._  
 __scuttlebutt__ _n_ :three: __1__ _informal_ Rumor; gossip. Stories about someone’s personal life, especially ones that contain unkind or false information.  
@@ -15886,6 +15890,7 @@ __sea canary__ _n_
 __sea change__ _n_ :three::astonished: A major transformation or alteration. _Derek Chauvin was convicted of murdering George Floyd last week, and a number of words and phrases in our dictionary saw dramatic increases in lookups, including_ justice is served _and_ sea change. _It sufferef a sea change._  
 __seabed__ _n_ :two::hammer:  
 __Seabees__ _n_ :two::hammer:  
+__seabird__ _n_ A bird, such as a petrel or albatross, that frequents the ocean, especially far from shore.  
 __seacock__ _n_ :two::hammer:  
 __seafarer__ _n_ :three: A sailor or mariner. _Syn_ old salt, Jack-tar, mariner, sea dog, seaman, gob, Jack, tar _Then he arose quickly, like a seafarer who all at once seeth the land; and he shouted for joy: for he saw a new truth._  
 __seafaring<sup>1</sup>__ _n_  
@@ -15900,8 +15905,9 @@ __seamed__ _v_ _A seamed old man._
 __seamless__  
 __seamlessly__ _adv_  
 __seamster__ _n_ A tailor. _Syn_ sartor, tailor _We found a talented seamster who fixed the ill-fitting pants in an hour._  
-__seamstress__ _n_ :two: A woman who sews, especially one who makes her living by sewing.  
+__seamstress__ _n_ :dart::three: A woman who sews, especially one who makes her living by sewing.  
 __séance__  
+__seance__ _n_ :es: sesión de esperitismo  
 __seaplane tender__ _n_ :two::hammer:  
 __seaport__ _n_  
 __sear__ _v_ :six: (seared, searing) __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ :es: (= wither) > secar, marchitar (Med) > cauterizar; (pain etc) > punzar; (= scorch) > chamuscar, quemar _His lungs seared with burning poison._  
@@ -15922,18 +15928,19 @@ __Second Coming__ _n_ (Theology) The prophesied return of Christ to earth at the
 __second nature__  
 __second string__ _n_  
 __second wind__ _n_ Renewed energy or strength to continue an undertaking; _She had dinner and got a second wind to finish painting._  
-__second__ _vt_ _I second you._  
+__second<sup>1</sup>__ _n_ :mega: /ˈsɛkənd/  
+__second<sup><2/sup>__ _vt_ _I second you._  
 __second-guess__ _v_ :seven::dart: (second-guessing)  
 __second-string__ _adj_ _Southhampton beat a largely second-string Arsenal team 2-0._  
 __secret police__ _n_ A police force that operates secretly, esp. to suppress dissent against the government.  
 __secret weapon__ _n_ :six: Something that will help you gain a big advantage over your competitors, that they do not know about.  
 __secret__ _v_  
 __secretariat__ _n_  
-__secrete__ _v_ Place out of sight; keep secret. _The money was secreted from his children._ _Tim would secrete himself in the hotel._  
+__secrete__ _v_ :two: Place out of sight; keep secret. _The money was secreted from his children._ _Tim would secrete himself in the hotel._  
 __secular__ _adj_ :four::hammer: /SEK-yuh-ler/  
 __secularist__  
 __secure__ _v_ _Go online now to secure your seat._  
-__security__ _n_ :two::mega::hammer:  
+__security__ _n_ :three::mega::hammer: /sɪˈkyʊər ɪ ti/  
 __sedan chair__ _n_  
 __sedative__ _n_ _Not the strongest sedative._  
 __sedentary__ _adj_ /SED-un-tair-ee/ Sedentary describes an activity in which much sitting is involved. _Editorial work is chiefly sedentary._  
@@ -15955,21 +15962,21 @@ __seemingly__ _adv_ _With our twins in seemingly every event, my wife and I find
 __seep__ _v_ :nine::m: (seeped, seeping) (of a liquid) Flow or leak slowly through porous material or small holes. _Water began to seep through the soles of his boots._ _Their blood was seeped into the soil of my continent._ _Blood seeped out of their pores._ _Sweat seeped down his back._ _Syn_ oze, trickle, exude, drip  
 __seepage__ _n_ :two::mega::hammer:  
 __seer__ _n_  
-__seersucker__ _n_ :five: Seersucker is a thin, puckered, all-cotton fabric, commonly striped or chequered, used to make clothing for spring and summer wear. The word came into English from Persian, and originates from the words sheer and shakar, literally meaning “milk and sugar,” probably from the resemblance of its smooth and rough stripes to the smooth texture of milk and the bumpy texture of sugar. _Seersucker coat._  
-__seesaw<sup>1</sup>__ _n_ :three::hammer: _Playing on a swing or seesaw._  
+__seersucker__ _n_ :six: Seersucker is a thin, puckered, all-cotton fabric, commonly striped or chequered, used to make clothing for spring and summer wear. The word came into English from Persian, and originates from the words sheer and shakar, literally meaning “milk and sugar,” probably from the resemblance of its smooth and rough stripes to the smooth texture of milk and the bumpy texture of sugar. _Seersucker coat._  
+__seesaw<sup>1</sup>__ _n_ :four::hammer: _Playing on a swing or seesaw._  
 __seesaw<sup>2</sup>__ _v_  
 __seethe__ _v_ :nine::m::dart: If a liquid seethes, it is boiling, but if it’s a person who’s seething, watch out! He or she is really angry! _Pujols was left seething._ _Seething with jealousy._ _His seething frustration._  
-__seething__ _adj_ __1__ Boiling or foaming as if boiling __2__ Crowded and full of restless activity. __3__ In a state of extreme agitation, esp through anger.  
+__seething__ _adj_ :two: __1__ Boiling or foaming as if boiling __2__ Crowded and full of restless activity. __3__ In a state of extreme agitation, esp through anger.  
 __segregate__ _v_ :three::hammer: (segregated) _Same building, but segregated schools._  
 __segue__ _v_ :seven::pencil2::mega::hammer: (segues)  
 __seitan__  
-__seize__ _v_ :six::hammer: (seizing) _Seize him!_ _Seizing an opportunity._ _Seize the day._  
+__seize__ _v_ :seven::hammer: (seizing) _Seize him!_ _Seizing an opportunity._ _Seize the day._ _Students with the growth mindset seized the chance._  
 __seizing__ _n_ :three::hammer:  
 __seldom<sup>1</sup>__ _adj_ :two::hammer:  
 __seldom<sup>2</sup>__ _adv_ :two::hammer: _People seldom think about their values consciously._  
 __select__ _adj_ :two::hammer: (vs selected) _Opens today in select cities._ _Free shipping on select items._  
 __selectorate__ _n_ /si-LEK-tuhr-it/ /sɪˈlɛktərɪt/ [:scroll: A blend of select + electorate. Both from Latin legere (to choose).] A body of people responsible for making a selection, esp members of a political party who select candidates for an election.  
-__self-absorbed__ _adj_ _Bill Murray is a self-absorbed weatherman in_ Groundhog Day.  
+__self-absorbed__ _adj_ :three::hammer: _Bill Murray is a self-absorbed weatherman in_ Groundhog Day.  
 __self-assured__ _adj_ :three: Having or showing confidence and poise. _Syn_ self-confident  
 __self-bailing__ _adj_ _Equipment includes self-bailing rafts with footcups._  
 __self-centered__ _adj_ Engrossed in oneself and one’s own affairs; selfish. _Self-centered actions._  
