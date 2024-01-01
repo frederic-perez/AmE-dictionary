@@ -1,6 +1,24 @@
+__’tis__ _phr_ /tɪz/ A contraction of _it is._  
+__accomplice__ _n_  
+__audacity__ _n_  
+__bleak__  
+__burrow__ _v_  
+__carnage__ _n_ :mega: /ˈkɑr nɪdʒ/ The slaughter of a great number of people.  
+__floaty__ _adj_  
+__kerfuffle__ _n informal_ _chiefly Brit_ Commotion; disorder; agitation.  
+__legible__  
+__meddling__ _adj_ Intrusive in a meddling or offensive manner.  
+__motion sickness__ _n_ _Motion sickness pills._  
+__pal__ _n informal_ A close friend; comrade; chum.  
+__pocket__ _n_ __7__ _games_ One of the pouchlike receptacles at the corners and sides of a billiard or pool table. :es: tronera  
+__predator__ _n_ :mega: /ˈprɛd ə tər, -ˌtɔr/  
+__ransomware__ _n_  
+__ruthless__ _adj_ :dart: /ˈruθ lɪs/ Without pity or compassion; cruel; merciless.  
+__safety__ _n_ In the context of snooker, a “safety” is a shot that is intentionally played to make it difficult for the opponent to score points.  
 __self-awareness__ _n_  
 __self-effacing__ _adj_  
 __self-explanatory__ _adj_  
+__semi-final__ _n_ :pencil2:  
 __senility__ _n_  
 __sepsis__ _n_  
 __serape__ _n_  
@@ -32,9 +50,12 @@ __shirk__ _v_
 __shirtsleeves__ _n_ :two::hammer:  
 __shirtwaist__ _n_ :two::hammer:  
 __shit-hole__  
+__shoot out__ _n_ __1__ A conclusive gunfight. __2__ _informal_ A decisive contest between two people or teams.  
 __showdown__ _n_ __1__ _informal_ An action that brings matters to a head or acts as a conclusion or point of decision.  
 __shriveled__ _adj_  
 __shtup__ _v_  
+__shun__ _v_ :two::hammer:  
+__sick leave__ _n_  
 __sidekick__ _n informal_  
 __sidesaddle__ _n_ :camera: A saddle designed so that the rider sits with both legs on one side of the horse.  
 __significant__ _adj_  
@@ -165,6 +186,7 @@ __tiddlywinks__ _n_ /ˈtɪdlɪˌwɪŋks/ _functioning as singular_ A game in whi
 __time ball__ _n_  
 __ting<sup>1</sup>__ _n_ A high metallic sound such as that made by a small bell.  
 __ting<sup>2</sup>__ _vi_ To give forth a light metallic sound.  
+__titan__ _adj_  
 __titular__ _adj_  
 __toil__ _n_ _A lifetime of toil._  
 __toll__  
@@ -179,6 +201,7 @@ __traipse__ _v_
 __transience__  
 __transsexual__ _adj, n_ (transexual) Note: The term “transgender” is more commonly used than “transsexual” or “transexual” in current literature and discussions.  
 __transvestite__ _n_  
+__treacherous__ _adj_ /ˈtrɛtʃ ər əs/ __1__ Betraying or likely to betray faith or confidence.  
 __truce__ _n_ /truːs/  
 __tub__ _n_ __1a__ An open, flat-bottomed vessel, usually round and typically wider than it is deep, used for washing, packing, or storing. _A tub of Ben & Jerry’s._ __b__ The amount that such a vessel can hold. __c__ The contents of such a vessel.  
 __tumbledown__ _adj_  
@@ -188,6 +211,7 @@ __ukulele__ _n_ :pencil2:
 __umbrella__ _n_ /ʌmˈbrɛl ə/ [:scroll: Etymologically, it is a “little shadow.”]  
 __unclear__ _adj_  
 __undercut__  
+__unfazed__ _adj_ /ʌnˈfeɪzd/ _informal_ Not disconcerted; unperturbed.  
 __unfettered__ _adj_ /ʌnˈfɛtəd/  
 __unfold__ _v_  
 __uni__ _n_ /ˈjuːnɪ/ _informal_ Short for university.  
@@ -210,6 +234,7 @@ __verdict__ _n_
 __veto__ _vt_  
 __visceral__ _adj_ /VISS-uh-rul/  
 __vixen__ _n_ __2a__ A woman regarded as sexually alluring.  
+__vocal__ _adj_ __4__ Tending to express oneself often or freely; outspoken.  
 __walkout__ _n_ :four: __1__ A labor strike.  
 __walrus mustache__ _n_ A bushy, drooping mustache.  
 __wanderlust__ _n_  
