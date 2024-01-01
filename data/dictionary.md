@@ -7556,7 +7556,7 @@ __gerontocracy__ _n_ /jer-uhn-TOK-ruh-see/ [:scroll: From Greek geronto- (old) +
 __gerrymander<sup>1</sup>__ _v_ :eight: /JAIR-ee-man-der/ (gerrymandering) Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
 __gerrymander<sup>2</sup>__ _n_  
 __gest__ _n_ (geste) A great or heroic deed. _Syn_ achievement, exploit, feat, masterstroke, stunt, tour de force  
-__gestalt__ _n_ :nine::hammer:  
+__gestalt__ _n_ :nine: A physical, biological, psychological, or symbolic configuration or pattern of elements so unified as a whole that its properties cannot be derived from a simple summation of its parts.  
 __get ahold__  
 __get away with__  
 __get enough__  
@@ -15405,7 +15405,7 @@ __rude__
 __rudiment__ _n_  
 __rue__ _v_ :eight::astonished::pencil2: (rues, rued) To be sorry about something and wish that it had not happened. A more usual word is regret. _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
 __rueful__ _adj_ :six::dart::hammer: _He gave a rueful smile._  
-__ruefully__ _adv_ :nine::m::hammer: _Dan shook his head ruefully._  
+__ruefully__ _adv_ :nine::m: In a rueful manner. _Syn_ contritely, remorsefully _Dan shook his head ruefully._  
 __rufescent__ _adj_ :two: /ru-FES-uhnt/ [:scroll::astonished: From Latin rufus (red, reddish)] Reddish. Tinged with red.  
 __ruffian__ _n_ /ˈrʌf i ən, ˈrʌf yən/ A cruel and brutal fellow. _Syn_ bully, hooligan, roughneck _He had been a bully in grade school, so no one was surprised to hear that he is still considered a ruffian._  
 __ruffle<sup>1</sup>__ _n_ :two::hammer:  
@@ -16227,8 +16227,9 @@ __shinding__
 __shine a light__  
 __shiner bucket__  
 __shiner__ _n_ _He answered the door with a shiner on one eye from a wrestling match._  
-__shingle<sup>1</sup>__ _n_ :nine::m::hammer: (shingles) :es: herpes zóster  
+__shingle<sup>1</sup>__ _n_ :nine::m: __1__ _(Building)_ A thin rectangular tile, esp one made of wood, that is laid with others in overlapping rows to cover a roof or a wall. __2__ _(Hairdressing & Grooming)_ A woman’s short-cropped hairstyle. __3__ _US and Canadian_ A small signboard or nameplate fixed outside the office of a doctor, lawyer, etc.  
 __shingle<sup>2</sup>__ _v_ :two::hammer:  
+__shingles__ _n pl_ :nine::m: (used with a sing. or pl. verb) an acute viral disease affecting the ganglia of certain nerves, characterized by inflammation, pain, and skin eruptions along the course of the affected nerve. :es: herpes zóster  
 __shinny__ _v_ Climb awkwardly, as if by scrambling. _Syn_ skin, clamber, scramble, sputter, struggle _I had to shinny up the tree to rescue my stranded cat._  
 __shipborne__ _adj_ _Airborne and shipborne measured platforms._  
 __shipping__ _n_ :astonished: __1a__ The business of transporting freight, esp by ship. __b__ (as modifier): _a shipping magnate; shipping line._ __2a__ :astonished: Ships collectively: _there is a lot of shipping in the Channel._ __b__ The tonnage of a number of ships: _shipping for this year exceeded that of last._  
@@ -17740,7 +17741,7 @@ __strip<sup>1</sup>__ _n_ __2__ A comic strip. _The Peanuts strips._
 __strip<sup>2</sup>__ _v_ _Data striped across different storage nodes._  
 __stripling__ _n_ :two: A juvenile between the onset of puberty and maturity. _Syn_ adolescent, teenager  
 __stripy__ _adj_ Marked with or suggestive of stripes; striped.  
-__strive__ _v_ :nine::m::hammer: (striving) _We strive for peace._ _The Buddha never said it was un-kosher to strive._  
+__strive__ _v_ :nine::m: __1__ To exert much effort or energy; endeavor. __2__ To struggle or fight forcefully; contend: _strive against injustice._ _We strive for peace._ _The Buddha never said it was un-kosher to strive._  
 __striver__ _n_ :two: (strivers) One who is industrious and diligent in carrying out tasks or duties. _Syn_ hard worker  
 __strobe light__ _n_ :two::hammer: _The Cubs packed up their fog machine and strobe lights._  
 __strobe__ _n_ :two::hammer: _Strobe lighting._ _Writhing in the strobe lights after dark._  
