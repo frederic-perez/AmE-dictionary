@@ -18,9 +18,9 @@ __-ville__
 __-wise__ _suffix_  
 __, so why (even) bother?__  
 __, to say the least.__  
-__’hood__ _n slang_ Short for neighborhood.  
-__’tis__ _contraction_ Contraction of _it is_.  
-__’twas__ _phr_ :two: Contraction of _it was._  
+__’hood__ _contraction_ _n slang_ Short for neighborhood.  
+__’tis__ _contraction_ :two: /tɪz/ Contraction of _it is_.  
+__’twas__ _contraction_ :two: Contraction of _it was._  
 __(sic)__ _adv_ :two: _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn’t do it!”  
 __101__ _adj_ (only after noun) Used to say that a piece of knowledge relating to something is very simple and basic. From the practice in US colleges of numbering courses, the initial (introductory) course normally being numbered “101.”  
 __105s__  
@@ -133,7 +133,7 @@ __accommodation__ _n_ :two::pencil2: Accommodation is all about making room — 
 __accompaniment__  
 __accompanist__  
 __accompany__ _v_  
-__accomplice__  
+__accomplice__ _n_ :two::hammer:  
 __accomplished__  
 __accord__ _n_ :three::hammer: _Postponed the signing of an accord._ _The dagger seemed to leave the scabbard of its own accord._ _Its own accord._  
 __accordion door__ _n_ _He pushed open the phone booth’s accordion doors._  
@@ -1020,7 +1020,7 @@ __auction > silent auction__
 __auction off__ _phr v_ To sell something in an auction.  
 __auction__ _n_ /ˈɔːkʃən/  
 __audacious__ _adj_ :dart::four::hammer: _In size it was the most audacious._  
-__audacity__ _n_ :dart::four: /ɔˈdæs ɪ ti/ Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
+__audacity__ _n_ :dart::five: /ɔˈdæs ɪ ti/ Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
 __audible__ _v_  
 __audit__ _n_ :two::hammer: _A tax audit._  
 __Augean__ _adj_ :astonished: __1__ Resembling the Augean stables; filthy; rotten. __2__ Difficult and unpleasant: _an Augean chore._  
@@ -2391,7 +2391,7 @@ __bum<sup>1</sup>__ _adj informal_ :three: Bad, wrong, or worthless: _bad advice
 __bum<sup>2</sup>__ _v_ :three::hammer: _It may be easier to rent a car or bum a ride._  
 __bum<sup>3</sup>>__ _n_ :four: (bums) __1__ A tramp; a vagrant. :dart: __2__ A lazy or shiftless person, especially one who seeks to live solely by the support of others. :dart: __3__ An incompetent, insignificant, or obnoxious person: _The batter called the pitcher a bum._ __4__ _informal_ A single-minded enthusiast of a specific sport: _a ski bum._ One who spends a lot of time doing a particular recreational activity: _a beach bum; a ski bum._  
 __bumbershoot__ _n_ _old-fashioned_ _informal US_ [:scroll: 1915–20; bumber-, alter. of umbrella + -shoot, resp. of -chute in parachute] An umbrella.  
-__bumble<sup><1/sup>__ _vi_ :nine::m: __1__ To speak in a faltering or rambling manner. __2__ To move or act in a clumsy or incompetent manner. _Syn_ blunder __3__ To make a buzzing sound.  
+__bumble<sup>1</sup>__ _vi_ :nine::m: __1__ To speak in a faltering or rambling manner. __2__ To move or act in a clumsy or incompetent manner. _Syn_ blunder __3__ To make a buzzing sound.  
 __bumble<sup>2</sup>__ _vt_ :nine::m: __1__ To say (something) in a faltering manner. __2__ To bungle; botch: _bumble one’s lines in a play._  
 __bumblebee__ _n_ :two::hammer: (bumblebees)  
 __bumbling__ _adj_ :four: Clumsily lacking in the ability to do or perform. _Syn_ awkward, clumsy, gauche, heavy-handed, inept, maladroit, unskillful  
@@ -2469,7 +2469,7 @@ __burr__ _n_
 __burrhead__ _n_  
 __burrito__ _n_ :mega:  
 __burrow<sup>1</sup>__ _n_ :six::hammer:  
-__burrow<sup>2</sup>__ _vi_ :five::hammer: (with adverbial of direction) To move underneath or press up against in search of safety or comfort. _He collapsed on the bed and burrowed under the covers._  
+__burrow<sup>2</sup>__ _vi_ :six::hammer: (with adverbial of direction) To move underneath or press up against in search of safety or comfort. _He collapsed on the bed and burrowed under the covers._  
 __burrs__ _n_  
 __bursary__ _n_ :two::hammer: (bursaries)  
 __bursitis__ _n_  
@@ -2804,7 +2804,7 @@ __caribou__
 __carillon__ _n_ _Sounds of bubbling founyains and carillons._  
 __Carioca__  
 __carjack__ _v_ :two: To commit forcible theft of (a vehicle) from its users.  
-__carnage__ _n_ :four::hammer:  
+__carnage__ _n_ :five::mega: /ˈkɑr nɪdʒ/ The slaughter of a great number of people.  
 __carnation__ _n_ :pencil2::four: A double-flowered cultivated variety of clove pink, with grey-green leaves and showy pink, white, or red flowers. :es: clavel  
 __carnie__ _n_ _Carnie man._  
 __carnival__  
@@ -6906,6 +6906,7 @@ __float<sup>1</sup>__ _n_ :four::hammer: _The float of the firm._ _People pull a
 __float<sup>2</sup>__ _v_ :four::hammer:  
 __floater__ _n_ :six::hammer: (floaters) _(Basketball)_ _I wonder how I missed so many floaters._ _(Vision)_ _Floaters and flashes._ _Are you seeing new floaters?_  
 __floaties__  
+__floaty__ _adj_  
 __flock<sup>1</sup>__ _n_  
 __flock<sup>2</sup>__ _v_  
 __floe__ _n_ :four::hammer: _Ice floe._  
@@ -9886,7 +9887,7 @@ __kennel__ _n_ :two::hammer:
 __keno__ _n_ :two: A game of chance, similar to lotto, that uses balls rather than counters.  
 __kerchief__ _n_ :two::hammer:  
 __kerf__ _n_  
-__kerfuffle__ _n informal_ :five: /ker-FUFF-ul/ _chiefly Brit_ A disturbance or fuss typically caused by a dispute or conflict. _The reclassification of Pluto from a planet to a dwarf planet caused quite a kerfuffle among astronomy lovers._ _In all the kerfuffle, nobody seemed to have noticed Harry, which suited him perfectly._  
+__kerfuffle__ _n informal_ :six: /ker-FUFF-ul/ _chiefly Brit_ A disturbance or fuss typically caused by a dispute or conflict. _The reclassification of Pluto from a planet to a dwarf planet caused quite a kerfuffle among astronomy lovers._ _In all the kerfuffle, nobody seemed to have noticed Harry, which suited him perfectly._  
 __kersey__ _n_  
 __keseboy__  
 __ketamine__ _n_ (Special K)  
@@ -10294,6 +10295,7 @@ __legato__ _n_
 __legerdemain__ _n_ :seven: __1__ Sleight of hand. __2__ A display of skill and adroitness.  
 __legerity__ _n_ :two: Physical or mental quickness; nimbleness; agility. The gracefulness of a person or animal that is quick and nimble. _Syn_ agility, lightsomeness _Common house cats have an extraordinary legerity that enables them to almost always land on their feet._  
 __leggings__ _n pl_ (plurale tantum)  
+__legible__  
 __legion__ _adj_ Very great in number: _The holy man’s followers were legion._ _The reasons you can’t sleep well inflight are legion._  
 __legionnaire__ _n_  
 __legit__ _adj_ _informal_ _slang_ :eight: Legitimate.  
@@ -11106,7 +11108,7 @@ __med__ _adj_ _informal_ Medical: _med schools; med students._
 __medal__ _v_  
 __medallions__ _n_  
 __meddlesome__ _adj_ :two:hammer:  
-__meddling__ _adj_  
+__meddling__ _adj_ :two: Intrusive in a meddling or offensive manner.  
 __medevac helicopter__  
 __medevac__ _v_  
 __medial__ _adj_ Relating to, situated in, or extending toward the middle; median. _Syn_ median _They took up defensive posts all along the field, with Ray in the medial position._  
@@ -11599,7 +11601,7 @@ __mother hen__
 __Mother Hubbard__ _n_ [:scroll: After Mother Hubbard, a character in the nursery rhyme “Old Mother Hubbard”.] A loose shapeless dress for a woman.  
 __mother-of-pearl__ _n_ :two::hammer: :es: nácar _Mother-of-pearl inlays._  
 __motif__ _n_ :three::hammer:  
-__motion sickness__ _n_ :dart: Nausea and dizziness induced by motion, as in travel by aircraft, car, or ship. _For one grandson prone to motion sickness, I took some meclizine as well._  
+__motion sickness__ _n_ :dart::two: Nausea and dizziness induced by motion, as in travel by aircraft, car, or ship. _For one grandson prone to motion sickness, I took some meclizine as well._ _Motion sickness pills._  
 __motion__ _n_ _Defense attorneys had filed motions._  
 __motley__ _adj_ :seven: If you’ve encountered the word motley, it’s most likely in the phrase “motley crew,” which means a diverse and poorly organized group. Think of a band of pirates, or the assorted characters who became The Fellowship of the Ring. In contemporary usage, motley can be used in virtually any context as a synonym for mismatched, heterogeneous, or ragtag. Motley usually means “made up of many different people or things,” and often appears in the phrase “motley crew” or “motley mix.” It can also mean “variegated in color.” _Many of the jesters at the medieval festival were dressed in bright motley garb._ _Motley crew._ _A motley collection._  
 __motocyclist__ _n_  
@@ -12745,6 +12747,7 @@ __painter__
 __pairing__ _n_ _The final rankings and playoff pairings will be released Sunday._  
 __paisley__ _n_ :three::camera::hammer: _A green paisley bow tie._  
 __Pakistani__ _adj, n_ :mega: /ˌpɑːkɪˈstɑːnɪ/ /ˌpæk əˈstæn i, ˌpɑ kəˈstɑ ni/  
+__pal__ _n informal_ A close friend; comrade; chum.  
 __paladin__ _n_ :two: /PAL-uh-din/ A paladin is a leading champion of a cause, or a trusted military leader (as for a medieval prince). Someone who fights for a cause. _Syn_ champion, fighter, hero _The keynote speaker is regarded as a paladin of environmental justice._  
 __palanquin__ _n_ :two: A closed litter carried on the shoulders of four bearers. _Syn_ palankeen  
 __palatable__ _adj_ :six: /PAL-uh-tuh-bul/ __1__ Agreeable to one’s sense of taste or palate. _The soup was too bland for my taste, so I added some salt and pepper to make it palatable._ __2__ Agreeable or acceptable to the mind. _Those who are afraid of flying often consider traveling by train as the palatable alternative._  
@@ -13645,7 +13648,7 @@ __poaching__ _n_ :two: Cooking in simmering liquid. _Poaching has become sociall
 __pocket change__  
 __pocket rat__ _n_ Any of various rodents with cheek pouches.  
 __pocket square__ _n_ A handkerchief worn in a breast pocket as an accessory to a suit.  
-__pocket<sup>1</sup>__ _n_ :two: __11__ (football) The area a few yards behind the line of scrimmage that blockers attempt to keep clear so that the quarterback can pass the ball. _Standing tall in the pocket._  
+__pocket<sup>1</sup>__ _n_ :three: __7__ _games_ One of the pouchlike receptacles at the corners and sides of a billiard or pool table. :es: tronera __11__ (football) The area a few yards behind the line of scrimmage that blockers attempt to keep clear so that the quarterback can pass the ball. _Standing tall in the pocket._  
 __pocket<sup>2</sup>__ _v_  
 __pocketbook__  
 __pockmark__ _n_ __1__ _Pathology_ (pock) A a pitted scar left on the skin after the healing of a smallpox or similar pustule. __2__ Any pitting of a surface that resembles or suggests such scars.  
@@ -13908,7 +13911,7 @@ __preclude__ _v_
 __precocious__ _adj_ /prih-KOH-shus/  
 __preconception__ _n_  
 __predate__ _v_ :six::hammer: (predated) _The building predated the revolution._ _Those commandments predate the Bible._ _This standard predates the emergence of smartphones._  
-__predator__ _n_ :three::mega::hammer: /ˈprɛd ə tər, -ˌtɔr/  
+__predator__ _n_ :four::mega::hammer: /ˈprɛd ə tər, -ˌtɔr/  
 __prediabetes__  
 __predicament__ _n_ :nine::m: A situation, especially an unpleasant, troublesome, or trying one, from which extrication is difficult. _I’m sorry to see you in this predicament._ _Hearsay suggests that green apples can induce such a predicament._ _She was sorry for her daughter’s predicament._  
 __prediction__ _n_ :mega: /prɪˈdɪk ʃən/  
@@ -14592,7 +14595,7 @@ __ranking__ _adj_ A ranking person has a high, or the highest, position in an or
 __rankle__ _v_ :five: /RANK-ul/ (rankles, rankled) Gnaw into; make resentful or angry. _Syn_ eat into, grate, fret _If you were aiming to rankle me with your sexist comments, you succeeded!_ _Rae Ann’s snooty attitude and rude behavior rankled the host, but he smiled to hide his irritation._  
 __ransack__ _vt_ :nine: (ransacked) To search carefully for plunder; pillage. _Syn_ foray, reave, rifle, loot, plunder, strip _My apartment looked like a tornado had torn through it after it was ransacked by a band of thieves._  
 __ransom__ _n_  
-__ransomware__ _n_ :two: Malware that disables the normal operation of a computer until money or other ransom is paid to the person or organization responsible for the malware.  
+__ransomware__ _n_ :three: Malware that disables the normal operation of a computer until money or other ransom is paid to the person or organization responsible for the malware.  
 __rant__ _n, v_ :dart:  
 __rant<sup>1</sup>__ _n_ :two::hammer:  
 __rant<sup>2</sup>__ _v_ :two::hammer:  
@@ -15473,7 +15476,7 @@ __rusty-dusty__ _n_ The posterior; the buttocks. _I almost kicked him in the rus
 __rut__ _n_ :three::hammer: _Some guy with rut for brains._  
 __rutabaga__ _n_ /ˌruːtəˈbeɪgə/ :es: nabo  
 __ruthful__ _adj_  
-__ruthless__ _adj_ :two: Without pity or compassion; cruel; merciless. :es: despiadado, implacable  
+__ruthless__ _adj_ :dart::three: /ˈruθ lɪs/ Without pity or compassion; cruel; merciless. :es: despiadado, implacable  
 __rutilant__ _adj_ /ROOT-uh-luhnt/ [:scroll: From Latin rutilant, present participle of rutilare (to glow red), from rutilus (reddish)] Glowing, shining, or glittering with a red or golden light.  
 __rutted__ _adj_ /ˈrʌtɪd/ Very uneven, with long, deep, narrow marks made by the wheels of vehicles.  
 __RV pads__  
@@ -15509,6 +15512,7 @@ __safeguard<sup>2</sup>__ _v_ :three::hammer:
 __safekeeping__ _n_ :two: The act of keeping safe or the state of being kept safe; protection. _The Cardinal put his treasure in safekeeping and fled to Avignon, never to return._  
 __safety net__  
 __safety pin__ _n_ :two::hammer: :es: imperdible  
+__safety__ _n_ In the context of snooker, a “safety” is a shot that is intentionally played to make it difficult for the opponent to score points.  
 __saffron__ _n_ :four::hammer: :es: azafrán  
 __sag<sup>1</sup>__ _v_ :eight: (sagged, sagging) __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._  
 __sag<sup>2</sup>__ _n_ A decline, especially a temporary one.  
@@ -15928,10 +15932,10 @@ __Second Coming__ _n_ (Theology) The prophesied return of Christ to earth at the
 __second nature__  
 __second string__ _n_  
 __second wind__ _n_ Renewed energy or strength to continue an undertaking; _She had dinner and got a second wind to finish painting._  
-__second<sup>1</sup>__ _n_ :mega: /ˈsɛkənd/  
-__second<sup><2/sup>__ _vt_ _I second you._  
 __second-guess__ _v_ :seven::dart: (second-guessing)  
 __second-string__ _adj_ _Southhampton beat a largely second-string Arsenal team 2-0._  
+__second<sup>1</sup>__ _n_ :mega: /ˈsɛkənd/  
+__second<sup>2</sup>__ _vt_ _I second you._  
 __secret police__ _n_ A police force that operates secretly, esp. to suppress dissent against the government.  
 __secret weapon__ _n_ :six: Something that will help you gain a big advantage over your competitors, that they do not know about.  
 __secret__ _v_  
@@ -15978,12 +15982,14 @@ __select__ _adj_ :two::hammer: (vs selected) _Opens today in select cities._ _Fr
 __selectorate__ _n_ /si-LEK-tuhr-it/ /sɪˈlɛktərɪt/ [:scroll: A blend of select + electorate. Both from Latin legere (to choose).] A body of people responsible for making a selection, esp members of a political party who select candidates for an election.  
 __self-absorbed__ _adj_ :three::hammer: _Bill Murray is a self-absorbed weatherman in_ Groundhog Day.  
 __self-assured__ _adj_ :three: Having or showing confidence and poise. _Syn_ self-confident  
+__self-awareness__ _n_  
 __self-bailing__ _adj_ _Equipment includes self-bailing rafts with footcups._  
 __self-centered__ _adj_ Engrossed in oneself and one’s own affairs; selfish. _Self-centered actions._  
 __self-conscious__ _adj_ :seven: __1__ Unduly aware of oneself as the object of the attention of others; embarrassed. :es: acomplejado; cohibido, tímido  
 __self-deprecating__  
-__self-effacing__ _adj_ :three::astonished: Tending to make oneself, one’s actions, etc, inconspicuous, esp because of humility or timidity; modest.  
+__self-effacing__ _adj_ :five::astonished: Tending to make oneself, one’s actions, etc, inconspicuous, esp because of humility or timidity; modest.  
 __self-esteem__ _n_  
+__self-explanatory__ _adj_  
 __self-fulfilling__ _adj_ :five::hammer: _Self-fulfilling prophecy._  
 __self-hatred__ _n_ (self-hate) Hatred, disregard, and denigration of oneself.  
 __self-indulgent__ _adj_  
@@ -16004,6 +16010,7 @@ __seltzer__ _n_ __1__ A natural effervescent spring water of high mineral conten
 __semblance__ _n_ _The semblance of peace._  
 __semester__ _n_ A semester is half of a school year. In September of your first year of high school, you could describe yourself as “a first-semester freshman.” The noun semester comes up often when you’re in high school and college. It’s an easy way to divide the school year, into two equal halves, or semesters. Sometimes a class lasts for the whole year, and sometimes for just one semester. Occasionally schools split the year into three trimesters just to make things interesting. Originally, semester meant “six months,” from the Latin root of the same meaning, semestris.  
 __semi__ _n_ _informal_ __1a__ A semitrailer. __b__ A tractor-trailer.  
+__semi-final__ _n_ :pencil2:  
 __semi-finished__ _adj_ _Semi-finished lens._  
 __seminal__ _adj_ :two: Highly influential in an original way; constituting or providing a basis for further development. _Syn_ germinal, originative _He prepared a speech describing his experiment, never realizing that his presentation would be the seminal event in the development of a new theory._  
 __seminoles__  
@@ -16014,6 +16021,7 @@ __sendup__ _v_ _A sendup of the genre._
 __Seneca__ _n_ :astonished: __1__ A member of the Iroquoian people formerly living in New York state south of Lake Ontario. __2__ The Iroquoian language spoken by the Seneca people.  
 __seneschal__ _n_ :three: An official in a medieval noble household in charge of domestic arrangements and the administration of servants; a steward or major-domo.  
 __senile__  
+__senility__ _n_  
 __senior__ _adj_ Of a more advanced age. _Sixteen years her senior._  
 __sensei__ _n_ :mega:  
 __sensibility__ _n_ :two: /sen-suh-BIL-uh-tee/ Mental responsiveness; discernment; awareness. _Syn_ aesthesia _After nine months in a coma, the patient began to exhibit sensibility._  
@@ -16029,7 +16037,7 @@ __sentiment__ _n_ :two::hammer: _A sentiment which I heartily applaud._
 __sentry__ _n_ (sentries)  
 __separate__ _adj_ :two::hammer:  
 __seppuku__ _n_ :two::hammer:  
-__sepsis__ _n_ :three::hammer: _Sepsis occurs when the body’s response to infection is imbalanced._  
+__sepsis__ _n_ :four::hammer: _Sepsis occurs when the body’s response to infection is imbalanced._  
 __sepulcher__ _n_ :two::hammer::mega:  
 __sepulchre__ _n_ /SEP-ul-ker/ (mostly British) Sepulchre is an old-fashioned word for a tomb or other place of burial.  
 __sequela__ _n_ A morbid condition following or occurring as a consequence of another condition or event.  
@@ -16041,9 +16049,10 @@ __sequined__ _v_ :four::hammer:
 __sequiturs__  
 __sequoia__ _n_ [:scroll: C19: New Latin, named after Sequoya, known also as George Guess, (?1770–1843), American Indian scholar and leader]  
 __serac__ _n_ :three: (sérac) A pinnacle of ice among crevasses on a glacier, usually on a steep slope. A large pointed mass of ice in a glacier isolated by intersecting crevasses.  
+__serape__ _n_  
 __seraphic__ _adj_ /suh-RAF-ik/ [:scroll: From Latin seraphim, from Greek seraphim, from Hebrew seraphim, from saraph (to burn).] Like an angel: serene, beautiful, pure, blissful, etc.  
 __seratonin__ _n_ :mega:  
-__sere__ _adj_ :two: (sear) Dried up or withered. Withered; dry: _sere vegetation at the edge of the desert._ _Syn_ shriveled _The desert was edged with sere vegetation._  
+__sere__ _adj_ :three: (sear) Dried up or withered. Withered; dry: _sere vegetation at the edge of the desert._ _Syn_ shriveled _The desert was edged with sere vegetation._  
 __serein__ _n_  
 __serendipity__ _n_ :two: /sair-un-DIP-uh-tee/ Serendipity is luck that takes the form of finding valuable or pleasant things that are not looked for. _We found the restaurant by pure serendipity, rather than careful research, but it turned out to be the best deal in town._  
 __Serengeti__ _n_ :pencil2:  
@@ -16282,8 +16291,8 @@ __short hand__
 __short-charge__  
 __short-handed__ _adj_ :five: Lacking the usual or necessary number of workers, employees, or assistants. _The short-handed Blue Devils._ _The Bulls beat the short-handed Wizards._  
 __short-lived__ _adj_ :four: Living or lasting only a short time; ephemeral.  
-__short<sup><2/sup>__ _v_ _Every year, Americans short the IRS nearly half a trillion dollars._  
 __short<sup>1</sup>__ _n_  
+__short<sup>2</sup>__ _v_ _Every year, Americans short the IRS nearly half a trillion dollars._  
 __shortbread__ _n_ :three::hammer: [:scroll: From short (in the sense: crumbly)] _A rich crumbly biscuit made from dough with a large proportion of butter._  
 __shortchange__ _vt_ :five::hammer: (shortchanged) _I think people will be shortchanged._  
 __shortcoming__ _n_ :three::dart::hammer: (shortcomings) :es: defecto  

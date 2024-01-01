@@ -1,28 +1,3 @@
-__’tis__ _phr_ /tɪz/ A contraction of _it is._  
-__accomplice__ _n_  
-__audacity__ _n_  
-__bleak__  
-__burrow__ _v_  
-__carnage__ _n_ :mega: /ˈkɑr nɪdʒ/ The slaughter of a great number of people.  
-__floaty__ _adj_  
-__kerfuffle__ _n informal_ _chiefly Brit_ Commotion; disorder; agitation.  
-__legible__  
-__meddling__ _adj_ Intrusive in a meddling or offensive manner.  
-__motion sickness__ _n_ _Motion sickness pills._  
-__pal__ _n informal_ A close friend; comrade; chum.  
-__pocket__ _n_ __7__ _games_ One of the pouchlike receptacles at the corners and sides of a billiard or pool table. :es: tronera  
-__predator__ _n_ :mega: /ˈprɛd ə tər, -ˌtɔr/  
-__ransomware__ _n_  
-__ruthless__ _adj_ :dart: /ˈruθ lɪs/ Without pity or compassion; cruel; merciless.  
-__safety__ _n_ In the context of snooker, a “safety” is a shot that is intentionally played to make it difficult for the opponent to score points.  
-__self-awareness__ _n_  
-__self-effacing__ _adj_  
-__self-explanatory__ _adj_  
-__semi-final__ _n_ :pencil2:  
-__senility__ _n_  
-__sepsis__ _n_  
-__serape__ _n_  
-__sere__ _adj_ Withered; dry: _sere vegetation at the edge of the desert._  
 __serenade__ _n_ /ser-uh-NAYD/  
 __serial comma__ _n_ _Syn_ Oxford comma  
 __Sermon on the Mount__  
