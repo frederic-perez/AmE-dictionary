@@ -588,7 +588,7 @@ class Checker(object):
 
         undefined = {}
 
-        NUMBER_MIN = 8 # 7
+        NUMBER_MIN = 9 # 8 # 7
         NUMBER_MAX = 9
         for line in input_file:
             entry = line.replace('\n', '')
@@ -605,13 +605,16 @@ class Checker(object):
         size = len(undefined)
         if size > 0:
             undefined_sorted = sorted(undefined)
+            max_high_frequency_headwords_shown = 10
             print('Found ' + str(size) \
-                + ' undefined high frequency headwords, the very first being:')
+                + ' undefined high frequency headwords, the very first '
+                + str(max_high_frequency_headwords_shown)
+                + ' being:')
             i = 0
             for headword in undefined_sorted:
                 print('  ' + FAIL + headword + ' ' + OK_CYAN + undefined[headword] + END_C)
                 i += 1
-                if i == 4: # 10:
+                if i == max_high_frequency_headwords_shown:
                     break
         else:
             print('✅ ' + OK_GREEN + 'No undefined high frequency headwords were found' + END_C)
