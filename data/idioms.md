@@ -2088,6 +2088,7 @@ __go the extra mile__
 __go the way of the dinosaur(s)__ :two: To become extinct, obsolete, old-fashioned, or no longer in common use.  
 __go through a phase__ To experience or be in the midst of a temporary period of change, development, or fluctuation. _I went through a phase of being obsessed with superhero movies this summer._  
 __go through the roof__  
+__go tits up__ :dart: __1__ _rude slang_ To break or malfunction; to die, fall apart, or cease to work. (A play on the phrase “go belly up.” “Tits up” is sometimes hyphenated.) _Sorry, Mark, I’d love to give you a lift to the airport but my car’s gone tits up on me again._ _Jimmy Dean went tits-up in a car wreck._  
 __go to bed with the chickens__ To go to bed very early.  
 __go to Canossa__ :two: To become or make oneself humble; to do a penance or seek absolution for some wrong.  
 __go to great lengths (to do something)__ :six: To put in a lot of effort, energy, or work to achieve something. _We went to great lengths to ensure that this film was historically accurate._  
@@ -2111,7 +2112,7 @@ __go-to__
 __gobble down__ :two::hammer:  
 __gobble up__  
 __God bless you__  
-__God forbid__  
+__God forbid__ :two::hammer:  
 __God is in the detail(s)__ :two: _proverb_ Any action or plan one undertakes should be done carefully and pragmatically; attention to small details will ultimately yield the greatest results. _Remember that God is in the detail, so make sure everything is in order before you begin._  
 __God’s green earth__ :two: The entire planet; anywhere and everywhere.  
 __God’s honest truth__ The absolute, unequivocal truth. (I.e., as if spoken by God Himself.)  
@@ -2157,7 +2158,7 @@ __goody two-shoes__ _informal_
 __goody-goody__  
 __goof up__ :two::hammer:  
 __goof__  
-__goofball__  
+__goofball__ :two: __3__ A pill with a tranquilizing effect (often because it contains barbiturates), taken recreationally. _Tad took a goofball last night and passed out, man._  
 __goon__ _n_ :four::hammer:  
 __got them covered__  
 __grab a bite__  
@@ -2168,7 +2169,7 @@ __grand scheme__ :two: The long term; the complete picture of something. Typical
 __grand total__ The final amount after adding several different numbers or sums. _After everything was accounted for, the cost of remodeling the kitchen came to a grand total of $4,500._  
 __grande dame__ _n_  
 __grapes of wrath__ Wine. _Fred had taken a little too much of the grapes of wrath._  
-__grapple with (someone or something)__ :three::hammer: _Telehealth companies grapple with regulatory uncertainty._  
+__grapple with (someone or something)__ :four::hammer: _Telehealth companies grapple with regulatory uncertainty._  
 __grasp at straws__ To make a desperate attempt to salvage a bad situation.  
 __grasp in the dark__ :two: To seek out a solution, meaning, or sense of purpose in a blind, aimless, or uncertain manner.  
 __grasp the nettle__ _BrE_  
@@ -2183,7 +2184,7 @@ __great balls of fire__ An exclamation of surprise and amazement. Good heavens!;
 __great deal__ :dart: (often followed by \`of’) a large number or amount or extent. Much, a lot.  
 __Greek__ :two::astonished::hammer: _It’s all greek to me._ _It’s in Greek and almost impossible to decode._  
 __green folding__ Paper money, especially in large amounts. _How much green folding is this repair job gonna cost me?_  
-__green sheet__ In James Ellroy’s novels, the term “green sheet” is often used to refer to a document or record that contains information about a person or event. A “green sheet” is usually something that is kept by law enforcement or other authorities, and it contains details that are not publicly available or easily accessible. For example, a “green sheet” might contain information about a suspect in a crime, or about a witness who has given testimony in a trial.  
+__green sheet__ :two: In James Ellroy’s novels, the term “green sheet” is often used to refer to a document or record that contains information about a person or event. A “green sheet” is usually something that is kept by law enforcement or other authorities, and it contains details that are not publicly available or easily accessible. For example, a “green sheet” might contain information about a suspect in a crime, or about a witness who has given testimony in a trial.  
 __green thumb__ _Practical ideas for novice green thumbs and expert gardeners alike._  
 __green with envy__ :two: Very jealous of another person. _My daughter loves being on stage, so she is just green with envy that Alice got the lead in the school play._  
 __greener pastures__ :two: A better or more exciting job or place.  
@@ -2192,9 +2193,10 @@ __grifter__ :two: Someone who swindles other people. _Mom, don’t be a fool and
 __grill (someone) (about something)__ :two: To question or interrogate someone intensely and relentlessly (about something). _I wish my parents would stop grilling me about where I go with my friends at night!_  
 __grind (someone’s) gears__ :two: To greatly or specifically irritate or annoy someone. _It really grinds my gears when cyclists go zipping through red lights!_  
 __grínd one’s teeth__  
+__grind to a halt__ To halt progression very abruptly, especially in an ultimately detrimental or undesirable manner. Likened to a machine or automobile that stops functioning due to the grinding of gears. _Our project will grind to a halt if the CEO pulls his approval._  
 __grind__ __3__ _n informal_ A tedious or laborious routine, especially of work or study. _I’m lucky to have a job in today’s economy, but this daily grind is starting to get me down._  
 __gripe about (someone or something)__ To complain, often continually and in an irritating manner, about someone or something. _I turned the thermostat up, so you all can stop griping about how cold it is in here, thanks._  
-__grok__  
+__grok__ :two::hammer:  
 __groom (someone) for (something)__  
 __ground zero__ :two: __4__ :dart: The earliest possible starting point; the most basic, fundamental, or preliminary level. _The folder with my outline and notes got deleted, so now I have to start the whole project again from ground zero._  
 __ground-breaking__  
@@ -2208,14 +2210,17 @@ __guess again__ A rhetorical imperative indicating that the person being spoken 
 __guilt complex__ :two: A very strong and persistent feeling of guilt regarding something or some event. _John developed a guilt complex after forcing his brother to move out._  
 __guilty pleasure__ :four: Something that one enjoys or finds pleasurable but knows or feels to be bad, inferior, aberrant, or lowbrow, especially as might be perceived or judged by other people.  
 __gulp down__  
+__gun down__  
 __gun it__ :two: To accelerate or increase speed suddenly or rapidly; to travel or move very quickly. Usually said while traveling in an automobile. _We’ll have to gun it if we want to make it to the movie on time!_  
 __gung ho__  
+__gung-ho__ Exceptionally enthusiastic, eager, or zealous, sometimes overly so.  
 __gunk__ :two: __1__ _slang_ Any unpleasant residue or matter. The word originated as a trademark name for a degreasing solution. _You’re gonna need a more powerful cleaner to get that gunk off the sides of the tub._ __2__ _slang_ A glue or aerosol that one inhales in order to become high. _Gunk is dangerous stuff, you know._ __3__ Nonsense. __4__ A fool, a dullard. __5__ Anything worthless, unpleasant, undesired.  
 __gush over (someone or something)__  
 __gush over__ _v_ To speak or write about something or someone with wild enthusiasm: _They returned from the new store and gushed over the great shoes they had bought._  
 __gut bomb__ Any greasy, filling junk food.  
 __gut factor__  
 __gut feeling__ An intuition, an instinctive feeling about something.  
+__gut punch__ A “gut punch” is an expression that is typically used to describe a sudden, painful, or shocking experience that leaves a person feeling emotionally or physically drained. It can be used both figuratively and literally to describe something that is unexpectedly hurtful or upsetting.  
 __gut-bucket__ __1__ _offensive slang_ A derogatory term for a fat or obese person. _We left the bar when we realized it was seedy and filled with nothing but old gut-buckets looking for easy women._ __2__ A free-spirited style of jazz or blues music. _The band surprised the audience by playing a few of their songs in a gut-bucket style._ _A gut-bucket string band._ __3__ A stringed instrument used in folk music that is made from a metal washtub . _Grandpop brought out his old gut-bucket and started playing folk songs beside the fire._  
 __gut-wrenching__ :two: Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one’s feelings. _What a gut-wrenching loss for the young athlete, who poured her heart and soul into this match._  
 __gym bunny__ Someone who is obsessively preoccupied with maintaining or improving their physique and thus spends a large amount of time at the gym to do so.  
@@ -2226,7 +2231,7 @@ __Hail Mary__ :two: __1__ _American football_ A long forward pass with a low suc
 __hair-splitting__ :two::hammer:  
 __hair-splittingly__ With extremely minute, unimportant, or imperceptible differences or details. (Used before an adjective.)  
 __hale and hearty__ Healthy. _It’s true that she was in the hospital a few weeks ago, but she’s hale and hearty now._  
-__half-ass__ :dart::three: __1__ _v_ _rude slang_ To do something halfheartedly or without one’s full effort. _Did you half-ass these posters? There’s a bunch of misspellings, and the ink is all smudged._ __2__ _adj_ _rude slang_ Done halfheartedly or without one’s full effort. Also seen as “half-assed.” _It was just a half-ass attempt, so naturally it didn’t work._ _Look at these half-assed posters—there’s a bunch of misspellings, and the ink is all smudged._  
+__half-ass__ :dart::four: __1__ _v_ _rude slang_ To do something halfheartedly or without one’s full effort. _Did you half-ass these posters? There’s a bunch of misspellings, and the ink is all smudged._ __2__ _adj_ _rude slang_ Done halfheartedly or without one’s full effort. Also seen as “half-assed.” _It was just a half-ass attempt, so naturally it didn’t work._ _Look at these half-assed posters—there’s a bunch of misspellings, and the ink is all smudged._  
 __half-baked__  
 __half-pint__ Any small, weak, and/or insignificant person. Alludes to a pint, a unit of liquid measurement. _Don’t go picking a fight with me, half-pint, or I’ll knock you into next Tuesday!_  
 __half-wit__ An insulting term for person who is not very smart.  
@@ -2237,10 +2242,11 @@ __hamster wheel__ _These changes will get you off this hamster wheel._
 __hand (something) to (someone) on a plate__ To give or relinquish something to someone very easily, without them having to work very hard to get or achieve it. _The team’s defense has been atrocious today, handing a victory to their opponents on a plate._  
 __hand in__ To deliver or submit something to someone: _I handed in my homework._ _The committee finally handed the proposal in to the mayor._  
 __hand it to (someone)__ :dart: To give credit or recognition to someone for something they have done. _I’ve got to hand it to you, the company has really turned a corner since you started managing the accounts._  
-__hand out__  
+__hand out__ :two::hammer:  
 __hand-to-mouth__ Having, providing, or characterized by the bare minimum of money, food, or resources to survive, with little or nothing else to spare. _I enjoy being a college student, but I’m so sick of this hand-to-mouth lifestyle._  
 __hands down__ :eight: Easily, decisively, or without question. The term originates from horse racing, in which jockeys assured of a victory may lower their hold on the reins in the final stretch. _This is the best pie I’ve ever had, hands down!_ _We were really unprepared for our last game, and the other team won hands down._ _Hands down, best episode ever._ _It beats other cinemas hands down._  
 __hands off__ :two: An instruction for one to refrain from touching or handling (something or someone). (Usually said imperatively.) _Hey, hands off those cookies, they’re for after dinner!_  
+__hands-on__ __2__ Involving actual, practical use of something, such as a tool, piece of equipment, or program.  
 __handwaving__ _n_ :astonished::two: Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential. (Sometimes hyphenated or spelled as two words.) _Enough with the hand-waving—just give me a direct answer!_  
 __hang in the balance__ To be perilously close to failing, depending on the outcome of something. _The court is just about to issue its verdict, and our company’s future is hanging in the balance._  
 __hang on (one’s) words__ :two: To listen very closely, intently, or with obsequious attention to what one is saying. _The politician was so charismatic that he had even his detractors hanging on his words._  
@@ -2265,6 +2271,7 @@ __hard of hearing__
 __hard on the eyes__ :two: Unattractive; ugly.  
 __hard pressed__ :three: Overburdened, put upon, as in _With all these bills to pay we find ourselves hard pressed._ _You’ll be hard pressed to visit them._  
 __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is hard to come by in this economy._  
+__hard to say__ “Hard to say” is an idiomatic expression used to convey uncertainty or a lack of knowledge about something. It means that it’s difficult to predict or determine the outcome or the answer to a question, as the information is incomplete or unknown.  
 __hard-luck story__ A typically self-pitying tale of misfortune, hardship, adversity, etc., told especially to gain sympathy or charity from others.  
 __hard-nosed__ :two: Strict and/or unfeeling. _That guy seems so hard-nosed that I’m afraid to say hi to him!_  
 __hardliner__ :three: Someone who has an unyielding, inflexible belief in some person or thing. _Susan’s not a hardliner, so I really think she’ll listen to your views on the matter._  
@@ -2283,7 +2290,7 @@ __hatch out__
 __hate someone’s guts__ Thoroughly despise someone, as in _I hate Peter’s guts._ The _guts_ here refers to a person’s inner essence.  
 __hats and bats__ _n_ _(US police)_ Equipped with helmets and nightsticks.  
 __have (a) skeleton(s) in (one’s)/the closet__ :three: To have (an) embarrassing, unpleasant, damaging, or incriminating secret(s) from one’s past. Primarily heard in US. _Even the most seemingly perfect people have some pretty shocking skeletons in their closets._  
-__have (got) (someone’s) back__ :seven: To be willing and prepared to help or defend someone; to look out for someone in case they need assistance. _Don’t worry about those thugs, buddy. I’ve got your back if they ever come bother you again._ _Thanks for having my back._ _I’ve got your back._  
+__have (got) (someone’s) back__ :eight: To be willing and prepared to help or defend someone; to look out for someone in case they need assistance. _Don’t worry about those thugs, buddy. I’ve got your back if they ever come bother you again._ _Thanks for having my back._ _I’ve got your back._  
 __have (got) (someone) pegged as (something)__ To distinctly regard someone as being a certain type of person.  
 __have (got) a knack for (something)__ :two: To be exceptionally proficient at (doing) something. _I don’t know what it is, but David just has a knack for getting under my skin._  
 __have (got) game__ _slang_ __1__ To be especially talented or adept at something, typically sports. _I know that guy’s small, but don’t underestimate him on the court—he’s got game._ __2__ To be very skilled at initiating a conversation with someone with the aim of having a romantic or sexual encounter with them. _Wow, you got his number? Dang, girl, you’ve got game!_  
@@ -2329,7 +2336,7 @@ __have a hard time with (someone or something)__
 __have a heart of glass__ To have or be in a state of extreme emotional fragility or susceptibility, one that is easily influenced or affected by others. _Poor Mary has a heart of glass; I don’t know how she’ll recover from Tom’s refusal to go to the prom with her._  
 __have a heart of gold__ :two: To be very kind and generous.  
 __have a heavy heart__ :dart: To have a dejected or miserable attitude or disposition; to be in a depressed or grievous state. _I’ve had a terribly heavy heart since my dog passed away._  
-__have a leg up__ To be in a position of advantage (over someone else). _One must always be looking for ways to have a leg up if one wants to succeed in this business._  
+__have a leg up__ :two: To be in a position of advantage (over someone else). _One must always be looking for ways to have a leg up if one wants to succeed in this business._  
 __have a light heart__ To have a carefree, uplifted attitude; to be in a happy or gladdened state or condition. _Though it is, of course, bittersweet to leave my friends and family behind, I have a light heart because of the amazing opportunities that await me in Europe._  
 __have a look-see__ :dart::two: To have a very quick look or brief examination. _A: “Is there any more of that cake left in the fridge?” B: “I’ll go have a look-see!”_  
 __have a lump in (one’s) throat__ To have difficulty speaking as a result of feeling that one is about to cry due to an intense emotional response to something. _Though I was excited for my daughter to start her college experience, I still had a lump in my throat saying goodbye to her at the airport._  
@@ -2339,19 +2346,22 @@ __have a nodding acquaintance (with someone or something)__ To have a slight or 
 __have a point (there)__ _He’s got a point._  
 __have a say (in something)__ :three: To have an active and participatory role in making or influencing a decision about something. _He has a say in the matter._  
 __have a screw loose__  
-__have a sneaking suspicion__ To have a slight but persistent premonition or intuition (about something).  
-__have a thing for (someone)__ To have a romantic infatuation with someone, especially unbeknownst to that person.  
-__have a trick up (one’s) sleeve__ :two: To have a secret plan, idea, or advantage that can be utilized if and when it is required. A reference to cheating at a card game by hiding a favorable card up one’s sleeve.  
+__have a sneaking suspicion__ :two: To have a slight but persistent premonition or intuition (about something).  
+__have a thing for (someone)__ :two: To have a romantic infatuation with someone, especially unbeknownst to that person. _I had a thing for one of my colleagues for a while, but I decided not to pursue it for the sake of our work._  
+__have a thing for (something)__ To have a very keen or particular interest in something; to really like or enjoy something. _I know they’re stupid, but I’ve always had a thing for cheesy horror movies._  
+__have a trick up (one’s) sleeve__ :two: To have a secret plan, idea, or advantage that can be utilized if and when it is required. A reference to cheating at a card game by hiding a favorable card up one’s sleeve. _I’ve got a few tricks up my sleeve if he decides to pursue legal action against me._  
+__have a voice (in something)__ To have an active and participatory role in making or influencing a decision about something.  
 __have a yen for (something)__ To have a very strong and persistent desire or craving for something.  
+__have a/the right to (something)__  
 __have a/the wolf by the ear(s)__ To be in a difficult situation from which it is as dangerous to extricate oneself as it is to remain in it.  
 __have an itch for (something)__ To have an interest in or desire to do something. _I have an itch for another road trip, but I’m not sure where to go._  
 __have bats in the belfry__  
 __have bigger fish to fry__ :two: To have more important things to do.  
 __have butterflies on one’s stomach__  
 __have done with (someone or something)__ To be finished with someone or something; to cease being involved with someone or something.  
-__have egg on (one’s) face__ To be embarrassed by something one has done. (As if one went out in public with a dirty face.)  
-__have enough on (one’s) plate__ To be sufficiently busy or preoccupied with work, problems, or difficulties as to be unable or unwilling to cope with anything more.  
-__have eyes bigger than (one’s) stomach__ To take more food than one is actually capable of eating.  
+__have egg on (one’s) face__ :two: To be embarrassed by something one has done. (As if one went out in public with a dirty face.)  
+__have enough on (one’s) plate__ :two: To be sufficiently busy or preoccupied with work, problems, or difficulties as to be unable or unwilling to cope with anything more.  
+__have eyes bigger than (one’s) stomach__ :two: To take more food than one is actually capable of eating. _I always have eyes bigger than my stomach when I go to all-you-can-eat buffets!_  
 __have good antennae__ To be very sensitive (to something); to have a keen sense of detection or perception. Likened to the antennae of (e.g.) an insect, which are extremely sensitive to environmental stimuli.  
 __have had (one’s) chips__ To be defeated; to fail completely; to die or be killed. A reference to chips (small plastic disks) used to make wagers when gambling.  
 __have hot pants (for someone)__  

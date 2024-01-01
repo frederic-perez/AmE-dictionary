@@ -1,28 +1,3 @@
-__go tits up__ :dart: __1__ _rude slang_ To break or malfunction; to die, fall apart, or cease to work. (A play on the phrase “go belly up.” “Tits up” is sometimes hyphenated.) _Sorry, Mark, I’d love to give you a lift to the airport but my car’s gone tits up on me again._ _Jimmy Dean went tits-up in a car wreck._  
-__God forbid__  
-__goofball__ __3__ A pill with a tranquilizing effect (often because it contains barbiturates), taken recreationally. _Tad took a goofball last night and passed out, man._  
-__grapple with (someone or something)__  
-__green sheet__  
-__grind to a halt__ To halt progression very abruptly, especially in an ultimately detrimental or undesirable manner. Likened to a machine or automobile that stops functioning due to the grinding of gears. _Our project will grind to a halt if the CEO pulls his approval._  
-__grok__  
-__gun down__  
-__gung-ho__ Exceptionally enthusiastic, eager, or zealous, sometimes overly so.  
-__gut punch__ A “gut punch” is an expression that is typically used to describe a sudden, painful, or shocking experience that leaves a person feeling emotionally or physically drained. It can be used both figuratively and literally to describe something that is unexpectedly hurtful or upsetting.  
-__half-ass__  
-__hand out__  
-__hands-on__ __2__ Involving actual, practical use of something, such as a tool, piece of equipment, or program.  
-__hard to say__ “Hard to say” is an idiomatic expression used to convey uncertainty or a lack of knowledge about something. It means that it’s difficult to predict or determine the outcome or the answer to a question, as the information is incomplete or unknown.  
-__have (got) (someone’s) back__  
-__have a leg up__  
-__have a sneaking suspicion__ To have a slight but persistent premonition or intuition (about something).  
-__have a thing for (someone)__ To have a romantic infatuation with someone, especially unbeknownst to that person. _I had a thing for one of my colleagues for a while, but I decided not to pursue it for the sake of our work._  
-__have a thing for (something)__ To have a very keen or particular interest in something; to really like or enjoy something. _I know they’re stupid, but I’ve always had a thing for cheesy horror movies._  
-__have a trick up (one’s) sleeve__ To have a secret plan, idea, or advantage that can be utilized if and when it is required. A reference to cheating at a card game by hiding a favorable card up one’s sleeve. _I’ve got a few tricks up my sleeve if he decides to pursue legal action against me._  
-__have a voice (in something)__ To have an active and participatory role in making or influencing a decision about something.  
-__have a/the right to (something)__  
-__have egg on (one’s) face__  
-__have enough on (one’s) plate__  
-__have eyes bigger than (one’s) stomach__ To take more food than one is actually capable of eating. _I always have eyes bigger than my stomach when I go to all-you-can-eat buffets!_  
 __have good antennae__ To be very sensitive (to something); to have a keen sense of detection or perception. Likened to the antennae of (e.g.) an insect, which are extremely sensitive to environmental stimuli. _The best teacher must have good antennae for any emotional difficulties their students may be going through._  
 __have got to (do something)__ To be obligated, obliged, or required to (do something). _I don’t want to go to the family reunion, but I’m afraid I’ve got to._  
 __have had (one’s) chips__ To fail or be defeated; to die or be killed. A reference to chips (small plastic disks) used to make wagers when gambling. _We tried to keep our business open through this recession, but we’ve had our chips at this point._  
