@@ -1,28 +1,3 @@
-__a no-no__ Something, typically an action, that is objectionable or prohibited.  
-__akin to (something)__ Having similar properties, characteristics, or aspects to something; analogous to something.  
-__be all ears__  
-__call for__ To require as necessary or appropriate the job calls for typing skills.  
-__come to terms with__  
-__creep in__ To enter some thing, place, or situation slowly or stealthily.  
-__flare up__  
-__for real__ _North American informal_ Used to assert that something is genuine or is actually the case.  
-__get over it__ :dart:  
-__gobble down__  
-__have good antennae__ To be very sensitive (to something); to have a keen sense of detection or perception. Likened to the antennae of (e.g.) an insect, which are extremely sensitive to environmental stimuli. _The best teacher must have good antennae for any emotional difficulties their students may be going through._  
-__have got to (do something)__ To be obligated, obliged, or required to (do something). _I don’t want to go to the family reunion, but I’m afraid I’ve got to._  
-__have had (one’s) chips__ To fail or be defeated; to die or be killed. A reference to chips (small plastic disks) used to make wagers when gambling. _We tried to keep our business open through this recession, but we’ve had our chips at this point._  
-__have it easy__ To have or be in a particularly comfortable or relaxed position, status, or condition, such that makes for an easier life. _I get over a month of paid time off each year, so I feel like I have it pretty easy compared to other people I know._  
-__have it out (with someone)__ To have an argument, verbal fight, or frank discussion (with someone), especially to settle something that has caused anger, frustration, or annoyance. _I had to have it out with my roommate because he never does his share of cleaning in the house._ _Tom and his boyfriend are always having it out._  
-__have its/(one’s) day__ To be at the height of or experience success or prosperity. _Any of you who is determined and willing to put in hard work will have her day eventually._  
-__have no time for (someone or something)__ To have no respect for, interest in, or approval of someone or something and thus have no desire to be involved with him, her, or it. _I have no time for people who belittle or harass others for their own enjoyment._  
-__have nothing to do__ To have no tasks or actions that one must complete or undertake; to have nothing with which to occupy one’s time.  
-__have rocks in (one’s) head__ To be thoroughly stupid, crazy, absurd, incorrect, etc. _You must have rocks in your head if you think the bank will approve you for another loan._  
-__have seen (one’s) day__ To be beyond one’s prime; to be no longer useful, effective, or functional.  
-__have skin in the game__  
-__have someone pegged__  
-__have the better of (someone or something)__ To have or gain superiority, mastery, or an advantage over someone or something; to have control over someone or something. _I knew I shouldn’t be meddling in other people’s business, but my curiosity had the better of me._  
-__have the courage of (one’s) convictions__ To have the confidence to act or behave in accordance with one’s beliefs or ideologies, especially in the face of resistance, criticism, or persecution. _The governor was presented with a bribe to help the corporation avoid regulation, but she had the courage of her conviction to refuse such an offer._  
-__have the feel of (something)__ To have a general sense of how to do or use something or how something operates; to be familiar with something. _Though it’s radically advanced from my last computer, I’m starting to have the feel of this newer model._  
 __have the floor__ To have the right or opportunity to speak in a group, especially at a formal event or gathering.  
 __have the goods on (someone)__ To have scandalous, incriminating, or otherwise damaging evidence or information about someone. _We know he’s guilty, but we can’t arrest him until we have the goods on him._  
 __have the guts (to do something)__ To have enough courage, conviction, or resolve (to do something). _You’re always talking about quitting your job, but I don’t think you have the guts._  

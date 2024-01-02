@@ -186,6 +186,7 @@ __a mother hen__ A person who looks out for the welfare of others, especially to
 __a motor mouth__ :two: A person who talks incessantly or irrepressibly. _You need to quit being such a motor mouth in the classroom!_  
 __a necessary evil__  
 __a night out__ :two: An evening spent having an enjoyable time away from home, as in a restaurant, theater, bar, or other such locations. _I never knew how much I would miss being able to have a night out once we had kids._  
+__a no-no__ Something, typically an action, that is objectionable or prohibited.  
 __a numbers game__  
 __a people person__ :two: Someone who is particularly gregarious, affable, or outgoing; someone with great interpersonal communication skills. _The new manager is a real people person, there’s no doubting that; I just hope his management skills are up to snuff as well._  
 __a piece of cake__ :two::hammer:  
@@ -274,7 +275,7 @@ __ahead of time__ :two::hammer: _A day ahead of time._ _I apology ahead of time.
 __ahead of__ _Energy talks look likely this week, ahead of the Monday deadline._  
 __ahoy there, me hearties__  
 __air rage__ Sudden, unruly, and often violently aggressive behavior of a passenger aboard an airplane, generally while in the air, which puts the safety of other passengers, the crew, or the airplane at risk. The term is modeled on “road rage,” which is the equivalent behavior in relation to driving. _Airline crews are trained to diffuse incidents of air rage, which often start as minor disputes between passengers._  
-__akin to (something)__  
+__akin to (something)__ :two: Having similar properties, characteristics, or aspects to something; analogous to something.  
 __al fresco__  
 __alarm bell__ A sudden warning or intimation of danger, risk, or ill fortune. (Often pluralized.) _Alarm bells were going off in my head when I saw the panicked expression on her face._  
 __alive and kicking__  
@@ -536,6 +537,7 @@ __be a long shot__ To be very risky, uncertain, or unlikely to succeed. (Of an a
 __be a loud mouth__ To have a tendency or habit of speaking incessantly, indiscreetly, and/or in a noisy, boastful manner. _If I had known you were such a loud mouth, I’d have never shared my secret with you!_  
 __be a roaring success__ To be extremely or triumphantly successful.  
 __be all and end all__ (be-all and end-all) The quintessential or all-important element.  
+__be all ears__  
 __be as good as gone__ To be very nearly, inevitably, or for all intents and purposes lost, departed, defunct, or deceased.  
 __be at (one’s) wit’s end__  
 __be at a crossroads__  
@@ -955,6 +957,7 @@ __call ahead__ _Travelers can also call ahead for a door to door shuttle._
 __call bullshit__ State that some given information is incorrect. _A: “The first president of the U.S.A. was Thomas Jefferson.” B: “I’m gonna have to call bullshit on that.”_  
 __call dibs (on something)__ _slang_ :dart: To claim the right to do or choose something first before others. “Dibs” is a shortening of “dibstones,” counters used in an 18th-century children’s game. _Hey, I called dibs on sitting in the front seat of the car!_ _Whoever calls dibs can have this last piece of cake._  
 __call down__ __5__ To invoke or request divine intervention. A noun or pronoun can be used between “call” and “down.” _I wouldn’t cross a woman who converses with the spirits—who knows what kinds of punishments she can call down on us!_ _He called down a curse upon the King and his descendants._  
+__call for__ To require as necessary or appropriate the job calls for typing skills.  
 __call it a day__ :two::hammer: _If there are no further points, then let’s call it a day._  
 __call it even__ :two: To acknowledge or consider a situation or exchange as being equal or equitable, as regarding debt, status, ability, a contest, etc. _I’ll pay the Internet bill if you’ll pay the electricity bill, and then we’ll just call it even._  
 __call of nature__ The need to go to the toilet.  
@@ -1175,7 +1178,7 @@ __come to an end__
 __come to fruition__ :four: To successfully be brought into existence or to completion.  
 __come to grips with (someone or something)__ :two::hammer:  
 __come to grips__ :two::hammer:  
-__come to terms with (someone or something)__ :nine: To begin to or make an effort to understand, accept, and deal with a difficult or problematic person, thing, or situation. I_ should have the report ready for you by this afternoon, I just need to come to terms with this new software update first._ _I’ve tried, but I just can’t come to terms with Amy, she’s totally out of control!_  
+__come to terms with (someone or something)__ :nine::m: To begin to or make an effort to understand, accept, and deal with a difficult or problematic person, thing, or situation. I_ should have the report ready for you by this afternoon, I just need to come to terms with this new software update first._ _I’ve tried, but I just can’t come to terms with Amy, she’s totally out of control!_  
 __come to terms__ :two: Come to terms (about someone or something), and come to terms (on someone or something) [for two or more people]: To reach an accord on someone or something. _Ed and Alice came to terms about money._ _They did not come to terms on the price._  
 __come to the fore__  
 __come to think of it__ :dart::two: _set phrase_ Used when one has had a sudden realization. _Yeah, come to think of it, Dave was at the party, too._ _Come to think of it, I haven’t seen too many bullshitters since the war started._  
@@ -1247,6 +1250,7 @@ __crazy town__
 __crazy__  
 __creature of habit__ :two: One who prefers the comfort and reliability of routine and habitual behavior. _My brother is far too much a creature of habit to be up for something like backpacking across Europe._  
 __cred__ A shortening of “credibility,” referring to one’s ability to be accepted or deemed legitimate in a particular situation or group. _A scrawny geek like me has no cred with the jocks._  
+__creep in__ To enter some thing, place, or situation slowly or stealthily.  
 __creep into (some place)__ To enter some place stealthily.  
 __creep on (someone or something)__  
 __creep out__ __2__ _slang_ To make someone feel nervous, uncomfortable, and slightly frightened. In this usage, a noun or pronoun is commonly used between “creep” and “out.” _I’m OK with most bugs, but centipedes just creep me out, man._  
@@ -1705,6 +1709,7 @@ __fizzle__ __2__ To fail or weaken, often slowly over time. _No, I don’t have 
 __flake out__  
 __flap (one’s) gums__ To chatter or blather. _Quit flapping your gums—I need some quiet so I can think!_  
 __flapdoodle__ Nonsense or foolishness. _His explanation is total flapdoodle and doesn’t answer the question at all._  
+__flare up__  
 __flash__ :two: __1__ _v_ _slang_ To expose one’s nudity indecently. _She flashed me anyway._  
 __flat out__  
 __flat-earther__  
@@ -1760,7 +1765,7 @@ __for no good reason__ With no acceptable explanation. _She left for no good rea
 __for one__ :three: As one example or reason (out of several potential ones). Often used after a name or personal pronoun to count someone or oneself as an example of something. _Why don’t I like musicals? Well, for one, I just can’t take a story seriously when it’s set to music._ _Rhode Island, for one, is well on the way to meeting the goals._  
 __for peanuts__ For a very paltry or minuscule amount of money; for nearly no money or the absolute minimum amount. _I managed to get tickets! Suzy’s brother has a connection in the stadium, so we got them for peanuts!_  
 __for Pete’s sake__  
-__for real__  
+__for real__ :two: _North American informal_ Used to assert that something is genuine or is actually the case.  
 __for someone (or something’s) sake__ _For comparison’s sake, it hit 90 twice here all of last July._  
 __for that matter__ :two::hammer:  
 __for the ages__ :four: That will stand the test of time; that will be remembered or regarded for years to come. _A comeback for the ages._ _A year for the ages._ _He put together a run for the ages._  
@@ -1923,7 +1928,7 @@ __get out of Dodge__ To leave, especially to leave a difficult or dangerous envi
 __get out of town__ :three::hammer:  
 __get out__  
 __Get outta here!__  
-__get over it__ To move on and accept things the way they are; to stop being concerned by or with something that is in the past or can’t be changed. Often used as an imperative. _Look, I’m going to marry him whether you want me to or not. Get over it!_  
+__get over it__ :dart::two: To move on and accept things the way they are; to stop being concerned by or with something that is in the past or can’t be changed. Often used as an imperative. _Look, I’m going to marry him whether you want me to or not. Get over it!_  
 __get over someone or something__ _They’re getting over their heads._  
 __get real__  
 __get shut-eye__ _I’ll get some shut-eye._  
@@ -2109,7 +2114,7 @@ __go-round__ _The fourth go-round in the_ Madagascar _franchise._
 __go-to girl__  
 __go-to guy__  
 __go-to__  
-__gobble down__ :two::hammer:  
+__gobble down__ :three::hammer:  
 __gobble up__  
 __God bless you__  
 __God forbid__ :two::hammer:  
@@ -2362,27 +2367,30 @@ __have done with (someone or something)__ To be finished with someone or somethi
 __have egg on (one’s) face__ :two: To be embarrassed by something one has done. (As if one went out in public with a dirty face.)  
 __have enough on (one’s) plate__ :two: To be sufficiently busy or preoccupied with work, problems, or difficulties as to be unable or unwilling to cope with anything more.  
 __have eyes bigger than (one’s) stomach__ :two: To take more food than one is actually capable of eating. _I always have eyes bigger than my stomach when I go to all-you-can-eat buffets!_  
-__have good antennae__ To be very sensitive (to something); to have a keen sense of detection or perception. Likened to the antennae of (e.g.) an insect, which are extremely sensitive to environmental stimuli.  
-__have had (one’s) chips__ To be defeated; to fail completely; to die or be killed. A reference to chips (small plastic disks) used to make wagers when gambling.  
+__have good antennae__ :two: To be very sensitive (to something); to have a keen sense of detection or perception. Likened to the antennae of (e.g.) an insect, which are extremely sensitive to environmental stimuli. _The best teacher must have good antennae for any emotional difficulties their students may be going through._  
+__have got to (do something)__ To be obligated, obliged, or required to (do something). _I don’t want to go to the family reunion, but I’m afraid I’ve got to._  
+__have had (one’s) chips__ :two: To be defeated; to fail completely; to die or be killed. A reference to chips (small plastic disks) used to make wagers when gambling. _We tried to keep our business open through this recession, but we’ve had our chips at this point._  
 __have hot pants (for someone)__  
-__have it easy__ To have or be in a particularly comfortable or relaxed position, such that makes for an easier life.  
-__have it out (with someone)__ To have an argument, verbal fight, or frank discussion (with someone), especially to settle something that has caused anger, frustration, or annoyance.  
-__have its/(one’s) day__ :three: To be at the height of or experience success or prosperity. _The smartphone is really having its day it seems._ _Any of you who is determined and willing to put in hard work will have her day eventually._  
+__have it easy__ :two: To have or be in a particularly comfortable or relaxed position, status, or condition, such that makes for an easier life. _I get over a month of paid time off each year, so I feel like I have it pretty easy compared to other people I know._  
+__have it out (with someone)__ :two: To have an argument, verbal fight, or frank discussion (with someone), especially to settle something that has caused anger, frustration, or annoyance. _I had to have it out with my roommate because he never does his share of cleaning in the house._ _Tom and his boyfriend are always having it out._  
+__have its/(one’s) day__ :four: To be at the height of or experience success or prosperity. _The smartphone is really having its day it seems._ _Any of you who is determined and willing to put in hard work will have her day eventually._  
 __have more than one string to (one’s) bow__ To have multiple viable options or alternatives available in the event that the current course of action, circumstance, opportunity, etc., does not work out. _With all this varied job experience under my belt, I have more than one string to my bow if this particular career path isn’t to my liking._  
 __have nine lives__ To endure, continue, or survive despite a near encounter with death or disaster. From the common myth that cats have nine lives. _I can’t believe he survived after his bungee cord snapped! He must have nine lives or something._  
 __have no spine__ To have no courage, resolve, or strength of character. _I just wish Tom would have stood up for our team when the CEO started criticizing our work. For a manager, he seems to have no spine._  
-__have no time for (someone or something)__ To have no respect for, interest in, or approval of someone or something and thus have no desire to be involved with him, her, or it.  
+__have no time for (someone or something)__ :two: To have no respect for, interest in, or approval of someone or something and thus have no desire to be involved with him, her, or it. _I have no time for people who belittle or harass others for their own enjoyment._  
+__have nothing to do__ To have no tasks or actions that one must complete or undertake; to have nothing with which to occupy one’s time.  
 __have one foot in the grave__ To be very old and close to death.  
 __have one’s cake and eat it too__  
 __have one’s heart in it__ (put one’s heart in it) Be emotionally involved in something, undertake something enthusiastically, as in _Nancy puts her heart in her teaching._ This expression may also be put negatively as one’s heart is not in it, as in _She decided to quit; her heart just wasn’t in this kind of work._  
-__have rocks in (one’s) head__ To be thoroughly stupid, crazy, absurd, incorrect, etc.  
-__have seen (one’s) day__ To be beyond one’s prime; to be no longer useful, effective, or functional.  
-__have skin in the game__ :two: To have a personal investment, usually monetary, in the pursuit of some goal or achievement, especially in business and finance. _I have no skin in the game._  
-__have someone pegged__ :two: _She had me pegged on that, too._ _You got me pegged._ :es: Me has calado.  
+__have rocks in (one’s) head__ :two: To be thoroughly stupid, crazy, absurd, incorrect, etc. _You must have rocks in your head if you think the bank will approve you for another loan._  
+__have seen (one’s) day__ :two: To be beyond one’s prime; to be no longer useful, effective, or functional.  
+__have skin in the game__ :three: To have a personal investment, usually monetary, in the pursuit of some goal or achievement, especially in business and finance. _I have no skin in the game._  
+__have someone pegged__ :three::hammer: _She had me pegged on that, too._ _You got me pegged._ :es: Me has calado.  
 __have someone’s number__ If you have someone’s number, you understand what kind of person they are, and so you know how to deal with them. Understand a person’s real motives or character and thereby gain some advantage. _Oh, don’t worry — I won’t let him cheat me. I’ve got his number._  
 __have teeth__ To have enough power or support of authority to compel obedience or punish offenders, as of a law. _This new law against littering has teeth, so if you don’t pick up your trash, you’ll get a hefty fine._  
-__have the better of (someone or something)__ To have or gain superiority, mastery, or an advantage over someone or something; to have control over someone or something.  
-__have the feel of (something)__ To have a general sense of how to do or use something or how something operates; to be familiar with something.  
+__have the better of (someone or something)__ :two: To have or gain superiority, mastery, or an advantage over someone or something; to have control over someone or something. _I knew I shouldn’t be meddling in other people’s business, but my curiosity had the better of me._  
+__have the courage of (one’s) convictions__ To have the confidence to act or behave in accordance with one’s beliefs or ideologies, especially in the face of resistance, criticism, or persecution. _The governor was presented with a bribe to help the corporation avoid regulation, but she had the courage of her conviction to refuse such an offer._  
+__have the feel of (something)__ :two: To have a general sense of how to do or use something or how something operates; to be familiar with something. _Though it’s radically advanced from my last computer, I’m starting to have the feel of this newer model._  
 __have the floor__ To have the right or opportunity to speak in a group, especially at a formal event or gathering.  
 __have the goods on (someone)__ :two: To have incriminating evidence or proof against someone. _We know he’s guilty, but we can’t arrest him until we have the goods on him._ _I got the goods on you._  
 __have the heart (to do something)__ To be hard hearted, callous, or unsympathetic (enough to do something); to have the emotional resolve (to do something). Usually used in the negative. _I didn’t have the heart to tell her that I didn’t love her anymore._  
