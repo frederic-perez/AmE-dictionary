@@ -1,3 +1,13 @@
+__a no-no__ Something, typically an action, that is objectionable or prohibited.  
+__akin to (something)__ Having similar properties, characteristics, or aspects to something; analogous to something.  
+__be all ears__  
+__call for__ To require as necessary or appropriate the job calls for typing skills.  
+__come to terms with__  
+__creep in__ To enter some thing, place, or situation slowly or stealthily.  
+__flare up__  
+__for real__ _North American informal_ Used to assert that something is genuine or is actually the case.  
+__get over it__ :dart:  
+__gobble down__  
 __have good antennae__ To be very sensitive (to something); to have a keen sense of detection or perception. Likened to the antennae of (e.g.) an insect, which are extremely sensitive to environmental stimuli. _The best teacher must have good antennae for any emotional difficulties their students may be going through._  
 __have got to (do something)__ To be obligated, obliged, or required to (do something). _I don’t want to go to the family reunion, but I’m afraid I’ve got to._  
 __have had (one’s) chips__ To fail or be defeated; to die or be killed. A reference to chips (small plastic disks) used to make wagers when gambling. _We tried to keep our business open through this recession, but we’ve had our chips at this point._  
@@ -78,6 +88,7 @@ __jerry-built__ _mod._ Carelessly and awkwardly built. _The lawyer’s case was 
 __jump the gun__  
 __jump-start__  
 __keen on (someone or something)__  
+__keep (someone or something) in check__  
 __keep harping on about (someone or something)__ To continue to discuss, mention, or gripe about someone or something in a very persistent and irritating manner. _My roommate keeps harping on about all the irritating people she works with. I wish she would just find a different job already._  
 __keester__ :two: __1__ In the context of James Ellroy’s novels, “keester” generally means to conceal or hide something in a secret or hidden place. It’s often used in reference to illegal or illicit activities, like hiding contraband or stashing stolen goods. __2__ _n_ A chest; a suitcase. _The old lady was hauling the most enormous keester._ __3__ _n_ The buttocks; the anus. _Get your keester over here!_  
 __kick in the ass__  
@@ -95,6 +106,8 @@ __let down__
 __let’s face it__ We need to recognize the truth; we should face reality.  
 __ley go__  
 __light on (one’s) feet__  
+__like greased lightning__ Extremely fast.  
+__like sardines__  
 __line up__  
 __lionhearted__ _adj_  
 __long and hard__ :two: The phrase “long and hard” is an idiom that generally means something that requires a lot of time, effort, or energy to accomplish. It’s often used to describe a task or project that is difficult or challenging, but also requires patience and perseverance to complete. _I thought long and hard about it._  
@@ -120,6 +133,7 @@ __make sense__ To be understandable. _John doesn’t make sense._ _What John say
 __mama bear__  
 __manosphere__  
 __Mary Jane__ :two::hammer:  
+__meant to be__  
 __megillah__ /məˈgɪlə/ _n_ A long and complicated story.  
 __Merc__ _n_ _slang_ Clipping of Mercedes-Benz (an automotive brand or marque from Daimler-Benz).  
 __mic drop__  
@@ -148,6 +162,7 @@ __no sale__ I reject the request, offer, or plan in question. No.
 __no shit__  
 __noblesse obligé__ (noblesse oblige) Altruistic, honorable behavior or deeds that are an assumed responsibility of people of nobility or, more broadly, economic privilege. Taken from French, literally meaning “nobility obligates.”  
 __non sequitur__  
+__nook and cranny__ Every possible place or part of something, down to the smallest ones.  
 __nosh__ :two: __2__ _v_ _slang_ To munch on some food, especially a small meal or light snack.  
 __not know (one) from Adam__  
 __not know (one) from Eve__  
@@ -167,6 +182,7 @@ __on (one’s) own__
 __on a mission__  
 __on a roll__  
 __on and on__  
+__on end__ Continuously and without stopping. Used after a unit of time, such as “hours” or “days.” _I could talk for hours on end about trains._  
 __on point__  
 __on record__ __on the books__ Recorded for future reference. _We had the coldest winter on record last year._ _This is the fastest race on record._  
 __on that note__  
@@ -326,6 +342,7 @@ __secretor__ A “secretor” in James Ellroy’s novels is essentially a charac
 __see somebody/something for what they ˈare/it is__ Realize that somebody/something is not as good, pleasant, etc. as they seem/it seems: _I used to really like him, but now I can see him for what he really is — selfish and arrogant!_  
 __sell like hot cakes__  
 __serve (one’s) time__ To spend the amount of time in jail that is required by one’s prison sentence.  
+__set the stage for (something)__  
 __shafted__ _slang_ Cheated or swindled; unfairly deprived or taken advantage of; screwed (over).  
 __shag (off)__ _slang_ To depart. _I gotta shag. It’s late. Go on! Shag off! I gotta shag. Somebody’s calling my name._  
 __shagged out__ _slang_ Exhausted. _What a day! I’m shagged out!_ _You guys look sort of shagged out._  
@@ -348,6 +365,7 @@ __skate__
 __skeevy__ :two: Offensively or unscrupulously repellant, repugnant, or disreputable.  
 __skin flute__ _vulgar, slang_ A penis.  
 __skip off__ To leave or depart hastily so as to avoid something or escape with something.  
+__sky-high__  
 __skyhook__  
 __slated for__  
 __slip through the cracks__  
@@ -365,7 +383,7 @@ __so to speak__
 __so-so__  
 __sock__ _informal_ __1__ _n_ A sharp, forceful blow. _He gave me a sock in the arm when I called him a wuss._ __2__ _v_ To deliver a sharp, forceful blow. _Talk about my mother like that again, and I’ll sock you in the jaw!_  
 __something of a (something)__ Having a lot of qualities like or associated with some particular thing or type of person.  
-__soul searching__ :two::hammer:  
+__soul searching__ :three::hammer:  
 __speak with a forked tongue__  
 __spill__ :dart: _informal_ To disclose or divulge (something).  
 __spiral__ _vi_ To increase continually.  
@@ -377,6 +395,7 @@ __starkers__ _adj_ _British informal_ Stark naked.
 __status quo__ :mega: /kwoʊ/  
 __staying power__ The ability to remain relevant, influential, profitable, or successful in the future.  
 __step in__ :dart: To enter into some position, activity, or situation to intervene or improve it.  
+__stew over something__ :dart: To “stew over something” means to be bothered, annoyed, or worried about something for a long period of time, without being able to let it go. It’s kind of like simmering a pot of stew on the stove. You’ve got all these ingredients (your thoughts and emotions) simmering in the pot (your mind), and you just can’t turn off the heat (stop thinking about it). The longer you let it simmer, the more intense it becomes.  
 __stick (one’s) tongue out__  
 __stick with (someone or something)__  
 __stir the pot__ To exacerbate a tense or otherwise difficult situation.  
@@ -391,6 +410,7 @@ __swag__ :two::hammer: _slang_ __1__ _n_ Stolen goods or money; loot. _Come on, 
 __swamped__ :dart: Extremely busy, to the point of being overwhelmed, overburdened, or overworked.  
 __swear by (someone or something)__  
 __sweatshop__ __1__ A factory or workshop in which employees are forced to do very hard work, especially the manufacturing of clothing, for long hours with very low wages. :dart: Can be used facetiously to describe generally unpleasant or undesirable work conditions.  
+__sweep in (to some place)__ To dash or run into some place.  
 __switch-heater__ Switch-heater in the novels by James Ellroy refers to a device used to ignite a cigarette.  
 __switch-hitter__ __2__ By extension, someone who is bisexual.  
 __tacky__  
@@ -442,6 +462,7 @@ __under the hood__
 __under-promise and over-deliver__ To avoid raising expectations in order to subsequently exceed them. Used as a strategy to ensure the satisfaction of one’s client, customer, boss, etc. Also spelled without hyphens. _I want all of our customer service representatives to under-promise and over-deliver, so that all experiences with our company are positive ones._  
 __unheard of__ Extremely uncommon or unusual; beyond belief. Hyphenated if used as a modifier before a noun. _His prowess on the balance beam is unheard of._  
 __up and coming__ An _up and coming_ person is someone who is likely to be successful in the future.  
+__up and down__ __2__ Going between success and failure.  
 __up for grabs__  
 __up front__  
 __upbeat__ _informal_ Of, inspiring, or exuding cheerfulness, happiness, or optimism.  
@@ -466,6 +487,7 @@ __when the rubber hits the road__ The point at which someone’s or something’
 __whipcrack__ “Whipcrack” is a term that James Ellroy uses in his novels to describe a fast, sharp, and sudden action or event. It’s used to evoke a sense of speed, intensity, and urgency.  
 __whipout__ It’s another slang term that Ellroy uses to describe something that happens quickly and violently. In his books, it can mean a sudden attack, a fast getaway, or even just a quick, sharp response to something.  
 __why on earth__  
+__win out__ To defeat someone or something; to prevail.  
 __wingding__ :two::hammer:  
 __wise up__  
 __wit a vengeance__ _Generative AI left the lab with a vengeance._  
@@ -479,4 +501,5 @@ __yap__ __2__ To chatter; to gossip. _Did you just come here to yap?_ __3__ _n_ 
 __yard__ _n_ A one-hundred-dollar bill. (Underworld.) _The guy wanted a yard just to fix a little dent in the fender._  
 __yen__ A desire. Often used in the phrase “have a yen for (someone/something).“  
 __yippee-ki-yay__  
+__you name it__  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
