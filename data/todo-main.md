@@ -1,28 +1,3 @@
-__serenade__ _n_ /ser-uh-NAYD/  
-__serial comma__ _n_ _Syn_ Oxford comma  
-__Sermon on the Mount__  
-__serpentine<sup>1</sup>__ _adj_ /SUHR-pen-teen/tyn/ [:scroll: From Latin serpens, present participle of serpere (to creep)] __1__ Of or relating to a snake. __2__ Winding, twisting, or coiling. __3__ Intricate; cunning; treacherous.  
-__serpentine<sup>2</sup>__ _vi_ To move or lie in a winding course.  
-__serpentine<sup>3</sup>__ _n_ __1__ Something winding, twisting, or coiling. __2__ A dull green mineral with a texture resembling the skin of a snake.  
-__serpiginous__ _adj_ :astonished:  
-__sesquicentennial__ _adj_  
-__sesquipedalian__ _adj, n_  
-__sesshin__ _n_  
-__settee__ _n_  
-__Seul__ _n_ :mega:  
-__seven seas__ _n pl_ (Seven Seas)  
-__shackle__ _v_ _Our identities are no longer shackled to a job-for-life._  
-__shady__  
-__shakedown__ _n_ :two: An act of extortion. (Underworld.) _Mary was giving Bruno the shakedown, so he tried to put her out of the way._  
-__sham__ _n_  
-__shanghai__ _v_  
-__shanty__ _n_ A roughly built, often ramshackle building; a shack.  
-__shash window__ _n_  
-__sheep__ _n_ (_n pl_ sheep)  
-__shim__ _vt_  
-__shin splints__ _n_ (shinsplints) A painful condition of the shins caused by inflammation of muscles and connective tissue, frequently occurring among runners. _She was crippled by shin splints._ :es: calambres en la pierna, periostitis  
-__shirk__ _v_  
-__shirtsleeves__ _n_ :two::hammer:  
 __shirtwaist__ _n_ :two::hammer:  
 __shit-hole__  
 __shoot out__ _n_ __1__ A conclusive gunfight. __2__ _informal_ A decisive contest between two people or teams.  

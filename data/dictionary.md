@@ -16054,25 +16054,33 @@ __seraphic__ _adj_ /suh-RAF-ik/ [:scroll: From Latin seraphim, from Greek seraph
 __seratonin__ _n_ :mega:  
 __sere__ _adj_ :three: (sear) Dried up or withered. Withered; dry: _sere vegetation at the edge of the desert._ _Syn_ shriveled _The desert was edged with sere vegetation._  
 __serein__ _n_  
+__serenade__ _n_ /ser-uh-NAYD/  
 __serendipity__ _n_ :two: /sair-un-DIP-uh-tee/ Serendipity is luck that takes the form of finding valuable or pleasant things that are not looked for. _We found the restaurant by pure serendipity, rather than careful research, but it turned out to be the best deal in town._  
 __Serengeti__ _n_ :pencil2:  
 __Serenity Prayer__  
 __serf__ _n_ _A vagrant serf._  
 __serfdom__ _n_  
-__serial comma__ _n_ Oxford comma.  
+__serial comma__ _n_ :two: Oxford comma  
 __serigraph__ _n_  
 __seriocomic__ _adj_ Mixing serious and comic elements.  
 __serious condition__ _n_ _Critical to serious condition, fair condition._  
+__Sermon on the Mount__  
 __sermon__  
 __seronegative__ _adj_ (Medicine) (of a person whose blood has been tested for a specific disease, such as AIDS) Showing no serological reaction indicating the presence of the disease.  
 __serotonin__ _n_  
+__serpentine<sup>1</sup>__ _adj_ /SUHR-pen-teen/tyn/ [:scroll: From Latin serpens, present participle of serpere (to creep)] __1__ Of or relating to a snake. __2__ Winding, twisting, or coiling. __3__ Intricate; cunning; treacherous.  
+__serpentine<sup>2</sup>__ _vi_ To move or lie in a winding course.  
+__serpentine<sup>3</sup>__ _n_ __1__ Something winding, twisting, or coiling. __2__ A dull green mineral with a texture resembling the skin of a snake.  
+__serpiginous__ _adj_ :astonished:  
 __serum__ _n_ :es: suero  
 __service animal__ _n_ Any animal (often a dog) specially trained to assist a person who is blind, deaf, or disabled in some way. _Syn_ assistance animal  
 __servicers__  
 __serving__ _n_ :three: (servings) An individual portion or helping of food or drink. _Eat five servings of fruit or veg each day._  
-__sesquipedalian<sup>1</sup>__ _n_ A long word.  
-__sesquipedalian<sup>2</sup>__ _adj_ :two: __1__ Given to or characterized by the use of long words. __2__ Long and ponderous; polysyllabic.  
+__sesquicentennial__ _adj_  
+__sesquipedalian<sup>1</sup>__ _n_ :two: A long word.  
+__sesquipedalian<sup>2</sup>__ _adj_ :three: __1__ Given to or characterized by the use of long words. __2__ Long and ponderous; polysyllabic.  
 __sesquipedalianism__ _n_ :two: /ses-kwi-pi-DAYL-yuh-niz-uhm/ [:scroll: From Latin sesqui- (one and a half) + ped- (foot).] __1__ The practice of using big words. __2__ A very long word.  
+__sesshin__ _n_  
 __set (someone) up__ _v_ _Emile’s trying to set you up._  
 __set about__ _phr v_ Initiate or begin some action. _He set about designing his homepage._  
 __set down<sup>2</sup>__ _phr v_ :dart: Write. _I set down this account so others may benefit from my experience._  
@@ -16086,11 +16094,13 @@ __set the pace__
 __set up__ _phr v_ Ready something for use. _We set up the sprinkler._  
 __set__ _v_ :dart: __10__ To appoint, establish, or determine, as: __e__ To prescribe as a time for: _set the meeting for Friday afternoon._ _Let’s set a meeting._  
 __setback__ _n_ :seven::hammer::pencil2: (setbacks) _It has suffered several setbacks._  
-__settee__ _n_ _Shaving tackle on the settee._  
+__settee__ _n_ :two::hammer: _Shaving tackle on the settee._  
 __setting__ _n_ __3__ The surroundings or environment of anything. _Picturesque setting._ :es: entorno picturesco  
 __settler__ _n_  
+__Seul__ _n_ :mega:  
 __Seussian__ _adj_ _chiefly US_ Of, relating to, or suggestive of the works of Dr. Seuss (Theodore Geisel) especially having a playfully inventive or outlandish quality typical or reminiscent of the words and images found in children’s stories like _The Cat in the Hat_ and _How the Grinch Stole Christmas._  
 __Seven Dwarf status__  
+__seven seas__ _n pl_ (Seven Seas)  
 __seventeen-year locust__ _n_ A cicada, _Magicicada septendecim_, of the eastern U.S., having nymphs that live in the soil, usually emerging in great numbers after 17 years in the North or 13 years in the South.  
 __severance (severance contract)__ _n_ :two: _Law_ The division into separate parts of a joint estate, contract, etc.  
 __severance pay__ _n_ :two: A sum of money usually based on length of employment for which an employee is eligible upon termination. :es: finiquito  
@@ -16106,12 +16116,12 @@ __sexual battery__ _n_ Sexual battery may be defined as non-consensual touching 
 __shabbily__ _adv_ __1__ So as to appear worn and threadbare or dilapidated; “a shabbily dressed man.” __2__ In a mean and ungenerous manner; _“the two were haggling shabbily in the drawing-room.”_ _He has shabbily deceived us._  
 __shabby__ _adj_ :three::hammer:  
 __shack__ _n_ :two::hammer:  
-__shackle__ _n_  
-__shackles__ _n_ :three::hammer: _A bed with built-in shackles._  
+__shackle<sup>1</sup>__ _n_ :four::hammer: _A bed with built-in shackles._  
+__shackle<sup>2</sup>__ _v_ _Our identities are no longer shackled to a job-for-life._  
 __shades__ _pl n_ __2__ (Clothing & Fashion) A slang word for sunglasses. :es: gafas de sol  
 __shadow cabinet__ _n_  
 __shadow__ _v_  
-__shady__  
+__shady__ _adj_ :two::hammer:  
 __shaft<sup>1</sup>__ _n_  
 __shaft<sup>2</sup>__ _v_ _slang_ To treat in a harsh, unfair way: _“He had been shafted by the press quite a bit” (Frank Deford)._ _Mel always enjoyed shafting Sam._  
 __shag__ _n_ :two: __1__ Rough, matted hair, wool, or the like. __2__ A mass of this. __3__ A hairdo in which hair is cut in slightly uneven, overlapping layers downward from the crown, sometimes with the hair at the front and back hairlines left longer or wispier than the rest. __3__ A cloth with a nap, as of silk or a heavy or rough woolen fabric. __4__ A rug or carpet with a thick, shaggy pile. _This house has too much shag carpeting._  
@@ -16120,6 +16130,7 @@ __shaggy__
 __shah__ _n_  
 __shake hands__ _v_ :astonished: Take someone’s hands and shake them as a gesture of greeting or congratulation.  
 __shake__ _n_ _We use the scientific method to give each product a fair shake._  
+__shakedown__ _n_ :two: An act of extortion. (Underworld.) _Mary was giving Bruno the shakedown, so he tried to put her out of the way._  
 __shale oil__ _n_ _Shale oil production._  
 __shale<sup>1</sup>__ _adj_ :two::hammer: _The shale parking lot._ _Shale energy._  
 __shale<sup>2</sup>__ _n_ :five: A soft kind of rock that splits easily into flat pieces. _A vast field of shale rock._ :es: esquisto, pizarra  
@@ -16127,7 +16138,7 @@ __shale<sup>3</sup>__ _v_
 __shallot__ _n_ :three::hammer:  
 __shallow__  
 __sham<sup>1</sup>__ _adj_ :four: Bogus; false. _Syn_ fake, pretended, feigned, simulated, false, artificial, bogus _Sham marriages._ _The sham elections._ _“Sham surgery” diminished swelling in hurt knees._  
-__sham<sup>2</sup>__ _n_ :four::hammer: _The novelty effect isn’t a sham._  
+__sham<sup>2</sup>__ _n_ :five::hammer: _The novelty effect isn’t a sham._  
 __shambled__ _v_ :two::hammer:  
 __shambles__ _n_ :four::hammer: _By 1984, our dreams were a shambles._ _It was in shambles._  
 __shambling__  
@@ -16137,12 +16148,12 @@ __shaming__ _adj_
 __shamrock__ _n_ :two::hammer:  
 __Shamrocks__ _n_ A solitaire game.  
 __shamus__  
-__shanghai__ _v_ :astonished:  
+__shanghai__ _vt_ :two::astonished::hammer:  
 __Shangri-la__ _n_ :mega:  
 __shank<sup>1</sup>__ _n_ :eight::hammer: _Roasted pork shanks._ _He grasped the shank of he lure._ _He had thin shanks and a skeletal frame._  
 __shank<sup>2</sup>__ _v_ :four: (shanked) __1__ To hit (a golf ball or shot) with the extreme heel of the club so that the ball goes off in an unintended direction; to kick (a football) in an unintended direction. __2__ _slang_ To stab (a person) with a sharp, pointed implement. To be stabbed by a homemade knife. _You shanked a guy from the Aryan Brotherhood._  
 __shanties__  
-__shanty__ _n_ :three: __1__ A roughly built, often ramshackle building; a shack. __2__ A song originally sung by sailors, esp a rhythmic one forming an accompaniment to work. _Sea shanty._  
+__shanty__ _n_ :four: __1__ A roughly built, often ramshackle building; a shack. __2__ A song originally sung by sailors, esp a rhythmic one forming an accompaniment to work. _Sea shanty._  
 __shantytown__ _n_ :two: A town or section of a town or city where there are many poor people living in shanties.  
 __shape up__ _v_  
 __shapely__ _adj_ (esp of a woman’s body or legs) Pleasing or attractive in shape. _The shapely blonde._  
@@ -16155,6 +16166,7 @@ __sharp elbows__
 __sharp__ _adj_ :two::hammer: _He’s a sharp guy._ _In sharp contrast to the whatnot._  
 __sharps collector__ _n_ :camera:  
 __sharpshooter__ _n_ :two::hammer:  
+__shash window__ _n_  
 __shat__ _v_ _In its fright the baby lion shat upon the gold and silk carpet._  
 __shaved ice__ _n_ :two::hammer: _Glacee flavored shaved ice._  
 __shaved__ _adj_ :two: __1__ Having the hair cut close to the skin. _A shaved head._ __2__ :dart: Cut from a larger portion into thin slivers or slices. _Shaved Parmesan._  
@@ -16173,7 +16185,7 @@ __shedder__ _n_ _A tree shedder._
 __shedding__ _v_  
 __sheelling__  
 __sheen__ _n_ :two::hammer: _The sheen on his hair when he removed his hat._  
-__sheep__ _n_ :three: Plural: sheep. _She killed 38 sheep in a hit-and-run accident._  
+__sheep__ _n_ :four: (_n pl_ sheep) _She killed 38 sheep in a hit-and-run accident._  
 __sheepcote__ _n_ A pen for sheep. _Syn_ fold, sheep pen _It was the second time in a month that a predator had managed to tear through the sheepcotes wire._  
 __sheepfold__ _n_ (Agriculture) A pen or enclosure for sheep.  
 __sheepishly__  
@@ -16218,9 +16230,11 @@ __shill__ _n_ (shills) _Government shills._
 __shill<sup>1</sup>__ _n_ _slang_ :two: One who poses as a satisfied customer or an enthusiastic gambler to dupe bystanders into participating in a swindle.  
 __shill<sup>2</sup>__ _v_ :three::hammer: (shilled)  
 __shillelagh__ _n_ /ʃəˈleɪlə, ʃəˈleɪlɪ/ A cudgel made of hardwood (usually oak or blackthorn). :es: cachiporra  
+__shim__ _vt_  
 __shimmer__ _v_ :five::hammer: (shimmering) _Shimmering eyes._  
 __shimmering__ _adj_ :es: reluciente  
 __shimmy__ _v_ :five: (shimmying) Tremble or shake. _Syn_ wobble _I need to take the car to a mechanic because it begins to shimmy every time it is driven at high speed._  
+__shin splints__ _n_ (shinsplints) A painful condition of the shins caused by inflammation of muscles and connective tissue, frequently occurring among runners. _She was crippled by shin splints._ :es: calambres en la pierna, periostitis  
 __shinbones__  
 __shindig__ _n_ :two: A large and noisy party of people. _Syn_ shindy  
 __shinding__  
@@ -16235,9 +16249,11 @@ __shipborne__ _adj_ _Airborne and shipborne measured platforms._
 __shipping__ _n_ :astonished: __1a__ The business of transporting freight, esp by ship. __b__ (as modifier): _a shipping magnate; shipping line._ __2a__ :astonished: Ships collectively: _there is a lot of shipping in the Channel._ __b__ The tonnage of a number of ships: _shipping for this year exceeded that of last._  
 __shipshape__ _adj_ :two: Of places; characterized by order and neatness; free from disorder. _Syn_ trim, well-kept _Toys were strewn everywhere in the playroom, but we worked together to clean it up and soon had the place shipshape._  
 __shipyard__ _n_ :two::hammer: :es: astillero  
+__shirk__ _v_  
 __shirk<sup>1</sup>__ _n_  
 __shirk<sup>2</sup>__ _v_ :five::dart: (shirking) To avoid work or duty. _He shirked the tasks._  
 __Shirley Temple__ _n_ A non-alcoholic cocktail consisting of ginger ale or sometimes lemonade and grenadine and garnished with a maraschino cherry.  
+__shirtsleeves__ _n_ :two::hammer:  
 __shirttail__ _n_  
 __shirttail<sup>1</sup>__ _n_ __1__ The part of a shirt reaching below the waist, especially in the back. __2__ A brief item added at the end of a newspaper article. __3__ Something small or unimportant.  
 __shirttail<sup>2</sup>__ _adj_ __1__ Very young or immature. __2__ Very small or trivial. __3__ Distantly related.  
