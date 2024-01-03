@@ -9247,7 +9247,7 @@ __incident<sup>1</sup>__ _n_
 __incident<sup>2</sup>__ _adj_ _A stroke incident to pancreatic cancer._  
 __incidental<sup>1</sup>__ _adj_  
 __incidental<sup>2</sup>__ _n_  
-__incidentally__ _adv_ :nine::hammer:  
+__incidentally__ _adv_ :nine: __1__ Apart or aside from the main subject; parenthetically. __2__ By chance.  
 __incipient__ _adj_ _An incipient building._  
 __inclement__ _adj_ __1__ (of weather) Stormy, severe, or tempestuous. __2__ Harsh, severe, or merciless.  
 __inclined__ _adj_  
@@ -18011,7 +18011,7 @@ __suricate__ _n_
 __surliness__  
 __surly__ _adj_ :seven: /SUHR-lee/ __1__ Rude; sullen; unfriendly. Unfriendly and rude. _A waiter with a surly attitude._ __2__ Ominous or dismal (used for weather, clouds, sky, ocean, etc.).  
 __surmise<sup>1</sup>__ _n_  
-__surmise<sup>2</sup>__ _v_ :dart::nine::m::hammer: (surmised, surmising)  
+__surmise<sup>2</sup>__ _v_ :dart::nine::m: (surmised, surmising) To infer (something) from incomplete or uncertain evidence.  
 __surmount__ _v_ :four::hammer: (surmounted) _Surmount obstacles._  
 __surmountable__  
 __surname__ _n_ :two::mega::hammer:  
@@ -18665,7 +18665,7 @@ __tickling<sup>2</sup>__ _adj_ _Tickling laughter._
 __ticklish__ _adj_ :four: If you are ticklish, you quickly feel uncomfortable when someone lightly touches your skin to make you laugh.  
 __ticky-tacky__ _adj_ _The ticky-tacky plan._  
 __Tico__ _n_ A native or inhabitant of Costa Rica.  
-__tidbit__ _n_ :nine::m::hammer::pencil2::dart: /ˈtɪdˌbɪt/ _He fed the cat tidbits._  
+__tidbit__ _n_ :dart::nine::m::pencil2: /ˈtɪdˌbɪt/ __1__ A delicate bit or morsel of food. _He fed the cat tidbits._ __2__ A choice or pleasing bit of anything, as gossip.  
 __tidy up__ _phr v_ :three: To put something in order; to clean something. _I need to tidy the place up._  
 __tidy<sup>1</sup>__ _adj_ _A tidy plan._  
 __tidy<sup>2</sup>__ _v_ _She tidied her desk._  
