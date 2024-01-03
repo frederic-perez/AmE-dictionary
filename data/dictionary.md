@@ -16257,9 +16257,10 @@ __shirtsleeves__ _n_ :two::hammer:
 __shirttail__ _n_  
 __shirttail<sup>1</sup>__ _n_ __1__ The part of a shirt reaching below the waist, especially in the back. __2__ A brief item added at the end of a newspaper article. __3__ Something small or unimportant.  
 __shirttail<sup>2</sup>__ _adj_ __1__ Very young or immature. __2__ Very small or trivial. __3__ Distantly related.  
+__shirtwaist__ _n_ :two::hammer:  
 __shit list__ _n phr_ One’s fancied or real list of persons who are hated, not trusterd, to be avoided, etc.  
 __shit-canning__  
-__shit-hole__ _n_ _informal_ A very bad place; a disgusting place.  
+__shit-hole__ _n_ :two: _informal_ A very bad place; a disgusting place.  
 __shitcan__ _v_  
 __shitfaced__ _adj vulgar slang_ :three: Intoxicated; drunk. _He was shitfaced drunk._  
 __shitless__ _adj_ _vulgar_ _slang_ _They were scared shitless._  
@@ -16285,7 +16286,7 @@ __shogunate__ _n_ :three: A form of government in which the ruler is an absolute
 __shoo away__  
 __shoo__ _vt_ :seven::hammer: (shooing)  
 __shoo-in__ _n_ :two::hammer:  
-__shoot out__ _n_ :two::hammer:  
+__shoot out__ _n_ :three: __1__ A conclusive gunfight. __2__ _informal_ A decisive contest between two people or teams.  
 __shoot the moon__ _v_ :three::hammer:  
 __shoot__ _n_ _Panda bears eat only bamboo shoots._  
 __shoot-from-the-hip__  
@@ -16345,7 +16346,7 @@ __show-stopping__ _adj_ _informal_ Impressive; sensational. _Those restaurants h
 __showbiz__ _n_  
 __showboat__ _v_  
 __showcase__ _v_  
-__showdown__ _n_ :nine::m: (showdowns) A final test or confrontation intended to settle a dispute. _Syn_ confrontation, deciding event, clash, face-off _It was an epic showdown._ _Hollywood showdowns._  
+__showdown__ _n_ :nine::m: (showdowns) A final test or confrontation intended to settle a dispute. _Syn_ confrontation, deciding event, clash, face-off __1__ _informal_ An action that brings matters to a head or acts as a conclusion or point of decision. _It was an epic showdown._ _Hollywood showdowns._  
 __showhouse__  
 __showpiece__ _n_ :three::hammer:  
 __showplace__ _n_  
@@ -16371,13 +16372,14 @@ __shrink__ _n_
 __shrinkflation__ _n_ /shringk-FLAY-shuhn/ [:scroll: A blend of shrink + inflation] The practice of reducing the size of products while selling at the same price.  
 __shrivel up__ _v_ :three::hammer:  
 __shrivel__ _v_ :nine: (shriveled) Shrink and wrinkle, as from dryness. _The heat shriveled the unwatered seedlings._ _The widened empire had shriveled._  
-__shriveled__ _adj_  
+__shriveled__ _adj_ :two::hammer:  
 __shriven__ _v_  
 __shriving__ _n_ :two::hammer:  
 __Shrove Tuesday__ _n_ The day before Ash Wednesday.  
 __shrubbery__  
 __shrunken head__ _n_  
 __shtick__ _n_ :three: (also shtik) _slang_ A show-business routine or piece of business inserted to gain a laugh or draw attention to oneself. :es: numerito  
+__shtup__ _v_  
 __shuck<sup>1</sup>__ _n_  
 __shuck<sup>2</sup>__ _vt_ :nine::hammer: (shucked, shucking) _I know when you’re shuckin’ and jivin’ me._ _Portraits of a man shucking corn._  
 __shudder__ _vi_ :five::hammer: (shudders, shuddered)  
@@ -16406,7 +16408,7 @@ __sibilant__ _adj_ _Every _s_ is sibilant._
 __sic__  
 __sicced__ _v_  
 __sick bay__ _n_ A hospital or dispensary, esp. aboard ship.  
-__sick leave__ _n_ :three::hammer: _The UK’s biggest reason for sick leave._  
+__sick leave__ _n_ :four::hammer: _The UK’s biggest reason for sick leave._  
 __sickbed__ _n_ A sick person’s bed.  
 __sickle cell__  
 __sickly__ _adj_ :es: enfermizo  
@@ -16418,9 +16420,11 @@ __sidebar__ _n_
 __sideburns__ _n_  
 __sidecar shovelhead__  
 __sided__ _adj_ Having sides usually of a specified number or kind. Often used in combination: _many-sided; marble-sided._  
+__sidekick__ _n informal_  
 __sideline<sup>1</sup>__ _n_ :four: The area or areas next to but outside a playing area. _Investors retreated to the sidelines._  
 __sideline<sup>2</sup>__ _vt_ :seven: (sidelined) To remove or keep from active participation. _Women sidelined in pandemic research._ _The first baseman is expected to be sidelined for seven to 10 days._  
 __sidereal__ _adj_ /saɪˈdɪər i əl/ __1__ Of, relating to, or involving the stars. __2__ Determined with reference to one or more stars: _the sidereal day._  
+__sidesaddle__ _n_ :camera: A saddle designed so that the rider sits with both legs on one side of the horse.  
 __sidesplitting__ _adj_ _A sidesplitting ceremony._  
 __sidestep__ _v_ :eight::hammer: (sidestepped)  
 __sideswiped__ _v_ _She died when her Cobalt sideswiped another car._  
@@ -16451,11 +16455,12 @@ __signcryption__ _n_ A public-key primitive that simultaneously performs the fun
 __signee__ _n_ :two::hammer: (signees) _Malory was one of four singnees._  
 __signet ring__ _n_ :four: A finger ring containing a small seal, one’s initial, or the like. A finger ring bearing an engraved signet, monogram, or other engraved design. _A gold signet ring._  
 __significant other__  
-__significant__ _adj_ :three::hammer: _This is a significant advantage._ _This problem is much less significant in fixed-grid networks._ _Time of day is significant._  
+__significant__ _adj_ :four::hammer: _This is a significant advantage._ _This problem is much less significant in fixed-grid networks._ _Time of day is significant._  
 __signify__ _v_ :two::hammer:  
 __signposting__  
 __Sikh__  
 __silk__ _n_  
+__silkworm__ _n_ :es: gusano de seda  
 __sill__ _n_ :two::hammer: (sills) _Concrete sills._  
 __silly boy__  
 __Silly Putty__ _n_ A toy based on silicone polymers that have unusual physical properties.  
@@ -16473,39 +16478,45 @@ __simmer down__
 __simmer__ _v_ :nine::m: (simmers, simmering) (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
 __Simon Says__ _n_ :two::hammer:  
 __simony__ _n_ :eight: /ˈsaɪmənɪ/ (Christianity) The practice, now usually regarded as a sin, of buying or selling spiritual or Church benefits such as pardons, relics, etc, or preferments.  
-__simpatico__  
+__simpatico__ _adj_ :two::hammer:  
 __simper<sup>1</sup>__ _n_ :two: A simpering smile; smirk.  
 __simper<sup>2</sup>__ _v_ :two: __1__ _intr_ To smile coyly, affectedly, or in a silly self-conscious way. __2__ _tr_ To utter (something) in a simpering manner.  
 __Simple Simon__ _n_ /SIM-puhl SYM-uhn/ [:scroll: After Simple Simon, a foolish boy in a nursery rhyme.] A simpleton.  
-__simulacrum__ _n_ /sim-yuh-LAK-rum/ A superficial likeness or representation of something. _The wax figure is a perfect simulacrum of the president._  
+__simulacrum__ _n_ :two: /sim-yuh-LAK-rum/ A superficial likeness or representation of something. _The wax figure is a perfect simulacrum of the president._  
 __simulcast__  
 __Sin City__ _n_ Urban area (a city or part of) that caters to various vices. These vices may be legal (depending on area) or illegal activities which are tolerated. Cities or areas that have this reputation include, in the US: Las Vegas, NV, and Reno, NV.  
 __Sinai__ _n_ (Mount Sinai) :mega:  
 __since forever__  
 __since__ _adv_ __1__ From then until now or between then and now. _They left town and haven’t been here since._ _The two Senators have since denied knowing Kev._ __2__ Before now; ago: _a name long since forgotten._ __3__ After some point in the past; at a subsequent time. _My friend has since married and moved to California._  
-__sine die__ _adv_ :two: [Medieval Latin : Latin sine, _without_ + Latin diē, ablative of diēs, _day_.] Without a day specified for a future meeting; indefinitely: _Parliament was dismissed sine die._  
+__sine die__ _adv_ :three: [Medieval Latin : Latin sine, _without_ + Latin diē, ablative of diēs, _day_.] Without a day specified for a future meeting; indefinitely: _Parliament was dismissed sine die._  
 __sine qua non__ _n_ :two: An essential element or condition. _“The perfect cake is the sine qua non of the carefully planned modern wedding” (J.M. Hilary)._  
 __sinecure__ _n_ :three: /SYE-nih-kyoor/ Sinecure is a noun that refers to a usually paid job or position that requires little or no work. A position or office that requires little or no work but provides a salary. _The king was in the habit of rewarding his loyal supporters with sinecures._  
 __sinergy__ _n_ (sinergies)  
-__sinew__ _n_ :seven::hammer: (sinews)  
+__sinew__ _n_ :eight::hammer: (sinews)  
 __sinewy__ _adj_ :five::hammer: _A sinewy man._  
 __sinfully__ _adv_ _Sinfully delicious desserts._  
 __sing along<sup>1</sup>__ _n_ :five: (sing-along, singalongs) A gathering or event where participants are encouraged to add their voices in song. _That’s the best sing along we’ve ever had._  
 __sing along<sup>2</sup>__ _v_ :two: To sing some music while someone else is singing or playing the same piece of music or while it is being broadcast or performed.  
+__sing-along__ _n_  
+__Singapore__ _n_ /ˈsɪŋ gəˌpɔr, -ˌpoʊr, ˈsɪŋ ə-/ [:scroll: From Malay _Singapora_, “Lion-city.”]  
 __singe__ _v_ :pencil2::three::hammer: (singed)  
 __single out__ _v_ :three: To select one from a group and treat differently.  
-__single-handedly__ _adv_ :dart: Without assistance.  
+__single-handedly__ _adv_ :dart::two: Without assistance.  
 __single-jab__ _adj_ _Single-jab vaccine._  
 __single-minded__ _adj_ Steadfast; resolute. _Syn_ resolved  
 __singlet__ _n_ :two: A collarless men’s undergarment for the upper part of the body. _Syn_ undershirt, vest _Its owner had taken off his tunic, and in white trousers and a thin, short-sleeved singlet prowled behind the chair-backs nursing his meager elbows._  
 __singletree__ _n_ The pivoted horizontal crossbar to which the harness traces of a draft animal are attached and which is in turn attached to a vehicle or an implement. Also called regionally _whiffletree_, _whippletree_. _Singletree plow._  
+__singsong<sup>1</sup>__ _adj_ _Singsong cantillation._  
+__singsong<sup>2</sup>__ _n_ :two::hammer:  
 __sinister__  
 __sinistrality__ _n_ The condition of being left-handed.  
 __sinkhole__ _n_ :two::hammer:  
 __Sino-Japanese vocabulary__ _n_ That portion of the Japanese vocabulary that is of Chinese origin or makes use of morphemes of Chinese origin (similar to the use of Latin/Greek in English).  
 __sinter__ _v_  
 __siphon off__ _v_ _They were siphoning off readers._  
-__siphon__ _v_ :three::hammer: (siphoned, siphoning) _It is fairly easy to syphon profits._  
+__siphon<sup>1</sup>__ _n_  
+__siphon<sup>2</sup>__ _vt_ :six: __2__ To take or transfer (something), often illicitly: _siphon money from an account; siphon customers from a competitor._ _It is fairly easy to syphon profits._  
+__siphon<sup>3</sup>__ _vi_  
 __sire<sup>1</sup>__ _n_  
 __sire<sup>2</sup>__ _v_ :three::hammer: (sired) _Another colt sired by him._  
 __siriasis__ _n_ Sudden prostration due to exposure to the sun or excessive heat. _Syn_ insolation, sunstroke, thermic fever _We were stranded in the desert, and it was not long before members of our party began exhibiting signs of siriasis._  

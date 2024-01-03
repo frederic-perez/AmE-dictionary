@@ -1,29 +1,3 @@
-__shirtwaist__ _n_ :two::hammer:  
-__shit-hole__  
-__shoot out__ _n_ __1__ A conclusive gunfight. __2__ _informal_ A decisive contest between two people or teams.  
-__showdown__ _n_ __1__ _informal_ An action that brings matters to a head or acts as a conclusion or point of decision.  
-__shriveled__ _adj_  
-__shtup__ _v_  
-__shun__ _v_ :two::hammer:  
-__sick leave__ _n_  
-__sidekick__ _n informal_  
-__sidesaddle__ _n_ :camera: A saddle designed so that the rider sits with both legs on one side of the horse.  
-__significant__ _adj_  
-__silkworm__ _n_ :es: gusano de seda  
-__simpatico__ _adj_  
-__simulacrum__  
-__sine die__ _adv_ Without a day specified for a future meeting; indefinitely: _Parliament was dismissed sine die._  
-__sinew__ _n_  
-__sing-along__ _n_  
-__Singapore__ _n_ /ˈsɪŋ gəˌpɔr, -ˌpoʊr, ˈsɪŋ ə-/ [:scroll: From Malay _Singapora_, “Lion-city.”]  
-__single-handedly__  
-__singsong__ _n_  
-__singsong<sup>1</sup>__ _adj_ _Singsong cantillation._  
-__singsong<sup>2</sup>__ _n_  
-__siphon__ _vt_ __2__ To take or transfer (something), often illicitly: _siphon money from an account; siphon customers from a competitor._  
-__siphon<sup>1</sup>__ _n_  
-__siphon<sup>2</sup>__ _vt_ __2__ To take or transfer (something), often illicitly: _siphon money from an account; siphon customers from a competitor._  
-__siphon<sup>3</sup>__ _vi_  
 __Sistine Chapel__ _n_ (etymology?)  
 __sitting__ _n_  
 __Six-Day War__ _n_  
