@@ -2391,37 +2391,49 @@ __have teeth__ To have enough power or support of authority to compel obedience 
 __have the better of (someone or something)__ :two: To have or gain superiority, mastery, or an advantage over someone or something; to have control over someone or something. _I knew I shouldn’t be meddling in other people’s business, but my curiosity had the better of me._  
 __have the courage of (one’s) convictions__ To have the confidence to act or behave in accordance with one’s beliefs or ideologies, especially in the face of resistance, criticism, or persecution. _The governor was presented with a bribe to help the corporation avoid regulation, but she had the courage of her conviction to refuse such an offer._  
 __have the feel of (something)__ :two: To have a general sense of how to do or use something or how something operates; to be familiar with something. _Though it’s radically advanced from my last computer, I’m starting to have the feel of this newer model._  
-__have the floor__ To have the right or opportunity to speak in a group, especially at a formal event or gathering.  
-__have the goods on (someone)__ :two: To have incriminating evidence or proof against someone. _We know he’s guilty, but we can’t arrest him until we have the goods on him._ _I got the goods on you._  
-__have the heart (to do something)__ To be hard hearted, callous, or unsympathetic (enough to do something); to have the emotional resolve (to do something). Usually used in the negative. _I didn’t have the heart to tell her that I didn’t love her anymore._  
+__have the floor__ :two: To have the right or opportunity to speak in a group, especially at a formal event or gathering.  
+__have the goods on (someone)__ :three: To have incriminating evidence or proof against someone. _We know he’s guilty, but we can’t arrest him until we have the goods on him._ _I got the goods on you._  
+__have the guts (to do something)__ To have enough courage, conviction, or resolve (to do something). _You’re always talking about quitting your job, but I don’t think you have the guts._  
+__have the hang of (something)__  
+__have the heart (to do something)__ :two: To be hard hearted, callous, or unsympathetic (enough to do something); to have the emotional resolve (to do something). Usually used in the negative. _How could you have the heart to fire Joanna the day after her father died?_ _I didn’t have the heart to tell her that I didn’t love her anymore._  
+__have the last laugh__  
 __have the mouth of a sailor__ To have a tendency or proclivity to use coarse, rude, or vulgar language. _My grandmother is the sweetest old lady you’ll ever know, but, my lord, does she have the mouth of a sailor!_  
-__have the say__ To have the ultimate authority to command, control, or make a decision.  
-__have the wind up__ To be very anxious, upset, or frightened.  
+__have the say__ :dart::two: To have the ultimate authority to command, control, or make a decision. _Your report looks good enough to me, but it’s the manager who has the say on whether it’s finished or not._  
+__have the wind up__ :two: To be very anxious, upset, or frightened. _They had the wind up after we threatened them with legal action._  
 __have the world by the tail__ To be very successful, contented, and happy in life.  
 __have your cake and eat it (too)__ :two: To have or get two good things at the same time, especially things that are not usually possible to have together.  
 __have your head in the clouds__ :two: To be separate from reality, to dream.  
 __have/put skin in the game__  
-__hawks and doves__ Respectively, those who favor or support aggressive military action, especially regarding foreign policy, versus those who are inclined to more peaceful, diplomatic solutions.  
+__hawks and doves__ :two: Respectively, those who favor or support aggressive military action, especially regarding foreign policy, versus those who are inclined to more peaceful, diplomatic solutions.  
+__he who hesitates is lost__  
 __he-man__ A particularly strong, tough, and/or virile male, especially one who likes to flaunt his strength.  
 __head and shoulders above (someone or something)__ :two::hammer:  
 __head and shoulders__  
+__head down__ To proceed or go to some specific destination or event.  
 __head in the clouds, to have one’s__ Daydreaming, absentminded. _In the clouds_ has been used figuratively to mean obscure or fanciful since the mid-seventeenth century. It was not until relatively recent times that a vague, dreamy person was said to have his or her head in the clouds.  
 __head on shoulders__  
-__head over heels__ :five: __1__ Rolling, as in a somersault: _tripped and fell head over heels._ __2__ To be very much in love with someone. Completely; hopelessly: _head over heels in love._  
+__head over heels__ :seven: __1__ Rolling, as in a somersault: _tripped and fell head over heels._ __2__ To be very much in love with someone. Completely; hopelessly: _head over heels in love._  
+__head south__  
+__head start__  
+__head up__  
 __head-on__ (head on) _Confront it head-on._  
 __head-scratching__ (head scratching) Very confusing or perplexing. Usually used before a noun. _I don’t know what to make of his head-scratching reaction. I didn’t expect him to get so angry about such a minor request._ _In many places, there is still much head scratching over Mr. Trump._  
 __head-spinning__ :two: Incredible, overwhelming.  
-__heads up__ _Thanks for giving me the heads up._  
+__head-to-head__ Describing a one-on-one matchup or comparison.  
+__head-to-toe__  
+__heads up__ :two::hammer: _Thanks for giving me the heads up._  
 __headspinning__ :two: (head-spinning) Incredible, overwhelming.  
 __hear a pin drop, one/you could__ :two: Complete silence.  
+__hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
 __hearing things__ Having auditory hallucinations. _Bob: “Listen, I’m sure that someone is right behind us!” Jack: “Bob, you’re hearing things. There’s nothing out here but us and the wind.”_  
 __heart and soul__ :five::hammer:  
 __heart of gold__  
 __heart sinks, one’s__ One’s courage or hope fails; one is very disappointed or dejected. Used to say that you suddenly feel sad or depressed about something. _My heart sank when I saw that the meal I’d spent all day preparing had burned in the oven._  
 __heart skips a beat__  
 __heartbreaking__ Deeply upsetting or causing great sadness. _Watching my grandmother endure this horrible illness has been just heartbreaking._  
-__heat up__ __3__ To intensify. Become acute or intense. _If inflation heats up, the interest rate will surely rise._ _The competition will heat up as we get closer to the playoffs._  
+__heat up__ :two: __3__ To intensify. Become acute or intense. _If inflation heats up, the interest rate will surely rise._ _The competition will heat up as we get closer to the playoffs._  
 __heat wave__ A period of time in which the weather is unusually and persistently hot. _Our summers are usually very mild here, but we’ve been in the midst of a heat wave recently that’s made it feel like the tropics!_  
+__heat__ __1__ _slang_ Adverse, hostile criticism. _The senator has been facing a lot of heat in the media for his involvement in the scandal._ __2__ _slang_ Intense pressure. _Their defensive line has been cranking up on the heat on the other team’s quarterback._ __3__ _slang_ Increased police activity in response to some criminal activity. _We’ll have to wait until the heat dies down a bit before we try to sell the stolen goods._ __4__ _slang_ One or more firearms, especially a handgun. _Make sure you’re packing heat before you meet with the rival gang leader._  
 __heave into view__ (heave into sight) To move or rise into sight, especially from a distance. _We’d been walking for hours in the barren desert when a small town finally heaved into view._ To rise or seem to rise over the horizon into view, as a ship.  
 __heaven forbid__  
 __heaven knows__  
@@ -2444,12 +2456,13 @@ __help (oneself) (to something)__ To serve oneself (something); to take, consume
 __help (someone) out of a fix__ To help someone avoid or escape from some troublesome, difficult, or dangerous position or situation. _My father’s always having to go down to the courthouse to help my knuckle-headed brother out of some fix or another._ _Thanks so much for staying late with me to finish that report the other day—you really helped me out of a fix!_  
 __hem and haw__ :dart: To speak in an evasive, vague, roundabout way in order to avoid responding to a question or making a definite statement. The phrase comes from the common filler words often used by habit or when one is deciding what to say. _How much longer do we have to hear this guy hem and haw? I wish they would get on with the debate._ _Zoe hems and haws._  
 __henpecked__ Of a man, thoroughly and continually dominated, intimidated, bullied, or browbeaten by a woman, especially his wife or girlfriend.  
-__here and there__ __1__ In different places. _I try to keep some cash here and there around the house in case of emergences._ __2__ In different directions; this way and that. _People ran here and there when the store opened its doors for the big sale._  
+__here and there__ :two: __1__ In different places. _I try to keep some cash here and there around the house in case of emergences._ __2__ In different directions; this way and that. _People ran here and there when the store opened its doors for the big sale._  
 __here we go__  
-__here you are__ Here is what you needed or asked for; I present this to you.  
+__here you are__ :two: Here is what you needed or asked for; I present this to you.  
 __here’s the kicker__ _slang_ This next point is a really surprising or ironic twist or turn of events. Primarily heard in US.  
 __here’s to (someone or something)__  
 __hero’s journey__  
+__hidden agenda__ A secret goal or an ulterior motive.  
 __hidden in plain sight__  
 __hide and seek__ A situation in which one party is constantly evading or avoiding another. (A reference to the children’s game “hide and go seek.”) Often used with the verb “play.”  
 __higgledy-piggledy__  

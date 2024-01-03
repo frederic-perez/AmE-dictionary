@@ -1,28 +1,3 @@
-__have the floor__ To have the right or opportunity to speak in a group, especially at a formal event or gathering.  
-__have the goods on (someone)__ To have scandalous, incriminating, or otherwise damaging evidence or information about someone. _We know he’s guilty, but we can’t arrest him until we have the goods on him._  
-__have the guts (to do something)__ To have enough courage, conviction, or resolve (to do something). _You’re always talking about quitting your job, but I don’t think you have the guts._  
-__have the hang of (something)__  
-__have the heart (to do something)__ To be hard hearted, callous, or unsympathetic (enough to do something); to have the emotional resolve (to do something). Usually used in the negative. _How could you have the heart to fire Joanna the day after her father died?_  
-__have the last laugh__  
-__have the say__ To have the ultimate authority to command, control, or make a decision. _Your report looks good enough to me, but it’s the manager who has the say on whether it’s finished or not._  
-__have the wind up__ To be very anxious, upset, or frightened. _They had the wind up after we threatened them with legal action._  
-__hawks and doves__ Respectively, those who favor or support aggressive military action, especially regarding foreign policy, versus those who are inclined to more peaceful, diplomatic solutions.  
-__hazarded__ _v_  
-__he who hesitates is lost__  
-__head down__ To proceed or go to some specific destination or event.  
-__head over heels__ :two::hammer:  
-__head south__  
-__head start__  
-__head up__  
-__head-to-head__ Describing a one-on-one matchup or comparison.  
-__head-to-toe__  
-__heads up__  
-__hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
-__heat up__  
-__heat__ __1__ _slang_ Adverse, hostile criticism. _The senator has been facing a lot of heat in the media for his involvement in the scandal._ __2__ _slang_ Intense pressure. _Their defensive line has been cranking up on the heat on the other team’s quarterback._ __3__ _slang_ Increased police activity in response to some criminal activity. _We’ll have to wait until the heat dies down a bit before we try to sell the stolen goods._ __4__ _slang_ One or more firearms, especially a handgun. _Make sure you’re packing heat before you meet with the rival gang leader._  
-__here and there__  
-__here you are__  
-__hidden agenda__ A secret goal or an ulterior motive.  
 __hide-and-seek__  
 __high stakes__ If you have high stakes in something such as a venture or decision, you have a major interest in its outcome.  
 __high-handed__ Haughtily presumptuous; arrogantly or inconsiderately overbearing. _The new boss is unbearably high-handed in dealing with employees._  
