@@ -1,3 +1,21 @@
+__Blue Line__ _n_ A border demarcation between Lebanon and Israel.  
+__broaden__ _v_  
+__cannibalize__ _v_  
+__clear__ _vt_ __13a__ To secure the approval of: _The bill cleared the Senate._ __b__ To authorize or approve: _cleared the material for publication._  
+__contingency plan__ _n_  
+__de novo__  
+__demote__ _vt_  
+__dengue__ _n_  
+__gale__ _n_  
+__grind__ _v_ _Japan sits on top of four converging tectonic plates that constantly grind together._  
+__miscalculation__ _n_ :two::hammer:  
+__Mossad__ _n_ /ˈmɒsæd/  
+__onslaught__ _n_  
+__peacekeeper__ _n_ :pencil2:  
+__pivotal__  
+__punctuate<sup>1</sup>__ _vt_ __3__ To stress or emphasize.  
+__punctuate<sup>2</sup>__ _vi_ To use punctuation.  
+__rubble__ _n_ _Earthquakes reduced many buildings to rubble._  
 __Sistine Chapel__ _n_ (etymology?)  
 __sitting__ _n_  
 __Six-Day War__ _n_  
@@ -30,6 +48,7 @@ __squirm__ _v_ :two::hammer:
 __stable__ _n_ __3__ A group, as of athletes or entertainers, under common management: _a stable of prizefighters._  
 __stakeout__ _n_  
 __stale__ _adj_ __1__ Having lost freshness, effervescence, or palatability: _stale bread; stale air._  
+__startling__ _adj_  
 __stem__ _v_  
 __steno__ _n informal_ _US and Canadian_ Short for stenographer. _Steno pad and pen._  
 __stenos__  
@@ -53,13 +72,16 @@ __stockpile__ _n_
 __stoke__ _v_  
 __strait__ _n_  
 __streamline__ _vt_ __2__ To improve the efficiency of, often by simplification: _streamline a factory process._  
+__strengthen__ _v_  
 __stress__ _v_ _I cannot stress it enough._  
 __strife__ _n_  
 __stuffing__ _n_  
 __sub__ _v_ (subbed)  
 __subaltern__ _n_  
+__subduction__ _n_  
 __submarine__ _v_  
 __suborn__ _vt_  
+__subpar__ _adj_ /sʌbˈpɑː/  
 __subsequent__ _adj_ Following in time or order; succeeding.  
 __succubus__ _n_  
 __sultry__ _adj_  
@@ -118,6 +140,7 @@ __tomboy__ _n_ A girl who behaves in a way that is perceived to be stereotypical
 __tonsil__ _n_  
 __tonsorial__ _adj_  
 __toothsome__  
+__tote__ _n_ Totes are standardized containers that warehouses use to store and transport items. _Agility Robotics’ Digit carries an empty tote to a conveyor in an Amazon research and development warehouse._  
 __tout__ _v_ :dart:  
 __tracklement__ _n_ /ˈtrækəlmənt/ (Cookery) Any savoury condiment or sauce served with meat.  
 __train wreck__ _n_ __2__ _slang_ A disastrous outcome or occurrence; a catastrophe: _described the new budget as a fiscal train wreck._  
@@ -129,12 +152,14 @@ __treacherous__ _adj_ /ˈtrɛtʃ ər əs/ __1__ Betraying or likely to betray fa
 __truce__ _n_ /truːs/  
 __tub__ _n_ __1a__ An open, flat-bottomed vessel, usually round and typically wider than it is deep, used for washing, packing, or storing. _A tub of Ben & Jerry’s._ __b__ The amount that such a vessel can hold. __c__ The contents of such a vessel.  
 __tumbledown__ _adj_  
+__two-pronged__ _adj_ Having two prongs or similar parts; bifurcated. _A two-pronged message._  
 __tyrant__ _n_ /ˈtaɪ rənt/  
 __ubiquitous__ _adj_ /yoo-BIK-wuh-tuss/ _Syn_ widespread  
 __ukulele__ _n_ :pencil2:  
 __umbrella__ _n_ /ʌmˈbrɛl ə/ [:scroll: Etymologically, it is a “little shadow.”]  
 __unclear__ _adj_  
 __undercut__  
+__underpin__ _vt_  
 __unfazed__ _adj_ /ʌnˈfeɪzd/ _informal_ Not disconcerted; unperturbed.  
 __unfettered__ _adj_ /ʌnˈfɛtəd/  
 __unfold__ _v_  
