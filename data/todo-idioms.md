@@ -1,3 +1,9 @@
+__all-out war__  
+__be a given__  
+__change of pace__  
+__Drynuary__ (Dry January) _Drynuary_ is when people abstain from drinking alcohol during the month of January, especially after the excesses of the holidays.  
+__fix up__  
+__heaven forbid__  
 __hide-and-seek__  
 __high stakes__ If you have high stakes in something such as a venture or decision, you have a major interest in its outcome.  
 __high-handed__ Haughtily presumptuous; arrogantly or inconsiderately overbearing. _The new boss is unbearably high-handed in dealing with employees._  
@@ -24,6 +30,7 @@ __I wasn’t born yesterday__ Used to indicate that you are not foolish or gulli
 __iffy__ _informal_ Questionable or uncertain.  
 __in (one’s) own right__  
 __in a tizz(y)__ In a nervous, confused, agitated, or excited state.  
+__in detention__ In a prison or similar place. _Dozens of protesters were held/kept in detention for six hours._  
 __in earnest__ With sincere intentions.  
 __in less than no time__ (in no time (at all)) In a very little amount of time. Very quickly. _That test was so easy, I was done in less than no time._  
 __in no time (at all)__ (in less than no time) In a very little amount of time. Very quickly. _That test was so easy, I was done in no time._  
@@ -31,14 +38,15 @@ __in short order__ :dart: Quickly, efficiently, and without any delays.
 __in sum__ As a final brief, concluding point.  
 __in the face of (something)__  
 __in the know__  
-__in the works__ Being prepared; being planned; being done.  
+__in the works__ :two: Being prepared; being planned; being done.  
 __into overdrive__  
-__it is what it is__  
+__it is what it is__ :two::hammer:  
 __jerry-built__ _mod._ Carelessly and awkwardly built. _The lawyer’s case was jerry-built, but the jury bought it anyway._  
 __jump the gun__  
 __jump-start__  
 __keen on (someone or something)__  
 __keep (someone or something) in check__  
+__keep a lid on (something)__ :two::hammer:  
 __keep harping on about (someone or something)__ To continue to discuss, mention, or gripe about someone or something in a very persistent and irritating manner. _My roommate keeps harping on about all the irritating people she works with. I wish she would just find a different job already._  
 __keester__ :two: __1__ In the context of James Ellroy’s novels, “keester” generally means to conceal or hide something in a secret or hidden place. It’s often used in reference to illegal or illicit activities, like hiding contraband or stashing stolen goods. __2__ _n_ A chest; a suitcase. _The old lady was hauling the most enormous keester._ __3__ _n_ The buttocks; the anus. _Get your keester over here!_  
 __kick in the ass__  
@@ -90,11 +98,12 @@ __mic drop__
 __Mickey (Finn)__  
 __mill about__ To loiter, wander about, or waste time idly (some place). _I’ll just mill about in the store across the street while you get your hair cut._  
 __mind (one’s) p’s and q’s__ To be polite and well behaved; to mind one’s manners.  
-__miss out on (something)__ To lose the chance or opportunity to do or experience something.  
+__miss out on (something)__ :two: To lose the chance or opportunity to do or experience something.  
 __modus operandi__ :mega: /ˈməʊdəs ˌɒpəˈrændiː; -ˈrændaɪ/  
 __more so__  
 __mud-shark__ In the novels by James Ellroy, the term “mud-shark” is used to refer to a type of predatory behavior, often associated with characters who engage in morally questionable or criminal activities. The term “mud-shark” is symbolic of the predatory nature of certain characters, reflecting their willingness to exploit others for personal gain or pleasure.  
 __muddle along__ “Muddle along” is an idiomatic expression that means to manage or cope with a situation or task in a way that’s somewhat disorganized or unsystematic, but still effective. It suggests that someone is making progress, even if it’s slow or messy. To progress in confusion; to continue awkwardly.  
+__my, my__ _interjection_ An expression of surprise, incredulity, or pleasure.  
 __nab__ :two: To catch and arrest someone. Often used in passive constructions.  
 __navigate__ :three: To carefully and skillfully manage or deal with something that is complex, challenging, or difficult. _Navigating difficult relationships._ _Navigating life._  
 __neck and neck__  
@@ -138,6 +147,7 @@ __on record__ __on the books__ Recorded for future reference. _We had the coldes
 __on that note__  
 __on the back foot__ In a position of disadvantage, retreat, or defeat.  
 __on the bright side__  
+__on the brink of (something)__  
 __on the horizon__  
 __on the mat__ __1__ In a position to face a reprimand from someone. _When my team lost that big client, the boss called me on the mat._ __2__ Under discussion or consideration. _We don’t have time to discuss those issues, but don’t worry, they’ll be on the mat the next time we meet._  
 __on the table__ :two::hammer:  
@@ -152,10 +162,12 @@ __out of curiosity__ A phrase that is used to indicate that a person is asking a
 __out of whack__  
 __out-of-pocket__ Out-of-pocket expenses are costs connected with work that people pay themselves at first but are usually paid back to them later. _I charge twenty dollars an hour plus out-of-pocket expenses._ Note: If you pay out of pocket, you pay for something yourself and claim the money back later.  
 __outtro__ In a sense, “outtro” is a pun on “intro,” and it’s a creative way to refer to the closing or concluding section of a creative work.  
+__over and over (again)__  
 __own someone__ The idiom “own someone” typically means to have power or control over someone else. It can imply that the person being “owned” is subservient or subordinate to the person doing the “owning.” For example, if someone says, “I totally owned that job interview,” it means they were confident and in control of the situation, and they likely impressed the interviewer. Conversely, if someone says “I got owned by my boss at the meeting,” it implies that they felt intimidated or powerless, and the boss had the upper hand in the conversation.  
 __oy__ :dart: In the novels by James Ellroy, “oy” is a Yiddish expression that is often used to convey frustration, dismay, or exasperation. _Tom went oy and walked out._  
 __pablum__ In Ellroy’s novels, it’s used as a derogatory term for something that is bland, uninteresting, or lacking in substance. It’s sort of like saying that something is “boring” or “unoriginal.”  
 __pale in comparison__ To be or seem less important, impressive, or otherwise deficient when compared to someone or something else.  
+__pan out__  
 __pass the buck__ To shift or reassign the blame or responsibility (for something) to another person, group, or thing.  
 __pave the way (for someone or something)__ :two::hammer:  
 __pay it forward__ To perform some act of kindness for someone else after being the recipient of such an act oneself.  
@@ -171,12 +183,14 @@ __pillow talk__ Intimate conversations between two people in a romantic relation
 __pisser__  
 __plastered__ :three: _adj_ _slang_ Intoxicated; drunk.  
 __play around__  
+__play down__  
 __play it safe__  
 __play with fire__  
 __plea bargain__ To agree to plead guilty, especially to a lesser criminal offense, in exchange for some concession from the prosecution, such as dismissal of more serious charges.  
 __plea deal__ Plea bargain.  
 __plod on__ To move, progress, or develop at a slow but constant and deliberate pace.  
 __point fingers (at someone or something)__  
+__point the finger at (one)__  
 __poised to (do something)__  
 __poke fun__ To mildly taunt or mock someone or something; to make light fun of someone or something.  
 __poke__ __1__ _v_ _vulgar slang_ To have penetrative sex (with someone). _I can’t remember the last time I poked my wife._ __2__ _n_ _vulgar slang_ Penetrative sex. _Look at that hottie at the bar. Wouldn’t mind giving her a poke!_  
@@ -293,6 +307,8 @@ __see somebody/something for what they ˈare/it is__ Realize that somebody/somet
 __sell like hot cakes__  
 __serve (one’s) time__ To spend the amount of time in jail that is required by one’s prison sentence.  
 __set the stage for (something)__  
+__settle a score (with someone)__  
+__settle accounts__ __2__ To avenge a misdeed.  
 __shafted__ _slang_ Cheated or swindled; unfairly deprived or taken advantage of; screwed (over).  
 __shag (off)__ _slang_ To depart. _I gotta shag. It’s late. Go on! Shag off! I gotta shag. Somebody’s calling my name._  
 __shagged out__ _slang_ Exhausted. _What a day! I’m shagged out!_ _You guys look sort of shagged out._  
@@ -329,12 +345,13 @@ __snookered__ /ˈsnʊkɚd/ _mod_ __1__ Cheated; deceived. _I was snookered skill
 __snout__ __4__ _slang_ A person’s nose.  
 __snow job__ :dart: A form of manipulation that involves lying or flattery to persuade someone. a systematic deception; a deceptive story that tries to hide the truth. _You can generally tell when a student is trying to do a snow job._ _This snow job you call an explanation just won’t do._  
 __snuff (one)__ :two: _slang_ To kill one. _He was planning on going to the police, but the criminals snuffed him before he had the chance._ _Tragically, he was snuffed in his prime by cancer._  
-__so to speak__  
+__so to speak__: two::hammer:  
 __so-so__  
 __sock__ _informal_ __1__ _n_ A sharp, forceful blow. _He gave me a sock in the arm when I called him a wuss._ __2__ _v_ To deliver a sharp, forceful blow. _Talk about my mother like that again, and I’ll sock you in the jaw!_  
 __something of a (something)__ Having a lot of qualities like or associated with some particular thing or type of person.  
 __soul searching__ :three::hammer:  
 __speak with a forked tongue__  
+__spew out__  
 __spill__ :dart: _informal_ To disclose or divulge (something).  
 __spiral__ _vi_ To increase continually.  
 __split__ :dart: _slang_ To leave or depart, especially quickly or suddenly. _We’d better split, Tom. We don’t want to miss our flight._  
@@ -361,6 +378,7 @@ __swamped__ :dart: Extremely busy, to the point of being overwhelmed, overburden
 __swear by (someone or something)__  
 __sweatshop__ __1__ A factory or workshop in which employees are forced to do very hard work, especially the manufacturing of clothing, for long hours with very low wages. :dart: Can be used facetiously to describe generally unpleasant or undesirable work conditions.  
 __sweep in (to some place)__ To dash or run into some place.  
+__swipe back__ Swipe back is a term used in the context of dating or social media apps. It means to go back to a profile that you had previously “swiped left” on, or passed up, and give it a second look.  
 __switch-heater__ Switch-heater in the novels by James Ellroy refers to a device used to ignite a cigarette.  
 __switch-hitter__ __2__ By extension, someone who is bisexual.  
 __tacky__  
@@ -401,6 +419,7 @@ __trifle with (someone or something)__ To treat or deal with someone or somethin
 __true to (one’s) word__ As one has promised.  
 __tuff__ :two: In James Ellroy’s novels, the term “tuff” is often used to describe someone who is tough, gritty, and hardened. Ellroy is known for his hardboiled writing style and his focus on the seedy underbelly of society, and the term “tuff” reflects that. It’s often used to describe characters who are street-smart, tough-talking, and unafraid to engage in violent or risky behavior.  
 __turkey__  
+__turn (someone or something) upside down__  
 __turn out all right__  
 __turnaround jumper__ _basketball_  
 __turning poin__ A time when things may change; a point at which a change of course is possible or desirable.  
@@ -408,6 +427,7 @@ __turning point__
 __twisted__  
 __two peas in a pod__ Two people who are very similar, typically in interests, dispositions, or beliefs.  
 __two-way street__  
+__uh-huh__  
 __under the hood__  
 __under-promise and over-deliver__ To avoid raising expectations in order to subsequently exceed them. Used as a strategy to ensure the satisfaction of one’s client, customer, boss, etc. Also spelled without hyphens. _I want all of our customer service representatives to under-promise and over-deliver, so that all experiences with our company are positive ones._  
 __unheard of__ Extremely uncommon or unusual; beyond belief. Hyphenated if used as a modifier before a noun. _His prowess on the balance beam is unheard of._  
@@ -446,6 +466,7 @@ __with a vengeance__ _Die Hard with a Vengeance._
 __with flying colors__  
 __within reason__  
 __wrack (one’s) brain(s)__  
+__wrap up__  
 __XYZ__ In spoken language, “XYZ” is often used to refer to hypothetical or unspecified elements, variables, or situations.  
 __yap__ __2__ To chatter; to gossip. _Did you just come here to yap?_ __3__ _n_ Nonsense; gibberish. _That windbag can produce an enormous amount of yap._ __4__ _vi_ To empty one’s stomach; to vomit. _Who yapped in the bushes?_ _A yapping dog._  
 __yard__ _n_ A one-hundred-dollar bill. (Underworld.) _The guy wanted a yard just to fix a little dent in the fender._  
