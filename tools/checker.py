@@ -679,7 +679,7 @@ def main(progname, argv):
     if num_arguments > 0:
         print('🔵 ' + OK_BLUE + progname + ': Argument list: ' + str(argv) + END_C)
 
-    VALID_ARGUMENTS = [ "abbreviations+", "dictionary", "idioms", "interjections", "todo-idioms", "todo-main", "top-dictionary", "top-idioms" ]
+    VALID_ARGUMENTS = [ "abbreviations+", "dictionary", "Ellroy's-lingo", "idioms", "interjections", "todo-idioms", "todo-main", "top-dictionary", "top-idioms" ]
     if num_arguments > len(VALID_ARGUMENTS):
         print(RED + "Too many arguments. Aborting..." + END_C)
         usageAndAbort(progname, VALID_ARGUMENTS)
@@ -693,7 +693,7 @@ def main(progname, argv):
         print('🔵 ' + OK_BLUE + progname + ': Argument list after adding default arguments: ' + str(argv) + END_C)
 
     for arg in argv:
-        do_check_parts_of_speech = arg != "abbreviations+" and arg != 'idioms' and arg != 'interjections' and arg != 'todo-idioms' and arg != 'top-idioms'
+        do_check_parts_of_speech = arg != "abbreviations+" and arg != 'Ellroy\'s-lingo' and arg != 'idioms' and arg != 'interjections' and arg != 'todo-idioms' and arg != 'top-idioms'
         check(arg, do_check_parts_of_speech)
 
 if __name__ == '__main__':
