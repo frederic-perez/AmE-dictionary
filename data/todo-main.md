@@ -1,27 +1,49 @@
+__accolade__ _n_ /AK-uh-layd/ Accolade refers to an award or expression of praise. It is often used in the plural form.  
+__ail__ _v_  
+__arduous__ _adj_ /AHR-juh-wus/ Arduous is an adjective used to describe something that is very difficult or strenuous.  
+__ataraxia__ _n_ (ataraxy) A state of freedom from emotional disturbance and anxiety; tranquillity.  
+__backlash__ _n_  
 __Blue Line__ _n_ A border demarcation between Lebanon and Israel.  
+__boilerplate__  
 __broaden__ _v_  
 __cannibalize__ _v_  
 __clear__ _vt_ __13a__ To secure the approval of: _The bill cleared the Senate._ __b__ To authorize or approve: _cleared the material for publication._  
 __contingency plan__ _n_  
 __de novo__  
+__demob-happy__ _adj_  
 __demote__ _vt_  
 __dengue__ _n_  
+__diligent__ _adj_ /DIL-uh-junt/ Someone or something described as _diligent_ is characterized by steady, earnest, and energetic effort.  
+__farrier__ _n_ A person who shoes horses. _Syn_ horseshoer  
 __gale__ _n_  
 __grind__ _v_ _Japan sits on top of four converging tectonic plates that constantly grind together._  
+__incipient__ _adj_ /in-SIP-ee-unt/ _Incipient_ is used to describe things which are beginning to come into being or which are to become apparent.  
+__Janus-faced__ _adj_ Two-faced; hypocritical; deceitful.  
+__lade__ _v_  
 __miscalculation__ _n_ :two::hammer:  
 __Mossad__ _n_ /ˈmɒsæd/  
+__noodgy__ _adj_ /NOO-jee/ [:scroll: From noodge (to pester; one who pesters)] Nagging, pestering, annoying, or complaining.  
+__numero uno__ _n_ /NOO/NYOO-muh-roh OO-noh/ __1__ Oneself; one’s own interests. __2__ The highest in rank, quality, importance, etc.  
 __onslaught__ _n_  
+__parson__ _n_  
 __peacekeeper__ _n_ :pencil2:  
 __pivotal__  
+__pneumatology__ _n_ /noo/nyoo-muh-TOL-uh-jee/ The study of spiritual phenomena.  
+__posse__ _n_ /PAH-see/ A posse is a group of friends, or a group of people who are gathered together for a particular purpose. Posse also refers to a group of people who were gathered together by a sheriff in the past to help search for a criminal.  
+__prudery__ _n_ Excessive or affected modesty. _Syn_ Grundyism, primness, prudishness  
 __punctuate<sup>1</sup>__ _vt_ __3__ To stress or emphasize.  
 __punctuate<sup>2</sup>__ _vi_ To use punctuation.  
+__quinquagenarian__ _n_  
 __rubble__ _n_ _Earthquakes reduced many buildings to rubble._  
+__sagacity__ _n_ The quality of being discerning, sound in judgment, and farsighted; wisdom. _Syn_ discernment, sagaciousness, judgment  
+__sham__ _n_  
 __Sistine Chapel__ _n_ (etymology?)  
 __sitting__ _n_  
 __Six-Day War__ _n_  
 __six-figure__ _adj_  
 __ski jump__ _n_  
 __skin__ _vt_ _He skinned his knee and started to cry._  
+__skulk__ _v_ /SKULK/ To skulk is to move around or hide in a stealthy or secretive way. A person or animal that is said to be _skulking_ is often assumed or considered to be up to some form of wrongdoing or mischief.  
 __skyrocket__ _v_  
 __slash__ _n_ __1b__ A long cut or other opening made by such a stroke; a gash or slit. _The slash of the sword._  
 __slinky__ _adj_ Graceful, sinuous, and sleek: _wore a slinky outfit to the party._  
@@ -40,6 +62,7 @@ __solace__ _n_ :mega: /ˈsɒl ɪs/
 __sombrero__  
 __spiteful__ _adj_ Filled with, prompted by, or showing spite; malicious.  
 __spittoon__ _n_  
+__spline__ _n_ :astonished: A wooden or metal strip. _Syn_ slat  
 __split__ _v_ _Women who have split from a relationship._  
 __squarely__ _adv_ /ˈskwɛəlɪ/  
 __squeak__ _vi_ :two: __2__ _slang_ To turn informer.  
@@ -48,6 +71,7 @@ __squirm__ _v_ :two::hammer:
 __stable__ _n_ __3__ A group, as of athletes or entertainers, under common management: _a stable of prizefighters._  
 __stakeout__ _n_  
 __stale__ _adj_ __1__ Having lost freshness, effervescence, or palatability: _stale bread; stale air._  
+__stalwart__  
 __startling__ _adj_  
 __stem__ _v_  
 __steno__ _n informal_ _US and Canadian_ Short for stenographer. _Steno pad and pen._  
@@ -86,7 +110,7 @@ __subsequent__ _adj_ Following in time or order; succeeding.
 __succubus__ _n_  
 __sultry__ _adj_  
 __supercharge__ _vt_  
-__supercilious__  
+__supercilious__ _adj_ :two: Feeling or showing haughty disdain. _Syn_ arrogant  
 __surprise__ _n, v_ /səˈpraɪz/  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
 __susurous__ _adj_ _The susurous swash of the sea._  
