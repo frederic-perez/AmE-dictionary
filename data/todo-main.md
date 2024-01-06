@@ -1,29 +1,45 @@
 __accolade__ _n_ /AK-uh-layd/ Accolade refers to an award or expression of praise. It is often used in the plural form.  
 __ail__ _v_  
+__alleviate__ _vt_  
+__amp up__ _vt_  
+__annualize__ _vt_  
 __arduous__ _adj_ /AHR-juh-wus/ Arduous is an adjective used to describe something that is very difficult or strenuous.  
 __ataraxia__ _n_ (ataraxy) A state of freedom from emotional disturbance and anxiety; tranquillity.  
 __backlash__ _n_  
+__barn__ _n_ :es: granero  
+__barrage__ _n_ :mega:  
 __Blue Line__ _n_ A border demarcation between Lebanon and Israel.  
 __boilerplate__  
 __broaden__ _v_  
 __cannibalize__ _v_  
+__caulk__ _v_  
 __clear__ _vt_ __13a__ To secure the approval of: _The bill cleared the Senate._ __b__ To authorize or approve: _cleared the material for publication._  
 __contingency plan__ _n_  
 __de novo__  
 __demob-happy__ _adj_  
 __demote__ _vt_  
 __dengue__ _n_  
+__detainee__ _n_  
 __diligent__ _adj_ /DIL-uh-junt/ Someone or something described as _diligent_ is characterized by steady, earnest, and energetic effort.  
+__encompass__ _vt_ :mega: /ɪnˈkʌmpəs/  
 __farrier__ _n_ A person who shoes horses. _Syn_ horseshoer  
 __gale__ _n_  
 __grind__ _v_ _Japan sits on top of four converging tectonic plates that constantly grind together._  
+__hazard__ _v_ (hazarded)  
+__hiatus__ _n_ /haɪˈeɪtəs/  
+__inch__ _v_  
 __incipient__ _adj_ /in-SIP-ee-unt/ _Incipient_ is used to describe things which are beginning to come into being or which are to become apparent.  
+__inflame__ _vt_ __1__ To arouse to passionate feeling or action: _crimes that inflamed the entire community._  
 __Janus-faced__ _adj_ Two-faced; hypocritical; deceitful.  
 __lade__ _v_  
+__leisurewear__ _n_ Informal, comfortable clothing designed for wear while resting or relaxing.  
+__mind-boggling__  
 __miscalculation__ _n_ :two::hammer:  
 __Mossad__ _n_ /ˈmɒsæd/  
 __noodgy__ _adj_ /NOO-jee/ [:scroll: From noodge (to pester; one who pesters)] Nagging, pestering, annoying, or complaining.  
+__nosedive__ _v_  
 __numero uno__ _n_ /NOO/NYOO-muh-roh OO-noh/ __1__ Oneself; one’s own interests. __2__ The highest in rank, quality, importance, etc.  
+__onesie__ _n_ /ˈwʌnzɪ/ A one-piece garment combining a top with trousers, worn as leisurewear.  
 __onslaught__ _n_  
 __parson__ _n_  
 __peacekeeper__ _n_ :pencil2:  
@@ -34,9 +50,12 @@ __prudery__ _n_ Excessive or affected modesty. _Syn_ Grundyism, primness, prudis
 __punctuate<sup>1</sup>__ _vt_ __3__ To stress or emphasize.  
 __punctuate<sup>2</sup>__ _vi_ To use punctuation.  
 __quinquagenarian__ _n_  
+__rainfall__ _n_ _Syn_ rain  
+__Red Crescent__ _n_ A national branch of or the emblem of the Red Cross Society in a Muslim country.  
 __rubble__ _n_ _Earthquakes reduced many buildings to rubble._  
 __sagacity__ _n_ The quality of being discerning, sound in judgment, and farsighted; wisdom. _Syn_ discernment, sagaciousness, judgment  
 __sham__ _n_  
+__simmering__ _n_ Cooking in a liquid that has been brought to a boil. _Syn_ boiling, stewing  
 __Sistine Chapel__ _n_ (etymology?)  
 __sitting__ _n_  
 __Six-Day War__ _n_  
@@ -51,7 +70,7 @@ __slum<sup>1</sup>__ _n_
 __slum<sup>2</sup>__ _vi_ To visit impoverished areas or squalid locales, especially out of curiosity or for amusement.  
 __small-time__  
 __smithereens__  
-__smorgasbord__  
+__smorgasbord__ _n_ :three::hammer:  
 __snarf__ _vt_ To eat or drink rapidly or eagerly; devour: _snarfed down some cookies._  
 __snarky__ _adj_ :two: _informal_ Unpleasant and scornful.  
 __sniveling__ _n_ Whining in a tearful manner . _Syn_ snivel  
@@ -99,6 +118,7 @@ __streamline__ _vt_ __2__ To improve the efficiency of, often by simplification:
 __strengthen__ _v_  
 __stress__ _v_ _I cannot stress it enough._  
 __strife__ _n_  
+__stronghold__ _n_  
 __stuffing__ _n_  
 __sub__ _v_ (subbed)  
 __subaltern__ _n_  
@@ -164,6 +184,7 @@ __tomboy__ _n_ A girl who behaves in a way that is perceived to be stereotypical
 __tonsil__ _n_  
 __tonsorial__ _adj_  
 __toothsome__  
+__top-end__ _adj_ Of or relating to the best or most expensive products of their kind: _a range of top-end vehicles._  
 __tote__ _n_ Totes are standardized containers that warehouses use to store and transport items. _Agility Robotics’ Digit carries an empty tote to a conveyor in an Amazon research and development warehouse._  
 __tout__ _v_ :dart:  
 __tracklement__ _n_ /ˈtrækəlmənt/ (Cookery) Any savoury condiment or sauce served with meat.  
@@ -204,6 +225,8 @@ __valedictory__ _n_
 __vent__ _n_ __2__ An opening permitting the escape of fumes, a liquid, a gas, or steam. _Laundry vents are the tube that runs from a clothes dryer to the exterior of your home or building. They act like an exhaust pipe for the dryer, allowing the moisture from your clothes to escape vent._  
 __veranda__ _n_  
 __verdict__ _n_  
+__very<sup>1</sup>__ _adv_ __2__ Truly; absolutely: _the very best advice._  
+__very<sup>2</sup>__ _adj_ __1__ Complete; absolute: _at the very end of his career._ __2__ Being the same; identical: _That is the very question she asked yesterday._ __3__ Being particularly suitable or appropriate: _the very item needed to increase sales._ __4__ Used to emphasize the importance of what is specified: _The very mountains shook._ __5__ Being nothing more than what is specified; mere: _The very act of riding in the car made him dizzy._  
 __veto__ _vt_  
 __visceral__ _adj_ /VISS-uh-rul/  
 __vixen__ _n_ __2a__ A woman regarded as sexually alluring.  
@@ -235,6 +258,7 @@ __wherewithal<sup>1</sup>__ _n_ That with which to do something; means or suppli
 __wherewithal<sup>2</sup>__ _adv_ By means of which; out of which.  
 __whip up__  
 __whiplash__ _n_  
+__white-collar__ _adj_ Of, relating to, or constituting the class of salaried employees whose duties do not call for the wearing of work clothes or protective clothing.  
 __wisteria__ _n_  
 __wistfully__ _adv_  
 __wordsmith__ _n_  
