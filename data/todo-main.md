@@ -1,29 +1,3 @@
-__gale__ _n_  
-__grind__ _v_ _Japan sits on top of four converging tectonic plates that constantly grind together._  
-__hazard__ _v_ (hazarded)  
-__hiatus__ _n_ /haɪˈeɪtəs/  
-__inch__ _v_  
-__incipient__ _adj_ /in-SIP-ee-unt/ _Incipient_ is used to describe things which are beginning to come into being or which are to become apparent.  
-__inflame__ _vt_ __1__ To arouse to passionate feeling or action: _crimes that inflamed the entire community._  
-__Janus-faced__ _adj_ Two-faced; hypocritical; deceitful.  
-__lade__ _v_  
-__leisurewear__ _n_ Informal, comfortable clothing designed for wear while resting or relaxing.  
-__mind-boggling__  
-__miscalculation__ _n_ :two::hammer:  
-__Mossad__ _n_ /ˈmɒsæd/  
-__noodgy__ _adj_ /NOO-jee/ [:scroll: From noodge (to pester; one who pesters)] Nagging, pestering, annoying, or complaining.  
-__nosedive__ _v_  
-__numero uno__ _n_ /NOO/NYOO-muh-roh OO-noh/ __1__ Oneself; one’s own interests. __2__ The highest in rank, quality, importance, etc.  
-__onesie__ _n_ /ˈwʌnzɪ/ A one-piece garment combining a top with trousers, worn as leisurewear.  
-__onslaught__ _n_  
-__parson__ _n_  
-__peacekeeper__ _n_ :pencil2:  
-__pivotal__  
-__pneumatology__ _n_ /noo/nyoo-muh-TOL-uh-jee/ The study of spiritual phenomena.  
-__posse__ _n_ /PAH-see/ A posse is a group of friends, or a group of people who are gathered together for a particular purpose. Posse also refers to a group of people who were gathered together by a sheriff in the past to help search for a criminal.  
-__prudery__ _n_ Excessive or affected modesty. _Syn_ Grundyism, primness, prudishness  
-__punctuate<sup>1</sup>__ _vt_ __3__ To stress or emphasize.  
-__punctuate<sup>2</sup>__ _vi_ To use punctuation.  
 __quinquagenarian__ _n_  
 __rainfall__ _n_ _Syn_ rain  
 __Red Crescent__ _n_ A national branch of or the emblem of the Red Cross Society in a Muslim country.  

@@ -7412,7 +7412,7 @@ __gal__
 __gala__ _n_ :four: __1__ A festive occasion, especially a lavish social event or entertainment.  
 __Galahad__ _n_ __1__ In Arthurian legend, the purest of the Knights of the Round Table who alone succeeded in the quest for the Holy Grail. __2__ One considered to be noble, pure, or chivalrous. _I’m not a Galahad. I’m a bully, too._  
 __galboy__ _n_  
-__gale__ _n_ :five: An extremely strong wind: _the gale blew down hundreds of trees._  
+__gale__ _n_ :six: An extremely strong wind: _the gale blew down hundreds of trees._  
 __galimatias__ _n_ _rare_ Confused talk; gibberish.  
 __gall__ _v_ (galled)  
 __gallant__ _adj_  
@@ -7957,7 +7957,7 @@ __grimoire__ _n_ :three: /ɡriːmˈwɑː/ A book of magical knowledge, especiall
 __grimy__ _adj_  
 __grinch__ _n_  
 __grind<sup>1</sup>__ _n_ :two::hammer: _Most of us are more focused on the daily grind._ _The grind of life on the road._  
-__grind<sup>2</sup>__ _v_ (grinding) _Bumping and grinding._  
+__grind<sup>2</sup>__ _v_ :two::hammer: (grinding) _Bumping and grinding._ _Japan sits on top of four converging tectonic plates that constantly grind together._  
 __grinder__ _n_ A large sandwich made of a long crusty roll split lengthwise and filled with meats and cheese (and tomato and onion and lettuce and condiments); different names are used in different sections of the United States. _Syn_ hoagie, Italian sandwich, poor boy, sub, Cuban sandwich, zep, torpedo, wedge, bomber, hero _I usually have a salad for lunch, but today I am going to treat myself to a carb-laden, ham-stuffed grinder._  
 __grindstone__ _n_  
 __grip__ _v_  
@@ -8398,7 +8398,7 @@ __haymaker__ _n_ _slang_ :three: A powerful blow with the fist.
 __hayride__ _n_ :two: A pleasure ride or outing, esp. at night, by a group in an open wagon or truck partly filled with hay.  
 __haywire__ _adj, adv_ :five: /HAY-wyre/ Haywire means “being out of order or having gone wrong” or “emotionally or mentally upset or out of control.” It is often used in the phrase “go haywire.” _The company’s emailing system went haywire and sent out multiple copies of the advertisement to its subscribers._  
 __hazard<sup>1</sup>__ _n_ :two::hammer: _A 465-yard par with a water hazard._  
-__hazard<sup>2</sup>__ _vt_  
+__hazard<sup>2</sup>__ _vt_ :two::hammer: (hazarded)  
 __hazardous__ _adj_ :two::mega::hammer:  
 __haze__ _v_ (hazing) :two::hammer: _Allegations of hazing and telling._  
 __hazel__ _adj_ :two::hammer: _Gorgeous hazel eyes._  
@@ -8598,7 +8598,7 @@ __hex<sup>2</sup>__ _vt_ :three: __1__ To put a hex on. __2__ To bring or wish b
 __hey__  
 __heyday__ _n_ :nine::m: (haydays) The period of one’s greatest popularity, vigor, or prosperity.  
 __hi-rail truck__ _n_ :camera:  
-__hiatus__ _n_ /hye-AY-tus/ __1__ A period of time when something, such as an activity or program, is suspended. _The band has been on hiatus for three years, but is returning to live performance this summer._ __2__ In biology, hiatus refers to a gap or passage in an anatomical part or organ. __3__ In linguistics, it denotes the occurrence of two vowel sounds without pause or intervening consonantal sound.  
+__hiatus__ _n_ :two: /haɪˈeɪtəs/ /hye-AY-tus/ __1__ A period of time when something, such as an activity or program, is suspended. _The band has been on hiatus for three years, but is returning to live performance this summer._ __2__ In biology, hiatus refers to a gap or passage in an anatomical part or organ. __3__ In linguistics, it denotes the occurrence of two vowel sounds without pause or intervening consonantal sound.  
 __hibachi__ _n_ :three::hammer: _Original hibachi cooking._  
 __hibernal__ _adj_ /hy-BUHR-nuhl/ Of or relating to winter.  
 __hick__ _n_ :two::hammer: _A collection of web-toed hicks._  
@@ -9245,7 +9245,7 @@ __incentivize__ _vt_ :three::hammer: /ɪnˈsɛn tɪˌvaɪz/
 __inception__ _n_ :three::hammer:  
 __incessant__ _adj_ _The fifty-year reign of incessant warring was coming to a close._  
 __incessantly__ _adv_ :two::hammer:  
-__inch__ _v_ :five::hammer: (inching) _They’ll just inch their way down the field._ _Inch closer._  
+__inch__ _v_ :six::hammer: (inching) _They’ll just inch their way down the field._ _Inch closer._  
 __inchmeal__ _adv_ /INCH-meel/ Something done _inchmeal_ is done gradually, or little by little.  
 __inchoate__ _adj_ :three: /in-KOH-ut/ Only partly in existence; imperfectly formed. _Syn_ incipient _Dave looked at Mr. James Ward wonderingly, until that gentleman broke his train of inchoate thought._  
 __inchworm__ _n_  
@@ -9254,7 +9254,7 @@ __incident<sup>2</sup>__ _adj_ _A stroke incident to pancreatic cancer._
 __incidental<sup>1</sup>__ _adj_  
 __incidental<sup>2</sup>__ _n_  
 __incidentally__ _adv_ :nine: __1__ Apart or aside from the main subject; parenthetically. __2__ By chance.  
-__incipient__ _adj_ _An incipient building._  
+__incipient__ _adj_ :two: /in-SIP-ee-unt/ _Incipient_ is used to describe things which are beginning to come into being or which are to become apparent. _An incipient building._  
 __inclement__ _adj_ __1__ (of weather) Stormy, severe, or tempestuous. __2__ Harsh, severe, or merciless.  
 __inclined__ _adj_  
 __incognito__ _adv_ :two::hammer:  
@@ -9356,6 +9356,7 @@ __infinitessimal<sup>2</sup>__ _n_ __1__ An immeasurably or incalculably minute 
 __infinity pool__ _n_ :two::camera: A pool (typically a swimming pool) with an edge over which water flows to give the appearance of the water extending to the horizon. _An infinity-edge swimming pool._  
 __infirm__ _adj_ :four: __1__ Weak in body or mind, especially from old age or disease. _Syn_ debile, sapless, weakly, decrepit, feeble, rickety, weak __2__ Not strong or stable; shaky: _an infirm foundation._  
 __infirmity__ _n_ :two::astonished: Bad health or a particular illness.  
+__inflame__ _vt_ __1__ To arouse to passionate feeling or action: _crimes that inflamed the entire community._  
 __inflammable__ _adj_ /in-FLAM-uh-bul/  
 __inflatable<sup>1</sup>__ _adj_ :two::hammer: _Inflatable kayak._  
 __inflatable<sup>2</sup>__ _n_  
@@ -9648,7 +9649,7 @@ __jangle__ _v_ :two: (jangled, jangling) __1__ To make a noise by hitting small 
 __jangling__ _adj_ A discordant, harsh, or unpleasant (esp metallic) sound.  
 __janitor__ _n_  
 __Janus word__ _n_ :two: A Janus word is a word that is its own opposite—like “fast,” which can refer both to moving very quickly and to staying put. Frequently described as “words that are their own opposites,” Janus words are also known as contronyms, antagonyms , or auto-antonyms. A word having opposite or contradictory meanings, as _sanction_ or _cleave_.  
-__Janus-faced__ _adj_ /JAY-nuhs-fayst/ [:scroll: After Janus, the Roman god of doors, gates, and transitions.] __1__ Looking in two different directions. __2__ Having two contrasting aspects. __3__ Hypocritical or deceitful.  
+__Janus-faced__ _adj_ :two: /JAY-nuhs-fayst/ [:scroll: After Janus, the Roman god of doors, gates, and transitions.] __1__ Looking in two different directions. __2__ Having two contrasting aspects. __3__ Hypocritical or deceitful.  
 __Japan__ _n_ :mega: /dʒəˈpæn/  
 __jape__ _v_ :two::hammer: (japing)  
 __jaquette__ _n_  
@@ -10088,6 +10089,7 @@ __lacustrine__ _adj_
 __lacy__ _adj_ :three: Of, relating to, or resembling lace. _Cypress trees that were lacy with new leaf._ _Lacy buttresses._  
 __lad__ _n_  
 __laddie__ _n_ :two: _chiefly Scot_ A familiar term for a male, esp a young man; lad.  
+__lade__ _v_  
 __laden__ _adj_ :five: /LAY-dun/ Laden describes things that are heavily loaded with something, literally or figuratively. Heavily loaded or weighed down. _A suicide attack rammed an explosives-laden vehicle into the main gate of his home._ _Debt-laden banks._ _Salt laden marine environments._ _Airline passengers laden with luggage inched slowly through the gate._ _His voice was heavily laden with sarcasm._  
 __ladies and gents__ _n pl_ Informal form of _ladies and gentlemen._  
 __lading__ _n_ _Checking bills of lading._  
@@ -10311,6 +10313,7 @@ __leisure__ _n_ /ˈlɛʒə; _US_ ˈliːʒər/
 __leisure<sup>2</sup>__ _adj_ __1__ Free or unoccupied: _leisure hours._ __2__ Having leisure; not required to work for a living: _the leisure class._ __3__ Designed for recreational use: _video games and other leisure products._ _Leisure sports._  
 __leisurely<sup>1</sup>__ _adj_ :three::hammer: _A leisurely weekend stroll._  
 __leisurely<sup>2</sup>__ _adv_ :three::hammer: _He took his coat, leisurely putting it on._  
+__leisurewear__ _n_ Informal, comfortable clothing designed for wear while resting or relaxing.  
 __leitmotif__ _n_ :three::hammer: (leitmotiv)  
 __lemme__ _contraction_ _Lemme see._  
 __lemming__ _n_ :two: /LEM-ing/ __1__ Any of various small, thickset, short-tailed, furry rodents. __2__ One who mindlessly conforms or follows, especially toward disaster.  
@@ -11346,7 +11349,7 @@ __mincemeat__ _n_ :two::hammer:
 __mincing__ _adj_ Affectedly dainty or refined. _Syn_ dainty, niminy-piminy, prim, twee  
 __mind trick__  
 __mind__ _v_ _Mind the gap._  
-__mind-boggling__ _adj_ _informal_ :two: Overwhelming; stunning: _mind-boggling prices._  
+__mind-boggling__ _adj_ :three: _informal_ Overwhelming; stunning: _mind-boggling prices._  
 __minder__ _n_ __4__ _slang_ Someone acting as a bodyguard, guard, or assistant, esp in the criminal underworld. :es: guardaespaldas  
 __mindful__  
 __mindset__ _n_  
@@ -11384,7 +11387,7 @@ __misanthrope__ _n_ /MISS-un-throhp/ Someone who hates people in general.
 __misanthropic__ _adj_ :two: Characterized by a hatred or mistrustful scorn for humankind. _Syn_ cynical _Perhaps rendered more misanthropic by the infirmities that come with years upon a ship, she had made up her mind to kill all hands at once._  
 __misapprehension__  
 __misbegotten__ _adj_ :two::hammer: /miss-bih-GAH-tun/  
-__miscalculation__ _n_ A mistake in calculating. :es: error de cálculo  
+__miscalculation__ _n_ :three: A mistake in calculating. :es: error de cálculo  
 __miscarriage__ _n_ :two::hammer:  
 __miscarry__ _v_  
 __miscegenation__ _n_ :two::hammer:  
@@ -11599,6 +11602,7 @@ __mosey<sup>2</sup>__ _vi_ :four:hammer:
 __mosh pit__ _n_ :two: An area in front of a stage where very physical and rough dancing takes place at a rock concert.  
 __mosh__ _vi_ :two: To knock against others intentionally while dancing at a rock concert; slam-dance.  
 __mosque__ _n_ :two::hammer: (mosques)  
+__Mossad__ _n_ /ˈmɒsæd/  
 __mot juste__ _n_ The appropriate word or expression.  
 __mote__ _n_ :four::hammer: (motes) _A dust mote._  
 __moth__ _n_ :two::hammer:  
@@ -12089,6 +12093,7 @@ __nonsequitur__
 __nonstaff jobs__  
 __nonstarter__ _n_ An idea, proposal, or candidate with no chance of being accepted or successful. _Syn_ failure, loser  
 __nonstop__  
+__noodgy__ _adj_ /NOO-jee/ [:scroll: From noodge (to pester; one who pesters)] Nagging, pestering, annoying, or complaining.  
 __noodle<sup>1</sup>__ _n_ Brain. _Use your noodle._  
 __noodle<sup>2</sup>__ _v_ To improvise music on an instrument in an idle, haphazard fashion.  
 __nookie__  
@@ -12112,7 +12117,7 @@ __nose-to-nose__ _adj_
 __nosebag__ _n_ A canvas bag that is used to feed an animal (such as a horse). _Syn_ feedbag _The stableboy replaced the horse’s nosebag, which had torn in two places._  
 __nosebleed__ _n_ :two::hammer: (nosebleeds)  
 __nosedive<sup>1</sup>__ _n_  
-__nosedive<sup>2</sup>__ _vi_ _My confidence has been nose diving._  
+__nosedive<sup>2</sup>__ _vi_ :two::hammer: _My confidence has been nose diving._  
 __nosh<sup>1</sup>__ _vi_ _informal_ :four: To snack or eat between meals. _Late-night noshing._  
 __nosh<sup>2</sup>__ _vt_ To snack on: _to nosh potato chips._  
 __nosh<sup>3</sup>__ _n_ A snack.  
@@ -12175,6 +12180,7 @@ __number<sup>2</sup>__ _v_ :dart::two::hammer: (numbered) _I hope those days are
 __numbers game__ _n_  
 __numbers runners__  
 __numbly__  
+__numero uno__ _n_ /NOO/NYOO-muh-roh OO-noh/ __1__ Oneself; one’s own interests. __2__ The highest in rank, quality, importance, etc.  
 __numerous__ _adj_ :two::hammer: _Hamilton was the author of numerous potboilers._  
 __numinous__ _adj_ _The tourists were overcome by the numinous atmosphere of the catacombs._  
 __numismatist__ _n_ A collector and student of money (and coins in particular). _Syn_ coin collector  
@@ -12407,7 +12413,7 @@ __one-off<sup>1</sup>__ _adj_ :four: _British informal_ Done, made, or happening
 __one-off<sup>2</sup>__ _n_ :three: _British informal_ :three: (one-offs) Something done, made, or happening only once. _The meeting is a one-off._  
 __one-stop__ _adj_ :three: Having or providing a range of related services or goods in one place: _a one-stop shop._ _It’s the most comprehensive one-stop AI design suite on the market!_  
 __onerous__ _adj_ :seven::pencil2::astonished: /AH-nuh-rus/ Onerous means “involving, imposing, or constituting a burden.” It typically describes something that is difficult and unpleasant to do or deal with. _They were assigned the onerous task of post-show cleanup._ _The government imposed onerous taxes on imports._  
-__onesie__ _n_ :four::hammer: _The actor in the Lycra onesie is stealing the _Avengers_ show._  
+__onesie__ _n_ :five: /ˈwʌnzɪ/ A one-piece garment combining a top with trousers, worn as leisurewear. _The actor in the Lycra onesie is stealing the _Avengers_ show._  
 __onetime__ _adj_ __1__ Former, sometime. _A onetime actor._ __2__ Occurring only once. _Syn_ one-shot _It’s a onetime thing._  
 __ongoing__ _adj_ :five::hammer: _Ongoing efforts._ _The ongoing research activities,_  
 __onionskin__ _n_ /′ən‚yən‚skin/ A thin strong lightweight translucent paper used especially for making carbon copies. _Onionskin pages._ _Onionskin paper._  
@@ -12415,7 +12421,7 @@ __onlooker__ _n_ :three::hammer: (onlookers)
 __only problem is__  
 __onomatopoeia__ _n_ :two: /ah-nuh-mah-tuh-PEE-uh/ Onomatopoeia means “the creation or use of words that imitate sounds.” Example: The thunder boomed and the lightning crashed. It can also refer to the words themselves.  
 __onset__ _n_ :nine::mega::astonished: __1__ The beginning or start of something: _the onset of a cold._ _Early onset dementia._ __2__ An attack; assault.  
-__onslaught__ _n_ :six: A violent attack. _The onslaught of the Jacques._  
+__onslaught__ _n_ :seven: A violent attack. _The onslaught of the Jacques._  
 __ontology__ _n_  
 __onus__ _n_ :nine::m: /OH-nuss/ __1__ A difficult or disagreeable responsibility or necessity; a burden or obligation. If the onus is on someone to do something, it is their responsibility or duty to do it. Onus is a formal word that means “a responsibility, obligation, or burden.” It is usually preceded by the word _the._ _Management has made it clear that the onus is on employees to ask for further training if they don’t understand the new procedures._ _Ward’s statement puts the onus back on us._ _The onus for change._ __2__ It can also be used in some contexts as a synonym for blame or stigma.  
 __onyx__  
@@ -12933,7 +12939,7 @@ __parsimonious__ _adj_ :three: __1__ Exhibiting or marked by thrift or economy; 
 __parsimony__ _n_ :four::hammer:  
 __parsley__ _n_ :two::hammer: :es: perejil  
 __parsnip__ _n_ :four::hammer: :es: chirivía  
-__parson__ _n_ __1__ An Anglican cleric with full legal control of a parish under ecclesiastical law; a rector. __2__ A member of the clergy, especially a Protestant minister.  
+__parson__ _n_ :two: __1__ An Anglican cleric with full legal control of a parish under ecclesiastical law; a rector. __2__ A member of the clergy, especially a Protestant minister.  
 __parsonage__ _n_ :two::pencil2::hammer:  
 __part company__ _v_  
 __part-time<sup>1</sup>__ _adj_ :two::hammer: _He is also a part-time consultant._  
@@ -13034,6 +13040,7 @@ __payout__ _n_
 __paysleys__ _n_  
 __paywall__ _n_ :five: /PAY-wal/ (paywalls) A system of restricting access to online content or services, making them accessible only upon payment. A feature of a website, application or service that only allows access to certain pages, data or features to paid up subscribers. _From behind the paywall._  
 __pea-brain__ _n informal_ A foolish or unintelligent person.  
+__peacekeeper__ _n_ :pencil2:  
 __peach in syrup__ _n_ :es: melocotón en almíbar  
 __peach<sup>1</sup>__ _n_  
 __peach<sup>2</sup>__ _vi_ :astonished: _slang_ To inform on someone; turn informer: _“iddle-level bureaucrats cravenly peach on their bosses [when] one of them does something the tiniest bit illegal” (National Observer)._  
@@ -13497,7 +13504,7 @@ __pitted__ _v_ :four::hammer: (pitting) _Pitted cherries._
 __pituitary__  
 __pivot<sup>1</sup>__ _n_ :three: __1__ A shaft or pin on which something turns. __2a__ A person, thing, or factor having a major or central role, function, or effect. __b__ A key player or position; specifically: an offensive position of a basketball player standing usually with back to the basket to relay passes, shoot, or provide a screen for teammates.  
 __pivot<sup>2</sup>__ _v_  
-__pivotal__ _adj_ :five: __2__ Of crucial importance.  
+__pivotal__ _adj_ :six: __2__ Of crucial importance.  
 __pixie__  
 __pizazz__ _n_ :three: (pizzazz or pizazz or pzazz) An attractive combination of vitality and glamour. :es: dinamismo  
 __pizzeria__ _n_ :mega:  
@@ -13643,6 +13650,7 @@ __plutocracy__ _n_ Government by the wealthy.
 __plutography__ _n_ /ploo-TAH-gruh-fee/ [:scroll: From Greek pluto- (wealth) + -graphy (writing)] The genre that chronicles the lifestyles of the rich and famous.  
 __ply__ _v_ :nine::m: (plying) __1__ To carry on, pursue, or work at (a job, trade, etc). _It is the perfecting designed environment to ply his trade._ _If she wanted to ply her trade on the premises, the manager wanted a cut._ __2__ To manipulate or wield (a tool). _He was plying a broom._ __3__ To sell (goods, wares, etc), esp at a regular place. _Little shops where craftmen still ply their wares._ __4__ (usually foll by with) To provide (with) or subject (to) repeatedly or persistently: _he plied us with drink the whole evening; to ply a horse with a whip; he plied the speaker with questions._ __5__ (intr) To perform or work steadily or diligently: _to ply with a spade._ __6__ (Nautical Terms) (also intr) (esp of a ship) To travel regularly along (a route) or in (an area): _to ply between Dover and Calais; to ply the trade routes._ _Yatchs ply between the islands._  
 __plywood__ _n_ :es: contrachapado, madera laminada  
+__pneumatology__ _n_ /noo/nyoo-muh-TOL-uh-jee/ The study of spiritual phenomena.  
 __pneumatosis__ _n_ _An abdominal computed tomography scan showing hepatic (red arrows) and splenic (blue arrow) pneumatosis._  
 __pneumonia__ _n_ :two::mute:[~~p~~neumonia]:hammer:  
 __pneumothorax__ _n_ (_n pl_ pneumothoraxes or pneumothoraces) Accumulation of air or gas in the pleural cavity, occurring as a result of disease or injury, or sometimes induced to collapse the lung in the treatment of tuberculosis and other lung diseases.  
@@ -13806,7 +13814,7 @@ __pose__ _v_ :two::hammer: _That’s the question I pose to you._
 __posh__ _adj_ :six: Things that are posh are swanky, fancy, and high-class. Posh things usually cost a lot of money, too. Elegant and fashionable.  
 __posit<sup>1</sup>__ _vt_ :seven::hammer::pencil2: (posited) _BYU has posited themselves well._  
 __posit<sup>2</sup>__ _n_ A proposition that is accepted as true in order to provide a basis for logical reasoning. _Syn_ postulate  
-__posse__ _n_ :two::hammer: _A posse clad._  
+__posse__ _n_ :three: /PAH-see/ A posse is a group of friends, or a group of people who are gathered together for a particular purpose. Posse also refers to a group of people who were gathered together by a sheriff in the past to help search for a criminal. _A posse clad._  
 __possum > play possum__ _v informal_ :seven: To pretend to be ignorant, asleep, or deal in order to deceive somebody. _To play possum._ _He’d been playing possum._  
 __possum__ _n_ :five::hammer: _Possums in New Zealand are known to destroy plants, birds’ nests, and eat birds’ eggs and invertebrates, posing a serious threat to forests and native wildlife._ :es: zarigüeya  
 __post hoc__ _adj, adv, n_ :two::hammer:  
@@ -14204,7 +14212,7 @@ __proxy__ _n_ _Syn_ representative, agent, deputy, substitute, factor, attorney,
 __prude__ _n_ :four: /prud/ Someone who is very easily shocked or embarrassed by anything relating to sex. This word shows that you think people like this are silly. _Sun_ prig, puritan, goody-goody (informal), old maid (informal), stuffed shirt (informal), Holy Joe (informal), Holy Willie (informal) _I’m no prude but I’ve never heard such filth._  
 __prudent__ _adj_ :two::hammer:  
 __prudently__ _adv_  
-__prudery__ _n_  
+__prudery__ _n_ :two: Excessive or affected modesty. _Syn_ Grundyism, primness, prudishness  
 __prudishness__ _n_  
 __prurient__ _adj_ :three::hammer:  
 __pruritus__ _n_ :three: Severe itching, often of undamaged skin. An intense itching sensation that can have various causes (as by allergies or infection or lymphoma or jaundice etc.). Ocular pruritus: itching in the eye. Brachioradial pruritus: itching in the outer part of the lower arm. Senile pruritus: itching due to aging skin. Cholestatic pruritus: itching due to liver disease.  
@@ -14294,7 +14302,8 @@ __punching bag__ _n_ _The firm was a regular punching bag._
 __punchline__ _n_ :pencil2:  
 __punchy__  
 __punctilious__ _adj_ :dart::three: /pʌŋkˈtɪlɪəs/ Strictly attentive to minute details of form in action or conduct. _Syn_ meticulous Marked by precise accordance with details; _meticulous research_; _punctilious in his attention to rules of etiquette._  
-__punctuate__  
+__punctuate<sup>1</sup>__ _vt_ :two: __3__ To stress or emphasize.  
+__punctuate<sup>2</sup>__ _vi_ To use punctuation.  
 __puncture__ _n_ :two::hammer: _Transeptal puncture._  
 __punctured__ _v_ _Punctured his tire._  
 __pundit__ _n_ /PUN-dit/ :four::hammer:  
