@@ -69,10 +69,10 @@ def valid_use_of_parentheses_or_brackets(entry):
 
     return True
 
-VALID_TAGS = ( \
+VALID_TAGS = \
     'three', 'two', 'astonished', 'camera', 'dart', 'eight', 'es', 'four', 'five', \
     'fr', 'hammer', 'm', 'mega', 'mute', 'nine', 'pencil2', \
-    'reminder_ribbon','seven', 'six', 'scroll', 'sound')
+    'reminder_ribbon','seven', 'six', 'scroll', 'sound'
 
 def valid_tag(tag):
     """Returns True when tag is an allowed one; False otherwise"""
@@ -86,8 +86,8 @@ def valid_entry_tags(entry):
             return False, tag
     return True, ''
 
-NUMBER_TO_TAG = (':two:', ':three:', ':four:', ':five:', ':six:', ':seven:', ':eight:', ':nine:', \
-    ':nine::m:')
+NUMBER_TO_TAG = ':two:', ':three:', ':four:', ':five:', ':six:', ':seven:', ':eight:', ':nine:', \
+    ':nine::m:'
 
 def get_tag(number):
     """"Given an input number, an index is set to access a list to get the corresponding tag"""
@@ -184,7 +184,7 @@ def get_headword_part_of_speech_etc(tokens, do_print=False):
                 + END_C)
     return headword, part_of_speech, tokens[idx+1:]
 
-VALID_PARTS_OF_SPEECH = ( \
+VALID_PARTS_OF_SPEECH = \
     '', \
     '_adj informal_', \
     '_adj vulgar slang_', \
@@ -232,8 +232,7 @@ VALID_PARTS_OF_SPEECH = ( \
     '_v-link phr_', \
     '_vi_', \
     '_vi/t_', \
-    '_vt_', \
-)
+    '_vt_'
 
 def entry_misses_part_of_speech(entry):
     """This should be called instead entry_including_hammer_tag_misses_part_of_speech"""
