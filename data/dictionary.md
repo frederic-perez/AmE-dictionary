@@ -126,7 +126,7 @@ __acclaim__ _n_
 __acclaimed__ _adj_ :three::hammer:  
 __acclimate__ _v_ :pencil2:  
 __acclimation__ _n_ :pencil2:  
-__accolade__ _n_ :nine: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._ _This restaurant has received accolades from_ Esquire.  
+__accolade__ _n_ :nine::m: /AK-uh-layd/ An award or privilege granted as a special honour or as an acknowledgement of merit. Accolade refers to an award or expression of praise. It is often used in the plural form. _Syn_ honour, recognition _The hotel has won numerous accolades._ _This restaurant has received accolades from_ Esquire.  
 __accommodate__ _v_ :five::pencil2::hammer:  
 __accommodating__ _adj_ /əˈkɒməˌdeɪtɪŋ/ Willing to help; kind; obliging. _You said “yes” because you wanted to be accommodating._  
 __accommodation__ _n_ :two::pencil2: Accommodation is all about making room — it can mean a room or place where you will stay or an agreement about sharing something.  
@@ -357,7 +357,7 @@ __ahold__
 __aichmophobia__ _n_ The fear of pointed objects, esp needles, pins, etc.  
 __aide__ _n_ :two::hammer: (aides)  
 __aide-memoire__ _n_ A memorandum setting forth the major points of a proposed discussion or agreement, used especially in diplomatic communications. _Syn_ position paper  
-__ail__ _v_  
+__ail__ _v_ :two::hammer:  
 __ailerons__  
 __ailing__ _v_ :four::hammer: _It is ailing the NFL._  
 __ailment__ _n_ :five: An often persistent bodily disorder or disease; a cause for complaining. Mild illness. _Syn_ complaint, ill _She pretended that she was always well now, and concealed her ailments so craftily that we had to probe for them._  
@@ -436,7 +436,7 @@ __alleged__ _adj_ /əˈlɛdʒd, əˈlɛdʒ ɪd/
 __allegedly__ _adv_ :four: /əˈlɛdʒɪdlɪ/ __1__ Reportedly; supposedly: _payments allegedly made to a former colleague._ __2__ _sentence modifier_ It is alleged that.  
 __allegory__ _n_ A visible symbol representing an abstract idea. _Syn_ emblem _The blindfolded figure with scales is an allegory of justice._  
 __allergens__  
-__alleviate__ _v_ :two::hammer: /uh-LEE-vee-ayt/  
+__alleviate__ _vt_ :three::hammer: /uh-LEE-vee-ayt/  
 __alleviative__ _adj_ Moderating pain or sorrow by making it easier to bear. _Syn_ lenitive, mitigative, palliative _After the blacksmith burned his hand, he applied an alleviative salve to lessen the searing pain._  
 __alley-oop__ _n_  
 __allies__ _n_  
@@ -537,7 +537,7 @@ __ammonia__ _n_ :two::hammer: :es: amoníaco
 __amnesty player__  
 __amnesty__ _n_ :pencil2:  
 __amok__ _adv_ __1__ In a violently raging, wild, or uncontrolled manner. __2__ In a murderously frenzied state.  
-__amp up__ _phr v_ :two::hammer: (amped up, amping up)  
+__amp up__ _vt_ :three::hammer: (amped up, amping up)  
 __amp__ _n_ _Amps & alcohol._  
 __amped-up__ _adj informal_ :four: (amped up) Filled with intense energy and excitement.  
 __ampersand__ _n_ [:scroll: Alteration of and per se and, & (the sign) by itself (means) and. n the early 1800s, school children reciting their ABCs concluded the alphabet with the &. It would have been confusing to say “X, Y, Z, and.” So, the students said, “and per se and.”] The character or sign (&) representing the word _and_.  
@@ -623,6 +623,7 @@ __annihilation__ _n_ :two::pencil2::mega:
 __anniversary__ _adj, n_ :pencil2::mega:  
 __annoying__ _adj_ :dart: _Your dad’s so annoying!_ :es: ¡Qué pesado es tu padre!  
 __annual__ _n_ __2__ _Botany_ A plant that completes its entire life cycle in a single growing season.  
+__annualize__ _vt_  
 __annuity__ _n_ :five::hammer: (annuities)  
 __annulus__ _n_ A toroidal shape. _Syn_ doughnut, anchor ring, halo, ring  
 __annum__ _n_  
@@ -815,7 +816,7 @@ __archway__ _n_
 __arctophile__ _n_ :astonished: A person who collects or is very fond of teddy bears. _Tom is an arctophile._  
 __ardent__ _adj_ :two::hammer: _He was one of her most ardent suitors._  
 __ardor__ _n_ :two: Intensity of emotion, especially strong desire, enthusiasm, or devotion. _Syn_ passion Feelings of great warmth and intensity. _Syn_ fervency, fire _He spoke with great ardor at the rally, inspiring the crowd with his passionate words._  
-__arduous__ _adj_ :two: Very difficult.  
+__arduous__ _adj_ :three: /AHR-juh-wus/ Arduous is an adjective used to describe something that is very difficult or strenuous.  
 __arena__ _n_ :two::hammer: _In the professional and personal arenas._  
 __Argentina__ _n_ _Syn_ the Argentine  
 __Argentine__ _n_ :two::hammer::mega: /ˈɑr dʒənˌtin, -ˌtaɪn/ _The pope is an Argentine._  
@@ -962,7 +963,7 @@ __at large<sup>2</sup>__ _adv_ In a general manner.
 __at the earliest__  
 __at the very least__  
 __at-risk__ _adj_  
-__ataraxia__ _n_ (ataraxy) (Medicine) Calmness or peace of mind; emotional tranquillity.  
+__ataraxia__ _n_ :two: (ataraxy) (Medicine) Calmness or peace of mind; emotional tranquillity. A state of freedom from emotional disturbance and anxiety; tranquillity.  
 __atavism__ _n_ :two: A reappearance of an earlier characteristic. _Syn_ throwback, reversion  
 __atavistic__ _adj_ :four: Are you scared of the dark? It’s okay. That is quite a natural atavistic fear — that is, a fear related to an ancient way of thinking or behaving. Something atavistic doesn’t have to be a feeling; it can be anything that’s a throwback to an earlier form of life or way of looking at things. For example, a new building can be atavistic if it contains strong elements of ancient architectural styles. A physical genealogical trait handed down from many generations is also atavistic. For example, the pointed canine teeth in humans, originally used to tear meat apart when hunting, is an atavistic trait in mankind.  
 __atelier__ _n_ :two: A studio especially for an artist or designer. _Syn_ artist’s workroom  
@@ -1141,7 +1142,7 @@ __backhanded__ _adj_
 __backhander__ _n_ /ˈbækˌhændə/  
 __backhaul__ _n, v_ :three::hammer: _Backhaul areas._  
 __backhoe__ _n_ :three: A mechanical excavator whose bucket is attached by a hinge to a two-part arm and is drawn backward to the machine when in operation.  
-__backlash<sup>1</sup>__ _n_ :six::hammer: /ˈbækˌlæʃ/ _It leads to backlash._  
+__backlash<sup>1</sup>__ _n_ :seven::hammer: /ˈbækˌlæʃ/ _It leads to backlash._  
 __backlash<sup>2</sup>__ _v_  
 __backlit__  
 __backlog<sup>1</sup>__ _n_ :nine: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._ _Thousands of doctors feel under pressure to work extra shifts to help tackle the backlog of care caused by the covid pandemic._ _The NHS has made some progress on reducing the care backlog._  
@@ -1298,7 +1299,7 @@ __bark<sup>2</sup>__ _v_ :two::hammer: (barked) _His forehead was barked._ _Bark
 __barker__ _n_ :two::astonished: __2__ An employee who stands before the entrance to a show, as at a carnival, and solicits customers with a loud sales spiel. A person who stands at a show, fair booth, etc, and loudly addresses passers-by to attract customers.  
 __Barmecidal__ _adj_ Plentiful or abundant in appearance only; illusory: _a Barmecidal feast._  
 __Barmecide__ _adj_ /BAHR-muh-syd/ [:scroll: After Barmecide, a nobleman in the story “Barber’s Sixth Brother“ from the collection _One Thousand and One Nights_ (also known as _The Arabian Nights_).] Lavish or plentiful in imagination only; illusory; sham: _a Barmecide feast._  
-__barn__ _n_ _Out of the barn._  
+__barn__ _n_ :two::hammer: _Out of the barn._ :es: granero  
 __barnacle<sup>1</sup>__ _n_ :dart::three: /BAHR-nuh-kuhl/ __1__ A person or thing that is difficult to get rid of. __2__ Any marine crustacean of the subclass Cirripedia that attaches itself to rocks, hulls, docks, whales, etc. :es: percebe __3__ Someone or something that clings.  
 __barnacle<sup>2</sup>__ _vi_ :three: To cling in a persistent manner.  
 __barnacled__ _adj_ _His nose was barnacled with spots._  
@@ -1307,7 +1308,7 @@ __barnyard__ _n_ :two::pencil2: The area surrounding a barn, often enclosed by a
 __baron__  
 __baronial__ _adj_ Impressive in appearance. _Syn_ imposing, noble, stately  
 __barrack__ _n_ :two::astonished: _(often barracks)_ __1__ A building or group of buildings used to house military personnel. :es: cuartel __2__ A large, unadorned building used for temporary occupancy.  
-__barrage<sup>1</sup>__ _n_ :seven: __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
+__barrage<sup>1</sup>__ _n_ :eight::mega: __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
 __barrage<sup>2</sup>__ _v_  
 __barranca__ _n_ (barranco)  
 __barre__  
@@ -1854,6 +1855,7 @@ __blubber__ _n_
 __blubbering__ _v_ :two::hammer:  
 __bludgeon<sup>1</sup>__ _n_  
 __bludgeon<sup>2</sup>__ _v_ :four::hammer: (bludgeoned) _The everlasting bludgeoning of the wind._  
+__Blue Line__ _n_ A border demarcation between Lebanon and Israel.  
 __blue string__  
 __blue-blood__  
 __blue-chip__ _adj_ :four::hammer: _A blue-chip airline._ _The blue-chip Dow Jones industrial aberage._  
@@ -1921,7 +1923,7 @@ __boiler room__ _n_
 __boiler__  
 __boilermaker__ _n_ :two: __2__ _slang_ A drink of whiskey with a beer chaser.  
 __boilerplate code__ _n_  
-__boilerplate__ _n_ :eight::hammer:  
+__boilerplate__ _n_ :nine::hammer:  
 __boilers__  
 __boiling point__ _n_ /BOI-ling point/ [:scroll: From Old French boillir, from Latin bullire (to bubble), from bulla (bubble).] __1__ The point at which a situation turns into a crisis. __2__ The point at which one loses one’s temper. __3__ The temperature at which a liquid boils.  
 __boisterous__ _adj_ :two::hammer:  
@@ -2241,7 +2243,7 @@ __broad-spectrum__ _adj_ /BRAWD-SPEK-truhm/ Effective in a wide variety of uses.
 __broad<sup>1</sup>__ _n_ :two: __2__ _offensive_ _slang_ A woman or girl.  
 __broad<sup>2</sup>__ _adj_ :two: __2__ Extending far and wide. _The nine S&P 500 stocks with the greatest exposure to Europe didn’t fall apart but still did worse than the broad market._ (vs abroad) Full; open. _In broad daylight._  
 __broadcast__ _v_ (broadcasted)  
-__broaden__ _v_  
+__broaden__ _v_ :two::hammer:  
 __broadloom__ _n_  
 __broadside__ _n_ /BRAWD-syde/ The word broadside most often refers to a very strong and harsh spoken or written attack, but it has other meanings as well, among them “an attack by a ship in which all the guns on one side of the ship are fired together.” _Although the freshman representative knew her decision was bound to be unpopular, she was taken aback by the broadside leveled at her by her hometown newspaper’s editorial page._  
 __broadsided__  
@@ -2707,7 +2709,7 @@ __cane brakes__
 __canebrake__ _n_  
 __canister__ _n_ :five::hammer: _Organic coffee canisters._  
 __cannibalization__ _n_  
-__cannibalize__ _v_  
+__cannibalize__ _v_ :two::hammer:  
 __cannikin__ _n_  
 __cannoli__ _n_ :two::hammer:  
 __cannonball__ _n_ __3__ A dive made in a curled-up position with the arms pressing the knees against the chest. _Do a cannonball!_  
@@ -2940,6 +2942,7 @@ __caught up__ _adj_ Having become involved involuntarily: _caught up in the exci
 __caught__ _v_ :mute:[cau~~gh~~t] Past tense and past participle of catch.  
 __cauldron__ _n_  
 __cauliflower steak__ _n_ :camera: It’s simply thick cauliflower slices that are roasted in the oven.  
+__caulk__ _v_  
 __caulking__ _n_ :two: A usually impermeable substance used for filling seams, as between planks of a boat. Also called caulking compound.  
 __cause célèbre__ _n_ Any controversy that attracts great public attention.  
 __causeway__ _n_ :seven::hammer:  
@@ -3382,7 +3385,7 @@ __cleanser__ _n_
 __clear air__  
 __clear bag policy__ _n_ More and more stadiums and venues are implementing a clear bag policy. This means that in order to attend the events you must have a clear bag instead of a regular bag. _Ohio State will have a clear bag policy Saturday._  
 __clear out__ _phr v_ _informal_ To leave a place, usually quickly.  
-__clear__ _v_ :four: __13a__ To secure the approval of: _The bill cleared the Senate._ __b__ To authorize or approve. _Cleared the material for publication._ _Al had to clear all meetings with Ed._ _Clearing the hurdle._  
+__clear__ _vt_ :five: __13a__ To secure the approval of: _The bill cleared the Senate._ __b__ To authorize or approve. _Cleared the material for publication._ _Al had to clear all meetings with Ed._ _Clearing the hurdle._  
 __clear-cut__ _adj_ :two: Easy to understand or be certain about. _Adam’s guilt isn’t so clear-cut._ _Syn_ definite  
 __clearances__ _n_  
 __clearinghouse__ _n_ :two::hammer:  
@@ -3909,7 +3912,7 @@ __contiguous > the contiguous U.S.__
 __contiguous__ _adj_ /kun-TIG-yuh-wus/  
 __continence__ _n_ :two::hammer:  
 __continental breakfast__  
-__contingency plan__ _n_ :two::hammer:  
+__contingency plan__ _n_ :three::hammer:  
 __contingency__ _n_ :seven::hammer: (contingencies) _Contingency plan._ _The contingency response missions._  
 __contingent__ _adj_ :two::hammer: _Contingent problems._ _The University of Illinois conducts criminal background checks on all job candidates upon acceptance of a contingent offer._  
 __continual__ _adj_ :two::hammer: _For most systems, change is continual._  
@@ -4578,7 +4581,7 @@ __daze__ _n_ _Exhausted beyond his endurance, the Deacon sank down against the w
 __dazzle__ _v_ :four::hammer: (dazzled) _He had dazzled a businessman._  
 __dazzling__ _adj_ :nine::m: /ˈdæzlɪŋ/ (dazzlingly) __1__ Extremely bright, especially so as to blind the eyes temporarily. _The sunlight was dazzling._ _Syn_ extremely bright, blinding, glaring __2__ Extremely impressive, beautiful, or skilful. _A dazzling display of football._ _Dazzling gifts._ _Syn_ impressive, remarkable, extraordinary, outstanding, exceptional  
 __de facto__ _adj_  
-__de novo__ _adj, adv_ :two::hammer: _Computer-based de novo design of drug-like molecules._  
+__de novo__ _adj, adv_ :three::hammer: _Computer-based de novo design of drug-like molecules._  
 __de-escalate__ _v_ :four::pencil2::hammer:  
 __de-facto__  
 __deacon<sup>1</sup>__ _n_ /DEE-kuhn/ [:scroll: from Greek diakonos (servant, minister)] In a church, a person appointed as a lay leader to a position below a pastor, priest, etc.  
@@ -4780,6 +4783,7 @@ __demeaning__ _adj_ :two::hammer: _This job is demeaning._
 __demeanor__ _n_ :three: /dih-MEE-ner/ Demeanor refers to a person’s behavior toward other people. It is usually used in the singular. _The teacher’s quiet demeanor had a calming effect on the children._  
 __demigod__ _n_ :two: A person with great powers and abilities. _Syn_ superman, Ubermensch  
 __demo__ _v_ Short for demonstrate. _Google demoed its AI-powered search engine._  
+__demob-happy__ _adj_  
 __demographic__ _adj_  
 __demonize__ _vt_ :eight::hammer: (demonizing) __3__ To represent as evil or diabolic: _wartime propaganda that demonizes the enemy._  
 __demonstrate__ _v_ :pencil2:  
@@ -4787,6 +4791,7 @@ __demonstration__ _n_
 __demonstrators__  
 __demonym__ _n_ /dĕm′ə-nĭm′/ A name, such as _Swede_ or _New Yorker_, that denotes an inhabitant or native of a given place.  
 __demosaicing__ _adj_ (de-mosaicing, demosaicking)  
+__demote__ _vt_  
 __demur__ _v_ (demurred) :five::hammer: (demurred)  
 __demure__ _adj_ :six: /dih-MYOOR/ Affectedly modest or shy especially in a playful or provocative way. _Syn_ coy, overmodest  
 __demurely__ _adv_ :three::hammer:  
@@ -4798,7 +4803,7 @@ __dendrites__ _n_ :two::hammer:
 __dendritic__  
 __denervation__ _n_  
 __dengue fever__  
-__dengue__  
+__dengue__ _n_ :two:hammer:  
 __denier__ _n_ :two: A small coin of varying composition and value current in western Europe from the eighth century until the French Revolution.  
 __denigrate__ _v_ :two: To disparage; belittle. _Syn_ derogate _He helped you a great deal on this project, so don’t take all the credit and denigrate his influence._ _It denigrates your performance considerably._  
 __denigration__ _n_  
@@ -4881,6 +4886,7 @@ __desultory__ _adj_ :four: __1__ Lacking in consistency, method, purpose, or vis
 __detail__ _n_ :four::astonished::mega: __7a__ A group of military personnel assigned to a particular duty, usually a fatigue duty. Small working party of soldiers, etc. _A member of the team’s security detail._ __b__ The duty assigned: _garbage detail._  
 __detailer__ _n_  
 __detain__ _v_ __1__ To keep from proceeding; delay or retard: _Our friends were detained by heavy traffic._ __2__ To keep in custody or confinement: _The police detained several suspects for questioning._  
+__detainee__ _n_  
 __detemporalize__ _v_ To dissociate from a particular historical time. _Syn_ make timeless _There was a deep craving to detemporalize the Church._  
 __detente__  
 __détente__ _n_ :two: A relaxing of tension between major powers, especially the particular thawing of relations between the Soviet Union and the United States following the Cold War. _Can the détente be rolled back?_ _The recent détente with the United States has expanded._  
@@ -4972,7 +4978,7 @@ __dilapidated__ _adj_ Decayed, deteriorated, or fallen into partial ruin especia
 __dilatory__ _adj_ /DILL-uh-tor-ee/ __1__ Tending or intended to cause delay. _The councilor’s seemingly endless motions to adjourn were clearly dilatory._ _She tends to be dilatory in answering letters._ __2__ Tending to procrastinate or be late.  
 __dilemma__  
 __dilettante__ _n_ A dabbler in an art or a field of knowledge. _Syn_ sciolist _He claimed to be serious about his paintings, but he was at heart a mere dilettante._  
-__diligent__ _adj_ :three::dart: Characterized by steady, earnest, and energetic effort. Marked by persevering, painstaking effort. _Syn_ persevering  
+__diligent__ _adj_ :four::dart: /DIL-uh-junt/ Someone or something described as _diligent_ is characterized by steady, earnest, and energetic effort. Characterized by steady, earnest, and energetic effort. Marked by persevering, painstaking effort. _Syn_ persevering  
 __dill__ _n_ :three::hammer: _A dill pickle._ :es: eneldo  
 __dilly__ _n_ _slang_ One that is remarkable or extraordinary, as in size or quality: _had a dilly of a fight._  
 __dilly-dally__ _v_ To waste time, especially in indecision; dawdle or vacillate. _Syn_ drag one’s feet, procrastinate, stall, shillyshally. _If you continue to dilly-dally, we will be late for choir practice._  
@@ -5926,7 +5932,7 @@ __encephalopathy__ _n_ /ɛnˌsɛfəˈlɒpəθɪ/ (Pathology) Any degenerative di
 __enchiridion__ _n_ A concise reference book providing specific information about a subject or location. _Syn_ handbook, vade mecum _Over the years, the prisoner had spent time memorizing every enchiridion he could find and had become a virtual encyclopedia of knowledge._  
 __enclave__ _n_ :three: /EN-klayv/ An enclave is an area inhabited by people who are different in some way from the people in the surrounding areas. A distinct territorial, cultural, or social unit enclosed within or as if within foreign territory. _The district includes an enclave in which students of the university reside._  
 __encomium__ _n_ :three: /en-KOH-mee-um/ (Literary & Literary Critical Terms) A formal expression of praise; a tribute. _Syn_ eulogy, paean, panegyric _We stand humbled by his heroics, and cannot help feeling that this encomium is inadequate to extol his virtue._  
-__encompass__ _v_ :nine::m: __1__ To enclose within a circle; surround. __2__ To bring about; cause to happen; contrive: _he encompassed the enemy’s ruin._ __3__ To have as part of something larger; include. _Syn_ include _A galaxy encompassing billions of stars._ _Very large-scale computing encompasses a varied range of systems._ __4__ To include entirely or comprehensively: _this book encompasses the whole range of knowledge._  
+__encompass__ _v_ :nine::m::mega: /ɪnˈkʌmpəs/ __1__ To enclose within a circle; surround. __2__ To bring about; cause to happen; contrive: _he encompassed the enemy’s ruin._ __3__ To have as part of something larger; include. _Syn_ include _A galaxy encompassing billions of stars._ _Very large-scale computing encompasses a varied range of systems._ __4__ To include entirely or comprehensively: _this book encompasses the whole range of knowledge._  
 __encore<sup>1</sup>__ _n_ :six: __1__ A demand by an audience for a repetition of a song or act, performance of an additional piece, etc. __2__ The performance in response to such a demand. _An encore performance._  
 __encore<sup>2</sup>__ _v_ To demand an extra or repeated performance of (a work, piece of music, etc) by a performer.  
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  

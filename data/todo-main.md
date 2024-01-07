@@ -1,28 +1,3 @@
-__accolade__ _n_ /AK-uh-layd/ Accolade refers to an award or expression of praise. It is often used in the plural form.  
-__ail__ _v_  
-__alleviate__ _vt_  
-__amp up__ _vt_  
-__annualize__ _vt_  
-__arduous__ _adj_ /AHR-juh-wus/ Arduous is an adjective used to describe something that is very difficult or strenuous.  
-__ataraxia__ _n_ (ataraxy) A state of freedom from emotional disturbance and anxiety; tranquillity.  
-__backlash__ _n_  
-__barn__ _n_ :es: granero  
-__barrage__ _n_ :mega:  
-__Blue Line__ _n_ A border demarcation between Lebanon and Israel.  
-__boilerplate__  
-__broaden__ _v_  
-__cannibalize__ _v_  
-__caulk__ _v_  
-__clear__ _vt_ __13a__ To secure the approval of: _The bill cleared the Senate._ __b__ To authorize or approve: _cleared the material for publication._  
-__contingency plan__ _n_  
-__de novo__  
-__demob-happy__ _adj_  
-__demote__ _vt_  
-__dengue__ _n_  
-__detainee__ _n_  
-__diligent__ _adj_ /DIL-uh-junt/ Someone or something described as _diligent_ is characterized by steady, earnest, and energetic effort.  
-__encompass__ _vt_ :mega: /ɪnˈkʌmpəs/  
-__farrier__ _n_ A person who shoes horses. _Syn_ horseshoer  
 __gale__ _n_  
 __grind__ _v_ _Japan sits on top of four converging tectonic plates that constantly grind together._  
 __hazard__ _v_ (hazarded)  
