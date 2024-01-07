@@ -2828,7 +2828,7 @@ __in the view of (someone)__ In someone’s or some group’s opinion.
 __in the wake of (something)__ __1__ In the aftermath of something, often as a consequence. _In the wake of the scandal, several committee members resigned._ __2__ Coming immediately after something. _In the wake of the final scene, the audience burst into applause._  
 __in the wild__ In naturally occurring conditions or environments.  
 __in the wind__  
-__in the works__ :two: In progress; being completed or implemented. _We’ve got a couple life tapings in the works._  
+__in the works__ :four: In progress; being completed or implemented. Being prepared; being planned; being done. _We’ve got a couple life tapings in the works._  
 __in the zone__  
 __in their own right__  
 __in theory__ Hypothetically; as a possibility. As opposed to in reality or in practice.  
@@ -2850,17 +2850,19 @@ __inside out__ __3__ _adverb_ Thoroughly; down to the last detail. _I’ve read 
 __insofar as__ To such an extent that; to the degree that.  
 __intellectually challenged__ Of low intelligence; stupid.  
 __intestinal fortitude__ Strong courage, conviction, or determination; gumption; guts. _Not everyone has the intestinal fortitude necessary to survive in the world of politics._  
+__into overdrive__  
 __iron out__ :four: To ease, solve, or remove minor difficulties, troubles, or problematic details (of or in something).  
 __ironclad__  
 __Is the glass half empty or half full?__  
 __isn’t that funny?__  
+__it (all) depends__ The possibility or likelihood of some outcome depends on one or more unspecified factors.  
 __it (always) pays to (do something)__  
 __it ain’t over till/until the fat lady sings__ The final outcome cannot be assumed or determined until a given situation, event, etc., is completely finished. It is often used in reference to organized competitions, such as sporting events, political elections, or the like.  
 __it factor__  
 __it figures__ :three: It makes sense; it is as I expected or might have guessed. _A: “Sally already broke up with that new boyfriend of hers.” B: “Yeah, it figures. The dude looked like a total creep!”_  
 __it goes without saying__ :five: It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
 __it is not a competition__  
-__it is what it is__ :dart::six: The situation, circumstance, or outcome has already happened or been decided or established, so it must be accepted even if it is undesirable. _Look, we lost the game, but it is what it is. All we can do is work even harder for the next one._  
+__it is what it is__ :dart::eight: The situation, circumstance, or outcome has already happened or been decided or established, so it must be accepted even if it is undesirable. _Look, we lost the game, but it is what it is. All we can do is work even harder for the next one._  
 __it remains to be seen__ :two: Something is not yet clear, certain, or known. _It remains to be seen if and when this feature will be released._  
 __it speaks for itself__  
 __it takes a village__ :four: _proverb_ Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.”  
@@ -2890,6 +2892,7 @@ __jazz up__ :two: To make something fancier, more festive, more exciting, etc., 
 __jazzed__  
 __jazzy__  
 __Jekyll and Hyde__  
+__jerry-built__ _mod._ Carelessly and awkwardly built. _The lawyer’s case was jerry-built, but the jury bought it anyway._  
 __jet-setter__ A wealthy individual who travels globally, especially by private jet, to frequent fashionable resorts, social events, and the like.  
 __jibed (at something/at doing something)__ _old-fashioned, informal_ To be unwilling to do or accept something: _she agreed to attend but jibbed at making a speech._  
 __Jill of all trades(, master of none)__ A woman who is skilled in or adept at a wide variety of tasks or abilities (i.e., the female equivalent of “Jack of all trades”). If used with “master of none,” it implies that while competent in a variety of things, she is not highly skilled in a particular one.  
@@ -2916,11 +2919,11 @@ __jump off__
 __jump on (someone or something)__ _Amazon is jumping on the generative AI hype train._  
 __jump ship__ To leave a job or activity.  
 __Jump Street__ Jump Street in the novels written by Elmore Leonard refers to a street in Detroit, Michigan. It is a significant location in Leonard’s crime fiction, particularly in his Raylan Givens series. Jump Street is often portrayed as a rough and dangerous area, reflecting the gritty and realistic portrayal of urban life that is characteristic of Leonard’s writing.  
-__jump the gun__ :three::dart: To start something before it is permissible, appropriate, or advisable. The phrase alludes to starting to run in a foot race before the starting gun goes off. In James Ellroy’s novels, it usually means to act prematurely or hastily, without waiting for the right moment. _Henry jumped the gun and sent the proofs to the printer before the boss approved them, and she was not happy._ _I probably jumped the gun with announcing our engagement before everyone was there, but I was just too excited._  
+__jump the gun__ :dart::four: To start something before it is permissible, appropriate, or advisable. The phrase alludes to starting to run in a foot race before the starting gun goes off. In James Ellroy’s novels, it usually means to act prematurely or hastily, without waiting for the right moment. _Henry jumped the gun and sent the proofs to the printer before the boss approved them, and she was not happy._ _I probably jumped the gun with announcing our engagement before everyone was there, but I was just too excited._  
 __jump through hoops__ To do a lot of difficult things before you are allowed to have or do something you want.  
 __jump to conclusions__ To make decisions or form opinions before one has all the pertinent facts.  
 __jump up and down__  
-__jump-start__  
+__jump-start__ :two::hammer:  
 __jungle juice__ _slang_ Any improvised mixture of large amounts various hard liquors combined with small amounts of fruit juice.  
 __juniper juice__  
 __junk in junk out__ (Computers) Expression used to express the relationship between input and output: erroneous input causes erroneous output.  
@@ -2934,19 +2937,20 @@ __just the same (to one)__
 __justice is served/done__ Proper punishment or fair treatment is given by the legal system. _Derek Chauvin was convicted of murdering George Floyd last week, and a number of words and phrases in our dictionary saw dramatic increases in lookups, including_ justice is served _and_ sea change.  
 __K-car__ :two::hammer:  
 __kangaroo court__  
+__keen on (someone or something)__  
 __keep (one’s) cool__ To maintain control of one’s composure, temper, or nerve in a given situation.  
 __keep (one’s) eye(s) peeled (for someone or something)__ :three: To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep your eyes peeled._ _Keep your eye peeled for a birthday gift we could give your mother._  
 __keep (one’s) head on a swivel__ To remain vigilant of one’s surroundings.  
 __keep (one’s) slate clean__ To maintain an impeccable record; to refrain from committing any mistakes or wrongdoings.  
 __keep (one’s) socks on__ To remain patient and calm, especially when beginning to become angry or upset with impatience. Usually said as an imperative.  
 __keep (one’s)/an eye on (someone or something)__ :three: To watch someone or something carefully; to be attentive to someone or something. _Keep an eye on the Twitter._  
-__keep (someone or something) in check__ :four: To limit or restrain someone or something. _Devils keep Hawks’ high-flying offense in check._  
+__keep (someone or something) in check__ :five: To limit or restrain someone or something. _Devils keep Hawks’ high-flying offense in check._  
 __keep (someone) in the loop__ To keep someone informed about and/or involved in something, such as a plan or project, especially that which involves or pertains to a specific group.  
 __keep (something) straight (in one’s mind/head)__ To be able to understand something clearly and comprehensively; to keep the details of something clear in one’s mind.  
 __keep (up) (one’s) end of the bargain__ To do as was promised in an agreement or bargain; to carry through with what one agreed to do. Also worded as “keep one’s end of the bargain up.”  
 __keep a close eye on (someone or something)__ :two: To monitor someone or something closely. _Keep a close eye on this pot so that the soup doesn’t boil over._  
 __keep a cool head__ To maintain a calm demeanor and think clearly in a difficult, stressful, or troubling situation.  
-__keep a lid on (something)__ __1__ To keep the level of something from increasing drastically or beyond what is undesirable or dangerous. _They were one of the few countries in the EU able to keep a lid on unemployment during the recession._ __2__ To not allow something to become known to other people; to keep something a secret or classified. _No one else knows about it yet, so keep a lid on it for now._  
+__keep a lid on (something)__ :three: __1__ To keep the level of something from increasing drastically or beyond what is undesirable or dangerous. _They were one of the few countries in the EU able to keep a lid on unemployment during the recession._ __2__ To not allow something to become known to other people; to keep something a secret or classified. _No one else knows about it yet, so keep a lid on it for now._  
 __keep a sharp lookout (for something or someone)__ To remain vigilant or carefully watchful (for something or someone).  
 __keep a tab on (someone or something)__  
 __keep above water__ :three::hammer: _This is keeping myself above water._  
@@ -2957,6 +2961,7 @@ __keep an eye peeled (for something or someone)__ To remain vigilant or carefull
 __keep balls in the air__  
 __keep cool__  
 __keep from (doing something)__ To stop oneself or another from (doing something). _I could hardly keep from hitting him._ _You honestly think that’s gonna keep the Joker from killing people?_ :es: abstenerse de  
+__keep harping on about (someone or something)__ To continue to discuss, mention, or gripe about someone or something in a very persistent and irritating manner. _My roommate keeps harping on about all the irritating people she works with. I wish she would just find a different job already._  
 __keep in mind__  
 __keep in step with the times__ To be, strive to be, or appear to be contemporary, fashionable, and/or relevant in modern times.  
 __keep it real__  
@@ -2979,6 +2984,7 @@ __keep your ego checked__ The idiom “keep your ego checked” means to maintai
 __keep your eyes peeled__ [:scroll: The figurative sense of keeping alert, by removing any covering of the eye that might impede vision, seems to have appeared in the US about 1850.]  
 __keep your head above water__ To just be able to manage when you have financial difficulties.  
 __keep your shirt on__  
+__keester__ :two: __1__ In the context of James Ellroy’s novels, “keester” generally means to conceal or hide something in a secret or hidden place. It’s often used in reference to illegal or illicit activities, like hiding contraband or stashing stolen goods. __2__ _n_ A chest; a suitcase. _The old lady was hauling the most enormous keester._ __3__ _n_ The buttocks; the anus. _Get your keester over here!_  
 __key into (something)__  
 __keyed up__ :dart::two: Excited, nervous, or anxious. _I’m so keyed up after that concert that there’s no way I’m going to be able to fall asleep._  
 __kibosh__ __1__ _n_ A stop to or a check on something. Used almost exclusively in the phrase “put the kibosh on (something).” _The boss finally put the kibosh on our two-hour lunch meetings._ __2__ _v_ To put a stop to something or check it in some way. _You’d better kibosh that nonsense before it gets you in trouble._  
@@ -2986,12 +2992,14 @@ __kick (someone or something) to the curb__ :three: To discard, abandon, or dism
 __kick ass__ :four::dart: __1__ _v_ _rude slang_ To defeat someone or something decisively. In this usage, a possessive noun or pronoun is used between “kick” and “ass.” _We weren’t prepared for that game, and the other team kicked our asses._ __2__ _v_ _rude slang_ To physically attack one; to beat one up. In this usage, a possessive noun or pronoun is used between “kick” and “ass.” _I’ll kick your ass if I ever see you talking to my girlfriend again._ __3__ _v_ _rude slang_ To be very effective or successful. _This new strategy is really kicking ass and keeping the groundhogs away from my vegetable garden!_ __4__ _v_ _rude slang_ To be excellent or exceptional. _That move kicked ass! All movies should be like that!_ __5__ _v_ _rude slang_ To motivate one or shock one out of complacency. In this usage, a possessive noun or pronoun is used between “kick” and “ass.” _The professor’s speech today kind of kicked my ass and made me realize I need to start applying myself._ __6__ _n_ _rude slang_ Excellent or exceptional; awesome. In this usage, the phrase is hyphenated or spelled as one word. _That was a pretty kick-ass roller coaster._ __7__ _v_ _vulgar slang_ To take forceful or harsh measures to achieve an objective.  
 __kick back__  
 __kick butt__ :two: To be very exciting or effective. _Syn_ kick ass _The new system really kicked butt, catching several cheaters the first day it was used._ _I was kicking butt at work._  
+__kick in the ass__  
 __kick in__ :four: To start to have an effect or to happen.  
 __kick into high gear__  
 __kick the can down the road__ Especially in politics, to postpone or defer a definitive action, decision, or solution, usually by effecting a short-term one instead. _It looks as though congress is going to kick the can down the road again on the debt ceiling issue, but they’ll have to find a lasting solution eventually._  
 __kick the crap out of (someone)__  
 __kick the tires__ To inspect or test something or someone to ensure that he, she, or it meets the required or expected standard of quality. Primarily heard in US, Canada. _The boss always assigns difficult projects as a way of kicking the tires of new employees._ _We should hire a few interns to kick the tires on this app before we release it to the public._  
 __kick the/(one’s) door down__  
+__kick-start__ :two::hammer:  
 __kickback__  
 __kicker__  
 __kid around__  
@@ -3005,6 +3013,7 @@ __killing field__
 __kindred spirit__ :nine::m: [:sound: kindred spirit] (kindred spirits) An individual with the same beliefs, attitudes or feelings as oneself. _Dean and I are kindred spirits when it comes to spending money-we’re both tight._ _Syn_ kindred soul _A kindred spirit._ :es: almas gemelas  
 __king of the hill__ :four: The most powerful, successful, or authoritative person in a group or organization _After years of slowly moving up the ranks, Joe finally became king of the hill in his office._  
 __king of the jungle__ The lion, especially in cultural or artistic depictions. (Usually a misnomer, as lions typically inhabit deserts or dry forests, as opposed to jungles.)  
+__kip__ _vi_ To sleep. _He’s upstairs kipping. Can he call you back?_  
 __kiss of death__ An action, event, or association that causes inevitable ruin or failure. An allusion to Judas Iscariot’s betrayal of Jesus Christ, during which Judas kissed Jesus as a way of identifying him to those who would put him to death. _The company’s connection to the disgraced media mogul will likely prove to be its kiss of death._  
 __kiss up__ _slang_ :dart: To habitually offer flattery in the hope of gaining favor; to behave sycophantically. _Stop kissing up just to try to get an A. Just study like everyone else._ _Kiss up tp the bosses._  
 __kiss-ass__  
@@ -3029,9 +3038,10 @@ __knocking on heaven’s door__ :dart: To be dying, to be close to death.
 __knockout__  
 __know (one’s) own mind__ To be firmly resolute and confident in one’s ideas, intentions, plans, or opinions.  
 __know (one’s) shit__  
-__know a thing or two__ :six: To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
+__know a thing or two__ :seven: To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
 __know better (than to do something)__ To be wise enough, experienced enough, or well trained enough not to have done something wrong. _Mary should have known better than to accept a lift from a stranger._ _Children should know better than to play in the road._  
 __know every trick in the book__ To be aware of or knowledgeable in every possible way to do or achieve something, especially ways that are clever, cunning, or ethically questionable.  
+__know for a fact__ :two: To have definitive knowledge of something.  
 __know full well__ To know or be aware of something without any possible doubt. _You know full well why I’m upset with you, so there’s no use playing dumb!_  
 __know the ropes__ :three: To know how to do a job or task properly.  
 __know-it-all__ A person who seems or affects to know everything about any given topic, and who makes an irritating point of demonstrating their knowledge to others. _Jim’s new boyfriend is such a know-it-all. I can’t stand having a conversation with him about anything!_  
@@ -3044,18 +3054,20 @@ __kvetch__ :dart::two::hammer: /kvɛtʃ/ (quetch /kʍɛtʃ/)
 __l’esprit de l’escalier__ :dart: (l’esprit d’escalier) A French phrase meaning “the wit of the staircase,” a perfect witty remark, retort, or rejoinder that occurs to one after the fact or too late to be used. _I was on the bus home long after being tongue-lashed by my boss when I thought of the perfect things to say that would take him down a few pegs. Ah, l’esprit de l’escalier!_  
 __labor omnia vincit__ _Latin phrase_ Labor conquers all. (Motto of Oklahoma.)  
 __labor under the illusion of/that__ To live, operate, or function with the unyielding belief in something, especially that which is fanciful, unrealistic, or untrue.  
+__ladies and gents__  
 __Lady Luck__ :three: The personification of fortune, whether good or bad. (Sometimes spelled in lowercase.) _I’m riding with Lady Luck._  
 __laff__ _v_ :three: (laffed) An obsolete or dialectal spelling of laugh.  
 __lag behind__ :two: To move or happen at a slower pace than someone or something else. _Why are you guys lagging behind? Pick up the pace!_  
 __laid-back__ _adj_ :nine::m: [:sound: laid-back] __1__ Calm, casual, or at ease. Unhurried and relaxed. _Syn_ mellow _Laid-back guy or people._ _Australia’s laid back lifestyle._ _Oh, I’m sure Tim isn’t worried about any of this—he’s so laid-back._ _Such a laid back place._ __2__ Intoxicated.  
 __land a job__ To find a job and be hired.  
 __land of plenty__ A fictional or imagined utopian place where there is an abundance of everything needed to survive and flourish.  
-__land on (one’s) feet__ :three: To gracefully survive a bad situation.  
+__land on (one’s) feet__ :four: To gracefully survive a bad situation.  
 __land-poor__ Owning a large amount of land that is unprofitable and being without the means to maintain it or capitalize on its fertility.  
-__lap dog__ :dart: __1__ Literally, a dog that is small enough and temperamentally incline to sit comfortably upon one’s lap. __2__ A person who is readily inclined to submit to, seek the favor of, or agree with someone else, especially a person of higher authority. _It sickens me to see you be a lap dog of your boss like that. Have a little self-respect!_ :es: perro faldero  
+__lap dog__ :dart::three: __1__ Literally, a dog that is small enough and temperamentally incline to sit comfortably upon one’s lap. __2__ A person who is readily inclined to submit to, seek the favor of, or agree with someone else, especially a person of higher authority. _It sickens me to see you be a lap dog of your boss like that. Have a little self-respect!_ :es: perro faldero  
 __lap of the gods__ A state beyond possible human control, intervention, or responsibility; a state or condition that is or will be decided by nature or fate. Usually used in the phrase “in the lap of the gods.”  
 __larger than life__ :three::hammer:  
 __larger-than-life__  
+__lark__ A frolic, a game; thus _larkiness_, a propensity for such pleasures; also used ironically/negatively.  
 __laser focus__ Concentrate one’s attention and effort on a specific task or goal with intense and precise focus, much like a laser beam targets and illuminates a specific point.  
 __lash about__ _Lads lashing about._  
 __lash out__ :seven::hammer:  
@@ -3109,13 +3121,13 @@ __leave it at that__ :dart: To take no further action or say nothing more about 
 __leave much to be desired__ :dart: To be very inadequate or unsatisfactory; to lack a large amount of what is desired or required. _The film has a very interesting premise, but the final product leaves much to be desired._  
 __leave no stone unturned__ :two::hammer: _We are leaving no stone unturned._  
 __leave someone in its wake__ _The speedboat leaves all others in its wake._  
-__left and right__ :seven::hammer:  
+__left and right__ :eight::hammer:  
 __left in the dark__  
 __left to (one’s) own devices__ :two: Left unsupervised or uncontrolled; allowed to do as one pleases.  
 __leg up__ :two: __1__ Literally, a boost from another person that enables one to reach something that one could not reach on one.s own. _Give me a leg up so I can reach the dishes on the top shelf._ __2__ An advantage in a situation or over another person. _Getting certifications will definitely give you a leg up in the IT industry._ _Area’s 2 reigning congressmen have leg up on funding._ _That might give me a leg up._  
 __leg work__ :two::hammer:  
 __legal eagle__ An especially clever, aggressive, or skillful attorney. _I might be considered something of a legal eagle now, but I had to work for years to get enough experience to build my reputation._  
-__legend has it__  
+__legend has it__ :two: “Legend has it” is a phrase used to introduce a story that is traditionally regarded as true, but which may not be verifiable or historically accurate.  
 __legit__ /ləˈdʒɪt/  
 __lemon law__ :two: A law requiring an automobile manufacturer or dealer to replace, repair, or refund the cost of an automobile that proves to be defective after purchase. An American law that protects purchasers of faulty cars.  
 __lemon__ Something that is worthless or much less valuable than one was led to believe. _It sounded like a good deal at the time, but this car he sold me is a total lemon!_  
@@ -3126,6 +3138,7 @@ __let (the) perfect be the enemy of (the) good__ To allow the demand, desire, or
 __let alone__ :nine::m: [:sound: let-alone] Not to mention. The phrase is used to emphasize that if other more significant or pressing things are not possible or cannot be accommodated, a lesser thing certainly is not or cannot either. _We can’t afford a vacation, let alone a trip to Disney World._ _If you’re living in the present, let alone in the future, you must buy this Acme product._ _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
 __let down (one’) hair__ :dart: To cease acting formally or conservatively; to let go of one’s inhibitions or reservations. _Come on, Jim, this is a party! Let down your hair and go a little wild!_  
 __let down (one’s) guard__ To become less guarded or vigilant; to stop being cautious about potential trouble or danger.  
+__let down__  
 __let go and let God__ To give up one’s self-determination and yield to the teachings, designs, or instructions of God or the church. _One day, I decided to just let go and let God, and I’ve been a happier person for it ever since._  
 __let it rest__ To cease discussing or dwelling upon a given subject. _Look, we can’t afford a new car right now, so just let it rest already!_  
 __let it slip__ To accidentally or inadvertently reveal a given secret or important piece of information.  
@@ -3135,6 +3148,7 @@ __let somebody down__ To disappoint someone.
 __let someone go__ _euphemism_ To fire someone. _They let Jane go from her job._ _I’m afraid we’re going to have to let you go._  
 __let the dust settle__ To allow for things return to normal after a period of excitement, a high level of activity, etc.  
 __let the good times roll__ To have as much fun or live life as richly as possible. (Often said as an imperative.)  
+__let’s face it__ We need to recognize the truth; we should face reality.  
 __let’s get something straight__ (expression) Let’s clear up any possible confusion, misunderstanding, or uncertainty (about something); let me make this perfectly clear. _Before we get into this debate, let’s get something straight—we are to focus solely on the topic at hand, so no deviating into unrelated subjects._  
 __let’s not and say (that) we did__ A sarcastic expression indicating that one would really rather not do what has been proposed. _Joe: “Why don’t we go to the farmers’ market today?” Sarah: “Ugh, in this weather? Let’s not and say we did.”_  
 __let’s roll__ Let’s get out of here; let’s get moving. _That’s everything we need from the store. Let’s roll!_  

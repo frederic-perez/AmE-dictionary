@@ -1,28 +1,3 @@
-__in the works__ :two: Being prepared; being planned; being done.  
-__into overdrive__  
-__it (all) depends__ The possibility or likelihood of some outcome depends on one or more unspecified factors.  
-__it is what it is__ :two::hammer:  
-__jerry-built__ _mod._ Carelessly and awkwardly built. _The lawyer’s case was jerry-built, but the jury bought it anyway._  
-__jump the gun__  
-__jump-start__  
-__keen on (someone or something)__  
-__keep (someone or something) in check__  
-__keep a lid on (something)__ :two::hammer:  
-__keep harping on about (someone or something)__ To continue to discuss, mention, or gripe about someone or something in a very persistent and irritating manner. _My roommate keeps harping on about all the irritating people she works with. I wish she would just find a different job already._  
-__keester__ :two: __1__ In the context of James Ellroy’s novels, “keester” generally means to conceal or hide something in a secret or hidden place. It’s often used in reference to illegal or illicit activities, like hiding contraband or stashing stolen goods. __2__ _n_ A chest; a suitcase. _The old lady was hauling the most enormous keester._ __3__ _n_ The buttocks; the anus. _Get your keester over here!_  
-__kick in the ass__  
-__kick-start__ :two::hammer:  
-__kip__ _vi_ To sleep. _He’s upstairs kipping. Can he call you back?_  
-__know a thing or two__  
-__know for a fact__ :two: To have definitive knowledge of something.  
-__ladies and gents__  
-__land on (one’s) feet__  
-__lap dog__ :two: __2__ A person who is readily inclined to submit to, seek the favor of, or agree with someone else, especially a person of higher authority. _It sickens me to see you be a lap dog of your boss like that. Have a little self-respect!_  
-__lark__ A frolic, a game; thus _larkiness_, a propensity for such pleasures; also used ironically/negatively.  
-__left and right__  
-__legend has it__ “Legend has it” is a phrase used to introduce a story that is traditionally regarded as true, but which may not be verifiable or historically accurate.  
-__let down__  
-__let’s face it__ We need to recognize the truth; we should face reality.  
 __ley go__  
 __light on (one’s) feet__  
 __like greased lightning__ Extremely fast.  
