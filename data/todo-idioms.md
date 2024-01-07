@@ -1,8 +1,16 @@
 __all-out war__  
+__be a blank slate__  
 __be a given__  
+__blank slate__  
+__butthead__ (butt-head)  
 __change of pace__  
+__come and go__  
 __Drynuary__ (Dry January) _Drynuary_ is when people abstain from drinking alcohol during the month of January, especially after the excesses of the holidays.  
+__fast-forward__  
 __fix up__  
+__get (one’s) claws into (someone)__ To exert one’s influence over another person.  
+__get (one’s) goat__ To annoy or anger one.  
+__have an itch for (something)__ To have an interest in or desire to do something.  
 __heaven forbid__  
 __hide-and-seek__  
 __high stakes__ If you have high stakes in something such as a venture or decision, you have a major interest in its outcome.  
@@ -34,12 +42,15 @@ __in detention__ In a prison or similar place. _Dozens of protesters were held/k
 __in earnest__ With sincere intentions.  
 __in less than no time__ (in no time (at all)) In a very little amount of time. Very quickly. _That test was so easy, I was done in less than no time._  
 __in no time (at all)__ (in less than no time) In a very little amount of time. Very quickly. _That test was so easy, I was done in no time._  
+__in other news__ A segue into another topic. Used when you want to move on to a new subject, but have no real way to connect it to what you were talking about before.  
+__in secrecy__  
 __in short order__ :dart: Quickly, efficiently, and without any delays.  
 __in sum__ As a final brief, concluding point.  
 __in the face of (something)__  
 __in the know__  
 __in the works__ :two: Being prepared; being planned; being done.  
 __into overdrive__  
+__it (all) depends__ The possibility or likelihood of some outcome depends on one or more unspecified factors.  
 __it is what it is__ :two::hammer:  
 __jerry-built__ _mod._ Carelessly and awkwardly built. _The lawyer’s case was jerry-built, but the jury bought it anyway._  
 __jump the gun__  
@@ -84,6 +95,7 @@ __magpie__
 __mainline__ _n_ __2__ _slang_ An accessible vein that can be used to inject a narcotic.  
 __make (one’s) day__  
 __make (one’s)/the rounds__ :two::hammer:  
+__make (something) clear (to one)__  
 __make amends__  
 __make inroads (in/into something)__  
 __make or break__ _Music can make or break a show, especially a sitcom._  
@@ -98,6 +110,7 @@ __mic drop__
 __Mickey (Finn)__  
 __mill about__ To loiter, wander about, or waste time idly (some place). _I’ll just mill about in the store across the street while you get your hair cut._  
 __mind (one’s) p’s and q’s__ To be polite and well behaved; to mind one’s manners.  
+__mind-boggling__  
 __miss out on (something)__ :two: To lose the chance or opportunity to do or experience something.  
 __modus operandi__ :mega: /ˈməʊdəs ˌɒpəˈrændiː; -ˈrændaɪ/  
 __more so__  
@@ -133,6 +146,7 @@ __null and void__
 __of late__  
 __off (one’s) case__ No longer a source of constant pressure; not nagging one anymore. _We need to do something to get the boss off our case._  
 __off key__  
+__off the cuff__ (off-the-cuff) Casually and spontaneously; without planning or preparation. Often hyphenated.  
 __off to the races__  
 __oh, boy__  
 __okay__ __9__ To give approval, authorization, agreement, or endorsement (for something). _You’ll need the boss to okay any changes you want to make to the budget._ _In the last year Copilot has suggested—and had okayed by developers—more than a billion lines of code._  
@@ -148,16 +162,19 @@ __on that note__
 __on the back foot__ In a position of disadvantage, retreat, or defeat.  
 __on the bright side__  
 __on the brink of (something)__  
+__on the flip side__ Looking at a different or opposite aspect, possibility, or result (associated with something).  
 __on the horizon__  
 __on the mat__ __1__ In a position to face a reprimand from someone. _When my team lost that big client, the boss called me on the mat._ __2__ Under discussion or consideration. _We don’t have time to discuss those issues, but don’t worry, they’ll be on the mat the next time we meet._  
 __on the table__ :two::hammer:  
 __on the verge of (doing) (something)__  
+__one and the same__ Identical; the very same. _For ancient civilizations, astronomy and astrology were one and the same._  
 __one size fits all__ Supposedly well-suited to any situation, as of a product, method, solution, etc. Often hyphenated. _We must move away from a “one size fits all” approach._  
 __one-liner__ _informal_ A very short, witty joke, remark, or riposte.  
 __oomph__ _slang_ Power, vigor, or energy.  
 __open question__  
 __open season (on someone or something)__  
 __orbiter__ In James Ellroy’s novels, “orbiter” is a term used to describe someone who is on the periphery or fringes of a criminal organization or network. It’s someone who is not a central player or a key decision-maker, but who is still involved in the criminal activity in some way, perhaps as a lookout, a messenger, or a low-level enforcer.  
+__out of (one’s) shell__ Less shy, reserved, or reticent and in a more sociable, outgoing, or enthusiastic state.  
 __out of curiosity__ A phrase that is used to indicate that a person is asking a question or seeking information out of a genuine desire to know more about something, rather than for any specific or practical purpose.  
 __out of whack__  
 __out-of-pocket__ Out-of-pocket expenses are costs connected with work that people pay themselves at first but are usually paid back to them later. _I charge twenty dollars an hour plus out-of-pocket expenses._ Note: If you pay out of pocket, you pay for something yourself and claim the money back later.  
@@ -206,6 +223,7 @@ __promises, promises__ A sarcastic reply to a promise or assurance that one does
 __pull (one’s) weight__ :dart: To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
 __pull it out__ In general, the phrase “pull it out” is often used to describe a situation where someone is able to find or discover something, or find an answer, solution, or idea that they had not previously thought of.  
 __punk__ _n_  
+__puppet master__  
 __puppy love__  
 __pure and simple__ Essentially or fundamentally so, without exaggeration or elaboration. _I was a political casualty, pure and simple._  
 __push up the daisies__  
@@ -250,7 +268,7 @@ __rainbows and unicorns__ Innocent, carefree happiness. Often used in negative c
 __raise the bar__ To raise the standards of quality that are expected of or required for something.  
 __raise the stakes__  
 __rake in (something)__ :two: To acquire or accumulate an abundance of something, especially money.  
-__ramp up__ :two: To increase. A noun or pronoun can be used between “ramp” and “up.” _Ever since that break-in, they’ve really ramped up security at the office._  
+__ramp up__ :three: To increase. A noun or pronoun can be used between “ramp” and “up.” _Ever since that break-in, they’ve really ramped up security at the office._  
 __rank and file__  
 __rat fink__  
 __rat race__ :two::hammer:  
@@ -320,7 +338,7 @@ __shellac__ (shellack) __4__ _US, slang_ __a__ To beat. __b__ To defeat decisive
 __shit sandwitch__ Playful term much like the traditional “stuck between a rock and a hard place.”  
 __shitbird__ It’s used in James Ellroy’s novels to describe someone who’s particularly slimy, dishonest, or untrustworthy - the kind of person who’ll do anything to get ahead, regardless of who they hurt or deceive along the way.  
 __shitheel__ Oh man, “shitheel” is a doozy - a real gem of vulgarity in Ellroy’s writing. It’s basically a very, very rude way of referring to someone who’s a lowlife, a scoundrel, or just generally a bad person. In Ellroy’s world, it’s often used to describe corrupt cops, sleazy gangsters, or anyone else who’s part of the seedy underworld of crime and corruption.  
-__shy away (from someone or something)__  
+__shy away (from someone or something)__ :two::hammer:  
 __sick twist__ :four: “Sick twist” is a term that James Ellroy uses in his novels to describe a disturbing or perverted turn of events. It’s used to describe something that is twisted or warped, often in a way that is both unsettling and fascinating.  
 __silver lining__  
 __simply put__  
@@ -352,6 +370,7 @@ __something of a (something)__ Having a lot of qualities like or associated with
 __soul searching__ :three::hammer:  
 __speak with a forked tongue__  
 __spew out__  
+__spill over__ __2__ To go beyond the borders or parameters of something and into something else, especially due to growing in size or scope. _It’s hard to contain violence to just one neighborhood, you know. It’s only a matter of time until it spills over into our part of town too._  
 __spill__ :dart: _informal_ To disclose or divulge (something).  
 __spiral__ _vi_ To increase continually.  
 __split__ :dart: _slang_ To leave or depart, especially quickly or suddenly. _We’d better split, Tom. We don’t want to miss our flight._  
@@ -362,11 +381,13 @@ __starkers__ _adj_ _British informal_ Stark naked.
 __status quo__ :mega: /kwoʊ/  
 __staying power__ The ability to remain relevant, influential, profitable, or successful in the future.  
 __step in__ :dart: To enter into some position, activity, or situation to intervene or improve it.  
+__step up__ :three::hammer:  
 __stew over something__ :dart: To “stew over something” means to be bothered, annoyed, or worried about something for a long period of time, without being able to let it go. It’s kind of like simmering a pot of stew on the stove. You’ve got all these ingredients (your thoughts and emotions) simmering in the pot (your mind), and you just can’t turn off the heat (stop thinking about it). The longer you let it simmer, the more intense it becomes.  
 __stick (one’s) tongue out__  
 __stick with (someone or something)__  
 __stir the pot__ To exacerbate a tense or otherwise difficult situation.  
 __stop (dead) in (one’s) tracks__  
+__strapped for cash__ Without any or very much money at the moment; broke, especially temporarily.  
 __street urchin__ A poor child who spends most of their time outside, often due to living on the streets.  
 __strike a deal__ :two: To successfully achieve a deal or agreement, especially regarding an acceptable price or exchange for something.  
 __studette__ The female version of a stud. A girl that can get any guy she wants, is incredibly good looking, has an amazing personality and is overall awesome at life.  
@@ -389,6 +410,7 @@ __take a deep breath__
 __take a shine to (someone or something)__  
 __take aim (at someone or something)__  
 __take center stage__ To be the main focus.  
+__take the bull by the horns__  
 __take the high road__ To choose the most noble, ethical, or diplomatic course or method, especially after or in the face of negativity or ill treatment. _Strive to always take the high road when dealing with others, even if they’ve treated you unfairly in the past. Life has a habit of rewarding those who learn to turn the other cheek._  
 __talk out (of) (one’s) ass__  
 __talk the talk__  
@@ -444,7 +466,7 @@ __wake-up call__
 __walk in the park__ _Major depression—and especially treatment-resistant depression—is no walk in the park._  
 __walk the walk__  
 __walk through__  
-__war chest__ A financial reserve collected and maintained for specific political purposes, especially election campaigns. _The party has been able to strengthen its war chest ahead of the midterm elections, thanks to huge donations from across the tech sector._  
+__war chest__ :two: A financial reserve collected and maintained for specific political purposes, especially election campaigns. _The party has been able to strengthen its war chest ahead of the midterm elections, thanks to huge donations from across the tech sector._  
 __warmed-over__ Unoriginal, reused, or derivative. An allusion to reheated leftover food.  
 __well, well, (well)__ Used to express surprise or incredulity, either sincerely or sarcastically. _Well, well, I must say that I didn’t expect to see results like that from the experiment!_  
 __whammo__ It’s basically a slang term for a big, dramatic, or explosive event. James Ellroy uses it to describe things like shootouts, car chases, explosions, or any other kind of crazy action scene.  
