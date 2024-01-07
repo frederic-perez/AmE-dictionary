@@ -19393,7 +19393,7 @@ __underbid__
 __undercard__ _n_ :two::hammer: _Undercard debates._  
 __undercroft__ _n_ _The cathedral’s undercroft._  
 __undercurrent__ _n_ :astonished::five::hammer: :es: trasfondo  
-__undercut__ _v_ :nine::m::hammer: (undercutting) _Why do you undercut yourself so much?_ _If you’re sporting self-doubt, you’ve undercut your performance before you even begin._  
+__undercut__ _v_ :nine::m: __1__ To diminish or destroy the province or effectiveness of; undermine. _Why do you undercut yourself so much?_ _If you’re sporting self-doubt, you’ve undercut your performance before you even begin._ __2__ (Commerce) To charge less than (a competitor) in order to obtain trade. __3__ To cut away the under part of (something). __4__ (General Sporting Terms) _sport_ To hit (a ball) in such a way as to impart backspin.  
 __underdog__ _n_ :three::hammer: _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __underdone__ _adj_ (Cookery) Insufficiently or lightly cooked. _The potatoes were underdone._  
 __underemployed__  
@@ -20364,7 +20364,7 @@ __willpower__ _n_ :two::hammer:
 __willy__ _n_ _slang_  
 __willy-nilly__ _adj, adv_ :nine::m: (willy nilly) Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ :es: a la fuerza  
 __willyard__ _adj_  
-__wilt__ _v_ :nine::hammer: (wilted, wilting) _A wilting plant in the office._ _He’d wilted under it._  
+__wilt__ _v_ :nine: __1__ To become or cause to become limp, flaccid, or drooping: _insufficient water makes plants wilt._ __2__ To lose or cause to lose courage, strength, etc. _He’d wilted under it._ __3__ (Cookery) (tr) To cook (a leafy vegetable) very briefly until it begins to collapse.  
 __wily__ _adj_ :six::hammer: _He was cautious and wily._  
 __wimp out__  
 __wimp__ _n_ _slang_ :three: A weak person, a coward. Someone who is not brave, strong, or confident.  
@@ -20372,7 +20372,7 @@ __wimpiness__
 __wimpling__ _v_  
 __wimpy__ _adj_ :four::hammer:  
 __win back__ _phr v_ To get back something that you have lost.  
-__wince__ _v_ :nine::hammer: (winced, wincing) _He was wincing in pain._  
+__wince__ _vi_ :nine: To shrink or start involuntarily, as in pain or distress; flinch. _He was wincing in pain._  
 __winch<sup>1</sup>__ _v_ :two::hammer: _He winched his boat onto his trailer._  
 __winch<sup>2</sup>__ _n_ :five::hammer:  
 __wind chimes__ _n pl_ :two::hammer:  
