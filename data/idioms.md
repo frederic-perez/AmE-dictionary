@@ -2521,15 +2521,17 @@ __hit up__ __1__ To go to a particular place. _Let’s hit up the mall—I’m s
 __hither and thither__ :four::hammer::pencil2: _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._  
 __hobby-horse__ A subject, topic, or issue about which one frequently or incessantly talks, expounds, or complains. The term can also be spelled as a single word. _Ah, here we go again. Once grandpa gets on his hobby-horse about the government, there’s no stopping him!_  
 __Hobson’s choice__ A choice between what is available and nothing; a lack of an alternative.  
-__hog (something)__ :two: To take or use something all for oneself; to not allow others to have or use something. _Hey buddy, quit hogging the road!_ _My wife always hogs the covers at night._  
+__hog (something)__ :three: To take or use something all for oneself; to not allow others to have or use something. _Hey buddy, quit hogging the road!_ _My wife always hogs the covers at night._  
+__hogwash__  
 __hoist by (one’s) own petard__ To be injured, ruined, or defeated by one’s own action, device, or plot that was intended to harm another; to have fallen victim to one’s own trap or schemes. (Note: “hoist” in this instance is the simple past-tense of the archaic form of the verb, “hoise.”)  
+__hoist by/with (one’s) own petard__  
 __hold (down) the fort__  
 __hold (one’s) breath__ :four::hammer:  
 __hold (one’s) feet to the fire__ To put pressure on one to do, say, or consent to something._Someone holds everyone’s feet to the fire._  
 __hold (one’s) nerve__ To remain calm, steady, and resolute, especially in the face of danger or adversity.  
 __hold (one’s) nose__ :two::hammer:  
 __hold (one’s) tongue__  
-__hold (one’s) water__ To be calm or patient; to stop making pressing demands, requests, or solicitations. _You kids hold your water back there or I swear I’ll turn this car right around!_  
+__hold (one’s) water__ :two: To be calm or patient; to stop making pressing demands, requests, or solicitations. _You kids hold your water back there or I swear I’ll turn this car right around!_  
 __hold (someone, something, or an animal) back (from someone or something)__ :three: To restrain someone, something, or an animal from getting at or getting to someone or something. _The parents held the children back from the cake and ice cream until the hostess said she was ready._ _Please hold back your dog._ _The GPU shortage is holding OpenAI back from its true potential._  
 __hold (someone) accountable (for someone)__ :three: To deem someone responsible for something. _I don’t care if Vince is trying to blame this blunder on his staff—I hold him accountable._  
 __hold (someone) in good stead__ Especially of a talent, ability, or experience, to prove particularly useful or beneficial to someone in the future.  
@@ -2543,13 +2545,13 @@ __hold back__ :two::hammer:
 __hold court__  
 __hold fast to something__ _A pair of friends holding fast to their dreams._  
 __hold on tight__  
-__hold on to your hat__ Get ready for what’s coming or about to happen! _Hold on to your hats, everybody—we’re about to see what these fireworks can do!_  
+__hold on to your hat__ :two: Get ready for what’s coming or about to happen! _Hold on to your hats, everybody—we’re about to see what these fireworks can do!_  
 __hold on__ :two::hammer:  
 __hold one’s breath__  
 __hold one’s ground__  
 __hold one’s peace__ :two::dart: To stay quiet despite wanting to say something. _Just hold your peace if you don’t have anything constructive to add._ _“Oh!” She looked puzzled, but held her peace._  
 __hold someone back__  
-__hold that thought__ An expression used to interrupt someone mid-speech and indicate that one’s attention is being or about to be diverted. _Sorry, Janet, hold that thought—I’m getting a call on the other line._  
+__hold that thought__ :two: An expression used to interrupt someone mid-speech and indicate that one’s attention is being or about to be diverted. _Sorry, Janet, hold that thought—I’m getting a call on the other line._  
 __hold the fort__ To take care of a place while someone who is usually there is gone, such as a store or one’s home. (From western movies.) _I’m going next door to visit Mrs. Jones. You stay here and hold the fort. You should open the store at eight o’clock and hold the fort until I get there at ten._  
 __hold the reins__ To have or be in control, especially of a group, project, or situation.  
 __hold up__  
@@ -2575,8 +2577,11 @@ __honey-do list__ A list or collection of tasks or jobs one has been requested t
 __honey-mouthed__ Smooth, soothing, and sweet in voice, especially in a persuasive or seductive manner or intent.  
 __honorable mention__ A recognition or citation of merit given to a contestant, exhibition, entry, etc., in a competition despite that person or thing not being awarded a prize or top honor.  
 __hoo-ha__  
+__hoof it__ _informal_ To walk. _If nobody gives us a ride, we’ll have to hoof it._ _She hoofed it home from the dance in her high-heeled shoes._  
+__hoofing__ Walking.  
 __hook, line, and sinker__ Completely and unquestioningly. _The moment I met my wife, I fell for her hook, line, and sinker._  
 __hooked on (someone or something)__  
+__hoot__ __1__ _v intr_ To laugh loudly. _The audience screamed and hooted with their appreciation._  
 __hootered__ :dart: _slang_ Drunk. _Do you remember last night at the bar at all? You were really hootered._  
 __hoover up__ _The data was collected by hoovering up content off the internet._  
 __hoover__ :two: _slang_ [:scroll: An allusion to the Hoover brand of vacuums, though used generically.] To vacuum. _We’d better hoover the house before our guests arrive._  
@@ -2622,16 +2627,18 @@ __hustle and bustle__ :two: Busy and frenetic activity or excitement. _I love li
 __hygge__ The state of happiness and contentment that one feels in a cozy, relaxing environment. This Danish word, approximately pronounced “HUE-guh,” describes the penchant in Denmark for appreciating life’s simple pleasures. _For me, hygge is sitting by the fireplace and listening to classical music with my husband._  
 __I can imagine__ :three::hammer:  
 __I can’t thank you enough__ Said when one is very appreciative of another’s words or actions.  
+__I don’t belong here__ The idiom “I don’t belong here” is a common phrase used to express a feeling of not fitting in or not being in the right place or situation. It conveys a sense of discomfort, alienation, or a lack of connection with one’s surroundings or the people around them.  
 __I don’t want to sound like a busybody, but__ An expression used to introduce an opinion or suggestion.  
 __I feel you__  
 __I feel you/that__ _slang_ I understand, agree with, or can relate to what you’re saying. _No, I feel you, that’s too much money to pay for a concert. I’m OK with skipping it._  
-__I hear you__ :six: I acknowledge what you have said and am sympathetic to it. The phrase is sometimes used as a prelude to disagreeing with what has been said. _I hear you, honey. I know you’re in a lot of pain right now._ _I hear you, but we just can’t afford to make any big changes like that at this time._  
+__I hear you__ :eight: I acknowledge what you have said and am sympathetic to it. The phrase is sometimes used as a prelude to disagreeing with what has been said. _I hear you, honey. I know you’re in a lot of pain right now._ _I hear you, but we just can’t afford to make any big changes like that at this time._  
 __I kid you not__  
 __I know the feeling__  
 __I rest my case__  
 __I see what you did there__ :three: (I saw what you did there) An expression used to acknowledge that one understands a joke made by someone else, and to either show appreciation or a lack thereof for the wit employed.  
 __I suppose (so)__ An expression of vague affirmation or assent.  
 __I take it__ _idiom_ I imagine this is the case; I presume it to be true (that); it is my understanding (that).  
+__I wasn’t born yesterday__ Used to indicate that you are not foolish or gullible.  
 __I wish__  
 __I’d say__ In my opinion; it is my estimation that.  
 __I’ll be hanged if I (do something)__ :two: I am determined not to do something. _I’ll be hanged if I let some young upstart like you take control of my company!_  
@@ -2651,6 +2658,7 @@ __if you ask me__
 __if you know what I mean__  
 __if you like__  
 __if you will__ :five: If you wish to call it that. _A kind of preoccupation, or obsession if you will._ A phrase used to indicate that what one has just said is an uncommon, metaphorical, or original way of saying something. Similar to the phrases “so to speak” and “in a manner of speaking.” _This arrangement will allow us to eliminate our debt and get back to solid ground, if you will._  
+__iffy__ _informal_ Questionable or uncertain.  
 __in (a) shambles__ :two::hammer:  
 __in (all) fairness (to one)__  
 __in (high) hopes of (something)__  
@@ -2659,7 +2667,7 @@ __in (one’s) book__
 __in (one’s) day__ :dart: When one was younger; in one’s younger days. _Back in my day, the only thing we had to do for fun was stickball, and we were grateful for it!_  
 __in (one’s) dotage__ In a state of senility or mental decline due to old age.  
 __in (one’s) heyday__ In, at, or during the period of one’s greatest success, power, vigor, etc.  
-__in (one’s) own right__ :four: Through one’s own talents or efforts. _His father was a hall-of-famer, and he’s a pretty good basketball player in his own right._ _He is becoming a star in his own right._  
+__in (one’s) own right__ :five: Through one’s own talents or efforts. _His father was a hall-of-famer, and he’s a pretty good basketball player in his own right._ _He is becoming a star in his own right._  
 __in (one’s) tracks__  
 __in (or out of) someone’s hair__ _informal_ :two: [:scroll: This expression alludes to entangling one’s hair.]Annoying (or ceasing to annoy) or bothering someone. _He built the shop to get his hobby out of his wife’s hair._ _Yogi Bear is always in the Ranger’s hair._  
 __in (someone’s) view__ In someone’s opinion.  
@@ -2682,6 +2690,7 @@ __in a rut__
 __in a similar vein__ :two::hammer:  
 __in a sorry state__ In a pitiful or abject condition.  
 __in a tiff__ In a state of disagreement, often over something minor or petty.  
+__in a tizz(y)__ In a nervous, confused, agitated, or excited state.  
 __in a/the flash of an/the eye__ So quickly as to seem almost imperceptible (i.e., in the space of time it takes a person to blink).  
 __in abeyance__ :two: A phrase used to describe something as pending or suspended. _How long do you think they will hold the decision in abeyance? I’m eager to know what they think._ _The bishops held the proceedings against Wyclif in abeyance._ _You capture the inventory into containers that hold items in abeyance._  
 __in all honesty__ In one’s sincere opinion; without any disingenuousness.  
@@ -2705,10 +2714,12 @@ __in deep trouble__
 __in deep water__ To be in a difficult situation.  
 __in default of (something)__ Due to the absence or lack of something; through the failure of something. _Though it was only a speeding ticket, Janet was imprisoned in default of paying the fine._ _In default of concrete evidence, the jury was obligated to acquit the defendant of murder._  
 __in denial__ :two::hammer:  
+__in detention__ In a prison or similar place. _Dozens of protesters were held/kept in detention for six hours._  
 __in donkey’s years__ _I haven’t thought about it in donkey’s years._  
 __in donkeys__ :two: In an exceptionally long period of time. The phrase likely originated as the rhyming slang, shortened to simply “donkeys,” of “donkey’s ears”—where “ears” rhymes with “years” and alludes to the length of a donkey’s ears. _I haven’t seen Jim in donkeys! How’s he doing these days?_  
 __in droves__ :two: In large numbers. _It was a beautiful day, but the bees were out in droves._ _They will come in droves._ _They buy tickets in droves._  
 __in due time__ :two: Eventually; in an expected or reasonable duration of time. _You’ll get a promotion in due time. Just keep working hard._  
+__in earnest__ With sincere intentions.  
 __in excess of__ :six: Over; greater or more than. _Infrasound can be detected in excess of 100 miles._ _It has been tested to wind speeds in excess of 100m/s._ _Roper hadn’t slept for a period in excess of 24 hours._ _The retail giant predicts earnings for the past year in excess of $4 million._  
 __in favor (with someone)__ Highly regarded (by someone); widely accepted or enjoyed (by someone). Primarily heard in US. _John had been in favor with his boss ever since he managed to secure that lucrative client._  
 __in fee__ _law_ (specifically of land) In absolute legal ownership or subjection. _The courts have found that as the estate is in fee by Mrs. Williams, as arranged in the prenuptial agreement, Mr. Williams has no legal claim to the grounds or anything built thereon._  
@@ -2729,13 +2740,15 @@ __in itself__ Without the consideration of anything else. (A shortening of the f
 __in jest__ As a joke; not seriously. _Speaking in jest._ :es: en broma  
 __in layman’s terms__ In words that can be understood by people outside of a given profession or field of expertise, i.e., without the use of jargon or highly technical terms.  
 __in leaps and bounds__ By very large degrees; rapidly or in quick progress forward. _What was once a tiny local choir club has expanded in leaps and bounds over the years._  
+__in less than no time__ (in no time (at all)) In a very little amount of time. Very quickly. _That test was so easy, I was done in less than no time._  
 __in lieu of (something)__ :two::hammer: _In lieu of actual payments._ _In lieu of flowers._  
 __in no circumstances__ Never; in no case or situation; irrespective of events or conditions. _In no circumstances are you allowed to drive home after you’ve had more than one drink!_  
-__in no time (at all)__ :three: In a very little amount of time. _That test was so easy, I was done in no time._  
+__in no time (at all)__ :four: (in less than no time) In a very little amount of time. Very quickly. _That test was so easy, I was done in no time._  
 __in no way__ Not at all; not by any means. _We are in no way blaming you for what happened, but you still have to cooperate with the police investigation._  
 __in no way, shape, or form__ In no possible manner; under no circumstances; not by any means.  
 __in one blow__ All at once, with a single decisive or powerful action.  
 __in order that__ So that; with the particular aim or purpose of.  
+__in other news__ A segue into another topic. Used when you want to move on to a new subject, but have no real way to connect it to what you were talking about before.  
 __in over (one’s) head__ Too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer.  
 __in park__ Of a vehicle, having the gear stick set to “park,” which keeps the vehicle in place in a manner similar to a parking brake. _Put yourself in park, and think._ _Oh yeah, you’re close enough to the curb. Go ahead, put the car in park._  
 __in passing__ Casually or as an aside during a conversation. _Karen mentioned the party in passing the other day, but she didn’t go into detail._ _As we discussed why, he mentioned in passing that he committed a crime._  
@@ -2748,14 +2761,16 @@ __in regard to (someone or something)__
 __in remission__ Of a disease, fully or partially ceasing to cause symptoms.  
 __in retrospect__ :two: Considering or analyzing the past, with the knowledge that one has now.  
 __in round numbers__  
+__in secrecy__  
 __in session__ Currently gathered and in the process of conferring about or working on some thing. _Hey, no one is allowed in there while the meeting is in session!_  
-__in short order__ :four: With no delay; quickly. Quickly, efficiently, and without any delays. _The repair shouldn’t take long at all. We’ll get you on the road in short order._ _Bob is the best trainer. He’ll whip you into shape in short order._  
+__in short order__ :dart::five: With no delay; quickly. Quickly, efficiently, and without any delays. _The repair shouldn’t take long at all. We’ll get you on the road in short order._ _Bob is the best trainer. He’ll whip you into shape in short order._  
 __in so many words__  
 __in someone else’s shoes__ Imagining oneself in the situation or circumstances of another person so as to understand or empathize with their perspective, opinion, or point of view. _If you haven’t spent time in someone else’s shoes, how can you judge them?_  
 __in someone’s shoes__ If you talk about being in someone’s shoes, you are describing how you would feel or act if you were in the same situation as them. _Stop and think how you would feel if you were in his shoes._ _If I were in her shoes, I’d probably want an explanation._ _If you were in his shoes what would you do?_  
 __in spades__ :two::dart: In large quantity or to an extreme degree. _A con artist needs charm, and she had it in spades._ _No carrier has ever blocked or discriminated in spades._ _Cultural savvy. Portland’s got it in spades._  
 __in spite of__  
 __in stitches__  
+__in sum__ As a final brief, concluding point.  
 __in tall cotton__ In a time or period of great success or wellbeing; doing very well.  
 __in that vein__ _Text-to-image AI models are a lot of fun. Enter any random text prompt, and they will generate an image in that vein._  
 __in the (grand) scheme of things__  
@@ -2772,7 +2787,7 @@ __in the event of (something)__ :two::hammer: _Non-replaceable in the event of l
 __in the event that__ If it should happen or be the case that.  
 __in the eye of (something)__ At, in, or amidst the central or focal point of something.  
 __in the eye of the beholder__  
-__in the face of (something)__  
+__in the face of (something)__ :two::hammer:  
 __in the guise of (something)__  
 __in the gutter__  
 __in the heat of (something)__ During a time of extreme action, emotion, or agitation. _Soldiers have to train themselves not to feel fear in the heat of battle._  
@@ -2781,7 +2796,7 @@ __in the hope that__ With the expectation, intention, or desire that (something 
 __in the hot seat__  
 __in the house__ Present before an audience. Used as an announcement, especially to generate excitement. _We’ve got DJ Kaleem in the house, ready to throw down some sick beats for y’all!_  
 __in the hunt__ In a group of people who are all in pursuit of specific achievement, award, or goal._ Our team is only a few wins shy of securing a playoff spot, and then we’ll be in the hunt for the championship title!_  
-__in the know__ :six::hammer:  
+__in the know__ :seven::hammer:  
 __in the lap of the gods__ Decided upon or controlled by luck, chance, or fate; outside of one’s control or influence.  
 __in the last analysis__ When everything has been considered; when all the facts are known or the truth has come to light.  
 __in the last week__ “In the last week” refers to the period of time that began seven days ago and ended today. (“Last week” refers to the period of time from the previous Sunday to the current Saturday.)  

@@ -1,28 +1,3 @@
-__hog (something)__ To take or use something all for oneself; to not allow others to have or use something. _Hey buddy, quit hogging the road!_  
-__hogwash__  
-__hoist by/with (one’s) own petard__  
-__hold (one’s) water__  
-__hold on to your hat__  
-__hold that thought__ An expression used to interrupt someone mid-speech and indicate that one’s attention is being or about to be diverted. _Sorry, Janet, hold that thought—I’m getting a call on the other line._  
-__hoof it__ _informal_ To walk. _If nobody gives us a ride, we’ll have to hoof it._ _She hoofed it home from the dance in her high-heeled shoes._  
-__hoofing__ Walking.  
-__hoot__ __1__ _v intr_ To laugh loudly. _The audience screamed and hooted with their appreciation._  
-__I don’t belong here__ The idiom “I don’t belong here” is a common phrase used to express a feeling of not fitting in or not being in the right place or situation. It conveys a sense of discomfort, alienation, or a lack of connection with one’s surroundings or the people around them.  
-__I hear you__  
-__I wasn’t born yesterday__ Used to indicate that you are not foolish or gullible.  
-__iffy__ _informal_ Questionable or uncertain.  
-__in (one’s) own right__  
-__in a tizz(y)__ In a nervous, confused, agitated, or excited state.  
-__in detention__ In a prison or similar place. _Dozens of protesters were held/kept in detention for six hours._  
-__in earnest__ With sincere intentions.  
-__in less than no time__ (in no time (at all)) In a very little amount of time. Very quickly. _That test was so easy, I was done in less than no time._  
-__in no time (at all)__ (in less than no time) In a very little amount of time. Very quickly. _That test was so easy, I was done in no time._  
-__in other news__ A segue into another topic. Used when you want to move on to a new subject, but have no real way to connect it to what you were talking about before.  
-__in secrecy__  
-__in short order__ :dart: Quickly, efficiently, and without any delays.  
-__in sum__ As a final brief, concluding point.  
-__in the face of (something)__  
-__in the know__  
 __in the works__ :two: Being prepared; being planned; being done.  
 __into overdrive__  
 __it (all) depends__ The possibility or likelihood of some outcome depends on one or more unspecified factors.  
