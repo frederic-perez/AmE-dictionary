@@ -1,28 +1,3 @@
-__all-out war__  
-__be a blank slate__  
-__be a given__  
-__blank slate__  
-__butthead__ (butt-head)  
-__change of pace__  
-__come and go__  
-__Drynuary__ (Dry January) _Drynuary_ is when people abstain from drinking alcohol during the month of January, especially after the excesses of the holidays.  
-__fast-forward__  
-__fix up__  
-__get (one’s) claws into (someone)__ To exert one’s influence over another person.  
-__get (one’s) goat__ To annoy or anger one.  
-__have an itch for (something)__ To have an interest in or desire to do something.  
-__heaven forbid__  
-__hide-and-seek__  
-__high stakes__ If you have high stakes in something such as a venture or decision, you have a major interest in its outcome.  
-__high-handed__ Haughtily presumptuous; arrogantly or inconsiderately overbearing. _The new boss is unbearably high-handed in dealing with employees._  
-__highball__ To make an estimate which tends toward exaggeration. _Highball an offer._  
-__hindsight is (always) 20/20__ It is easier to clearly reevaluate past actions or decisions than when they are being made or done; things are clearer or more obvious when they are reflected upon. A reference to the visual acuity of normal eyesight (20/20 vision). _I can see now that having my brother as my legal counsel was unwise, but I guess hindsight is always 20/20._  
-__hit a wall__  
-__hit on all cylinders__ To operate, perform, function, or proceed exceptionally well or at the greatest possible speed or efficiency. _We’ll be hitting on all cylinders if we get Janet to join our team._  
-__hit or miss__ _adj_ Sometimes good or successful, sometimes not; having mixed or unpredictable results; random, aimless, careless, or haphazard. Often hyphenated.  
-__hit the gas__ To move quickly; to accelerate or go faster. Used especially while riding in an automobile. _We’ll need to hit the gas if we want to make it to the movie on time._  
-__hit the rocks__ To encounter an especially difficult, troubled, or low point, as in a relationship or some pursuit. _We’d been great friends for nearly 10 years, but our friendship has hit the rocks lately._  
-__hobby-horse__ A subject, topic, or issue about which one frequently or incessantly talks, expounds, or complains. The term can also be spelled as a single word. _Ah, here we go again. Once grandpa gets on his hobby-horse about the government, there’s no stopping him!_  
 __hog (something)__ To take or use something all for oneself; to not allow others to have or use something. _Hey buddy, quit hogging the road!_  
 __hogwash__  
 __hoist by/with (one’s) own petard__  

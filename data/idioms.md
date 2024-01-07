@@ -308,7 +308,7 @@ __all the difference in the world__ The greatest degree of difference that is po
 __all the rage__ _slang_ Very popular. _Disco music was all the rage in the 1970s._  
 __all things considered__ :two::hammer:  
 __all too often__ :three: Too frequently. _We see this problem all too often._  
-__all-out war__ Unrestricted fighting or conflict. This phrase can be used literally or hyperbolically. _I fear that an invasion will lead to all-out war._ _It is all-out war right now for that empty corner office._  
+__all-out war__ :two: Unrestricted fighting or conflict. This phrase can be used literally or hyperbolically. _I fear that an invasion will lead to all-out war._ _It is all-out war right now for that empty corner office._  
 __all-out__ :two: Taking, requiring, or using all of one’s effort or resources toward something; complete, total, or all-encompassing. _I’ve been stuck in this cubicle for years now. I’m ready for an all-out adventure somewhere!_  
 __all-time high__  
 __all-you-can-eat__  
@@ -530,8 +530,10 @@ __be (someone’s) call__ :dart: To be ultimately left up to someone to decide.
 __be (someone’s) huckleberry__ :two: _(dated)_ To be well or perfectly suited to someone’s job, need, or purpose. Primarily heard in US. _You need someone to go break your brother out of jail? Buddy, I’m your huckleberry._  
 __be (stuck) in a rut__ To become seemingly trapped or stuck in a mundane, non-changing pattern of life, work, and/or personal behavior. _I had so many ambitions when I first graduated from college, but now I feel like I’m in a rut._  
 __be (the) bomb__ To be excellent, extremely entertaining, or of very high quality.  
+__be a blank slate__  
 __be a cake walk__  
 __be a different kettle of fish__ To be entirely different in scope or description from someone or something that was just being discussed.  
+__be a given__  
 __be a keeper__ :two::hammer:  
 __be a long shot__ To be very risky, uncertain, or unlikely to succeed. (Of an attempt, proposition, or guess.) _I know this is a long shot, but would you like to go out on a date with me sometime?_  
 __be a loud mouth__ To have a tendency or habit of speaking incessantly, indiscreetly, and/or in a noisy, boastful manner. _If I had known you were such a loud mouth, I’d have never shared my secret with you!_  
@@ -738,6 +740,7 @@ __black magic__
 __black sheep__  
 __black__ _n_ _You take sugar, cream? No, thanks, just black._  
 __blank canvas__  
+__blank slate__  
 __blaze a trail__  
 __bleeding heart__  
 __bless your pointy little head__ A condescending phrase used to patronize someone for being foolish or not very bright. _You failed the exam because you thought the sun was a planet? Aw, bless your pointy little head._  
@@ -920,7 +923,7 @@ __butt-kicker__
 __butter up__ [:scroll: This term transfers the oily, unctuous quality of butter to lavish praise.] Excessively praise or flatter someone, usually to gain a favor. _If you butter up Dad, he’ll let you borrow the car._  
 __butterfingers__ A person who frequently drops things, clumsy person.  
 __butterflies in the stomach__  
-__butthead__  
+__butthead__ :two::hammer: (butt-head)  
 __button (one’s) lip__ To be quiet. Often used as an imperative. _Hey, button your lip! We don’t need to hear any more out of you today!_  
 __buy the farm__ To die.  
 __buy__ _slang_ To believe or accept something as true or feasible without question or investigation. _I can’t believe the boss bought my excuse for missing work yesterday._  
@@ -1058,6 +1061,7 @@ __chalk it up__ To link something that has happened to a particular reason or ci
 __chance of a lifetime__ An extremely important and/or fortuitous opportunity, especially one that is not likely to ever present itself again. Often (but not always) used hyperbolically.  
 __chances are__ :five: It seems likely (that something will happen or be the case). _Chances are that my parents are throwing me a surprise party. Why else would they change the subject every time I mention my birthday?_  
 __change of heart__  
+__change of pace__  
 __change tack__ To employ a different method or approach in addressing a particular situation. _They have not been receptive to our offers thus far, so we need to change tack._  
 __change up__  
 __chapter and verse__  
@@ -1157,7 +1161,7 @@ __come a long way__ To make significant progress. Almost always used in the pres
 __come across something__  
 __come across__ :four::hammer:  
 __come again?__ :two::hammer:  
-__come and go__ :two::hammer: (came and went) _The seasons came and went, but the memories of that summer lingered like a sweet melody in her heart._  
+__come and go__ :three::hammer: (came and went) _The seasons came and went, but the memories of that summer lingered like a sweet melody in her heart._  
 __come as no surprise__ :two: To be completely unsurprising. _Considering how much they had been fighting lately, their break-up came as no surprise._  
 __come by__  
 __come clean__ To admit something to someone, often regarding a wrongdoing that one has tried to hide. _The kids finally came clean about eating the cookies I’d made for the bake sale._  
@@ -1178,7 +1182,7 @@ __come to an end__
 __come to fruition__ :four: To successfully be brought into existence or to completion.  
 __come to grips with (someone or something)__ :two::hammer:  
 __come to grips__ :two::hammer:  
-__come to terms with (someone or something)__ :nine::m: To begin to or make an effort to understand, accept, and deal with a difficult or problematic person, thing, or situation. I_ should have the report ready for you by this afternoon, I just need to come to terms with this new software update first._ _I’ve tried, but I just can’t come to terms with Amy, she’s totally out of control!_  
+__come to terms with (someone or something)__ :nine::m: To begin to or make an effort to understand, accept, and deal with a difficult or problematic person, thing, or situation. _I should have the report ready for you by this afternoon, I just need to come to terms with this new software update first._ _I’ve tried, but I just can’t come to terms with Amy, she’s totally out of control!_  
 __come to terms__ :two: Come to terms (about someone or something), and come to terms (on someone or something) [for two or more people]: To reach an accord on someone or something. _Ed and Alice came to terms about money._ _They did not come to terms on the price._  
 __come to the fore__  
 __come to think of it__ :dart::two: _set phrase_ Used when one has had a sudden realization. _Yeah, come to think of it, Dave was at the party, too._ _Come to think of it, I haven’t seen too many bullshitters since the war started._  
@@ -1525,6 +1529,7 @@ __drop by__
 __drop in the bucket__ :two: A very small or unimportant amount.  
 __drop out__  
 __drop the ball__ :dart::seven: To make a mistake, to fail.  
+__Drynuary__ (Dry January) _Drynuary_ is when people abstain from drinking alcohol during the month of January, especially after the excesses of the holidays.  
 __duck and cover__  
 __duck__ :dart::two: __2__ _vt_ To avoid someone or something. _Clare is ducking her responsibility._ _Investment falls short and politicians duck social care reform (again)._ _Duck the blame._  
 __dud__ :three::astonished: __1__ Something that does not work as intended, is ineffectual, or is defective. _This car I bought yesterday is a complete dud. Its engine won’t even start!_ __2__ Someone who is disappointing or unsuccessful. _He turned out to be a bit of a dud. He doesn’t have any plans to get a job—he just wants to watch TV all day._  
@@ -1642,6 +1647,7 @@ __far cry (from something)__ :nine::m: [:sound: far cry from] A thing that is ve
 __farmer’s tan__ :dart: A tan or sunburn on the neck and lower arms that results from wearing a T-shirt during prolonged sun exposure and that is clearly demarcated from the pale skin of the chest and upper arms that remained covered. :es: moreno paleta _It was so warm that I only wore a T-shirt on the four-hour hike, but I had a pretty gnarly farmer’s tan by the end of the day._  
 __Fart, Barf, and Itch__ :two: Jocular interpretation of the acronym FBI.  
 __fast and furious__  
+__fast-forward__  
 __fast-track__ __2__ _v_ To expedite or speed up some process. _The government announced plans to fast-track citizenship applications for illegal immigrants brought to the country as children._  
 __faster than you can say Jack Robinson__ Extremely quickly; almost immediately; suddenly or in a very short space of time.  
 __Faustian bargain__ An agreement, bargain, or deal in which a person sacrifices or abandons their moral, ethical, or spiritual values in favor of wealth, power, or other benefits. A reference to the legend of Faust, who sold his soul to the devil for unlimited knowledge and power.  
@@ -1704,6 +1710,7 @@ __fish eye__ _Nobody on the bus would give you the fish eye if you were a grown 
 __fit like a glove__ To fit perfectly.  
 __fit the bill__ :four::hammer: (fill the bill) _His appearance fitted the bill._  
 __five o’clock shadow__ :two: A short beard on a man’s face that has grown since the morning shave.  
+__fix up__  
 __fizzle out__  
 __fizzle__ __2__ To fail or weaken, often slowly over time. _No, I don’t have a back-up plan—I didn’t expect this idea to fizzle out so fast._  
 __flake out__  
@@ -1870,9 +1877,10 @@ __generally speaking__ Used to say that a statement describes a general feeling 
 __gentleman’s agreement__ :two: A legally non-binding arrangement that is guaranteed only by a verbal or mutually understood agreement by the parties involved. _Though my father left me his entire estate in his will, I made a gentleman’s agreement with my brother to share the wealth equally between us._  
 __get (one’s) (own) way__ To get or have what one wants; to have things done according to one’s personal preference or desires. _If Tommy doesn’t get his way, he’ll start having a tantrum that could last all night._  
 __get (one’s) act together__ :two::hammer:  
+__get (one’s) claws into (someone)__ To exert one’s influence over another person.  
 __get (one’s) ducks in a row__ To take action to become well-organized, prepared, or up-to-date. _We need to get our ducks in a row to ensure that there are no problems at home while we’re gone on our trip._  
 __get (one’s) ears lowered__ :two: To get a haircut, especially to a length that reveals one’s ears. _Ah, I see you got your ears lowered. It looks good!_  
-__get (one’s) goat__ To annoy or anger one. _That guy just gets my goat every time he opens his mouth._  
+__get (one’s) goat__ :two: To annoy or anger one. _That guy just gets my goat every time he opens his mouth._  
 __get (one’s) hands on (something)__ Obtain something that you want or need very much. _This is all about OpenAI getting their hands on more data._  
 __get (one’s) knuckles rapped__ _The Japanese drug company Astellas has had its knuckles rapped for wrongdoing four times in less than three years._  
 __get (one’s) shit together__ :two::hammer:  
@@ -2359,7 +2367,7 @@ __have a voice (in something)__ To have an active and participatory role in maki
 __have a yen for (something)__ To have a very strong and persistent desire or craving for something.  
 __have a/the right to (something)__  
 __have a/the wolf by the ear(s)__ To be in a difficult situation from which it is as dangerous to extricate oneself as it is to remain in it.  
-__have an itch for (something)__ To have an interest in or desire to do something. _I have an itch for another road trip, but I’m not sure where to go._  
+__have an itch for (something)__ :two: To have an interest in or desire to do something. _I have an itch for another road trip, but I’m not sure where to go._  
 __have bats in the belfry__  
 __have bigger fish to fry__ :two: To have more important things to do.  
 __have butterflies on one’s stomach__  
@@ -2435,7 +2443,7 @@ __heat up__ :two: __3__ To intensify. Become acute or intense. _If inflation hea
 __heat wave__ A period of time in which the weather is unusually and persistently hot. _Our summers are usually very mild here, but we’ve been in the midst of a heat wave recently that’s made it feel like the tropics!_  
 __heat__ __1__ _slang_ Adverse, hostile criticism. _The senator has been facing a lot of heat in the media for his involvement in the scandal._ __2__ _slang_ Intense pressure. _Their defensive line has been cranking up on the heat on the other team’s quarterback._ __3__ _slang_ Increased police activity in response to some criminal activity. _We’ll have to wait until the heat dies down a bit before we try to sell the stolen goods._ __4__ _slang_ One or more firearms, especially a handgun. _Make sure you’re packing heat before you meet with the rival gang leader._  
 __heave into view__ (heave into sight) To move or rise into sight, especially from a distance. _We’d been walking for hours in the barren desert when a small town finally heaved into view._ To rise or seem to rise over the horizon into view, as a ship.  
-__heaven forbid__  
+__heaven forbid__ :two::hammer:  
 __heaven knows__  
 __heaven on earth__ :two::hammer:  
 __heavy handed__  
@@ -2464,7 +2472,7 @@ __here’s to (someone or something)__
 __hero’s journey__  
 __hidden agenda__ A secret goal or an ulterior motive.  
 __hidden in plain sight__  
-__hide and seek__ A situation in which one party is constantly evading or avoiding another. (A reference to the children’s game “hide and go seek.”) Often used with the verb “play.”  
+__hide and seek__ :two: A situation in which one party is constantly evading or avoiding another. (A reference to the children’s game “hide and go seek.”) Often used with the verb “play.”  
 __higgledy-piggledy__  
 __high and dry__  
 __high horse__  
@@ -2473,13 +2481,14 @@ __high muckety muck__ _slang_ An especially important, influential, and authorit
 __high note__ :two: The most successful, impressive, or climactic point (of something). _She’s been in many films throughout the years, but this performance is without a doubt the high note of her career._  
 __high profile__ :two: A presence or stance that is deliberately conspicuous and prominent socially.  
 __high seas__ The open waters of an ocean or sea that are outside the jurisdiction of any nation.  
-__high-handed__ Haughtily presumptuous; arrogantly or inconsiderately overbearing.  
+__high stakes__ If you have high stakes in something such as a venture or decision, you have a major interest in its outcome.  
+__high-handed__ :two: Haughtily presumptuous; arrogantly or inconsiderately overbearing. _The new boss is unbearably high-handed in dealing with employees._  
 __high-res__  
-__highball__ __3__ _n_ A drink of liquor and water or soda served in a tall glass. _Personally, I like my highballs with whiskey and ginger ale._ _Highball glasses._  
+__highball__ :two: __1__ To make an estimate which tends toward exaggeration. _Highball an offer._ __3__ _n_ A drink of liquor and water or soda served in a tall glass. _Personally, I like my highballs with whiskey and ginger ale._ _Highball glasses._  
 __highbrow__ __1__ _adj_ Of or pertaining to heightened intellectualism or superior learning or culture; especially erudite or sophisticated; appealing or suited to highbrows. _After two degrees in literature, Stanley insists on reading only highbrow books._ __2__ _n_ A person who has or affects heightened intellectualism or superior learning or culture, often in a pretentious or elitist manner. _Of course, a book like this won’t be given the time of day by literary highbrows, but it nevertheless provides an engaging and—dare I say it—entertaining read._  
 __highbrowed__ Of or pertaining to heightened intellectualism or superior learning or culture; especially erudite or sophisticated; appealing or suited to highbrows.  
 __hijinx__ :two: Mischievous or playful behavior that is intended to be amusing or entertaining, but that often crosses the line into being disruptive or annoying.  
-__hindsight is (always) 20/20__ It is easier to clearly reevaluate past actions or decisions than when they are being made or done; things are clearer or more obvious when they are reflected upon. A reference to the visual acuity of normal eyesight (20/20 vision).  
+__hindsight is (always) 20/20__ :two: It is easier to clearly reevaluate past actions or decisions than when they are being made or done; things are clearer or more obvious when they are reflected upon. A reference to the visual acuity of normal eyesight (20/20 vision). _I can see now that having my brother as my legal counsel was unwise, but I guess hindsight is always 20/20._  
 __hit (one’s) stride__  
 __hit (one) (right) between the eyes__ :dart: To suddenly become obvious or apparent to one. _After days of struggling to come up with a solution, one finally hit me right between the eyes this morning._  
 __hit (one) when (one) is down__ To criticize, exploit, insult, or otherwise treat badly one who has already suffered a setback or is in a vulnerable position. _Can Jeff’s employee review wait until next week? His girlfriend just left him, and I don’t want to hit him while he’s down._  
@@ -2487,29 +2496,30 @@ __hit (someone or something) hard__
 __hit (something) out of the (ball)park__ To do or perform something extraordinarily well; to produce or earn an exceptional achievement. An allusion to hitting a home run in baseball that lands outside the stadium. _I’m pretty sure I hit that test out of the ballpark._  
 __hit a brick wall__ :dart: To come up against an immovable or insurmountable difficulty or obstacle. _Our project was going well, but we hit a brick wall when our funding was suddenly cut._  
 __hit a snag__ :dart::four: To encounter an issue, drawback, or challenge. _Our plans for a relaxing night at home hit a snag when a pipe burst in the basement._  
-__hit a wall__  
+__hit a wall__ :two::hammer:  
 __hit and miss__ :two::hammer: (hit or miss)  
 __hit bottom__ To reach the lowest or worst point. _Our profits have hit bottom._  
 __hit home__ :four: To be fully understood by or strongly affect or resonate with someone. _It wasn’t until he was threatened with losing his job that the comments about John’s work ethic really hit home._ _The film has an underlying theme of grief and loss that will hit home with a lot of viewers._  
 __hit on (one)__ To show one’s romantic or sexual interest in one; to flirt with one. _Are you hitting on me? You’re a married man!_  
-__hit on all cylinders__ To operate, perform, function, or proceed exceptionally well or at the greatest possible speed or efficiency.  
-__hit or miss__ :two::hammer:  
+__hit on all cylinders__ :two: To operate, perform, function, or proceed exceptionally well or at the greatest possible speed or efficiency. _We’ll be hitting on all cylinders if we get Janet to join our team._  
+__hit or miss__ _adj_ :three: Sometimes good or successful, sometimes not; having mixed or unpredictable results; random, aimless, careless, or haphazard. Often hyphenated.  
 __hit rock bottom__  
 __hit the big time__ To become very famous or successful.  
 __hit the books__ To study, often intensely. _You better hit the books if you want to pass your exam on Friday._  
 __hit the bull’s-eye__  
 __hit the ceiling__ To react with extreme anger. _Mom will hit the ceiling when she finds out we broke the vase by playing ball in the house again._  
 __hit the fan__ To become more of a problem or more widespread or publicized. _Once this scandal hits the fan, all of our investors are liable to pull out of the company._  
-__hit the gas__ :two: To move quickly; to accelerate or go faster. Used especially while riding in an automobile.  
+__hit the gas__ :three: To move quickly; to accelerate or go faster. Used especially while riding in an automobile. _We’ll need to hit the gas if we want to make it to the movie on time._  
 __hit the ground running__ :three::hammer:  
 __hit the jackpot__ :two::hammer:  
 __hit the lotto__  
 __hit the road__ To leave a place or begin a journey.  
-__hit the rocks__ To encounter an especially difficult, troubled, or low point, as in a relationship or some pursuit.  
+__hit the rocks__ :two: To encounter an especially difficult, troubled, or low point, as in a relationship or some pursuit. _We’d been great friends for nearly 10 years, but our friendship has hit the rocks lately._  
 __hit the sack__  
 __hit the wall__ :two::hammer:  
 __hit up__ __1__ To go to a particular place. _Let’s hit up the mall—I’m sure we can find a present for her there._ _She thought about hitting up an amusement park._  
 __hither and thither__ :four::hammer::pencil2: _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._  
+__hobby-horse__ A subject, topic, or issue about which one frequently or incessantly talks, expounds, or complains. The term can also be spelled as a single word. _Ah, here we go again. Once grandpa gets on his hobby-horse about the government, there’s no stopping him!_  
 __Hobson’s choice__ A choice between what is available and nothing; a lack of an alternative.  
 __hog (something)__ :two: To take or use something all for oneself; to not allow others to have or use something. _Hey buddy, quit hogging the road!_ _My wife always hogs the covers at night._  
 __hoist by (one’s) own petard__ To be injured, ruined, or defeated by one’s own action, device, or plot that was intended to harm another; to have fallen victim to one’s own trap or schemes. (Note: “hoist” in this instance is the simple past-tense of the archaic form of the verb, “hoise.”)  
