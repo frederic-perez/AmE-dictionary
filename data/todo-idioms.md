@@ -1,3 +1,17 @@
+__(all) fired up__ Feeling very excited or passionate about something.  
+__be in line__  
+__beat (oneself) up__  
+__boo-boo__ :astonished: __1__ A minor blunder, error, or mistake. _I think you made a boo-boo and listed some of the expenses twice._  
+__broken record__  
+__call out__ :two: __3__ To confront one about one’s misdeeds or unpleasant behavior. In this usage, a noun or pronoun can be used between “call” and “out.” _If your intern keeps coming in late, you need to call her out on it._  
+__chip (away) at (something)__  
+__fly on the wall__  
+__from the get-go__  
+__go nowhere (fast)__ To ultimately yield or achieve no useful, beneficial, or successful result or outcome.  
+__goofball__ _slang_ __1__ Someone prone to behaving in a silly manner. _Jimmy’s such a goofball—of course he’s the class clown._ __2__ Someone deemed stupid and silly.  
+__I kid you not__  
+__it’s all good__ :two: A common expression used to indicate that everything is going well or that there’s nothing to worry about. It can be used as a response to someone who is concerned about a situation or a problem, to reassure them that things are under control or to acknowledge that everything is fine.  
+__legit__ :two::hammer:  
 __ley go__  
 __light on (one’s) feet__  
 __like greased lightning__ Extremely fast.  
@@ -11,6 +25,7 @@ __loopy__ _slang_ Feeling or showing the effects of taking drugs or alcohol. _I 
 __loosey-goosey__  
 __lose out__ __1__ To miss the chance or opportunity to do something. _Because I was so sick last week, I lost out on the chance to see my sister while she was in town._  
 __lovestruck__ Consumed with or overwhelmed by romantic feelings (for someone).  
+__low-down__  
 __lowball__ _Lowball an offer._  
 __lox__ James Ellroy uses a lot of slang and abbreviations in his novels, and “lox” is one of them! It stands for “louse,” which is a derogatory term for someone who is a loser or a lowlife.  
 __Lucky 13__ “Lucky 13” in Elmore Leonard’s novels refers to the 13th Street gang, a group of criminals who play a significant role in several of his works.  
@@ -45,6 +60,7 @@ __my, my__ _interjection_ An expression of surprise, incredulity, or pleasure.
 __nab__ :two: To catch and arrest someone. Often used in passive constructions.  
 __navigate__ :three: To carefully and skillfully manage or deal with something that is complex, challenging, or difficult. _Navigating difficult relationships._ _Navigating life._  
 __neck and neck__  
+__neck of the woods__ A neighborhood or nearby area; the area around where one lives.  
 __nerve-racking__ (nerve-wracking) Causing fear or anxiety.  
 __nerve-wracking__ :two: (nerve-racking) Causing fear or anxiety.  
 __nest egg__  
@@ -101,6 +117,7 @@ __open season (on someone or something)__
 __orbiter__ In James Ellroy’s novels, “orbiter” is a term used to describe someone who is on the periphery or fringes of a criminal organization or network. It’s someone who is not a central player or a key decision-maker, but who is still involved in the criminal activity in some way, perhaps as a lookout, a messenger, or a low-level enforcer.  
 __out of (one’s) shell__ Less shy, reserved, or reticent and in a more sociable, outgoing, or enthusiastic state.  
 __out of curiosity__ A phrase that is used to indicate that a person is asking a question or seeking information out of a genuine desire to know more about something, rather than for any specific or practical purpose.  
+__out of thin air__  
 __out of whack__  
 __out-of-pocket__ Out-of-pocket expenses are costs connected with work that people pay themselves at first but are usually paid back to them later. _I charge twenty dollars an hour plus out-of-pocket expenses._ Note: If you pay out of pocket, you pay for something yourself and claim the money back later.  
 __outtro__ In a sense, “outtro” is a pun on “intro,” and it’s a creative way to refer to the closing or concluding section of a creative work.  
@@ -206,6 +223,7 @@ __regardless of (something)__
 __rep__ __2__ _n_ A shortening of “reputation.”  
 __riffle__ :two: In James Ellroy’s novels, “riffle” is a verb that means to search quickly through something, usually a pile of papers or documents. It implies a sense of urgency and impatience, as if the person doing the riffling is searching for something important and doesn’t have time to waste.  
 __riffraff__ Undesirable, disreputable, or vulgar people, often used in a condescending manner. _I wouldn’t be seen in a place like that, there’s a lot of riffraff that hang out around there._  
+__rile up__  
 __ring of Venus__ In James Ellroy’s novels, the “ring of Venus” is a term used to describe a secret society or network of powerful people who engage in corrupt or illegal activities. It’s usually presented as a shadowy and mysterious organization that operates behind the scenes, pulling the strings of government, business, and society.  
 __ring-a-ding-ding__ The idiom “ring-a-ding-ding” generally means something that’s super exciting or energetic! It’s often used to describe things like parties, events, or even certain types of music. In a way, it’s kind of like saying “it’s a real hoot” or “it’s a blast!”  
 __ripple effect__  
@@ -250,6 +268,7 @@ __see somebody/something for what they ˈare/it is__ Realize that somebody/somet
 __sell like hot cakes__  
 __serve (one’s) time__ To spend the amount of time in jail that is required by one’s prison sentence.  
 __set the stage for (something)__  
+__set the world on fire__ To do wonderful or exciting things that cause a great or remarkable sensation in the world; to become extremely popular, famous, renowned, etc. Often used in the negative to indicate the opposite.  
 __settle a score (with someone)__  
 __settle accounts__ __2__ To avenge a misdeed.  
 __shafted__ _slang_ Cheated or swindled; unfairly deprived or taken advantage of; screwed (over).  
@@ -320,7 +339,7 @@ __suck it up__ :dart:
 __suck up to (one)__  
 __sure thing__  
 __swag__ :two::hammer: _slang_ __1__ _n_ Stolen goods or money; loot. _Come on, show us the swag you scored from the jewelry shop!_  
-__swamped__ :dart: Extremely busy, to the point of being overwhelmed, overburdened, or overworked.  
+__swamped__ :dart::two: Extremely busy, to the point of being overwhelmed, overburdened, or overworked.  
 __swear by (someone or something)__  
 __sweatshop__ __1__ A factory or workshop in which employees are forced to do very hard work, especially the manufacturing of clothing, for long hours with very low wages. :dart: Can be used facetiously to describe generally unpleasant or undesirable work conditions.  
 __sweep in (to some place)__ To dash or run into some place.  
@@ -346,6 +365,7 @@ __the (hand)writing on the wall__ :two::hammer:
 __the cream of the crop__ The best of a particular group.  
 __the Fourth Estate__ The people and organizations that report the news, or news journalism as a whole, regarded as having palpable but unofficial political influence.  
 __the lowdown on__ :dart: The whole truth about something.  
+__the million-dollar question__ A question that is very important and/or difficult to answer. Sometimes used ironically.  
 __the mother of all (something)__ The largest, most extreme, or ultimate example of a particular kind of thing. _Wow, that is the mother of all sandwiches. It’s nearly a foot high!_  
 __the old days__  
 __the revolution will be televised__  
@@ -355,12 +375,14 @@ __the Wild West__ __2__ By extension, that which is characterized by a lack of l
 __thick blood__ “Thick blood” can be used to describe someone who is resilient or tough. _He’s got thick blood and can bounce back from anything._  
 __thingamajig__ (thingy) Some tool, gadget, or other such implement the proper name for which is unknown or unremembered.  
 __tied up in knots__ Feeling anxious, stressed, or overwhelmed. It’s often used to describe someone who is struggling to cope with a difficult or confusing situation.  
+__tilt at windmills__ To waste time fighting enemies or trying to resolve issues that are imaginary, unimportant, or impossible to overcome.  
 __time after time__  
 __time and (time) again__ :two::hammer:  
 __time flies__  
 __toe the line__  
 __top-flight__ Stellar; excellent; of the highest level of quality or worth. Can be used with or without the hyphen when used after a noun.  
 __touch up__ :dart::two::hammer: _You need to touch up your hair color._  
+__tough love__  
 __train wreck__ :dart:  
 __trifle with (someone or something)__ To treat or deal with someone or something in a frivolous or disrespectful manner. Often used in passive constructions.  
 __true to (one’s) word__ As one has promised.  
@@ -378,6 +400,7 @@ __uh-huh__
 __under the hood__  
 __under-promise and over-deliver__ To avoid raising expectations in order to subsequently exceed them. Used as a strategy to ensure the satisfaction of one’s client, customer, boss, etc. Also spelled without hyphens. _I want all of our customer service representatives to under-promise and over-deliver, so that all experiences with our company are positive ones._  
 __unheard of__ Extremely uncommon or unusual; beyond belief. Hyphenated if used as a modifier before a noun. _His prowess on the balance beam is unheard of._  
+__up a notch__ To an increased or extreme degree of intensity or quality.  
 __up and coming__ An _up and coming_ person is someone who is likely to be successful in the future.  
 __up and down__ __2__ Going between success and failure.  
 __up for grabs__  
@@ -408,7 +431,7 @@ __win out__ To defeat someone or something; to prevail.
 __wingding__ :two::hammer:  
 __wise up__  
 __wit a vengeance__ _Generative AI left the lab with a vengeance._  
-__with a bang__ :two::hammer:  
+__with a bang__ :three::hammer:  
 __with a vengeance__ _Die Hard with a Vengeance._  
 __with flying colors__  
 __within reason__  
