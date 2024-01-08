@@ -1,9 +1,31 @@
+__bankrupt__ _vt_  
+__boo__ _v_  
+__cold-pressed__ _adj_  
+__concomitant__ _adj, n_  
+__creatinine__ _n_ /kriːˈætəˌniːn/ A nitrogenous waste product excreted in urine.  
+__crooner__ _n_  
+__degenerative__ _adj_ /dɪˈdʒɛnəˌreɪtɪv/ _(of a disease or condition)_ Getting steadily worse.  
+__elucidate__ _v_  
+__facile__ _n_ __1b__ :dart: Working, acting, or done with ease and fluency: _a facile writer; facile prose._ _All interventional cardiologists are facile with delivering balloons._  
+__heighten__ _v_  
+__lithotripsy__ _n_  
+__loner__ _n_  
+__mammoth__ _adj, n_  
+__monopoly__ _n_ :mega: /məˈnɒp ə li/  
+__Ophiuchus__ _n_  
+__own__ _vt_ __1a__ To have or possess as property: _owns a chain of restaurants._ __b__ :dart: To have control over: _For a time, enemy planes owned the skies._  
+__pivotal__  
 __quinquagenarian__ _n_  
 __rainfall__ _n_ _Syn_ rain  
+__ravager__ _n_  
 __Red Crescent__ _n_ A national branch of or the emblem of the Red Cross Society in a Muslim country.  
+__reimbursement__ _n_ Compensation paid (to someone) for damages or losses or money already spent etc. _He received reimbursement for his travel expenses._  
+__retrograde__ _adj, vi_  
 __rubble__ _n_ _Earthquakes reduced many buildings to rubble._  
 __sagacity__ _n_ The quality of being discerning, sound in judgment, and farsighted; wisdom. _Syn_ discernment, sagaciousness, judgment  
+__Santeria__ _n_ (Santería)  
 __sham__ _n_  
+__sheepish__ _adj_  
 __simmering__ _n_ Cooking in a liquid that has been brought to a boil. _Syn_ boiling, stewing  
 __Sistine Chapel__ _n_ (etymology?)  
 __sitting__ _n_  
@@ -35,11 +57,13 @@ __split__ _v_ _Women who have split from a relationship._
 __squarely__ _adv_ /ˈskwɛəlɪ/  
 __squeak__ _vi_ :two: __2__ _slang_ To turn informer.  
 __squib__ _n_ __2a__ A brief satirical or witty writing or speech, such as a lampoon.  
+__squiggly__ _adj_  
 __squirm__ _v_ :two::hammer:  
 __stable__ _n_ __3__ A group, as of athletes or entertainers, under common management: _a stable of prizefighters._  
 __stakeout__ _n_  
 __stale__ _adj_ __1__ Having lost freshness, effervescence, or palatability: _stale bread; stale air._  
 __stalwart__  
+__standard of care__ _n_ :two::hammer: _Our commitment to developing a new standard of care for patients at risk of heart disease remains steadfast._  
 __startling__ _adj_  
 __stem__ _v_  
 __steno__ _n informal_ _US and Canadian_ Short for stenographer. _Steno pad and pen._  
@@ -167,6 +191,7 @@ __unworldly__ _adj_
 __upend__ _v_  
 __uphold__ _vt_ __3__ To maintain or affirm: _uphold a standard of behavior._ _Syn_ support  
 __uprising__ _n_  
+__uptick__ _n_  
 __V-E Day__ _n_ [:scroll: V(ictory in) E(urope) Day] May 8, 1945, the day on which the Allies announced the surrender of German forces in Europe.  
 __valance__ _n_ An ornamental drapery hung across a top edge, as of a bed, table, or canopy. _Syn_ cornice, pelmet, valance board _Large valances of silk, embroidered with flowers of gay colors, which were rather faded, fell from the wide windows._  
 __valediction__ _n_  
