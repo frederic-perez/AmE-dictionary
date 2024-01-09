@@ -1,28 +1,3 @@
-__(all) fired up__ Feeling very excited or passionate about something.  
-__a shit ton__ _rude slang_ A huge amount (of something). _I’m sorry, I can’t come on the trip this weekend. I’ve got a shit ton of work to catch up on._ _That robot learns from a sh*t-ton of pre-existing data to perform human tasks._  
-__bag__ __2__ _v_ To get or obtain something. _Hey, when you go to that event, be sure to bag some cupcakes for us!_  
-__be in line__  
-__beat (oneself) up__  
-__blooper__ __2__ _n_ An error. _That was a real blooper. Did you get fired?_  
-__boiling point__  
-__boo-boo__ :astonished: __1__ A minor blunder, error, or mistake. _I think you made a boo-boo and listed some of the expenses twice._  
-__broken record__  
-__call off__  
-__call out__ :two: __3__ To confront one about one’s misdeeds or unpleasant behavior. In this usage, a noun or pronoun can be used between “call” and “out.” _If your intern keeps coming in late, you need to call her out on it._  
-__case in point__  
-__catch__ __13__ _n_ A problem, drawback, or hidden detriment, often one that is initially concealed as a means of entrapment. _I know this sounds like a great job offer, but there’s a pretty big catch—I’d have to move across the country._  
-__caught in 4k__ _Caught in 4k_ is a phrase that means someone was caught in the act of doing something wrong or foolish and there is undeniable evidence to prove it. _He said he never talked to her, but he was caught in 4k after I pulled up the deleted Twitter posts I screencapped._  
-__chip (away) at (something)__  
-__clap back__ :dart: _OpenAI claps back at The NYT._  
-__end to end__ __2__ From the very beginning to the very end of something. _That film was excellent end to end!_  
-__fly on the wall__  
-__for that matter__ Besides; in addition. _If you’re hungry, take one of my doughnuts. For that matter, take two._  
-__from the get-go__  
-__fun fact__ An interesting but trifling or irrelevant piece of miscellaneous information; a factoid. Often used as an interjection to introduce such a piece of information. _Fun fact: we love anything with Hawaiian flair except pizza…_  
-__go nowhere (fast)__ To ultimately yield or achieve no useful, beneficial, or successful result or outcome.  
-__goofball__ _slang_ __1__ Someone prone to behaving in a silly manner. _Jimmy’s such a goofball—of course he’s the class clown._ __2__ Someone deemed stupid and silly.  
-__I kid you not__  
-__it’s all good__ :two: A common expression used to indicate that everything is going well or that there’s nothing to worry about. It can be used as a response to someone who is concerned about a situation or a problem, to reassure them that things are under control or to acknowledge that everything is fine.  
 __ivory tower__  
 __JK__ An initialism of “just kidding,” used especially in text messages and online communications to express that one was not being serious about their previous statement. Variously written as “JK,” “J.K.,” or “J/K,” in either uppercase or lowercase letters. _Yeah, def considering working on my uncle’s farm 4 the summer. haha jk lol_  
 __legit__ :two::hammer:  
