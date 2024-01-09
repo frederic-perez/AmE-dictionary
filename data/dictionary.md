@@ -1261,6 +1261,7 @@ __banjax__ _vt_ _informal US_ To ruin or destroy, often as a result of incompete
 __bankroll<sup>1</sup>__ _n_  
 __bankroll<sup>2</sup>__ _v_ :two::hammer:  
 __bankroller__ _n_ The person or organization that provides the finance for a project, business, etc.  
+__bankrupt__ _vt_  
 __banneret__ _n_  
 __banquet__ _n_ :mega::two::hammer:  
 __banshee__ _n_ :two::hammer: _The cry of the banshee._  
@@ -1969,6 +1970,7 @@ __bonkers__ _adj_ _informal_ :six: Crazy. _That’s bonkers!_
 __bonnie blue flag__  
 __bonobo__  
 __bonus__ _n_ :mega: /bō′nəs/  
+__boo__ _v_  
 __boo-hoo__ _v_ Used to describe a kind of childish or exaggerated crying. In other words, when someone is “boo-hooing,” they’re not just shedding a couple tears, they’re wailing and bemoaning their fate in a pretty over-the-top way. It’s often used as a joke or a way to make light of a situation that’s not really that serious.  
 __boo<sup>1</sup>__ _v_ :three::hammer: (booed) :es: abuchear  
 __boo<sup>2</sup>__ _n_ _informal_ __1a__ A boyfriend or girlfriend. __b__ A spouse. __2__ Used as a term of endearment for such a person.  
@@ -3575,6 +3577,7 @@ __cold duck__
 __cold shoulder__  
 __cold turkey__ _n_ :three: __1__ Complete and abrupt withdrawal of all addictive drugs or anything else on which you have become dependent. _He quit smoking cold turkey._ _She quit her job cold turkey._ __2__ A blunt expression of views. _I told him cold turkey._  
 __cold-calling__ _n_ Calling potential new customers in the hope of selling stocks, bonds or other financial products and receiving commissions. _He started cold-calling people in New York._  
+__cold-pressed__ _adj_  
 __coleopteran__ _n_ (coleopteron) Any of numerous insects of the order Coleoptera; a beetle.  
 __coleslaw__ _n_ :five::hammer:  
 __Colgate__ _n_ William Colgate (January 25, 1783 – March 25, 1857) was an English manufacturer who founded in 1806 what became the Colgate toothpaste company.  
@@ -3769,7 +3772,7 @@ __conclave__ _n_ /KAHN-klayv/ A private meeting, a secret assembly, or a general
 __conclude__ _v_  
 __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan). _His cronies concocted a simple plan._ _Syn_ make up, think up, dream up, fabricate  
 __concoction__ _n_ :two::hammer:  
-__concomitant__ _adj_ :nine::hammer:  
+__concomitant__ _adj_ :nine::m::hammer:  
 __concordant__ _adj_ Being in agreement: harmonious. _Syn_ accordant, agreeable, consonant, conformable  
 __concordat__ _n_ A signed written agreement between two or more parties (nations) to perform some action. _Syn_ compact, covenant  
 __concourse__ _n_ :nine: __1__ A crowd; throng. __2__ A coming together; confluence: _a concourse of events._ __3__ :dart: A large open space for the gathering of people in a public place. _Enjoy casual fare in the lower level dining concourse._ _Main concourse._ _Art works on display in the concourses and terminal._ __4__ A ground for sports, racing, athletics, etc.  
@@ -4210,6 +4213,7 @@ __creaking__ _n_ A squeaking sound. _Door creakings._
 __creaky__ _adj_ _Creaky infrastructure._  
 __crease<sup>1</sup>__ _n_ :two::hammer: (creases) _There are creases in the cover._  
 __crease<sup>2</sup>__ _vt_ :four: /kriːs/ __2__ To graze or wound superficially with a bullet.  
+__creatinine__ _n_ /kriːˈætəˌniːn/ A nitrogenous waste product excreted in urine.  
 __cred__ _n informal_ :seven: (creds) Short for credibility: _street cred._  
 __credence__ _n_ :eight::hammer:  
 __credenza__ _n_ :two: A buffet, sideboard, or bookcase, especially one without legs. _Syn_ credence  
@@ -4280,6 +4284,7 @@ __crony__ _n_ :four: A close friend or companion.
 __cronyism__ _n_ :dart::seven: When someone hires a friend to do a job, whether or not she’s the best candidate, that’s cronyism. A governor appointing his inexperienced daughter to an important staff position is one example of cronyism. You’re most likely to find the word cronyism in political discussions. It’s not necessarily considered cronyism for a public figure to hire, promote, or appoint her friends or colleagues. However, if the person isn’t as qualified as other candidates but gets the job anyway, it’s a clear case of cronyism. The original meaning of cronyism was simply “friendship,” from crony, Cambridge student slang for “old friend” from the Greek khronios, “long-lasting.” :es: amiguismo  
 __crook__ _n_ :seven::hammer: (crooks) _They carried long crooks._ _The crook of her arm._  
 __crooked__ _adj_ :three::hammer: _Crooked media._  
+__crooner__ _n_  
 __crop__ _n_ _He had a riding crop in one hand._  
 __crop-duster__ _n_ :camera: _The crop-duster attack in North by Northwest._  
 __crosbar__ _n_ _soccer_  
@@ -4736,6 +4741,7 @@ __deftly__ _adv_ _Helen was deftly applying a poultice to his arm._
 __deftness__ _n_  
 __defund__ _v_ :four: To withdraw funding from. To stop the flow of funds to.  
 __defuse__ _v_ :nine::hammer: (defuses, defusing)  
+__degenerative__ _adj_ /dɪˈdʒɛnəˌreɪtɪv/ _(of a disease or condition)_ Getting steadily worse.  
 __deglutition__ _n_ The act or process of swallowing.  
 __dehumanize__ _vt_ :two::hammer:  
 __dehydration__  
@@ -5846,7 +5852,7 @@ __ellipsis__ _n_ /ɪˈlɪp sɪs/ An ellipsis is a series of three consecutive pe
 __elliptical machine__ _n_ _He was working out on an elliptical machine._  
 __elope__ _vi_ :nine::m::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
 __eloquent__ _adj_ :two::hammer: /EL-uh-kwunt/  
-__elucidate__ _v_ :four: /ih-LOO-suh-dayt/ /ɪˈluːsɪˌdeɪt/ To make something that is hard to understand clear or easy to understand. _The author elucidates complex ideas to a general audience._  
+__elucidate__ _v_ :five: /ih-LOO-suh-dayt/ /ɪˈluːsɪˌdeɪt/ To make something that is hard to understand clear or easy to understand. _The author elucidates complex ideas to a general audience._  
 __elucidation__ _n_  
 __elude__ _v_ :three::astonished::hammer: (eluding)  
 __elusive__ _adj_ :three::hammer: _An elusive goal._  
@@ -6356,7 +6362,8 @@ __face-off__ _n_ A hostile disagreement face-to-face. _Syn_ confrontation, encou
 __facelift__ _n_ :two::hammer: (face-lift)  
 __facetious__ _adj_ :nine::m::astonished::pencil2: /fəˈsi ʃəs/ /fuh-SEE-shuss/ Not to be taken seriously; amusing; humorous; frivolous. Playfully jocular; humorous. _Syn_ bantering, tongue-in-cheek _I was only being facetious._ _She was quite gullible and could never tell when his remarks were facetious or when he was being serious._  
 __facetiousness__  
-__facile__ _adj_ :three: /FASS-ul/ Too easily accomplished or attained. _She’s an extremely facile actress._  
+__facile<sup>1</sup>__ _adj_ :three: /FASS-ul/ Too easily accomplished or attained. _She’s an extremely facile actress._  
+__facile<sup>2</sup>__ _n_ __1b__ :dart: Working, acting, or done with ease and fluency: _a facile writer; facile prose._ _All interventional cardiologists are facile with delivering balloons._  
 __facilitate__ _v_ /fuh-SIL-uh-tayt/  
 __facioscapulohumeral__ _adj_ Referring to the face, shoulder and arm.  
 __facsimile<sup>1</sup>__ _n_ :five: /fak-SIM-uh-lee/ _The forged painting was an impressive facsimile of the original._ _The lander had two facsimile cameras._  
@@ -8510,6 +8517,7 @@ __hegemony__ _n_ The predominant influence, as of a state, region, or group, ove
 __hegira__ _n_  
 __heifer__ _n_ :two: A young cow that has not given birth to a calf.  
 __height__ _n_ :mute:[hei~~gh~~t]  
+__heighten__ _v_  
 __heightened__ _adj_ :five::hammer: _A heightened awareness of problems._  
 __heinous__ _adj_ :six: __1__ Very shocking and immoral. _A heinous crime._ __2__ _spoken informal_ Extremely bad. _The food in the cafeteria is pretty heinous._  
 __heir__ _n_ :mute:[~~h~~eir]  
@@ -10519,7 +10527,7 @@ __literacy__
 __literate<sup>1</sup>__ _adj_ :two: __1b__ Knowledgeable or educated in a particular field or fields.  
 __literate<sup>2</sup>__ _n_ :two::hammer:  
 __lithe__ _adj_ :six::hammer: _A lithe cat._  
-__lithotripsy__ _n_ :two: A medical procedure involving the physical destruction of hardened masses like kidney stones, bezoars or gallstones. The term is derived from the Greek words meaning “breaking stones.”  
+__lithotripsy__ _n_ :three: A medical procedure involving the physical destruction of hardened masses like kidney stones, bezoars or gallstones. The term is derived from the Greek words meaning “breaking stones.”  
 __lithotripter__ _n_  
 __litigation__  
 __litigator__ _n_ :two::hammer:  
@@ -10604,7 +10612,7 @@ __lollygag__ _vi_ :three: _informal_ To waste time by puttering aimlessly; dawdl
 __London__ _n_ :mega: /ˈlʌndən/  
 __lone wolf__ _n_ _They are lone wolf attacks._  
 __lonely-hearts__ _adj_ Of or for people seeking counseling or companionship to bring love or romance into their lives.  
-__loner__ _n_ Someone who likes being alone.  
+__loner__ _n_ :two: Someone who likes being alone.  
 __long haul__ _n_ _She’s in for the long haul._  
 __long shot__  
 __long__ _adv_ :dart::three::hammer::astonished: _Human rights activists have long complained._ _Critics have long attacked Mr. Obama._ _Anthony has long said that he intends to opt out of his current deal._  
@@ -10896,7 +10904,7 @@ __mammal__ _n_ :mega:
 __mammalian<sup>1</sup>__ _n_ /məˈmeɪ li ən, -ˈmeɪl yən/ An animal of the class Mammalia; mammal.  
 __mammalian<sup>2</sup>__ _adj_ Belonging or pertaining to the class Mammalia; characteristic of mammals.  
 __mammonism__ _n_ The greedy pursuit of riches.  
-__mammoth__ _adj_  
+__mammoth__ _adj, n_ :two::hammer:  
 __man o’war__ _n_ (man-of-war, man o’ war) __1__ A warship. __2__ Portuguese man-of-war—a long tentacled jellyfish whose sting can be deadly.  
 __man__ _v_ :two::hammer: _John mans the kitchen._  
 __man-at-arms__ _n_ (men-at-arms) A soldier, especially a medieval cavalryman supplied with heavy arms.  
@@ -11531,7 +11539,7 @@ __mononym__ _n_ :three: /ˈmɒnəʊˌnɪm/ A a person who is famous enough to be
 __mononymous__ _adj_ /muh-NON-uh-muhs/ [:scroll: From Greek mono- (one) + -nym (name)] Having or known by a name consisting of only one word.  
 __monophobia__ _n_ An abnormal fear of being alone.  
 __Monopoly Deal__ _n_  
-__monopoly__ _n_ :mega: /mə-nŏp′ə-lē/  
+__monopoly__ _n_ :two::hammer::mega: /mə-nŏp′ə-lē/ /məˈnɒp ə li/  
 __monopsony__ _n_  
 __monosemous__ _adj_ /mon-uh-SEE-muhs/ [:scroll: From Greek mono- (one) + sema (sign)] Having only one meaning.  
 __monotonous__ _adj_ Tediously repetitious or lacking in variety. _Syn_ humdrum _Spending eight hours a day on an assembly line is monotonous work, but I am grateful to have a job._  
@@ -12447,6 +12455,7 @@ __operatic__
 __operating system__  
 __operetta__ _n_ :pencil2:  
 __operose__ _adj_ :two: __1__ Done with or involving much labor; tedious. Characterized by effort to the point of exhaustion; especially physical effort. __2__ Industrious; diligent.  
+__Ophiuchus__ _n_  
 __ophthalmic__ _adj_  
 __ophthalmologist__ _n_  
 __opine__ _v_ /oh-PYNE/  
@@ -12709,7 +12718,7 @@ __owing to__ _prep_ :two: Because of; on account of: _I couldn’t attend, owing
 __own goal__ _n_ :dart: _Mikael Lustig scored an own goal._  
 __own right__  
 __own up__  
-__own__ _v_  
+__own__ _vt_ :two: __1a__ To have or possess as property: _owns a chain of restaurants._ __b__ :dart: To have control over: _For a time, enemy planes owned the skies._  
 __oxblood__ _n_ :three: (oxblood red) Dark brownish-red color. _Oxblood shoes._  
 __oxygen bar__ _n_ (Complementary Medicine) An establishment where customers pay to inhale pure oxygen in order to combat the effects of air pollution.  
 __oxymoron__ _n_ :three::mega: /ahk-sih-MOR-ahn/ Oxymoron is a figure of speech that uses two opposite words together. Example: The treaty led to a violent peace.  
@@ -13504,7 +13513,7 @@ __pitted__ _v_ :four::hammer: (pitting) _Pitted cherries._
 __pituitary__  
 __pivot<sup>1</sup>__ _n_ :three: __1__ A shaft or pin on which something turns. __2a__ A person, thing, or factor having a major or central role, function, or effect. __b__ A key player or position; specifically: an offensive position of a basketball player standing usually with back to the basket to relay passes, shoot, or provide a screen for teammates.  
 __pivot<sup>2</sup>__ _v_  
-__pivotal__ _adj_ :six: __2__ Of crucial importance.  
+__pivotal__ _adj_ :seven: __2__ Of crucial importance.  
 __pixie__  
 __pizazz__ _n_ :three: (pizzazz or pizazz or pzazz) An attractive combination of vitality and glamour. :es: dinamismo  
 __pizzeria__ _n_ :mega:  
@@ -14478,6 +14487,7 @@ __quince__ _n_ :pencil2: _Quince preserves._ :es: membrillo
 __quincunx__ _n_ [:scroll: From Latin quincunx (five twelfths), from quinque (five) + uncia (twelfth part). In ancient Rome, a quincunx was a coin equivalent to five twelfths of the coin known as an “as” or “libra”. The coin’s value was sometimes represented by five dots, four in corners and one in the middle. The number five on a die is represented by five dots in a quincunx.] An arrangement of five objects or marks with one at each corner of a rectangle or square and one at the center.  
 __quinine__ _n_ :mega:  
 __quinoa__ _n_ :two::hammer:  
+__quinquagenarian__ _n_  
 __quinquennial__  
 __quinsy__  
 __quintessence__ _n_ /kwin-TESS-unss/  
@@ -14558,6 +14568,7 @@ __raillery__ _n_
 __raiment__ _n_ :three::hammer:  
 __rain slickers__ _n_  
 __rainbow pass__ _n_ _football_  
+__rainfall__ _n_ _Syn_ rain  
 __rainforest__ _n_  
 __rainmaker__  
 __rainout__  
@@ -14679,6 +14690,7 @@ __raucous__ _adj_ :nine::m: /ˈrɔ kəs/ Making or constituting a disturbingly h
 __raunchiness__  
 __raunchy__ _adj informal_ :five::hammer: _A raunchy comedy._  
 __ravaged__ _v_ :four::hammer:  
+__ravager__ _n_  
 __ravages__ _n_ _pl_ :three::hammer:  
 __rave<sup>1</sup>__ _n_ :four: __1__ _informal_ An extremely enthusiastic recommendation or appraisal of someone or something. _The film has won raves from American reviewers._ _Syn_ enthusiastic praise, lavish praise __2__ _informal_ A lively party or gathering involving dancing and drinking. _Their annual fancy-dress rave._  
 __rave<sup>2</sup>__ _v_ :nine::m: (raved) If you rave about a book you just read, you’re telling people you think it’s great, or you’re giving it a rave review. Rave has two levels, one that implies you’re very excited about something and the other that you are too excited, so you seem crazy. While raving about a movie means to talk it up, being a raving lunatic means you are engaging in a lot of crazy talk. When you rave about a performance, you talk enthusiastically about it. Take that enthusiastic talking to the next level, and you might be called raving in the crazy sense. __2__ To talk or write with extravagant enthusiasm: _They raved about the performance._ _Readers raved about his stories._  
@@ -14801,6 +14813,7 @@ __recurse__ _v_ /ri-KUHRS/
 __recuse__ _v_ :two: /rih-KYOOZ/ Recuse means “to disqualify (oneself) as judge in a particular case.” More broadly, it can also mean “to remove (oneself) from participation to avoid a conflict of interest.” _The judge decided to recuse herself from the case due to the nature of her relationship with the plaintiff’s family._  
 __recycler__ _n_ _Joe admitted stealing the copper and taking it to a recycler to get cash for it._  
 __Red Brigade__  
+__Red Crescent__ _n_ A national branch of or the emblem of the Red Cross Society in a Muslim country.  
 __Red Cross__ _n_  
 __red eye__ _n_  
 __red flag__ _n_ :three: Something that irritates or demands immediate action. _Red flag day._ _That raised a red flag to us._  
@@ -14904,6 +14917,7 @@ __rehouse__ _vt_ To provide with new, usually improved housing.
 __reign__ _n_ :two::mute:[rei~~g~~n]:hammer:  
 __reiki__ _n_ /ˈreɪkɪ/  
 __reimagining__ _n_  
+__reimbursement__ _n_ Compensation paid (to someone) for damages or losses or money already spent etc. _He received reimbursement for his travel expenses._  
 __reindeer__ _n pl_ :three::hammer:  
 __reinstate__ _vt_ :six::hammer: /ˌri ɪnˈsteɪt/  
 __reinstatement__ _n_  
@@ -15092,8 +15106,8 @@ __retrenchment__ _n_ :two::hammer: _An era of American retrenchment._
 __retribution__  
 __retrocede__ _v_  
 __retrofit__ _v_  
-__retrograde<sup>1</sup>__ _adj_ :four::hammer: _NHS staff face unacceptable health risks as a result of “retrograde” changes to the government’s guidance on preventing spread of SARS-CoV-2 infection, doctors’ leaders have warned._  
-__retrograde<sup>2</sup>__ _v_  
+__retrograde<sup>1</sup>__ _adj_ :five::hammer: _NHS staff face unacceptable health risks as a result of “retrograde” changes to the government’s guidance on preventing spread of SARS-CoV-2 infection, doctors’ leaders have warned._  
+__retrograde<sup>2</sup>__ _vi_ :two::hammer:  
 __retronym__ _n_  
 __retroscopic__  
 __retrospective__ _adj_ /reh-truh-SPEK-tiv/  
@@ -15401,7 +15415,7 @@ __rub<sup>1</sup>__ _n_ :three::hammer: _By “evidence” I mean hard facts, as
 __rub<sup>2</sup>__ _v_  
 __rubbing__ _n_ :two::hammer:  
 __rubbish__ _n_ __1__ Worthless, useless, or unwanted matter. __2__ Discarded or waste matter; refuse. __3__ :dart: Foolish words or speech; nonsense.  
-__rubble__ _n_ :three::hammer: /ˈrʌbəl/  
+__rubble__ _n_ :four::hammer: /ˈrʌbəl/ _Earthquakes reduced many buildings to rubble._  
 __rube__ _n informal_ :two: A person who is not very intelligent or interested in culture. _Syn_ bumpkin, chawbacon, hayseed, hick, yahoo, yokel  
 __rubella__ _n_ A mild contagious eruptive disease caused by a virus and capable of producing congenital defects in infants born to mothers infected during the first three months of pregnancy. _Syn_ German measles, epidemic roseola, three-day measles _The parents were relieved when the doctor said that their son’s rubella would improve in a matter of days._  
 __Rubenesque__ _adj_  
@@ -15533,6 +15547,7 @@ __sag<sup>1</sup>__ _v_ :eight: (sagged, sagging) __1__ Sink, subside, or bulge 
 __sag<sup>2</sup>__ _n_ A decline, especially a temporary one.  
 __saga__ _n_ :two::mega: /SAH-guh/ A long and complicated story or series of events. Saga first referred to ancient Icelandic narratives that tell of legendary figures and events of the heroic age of Norway and Iceland. _What was supposed to be an easy return from the airport turned into quite a saga._  
 __sagacious__ _adj_ /suh-GAY-shus/ Having or showing an ability to understand difficult ideas and situations and to make good decisions. (It implies being wise or discerning.) _Student reviews paint the writing professor as a sagacious mentor and a compassionate teacher._  
+__sagacity__ _n_ The quality of being discerning, sound in judgment, and farsighted; wisdom. _Syn_ discernment, sagaciousness, judgment  
 __sage<sup>1</sup>__ _n_ :three: __1__ A man revered for his profound wisdom. __2__ Any of various plants of the genus _Salvia_ of the mint family, having aromatic grayish-green leaves.  
 __sage<sup>2</sup>__ _adj_ :four: Profoundly wise or prudent. _Sage counsel._ _Toss with sage and cranberries._ _Sage advice._  
 __sagging__ _adj_ :four::hammer: _The sagging hopes of miners._ _Sagging gallery._  

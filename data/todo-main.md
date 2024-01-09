@@ -1,28 +1,3 @@
-__bankrupt__ _vt_  
-__boo__ _v_  
-__cold-pressed__ _adj_  
-__concomitant__ _adj, n_  
-__creatinine__ _n_ /kriːˈætəˌniːn/ A nitrogenous waste product excreted in urine.  
-__crooner__ _n_  
-__degenerative__ _adj_ /dɪˈdʒɛnəˌreɪtɪv/ _(of a disease or condition)_ Getting steadily worse.  
-__elucidate__ _v_  
-__facile__ _n_ __1b__ :dart: Working, acting, or done with ease and fluency: _a facile writer; facile prose._ _All interventional cardiologists are facile with delivering balloons._  
-__heighten__ _v_  
-__lithotripsy__ _n_  
-__loner__ _n_  
-__mammoth__ _adj, n_  
-__monopoly__ _n_ :mega: /məˈnɒp ə li/  
-__Ophiuchus__ _n_  
-__own__ _vt_ __1a__ To have or possess as property: _owns a chain of restaurants._ __b__ :dart: To have control over: _For a time, enemy planes owned the skies._  
-__pivotal__  
-__quinquagenarian__ _n_  
-__rainfall__ _n_ _Syn_ rain  
-__ravager__ _n_  
-__Red Crescent__ _n_ A national branch of or the emblem of the Red Cross Society in a Muslim country.  
-__reimbursement__ _n_ Compensation paid (to someone) for damages or losses or money already spent etc. _He received reimbursement for his travel expenses._  
-__retrograde__ _adj, vi_  
-__rubble__ _n_ _Earthquakes reduced many buildings to rubble._  
-__sagacity__ _n_ The quality of being discerning, sound in judgment, and farsighted; wisdom. _Syn_ discernment, sagaciousness, judgment  
 __Santeria__ _n_ (Santería)  
 __sham__ _n_  
 __sheepish__ _adj_  
