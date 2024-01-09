@@ -1,16 +1,30 @@
 __(all) fired up__ Feeling very excited or passionate about something.  
+__a shit ton__ _rude slang_ A huge amount (of something). _I’m sorry, I can’t come on the trip this weekend. I’ve got a shit ton of work to catch up on._ _That robot learns from a sh*t-ton of pre-existing data to perform human tasks._  
+__bag__ __2__ _v_ To get or obtain something. _Hey, when you go to that event, be sure to bag some cupcakes for us!_  
 __be in line__  
 __beat (oneself) up__  
+__blooper__ __2__ _n_ An error. _That was a real blooper. Did you get fired?_  
+__boiling point__  
 __boo-boo__ :astonished: __1__ A minor blunder, error, or mistake. _I think you made a boo-boo and listed some of the expenses twice._  
 __broken record__  
+__call off__  
 __call out__ :two: __3__ To confront one about one’s misdeeds or unpleasant behavior. In this usage, a noun or pronoun can be used between “call” and “out.” _If your intern keeps coming in late, you need to call her out on it._  
+__case in point__  
+__catch__ __13__ _n_ A problem, drawback, or hidden detriment, often one that is initially concealed as a means of entrapment. _I know this sounds like a great job offer, but there’s a pretty big catch—I’d have to move across the country._  
+__caught in 4k__ _Caught in 4k_ is a phrase that means someone was caught in the act of doing something wrong or foolish and there is undeniable evidence to prove it. _He said he never talked to her, but he was caught in 4k after I pulled up the deleted Twitter posts I screencapped._  
 __chip (away) at (something)__  
+__clap back__ :dart: _OpenAI claps back at The NYT._  
+__end to end__ __2__ From the very beginning to the very end of something. _That film was excellent end to end!_  
 __fly on the wall__  
+__for that matter__ Besides; in addition. _If you’re hungry, take one of my doughnuts. For that matter, take two._  
 __from the get-go__  
+__fun fact__ An interesting but trifling or irrelevant piece of miscellaneous information; a factoid. Often used as an interjection to introduce such a piece of information. _Fun fact: we love anything with Hawaiian flair except pizza…_  
 __go nowhere (fast)__ To ultimately yield or achieve no useful, beneficial, or successful result or outcome.  
 __goofball__ _slang_ __1__ Someone prone to behaving in a silly manner. _Jimmy’s such a goofball—of course he’s the class clown._ __2__ Someone deemed stupid and silly.  
 __I kid you not__  
 __it’s all good__ :two: A common expression used to indicate that everything is going well or that there’s nothing to worry about. It can be used as a response to someone who is concerned about a situation or a problem, to reassure them that things are under control or to acknowledge that everything is fine.  
+__ivory tower__  
+__JK__ An initialism of “just kidding,” used especially in text messages and online communications to express that one was not being serious about their previous statement. Variously written as “JK,” “J.K.,” or “J/K,” in either uppercase or lowercase letters. _Yeah, def considering working on my uncle’s farm 4 the summer. haha jk lol_  
 __legit__ :two::hammer:  
 __ley go__  
 __light on (one’s) feet__  
@@ -20,6 +34,7 @@ __line up__
 __lionhearted__ _adj_  
 __long and hard__ :two: The phrase “long and hard” is an idiom that generally means something that requires a lot of time, effort, or energy to accomplish. It’s often used to describe a task or project that is difficult or challenging, but also requires patience and perseverance to complete. _I thought long and hard about it._  
 __long in the tooth__ Old. Animals’ teeth, especially those of horses, are thought to be an indicator of age. As animals age, their gums recede, and their teeth look longer. _Our poor cat is so long in the tooth that he struggles just walking around the house these days._  
+__long story short__  
 __loom large__ To seem imminent and cause worry or unease.  
 __loopy__ _slang_ Feeling or showing the effects of taking drugs or alcohol. _I only had a couple glasses of wine with my lunch, but I was a bit loopy by the time we left the restaurant._  
 __loosey-goosey__  
@@ -52,6 +67,7 @@ __mill about__ To loiter, wander about, or waste time idly (some place). _I’ll
 __mind (one’s) p’s and q’s__ To be polite and well behaved; to mind one’s manners.  
 __mind-boggling__  
 __miss out on (something)__ :two: To lose the chance or opportunity to do or experience something.  
+__moan about (someone or something)__ To grumble, gripe, or complain about someone or something to an annoying, excessive degree.  
 __modus operandi__ :mega: /ˈməʊdəs ˌɒpəˈrændiː; -ˈrændaɪ/  
 __more so__  
 __mud-shark__ In the novels by James Ellroy, the term “mud-shark” is used to refer to a type of predatory behavior, often associated with characters who engage in morally questionable or criminal activities. The term “mud-shark” is symbolic of the predatory nature of certain characters, reflecting their willingness to exploit others for personal gain or pleasure.  
@@ -66,6 +82,7 @@ __nerve-wracking__ :two: (nerve-racking) Causing fear or anxiety.
 __nest egg__  
 __nip and tuck__ :astonished:  
 __nitpicker__  
+__nitwit__ A foolish, ignorant person.  
 __nix__  
 __no harm, no foul__ :two: If there was no bad outcome to an action, then there’s no need to be angry or upset about it. _A: “Oh, excuse me! I’m so sorry for knocking over your glass!” B: “It’s OK, it was empty. No harm, no foul!”_  
 __no matter what__ In any conditions; regardless of what happens. _I don’t care if it’s raining, I’m going to the concert no matter what._  
@@ -109,12 +126,14 @@ __on the mat__ __1__ In a position to face a reprimand from someone. _When my te
 __on the table__ :two::hammer:  
 __on the verge of (doing) (something)__  
 __one and the same__ Identical; the very same. _For ancient civilizations, astronomy and astrology were one and the same._  
+__one man’s trash is another man’s treasure__  
 __one size fits all__ Supposedly well-suited to any situation, as of a product, method, solution, etc. Often hyphenated. _We must move away from a “one size fits all” approach._  
 __one-liner__ _informal_ A very short, witty joke, remark, or riposte.  
 __oomph__ _slang_ Power, vigor, or energy.  
 __open question__  
 __open season (on someone or something)__  
 __orbiter__ In James Ellroy’s novels, “orbiter” is a term used to describe someone who is on the periphery or fringes of a criminal organization or network. It’s someone who is not a central player or a key decision-maker, but who is still involved in the criminal activity in some way, perhaps as a lookout, a messenger, or a low-level enforcer.  
+__ouch__ :dart: __2__ An acknowledgement of some disappointment or unpleasantness. _A: “I’m pretty bummed—I studied all weekend, and I only got a C.” B: “Ooh, ouch.”_  
 __out of (one’s) shell__ Less shy, reserved, or reticent and in a more sociable, outgoing, or enthusiastic state.  
 __out of curiosity__ A phrase that is used to indicate that a person is asking a question or seeking information out of a genuine desire to know more about something, rather than for any specific or practical purpose.  
 __out of thin air__  
@@ -162,6 +181,7 @@ __prevention is better than cure__ _proverb_ Work to stop something from happeni
 __pricey__ Moderately expensive.  
 __prima donna__  
 __promises, promises__ A sarcastic reply to a promise or assurance that one does not believe. _A: “I swear, as soon as I have a bit more free time, we will go on a proper date together.” B: “Promises, promises! I won’t hold my breath.”_  
+__pull (one’s) leg__ To tease or joke with someone, often by trying to convince them of something untrue.  
 __pull (one’s) weight__ :dart: To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
 __pull it out__ In general, the phrase “pull it out” is often used to describe a situation where someone is able to find or discover something, or find an answer, solution, or idea that they had not previously thought of.  
 __punk__ _n_  
@@ -218,6 +238,7 @@ __ratchet up__
 __rave about (something)__ To give wildly enthusiastic praise for something.  
 __red line__  
 __red tape__  
+__red-faced__ __1__ Blushing from embarrassment. _I was completely red-faced when the teacher made me speak in front of the whole class._  
 __refrain from (doing something)__ To make a considered, conscious effort not to do something.  
 __regardless of (something)__  
 __rep__ __2__ _n_ A shortening of “reputation.”  
@@ -307,6 +328,7 @@ __snookered__ /ˈsnʊkɚd/ _mod_ __1__ Cheated; deceived. _I was snookered skill
 __snout__ __4__ _slang_ A person’s nose.  
 __snow job__ :dart: A form of manipulation that involves lying or flattery to persuade someone. a systematic deception; a deceptive story that tries to hide the truth. _You can generally tell when a student is trying to do a snow job._ _This snow job you call an explanation just won’t do._  
 __snuff (one)__ :two: _slang_ To kill one. _He was planning on going to the police, but the criminals snuffed him before he had the chance._ _Tragically, he was snuffed in his prime by cancer._  
+__so it goes__ _informal_ That is the kind of thing that happens; that is life. _Too bad about John and his problems. So it goes._ _I just lost a twenty-dollar bill, and I can’t find it anywhere. So it goes._  
 __so to speak__: two::hammer:  
 __so-so__  
 __sock__ _informal_ __1__ _n_ A sharp, forceful blow. _He gave me a sock in the arm when I called him a wuss._ __2__ _v_ To deliver a sharp, forceful blow. _Talk about my mother like that again, and I’ll sock you in the jaw!_  
@@ -370,6 +392,7 @@ __the mother of all (something)__ The largest, most extreme, or ultimate example
 __the old days__  
 __the revolution will be televised__  
 __the scoots__ _n_ A case of diarrhea. _Our vacation was ruined by a case of the scoots._  
+__the whole shebang__  
 __the wild west of (something)__  
 __the Wild West__ __2__ By extension, that which is characterized by a lack of law, order, and regulations; that which is totally untamed and unfettered. Often followed by “of something.“  
 __thick blood__ “Thick blood” can be used to describe someone who is resilient or tough. _He’s got thick blood and can bounce back from anything._  
@@ -426,7 +449,7 @@ __wheel man__ The driver of an escape vehicle during some kind of crime, especia
 __when the rubber hits the road__ The point at which someone’s or something’s efforts, resolve, or viability are put to the test; the point at which things become truly or meaningfully challenging.  
 __whipcrack__ “Whipcrack” is a term that James Ellroy uses in his novels to describe a fast, sharp, and sudden action or event. It’s used to evoke a sense of speed, intensity, and urgency.  
 __whipout__ It’s another slang term that Ellroy uses to describe something that happens quickly and violently. In his books, it can mean a sudden attack, a fast getaway, or even just a quick, sharp response to something.  
-__why on earth__  
+__why on earth__ :two: _proverb_ What one person may consider worthless could be highly prized or valued by someone else.  
 __win out__ To defeat someone or something; to prevail.  
 __wingding__ :two::hammer:  
 __wise up__  
