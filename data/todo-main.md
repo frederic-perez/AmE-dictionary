@@ -1,28 +1,3 @@
-__Santeria__ _n_ (Santería)  
-__sham__ _n_  
-__sheepish__ _adj_  
-__simmering__ _n_ Cooking in a liquid that has been brought to a boil. _Syn_ boiling, stewing  
-__Sistine Chapel__ _n_ (etymology?)  
-__sitting__ _n_  
-__Six-Day War__ _n_  
-__six-figure__ _adj_  
-__ski jump__ _n_  
-__skin__ _vt_ _He skinned his knee and started to cry._  
-__skulk__ _v_ /SKULK/ To skulk is to move around or hide in a stealthy or secretive way. A person or animal that is said to be _skulking_ is often assumed or considered to be up to some form of wrongdoing or mischief.  
-__skyrocket__ _v_  
-__slash__ _n_ __1b__ A long cut or other opening made by such a stroke; a gash or slit. _The slash of the sword._  
-__slinky__ _adj_ Graceful, sinuous, and sleek: _wore a slinky outfit to the party._  
-__slum<sup>1</sup>__ _n_  
-__slum<sup>2</sup>__ _vi_ To visit impoverished areas or squalid locales, especially out of curiosity or for amusement.  
-__small-time__  
-__smithereens__  
-__smorgasbord__ _n_ :three::hammer:  
-__snarf__ _vt_ To eat or drink rapidly or eagerly; devour: _snarfed down some cookies._  
-__snarky__ _adj_ :two: _informal_ Unpleasant and scornful.  
-__sniveling__ _n_ Whining in a tearful manner . _Syn_ snivel  
-__snooker<sup>1</sup>__ _n_  
-__snooker<sup>2</sup>__ _vt_ _slang_ To deceive.  
-__sobering__ _adj_  
 __solace__ _n_ :mega: /ˈsɒl ɪs/  
 __sombrero__  
 __spiteful__ _adj_ Filled with, prompted by, or showing spite; malicious.  

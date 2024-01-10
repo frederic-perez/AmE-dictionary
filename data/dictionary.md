@@ -5848,7 +5848,7 @@ __eligible__ _adj_
 __elision__  
 __elite__ _n_ :two::hammer: (elites)  
 __elk__ _n_ :three::hammer: /ɛlk/ (_n pl_ elk or elks) :es: alce  
-__ellipsis__ _n_ /ɪˈlɪp sɪs/ An ellipsis is a series of three consecutive periods known as ellipsis points ( . . . ) used to indicate where words have been omitted from quoted text, or (informally) to represent a pause, hesitation, or trailing-off in thought or speech.  
+__ellipsis__ _n_ /ɪˈlɪp sɪs/ An ellipsis is a series of three consecutive periods known as ellipsis points (...) used to indicate where words have been omitted from quoted text, or (informally) to represent a pause, hesitation, or trailing-off in thought or speech.  
 __elliptical machine__ _n_ _He was working out on an elliptical machine._  
 __elope__ _vi_ :nine::m::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
 __eloquent__ _adj_ :two::hammer: /EL-uh-kwunt/  
@@ -15629,6 +15629,7 @@ __sanguinolency__ _n_ Addiction to bloodshed.
 __sanitation__ _n_ _Sanitation systems._  
 __sanitize__ _v_  
 __sanity check__ _n_ :two::hammer:  
+__Santeria__ _n_ (Santería)  
 __sap<sup>1</sup>__ _vt_ :nine::m: (saps, sapped, sapping, sappy) __2__ To deplete or weaken gradually. Gradually weaken or destroy (a person’s strength or power). _Weak demand sapping trade._ _His energy was sapping._ _Worry never robs tomorrow of its sorrow, it only saps today of its joy._  
 __sap<sup>2</sup>__ _n_ :four::hammer: _A flat-sided sap stuck out of his back pocket._ _What a sap!_  
 __sapient__ _adj_ /SAY-pee-unt/ Sapient is a formal word that means “possessing or expressing great wisdom.”  
@@ -16168,7 +16169,7 @@ __shale<sup>3</sup>__ _v_
 __shallot__ _n_ :three::hammer:  
 __shallow__  
 __sham<sup>1</sup>__ _adj_ :four: Bogus; false. _Syn_ fake, pretended, feigned, simulated, false, artificial, bogus _Sham marriages._ _The sham elections._ _“Sham surgery” diminished swelling in hurt knees._  
-__sham<sup>2</sup>__ _n_ :five::hammer: _The novelty effect isn’t a sham._  
+__sham<sup>2</sup>__ _n_ :six::hammer: _The novelty effect isn’t a sham._  
 __shambled__ _v_ :two::hammer:  
 __shambles__ _n_ :four::hammer: _By 1984, our dreams were a shambles._ _It was in shambles._  
 __shambling__  
@@ -16218,6 +16219,7 @@ __sheen__ _n_ :two::hammer: _The sheen on his hair when he removed his hat._
 __sheep__ _n_ :four: (_n pl_ sheep) _She killed 38 sheep in a hit-and-run accident._  
 __sheepcote__ _n_ A pen for sheep. _Syn_ fold, sheep pen _It was the second time in a month that a predator had managed to tear through the sheepcotes wire._  
 __sheepfold__ _n_ (Agriculture) A pen or enclosure for sheep.  
+__sheepish__ _adj_  
 __sheepishly__  
 __sheepskin__ _n_  
 __sheer fabric__ _n_ :two::hammer:  
@@ -16328,7 +16330,7 @@ __shootout__ _n_ :two: __1a__ A gun fight. __b__ A battle between military force
 __shop kid__  
 __shopkeeper__ _n_ :three::hammer:  
 __shoppe__ _n_ :two: Variant of shop.  
-__shopworn__ _adj_ :dart: _In the news business we relied on shopworn language—“Shock and disbelief in [fill in the blank] tonight . . .”_  
+__shopworn__ _adj_ :dart: _In the news business we relied on shopworn language—“Shock and disbelief in [fill in the blank] tonight...”_  
 __shore up__ _v_ :nine: (shoring up) Support by placing against something solid or rigid. _To shore up the economy._  
 __shoreline__ _n_ :two::hammer:  
 __shorn<sup>1</sup>__ _v_ A past participle of shear.  
@@ -16419,7 +16421,7 @@ __shuffle__ _v_ :three::hammer: (shuffling)
 __shuffleboard__ _n_ :two::hammer:  
 __shun__ _v_ :nine::m: (shunned) To avoid (somebody or something) deliberately, especially habitually. :es: esquivar, rehuir _Cristiano Ronaldo has been widely praised by public health experts after he shunned Coca-Cola during a press conference._  
 __shunt__ _v_ :three::hammer: (shunted, shunting) _With a PDA, there is continous shunting of blood through the lungs._  
-__shuriken__ _n_ /ˈʃuːrɪken/ A martial-arts weapon usually in the shape of a star or cross with sharp protruding edges, thrown with a spin towards the target .  
+__shuriken__ _n_ /ˈʃuːrɪken/ A martial-arts weapon usually in the shape of a star or cross with sharp protruding edges, thrown with a spin towards the target.  
 __shush<sup>2</sup>__ _v_ :two::hammer: (shushing)  
 __shut out__ _v_ :two::hammer:  
 __shutout__ _n_ :nine::m: _Sports_ A game in which one side does not score. _Last year, the NL won in a shutout._ _It was the Tigers’s fifth consecutive shutout._ _Chelsea Haas won seven games with six shutouts._  
@@ -16506,6 +16508,7 @@ __silviculture__ _n_
 __simile__ _n_ :three: A simile is a comparison in which something is said to figuratively be like something else. Example: It was as hot as a desert this morning.  
 __simmer down__  
 __simmer__ _v_ :nine::m: (simmers, simmering) (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
+__simmering__ _n_ Cooking in a liquid that has been brought to a boil. _Syn_ boiling, stewing  
 __Simon Says__ _n_ :two::hammer:  
 __simony__ _n_ :eight: /ˈsaɪmənɪ/ (Christianity) The practice, now usually regarded as a sin, of buying or selling spiritual or Church benefits such as pardons, relics, etc, or preferments.  
 __simpatico__ _adj_ :two::hammer:  
@@ -16550,6 +16553,7 @@ __siphon<sup>3</sup>__ _vi_
 __sire<sup>1</sup>__ _n_  
 __sire<sup>2</sup>__ _v_ :three::hammer: (sired) _Another colt sired by him._  
 __siriasis__ _n_ Sudden prostration due to exposure to the sun or excessive heat. _Syn_ insolation, sunstroke, thermic fever _We were stranded in the desert, and it was not long before members of our party began exhibiting signs of siriasis._  
+__Sistine Chapel__ _n_ (etymology?)  
 __Sisyphean__ _adj_ :two: Actually or seemingly endless and futile. _A Sisyphean battle against the dust._  
 __sit__ _v_ :three::hammer: _The nightlife district sits just north of the Chicago River._ __17__ To baby-sit for. _Stop sitting on the bull._  
 __sit-down__ _n_ :two::hammer: _Johnny Carp says he wants another sit-down._  
@@ -16558,10 +16562,12 @@ __sitdown__ _n_ :two::hammer:
 __sith__ _adv, conj, prep_ An archaic word for since.  
 __sitter__ _n_  
 __sitting duck__ _n_ _informal_ :four: An easy target or victim. _Competent but unprepared new graduates are sitting ducks for psychosocial harm._  
-__sitting<sup>1</sup>__ _n_ :two: __1__ The act or position of one that sits. __2__ A period during which one is seated and occupied with a single activity, such as posing for a portrait or reading a book. _I watched all the episodes in just one sitting._ __3__ A session or term, as of a legislature or court.  
+__sitting<sup>1</sup>__ _n_ :three: __1__ The act or position of one that sits. __2__ A period during which one is seated and occupied with a single activity, such as posing for a portrait or reading a book. _I watched all the episodes in just one sitting._ __3__ A session or term, as of a legislature or court.  
 __sitting<sup>2</sup>__ _adj_ :four: In office or actual possession. _The sitting U.S. president._ _Sitting members of parliment._  
 __situated__ _adj_ Having a place or location. _Syn_ located, placed, set  
 __situation__ _n_ :five::hammer: _Sorry guys, we have a situation here._ _We’ve got a situation in there!_  
+__Six-Day War__ _n_  
+__six-figure__ _adj_  
 __sixth man__ _n_ A player in basketball who is regularly used as the first of a team’s substitutes in a game.  
 __sizable__ _adj_ :two: Of considerable size; fairly large. _Clinton’s sizable lead._  
 __sizzle<sup>1</sup>__ _v_ :six::hammer: _Rihanna sizzled when she performed in New York._ _Sizzling burgers/soups._  
@@ -16584,6 +16590,7 @@ __sketchy__
 __skewer<sup>1</sup>__ _n_ _Skewers of meats, vegetables, and fruits._  
 __skewer<sup>2</sup>__ _v_ :three::astonished::hammer:  
 __skews__ _v_  
+__ski jump__ _n_  
 __ski-in/ski-out resort__ _n_ :two: A ski-in ski-out resort is basically one that borders a mountain. It’s where skiers are able to ski in and out of the resort without having to use any form of transportation.  
 __skid row__ _n_ _slang_ _His father would take him to a blind pig on skid row._  
 __skid<sup>1</sup>__ _n informal_ :seven: __1a__ A period of sharp decline or repeated losses. _Santa Clara ended last season on an 18-game skid, going winless in WCC play._ _The European car market hit a multiyear skid._ __b__ __skids__ A path to ruin or failure _His career hit the skids. Her life is now on the skids._ _Skid marks._ _Shutdown didn’t put skids on sales._  
@@ -16598,6 +16605,7 @@ __skimp<sup>2</sup>__ _n informal_ A fashionably short or revealing garment. _Sh
 __skimpy__ _adj_ :four: Containing little excess. _Syn_ lean _When the car repairs maxed out my already skimpy budget, I knew my shopping days were over._  
 __skin diving__ _n_ Underwater swimming in which the swimmer, without lines to the surface, is variously equipped with a face mask, flipperlike footgear, scuba equipment, etc.  
 __skin parlor__  
+__skin__ _vt_ _He skinned his knee and started to cry._  
 __skinflint__ _n_ :three: One who is very reluctant to spend money; a miser. A selfish person who is unwilling to give or spend. _Syn_ scrooge, churl, niggard  
 __skinner__ _n_ :dart::two: __2__ A person who prepares or deals in skins or hides. __3__ A person who drives draft animals, as mules. _A resting place for mule skinners guiding packtrains._  
 __skip stones__ _v_ (skip rocks) To throw smooth flat stones into a lake, river etc in a way that makes them jump across the surface. _Alafair was skipping stones across the water into a cypress stump._  
@@ -16614,7 +16622,7 @@ __skivvies__ _n_ :six: (Skivvies: A trademark for underwear.) Men’s underwear 
 __skivvy__ _n_ :two: A female domestic servant who does all kinds of menial work.  
 __skosh__ _n_ _slang_ [:scroll: Skosh comes from the Japanese _sukoshi_, which means “a little bit.”] A small amount; a bit.  
 __skulduggery__ _n_ _informal_ :two: (skullduggery) Underhand dealing; trickery.  
-__skulk__ _v_ :four::hammer: _Jessica makes both friends and enemies skulking around in the night._  
+__skulk__ _v_ :five: /SKULK/ To skulk is to move around or hide in a stealthy or secretive way. A person or animal that is said to be _skulking_ is often assumed or considered to be up to some form of wrongdoing or mischief. _Jessica makes both friends and enemies skulking around in the night._  
 __skullcap__  
 __skullduggery__ _n_ :two::hammer:  
 __skunk__ _n_ :two::hammer:  
@@ -16626,7 +16634,7 @@ __skyjack__ _v_ To hijack (an aircraft).
 __skylark<sup>1</sup>__ _n_ :es: alondra  
 __skylark<sup>2</sup>__ _v_ :two: To frolic; sport.  
 __skylight__  
-__skyrocket__ _v_ :four::hammer:  
+__skyrocket__ _v_ :five::hammer:  
 __skyscraper__ _n_  
 __skyview__ _n_ _Skyview banquet facility._  
 __skywalk__ _n_  
@@ -16651,10 +16659,9 @@ __slapdash<sup>3</sup>__ _n_ __1__ Slapdash activity or work. __2__ (Building) A
 __slapjack__  
 __slapshot__ _n_ _Ice hockey_ A hard, fast, often wild, shot executed with a powerful downward swing, and with the blade of the stick brushing firmly against the ice prior to striking the puck.  
 __slapstick__  
-__slash__  
 __slash-and-burn__ _adj_ _Slash-and-burn path._  
-__slash<sup>1</sup>__ _v_ :two::hammer: (slashed)_She slashed at his hands, jabbing and cutting._ _Basketball_ _He is a lanky gunner who can slash._  
-__slash<sup>2</sup>__ _n_ _Slash pines._  
+__slash<sup>1</sup>__ _v_ :two::hammer: (slashed) _She slashed at his hands, jabbing and cutting._ _Basketball_ _He is a lanky gunner who can slash._  
+__slash<sup>2</sup>__ _n_ :three::hammer: __1b__ A long cut or other opening made by such a stroke; a gash or slit. _The slash of the sword._  
 __slat<sup>1</sup>__ _n_  
 __slat<sup>2</sup>__ _vi_ :two: To flap violently. _The occasional slat of a sail._ _The sails were slatting furiously._  
 __slate__ _n_ __6__ _(Film)_ __a__ The reference information written on a clapperboard. __b__ _informal_ The clapperboard itself.  
@@ -16719,7 +16726,7 @@ __slinger__
 __slingshot__ _n_ A Y-shaped stick or frame having an elastic strap attached to the prongs, used for flinging small projectiles. :es: tirachinas  
 __slink<sup>1</sup>__ _v_ :five: To move in a quiet furtive manner; sneak: slunk away ashamed; _a cat slinking through the grass toward its prey._ _He declined to confirm this as he smiled sheepishly before slinking into an elevator._  
 __slink<sup>2</sup>__ _adj_ Born prematurely.  
-__slinky__ _adj_ __1__ Moving in a sinuously graceful or provocative way. __2__ (Clothing & Fashion) (of clothes) Figure-hugging; clinging. __3__ Characterized by furtive movements.  
+__slinky__ _adj_ :two: __1__ Moving in a sinuously graceful or provocative way. __2__ (Clothing & Fashion) (of clothes) Figure-hugging; clinging. Graceful, sinuous, and sleek: _wore a slinky outfit to the party._ __3__ Characterized by furtive movements.  
 __slip up<sup>1</sup>__ _v_  
 __slip up<sup>2</sup>__ _n_ :three::hammer: (slip-up) _The story avoided slip-ups._  
 __slip<sup>1</sup>__ _n_ :five::hammer: _Even the smallest of slips would alert that man to her presence._ __4__ _Nautical_ __a__ A docking place for a ship between two piers. _Sailboats were rocking in their slips._ __b__ A slipway. __5__ A small piece of paper, especially a small form, document, or receipt: _a deposit slip._ _Hand out detention slips for using AI?_ _A pink slip._ _A slip of paper._  
@@ -16775,8 +16782,8 @@ __sluggish__ _adj_ :three::hammer:
 __sluice<sup>1</sup>__ _n_ :five: /sloos/ [:scroll: From Old French escluse (sluice gate), from Latin exclusa (water barrier), from excludere (to exclude), from ex- (out) + claudere (to close)] __1__ An artificial channel, stream, etc. _A sluice for washing gold._ _Mining sluice._ __2__ A valve or gate to control the flow of a liquid. __3__ A body of water controlled by a sluice gate.  
 __sluice<sup>2</sup>__ _vt_ :six: __1__ To let out, by or as if by, opening a gate. __2__ To wash, flush, cleanse, etc. __3__ To send logs, gold-bearing gravel, or other material down a sluice.  
 __sluice<sup>3</sup>__ _vi_ :two: To flow, as if from or through a sluice.  
-__slum<sup>1</sup>__ _n_ :five::hammer: (slums) _A black slum area off the Loreauville Road._ _The caravan passed through a black slum far out in the parish._ _A Mumbai slum._ _A woman from the slums of Rio de Janeiro._  
-__slum<sup>2</sup>__ _v_  
+__slum<sup>1</sup>__ _n_ :six::hammer: (slums) _A black slum area off the Loreauville Road._ _The caravan passed through a black slum far out in the parish._ _A Mumbai slum._ _A woman from the slums of Rio de Janeiro._  
+__slum<sup>2</sup>__ _vi_ :two: To visit impoverished areas or squalid locales, especially out of curiosity or for amusement.  
 __slumber party__ _n_ :two: An overnight party in which guests, usually girls, wear nightclothes and socialize at a friend’s home.  
 __slumber<sup>1</sup>__ _n_ :three::hammer:  
 __slumber<sup>2</sup>__ _v_ :three: __1__ To sleep. __2__ To be dormant or quiescent. __3__ To pass (time) in sleep: slumbered the night away.  
@@ -16800,7 +16807,7 @@ __small potatoes__ _pl n_ _informal_ :two: Something insignificant or unimportan
 __small print__  
 __small__ _n_ __1__ A part that is smaller or narrower than the rest: _the small of the back._  
 __small-claims court__ _n_  
-__small-time__ _adj_ _informal_ :two: (smalltime) Insignificant; minor: _a small-time criminal._ _The small-time Philly boxer Rocky Balboa._ _Smalltime dealer._  
+__small-time__ _adj_ _informal_ :three: (smalltime) Insignificant; minor: _a small-time criminal._ _The small-time Philly boxer Rocky Balboa._ _Smalltime dealer._  
 __smallpox__ _n_ :two::hammer: :es: viruela  
 __smarmy__ _adj_ :four: /SMAR-mee/ __1__ Excessively ingratiating or insincerely earnest. Hypocritically, complacently, or effusively earnest. _Syn_ fulsome, oleaginous, unctuous _His smarmy speech left no doubt that he actually felt superior to those he was meant to be praising._ _Online reviews of the resort warned of smarmy street vendors when wandering from the tourist areas._ __2__ Relating to or indulging in lewd conduct; smutty: _smarmy jokes._  
 __smart aleck__ _n informal_ A person who thinks he is very smart and demonstrates this fact to others.  
@@ -16831,7 +16838,7 @@ __smilet__ _n_ /ˈsmaɪlɪt/ A little smile.
 __smirk__ _n_ :three::hammer: (smirks)  
 __smirking__  
 __smite__ _v_ :six: (smitten) To strike down, injure, or slay. _God will smite me._  
-__smithereens__ _n informal_ :four: A collection of small fragments or splintered pieces considered as a whole; bits. _Berlin was bombed to smithereens._ _The fragile dish broke into smithereens._  
+__smithereens__ _n informal_ :five: A collection of small fragments or splintered pieces considered as a whole; bits. _Berlin was bombed to smithereens._ _The fragile dish broke into smithereens._  
 __smithy__ _n_ _A working smithy._  
 __smitten<sup>1</sup>__ _adj_ :nine::m: Smitten means overwhelmed or struck by something, usually love. _The way you light up every time the waiter comes over to your table, it’s obvious you’re smitten with him._ __1__ _(used in combination)_ Affected by something overwhelming. _He was smitten by the landscape._ __2__ Marked by foolish or unreasoning fondness. _He was smitten by her red hair._  
 __smitten<sup>2</sup>__ _v_ :two::hammer: _He was smitten by his ignorance._  
@@ -16851,7 +16858,7 @@ __smooth-tongued__ _adj_ Artfully persuasive in speech. _Syn_ glib
 __smooth<sup>1</sup>__ _v_ :two::hammer: _Smooths and softens dry skin with nourishing plant oils._  
 __smooth<sup>2</sup>__ _adj_ _A smooth professional._  
 __smoothie__ _n_ :two: (smothies) A thick, smooth drink of fresh fruit pureed with milk, yogurt, or ice cream.  
-__smorgasbord__ _n_ :eight::astonished: __1__ A buffet meal of various hot and cold hors d’oeuvres, salads, casserole dishes, meats, cheeses, etc. __2__ An extensive array or variety. A varied collection.  
+__smorgasbord__ _n_ :nine::m::astonished: __1__ A buffet meal of various hot and cold hors d’oeuvres, salads, casserole dishes, meats, cheeses, etc. __2__ An extensive array or variety. A varied collection.  
 __smote__ _v_ :two::hammer: _Smote a horse with a whip._  
 __smother__ _v_ :four::hammer: (smothered, smothering) _Do not smother your true feelings._ _Smothering us._  
 __smoulder__ _v_ :three: (smouldered, smouldering) __1__ To burn slowly, producing smoke but no flames. _The wood smouldered._ __2__ To feel very strong emotions that you do not express in words, especially anger or sexual feelings.  
@@ -16881,9 +16888,10 @@ __snappy__ _adj_ :four::hammer: _Snappy answers._
 __snare drum__ _n_ :three::hammer: (snare drums) :es: tambor militar pequeño  
 __snare<sup>1</sup>__ _n_ __1__ A trapping device, often consisting of a noose, used for capturing birds and small mammals. __2__ Something that lures or entangles the unwary: _the snares of merchandisers; the snare of debt._ __3__ A surgical instrument with a wire loop controlled by a mechanism in the handle, used to remove growths, such as tumors and polyps.  
 __snare<sup>2</sup>__ _v_ :three::hammer: (snared)  
+__snarf__ _vt_ To eat or drink rapidly or eagerly; devour: _snarfed down some cookies._  
 __snark<sup>1</sup>__ _v_  
 __snark<sup>2</sup>__ _n_ :five::dart: Combination of “snide” and “remark.” Sarcastic comment(s). _The snarky Twitter reaction._  
-__snarky__ _adj informal_ :dart::six: Annoyed, or saying rude things in an annoyed or sarcastic way. _Snarky remarks._ _Take Wasatch Brewery’s iconic beverage “Polygamy Porter” and its snarky slogan: “Why have just one?”_  
+__snarky__ _adj informal_ :dart::eight: Annoyed, or saying rude things in an annoyed or sarcastic way. Unpleasant and scornful. _Snarky remarks._ _Take Wasatch Brewery’s iconic beverage “Polygamy Porter” and its snarky slogan: “Why have just one?”_  
 __snarl<sup>1</sup>__ _n_ :four: __1__ An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido __2__ A tangled mass, as of hair or yarn. __3__ A confused, complicated, or tangled situation: _a traffic snarl._  
 __snarl<sup>2</sup>__ _v_ :nine::m: (snarled, snarling) (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one’s teeth _The wolves are snarling._ :es: gruñir  
 __snarling__ _n_  
@@ -16910,10 +16918,13 @@ __snit__ _n_ _informal_ A state of agitation or irritation. _President Trump res
 __snitch<sup>1</sup>__ _n_  
 __snitch<sup>2</sup>__ _v_  
 __snivel__ _v_  
+__sniveling__ _n_ Whining in a tearful manner. _Syn_ snivel  
 __snob__ _n_ :two: One who has an offensive air of superiority in matters of knowledge or taste.  
 __snollygoster__ _n_ :three: _slang US_ A politician who cares more for personal gain than serving the people. One, especially a politician, who is guided by personal advantage rather than by consistent, respectable principles.  
 __snoodlike__  
 __snooker__ _vt_ /SNOO-kuhr/ To cheat, dupe, trap, stymie, etc.  
+__snooker<sup>1</sup>__ _n_  
+__snooker<sup>2</sup>__ _vt_ _slang_ To deceive.  
 __snoop__ _v_ :three: To try to find out about someone’s private affairs by secretly looking in their house, examining their possessions etc. _She snooped around._ _Big Brother snooping on innocent Americans._  
 __snoot__ _v_ :two: To behave disdainfully toward; condescend to.  
 __snootiness__  
@@ -16971,7 +16982,7 @@ __soapbox<sup>1</sup>__ _n_ :four::astonished: A platform raised above the surro
 __soapbox<sup>2</sup>__ _v informal_ :two::hammer:  
 __soar__ _v_  
 __soaring__ _adj_ Ascending to a level markedly higher than the usual: _soaring fuel costs; the soaring spires of the cathedral._ _Soaring ceilings._  
-__sobering__ _adj_ :eight: Making you think about things in a serious way. Tending to make sober or more serious: _the news had a sobering effect._  
+__sobering__ _adj_ :nine: Making you think about things in a serious way. Tending to make sober or more serious: _the news had a sobering effect._  
 __sobersides__ _n_ :astonished: A humorless or habitually serious person.  
 __sobriquet__ _n_ :six: (soubriquet) An affectionate or humorous nickname. _Syn_ cognomen, moniker, nickname, soubriquet  
 __SoCal__ _n_ _informal_ _US_ Southern California.  
