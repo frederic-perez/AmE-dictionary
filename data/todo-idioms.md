@@ -1,28 +1,3 @@
-__ivory tower__  
-__JK__ An initialism of “just kidding,” used especially in text messages and online communications to express that one was not being serious about their previous statement. Variously written as “JK,” “J.K.,” or “J/K,” in either uppercase or lowercase letters. _Yeah, def considering working on my uncle’s farm 4 the summer. haha jk lol_  
-__legit__ :two::hammer:  
-__ley go__  
-__light on (one’s) feet__  
-__like greased lightning__ Extremely fast.  
-__like sardines__  
-__line up__  
-__lionhearted__ _adj_  
-__long and hard__ :two: The phrase “long and hard” is an idiom that generally means something that requires a lot of time, effort, or energy to accomplish. It’s often used to describe a task or project that is difficult or challenging, but also requires patience and perseverance to complete. _I thought long and hard about it._  
-__long in the tooth__ Old. Animals’ teeth, especially those of horses, are thought to be an indicator of age. As animals age, their gums recede, and their teeth look longer. _Our poor cat is so long in the tooth that he struggles just walking around the house these days._  
-__long story short__  
-__loom large__ To seem imminent and cause worry or unease.  
-__loopy__ _slang_ Feeling or showing the effects of taking drugs or alcohol. _I only had a couple glasses of wine with my lunch, but I was a bit loopy by the time we left the restaurant._  
-__loosey-goosey__  
-__lose out__ __1__ To miss the chance or opportunity to do something. _Because I was so sick last week, I lost out on the chance to see my sister while she was in town._  
-__lovestruck__ Consumed with or overwhelmed by romantic feelings (for someone).  
-__low-down__  
-__lowball__ _Lowball an offer._  
-__lox__ James Ellroy uses a lot of slang and abbreviations in his novels, and “lox” is one of them! It stands for “louse,” which is a derogatory term for someone who is a loser or a lowlife.  
-__Lucky 13__ “Lucky 13” in Elmore Leonard’s novels refers to the 13th Street gang, a group of criminals who play a significant role in several of his works.  
-__lug<sup>1</sup>__ _n_ In James Ellroy’s novels, “lug” is a term used to refer to a person, usually a man, who is tough, strong, and maybe a little slow-witted. It’s often used in a slightly derogatory way to describe someone who’s not very sophisticated or intelligent, but is still physically imposing and intimidating.  
-__lug<sup>2</sup>__ _v_ In James Ellroy’s novels, “lug” can also be used as a verb, and it means to carry or move something heavy or cumbersome with effort. It’s often used to describe a character physically dragging or hauling something, like a body or a heavy bag of evidence.  
-__magpie__  
-__mainline__ _n_ __2__ _slang_ An accessible vein that can be used to inject a narcotic.  
 __make (one’s) day__  
 __make (one’s)/the rounds__ :two::hammer:  
 __make (something) clear (to one)__  

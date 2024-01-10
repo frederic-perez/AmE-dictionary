@@ -2883,7 +2883,7 @@ __it’s a dog’s life__ :dart::astonished:
 __it’s all good__ :three: A common expression used to indicate that everything is going well or that there’s nothing to worry about. It can be used as a response to someone who is concerned about a situation or a problem, to reassure them that things are under control or to acknowledge that everything is fine. A phrase used to express general approval, unconcern, or disinterest.  
 __it’s not you, it’s me__ _cliché_ You are not the reason our romantic relationship is ending, the problem is with me. Typically assumed to be a disingenuous, trite, or patronizing explanation for a romantic breakup, the phrase is often used sarcastically or humorously as a result. _A: “But I thought you were happy with me. I don’t want to end things!” B: “Oh, sweet Tom, it’s not you, it’s me! I’m just not emotionally ready for a committed relationship.”_  
 __it’s one of those things__  
-__ivory tower__ :two: An imaginary location where aloof academics are said to reside and work. _Why don’t you come out of your ivory tower and see what the world is really like?_  
+__ivory tower__ :three: An imaginary location where aloof academics are said to reside and work. _Why don’t you come out of your ivory tower and see what the world is really like?_  
 __jack someone up__ _It jacks me up._  
 __jack up__ _Amazon reportedly used a secret algorithm to jack up prices._  
 __jack-off__ :two::hammer: _Harry made the jack-off sign._  
@@ -2908,6 +2908,7 @@ __jet-setter__ A wealthy individual who travels globally, especially by private 
 __jibed (at something/at doing something)__ _old-fashioned, informal_ To be unwilling to do or accept something: _she agreed to attend but jibbed at making a speech._  
 __Jill of all trades(, master of none)__ A woman who is skilled in or adept at a wide variety of tasks or abilities (i.e., the female equivalent of “Jack of all trades”). If used with “master of none,” it implies that while competent in a variety of things, she is not highly skilled in a particular one.  
 __jill__ (gill, Gillian) A young woman. _A jailbait jill._  
+__JK__ An initialism of “just kidding,” used especially in text messages and online communications to express that one was not being serious about their previous statement. Variously written as “JK,” “J.K.,” or “J/K,” in either uppercase or lowercase letters. _Yeah, def considering working on my uncle’s farm 4 the summer. haha jk lol_  
 __Job’s comforter__ Someone who makes a person feel worse about a situation when trying to offer sympathy. A reference to the Biblical story of Job, who showed great faith amid difficult circumstances. _Larry is a real Job’s comforter. I know he was just trying to offer comforting words, but he made Maggie feel worse about her financial situation._  
 __jock__  
 __john__ _slang_ Toilet. The term is thought to derive from Sir John Harrington (1560 – 1612), he was an English courtier, author and translator popularly known as the inventor of the flush toilet.  
@@ -3139,7 +3140,7 @@ __leg up__ :two: __1__ Literally, a boost from another person that enables one t
 __leg work__ :two::hammer:  
 __legal eagle__ An especially clever, aggressive, or skillful attorney. _I might be considered something of a legal eagle now, but I had to work for years to get enough experience to build my reputation._  
 __legend has it__ :two: “Legend has it” is a phrase used to introduce a story that is traditionally regarded as true, but which may not be verifiable or historically accurate.  
-__legit__ /ləˈdʒɪt/  
+__legit__ :three::hammer: /ləˈdʒɪt/  
 __lemon law__ :two: A law requiring an automobile manufacturer or dealer to replace, repair, or refund the cost of an automobile that proves to be defective after purchase. An American law that protects purchasers of faulty cars.  
 __lemon__ Something that is worthless or much less valuable than one was led to believe. _It sounded like a good deal at the time, but this car he sold me is a total lemon!_  
 __lesson learned__ :two: The idiom “lesson learned’ refers to the knowledge or insight gained from a negative experience. It implies that the experience was not enjoyable or desirable, but nevertheless provided a valuable learning opportunity. The phrase is often used to acknowledge a mistake or failure, but to also express an intention to learn from that mistake and avoid repeating it in the future.  
@@ -3151,6 +3152,7 @@ __let down (one’) hair__ :dart: To cease acting formally or conservatively; to
 __let down (one’s) guard__ To become less guarded or vigilant; to stop being cautious about potential trouble or danger.  
 __let down__  
 __let go and let God__ To give up one’s self-determination and yield to the teachings, designs, or instructions of God or the church. _One day, I decided to just let go and let God, and I’ve been a happier person for it ever since._  
+__let go__  
 __let it rest__ To cease discussing or dwelling upon a given subject. _Look, we can’t afford a new car right now, so just let it rest already!_  
 __let it slip__ To accidentally or inadvertently reveal a given secret or important piece of information.  
 __let me tell you__ Used to emphasize a statement.  
@@ -3172,6 +3174,7 @@ __lift a finger__ To help with something. Often used in the negative to indicate
 __lift the curtain (on something)__ __2__ To make (something) publicly known; to reveal or disclose the details or truth (about something). _LinkedIn finally lifted the curtain on a number of AI features it’s been cooking behind the scenes._  
 __lift the lid off (something)__ To expose something to the public, often something scandalous or deceptive. _That company’s stock price plummeted after the media lifted the lid off the CEO’s embezzlement scandal._  
 __light at the end of the tunnel__  
+__light on (one’s) feet__  
 __light-fingered__ Adept at or given to thievery (as or as if due to having dexterous, nimble fingers). _Oh yeah, Joss was light-fingered as a teen. She got busted for shoplifting twice!_  
 __lightbulb moment__  
 __lighten (one’s) wallet__  
@@ -3186,10 +3189,11 @@ __like attracts like__ People tend to seek out or be attracted to those that are
 __like crazy__  
 __like death warmed up__ :two: In a state or appearance of extreme ill health. (Often preceded by “look” or “feel.”) _You look like death warmed up, I think you should see a doctor!_  
 __like gangbusters__  
-__like greased lightning__ Extremely fast.  
+__like greased lightning__ :two: Extremely fast.  
 __like no other__  
 __like pulling teeth__  
 __like rats abandoning a sinking ship__ With great haste and having only personal wellbeing in mind. (Typically said of people who begin abandoning something or someone that is failing or about to fail.) _I knew the business was doomed when employees started quitting en masse, like rats abandoning a sinking ship._  
+__like sardines__  
 __like shooting fish in a barrel__  
 __like there were no tomorrow__ :two: (like there’s no tomorrow) Very rapidly and eagerly; without restraint or thought (i.e., as if there won’t be another opportunity, so one must do something as much or as quickly as possible). _Every time Kevin goes out shopping, he starts spending money like there were no tomorrow._  
 __like two peas in a pod__ Very similar.  
@@ -3198,8 +3202,10 @@ __likely story__ An exclamation of distrust or disbelief in someone’s explanat
 __liken (someone or something) to (someone or something else)__ To represent or describe someone or something as being very similar to someone or something else. _People keep likening him to Ronald Reagan for his particular political positions._ _Mark faked his death and likened himself to a werewolf to intimidate an investor._  
 __line in the sand__ A figurative boundary that someone or some group refuses to cross or beyond which no further advance or compromise is accepted. (Used especially in the phrase “draw a line in the sand.”) _I don’t mind my roommate being a bit messy, but leaving dirty dishes for me to clean up is where I draw a line in the sand!_  
 __line of work__  
+__line up__  
 __lingua franca__ Any language used to bridge the gap between people who do not speak the same language. _English is the lingua franca in many foreign tourist destinations._  
 __lion’s share__ :two: The greatest or best part.  
+__lionhearted__ _adj_  
 __lip service__ :four: The insincere verbal expression of something, especially friendship, loyalty, respect, support, etc. Used especially in the phrase “give/pay lip service to something.” _All of the grand promises the president made in her campaign speeches turned out to be nothing but lip service._  
 __lipstick on a pig__ Some superficial or cosmetic change to something so that it seems more attractive, appealing, or successful than it really is. _This new operating system is just lipstick on a pig, if you ask me. It’s still just as buggy and unintuitive as the last one they released._  
 __liquid courage__ _slang_ The decrease in timidity or inhibition that comes from imbibing alcoholic beverages. _I’m planning on proposing to Mary tonight, but I think I need a little liquid courage first!_  
@@ -3229,13 +3235,15 @@ __lock out__ __2__ To prevent employees from coming to work or performing their 
 __lock, stock, and barrel__ To the greatest or most complete extent; wholly: _an estate that was auctioned off lock, stock, and barrel._ _Mr. Doe owns lock, stock and barrel._  
 __locker-room humor__ Especially crude, vulgar, or bawdy humor. _I’m no prude by any means, but I hate the locker-room humor my boyfriend partakes in when his buddies are around._  
 __lone it__ To go somewhere or do something alone; to be by oneself. _No one else wanted to leave the party, so I had to lone it back home._  
+__long and hard__ :two: The phrase “long and hard” is an idiom that generally means something that requires a lot of time, effort, or energy to accomplish. It’s often used to describe a task or project that is difficult or challenging, but also requires patience and perseverance to complete. _I thought long and hard about it._  
 __long arm__ Broad, far-reaching power or influence. (Usually paired with a noun, as in “the long arm of the law.”) _The long arm of justice finally put the murderer in jail, where he belongs._  
 __long haul__ _We are ready to go long haul._  
 __long hours__ :four: A period of time doing something, especially work, that is longer than is usual or customary. _I’ll be working long hours in the restaurant the lead up to Christmas, but the tips and pay checks will be worth it._ _The long hours you’re putting in may not help._  
+__long in the tooth__ Old. Animals’ teeth, especially those of horses, are thought to be an indicator of age. As animals age, their gums recede, and their teeth look longer. _Our poor cat is so long in the tooth that he struggles just walking around the house these days._  
 __long memory__ A clear memory of events that happened long ago. _I always have a long memory for people who disrespect me. Once you’re in my bad books, you’re there forever!_  
 __long overdue__  
 __long since__ Long ago; of the (relatively) distant past. _I came back to my hometown after college, eager to reconnect with old friends, but they had long since moved away._  
-__long story short__ :four: An expression indicating that one is skipping extraneous or unnecessary details and getting to the point. _Anyway, long story short, I got expelled for writing graffiti on bathroom stalls._  
+__long story short__ :five: An expression indicating that one is skipping extraneous or unnecessary details and getting to the point. _Anyway, long story short, I got expelled for writing graffiti on bathroom stalls._  
 __long time no see__ A phrase used when one encounters someone after having not seen them for a long period of time. _Hey, Al, long time no see! How have you been?_  
 __long-run__ Involving, maturing after, or lasting for a long period of time. Used before a noun. _If you’re thinking of starting a savings account, it’s good to have some long-run goals for how much you want to put aside each month._  
 __long-winded__  
@@ -3249,13 +3257,14 @@ __look on the sunny side (of life/things)__ To view one’s life, situation, or 
 __look out for number one__ To put one’s own needs, concerns, or responsibilities before those of anyone else. _The only way you’re going to get ahead in this business is if you look out for number one._  
 __look up to (one)__ :dart: To admire or view one as a role model. _Of course I look up to you—you’re my big sister!_  
 __looking up__ Appearing as if improvement will begin or continue into the future. _Now that businesses have started returning, the country’s economy is finally looking up._  
-__loom large__ :dart::five: To seem imminent and cause worry or unease. _We all started working much faster once the deadline loomed large on the horizon._  
+__loom large__ :dart::six: To seem imminent and cause worry or unease. _We all started working much faster once the deadline loomed large on the horizon._  
+__loopy__ _slang_ Feeling or showing the effects of taking drugs or alcohol. _I only had a couple glasses of wine with my lunch, but I was a bit loopy by the time we left the restaurant._  
 __loose cannon__ :two::hammer:  
 __loose change__ A small, usually insignificant amount of money, typically consisting of coins. _My wife and I put our loose change in a big jar at the end of the day._  
 __loose ends__ :two::hammer:  
 __loose lip(s)__ The practice, habit, or manner of speaking too frequently and/or without discretion, especially as might unintentionally lead to revealing private or sensitive information to others. _You’ve got a very loose lip, son. You’d do well to learn to keep it shut!_  
 __loose talk__ Uninhibited, indiscreet talk or conversation, especially as might unintentionally lead to revealing private or sensitive information to others. _The details of this project are extremely confidential, so there can’t be any loose talk about it whatsoever._  
-__loosey-goosey__  
+__loosey-goosey__ :two::hammer:  
 __lose (one’s) bearings__ To lose sight of or become unable to determine one’s orientation, position, or abilities relative to one’s surroundings or situation. _I feel like I’ve been losing my bearings in life ever since I lost my job._  
 __lose (one’s) buttons__ To be or become mentally deficient, incompetent, or deranged; to become of unsound mind. _My poor grandmother started losing her buttons after she had a stroke on her 84th birthday._  
 __lose (one’s) faith (in something or someone)__ To stop believing (in someone or something); to become disillusioned, embittered, or doubtful (about something or someone). _The staff have started losing faith in John’s ability to manage the restaurant properly._  
@@ -3266,7 +3275,7 @@ __lose count (of something)__ To fail to remember or keep an accurate tally of h
 __lose face__  
 __lose it__ :three::hammer:  
 __lose no time (in) (doing something)__ To do something immediately or as expediently as possible. _Wow, Sarah lost no time finding a new boyfriend after she and Rob split up._  
-__lose out__  
+__lose out__ :two: __1__ To miss the chance or opportunity to do something. _Because I was so sick last week, I lost out on the chance to see my sister while she was in town._  
 __lose track of (someone or something)__  
 __lose your train of thought__ To forget what you were talking or thinking about.  
 __loss of face__ The state or circumstance of having lost the respect of other people, as due to having done something improper or unacceptable. _After my terrible loss of face in front of the in-laws, I knew I couldn’t return to their home for the foreseeable future._  
@@ -3282,23 +3291,30 @@ __loud and clear__
 __love (someone) to the moon (and back)__  
 __love handles__ _slang_ An accumulation of fat around one’s midsection. _I need to go back to the gym and start working out again if I want to lose these love handles in time for the wedding._  
 __lovebirds__  
+__lovestruck__ Consumed with or overwhelmed by romantic feelings (for someone).  
 __low man on the ladder__ The person (not necessarily male) with the least amount of experience, authority, and/or influence in a social or corporate hierarchy. _It can be a little daunting going from being a senior in high school to low man on the ladder again as a college freshman._  
+__low-down__  
 __low-hanging fruit__ :three::dart: The most easily achieved of a set of tasks or goals.  
-__lowball__  
+__lowball__ :two::hammer: _Lowball an offer._  
 __lowdown__ __2__ _n_ The truth, facts, or most pertinent information about someone or something.  
 __lower the bar__ To lower the standards of quality that are expected of or required for something.  
-__lox__ :two: __1__ A fool. __2__ In creative terms, something nonsensical, second-rate. _A crime lox._  
+__lox__ :three: __1__ James Ellroy uses a lot of slang and abbreviations in his novels, and “lox” is one of them! It stands for “louse,” which is a derogatory term for someone who is a loser or a lowlife. __2__ A fool. __3__ In creative terms, something nonsensical, second-rate. _A crime lox._  
 __lubrication payment__ A small sum of money or other gifts or services to be paid or given to government officials to expedite business operations in countries that do not prohibit such activity. _Whenever I start up a new factory overseas, I make sure to bring along enough cash on hand for any lubrication payments I may need to make._  
 __luck in__ To be very lucky or fortunate; to experience particularly good luck. (A nonstandard variant of “luck out.”) _I really lucked in with my graduate school program. I have the most amazing group of professors and peers!_  
+__Lucky 13__ “Lucky 13” in Elmore Leonard’s novels refers to the 13th Street gang, a group of criminals who play a significant role in several of his works.  
 __lucky break__ A very fortunate or beneficial chance or happenstance.  
 __lucky devil__ Someone who has just experienced particularly good fortune, generally of whom the speaker is envious to some degree. _You just won an all-expenses-paid trip to the Bahamas? You lucky devil!_  
 __lucky loser__ A sports competitor (player or team) who loses a match in a knockout tournament or loses in qualifying, but who then enters the main draw, usually when another competitor withdraws during the tournament because of illness, injury, or other reasons.  
+__lug<sup>1</sup>__ _n_ In James Ellroy’s novels, “lug” is a term used to refer to a person, usually a man, who is tough, strong, and maybe a little slow-witted. It’s often used in a slightly derogatory way to describe someone who’s not very sophisticated or intelligent, but is still physically imposing and intimidating.  
+__lug<sup>2</sup>__ _v_ In James Ellroy’s novels, “lug” can also be used as a verb, and it means to carry or move something heavy or cumbersome with effort. It’s often used to describe a character physically dragging or hauling something, like a body or a heavy bag of evidence.  
 __lump in (one’s) throat__ :two::hammer:  
 __lust for life__ :two: Intense eagerness to experience all that life has to offer. _I don’t mind growing old, but I sometimes miss that boundless lust for life I had when I was younger._  
 __lust for power__ Intense, insatiable desire to attain power and control. _My brother’s lust for power in our company has created some deep and bitter divisions between him and the rest of the family._  
 __made of money__ To be very rich.  
 __made to order__ :three::hammer: _Everything on our menu is fresh, made from scratch, and made to order._  
 __magick thinking__  
+__magpie__  
+__mainline__ _n_ __2__ _slang_ An accessible vein that can be used to inject a narcotic.  
 __make (one’s) bones__  
 __make (one’s) day__ To cause one to feel very happy; to be a very positive highlight of one’s day. _When my neighbors surprised me with homemade chocolate chip cookies, it really made my day._  
 __make (one’s) mouth water__  
