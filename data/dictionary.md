@@ -863,7 +863,8 @@ __artery__ _n_ :mega:
 __artful__  
 __artichoke__ _n_ :three::hammer:  
 __articulate<sup>1</sup>__ _adj_ :six: __1__ Able to express oneself fluently and coherently: _an articulate lecturer._ __2__ Having the power of speech. __3__ Distinct, clear, or definite; well-constructed: _an articulate voice; an articulate document._ __4__ Possessing joints or jointed segments.  
-__articulate<sup>2</sup>__ _v_ :nine::hammer: (articulated)  
+__articulate<sup>2</sup>__ _vt_ :nine: __1__ To pronounce clearly and distinctly. __2__ To make the movements and adjustments of the speech organs necessary to utter (a speech sound). __3__ To give clarity or coherence to: _to articulate an idea._ __4__ To unite by a joint or joints.  
+__articulate<sup>3</sup>__ _vi_ :nine: __1__ To pronounce clearly each of a succession of speech sounds, syllables, or words. __2__ To articulate a speech sound. __3__ To form a joint.  
 __articulated__ _adj_ :two::hammer: _(of a vehicle)_ Built in sections that are hinged or otherwise connected so as to allow flexibility of movement.  
 __artifact__ _n_ :four::hammer: (artifacts)  
 __artifice__ _n_ A deceptive maneuver, especially to avoid capture. _Syn_ ruse _What could the bewildered scouts do, masters as they were of every war-like artifice save this one, but trot helplessly after him, exposing themselves fatally to view._  
@@ -1924,7 +1925,7 @@ __boiler room__ _n_
 __boiler__  
 __boilermaker__ _n_ :two: __2__ _slang_ A drink of whiskey with a beer chaser.  
 __boilerplate code__ _n_  
-__boilerplate__ _n_ :nine::hammer:  
+__boilerplate__ _n_ :nine: __1__ Plating of iron or steel for making the shells of boilers, covering the hulls of ships, etc. __2b__ Sndicated or ready-to-print copy, used esp. by weekly newspapers. __b__ Trite, hackneyed writing. __3__ Phrases used repeatedly, as in correspondence. __4__ The detailed standard wording of a contract.  
 __boilers__  
 __boiling point__ _n_ /BOI-ling point/ [:scroll: From Old French boillir, from Latin bullire (to bubble), from bulla (bubble).] __1__ The point at which a situation turns into a crisis. __2__ The point at which one loses one’s temper. __3__ The temperature at which a liquid boils.  
 __boisterous__ _adj_ :two::hammer:  
@@ -3772,7 +3773,8 @@ __conclave__ _n_ /KAHN-klayv/ A private meeting, a secret assembly, or a general
 __conclude__ _v_  
 __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan). _His cronies concocted a simple plan._ _Syn_ make up, think up, dream up, fabricate  
 __concoction__ _n_ :two::hammer:  
-__concomitant__ _adj_ :nine::m::hammer:  
+__concomitant<sup>1</sup>__ _adj_ :nine::m: Existing or occurring together; associative.  
+__concomitant<sup>2</sup>__ _n_  
 __concordant__ _adj_ Being in agreement: harmonious. _Syn_ accordant, agreeable, consonant, conformable  
 __concordat__ _n_ A signed written agreement between two or more parties (nations) to perform some action. _Syn_ compact, covenant  
 __concourse__ _n_ :nine: __1__ A crowd; throng. __2__ A coming together; confluence: _a concourse of events._ __3__ :dart: A large open space for the gathering of people in a public place. _Enjoy casual fare in the lower level dining concourse._ _Main concourse._ _Art works on display in the concourses and terminal._ __4__ A ground for sports, racing, athletics, etc.  
