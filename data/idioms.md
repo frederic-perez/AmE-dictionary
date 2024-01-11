@@ -3316,15 +3316,16 @@ __magick thinking__
 __magpie__  
 __mainline__ _n_ __2__ _slang_ An accessible vein that can be used to inject a narcotic.  
 __make (one’s) bones__  
-__make (one’s) day__ To cause one to feel very happy; to be a very positive highlight of one’s day. _When my neighbors surprised me with homemade chocolate chip cookies, it really made my day._  
+__make (one’s) day__ :two: To cause one to feel very happy; to be a very positive highlight of one’s day. _When my neighbors surprised me with homemade chocolate chip cookies, it really made my day._  
 __make (one’s) mouth water__  
 __make (one’s) own way__ To advance or progress, especially through life, according to one’s own efforts, inclinations, or designs. _This country prides itself on letting people make their own way, relying on no one else’s work but their own._  
 __make (one’s) skin crawl__ To cause one to feel disgusted, frightened, or unnerved. _Having to look at all those surgical photos made my skin crawl._  
-__make (one’s)/the rounds__  
+__make (one’s)/the rounds__ :three::hammer:  
 __make (oneself or something) ready (for someone or something)__ To become or make something prepared for something or someone. _I don’t think I’ll have enough time to make myself ready for the gala this evening!_  
 __make (oneself) useful__ To do something that is actively helpful or of assistance to others. _You know, instead of just sitting there watching TV, you could make yourself useful and take out the garbage._  
 __make (perfect) sense__ _It makes perfect sense._  
 __make (someone’s) ears burn__ To make someone uncomfortable, embarrassed, or disconcerted by what is being said. Alludes to the ears growing red from blushing. _Listening to my aunts and uncles coo over me at my high school graduation really made my ears burn._  
+__make (something) clear (to one)__  
 __make (something) up as (one) goes (along)__ To improvise continuously as one does something; to do something without formal guidelines, structure, rules, etc. _None of us really knew how to play the game, so we just made it up as we went along._  
 __make (the) baby Jesus cry__ To be offensive, immoral, unethical, in poor taste, etc., as might cause or provoke the displeasure or disapproval of Jesus Christ. _I try not to use vulgar language, as my mother told me at a young age that it makes baby Jesus cry._  
 __make a case for (something)__  
@@ -3344,7 +3345,7 @@ __make a sensation__
 __make a splash__ :three::hammer:  
 __make a wide stride__ To make great and rapid progress or advancement. _The one-time political advisor has been making a wide stride toward absolute control of the country._  
 __make advances at (one)__ To approach one in a flirtatious, amorous, or sexual manner; to try or begin to seduce one. _Terry was fired after he began making advances at his secretary._  
-__make amends__ :four: To provide restitution or attempt to reconcile or resolve the situation after a wrong one has done. _I’m not sure I can make amends for all the times I’ve let you down, but I want to try to be better for you._  
+__make amends__ :five: To provide restitution or attempt to reconcile or resolve the situation after a wrong one has done. _I’m not sure I can make amends for all the times I’ve let you down, but I want to try to be better for you._  
 __make an end of (something)__ To stop, cease, or conclude something. _I’m going to make an end of the corruption in this department once and for all!_  
 __make an impression__  
 __make as though__ To behave as if; to pretend or make it appear that. _Samantha’s been making as though she’s writing the next great American novel, but it’s just some trashy thriller._  
@@ -3358,7 +3359,7 @@ __make great strides__ :three::hammer:
 __make ground__ To become more successful, popular, important, or accepted. _No one thought our fast food chain would do well in a country like India, but we’ve started making ground!_  
 __make headway__ To make progress.  
 __make heavy going of (something)__ To make something harder or more laborious to do, especially more than is usual or necessary. _The Irish rugby squad made heavy going of what should have been a relatively easy win._  
-__make inroads (in/into something)__ :four::hammer: _At universities and research institutes, workstations made inroads._  
+__make inroads (in/into something)__ :five::hammer: _At universities and research institutes, workstations made inroads._  
 __make light of__ _Squires and servants made light of him._  
 __make light work of someone__ If you make light work of an opponent, you defeat them easily. _The 2009 champion made light work of his opponent._ _Verstappen beat Hamilton by almost 14 seconds, making light work of Leclerc and Sainz, who started ahead of him at the front of the grid, as he triumphed for the 16th time in 2023._  
 __make like a banana and split__ _humorous slang_ To depart or leave, especially at once or in a hurry. (A pun on “to split,” a slang term meaning to leave or depart, and a “banana split,” an ice-cream-based dessert featuring a banana halved lengthwise.) _This carnival turned out to be really boring. Come on, let’s make like a banana and split!_  
@@ -3368,8 +3369,9 @@ __make no bones about something__ :two: To say clearly what you think or feel ab
 __make no mistake__ :two: What I have said or am about to say is absolutely certain; do not think otherwise._ Make no mistake, I intend to take this all the way to the Supreme Court if I have to._  
 __make noise (about something)__ To be very outspoken about something, especially that which one dislikes or disagrees with. _Consumers have begun making a lot more noise about policies of the company that they claim are manipulative._  
 __make oneself wrong__ :two::hammer: _Do not make yourself wrong._  
-__make or break__ :three::hammer:  
+__make or break__ :four::hammer: _Music can make or break a show, especially a sitcom._  
 __make sense (out) of (something)__ To interpret something in a way that one can understand or that reveals some purpose, reason, etc. _It will be a long time before we can begin to make sense of this tragedy._  
+__make sense__ To be understandable. _John doesn’t make sense._ _What John says makes sense to me._  
 __make some noise__ That phrase is commonly used by entertainers to get the audience to cheer or applause very loudly.  
 __make strides__ :two: To make progress towards a goal. _Medical science has made great strides in tackling infertility._ _The GOP nominee will need to make huge strides with Latino voters._  
 __make the best of a bad bargain__ To deal with and create the best possible outcome of a bad, unfortunate, or unpleasant situation or set of circumstances. _I know this data entry job isn’t what you wanted for a career, but for the time being, try and make the best of a bad bargain._  
@@ -3381,8 +3383,10 @@ __make the world go round__ :dart: To be of critical or integral importance to t
 __make up one’s mind__ :four: To make a decision. _Too much love will kill you if you can’t make up your mind._ _“The time to make up your mind about people is never.” — The Philadelphia Story_  
 __make up__ __8__ _v_ To compensate for a previous discrepancy or transgression. _I’m sorry I missed your game. How about I make it up to you with some ice cream?_ _I hope this makes up for last time._  
 __make waves__ :nine: (making waves) Cause a disturbance or controversy. _We’ve finally settled our differences, so please don’t make waves._ This expression alludes to causing turbulence in the water. _Make waves with an Apple computer._  
+__mama bear__  
 __man the fort__ To mind or take charge of a location during the time in which it is unattended by another. _Don’t worry, honey, I’ll man the fort at home until you get back from the grocery store._  
 __man up__ To deal with something in a more brave, stoic, or masculine way than one has done so hitherto. (Usually used imperatively.) _It’s just a tiny scratch! You need to man up and quit crying about it._  
+__manosphere__  
 __mansplain__  
 __many happy returns of the day__ I wish you a very happy birthday and many more like it in the future. _Hey Jack, many happy returns of the day! Are you going to do anything special to celebrate the occasion?_  
 __march to (the beat of) a different drum__ To do something, act, or behave in a manner that does not conform to the standard, prevalent, or popular societal norm. _My brother’s eschewed the idea of a full-time career and has had every oddball job you could think of, but then he’s always been happy marching to the beat of a different drum._  
@@ -3395,7 +3399,7 @@ __marry (someone) for (his or her) money__ To marry someone solely or primarily 
 __marry above (one’s) station__ To marry someone who is of a higher social class or standing than oneself. _A: “I hear that the local fishmonger’s daughter is betrothed to a rich foreign lawyer!” B: “My word, she’s certainly marrying above her station, isn’t she?”_  
 __marry beneath (oneself)__ To marry someone who is of a lower social class or standing than oneself _Janet has a bright future with one of the best law firms in town, so it’s beyond me why she’s marrying beneath herself with some fast food worker._  
 __marry into money__ To become wealthy or financially secure by marrying someone who is wealthy or has a wealthy family. _Ever since he married into money, George has been flaunting all of the exotic vacations he and his new wife take._  
-__Mary Jane__ _slang_ :two: [:scroll: an Americanism for the Mexican Spanish _marihuana_ or _mariguana_, which is associated with the personal name María Juana] Marijuana. _Hey man, you know where we can score some Mary Jane around here?_  
+__Mary Jane__ _slang_ :four: [:scroll: an Americanism for the Mexican Spanish _marihuana_ or _mariguana_, which is associated with the personal name María Juana] Marijuana. _Hey man, you know where we can score some Mary Jane around here?_  
 __match made in heaven__ :two: A very happy marriage or partnership. _When Kelly and Julie partnered up and opened their restaurant, it was a match made in heaven._ _Cindy and Mark look so happy together. That’s a match made in heaven._  
 __maternity leave__  
 __maven__ One who is, is believed to be, or believes oneself to be an expert in some area, field, or topic. _Anyone proclaiming to be a maven when it comes to dating or hooking up is just looking to take your money._  
@@ -3403,7 +3407,7 @@ __MBWA__ An initialism of “management by walking around,” the strategy of li
 __me three__ _humorous_ An expression of concurrence, agreement, or willingness to participate in addition to others. Said after someone has said “me too” (i.e., “me as well”), thus creating a pun of “too” and “two.” _Dan: “I’m going with you, Steve.” Greg: “Me too!” John: “Me three!”_  
 __mea culpa__  
 __mean the world to (one)__ :dart:  
-__meant to be__ :two::hammer: _It was meant to be made in heaven._  
+__meant to be__ :three::hammer: _It was meant to be made in heaven._  
 __measure the drapes__ To begin planning or preparing to replace someone in a job or position before one has actually secured the role, especially during a political election. _The senator has been criticized for measuring the drapes in the Oval Office with a month still to go before the votes will be tallied._  
 __measure up (to someone or something)__ :two::hammer:  
 __meatball surgery__ Battlefield surgery that is performed hastily so as to quickly stabilize a patient and prevent imminent death. Popularized (and possibly coined) by H. Richard Hornberger in his semi-autobiographical novel _M\*A\*S\*H_, which focused on doctors serving in a fictional mobile army surgical hospital during the Korean War. Primarily heard in US. _At the height of the conflict, our surgeons were primarily concerned with meatball surgery, getting wounded soldiers patched up long enough to receive more specialized treatment down the line._  
@@ -3411,11 +3415,13 @@ __media darling__ A very famous and popular person who receives exceptionally po
 __meet (someone’s) expectations__ To be as good as or have the qualities that someone predicted, expected, or hoped for. _We’d heard so many good things about the new restaurant, but the food didn’t meet our expectations at all._  
 __meet trouble halfway__ :dart: To worry, grow anxious, or distress oneself unnecessarily over something that has yet to happen. _You can’t go through life meeting trouble halfway, or you’ll end up paralyzed with indecision and anxiety._  
 __meet-and-greet__ A session where a celebrity, etc, is introduced to or questioned by members of the public or journalists.  
+__megillah__ /məˈgɪlə/ _n_ A long and complicated story.  
 __melee__ _n_ A quarrel, fight, or disturbance marked by very noisy, disorderly, and often violent behavior. _Syn_ affray, brawl, broil, donnybrook, fray, free-for-all, riot, row, ruction, tumult  
 __melting pot__  
 __memory lane__ A set or series of memories of one’s past life, likened to a roadway that one may visit or take a tour of. (Used primarily in the phrase “stroll/take a trip/walk etc. down memory lane.”) _My grandmother spends more time strolling down memory lane these days than conversing about the present._  
 __mental vacation__  
 __menty b__ A cutesy shortening of the much more serious phrase mental breakdown.  
+__Merc__ _n_ _slang_ Clipping of Mercedes-Benz (an automotive brand or marque from Daimler-Benz).  
 __merch__  
 __mess around__ :four::hammer:  
 __mess of pottage__ Something of little, trivial, or no value but which appears to be attractive or valuable on first reckoning. An allusion to Esau in Genesis 25:29–32, who sells to Jacob his birthright to his family’s estate for a bowl of lentil stew (pottage). _Only after the economic crash did it become fully clear what messes of pottage these sub-prime mortgages proved to be for first-time homeowners._  
@@ -3424,20 +3430,24 @@ __messed up__ :two::hammer: _informal_
 __metal__ _adj_ _slang_ :seven: Very intense or hardcore. A reference to heavy metal music, which is typically considered to have such qualities. _Whoa, that’s metal—how many hours did it take to get that tattoo?_ _The most metal episode so far._ _I don’t know if I’m metal enough to do that._  
 __mete out__ __1__ To distribute or dispense something. A noun or pronoun can be used between “mete” and “out.” _It is the Supreme Court’s job to mete out justice in a situation like this._ __2__ To measure something out. _She meted the solution out carefully into a row of test tubes._ _She meted out the cookies to each of them._  
 __mic drop moment__ A _mic drop moment_ is an emphatic and declarative gesture signifying the conclusion of a performance of note, often literally (or as if) dropping a microphone. It often signifies a triumphant moment or accomplishment, and conveys a sense of superiority and confidence in one’s words or actions.  
-__Mickey (Finn)__ :two::hammer: _A mickeyed beer._  
+__mic drop__  
+__Mickey (Finn)__ :three::hammer: _A mickeyed beer._  
 __microaggression__ An action that is deemed to be a subtle or indirect expression of bigoted or discriminatory views or attitudes.  
 __mid__ Mid is a slang term used to describe something or someone as mediocre or of low quality. _The first movie was good, but all the sequels are mid._  
 __middle ground__ :three: Something that people with differing opinions or views can agree upon; a compromise. _More and more, it seems like people of differing views are unwilling to attempt to find a middle ground._  
 __mike drop__  
 __milk it__ To take advantage of the help or kindness of others, as when one acts as if one still needs help after recovering from an illness.  
-__mill about__ :three: To loiter, wander about, or waste time idly (some place). _I’ll just mill about in the store across the street while you get your hair cut._  
+__mill about__ :four: To loiter, wander about, or waste time idly (some place). _I’ll just mill about in the store across the street while you get your hair cut._  
 __milquetoast__  
 __mince (one’s) words__  
 __mince no words__ :two: To speak in a very direct and honest way without worrying about offending someone. _She minces no words in stating her opinions._  
 __mind (one’s) manners__ To be well behaved and act appropriately. _Make sure you mind your manners while you are with your Aunt Josephine. I don’t want to hear about you giving her any trouble while I’m away!_  
+__mind (one’s) p’s and q’s__ To be polite and well behaved; to mind one’s manners.  
 __mind you__  
+__mind-boggling__  
 __mint money__ To earn a very large amount of money, especially by doing something very successfully. _We’ll be minting money if we can manage to secure a trading partner in China._  
 __miss a beat__ _Without missing a beat._  
+__miss out on (something)__ :two: To lose the chance or opportunity to do or experience something.  
 __miss out__ :dart::three: To lose the chance or opportunity to do or experience something. _Because I was so sick last week, I missed out on the chance to see my sister while she was in town._  
 __Miss Right__ The perfect or most suitable woman to be in a relationship with or to marry. _If you’re waiting for Miss Right to just appear in your life, you’re never going to find someone you’ll be happy with. You have to get out there and give people a chance!_  
 __miss the boat__  
@@ -3455,6 +3465,8 @@ __mixed emotions__ Positive and negative emotions that are experienced simultane
 __mixed feelings__ :two::hammer:  
 __mixed signal__ :two: A signal, message, or communication that has, or is interpreted as having, multiple, ambiguous, or contradictory meanings. (Often plural.) _I keep getting these mixed signals from my ex-girlfriend. I can’t tell if she just wants to be friends, or if she’s interested in getting back together._  
 __mm-hmm__ :two: _informal_ Yes; yeah. A verbal expression used to express agreement or acknowledgement. Formed by intoning “uh-huh” with a closed mouth.  
+__moan about (someone or something)__ To grumble, gripe, or complain about someone or something to an annoying, excessive degree.  
+__modus operandi__ :mega: /ˈməʊdəs ˌɒpəˈrændiː; -ˈrændaɪ/  
 __mom-and-pop__  
 __Monday blues__ The Monday blues is a slang term used to describe the feeling of dread and unhappiness that some people experience on the Monday morning at the start of the week, often due to having to return to a job or school routine after a weekend. It is also used to refer to the general feeling of unhappiness or depression that some people feel on a Monday.  
 __Monday morning quarterback__  
@@ -3470,7 +3482,7 @@ __moral compass__ :three: That which serves or guides a person’s knowledge, se
 __more fun than a barrel of monkeys__ Very fun, enjoyable, and funny. _I always have a great time when Katie’s around—she’s more fun than a barrel of monkeys!_  
 __more often than not__ :four: Usually; as a rule. _Syn_ by and large, generally, mostly  
 __more sinned against than sinner__ Less guilty or worthy of blame than others, especially those who have injured or laid such blame or guilt upon one. _I may be exploiting a loophole in how much I receive in social welfare payments, but given that my retirement fund was stolen from me by fraudulent investors, I’d say I’m more sinned against than sinner._  
-__more so__ :three: To a greater degree (than something that has already been indicated). _I was exhausted after our flight, but my brother even more so—he fell asleep on the taxi ride to the hotel._  
+__more so__ :four: To a greater degree (than something that has already been indicated). _I was exhausted after our flight, but my brother even more so—he fell asleep on the taxi ride to the hotel._  
 __more than happy__ The phrase _more than happy_ is a common idiom that expresses a higher level of joy or satisfaction than just being “happy.” It conveys a sense of extreme contentment, delight, or pleasure.  
 __more than meets the eye__ :two::hammer:  
 __morning person__  
@@ -3495,7 +3507,8 @@ __much ado about nothing__
 __much obliged__ __1__ Indebted to someone for their generosity, kindness, or favor. _We are much obliged for all you have done on behalf of our father._ __2__ Thank you very much. _A: “Here’s your jacket, sir.” B: “Much obliged, son.”_  
 __muckamuck__  
 __mud shark__ _US black_ A white man or woman who prefers black partners.  
-__muddle along__ To attempt to proceed or continue doing something despite being unprepared or lacking the required skills, organization, resources, etc. _I forgot my notes for the presentation, so I just had to muddle along off the top of my head._ _The company fell into disarray after the CEO was arrested, but we’ve been muddling along ever since._  
+__mud-shark__ In the novels by James Ellroy, the term “mud-shark” is used to refer to a type of predatory behavior, often associated with characters who engage in morally questionable or criminal activities. The term “mud-shark” is symbolic of the predatory nature of certain characters, reflecting their willingness to exploit others for personal gain or pleasure.  
+__muddle along__ :two: “Muddle along” is an idiomatic expression that means to manage or cope with a situation or task in a way that’s somewhat disorganized or unsystematic, but still effective. It suggests that someone is making progress, even if it’s slow or messy. To progress in confusion; to continue awkwardly. To attempt to proceed or continue doing something despite being unprepared or lacking the required skills, organization, resources, etc. _I forgot my notes for the presentation, so I just had to muddle along off the top of my head._ _The company fell into disarray after the CEO was arrested, but we’ve been muddling along ever since._  
 __muddy the water(s)__ To introduce something, typically information, to an issue or situation that makes it less clear or more confusing.  
 __mug__ _Getting your mug on TV._  
 __mull over__ :two::dart: To ponder or consider something. A noun or pronoun can be used between “mull” and “over.” _I need some time to mull over the options before I pick one._  
@@ -3506,6 +3519,7 @@ __my ass!__ Used to indicate that what has just been said is nonsense.
 __my hands are tied__ You are not free to behave in the way that you would like for some reason.  
 __my lucky star__  
 __my spidey-sense is tingling__  
+__my, my__ _interjection_ An expression of surprise, incredulity, or pleasure.  
 __nah__  
 __nail in (someone’s or something’s) coffin__ :two::hammer:  
 __naked eye__ _With the naked eye._  

@@ -1,28 +1,3 @@
-__make (one’s) day__  
-__make (one’s)/the rounds__ :two::hammer:  
-__make (something) clear (to one)__  
-__make amends__  
-__make inroads (in/into something)__  
-__make or break__ _Music can make or break a show, especially a sitcom._  
-__make sense__ To be understandable. _John doesn’t make sense._ _What John says makes sense to me._  
-__mama bear__  
-__manosphere__  
-__Mary Jane__ :two::hammer:  
-__meant to be__  
-__megillah__ /məˈgɪlə/ _n_ A long and complicated story.  
-__Merc__ _n_ _slang_ Clipping of Mercedes-Benz (an automotive brand or marque from Daimler-Benz).  
-__mic drop__  
-__Mickey (Finn)__  
-__mill about__ To loiter, wander about, or waste time idly (some place). _I’ll just mill about in the store across the street while you get your hair cut._  
-__mind (one’s) p’s and q’s__ To be polite and well behaved; to mind one’s manners.  
-__mind-boggling__  
-__miss out on (something)__ :two: To lose the chance or opportunity to do or experience something.  
-__moan about (someone or something)__ To grumble, gripe, or complain about someone or something to an annoying, excessive degree.  
-__modus operandi__ :mega: /ˈməʊdəs ˌɒpəˈrændiː; -ˈrændaɪ/  
-__more so__  
-__mud-shark__ In the novels by James Ellroy, the term “mud-shark” is used to refer to a type of predatory behavior, often associated with characters who engage in morally questionable or criminal activities. The term “mud-shark” is symbolic of the predatory nature of certain characters, reflecting their willingness to exploit others for personal gain or pleasure.  
-__muddle along__ “Muddle along” is an idiomatic expression that means to manage or cope with a situation or task in a way that’s somewhat disorganized or unsystematic, but still effective. It suggests that someone is making progress, even if it’s slow or messy. To progress in confusion; to continue awkwardly.  
-__my, my__ _interjection_ An expression of surprise, incredulity, or pleasure.  
 __nab__ :two: To catch and arrest someone. Often used in passive constructions.  
 __navigate__ :three: To carefully and skillfully manage or deal with something that is complex, challenging, or difficult. _Navigating difficult relationships._ _Navigating life._  
 __neck and neck__  
