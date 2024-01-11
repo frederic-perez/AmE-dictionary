@@ -1,28 +1,3 @@
-__solace__ _n_ :mega: /ˈsɒl ɪs/  
-__sombrero__  
-__spiteful__ _adj_ Filled with, prompted by, or showing spite; malicious.  
-__spittoon__ _n_  
-__spline__ _n_ :astonished: A wooden or metal strip. _Syn_ slat  
-__split__ _v_ _Women who have split from a relationship._  
-__squarely__ _adv_ /ˈskwɛəlɪ/  
-__squeak__ _vi_ :two: __2__ _slang_ To turn informer.  
-__squib__ _n_ __2a__ A brief satirical or witty writing or speech, such as a lampoon.  
-__squiggly__ _adj_  
-__squirm__ _v_ :two::hammer:  
-__stable__ _n_ __3__ A group, as of athletes or entertainers, under common management: _a stable of prizefighters._  
-__stakeout__ _n_  
-__stale__ _adj_ __1__ Having lost freshness, effervescence, or palatability: _stale bread; stale air._  
-__stalwart__  
-__standard of care__ _n_ :two::hammer: _Our commitment to developing a new standard of care for patients at risk of heart disease remains steadfast._  
-__startling__ _adj_  
-__stem__ _v_  
-__steno__ _n informal_ _US and Canadian_ Short for stenographer. _Steno pad and pen._  
-__stenos__  
-__stenotic__ _adj_ _Stenotic burden._  
-__stentorian__  
-__stephanotis__ _n_ _A sprig of stephanotis._  
-__steppe__ _n_ /stɛp/  
-__stepping stone__  
 __stepwise__ _adj_ :two::hammer: _An optimal stepwise upgrade strategy._  
 __stereophony__  
 __sternutation__  

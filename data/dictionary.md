@@ -17022,7 +17022,7 @@ __soiree__ _n_ An evening party or reception.
 __sojourn<sup>1</sup>__ _n_ :eight::hammer: _The phantasmagorical sojourn along the freeways of LA._  
 __sojourn<sup>2</sup>__ _v_ :three::hammer:  
 __sol__ _n_ __4__ A colloidal solution.  
-__solace__ _n_ :seven::mega: /SAH-lus/ /ˈsɒl ɪs/ Something that makes you feel better when you are sad or upset. Someone or something that gives a feeling of comfort to a person who is experiencing grief, sadness, or anxiety. _Her presence was a great solace to me during my time of need._ _We took solace in the knowledge that our ordeal would be over soon._  
+__solace__ _n_ :eight::mega: /ˈsɒl ɪs/ /SAH-lus/ /ˈsɒl ɪs/ Something that makes you feel better when you are sad or upset. Someone or something that gives a feeling of comfort to a person who is experiencing grief, sadness, or anxiety. _Her presence was a great solace to me during my time of need._ _We took solace in the knowledge that our ordeal would be over soon._  
 __solacing__ _v_ _Solacing her with kisses._  
 __solder__  
 __soldier of fortune__ _n_ :two: A person who seeks riches or pleasure through adventurous, often military exploits.  
@@ -17051,7 +17051,7 @@ __solvable__ _adj_ Possible to solve: _solvable problems; a solvable riddle._
 __solvent__ _n_  
 __somatic__ _adj_ Affecting or characteristic of the body as opposed to the mind or spirit. _Syn_ corporeal, bodily _Though anxiety attacks are psychological in nature, they have numerous somatic effects, including palpitations, shortness of breath, and dizziness._  
 __somber__ _adj_ /ˈsɒm bər/  
-__sombrero__ _n_ :two: (sombreros) A broad-brimmed, tall-crowned hat of straw or felt worn esp. in Mexico and the southwestern U.S.  
+__sombrero__ _n_ :three: (sombreros) A broad-brimmed, tall-crowned hat of straw or felt worn esp. in Mexico and the southwestern U.S.  
 __somewhat__ _adv_ :two: To some extent or degree; rather.  
 __somnambulant__ _adj_  
 __somnambulate__ _v_ :pencil2: To walk or perform another act while asleep or in a sleeplike condition. _Syn_ sleepwalk  
@@ -17249,10 +17249,10 @@ __spiraling__
 __spire__ _n_ :seven: A tapering roof or analogous pyramidal construction surmounting a tower. _A church spire._  
 __spirit stove__ _n_ A stove that burns a volatile liquid fuel such as alcohol. _We had a small spirit stove._  
 __spite__ _n_ :five::hammer: _He brought him along for spite._ _He added her to the list out of spite._ _Some names were added out of spite._  
-__spiteful__ _adj_ :four: Showing malicious ill will and a desire to hurt; motivated by spite. _Syn_ vindictive :es: rencoroso  
+__spiteful__ _adj_ :five: Showing malicious ill will and a desire to hurt; motivated by spite. Filled with, prompted by, or showing spite; malicious. _Syn_ vindictive :es: rencoroso  
 __spitting image__  
 __spittle__ _n_ :six::hammer: _Spittle and gore clogged his throat._  
-__spittoon__  
+__spittoon__ _n_ :two::hammer:  
 __splashdown__ _n_ :two::dart: The landing of a crewed spacecraft in the ocean.  
 __splay__ _v_ :six::hammer: (splahed, splaying)  
 __spleen__ _n_ _Interned-stoked spleen._  
@@ -17261,10 +17261,11 @@ __splendor__ _n_ :three::hammer:
 __splendour__ _n_  
 __splenetic__ _adj_ :two: /splih-NET-ik/ Splenetic is a formal word that typically describes expressions of sharp annoyance and anger. Affected or marked by ill humor or irritability. _Syn_ bristly, prickly, waspish _The splenetic tone of the complaint letter made James dread meeting its author in person._  
 __splice__ _v_ :two::hammer:  
+__spline__ _n_ :astonished: A wooden or metal strip. _Syn_ slat  
 __splint<sup>1</sup>__ _n_  
 __splint<sup>2</sup>__ _v_  
 __split<sup>1</sup>__ _n_ :two::hammer: _Tom would take a $15,00 split of the money from Zig._  
-__split<sup>2</sup>__ _v_ __9__ _slang_ To depart from; leave: _a mobster who suddenly split town._  
+__split<sup>2</sup>__ _v_ :two: __9__ _slang_ To depart from; leave: _a mobster who suddenly split town._ _Women who have split from a relationship._  
 __splitting headache__ _n_ A very bad headache.  
 __splotched__ _v_  
 __splotches__ _n_  
@@ -17369,7 +17370,7 @@ __square dancing__ _n_ American country dancing in which couples form squares.
 __square deal__  
 __square dsncing__  
 __square__ _n_ _slang_ A boring person.  
-__squarely__  
+__squarely__ _adv_ :two::hammer: /ˈskwɛəlɪ/  
 __squash__ _v_ :two: __1__ To beat, squeeze, or press into a pulp or a flattened mass; crush. _Syn_ crush _My guess is they could have squashed us flat just as easily._  
 __squat down__ _v_  
 __squat toilet__ _n_  
@@ -17378,7 +17379,7 @@ __squat<sup>2</sup>__ _adj_ :seven: Short and thickset; disproportionately broad
 __squat<sup>3</sup>__ _n_ :two::hammer: (squats) _Didn’t know squat aboit what went on over there._  
 __squatter__  
 __squawk__ _v_ :six::hammer: (squawked, squawking) _The walkie-talkie squawked._  
-__squeak__ _v_ :three::hammer: (squeaking)  
+__squeak__ _vi_ :five: __2__ _slang_ To turn informer.  
 __squeaker__ _n_ __2__ Something achieved (or escaped) by a narrow margin. _Syn_ close call, close shave, narrow escape, squeak _Clippers keep up hot start in squeaker over Thunder._  
 __squeaky__ _adj_ :three::hammer: _Squeaky cheese curds._  
 __squeaky-clean__ _adj informal_ __1__ Scrupulously clean. __2__ Virtuous; wholesome; above reproach.  
@@ -17387,8 +17388,9 @@ __squeamish__ _adj_ :nine: Easily upset or disgusted by things or actions you fi
 __squeamishness__  
 __squeeze__ _v_  
 __squelch__ _v_ :seven::hammer: (squelched)  
-__squib__ _n_ :three: A short and witty or sarcastic saying or writing.  
+__squib__ _n_ :four: __2a__ A brief satirical or witty writing or speech, such as a lampoon.  
 __squiffy__  
+__squiggly__ _adj_  
 __squinch__ _vt_ To squeeze, twist, or draw together: _squinched her eyes shut._  
 __squire<sup>1</sup>__ _n_ :five::hammer: (squires) _Is he her consort or her squire?_  
 __squire<sup>2</sup>__ _v_ :pencil2::two::hammer: (squiring)  
@@ -17405,7 +17407,7 @@ __St. Patrick’s Day__ _n_
 __stab__ _n_ :two::hammer:  
 __stabby__ _adj_  
 __stable condition__  
-__stable__ _n_ :three::hammer: _With three restaurants in his stable, this man is easy to spot._ _Pam built up a small stable of local writers._  
+__stable__ _n_ :four: __3__ A group, as of athletes or entertainers, under common management: _a stable of prizefighters._ _With three restaurants in his stable, this man is easy to spot._ _Pam built up a small stable of local writers._  
 __staddle__ _n_ /ˈstædəl/ __1__ A support or prop, esp a low flat-topped stone structure for supporting hay or corn stacks about two feet above ground level. _Staddle stones are mushroom-shaped stones on which granaries are rested. This helps keep the grain dry and stops rodents from climbing in._ __2__ A supporting frame for such a stack __3__ The lower part of a hay or corn stack.  
 __stadimeter__ _n_  
 __stadium__ _n_ _A football stadium._  
@@ -17434,10 +17436,10 @@ __stairwell__ _n_ :four::camera: _(Architecture)_ A vertical shaft or opening th
 __stake truck__ _n_ :camera:  
 __stake__ _n_  
 __stakeholder__ _n_ :seven::hammer:  
-__stakeout__ _n_ :four::hammer: (stakeouts)  
+__stakeout__ _n_ :five::hammer: (stakeouts)  
 __stakes__ _n_  
 __stale antiperspirant__  
-__stale__ _adj_ :seven::hammer: _The stale remains of a cup of coffee._ _Some friendships are like stale donuts._  
+__stale__ _adj_ :eight: __1__ Having lost freshness, effervescence, or palatability: _stale bread; stale air._ _The stale remains of a cup of coffee._ _Some friendships are like stale donuts._  
 __stalemate__ _n_ /ˈsteɪlˌmeɪt/  
 __staler__ _adj_ _The air in the place grew staler._  
 __Stalin__ _n_ (originally Iosif Vissarionovich Dzhugashvili) Steel in Russian.  
@@ -17448,7 +17450,7 @@ __stall__ _v_
 __stallion__  
 __stalward__  
 __stalwart<sup>1</sup>__ _adj_ :nine::m: Loyal, reliable, and hard-working. _He remained a stalwart supporter of the cause._ _Syn_ staunch, loyal, faithful, committed, devoted, dedicated, dependable, reliable, steady  
-__stalwart<sup>2</sup>__ _n_  
+__stalwart<sup>2</sup>__ _n_ :two::hammer:  
 __stamina__ _n_ :six::mega: /stā′mə-nə, stăm′ə-, ˈstæmɪnə/ Physical or moral strength to resist or withstand illness, fatigue, or hardship; endurance.  
 __stammer<sup>1</sup>__ _n_ :three::hammer: _The consensus was shrugs and stammers._  
 __stammer<sup>2</sup>__ _v_ :two: (stammered) To speak with involuntary pauses or repetitions.  
@@ -17462,7 +17464,7 @@ __stanch__ _v_ :two::hammer:
 __stanchion__ _n_ :two::hammer: _He braced his hands on a stanchion._  
 __stand a chance__  
 __stand strong__  
-__standard of care__ _n_  
+__standard of care__ _n_ :three::hammer: _Our commitment to developing a new standard of care for patients at risk of heart disease remains steadfast._  
 __standard__ _n_ :camera: :es: estandarte  
 __standardization__ _n_  
 __standardize__ _v_ :three::hammer:  
@@ -17503,7 +17505,7 @@ __stark__ _adj_ :seven: __1__ Clearly distinguished or delineated: _a stark cont
 __starlings__ _n_  
 __starter__ _n_ __4__ _Sports_ __a__ One who signals the start of a race. __b__ A participant that starts in a game or race. :es: titular  
 __startle__ _v_  
-__startling__ _adj_ :five: Causing surprise or fear; striking; astonishing.  
+__startling__ _adj_ :six: Causing surprise or fear; striking; astonishing.  
 __stash__ _v_  
 __Stasi__  
 __stasis__ _n_ :three: A stoppage or diminution of flow, as of blood or other body fluid, or of intestinal contents.  
@@ -17585,16 +17587,20 @@ __stem<sup>1</sup>__ _n_ _Biting a stem._
 __stem<sup>2</sup>__ _v_ :nine::m::astonished: (stemmed, stemming) __1__ (+ from) To originate or arise from something. __2__ To stop (something flowing). _Three dozen towns are debating how to stem the flow of needles._ __3__ To stop (the onward progress of something). _The country is trying to stem the spread of the avian influenza._ _They redesigned their stores in an effort to stem declining sales._  
 __stench__ _n_ :two: __1__ A strong, foul odor; a stink. _The stench of human effluent._  
 __steno pad__  
+__steno__ _n informal_ :two: _US and Canadian_ Short for stenographer. _Steno pad and pen._  
 __stenographer__ _n_ :three: A person skilled in the use of shorthand and in typing.  
 __stenosis__ _n_ _Pulmonary vein stenosis._  
-__stentorian__ _adj_ :four: Extremely loud: _a stentorian voice._ If you’re teaching a group of unruly kids, you’ll need to practice a stentorian voice to be heard above the din. In the _Iliad_, Homer described Stentor as a man whose voice was as loud as that of fifty men together. Stentor’s powerful voice made him a natural choice for delivering announcements and proclamations to the assembled Greek army during the Trojan War. _Syn_ booming _He was woken by the stentorian voice of his teacher, demanding to know why he wasn’t paying attention._  
+__stenotic__ _adj_ _Stenotic burden._  
+__stentorian__ _adj_ :five: Extremely loud: _a stentorian voice._ If you’re teaching a group of unruly kids, you’ll need to practice a stentorian voice to be heard above the din. In the _Iliad_, Homer described Stentor as a man whose voice was as loud as that of fifty men together. Stentor’s powerful voice made him a natural choice for delivering announcements and proclamations to the assembled Greek army during the Trojan War. _Syn_ booming _He was woken by the stentorian voice of his teacher, demanding to know why he wasn’t paying attention._  
 __Step ‘n’ Fetch It routine__  
 __step up__ _v_ :four::hammer:  
 __stepfather__ _n_ _(vs godfather)_  
+__stephanotis__ _n_ _A sprig of stephanotis._  
 __stepladder__ _n_  
+__steppe__ _n_ /stɛp/  
 __stepper__ _n_ A professional dancer. _Syn_ hoofer  
 __steppes__ _n_  
-__stepping stone__ _n_ :two::hammer:  
+__stepping stone__ _n_ :three::hammer:  
 __sterling silver__ _n_ __1__ An alloy of 92.5 percent silver with copper or another metal. __2__ Objects made of this alloy. _A sterling silver ship’s lantern, symbolizing a beacon of hope._  
 __sterling__ _adj_ :six::hammer: _A sterling job._ _A sterling example._ _Sterling stories._  
 __stern__ _n_ :four::hammer: _The ship’s stern._ :es: popa  
