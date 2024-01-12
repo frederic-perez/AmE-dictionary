@@ -1,3 +1,24 @@
+__abet__ _vt_ /əˈbɛt/  
+__blood clot__ _n_  
+__brook__ _vt_ To put up with; tolerate: _We will brook no further argument._ _I have no sympathy with anyone who will not brook criticism._  
+__decree__ _v_ /dɪˈkriː/  
+__egotism__ _n_  
+__exonerate__ _vt_  
+__eyeball__ _n_  
+__famine__ _n_ /ˈfæm ɪn/  
+__genocide__ _n_ /ˈdʒɛn əˌsaɪd/  
+__gimmick__ _n_  
+__hoarding__ _n_  
+__impaction__ _n_ _Oesophageal food bolus impaction is a common medical emergency._  
+__lead-up__ _n_  
+__manosphere__ _n_  
+__oftentimes__  
+__preposterous__ _adj_  
+__recount__ _vt_ /rɪˈkaʊnt/ To tell the story or details of; narrate.  
+__reshuffle__ _n_  
+__riches__ _n pl_ /ˈrɪtʃ ɪz/  
+__spat__ _n_  
+__spearhead__ _n_  
 __stepwise__ _adj_ :two::hammer: _An optimal stepwise upgrade strategy._  
 __stereophony__  
 __sternutation__  
@@ -37,6 +58,7 @@ __swashbuckler__ _n_
 __swell__ _adj_ Excelent.  
 __sweltering__ _adj_  
 __Syracuse__ _n_ :mega: /ˈsɪr əˌkyus, -ˌkyuz/  
+__tachyphagia__ _n_ Excessively rapid eating or bolting of food.  
 __tadpole__ _n_  
 __Tahiti__ _n_ :mega: /təˈhi ti, tɑ-/  
 __talkie__ _n_ _informal_ An early film with a soundtrack. Full name: _talking picture_.  
@@ -50,6 +72,7 @@ __telling__ _adj, n_ _That response was very telling._
 __telltale__ _adj_ _Telltale signs._  
 __ten-year__ _adj_ _A ten-year prison sentence._  
 __tenet__ _n_ /ˈtɛnɪt; ˈtiːnɪt/  
+__tense__ _n_ Grammatical tense refers to the conjugation of a verb to reflect its place in time—that is, when the action occurred.  
 __tentative__ _adj_  
 __terraform__ _v_  
 __terrazzo__  
@@ -102,6 +125,7 @@ __ukulele__ _n_ :pencil2:
 __umbrella__ _n_ /ʌmˈbrɛl ə/ [:scroll: Etymologically, it is a “little shadow.”]  
 __unclear__ _adj_  
 __undercut__  
+__undermine__ _vt_ /ˌʌndəˈmaɪn/  
 __underpin__ _vt_  
 __unfazed__ _adj_ /ʌnˈfeɪzd/ _informal_ Not disconcerted; unperturbed.  
 __unfettered__ _adj_ /ʌnˈfɛtəd/  
@@ -160,6 +184,7 @@ __whiplash__ _n_
 __white-collar__ _adj_ Of, relating to, or constituting the class of salaried employees whose duties do not call for the wearing of work clothes or protective clothing.  
 __wisteria__ _n_  
 __wistfully__ _adv_  
+__wordplay__ _n_  
 __wordsmith__ _n_  
 __workaday__ _adj_  
 __working order__ _n_  
