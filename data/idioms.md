@@ -3976,6 +3976,7 @@ __pipe up__ :two: To make oneself heard; to interrupt or interject.
 __piping hot__ :two: Very hot. Usually said of food that has just been taken out of the oven and has steam “piping” out of it. _Cook the casserole in the oven for 40 minutes or until it is golden brown and piping hot._ _The coffee was still piping hot._  
 __piss and vinegar__  
 __piss off__  
+__pisser__  
 __pit stop__ :two: __2__ A pause in a journey (usually by car) to urinate, eat, rest, and/or refuel. (From the name of a service stop in automobile racing.) _I think we’ll pull in at the next rest area. I need a pit stop._  
 __pitch a fit__ To become very or unreasonably angry or upset; to have an outburst of rage, frustration, or ill temper. _My mom’s going to pitch a fit when she sees what happened to the car!_ _I was so embarrassed when Danny started pitching a fit in the grocery store._  
 __pitch in__ :dart:  
@@ -3984,22 +3985,24 @@ __pizzazz__ :two: Dazzling, flamboyant style, energy, or vitality. Punch; glitte
 __place an order__  
 __place your bets__  
 __plain and simple__ :two::hammer::astonished: _This was our mistake, plain and simple._  
+__plastered__ :three: _adj_ _slang_ Intoxicated; drunk.  
 __plastic grin__ A forced, artificial smile; a smile someone wears despite having no feelings of happiness or joy. _Look at his big plastic grin—he’s such a con man! I sure hope he doesn’t win the election._  
 __play (one’s) cards close to (one’s) chest__  
 __play (one’s) cards__  
 __play (someone) like a fiddle__ (play (someone) like a piano) _In the ensuing months, Weinberg played Rosenberg like a piano._  
 __play (the) devil’s advocate__  
+__play around__  
 __play ball__ :three::hammer:  
 __play by the rules__ To adhere to the rules, strictures, or conditions imposed by person or body of authority.  
 __play catch-up__ :two: To try to reach the same level of understanding, accomplishment, etc. as others, typically after a late start. _I’m sorry, I’m playing catch-up here—how do you know my wife?_  
 __play chicken__ _slang_ To play dangerous games in order to discover who is the bravest.  
-__play down__ :two: To make something seem less important or remarkable. _The pharmaceutical company tried to play down the harmful side effects of its new medication._  
+__play down__ :three: To make something seem less important or remarkable. _The pharmaceutical company tried to play down the harmful side effects of its new medication._  
 __play dumb__ :three: To pretend that one has no or little knowledge (of something); to act ignorant or uninformed (about something). _I don’t think I’m supposed to know that Rick is getting fired, so I’m just going to play dumb the next time I see him._  
 __play footsie__ To flirt with someone by secretly touching feet.  
 __play games (with one)__ To deliberately attempt to evade, deceive, or misinform one (about something) in order to manipulate them or achieve some desired outcome. _Quit playing games, Karen—I know that you’re involved in this deal!_  
 __play hardball__ If someone plays hardball, they will do anything that is necessary to achieve or obtain what they want, even if this involves being harsh or unfair. This term originated in baseball, where it alludes to using the standard ball as opposed to the slightly larger and minimally softer ball of softball. It was transferred to describe aggressive behavior only in the 1970s. _Defense lawyers began playing hardball._  
 __play it cool__  
-__play it safe__ :two::hammer:  
+__play it safe__ :three::hammer:  
 __play it straight__  
 __play off__  
 __play out__  
@@ -4009,19 +4012,29 @@ __play second fiddle__
 __play smart__  
 __play the field__  
 __play tricks__ :two::hammer:  
+__play with fire__  
 __played out__  
+__plea bargain__ To agree to plead guilty, especially to a lesser criminal offense, in exchange for some concession from the prosecution, such as dismissal of more serious charges.  
+__plea deal__ Plea bargain.  
 __plead ignorance__ _It was best for me to plead ignorance._  
 __plead the Fifth (Amendment)__ :two: (plead the 5th) __1__ To refuse to testify against oneself in court, in accordance with the rights guaranteed by the Fifth Amendment to the United States Constitution. _The alleged kingpin of the east coast drug cartel simply pled the Fifth after every question the prosecution put to him._ __2__ By extension, to refuse to answer a question or provide information, especially if doing so may incriminate or embarrass oneself. _Just plead the Fifth if your mom asks where you’ve been all night!_  
+__plod on__ To move, progress, or develop at a slow but constant and deliberate pace.  
 __plow ahead__  
 __pocket protector__ A thin plastic sheath that fits into the breast pocket of one’s shirt to hold pens and other small instruments and protect the pocket from stains or tears. _A techno-nerd with a pocket protector who turns out to be a hero._  
 __poetry in motion__ Something that is very elegant, graceful, and/or beautiful to observe, especially dance or the performing arts. _The ballet was sublime to watch, truly poetry in motion._  
 __point being__ The phrase _point being_ is used to refer to the conclusion or main idea of an argument or discussion. It is used to indicate that the speaker is summarizing their argument or bringing the discussion to a close.  
+__point fingers (at someone or something)__  
 __point taken__ :two::hammer:  
+__point the finger at (one)__  
+__poised to (do something)__  
+__poke fun__ To mildly taunt or mock someone or something; to make light fun of someone or something.  
+__poke__ __1__ _v_ _vulgar slang_ To have penetrative sex (with someone). _I can’t remember the last time I poked my wife._ __2__ _n_ _vulgar slang_ Penetrative sex. _Look at that hottie at the bar. Wouldn’t mind giving her a poke!_  
 __poker face__  
+__police lineup__ A law enforcement procedure in which a witness or victim of a crime is asked to identify a suspect from a group of people, typically standing in a row or line.  
 __ponder on (something)__ To give great consideration to something; to ruminate or think about something very deeply. _We sat pondering on various ways to improve our business model when Janet suddenly came up with a brilliant idea._  
 __Ponzi scheme__  
 __pooh-pooh__  
-__poon__  
+__poon__ :two::hammer:  
 __poor man’s__ :three::hammer: _She looked every bit the poor man’s Pamela Anderson._  
 __pop in__ :two::hammer: _Pop in for a casual meal._  
 __pop into (someone’s) head__ To occur or form suddenly in someone’s mind, as a thought, idea, or revelation. _The idea for this new model of car just popped into my head as I was driving home last night._  
@@ -4029,10 +4042,11 @@ __pop up__ To suddenly appear or become available. _Problems started popping up 
 __pop__ _I took four quick pops of Old Crown._  
 __popcorn flick__ A film that is entertaining to watch but is generally not of a very high quality or rich in emotional or intellectual depth. _A: “So what movie do you want to go see later?” B: “I don’t feel like watching anything too heavy or complex—let’s just see whatever popcorn flick is out.”_  
 __poppycock__ _old-fashioned_ Foolish, nonsensical prattle.  
+__posse__ _slang_ A group of friends or associates that spend a lot of time together.  
 __poster child__  
 __pot luck__ (potluck)  
 __Potemkin village__ :two: Something that is made to seem very grand, elaborate, or prosperous for the purposes of impressing others, but which in reality has no real worth or substance.  
-__pounce (up)on someone or something__ :two::hammer:  
+__pounce (up)on someone or something__ :three::hammer:  
 __pound out__ :dart:  
 __pour gas/gasoline on the fire__  
 __power nap__  
@@ -4041,19 +4055,25 @@ __power washing__
 __powerhouse__ A person, group, organization, etc., that has a lot of power, force, or influence.  
 __practice makes perfect__ :three: _Prov. Cliché_ :two: Doing something over and over again is the only way to learn to do it well. _Child: How come you’re so good at peeling potatoes? Father: I did it a lot in the army, and practice makes perfect._  
 __prattle on (about someone or something)__ :two: To ramble, chatter, or babble (about someone or something) in an idle, meaningless, or incessant way. _What on earth is he prattling on about now?_  
-__pressure cooker__ _Too many of us feel like we’re living inside a pressure cooker._  
+__pressure cooker__ :two::hammer: _Too many of us feel like we’re living inside a pressure cooker._  
 __presto__ _interjection_ A phrase said when doing or producing something very quickly or easily. Primarily heard in US. _All I need to do is reconfigure your IP address and... presto! Your connection is back to normal._  
+__prevention is better than cure__ _proverb_ Work to stop something from happening is easier and better than having to try to resolve it later.  
 __price to pay__  
+__pricey__ Moderately expensive.  
 __prick up (one’s) ears__ :two::hammer:  
 __prickling my gray matter__ Idiomatic expression that is often used to describe a feeling of intellectual stimulation or a challenge to one’s cognitive abilities.  
 __prickteaser__ (prick-teaser) _Syn_ blue baller, blue-baller  
+__prima donna__  
 __prior to__ _prep_ Before. _Prior to this episode._  
 __prise open__  
 __pro bono__  
+__promises, promises__ A sarcastic reply to a promise or assurance that one does not believe. _A: “I swear, as soon as I have a bit more free time, we will go on a proper date together.” B: “Promises, promises! I won’t hold my breath.”_  
 __prone to__  
 __prop up__ _But with her leg propped up._  
 __psyched__ Extremely surprised, excited, or nervous. Feeling a very strong emotion.  
 __publicity hound__ Someone who seeks to have the attention of the public constantly focused on him- or herself, typically by means of attracting media coverage. _The former actor’s run at politics is seen by many as just another stunt by a publicity hound desperate to keep the spotlight on himself._  
+__pull (one’s) leg__ To tease or joke with someone, often by trying to convince them of something untrue.  
+__pull (one’s) weight__ :dart: To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
 __pull (oneself) together__ :two: Calm down.  
 __pull a face (at someone)__ To make a grimacing or humorously distorted facial expression (at someone). _Young lady, don’t you pull a face at me! You will eat your broccoli or you won’t have any dessert._ _The teacher scolded Jimmy for pulling faces at her from the back of class._  
 __pull a prank (on someone)__ To carry out a trick, deception, or practical joke (against someone). _It turns out that the supposed alien visitors that people had been seeing were just a bunch of teenagers pulling a prank on the town._ _I’ve got a great plan to pull a prank on the school for April Fools’ Day._  

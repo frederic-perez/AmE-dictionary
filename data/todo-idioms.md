@@ -98,31 +98,6 @@ __piece out__
 __piece something out__  
 __pile up__ _The bad news keeps piling up for Elon Musk._  
 __pillow talk__ Intimate conversations between two people in a romantic relationship when they are in bed together.  
-__pisser__  
-__plastered__ :three: _adj_ _slang_ Intoxicated; drunk.  
-__play around__  
-__play down__  
-__play it safe__  
-__play with fire__  
-__plea bargain__ To agree to plead guilty, especially to a lesser criminal offense, in exchange for some concession from the prosecution, such as dismissal of more serious charges.  
-__plea deal__ Plea bargain.  
-__plod on__ To move, progress, or develop at a slow but constant and deliberate pace.  
-__point fingers (at someone or something)__  
-__point the finger at (one)__  
-__poised to (do something)__  
-__poke fun__ To mildly taunt or mock someone or something; to make light fun of someone or something.  
-__poke__ __1__ _v_ _vulgar slang_ To have penetrative sex (with someone). _I can’t remember the last time I poked my wife._ __2__ _n_ _vulgar slang_ Penetrative sex. _Look at that hottie at the bar. Wouldn’t mind giving her a poke!_  
-__police lineup__ A law enforcement procedure in which a witness or victim of a crime is asked to identify a suspect from a group of people, typically standing in a row or line.  
-__poon__  
-__posse__ _slang_ A group of friends or associates that spend a lot of time together.  
-__pounce on (someone or something)__  
-__pressure cooker__  
-__prevention is better than cure__ _proverb_ Work to stop something from happening is easier and better than having to try to resolve it later.  
-__pricey__ Moderately expensive.  
-__prima donna__  
-__promises, promises__ A sarcastic reply to a promise or assurance that one does not believe. _A: “I swear, as soon as I have a bit more free time, we will go on a proper date together.” B: “Promises, promises! I won’t hold my breath.”_  
-__pull (one’s) leg__ To tease or joke with someone, often by trying to convince them of something untrue.  
-__pull (one’s) weight__ :dart: To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
 __pull it out__ In general, the phrase “pull it out” is often used to describe a situation where someone is able to find or discover something, or find an answer, solution, or idea that they had not previously thought of.  
 __punk__ _n_  
 __puppet master__  
