@@ -98,31 +98,6 @@ __time ball__ _n_
 __ting<sup>1</sup>__ _n_ A high metallic sound such as that made by a small bell.  
 __ting<sup>2</sup>__ _vi_ To give forth a light metallic sound.  
 __titan__ _adj_  
-__titular__ _adj_  
-__toil__ _n_ _A lifetime of toil._  
-__toll__  
-__tomboy__ _n_ A girl who behaves in a way that is perceived to be stereotypically boyish or masculine.  
-__tonsil__ _n_  
-__tonsorial__ _adj_  
-__toothsome__  
-__top-end__ _adj_ Of or relating to the best or most expensive products of their kind: _a range of top-end vehicles._  
-__tote__ _n_ Totes are standardized containers that warehouses use to store and transport items. _Agility Robotics’ Digit carries an empty tote to a conveyor in an Amazon research and development warehouse._  
-__tout__ _v_ :dart:  
-__tracklement__ _n_ /ˈtrækəlmənt/ (Cookery) Any savoury condiment or sauce served with meat.  
-__train wreck__ _n_ __2__ _slang_ A disastrous outcome or occurrence; a catastrophe: _described the new budget as a fiscal train wreck._  
-__traipse__ _v_  
-__transience__  
-__transsexual__ _adj, n_ (transexual) Note: The term “transgender” is more commonly used than “transsexual” or “transexual” in current literature and discussions.  
-__transvestite__ _n_  
-__treacherous__ _adj_ /ˈtrɛtʃ ər əs/ __1__ Betraying or likely to betray faith or confidence.  
-__truce__ _n_ /truːs/  
-__tub__ _n_ __1a__ An open, flat-bottomed vessel, usually round and typically wider than it is deep, used for washing, packing, or storing. _A tub of Ben & Jerry’s._ __b__ The amount that such a vessel can hold. __c__ The contents of such a vessel.  
-__tumbledown__ _adj_  
-__two-pronged__ _adj_ Having two prongs or similar parts; bifurcated. _A two-pronged message._  
-__tyrant__ _n_ /ˈtaɪ rənt/  
-__ubiquitous__ _adj_ /yoo-BIK-wuh-tuss/ _Syn_ widespread  
-__ukulele__ _n_ :pencil2:  
-__umbrella__ _n_ /ʌmˈbrɛl ə/ [:scroll: Etymologically, it is a “little shadow.”]  
 __unclear__ _adj_  
 __undercut__  
 __undermine__ _vt_ /ˌʌndəˈmaɪn/  

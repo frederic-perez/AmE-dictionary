@@ -18819,6 +18819,7 @@ __titration__ _n_ _Lesion titration._
 __titter__ _v_ :four::hammer:  
 __tittle__ _n_ :three::astonished::pencil2: __1__ A small diacritic mark, such as an accent, vowel mark, or dot over an _i_. __2__ The tiniest bit; an iota. A tiny or scarcely detectable amount. _Syn_ iota, scintilla, shred, smidgeon, whit _Sydney Carton drank nothing but a tittle coffee._  
 __titubation__ _n_ /ˌtɪtjʊˈbeɪʃən/ __1__ (Pathology) Adisordered gait characterized by stumbling or staggering, often caused by a lesion of the cerebellum. _He walked hesitatingly to a chair, his titubation increasing._ __2__ (Pathology) Stuttering or stammering. _Syn_ lingual titubation  
+__titular__ _adj_  
 __tix__ _n pl_ _informal_ :two: Tickets.  
 __tixker__  
 __tizzy__  
@@ -18856,7 +18857,7 @@ __toehold__ _n_ :six: __1__ A small ledge or niche just large enough to support 
 __toeing__ _v_  
 __toffee__  
 __tohubohu__ _n_ Chaos, confusion. _Bringing order out of the tohubohu of human relations._  
-__toil<sup>1</sup>__ _n_ :two: Hard unpleasant work done over a long period.  
+__toil<sup>1</sup>__ _n_ :three: Hard unpleasant work done over a long period. _A lifetime of toil._  
 __toil<sup>2</sup>__ _vt_ :eight::hammer: (toiled) _Each toiled for at least four years in the minors._ _Artisans toil in fascinating foundries._  
 __toilet bowl__ _n_ :two: The bowl of a toilet that can be flushed with water.  
 __toilet stool__  
@@ -18865,6 +18866,7 @@ __toiletries__
 __Tokyoites__  
 __tolerant__  
 __tolerate__ _v_  
+__toll__  
 __toll-free__  
 __toll<sup>1</sup>__ _n_ :six::hammer: _Emotional toll._ _Toll road._ _Exact a toll._  
 __toll<sup>2</sup>__ _v_ :three: (tolls, tolling) If you toll a bell, or if it tolls, it makes a loud slow repeated sound. _Church bells tolling._ _The bell tolls for Ukraine._  
@@ -18873,7 +18875,7 @@ __Tom Thumb__ _n_ __1__ A diminutive hero of folk tales. __2__ An extremely smal
 __tom__ _n_ __1a__ The male of various animals, esp the cat. __b__ (as modifier): _a tom turkey._ __c__ (in combination): a _tomcat._  
 __tomb__ _n_ :mute:[tom~~b~~]  
 __tombola__ _n_ _The green fingered young lady of the house runs a great tombola._  
-__tomboy__  
+__tomboy__ _n_ :two: A girl who behaves in a way that is perceived to be stereotypically boyish or masculine.  
 __tombstone__ _n_  
 __tomcat<sup>1</sup>__ _n_ :two: /TOM-kat/ __1__ A male domestic cat. __2__ A womanizer.  
 __tomcat<sup>2</sup>__ _vi_ To pursue women promiscuously.  
@@ -18891,9 +18893,10 @@ __tongue-lashing__ _n_ A scolding. _Syn_ chiding, objurgation _My mother gave me
 __tonic<sup>1</sup>__ _adj_ _A 25 year old man presented to the emergency department with pain and reduced movement in his left shoulder following a generalised tonic clonic seizure._  
 __tonic<sup>2</sup>__ _n_ _The perfect tonic to the excesses of the night before._  
 __tonnes__ _n pl_  
-__tonsil__ _n_ _A tonsil infection._  
+__tonsil__ _n_ :two::hammer: _A tonsil infection._  
 __tonsillitis__ _n_  
 __tonsils__ _n_ :two::hammer:  
+__tonsorial__ _adj_  
 __tonsure__ _n_ :five::camera: __1__ The act of shaving the head or part of the head, especially as a preliminary to becoming a priest or a member of a monastic order. __2__ The part of a monk’s or priest’s head that has been shaved. _The pate of a monk with a wet red tonsure._  
 __tony__ _adj informal_ :six: Fashionable among wealthy or stylish people. _A tony restaurant._ _A tony housewife._ _It was a tony place._ _Tony boutiques._  
 __toodles__ _v_  
@@ -18908,7 +18911,7 @@ __tooth-gnashing__
 __tooth-wrecking__  
 __toothless__ _adj_ _Some consider most of those laws toothless._  
 __toothpaste__ _n_ Why is it toothpaste instead of teethpaste? The short answer is that English is weird. The long answer is that compound words generally use the singular form of a word to represent the whole, including those involving body parts: _hairbrush_, _footstool_, _armchair_, _bookcase_, etc.  
-__toothsome__ _adj_ :five: Extremely pleasing to the sense of taste. _Syn_ delectable, scrumptious, yummy, delicious, luscious  
+__toothsome__ _adj_ :six: Extremely pleasing to the sense of taste. _Syn_ delectable, scrumptious, yummy, delicious, luscious  
 __toothy smile__  
 __toots__ _n slang_ Babe; sweetie.  
 __tootsie__ _n_ _slang_ :three: /ˈtʊtsɪ/ Darling; sweetheart. (toots, tootsy) _Twiddle their tootsies._  
@@ -18922,6 +18925,7 @@ __top up__ _phr v_ To add more liquid to someone’s glass or cup in order to ma
 __top__ _v_ _The investment soon topped a billion dollars._  
 __top-dog__  
 __top-drawer__ _adj_ Of the highest importance, rank, privilege, or merit. _Top-drawer treatment._  
+__top-end__ _adj_ Of or relating to the best or most expensive products of their kind: _a range of top-end vehicles._  
 __top-flight__ _adj_ :two::hammer: _Top-flight restaurant._  
 __top-notch__  
 __top-of-mind__  
@@ -18964,6 +18968,7 @@ __total__ _v_ (totaling)
 __totally__ _adv_ :three: Entirely; wholly; completely.  
 __tote bag__ _n_  
 __tote board__ _n_ A large, usually electrically operated board that displays changing numerical information, such as betting payoffs or voting results.  
+__tote__ _n_ Totes are standardized containers that warehouses use to store and transport items. _Agility Robotics’ Digit carries an empty tote to a conveyor in an Amazon research and development warehouse._  
 __totem pole__ _n_ _slang_ :two: A hierarchy: _low on the totem pole._ _You’re at the bottom of the totem pole._  
 __tots__  
 __totter__ _v_  
@@ -18984,7 +18989,7 @@ __tourney__
 __tourniquet__ _n_ :pencil2: _He was tying a rubber tourniquet around the top of his arm._  
 __tousle__ _v_ :two: To make untidy (especially someone’s hair). _Vic stood in front of the mirror and tousled his hair, trying to get a cool, disheveled look._  
 __tousled__ _adj_ :three: Disordered or disheveled: _tousled hair; tousled clothes._  
-__tout__ _vt_ :four::hammer: (touted)  
+__tout__ _vt_ :dart::five::hammer: (touted)  
 __touting__ _v_  
 __tow truck__ _n_  
 __toward__ _prep_ :five::mega::hammer:  
@@ -19004,6 +19009,7 @@ __trace element__ _n_ __1__ A chemical element present in tiny amounts: _trace e
 __traceability__ _n_  
 __traci meet__ _n_ :two::hammer:  
 __track__ _n_ :camera:  
+__tracklement__ _n_ /ˈtrækəlmənt/ (Cookery) Any savoury condiment or sauce served with meat.  
 __tracksuit__ _n_ :three: A loose-fitting jacket and pants worn by athletes and exercisers usually before and after workouts. :es: chándal  
 __tract__ _v_  
 __tractable__ _adj_ Easily managed or controlled; governable. _Syn_ manipulable  
@@ -19028,11 +19034,11 @@ __trailer park__ _n_ (trailer camp) An area in which parking space for house tra
 __trailhead__ _n_ :two::hammer:  
 __trailing plants__  
 __trails__ _n_  
-__train wreck__ _n_ __2__ _slang_ A disastrous outcome or occurrence; a catastrophe: _described the new budget as a fiscal train wreck._ _This kind of code is often called a train wreck because it look like a bunch of coupled train cars._  
+__train wreck__ _n_ :two: __2__ _slang_ A disastrous outcome or occurrence; a catastrophe: _described the new budget as a fiscal train wreck._ _This kind of code is often called a train wreck because it look like a bunch of coupled train cars._  
 __train__ _v_ __5__ To point or direct (a gun or camera, for example) at something. _Syn_ aim  
 __trainee__ _n_ :two::pencil2: (trainees) One who is being trained. :es: aprendiz  
 __training wheels__ _n_  
-__traipse__ _v_ Walk or tramp about. _Syn_ shlep _I spent the holiday exploring the countryside, traipsing from town to town with just a knapsack of supplies on my back._  
+__traipse__ _v_ :two: Walk or tramp about. _Syn_ shlep _I spent the holiday exploring the countryside, traipsing from town to town with just a knapsack of supplies on my back._  
 __traipsing__  
 __traitorous__  
 __tramp__ _adj_  
@@ -19047,6 +19053,7 @@ __transceiver__
 __transect__ _n_ :two::hammer:  
 __transfigure__ _v_ Change completely the nature or appearance of.  
 __transfixed__ _adj_ Rendered motionless, esp from horror or shock. Having your attention fixated as though by a spell. _Syn_ fascinated, hypnotised, hypnotized, mesmerised, mesmerized, spellbound, spell-bound _I was transfixed by it._  
+__transience__  
 __transient<sup>1</sup>__ _adj_ :seven::mega: For a short time only; temporary or transitory. _Transient lesions._ _A transient log._ _One of the more transient jobs at the paper._  
 __transient<sup>2</sup>__ _n_  
 __transition__ _vi_ (of a transgender person): To come to live in accordance with one’s gender identity through a process that involves changes to one’s appearance and presentation often with the aid of medical procedures and therapies.  
@@ -19059,7 +19066,9 @@ __transpire__ _v_ /tran-SPYRE/ __1__ To happen. _The police are still trying to 
 __transport__ _n_ :two: _Three attack transports._ _What’s that? A transport? I’m saved!_  
 __transpose__ _v_ _Someone might have transposed digits._  
 __transseptal__ _adj_ :pencil2: Extending or performed through or across a septum.  
+__transsexual__ _adj, n_ (transexual) Note: The term “transgender” is more commonly used than “transsexual” or “transexual” in current literature and discussions.  
 __transtentorial__ _adj_ Passing across or through either the tentorial notch or tentorium cerebelli.  
+__transvestite__ _n_  
 __trap question__ _n_ :astonished: _That’s a trap question._  
 __trapdoor__ _n_  
 __trappings__ _n pl_ :seven::hammer: _He has all the trappings of a New York insider._ _The stallions trappings._  
@@ -19076,7 +19085,7 @@ __travesty<sup>1</sup>__ _n_ :six: /TRAV-uh-stee/ __1__ Mockery. __2__ A debased
 __travesty<sup>2</sup>__ _vt_ /TRAV-uh-stee/ __1__ To represent in a false or absurd manner. __2__ To caricature or parody.  
 __trawl__ _v_ :four::hammer:  
 __trawler__  
-__treacherous__ _adj_ :three::hammer:  
+__treacherous__ _adj_ :four: /ˈtrɛtʃ ər əs/ __1__ Betraying or likely to betray faith or confidence.  
 __treachery__ _n_ :five::hammer: _Navarre preferred guile and treachery._  
 __treacle__  
 __treacly__ _adj_ :two: Cloyingly sweet or sentimental.  
@@ -19199,6 +19208,7 @@ __troweled__ _v_
 __troy ounce__ _n_ :two::hammer:  
 __troy__  
 __truant__ _n_ :two: Someone who shirks duty. _Syn_ nonattender, no-show _As the two truants rolled up the avenue ... the sense of duties neglected added zest to their holiday._  
+__truce__ _n_ /truːs/  
 __truck__ _v_ _They will not truck with terrorists._  
 __truckle__ _v_  
 __truculent__ _adj_ :six::astonished: Defiantly aggressive. _Syn_ belligerent, combative, pugnacious, bellicose, obstreperous _Bitter and truculent when excited, I spoke as I felt, without reserve or softening._  
@@ -19232,7 +19242,7 @@ __tryptophan__ _n_ :mega: (tryptophane)
 __tryst__ _n_ :two: An agreement, as between lovers, to meet at a certain time and place. _Syn_ assignation, rendezvous _They tried to keep their weekly meetings a secret, but soon neighbors began to whisper about their trysts._  
 __tsuifuku__  
 __tsunami__ _n_ [:scroll: The Japanese word tsunami is formed from _tsu_ (harbor) and _nami_ (wave).]  
-__tub__ _n_ :seven: __1__ A low wide open container, typically round, originally one made of wood and used _esp_ for washing: now made of wood, plastic, metal, etc, and used in a variety of domestic and industrial situations. _Family tub corn._ _Bring a tub of wet wipes._ :camera: __2__ A small plastic or cardboard container of similar shape for ice cream, margarine, etc. __3__ Also called: bathtub another word (_esp_ US and Canadian) for bath.  
+__tub__ _n_ :eight: __1__ A low wide open container, typically round, originally one made of wood and used _esp_ for washing: now made of wood, plastic, metal, etc, and used in a variety of domestic and industrial situations. _Family tub corn._ _Bring a tub of wet wipes._ :camera: __2__ A small plastic or cardboard container of similar shape for ice cream, margarine, etc. _A tub of Ben & Jerry’s._ __3__ Also called: bathtub another word (_esp_ US and Canadian) for bath.  
 __tube sock__ _n_ :camera: (tube socks) A long sock that is shaped like a tube without a specific place for the heel and that is often worn while playing sports. A type of knee-high sports sock; usually white with two stripes at the top, which can be in one of various different colours. Generally worn by both guys and girls. Gives off a very retro ’70s-’80s look. _Nothing brings out a good pair of legs like a pair of tube socks._  
 __tubing<sup>1</sup>__ _adj_ _A lift-served, lighted tubing hill._  
 __tubing<sup>2</sup>__ _n_ :two::hammer: _River tubing._  
@@ -19255,6 +19265,7 @@ __tulle__ _n_ _Tulle-covered arch._
 __tumble<sup>1</sup>__ _v_ :eight::hammer: (tumbled, tumbling) _Orexigen Therapeutics tumbled 1.00, or 15%, to 5.81._ _Socks tumble._ _Discovery of the guidelines soon tumbled into the local paper._ _Tumbling gasoline prices._  
 __tumble<sup>2</sup>__ _n_  
 __tumblebug__  
+__tumbledown__ _adj_  
 __tumbler__ _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2a__ :two: A drinking glass, originally with a rounded bottom. __b__ A flat-bottomed glass having no handle, foot, or stem. __c__ :two: The contents of such a drinking glass: _a tumbler of beer_  
 __tumbleweed__ _n_  
 __tumuli__ _n pl_ Plural of tumulus (an artificial mound, esp. over a grave; barrow.).  
@@ -19354,6 +19365,7 @@ __two__ _adj, n_ :mute:[t~~w~~o]
 __two-dimensional__ _adj_ :astonished: Lacking the expected range or depth. _Syn_ flat _The actress’s two-dimensional performance was especially disappointing given the emotional complexity of the character she was playing._  
 __two-fisted__ _adj_ /to͞o′fĭs′tĭd/ [:scroll: The term describes someone using both hands, literally or figuratively, where a clenched fist alludes to vigor, resolve, etc.] __1__ Using or held by both hands: _a two-fisted backhand stroke in tennis._ __2__ _informal_ Characterized by vigor, roughness, or aggression. Strong, tough, and vigorous: _a hard-drinking two-fisted hunter; two-fisted frontier justice._  
 __two-fold__ _adj_  
+__two-pronged__ _adj_ Having two prongs or similar parts; bifurcated. _A two-pronged message._  
 __two-time__ _v_ _informal_ :three: (two-timing, two-time someone) To deceive (someone, esp a lover) by carrying on a relationship with another.  
 __two-timer__ _n_  
 __twofer__ _n_ _informal_ :three::hammer:  
@@ -19365,16 +19377,16 @@ __typecast__ _v_ :pencil2: _Lawrence avoided the typecasting pitfalls of super-f
 __typify__ _v_ (typifies)  
 __tyrannize__ _v_ :pencil2: _Most of them are woefully unproductive, and tyrannize our offices._  
 __tyranny__ _n_ :two::pencil2::mega:  
-__tyrant__ _n_ :three::hammer:  
+__tyrant__ _n_ :four::hammer: /ˈtaɪ rənt/  
 __tyro__ _n_ :two: (tiro) A beginner in learning something. _Syn_ beginner, initiate, tiro, novice  
 __U-boat__ _n_  
 __UA-ed__ _v_ :two::hammer:  
 __UB minefield__ _n_  
 __uber__ _adj_ :two::hammer:  
-__ubiquitous__ _adj_ :five::pencil2: /yoo-bik-wi-tuhs/ Being or seeming to be everywhere at the same time. Existing or being everywhere, especially at the same time; omnipresent. _Syn_ ever-present, pervasive, omnipresent, all-over, everywhere, universal _She is the most ubiquitous media personality around._  
+__ubiquitous__ _adj_ :six::pencil2: /yoo-bik-wi-tuhs/ /yoo-BIK-wuh-tuss/ Being or seeming to be everywhere at the same time. Existing or being everywhere, especially at the same time; omnipresent. _Syn_ ever-present, pervasive, omnipresent, all-over, everywhere, universal: widespread _She is the most ubiquitous media personality around._  
 __ubuntu__ _n_ A quality made up of sympathy, kindness, and respect toward other people, that is considered to be a part of the African way of life.  
 __ugg boots__ _n_ Boots made of sheepskin with the wool as the lining and the leather as the outside.  
-__ukulele__ _n_ :two::pencil2::hammer: (ukelele)  
+__ukulele__ _n_ :three::pencil2::hammer: (ukelele)  
 __ulterior__ _adj_  
 __ultimately__  
 __ultimatum__ _n_ :mega:  
@@ -19385,7 +19397,7 @@ __ululations__
 __um__  
 __umami__ _n_ One of the five basic tastes (along with the tastes sweet, sour, salty, and bitter), the savory taste of foods such as seaweed, cured fish, aged cheeses and meats.  
 __umbrage__ _n_ :five: /UM-brij/ Umbrage is a formal word that usually refers to a feeling of being offended by what someone has said or done. It is often used in the phrase “take umbrage.” A feeling of anger caused by being offended. _Syn_ offense _I had tried to phrase it politely, but he still took umbrage at my question._ _It can be difficult to converse with someone who is ready to take umbrage at the most innocent remarks._  
-__umbrella__ _n_ _Under his umbrella._  
+__umbrella__ _n_ :two::hammer: /ʌmˈbrɛl ə/ [:scroll: Etymologically, it is a “little shadow.”] _Under his umbrella._  
 __umpteen__ _adj, n_ :two::hammer:  
 __umpteenth__ _adj_ :three::dart: Last in an indefinitely numerous series. _Syn_ umptieth, umteenth  
 __un-American__  
