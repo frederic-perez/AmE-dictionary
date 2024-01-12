@@ -1,10 +1,23 @@
+__(one) figures (that)__ One presumes or anticipates (that); one reckons or thinks (that).  
+__a cog in the machine__  
+__at best__  
+__back of (one’s) mind__  
+__hyped (up)__  
+__in a manner of speaking__ :dart: In a way; in a sense; so to speak. _He was a fixer, in a manner of speaking. A man who could get things done._  
+__in full swing__  
+__lace up__  
+__lead the way__  
+__make the rounds__  
+__movers and shakers__  
 __nab__ :two: To catch and arrest someone. Often used in passive constructions.  
 __navigate__ :three: To carefully and skillfully manage or deal with something that is complex, challenging, or difficult. _Navigating difficult relationships._ _Navigating life._  
-__neck and neck__  
+__neck and neck__ :two::hammer:  
 __neck of the woods__ A neighborhood or nearby area; the area around where one lives.  
+__need for speed__ _Need for speed_ is a phrase showing a desire to go fast, usually in a vehicle, such as a race car; popularized in the 1986 film Top Gun.  
 __nerve-racking__ (nerve-wracking) Causing fear or anxiety.  
 __nerve-wracking__ :two: (nerve-racking) Causing fear or anxiety.  
 __nest egg__  
+__nifty__ Very good, interesting, or smart. Said typically of things.  
 __nip and tuck__ :astonished:  
 __nitpicker__  
 __nitwit__ A foolish, ignorant person.  
@@ -38,7 +51,9 @@ __on (one’s) own__
 __on a mission__  
 __on a roll__  
 __on and on__  
+__on brand__  
 __on end__ Continuously and without stopping. Used after a unit of time, such as “hours” or “days.” _I could talk for hours on end about trains._  
+__on loan__ Given to someone on a temporary basis.  
 __on point__  
 __on record__ __on the books__ Recorded for future reference. _We had the coldest winter on record last year._ _This is the fastest race on record._  
 __on that note__  
@@ -189,10 +204,12 @@ __rub off on (someone)__ _I’m trying hard to not let his stress rub off on me.
 __rub someone wrong__  
 __ruckus__ A large, uproarious commotion.  
 __rumble on__ To continue at a low but consistent level or degree, especially when no clear conclusion or resolution seems imminent or likely. Said especially of some argument, complaint, debate, discussion, etc. _The issue has been rumbling on in the background of our industry for nearly 10 years now, but we’re still no closer to figuring out a solution to it._  
+__rumor mill__  
 __run late__ To be behind schedule; to be a bit late. Typically used in the continuous tense.  
 __safe and sound__ Unharmed and whole or healthy.  
 __safety net__  
 __sally__ _v_ In James Ellroy’s novels, the verb “sally” means to venture out or to go forth, often into some kind of danger or uncertainty.  
+__salty__ _slang_ Annoyed by, upset by, or resentful of something that has been done or said to one.  
 __sandbag__  
 __sap__ __1__ _slang_ A foolish, naïve, or gullible person. _You’re a bigger sap than I thought if you believe that, Phil._ __3__ _n_ Extreme self-confidence. A shortened form of the word “swagger.” _All the girls want to date him because he’s got swag._ __4__ _adj_ Cool; awesome. _Yeah, that dude’s pretty swag._  
 __save on__  
@@ -241,6 +258,7 @@ __skin flute__ _vulgar, slang_ A penis.
 __skip off__ To leave or depart hastily so as to avoid something or escape with something.  
 __sky-high__  
 __skyhook__  
+__slam dunk__  
 __slated for__  
 __slip through the cracks__  
 __slob__  
@@ -320,23 +338,26 @@ __the scoots__ _n_ A case of diarrhea. _Our vacation was ruined by a case of the
 __the whole shebang__  
 __the wild west of (something)__  
 __the Wild West__ __2__ By extension, that which is characterized by a lack of law, order, and regulations; that which is totally untamed and unfettered. Often followed by “of something.“  
+__there comes a time__  
 __thick blood__ “Thick blood” can be used to describe someone who is resilient or tough. _He’s got thick blood and can bounce back from anything._  
 __thingamajig__ (thingy) Some tool, gadget, or other such implement the proper name for which is unknown or unremembered.  
 __tied up in knots__ Feeling anxious, stressed, or overwhelmed. It’s often used to describe someone who is struggling to cope with a difficult or confusing situation.  
 __tilt at windmills__ To waste time fighting enemies or trying to resolve issues that are imaginary, unimportant, or impossible to overcome.  
 __time after time__  
-__time and (time) again__ :two::hammer:  
+__time and (time) again__ :three::hammer:  
 __time flies__  
 __toe the line__  
 __top-flight__ Stellar; excellent; of the highest level of quality or worth. Can be used with or without the hyphen when used after a noun.  
 __touch up__ :dart::two::hammer: _You need to touch up your hair color._  
 __tough love__  
 __train wreck__ :dart:  
+__trickle down__  
 __trifle with (someone or something)__ To treat or deal with someone or something in a frivolous or disrespectful manner. Often used in passive constructions.  
 __true to (one’s) word__ As one has promised.  
 __tuff__ :two: In James Ellroy’s novels, the term “tuff” is often used to describe someone who is tough, gritty, and hardened. Ellroy is known for his hardboiled writing style and his focus on the seedy underbelly of society, and the term “tuff” reflects that. It’s often used to describe characters who are street-smart, tough-talking, and unafraid to engage in violent or risky behavior.  
 __turkey__  
 __turn (someone or something) upside down__  
+__turn heads__ To capture people’s attention due to being exceptionally interesting, beautiful, unusual, or novel. The image is of people literally turning to stare at something as it passes by.  
 __turn out all right__  
 __turnaround jumper__ _basketball_  
 __turning poin__ A time when things may change; a point at which a change of course is possible or desirable.  
@@ -345,6 +366,7 @@ __twisted__
 __two peas in a pod__ Two people who are very similar, typically in interests, dispositions, or beliefs.  
 __two-way street__  
 __uh-huh__  
+__under pressure__ Facing or enduring something such as pressure or a deadline.  
 __under the hood__  
 __under-promise and over-deliver__ To avoid raising expectations in order to subsequently exceed them. Used as a strategy to ensure the satisfaction of one’s client, customer, boss, etc. Also spelled without hyphens. _I want all of our customer service representatives to under-promise and over-deliver, so that all experiences with our company are positive ones._  
 __unheard of__ Extremely uncommon or unusual; beyond belief. Hyphenated if used as a modifier before a noun. _His prowess on the balance beam is unheard of._  
@@ -392,3 +414,4 @@ __yen__ A desire. Often used in the phrase “have a yen for (someone/something)
 __yippee-ki-yay__  
 __you name it__  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
+__zero in__  
