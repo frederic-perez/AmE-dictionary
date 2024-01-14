@@ -1,3 +1,25 @@
+__anaphora__ _n_  
+__bedlam__ _n_ /ˈbɛdləm/  
+__capacitate__ _vt_ /kuh-PAS-i-tayt/ To make capable.  
+__devilish<sup>1</sup>__ _adj_ __1__ Of, resembling, or befitting a devil; diabolic; fiendish. __2__ Excessive; extreme: _devilish heat._  
+__devilish<sup>2</sup>__ _adv_ Extremely; very.  
+__dishevel__ _vt_  
+__epiphany__ _n_ /ɪˈpɪf ə ni/  
+__gambol__ _v_ To leap about playfully. _Syn_ frisk, frolic, lark, rollick, romp, cavort _Then he ran back to the shed pulling the playful young horse, who wanted to gambol all over the yard, by the rein._  
+__gargoyle__ _n_ /GAR-goy-ul/  
+__mandible__ _n_  
+__meandering__ _adj_  
+__nigh__  
+__ominous__ _adj_ /AH-muh-nus/ Something described as ominous hints or suggests that something bad is coming or is going to happen.  
+__one up__ _adj_ Having gained an advantage, esp. over a rival.  
+__pernicious__  
+__pestilence__ _n_ A usually fatal epidemic disease, especially bubonic plague. _Syn_ plague  
+__raconteur__ _n_ /ra-kahn-TER/ A raconteur is someone who excels in telling anecdotes.  
+__retronym__ _n_ /RET-roh-nim/  
+__revivalist__ _n_ A preacher of the Christian gospel. _Syn_ evangelist, gospeller  
+__salubrious__  
+__sloven__ _n_ One who is habitually careless in personal appearance or work. _Syn_ slob, pig  
+__sophistry__ _n_ A plausible but misleading or fallacious argument. _Syn_ sophism, sophistication  
 __stick__ _v_ :two::hammer:  
 __stickup__ _n slang_ A robbery, especially at gunpoint.  
 __stiffen__ _v_ :two::hammer: /ˈstɪfən/  
@@ -25,11 +47,13 @@ __succubus__ _n_
 __sultry__ _adj_  
 __supercharge__ _vt_  
 __supercilious__ _adj_ :two: Feeling or showing haughty disdain. _Syn_ arrogant  
+__supposably__ _adv_ A may be assumed, imagined, or supposed. _In our modern and supposably transparent era, the government’s motives for war have come into question._  
 __surprise__ _n, v_ /səˈpraɪz/  
 __survivalist__ _n_ /səˈvaɪvəlɪst/  
 __susurous__ _adj_ _The susurous swash of the sea._  
 __swanky__ _adj_ /SWANG-kee/ __1__ Stylish; fashionable; luxurious. __2__ Pretentious; ostentatious.  
 __swashbuckler__ _n_  
+__swat__ _n, v_  
 __swell__ _adj_ Excelent.  
 __sweltering__ _adj_  
 __Syracuse__ _n_ :mega: /ˈsɪr əˌkyus, -ˌkyuz/  
@@ -132,6 +156,7 @@ __wherewithal<sup>2</sup>__ _adv_ By means of which; out of which.
 __whip up__  
 __whiplash__ _n_  
 __white-collar__ _adj_ Of, relating to, or constituting the class of salaried employees whose duties do not call for the wearing of work clothes or protective clothing.  
+__whitlow__ _n_ A purulent infection at the end of a finger or toe in the area surrounding the nail. :astonished: _Syn_ felon  
 __wisteria__ _n_  
 __wistfully__ _adv_  
 __wordplay__ _n_  
