@@ -19458,7 +19458,8 @@ __underbid__
 __undercard__ _n_ :two::hammer: _Undercard debates._  
 __undercroft__ _n_ _The cathedral’s undercroft._  
 __undercurrent__ _n_ :astonished::five::hammer: :es: trasfondo  
-__undercut__ _v_ :nine::m: __1__ To diminish or destroy the province or effectiveness of; undermine. _Why do you undercut yourself so much?_ _If you’re sporting self-doubt, you’ve undercut your performance before you even begin._ __2__ (Commerce) To charge less than (a competitor) in order to obtain trade. __3__ To cut away the under part of (something). __4__ (General Sporting Terms) _sport_ To hit (a ball) in such a way as to impart backspin.  
+__undercut<sup>1</sup>__ _vt_ :nine::m: __1__ To diminish or destroy the province or effectiveness of; undermine. _Why do you undercut yourself so much?_ _If you’re sporting self-doubt, you’ve undercut your performance before you even begin._ __2__ (Commerce) To charge less than (a competitor) in order to obtain trade. __3__ To cut away the under part of (something). __4__ (General Sporting Terms) _sport_ To hit (a ball) in such a way as to impart backspin.  
+__undercut<sup>2</sup>__ _vi_ To engage in undercutting.  
 __underdog__ _n_ :three::hammer: _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __underdone__ _adj_ (Cookery) Insufficiently or lightly cooked. _The potatoes were underdone._  
 __underemployed__  
@@ -19471,8 +19472,8 @@ __undergraduate__ _adj, n_ _I’m working toward my undergraduate degree._ _I’
 __underlayment__ _n_ A pad placed under a carpet. _Syn_ carpet pad, rug pad _After they removed the underlayment, the young cousins were able to slide the rug across the hardwood floor as though it were a sled on ice._  
 __underling__ _n_  
 __underlying__ _adj_ _The underlying software stack._  
-__undermine__ _v_ :nine::m: (undermined) __1__ To weaken by wearing away a base or foundation: _Water has undermined the stone foundations._ __2__ To weaken, injure, or impair, often by degrees or imperceptibly; sap: _Late hours can undermine one’s health._ __3__ To dig beneath; excavate ground from under, so as to form a tunnel or mine.  
-__underpin__ _vt_ :seven::hammer:  
+__undermine__ _vt_ :nine::m: /ˌʌndəˈmaɪn/ (undermined) __1__ To weaken by wearing away a base or foundation: _Water has undermined the stone foundations._ __2__ To weaken, injure, or impair, often by degrees or imperceptibly; sap: _Late hours can undermine one’s health._ __3__ To dig beneath; excavate ground from under, so as to form a tunnel or mine.  
+__underpin__ _vt_ :eight::hammer:  
 __underpinning__ _n_ :five::hammer:  
 __underprivileged__  
 __underrated__ _adj_ :pencil2: Underestimated.  
@@ -19517,11 +19518,11 @@ __unfailing__ _adj_ _Unfailing support._
 __unfathomable__ _adj_ :four: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
 __unfazed__ _adj_ :nine::m:: /ʌnˈfeɪzd/ Not disconcerted; unperturbed. _Her criticism left him quite unfazed._ :es: Sus críticas le dejaban tan pancho. _She was completely unfazed by the extraordinary events._ _They are unfazed by all fof this._ :es: Se quedó como si nada ante unos sucesos tan extraordinarios.  
 __unfeasible__ _adj_ _Syn_ infeasible  
-__unfettered__ _adj_ :nine::m: Not kept under retraint; uninhibited. _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
+__unfettered__ _adj_ :nine::m: /ʌnˈfɛtəd/ Not kept under retraint; uninhibited. _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
 __unflagging__ _adj_ :two::hammer:  
 __unflappable__ _adj_ :seven::hammer: _Jim was unflappable._ _Unflappable team._  
 __unflinching__ _adj_ :three: Showing neither fear nor indecision; resolute. _Syn_ unintimidated, unshrinking, unblinking  
-__unfold__ _v_ :six::hammer: _Mysteries unfold._  
+__unfold__ _v_ :seven::hammer: _Mysteries unfold._  
 __unforeseen__ _adj_ _Unforeseen difficulties._  
 __unforgiving__ _adj_  
 __unfrock__ _v_ To deprive of ecclesiastical rank, authority, and function; depose: _an unfrocked priest._  
@@ -19539,6 +19540,7 @@ __unhindered__ _adj_ :two: without hindrance. _He could proceed unhindered._
 __unhinged__ _adj_ :three: Deranged or unbalanced. _Alex Jones is the most prolific and unhinged conspiracy theorist in America._  
 __unhook__ _vt_  
 __unhoped-for__ _adj_ So unexpected as to have not been imagined. _Syn_ unthought-of  
+__uni__ _n_ /ˈjuːnɪ/ _informal_ Short for university.  
 __unicorn__ _n_ Start-up valued at more than $1 billion.  
 __unimpeachable__ _adj_ Free of guilt; not subject to blame. _Syn_ blameless, inculpable, irreproachable _As is indeed not unfrequent with women of unimpeachable virtue ... at a distance she not only excused illicit love, she positively envied it._  
 __unimpeded__ _v_  
@@ -19559,25 +19561,26 @@ __unlucky__ _adj_
 __unmissable__ _adj_ :two: A movie, play, etc. that is unmissable is so good that you think everyone should see it.  
 __unnerving__ _adj_ :three::hammer::astonished:  
 __unobstrusive__  
+__unpack__  
 __unparalleled__ _adj_ :two::hammer:  
 __unplugged__ _adj_ /un-PLUHGD/ [:scroll: From un- (not) + plug, from Dutch plug.] __1__ Authentic; unadorned. __2__ Refraining from the constant use of electronic communication and entertainment devices. __3__ Relating to music performed with acoustic rather than electric instruments. __4__ Not connected to an electrical outlet. __5__ Without a plug or stopper (of a container of liquid). __6__ Low-key; intimate.  
 __unprecedented__ _adj_ :two: Having no previous example: _unprecedented economic growth._  
 __unpretentious__  
 __unprofessional__ _adj_  
 __unquestioned__  
-__unravel__ _v_ :three: __2__ To free from complications; make plain or clear; solve: _to unravel a mystery._  
+__unravel__ _v_ :four: /ʌnˈrævəl/ __2__ To free from complications; make plain or clear; solve: _to unravel a mystery._  
 __unreal__  
 __unreasonable__ _adj_  
 __unrecognizable__ _adj_  
 __unrelenting__ _adj_ :four::hammer:  
 __unremitting__ _v_  
-__unrepentant__ _adj_ :four: Having or exhibiting no remorse.  
+__unrepentant__ _adj_ :five: Having or exhibiting no remorse.  
 __unrequited__ _adj_ :three: Not given, rewarded, or felt in return: _unrequited love._ _Her unrequited crush._  
 __unrestrained__  
 __unruffled__ _adj_ _An unruffled commander._  
 __unruly__ _adj_ :nine: Difficult or impossible to discipline, control, or rule. _Unruly campaign speeches._  
 __unsalted__ _adj_ :dart: Not seasoned, preserved, or treated with salt: _unsalted peanuts._ _Pure Irish butters salted and unsalted._  
-__unsavory__ _adj_ :two::hammer: /ʌnˈseɪ və ri/  
+__unsavory__ _adj_ :three::hammer: /ʌnˈseɪ və ri/ __4__ Socially or morally objectionable or offensive: _an unsavory past._  
 __unscathed__ _adj_ :eight: Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
 __unseemly<sup>1</sup>__ _adj_ _Syn_ indecorous  
 __unseemly<sup>2</sup>__ _adv_ :two::hammer:  
@@ -19609,6 +19612,7 @@ __unthinkable__ _adj_ _The unthinkable has befallen President._
 __unticked__ _adj_ :dart: Not ticked; unchecked. _Checking an unticked box on my to-do list._  
 __untidy__  
 __untilled__ _adj_ _Untilled fields._  
+__unto__ _prep_ /ˈʌntuː/ An archaic word for to. _Do unto others._  
 __untoward__ _adj_ :three: __1__ Improper; unseemly: _untoward behavior._ __2__ Unfavorable or adverse: _an untoward incident._  
 __untuck__ _v_  
 __unwarranted__  
@@ -19620,6 +19624,7 @@ __unwieldy__ _adj_ :four: __1__ Difficult to carry or handle because of size, sh
 __unwilling__ _adj_ :two::hammer: _Unwilling medical director._  
 __unwind__ _v_ :six: __5__ To become relieved of tension; relax. To become free of nervous tension; relax: _liked to unwind with a cocktail before dinner._ _Come play, dine and unwind!_ _The lounge is the perfect place to unwind with a martini._ _The perfect place to unwind and mingle._  
 __unwittingly__ _adv_ :five::dart: Without knowledge or intention. _Cy had unwittingly primed his employees for failure._ _He unwittingly deleted the references._  
+__unworldly__ _adj_  
 __unwritten__ _adj_  
 __unyield__ _v_  
 __unyielding__ _adj_ :three::hammer:  
@@ -19636,14 +19641,16 @@ __upchuck__ _v_ _You know, Freddo, Frank Borman was upchucking most of the way t
 __upcoming__ _adj_ :dart::two: In the relatively near future. _Syn_ approaching, coming, forthcoming  
 __upcycle__ _v_ To recycle a disposable product into an object of greater value or use.  
 __updraft__ _n_ The movement upward of air or other gas.  
-__upend__ _v_ :nine::m: (upended, upending) Become turned or set on end. _The earthquake upended the nation last week._  
+__upend__ _v_  
+__upend<sup>1</sup>__ _vt_ :nine::m: __1__ To stand, set, or turn on one end: _upend an oblong box._ __2__ To affect drastically or radically, as tastes, opinions, or reputations. To invalidate, destroy, or change completely; overthrow: _upended a popular legend_. _The earthquake upended the nation last week._ __3__ To win victory over; defeat. To defeat in competition.  
+__upend<sup>2</sup>__ _vi_ __1__ To become upended. __2__ To place the body back-end up, as a dabbling duck.  
 __upended__ _adj_ :five: Turned up on end. _Syn_ perpendicular, vertical  
 __upfield__  
 __upfront__ _adj_ :three::hammer:  
 __upheaval__ _n_ :nine::m: /ʌpˈhi vəl/ A state of violent disturbance and disorder (as in politics or social conditions generally).  
 __uphill<sup>1</sup>__ _adj_ :two::hammer: _An uphill task._  
 __uphill<sup>2</sup>__ _adv_ _I didn’t have to fight uphill._  
-__uphold__ _v_ :nine: (upheld) When you uphold something, you stick up for or support it. Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he’s still alive out there somewhere. If you reverse the two parts of this word, you get hold up. And that’s exactly what upholding is: holding up or supporting an idea or practice.  
+__uphold__ _vt_ :nine::m: (upheld) __3__ To maintain or affirm: _uphold a standard of behavior._ _Syn_ support When you uphold something, you stick up for or support it. _Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he’s still alive out there somewhere._ [If you reverse the two parts of this word, you get hold up. And that’s exactly what upholding is: holding up or supporting an idea or practice.]  
 __upholder__ _n_  
 __upkeep__ _n_ :six: __1__ Maintenance in proper operation, condition, and repair. _Chalkboards did not require much upkeep._ __2__ The cost of such maintenance.  
 __uplifted__ _adj_  
@@ -19660,6 +19667,7 @@ __upping__ _v_ :two::hammer:
 __upright bass__ _n_  
 __upright piano__ _n_  
 __upright__ _n_ _The 34 yard field goal hit the left upright._  
+__uprising__ _n_  
 __uproar__ _n_ :two::hammer:  
 __uproarious__ _adj_ Marked by or causing boisterous merriment or convulsive laughter. _Syn_ hilarious, screaming _My brother spent the evening regaling us with uproarious tales of the pranks he and his bunkmates used to play on the other campers._  
 __uproot__ _v_ :four::hammer: (uprooted) _Uprooted workers._  
@@ -19723,7 +19731,7 @@ __utterly__ _adv_ :eight::hammer: _An utterly trivial dispute._
 __uvula__ _n_ :two: /YOO-vyuh-luh/ [:scroll: From Latin uvula, diminutive of uva (grape)] The small, fleshy mass that hangs in the back of the mouth, above the throat. :es: úvula, campanilla  
 __uxorious__ _adj_ /ŭk-sôr′ē-əs, ŭg-zôr′-/ Excessively submissive or devoted to one’s wife; showing too much love for your wife: _The most openly uxorious husband is almost always the one who is having an affair._  
 __V bolt__  
-__V-E Day__ _n_ (V(ictory in) E(urope) Day) May 8, 1945, the day on which the Allies announced the surrender of German forces in Europe.  
+__V-E Day__ _n_ :two: [:scroll: V(ictory in) E(urope) Day] May 8, 1945, the day on which the Allies announced the surrender of German forces in Europe.  
 __V-J Day__ _n_ :two: (V(ictory in) J(apan) Day) August 15, 1945, the day on which the Allies announced the surrender of Japanese forces during World War II.  
 __V8__ _n_ _(beverage)_  
 __va-va-voom<sup>1</sup>__ _n informal_ The quality of being interesting, exciting, or sexually appealing. A strikingly sexy, voluptuous, or appealing quality. _The actress exudes va-va-voom as she walks through the Sixth Avenue doorway of the Power House Theatre._  
@@ -19748,10 +19756,12 @@ __vagus__ _n_ :two::mega: (vagus nerve) Either of the tenth pair of cranial nerv
 __vainglorious__ _adj_ :two: Characterized by or exhibiting excessive vanity; boastful. _Syn_ swelled, big _I saw right through the vainglorious young man and rejected his advances._  
 __vainglory__ _n_ :five: Boastful, unwarranted pride in one’s accomplishments or qualities. _Syn_ boastfulness  
 __Val__ _n_ (Vals)  
+__valance__ _n_ An ornamental drapery hung across a top edge, as of a bed, table, or canopy. _Syn_ cornice, pelmet, valance board _Large valances of silk, embroidered with flowers of gay colors, which were rather faded, fell from the wide windows._  
 __vale__ _n_  
+__valediction__ _n_  
 __valedictorian<sup>1</sup>__ _n_ :eight: (valedictorians) A student, usu. the one ranking highest academically in a graduating class, who delivers the valedictory at graduation.  
 __valedictorian<sup>2</sup>__ _adj_ _Valedictorian speech._  
-__valedictory__ _n_ :two: A closing or farewell statement or address, especially one delivered at graduation exercises.  
+__valedictory__ _n_ :three: A closing or farewell statement or address, especially one delivered at graduation exercises.  
 __valence__ _n_ :two::hammer:  
 __valentine__ _n_ :two: __1a__ A sentimental or humorous greeting card sent to a sweetheart, friend, or family member, for example, on Saint Valentine’s Day. __b__ A gift sent as a token of love to one’s sweetheart on Saint Valentine’s Day. __2__ A person singled out especially as one’s sweetheart on Saint Valentine’s Day.  
 __valet__ _n_  
@@ -19839,7 +19849,8 @@ __venison__ _n_ :five::hammer:
 __Venn__ _n_ (John Venn) English logician who introduced Venn diagrams. (1834-1923)  
 __venom__ _n_ :three::hammer:  
 __venomous__ _adj_ :two::hammer:  
-__vent__ _v_ _slang_ :four: To express a negative emotion in a forceful way.  
+__vent<sup>1</sup>__ _n_ __2__ An opening permitting the escape of fumes, a liquid, a gas, or steam. _Laundry vents are the tube that runs from a clothes dryer to the exterior of your home or building. They act like an exhaust pipe for the dryer, allowing the moisture from your clothes to escape vent._  
+__vent<sup>2</sup>__ _v_ _slang_ :four: To express a negative emotion in a forceful way.  
 __ventail__ _n_ A medieval hood of mail suspended from a basinet to protect the head and neck. _Syn_ camail _The sword caught him just below the jaw, but the ventail protected his neck._  
 __ventilator__ _n_ :two::pencil2: _med_ A machine that helps a patient breathe. This machine pumps oxygen into the lungs and removes carbon dioxide through a tube. The insertion of this tube into a person’s windpipe (trachea) is called intubation.  
 __ventilatory threshold__ _n_ The point of the workout where it becomes difficult to carry on a conversation.  
@@ -19848,7 +19859,7 @@ __venture<sup>2</sup>__ _v_ __2__ Put forward, of a guess, in spite of possible 
 __venue__ _n_ :two::hammer: _What’s the venue?_  
 __Venus flytrap__ _n_ :camera::two::hammer:  
 __veracity__ _n_  
-__veranda__ _n_ :four: A roofed platform along the outside of a house, level with the ground floor. _Syn_ porch, gallery, balcony, lanai, sun porch, stoop _We’ll have our coffee on the veranda._  
+__veranda__ _n_ :five: A roofed platform along the outside of a house, level with the ground floor. _Syn_ porch, gallery, balcony, lanai, sun porch, stoop _We’ll have our coffee on the veranda._  
 __verbally__  
 __verbatim__  
 __verberize__  
@@ -19856,7 +19867,7 @@ __verbiage__ _n_ :three::hammer: _Ornamental verbiage._
 __verbicide__ _n_ :two::astonished: _facetious_ An act or instance of destroying a word. Misuse or overuse of a word or any use of a word which is damaging to it.  
 __verboten__ _adj_ Not allowed.  
 __verdant__ _adj_ :three: /VER-dunt/ __1__ Green in tint or color. __2__ Green with growing plants. _The golf course is noted for its tricky hazards and lush, verdant borders along its fairways._ _Verdant hills._ __3__ Unripe in experience or judgment.  
-__verdict__ _n_ :six::hammer::pencil2:  
+__verdict__ _n_ :seven::hammer::pencil2:  
 __verdigris__ _n_ :two::astonished: /VER-duh-greess/ __2__ A green patina or crust of copper sulfate or copper chloride formed on copper, brass, and bronze exposed to air or seawater for long periods of time. “Green of Greece” is the literal translation of “vert de Grece,” the Anglo-French phrase from which the modern word _verdigris_ descends. _We removed the verdigris from Grandma’s old copper jewelry by first soaking it in lemon juice, then gently polishing it with a soft rag._  
 __verge__ _n_ :two::hammer:  
 __vergence__ _n_ __2__ The inward or outward turning of one or both eyes that occurs when focusing on an object.  
@@ -19879,8 +19890,8 @@ __vertical farm__
 __vertiginous__ _adj_ Having or causing a whirling sensation. _Syn_ whirling, dizzy _At the end of the trail, they still faced a vertiginous climb up the face of the cliff._  
 __verve__ _n_ :eight::dart: /vəːv/ [:scroll: from French, ‘vigour’] Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
 __very true__  
-__very<sup>1</sup>__ _adj_ :two: __4__ Used to emphasize the importance of what is specified. _For this very reason._ _We were in this very room._  
-__very<sup>2</sup>__ _adv_  
+__very<sup>1</sup>__ _adv_ :two: __2__ Truly; absolutely: _the very best advice._  
+__very<sup>2</sup>__ _adj_ :three: __1__ Complete; absolute: _at the very end of his career._ __2__ Being the same; identical: _That is the very question she asked yesterday._ __3__ Being particularly suitable or appropriate: _the very item needed to increase sales._ __4__ :dart: Used to emphasize the importance of what is specified: _The very mountains shook._ _For this very reason._ _We were in this very room._ __5__ Being nothing more than what is specified; mere: _The very act of riding in the car made him dizzy._  
 __vesicle__ _n_ :two: (vesicula) A small sac or cyst, especially one containing fluid. _Syn_ cyst  
 __vespine__ _adj_  
 __vest__ _v_  

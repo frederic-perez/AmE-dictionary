@@ -98,32 +98,6 @@ __ting<sup>1</sup>__ _n_ A high metallic sound such as that made by a small bell
 __ting<sup>2</sup>__ _vi_ To give forth a light metallic sound.  
 __titan__ _adj_  
 __unclear__ _adj_  
-__undercut__  
-__undermine__ _vt_ /ˌʌndəˈmaɪn/  
-__underpin__ _vt_  
-__unfazed__ _adj_ /ʌnˈfeɪzd/ _informal_ Not disconcerted; unperturbed.  
-__unfettered__ _adj_ /ʌnˈfɛtəd/  
-__unfold__ _v_  
-__uni__ _n_ /ˈjuːnɪ/ _informal_ Short for university.  
-__unpack__  
-__unravel__ _v_ /ʌnˈrævəl/  
-__unrepentant__  
-__unsavory__ _adj_ __4__ Socially or morally objectionable or offensive: _an unsavory past._  
-__unto__ _prep_ /ˈʌntuː/ An archaic word for to. _Do unto others._  
-__unworldly__ _adj_  
-__upend__ _v_  
-__uphold__ _vt_ __3__ To maintain or affirm: _uphold a standard of behavior._ _Syn_ support  
-__uprising__ _n_  
-__uptick__ _n_  
-__V-E Day__ _n_ [:scroll: V(ictory in) E(urope) Day] May 8, 1945, the day on which the Allies announced the surrender of German forces in Europe.  
-__valance__ _n_ An ornamental drapery hung across a top edge, as of a bed, table, or canopy. _Syn_ cornice, pelmet, valance board _Large valances of silk, embroidered with flowers of gay colors, which were rather faded, fell from the wide windows._  
-__valediction__ _n_  
-__valedictory__ _n_  
-__vent__ _n_ __2__ An opening permitting the escape of fumes, a liquid, a gas, or steam. _Laundry vents are the tube that runs from a clothes dryer to the exterior of your home or building. They act like an exhaust pipe for the dryer, allowing the moisture from your clothes to escape vent._  
-__veranda__ _n_  
-__verdict__ _n_  
-__very<sup>1</sup>__ _adv_ __2__ Truly; absolutely: _the very best advice._  
-__very<sup>2</sup>__ _adj_ __1__ Complete; absolute: _at the very end of his career._ __2__ Being the same; identical: _That is the very question she asked yesterday._ __3__ Being particularly suitable or appropriate: _the very item needed to increase sales._ __4__ Used to emphasize the importance of what is specified: _The very mountains shook._ __5__ Being nothing more than what is specified; mere: _The very act of riding in the car made him dizzy._  
 __veto__ _vt_  
 __visceral__ _adj_ /VISS-uh-rul/  
 __vixen__ _n_ __2a__ A woman regarded as sexually alluring.  
