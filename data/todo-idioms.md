@@ -198,31 +198,6 @@ __scoot__ :two: __1__ _vi_ To run or scurry quickly from one place to another. _
 __screw up__ :dart: __5__ _n_ A huge mistake, blunder, or mishandling. In this usage, the phrase is usually hyphenated or spelled as one word. _Another screwup like that and you’re fired!_ _I don’t care whose screw-up it was—just fix it!_  
 __scruff(y)__  
 __scuttlebutt__ _n_ News; information; gossip. (The legend of origin is that the scuttlebutt was a butt [= cask, keg] of drinking water located near a scuttle [= hatch]. Sailors gathered there to exchange gossip.)  
-__second base__ _singular only, US, colloquial_ Touching a partner under his or her clothes, without having sex.  
-__second best__  
-__secret sauce__ :two: _informal_ A secret idea or plan; a crucial element of something that makes it unique or functional.  
-__secretor__ A “secretor” in James Ellroy’s novels is essentially a character who has a hidden or suppressed aspect of their personality or identity. They might be someone who seems upstanding and respectable on the surface, but underneath, they’re harboring a dark secret that could ruin their reputation or even get them into serious trouble.  
-__see somebody/something for what they ˈare/it is__ Realize that somebody/something is not as good, pleasant, etc. as they seem/it seems: _I used to really like him, but now I can see him for what he really is — selfish and arrogant!_  
-__sell like hot cakes__  
-__serve (one’s) time__ To spend the amount of time in jail that is required by one’s prison sentence.  
-__set the stage for (something)__  
-__set the world on fire__ To do wonderful or exciting things that cause a great or remarkable sensation in the world; to become extremely popular, famous, renowned, etc. Often used in the negative to indicate the opposite.  
-__settle a score (with someone)__  
-__settle accounts__ __2__ To avenge a misdeed.  
-__shafted__ _slang_ Cheated or swindled; unfairly deprived or taken advantage of; screwed (over).  
-__shag (off)__ _slang_ To depart. _I gotta shag. It’s late. Go on! Shag off! I gotta shag. Somebody’s calling my name._  
-__shagged out__ _slang_ Exhausted. _What a day! I’m shagged out!_ _You guys look sort of shagged out._  
-__shake down__ __1__ 1. verb To blackmail someone for money; to extort someone. A noun or pronoun is often used between “shake” and “down.” _I shook down him for twenty thou._  
-__shank<sup>1</sup>__ _n, slang_ A homemade or makeshift cutting or stabbing weapon, especially one fashioned in prison.  
-__shank<sup>2</sup>__ _v, slang_ To stab or cut (someone) with such a weapon.  
-__shantytown__  
-__shellac__ (shellack) __4__ _US, slang_ __a__ To beat. __b__ To defeat decisively.  
-__shit sandwitch__ Playful term much like the traditional “stuck between a rock and a hard place.”  
-__shitbird__ It’s used in James Ellroy’s novels to describe someone who’s particularly slimy, dishonest, or untrustworthy - the kind of person who’ll do anything to get ahead, regardless of who they hurt or deceive along the way.  
-__shitheel__ Oh man, “shitheel” is a doozy - a real gem of vulgarity in Ellroy’s writing. It’s basically a very, very rude way of referring to someone who’s a lowlife, a scoundrel, or just generally a bad person. In Ellroy’s world, it’s often used to describe corrupt cops, sleazy gangsters, or anyone else who’s part of the seedy underworld of crime and corruption.  
-__shy away (from someone or something)__ :two::hammer:  
-__sick twist__ :four: “Sick twist” is a term that James Ellroy uses in his novels to describe a disturbing or perverted turn of events. It’s used to describe something that is twisted or warped, often in a way that is both unsettling and fascinating.  
-__silver lining__  
 __simply put__  
 __sit shiva__ _Judaism_ To mourn for a period of seven days following the funeral of a close relative. _To sit shiva for the dead._  
 __six ways from (next) Sunday__ Askew, at an angle.  

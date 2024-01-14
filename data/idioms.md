@@ -4349,19 +4349,22 @@ __screw up__
 __scrounge up__ _To scrounge up the funds._  
 __scurvy__ Low, mean, contemptible, or despicable._ You’re nothing but a scurvy dog, you know that?_  
 __sea change__ A massive, fundamental shift or transformation. _The transition from using desktop computers to mobile devices represents a sea change in data management within the field of information technology._  
-__second best__ :three: (Describing) someone or something that is one step below or slightly inferior to the person or thing that is considered the best, especially in a formal ranking. _Even though I’d spent weeks working on my project for the science fair, I still came off second best._  
+__second base__ _singular only, US, colloquial_ Touching a partner under his or her clothes, without having sex.  
+__second best__ :four: (Describing) someone or something that is one step below or slightly inferior to the person or thing that is considered the best, especially in a formal ranking. _Even though I’d spent weeks working on my project for the science fair, I still came off second best._  
 __second guess__  
 __second nature__  
 __second to none__ The best; without rival. _Of course my daughter will go to Harvard—it’s second to none!_  
 __second-class citizen__  
 __second-guess__ :five: __1__ To question or doubt someone or something retroactively. _Why are you second-guessing me now? You agreed with this course of treatment just yesterday!_ _You made the best decisions you could with the information you had at the time, so please don’t second-guess yourself._ __2__ To try to anticipate how something will happen or what someone will do. _Trying to second-guess the outcome of a game in progress is exhausting._  
 __secondhand smoke__ Tobacco smoke involuntarily inhaled.  
-__secret sauce__ :two: _Secret sauce_ is an expression used to refer to a special quality, feature, or strategy that contributes to the success of a product, service, or individual. It is typically kept secret, as its uniqueness is seen as the key to its success.  
+__secret sauce__ :three: _invormal_ A secret idea or plan; a crucial element of something that makes it unique or functional. _Secret sauce_ is an expression used to refer to a special quality, feature, or strategy that contributes to the success of a product, service, or individual. It is typically kept secret, as its uniqueness is seen as the key to its success.  
 __secret weapon__ :three::hammer:  
+__secretor__ A “secretor” in James Ellroy’s novels is essentially a character who has a hidden or suppressed aspect of their personality or identity. They might be someone who seems upstanding and respectable on the surface, but underneath, they’re harboring a dark secret that could ruin their reputation or even get them into serious trouble.  
 __security blanket__ :dart: That which gives one a feeling of comfort, confidence, and safety. An allusion to the common practice of children to carry around blankets or stuffed animals to give them a feeling of safety. _His beard had long been his form of security blanket—something he could hide behind, something he could change at will, something he could fiddle with when he felt nervous or uncomfortable._  
 __see eye to eye__ :three: To concur, agree. To agree (with someone); to share the same position or opinion (as someone else). _Chester and I see eye to eye._  
 __see for (oneself)__  
 __see red__ :three: To become very angry. To fall into a state of extreme anger, excitement, or competitive arousal, such as might cloud one’s judgement or senses. _He’s generally not a confrontational person, but you’d better get out of his way when he sees red!_  
+__see somebody/something for what they are/it is__ Realize that somebody/something is not as good, pleasant, etc. as they seem/it seems: _I used to really like him, but now I can see him for what he really is — selfish and arrogant!_  
 __see-and-be-seen__ To be noticed by others or to attract attention, especially in social situations. It often implies seeking the attention of important or influential people in order to advance one’s own interests or status. This phrase can also refer to the practice of observing and being observed in social environments, such as trendy nightclubs, where being seen is valued for its own sake. _See-and-be-seen restaurant._  
 __seed corn__ :dart: If someone talks about _seed corn_, they mean resources or people that will produce benefits in the future rather than immediately. _Investment in the industry, the seed corn of future output, has fallen by 75 percent._ Note: If people _eat their seed corn_, they use up their valuable resources, and this will prevent them from being able to do things in the future. _A society that’s unwilling to invest in its future is a society that’s living off capital. It’s eating its seed corn._ Note: A farmer’s seed corn is the grain that is used for planting rather than being sold or eaten.  
 __seek after__  
@@ -4372,7 +4375,7 @@ __seize the opportunity (to do something)__
 __seize the opportunity__ :two: To take advantage of an opportunity when offered. _My uncle offered me a trip to Europe, so I seized the opportunity._  
 __self-fulfilling prophecy__  
 __sell (someone, something, or oneself) short__ :two: To undervalue someone, something, or oneself; to underestimate or underappreciate the good qualities of someone, something, or oneself. _Don’t sell yourself short—your writing is really excellent!_  
-__sell like hotcakes__ To be sold quickly and in large quantities. _This record has been selling like hotcakes—I can’t keep it in stock!_ _We are selling English classes like hotcakes._ :es: vender como churros  
+__sell like hotcakes__ :two: (seel like hot cakes) To be sold quickly and in large quantities. _This record has been selling like hotcakes—I can’t keep it in stock!_ _We are selling English classes like hotcakes._ :es: vender como churros  
 __sell out__ :two::hammer:  
 __sell someone a pup__ To swindle someone by selling them something worthless.  
 __sell up__  
@@ -4381,6 +4384,7 @@ __send (one’s) love to (someone)__
 __send a shiver down (one’) spine__ To cause an intense feeling of excitement, exhilaration, nervousness, or fear in someone. _The way that sonata swells always sends a shiver down my spine._  
 __send off__ :two::hammer:  
 __separate wheat from chaff__  
+__serve (one’s) time__ To spend the amount of time in jail that is required by one’s prison sentence.  
 __serve time__  
 __set (someone or something) loose__ To make free or give up control of something or someone; to release or discharge something or someone, as from confinement. _Due to a lack of evidence, the suspects were set loose by police._  
 __set (someone or something) off__  
@@ -4396,14 +4400,21 @@ __set the ball rolling__ (start the ball rolling) To set something, often a proc
 __set the bar__  
 __set the pace__  
 __set the record straight__ To make the true facts of something clear, especially when they have been previously mistaken, misunderstood, or misrepresented. _There have been a lot of crazy rumors flying around for the last few days, so I’d like to set the record straight once and for all._  
-__set the stage for something__ To make something likely to happen. _Family problems in childhood set the stage for unsuccessful relationships in adult life._  
+__set the stage for (something)__ :two: To make something likely to happen. _Family problems in childhood set the stage for unsuccessful relationships in adult life._  
 __set the table__  
+__set the world on fire__ To do wonderful or exciting things that cause a great or remarkable sensation in the world; to become extremely popular, famous, renowned, etc. Often used in the negative to indicate the opposite.  
+__settle a score (with someone)__  
+__settle accounts__ __2__ To avenge a misdeed.  
 __seventh heaven__ :two::astonished: A state of bliss or extreme happiness. _A spa treatment in a luxury hotel with no kids—this is seventh heaven!_  
 __seventh-inning stretch__ _baseball_ A tradition taking place in the middle (between the top and bottom) of the seventh inning during which the audience stands up to stretch and sing along to music, traditionally “Take Me Out to the Ball Game.”  
 __sever ties with (someone or something)__ :dart: To cease associating, working, or communicating with someone or something. _Sarah severed ties with her family when she was only 17._  
 __sewer__ __2__ The median cephalic vein in the arm, into which a drug is injected.  
 __sexual tension__  
+__shafted__ _slang_ Cheated or swindled; unfairly deprived or taken advantage of; screwed (over).  
+__shag (off)__ _slang_ To depart. _I gotta shag. It’s late. Go on! Shag off! I gotta shag. Somebody’s calling my name._  
+__shagged out__ _slang_ Exhausted. _What a day! I’m shagged out!_ _You guys look sort of shagged out._  
 __shake a leg__ :two::hammer:  
+__shake down__ __1__ 1. verb To blackmail someone for money; to extort someone. A noun or pronoun is often used between “shake” and “down.” _I shook down him for twenty thou._  
 __shake off__ Free oneself or get rid of something or someone, as in _I’ve had a hard time shaking off this cold_, or _She forged ahead, shaking off all the other runners._  
 __shake something off__  
 __shake up__ :three::hammer:  
@@ -4411,9 +4422,13 @@ __shakedown__ _A shifty shakedown artist._
 __shaken up__ Greatly startled, shocked, or upset. _I was very shaken up after the car accident. I couldn’t even speak properly to the police for about an hour._  
 __shame on (one)__ :two: An expression of condemnation, often an angry or disappointed one. _Shame on her for taking advantage of your feelings like that!_ _Fool me once, shame on you. Fool me twice, shame on me._  
 __shank’s nag__ :dart: One’s legs and feet, used for walking; travel by foot. Also “shanks’ nag.” A reference to the shank—the lower leg between the knee and the ankle—and the use of ponies or horses for travel. _My bicycle fell apart three miles away from home, so I had to use shank’s nag to go the rest of the way._  
+__shank<sup>1</sup>__ _n, slang_ A homemade or makeshift cutting or stabbing weapon, especially one fashioned in prison.  
+__shank<sup>2</sup>__ _v, slang_ To stab or cut (someone) with such a weapon.  
+__shantytown__  
 __shed (some) light on (something)__ :three::hammer:  
 __shed a tear__ To cry or weep, especially from grief; to grieve or mourn in general. _Everyone in the room was shedding tears by the end of the ceremony._  
 __shell out__  
+__shellac__ (shellack) __4__ _US, slang_ __a__ To beat. __b__ To defeat decisively.  
 __shift gears__ To quickly or abruptly change what one is doing or discussing.  
 __shifty__ _A shifty shakedown artist._  
 __shill__ __1__ _n_ Someone who promotes or endorses some product, service, event, etc., in an extravagant, misleading, or insincere manner in return for money or some other self-interest. Originally referred to someone who poses as a satisfied customer in order to lure other people into engaging in a swindle or con. _I’m not a shill for their amusement park or anything, I just genuinely think everyone would love going there!_ __2__ _v_ To promote, endorse, or advertise something in such a manner. _I never trust anyone shilling for alternative medicines or miracle cures._  
@@ -4424,8 +4439,11 @@ __shine someone__
 __shirk (one’s) duty__ :dart::two: To avoid, neglect, or evade one’s duty or responsibility.  
 __shit bricks__ To become extremely worried or frightened.  
 __shit creek__  
+__shit sandwitch__ Playful term much like the traditional “stuck between a rock and a hard place.”  
 __shit-heel__ (shitheel)  
+__shitbird__ It’s used in James Ellroy’s novels to describe someone who’s particularly slimy, dishonest, or untrustworthy - the kind of person who’ll do anything to get ahead, regardless of who they hurt or deceive along the way.  
 __shithead__  
+__shitheel__ Oh man, “shitheel” is a doozy - a real gem of vulgarity in Ellroy’s writing. It’s basically a very, very rude way of referring to someone who’s a lowlife, a scoundrel, or just generally a bad person. In Ellroy’s world, it’s often used to describe corrupt cops, sleazy gangsters, or anyone else who’s part of the seedy underworld of crime and corruption.  
 __shitshow__  
 __shitstorm__ _rude slang_ A violent and/or chaotic situation. _The coup has created a shitstorm for everyone in that country._  
 __shoot (one’s) shot__ _slang_ To take the risk of making one’s availability and interest known to others, as to a prospective employer or romantic partner. _I tried shooting my shot with that hot actress when I saw her backstage at the awards show. Yeah, she was not interested._  
@@ -4459,11 +4477,12 @@ __shut (one’s) mouth__
 __shut down__ :three::hammer: _San Antonio shut down Utah for its fourth straight road victory._  
 __shut the front door__ _slang_ An exclamation of surprise or disbelief, used as a minced oath of the vulgar phrase “shut the fuck up.”  
 __shuteye__ _n_ _slang_ :three: (shut-eye) Sleep. (Usually qualified with words like “some,” “a little,” “a bit of,” etc.) _Hey, it’s late. We should catch some shuteye so we’re not exhausted tomorrow._ _I could use about another hour of shut-eye._ _I’m going for some shut-eye._  
-__shy away (from someone or something)__ :two::hammer:  
+__shy away (from someone or something)__ :four::hammer:  
 __shy away__ _v_ :two: __1__ To retreat out of a sense of shyness: _The deer poked its head out from the bushes and then shied away when it saw me._ __2__ To avoid doing something, especially out of caution or anxiety: _The company shied away from giving raises this year._  
 __shy of (something)__ :two::hammer::astonished: _Just shy of its highest mark._  
 __sick and tired of (something)__  
 __sick as a dog__  
+__sick twist__ :four: “Sick twist” is a term that James Ellroy uses in his novels to describe a disturbing or perverted turn of events. It’s used to describe something that is twisted or warped, often in a way that is both unsettling and fascinating.  
 __sick__ _slang_ Excellent; superb. _He did some sick tricks on his skateboard._  
 __side hustle__ :six: Another source of income in addition to one’s primary or full-time job, sometimes one that serves as a creative outlet in contrast with one’s regular employment. _Almost all of the rookie reporters I know have some kind of side hustle to help them supplement their income._  
 __side track__  
@@ -4473,7 +4492,7 @@ __sigh of relief__ A feeling or display of relief that something particularly st
 __sign up__ __1__ To enlist or enroll oneself or someone in something. A noun or pronoun can be used between “sign” and “up.” _My mother signed me up for piano lessons on the weekend._ __2__ To subscribe oneself or someone to something. A noun or pronoun can be used between “sign” and “up.” _If you sign up a friend for the service, you’ll get $20 credit to your account._  
 __silly me__  
 __silver bullet__  
-__silver lining__ The potential for something positive or beneficial to result from a negative situation. Often used in the phrase “every cloud has a silver lining.” (A silver lining on a cloud is an indication that the sun is behind it.) _There could be a silver lining to getting laid off—you might find a job you actually like!_  
+__silver lining__ :two: The potential for something positive or beneficial to result from a negative situation. Often used in the phrase “every cloud has a silver lining.” (A silver lining on a cloud is an indication that the sun is behind it.) _There could be a silver lining to getting laid off—you might find a job you actually like!_  
 __silver spoon__ :two: A metaphor for ample wealth that has been passed down through inheritance. (Used primarily in the phrase “born with a silver spoon in (one’s) mouth.”) _We may both be wealthy now, but I never had a silver spoon growing up. I had nothing when I was young, and all of my fortune is down to my own hard work._  
 __silver surfer__ An elderly person who is a proficient user of the Internet. _My grandmother has become a real silver surfer since we got her new computer hooked up to the Internet. She even keeps in touch with her friends on social media!_  
 __simp__ _slang_ :two: An abbreviation of “simpleton,” meaning a foolish or simple-minded person.  
