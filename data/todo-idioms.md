@@ -108,31 +108,6 @@ __pussyfoot (around)__ To behave in an overly cautious, timid, or non-committal 
 __put (one) off (something)__  
 __put (one) on notice__ To warn or alert one about something. _Boston put their prima donnas on notice._  
 __put (someone or something) out of business__  
-__put (someone or something) to bed__  
-__put (someone) in the picture__ To keep someone informed, aware, or up to date (about something); to involve someone in something.  
-__put (something) on ice__ __2__ To postpone or delay acting on or dealing with something.  
-__put a spoke in (one’s) wheel__  
-__put an end to (something)__  
-__put back__ __2__ To stall, delay, or postpone something until a later time or date. In this usage, a noun or pronoun can be used between “put” and “back.”  
-__put food on the table__  
-__put on (one’s) thinking cap__ To begin thinking or considering very carefully and seriously (about something).  
-__put on a clinic__  
-__put on the brakes__ To slow down, impede, or stop one’s activity or progress.  
-__put out fires__  
-__put the brakes on (someone or something)__ To slow, impede, or stop someone’s or something’s progress or activities.  
-__put the heat on (one)__  
-__put the kibosh on (something)__ To impede, spoil, or prevent something from happening or continuing. _News of unrest in the area really put the kibosh on our plans to vacation there._  
-__put the skids to__  
-__put through the ringer__  
-__put two and two together__  
-__put up a fight__  
-__put up with (someone or something)__ To abide or endure someone or something that one finds unpleasant, inconvenient, or annoying. _I don’t know how you put up with John—he’s such a loudmouth!_  
-__put up with something__  
-__put upon__  
-__putz__ __1__ _n_ _slang_ A stupid, incompetent, or unpleasant person. From Yiddish. _How on earth did those putzes in Washington screw this up so badly?_ __2__ _n_ _vulgar slang_ The penis. From Yiddish. _If he had made decisions with his brain instead of with his putz, maybe his marriage would have survived._  
-__putzo__ :two::hammer:  
-__putzy__ “Putzy” is a term that James Ellroy uses in his novels to describe someone who is incompetent, inept, or otherwise ineffective. It’s a slang term that captures the idea of someone who is struggling to get things done, or who is making a lot of mistakes.  
-__quack__ _n_  
 __Queen of Angels__ :two: It’s a nickname for Los Angeles in James Ellroy’s novels.  
 __quick buck__  
 __quite a (something)__ Used to signify something very significant, exemplary, or impressive.  

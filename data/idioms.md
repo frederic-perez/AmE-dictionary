@@ -4112,35 +4112,52 @@ __put (one’s) money where (one’s) mouth is__ :three::hammer:
 __put (one) on hold__  
 __put (oneself) in (someone’s) shoes__  
 __put (or set) the record straight__ To make things clear, to explain something.  
-__put (someone or something) to bed__ __1__ To help someone, typically a child, prepare for and get into bed at night. _I’ll give you a call after I put the kids to bed._ __2__ To complete something or some initial preparatory phase. _I thought you’d put the proofreading for that edition to bed weeks ago!_ __3__ To stop discussing, thinking about, or focusing on something. _OK, I think we have to agree to disagree. Let’s just put the issue to bed and stop arguing._  
+__put (someone or something) to bed__ :two: __1__ To help someone, typically a child, prepare for and get into bed at night. _I’ll give you a call after I put the kids to bed._ __2__ To complete something or some initial preparatory phase. _I thought you’d put the proofreading for that edition to bed weeks ago!_ __3__ To stop discussing, thinking about, or focusing on something. _OK, I think we have to agree to disagree. Let’s just put the issue to bed and stop arguing._  
 __put (someone or something) to the test__  
+__put (someone) in the picture__ To keep someone informed, aware, or up to date (about something); to involve someone in something.  
 __put (something) on hold__  
+__put (something) on ice__ __2__ To postpone or delay acting on or dealing with something.  
 __put (something) on the back burner__ :two::dart: To establish something as being a low priority; to give something less or little thought or attention; to postpone, suspend, or hold off on doing something. _It has put the needs of farmers on the back burner in favor of its own interests._  
 __put a foot on my mouth__  
 __put a gun to (someone’s) head__ To force someone to do something he or she does not want to do, especially by the use of threats or intimidation (not necessarily with an actual gun).  
-__put back__ __2__ To stall, delay, or postpone something until a later time or date. In this usage, a noun or pronoun can be used between “put” and “back.” _They decided to put back the release date of their war film as a sign of respect to the victims of the attack._  
-__put food on the table__ To earn enough money to provide the basic necessities for oneself and (often) one’s family. _With my hours at work being cut so dramatically, I just don’t know how I’ll be able to put food on the table._  
+__put a spoke in (one’s) wheel__  
+__put an end to (something)__  
+__put back__ :two: __2__ To stall, delay, or postpone something until a later time or date. In this usage, a noun or pronoun can be used between “put” and “back.” _They decided to put back the release date of their war film as a sign of respect to the victims of the attack._  
+__put food on the table__ :two: To earn enough money to provide the basic necessities for oneself and (often) one’s family. _With my hours at work being cut so dramatically, I just don’t know how I’ll be able to put food on the table._  
 __put in (one’) two cents’ worth__ To share one’s opinion or point of view for whatever it may be worth, generally when it is unasked for. _I find Jeff’s husband a bit trying at times. He always insists on putting in his two cents’ worth whether we want his opinion or not!_  
 __put in a good word for someone__  
 __put it there__ :astonished: Shake my hand. As in greeting or in agreement to a deal. _A: “50 dollars is my final offer for the computer.” B: “I wish I could get more for it, but you win. Put it there!”_ _Hey, John, put it there! I haven’t seen you in a donkey’s age!_  
 __put off by someone or something__ :four: Distressed or repelled by someone or something. _I was really put off by your behavior. We were all put off by the unfairness of the rules._  
+__put on (one’s) thinking cap__ To begin thinking or considering very carefully and seriously (about something).  
+__put on a clinic__  
 __put on a show__  
-__put on the brakes__ To slow down, impede, or stop one’s activity or progress. _We had to put on the brakes when we found out investors were pulling out of the company._  
+__put on the brakes__ :two: To slow down, impede, or stop one’s activity or progress. _We had to put on the brakes when we found out investors were pulling out of the company._  
 __put on weight__ To become heavier by gaining muscle mass or fat tissue. _I keep putting on weight, even though I’ve been cutting back on the junk food._  
 __put our heads together__ To discuss or plan something together with other people.  
-__put out fires__  
+__put out fires__ :two::hammer:  
 __put out__ :two::hammer: _Put out the fires._  
 __put someone or something down__  
 __put that demon to rest__  
+__put the brakes on (someone or something)__ To slow, impede, or stop someone’s or something’s progress or activities.  
 __put the finger on (one)__  
 __put the hammer down__ To press down the accelerator (of an automobile) as far as possible; to accelerate to or travel at an automobile’s maximum speed. Primarily heard in US. _It would normally take us three days driving to New York from Colorado, but with my brother putting the hammer down the whole way, we made it in two._  
-__put the kibosh on (something)__ To impede, spoil, or prevent something from happening or continuing. _News of unrest in the area really put the kibosh on our plans to vacation there._ _The manager put the kibosh on our staff party, saying it would cost too much._  
+__put the heat on (one)__  
+__put the kibosh on (something)__ :two: To impede, spoil, or prevent something from happening or continuing. _News of unrest in the area really put the kibosh on our plans to vacation there._ _The manager put the kibosh on our staff party, saying it would cost too much._  
 __put the pedal to the metal__  
+__put the skids to__  
 __put the wind up (someone)__ To make someone very anxious, upset, or frightened.  
+__put through the ringer__  
 __put to the test__ :three::hammer:  
-__put up a fight__ :two::hammer:  
-__put up with (someone or something)__ :nine::m: [:sound: put up with] To endure without complaint: _We had to put up with the inconvenience._ _They don’t put up with bullshit._ _We’re not going to put up with this anymore._ _People put up with it._ _I can put up with the injury._ _She put up with the men in her life because she had to._  
+__put two and two together__  
+__put up a fight__ :three::hammer:  
+__put up with (someone or something)__ :dart::nine::m: [:sound: put up with] To abide or endure someone or something that one finds unpleasant, inconvenient, or annoying. To endure without complaint: _We had to put up with the inconvenience._ _They don’t put up with bullshit._ _We’re not going to put up with this anymore._ _People put up with it._ _I can put up with the injury._ _She put up with the men in her life because she had to._ _I don’t know how you put up with John—he’s such a loudmouth!_  
+__put up with something__  
 __put up__  
+__put upon__  
+__putz__ __1__ _n_ _slang_ A stupid, incompetent, or unpleasant person. From Yiddish. _How on earth did those putzes in Washington screw this up so badly?_ __2__ _n_ _vulgar slang_ The penis. From Yiddish. _If he had made decisions with his brain instead of with his putz, maybe his marriage would have survived._  
+__putzo__ :two::hammer:  
+__putzy__ “Putzy” is a term that James Ellroy uses in his novels to describe someone who is incompetent, inept, or otherwise ineffective. It’s a slang term that captures the idea of someone who is struggling to get things done, or who is making a lot of mistakes.  
+__quack__ _n_  
 __quake like a leaf__ To tremble violently with fear or nervousness. _My brother is so strong and scary-looking that he leaves people quaking like a leaf when he threatens them._ _I was quaking like a leaf when I went up to deliver my speech._  
 __quick-and-dirty__ :two: _mod._ Rapidly and carelessly done.  
 __quid pro quo__ :two::hammer:  
