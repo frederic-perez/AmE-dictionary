@@ -59,7 +59,7 @@ __abecedarian<sup>1</sup>__ _n_ A person who is learning the alphabet or the rud
 __abecedarian<sup>2</sup>__ _adj_ Alphabetically arranged.  
 __aberrant__ _adj_ :two::hammer:  
 __aberration__ _n_ :two: __1__ A deviation from what is typical or normal: _an election that was an aberration from usual state politics._ _Syn_ deviation  
-__abet__ _v_ :six: (abetted, abetting) To help someone do something wrong or illegal.  
+__abet__ _vt_ :seven: /əˈbɛt/ (abetted, abetting) To help someone do something wrong or illegal.  
 __abeyance__ _n_ :five::dart: /uh-BAY-unss/ A state of temporary inactivity. The condition of being temporarily set aside. (The word itself is commonly preceded by the preposition in.) _Syn_ suspension _Every other feeling as it rushed upon him was thrown into abeyance by pity, deep respectful pity, for the man who sat before him._ _The misdemeanor charges are in abeyance while the suspect is being prosecuted for the felony._  
 __abhor__ _v_ :pencil2:  
 __abhorrence__ _n_ Hate coupled with disgust. _Syn_ detestation, execration, loathing, odium, abomination  
@@ -1812,6 +1812,7 @@ __bloat__ _n_ A group of hippos.
 __bloaviate__ _vi_  
 __bloc__ _n_ :eight::pencil2: A group of countries or people with the same political aims. _The Soviet bloc._ _The troubled currency bloc._  
 __block letter__ _n_ __1__ A plain capital letter written or printed unjoined to a following or preceding letter. Block letters (known as printscript, manuscript, print writing or ball and stick in academics) are a sans-serif (or “gothic”) style of writing Latin script in which the letters are individual glyphs, with no joining. _She wrote something in block letters._  
+__blood clot__ _n_  
 __blood count__ _n_ :es: hemograma  
 __blood draw__ _n_ Removal of blood, usually by venipuncture (phlebotomy, venous blood sampling). Common term for blood sampling for laboratory analysis.  
 __blood libel__ _n_ __1__ (Law) _medieval history_ The malicious accusation that Jews used the blood of non-Jews in religious rituals. __2__ (Law) Any false accusation of violence, murder, or blood lust.  
@@ -2275,7 +2276,7 @@ __brood<sup>3</sup>__ _adj_ Kept for breeding: _a brood hen._
 __brooder house__  
 __brooding<sup>1</sup>__ _adj, n_ :nine: When you’re dwelling on something, you’re brooding about it — this can be thoughtful or morbidly obsessed. When you’re brooding, you might be depressed about something you just can’t stop thinking about—like the lead character in Hamlet. Brooding can also mean you’re being extremely thoughtful, contemplative, meditative, musing, reflective, or ruminative — those are all good things. You have to look at the context to see if someone is brooding in a positive or negative way. This is also a word for what chickens and other egg-laying animals do: sitting on eggs to help them hatch.  
 __brooding<sup>2</sup>__ _v_ _I was brooding._  
-__brook__ _vt_ :two: _usually used with a negative_ To put up with; tolerate: _We will brook no further argument._  
+__brook__ _vt_ :three: (usually used with a negative) To put up with; tolerate: _We will brook no further argument._ _I have no sympathy with anyone who will not brook criticism._  
 __Brooklynites__ _n_  
 __broom shrubs__ _n_  
 __broomstick__ _n_  
@@ -4674,7 +4675,7 @@ __decorated__ _adj_ :two::hammer: _A decorated veteran._ _He is one of Seattle�
 __decorous__ _adj_ /DECK-er-us/ Decorous means “marked by propriety and good taste; correct.” A person or thing that is decorous conforms to an approved or conventional standard.  
 __decouple__ _v_  
 __decrease__ _n_ _An abrupt decrease._  
-__decreed__ _v_  
+__decree__ _v_ :two::hammer: /dɪˈkriː/  
 __decrepit__ _adj_ :two::hammer:  
 __decrepitude__ _n_ The quality or condition of being weakened, worn out, impaired, or broken down by old age, illness, or hard use. _Syn_ dilapidation _Despite his sixty years and snow-white hair, his handshake was firmly hearty, and he showed no signs of decrepitude._  
 __decriminalize__ _v_ Make legal. _Syn_ legalize, legitimize  
@@ -5795,6 +5796,7 @@ __eggnog__ _n_ :three: A drink made of milk or cream, sugar, eggs, and flavoring
 __eggs benedict__  
 __egoist__ _n_ A conceited and self-centered person. _Syn_ swellhead _There is nothing in this world that the egoist loves more than himself._  
 __egomaniac__  
+__egotism__ _n_  
 __egotistical__ _adj_ :four: Characteristic of those having an inflated idea of their own importance.  
 __egotists__  
 __egregious__ _adj_ :nine::m: /ih-GREE-juss/ /ih-gree-juhs, -jee-uhs/ Something that is egregious stands out, but not in a good way — it means “really bad or offensive.” If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game. Extraordinary in some bad way; glaring; flagrant: _an egregious mistake; an egregious liar._  
@@ -6266,7 +6268,7 @@ __exigent__ _adj_ /EK-suh-junt/
 __exiguous__ _adj_ :two::hammer:  
 __existential__ _n_ :pencil2:  
 __exodus__ _n_ :three: /EK-suh-duhs/ __1__ _capitalized_ The mainly narrative second book of canonical Jewish and Christian Scripture. __2__ A mass departure. A large scale departure or emigration.  
-__exonerate__ _v_ :six: (exonerating) __1__ To clear from accusation, guilt, or blame. Pronounce not guilty of criminal charges. _Syn_ acquit, exculpate, discharge, clear _After the long trial, the suspect was exonerated of the murder charges, much to his relief._ __2__ To relieve from an obligation, duty, or task.  
+__exonerate__ _vt_ :seven: (exonerating) __1__ To clear from accusation, guilt, or blame. Pronounce not guilty of criminal charges. _Syn_ acquit, exculpate, discharge, clear _After the long trial, the suspect was exonerated of the murder charges, much to his relief._ __2__ To relieve from an obligation, duty, or task.  
 __exorbitant__ _adj_ /ig-ZOR-bi-tuhnt/ [:scroll: From Latin exorbitare (to go out of the track), from ex- (out) + orbita (wheel track), from orbis (circle, disk).] Greatly exceeding what’s considered reasonable, especially in cost or price.  
 __exoteric__ _adj_ :three: __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning “designed for or understood by the specially initiated alone.”  
 __expansive__ _adj_ :five::hammer: _An expansive craft beer list._ _He became expansive and revealed some facts._  
@@ -6333,7 +6335,7 @@ __eye socket__ _n_ (Anatomy) The nontechnical name for orbit. :es: órbita del o
 __eye__ _v_ _Kyiv eyes global peace summit this year._  
 __eye-popping__ _adj_ :three: Amazingly impressive; suggestive of the flashing of lightning. _Rob Nail displayed eye-popping videos of new robots._ _Eye-popping croissants._  
 __eye-watering__ _adj_ :two: Painful or extremely unpleasant: _eye-watering electricity bills._  
-__eyeball<sup>1</sup>__ _n_ :two:  
+__eyeball<sup>1</sup>__ _n_ :three::hammer:  
 __eyeball<sup>2</sup>__ _v_ _slang_ To stare at.  
 __eyeblack__ _n_ :two: Any of various dark pigments applied under the eyes especially by athletes to reduce solar glare. _He displayed a homophobic slur on his eyeblack._  
 __eyed__ _v_ :two::hammer: _Pay hikes eyed nonregular workers._  
@@ -6430,7 +6432,7 @@ __famed__ _adj_ :two: Something that’s famed is very well-known, or famous. _Y
 __familiar__ _adj_ :two::hammer: _I’m not familiar with it._ _No, I’m not familiar._  
 __family member__ _n_  
 __family plot__ _n_ _She will be laid to rest in the family plot at Bethesda Cemetery._  
-__famine__ _n_ :two::hammer: _It could be feasst or famine._  
+__famine__ _n_ :three::hammer: /ˈfæm ɪn/ _It could be feasst or famine._  
 __famish__ _v_  
 __famished__ _adj_ :two: Very hungry.  
 __fan letter__ _n_  
@@ -7553,6 +7555,7 @@ __genetic algorithm__ _n_
 __genial__ _adj_ :four::astonished: /JEEN-yul/ __1__ Cheerful, easy-going, and warm in manner or behavior. Someone described as genial is cheerful and pleasant; a thing described as genial suggests or expresses friendliness and cheer. __2__ Pleasantly warm, so as to give life, growth, or health: _the genial sunshine._  
 __genie__ _n_ :two::mega:/jē′nē/:hammer:  
 __genius__ _n_ /JEEN-yus/ __1__ A genius is a person who is exceptionally smart or talented. _She’s a genius at riddles._ __2__ Genius also refers to great natural ability, or to a part of something that makes it unusually good or valuable. _The sheer genius of their theory was not immediately recognized._ _He’s widely admired for his comedic genius._  
+__genocide__ _n_ /ˈdʒɛn əˌsaɪd/  
 __genoise__ _n_ A light, buttery cake with a texture similar to sponge cake.  
 __genteel__ _adj_ :three::hammer: /jen-TEEL/  
 __gentile__ _n_ (often Gentile) __1__ A person who is not Jewish.  
@@ -7624,7 +7627,7 @@ __gills__ _n_ __1__ The paired respiratory organ of fish and some amphibians, by
 __gilt-framed__  
 __gimbal__ _n_ _A sensor on a pivoting gimbal._  
 __gimcrackery__  
-__gimmick__ _n_ :three::hammer: (gimmicks) _No “get in the door” gimmicks._  
+__gimmick__ _n_ :four::hammer: (gimmicks) _No “get in the door” gimmicks._  
 __gimmicky__ _adj_ :two::hammer:  
 __gimpy__ _adj_ :two::hammer: _A gimpy angle._ _Gimpy gait._  
 __gin and tonic__ _n_ :pencil2:  
@@ -8704,7 +8707,7 @@ __ho__
 __ho-hum__ _adj informal_ :four: So lacking in interest as to cause mental weariness; dull; mediocre. _Syn_ boring, deadening, irksome, tedious, tiresome, wearisome, dull, slow _Lectures on human psychology always pique my interest, but this ho-hum speaker put me right to sleep._ _A ho-hum speaker who couldn’t capture the attention of the conventioneers._ _A ho-hum album._ _The Panthers won again. 9-0. Ho-hum._  
 __hoagie__ _n_ :three: /ˈhəʊɡɪ/ (hoagy) A sandwich made with a long, narrow bread roll. _Syn_ submarine sandwich  
 __hoard__ _v_  
-__hoarding__ _n_  
+__hoarding__ _n_ :two::hammer:  
 __hoarsely__  
 __hoary__ _adj_ :three::hammer:  
 __hobble<sup>1</sup>__ _v_ :nine::m: (hobbled, hobbling) __1__ To fetter by tying the legs; to restrict (a horse) with hobbles. __2__ To walk lame, or unevenly. _He hobbled on a sore ankle._ __3__ _(figuratively)_ To move roughly or irregularly. _A few shops were hobbled in 2015._  
@@ -9155,6 +9158,7 @@ __immortalize__ _v_ Make famous forever.
 __immutable__ _adj_ /ih-MYOO-tuh-bul/  
 __imp__ _n_ :two::hammer: _Its imp genius._  
 __impact__ _n_ _Sterling struggled to make an impact in the second half._  
+__impaction__ _n_ _Oesophageal food bolus impaction is a common medical emergency._  
 __impairment__ _n_ :two::hammer:  
 __impale__ _v_ Pierce with a sharp stake or point. _Syn_ spike, transfix _My mother always warned me not to run with scissors, lest I fall and impale myself on the blades._  
 __impaneled__ _v_  
@@ -10265,6 +10269,7 @@ __layup__ _n_ :three::hammer: (layups)
 __laziness__ _n_ :pencil2:  
 __leaching__ _v_ _Corrosive water leads to leaching of lead in some oñder homes where plumbing contains lead pipes or lead solder._  
 __lead solder__  
+__lead-up__ _n_  
 __leaden__ _adj_ :two::hammer: _Days of rain and leaden cold._  
 __leaderboard__ _n_  
 __leadoff__ _n_ :two::hammer:  
@@ -10954,6 +10959,7 @@ __mano a mano<sup>2</sup>__ _adj_ :two: Being or suggestive of a face-to-face en
 __mano a mano<sup>3</sup>__ _adv_ In direct competition: _an industry gearing up to go mano a mano with a rival._  
 __manoeuvre__ _n_ _The Addison Lean manoeuvre._  
 __manor__ _n_ :two::hammer: _A medieval manor house._  
+__manosphere__ _n_  
 __manscaping__ _n_ The aesthetic grooming of a man’s bodily hair.  
 __manslaughter__ _n_ :two::hammer:  
 __manta__ _n_  
@@ -12336,7 +12342,7 @@ __offshore__
 __oft__ _adv_ :three::hammer: _The oft-hated SAT._  
 __oft-shouting-sermon__  
 __often__ _adv_ :mute:[of~~t~~en]  
-__oftentimes__ _adv_ :five: Frequently; repeatedly.  
+__oftentimes__ _adv_ :six: Frequently; repeatedly.  
 __ogle__ _v_ :three::hammer: (ogled)  
 __ogre__ _n_ :two::hammer:  
 __Ohioans__  
@@ -14800,7 +14806,7 @@ __reconvene__ _v_ :eight: To gather, call together, or summon again, esp for a f
 __recooled__  
 __recorder__ _n_ :astonished: __3__ (Music) A flute with eight finger holes and a whistlelike mouthpiece. :es: flauta dulce  
 __recording__ _n_ _When I call, I get a recording. There is never anyone in._  
-__recount__ _v_  
+__recount__ _vt_ :two: /rɪˈkaʊnt/ To tell the story or details of; narrate.  
 __recounting__ _n_ :two::hammer: _His recounting._  
 __recoup__ _v_ :seven: To recoup is a kind of recovery: If you lost some money but then made that amount back, you recouped your loss.  
 __recourse__ _n_  
@@ -15036,7 +15042,7 @@ __reset__ _v_ :three::mega::hammer:
 __reset<sup>1</sup>__ _n_ :mega::two::hammer:  
 __reset<sup>2</sup>__ _v_ :mega::two::hammer:  
 __reshuffle<sup>1</sup>__ _vt_  
-__reshuffle<sup>2</sup>__ _n_  
+__reshuffle<sup>2</sup>__ _n_ :two::hammer:  
 __residency__ _n_ :two::hammer: __3__ _(Music, other)_ A regular series of concerts by a band or singer at one venue. _The Beautiful Anonymous residency on Feb 14; tickets availeble._  
 __resident__ _n_  
 __resign__ _v_ :mute:[resi~~g~~n]  
@@ -15176,7 +15182,7 @@ __ribbon candy__
 __ribbon-cutting ceremony__ _n_  
 __ribeye__ _n_ :two: /ˈrɪbˌaɪ/ _(Cookery)_ A cut of beef from the animal’s rib section.  
 __Rice Belt__ _n_ The Rice Belt of the United States includes Arkansas, Louisiana, Mississippi and Texas, four southern U.S. states that grow a significant portion of the nation’s rice crop.  
-__riches__ _pl n_ :nine::m: Use the word riches when you’re talking about wealth, including money, treasures, and expensive belongings. Most people who buy lottery tickets dream of winning riches. Occasionally, someone who’s born into poverty will grow up to earn riches through hard work and a lot of luck — but more often, people inherit their riches from wealthy relatives. You can also use riches in a figurative way, for something bountiful or profuse: “Let’s go to the farmers market and see what riches are available!” Riches was originally richesse, a singular word that was misinterpreted as being plural. _Cultural riches._  
+__riches__ _pl n_ :nine::m: /ˈrɪtʃ ɪz/ Use the word riches when you’re talking about wealth, including money, treasures, and expensive belongings. Most people who buy lottery tickets dream of winning riches. Occasionally, someone who’s born into poverty will grow up to earn riches through hard work and a lot of luck — but more often, people inherit their riches from wealthy relatives. You can also use riches in a figurative way, for something bountiful or profuse: “Let’s go to the farmers market and see what riches are available!” Riches was originally richesse, a singular word that was misinterpreted as being plural. _Cultural riches._  
 __rickets__ _n_ :two: A bone disease of children marked by bone demineralization and defective bone growth, caused usually by a deficiency of or an impaired metabolism of vitamin D. _Syn_ rachitis :es: raquitismo  
 __rickety__ _adj_ :nine: __1__ (of a structure, piece of furniture, etc) Likely to collapse or break; shaky. _Rickety chair._ _Pete pointed to some rickety-looking weather-beaten boards._ _It was a rickety plan at best._ __2__ Feeble with age or illness; infirm. __3__ (Pathology) relating to, resembling, or afflicted with rickets. :es: raquítico  
 __ricking__ _v_ _Ricking their fingers for blood six or more times a day._  
@@ -17154,7 +17160,7 @@ __sparklers__ _n_
 __sparred__ _v_  
 __spars__ _n_  
 __spastic__  
-__spat__ _n_ :seven::hammer: _This spat demonstrated that Rogozin is trying to prove that he’s set to revamping the industry._ _Public spat._ _In a spat over an arrest._  
+__spat__ _n_ :eight::hammer: _This spat demonstrated that Rogozin is trying to prove that he’s set to revamping the industry._ _Public spat._ _In a spat over an arrest._  
 __spate__ _n_ :nine: /speɪt/ A large number of similar things coming in quick succession. _Syn_ series, succession, run _A spate af hate speech._ _A spate of cross-border attacks._ _A warm spate of blood ran from his nostrils._  
 __spatiotemporal__ _adj_  
 __spatter__ _n_  
@@ -17167,7 +17173,8 @@ __speakeasy__ _n_ :five::hammer: :es: taberna clandestina
 __spear chucker__  
 __spear side__ _n_ /SPEER syd/ The male side or branch of a family (opposed to _distaff side_).  
 __speargun__  
-__spearhead__ _vt_ :nine: (spearheaded, spearheading) Lead (an attack or movement). To be the leader of (a movement, for example). _He’s spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
+__spearhead<sup>1</sup>__ _n_  
+__spearhead<sup>2</sup>__ _vt_ :nine: (spearheaded, spearheading) Lead (an attack or movement). To be the leader of (a movement, for example). _He’s spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
 __special-team__  
 __specially__ _adv_ :two: Specifically, in a special manner. _A can of Coke rested in the specially made holder._ _Specialty apparel sellers._  
 __specialty__ _n_ :four::hammer: _Specialty doctor._  
@@ -17601,12 +17608,15 @@ __steppe__ _n_ /stɛp/
 __stepper__ _n_ A professional dancer. _Syn_ hoofer  
 __steppes__ _n_  
 __stepping stone__ _n_ :three::hammer:  
+__stepwise__ _adj_ :two::hammer: _An optimal stepwise upgrade strategy._  
+__stereophony__  
 __sterling silver__ _n_ __1__ An alloy of 92.5 percent silver with copper or another metal. __2__ Objects made of this alloy. _A sterling silver ship’s lantern, symbolizing a beacon of hope._  
 __sterling__ _adj_ :six::hammer: _A sterling job._ _A sterling example._ _Sterling stories._  
 __stern__ _n_ :four::hammer: _The ship’s stern._ :es: popa  
+__sternutation__  
 __sternwheel__ _n_ A paddle wheel at the stern of a vessel. _Sternwheel steamboat tug._  
 __stethoscope__ _n_  
-__Stetson__ _n_ A trademark for a hat having a high crown and wide brim.  
+__Stetson__ _n_ :two: A trademark for a hat having a high crown and wide brim.  
 __stevedore__ _n_  
 __stew-bums__ _n_  
 __stew<sup>1</sup>__ _n_ :four::hammer: _A stew of drugs and gang crime._ _It captures the stew of hate._  
