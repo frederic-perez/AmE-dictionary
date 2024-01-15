@@ -3667,7 +3667,7 @@ __commensurate__ _adj_ :seven: /kuh-MEN-suh-rut/ __1__ Proportionate. _The job p
 __commentary__  
 __commentator__ _n_  
 __commingled__ _v_ :three::hammer:  
-__commiserate__ _v_ :nine::hammer: /kəˈmɪzəˌreɪt/  
+__commiserate__ _v_ :nine: /kəˈmɪzəˌreɪt/ (when: _intr_, usually foll by _with_) To feel or express sympathy or compassion (for).  
 __commissariat__ _n_ A stock or supply of foods. _Syn_ provisions, viands, victuals, provender  
 __commission<sup>1</sup>__ _v_ :astonished::nine::m: (commissioned) __1__ To grant a military commission to. __2a__ To grant authority for (something to be made or done); place an order for: _commission a new symphony for the festival._ _An outdoor exhibit of commissioned site-specific sculptures._ __b__ To authorize or engage (someone to do something): _commission an architect to design a building._ __3__ To put (a ship) into active service.  
 __commission<sup>2</sup>__ _n_  
@@ -4743,7 +4743,7 @@ __deft__ _adj_ :four: __1__ Neatly skilful and quick in one’s movements. __2__
 __deftly__ _adv_ _Helen was deftly applying a poultice to his arm._  
 __deftness__ _n_  
 __defund__ _v_ :four: To withdraw funding from. To stop the flow of funds to.  
-__defuse__ _v_ :nine::hammer: (defuses, defusing)  
+__defuse__ _vt_ :nine: __1__ To remove the fuse from (an explosive device). __2__ To make less dangerous, tense, or hostile: _a diplomatic move that defused the international crisis._  
 __degenerative__ _adj_ /dɪˈdʒɛnəˌreɪtɪv/ _(of a disease or condition)_ Getting steadily worse.  
 __deglutition__ _n_ The act or process of swallowing.  
 __dehumanize__ _vt_ :two::hammer:  
@@ -9465,7 +9465,7 @@ __instant message__ _n_
 __instating__  
 __instigate__ _v_ Provoke or stir up. _Syn_ incite  
 __instigator__ _n_  
-__instill__ _v_ :nine::hammer: (_BrE_ instil; instilled) _She instilled an enduring sense of family._ _This idea is instilled in kids._  
+__instill__ _vt_ :nine: (_BrE_ instil; instilled) Inculcate, introduce; insinuate; infuse slowly into the mind or feelings: _instill a sense of fairness in a child._ _She instilled an enduring sense of family._ _This idea is instilled in kids._  
 __institute__ _v_  
 __institutionalize__ _v_ :two::hammer:  
 __instrumental__ _adj_ :four::hammer: /ˌɪn strəˈmɛn tl/ _He has been instrumental in a number of European research projects._  
