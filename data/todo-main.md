@@ -1,25 +1,49 @@
+__abyss__ _n_ :mega: /əˈbɪs/  
+__agonist__ _n_ /ˈæg ə nɪst/  
 __anaphora__ _n_  
+__athlete’s foot__ _n_ A fungal infection causing the skin between the toes to itch, crack, and peel.  
+__badlands__ _n pl_ /ˈbædˌlændz/ A barren area in which soft rock strata are eroded into varied, fantastic forms.  
 __bedlam__ _n_ /ˈbɛdləm/  
+__beefy__ _adj_  
+__beet__ _n_ :es: remolacha  
+__bicker<sup>1</sup>__ _vi_  
+__bicker<sup>2</sup>__ _n_ An angry quarrel; a squabble. A petty squabble. A peevish quarrel. A quarrel about petty points. _Syn_ pettifoggery, spat, squabble, tiff, bickering, fuss  
+__bland__  
+__bruise__ _n_ :es: cardenal, magulladura, magullar, moretón, morado  
 __capacitate__ _vt_ /kuh-PAS-i-tayt/ To make capable.  
 __devilish<sup>1</sup>__ _adj_ __1__ Of, resembling, or befitting a devil; diabolic; fiendish. __2__ Excessive; extreme: _devilish heat._  
 __devilish<sup>2</sup>__ _adv_ Extremely; very.  
 __dishevel__ _vt_  
+__dismiss__ _v_ _Military_ An order to end an activity or give permission to disperse.  
+__eclipse__ _n_ /ɪˈklɪps/  
+__eleven__ _n_ :mega: /ɪˈlɛv ən/  
 __epiphany__ _n_ /ɪˈpɪf ə ni/  
+__eye__ _vt_ __1__ To look at: _eyed the passing crowd with indifference._ __2__ To watch closely: _eyed the shark’s movements._ __3__ To supply with an eye.  
 __gambol__ _v_ To leap about playfully. _Syn_ frisk, frolic, lark, rollick, romp, cavort _Then he ran back to the shed pulling the playful young horse, who wanted to gambol all over the yard, by the rein._  
 __gargoyle__ _n_ /GAR-goy-ul/  
+__hail__ _vt_ __1b__ To greet or acclaim enthusiastically: _The crowds hailed the boxing champion._ _Figure’s CEO hails new breakthrough in using AI to train robots._  
 __mandible__ _n_  
 __meandering__ _adj_  
+__mind-blowing__ _adj_  
 __nigh__  
 __ominous__ _adj_ /AH-muh-nus/ Something described as ominous hints or suggests that something bad is coming or is going to happen.  
 __one up__ _adj_ Having gained an advantage, esp. over a rival.  
+__paragliding__ _n_ The sport or activity of flying by means of a paraglider.  
+__pellet__ _n_ /ˈpɛl ɪt/  
 __pernicious__  
 __pestilence__ _n_ A usually fatal epidemic disease, especially bubonic plague. _Syn_ plague  
 __raconteur__ _n_ /ra-kahn-TER/ A raconteur is someone who excels in telling anecdotes.  
 __retronym__ _n_ /RET-roh-nim/  
 __revivalist__ _n_ A preacher of the Christian gospel. _Syn_ evangelist, gospeller  
 __salubrious__  
+__screencap<sup>1</sup>__ _n informal_ A screenshot.  
+__screencap<sup>2</sup>__ _v informal_ To take a screenshot.  
+__seven__ _n_ :mega: /ˈsɛvən/  
 __sloven__ _n_ One who is habitually careless in personal appearance or work. _Syn_ slob, pig  
 __sophistry__ _n_ A plausible but misleading or fallacious argument. _Syn_ sophism, sophistication  
+__spat__ _n_ __1__ A brief quarrel.  
+__special__ _adj_ /ˈspɛʃəl/  
+__squall__ _n_ __1__ A loud, harsh cry. __2__ A brief sudden violent windstorm, often accompanied by rain or snow. __3__ _informal_ A brief commotion.  
 __stick__ _v_ :two::hammer:  
 __stickup__ _n slang_ A robbery, especially at gunpoint.  
 __stiffen__ _v_ :two::hammer: /ˈstɪfən/  
@@ -128,7 +152,7 @@ __wheelhouse__
 __wherewithal<sup>1</sup>__ _n_ That with which to do something; means or supplies for the purpose or need, esp. money: _the wherewithal to pay my rent._  
 __wherewithal<sup>2</sup>__ _adv_ By means of which; out of which.  
 __whip up__  
-__whiplash__ _n_  
+__whiplash__ _n_ :two::hammer:  
 __white-collar__ _adj_ Of, relating to, or constituting the class of salaried employees whose duties do not call for the wearing of work clothes or protective clothing.  
 __whitlow__ _n_ A purulent infection at the end of a finger or toe in the area surrounding the nail. :astonished: _Syn_ felon  
 __wisteria__ _n_  
