@@ -98,31 +98,6 @@ __piece out__
 __piece something out__  
 __pile up__ _The bad news keeps piling up for Elon Musk._  
 __pillow talk__ Intimate conversations between two people in a romantic relationship when they are in bed together.  
-__pull it out__ In general, the phrase “pull it out” is often used to describe a situation where someone is able to find or discover something, or find an answer, solution, or idea that they had not previously thought of.  
-__punk__ _n_  
-__puppet master__  
-__puppy love__  
-__pure and simple__ Essentially or fundamentally so, without exaggeration or elaboration. _I was a political casualty, pure and simple._  
-__push up the daisies__  
-__pussyfoot (around)__ To behave in an overly cautious, timid, or non-committal manner.  
-__put (one) off (something)__  
-__put (one) on notice__ To warn or alert one about something. _Boston put their prima donnas on notice._  
-__put (someone or something) out of business__  
-__Queen of Angels__ :two: It’s a nickname for Los Angeles in James Ellroy’s novels.  
-__quick buck__  
-__quite a (something)__ Used to signify something very significant, exemplary, or impressive.  
-__rabbit__ _v_ __1__ To run away quickly, usually to escape from something or someone. __2__ To talk excessively or rapidly.  
-__radio silence__  
-__rag on (one)__  
-__ragtop__ _n_ A convertible car.  
-__rain check__  
-__rainbows and unicorns__ Innocent, carefree happiness. Often used in negative constructions to indicate the opposite.  
-__raise the bar__ To raise the standards of quality that are expected of or required for something.  
-__raise the stakes__  
-__rake in (something)__ :two: To acquire or accumulate an abundance of something, especially money.  
-__ramp up__ :three: To increase. A noun or pronoun can be used between “ramp” and “up.” _Ever since that break-in, they’ve really ramped up security at the office._  
-__rank and file__  
-__rat fink__  
 __rat race__ :two::hammer:  
 __ratchet up__  
 __rave about (something)__ To give wildly enthusiastic praise for something.  

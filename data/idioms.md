@@ -4079,6 +4079,7 @@ __pull a face (at someone)__ To make a grimacing or humorously distorted facial 
 __pull a prank (on someone)__ To carry out a trick, deception, or practical joke (against someone). _It turns out that the supposed alien visitors that people had been seeing were just a bunch of teenagers pulling a prank on the town._ _I’ve got a great plan to pull a prank on the school for April Fools’ Day._  
 __pull a U-ie__ :two: To make a U-turn. Primarily heard in US, Australia.  
 __pull an all-nighter__ :two: To remain awake all night long, especially so as to study or to complete something. _I was a bit of a procrastinator in college, so I tended to pull a lot of all-nighters._  
+__pull it out__ In general, the phrase “pull it out” is often used to describe a situation where someone is able to find or discover something, or find an answer, solution, or idea that they had not previously thought of.  
 __pull over__ _On that summer road trip, we pulled over every night to get out and stretch._  
 __pull rank__ _He pulled rank and told the pilot to shut up._  
 __pull someone’s leg__ :three: To make a playful attempt to fool or deceive someone. _You’re pulling my leg._ _Just pulling your leg, Mom._  
@@ -4093,15 +4094,19 @@ __punch out__ To record that one has left one’s workplace at a certain time. _
 __punch the (time) clock__ __1__ (of an employee) Clock in or out. __2__ Be employed in a conventional job with regular hours.  
 __punch up__  
 __punk out__ _slang_ To abandon, give up, or refuse to do something out of cowardice. _Tom was supposed to keep a look out while I robbed the liquor store, but he punked out at the last minute._  
-__puppet master__ Someone who uses their actions or words to control someone or something of lesser will, also known as pulling the strings of someone or something.  
-__puppy love__  
+__punk__ _n_  
+__puppet master__ :two: Someone who uses their actions or words to control someone or something of lesser will, also known as pulling the strings of someone or something.  
+__puppy love__ :two::hammer:  
+__pure and simple__ Essentially or fundamentally so, without exaggeration or elaboration. _I was a political casualty, pure and simple._  
 __push (one’s) buttons__  
 __push back__ :two::hammer:  
 __push the envelope__ :three: To expand on, exceed, or test the limits of the established norm or standard. _It’s a natural stage for most teenagers to push the envelope of their parents’ rules._ _Pushing the envelope of contemporary Japanese cuisine._  
+__push up the daisies__  
 __push your buttons__  
 __push<sup>1</sup>__ To hype something or someone; to pressure something or someone. _The clerk was pushing one brand so hard that I finally bought it._  
 __pushing up (the) daisies__ Dead and buried. (Usually in the future tense.) _I’ll be pushing up daisies before this problem is solved._ _If you talk to me like that again, you’ll be pushing up the daisies._  
 __pushing up the daisies__ Dead and buried.  
+__pussyfoot (around)__ To behave in an overly cautious, timid, or non-committal manner.  
 __put (one’s) back up__ [:scroll: This idiom refers to the way cats arch their backs when they are angry.] To be or become angry, hostile, defensive, defiant, or irritable, or to instill such a feeling in someone else. _John put his back up when his parents brought up the subject of college._ _Election season always puts my dad’s back up._  
 __put (one’s) finger on (something)__ :three::hammer:  
 __put (one’s) foot in (one’s) mouth__ :three: To unintentionally say something foolish, tactless, or offensive.  
@@ -4109,9 +4114,12 @@ __put (one’s) hands together (for someone or something)__ To applaud (someone 
 __put (one’s) head down__  
 __put (one’s) heart and soul into (something)__ To do something with the utmost of one’s energy, enthusiasm, and determination. _We’ve put our hearts and souls into developing a truly revolutionary way of staying in touch with loved ones._  
 __put (one’s) money where (one’s) mouth is__ :three::hammer:  
+__put (one) off (something)__  
 __put (one) on hold__  
+__put (one) on notice__ To warn or alert one about something. _Boston put their prima donnas on notice._  
 __put (oneself) in (someone’s) shoes__  
 __put (or set) the record straight__ To make things clear, to explain something.  
+__put (someone or something) out of business__  
 __put (someone or something) to bed__ :two: __1__ To help someone, typically a child, prepare for and get into bed at night. _I’ll give you a call after I put the kids to bed._ __2__ To complete something or some initial preparatory phase. _I thought you’d put the proofreading for that edition to bed weeks ago!_ __3__ To stop discussing, thinking about, or focusing on something. _OK, I think we have to agree to disagree. Let’s just put the issue to bed and stop arguing._  
 __put (someone or something) to the test__  
 __put (someone) in the picture__ To keep someone informed, aware, or up to date (about something); to involve someone in something.  
@@ -4159,10 +4167,13 @@ __putzo__ :two::hammer:
 __putzy__ “Putzy” is a term that James Ellroy uses in his novels to describe someone who is incompetent, inept, or otherwise ineffective. It’s a slang term that captures the idea of someone who is struggling to get things done, or who is making a lot of mistakes.  
 __quack__ _n_  
 __quake like a leaf__ To tremble violently with fear or nervousness. _My brother is so strong and scary-looking that he leaves people quaking like a leaf when he threatens them._ _I was quaking like a leaf when I went up to deliver my speech._  
+__Queen of Angels__ :two: It’s a nickname for Los Angeles in James Ellroy’s novels.  
+__quick buck__  
 __quick-and-dirty__ :two: _mod._ Rapidly and carelessly done.  
 __quid pro quo__ :two::hammer:  
 __quiet firing__ An informal term for the practice in which employers make workplace conditions worse for employees with the intent of driving some of them to quit. The term implies that this is done secretly or at least subtly enough to make it appear unintentional.  
 __quiet quitting__ :two::hammer: /kwahy-it kwit-ing/  
+__quite a (something)__ Used to signify something very significant, exemplary, or impressive.  
 __quite a few__ (quite a lot, quite a bit, quite a number) _Quite a few of them came to the party._ :es: bastante  
 __quite a lot__  
 __quite quitting__  
@@ -4170,23 +4181,31 @@ __quite something__
 __quitter__ One who gives up, especially before or without putting forth the maximum amount of effort possible. _The sport is too hard for you, is it? Well, good riddance—we don’t need a quitter like you on our team._  
 __quote, unquote__ :two::hammer:  
 __rabbit hole__ :five::hammer: _We fell into the poop rabbit hole again in this episode._ _We are falling down the rabbit hole._  
+__rabbit__ _v_ __1__ To run away quickly, usually to escape from something or someone. __2__ To talk excessively or rapidly.  
 __rabble-rouser__ :two: Someone who excites or provokes in others an intense emotional reaction or call to action; someone who tries to stir up trouble among other people. The term is always used in a negative way. _How can you listen to that fool? He’s just a rabble-rouser trying to sway mindless followers so that they join his cause._  
 __race against the clock__  
 __race against time__ To do something very quickly.  
 __rack up__ :two::hammer:  
 __rad__ :two::hammer:  
+__radio silence__  
+__rag on (one)__  
 __rags to riches__ Characterized by a rise from poverty to great or exceptional wealth. Hyphenated if used as a modifier before a noun. _My uncle’s is a true rags-to-riches story. He grew up without a penny, but through sheer determination, he founded his own company and is now one of the wealthiest men in the state._  
+__ragtop__ _n_ A convertible car.  
 __rah-rah__  
-__rain check__ :dart: __1__ A substitute ticket or pass to attend an event that has been postponed for a later date. _They emailed us a rain check for the concert after the guitarist broke his hand in a rock-climbing accident._ __2__ By extension, a promise to take up an offer that one has initially declined. _I’m sorry, but I’ll have to take a rain check for dinner this Saturday. Would next weekend work for you?_  
+__rain check__ :dart::two: __1__ A substitute ticket or pass to attend an event that has been postponed for a later date. _They emailed us a rain check for the concert after the guitarist broke his hand in a rock-climbing accident._ __2__ By extension, a promise to take up an offer that one has initially declined. _I’m sorry, but I’ll have to take a rain check for dinner this Saturday. Would next weekend work for you?_  
 __rain or shine__ _Market open rain or shine._  
-__rainbows and unicorns__ :dart: Innocent, carefree happiness. Often used in negative constructions to indicate the opposite. _I know it’s ugly having to see someone you cared about betray you like that, but life isn’t all rainbows and unicorns._  
+__rainbows and unicorns__ :dart::two: Innocent, carefree happiness. Often used in negative constructions to indicate the opposite. _I know it’s ugly having to see someone you cared about betray you like that, but life isn’t all rainbows and unicorns._  
 __raise a red flag__  
-__raise the bar__ :two::hammer:  
+__raise the bar__ :three: To raise the standards of quality that are expected of or required for something.  
+__raise the stakes__  
+__rake in (something)__ :two: To acquire or accumulate an abundance of something, especially money.  
 __ram into (someone or something)__  
-__ramp up__ :two::hammer:  
+__ramp up__ :five: To increase. A noun or pronoun can be used between “ramp” and “up.” _Ever since that break-in, they’ve really ramped up security at the office._  
+__rank and file__  
 __rapid fire__ _Start with rapid fire decisions._  
 __rarer than hens’ teeth__ Incredibly scarce or rare; extremely difficult or impossible to find.  
 __raring to go__ Very eager, excited, or anxious to go somewhere or begin doing something. _The kids were already in the car and raring to go._  
+__rat fink__  
 __rat out__  
 __rat race__ :two: [:scroll: The term started out as a literal racing of rats (earliest use 1783). Then it was used as military slang (1931) to refer to planes or ships chasing each other or racing. Eventually the term evolved into its current sense. Imagine a rat running through a laboratory maze to find another piece of cheese or an employee hoping to climb the next rung of the corporate ladder while sacrificing personal health and peace and you’d have a good idea of the term rat race.] A repetitive competitive activity, such as the modern working life in which one constantly struggles to attain wealth, status, etc. __1__ A fierce competition for success, wealth, or power. _The company’s environment felt like a rat race—employees were constantly sabotaging each other to climb the corporate ladder._ __2__ :astonished: A busy, tiring routine. _Cathy was tired of the rat race and knew she needed to get a less stressful job._  
 __ratchet-mouth__ _n_ (motor-mouth) Someone who talks incessantly. (Also a term of address.) _Tell that ratchet-mouth to shut up! Hey, motor-mouth! Don’t you ever stop?_  
