@@ -98,31 +98,6 @@ __tenet__ _n_ /ˈtɛnɪt; ˈtiːnɪt/
 __tense__ _n_ Grammatical tense refers to the conjugation of a verb to reflect its place in time—that is, when the action occurred.  
 __tentative__ _adj_  
 __terraform__ _v_  
-__terrazzo__  
-__terrific__ _adj_ _The traffic is terrific._  
-__terse__ _adj_ Brief and to the point; effectively concise. _Syn_ laconic, curt, crisp  
-__test-driven__  
-__testament__ _n_  
-__testy__ _adj_  
-__thank yous__ _n pl_ It’s a plural form of “thank you,” used to express gratitude to multiple people or for multiple things. _I want to give my thank yous to everyone who helped me with this project._  
-__that much__ _adv_ To a certain degree.  
-__thence__ _adv_  
-__thicket__  
-__thistle__ _n_ :es: cardo  
-__thrash__ _v_  
-__thresher__ _n_ _A mental thresher for separating wheat from chaff._  
-__threshold__ _n_ /THRESH-hohld/ A threshold is a piece of wood, metal, or stone that lies across the base of a doorway. In figurative use, threshold refers to the point or level at which something begins or changes.  
-__throwaway__ _adj_ _Throwaway one-liners._  
-__thrust__ _v_  
-__thunderstruck__ _adj_ Affected with sudden astonishment or amazement. _I was thunderstruck._  
-__tidbit__ _n_ A choice morsel, as of gossip or food. _Syn_ choice morsel, titbit  
-__tiddlywinks__ _n_ /ˈtɪdlɪˌwɪŋks/ _functioning as singular_ A game in which players try to flick discs of plastic into a cup by pressing them sharply on the side with other larger discs.  
-__time ball__ _n_  
-__ting<sup>1</sup>__ _n_ A high metallic sound such as that made by a small bell.  
-__ting<sup>2</sup>__ _vi_ To give forth a light metallic sound.  
-__titan__ _adj_  
-__unclear__ _adj_  
-__veto__ _vt_  
 __visceral__ _adj_ /VISS-uh-rul/  
 __vixen__ _n_ __2a__ A woman regarded as sexually alluring.  
 __vocal__ _adj_ __4__ Tending to express oneself often or freely; outspoken.  

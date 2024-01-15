@@ -18531,16 +18531,20 @@ __terra cotta__ _n_ :pencil2:
 __terrace<sup>1</sup>__ _n_ A level shelf of land interrupting a declivity (with steep slopes above and below) :camera: _Rice terrace._  
 __terrace<sup>2</sup>__ _v_ Make into terraces as for cultivation. _The Incas terraced their mountainous land._  
 __terrapin__  
+__terrazzo__  
 __terrestrial<sup>1</sup>__ _adj_  
 __terrestrial<sup>2</sup>__ _n_  
+__terrific__ _adj_ _The traffic is terrific._  
 __terry-cloth__ _n, adj_ :five::hammer: (terry cloth) _A blue terry-cloth pullover._ _A terry cloth belt._  
-__terse__ _adj_ :two: Brief and to the point; effectively concise.  
+__terse__ _adj_ :three: Brief and to the point; effectively concise. _Syn_ laconic, curt, crisp  
 __tesseract__ _n_ (Mathematics) A cube inside another cube.  
+__test-driven__  
+__testament__ _n_  
 __testbed__ _n_ :four::hammer:  
 __tester bed__ _n_ :two::hammer:  
 __testimonial__ _n_  
 __testosterone__ _n_  
-__testy__  
+__testy__ _adj_ :two::hammer:  
 __tether<sup>1</sup>__ _n_ _Soft bite chewy tether._  
 __tether<sup>2</sup>__ _v_ (tethered) To restrain or secure with a tether.  
 __tethering ring__ _n_  
@@ -18555,13 +18559,14 @@ __thalassaemia__ _n_ An inherited form of anemia caused by faulty synthesis of h
 __thali__ _n_  
 __thane__ _v_  
 __thang__ _n slang_ :two::hammer:  
+__thank yous__ _n pl_ It’s a plural form of “thank you,” used to express gratitude to multiple people or for multiple things. _I want to give my thank yous to everyone who helped me with this project._  
 __thank-you note__ _n_  
 __thank-yous__ _n_  
 __thankless__ _adj_ Ungrateful.  
 __Thanksgiving Day__ _n_  
 __that being said__  
 __That being said,__  
-__that much__ _adv_ To a certain degree. _I’ll tell you that much._  
+__that much__ _adv_ :two: To a certain degree. _I’ll tell you that much._  
 __that will do__  
 __that’s the breaks__  
 __thaumaturge__ _n_ /THO-muh-tuhrj/ [:scroll: From Greek thaumat- (wonder, miracle) + -urgy (work)] __1__ A miracle worker. __2__ A magician. _Syn_ necromancer, sorcerer, thaumaturgist, wizard, magician  
@@ -18587,6 +18592,7 @@ __theatregoer__ _n_
 __thecracy__  
 __theism__ _n_ Belief in the existence of a god or gods, especially belief in a personal God as creator and ruler of the world.  
 __theist__ _adj_  
+__thence__ _adv_  
 __theocracy__  
 __theosophy__  
 __there is no denying__  
@@ -18602,7 +18608,7 @@ __thespian<sup>1</sup>__ _adj_ :two::hammer:
 __thespian<sup>2</sup>__ _n_  
 __thew__ _n_  
 __thick accent__ _n_ Heavy foreign or regional pronunciation. _Arnold’s accent is getting thicker._  
-__thicket__ _n_ :seven::hammer: (thickets) _The thicket of racist laws._  
+__thicket__ _n_ :eight::hammer: (thickets) _The thicket of racist laws._  
 __thieve__ _v_ :astonished: To steal.  
 __thigh__ _n_ :mute:[thi~~gh~~]  
 __thimble__ _n_ __1__ (Knitting & Sewing) A cap of metal, plastic, etc, used to protect the end of the finger when sewing.  
@@ -18619,7 +18625,7 @@ __third estate__ _n_ The third of the traditional social classes; the common peo
 __third rail__ _n_ :two: /thurd rayl/ __1__ A topic believed to be too controversial or charged to discuss. __2__ A rail that runs near a railroad track to supply high-voltage power to an electric train.  
 __this and that__  
 __this time around__ _phr_ :dart::hammer: :es: esta vez  
-__thistle__ _n_ :mute:[this~~t~~le] :es: cardo  
+__thistle__ _n_ :two::hammer::mute:[this~~t~~le] :es: cardo  
 __thistledown__ _n_ The mature, silky pappus of a thistle.  
 __thither__ _adv_ To or toward that place; in that direction. _Syn_ there _Let us stroll thither, and examine the matter nearer._  
 __thobbing__  
@@ -18648,6 +18654,8 @@ __three-hour__ _adj_ :pencil2: _A three-hour drive._
 __three-wheeler__ _n_  
 __threequel__ _n_ _There’s the original, the sequel, and the threequel._  
 __thresh__ _v_  
+__thresher__ _n_ _A mental thresher for separating wheat from chaff._  
+__threshold__ _n_ /THRESH-hohld/ A threshold is a piece of wood, metal, or stone that lies across the base of a doorway. In figurative use, threshold refers to the point or level at which something begins or changes.  
 __thrift shop__ _n_ A shop which sells used goods (especially clothes) at low prices. A shop that sells secondhand articles and especially clothes and is often run for charitable purposes.  
 __thrift store__ _n_ (thrift shop) A shop that sells used articles, especially clothing, as to benefit a charitable organization.  
 __thrift__ _n_ _Thrift store._  
@@ -18672,12 +18680,13 @@ __throw down<sup>2</sup>__ _n_
 __throw off__ _phr v_ To quickly remove a piece of clothing.  
 __throw out the red meat__  
 __throw out__ _v_ __1__ To give off; emit: _searchlights throwing out powerful beams._ __2__ To reject or discard: _The committee threw out her proposal._ __3__ To get rid of as useless: _threw out the garbage._ __4__ _informal_ To offer, as a suggestion or plan: _They sat around throwing out names of people they might want to invite to the party._ __5__ To force someone to leave a place or group.  
+__throwaway__ _adj_ _Throwaway one-liners._  
 __throwback__ _n_ :four::hammer: _Throwback uniform._ _A distinct throwback to the poster covers of the early magazines._  
 __throwers__ _n_  
 __throws__ _n_ :two: __2__ _informal_ A chance, venture, or try. __3__ _(Games, other than specified)_ An act or result of throwing dice.  
 __thru__  
 __thrum__ _v_ :three::hammer:  
-__thrust<sup>1</sup>__ _v_ :two::hammer:  
+__thrust<sup>1</sup>__ _v_ :three::hammer:  
 __thrust<sup>2</sup>__ _n_ :four::hammer: _A thrust of cognitive effort._  
 __thud<sup>1</sup>__ _n_ :two::hammer:  
 __thud<sup>2</sup>__ _v_ (thudding)  
@@ -18695,7 +18704,7 @@ __thunderheads__
 __thundering__ _adj_ _informal_ Very great, remarkable, or unusual. _A thundering water sculpture._  
 __thunderous__ _adj_  
 __thunderstone__ _n_  
-__thunderstruck__ _adj_ As if struck dumb with astonishment and surprise.  
+__thunderstruck__ _adj_ :two: As if struck dumb with astonishment and surprise. _I was thunderstruck._  
 __thunk<sup>1</sup>__ _n_  
 __thunk<sup>2</sup>__ _v_ _A thunking sound._  
 __thunked__ _v_  
@@ -18724,7 +18733,8 @@ __tickling<sup>2</sup>__ _adj_ _Tickling laughter._
 __ticklish__ _adj_ :four: If you are ticklish, you quickly feel uncomfortable when someone lightly touches your skin to make you laugh.  
 __ticky-tacky__ _adj_ _The ticky-tacky plan._  
 __Tico__ _n_ A native or inhabitant of Costa Rica.  
-__tidbit__ _n_ :dart::nine::m::pencil2: /ˈtɪdˌbɪt/ __1__ A delicate bit or morsel of food. _He fed the cat tidbits._ __2__ A choice or pleasing bit of anything, as gossip.  
+__tidbit__ _n_ :dart::nine::m::pencil2: /ˈtɪdˌbɪt/ (titbit) __1__ A delicate bit or morsel of food. _He fed the cat tidbits._ __2__ A choice or pleasing bit of anything, as gossip.  
+__tiddlywinks__ _n_ /ˈtɪdlɪˌwɪŋks/ (functioning as singular) A game in which players try to flick discs of plastic into a cup by pressing them sharply on the side with other larger discs.  
 __tidy up__ _phr v_ :three: To put something in order; to clean something. _I need to tidy the place up._  
 __tidy<sup>1</sup>__ _adj_ _A tidy plan._  
 __tidy<sup>2</sup>__ _v_ _She tidied her desk._  
@@ -18756,6 +18766,7 @@ __tiller__ _n_ :three: One that tills land: _a tiller of soil._
 __Tilt-A-Whirl__ _n_  
 __tiltyard__  
 __timbrology__ _n_ /tim-BROL-uh-jee/ [:scroll: From French timbre (stamp) + -logy (study).] The collecting or study of postage stamps and related matter.  
+__time ball__ _n_  
 __time capsule__ _n_ :five::hammer:  
 __time frame__  
 __time line__ _n_ (timeline) _Can it be done in that time line?_  
@@ -18784,6 +18795,8 @@ __tinderbox__
 __tinderdry__  
 __tine__ _n_ :three::hammer: (tines)  
 __tinfoil hat__  
+__ting<sup>1</sup>__ _n_ A high metallic sound such as that made by a small bell.  
+__ting<sup>2</sup>__ _vi_ To give forth a light metallic sound.  
 __tinge<sup>1</sup>__ _n_ :two::hammer:  
 __tinge<sup>2</sup>__ _v_  
 __tingle<sup>1</sup>__ _v_ :six: (tingled, tingling) Cause a stinging or tingling sensation. _He had been duped by her._  
@@ -18814,6 +18827,7 @@ __tirade__ _n_ :nine: A long angry or violent speech, usually of a censorious or
 __tire__ _v_ :two::hammer: _I use a revolving ball to tire the conscious mind into a simple hypnosis._ _To break up the peloton and make teams chase and tire._  
 __tiresome__ _adj_ _Please stop being so tiresome!_ :es: ¡Deja de ser tan pesada, por favor!  
 __Tirolean__  
+__titan__ _adj_  
 __Titanesque__ _adj_  
 __titanic__ _adj_ /tye-TAN-ik/ Having great magnitude, force, or power.  
 __titanism__ _n_ /TY-tuh-niz-uhm/ [:scroll: After Titan, any of a family of giant gods in Greek mythology. Titans, under the leadership of Cronus, one of the Titans, overthrew their father Uranus and ruled themselves. Eventually, Cronus’s son, Zeus, rebelled against his father and defeated the Titans. ] A spirit of nonconformity, rebelliousness, or revolt, against authority, convention, etc.  
@@ -19434,6 +19448,7 @@ __unburdened__
 __uncheesy__ _adj_  
 __Unchurched Belt__ _n_ The Unchurched Belt is the antithesis of the Bible Belt in that it is defined by a (culturally perceived) lack of a predominant religion. It’s centered around the Pacific Northwest in Oregon and Washington.  
 __Uncle Sam__ _n_ :three::dart: An extension of the common short form of the _United States_ (of America), _US_. A personification of the United States government.  
+__unclear__ _adj_  
 __unclubbable__ _adj_ (unclubable) Having or showing a disinclination for social activity. _Syn_ unsociable  
 __uncompromising__ _adj_ Unwilling to grant concessions or negotiate; inflexible: _took an uncompromising stance during the peace talks._  
 __uncongenial__  
@@ -19901,11 +19916,10 @@ __vested__ _adj_ _Vested hostilities._
 __vestibule__ _n_ :two::mega::hammer:  
 __vestige__ _n_ :three: /VESS-tij/ (vestiges) A trace, mark, or visible sign left by something lost or vanished. _The seconds ticked by, but the team still had a vestige of hope._ _The ruins remain as vestiges of the Roman occupation of Britain._  
 __vesting__ _n_ The granting to an employee of the right to pension benefits despite retirement before the usual time or age. _The vesting date._  
-__vet__ _vt_ :astonished: __2__ To subject to thorough examination or evaluation: _vet a manuscript._  
+__vet<sup>1</sup>__ _vt_ :five::astonished: (vetted, vetting) __1__ To subject to veterinary evaluation, examination, medication, or surgery. __2__ :dart: To appraise, verify, or check for accuracy, authenticity, etc. To subject to thorough examination or evaluation: _An expert vetted the manuscript before publication._  
+__vet<sup>2</sup>__ _vi_ To work as a veterinarian.  
 __Veterans Day__ _n_ While “Veterans’ Day” does encompass multiple veterans, that spelling is incorrect according to the Department of Veterans Affairs. In the name of the holiday, the word veterans acts as an _attributive noun_, which means that it behaves like an adjective even though it is a noun. We use attributive nouns all the time without realizing it. For example, if you said “Last week, I went to the Cowboys game,” it is not grammatically imperative to include an apostrophe at the end of Cowboys, because Cowboys acts as an attributive noun.  
-__veto__ _v_  
-__vetted__ _v_ :three::hammer:  
-__vetting__  
+__veto__ _vt_ :two::hammer:  
 __vex__ _v_ :three::hammer: (vexed)  
 __vexatious__ _adj_ :two: Causing irritation or annoyance. Causing or creating vexation; annoying: _vexatious delays._ _Syn_ annoying, bothersome, galling, irritating, nettlesome, pesky, pestering, plaguey, teasing, pestiferous  
 __vexillology__ _n_ The study of flags.  
