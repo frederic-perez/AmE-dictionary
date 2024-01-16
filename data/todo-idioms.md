@@ -1,13 +1,27 @@
 __(one) figures (that)__ One presumes or anticipates (that); one reckons or thinks (that).  
 __a cog in the machine__  
+__a standstill__ A period in which something is stopped or halted.  
 __at best__  
 __back of (one’s) mind__  
+__boo-boo__  
+__break ranks__  
+__brutal__ __1__ :astonished: _informal_ Cringe-inducingly unpleasant. __2__ _mod_ Excellent; powerful. _Man, what a brutal tune!_  
+__by the same token__  
+__come on__  
+__crackdown__  
+__game-changer__  
+__hand back__  
+__hard-pressed to (do something)__ Struggling to do or accomplish something, especially because it seems impossible. _You’d be hard-pressed to find a better guy than Bill._ _Frankly, if Taylor Swift told us to buy a “Signature Oval Casserole,” we’d be hard-pressed not to._  
+__haters gonna hate__ (haters will be heater) People who dislike something or someone are going to continue to do so no matter what. It’s used to suggest that it’s impossible to please everyone and that it’s better to focus on what makes you happy than to worry about those who don’t approve.  
+__homie__  
 __hyped (up)__  
 __in a manner of speaking__ :dart: In a way; in a sense; so to speak. _He was a fixer, in a manner of speaking. A man who could get things done._  
 __in full swing__  
 __lace up__  
 __lead the way__  
-__make the rounds__  
+__make the rounds__ :two::hammer:  
+__make waves__  
+__milk it__ To try to get as much of something from someone else, especially sympathy, kindness, respect, etc.  
 __movers and shakers__  
 __nab__ :two: To catch and arrest someone. Often used in passive constructions.  
 __navigate__ :three: To carefully and skillfully manage or deal with something that is complex, challenging, or difficult. _Navigating difficult relationships._ _Navigating life._  
@@ -31,6 +45,7 @@ __no shit__
 __noblesse obligé__ (noblesse oblige) Altruistic, honorable behavior or deeds that are an assumed responsibility of people of nobility or, more broadly, economic privilege. Taken from French, literally meaning “nobility obligates.”  
 __non sequitur__  
 __nook and cranny__ Every possible place or part of something, down to the smallest ones.  
+__north of (some number)__ Beyond some number; exceeding some number. _Apple’s App Store grossed north of $70 Billion in 2022._  
 __nosh__ :two: __2__ _v_ _slang_ To munch on some food, especially a small meal or light snack.  
 __not know (one) from Adam__  
 __not know (one) from Eve__  
@@ -69,6 +84,7 @@ __one and the same__ Identical; the very same. _For ancient civilizations, astro
 __one man’s trash is another man’s treasure__  
 __one size fits all__ Supposedly well-suited to any situation, as of a product, method, solution, etc. Often hyphenated. _We must move away from a “one size fits all” approach._  
 __one-liner__ _informal_ A very short, witty joke, remark, or riposte.  
+__only fair__ The right thing. _It’s only fair to tell him the truth._  
 __oomph__ _slang_ Power, vigor, or energy.  
 __open question__  
 __open season (on someone or something)__  
@@ -98,6 +114,8 @@ __piece out__
 __piece something out__  
 __pile up__ _The bad news keeps piling up for Elon Musk._  
 __pillow talk__ Intimate conversations between two people in a romantic relationship when they are in bed together.  
+__put forth__  
+__ramp up__ _The country needs to ramp up its CCTA program to meet demand._  
 __rat race__ :two::hammer:  
 __ratchet up__  
 __rave about (something)__ To give wildly enthusiastic praise for something.  
@@ -128,9 +146,11 @@ __rub it in__
 __rub off on (someone)__ _I’m trying hard to not let his stress rub off on me._  
 __rub someone wrong__  
 __ruckus__ A large, uproarious commotion.  
+__rule of law__  
 __rumble on__ To continue at a low but consistent level or degree, especially when no clear conclusion or resolution seems imminent or likely. Said especially of some argument, complaint, debate, discussion, etc. _The issue has been rumbling on in the background of our industry for nearly 10 years now, but we’re still no closer to figuring out a solution to it._  
 __rumor mill__  
 __run late__ To be behind schedule; to be a bit late. Typically used in the continuous tense.  
+__running water__ :dart: Water that travels through plumbing and is able to be taken directly from a faucet.  
 __safe and sound__ Unharmed and whole or healthy.  
 __safety net__  
 __sally__ _v_ In James Ellroy’s novels, the verb “sally” means to venture out or to go forth, often into some kind of danger or uncertainty.  
@@ -176,7 +196,9 @@ __so to speak__: two::hammer:
 __so-so__  
 __sock__ _informal_ __1__ _n_ A sharp, forceful blow. _He gave me a sock in the arm when I called him a wuss._ __2__ _v_ To deliver a sharp, forceful blow. _Talk about my mother like that again, and I’ll sock you in the jaw!_  
 __something of a (something)__ Having a lot of qualities like or associated with some particular thing or type of person.  
+__sorry not sorry__ _slang_ A defiant expression of one’s lack of contrition or regret.  
 __soul searching__ :three::hammer:  
+__sound off (about something)__  
 __speak with a forked tongue__  
 __spew out__  
 __spill over__ __2__ To go beyond the borders or parameters of something and into something else, especially due to growing in size or scope. _It’s hard to contain violence to just one neighborhood, you know. It’s only a matter of time until it spills over into our part of town too._  
@@ -223,7 +245,9 @@ __take the bull by the horns__
 __take the high road__ To choose the most noble, ethical, or diplomatic course or method, especially after or in the face of negativity or ill treatment. _Strive to always take the high road when dealing with others, even if they’ve treated you unfairly in the past. Life has a habit of rewarding those who learn to turn the other cheek._  
 __talk out (of) (one’s) ass__  
 __talk the talk__  
+__team up (with one)__  
 __tease apart__ “Tease apart” is an idiomatic expression that means to carefully analyze something in order to understand the different components or aspects of it. It’s like trying to untangle a ball of yarn to figure out what each individual strand is made up of. _A clear causal connection between drug use and schizophrenia has been difficult to tease apart._  
+__teem with (someone or something)__  
 __tell me something I don’t know__  
 __ten-spot__ _slang_ A ten-dollar bill or a sum of ten dollars. Primarily heard in US. _This restaurant is an incredibly good value. For just a ten-spot you can get an appetizer, an entrée, and a dessert!_  
 __the (hand)writing on the wall__ :two::hammer:  
