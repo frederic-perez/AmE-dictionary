@@ -98,31 +98,6 @@ __tenet__ _n_ /ˈtɛnɪt; ˈtiːnɪt/
 __tense__ _n_ Grammatical tense refers to the conjugation of a verb to reflect its place in time—that is, when the action occurred.  
 __tentative__ _adj_  
 __terraform__ _v_  
-__visceral__ _adj_ /VISS-uh-rul/  
-__vixen__ _n_ __2a__ A woman regarded as sexually alluring.  
-__vocal__ _adj_ __4__ Tending to express oneself often or freely; outspoken.  
-__walkout__ _n_ :four: __1__ A labor strike.  
-__walrus mustache__ _n_ A bushy, drooping mustache.  
-__wanderlust__ _n_  
-__wanly__  
-__wanton__  
-__warrant__ _v_  
-__wartime__ _n_ :pencil2:  
-__washstand__ _n_  
-__wattle__ _n_  
-__waver__ _v_  
-__waxing__ _v_  
-__wayward__  
-__weaponize__  
-__weasel<sup>1</sup>__ _n_ :es: comadreja  
-__weasel<sup>2</sup>__ _vi_  
-__weather__ _vt_ __3__ To come through (something) safely; survive: _weather a crisis._  
-__weeping__ _adj_ :astonished: __1__ Tearful. __2__ Dripping or oozing liquid. __3__ Having slender, drooping branches. _Weeping willow._  
-__wellbeing__ _n_ :pencil2:  
-__welt__ _n_  
-__welter__ _n_ _A welter of objects._  
-__werewolf__ _n_ /WAIR-woolf/  
-__wharfage__ _n_ _Syn_ pier, dock  
 __wheelhouse__  
 __wherewithal<sup>1</sup>__ _n_ That with which to do something; means or supplies for the purpose or need, esp. money: _the wherewithal to pay my rent._  
 __wherewithal<sup>2</sup>__ _adv_ By means of which; out of which.  

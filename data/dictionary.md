@@ -19975,7 +19975,7 @@ __vis-à-vis<sup>1</sup>__ _prep_ __1__ In relation to; regarding. __2__ Face to
 __vis-à-vis<sup>2</sup>__ _adv_ Face to face; opposite.  
 __vis-à-vis<sup>3</sup>__ _adj_ Face to face; opposite.  
 __visage__ _n_ :two::mega: __1__ The face or facial expression of a person; countenance. __2__ Appearance; aspect: _the bleak visage of winter._  
-__visceral__ _adj_ :two::hammer: /VIS-uhr-uhl/ _Visceral reaction._  
+__visceral__ _adj_ :three::hammer: /VIS-uhr-uhl/ /VISS-uh-rul/ _Visceral reaction._  
 __viscount__ _n_ :mega:  
 __viscus__ _n_ :astonished: Singular of viscera. A main organ that is situated inside the body. _Syn_ internal organ  
 __vise__ _n_ :two::hammer:  
@@ -19996,9 +19996,10 @@ __vivacious__ _adj_ Full of animation and spirit; lively: _a charming and vivaci
 __vivacity__ _n_  
 __vivarium__ _n_ A place, such as an enclosure or facility, used for keeping living animals for observation or research.  
 __vivid__ _adj_  
+__vixen__ _n_ __2a__ A woman regarded as sexually alluring.  
 __vizier__ _n_ :two::hammer:  
 __vocab__  
-__vocal<sup>1</sup>__ _adj_ :five:::hammer: _Critics often are the most vocal._  
+__vocal<sup>1</sup>__ _adj_ :six:::hammer: __4__ Tending to express oneself often or freely; outspoken. _Critics often are the most vocal._  
 __vocal<sup>2</sup>__ _n_ :two::hammer:  
 __vocation__ _n_ /voh-KAY-shun/  
 __vociferous__ _adj_ :two::hammer: /vəʊˈsɪfərəs/ /voh-SIF-uh-rus/  
@@ -20091,7 +20092,7 @@ __walk<sup>2</sup>__ _n_ :mute:[wa~~l~~k]
 __walkabout__  
 __walkaway__ _n_ An easy victory.  
 __walking trail__ _n_ :two::hammer: _Many airports are upping their game, adding walking trails._  
-__walkout__ _n_ :four: __1__ A strike by workers. __2__ The act of leaving or being absent from a meeting, esp. as an expression of protest. _The walkout at the United Nations by all the Middle Eastern delegates._  
+__walkout__ _n_ :eight: __1__ A labor strike. A strike by workers. __2__ The act of leaving or being absent from a meeting, esp. as an expression of protest. _The walkout at the United Nations by all the Middle Eastern delegates._  
 __walkup__ _n_ (walkups) __1__ An apartment house or office building with no elevator. __2__ An apartment or office in a building with no elevator.  
 __wall clock time__ _n_  
 __wall__ _n_ :es: I’d put them up against a wall and shoot them. _Yo los llevaría a todos al paredón._  
@@ -20101,21 +20102,22 @@ __walleye__ _n_ _Walleye fishing._
 __wallflower__ _n_ :three: /WAL-flou-uhr/ __1__ Someone who does not mingle at a social event, such as a party, dance, etc. __2__ A person or an organization that is forced to stay at the sidelines of some activity.  
 __wallop__ _v_ _informal_ :five: (walloped) To beat soundly; strike or hit very hard. _Syn_ whack, wham, whop _They walloped the back of his head with a stick._ _The storm was aimed to wallop Washington, D.C., today._ :es: golpear  
 __wallow__ _v_ :nine::m: __1__ _(chiefly of large mammals)_ Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ _(of a person)_ Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself) _They tend to wallow in their sorrow._ _Don’t wallow in despair._  
+__walrus mustache__ _n_ A bushy, drooping mustache.  
 __wamble__ _v_ Move unsteadily or with a weaving or rolling motion. _As John wambled into the kitchen for his morning coffee, his head pounding and stomach reeling, he made a silent vow never to get drunk again._  
 __wan__ _adj_ :four::hammer: _A wan reception._  
 __wand__ _n_  
 __wander__ _v_ :two::hammer: _Let’s wander slowly through the fields, the fields of joy._  
-__wanderlust__ _n_ :four: Very strong or irresistible impulse to travel. _Syn_ itchy feet _His wanderlust would not allow him to stay long in one spot._  
+__wanderlust__ _n_ :five: Very strong or irresistible impulse to travel. _Syn_ itchy feet _His wanderlust would not allow him to stay long in one spot._  
 __wanderwort__ _n_ A loanword that has spread to many different languages, often through trade or the adoption of foreign cultural practices.  
 __wane__ _v_ :six::hammer: (waning) _The waning hours._ _Protection from two doses of vaccine wanes within six months._ _Covid-19 vaccination: evidence of waning immunity is overstated._  
 __wangle__ _v_ /WANG-gul/ __1__ To get (something) by trickery or persuasion. _He managed to wangle his way into the party._ __2__ To adjust or manipulate for personal or fraudulent ends. _They wangled me into pleading guilty._  
 __wanker__ _n_  
-__wanly__ _adv_ :two: In a weak or pale or languid manner. _He nodded a little wanly._ _She droppedand egg on the floor and looked at it wanly._  
+__wanly__ _adv_ :three: In a weak or pale or languid manner. _He nodded a little wanly._ _She droppedand egg on the floor and looked at it wanly._  
 __wannabe__ _adj, n_  
 __want__ _n_ _A time of deep social anger and want._  
 __wanting<sup>1</sup>__ _adj_ __1__ Absent; lacking: _What is wanting is a real understanding of the issue._ __2__ Not measuring up to standards or expectations: _found his performance wanting._  
 __wanting<sup>2</sup>__ _prep_ __1__ Without; missing: _a shirt wanting a button._ __2__ Minus; less: _an hour wanting 15 minutes._  
-__wanton<sup>1</sup>__ _adj_ :eight: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ _The army inflicted wanton damage in order to provoke._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
+__wanton<sup>1</sup>__ _adj_ :nine: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ _The army inflicted wanton damage in order to provoke._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
 __wanton<sup>2</sup>__ _v_  
 __war correspondent__ _n_ A journalist who reports on a war from the scene of action. _Our journalists are not experienced war correspondents._  
 __war criminal__ _n_  
@@ -20139,9 +20141,10 @@ __warmer__ _n_ _Fragance warmer._
 __warmonger__ _n_ A person who advocates war or warlike policies. _Syn_ militarist  
 __warmongering__ _n_  
 __warrant<sup>1</sup>__ _n_ :two: If you watch cop shows, you know that a warrant is something police need to get into your house — a permission slip from a judge. It’s a noun! It’s a verb! It’s a word that warrants our attention! As a noun, it’s the piece of paper they show you through the keyhole during an investigation. It’s also a reason for doing something, or a promise (think of the warranty on your new car, the promise that it’ll work for a certain amount of time).  
-__warrant<sup>2</sup>__ _v_ :six: As a verb, it means to make something seem reasonable or necessary, such when the ticking suitcase warrants bringing in the bomb squad, or when the teenager’s sneaking in late again warrants a stricter curfew. _The situation warranted it._  
+__warrant<sup>2</sup>__ _v_ :seven: As a verb, it means to make something seem reasonable or necessary, such when the ticking suitcase warrants bringing in the bomb squad, or when the teenager’s sneaking in late again warrants a stricter curfew. _The situation warranted it._  
 __warren__ _n_ :two::hammer: _A warren of hares._ _It was like a rabbit warren._  
 __Warsaw__ _n_ :mega:  
+__wartime__ _n_ :pencil2:  
 __wary__ _adj_ :two::hammer: _He is wary of the situation._  
 __wasabi__ _n_  
 __wash out__ _phr v_ To wash the inside of something.  
@@ -20152,6 +20155,7 @@ __washed-up__ _adj_ If a person or an organization is washed-up, they will never
 __washing line__ _n_  
 __Washingtonians__  
 __washroom__ _n_  
+__washstand__ _n_  
 __washtub__  
 __washwoman__  
 __waspie__ _n_ A tight-waisted corset.  
@@ -20187,11 +20191,11 @@ __waterpark__
 __watershed__ _n_ :four::hammer: _A watershed moment._ _Dignataries recognized the watershed moment of his passing._  
 __waterspout__ _n_  
 __waterway__  
-__wattles__ _n_ _The hens had red combs, wattles, and earlobes._  
+__wattle__ _n_ :two::hammer: _The hens had red combs, wattles, and earlobes._  
 __wave goodbye__ _n_ A motion of the hand used to say goodbye. _A kiss and a wave goodbye._ _Waving goodbye to the paper lab book._  
-__waver__ _vi_ :four::hammer: _He was wavering on whether to support fellow Republican Donald Trump for president._  
+__waver__ _vi_ :five::hammer: _He was wavering on whether to support fellow Republican Donald Trump for president._  
 __wavering__ _adj_ Uncertain in purpose or action. _A wavering statement._  
-__wax__ _v_ :three::hammer: _Moon waxing and waning._ _Religious intolerance waxed._  
+__wax__ _v_ :four::hammer: _Moon waxing and waning._ _Religious intolerance waxed._  
 __waylay__ _v_  
 __wayposts__  
 __wayside__ _n_ :three::hammer:  
@@ -20203,13 +20207,13 @@ __weal__ _n_ :two: /WEEL/ Weal is a somewhat old-fashioned word that refers to �
 __wealth__ _n_ :five::dart::hammer: _It creates a wealth of fresh energy._ _A wealth of information._ _They were furnished with a wealth of new information._ _A wealth of new data._ _A wealth of untapped data resources._  
 __wean off__ _phr v_ To slowly stop a dependency on something.  
 __wean__ _v_ :nine::m: (weaned, weaning) __1__ To accustom (the young of a mammal) to take nourishment other than by suckling. :es: destetar __2__ To detach from that to which one is strongly habituated or devoted: _She weaned herself from cigarettes._ __3__ To accustom to or familiarize with something from, or as if from, childhood. Often used with _on_. _A brilliant student weaned on the classics._  
-__weaponize__ _v_ :eight::hammer:  
+__weaponize__ _v_ :nine::hammer:  
 __wearily__  
 __weary__ _adj_ :three::hammer:  
-__weasel<sup>1</sup>__ _n_ :dart: __1__ Any of various carnivorous mammals of the genus _Mustela_. __2__ A person regarded as sneaky or treacherous.  
-__weasel<sup>2</sup>__ _v_ To use evasive or deliberately vague language. _Example weasel words include ‘Processor’, ‘Manager’, and ‘Super’._  
+__weasel<sup>1</sup>__ _n_ :dart::two: __1__ Any of various carnivorous mammals of the genus _Mustela_. :es: comadreja __2__ A person regarded as sneaky or treacherous.  
+__weasel<sup>2</sup>__ _vi_ :two: To use evasive or deliberately vague language. _Example weasel words include ‘Processor’, ‘Manager’, and ‘Super’._  
 __weather vane__ _n_ :two: /WETH-uhr vayn/ __1__ A device having a pointer rotating on a vertical spindle, used to indicate the direction of the wind. __2__ Someone or something constantly changing.  
-__weather__ _v_ :four::hammer: (weathering)  
+__weather__ _vt_ :five::hammer: (weathering) __3__ To come through (something) safely; survive: _weather a crisis._  
 __weathered__ _adj_  
 __weave<sup>1</sup>__ _n_  
 __weave<sup>2</sup>__ _v_ :three::hammer: (weaving) _He was weaving through traffic._ _It is important to weave your keywords into a compelling story._  
@@ -20233,6 +20237,7 @@ __weedeater__
 __weeding__ _n_ The removal of weeds. _Keep going until you get into the weeding and organizing of focus that make up the next stage._  
 __weekend__ _n_  
 __weeklong__ _adj_ _A weeklong seminar._  
+__weeping__ _adj_ :astonished: __1__ Tearful. __2__ Dripping or oozing liquid. __3__ Having slender, drooping branches. _Weeping willow._  
 __weevil__ _n_ :four::hammer: _Weevil worms._  
 __weigh in__ _v_  
 __weigh up__ _phr v_ To calculate, to estimate.  
@@ -20252,7 +20257,7 @@ __well-nigh__ _adv_ Almost. _A task that is well-nigh impossible._
 __well-off__ _adj_  
 __well-read__ _adj_ :three: Someone who is well-read has read many books and has a lot of knowledge.  
 __well-rounded__ _adj_ :five::hammer:  
-__wellbeing__ _n_  
+__wellbeing__ _n_ :two::hammer::pencil2:  
 __wellhead__  
 __welling up__  
 __welling<sup>1</sup>__ _n_ :two::hammer: _Rob felt a welling of affection._  
@@ -20261,14 +20266,14 @@ __wellspring__ _n_ :two: __1__ The source of a stream, spring, etc.; fountainhea
 __Welsh__ _n_ :two: __1__ The people of Wales.  
 __welsh__ _v_ _informal_ :two: (welch) __1__ To swindle a person by not paying a debt or wager: welsh on a bet. __2__ To fail to fulfill an obligation.  
 __welsher__ _n_  
-__welt__ _n_ :three::hammer:  
+__welt__ _n_ :four::hammer:  
 __welted__  
-__welter__ _n_ :six: A confused multitude of things. A confused mass; a jumble. _Syn_ clutter, jumble, mare’s nest, muddle, smother _Surrounded by a welter of papers and magazines, Susan began work on her scrapbook._ _A welter of data._ _A welter of chaos._ _The welter of different versions._ _A welter of ice._  
+__welter__ _n_ :seven: A confused multitude of things. A confused mass; a jumble. _Syn_ clutter, jumble, mare’s nest, muddle, smother _Surrounded by a welter of papers and magazines, Susan began work on her scrapbook._ _A welter of data._ _A welter of chaos._ _The welter of different versions._ _A welter of ice._ _A welter of objects._  
 __welterweight__  
 __welts__ _n_ :four::hammer: _A lot of the boys had bumpy welts of acne._  
 __wen__ _n_ :camera::two::hammer:  
 __wend__ _v_ :six: /wɛnd/ (wending) __1__ To direct one’s course. To move or travel slowly somewhere. _Syn_ travel _Hikers wend along the marked trails to the top of the mountain, which provides a panoramic view of the area towns._ _Leo wended his way home through the wet streets._ _She had to wend her way through the crowd._ __2__ To proceed on. To proceed or go. _Syn_ meander, make one’s way, wind one’s way _The legal battle wends its way through the federal appeals process._  
-__werewolf__ _n_ :two::hammer: :es: hombre lobo  
+__werewolf__ _n_ :three::hammer: /WAIR-woolf/ :es: hombre lobo  
 __wet a line__  
 __wet bar__ _n_ :three::astonished: A small bar, as in the home or a hotel suite, equipped with a sink and running water.  
 __wet market__ _n_ A market that sells perishable items (such as fresh meat and produce) and sometimes live animals which are often slaughtered on-site. _This scientist now believes covid started in Wuhan’s wet market._  
@@ -20287,6 +20292,7 @@ __whammy__ _n_ _slang_ :two: An object or power that one uses to cause often evi
 __whanged__ _v_ :two::hammer:  
 __whanging__  
 __wharf__ _n_ :nine: (wharves) __1__ A pier where ships or boats are tied up and loaded or unloaded. _Among factories and wharves._ _A slatted building perched atop a wharf._ :es: muelle, embarcadero  
+__wharfage__ _n_ _Syn_ pier, dock  
 __what’s the haps?__  
 __what<sup>1</sup>__ _pron_ :mute:[w~~h~~at]  
 __what<sup>2</sup>__ _adj_ :mute:[w~~h~~at]  
