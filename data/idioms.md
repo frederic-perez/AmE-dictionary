@@ -3627,6 +3627,7 @@ __not hold water__ _Fortunately, most of those tales don’t hold water._
 __not in a million years__ Not at any point; under absolutely no circumstances. _Not in a million years did I think that I would actually win the lottery!_  
 __not in a month of Sundays__ Not at any point; under absolutely no circumstances. _Not in a month of Sundays did I think that I would actually win the lottery!_  
 __not know (any) better__  
+__not know (one) from Eve__  
 __not know (someone) from a bar of soap__ To be completely unaware of or know nothing about someone; to have never met the person indicated.  
 __not know (someone) from Adam__ :two: Not to know someone by sight at all. _I wouldn’t recognize John if I saw him up close. I don’t know him from Adam._  
 __not miss a beat__  
@@ -3643,9 +3644,10 @@ __not utter a word__ To be completely silent; to remain discreet (about somethin
 __not worth the paper it’s printed on__ Useless; unimportant; insignificant. _Oh, that memo is not worth the paper it’s printed on. You know the boss is going to completely change her mind about it in a few days anyway!_  
 __not your father’s__ Very modern or updated; no longer what an older generation would expect or be used to. _With every building now featuring wireless Internet and touch-screen monitors integrated into the desks in each classroom, this is certainly not your father’s high school anymore._  
 __notch up__  
-__note to self__ :three::hammer:  
+__note to self__ :four::hammer:  
 __noted for (something)__ Having an established reputation or degree of fame because of something. _Professor Jenkins is noted for her groundbreaking work in gene therapy for cancer treatment._  
-__nothing but__ _I’m nothing but tired._  
+__nothing but a__ The idiom “nothing but a” is used to emphasize that something is only a particular thing, without any additional qualities or attributes. For example, “He’s nothing but a beginner” means that the person is only a beginner, without any other qualities or experiences.  
+__nothing but__ :two::hammer: _I’m nothing but tired._  
 __nothing less than (something)__ (Having) an extreme quality, trait, or characteristic demonstrated in absolute terms. _The instructor demands nothing less than perfection from her pupils._  
 __nothing more, nothing less__  
 __nothing short of__ :three: At or near the same level of; equivalent to; exemplary of. _Her latest book is nothing short of a masterpiece._  
@@ -3656,8 +3658,9 @@ __now (someone) has gone and done it__ Someone has just done something very grav
 __now (that) you mention it__ :two: An expression used when one remembers or realizes something because of what the other person has just said. _A: “The weather’s been a bit unpredictable lately, huh?” B: “Now you mention it, I hear there could be a blizzard next week.”_  
 __now we are talking__  
 __nuclear family__  
+__nudnik__ An irritating, nagging person; a boring pest of a person who makes constant or persistent demands or criticisms.  
 __nugget of information__  
-__null and void__ :two: No longer valid, legitimate, or enforceable.  
+__null and void__ :three: No longer valid, legitimate, or enforceable.  
 __nut out__ __1__ _slang_ To discover, through careful consideration, deliberation, or investigation, the solution to something. In this usage, “nut” is slang for one’s head or brain. A noun or pronoun can be used between “nut” and “out.” _Each of us has hit the same stumbling block in the assignment, so we’re going to get together this weekend and nut it out together._ __2__ _slang_ To begin acting in a crazy, erratic, or deranged manner, especially due to extreme anger. In this usage, “nut” is a derogatory slang term meaning “a crazy person.” A noun or pronoun can be used between “nut” and “out.” _Tom totally nutted out after he found out his wife had been cheating on him._  
 __nuts and bolts__ :three: The basic, practical details of a job or other activity. (the nuts and bolts of something)  
 __nuts__ __3__ _adj_ Crazy; manic or eccentric; out of one’s mind. _Trying to figure out what’s wrong with this computer is driving me nuts!_  
@@ -3671,15 +3674,18 @@ __of (one’s) own accord__ Voluntarily; of one’s own free will. _Police are h
 __of a kind__ _You are two of a kind._  
 __of a lifetime__ Used to describe something extremely exceptional, important, or enjoyable that isn’t likely to occur again. _They offered me the chance of a lifetime to travel the world and write about my experiences abroad._ _She must first unravel an unsolved murder, or lose this opportunity of a lifetime._  
 __of all things__  
-__of late__ _adv_ :four: In recent times; lately. You use of late to refer to an event or state of affairs that happened or began to exist a short time ago. _Their number have, indeed, been dropping of late._ _Syn_ recently, just now, in recent times, not long ago :es: últimamente _His work of late has not been up to par._ _He seems rather unhappy of late. I hope nothing is wrong. __The Nationals (18-10) are atop a division dominated by the Phillies of late._  
+__of late__ _adv_ :five: In recent times; lately. You use of late to refer to an event or state of affairs that happened or began to exist a short time ago. _Their number have, indeed, been dropping of late._ _Syn_ recently, just now, in recent times, not long ago :es: últimamente _His work of late has not been up to par._ _He seems rather unhappy of late. I hope nothing is wrong. __The Nationals (18-10) are atop a division dominated by the Phillies of late._  
 __of no account__ :three: Of no or very little importance, significance, or worth. _Sure, his writing is OK, but he only published a few articles in some tiny magazine of no account._  
 __of one’s own accord__ Voluntarily.  
 __of the sort__  
+__off (one’s) case__ No longer a source of constant pressure; not nagging one anymore. _We need to do something to get the boss off our case._  
+__off key__  
 __off the charts__  
 __off the clock__ :two::hammer:  
+__off the cuff__ (off-the-cuff) Casually and spontaneously; without planning or preparation. Often hyphenated.  
 __off the hook__ :three::hammer: _I let you off the hook._  
 __off the rails__ In an abnormal or malfunctioning condition, as in _Her political campaign has been off the rails for months._ The phrase occurs commonly with go, as in _Once the superintendent resigned, the effort to reform the school system went off the rails._ This idiom alludes to the rails on which trains run; if a train goes off the rails, it stops or crashes.  
-__off to the races__ :two: An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting. _The tour bus is out in front waiting and we’ve said goodbye to everyone. Looks like we’re off to the races._  
+__off to the races__ :three: An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting. _The tour bus is out in front waiting and we’ve said goodbye to everyone. Looks like we’re off to the races._  
 __off to the side__  
 __off work__  
 __off-kilter__ :five::hammer:  
@@ -3687,17 +3693,20 @@ __off-the-cuff__ :dart:
 __office drone__ A nickname given to the laziest person in the cube farm, or the one who tries to pass off as much work as possible while still maintaining the semblance of productivity. _Sara and I met as office drones in 1999._  
 __offs and ends__ __1a__ Miscellaneous articles. __b__ Miscellaneous small matters (as of business) to be attended to. __2__ Miscellaneous remnants or leftovers odds and ends of food.  
 __OG__  
-__Oh, boy!__ :two: __1__ An expression said when one is excited, pleased, or pleasantly surprised. Wow! _Oh, boy! What a mess!_ __2__ An expression said when one is frustrated by, exasperated about, resigned to something bad or unpleasant. _Oh boy, another surprise inspection. I sure do love these._  
+__Oh, boy!__ :three: (oh, boy) __1__ An expression said when one is excited, pleased, or pleasantly surprised. Wow! _Oh, boy! What a mess!_ __2__ An expression said when one is frustrated by, exasperated about, resigned to something bad or unpleasant. _Oh boy, another surprise inspection. I sure do love these._  
 __oh, my__ :two::hammer: (oh my!)  
 __OK Corral__  
 __okay dokay__ Another way of saying okeydoke, okey, sure, alright, sure thing.  
+__okay__ __9__ To give approval, authorization, agreement, or endorsement (for something). _You’ll need the boss to okay any changes you want to make to the budget._ _In the last year Copilot has suggested—and had okayed by developers—more than a billion lines of code._  
 __okey-dokey__ An informal variation of OK. _A: “Come on, Tom. We’re ready to go to the park!” B: “Okey-dokey!”_  
 __old as the hills__ Someone who is very old.  
+__old coot__ An eccentric or irritable older person, especially a man, whose views or attitudes are considered boring or old-fashioned.  
 __old maid__ An old woman who has never been married or has never had a sexual relationship.  
 __old school thinking__  
 __old soul__ One who has a deeper understanding or appreciation of things than would be expected of their age.  
 __on (one’s) own right__  
 __on (one’s) own volition__  
+__on (one’s) own__  
 __on (one’s) plate__  
 __on (one’s) radar (screen)__  
 __on (one’s) toes__  
@@ -3711,19 +3720,20 @@ __on a dime__
 __on a high horse__ To act as if you are better than other people.  
 __on a lark__ :three: On a whim or fancy; for fun or as a joke. _On a lark, I skipped school and drove to the beach._  
 __on a lighter note__ Used as a means of segueing to some topic of discussion that is less serious or more positive.  
-__on a mission__ _On a mission to close the skills gap by unlocking work-based learning opportunities for all._  
-__on a roll__ :three::hammer: _I’m on a roll._  
+__on a mission__ :two::hammer: _On a mission to close the skills gap by unlocking work-based learning opportunities for all._  
+__on a roll__ :four::hammer: _I’m on a roll._  
 __on a side note__ :two: Parenthetically or incidentally; by the way; in addition to but less important than what was just being discussed.  
 __on a tear__ :three: __1__ _slang_ A spree, binge, or indulgence of intense or prolonged alcohol consumption. _A: I didn’t expect Pete to be drunk already! B: Oh, he’s been on a tear all day._ __2__ _slang_ A sudden showing or burst of intense energy or activity. _The team looked a little sluggish in the first half, but they have been on an absolute tear in the second._ _The stock has been on a tear._ _The U.K. labor market is on a tear._  
 __on all fours__ _adj_ :dart: (down on all fours) In conformity with; corresponding exactly with.  
-__on and on__ _The list goes on and on._  
+__on and on__ :two::hammer: _The list goes on and on._  
 __on autopilot__ (Functioning) automatically, without thinking about one’s actions, generally because one has done something many times in the past. _By the second week of data entry, I could fill in the spreadsheets on autopilot._  
 __on board__  
+__on brand__  
 __on call__ Ready or available when and if needed. _We have a team of engineers on call if you experience any issues._  
 __on cloud nine__ :three: To be in a state of extreme happiness. _Ever since Mary got her promotion at work, she’s been on cloud nine. I don’t think I’ve ever seen her happier!_  
 __on demand__ _Requested on demand._  
 __on edge__ :four: Highly tense or nervous; irritable. _Our youngster is just feeling on edge about the start of school._ _Tonight she felt on edge._  
-__on end__  
+__on end__ :two: Continuously and without stopping. Used after a unit of time, such as “hours” or “days.” _I could talk for hours on end about trains._  
 __on every level__ _That was a bad idea on every level._  
 __on fire__ :three: __1__ Something is going really well or someone is doing a fantastic job. Performing very enthusiastically, adeptly, or successfully. _The team has been on fire lately, winning 11 of its last 12 games._ __2__ Extremely sexy or attractive. _Wow babe, you are looking on fire tonight!_ __3__ Having an intense burning sensation. _My throat’s on fire from this infection—I can’t eat or drink a thing!_  
 __on fleek__ _slang_ :three: A phrase said of something that looks good or is perfectly done. _Ooh, eyebrows on fleek! Did you use a brow filler?_ _That outfit is totally on fleek—I love it._  
@@ -3732,6 +3742,7 @@ __on good terms__
 __on in years__ Advanced in age; old or becoming old. _I might be a little bit on in years, but I’m no fool when it comes to technology!_  
 __on leave__ :two: In the midst of an official extended absence from one’s work, school, etc. _Jane just had a baby, so she’s on leave._ _I’ve been on leave for the past few weeks as my illness has gotten worse._  
 __on life support__ Struggling to remain viable or continue to exist. _Our department’s been on life support ever since our funding got slashed last year._ _India’s crypto industry is on life support._  
+__on loan__ Given to someone on a temporary basis.  
 __on location__ _Filmed on location._  
 __on my end__  
 __on occasion__ Once in a while; occasionally. _I don’t really drink, but I do enjoy a nice glass of wine with a meal on occasion._  
@@ -3739,19 +3750,22 @@ __on one’s terms__
 __on opposite sides of the barricade(s)__ Occupying conflicting, opposing, and/or contrary positions on some issue or in some situation. _Unfortunately, it seems more and more to be the case that those who would see the economy recover and those who strive for social equality find themselves on opposite sides of the barricade._  
 __on par (with someone or something)__  
 __on pins and needles__ :two: Worried or excited about something. _I’ve been waiting on pins and needles for this moment, because I have something extraordinary to share with you!_  
-__on point__ __1__ Focused on or related to the crux or essence of a particular topic. _Nothing that you’re saying is on point! You’re just wasting time with mindless rambling._ __2__ _informal_ Outstanding or perfect. _Ooh, your eyebrows are on point today! Did you use a brow filler?_ __3__ In slang, the expression often describes someone as “on their game” or “looking sharp.”  
+__on point__ :two: __1__ Focused on or related to the crux or essence of a particular topic. _Nothing that you’re saying is on point! You’re just wasting time with mindless rambling._ __2__ _informal_ Outstanding or perfect. _Ooh, your eyebrows are on point today! Did you use a brow filler?_ __3__ In slang, the expression often describes someone as “on their game” or “looking sharp.”  
 __on probation__  
+__on record__  
 __on short notice__ :two::hammer:  
 __on solid ground__  
 __on someone’s dime__ _I was living on my mother’s dime._  
 __on steroids__ :five::mega: In a very large, enhanced, or exaggerated form.  
 __on tap__ :two: __1__ Ready to be drawn; in a tapped cask: _beer on tap._ Having to do with beer served from a barrel or keg. _Do you have any imported beers on tap here? I like beer on tap. The canned stuff tastes funny to me._ __2__ Available for immediate use; ready: _extra personnel on tap._ __3__ Scheduled or expected: _What’s on tap for the weekend?_ The Magic Flute _and_ The Barber of Seville _are just a few of the classics on tap this season._  
 __on tenterhooks__ In a state of suspense or anxiety about something; from the idea of cloth being suspended on a tenter (frame for stretching cloth while it is drying).  
-__on that note__ :two::hammer:  
+__on that note__ :three::hammer:  
 __on the attack__ _He couldn’t stand being criticized any longer and went on the attack._ :es: entrar al trapo  
 __on the back burner__ :two::hammer:  
+__on the back foot__ In a position of disadvantage, retreat, or defeat.  
 __on the bleeding edge__  
 __on the block__  
+__on the books__ Recorded for future reference. _We had the coldest winter on record last year._ _This is the fastest race on record._  
 __on the brink of (something)__  
 __on the button__ Exactly right; in exactly the right place; at exactly the right time.  
 __on the cards__ :two: Very likely or certain to happen, occur, or take place. _They’ve played very well, but it doesn’t look like a championship title is on the cards for this team today._ _She wants to get a promotion but it doesn’t seem to be on the cards right now._  

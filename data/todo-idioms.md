@@ -48,31 +48,6 @@ __nook and cranny__ Every possible place or part of something, down to the small
 __north of (some number)__ Beyond some number; exceeding some number. _Apple’s App Store grossed north of $70 Billion in 2022._  
 __nosh__ :two: __2__ _v_ _slang_ To munch on some food, especially a small meal or light snack.  
 __not know (one) from Adam__  
-__not know (one) from Eve__  
-__note to self__  
-__nothing but a__ The idiom “nothing but a” is used to emphasize that something is only a particular thing, without any additional qualities or attributes. For example, “He’s nothing but a beginner” means that the person is only a beginner, without any other qualities or experiences.  
-__nothing but__  
-__nudnik__ An irritating, nagging person; a boring pest of a person who makes constant or persistent demands or criticisms.  
-__null and void__  
-__of late__  
-__off (one’s) case__ No longer a source of constant pressure; not nagging one anymore. _We need to do something to get the boss off our case._  
-__off key__  
-__off the cuff__ (off-the-cuff) Casually and spontaneously; without planning or preparation. Often hyphenated.  
-__off to the races__  
-__oh, boy__  
-__okay__ __9__ To give approval, authorization, agreement, or endorsement (for something). _You’ll need the boss to okay any changes you want to make to the budget._ _In the last year Copilot has suggested—and had okayed by developers—more than a billion lines of code._  
-__old coot__ An eccentric or irritable older person, especially a man, whose views or attitudes are considered boring or old-fashioned.  
-__on (one’s) own__  
-__on a mission__  
-__on a roll__  
-__on and on__  
-__on brand__  
-__on end__ Continuously and without stopping. Used after a unit of time, such as “hours” or “days.” _I could talk for hours on end about trains._  
-__on loan__ Given to someone on a temporary basis.  
-__on point__  
-__on record__ __on the books__ Recorded for future reference. _We had the coldest winter on record last year._ _This is the fastest race on record._  
-__on that note__  
-__on the back foot__ In a position of disadvantage, retreat, or defeat.  
 __on the bright side__  
 __on the brink of (something)__  
 __on the flip side__ Looking at a different or opposite aspect, possibility, or result (associated with something).  
