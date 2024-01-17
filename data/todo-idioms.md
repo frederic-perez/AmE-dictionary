@@ -23,31 +23,6 @@ __make the rounds__ :two::hammer:
 __make waves__  
 __milk it__ To try to get as much of something from someone else, especially sympathy, kindness, respect, etc.  
 __movers and shakers__  
-__nab__ :two: To catch and arrest someone. Often used in passive constructions.  
-__navigate__ :three: To carefully and skillfully manage or deal with something that is complex, challenging, or difficult. _Navigating difficult relationships._ _Navigating life._  
-__neck and neck__ :two::hammer:  
-__neck of the woods__ A neighborhood or nearby area; the area around where one lives.  
-__need for speed__ _Need for speed_ is a phrase showing a desire to go fast, usually in a vehicle, such as a race car; popularized in the 1986 film Top Gun.  
-__nerve-racking__ (nerve-wracking) Causing fear or anxiety.  
-__nerve-wracking__ :two: (nerve-racking) Causing fear or anxiety.  
-__nest egg__  
-__nifty__ Very good, interesting, or smart. Said typically of things.  
-__nip and tuck__ :astonished:  
-__nitpicker__  
-__nitwit__ A foolish, ignorant person.  
-__nix__  
-__no harm, no foul__ :two: If there was no bad outcome to an action, then there’s no need to be angry or upset about it. _A: “Oh, excuse me! I’m so sorry for knocking over your glass!” B: “It’s OK, it was empty. No harm, no foul!”_  
-__no matter what__ In any conditions; regardless of what happens. _I don’t care if it’s raining, I’m going to the concert no matter what._  
-__no offense taken__  
-__no question about it__ Definitely; for sure. _Look at that foreboding sky. It’s going to rain shortly, no question about it._  
-__no sale__ I reject the request, offer, or plan in question. No.  
-__no shit__  
-__noblesse obligé__ (noblesse oblige) Altruistic, honorable behavior or deeds that are an assumed responsibility of people of nobility or, more broadly, economic privilege. Taken from French, literally meaning “nobility obligates.”  
-__non sequitur__  
-__nook and cranny__ Every possible place or part of something, down to the smallest ones.  
-__north of (some number)__ Beyond some number; exceeding some number. _Apple’s App Store grossed north of $70 Billion in 2022._  
-__nosh__ :two: __2__ _v_ _slang_ To munch on some food, especially a small meal or light snack.  
-__not know (one) from Adam__  
 __on the bright side__  
 __on the brink of (something)__  
 __on the flip side__ Looking at a different or opposite aspect, possibility, or result (associated with something).  

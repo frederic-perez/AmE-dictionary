@@ -3520,6 +3520,7 @@ __my hands are tied__ You are not free to behave in the way that you would like 
 __my lucky star__  
 __my spidey-sense is tingling__  
 __my, my__ _interjection_ An expression of surprise, incredulity, or pleasure.  
+__nab__ :two: To catch and arrest someone. Often used in passive constructions.  
 __nah__  
 __nail in (someone’s or something’s) coffin__ :two::hammer:  
 __naked eye__ _With the naked eye._  
@@ -3530,16 +3531,21 @@ __narrow something down__ If you narrow something down, you reduce the number of
 __narrow the gap__  
 __natter on__ To talk idly or incessantly. _Now that she can talk, my little girl will just natter on all day long._  
 __natural hat trick__ _n_ _sports_ A hat trick in which three goals are scored in succession by one player in one game.  
-__navigate__  
+__navigate__ :four: To carefully and skillfully manage or deal with something that is complex, challenging, or difficult. _Navigating difficult relationships._ _Navigating life._  
 __nebbish__ A weak, submissive, pitiful person, especially a man. Adapted from the Yiddish word _nebekh_. _He’s just a sniveling nebbish, not a real man like you._  
-__neck of the woods__  
+__neck and neck__ :two::hammer:  
+__neck of the woods__ :two: A neighborhood or nearby area; the area around where one lives.  
 __need (something) (about) as much as (one) needs a hole in the head__ To have absolutely no need or use for something. _I’m perfectly happy having a cell phone that just makes phone calls—I need a fancy new smartphone about as much as I need a hole in the head._  
+__need for speed__ _Need for speed_ is a phrase showing a desire to go fast, usually in a vehicle, such as a race car; popularized in the 1986 film _Top Gun_.  
 __need-to-know__  
 __needless to say__ :two: Obviously; the following is completely self-evident. _Helen has pneumonia, so, needless to say, we’re postponing our vacation._  
 __nepo baby__ A famous person who has at least one parent who is also famous. It’s often used as a negative term to suggest that a celebrity didn’t actually earn success and only gets opportunities because of their family connections.  
 __nerd out__ :two::hammer:  
+__nerve-racking__ (nerve-wracking) Causing fear or anxiety.  
+__nerve-wracking__ :two: (nerve-racking) Causing fear or anxiety.  
 __nervous wreck__ Someone who is overcome with anxiety, apprehension, or nervousness.  
 __nervy__ :astonished: Daring or fearless; courageous. Primarily heard in US. _You’ve got to be pretty nervy to jump out of a plane and trust a little backpack to save your life._  
+__nest egg__  
 __never a rose without a/the prick__ _proverb_ There is rarely a good or positive thing, event, or circumstance that is not accompanied by something negative or unpleasant (i.e., just as a rose has thorns). _A: “I can’t believe the amount of taxes I have to pay on my lottery winnings!” B: “Never a rose without the prick, eh?”_  
 __never say never__ Do not say that something is impossible, that it will never happen, or that you will never do it, because anything is possible. The term first appeared in Charles Dickens’ novel _The Pickwick Papers._ _A: “I’ll never be good enough to make the team.” B: “Never say never. Just keep practicing and see what happens.”_  
 __new blood__  
@@ -3555,14 +3561,18 @@ __nice and easy__ _informal_ In a way that is slow, careful, gentle, or easy. _T
 __nice guy__ :two: A teenaged or adult male who is dependably friendly and compassionate, to the point of being seen as too boring, unchallenging, or uninspiring to be romantically involved with. _I’m tired of just being the nice guy that no girl wants to date. I want to be seen as edgy, dangerous even—someone no girl can resist!_  
 __nice one__ _informal_ An expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.) _Nice one, Frank, now we’re going to have to rebuild this entire model from scratch._  
 __nickle-and-dime__ _A nickle-and-dime con man._  
+__nifty__ Very good, interesting, or smart. Said typically of things.  
 __night and day__ :two::hammer:  
 __nincompoop__ _n_ A silly, foolish, or stupid person.  
 __nine to fivers__  
 __nip (something) in the bud__ :six: [:scroll: Alludes to destroying a flower bud before it blooms.] To stop, cease, or prevent something at the beginning or early phase, before it becomes too difficult or unmanageable. _I’ve noticed that Tommy’s getting in the bad habit of chewing with is mouth open. Let’s nip that in the bud._  
+__nip and tuck__ :astonished:  
 __nip in the bud__  
+__nitpicker__  
 __nitpicking__ An act or instance of pointing out or complaining about every flaw that one comes across (in or about something), no matter how small, petty, or insignificant. Sometimes hyphenated. _You might disregard my points as just nitpicking, but you’ll appreciate it when you get an A+ on this paper._  
 __nitty-gritty__  
-__nix__  
+__nitwit__ A foolish, ignorant person.  
+__nix__ :two::hammer:  
 __no big deal__ :dart::three::hammer: _No big deal, but it looked sloppy._  
 __no biggie__ :dart::two: (Something) not inconvenient or difficult at all; not at all troublesome. _It’s no biggie if you want me to drive you to the airport tomorrow._  
 __no cap__ _slang_ Really; seriously. “Cap” is short for “capping,” slang for lying. _No cap—that girl is seriously into you!_  
@@ -3572,17 +3582,23 @@ __no dice__ :two::hammer:
 __no doubt__  
 __no good deed goes unpunished__ :three: Due to the cruelty, ignorance, or selfishness of the world or others, one’s good deeds or good intentions will often result in more trouble than they are worth. An ironic and sardonic twist on the more standard moral that “no good deed goes unrewarded.”  
 __no hard feelings__ :two::hammer:  
+__no harm, no foul__ :two: If there was no bad outcome to an action, then there’s no need to be angry or upset about it. _A: “Oh, excuse me! I’m so sorry for knocking over your glass!” B: “It’s OK, it was empty. No harm, no foul!”_  
 __no holds barred__ :three: __1__ (in wrestling) With no restrictions on the kinds of holds that are used. __2__ Used to convey that no rules or restrictions apply in a conflict or dispute. _No-holds-barred military action._ _This book takes a no-holds-barred approach to taking personal responsability._ :es: sin tabúes  
 __no kidding__  
 __no less than__ :dart:  
 __no longer__  
 __no matter how you slice it__ :two: Regardless of how a situation is analyzed, viewed, or portrayed, the truth of it remains unchanged. _No matter how you slice it, the drastically lower sales numbers this year are bad news for the company’s prospects for growth._  
+__no matter what__ In any conditions; regardless of what happens. _I don’t care if it’s raining, I’m going to the concert no matter what._  
 __no nonsense__ _adj_ :two: Totally serious; with no tricks or deceit. Hyphenated before a noun. _The new manager is very no nonsense in how he deals with customer complaints._ _We’re going to start adopting a no-nonsense approach to the problem._  
+__no offense taken__  
 __no offense__ :three: What I have said or am about to say is not meant to offend or insult you, even though it could be interpreted that way. _No offense, but I think it may be time you cleaned up your kitchen._  
 __no one in his/her/their right mind would (do something)__ No one who is sane would consider doing something; someone would have to be crazy to do something. _Everyone knows Jake is a mess—no one in her right mind would date him._  
 __no picnic__ _This is no picnic._  
 __no pressure__ Said ironically to emphasize that what is being discussed carries a large amount of importance or makes one feel that one must try very hard to succeed. _A: “I don’t want you to feel intimidated, but this employee review will have a huge bearing on whether or not you’re kept on at the end of the year.” B: “Wow, no pressure or anything!”_  
 __no probs__  
+__no question about it__ Definitely; for sure. _Look at that foreboding sky. It’s going to rain shortly, no question about it._  
+__no sale__ I reject the request, offer, or plan in question. No.  
+__no shit__  
 __no small thing__  
 __no sooner (do something) than (do something else)__ One action had just concluded when something else happened or began. _No sooner had I wrapped up the meeting than everyone bolted from their seats._  
 __no spring chicken__ :two: No longer young or youthful. (A “spring chicken” refers to a young chicken.)  
@@ -3594,12 +3610,15 @@ __no worries__ :four: No worries is an expression seen in Australian, British an
 __no-brainer__ A very easy or obvious choice, decision, or solution. (So easy or obvious that it is humorously said to require no brain.) _The answer to the riddle was a total no-brainer—I don’t know why it took me so long to figure out!_  
 __no-holds-barred__ :two::hammer: _No-holds-barred debates._ _We had a no-holds-barred relationship._  
 __no-no__  
+__noblesse obligé__ (noblesse oblige) Altruistic, honorable behavior or deeds that are an assumed responsibility of people of nobility or, more broadly, economic privilege. Taken from French, literally meaning “nobility obligates.”  
 __nod off__ :dart:  
+__non sequitur__  
 __non-starter__ __1__ An issue, topic, or person that makes no progress or shows little evidence of future success. _I know you worked really hard on that proposal, but it’s a non-starter—the committee refuses to even consider it._ _You want to be a doctor? Boy, that’s a non-starter—you can’t even handle the sight of blood!_  
-__north of (some number)__ Beyond some number; exceeding some number. _Does Joel really make north of $80,000 a year? Dang, I’m in the wrong business._  
+__nook and cranny__ Every possible place or part of something, down to the smallest ones.  
+__north of (some number)__ :two: Beyond some number; exceeding some number. _Does Joel really make north of $80,000 a year? Dang, I’m in the wrong business._ _Apple’s App Store grossed north of $70 Billion in 2022._  
 __nose into (something)__ To investigate something; to try to find information about something, especially private, secret, or sensitive matters. _The last thing we need right now are tax auditors nosing into our accounts._  
 __nose to the grindstone__ :dart: A phrase said of one who is working hard or diligently on something. Sometimes used as an imperative. _We need to finish this project tonight! Nose to the grindstone, people!_  
-__nosh__  
+__nosh__ :three: __2__ _v_ _slang_ To munch on some food, especially a small meal or light snack.  
 __not (one’s) first rodeo__ :three: One is experienced with a certain situation, especially in relation to potential pitfalls or deceitful practices by others. _Don’t think I’ll fall for that old trick. This isn’t my first rodeo, you know._  
 __not a big deal__ It is often used to indicate that a problem or situation is minor and does not require excessive concern or attention. The phrase can also be used to minimize the impact of a negative event or to reassure someone that everything is fine. It can also be used to express nonchalance or indifference to a situation or event.  
 __not a competition__  
@@ -3627,6 +3646,7 @@ __not hold water__ _Fortunately, most of those tales don’t hold water._
 __not in a million years__ Not at any point; under absolutely no circumstances. _Not in a million years did I think that I would actually win the lottery!_  
 __not in a month of Sundays__ Not at any point; under absolutely no circumstances. _Not in a month of Sundays did I think that I would actually win the lottery!_  
 __not know (any) better__  
+__not know (one) from Adam__  
 __not know (one) from Eve__  
 __not know (someone) from a bar of soap__ To be completely unaware of or know nothing about someone; to have never met the person indicated.  
 __not know (someone) from Adam__ :two: Not to know someone by sight at all. _I wouldn’t recognize John if I saw him up close. I don’t know him from Adam._  
