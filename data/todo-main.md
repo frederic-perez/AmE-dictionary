@@ -1,28 +1,3 @@
-__abyss__ _n_ :mega: /əˈbɪs/  
-__agonist__ _n_ /ˈæg ə nɪst/  
-__anaphora__ _n_  
-__athlete’s foot__ _n_ A fungal infection causing the skin between the toes to itch, crack, and peel.  
-__badlands__ _n pl_ /ˈbædˌlændz/ A barren area in which soft rock strata are eroded into varied, fantastic forms.  
-__bedlam__ _n_ /ˈbɛdləm/  
-__beefy__ _adj_  
-__beet__ _n_ :es: remolacha  
-__bicker<sup>1</sup>__ _vi_  
-__bicker<sup>2</sup>__ _n_ An angry quarrel; a squabble. A petty squabble. A peevish quarrel. A quarrel about petty points. _Syn_ pettifoggery, spat, squabble, tiff, bickering, fuss  
-__bland__  
-__bruise__ _n_ :es: cardenal, magulladura, magullar, moretón, morado  
-__capacitate__ _vt_ /kuh-PAS-i-tayt/ To make capable.  
-__devilish<sup>1</sup>__ _adj_ __1__ Of, resembling, or befitting a devil; diabolic; fiendish. __2__ Excessive; extreme: _devilish heat._  
-__devilish<sup>2</sup>__ _adv_ Extremely; very.  
-__dishevel__ _vt_  
-__dismiss__ _v_ _Military_ An order to end an activity or give permission to disperse.  
-__eclipse__ _n_ /ɪˈklɪps/  
-__eleven__ _n_ :mega: /ɪˈlɛv ən/  
-__epiphany__ _n_ /ɪˈpɪf ə ni/  
-__eye__ _vt_ __1__ To look at: _eyed the passing crowd with indifference._ __2__ To watch closely: _eyed the shark’s movements._ __3__ To supply with an eye.  
-__gambol__ _v_ To leap about playfully. _Syn_ frisk, frolic, lark, rollick, romp, cavort _Then he ran back to the shed pulling the playful young horse, who wanted to gambol all over the yard, by the rein._  
-__gargoyle__ _n_ /GAR-goy-ul/  
-__hail__ _vt_ __1b__ To greet or acclaim enthusiastically: _The crowds hailed the boxing champion._ _Figure’s CEO hails new breakthrough in using AI to train robots._  
-__mandible__ _n_  
 __meandering__ _adj_  
 __mind-blowing__ _adj_  
 __nigh__  
@@ -132,3 +107,4 @@ __yowl__ _v_
 __zenith__ _n_ /ZEE-nith/ Zenith refers to the strongest or most successful period of time for a person or thing.  
 __zip pouch__ _n_ (zipper pouch)  
 __zoophagous__ _adj_ Feeding on animal matter; carnivorous. _Syn_ meat-eating  
+__heliotrope__ _n_  +

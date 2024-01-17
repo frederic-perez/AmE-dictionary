@@ -113,7 +113,7 @@ __abut__ _v_ :two::hammer: (abutted, abutting) _Bungalows abutting._
 __abutting__ _adj_  
 __abuzz__ _adj_ :four: /əˈbʌz/ __1__ Buzzing. __2__ Full of or alive with activity or talk: _The company was abuzz with rumors._  
 __abysmal__ _adj_ :three: Extremely or hopelessly bad or severe. _Syn_ dreadful, terrible, awful, appalling, dismal, dire, ghastly, hideous, atrocious, godawful _We have been having abysmal weather lately, but the Sun is finally expected to make an appearance next week!_  
-__abyss__ _n_ :eight::astonished::mega: /əˈbɪs/ (abyses) _Looking into the abyss._  
+__abyss__ _n_ :nine::astonished::mega: /əˈbɪs/ (abyses) _Looking into the abyss._  
 __acacia__ _n_  
 __accenting__ _v_  
 __accentuate__ _v_ /ak-SEN-shu-wayt/ To make something more noticeable. _He likes to wear clothes that accentuate his muscular build._  
@@ -337,7 +337,7 @@ __aglow__ _adj, adv_
 __agnostic__ _adj_ :two::hammer:  
 __agog__ _adj_ :two: Highly excited by eagerness, curiosity, anticipation, etc.  
 __agonal__ _adj_ Relating to agony, especially before death. _Agonal breathing._  
-__agonist__ _n_ :two: __3__ One involved in a struggle or competition.  
+__agonist__ _n_ :three: /ˈæg ə nɪst/ __3__ One involved in a struggle or competition.  
 __agonistic__ _adj_ :pencil2: Striving to overcome in argument.  
 __Agpar__ _n_ (Agpar score) A method of assessing a newborn’s health. Also known as Apgar score. After anesthesiologist Virginia Apgar (1909-1974) who devised it.  
 __agrarian__  
@@ -561,7 +561,7 @@ __analgesic__ _n_ A medicine used to relieve pain. _Syn_ anodyne, painkiller _An
 __analogue__ _n_ Something that bears an analogy to something else. _Syn_ parallel _Surimi is marketed as an analogue of crabmeat._  
 __analogy__ _n_ An analogy is a comparison between two similar things, typically using figurative language. Metaphors and similes—more on them later—are usually considered to be types of analogies. Sometimes, analogies are considered to be a unique device that is a comparison that explains itself; basically, a complex metaphor or long simile. Example: Life is like a box of chocolates: you never know what you are going to get.  
 __analyst__ _n_ :pencil2:  
-__anaphora__ _n_ :two: Anaphora is the repetition of a word or words at the start of phrases, clauses, or sentences. Example: I came, I saw, I conquered. Martin Luther King Jr’s “I Have A Dream” speech is a classic example of anaphora.  
+__anaphora__ _n_ :three: Anaphora is the repetition of a word or words at the start of phrases, clauses, or sentences. Example: I came, I saw, I conquered. Martin Luther King Jr’s “I Have A Dream” speech is a classic example of anaphora.  
 __anaphylaxis__ _n_  
 __anastomosis__ _n_ :three: __2__ (Medicine) The surgical connection of separate or severed tubular hollow organs to form a continuous channel, as between two parts of the intestine.  
 __anastrophe__ _n_ :two: /uh-NAS-truh-fee/ [:scroll: From ana- (back) + strophe (turning)] The inversion of the usual order of words.  
@@ -971,6 +971,7 @@ __atelier__ _n_ :two: A studio especially for an artist or designer. _Syn_ artis
 __atheist__ _adj_  
 __athenaeum__ _n_  
 __atherectomy__ _n_ Surgical removal of atherosclerotic plaque from an artery using a catheter fitted with a cutting device.  
+__athlete’s foot__ _n_ A fungal infection causing the skin between the toes to itch, crack, and peel.  
 __athwart__ _adv, prep_ :two::hammer:  
 __athwartships__ _adv_ Across a ship from side to side.  
 __atlatl__ _n_  
@@ -1173,7 +1174,7 @@ __baddie__ _n_ _It’s just what Bond fans want in a baddie._
 __bade__ _v_ :five::hammer: _Bade farewell._ _She bade me bring you here._ _He bade them goodnight._ _The brothers bade him welcome._  
 __badger__ _n_ :three::hammer: _Felix was thrown when his horse shied a a badger._  
 __badinage__ _n_ :three::hammer:  
-__badlands__ _n_ Barren land characterized by roughly eroded ridges, peaks, and mesas.  
+__badlands__ _n pl_ :two: /ˈbædˌlændz/ A barren area in which soft rock strata are eroded into varied, fantastic forms. Barren land characterized by roughly eroded ridges, peaks, and mesas.  
 __badly__ _adv_ :three::hammer: _When done badly it’s very painful._ _She wants him so badly!_  
 __Baedeker__ _n_ /BAY-de-kuhr/ [:scroll: After the German publisher Karl Baedeker (1801-1859) who founded a company that published travel guidebooks.] A guidebook.  
 __baff__ _v_ (baffed)  
@@ -1415,7 +1416,7 @@ __bedding__ _n_ Bedclothes. _A bedding brand._
 __bedeck__ _v_ (bedecked)  
 __bedevil__ _vt_ :nine: (bedeviled) __1__ _(of something bad)_ Cause great and continual trouble to. _Projects like this are bedevilled by a shortage of cash._ Be confusing or perplexing to; cause to be unable to think clearly. _Syn_ befuddle, confound, discombobulate, fox, throw _Jerry frequently bedevils his conversation partners by rapidly and abruptly changing topics._ __2__ _(of a person)_ Torment or harass. _He bedeviled them with petty practical jokes._ _Syn_ afflict, torment, beset  
 __bedfellow__  
-__bedlam__ _n_ :six: A place or situation of noisy uproar and confusion. Scene of loud confusion. _Syn_ chaos, pandemonium, topsy-turvydom, topsy-turvyness _They quarreled and bickered more than ever among themselves, till at times the camp was a howling bedlam._  
+__bedlam__ _n_ :seven: /ˈbɛdləm/ A place or situation of noisy uproar and confusion. Scene of loud confusion. _Syn_ chaos, pandemonium, topsy-turvydom, topsy-turvyness _They quarreled and bickered more than ever among themselves, till at times the camp was a howling bedlam._  
 __Bedouin__  
 __bedpan__ _n_  
 __bedraggled__ _adj_ In deplorable condition. _Syn_ broken-down, dilapidated, ramshackle, tatterdemalion, derelict  
@@ -1434,7 +1435,7 @@ __beech__ _n_ :four::hammer: _Beech woods._ _Beech tree._ _Beech groves._
 __beef up__ _phr v_ :seven: __1__ To cause someone or something to become bigger, stronger, or bulkier. _We had to beef up the beam._ _You should beef up your travel report with more descriptions of what you saw. The soup tastes good, but we could beef it up by adding some spices._ __2__ To become bigger, stronger, or bulkier. _The actor beefed up over a couple of months so that he could play the part of a boxer._  
 __beef__ _n_ :two: __2__ _informal_ Human muscle; brawn. _He is trying to build some beef and muscle._  
 __beefcake__ _n_ _slang_ (vs cheesecake) Men displayed for their muscular bodies, esp in photographs.  
-__beefy__ _adj_ :three: __1__ Of or like beef. __2__ _informal_ Muscular; brawny; thickset; heavy. __3__ Obese.  
+__beefy__ _adj_ :four: __1__ Of or like beef. __2__ _informal_ Muscular; brawny; thickset; heavy. __3__ Obese.  
 __Beehive State__ _n_ :four: Utah.  
 __beeline__  
 __Beelzebub__ _n_  
@@ -1443,7 +1444,7 @@ __beer gut__
 __beer head__ _n_ The frothy foam on top of beer which is produced by bubbles of gas, typically carbon dioxide, rising to the surface.  
 __beer pong__ _n_  
 __beer tap__ _n_ A valve, specifically a tap, for controlling the release of beer. While other kinds of tap may be called faucet, valve or spigot, the use of tap for beer is almost universal. _A beer tap that was brought from England._  
-__beet__  
+__beet__ _n_ :two::hammer: :es: remolacha  
 __beetroot__ _n_  
 __beeves__ _n_  
 __befall__ _v_ :five: (befalls, befallen) Happen (to). _The unthinkable has befallen President._  
@@ -1603,6 +1604,8 @@ __bibliophile__ _n_
 __bibliopole__ _n_ A dealer in rare books.  
 __bibliotherapy__ _n_ A form of supportive psychotherapy in which carefully selected reading materials are used to assist a subject in solving personal problems or for other therapeutic purposes.  
 __bicker__ _v_ :eight: (bickering) Argue about petty and trivial matters. _The time for bickering is over._  
+__bicker<sup>1</sup>__ _vi_  
+__bicker<sup>2</sup>__ _n_ An angry quarrel; a squabble. A petty squabble. A peevish quarrel. A quarrel about petty points. _Syn_ pettifoggery, spat, squabble, tiff, bickering, fuss  
 __bickering__ _n_ :two: A quarrel about petty points. _Everyday bickering._  
 __bicyclist__  
 __bid farewell__  
@@ -1745,7 +1748,7 @@ __blackpool__
 __blacktop__ _n_ __1__ A bituminous paving substance, as asphalt. __2__ A road covered with blacktop.  
 __blah story__  
 __blanched__ _v_  
-__bland__ _adj_ :nine: __1__ Characterized by a moderate, unperturbed, or tranquil quality, especially: __a__ Pleasant in manner; smooth: _a bland smile._ __b__ Not irritating or stimulating; soothing: _a bland diet._ __c__ Exhibiting no personal worry, embarrassment, or concern: _told a series of bland lies._ __2a__ Dull and insipid: _a bland little drama._ __b__ Having little or no distinctive flavor: _bland cooking._  
+__bland__ _adj_ :nine::m: __1__ Characterized by a moderate, unperturbed, or tranquil quality, especially: __a__ Pleasant in manner; smooth: _a bland smile._ __b__ Not irritating or stimulating; soothing: _a bland diet._ __c__ Exhibiting no personal worry, embarrassment, or concern: _told a series of bland lies._ __2a__ Dull and insipid: _a bland little drama._ __b__ Having little or no distinctive flavor: _bland cooking._  
 __blandish__ _v_ To coax by flattery or wheedling; cajole.  
 __blandishment__ _n_ :five: /BLAN-dish-munt/ (Often, blandishments.) Something, as an action or speech, that tends to entice. Flattery intended to persuade. A blandishment is something said or done in order to coax or persuade an individual or group to do something. The word is usually used in its plural form, blandishments._Syn_ cajolery, palaver _Not even his favorite daughter’s blandishment could persuade him to submit to her whims._ _It’s important that the mayor not be swayed by bribes and blandishments; decisions must be made for the overall good of the city._ _Sundry blandishments._  
 __blank__ _n_ (blank cartridge) A gun cartridge with a charge of powder but no bullet. _The shooter fired blanks._  
@@ -2294,6 +2297,7 @@ __brownout__ _n_ :three: (vs _blackout_) A reduction or cutback in electric powe
 __brownstone__ _n_ :two: __2__ A brick or stone townhouse, especially one faced with reddish-brown sandstone. _Elegant multi-million dollar brownstones._  
 __browse__ _v_ :three: To look through or over (something) casually: _browsed the newspaper; browsing the gift shops for souvenirs._ _Oh, I’m just looking, I’m browsing._ _Visitors can browse museums and galleries._  
 __bruin__  
+__bruise__ _n_ :es: cardenal, magulladura, magullar, moretón, morado  
 __bruit<sup>1</sup>__ _n_ __1__ Rumor. __2__ Report. __3__ Noise. __4__ An abnormal sound heard in internal organs in the body during auscultation.  
 __bruit<sup>2</sup>__ _v_ :two: (bruited) __1__ To report. __2__ To repeat. __3__ To spread a rumor.  
 __brumal__ _adj_ Of, characteristic of, or relating to winter; wintry.  
@@ -2747,6 +2751,7 @@ __cap<sup>1</sup>__ _n informal_ :four::hammer: _NASA’s AEGIS has a four-megab
 __cap<sup>2</sup>__ _v_ :nine::m: (capped, capping) __1__ _informal_ To capitalize. __2__ Lie at the top of. _Snow capped the mountains._ __3__ Restrict the number or amount of. _We had to cap the number of people we can accept into our club._ __4__ Provide a fitting climax or conclusion to. _The most capped player._  
 __capable__  
 __capacious__ _adj_ Capable of containing a large quantity; spacious or roomy: _a capacious office building._  
+__capacitate__ _vt_ /kuh-PAS-i-tayt/ To make capable.  
 __caparison<sup>1</sup>__ _n_  
 __caparison<sup>2</sup>__ _v_ __1__ To outfit (a horse) with an ornamental covering. __2__ To dress (another) in rich clothing. _A host of richly caparisoned men._  
 __cape__ _n_ (housing)  
@@ -4920,6 +4925,8 @@ __deviancy__
 __deviate__ _v_ :mega:  
 __devil-may-care style__  
 __deviled egg__ _n_ :camera::five: (deviled eggs, also known as stuffed eggs, Russian eggs, or dressed eggs) Halved hard-cooked egg with the yolk mashed with mayonnaise and seasonings and returned to the white. _Syn_ stuffed egg  
+__devilish<sup>1</sup>__ _adj_ __1__ Of, resembling, or befitting a devil; diabolic; fiendish. __2__ Excessive; extreme: _devilish heat._  
+__devilish<sup>2</sup>__ _adv_ Extremely; very.  
 __devilment__ _n_  
 __deviltry__  
 __devious__ _adj_ :two::hammer:  
@@ -5120,7 +5127,7 @@ __dish out__ _phr v_ :three::hammer: _Guard Yuki Togashi led the Jets with 21 po
 __dish up__ _v_  
 __disheartened__ _adj_ :three::dart::mega: /dɪsˈhɑːtənd/ Disappointed about something and having less confidence or less hope about it than before.  
 __disheartening__ _adj_ :three: /dɪsˈhɑːtənɪŋ/ Making one feel disappointed and less confident or less hopeful.  
-__dishevel__ _v_ :six::hammer: (disheveled) _A disheveled look of a beat poet._  
+__dishevel__ _vt_ :seven::hammer: (disheveled) _A disheveled look of a beat poet._  
 __disheveled__ _adj_ :five: /dih-SHEV-uld/ (dishevelled) In disarray; extremely disorderly. Marked by disorder or disarray. _His hair disheveled and his clothes wrinkled, the late student had clearly overslept._  
 __dishing__ _v_  
 __dishonest__  
@@ -5149,7 +5156,7 @@ __disloyal__
 __dismal__ _adj_ :eight::mega: Causing gloom or depression; dreary: _dismal weather; took a dismal view of the economy._ _Syn_ dark and drepressing, gloomy, somber  
 __dismay__ _v_ (dismayed) _The proposal has dismayed the Canadian government._  
 __dismayed__ _adj_ :two::dart: Filled with depression or discouragement filled with apprehension or alarm.  
-__dismiss__ _v_ __2__ To direct or allow to leave: _dismissed troops after the inspection; dismissed the student after reprimanding him._ _be dismissed_ :es: retirarse (por ejemplo de la mesa)  
+__dismiss__ _v_ :two: __2__ _Military_ An order to end an activity or give permission to disperse. To direct or allow to leave: _dismissed troops after the inspection; dismissed the student after reprimanding him._ _be dismissed_ :es: retirarse (por ejemplo de la mesa)  
 __dismissive__ _adj_ :four::hammer: _Healthy young adults often are dismissive of health issues._  
 __dismount__ _n_ (Gymnastics) A move by which a gymnast gets off an apparatus or finishes a floor exercise, usually landing upright on the feet.  
 __Disneyfy__ _v_  
@@ -5739,7 +5746,7 @@ __echt__ _adj_ /EKHT/ Echt is an adjective used mostly in formal or literary spe
 __eclampsia__  
 __éclat__ _n_  
 __eclectic__ _adj_ :two::pencil2::hammer:  
-__eclipse__ _n_ /ɪˈklɪps/  
+__eclipse__ _n_ :two::hammer::mega: /ɪˈklɪps/  
 __ecliptic__ _n_  
 __ecology__ _n_  
 __ecosystem__ _n_  
@@ -5843,7 +5850,7 @@ __elevator boy__
 __elevator control box__  
 __elevator operator__ _n_ :camera:  
 __elevator__ _n_ :two::hammer: __2__ A movable control surface, usually attached to the horizontal stabilizer of an aircraft, that is used to produce motion up or down.  
-__eleven__ _n_ :two::hammer::mega:  
+__eleven__ _n_ :three::hammer::mega: /ɪˈlɛv ən/  
 __elfin__ _adj_ :two::hammer:  
 __elicit__ _v_ :nine: /ih-LISS-it/ (elicited) To get (a response, information, etc.) from someone. _The final amount raised by the charity walk elicited cheers from the crowd._ _The teacher’s question elicited no response._  
 __elide__ _v_ :three: To suppress; omit; ignore; pass over. _Why do you elide your feelings?_  
@@ -6073,7 +6080,7 @@ __epigram__ _n_
 __epigraph__ _n_ :two: An inscription on a building or statue; quotation at the beginning of a book or chapter.  
 __epilepsy__ _n_ _Risks of cerebral palsy and epilepsy._  
 __epilogue__ _n_ :mega: (epilog)  
-__epiphany__ _n_ :six::hammer::mega:  
+__epiphany__ _n_ :seven::hammer::mega: /ɪˈpɪf ə ni/  
 __Episcopalian__  
 __epistaxis__ _n_ A nosebleed.  
 __epistolary__ _adj_ Relating to the writing of letters.  
@@ -6332,7 +6339,7 @@ __eye of round__ _n_ A cut of meat taken from the rear leg muscles. A cheap cut 
 __eye patch__  
 __eye raiser__  
 __eye socket__ _n_ (Anatomy) The nontechnical name for orbit. :es: órbita del ojo  
-__eye__ _v_ _Kyiv eyes global peace summit this year._  
+__eye__ _vt_ :two: __1__ To look at: _eyed the passing crowd with indifference._ _Kyiv eyes global peace summit this year._ __2__ To watch closely: _eyed the shark’s movements._ __3__ To supply with an eye.  
 __eye-popping__ _adj_ :three: Amazingly impressive; suggestive of the flashing of lightning. _Rob Nail displayed eye-popping videos of new robots._ _Eye-popping croissants._  
 __eye-watering__ _adj_ :two: Painful or extremely unpleasant: _eye-watering electricity bills._  
 __eyeball<sup>1</sup>__ _n_ :three::hammer:  
@@ -7446,8 +7453,8 @@ __galoshes__ _n_
 __galumph__ _vi_ :two: /ɡəˈlʌmpf; -ˈlʌmf/ _informal_ [:scroll: C19 (coined by Lewis Carroll): probably a blend of gallop + triumph] To leap or move about clumsily or joyfully.  
 __galvanize__ _v_ :nine::m: (galvanized) /GAL-vuh-nyze/ To startle into sudden activity; stimulate. To cause (people) to take action on something that they are excited or concerned about. _The council’s proposal to close the library has galvanized the town’s residents._  
 __gambit__ _n_ :six: /GAM-bit/ A maneuver, stratagem, or ploy, especially one used at an initial stage. A gambit is something done or said in order to gain an advantage or to produce a desired effect. _Syn_ tactic, move, policy, scheme, strategy, trick, device, manoeuvre, ploy, stratagem _They said the plan was no more than a clever political gambit._ _The workers’ opening gambit in the negotiations was to demand a wage hike._  
-__gamboge__ _n_ __2__ Yellow or yellow-orange.  
-__gambol__  
+__gamboge__ _n_ :two: __2__ Yellow or yellow-orange.  
+__gambol__ _v_ :two: To leap about playfully. _Syn_ frisk, frolic, lark, rollick, romp, cavort _Then he ran back to the shed pulling the playful young horse, who wanted to gambol all over the yard, by the rein._  
 __Game of the Goose__ _n_ (Goose game) :es: el juego de la oca  
 __game plan__ _n_ :six::hammer: _My game plan is “failure is not an option.”_  
 __game__ _adj_ :two: __1__ _informal_ Full of fighting spirit; plucky; brave. __2__ _(usually foll by for)_ _informal_ Having the required spirit or will (often fol. by for or an infinitive). Prepared or ready; willing: _I’m game for a try._ _Who’s game for a hike through the woods?_ __3__ Pertaining to or composed of animals hunted or taken as game or to their flesh.  
@@ -7482,7 +7489,7 @@ __gargantuan__ _adj_ :seven: /gahr-GAN-chuh-wuhn/ Very large in size or amount. 
 __gargle__ _n_  
 __gargle<sup>1</sup>__ _n_  
 __gargle<sup>2</sup>__ _v_ _My stomach was gargling._  
-__gargoyle__ _n_ :two::hammer: (gargoyles)  
+__gargoyle__ _n_ :three::hammer: /GAR-goy-ul/  
 __garish__ _adj_ :seven::hammer::astonished: _They are charming and garish at the same time._  
 __garland__ _n_ :four::camera::hammer: _Garland motifs on carved oak paneling._ _Evergreen garlands._ _A garland of flowers._  
 __garment__  
@@ -8191,7 +8198,7 @@ __haggling__ _n_ :two::hammer:
 __hagiography__  
 __haik__  
 __Hail Mary__ _n_ :three: (Ave Maria) A prayer based on the greetings of Gabriel and Saint Elizabeth to the Virgin Mary. _Syn_ Ave Maria  
-__hail<sup>1</sup>__ _v_ :nine::m: (hails, hailed, hailing) __1__ To greet. __2__ To praise enthusiastically. _The government is hailing Liverpool’s testing pilot as a great success._ __3__ To call out loudly in order to gain the attention of. _She was hailing a ride home._ __4__ Said of the weather when hail is falling.  
+__hail<sup>1</sup>__ _v_ :nine::m: (hails, hailed, hailing) __1__ To greet. __2__ To praise enthusiastically. _The government is hailing Liverpool’s testing pilot as a great success._ _The crowds hailed the boxing champion._ _Figure’s CEO hails new breakthrough in using AI to train robots._ __3__ To call out loudly in order to gain the attention of. _She was hailing a ride home._ __4__ Said of the weather when hail is falling.  
 __hail<sup>2</sup>__ _n_ :eight: __1__ Precipitation in the form of spherical or irregular pellets of ice larger than 5 millimeters (0.2 inch) in diameter, usually associated with thunderstorms. _In an average year hail causes more losses than tornadoes._ __2__ Something that falls with the force and quantity of a shower of ice and hard snow: _a hail of pebbles; a hail of criticism._ _Raindrops that stung like hail._ _A hail of gunfire._ _He was hit by a hail of bullets._ _The longbow’s fearful hail demoralized the enemy._  
 __hailstone__ _n_ :two: A small ball of frozen rain. _Hailstones damaged windows._  
 __hailstorm__ _n_ :three::hammer:  
@@ -10928,6 +10935,7 @@ __mandarin__ _n_ (fruit)
 __mandate__ _v_  
 __mandatory__ _adj_ :mega:  
 __Mandela effect__ _n_ :two: The phenomenon of a large number of persons independently sharing the same false memory. The phrase is named for the purportedly widespread misconception that Nelson Mandela died in the 1980s while in prison.  
+__mandible__ _n_  
 __mandrake__ _n_ :es: mandrágora  
 __Mandy__ _n_ Diminutive form of Amanda.  
 __mane__ _n_ :five::hammer: _A lion’s mane._  
