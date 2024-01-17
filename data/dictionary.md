@@ -6167,7 +6167,8 @@ __estrangement__
 __estuary__ _n_ :three::hammer:  
 __esurient__ _adj_ :two::hammer:  
 __et cetera__  
-__etch__ _v_ :nine::hammer: (etched, etching) _A profile identifying each peak is etched in a huge relief along the sidewalk._ _The hedgerow was sharply etched._  
+__etch<sup>1</sup>__ _vt_ :nine: __1__ To engrave with an acid or the like, as to form a design in furrows that when charged with ink will give an impression on paper. __2__ To produce (a design, image, etc.) by this method, as on copper or glass. __3__ :dart: To outline clearly or sharply; delineate. _The hedgerow was sharply etched._ _A profile identifying each peak is etched in a huge relief along the sidewalk._ __4__ To fix or imprint firmly: _His face is etched in my memory._  
+__etch<sup>2</sup>__ _vi_ T to practice the art of etching.  
 __etched__ _adj_ __1__ If something is etched on your mind or memory, you can still remember it very clearly, sometimes when you would prefer to forget it. __2__ If a feeling is etched on someone’s face, their expression shows clearly what they are feeling.  
 __etchings__  
 __ether__ _n_ The element believed in ancient and medieval civilizations to fill all space above the sphere of the moon and to compose the stars and planets. _Syn_ quintessence _The stars, the ancients believed, both inhabited and were composed of the ether._  
@@ -8456,7 +8457,7 @@ __headstrong__ _adj_ :three::dart: Determined to have one’s own way. _Syn_ stu
 __headway > make headway__ _v_ :hammer::three: _Secetary Kerry has made headway against the odds._ _Yesterday I made a lot of headway._  
 __headway__ _n_ :two::dart: /ˈhɛdˌweɪ/ __2__ Progress or rate of progress: _he made no headway with the problem._ _Earl was making headway with the Mustang._  
 __headwind__ _n_ :seven: (headwinds) A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
-__heady__ _adj_ :nine::hammer: _Heady events._ _Heady game._ __4__ Showing intelligence and good judgment; prudent: _heady tactics._ _John was heady game._  
+__heady__ _adj_ :nine: __1a__ Intoxicating or stupefying: _heady liqueur._ __b__ Tending to upset the mind or the balance of senses: _standing on a heady outcrop of rock._ __c__ Serving to exhilarate: _the heady news of triumph._ __2a__ Impetuous and rash: _a heady outburst of anger._ __b__ Domineering; overbearing: _too heady to reason with._ _Heady events._ __3__ Swift and violent; headlong: _a heady current._ __4__ Showing intelligence and good judgment; prudent: _heady tactics._ _John was heady game._ __5__ Suffering from a headache: _a heady, throbbing feeling._  
 __health condition__  
 __heap<sup>1</sup>__ _n_ __1__ _informal_ A large amount (of something). _We’ve had a heap of problems getting our product out to market._  
 __heap<sup>2</sup>__ _v_ (heaped)  
