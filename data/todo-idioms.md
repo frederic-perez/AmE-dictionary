@@ -1,28 +1,3 @@
-__(one) figures (that)__ One presumes or anticipates (that); one reckons or thinks (that).  
-__a cog in the machine__  
-__a standstill__ A period in which something is stopped or halted.  
-__at best__  
-__back of (one’s) mind__  
-__boo-boo__  
-__break ranks__  
-__brutal__ __1__ :astonished: _informal_ Cringe-inducingly unpleasant. __2__ _mod_ Excellent; powerful. _Man, what a brutal tune!_  
-__by the same token__  
-__come on__  
-__crackdown__  
-__game-changer__  
-__hand back__  
-__hard-pressed to (do something)__ Struggling to do or accomplish something, especially because it seems impossible. _You’d be hard-pressed to find a better guy than Bill._ _Frankly, if Taylor Swift told us to buy a “Signature Oval Casserole,” we’d be hard-pressed not to._  
-__haters gonna hate__ (haters will be heater) People who dislike something or someone are going to continue to do so no matter what. It’s used to suggest that it’s impossible to please everyone and that it’s better to focus on what makes you happy than to worry about those who don’t approve.  
-__homie__  
-__hyped (up)__  
-__in a manner of speaking__ :dart: In a way; in a sense; so to speak. _He was a fixer, in a manner of speaking. A man who could get things done._  
-__in full swing__  
-__lace up__  
-__lead the way__  
-__make the rounds__ :two::hammer:  
-__make waves__  
-__milk it__ To try to get as much of something from someone else, especially sympathy, kindness, respect, etc.  
-__movers and shakers__  
 __on the bright side__  
 __on the brink of (something)__  
 __on the flip side__ Looking at a different or opposite aspect, possibility, or result (associated with something).  
