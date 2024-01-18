@@ -1,29 +1,3 @@
-__meandering__ _adj_  
-__mind-blowing__ _adj_  
-__nigh__  
-__ominous__ _adj_ /AH-muh-nus/ Something described as ominous hints or suggests that something bad is coming or is going to happen.  
-__one up__ _adj_ Having gained an advantage, esp. over a rival.  
-__paragliding__ _n_ The sport or activity of flying by means of a paraglider.  
-__pellet__ _n_ /ˈpɛl ɪt/  
-__pernicious__  
-__pestilence__ _n_ A usually fatal epidemic disease, especially bubonic plague. _Syn_ plague  
-__raconteur__ _n_ /ra-kahn-TER/ A raconteur is someone who excels in telling anecdotes.  
-__retronym__ _n_ /RET-roh-nim/  
-__revivalist__ _n_ A preacher of the Christian gospel. _Syn_ evangelist, gospeller  
-__salubrious__  
-__screencap<sup>1</sup>__ _n informal_ A screenshot.  
-__screencap<sup>2</sup>__ _v informal_ To take a screenshot.  
-__seven__ _n_ :mega: /ˈsɛvən/  
-__sloven__ _n_ One who is habitually careless in personal appearance or work. _Syn_ slob, pig  
-__sophistry__ _n_ A plausible but misleading or fallacious argument. _Syn_ sophism, sophistication  
-__spat__ _n_ __1__ A brief quarrel.  
-__special__ _adj_ /ˈspɛʃəl/  
-__squall__ _n_ __1__ A loud, harsh cry. __2__ A brief sudden violent windstorm, often accompanied by rain or snow. __3__ _informal_ A brief commotion.  
-__stick__ _v_ :two::hammer:  
-__stickup__ _n slang_ A robbery, especially at gunpoint.  
-__stiffen__ _v_ :two::hammer: /ˈstɪfən/  
-__stifle<sup>1</sup>__ _vt_ __1__ To interrupt or cut off (the voice, for example). __2__ To keep in or hold back; repress: _stifled my indignation._ __3__ To kill by preventing respiration; smother or suffocate.  
-__stifle<sup>2</sup>__ _vi_ __1__ To suffer from difficulty in breathing, as in a close atmosphere. __2__ To become stifled or suffocated.  
 __stillbirth__ _n_  
 __stingy__ _adj_ __1__ Giving or spending reluctantly. __2__ Scanty or meager: _a stingy meal; stingy with details about the past._  
 __stockpile__ _n_  

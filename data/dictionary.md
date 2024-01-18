@@ -11126,6 +11126,7 @@ __mealtime__ _n_ :dart:
 __mealy-mouthed__ _adj_ :two: (mealymouthed) Hesitant to state facts or opinions simply and directly as from e.g. timidity or hypocrisy. _A mealy-mouthed politician._  
 __meander<sup>1</sup>__ _n_  
 __meander<sup>2</sup>__ _v_ :five: /mee-AN-der/ __1__ To wander aimlessly or casually. _The couple spent the afternoon meandering around the seaside town._ __2__ To follow a winding or intricate course. _The stream meanders through the canyon._  
+__meandering__ _adj_  
 __meaningful__  
 __meanness__ _n_ :pencil2: __1a__ Unkindness, spitefulness, or unfairness. _Aal the hatred and meanness, despair and sorrow surrounding us._ __b__ _North American_ Aggressive character; viciousness. _He is also callous, with a streak of meanness._ __2__ Lack of quality or attractiveness; shabbiness. _The meanness of that existence._  
 __measles__ _n_ :six::pencil2::hammer: :es: sarampión  
@@ -11374,6 +11375,7 @@ __mincemeat__ _n_ :two::hammer:
 __mincing__ _adj_ Affectedly dainty or refined. _Syn_ dainty, niminy-piminy, prim, twee  
 __mind trick__  
 __mind__ _v_ _Mind the gap._  
+__mind-blowing__ _adj_  
 __mind-boggling__ _adj_ :three: _informal_ Overwhelming; stunning: _mind-boggling prices._  
 __minder__ _n_ __4__ _slang_ Someone acting as a bodyguard, guard, or assistant, esp in the criminal underworld. :es: guardaespaldas  
 __mindful__  
@@ -12010,8 +12012,8 @@ __nifty__ _adj informal_ :eight: __1__ Particularly good, skilful, or effective.
 __Niger__  
 __niggardly__ _adj_ :two: __1__ Grudging and petty in giving or spending. __2__ Meanly or ungenerously small or scanty: _a niggardly tip to a waiter._  
 __niggling__ _adj_ _Niggling questions._  
-__nigh<sup>1</sup__ _adv_ _Syn_ almost, about, nearly, close to, practically, approximately _Accurate earthquake prediction is well nigh impossible._  
-__nigh<sup>2</sup__ _adj_ :four::hammer: _Syn_ near, next, close, imminent, impending, at hand, upcoming _The end of the world is nigh._  
+__nigh<sup>1</sup__ _adv_ :two::hammer: _Syn_ almost, about, nearly, close to, practically, approximately _Accurate earthquake prediction is well nigh impossible._  
+__nigh<sup>2</sup__ _adj_ :five::hammer: _Syn_ near, next, close, imminent, impending, at hand, upcoming _The end of the world is nigh._  
 __nigh<sup>3</sup>__ _prep_ Not far from; near.  
 __night sweats__ _n_ (nocturnal hyperhidrosis)  
 __night<sup>1</sup>__ _n_ :mute:[ni~~gh~~t]  
@@ -12391,7 +12393,7 @@ __omelet__ _n_ :two::hammer::mega: (omelette)
 __omen__ _n_ :six::hammer:  
 __omicron__ _n_ :two: /ˈɒm ɪˌkrɒn, ˈoʊ mɪ-/ [:scroll: Middle English, from Greek o mīkron, _small o (because of its being a short vowel in Greek)_] The 15th letter of the Greek alphabet (Ο, ο).  
 __omics__ _n_  
-__ominous__ _adj_ :nine::m: Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
+__ominous__ _adj_ :nine::m: /AH-muh-nus/ Something described as ominous hints or suggests that something bad is coming or is going to happen. Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
 __ominously__  
 __omission__  
 __omnia vincit amor__ _phr_ /ˈɒmnɪə ˈvɪnsɪt ˈæmɔː/ Love conquers all things.  
@@ -12430,6 +12432,7 @@ __once in a while__
 __once-in-a-lifetime__ _adj_ Likely to happen only once in one’s lifetime; extremely rare.  
 __once-over__  
 __oncoming__ _adj_ _The oncoming winter’s patterns._  
+__one up__ _adj_ Having gained an advantage, esp. over a rival.  
 __one-horse__ _adj_ Small and remote and insignificant. _Syn_ jerkwater _I am leaving this one-horse town and heading into the big city to seek my fortune!_  
 __one-liner__ _n_ :dart: A quick joke or quip; a funny observation.  
 __one-note__  
@@ -12897,7 +12900,7 @@ __paradox__ _n_ :four: /ˈpær əˌdɒks/ __1__ In rhetoric, the word paradox re
 __paradoxical__ _adj_ :three::hammer:  
 __paradoxically__  
 __paraglider__ _n_ :es: parapente; parapentista  
-__paragliding__ _n_ :two: The recreational sport of soaring from a slope or a cliff using a modified parachute.  
+__paragliding__ _n_ :three: The recreational sport of soaring from a slope or a cliff using a modified parachute. The sport or activity of flying by means of a paraglider.  
 __paragon__ _n_ :eight: (paragons) Model of excellence or perfection of a kind; one having no equal. _A paragon of redundancy._  
 __parakeet__ _n_ :mega: :es: periquito  
 __parallelism__ _n_ Parallelism is using grammatically similar phrases or sentences together. Example: Fool me once, shame on you. Fool me twice, shame on me.  
@@ -13130,7 +13133,7 @@ __peignoir__ _n_ A woman’s loose-fitting dressing gown. _Syn_ neglige, wrapper
 __pelagic__ _adj_ :two: /puh-LAJ-ik/ [:scroll: From Latin pelagicus (of the sea), from Greek pelagos (sea)] Relating to or living in the open ocean, far from land. Of, relating to, or living in open oceans or seas rather than waters adjacent to land or inland waters: _pelagic birds._  
 __Pell Grant__ _n_ _Young people get cuts in Pell Grants._  
 __pell-mell__ _adv_ :two: /pel-MEL/ Pell-mell means “in a confused and hurried way” or “in mingled confusion or disorder.” _On Black Friday, some shoppers rush pell-mell into stores to find their favorite items at a discounted price._  
-__pellet__ _n_  
+__pellet__ _n_ :two::hammer: /ˈpɛl ɪt/  
 __pellucid__ _adj_ Admitting the passage of light; transparent or translucent. _Syn_ transparent, crystal clear, limpid, crystalline, lucid _The water in the fountain, pellucid as crystal, was alive with myriads of gold and silver fishes._  
 __pelorus__ _n_  
 __peloton__ _n_ The main group of riders in a cycle race.  
@@ -13241,7 +13244,7 @@ __permeable__ _adj_ /PER-mee-uh-bul/
 __permeate__ _v_  
 __permed__  
 __permit__ _n_ _Camping permit fee._  
-__pernicious__ _adj_ :nine: /per-nish-uhs/ __1__ Having a harmful effect or influence. Causing insidious harm or ruin; ruinous; injurious; hurtful: _pernicious teachings; a pernicious lie._ _Syn_ harmful, damaging, destructive _The belief that we are just our genes is one of the most pernicious myths in modern culture._ __2__ Deadly; fatal. Tending to cause death or serious injury. _Syn_ baneful, pestilent, deadly _The pernicious effects of alcoholism are well documented in the medical literature._ _A pernicious disease._  
+__pernicious__ _adj_ :nine::m: /per-nish-uhs/ __1__ Having a harmful effect or influence. Causing insidious harm or ruin; ruinous; injurious; hurtful: _pernicious teachings; a pernicious lie._ _Syn_ harmful, damaging, destructive _The belief that we are just our genes is one of the most pernicious myths in modern culture._ __2__ Deadly; fatal. Tending to cause death or serious injury. _Syn_ baneful, pestilent, deadly _The pernicious effects of alcoholism are well documented in the medical literature._ _A pernicious disease._  
 __peroral__ _adj_ _Medicine_ Administered or performed through the mouth, as surgery or administration of a drug. Through or by way of the mouth: _a peroral infection; peroral administration of fluids._  
 __peroxide__  
 __perpetrate__ _v_ Perform an act, usually with a negative connotation. _Syn_ commit, pull _Only a sadistic, depraved person could perpetrate a crime like this._  
@@ -13272,7 +13275,7 @@ __pesky__ _adj_ :three::hammer:
 __pessary__ _n_  
 __pester__ _vt_ :four::hammer: (pestered)  
 __pestiferous__ _adj_  
-__pestilence__ _n_ :two::hammer:  
+__pestilence__ _n_ :three: A usually fatal epidemic disease, especially bubonic plague. _Syn_ plague  
 __pet name__ _n_  
 __pet peeve__ _n_  
 __pet<sup>1</sup>__ _n_ __3__ A person especially loved or indulged; a favorite: _the teacher’s pet._  
@@ -14544,7 +14547,7 @@ __racket<sup>2</sup>__ _v_
 __racketeer<sup>1</sup>__ _n_ :five: A person who engages in dishonest and fraudulent business dealings. :es: estafador, timador  
 __racketeer<sup>2</sup>__ _v_ :two::hammer:  
 __racketeering__ _n_ :two: Engaging in a racket.  
-__raconteur__ _n_ :two: One who tells stories and anecdotes with skill and wit. _Syn_ anecdotist _Dave is quite the raconteur and will no doubt keep my guests entertained throughout the evening._  
+__raconteur__ _n_ :three: /ra-kahn-TER/ One who tells stories and anecdotes with skill and wit. _Syn_ anecdotist _Dave is quite the raconteur and will no doubt keep my guests entertained throughout the evening._  
 __racous__  
 __racousness__  
 __racquet__  
@@ -15125,7 +15128,7 @@ __retrocede__ _v_
 __retrofit__ _v_  
 __retrograde<sup>1</sup>__ _adj_ :five::hammer: _NHS staff face unacceptable health risks as a result of “retrograde” changes to the government’s guidance on preventing spread of SARS-CoV-2 infection, doctors’ leaders have warned._  
 __retrograde<sup>2</sup>__ _vi_ :two::hammer:  
-__retronym__ _n_  
+__retronym__ _n_ :two::hammer: /RET-roh-nim/  
 __retroscopic__  
 __retrospective__ _adj_ /reh-truh-SPEK-tiv/  
 __retsina__ _n_  
@@ -15150,6 +15153,7 @@ __revet__ _vt_ /ri-VET/ __1__ To cover a wall, embankment, etc., with masonry or
 __revile__ _v_ :two::hammer:  
 __revisionist__  
 __revisit__ _v_  
+__revivalist__ _n_ A preacher of the Christian gospel. _Syn_ evangelist, gospeller  
 __revive__ _v_ _To revive unemployment benefits._  
 __revocation__  
 __Revolutionary War__  
@@ -15597,7 +15601,7 @@ __salt junk__ _n_ /SAWLT-JUNK/ Dried salted beef. _In the past, sailors survived
 __saltigrade__ _adj_ Having the feet or legs adapted to leaping—usually used of spiders (such as members of the family Salticidae).  
 __saltines__ _n_  
 __salty__  
-__salubrious__ _adj_ :two: Conducive or favorable to health or well-being.  
+__salubrious__ _adj_ :three: Conducive or favorable to health or well-being.  
 __saludatorian__ _n_ The student with the second highest academic rank in a class who delivers the salutatory at graduation exercises.  
 __saludatory__  
 __salutary__ _adj_ :two::hammer: _Salutary effects._  
@@ -15877,6 +15881,8 @@ __screech<sup>2</sup>__ _v_ :nine::m: (screeched, screeching) __1__ (tr) To utte
 __screen door__ _n_ A door that consists of a frame holding metallic or plastic netting; used to allow ventilation and to keep insects from entering a building through the open door; _“he heard the screen slam as she left.”_  
 __screen<sup>1</sup>__ _n_ _Chemists apply the test on only those molecules that pass the screen._  
 __screen<sup>2</sup>__ _v_ (screened) _The horsemen screened the advance of the column._  
+__screencap<sup>1</sup>__ _n informal_ A screenshot.  
+__screencap<sup>2</sup>__ _v informal_ To take a screenshot.  
 __screwball<sup>1</sup>__ _adj_ :three::hammer: _A classic screwball comedy._ _The screwball buddy comedy._  
 __screwball<sup>2</sup>__ _n_  
 __screws > put the screws on someone__ _phr informal_ To use force or threats to make someone do what you want. Usage notes: In the past, screws or thumbscrews (torture instrument) were devices used to hurt people by crushing their thumbs in order to force them to do something. _They put the screws on him until eventually he was forced to resign._  
@@ -16149,6 +16155,7 @@ __Seul__ _n_ :mega:
 __Seussian__ _adj_ _chiefly US_ Of, relating to, or suggestive of the works of Dr. Seuss (Theodore Geisel) especially having a playfully inventive or outlandish quality typical or reminiscent of the words and images found in children’s stories like _The Cat in the Hat_ and _How the Grinch Stole Christmas._  
 __Seven Dwarf status__  
 __seven seas__ _n pl_ (Seven Seas)  
+__seven__ _n_ :mega: /ˈsɛvən/  
 __seventeen-year locust__ _n_ A cicada, _Magicicada septendecim_, of the eastern U.S., having nymphs that live in the soil, usually emerging in great numbers after 17 years in the North or 13 years in the South.  
 __severance (severance contract)__ _n_ :two: _Law_ The division into separate parts of a joint estate, contract, etc.  
 __severance pay__ _n_ :two: A sum of money usually based on length of employment for which an employee is eligible upon termination. :es: finiquito  
@@ -16784,7 +16791,7 @@ __slouchy__
 __slough off__ _v_ :dart: To get rid of something objectionable or disadvantageous. _Syn_ shed, discard, throw off, cast off _The company needed to slough off some of its old practices that were keeping it from being as competitive as possible._  
 __slough<sup>1</sup>__ _n_ :five::mega::hammer:  
 __slough<sup>2</sup>__ _v_ :six: /SLUFF/ To cast something off or to become shed or cast off. _The snake sloughs its skin several times a year._ _Henry sloughs off questions about his odometer._  
-__sloven__ _n_ One habitually negligent of neatness or cleanliness especially in personal appearance.  
+__sloven__ _n_ :two: One habitually negligent of neatness or cleanliness especially in personal appearance. One who is habitually careless in personal appearance or work. _Syn_ slob, pig  
 __slovenly__ _adj_ :three: Very messy.  
 __slow-as-molases__  
 __slowdown__ _n_  
@@ -17083,7 +17090,7 @@ __soot__ _n_ :three::hammer:
 __soothe__ _v_ (soothing)  
 __sooty__  
 __sop__ _n_ :two::hammer: _A sop of comfort._ _A wine sop._  
-__sophistry__ _n_ __1__ A subtle, tricky, superficially plausible, but generally fallacious method of reasoning. __2__ A false argument; sophism. _The argument was utter sophistry._  
+__sophistry__ _n_ :two: __1__ A subtle, tricky, superficially plausible, but generally fallacious method of reasoning. __2__ A false argument; sophism. _The argument was utter sophistry._  
 __sophomore__ _n_ :four::mega: A second-year student at a secondary (high) school or college. _My sophomore year._  
 __sophomoric__ _adj_ __1__ Conceited and overconfident of knowledge but poorly informed and immature. __2__ Lacking in maturity, taste, or judgment.  
 __soporific<sup>1</sup>__ _adj_ :two: /sah-puh-RIFF-ik/ [:scroll: From Latin sopor (a deep sleep). Ultimately from the Indo-European root swep- (to sleep), which also gave us insomnia, hypnosis, soporose, somniloquy (talking while asleep), and somnambulate (to walk in sleep).] __1__ Inducing sleep. _Syn_ somniferous __2__ Sleepy or drowsy. __3__ Dull or monotonous.  
@@ -17169,7 +17176,7 @@ __sparklers__ _n_
 __sparred__ _v_  
 __spars__ _n_  
 __spastic__  
-__spat__ _n_ :eight::hammer: _This spat demonstrated that Rogozin is trying to prove that he’s set to revamping the industry._ _Public spat._ _In a spat over an arrest._  
+__spat__ _n_ :nine::hammer: __1__ A brief quarrel. _This spat demonstrated that Rogozin is trying to prove that he’s set to revamping the industry._ _Public spat._ _In a spat over an arrest._  
 __spate__ _n_ :nine: /speɪt/ A large number of similar things coming in quick succession. _Syn_ series, succession, run _A spate af hate speech._ _A spate of cross-border attacks._ _A warm spate of blood ran from his nostrils._  
 __spatiotemporal__ _adj_  
 __spatter__ _n_  
@@ -17184,6 +17191,7 @@ __spear side__ _n_ /SPEER syd/ The male side or branch of a family (opposed to _
 __speargun__  
 __spearhead<sup>1</sup>__ _n_  
 __spearhead<sup>2</sup>__ _vt_ :nine: (spearheaded, spearheading) Lead (an attack or movement). To be the leader of (a movement, for example). _He’s spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
+__special__ _adj_ /ˈspɛʃəl/  
 __special-team__  
 __specially__ _adv_ :two: Specifically, in a special manner. _A can of Coke rested in the specially made holder._ _Specialty apparel sellers._  
 __specialty__ _n_ :four::hammer: _Specialty doctor._  
@@ -17376,7 +17384,7 @@ __squack__
 __squad car__ _n_ :four::hammer: _The squad car camera was not activated._  
 __squad__ _n_ :four::hammer: _The Olympics squad._  
 __squalid__ _adj_ :six::pencil2: Dirty and wretched, as from poverty or lack of care. _Syn_ flyblown, sordid _Squalid home._  
-__squall<sup>1</sup>__ _n_ :six: A sudden strong wind or brief turbulent storm. _It’s just a passing squall._  
+__squall<sup>1</sup>__ _n_ :seven: __1__ A loud, harsh cry. __2__ A brief sudden violent windstorm, often accompanied by rain or snow. _It’s just a passing squall._ __3__ _informal_ A brief commotion.  
 __squall<sup>2</sup>__ _v_ Utter a sudden loud cry. _Syn_ cry, scream, yell, shout, holler, hollo, call _The new mother breathed a sigh of relief as soon as she heard her newborn squalling._  
 __squalor__ _n_ :seven::astonished: __1__ A filthy and wretched condition or quality. Disgusting dirt and filth. _Syn_ sordidness, squalidness _The squalor in which the refugees lived alarmed the aid workers, who knew they had to work quickly to improve these conditions._  
 __squamous__ _adj_  
@@ -17636,21 +17644,23 @@ __stewed tomatoes__
 __stick > turnaround stick__  
 __stick of gum__ _n_  
 __stick<sup>1</sup>__ _n_ _A swagger stick._  
-__stick<sup>2</sup>__ _v_ _She began sticking files in a cabinet._  
+__stick<sup>2</sup>__ _v_ :three::hammer: _She began sticking files in a cabinet._  
 __stickball__ _n_ Stickball is a street game related to baseball, usually formed as a pick-up game played in large cities in the Northeastern United States, especially New York City and Philadelphia. The equipment consists of a broom handle and a rubber ball, typically a spaldeen, pensy pinky, high bouncer or tennis ball.  
 __sticker price__  
 __sticker shock__  
 __stickers__  
 __stickler__ _n_ :three::hammer:  
 __stickpin__ _n_ An ornamental pin especially for a necktie.  
+__stickup__ _n slang_ A robbery, especially at gunpoint.  
 __sticky-fingered__ _adj_ /STIK-ee fing-guhrd/ Given to stealing.  
 __stiff<sup>1</sup>__ _adj_ :six::hammer: _Correa had a stiff challenge from shortstop Lindor._ _Working stiffs._ _Stiff political oposition._ _A stiff drink._ _Amazon faces stiff competition from Spotify._ _Stiff criticism._  
 __stiff<sup>2</sup>__ _v_ :two::hammer: (stiffing) _Trump is known for stiffing people he owes._ _Jay was stiffing his partners._  
-__stiffens__ _v_ _UN stiffens North Korea sanctions._  
+__stiffen__ _v_ :three::hammer: /ˈstɪfən/ _UN stiffens North Korea sanctions._  
 __stiffer__ _adj_ :two::hammer: _In adult court, murder, a Class M felony, carries a much stiffer penalty._ _Unleasing stiffer penalties._  
 __stiffly__  
 __stiffness__ _n_ _Stiffness in or of the neck_ :es: tortícolis _The stiffness you feel after exercise._ :es: Las agujetas que sientes después de hacer ejercicio.  
-__stifle__ _vt_ :nine::m::dart: /ˈstaɪfəl/ Suffocate. _It stifles productive enterprise._ _Stifling heat._  
+__stifle<sup>1</sup>__ _vt_ :nine::m::dart: /ˈstaɪfəl/ __1__ To interrupt or cut off (the voice, for example). __2__ To keep in or hold back; repress: _stifled my indignation._ _It stifles productive enterprise._ __3__ To kill by preventing respiration; smother or suffocate. _Stifling heat._  
+__stifle<sup>2</sup>__ _vi_ :nine::m::dart: /ˈstaɪfəl/ __1__ To suffer from difficulty in breathing, as in a close atmosphere. __2__ To become stifled or suffocated.  
 __stifling__ _adj_ :two: Suffocating; oppressively close. _Stifling heat._ _The stifling atmosphere of the cavern._  
 __stigma__  
 __stigmatize__ _v_ :two::hammer:  
