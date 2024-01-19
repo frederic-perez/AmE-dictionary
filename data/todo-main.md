@@ -1,28 +1,3 @@
-__adamant__ _adj_ Not willing to change one’s opinion, purpose, or principles; unyielding.  
-__annulment__ _n_ /əˈnʌlmənt/  
-__appalling__  
-__bacteriophage__ _n_ A virus that infects and lyses certain bacteria.  
-__boo__ _v_  
-__burn pit__ _n_ (US, military) An area of a United States military base in which waste is disposed of by burning. An open-air pit where waste is burned. Long-term exposure to its smoke is associated with health problems. _Doctors turn to AI and wearable monitors to measure the effects of burn pits on veterans’ health._  
-__crepitus__ _n_ /ˈkrɛpɪtəs/  
-__cross hairs__ _n pl_  
-__dysuria__ _n_ /dɪsˈjʊərɪə/ Difficult or painful urination.  
-__ginormous__ _adj_ /dʒaɪˈnɔːməs/ _informal_ Very large. _App stores are ginormous businesses._  
-__heliotrope__ _n_  
-__overall__ _adj, adv_  
-__overtake__ _vt_  
-__overturn__ _v_  
-__reassuring__ _adj_  
-__rekindle__ _vt_  
-__shimmer__ _vi_  
-__slate__ _vt_ __13b__ To plan or schedule: _the trial is slated to begin in three weeks._  
-__slice__ _n_ _The Watermelon emoji 🍉 depicts a slice of watermelon._  
-__smidgen__ _n informal_ /ˈsmɪdʒən/ (smidgeon, smidgin)  
-__smorgasbord__ _n_  
-__stillbirth__ _n_  
-__stingy__ _adj_ __1__ Giving or spending reluctantly. __2__ Scanty or meager: _a stingy meal; stingy with details about the past._  
-__stockpile__ _n_  
-__stoke__ _v_  
 __strait__ _n_  
 __streamline__ _vt_ __2__ To improve the efficiency of, often by simplification: _streamline a factory process._  
 __strengthen__ _v_  
