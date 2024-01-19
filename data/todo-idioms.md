@@ -1,28 +1,3 @@
-__on the bright side__  
-__on the brink of (something)__  
-__on the flip side__ Looking at a different or opposite aspect, possibility, or result (associated with something).  
-__on the horizon__  
-__on the mat__ __1__ In a position to face a reprimand from someone. _When my team lost that big client, the boss called me on the mat._ __2__ Under discussion or consideration. _We don’t have time to discuss those issues, but don’t worry, they’ll be on the mat the next time we meet._  
-__on the table__ :two::hammer:  
-__on the verge of (doing) (something)__  
-__one and the same__ Identical; the very same. _For ancient civilizations, astronomy and astrology were one and the same._  
-__one man’s trash is another man’s treasure__  
-__one size fits all__ Supposedly well-suited to any situation, as of a product, method, solution, etc. Often hyphenated. _We must move away from a “one size fits all” approach._  
-__one-liner__ _informal_ A very short, witty joke, remark, or riposte.  
-__only fair__ The right thing. _It’s only fair to tell him the truth._  
-__oomph__ _slang_ Power, vigor, or energy.  
-__open question__  
-__open season (on someone or something)__  
-__orbiter__ In James Ellroy’s novels, “orbiter” is a term used to describe someone who is on the periphery or fringes of a criminal organization or network. It’s someone who is not a central player or a key decision-maker, but who is still involved in the criminal activity in some way, perhaps as a lookout, a messenger, or a low-level enforcer.  
-__ouch__ :dart: __2__ An acknowledgement of some disappointment or unpleasantness. _A: “I’m pretty bummed—I studied all weekend, and I only got a C.” B: “Ooh, ouch.”_  
-__out of (one’s) shell__ Less shy, reserved, or reticent and in a more sociable, outgoing, or enthusiastic state.  
-__out of curiosity__ A phrase that is used to indicate that a person is asking a question or seeking information out of a genuine desire to know more about something, rather than for any specific or practical purpose.  
-__out of thin air__  
-__out of whack__  
-__out-of-pocket__ Out-of-pocket expenses are costs connected with work that people pay themselves at first but are usually paid back to them later. _I charge twenty dollars an hour plus out-of-pocket expenses._ Note: If you pay out of pocket, you pay for something yourself and claim the money back later.  
-__outtro__ In a sense, “outtro” is a pun on “intro,” and it’s a creative way to refer to the closing or concluding section of a creative work.  
-__over and over (again)__  
-__own someone__ The idiom “own someone” typically means to have power or control over someone else. It can imply that the person being “owned” is subservient or subordinate to the person doing the “owning.” For example, if someone says, “I totally owned that job interview,” it means they were confident and in control of the situation, and they likely impressed the interviewer. Conversely, if someone says “I got owned by my boss at the meeting,” it implies that they felt intimidated or powerless, and the boss had the upper hand in the conversation.  
 __oy__ :dart: In the novels by James Ellroy, “oy” is a Yiddish expression that is often used to convey frustration, dismay, or exasperation. _Tom went oy and walked out._  
 __pablum__ In Ellroy’s novels, it’s used as a derogatory term for something that is bland, uninteresting, or lacking in substance. It’s sort of like saying that something is “boring” or “unoriginal.”  
 __pale in comparison__ To be or seem less important, impressive, or otherwise deficient when compared to someone or something else.  
