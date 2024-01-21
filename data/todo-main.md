@@ -1,4 +1,25 @@
+__aplomb__ _n_ /əˈplɒm, əˈplʌm/  
+__caucus__ _n_  
+__cicatrix__ _n_ A scar left by the formation of new connective tissue over a healing sore or wound. _Syn_ scar  
+__conflate__ _v_ /kun-FLAYT/ Two closely related meanings of the verb conflate are “to confuse,” i.e. “to fail to differentiate,” and “to blend or bring together.”  
+__countdown__ _n_  
+__downfall__ _n_  
+__Dunning-Kruger effect__ _n_ A hypothetical cognitive bias stating that people with low ability at a task overestimate their ability.  
+__harangue__ _n_ /huh-RANG/ A harangue is a forceful or angry speech or piece of writing.  
+__heliotrope__ _n_  
+__inculcate__ _v_ To teach (others) by frequent instruction or repetition. _Syn_ infuse, instill  
+__interpunct__ _n_  
+__kindred__ _adj_ /KIN-drud/  
+__largess__ _n_  
+__mar__ _v_  
+__peterman__ _n_ /ˈpiːtəmən/ _slang_ [:scroll: From peter, slang for a safe] A burglar skilled in safe-breaking.  
+__polyamorous__  
+__profuse__ _adj_ Plentiful; copious. _Syn_ lush, riotous, luxuriant, exuberant  
+__prudish__ _adj_ PROO-dish/ Overly concerned with propriety or decorum, especially in matters of sex.  
+__sea snail__ _n_ (seasnail, snailfish)  
+__swank__  
 __swat__ _n, v_  
+__sweat__ _n_ /swet/ Organic cooler.  
 __swell__ _adj_ Excelent.  
 __sweltering__ _adj_  
 __Syracuse__ _n_ :mega: /ˈsɪr əˌkyus, -ˌkyuz/  
@@ -20,8 +41,12 @@ __tenet__ _n_ /ˈtɛnɪt; ˈtiːnɪt/
 __tense__ _n_ Grammatical tense refers to the conjugation of a verb to reflect its place in time—that is, when the action occurred.  
 __tentative__ _adj_  
 __terraform__ _v_  
+__tmesis__ _n_  
 __trade war__  
 __tripledemic__ _n_ The simultaneous outbreaks of three infectious diseases: COVID-19, influenza, and respiratory syncytial virus (RSV).  
+__Tyrian purple__ _n_  
+__ultramarine__ _adj, n_  
+__vagrant__ _n_ One who wanders from place to place without a permanent home or a means of livelihood. _Syn_ drifter, vagabond, floater  
 __wacko__ _n_ _slang_ A person regarded as eccentric or irrational.  
 __wheelhouse__  
 __wherewithal<sup>1</sup>__ _n_ That with which to do something; means or supplies for the purpose or need, esp. money: _the wherewithal to pay my rent._  
