@@ -11286,6 +11286,7 @@ __metaverse__ _n_ /ˈmɛtəˌvɜːs/
 __meted out__ _v_ :two::hammer: _All the suspensions have been meted out._  
 __meteor__  
 __meteoroid__ _n_  
+__meter reading__ _n_  
 __meter__ _n_ _The cab driver waited with the meter running._  
 __metering__ _n_  
 __methadone__ _n_  
@@ -11389,6 +11390,7 @@ __minder__ _n_ __4__ _slang_ Someone acting as a bodyguard, guard, or assistant,
 __mindful__  
 __mindset__ _n_  
 __mine__ _vt_ __5__ To delve into and make use of; exploit: _mine the archives for detailed information._  
+__minefield__ _n_ __2__ A situation that has many potential hazards or dangers.  
 __minestrone__ _n_  
 __miniate__ _vt_ /MIN-ee-ayt/ [:scroll: From Latin miniatus (illuminated), past participle of miniare (to color red with cinnabar), from minium (cinnabar, a red mineral of mercury)] __1__ To decorate a manuscript, book, etc., with colors, gold, silver, etc. __2__ To paint in red, titles, headings, or important parts of a book or manuscript.  
 __minie balls__  
@@ -12349,6 +12351,7 @@ __offbeat__ _adj_ _slang_ :five: Not conforming to an ordinary type or pattern; 
 __offhand__ _adj_ :two::hammer:  
 __offhandedly__ _adj_  
 __officer__ _n_ :two::hammer:  
+__officialdom__ _n_  
 __officious__ _adj_ /uh-FISH-us/ Officious typically describes a person who tends to offer unwanted advice in a way that annoys the advice recipients. It is a synonym of meddlesome. _After the boss told his workers what to do, his officious assistant stepped in to micromanage._  
 __offline__ _adj_ __3__ Conducted in private or without the knowledge of others: _an offline conversation._  
 __offload__ _v_  
@@ -13290,6 +13293,7 @@ __pet<sup>1</sup>__ _n_ __3__ A person especially loved or indulged; a favorite:
 __pet<sup>2</sup>__ _v_ :two::hammer: _Petting the farm animals._  
 __petard__  
 __peter out__ _v_ :two::hammer:  
+__peterman__ _n_ /ˈpiːtəmən/ _slang_ [:scroll: From peter, slang for a safe] A burglar skilled in safe-breaking.  
 __petit jury__ _n_ (petty jury)  
 __petite__  
 __Petri dish__ _n_ :mega: (petri dish)  
@@ -13764,6 +13768,7 @@ __pols__ _n_
 __poltergeist__ _n_ :mega:  
 __poltroon__ _n_ An abject coward. _Syn_ craven, recreant  
 __polyadic__  
+__polyamorous__  
 __polyglot__ _adj, n_ /ˈpɒl iˌglɒt/  
 __polyhistor__ _n_ /pol-ee-HIS-tuhr/ A person of great or wide learning. Also polyhistorian. _Syn_ polymath  
 __polymath__ _n_ :seven::hammer: [:scroll: Greek polumathēs : polu-, poly- + manthanein, math-, to learn]  
@@ -14153,6 +14158,7 @@ __profligate<sup>1</sup>__ _adj_ :seven: __1__ Shamelessly immoral or debauched.
 __profligate<sup>2</sup>__ _n_ :three::hammer:  
 __profound__ _adj_ :mega:  
 __profoundly__  
+__profuse__ _adj_ Plentiful; copious. _Syn_ lush, riotous, luxuriant, exuberant  
 __profusely__ _adv_ :two::hammer:  
 __profusion__  
 __progeny__ _n_ :three::hammer:  
@@ -14250,6 +14256,7 @@ __prude__ _n_ :four: /prud/ Someone who is very easily shocked or embarrassed by
 __prudent__ _adj_ :two::hammer:  
 __prudently__ _adv_  
 __prudery__ _n_ :two: Excessive or affected modesty. _Syn_ Grundyism, primness, prudishness  
+__prudish__ _adj_ PROO-dish/ Overly concerned with propriety or decorum, especially in matters of sex.  
 __prudishness__ _n_  
 __prurient__ _adj_ :three::hammer:  
 __pruritus__ _n_ :three: Severe itching, often of undamaged skin. An intense itching sensation that can have various causes (as by allergies or infection or lymphoma or jaundice etc.). Ocular pruritus: itching in the eye. Brachioradial pruritus: itching in the outer part of the lower arm. Senile pruritus: itching due to aging skin. Cholestatic pruritus: itching due to liver disease.  
@@ -14800,7 +14807,7 @@ __recap<sup>2</sup>__ _vt_ _informal_ :five: To recapitulate: _recapped the head
 __recapitulate__ _v_ :two::hammer:  
 __recce__ _n_ :two::hammer:  
 __recede__ _v_  
-__receipt__ _n_ :three::mute:[recei~~p~~t]:hammer: /rih-SEET/ _Expected items pending receipt from other sources._  
+__receipt__ _n_ :four::mute:[recei~~p~~t]:hammer: /rih-SEET/ /rɪˈsit/ :es: recibo; resguardo; recepción; receta _Expected items pending receipt from other sources._  
 __receivership__  
 __receiving end__ _n_  
 __recess<sup>1</sup>__ _n_ :two::hammer: (recesses) _The deepest recesses of the brain._  
@@ -15014,6 +15021,7 @@ __renminbi__ _n_ :three: The official currency of the People’s Republic of Chi
 __renominate__ _v_  
 __renown__  
 __renowned__ _adj_ :three: Having renown; famous. _World-renowned experts._  
+__rent book__ _n_ A document that acts as a record of the regular amounts of money that you have paid as rent for accommodation.  
 __rent metal__  
 __rent__ _v_ _The elkhound’s hound was rent._  
 __rents__ _n_  
@@ -15034,6 +15042,7 @@ __replenishing__ _n_
 __replete__ _adj_  
 __replica__ _n_  
 __reportedly__ _adv_ :three::hammer: /rɪˈpɔr tɪd li, -ˈpoʊr-/ _Apparently his cellphone battery reportedly died._  
+__repossess__  
 __repote__ _n_  
 __reprehensible__ _adj_ :three: /rep-rih-HEN-suh-bul/ /ruh-pri-HEN-suh-buhl/ Deserving criticism or condemnation. Reprehensible is a formal word that means “worthy of or deserving blame or very strong criticism. Bringing or deserving severe rebuke or censure. _Syn_ condemnable, deplorable _I must apologize for my children’s reprehensible behavior, which I assure you will not go unpunished._  
 __reprieve<sup>1</sup>__ _n_ :seven: A cancellation or postponement of a punishment. _He accepted the death sentence and refused to appeal for a reprieve._ _It’s a momentary reprieve._ _Syn_ stay of execution, cancellation of punishment :es: indulto  
@@ -15048,6 +15057,7 @@ __reps__ _n_ :two::hammer: _To be out there with those guys and gain those reps,
 __reptilian conspiracy theory__  
 __repudiate__ _v_ :two::hammer:  
 __repudiation__ _n_  
+__reputable__ _adj_ /ˈrɛp yə tə bəl/  
 __reputedly__ _adv_ :three: /rɪˈpjuːtɪdlɪ/ According to general belief or supposition: _the reputedly excellent food._ :es: se dice; según se dice  
 __requiescat__ _n_ A wish or prayer for the repose of the dead.  
 __requite__ _v_  
@@ -15502,7 +15512,8 @@ __run-of-the-mill__ _adj_ :five: Not special or outstanding; average. Ordinary, 
 __runabout__ _n, v_  
 __runaway<sup>1</sup>__ _n_ :three::hammer: (runaways)  
 __runaway<sup>2</sup>__ _adj_ :two::hammer: _Bryant was a runaway winner._  
-__rundown__ _n_ :dart::five:::hammer: __1__ A point-by-point summary.  
+__rundown<sup>1</sup>__ _n_ :dart::six:::hammer: __1__ A point-by-point summary.  
+__rundown<sup>2</sup>__ _adj_ (run-down)  
 __rung__ _n informal_ :nine::m: (rungs) A particular level or position in an organization: _I started on the bottom rung of the company._ _He deserves to be in the lowest rungs of hell._ _The Romans climbed the rungs._ _The rung of the ladder._  
 __runner-up__ _n_ :nine::m::dart: (runners-up) The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _They are runners-up to Real Madrid._ _Nishikori was runner-up here last season._ _That was a close runner-up._  
 __running account__ _n_ Current account.  
@@ -15955,6 +15966,7 @@ __scythe<sup>2</sup>__ _v_ :two::hammer:
 __sea bass__ _n_ _Chilean sea bass._  
 __sea canary__ _n_  
 __sea change__ _n_ :three::astonished: A major transformation or alteration. _Derek Chauvin was convicted of murdering George Floyd last week, and a number of words and phrases in our dictionary saw dramatic increases in lookups, including_ justice is served _and_ sea change. _It sufferef a sea change._  
+__sea snail__ _n_ (seasnail, snailfish)  
 __seabed__ _n_ :two::hammer:  
 __Seabees__ _n_ :two::hammer:  
 __seabird__ _n_ A bird, such as a petrel or albatross, that frequents the ocean, especially far from shore.  
@@ -16595,6 +16607,7 @@ __sitdown__ _n_ :two::hammer:
 __sith__ _adv, conj, prep_ An archaic word for since.  
 __sitter__ _n_  
 __sitting duck__ _n_ _informal_ :four: An easy target or victim. _Competent but unprepared new graduates are sitting ducks for psychosocial harm._  
+__sitting room__ _n_  
 __sitting<sup>1</sup>__ _n_ :three: __1__ The act or position of one that sits. __2__ A period during which one is seated and occupied with a single activity, such as posing for a portrait or reading a book. _I watched all the episodes in just one sitting._ __3__ A session or term, as of a legislature or court.  
 __sitting<sup>2</sup>__ _adj_ :four: In office or actual possession. _The sitting U.S. president._ _Sitting members of parliment._  
 __situated__ _adj_ Having a place or location. _Syn_ located, placed, set  
@@ -17926,9 +17939,9 @@ __Styrofoam__ _n_ :two::hammer: _A large Styrofoam cup of coffee._
 __suave__ _adj_ :six::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
 __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  
 __sub rosa__ _adv_ :two: [Latin _sub rosā_, under the rose (from the practice of hanging a rose over a meeting as a symbol of confidentiality).] In secret; privately or confidentially: _held the meeting sub rosa._ _No, I had no idea they were planning to reject the proposal. They must have reached that decision sub rosa._  
+__sub-Saharan Africa__ _n_  
 __sub<sup>1</sup>__ _n_ Subscriber.  
 __sub<sup>2</sup>__ _v_ (subbed)  
-__sub-Saharan Africa__ _n_  
 __subacute__ _adj_ __1__ Somewhat or moderately acute: _subacute sepals._ __2__ Between acute and chronic: _subacute endocarditis._  
 __subaltern<sup>1</sup>__ _n_  
 __subaltern<sup>2</sup>__ _adj_ Inferior in rank or status. _Syn_ junior-grade, lower-ranking, petty, secondary, lowly _The subaltern officer stood at attention as his superiors examined the floor he had just finished scrubbing._  
@@ -18155,7 +18168,7 @@ __swampy__
 __swan song__  
 __swan<sup>1</sup>__ _n_ /swan/ __1__ Any of various long-necked large waterbirds, usually in white plumage. __2__ Someone or something of unusual beauty, grace, purity, etc.  
 __swan<sup>2</sup>__ _vi_ __1__ To move about in an idle, aimless way. __2__ [:scroll: From shortening of “I shall warrant” or “I swear on.”] To declare or to swear.  
-__swank<sup>1</sup>__ _adj_ _A swank condominium complex._  
+__swank<sup>1</sup>__ _adj_ :two::hammer: _A swank condominium complex._  
 __swank<sup>2</sup>__ _v_ :four::astonished::hammer:  
 __swanky__ _adj_ :six: /SWANG-kee/ __1__ Stylish; fashionable; luxurious. _Swanky steakhouses._ _Swanky gifts._ _Swanky dinner._ __2__ Pretentious; ostentatious.  
 __swap__ _n_  
@@ -18168,6 +18181,7 @@ __swash__ _n_ :two::hammer: _The susurous swash of the sea._
 __swashbuckle__ _v_  
 __swashbuckler__ _n_  
 __swashbuckling__ _adj_ :three::hammer:  
+__swat__ _n, v_  
 __swatches__  
 __swath__ _n_ :nine::m: (swathe, swathes) __1__ A row or line of grass, corn, or other crop as it falls or lies when mown or reaped. _If the day is windy, the swathes should be high and narrow._ __2__ Strip left clear by the passage of a mowing machine or scythe. _The combine had cut a deep swathe around the border of the fields._ __3__ A broad strip or area of something. _Vast swathes of countryside._ __4__ A strip, belt, or long and relatively narrow extent of anything.  
 __swathe<sup>1</sup>__ _n_  
@@ -18178,6 +18192,7 @@ __swatting__ _n_ [:scroll: Based on the term SWAT, referring to the special poli
 __sway<sup>1</sup>__ _v_ :nine::m: /sweɪ/ (swayed, swaying) __1__ Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._ __2__ To incline or bend to one side; veer: _She swayed and put out a hand to steady herself._ _The flowers bobbled and swayed._ __3a__ To incline toward change, as in opinion or feeling: _He swayed toward trying out for the chorus._ _Swayed to the Dark Side._ __b__ To fluctuate, as in outlook. __4__ Win approval or support for. _He could sway a mob._ _His speech did not sway the voters._ _He had no sway over him._ _They stood together and swayed._ _Syn_ carry, persuade  
 __sway<sup>2</sup>__ _n_ :four: __1__ The act of moving from side to side with a swinging motion. __2__ Influence or control. _The mayor has a lot of sway in our town._  
 __swear jar__  
+__sweat__ _n_ /swet/ Organic cooler.  
 __sweatpants__ _n pl_ :two: Loose thick cotton trousers with elasticated cuffs and an elasticated or drawstring waist, worn especially for exercising or relaxing.  
 __sweats__ _n pl_ /swɛts/ (Clothing & Fashion) Sweatshirts and sweatsuit trousers: jeans and sweats. :es: sudaderas y pantalones de chándal  
 __Swede__ _n_  
@@ -18191,9 +18206,9 @@ __sweethearts__
 __sweeting__ _n_ A sweet apple.  
 __swell<sup>1</sup>__ _n_ :five::hammer: _The swell of people from war-torn countries._  
 __swell<sup>2</sup>__ _v_ :four::hammer: (swelled, swelling)  
-__swell<sup>3</sup>__ _adj_  
+__swell<sup>3</sup>__ _adj_ :two: Excelent.  
 __swellhead__ _n informal_ A person regarded as arrogant or conceited. _Syn_ egoist, egotist _He was dismissed by many as a swellhead, but his ridiculously high estimation of himself sustained him through all sorts of challenging situations._  
-__sweltering__ _adj_ :seven: Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
+__sweltering__ _adj_ :eight: Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
 __swerve<sup>1</sup>__ _n_ :two::hammer: _Applying swerve and spin to the ball._  
 __swerve<sup>2</sup>__ _v_ :nine::m: (swerves, swerved) __1__ To make a sudden sideways movement while moving forwards, usually in order to avoid hitting something. (swerve violently/sharply) _The car swerved sharply to avoid the dog._ (swerve across/off/into etc) _The bus swerved off the road._ __2__ _[usually in negatives]_ _formal_ To change from an idea, course of action, purpose etc. (swerve from) _He would never swerve from the truth._  
 __swift<sup>1</sup>__ _n_ (bird)  
@@ -18262,6 +18277,7 @@ __synonymous__ _n_ :pencil2:
 __synoptic__ _adj_ :four::hammer: _Synoptic representations of wind._  
 __synoptical__  
 __syphilis__ _n_ :pencil2:  
+__Syracuse__ _n_ :mega: /ˈsɪr əˌkyus, -ˌkyuz/  
 __syringe__  
 __syrup__ _n_ _Maple syrup._  
 __syrupy__ _adj_ :two: Cloyingly sweet or sentimental. _Syn_ saccharine, treacly _I can appreciate a sentimental or romantic film, but syrupy “chick flicks” are another thing altogether._  
@@ -18286,6 +18302,7 @@ __tabulate__ _v_ :two::hammer: (tabulated) _Tabulated scientific data._
 __tabulator__ _n_ :pencil2: __1__ A person or thing that tabulates. _Tabulators are being paid $25 for each half day they work._  
 __tachometer__  
 __tachyarrythmia__ _n_  
+__tachyphagia__ _n_ Excessively rapid eating or bolting of foo.  
 __tachypnea__ _n_ Abnormally rapid and shallow breathing.  
 __tachypnoea__  
 __tacit__ _adj_ Implied by or inferred from actions or statements. _Syn_ understood, silent  
@@ -18300,7 +18317,7 @@ __tactfully__ _adv_ :two::hammer:
 __tactical__ _adj_ _Tactical plot._  
 __tactile__ _adj_ /TAK-tul/  
 __tad__ _n informal_ :five::hammer:  
-__tadpole__ _n_  
+__tadpole__ _n_ :two::hammer:  
 __tae kwon do__ _n_ (taekwondo) [:scroll: A Korean discipline whose name is formed from the words tae (kick), kwon (fist), and do (way).]  
 __taffeta__ _n_  
 __taffy__ _n_ __1__ A chewy candy made of sugar or molasses boiled down, often with butter. __2__ _informal_ Flattery.  
@@ -18309,6 +18326,7 @@ __tag<sup>2</sup>__ _v_
 __tagalong__ _n_  
 __tagline__ _n_ :two: __1__ (Journalism & Publishing) An amusing or memorable phrase designed to catch attention in an advertisement. __2__ Another name for punchline.  
 __tahini__ _n_  
+__Tahiti__ _n_ :mega: /təˈhi ti, tɑ-/  
 __Tahitian__  
 __tailgate__ _v_ :two::hammer:  
 __tailor__ _v_ :seven::hammer: (tailored) _All patients with asthma should have their risk of having a future attack assessed and have their monitoring, treatment, and care tailored accordingly._  
@@ -18345,6 +18363,7 @@ __talk over__ _phr v_
 __talk shit__  
 __talk up__  
 __talk__ _v_ :mute:[ta~~l~~k]  
+__talkie__ _n_ _informal_ An early film with a soundtrack. Full name: _talking picture_.  
 __talking point__ _n_  
 __talktative__ _adj_ :two::hammer:  
 __Tall Blacks__ _n pl_  

@@ -23,31 +23,6 @@ __largess__ _n_
 __lice__ _n pl_ /laɪs/ Plural of louse. :es: piojos  
 __licensee__ _n_ (licencee)  
 __mar__ _v_  
-__meter reading__ _n_  
-__minefield__ _n_ __2__ A situation that has many potential hazards or dangers.  
-__officialdom__ _n_  
-__peterman__ _n_ /ˈpiːtəmən/ _slang_ [:scroll: From peter, slang for a safe] A burglar skilled in safe-breaking.  
-__polyamorous__  
-__profuse__ _adj_ Plentiful; copious. _Syn_ lush, riotous, luxuriant, exuberant  
-__prudish__ _adj_ PROO-dish/ Overly concerned with propriety or decorum, especially in matters of sex.  
-__receipt__ _n_ /rɪˈsit/ :es: recibo; resguardo; recepción; receta  
-__rent book__ _n_ A document that acts as a record of the regular amounts of money that you have paid as rent for accommodation.  
-__repossess__  
-__reputable__ _adj_ /ˈrɛp yə tə bəl/  
-__rundown<sup>1</sup>__ _n_  
-__rundown<sup>2</sup>__ _adj_ (run-down)  
-__sea snail__ _n_ (seasnail, snailfish)  
-__sitting room__ _n_  
-__swank__  
-__swat__ _n, v_  
-__sweat__ _n_ /swet/ Organic cooler.  
-__swell__ _adj_ Excelent.  
-__sweltering__ _adj_  
-__Syracuse__ _n_ :mega: /ˈsɪr əˌkyus, -ˌkyuz/  
-__tachyphagia__ _n_ Excessively rapid eating or bolting of food.  
-__tadpole__ _n_  
-__Tahiti__ _n_ :mega: /təˈhi ti, tɑ-/  
-__talkie__ _n_ _informal_ An early film with a soundtrack. Full name: _talking picture_.  
 __tank__ _n_ __5__ A tank top.  
 __taper__ _n_  
 __tarnish__ _v_  
