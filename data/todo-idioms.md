@@ -1,3 +1,28 @@
+__a hill of beans__ Something of little or no importance, value, or worth.  
+__all the difference in the world__ The greatest degree of difference that is possible or conceivable. Without the verbs “mean” or “make,” it is used to compare two disparate things. _There’s all the difference in the world between knowing how to play and actually performing on the field._ _I was sympathetic at first, but finding out you didn’t even study for the test makes all the difference in the world. You’re grounded!_  
+__an honest mistake__ A mistake made unintentionally or unknowingly and without the intention of causing harm; a mistake that anyone might have made in similar circumstances.  
+__be honor-bound to (do something)__  
+__be hounded (by someone or something)__ To be pursued, chased, badgered, or pestered (by someone or something), especially persistently or relentlessly.  
+__EGOT__ An abbreviation for “Emmy, Grammy, Oscar, Tony,” referring to the rare feat of winning the major awards in television, music, film, and theater. _Elton John joins elite EGOT ranks with Emmy win. John is only the 19th person to have achieved EGOT status (Whoopi Goldberg, Viola Davis, and Mel Brooks are some of the others)._  
+__end (something) on a high note__  
+__ferret out__ To discover or retrieve something, usually with careful effort. A noun or pronoun can be used between “ferret” and “out.” _Now that I’m a successful actress, I’m worried about what the media will ferret out about my tawdry past._  
+__finagle__  
+__girl grip__ _Girl grip_ is a slang phrase that refers to holding multiple items in one hand by grasping them between fingers. Typically, the phrase girl grip refers to a person using a clawed hand to hold multiple items at once. For example, a person may hold a paper cup using primarily their thumb and pointer finger while holding a smartphone, keys, receipt, and wallet with their remaining fingers on the same hand.  
+__greige__ A neutral color that looks like a mix of gray and beige.  
+__happy medium__ A healthy balance between two extremes.  
+__honey-do list__  
+__honey-mouthed__Smooth, soothing, and sweet in voice, especially in a persuasive or seductive manner or intent.  
+__horse-trade__ To negotiate, trade, or bargain in a shrewd, judicious manner. Primarily heard in US.  
+__hot air__ Lies, exaggerations, or nonsense. _We’re not just blowing hot air when we tell you that conflate can actually be traced back to the same roots as the English verb blow._  
+__hot desking__ The act or practice of sharing desks or workstations between employees in an office so as to cut down on the amount of office space required.  
+__hot tip__  
+__house cooling party__ A party thrown to commemorate when someone leaves an apartment, flat, or house.  
+__however much__ No matter how much.  
+__hustle (one’s) bustle__ To increase one’s pace or sense of urgency; to hurry up; to get moving quickly. _We’d better hustle our bustle if we want to get to the movie theater on time!_  
+__jamming__ _slang_ Awesome; really exciting. _Man, that was an absolutely jamming party!_  
+__out of steam__ :dart: Completely exhausted, fatigued, or without energy or motivation. _I’m all out of steam, I can’t walk another step._  
+__pave the way (for someone or something)__  
+__Prince Charming__  
 __regardless of (something)__  
 __rep__ __2__ _n_ A shortening of “reputation.”  
 __riffle__ :two: In James Ellroy’s novels, “riffle” is a verb that means to search quickly through something, usually a pile of papers or documents. It implies a sense of urgency and impatience, as if the person doing the riffling is searching for something important and doesn’t have time to waste.  
