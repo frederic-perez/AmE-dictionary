@@ -3947,7 +3947,8 @@ __over the top__ :two::hammer:
 __overarching__ The idiom “overarching” refers to something that is all-encompassing, overarching, or overarching in nature. It is often used to describe a concept, idea, or principle that is broad and comprehensive, covering or influencing many different aspects or elements within a particular context. _An overarching plan._  
 __owing to__ :dart::three: Because of; as a result of; due to. _Owing to construction on the highway, please anticipate higher levels of traffic than usual._ _Cancer plans are essential owing to the complexity of care._  
 __own someone__ The idiom “own someone” typically means to have power or control over someone else. It can imply that the person being “owned” is subservient or subordinate to the person doing the “owning.” For example, if someone says, “I totally owned that job interview,” it means they were confident and in control of the situation, and they likely impressed the interviewer. Conversely, if someone says “I got owned by my boss at the meeting,” it implies that they felt intimidated or powerless, and the boss had the upper hand in the conversation.  
-__oy__ :two: A popular internet slang term used to express excitement, enthusiasm, or confirmation.  
+__oy__ :dart::three: __1__ In the novels by James Ellroy, “oy” is a Yiddish expression that is often used to convey frustration, dismay, or exasperation. _Tom went oy and walked out._ __2__ A popular internet slang term used to express excitement, enthusiasm, or confirmation.  
+__pablum__ In Ellroy’s novels, it’s used as a derogatory term for something that is bland, uninteresting, or lacking in substance. It’s sort of like saying that something is “boring” or “unoriginal.”  
 __pace around__ To walk around nervously or anxiously. _He was pacing around making people nervous._  
 __pachuco__  
 __package deal__ :two: A group of many or various things sold together at a single, often reduced price. _They’re offering a package deal where you buy three DVDs and get a fourth for free._  
@@ -3955,10 +3956,10 @@ __packed to the gills__ :two::hammer:
 __pad__ _n_ _I’m at my pad._  
 __paint a (some kind of) picture of (something)__ To give an elaborate or detailed description of something that portrays it in a specific way. _The board meeting painted a pretty grim picture of the company’s future._  
 __paint the town red__ Have a good time.  
-__pale in comparison__ To be or seem less important, impressive, or otherwise deficient when compared to someone or something else. _The film was enjoyable, but it pales in comparison to the original._ _Bard still pales in comparison to GPT-4 when it comes to the creative stuff._  
+__pale in comparison__ :two: To be or seem less important, impressive, or otherwise deficient when compared to someone or something else. _The film was enjoyable, but it pales in comparison to the original._ _Bard still pales in comparison to GPT-4 when it comes to the creative stuff._  
 __palooka__  
 __palsy-walsy__  
-__pan out__  
+__pan out__ :two::hammer:  
 __panic attack__  
 __paper chase__ A task that involves completing and/or going through a lot of paperwork. _After getting married and buying a house, doing my taxes has become a real paper chase._  
 __pardon my French__ :two: Excuse me for swearing.  
@@ -3970,41 +3971,47 @@ __party pooper__ :two: (party poopers) A person who dislikes or refuses to parti
 __pass along__  
 __pass away__ _euphemism_ To die. _When I pass away, I don’t want an elaborate funeral._  
 __pass on__  
+__pass the buck__ To shift or reassign the blame or responsibility (for something) to another person, group, or thing.  
 __pass up__  
 __pass with flying colors__ :two::hammer:  
 __pat (one) on the back__ To praise one. _The only reason he stays late at work is so the boss will pat him on the back._  
 __patch up__ :three::dart: __1__ To mend, repair, or service something to the point of being functional or whole again, especially temporarily, typically by adding material to cover or connect broken or missing parts. A noun or pronoun can be used between “patch” and “up.” To fix something quickly so it can be used until it’s repaired properly or replaced. _John patched up the hose with an old bike tube._ __2__ To restore a relationship damaged by a disagreement or dispute. A noun or pronoun can be used between “patch” and “up.” _I tried to patch up my dispute with Marcy, but she isn’t ready to forgive me._ __3__ To treat someone’s wound, injury, or illness. A noun or pronoun can be used between “patch” and “up.” _I know you’re hurting, but the doctors here will patch you up._  
-__pave the way (for someone or something)__  
+__pave the way (for someone or something)__ :three::hammer:  
 __pave the way__ :two::hammer:  
 __pay (for something) out of pocket__  
 __pay (for something) up front__  
 __pay (one’s) last respects__ To show or express one’s respect for someone who has died, especially by attending their funeral, wake, memorial service, etc. _Anyone who wishes to pay their last respects to my husband is welcome to do so at the viewing this Saturday, from 10 AM to 4 PM._  
 __pay dirt__ Something very, particularly, or abundantly valuable or useful, especially that which has been discovered after a long or arduous search. Used especially in the phrase “hit/strike pay dirt.” _I was combing through books in the library for hours trying to find material for my thesis, when finally I hit pay dirt with an old collection of literary criticisms from the 1970s._  
 __pay homage (to someone or something)__ :two::hammer:  
-__pay it forward__ To perform some act of kindness for someone else after being the recipient of such an act oneself. _Treat people with generosity and kindness. Chances are, they’ll pay it forward and be kind to others, too._  
+__pay it forward__ :two: To perform some act of kindness for someone else after being the recipient of such an act oneself. _Treat people with generosity and kindness. Chances are, they’ll pay it forward and be kind to others, too._  
 __pay off__ _Netflix’s crackdown on password sharing pays off with almost 6 million new subscribers._  
 __pay out__ _It pays out in the long run._  
 __pay thanks__ To pay thanks to someone is an expression of gratitude and appreciation. It can be used in a variety of situations, such as when expressing gratitude after receiving a gift or help from another person, or simply thanking them for being part of your life.  
 __pay the price__ To suffer the consequences for doing something or risking something. _Oh, my head! I am paying the price for drinking too much last night._  
 __pay through the nose (for something)__ :three::hammer:  
+__PC__  
 __peace of mind__ A tranquility that results from not having worries, guilt, or problems. _If peace of mind is more important to you than earning a lot of money, maybe you should consider teaching._  
 __peace out__ :two: To depart; to leave. _Let’s peace out. It’s too hot in here._ _Electronic health records are everywhere, so peace out, paper charts._  
+__peach fuzz__ _informal_ A nickname for “vellus hair,” a very thin, soft layer of hair, likened to that which appears on the skin of a peach.  
 __pearl jam__ _Syn_ man batter, semen, come, man juice  
 __pearly whites__ A person’s set of teeth. _Be sure to brush your pearly whites twice a day, or you might end up getting a cavity!_  
 __pecking order__ :three:::hammer: _Regardless of how good you are at your job, whether you’re a consultant, [...,] physician’s associate, or GP, qualifications still puts you in a pecking order._  
 __pedal to the metal__ __1__ Drive as fast as you can; push the accelerator down. _We’re going to be late—pedal to the metal!_ __2__ Do something with maximum speed or effort. _Pedal to the metal, boys—we need to get these packages shipped by the end of the day._ _OpenAI has been going pedal to the metal for months now._  
 __peel off__ __3__ To deviate or depart from a group’s course or direction of movement. _When he saw his parents approaching, Tom peeled off from his friends and ducked down a side alley._  
 __peeping Tom__ A person who secretly watches others, especially for sexual gratification; a voyeur.  
+__peeps__  
 __peg it__ To leave or depart very quickly or suddenly. _You’d better peg it, or you’re going to be late for school!_ _After a really long day at the office, I pegged it out of there as soon as the clock struck 5!_  
 __peg someone as something__ (have someone pegged as something) To think of someone in a certain way. _Susan pegged the new employee as a lazy worker._ _She had him pegged as a fortune hunger._  
 __penguin suit__ _slang_ A man’s formal evening wear, i.e., a tuxedo. _I need to find somewhere I can rent a penguin suit for my brother’s wedding this summer._  
 __people pleaser__ (_less commonly_ people-pleaser)  
+__percolate__ In the context of James Ellroy’s novels, “percolate” means to spread or become known gradually or by word of mouth. It’s often used to describe the way information or rumors circulate in the criminal underworld, or how news of a crime or scandal might slowly reach the public.  
 __perfect storm__ :seven: A critical or disastrous situation created by a powerful concurrence of factors.  
 __period__  
 __perk up__ :four: To make or become more lively, energetic, attentive, cheerful, dynamic, etc. _I wish you would perk up._ _I think I need some coffee to perk me up._ _The mint perks everything up._  
 __pester (someone) for (something)__ To continually annoy someone with requests for something. _I wish you would stop pestering me for a new bicycle; your birthday will be here soon enough!_  
 __pet hate__ A source of annoyance for one; a pet peeve. _Ugh, my pet hate is people who chew with their mouths open._  
 __Peter Pan syndrome__ A psychological state or condition in which a grown person cannot or refuses to act like an adult; a stubborn and persistent immaturity found in an adult person. _I seem cursed to only find men who have some damned Peter Pan syndrome. I’m tired of going out with guys who act like children!_  
+__phase out__ :two::hammer:  
 __phish__ To attempt to steal personal information that can be used to defraud someone by pretending to be person or website that legitimately requires such information.  
 __phooey__  
 __phub__ :two::hammer:  
@@ -4030,8 +4037,12 @@ __piece by piece__ Incrementally; slowly; one piece at a time. In stages, gradua
 __piece of cake__  
 __piece of shit__  
 __piece of work__ :three: A remarkable person, achievement, or product: _“He’s a very tough piece of work” (Ted Koppel)._ _You’re a piece of work, Bertrand._  
+__piece out__  
+__piece something out__  
 __pig in a poke__ _n_ Something purchased, accepted, or acquired without a preliminary examination.  
+__pile up__ _The bad news keeps piling up for Elon Musk._  
 __pill__ __1__ _slang_ An unsavory, unpleasant, or difficult person. _Tom is such a pill, but I have to work with him to get this project finished, unfortunately._  
+__pillow talk__ Intimate conversations between two people in a romantic relationship when they are in bed together.  
 __pin (something) down__ _Pinned it down to two locations._  
 __pin-drop silence__  
 __pink elephants__ This term refers to hallucinations or strange imaginary things seen by people as a result of heavy drinking or the use of narcotics.  
@@ -4198,6 +4209,7 @@ __put a spoke in (one’s) wheel__
 __put an end to (something)__  
 __put back__ :two: __2__ To stall, delay, or postpone something until a later time or date. In this usage, a noun or pronoun can be used between “put” and “back.” _They decided to put back the release date of their war film as a sign of respect to the victims of the attack._  
 __put food on the table__ :two: To earn enough money to provide the basic necessities for oneself and (often) one’s family. _With my hours at work being cut so dramatically, I just don’t know how I’ll be able to put food on the table._  
+__put forth__  
 __put in (one’) two cents’ worth__ To share one’s opinion or point of view for whatever it may be worth, generally when it is unasked for. _I find Jeff’s husband a bit trying at times. He always insists on putting in his two cents’ worth whether we want his opinion or not!_  
 __put in a good word for someone__  
 __put it there__ :astonished: Shake my hand. As in greeting or in agreement to a deal. _A: “50 dollars is my final offer for the computer.” B: “I wish I could get more for it, but you win. Put it there!”_ _Hey, John, put it there! I haven’t seen you in a donkey’s age!_  
@@ -4266,17 +4278,18 @@ __raise the bar__ :three: To raise the standards of quality that are expected of
 __raise the stakes__  
 __rake in (something)__ :two: To acquire or accumulate an abundance of something, especially money.  
 __ram into (someone or something)__  
-__ramp up__ :five: To increase. A noun or pronoun can be used between “ramp” and “up.” _Ever since that break-in, they’ve really ramped up security at the office._  
+__ramp up__ :six: To increase. A noun or pronoun can be used between “ramp” and “up.” _Ever since that break-in, they’ve really ramped up security at the office._ _The country needs to ramp up its CCTA program to meet demand._  
 __rank and file__  
 __rapid fire__ _Start with rapid fire decisions._  
 __rarer than hens’ teeth__ Incredibly scarce or rare; extremely difficult or impossible to find.  
 __raring to go__ Very eager, excited, or anxious to go somewhere or begin doing something. _The kids were already in the car and raring to go._  
 __rat fink__  
 __rat out__  
-__rat race__ :two: [:scroll: The term started out as a literal racing of rats (earliest use 1783). Then it was used as military slang (1931) to refer to planes or ships chasing each other or racing. Eventually the term evolved into its current sense. Imagine a rat running through a laboratory maze to find another piece of cheese or an employee hoping to climb the next rung of the corporate ladder while sacrificing personal health and peace and you’d have a good idea of the term rat race.] A repetitive competitive activity, such as the modern working life in which one constantly struggles to attain wealth, status, etc. __1__ A fierce competition for success, wealth, or power. _The company’s environment felt like a rat race—employees were constantly sabotaging each other to climb the corporate ladder._ __2__ :astonished: A busy, tiring routine. _Cathy was tired of the rat race and knew she needed to get a less stressful job._  
+__rat race__ :four: [:scroll: The term started out as a literal racing of rats (earliest use 1783). Then it was used as military slang (1931) to refer to planes or ships chasing each other or racing. Eventually the term evolved into its current sense. Imagine a rat running through a laboratory maze to find another piece of cheese or an employee hoping to climb the next rung of the corporate ladder while sacrificing personal health and peace and you’d have a good idea of the term rat race.] A repetitive competitive activity, such as the modern working life in which one constantly struggles to attain wealth, status, etc. __1__ A fierce competition for success, wealth, or power. _The company’s environment felt like a rat race—employees were constantly sabotaging each other to climb the corporate ladder._ __2__ :astonished: A busy, tiring routine. _Cathy was tired of the rat race and knew she needed to get a less stressful job._  
+__ratchet up__  
 __ratchet-mouth__ _n_ (motor-mouth) Someone who talks incessantly. (Also a term of address.) _Tell that ratchet-mouth to shut up! Hey, motor-mouth! Don’t you ever stop?_  
 __rattle the chains__ An expression used to describe challenging the status quo, pushing boundaries, and striving for something more. It can be used to encourage someone to think outside of the box, take an unconventional approach, or strive for something bigger and better.  
-__rave about (something)__ To give wildly enthusiastic praise for something. _My mom was really impressed with your cooking—she spent the whole evening raving about it!_  
+__rave about (something)__ :two: To give wildly enthusiastic praise for something. _My mom was really impressed with your cooking—she spent the whole evening raving about it!_  
 __raw deal__ _n_ :dart: An instance of unfair treatment: _got a raw deal from our insurance company._  
 __raze (something) to the ground__ To completely demolish or destroy something until it is nothing but rubble on the ground. _We’ve decided to raze this rickety old building to the ground._  
 __reach for the stars__ :two: Have high or ambitious aims.  
@@ -4292,11 +4305,15 @@ __red balloon__ The slang term “red balloon” is commonly used to refer to a 
 __red flag__ :four::hammer:  
 __red herring__  
 __red hot__ :two::hammer: _Now the market is red hot._  
+__red line__  
 __red pill__ :two::hammer:  
+__red tape__  
+__red-faced__ __1__ Blushing from embarrassment. _I was completely red-faced when the teacher made me speak in front of the whole class._  
 __redeye__ An overnight flight that arrives at its destination very early in the morning. _My original flight was cancelled, so I caught the redeye back to Philadelphia and got in at four in the morning._ _I boarded a red-eye back to New York._  
 __redound on (someone or something)__  
 __reduce (one) to tears__  
 __reel off__  
+__refrain from (doing something)__ To make a considered, conscious effort not to do something.  
 __reinvent (oneself)__ :three: To create a new style or persona for oneself; to change one’s pursuits, way of life, etc. _As a teenager, I was always trying to reinvent myself to be cooler or more mysterious._ _If you’re feeling stuck in a rut with your job, maybe it’s time to reinvent yourself._  
 __reinvent the wheel__  
 __relate to (someone or something)__  

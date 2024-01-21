@@ -1,28 +1,3 @@
-__oy__ :dart: In the novels by James Ellroy, “oy” is a Yiddish expression that is often used to convey frustration, dismay, or exasperation. _Tom went oy and walked out._  
-__pablum__ In Ellroy’s novels, it’s used as a derogatory term for something that is bland, uninteresting, or lacking in substance. It’s sort of like saying that something is “boring” or “unoriginal.”  
-__pale in comparison__ To be or seem less important, impressive, or otherwise deficient when compared to someone or something else.  
-__pan out__  
-__pass the buck__ To shift or reassign the blame or responsibility (for something) to another person, group, or thing.  
-__pave the way (for someone or something)__ :two::hammer:  
-__pay it forward__ To perform some act of kindness for someone else after being the recipient of such an act oneself.  
-__PC__  
-__peach fuzz__ _informal_ A nickname for “vellus hair,” a very thin, soft layer of hair, likened to that which appears on the skin of a peach.  
-__peeps__  
-__percolate__ In the context of James Ellroy’s novels, “percolate” means to spread or become known gradually or by word of mouth. It’s often used to describe the way information or rumors circulate in the criminal underworld, or how news of a crime or scandal might slowly reach the public.  
-__phase out__ :two::hammer:  
-__piece out__  
-__piece something out__  
-__pile up__ _The bad news keeps piling up for Elon Musk._  
-__pillow talk__ Intimate conversations between two people in a romantic relationship when they are in bed together.  
-__put forth__  
-__ramp up__ _The country needs to ramp up its CCTA program to meet demand._  
-__rat race__ :two::hammer:  
-__ratchet up__  
-__rave about (something)__ To give wildly enthusiastic praise for something.  
-__red line__  
-__red tape__  
-__red-faced__ __1__ Blushing from embarrassment. _I was completely red-faced when the teacher made me speak in front of the whole class._  
-__refrain from (doing something)__ To make a considered, conscious effort not to do something.  
 __regardless of (something)__  
 __rep__ __2__ _n_ A shortening of “reputation.”  
 __riffle__ :two: In James Ellroy’s novels, “riffle” is a verb that means to search quickly through something, usually a pile of papers or documents. It implies a sense of urgency and impatience, as if the person doing the riffling is searching for something important and doesn’t have time to waste.  
