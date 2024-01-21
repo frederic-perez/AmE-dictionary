@@ -198,31 +198,6 @@ __top-flight__ Stellar; excellent; of the highest level of quality or worth. Can
 __touch up__ :dart::two::hammer: _You need to touch up your hair color._  
 __tough love__  
 __train wreck__ :dart:  
-__trickle down__  
-__trifle with (someone or something)__ To treat or deal with someone or something in a frivolous or disrespectful manner. Often used in passive constructions.  
-__true to (one’s) word__ As one has promised.  
-__tuff__ :two: In James Ellroy’s novels, the term “tuff” is often used to describe someone who is tough, gritty, and hardened. Ellroy is known for his hardboiled writing style and his focus on the seedy underbelly of society, and the term “tuff” reflects that. It’s often used to describe characters who are street-smart, tough-talking, and unafraid to engage in violent or risky behavior.  
-__turkey__  
-__turn (someone or something) upside down__  
-__turn heads__ To capture people’s attention due to being exceptionally interesting, beautiful, unusual, or novel. The image is of people literally turning to stare at something as it passes by.  
-__turn out all right__  
-__turnaround jumper__ _basketball_  
-__turning poin__ A time when things may change; a point at which a change of course is possible or desirable.  
-__turning point__  
-__twisted__  
-__two peas in a pod__ Two people who are very similar, typically in interests, dispositions, or beliefs.  
-__two-way street__  
-__uh-huh__  
-__under pressure__ Facing or enduring something such as pressure or a deadline.  
-__under the hood__  
-__under-promise and over-deliver__ To avoid raising expectations in order to subsequently exceed them. Used as a strategy to ensure the satisfaction of one’s client, customer, boss, etc. Also spelled without hyphens. _I want all of our customer service representatives to under-promise and over-deliver, so that all experiences with our company are positive ones._  
-__unheard of__ Extremely uncommon or unusual; beyond belief. Hyphenated if used as a modifier before a noun. _His prowess on the balance beam is unheard of._  
-__up a notch__ To an increased or extreme degree of intensity or quality.  
-__up and coming__ An _up and coming_ person is someone who is likely to be successful in the future.  
-__up and down__ __2__ Going between success and failure.  
-__up for grabs__  
-__up front__  
-__upbeat__ _informal_ Of, inspiring, or exuding cheerfulness, happiness, or optimism.  
 __urban legend__ A myth or piece of folklore that is totally false. _That story about the rats in the sewer being as big as dogs is an urban legend. It’s just not so._  
 __vamoose__ :two::hammer: (vamoosed)  
 __veep__ _n_ /vip/ A vice president. _The veep is going to preside today._  

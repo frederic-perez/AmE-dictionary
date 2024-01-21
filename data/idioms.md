@@ -5275,7 +5275,9 @@ __treasure hunt__
 __treasure trove__  
 __trick<sup>1</sup>__ _n_ __1__ Sexual intercourse, occas. other forms of sexual encounter, esp. a prostitute’s intercourse (or other activity) with a client.  
 __trick<sup>2</sup>__ _v_  
+__trickle down__  
 __tricks up one’s sleeve__ _Chicago has a few tricks up its sleeve._  
+__trifle with (someone or something)__ To treat or deal with someone or something in a frivolous or disrespectful manner. Often used in passive constructions.  
 __trigger__ :five: __1__ _n_ Something that causes one psychological distress, typically because it reminds them of a past trauma. _The graphic descriptions in that article were a trigger for me._ __2__ :dart: _v_ To cause psychological distress in someone, typically by reminding them of a past trauma. _This article might be triggering for child abuse survivors._  
 __trip__ _We were tripping on acid when we broke._  
 __Trojan horse__ :two::hammer:  
@@ -5284,19 +5286,24 @@ __trouble is__ _Trouble is, that man is my last hope._
 __true blue__ :dart: Loyal and steadfast. _Her true-blue fans have continued to support her, even during this scandal._  
 __true enough__ _It was true enough._  
 __true story__  
+__true to (one’s) word__ As one has promised.  
 __true to form__ :two: Exactly as expected; following the usual pattern. _Susie’s attendance has always been pretty erratic and, true to form, she didn’t come to today’s meeting._  
 __trump card__ _It was time for me to play my trump card._  
 __try out__ :two::hammer:  
+__tuff__ :two: In James Ellroy’s novels, the term “tuff” is often used to describe someone who is tough, gritty, and hardened. Ellroy is known for his hardboiled writing style and his focus on the seedy underbelly of society, and the term “tuff” reflects that. It’s often used to describe characters who are street-smart, tough-talking, and unafraid to engage in violent or risky behavior.  
 __tug of war__ :two: A struggle for supremacy.  
 __turf war__ :two::hammer:  
-__turkey__ __3__ _n_ _slang_ Stupid person.  
+__turkey__ :two: __3__ _n_ _slang_ Stupid person.  
 __turn (one’s) back on (someone or something)__ :two: To ignore, disregard, or exclude someone or something; to abandon, give up on, or forsake someone or something. _It’s clear that the company has turned its back on customers._  
+__turn (someone or something) upside down__  
 __turn (something) on its head__ :three::hammer:  
 __turn a deaf ear (to someone or something)__  
 __turn around__ To change something unsuccessful into something successful.  
 __turn away__ To refuse to let someone come into a place.  
+__turn heads__ To capture people’s attention due to being exceptionally interesting, beautiful, unusual, or novel. The image is of people literally turning to stare at something as it passes by.  
 __turn of phrase__  
 __turn on someone__ To attack someone. _I thought the strange dog was friendly, but suddenly it turned on me and bit me._  
+__turn out all right__  
 __turn out__ __6__ _v_ To result or end up as; to be ultimately discovered or considered to be (something). _I thought the dinner turned out really well!_ _He turned out to be a liar when all was said and done._ _Turns out I never lost the ticket—it was in my pocket the whole time!_  
 __turn over a new leaf__ To change one’s behavior, usually in a positive way. _Jason has really turned over a new leaf—he hasn’t been in the slightest bit of trouble in months._  
 __turn something around__  
@@ -5304,13 +5311,17 @@ __turn the corner__
 __turn the tables__ :six: To change or reverse something dramatically. _Wow, they really turned the tables on their opponents after the intermission. The score went from 0-3 to 5-3!_ _Feds turning the tables on sexual predators._  
 __turn turtle__ To turn upside down; to flip over. This phrase is often used to describe overturned boats or ships. _You need to wear a life jacket because there’s always a chance that the boat could turn turtle._  
 __turn up the heat (on someone or something)__ To put pressure on someone or something; apply additional pressure to someone or something. _The FBI turned the heat up on the gang. The police turned up the heat on the people who park illegally every day._  
+__turnaround jumper__ _basketball_  
+__turning point__ :two: A time when things may change; a point at which a change of course is possible or desirable.  
 __twiddle one’s thumbs__ :astonished: Be bored or idle, as in _There I sat for three hours, twiddling my thumbs, while he made call after call._ This expression alludes to the habit of idly turning one’s thumbs about one another during a period of inactivity.  
+__twisted__  
 __twists and turns__ Surprising changes. _It’s hard to follow all the twists and turns of the plot._  
 __two a penny__ Very common, ordinary, or widespread. _At first, they were quite novel and interesting, but now these little organic cafés have become two a penny._  
-__two-way street__ _n_ :three: An arrangement or a situation involving reciprocal obligation or mutual action. A situation in which both sides must put forth an equal amount of effort to achieve a desired result. _Respect is a two-way street—you have to give it if you expect to receive it._  
+__two peas in a pod__ Two people who are very similar, typically in interests, dispositions, or beliefs.  
+__two-way street__ _n_ :four: An arrangement or a situation involving reciprocal obligation or mutual action. A situation in which both sides must put forth an equal amount of effort to achieve a desired result. _Respect is a two-way street—you have to give it if you expect to receive it._  
 __twofer__  
 __U-turn__  
-__uh-huh__  
+__uh-huh__ :two::hammer:  
 __uh-oh__ _interj_ _Uh-oh. The cops are here._  
 __uncanny valley__ :four::hammer:  
 __uncharted territory__ :three::hammer:  
@@ -5323,24 +5334,29 @@ __under (one’s)/the skin__ __1__ Inherently; essentially. In this usage, “th
 __under fire__ Subject to intense criticism or judgment. _You will definitely come under fire if they find out that you were responsible for the printing error._  
 __under one’s belt__  
 __under one’s thumb__  
+__under pressure__ Facing or enduring something such as pressure or a deadline.  
 __under the aegis of__ Under the protection, sponsorship, or patronage of; under the supervision, control, or management of. _This course will be offered under the aegis of the English Department._  
 __under the guise of (something)__  
-__under the hood__  
+__under the hood__ :two::hammer:  
 __under the radar__ Doing something without other people noticing.  
 __under the sun__ :three: It’s used for emphasizing that something includes a very wide range of things. _Doctors did everything under the sun, but they couldn’t save her life._  
 __under the weather__ :two: To feel ill.  
 __under the yolk__  
+__under-promise and over-deliver__ To avoid raising expectations in order to subsequently exceed them. Used as a strategy to ensure the satisfaction of one’s client, customer, boss, etc. Also spelled without hyphens. _I want all of our customer service representatives to under-promise and over-deliver, so that all experiences with our company are positive ones._  
 __undivided/full/complete attention__ Concentration on what someone is doing or saying. _Please give the speaker your undivided/full/complete attention._  
-__unheard of__ :five: Extremely uncommon or unusual; beyond belief. Hyphenated if used as a modifier before a noun. _His prowess on the balance beam is unheard of._ _Investors began making unheard-of amounts of money on these risky investments._ _It’s not unheard of for individual contributors to question their superiors’ decisions._  
+__unheard of__ :six: Extremely uncommon or unusual; beyond belief. Hyphenated if used as a modifier before a noun. _His prowess on the balance beam is unheard of._ _Investors began making unheard-of amounts of money on these risky investments._ _It’s not unheard of for individual contributors to question their superiors’ decisions._  
 __unpack__ :six: To try to understand and explicate a complex, and possibly controversial, statement, passage, etc. _Who can unpack what the author is saying in this paragraph?_  
 __unsung hero__  
 __until all hours (of the day and night)__ Until a very late hour of the night or early hour of the morning. _Johnny keeps taking the car and staying out until all hours, and I just don’t know what to do anymore!_ _She sat up till all hours trying to finish her essay._  
 __until kingdom come__ For a very long, indefinite amount of time; forever.  
 __until next time__ :two::hammer:  
+__up a notch__ To an increased or extreme degree of intensity or quality.  
 __up a tree__ In a difficult situation.  
-__up and coming__ (up-and-coming) On a trajectory to become established or successful, especially in a career or as a business. Sometimes hyphenated. _She’s an up and coming star in the marketing department._ _I like to catch up-and-coming bands at small venues, before they hit it big._ _Check out NFX’s list of the top 75 up-and-coming generative AI startups._  
+__up and coming__ :two: (up-and-coming) An _up and coming_ person is someone who is likely to be successful in the future. On a trajectory to become established or successful, especially in a career or as a business. Sometimes hyphenated. _She’s an up and coming star in the marketing department._ _I like to catch up-and-coming bands at small venues, before they hit it big._ _Check out NFX’s list of the top 75 up-and-coming generative AI startups._  
+__up and down__ __2__ Going between success and failure.  
 __up and running__ :three::hammer: _The cluster is up and running within a very small timescale._  
-__up for grabs__ :five: Available for anyone.  
+__up for grabs__ :six: Available for anyone.  
+__up front__  
 __up in arms__  
 __up to (one’s) eyeballs (in something)__ :astonished: Extremely busy (with something); deeply or overly involved (in something); possessing, filled up with, or overwhelmed by an excessive amount (of something). _There’s no way I can take a vacation right now, I’m up to my eyeballs in work at the moment!_  
 __up to (one’s) neck in alligators__ :two: _business adage_ So overcome or preoccupied by various tangential worries, problems, or tasks that one loses sight of the ultimate goal or objective. The full expression is some variation of “When you are up to your neck in alligators, it’s easy to forget that the goal was to drain the swamp.” _I’ve spent so much time dealing with various infrastructure problems for my new business that I’ve had no time to actually develop our product properly. I guess it’s easy to forget that when up to your neck in alligators, the mission was to drain the swamp._  
@@ -5348,6 +5364,7 @@ __up to no good__
 __up to your eyeballs in something__ To have too much of something.  
 __up yours__ _vulgar_ _slang_ :two: An expression of anger at someone.  
 __up-and-coming__ :two::hammer: _Up-and-coming writers and artists._  
+__upbeat__ _informal_ Of, inspiring, or exuding cheerfulness, happiness, or optimism.  
 __uphill battle__ :dart::three: Something very difficult to do.  
 __uplevel__ _slang_ :dart: To make progress or improve in a specific skill or area of one’s life. _I started taking an online course to help uplevel my word-processing skills._  
 __ups and downs__ Positive and negative events or experiences, considered collectively.  
