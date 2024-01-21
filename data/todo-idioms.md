@@ -1,13 +1,25 @@
+__(one) can’t wait__ One is very excited or eager for something to happen; it will be difficult for one to wait for it. The phase can be used as part of a sentence or by itself as an exclamation. :es: ¡Qué ganas!  
 __a hill of beans__ Something of little or no importance, value, or worth.  
+__a lot on (one’s) plate__ A lot to do. _I just have a lot on my plate right now while I’m finishing up my degree and doing this huge project for work._  
+__a portent of things to come__ Something that is indicative of what will happen or become popular in the future.  
 __all the difference in the world__ The greatest degree of difference that is possible or conceivable. Without the verbs “mean” or “make,” it is used to compare two disparate things. _There’s all the difference in the world between knowing how to play and actually performing on the field._ _I was sympathetic at first, but finding out you didn’t even study for the test makes all the difference in the world. You’re grounded!_  
 __an honest mistake__ A mistake made unintentionally or unknowingly and without the intention of causing harm; a mistake that anyone might have made in similar circumstances.  
+__anger issues__ You have trouble not getting mad.  
+__as we know it__  
+__at the ready__ Available for use at any time.  
+__at the top of (one’s) lungs__ As loudly as one can.  
 __be honor-bound to (do something)__  
 __be hounded (by someone or something)__ To be pursued, chased, badgered, or pestered (by someone or something), especially persistently or relentlessly.  
+__bite the bullet__  
+__catch the bug__ To become suddenly excited by or very interested in something (which is typically specified between “the” and “bug”).  
 __EGOT__ An abbreviation for “Emmy, Grammy, Oscar, Tony,” referring to the rare feat of winning the major awards in television, music, film, and theater. _Elton John joins elite EGOT ranks with Emmy win. John is only the 19th person to have achieved EGOT status (Whoopi Goldberg, Viola Davis, and Mel Brooks are some of the others)._  
 __end (something) on a high note__  
+__fast track__  
 __ferret out__ To discover or retrieve something, usually with careful effort. A noun or pronoun can be used between “ferret” and “out.” _Now that I’m a successful actress, I’m worried about what the media will ferret out about my tawdry past._  
 __finagle__  
 __girl grip__ _Girl grip_ is a slang phrase that refers to holding multiple items in one hand by grasping them between fingers. Typically, the phrase girl grip refers to a person using a clawed hand to hold multiple items at once. For example, a person may hold a paper cup using primarily their thumb and pointer finger while holding a smartphone, keys, receipt, and wallet with their remaining fingers on the same hand.  
+__give someone a run for their money__  
+__go missing__ To disappear. _My diamond earrings have gone missing, and I want the entire staff to be interrogated!_  
 __greige__ A neutral color that looks like a mix of gray and beige.  
 __happy medium__ A healthy balance between two extremes.  
 __honey-do list__  
@@ -19,7 +31,13 @@ __hot tip__
 __house cooling party__ A party thrown to commemorate when someone leaves an apartment, flat, or house.  
 __however much__ No matter how much.  
 __hustle (one’s) bustle__ To increase one’s pace or sense of urgency; to hurry up; to get moving quickly. _We’d better hustle our bustle if we want to get to the movie theater on time!_  
+__I’m all ears__  
+__in vain__  
+__it remains to be seen__  
 __jamming__ _slang_ Awesome; really exciting. _Man, that was an absolutely jamming party!_  
+__keep one eye on (someone or something)__  
+__loaf around__ To waste time being idle; to spend time doing little or nothing.  
+__mess with (someone or something)__  
 __out of steam__ :dart: Completely exhausted, fatigued, or without energy or motivation. _I’m all out of steam, I can’t walk another step._  
 __pave the way (for someone or something)__  
 __Prince Charming__  
@@ -74,6 +92,7 @@ __six ways from (next) Sunday__ Askew, at an angle.
 __six ways to Sunday__ _adj_ Askew, at an angle.  
 __skate__  
 __skeevy__ :two: Offensively or unscrupulously repellant, repugnant, or disreputable.  
+__skeleton in the/(one’s) closet__ An embarrassing or shameful secret.  
 __skin flute__ _vulgar, slang_ A penis.  
 __skip off__ To leave or depart hastily so as to avoid something or escape with something.  
 __sky-high__  
@@ -81,6 +100,7 @@ __skyhook__
 __slam dunk__  
 __slated for__  
 __slip through the cracks__  
+__slip up__ __1__ :dart: _v_ To blunder; to make a mistake or an error. _I think I slipped up and sent the check to the wrong address._  
 __slob__  
 __slow down__  
 __smear (one’s) name__ To disparage one publicly, especially to the detriment of one’s reputation.  
@@ -126,6 +146,7 @@ __suck it up__ :dart:
 __suck up to (one)__  
 __sure thing__  
 __swag__ :two::hammer: _slang_ __1__ _n_ Stolen goods or money; loot. _Come on, show us the swag you scored from the jewelry shop!_  
+__swallow (one’s) pride__  
 __swamped__ :dart::two: Extremely busy, to the point of being overwhelmed, overburdened, or overworked.  
 __swear by (someone or something)__  
 __sweatshop__ __1__ A factory or workshop in which employees are forced to do very hard work, especially the manufacturing of clothing, for long hours with very low wages. :dart: Can be used facetiously to describe generally unpleasant or undesirable work conditions.  
@@ -141,6 +162,7 @@ __take a deep breath__
 __take a shine to (someone or something)__  
 __take aim (at someone or something)__  
 __take center stage__ To be the main focus.  
+__take something home__ To take a thought, idea, or concept away [to one’s home] from a meeting or conference. _Take this idea home with you—diversify your investments._  
 __take the bull by the horns__  
 __take the high road__ To choose the most noble, ethical, or diplomatic course or method, especially after or in the face of negativity or ill treatment. _Strive to always take the high road when dealing with others, even if they’ve treated you unfairly in the past. Life has a habit of rewarding those who learn to turn the other cheek._  
 __talk out (of) (one’s) ass__  
@@ -170,7 +192,8 @@ __tilt at windmills__ To waste time fighting enemies or trying to resolve issues
 __time after time__  
 __time and (time) again__ :three::hammer:  
 __time flies__  
-__toe the line__  
+__to say the least__  
+__toe the line__ :two::hammer:  
 __top-flight__ Stellar; excellent; of the highest level of quality or worth. Can be used with or without the hyphen when used after a noun.  
 __touch up__ :dart::two::hammer: _You need to touch up your hair color._  
 __tough love__  
@@ -223,6 +246,7 @@ __whipout__ It’s another slang term that Ellroy uses to describe something tha
 __why on earth__ :two: _proverb_ What one person may consider worthless could be highly prized or valued by someone else.  
 __win out__ To defeat someone or something; to prevail.  
 __wingding__ :two::hammer:  
+__wingman__ __2__ _informal_ Someone’s close friend, supporter, or ally.  
 __wise up__  
 __wit a vengeance__ _Generative AI left the lab with a vengeance._  
 __with a bang__ :three::hammer:  
