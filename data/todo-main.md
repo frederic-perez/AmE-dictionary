@@ -1,28 +1,3 @@
-__strait__ _n_  
-__streamline__ _vt_ __2__ To improve the efficiency of, often by simplification: _streamline a factory process._  
-__strengthen__ _v_  
-__stress__ _v_ _I cannot stress it enough._  
-__strife__ _n_  
-__stronghold__ _n_  
-__stuffing__ _n_  
-__sub__ _v_ (subbed)  
-__subaltern__ _n_  
-__subduction__ _n_  
-__submarine__ _v_  
-__suborn__ _vt_  
-__subpar__ _adj_ /sʌbˈpɑː/  
-__subsequent__ _adj_ Following in time or order; succeeding.  
-__subsidize__ _vt_  
-__succubus__ _n_  
-__sultry__ _adj_  
-__supercharge__ _vt_  
-__supercilious__ _adj_ :two: Feeling or showing haughty disdain. _Syn_ arrogant  
-__supposably__ _adv_ A may be assumed, imagined, or supposed. _In our modern and supposably transparent era, the government’s motives for war have come into question._  
-__surprise__ _n, v_ /səˈpraɪz/  
-__survivalist__ _n_ /səˈvaɪvəlɪst/  
-__susurous__ _adj_ _The susurous swash of the sea._  
-__swanky__ _adj_ /SWANG-kee/ __1__ Stylish; fashionable; luxurious. __2__ Pretentious; ostentatious.  
-__swashbuckler__ _n_  
 __swat__ _n, v_  
 __swell__ _adj_ Excelent.  
 __sweltering__ _adj_  

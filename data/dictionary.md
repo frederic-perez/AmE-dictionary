@@ -17793,7 +17793,7 @@ __strain<sup>1</sup>__ _v_ :nine::m: (strained, straining) __1__ Force (a part o
 __strain<sup>2</sup>__ _n_ :nine::m: __1__ The act or an instance of straining. _Can you keep an even strain?_ _“Out of the strain of the doing, into the peace of the done.”—Julia Louise Woodruff_ __2__ The damage resulting from excessive exertion. __3__ An intense physical or mental effort. __4__ (Music, other) Music (often plural) a theme, melody, or tune. __5__ A great demand on the emotions, resources, etc. __6__ (Psychology) A feeling of tension and tiredness resulting from overwork, worry, etc; stress. __7__ A variety, esp. of microorganisms. _A new strain of coronavirus._  
 __strained__ _adj_ :four::hammer: _A strained thumb._ _A strained voice._  
 __straining__ _n_ An intense or violent exertion.  
-__strait__  
+__strait__ _n_ :two::hammer:  
 __straitjacket<sup>1</sup>__ _n_ :two::hammer: /ˈstreɪtˌdʒækɪt/ (straightjacket)  
 __straitjacket<sup>2</sup>__ _vt_ _They were straitjacketed by despair._  
 __straits__  
@@ -17817,17 +17817,18 @@ __stray<sup>3</sup>__ _n_
 __streak__ _n_ :three::hammer: _A cold streak._ _A hot streak._  
 __streamer__ _n_ :two: A long, narrow strip of material used as a decoration or symbol. _Plastic party streamers._  
 __streaming__ _adj_ Exuding a bodily fluid in profuse amounts. _Streaming eyes._  
-__streamline__ _v_ :six::hammer: (streamlined, streamlining) _Streamlining regulations._ _Streamlined ship._  
-__streamlined__ _adj_  
+__streamline__ _vt_ :seven::hammer: (streamlined, streamlining) __2__ To improve the efficiency of, often by simplification: _streamline a factory process._ _Streamlining regulations._  
+__streamlined__ _adj_ :two::hammer: _Streamlined ship._  
 __streamside__  
 __street name__ _n_ __1__ An alternative name that a person chooses or is given (especially in inner city neighborhoods); _“her street name is Bonbon.”_  
 __streetcar__  
 __streetwise__  
 __Streisand effect__ _n_ A phenomenon in which attempting to suppress an item of information attracts even more unwanted attention, thus furthering its dissemination.  
 __strength__ _n_ _They noticed the strengths of their team members._  
-__strengthen__ _v_ :six::hammer:  
+__strengthen__ _v_ :seven::hammer:  
 __strenuous__ _adj_ :astonished::six::hammer: _A man of of strenuous temperament._  
 __strep > strep throat__ _n_ :two::hammer: _Maybe strepsils is derived from strep (throat)._  
+__stress__ _v_ _I cannot stress it enough._  
 __stressful__ _adj_  
 __stressor__ _n_ /ˈstrɛs ər, -ɔr/ :two: An event, experience, stimulus, etc, that causes stress.  
 __stretch limousine__ _n_ :two::hammer:  
@@ -17870,6 +17871,7 @@ __stroll__ _v_
 __Strombolian__ _adj_  
 __strong accent__  
 __strongbox__ _n_  
+__stronghold__ _n_  
 __strongman__  
 __struck a nerve__  
 __struck__ _v_ :three::hammer: _The Paris climate was struck almost a year ago._  
@@ -17895,7 +17897,7 @@ __stuff sacks__ _n_
 __stuff__ _v_  
 __stuffed__ _adj_ _Even if you’re stuffed, dessert is a must._  
 __stuffer__  
-__stuffing__  
+__stuffing__ _n_ :two::hammer:  
 __stuffy nose__ _n_ The presence of increased secretions and mucus in the nasal passages, most commonly arising as a result of a common cold, allergic reaction, or inflammation or infection of the paranasal sinuses (sinus infection). _Side effects are stuffy or runny nose, and sore throat._  
 __stuffy__ _adj_ :five::hammer: _A stuffy routine meeting._  
 __stultify__ _v_ /STUL-tuh-fye/ To cause someone or something to become dull or ineffective. _With a government as stultified by bureaucracy as that one, even the simplest records request can take weeks._  
@@ -17924,16 +17926,19 @@ __Styrofoam__ _n_ :two::hammer: _A large Styrofoam cup of coffee._
 __suave__ _adj_ :six::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
 __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  
 __sub rosa__ _adv_ :two: [Latin _sub rosā_, under the rose (from the practice of hanging a rose over a meeting as a symbol of confidentiality).] In secret; privately or confidentially: _held the meeting sub rosa._ _No, I had no idea they were planning to reject the proposal. They must have reached that decision sub rosa._  
-__sub__ _n_ Subscriber.  
+__sub<sup>1</sup>__ _n_ Subscriber.  
+__sub<sup>2</sup>__ _v_ (subbed)  
 __sub-Saharan Africa__ _n_  
 __subacute__ _adj_ __1__ Somewhat or moderately acute: _subacute sepals._ __2__ Between acute and chronic: _subacute endocarditis._  
-__subaltern__ _adj_ Inferior in rank or status. _Syn_ junior-grade, lower-ranking, petty, secondary, lowly _The subaltern officer stood at attention as his superiors examined the floor he had just finished scrubbing._  
+__subaltern<sup>1</sup>__ _n_  
+__subaltern<sup>2</sup>__ _adj_ Inferior in rank or status. _Syn_ junior-grade, lower-ranking, petty, secondary, lowly _The subaltern officer stood at attention as his superiors examined the floor he had just finished scrubbing._  
 __subbasement__ _n_  
 __subclinical__ _adj_ :dart::three: Not manifesting characteristic clinical symptoms. Used of a disease or condition.  
 __subcompact__ _n_ _US_ A small car that is smaller than a compact car.  
 __subcontinent__ _n_  
 __subculture__ _n_  
 __subdermal__ _adj_  
+__subduction__ _n_  
 __subdue__ _v_ :eight: __1__ To subjugate (a region or people, for example) by military force. __2a__ To bring under control by physical force, persuasion, or other means; overcome: _subdued the wild horse; subdued the rebellion in the party ranks._ __b__ To make less intense or prominent; reduce or tone down: _I was unable to subdue my excitement about the upcoming holiday._ __3__ To bring (land) under cultivation: _Farmers subdued the arid lands of Australia._  
 __subdued__ _adj_ :two::hammer: _Subdued voices._ _The subdued dining room._  
 __subfreezing__ _adj_ Below the freezing point. _Subfreezing temperature._  
@@ -17942,17 +17947,19 @@ __subjugation__ _n_ Forced submission to control by others.
 __sublet__ _v_ :three::hammer: (subletting) :es: subarrendar  
 __sublimate__ _v_  
 __submachine gun__  
+__submarine__ _v_  
 __submersible__ _adj, n_  
-__suborn__ _v_ :three::astonished: __1__ To bribe, incite, or instigate (a person) to commit a wrongful act. __2__ (Law) _criminal law_ To induce (a witness) to commit perjury. _The lawyer attempted to suborn the witness._  
-__subpar__ _adj_ :two::hammer:  
+__suborn__ _vt_ :four::astonished: __1__ To bribe, incite, or instigate (a person) to commit a wrongful act. __2__ (Law) _criminal law_ To induce (a witness) to commit perjury. _The lawyer attempted to suborn the witness._  
+__subpar__ _adj_ :three::hammer: /sʌbˈpɑː/  
 __subpoena<sup>1</sup>__ _n_ :five::hammer:  
 __subpoena<sup>2</sup>__ _v_ :six::mega: (subpoenaed) Put the screws to someone.  
 __subsea__ _n_  
-__subsequent__ _adj_ :seven: Following in time or order; succeeding. _The Justice Ministry plans to introduce the system to other airports in subsequent years._ _The policy to have patients moved from hospitals to care homes may have directly led to subsequent deaths._ :es: posterior, subsiguiente  
+__subsequent__ _adj_ :eight: Following in time or order; succeeding. _The Justice Ministry plans to introduce the system to other airports in subsequent years._ _The policy to have patients moved from hospitals to care homes may have directly led to subsequent deaths._ :es: posterior, subsiguiente  
 __subsequently__ _adv_ :dart::five: Happening at a time subsequent to a reference time. _He subsequently joined the engineering team._  
 __subside__ _v_ :dart::six::hammer: (subsided) _My headache has subsided._  
 __subsidence__ _n_  
 __subsidiary__ _n_ :two::hammer:  
+__subsidize__ _vt_  
 __subsidy__  
 __subsist__ _v_ Support oneself. _Syn_ exist, survive, live _I was more agile than they and could subsist upon coarser diet._  
 __substantive__ _adj_ :mega: /SUB-stun-tiv/  
@@ -17975,7 +17982,7 @@ __succinctly__ _adv_ :pencil2:
 __succint__ _adj_ :three::hammer:  
 __succor__ _n_ :three::hammer:  
 __succotash__ _n_ :three: /ˈsʌkəˌtæʃ/ (Cookery) _US and Canadian_ A mixture of cooked sweet corn kernels and lima beans, served as a vegetable.  
-__succubus__ _n_ :four::hammer:  
+__succubus__ _n_ :five::hammer:  
 __succulent__ _n_ A succulent plant, such as a sedum or cactus.  
 __succumb__ _v_ :six::pencil2::mute:[succum~~b~~]:hammer:  
 __such-and-such__  
@@ -18011,7 +18018,7 @@ __sullenly__
 __Sullivan__ _n_ :mega:  
 __sully__ _v_ :five::hammer: /SUL-ee/ _The money-related charges brought against the restaurant’s owner has sullied her reputation._  
 __sultanate__  
-__sultry__ _adj_ :six::hammer: _A sultry smile._  
+__sultry__ _adj_ :seven::hammer: _A sultry smile._  
 __sum up__  
 __summa cum laude__ _adj, adv_ [ˈsʊmɑː kʊm ˈlaʊdeɪ]  
 __summarily__ _adv_  
@@ -18057,7 +18064,8 @@ __superbly__
 __supercalifragilisticexpialidocious__ _adj_ :two: Used as a nonsense word by children to express approval or to represent the longest word in English.  
 __supercell__ _n_ :two::hammer: _Supercell storms._ _Supercell thunderstorm._  
 __supercentenarian__  
-__supercilious__ _adj_ :six: Displaying arrogant pride, scorn, or indifference. Feeling or showing haughty disdain. _Syn_ haughty, prideful, sniffy, swaggering, lordly, disdainful _He smiled in a supercilious manner and said I had better do as I was asked._  
+__supercharge__ _vt_  
+__supercilious__ _adj_ :seven: Displaying arrogant pride, scorn, or indifference. Feeling or showing haughty disdain. _Syn_ haughty, prideful, sniffy, swaggering, lordly, disdainful, arrogant _He smiled in a supercilious manner and said I had better do as I was asked._  
 __superfluous__ _adj_ :mega:  
 __superintendent__ _n_ :five::hammer:  
 __superlative__ _adj_ _Superlative works._  
@@ -18078,6 +18086,7 @@ __suppleness__ _n_ _Mental suppleness._
 __supplier__ _n_  
 __supply and demand__  
 __support__ _v_  
+__supposably__ _adv_ A may be assumed, imagined, or supposed. _In our modern and supposably transparent era, the government’s motives for war have come into question._  
 __suppository__ _n_ :two::hammer:  
 __suppurate__ _v_ :two: To form or discharge pus.  
 __suppurative__ _adj_ _Chronic suppurative skin lesions in a young woman._  
@@ -18105,6 +18114,7 @@ __surmountable__
 __surname__ _n_ :two::mega::hammer:  
 __surpass__ _v_  
 __surplice__ _n_ :two: A loose-fitting, white ecclesiastical gown with wide sleeves, worn over a cassock.  
+__surprise__ _n, v_ /səˈpraɪz/  
 __surreal__ _adj_  
 __surreptitious__  
 __surreptitiously__ _adv_ :six: Obtained, done, or made by clandestine or stealthy means. _Syn_ sneakily  
@@ -18112,7 +18122,7 @@ __surrey__ _n_
 __surrogate__ _n_ :three::hammer:  
 __surveyor__ _n_ :two::hammer:  
 __survival skills__ _n_  
-__survivalist__ _n_ Someone who tries to insure their personal survival or the survival of their group or nation.  
+__survivalist__ _n_ :two: /səˈvaɪvəlɪst/ Someone who tries to insure their personal survival or the survival of their group or nation.  
 __susceptible__ _adj_  
 __suspend__ _v_  
 __suspenders__ _n_ :two::hammer: _Larry King’s suspenders._  
@@ -18120,6 +18130,7 @@ __suss__ _v_ _chiefly British_ :three: (sussed) __1__ Figure out —usually used
 __sussed__ _adj_ _Br_ _informal_ If someone is sussed, they are clever and know a lot about something such as clothes, pop music, or politics.  
 __sustain__ _v_ :dart: _Clark and his passengers sustained minor injuries._  
 __sustenance__ _n_ :three: __3__ Something that sustains something else; essential support: _researchers seeking financial sustenance._  
+__susurous__ _adj_ _The susurous swash of the sea._  
 __susurration__ _n_  
 __sutler__ _n_ A supplier of victuals or supplies to an army. _Syn_ provisioner, victualer, victualler _He became a sutler on a major scale in the war between the States._  
 __sutra__ _n_  
@@ -18146,7 +18157,7 @@ __swan<sup>1</sup>__ _n_ /swan/ __1__ Any of various long-necked large waterbird
 __swan<sup>2</sup>__ _vi_ __1__ To move about in an idle, aimless way. __2__ [:scroll: From shortening of “I shall warrant” or “I swear on.”] To declare or to swear.  
 __swank<sup>1</sup>__ _adj_ _A swank condominium complex._  
 __swank<sup>2</sup>__ _v_ :four::astonished::hammer:  
-__swanky__ _adj_ :five::hammer: _Swanky steakhouses._ _Swanky gifts._ _Swanky dinner._  
+__swanky__ _adj_ :six: /SWANG-kee/ __1__ Stylish; fashionable; luxurious. _Swanky steakhouses._ _Swanky gifts._ _Swanky dinner._ __2__ Pretentious; ostentatious.  
 __swap__ _n_  
 __sward__ _n_ :two::hammer:  
 __swarm<sup>1</sup>__ _n_  
@@ -18155,6 +18166,7 @@ __swarthiness__
 __swarthy__ _adj_ :four: Having a dark complexion or color. _Syn_ dusky, swart, dark-skinned _Swarthy skin._ :es: moreno  
 __swash__ _n_ :two::hammer: _The susurous swash of the sea._  
 __swashbuckle__ _v_  
+__swashbuckler__ _n_  
 __swashbuckling__ _adj_ :three::hammer:  
 __swatches__  
 __swath__ _n_ :nine::m: (swathe, swathes) __1__ A row or line of grass, corn, or other crop as it falls or lies when mown or reaped. _If the day is windy, the swathes should be high and narrow._ __2__ Strip left clear by the passage of a mowing machine or scythe. _The combine had cut a deep swathe around the border of the fields._ __3__ A broad strip or area of something. _Vast swathes of countryside._ __4__ A strip, belt, or long and relatively narrow extent of anything.  
