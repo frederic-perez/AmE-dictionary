@@ -1,22 +1,43 @@
 __aplomb__ _n_ /əˈplɒm, əˈplʌm/  
+__bedsit__ _n_ :es: habitación amueblada; estudio amueblado  
+__bogus__ _adj_ /ˈboʊ gəs/  
+__breach__ _n_ /breach /briːtʃ/  
 __caucus__ _n_  
 __cicatrix__ _n_ A scar left by the formation of new connective tissue over a healing sore or wound. _Syn_ scar  
 __conflate__ _v_ /kun-FLAYT/ Two closely related meanings of the verb conflate are “to confuse,” i.e. “to fail to differentiate,” and “to blend or bring together.”  
+__conveyancing__ _n_ /kənˈveɪənsɪŋ/ (Law) The branch of law dealing with the transfer of ownership of property.  
 __countdown__ _n_  
 __downfall__ _n_  
 __Dunning-Kruger effect__ _n_ A hypothetical cognitive bias stating that people with low ability at a task overestimate their ability.  
+__evict__ _vt_ /ɪˈvɪkt/  
+__flatshare__ _n_ An arrangement in which two or more people share a flat (apartment building).  
 __harangue__ _n_ /huh-RANG/ A harangue is a forceful or angry speech or piece of writing.  
 __heliotrope__ _n_  
 __inculcate__ _v_ To teach (others) by frequent instruction or repetition. _Syn_ infuse, instill  
+__injunction__ _n_  
 __interpunct__ _n_  
 __kindred__ _adj_ /KIN-drud/  
+__landlady__ _n_  
+__lapse__ _v_  
 __largess__ _n_  
+__lice__ _n pl_ /laɪs/ Plural of louse. :es: piojos  
+__licensee__ _n_ (licencee)  
 __mar__ _v_  
+__meter reading__ _n_  
+__minefield__ _n_ __2__ A situation that has many potential hazards or dangers.  
+__officialdom__ _n_  
 __peterman__ _n_ /ˈpiːtəmən/ _slang_ [:scroll: From peter, slang for a safe] A burglar skilled in safe-breaking.  
 __polyamorous__  
 __profuse__ _adj_ Plentiful; copious. _Syn_ lush, riotous, luxuriant, exuberant  
 __prudish__ _adj_ PROO-dish/ Overly concerned with propriety or decorum, especially in matters of sex.  
+__receipt__ _n_ /rɪˈsit/ :es: recibo; resguardo; recepción; receta  
+__rent book__ _n_ A document that acts as a record of the regular amounts of money that you have paid as rent for accommodation.  
+__repossess__  
+__reputable__ _adj_ /ˈrɛp yə tə bəl/  
+__rundown<sup>1</sup>__ _n_  
+__rundown<sup>2</sup>__ _adj_ (run-down)  
 __sea snail__ _n_ (seasnail, snailfish)  
+__sitting room__ _n_  
 __swank__  
 __swat__ _n, v_  
 __sweat__ _n_ /swet/ Organic cooler.  
@@ -42,10 +63,14 @@ __tense__ _n_ Grammatical tense refers to the conjugation of a verb to reflect i
 __tentative__ _adj_  
 __terraform__ _v_  
 __tmesis__ _n_  
+__trade union__ _n_ :dart: :es: sindicato  
 __trade war__  
 __tripledemic__ _n_ The simultaneous outbreaks of three infectious diseases: COVID-19, influenza, and respiratory syncytial virus (RSV).  
+__troublemaker__ _n_ /ˈtrʌbəlˌmeɪkə/  
+__turnover__ _n_  
 __Tyrian purple__ _n_  
 __ultramarine__ _adj, n_  
+__umbrella__ _n_ /ʌmˈbrɛlə/ _A national umbrella organization._  
 __vagrant__ _n_ One who wanders from place to place without a permanent home or a means of livelihood. _Syn_ drifter, vagabond, floater  
 __wacko__ _n_ _slang_ A person regarded as eccentric or irrational.  
 __wheelhouse__  
