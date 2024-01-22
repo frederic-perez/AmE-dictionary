@@ -5082,10 +5082,12 @@ __the man to see__ A colloquial expression used to refer to a person who holds s
 __the march of time__ The steady, unstoppable advancement of time. _Some people despair at the march of time, as they see themselves aging in the mirror, but I relish growing older and seeing the world change._  
 __the meat and potatoes__ :two: The most basic or fundamental aspects of something. _Too much information will overwhelm the new hire, so just give him the meat and potatoes._  
 __the meat of the matter__ The most important, basic, or fundamental essence or element(s) of an issue, problem, or matter at hand. _Thank you all for attending this staff meeting. Before we get to the meat of the matter, I’d like to assure each of you that your jobs are secure._  
+__the million-dollar question__ A question that is very important and/or difficult to answer. Sometimes used ironically.  
 __the mind’s ear__ The imaginative capability to create or recall sound within one’s mind; the part of the mind that experiences imagined or recalled sound. (An allusion to the “mind’s eye,” which is likewise responsible for mental imagery.) _I can still hear in my mind’s ear the sweet laughter of my daughter when she was a child._  
 __the moon on a stick__ Anything and everything that one desires or can imagine wanting (i.e., above and beyond what would be normal or appropriate). _Jim was so smitten with his co-worker that he’d probably try to get her the moon on a stick if she asked for it._ _Jonathan always wants the moon on a stick when it comes to relationships._  
 __the moral high ground__ A position of moral authority or superiority that one’s arguments, beliefs, ideas, etc., are claimed or purported to occupy, especially in comparison to a differing viewpoint. (Used especially in the phrase “take/claim/seize/etc. the moral high ground.”) _The senator always tries to claim the moral high ground during a debate so as to shift public opinion in his favor._  
 __the more you know__  
+__the mother of all (something)__ The largest, most extreme, or ultimate example of a particular kind of thing. _Wow, that is the mother of all sandwiches. It’s nearly a foot high!_  
 __the name of the game__ :two: The most important aspect or component of something; the main point of an activity. _Getting strike-outs is the name of the game when you’re a pitcher._  
 __the nature of the beast__  
 __the new black__  
@@ -5094,6 +5096,7 @@ __the next big thing__ A future trend. _Designers will discuss the next big thin
 __the Nikon choir__ The paparazzi or a large group of photojournalists, especially when actively engaged in photographing someone or something of great interest. (Refers to the Nikon brand of camera.) _As soon as the starlet walked out onto the red carpet, the Nikon choir swelled to a nearly deafening volume._  
 __the nitty-gritty__ :four::hammer:  
 __the nosebleeds__ A seating area very high up in a stadium or theater, as for a sporting event, musical performance, play, etc., which typically costs less money but has a restricted view. “Nosebleed” refers jocularly to the effects of extremely high altitudes on the body, which can often cause nasal hemorrhaging, among other symptoms. _I wish you wouldn’t be so stingy when you’re buying tickets. I’m sick of watching football games up in the nosebleeds!_  
+__the old days__  
 __the old gray mare ain’t what she used to be__  
 __the other side__ Existence after death; the world of the afterlife. _I miss my wife terribly, but I keep the faith that I will see her on the other side some day._  
 __the outside world__ The people, culture, ideas, or experiences beyond an enclosed, sheltered, or remote place, situation or environment. _Being raised out on the farm meant Jacob had little knowledge of the outside world._  
@@ -5104,8 +5107,10 @@ __the pump__ _informal_ A gasoline pump, used as a synecdoche to represent gas s
 __the rabbit died__ [:scroll: From an early pregnancy test developed in 1931 in which the urine of a woman thought to be pregnant was injected into a female rabbit; if the woman was pregnant, the rabbit’s ovaries would react. A common misconception at the time was that the rabbit would die if the woman was pregnant, hence the expression.] The woman to whom we are referring is pregnant; the pregnancy test was positive. _I saw Carol shopping for maternity clothes in the mall the other day. I guess the rabbit died!_  
 __the ravages of something__ The destructive effects of something. _The potential ravages of a man-manipulated virus at a research center._  
 __the real McCoy__ “The real McCoy” is an idiom and metaphor used in much of the English-speaking world to mean “the real thing” or “the genuine article”, e.g. “he’s the real McCoy”.  
+__the revolution will be televised__  
 __the right call__  
 __the rubber meets the road__ Someone’s or something’s efforts, resolve, or viability are put to the test; things become truly or meaningfully challenging. Used especially after the words “where” or “when.”  
+__the scoots__ _n_ A case of diarrhea. _Our vacation was ruined by a case of the scoots._  
 __the short and the long of it__ The essential or most important point being made; the plain truth of the matter. _Bob, the short and the long of it is that we aren’t satisfied with your performance in work lately._  
 __the sky is the limit__ :five: (the sky’s the limit) Anything is possible; there is practically no limit.  
 __the spur of the moment__  
@@ -5119,14 +5124,15 @@ __the usual suspects__ :four: The people one would expect to be involved in some
 __the very thing__ Exactly what is most ideal, desired, or useful in a particular moment or situation. _I’m telling you, when you’re hungover, a big basket of French fries is the very thing!_ _I have the very thing to wear with a dress that color._ _Harvard students complained about the very thing the Soweto students saw as a privilege: shoolwork._  
 __the wee small hours (of the night/morning)__ The very early hours after midnight. _I was studying for the exam until the wee small hours of the morning, and now I can barely keep my eyes open!_  
 __the whole nine yards__  
-__the whole shebang__ :two::hammer:  
-__the Wild West__  
+__the whole shebang__ :three::hammer:  
+__the Wild West__ :three: (the wild west of (something)) __2__ By extension, that which is characterized by a lack of law, order, and regulations; that which is totally untamed and unfettered. Often followed by “of something.“  
 __the witching hour__ :two: __1__ A late time of night, most often midnight, sometimes associated with the appearance of supernatural forces or entities. _Halloween was the only night of the year that our parents would let us stay up until the witching hour._ __2__ The time just before bedtime when children become overactive or overly excited. _Sorry for all the noise, we’re heading into the witching hour with the kids now._  
 __the word is out__ The phrase “the word is out” means that a piece of news or information has become known, especially if it was previously a secret or if it is expected to bring about changes.  
 __the wrong crowd__ A group of people, typically peers, who partake in and elicit immoral, criminal, and/or dangerous behavior and attitudes. _Mary had been a model student all her life, but when she got to senior year of high school, she started hanging out with the wrong crowd, and her grades suffered as a result._  
 __then again__ :nine::m: [:sound: then again] From another standpoint; on the other hand; on second thought; from a different, conflicting, or contradictory point of view. An opposite possibility. _I need a vacation. Then again, so do my coworkers._ _Then again, you might not remember it._  
 __there and back__ Taking the distances to the end point and back to the beginning together as a single sum. _Look, the hike is nearly 12 miles there and back, so we’d better get going if we want to be home before dark._  
 __there and then__  
+__there comes a time__  
 __there is (a) method to (one’s) madness__ There is a specific, rational purpose in what one is doing or planning, even though it may seem crazy or absurd to another person. _I know you don’t understand my motivation for this decision, but after the dust settles, you’ll see that there is a method to my madness._  
 __there is aomething about xyz__ :two::hammer:  
 __there is no way around it/that__ :two::dart::hammer: :es: no hay más remedio, no queda otro remedio  
@@ -5135,8 +5141,10 @@ __there you have it__ Used to highlight or emphasize the ease or simplicity of s
 __there’s no other way around (it)__ There is no solution to avoid a particular outcome. _If you want to get good at English, you have to memorize a lot of idioms. There’s no way around it._  
 __there’s no such thing as a free lunch__ _prov_ :dart: (there is no free lunch, there ain’t no such thing as a free lunch) Nothing is ever really given away for free, so be wary of hidden charges, motives, or agendas. _Of course, once you’re signed up to the free program, you have to pay for all sorts of extra services to make it even worth using. There’s no such thing as a free lunch, after all._  
 __thick and thin__ :four: Good and bad times. _Supporters ready to back them through thick and thin._ _Marriages that last through thick and thin._  
+__thick blood__ “Thick blood” can be used to describe someone who is resilient or tough. _He’s got thick blood and can bounce back from anything._  
 __thick skin__ :two::dart::hammer:  
 __thin air__ A figurative phrase used to suggest nothingness or nonexistence.  
+__thingamajig__ (thingy) Some tool, gadget, or other such implement the proper name for which is unknown or unremembered.  
 __things that go bump in the night__ Frightful, deadly, and usually supernatural things or events that one imagines in the dark of night. _When I was a kid, I hated staying in my grandparents’ spooky old house because I was always kept awake by thoughts of ghosts, axe murderers, and other things that go bump in the night._  
 __think (someone) hung the moon and the stars__ To believe that someone is the most wonderful and important person in the world; to love and adore someone more than anyone else. _Your little sister absolutely adores you—she thinks you hung the moon and the stars!_  
 __think aloud__ To verbalize one’s thoughts. _I’m just thinking aloud._  
@@ -5185,15 +5193,18 @@ __tide someone over (until something)__ To supply someone until a certain time o
 __tie (one) down__ To constrain, restrict, impede, or limit one’s ability to do something or go somewhere. _I would love to try something different, but my career has really tied me down. I just don’t think my experience applies to any other profession._  
 __tie the can__ _It ain’t every day that you tie the can to a Congressman._  
 __tie the knot__ :two::hammer:  
+__tied up in knots__ Feeling anxious, stressed, or overwhelmed. It’s often used to describe someone who is struggling to cope with a difficult or confusing situation.  
 __tiger team__  
 __tight as a drum__ Taut or close-fitting; also, watertight.  
 __tight-lipped__ Secretive; not revealing information.  
 __tighten the purse strings__ To become less liberal with or more controlling of one’ expenditures; to decrease the availability of money for spending purposes. _After losing my job, I’ve had to tighten the purse strings quite a bit._  
 __tighten your belt__ To spend less money.  
 __til you drop__  
+__tilt at windmills__ To waste time fighting enemies or trying to resolve issues that are imaginary, unimportant, or impossible to overcome.  
+__time after time__  
 __time and (time) again__ :nine::m::dart: Repeatedly; on multiple occasions. Again and again; repeatedly. _Why do you continue to trust John when he has lied to you time and again?_  
 __time capsule__  
-__time flies__ :two::hammer: _Time flies when you’re having fun._  
+__time flies__ :three::hammer: _Time flies when you’re having fun._  
 __Tinseltown__  
 __tip (one’s) hat__  
 __tip off__ :three: (tip-off) To secretly inform the police or authorities.  
@@ -5220,6 +5231,7 @@ __to make a long story short__ To skip boring, extraneous, or unnecessary detail
 __to name (but) a few__ :three::hammer:  
 __to no end__ Greatly; very much. _I was pleased to no end when you wrote of making several new friends at the university._ _I’m an editor, so it irritates me to no end when people use “their” or “there” when they should be using “they’re.”_  
 __to perfection__ In a way or to a degree that is exactly right. _Cooked to perfection._  
+__to say the least__  
 __to see red__ Very angry.  
 __to some extent__ :two::hammer:  
 __to that end__ :four::hammer: (to that end,)  
@@ -5229,7 +5241,7 @@ __to the fullest__
 __to the hilt__ :two: As much or to the greatest degree possible; completely or utterly. _They’ve had to borrow to the hilt to get the company off the ground._  
 __to this day__ :nine: Up to and including the present time or date. _My neighbor owned a 1975 Corvette Stingray, and to this day I’ve never seen a car I thought looked cooler._ _I don’t know if they still do it to this day._  
 __to this end__ _To this end he wanted to use the Pope as intermediary._  
-__toe the line__ :two: To adhere to the rules of something. _I expect you to toe the line at all times if you want to remain at this firm, Jonathan._  
+__toe the line__ :four: To adhere to the rules of something. _I expect you to toe the line at all times if you want to remain at this firm, Jonathan._  
 __toe-to-toe__  
 __together__  
 __Tom Swifty__ :two::hammer:  
@@ -5245,7 +5257,8 @@ __tooth and nail__
 __top of mind__ :dart::two: Occupying one’s foremost attention or concern. Often hyphenated when used before a noun. _I assure you that privacy issues are a top-of-mind priority for our company._ _His top-of-mind interest._  
 __top off__ _L.A. is topping off pools, watering lawns, washing cars._  
 __top the bill__ Be the most important item or performer in a show, play, etc: _Topping the bill tonight will be Robbie Williams._ _I’ll top the bill, I’ll overkill._  
-__topsy-turvy__ _Welcome back to another topsy-turvy day in AI._  
+__top-flight__ Stellar; excellent; of the highest level of quality or worth. Can be used with or without the hyphen when used after a noun.  
+__topsy-turvy__ :two::hammer: _There’s an old Zen saying: “The world is topsy-turvy.”_ _Welcome back to another topsy-turvy day in AI._  
 __torqued off__ Particularly irritated, frustrated, or exasperated. _It’s no use getting torqued off just because you don’t like your professor’s style of teaching._  
 __toss (one’s) hat in(to) the ring__  
 __toss (something)__ __1__ To dispose of something as trash. _Let’s toss these leftovers—they’ve been in here for days._ __2__ To search something or some place, especially in a rough, haphazard, or disorderly manner. _The cops came by and tossed our office in their search for incriminating evidence._  
@@ -5254,17 +5267,17 @@ __toss out__ _v_ :two::hammer: _One student tossed out expletives._
 __touch base (with someone)__ :four: To contact someone to update them or receive an update from them. _I was just calling to touch base since it’s been a few weeks since we last spoke._ _Syn_ get in touch, connect  
 __touch base__ :two::hammer:  
 __touch grass__ Go outside. It’s usually used in an insulting way to imply that someone spends too much time online, perhaps posting on social media or losing at video games, and that they should go outside for once—or at least away from other people!  
-__touch up__ :dart::two: __1__ _v_ To fix minor flaws in or make minor changes to something. A noun or pronoun can be used between “touch” and “up.” _I’d just like to touch up my makeup before we leave._ _All you need to do is touch the wall up with a bit of spackle and paint, and it will be as good as new!_ __2__ _n_ A minor change or fix. As a noun, the phrase is usually hyphenated. _The cover is almost ready, it just needs a few touch-ups before we send it to the printer._ _A paint touch-up._  
+__touch up__ :dart::four: __1__ _v_ To fix minor flaws in or make minor changes to something. A noun or pronoun can be used between “touch” and “up.” _I’d just like to touch up my makeup before we leave._ _All you need to do is touch the wall up with a bit of spackle and paint, and it will be as good as new!_ _You need to touch up your hair color._ __2__ _n_ A minor change or fix. As a noun, the phrase is usually hyphenated. _The cover is almost ready, it just needs a few touch-ups before we send it to the printer._ _A paint touch-up._  
 __touch wood__  
 __touché__  
 __tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
-__tough love__ :three: The use of strict disciplinary measures and limitations on freedoms or privileges, as by a parent or guardian, as a means of fostering responsibility and expressing care or concern.  
+__tough love__ :four: The use of strict disciplinary measures and limitations on freedoms or privileges, as by a parent or guardian, as a means of fostering responsibility and expressing care or concern.  
 __tough talk__  
 __tour de force__ :four::hammer:  
 __town-gown__ Relating to the two coexisting communities of a university town, i.e., the university (primarily the students) and the residents of the town where it is located, used especially in reference to tensions between the two. “Gown” is a reference to the traditional academic gown once worn by university students, now typically reserved for graduation ceremonies. _The periodic town-gown riots._  
 __trace back__  
 __train of thought__  
-__train wreck__  
+__train wreck__ :dart::two::hammer:  
 __trash talk__ _I won’t trash talk._  
 __trash__ __1__ _slang_ To discard or throw away something. _I’ve always regretted trashing my old collection of toys._  
 __travel light__ To bring very few things with you when you go on a trip.  
@@ -5368,10 +5381,12 @@ __upbeat__ _informal_ Of, inspiring, or exuding cheerfulness, happiness, or opti
 __uphill battle__ :dart::three: Something very difficult to do.  
 __uplevel__ _slang_ :dart: To make progress or improve in a specific skill or area of one’s life. _I started taking an online course to help uplevel my word-processing skills._  
 __ups and downs__ Positive and negative events or experiences, considered collectively.  
+__urban legend__ A myth or piece of folklore that is totally false. _That story about the rats in the sewer being as big as dogs is an urban legend. It’s just not so._  
 __usher in__  
 __utterly__  
 __vac__  
 __value judgment__  
+__vamoose__ :two::hammer: (vamoosed)  
 __vamp up__  
 __vanilla__ __1__ _slang_ Plain, uninteresting, unexciting, or unadventurous. A reference to vanilla being considered a plain or ordinary flavor.  
 __vanish into thin air__ To disappear completely, without leaving a trace.  

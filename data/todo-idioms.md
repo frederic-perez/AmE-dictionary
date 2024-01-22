@@ -198,31 +198,6 @@ __the (hand)writing on the wall__ :two::hammer:
 __the cream of the crop__ The best of a particular group.  
 __the Fourth Estate__ The people and organizations that report the news, or news journalism as a whole, regarded as having palpable but unofficial political influence.  
 __the lowdown on__ :dart: The whole truth about something.  
-__the million-dollar question__ A question that is very important and/or difficult to answer. Sometimes used ironically.  
-__the mother of all (something)__ The largest, most extreme, or ultimate example of a particular kind of thing. _Wow, that is the mother of all sandwiches. It’s nearly a foot high!_  
-__the old days__  
-__the revolution will be televised__  
-__the scoots__ _n_ A case of diarrhea. _Our vacation was ruined by a case of the scoots._  
-__the whole shebang__  
-__the wild west of (something)__  
-__the Wild West__ __2__ By extension, that which is characterized by a lack of law, order, and regulations; that which is totally untamed and unfettered. Often followed by “of something.“  
-__there comes a time__  
-__thick blood__ “Thick blood” can be used to describe someone who is resilient or tough. _He’s got thick blood and can bounce back from anything._  
-__thingamajig__ (thingy) Some tool, gadget, or other such implement the proper name for which is unknown or unremembered.  
-__tied up in knots__ Feeling anxious, stressed, or overwhelmed. It’s often used to describe someone who is struggling to cope with a difficult or confusing situation.  
-__tilt at windmills__ To waste time fighting enemies or trying to resolve issues that are imaginary, unimportant, or impossible to overcome.  
-__time after time__  
-__time and (time) again__ :three::hammer:  
-__time flies__  
-__to say the least__  
-__toe the line__ :two::hammer:  
-__top-flight__ Stellar; excellent; of the highest level of quality or worth. Can be used with or without the hyphen when used after a noun.  
-__topsy-turvy__ _There’s an old Zen saying: “The world is topsy-turvy.”_  
-__touch up__ :dart::two::hammer: _You need to touch up your hair color._  
-__tough love__  
-__train wreck__ :dart:  
-__urban legend__ A myth or piece of folklore that is totally false. _That story about the rats in the sewer being as big as dogs is an urban legend. It’s just not so._  
-__vamoose__ :two::hammer: (vamoosed)  
 __veep__ _n_ /vip/ A vice president. _The veep is going to preside today._  
 __vroom__  
 __wait for it__  
