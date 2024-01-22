@@ -1,25 +1,38 @@
 __(one) can’t wait__ One is very excited or eager for something to happen; it will be difficult for one to wait for it. The phase can be used as part of a sentence or by itself as an exclamation. :es: ¡Qué ganas!  
+__(out) in the open__  
 __a hill of beans__ Something of little or no importance, value, or worth.  
 __a lot on (one’s) plate__ A lot to do. _I just have a lot on my plate right now while I’m finishing up my degree and doing this huge project for work._  
+__a pop__  
 __a portent of things to come__ Something that is indicative of what will happen or become popular in the future.  
+__akin to (something)__  
 __all the difference in the world__ The greatest degree of difference that is possible or conceivable. Without the verbs “mean” or “make,” it is used to compare two disparate things. _There’s all the difference in the world between knowing how to play and actually performing on the field._ _I was sympathetic at first, but finding out you didn’t even study for the test makes all the difference in the world. You’re grounded!_  
 __an honest mistake__ A mistake made unintentionally or unknowingly and without the intention of causing harm; a mistake that anyone might have made in similar circumstances.  
 __anger issues__ You have trouble not getting mad.  
 __as we know it__  
 __at the ready__ Available for use at any time.  
 __at the top of (one’s) lungs__ As loudly as one can.  
+__backdoor__  
+__be at it__  
 __be honor-bound to (do something)__  
 __be hounded (by someone or something)__ To be pursued, chased, badgered, or pestered (by someone or something), especially persistently or relentlessly.  
 __bite the bullet__  
 __catch the bug__ To become suddenly excited by or very interested in something (which is typically specified between “the” and “bug”).  
+__catch__ __13__ _n_ A problem, drawback, or hidden detriment, often one that is initially concealed as a means of entrapment.  
+__dark horse__  
+__die hard__ _The main character, John McClane, is determined to “die hard” — or fight to the end — in order to save his wife and defeat the terrorists who have taken over the building._  
+__double down__  
 __EGOT__ An abbreviation for “Emmy, Grammy, Oscar, Tony,” referring to the rare feat of winning the major awards in television, music, film, and theater. _Elton John joins elite EGOT ranks with Emmy win. John is only the 19th person to have achieved EGOT status (Whoopi Goldberg, Viola Davis, and Mel Brooks are some of the others)._  
 __end (something) on a high note__  
 __fast track__  
 __ferret out__ To discover or retrieve something, usually with careful effort. A noun or pronoun can be used between “ferret” and “out.” _Now that I’m a successful actress, I’m worried about what the media will ferret out about my tawdry past._  
+__fill up__  
 __finagle__  
+__flat-out__  
 __girl grip__ _Girl grip_ is a slang phrase that refers to holding multiple items in one hand by grasping them between fingers. Typically, the phrase girl grip refers to a person using a clawed hand to hold multiple items at once. For example, a person may hold a paper cup using primarily their thumb and pointer finger while holding a smartphone, keys, receipt, and wallet with their remaining fingers on the same hand.  
+__give it a whirl__ To try something (often for the first time as a means of forming an opinion about it).  
 __give someone a run for their money__  
 __go missing__ To disappear. _My diamond earrings have gone missing, and I want the entire staff to be interrogated!_  
+__go rogue__  
 __greige__ A neutral color that looks like a mix of gray and beige.  
 __happy medium__ A healthy balance between two extremes.  
 __honey-do list__  
@@ -32,15 +45,20 @@ __house cooling party__ A party thrown to commemorate when someone leaves an apa
 __however much__ No matter how much.  
 __hustle (one’s) bustle__ To increase one’s pace or sense of urgency; to hurry up; to get moving quickly. _We’d better hustle our bustle if we want to get to the movie theater on time!_  
 __I’m all ears__  
+__in denial__ Unable or unwilling to believe or acknowledge something as true.  
 __in vain__  
 __it remains to be seen__  
 __jamming__ _slang_ Awesome; really exciting. _Man, that was an absolutely jamming party!_  
 __keep one eye on (someone or something)__  
+__lag__ __1__ _v_ To move or happen at a slower pace than someone or something else. _Google still dominates search with 92% market share, while Bing lags at 3.37%._  
 __loaf around__ To waste time being idle; to spend time doing little or nothing.  
 __mess with (someone or something)__  
+__move the needle__  
+__one and only__  
 __out of steam__ :dart: Completely exhausted, fatigued, or without energy or motivation. _I’m all out of steam, I can’t walk another step._  
 __pave the way (for someone or something)__  
 __Prince Charming__  
+__quibble over (something)__  
 __regardless of (something)__  
 __rep__ __2__ _n_ A shortening of “reputation.”  
 __riffle__ :two: In James Ellroy’s novels, “riffle” is a verb that means to search quickly through something, usually a pile of papers or documents. It implies a sense of urgency and impatience, as if the person doing the riffling is searching for something important and doesn’t have time to waste.  
@@ -107,6 +125,7 @@ __smear (one’s) name__ To disparage one publicly, especially to the detriment 
 __smooch__ /smutʃ/  
 __sneak peek__  
 __sneak up (on someone or something)__  
+__sniff out__  
 __snookered__ /ˈsnʊkɚd/ _mod_ __1__ Cheated; deceived. _I was snookered skillfully and quickly. It was almost a pleasure._ __2__ _slang_ Drunk.  
 __snout__ __4__ _slang_ A person’s nose.  
 __snow job__ :dart: A form of manipulation that involves lying or flattery to persuade someone. a systematic deception; a deceptive story that tries to hide the truth. _You can generally tell when a student is trying to do a snow job._ _This snow job you call an explanation just won’t do._  
@@ -162,9 +181,12 @@ __take a deep breath__
 __take a shine to (someone or something)__  
 __take aim (at someone or something)__  
 __take center stage__ To be the main focus.  
+__take matters into (one’s) own hands__ :dart:  
+__take refuge in (something or some place)__  
 __take something home__ To take a thought, idea, or concept away [to one’s home] from a meeting or conference. _Take this idea home with you—diversify your investments._  
 __take the bull by the horns__  
 __take the high road__ To choose the most noble, ethical, or diplomatic course or method, especially after or in the face of negativity or ill treatment. _Strive to always take the high road when dealing with others, even if they’ve treated you unfairly in the past. Life has a habit of rewarding those who learn to turn the other cheek._  
+__take vows__ To commit oneself to a religious order.  
 __talk out (of) (one’s) ass__  
 __talk the talk__  
 __team up (with one)__  
@@ -195,12 +217,14 @@ __time flies__
 __to say the least__  
 __toe the line__ :two::hammer:  
 __top-flight__ Stellar; excellent; of the highest level of quality or worth. Can be used with or without the hyphen when used after a noun.  
+__topsy-turvy__ _There’s an old Zen saying: “The world is topsy-turvy.”_  
 __touch up__ :dart::two::hammer: _You need to touch up your hair color._  
 __tough love__  
 __train wreck__ :dart:  
 __urban legend__ A myth or piece of folklore that is totally false. _That story about the rats in the sewer being as big as dogs is an urban legend. It’s just not so._  
 __vamoose__ :two::hammer: (vamoosed)  
 __veep__ _n_ /vip/ A vice president. _The veep is going to preside today._  
+__vroom__  
 __wait for it__  
 __wake-up call__  
 __walk in the park__ _Major depression—and especially treatment-resistant depression—is no walk in the park._  
@@ -238,3 +262,4 @@ __yippee-ki-yay__
 __you name it__  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
 __zero in__  
+__zig when (one) should zag__  
