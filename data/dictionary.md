@@ -18541,7 +18541,8 @@ __telly__ _n_ :dart:
 __temerity__ _n_ :three: /tuh-MAIR-uh-tee/ Excessive boldness or rashness; foolhardiness or recklessness. _Syn_ audaciousness, audacity _Everyone was shocked at her temerity in addressing the king in such a manner._  
 __temp<sup>1</sup>__ _n_ :two: (temps) __1__ A temporary worker, as in an office. __2__ Temperature. _Subzero temps._ _Temps dropped into the 30s._  
 __temp<sup>2</sup>__ _adj_ :two::hammer: _A temp job._ _A temp agency._  
-__temper__ _v_ :nine::hammer: (tempered)  
+__temper<sup>1</sup>__ _vt_ :nine: /ˈtɛmpə/ __1__ To moderate: _to temper justice with mercy._ __2__ To soften or tone down. __3__ To make suitable by or as if by blending. __4__ To work into proper consistency, as clay or mortar. __5__ To impart strength or toughness to (steel or cast iron) by heating and cooling. __6__ To tune (a keyboard instrument) so as to make the tones available in different keys or tonalities.  
+__temper<sup>2</sup>__ _vi_ To be or become tempered.  
 __tempera__ _n_  
 __temperament__  
 __temperance__  
@@ -18566,7 +18567,7 @@ __tendrils__ _n_
 __tenebrific__ _adj_ /ˌtɛnɪˈbrɪfɪk/  
 __tenebrous__ _adj_ /TEN-uh-brus/ _Syn_ gloomy  
 __tenement__ _n_ :two: __1__ A building for human habitation, especially one that is rented to tenants. __2__ A rundown, low-rental apartment building whose facilities and maintenance barely meet minimum standards. _Kids from the tenements._  
-__tenet__ _n_ :nine::hammer: (tenets) :es: principio  
+__tenet__ _n_ :nine: /ˈtɛnɪt; ˈtiːnɪt/ A doctrine, principle, or position held as part of a philosophy, religion, or field of endeavor. A belief, opinion, or dogma. :es: principio  
 __Tennessee Honey__ _n_ Honey liqueur blended with less than 20% whiskey.  
 __tenon__  
 __tense__ _adj_ :two::hammer:  
@@ -19187,7 +19188,7 @@ __treen__ _n_ Small woodenware.
 __treetops__ _n_  
 __treggings__ _n pl_ /ˈtrɛɡɪŋz/ Thick close-fitting leggings.  
 __trek__ _n_ :mega:  
-__trellis__ _n_ :nine::hammer: (trellises) _A series of couches shaded by trellises._ _A trellis of steel pipes carries a state-of-the-art sound system._  
+__trellis__ _n_ :nine: (trellises) __1__ A structure or pattern of latticework, esp one used to support climbing plants. _A series of couches shaded by trellises._ _A trellis of steel pipes carries a state-of-the-art sound system._ __2__ An arch made of latticework.  
 __trellising__ _v_ :astonished: _You’re re-trellising vines in the scorching sun._  
 __tremendous__ _adj_ :two::hammer:  
 __tremendously__ _adv_ :two::hammer:  
