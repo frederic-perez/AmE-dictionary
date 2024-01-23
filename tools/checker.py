@@ -208,6 +208,7 @@ VALID_PARTS_OF_SPEECH = \
     '_conj_', \
     '_conj, prep_', \
     '_contraction_', \
+    '_determiner_', \
     '_fig_', \
     '_gramo_', \
     '_n informal_', \

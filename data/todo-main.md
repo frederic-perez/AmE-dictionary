@@ -1,28 +1,51 @@
 __aplomb__ _n_ /əˈplɒm, əˈplʌm/  
+__backdrop__ _n_  
+__bajillion<sup>1</sup>__ _n_ An extremely large but unspecified number, quantity, or amount: _They’ll sell a bajillion of these._  
+__bajillion<sup>2</sup>__ _determiner_ Amounting to a bajillion: _a bajillion dollars._  
 __bedsit__ _n_ :es: habitación amueblada; estudio amueblado  
+__blockade__ _n_ /blɒˈkeɪd/  
 __bogus__ _adj_ /ˈboʊ gəs/  
 __breach__ _n_ /breach /briːtʃ/  
+__calico__ _adj, n_  
+__cap__ _n informal_ __1__ Capital: _venture cap._ __2__ Capitalization: _market cap._  
 __caucus__ _n_  
 __cicatrix__ _n_ A scar left by the formation of new connective tissue over a healing sore or wound. _Syn_ scar  
 __conflate__ _v_ /kun-FLAYT/ Two closely related meanings of the verb conflate are “to confuse,” i.e. “to fail to differentiate,” and “to blend or bring together.”  
 __conveyancing__ _n_ /kənˈveɪənsɪŋ/ (Law) The branch of law dealing with the transfer of ownership of property.  
 __countdown__ _n_  
+__darn__ _adj, adv, n_ /dɑːn/ A euphemistic word for damn.  
+__decor__ _n_  
 __downfall__ _n_  
 __Dunning-Kruger effect__ _n_ A hypothetical cognitive bias stating that people with low ability at a task overestimate their ability.  
+__entertain__ _vt_ __3a__ To consider; contemplate: _entertain an idea._  
 __evict__ _vt_ /ɪˈvɪkt/  
+__fishmonger__ _n_ _Chiefly British_ (fishwife)  
 __flatshare__ _n_ An arrangement in which two or more people share a flat (apartment building).  
+__foible__ _n_ /ˈfɔɪbəl/  
+__godsend__ _n_  
+__grievance__ _n_ /ˈgri vəns/  
 __harangue__ _n_ /huh-RANG/ A harangue is a forceful or angry speech or piece of writing.  
 __heliotrope__ _n_  
 __inculcate__ _v_ To teach (others) by frequent instruction or repetition. _Syn_ infuse, instill  
 __injunction__ _n_  
 __interpunct__ _n_  
+__Ivory Coast__ _n_  
 __kindred__ _adj_ /KIN-drud/  
 __landlady__ _n_  
 __lapse__ _v_  
 __largess__ _n_  
+__leaderboard__ _n_ A board that displays the leaders in a competition.  
+__leverage__ _n_ :mega: /ˈlɛv ər ɪdʒ, ˈlɛv rɪdʒ; ˈli vər ɪdʒ, -vrɪdʒ/  
 __lice__ _n pl_ /laɪs/ Plural of louse. :es: piojos  
 __licensee__ _n_ (licencee)  
+__look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
+__malaria__ _n_ /məˈlɛər i ə/  
 __mar__ _v_  
+__nab__ _vt_ _informal_ __1__ To seize (a fugitive or wrongdoer); arrest. __2__ To grab; snatch. _Recently, author Rie Kudan nabbed a prestigious literary award, using ChatGPT to write a portion of the novel._  
+__non-negotiable__ _adj_  
+__prick__ _n_ __2b__ A small, sharp, local pain, such as that made by a needle or bee sting.  
+__serial__ _adj, n_ /ˈsɪər i əl/  
+__skim__ _v_  
 __tank__ _n_ __5__ A tank top.  
 __taper__ _n_  
 __tarnish__ _v_  
@@ -32,6 +55,7 @@ __taxing__ _adj_ :dart: Burdensome; wearing: _a taxing business schedule._
 __televise__ _v_ To broadcast or be broadcast by television.  
 __telling__ _adj, n_ _That response was very telling._  
 __telltale__ _adj_ _Telltale signs._  
+__tempered__ _adj_ /ˈtɛm pərd/ _Highly tempered Groot kilss Yondu’s companions._  
 __ten-year__ _adj_ _A ten-year prison sentence._  
 __tenet__ _n_ /ˈtɛnɪt; ˈtiːnɪt/  
 __tense__ _n_ Grammatical tense refers to the conjugation of a verb to reflect its place in time—that is, when the action occurred.  
@@ -57,6 +81,7 @@ __white-collar__ _adj_ Of, relating to, or constituting the class of salaried em
 __whitlow__ _n_ A purulent infection at the end of a finger or toe in the area surrounding the nail. :astonished: _Syn_ felon  
 __wisteria__ _n_  
 __wistfully__ _adv_  
+__wizardry__ _n_  
 __wordplay__ _n_  
 __wordsmith__ _n_  
 __workaday__ _adj_  
