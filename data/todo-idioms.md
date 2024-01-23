@@ -148,31 +148,6 @@ __snout__ __4__ _slang_ A person’s nose.
 __snow job__ :dart: A form of manipulation that involves lying or flattery to persuade someone. a systematic deception; a deceptive story that tries to hide the truth. _You can generally tell when a student is trying to do a snow job._ _This snow job you call an explanation just won’t do._  
 __snuff (one)__ :two: _slang_ To kill one. _He was planning on going to the police, but the criminals snuffed him before he had the chance._ _Tragically, he was snuffed in his prime by cancer._  
 __so it goes__ _informal_ That is the kind of thing that happens; that is life. _Too bad about John and his problems. So it goes._ _I just lost a twenty-dollar bill, and I can’t find it anywhere. So it goes._  
-__so to speak__: two::hammer:  
-__so-so__  
-__sock__ _informal_ __1__ _n_ A sharp, forceful blow. _He gave me a sock in the arm when I called him a wuss._ __2__ _v_ To deliver a sharp, forceful blow. _Talk about my mother like that again, and I’ll sock you in the jaw!_  
-__something of a (something)__ Having a lot of qualities like or associated with some particular thing or type of person.  
-__sorry not sorry__ _slang_ A defiant expression of one’s lack of contrition or regret.  
-__soul searching__ :three::hammer:  
-__sound off (about something)__  
-__speak with a forked tongue__  
-__spew out__  
-__spill over__ __2__ To go beyond the borders or parameters of something and into something else, especially due to growing in size or scope. _It’s hard to contain violence to just one neighborhood, you know. It’s only a matter of time until it spills over into our part of town too._  
-__spill the beans__  
-__spill__ :dart: _informal_ To disclose or divulge (something).  
-__spiral__ _vi_ To increase continually.  
-__split__ :dart: _slang_ To leave or depart, especially quickly or suddenly. _We’d better split, Tom. We don’t want to miss our flight._  
-__spread like wildfire__ To spread, circulate, or propagate very quickly and widely. Likened to the rapid spread of a literal wildfire. _News of the scandal spread like wildfire across the news outlets._  
-__stand by someone or something__  
-__stand by__  
-__starkers__ _adj_ _British informal_ Stark naked.  
-__status quo__ :mega: /kwoʊ/  
-__staying power__ The ability to remain relevant, influential, profitable, or successful in the future.  
-__step in__ :dart: To enter into some position, activity, or situation to intervene or improve it.  
-__step up__ :three::hammer:  
-__stew over something__ :dart: To “stew over something” means to be bothered, annoyed, or worried about something for a long period of time, without being able to let it go. It’s kind of like simmering a pot of stew on the stove. You’ve got all these ingredients (your thoughts and emotions) simmering in the pot (your mind), and you just can’t turn off the heat (stop thinking about it). The longer you let it simmer, the more intense it becomes.  
-__stick (one’s) tongue out__  
-__stick with (someone or something)__  
 __stir the pot__ To exacerbate a tense or otherwise difficult situation.  
 __stop (dead) in (one’s) tracks__  
 __strapped for cash__ Without any or very much money at the moment; broke, especially temporarily.  
