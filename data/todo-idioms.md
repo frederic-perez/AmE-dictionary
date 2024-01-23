@@ -8,30 +8,40 @@ __akin to (something)__
 __all the difference in the world__ The greatest degree of difference that is possible or conceivable. Without the verbs “mean” or “make,” it is used to compare two disparate things. _There’s all the difference in the world between knowing how to play and actually performing on the field._ _I was sympathetic at first, but finding out you didn’t even study for the test makes all the difference in the world. You’re grounded!_  
 __an honest mistake__ A mistake made unintentionally or unknowingly and without the intention of causing harm; a mistake that anyone might have made in similar circumstances.  
 __anger issues__ You have trouble not getting mad.  
+__anytime soon__  
 __as we know it__  
+__at large__  
 __at the ready__ Available for use at any time.  
 __at the top of (one’s) lungs__ As loudly as one can.  
 __backdoor__  
 __be at it__  
 __be honor-bound to (do something)__  
 __be hounded (by someone or something)__ To be pursued, chased, badgered, or pestered (by someone or something), especially persistently or relentlessly.  
+__be spot on__ To be exactly right; to be perfectly accurate.  
+__behind closed doors__  
+__billie__ _slang_ A note of paper currency; a (dollar) bill. Can also be spelled “billy.” _Any chance you can loan me a few billies so I can buy something for lunch?_  
 __bite the bullet__  
 __catch the bug__ To become suddenly excited by or very interested in something (which is typically specified between “the” and “bug”).  
 __catch__ __13__ _n_ A problem, drawback, or hidden detriment, often one that is initially concealed as a means of entrapment.  
+__cut (through) (the) red tape__  
 __dark horse__  
 __die hard__ _The main character, John McClane, is determined to “die hard” — or fight to the end — in order to save his wife and defeat the terrorists who have taken over the building._  
 __double down__  
 __EGOT__ An abbreviation for “Emmy, Grammy, Oscar, Tony,” referring to the rare feat of winning the major awards in television, music, film, and theater. _Elton John joins elite EGOT ranks with Emmy win. John is only the 19th person to have achieved EGOT status (Whoopi Goldberg, Viola Davis, and Mel Brooks are some of the others)._  
 __end (something) on a high note__  
+__failure is not an option__  
+__far and wide__  
 __fast track__  
 __ferret out__ To discover or retrieve something, usually with careful effort. A noun or pronoun can be used between “ferret” and “out.” _Now that I’m a successful actress, I’m worried about what the media will ferret out about my tawdry past._  
 __fill up__  
 __finagle__  
 __flat-out__  
+__follow suit__  
 __girl grip__ _Girl grip_ is a slang phrase that refers to holding multiple items in one hand by grasping them between fingers. Typically, the phrase girl grip refers to a person using a clawed hand to hold multiple items at once. For example, a person may hold a paper cup using primarily their thumb and pointer finger while holding a smartphone, keys, receipt, and wallet with their remaining fingers on the same hand.  
 __give it a whirl__ To try something (often for the first time as a means of forming an opinion about it).  
 __give someone a run for their money__  
 __go missing__ To disappear. _My diamond earrings have gone missing, and I want the entire staff to be interrogated!_  
+__go overboard__  
 __go rogue__  
 __greige__ A neutral color that looks like a mix of gray and beige.  
 __happy medium__ A healthy balance between two extremes.  
@@ -45,12 +55,15 @@ __house cooling party__ A party thrown to commemorate when someone leaves an apa
 __however much__ No matter how much.  
 __hustle (one’s) bustle__ To increase one’s pace or sense of urgency; to hurry up; to get moving quickly. _We’d better hustle our bustle if we want to get to the movie theater on time!_  
 __I’m all ears__  
+__if it ain’t broke, don’t fix it__  
+__in a nutshell__  
 __in denial__ Unable or unwilling to believe or acknowledge something as true.  
 __in vain__  
 __it remains to be seen__  
 __jamming__ _slang_ Awesome; really exciting. _Man, that was an absolutely jamming party!_  
 __keep one eye on (someone or something)__  
 __lag__ __1__ _v_ To move or happen at a slower pace than someone or something else. _Google still dominates search with 92% market share, while Bing lags at 3.37%._  
+__line up__  
 __loaf around__ To waste time being idle; to spend time doing little or nothing.  
 __mess with (someone or something)__  
 __move the needle__  
@@ -58,7 +71,10 @@ __one and only__
 __out of steam__ :dart: Completely exhausted, fatigued, or without energy or motivation. _I’m all out of steam, I can’t walk another step._  
 __pave the way (for someone or something)__  
 __Prince Charming__  
+__pull something off__ :dart: __1__ _informal_ To manage to make something happen. _Yes, I can pull it off. Do you think you can pull off this deal?_  
+__put food on the table__  
 __quibble over (something)__  
+__rack up__  
 __regardless of (something)__  
 __rep__ __2__ _n_ A shortening of “reputation.”  
 __riffle__ :two: In James Ellroy’s novels, “riffle” is a verb that means to search quickly through something, usually a pile of papers or documents. It implies a sense of urgency and impatience, as if the person doing the riffling is searching for something important and doesn’t have time to waste.  
@@ -86,6 +102,7 @@ __rule of law__
 __rumble on__ To continue at a low but consistent level or degree, especially when no clear conclusion or resolution seems imminent or likely. Said especially of some argument, complaint, debate, discussion, etc. _The issue has been rumbling on in the background of our industry for nearly 10 years now, but we’re still no closer to figuring out a solution to it._  
 __rumor mill__  
 __run late__ To be behind schedule; to be a bit late. Typically used in the continuous tense.  
+__running high__ [for feelings] To be in a state of excitement or anger.  
 __running water__ :dart: Water that travels through plumbing and is able to be taken directly from a faucet.  
 __safe and sound__ Unharmed and whole or healthy.  
 __safety net__  
@@ -141,6 +158,7 @@ __sound off (about something)__
 __speak with a forked tongue__  
 __spew out__  
 __spill over__ __2__ To go beyond the borders or parameters of something and into something else, especially due to growing in size or scope. _It’s hard to contain violence to just one neighborhood, you know. It’s only a matter of time until it spills over into our part of town too._  
+__spill the beans__  
 __spill__ :dart: _informal_ To disclose or divulge (something).  
 __spiral__ _vi_ To increase continually.  
 __split__ :dart: _slang_ To leave or depart, especially quickly or suddenly. _We’d better split, Tom. We don’t want to miss our flight._  
@@ -198,9 +216,14 @@ __the (hand)writing on the wall__ :two::hammer:
 __the cream of the crop__ The best of a particular group.  
 __the Fourth Estate__ The people and organizations that report the news, or news journalism as a whole, regarded as having palpable but unofficial political influence.  
 __the lowdown on__ :dart: The whole truth about something.  
+__throw a (monkey) wrench in(to) the works__ To disrupt, foil, or cause problems to a plan, activity, or project.  
+__under fire__  
+__up in arms__ :dart:  
+__vamoose__ /væˈmus/ :two::hammer:  
 __veep__ _n_ /vip/ A vice president. _The veep is going to preside today._  
 __vroom__  
 __wait for it__  
+__wake up to (something)__  
 __wake-up call__  
 __walk in the park__ _Major depression—and especially treatment-resistant depression—is no walk in the park._  
 __walk the walk__  
@@ -233,7 +256,7 @@ __XYZ__ In spoken language, “XYZ” is often used to refer to hypothetical or 
 __yap__ __2__ To chatter; to gossip. _Did you just come here to yap?_ __3__ _n_ Nonsense; gibberish. _That windbag can produce an enormous amount of yap._ __4__ _vi_ To empty one’s stomach; to vomit. _Who yapped in the bushes?_ _A yapping dog._  
 __yard__ _n_ A one-hundred-dollar bill. (Underworld.) _The guy wanted a yard just to fix a little dent in the fender._  
 __yen__ A desire. Often used in the phrase “have a yen for (someone/something).“  
-__yippee-ki-yay__  
+__yippee-ki-yay__ :two::hammer:  
 __you name it__  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
 __zero in__  
