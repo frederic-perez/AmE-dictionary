@@ -21,8 +21,10 @@ __be spot on__ To be exactly right; to be perfectly accurate.
 __behind closed doors__  
 __billie__ _slang_ A note of paper currency; a (dollar) bill. Can also be spelled “billy.” _Any chance you can loan me a few billies so I can buy something for lunch?_  
 __bite the bullet__  
+__by word of mouth__ Through the verbal sharing of information.  
 __catch the bug__ To become suddenly excited by or very interested in something (which is typically specified between “the” and “bug”).  
 __catch__ __13__ _n_ A problem, drawback, or hidden detriment, often one that is initially concealed as a means of entrapment.  
+__cookie cutter__ __2__ _adj_ Identical to other things. In this usage, the phrase is typically hyphenated. _I want a unique house, not one of those cookie-cutter boxes that looks like every other one on the block._  
 __cut (through) (the) red tape__  
 __dark horse__  
 __die hard__ _The main character, John McClane, is determined to “die hard” — or fight to the end — in order to save his wife and defeat the terrorists who have taken over the building._  
@@ -32,11 +34,14 @@ __end (something) on a high note__
 __failure is not an option__  
 __far and wide__  
 __fast track__  
+__faux pas__  
 __ferret out__ To discover or retrieve something, usually with careful effort. A noun or pronoun can be used between “ferret” and “out.” _Now that I’m a successful actress, I’m worried about what the media will ferret out about my tawdry past._  
 __fill up__  
 __finagle__  
 __flat-out__  
 __follow suit__  
+__for better or (for) worse__ Whether something is good or bad.  
+__for its own sake__  
 __girl grip__ _Girl grip_ is a slang phrase that refers to holding multiple items in one hand by grasping them between fingers. Typically, the phrase girl grip refers to a person using a clawed hand to hold multiple items at once. For example, a person may hold a paper cup using primarily their thumb and pointer finger while holding a smartphone, keys, receipt, and wallet with their remaining fingers on the same hand.  
 __give it a whirl__ To try something (often for the first time as a means of forming an opinion about it).  
 __give someone a run for their money__  
@@ -57,7 +62,9 @@ __hustle (one’s) bustle__ To increase one’s pace or sense of urgency; to hur
 __I’m all ears__  
 __if it ain’t broke, don’t fix it__  
 __in a nutshell__  
+__in arrears__ Behind or overdue, often because one has not made a payment as scheduled.  
 __in denial__ Unable or unwilling to believe or acknowledge something as true.  
+__in full swing__  
 __in vain__  
 __it remains to be seen__  
 __jamming__ _slang_ Awesome; really exciting. _Man, that was an absolutely jamming party!_  
@@ -65,16 +72,23 @@ __keep one eye on (someone or something)__
 __lag__ __1__ _v_ To move or happen at a slower pace than someone or something else. _Google still dominates search with 92% market share, while Bing lags at 3.37%._  
 __line up__  
 __loaf around__ To waste time being idle; to spend time doing little or nothing.  
+__make a fuss__ To be a nuisance or cause a disturbance by complaining, arguing, etc. (about something).  
 __mess with (someone or something)__  
+__mish-mosh__ A jumbled, disorganized mixture of several various things.  
 __move the needle__  
+__no nonsense__ _adj_ Totally serious; with no tricks or deceit. Hyphenated before a noun.  
+__not enough room to swing a cat__ Very little or no space; very cramped quarters or proximity.  
+__on occasion__  
 __one and only__  
 __out of steam__ :dart: Completely exhausted, fatigued, or without energy or motivation. _I’m all out of steam, I can’t walk another step._  
 __pave the way (for someone or something)__  
 __Prince Charming__  
 __pull something off__ :dart: __1__ _informal_ To manage to make something happen. _Yes, I can pull it off. Do you think you can pull off this deal?_  
 __put food on the table__  
+__put forward__ To suggest, offer, or propose someone or something for consideration. A noun or pronoun can be used between “put” and “forward.”  
 __quibble over (something)__  
 __rack up__  
+__rainbows and unicorns__  
 __regardless of (something)__  
 __rep__ __2__ _n_ A shortening of “reputation.”  
 __riffle__ :two: In James Ellroy’s novels, “riffle” is a verb that means to search quickly through something, usually a pile of papers or documents. It implies a sense of urgency and impatience, as if the person doing the riffling is searching for something important and doesn’t have time to waste.  
@@ -148,6 +162,7 @@ __snout__ __4__ _slang_ A person’s nose.
 __snow job__ :dart: A form of manipulation that involves lying or flattery to persuade someone. a systematic deception; a deceptive story that tries to hide the truth. _You can generally tell when a student is trying to do a snow job._ _This snow job you call an explanation just won’t do._  
 __snuff (one)__ :two: _slang_ To kill one. _He was planning on going to the police, but the criminals snuffed him before he had the chance._ _Tragically, he was snuffed in his prime by cancer._  
 __so it goes__ _informal_ That is the kind of thing that happens; that is life. _Too bad about John and his problems. So it goes._ _I just lost a twenty-dollar bill, and I can’t find it anywhere. So it goes._  
+__spill the beans__  
 __stir the pot__ To exacerbate a tense or otherwise difficult situation.  
 __stop (dead) in (one’s) tracks__  
 __strapped for cash__ Without any or very much money at the moment; broke, especially temporarily.  
@@ -192,9 +207,10 @@ __the cream of the crop__ The best of a particular group.
 __the Fourth Estate__ The people and organizations that report the news, or news journalism as a whole, regarded as having palpable but unofficial political influence.  
 __the lowdown on__ :dart: The whole truth about something.  
 __throw a (monkey) wrench in(to) the works__ To disrupt, foil, or cause problems to a plan, activity, or project.  
+__to name (but) a few__  
 __under fire__  
 __up in arms__ :dart:  
-__vamoose__ /væˈmus/ :two::hammer:  
+__vamoose__ :two::hammer: /væˈmus/  
 __veep__ _n_ /vip/ A vice president. _The veep is going to preside today._  
 __vroom__  
 __wait for it__  
@@ -233,6 +249,7 @@ __yard__ _n_ A one-hundred-dollar bill. (Underworld.) _The guy wanted a yard jus
 __yen__ A desire. Often used in the phrase “have a yen for (someone/something).“  
 __yippee-ki-yay__ :two::hammer:  
 __you name it__  
+__your thoughts__ A way to invite someone to share their opinion or perspective in a conversation.  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
 __zero in__  
 __zig when (one) should zag__  
