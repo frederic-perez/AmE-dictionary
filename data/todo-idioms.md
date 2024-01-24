@@ -1,28 +1,3 @@
-__(one) can’t wait__ One is very excited or eager for something to happen; it will be difficult for one to wait for it. The phase can be used as part of a sentence or by itself as an exclamation. :es: ¡Qué ganas!  
-__(out) in the open__  
-__a hill of beans__ Something of little or no importance, value, or worth.  
-__a lot on (one’s) plate__ A lot to do. _I just have a lot on my plate right now while I’m finishing up my degree and doing this huge project for work._  
-__a pop__  
-__a portent of things to come__ Something that is indicative of what will happen or become popular in the future.  
-__akin to (something)__  
-__all the difference in the world__ The greatest degree of difference that is possible or conceivable. Without the verbs “mean” or “make,” it is used to compare two disparate things. _There’s all the difference in the world between knowing how to play and actually performing on the field._ _I was sympathetic at first, but finding out you didn’t even study for the test makes all the difference in the world. You’re grounded!_  
-__an honest mistake__ A mistake made unintentionally or unknowingly and without the intention of causing harm; a mistake that anyone might have made in similar circumstances.  
-__anger issues__ You have trouble not getting mad.  
-__anytime soon__  
-__as we know it__  
-__at large__  
-__at the ready__ Available for use at any time.  
-__at the top of (one’s) lungs__ As loudly as one can.  
-__backdoor__  
-__be at it__  
-__be honor-bound to (do something)__  
-__be hounded (by someone or something)__ To be pursued, chased, badgered, or pestered (by someone or something), especially persistently or relentlessly.  
-__be spot on__ To be exactly right; to be perfectly accurate.  
-__behind closed doors__  
-__billie__ _slang_ A note of paper currency; a (dollar) bill. Can also be spelled “billy.” _Any chance you can loan me a few billies so I can buy something for lunch?_  
-__bite the bullet__  
-__by word of mouth__ Through the verbal sharing of information.  
-__catch the bug__ To become suddenly excited by or very interested in something (which is typically specified between “the” and “bug”).  
 __catch__ __13__ _n_ A problem, drawback, or hidden detriment, often one that is initially concealed as a means of entrapment.  
 __cookie cutter__ __2__ _adj_ Identical to other things. In this usage, the phrase is typically hyphenated. _I want a unique house, not one of those cookie-cutter boxes that looks like every other one on the block._  
 __cut (through) (the) red tape__  
