@@ -1,3 +1,9 @@
+__back to back__  
+__be busted__  
+__Beam me up, Scotty__ Get me out of here! Take me away!  
+__bear in mind (that)__  
+__by far__ By a large amount; by a lot.  
+__by the skin of (one’s) teeth__ Barely. Often used to describe something that almost didn’t happen.  
 __catch__ __13__ _n_ A problem, drawback, or hidden detriment, often one that is initially concealed as a means of entrapment.  
 __cookie cutter__ __2__ _adj_ Identical to other things. In this usage, the phrase is typically hyphenated. _I want a unique house, not one of those cookie-cutter boxes that looks like every other one on the block._  
 __cut (through) (the) red tape__  
@@ -17,14 +23,20 @@ __flat-out__
 __follow suit__  
 __for better or (for) worse__ Whether something is good or bad.  
 __for its own sake__  
+__freak out__  
 __girl grip__ _Girl grip_ is a slang phrase that refers to holding multiple items in one hand by grasping them between fingers. Typically, the phrase girl grip refers to a person using a clawed hand to hold multiple items at once. For example, a person may hold a paper cup using primarily their thumb and pointer finger while holding a smartphone, keys, receipt, and wallet with their remaining fingers on the same hand.  
 __give it a whirl__ To try something (often for the first time as a means of forming an opinion about it).  
 __give someone a run for their money__  
+__glimmer of hope__ A minute indication that something may improve, succeed, or turn out for the best in the end.  
 __go missing__ To disappear. _My diamond earrings have gone missing, and I want the entire staff to be interrogated!_  
 __go overboard__  
 __go rogue__  
 __greige__ A neutral color that looks like a mix of gray and beige.  
+__grind on__ :dart: _The conflict grinds on._  
 __happy medium__ A healthy balance between two extremes.  
+__hassle (someone) about (something)__ To bother or nag someone about something. _Ugh, quit hassling me about that, will you?_  
+__have (one’s) hands full__ :dart: To be busy or completely occupied with dealing with something.  
+__have a go (at someone or something)__  
 __honey-do list__  
 __honey-mouthed__Smooth, soothing, and sweet in voice, especially in a persuasive or seductive manner or intent.  
 __horse-trade__ To negotiate, trade, or bargain in a shrewd, judicious manner. Primarily heard in US.  
@@ -45,25 +57,33 @@ __it remains to be seen__
 __jamming__ _slang_ Awesome; really exciting. _Man, that was an absolutely jamming party!_  
 __keep one eye on (someone or something)__  
 __lag__ __1__ _v_ To move or happen at a slower pace than someone or something else. _Google still dominates search with 92% market share, while Bing lags at 3.37%._  
+__leg work__ The physical work accompanying a task. _I don’t mind making the phone calls if you do the leg work._  
 __line up__  
 __loaf around__ To waste time being idle; to spend time doing little or nothing.  
+__look (one) in the eye(s)__ To make eye contact with one, typically in a way that is confident or without shame. _Look me in the eye and tell me you’re not lying._  
+__lose face__ To lose prestige or respect.  
+__lucky loser__  
 __make a fuss__ To be a nuisance or cause a disturbance by complaining, arguing, etc. (about something).  
 __mess with (someone or something)__  
 __mish-mosh__ A jumbled, disorganized mixture of several various things.  
 __move the needle__  
 __no nonsense__ _adj_ Totally serious; with no tricks or deceit. Hyphenated before a noun.  
+__no way__  
 __not enough room to swing a cat__ Very little or no space; very cramped quarters or proximity.  
 __on occasion__  
+__on the run__ __1__ Attempting to avoid capture, typically as a fugitive from law enforcement; on the lam.  
 __one and only__  
 __out of steam__ :dart: Completely exhausted, fatigued, or without energy or motivation. _I’m all out of steam, I can’t walk another step._  
 __pave the way (for someone or something)__  
 __Prince Charming__  
+__pull away__  
 __pull something off__ :dart: __1__ _informal_ To manage to make something happen. _Yes, I can pull it off. Do you think you can pull off this deal?_  
 __put food on the table__  
 __put forward__ To suggest, offer, or propose someone or something for consideration. A noun or pronoun can be used between “put” and “forward.”  
 __quibble over (something)__  
 __rack up__  
 __rainbows and unicorns__  
+__raise (one’s) eyebrows__  
 __regardless of (something)__  
 __rep__ __2__ _n_ A shortening of “reputation.”  
 __riffle__ :two: In James Ellroy’s novels, “riffle” is a verb that means to search quickly through something, usually a pile of papers or documents. It implies a sense of urgency and impatience, as if the person doing the riffling is searching for something important and doesn’t have time to waste.  
@@ -93,6 +113,7 @@ __rumor mill__
 __run late__ To be behind schedule; to be a bit late. Typically used in the continuous tense.  
 __running high__ [for feelings] To be in a state of excitement or anger.  
 __running water__ :dart: Water that travels through plumbing and is able to be taken directly from a faucet.  
+__sack (someone)__ _slang_ To dismiss someone from employment or service.  
 __safe and sound__ Unharmed and whole or healthy.  
 __safety net__  
 __sally__ _v_ In James Ellroy’s novels, the verb “sally” means to venture out or to go forth, often into some kind of danger or uncertainty.  
@@ -138,6 +159,8 @@ __snow job__ :dart: A form of manipulation that involves lying or flattery to pe
 __snuff (one)__ :two: _slang_ To kill one. _He was planning on going to the police, but the criminals snuffed him before he had the chance._ _Tragically, he was snuffed in his prime by cancer._  
 __so it goes__ _informal_ That is the kind of thing that happens; that is life. _Too bad about John and his problems. So it goes._ _I just lost a twenty-dollar bill, and I can’t find it anywhere. So it goes._  
 __spill the beans__  
+__stay put__  
+__step aside__ :dart:  
 __stir the pot__ To exacerbate a tense or otherwise difficult situation.  
 __stop (dead) in (one’s) tracks__  
 __strapped for cash__ Without any or very much money at the moment; broke, especially temporarily.  
@@ -156,7 +179,7 @@ __sweep in (to some place)__ To dash or run into some place.
 __swipe back__ Swipe back is a term used in the context of dating or social media apps. It means to go back to a profile that you had previously “swiped left” on, or passed up, and give it a second look.  
 __switch-heater__ Switch-heater in the novels by James Ellroy refers to a device used to ignite a cigarette.  
 __switch-hitter__ __2__ By extension, someone who is bisexual.  
-__tacky__  
+__tacky__ :two::hammer:  
 __tail__ _n_  
 __take (someone, something, or some place) by storm__  
 __take (something) for a spin__ To take a brief, leisurely ride in a vehicle, especially an automobile. _Do you want to go take my dad’s Corvette for a spin later?_  
@@ -181,6 +204,7 @@ __the (hand)writing on the wall__ :two::hammer:
 __the cream of the crop__ The best of a particular group.  
 __the Fourth Estate__ The people and organizations that report the news, or news journalism as a whole, regarded as having palpable but unofficial political influence.  
 __the lowdown on__ :dart: The whole truth about something.  
+__the red carpet__  
 __throw a (monkey) wrench in(to) the works__ To disrupt, foil, or cause problems to a plan, activity, or project.  
 __to name (but) a few__  
 __under fire__  
