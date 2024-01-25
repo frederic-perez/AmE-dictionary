@@ -4389,24 +4389,34 @@ __roll with it__ :two: To adapt to a situation despite unexpected circumstances 
 __roll with the punches__ :dart::two: Cope with and withstand adversity, especially by being flexible. For example, _She’d had three different editors for her book, each with a different style, but she’d learned to roll with the punches._ This term alludes to the boxer’s ability to deflect the full force of an opponent’s blow by adroitly moving his body.  
 __roller coaster__ _Emotional roller coaster._  
 __rolling in dough__ Exceptionally wealthy; having large amounts of money to spend. _I hear her father is rolling in dough, so I wouldn’t be too worried about her future._  
+__rosy__  
 __rough-and-tumble__ _The rough-and-tumble days the wild west._  
 __roughly speaking__ Approximately. _I think we can plan on having 20 volunteers, roughly speaking._  
+__round and round__ :two: (around and around) In circles.  
+__round something out__  
 __round the bend__ :two: Crazy, insane.  
 __round the clock__ (around the clock) Nonstop. _There are sirens round the clock._  
+__roundhouse__  
+__roust sheets__ “Roust sheets” is a term used in James Ellroy’s novels to refer to arrest records. It’s basically a list of people who have been arrested and charged with a crime.  
 __rub elbows__ :two::hammer:  
-__rub off on (someone)__ To have one’s characteristics, mannerisms, or behavior be adopted by someone with whom one has spent a lot of time. _Peter’s been very unruly lately. I think that new kid is rubbing off on him._  
+__rub it in__  
+__rub off on (someone)__ :two: To have one’s characteristics, mannerisms, or behavior be adopted by someone with whom one has spent a lot of time. _Peter’s been very unruly lately. I think that new kid is rubbing off on him._ _I’m trying hard to not let his stress rub off on me._  
 __rub out__  
+__rub someone wrong__  
 __rubber chichen dinner__ A dinner served at a large catered event, especially a political or corporate fundraising event, in which many people must be served simultaneously and the quality of food suffers as a result. (“Rubber chicken” is sometimes hyphenated.) _I’ll tell you, though: more than the long hours on the road, the repetitive speeches, or the manic workload, I cannot stand the rubber chicken dinners when I’m on the campaign trail._  
 __rubber jungle__ An aviation term among pilots and airline crew for the effect created when the rubber oxygen masks in a commercial aircraft deploy from its ceiling. _Everyone started to panic when the rubber jungle appeared, so I had to reassure them that it was just a minor hiccup and that we were all perfectly safe._  
 __rubber match__ _sports_ The final, tie-breaking game that determines the victor of a series. _The Astros have won their rubber match against the Titans, meaning they will advance to the next round of the playoffs. If they can win four more matches there, they will be in the running for the championship title._  
 __rubber stamp__  
+__ruckus__ A large, uproarious commotion.  
 __rue the day (that something happened)__ To curse or bitterly regret a point in time (in which something happened or one did something).  
 __ruffle (one’s) feathers__  
 __rug rat__ :two: (rugrat, ankle biter) A baby or young child, especially one that is not walking fully or at all (i.e. one that is still crawling on the rug). _How are your two rugrats doing, Tom?_  
+__rule of law__  
 __rule out__ :four: To eliminate, prevent, preclude, or cancel someone or something as a possibility. _They ruled Jim out when they were considering a replacement manager due to his tendency to show up late._  
 __rule the roost__ To be the real boss; to be the person in charge. _For all intents and purposes, it’s the assistant manager who rules the roost._  
+__rumble on__ To continue at a low but consistent level or degree, especially when no clear conclusion or resolution seems imminent or likely. Said especially of some argument, complaint, debate, discussion, etc. _The issue has been rumbling on in the background of our industry for nearly 10 years now, but we’re still no closer to figuring out a solution to it._  
 __rumor has it (that)__ :four: People say rumour has it when they are telling you something that they have heard, but do not necessarily think is true. _Rumour has it that tickets were being sold for £300._  
-__rumor mill__ :seven: The source from, or process by, which rumors are generated, spread, and perpetuated among a group of people. Primarily heard in US. _Listen, Barry, you can’t believe everything that comes out of the rumor mill. I can guarantee you that there will be no layoffs this year._  
+__rumor mill__ :eight: The source from, or process by, which rumors are generated, spread, and perpetuated among a group of people. Primarily heard in US. _Listen, Barry, you can’t believe everything that comes out of the rumor mill. I can guarantee you that there will be no layoffs this year._  
 __run (one’s) mouth (off)__  
 __run a bath__ To fill a bathtub with water before bathing. _After this crazy week at work, I can’t wait to get home, run a bath, and just relax._  
 __run a fever__ To have an abnormally high body temperature (a fever), which is indicative of or caused by illness; to have a fever. _After my toddler was lethargic all day, I begin to worry that she was running a fever._  
@@ -4420,6 +4430,7 @@ __run for (one’s) money__
 __run for the hills__  
 __run guns__  
 __run in circles__ :dart: To waste one’s time and energy engaging in trivial, aimless, or futile activities; to fail to make any meaningful progress in some task or activity. _I tried to get an outline drafted for my thesis, but my ideas were so jumbled in my head that I just kept running in circles._  
+__run late__ To be behind schedule; to be a bit late. Typically used in the continuous tense.  
 __run out of steam__  
 __run the place__ _The baby African elephant born at the zoo basically runs the place._  
 __run the show__  
@@ -4429,26 +4440,34 @@ __run with it__
 __run with scissors__  
 __run-of-the-mill__ :two::hammer:  
 __running bit__  
+__running high__ [for feelings] To be in a state of excitement or anger.  
 __running joke__ :two::hammer:  
+__running water__ :dart: Water that travels through plumbing and is able to be taken directly from a faucet.  
 __rush out__  
 __saber rattling__ :dart: (saber-rattling) A show or threat of military power. Words and actions that seek to convey anger, power, and intimidation, often in a military setting. _The leaders of these countries need to quit their saber rattling before we end up at war._  
-__sack (someone)__ _slang_ To dismiss someone from employment or service. _The boss will sack you if he sees you’ve been wasting your time like this._  
-__safety net__ :two::hammer:  
+__sack (someone)__ :two: _slang_ To dismiss someone from employment or service. _The boss will sack you if he sees you’ve been wasting your time like this._  
+__safe and sound__ Unharmed and whole or healthy.  
+__safety net__ :three::hammer:  
 __salad years__ A carefree time of youthful innocence, ingenuousness, and inexperience. A variant of the more common term “salad days,” which comes from Shakespeare’s _Antony and Cleopatra._ _I thought that I had experienced true romantic love back in my salad years, before I graduated. Now, however, I think love is largely an elaborate delusion._  
+__sally__ _v_ In James Ellroy’s novels, the verb “sally” means to venture out or to go forth, often into some kind of danger or uncertainty.  
 __salt in the/(one’s) wound(s)__ An aggravation that makes something unpleasant, difficult, or painful even worse. _I can’t believe Sally broke up with John the day after his team lost the championship match. Talk about salt in the wounds!_  
 __salt of the earth__ :two: (salt-of-the-earth) If you describe someone as the salt of the earth, you have a lot of respect for them as the type of person who deals with difficult or demanding situations without making any unnecessary fuss. A person or group considered as embodying simplicity and moral integrity. _A quiet, hardworking, salt-of-the-earth little man._  
 __salty dog__ A sailor, especially a man, who is older and has had a lot of experience on the seas. _The bar was packed with old salty dogs who’d traveled all across the world, sharing stories of their adventures._  
+__salty__ _slang_ Annoyed by, upset by, or resentful of something that has been done or said to one.  
 __same here__ :two: It’s the same with me; I agree; me too. _A: “I don’t want to lose you because of that.” B: “Same here.”_  
 __same old same old__ The same thing that is always done or that always happens. It often implies that such a thing is boring or monotonous. The phrase is duplicated for emphasis. _We always sit around and do the same old same old. Let’s go out this week._  
 __same same__  
 __sanctum sanctorum__ :two::hammer:  
+__sandbag__  
+__sap__ __1__ _slang_ A foolish, naïve, or gullible person. _You’re a bigger sap than I thought if you believe that, Phil._ __3__ _n_ Extreme self-confidence. A shortened form of the word “swagger.” _All the girls want to date him because he’s got swag._ __4__ _adj_ Cool; awesome. _Yeah, that dude’s pretty swag._  
 __sapphic__ _adj_ A code-word to describe female homosexuality.  
 __sass back__ To talk back to someone in a rude, impertinent, and disrespectful manner. A noun or pronoun can be used between “sass” and “back.” _Don’t you dare sass me back like that, son, or I’ll tan your hide!_ _He got suspended for school for sassing back to the teacher again._  
 __sassy__  
 __save (one’s) bacon__ :two: To rescue one from failure, danger, or disaster; to prevent something bad from happening to one. _Thanks for bringing me some extra cash—you really saved my bacon._  
 __save (something) for a rainy day__  
 __save face__ :seven: To try to regain favorable standing after something embarrassing has happened. _I was late to the meeting but tried to save face by blaming an urgent call._  
-__save the day__ :dart::seven: To produce a good result when a bad result was expected. _The team was expected to lose, but Sally made three points and saved the day._  
+__save on__  
+__save the day__ :dart::eight: To produce a good result when a bad result was expected. _The team was expected to lose, but Sally made three points and saved the day._  
 __save your breath__ Stop useless talk.  
 __saved by the bell__ :two: Saved or spared from difficulty or misfortune by some intervention at the very last moment. An allusion to the bell that ends the round in a boxing match saving a boxer from being counted out.  
 __sawbuck__ :two: _slang_ A 10-dollar bill. A sawbuck is another name for a sawhorse (a support on which timber is placed when it is being cut) that has two crossed legs at each end, creating an X, which were featured on old 10-dollar bills as the Roman numeral for 10. Primarily heard in US. _This place is great. You can get a full meal, a soft drink, and a dessert for less than a sawbuck!_ _I had to slip the clerk an extra sawbuck._  
@@ -4461,6 +4480,7 @@ __scare the (living) daylights out of (one)__ To shock or frighten one very sudd
 __scare the shit out of someone__  
 __scarlet letter__ :two::hammer:  
 __scatterbrain__ :two: Someone who is very forgetful, unfocused, or disorganized. _Sorry for forgetting about your recital. I’ve been such a scatterbrain, lately!_  
+__schlep__ __3__ _n, slang_ A foolish, bumbling, or incompetent person. From Yiddish. _Jeff is managing the project? That schlep couldn’t manage his own sock drawer._  
 __schlepp__  
 __schlock__ _He was running a schlock operation._  
 __schmaltz__  

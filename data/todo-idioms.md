@@ -98,31 +98,6 @@ __roll out__
 __roly-poly__ _A roly-poly hustler._  
 __room to grow__ A phrase used to describe the potential for something to improve or expand in the future. _There is always room to grow._  
 __root cause__ The most fundamental, central, or basic causal element of something.  
-__rosy__  
-__round and round__ :two: (around and around) In circles.  
-__round something out__  
-__roundhouse__  
-__roust sheets__ “Roust sheets” is a term used in James Ellroy’s novels to refer to arrest records. It’s basically a list of people who have been arrested and charged with a crime.  
-__rub it in__  
-__rub off on (someone)__ _I’m trying hard to not let his stress rub off on me._  
-__rub someone wrong__  
-__ruckus__ A large, uproarious commotion.  
-__rule of law__  
-__rumble on__ To continue at a low but consistent level or degree, especially when no clear conclusion or resolution seems imminent or likely. Said especially of some argument, complaint, debate, discussion, etc. _The issue has been rumbling on in the background of our industry for nearly 10 years now, but we’re still no closer to figuring out a solution to it._  
-__rumor mill__  
-__run late__ To be behind schedule; to be a bit late. Typically used in the continuous tense.  
-__running high__ [for feelings] To be in a state of excitement or anger.  
-__running water__ :dart: Water that travels through plumbing and is able to be taken directly from a faucet.  
-__sack (someone)__ _slang_ To dismiss someone from employment or service.  
-__safe and sound__ Unharmed and whole or healthy.  
-__safety net__  
-__sally__ _v_ In James Ellroy’s novels, the verb “sally” means to venture out or to go forth, often into some kind of danger or uncertainty.  
-__salty__ _slang_ Annoyed by, upset by, or resentful of something that has been done or said to one.  
-__sandbag__  
-__sap__ __1__ _slang_ A foolish, naïve, or gullible person. _You’re a bigger sap than I thought if you believe that, Phil._ __3__ _n_ Extreme self-confidence. A shortened form of the word “swagger.” _All the girls want to date him because he’s got swag._ __4__ _adj_ Cool; awesome. _Yeah, that dude’s pretty swag._  
-__save on__  
-__save the day__  
-__schlep__ __3__ _n, slang_ A foolish, bumbling, or incompetent person. From Yiddish. _Jeff is managing the project? That schlep couldn’t manage his own sock drawer._  
 __schtick__  
 __scooch over__  
 __scooch__ _v_ /skutʃ/  
