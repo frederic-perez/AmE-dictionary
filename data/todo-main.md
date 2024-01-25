@@ -2,9 +2,11 @@ __all-or-nothing__ _adj_
 __amyloidosis__ _n_ /ˌæmɪlɔɪˈdəʊsɪs/  
 __aplomb__ _n_ /əˈplɒm, əˈplʌm/  
 __backdrop__ _n_  
+__bailiff__ _n_  
 __bajillion<sup>1</sup>__ _n_ An extremely large but unspecified number, quantity, or amount: _They’ll sell a bajillion of these._  
 __bajillion<sup>2</sup>__ _determiner_ Amounting to a bajillion: _a bajillion dollars._  
 __bedsit__ _n_ :es: habitación amueblada; estudio amueblado  
+__blitzkrieg__ _n_  
 __blockade__ _n_ /blɒˈkeɪd/  
 __bogus__ _adj_ /ˈboʊ gəs/  
 __breach__ _n_ /breach /briːtʃ/  
@@ -13,13 +15,18 @@ __calico__ _adj, n_
 __cap__ _n informal_ __1__ Capital: _venture cap._ __2__ Capitalization: _market cap._  
 __caucus__ _n_  
 __chocolate bar__ _n_  
+__chrysalis__ _n_ /ˈkrɪs ə lɪs/  
 __cicatrix__ _n_ A scar left by the formation of new connective tissue over a healing sore or wound. _Syn_ scar  
 __compulsory__ _adj_ /kəmˈpʌl sə ri/  
+__con__ _vt_ _slang_ To swindle (a victim) by first winning his or her confidence; dupe.  
 __conflate__ _v_ /kun-FLAYT/ Two closely related meanings of the verb conflate are “to confuse,” i.e. “to fail to differentiate,” and “to blend or bring together.”  
 __conveyancing__ _n_ /kənˈveɪənsɪŋ/ (Law) The branch of law dealing with the transfer of ownership of property.  
 __countdown__ _n_  
 __darn__ _adj, adv, n_ /dɑːn/ A euphemistic word for damn.  
 __decor__ _n_  
+__denial__ _n_ _Despite denials, blah blah blah._  
+__dissatisfaction__ _n_ :pencil2:  
+__dissent__ _n_  
 __dormitory__ _n_ __1__ A college or university building containing living quarters for students. _Syn_ dorm, residence hall, student residence, hall  
 __downfall__ _n_  
 __Dunning-Kruger effect__ _n_ A hypothetical cognitive bias stating that people with low ability at a task overestimate their ability.  
@@ -27,17 +34,22 @@ __entertain__ _vt_ __3a__ To consider; contemplate: _entertain an idea._
 __evict__ _vt_ /ɪˈvɪkt/  
 __ex-con__ _n informal_ A former prisoner.  
 __exacerbation__ _n_  
+__fiddle__ _v_  
 __fishmonger__ _n_ _Chiefly British_ (fishwife)  
 __flatshare__ _n_ An arrangement in which two or more people share a flat (apartment building).  
 __foible__ _n_ /ˈfɔɪbəl/  
 __godsend__ _n_  
 __gridlock__ _n_  
 __grievance__ _n_ /ˈgri vəns/  
+__hacksaw__ _n_  
 __harangue__ _n_ /huh-RANG/ A harangue is a forceful or angry speech or piece of writing.  
+__hardline__ _adj_  
 __heliotrope__ _n_  
+__hose clamp__ _n_  
 __inculcate__ _v_ To teach (others) by frequent instruction or repetition. _Syn_ infuse, instill  
 __injunction__ _n_  
 __interpunct__ _n_  
+__intervention__ _n_  
 __Ivory Coast__ _n_  
 __kindred__ _adj_ /KIN-drud/  
 __landlady__ _n_  
@@ -47,8 +59,10 @@ __leaderboard__ _n_ A board that displays the leaders in a competition.
 __leverage__ _n_ :mega: /ˈlɛv ər ɪdʒ, ˈlɛv rɪdʒ; ˈli vər ɪdʒ, -vrɪdʒ/  
 __lice__ _n pl_ /laɪs/ Plural of louse. :es: piojos  
 __licensee__ _n_ (licencee)  
+__livelihood__ _n_  
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
 __malaria__ _n_ /məˈlɛər i ə/  
+__manslaughter__ _n_  
 __mar__ _v_  
 __mediocre__ _adj_ _Syn_ average  
 __nab__ _vt_ _informal_ __1__ To seize (a fugitive or wrongdoer); arrest. __2__ To grab; snatch. _Recently, author Rie Kudan nabbed a prestigious literary award, using ChatGPT to write a portion of the novel._  
@@ -56,12 +70,21 @@ __nifty__ _adj_ _The NYT created a nifty little quiz._
 __non-negotiable__ _adj_  
 __nonchalant__  
 __prick__ _n_ __2b__ A small, sharp, local pain, such as that made by a needle or bee sting.  
+__PTFE__ _n_ Also called (trademark): Teflon. _PTFE tape._  
+__putty__ _n_  
+__quash__ _vt_ _The conviction was quashed._  
 __seedbed__ _n_ __2__ The place where something develops: _the seedbed of discontent._  
 __serial__ _adj, n_ /ˈsɪər i əl/  
 __showdown__ _n_  
+__showroom__ _n_  
 __sidestep__ _v_ _Syn_ evade, hedge, skirt, parry, fudge, circumvent, dodge, elude, duck, put off  
 __skim__ _v_  
+__sovereign state__ _n_ A state which administers its own government, and is not dependent upon, or subject to, another power.  
 __specter__ _n_ __2__ A haunting or disturbing image or prospect: _the terrible specter of nuclear war._  
+__state media__ _n_ State media or government media are media outlets that are under financial and/or editorial control of the state or government, directly or indirectly.  
+__stun__ _vt_ __2__ To stupefy, as with the emotional impact of an experience; astound.  
+__sycamore__ _n_  
+__sympathy__ _n_  
 __tank__ _n_ __5__ A tank top.  
 __taper__ _n_  
 __tarnish__ _v_  
@@ -86,8 +109,10 @@ __turnover__ _n_
 __Tyrian purple__ _n_  
 __ultramarine__ _adj, n_  
 __umbrella__ _n_ /ʌmˈbrɛlə/ _A national umbrella organization._  
+__unfold__ _v_  
 __vagrant__ _n_ One who wanders from place to place without a permanent home or a means of livelihood. _Syn_ drifter, vagabond, floater  
 __wacko__ _n_ _slang_ A person regarded as eccentric or irrational.  
+__washer__ _n_ __2__ (Mechanical Engineering) A flat ring or drilled disc of metal used under the head of a bolt or nut to spread the load when tightened.  
 __wheelhouse__  
 __wherewithal<sup>1</sup>__ _n_ That with which to do something; means or supplies for the purpose or need, esp. money: _the wherewithal to pay my rent._  
 __wherewithal<sup>2</sup>__ _adv_ By means of which; out of which.  
