@@ -16643,7 +16643,7 @@ __skid<sup>1</sup>__ _n informal_ :seven: __1a__ A period of sharp decline or re
 __skid<sup>2</sup>__ _v_ _Cars were skidding on the highway._  
 __skillet__ _n_ :four: A pan used for frying foods. _Syn_ frying pan, frypan  
 __skillset__  
-__skim<sup>1</sup>__ _v_ :nine::dart: (skimmed, skimming) __2a__ If someone skims money, they take small amounts from somewhere so that people do not notice it is gone. _Jim could skim huge sums of money off the casino._ _Users often skim a page by its headings._ _Skim fat from chilled pan juices and finish making gravy._ __4a__ To throw so as to bounce or slide: _skimming stones on the pond._ __b__ To glide or pass quickly and lightly over or along (a surface). __5a__ To read or glance through (a book, for example) quickly or superficially. _He skimmed a copy of _Newsday_ abandoned by an earlier customer._  
+__skim<sup>1</sup>__ _v_ :nine::m::dart: (skimmed, skimming) __2a__ If someone skims money, they take small amounts from somewhere so that people do not notice it is gone. _Jim could skim huge sums of money off the casino._ _Users often skim a page by its headings._ _Skim fat from chilled pan juices and finish making gravy._ __4a__ To throw so as to bounce or slide: _skimming stones on the pond._ __b__ To glide or pass quickly and lightly over or along (a surface). __5a__ To read or glance through (a book, for example) quickly or superficially. _He skimmed a copy of _Newsday_ abandoned by an earlier customer._  
 __skim<sup>2</sup>__ _n_  
 __skimboard__  
 __skimp<sup>1</sup>__ _v_ :five: (skimped) Expend or use less time, money, or material on something than is necessary in an attempt to economize. _Don’t skimp on insurance when you book your holidays._  
@@ -17166,6 +17166,7 @@ __South of the Border__
 __southerly__ _adj_  
 __southpaw__ _n_ :three: A left-handed boxer who leads with the right hand. A left-handed person, especially a left-handed baseball pitcher. _To fight a southpaw._ _informal_ A left-hander in any sphere. _Southpaws are handy at math and spatial reasoning._ :es: zurdo  
 __souvenir__ _n_ _Souvenir items._  
+__sovereign state__ _n_ A state which administers its own government, and is not dependent upon, or subject to, another power.  
 __sovereign__ _n_ :two::mute:[soverei~~g~~n]:hammer:  
 __sovereignty__ _n_ :pencil2:  
 __sow__ _n_ :five::hammer: _A drunk sow._  
@@ -17234,6 +17235,7 @@ __spectacle__ _n_ :two::mega::hammer:
 __spectacles__ _pl n_ :two::hammer: _Spectacles or sunglasses?_  
 __spectacular__  
 __spectate__ _vi_ :two: To be present as a spectator (as at a sports event). _He resumed his spectating._  
+__specter__ _n_ __2__ A haunting or disturbing image or prospect: _the terrible specter of nuclear war._  
 __spectra__ _n pl_  
 __speculate__ _v_ :two: /SPEK-yuh-layt/ __1__ In general contexts, _speculate_ means “to form ideas or theories about something usually when there are many things not known about it.” _Scientists speculate that the newly discovered exoplanet could contain liquid water._ __2__ In contexts relating to business or finance, it means “to invest money in ways that could produce a large profit but that also involve a lot of risk.” _Their research explores the implications of so many people speculating on the stock market in the years leading up to the Great Depression._  
 __speculative__ _adj_ :two: Showing curiosity. _Syn_ inquisitive, wondering, questioning _He raised a speculative eyebrow but said nothing about her earlier absence, suspecting that she would not want to discuss it in front of their hosts._  
@@ -17559,6 +17561,7 @@ __stasis__ _n_ :three: A stoppage or diminution of flow, as of blood or other bo
 __stat sheet__ _n_ _informal_ :two: A list of statistics. _The stat sheet for him will be ugly—he missed 10 of his 15 shots._  
 __stat__ _adv_ _Med., Pharm._ Immediately. An abbreviation of the Latin _statim_, “immediately,” often used in medical contexts.  
 __State Bar__ _n_ _A State Bar judge._ :es: Colegio de Abogados del Estado  
+__state media__ _n_ State media or government media are media outlets that are under financial and/or editorial control of the state or government, directly or indirectly.  
 __statecraft__ _n_ The art of conducting public affairs. _Syn_ statesmanship, diplomacy _Only through superior statecraft was he able to avoid a war while simultaneously achieving favorable trade conditions._  
 __stately home__ _n_ _BrE_ A large mansion, esp one open to the public.  
 __stately__ _adj_ :seven: To be stately is to appear noble and impressive, almost in a larger than life kind of way. You may encounter a stately gentleman or a stately statue. If you do, take a little bow. _A stately ballroom._ _Stately homes._ _A stately afternoon tea._ _A stately building._  
@@ -17706,7 +17709,7 @@ __stintful__
 __stipend__ _n_ :seven::hammer: (stipends)  
 __stippled finish__ _n_ A dotted or a pebbly-textured finish on a surface coat of paint, plaster, porcelain enamel, etc.; produced by striking the unhardened coat with the bristles of a stippling brush.  
 __stipulate__ _v_ :two::hammer:  
-__stipulation__ _n_ :two::hammer:  
+__stipulation__ _n_ :three::hammer:  
 __stir up a hornet’s nest__ _fig_ To create a lot of trouble.  
 __stir-crazy__ _adj_ :dart: /STER-KRAY-zee/ Distraught because of prolonged confinement. _Guests at the ski lodge began going stir-crazy after Day 3 of being snowed in by the blizzard._  
 __stir<sup>1</sup>__ _n_  
@@ -17751,6 +17754,7 @@ __stooped__ _adj_ :four: Hraving the back and shoulders rounded; not erect. _A l
 __stop short__ _v_ :nine::m: (stop-short, stopped short) __1__ To come to a sudden and unexpected stop, particularly while speaking or driving a vehicle. __2__ Usually with of, to voluntarily cease an attempt to reach a certain point.  
 __stop up__ _v_ To block. _Some rubbish got into the drain and stopped it up._ _Snakes that stop up one ear with their tail._ :es: taponar  
 __stop-and-go__ _adj_ Alternately proceeding and halting: _stop-and-go traffic jams._  
+__stopcock__ _n_ A valve that regulates the flow of fluid through a pipe; a faucet.  
 __stope__  
 __stopgap<sup>1</sup>__ _n_ :nine::m: An improvised substitute for something lacking; a temporary expedient. _Syn_ make-do, makeshift _This is not an acceptable long term solution, just a stopgap._  
 __stopgap<sup>2/sup>__ _adj_ Serving as a stopgap: _a stopgap solution._  
@@ -17917,7 +17921,7 @@ __stultify__ _v_ /STUL-tuh-fye/ To cause someone or something to become dull or 
 __stump<sup>1</sup>__ _n_ :es: muñón  
 __stump<sup>2</sup>__ _v_ :nine::m::dart: (stumped) There are three ways to stump: you can ask someone a question they can’t answer, you can travel making political speeches, or you can stomp. Stump can mean many things as a verb. The most common use is when someone — like a teacher — asks a question that no one can answer. That’s a case of the teacher stumping the class. Also, politicians traveling through a district, making speeches are stumping, giving what are called stump speeches. Once in a while, to stump means the same thing as two similar words, stomp and stamp. If you’re stumping, stomping, and stamping around, you’re making a lot of noise with your feet. _Computers were loaded with reference materials so that inmates could look up answers (without accessing the Internet) when they were stumped._  
 __stun gun__ _n_  
-__stun<sup>1</sup>__ _v_ (stunned)  
+__stun<sup>1</sup>__ _vt_ :two: (stunned) __2__ To stupefy, as with the emotional impact of an experience; astound.  
 __stun<sup>2</sup>__ _n_ _Stun zone._  
 __stunned__ _adj_ :six: When you’re stunned, you’re thrown for a loop: either by shocking news or a blow to the head. You can be stunned a few different ways, but they all involve a state of confusion. If your mom won the lottery, you’d be stunned. Others might be stunned if their favorite TV show was canceled. Some people are stunned by good news that is kind of amazing, like a NASA flight to Mars. On the other hand, getting whacked in the head can leave you stunned. Getting the wind knocked out of you will do the same.  
 __stunner__  
@@ -18018,6 +18022,7 @@ __sugar daddy__ _n_ _slang_ :two: A rich usually middle-aged or old man who best
 __sugarcoat__ _v_  
 __sugarplum__ _n_ A small candy in the shape of a ball or disk.  
 __sugary yogurt__  
+__sui generis__ _adj_  
 __suicide vests__  
 __suit up__ _v_  
 __suited__ _adj_  
@@ -18250,7 +18255,7 @@ __sword__ _n_ :mega::mute:[s~~w~~ord]
 __sworn__ _adj_ Bound, pledged, or made inveterate, by or as if by an oath: _a sworn statement; he was sworn to God._ _Jedi Knights are sworn protectors of the Force and the Jedi Order._  
 __sybarite__ _n_ A person devoted to pleasure and luxury; a voluptuary. _Syn_ voluptuary  
 __sycamore tree__  
-__sycamore__ _n_ :two::hammer:  
+__sycamore__ _n_ :three::hammer:  
 __sycophant__ _n_ :dart::seven: (sycophants) A servile self-seeker who attempts to win favor by flattering influential people. _Syn_ crawler, toady, lackey _The sycophant erupted into laughter before the mayor had even finished the joke._  
 __syllabicate__ _v_  
 __syllable__ _n_  
@@ -18261,6 +18266,7 @@ __sylvan<sup>1</sup>__ _adj_ :two::hammer: (silvan)
 __sylvan<sup>2</sup>__ _n_ :two::hammer: (silvan) _Classical Myth & Legend_ An inhabitant of the woods, esp. a spirit.  
 __symbiosis__ _n_ :two::hammer: /sim-bee-OH-sis/  
 __sympathetic__ _adj_ :two::hammer:  
+__sympathy__ _n_  
 __sympatric__ _adj_ /sim-PAT-rik/ [:scroll: From sym-, a form of syn- (together) + patra (homeland), from pater (father).] Occurring in the same geographical area. _The Mojave yucca is often sympatric with the Joshua tree._  
 __symposiarch__ _n_ The person who proposes toasts and introduces speakers at a banquet. _Syn_ toastmaster  
 __synaptogenesis__ _n_  
@@ -18392,7 +18398,8 @@ __tangle<sup>1</sup>__ _n_ (tangles)
 __tangle<sup>2</sup>__ _v_ :two::hammer: (tangled) _Cousin and Horford tangled in the first quarter Wednesday._  
 __tangled__  
 __tangy__ _adj_ :two::hammer: _Tangy BBQ duck._  
-__tank__ _vi_ _informal_ :nine::m: (tanked, tanking) __2__ _informal_ To suffer a sudden decline or failure: _The stock market tanked yesterday._ _The Braves are being accussed of losing on purpose now to speed-dial to a brighter future. It’s called tanking._ _There are grand incentives to tank a season._ _The market tanked._ _Laptops tanking your meetings?_ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanking._ _Google’s value tanked by as much as $100 billion because of the two flubs._  
+__tank<sup>1</sup>__ _n_ __5__ A tank top.  
+__tank<sup>2</sup>__ _vi_ _informal_ :nine::m: (tanked, tanking) __2__ _informal_ To suffer a sudden decline or failure: _The stock market tanked yesterday._ _The Braves are being accussed of losing on purpose now to speed-dial to a brighter future. It’s called tanking._ _There are grand incentives to tank a season._ _The market tanked._ _Laptops tanking your meetings?_ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanking._ _Google’s value tanked by as much as $100 billion because of the two flubs._  
 __tankard__ _n_  
 __tanker truck__  
 __tanker__ _n_  
@@ -18411,7 +18418,7 @@ __tap into__
 __tap__ _v_ :nine::m: (tapped) __1__ To strike gently with a light blow or blows: _I tapped you on the shoulder to get your attention._ _Then he raised his cup and tapped Cato’s._ __2__ To give a light rap with: _tap a pencil._ __3__ To produce with a succession of light blows: _tap out a rhythm._ __4__ To select, as for membership in an organization; designate. __5__ _informal_ To ask (a person) for money. _Entrepreneurs tap neighbors for funding._  
 __tape dispenser__  
 __taper off__ _v_ :two::hammer: (tapering off) _The celebration began to taper off._  
-__taper<sup>1</sup>__ _n_ :four: (tapers) __1__ A convex shape that narrows toward a point. __2__ The property possessed by a shape that narrows toward a point (as a wedge or cone). __3__ _She said the blessing over the tapers._ :es: vela  
+__taper<sup>1</sup>__ _n_ :five: (tapers) __1__ A convex shape that narrows toward a point. __2__ The property possessed by a shape that narrows toward a point (as a wedge or cone). __3__ _She said the blessing over the tapers._ :es: vela  
 __taper<sup>2</sup>__ _v_ :nine::m: (tapered, tapering) To taper is to gradually grow smaller or more narrow or less intense. Taper is often used with the word “off.” _Part of the power of the Vietnam Memorial is in how the two walls appear to “taper off” into infinity._ _Finally, the sound tapered off._ _The Antillean manatee is a large marine mammal with walrus-like shaped body that tapers to a wide paddle-shaped tail._  
 __tapeworm__ _n_  
 __tapioca__ _n_ :two::mega: hammer:  
@@ -18441,7 +18448,7 @@ __tartly__ _adv_ In a tart manner. _The teacher replied tartly._
 __tarts__ _n_ (whore)  
 __tase__ _v_  
 __Taser__ _n_ A trademark for a brand of conducted electrical weapons that cause neuromuscular incapacitation, used widely in law enforcement. _A Taser stun gun._  
-__task__ _v_ :five::hammer: (tasked) _They have been tasked._  
+__task__ _vt_ :six: __1__ To assign a task to or impose a task on. _The agency was tasked with creating an advertising campaign._ _They have been tasked._  
 __Tassel Loafers__ _n_ In the construction sector, a slang term for a corporate manager when he/she visits a worksite in person. The term derives from the fact that executives on construction sites can be identified by their fancy shoes.  
 __tassel<sup>1</sup>__ _n_ :four::hammer: _A thong with tassels._ _Six little palfreys caparisoned in green velvet with crimson tassels._  
 __tassel<sup>2</sup>__ _v_ :five::hammer: (tasseled)  
@@ -18460,8 +18467,8 @@ __tattle<sup>2</sup>__ _v_ :dart::three::hammer: (tattling)
 __tattletale<sup>1</sup>__ _adj_  
 __tattletale<sup>2</sup>__ _n_ :two::hammer:  
 __tatty__ _adj_  
-__taunt<sup>1</sup>__ _n_ :two::hammer: (taunts) _Song has heard his share of slurs and taunts._  
-__taunt<sup>2</sup>__ _v_ :nine::hammer: (taunted, taunting)  
+__taunt<sup>1</sup>__ _n_ :three::hammer: (taunts) _Song has heard his share of slurs and taunts._  
+__taunt<sup>2</sup>__ _v_ :nine::m::hammer: (taunted, taunting)  
 __taupe__  
 __Taurus__ _n_ :mega:  
 __taut__ _adj_  
@@ -18483,6 +18490,7 @@ __taxi medallion__ _n_ A taxi medallion, also known as a CPNC (Certificate of Pu
 __taxi rank__ _n_ A place where taxis wait to be hired. _Syn_ cabstand, taxistand  
 __taxi__ _n_ (_n pl_ taxis, or taxies)  
 __taxidermy__ _n_  
+__taxing__ _adj_ :dart: Burdensome; wearing: _a taxing business schedule._  
 __taxonomy__ _n_  
 __taxpayer__ _n_ :two::pencil2::hammer:  
 __Taylorism__ _n_ /TAY-luh-riz-uhm/ __1__ A method of analyzing workflow for process optimization. Also known as scientific management. __2__ A modified form of Calvinism. Also known as New Haven theology.  
@@ -18529,11 +18537,13 @@ __teleological__ _adj_ /tel-ee-uh-LAH-jih-kul/ Teleological (and its less common
 __teleology__  
 __telethon__ _n_  
 __televangelist__ _n_  
+__televise__ _v_ To broadcast or be broadcast by television.  
 __televised__  
-__telling__ _n_ :three::hammer: _In her telling, this “they” of hers is scaring the bejeezus out of good, God-fearing conservatives._ _In their telling, the father’s experience in Cuba becomes a parable._ _A sensitive telling of the case of Richard and Mildred Loving._  
+__telling<sup>1</sup>__ _adj_ _That response was very telling._  
+__telling<sup>2</sup>__ _n_ :four::hammer: _In her telling, this “they” of hers is scaring the bejeezus out of good, God-fearing conservatives._ _In their telling, the father’s experience in Cuba becomes a parable._ _A sensitive telling of the case of Richard and Mildred Loving._  
 __tellingly__  
 __telltale<sup>1</sup>__ _n_ :five: __3__ An indicator, such as a warning light, that serves to warn of a hazard or problem. _Telltale signs._  
-__telltale<sup>2</sup>__ _adj_ _I exhibit the telltale symptoms of the workaholic’s curse._  
+__telltale<sup>2</sup>__ _adj_ :two: _Telltale signs._ _I exhibit the telltale symptoms of the workaholic’s curse._  
 __tellurian<sup>1</sup>__ _adj_ :two: Of or characteristic of the earth of its inhabitants; terrestrial.  
 __tellurian<sup>2</sup>__ _n_ (esp in science fiction) An inhabitant of the earth.  
 __telluric__ _adj_  
@@ -18547,7 +18557,7 @@ __tempera__ _n_
 __temperament__  
 __temperance__  
 __temperate__ _adj_ _A temperate climate._  
-__tempered__ _adj_  
+__tempered__ _adj_ :two::hammer: /ˈtɛm pərd/ _Highly tempered Groot kilss Yondu’s companions._  
 __tempering__ _adj_ _A tempering experience_  
 __tempestuous__ _adj_ :three: /tem-PESS-chuh-wus/ Of, relating to, or resembling a tempest. _Syn_ turbulent, stormy _Because the player’s relationship with his manager had grown more tempestuous over the course of the season, the decision to trade him benefited everyone._  
 __template__ _n_ :dart::two::mega: /ˈtɛmplɪt/ (templet)  
@@ -18555,6 +18565,7 @@ __templet__ _n_ A model or standard for making comparisons. _Syn_ guide _By usin
 __temporal landmark__ _n_  
 __temporizer__ _n_ /TEM-puh-ry-zuhr/ :astonished: One who delays, waiting for a favorable time, or to avoid making a decision.  
 __Tempranillo__  
+__ten-year__ _adj_ _A ten-year prison sentence._  
 __tenable__ _adj_  
 __tenacious__ _adj_  
 __tenacity__ _n_  
@@ -18567,13 +18578,14 @@ __tendrils__ _n_
 __tenebrific__ _adj_ /ˌtɛnɪˈbrɪfɪk/  
 __tenebrous__ _adj_ /TEN-uh-brus/ _Syn_ gloomy  
 __tenement__ _n_ :two: __1__ A building for human habitation, especially one that is rented to tenants. __2__ A rundown, low-rental apartment building whose facilities and maintenance barely meet minimum standards. _Kids from the tenements._  
-__tenet__ _n_ :nine: /ˈtɛnɪt; ˈtiːnɪt/ A doctrine, principle, or position held as part of a philosophy, religion, or field of endeavor. A belief, opinion, or dogma. :es: principio  
+__tenet__ _n_ :nine::m: /ˈtɛnɪt; ˈtiːnɪt/ A doctrine, principle, or position held as part of a philosophy, religion, or field of endeavor. A belief, opinion, or dogma. :es: principio  
 __Tennessee Honey__ _n_ Honey liqueur blended with less than 20% whiskey.  
 __tenon__  
-__tense__ _adj_ :two::hammer:  
+__tense<sup>1</sup>__ _adj_ :two::hammer:  
+__tense<sup>2</sup>__ _n_ Grammatical tense refers to the conjugation of a verb to reflect its place in time—that is, when the action occurred.  
 __tensile__ _adj_ _Tensile cable._  
 __tent-pole__ _n_ (tentpole) A program or film that supports the financial performance of a film studio or television network. It is an analogy for the way a strong central pole provides a stable structure to a tent. A tent-pole film may be expected to support the sale of tie-in merchandise. _A summer-season tent-pole._  
-__tentative__  
+__tentative__ _adj_ :two::hammer:  
 __tenterhook__ _n_  
 __tenterhooks__  
 __tenuous__ _adj_ :four: Having litthe substance or strength; thin; weak.  

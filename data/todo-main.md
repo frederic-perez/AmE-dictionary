@@ -98,31 +98,6 @@ __showdown__ _n_
 __showroom__ _n_  
 __sidestep__ _v_ _Syn_ evade, hedge, skirt, parry, fudge, circumvent, dodge, elude, duck, put off  
 __singlehandledly__ _adv_ _Video shows Ukrainian armored vehicle singlehandedly stopping Russian assault._  
-__skim__ _v_  
-__sovereign state__ _n_ A state which administers its own government, and is not dependent upon, or subject to, another power.  
-__specter__ _n_ __2__ A haunting or disturbing image or prospect: _the terrible specter of nuclear war._  
-__state media__ _n_ State media or government media are media outlets that are under financial and/or editorial control of the state or government, directly or indirectly.  
-__stipulation__ _n_  
-__stoke__ _v_  
-__stopcock__ _n_ A valve that regulates the flow of fluid through a pipe; a faucet.  
-__stun__ _vt_ __2__ To stupefy, as with the emotional impact of an experience; astound.  
-__sui generis__ _adj_  
-__sycamore__ _n_  
-__sympathy__ _n_  
-__tank__ _n_ __5__ A tank top.  
-__taper__ _n_  
-__tarnish__ _v_  
-__task__ _vt_ __1__ To assign a task to or impose a task on. _The agency was tasked with creating an advertising campaign._  
-__taunt__  
-__taxing__ _adj_ :dart: Burdensome; wearing: _a taxing business schedule._  
-__televise__ _v_ To broadcast or be broadcast by television.  
-__telling__ _adj, n_ _That response was very telling._  
-__telltale__ _adj_ _Telltale signs._  
-__tempered__ _adj_ /ˈtɛm pərd/ _Highly tempered Groot kilss Yondu’s companions._  
-__ten-year__ _adj_ _A ten-year prison sentence._  
-__tenet__ _n_ /ˈtɛnɪt; ˈtiːnɪt/  
-__tense__ _n_ Grammatical tense refers to the conjugation of a verb to reflect its place in time—that is, when the action occurred.  
-__tentative__ _adj_  
 __terraform__ _v_  
 __tmesis__ _n_  
 __trade union__ _n_ :dart: :es: sindicato  
