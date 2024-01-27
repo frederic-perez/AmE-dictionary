@@ -1,10 +1,13 @@
 __all-or-nothing__ _adj_  
+__amp up__ _v_  
 __amyloidosis__ _n_ /ˌæmɪlɔɪˈdəʊsɪs/  
 __aplomb__ _n_ /əˈplɒm, əˈplʌm/  
+__aspect__ _n_ __5__ A side or surface facing in a particular direction: _the ventral aspect of the body._  
 __backdrop__ _n_  
 __bailiff__ _n_  
 __bajillion<sup>1</sup>__ _n_ An extremely large but unspecified number, quantity, or amount: _They’ll sell a bajillion of these._  
 __bajillion<sup>2</sup>__ _determiner_ Amounting to a bajillion: _a bajillion dollars._  
+__ball valve__ _n_  
 __bedsit__ _n_ :es: habitación amueblada; estudio amueblado  
 __blitzkrieg__ _n_  
 __blockade__ _n_ /blɒˈkeɪd/  
@@ -25,22 +28,29 @@ __countdown__ _n_
 __darn__ _adj, adv, n_ /dɑːn/ A euphemistic word for damn.  
 __decor__ _n_  
 __denial__ _n_ _Despite denials, blah blah blah._  
+__despite__ _n, prep_ /dɪˈspaɪt/  
+__detour__ _n_  
+__detox__  
 __dissatisfaction__ _n_ :pencil2:  
 __dissent__ _n_  
 __dormitory__ _n_ __1__ A college or university building containing living quarters for students. _Syn_ dorm, residence hall, student residence, hall  
 __downfall__ _n_  
+__ductal__ _adj_ /ˈdʌktəl/ Relating to a duct or tube-like structure in the body that carries bodily fluids.  
 __Dunning-Kruger effect__ _n_ A hypothetical cognitive bias stating that people with low ability at a task overestimate their ability.  
 __entertain__ _vt_ __3a__ To consider; contemplate: _entertain an idea._  
 __evict__ _vt_ /ɪˈvɪkt/  
 __ex-con__ _n informal_ A former prisoner.  
 __exacerbation__ _n_  
+__explicit__ _adj_ __3b__ Describing or portraying nudity or sexual activity in graphic detail. _AI-generated explicit images of Taylor Swift surfaced on X._  
 __fiddle__ _v_  
 __fishmonger__ _n_ _Chiefly British_ (fishwife)  
 __flatshare__ _n_ An arrangement in which two or more people share a flat (apartment building).  
 __foible__ _n_ /ˈfɔɪbəl/  
 __godsend__ _n_  
 __gridlock__ _n_  
-__grievance__ _n_ /ˈgri vəns/  
+__grievance__ _n_ :two::hammer: /ˈgri vəns/  
+__gripe__ _n_ __1__ _informal_ A complaint.  
+__guac__ _n informal_ Guacamole.  
 __hacksaw__ _n_  
 __harangue__ _n_ /huh-RANG/ A harangue is a forceful or angry speech or piece of writing.  
 __hardline__ _adj_  
@@ -65,24 +75,38 @@ __malaria__ _n_ /məˈlɛər i ə/
 __manslaughter__ _n_  
 __mar__ _v_  
 __mediocre__ _adj_ _Syn_ average  
+__misuse__ _n_  
+__mumps__ _n pl_  
 __nab__ _vt_ _informal_ __1__ To seize (a fugitive or wrongdoer); arrest. __2__ To grab; snatch. _Recently, author Rie Kudan nabbed a prestigious literary award, using ChatGPT to write a portion of the novel._  
+__nail plate__ _n_  
+__New Hampshire__ _n_ /ˈhæmp ʃər, -ʃɪər/  
 __nifty__ _adj_ _The NYT created a nifty little quiz._  
 __non-negotiable__ _adj_  
 __nonchalant__  
+__outbreak__ _n_  
+__overlord__ _n_  
 __prick__ _n_ __2b__ A small, sharp, local pain, such as that made by a needle or bee sting.  
 __PTFE__ _n_ Also called (trademark): Teflon. _PTFE tape._  
 __putty__ _n_  
 __quash__ _vt_ _The conviction was quashed._  
+__rubella__ _n_ /ruˈbɛl ə/  
 __seedbed__ _n_ __2__ The place where something develops: _the seedbed of discontent._  
+__self-destruct<sup>1</sup>__ _vi_ To destroy itself or oneself.  
+__self-destruct<sup>2</sup>__ _adj_ Causing something to self-destruct.  
 __serial__ _adj, n_ /ˈsɪər i əl/  
 __showdown__ _n_  
 __showroom__ _n_  
 __sidestep__ _v_ _Syn_ evade, hedge, skirt, parry, fudge, circumvent, dodge, elude, duck, put off  
+__singlehandledly__ _adv_ _Video shows Ukrainian armored vehicle singlehandedly stopping Russian assault._  
 __skim__ _v_  
 __sovereign state__ _n_ A state which administers its own government, and is not dependent upon, or subject to, another power.  
 __specter__ _n_ __2__ A haunting or disturbing image or prospect: _the terrible specter of nuclear war._  
 __state media__ _n_ State media or government media are media outlets that are under financial and/or editorial control of the state or government, directly or indirectly.  
+__stipulation__ _n_  
+__stoke__ _v_  
+__stopcock__ _n_ A valve that regulates the flow of fluid through a pipe; a faucet.  
 __stun__ _vt_ __2__ To stupefy, as with the emotional impact of an experience; astound.  
+__sui generis__ _adj_  
 __sycamore__ _n_  
 __sympathy__ _n_  
 __tank__ _n_ __5__ A tank top.  

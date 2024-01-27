@@ -218,6 +218,7 @@ VALID_PARTS_OF_SPEECH = \
     '_n slang_', \
     '_n_', \
     '_n, adj_', \
+    '_n, prep_', \
     '_n, v_', \
     '_phr informal_', \
     '_phr v_', \
