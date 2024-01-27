@@ -1,7 +1,9 @@
+__at hand__  
 __back to back__  
 __be busted__  
 __Beam me up, Scotty__ Get me out of here! Take me away!  
 __bear in mind (that)__  
+__brainchild__  
 __by far__ By a large amount; by a lot.  
 __by the skin of (one’s) teeth__ Barely. Often used to describe something that almost didn’t happen.  
 __catch__ __13__ _n_ A problem, drawback, or hidden detriment, often one that is initially concealed as a means of entrapment.  
@@ -20,10 +22,13 @@ __ferret out__ To discover or retrieve something, usually with careful effort. A
 __fill up__  
 __finagle__  
 __flat-out__  
+__floor (one)__ To cause one a great deal of shock, surprise, or disbelief.  
 __follow suit__  
 __for better or (for) worse__ Whether something is good or bad.  
+__for better or for worse__  
 __for its own sake__  
 __freak out__  
+__fuss about__  
 __girl grip__ _Girl grip_ is a slang phrase that refers to holding multiple items in one hand by grasping them between fingers. Typically, the phrase girl grip refers to a person using a clawed hand to hold multiple items at once. For example, a person may hold a paper cup using primarily their thumb and pointer finger while holding a smartphone, keys, receipt, and wallet with their remaining fingers on the same hand.  
 __give it a whirl__ To try something (often for the first time as a means of forming an opinion about it).  
 __give someone a run for their money__  
@@ -31,12 +36,15 @@ __glimmer of hope__ A minute indication that something may improve, succeed, or 
 __go missing__ To disappear. _My diamond earrings have gone missing, and I want the entire staff to be interrogated!_  
 __go overboard__  
 __go rogue__  
+__go wrong__  
 __greige__ A neutral color that looks like a mix of gray and beige.  
 __grind on__ :dart: _The conflict grinds on._  
+__gripe about (someone or something)__  
 __happy medium__ A healthy balance between two extremes.  
 __hassle (someone) about (something)__ To bother or nag someone about something. _Ugh, quit hassling me about that, will you?_  
 __have (one’s) hands full__ :dart: To be busy or completely occupied with dealing with something.  
 __have a go (at someone or something)__  
+__hoist the white flag__ :dart:  
 __honey-do list__  
 __honey-mouthed__Smooth, soothing, and sweet in voice, especially in a persuasive or seductive manner or intent.  
 __horse-trade__ To negotiate, trade, or bargain in a shrewd, judicious manner. Primarily heard in US.  
@@ -48,16 +56,20 @@ __however much__ No matter how much.
 __hustle (one’s) bustle__ To increase one’s pace or sense of urgency; to hurry up; to get moving quickly. _We’d better hustle our bustle if we want to get to the movie theater on time!_  
 __I’m all ears__  
 __if it ain’t broke, don’t fix it__  
+__in (high) hopes of (something)__  
 __in a nutshell__  
 __in arrears__ Behind or overdue, often because one has not made a payment as scheduled.  
 __in denial__ Unable or unwilling to believe or acknowledge something as true.  
 __in full swing__  
+__in the interim__ In the time before something happens; in the meantime.  
 __in vain__  
 __it remains to be seen__  
 __jamming__ _slang_ Awesome; really exciting. _Man, that was an absolutely jamming party!_  
+__just what the doctor ordered__  
 __keep one eye on (someone or something)__  
 __lag__ __1__ _v_ To move or happen at a slower pace than someone or something else. _Google still dominates search with 92% market share, while Bing lags at 3.37%._  
 __leg work__ The physical work accompanying a task. _I don’t mind making the phone calls if you do the leg work._  
+__let it/(one) be__ :dart: To not interact with or bother someone or interfere with something; to leave someone or something alone.  
 __line up__  
 __loaf around__ To waste time being idle; to spend time doing little or nothing.  
 __look (one) in the eye(s)__ To make eye contact with one, typically in a way that is confident or without shame. _Look me in the eye and tell me you’re not lying._  
@@ -67,23 +79,31 @@ __make a fuss__ To be a nuisance or cause a disturbance by complaining, arguing,
 __mess with (someone or something)__  
 __mish-mosh__ A jumbled, disorganized mixture of several various things.  
 __move the needle__  
+__navigate__ To successfully manage or work through a difficult or complex situation. _I’m not sure how to navigate this awkward conversation with my boss about a raise._  
+__needle (one)__ _informal_ To provoke one with teasing or goading remarks or acts. _She just kept needling me with condescending comments about my sales numbers._ _Biden needles Trump in hopes of pushing him off message._  
 __no nonsense__ _adj_ Totally serious; with no tricks or deceit. Hyphenated before a noun.  
 __no way__  
 __not enough room to swing a cat__ Very little or no space; very cramped quarters or proximity.  
 __on occasion__  
 __on the run__ __1__ Attempting to avoid capture, typically as a fugitive from law enforcement; on the lam.  
 __one and only__  
+__open sesame__  
 __out of steam__ :dart: Completely exhausted, fatigued, or without energy or motivation. _I’m all out of steam, I can’t walk another step._  
+__out of whack__  
 __pave the way (for someone or something)__  
+__powerhouse__  
 __Prince Charming__  
 __pull away__  
 __pull something off__ :dart: __1__ _informal_ To manage to make something happen. _Yes, I can pull it off. Do you think you can pull off this deal?_  
+__pushing hard__ _“Pushing hard” means putting in a lot of effort or trying very hard to achieve something._  
+__put (something) on hold__  
 __put food on the table__  
 __put forward__ To suggest, offer, or propose someone or something for consideration. A noun or pronoun can be used between “put” and “forward.”  
 __quibble over (something)__  
 __rack up__  
 __rainbows and unicorns__  
 __raise (one’s) eyebrows__  
+__ramp up__  
 __regardless of (something)__  
 __rep__ __2__ _n_ A shortening of “reputation.”  
 __riffle__ :two: In James Ellroy’s novels, “riffle” is a verb that means to search quickly through something, usually a pile of papers or documents. It implies a sense of urgency and impatience, as if the person doing the riffling is searching for something important and doesn’t have time to waste.  
@@ -106,6 +126,7 @@ __scoot__ :two: __1__ _vi_ To run or scurry quickly from one place to another. _
 __screw up__ :dart: __5__ _n_ A huge mistake, blunder, or mishandling. In this usage, the phrase is usually hyphenated or spelled as one word. _Another screwup like that and you’re fired!_ _I don’t care whose screw-up it was—just fix it!_  
 __scruff(y)__  
 __scuttlebutt__ _n_ News; information; gossip. (The legend of origin is that the scuttlebutt was a butt [= cask, keg] of drinking water located near a scuttle [= hatch]. Sailors gathered there to exchange gossip.)  
+__shed (some) light on (something)__  
 __simply put__  
 __sit shiva__ _Judaism_ To mourn for a period of seven days following the funeral of a close relative. _To sit shiva for the dead._  
 __six ways from (next) Sunday__ Askew, at an angle.  
@@ -136,6 +157,8 @@ __so it goes__ _informal_ That is the kind of thing that happens; that is life. 
 __spill the beans__  
 __stay put__  
 __step aside__ :dart:  
+__step down__  
+__stick with (someone or something)__  
 __stir the pot__ To exacerbate a tense or otherwise difficult situation.  
 __stop (dead) in (one’s) tracks__  
 __strapped for cash__ Without any or very much money at the moment; broke, especially temporarily.  
@@ -183,7 +206,7 @@ __the red carpet__
 __throw a (monkey) wrench in(to) the works__ To disrupt, foil, or cause problems to a plan, activity, or project.  
 __to name (but) a few__  
 __under fire__  
-__up in arms__ :dart:  
+__up in arms__ :dart::two::hammer:  
 __vamoose__ :two::hammer: /væˈmus/  
 __veep__ _n_ /vip/ A vice president. _The veep is going to preside today._  
 __vroom__  
@@ -210,6 +233,7 @@ __win out__ To defeat someone or something; to prevail.
 __wingding__ :two::hammer:  
 __wingman__ __2__ _informal_ Someone’s close friend, supporter, or ally.  
 __wise up__  
+__wishful thinking__ The act of thinking that or hoping that something will happen or be the case when in reality it is unlikely.  
 __wit a vengeance__ _Generative AI left the lab with a vengeance._  
 __with a bang__ :three::hammer:  
 __with a vengeance__ _Die Hard with a Vengeance._  
