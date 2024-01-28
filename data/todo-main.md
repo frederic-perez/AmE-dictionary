@@ -1,6 +1,8 @@
+__adduce__ _vt_  
 __all-or-nothing__ _adj_  
 __amp up__ _v_  
 __amyloidosis__ _n_ /ˌæmɪlɔɪˈdəʊsɪs/  
+__anecdata__ _n_  
 __aplomb__ _n_ /əˈplɒm, əˈplʌm/  
 __aspect__ _n_ __5__ A side or surface facing in a particular direction: _the ventral aspect of the body._  
 __backdrop__ _n_  
@@ -9,13 +11,17 @@ __bajillion<sup>1</sup>__ _n_ An extremely large but unspecified number, quantit
 __bajillion<sup>2</sup>__ _determiner_ Amounting to a bajillion: _a bajillion dollars._  
 __ball valve__ _n_  
 __bedsit__ _n_ :es: habitación amueblada; estudio amueblado  
+__blackhead__ _n_  
 __blitzkrieg__ _n_  
 __blockade__ _n_ /blɒˈkeɪd/  
 __bogus__ _adj_ /ˈboʊ gəs/  
 __breach__ _n_ /breach /briːtʃ/  
+__burgeoning__  
 __bustle__ _adj, v_  
 __calico__ _adj, n_  
 __cap__ _n informal_ __1__ Capital: _venture cap._ __2__ Capitalization: _market cap._  
+__capitulate__ _v_ /kuh-PIH-chuh-layt/  
+__captcha__ _n_ /ˈkæptʃə/  
 __caucus__ _n_  
 __chocolate bar__ _n_  
 __chrysalis__ _n_ /ˈkrɪs ə lɪs/  
@@ -25,7 +31,10 @@ __con__ _vt_ _slang_ To swindle (a victim) by first winning his or her confidenc
 __conflate__ _v_ /kun-FLAYT/ Two closely related meanings of the verb conflate are “to confuse,” i.e. “to fail to differentiate,” and “to blend or bring together.”  
 __conveyancing__ _n_ /kənˈveɪənsɪŋ/ (Law) The branch of law dealing with the transfer of ownership of property.  
 __countdown__ _n_  
+__cruciverbalist__ _n_ /kroo-suh-vur-buh-list/  
+__cynophilia__ _n_ /ˌsɪnəʊˈfɪlɪə/ A love of dogs.  
 __darn__ _adj, adv, n_ /dɑːn/ A euphemistic word for damn.  
+__de rigueur__ _adj_  
 __decor__ _n_  
 __denial__ _n_ _Despite denials, blah blah blah._  
 __despite__ _n, prep_ /dɪˈspaɪt/  
@@ -33,11 +42,14 @@ __detour__ _n_
 __detox__  
 __dissatisfaction__ _n_ :pencil2:  
 __dissent__ _n_  
+__docile__ _adj_ /DAH-sul/  
 __dormitory__ _n_ __1__ A college or university building containing living quarters for students. _Syn_ dorm, residence hall, student residence, hall  
 __downfall__ _n_  
+__drupe__ _n_  
 __ductal__ _adj_ /ˈdʌktəl/ Relating to a duct or tube-like structure in the body that carries bodily fluids.  
 __Dunning-Kruger effect__ _n_ A hypothetical cognitive bias stating that people with low ability at a task overestimate their ability.  
 __entertain__ _vt_ __3a__ To consider; contemplate: _entertain an idea._  
+__epicure__ _n_ /EP-i-kyoor/ [:scroll: After the ancient Greek philosopher Epicurus (341-270 BCE), who advocated simple pleasures and a calm mind (ataraxia). With time, his teachings were distorted as focusing on sensual pleasures.] __1__ A person with refined taste, especially in food or wine. __2__ A person devoted to sensual pleasure.  
 __evict__ _vt_ /ɪˈvɪkt/  
 __ex-con__ _n informal_ A former prisoner.  
 __exacerbation__ _n_  
@@ -46,12 +58,14 @@ __fiddle__ _v_
 __fishmonger__ _n_ _Chiefly British_ (fishwife)  
 __flatshare__ _n_ An arrangement in which two or more people share a flat (apartment building).  
 __foible__ _n_ /ˈfɔɪbəl/  
+__furbelow__ _n_ A strip of pleated material used as a decoration or a trim. _Syn_ ruffle, flounce, frill  
 __godsend__ _n_  
 __gridlock__ _n_  
 __grievance__ _n_ :two::hammer: /ˈgri vəns/  
 __gripe__ _n_ __1__ _informal_ A complaint.  
 __guac__ _n informal_ Guacamole.  
 __hacksaw__ _n_  
+__haggis__ _n_  
 __harangue__ _n_ /huh-RANG/ A harangue is a forceful or angry speech or piece of writing.  
 __hardline__ _adj_  
 __heliotrope__ _n_  
@@ -71,6 +85,7 @@ __lice__ _n pl_ /laɪs/ Plural of louse. :es: piojos
 __licensee__ _n_ (licencee)  
 __livelihood__ _n_  
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
+__Machiavellianism__ _n_ /mak-ee-uh-VEL-ee-uh-niz-uhm/ The use of unscrupulous means, cunning, and deceit in pursuit of power, especially in politics.  
 __malaria__ _n_ /məˈlɛər i ə/  
 __manslaughter__ _n_  
 __mar__ _v_  
@@ -83,13 +98,18 @@ __New Hampshire__ _n_ /ˈhæmp ʃər, -ʃɪər/
 __nifty__ _adj_ _The NYT created a nifty little quiz._  
 __non-negotiable__ _adj_  
 __nonchalant__  
+__nonplussed__  
 __outbreak__ _n_  
+__outfox__ _vt_ /out-FOKS/ __1__ To outwit; outsmart; outmaneuver: _Politics is often the art of knowing how to outfox the opposition._  
 __overlord__ _n_  
+__pandiculation__  
+__polyhistor__ _n_ /ˌpɒlɪˈhɪstɔː/ (polyhistorian)  
 __prick__ _n_ __2b__ A small, sharp, local pain, such as that made by a needle or bee sting.  
 __PTFE__ _n_ Also called (trademark): Teflon. _PTFE tape._  
 __putty__ _n_  
 __quash__ _vt_ _The conviction was quashed._  
 __rubella__ _n_ /ruˈbɛl ə/  
+__sarcasm__ _n_ /SAHR-kaz-um/ Sarcasm refers to the use of words that mean one thing to communicate the exact opposite of that thing, especially to insult someone, to show irritation, or to be funny.  
 __seedbed__ _n_ __2__ The place where something develops: _the seedbed of discontent._  
 __self-destruct<sup>1</sup>__ _vi_ To destroy itself or oneself.  
 __self-destruct<sup>2</sup>__ _adj_ Causing something to self-destruct.  
@@ -98,7 +118,10 @@ __showdown__ _n_
 __showroom__ _n_  
 __sidestep__ _v_ _Syn_ evade, hedge, skirt, parry, fudge, circumvent, dodge, elude, duck, put off  
 __singlehandledly__ _adv_ _Video shows Ukrainian armored vehicle singlehandedly stopping Russian assault._  
+__susurrus__  
 __terraform__ _v_  
+__thespian<sup>1</sup>__ _n_ /THES-pee-uhn/ [:scroll: After Thespis (c. 6th century BCE), Greek poet, who is considered the father of Greek tragedy] An actor.  
+__thespian<sup>2</sup>__ _adj_ Relating to drama.  
 __tmesis__ _n_  
 __trade union__ _n_ :dart: :es: sindicato  
 __trade war__  
@@ -108,8 +131,10 @@ __turnover__ _n_
 __Tyrian purple__ _n_  
 __ultramarine__ _adj, n_  
 __umbrella__ _n_ /ʌmˈbrɛlə/ _A national umbrella organization._  
+__unfettered__ _adj_ /un-FET-erd/  
 __unfold__ _v_  
 __vagrant__ _n_ One who wanders from place to place without a permanent home or a means of livelihood. _Syn_ drifter, vagabond, floater  
+__vivacious__ _adj_ :mega: /vuh-VAY-shus/ Someone or something described as vivacious is happy and lively in an appealing way.  
 __wacko__ _n_ _slang_ A person regarded as eccentric or irrational.  
 __washer__ _n_ __2__ (Mechanical Engineering) A flat ring or drilled disc of metal used under the head of a bolt or nut to spread the load when tightened.  
 __wheelhouse__  
