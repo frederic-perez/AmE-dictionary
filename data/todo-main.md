@@ -98,31 +98,6 @@ __livelihood__ _n_
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
 __Machiavellianism__ _n_ /mak-ee-uh-VEL-ee-uh-niz-uhm/ The use of unscrupulous means, cunning, and deceit in pursuit of power, especially in politics.  
 __malaria__ _n_ /məˈlɛər i ə/  
-__manhole__ _n_  
-__manslaughter__ _n_  
-__mar__ _v_  
-__mediocre__ _adj_ _Syn_ average  
-__misogynist__ _adj_ One who hates or mistrusts women.  
-__misuse__ _n_  
-__mumps__ _n pl_  
-__nab__ _vt_ _informal_ __1__ To seize (a fugitive or wrongdoer); arrest. __2__ To grab; snatch. _Recently, author Rie Kudan nabbed a prestigious literary award, using ChatGPT to write a portion of the novel._  
-__nail plate__ _n_  
-__New Hampshire__ _n_ /ˈhæmp ʃər, -ʃɪər/  
-__nifty__ _adj_ _The NYT created a nifty little quiz._  
-__non-negotiable__ _adj_  
-__nonchalant__  
-__nonplussed__  
-__outbreak__ _n_  
-__outfox__ _vt_ /out-FOKS/ __1__ To outwit; outsmart; outmaneuver: _Politics is often the art of knowing how to outfox the opposition._  
-__overlord__ _n_  
-__pandiculation__  
-__pliers__  
-__polyhistor__ _n_ /ˌpɒlɪˈhɪstɔː/ (polyhistorian)  
-__presidential bid__ _n_ A _presidential bid_ refers to a person’s attempt to become the president of a country by running for election. It involves a candidate putting their name forward as a contender for the highest office in the country.  
-__prick__ _n_ __2b__ A small, sharp, local pain, such as that made by a needle or bee sting.  
-__PTFE__ _n_ Also called (trademark): Teflon. _PTFE tape._  
-__putty__ _n_  
-__quash__ _vt_ _The conviction was quashed._  
 __readily__ _adv_  
 __ring__ _v_ _Ring the emergency service immediately._  
 __rubella__ _n_ /ruˈbɛl ə/  

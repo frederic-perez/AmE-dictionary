@@ -10957,6 +10957,7 @@ __mangy__ _adj_ :three::hammer:
 __manhandle__ _v_ :three::hammer: (manhandled) _Manhandling the striker around the waist._  
 __Manhattanite__ _n_ :two::hammer:  
 __manhole cover__  
+__manhole__ _n_  
 __manhunt__ _n_ :two::hammer: _A psychological manhunt for happiness._  
 __mania__ _n_ :two::hammer:  
 __manic episode__ _n_ :two::hammer:  
@@ -10978,7 +10979,7 @@ __manoeuvre__ _n_ _The Addison Lean manoeuvre._
 __manor__ _n_ :two::hammer: _A medieval manor house._  
 __manosphere__ _n_  
 __manscaping__ _n_ The aesthetic grooming of a man’s bodily hair.  
-__manslaughter__ _n_ :two::hammer:  
+__manslaughter__ _n_ :three::hammer:  
 __manta__ _n_  
 __mantel piece__ _n_ :three::hammer:  
 __mantel__ _n_ :six::hammer: _Fireplace mantels._ _The mantel over the small fireplace._  
@@ -10991,7 +10992,7 @@ __manure__ _n_
 __many<sup>1</sup>__ _adj_  
 __many<sup>2</sup>__ _n_  
 __maple__  
-__mar<sup>1</sup>__ _v_ :nine::pencil2: (mars, marred) If something is marred, it’s damaged due to a flaw. If the big football game on Sunday ends with a fight among fans of the opposing teams, commentators will say that the game was marred by violence. _A game marred by injuries to key players._ _It marred the week._  
+__mar<sup>1</sup>__ _v_ :nine::m::pencil2: (mars, marred) If something is marred, it’s damaged due to a flaw. If the big football game on Sunday ends with a fight among fans of the opposing teams, commentators will say that the game was marred by violence. _A game marred by injuries to key players._ _It marred the week._  
 __mar<sup>2</sup>__ _n_ A disfiguring mark; a blemish.  
 __marathon__ _n_ :two::hammer::mega: _This is more of a marathon than a sprint._  
 __maraud__ _v_  
@@ -11159,7 +11160,7 @@ __medic__ _n informal_ :two: A doctor, medical orderly, or medical student.
 __medical discharge__ _n_ Patient discharge, the formal ending of inpatient care. _A medical discharge._  
 __medical school syndrome__ _n_  
 __medicine__ _n_ :two::hammer::mega: /ˈmɛdɪsɪn; ˈmɛdsɪn/  
-__mediocre__  
+__mediocre__ _adj_ :two::hammer: _Syn_ average  
 __meditate__ _v_ Reflect deeply on a subject. _Syn_ mull, muse, ponder, think over, excogitate, ruminate, speculate, contemplate  
 __medlar__ _n_ :es: níspero  
 __medley__ _n_ __3__ _Sports_ An event in competitive swimming in which backstroke, breaststroke, butterfly, and freestyle are swum in equal distances by an individual or as divisions of a relay race. _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
@@ -11461,7 +11462,7 @@ __miskey__ _vt_ :dart::two: /ˌmɪsˈkiː/ (miskeyed) To key (something) incorre
 __mismatch__ _n_ :two::pencil2::hammer:  
 __misnomer__ _n_ :nine::m::pencil2: /miss-NOH-mer/ __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation _Peanut is one of the most famous misnomers, because peanuts are legumes, not true nuts._ __2__ The act of wrongly naming or designating, as in “calling complicated and varied climatic changes ‘global warming’ is something of a misnomer.” _To call this “neighborhood policing” would be a misnomer._  
 __miso__ _n_  
-__misogynist__  
+__misogynist__ _adj_ :two: One who hates or mistrusts women.  
 __misogyny__ _n_ :pencil2: Hatred of, aversion to, or prejudice against women.  
 __misophonia__ _n_ /mi-soh-FOH-nee-uh/ [:scroll: From Greek miso- (hate) + -phonia (sound)] An intolerance of certain sounds, such as chewing, slurping, etc.  
 __misphrase__ _vt_  
@@ -11485,7 +11486,7 @@ __mistook__ _v_ _One 6-year-old girl in California mistook a discarded syringe f
 __mistress__ _n_ :mega: /ˈmɪstrɪs/  
 __mistrial__ _n_ :two::hammer:  
 __mistruth__ _n_ :two::hammer: (mistruths)  
-__misuse<sup>1</sup>__ _n_ _He had no history of alcohol misuse._  
+__misuse<sup>1</sup>__ _n_ :two::hammer: _He had no history of alcohol misuse._  
 __misuse<sup>2</sup>__ _v_ :two::hammer: _It results in code that is easier to understand and harder to misuse._  
 __miter__ _n_  
 __mitigate__ _v_ /MIT-uh-gayt/ :four::hammer:  
@@ -11737,7 +11738,7 @@ __mum__ _adj_ Silent. _So far, the White House has been mum._
 __mumble__ _v_ __1__ To speak words indistinctly, as by lowering the voice or partially closing the mouth. _Sam has a tendency to mumble._ __2__ To chew food slowly or ineffectively, as if with the gums.  
 __mumblecore__ _n_ A genre of narrative film focusing primarily on the intimate lives of young characters and featuring scenes of ample dialogue and minimal action. Example films include _Manhattan_, and _Clerks_.  
 __mumbo jumbo__ _n_  
-__mumps__ _n_ :four::hammer: :es: paperas  
+__mumps__ _n pl_ :five::hammer: :es: paperas  
 __mumpsimus__ _n_  
 __munch__ _v_ :seven:hammer: (munches, munched) _He munched the fruit._  
 __muncher__ _n_  
@@ -11826,7 +11827,7 @@ __mythological__
 __mythomania__ _n_ A compulsion to embroider the truth, engage in exaggeration, or tell lies.  
 __mythos__ _n_ :four::hammer:  
 __naan bread__ _n_  
-__nab__ _v_ :seven::hammer: (nabbed, nabbing) _You can nab bargains before Black Friday._ _Filipino actor nabbed with 1kg of marijuana._ _Leave no stone unturned to nab the perpetrators._ _She finished second and nabbed $150,000._  
+__nab__ _vt_ :eight: _informal_ __1__ To seize (a fugitive or wrongdoer); arrest. _Filipino actor nabbed with 1kg of marijuana._ _Leave no stone unturned to nab the perpetrators._ __2__ To grab; snatch. _Recently, author Rie Kudan nabbed a prestigious literary award, using ChatGPT to write a portion of the novel._ _You can nab bargains before Black Friday._ _She finished second and nabbed $150,000._  
 __nacelle__ _n_ __1__ The enclosed part of an airplane, dirigible, etc., in which the engine is housed or in which cargo or passengers are carried. __2__ The car of a balloon.  
 __nacre__ _n_ /ˈneɪkə/ The technical name for mother-of-pearl.  
 __nadir__ _n_ :four: /NAY-deer/ __1__ An extreme state of adversity; the lowest or worst point of anything. _Syn_ low-water mark, rock bottom _The nadir of French fortunes._ _Only once the novel’s protagonist reaches her nadir does she arouse the reader’s empathy, and we root for her to climb back to respectability._ __2__ When used in astronomy, nadir describes the point of the celestial sphere that is directly opposite the zenith and vertically downward from the observer.  
@@ -11836,6 +11837,7 @@ __nag<sup>2</sup>__ _n_ (often derogator) A horse.
 __nagging__ _adj_ :four: Discomforting; worrying; nigglingscolding; complaining. _He blamed the nagging wife._ _A nagging groin injury._ _A nagging knee injury._  
 __nail it down__  
 __nail it__  
+__nail plate__ _n_  
 __nail-biter__ _n_ A situation marked by anxiety or tension.  
 __nails__ _n_  
 __naïveté__  
@@ -11980,6 +11982,7 @@ __neutered__
 __neutrinos__ _n_  
 __Neutron Jack__  
 __nevus__ _n_ /ˈni vəs/ Any congenital anomaly of the skin, including moles and various types of birthmarks.  
+__New Hampshire__ _n_ /ˈhæmp ʃər, -ʃɪər/  
 __New Jerseyan__  
 __New Jerusalem__ _n_ :two: __1__ _Christianity_ The final dwelling place of souls redeemed by Jesus. __2__ An ideal community on earth.  
 __New Orleans, Louisiana__ _n_ :mega: [Common popular pronunciations: /noo awr-lee-uhnz, noo awr-leenz/ Prevailing local pronunciation: /noo awr-luhnz/]  
@@ -12018,7 +12021,7 @@ __nickel__ _n_ _A nickel mine._
 __nickle-and-dime__ _adj_ _A nickle-and-dime con man._  
 __nickleodeon__ _n_ _There are lots of nickleodeons for the kids._  
 __nidus__ _n_ /NY-duhs/ __1__ A nest. __2__ A source or the central point, especially of infection where bacteria or other pathogens breed.  
-__nifty__ _adj informal_ :eight: __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Nifty little passport pouches._ _Syn_ fashionable, stylish, smart  
+__nifty__ _adj informal_ :nine: __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Nifty little passport pouches._ _The NYT created a nifty little quiz._ _Syn_ fashionable, stylish, smart  
 __Niger__  
 __niggardly__ _adj_ :two: __1__ Grudging and petty in giving or spending. __2__ Meanly or ungenerously small or scanty: _a niggardly tip to a waiter._  
 __niggling__ _adj_ _Niggling questions._  
@@ -12101,13 +12104,13 @@ __non-committal__
 __non-communicable disease__  
 __non-denominational__ _adj_ Alternative spelling of nondenominational. _Non-denominational services._  
 __non-existent__ _adj_  
-__non-negotiable__ _adj_ :three: Not open to negotiation or discussion: _the policy is non-negotiable._  
+__non-negotiable__ _adj_ :four: Not open to negotiation or discussion: _the policy is non-negotiable._  
 __non-perishables__  
 __nonanswer__ _n_  
 __noncall__ _n_ (sports) A failure to make a call, such as by a referee. _He complained about noncalls._  
 __nonce__ _n_ :two: The present or particular occasion. _Syn_ time being _Her tendency to discover a touch of sadness had for the nonce disappeared._  
 __nonchalance__ _n_  
-__nonchalant__ _adj_ :nine: /nahn-shuh-LAHNT/ Behaving calmly and not seeming interested in anything or worried about anything. Having an air of easy unconcern or indifference. _The most experienced public speakers are able to address audiences with a nonchalant ease._  
+__nonchalant__ _adj_ :nine::m: /nahn-shuh-LAHNT/ Behaving calmly and not seeming interested in anything or worried about anything. Having an air of easy unconcern or indifference. _The most experienced public speakers are able to address audiences with a nonchalant ease._  
 __nonchalantly__ _adv_ :six: In a casual way that shows a relaxed lack of concern or interest. _Pete shrugged nonchalantly._  
 __noncommissioned__ _adj_ (of military officers) Appointed from enlisted personnel.  
 __noncommittal__ _adj_ :five: Refusing commitment to a particular opinion or course of action; not revealing what one feels or thinks. Not involving or revealing commitment to any particular opinion or course of action: _a noncommittal reply._  
@@ -12123,7 +12126,7 @@ __nonpartisan__ _adj_
 __nonpliable__ _adj_ Not pliable. _Nonpliable products._  
 __nonplus<sup>1</sup>__ _v_ :three: To put at a loss as to what to think, say, or do. _Syn_ bewilder, dumbfound, flummox, baffl1, mystify, perplex, puzzle, stupefy, amaze, gravel, vex, pose, stick, beat, get _He was nonplussed by the sudden announcement that the company where he had worked for the past 20 years was declaring bankruptcy and shutting its doors._  
 __nonplus<sup>2</sup>__ _n_  
-__nonplussed__ _adj_ :four::pencil2::hammer: _His celebrations have nonplussed commentators._  
+__nonplussed__ _adj_ :five::pencil2::hammer: _His celebrations have nonplussed commentators._  
 __nonsense__ _n_ :two::hammer: _Nonsense!_ _Pure nonsense!_  
 __nonsensical__ _adj_ _Deadpan delivery of nonsensical jokes._  
 __nonsequitur__  
@@ -12594,7 +12597,7 @@ __outage__ _n_ :five::hammer: _Power outages._
 __outback__  
 __outbound__ _adj_ :two::hammer: _Outbound trip._ _The latest trends in Chinese outbound tourism._  
 __outbox__ _n_  
-__outbreak__ _n_ :eight::astonished: (outbreaks) __1__ A sudden increase: _an outbreak of influenza._ __2__ A sudden eruption; an outburst: _“an outbreak of strikes, violent agitation, and arrests” (Samuel Chew)._  
+__outbreak__ _n_ :nine::astonished: (outbreaks) __1__ A sudden increase: _an outbreak of influenza._ __2__ A sudden eruption; an outburst: _“an outbreak of strikes, violent agitation, and arrests” (Samuel Chew)._  
 __outburst__ _n_ :four::hammer:  
 __outcast__ _n_  
 __outcaste__ _n_  
@@ -12612,7 +12615,7 @@ __outfit<sup>1</sup>__ _n_ :five::hammer: (outfits)
 __outfit<sup>2</sup>__ _v_  
 __outfitter__ _n_ :five::hammer: _Outfitter shop._ _River outfitters._ _Horseback outfitter._  
 __outfly__ _v_ :two: To fly better or faster than someone or something.  
-__outfoxed__  
+__outfox__ _vt_ :two: /out-FOKS/ __1__ To outwit; outsmart; outmaneuver: _Politics is often the art of knowing how to outfox the opposition._  
 __outgain__ _v_ _The Bulldogs outgained the Tide 254-180 before halftime._  
 __outgoing__ _adj_ :two::hammer:  
 __outgrow__ _v_ :four: To grow bigger than or too big for something.  
@@ -12708,7 +12711,7 @@ __overlay<sup>1</sup>__ _vt_ _Overlay relevant metadata on the cellphone’s scr
 __overlay<sup>2</sup>__ _n_  
 __overlie__ _v_ (overlain)  
 __overlook__ _v_ :three: To fail to see or notice something. _Unfortunately, we overlooked some important details in the contract._  
-__overlord__ _n_  
+__overlord__ _n_ :two::hammer:  
 __overly__ _adv_ :dart::nine::m: Excessively. _She was a jealous and overly possessive woman._ _Syn_ unduly, excessively, inordinately, too, to too great an extent/degree, immoderately, exceedingly _Well, not to be overly dramatic, but it’s one of the scariest unions of all time._ :es: demasiado  
 __overnight<sup>1</sup>__ _adj_ :two::hammer:  
 __overnight<sup>2</sup>__ _adv_ _The change will not happen overnight._  
@@ -12858,7 +12861,7 @@ __pancetta__ _n_ Italian bacon that has been cured in salt and spices and then a
 __pandemonium__ _n_ /pan-duh-MOH-nee-um/ Pandemonium refers to a situation in which a crowd or mass of people act in a wild, uncontrolled, or violent way because they are afraid, excited, or confused. _Pandemonium ensued when a power failure knocked out the city’s traffic lights during rush hour._  
 __pander__ _v_ :nine::m: (panders, pandering) (+to) To provide gratification for the desires of.  
 __panderer__ _n_ :two: /PAN-duhr-uhr/ [:scroll: After Pandarus, a Trojan warrior in Greek mythology. He was known for his skill in archery. In later accounts, such as Chaucer’s and Shakespeare’s, he acts as a go-between in the love affair of Troilus and Cressida. This resulted in his reputation as a procurer in the English language.] One who caters to the base desires, whims, or prejudices of others.  
-__pandiculation__ _n_ The act of yawning and stretching (as when first waking up).  
+__pandiculation__ _n_ :two: The act of yawning and stretching (as when first waking up).  
 __Pandora__ _n_ :mega:  
 __panelist__ _n_  
 __pang__ _n_ :five::hammer: (pangs) _A pang of loneliness._  
@@ -13643,7 +13646,7 @@ __pleurisy__ _n_ _He pounded Frost’s back hard enough to cause pleurisy._
 __pliable__ _adj_ _The pliable GOP._  
 __pliant__ _adj_ :four: Easily bent or flexed; pliable. _Syn_ bendable _A pliant young waitress._  
 __plied__ _v_ :three::hammer: _She had been plied with opiates and wine._ _He plied Tom with questions._  
-__pliers__ _n pl_ (plurale tantum)  
+__pliers__ _n pl_ :two::hammer: (plurale tantum)  
 __plies__ _v_  
 __plight<sup>1</sup>__ _n_ :seven: __1__ An unfortunate situation. __2__ A pledge. __3__ A fold, wrinkle, braid, etc. Also called plait or pleat.  
 __plight<sup>2</sup>__ _v_ __1__ To become engaged to marry. __2__ To promise. __3__ To fold, wrinkle, braid, etc.  
@@ -13770,7 +13773,7 @@ __poltroon__ _n_ An abject coward. _Syn_ craven, recreant
 __polyadic__  
 __polyamorous__  
 __polyglot__ _adj, n_ /ˈpɒl iˌglɒt/  
-__polyhistor__ _n_ /pol-ee-HIS-tuhr/ A person of great or wide learning. Also polyhistorian. _Syn_ polymath  
+__polyhistor__ _n_ :two: /pol-ee-HIS-tuhr/ /ˌpɒlɪˈhɪstɔː/ (polyhistorian) A person of great or wide learning. _Syn_ polymath  
 __polymath__ _n_ :seven::hammer: [:scroll: Greek polumathēs : polu-, poly- + manthanein, math-, to learn]  
 __polynya__ _n_ A stretch of open water surrounded by ice, esp near the mouths of large rivers, in arctic seas.  
 __polypill__ _n_ A pill combining aspirin, folic acid, and other drugs to reduce heart attacks and strokes.  
@@ -14023,6 +14026,7 @@ __preserve__ _n_ __3__ An area maintained for the protection of wildlife or natu
 __preserves__ _n pl_ :two: Fruit cooked with sugar to protect against decay or fermentation. _A jar of fig preserves._  
 __president-elect__ _n_ :four::hammer:  
 __President-elect__ _n_ :six::hammer: (also president-elect)  
+__presidential bid__ _n_ A _presidential bid_ refers to a person’s attempt to become the president of a country by running for election. It involves a candidate putting their name forward as a contender for the highest office in the country.  
 __presidential suite__ _n_  
 __press box__ _n_  
 __press on__  
@@ -14055,10 +14059,9 @@ __priapic__ _adj_ :two: __1__ A less common word for _phallic_. __2__ Characteri
 __price point__ _n_ :two::hammer: _The best in price point._  
 __price tag__ _n_ :two::hammer: _Success always comes with a price tag._  
 __pricey__ _adj_ :two: Expensive. _Syn_ costly, dear  
-__prick__ _v_  
 __prick-tease__ _n_ :dart: (prick-teaser) A woman who is sexually provocative but refuses to engage in sexual activity. _She was a first-class prick-tease._  
-__prick<sup>1</sup>__ _v_ :seven::hammer: (pricked, pricking) _Pricked by a needle._ __3__ To affect with a mental or emotional pang, as of sorrow or remorse: _criticism that pricked his conscience._ _To prick consciences._ _Horse pricked up her ears and pranced._ _Pricking their finger to do a blood test._  
-__prick<sup>2</sup>__ _n_ _He already had the prick for it._  
+__prick<sup>1</sup>__ _n_ :two::hammer: _He already had the prick for it._ __2b__ A small, sharp, local pain, such as that made by a needle or bee sting.  
+__prick<sup>2</sup>__ _v_ :eight::hammer: (pricked, pricking) _Pricked by a needle._ __3__ To affect with a mental or emotional pang, as of sorrow or remorse: _criticism that pricked his conscience._ _To prick consciences._ _Horse pricked up her ears and pranced._ _Pricking their finger to do a blood test._  
 __pricking__ _n_ _The prickings of memory._ (_Prickings of conscience._ :es: remordimientos)  
 __prickle__ _n_ :two: __2__ A tingling or pricking sensation: _felt prickles in my leg after sitting for so long._  
 __prickled__ _v_ _Rob’s skin prickled._  
@@ -14285,6 +14288,7 @@ __psychotic__
 __psychotronic__ _adj_ Of or relating to a genre of usually low-budget movies that includes horror, fantasy, science-fiction, and underground films.  
 __psyops__ _n_ (Military) Short for psychological operations. Military operations aimed at influencing the enemy state of mind through noncombative means, such as distribution of leaflets.  
 __pterodactyl__ _n_ :mute:[~~p~~terodactyl]  
+__PTFE__ _n_ Also called (trademark): Teflon. _PTFE tape._  
 __puberty blockers__ _n_ _(medicine)_  
 __pubes__ _n_  
 __public eye__  
@@ -14423,7 +14427,7 @@ __putt<sup>2</sup>__ _v_
 __putter__ _v_ :three::hammer: (puttered)  
 __putting aside__  
 __putty knife__ _n_ :astonished: A spatula used to mix or apply putty. :es: espátula  
-__putty__ _n_ :seven::mega::hammer: _He had skin the color of putty._ _His flesh was like wrinkled putty on his bones._ _Tan putty wrinkling._ :es: masilla  
+__putty__ _n_ :eight::mega::hammer: _He had skin the color of putty._ _His flesh was like wrinkled putty on his bones._ _Tan putty wrinkling._ :es: masilla  
 __puzzle box__ _n_ _Syn_ secret box, trick box  
 __puzzler__ _n_ A person or thing that puzzles.  
 __Pygmalion__ _n_ :mega:  
@@ -14475,7 +14479,7 @@ __quart__ _n_ (quarts) _Guzzlings quarts of Coors beer._
 __quarter<sup>1</sup>__ _n_ :three::hammer: (quarters) _The team’s front office is respected in many quarters._ (military) _To return to their quarters._  
 __quarter<sup>2</sup>__ _v_ (quartered)  
 __quarterdeck__ _n_  
-__quash__ _vt_ :nine::m: (quashed) __1__ To annul or put an end to (a court order, indictment, or court proceedings). _To quash her subpoena._ __2__ To put down or suppress forcibly and completely: _quash a rebellion._ __3__ To put an end to or destroy: _quash a rumor; quash hopes of an agreement._  
+__quash__ _vt_ :nine::m: (quashed) __1__ To annul or put an end to (a court order, indictment, or court proceedings). _The conviction was quashed._ _To quash her subpoena._ __2__ To put down or suppress forcibly and completely: _quash a rebellion._ __3__ To put an end to or destroy: _quash a rumor; quash hopes of an agreement._  
 __quaver<sup>1</sup>__ _v_ :two::hammer:  
 __quaver<sup>2</sup>__ _n_  
 __quay__ _n_  
