@@ -4927,9 +4927,9 @@ __take (one’s) word for it__ To accept what one says without further verifying
 __take (one) aback__  
 __take (quite) a toll (on someone or something)__ To cause damage or wear by using something or by hard living. _Years of sunbathing took a toll on Mary’s skin._ _Drug abuse takes quite a toll on the lives of people._  
 __take (someone or something) for granted__ :two::hammer:  
-__take (someone, something, or some place) by storm__ :five: __2__ To win or gain huge and widespread success or popularity very rapidly. _Baby Yoda took the world by storm and overshadowed his co-stars instantaneously._ _Nvidia stock price has doubled since generative AI took the world by storm last fall._ _Stability AI took the world by storm with its introduction of Stability Diffusion last summer._  
+__take (someone, something, or some place) by storm__ :six: __2__ To win or gain huge and widespread success or popularity very rapidly. _Baby Yoda took the world by storm and overshadowed his co-stars instantaneously._ _Nvidia stock price has doubled since generative AI took the world by storm last fall._ _Stability AI took the world by storm with its introduction of Stability Diffusion last summer._  
 __take (someone) under (one’s) wing__  
-__take (something) for a spin__ To take a brief, leisurely ride in a vehicle, especially an automobile. _Do you want to go take my dad’s Corvette for a spin later?_  
+__take (something) for a spin__ :two: To take a brief, leisurely ride in a vehicle, especially an automobile. _Do you want to go take my dad’s Corvette for a spin later?_  
 __take (something) into consideration__  
 __take (something) to heart__  
 __take (something) to the bank__  
@@ -4940,7 +4940,7 @@ __take a beating__
 __take a breath__ To inhale and then exhale. _I can tell that you’re just a bit too upset to talk about this. Why don’t you take a breath, calm down a bit, and then we’ll discuss it._  
 __take a breather__ To take a short pause or hiatus (from something). _You can go ahead on the hike if you want, I•m going to stop here and take a breather._ _The senator is taking a breather from his campaign to spend some time with his family._  
 __take a catnap__ To sleep for a very brief but restful period of time. _I’m going to try to take a catnap before my next shift starts, or else I’ll be feeling sluggish for the entire evening._ _Julie gets up really early to do her writing before the kids wake up, then takes little catnaps throughout the day._  
-__take a deep breath__ :three::hammer:  
+__take a deep breath__ :four::hammer:  
 __take a deep dive__ A thorough and comprehensive exploration or investigation into a particular subject or topic.  
 __take a dive__  
 __take a fit__ To become very or unreasonably angry or upset; to have an outburst of rage, frustration, or ill temper. _My mom’s going to take a fit when she sees what happened to the car!_ _I was so embarrassed when Danny started taking a fit in the grocery store._  
@@ -4951,6 +4951,7 @@ __take a load off (one’s feet)__ To sit down and rest one’s feet; to relax. 
 __take a pass__  
 __take a piss__ Urinate.  
 __take a seat__ To be seated; to select a place to sit. (Often an invitation or request.) _Hi, Sean, thank you for coming to see me, please take a seat._ _I was running a bit late to class, so I just took a seat at the back._  
+__take a shine to (someone or something)__  
 __take a stab at (something)__  
 __take a stand__  
 __take a step back__  
@@ -4958,10 +4959,11 @@ __take a toll (on someone or something)__ To cause damage or deleterious effects
 __take a walk on the wild side__ To engage in risky, raucous, adventurous, or licentious behavior. _I’ve had such a quiet, sheltered life that I want to take a walk on the wild side at least once before it’s too late!_  
 __take a whiff (of something)__ To smell something quickly or briefly. _I took a whiff of that soup he’s making to make sure it’s not too spicy this time._  
 __take action__  
-__take aim (at someone or something)__  
+__take aim (at someone or something)__ :two::hammer:  
 __take aside__  
 __take back__  
 __take by storm__ _The dystopian drama that has taken the internet by storm._  
+__take center stage__ To be the main focus.  
 __take charge__  
 __take comfort in (something)__ To be soothed or calmed by something. _When things get tough, I take comfort in the company of my closest friends._  
 __take for granted__  
@@ -4971,6 +4973,7 @@ __take ill__ To be or become sick or unwell. _I heard your sister has taken ill 
 __take it away__ :two: _informal_ An invitation or instruction for someone to begin their performance. Start up the performance!; Let the show begin! (Typically a public announcement of the beginning of a musical performance.) _And now, here is the band playing “Song of Songs.” Take it away!_ _We’ve brought in a very talented young band to entertain you this evening. Take it away, girls!_  
 __take it away!__  
 __take it to the bank__  
+__take matters into (one’s) own hands__ :dart:  
 __take names__ :two::hammer:  
 __take no notice of (something or someone)__ To not pay any attention to someone or something; to ignore or disregard someone or something. _Take no notice of those troublemakers, they’re only trying to provoke you._  
 __take no prisoners__ :two: To be utterly ruthless, uncompromising, or unyielding in the pursuit of one’s agenda or goal. _The new manager doesn’t take any prisoners when a project needs to get done._  
@@ -4981,17 +4984,20 @@ __take on__
 __take over__ :three: Assume control, management, or possession of, as in _The pilot told his copilot to take over the controls_, or _There’s a secret bid to take over our company._ _Kyle took over in the first half and finished with 23 points._ _Execs aren’t ready for AI to completely take over._  
 __take pains__  
 __take pride in someone or something__ :three::hammer:  
+__take refuge in (something or some place)__  
 __take someone for granted__ To not show that you are grateful to someone for helping you.  
+__take something home__ To take a thought, idea, or concept away [to one’s home] from a meeting or conference. _Take this idea home with you—diversify your investments._  
 __take steps to (do something)__  
 __take stock (of something)__ :two: __2__ To make an appraisal, estimation, or assessment of something. _Moving forward, we’ll be holding biweekly meetings to take stock of our financial situation._  
 __take stock__  
 __take the brunt__  
+__take the bull by the horns__  
 __take the cake__ __1__ To be the worst in a series of negative actions. Primarily heard in US. _The one importantly stupid example that teally takes the cake._ _When I found out he had been reading through my text messages, well, that took the cake._ __2__ To be the best or the most outstanding. Primarily heard in US. _You’ve done some nice murals, but this one takes the cake!_  
 __take the edge off__  
 __take the Fifth (amendment)__ Refuse to answer on the grounds that one may incriminate oneself, as in _He took the Fifth on so many of the prosecutor’s questions that we’re sure he’s guilty._  
 __take the gloves off__ _The gloves are coming off today._  
 __take the heat__ To receive and endure intense criticism or scorn, especially for a perceived mistake or wrongdoing.  
-__take the high road__ :four: To choose the most noble, ethical, or diplomatic course or method, especially after or in the face of negativity or ill treatment. _Strive to always take the high road when dealing with others, even if they’ve treated you unfairly in the past. Life has a habit of rewarding those who learn to turn the other cheek._  
+__take the high road__ :five: To choose the most noble, ethical, or diplomatic course or method, especially after or in the face of negativity or ill treatment. _Strive to always take the high road when dealing with others, even if they’ve treated you unfairly in the past. Life has a habit of rewarding those who learn to turn the other cheek._  
 __take the hit (for someone or something)__ To face punishment, blame, censure, or arrest for someone else’s crime or misdeed. _We’ve made it look like he withdrew the money, so when the police start investigating, he’ll be the one to take the hit._  
 __take the hit__ (take the fall) To incur blame or censure, either willingly or unwillingly: _a senior official who took the fall for the failed intelligence operation._  
 __take the podium__  
@@ -5000,6 +5006,7 @@ __take the weight off (one’s) feet__ To lie or (especially) sit down, generall
 __take turns__ To alternate doing something; to do something in succession, one person or thing after another. _Please take turns instead of everyone talking at once._  
 __take umbrage__ To become offended or angered by something. _Hey, I take umbrage at the idea that I didn’t put my full effort into this project._  
 __take up__ :two: To begin doing something as a habit, hobby, pastime, or steady practice. _My husband has taken up gardening now that he’s retired._ _We have taken up this challenge._  
+__take vows__ To commit oneself to a religious order.  
 __take wing__ _Then again, my thoughts took wing._  
 __take your mind off something__ To do something to help you forget about something else.  
 __taken aback__ :two::astonished: Startled, astonished, shocked, or disconcerted. _All of us were a bit taken aback to learn that John was moving to England next month._  
@@ -5011,9 +5018,10 @@ __talk back__
 __talk down to (one)__  
 __talk in riddles__ To speak in a (perhaps intentionally) convoluted way.  
 __talk is cheap__ _prov_ It is very easy to talk about what one is going to do or what the correct course of action is, but it is much harder one actually puts those words into action. (Saying this in response to someone who promises you something implies that you do not believe that person will keep the promise.)  
+__talk out (of) (one’s) ass__  
 __talk smack__ _slang_ :two: To make disparaging, insulting, or abusive comments (about a person, group, or thing). _You know, you talk a lot of smack for someone who has yet to show us any moves._  
 __talk the hind leg(s) off a horse__ To talk endlessly and exhaustingly. _I love my Aunt Lily, but she’d talk the hind legs off a horse if you let her!_  
-__talk the talk__ :two::hammer:  
+__talk the talk__ :three::hammer:  
 __talk to the hand__ A rude interjection meant to interrupt and dismiss what another person is saying. (Sometimes written or spoken in longer forms, such as, “talk to the hand, because the face isn’t listening,” or the like.) _All of us were aghast when Jonathan turned to the police officer and said, “Talk to the hand, ’cause the face ain’t interested!”_  
 __talk trash__  
 __talk turkey__ To discuss something in a frank, straightforward, and serious manner.  
@@ -5032,24 +5040,28 @@ __tapped out__ Completely exhausted or depleted (of some resource). _A: “Do yo
 __tattle on__ :two: _v_ To inform that someone has misbehaved: _my brother tattled on me for spilling the glue._  
 __TBD__ An initialism of “to be determined.” Used in reference to something that is scheduled to happen but whose details have not yet been established or finalized.  
 __teaching to the test__ A colloquial term for any method of education where the curriculum is heavily focused on preparing students for a standardized test, for example, with international IELTS English proficiency language test for non-native speakers.  
+__team up (with one)__  
 __tear (one’s) hair out__ :dart: To be extremely anxious, worried, frustrated, or stressed out about something. _We’ve been tearing our hair out trying to figure out what’s causing the server outages._  
 __tear a strip off (someone)__ To scold, upbraid, or rebuke someone very severely, as for an error or wrongdoing. _The teacher really tore a strip off me for causing a disruption in class again._  
 __tear around__ _Her idea of taking a day off is tearing around a golf course._  
 __tear away__  
 __tear down__  
+__tease apart__ “Tease apart” is an idiomatic expression that means to carefully analyze something in order to understand the different components or aspects of it. It’s like trying to untangle a ball of yarn to figure out what each individual strand is made up of. _A clear causal connection between drug use and schizophrenia has been difficult to tease apart._  
 __tech neck__ A condition characterized by pain and stiffness in the neck, shoulders, and upper back due to prolonged use of digital devices. The sagging skin and neck wrinkles resulting from constantly bending downward to look at a smartphone, which can also cause headaches and neck, shoulder and back pain.  
 __tee off__ _Tee off for St. Patrick’s Day._  
-__teem with (someone or something)__ :four: To overflow or swarm with people or things; to have a huge abundance of people or things. _The trash was teeming with cockroaches._ _The city positively teemed with tourists ahead of the annual festival._ _Mountain streams teeming with trout._  
+__teem with (someone or something)__ :five: To overflow or swarm with people or things; to have a huge abundance of people or things. _The trash was teeming with cockroaches._ _The city positively teemed with tourists ahead of the annual festival._ _Mountain streams teeming with trout._  
 __teensy-weensy__ Particularly small or tiny. _I’m not hungry myself, but I’d love to try just a teensy-weensy bite of your meal, if you don’t mind._  
 __tell (someone or something) apart__ To be able to discern or distinguish two or more people or things that appear or seem similar. _This one is real, and this one is the counterfeit—you can tell them apart by the small holographic mark at the top corner of the genuine document._  
 __tell (someone’s) fortune__ To (profess to) anticipate and inform someone about certain outcomes or events in their near or distant future. _This old lady in the apartment next to mine offered to tell my fortune for ten bucks. I never go in for stuff like that, but I’ll admit that I’m a bit curious._  
 __tell apart__  
 __tell me about it__ :three: (spoken) Used to say that you understand what somebody is talking about and have had the same experience: _I get so annoyed with Steve! Tell me about it. He drives me crazy._ :es: ¡Dímelo a mí!  
+__tell me something I don’t know__  
 __tell someone off__ To scold someone; to attack someone verbally. (This has a sense of finality about it.) _I was so mad at Bob that I told him off. By the end of the day, I had told off everyone else, too._  
 __tell tales__ To share secrets, often knowing that doing so will cause problems for someone else.  
 __temper tantrum__ An extreme and childish display of unreasonable anger, frustration, or distemper. _I can’t believe you threw a temper tantrum like that just because I didn’t want to go see some movie with you!_  
 __tempest in a teapot__ Tempest in a teapot (American English), or storm in a teacup (British English), is an idiom meaning a small event that has been exaggerated out of proportion. There are also lesser known or earlier variants, such as tempest in a teacup, storm in a cream bowl, tempest in a glass of water, storm in a wash-hand basin, and storm in a glass of water.  
 __tempus fugit__ [:scroll: The phrase is Latin for “time flies.”] Time passes quickly. _I can’t believe it’s been so long since my last visit—tempus fugit!_  
+__ten-spot__ _slang_ A ten-dollar bill or a sum of ten dollars. Primarily heard in US. _This restaurant is an incredibly good value. For just a ten-spot you can get an appetizer, an entrée, and a dessert!_  
 __test (one’s) mettle__  
 __test the water(s)__ :four::hammer: _We’re testing the waters._  
 __test the waters__  
@@ -5065,8 +5077,7 @@ __that’s a given__ :two::hammer:
 __that’s a wrap__ :dart::two: Used to indicate that something is finished or concluded. _OK, everyone, that’s a wrap! Great work._  
 __that’s all she wrote__ This is the end; there is nothing left to say. _I’m sorry, Ben, but the board’s decision is final. That’s all she wrote, I’m afraid._  
 __that’s my girl__ An expression used to express praise or pride for a female with whom one has a close relationship, especially one.s daughter. _That’s my girl, another report card with straight A’s!_  
-__the (hand)writing is on the wall__  
-__the (hand)writing on the wall__ :dart:  
+__the (hand)writing on the wall__ :dart::three::hammer: (the (hand)writing is on the wall)  
 __the (hot) skinny__ Confidential information on a particular person or topic. _Net managers who want the skinny on the latest in computer security._  
 __the back of (one’s) hand__ __1__ A rejection, snub, or rebuke; a display of contempt or scorn for someone or something. _She met their accusations with the back of her hand._ __2__ Used to represent one’s complete knowledge of or familiarity with something. Usually used after the verb “know.” _I’ve read this book so many times, I know it like the back of my hand._  
 __the ball is in (one’s) court__  
@@ -5079,6 +5090,7 @@ __the bigger picture__
 __the bigger they come, the harder they fall__ _proverb_ :two: Those who are exceptionally large, powerful, or influential will have more to lose when they fail, and their failure will be all the more dramatic or spectacular because of it. _Over 20 years, he created an iron-fisted dictatorship, but when the revolution came, he and the small few who controlled the country were summarily executed or driven into exile. Truly, the bigger they come, the harder they fall._  
 __the butt of the joke__ Someone or something at whose expense an insulting or mocking joke is made. _I like hanging out with my brother and his friends, even though he likes to make me the butt of his jokes._  
 __the cat is out of the bag__ Some secret or surprise has been revealed or exposed.  
+__the cream of the crop__ The best of a particular group.  
 __the darkest hour is just before the dawn__  
 __the devil is in the detail(s)__ _proverb_ :three: Plans, actions, or situations that seem sound must be carefully examined, because minor details can end up causing major, unforeseen problems. _Double check your code—with software, the devil is in the details._  
 __the die was cast__ (the dice were cast)  
@@ -5091,7 +5103,7 @@ __the final nail in the coffin__
 __the final straw__  
 __the floor is yours__ :two: You can talk now. _That’s all I have to say—the floor is yours._  
 __the floor__ The right or opportunity to speak in a group, especially at a formal event or gathering. _Let’s give someone else the floor for a bit, shall we? You’ve had plenty of time to give your opinion._  
-__the Fourth Estate__ The people and organizations that report the news, or news journalism as a whole, regarded as having palpable but unofficial political influence. _One must never forget the sway held by members of the Fourth Estate—if we want public support, then we need the press on our side._  
+__the Fourth Estate__ :two: The people and organizations that report the news, or news journalism as a whole, regarded as having palpable but unofficial political influence. _One must never forget the sway held by members of the Fourth Estate—if we want public support, then we need the press on our side._  
 __the frosting on the cake__  
 __the full monty__  
 __the going thing__ :two: The latest and most popular trend, fad, or fashion. _My son came home asking to have half his head shaved—apparently, that’s the going thing these days!_  
@@ -5127,6 +5139,7 @@ __the likes of__
 __the lion’s den__ :two: A particularly dangerous, hostile, or oppressive place or situation, especially due to an angry or sinister person or group of people within it. _I felt like I was walking into the lion’s den when I went in front of the board for my annual review._  
 __the lion’s share__ :three: Major share of something.  
 __the lot__ _n_ All the things of a group. _This one’s the best of the lot._  
+__the lowdown on__ :dart: The whole truth about something.  
 __the man to see__ A colloquial expression used to refer to a person who holds significant influence, power, or expertise in a particular field or area. It implies that this individual is the most important or influential person to approach or consult with regarding a specific matter.  
 __the march of time__ The steady, unstoppable advancement of time. _Some people despair at the march of time, as they see themselves aging in the mirror, but I relish growing older and seeing the world change._  
 __the meat and potatoes__ :two: The most basic or fundamental aspects of something. _Too much information will overwhelm the new hire, so just give him the meat and potatoes._  
@@ -5140,6 +5153,7 @@ __the mother of all (something)__ The largest, most extreme, or ultimate example
 __the name of the game__ :two: The most important aspect or component of something; the main point of an activity. _Getting strike-outs is the name of the game when you’re a pitcher._  
 __the nature of the beast__  
 __the new black__  
+__the new kid on the block__ A new arrival in a place, group, or organization.  
 __the next best thing__ Something that is as good a substitute as possible for that which is really desired or best suited. _My walking shoes have a hole in them, so I’ve been using the next best thing—my hiking boots._  
 __the next big thing__ A future trend. _Designers will discuss the next big thing in home decorating._  
 __the Nikon choir__ The paparazzi or a large group of photojournalists, especially when actively engaged in photographing someone or something of great interest. (Refers to the Nikon brand of camera.) _As soon as the starlet walked out onto the red carpet, the Nikon choir swelled to a nearly deafening volume._  
@@ -5156,6 +5170,7 @@ __the pump__ _informal_ A gasoline pump, used as a synecdoche to represent gas s
 __the rabbit died__ [:scroll: From an early pregnancy test developed in 1931 in which the urine of a woman thought to be pregnant was injected into a female rabbit; if the woman was pregnant, the rabbit’s ovaries would react. A common misconception at the time was that the rabbit would die if the woman was pregnant, hence the expression.] The woman to whom we are referring is pregnant; the pregnancy test was positive. _I saw Carol shopping for maternity clothes in the mall the other day. I guess the rabbit died!_  
 __the ravages of something__ The destructive effects of something. _The potential ravages of a man-manipulated virus at a research center._  
 __the real McCoy__ “The real McCoy” is an idiom and metaphor used in much of the English-speaking world to mean “the real thing” or “the genuine article”, e.g. “he’s the real McCoy”.  
+__the red carpet__  
 __the revolution will be televised__  
 __the right call__  
 __the rubber meets the road__ Someone’s or something’s efforts, resolve, or viability are put to the test; things become truly or meaningfully challenging. Used especially after the words “where” or “when.”  

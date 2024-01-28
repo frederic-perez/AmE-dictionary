@@ -198,31 +198,6 @@ __switch-heater__ Switch-heater in the novels by James Ellroy refers to a device
 __switch-hitter__ __2__ By extension, someone who is bisexual.  
 __tacky__ :two::hammer:  
 __tail__ _n_  
-__take (someone, something, or some place) by storm__  
-__take (something) for a spin__ To take a brief, leisurely ride in a vehicle, especially an automobile. _Do you want to go take my dad’s Corvette for a spin later?_  
-__take a deep breath__  
-__take a shine to (someone or something)__  
-__take aim (at someone or something)__  
-__take center stage__ To be the main focus.  
-__take matters into (one’s) own hands__ :dart:  
-__take refuge in (something or some place)__  
-__take something home__ To take a thought, idea, or concept away [to one’s home] from a meeting or conference. _Take this idea home with you—diversify your investments._  
-__take the bull by the horns__  
-__take the high road__ To choose the most noble, ethical, or diplomatic course or method, especially after or in the face of negativity or ill treatment. _Strive to always take the high road when dealing with others, even if they’ve treated you unfairly in the past. Life has a habit of rewarding those who learn to turn the other cheek._  
-__take vows__ To commit oneself to a religious order.  
-__talk out (of) (one’s) ass__  
-__talk the talk__  
-__team up (with one)__  
-__tease apart__ “Tease apart” is an idiomatic expression that means to carefully analyze something in order to understand the different components or aspects of it. It’s like trying to untangle a ball of yarn to figure out what each individual strand is made up of. _A clear causal connection between drug use and schizophrenia has been difficult to tease apart._  
-__teem with (someone or something)__  
-__tell me something I don’t know__  
-__ten-spot__ _slang_ A ten-dollar bill or a sum of ten dollars. Primarily heard in US. _This restaurant is an incredibly good value. For just a ten-spot you can get an appetizer, an entrée, and a dessert!_  
-__the (hand)writing on the wall__ :two::hammer:  
-__the cream of the crop__ The best of a particular group.  
-__the Fourth Estate__ The people and organizations that report the news, or news journalism as a whole, regarded as having palpable but unofficial political influence.  
-__the lowdown on__ :dart: The whole truth about something.  
-__the new kid on the block__ A new arrival in a place, group, or organization.  
-__the red carpet__  
 __throw a (monkey) wrench in(to) the works__ To disrupt, foil, or cause problems to a plan, activity, or project.  
 __to name (but) a few__  
 __tomorrow will be another day__ A common idiom that means that no matter how bad things seem today, there is always the hope and promise of a fresh start tomorrow.  
