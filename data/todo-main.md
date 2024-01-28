@@ -4,6 +4,7 @@ __amp up__ _v_
 __amyloidosis__ _n_ /ˌæmɪlɔɪˈdəʊsɪs/  
 __anecdata__ _n_  
 __aplomb__ _n_ /əˈplɒm, əˈplʌm/  
+__archivist__ _n_ /ˈɑr kə vɪst, -kaɪ-/  
 __aspect__ _n_ __5__ A side or surface facing in a particular direction: _the ventral aspect of the body._  
 __backdrop__ _n_  
 __bailiff__ _n_  
@@ -14,14 +15,18 @@ __bedsit__ _n_ :es: habitación amueblada; estudio amueblado
 __blackhead__ _n_  
 __blitzkrieg__ _n_  
 __blockade__ _n_ /blɒˈkeɪd/  
+__blowtorch__ _n_  
 __bogus__ _adj_ /ˈboʊ gəs/  
 __breach__ _n_ /breach /briːtʃ/  
+__bubble__ _v_ _If it bubbles you have a leak._  
 __burgeoning__  
 __bustle__ _adj, v_  
 __calico__ _adj, n_  
 __cap__ _n informal_ __1__ Capital: _venture cap._ __2__ Capitalization: _market cap._  
+__capillary__ _adj, n_  
 __capitulate__ _v_ /kuh-PIH-chuh-layt/  
 __captcha__ _n_ /ˈkæptʃə/  
+__cast iron__ _n_ :es: hierro fundido  
 __caucus__ _n_  
 __chocolate bar__ _n_  
 __chrysalis__ _n_ /ˈkrɪs ə lɪs/  
@@ -29,9 +34,11 @@ __cicatrix__ _n_ A scar left by the formation of new connective tissue over a he
 __compulsory__ _adj_ /kəmˈpʌl sə ri/  
 __con__ _vt_ _slang_ To swindle (a victim) by first winning his or her confidence; dupe.  
 __conflate__ _v_ /kun-FLAYT/ Two closely related meanings of the verb conflate are “to confuse,” i.e. “to fail to differentiate,” and “to blend or bring together.”  
+__consumer unit__ _n_ A type of distribution board (a component of an electrical power system within which an electrical power feed provides supply to subsidiary circuits).  
 __conveyancing__ _n_ /kənˈveɪənsɪŋ/ (Law) The branch of law dealing with the transfer of ownership of property.  
 __countdown__ _n_  
 __cruciverbalist__ _n_ /kroo-suh-vur-buh-list/  
+__cupboard__ _n_ :mega: /ˈkʌb ərd/ A closet with shelves for dishes, cups, food, etc.  
 __cynophilia__ _n_ /ˌsɪnəʊˈfɪlɪə/ A love of dogs.  
 __darn__ _adj, adv, n_ /dɑːn/ A euphemistic word for damn.  
 __de rigueur__ _adj_  
@@ -48,15 +55,18 @@ __downfall__ _n_
 __drupe__ _n_  
 __ductal__ _adj_ /ˈdʌktəl/ Relating to a duct or tube-like structure in the body that carries bodily fluids.  
 __Dunning-Kruger effect__ _n_ A hypothetical cognitive bias stating that people with low ability at a task overestimate their ability.  
+__electric shock__ _n_  
 __entertain__ _vt_ __3a__ To consider; contemplate: _entertain an idea._  
 __epicure__ _n_ /EP-i-kyoor/ [:scroll: After the ancient Greek philosopher Epicurus (341-270 BCE), who advocated simple pleasures and a calm mind (ataraxia). With time, his teachings were distorted as focusing on sensual pleasures.] __1__ A person with refined taste, especially in food or wine. __2__ A person devoted to sensual pleasure.  
 __evict__ _vt_ /ɪˈvɪkt/  
 __ex-con__ _n informal_ A former prisoner.  
 __exacerbation__ _n_  
+__expletive__ _adj, n_  
 __explicit__ _adj_ __3b__ Describing or portraying nudity or sexual activity in graphic detail. _AI-generated explicit images of Taylor Swift surfaced on X._  
 __fiddle__ _v_  
 __fishmonger__ _n_ _Chiefly British_ (fishwife)  
 __flatshare__ _n_ An arrangement in which two or more people share a flat (apartment building).  
+__flue__ _n_ __1__ (Building) A shaft, tube, or pipe, esp as used in a chimney, to carry off smoke, gas, etc.  
 __foible__ _n_ /ˈfɔɪbəl/  
 __furbelow__ _n_ A strip of pleated material used as a decoration or a trim. _Syn_ ruffle, flounce, frill  
 __godsend__ _n_  
@@ -64,6 +74,7 @@ __gridlock__ _n_
 __grievance__ _n_ :two::hammer: /ˈgri vəns/  
 __gripe__ _n_ __1__ _informal_ A complaint.  
 __guac__ _n informal_ Guacamole.  
+__gully__ _n_  
 __hacksaw__ _n_  
 __haggis__ _n_  
 __harangue__ _n_ /huh-RANG/ A harangue is a forceful or angry speech or piece of writing.  
@@ -87,9 +98,11 @@ __livelihood__ _n_
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
 __Machiavellianism__ _n_ /mak-ee-uh-VEL-ee-uh-niz-uhm/ The use of unscrupulous means, cunning, and deceit in pursuit of power, especially in politics.  
 __malaria__ _n_ /məˈlɛər i ə/  
+__manhole__ _n_  
 __manslaughter__ _n_  
 __mar__ _v_  
 __mediocre__ _adj_ _Syn_ average  
+__misogynist__ _adj_ One who hates or mistrusts women.  
 __misuse__ _n_  
 __mumps__ _n pl_  
 __nab__ _vt_ _informal_ __1__ To seize (a fugitive or wrongdoer); arrest. __2__ To grab; snatch. _Recently, author Rie Kudan nabbed a prestigious literary award, using ChatGPT to write a portion of the novel._  
@@ -103,11 +116,15 @@ __outbreak__ _n_
 __outfox__ _vt_ /out-FOKS/ __1__ To outwit; outsmart; outmaneuver: _Politics is often the art of knowing how to outfox the opposition._  
 __overlord__ _n_  
 __pandiculation__  
+__pliers__  
 __polyhistor__ _n_ /ˌpɒlɪˈhɪstɔː/ (polyhistorian)  
+__presidential bid__ _n_ A _presidential bid_ refers to a person’s attempt to become the president of a country by running for election. It involves a candidate putting their name forward as a contender for the highest office in the country.  
 __prick__ _n_ __2b__ A small, sharp, local pain, such as that made by a needle or bee sting.  
 __PTFE__ _n_ Also called (trademark): Teflon. _PTFE tape._  
 __putty__ _n_  
 __quash__ _vt_ _The conviction was quashed._  
+__readily__ _adv_  
+__ring__ _v_ _Ring the emergency service immediately._  
 __rubella__ _n_ /ruˈbɛl ə/  
 __sarcasm__ _n_ /SAHR-kaz-um/ Sarcasm refers to the use of words that mean one thing to communicate the exact opposite of that thing, especially to insult someone, to show irritation, or to be funny.  
 __seedbed__ _n_ __2__ The place where something develops: _the seedbed of discontent._  
@@ -118,13 +135,19 @@ __showdown__ _n_
 __showroom__ _n_  
 __sidestep__ _v_ _Syn_ evade, hedge, skirt, parry, fudge, circumvent, dodge, elude, duck, put off  
 __singlehandledly__ _adv_ _Video shows Ukrainian armored vehicle singlehandedly stopping Russian assault._  
+__solder__ _adj, n_  
+__spindle__ _n_  
 __susurrus__  
+__swan neck__ _n_  
+__tee__ _n_ __1__ (Building) A pipe fitting in the form of a letter T, used to join three pipes.  
 __terraform__ _v_  
+__the mains__ _n pl_ _British_ The system of pipes or wires for electricity, gas, or water.  
 __thespian<sup>1</sup>__ _n_ /THES-pee-uhn/ [:scroll: After Thespis (c. 6th century BCE), Greek poet, who is considered the father of Greek tragedy] An actor.  
 __thespian<sup>2</sup>__ _adj_ Relating to drama.  
 __tmesis__ _n_  
 __trade union__ _n_ :dart: :es: sindicato  
 __trade war__  
+__trap__ _n_ __4__ A device for sealing a passage against the escape of gases, especially a U-shaped or S-shaped bend in a drainpipe that prevents the return flow of sewer gas by means of a water barrier. _The trap prevents bad smells coming up from the drains._  
 __tripledemic__ _n_ The simultaneous outbreaks of three infectious diseases: COVID-19, influenza, and respiratory syncytial virus (RSV).  
 __troublemaker__ _n_ /ˈtrʌbəlˌmeɪkə/  
 __turnover__ _n_  
@@ -136,7 +159,7 @@ __unfold__ _v_
 __vagrant__ _n_ One who wanders from place to place without a permanent home or a means of livelihood. _Syn_ drifter, vagabond, floater  
 __vivacious__ _adj_ :mega: /vuh-VAY-shus/ Someone or something described as vivacious is happy and lively in an appealing way.  
 __wacko__ _n_ _slang_ A person regarded as eccentric or irrational.  
-__washer__ _n_ __2__ (Mechanical Engineering) A flat ring or drilled disc of metal used under the head of a bolt or nut to spread the load when tightened.  
+__washer__ _n_ :two: __2__ (Mechanical Engineering) A flat ring or drilled disc of metal used under the head of a bolt or nut to spread the load when tightened.  
 __wheelhouse__  
 __wherewithal<sup>1</sup>__ _n_ That with which to do something; means or supplies for the purpose or need, esp. money: _the wherewithal to pay my rent._  
 __wherewithal<sup>2</sup>__ _adv_ By means of which; out of which.  
@@ -144,6 +167,7 @@ __whip up__
 __whiplash__ _n_ :two::hammer:  
 __white-collar__ _adj_ Of, relating to, or constituting the class of salaried employees whose duties do not call for the wearing of work clothes or protective clothing.  
 __whitlow__ _n_ A purulent infection at the end of a finger or toe in the area surrounding the nail. :astonished: _Syn_ felon  
+__wire wool__ _n_ A mass of woven steel fibers used as an abrasive. _Syn_ steel wool  
 __wisteria__ _n_  
 __wistfully__ _adv_  
 __wizardry__ _n_  
