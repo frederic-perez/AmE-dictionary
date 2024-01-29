@@ -1,7 +1,10 @@
+__(I) told you (so)__ I warned you that this would happen; I told you things would turn out this way.  
 __a dead clock is correct twice a day__ Even people who are usually wrong can be right sometimes, even if just by accident.  
+__ahead of (someone or something)__  
 __all the better__ Even better.  
 __as a last resort__ As a final option, usually when preferable ones have failed.  
 __at hand__  
+__back off__  
 __back to back__  
 __be busted__  
 __be in the hunt__  
@@ -9,7 +12,7 @@ __Beam me up, Scotty__ Get me out of here! Take me away!
 __bear in mind (that)__  
 __brainchild__  
 __by far__ By a large amount; by a lot.  
-__by the skin of (one’s) teeth__ Barely. Often used to describe something that almost didn’t happen.  
+__by the skin of (one’s) teeth__ :two: Barely. Often used to describe something that almost didn’t happen.  
 __catch__ __13__ _n_ A problem, drawback, or hidden detriment, often one that is initially concealed as a means of entrapment.  
 __come (a)round__ __6__ To change one’s position or view on something. _He’ll never come around to our side now that you’ve insulted him!_  
 __come to light__ To be revealed or exposed.  
@@ -17,9 +20,11 @@ __cookie cutter__ __2__ _adj_ Identical to other things. In this usage, the phra
 __cut (through) (the) red tape__  
 __dark horse__  
 __die hard__ _The main character, John McClane, is determined to “die hard” — or fight to the end — in order to save his wife and defeat the terrorists who have taken over the building._  
+__dislodge (someone or something) from (someone or something)__ To free someone or something that is stuck.  
 __double down__  
 __EGOT__ An abbreviation for “Emmy, Grammy, Oscar, Tony,” referring to the rare feat of winning the major awards in television, music, film, and theater. _Elton John joins elite EGOT ranks with Emmy win. John is only the 19th person to have achieved EGOT status (Whoopi Goldberg, Viola Davis, and Mel Brooks are some of the others)._  
 __end (something) on a high note__  
+__enough is enough__  
 __failure is not an option__  
 __far and wide__  
 __fast track__  
@@ -35,8 +40,12 @@ __for better or for worse__
 __for its own sake__  
 __freak out__  
 __fuss about__  
+__game-changer__  
+__get anywhere__ To make progress.  
+__get nowhere__  
 __girl grip__ _Girl grip_ is a slang phrase that refers to holding multiple items in one hand by grasping them between fingers. Typically, the phrase girl grip refers to a person using a clawed hand to hold multiple items at once. For example, a person may hold a paper cup using primarily their thumb and pointer finger while holding a smartphone, keys, receipt, and wallet with their remaining fingers on the same hand.  
 __give it a whirl__ To try something (often for the first time as a means of forming an opinion about it).  
+__give notice__  
 __give someone a run for their money__  
 __glimmer of hope__ A minute indication that something may improve, succeed, or turn out for the best in the end.  
 __go missing__ To disappear. _My diamond earrings have gone missing, and I want the entire staff to be interrogated!_  
@@ -62,12 +71,13 @@ __however much__ No matter how much.
 __hustle (one’s) bustle__ To increase one’s pace or sense of urgency; to hurry up; to get moving quickly. _We’d better hustle our bustle if we want to get to the movie theater on time!_  
 __I’m all ears__  
 __if it ain’t broke, don’t fix it__  
+__if you will__  
 __in (high) hopes of (something)__  
 __in (the) light of (something)__  
 __in a nutshell__  
 __in arrears__ Behind or overdue, often because one has not made a payment as scheduled.  
 __in denial__ Unable or unwilling to believe or acknowledge something as true.  
-__in full swing__  
+__in full swing__ :two::hammer:  
 __in the interim__ In the time before something happens; in the meantime.  
 __in vain__  
 __in/within living memory__ In a recent enough time as to be remembered by people who are alive today. (Usually used in negative statements.) _There hasn’t been a blizzard like this in living memory!_ _The worst heart care crisis in living memory._  
@@ -76,6 +86,7 @@ __jamming__ _slang_ Awesome; really exciting. _Man, that was an absolutely jammi
 __just what the doctor ordered__  
 __keep one eye on (someone or something)__  
 __lag__ __1__ _v_ To move or happen at a slower pace than someone or something else. _Google still dominates search with 92% market share, while Bing lags at 3.37%._  
+__learn (something) the hard way__  
 __leg work__ The physical work accompanying a task. _I don’t mind making the phone calls if you do the leg work._  
 __let it/(one) be__ :dart: To not interact with or bother someone or interfere with something; to leave someone or something alone.  
 __let’s make some noise__ Idiom that means to create a lot of excitement or enthusiasm, often associated with rallying a crowd, expressing strong support, or making a big impact. It’s usually used in situations where you want to pump people up and get them excited about something.  
@@ -85,11 +96,13 @@ __look (one) in the eye(s)__ To make eye contact with one, typically in a way th
 __lose face__ To lose prestige or respect.  
 __lucky loser__  
 __make a fuss__ To be a nuisance or cause a disturbance by complaining, arguing, etc. (about something).  
+__manosphere__  
 __mess with (someone or something)__  
 __mish-mosh__ A jumbled, disorganized mixture of several various things.  
 __move the needle__  
 __navigate__ To successfully manage or work through a difficult or complex situation. _I’m not sure how to navigate this awkward conversation with my boss about a raise._  
 __needle (one)__ _informal_ To provoke one with teasing or goading remarks or acts. _She just kept needling me with condescending comments about my sales numbers._ _Biden needles Trump in hopes of pushing him off message._  
+__needless to say__  
 __no nonsense__ _adj_ Totally serious; with no tricks or deceit. Hyphenated before a noun.  
 __no way__  
 __not enough room to swing a cat__ Very little or no space; very cramped quarters or proximity.  
@@ -98,10 +111,11 @@ __on the run__ __1__ Attempting to avoid capture, typically as a fugitive from l
 __one and only__  
 __one-off__  
 __open sesame__  
+__out of curiosity__  
 __out of steam__ :dart: Completely exhausted, fatigued, or without energy or motivation. _I’m all out of steam, I can’t walk another step._  
 __out of whack__  
 __pave the way (for someone or something)__  
-__powerhouse__  
+__powerhouse__ :two::hammer:  
 __Prince Charming__  
 __pull away__  
 __pull something off__ :dart: __1__ _informal_ To manage to make something happen. _Yes, I can pull it off. Do you think you can pull off this deal?_  
@@ -168,8 +182,11 @@ __sniff out__
 __snookered__ /ˈsnʊkɚd/ _mod_ __1__ Cheated; deceived. _I was snookered skillfully and quickly. It was almost a pleasure._ __2__ _slang_ Drunk.  
 __snout__ __4__ _slang_ A person’s nose.  
 __snow job__ :dart: A form of manipulation that involves lying or flattery to persuade someone. a systematic deception; a deceptive story that tries to hide the truth. _You can generally tell when a student is trying to do a snow job._ _This snow job you call an explanation just won’t do._  
+__snowball__ To grow at an increasing rate. (As a snowball rolling down a hill might increase in size.) _Offers to help with money and prayers began to snowball, and we had to get volunteers to help answer the phones._  
 __snuff (one)__ :two: _slang_ To kill one. _He was planning on going to the police, but the criminals snuffed him before he had the chance._ _Tragically, he was snuffed in his prime by cancer._  
 __so it goes__ _informal_ That is the kind of thing that happens; that is life. _Too bad about John and his problems. So it goes._ _I just lost a twenty-dollar bill, and I can’t find it anywhere. So it goes._  
+__spell out__  
+__spill over__  
 __spill the beans__  
 __stand by someone__  
 __stay put__  
@@ -198,6 +215,11 @@ __switch-heater__ Switch-heater in the novels by James Ellroy refers to a device
 __switch-hitter__ __2__ By extension, someone who is bisexual.  
 __tacky__ :two::hammer:  
 __tail__ _n_  
+__take a seat__  
+__tall order__  
+__the ball is in (one’s) court__  
+__the party is over__  
+__under scrutiny__  
 __wheel man__ The driver of an escape vehicle during some kind of crime, especially a robbery. Sometimes spelled as a single word.  
 __when the rubber hits the road__ The point at which someone’s or something’s efforts, resolve, or viability are put to the test; the point at which things become truly or meaningfully challenging.  
 __where (one) stands__  
