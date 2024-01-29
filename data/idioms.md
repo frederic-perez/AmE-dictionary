@@ -3473,6 +3473,7 @@ __mind (one’s) p’s and q’s__ To be polite and well behaved; to mind one’
 __mind you__  
 __mind-boggling__  
 __mint money__ To earn a very large amount of money, especially by doing something very successfully. _We’ll be minting money if we can manage to secure a trading partner in China._  
+__mish-mosh__ A jumbled, disorganized mixture of several various things.  
 __miss a beat__ _Without missing a beat._  
 __miss out on (something)__ :two: To lose the chance or opportunity to do or experience something.  
 __miss out__ :dart::three: To lose the chance or opportunity to do or experience something. _Because I was so sick last week, I missed out on the chance to see my sister while she was in town._  
@@ -3525,7 +3526,7 @@ __move (one) to tears__
 __move heaven and earth__ To do everything that one can to make something happen.  
 __move on__ _So, moving on to the next item on the agenda._  
 __move the goal posts__  
-__move the needle__ :four::dart: To cause a noticeable change in something. The imagery refers to the pointer (“needle”) on a measuring instrument, which moves to indicate the level that has been reached. _It seems all my efforts to get in good with the CEO have done little to move the needle in my favor._  
+__move the needle__ :dart::five: To cause a noticeable change in something. The imagery refers to the pointer (“needle”) on a measuring instrument, which moves to indicate the level that has been reached. _It seems all my efforts to get in good with the CEO have done little to move the needle in my favor._  
 __move through the gears__ To steadily increase one’s momentum, as of speed, intensity, progress, or success. _With a lot of hard work and perseverance, our little business is finally starting to move through the gears!_  
 __mover and shaker__ :two: A person who wields power and influence; _“a shaker of traditional beliefs”; “movers and shakers in the business world”_  
 __movers and shakers__ :dart::three: People who get things done; organizers and managers. _The movers and shakers in this firm haven’t exactly been working overtime._ _Who are the movers and shakers around here?_  
@@ -3558,14 +3559,15 @@ __narrow something down__ If you narrow something down, you reduce the number of
 __narrow the gap__  
 __natter on__ To talk idly or incessantly. _Now that she can talk, my little girl will just natter on all day long._  
 __natural hat trick__ _n_ _sports_ A hat trick in which three goals are scored in succession by one player in one game.  
-__navigate__ :four: To carefully and skillfully manage or deal with something that is complex, challenging, or difficult. _Navigating difficult relationships._ _Navigating life._  
+__navigate__ :five: To carefully and skillfully manage or deal with something that is complex, challenging, or difficult. To successfully manage or work through a difficult or complex situation. _I’m not sure how to navigate this awkward conversation with my boss about a raise._ _Navigating difficult relationships._ _Navigating life._  
 __nebbish__ A weak, submissive, pitiful person, especially a man. Adapted from the Yiddish word _nebekh_. _He’s just a sniveling nebbish, not a real man like you._  
 __neck and neck__ :two::hammer:  
 __neck of the woods__ :two: A neighborhood or nearby area; the area around where one lives.  
 __need (something) (about) as much as (one) needs a hole in the head__ To have absolutely no need or use for something. _I’m perfectly happy having a cell phone that just makes phone calls—I need a fancy new smartphone about as much as I need a hole in the head._  
 __need for speed__ _Need for speed_ is a phrase showing a desire to go fast, usually in a vehicle, such as a race car; popularized in the 1986 film _Top Gun_.  
 __need-to-know__  
-__needless to say__ :two: Obviously; the following is completely self-evident. _Helen has pneumonia, so, needless to say, we’re postponing our vacation._  
+__needle (one)__ _informal_ To provoke one with teasing or goading remarks or acts. _She just kept needling me with condescending comments about my sales numbers._ _Biden needles Trump in hopes of pushing him off message._  
+__needless to say__ :three: Obviously; the following is completely self-evident. _Helen has pneumonia, so, needless to say, we’re postponing our vacation._  
 __nepo baby__ A famous person who has at least one parent who is also famous. It’s often used as a negative term to suggest that a celebrity didn’t actually earn success and only gets opportunities because of their family connections.  
 __nerd out__ :two::hammer:  
 __nerve-racking__ (nerve-wracking) Causing fear or anxiety.  
@@ -3616,7 +3618,7 @@ __no less than__ :dart:
 __no longer__  
 __no matter how you slice it__ :two: Regardless of how a situation is analyzed, viewed, or portrayed, the truth of it remains unchanged. _No matter how you slice it, the drastically lower sales numbers this year are bad news for the company’s prospects for growth._  
 __no matter what__ In any conditions; regardless of what happens. _I don’t care if it’s raining, I’m going to the concert no matter what._  
-__no nonsense__ _adj_ :two: Totally serious; with no tricks or deceit. Hyphenated before a noun. _The new manager is very no nonsense in how he deals with customer complaints._ _We’re going to start adopting a no-nonsense approach to the problem._  
+__no nonsense__ _adj_ :three: Totally serious; with no tricks or deceit. Hyphenated before a noun. _The new manager is very no nonsense in how he deals with customer complaints._ _We’re going to start adopting a no-nonsense approach to the problem._  
 __no offense taken__  
 __no offense__ :three: What I have said or am about to say is not meant to offend or insult you, even though it could be interpreted that way. _No offense, but I think it may be time you cleaned up your kitchen._  
 __no one in his/her/their right mind would (do something)__ No one who is sane would consider doing something; someone would have to be crazy to do something. _Everyone knows Jake is a mess—no one in her right mind would date him._  
@@ -3631,7 +3633,7 @@ __no sooner (do something) than (do something else)__ One action had just conclu
 __no spring chicken__ :two: No longer young or youthful. (A “spring chicken” refers to a young chicken.)  
 __no strings attached__ :four: Free of conditions, limitations, obligations, etc. _The goodwill compensation comes with no strings attached._  
 __no sweat__ :dart::two::hammer:  
-__no way__  
+__no way__ :two::hammer:  
 __no way, José__  
 __no worries__ :four: No worries is an expression seen in Australian, British and New Zealand English meaning “do not worry about that”, “that’s all right”, or “sure thing.” It is similar to the American English _no problem._  
 __no-brainer__ A very easy or obvious choice, decision, or solution. (So easy or obvious that it is humorously said to require no brain.) _The answer to the riddle was a total no-brainer—I don’t know why it took me so long to figure out!_  
@@ -3659,7 +3661,7 @@ __not buy (something)__ To not accept or believe something as the truth. _My bro
 __not by any means__ Not in any way; not at all; absolutely not.  
 __not cut it__ If you say that _someone cannot cut it_ or _does not cut it_, you mean that they are not talented or ambitious enough to succeed in a particular job. _We’re in a real mess now Johnny’s gone. Lorenzo’s been doing the vocals, but he just can’t cut it._ _It’s a very tough work environment. If you don’t cut it then you’re out._  
 __not do a stroke (of work)__ To not do any work at all. _Now that Jim’s retired, he just spends all day on the couch watching television. He won’t do a stroke of work around the house!_  
-__not enough room to swing a cat__ :two: Very little or no space; very cramped quarters or proximity. _Many families are forced to live in tiny apartments with not enough room to swing a cat._  
+__not enough room to swing a cat__ :three: Very little or no space; very cramped quarters or proximity. _Many families are forced to live in tiny apartments with not enough room to swing a cat._  
 __not even close__  
 __not get a wink of sleep__ To not get any sleep. _Our newborn son is rather colicky, so my wife and I haven’t gotten a wink of sleep the last few nights._  
 __not get anywhere__ To make no progress at all; to be stuck or at an impasse. _Look, we’ve been discussing this issue all day and we haven’t gotten anywhere. Let’s take a break and start again tomorrow._  
@@ -3792,7 +3794,7 @@ __on life support__ Struggling to remain viable or continue to exist. _Our depar
 __on loan__ Given to someone on a temporary basis.  
 __on location__ _Filmed on location._  
 __on my end__  
-__on occasion__ Once in a while; occasionally. _I don’t really drink, but I do enjoy a nice glass of wine with a meal on occasion._  
+__on occasion__ :two: Once in a while; occasionally. _I don’t really drink, but I do enjoy a nice glass of wine with a meal on occasion._  
 __on one’s terms__  
 __on opposite sides of the barricade(s)__ Occupying conflicting, opposing, and/or contrary positions on some issue or in some situation. _Unfortunately, it seems more and more to be the case that those who would see the economy recover and those who strive for social equality find themselves on opposite sides of the barricade._  
 __on par (with someone or something)__  
@@ -3847,7 +3849,7 @@ __on the rise__
 __on the road__ __2__ (on the road to) On the way to, following a course that will end in. _We could see Mary was on the road to recovery._  
 __on the rocks__ :two: __3__ In state of ruin, disrepair, or destitution. _It’s no wonder he’s in therapy—apparently their marriage has been on the rocks for months._ _Your marriage is on the rocks._  
 __on the ropes__  
-__on the run__  
+__on the run__ :two: __1__ Attempting to avoid capture, typically as a fugitive from law enforcement; on the lam.  
 __on the same page__ To agree on something.  
 __on the shelf__  
 __on the sidelines__ :two: If you are _on the sidelines_ in a situation, you watch it happening but are not directly involved and cannot influence it. _France no longer wants to be left on the sidelines when critical decisions are taken._  
@@ -3870,7 +3872,7 @@ __once and for all__ :six: [:scroll: This expression is in effect an abbreviatio
 __once in a blue moom__ Very rarely.  
 __one after another__ Consecutively and in quick succession, with one person or thing rapidly following another in order (and usually indicating a large amount altogether). (Often formulated as “one (noun) after another.”) _The children walked silently, one after another, into the schoolhouse to begin their lesson._ _When I was cooped up in the house after my surgery, I started reading one book after another._  
 __one and done__ :two::hammer:  
-__one and only__  
+__one and only__ :two::hammer:  
 __one and the same__ Identical; the very same. _For ancient civilizations, astronomy and astrology were one and the same._  
 __one card shy of a (full) deck__ A pejorative phrase meaning not very intelligent or of questionable mental capacity. This expression can appear in many different forms and variations (e.g., “a few sandwiches short of a picnic,” “one brick short of a load,” etc.). _He says he’s going to start a business selling bees as pets—I think he may be one card shy of a full deck._ _The new manager is nice enough, but he’s one card shy of a deck, if you ask me._  
 __one for the (record) books__ :two::hammer: (one for the book)  
@@ -3888,7 +3890,7 @@ __one-horse town__ A very small and unremarkable town that is typically regarded
 __one-liner__ _informal_ A very short, witty joke, remark, or riposte.  
 __one-night stand__ A sexual relationship that lasts for only one night. It’s a play on words, because a nightstand is a small low bedside table, typically having drawers.  
 __one-of-a-kind__ :three::hammer: _One-of-a-kind experience._  
-__one-off__  
+__one-off__ :two::hammer:  
 __one-on-one__ :two::hammer:  
 __one-trick pony__ _n_ A person or thing considered as being limited to only one single talent, capability, quality, etc.  
 __one-up (someone)__ To make a point of outdoing, outperforming, outclassing, etc., someone. _I hate telling stories around Jack because he always tries to one-up you with some fabulous anecdote of his own._  
@@ -3903,7 +3905,7 @@ __open letter__ A letter addressed to a specific, usually prominent person and p
 __open mike__  
 __open question__  
 __open season (on someone or something)__  
-__open sesame__  
+__open sesame__ :two::hammer:  
 __open the floodgates__  
 __open to question__  
 __orbiter__ In James Ellroy’s novels, “orbiter” is a term used to describe someone who is on the periphery or fringes of a criminal organization or network. It’s someone who is not a central player or a key decision-maker, but who is still involved in the criminal activity in some way, perhaps as a lookout, a messenger, or a low-level enforcer.  
@@ -3917,7 +3919,7 @@ __out of (one’s) gourd__
 __out of (one’s) hair__ No longer pestering or annoying to one; not one’s responsibility or burden any longer. _I’ve gotten the kids out of my hair for a few hours so I can go and get a relaxing massage by myself._ _Once these auditors from the IRS are out of our hair, we can get back to business as usual._  
 __out of (one’s) shell__ :two: Less shy, reserved, or reticent and in a more sociable, outgoing, or enthusiastic state. _Samantha was quite a quiet girl growing up, but she really started coming out of her shell in college._ _Jack is actually a very funny, engaging guy once he’s out of his shell._  
 __out of character__ :two::hammer:  
-__out of curiosity__ A phrase that is used to indicate that a person is asking a question or seeking information out of a genuine desire to know more about something, rather than for any specific or practical purpose.  
+__out of curiosity__ :two: A phrase that is used to indicate that a person is asking a question or seeking information out of a genuine desire to know more about something, rather than for any specific or practical purpose.  
 __out of date__  
 __out of harm’s way__  
 __out of house and home__ Evicted; no longer having a place to live. _If my wife loses her job like so many of her co-workers, we’ll be out of house and home for sure._  
@@ -3928,14 +3930,14 @@ __out of one’s hair__
 __out of pocket__ :three::hammer: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
 __out of sight, out of mind__  
 __out of spite__  
-__out of steam__ :dart: Completely exhausted, fatigued, or without energy or motivation.  
+__out of steam__ :dart::two: Completely exhausted, fatigued, or without energy or motivation. _I’m all out of steam, I can’t walk another step._  
 __out of the blue__ :two::hammer: _Tragedy came out of the blue._  
 __out of the frying pan (and) into the fire__ From a bad, stressful, or dangerous situation into one that is even worse.  
 __out of the wood(s)__ :two: No longer in danger or dealing with a particular difficulty, though not entirely resolved. Usually used in the negative. _Her surgery went as well as we could have hoped, but she’s not out of the woods yet._  
 __out of thin air__ :three: From nothing, as of something that has suddenly materialized. Appearing suddenly and unexpectedly. _The great ones create ideas out of thin air._  
 __out of this world__ Extremely good.  
 __out of tune with (someone or something)__ At odds with someone or something; not in harmony or agreement with someone or something. _I’m often out of tune with my family because they don’t approve of my line of work._  
-__out of whack__ :dart::five: _My hormones are out of whack._  
+__out of whack__ :dart::six: _My hormones are out of whack._  
 __out of whole cloth__ :astonished:  
 __out the wazoo__  
 __out there__ :astonished: Somewhat unusual, unconventional, crazy, or eccentric. Sometimes hyphenated. _Our manager is always coming up with some out-there ideas on how to improve productivity._ _My uncle Jerry is a little out there, but he’s a really sweet guy._  
@@ -3988,7 +3990,7 @@ __pass up__
 __pass with flying colors__ :two::hammer:  
 __pat (one) on the back__ To praise one. _The only reason he stays late at work is so the boss will pat him on the back._  
 __patch up__ :three::dart: __1__ To mend, repair, or service something to the point of being functional or whole again, especially temporarily, typically by adding material to cover or connect broken or missing parts. A noun or pronoun can be used between “patch” and “up.” To fix something quickly so it can be used until it’s repaired properly or replaced. _John patched up the hose with an old bike tube._ __2__ To restore a relationship damaged by a disagreement or dispute. A noun or pronoun can be used between “patch” and “up.” _I tried to patch up my dispute with Marcy, but she isn’t ready to forgive me._ __3__ To treat someone’s wound, injury, or illness. A noun or pronoun can be used between “patch” and “up.” _I know you’re hurting, but the doctors here will patch you up._  
-__pave the way (for someone or something)__ :three::hammer:  
+__pave the way (for someone or something)__ :four::hammer:  
 __pave the way__ :two::hammer:  
 __pay (for something) out of pocket__  
 __pay (for something) up front__  
@@ -4141,7 +4143,7 @@ __pour gas/gasoline on the fire__
 __power nap__  
 __power play__ __2__ An action, behavior, or strategy intended to assert, enhance, or exaggerate one’s power, authority, or influence. _It’s just a power play—he’s moving the shifts around purely to show that he’s the one who can._  
 __power washing__  
-__powerhouse__ A person, group, organization, etc., that has a lot of power, force, or influence.  
+__powerhouse__ :three: A person, group, organization, etc., that has a lot of power, force, or influence.  
 __practice makes perfect__ :three: _Prov. Cliché_ :two: Doing something over and over again is the only way to learn to do it well. _Child: How come you’re so good at peeling potatoes? Father: I did it a lot in the army, and practice makes perfect._  
 __prattle on (about someone or something)__ :two: To ramble, chatter, or babble (about someone or something) in an idle, meaningless, or incessant way. _What on earth is he prattling on about now?_  
 __pressure cooker__ :two::hammer: _Too many of us feel like we’re living inside a pressure cooker._  
@@ -4153,6 +4155,7 @@ __prick up (one’s) ears__ :two::hammer:
 __prickling my gray matter__ Idiomatic expression that is often used to describe a feeling of intellectual stimulation or a challenge to one’s cognitive abilities.  
 __prickteaser__ (prick-teaser) _Syn_ blue baller, blue-baller  
 __prima donna__  
+__Prince Charming__  
 __prior to__ _prep_ Before. _Prior to this episode._  
 __prise open__  
 __pro bono__  
@@ -4168,11 +4171,12 @@ __pull a face (at someone)__ To make a grimacing or humorously distorted facial 
 __pull a prank (on someone)__ To carry out a trick, deception, or practical joke (against someone). _It turns out that the supposed alien visitors that people had been seeing were just a bunch of teenagers pulling a prank on the town._ _I’ve got a great plan to pull a prank on the school for April Fools’ Day._  
 __pull a U-ie__ :two: To make a U-turn. Primarily heard in US, Australia.  
 __pull an all-nighter__ :two: To remain awake all night long, especially so as to study or to complete something. _I was a bit of a procrastinator in college, so I tended to pull a lot of all-nighters._  
+__pull away__  
 __pull it out__ In general, the phrase “pull it out” is often used to describe a situation where someone is able to find or discover something, or find an answer, solution, or idea that they had not previously thought of.  
 __pull over__ _On that summer road trip, we pulled over every night to get out and stretch._  
 __pull rank__ _He pulled rank and told the pilot to shut up._  
 __pull someone’s leg__ :three: To make a playful attempt to fool or deceive someone. _You’re pulling my leg._ _Just pulling your leg, Mom._  
-__pull something off__ :two::dart: __1__ To manage to make something happen. _Yes, I can pull it off. Do you think you can pull off this deal?_  
+__pull something off__ :dart::three: __1__ _informal_ To manage to make something happen. _Yes, I can pull it off. Do you think you can pull off this deal?_  
 __pull tabs__ (casino)  
 __pull teeth__ __1__ To do something that is especially difficult, tedious, or requires an extreme amount of effort; to do something in the most difficult or unpleasant way possible. _I’ve been pulling teeth trying to get my family members organized for this get together, but I think it will all be worth it!_ __2__ To make someone or something less powerful, potent, or effective. A noun or pronoun is used between “pull” and “teeth.” _Corporate lobbyists are trying to pull the new law’s teeth to give them greater leeway in the market._  
 __pull the plug (on someone or something)__  
@@ -4193,6 +4197,7 @@ __push the envelope__ :three: To expand on, exceed, or test the limits of the es
 __push up the daisies__  
 __push your buttons__  
 __push<sup>1</sup>__ To hype something or someone; to pressure something or someone. _The clerk was pushing one brand so hard that I finally bought it._  
+__pushing hard__ _“Pushing hard” means putting in a lot of effort or trying very hard to achieve something._  
 __pushing up (the) daisies__ Dead and buried. (Usually in the future tense.) _I’ll be pushing up daisies before this problem is solved._ _If you talk to me like that again, you’ll be pushing up the daisies._  
 __pushing up the daisies__ Dead and buried.  
 __pussyfoot (around)__ To behave in an overly cautious, timid, or non-committal manner.  
@@ -4212,7 +4217,7 @@ __put (someone or something) out of business__
 __put (someone or something) to bed__ :two: __1__ To help someone, typically a child, prepare for and get into bed at night. _I’ll give you a call after I put the kids to bed._ __2__ To complete something or some initial preparatory phase. _I thought you’d put the proofreading for that edition to bed weeks ago!_ __3__ To stop discussing, thinking about, or focusing on something. _OK, I think we have to agree to disagree. Let’s just put the issue to bed and stop arguing._  
 __put (someone or something) to the test__  
 __put (someone) in the picture__ To keep someone informed, aware, or up to date (about something); to involve someone in something.  
-__put (something) on hold__  
+__put (something) on hold__ :two::hammer:  
 __put (something) on ice__ __2__ To postpone or delay acting on or dealing with something.  
 __put (something) on the back burner__ :two::dart: To establish something as being a low priority; to give something less or little thought or attention; to postpone, suspend, or hold off on doing something. _It has put the needs of farmers on the back burner in favor of its own interests._  
 __put a foot on my mouth__  
@@ -4220,8 +4225,9 @@ __put a gun to (someone’s) head__ To force someone to do something he or she d
 __put a spoke in (one’s) wheel__  
 __put an end to (something)__  
 __put back__ :two: __2__ To stall, delay, or postpone something until a later time or date. In this usage, a noun or pronoun can be used between “put” and “back.” _They decided to put back the release date of their war film as a sign of respect to the victims of the attack._  
-__put food on the table__ :two: To earn enough money to provide the basic necessities for oneself and (often) one’s family. _With my hours at work being cut so dramatically, I just don’t know how I’ll be able to put food on the table._  
+__put food on the table__ :three: To earn enough money to provide the basic necessities for oneself and (often) one’s family. _With my hours at work being cut so dramatically, I just don’t know how I’ll be able to put food on the table._  
 __put forth__  
+__put forward__ To suggest, offer, or propose someone or something for consideration. A noun or pronoun can be used between “put” and “forward.”  
 __put in (one’) two cents’ worth__ To share one’s opinion or point of view for whatever it may be worth, generally when it is unasked for. _I find Jeff’s husband a bit trying at times. He always insists on putting in his two cents’ worth whether we want his opinion or not!_  
 __put in a good word for someone__  
 __put it there__ :astonished: Shake my hand. As in greeting or in agreement to a deal. _A: “50 dollars is my final offer for the computer.” B: “I wish I could get more for it, but you win. Put it there!”_ _Hey, John, put it there! I haven’t seen you in a donkey’s age!_  

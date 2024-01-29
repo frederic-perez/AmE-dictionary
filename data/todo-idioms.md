@@ -98,31 +98,6 @@ __lucky loser__
 __make a fuss__ To be a nuisance or cause a disturbance by complaining, arguing, etc. (about something).  
 __manosphere__  
 __mess with (someone or something)__  
-__mish-mosh__ A jumbled, disorganized mixture of several various things.  
-__move the needle__  
-__navigate__ To successfully manage or work through a difficult or complex situation. _I’m not sure how to navigate this awkward conversation with my boss about a raise._  
-__needle (one)__ _informal_ To provoke one with teasing or goading remarks or acts. _She just kept needling me with condescending comments about my sales numbers._ _Biden needles Trump in hopes of pushing him off message._  
-__needless to say__  
-__no nonsense__ _adj_ Totally serious; with no tricks or deceit. Hyphenated before a noun.  
-__no way__  
-__not enough room to swing a cat__ Very little or no space; very cramped quarters or proximity.  
-__on occasion__  
-__on the run__ __1__ Attempting to avoid capture, typically as a fugitive from law enforcement; on the lam.  
-__one and only__  
-__one-off__  
-__open sesame__  
-__out of curiosity__  
-__out of steam__ :dart: Completely exhausted, fatigued, or without energy or motivation. _I’m all out of steam, I can’t walk another step._  
-__out of whack__  
-__pave the way (for someone or something)__  
-__powerhouse__ :two::hammer:  
-__Prince Charming__  
-__pull away__  
-__pull something off__ :dart: __1__ _informal_ To manage to make something happen. _Yes, I can pull it off. Do you think you can pull off this deal?_  
-__pushing hard__ _“Pushing hard” means putting in a lot of effort or trying very hard to achieve something._  
-__put (something) on hold__  
-__put food on the table__  
-__put forward__ To suggest, offer, or propose someone or something for consideration. A noun or pronoun can be used between “put” and “forward.”  
 __quibble over (something)__  
 __rack up__  
 __rainbows and unicorns__  
