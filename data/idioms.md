@@ -5232,6 +5232,7 @@ __through the roof__ :two: To a very high level.
 __through thick and thin__ Through good times and bad times.  
 __throw (one) a curveball__ :two::hammer:  
 __throw (someone) under the bus__ :two::hammer:  
+__throw a (monkey) wrench in(to) the works__ To disrupt, foil, or cause problems to a plan, activity, or project.  
 __throw a fit__ _He watched a reality show in which a girl throws a hfit when her parents get her the wrong expensive car for her birthday._  
 __throw a party__ :two::hammer:  
 __throw an eye on (something)__ To inspect something casually and quickly but with attention to detail. _Tom, would you mind just throwing an eye on these reports before you leave? I just want to be sure I didn’t make any mistakes._  
@@ -5292,7 +5293,7 @@ __to hell and back__ :three: Through a difficult, trying, or perilous situation 
 __to his name__  
 __to let (one’s) guard down__ To stop being cautious; to relax and stop being so aware of one’s behavior and other people’s reactions to oneself.  
 __to make a long story short__ To skip boring, extraneous, or unnecessary details; to get to the point. _Anyway, to make a long story short, I got expelled for writing graffiti on the bathroom stalls._  
-__to name (but) a few__ :three::hammer:  
+__to name (but) a few__ :four::hammer:  
 __to no end__ Greatly; very much. _I was pleased to no end when you wrote of making several new friends at the university._ _I’m an editor, so it irritates me to no end when people use “their” or “there” when they should be using “they’re.”_  
 __to perfection__ In a way or to a degree that is exactly right. _Cooked to perfection._  
 __to say the least__  
@@ -5309,6 +5310,7 @@ __toe the line__ :four: To adhere to the rules of something. _I expect you to to
 __toe-to-toe__  
 __together__  
 __Tom Swifty__ :two::hammer:  
+__tomorrow will be another day__ A common idiom that means that no matter how bad things seem today, there is always the hope and promise of a fresh start tomorrow.  
 __tone deaf__  
 __tongue in cheek__  
 __tongue twister__ A word or phrase that is hard to say clearly due to difficult alliteration or pronunciation.  
@@ -5320,6 +5322,7 @@ __toot__ __5__ _v_ _slang_ To emit a small, often audible fart. _Oops! Sorry for
 __tooth and nail__  
 __top of mind__ :dart::two: Occupying one’s foremost attention or concern. Often hyphenated when used before a noun. _I assure you that privacy issues are a top-of-mind priority for our company._ _His top-of-mind interest._  
 __top off__ _L.A. is topping off pools, watering lawns, washing cars._  
+__top something up__ To add a bit of something to replenish the amount that was used. _Let me top your drink up. Can I top up your glass?_ _Topping up testosterone doesn’t reduce fractures._  
 __top the bill__ Be the most important item or performer in a show, play, etc: _Topping the bill tonight will be Robbie Williams._ _I’ll top the bill, I’ll overkill._  
 __top-flight__ Stellar; excellent; of the highest level of quality or worth. Can be used with or without the hyphen when used after a noun.  
 __topsy-turvy__ :two::hammer: _There’s an old Zen saying: “The world is topsy-turvy.”_ _Welcome back to another topsy-turvy day in AI._  
@@ -5331,6 +5334,7 @@ __toss out__ _v_ :two::hammer: _One student tossed out expletives._
 __touch base (with someone)__ :four: To contact someone to update them or receive an update from them. _I was just calling to touch base since it’s been a few weeks since we last spoke._ _Syn_ get in touch, connect  
 __touch base__ :two::hammer:  
 __touch grass__ Go outside. It’s usually used in an insulting way to imply that someone spends too much time online, perhaps posting on social media or losing at video games, and that they should go outside for once—or at least away from other people!  
+__touch on (something)__ To discuss or deal with some topic informally or in passing.  
 __touch up__ :dart::four: __1__ _v_ To fix minor flaws in or make minor changes to something. A noun or pronoun can be used between “touch” and “up.” _I’d just like to touch up my makeup before we leave._ _All you need to do is touch the wall up with a bit of spackle and paint, and it will be as good as new!_ _You need to touch up your hair color._ __2__ _n_ A minor change or fix. As a noun, the phrase is usually hyphenated. _The cover is almost ready, it just needs a few touch-ups before we send it to the printer._ _A paint touch-up._  
 __touch wood__  
 __touché__  
@@ -5408,7 +5412,7 @@ __under (one’s) breath__ Spoken in such a soft, quiet voice that others cannot
 __under (one’s) watch__ A situation where someone is responsible for overseeing or supervising a particular task, project, or group of people. It implies that the person in question has the duty of ensuring that everything runs smoothly and according to plan.  
 __under (one’s) wing__ Under one’s care, protection, or tutelage. _Our parents died when we were quite young, so my aunt took us under her wing._  
 __under (one’s)/the skin__ __1__ Inherently; essentially. In this usage, “the” is used between “under” and “skin.” _She’s really a sweet girl under the skin—her sassy attitude just gets in the way of that sometimes._ __2__ Said of something that is a source of irritation. In this usage, a personal pronoun is used between “under” and “skin.” _I just can’t stand Dean’s voice, so everything he says gets under my skin._ __3__ Said of someone or something that one is obsessing about. In this usage, a personal pronoun is used between “under” and “skin.” _I can’t get that beautiful girl I met earlier off my mind. She’s just under my skin now._  
-__under fire__ Subject to intense criticism or judgment. _You will definitely come under fire if they find out that you were responsible for the printing error._  
+__under fire__ :two: Subject to intense criticism or judgment. _You will definitely come under fire if they find out that you were responsible for the printing error._  
 __under one’s belt__  
 __under one’s thumb__  
 __under pressure__ Facing or enduring something such as pressure or a deadline.  
@@ -5434,7 +5438,7 @@ __up and down__ __2__ Going between success and failure.
 __up and running__ :three::hammer: _The cluster is up and running within a very small timescale._  
 __up for grabs__ :six: Available for anyone.  
 __up front__  
-__up in arms__  
+__up in arms__ :dart::three::hammer:  
 __up to (one’s) eyeballs (in something)__ :astonished: Extremely busy (with something); deeply or overly involved (in something); possessing, filled up with, or overwhelmed by an excessive amount (of something). _There’s no way I can take a vacation right now, I’m up to my eyeballs in work at the moment!_  
 __up to (one’s) neck in alligators__ :two: _business adage_ So overcome or preoccupied by various tangential worries, problems, or tasks that one loses sight of the ultimate goal or objective. The full expression is some variation of “When you are up to your neck in alligators, it’s easy to forget that the goal was to drain the swamp.” _I’ve spent so much time dealing with various infrastructure problems for my new business that I’ve had no time to actually develop our product properly. I guess it’s easy to forget that when up to your neck in alligators, the mission was to drain the swamp._  
 __up to no good__  
@@ -5450,10 +5454,11 @@ __usher in__
 __utterly__  
 __vac__  
 __value judgment__  
-__vamoose__ :two::hammer: (vamoosed)  
+__vamoose__ :four::hammer: /væˈmus/ (vamoosed)  
 __vamp up__  
 __vanilla__ __1__ _slang_ Plain, uninteresting, unexciting, or unadventurous. A reference to vanilla being considered a plain or ordinary flavor.  
 __vanish into thin air__ To disappear completely, without leaving a trace.  
+__veep__ _n_ /vip/ A vice president. _The veep is going to preside today._  
 __verbal diarrhea__  
 __verbum sap__ A shortening of the Latin phrase _verbum sapienti sat est_, literally, “a word to the wise (is sufficient),” meaning a wise or prudent person does not or should not require any further explanation. Typically used to emphasize the advice implied by one’s statement. _Repeating the same weak, debunked arguments won’t make them true, you know. Verbum sap._  
 __verge (up)on something__ :two: To be almost identical to something; to be similar to or almost the same as something. (Upon is formal and less commonly used than on.) _Your actions verge upon mutiny. What you said verges on an insult._  
@@ -5462,16 +5467,18 @@ __vertically challenged__ Short; not tall in stature. (Pseudo-politically correc
 __very much so__ :three: Used to say “yes” or to say that one agrees with something. _“Were you surprised?” “Oh, very much so.”_  
 __vibe__ A distinct but unquantifiable emotional feeling, quality, or atmosphere that can exist within some place or be exuded by someone. Often pluralized. _I got a weird vibe from the boss during the meeting._  
 __vie for (something)__ :two::hammer:  
+__vroom__  
 __wait and see__ To act with caution and patience until something happens. _I guess I just have to wait and see until the doctor calls with the test results._  
-__wait for it__  
+__wait for it__ :two::hammer:  
 __wait for the other shoe to drop__ To wait for something bad to happen.  
 __wait-and-see__ Hesitant, skeptical, or circumspect, as of a mindset, outlook, or tactic. _With all due respect, the situation is too dire for this kind of wait-and-see approach._  
 __wake up on the wrong side of (the) bed__ To be in a particularly and persistently irritable, unhappy, or grouchy mood or state, especially when it is not in line with one’s normal disposition. _I’m sorry I snapped at you earlier, I think I just woke up on the wrong side of the bed today._  
-__wake-up call__ :eight: __1__ An event that triggers a sense of urgency or the motivation to make a change. _Harold’s sudden chest pain was the wake-up call he needed to finally see his doctor._ __2__ A phone call that one schedules to be placed to one’s hotel room in order to be woken up at a certain time. _I set an alarm and scheduled a wake-up call so there’s no way I oversleep for the first conference session tomorrow._  
+__wake up to (something)__  
+__wake-up call__ :nine: __1__ An event that triggers a sense of urgency or the motivation to make a change. _Harold’s sudden chest pain was the wake-up call he needed to finally see his doctor._ __2__ A phone call that one schedules to be placed to one’s hotel room in order to be woken up at a certain time. _I set an alarm and scheduled a wake-up call so there’s no way I oversleep for the first conference session tomorrow._  
 __walk a fine line between (something)__  
 __walk away from (someone or something)__  
 __walk away__ _Knowing when to walk away is an essential life skill._  
-__walk in the park__  
+__walk in the park__ :two::hammer: _Major depression—and especially treatment-resistant depression—is no walk in the park._  
 __walk on air__ To be in a state of extreme happiness. _I’ve been walking on air ever since I got engaged!_  
 __walk on eggs__ :four: (walk on eggshells) To act or proceed with great care, caution, and consideration so as not to upset someone or trigger some imminent disaster. _The littlest thing tends to anger my mother, so I feel like I have to walk on eggs whenever I’m at her house._  
 __walk on eggshells__ :two::hammer:  
@@ -5480,7 +5487,8 @@ __walk out the door__ To leave a place. _She walked out the door without saying 
 __walk someone through something__ To lead someone through a complex problem or thought process. _Mary walked Jane through the complex solution to the calculus problem. Do I have to walk you through this solution?_  
 __walk someone through__  
 __walk the line__ :dart::three: To remain neutral rather than committing to a particular position, view, or thing. _When my kids fight, I try to walk the line rather than siding with one of them._  
-__walk the walk__ :dart:  
+__walk the walk__ :dart::two::hammer:  
+__walk through__  
 __walk your talk__ To back up one’s boastful talk with meaningful actions. (A compressed version of the largely American, “If you’re going to talk the talk, you have to walk the walk,” or, “You talk the talk, but can you walk your walk?” and other such iterations.) _This consultant has sold us on some pretty radical ideas, but it remains to be seen whether he can walk his talk._  
 __walking distance__  
 __walkout__  
@@ -5488,6 +5496,8 @@ __wallflower__ Someone who remains on the outer edges of a social event, especia
 __wallow in something__ _Do not wallow in failure._  
 __walls have ears__ Someone might be eavesdropping. _Let’s talk in my office—out here, the walls have ears._  
 __want out__ _When it became hard you wanted out._  
+__war chest__ :two: A financial reserve collected and maintained for specific political purposes, especially election campaigns. _The party has been able to strengthen its war chest ahead of the midterm elections, thanks to huge donations from across the tech sector._  
+__warmed-over__ Unoriginal, reused, or derivative. An allusion to reheated leftover food.  
 __wash (someone’s) mouth out (with soap)__ To punish someone for using rude, vulgar, or obscene language by cleaning their mouth with soap (usually used merely as a threat).  
 __wash over (someone or something)__  
 __wash something down__ _Wash it down with a glass of milk._  
@@ -5503,7 +5513,7 @@ __water torture__
 __water under the bridge__ :dart::two::hammer: _We’ll regard it as water under the bridge, shall we?_  
 __watered-down__  
 __watering hole__ :two::hammer: _Revelers can move around watering holes with impunity._  
-__watershed moment__ A moment of critical importance that marks a dramatic change of course for a particular situation or activity. _The result of the lawsuit proved to be a watershed moment in the fight against censorship._  
+__watershed moment__ :two: A moment of critical importance that marks a dramatic change of course for a particular situation or activity. _The result of the lawsuit proved to be a watershed moment in the fight against censorship._  
 __wax lyrical about something__ If you _wax lyrical_ about a subject, you talk about it in an enthusiastic way. _He waxed lyrical about the skills and commitment of his employees._  
 __way back when__ A relatively long time ago, especially when recalling something that is not the case now. Primarily heard in US. _I used to really like this band way back when, but now that I’m older, they just sound silly to me._  
 __way of life__  
@@ -5525,25 +5535,29 @@ __weird out__
 __well in advance__ _Book tickets well in advance._  
 __well played__  
 __well-heeled__ :two: (well-fixed; well-off) [:scroll: Alluding to a person who can easily afford to replace shoes often] Wealthy; with sufficient money. Having plenty of money; prosperous. _My uncle can afford a new car. He’s well-heeled. Everyone in his family is well-off._  
+__well, well, (well)__ Used to express surprise or incredulity, either sincerely or sarcastically. _Well, well, I must say that I didn’t expect to see results like that from the experiment!_  
 __welp__ A common alternative to “well” that is used to express disappointment, often in text messaging.  
 __Were you born in a tent?__ Have you no basic manners? (Usually said after someone has left open a door to the outside.) _Shut the door, it’s freezing outside! Were you born in a tent?_  
 __west of the Mississippi__ _The Oregon Symphony is the oldest major orchestra west of the Mississippi._  
 __whack__  
 __whack-a-mole__ :astonished: __2__ By extension, a situation in which problems continue to arise faster than one is able to solve or cope with them, resulting in piecemeal, incomplete, or temporary results. _Every time we think we have the software debugged, more problems show up. We’ve just been playing whack-a-mole from day one!_  
 __whale on (someone or something)__  
+__whammo__ It’s basically a slang term for a big, dramatic, or explosive event. James Ellroy uses it to describe things like shootouts, car chases, explosions, or any other kind of crazy action scene.  
 __whanger__ :two: _slang_ The penis.  
 __what a drag__  
 __what are the odds__  
 __what do I know__  
 __what do you know__ A phrase used to indicate one’s surprise upon discovering something. _Well, what do you know! It says here that my ancestors first came to this country in 1857!_ :es: ¡Qué sorpresa!  
-__what gives?__ :two: _informal_ Used to ask the reason for something. _You’ve been acting weird all week. What gives?_  
+__what else?__ The phrase “what else?” in James Ellroy’s novels typically carries a sense of cynicism, as if the character is resigned to the fact that there is nothing new or unexpected to be found in the world. It often reflects the jaded worldview of the characters in his crime novels, who have seen the worst of humanity and are not easily surprised or impressed. The phrase is often used as a rhetorical question, implying that the speaker already knows the answer, or as a means of brushing off a situation or event as being predictable or mundane.  
+__what gives?__ :three: _informal_ Used to ask the reason for something. _You’ve been acting weird all week. What gives?_  
 __what if scenario__  
 __what in tarnation__ An exclamation used to emphasize surprise, shock, anger, disgust, etc. _Just what in tarnation is going on here?_ _Aw, what in tarnation! I just had this fixed, and now there’s a dent in it!_  
-__what it takes__ :two: The skill, ability, or wherewithal to do something. _She’s pretty talented—I think she might have what it takes to make it in Hollywood._  
+__what it takes__ :three: The skill, ability, or wherewithal to do something. _She’s pretty talented—I think she might have what it takes to make it in Hollywood._  
 __what makes (one) tick__ :two::hammer: _We’ve never captured one of them, and consequently don’t know what makes them tick._  
 __what on earth__  
 __what the heck__  
 __what-if__ _n informal_ A hypothetical question; speculation: _one of the great what-ifs of modern history._ _Evaluate various what-if scenarios._  
+__what’s cooking__  
 __what’s in store__  
 __What’s that got to do with the price of tea in China?__ :two: A rhetorical question calling attention to a non-sequitur or irrelevant statement or suggestion made by another person. _Yes, I agree that health care is an important issue, but what’s that got to do with the price of tea in China? We’re discussing tax incentives for local businesses—not exactly a related topic!_  
 __What’s the catch?__ What’s the problem, drawback, detriment, or risk that I’m not privy to or able to see? _Why are you selling this for so little? What’s the catch?_  

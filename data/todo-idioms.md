@@ -198,31 +198,6 @@ __switch-heater__ Switch-heater in the novels by James Ellroy refers to a device
 __switch-hitter__ __2__ By extension, someone who is bisexual.  
 __tacky__ :two::hammer:  
 __tail__ _n_  
-__throw a (monkey) wrench in(to) the works__ To disrupt, foil, or cause problems to a plan, activity, or project.  
-__to name (but) a few__  
-__tomorrow will be another day__ A common idiom that means that no matter how bad things seem today, there is always the hope and promise of a fresh start tomorrow.  
-__top something up__ To add a bit of something to replenish the amount that was used. _Let me top your drink up. Can I top up your glass?_ _Topping up testosterone doesn’t reduce fractures._  
-__touch on (something)__ To discuss or deal with some topic informally or in passing.  
-__under fire__  
-__up in arms__ :dart::two::hammer:  
-__vamoose__ :two::hammer: /væˈmus/  
-__veep__ _n_ /vip/ A vice president. _The veep is going to preside today._  
-__vroom__  
-__wait for it__  
-__wake up to (something)__  
-__wake-up call__  
-__walk in the park__ _Major depression—and especially treatment-resistant depression—is no walk in the park._  
-__walk the walk__  
-__walk through__  
-__war chest__ :two: A financial reserve collected and maintained for specific political purposes, especially election campaigns. _The party has been able to strengthen its war chest ahead of the midterm elections, thanks to huge donations from across the tech sector._  
-__warmed-over__ Unoriginal, reused, or derivative. An allusion to reheated leftover food.  
-__watershed moment__ A moment of critical importance that marks a dramatic change of course for a particular situation or activity. _The result of the lawsuit proved to be a watershed moment in the fight against censorship._  
-__well, well, (well)__ Used to express surprise or incredulity, either sincerely or sarcastically. _Well, well, I must say that I didn’t expect to see results like that from the experiment!_  
-__whammo__ It’s basically a slang term for a big, dramatic, or explosive event. James Ellroy uses it to describe things like shootouts, car chases, explosions, or any other kind of crazy action scene.  
-__what else?__ The phrase “what else?” in James Ellroy’s novels typically carries a sense of cynicism, as if the character is resigned to the fact that there is nothing new or unexpected to be found in the world. It often reflects the jaded worldview of the characters in his crime novels, who have seen the worst of humanity and are not easily surprised or impressed. The phrase is often used as a rhetorical question, implying that the speaker already knows the answer, or as a means of brushing off a situation or event as being predictable or mundane.  
-__what gives?__ Used to ask the reason for something.  
-__what it takes__  
-__what’s cooking__  
 __wheel man__ The driver of an escape vehicle during some kind of crime, especially a robbery. Sometimes spelled as a single word.  
 __when the rubber hits the road__ The point at which someone’s or something’s efforts, resolve, or viability are put to the test; the point at which things become truly or meaningfully challenging.  
 __where (one) stands__  
