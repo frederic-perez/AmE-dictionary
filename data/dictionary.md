@@ -14762,7 +14762,7 @@ __reach out__ _v_ :nine::dart: __1__ To attempt to make contact with someone, es
 __reactant__  
 __reactive__ _adj_ :dart:  
 __read into something__  
-__readily__ _adv_ :eight::hammer: /ˈrɛdɪlɪ/  
+__readily__ _adv_ :nine::hammer: /ˈrɛdɪlɪ/  
 __readiness__ _n_ :two::hammer: /ˈrɛd i nɪs/ _Our career readiness software program._  
 __readings__ _n_  
 __readout__ _n_ :three::hammer:  
@@ -15261,7 +15261,7 @@ __rind__ _n_ :two::hammer: _The color of rind._
 __ring finger__ _n_ :two: The third finger, esp of the left hand, on which a wedding ring is traditionally worn.  
 __ring in__ _v_ _Do you want to ring in the new year with Babble-on?_  
 __ring<sup>1</sup>__ _n_ _A narcotics ring._  
-__ring<sup>2</sup>__ _v_ _He was ringed by enemies._  
+__ring<sup>2</sup>__ _v_ :two::hammer: _Ring the emergency service immediately._ _He was ringed by enemies._  
 __ringed__ _adj_ __1__ Wearing or marked with a ring or rings. _A man whose ringed nose marked him a slave brought wet cloths for theis hands and faces._ __2__ Encircled or surrounded by bands or rings. __3__ (Zoology) Formed from segmented rings; annulate.  
 __ringer__ _n_ :three: __1__ A person who is almost identical to another. _Syn_ clone _I have been told I am a ringer for Bono, but the similarities end the moment I pick up a microphone._ __2__ A contestant, esp a horse, entered in a competition under false representations of identity, record, or ability. _Someone might be throwing in a ringer._  
 __ringleader__ _n_ :two::hammer:  
@@ -15461,7 +15461,7 @@ __rubbing__ _n_ :two::hammer:
 __rubbish__ _n_ __1__ Worthless, useless, or unwanted matter. __2__ Discarded or waste matter; refuse. __3__ :dart: Foolish words or speech; nonsense.  
 __rubble__ _n_ :four::hammer: /ˈrʌbəl/ _Earthquakes reduced many buildings to rubble._  
 __rube__ _n informal_ :two: A person who is not very intelligent or interested in culture. _Syn_ bumpkin, chawbacon, hayseed, hick, yahoo, yokel  
-__rubella__ _n_ A mild contagious eruptive disease caused by a virus and capable of producing congenital defects in infants born to mothers infected during the first three months of pregnancy. _Syn_ German measles, epidemic roseola, three-day measles _The parents were relieved when the doctor said that their son’s rubella would improve in a matter of days._  
+__rubella__ _n_ :two: /ruˈbɛl ə/ A mild contagious eruptive disease caused by a virus and capable of producing congenital defects in infants born to mothers infected during the first three months of pregnancy. _Syn_ German measles, epidemic roseola, three-day measles _The parents were relieved when the doctor said that their son’s rubella would improve in a matter of days._  
 __Rubenesque__ _adj_  
 __Rubicon__ _n_  
 __rubicund__ _adj_ :two: /ROO-bi-kuhnd/ Red or reddish. Inclined to a healthy reddish color often associated with outdoor life. _Syn_ ruddy, sanguine, florid _“Please your honor,” answered the drum-major, whose rubicund visage had lost all its color, “the fault is none of mine.”_  
@@ -15687,7 +15687,7 @@ __sapphire__ _n_ :mute:[sa~~p~~phire]
 __sappy__ _adj_ _Sappy smile._  
 __Saran wrap__ _n_ :two::dart: _(Cookery)_ A thin, clear, stretchy plastic sheeting used as a moisture-proof wrapping.  
 __Saratoga__ _n_  
-__sarcasm__ _n_ Sarcasm is using irony to mock something or to show contempt. Example: Oh, yeah, he is a great guy. A great guy who took the last slice of pizza.  
+__sarcasm__ _n_ /SAHR-kaz-um/ :two: Sarcasm refers to the use of words that mean one thing to communicate the exact opposite of that thing, especially to insult someone, to show irritation, or to be funny. Sarcasm is using irony to mock something or to show contempt. Example: Oh, yeah, he is a great guy. A great guy who took the last slice of pizza.  
 __sarcopenia__  
 __sarcophagi__ _n_  
 __sarcophagus__ _n_ :two: A stone coffin, often inscribed or decorated with sculpture.  
@@ -16034,6 +16034,7 @@ __sedition__ _n_ :three: Sedition is the illegal act of inciting people to resis
 __seditious__ _adj_ In opposition to a civil authority or government. _Syn_ insurgent, subversive _In an attempt to discourage rebellion, the dictator announced that anyone found in possession of seditious literature would be executed._  
 __sedulous__ _adj_ :four: Persevering and constant in effort or application. _Syn_ assiduous _Her sedulous efforts to learn French eventually enabled her to become almost fluent._  
 __see__ _n_ (sees) The official seat, center of authority, jurisdiction, or office of a bishop.  
+__seedbed__ _n_ __2__ The place where something develops: _the seedbed of discontent._  
 __seeded__ _v_ _2 fresh jalapenos, seeded and sliced into rings._  
 __seedier__  
 __seediness__  
@@ -16066,6 +16067,8 @@ __self-bailing__ _adj_ _Equipment includes self-bailing rafts with footcups._
 __self-centered__ _adj_ Engrossed in oneself and one’s own affairs; selfish. _Self-centered actions._  
 __self-conscious__ _adj_ :seven: __1__ Unduly aware of oneself as the object of the attention of others; embarrassed. :es: acomplejado; cohibido, tímido  
 __self-deprecating__  
+__self-destruct<sup>1</sup>__ _vi_ To destroy itself or oneself.  
+__self-destruct<sup>2</sup>__ _adj_ Causing something to self-destruct.  
 __self-effacing__ _adj_ :five::astonished: Tending to make oneself, one’s actions, etc, inconspicuous, esp because of humility or timidity; modest.  
 __self-esteem__ _n_  
 __self-explanatory__ _adj_  
@@ -16140,6 +16143,7 @@ __Serenity Prayer__
 __serf__ _n_ _A vagrant serf._  
 __serfdom__ _n_  
 __serial comma__ _n_ :two: Oxford comma  
+__serial__ _adj, n_ /ˈsɪər i əl/  
 __serigraph__ _n_  
 __seriocomic__ _adj_ Mixing serious and comic elements.  
 __serious condition__ _n_ _Critical to serious condition, fair condition._  
@@ -16431,7 +16435,7 @@ __showdown__ _n_ :nine::m: (showdowns) A final test or confrontation intended to
 __showhouse__  
 __showpiece__ _n_ :three::hammer:  
 __showplace__ _n_  
-__showroom__ _n_ :three::hammer:  
+__showroom__ _n_ :four::hammer:  
 __showrunner__ _n_ :six: (show runner) A person who has creative control over a broadcast series, as on television, and who manages its day-to-day operations.  
 __showstopper__ _n_ _informal_ :two::hammer:  
 __showstopping__ _adj_ :two::hammer: _A showstopping performance._  
@@ -16507,7 +16511,7 @@ __sideline<sup>2</sup>__ _vt_ :seven: (sidelined) To remove or keep from active 
 __sidereal__ _adj_ /saɪˈdɪər i əl/ __1__ Of, relating to, or involving the stars. __2__ Determined with reference to one or more stars: _the sidereal day._  
 __sidesaddle__ _n_ :camera: A saddle designed so that the rider sits with both legs on one side of the horse.  
 __sidesplitting__ _adj_ _A sidesplitting ceremony._  
-__sidestep__ _v_ :eight::hammer: (sidestepped)  
+__sidestep__ _v_ :nine::hammer: (sidestepped) _Syn_ evade, hedge, skirt, parry, fudge, circumvent, dodge, elude, duck, put off  
 __sideswiped__ _v_ _She died when her Cobalt sideswiped another car._  
 __sidewalk table__ _n_ _Sitting at a sidewalk table at the Café._  
 __sideways__ _n_ :two::hammer: _I’m not interested in getting sideways with anyone at Augusta_  
@@ -16586,6 +16590,7 @@ __single out__ _v_ :three: To select one from a group and treat differently.
 __single-handedly__ _adv_ :dart::two: Without assistance.  
 __single-jab__ _adj_ _Single-jab vaccine._  
 __single-minded__ _adj_ Steadfast; resolute. _Syn_ resolved  
+__singlehandledly__ _adv_ _Video shows Ukrainian armored vehicle singlehandedly stopping Russian assault._  
 __singlet__ _n_ :two: A collarless men’s undergarment for the upper part of the body. _Syn_ undershirt, vest _Its owner had taken off his tunic, and in white trousers and a thin, short-sleeved singlet prowled behind the chair-backs nursing his meager elbows._  
 __singletree__ _n_ The pivoted horizontal crossbar to which the harness traces of a draft animal are attached and which is in turn attached to a vehicle or an implement. Also called regionally _whiffletree_, _whippletree_. _Singletree plow._  
 __singsong<sup>1</sup>__ _adj_ _Singsong cantillation._  
@@ -17073,7 +17078,7 @@ __sojourn<sup>2</sup>__ _v_ :three::hammer:
 __sol__ _n_ __4__ A colloidal solution.  
 __solace__ _n_ :eight::mega: /ˈsɒl ɪs/ /SAH-lus/ /ˈsɒl ɪs/ Something that makes you feel better when you are sad or upset. Someone or something that gives a feeling of comfort to a person who is experiencing grief, sadness, or anxiety. _Her presence was a great solace to me during my time of need._ _We took solace in the knowledge that our ordeal would be over soon._  
 __solacing__ _v_ _Solacing her with kisses._  
-__solder__  
+__solder__ _adj, n_ :two::hammer:  
 __soldier of fortune__ _n_ :two: A person who seeks riches or pleasure through adventurous, often military exploits.  
 __soldier__ _v_ :two::hammer: (soldiers, soldiered)  
 __sole<sup>1</sup>__ _n_ :two: Lean flesh of any of several flatfish.  
@@ -17283,7 +17288,7 @@ __spin bike__ _n_ :camera:
 __spin<sup>1</sup>__ _n_ _But don’t believe the spin._  
 __spin<sup>2</sup>__ _v_ :two::hammer: _She spins the truth for whoever is paying her._  
 __spinal tap__  
-__spindle__ _n_ :four::hammer:  
+__spindle__ _n_ :five::hammer:  
 __spindly__  
 __spindrift__ _n_ Spray of water, snow, sand, etc., blown by the wind.  
 __spinel__ _n_ Spinel is the magnesium aluminium member of the larger spinel group of minerals. Its name comes from Latin “spina.” Balas ruby is an old name for a rose-tinted variety of spinel.  
@@ -18154,6 +18159,7 @@ __sustain__ _v_ :dart: _Clark and his passengers sustained minor injuries._
 __sustenance__ _n_ :three: __3__ Something that sustains something else; essential support: _researchers seeking financial sustenance._  
 __susurous__ _adj_ _The susurous swash of the sea._  
 __susurration__ _n_  
+__susurrus__  
 __sutler__ _n_ A supplier of victuals or supplies to an army. _Syn_ provisioner, victualer, victualler _He became a sutler on a major scale in the war between the States._  
 __sutra__ _n_  
 __suture__ _n_ :dart: _I took twenty sutures out of a kid’s boy this morning. Not a peep._  
@@ -18174,6 +18180,7 @@ __swami__ _n_ :two::hammer:
 __swamp<sup>1</sup>__ _n_ :three: __1a__ Permanently waterlogged ground that is usually overgrown and sometimes partly forested. __b__ _(as modifier): swamp fever._ __2__ A situation or place fraught with difficulties and imponderables: _a financial swamp._ _We feel swamped by the mounting pressure to succeed at any cost._  
 __swamp<sup>2</sup>__ _v_ :seven::hammer: (swamped) _Syn_ overwhelm _The team feels swamped with work._ _Supply had swamped demand._  
 __swampy__  
+__swan neck__ _n_  
 __swan song__  
 __swan<sup>1</sup>__ _n_ /swan/ __1__ Any of various long-necked large waterbirds, usually in white plumage. __2__ Someone or something of unusual beauty, grace, purity, etc.  
 __swan<sup>2</sup>__ _vi_ __1__ To move about in an idle, aimless way. __2__ [:scroll: From shortening of “I shall warrant” or “I swear on.”] To declare or to swear.  
@@ -18515,6 +18522,7 @@ __Tecnetium__
 __tedious__  
 __tedium__ _n_ :two::hammer: _The bitter tedium of his daily life._  
 __tee up__ _v_  
+__tee__ _n_ __1__ (Building) A pipe fitting in the form of a letter T, used to join three pipes.  
 __tee-shirt__ _n_ (tee shirt) Variant spellings of T-shirt. Tee-shirt remains far less popular than the original T-shirt. Plus, the Chicago Manual and other style guides usually recommend T-shirt.  
 __teeing up__ _v_  
 __teem__ _v_ :five: To be full of things; abound or swarm. _Syn_ pullulate, swarm _The street teemed with hundreds of policemen who questioned every potential witness._ _A jungle river teeming with crocodiles._ _A pond teeming with frogs and newts._  
@@ -18607,6 +18615,7 @@ __terpsichorean<sup>2</sup>__ _n_ A dancer.
 __terra cotta__ _n_ :pencil2:  
 __terrace<sup>1</sup>__ _n_ A level shelf of land interrupting a declivity (with steep slopes above and below) :camera: _Rice terrace._  
 __terrace<sup>2</sup>__ _v_ Make into terraces as for cultivation. _The Incas terraced their mountainous land._  
+__terraform__ _v_  
 __terrapin__  
 __terrazzo__  
 __terrestrial<sup>1</sup>__ _adj_  
@@ -18661,6 +18670,7 @@ __the day’s full of spiders__
 __the final frontier__ _n_ Outer space, especially from the perspective of space colonization. _There is a turf war brewing in the final frontier._  
 __the final straw__  
 __the haves and the have nots__  
+__the mains__ _n pl_ _British_ The system of pipes or wires for electricity, gas, or water.  
 __The More You Know__ _n_  
 __the name of the game__  
 __the order of the day__  
@@ -18681,8 +18691,8 @@ __thereto__ _adv_ _Pushed thereto by the nobles of his party._
 __thermistor__ _n_ :two::hammer:  
 __thermos__ _n_ :two: (thermoses) A vacuum bottle or similar insulated container, used for keeping liquids hot or cold. Also called _thermos bottle_. _A thermos._  
 __thermostats__  
-__thespian<sup>1</sup>__ _adj_ :two::hammer:  
-__thespian<sup>2</sup>__ _n_  
+__thespian<sup>1</sup>__ _n_ :two: /THES-pee-uhn/ [:scroll: After Thespis (c. 6th century BCE), Greek poet, who is considered the father of Greek tragedy] An actor.  
+__thespian<sup>2</sup>__ _adj_ :three: Relating to drama.  
 __thew__ _n_  
 __thick accent__ _n_ Heavy foreign or regional pronunciation. _Arnold’s accent is getting thicker._  
 __thicket__ _n_ :eight::hammer: (thickets) _The thicket of racist laws._  
@@ -18925,7 +18935,7 @@ __tix__ _n pl_ _informal_ :two: Tickets.
 __tixker__  
 __tizzy__  
 __tkt__ _n_ Ticket.  
-__tmesis__ _n_ The insertion of a word or part of a word in another word. Examples: another = “a whole nother” absolutely = “abso-freakin’-lutely” somewhere = “some bloody where”  
+__tmesis__ _n_ :two: The insertion of a word or part of a word in another word. Examples: another = “a whole nother” absolutely = “abso-freakin’-lutely” somewhere = “some bloody where”  
 __to be at sea__  
 __to be in the clear__  
 __to be unheard of__  
@@ -19118,6 +19128,8 @@ __tractography__ _n_
 __tractor trailer__ _n_ :two::hammer::camera: (tractor-trailer)  
 __tractor__ _n_  
 __trade paperback__  
+__trade union__ _n_ :dart: :es: sindicato  
+__trade war__  
 __trade__ _n_  
 __trade-off__ _n_ :five::hammer: (tradeoff, trade-offs) _She has to make trade-offs._  
 __trademarked__ _adj_ (of goods and merchandise) Labeled with proprietary (and legally registered) identification guaranteeing exclusive use. _Trademarked goods._  
@@ -19171,6 +19183,7 @@ __transsexual__ _adj, n_ (transexual) Note: The term “transgender” is more c
 __transtentorial__ _adj_ Passing across or through either the tentorial notch or tentorium cerebelli.  
 __transvestite__ _n_  
 __trap question__ _n_ :astonished: _That’s a trap question._  
+__trap__ _n_ __4__ A device for sealing a passage against the escape of gases, especially a U-shaped or S-shaped bend in a drainpipe that prevents the return flow of sewer gas by means of a water barrier. _The trap prevents bad smells coming up from the drains._  
 __trapdoor__ _n_  
 __trappings__ _n pl_ :seven::hammer: _He has all the trappings of a New York insider._ _The stallions trappings._  
 __traps__ _n_  

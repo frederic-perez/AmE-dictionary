@@ -98,31 +98,6 @@ __livelihood__ _n_
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
 __Machiavellianism__ _n_ /mak-ee-uh-VEL-ee-uh-niz-uhm/ The use of unscrupulous means, cunning, and deceit in pursuit of power, especially in politics.  
 __malaria__ _n_ /məˈlɛər i ə/  
-__readily__ _adv_  
-__ring__ _v_ _Ring the emergency service immediately._  
-__rubella__ _n_ /ruˈbɛl ə/  
-__sarcasm__ _n_ /SAHR-kaz-um/ Sarcasm refers to the use of words that mean one thing to communicate the exact opposite of that thing, especially to insult someone, to show irritation, or to be funny.  
-__seedbed__ _n_ __2__ The place where something develops: _the seedbed of discontent._  
-__self-destruct<sup>1</sup>__ _vi_ To destroy itself or oneself.  
-__self-destruct<sup>2</sup>__ _adj_ Causing something to self-destruct.  
-__serial__ _adj, n_ /ˈsɪər i əl/  
-__showdown__ _n_  
-__showroom__ _n_  
-__sidestep__ _v_ _Syn_ evade, hedge, skirt, parry, fudge, circumvent, dodge, elude, duck, put off  
-__singlehandledly__ _adv_ _Video shows Ukrainian armored vehicle singlehandedly stopping Russian assault._  
-__solder__ _adj, n_  
-__spindle__ _n_  
-__susurrus__  
-__swan neck__ _n_  
-__tee__ _n_ __1__ (Building) A pipe fitting in the form of a letter T, used to join three pipes.  
-__terraform__ _v_  
-__the mains__ _n pl_ _British_ The system of pipes or wires for electricity, gas, or water.  
-__thespian<sup>1</sup>__ _n_ /THES-pee-uhn/ [:scroll: After Thespis (c. 6th century BCE), Greek poet, who is considered the father of Greek tragedy] An actor.  
-__thespian<sup>2</sup>__ _adj_ Relating to drama.  
-__tmesis__ _n_  
-__trade union__ _n_ :dart: :es: sindicato  
-__trade war__  
-__trap__ _n_ __4__ A device for sealing a passage against the escape of gases, especially a U-shaped or S-shaped bend in a drainpipe that prevents the return flow of sewer gas by means of a water barrier. _The trap prevents bad smells coming up from the drains._  
 __tripledemic__ _n_ The simultaneous outbreaks of three infectious diseases: COVID-19, influenza, and respiratory syncytial virus (RSV).  
 __troublemaker__ _n_ /ˈtrʌbəlˌmeɪkə/  
 __turnover__ _n_  
