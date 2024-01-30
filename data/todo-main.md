@@ -1,5 +1,6 @@
 __adduce__ _vt_  
 __all-or-nothing__ _adj_  
+__almanac__ _n_  
 __amp up__ _v_  
 __amyloidosis__ _n_ /ˌæmɪlɔɪˈdəʊsɪs/  
 __anecdata__ _n_  
@@ -15,7 +16,9 @@ __bedsit__ _n_ :es: habitación amueblada; estudio amueblado
 __blackhead__ _n_  
 __blitzkrieg__ _n_  
 __blockade__ _n_ /blɒˈkeɪd/  
+__blowback__ _n_  
 __blowtorch__ _n_  
+__boatload__ _n_  
 __bogus__ _adj_ /ˈboʊ gəs/  
 __breach__ _n_ /breach /briːtʃ/  
 __bubble__ _v_ _If it bubbles you have a leak._  
@@ -43,6 +46,8 @@ __cynophilia__ _n_ /ˌsɪnəʊˈfɪlɪə/ A love of dogs.
 __darn__ _adj, adv, n_ /dɑːn/ A euphemistic word for damn.  
 __de rigueur__ _adj_  
 __decor__ _n_  
+__deep-routed__ _adj_  
+__deliver__ _vt_ __8__ To give forth or produce.  
 __denial__ _n_ _Despite denials, blah blah blah._  
 __despite__ _n, prep_ /dɪˈspaɪt/  
 __detour__ _n_  
@@ -58,18 +63,23 @@ __Dunning-Kruger effect__ _n_ A hypothetical cognitive bias stating that people 
 __electric shock__ _n_  
 __entertain__ _vt_ __3a__ To consider; contemplate: _entertain an idea._  
 __epicure__ _n_ /EP-i-kyoor/ [:scroll: After the ancient Greek philosopher Epicurus (341-270 BCE), who advocated simple pleasures and a calm mind (ataraxia). With time, his teachings were distorted as focusing on sensual pleasures.] __1__ A person with refined taste, especially in food or wine. __2__ A person devoted to sensual pleasure.  
+__equate__ _v_ /ɪˈkweɪt/  
 __evict__ _vt_ /ɪˈvɪkt/  
 __ex-con__ _n informal_ A former prisoner.  
 __exacerbation__ _n_  
 __expletive__ _adj, n_  
 __explicit__ _adj_ __3b__ Describing or portraying nudity or sexual activity in graphic detail. _AI-generated explicit images of Taylor Swift surfaced on X._  
 __fiddle__ _v_  
+__figurehead__ _n_ __1__ A person nominally having a prominent position, but no real authority.  
+__fishing line__ _n_ (Angling) A line of nylon or silk, attached to a hook, used for catching fish. :es: sedal  
 __fishmonger__ _n_ _Chiefly British_ (fishwife)  
 __flatshare__ _n_ An arrangement in which two or more people share a flat (apartment building).  
 __flue__ _n_ __1__ (Building) A shaft, tube, or pipe, esp as used in a chimney, to carry off smoke, gas, etc.  
 __foible__ _n_ /ˈfɔɪbəl/  
+__friendly__ _n_ /ˈfrɛndlɪ/ (friendly match)  
 __furbelow__ _n_ A strip of pleated material used as a decoration or a trim. _Syn_ ruffle, flounce, frill  
 __godsend__ _n_  
+__gravity__ _n_ __2__ Grave consequence; seriousness or importance: _They are still quite unaware of the gravity of their problems._  
 __gridlock__ _n_  
 __grievance__ _n_ :two::hammer: /ˈgri vəns/  
 __gripe__ _n_ __1__ _informal_ A complaint.  
@@ -81,6 +91,8 @@ __harangue__ _n_ /huh-RANG/ A harangue is a forceful or angry speech or piece of
 __hardline__ _adj_  
 __heliotrope__ _n_  
 __hose clamp__ _n_  
+__hostage__ _n_ /ˈhɒs tɪdʒ/ :es: rehén  
+__identical__ _adj_ /aɪˈdɛntɪkəl/  
 __inculcate__ _v_ To teach (others) by frequent instruction or repetition. _Syn_ infuse, instill  
 __injunction__ _n_  
 __interpunct__ _n_  
@@ -98,6 +110,16 @@ __livelihood__ _n_
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
 __Machiavellianism__ _n_ /mak-ee-uh-VEL-ee-uh-niz-uhm/ The use of unscrupulous means, cunning, and deceit in pursuit of power, especially in politics.  
 __malaria__ _n_ /məˈlɛər i ə/  
+__rest__ _n_ __13__ (Billiards & Snooker) Any of various special poles used as supports for the cue in shots that cannot be made using the hand as a support.  
+__rigorous__ _adj_  
+__sea gypsy__ _n_  
+__self-doubt__ _n_ A lack of faith or confidence in oneself.  
+__shortcoming__ _n_  
+__skill set__ _n_ A set of skills, esp. a collection of skills and abilities that can be applied to a professional or creative endeavor.  
+__snooker__ _n_ __2__ A shot in which the cue ball is left in a position such that another ball blocks the object ball. The opponent is then usually forced to play the cue ball off a cushion.  
+__spider__ _n_ __9__ (Billiards & Snooker) A rest having long legs, used to raise the cue above the level of the height of the ball.  
+__standoff__ _n_  
+__to that extent__ _adv_ To the degree or extent that.  
 __tripledemic__ _n_ The simultaneous outbreaks of three infectious diseases: COVID-19, influenza, and respiratory syncytial virus (RSV).  
 __troublemaker__ _n_ /ˈtrʌbəlˌmeɪkə/  
 __turnover__ _n_  
@@ -106,6 +128,7 @@ __ultramarine__ _adj, n_
 __umbrella__ _n_ /ʌmˈbrɛlə/ _A national umbrella organization._  
 __unfettered__ _adj_ /un-FET-erd/  
 __unfold__ _v_  
+__uproar__ _n_  
 __vagrant__ _n_ One who wanders from place to place without a permanent home or a means of livelihood. _Syn_ drifter, vagabond, floater  
 __vivacious__ _adj_ :mega: /vuh-VAY-shus/ Someone or something described as vivacious is happy and lively in an appealing way.  
 __wacko__ _n_ _slang_ A person regarded as eccentric or irrational.  
@@ -117,6 +140,7 @@ __whip up__
 __whiplash__ _n_ :two::hammer:  
 __white-collar__ _adj_ Of, relating to, or constituting the class of salaried employees whose duties do not call for the wearing of work clothes or protective clothing.  
 __whitlow__ _n_ A purulent infection at the end of a finger or toe in the area surrounding the nail. :astonished: _Syn_ felon  
+__wholesome__ _adj_  
 __wire wool__ _n_ A mass of woven steel fibers used as an abrasive. _Syn_ steel wool  
 __wisteria__ _n_  
 __wistfully__ _adv_  
@@ -135,6 +159,7 @@ __writ__ _n_
 __write-up__ _n_  
 __wrongdoing__ _n_  
 __wrung__ _v_ _They have wrung their hands._  
+__yacht__ _n_ /yɒt/  
 __yammering__  
 __yawp__ _n_ /jɔːp/ _A pure yawp of joy._  
 __yellow jacket__ _n_ __1__ _slang_ A barbiturate (trade name Nembutal) used as a sedative and hypnotic and anti-spasmodic. __2__ Any of several social wasps of the genus Vespa, having yellow markings on the body.  
