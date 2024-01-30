@@ -98,31 +98,6 @@ __in vain__
 __in/within living memory__ In a recent enough time as to be remembered by people who are alive today. (Usually used in negative statements.) _There hasn’t been a blizzard like this in living memory!_ _The worst heart care crisis in living memory._  
 __it remains to be seen__  
 __jamming__ _slang_ Awesome; really exciting. _Man, that was an absolutely jamming party!_  
-__just what the doctor ordered__  
-__keep one eye on (someone or something)__  
-__lag__ __1__ _v_ To move or happen at a slower pace than someone or something else. _Google still dominates search with 92% market share, while Bing lags at 3.37%._  
-__learn (something) the hard way__  
-__leg work__ The physical work accompanying a task. _I don’t mind making the phone calls if you do the leg work._  
-__let it/(one) be__ :dart: To not interact with or bother someone or interfere with something; to leave someone or something alone.  
-__let’s make some noise__ Idiom that means to create a lot of excitement or enthusiasm, often associated with rallying a crowd, expressing strong support, or making a big impact. It’s usually used in situations where you want to pump people up and get them excited about something.  
-__line up__  
-__loaf around__ To waste time being idle; to spend time doing little or nothing.  
-__look (one) in the eye(s)__ To make eye contact with one, typically in a way that is confident or without shame. _Look me in the eye and tell me you’re not lying._  
-__lose face__ To lose prestige or respect.  
-__lucky loser__  
-__make a fuss__ To be a nuisance or cause a disturbance by complaining, arguing, etc. (about something).  
-__make the cut__ __2__ By extension, to meet the requirements necessary for an application to be successful or to be selected from a group of candidates.  
-__manosphere__  
-__mess with (someone or something)__  
-__mission accomplished__  
-__new kid on the block__  
-__on fire__ __3__ Performing very enthusiastically, adeptly, or successfully.  
-__on the verge of (doing) (something)__  
-__quibble over (something)__  
-__rack up__  
-__rainbows and unicorns__  
-__raise (one’s) eyebrows__  
-__raise the alarm__ __2__ To alert other people about something dangerous, risky, or troublesome.  
 __ramp up__  
 __refer someone to someone or something__ To direct someone to someone or something; to send someone to someone or something.  
 __refer to (someone or something)__  
@@ -198,31 +173,6 @@ __strapped for cash__ Without any or very much money at the moment; broke, espec
 __street urchin__ A poor child who spends most of their time outside, often due to living on the streets.  
 __strike a deal__ :two: To successfully achieve a deal or agreement, especially regarding an acceptable price or exchange for something.  
 __studette__ The female version of a stud. A girl that can get any guy she wants, is incredibly good looking, has an amazing personality and is overall awesome at life.  
-__suck it up__ :dart:  
-__suck up to (one)__  
-__sure thing__  
-__swag__ :two::hammer: _slang_ __1__ _n_ Stolen goods or money; loot. _Come on, show us the swag you scored from the jewelry shop!_  
-__swallow (one’s) pride__  
-__swamped__ :dart::two: Extremely busy, to the point of being overwhelmed, overburdened, or overworked.  
-__swear by (someone or something)__  
-__sweatshop__ __1__ A factory or workshop in which employees are forced to do very hard work, especially the manufacturing of clothing, for long hours with very low wages. :dart: Can be used facetiously to describe generally unpleasant or undesirable work conditions.  
-__sweep in (to some place)__ To dash or run into some place.  
-__swipe back__ Swipe back is a term used in the context of dating or social media apps. It means to go back to a profile that you had previously “swiped left” on, or passed up, and give it a second look.  
-__switch-heater__ Switch-heater in the novels by James Ellroy refers to a device used to ignite a cigarette.  
-__switch-hitter__ __2__ By extension, someone who is bisexual.  
-__tacky__ :two::hammer:  
-__tail__ _n_  
-__take a seat__  
-__take forever__ :dart:  
-__tall order__  
-__the ball is in (one’s) court__  
-__the party is over__  
-__the whole shebang__  
-__under scrutiny__  
-__wheel man__ The driver of an escape vehicle during some kind of crime, especially a robbery. Sometimes spelled as a single word.  
-__when the rubber hits the road__ The point at which someone’s or something’s efforts, resolve, or viability are put to the test; the point at which things become truly or meaningfully challenging.  
-__where (one) stands__  
-__whipcrack__ “Whipcrack” is a term that James Ellroy uses in his novels to describe a fast, sharp, and sudden action or event. It’s used to evoke a sense of speed, intensity, and urgency.  
 __whipout__ It’s another slang term that Ellroy uses to describe something that happens quickly and violently. In his books, it can mean a sudden attack, a fast getaway, or even just a quick, sharp response to something.  
 __why on earth__ :two: _proverb_ What one person may consider worthless could be highly prized or valued by someone else.  
 __win out__ To defeat someone or something; to prevail.  
