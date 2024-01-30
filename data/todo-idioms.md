@@ -3,7 +3,9 @@ __a dead clock is correct twice a day__ Even people who are usually wrong can be
 __ahead of (someone or something)__  
 __all the better__ Even better.  
 __as a last resort__ As a final option, usually when preferable ones have failed.  
+__as far as (someone or something) is concerned__  
 __at hand__  
+__back in the saddle__  
 __back off__  
 __back to back__  
 __be busted__  
@@ -13,11 +15,17 @@ __bear in mind (that)__
 __brainchild__  
 __by far__ By a large amount; by a lot.  
 __by the skin of (one’s) teeth__ :two: Barely. Often used to describe something that almost didn’t happen.  
+__cat-and-mouse game__  
+__catch up__  
 __catch__ __13__ _n_ A problem, drawback, or hidden detriment, often one that is initially concealed as a means of entrapment.  
+__cause a stir__ To incite trouble or excitement.  
 __come (a)round__ __6__ To change one’s position or view on something. _He’ll never come around to our side now that you’ve insulted him!_  
 __come to light__ To be revealed or exposed.  
 __cookie cutter__ __2__ _adj_ Identical to other things. In this usage, the phrase is typically hyphenated. _I want a unique house, not one of those cookie-cutter boxes that looks like every other one on the block._  
+__crash course (in something)__  
+__create an uproar__ To create a noisy or chaotic situation; to make a scene.  
 __cut (through) (the) red tape__  
+__cut back on (something)__  
 __dark horse__  
 __die hard__ _The main character, John McClane, is determined to “die hard” — or fight to the end — in order to save his wife and defeat the terrorists who have taken over the building._  
 __dislodge (someone or something) from (someone or something)__ To free someone or something that is stuck.  
@@ -37,13 +45,18 @@ __floor (one)__ To cause one a great deal of shock, surprise, or disbelief.
 __follow suit__  
 __for better or (for) worse__ Whether something is good or bad.  
 __for better or for worse__  
+__for days on end__ (for weeks on end)  
 __for its own sake__  
 __freak out__  
+__friendly reminder__ “Friendly reminder” is an idiomatic expression that means “a gentle reminder” or “a polite reminder.” It’s a way of reminding someone about something in a non-confrontational or friendly way.  
 __fuss about__  
 __game-changer__  
+__get (one) started__  
 __get anywhere__ To make progress.  
 __get nowhere__  
+__get through__  
 __girl grip__ _Girl grip_ is a slang phrase that refers to holding multiple items in one hand by grasping them between fingers. Typically, the phrase girl grip refers to a person using a clawed hand to hold multiple items at once. For example, a person may hold a paper cup using primarily their thumb and pointer finger while holding a smartphone, keys, receipt, and wallet with their remaining fingers on the same hand.  
+__give (one) a shout__  
 __give it a whirl__ To try something (often for the first time as a means of forming an opinion about it).  
 __give notice__  
 __give someone a run for their money__  
@@ -69,6 +82,7 @@ __hot tip__
 __house cooling party__ A party thrown to commemorate when someone leaves an apartment, flat, or house.  
 __however much__ No matter how much.  
 __hustle (one’s) bustle__ To increase one’s pace or sense of urgency; to hurry up; to get moving quickly. _We’d better hustle our bustle if we want to get to the movie theater on time!_  
+__I think not__  
 __I’m all ears__  
 __if it ain’t broke, don’t fix it__  
 __if you will__  
@@ -78,6 +92,7 @@ __in a nutshell__
 __in arrears__ Behind or overdue, often because one has not made a payment as scheduled.  
 __in denial__ Unable or unwilling to believe or acknowledge something as true.  
 __in full swing__ :two::hammer:  
+__in the game__  
 __in the interim__ In the time before something happens; in the meantime.  
 __in vain__  
 __in/within living memory__ In a recent enough time as to be remembered by people who are alive today. (Usually used in negative statements.) _There hasn’t been a blizzard like this in living memory!_ _The worst heart care crisis in living memory._  
@@ -96,8 +111,13 @@ __look (one) in the eye(s)__ To make eye contact with one, typically in a way th
 __lose face__ To lose prestige or respect.  
 __lucky loser__  
 __make a fuss__ To be a nuisance or cause a disturbance by complaining, arguing, etc. (about something).  
+__make the cut__ __2__ By extension, to meet the requirements necessary for an application to be successful or to be selected from a group of candidates.  
 __manosphere__  
 __mess with (someone or something)__  
+__mission accomplished__  
+__new kid on the block__  
+__on fire__ __3__ Performing very enthusiastically, adeptly, or successfully.  
+__on the verge of (doing) (something)__  
 __quibble over (something)__  
 __rack up__  
 __rainbows and unicorns__  
@@ -129,8 +149,10 @@ __screw up__ :dart: __5__ _n_ A huge mistake, blunder, or mishandling. In this u
 __scruff(y)__  
 __scuttlebutt__ _n_ News; information; gossip. (The legend of origin is that the scuttlebutt was a butt [= cask, keg] of drinking water located near a scuttle [= hatch]. Sailors gathered there to exchange gossip.)  
 __settle down__ _These gastrointestinal effects tended to settle down over the five weeks._  
+__shallow pockets__ “Shallow pockets” is an idiomatic expression that means “limited financial resources” or “lack of money.” It’s a way of describing someone or something that doesn’t have much money or financial resources available.  
 __shed (some) light on (something)__  
 __shed light on__  
+__sign me up__ “Sign me up” is an idiomatic expression that means “count me in” or “include me in this activity or event.” It’s a way of expressing enthusiasm or interest in something, and a willingness to participate.  
 __simply put__  
 __Sisyphean task__ A task that can never be completed or one that is repetitive and futile, much like the Greek mythological character Sisyphus.  
 __sit shiva__ _Judaism_ To mourn for a period of seven days following the funeral of a close relative. _To sit shiva for the dead._  
@@ -170,7 +192,7 @@ __step down__
 __step in__ To enter into some position, activity, or situation to intervene or improve it.  
 __stick with (someone or something)__  
 __stir the pot__ To exacerbate a tense or otherwise difficult situation.  
-__stop (dead) in (one’s) tracks__  
+__stop (dead) in (one’s) tracks__ :two::hammer:  
 __stop short__  
 __strapped for cash__ Without any or very much money at the moment; broke, especially temporarily.  
 __street urchin__ A poor child who spends most of their time outside, often due to living on the streets.  
@@ -191,9 +213,11 @@ __switch-hitter__ __2__ By extension, someone who is bisexual.
 __tacky__ :two::hammer:  
 __tail__ _n_  
 __take a seat__  
+__take forever__ :dart:  
 __tall order__  
 __the ball is in (one’s) court__  
 __the party is over__  
+__the whole shebang__  
 __under scrutiny__  
 __wheel man__ The driver of an escape vehicle during some kind of crime, especially a robbery. Sometimes spelled as a single word.  
 __when the rubber hits the road__ The point at which someone’s or something’s efforts, resolve, or viability are put to the test; the point at which things become truly or meaningfully challenging.  
