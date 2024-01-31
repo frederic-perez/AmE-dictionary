@@ -1,24 +1,31 @@
 __(I) told you (so)__ I warned you that this would happen; I told you things would turn out this way.  
+__15-minute city__ A _15-minute city_ is a city in which a person can reach any necessity within a 15-minute walk or bicycle ride.  
 __a dead clock is correct twice a day__ Even people who are usually wrong can be right sometimes, even if just by accident.  
 __ahead of (someone or something)__  
 __all the better__ Even better.  
 __as a last resort__ As a final option, usually when preferable ones have failed.  
 __as far as (someone or something) is concerned__  
 __at hand__  
+__babygirl__ _slang_ A term of endearment that refers to attractive older male celebrities or fictional male characters. Babygirl is especially likely to be used to refer to a male that is seen as vulnerable, sensitive, cute, or submissive.  
 __back in the saddle__  
 __back off__  
 __back to back__  
+__barrel of laughs__ Fun, funny, and pleasant. Often used sarcastically to indicate that someone is unpleasant or not enjoyable to be around.  
 __be busted__  
 __be in the hunt__  
 __Beam me up, Scotty__ Get me out of here! Take me away!  
 __bear in mind (that)__  
+__birdbrain__  
 __brainchild__  
 __by far__ By a large amount; by a lot.  
+__by hell or high water__ By any means necessary; regardless of any difficulty, problem, or obstacle. _By hell or high water, I am going to make it to your wedding!_  
 __by the skin of (one’s) teeth__ :two: Barely. Often used to describe something that almost didn’t happen.  
 __cat-and-mouse game__  
 __catch up__  
 __catch__ __13__ _n_ A problem, drawback, or hidden detriment, often one that is initially concealed as a means of entrapment.  
 __cause a stir__ To incite trouble or excitement.  
+__chops__ _informal_ One’s skill in some area. _Have you ever heard her play before? She’s got some serious chops on the piano._  
+__circle the drain__ To be in a state of severe deterioration such that one is approaching inevitable ruin, failure, or death. Usually used in the continuous form. _The company’s closure was inevitable, as it has been circling the drain for the last six months._  
 __come (a)round__ __6__ To change one’s position or view on something. _He’ll never come around to our side now that you’ve insulted him!_  
 __come to light__ To be revealed or exposed.  
 __cookie cutter__ __2__ _adj_ Identical to other things. In this usage, the phrase is typically hyphenated. _I want a unique house, not one of those cookie-cutter boxes that looks like every other one on the block._  
@@ -33,6 +40,7 @@ __double down__
 __EGOT__ An abbreviation for “Emmy, Grammy, Oscar, Tony,” referring to the rare feat of winning the major awards in television, music, film, and theater. _Elton John joins elite EGOT ranks with Emmy win. John is only the 19th person to have achieved EGOT status (Whoopi Goldberg, Viola Davis, and Mel Brooks are some of the others)._  
 __end (something) on a high note__  
 __enough is enough__  
+__enshittification__ _slang_ The gradual degradation of an online platform or service’s functionality, as part of a cycle in which the platform or service first offers benefits to users to attract them, then pursues more and more profits at the expense of users.  
 __failure is not an option__  
 __far and wide__  
 __fast track__  
@@ -40,6 +48,7 @@ __faux pas__
 __ferret out__ To discover or retrieve something, usually with careful effort. A noun or pronoun can be used between “ferret” and “out.” _Now that I’m a successful actress, I’m worried about what the media will ferret out about my tawdry past._  
 __fill up__  
 __finagle__  
+__five o’clock shadow__  
 __flat-out__  
 __floor (one)__ To cause one a great deal of shock, surprise, or disbelief.  
 __follow suit__  
@@ -57,6 +66,7 @@ __get nowhere__
 __get through__  
 __girl grip__ _Girl grip_ is a slang phrase that refers to holding multiple items in one hand by grasping them between fingers. Typically, the phrase girl grip refers to a person using a clawed hand to hold multiple items at once. For example, a person may hold a paper cup using primarily their thumb and pointer finger while holding a smartphone, keys, receipt, and wallet with their remaining fingers on the same hand.  
 __give (one) a shout__  
+__give (someone) the word__ :dart: To give an order, make a request, or expressly state a desire for someone to do something or undertake some task. _We’re ready to begin writing the report whenever you are, so just give us the word, and we’ll get going._  
 __give it a whirl__ To try something (often for the first time as a means of forming an opinion about it).  
 __give notice__  
 __give someone a run for their money__  
@@ -68,11 +78,19 @@ __go wrong__
 __greige__ A neutral color that looks like a mix of gray and beige.  
 __grind on__ :dart: _The conflict grinds on._  
 __gripe about (someone or something)__  
+__gully washer__ An extremely heavy rainstorm that usually lasts a short amount of time.  
+__gut-wrenching__ Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one’s feelings. _What a gut-wrenching loss for the young athlete, who poured her heart and soul into this match._  
+__gyatt__ A slang exclamation of surprise or excitement. Gyatt is most commonly used as an exclamation in reaction to seeing a large butt (that is, the buttocks) and may be used as a noun to mean a large butt.  
+__gym bunny__ Someone who is obsessively preoccupied with maintaining or improving their physique and thus spends a large amount of time at the gym to do so. _After recovering from his surgery, John spent a lot of time at the gym getting his body back into shape. Now he’s turned into a total gym bunny._  
 __happy medium__ A healthy balance between two extremes.  
 __hassle (someone) about (something)__ To bother or nag someone about something. _Ugh, quit hassling me about that, will you?_  
 __have (one’s) hands full__ :dart: To be busy or completely occupied with dealing with something.  
+__have (something) to do__ To have some task or action that one must complete or undertake.  
 __have a go (at someone or something)__  
+__heavy-footed__ Clumsy, ponderous, or lumbering in gait or tread. _The team’s star striker deftly navigated the ball past the heavy-footed defenseman._  
 __hoist the white flag__ :dart:  
+__holy crickets__ An exclamation of surprise, shock, or astonishment. _Holy crickets, the bill for that dinner was nearly $200!_  
+__home, James(, and don’t spare the horses)__ A humorous directive for a driver to take one home directly and without delay.  
 __honey-do list__  
 __honey-mouthed__Smooth, soothing, and sweet in voice, especially in a persuasive or seductive manner or intent.  
 __horse-trade__ To negotiate, trade, or bargain in a shrewd, judicious manner. Primarily heard in US.  
@@ -98,6 +116,7 @@ __in vain__
 __in/within living memory__ In a recent enough time as to be remembered by people who are alive today. (Usually used in negative statements.) _There hasn’t been a blizzard like this in living memory!_ _The worst heart care crisis in living memory._  
 __it remains to be seen__  
 __jamming__ _slang_ Awesome; really exciting. _Man, that was an absolutely jamming party!_  
+__new normal__ A previously unusual occurrence that has become commonplace.  
 __ramp up__  
 __refer someone to someone or something__ To direct someone to someone or something; to send someone to someone or something.  
 __refer to (someone or something)__  
@@ -127,6 +146,7 @@ __settle down__ _These gastrointestinal effects tended to settle down over the f
 __shallow pockets__ “Shallow pockets” is an idiomatic expression that means “limited financial resources” or “lack of money.” It’s a way of describing someone or something that doesn’t have much money or financial resources available.  
 __shed (some) light on (something)__  
 __shed light on__  
+__shoo off__  
 __sign me up__ “Sign me up” is an idiomatic expression that means “count me in” or “include me in this activity or event.” It’s a way of expressing enthusiasm or interest in something, and a willingness to participate.  
 __simply put__  
 __Sisyphean task__ A task that can never be completed or one that is repetitive and futile, much like the Greek mythological character Sisyphus.  
@@ -136,6 +156,7 @@ __six ways to Sunday__ _adj_ Askew, at an angle.
 __skate__  
 __skeevy__ :two: Offensively or unscrupulously repellant, repugnant, or disreputable.  
 __skeleton in the/(one’s) closet__ An embarrassing or shameful secret.  
+__skibidi__ _slang_ A nonsense word or sound without a specific meaning.  
 __skin flute__ _vulgar, slang_ A penis.  
 __skip off__ To leave or depart hastily so as to avoid something or escape with something.  
 __sky-high__  
@@ -173,6 +194,9 @@ __strapped for cash__ Without any or very much money at the moment; broke, espec
 __street urchin__ A poor child who spends most of their time outside, often due to living on the streets.  
 __strike a deal__ :two: To successfully achieve a deal or agreement, especially regarding an acceptable price or exchange for something.  
 __studette__ The female version of a stud. A girl that can get any guy she wants, is incredibly good looking, has an amazing personality and is overall awesome at life.  
+__the bitter end__  
+__the half of it__  
+__tush__ _slang_ One’s buttocks. _The _tush push_ is a play in American football in which the quarterback receives the ball and is immediately pushed from behind by other players._  
 __whipout__ It’s another slang term that Ellroy uses to describe something that happens quickly and violently. In his books, it can mean a sudden attack, a fast getaway, or even just a quick, sharp response to something.  
 __why on earth__ :two: _proverb_ What one person may consider worthless could be highly prized or valued by someone else.  
 __win out__ To defeat someone or something; to prevail.  
@@ -182,6 +206,7 @@ __wise up__
 __wishful thinking__ The act of thinking that or hoping that something will happen or be the case when in reality it is unlikely.  
 __wit a vengeance__ _Generative AI left the lab with a vengeance._  
 __with a bang__ :three::hammer:  
+__with a heavy hand__ __1__ In an excessive, authoritarian, or oppressive way or manner. _The police dispersed the protesters with a heavy hand._  
 __with a vengeance__ _Die Hard with a Vengeance._  
 __with flying colors__  
 __within reason__  
