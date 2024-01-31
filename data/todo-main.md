@@ -48,6 +48,7 @@ __de rigueur__ _adj_
 __decor__ _n_  
 __deep-routed__ _adj_  
 __deliver__ _vt_ __8__ To give forth or produce.  
+__demystify__ _vt_  
 __denial__ _n_ _Despite denials, blah blah blah._  
 __despite__ _n, prep_ /dɪˈspaɪt/  
 __detour__ _n_  
@@ -69,6 +70,7 @@ __ex-con__ _n informal_ A former prisoner.
 __exacerbation__ _n_  
 __expletive__ _adj, n_  
 __explicit__ _adj_ __3b__ Describing or portraying nudity or sexual activity in graphic detail. _AI-generated explicit images of Taylor Swift surfaced on X._  
+__fallow land__ _n_  
 __fiddle__ _v_  
 __figurehead__ _n_ __1__ A person nominally having a prominent position, but no real authority.  
 __fishing line__ _n_ (Angling) A line of nylon or silk, attached to a hook, used for catching fish. :es: sedal  
@@ -93,12 +95,14 @@ __heliotrope__ _n_
 __hose clamp__ _n_  
 __hostage__ _n_ /ˈhɒs tɪdʒ/ :es: rehén  
 __identical__ _adj_ /aɪˈdɛntɪkəl/  
+__imbecile__ _adj, n_  
 __inculcate__ _v_ To teach (others) by frequent instruction or repetition. _Syn_ infuse, instill  
 __injunction__ _n_  
 __interpunct__ _n_  
 __intervention__ _n_  
 __Ivory Coast__ _n_  
 __kindred__ _adj_ /KIN-drud/  
+__knapsack__ _n_  
 __landlady__ _n_  
 __lapse__ _v_  
 __largess__ _n_  
@@ -110,16 +114,33 @@ __livelihood__ _n_
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
 __Machiavellianism__ _n_ /mak-ee-uh-VEL-ee-uh-niz-uhm/ The use of unscrupulous means, cunning, and deceit in pursuit of power, especially in politics.  
 __malaria__ _n_ /məˈlɛər i ə/  
+__mugging__ _n_ An assault upon a person especially with the intent to rob.  
+__nebula__ _n_ /ˈnɛb yə lə/  
+__outweigh__ _v_  
+__overdue__ _adj_ Not being on time. _Syn_ behindhand, belated, late, tardy  
+__paravalvular__ _adj_ Surrounding or adjacent to a heart valve.  
+__penny candy__ _n_ Inexpensive candy originally costing a penny apiece.  
+__prominent__ _adj_ __3__ Widely known; eminent: _a prominent poet._  
+__ramble__ _v_  
+__raspberry__ _n_  
 __rest__ _n_ __13__ (Billiards & Snooker) Any of various special poles used as supports for the cue in shots that cannot be made using the hand as a support.  
+__resurgence__ _n_  
 __rigorous__ _adj_  
+__rumble__ _vi_ __3__ _slang_ To engage in a gang fight.  
 __sea gypsy__ _n_  
 __self-doubt__ _n_ A lack of faith or confidence in oneself.  
 __shortcoming__ _n_  
 __skill set__ _n_ A set of skills, esp. a collection of skills and abilities that can be applied to a professional or creative endeavor.  
 __snooker__ _n_ __2__ A shot in which the cue ball is left in a position such that another ball blocks the object ball. The opponent is then usually forced to play the cue ball off a cushion.  
+__soar__ _vi_ __2__ To increase or improve suddenly above the normal or usual level: _Sales soared. Our spirits soared._ _Syn_ rise  
+__speed dial__ _n_ A function on a telephone that automatically dials stored telephone numbers.  
 __spider__ _n_ __9__ (Billiards & Snooker) A rest having long legs, used to raise the cue above the level of the height of the ball.  
+__stalk__ _v_  
 __standoff__ _n_  
+__suede__ _n_ :mega: /sweɪd/ :es: ante  
+__Swede__ _n_ :mega: /swid/ A native or inhabitant of Sweden.  
 __to that extent__ _adv_ To the degree or extent that.  
+__Tootsie Roll__ _n_  
 __tripledemic__ _n_ The simultaneous outbreaks of three infectious diseases: COVID-19, influenza, and respiratory syncytial virus (RSV).  
 __troublemaker__ _n_ /ˈtrʌbəlˌmeɪkə/  
 __turnover__ _n_  
@@ -133,6 +154,9 @@ __vagrant__ _n_ One who wanders from place to place without a permanent home or 
 __vivacious__ _adj_ :mega: /vuh-VAY-shus/ Someone or something described as vivacious is happy and lively in an appealing way.  
 __wacko__ _n_ _slang_ A person regarded as eccentric or irrational.  
 __washer__ _n_ :two: __2__ (Mechanical Engineering) A flat ring or drilled disc of metal used under the head of a bolt or nut to spread the load when tightened.  
+__watchtower__ _n_ :pencil2:  
+__weaponsmith__ _n_  
+__whacky__ _adj_ _slang US_ A variant spelling of _wacky_.  
 __wheelhouse__  
 __wherewithal<sup>1</sup>__ _n_ That with which to do something; means or supplies for the purpose or need, esp. money: _the wherewithal to pay my rent._  
 __wherewithal<sup>2</sup>__ _adv_ By means of which; out of which.  
@@ -144,6 +168,7 @@ __wholesome__ _adj_
 __wire wool__ _n_ A mass of woven steel fibers used as an abrasive. _Syn_ steel wool  
 __wisteria__ _n_  
 __wistfully__ _adv_  
+__withdrawal__ _n_  
 __wizardry__ _n_  
 __wordplay__ _n_  
 __wordsmith__ _n_  
