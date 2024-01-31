@@ -98,31 +98,6 @@ __have (one’s) hands full__ :dart: To be busy or completely occupied with deal
 __have (something) to do__ To have some task or action that one must complete or undertake.  
 __have a go (at someone or something)__  
 __heavy-footed__ Clumsy, ponderous, or lumbering in gait or tread. _The team’s star striker deftly navigated the ball past the heavy-footed defenseman._  
-__hoist the white flag__ :dart:  
-__hold(ing) the bag, to/be left__  
-__holy crickets__ An exclamation of surprise, shock, or astonishment. _Holy crickets, the bill for that dinner was nearly $200!_  
-__home, James(, and don’t spare the horses)__ A humorous directive for a driver to take one home directly and without delay.  
-__honey-do list__  
-__honey-mouthed__Smooth, soothing, and sweet in voice, especially in a persuasive or seductive manner or intent.  
-__horse-trade__ To negotiate, trade, or bargain in a shrewd, judicious manner. Primarily heard in US.  
-__hot air__ Lies, exaggerations, or nonsense. _We’re not just blowing hot air when we tell you that conflate can actually be traced back to the same roots as the English verb blow._  
-__hot desking__ The act or practice of sharing desks or workstations between employees in an office so as to cut down on the amount of office space required.  
-__hot tip__  
-__house cooling party__ A party thrown to commemorate when someone leaves an apartment, flat, or house.  
-__however much__ No matter how much.  
-__hustle (one’s) bustle__ To increase one’s pace or sense of urgency; to hurry up; to get moving quickly. _We’d better hustle our bustle if we want to get to the movie theater on time!_  
-__I think not__  
-__I’m all ears__  
-__if it ain’t broke, don’t fix it__  
-__if you will__  
-__in (high) hopes of (something)__  
-__in (the) light of (something)__  
-__in a nutshell__  
-__in arrears__ Behind or overdue, often because one has not made a payment as scheduled.  
-__in behalf of (someone)__  
-__in denial__ Unable or unwilling to believe or acknowledge something as true.  
-__in full swing__ :two::hammer:  
-__in the game__  
 __in the interim__ In the time before something happens; in the meantime.  
 __in vain__  
 __in/within living memory__ In a recent enough time as to be remembered by people who are alive today. (Usually used in negative statements.) _There hasn’t been a blizzard like this in living memory!_ _The worst heart care crisis in living memory._  
