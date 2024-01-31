@@ -1,8 +1,10 @@
 __(I) told you (so)__ I warned you that this would happen; I told you things would turn out this way.  
 __15-minute city__ A _15-minute city_ is a city in which a person can reach any necessity within a 15-minute walk or bicycle ride.  
 __a dead clock is correct twice a day__ Even people who are usually wrong can be right sometimes, even if just by accident.  
+__a-hole__  
 __ahead of (someone or something)__  
 __all the better__ Even better.  
+__anytime soon__  
 __as a last resort__ As a final option, usually when preferable ones have failed.  
 __as far as (someone or something) is concerned__  
 __at hand__  
@@ -10,7 +12,9 @@ __babygirl__ _slang_ A term of endearment that refers to attractive older male c
 __back in the saddle__  
 __back off__  
 __back to back__  
+__bank on__  
 __barrel of laughs__ Fun, funny, and pleasant. Often used sarcastically to indicate that someone is unpleasant or not enjoyable to be around.  
+__batshit__  
 __be busted__  
 __be in the hunt__  
 __Beam me up, Scotty__ Get me out of here! Take me away!  
@@ -23,7 +27,9 @@ __by the skin of (one’s) teeth__ :two: Barely. Often used to describe somethin
 __cat-and-mouse game__  
 __catch up__  
 __catch__ __13__ _n_ A problem, drawback, or hidden detriment, often one that is initially concealed as a means of entrapment.  
+__cater to (someone or something)__ __1__ To assist or provide something to a person or business. _As a personal assistant, I cater to busy professionals who need help managing their lives._  
 __cause a stir__ To incite trouble or excitement.  
+__change gear__  
 __chops__ _informal_ One’s skill in some area. _Have you ever heard her play before? She’s got some serious chops on the piano._  
 __circle the drain__ To be in a state of severe deterioration such that one is approaching inevitable ruin, failure, or death. Usually used in the continuous form. _The company’s closure was inevitable, as it has been circling the drain for the last six months._  
 __come (a)round__ __6__ To change one’s position or view on something. _He’ll never come around to our side now that you’ve insulted him!_  
@@ -51,6 +57,7 @@ __finagle__
 __five o’clock shadow__  
 __flat-out__  
 __floor (one)__ To cause one a great deal of shock, surprise, or disbelief.  
+__follow someone’s lead__ To do as someone else does; to accept someone’s guidance; to follow someone’s direction.  
 __follow suit__  
 __for better or (for) worse__ Whether something is good or bad.  
 __for better or for worse__  
@@ -63,6 +70,7 @@ __game-changer__
 __get (one) started__  
 __get anywhere__ To make progress.  
 __get nowhere__  
+__get the bug__  
 __get through__  
 __girl grip__ _Girl grip_ is a slang phrase that refers to holding multiple items in one hand by grasping them between fingers. Typically, the phrase girl grip refers to a person using a clawed hand to hold multiple items at once. For example, a person may hold a paper cup using primarily their thumb and pointer finger while holding a smartphone, keys, receipt, and wallet with their remaining fingers on the same hand.  
 __give (one) a shout__  
@@ -71,10 +79,12 @@ __give it a whirl__ To try something (often for the first time as a means of for
 __give notice__  
 __give someone a run for their money__  
 __glimmer of hope__ A minute indication that something may improve, succeed, or turn out for the best in the end.  
+__go down the rabbit hole__  
 __go missing__ To disappear. _My diamond earrings have gone missing, and I want the entire staff to be interrogated!_  
 __go overboard__  
 __go rogue__  
 __go wrong__  
+__good envy__ :dart: Term that refers to the positive emotions you may feel when you admire someone’s qualities, achievements, or possessions, and it motivates you to aspire to similar things.  
 __greige__ A neutral color that looks like a mix of gray and beige.  
 __grind on__ :dart: _The conflict grinds on._  
 __gripe about (someone or something)__  
@@ -89,6 +99,7 @@ __have (something) to do__ To have some task or action that one must complete or
 __have a go (at someone or something)__  
 __heavy-footed__ Clumsy, ponderous, or lumbering in gait or tread. _The team’s star striker deftly navigated the ball past the heavy-footed defenseman._  
 __hoist the white flag__ :dart:  
+__hold(ing) the bag, to/be left__  
 __holy crickets__ An exclamation of surprise, shock, or astonishment. _Holy crickets, the bill for that dinner was nearly $200!_  
 __home, James(, and don’t spare the horses)__ A humorous directive for a driver to take one home directly and without delay.  
 __honey-do list__  
@@ -108,6 +119,7 @@ __in (high) hopes of (something)__
 __in (the) light of (something)__  
 __in a nutshell__  
 __in arrears__ Behind or overdue, often because one has not made a payment as scheduled.  
+__in behalf of (someone)__  
 __in denial__ Unable or unwilling to believe or acknowledge something as true.  
 __in full swing__ :two::hammer:  
 __in the game__  
@@ -117,6 +129,12 @@ __in/within living memory__ In a recent enough time as to be remembered by peopl
 __it remains to be seen__  
 __jamming__ _slang_ Awesome; really exciting. _Man, that was an absolutely jamming party!_  
 __new normal__ A previously unusual occurrence that has become commonplace.  
+__no pain, no gain__  
+__not far off__ Partially or nearly correct; close to the truth.  
+__pull the plug__  
+__push back__  
+__push the envelope__ To expand on, exceed, or test the limits of the established norm or standard.  
+__rack up__  
 __ramp up__  
 __refer someone to someone or something__ To direct someone to someone or something; to send someone to someone or something.  
 __refer to (someone or something)__  
@@ -192,11 +210,17 @@ __stop (dead) in (one’s) tracks__ :two::hammer:
 __stop short__  
 __strapped for cash__ Without any or very much money at the moment; broke, especially temporarily.  
 __street urchin__ A poor child who spends most of their time outside, often due to living on the streets.  
-__strike a deal__ :two: To successfully achieve a deal or agreement, especially regarding an acceptable price or exchange for something.  
+__strike a deal__ :three: To successfully achieve a deal or agreement, especially regarding an acceptable price or exchange for something.  
 __studette__ The female version of a stud. A girl that can get any guy she wants, is incredibly good looking, has an amazing personality and is overall awesome at life.  
+__talk (one’s) ear(s) off__ To talk so much as to cause one to be exhausted or bored.  
 __the bitter end__  
+__the days of wine and roses__ A time, especially in one’s youth or in some bygone era, characterized by success, prosperity, and happiness.  
 __the half of it__  
+__tongue twister__ A word or phrase that is hard to say clearly due to difficult alliteration or pronunciation.  
+__tongue-tied__  
 __tush__ _slang_ One’s buttocks. _The _tush push_ is a play in American football in which the quarterback receives the ball and is immediately pushed from behind by other players._  
+__vacuum up__  
+__weirded out__ Acutely disturbed, awkward, or ill at ease.  
 __whipout__ It’s another slang term that Ellroy uses to describe something that happens quickly and violently. In his books, it can mean a sudden attack, a fast getaway, or even just a quick, sharp response to something.  
 __why on earth__ :two: _proverb_ What one person may consider worthless could be highly prized or valued by someone else.  
 __win out__ To defeat someone or something; to prevail.  
