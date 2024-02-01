@@ -1,13 +1,18 @@
 __(I) told you (so)__ I warned you that this would happen; I told you things would turn out this way.  
 __15-minute city__ A _15-minute city_ is a city in which a person can reach any necessity within a 15-minute walk or bicycle ride.  
 __a dead clock is correct twice a day__ Even people who are usually wrong can be right sometimes, even if just by accident.  
+__a hunch__ A strong intuitive feeling about someone or something.  
+__a lifeline__  
 __a-hole__  
 __ahead of (someone or something)__  
 __all the better__ Even better.  
+__alphabet soup__ An incoherent or disorganized mix (typically of letters or abbreviations).  
 __anytime soon__  
 __as a last resort__ As a final option, usually when preferable ones have failed.  
 __as far as (someone or something) is concerned__  
+__at face value__  
 __at hand__  
+__at large__  
 __babygirl__ _slang_ A term of endearment that refers to attractive older male celebrities or fictional male characters. Babygirl is especially likely to be used to refer to a male that is seen as vulnerable, sensitive, cute, or submissive.  
 __back in the saddle__  
 __back off__  
@@ -17,6 +22,7 @@ __barrel of laughs__ Fun, funny, and pleasant. Often used sarcastically to indic
 __batshit__  
 __be busted__  
 __be in the hunt__  
+__be out for/after (one’s) scalp__  
 __Beam me up, Scotty__ Get me out of here! Take me away!  
 __bear in mind (that)__  
 __birdbrain__  
@@ -37,12 +43,14 @@ __come to light__ To be revealed or exposed.
 __cookie cutter__ __2__ _adj_ Identical to other things. In this usage, the phrase is typically hyphenated. _I want a unique house, not one of those cookie-cutter boxes that looks like every other one on the block._  
 __crash course (in something)__  
 __create an uproar__ To create a noisy or chaotic situation; to make a scene.  
+__crusade for (someone or something)__  
 __cut (through) (the) red tape__  
 __cut back on (something)__  
 __dark horse__  
 __die hard__ _The main character, John McClane, is determined to “die hard” — or fight to the end — in order to save his wife and defeat the terrorists who have taken over the building._  
 __dislodge (someone or something) from (someone or something)__ To free someone or something that is stuck.  
 __double down__  
+__drum roll, please__  
 __EGOT__ An abbreviation for “Emmy, Grammy, Oscar, Tony,” referring to the rare feat of winning the major awards in television, music, film, and theater. _Elton John joins elite EGOT ranks with Emmy win. John is only the 19th person to have achieved EGOT status (Whoopi Goldberg, Viola Davis, and Mel Brooks are some of the others)._  
 __end (something) on a high note__  
 __enough is enough__  
@@ -59,7 +67,8 @@ __flat-out__
 __floor (one)__ To cause one a great deal of shock, surprise, or disbelief.  
 __follow someone’s lead__ To do as someone else does; to accept someone’s guidance; to follow someone’s direction.  
 __follow suit__  
-__for better or (for) worse__ Whether something is good or bad.  
+__fool around__  
+__for better or (for) worse__ :two: Whether something is good or bad.  
 __for better or for worse__  
 __for days on end__ (for weeks on end)  
 __for its own sake__  
@@ -70,6 +79,7 @@ __game-changer__
 __get (one) started__  
 __get anywhere__ To make progress.  
 __get nowhere__  
+__get something straight__  
 __get the bug__  
 __get through__  
 __girl grip__ _Girl grip_ is a slang phrase that refers to holding multiple items in one hand by grasping them between fingers. Typically, the phrase girl grip refers to a person using a clawed hand to hold multiple items at once. For example, a person may hold a paper cup using primarily their thumb and pointer finger while holding a smartphone, keys, receipt, and wallet with their remaining fingers on the same hand.  
@@ -103,6 +113,13 @@ __in vain__
 __in/within living memory__ In a recent enough time as to be remembered by people who are alive today. (Usually used in negative statements.) _There hasn’t been a blizzard like this in living memory!_ _The worst heart care crisis in living memory._  
 __it remains to be seen__  
 __jamming__ _slang_ Awesome; really exciting. _Man, that was an absolutely jamming party!_  
+__jaw-dropping__  
+__last-minute__ Done at the very last possible moment or opportunity.  
+__long shot__ _Defense attorney Mickey Haller is back, taking the long shot cases._  
+__make waves__  
+__mixed bag__  
+__more/bigger/greater than the sum of its parts__  
+__narrow escape__  
 __new normal__ A previously unusual occurrence that has become commonplace.  
 __no pain, no gain__  
 __not far off__ Partially or nearly correct; close to the truth.  
@@ -110,7 +127,7 @@ __pull the plug__
 __push back__  
 __push the envelope__ To expand on, exceed, or test the limits of the established norm or standard.  
 __rack up__  
-__ramp up__  
+__ramp up__ :two::hammer:  
 __refer someone to someone or something__ To direct someone to someone or something; to send someone to someone or something.  
 __refer to (someone or something)__  
 __regardless of (something)__  
@@ -127,6 +144,8 @@ __roll out__
 __roly-poly__ _A roly-poly hustler._  
 __room to grow__ A phrase used to describe the potential for something to improve or expand in the future. _There is always room to grow._  
 __root cause__ The most fundamental, central, or basic causal element of something.  
+__rosy__ _mod_ Good; satisfactory. (As a life that is seen through rose-colored glasses.) _Things are looking rosy now that the economy is improving._  
+__rundown__ _n_ The general details about or a brief summary of something. _Please give me a rundown of what was discussed at the board meeting yesterday._  
 __schtick__  
 __scooch over__  
 __scooch__ _v_ /skutʃ/  
@@ -140,6 +159,7 @@ __shallow pockets__ “Shallow pockets” is an idiomatic expression that means 
 __shed (some) light on (something)__  
 __shed light on__  
 __shoo off__  
+__shy of (something)__  
 __sign me up__ “Sign me up” is an idiomatic expression that means “count me in” or “include me in this activity or event.” It’s a way of expressing enthusiasm or interest in something, and a willingness to participate.  
 __simply put__  
 __Sisyphean task__ A task that can never be completed or one that is repetitive and futile, much like the Greek mythological character Sisyphus.  
@@ -190,9 +210,12 @@ __studette__ The female version of a stud. A girl that can get any guy she wants
 __talk (one’s) ear(s) off__ To talk so much as to cause one to be exhausted or bored.  
 __the bitter end__  
 __the days of wine and roses__ A time, especially in one’s youth or in some bygone era, characterized by success, prosperity, and happiness.  
+__the grass is always greener (on the other side)__  
 __the half of it__  
+__the last straw__  
 __tongue twister__ A word or phrase that is hard to say clearly due to difficult alliteration or pronunciation.  
 __tongue-tied__  
+__turnaround__  
 __tush__ _slang_ One’s buttocks. _The _tush push_ is a play in American football in which the quarterback receives the ball and is immediately pushed from behind by other players._  
 __vacuum up__  
 __weirded out__ Acutely disturbed, awkward, or ill at ease.  
