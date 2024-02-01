@@ -34,6 +34,7 @@ __caucus__ _n_
 __chocolate bar__ _n_  
 __chrysalis__ _n_ /ˈkrɪs ə lɪs/  
 __cicatrix__ _n_ A scar left by the formation of new connective tissue over a healing sore or wound. _Syn_ scar  
+__comatose__ _adj_ __2__ Marked by lethargy; torpid.  
 __compulsory__ _adj_ /kəmˈpʌl sə ri/  
 __con__ _vt_ _slang_ To swindle (a victim) by first winning his or her confidence; dupe.  
 __conflate__ _v_ /kun-FLAYT/ Two closely related meanings of the verb conflate are “to confuse,” i.e. “to fail to differentiate,” and “to blend or bring together.”  
@@ -48,6 +49,7 @@ __de rigueur__ _adj_
 __decor__ _n_  
 __deep-routed__ _adj_  
 __deliver__ _vt_ __8__ To give forth or produce.  
+__demo__ _v_ _We’ve just demoed Riffusion, an incredible AI song-creation tool!_  
 __demystify__ _vt_  
 __denial__ _n_ _Despite denials, blah blah blah._  
 __despite__ _n, prep_ /dɪˈspaɪt/  
@@ -62,17 +64,20 @@ __drupe__ _n_
 __ductal__ _adj_ /ˈdʌktəl/ Relating to a duct or tube-like structure in the body that carries bodily fluids.  
 __Dunning-Kruger effect__ _n_ A hypothetical cognitive bias stating that people with low ability at a task overestimate their ability.  
 __electric shock__ _n_  
+__embolden__ _vt_  
 __entertain__ _vt_ __3a__ To consider; contemplate: _entertain an idea._  
 __epicure__ _n_ /EP-i-kyoor/ [:scroll: After the ancient Greek philosopher Epicurus (341-270 BCE), who advocated simple pleasures and a calm mind (ataraxia). With time, his teachings were distorted as focusing on sensual pleasures.] __1__ A person with refined taste, especially in food or wine. __2__ A person devoted to sensual pleasure.  
 __equate__ _v_ /ɪˈkweɪt/  
 __evict__ _vt_ /ɪˈvɪkt/  
+__eviction__ _n_  
 __ex-con__ _n informal_ A former prisoner.  
 __exacerbation__ _n_  
 __expletive__ _adj, n_  
 __explicit__ _adj_ __3b__ Describing or portraying nudity or sexual activity in graphic detail. _AI-generated explicit images of Taylor Swift surfaced on X._  
 __fallow land__ _n_  
 __fiddle__ _v_  
-__figurehead__ _n_ __1__ A person nominally having a prominent position, but no real authority.  
+__figurehead__ _n_ :two: __1__ A person nominally having a prominent position, but no real authority.  
+__firestorm__ _n_  
 __fishing line__ _n_ (Angling) A line of nylon or silk, attached to a hook, used for catching fish. :es: sedal  
 __fishmonger__ _n_ _Chiefly British_ (fishwife)  
 __flatshare__ _n_ An arrangement in which two or more people share a flat (apartment building).  
@@ -91,13 +96,18 @@ __hacksaw__ _n_
 __haggis__ _n_  
 __harangue__ _n_ /huh-RANG/ A harangue is a forceful or angry speech or piece of writing.  
 __hardline__ _adj_  
+__heartfelt__ _adj_  
 __heliotrope__ _n_  
 __hose clamp__ _n_  
 __hostage__ _n_ /ˈhɒs tɪdʒ/ :es: rehén  
 __identical__ _adj_ /aɪˈdɛntɪkəl/  
 __imbecile__ _adj, n_  
+__impeccable__ _adj_  
+__in-depth__ _adj_ Carefully worked out; detailed and thorough: an in-depth study.  
+__inbreeding__ _n_  
 __inculcate__ _v_ To teach (others) by frequent instruction or repetition. _Syn_ infuse, instill  
 __injunction__ _n_  
+__interbreeding__ _n_  
 __interpunct__ _n_  
 __intervention__ _n_  
 __Ivory Coast__ _n_  
@@ -114,18 +124,25 @@ __livelihood__ _n_
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
 __Machiavellianism__ _n_ /mak-ee-uh-VEL-ee-uh-niz-uhm/ The use of unscrupulous means, cunning, and deceit in pursuit of power, especially in politics.  
 __malaria__ _n_ /məˈlɛər i ə/  
+__manhunt__ _n_ An organized search, usually by police, for a wanted man or fugitive.  
 __mugging__ _n_ An assault upon a person especially with the intent to rob.  
 __nebula__ _n_ /ˈnɛb yə lə/  
 __outweigh__ _v_  
+__overalls__ _n pl_  
 __overdue__ _adj_ Not being on time. _Syn_ behindhand, belated, late, tardy  
+__pairing__ _n_ /ˈpɛərɪŋ/ __1__ Two people, esp sports players, actors, or musicians, who are working together as a pair. __2__ The action of putting two people together  
 __paravalvular__ _adj_ Surrounding or adjacent to a heart valve.  
 __penny candy__ _n_ Inexpensive candy originally costing a penny apiece.  
 __prominent__ _adj_ __3__ Widely known; eminent: _a prominent poet._  
+__quadriplegia__ _n_ Complete paralysis of the body from the neck down. Also called _tetraplegia._  
 __ramble__ _v_  
 __raspberry__ _n_  
+__readout__ _n_  
+__respondent__ _n_ /rɪˈspɒn dənt/  
 __rest__ _n_ __13__ (Billiards & Snooker) Any of various special poles used as supports for the cue in shots that cannot be made using the hand as a support.  
 __resurgence__ _n_  
 __rigorous__ _adj_  
+__robocall__ _n_  
 __rumble__ _vi_ __3__ _slang_ To engage in a gang fight.  
 __sea gypsy__ _n_  
 __self-doubt__ _n_ A lack of faith or confidence in oneself.  
@@ -137,20 +154,25 @@ __speed dial__ _n_ A function on a telephone that automatically dials stored tel
 __spider__ _n_ __9__ (Billiards & Snooker) A rest having long legs, used to raise the cue above the level of the height of the ball.  
 __stalk__ _v_  
 __standoff__ _n_  
+__stonk__ _n_ A heavy concentration of artillery fire.  
 __suede__ _n_ :mega: /sweɪd/ :es: ante  
 __Swede__ _n_ :mega: /swid/ A native or inhabitant of Sweden.  
+__time-consuming__ _adj_  
 __to that extent__ _adv_ To the degree or extent that.  
 __Tootsie Roll__ _n_  
 __tripledemic__ _n_ The simultaneous outbreaks of three infectious diseases: COVID-19, influenza, and respiratory syncytial virus (RSV).  
 __troublemaker__ _n_ /ˈtrʌbəlˌmeɪkə/  
+__turbocharge__ _vt_ :dart: __2__ _informal_ To improve dramatically the performance or quality of. To speed up; accelerate.  
 __turnover__ _n_  
 __Tyrian purple__ _n_  
 __ultramarine__ _adj, n_  
 __umbrella__ _n_ /ʌmˈbrɛlə/ _A national umbrella organization._  
+__unfathomable__ _adj_  
 __unfettered__ _adj_ /un-FET-erd/  
 __unfold__ _v_  
 __uproar__ _n_  
 __vagrant__ _n_ One who wanders from place to place without a permanent home or a means of livelihood. _Syn_ drifter, vagabond, floater  
+__verdict__ _n_ /ˈvɜr dɪkt/  
 __vivacious__ _adj_ :mega: /vuh-VAY-shus/ Someone or something described as vivacious is happy and lively in an appealing way.  
 __wacko__ _n_ _slang_ A person regarded as eccentric or irrational.  
 __washer__ _n_ :two: __2__ (Mechanical Engineering) A flat ring or drilled disc of metal used under the head of a bolt or nut to spread the load when tightened.  
@@ -170,6 +192,8 @@ __wisteria__ _n_
 __wistfully__ _adv_  
 __withdrawal__ _n_  
 __wizardry__ _n_  
+__wobble__ _v_ __3__ To waver or vacillate in one’s opinions or feelings.  
+__woo__ _v_  
 __wordplay__ _n_  
 __wordsmith__ _n_  
 __workaday__ _adj_  
