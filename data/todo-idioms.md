@@ -1,3 +1,8 @@
+__a dime a dozen__ Ubiquitous; so abundant or common as to hold little or no value.  
+__a pain in the ass__  
+__all over the place__ __2__ _adj_ Very scattered or disorganized; ill-conceived. _Boy, that presentation was all over the place. It’s like they wrote it five minutes before taking the stage!_  
+__battle something out__  
+__cosleep__ Of a parent, to sleep in the same bed or room as one or more of their small or infant children. _We’re going to try cosleeping once the baby is born._ _Co-sleeping was a factor in quarter of Scotland’s infant deaths in 2023._  
 __dislodge (someone or something) from (someone or something)__ To free someone or something that is stuck.  
 __double down__  
 __drum roll, please__  
@@ -58,21 +63,28 @@ __have (one’s) hands full__ :dart: To be busy or completely occupied with deal
 __have (something) to do__ To have some task or action that one must complete or undertake.  
 __have a go (at someone or something)__  
 __heavy-footed__ Clumsy, ponderous, or lumbering in gait or tread. _The team’s star striker deftly navigated the ball past the heavy-footed defenseman._  
+__in other news__  
 __in the interim__ In the time before something happens; in the meantime.  
 __in vain__  
 __in/within living memory__ In a recent enough time as to be remembered by people who are alive today. (Usually used in negative statements.) _There hasn’t been a blizzard like this in living memory!_ _The worst heart care crisis in living memory._  
 __it remains to be seen__  
 __jamming__ _slang_ Awesome; really exciting. _Man, that was an absolutely jamming party!_  
 __jaw-dropping__  
+__keep rolling__ The idiom “keep rolling” means to continue doing something with energy and momentum, similar to how a ball keeps rolling after it’s set in motion.  
 __last-minute__ Done at the very last possible moment or opportunity.  
+__living large__  
 __long shot__ _Defense attorney Mickey Haller is back, taking the long shot cases._  
 __make waves__  
 __mixed bag__  
 __more/bigger/greater than the sum of its parts__  
+__moving target__  
 __narrow escape__  
 __new normal__ A previously unusual occurrence that has become commonplace.  
 __no pain, no gain__  
 __not far off__ Partially or nearly correct; close to the truth.  
+__on top of something__  
+__phase out__  
+__pizzazz__  
 __pull the plug__  
 __push back__  
 __push the envelope__ To expand on, exceed, or test the limits of the established norm or standard.  
@@ -85,8 +97,11 @@ __rep__ __2__ _n_ A shortening of “reputation.”
 __riffle__ :two: In James Ellroy’s novels, “riffle” is a verb that means to search quickly through something, usually a pile of papers or documents. It implies a sense of urgency and impatience, as if the person doing the riffling is searching for something important and doesn’t have time to waste.  
 __riffraff__ Undesirable, disreputable, or vulgar people, often used in a condescending manner. _I wouldn’t be seen in a place like that, there’s a lot of riffraff that hang out around there._  
 __rile up__  
+__ring false__  
 __ring of Venus__ In James Ellroy’s novels, the “ring of Venus” is a term used to describe a secret society or network of powerful people who engage in corrupt or illegal activities. It’s usually presented as a shadowy and mysterious organization that operates behind the scenes, pulling the strings of government, business, and society.  
+__ring true__  
 __ring-a-ding-ding__ The idiom “ring-a-ding-ding” generally means something that’s super exciting or energetic! It’s often used to describe things like parties, events, or even certain types of music. In a way, it’s kind of like saying “it’s a real hoot” or “it’s a blast!”  
+__rip-off__  
 __ripple effect__  
 __rizz<sup>1</sup>__ _n_ Romantic appeal or charm. _A bro who has rizz._  
 __rizz<sup>2</sup>__ _v_ (typically used with _up_, as in _rizz up that cutie._) To charm or seduce.  
@@ -96,9 +111,11 @@ __room to grow__ A phrase used to describe the potential for something to improv
 __root cause__ The most fundamental, central, or basic causal element of something.  
 __rosy__ _mod_ Good; satisfactory. (As a life that is seen through rose-colored glasses.) _Things are looking rosy now that the economy is improving._  
 __rundown__ _n_ The general details about or a brief summary of something. _Please give me a rundown of what was discussed at the board meeting yesterday._  
+__says who__  
 __schtick__  
 __scooch over__  
 __scooch__ _v_ /skutʃ/  
+__scoop up__  
 __scoop__  
 __scoot__ :two: __1__ _vi_ To run or scurry quickly from one place to another. _I scooted from the bank to the cleaners and then on to the dentist’s._ __2__ _n_ A motorcycle. _Do you wear a brain-bucket on your scoot?_  
 __screw up__ :dart: __5__ _n_ A huge mistake, blunder, or mishandling. In this usage, the phrase is usually hyphenated or spelled as one word. _Another screwup like that and you’re fired!_ _I don’t care whose screw-up it was—just fix it!_  
@@ -120,6 +137,7 @@ __skate__
 __skeevy__ :two: Offensively or unscrupulously repellant, repugnant, or disreputable.  
 __skeleton in the/(one’s) closet__ An embarrassing or shameful secret.  
 __skibidi__ _slang_ A nonsense word or sound without a specific meaning.  
+__skimp on (something)__  
 __skin flute__ _vulgar, slang_ A penis.  
 __skip off__ To leave or depart hastily so as to avoid something or escape with something.  
 __sky-high__  
@@ -132,7 +150,7 @@ __slob__
 __slow down__  
 __smear (one’s) name__ To disparage one publicly, especially to the detriment of one’s reputation.  
 __smooch__ /smutʃ/  
-__sneak peek__  
+__sneak peek__ :two::hammer:  
 __sneak up (on someone or something)__  
 __sniff out__  
 __snookered__ /ˈsnʊkɚd/ _mod_ __1__ Cheated; deceived. _I was snookered skillfully and quickly. It was almost a pleasure._ __2__ _slang_ Drunk.  
@@ -141,11 +159,13 @@ __snow job__ :dart: A form of manipulation that involves lying or flattery to pe
 __snowball__ To grow at an increasing rate. (As a snowball rolling down a hill might increase in size.) _Offers to help with money and prayers began to snowball, and we had to get volunteers to help answer the phones._  
 __snuff (one)__ :two: _slang_ To kill one. _He was planning on going to the police, but the criminals snuffed him before he had the chance._ _Tragically, he was snuffed in his prime by cancer._  
 __so it goes__ _informal_ That is the kind of thing that happens; that is life. _Too bad about John and his problems. So it goes._ _I just lost a twenty-dollar bill, and I can’t find it anywhere. So it goes._  
+__sort of__  
 __spell out__  
 __spill over__  
 __spill the beans__  
 __stand by someone__  
 __stay put__  
+__stay tuned__  
 __step aside__ :dart:  
 __step down__  
 __step in__ To enter into some position, activity, or situation to intervene or improve it.  
@@ -157,6 +177,7 @@ __strapped for cash__ Without any or very much money at the moment; broke, espec
 __street urchin__ A poor child who spends most of their time outside, often due to living on the streets.  
 __strike a deal__ :three: To successfully achieve a deal or agreement, especially regarding an acceptable price or exchange for something.  
 __studette__ The female version of a stud. A girl that can get any guy she wants, is incredibly good looking, has an amazing personality and is overall awesome at life.  
+__take the stage__  
 __talk (one’s) ear(s) off__ To talk so much as to cause one to be exhausted or bored.  
 __the bitter end__  
 __the days of wine and roses__ A time, especially in one’s youth or in some bygone era, characterized by success, prosperity, and happiness.  
@@ -164,10 +185,13 @@ __the grass is always greener (on the other side)__
 __the half of it__  
 __the last straw__  
 __tongue twister__ A word or phrase that is hard to say clearly due to difficult alliteration or pronunciation.  
+__tongue-in-cheek__ Jocular or humorous, though seeming or appearing to be serious.  
 __tongue-tied__  
+__turn around__  
 __turnaround__  
 __tush__ _slang_ One’s buttocks. _The _tush push_ is a play in American football in which the quarterback receives the ball and is immediately pushed from behind by other players._  
 __vacuum up__  
+__watchdog__  
 __weirded out__ Acutely disturbed, awkward, or ill at ease.  
 __whipout__ It’s another slang term that Ellroy uses to describe something that happens quickly and violently. In his books, it can mean a sudden attack, a fast getaway, or even just a quick, sharp response to something.  
 __why on earth__ :two: _proverb_ What one person may consider worthless could be highly prized or valued by someone else.  
