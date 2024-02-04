@@ -1,4 +1,6 @@
+__ableism__ _n_ :astonished: Discrimination or prejudice against people with disabilities, especially physical disabilities.  
 __adduce__ _vt_  
+__agonist__ _n_ :astonished:  
 __all-or-nothing__ _adj_  
 __almanac__ _n_  
 __amp up__ _v_  
@@ -8,6 +10,7 @@ __anecdata__ _n_
 __aplomb__ _n_ /əˈplɒm, əˈplʌm/  
 __archivist__ _n_ /ˈɑr kə vɪst, -kaɪ-/  
 __aspect__ _n_ __5__ A side or surface facing in a particular direction: _the ventral aspect of the body._  
+__atypia__ _n_  
 __aver__ _vt_ :astonished: (averred)  
 __backdrop__ _n_  
 __bailiff__ _n_  
@@ -15,6 +18,7 @@ __bailiwick__ _n_ /BAY-lih-wik/ Bailiwick refers to the domain or sphere in whic
 __bajillion<sup>1</sup>__ _n_ An extremely large but unspecified number, quantity, or amount: _They’ll sell a bajillion of these._  
 __bajillion<sup>2</sup>__ _determiner_ Amounting to a bajillion: _a bajillion dollars._  
 __ball valve__ _n_  
+__ballerina flats__ _n_ _Syn_ ballet flats  
 __bedsit__ _n_ :es: habitación amueblada; estudio amueblado  
 __bequest__ _n_ /bɪˈkwɛst/  
 __blackhead__ _n_  
@@ -37,10 +41,13 @@ __captcha__ _n_ /ˈkæptʃə/
 __cartomancy__ _n_ Fortune-telling by means of playing cards.  
 __cast iron__ _n_ :es: hierro fundido  
 __caucus__ _n_  
+__cautious__ _adj_ :mega: /ˈkɔ ʃəs/  
 __chocolate bar__ _n_  
 __chrysalis__ _n_ /ˈkrɪs ə lɪs/  
 __cicatrix__ _n_ A scar left by the formation of new connective tissue over a healing sore or wound. _Syn_ scar  
+__click-through rate__  
 __cognizable__  
+__color scheme__ _n_  
 __comatose__ _adj_ __2__ Marked by lethargy; torpid.  
 __compulsory__ _adj_ /kəmˈpʌl sə ri/  
 __con__ _vt_ _slang_ To swindle (a victim) by first winning his or her confidence; dupe.  
@@ -51,6 +58,7 @@ __conveyancing__ _n_ /kənˈveɪənsɪŋ/ (Law) The branch of law dealing with t
 __countdown__ _n_  
 __cruciverbalist__ _n_ /kroo-suh-vur-buh-list/  
 __cupboard__ _n_ :mega: /ˈkʌb ərd/ A closet with shelves for dishes, cups, food, etc.  
+__cursive__ _adj, n_ /ˈkɜːsɪv/  
 __cynophilia__ _n_ /ˌsɪnəʊˈfɪlɪə/ A love of dogs.  
 __damask__ _n_ /DAM-usk/ _Damask_ refers to a usually shiny, thick fabric (as of linen, cotton, silk, or rayon) made with patterns. The word can also be used as a synonym of Damascus steel, or for a grayish red color.  
 __darn__ _adj, adv, n_ /dɑːn/ A euphemistic word for damn.  
@@ -75,9 +83,11 @@ __Dunning-Kruger effect__ _n_ A hypothetical cognitive bias stating that people 
 __electric shock__ _n_  
 __embolden__ _vt_  
 __emote__ _v_ /ih-MOHT/ To emote is to express emotion in a very dramatic or obvious way. _He stood on the stage, emoting and gesturing wildly._  
+__enact__  
 __entertain__ _vt_ __3a__ To consider; contemplate: _entertain an idea._  
 __epicure__ _n_ /EP-i-kyoor/ [:scroll: After the ancient Greek philosopher Epicurus (341-270 BCE), who advocated simple pleasures and a calm mind (ataraxia). With time, his teachings were distorted as focusing on sensual pleasures.] __1__ A person with refined taste, especially in food or wine. __2__ A person devoted to sensual pleasure.  
 __equate__ _v_ /ɪˈkweɪt/  
+__ethos__ _n_  
 __evict__ _vt_ /ɪˈvɪkt/  
 __eviction__ _n_  
 __ex-con__ _n informal_ A former prisoner.  
@@ -107,6 +117,7 @@ __gully__ _n_
 __hacksaw__ _n_  
 __haggis__ _n_  
 __harangue__ _n_ /huh-RANG/ A harangue is a forceful or angry speech or piece of writing.  
+__hard-hitting__ _adj_ Uncompromising; tough: _a hard-hitting report on urban deprivation._  
 __hardline__ _adj_  
 __heartfelt__ _adj_  
 __heightism__ _n_ :astonished: HY-tiz-uhm/ Discrimination based on height, especially the unfair treatment of people who are short.  
@@ -131,18 +142,24 @@ __knapsack__ _n_
 __landlady__ _n_  
 __lapse__ _v_  
 __largess__ _n_  
+__late-breaking__ _adj_ :dart: Occurring very shortly before publication on the topic. _Late-breaking clinical trials._ _Late-breaking news._  
 __leaderboard__ _n_ A board that displays the leaders in a competition.  
+__lessen__ _v_  
 __leverage__ _n_ :mega: /ˈlɛv ər ɪdʒ, ˈlɛv rɪdʒ; ˈli vər ɪdʒ, -vrɪdʒ/  
 __lice__ _n pl_ /laɪs/ Plural of louse. :es: piojos  
 __licensee__ _n_ (licencee)  
+__likelihood__ _n_  
 __livelihood__ _n_  
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
 __Machiavellianism__ _n_ /mak-ee-uh-VEL-ee-uh-niz-uhm/ The use of unscrupulous means, cunning, and deceit in pursuit of power, especially in politics.  
 __malaria__ _n_ /məˈlɛər i ə/  
 __manhunt__ _n_ An organized search, usually by police, for a wanted man or fugitive.  
+__market cap__ _n_ :two: (market capitalization) An estimation of the value of a business that is obtained by multiplying the number of shares outstanding by the current price of a share.  
 __mugging__ _n_ An assault upon a person especially with the intent to rob.  
 __nebula__ _n_ /ˈnɛb yə lə/  
+__one-on-one__ _adj, adv_ __2__ Involving a direct encounter between one person and another.  
 __onside kick__ _n_ Short kick-off that travels just far enough to be recoverable by the kicking team.  
+__otolaryngology__ _n_ _Syn_ otorhinolaryngology  
 __outweigh__ _v_  
 __overalls__ _n pl_  
 __overdue__ _adj_ Not being on time. _Syn_ behindhand, belated, late, tardy  
@@ -168,6 +185,7 @@ __sea gypsy__ _n_
 __self-doubt__ _n_ A lack of faith or confidence in oneself.  
 __shortcoming__ _n_  
 __skill set__ _n_ A set of skills, esp. a collection of skills and abilities that can be applied to a professional or creative endeavor.  
+__slight__ _vt_ :dart: __1__ To show indifference or disregard for (someone); snub. __2__ To treat as unimportant or trifling. __3__ _US_ To devote inadequate attention to (work, duties, etc).  
 __snooker__ _n_ __2__ A shot in which the cue ball is left in a position such that another ball blocks the object ball. The opponent is then usually forced to play the cue ball off a cushion.  
 __soar__ _vi_ __2__ To increase or improve suddenly above the normal or usual level: _Sales soared. Our spirits soared._ _Syn_ rise  
 __speed dial__ _n_ A function on a telephone that automatically dials stored telephone numbers.  
@@ -178,6 +196,7 @@ __stonk__ _n_ A heavy concentration of artillery fire.
 __suede__ _n_ :mega: /sweɪd/ :es: ante  
 __Swede__ _n_ :mega: /swid/ A native or inhabitant of Sweden.  
 __sylph__ _n_ /silf/  
+__systemic__ _adj_  
 __theophoric__ _adj_ /thee-uh/oh-FOR-ik/ [:scroll: From Greek theo- (god) + -phoric (bearing)] Having or derived from the name of a god.  
 __time-consuming__ _adj_  
 __to that extent__ _adv_ To the degree or extent that.  
@@ -188,19 +207,25 @@ __turbocharge__ _vt_ :dart: __2__ _informal_ To improve dramatically the perform
 __turnover__ _n_  
 __tussock__ _n_ A clump or tuft, as of growing grass. _Syn_ tuft  
 __Tyrian purple__ _n_  
+__ulnar__ _adj_  
 __ultramarine__ _adj, n_  
 __umbrella__ _n_ /ʌmˈbrɛlə/ _A national umbrella organization._  
+__undoing__ _n_  
+__uneven__ _adj_ __2__ Not consistent or uniform: _an uneven color._  
 __unfathomable__ _adj_  
 __unfettered__ _adj_ /un-FET-erd/  
 __unfold__ _v_  
 __uproar__ _n_  
+__urge__ _v_  
 __vagrant__ _n_ One who wanders from place to place without a permanent home or a means of livelihood. _Syn_ drifter, vagabond, floater  
 __verdict__ _n_ /ˈvɜr dɪkt/  
+__vitiligo__ _n_ Partial or total loss of skin pigmentation, often occurring in patches. _Syn_ leucoderma  
 __vivacious__ _adj_ :mega: /vuh-VAY-shus/ Someone or something described as vivacious is happy and lively in an appealing way.  
 __wacko__ _n_ _slang_ A person regarded as eccentric or irrational.  
 __washer__ _n_ :two: __2__ (Mechanical Engineering) A flat ring or drilled disc of metal used under the head of a bolt or nut to spread the load when tightened.  
 __watchtower__ _n_ :pencil2:  
 __weaponsmith__ _n_  
+__well-versed__ _adj_ Comprehensively knowledgeable (about), acquainted (with), or skilled (in).  
 __whacky__ _adj_ _slang US_ A variant spelling of _wacky_.  
 __wheelhouse__  
 __wherewithal<sup>1</sup>__ _n_ That with which to do something; means or supplies for the purpose or need, esp. money: _the wherewithal to pay my rent._  
