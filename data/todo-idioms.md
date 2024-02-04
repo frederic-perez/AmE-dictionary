@@ -198,31 +198,6 @@ __studette__ The female version of a stud. A girl that can get any guy she wants
 __take the stage__  
 __talk (one’s) ear(s) off__ To talk so much as to cause one to be exhausted or bored.  
 __the bitter end__  
-__the days of wine and roses__ A time, especially in one’s youth or in some bygone era, characterized by success, prosperity, and happiness.  
-__the grass is always greener (on the other side)__ :two: _proverb_ Other people’s circumstances or belongings always seem more desirable than one’s own.  
-__the half of it__  
-__the last line of defense__ The final person or thing who can act as a protection or deterrent against some threat.  
-__the last straw__  
-__the Wild West__  
-__this is going to hurt__ Something is going to be painful, either physically or emotionally. It’s a way of acknowledging that whatever is coming up is going to be unpleasant, uncomfortable, or distressing.  
-__tongue twister__ A word or phrase that is hard to say clearly due to difficult alliteration or pronunciation.  
-__tongue-in-cheek__ Jocular or humorous, though seeming or appearing to be serious.  
-__tongue-tied__  
-__tune into (someone or something)__  
-__turn around__  
-__turnaround__  
-__tush__ _slang_ One’s buttocks. _The _tush push_ is a play in American football in which the quarterback receives the ball and is immediately pushed from behind by other players._  
-__vacuum up__  
-__watchdog__  
-__weirded out__ Acutely disturbed, awkward, or ill at ease.  
-__whipout__ It’s another slang term that Ellroy uses to describe something that happens quickly and violently. In his books, it can mean a sudden attack, a fast getaway, or even just a quick, sharp response to something.  
-__why on earth__ :two: _proverb_ What one person may consider worthless could be highly prized or valued by someone else.  
-__win out__ To defeat someone or something; to prevail.  
-__wingding__ :two::hammer:  
-__wingman__ __2__ _informal_ Someone’s close friend, supporter, or ally.  
-__wise up__  
-__wishful thinking__ The act of thinking that or hoping that something will happen or be the case when in reality it is unlikely.  
-__wit a vengeance__ _Generative AI left the lab with a vengeance._  
 __with a bang__ :three::hammer:  
 __with a heavy hand__ __1__ In an excessive, authoritarian, or oppressive way or manner. _The police dispersed the protesters with a heavy hand._  
 __with a vengeance__ _Die Hard with a Vengeance._  

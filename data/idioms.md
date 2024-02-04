@@ -5153,6 +5153,7 @@ __the butt of the joke__ Someone or something at whose expense an insulting or m
 __the cat is out of the bag__ Some secret or surprise has been revealed or exposed.  
 __the cream of the crop__ The best of a particular group.  
 __the darkest hour is just before the dawn__  
+__the days of wine and roses__ A time, especially in one’s youth or in some bygone era, characterized by success, prosperity, and happiness.  
 __the devil is in the detail(s)__ _proverb_ :three: Plans, actions, or situations that seem sound must be carefully examined, because minor details can end up causing major, unforeseen problems. _Double check your code—with software, the devil is in the details._  
 __the die was cast__ (the dice were cast)  
 __the eleventh hour__ :two: The last possible moment or opportunity. Can be hyphenated if used as a modifier before a noun. _I was shocked that they reached an agreement at the eleventh hour after weeks of squabbling._  
@@ -5171,11 +5172,12 @@ __the going thing__ :two: The latest and most popular trend, fad, or fashion. _M
 __the golden rule__  
 __the grand scheme of things__  
 __the granddaddy of them all__ The biggest, oldest, most impressive, or most respected person or thing of his, her, or its kind.  
+__the grass is always greener (on the other side)__ :two: _proverb_ Other people’s circumstances or belongings always seem more desirable than one’s own.  
 __the gray dollar__ The economic purchasing power of elderly people as a group. Primarily heard in US.  
 __the greater good__ The benefit or betterment of the majority of people, especially at the cost of smaller or individual concerns. _The cutbacks our company must face will be difficult, but we assure you that they are for the greater good._  
 __the Greek calends__  
 __the green-eyed monster__ Jealousy. The phrase comes from the Shakespeare play _Othello._ _My daughter often succumbs to the green-eyed monster when she sees the toys that her friends have._  
-__the half of it__ A portion of something, typically implied to be the most important of significant part. (Often used in the negative.)  
+__the half of it__ :two: A portion of something, typically implied to be the most important of significant part. (Often used in the negative.)  
 __the handwriting on the wall__ _He could see the handwriting on the wall._  
 __the happy day__ :two: A wedding, or marriage in general. _So now that all your siblings are married, when will the happy day be for you?_  
 __the head honcho__ _slang_ The person in charge. _That decision is above my pay grade. You’ll have to ask the head honcho._  
@@ -5193,7 +5195,9 @@ __the keys to the kingdom__ A resource that will give the possessor access to th
 __the knacker’s yard__ A state of ruin or failure due to having become useless or obsolete. Refers to a slaughterhouse for old or injured horses.  
 __the L-bomb__ An expression of romantic love for another, especially when said unexpectedly and/or for the first time. Usually used in the phrase “drop the L-bomb.” _We’d only been dating for a couple of months when he dropped the L-bomb on me. I was so shocked that all I could think to say back was, “Thank you!”_  
 __the lady of the house__ A woman who looks after and runs the house; the matriarch of a family or household.  
+__the last line of defense__ The final person or thing who can act as a protection or deterrent against some threat.  
 __the last of the lot__ The last or final person(s) or thing(s) in a given group or list.  
+__the last straw__  
 __the last thing (one) wants__ Something which one absolutely does not want or has no use for.  
 __the likes of (someone or something)__ :two::hammer:  
 __the likes of__  
@@ -5251,7 +5255,7 @@ __the very thing__ Exactly what is most ideal, desired, or useful in a particula
 __the wee small hours (of the night/morning)__ The very early hours after midnight. _I was studying for the exam until the wee small hours of the morning, and now I can barely keep my eyes open!_  
 __the whole nine yards__  
 __the whole shebang__ :four::hammer:  
-__the Wild West__ :three: (the wild west of (something)) __2__ By extension, that which is characterized by a lack of law, order, and regulations; that which is totally untamed and unfettered. Often followed by “of something.“  
+__the Wild West__ :four: (the wild west of (something)) __2__ By extension, that which is characterized by a lack of law, order, and regulations; that which is totally untamed and unfettered. Often followed by “of something.“  
 __the witching hour__ :two: __1__ A late time of night, most often midnight, sometimes associated with the appearance of supernatural forces or entities. _Halloween was the only night of the year that our parents would let us stay up until the witching hour._ __2__ The time just before bedtime when children become overactive or overly excited. _Sorry for all the noise, we’re heading into the witching hour with the kids now._  
 __the word is out__ The phrase “the word is out” means that a piece of news or information has become known, especially if it was previously a secret or if it is expected to bring about changes.  
 __the wrong crowd__ A group of people, typically peers, who partake in and elicit immoral, criminal, and/or dangerous behavior and attitudes. _Mary had been a model student all her life, but when she got to senior year of high school, she started hanging out with the wrong crowd, and her grades suffered as a result._  
@@ -5281,6 +5285,7 @@ __think over__ To consider or ponder something; to reflect upon something. A nou
 __third wheel__ The “third wheel” refers to the person who is the outsider when there is a group of three. An analogy can be made to a two-wheeled bicycle or cart; adding a third wheel would not be helpful and would limit mobility. To be the “third wheel” is to be the extra, unnecessary person in a group of three people. _You two go on ahead without me. I don’t want to be the third wheel._  
 __third world__  
 __this is (someone)__ __1__ A phrase said when introducing someone, followed by the person’s name or their relation. To identify oneself by phone, or to introduce someone. _This is Laura, my cousin._ _Hello, this is Michael Robinson._ __2__ _informal_ Used to quote, paraphrase, or mimic the words of someone else, especially in a mocking or derisive manner. _This is you right now—“Blah, blah, blah, I’m so important, everyone has to listen to me, blah de blah de blah!”_  
+__this is going to hurt__ Something is going to be painful, either physically or emotionally. It’s a way of acknowledging that whatever is coming up is going to be unpleasant, uncomfortable, or distressing.  
 __this is no picnic__  
 __this is not a competition__ :two: A phrase used to convey the idea that a particular situation or activity should not be approached with a competitive mindset. It suggests that the focus should not be on outperforming others or striving to be better than them, but rather on cooperation, collaboration, and personal growth.  
 __this side of__  
@@ -5375,8 +5380,9 @@ __Tom Swifty__ :two::hammer:
 __tomorrow will be another day__ A common idiom that means that no matter how bad things seem today, there is always the hope and promise of a fresh start tomorrow.  
 __tone deaf__  
 __tongue in cheek__  
-__tongue twister__ A word or phrase that is hard to say clearly due to difficult alliteration or pronunciation.  
-__tongue-in-cheek__  
+__tongue twister__ :two: A word or phrase that is hard to say clearly due to difficult alliteration or pronunciation.  
+__tongue-in-cheek__ :two: Jocular or humorous, though seeming or appearing to be serious.  
+__tongue-tied__  
 __too hot to handle__  
 __too many irons in the fire__ :dart: An excessive number of simultaneous activities or potential undertakings or opportunities underway. _I have too many irons in the fire at work right now, and it’s going to be tricky to balance all of them over the next few weeks._  
 __toot (one’s) own horn__ To boast or brag about one’s own abilities, skills, success, achievements, etc._ I don’t mean to toot my own horn, but this pasta sauce I made is quite delicious!_  
@@ -5435,13 +5441,14 @@ __trump card__ _It was time for me to play my trump card._
 __try out__ :two::hammer:  
 __tuff__ :two: In James Ellroy’s novels, the term “tuff” is often used to describe someone who is tough, gritty, and hardened. Ellroy is known for his hardboiled writing style and his focus on the seedy underbelly of society, and the term “tuff” reflects that. It’s often used to describe characters who are street-smart, tough-talking, and unafraid to engage in violent or risky behavior.  
 __tug of war__ :two: A struggle for supremacy.  
+__tune into (someone or something)__  
 __turf war__ :two::hammer:  
 __turkey__ :two: __3__ _n_ _slang_ Stupid person.  
 __turn (one’s) back on (someone or something)__ :two: To ignore, disregard, or exclude someone or something; to abandon, give up on, or forsake someone or something. _It’s clear that the company has turned its back on customers._  
 __turn (someone or something) upside down__  
 __turn (something) on its head__ :three::hammer:  
 __turn a deaf ear (to someone or something)__  
-__turn around__ To change something unsuccessful into something successful.  
+__turn around__ :two: To change something unsuccessful into something successful.  
 __turn away__ To refuse to let someone come into a place.  
 __turn heads__ To capture people’s attention due to being exceptionally interesting, beautiful, unusual, or novel. The image is of people literally turning to stare at something as it passes by.  
 __turn of phrase__  
@@ -5455,7 +5462,9 @@ __turn the tables__ :six: To change or reverse something dramatically. _Wow, the
 __turn turtle__ To turn upside down; to flip over. This phrase is often used to describe overturned boats or ships. _You need to wear a life jacket because there’s always a chance that the boat could turn turtle._  
 __turn up the heat (on someone or something)__ To put pressure on someone or something; apply additional pressure to someone or something. _The FBI turned the heat up on the gang. The police turned up the heat on the people who park illegally every day._  
 __turnaround jumper__ _basketball_  
+__turnaround__  
 __turning point__ :two: A time when things may change; a point at which a change of course is possible or desirable.  
+__tush__ _slang_ One’s buttocks. _The _tush push_ is a play in American football in which the quarterback receives the ball and is immediately pushed from behind by other players._  
 __twiddle one’s thumbs__ :astonished: Be bored or idle, as in _There I sat for three hours, twiddling my thumbs, while he made call after call._ This expression alludes to the habit of idly turning one’s thumbs about one another during a period of inactivity.  
 __twisted__  
 __twists and turns__ Surprising changes. _It’s hard to follow all the twists and turns of the plot._  
@@ -5516,6 +5525,7 @@ __urban legend__ A myth or piece of folklore that is totally false. _That story 
 __usher in__  
 __utterly__  
 __vac__  
+__vacuum up__  
 __value judgment__  
 __vamoose__ :four::hammer: /væˈmus/ (vamoosed)  
 __vamp up__  
@@ -5571,6 +5581,7 @@ __watch (one’s) language__ To speak politely, without using profane, obscene, 
 __watch (someone’s) back__  
 __watch your back__  
 __watch your six__ Your intuitions are correct; the phrase ‘watch your six’ does indeed mean ‘watch your back.’ It refers to the 6 position on the face of a clock. Keep an extra set of eyes on the back of your head. _Dude, be careful man. Watch your six._  
+__watchdog__  
 __water down__  
 __water torture__  
 __water under the bridge__ :dart::two::hammer: _We’ll regard it as water under the bridge, shall we?_  
@@ -5595,6 +5606,7 @@ __weigh down__ To make someone heavy and unable to move easily.
 __weigh in__ :dart::two: (see also _chime in_) __3__ To give one’s opinion or analysis of something during a discussion. _Karen, you haven’t weighed in yet. What’s your take on this?_ _Later on the show, Senator Williams will weigh in on the debate._  
 __weigh on__  
 __weird out__  
+__weirded out__ Acutely disturbed, awkward, or ill at ease.  
 __well in advance__ _Book tickets well in advance._  
 __well played__  
 __well-heeled__ :two: (well-fixed; well-off) [:scroll: Alluding to a person who can easily afford to replace shoes often] Wealthy; with sufficient money. Having plenty of money; prosperous. _My uncle can afford a new car. He’s well-heeled. Everyone in his family is well-off._  
@@ -5647,6 +5659,7 @@ __while the night__ _Anyone who is anyone has whiled the night away here._
 __whip by__ (whipping by) _The summer is whipping by._  
 __whip out__  
 __whipcrack__ “Whipcrack” is a term that James Ellroy uses in his novels to describe a fast, sharp, and sudden action or event. It’s used to evoke a sense of speed, intensity, and urgency.  
+__whipout__ It’s another slang term that Ellroy uses to describe something that happens quickly and violently. In his books, it can mean a sudden attack, a fast getaway, or even just a quick, sharp response to something.  
 __whisper sweet nothings__ To murmur words of affection to someone in a flirtatious manner.  
 __whistleblower__ :two::hammer:  
 __white coat hypertension__ A phenomenon in which a patient experiences elevated blood pressure around medical professionals. _A: “I swear, I didn’t feel dizzy until the doctor came in.” B: “Hmm, sounds like a case of white coat hypertension to me.”_  
@@ -5667,7 +5680,7 @@ __whole nother thing__
 __whomp up__ To make quickly. _I wasn’t expecting company, but don’t worry, I can whomp up a dinner for us in no time!_  
 __whoops__ _informal_ An exclamation of surprise used in response to a mistake or moment of clumsiness. _Whoops! Dang it, I can’t believe I broke my favorite vase!_  
 __whoopsie-daisy__  
-__why on earth__ :two: Used to ask a question that emphasizes one’s shock, anger, disgust, incredulity, etc. _Why on earth are they here when the party doesn’t start for hours?_  
+__why on earth__ :four: __1__2 _proverb_ What one person may consider worthless could be highly prized or valued by someone else. __2__ Used to ask a question that emphasizes one’s shock, anger, disgust, incredulity, etc. _Why on earth are they here when the party doesn’t start for hours?_  
 __wide berth__ A good distance (between things, people, etc.). Originally referred to ships. _Once I learned that there was a lice outbreak, I kept a wide berth from all of my students for the rest of the day._  
 __wigged out__  
 __wild goose chase__ :three: A situation where you are looking for something that does not exist or that you are very unlikely to find, so that you waste a lot of time. _It looks like they’ve sent us on a wild goose chase._ A prolonged or chaotic search for something that is difficult to find (often because it does not exist). _I’ve been on a wild goose chase trying to find a bag of Dan’s favorite potato chips._  
@@ -5678,6 +5691,7 @@ __wildest dreams__ :two: All the things that one has ever imagined or hoped. Alw
 __willy-nilly__  
 __win (one) over__  
 __win (something) in a walk__ To win (something) easily, handily, or without much or any effort.  
+__win out__ To defeat someone or something; to prevail.  
 __win over__  
 __win-win__ _A win-win scenario._  
 __wind down__ :four::hammer:  
@@ -5687,15 +5701,19 @@ __window of opportunity__
 __window-shopping__ The act of visiting stores, or looking in their windows, to see what is available without buying anything. _My bank account is so sad these days that I’ll only be window-shopping for a while!_  
 __wine by the glass__ _A wine list with over 80 wines by the glass._  
 __wing it__ :dart::four: To do or attempt something with little preparation in advance; to improvise. _Oh man, I totally forgot that I’m supposed to do this presentation today—I’ll just have to wing it._  
+__wingding__ :two::hammer:  
+__wingman__ __2__ _informal_ Someone’s close friend, supporter, or ally.  
 __winning ways__ One’s charming, endearing, or likeable personality or demeanor. _It wasn’t hard for me to spot Kelly’s winning ways immediately—she has been bubbly and upbeat since the moment we met._  
 __wino__ _slang_ An alcoholic, especially one who chronically or habitually drinks wine.  
 __wipe the floor__  
 __wire__  
 __wise guy__ __2__ A mobster.  
+__wise up__  
 __wish (one) well__  
-__wishful thinking__ :two::hammer: :es: espejismo, ilusión  
+__wishful thinking__ :three: The act of thinking that or hoping that something will happen or be the case when in reality it is unlikely. :es: espejismo, ilusión  
 __wishy washy__ _slang_ Indecisive or not reliable.  
 __wishy-washy__ :three::hammer:  
+__wit a vengeance__ _Generative AI left the lab with a vengeance._  
 __wit’s end__ :two::dart: A state of distress that is reached when someone has no more patience. Often used in the phrase “at wit’s end” or “at (one’s) wit’s end.” _The baby’s been crying for hours, and I’ve reached my wit’s end!_  
 __witch hunt__ :two: An attempt to blame and punish people who hold unpopular views and opinions, often under the guise of some other investigation. _The ruling party’s witch hunt against its detractors sparked a civil war._  
 __witching hour__ _The pizzeria servers until the witching hours._  
