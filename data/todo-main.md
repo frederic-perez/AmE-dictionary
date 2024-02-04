@@ -98,31 +98,6 @@ __fallow land__ _n_
 __fiddle__ _v_  
 __figurehead__ _n_ :two: __1__ A person nominally having a prominent position, but no real authority.  
 __firestorm__ _n_  
-__fishing line__ _n_ (Angling) A line of nylon or silk, attached to a hook, used for catching fish. :es: sedal  
-__fishmonger__ _n_ _Chiefly British_ (fishwife)  
-__flatshare__ _n_ An arrangement in which two or more people share a flat (apartment building).  
-__flue__ _n_ __1__ (Building) A shaft, tube, or pipe, esp as used in a chimney, to carry off smoke, gas, etc.  
-__foible__ _n_ /ˈfɔɪbəl/  
-__friendly__ _n_ /ˈfrɛndlɪ/ (friendly match)  
-__furbelow__ _n_ A strip of pleated material used as a decoration or a trim. _Syn_ ruffle, flounce, frill  
-__godsend__ _n_  
-__gravity__ _n_ __2__ Grave consequence; seriousness or importance: _They are still quite unaware of the gravity of their problems._  
-__gridlock__ _n_  
-__grievance__ _n_ :two::hammer: /ˈgri vəns/  
-__gripe__ _n_ __1__ _informal_ A complaint.  
-__Groundhog Day__ _n_ __2__ A situation in which events are or appear to be continually repeated.  
-__grudgeful__ _adj_ /ˈɡrʌdʒfʊl/  
-__guac__ _n informal_ Guacamole.  
-__gully__ _n_  
-__hacksaw__ _n_  
-__haggis__ _n_  
-__harangue__ _n_ /huh-RANG/ A harangue is a forceful or angry speech or piece of writing.  
-__hard-hitting__ _adj_ Uncompromising; tough: _a hard-hitting report on urban deprivation._  
-__hardline__ _adj_  
-__heartfelt__ _adj_  
-__heightism__ _n_ :astonished: HY-tiz-uhm/ Discrimination based on height, especially the unfair treatment of people who are short.  
-__heliotrope__ _n_  
-__heteronym__ _n_  
 __hose clamp__ _n_  
 __hostage__ _n_ /ˈhɒs tɪdʒ/ :es: rehén  
 __identical__ _adj_ /aɪˈdɛntɪkəl/  
@@ -234,7 +209,7 @@ __whip up__
 __whiplash__ _n_ :two::hammer:  
 __white-collar__ _adj_ Of, relating to, or constituting the class of salaried employees whose duties do not call for the wearing of work clothes or protective clothing.  
 __whitlow__ _n_ A purulent infection at the end of a finger or toe in the area surrounding the nail. :astonished: _Syn_ felon  
-__wholesome__ _adj_  
+__wholesome__ _adj_  g
 __wire wool__ _n_ A mass of woven steel fibers used as an abrasive. _Syn_ steel wool  
 __wisteria__ _n_  
 __wistfully__ _adv_  
