@@ -1,11 +1,20 @@
+__(every) once in a while__ Occasionally; sometimes.  
 __a dime a dozen__ Ubiquitous; so abundant or common as to hold little or no value.  
 __a pain in the ass__  
 __all over the place__ __2__ _adj_ Very scattered or disorganized; ill-conceived. _Boy, that presentation was all over the place. It’s like they wrote it five minutes before taking the stage!_  
+__backhanded compliment__ :dart: An insulting or negative comment disguised as praise.  
+__banger__ When someone calls something a “banger,” it usually means that it’s really good or exciting.  
 __battle something out__  
+__be a wash__ To have gains and losses that are considered to be equal or offset; to have an outcome of negligible advantage or disadvantage. _The product sold moderately well, but we spent so much on development and marketing that it ended up being a wash._  
+__be the butt of the joke__  
+__collude with (someone or something)__  
 __cosleep__ Of a parent, to sleep in the same bed or room as one or more of their small or infant children. _We’re going to try cosleeping once the baby is born._ _Co-sleeping was a factor in quarter of Scotland’s infant deaths in 2023._  
+__died in their sleep__ When someone is said to have “died in their sleep,” it typically means that they passed away during the night while they were asleep. This phrase is often used when the cause of death is unclear or when the family wishes to maintain privacy.  
 __dislodge (someone or something) from (someone or something)__ To free someone or something that is stuck.  
 __double down__  
 __drum roll, please__  
+__eat dirt__  
+__eat shit__  
 __EGOT__ An abbreviation for “Emmy, Grammy, Oscar, Tony,” referring to the rare feat of winning the major awards in television, music, film, and theater. _Elton John joins elite EGOT ranks with Emmy win. John is only the 19th person to have achieved EGOT status (Whoopi Goldberg, Viola Davis, and Mel Brooks are some of the others)._  
 __end (something) on a high note__  
 __enough is enough__  
@@ -19,6 +28,7 @@ __fill up__
 __finagle__  
 __five o’clock shadow__  
 __flat-out__  
+__flatline__ _slang_ To die or come very close to death.  
 __floor (one)__ To cause one a great deal of shock, surprise, or disbelief.  
 __follow someone’s lead__ To do as someone else does; to accept someone’s guidance; to follow someone’s direction.  
 __follow suit__  
@@ -43,7 +53,8 @@ __give (someone) the word__ :dart: To give an order, make a request, or expressl
 __give it a whirl__ To try something (often for the first time as a means of forming an opinion about it).  
 __give notice__  
 __give someone a run for their money__  
-__glimmer of hope__ A minute indication that something may improve, succeed, or turn out for the best in the end.  
+__glimmer of hope__ :two: A minute indication that something may improve, succeed, or turn out for the best in the end.  
+__go deep__  
 __go down the rabbit hole__  
 __go missing__ To disappear. _My diamond earrings have gone missing, and I want the entire staff to be interrogated!_  
 __go overboard__  
@@ -69,9 +80,12 @@ __in vain__
 __in/within living memory__ In a recent enough time as to be remembered by people who are alive today. (Usually used in negative statements.) _There hasn’t been a blizzard like this in living memory!_ _The worst heart care crisis in living memory._  
 __it remains to be seen__  
 __jamming__ _slang_ Awesome; really exciting. _Man, that was an absolutely jamming party!_  
-__jaw-dropping__  
+__jaw-dropping__ :two::hammer:  
 __keep rolling__ The idiom “keep rolling” means to continue doing something with energy and momentum, similar to how a ball keeps rolling after it’s set in motion.  
+__lash out__ :dart: __2__ To react with sudden, intense anger.  
 __last-minute__ Done at the very last possible moment or opportunity.  
+__leapfrog over (someone or something)__  
+__line up__  
 __living large__  
 __long shot__ _Defense attorney Mickey Haller is back, taking the long shot cases._  
 __make waves__  
@@ -81,7 +95,9 @@ __moving target__
 __narrow escape__  
 __new normal__ A previously unusual occurrence that has become commonplace.  
 __no pain, no gain__  
+__no sweat__ :dart:  
 __not far off__ Partially or nearly correct; close to the truth.  
+__on edge__ Anxious and tense.  
 __on top of something__  
 __phase out__  
 __pizzazz__  
@@ -89,6 +105,7 @@ __pull the plug__
 __push back__  
 __push the envelope__ To expand on, exceed, or test the limits of the established norm or standard.  
 __rack up__  
+__raise the bar__ To raise the standards of quality that are expected of or required for something.  
 __ramp up__ :two::hammer:  
 __refer someone to someone or something__ To direct someone to someone or something; to send someone to someone or something.  
 __refer to (someone or something)__  
@@ -159,6 +176,7 @@ __snow job__ :dart: A form of manipulation that involves lying or flattery to pe
 __snowball__ To grow at an increasing rate. (As a snowball rolling down a hill might increase in size.) _Offers to help with money and prayers began to snowball, and we had to get volunteers to help answer the phones._  
 __snuff (one)__ :two: _slang_ To kill one. _He was planning on going to the police, but the criminals snuffed him before he had the chance._ _Tragically, he was snuffed in his prime by cancer._  
 __so it goes__ _informal_ That is the kind of thing that happens; that is life. _Too bad about John and his problems. So it goes._ _I just lost a twenty-dollar bill, and I can’t find it anywhere. So it goes._  
+__so-called__  
 __sort of__  
 __spell out__  
 __spill over__  
@@ -181,12 +199,16 @@ __take the stage__
 __talk (one’s) ear(s) off__ To talk so much as to cause one to be exhausted or bored.  
 __the bitter end__  
 __the days of wine and roses__ A time, especially in one’s youth or in some bygone era, characterized by success, prosperity, and happiness.  
-__the grass is always greener (on the other side)__  
+__the grass is always greener (on the other side)__ :two: _proverb_ Other people’s circumstances or belongings always seem more desirable than one’s own.  
 __the half of it__  
+__the last line of defense__ The final person or thing who can act as a protection or deterrent against some threat.  
 __the last straw__  
+__the Wild West__  
+__this is going to hurt__ Something is going to be painful, either physically or emotionally. It’s a way of acknowledging that whatever is coming up is going to be unpleasant, uncomfortable, or distressing.  
 __tongue twister__ A word or phrase that is hard to say clearly due to difficult alliteration or pronunciation.  
 __tongue-in-cheek__ Jocular or humorous, though seeming or appearing to be serious.  
 __tongue-tied__  
+__tune into (someone or something)__  
 __turn around__  
 __turnaround__  
 __tush__ _slang_ One’s buttocks. _The _tush push_ is a play in American football in which the quarterback receives the ball and is immediately pushed from behind by other players._  
