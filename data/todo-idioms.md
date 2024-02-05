@@ -1,7 +1,9 @@
 __(every) once in a while__ Occasionally; sometimes.  
 __a dime a dozen__ Ubiquitous; so abundant or common as to hold little or no value.  
 __a pain in the ass__  
-__all over the place__ __2__ _adj_ Very scattered or disorganized; ill-conceived. _Boy, that presentation was all over the place. It’s like they wrote it five minutes before taking the stage!_  
+__all over the place__ :two: __1__ _n_ Everywhere; over a great distance or area. _Now that we’ve graduated, my college friends are all over that place, and I hardly ever see them._ __2__ _adj_ Very scattered or disorganized; ill-conceived. _Boy, that presentation was all over the place. It’s like they wrote it five minutes before taking the stage!_  
+__avoid (someone or something) like the plague__  
+__back to back__  
 __backhanded compliment__ :dart: An insulting or negative comment disguised as praise.  
 __banger__ When someone calls something a “banger,” it usually means that it’s really good or exciting.  
 __battle something out__  
@@ -9,9 +11,13 @@ __be a wash__ To have gains and losses that are considered to be equal or offset
 __be the butt of the joke__  
 __collude with (someone or something)__  
 __cosleep__ Of a parent, to sleep in the same bed or room as one or more of their small or infant children. _We’re going to try cosleeping once the baby is born._ _Co-sleeping was a factor in quarter of Scotland’s infant deaths in 2023._  
+__cut someone or something out__  
+__day in and day out__  
 __died in their sleep__ When someone is said to have “died in their sleep,” it typically means that they passed away during the night while they were asleep. This phrase is often used when the cause of death is unclear or when the family wishes to maintain privacy.  
 __dislodge (someone or something) from (someone or something)__ To free someone or something that is stuck.  
+__do something/anything about__ To take some action to change or cope with something.  
 __double down__  
+__double-edged sword__  
 __drum roll, please__  
 __eat dirt__  
 __eat shit__  
@@ -69,6 +75,7 @@ __gut-wrenching__ Agonizing; extremely distressing, unpleasant, or emotionally d
 __gyatt__ A slang exclamation of surprise or excitement. Gyatt is most commonly used as an exclamation in reaction to seeing a large butt (that is, the buttocks) and may be used as a noun to mean a large butt.  
 __gym bunny__ Someone who is obsessively preoccupied with maintaining or improving their physique and thus spends a large amount of time at the gym to do so. _After recovering from his surgery, John spent a lot of time at the gym getting his body back into shape. Now he’s turned into a total gym bunny._  
 __happy medium__ A healthy balance between two extremes.  
+__hard line__  
 __hassle (someone) about (something)__ To bother or nag someone about something. _Ugh, quit hassling me about that, will you?_  
 __have (one’s) hands full__ :dart: To be busy or completely occupied with dealing with something.  
 __have (something) to do__ To have some task or action that one must complete or undertake.  
@@ -78,26 +85,31 @@ __in other news__
 __in the interim__ In the time before something happens; in the meantime.  
 __in vain__  
 __in/within living memory__ In a recent enough time as to be remembered by people who are alive today. (Usually used in negative statements.) _There hasn’t been a blizzard like this in living memory!_ _The worst heart care crisis in living memory._  
-__it remains to be seen__  
+__it remains to be seen__ :two::hammer:  
 __jamming__ _slang_ Awesome; really exciting. _Man, that was an absolutely jamming party!_  
 __jaw-dropping__ :two::hammer:  
 __keep rolling__ The idiom “keep rolling” means to continue doing something with energy and momentum, similar to how a ball keeps rolling after it’s set in motion.  
+__kicking__ __3__ _slang_ Still alive and active, especially despite old age.  
 __lash out__ :dart: __2__ To react with sudden, intense anger.  
 __last-minute__ Done at the very last possible moment or opportunity.  
 __leapfrog over (someone or something)__  
 __line up__  
 __living large__  
 __long shot__ _Defense attorney Mickey Haller is back, taking the long shot cases._  
+__make a dent in (something)__  
+__make matters worse__ To make a situation worse. _He laughed at her and then, to make matters worse, he accused her of lying!_  
 __make waves__  
 __mixed bag__  
 __more/bigger/greater than the sum of its parts__  
 __moving target__  
+__nah__ _informal_ No; not really.  
 __narrow escape__  
 __new normal__ A previously unusual occurrence that has become commonplace.  
 __no pain, no gain__  
 __no sweat__ :dart:  
 __not far off__ Partially or nearly correct; close to the truth.  
 __on edge__ Anxious and tense.  
+__red tape__ :three::hammer:  
 __roly-poly__ _A roly-poly hustler._  
 __room to grow__ A phrase used to describe the potential for something to improve or expand in the future. _There is always room to grow._  
 __root cause__ The most fundamental, central, or basic causal element of something.  
@@ -118,7 +130,9 @@ __shallow pockets__ “Shallow pockets” is an idiomatic expression that means 
 __shed (some) light on (something)__  
 __shed light on__  
 __shoo off__  
+__shortly after__ Soon after.  
 __shy of (something)__  
+__sideline__ _vt_ To remove or keep from active participation.  
 __sign me up__ “Sign me up” is an idiomatic expression that means “count me in” or “include me in this activity or event.” It’s a way of expressing enthusiasm or interest in something, and a willingness to participate.  
 __simply put__  
 __Sisyphean task__ A task that can never be completed or one that is repetitive and futile, much like the Greek mythological character Sisyphus.  
@@ -140,6 +154,7 @@ __slip through the cracks__
 __slip up__ __1__ :dart: _v_ To blunder; to make a mistake or an error. _I think I slipped up and sent the check to the wrong address._  
 __slob__  
 __slow down__  
+__slowly but surely__  
 __smear (one’s) name__ To disparage one publicly, especially to the detriment of one’s reputation.  
 __smooch__ /smutʃ/  
 __sneak peek__ :two::hammer:  
@@ -153,6 +168,7 @@ __snuff (one)__ :two: _slang_ To kill one. _He was planning on going to the poli
 __so it goes__ _informal_ That is the kind of thing that happens; that is life. _Too bad about John and his problems. So it goes._ _I just lost a twenty-dollar bill, and I can’t find it anywhere. So it goes._  
 __so-called__  
 __sort of__  
+__sound asleep__  
 __spell out__  
 __spill over__  
 __spill the beans__  
@@ -170,9 +186,14 @@ __strapped for cash__ Without any or very much money at the moment; broke, espec
 __street urchin__ A poor child who spends most of their time outside, often due to living on the streets.  
 __strike a deal__ :three: To successfully achieve a deal or agreement, especially regarding an acceptable price or exchange for something.  
 __studette__ The female version of a stud. A girl that can get any guy she wants, is incredibly good looking, has an amazing personality and is overall awesome at life.  
+__sweep down on (someone or something)__  
 __take the stage__  
 __talk (one’s) ear(s) off__ To talk so much as to cause one to be exhausted or bored.  
 __the bitter end__  
+__the latest__ _What’s the latest?_  
+__the straw that broke the camel’s back__ A seemingly small or inconsequential issue, problem, or burden that proved to be the final catalyst in causing an overworked or overburdened person, system, organization, etc., to fail, give up, or collapse.  
+__wake-up call__  
+__water down__  
 __with a bang__ :three::hammer:  
 __with a heavy hand__ __1__ In an excessive, authoritarian, or oppressive way or manner. _The police dispersed the protesters with a heavy hand._  
 __with a vengeance__ _Die Hard with a Vengeance._  
@@ -186,7 +207,7 @@ __yard__ _n_ A one-hundred-dollar bill. (Underworld.) _The guy wanted a yard jus
 __yen__ A desire. Often used in the phrase “have a yen for (someone/something).“  
 __yippee-ki-yay__ :two::hammer:  
 __you name it__  
-__your thoughts__ A way to invite someone to share their opinion or perspective in a conversation.  
+__your thoughts__ :two: A way to invite someone to share their opinion or perspective in a conversation.  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
 __zero in__  
 __zig when (one) should zag__  
