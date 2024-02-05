@@ -20317,6 +20317,7 @@ __wealth__ _n_ :five::dart::hammer: _It creates a wealth of fresh energy._ _A we
 __wean off__ _phr v_ To slowly stop a dependency on something.  
 __wean__ _v_ :nine::m: (weaned, weaning) __1__ To accustom (the young of a mammal) to take nourishment other than by suckling. :es: destetar __2__ To detach from that to which one is strongly habituated or devoted: _She weaned herself from cigarettes._ __3__ To accustom to or familiarize with something from, or as if from, childhood. Often used with _on_. _A brilliant student weaned on the classics._  
 __weaponize__ _v_ :nine::hammer:  
+__weaponsmith__ _n_  
 __wearily__  
 __weary__ _adj_ :three::hammer:  
 __weasel<sup>1</sup>__ _n_ :dart::two: __1__ Any of various carnivorous mammals of the genus _Mustela_. :es: comadreja __2__ A person regarded as sneaky or treacherous.  
@@ -20366,6 +20367,7 @@ __well-nigh__ _adv_ Almost. _A task that is well-nigh impossible._
 __well-off__ _adj_  
 __well-read__ _adj_ :three: Someone who is well-read has read many books and has a lot of knowledge.  
 __well-rounded__ _adj_ :five::hammer:  
+__well-versed__ _adj_ Comprehensively knowledgeable (about), acquainted (with), or skilled (in).  
 __wellbeing__ _n_ :two::hammer::pencil2:  
 __wellhead__  
 __welling up__  
@@ -20395,6 +20397,7 @@ __wetsuit__ _n_
 __Whac-A-Mole__  
 __whackadoodle__  
 __Whackety-Whack__  
+__whacky__ _adj_ _slang US_ A variant spelling of _wacky_.  
 __whale<sup>1</sup>__ _n_ :mute:[w~~h~~ale]  
 __whale<sup>2</sup>__ _v_ :mute:[w~~h~~ale]  
 __whammy__ _n_ _slang_ :two: An object or power that one uses to cause often evil events. _Syn_ charm, evil eye, magic, spell _A double whammy of injuries._  
@@ -20418,7 +20421,7 @@ __wheelbarrow__ _n_ :three::hammer:
 __wheelbarrow-sledges__  
 __wheeled__ _v_ _Shallows dipped and wheeled._  
 __wheeler-dealer__ _n_ _informal_ :dart: One who advances one’s own interests by canny, aggressive, or unscrupulous behavior. _I am a wheeler-dealer and I gotta keep movin’._  
-__wheelhouse__ _n_ :two: /HWEEL-haus/ __1__ An enclosed area on a boat or ship that houses the steering wheel. __2__ In baseball, the area in which it’s easiest for the batter to hit the ball with the most power. __3__ One’s area of interest or expertise.  
+__wheelhouse__ _n_ :three: /HWEEL-haus/ __1__ An enclosed area on a boat or ship that houses the steering wheel. __2__ In baseball, the area in which it’s easiest for the batter to hit the ball with the most power. __3__ One’s area of interest or expertise.  
 __wheelie__  
 __wheelwright__ _n_  
 __wheeze__ _v_ :three: (wheezing) To breathe in a noisy way that is uncomfortable for you, usually because you are sick. _Wheezing economy._  
@@ -20429,7 +20432,8 @@ __whereabouts__
 __whereas__  
 __whereby__  
 __wherefore__ _adv_  
-__wherewithal__ _n_ :five: /WAIR-wih-thawl/ Wherewithal refers to the means, resources, or money that is needed to get or do something. _News reports suggest that the company does not have the wherewithal from investors to prevent a buyout._  
+__wherewithal<sup>1</sup>__ _n_ :six: /WAIR-wih-thawl/ Wherewithal refers to the means, resources, or money that is needed to get or do something. That with which to do something; means or supplies for the purpose or need, esp. money: _the wherewithal to pay my rent._ _News reports suggest that the company does not have the wherewithal from investors to prevent a buyout._  
+__wherewithal<sup>2</sup>__ _adv_ By means of which; out of which.  
 __wherry__ _n_  
 __whet__ _v_ :nine::m: (whetted, whetting) __1__ To sharpen (a knife, for example); hone. _The keenest whetted blades._ __2__ To make more keen; stimulate. _Syn_ quicken, pique _The frying bacon whetted my appetite._ _Whetting the appetite for next year’s Part 2._  
 __whether__ _conj_ :mute:[w~~h~~ether]  
@@ -20447,10 +20451,10 @@ __whimsical__ _adj_ :astonished::three: /WIM-zih-kul/ __1__ Characterized by, ar
 __whinge<sup>1</sup>__ _vi_ :two: /whinj/ _British English_ To keep complaining in an annoying way. To complain or protest, especially in an annoying or persistent manner.  
 __whinge<sup>2</sup>__ _n_ A whine or complaint.  
 __whinnied__ _v_  
-__whip up__ _phr v_ To make food or a meal very quickly and easily.  
+__whip up__ _phr v_ :two: To make food or a meal very quickly and easily.  
 __whip<sup>1</sup>__ _v_ :mute:[w~~h~~ip]  
 __whip<sup>2</sup>__ _n_ :mute:[w~~h~~ip] _Mr. Roskam was appointed deputy whip after the 2010 elections._  
-__whiplash__ _n_ :six: Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ _An amazing, whiplash-inducing performance._ _Economic whiplash._ :es: latigazo  
+__whiplash__ _n_ :eight: Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ _An amazing, whiplash-inducing performance._ _Economic whiplash._ :es: latigazo  
 __whippersnapper__  
 __whipsaw__ _v_  
 __whir<sup>1</sup>__ _n_ :two: (whirr in _British English_) Sound of something in rapid motion. _The high-pitched whir of a drill._  
@@ -20481,6 +20485,7 @@ __white paper__ _n_ :two::hammer:
 __white supremacist__ _n_ One who believes that white people are racially superior to others and should therefore dominate society.  
 __white tie__ _n_ (vs _black tie_)  
 __white whale__ _n_ Small northern whale that is white when adult.  
+__white-collar__ _adj_ Of, relating to, or constituting the class of salaried employees whose duties do not call for the wearing of work clothes or protective clothing.  
 __white-hot__ _adj_ :two::hammer: _Gustafson will be at the white-hot center of that quest._  
 __white-knuckle ride__  
 __white-knuckled__  
@@ -20494,6 +20499,7 @@ __whitewash<sup>2</sup>__ _v_ :five: __1__ To paint or coat with whitewash. __2_
 __whitewater<sup>1</sup>__ _n_ :five: (white water) Turbulent or frothy water, as in rapids or surf. _Whitewater rafting._  
 __whitewater<sup>2</sup>__ _adj_ (white-water) Of, relating to, intended for, or taking place on whitewater, especially in river rapids: _whitewater rafting._  
 __whithered__  
+__whitlow__ _n_ A purulent infection at the end of a finger or toe in the area surrounding the nail.  
 __whittle__ _v_ :eight::hammer: (whittled, whittling) _The overwhelming advantage has been whittled down._  
 __whizbang<sup>1</sup>__ _n_ [:scroll: The term has its origin in the onomatopoeic representation of the sound made by a firearm or firework. It was popularized in WWI as high-speed shells were called whizbangs. It was also the name given to a rocket launcher used by the US Army during WWII.] __1__ Someone or something extraordinarily successful. __2__ Someone or something flashy, impressive, technologically innovative, etc. __3__ A firework that makes whizzing sounds and loud bangs.  
 __whizbang<sup>2</sup>__ _adj_ __1__ Highly successful or talented. __2__ Flashy, impressive, fast-paced, loud, etc.  
@@ -20511,7 +20517,7 @@ __whole<sup>3</sup>__ _adv_ :mute:[~~w~~hole] _informal_ Entirely; wholly: _a wh
 __wholeheartedly__ _adv_ :three::hammer:  
 __wholesale__ _adj, adv, n, v_ :six: Use the adjective wholesale to describe something that’s done on a big, broad scale, like wholesale changes made by a new government that affect an entire country. It’s pretty common to see the phrase “wholesale destruction,” especially when historians are talking about the overwhelming effects of war or ecological disasters. When wholesale is a verb, it has a very different meaning — to sell things in bulk, usually to someone who is going to sell it again at a higher retail price. The earliest meaning of the word was “in large quantities,” combining whole and sale into the phrase “by whole sale.” _Russia stands for wholesale orruption._ _The wholesale burning of villages._ _The largest wholesale jewelry center open to the public._  
 __wholesaler__ _n_ :two: Someone who buys large quantities of goods and resells to merchants rather than to the ultimate customers. _Syn_ jobber, middleman  
-__wholesome__ _adj_ :five::hammer:  
+__wholesome__ _adj_ :six::hammer:  
 __wholistic__ _adj_ A variant spelling of holistic.  
 __Wholly Molly__  
 __wholly__ _adv_ :pencil2::four::hammer: _Something wholly different._ _A problem that is wholly unnecessary._  
@@ -20549,7 +20555,7 @@ __wigglers__
 __wild card__ _n_ :three::hammer: (wildcard) _The wild card was an expected weekend warmup with rain._  
 __wild__ _adj_ :seven::hammer: _It’s wild!_  
 __wilderness__ _n_ :two::hammer:  
-__wildfire__ _n_ :pencil2:  
+__wildfire__ _n_ :two::hammer::pencil2:  
 __wildflowers__ _n_ :two::hammer:  
 __wildfowl__  
 __wildling__ _n informal_ The activity by a gang of youths of going on a protracted and violent rampage in a public place, attacking or mugging people at random. _John is about to kill wildling leader Rayder._  
@@ -20623,6 +20629,7 @@ __wipe out__ _phr v_ To murder or kill.
 __wire > getting down to the wire__  
 __wire book stand__  
 __wire grass__ _n_ _The 2014 U.S. Open was visually intriguing, with its brown sandscape, wire grass and pine straw._  
+__wire wool__ _n_ A mass of woven steel fibers used as an abrasive. _Syn_ steel wool  
 __wire-rimmed__ _adj_ _Wire-rimmed glasses._  
 __wire-to-wire__ _adj informal_ :three: From start to finish. _He may not have what it takes to lead from wire-to-wire; Kaymer is just the seventh wire-to-wire winner in U.S. Open history._  
 __wiredraw__ _v_ :astonished: __1__ To draw (metal) into wire. __2__ To treat (a subject, for example) with great length, excessive detail, or overrefinement; spin out.  
@@ -20644,16 +20651,16 @@ __wishy-washy__ _adj_ :four: __1__ _informal_ Irresolute, indecisive, or waverin
 __wisk__ _v_  
 __wisp__ _n_ :eight: __1__ A thin, light, delicate, or fibrous piece or strand, such as a streak of smoke or a lock of hair. _A wisp of dust._ _Wisps of her hair had fallen loose from her barrette._ _Wisps of rain._ _A wisp of a mustache._ __2__ _Agriculture_ A small bundle, as of hay or straw. __3__ Anything slender and delicate: _a wisp of a girl._ __4__ A mere suggestion or hint. __5__ _Zoology_ A flock of birds, esp snipe.  
 __wispy__ _adj_ :four::hammer: _Wispy hair._  
-__wisteria__ _n_ :two::hammer: _(Plants)_  
+__wisteria__ _n_ :three::hammer: _(Plants)_  
 __wistful__ _adj_ :seven::dart::hammer: /WIST-ful/ _As the car pulled away, Lea cast one last wistful glance at the house where she’d spent so many happy years._  
-__wistfully__ _adv_ :three::hammer: _She gazed wistfully at the boathouse._  
+__wistfully__ _adv_ :four::hammer: _She gazed wistfully at the boathouse._  
 __wistfulness__  
 __wit__ _n_ :three::hammer: _He had regained his wits._ _He was at wit’s end._  
 __witchcraft__ _n_ :two::hammer: _A 1958 witchcraft comedy._  
 __Wite-Out__ _n_  
 __with-it__ _adj_ In accord with the most fashionable ideas or style.  
 __withdraw__ _v_ _The nobility was withdrawing support._  
-__withdrawal__ _n_ :two: Withdrawal is when you take something out, like making a withdrawal from your bank account. When you announced you were no longer running for president, your withdrawal from the race disappointed your many supporters. Withdrawal is also used to describe the painful experience that results when you stop taking an addictive drug (when you “take it out” of your system). The state of being emotionally detached is called withdrawal. If a country terminates an agreement like a treaty, that’s a withdrawal too. Remember that withdrawal ends in “wal” and not just “wl.” _I was going through withdrawal._ _Readers suffered withdrawal symptoms._  
+__withdrawal__ _n_ :three: Withdrawal is when you take something out, like making a withdrawal from your bank account. When you announced you were no longer running for president, your withdrawal from the race disappointed your many supporters. Withdrawal is also used to describe the painful experience that results when you stop taking an addictive drug (when you “take it out” of your system). The state of being emotionally detached is called withdrawal. If a country terminates an agreement like a treaty, that’s a withdrawal too. Remember that withdrawal ends in “wal” and not just “wl.” _I was going through withdrawal._ _Readers suffered withdrawal symptoms._  
 __withe down__ _v_  
 __wither away__ _v_ :two::hammer:  
 __wither__ _v_ :three::hammer: (withers, withered)  
@@ -20666,10 +20673,11 @@ __withstand__ _v_ :six::hammer:
 __witless__ _adj_ Lacking intelligence or wit; foolish. _Syn_ nitwitted, soft-witted, senseless _He was a witless soul who never learned from his mistakes._  
 __witness tampering__ _n_ The act of attempting to improperly influence, alter or prevent the testimony of witnesses within criminal or civil proceedings.  
 __witty__ _adj_ :two::hammer: _A witty cast of characters that serve and entertain._  
+__wizardry__ _n_  
 __wizen__ _v_  
 __wizened__ _adj_ :five: “You’re looking quite wizened today,” is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness. _Syn_ shrunken, withered, shriveled _The wizened face of the man of law was twisted into a wrinkled smile._  
 __woad__ _n_ :two: __1__ A European herb (_Isatis tinctoria_) of the mustard family formerly grown for the blue dyestuff yielded by its leaves. __2__ The blue dye obtained from the dried, fermented leaves of such plants. :es: pastel  
-__wobble__ _v_ (wobbling)  
+__wobble__ _v_ :two::hammer: __3__ To waver or vacillate in one’s opinions or feelings.  
 __wobbly__ _adj_ :three::hammer: _Wobbly dome of yolk._  
 __woe__ _n_ :four: (woes) Misfortune; calamity: _economic and political woes._ _Born to woe._ :es: Nacido para el infortunio.  
 __woeful__ _adj_ :four::hammer: _Our woeful train system._  
@@ -20695,6 +20703,7 @@ __wont<sup>1</sup>__ _adj_ :three::hammer:
 __wont<sup>2</sup>__ _n_ :three::hammer:  
 __wont<sup>3</sup>__ _v_ :two::hammer:  
 __wonted__ _adj_ Commonly used or practiced; usual.  
+__woo__ _v_  
 __woo-woo__ _adj_ :two: (or just plain woo) /ˈwuːˌwuː/ _derogatory slang_ Based on or involving irrational superstition. It refers to ideas considered irrational or based on extremely flimsy evidence or that appeal to mysterious occult forces or powers. Concerned with emotions, mysticism, or spiritualism; other than rational or scientific; mysterious; new agey.  
 __wood chipper__ _n_ A power-driven machine for cutting wood into chips.  
 __wood pellets__  
@@ -20725,8 +20734,9 @@ __wordiness__ _n_
 __wording__ _n_  
 __wordle__ _n_ :two::hammer: (game)  
 __wordnesia__ _n_ When a common word looks strange and ungainly.  
-__wordplay__  
-__wordsmith__ _v_ :two::hammer:  
+__wordplay__ _n_ :two::hammer:  
+__wordsmith<sup>1</sup>__ _n_  
+__wordsmith<sup>2</sup>__ _v_ :two::hammer:  
 __wordy__ _adj_ :two: Using or containig too many words.  
 __work as planned__  
 __work at__ _phr v_ To try hard to develop or improve something.  
@@ -20736,13 +20746,14 @@ __work off__ _phr v_ To get rid of something by using physical effort.
 __work on__ _phr v_ :two: To spend time or improving something.  
 __work out__ _phr v_ :two: To find the answer or solution.  
 __work surface__ _n_ A horizontal surface for supporting objects used in working or playing games. _The kitchen’s work surface._  
-__workaday__ _adj_ :two::hammer: _The workaday world._  
+__workaday__ _adj_ :three::hammer: _The workaday world._  
 __workaholism__ _n_ :mega: The state of being a workaholic.  
 __workbook__ _n_  
 __workforce__ _n_ :two::hammer: (work force)  
 __workhorse__ _n_ _informal_ A person who works tirelessly, especially at difficult or time-consuming tasks.  
+__working order__ _n_  
 __working title__  
-__workload__ _n_ :two::hammer: _A new weight management service will result in a significant rise in GP workload._  
+__workload__ _n_ :three::hammer: _A new weight management service will result in a significant rise in GP workload._  
 __workmanlike__  
 __worksheet__ _n_ _Ask for a library worksheet._  
 __workshop__ _v_ :three::astonished::hammer: (workshopped)  
@@ -20760,7 +20771,7 @@ __worsened__ _adj_
 __worshiper__  
 __worst nightmare__ _n_ The thing someone fears most.  
 __wort__  
-__worthwhile__ _adj_ Sufficiently valuable or important to be worth one’s time, effort, or interest.  
+__worthwhile__ _adj_ :two: Sufficiently valuable or important to be worth one’s time, effort, or interest.  
 __would you be so kind as to__ _phr_ :es: sería tan amable de, tendría la bondad de  
 __would__ _v_ :mute:[wou~~l~~d]  
 __woven__ _n_  

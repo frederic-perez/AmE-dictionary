@@ -198,31 +198,6 @@ __vivacious__ _adj_ :mega: /vuh-VAY-shus/ Someone or something described as viva
 __wacko__ _n_ _slang_ A person regarded as eccentric or irrational.  
 __washer__ _n_ :two: __2__ (Mechanical Engineering) A flat ring or drilled disc of metal used under the head of a bolt or nut to spread the load when tightened.  
 __watchtower__ _n_ :pencil2:  
-__weaponsmith__ _n_  
-__well-versed__ _adj_ Comprehensively knowledgeable (about), acquainted (with), or skilled (in).  
-__whacky__ _adj_ _slang US_ A variant spelling of _wacky_.  
-__wheelhouse__  
-__wherewithal<sup>1</sup>__ _n_ That with which to do something; means or supplies for the purpose or need, esp. money: _the wherewithal to pay my rent._  
-__wherewithal<sup>2</sup>__ _adv_ By means of which; out of which.  
-__whip up__  
-__whiplash__ _n_ :two::hammer:  
-__white-collar__ _adj_ Of, relating to, or constituting the class of salaried employees whose duties do not call for the wearing of work clothes or protective clothing.  
-__whitlow__ _n_ A purulent infection at the end of a finger or toe in the area surrounding the nail. :astonished: _Syn_ felon  
-__wholesome__ _adj_  
-__wildfire__ _n_  
-__wire wool__ _n_ A mass of woven steel fibers used as an abrasive. _Syn_ steel wool  
-__wisteria__ _n_  
-__wistfully__ _adv_  
-__withdrawal__ _n_  
-__wizardry__ _n_  
-__wobble__ _v_ __3__ To waver or vacillate in one’s opinions or feelings.  
-__woo__ _v_  
-__wordplay__ _n_  
-__wordsmith__ _n_  
-__workaday__ _adj_  
-__working order__ _n_  
-__workload__ _n_  
-__worthwhile__  
 __wrench__ _v_ _Pulling the plug was wrenching._  
 __wrenching__ _adj_ Causing great physical or mental suffering. _ABC News went through a wrenching round of layoffs._  
 __wriggle__ _v_  
