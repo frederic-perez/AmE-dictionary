@@ -8,6 +8,7 @@ __backhanded compliment__ :dart: An insulting or negative comment disguised as p
 __banger__ When someone calls something a “banger,” it usually means that it’s really good or exciting.  
 __battle something out__  
 __be a wash__ To have gains and losses that are considered to be equal or offset; to have an outcome of negligible advantage or disadvantage. _The product sold moderately well, but we spent so much on development and marketing that it ended up being a wash._  
+__be keen about (someone or something)__  
 __be the butt of the joke__  
 __collude with (someone or something)__  
 __cosleep__ Of a parent, to sleep in the same bed or room as one or more of their small or infant children. _We’re going to try cosleeping once the baby is born._ _Co-sleeping was a factor in quarter of Scotland’s infant deaths in 2023._  
@@ -47,7 +48,9 @@ __freak out__
 __friendly reminder__ “Friendly reminder” is an idiomatic expression that means “a gentle reminder” or “a polite reminder.” It’s a way of reminding someone about something in a non-confrontational or friendly way.  
 __fuss about__  
 __game-changer__  
+__gather steam__  
 __get (one) started__  
+__get a free pass__  
 __get anywhere__ To make progress.  
 __get nowhere__  
 __get something straight__  
@@ -75,14 +78,18 @@ __gut-wrenching__ Agonizing; extremely distressing, unpleasant, or emotionally d
 __gyatt__ A slang exclamation of surprise or excitement. Gyatt is most commonly used as an exclamation in reaction to seeing a large butt (that is, the buttocks) and may be used as a noun to mean a large butt.  
 __gym bunny__ Someone who is obsessively preoccupied with maintaining or improving their physique and thus spends a large amount of time at the gym to do so. _After recovering from his surgery, John spent a lot of time at the gym getting his body back into shape. Now he’s turned into a total gym bunny._  
 __happy medium__ A healthy balance between two extremes.  
-__hard line__  
+__hard line__ :two::hammer:  
 __hassle (someone) about (something)__ To bother or nag someone about something. _Ugh, quit hassling me about that, will you?_  
 __have (one’s) hands full__ :dart: To be busy or completely occupied with dealing with something.  
+__have (one’s) plate full__  
 __have (something) to do__ To have some task or action that one must complete or undertake.  
 __have a go (at someone or something)__  
 __heavy-footed__ Clumsy, ponderous, or lumbering in gait or tread. _The team’s star striker deftly navigated the ball past the heavy-footed defenseman._  
+__in no time (at all)__  
 __in other news__  
+__in short supply__ Scarce.  
 __in the interim__ In the time before something happens; in the meantime.  
+__in the zone__  
 __in vain__  
 __in/within living memory__ In a recent enough time as to be remembered by people who are alive today. (Usually used in negative statements.) _There hasn’t been a blizzard like this in living memory!_ _The worst heart care crisis in living memory._  
 __it remains to be seen__ :two::hammer:  
@@ -96,8 +103,11 @@ __leapfrog over (someone or something)__
 __line up__  
 __living large__  
 __long shot__ _Defense attorney Mickey Haller is back, taking the long shot cases._  
-__make a dent in (something)__  
-__make matters worse__ To make a situation worse. _He laughed at her and then, to make matters worse, he accused her of lying!_  
+__make a dent in (something)__ :two::hammer:  
+__make matters worse__ :two: To make a situation worse. _He laughed at her and then, to make matters worse, he accused her of lying!_  
+__on hold__ __2__ Paused, postponed, or suspended.  
+__over the line__  
+__red tape__ :three::hammer:  
 __scruff(y)__  
 __scuttlebutt__ _n_ News; information; gossip. (The legend of origin is that the scuttlebutt was a butt [= cask, keg] of drinking water located near a scuttle [= hatch]. Sailors gathered there to exchange gossip.)  
 __settle down__ _These gastrointestinal effects tended to settle down over the five weeks._  
@@ -105,7 +115,7 @@ __shallow pockets__ “Shallow pockets” is an idiomatic expression that means 
 __shed (some) light on (something)__  
 __shed light on__  
 __shoo off__  
-__shortly after__ Soon after.  
+__shortly after__ :two: Soon after.  
 __shy of (something)__  
 __sideline__ _vt_ To remove or keep from active participation.  
 __sign me up__ “Sign me up” is an idiomatic expression that means “count me in” or “include me in this activity or event.” It’s a way of expressing enthusiasm or interest in something, and a willingness to participate.  
@@ -143,7 +153,7 @@ __snuff (one)__ :two: _slang_ To kill one. _He was planning on going to the poli
 __so it goes__ _informal_ That is the kind of thing that happens; that is life. _Too bad about John and his problems. So it goes._ _I just lost a twenty-dollar bill, and I can’t find it anywhere. So it goes._  
 __so-called__  
 __sort of__  
-__sound asleep__  
+__sound asleep__ :two::hammer:  
 __spell out__  
 __spill over__  
 __spill the beans__  
@@ -153,6 +163,7 @@ __stay tuned__
 __step aside__ :dart:  
 __step down__  
 __step in__ To enter into some position, activity, or situation to intervene or improve it.  
+__step up__  
 __stick with (someone or something)__  
 __stir the pot__ To exacerbate a tense or otherwise difficult situation.  
 __stop (dead) in (one’s) tracks__ :two::hammer:  
@@ -162,13 +173,16 @@ __street urchin__ A poor child who spends most of their time outside, often due 
 __strike a deal__ :three: To successfully achieve a deal or agreement, especially regarding an acceptable price or exchange for something.  
 __studette__ The female version of a stud. A girl that can get any guy she wants, is incredibly good looking, has an amazing personality and is overall awesome at life.  
 __sweep down on (someone or something)__  
+__take a step back__  
 __take the stage__  
 __talk (one’s) ear(s) off__ To talk so much as to cause one to be exhausted or bored.  
 __the bitter end__  
 __the latest__ _What’s the latest?_  
-__the straw that broke the camel’s back__ A seemingly small or inconsequential issue, problem, or burden that proved to be the final catalyst in causing an overworked or overburdened person, system, organization, etc., to fail, give up, or collapse.  
+__the straw that broke the camel’s back__ :two: A seemingly small or inconsequential issue, problem, or burden that proved to be the final catalyst in causing an overworked or overburdened person, system, organization, etc., to fail, give up, or collapse.  
+__touch down__  
 __wake-up call__  
-__water down__  
+__water down__ :two::hammer:  
+__whipe your hair__ When you “whip your hair,” you’re moving your head and hair in a fast and forceful motion. The phrase is meant to evoke a sense of power and confidence.  
 __with a bang__ :three::hammer:  
 __with a heavy hand__ __1__ In an excessive, authoritarian, or oppressive way or manner. _The police dispersed the protesters with a heavy hand._  
 __with a vengeance__ _Die Hard with a Vengeance._  
@@ -182,7 +196,7 @@ __yard__ _n_ A one-hundred-dollar bill. (Underworld.) _The guy wanted a yard jus
 __yen__ A desire. Often used in the phrase “have a yen for (someone/something).“  
 __yippee-ki-yay__ :two::hammer:  
 __you name it__  
-__your thoughts__ :two: A way to invite someone to share their opinion or perspective in a conversation.  
+__your thoughts__ :three: A way to invite someone to share their opinion or perspective in a conversation.  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
 __zero in__  
 __zig when (one) should zag__  
