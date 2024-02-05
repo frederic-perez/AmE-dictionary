@@ -98,31 +98,6 @@ __living large__
 __long shot__ _Defense attorney Mickey Haller is back, taking the long shot cases._  
 __make a dent in (something)__  
 __make matters worse__ To make a situation worse. _He laughed at her and then, to make matters worse, he accused her of lying!_  
-__make waves__  
-__mixed bag__  
-__more/bigger/greater than the sum of its parts__  
-__moving target__  
-__nah__ _informal_ No; not really.  
-__narrow escape__  
-__new normal__ A previously unusual occurrence that has become commonplace.  
-__no pain, no gain__  
-__no sweat__ :dart:  
-__not far off__ Partially or nearly correct; close to the truth.  
-__on edge__ Anxious and tense.  
-__red tape__ :three::hammer:  
-__roly-poly__ _A roly-poly hustler._  
-__room to grow__ A phrase used to describe the potential for something to improve or expand in the future. _There is always room to grow._  
-__root cause__ The most fundamental, central, or basic causal element of something.  
-__rosy__ _mod_ Good; satisfactory. (As a life that is seen through rose-colored glasses.) _Things are looking rosy now that the economy is improving._  
-__rundown__ _n_ The general details about or a brief summary of something. _Please give me a rundown of what was discussed at the board meeting yesterday._  
-__says who__  
-__schtick__  
-__scooch over__  
-__scooch__ _v_ /skutʃ/  
-__scoop up__  
-__scoop__  
-__scoot__ :two: __1__ _vi_ To run or scurry quickly from one place to another. _I scooted from the bank to the cleaners and then on to the dentist’s._ __2__ _n_ A motorcycle. _Do you wear a brain-bucket on your scoot?_  
-__screw up__ :dart: __5__ _n_ A huge mistake, blunder, or mishandling. In this usage, the phrase is usually hyphenated or spelled as one word. _Another screwup like that and you’re fired!_ _I don’t care whose screw-up it was—just fix it!_  
 __scruff(y)__  
 __scuttlebutt__ _n_ News; information; gossip. (The legend of origin is that the scuttlebutt was a butt [= cask, keg] of drinking water located near a scuttle [= hatch]. Sailors gathered there to exchange gossip.)  
 __settle down__ _These gastrointestinal effects tended to settle down over the five weeks._  

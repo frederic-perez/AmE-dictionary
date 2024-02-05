@@ -3529,7 +3529,7 @@ __mission accomplished__ :two::hammer:
 __mission creep__ The gradual expansion or widening in scope of a project, action, or task, especially a military operation, beyond its initial goal or objective. _Congress is wary of granting the president’s request for military authority in the region, fearing a repeat of the mission creep that plagued his last war effort._  
 __mix and match__ :two: To put certain things together in different combinations. _You can mix and match any of the items on this table, so take whatever you want._ _The pieces in my spring collection were designed to be mixed and matched._  
 __mix apples and oranges__ To combine or compare two different things.  
-__mixed bag__ :six: A diverse mixture or group.  
+__mixed bag__ :seven: A diverse mixture or group.  
 __mixed emotions__ Positive and negative emotions that are experienced simultaneously and are often in conflict with one another. _I’ve got mixed emotions about starting college this fall: on the one hand, I can’t wait to start the next chapter in my education, but, on the other, I will be so sad leaving my friends and family behind._  
 __mixed feelings__ :two::hammer:  
 __mixed signal__ :two: A signal, message, or communication that has, or is interpreted as having, multiple, ambiguous, or contradictory meanings. (Often plural.) _I keep getting these mixed signals from my ex-girlfriend. I can’t tell if she just wants to be friends, or if she’s interested in getting back together._  
@@ -3554,6 +3554,7 @@ __more sinned against than sinner__ Less guilty or worthy of blame than others, 
 __more so__ :four: To a greater degree (than something that has already been indicated). _I was exhausted after our flight, but my brother even more so—he fell asleep on the taxi ride to the hotel._  
 __more than happy__ The phrase _more than happy_ is a common idiom that expresses a higher level of joy or satisfaction than just being “happy.” It conveys a sense of extreme contentment, delight, or pleasure.  
 __more than meets the eye__ :two::hammer:  
+__more/bigger/greater than the sum of its parts__  
 __morning person__  
 __most of the time__ _Most of the time I do my breakfast._  
 __mother hen__ _n_ A person who fusses over others in an overprotective manner.  
@@ -3571,6 +3572,7 @@ __move the needle__ :dart::five: To cause a noticeable change in something. The 
 __move through the gears__ To steadily increase one’s momentum, as of speed, intensity, progress, or success. _With a lot of hard work and perseverance, our little business is finally starting to move through the gears!_  
 __mover and shaker__ :two: A person who wields power and influence; _“a shaker of traditional beliefs”; “movers and shakers in the business world”_  
 __movers and shakers__ :dart::three: People who get things done; organizers and managers. _The movers and shakers in this firm haven’t exactly been working overtime._ _Who are the movers and shakers around here?_  
+__moving target__  
 __Mr. Right__  
 __much ado about nothing__  
 __much obliged__ __1__ Indebted to someone for their generosity, kindness, or favor. _We are much obliged for all you have done on behalf of our father._ __2__ Thank you very much. _A: “Here’s your jacket, sir.” B: “Much obliged, son.”_  
@@ -3590,12 +3592,12 @@ __my lucky star__
 __my spidey-sense is tingling__  
 __my, my__ _interjection_ An expression of surprise, incredulity, or pleasure.  
 __nab__ :two: To catch and arrest someone. Often used in passive constructions.  
-__nah__  
+__nah__ :two: _informal_ No; not really.  
 __nail in (someone’s or something’s) coffin__ :two::hammer:  
 __naked eye__ _With the naked eye._  
 __name names__ :four::hammer: _I will not go naming names here._  
 __narrow down__ :two: To pare the number of people or things on a list down to a more manageable or select number. A noun or pronoun can be used between “narrow” and “down.” _Let’s narrow it down to just our very top choices, otherwise we’ll never pick a place to go._  
-__narrow escape__ :two::hammer:  
+__narrow escape__ :three::hammer:  
 __narrow something down__ If you narrow something down, you reduce the number of possibilities.  
 __narrow the gap__  
 __natter on__ To talk idly or incessantly. _Now that she can talk, my little girl will just natter on all day long._  
@@ -3621,7 +3623,7 @@ __never say never__ Do not say that something is impossible, that it will never 
 __new blood__  
 __new car smell__ The scent associated with the inside of a brand new vehicle, caused by the plastics and other materials inside it. _Boy, I love that new car smell, don’t you?_  
 __new kid on the block__ :two: Someone who is new in a place or organization.  
-__new normal__ A previously unusual occurrence that has become commonplace. _High unemployment rates have become the new normal due to the country’s economic strife._  
+__new normal__ :two: A previously unusual occurrence that has become commonplace. _High unemployment rates have become the new normal due to the country’s economic strife._  
 __next in line__  
 __next to nothing__ Almost nothing; a very small amount.  
 __next-level__ :dart: Especially good or advanced. _Mission Control in Houston had next-level simulators used to train their astronauts._  
@@ -3663,6 +3665,7 @@ __no nonsense__ _adj_ :three: Totally serious; with no tricks or deceit. Hyphena
 __no offense taken__  
 __no offense__ :three: What I have said or am about to say is not meant to offend or insult you, even though it could be interpreted that way. _No offense, but I think it may be time you cleaned up your kitchen._  
 __no one in his/her/their right mind would (do something)__ No one who is sane would consider doing something; someone would have to be crazy to do something. _Everyone knows Jake is a mess—no one in her right mind would date him._  
+__no pain, no gain__  
 __no picnic__ _This is no picnic._  
 __no pressure__ Said ironically to emphasize that what is being discussed carries a large amount of importance or makes one feel that one must try very hard to succeed. _A: “I don’t want you to feel intimidated, but this employee review will have a huge bearing on whether or not you’re kept on at the end of the year.” B: “Wow, no pressure or anything!”_  
 __no probs__  
@@ -3673,7 +3676,7 @@ __no small thing__
 __no sooner (do something) than (do something else)__ One action had just concluded when something else happened or began. _No sooner had I wrapped up the meeting than everyone bolted from their seats._  
 __no spring chicken__ :two: No longer young or youthful. (A “spring chicken” refers to a young chicken.)  
 __no strings attached__ :four: Free of conditions, limitations, obligations, etc. _The goodwill compensation comes with no strings attached._  
-__no sweat__ :dart::two::hammer:  
+__no sweat__ :dart::three::hammer:  
 __no way__ :two::hammer:  
 __no way, José__  
 __no worries__ :four: No worries is an expression seen in Australian, British and New Zealand English meaning “do not worry about that”, “that’s all right”, or “sure thing.” It is similar to the American English _no problem._  
@@ -3704,6 +3707,7 @@ __not cut it__ If you say that _someone cannot cut it_ or _does not cut it_, you
 __not do a stroke (of work)__ To not do any work at all. _Now that Jim’s retired, he just spends all day on the couch watching television. He won’t do a stroke of work around the house!_  
 __not enough room to swing a cat__ :three: Very little or no space; very cramped quarters or proximity. _Many families are forced to live in tiny apartments with not enough room to swing a cat._  
 __not even close__  
+__not far off__ Partially or nearly correct; close to the truth.  
 __not get a wink of sleep__ To not get any sleep. _Our newborn son is rather colicky, so my wife and I haven’t gotten a wink of sleep the last few nights._  
 __not get anywhere__ To make no progress at all; to be stuck or at an impasse. _Look, we’ve been discussing this issue all day and we haven’t gotten anywhere. Let’s take a break and start again tomorrow._  
 __not go amiss__  
@@ -3822,7 +3826,7 @@ __on brand__
 __on call__ Ready or available when and if needed. _We have a team of engineers on call if you experience any issues._  
 __on cloud nine__ :three: To be in a state of extreme happiness. _Ever since Mary got her promotion at work, she’s been on cloud nine. I don’t think I’ve ever seen her happier!_  
 __on demand__ _Requested on demand._  
-__on edge__ :four: Highly tense or nervous; irritable. _Our youngster is just feeling on edge about the start of school._ _Tonight she felt on edge._  
+__on edge__ :five: Highly tense or nervous; irritable. Anxious and tense. _Our youngster is just feeling on edge about the start of school._ _Tonight she felt on edge._  
 __on end__ :two: Continuously and without stopping. Used after a unit of time, such as “hours” or “days.” _I could talk for hours on end about trains._  
 __on every level__ _That was a bad idea on every level._  
 __on fire__ :four: __1__ Something is going really well or someone is doing a fantastic job. Performing very enthusiastically, adeptly, or successfully. _The team has been on fire lately, winning 11 of its last 12 games._ __2__ Extremely sexy or attractive. _Wow babe, you are looking on fire tonight!_ __3__ Having an intense burning sensation. _My throat’s on fire from this infection—I can’t eat or drink a thing!_  
@@ -4370,7 +4374,7 @@ __red herring__
 __red hot__ :two::hammer: _Now the market is red hot._  
 __red line__  
 __red pill__ :two::hammer:  
-__red tape__  
+__red tape__ :four::hammer:  
 __red-faced__ __1__ Blushing from embarrassment. _I was completely red-faced when the teacher made me speak in front of the whole class._  
 __redeye__ An overnight flight that arrives at its destination very early in the morning. _My original flight was cancelled, so I caught the redeye back to Philadelphia and got in at four in the morning._ _I boarded a red-eye back to New York._  
 __redound on (someone or something)__  
@@ -4450,7 +4454,10 @@ __roll with it__ :two: To adapt to a situation despite unexpected circumstances 
 __roll with the punches__ :dart::two: Cope with and withstand adversity, especially by being flexible. For example, _She’d had three different editors for her book, each with a different style, but she’d learned to roll with the punches._ This term alludes to the boxer’s ability to deflect the full force of an opponent’s blow by adroitly moving his body.  
 __roller coaster__ _Emotional roller coaster._  
 __rolling in dough__ Exceptionally wealthy; having large amounts of money to spend. _I hear her father is rolling in dough, so I wouldn’t be too worried about her future._  
-__rosy__  
+__roly-poly__ _A roly-poly hustler._  
+__room to grow__ A phrase used to describe the potential for something to improve or expand in the future. _There is always room to grow._  
+__root cause__ The most fundamental, central, or basic causal element of something.  
+__rosy__ :two: _mod_ Good; satisfactory. (As a life that is seen through rose-colored glasses.) _Things are looking rosy now that the economy is improving._  
 __rough-and-tumble__ _The rough-and-tumble days the wild west._  
 __roughly speaking__ Approximately. _I think we can plan on having 20 volunteers, roughly speaking._  
 __round and round__ :two: (around and around) In circles.  
@@ -4500,6 +4507,7 @@ __run wild__ :three: To behave or run around in a wild, unruly, out-of-control m
 __run with it__  
 __run with scissors__  
 __run-of-the-mill__ :two::hammer:  
+__rundown__ _n_ The general details about or a brief summary of something. _Please give me a rundown of what was discussed at the board meeting yesterday._  
 __running bit__  
 __running high__ [for feelings] To be in a state of excitement or anger.  
 __running joke__ :two::hammer:  
@@ -4533,7 +4541,7 @@ __save your breath__ Stop useless talk.
 __saved by the bell__ :two: Saved or spared from difficulty or misfortune by some intervention at the very last moment. An allusion to the bell that ends the round in a boxing match saving a boxer from being counted out.  
 __sawbuck__ :two: _slang_ A 10-dollar bill. A sawbuck is another name for a sawhorse (a support on which timber is placed when it is being cut) that has two crossed legs at each end, creating an X, which were featured on old 10-dollar bills as the Roman numeral for 10. Primarily heard in US. _This place is great. You can get a full meal, a soft drink, and a dessert for less than a sawbuck!_ _I had to slip the clerk an extra sawbuck._  
 __Say again?__ Could you please repeat what you just said? _Sorry, Mike, say again? I’m getting bad reception here._  
-__Says who?__  
+__says who__ :two::hammer: (Says who?)  
 __scads__ :three: _slang_ A large, abundant, or vast number or amount. _Scads of people had turned up to see the concert._ _I’ve still got scads to do before the in-laws arrive!_ _Scads of scotch._  
 __scare (one) silly__ To shock or frighten one very suddenly or severely. Hyperbolically alludes to frightening one so severely as to cause them to lose their mind. _Don’t sneak up on me like that, you scared me silly!_  
 __scare story__ A story or rumor that makes something seem more serious, dreadful, or terrifying than it really is. _Every year around Halloween, there’s some scare story in the news about razor blades being found in candy._  
@@ -4549,7 +4557,11 @@ __schmaltzy__ Having or characterized by excessive or exaggerated sentimentalism
 __schmooze__  
 __schmuck__  
 __schnook__  
-__scoop up__  
+__schtick__  
+__scooch over__  
+__scooch__ _v_ /skutʃ/  
+__scoop up__ :two::hammer:  
+__scoot__ :three: __1__ _vi_ To run or scurry quickly from one place to another. _I scooted from the bank to the cleaners and then on to the dentist’s._ __2__ _n_ A motorcycle. _Do you wear a brain-bucket on your scoot?_  
 __score big__ _Come in and score big._  
 __score<sup>2</sup>__ __6__ To have sex with someone, especially with a new partner. _Ted can’t think about anything but scoring with Martha._ _It had been nearly six months since I broke up with my boyfriend, so I was really in the mood to score when I went to the club with my friends._  
 __scowl at (someone or something)__ To contort one’s face into an expression of anger, disdain, or disapproval at and because of someone or something. _I always make a point of waving to my neighbor each morning, but all he ever does is scowl at me from his porch._  
@@ -4557,7 +4569,7 @@ __scramble for (something)__
 __scratch the surface__ :two::hammer:  
 __scream (one’s) head off__ To scream or yell very loudly and lengthily. _Suzy screamed her head off when I told her she couldn’t have an ice cream cone._  
 __screw (one’s) courage to the sticking place__ To remain bold, resolute, determined, and courageous, especially in the face of possible danger, difficulty, hardship, or adversity. Taken from a line in Shakespeare’s _Macbeth_: “We fail! But screw your courage to the sticking-place, and we’ll not fail.” _Men, some of us may not make it back alive, but such is the nature of war; so screw your courage to the sticking place and show them what you’re made of!_  
-__screw up__  
+__screw up__ :dart::two: __5__ _n_ A huge mistake, blunder, or mishandling. In this usage, the phrase is usually hyphenated or spelled as one word. _Another screwup like that and you’re fired!_ _I don’t care whose screw-up it was—just fix it!_  
 __scrounge up__ _To scrounge up the funds._  
 __scurvy__ Low, mean, contemptible, or despicable._ You’re nothing but a scurvy dog, you know that?_  
 __sea change__ A massive, fundamental shift or transformation. _The transition from using desktop computers to mobile devices represents a sea change in data management within the field of information technology._  
