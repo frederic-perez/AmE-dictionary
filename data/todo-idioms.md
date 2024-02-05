@@ -98,31 +98,6 @@ __no pain, no gain__
 __no sweat__ :dart:  
 __not far off__ Partially or nearly correct; close to the truth.  
 __on edge__ Anxious and tense.  
-__on top of something__  
-__phase out__  
-__pizzazz__  
-__pull the plug__  
-__push back__  
-__push the envelope__ To expand on, exceed, or test the limits of the established norm or standard.  
-__rack up__  
-__raise the bar__ To raise the standards of quality that are expected of or required for something.  
-__ramp up__ :two::hammer:  
-__refer someone to someone or something__ To direct someone to someone or something; to send someone to someone or something.  
-__refer to (someone or something)__  
-__regardless of (something)__  
-__rep__ __2__ _n_ A shortening of “reputation.”  
-__riffle__ :two: In James Ellroy’s novels, “riffle” is a verb that means to search quickly through something, usually a pile of papers or documents. It implies a sense of urgency and impatience, as if the person doing the riffling is searching for something important and doesn’t have time to waste.  
-__riffraff__ Undesirable, disreputable, or vulgar people, often used in a condescending manner. _I wouldn’t be seen in a place like that, there’s a lot of riffraff that hang out around there._  
-__rile up__  
-__ring false__  
-__ring of Venus__ In James Ellroy’s novels, the “ring of Venus” is a term used to describe a secret society or network of powerful people who engage in corrupt or illegal activities. It’s usually presented as a shadowy and mysterious organization that operates behind the scenes, pulling the strings of government, business, and society.  
-__ring true__  
-__ring-a-ding-ding__ The idiom “ring-a-ding-ding” generally means something that’s super exciting or energetic! It’s often used to describe things like parties, events, or even certain types of music. In a way, it’s kind of like saying “it’s a real hoot” or “it’s a blast!”  
-__rip-off__  
-__ripple effect__  
-__rizz<sup>1</sup>__ _n_ Romantic appeal or charm. _A bro who has rizz._  
-__rizz<sup>2</sup>__ _v_ (typically used with _up_, as in _rizz up that cutie._) To charm or seduce.  
-__roll out__  
 __roly-poly__ _A roly-poly hustler._  
 __room to grow__ A phrase used to describe the potential for something to improve or expand in the future. _There is always room to grow._  
 __root cause__ The most fundamental, central, or basic causal element of something.  

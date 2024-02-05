@@ -3904,6 +3904,7 @@ __on the verge of (doing) (something)__ :two::hammer:
 __on the verge of__ :two::hammer:  
 __on the whole__ :three: Considering everything together; in general or for the most part. _On the whole, the performance was bland and uninspired._ _On the whole, this was a very good day._  
 __on thin ice__ :four: In a risky position, in a dangerous situation.  
+__on top of something__  
 __on top of that__ :five: Additionally; furthermore. _On top of that, ..._  
 __on track__ :dart::two: Progressing or developing as planned, scheduled, or expected. _The project was on track before the boss up and quit, but who knows when we’ll get it finished now!_ _Everyone in our entire department is on track to meet their sales quotas for the year._  
 __On your mark(s), get set, go!__  
@@ -4066,7 +4067,7 @@ __perk up__ :four: To make or become more lively, energetic, attentive, cheerful
 __pester (someone) for (something)__ To continually annoy someone with requests for something. _I wish you would stop pestering me for a new bicycle; your birthday will be here soon enough!_  
 __pet hate__ A source of annoyance for one; a pet peeve. _Ugh, my pet hate is people who chew with their mouths open._  
 __Peter Pan syndrome__ A psychological state or condition in which a grown person cannot or refuses to act like an adult; a stubborn and persistent immaturity found in an adult person. _I seem cursed to only find men who have some damned Peter Pan syndrome. I’m tired of going out with guys who act like children!_  
-__phase out__ :two::hammer:  
+__phase out__ :three::hammer:  
 __phish__ To attempt to steal personal information that can be used to defraud someone by pretending to be person or website that legitimately requires such information.  
 __phooey__  
 __phub__ :two::hammer:  
@@ -4113,7 +4114,7 @@ __pit stop__ :two: __2__ A pause in a journey (usually by car) to urinate, eat, 
 __pitch a fit__ To become very or unreasonably angry or upset; to have an outburst of rage, frustration, or ill temper. _My mom’s going to pitch a fit when she sees what happened to the car!_ _I was so embarrassed when Danny started pitching a fit in the grocery store._  
 __pitch in__ :dart:  
 __pitch/throw (someone) a curve ball__ _slang_ __1__ To mislead; deceive. __2__ To cause to be surprised, especially unpleasantly so.  
-__pizzazz__ :two: Dazzling, flamboyant style, energy, or vitality. Punch; glitter and excitement. Energy; power. _Your performance was a little bit dull, truthfully. It was technically sound, but it needed more pizzazz.__Listen to the way she put pizzazz into that song!_  
+__pizzazz__ :three: Dazzling, flamboyant style, energy, or vitality. Punch; glitter and excitement. Energy; power. _Your performance was a little bit dull, truthfully. It was technically sound, but it needed more pizzazz.__Listen to the way she put pizzazz into that song!_  
 __place an order__  
 __place your bets__  
 __plain and simple__ :two::hammer::astonished: _This was our mistake, plain and simple._  
@@ -4220,7 +4221,7 @@ __pull someone’s leg__ :three: To make a playful attempt to fool or deceive so
 __pull something off__ :dart::three: __1__ _informal_ To manage to make something happen. _Yes, I can pull it off. Do you think you can pull off this deal?_  
 __pull tabs__ (casino)  
 __pull teeth__ __1__ To do something that is especially difficult, tedious, or requires an extreme amount of effort; to do something in the most difficult or unpleasant way possible. _I’ve been pulling teeth trying to get my family members organized for this get together, but I think it will all be worth it!_ __2__ To make someone or something less powerful, potent, or effective. A noun or pronoun is used between “pull” and “teeth.” _Corporate lobbyists are trying to pull the new law’s teeth to give them greater leeway in the market._  
-__pull the plug (on someone or something)__  
+__pull the plug (on someone or something)__ :two::hammer:  
 __pull your socks up__ To improve your work or behaviour.  
 __pump in__  
 __pump someone up (for something)__  
@@ -4233,8 +4234,8 @@ __puppet master__ :two: Someone who uses their actions or words to control someo
 __puppy love__ :two::hammer:  
 __pure and simple__ Essentially or fundamentally so, without exaggeration or elaboration. _I was a political casualty, pure and simple._  
 __push (one’s) buttons__  
-__push back__ :two::hammer:  
-__push the envelope__ :three: To expand on, exceed, or test the limits of the established norm or standard. _It’s a natural stage for most teenagers to push the envelope of their parents’ rules._ _Pushing the envelope of contemporary Japanese cuisine._  
+__push back__ :three::hammer:  
+__push the envelope__ :four: To expand on, exceed, or test the limits of the established norm or standard. _It’s a natural stage for most teenagers to push the envelope of their parents’ rules._ _Pushing the envelope of contemporary Japanese cuisine._  
 __push up the daisies__  
 __push your buttons__  
 __push<sup>1</sup>__ To hype something or someone; to pressure something or someone. _The clerk was pushing one brand so hard that I finally bought it._  
@@ -4323,7 +4324,7 @@ __rabbit__ _v_ __1__ To run away quickly, usually to escape from something or so
 __rabble-rouser__ :two: Someone who excites or provokes in others an intense emotional reaction or call to action; someone who tries to stir up trouble among other people. The term is always used in a negative way. _How can you listen to that fool? He’s just a rabble-rouser trying to sway mindless followers so that they join his cause._  
 __race against the clock__  
 __race against time__ To do something very quickly.  
-__rack up__ :three::hammer:  
+__rack up__ :four::hammer:  
 __rad__ :two::hammer:  
 __radio silence__  
 __rag on (one)__  
@@ -4336,11 +4337,11 @@ __rainbows and unicorns__ :dart::three: Innocent, carefree happiness. Often used
 __raise (one’s) eyebrows__  
 __raise a red flag__  
 __raise the alarm__ __2__ To alert other people about something dangerous, risky, or troublesome.  
-__raise the bar__ :three: To raise the standards of quality that are expected of or required for something.  
+__raise the bar__ :four: To raise the standards of quality that are expected of or required for something.  
 __raise the stakes__  
 __rake in (something)__ :two: To acquire or accumulate an abundance of something, especially money.  
 __ram into (someone or something)__  
-__ramp up__ :six: To increase. A noun or pronoun can be used between “ramp” and “up.” _Ever since that break-in, they’ve really ramped up security at the office._ _The country needs to ramp up its CCTA program to meet demand._  
+__ramp up__ :eight: To increase. A noun or pronoun can be used between “ramp” and “up.” _Ever since that break-in, they’ve really ramped up security at the office._ _The country needs to ramp up its CCTA program to meet demand._  
 __rank and file__  
 __rapid fire__ _Start with rapid fire decisions._  
 __rarer than hens’ teeth__ Incredibly scarce or rare; extremely difficult or impossible to find.  
@@ -4375,7 +4376,10 @@ __redeye__ An overnight flight that arrives at its destination very early in the
 __redound on (someone or something)__  
 __reduce (one) to tears__  
 __reel off__  
+__refer someone to someone or something__ To direct someone to someone or something; to send someone to someone or something.  
+__refer to (someone or something)__  
 __refrain from (doing something)__ To make a considered, conscious effort not to do something.  
+__regardless of (something)__  
 __reinvent (oneself)__ :three: To create a new style or persona for oneself; to change one’s pursuits, way of life, etc. _As a teenager, I was always trying to reinvent myself to be cooler or more mysterious._ _If you’re feeling stuck in a rut with your job, maybe it’s time to reinvent yourself._  
 __reinvent the wheel__  
 __relate to (someone or something)__  
@@ -4384,6 +4388,7 @@ __religious intolerance__ Intolerance of another’s religious beliefs or practi
 __relinquish something over someone__  
 __reminisce about (someone or something)__ To recall or think back on memories of someone or something, especially in a fond and sentimental manner. _We sat together reminiscing about the wild times we had in college together._  
 __reminiscent of (someone or something)__  
+__rep__ __2__ _n_ A shortening of “reputation.”  
 __reset button__  
 __resonate with (one)__  
 __rest assured__ :four::hammer: _Rest assured you’ll sleep like an angel._  
@@ -4401,26 +4406,32 @@ __ride the pine__ In sports (especially baseball), to remain sitting on the benc
 __ride the rail(s)__ To travel on a vehicle mounted on rails (especially a train or streetcar). _I know it takes a lot longer than flying, but I love riding the rail from Portland to Vancouver._  
 __ride__ _n_ One’s vehicle, especially an automobile. _You can park your ride in our driveway, if you want._ _Whoa, nice ride! Is that a Corvette?_  
 __riding high__  
-__riffraff__ Undesirable, disreputable, or vulgar people, often used in a condescending manner. _I wouldn’t be seen in a place like that, there’s a lot of riffraff that hang out around there._  
+__riffle__ :two: In James Ellroy’s novels, “riffle” is a verb that means to search quickly through something, usually a pile of papers or documents. It implies a sense of urgency and impatience, as if the person doing the riffling is searching for something important and doesn’t have time to waste.  
+__riffraff__ :two: Undesirable, disreputable, or vulgar people, often used in a condescending manner. _I wouldn’t be seen in a place like that, there’s a lot of riffraff that hang out around there._  
 __right away__ Immediately; at once; without delay. _Right away, I could tell that the plan had no chance of success._ _Sarah’s parents took to her new girlfriend right away._  
 __right mess__ A _right mess_ is a situation or thing that is in complete chaos or disarray. It can be used to describe a situation that is confusing, chaotic, and difficult to manage. _This project has become a right mess!_  
 __right on__ :two::hammer: _The description of the bomb was right on._  
 __right the wrong__ _Don Quixote believes he’s destined to right the wrongs of the world._  
 __right up (one’s) alley__ Ideally suited to one’s interests. _This course seemed right up my alley when I signed up for it, but it ended up being dreadfully boring._  
-__rile up__ :two: To cause someone or some group to become particularly excited and animated, especially in an angry or irritated manner. A noun or pronoun can be used between “rile” and “up.” _Seeing that kind of injustice on the news always riles me up to no end._  
+__rile up__ :three: To cause someone or some group to become particularly excited and animated, especially in an angry or irritated manner. A noun or pronoun can be used between “rile” and “up.” _Seeing that kind of injustice on the news always riles me up to no end._  
 __ring a bell__ :three::hammer: _Does that ring a bell with you?_  
+__ring false__  
+__ring of Venus__ In James Ellroy’s novels, the “ring of Venus” is a term used to describe a secret society or network of powerful people who engage in corrupt or illegal activities. It’s usually presented as a shadowy and mysterious organization that operates behind the scenes, pulling the strings of government, business, and society.  
 __ring someone’s bell__ __3__ To sexually attract or arouse someone; to bring someone sexual gratification or satisfaction. _That redhead from across the bar has been ringing my bell all night._ _He looks mighty fine, all right. I’d like to take him home and ring his bell!_  
-__ring true__ To seem or sound true, sincere, or authentic. _Her moans of pleasure somehow don’t ring true._  
+__ring true__ :two: To seem or sound true, sincere, or authentic. _Her moans of pleasure somehow don’t ring true._  
 __ring up__ _Ringing up sales._  
+__ring-a-ding-ding__ The idiom “ring-a-ding-ding” generally means something that’s super exciting or energetic! It’s often used to describe things like parties, events, or even certain types of music. In a way, it’s kind of like saying “it’s a real hoot” or “it’s a blast!”  
 __ringer__ _n_ The obvious choice; the one identical to the one you have; the best match; the best match for one’s needs; the most likely choice. _That’s the best horse racing today. It’s a ringer if I ever saw. one._  
 __rinse and repeat__ :two: (rinse, repeat; lather, rinse, repeat; wash, rinse, repeat)  
 __rip (someone or something) to shreds__  
-__rip off__  
+__rip off__ :two::hammer:  
 __rip-snorting mad__ Extremely angry and agitated; infuriated. _My mom was rip-snorting mad when I came home drunk at 2 AM._ _You’ve got to learn to stay out of the boss’s way when he gets rip-snorting mad like that._  
 __ripen up__ To grow ripe; to become mature enough to harvest or pick. _Make sure you plant your tomatoes in a spot that gets plenty of sunshine, or else it will take a whole lot longer for them to ripen up._  
 __ripped to the tits__ _adj_ (ripped off one’s ass, ripped to the nuts, ripped to the gills) Very intoxicated by drink, drugs or a combination.  
-__ripple effect__  
+__ripple effect__ :two::hammer:  
 __rise from the ashes__ To recover after a serious failure.  
+__rizz<sup>1</sup>__ _n_ Romantic appeal or charm. _A bro who has rizz._  
+__rizz<sup>2</sup>__ _v_ (typically used with _up_, as in _rizz up that cutie._) To charm or seduce.  
 __road to nowhere__  
 __rob the till__ To steal the earnings of a shop or restaurant from out of its cash register. _Just remember, this place has insurance, so if anyone comes in with a gun looking to rob the till, you don’t offer up any resistance, OK?_ _I hear Janet was fired from her last job for robbing the till._  
 __rock (one’s) world__  
@@ -4433,7 +4444,7 @@ __rocky start__ :three::hammer:
 __roll (one’s) eyes__ :four: To turn one’s eyes upward or around in a circle, usually as an expression of exasperation, annoyance, impatience, or disdain. _I just rolled my eyes as my dad told another one of his corny jokes._  
 __roll of the dice__ :dart: A risky attempt to do or achieve something. _The merger was their last roll of the dice, and it failed miserably._  
 __roll off the tongue__ To be very easy or enjoyable to say. Sometimes used sarcastically to imply the opposite. _When you name your food truck, make sure it’s something that rolls off the tongue so that people will remember it._  
-__roll out__ __4__ _v_ To get out of bed, especially lazily or late in the morning or day. _My teenage son doesn’t roll out of bed until nearly 1 in the afternoon on the weekends._  
+__roll out__ :two::hammer: __4__ _v_ To get out of bed, especially lazily or late in the morning or day. _My teenage son doesn’t roll out of bed until nearly 1 in the afternoon on the weekends._  
 __roll the dice__ To take some risk on the hope or chance of a fortunate outcome. _He rolled the dice again in movie production._  
 __roll with it__ :two: To adapt to a situation despite unexpected circumstances or challenges.  
 __roll with the punches__ :dart::two: Cope with and withstand adversity, especially by being flexible. For example, _She’d had three different editors for her book, each with a different style, but she’d learned to roll with the punches._ This term alludes to the boxer’s ability to deflect the full force of an opponent’s blow by adroitly moving his body.  
