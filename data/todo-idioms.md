@@ -98,31 +98,6 @@ __jaw-dropping__ :two::hammer:
 __keep rolling__ The idiom “keep rolling” means to continue doing something with energy and momentum, similar to how a ball keeps rolling after it’s set in motion.  
 __kicking__ __3__ _slang_ Still alive and active, especially despite old age.  
 __lash out__ :dart: __2__ To react with sudden, intense anger.  
-__last-minute__ Done at the very last possible moment or opportunity.  
-__leapfrog over (someone or something)__  
-__line up__  
-__living large__  
-__long shot__ _Defense attorney Mickey Haller is back, taking the long shot cases._  
-__make a dent in (something)__ :two::hammer:  
-__make matters worse__ :two: To make a situation worse. _He laughed at her and then, to make matters worse, he accused her of lying!_  
-__on hold__ __2__ Paused, postponed, or suspended.  
-__over the line__  
-__red tape__ :three::hammer:  
-__scruff(y)__  
-__scuttlebutt__ _n_ News; information; gossip. (The legend of origin is that the scuttlebutt was a butt [= cask, keg] of drinking water located near a scuttle [= hatch]. Sailors gathered there to exchange gossip.)  
-__settle down__ _These gastrointestinal effects tended to settle down over the five weeks._  
-__shallow pockets__ “Shallow pockets” is an idiomatic expression that means “limited financial resources” or “lack of money.” It’s a way of describing someone or something that doesn’t have much money or financial resources available.  
-__shed (some) light on (something)__  
-__shed light on__  
-__shoo off__  
-__shortly after__ :two: Soon after.  
-__shy of (something)__  
-__sideline__ _vt_ To remove or keep from active participation.  
-__sign me up__ “Sign me up” is an idiomatic expression that means “count me in” or “include me in this activity or event.” It’s a way of expressing enthusiasm or interest in something, and a willingness to participate.  
-__simply put__  
-__Sisyphean task__ A task that can never be completed or one that is repetitive and futile, much like the Greek mythological character Sisyphus.  
-__sit shiva__ _Judaism_ To mourn for a period of seven days following the funeral of a close relative. _To sit shiva for the dead._  
-__six ways from (next) Sunday__ Askew, at an angle.  
 __six ways to Sunday__ _adj_ Askew, at an angle.  
 __skate__  
 __skeevy__ :two: Offensively or unscrupulously repellant, repugnant, or disreputable.  
