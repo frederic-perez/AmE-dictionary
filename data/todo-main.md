@@ -98,31 +98,6 @@ __fallow land__ _n_
 __fiddle__ _v_  
 __figurehead__ _n_ :two: __1__ A person nominally having a prominent position, but no real authority.  
 __firestorm__ _n_  
-__hose clamp__ _n_  
-__hostage__ _n_ /ˈhɒs tɪdʒ/ :es: rehén  
-__identical__ _adj_ /aɪˈdɛntɪkəl/  
-__imbecile__ _adj, n_  
-__impeccable__ _adj_  
-__in-depth__ _adj_ Carefully worked out; detailed and thorough: an in-depth study.  
-__inbreeding__ _n_  
-__inculcate__ _v_ To teach (others) by frequent instruction or repetition. _Syn_ infuse, instill  
-__injunction__ _n_  
-__insouciant__ _adj_  
-__interbreeding__ _n_  
-__interpunct__ _n_  
-__intervention__ _n_  
-__Ivory Coast__ _n_  
-__kindred__ _adj_ /KIN-drud/  
-__knapsack__ _n_  
-__landlady__ _n_  
-__lapse__ _v_  
-__largess__ _n_  
-__late-breaking__ _adj_ :dart: Occurring very shortly before publication on the topic. _Late-breaking clinical trials._ _Late-breaking news._  
-__leaderboard__ _n_ A board that displays the leaders in a competition.  
-__lessen__ _v_  
-__leverage__ _n_ :mega: /ˈlɛv ər ɪdʒ, ˈlɛv rɪdʒ; ˈli vər ɪdʒ, -vrɪdʒ/  
-__lice__ _n pl_ /laɪs/ Plural of louse. :es: piojos  
-__licensee__ _n_ (licencee)  
 __likelihood__ _n_  
 __livelihood__ _n_  
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  

@@ -8906,11 +8906,12 @@ __hortatory__ _adj_ :two: Urging to some course of conduct or action; exhorting;
 __horticulture__  
 __horticulturist__ _n_ :mega:  
 __hosanna__ _n_ _A thousand hosannas._  
+__hose clamp__ _n_  
 __hospice care__ _n_  
 __hospice__  
 __hoss__ _n_ (Animals) _dialect informal US_ A horse.  
 __host__ _n_ :dart::seven::astonished: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._ _A host of data._ _A host of techniques._ _A whole host of consequences._  
-__hostage__ _n_ :two::mega::hammer: /ˈhɒs tɪdʒ/  
+__hostage__ _n_ :three::mega::hammer: /ˈhɒs tɪdʒ/ :es: rehén  
 __hostas__ _n_  
 __hostelry__ _n_ A hotel providing overnight lodging for travelers. _Syn_ auberge, inn, lodge _Three large rooms were assigned to them in the monastery hostelry._  
 __hostler__ _n_ Someone employed in a stable to take care of the horses. _Syn_ stableboy, groom  
@@ -9123,6 +9124,7 @@ __ID window__
 __id__ _n_  
 __ideation__ _n_ :two::hammer:  
 __identical twin__ _n_ :three: Either of a pair of twins who develop from a single fertilized ovum and therefore have the same genotype, are of the same sex, and usu. resemble each other closely. Compare _fraternal twin._  
+__identical__ _adj_ /aɪˈdɛntɪkəl/  
 __ides__ _n_ :three: The 15th day of March, May, July, or October or the 13th day of the other months in the ancient Roman calendar.  
 __idiocracy__ _n_ (humorous) A government run by idiots. _Frank is sick and tired of how America has become a state of idiocracy._  
 __idiolatry__ _n_ /i-di-OL-uh-tree/ [:scroll: From Greek idio- (one’s own, personal) + -latry (worship)] Self worship.  
@@ -9163,6 +9165,7 @@ __imagine__ _v_
 __imagineer__ _n_ A person who is skilled in devising or implementing creative ideas.  
 __imam__  
 __imbalance__ _n_  
+__imbecile__ _adj, n_  
 __imbed__ _v_ :two: [Imbed is simply an alternate spelling of _embed._ It has all of the same meanings and can be used in the same way as _embed_, but it’s much less commonly used.]  
 __imbibe__ _v_ :four: (imbibing) To take in or assimilate (ideas, facts, etc.). _Syn_ soak up, absorb  
 __imbroglio__ _n_ :two: A difficult or intricate situation; an entanglement. _Syn_ embroilment _And then there’s a general imbroglio, everyone standing up and the kid hollering and the dog barking._  
@@ -9194,7 +9197,7 @@ __impassioned__ _adj_ :three: /ɪmˈpæʃ ənd/ Filled with passion; fervent: _a
 __impassively__  
 __impeach__ _v_ :two::hammer:  
 __impeachment__ _n_ :two::hammer:  
-__impeccable__ _adj_ :eight::pencil2: __1__ Free from fault or blame. _Syn_ flawless __2__ Not capable of sinning or liable to sin.  
+__impeccable__ _adj_ :nine::pencil2: __1__ Free from fault or blame. _Syn_ flawless __2__ Not capable of sinning or liable to sin.  
 __impeccably__ _adv_ :two::hammer:  
 __impecunious__ _adj_ :two: Lacking money; penniless. _Syn_ penniless, indigent, penurious  
 __impede__ _v_ :seven::mega::hammer: (impeded) Be a hindrance or obstacle to. _Syn_ hinder _By questioning every proposal, she is impeding the progress of our project._  
@@ -9247,7 +9250,7 @@ __in its own right__ _adv_ :three::hammer: (in my own right)
 __in so far as__ _adv_ :two: (insofar as) To the degree or extent that.  
 __in the long run__  
 __in__ _prep_ _Cuba’s team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._ _Jubilo scored in injury time_ _It was Lucas Mann, in aviator sunglasses._ _The ball is in their court._  
-__in-depth__ _adj_ :dart: _He will conduct an in-depth review._  
+__in-depth__ _adj_ :dart::two: Carefully worked out; detailed and thorough: _an in-depth study._ _He will conduct an in-depth review._  
 __in-fighting__ _n_  
 __in-house__ _adj, adv_ :five::pencil2::hammer: _In-house experts._ _An in-house system._  
 __in-law__ _n_ (in-laws) _A room for the in-laws._  
@@ -9271,6 +9274,7 @@ __inbound<sup>1</sup>__ _adj_ :four::hammer: _Inbound trip._ _Inbounds pass._
 __inbound<sup>2</sup>__ _adv_  
 __inbound<sup>3</sup>__ _v_  
 __inbox__ _n_ :mega:  
+__inbreeding__ _n_  
 __incarcerate__ _v_ :three::hammer: /in-KAHR-suh-rayt/  
 __incarnate<sup>1</sup>__ _adj_ /in-KAHR-nuht/nit/nayt/ __1__ Embodied in flesh. __2__ Personified. __3__ Flesh-colored; blood red.  
 __incarnate<sup>2</sup>__ _vt_ /in-KAHR-nayt/ __1__ To give bodily form to. __2__ To make real; to actualize. __3__ To personify.  
@@ -9312,7 +9316,7 @@ __increase__ _n_ _The factor of increase._
 __incrementally__ _adv_ _Make it incrementally better._  
 __incriminate__ _v_ Suggest that someone is guilty. _Syn_ inculpate, imply _Every paper which would incriminate him was destroyed before he left the house._  
 __incubus__  
-__inculcate__ _v_ :three: /in-KUL-kayt/ To teach and impress by frequent repetitions or admonitions.  
+__inculcate__ _v_ :four: /in-KUL-kayt/ To teach (others) by frequent instruction or repetition. _Syn_ infuse, instill  
 __incumbency__  
 __incumbent<sup>1</sup>__ _adj_ _It’s incumbent upon us to provide clear definitions of what these things mean._  
 __incumbent<sup>2</sup>__ _n_ :seven: Currently holding a specified office. _An incumbent president._ _Bunker beat incumbent Mosier 90 votes to 78 votes._  
@@ -9480,7 +9484,7 @@ __insolent__ _adj_
 __insolvency__  
 __insomniac__ _n_  
 __insouciance__ _n_ :two::hammer:  
-__insouciant__ _adj_ :two: Marked by blithe unconcern. _Syn_ casual, nonchalant _He showed an insouciant disregard for cold weather, wearing only a T-shirt in the show._  
+__insouciant__ _adj_ :dart::three: Marked by blithe unconcern. _Syn_ casual, nonchalant _He showed an insouciant disregard for cold weather, wearing only a T-shirt in the show._  
 __insourcing__ _n_  
 __inspirit__ _vt_ To instill courage or life into.  
 __inspissate__ _v_ To undergo thickening or cause to thicken, as by boiling or evaporation. _Syn_ condense, thicken _The recipe then instructed the cook to inspissate the sauce by adding flour._  
@@ -9511,6 +9515,7 @@ __intemperance__ _adj_ :two: Lack of moderation _especially_ habitual or excessi
 __intemperate__ _adj_ :four: /in-TEM-puh-rut/ __1__ Given to excessive indulgence of bodily appetites, especially for intoxicating liquors. _Syn_ hard, heavy _As he was prone to intemperate behavior at the alehouse, she expected him to stumble out of the carriage, hiccupping, in the wee hours of the morning._ __2__ Having extreme conditions. _The plant is able to survive in intemperate climates._ __3__ Having or showing a lack of emotional calmness or control. _The journalist apologized for her intemperate rant against the mayor._  
 __intently__ _adv_ :three::hammer: _He watched him intently._  
 __inter__ _v_ (interred) To place in a grave or tomb; bury.  
+__interbreeding__ _n_  
 __interdental__ _adj_ __2__ Articulated with the tip of the tongue between the upper and lower front teeth, as the fricatives (t) and (th) of _thy_ and _thigh_.  
 __interdict<sup>1</sup>__ _vt_  
 __interdict<sup>2</sup>__ _n_  
@@ -9537,13 +9542,13 @@ __internment__ _n_
 __internship__  
 __interpolate__ _v_ :two::astonished: /in-TER-puh-layt/ To alter (a text) by the insertion of new matter, especially deceptively or without authorization. _Syn_ falsify _He interpolated a lot of spurious matter into the manuscript._  
 __interpretive__ _adj_ :three::astonished: Relating to or marked by interpretation; explanatory. :es: interpretativo _An outdoor interpretive center._ _A one-mile interpretive trail._  
-__interpunct__ _n_  
+__interpunct__ _n_ :two::hammer:  
 __interrelate__ _v_ :two::astonished::hammer:  
 __interrobang__ _n_ /in-TER-uh-bang/ (interabang) A punctuation mark (‽) formed by a question mark superimposed on an exclamation point.  
 __intersperse__ _v_ :nine::m: /in-ter-SPERSS/ (interspersed) __1__ To place or insert something at intervals in or among other things. To distribute among other things at intervals: _interspersed red and blue tiles on the walls; intersperse praise with constructive criticism._ _The author has interspersed the guidebook with pictures of the different animals tourists might encounter on the safari._ __2__ To supply or diversify with things distributed at intervals: _interspersed lamp fixtures on the large ceiling; a newspaper section that was interspersed with advertisements._  
 __intertwine__ _v_ :four::hammer: (intertwined)  
 __intervene__ _v_ :five::hammer:  
-__intervention__ _n_ :four: __2c__ A planned, often unannounced meeting with a person with a serious personal problem, such as addiction, in order to persuade the person to seek treatment.  
+__intervention__ _n_ :five: __2c__ A planned, often unannounced meeting with a person with a serious personal problem, such as addiction, in order to persuade the person to seek treatment.  
 __interviewees__ _n_ :pencil2:  
 __intimate__ _v_ To indicate or make known indirectly. _Syn_ hint, imply, suggest _The young gentleman smiled, as if to intimate that the latter fragments of discourse were playfully ironical._  
 __intimation__ _n_ Making known indirectly.  
@@ -9638,6 +9643,7 @@ __iteration__ _n_ :mega: /ˌɪt əˈreɪ ʃən/
 __iterative__ _adj_ :mega: /ˈɪt əˌreɪ tɪv, -ər ə tɪv/  
 __itinerant__ _adj_  
 __itty-bitty__ _adj_ _informal_ :two: Very small. _Syn_ teensy-weensy _These itty-bitty computer processors are surprisingly powerful._  
+__Ivory Coast__ _n_  
 __Ivy League__ _n_ :two::hammer: _Ivy League school._  
 __ivy__ _n_ :six::hammer: :es: hiedra  
 __J-strokes__  
@@ -9984,7 +9990,7 @@ __kinderpunsch__ _n_
 __kindle__ _v_ _To kindle a fire._  
 __kindling__ _n_ :three: Material for starting a fire, such as dry wood, straw, etc.  
 __kindred<sup>1</sup>__ _n_ :three::hammer:  
-__kindred<sup>2</sup>__ _adj_ :three: __1__ Of the same ancestry or family: _kindred clans._ __2__ Having a similar or related origin, nature, or character: _kindred emotions._  
+__kindred<sup>2</sup>__ _adj_ :four: /KIN-drud/ __1__ Of the same ancestry or family: _kindred clans._ __2__ Having a similar or related origin, nature, or character: _kindred emotions._  
 __kine__ _n_  
 __kinetic__ _adj_ /kuh-NET-ik/  
 __kingdom come__ _n_ _informal_ :two: __1__ The next world: _a bomb that could blow us to kingdom come._ __2__ The end of time: _You can complain till kingdom come, but it won’t help._  
@@ -10025,6 +10031,7 @@ __knack__ _n_ :three::mute:[~~k~~nack]:hammer: _She’s got a knack for it._
 __knacker__ _n_ __1__ A person who buys up old horses for slaughter.  
 __knackered<sup>1</sup>__ _v_  
 __knackered<sup>2</sup>__ _adj_ :five: _BrE_ _slang_ Very tired; exhausted.  
+__knapsack__ _n_  
 __knave__ _n_  
 __knavery__ _n_ Lack of honesty; acts of lying or cheating or stealing. _Syn_ dishonesty _Trust no one; the king’s court is a hotbed of intrigue and malicious knavery._  
 __knavish__ _adj_ :two::hammer:  
@@ -10178,7 +10185,7 @@ __land__ _v_ _Thanksgiving this year lands on November 25._
 __landfall__ _n_ :three::hammer:  
 __landfill__ _n_ :five::hammer:  
 __landform__ _n_ One of the features that make up the earth’s surface, such as a plain, mountain, or valley.  
-__landlady__ _n_  
+__landlady__ _n_ :two::hammer:  
 __landline__ _n_ (phone)  
 __landlock__ _v_ _Laos is the least-developed landlocked country in Asia._  
 __landlord__ _n_  
@@ -10208,7 +10215,7 @@ __lapidary__ _adj_ /LAP-uh-dair-ee/
 __lapidify__ _v_  
 __Lapland__ _n_ :two::hammer:  
 __Laponia__ _n_  
-__lapse<sup>1</sup>__ _v_  
+__lapse<sup>1</sup>__ _v_ :two::hammer:  
 __lapse<sup>2</sup>__ _n_  
 __Laputan__ _adj_ Absurdly fanciful or impractical.  
 __larcenous__ _adj_ __1__ Of, relating to, or involving larceny: a larcenous scheme; with larcenous intent. __2__ Guilty of or given to larceny.  
@@ -10217,6 +10224,7 @@ __lard__ _v_
 __larder__ _n_ :five::hammer:  
 __largely__ _adv_ :four: To a large extent; mostly.  
 __larger-than-life__ _adj_ _fig_ :six: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he’s larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn’t._  
+__largess__ _n_  
 __largesse__ _n_ :eight::pencil2::hammer: /lahr-ZHESS/ (largess) _The families who lost their houses in the fire sincerely appreciated the largesse shown by the people from their community._  
 __lark__ _n_ :four::hammer: _Stop this jealousy lark!_  
 __larking__ _v_  
@@ -10240,6 +10248,7 @@ __lastly__ _adv_
 __latch<sup>1</sup>__ _n_ :three::hammer:  
 __latch<sup>2</sup>__ _v_ :three::hammer: (latched, latching)  
 __latchkey__  
+__late-breaking__ _adj_ :dart: Occurring very shortly before publication on the topic. _Late-breaking clinical trials._ _Late-breaking news._  
 __latecomer__ _n_ :two::hammer: _I’m somewhat of a latecomer._  
 __later on__ _adv_  
 __lateral thinking__  
@@ -10296,7 +10305,7 @@ __leaching__ _v_ _Corrosive water leads to leaching of lead in some oñder homes
 __lead solder__  
 __lead-up__ _n_  
 __leaden__ _adj_ :two::hammer: _Days of rain and leaden cold._  
-__leaderboard__ _n_  
+__leaderboard__ _n_ :two: A board that displays the leaders in a competition.  
 __leadoff__ _n_ :two::hammer:  
 __leaf mold__  
 __leafy__  
@@ -10381,7 +10390,7 @@ __lepers__
 __leporine__ _adj_ Of or characteristic of rabbits or hares.  
 __leprechauns__  
 __lese majeste__ _n_ :four: (lèse-majesté) Alternative form of lese majesty. A crime injuring or causing harm to the dignity of a reigning sovereign or a state. _Colin drew his dagger in the terrible act of lese majeste._ _A number of senior officials were charged with lese majeste._  
-__lessen__ _v_ :two::hammer:  
+__lessen__ _v_ :three::hammer:  
 __lessons learned__ _n_ Experiences distilled from past activities that should be actively taken into account in future actions and behaviors.  
 __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) Because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
 __let down__ _phr v_ :two: To disappoint someone by failing to do what they expect you to do.  
@@ -10401,7 +10410,7 @@ __level__ _v_ :two::hammer: (leveled)
 __levelheaded__ _adj_ :three: Exercising or showing good judgment. _Syn_ sound, intelligent, healthy _While I stood around bawling uselessly, my levelheaded sister calmly called a towing company and then our parents to let them know that the car had broken down._ _He was pretty levelheaded with me._  
 __lever<sup>1</sup>__ _n_  
 __lever<sup>2</sup>__ _vt_  
-__leverage<sup>1</sup>__ _n_ :two::hammer: _To exert leverage._ _He had no leverage over her just as she had none over him._  
+__leverage<sup>1</sup>__ _n_ :three::hammer::mega: /ˈlɛv ər ɪdʒ, ˈlɛv rɪdʒ; ˈli vər ɪdʒ, -vrɪdʒ/ _To exert leverage._ _He had no leverage over her just as she had none over him._  
 __leverage<sup>2</sup>__ _vt_ :nine: /ˈlɛv ər ɪdʒ, ˈlɛv rɪdʒ; ˈli vər ɪdʒ, -vrɪdʒ/ __3__ To use so as to obtain an advantage or profit: _leveraged their personal contacts to find new investors._ :es: aprovechar  
 __leviathan__ _n_ :four: /luh-VYE-uh-thun/ Something large or formidable. _Towering leviathans of the forest, these giant sequoias often reach heights of more than 200 feet._ _You can sometimes see migrating leviathans._  
 __levied__ _v_ :five::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
@@ -10424,7 +10433,8 @@ __libertine<sup>2</sup>__ _n_
 __liberty__ _n_ :three: __5__ (Nautical Terms) __a__ Authorized leave granted to a sailor. _He granted liberty on Monday with misgivings._ _Liberty is canceled until further notice._ __b__ (as modifier): liberty man; liberty boat.  
 __libration__ _n_ A very slow oscillation, real or apparent, of a satellite as viewed from the larger celestial body around which it revolves. _Due to lunar libration, people on Earth can see about 59% of the Moon over time._  
 __librocubicularist__ _n_ A person who reads in bed.  
-__lice__ _n_ :eight: Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you’ll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._  
+__lice__ _n pl_ :nine: /laɪs/ Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you’ll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._ :es: piojos  
+__licensee__ _n_ (licencee)  
 __licensure__ _n_ The act or an instance of granting a license, usually to practice a profession. _Teacher licensure programs._  
 __licentious__ _adj_ :two::hammer:  
 __licentiously__  
