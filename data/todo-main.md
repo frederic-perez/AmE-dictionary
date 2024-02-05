@@ -2,6 +2,7 @@ __ableism__ _n_ :astonished: Discrimination or prejudice against people with dis
 __adduce__ _vt_  
 __agonist__ _n_ :astonished:  
 __all-or-nothing__ _adj_  
+__alleviate__  
 __almanac__ _n_  
 __amp up__ _v_  
 __amyloidosis__ _n_ /ˌæmɪlɔɪˈdəʊsɪs/  
@@ -10,6 +11,7 @@ __anecdata__ _n_
 __aplomb__ _n_ /əˈplɒm, əˈplʌm/  
 __archivist__ _n_ /ˈɑr kə vɪst, -kaɪ-/  
 __aspect__ _n_ __5__ A side or surface facing in a particular direction: _the ventral aspect of the body._  
+__assembly__ _n_ :mega: /əˈsɛmblɪ/  
 __atypia__ _n_  
 __aver__ _vt_ :astonished: (averred)  
 __backdrop__ _n_  
@@ -30,6 +32,7 @@ __boatload__ _n_
 __bogus__ _adj_ /ˈboʊ gəs/  
 __breach__ _n_ /breach /briːtʃ/  
 __bubble__ _v_ _If it bubbles you have a leak._  
+__bullet__ _n_ :mega: /ˈbʊl ɪt/  
 __burgeoning__  
 __bustle__ _adj, v_  
 __buttonhole__ _vt_ __3__ To accost and detain (a person) in conversation.  
@@ -54,8 +57,10 @@ __con__ _vt_ _slang_ To swindle (a victim) by first winning his or her confidenc
 __concomitant__ _adj_ Occurring or existing concurrently; attendant. _Syn_ accompanying, consequent, ensuant, resultant, sequent, incidental  
 __conflate__ _v_ /kun-FLAYT/ Two closely related meanings of the verb conflate are “to confuse,” i.e. “to fail to differentiate,” and “to blend or bring together.”  
 __consumer unit__ _n_ A type of distribution board (a component of an electrical power system within which an electrical power feed provides supply to subsidiary circuits).  
+__convalesce__ _vi_  
 __conveyancing__ _n_ /kənˈveɪənsɪŋ/ (Law) The branch of law dealing with the transfer of ownership of property.  
 __countdown__ _n_  
+__creed__ _n_  
 __cruciverbalist__ _n_ /kroo-suh-vur-buh-list/  
 __cupboard__ _n_ :mega: /ˈkʌb ərd/ A closet with shelves for dishes, cups, food, etc.  
 __cursive__ _adj, n_ /ˈkɜːsɪv/  
@@ -63,6 +68,7 @@ __cynophilia__ _n_ /ˌsɪnəʊˈfɪlɪə/ A love of dogs.
 __damask__ _n_ /DAM-usk/ _Damask_ refers to a usually shiny, thick fabric (as of linen, cotton, silk, or rayon) made with patterns. The word can also be used as a synonym of Damascus steel, or for a grayish red color.  
 __darn__ _adj, adv, n_ /dɑːn/ A euphemistic word for damn.  
 __de rigueur__ _adj_  
+__December__ _n_ /dɪˈsɛm bər/  
 __decor__ _n_  
 __deep-routed__ _adj_  
 __deliver__ _vt_ __8__ To give forth or produce.  
@@ -72,6 +78,7 @@ __denial__ _n_ _Despite denials, blah blah blah._
 __despite__ _n, prep_ /dɪˈspaɪt/  
 __detour__ _n_  
 __detox__  
+__discharge__ _vt_ __1__ To release or allow to go: _the hospital discharged the patient._  
 __dissatisfaction__ _n_ :pencil2:  
 __dissent__ _n_  
 __docile__ _adj_ /DAH-sul/  
@@ -80,12 +87,14 @@ __downfall__ _n_
 __drupe__ _n_  
 __ductal__ _adj_ /ˈdʌktəl/ Relating to a duct or tube-like structure in the body that carries bodily fluids.  
 __Dunning-Kruger effect__ _n_ A hypothetical cognitive bias stating that people with low ability at a task overestimate their ability.  
+__earthly__ _adj_  
 __electric shock__ _n_  
 __embolden__ _vt_  
 __emote__ _v_ /ih-MOHT/ To emote is to express emotion in a very dramatic or obvious way. _He stood on the stage, emoting and gesturing wildly._  
 __enact__  
 __entertain__ _vt_ __3a__ To consider; contemplate: _entertain an idea._  
 __epicure__ _n_ /EP-i-kyoor/ [:scroll: After the ancient Greek philosopher Epicurus (341-270 BCE), who advocated simple pleasures and a calm mind (ataraxia). With time, his teachings were distorted as focusing on sensual pleasures.] __1__ A person with refined taste, especially in food or wine. __2__ A person devoted to sensual pleasure.  
+__epiphany__ _n_ /ɪˈpɪfənɪ/  
 __equate__ _v_ /ɪˈkweɪt/  
 __ethos__ _n_  
 __evict__ _vt_ /ɪˈvɪkt/  
@@ -98,6 +107,11 @@ __fallow land__ _n_
 __fiddle__ _v_  
 __figurehead__ _n_ :two: __1__ A person nominally having a prominent position, but no real authority.  
 __firestorm__ _n_  
+__footage__ _n_ :mega:  
+__forestry__ _n_  
+__gaffe__  
+__hatred__ _n_ :dart:  
+__head office__ _n_ :es: sede central  
 __likelihood__ _n_  
 __livelihood__ _n_  
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
@@ -105,6 +119,8 @@ __Machiavellianism__ _n_ /mak-ee-uh-VEL-ee-uh-niz-uhm/ The use of unscrupulous m
 __malaria__ _n_ /məˈlɛər i ə/  
 __manhunt__ _n_ An organized search, usually by police, for a wanted man or fugitive.  
 __market cap__ _n_ :two: (market capitalization) An estimation of the value of a business that is obtained by multiplying the number of shares outstanding by the current price of a share.  
+__monarch__ _n_ :mega: /ˈmɒn ərk, -ɑrk/  
+__mount__ _v_  
 __mugging__ _n_ An assault upon a person especially with the intent to rob.  
 __nebula__ _n_ /ˈnɛb yə lə/  
 __one-on-one__ _adj, adv_ __2__ Involving a direct encounter between one person and another.  
@@ -121,10 +137,13 @@ __pergola__ _n_ An arbor or a passageway of columns supporting a roof of trellis
 __prognosticate__ _v_ /prahg-NAHSS-tuh-kayt/  
 __prominent__ _adj_ __3__ Widely known; eminent: _a prominent poet._  
 __quadriplegia__ _n_ Complete paralysis of the body from the neck down. Also called _tetraplegia._  
+__quell__ _vt_ /kwɛl/  
 __quotidian__ _adj_ /kwoh-TID-ee-un/  
+__rainfall__ _n_  
 __ramble__ _v_  
 __raspberry__ _n_  
 __readout__ _n_  
+__reitetate__  
 __respondent__ _n_ /rɪˈspɒn dənt/  
 __rest__ _n_ __13__ (Billiards & Snooker) Any of various special poles used as supports for the cue in shots that cannot be made using the hand as a support.  
 __resurgence__ _n_  
@@ -134,6 +153,7 @@ __rumble__ _vi_ __3__ _slang_ To engage in a gang fight.
 __sea gypsy__ _n_  
 __self-doubt__ _n_ A lack of faith or confidence in oneself.  
 __shortcoming__ _n_  
+__single-use__ _adj_  
 __skill set__ _n_ A set of skills, esp. a collection of skills and abilities that can be applied to a professional or creative endeavor.  
 __slight__ _vt_ :dart: __1__ To show indifference or disregard for (someone); snub. __2__ To treat as unimportant or trifling. __3__ _US_ To devote inadequate attention to (work, duties, etc).  
 __snooker__ _n_ __2__ A shot in which the cue ball is left in a position such that another ball blocks the object ball. The opponent is then usually forced to play the cue ball off a cushion.  
@@ -142,7 +162,9 @@ __speed dial__ _n_ A function on a telephone that automatically dials stored tel
 __spider__ _n_ __9__ (Billiards & Snooker) A rest having long legs, used to raise the cue above the level of the height of the ball.  
 __stalk__ _v_  
 __standoff__ _n_  
+__sticker price__ _n_  
 __stonk__ _n_ A heavy concentration of artillery fire.  
+__subsequent__  
 __suede__ _n_ :mega: /sweɪd/ :es: ante  
 __Swede__ _n_ :mega: /swid/ A native or inhabitant of Sweden.  
 __sylph__ _n_ /silf/  
@@ -166,9 +188,11 @@ __unfathomable__ _adj_
 __unfettered__ _adj_ /un-FET-erd/  
 __unfold__ _v_  
 __uproar__ _n_  
+__uptake__  
 __urge__ _v_  
 __vagrant__ _n_ One who wanders from place to place without a permanent home or a means of livelihood. _Syn_ drifter, vagabond, floater  
 __verdict__ _n_ /ˈvɜr dɪkt/  
+__veto__ _n_  
 __vitiligo__ _n_ Partial or total loss of skin pigmentation, often occurring in patches. _Syn_ leucoderma  
 __vivacious__ _adj_ :mega: /vuh-VAY-shus/ Someone or something described as vivacious is happy and lively in an appealing way.  
 __wacko__ _n_ _slang_ A person regarded as eccentric or irrational.  
@@ -184,7 +208,8 @@ __whip up__
 __whiplash__ _n_ :two::hammer:  
 __white-collar__ _adj_ Of, relating to, or constituting the class of salaried employees whose duties do not call for the wearing of work clothes or protective clothing.  
 __whitlow__ _n_ A purulent infection at the end of a finger or toe in the area surrounding the nail. :astonished: _Syn_ felon  
-__wholesome__ _adj_  g
+__wholesome__ _adj_  
+__wildfire__ _n_  
 __wire wool__ _n_ A mass of woven steel fibers used as an abrasive. _Syn_ steel wool  
 __wisteria__ _n_  
 __wistfully__ _adv_  
