@@ -1,19 +1,22 @@
+__abash__ _v_  
 __ableism__ _n_ :astonished: Discrimination or prejudice against people with disabilities, especially physical disabilities.  
 __adduce__ _vt_  
 __agonist__ _n_ :astonished:  
 __all-or-nothing__ _adj_  
 __alleviate__  
 __almanac__ _n_  
+__amalgamate__ _v_  
 __amp up__ _v_  
 __amyloidosis__ _n_ /ˌæmɪlɔɪˈdəʊsɪs/  
 __anachronistic__ _adj_ Chronologically misplaced. _Syn_ anachronous  
+__anaphora__ _n_  
 __anecdata__ _n_  
 __aplomb__ _n_ /əˈplɒm, əˈplʌm/  
 __archivist__ _n_ /ˈɑr kə vɪst, -kaɪ-/  
 __aspect__ _n_ __5__ A side or surface facing in a particular direction: _the ventral aspect of the body._  
 __assembly__ _n_ :mega: /əˈsɛmblɪ/  
 __atypia__ _n_  
-__aver__ _vt_ :astonished: (averred)  
+__aver__ _vt_ :two::astonished: (averred) To assert formally as a fact. _Syn_ allege, say _For as my conscience does not accuse me, I aver that I am not a criminal._  
 __backdrop__ _n_  
 __bailiff__ _n_  
 __bailiwick__ _n_ /BAY-lih-wik/ Bailiwick refers to the domain or sphere in which someone has superior knowledge or authority. _Fundraising events are his bailiwick._  
@@ -23,6 +26,7 @@ __ball valve__ _n_
 __ballerina flats__ _n_ _Syn_ ballet flats  
 __bedsit__ _n_ :es: habitación amueblada; estudio amueblado  
 __bequest__ _n_ /bɪˈkwɛst/  
+__Black Panther__  
 __blackhead__ _n_  
 __blitzkrieg__ _n_  
 __blockade__ _n_ /blɒˈkeɪd/  
@@ -45,6 +49,7 @@ __cartomancy__ _n_ Fortune-telling by means of playing cards.
 __cast iron__ _n_ :es: hierro fundido  
 __caucus__ _n_  
 __cautious__ _adj_ :mega: /ˈkɔ ʃəs/  
+__cavil__ _adj, n_  
 __chocolate bar__ _n_  
 __chrysalis__ _n_ /ˈkrɪs ə lɪs/  
 __cicatrix__ _n_ A scar left by the formation of new connective tissue over a healing sore or wound. _Syn_ scar  
@@ -67,6 +72,7 @@ __cursive__ _adj, n_ /ˈkɜːsɪv/
 __cynophilia__ _n_ /ˌsɪnəʊˈfɪlɪə/ A love of dogs.  
 __damask__ _n_ /DAM-usk/ _Damask_ refers to a usually shiny, thick fabric (as of linen, cotton, silk, or rayon) made with patterns. The word can also be used as a synonym of Damascus steel, or for a grayish red color.  
 __darn__ _adj, adv, n_ /dɑːn/ A euphemistic word for damn.  
+__de novo__  
 __de rigueur__ _adj_  
 __December__ _n_ /dɪˈsɛm bər/  
 __decor__ _n_  
@@ -89,6 +95,7 @@ __ductal__ _adj_ /ˈdʌktəl/ Relating to a duct or tube-like structure in the b
 __Dunning-Kruger effect__ _n_ A hypothetical cognitive bias stating that people with low ability at a task overestimate their ability.  
 __earthly__ _adj_  
 __electric shock__ _n_  
+__Emancipation Proclamation__  
 __embolden__ _vt_  
 __emote__ _v_ /ih-MOHT/ To emote is to express emotion in a very dramatic or obvious way. _He stood on the stage, emoting and gesturing wildly._  
 __enact__  
@@ -110,19 +117,30 @@ __firestorm__ _n_
 __footage__ _n_ :mega:  
 __forestry__ _n_  
 __gaffe__  
+__gratuitous__ _adj_ /gruh-TOO-uh-tuss/  
 __hatred__ _n_ :dart:  
 __head office__ _n_ :es: sede central  
+__indigen__ _n_ One that is native or indigenous to an area. _Syn_ aborigine, native  
+__irredeemably__  
+__jalopy__  
+__Jim Crow laws__  
+__Juneteenth__  
+__lariat__ _n_ A long noosed rope used to catch animals. _Syn_ riata, lasso  
 __likelihood__ _n_  
 __livelihood__ _n_  
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
+__lynch__ _vt_  
 __Machiavellianism__ _n_ /mak-ee-uh-VEL-ee-uh-niz-uhm/ The use of unscrupulous means, cunning, and deceit in pursuit of power, especially in politics.  
 __malaria__ _n_ /məˈlɛər i ə/  
 __manhunt__ _n_ An organized search, usually by police, for a wanted man or fugitive.  
 __market cap__ _n_ :two: (market capitalization) An estimation of the value of a business that is obtained by multiplying the number of shares outstanding by the current price of a share.  
+__minstrel__ _n_  
 __monarch__ _n_ :mega: /ˈmɒn ərk, -ɑrk/  
 __mount__ _v_  
 __mugging__ _n_ An assault upon a person especially with the intent to rob.  
+__ne plus ultra__ _n_ /nay-plus-UL-truh/ Ne plus ultra refers to the highest point of development or success that something may achieve; it is a synonym of acme. _The company’s latest electric car is being hailed as the ne plus ultra of automotive achievement._  
 __nebula__ _n_ /ˈnɛb yə lə/  
+__omen__  
 __one-on-one__ _adj, adv_ __2__ Involving a direct encounter between one person and another.  
 __onside kick__ _n_ Short kick-off that travels just far enough to be recoverable by the kicking team.  
 __otolaryngology__ _n_ _Syn_ otorhinolaryngology  
@@ -138,11 +156,13 @@ __prognosticate__ _v_ /prahg-NAHSS-tuh-kayt/
 __prominent__ _adj_ __3__ Widely known; eminent: _a prominent poet._  
 __quadriplegia__ _n_ Complete paralysis of the body from the neck down. Also called _tetraplegia._  
 __quell__ _vt_ /kwɛl/  
+__quixotic__ _adj_ Caught up in the romance of noble deeds and the pursuit of unreachable goals; idealistic without regard to practicality. _Syn_ wild-eyed, romantic  
 __quotidian__ _adj_ /kwoh-TID-ee-un/  
 __rainfall__ _n_  
 __ramble__ _v_  
 __raspberry__ _n_  
 __readout__ _n_  
+__refractory__ _adj_ Obstinately resistant to authority or control. _Syn_ fractious, recalcitrant  
 __reitetate__  
 __respondent__ _n_ /rɪˈspɒn dənt/  
 __rest__ _n_ __13__ (Billiards & Snooker) Any of various special poles used as supports for the cue in shots that cannot be made using the hand as a support.  
@@ -160,10 +180,13 @@ __snooker__ _n_ __2__ A shot in which the cue ball is left in a position such th
 __soar__ _vi_ __2__ To increase or improve suddenly above the normal or usual level: _Sales soared. Our spirits soared._ _Syn_ rise  
 __speed dial__ _n_ A function on a telephone that automatically dials stored telephone numbers.  
 __spider__ _n_ __9__ (Billiards & Snooker) A rest having long legs, used to raise the cue above the level of the height of the ball.  
+__stagnant__ _adj_  
 __stalk__ _v_  
 __standoff__ _n_  
 __sticker price__ _n_  
+__stipulate__  
 __stonk__ _n_ A heavy concentration of artillery fire.  
+__strand__ _v_  
 __subsequent__  
 __suede__ _n_ :mega: /sweɪd/ :es: ante  
 __Swede__ _n_ :mega: /swid/ A native or inhabitant of Sweden.  
@@ -175,6 +198,7 @@ __to that extent__ _adv_ To the degree or extent that.
 __Tootsie Roll__ _n_  
 __tripledemic__ _n_ The simultaneous outbreaks of three infectious diseases: COVID-19, influenza, and respiratory syncytial virus (RSV).  
 __troublemaker__ _n_ /ˈtrʌbəlˌmeɪkə/  
+__tumulus__ _n_ A heap of earth placed over prehistoric tombs. _Syn_ burial mound, grave mound, barrow  
 __turbocharge__ _vt_ :dart: __2__ _informal_ To improve dramatically the performance or quality of. To speed up; accelerate.  
 __turnover__ _n_  
 __tussock__ _n_ A clump or tuft, as of growing grass. _Syn_ tuft  
