@@ -2961,6 +2961,7 @@ __causeway__ _n_ :seven::hammer:
 __caustic__ _adj_ /KAWSS-tik/  
 __caution__ _v_ :two::hammer:  
 __cautionary tale__ _n_ :two::hammer:  
+__cautious__ _adj_ :mega: /ˈkɔ ʃəs/  
 __cautiously__ _adv_ _Consume alcohol cautiously as it has more effect at ski area altitudes._  
 __cavalcade__ _n_ :three: /kav-ul-KAYD/ Cavalcade refers to a series or procession of usually related things. It can also be used specifically for a procession of riders or carriages, or vehicles or ships. _A cavalcade of bribes._  
 __cavalier<sup>1</sup>__ _adj_ :astonished: __1__ Showing arrogant or offhand disregard; dismissive: a cavalier attitude toward the suffering of others. __2__ Carefree and nonchalant; jaunty.  
@@ -2969,6 +2970,7 @@ __cavalry__ _n_ :two: __1__ A highly mobile army unit using vehicular transport,
 __cave__ _v_ :six: (caved) Short for cave in below. _The tunnel walls cave in._ _The FAA caved._ _Syn_ Collapse, fall in, give, give way, crumble  
 __caveat emptor__  
 __caveat__ _n_ :four::hammer:  
+__cavil__ _adj, n_  
 __cavity__ _n_ :es: caries  
 __cavort__ _vi_ :eight::hammer: (cavorted, cavorting) _Animals cavorting._  
 __caw<sup>1</sup>__ _n_ :two: (caws) The hoarse raucous sound that is characteristic of a crow or similar bird. _A rattling caw._  
@@ -3227,6 +3229,7 @@ __chive__ _n_ :three::hammer: _Chive sauce._ :es: cebollino, cebolleta
 __chivvy__ _v_ :three: (chivy) Annoy continually or chronically. _Syn_ beset, harass, harry, hassle, molest, plague, provoke _The senator is very demanding and is reputed to endlessly chivvy her staff to work harder._  
 __chlamydia__ _n_ :pencil2:  
 __chlorophyll__ _n_ :four::pencil2::hammer:  
+__chocolate bar__ _n_  
 __chocolate-box__ _adj_ Excessively decorative and sentimental, like the pictures on some boxes of chocolate candy.  
 __choice__ _v_ _Pick your choice._  
 __choir__ _n_ :mega:  
@@ -3264,7 +3267,7 @@ __Christmas__ _n_ :three::hammer::mute:[C~~h~~istmas] [:scroll: From the Old Eng
 __Christmastime__ _n_ :two: The Christmas season.  
 __chrome__ _n_  
 __chronic__ _adj_ __1__ Of long duration; continuing: _chronic money problems._ _Chronic use._  
-__chrysalis__ _n_ (_n pl_ chrysalises or chrysalides)  
+__chrysalis__ _n_ :two::hammer: /ˈkrɪs ə lɪs/ (_n pl_ chrysalises or chrysalides)  
 __chuck out__ _v_  
 __chuck__ _v_ :nine: (chucked, chucking) __1__ To pat or squeeze fondly or playfully, especially under the chin. __2a__ To throw or toss: _chucked stones into the water._ _When the quarterback chucks a pass with the game on the line._ _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._ __b__ _informal_ To throw out; discard: _chucked my old sweater._ _In “Network,” viewers were persuaded to chuck their TVs out the window._ __c__ _informal_ To force out; eject: _chucking out the troublemakers._ _We couldn’t be domesticated, so they chucked us out._ __3__ _informal_ To give up; quit: _chucked her job._  
 __chuck-wagon__ _n_ :three::hammer: _Chuck-wagon supper._ _A chuck-wagon barbecue._  
@@ -3295,6 +3298,7 @@ __Chutes and Ladders__ _n_
 __chutney__ _n_ :two: (chutneys) A cold food made from fruit, spices, and vinegar, eaten with meat or cheese.  
 __chutzpah__ _n_ :two: (chutzpa) Shameless boldness; brazen nerve; gall.  
 __chyron__ _n_ :dart::two: A graphic that is digitally superimposed over the lower portion of a broadcast television image or a video frame, often in the form of a banner of scrolling text providing supplementary information or of an animated graphic designed to attract the viewer’s attention.  
+__cicatrix__ _n_ A scar left by the formation of new connective tissue over a healing sore or wound. _Syn_ scar  
 __Ciceronian__ _adj_  
 __cigar__ _n_ :mega:  
 __cigarette stub__ _n_ Another name for a cigarette butt.  
@@ -3417,6 +3421,7 @@ __clerk__ _v_ To work or serve as a clerk: _clerked in a store; clerks for a jud
 __clever clogs__ _n_ [:scroll: The term boots has been used for a fellow or a person since the early 1600s. From there we got the term clever boots and then clever clogs.] Someone perceived to be intelligent or knowledgeable in an annoying way.  
 __cliché__ _n_ :two::hammer:  
 __click__ _v_ :four: __2b__ _slang_ To become clear; fall into place: _The answer finally clicked, and I finished the crossword._ _Suddenly, it clicked._ _It clicks when it clicks._  
+__click-through rate__  
 __clickbait__ _n_ :two::hammer: _Clickbait headlines._ _Clickbait journalism._  
 __clicker training__ _n_ A nickname given to an animal training method based on a bridging stimulus (the clicker) in operant conditioning.  
 __clicker__ _n_ _slang_ The remote-control device used to change settings on a television set, VCR, or other electronic equipment.  
@@ -3561,6 +3566,7 @@ __cogency__
 __cogent__ _adj_ :six: /KOH-junt/ Cogent is a formal word that describes something that is very clear and easy for the mind to accept and believe, in other words “convincing.” Appealing to the intellect or powers of reasoning; convincing. _Syn_ weighty _Having put forth an indisputably cogent argument, Sally won the debate._  
 __cogitate__ _v_ :two: /KOJ-i/uh-tayt/ To think, reflect, meditate, etc. To take careful thought or think carefully about; ponder. _Syn_ cerebrate _You must earnestly cogitate before making this decision, and not simply flip a coin._  
 __cognate__  
+__cognizable__  
 __cognizant__ _adj_ :three: Fully informed; conscious. _Syn_ aware _Tarzan, although cognizant of his mighty powers, realized also his limitations._  
 __cognomen__ _n_  
 __cognoscente__ _n_ :two: A person with superior, usually specialized knowledge or highly refined taste; a connoisseur.  
@@ -3621,7 +3627,7 @@ __colonel__ _n_ :two::mega::hammer:
 __colonnade__  
 __colophon__ _n_ :two: __2__ A publisher’s emblem or trademark placed usually on the spine or the title page of a book.  
 __color blind__  
-__color scheme__ _n_ :two: A particular combination of colors. _They chose an unusual color scheme for the living room._  
+__color scheme__ _n_ :three: A particular combination of colors. _They chose an unusual color scheme for the living room._  
 __color wheel__  
 __color__ _n_ :mega: /ˈkʌl ər/  
 __coloratura__ _n_ :two::hammer:  
@@ -3633,7 +3639,7 @@ __colum__ _n_ Someone (physician or clergyman) who substitutes temporarily for a
 __columbine__ _n_ _Columbine and Indian paintbrush._  
 __column__ _n_ :mute:[colum~~n~~]  
 __coma__ _n_ :four::mega::hammer: _Medically induced coma._ _Schumacher out of coma._  
-__comatose__  
+__comatose__ _adj_ :two: __2__ Marked by lethargy; torpid.  
 __comb<sup>1</sup>__ _n_ (combs) _The hens had red combs, wattles, and earlobes._  
 __comb<sup>2</sup>__ _v_ :two::mute:[com~~b~~]:hammer:  
 __combat<sup>1</sup>__ _n_  
@@ -3744,7 +3750,7 @@ __Comptometer__ _n_ _trademark_ (comptometer) A desktop calculating machine used
 __comptroller__ _n_ :four: Variant of controller, used _esp_ as a title of any of various financial executives.  
 __compulsive__ _adj_ _Compulsive thoughts._  
 __compulsory school__  
-__compulsory__ _adj_ :nine::m: /kəmˈpʌlsərɪ/ __1__ Required by regulations or laws; obligatory: _compulsory education._ __2__ involving or employing compulsion; compelling; necessary; essential. _Compulsory vaccination._ _A compulsory Third World condition._ _Vaginal mesh procedures need compulsory register._ _Compulsory State writ._  
+__compulsory__ _adj_ :nine::m: /kəmˈpʌl sə ri/ __1__ Required by regulations or laws; obligatory: _compulsory education._ __2__ Involving or employing compulsion; compelling; necessary; essential. _Compulsory vaccination._ _A compulsory Third World condition._ _Vaginal mesh procedures need compulsory register._ _Compulsory State writ._  
 __compunction__ _n_ :four: A strong uneasiness caused by a sense of guilt. _Syn_ remorse, self-reproach :es: escrúpulo  
 __compurgator__ _n_  
 __compute<sup>1</sup>__ _n_  
@@ -3754,6 +3760,7 @@ __comrade__
 __comradery__ _n_ :two::hammer:  
 __con artist__ _n informal_ :five::hammer: _A pair of con artists target a noblewoman._ _Foul-mouthed con artist._  
 __con man__  
+__con__ _vt_ _slang_ To swindle (a victim) by first winning his or her confidence; dupe.  
 __con-artist__  
 __con<sup>1</sup>__ _n_ :six::hammer: Short for convention. _Comic con._ _Con game with many surprises._ _The pro column, not the con column._ _A real con man._ _The con artist._  
 __con<sup>2</sup>__ _v_ :four::hammer: (conned) _He was conned beyond redemption._ _Now Biff, don’t con me!_  
@@ -3782,7 +3789,7 @@ __conclave__ _n_ /KAHN-klayv/ A private meeting, a secret assembly, or a general
 __conclude__ _v_  
 __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan). _His cronies concocted a simple plan._ _Syn_ make up, think up, dream up, fabricate  
 __concoction__ _n_ :two::hammer:  
-__concomitant<sup>1</sup>__ _adj_ :nine::m: Existing or occurring together; associative.  
+__concomitant<sup>1</sup>__ _adj_ :nine::m: Existing or occurring together; associative. Occurring or existing concurrently; attendant. _Syn_ accompanying, consequent, ensuant, resultant, sequent, incidental  
 __concomitant<sup>2</sup>__ _n_  
 __concordant__ _adj_ Being in agreement: harmonious. _Syn_ accordant, agreeable, consonant, conformable  
 __concordat__ _n_ A signed written agreement between two or more parties (nations) to perform some action. _Syn_ compact, covenant  
@@ -3819,7 +3826,7 @@ __confide__ _v_ :five::hammer: (confided)
 __confidence__  
 __config__ _n_ :mega: _A config file._  
 __conflagration__ _n_ :three: A very intense and uncontrolled fire. _Syn_ inferno _All the stock was destroyed in a warehouse conflagration._ _An astonishing conflagration of biodiversity._  
-__conflate__ _vt_ :six: Mix together different elements. _Syn_ coalesce, fuse, mix, merge, commingle, flux, blend, meld, combine _He conflates two images from Kipling’s short stories in the film._  
+__conflate__ _vt_ :seven: /kun-FLAYT/ Two closely related meanings of the verb conflate are “to confuse,” i.e. “to fail to differentiate,” and “to blend or bring together.” Mix together different elements. _Syn_ coalesce, fuse, mix, merge, commingle, flux, blend, meld, combine _He conflates two images from Kipling’s short stories in the film._  
 __conflation__  
 __confluence__ _n_ :two: A gathering, flowing, or meeting together at one juncture or point. _Syn_ meeting _He had long noted that the greatest disasters were rarely the result of one misfortune but were the result of a confluence of several of them._  
 __conform__ _v_  
@@ -3902,6 +3909,7 @@ __consultee__ _n_
 __consulting__ _n_ :dart:  
 __consumable__  
 __consumer electronics__  
+__consumer unit__ _n_ A type of distribution board (a component of an electrical power system within which an electrical power feed provides supply to subsidiary circuits).  
 __consummate__  
 __consumption__ _n_ __3a__ Tuberculosis. __b__ A progressive wasting away of the body especially from pulmonary tuberculosis.  
 __contact__ _n_ __6__ A contact lens. _We wear contacts._  
@@ -3950,7 +3958,7 @@ __controversial__
 __contumacious__ _adj_ Obstinately disobedient or rebellious; insubordinate.  
 __contumely__ _n_ A rude expression intended to offend or hurt. _Syn_ insult, revilement, vilification, abuse  
 __conundrum__ _n_ :three: /kəˈnʌndrəm/ /kuh-NUN-drum/ __1__ A conundrum is a problem that is difficult, confusing, or intricate. _Ideally, students in an ethics class will really wrestle with moral conundrums._ __2__ Conundrum can also refer to a riddle whose answer is or involves a pun. _Her answer to the conundrum “why didn’t the lost hikers starve in the desert?” was “because of the sand which is there.”_  
-__convalesce__ _v_ :five: /kahn-vuh-LESS/ (convalescing) To return to health and strength after illness. _Syn_ recover, recuperate _After two weeks in the hospital, I was sent home to convalesce for three months._  
+__convalesce__ _vi_ :six: /kahn-vuh-LESS/ (convalescing) To return to health and strength after illness. _Syn_ recover, recuperate _After two weeks in the hospital, I was sent home to convalesce for three months._  
 __convection__ _n_  
 __convective__ _adj_ _Convective cloud._  
 __convene__ _v_ :nine::m: (convenes, convened) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._ _A War Council was convened._  
@@ -3962,7 +3970,7 @@ __conversely__ _adv_ :three: _(sentence modifier)_ In a contrary or opposite way
 __convertible__  
 __convey__ _vt_ :four::hammer: (conveyed) _The traffic conveyed over connections._  
 __conveyance__ _n_  
-__conveyancing__ _n_ :two: The branch of legal practice dealing with the conveyance of property or real estate.  
+__conveyancing__ _n_ :three: /kənˈveɪənsɪŋ/ (Law) The branch of law dealing with the transfer of ownership of property. The branch of legal practice dealing with the conveyance of property or real estate.  
 __conveyor belt__ _n_ A continuous, moving belt that transports materials or packages from one place to another.  
 __conviction__ _n_  
 __convivial__ _adj_ :six: Fond of feasting, drinking, and good company; sociable. _Syn_ jolly, merry, festive, jovial _Weston was chatty and convivial, and no friend to early separations of any sort._ _Convivial atmosphere._  
@@ -4103,6 +4111,7 @@ __counsel__ _n_ :two::hammer:
 __counselor__ _n_ :two::hammer:  
 __count on__ _phr v_ To rely or depend on (someone) to do something.  
 __count__ _n_ :five: __3__ _Law_ Any of the separate and distinct charges or causes of action in an indictment or complaint. _A cardiologist was charged with three counts of healthcare fraud for an alleged scheme involving office visits that never occurred._ _He entered guilty pleas to two manslaughter counts._  
+__countdown__ _n_  
 __countenance<sup>1</sup>__ _n_ :eight: /KOWN-tun-unss/ Countenance is a formal word that is most often used to refer to a person’s facial expression, or to the face generally, especially as an indication of mood, emotion, or character. _Her cheerful countenance quickly put the lost visitors at ease._ _His countenance was pale and sunken._  
 __countenance<sup>2</sup>__ _v_ :two::hammer:  
 __counter__ _n_ :four::hammer: _A lot of counter space._ _The list is on your dressing-room counter._ _A counter-depth fridge._ :es: encimera  
@@ -4231,6 +4240,7 @@ __credenza__ _n_ :two: A buffet, sideboard, or bookcase, especially one without 
 __credit__ _n_ _Presidents don’t deserve full credit or blame for the economy’s performance._  
 __creditor__ _n_  
 __credulous__ _adj_ /KREJ-uh-lus/ A credulous person is ready to believe things based on slight or uncertain evidence. A credulous thing, such as a report or statement, likewise shows that same readiness to believe. _Margo smiled as she watched her credulous siblings listening with rapt attention to their aunt’s tall tales._  
+__creed__ _n_  
 __creek__ _n_ :four::hammer: _An older house on a creek._  
 __creep<sup>1</sup>__ _n_ :four::hammer: _The upward creep._  
 __creep<sup>2</sup>__ _v_ :three::hammer: (crept) _Defeated, Urban crept back to Avignon._  
@@ -4335,7 +4345,7 @@ __crucial__
 __crucible__ _n_ :nine::m: /KROO-suh-bul/ Crucible refers to a place or situation that forces someone or something to change. Most commonly found in formal and literary writing, it can also mean “a difficult test or challenge.” Its original meaning, still in use, is “a pot in which metals or other substances are heated to a very high temperature or melted.” _Her rock-solid songwriting skills were forged in the crucible of the Nashville music scene._ _After years of intense daily archery training, she is ready to face the crucible of the Olympics._  
 __crucifix__ _n_ :two::hammer:  
 __crucifixion__ _n_  
-__cruciverbalist__ _n_ A person who compiles or solves crossword puzzles.  
+__cruciverbalist__ _n_ :two: /kroo-suh-vur-buh-list/ A person who compiles or solves crossword puzzles.  
 __crud__  
 __crude__ _adj_ :two::hammer: _Crude humor._  
 __crudity__ _n_ _“Please, excuse the crudity of the model,” said Dr. Brown._  
@@ -4417,7 +4427,7 @@ __cummerbund__
 __cumulonimbus__ _n_ _Syn_ thunderstorm  
 __cunctator__ _n_ Someone who postpones work (especially out of laziness or habitual carelessness).  
 __cuneiform__  
-__cupboard__ _n_ :two::hammer::camera::mute:[cu~~p~~board] (cupboards) _My father rebuilt cupboards._  
+__cupboard__ _n_ :three::hammer::camera::mega::mute:[cu~~p~~board] /ˈkʌb ərd/ A closet with shelves for dishes, cups, food, etc. _My father rebuilt cupboards._  
 __cupidity__ _n_ :dart::five: Excessive desire, especially for wealth. _Syn_ covetousness, avarice  
 __cupola__ _n_ :four::hammer: :es: cúpula  
 __cuppa__ _n_ :four: A cup of tea.  
@@ -4444,7 +4454,8 @@ __curmudgeon__ _n_ :nine: An ill-tempered person full of resentment and stubborn
 __curriculum vitae__ _n_  
 __curriculum__ _n_ _The math curriculum of the school is pretty useless._  
 __curry__ _v_ :five::hammer: (curried) _A blatant effort to curry favor._  
-__cursive__ _adj_ :two: /ˈkəːsɪv/ [:scroll: from Latin curs, ‘run’] Written with the characters joined. _I can’t give autographs right now, ‘cause I don’t know cursive._  
+__cursive<sup>1</sup>__ _adj_ :three: /ˈkəːsɪv/ /ˈkɜːsɪv/ [:scroll: from Latin curs, ‘run’] Written with the characters joined. _I can’t give autographs right now, ‘cause I don’t know cursive._  
+__cursive<sup>2</sup>__ _n_ /ˈkəːsɪv/ /ˈkɜːsɪv/  
 __cursory__ _adj_ :eight: Performed with haste and scant attention to detail: _a cursory glance at the headlines._  
 __curt__ _adj_ :four: __1__ Rudely blunt and brief; abrupt: _a curt reply._ _His curt answer._ __2__ Short or concise.  
 __curtail__ _v_ :nine::m: (curtailed) Reduce in extent or quantity; impose a restriction on. _He must curtail the mistakes._ _The government is conspiring to curtail liberties._ :es: hacer restringir  
@@ -4490,7 +4501,8 @@ __Cybex__ _n_ _Cybex weights._
 __cyclone__ _n_ :two::hammer: (cyclones)  
 __cyclopean__ _adj_ __2__ Very big; huge: _has a cyclopean ego._  
 __cynical__ _adj_ :three::pencil2: /SIN-i-kuhl/ [:scroll: From Latin cynicus, from Greek kynikos (like a dog), from kyon (dog)] __1__ Believing that people are motivated primarily by self-interest. __2__ Behaving in a selfish manner, callously violating accepted standards. __3__ Pessimistic; jaded; negative. __4__ Contemptuous; mocking.  
-__cynophilist__ _n_ /sy-NOH-fi-list/ [:scroll: From From Greek kyon (dog) + -philia (love).] One who loves dogs.  
+__cynophilia__ _n_ /ˌsɪnəʊˈfɪlɪə/ A love of dogs.  
+__cynophilist__ _n_ /sy-NOH-fi-list/ [:scroll: From From Greek kyon (dog) + -philia (love)] One who loves dogs.  
 __cypress__ _n_ :astonished:  
 __cyst__ _n_ :two::hammer::mega: _Ganglion cysts._  
 __cytometer__  
@@ -4525,7 +4537,7 @@ __dalliance__ _n_ :two::hammer:
 __dally__ _v_ :six::hammer: (dallied, dallying)  
 __Dalmatian__ _n_ A dog of a large, white short-haired breed with dark spots.  
 __dam__ _n_ _The Hoover Dam._  
-__damask__ _n_ :two::hammer: _Apparel of fine damask._  
+__damask__ _n_ :three: /DAM-usk/ _Damask_ refers to a usually shiny, thick fabric (as of linen, cotton, silk, or rayon) made with patterns. The word can also be used as a synonym of Damascus steel, or for a grayish red color. _Apparel of fine damask._  
 __dammit__  
 __damn__ _adj, adv, n, v_ :mute:[dam~~n~~]  
 __damnation__ _n_ :two::hammer:  
@@ -4559,6 +4571,7 @@ __daresay__ _v_
 __daring__ _adj_ Bold or adventurous; reckless. _A daring quality._  
 __Darjeeling__ _n_  
 __darling__ _n_ /DAHR-ling/ __1__ A dearly loved person. _The youngest child is the grandparents’ little darling._ __2__ A person who is a favorite. _The actor is a darling of the entertainment industry in both film and music._  
+__darn<sup>1</sup>__ _adj, adv, n_ /dɑːn/ A euphemistic word for damn.  
 __darn<sup>2</sup>__ _v_ :three::hammer: (darned, darning) :es: zurcir  
 __darnedest__  
 __dart__ _v_ :six::hammer: (darting)  
@@ -4599,7 +4612,7 @@ __daze__ _n_ _Exhausted beyond his endurance, the Deacon sank down against the w
 __dazzle__ _v_ :four::hammer: (dazzled) _He had dazzled a businessman._  
 __dazzling__ _adj_ :nine::m: /ˈdæzlɪŋ/ (dazzlingly) __1__ Extremely bright, especially so as to blind the eyes temporarily. _The sunlight was dazzling._ _Syn_ extremely bright, blinding, glaring __2__ Extremely impressive, beautiful, or skilful. _A dazzling display of football._ _Dazzling gifts._ _Syn_ impressive, remarkable, extraordinary, outstanding, exceptional  
 __de facto__ _adj_  
-__de novo__ _adj, adv_ :three::hammer: _Computer-based de novo design of drug-like molecules._  
+__de novo__ _adj, adv_ :four::hammer: _Computer-based de novo design of drug-like molecules._  
 __de-escalate__ _v_ :four::pencil2::hammer:  
 __de-facto__  
 __deacon<sup>1</sup>__ _n_ /DEE-kuhn/ [:scroll: from Greek diakonos (servant, minister)] In a church, a person appointed as a lay leader to a position below a pastor, priest, etc.  

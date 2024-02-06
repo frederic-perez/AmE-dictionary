@@ -48,31 +48,6 @@ __captcha__ _n_ /ˈkæptʃə/
 __cartomancy__ _n_ Fortune-telling by means of playing cards.  
 __cast iron__ _n_ :es: hierro fundido  
 __caucus__ _n_  
-__cautious__ _adj_ :mega: /ˈkɔ ʃəs/  
-__cavil__ _adj, n_  
-__chocolate bar__ _n_  
-__chrysalis__ _n_ /ˈkrɪs ə lɪs/  
-__cicatrix__ _n_ A scar left by the formation of new connective tissue over a healing sore or wound. _Syn_ scar  
-__click-through rate__  
-__cognizable__  
-__color scheme__ _n_  
-__comatose__ _adj_ __2__ Marked by lethargy; torpid.  
-__compulsory__ _adj_ /kəmˈpʌl sə ri/  
-__con__ _vt_ _slang_ To swindle (a victim) by first winning his or her confidence; dupe.  
-__concomitant__ _adj_ Occurring or existing concurrently; attendant. _Syn_ accompanying, consequent, ensuant, resultant, sequent, incidental  
-__conflate__ _v_ /kun-FLAYT/ Two closely related meanings of the verb conflate are “to confuse,” i.e. “to fail to differentiate,” and “to blend or bring together.”  
-__consumer unit__ _n_ A type of distribution board (a component of an electrical power system within which an electrical power feed provides supply to subsidiary circuits).  
-__convalesce__ _vi_  
-__conveyancing__ _n_ /kənˈveɪənsɪŋ/ (Law) The branch of law dealing with the transfer of ownership of property.  
-__countdown__ _n_  
-__creed__ _n_  
-__cruciverbalist__ _n_ /kroo-suh-vur-buh-list/  
-__cupboard__ _n_ :mega: /ˈkʌb ərd/ A closet with shelves for dishes, cups, food, etc.  
-__cursive__ _adj, n_ /ˈkɜːsɪv/  
-__cynophilia__ _n_ /ˌsɪnəʊˈfɪlɪə/ A love of dogs.  
-__damask__ _n_ /DAM-usk/ _Damask_ refers to a usually shiny, thick fabric (as of linen, cotton, silk, or rayon) made with patterns. The word can also be used as a synonym of Damascus steel, or for a grayish red color.  
-__darn__ _adj, adv, n_ /dɑːn/ A euphemistic word for damn.  
-__de novo__  
 __de rigueur__ _adj_  
 __December__ _n_ /dɪˈsɛm bər/  
 __decor__ _n_  
