@@ -1924,6 +1924,7 @@ __gargle__ :two: __1__ _v slang_ To drink alcohol. _I lit a cigarette and gargle
 __gas__ :three: __4__ _vi_ To have a good time. _We gassed all evening._ _We’re here to gas on the show._  
 __gaslight__ :nine::m: (gaslighting) To manipulate someone psychologically so that they begin to doubt their experience of reality. The phrase comes from the 1938 play _Gas Light_, in which the protagonist attempts to induce insanity in his wife by constantly questioning or doubting her reports of strange events, such as the dimming of the house’s gas lights (which has in fact occurred and is related to the husband’s nefarious activities). _Her husband must be gaslighting her because she suddenly doubts all the evidence that she’s found of his indiscretions._ _The administration has been accused of gaslighting with its repeated attempts to spread disinformation._  
 __gassed__ In James Ellroy’s novels, the term “gassed” is often used to describe someone who is intoxicated or under the influence of drugs or alcohol.  
+__gather steam__  
 __gather/gain momentum__ To move faster. _The wagon gathered/gained momentum as it rolled down the hill._  
 __gear up__ _The same groundhog festival is gearing up again and again._  
 __geek out__ _v_ To temporarily enter techno-nerd mode while in a non-hackish context, for example at parties held near computer equipment. Especially used when you need to do or say something highly technical and don’t have time to explain: “Pardon me while I geek out for a moment.”  
@@ -1944,12 +1945,14 @@ __get (one’s) knuckles rapped__ _The Japanese drug company Astellas has had it
 __get (one’s) shit together__ :two::hammer:  
 __get (one’s) teeth into (something)__  
 __get (one’s) thinking cap on__ To begin thinking or considering very carefully and seriously (about something), often to solve a problem. _OK, fellas, if we all get our thinking caps on, I’m sure we can come up with a way to earn enough money to go to the baseball game this weekend._  
+__get (one) started__  
 __get (some kind of) mileage out of (something)__ To get a lot of use from something, as if it were a car. _Bob always got a lot of mileage out of one joke._  
 __get (someone or something) on track__ To cause or help someone or something to begin or resume progressing or developing as planned, scheduled, or expected. _The project’s development cycle started spinning out of control, so upper management brought in a consultant to get us on track._  
 __get (someone or something) out of (one’s) head__ To make an effort to forget or stop thinking about someone or something.  
 __get (something) straight__ _Let’s get this straight._  
 __get (the hell) out of Dodge__ :two: To leave or depart from a place, especially quickly or with marked urgency. A reference to Dodge City, Kansas, the clichéd setting of cowboy and western films from the early to mid-1900s. _It looks like things are getting pretty tense in here, let’s get out of Dodge!_  
 __get a big head__ To become arrogant or conceited; to assume an exaggeratedly high opinion of oneself. _Samantha got a big head after her book became a bestseller._  
+__get a free pass__  
 __get a grip__ :three::hammer:  
 __get a handle on (something)__ _UAVs are used to get a handle on what’s going on._  
 __get a hold on/of (oneself)__  
@@ -1959,6 +1962,7 @@ __get a toehold__
 __get ahead of (oneself)__ :four: To plan or become overly excited for a possible future event.  
 __get along with__ To have a good relationship with someone.  
 __get along__  
+__get anywhere__ To make progress.  
 __get around it__ _There is just no getting around it._  
 __get around to doing something__ To find time to do something; to do something after a long delay.  
 __get around to__ :dart: (get round to) Find the time or occasion for, as in _Dean never gets around to cleaning up the garage._ _Dreams and goals I might get around to at some time._  
@@ -1982,6 +1986,7 @@ __get into (someone or something)__ :two: __13__ To become interested in or pass
 __get it off my chest__  
 __get knocked out cold__ To be rendered unconscious, as by a physical blow, medication, or other means. _I had a shot at a championship boxing title, but I got knocked out cold in the semi-finals._ _I hope I don’t get knocked out cold by this painkiller the doctor gave me._  
 __get lucky__  
+__get nowhere__  
 __get off (one’s) high horse__ To stop acting as if one is better than other people; to stop being arrogant or haughty.  
 __get off__ _I always get off the bus a stop early on the way to work._  
 __get on like a house afire__ Of two or more people, to enjoy one another’s company very much from the start and become good friends at once. (Used when people are meeting for the first time.) _I can’t wait for you to meet Mark, I just know the two of you will get on like a house afire!_  
@@ -2001,11 +2006,13 @@ __get shut-eye__ _I’ll get some shut-eye._
 __get smart (with one)__ To make disrespectful comments to one; to sass one. _Just take out the trash like I asked you to, and don’t get smart with me._  
 __get someone’s dander up__ To make someone get angry. _Now, don’t get your dander up. Calm down._ _The customer’s disrespectful attitude got the waitstaff’s dander up._  
 __get someone’s goat__ :two: _informal_ If someone or something gets your goat, they annoy you. (It’s believed that the phrase comes from actual goats and their effect on race horses. Goats are thought to calm down anxious or energy-filled thoroughbreds, so owners would put a goat in the horse’s stall for the night before the race. Stealing that goat out of the pen would thus upset the horse and make it perform poorly on the big day.)  
+__get something straight__  
 __get taken to task (by someone)__ To be scolded, rebuked, reprimanded, or criticized (by someone). _I got taken to task by the headmaster for disrupting class again._  
 __get the axe__ To lose your job.  
 __get the ball rolling__ :dart: To set something, often a process, in motion; to begin. _I think it will be easier to become comfortable driving now that I’ve gotten the ball rolling with driving lessons._ _Anyway, if everyone’s here then let’s get the ball rolling._  
 __get the best of me__  
 __get the better of (someone or something)__ :two: To gain superiority, mastery, or an advantage over someone or something; to get control over someone or something. _I knew I shouldn’t be meddling in other people’s business, but my curiosity got the better of me._  
+__get the bug__  
 __get the drift of something__ :two: To understand the general meaning of some situation or piece of information. To understand the general idea of something. _I knew enough German to get the drift of this article. I don’t get the drift of what you’re trying to tell me._ _Since I don’t have time at work to read news articles in full, I usually just read a daily news recap to get the drift of what.s going on in the world._  
 __get the drift__  
 __get the edge__  
@@ -2019,6 +2026,7 @@ __get the sniffles__ To catch a cold, usually a minor one. _My daughter seems to
 __get the the green light__ To receive permission to proceed with some action or task. Likened to the green light of a traffic signal.  
 __get this show on the road__ :two: To promptly begin or get something started. _Sorry for the delay, folks. I think we’re ready to get this show on the road._  
 __get through to (someone or something)__ To make someone understand what you are trying to say.  
+__get through__  
 __get to grips with (someone or something)__  
 __get to grips__  
 __get to know__ :two: To start to be familiar with someone or something. If you get to know someone, you find out what they are like by spending time with them. _It took a while to get to know the city properly._ _The new neighbors were getting to know each other._  
@@ -2043,10 +2051,12 @@ __gig__ _slang_ __4__ _v_ To work single or temporary professional jobs or engag
 __gilded cage__ A life of wealth and luxury but without true freedom, happiness, or contentment. _She married her husband because of his fortune, but her lonely life inside their mansion with a man she did not love quickly became a gilded cage._  
 __gills > packed to the gills__ :two: Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is packed to the gills! Her mind was packed to the gills with ideas for her new book. I felt packed to the gills after my grandmother’s Thanksgiving meal._  
 __gin up__ _He didn’t gin up the courage to tell her._  
+__girl grip__ _Girl grip_ is a slang phrase that refers to holding multiple items in one hand by grasping them between fingers. Typically, the phrase girl grip refers to a person using a clawed hand to hold multiple items at once. For example, a person may hold a paper cup using primarily their thumb and pointer finger while holding a smartphone, keys, receipt, and wallet with their remaining fingers on the same hand.  
 __give (one) a break__  
 __give (one) a call__ To call one on a phone or via another calling platform. _Let me give her a call and see what she thinks about all this._  
 __give (one) a pass__  
 __give (one) a run for (one’s) money__ To challenge one’s ability, fortitude, or patience. _Don’t underestimate our opponents today—I think they’ll give us a run for our money._ _A new AI model gives Photoshop a run for its money._  
+__give (one) a shout__  
 __give (one) some slack__ To be lenient with one; to give one a break. _Give me some slack, Mom. I studied hard for that test, but it’s just not my best subject._  
 __give (one) the cold shoulder__  
 __give (one) the creeps__  
@@ -2057,6 +2067,7 @@ __give (someone) a piece of (one’s) mind__ To tell someone how one feels, ofte
 __give (someone) an out__ To provide someone with an excuse or a means of escaping (from something).  
 __give (someone) the business__  
 __give (someone) the stink eye__ To make a facial expression of unreserved disgust, contempt, disapproval, distrust, or general ill will toward someone. _Some guy across the bar has been giving me the stink eye since we came in. It must be something to do with my outfit._  
+__give (someone) the word__ :dart: To give an order, make a request, or expressly state a desire for someone to do something or undertake some task. _We’re ready to begin writing the report whenever you are, so just give us the word, and we’ll get going._  
 __give (something) a face-lift__ :two: To refurbish or improve the appearance of something. _Wow, you really gave this room a face-lift—it looks fantastic!_  
 __give (something) the thumbs up__  
 __give a rat’s ass__ _I don’t give a rat’s ass._  
@@ -2065,10 +2076,11 @@ __give back__
 __give in__ :two::hammer: _Give in to our fears._  
 __give it a go__  
 __give it a shot__  
-__give it a whirl__ To try something (often for the first time as a means of forming an opinion about it).  
-__give notice__  
+__give it a whirl__ :dart::two: To try something (often for the first time as a means of forming an opinion about it).  
+__give notice__ :two::hammer:  
 __give or take__ :two: Plus or minus a specified amount; more or less: _It will cost $20, give or take a dollar or two._  
 __give someone a piece of your mind__ To speak angrily to someone because they have done something wrong.  
+__give someone a run for their money__  
 __give someone an inch__  
 __give someone some lip__ _informal_ To speak rudely or disrespectfully to someone; to sass someone. _Billy gave me some lip, so I whupped him. Jane is always giving the teacher some lip._  
 __give someone the creeps__ To make you feel frightened or nervous.  
@@ -2080,7 +2092,7 @@ __give up on (someone or something)__ :two::hammer: _I am not going to give up o
 __glad tidings__ :dart::two: Favorable, beneficial, or happy news. Usually used with the verbs “give” or “bring.” _The union leader brought glad tidings to the striking workers that their demands for pay increases had been accepted by the company’s management._  
 __glass ceiling__ A glass ceiling is a metaphor used to represent an invisible barrier that keeps a given demographic (typically applied to minorities) from rising beyond a certain level in a hierarchy. The metaphor was first coined by feminists in reference to barriers in the careers of high-achieving women.  
 __glass over__ _Glassed-over eyes._  
-__glimmer of hope__ :two: A minute indication that something may improve, succeed, or turn out for the best in the end. _Fans clung to a glimmer of hope that their team might score a last-minute touchdown to tie the game._  
+__glimmer of hope__ :four: A minute indication that something may improve, succeed, or turn out for the best in the end. _Fans clung to a glimmer of hope that their team might score a last-minute touchdown to tie the game._  
 __glitch__ _A phone glitch._  
 __glom__ __1__ _vt_ To steal something. (Underworld.) _He gloms just about everything he needs._ __2__ _vt_ To take a look at someone or something. (Underworld.) _Come over here and glom the view of the bank from this window._ __3__ _vt_ To arrest someone. _The copper glommed Fred on Tuesday._  
 __glommed__ _slang_ Arrested. _Dude, I hear sirens—we’re gonna get glommed if we stay here any longer!_  
@@ -2110,8 +2122,9 @@ __go blooey__ _slang_ To go completely awry; to totally fail. _Plans for the gal
 __go both ways__ __1__ A bisexual person who is attracted to both men and women. __2__ Something that has two functions or purposes. For example, an all-purpose cleaner can be said to “go both ways” because it can be used to clean multiple surfaces.  
 __go cold turkey__  
 __go commando__  
+__go deep__  
 __go down in/make history__  
-__go down the rabbit hole__  
+__go down the rabbit hole__ :two::hammer:  
 __go downhill__ :two::hammer:  
 __go far__  
 __go figure__ :eight: A phrase used to highlight that what has been said is unexpected, absurd, or difficult to understand or accept. Used when you tell someone a fact and you then want to say that the fact is surprising, strange or stupid: _It’s a terrible movie and it made $200 million. Go figure!_ _The one time I get to the station on time, the train is delayed—go figure!_  
@@ -2129,6 +2142,7 @@ __go haywire__ :two: __1__ To start malfunctioning or having problems. _Well, th
 __go head to head__  
 __go into a nosedive__  
 __go into the weeds__ :dart: To become totally immersed in or preoccupied with the minute details or complexities (of something). _Before we go into the weeds, let’s give a brief overview for any of our listeners who aren’t familiar with the issue._  
+__go missing__ To disappear. _My diamond earrings have gone missing, and I want the entire staff to be interrogated!_  
 __go native__ :astonished: _You going native on me, Supercop?_  
 __go nowhere (fast)__ To ultimately yield or achieve no useful, beneficial, or successful result or outcome.  
 __go off in a huff__ :two: To leave in an angry, belligerent, or vexed manner. _Don’t go off in a huff like that, it was only a joke!_  
@@ -2145,10 +2159,11 @@ __go out with the girls__ To go and socialize somewhere with a group of exclusiv
 __go out__ __1__ To go on a date with someone. _Those two have such an obvious chemistry that I’m surprised they’ve never gone out._  
 __go over (one’s) head__ :two: __1__ To speak to one’s superior rather than talking to one directly. _She just wouldn’t listen to me, so I had to go over her head to her boss and complain about it._ __2__ To not be understood by one because it is too complex or subtle for their comprehension. _My jokes always seem to go over Stephanie’s head, so I’m glad you think I’m funny at least._  
 __go over the top__  
-__go overboard__ :dart::four: To do too much; to be extravagant; show excessive enthusiasm, act in an excessive way; to act without restraint in some area. _Did I go overboard with the Christmas decorations? I’m worried I bought enough Christmas lights to light up Times Square._  
+__go overboard__ :dart::five: To do too much; to be extravagant; show excessive enthusiasm, act in an excessive way; to act without restraint in some area. _Did I go overboard with the Christmas decorations? I’m worried I bought enough Christmas lights to light up Times Square._  
 __go pffft__ It’s basically James Ellroy-speak for something just…fizzling out or disappearing.  
 __go places__ :three::hammer: _This kid is going places._  
 __go potty__ _He has to go potty._  
+__go rogue__  
 __go soft on (someone)__ :two: To treat someone delicately, gently, or leniently; to not criticize, punish, or berate someone too harshly.  
 __go soft__ :two: To become overly lenient, easily manipulated, or apathetic; to lose strength or determination. _You used to be the toughest sheriff this town has ever had, but you’ve gone soft in your old age._  
 __go south__ :nine: __1__ To escape; to vanish or disappear. _Everyone in the gang went south when they learned that the police had discovered their hideout._ __2__ To fall or drop; to depreciate; to lose quality or value. (Especially related to finances or stock exchanges.) _I used to be a big player in the stock market, but all my investments have gone south lately._ __3__ To cease working or functioning; to quit, fail, or fall apart. _That’s when things start going south._ _You’ve got a career there, if all this goes south._ _This one went south on me._ _That’s when everything went south._  
@@ -2176,7 +2191,7 @@ __go toe by toe__
 __go under the hammer__ :three: To be put up for or sold at auction. _The bankers family estate had to go under the hammer to cover some of his mounting debt._  
 __go vacant__ _Her eyes went vacant again._  
 __go without saying__ _It goes without saying: thinking in more effective ways about projects can make things happen more successfully._  
-__go wrong__  
+__go wrong__ :two::hammer:  
 __go-round__ _The fourth go-round in the_ Madagascar _franchise._  
 __go-to girl__  
 __go-to guy__  
@@ -2208,6 +2223,7 @@ __good books__ :three: Favorable, kindly, or approving regard or treatment. Usua
 __good call__ :dart::three: A good decision or idea. The phrase does not have to be preceded by an article. _Hey, good call—I think the blue tie will bring out my eyes more, just like you said._ _Ordering this dish was definitely a good call—it’s delicious!_  
 __good enough for jazz__ :dart::two: Sufficient to suit the purpose(s) at hand without needing to be perfect. _There are still a few kinks to work out in how users’ comments are displayed, but it’s good enough for jazz at the moment._  
 __good enough to eat__ To have an extremely beautiful or aesthetically pleasing appearance.  
+__good envy__ :dart: Term that refers to the positive emotions you may feel when you admire someone’s qualities, achievements, or possessions, and it motivates you to aspire to similar things.  
 __good for nothing__ Entirely without value; of no use whatsoever. (Hyphenated if used as a modifier before a noun.)  
 __good for you(!)__ :three: A complimentary expression of encouragement for something that someone has done or received.  
 __good for__ __4__ Equivalent in value; also, valid for. _These coupons are good for a 20 percent discount._ _He was good for many murders._  
@@ -2261,13 +2277,15 @@ __green thumb__ _Practical ideas for novice green thumbs and expert gardeners al
 __green with envy__ :two: Very jealous of another person. _My daughter loves being on stage, so she is just green with envy that Alice got the lead in the school play._  
 __greener pastures__ :two: A better or more exciting job or place.  
 __greenwash__ :three: __1__ _v_ To make illegally obtained money appear to have come from legal channels; to launder money. _This isn’t a foolproof plan, Jack—eventually, someone is going to catch you greenwashing._ __2__ _n_ Activities undertaken by an organization or company so that it appears more environmentally conscious. _Is this “recycled content” label legit, or is it just greenwash?_  
+__greige__ A neutral color that looks like a mix of gray and beige.  
 __grifter__ :two: Someone who swindles other people. _Mom, don’t be a fool and give this guy more money when he hasn’t done a single part of this job right so far. He’s a total grifter!_  
 __grill (someone) (about something)__ :two: To question or interrogate someone intensely and relentlessly (about something). _I wish my parents would stop grilling me about where I go with my friends at night!_  
 __grind (someone’s) gears__ :two: To greatly or specifically irritate or annoy someone. _It really grinds my gears when cyclists go zipping through red lights!_  
+__grind on__ :dart: _The conflict grinds on._  
 __grínd one’s teeth__  
 __grind to a halt__ To halt progression very abruptly, especially in an ultimately detrimental or undesirable manner. Likened to a machine or automobile that stops functioning due to the grinding of gears. _Our project will grind to a halt if the CEO pulls his approval._  
 __grind__ __3__ _n informal_ A tedious or laborious routine, especially of work or study. _I’m lucky to have a job in today’s economy, but this daily grind is starting to get me down._  
-__gripe about (someone or something)__ To complain, often continually and in an irritating manner, about someone or something. _I turned the thermostat up, so you all can stop griping about how cold it is in here, thanks._  
+__gripe about (someone or something)__ :dart::two: To complain, often continually and in an irritating manner, about someone or something. _I turned the thermostat up, so you all can stop griping about how cold it is in here, thanks._  
 __grok__ :two::hammer:  
 __groom (someone) for (something)__  
 __ground zero__ :two: __4__ :dart: The earliest possible starting point; the most basic, fundamental, or preliminary level. _The folder with my outline and notes got deleted, so now I have to start the whole project again from ground zero._  

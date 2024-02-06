@@ -48,31 +48,6 @@ __freak out__
 __friendly reminder__ “Friendly reminder” is an idiomatic expression that means “a gentle reminder” or “a polite reminder.” It’s a way of reminding someone about something in a non-confrontational or friendly way.  
 __fuss about__  
 __game-changer__  
-__gather steam__  
-__get (one) started__  
-__get a free pass__  
-__get anywhere__ To make progress.  
-__get nowhere__  
-__get something straight__  
-__get the bug__  
-__get through__  
-__girl grip__ _Girl grip_ is a slang phrase that refers to holding multiple items in one hand by grasping them between fingers. Typically, the phrase girl grip refers to a person using a clawed hand to hold multiple items at once. For example, a person may hold a paper cup using primarily their thumb and pointer finger while holding a smartphone, keys, receipt, and wallet with their remaining fingers on the same hand.  
-__give (one) a shout__  
-__give (someone) the word__ :dart: To give an order, make a request, or expressly state a desire for someone to do something or undertake some task. _We’re ready to begin writing the report whenever you are, so just give us the word, and we’ll get going._  
-__give it a whirl__ To try something (often for the first time as a means of forming an opinion about it).  
-__give notice__  
-__give someone a run for their money__  
-__glimmer of hope__ :two: A minute indication that something may improve, succeed, or turn out for the best in the end.  
-__go deep__  
-__go down the rabbit hole__  
-__go missing__ To disappear. _My diamond earrings have gone missing, and I want the entire staff to be interrogated!_  
-__go overboard__  
-__go rogue__  
-__go wrong__  
-__good envy__ :dart: Term that refers to the positive emotions you may feel when you admire someone’s qualities, achievements, or possessions, and it motivates you to aspire to similar things.  
-__greige__ A neutral color that looks like a mix of gray and beige.  
-__grind on__ :dart: _The conflict grinds on._  
-__gripe about (someone or something)__  
 __gully washer__ An extremely heavy rainstorm that usually lasts a short amount of time.  
 __gut-wrenching__ Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one’s feelings. _What a gut-wrenching loss for the young athlete, who poured her heart and soul into this match._  
 __gyatt__ A slang exclamation of surprise or excitement. Gyatt is most commonly used as an exclamation in reaction to seeing a large butt (that is, the buttocks) and may be used as a noun to mean a large butt.  
