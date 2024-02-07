@@ -198,31 +198,6 @@ __tripledemic__ _n_ The simultaneous outbreaks of three infectious diseases: COV
 __troublemaker__ _n_ /ˈtrʌbəlˌmeɪkə/  
 __tumulus__ _n_ A heap of earth placed over prehistoric tombs. _Syn_ burial mound, grave mound, barrow  
 __turbocharge__ _vt_ :dart: __2__ _informal_ To improve dramatically the performance or quality of. To speed up; accelerate.  
-__turmeric__ _n_  
-__turnover__ _n_  
-__tussock__ _n_ A clump or tuft, as of growing grass. _Syn_ tuft  
-__Tyrian purple__ _n_  
-__ulnar__ _adj_  
-__ultramarine__ _adj, n_  
-__umbrella__ _n_ /ʌmˈbrɛlə/ _A national umbrella organization._  
-__undoing__ _n_  
-__uneven__ _adj_ __2__ Not consistent or uniform: _an uneven color._  
-__unfathomable__ _adj_  
-__unfettered__ _adj_ /un-FET-erd/  
-__unfold__ _v_  
-__uproar__ _n_  
-__uptake__  
-__urge__ _v_  
-__vagrant__ _n_ One who wanders from place to place without a permanent home or a means of livelihood. _Syn_ drifter, vagabond, floater  
-__verdict__ _n_ /ˈvɜr dɪkt/  
-__veto<sup>1</sup>__ _n_  
-__veto<sup>2</sup>__ _vt_  
-__vitiligo__ _n_ Partial or total loss of skin pigmentation, often occurring in patches. _Syn_ leucoderma  
-__vivacious__ _adj_ :mega: /vuh-VAY-shus/ Someone or something described as vivacious is happy and lively in an appealing way.  
-__wacko__ _n_ _slang_ A person regarded as eccentric or irrational.  
-__washer__ _n_ :two: __2__ (Mechanical Engineering) A flat ring or drilled disc of metal used under the head of a bolt or nut to spread the load when tightened.  
-__watchtower__ _n_ :pencil2:  
-__wrench__ _v_ _Pulling the plug was wrenching._  
 __wrenching__ _adj_ Causing great physical or mental suffering. _ABC News went through a wrenching round of layoffs._  
 __wriggle__ _v_  
 __wring__ _v_ _It pays to wring your hands at least a little bit._  

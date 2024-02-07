@@ -19433,7 +19433,7 @@ __turgid__ _adj_ :four: Excessively ornate or complex in style or language. _Syn
 __Turkey day__  
 __turkey drumstick__ _n_  
 __turkey trot__ _n_ _(Dancing)_ An early ragtime one-step, popular in the period of World War I.  
-__turmeric__ _n_ :three::hammer: :es: cúrcuma  
+__turmeric__ _n_ :four::hammer: :es: cúrcuma  
 __turmoil__  
 __turn a profit__  
 __turn on__ _phr v_  
@@ -19450,7 +19450,7 @@ __turnkey<sup>1</sup>__ _n_ :two: /TUHRN-kee/ One in charge of the keys in a pri
 __turnkey<sup>2</sup>__ _adj_ :six: Relating to a product or service that is supplied ready for immediate use. _Turnkey property._ _Turnkey solutions._  
 __turnoff__ _n_ One that causes loss of interest or enthusiasm. _The music was a turnoff._  
 __turnout__ _n_ :three::hammer: _The turnout rate._  
-__turnover__ _n_ :five: __1__ The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield _The small retailers made more than 50 percent of their turnover from selling cigarettes._ :es: facturación, volumen de ventas __2__ _football_ In American football, the two events that are officially classified as “turnovers” are fumbles (accidental physical loss of a live ball a player has possession of) or interceptions (passes intended for a member of the passing team, but caught by a member of the opposing team).  
+__turnover__ _n_ :six: __1__ The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield _The small retailers made more than 50 percent of their turnover from selling cigarettes._ :es: facturación, volumen de ventas __2__ _football_ In American football, the two events that are officially classified as “turnovers” are fumbles (accidental physical loss of a live ball a player has possession of) or interceptions (passes intended for a member of the passing team, but caught by a member of the opposing team).  
 __turnpike__  
 __turnround__  
 __turnsole__ _n_ :pencil2:  
@@ -19468,6 +19468,7 @@ __tussle__ _n_ :five::hammer: (tussles) _A trade tussle._ _Tusless with German l
 __tussle<sup>1</sup>__ _n_ :two: (tussles) A rough or vigorous struggle; a scuffle.  
 __tussle<sup>2</sup>__ _vi_ :six: (tussled, tussling) To struggle roughly; scuffle.  
 __tussling__ _v_  
+__tussock__ _n_ A clump or tuft, as of growing grass. _Syn_ tuft  
 __tut__ _v_ (tutted)  
 __tut-tutting__  
 __tutelage__ _n_ :two::hammer:  
@@ -19524,6 +19525,7 @@ __typify__ _v_ (typifies)
 __tyrannize__ _v_ :pencil2: _Most of them are woefully unproductive, and tyrannize our offices._  
 __tyranny__ _n_ :two::pencil2::mega:  
 __tyrant__ _n_ :four::hammer: /ˈtaɪ rənt/  
+__Tyrian purple__ _n_  
 __tyro__ _n_ :two: (tiro) A beginner in learning something. _Syn_ beginner, initiate, tiro, novice  
 __U-boat__ _n_  
 __UA-ed__ _v_ :two::hammer:  
@@ -19533,17 +19535,19 @@ __ubiquitous__ _adj_ :six::pencil2: /yoo-bik-wi-tuhs/ /yoo-BIK-wuh-tuss/ Being o
 __ubuntu__ _n_ A quality made up of sympathy, kindness, and respect toward other people, that is considered to be a part of the African way of life.  
 __ugg boots__ _n_ Boots made of sheepskin with the wool as the lining and the leather as the outside.  
 __ukulele__ _n_ :three::pencil2::hammer: (ukelele)  
+__ulnar__ _adj_  
 __ulterior__ _adj_  
 __ultimately__  
 __ultimatum__ _n_ :mega:  
 __ultra-processed food__ _n_ The term usually refers to food with ingredients we wouldn’t use at home, such as colorings, flavors, emulsifiers, sweeteners, and preservatives. Food has been significantly changed from its original state, with salt, sugar, fat, additives, preservatives and/or artificial colors added. Examples of these foods are frozen meals, soft drinks, hot dogs and cold cuts, fast food, packaged cookies, cakes, and salty snacks.  
-__ultramarine__ _n_ :astonished: A blue pigment made from powdered lapis lazuli; a vivid or strong blue to purplish blue. _Syn_ indigo, French blue _She found a piece of fabric dyed ultramarine, which would make a perfect sash for the light blue dress she was making._  
+__ultramarine<sup>1</sup>__ _adj_  
+__ultramarine<sup>2</sup>__ _n_ :astonished::two: A blue pigment made from powdered lapis lazuli; a vivid or strong blue to purplish blue. _Syn_ indigo, French blue _She found a piece of fabric dyed ultramarine, which would make a perfect sash for the light blue dress she was making._  
 __ululate__ _v_ :two: Emit long loud cries. _Syn_ howl, wail, yaup, yawl, roar  
 __ululations__  
 __um__  
 __umami__ _n_ One of the five basic tastes (along with the tastes sweet, sour, salty, and bitter), the savory taste of foods such as seaweed, cured fish, aged cheeses and meats.  
 __umbrage__ _n_ :five: /UM-brij/ Umbrage is a formal word that usually refers to a feeling of being offended by what someone has said or done. It is often used in the phrase “take umbrage.” A feeling of anger caused by being offended. _Syn_ offense _I had tried to phrase it politely, but he still took umbrage at my question._ _It can be difficult to converse with someone who is ready to take umbrage at the most innocent remarks._  
-__umbrella__ _n_ :two::hammer: /ʌmˈbrɛl ə/ [:scroll: Etymologically, it is a “little shadow.”] _Under his umbrella._  
+__umbrella__ _n_ :three::hammer: /ʌmˈbrɛl ə/ [:scroll: Etymologically, it is a “little shadow.”] _Under his umbrella._ _A national umbrella organization._  
 __umpteen__ _adj, n_ :two::hammer:  
 __umpteenth__ _adj_ :three::dart: Last in an indefinitely numerous series. _Syn_ umptieth, umteenth  
 __un-American__  
@@ -19633,7 +19637,7 @@ __undies__
 __undimpled__  
 __undisturbed__ _v_  
 __undog__ _v_ To loose from a fastening dog or catch. _Sailors undogged hatches._  
-__undoing__ _n_ :two::hammer: /ʌnˈdu ɪŋ/  
+__undoing__ _n_ :three::hammer: /ʌnˈdu ɪŋ/  
 __undoubtedly__  
 __undue__  
 __undulant__ _adj_ /ˈʌndjʊlənt/ Resembling waves in occurrence, appearance, or motion.  
@@ -19649,17 +19653,17 @@ __unequivocal__ _adj_ :two: /ˌʌnɪˈkwɪvəkəl/ Admitting of no doubt or misu
 __unequivocally__  
 __unerring__ _adj_  
 __unethically__ _adv_ _He had acted unethically and for that I could never trust him as editor._  
-__uneven__  
+__uneven__ _adj_ :two: __2__ Not consistent or uniform: _an uneven color._  
 __uneventful__ _adj_ :two: /ˌʌnɪˈvɛntfʊl/ Ordinary, routine, or quiet. Lacking in important or interesting occurrences; routine: _an uneventful day._  
 __unfailing__ _adj_ _Unfailing support._  
-__unfathomable__ _adj_ :four: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
+__unfathomable__ _adj_ :five: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
 __unfazed__ _adj_ :nine::m:: /ʌnˈfeɪzd/ Not disconcerted; unperturbed. _Her criticism left him quite unfazed._ :es: Sus críticas le dejaban tan pancho. _She was completely unfazed by the extraordinary events._ _They are unfazed by all fof this._ :es: Se quedó como si nada ante unos sucesos tan extraordinarios.  
 __unfeasible__ _adj_ _Syn_ infeasible  
-__unfettered__ _adj_ :nine::m: /ʌnˈfɛtəd/ Not kept under retraint; uninhibited. _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
+__unfettered__ _adj_ :nine::m: /ʌnˈfɛtəd/ /un-FET-erd/ Not kept under retraint; uninhibited. _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
 __unflagging__ _adj_ :two::hammer:  
 __unflappable__ _adj_ :seven::hammer: _Jim was unflappable._ _Unflappable team._  
 __unflinching__ _adj_ :three: Showing neither fear nor indecision; resolute. _Syn_ unintimidated, unshrinking, unblinking  
-__unfold__ _v_ :seven::hammer: _Mysteries unfold._  
+__unfold__ _v_ :eight::hammer: _Mysteries unfold._  
 __unforeseen__ _adj_ _Unforeseen difficulties._  
 __unforgiving__ _adj_  
 __unfrock__ _v_ To deprive of ecclesiastical rank, authority, and function; depose: _an unfrocked priest._  
@@ -19805,7 +19809,7 @@ __upright bass__ _n_
 __upright piano__ _n_  
 __upright__ _n_ _The 34 yard field goal hit the left upright._  
 __uprising__ _n_  
-__uproar__ _n_ :two::hammer:  
+__uproar__ _n_ :three::hammer:  
 __uproarious__ _adj_ Marked by or causing boisterous merriment or convulsive laughter. _Syn_ hilarious, screaming _My brother spent the evening regaling us with uproarious tales of the pranks he and his bunkmates used to play on the other campers._  
 __uproot__ _v_ :four::hammer: (uprooted) _Uprooted workers._  
 __uprparious__ _adj_ _An uproarious fracas._  
@@ -19830,7 +19834,7 @@ __upstart__ _n_ :five::hammer: (upstarts) _The digital upstarts are shifting foc
 __upstate__  
 __upstream__  
 __upswing__ _n_ :five: __1__ An upward swing or trend. __2__ An increase, as in movement or business activity.  
-__uptake__ _n_ :seven::hammer: _Other applications have had limited uptake._ __4__ The act of accepting or taking up something on offer or available.  
+__uptake__ _n_ :eight::hammer: _Other applications have had limited uptake._ __4__ The act of accepting or taking up something on offer or available.  
 __uptalk__ _v_  
 __uptick__ _n_ :nine::m: __1__ A rise or improvement, esp. in business. __2__ A slight rise or rising trend in the stock market.  
 __uptight__ _adj_ :two::dart::hammer:  
@@ -19843,7 +19847,7 @@ __urbane__ _adj_ :three: Showing a high degree of refinement and the assurance t
 __urbanite__ _n_ :two::hammer:  
 __urchin__ _n_ _An underprivileged urchin._  
 __urge on__ _phr v_ :two: To encourage.  
-__urge__ _v_ __2__ _(tr; may take a clause as object)_ To advocate or recommend earnestly and persistently; plead or insist on: _to urge the need for safety._  
+__urge__ _v_ :two: __2__ _(tr; may take a clause as object)_ To advocate or recommend earnestly and persistently; plead or insist on: _to urge the need for safety._  
 __urinal__ _n_ __1__ A fixture, typically one attached upright to a wall, used by men for urinating. __2__ A portable receptacle for urine.  
 __urination trough__ _n_  
 __use case__ _n_  
@@ -19886,7 +19890,7 @@ __vacuous__ _adj_ :two: Devoid of intelligence. _Syn_ asinine, fatuous, inane, m
 __vacuum__ _n_ :four::pencil2::hammer: _Upright/Canister vacuum._ __4__ A vacuum cleaner. :camera:  
 __vagabond__ _n_  
 __vagary__ _n_ :seven: /VAY-guh-ree/ (vagaries) The word vagary, usually used in its plural form, refers to a change that is difficult to predict or control. _The vagaries of fashion make it difficult to predict what styles will be popular a year or two from now._ _The vagaries of economics._ _The vagaries of nature._  
-__vagrant<sup>1</sup>__ _n_ :seven: (vagrants) __1__ A person who wanders about idly and has no permanent home or employment; vagabond. __2__ _Law_ An idle person without visible means of support, as a tramp or beggar. __3__ A person who wanders from place to place; wanderer; rover.  
+__vagrant<sup>1</sup>__ _n_ :eight: __1__ A person who wanders about idly and has no permanent home or employment; vagabond. One who wanders from place to place without a permanent home or a means of livelihood. _Syn_ drifter, vagabond, floater __2__ _Law_ An idle person without visible means of support, as a tramp or beggar. __3__ A person who wanders from place to place; wanderer; rover.  
 __vagrant<sup>2</sup>__ _adj_ :two::hammer:  
 __vague__ _adj_ :mute:[vag~~u~~e]  
 __vagus__ _n_ :two::mega: (vagus nerve) Either of the tenth pair of cranial nerves, composed of long sensory and motor neurons that innervate the body from the throat to the abdominal viscera and that function in speech, swallowing, breathing, heart rate, and digestion.  
@@ -20004,7 +20008,7 @@ __verbiage__ _n_ :three::hammer: _Ornamental verbiage._
 __verbicide__ _n_ :two::astonished: _facetious_ An act or instance of destroying a word. Misuse or overuse of a word or any use of a word which is damaging to it.  
 __verboten__ _adj_ Not allowed.  
 __verdant__ _adj_ :three: /VER-dunt/ __1__ Green in tint or color. __2__ Green with growing plants. _The golf course is noted for its tricky hazards and lush, verdant borders along its fairways._ _Verdant hills._ __3__ Unripe in experience or judgment.  
-__verdict__ _n_ :seven::hammer::pencil2:  
+__verdict__ _n_ :eight::hammer::pencil2: /ˈvɜr dɪkt/  
 __verdigris__ _n_ :two::astonished: /VER-duh-greess/ __2__ A green patina or crust of copper sulfate or copper chloride formed on copper, brass, and bronze exposed to air or seawater for long periods of time. “Green of Greece” is the literal translation of “vert de Grece,” the Anglo-French phrase from which the modern word _verdigris_ descends. _We removed the verdigris from Grandma’s old copper jewelry by first soaking it in lemon juice, then gently polishing it with a soft rag._  
 __verge__ _n_ :two::hammer:  
 __vergence__ _n_ __2__ The inward or outward turning of one or both eyes that occurs when focusing on an object.  
@@ -20041,7 +20045,8 @@ __vesting__ _n_ The granting to an employee of the right to pension benefits des
 __vet<sup>1</sup>__ _vt_ :five::astonished: (vetted, vetting) __1__ To subject to veterinary evaluation, examination, medication, or surgery. __2__ :dart: To appraise, verify, or check for accuracy, authenticity, etc. To subject to thorough examination or evaluation: _An expert vetted the manuscript before publication._  
 __vet<sup>2</sup>__ _vi_ To work as a veterinarian.  
 __Veterans Day__ _n_ While “Veterans’ Day” does encompass multiple veterans, that spelling is incorrect according to the Department of Veterans Affairs. In the name of the holiday, the word veterans acts as an _attributive noun_, which means that it behaves like an adjective even though it is a noun. We use attributive nouns all the time without realizing it. For example, if you said “Last week, I went to the Cowboys game,” it is not grammatically imperative to include an apostrophe at the end of Cowboys, because Cowboys acts as an attributive noun.  
-__veto__ _vt_ :two::hammer:  
+__veto<sup>1</sup>__ _n_  
+__veto<sup>2</sup>__ _vt_ :three::hammer:  
 __vex__ _v_ :three::hammer: (vexed)  
 __vexatious__ _adj_ :two: Causing irritation or annoyance. Causing or creating vexation; annoying: _vexatious delays._ _Syn_ annoying, bothersome, galling, irritating, nettlesome, pesky, pestering, plaguey, teasing, pestiferous  
 __vexillology__ _n_ The study of flags.  
@@ -20107,14 +20112,14 @@ __vista__ _n_ :three::hammer: (vistas)
 __vital__ _adj_  
 __vitiate__ _v_ :two: To corrupt morally; debase. _Syn_ debauch, deprave, pervert _Ten minutes with these ruffians would vitiate the most honorable gentlemen._ _It vitiated the siege._  
 __viticulture__ _n_  
-__vitiligo__ _n_ An acquired skin disease characterized by patches of unpigmented skin (often surrounded by a heavily pigmented border).  
+__vitiligo__ _n_ :two: An acquired skin disease characterized by patches of unpigmented skin (often surrounded by a heavily pigmented border). _Syn_ leucoderma  
 __vitreous__ _adj_ Of, relating to, resembling, or having the nature of glass. _Syn_ glassy _The lake was so calm it looked vitreous in the pre-dawn light._  
 __vitriol__ _n_ :seven: /ˈvɪtrɪəl/ Bitter criticism or malice. Abusive or venomous language used to express blame or censure or bitter deep-seated ill will. _Syn_ invective, vituperation _At first, she patiently listened to him vent his frustration, but when he began to spout vitriol, she told him she had to leave._ _Chávez’s anti-American vitriol heightened during the presidency of George W. Bush._  
 __vitriolic__ _adj_ :three: Bitterly scathing; caustic. _Syn_ acid, blistering, venomous, acrid, acerbic, bitter, virulent _The critic showed no mercy in writing the most vitriolic review of her career._  
 __vituperate__ _v_  
 __vituperation__ _n_ :four: Abusive or venomous language used to express blame or censure or bitter, deep-seated ill will. _Syn_ invective, vitriol, denunciation, abuse, insults  
 __vituperative__  
-__vivacious__ _adj_ Full of animation and spirit; lively: _a charming and vivacious host._  
+__vivacious__ _adj_ :two::mega: /vuh-VAY-shus/ Someone or something described as vivacious is happy and lively in an appealing way: _a charming and vivacious host._  
 __vivacity__ _n_  
 __vivarium__ _n_ A place, such as an enclosure or facility, used for keeping living animals for observation or research.  
 __vivid__ _adj_  
@@ -20162,7 +20167,7 @@ __vulnerary<sup>1</sup>__ _n_ :astonished: From Latin vulnus (wound) + -ary (rel
 __vulnerary<sup>2</sup>__ _adj_ :astonished: Useful in healing of wounds.  
 __vulpine__ _adj_ /VUL-pine/  
 __vying__ _v_ :seven: Present participle of vie.  
-__wacko<sup>1</sup>__ _n_ :two: Crazy person, lunatic.  
+__wacko<sup>1</sup>__ _n_ _slang_ :three: Crazy person, lunatic. A person regarded as eccentric or irrational.  
 __wacko<sup>2</sup>__ _adj_  
 __wad__ _n_  
 __wad<sup>1</sup>__ _v_ :seven::hammer: (wadded, wadding) _He wadded up the towel._  
@@ -20274,6 +20279,7 @@ __wash up__ _phr v_ :two: To wash your hands and face.
 __wash__ _n_ _At the specialty box office, _By the Sea_ was a wash._  
 __washed-out__ _adj_ Having lost freshness or brilliance of color. _Syn_ leached, faded  
 __washed-up__ _adj_ If a person or an organization is washed-up, they will never be successful again. _A washed-up player._  
+__washer__ _n_ :two: __2__ (Mechanical Engineering) A flat ring or drilled disc of metal used under the head of a bolt or nut to spread the load when tightened.  
 __washing line__ _n_  
 __Washingtonians__  
 __washroom__ _n_  
@@ -20290,6 +20296,7 @@ __wastewater__ _n_ :pencil2:
 __wastrel__ _n_ :three: One who wastes, especially one who wastes money; an idler or a loafer. _Syn_ prodigal, profligate _Despite his parents’ best efforts to teach him responsibility, Sam grew up to be a wastrel who squandered his entire fortune._  
 __watch caps__  
 __watchdog__ _n_ :three: __1__ A dog kept to guard property. __2a__ A person or group of persons that acts as a protector or guardian against inefficiency, illegal practices, etc. _A safety watchdog._ _Privacy watchdogs are calling on the Federal Trade Commission to investigate._ __b__ (as modifier): _a watchdog committee._  
+__watchtower__ _n_ :pencil2:  
 __watchword__ _n_ :six: A slogan used to rally support for a cause. _Syn_ cry _“Fight and fall, but fly not,” that was our watchword._ _“Quick and dirty” was the watchword._  
 __water buffalo__  
 __water closet__  
@@ -20807,7 +20814,7 @@ __wreathe__ _v_ To encircle or adorn, as with a wreath; to envelop: _Her head wa
 __wreck<sup>1</sup>__ _n_  
 __wreck<sup>2</sup>__ _v_ :four::mute:[~~w~~reck]:hammer:  
 __wrecking ball__  
-__wrench<sup>1</sup>__ _v_ :two::hammer: (wrenched) _My mother reached up and wrenched my ear._ _Kristof had a wrenched thumb from the fight._  
+__wrench<sup>1</sup>__ _v_ :three::hammer: (wrenched) _My mother reached up and wrenched my ear._ _Kristof had a wrenched thumb from the fight._ _Pulling the plug was wrenching._  
 __wrench<sup>2</sup>__ _n_ (monkey wrench)  
 __wrenching__ _adj_ _A wrenching prospect._  
 __wrestle with__ _phr v_ To try hard to find the solution to a difficult problem.  
