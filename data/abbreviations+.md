@@ -111,7 +111,7 @@ __IRL__ :two: In real life.
 __IRS__ _n_ :five: _Internal Revenue Service_  
 __ISV__ Independent software vendor.  
 __IUD__  
-__IVF__ :two: In vitro fertilization.  
+__IVF__ :three: In vitro fertilization.  
 __K9__ _gramo_ :two: (K-9) Canine. _A K-9 van._  
 __KOL__ Key opinion leader.  
 __KPI__ Key performance indicator.  
