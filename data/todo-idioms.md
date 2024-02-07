@@ -1,4 +1,5 @@
 __(every) once in a while__ Occasionally; sometimes.  
+__(goodbye) until next time__ A casual valediction to someone whom one will see again at some later point.  
 __a dime a dozen__ Ubiquitous; so abundant or common as to hold little or no value.  
 __a pain in the ass__  
 __all over the place__ :two: __1__ _n_ Everywhere; over a great distance or area. _Now that we’ve graduated, my college friends are all over that place, and I hardly ever see them._ __2__ _adj_ Very scattered or disorganized; ill-conceived. _Boy, that presentation was all over the place. It’s like they wrote it five minutes before taking the stage!_  
@@ -10,11 +11,18 @@ __battle something out__
 __be a wash__ To have gains and losses that are considered to be equal or offset; to have an outcome of negligible advantage or disadvantage. _The product sold moderately well, but we spent so much on development and marketing that it ended up being a wash._  
 __be keen about (someone or something)__  
 __be the butt of the joke__  
+__bet the farm__ To risk everything on a venture that one thinks will be successful. Primarily heard in US. _I wouldn’t bet the farm on that wacky invention._  
+__cold, hard cash__ Dollar bills and coins, as opposed to checks or credit. _The deal won’t go through unless we pay him in cold, hard cash._  
 __collude with (someone or something)__  
+__come a long way__ To make significant progress. Almost always used in the present perfect tense (“have/has come a long way”).  
+__correct me if I’m wrong__ Used to introduce a piece of information one believes is true, especially as a means of correcting someone else.  
 __cosleep__ Of a parent, to sleep in the same bed or room as one or more of their small or infant children. _We’re going to try cosleeping once the baby is born._ _Co-sleeping was a factor in quarter of Scotland’s infant deaths in 2023._  
 __cut someone or something out__  
+__dark cloud__  
 __day in and day out__  
+__dealio__ _slang_ Alternative form of _dillio._ The deal; that which is current, relevant, or taking place. _What’s the dealio?_  
 __died in their sleep__ When someone is said to have “died in their sleep,” it typically means that they passed away during the night while they were asleep. This phrase is often used when the cause of death is unclear or when the family wishes to maintain privacy.  
+__dillio__ _slang_ [:scroll: From the slang phrase “what’s the deal, yo?” meaning “what’s going on?” Originates from _Lethal Weapon 2_: “what’s the deal Leo?” (South African accent) 1989] The deal; that which is current, relevant, or taking place.  
 __dislodge (someone or something) from (someone or something)__ To free someone or something that is stuck.  
 __do something/anything about__ To take some action to change or cope with something.  
 __double down__  
@@ -30,6 +38,8 @@ __failure is not an option__
 __far and wide__  
 __fast track__  
 __faux pas__  
+__feel (some emotion) about (someone or something)__ To feel a particular emotion in response to or about someone or something.  
+__feel-good__ Creating, promoting, or relating to an often superficial or specious sense of happiness, well-being, or satisfaction.  
 __ferret out__ To discover or retrieve something, usually with careful effort. A noun or pronoun can be used between “ferret” and “out.” _Now that I’m a successful actress, I’m worried about what the media will ferret out about my tawdry past._  
 __fill up__  
 __finagle__  
@@ -48,6 +58,10 @@ __freak out__
 __friendly reminder__ “Friendly reminder” is an idiomatic expression that means “a gentle reminder” or “a polite reminder.” It’s a way of reminding someone about something in a non-confrontational or friendly way.  
 __fuss about__  
 __game-changer__  
+__get wind of (something)__  
+__give and take__  
+__give credit where credit is due__  
+__go on a spree__  
 __gully washer__ An extremely heavy rainstorm that usually lasts a short amount of time.  
 __gut-wrenching__ Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one’s feelings. _What a gut-wrenching loss for the young athlete, who poured her heart and soul into this match._  
 __gyatt__ A slang exclamation of surprise or excitement. Gyatt is most commonly used as an exclamation in reaction to seeing a large butt (that is, the buttocks) and may be used as a noun to mean a large butt.  
@@ -60,10 +74,12 @@ __have (one’s) plate full__
 __have (something) to do__ To have some task or action that one must complete or undertake.  
 __have a go (at someone or something)__  
 __heavy-footed__ Clumsy, ponderous, or lumbering in gait or tread. _The team’s star striker deftly navigated the ball past the heavy-footed defenseman._  
+__honeymoon phase__ The short amount of time at the beginning of a new relationship, activity, or pursuit when everything goes well and seems to be free of problems.  
 __in no time (at all)__  
 __in other news__  
 __in short supply__ Scarce.  
 __in the interim__ In the time before something happens; in the meantime.  
+__in the short run__  
 __in the zone__  
 __in vain__  
 __in/within living memory__ In a recent enough time as to be remembered by people who are alive today. (Usually used in negative statements.) _There hasn’t been a blizzard like this in living memory!_ _The worst heart care crisis in living memory._  
@@ -73,6 +89,9 @@ __jaw-dropping__ :two::hammer:
 __keep rolling__ The idiom “keep rolling” means to continue doing something with energy and momentum, similar to how a ball keeps rolling after it’s set in motion.  
 __kicking__ __3__ _slang_ Still alive and active, especially despite old age.  
 __lash out__ :dart: __2__ To react with sudden, intense anger.  
+__lead the pack__  
+__lose to (someone or something)__ To be defeated by someone or something. What was lost can be stated between “lose” and “to.” _Samsung takes a big bet on AI after losing top spot to Apple._  
+__put (someone or something) to the test__  
 __six ways to Sunday__ _adj_ Askew, at an angle.  
 __skate__  
 __skeevy__ :two: Offensively or unscrupulously repellant, repugnant, or disreputable.  
@@ -83,6 +102,7 @@ __skin flute__ _vulgar, slang_ A penis.
 __skip off__ To leave or depart hastily so as to avoid something or escape with something.  
 __sky-high__  
 __skyhook__  
+__slack off on (something)__ __2__ To be or become lazy or unproductive in relation to some task or activity.  
 __slam dunk__  
 __slated for__  
 __slip through the cracks__  
@@ -108,6 +128,7 @@ __spell out__
 __spill over__  
 __spill the beans__  
 __stand by someone__  
+__stat__ __2__ Right away; without delay. A shortening of the Latin term “statim,” used especially in medicine (or as a parody of such usage). _I’m losing the patient. I need 10 CCs of epinephrine, stat!_ _Uh oh, I’m starting to feel sober. I need a pint and a shot of whiskey, stat!_  
 __stay put__  
 __stay tuned__  
 __step aside__ :dart:  
@@ -125,14 +146,17 @@ __studette__ The female version of a stud. A girl that can get any guy she wants
 __sweep down on (someone or something)__  
 __take a step back__  
 __take the stage__  
+__taken aback__ Startled, astonished, shocked, or disconcerted.  
 __talk (one’s) ear(s) off__ To talk so much as to cause one to be exhausted or bored.  
 __the bitter end__  
 __the latest__ _What’s the latest?_  
 __the straw that broke the camel’s back__ :two: A seemingly small or inconsequential issue, problem, or burden that proved to be the final catalyst in causing an overworked or overburdened person, system, organization, etc., to fail, give up, or collapse.  
 __touch down__  
+__victory lap__ An act of pride or celebration that follows a great achievement or success.  
 __wake-up call__  
 __water down__ :two::hammer:  
 __whipe your hair__ When you “whip your hair,” you’re moving your head and hair in a fast and forceful motion. The phrase is meant to evoke a sense of power and confidence.  
+__wink wink (nudge nudge)__ A phrase spoken after a statement which emphasizes or points out a euphemistic underlying meaning or innuendo.  
 __with a bang__ :three::hammer:  
 __with a heavy hand__ __1__ In an excessive, authoritarian, or oppressive way or manner. _The police dispersed the protesters with a heavy hand._  
 __with a vengeance__ _Die Hard with a Vengeance._  
@@ -147,6 +171,7 @@ __yen__ A desire. Often used in the phrase “have a yen for (someone/something)
 __yippee-ki-yay__ :two::hammer:  
 __you name it__  
 __your thoughts__ :three: A way to invite someone to share their opinion or perspective in a conversation.  
+__yup__ :dart: _informal_ A variant of “yes,” possibly based on or influenced by the similar word “nope” (meaning “no.”) _Yup, I’d say so._  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
 __zero in__  
 __zig when (one) should zag__  
