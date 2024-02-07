@@ -4775,15 +4775,21 @@ __sixty-four-dollar question__
 __skeletons in the cupboard__  
 __skid mark__ _slang_ :two: (skid marks) A mark or streak of feces on the inside of one’s underpants.  
 __skim through (something)__  
+__skin flute__ _vulgar, slang_ A penis.  
 __skinny-dipping__  
 __skip a beat__ :two::hammer: _His heart skipped a beat._  
+__skip off__ To leave or depart hastily so as to avoid something or escape with something.  
 __skip town__  
 __skullduggery__ An act or instance of deceitful, duplicitous, or dishonorably trickery.  
+__sky-high__  
+__skyhook__  
+__slack off on (something)__ __2__ To be or become lazy or unproductive in relation to some task or activity.  
 __slackjawed__ _He had gone slackjawed when Jack topd him the news._  
 __slam (someone or something)__ :two::hammer:  
+__slam dunk__  
 __slap (one) around__ To physically assault someone, especially as a means of control or intimidation. _Our dad wasn’t afraid to slap us around a bit when we got out of line as kids._  
 __slap (one) on the wrist__ :two: To issue one with a very mild, inconsequential punishment or warning.  
-__slated for__ Scheduled or organized to happen or take place.  
+__slated for__ :two: Scheduled or organized to happen or take place.  
 __slave away__ :dart: To work strenuously and continuously (doing something). _I refuse to slave away for minimum wage._  
 __slay__ To succeed at something in a particularly impressive or dominant way. _She’s definitely getting the promotion after she slayed that presentation for the CEO._ _I absolutely slayed the interview; at one point, I even laid flat out on the couch on live TV!_  
 __sleep in__  
@@ -4795,11 +4801,14 @@ __slice and dice__ :two: To divide something into many small parts especially to
 __slightly built__ Thin and not very strong or muscular. _The slightly built, 27-year-old man._  
 __slimeball__ An offensive, detestable, or repellent person, especially one who does unscrupulous or immoral things. _My last boss was a total slimeball, making all sorts of shady deals to skim a bit of extra profit for herself._  
 __slink off__ :dart: To leave or retreat in a quiet, sneaky, inconspicuous, or furtive manner. _The would-be burglar slunk off after tripping the alarm._  
-__slip up__ :two::hammer: (slip-up)  
+__slip through the cracks__  
+__slip up__ :three::hammer: (slip-up) __1__ :dart: _v_ To blunder; to make a mistake or an error. _I think I slipped up and sent the check to the wrong address._  
 __slippery slope__  
+__slob__  
 __slow burner__  
+__slow down__  
 __slow food__  
-__slowly but surely__ :two: At a slow or incremental pace but making steady, dependable progress.  
+__slowly but surely__ :three: At a slow or incremental pace but making steady, dependable progress.  
 __slush fund__ An ancillary or reserve fund that has been accumulated or set aside for undesignated or unspecified purposes, especially those that are or are viewed as being illicit, corrupt, or morally questionable.  
 __smack (one’s) lips__ :two::hammer:  
 __smack-dab__ Directly; exactly at a particular place. Usually used to emphasize a prepositional phrase of location, especially “in the middle.” _There I was, smack-dab in the middle of Taiwan with no money and no way to contact my family._ _The criminal turned the corner and ran smack-dab into a group of off-duty police officers._  
@@ -4807,12 +4816,14 @@ __small hours__ (wee hours)
 __smart as a whip__ Very intelligent or clever, as in _Little Brian is smart as a whip; he’s only three and already learning to read._ This simile alludes to the sharp crack of a whip.  
 __smarty-pants__ :four::hammer:  
 __smash hit__  
+__smear (one’s) name__ To disparage one publicly, especially to the detriment of one’s reputation.  
 __smell a rat__  
 __smell blood__  
 __smoke like a chimney__ To smoke cigarettes, cigars, pipes, etc., continuously and in large amounts.  
 __smoke__ _v_ :three::astonished: __6__ _slang_ To perform extremely well, especially with a lot of energy or enthusiasm. _The band has been absolutely smoking for the last two hours. People in the club are going crazy for them!_ _They looked a little sluggish in the first half of the game, but the team is positively smoking now._ __13__ (tr) To subject or expose to smoke. _This person smokes me._ __14__ (Cookery) (tr) To cure (meat, fish, cheese, etc) by treating with smoke.  
 __smokescreen__ :pencil2:  
 __smoking gun__ Indisputably incriminating evidence. Likened to a gun that is still smoking after having been fired.  
+__smooch__ /smutʃ/  
 __snafu__  
 __snag__ __4__ _vt_ To procure, grab, or steal something. _See if you can snag a couple of good seats while I get the popcorn._  
 __snake oil__  
@@ -4820,24 +4831,32 @@ __snap out of (something)__ To suddenly recover or be freed from some negative o
 __snap__ _v_ To go crazy.  
 __snatch (someone) from the jaws of death__ To rescue someone at the last moment from near or certain death.  
 __snatch the pebble__ _v_ :dart: To fully grasp the meaning of a concept or developed a skill to a high degree of proficiency, often that rivals some specific expert. _OH from a student: “it’s like the code is in a perpetual state of waiting to be refactored.” You have snatched the pebble from my hand._  
-__sneak peek__ :two: An early preview of something that has yet to be fully revealed or shown prominently.  
+__sneak peek__ :four: An early preview of something that has yet to be fully revealed or shown prominently.  
+__sneak up (on someone or something)__  
 __sneeze at__  
-__sniff out__  
+__sniff out__ :two::hammer:  
+__snookered__ /ˈsnʊkɚd/ _mod_ __1__ Cheated; deceived. _I was snookered skillfully and quickly. It was almost a pleasure._ __2__ _slang_ Drunk.  
 __snoothfest__ _Total snoozefest at Google’s event._  
 __snooty__ Haughtily condescending, dismissive, or snobbish. _I can’t believe that snooty waiter scoffed at you for ordering red wine with fish._  
 __snork__  
 __snotty__ Impertinent, contemptible, or rudely disagreeable. _What a snotty waiter! Well, I won’t be leaving a tip for him, that’s for sure._  
 __snout trout__ A smell similar to fish left on the end of your nose after going down on your female partner. _Marilyn was a snout trout._  
+__snout__ __4__ _slang_ A person’s nose.  
 __snow in__ (snowed in) __2__ To cause someone or something to be unable to leave a building or area due to the snow. Often used in passive constructions. In this usage, a noun or pronoun can be used between “snow” and “in.” _We were snowed in for several days, with only a small cupboard’s worth of food to subsist on._  
+__snow job__ :dart: A form of manipulation that involves lying or flattery to persuade someone. A systematic deception; a deceptive story that tries to hide the truth. _You can generally tell when a student is trying to do a snow job._ _This snow job you call an explanation just won’t do._  
 __snow on the mountain__ Silver, grey, or white hair on one’s head, as due to aging. _Sure, there’s a bit of snow on the mountain, but I still lead as adventurous a life as I ever have!_  
+__snowball__ To grow at an increasing rate. (As a snowball rolling down a hill might increase in size.) _Offers to help with money and prayers began to snowball, and we had to get volunteers to help answer the phones._  
 __snowflake__ _n_ _slang_  
+__snuff (one)__ :two: _slang_ To kill one. _He was planning on going to the police, but the criminals snuffed him before he had the chance._ _Tragically, he was snuffed in his prime by cancer._  
 __snug as a bug__  
 __so be it__ I accept that this is what will happen or be the case. _If you really want to throw your career away because of some idealistic principle, so be it._  
+__so it goes__ :dart: _informal_ That is the kind of thing that happens; that is life. _Too bad about John and his problems. So it goes._ _I just lost a twenty-dollar bill, and I can’t find it anywhere. So it goes._  
 __so much for (someone or something)__ :three: Someone or something is no longer relevant, feasible, or worth consideration. _So much for my happy ending._  
 __so much so that__ :three: To such an extent or large degree that. _The interest rates on the loan were exorbitantly high—so much so that I had to start selling things around the house to meet my monthly payments._  
 __so much so__ :four: To such an extent or great degree (that). _So much so that working with animals has become one of his passions._  
 __so to speak__ :three: A phrase used to indicate that what one has just said is an figurative, metaphorical, or uncommon way of saying something. Similar to the phrases “if you will” and “in a manner of speaking.” _He was a fixer, so to speak—a man who could get things done._  
 __so-and-so__ :dart::three: __1__ Some unnamed or unknown person. _They always have some important so-and-so up on the stage giving a lecture no one cares about._ __2__ A euphemistic address for a despised or despicable person. _The rotten so-and-so stole the company’s pension fund and ran off to the Bahamas with it!_  
+__so-called__  
 __so-so__  
 __soak up__  
 __soak__ _v_  
@@ -4855,6 +4874,7 @@ __soon enough__ No later than needed, soon.
 __sooner rather than later__ :dart:  
 __sorry not sorry__ _slang_ A defiant expression of one’s lack of contrition or regret.  
 __sort it out__ :seven: __2__ _Fig._ To study a problem and figure it out. _I can’t sort this out without some more time. Let’s sort out this mess and settle it once and for all._  
+__sort of__  
 __sort out__ __2__ To understand or resolve a problem or conflict. A noun or pronoun can be used between “sort” and “out.” _I’ve spent nearly an hour on this math problem, but I still can’t sort it out._  
 __sort through (something)__  
 __soul searching__ :four::hammer:  

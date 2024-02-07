@@ -98,31 +98,6 @@ __skeevy__ :two: Offensively or unscrupulously repellant, repugnant, or disreput
 __skeleton in the/(one’s) closet__ An embarrassing or shameful secret.  
 __skibidi__ _slang_ A nonsense word or sound without a specific meaning.  
 __skimp on (something)__  
-__skin flute__ _vulgar, slang_ A penis.  
-__skip off__ To leave or depart hastily so as to avoid something or escape with something.  
-__sky-high__  
-__skyhook__  
-__slack off on (something)__ __2__ To be or become lazy or unproductive in relation to some task or activity.  
-__slam dunk__  
-__slated for__  
-__slip through the cracks__  
-__slip up__ __1__ :dart: _v_ To blunder; to make a mistake or an error. _I think I slipped up and sent the check to the wrong address._  
-__slob__  
-__slow down__  
-__slowly but surely__  
-__smear (one’s) name__ To disparage one publicly, especially to the detriment of one’s reputation.  
-__smooch__ /smutʃ/  
-__sneak peek__ :two::hammer:  
-__sneak up (on someone or something)__  
-__sniff out__  
-__snookered__ /ˈsnʊkɚd/ _mod_ __1__ Cheated; deceived. _I was snookered skillfully and quickly. It was almost a pleasure._ __2__ _slang_ Drunk.  
-__snout__ __4__ _slang_ A person’s nose.  
-__snow job__ :dart: A form of manipulation that involves lying or flattery to persuade someone. a systematic deception; a deceptive story that tries to hide the truth. _You can generally tell when a student is trying to do a snow job._ _This snow job you call an explanation just won’t do._  
-__snowball__ To grow at an increasing rate. (As a snowball rolling down a hill might increase in size.) _Offers to help with money and prayers began to snowball, and we had to get volunteers to help answer the phones._  
-__snuff (one)__ :two: _slang_ To kill one. _He was planning on going to the police, but the criminals snuffed him before he had the chance._ _Tragically, he was snuffed in his prime by cancer._  
-__so it goes__ _informal_ That is the kind of thing that happens; that is life. _Too bad about John and his problems. So it goes._ _I just lost a twenty-dollar bill, and I can’t find it anywhere. So it goes._  
-__so-called__  
-__sort of__  
 __sound asleep__ :two::hammer:  
 __spell out__  
 __spill over__  
