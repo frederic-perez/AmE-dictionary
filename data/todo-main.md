@@ -15,6 +15,7 @@ __aplomb__ _n_ /əˈplɒm, əˈplʌm/
 __archivist__ _n_ /ˈɑr kə vɪst, -kaɪ-/  
 __aspect__ _n_ __5__ A side or surface facing in a particular direction: _the ventral aspect of the body._  
 __assembly__ _n_ :mega: /əˈsɛmblɪ/  
+__attrition__ _n_ /əˈtrɪʃən/  
 __atypia__ _n_  
 __aver__ _vt_ :two::astonished: (averred) To assert formally as a fact. _Syn_ allege, say _For as my conscience does not accuse me, I aver that I am not a criminal._  
 __backdrop__ _n_  
@@ -32,6 +33,7 @@ __blitzkrieg__ _n_
 __blockade__ _n_ /blɒˈkeɪd/  
 __blowback__ _n_  
 __blowtorch__ _n_  
+__bluff__ _v_  
 __boatload__ _n_  
 __bogus__ _adj_ /ˈboʊ gəs/  
 __breach__ _n_ /breach /briːtʃ/  
@@ -48,12 +50,15 @@ __captcha__ _n_ /ˈkæptʃə/
 __cartomancy__ _n_ Fortune-telling by means of playing cards.  
 __cast iron__ _n_ :es: hierro fundido  
 __caucus__ _n_  
+__cluck__ _n_  
 __comfy__ _adj_ /ˈkʌmfɪ/ _informal_ Short for comfortable. _Don’t get too comfy._  
+__conundrum__  
 __de rigueur__ _adj_  
 __December__ _n_ /dɪˈsɛm bər/  
 __decor__ _n_  
 __deep-routed__ _adj_  
 __deliver__ _vt_ __8__ To give forth or produce.  
+__demilitarize__ _vt_  
 __demo__ _v_ _We’ve just demoed Riffusion, an incredible AI song-creation tool!_  
 __demystify__ _vt_  
 __denial__ _n_ _Despite denials, blah blah blah._  
@@ -66,18 +71,22 @@ __dissent__ _n_
 __docile__ _adj_ /DAH-sul/  
 __dormitory__ _n_ __1__ A college or university building containing living quarters for students. _Syn_ dorm, residence hall, student residence, hall  
 __downfall__ _n_  
+__dropout__ _n_  
 __drupe__ _n_  
 __ductal__ _adj_ /ˈdʌktəl/ Relating to a duct or tube-like structure in the body that carries bodily fluids.  
 __Dunning-Kruger effect__ _n_ A hypothetical cognitive bias stating that people with low ability at a task overestimate their ability.  
 __earthly__ _adj_  
+__edge__ _v_  
 __egregious__ _adj_  
 __electric shock__ _n_  
 __Emancipation Proclamation__  
 __embolden__ _vt_  
 __emote__ _v_ /ih-MOHT/ To emote is to express emotion in a very dramatic or obvious way. _He stood on the stage, emoting and gesturing wildly._  
+__empty talk__ _n_  
 __enact__  
 __entertain__ _vt_ __3a__ To consider; contemplate: _entertain an idea._  
 __epicure__ _n_ /EP-i-kyoor/ [:scroll: After the ancient Greek philosopher Epicurus (341-270 BCE), who advocated simple pleasures and a calm mind (ataraxia). With time, his teachings were distorted as focusing on sensual pleasures.] __1__ A person with refined taste, especially in food or wine. __2__ A person devoted to sensual pleasure.  
+__epilepsy__ _n_ /ˈɛpɪˌlɛpsɪ/ /ˈɛp əˌlɛp si/  
 __epiphany__ _n_ /ɪˈpɪfənɪ/  
 __equate__ _v_ /ɪˈkweɪt/  
 __ethos__ _n_  
@@ -91,6 +100,7 @@ __explicit__ _adj_ __3b__ Describing or portraying nudity or sexual activity in 
 __extravagance__ _n_  
 __eye-watering__ _adj_  
 __fallow land__ _n_  
+__fatal__ _adj_ /ˈfeɪtəl/  
 __fiddle__ _v_  
 __figurehead__ _n_ :two: __1__ A person nominally having a prominent position, but no real authority.  
 __firestorm__ _n_  
@@ -99,6 +109,8 @@ __forestry__ _n_
 __fraudster__ _n_ /ˈfrɔːdstə/ A swindler.  
 __gaffe__  
 __garland__ _n_  
+__generic name__ _n_  
+__gibe__ _n, v_ (jibe)  
 __gratuitous__ _adj_ /gruh-TOO-uh-tuss/  
 __hatred__ _n_ :dart:  
 __head office__ _n_ :es: sede central  
@@ -116,12 +128,15 @@ __lynch__ _vt_
 __Machiavellianism__ _n_ /mak-ee-uh-VEL-ee-uh-niz-uhm/ The use of unscrupulous means, cunning, and deceit in pursuit of power, especially in politics.  
 __malaria__ _n_ /məˈlɛər i ə/  
 __manhunt__ _n_ An organized search, usually by police, for a wanted man or fugitive.  
+__manure__ _n_ __1__ The dung of livestock or poultry.  
 __market cap__ _n_ :two: (market capitalization) An estimation of the value of a business that is obtained by multiplying the number of shares outstanding by the current price of a share.  
+__military__ _adj, n_ /ˈmɪlɪtərɪ; -trɪ/  
 __minstrel__ _n_  
 __monarch__ _n_ :mega: /ˈmɒn ərk, -ɑrk/  
 __motorway__ _n_  
 __mount__ _v_  
 __mugging__ _n_ An assault upon a person especially with the intent to rob.  
+__naive__  
 __ne plus ultra__ _n_ /nay-plus-UL-truh/ Ne plus ultra refers to the highest point of development or success that something may achieve; it is a synonym of acme. _The company’s latest electric car is being hailed as the ne plus ultra of automotive achievement._  
 __nebula__ _n_ /ˈnɛb yə lə/  
 __omen__  
@@ -137,12 +152,14 @@ __pareidolia__ _n_ The perception of a recognizable image or meaningful pattern 
 __penny candy__ _n_ Inexpensive candy originally costing a penny apiece.  
 __pergola__ _n_ An arbor or a passageway of columns supporting a roof of trelliswork on which climbing plants are trained to grow. _Syn_ arbor, bower  
 __pleb__ _n_ /plɛb/  
+__plunge__ _v_ /plʌndʒ/  
 __poised__ _adj_ /pɔɪzd/  
 __prescient__ _adj_  
 __price__ _vt_ __1__ To fix or establish a price for: _shoes that are priced at sixty dollars._  
 __prognosticate__ _v_ /prahg-NAHSS-tuh-kayt/  
 __prominent__ _adj_ __3__ Widely known; eminent: _a prominent poet._  
 __prospect__ _n_ :mega: /ˈprɒs pɛkt/  
+__psychedelic__ _adj, n_  
 __quadriplegia__ _n_ Complete paralysis of the body from the neck down. Also called _tetraplegia._  
 __quell__ _vt_ /kwɛl/  
 __quixotic__ _adj_ Caught up in the romance of noble deeds and the pursuit of unreachable goals; idealistic without regard to practicality. _Syn_ wild-eyed, romantic  
@@ -153,6 +170,7 @@ __raspberry__ _n_
 __readout__ _n_  
 __refractory__ _adj_ Obstinately resistant to authority or control. _Syn_ fractious, recalcitrant  
 __reitetate__  
+__relinquish__ _v_ /rɪˈlɪŋ kwɪʃ/  
 __remark__ _n_ /rɪˈmɑrk/  
 __respondent__ _n_ /rɪˈspɒn dənt/  
 __rest__ _n_ __13__ (Billiards & Snooker) Any of various special poles used as supports for the cue in shots that cannot be made using the hand as a support.  
@@ -161,6 +179,8 @@ __rigorous__ _adj_
 __robocall__ _n_  
 __rumble__ _vi_ __3__ _slang_ To engage in a gang fight.  
 __safe word__  
+__scoreless__ _adj_  
+__Scotland Yard__ _n_  
 __scour__ _v_  
 __sea gypsy__ _n_  
 __seasoned__ _adj_  
@@ -183,6 +203,7 @@ __sticker price__ _n_
 __stipulate__  
 __stonk__ _n_ A heavy concentration of artillery fire.  
 __strand__ _v_  
+__Styrofoam__ _n_  
 __subsequent__  
 __suede__ _n_ :mega: /sweɪd/ :es: ante  
 __suffocate__ _v_  
@@ -198,6 +219,10 @@ __tripledemic__ _n_ The simultaneous outbreaks of three infectious diseases: COV
 __troublemaker__ _n_ /ˈtrʌbəlˌmeɪkə/  
 __tumulus__ _n_ A heap of earth placed over prehistoric tombs. _Syn_ burial mound, grave mound, barrow  
 __turbocharge__ _vt_ :dart: __2__ _informal_ To improve dramatically the performance or quality of. To speed up; accelerate.  
+__utmost__ _adj, n_  
+__War of Attrition__ _n_  
+__warring__ _adj_ _The warring sides._  
+__weathered__ _adj_  
 __wrenching__ _adj_ Causing great physical or mental suffering. _ABC News went through a wrenching round of layoffs._  
 __wriggle__ _v_  
 __wring__ _v_ _It pays to wring your hands at least a little bit._  
