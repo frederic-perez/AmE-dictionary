@@ -1,6 +1,7 @@
 __(every) once in a while__ Occasionally; sometimes.  
 __(goodbye) until next time__ A casual valediction to someone whom one will see again at some later point.  
 __a dime a dozen__ Ubiquitous; so abundant or common as to hold little or no value.  
+__a life of its own__  
 __a pain in the ass__  
 __all over the place__ :two: __1__ _n_ Everywhere; over a great distance or area. _Now that we’ve graduated, my college friends are all over that place, and I hardly ever see them._ __2__ _adj_ Very scattered or disorganized; ill-conceived. _Boy, that presentation was all over the place. It’s like they wrote it five minutes before taking the stage!_  
 __avoid (someone or something) like the plague__  
@@ -10,8 +11,11 @@ __banger__ When someone calls something a “banger,” it usually means that it
 __battle something out__  
 __be a wash__ To have gains and losses that are considered to be equal or offset; to have an outcome of negligible advantage or disadvantage. _The product sold moderately well, but we spent so much on development and marketing that it ended up being a wash._  
 __be keen about (someone or something)__  
+__be like herding cats__ To be very unwieldy or unmanageable; to be nearly impossible to organize. Usually said of a group of people.  
+__be shown the ropes__  
 __be the butt of the joke__  
 __bet the farm__ To risk everything on a venture that one thinks will be successful. Primarily heard in US. _I wouldn’t bet the farm on that wacky invention._  
+__Black Twitter__ A collective name for the black users on the social media site Twitter.  
 __cold, hard cash__ Dollar bills and coins, as opposed to checks or credit. _The deal won’t go through unless we pay him in cold, hard cash._  
 __collude with (someone or something)__  
 __come a long way__ To make significant progress. Almost always used in the present perfect tense (“have/has come a long way”).  
@@ -19,8 +23,12 @@ __correct me if I’m wrong__ Used to introduce a piece of information one belie
 __cosleep__ Of a parent, to sleep in the same bed or room as one or more of their small or infant children. _We’re going to try cosleeping once the baby is born._ _Co-sleeping was a factor in quarter of Scotland’s infant deaths in 2023._  
 __cut someone or something out__  
 __dark cloud__  
+__date me doc__ A _date me doc_ is a document listing someone’s personal information and relationship preferences. The document is posted online in the hopes of attracting romantic partners.  
 __day in and day out__  
 __dealio__ _slang_ Alternative form of _dillio._ The deal; that which is current, relevant, or taking place. _What’s the dealio?_  
+__deepfake__  
+__destim__ [:scroll: de + stimulate] _Destim_ is a slang term that means to calm down by avoiding overwhelming stimuli, such as loud noises or stressful situations, as in _I went outside for a minute in order to destim._  
+__detached from reality__  
 __died in their sleep__ When someone is said to have “died in their sleep,” it typically means that they passed away during the night while they were asleep. This phrase is often used when the cause of death is unclear or when the family wishes to maintain privacy.  
 __dillio__ _slang_ [:scroll: From the slang phrase “what’s the deal, yo?” meaning “what’s going on?” Originates from _Lethal Weapon 2_: “what’s the deal Leo?” (South African accent) 1989] The deal; that which is current, relevant, or taking place.  
 __dislodge (someone or something) from (someone or something)__ To free someone or something that is stuck.  
@@ -47,6 +55,7 @@ __five o’clock shadow__
 __flat-out__  
 __flatline__ _slang_ To die or come very close to death.  
 __floor (one)__ To cause one a great deal of shock, surprise, or disbelief.  
+__fly the coop__  
 __follow someone’s lead__ To do as someone else does; to accept someone’s guidance; to follow someone’s direction.  
 __follow suit__  
 __fool around__  
@@ -61,8 +70,10 @@ __game-changer__
 __get wind of (something)__  
 __give and take__  
 __give credit where credit is due__  
+__go cold turkey__  
 __go on a spree__  
 __gully washer__ An extremely heavy rainstorm that usually lasts a short amount of time.  
+__gun-shy__  
 __gut-wrenching__ Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one’s feelings. _What a gut-wrenching loss for the young athlete, who poured her heart and soul into this match._  
 __gyatt__ A slang exclamation of surprise or excitement. Gyatt is most commonly used as an exclamation in reaction to seeing a large butt (that is, the buttocks) and may be used as a noun to mean a large butt.  
 __gym bunny__ Someone who is obsessively preoccupied with maintaining or improving their physique and thus spends a large amount of time at the gym to do so. _After recovering from his surgery, John spent a lot of time at the gym getting his body back into shape. Now he’s turned into a total gym bunny._  
@@ -73,8 +84,14 @@ __have (one’s) hands full__ :dart: To be busy or completely occupied with deal
 __have (one’s) plate full__  
 __have (something) to do__ To have some task or action that one must complete or undertake.  
 __have a go (at someone or something)__  
+__he-man__ A particularly strong, tough, and/or virile male, especially one who likes to flaunt his strength.  
 __heavy-footed__ Clumsy, ponderous, or lumbering in gait or tread. _The team’s star striker deftly navigated the ball past the heavy-footed defenseman._  
+__hell week__ A week in which new recruits or pledges of an organization, especially a college fraternity or sorority, are subjected to a series of hazing rituals prior to initiation.  
+__henpecked__ Of a man, thoroughly and continually dominated, intimidated, bullied, or browbeaten by a woman, especially his wife or girlfriend. _John used to be the most adventurous, spontaneous guy I knew, but since he got married, he’s become totally henpecked._  
+__Hip, hip, hooray!__  
+__hit (something) out of the (ball)park__ To do or perform something extraordinarily well; to produce or earn an exceptional achievement. An allusion to a baseball that is hit hard enough to land outside the stadium. _Great job on that report, Jacobs—you really hit it out of the park!_  
 __honeymoon phase__ The short amount of time at the beginning of a new relationship, activity, or pursuit when everything goes well and seems to be free of problems.  
+__how time flies__  
 __in no time (at all)__  
 __in other news__  
 __in short supply__ Scarce.  
@@ -91,7 +108,13 @@ __kicking__ __3__ _slang_ Still alive and active, especially despite old age.
 __lash out__ :dart: __2__ To react with sudden, intense anger.  
 __lead the pack__  
 __lose to (someone or something)__ To be defeated by someone or something. What was lost can be stated between “lose” and “to.” _Samsung takes a big bet on AI after losing top spot to Apple._  
+__mother hen__  
+__nothingburger__ [:scroll: From the metaphorical use of a burger missing a patty] _informal_ That which is, seems, or is presented as being important but turns out to be utterly insignificant or unsubstantial. Used especially in reference to politics. Also spelled “nothing burger.” Primarily heard in US.  
+__open-minded__ Interested in and willing to accept new ideas, thoughts, opinions, etc.  
+__pecking order__  
 __put (someone or something) to the test__  
+__put all of your eggs in one basket__  
+__rule the roost__ To have the most control or authority in a group. _Both of our parents were tough, but Mama was as tough as an old shoe, who ruled the roost without saying a word._  
 __six ways to Sunday__ _adj_ Askew, at an angle.  
 __skate__  
 __skeevy__ :two: Offensively or unscrupulously repellant, repugnant, or disreputable.  
@@ -102,6 +125,7 @@ __sound asleep__ :two::hammer:
 __spell out__  
 __spill over__  
 __spill the beans__  
+__spring chicken__  
 __stand by someone__  
 __stat__ __2__ Right away; without delay. A shortening of the Latin term “statim,” used especially in medicine (or as a parody of such usage). _I’m losing the patient. I need 10 CCs of epinephrine, stat!_ _Uh oh, I’m starting to feel sober. I need a pint and a shot of whiskey, stat!_  
 __stay put__  
@@ -129,6 +153,7 @@ __the straw that broke the camel’s back__ :two: A seemingly small or inconsequ
 __touch down__  
 __victory lap__ An act of pride or celebration that follows a great achievement or success.  
 __wake-up call__  
+__walk on eggshells__ :dart: To walk on eggshells is to exercise extreme caution. The extended use apparently comes from the fact that eggshells are fragile and would, upon being stepped on, break easily. It would take an impossibly light step to not break them. The phrase is used especially to refer to acting carefully around someone who may be easily upset. _They had to walk on eggshells around the unpredictable coworker._  
 __water down__ :two::hammer:  
 __whipe your hair__ When you “whip your hair,” you’re moving your head and hair in a fast and forceful motion. The phrase is meant to evoke a sense of power and confidence.  
 __wink wink (nudge nudge)__ A phrase spoken after a statement which emphasizes or points out a euphemistic underlying meaning or innuendo.  
