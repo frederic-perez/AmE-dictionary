@@ -17564,7 +17564,7 @@ __standby<sup>2</sup>__ _adj_
 __standby<sup>3</sup>__ _adv_  
 __standee__ _n_ A person who stands, as in a public conveyance, usu. because all seats are occupied.  
 __standings__ _n_ :four: (Sports) A listing of individual competitors or of teams in a league according to their record of performance. _31 points in the overall standings._ _Pac-12 Standings_ _Harvick is third in the standings._ :es: clasificación  
-__standoff__ _n_ :four::hammer:  
+__standoff__ _n_ :five::hammer:  
 __standoffish__  
 __standout<sup>1</sup>__ _adj informal_ :eight: Exceptionally good. Outstanding; superior. _He became a standout quarterback in the NFL._  
 __standout<sup>2</sup>__ _n_ :five: A person, performance, etc., that is clearly superior to others. _PGA tour standout._  
@@ -17713,7 +17713,7 @@ __stick of gum__ _n_
 __stick<sup>1</sup>__ _n_ _A swagger stick._  
 __stick<sup>2</sup>__ _v_ :three::hammer: _She began sticking files in a cabinet._  
 __stickball__ _n_ Stickball is a street game related to baseball, usually formed as a pick-up game played in large cities in the Northeastern United States, especially New York City and Philadelphia. The equipment consists of a broom handle and a rubber ball, typically a spaldeen, pensy pinky, high bouncer or tennis ball.  
-__sticker price__  
+__sticker price__ _n_ :two::hammer:  
 __sticker shock__  
 __stickers__  
 __stickler__ _n_ :three::hammer:  
@@ -17749,7 +17749,7 @@ __stinkers__ _n_
 __stintful__  
 __stipend__ _n_ :seven::hammer: (stipends)  
 __stippled finish__ _n_ A dotted or a pebbly-textured finish on a surface coat of paint, plaster, porcelain enamel, etc.; produced by striking the unhardened coat with the bristles of a stippling brush.  
-__stipulate__ _v_ :two::hammer:  
+__stipulate__ _v_ :three::hammer:  
 __stipulation__ _n_ :three::hammer:  
 __stir up a hornet’s nest__ _fig_ To create a lot of trouble.  
 __stir-crazy__ _adj_ :dart: /STER-KRAY-zee/ Distraught because of prolonged confinement. _Guests at the ski lodge began going stir-crazy after Day 3 of being snowed in by the blizzard._  
@@ -17787,6 +17787,7 @@ __stone-walling__
 __stonemasons__ _n_  
 __stonewall__ _v_ :four::hammer: (stonewalling)  
 __stoneware__ _n_  
+__stonk__ _n_ A heavy concentration of artillery fire.  
 __stooges__ _n_  
 __stool pigeon__ _n_ _slang_ :two: A person acting as a decoy or as an informer, especially one who is a spy for the police. _Syn_ canary, fink, snitch _A guard’s stool pigeon._  
 __stoop<sup>1</sup>__ _v_ :nine::m: (stooped) __1__ _(also stoop down)_ To bend your body forward and down. _Jean stoops to pick cranberries for preserves._ _We had to stoop to pass through the low entrance._ _Dave stooped down to tie his shoes._ __2__ To stand with your back and shoulders bent forwards. _Although stooped by age, her eyes were sharp._  
@@ -17856,7 +17857,8 @@ __straitjacket<sup>1</sup>__ _n_ :two::hammer: /ˈstreɪtˌdʒækɪt/ (straightj
 __straitjacket<sup>2</sup>__ _vt_ _They were straitjacketed by despair._  
 __straits__  
 __stramineous__ _adj_ struh-MIN-ee-uhs/ __1__ Straw-colored. __2__ Of or relating to straw. __3__ Like straw: Valueless.  
-__strand__ _n_ :four::hammer: _A long strand of rope._ _The strands powering cable cars._  
+__strand<sup>1</sup>__ _n_ :four::hammer: _A long strand of rope._ _The strands powering cable cars._  
+__strand<sup>2</sup>__ _v_  
 __stranded__ _adj_ :two: Left without the means to move from somewhere. _She offers a lift to a stranded commuter._  
 __strangle__ _v_ :four::hammer: (strangled, strangling) :es: estrangular  
 __stranglehold__ _n_ :four::hammer:  
@@ -17980,7 +17982,7 @@ __style__ _v_
 __stylesetter__  
 __stymie<sup>1</sup>__ _vt_ :nine::m: /STY-mee/ (stymieing, stymied) To obstruct, thwart, stump, etc. To present an obstacle to (somebody or something); to thwart; stand in the way of. _Syn_ blockade, obstruct, stymy, embarrass, hinder, block  
 __stymie<sup>2</sup>__ _n_ :two: A hindrance.  
-__Styrofoam__ _n_ :two::hammer: _A large Styrofoam cup of coffee._  
+__Styrofoam__ _n_ :three::hammer: _A large Styrofoam cup of coffee._  
 __suave__ _adj_ :six::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
 __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  
 __sub rosa__ _adv_ :two: [Latin _sub rosā_, under the rose (from the practice of hanging a rose over a meeting as a symbol of confidentiality).] In secret; privately or confidentially: _held the meeting sub rosa._ _No, I had no idea they were planning to reject the proposal. They must have reached that decision sub rosa._  
@@ -18012,7 +18014,7 @@ __subpar__ _adj_ :three::hammer: /sʌbˈpɑː/
 __subpoena<sup>1</sup>__ _n_ :five::hammer:  
 __subpoena<sup>2</sup>__ _v_ :six::mega: (subpoenaed) Put the screws to someone.  
 __subsea__ _n_  
-__subsequent__ _adj_ :eight: Following in time or order; succeeding. _The Justice Ministry plans to introduce the system to other airports in subsequent years._ _The policy to have patients moved from hospitals to care homes may have directly led to subsequent deaths._ :es: posterior, subsiguiente  
+__subsequent__ _adj_ :nine: Following in time or order; succeeding. _The Justice Ministry plans to introduce the system to other airports in subsequent years._ _The policy to have patients moved from hospitals to care homes may have directly led to subsequent deaths._ :es: posterior, subsiguiente  
 __subsequently__ _adv_ :dart::five: Happening at a time subsequent to a reference time. _He subsequently joined the engineering team._  
 __subside__ _v_ :dart::six::hammer: (subsided) _My headache has subsided._  
 __subsidence__ _n_  
@@ -18052,8 +18054,9 @@ __sudden cardiac arrest__
 __sudden__  
 __suds__  
 __sudsy__  
+__suede__ _n_ :mega: /sweɪd/ :es: ante  
 __sufferance__ _n_ A disposition to tolerate or accept people or situations. _Syn_ toleration, acceptance _Everyone admired her sufferance in the face of a number of unfortunate events._  
-__suffocate__ _v_  
+__suffocate__ _v_ :two::hammer:  
 __suffocation__ _n_ :pencil2:  
 __suffrage__ _n_ :two: /SUF-rij/ The right to vote in an election.  
 __suffragette__  
@@ -18243,7 +18246,7 @@ __swear jar__
 __sweat__ _n_ /swet/ Organic cooler.  
 __sweatpants__ _n pl_ :two: Loose thick cotton trousers with elasticated cuffs and an elasticated or drawstring waist, worn especially for exercising or relaxing.  
 __sweats__ _n pl_ /swɛts/ (Clothing & Fashion) Sweatshirts and sweatsuit trousers: jeans and sweats. :es: sudaderas y pantalones de chándal  
-__Swede__ _n_  
+__Swede__ _n_ :two::mega: /swid/ A native or inhabitant of Sweden.  
 __sweeping__ _adj_ :eight::hammer: _A sweeping view._ _The sweeping sandy beaches of Broadstairs._ _The sweeping green of Central Prk._ _Sweeping lawns._ _The sweeping panoramic view of the city._ _Sweeping policy changes._  
 __sweepstakes__ _pl n_ :three: (also sweepstake) A lottery in which the prize consists of the money paid by the participants.  
 __Sweet 16__ _n_ _sports_  
@@ -18305,6 +18308,7 @@ __syllable__ _n_
 __syllabub__ _n_ _Syllabub of fresh fruit._  
 __syllabus__ _n_ :astonished: __1__ An outline or a summary of the main points of a text, lecture, or course of study.  
 __syllogism__ _n_ :four: Syllogism is an argument based on deductive reasoning that uses generalizations to reach specific conclusions. Usually, a syllogism follows the format of “A is B. B is C. So, A is C.” Example: Dogs are mammals. Biscuit is a dog. Therefore, Biscuit is a mammal.  
+__sylph__ _n_ /silf/  
 __sylvan<sup>1</sup>__ _adj_ :two::hammer: (silvan)  
 __sylvan<sup>2</sup>__ _n_ :two::hammer: (silvan) _Classical Myth & Legend_ An inhabitant of the woods, esp. a spirit.  
 __symbiosis__ _n_ :two::hammer: /sim-bee-OH-sis/  
@@ -18330,7 +18334,7 @@ __Syracuse__ _n_ :mega: /ˈsɪr əˌkyus, -ˌkyuz/
 __syringe__  
 __syrup__ _n_ _Maple syrup._  
 __syrupy__ _adj_ :two: Cloyingly sweet or sentimental. _Syn_ saccharine, treacly _I can appreciate a sentimental or romantic film, but syrupy “chick flicks” are another thing altogether._  
-__systemic__ _adj_ :two::hammer:  
+__systemic__ _adj_ :three::hammer:  
 __syzygy__ _n_ :two::hammer:  
 __T-ball__  
 __T&A__  
@@ -18713,6 +18717,7 @@ __theism__ _n_ Belief in the existence of a god or gods, especially belief in a 
 __theist__ _adj_  
 __thence__ _adv_  
 __theocracy__  
+__theophoric__ _adj_ /thee-uh/oh-FOR-ik/ [:scroll: From Greek theo- (god) + -phoric (bearing)] Having or derived from the name of a god.  
 __theosophy__  
 __there is no denying__  
 __thereabout__ _adv_ :two::hammer:  
@@ -18889,7 +18894,7 @@ __time ball__ _n_
 __time capsule__ _n_ :five::hammer:  
 __time frame__  
 __time line__ _n_ (timeline) _Can it be done in that time line?_  
-__time-consuming__ _adj_  
+__time-consuming__ _adj_ :two::hammer:  
 __time-resolved__ _adj_ Relating to or denoting a spectroscopic technique in which a spectrum is obtained at a series of time intervals after excitation of the sample. _SSFP cine sequences provide high resolution, time-resolved images._  
 __time-saver__ _n_  
 __time-stamp__ _v_ _These events are time-stamped._  
@@ -18974,7 +18979,7 @@ __to be unheard of__
 __to hell__  
 __to taste (to one’s taste)__ _adj_ :three: Agreeable or pleasing to one. _Add more vinegar to taste._ :es: al gusto  
 __to that effect__  
-__to that extent__ _adv_ To the degree or extent that. _Syn_ in so far, insofar, to that degree, so far _To that extent the Black Death may have been the unrecognized beginning of modern man._  
+__to that extent__ _adv_ :two: To the degree or extent that. _Syn_ in so far, insofar, to that degree, so far _To that extent the Black Death may have been the unrecognized beginning of modern man._  
 __to-do list__  
 __toad bag__ _n_  
 __toadstool__ _n_ The spore-bearing fruiting body of a fungus, typically in the form of a rounded cap on a stalk, especially one that is believed to be inedible or poisonous.  
@@ -19057,6 +19062,7 @@ __toothpaste__ _n_ Why is it toothpaste instead of teethpaste? The short answer 
 __toothsome__ _adj_ :six: Extremely pleasing to the sense of taste. _Syn_ delectable, scrumptious, yummy, delicious, luscious  
 __toothy smile__  
 __toots__ _n slang_ Babe; sweetie.  
+__Tootsie Roll__ _n_  
 __tootsie__ _n_ _slang_ :three: /ˈtʊtsɪ/ Darling; sweetheart. (toots, tootsy) _Twiddle their tootsies._  
 __top banana__ _n_ _slang_ :two: The most important person in an organization.  
 __top billing__ _n_ The advertisement of a star’s name at the top of a theatrical poster.  
@@ -19113,6 +19119,7 @@ __tote bag__ _n_
 __tote board__ _n_ A large, usually electrically operated board that displays changing numerical information, such as betting payoffs or voting results.  
 __tote__ _n_ Totes are standardized containers that warehouses use to store and transport items. _Agility Robotics’ Digit carries an empty tote to a conveyor in an Amazon research and development warehouse._  
 __totem pole__ _n_ _slang_ :two: A hierarchy: _low on the totem pole._ _You’re at the bottom of the totem pole._  
+__totemic__ _adj_  
 __tots__  
 __totter__ _v_  
 __tottered__  
@@ -19307,7 +19314,7 @@ __trip-hammer<sup>1</sup>__ _n_
 __trip-hammer<sup>2</sup>__ _adj_ Suggesting a trip-hammer in loud pounding or persistent action. _No trip-hammer questions._  
 __triple__  
 __triple-check__ _v_  
-__tripledemic__ _n_  
+__tripledemic__ _n_ :two: The simultaneous outbreaks of three infectious diseases: COVID-19, influenza, and respiratory syncytial virus (RSV).  
 __triplex__ _adj_ _A triplex penthouse._  
 __triply__ _adv_ /ˈtrɪp li/ _I had to work triply hard._  
 __tripping__ _adj_ __1__ Moving quickly and lightly; nimble. __2__ Speaking or flowing easily; fluent.  
@@ -19342,6 +19349,7 @@ __trot line__
 __trot out__  
 __trot__  
 __trotter__ _n_ __1__ A horse that trots, especially one trained for harness racing. __2__ _informal_ A foot, especially the foot of a pig or sheep prepared as food. _Sheep’s trotters._  
+__troublemaker__ _n_ /ˈtrʌbəlˌmeɪkə/  
 __troubleshoot__ _v_ :three::hammer:  
 __troubleshooter__ _n_ :three::hammer:  
 __trough__ _n_ :five: (troughs) Lowest point of a wave. _Showers will continue for one more day as a low-pressure trough spins through the region._ _The daily peaks and troughs._  
@@ -19417,6 +19425,7 @@ __tumbleweed__ _n_
 __tumuli__ _n pl_ Plural of tumulus (an artificial mound, esp. over a grave; barrow.).  
 __tumult__ _n_ :two: Violent and noisy commotion or disturbance of a crowd or mob. _Syn_ garboil, uproar  
 __tumultuous__ _adj_ :two::hammer:  
+__tumulus__ _n_ A heap of earth placed over prehistoric tombs. _Syn_ burial mound, grave mound, barrow  
 __tune-up__ _n_ _Overnight tune-ups and repairs._  
 __tuneful__ _adj_ __1__ Having a pleasant or catchy tune; melodious. __2__ Producing a melody or music: _a tuneful blackbird._  
 __tunesmith__ _n_ _informal_ A person who composes popular music or songs.  
@@ -19426,7 +19435,7 @@ __tunnel vision__ _n_ :two::hammer:
 __tuple__ _n_ :mega:  
 __tuppence__  
 __turbid__ _adj_  
-__turbocharge__ _v_ __1__ To equip with a turbocharger __2__ _informal_ To speed up; accelerate.  
+__turbocharge__ _vt_ :dart::two: __1__ To equip with a turbocharger. __2__ _informal_ To improve dramatically the performance or quality of. To speed up; accelerate.  
 __turducken__ _n_ :three: [:scroll: from tur(key) + du(ck) + (chi)cken] A dish consisting of a deboned chicken stuffed into a deboned duck, further stuffed into a deboned turkey. Outside of the United States and Canada, it is known as a three-bird roast.  
 __tureen__ _n_ :es: sopera _Soup tureens._  
 __turgid__ _adj_ :four: Excessively ornate or complex in style or language. _Syn_ bombastic, declamatory, orotund, tumid, large _Growing impatient with the politician’s turgid prose, she turned off her television._  
@@ -19863,8 +19872,8 @@ __utilitarian__
 __utility room__  
 __utility<sup>1</sup>__ _n_ :two: __1__ The quality of being of practical use. __2__ :three: A facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal. _Utility bill._ _Utility companies._  
 __utility<sup>2</sup>__ _adj_ _A pair of utility classes._  
-__utmost<sup>1</<sup>__ _adj_ :eight::mega: /UT-mohst/ __1__ Of the greatest or highest degree, quantity, number, or amount. _The safety of employees is of utmost importance._ _Olympians push themselves to the utmost limit when training._ __2__ Situated at the farthest or most distant point.  
-__utmost<sup>2</<sup>__ _n_  
+__utmost<sup>1</<sup>__ _adj_ :nine::mega: /UT-mohst/ __1__ Of the greatest or highest degree, quantity, number, or amount. _The safety of employees is of utmost importance._ _Olympians push themselves to the utmost limit when training._ __2__ Situated at the farthest or most distant point.  
+__utmost<sup>2</<sup>__ _n_ :two::hammer:  
 __utopia__ _n_ /yoo-TOH-pee-uh/  
 __utter__ _adj_ _Utter darkness._  
 __utterance__ _n_ :two::hammer:  
@@ -20249,6 +20258,7 @@ __wanton<sup>2</sup>__ _v_
 __war correspondent__ _n_ A journalist who reports on a war from the scene of action. _Our journalists are not experienced war correspondents._  
 __war criminal__ _n_  
 __war hawk__ _n_ /WAR hawk/ One who advocates war, military intervention, or other aggressive measures.  
+__War of Attrition__ _n_  
 __war stories__  
 __warble__ _v_ :three::hammer:  
 __warblers__  
@@ -20270,6 +20280,7 @@ __warmongering__ _n_
 __warrant<sup>1</sup>__ _n_ :two: If you watch cop shows, you know that a warrant is something police need to get into your house — a permission slip from a judge. It’s a noun! It’s a verb! It’s a word that warrants our attention! As a noun, it’s the piece of paper they show you through the keyhole during an investigation. It’s also a reason for doing something, or a promise (think of the warranty on your new car, the promise that it’ll work for a certain amount of time).  
 __warrant<sup>2</sup>__ _v_ :seven: As a verb, it means to make something seem reasonable or necessary, such when the ticking suitcase warrants bringing in the bomb squad, or when the teenager’s sneaking in late again warrants a stricter curfew. _The situation warranted it._  
 __warren__ _n_ :two::hammer: _A warren of hares._ _It was like a rabbit warren._  
+__warring__ _adj_ _The warring sides._  
 __Warsaw__ _n_ :mega:  
 __wartime__ _n_ :pencil2:  
 __wary__ _adj_ :two::hammer: _He is wary of the situation._  
@@ -20344,7 +20355,7 @@ __weasel<sup>1</sup>__ _n_ :dart::two: __1__ Any of various carnivorous mammals 
 __weasel<sup>2</sup>__ _vi_ :two: To use evasive or deliberately vague language. _Example weasel words include ‘Processor’, ‘Manager’, and ‘Super’._  
 __weather vane__ _n_ :two: /WETH-uhr vayn/ __1__ A device having a pointer rotating on a vertical spindle, used to indicate the direction of the wind. __2__ Someone or something constantly changing.  
 __weather__ _vt_ :five::hammer: (weathering) __3__ To come through (something) safely; survive: _weather a crisis._  
-__weathered__ _adj_  
+__weathered__ _adj_ :two::hammer:  
 __weave<sup>1</sup>__ _n_  
 __weave<sup>2</sup>__ _v_ :three::hammer: (weaving) _He was weaving through traffic._ _It is important to weave your keywords into a compelling story._  
 __weaver__ _n_ _A crowd of fullers and weavers._  

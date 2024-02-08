@@ -198,31 +198,6 @@ __spider__ _n_ __9__ (Billiards & Snooker) A rest having long legs, used to rais
 __squarely__ _adv_ /ˈskwɛəlɪ/ __1__ In a direct way; straight: _he hit me squarely on the nose; walked squarely toward the shoplifter and arrested him._  
 __stagnant__ _adj_  
 __stalk__ _v_  
-__standoff__ _n_  
-__sticker price__ _n_  
-__stipulate__  
-__stonk__ _n_ A heavy concentration of artillery fire.  
-__strand__ _v_  
-__Styrofoam__ _n_  
-__subsequent__  
-__suede__ _n_ :mega: /sweɪd/ :es: ante  
-__suffocate__ _v_  
-__Swede__ _n_ :mega: /swid/ A native or inhabitant of Sweden.  
-__sylph__ _n_ /silf/  
-__systemic__ _adj_  
-__theophoric__ _adj_ /thee-uh/oh-FOR-ik/ [:scroll: From Greek theo- (god) + -phoric (bearing)] Having or derived from the name of a god.  
-__time-consuming__ _adj_  
-__to that extent__ _adv_ To the degree or extent that.  
-__Tootsie Roll__ _n_  
-__totemic__ _adj_  
-__tripledemic__ _n_ The simultaneous outbreaks of three infectious diseases: COVID-19, influenza, and respiratory syncytial virus (RSV).  
-__troublemaker__ _n_ /ˈtrʌbəlˌmeɪkə/  
-__tumulus__ _n_ A heap of earth placed over prehistoric tombs. _Syn_ burial mound, grave mound, barrow  
-__turbocharge__ _vt_ :dart: __2__ _informal_ To improve dramatically the performance or quality of. To speed up; accelerate.  
-__utmost__ _adj, n_  
-__War of Attrition__ _n_  
-__warring__ _adj_ _The warring sides._  
-__weathered__ _adj_  
 __wrenching__ _adj_ Causing great physical or mental suffering. _ABC News went through a wrenching round of layoffs._  
 __wriggle__ _v_  
 __wring__ _v_ _It pays to wring your hands at least a little bit._  
