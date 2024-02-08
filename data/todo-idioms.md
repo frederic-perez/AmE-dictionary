@@ -4,23 +4,29 @@ __a dime a dozen__ Ubiquitous; so abundant or common as to hold little or no val
 __a life of its own__  
 __a pain in the ass__  
 __all over the place__ :two: __1__ _n_ Everywhere; over a great distance or area. _Now that we’ve graduated, my college friends are all over that place, and I hardly ever see them._ __2__ _adj_ Very scattered or disorganized; ill-conceived. _Boy, that presentation was all over the place. It’s like they wrote it five minutes before taking the stage!_  
+__at (one’s) own game__  
 __avoid (someone or something) like the plague__  
 __back to back__  
 __backhanded compliment__ :dart: An insulting or negative comment disguised as praise.  
+__bang out__  
 __banger__ When someone calls something a “banger,” it usually means that it’s really good or exciting.  
 __battle something out__  
 __be a wash__ To have gains and losses that are considered to be equal or offset; to have an outcome of negligible advantage or disadvantage. _The product sold moderately well, but we spent so much on development and marketing that it ended up being a wash._  
 __be keen about (someone or something)__  
+__be kicked to the curb__ To be discarded, abandoned, or dismissed (as from employment) due to being unwanted, obsolete, or redundant.  
 __be like herding cats__ To be very unwieldy or unmanageable; to be nearly impossible to organize. Usually said of a group of people.  
 __be shown the ropes__  
 __be the butt of the joke__  
 __bet the farm__ To risk everything on a venture that one thinks will be successful. Primarily heard in US. _I wouldn’t bet the farm on that wacky invention._  
 __Black Twitter__ A collective name for the black users on the social media site Twitter.  
+__close the door on (something)__  
 __cold, hard cash__ Dollar bills and coins, as opposed to checks or credit. _The deal won’t go through unless we pay him in cold, hard cash._  
 __collude with (someone or something)__  
 __come a long way__ To make significant progress. Almost always used in the present perfect tense (“have/has come a long way”).  
 __correct me if I’m wrong__ Used to introduce a piece of information one believes is true, especially as a means of correcting someone else.  
 __cosleep__ Of a parent, to sleep in the same bed or room as one or more of their small or infant children. _We’re going to try cosleeping once the baby is born._ _Co-sleeping was a factor in quarter of Scotland’s infant deaths in 2023._  
+__cut a deal__  
+__cut off__ __2__ _v_ To abruptly move in front of another driver, either intentionally or unintentionally. In this usage, a noun or pronoun can be used between “cut” and “off.” _Can you believe that jerk cut me off like that? I nearly hit him!_  
 __cut someone or something out__  
 __dark cloud__  
 __date me doc__ A _date me doc_ is a document listing someone’s personal information and relationship preferences. The document is posted online in the hopes of attracting romantic partners.  
@@ -33,6 +39,7 @@ __died in their sleep__ When someone is said to have “died in their sleep,” 
 __dillio__ _slang_ [:scroll: From the slang phrase “what’s the deal, yo?” meaning “what’s going on?” Originates from _Lethal Weapon 2_: “what’s the deal Leo?” (South African accent) 1989] The deal; that which is current, relevant, or taking place.  
 __dislodge (someone or something) from (someone or something)__ To free someone or something that is stuck.  
 __do something/anything about__ To take some action to change or cope with something.  
+__don’t sweat it__ Don’t worry or stress about it. _Don’t sweat small stuff._  
 __double down__  
 __double-edged sword__  
 __drum roll, please__  
@@ -72,6 +79,7 @@ __give and take__
 __give credit where credit is due__  
 __go cold turkey__  
 __go on a spree__  
+__go to great lengths (to do something)__ To put in a lot of effort, energy, or work to achieve something.  
 __gully washer__ An extremely heavy rainstorm that usually lasts a short amount of time.  
 __gun-shy__  
 __gut-wrenching__ Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one’s feelings. _What a gut-wrenching loss for the young athlete, who poured her heart and soul into this match._  
@@ -92,6 +100,7 @@ __Hip, hip, hooray!__
 __hit (something) out of the (ball)park__ To do or perform something extraordinarily well; to produce or earn an exceptional achievement. An allusion to a baseball that is hit hard enough to land outside the stadium. _Great job on that report, Jacobs—you really hit it out of the park!_  
 __honeymoon phase__ The short amount of time at the beginning of a new relationship, activity, or pursuit when everything goes well and seems to be free of problems.  
 __how time flies__  
+__in hindsight__  
 __in no time (at all)__  
 __in other news__  
 __in short supply__ Scarce.  
@@ -106,21 +115,33 @@ __jaw-dropping__ :two::hammer:
 __keep rolling__ The idiom “keep rolling” means to continue doing something with energy and momentum, similar to how a ball keeps rolling after it’s set in motion.  
 __kicking__ __3__ _slang_ Still alive and active, especially despite old age.  
 __lash out__ :dart: __2__ To react with sudden, intense anger.  
+__laugh until you cry__ To laugh so intensely that tears come out of one’s eyes. _That comedian was really in rare form last night. I’m not his biggest fan, but he made me laugh until I cried._  
 __lead the pack__  
 __lose to (someone or something)__ To be defeated by someone or something. What was lost can be stated between “lose” and “to.” _Samsung takes a big bet on AI after losing top spot to Apple._  
+__magic mushrooms__  
 __mother hen__  
+__non-starter__ __1__ An issue, topic, or person that makes no progress or shows little evidence of future success.  
 __nothingburger__ [:scroll: From the metaphorical use of a burger missing a patty] _informal_ That which is, seems, or is presented as being important but turns out to be utterly insignificant or unsubstantial. Used especially in reference to politics. Also spelled “nothing burger.” Primarily heard in US.  
+__on the brink of (something)__  
 __open-minded__ Interested in and willing to accept new ideas, thoughts, opinions, etc.  
 __pecking order__  
+__prop up__  
 __put (someone or something) to the test__  
 __put all of your eggs in one basket__  
+__raise (ones) voice__ To speak or shout loudly, especially out of anger. _I know you’re upset, but there’s no need to raise your voice._  
 __rule the roost__ To have the most control or authority in a group. _Both of our parents were tough, but Mama was as tough as an old shoe, who ruled the roost without saying a word._  
+__save (something) for a rainy day__  
+__seeing is believing__  
+__set in stone__  
+__sidebar conversation__ _informal_ A conversation held privately between two people while one or more other people are already speaking.  
 __six ways to Sunday__ _adj_ Askew, at an angle.  
 __skate__  
 __skeevy__ :two: Offensively or unscrupulously repellant, repugnant, or disreputable.  
 __skeleton in the/(one’s) closet__ An embarrassing or shameful secret.  
 __skibidi__ _slang_ A nonsense word or sound without a specific meaning.  
 __skimp on (something)__  
+__slam__ __1__ _vt_ To criticize someone or something.  
+__slip up__  
 __sound asleep__ :two::hammer:  
 __spell out__  
 __spill over__  
@@ -128,6 +149,7 @@ __spill the beans__
 __spring chicken__  
 __stand by someone__  
 __stat__ __2__ Right away; without delay. A shortening of the Latin term “statim,” used especially in medicine (or as a parody of such usage). _I’m losing the patient. I need 10 CCs of epinephrine, stat!_ _Uh oh, I’m starting to feel sober. I need a pint and a shot of whiskey, stat!_  
+__stave off__  
 __stay put__  
 __stay tuned__  
 __step aside__ :dart:  
@@ -142,6 +164,7 @@ __strapped for cash__ Without any or very much money at the moment; broke, espec
 __street urchin__ A poor child who spends most of their time outside, often due to living on the streets.  
 __strike a deal__ :three: To successfully achieve a deal or agreement, especially regarding an acceptable price or exchange for something.  
 __studette__ The female version of a stud. A girl that can get any guy she wants, is incredibly good looking, has an amazing personality and is overall awesome at life.  
+__swear by__ _Sam Altman swears by coffee every morning._  
 __sweep down on (someone or something)__  
 __take a step back__  
 __take the stage__  
@@ -150,6 +173,7 @@ __talk (one’s) ear(s) off__ To talk so much as to cause one to be exhausted or
 __the bitter end__  
 __the latest__ _What’s the latest?_  
 __the straw that broke the camel’s back__ :two: A seemingly small or inconsequential issue, problem, or burden that proved to be the final catalyst in causing an overworked or overburdened person, system, organization, etc., to fail, give up, or collapse.  
+__think long and hard__ :dart:two: To give very careful and thorough consideration (to something).  
 __touch down__  
 __victory lap__ An act of pride or celebration that follows a great achievement or success.  
 __wake-up call__  
@@ -169,7 +193,7 @@ __yap__ __2__ To chatter; to gossip. _Did you just come here to yap?_ __3__ _n_ 
 __yard__ _n_ A one-hundred-dollar bill. (Underworld.) _The guy wanted a yard just to fix a little dent in the fender._  
 __yen__ A desire. Often used in the phrase “have a yen for (someone/something).“  
 __yippee-ki-yay__ :two::hammer:  
-__you name it__  
+__you name it__ :two::hammer:  
 __your thoughts__ :three: A way to invite someone to share their opinion or perspective in a conversation.  
 __yup__ :dart: _informal_ A variant of “yes,” possibly based on or influenced by the similar word “nope” (meaning “no.”) _Yup, I’d say so._  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
