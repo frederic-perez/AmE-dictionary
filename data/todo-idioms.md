@@ -98,31 +98,6 @@ __hell week__ A week in which new recruits or pledges of an organization, especi
 __henpecked__ Of a man, thoroughly and continually dominated, intimidated, bullied, or browbeaten by a woman, especially his wife or girlfriend. _John used to be the most adventurous, spontaneous guy I knew, but since he got married, he’s become totally henpecked._  
 __Hip, hip, hooray!__  
 __hit (something) out of the (ball)park__ To do or perform something extraordinarily well; to produce or earn an exceptional achievement. An allusion to a baseball that is hit hard enough to land outside the stadium. _Great job on that report, Jacobs—you really hit it out of the park!_  
-__honeymoon phase__ The short amount of time at the beginning of a new relationship, activity, or pursuit when everything goes well and seems to be free of problems.  
-__how time flies__  
-__in hindsight__  
-__in no time (at all)__  
-__in other news__  
-__in short supply__ Scarce.  
-__in the interim__ In the time before something happens; in the meantime.  
-__in the short run__  
-__in the zone__  
-__in vain__  
-__in/within living memory__ In a recent enough time as to be remembered by people who are alive today. (Usually used in negative statements.) _There hasn’t been a blizzard like this in living memory!_ _The worst heart care crisis in living memory._  
-__it remains to be seen__ :two::hammer:  
-__jamming__ _slang_ Awesome; really exciting. _Man, that was an absolutely jamming party!_  
-__jaw-dropping__ :two::hammer:  
-__keep rolling__ The idiom “keep rolling” means to continue doing something with energy and momentum, similar to how a ball keeps rolling after it’s set in motion.  
-__kicking__ __3__ _slang_ Still alive and active, especially despite old age.  
-__lash out__ :dart: __2__ To react with sudden, intense anger.  
-__laugh until you cry__ To laugh so intensely that tears come out of one’s eyes. _That comedian was really in rare form last night. I’m not his biggest fan, but he made me laugh until I cried._  
-__lead the pack__  
-__lose to (someone or something)__ To be defeated by someone or something. What was lost can be stated between “lose” and “to.” _Samsung takes a big bet on AI after losing top spot to Apple._  
-__magic mushrooms__  
-__mother hen__  
-__non-starter__ __1__ An issue, topic, or person that makes no progress or shows little evidence of future success.  
-__nothingburger__ [:scroll: From the metaphorical use of a burger missing a patty] _informal_ That which is, seems, or is presented as being important but turns out to be utterly insignificant or unsubstantial. Used especially in reference to politics. Also spelled “nothing burger.” Primarily heard in US.  
-__on the brink of (something)__  
 __open-minded__ Interested in and willing to accept new ideas, thoughts, opinions, etc.  
 __pecking order__  
 __prop up__  

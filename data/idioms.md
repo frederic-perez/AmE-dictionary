@@ -2657,6 +2657,7 @@ __honest to God__
 __honest to Pete__ Honestly; truly; genuinely. An expression used to emphasize the veracity of one’s statement, “Pete” here is a substitution of the word “God,” so as to avoid potential blasphemy.  
 __honey-do list__ :two: A list or collection of tasks or jobs one has been requested to perform or undertake, especially household duties or jobs, given to a person by their spouse or romantic partner.  
 __honey-mouthed__ :two: Smooth, soothing, and sweet in voice, especially in a persuasive or seductive manner or intent.  
+__honeymoon phase__ The short amount of time at the beginning of a new relationship, activity, or pursuit when everything goes well and seems to be free of problems.  
 __honorable mention__ A recognition or citation of merit given to a contestant, exhibition, entry, etc., in a competition despite that person or thing not being awarded a prize or top honor.  
 __hoo-ha__  
 __hoof it__ _informal_ To walk. _If nobody gives us a ride, we’ll have to hoof it._ _She hoofed it home from the dance in her high-heeled shoes._  
@@ -2691,6 +2692,7 @@ __housewarming (party)__ A party thrown to celebrate when someone moves into a n
 __how about that__ :two: That is very interesting, impressive, exciting, surprising, or respectable. Said as an exclamation, rather than a question. _A: “I heard Janet is running for a seat in the senate.” B: “Wow, how about that!”_ _How about that. Have you ever seen such a thing?_  
 __how come__ :two: Why? Why is it that (something is the case)? How is it that; why: _How come you’re so late?_ _A: “I’m sorry, but I’m not letting you go to the party tonight.” B: “Aw, Mom! How come?”_ _How come Bobby gets ice cream but I don’t?_  
 __how on earth__ :two: An exclamation used to emphasize surprise, shock, anger, disgust, etc. _How on earth did you get here? I thought your car was in the shop._  
+__how time flies__  
 __how’s life (treating you)?__ How are you? How is everything in your life? (Said as an informal greeting.)  
 __however much__ :two: No matter how much.  
 __hubby__ :seven: _A shortening and alteration of “husband.”_  
@@ -2818,7 +2820,7 @@ __in full swing__ :six::hammer: _The conference was in full swing when I arrived
 __in full__  
 __in harm’s way__  
 __in high dudgeon__  
-__in hindsight__ :two::hammer:  
+__in hindsight__ :three::hammer:  
 __in his own right__ :two: By reason of one’s own ability or ownership etc. _She’s a rich woman in her own right rather than by inheritance._ _An excellent novel in its own right._  
 __in hot water__ :two: In trouble, and likely to be reprimanded.  
 __in its entirety__  
@@ -2831,12 +2833,12 @@ __in leaps and bounds__ By very large degrees; rapidly or in quick progress forw
 __in less than no time__ (in no time (at all)) In a very little amount of time. Very quickly. _That test was so easy, I was done in less than no time._  
 __in lieu of (something)__ :two::hammer: _In lieu of actual payments._ _In lieu of flowers._  
 __in no circumstances__ Never; in no case or situation; irrespective of events or conditions. _In no circumstances are you allowed to drive home after you’ve had more than one drink!_  
-__in no time (at all)__ :four: (in less than no time) In a very little amount of time. Very quickly. _That test was so easy, I was done in no time._  
+__in no time (at all)__ :five: (in less than no time) In a very little amount of time. Very quickly. _That test was so easy, I was done in no time._  
 __in no way__ Not at all; not by any means. _We are in no way blaming you for what happened, but you still have to cooperate with the police investigation._  
 __in no way, shape, or form__ In no possible manner; under no circumstances; not by any means.  
 __in one blow__ All at once, with a single decisive or powerful action.  
 __in order that__ So that; with the particular aim or purpose of.  
-__in other news__ A segue into another topic. Used when you want to move on to a new subject, but have no real way to connect it to what you were talking about before.  
+__in other news__ :two: A segue into another topic. Used when you want to move on to a new subject, but have no real way to connect it to what you were talking about before.  
 __in over (one’s) head__ Too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer.  
 __in park__ Of a vehicle, having the gear stick set to “park,” which keeps the vehicle in place in a manner similar to a parking brake. _Put yourself in park, and think._ _Oh yeah, you’re close enough to the curb. Go ahead, put the car in park._  
 __in passing__ Casually or as an aside during a conversation. _Karen mentioned the party in passing the other day, but she didn’t go into detail._ _As we discussed why, he mentioned in passing that he committed a crime._  
@@ -2852,6 +2854,7 @@ __in round numbers__
 __in secrecy__  
 __in session__ Currently gathered and in the process of conferring about or working on some thing. _Hey, no one is allowed in there while the meeting is in session!_  
 __in short order__ :dart::five: With no delay; quickly. Quickly, efficiently, and without any delays. _The repair shouldn’t take long at all. We’ll get you on the road in short order._ _Bob is the best trainer. He’ll whip you into shape in short order._  
+__in short supply__ Scarce.  
 __in so many words__  
 __in someone else’s shoes__ Imagining oneself in the situation or circumstances of another person so as to understand or empathize with their perspective, opinion, or point of view. _If you haven’t spent time in someone else’s shoes, how can you judge them?_  
 __in someone’s shoes__ If you talk about being in someone’s shoes, you are describing how you would feel or act if you were in the same situation as them. _Stop and think how you would feel if you were in his shoes._ _If I were in her shoes, I’d probably want an explanation._ _If you were in his shoes what would you do?_  
@@ -2885,6 +2888,7 @@ __in the hope that__ With the expectation, intention, or desire that (something 
 __in the hot seat__  
 __in the house__ Present before an audience. Used as an announcement, especially to generate excitement. _We’ve got DJ Kaleem in the house, ready to throw down some sick beats for y’all!_  
 __in the hunt__ In a group of people who are all in pursuit of specific achievement, award, or goal._ Our team is only a few wins shy of securing a playoff spot, and then we’ll be in the hunt for the championship title!_  
+__in the interim__ In the time before something happens; in the meantime.  
 __in the know__ :seven::hammer:  
 __in the lap of the gods__ Decided upon or controlled by luck, chance, or fate; outside of one’s control or influence.  
 __in the last analysis__ When everything has been considered; when all the facts are known or the truth has come to light.  
@@ -2906,7 +2910,7 @@ __in the pipeline__ :dart: In progress or about to be started or implemented. _D
 __in the pocket of (someone)__ Under the direct control or influence of someone or some group.  
 __in the public eye__  
 __in the same mold__ Of or in the same or similar style, fashion, or manner.  
-__in the short run__ Over a relatively brief period of time; in, during, or for the immediate future. Usually used in contrast with the long term or the far future. _While their latest product saw lots of buyers in the short run, they failed to create enough buzz to generate long-term sales._  
+__in the short run__ :two: Over a relatively brief period of time; in, during, or for the immediate future. Usually used in contrast with the long term or the far future. _While their latest product saw lots of buyers in the short run, they failed to create enough buzz to generate long-term sales._  
 __in the short/medium/long term__ During a short/medium/long period of time in the future.  
 __in the sticks__ In the countryside, especially in a rustic or particularly unsophisticated area.  
 __in the thick of it/(something)__ :nine::m: [:sound: in the thick of it] Very busy; in the middle of or preoccupied with something or several things. _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
@@ -2918,12 +2922,13 @@ __in the wake of (something)__ __1__ In the aftermath of something, often as a c
 __in the wild__ In naturally occurring conditions or environments.  
 __in the wind__  
 __in the works__ :four: In progress; being completed or implemented. Being prepared; being planned; being done. _We’ve got a couple life tapings in the works._  
-__in the zone__  
+__in the zone__ :two::hammer:  
 __in their own right__  
 __in theory__ Hypothetically; as a possibility. As opposed to in reality or in practice.  
 __in this day and age__ :two::hammer:  
 __in tow__ :five: __1__ In a condition of being towed: _a car with a trailer in tow._ __2__ Under close guidance; in one’s charge: _The new student was taken in tow by a peer counselor._ __3__ As a companion or follower: _came to dinner with a friend in tow._ _The senator arrived to the press conference with her aides in tow._  
 __in training__  
+__in vain__  
 __in virtue of (something)__ Due to something; because of something; by reason of something.  
 __in voice__ In an ideal state or condition for speaking or singing.  
 __in working order__ Of a machine, functional; not broken.  
@@ -2931,6 +2936,7 @@ __in your birthday suit__ Naked.
 __in your face__ :two::hammer:  
 __in-the-know__  
 __in(to) shape__ In good, robust health; strong or fit.  
+__in/within living memory__ In a recent enough time as to be remembered by people who are alive today. (Usually used in negative statements.) _There hasn’t been a blizzard like this in living memory!_ _The worst heart care crisis in living memory._  
 __incumbent (up)on (someone)__ Imposed or expected as an obligation, duty, or requirement on someone.  
 __inner circle__ A small, exclusive, and intimate group of like-minded people sharing a common goal, pursuit, or purpose.  
 __inopportune moment__ An unfortunate or inconvenient moment in time. _I’m afraid you’ve caught me at an inopportune moment, as I’m just about to leave for the airport._  
@@ -2952,7 +2958,7 @@ __it figures__ :three: It makes sense; it is as I expected or might have guessed
 __it goes without saying__ :five: It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
 __it is not a competition__  
 __it is what it is__ :dart::eight: The situation, circumstance, or outcome has already happened or been decided or established, so it must be accepted even if it is undesirable. _Look, we lost the game, but it is what it is. All we can do is work even harder for the next one._  
-__it remains to be seen__ :two: Something is not yet clear, certain, or known. _It remains to be seen if and when this feature will be released._  
+__it remains to be seen__ :four: Something is not yet clear, certain, or known. _It remains to be seen if and when this feature will be released._  
 __it speaks for itself__  
 __it takes a village__ :four: _proverb_ Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.”  
 __it takes two to tango__ :three::hammer:  
@@ -2970,12 +2976,13 @@ __jacked to the gills__
 __jailbait__ Someone who is attractive but younger than the legal age of consent. _Tom hates hopheads and jailbait jumpers._  
 __jailbreak__  
 __jam-packed__ :three::hammer: (jampacked)  
+__jamming__ _slang_ Awesome; really exciting. _Man, that was an absolutely jamming party!_  
 __jamoke__ :two: The term “jamoke” is a slang word that is used in James Ellroy’s novels to refer to someone who is foolish, inept, or incompetent. It’s a derogatory term that is often used to describe a person who is not very intelligent or capable. The word “jamoke” is derived from the term “java,” which is a slang word for coffee, and “mocha,” which is a type of coffee drink. The combination of these two words created the term “jamoke,” which is used to describe someone who is as weak and insipid as a cup of watered-down coffee. In Ellroy’s novels, the term “jamoke” is often used by the characters to describe someone who is a nuisance or a hindrance, or someone who is not to be taken seriously. It’s a derogatory term that is meant to belittle or mock the person being described.  
 __Jane Doe__ An unidentified woman.  
 __jarring experience__ An experience that creates an acute sense of shock, confusion, or bewilderment. _That car accident was such a jarring experience, I don’t know if I’ll be able to sleep for days._  
 __jaw away__ :dart: To talk incessantly and/or at great length. _Whenever I meet up with Tammy, our “conversation” is always just her jawing away while I listen patiently on._  
 __jaw__  
-__jaw-dropping__ Astonishing or astounding; causing an overwhelming amount of surprise, wonder, or amazement.  
+__jaw-dropping__ :three: Astonishing or astounding; causing an overwhelming amount of surprise, wonder, or amazement.  
 __Jaysus__ Jaysus is an informal, colloquial form of the name Jesus, often used as an exclamation of surprise or frustration in Irish English. _For jaysus sake!_  
 __jazz up__ :two: To make something fancier, more festive, more exciting, etc., often through some form of adornment. _I’ve decided to jazz up my wardrobe with some statement shoes and other funky accessories._ _You need to add some excitement your story—jazz it up a bit._  
 __jazzed__  
@@ -3066,6 +3073,7 @@ __keep one’s eyes peeled__ (keep one’s eyes skinned) To watch vigilantly (fo
 __keep one’s word__ To uphold one’s promise; to do as one says. (The opposite of break one’s word.) _I told her I’d be there to pick her up, and I intend to keep my word._  
 __keep out of sight__ To remain unseen, as by hiding or evasion.  
 __keep pace__ :three::hammer:  
+__keep rolling__ The idiom “keep rolling” means to continue doing something with energy and momentum, similar to how a ball keeps rolling after it’s set in motion.  
 __keep tab(s) (on someone or something)__ :nine::m: [:sound: keep taps on] (keep track (of someone or something)) To monitor someone or something; to follow the activities of someone or something. :es: vigilar _Keep close tabs on problems as they occur._ _I don’t keep tabs on him._ _Ed kept close tabs on his brother._ _Is May keeping nervous tabs on her rivals?_  
 __keep tabs__  
 __keep the ball rolling__ :two::hammer:  
@@ -3094,6 +3102,7 @@ __kick the/(one’s) door down__
 __kick-start__ :two::hammer:  
 __kickback__  
 __kicker__  
+__kicking__ __3__ _slang_ Still alive and active, especially despite old age.  
 __kid around__  
 __kid in a candy store__  
 __kids will be kids__ Kids behave childishly or immaturely by nature, so it is unrealistic to expect otherwise.  
@@ -3164,7 +3173,7 @@ __larger-than-life__
 __lark__ A frolic, a game; thus _larkiness_, a propensity for such pleasures; also used ironically/negatively.  
 __laser focus__ Concentrate one’s attention and effort on a specific task or goal with intense and precise focus, much like a laser beam targets and illuminates a specific point.  
 __lash about__ _Lads lashing about._  
-__lash out__ :seven::hammer:  
+__lash out__ :dart::eight::hammer: __2__ To react with sudden, intense anger.  
 __last burst of fire__ A final effort or attempt, especially as before failure or defeat. _The home team has unleashed one last burst of fire in the final seconds of the game to try and force an overtime showdown._  
 __last but certainly not least__  
 __last chance (for/at/to do something)__ The last or final opportunity to get, have, do, or achieve something.  
@@ -3184,6 +3193,7 @@ __laugh in (one’s) sleeve__ To rejoice or be amused secretly and/or contemptuo
 __laugh lines__  
 __laugh off__ :two::hammer:  
 __laugh something off__ To treat a serious problem lightly by laughing at it. _Although his feelings were hurt, he just laughed the incident off as if nothing had happened._ _He laughed off the incident._  
+__laugh until you cry__ To laugh so intensely that tears come out of one’s eyes. _That comedian was really in rare form last night. I’m not his biggest fan, but he made me laugh until I cried._  
 __laughing in the aisles__ Laughing uproariously or hysterically. (Used especially in the phrase “have someone laughing in the aisles.”)  
 __laundry list__  
 __lavish (someone or something) with (something)__  
@@ -3199,6 +3209,7 @@ __laze about__ To relax or spend time idly; to do nothing or very little. _It’
 __lazy-bones__ A particularly lazy or indolent person. _Come on, lazy-bones, you’ve spent half the day in bed. Time to get up and be productive!_  
 __lead domino__ :two::hammer:  
 __lead nowhere__ To ultimately yield or achieve no useful, beneficial, or successful result or outcome. _This meeting is leading nowhere. We’ve been here for over two hours now and haven’t even been able to come up with a name for our product!_  
+__lead the pack__  
 __lead the way__  
 __lean and mean__ :dart: Fit and ready for hard, efficient work. _Companies are running lean and mean these days._  
 __lean on (someone or something)__  
@@ -3365,6 +3376,7 @@ __lose face__ :two: To lose prestige or respect.
 __lose it__ :three::hammer:  
 __lose no time (in) (doing something)__ To do something immediately or as expediently as possible. _Wow, Sarah lost no time finding a new boyfriend after she and Rob split up._  
 __lose out__ :two: __1__ To miss the chance or opportunity to do something. _Because I was so sick last week, I lost out on the chance to see my sister while she was in town._  
+__lose to (someone or something)__ To be defeated by someone or something. What was lost can be stated between “lose” and “to.” _Samsung takes a big bet on AI after losing top spot to Apple._  
 __lose track of (someone or something)__  
 __lose your train of thought__ To forget what you were talking or thinking about.  
 __loss of face__ The state or circumstance of having lost the respect of other people, as due to having done something improper or unacceptable. _After my terrible loss of face in front of the in-laws, I knew I couldn’t return to their home for the foreseeable future._  
@@ -3401,6 +3413,7 @@ __lust for life__ :two: Intense eagerness to experience all that life has to off
 __lust for power__ Intense, insatiable desire to attain power and control. _My brother’s lust for power in our company has created some deep and bitter divisions between him and the rest of the family._  
 __made of money__ To be very rich.  
 __made to order__ :three::hammer: _Everything on our menu is fresh, made from scratch, and made to order._  
+__magic mushrooms__  
 __magick thinking__  
 __magpie__  
 __mainline__ _n_ __2__ _slang_ An accessible vein that can be used to inject a narcotic.  
@@ -3578,7 +3591,7 @@ __more than meets the eye__ :two::hammer:
 __more/bigger/greater than the sum of its parts__  
 __morning person__  
 __most of the time__ _Most of the time I do my breakfast._  
-__mother hen__ _n_ A person who fusses over others in an overprotective manner.  
+__mother hen__ _n_ :two: A person who fusses over others in an overprotective manner.  
 __mother lode__  
 __mother__ _This mother really works._  
 __mouth breather__ Someone who is dimwitted, foolish, or stupid; someone of low or stunted intelligence. Used as an insult. _That bully is a such a mouth breather, I bet he has the IQ of a rock._  
@@ -3707,7 +3720,7 @@ __no-no__
 __noblesse obligé__ (noblesse oblige) Altruistic, honorable behavior or deeds that are an assumed responsibility of people of nobility or, more broadly, economic privilege. Taken from French, literally meaning “nobility obligates.”  
 __nod off__ :dart:  
 __non sequitur__  
-__non-starter__ __1__ An issue, topic, or person that makes no progress or shows little evidence of future success. _I know you worked really hard on that proposal, but it’s a non-starter—the committee refuses to even consider it._ _You want to be a doctor? Boy, that’s a non-starter—you can’t even handle the sight of blood!_  
+__non-starter__ :two: __1__ An issue, topic, or person that makes no progress or shows little evidence of future success. _I know you worked really hard on that proposal, but it’s a non-starter—the committee refuses to even consider it._ _You want to be a doctor? Boy, that’s a non-starter—you can’t even handle the sight of blood!_  
 __nook and cranny__ Every possible place or part of something, down to the smallest ones.  
 __north of (some number)__ :two: Beyond some number; exceeding some number. _Does Joel really make north of $80,000 a year? Dang, I’m in the wrong business._ _Apple’s App Store grossed north of $70 Billion in 2022._  
 __nose into (something)__ To investigate something; to try to find information about something, especially private, secret, or sensitive matters. _The last thing we need right now are tax auditors nosing into our accounts._  
@@ -3769,6 +3782,7 @@ __nothing short of__ :three: At or near the same level of; equivalent to; exempl
 __nothing to sneeze at__ Not something that should be ignored, dismissed, or treated with disdain; something that is not inconsequential. _She never really had a chance of winning, but the amount of votes she managed to muster is truly nothing to sneeze at._  
 __nothing ventured, nothing gained__ _proverb_  
 __nothing wrong with that__  
+__nothingburger__ [:scroll: From the metaphorical use of a burger missing a patty] _informal_ That which is, seems, or is presented as being important but turns out to be utterly insignificant or unsubstantial. Used especially in reference to politics. Also spelled “nothing burger.” Primarily heard in US.  
 __now (someone) has gone and done it__ Someone has just done something very grave, foolish, and/or irreparable. _Now you’ve gone and done it! My mother’s gonna tan our hides for breaking that!_  
 __now (that) you mention it__ :two: An expression used when one remembers or realizes something because of what the other person has just said. _A: “The weather’s been a bit unpredictable lately, huh?” B: “Now you mention it, I hear there could be a blizzard next week.”_  
 __now we are talking__  
@@ -3883,7 +3897,7 @@ __on the bleeding edge__
 __on the block__  
 __on the books__ Recorded for future reference. _We had the coldest winter on record last year._ _This is the fastest race on record._  
 __on the bright side__  
-__on the brink of (something)__ :two::hammer:  
+__on the brink of (something)__ :three::hammer:  
 __on the button__ Exactly right; in exactly the right place; at exactly the right time.  
 __on the cards__ :two: Very likely or certain to happen, occur, or take place. _They’ve played very well, but it doesn’t look like a championship title is on the cards for this team today._ _She wants to get a promotion but it doesn’t seem to be on the cards right now._  
 __on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
