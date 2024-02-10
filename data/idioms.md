@@ -20,9 +20,11 @@ __(be) careful what you wish for(, (because) you just might get it)__ A warning 
 __(deep) in the weeds__ :dart::two::hammer:  
 __(deep) into the weeds__ :two::hammer:  
 __(down) in the trenches__ :two: The place, situation, or environment in which the most difficult or demanding work takes place.  
+__(every) once in a while__ Occasionally; sometimes.  
 __(first) dibs (on something)__ :dart::three: _slang_ The rights to something, or the rights to have first choice of something. “Dibs” are usually claimed verbally. The word is a shortening of “dibstones,” counters used in an 18th-century children’s game. _I call dibs on the front seat!_ _Hey, I had dibs on being first in line!_ _Sign up for their waitlist to get first dibs!_  
 __(from) cover to cover__ Of a printed work, in its entirety from beginning to end. _I love those books. I read them all cover to cover when I was a kid!_  
 __(good) heavens__  
+__(goodbye) until next time__ A casual valediction to someone whom one will see again at some later point.  
 __(I) hope not__  
 __(I) told you (so)__ :two: I warned you that this would happen; I told you things would turn out this way.  
 __(it’s) (a)bout time__ :six: An expression used to emphasize that something should have occurred a long time ago. It is almost too late!; I’ve been waiting a long time! (Said with impatience.) _So you finally got here! It’s about time!_ _Well, about time you got here—I’ve been waiting for over an hour!_ _It’s about time that high schools taught their students about basic banking and finance._  
@@ -119,7 +121,7 @@ __a cut below__ Of lower quality than or inferior to someone or something else, 
 __a dead clock is correct twice a day__ Even people who are usually wrong can be right sometimes, even if just by accident.  
 __a different ball game__  
 __a different kettle of fish__  
-__a dime a dozen__ Ubiquitous; so abundant or common as to hold little or no value. _In Los Angeles, waiters trying to become famous actors are a dime a dozen._  
+__a dime a dozen__ :two: Ubiquitous; so abundant or common as to hold little or no value. _In Los Angeles, waiters trying to become famous actors are a dime a dozen._  
 __a disaster waiting to happen__  
 __a doozy__ :three: Something remarkable or exceptional, either positively or negatively, when compared to other instances of it.  
 __a double take__  
@@ -168,7 +170,7 @@ __a lean patch__ :two: A period of failure, decline, or poor performance or resu
 __a legend in (one’s) own lifetime__ A person who has an extraordinary level of fame or reputation while he or she is still alive.  
 __a legend in (one’s) own mind__ A person who affects or believes him- or herself to be of greater importance or notoriety than is actually the case. A humorous, ironic twist on the phrase “a legend in one’s own lifetime.”  
 __a lick with the rough side of the tongue__ Severe criticism; a stern reprimand. _I thought my project was fine, but did you hear Ms. Miller’s critique? Boy, that was a lick with the rough side of the tongue!_  
-__a life of its own__ :two: The state of something that exists and thrives outside and beyond the control of the point of origin. _An urban legend can have a life of its own, changing every time it is retold._  
+__a life of its own__ :three: The state of something that exists and thrives outside and beyond the control of the point of origin. _An urban legend can have a life of its own, changing every time it is retold._  
 __a lifeline__ :dart::two: A source of help or means of dealing with a problematic or dangerous situation, especially when one is desperate or unlikely to succeed on one’s own. _The new loan-forgiveness scheme is meant to be a lifeline to those who have no realistic means of paying their debts._  
 __a light bulb goes off in (one’s) head__ :dart: One is suddenly struck with an ingenious or inspired idea, insight, or revelation. In this expression, the phrasal verb “go off” means “turn on” or “become active.” _We spent hours trying to come up with a solution, when suddenly a light bulb went off in my head._  
 __a light-bulb moment__ An instance in which an ingenious idea or insight comes to one all of a sudden. _A light-bulb moment came to me as I was taking a bath the other day._  
@@ -195,6 +197,7 @@ __a necessary evil__
 __a night out__ :two: An evening spent having an enjoyable time away from home, as in a restaurant, theater, bar, or other such locations. _I never knew how much I would miss being able to have a night out once we had kids._  
 __a no-no__ Something, typically an action, that is objectionable or prohibited.  
 __a numbers game__  
+__a pain in the ass__  
 __a people person__ :two: Someone who is particularly gregarious, affable, or outgoing; someone with great interpersonal communication skills. _The new manager is a real people person, there’s no doubting that; I just hope his management skills are up to snuff as well._  
 __a piece of cake__ :two::hammer:  
 __a pipe dream__  
@@ -310,8 +313,9 @@ __all of a sudden__
 __all or nothing__  
 __all over (something)__ :dart: __1__ Actively doing or working on something. _You need this printed out? No worries, I’m all over it._ __2__ Very interested in something. _My daughter is all over tennis these days, so I just signed her up for some lessons._  
 __all over the map__  
-__all over the place<sup>1</sup>__ _adj_ :four: Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
-__all over the place<sup>2</sup>__ _adv_ :two: __1__ Thoroughly; completely. _I took a big piece of paper and then just painted flowers all over the place._ __2__ In multiple directions, sometimes in a random or near random pattern. _They started firing all over the place._ _He poured a big glass of milk but then it spilled all over the place._  
+__all over the place<sup>1</sup>__ _adj_ :five: Inconsistent; lacking a clear pattern; with a large amount of variation. Very scattered or disorganized; ill-conceived. _Boy, that presentation was all over the place. It’s like they wrote it five minutes before taking the stage!_ _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
+__all over the place<sup>2</sup>__ _adv_ :three: __1__ Thoroughly; completely. _I took a big piece of paper and then just painted flowers all over the place._ __2__ In multiple directions, sometimes in a random or near random pattern. _They started firing all over the place._ _He poured a big glass of milk but then it spilled all over the place._  
+__all over the place<sup>3</sup>__ _n_ Everywhere; over a great distance or area. _Now that we’ve graduated, my college friends are all over that place, and I hardly ever see them._  
 __all over__ _Dick jokes all over._  
 __all shapes and sizes__ :three: Many varieties. _These plants come in all shapes and sizes, so I’m sure you’ll find one that fits in your little apartment._  
 __all shook up__  
@@ -334,7 +338,7 @@ __amateur hour__ :two: A result, activity, task, or situation characterized by u
 __amirite__ :two: A comical way of writing “am I right,” an interjection used to foster agreement or stimulate further conversation. _He’s a fool, amirite?_  
 __amount to nothing__ :two: To result in no tangible or appreciable difference.  
 __amount to something__  
-__amount to__ :six::hammer:  
+__amount to__ :seven::hammer:  
 __amp up__ :three::hammer: (amped up, amping up) _Amped-up crowd._  
 __an accident waiting to happen__  
 __an act of God__ A natural disaster, or any similar large-scale event beyond human control. _I don’t care about a little rain—only an act of God will keep us from getting married today._  
@@ -362,7 +366,7 @@ __any way you slice it__
 __anyone’s guess__ Something that no one knows for sure.  
 __anything but__ :two: By no means, not at all. _It is anything but sweet._  
 __anything goes__ :three::hammer:  
-__anytime soon__ :three: In the near future. Often used in negative constructions to convey that it will take a long time for something to happen. _Will this train be leaving anytime soon? We’ve been sitting on the tracks for 20 minutes now._  
+__anytime soon__ :four: In the near future. Often used in negative constructions to convey that it will take a long time for something to happen. _Will this train be leaving anytime soon? We’ve been sitting on the tracks for 20 minutes now._  
 __apeshit__  
 __apple of (one’s) eye__ :two::hammer:  
 __apples and oranges__  
@@ -408,6 +412,7 @@ __ask for trouble__
 __at (long) last__ :three: Finally. Typically said after a long period. _My husband returns from his trip today at last—I’ve missed him so much!_  
 __at (one’s) beck and call__ Completely compliant or obedient to another person; catering to one’s every need. The phrase has a negative connotation. Ready to obey someone’s orders instantly; subject to someone’s slightest whim. _Do you really think I’ll do anything you say? I’m not at your beck and call!_  
 __at (one’s) leisure__ :dart::two: When one has free time; at one’s convenience: _I’ll return the call at my leisure._ _Enjoy coffee at your leisure._  
+__at (one’s) own game__  
 __at a (single) stroke__ All at once, with a single decisive or powerful action. _When the economy crashed, thousands of people lost their jobs, their homes, and their pensions at a single stroke._  
 __at a crossroads__ :dart::four::pencil2: At a point when a choice must be made; at a point of change. _After earning my degree, I’m at a crossroads. I need to figure out which direction my life should take._  
 __at a discount__ _Virtues are held at a discount._  
@@ -456,6 +461,7 @@ __at your leisure__
 __atone for (something)__  
 __attaboy__ :five: (atta boy) An expression of encouragement, support, or approval toward a boy, man, or male animal, used as a standalone interjection before or after a sentence. Largely presumed to be a corruption of the expression “that’s the boy.” _You won the spelling bee? Attaboy!_  
 __auld lang syne__ [At many New Year’s Eve parties, the song “Auld Lang Syne” is played or sung at midnight, as a means of saying farewell to the old year and greeting the new.] Old times, especially those that are remembered fondly. In Scottish, the phrase means “old long since.” _Come on, you’re only in town for a few days—let’s go to dinner for auld lang syne._  
+__avoid (someone or something) like the plague__  
 __aw__ :dart::two::hammer: _interj_ [Sometimes elongated with multiple w’s to add emphasis.]  
 __awash__ _adj_ Drunk.  
 __awesome sauce__ _slang_ Excellent, great, or exceptionally interesting. _I couldn’t take him seriously when he described the movie as being awesome sauce._ _Awesome sauce! I got an A on my midterm!_  
@@ -482,12 +488,14 @@ __back on the horse__
 __back on track__ Continuing as planned or expected, typically after a problem or distraction.  
 __back out (of something)__ :two::hammer: _If he’d had an honorable way to back out of the job, he would have._ _Medtronic backs out of $738M acquisition due to “multiple breaches.”_  
 __back out__  
-__back to back__ :two::hammer:  
+__back to back__ :three::hammer:  
 __back to basics__ :two::hammer:  
+__back to square one__  
 __back to the salt mines__ Back to one’s job or daily work, especially when it is very hard or unpleasant. (Workers in salt mines were often slaves and prisoners.) Sometimes used humorously. _I’m not excited to get back to the salt mines on Monday._  
 __back-of-the-envelope ideas__ Rough ideas.  
 __backbiting__ :dart: The act of saying malicious, nasty, or catty things about someone. _Don’t let her backbiting deter you—she complains about everyone and everything all the time._  
 __backdoor__  
+__backhanded compliment__ :dart: An insulting or negative comment disguised as praise.  
 __backpedal__ :three: To quickly and often abruptly reverse or retreat from one’s position or opinion on a given subject. Refers to pedaling backwards on a bicycle (done to apply the brakes on fixed-gear bikes), or to taking quick, backward steps, as in football or boxing. _The actor had to backpedal when he let slip a racist remark during the press conference._  
 __backslider__ One who reverts or relapses into bad habits, unethical or immoral behavior, or criminal activity. _We’ve tried to help her quit smoking, but she’s a bit of a backslider._  
 __backup plan__ A plan for some alternative or reserve course of action should another plan fail. _It’s important that we have a backup plan in case our funding proposal is not successful._ _Always contemplate a backup plan._  
@@ -523,6 +531,8 @@ __bamboozle__ :dart::three: To cheat, deceive, or take advantage of someone by e
 __banana oil__ _n_ /buh-NAN-uh oyl/ [:scroll: It’s not known why the banana oil earned this sense, although “to go bananas” means to be crazy or wildly enthusiastic. Perhaps the sense arose because the liquid known as banana oil does not involve bananas at all. Instead, it’s a mixture of amyl acetate and cellulose that has a banana-like odor and is used as food flavoring and a solvent. ] __1__ Nonsense. __2__ Insincere talk or flattery.  
 __Band E__  
 __bang for (one’s)/the buck__ :four: A lot of value for little cost. _With no sales tax, Portland gives shoppers a bigger bang for their buck._  
+__bang out__  
+__banger__ When someone calls something a “banger,” it usually means that it’s really good or exciting.  
 __bank on something__  
 __bank on__ :nine: To rely on a future occurrence (even though it might not happen). Rely on, count on. For example, _You can bank on Molly’s caterer to do a good job._ This expression alludes to _bank_ as a reliable storage place for money. To have confidence in; to rely on somebody or something. _Ted was banking on that._ _Fillon can beat Le Pen, but don’t bank on it._ _I’ve really been banking on a holiday bonus this year—I don’t have enough money to buy presents without it._  
 __bank shot__ _sports_ __1__ In basketball, a shot that touches the backboard, then goes into the basket. _Jordan sinks another bank shot for two points, putting the Bulls back in the lead, 89–91._  
@@ -544,6 +554,7 @@ __bats in the belfry__
 __batshit__  
 __batten down the hatches__ To prepare for a challenging situation. While this originated as a nautical phrase, it is now used for any sort of imminent problem. _There’s a tornado coming—batten down the hatches!_  
 __batteries included__ _informal_ I a product usability (mostly in software) it states that the product comes together with all possible parts required for full usability. _A batteries include approach._  
+__battle something out__  
 __bazillion__ A very large, nonspecific number or quantity. _Why do you insist on buying new shoes when you have a bazillion pairs already?_  
 __bbg__ _slang_ An abbreviation for “baby girl,” a term of endearment typically used in text messages or online communication. Almost always written in lower case.  
 __be (all) set (to do something)__ To be ready or about to do something. _I was set to get in the shower when the phone rang._  
@@ -565,6 +576,7 @@ __be a keeper__ :two::hammer:
 __be a long shot__ To be very risky, uncertain, or unlikely to succeed. (Of an attempt, proposition, or guess.) _I know this is a long shot, but would you like to go out on a date with me sometime?_  
 __be a loud mouth__ To have a tendency or habit of speaking incessantly, indiscreetly, and/or in a noisy, boastful manner. _If I had known you were such a loud mouth, I’d have never shared my secret with you!_  
 __be a roaring success__ To be extremely or triumphantly successful.  
+__be a wash__ To have gains and losses that are considered to be equal or offset; to have an outcome of negligible advantage or disadvantage. _The product sold moderately well, but we spent so much on development and marketing that it ended up being a wash._  
 __be all and end all__ (be-all and end-all) The quintessential or all-important element.  
 __be all ears__  
 __be as good as gone__ To be very nearly, inevitably, or for all intents and purposes lost, departed, defunct, or deceased.  
@@ -613,7 +625,9 @@ __be in the hunt__
 __be in the know__ _slang_ To be well-informed, especially about a topic that is not widely known.  
 __be in the wrong__ To have done something incorrect or inappropriate.  
 __be just the same (to someone)__ To make no difference (to someone) one way or another; to be unimportant (to someone) what happens.  
+__be keen about (someone or something)__  
 __be kept in the dark (about something)__ :two: To be kept uninformed (about something); to be excluded from full knowledge or disclosure (of something). _I don’t fully trust John to keep our plan a secret, so I think it best that he be kept in the dark for now._  
+__be kicked to the curb__ :dart: To be discarded, abandoned, or dismissed (as from employment) due to being unwanted, obsolete, or redundant.  
 __be kicked upstairs__ To be promoted to a higher role or position in a company that has little actual responsibility or authority.  
 __be knocking on heaven’s door__ To be dying; to be approaching or very close to death (i.e., about to be admitted into the afterlife).  
 __be left (out) in the cold__ To be ignored, forgotten, or excluded, as from a group, activity, benefit, etc.  
@@ -621,7 +635,7 @@ __be left holding the bag__ :dart::two: To have responsibility or guilt for some
 __be left in the lurch__ To be left or abandoned without assistance in a particularly awkward, difficult, or troublesome situation. (Sometimes written as “left in a lurch.”) _I’ll really be left in the lurch if the manager decides to quit before this project is finished._  
 __be left out in the cold__ :two: To be ignored, forgotten and neglected.  
 __be left to (one’s) own devices__ :two: To be left unsupervised or uncontrolled; to be allowed to do as one pleases. _My job is really great: I know what I need to work on and am just left to my own devices._  
-__be like herding cats__ To be very unwieldy or unmanageable; to be nearly impossible to organize. Usually said of a group of people.  
+__be like herding cats__ :two: To be very unwieldy or unmanageable; to be nearly impossible to organize. Usually said of a group of people.  
 __be like oil and water__ To be incompatible or unable to interact or coexist easily, as due to fundamental differences in personality, opinions, beliefs, etc. _The more I pay attention to the news, the more it seems that politics and common sense are as compatible as oil and water._  
 __be little love lost between (two people)__ Of two people, to dislike one another very much. _There’s little love lost between Sarah and my roommate, so it’ll be a little awkward now that Sarah and I are dating._  
 __be looking for trouble__ To be doing something or acting in a manner that will very likely result in trouble, difficulty, or danger. _I’d keep your mouth shut if you want to keep your job—arguing with the boss like that is just looking for trouble!_  
@@ -662,7 +676,7 @@ __be rained out__ To be delayed, postponed, or cancelled due to the rain. _I was
 __be running on fumes__ To be continuing to operate with no or very little enthusiasm, energy, or resources left. _I’ve been painting the house for four hours every night after work, and I am seriously running on fumes at this point._ _We were running on fumes by the time our team made it to the championship round._  
 __be rushed off (one’s) feet__ :dart: To be exceptionally busy, especially to an exhausting or exasperating degree; to be made to work very hard and very quickly. _We have three parties of 40 scheduled for the dining room this evening, so all of our servers are going to be rushed off their feet._  
 __be shortlisted__  
-__be shown the ropes__ To be taught how to do or perform a job, task, or activity; to have explained or demonstrated how something is done.  
+__be shown the ropes__ :two: To be taught how to do or perform a job, task, or activity; to have explained or demonstrated how something is done.  
 __be sick to death of (someone or something)__ To be or become exceedingly wearied by, bored of, or exasperated with someone or something. _I’m sick to death of doing my boss’s errands. If something doesn’t change soon, I’m going to quit!_  
 __be sitting pretty__ To be in an ideal living situation (typically because one is financially comfortable), or in an advantageous position. _With all the money you inherited from Aunt Myrtle, you’ll be sitting pretty for the rest of your life._  
 __be smashed to smithereens__ To be broken apart or otherwise destroyed into tiny, fragmentary pieces. _I wish I could still go visit our old family home, but it’s already been smashed to smithereens by the demolition crew._  
@@ -673,6 +687,7 @@ __be square (with one)__ :two: To no longer be in dispute or disagreement with o
 __be still in the game__ To remain a contender for success despite setbacks or difficulties.  
 __be stoked__ _slang_ :two: To be very excited or enthusiastic (about someone or something). _I’ve been so stoked about our trip to Europe that I can barely contain myself!_ _Everyone I know is stoked to see the new Roboformers movie next week!_  
 __be taken by surprise__ To be happened upon when one is not ready, prepared, or on guard; to be shocked or startled by someone or something. _I was taken completely by surprise when you showed up at my office this afternoon for lunch. I wish you would have called ahead!_  
+__be the butt of the joke__  
 __be the pits__ To be particularly bad, unfortunate, or awful, especially of a situation or outcome. _Well, this is the pits. I absolutely cannot believe such a huge thunderstorm came through just as we were getting our picnic set up._  
 __be thrilled to death__ To be ecstatic; to be very pleased and excited. _I was thrilled to death to hear that I’d been selected for a literary award in New York City._  
 __be tied (up) in knots__ To be confused, anxious, worried, and/or upset (about something). _I’ve been tied up in knots trying to come up with a good topic for my term paper, but I just can’t think of anything!_  
@@ -733,6 +748,7 @@ __bend the rules__ To allow something to be done which is technically against th
 __best of all__ Used to refer to the most important or appealing part of something that has many good parts. _The machine is easy to use, easy to clean, and best of all, it’s absolutely free when you order these books._  
 __best-kept secret__  
 __bestie__ _slang_ One’s closest friend. _I’m so excited that my bestie is coming to visit this weekend!_  
+__bet the farm__ To risk everything on a venture that one thinks will be successful. Primarily heard in US. _I wouldn’t bet the farm on that wacky invention._  
 __better (to be) safe than sorry__  
 __better late than never__  
 __better the devil you know than the devil you don’t__ _prov_ When faced with two options, it is better to choose the more familiar one, even if it is undesirable. _A: “Why don’t you just quit your job if you’re so miserable?” B: “Who knows if a new job will be any better! Better the devil you know than the devil you don’t.”_  
@@ -774,6 +790,7 @@ __bitter pill to swallow__ An unpleasant fact that you must accept.
 __black and white__ _n_ The police; a black and white police patrol car; any police car. _Call the black and whites. We got trouble here._  
 __black magic__  
 __black sheep__  
+__Black Twitter__ A collective name for the black users on the social media site Twitter.  
 __black__ _n_ _You take sugar, cream? No, thanks, just black._  
 __blank canvas__  
 __blank slate__  
@@ -917,7 +934,7 @@ __buff up__
 __bug off__ _slang_  
 __bug__ __7__ _v_ To annoy, pester, or irritate someone. _I don’t know what it is about Tom, but he just bugs me whenever I’m around him._ _Your kids will be too busy bugging you to buy them cotton candy at the concession._  
 __build a case__ To compile evidence that supports an argument or charges against someone or something.  
-__build bridges__  
+__build bridges__ :two::hammer:  
 __build castles in the air__ (build castles in the sky)  
 __build up__ :two::hammer:  
 __built like a tank__ Having a physique or structure that is strong and physically imposing. _Man, you’re built like a tank! You’d be a great addition to the football team as a linebacker!_  

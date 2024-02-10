@@ -1,28 +1,3 @@
-__(every) once in a while__ Occasionally; sometimes.  
-__(goodbye) until next time__ A casual valediction to someone whom one will see again at some later point.  
-__a dime a dozen__ Ubiquitous; so abundant or common as to hold little or no value.  
-__a life of its own__  
-__a pain in the ass__  
-__all over the place__ :two: __1__ _n_ Everywhere; over a great distance or area. _Now that we’ve graduated, my college friends are all over that place, and I hardly ever see them._ __2__ _adj_ Very scattered or disorganized; ill-conceived. _Boy, that presentation was all over the place. It’s like they wrote it five minutes before taking the stage!_  
-__amount to__  
-__anytime soon__  
-__at (one’s) own game__  
-__avoid (someone or something) like the plague__  
-__back to back__  
-__back to square one__  
-__backhanded compliment__ :dart: An insulting or negative comment disguised as praise.  
-__bang out__  
-__banger__ When someone calls something a “banger,” it usually means that it’s really good or exciting.  
-__battle something out__  
-__be a wash__ To have gains and losses that are considered to be equal or offset; to have an outcome of negligible advantage or disadvantage. _The product sold moderately well, but we spent so much on development and marketing that it ended up being a wash._  
-__be keen about (someone or something)__  
-__be kicked to the curb__ To be discarded, abandoned, or dismissed (as from employment) due to being unwanted, obsolete, or redundant.  
-__be like herding cats__ To be very unwieldy or unmanageable; to be nearly impossible to organize. Usually said of a group of people.  
-__be shown the ropes__  
-__be the butt of the joke__  
-__bet the farm__ To risk everything on a venture that one thinks will be successful. Primarily heard in US. _I wouldn’t bet the farm on that wacky invention._  
-__Black Twitter__ A collective name for the black users on the social media site Twitter.  
-__build bridges__  
 __call (all) the shots__  
 __close the door on (something)__  
 __cold, hard cash__ Dollar bills and coins, as opposed to checks or credit. _The deal won’t go through unless we pay him in cold, hard cash._  
