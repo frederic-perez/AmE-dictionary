@@ -25,10 +25,13 @@ __bajillion<sup>1</sup>__ _n_ An extremely large but unspecified number, quantit
 __bajillion<sup>2</sup>__ _determiner_ Amounting to a bajillion: _a bajillion dollars._  
 __ball valve__ _n_  
 __ballerina flats__ _n_ _Syn_ ballet flats  
+__banter__ _n_ Good-humored, playful, or teasing conversation.  
 __bedsit__ _n_ :es: habitación amueblada; estudio amueblado  
 __bequest__ _n_ /bɪˈkwɛst/  
+__Bhutan__ _n_  
 __Black Panther__  
 __blackhead__ _n_  
+__blanket__ _vt_  
 __blitzkrieg__ _n_  
 __blockade__ _n_ /blɒˈkeɪd/  
 __blowback__ _n_  
@@ -40,6 +43,7 @@ __breach__ _n_ /breach /briːtʃ/
 __bubble__ _v_ _If it bubbles you have a leak._  
 __bullet__ _n_ :mega: /ˈbʊl ɪt/  
 __burgeoning__  
+__burst__ _v_  
 __bustle__ _adj, v_  
 __buttonhole__ _vt_ __3__ To accost and detain (a person) in conversation.  
 __calico__ _adj, n_  
@@ -47,13 +51,16 @@ __cap__ _n informal_ __1__ Capital: _venture cap._ __2__ Capitalization: _market
 __capillary__ _adj, n_  
 __capitulate__ _v_ /kuh-PIH-chuh-layt/  
 __captcha__ _n_ /ˈkæptʃə/  
+__cardioplegia__ _n_ /ˌkɑːdɪəʊˈpliːdʒɪə/ Deliberate arrest of the action of the heart, as by hypothermia or the injection of chemicals, to enable complex heart surgery to be carried out.  
 __cartomancy__ _n_ Fortune-telling by means of playing cards.  
 __cast iron__ _n_ :es: hierro fundido  
 __caucus__ _n_  
 __cluck__ _n_  
 __comfy__ _adj_ /ˈkʌmfɪ/ _informal_ Short for comfortable. _Don’t get too comfy._  
+__compound__ _v_  
 __conundrum__  
 __de rigueur__ _adj_  
+__debrief__  
 __December__ _n_ /dɪˈsɛm bər/  
 __decor__ _n_  
 __deep-routed__ _adj_  
@@ -66,9 +73,10 @@ __despite__ _n, prep_ /dɪˈspaɪt/
 __detour__ _n_  
 __detox__  
 __discharge__ _vt_ __1__ To release or allow to go: _the hospital discharged the patient._  
+__disenfranchise__ _vt_ (disfranchise)  
 __dissatisfaction__ _n_ :pencil2:  
 __dissent__ _n_  
-__docile__ _adj_ /DAH-sul/  
+__docile__ _adj_ :two::hammer: /DAH-sul/  
 __dormitory__ _n_ __1__ A college or university building containing living quarters for students. _Syn_ dorm, residence hall, student residence, hall  
 __downfall__ _n_  
 __dropout__ _n_  
@@ -95,11 +103,13 @@ __eviction__ _n_
 __ex-con__ _n informal_ A former prisoner.  
 __exacerbation__ _n_  
 __exhilarating__ _adj_ /ɪɡˈzɪləˌreɪtɪŋ/  
+__expire__ _v_  
 __expletive__ _adj, n_  
 __explicit__ _adj_ __3b__ Describing or portraying nudity or sexual activity in graphic detail. _AI-generated explicit images of Taylor Swift surfaced on X._  
 __extravagance__ _n_  
 __eye-watering__ _adj_  
 __fallow land__ _n_  
+__fare evasion__  
 __fatal__ _adj_ /ˈfeɪtəl/  
 __fiddle__ _v_  
 __figurehead__ _n_ :two: __1__ A person nominally having a prominent position, but no real authority.  
@@ -114,6 +124,9 @@ __gibe__ _n, v_ (jibe)
 __gratuitous__ _adj_ /gruh-TOO-uh-tuss/  
 __hatred__ _n_ :dart:  
 __head office__ _n_ :es: sede central  
+__hydrophilic__ _adj_  
+__hydroponic__ _adj_  
+__impasse__ _n_  
 __indigen__ _n_ One that is native or indigenous to an area. _Syn_ aborigine, native  
 __intent__ _n_  
 __irredeemably__  
@@ -137,12 +150,14 @@ __motorway__ _n_
 __mount__ _v_  
 __mugging__ _n_ An assault upon a person especially with the intent to rob.  
 __naive__  
+__NATO__ _n_ :mega: /ˈneɪ toʊ/  
 __ne plus ultra__ _n_ /nay-plus-UL-truh/ Ne plus ultra refers to the highest point of development or success that something may achieve; it is a synonym of acme. _The company’s latest electric car is being hailed as the ne plus ultra of automotive achievement._  
 __nebula__ _n_ /ˈnɛb yə lə/  
 __omen__  
 __one-on-one__ _adj, adv_ __2__ Involving a direct encounter between one person and another.  
 __onside kick__ _n_ Short kick-off that travels just far enough to be recoverable by the kicking team.  
 __otolaryngology__ _n_ _Syn_ otorhinolaryngology  
+__ouster__ _n_  
 __outweigh__ _v_  
 __overalls__ _n pl_  
 __overdue__ _adj_ Not being on time. _Syn_ behindhand, belated, late, tardy  
@@ -151,10 +166,13 @@ __paravalvular__ _adj_ Surrounding or adjacent to a heart valve.
 __pareidolia__ _n_ The perception of a recognizable image or meaningful pattern where none exists or is intended, as the perception of a face in the surface features of the moon.  
 __penny candy__ _n_ Inexpensive candy originally costing a penny apiece.  
 __pergola__ _n_ An arbor or a passageway of columns supporting a roof of trelliswork on which climbing plants are trained to grow. _Syn_ arbor, bower  
+__pestered__  
+__picturesque__  
 __pleb__ _n_ /plɛb/  
 __plunge__ _v_ /plʌndʒ/  
 __poised__ _adj_ /pɔɪzd/  
 __prescient__ _adj_  
+__Presley__ _n_ /ˈprɛs li, ˈprɛz-/  
 __price__ _vt_ __1__ To fix or establish a price for: _shoes that are priced at sixty dollars._  
 __prognosticate__ _v_ /prahg-NAHSS-tuh-kayt/  
 __prominent__ _adj_ __3__ Widely known; eminent: _a prominent poet._  
@@ -172,6 +190,7 @@ __refractory__ _adj_ Obstinately resistant to authority or control. _Syn_ fracti
 __reitetate__  
 __relinquish__ _v_ /rɪˈlɪŋ kwɪʃ/  
 __remark__ _n_ /rɪˈmɑrk/  
+__renewal__ _n_  
 __respondent__ _n_ /rɪˈspɒn dənt/  
 __rest__ _n_ __13__ (Billiards & Snooker) Any of various special poles used as supports for the cue in shots that cannot be made using the hand as a support.  
 __resurgence__ _n_  
@@ -193,11 +212,16 @@ __slight__ _vt_ :dart: __1__ To show indifference or disregard for (someone); sn
 __snooker__ _n_ __2__ A shot in which the cue ball is left in a position such that another ball blocks the object ball. The opponent is then usually forced to play the cue ball off a cushion.  
 __soar__ _vi_ __2__ To increase or improve suddenly above the normal or usual level: _Sales soared. Our spirits soared._ _Syn_ rise  
 __soon enough__ _adv_ Without being tardy.  
+__spat__ _n_  
 __speed dial__ _n_ A function on a telephone that automatically dials stored telephone numbers.  
 __spider__ _n_ __9__ (Billiards & Snooker) A rest having long legs, used to raise the cue above the level of the height of the ball.  
 __squarely__ _adv_ /ˈskwɛəlɪ/ __1__ In a direct way; straight: _he hit me squarely on the nose; walked squarely toward the shoplifter and arrested him._  
 __stagnant__ _adj_  
 __stalk__ _v_  
+__timetable__ _n_  
+__underpin__ _vt_  
+__uneasy__ _adj_  
+__vegetate__ _v_ __3b__ To engage in relaxing or passive activities, such as watching television: _stayed home and vegetated last night._  
 __wrenching__ _adj_ Causing great physical or mental suffering. _ABC News went through a wrenching round of layoffs._  
 __wriggle__ _v_  
 __wring__ _v_ _It pays to wring your hands at least a little bit._  
