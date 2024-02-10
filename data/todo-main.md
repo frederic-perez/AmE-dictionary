@@ -1,28 +1,3 @@
-__abash__ _v_  
-__ableism__ _n_ :astonished: Discrimination or prejudice against people with disabilities, especially physical disabilities.  
-__adduce__ _vt_  
-__agonist__ _n_ :astonished:  
-__all-or-nothing__ _adj_  
-__alleviate__  
-__almanac__ _n_  
-__amalgamate__ _v_  
-__amp up__ _v_  
-__amyloidosis__ _n_ /ˌæmɪlɔɪˈdəʊsɪs/  
-__anachronistic__ _adj_ Chronologically misplaced. _Syn_ anachronous  
-__anaphora__ _n_  
-__anecdata__ _n_  
-__aplomb__ _n_ /əˈplɒm, əˈplʌm/  
-__archivist__ _n_ /ˈɑr kə vɪst, -kaɪ-/  
-__aspect__ _n_ __5__ A side or surface facing in a particular direction: _the ventral aspect of the body._  
-__assembly__ _n_ :mega: /əˈsɛmblɪ/  
-__attrition__ _n_ /əˈtrɪʃən/  
-__atypia__ _n_  
-__aver__ _vt_ :two::astonished: (averred) To assert formally as a fact. _Syn_ allege, say _For as my conscience does not accuse me, I aver that I am not a criminal._  
-__backdrop__ _n_  
-__bailiff__ _n_  
-__bailiwick__ _n_ /BAY-lih-wik/ Bailiwick refers to the domain or sphere in which someone has superior knowledge or authority. _Fundraising events are his bailiwick._  
-__bajillion<sup>1</sup>__ _n_ An extremely large but unspecified number, quantity, or amount: _They’ll sell a bajillion of these._  
-__bajillion<sup>2</sup>__ _determiner_ Amounting to a bajillion: _a bajillion dollars._  
 __ball valve__ _n_  
 __ballerina flats__ _n_ _Syn_ ballet flats  
 __banter__ _n_ Good-humored, playful, or teasing conversation.  

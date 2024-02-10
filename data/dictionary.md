@@ -47,6 +47,7 @@ __abalone__ _n_ :two::hammer:
 __abandon__ _n_ :two::astonished: /uh-BAN-dun/ Abandon means “a feeling or attitude of wild or complete freedom,” and is often used synonymously with enthusiasm and exuberance. It also appears in the phrase _with reckless abandon_ to describe something done without fear or concern for consequences. Freedom from inhibitions, restraint, concern, or worry: _she danced with abandon._ _Netflix is spending with abandon._ _In an act of reckless abandon, she quit her job and moved to Tahiti._  
 __abase__ _v_ _To abase a King and leave him on the throne has its dangers._  
 __abasement__ _n_  
+__abash__ _v_  
 __abashed__ _adj_ :five: Ill at ease, embarrassed, or confused; ashamed.  
 __abasiophilia__ _n_  
 __abate__ _v_ :five::hammer: _The plague abated during the winter._ _The brothers returned as the plague abated._  
@@ -69,7 +70,7 @@ __abide__ _v_ :six: /uh-BYDE/ Abide is often used in negative constructions, suc
 __abject__ _adj_ :six: /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
 __abjection__ _n_  
 __abjure__ _v_ :four: To renounce under oath; forswear. _Syn_ recant, retract, resile _For nearly 21 years after his resignation as Prime Minister in 1963, he abjured all titles, preferring to remain just plain “Mr.”_  
-__ableism__  
+__ableism__ _n_ :astonished::two: Discrimination or prejudice against people with disabilities, especially physical disabilities.  
 __abligurition__ _n_ /uh-blig-yoo-RISH-uhn/ [:scroll: From Latin abligurire (to squander on delicacies), from ab- (away) + ligurire (to be dainty), from lingere (to lick).] Extravagance, especially in matters of food and drink. Prodigal expense for food.  
 __ablutions__  
 __abnegate__ _vt_ :two: /AB-nih-gayt/ __1__ To give up (rights or a claim, for example); renounce. __2__ To deny (something) to oneself: _The minister abnegated the luxuries of life._  
@@ -209,7 +210,7 @@ __added value__ _n_ :two::hammer:
 __addle__ _v_ :four::hammer: (addled) _He’s addled and we shall tend him._  
 __address<sup>1</sup>__ _n_ :two::mega: /əˈdrɛs, ˈæd rɛs/ _The Emperor heard an address of welcome by his host._  
 __address<sup>2</sup>__ _v_ :five::hammer::mega: /əˈdrɛs/ _A multitude of problems need to be addressed._  
-__adduce__ _v_ To offer as example, reason, or proof in discussion or analysis.  
+__adduce__ _vt_ :two: To offer as example, reason, or proof in discussion or analysis.  
 __adenoidal__  
 __adenosine__ _n_  
 __adequacy__  
@@ -337,7 +338,7 @@ __aglow__ _adj, adv_
 __agnostic__ _adj_ :two::hammer:  
 __agog__ _adj_ :two: Highly excited by eagerness, curiosity, anticipation, etc.  
 __agonal__ _adj_ Relating to agony, especially before death. _Agonal breathing._  
-__agonist__ _n_ :three: /ˈæg ə nɪst/ __3__ One involved in a struggle or competition.  
+__agonist__ _n_ :astonished::four: /ˈæg ə nɪst/ __3__ One involved in a struggle or competition.  
 __agonistic__ _adj_ :pencil2: Striving to overcome in argument.  
 __Agpar__ _n_ (Agpar score) A method of assessing a newborn’s health. Also known as Apgar score. After anesthesiologist Virginia Apgar (1909-1974) who devised it.  
 __agrarian__  
@@ -425,6 +426,7 @@ __all-hands meeting__ _n_ :dart: A meeting that every employee in a company or d
 __all-inclusive__ _adj_ _All-inclusive package._  
 __all-knowing__ _adj_ _Not even the all-knowing Google has a definitive answer to my question._  
 __all-nighters__ _n_  
+__all-or-nothing__ _adj_  
 __all-out__ _adj_ :three: Using all available resources. _Syn_ full-scale _Holding nothing back, the candidate launched an all-out attack on his critics._ _All-out military battle._  
 __all-pro__ _adj_ Chosen as one of the best players within a league. Used chiefly in the National Football League. _The Browns all-pro receiver._  
 __all-round__ _adj_ __1__ Efficient in all respects, esp in sport; versatile: _an all-round player._ __2__ Comprehensive; many-sided; not narrow: _an all-round education._  
@@ -436,7 +438,7 @@ __alleged__ _adj_ /əˈlɛdʒd, əˈlɛdʒ ɪd/
 __allegedly__ _adv_ :four: /əˈlɛdʒɪdlɪ/ __1__ Reportedly; supposedly: _payments allegedly made to a former colleague._ __2__ _sentence modifier_ It is alleged that.  
 __allegory__ _n_ A visible symbol representing an abstract idea. _Syn_ emblem _The blindfolded figure with scales is an allegory of justice._  
 __allergens__  
-__alleviate__ _vt_ :three::hammer: /uh-LEE-vee-ayt/  
+__alleviate__ _vt_ :four::hammer: /uh-LEE-vee-ayt/  
 __alleviative__ _adj_ Moderating pain or sorrow by making it easier to bear. _Syn_ lenitive, mitigative, palliative _After the blacksmith burned his hand, he applied an alleviative salve to lessen the searing pain._  
 __alley-oop__ _n_  
 __allies__ _n_  
@@ -456,7 +458,7 @@ __allusion__ _n_ :two: Allusion is the act of casually referencing something, us
 __ally<sup>1</sup>__ _n_ /ˈæl aɪ, əˈlaɪ/  
 __ally<sup>2</sup>__ _v_ /əˈlaɪ/  
 __alma mater__ _n_ A school, college, or university at which one has studied and, usu., from which one has graduated.  
-__almanac__ _n_ An annual publication devoted to the facts and statistics of a given subject. You might consult a sports almanac for the coming year’s scheduled games, or information on your favorite (or least favorite) player.  
+__almanac__ _n_ :two: An annual publication devoted to the facts and statistics of a given subject. You might consult a sports almanac for the coming year’s scheduled games, or information on your favorite (or least favorite) player.  
 __almond__ _adj, n_ :two::mega::mute:[a~~l~~mond]:hammer:  
 __almoner__ _n_ :es: limosnero  
 __almost surely__ _adv_ _(probability theory)_ With probability equal to one. _Apple almost surely will succeed in upgrading its security._  
@@ -490,6 +492,7 @@ __alum__ _n informal_ :four: An alumna or alumnus. _A Vanderbilt alum._
 __aluminum__ _n_ :four::pencil2::hammer:  
 __alumni__ _n pl_ :two::hammer:  
 __amalgam__  
+__amalgamate__ _v_  
 __amaranth__ _n_ __2__ An imaginary flower that never fades.  
 __amass__ _v_ :five::hammer::pencil2: (amassed, amassing) :es: amontonar, acumular  
 __amatory__ _adj_ Of, relating to, or expressive of love, especially sexual love. _Syn_ amorous, romantic _She showed her friends the stack of old love letters and read them excerpts from the couple’s amatory correspondence._  
@@ -537,7 +540,7 @@ __ammonia__ _n_ :two::hammer: :es: amoníaco
 __amnesty player__  
 __amnesty__ _n_ :pencil2:  
 __amok__ _adv_ __1__ In a violently raging, wild, or uncontrolled manner. __2__ In a murderously frenzied state.  
-__amp up__ _vt_ :three::hammer: (amped up, amping up)  
+__amp up__ _vt_ :four::hammer: (amped up, amping up)  
 __amp__ _n_ _Amps & alcohol._  
 __amped-up__ _adj informal_ :four: (amped up) Filled with intense energy and excitement.  
 __ampersand__ _n_ [:scroll: Alteration of and per se and, & (the sign) by itself (means) and. n the early 1800s, school children reciting their ABCs concluded the alphabet with the &. It would have been confusing to say “X, Y, Z, and.” So, the students said, “and per se and.”] The character or sign (&) representing the word _and_.  
@@ -550,9 +553,10 @@ __ampoule__ _n_ :two: (ampul, ampule) A glass or plastic vessel used for storing
 __amusement park__ _n_ :three::hammer:  
 __amusia__ _n_ :three::hammer: _Cochlear amusia._  
 __amygdala__ _n_ :two::hammer:  
+__amyloidosis__ _n_ /ˌæmɪlɔɪˈdəʊsɪs/  
 __amylum__ _n_ A complex carbohydrate found chiefly in seeds, fruits, tubers, roots and stem pith of plants, notably in corn, potatoes, wheat, and rice. _Syn_ starch :es: almidón _She was on a strict diet and avoided foods with high levels of amylum, sugar, and saturated fat._  
 __anachronism__ _n_ :two: /uh-NAK-ruh-niz-um/ __1__ An error in which something in a movie, story, etc., is placed in a time where it does not belong. _A number of the film’s critics complained about the multiple anachronisms in the historical drama._ __2__ A person or a thing that seems to belong to the past and to not fit in the present. _He’s an old-fashioned politician who is seen by many of his colleagues as an anachronism._  
-__anachronistic__ _adj_ /h-nak-ruh-NIS-tik/  
+__anachronistic__ _adj_ :two: /h-nak-ruh-NIS-tik/ Chronologically misplaced. _Syn_ anachronous  
 __anacronym__ _n_ /an-AK-ruh-nim/ An acronym or abbreviation whose expansion is not widely known.  
 __anaesthetic__  
 __anal bleaching__ _n_  
@@ -561,7 +565,7 @@ __analgesic__ _n_ A medicine used to relieve pain. _Syn_ anodyne, painkiller _An
 __analogue__ _n_ Something that bears an analogy to something else. _Syn_ parallel _Surimi is marketed as an analogue of crabmeat._  
 __analogy__ _n_ An analogy is a comparison between two similar things, typically using figurative language. Metaphors and similes—more on them later—are usually considered to be types of analogies. Sometimes, analogies are considered to be a unique device that is a comparison that explains itself; basically, a complex metaphor or long simile. Example: Life is like a box of chocolates: you never know what you are going to get.  
 __analyst__ _n_ :pencil2:  
-__anaphora__ _n_ :three: Anaphora is the repetition of a word or words at the start of phrases, clauses, or sentences. Example: I came, I saw, I conquered. Martin Luther King Jr’s “I Have A Dream” speech is a classic example of anaphora.  
+__anaphora__ _n_ :four: Anaphora is the repetition of a word or words at the start of phrases, clauses, or sentences. Example: I came, I saw, I conquered. Martin Luther King Jr’s “I Have A Dream” speech is a classic example of anaphora.  
 __anaphylaxis__ _n_  
 __anastomosis__ _n_ :three: __2__ (Medicine) The surgical connection of separate or severed tubular hollow organs to form a continuous channel, as between two parts of the intestine.  
 __anastrophe__ _n_ :two: /uh-NAS-truh-fee/ [:scroll: From ana- (back) + strophe (turning)] The inversion of the usual order of words.  
@@ -579,7 +583,7 @@ __and-a-one, and-a-two...__
 __Andean condor__ _n_ A very large vulture found in the Andes Mountains.  
 __andirons__  
 __andragogy__ _n_ The art or science of teaching adults. The methods or techniques used to teach adults.  
-__anecdata__ _n_ An ad hoc portmanteau for anecdotal evidence that is used as data in an attempt to prove a hypothesis.  
+__anecdata__ _n_ :two: An ad hoc portmanteau for anecdotal evidence that is used as data in an attempt to prove a hypothesis.  
 __anecdotage__ _n_  
 __anecdotal__ _adj_ :three::hammer::mega:  
 __anecdotally__  
@@ -710,7 +714,7 @@ __apiary__ _n_ :two: A place where bees and beehives are kept, especially a plac
 __apiece__ _adv_ /əˈpiːs/  
 __aping__  
 __aplenty__ _adj, adv_ :three::hammer:  
-__aplomb__ _n_ :dart::eight: /uh-PLAHM/ Self-confidence or assurance, especially when in a demanding situation. Self-confident assurance; poise. _Syn_ assuredness, sang-froid, cool _Diana passed the test with aplomb._ _The defense attorney smiled with an air of aplomb, knowing that his client’s acquittal was all but assured._ :es: aplomo  
+__aplomb__ _n_ :dart::nine: /əˈplɒm, əˈplʌm/ /uh-PLAHM/ Self-confidence or assurance, especially when in a demanding situation. Self-confident assurance; poise. _Syn_ assuredness, sang-froid, cool _Diana passed the test with aplomb._ _The defense attorney smiled with an air of aplomb, knowing that his client’s acquittal was all but assured._ :es: aplomo  
 __apnea__ _n_ :four::mega: Temporary cessation of breathing. _Sleep apnea._  
 __apocalypse__ _n_ /uh-POK-uh-lips/ __1__ The destruction of the world. __2__ Any widespread destruction or disaster. __3__ A massive, decisive conflict. __4__ A prophecy.  
 __apocryphal__ _adj_ :three::pencil2: /uh-PAH-kri-fuhl/ [:scroll: From Latin apocryphus (secret), from Greek apokruphos (secret, hidden), from apokruptein (to hide away), from apo- (away) + kruptein (to hide).] __1__ Of dubious authorship or authenticity. Of doubtful authenticity: spurious. __2__ False; erroneous; fictitious.  
@@ -809,7 +813,7 @@ __Archimedes__ _n_ :mega:
 __archipelago__ _n_ :five::hammer::mega::pencil2: _Archipelago nation._ _The Philippine archipelago._  
 __architect__ _n, v_ :two::hammer::mute:[arc~~h~~itect] _He architected the first mesh optical network._  
 __architecture__ _n_ :mega:  
-__archivist__  
+__archivist__ _n_ :two::hammer: /ˈɑr kə vɪst, -kaɪ-/  
 __archnemesis__  
 __archpriest__ _n_  
 __archrival__ _n_  
@@ -908,6 +912,7 @@ __askance__ _adv_ :three::astonished: /uh-SKANSS/ __1__ With disapproval or dist
 __askew__ _adj_ /uh-SKYOO/ Askew means “out of line” or “not straight.” _Sam noticed the picture hanging on the wall was askew so she straightened it._  
 __asp__ _n_  
 __asparagus spears__ _n_ _BrE_ /əˈspærəɡəs spɪəz/ The succulent young shoots _of Asparagus officinalis_, which may be cooked and eaten.  
+__aspect__ _n_ __5__ A side or surface facing in a particular direction: _the ventral aspect of the body._  
 __aspen__ _n_ :five::hammer: _Quaking aspen._ _Aspens turn the canyon golden by the end of September._ :es: chopo  
 __Asperger’s syndrome__ _n_ :two::hammer:  
 __asperity__ _n_ Harshness of manner; ill temper or irritability. _Syn_ sharpness  
@@ -922,6 +927,7 @@ __assault__ _n_ :two::hammer:
 __assay<sup>1</sup>__ _n_  
 __assay<sup>2</sup>__ _v_ /a-SAY/  
 __assembly line__ _n_ :five::hammer:  
+__assembly__ _n_ :mega: /əˈsɛmblɪ/  
 __assert__ _v_  
 __asses__ _n pl_ :two::hammer:  
 __assess__ _vt_ :three::hammer: (assessed)  
@@ -1011,10 +1017,11 @@ __attract__ _v_
 __attribute noun__ _n_ (noun adjunct) In grammar, a noun adjunct or attributive noun or noun (pre)modifier is an optional noun that modifies another noun; it is a noun functioning as a pre-modifier in a noun phrase. For example, in the phrase “chicken soup” the noun adjunct “chicken” modifies the noun “soup.”  
 __attrite<sup>1</sup>__ _adj_ Regretting one’s wrongdoing only because of the fear of punishment.  
 __attrite<sup>2</sup>__ _vi/t_ (attrit) /uh-TRIT/ __1__ To wear down, erode, or weaken through sustained attacks, friction, etc. __2__ To reduce the size of a workforce by not replacing those who leave. __3__ To drop out from a course of study, job, training, etc.  
-__attrition__ _n_ :nine: Erosion by friction. _Syn_ corrasion, detrition, abrasion _The attrition of the stone stairway had occurred by centuries of foot traffic._ __2a__ A gradual reduction in number or strength because of stress or military action. _War of attrition._  
+__attrition__ _n_ :nine::m: /əˈtrɪʃən/ Erosion by friction. _Syn_ corrasion, detrition, abrasion _The attrition of the stone stairway had occurred by centuries of foot traffic._ __2a__ A gradual reduction in number or strength because of stress or military action. _War of attrition._  
 __attune__ _vt_ :three::hammer:  
 __attuned__ _adj_ :two: Familiar with something and able to deal with it in a sensitive way.  
 __atwitter__ _adj_ Being in a state of nervous excitement; twittering: _a crowd atwitter with expectation._  
+__atypia__ _n_  
 __atypical__ _adj_ :three::hammer: _Atypical atrial flutter._  
 __au gratin__ _adj_ Covered with bread crumbs and sometimes butter and grated cheese, and then browned in an oven: _potatoes au gratin._  
 __au pair__  
@@ -1067,7 +1074,7 @@ __avalanche__ _n_ :two::hammer:
 __avarice__ _n_ Immoderate desire for wealth. _Syn_ cupidity, covetousness, avariciousness  
 __avenge__ _vt_  
 __avent__ _n_  
-__aver__ _v_ :two::hammer:  
+__aver__ _vt_ :four::astonished: (averred) To assert formally as a fact. _Syn_ allege, say _For as my conscience does not accuse me, I aver that I am not a criminal._  
 __average citizens__  
 __average Joe__ _n_ _slang_ :two: An ordinary man.  
 __average__ _n_ :mega: /ˈævərɪdʒ; ˈævrɪdʒ/  
@@ -1192,11 +1199,13 @@ __bagman__ _n_ _Bill is a bag man for corrupt officials._
 __bail out__ _phr v_ :six: To pay for someone’s release from jail.  
 __bail skip__  
 __bail__ _v_ :two::hammer: _Do not bail after only two days!_  
-__bailiff__ _n_ :four::pencil2::hammer: (bailiffs) :es: alguacil  
-__bailiwick__ _n_ :four::hammer:  
+__bailiff__ _n_ :five::pencil2::hammer: (bailiffs) :es: alguacil  
+__bailiwick__ _n_ :five: /BAY-lih-wik/ Bailiwick refers to the domain or sphere in which someone has superior knowledge or authority. _Fundraising events are his bailiwick._  
 __bailout__ _n_ :four::hammer:  
 __bait and switch__ _n_  
 __bait__ _v_ _A trap baited by a devil._  
+__bajillion<sup>1</sup>__ _n_ An extremely large but unspecified number, quantity, or amount: _They’ll sell a bajillion of these._  
+__bajillion<sup>2</sup>__ _determiner_ Amounting to a bajillion: _a bajillion dollars._  
 __bake in__ _v_  
 __bake sale__ _n_ A fund-raising event at which usually homemade foods (such as cakes and cookies) are sold.  
 __bake__ _v_ _Baking bread._  
