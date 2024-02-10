@@ -4,9 +4,12 @@ __a dime a dozen__ Ubiquitous; so abundant or common as to hold little or no val
 __a life of its own__  
 __a pain in the ass__  
 __all over the place__ :two: __1__ _n_ Everywhere; over a great distance or area. _Now that we’ve graduated, my college friends are all over that place, and I hardly ever see them._ __2__ _adj_ Very scattered or disorganized; ill-conceived. _Boy, that presentation was all over the place. It’s like they wrote it five minutes before taking the stage!_  
+__amount to__  
+__anytime soon__  
 __at (one’s) own game__  
 __avoid (someone or something) like the plague__  
 __back to back__  
+__back to square one__  
 __backhanded compliment__ :dart: An insulting or negative comment disguised as praise.  
 __bang out__  
 __banger__ When someone calls something a “banger,” it usually means that it’s really good or exciting.  
@@ -19,6 +22,8 @@ __be shown the ropes__
 __be the butt of the joke__  
 __bet the farm__ To risk everything on a venture that one thinks will be successful. Primarily heard in US. _I wouldn’t bet the farm on that wacky invention._  
 __Black Twitter__ A collective name for the black users on the social media site Twitter.  
+__build bridges__  
+__call (all) the shots__  
 __close the door on (something)__  
 __cold, hard cash__ Dollar bills and coins, as opposed to checks or credit. _The deal won’t go through unless we pay him in cold, hard cash._  
 __collude with (someone or something)__  
@@ -45,6 +50,7 @@ __double-edged sword__
 __drum roll, please__  
 __eat dirt__  
 __eat shit__  
+__edge out__ __1__ To surpass, overtake, or defeat someone or something, especially by a narrow margin or degree. A noun or pronoun can be used between “edge” and “out.”  
 __EGOT__ An abbreviation for “Emmy, Grammy, Oscar, Tony,” referring to the rare feat of winning the major awards in television, music, film, and theater. _Elton John joins elite EGOT ranks with Emmy win. John is only the 19th person to have achieved EGOT status (Whoopi Goldberg, Viola Davis, and Mel Brooks are some of the others)._  
 __end (something) on a high note__  
 __enough is enough__  
@@ -53,6 +59,7 @@ __failure is not an option__
 __far and wide__  
 __fast track__  
 __faux pas__  
+__feast your eyes (on somebody/something)__  
 __feel (some emotion) about (someone or something)__ To feel a particular emotion in response to or about someone or something.  
 __feel-good__ Creating, promoting, or relating to an often superficial or specious sense of happiness, well-being, or satisfaction.  
 __ferret out__ To discover or retrieve something, usually with careful effort. A noun or pronoun can be used between “ferret” and “out.” _Now that I’m a successful actress, I’m worried about what the media will ferret out about my tawdry past._  
@@ -77,6 +84,7 @@ __game-changer__
 __get wind of (something)__  
 __give and take__  
 __give credit where credit is due__  
+__glass ceiling__  
 __go cold turkey__  
 __go on a spree__  
 __go to great lengths (to do something)__ To put in a lot of effort, energy, or work to achieve something.  
@@ -93,17 +101,28 @@ __have (one’s) plate full__
 __have (something) to do__ To have some task or action that one must complete or undertake.  
 __have a go (at someone or something)__  
 __he-man__ A particularly strong, tough, and/or virile male, especially one who likes to flaunt his strength.  
+__head-to-head__ Describing a one-on-one matchup or comparison.  
 __heavy-footed__ Clumsy, ponderous, or lumbering in gait or tread. _The team’s star striker deftly navigated the ball past the heavy-footed defenseman._  
 __hell week__ A week in which new recruits or pledges of an organization, especially a college fraternity or sorority, are subjected to a series of hazing rituals prior to initiation.  
 __henpecked__ Of a man, thoroughly and continually dominated, intimidated, bullied, or browbeaten by a woman, especially his wife or girlfriend. _John used to be the most adventurous, spontaneous guy I knew, but since he got married, he’s become totally henpecked._  
 __Hip, hip, hooray!__  
 __hit (something) out of the (ball)park__ To do or perform something extraordinarily well; to produce or earn an exceptional achievement. An allusion to a baseball that is hit hard enough to land outside the stadium. _Great job on that report, Jacobs—you really hit it out of the park!_  
+__if you ask me__  
+__in due time__ :dart: Eventually; in an expected or reasonable duration of time. _You’ll get a promotion in due time. Just keep working hard._  
+__in sight__ Close to happening or being achieved. A noun or pronoun can be used between “in” and “sight.”  
+__in the hope of__ With the expectation, intention, or desire of (something or something happening).  
+__learning curve__  
+__not going anywhere__ “Not going anywhere” is commonly used to convey that something or someone is unchanging, persistent, or not making progress.  
+__on the face of it__  
 __open-minded__ Interested in and willing to accept new ideas, thoughts, opinions, etc.  
+__out of the box__ __2__ Outside of or beyond what is considered usual, traditional, or conventional. (A less common shortening of “outside (of) the box.”)  
 __pecking order__  
 __prop up__  
 __put (someone or something) to the test__  
 __put all of your eggs in one basket__  
 __raise (ones) voice__ To speak or shout loudly, especially out of anger. _I know you’re upset, but there’s no need to raise your voice._  
+__red line__  
+__revolving door__  
 __rule the roost__ To have the most control or authority in a group. _Both of our parents were tough, but Mama was as tough as an old shoe, who ruled the roost without saying a word._  
 __save (something) for a rainy day__  
 __seeing is believing__  
@@ -117,6 +136,8 @@ __skibidi__ _slang_ A nonsense word or sound without a specific meaning.
 __skimp on (something)__  
 __slam__ __1__ _vt_ To criticize someone or something.  
 __slip up__  
+__slow and steady wins the race__  
+__slowly but surely__  
 __sound asleep__ :two::hammer:  
 __spell out__  
 __spill over__  
@@ -126,7 +147,7 @@ __stand by someone__
 __stat__ __2__ Right away; without delay. A shortening of the Latin term “statim,” used especially in medicine (or as a parody of such usage). _I’m losing the patient. I need 10 CCs of epinephrine, stat!_ _Uh oh, I’m starting to feel sober. I need a pint and a shot of whiskey, stat!_  
 __stave off__  
 __stay put__  
-__stay tuned__  
+__stay tuned__ :two::hammer:  
 __step aside__ :dart:  
 __step down__  
 __step in__ To enter into some position, activity, or situation to intervene or improve it.  
@@ -142,6 +163,7 @@ __studette__ The female version of a stud. A girl that can get any guy she wants
 __swear by__ _Sam Altman swears by coffee every morning._  
 __sweep down on (someone or something)__  
 __take a step back__  
+__take over__  
 __take the stage__  
 __taken aback__ Startled, astonished, shocked, or disconcerted.  
 __talk (one’s) ear(s) off__ To talk so much as to cause one to be exhausted or bored.  
@@ -149,6 +171,7 @@ __the bitter end__
 __the latest__ _What’s the latest?_  
 __the straw that broke the camel’s back__ :two: A seemingly small or inconsequential issue, problem, or burden that proved to be the final catalyst in causing an overworked or overburdened person, system, organization, etc., to fail, give up, or collapse.  
 __think long and hard__ :dart:two: To give very careful and thorough consideration (to something).  
+__time and (time) again__  
 __touch down__  
 __victory lap__ An act of pride or celebration that follows a great achievement or success.  
 __wake-up call__  
@@ -160,6 +183,7 @@ __with a bang__ :three::hammer:
 __with a heavy hand__ __1__ In an excessive, authoritarian, or oppressive way or manner. _The police dispersed the protesters with a heavy hand._  
 __with a vengeance__ _Die Hard with a Vengeance._  
 __with flying colors__  
+__within reach__  
 __within reason__  
 __wrack (one’s) brain(s)__  
 __wrap up__  
