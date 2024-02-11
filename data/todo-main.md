@@ -48,31 +48,6 @@ __despite__ _n, prep_ /dɪˈspaɪt/
 __detour__ _n_  
 __detox__  
 __discharge__ _vt_ __1__ To release or allow to go: _the hospital discharged the patient._  
-__disenfranchise__ _vt_ (disfranchise)  
-__dissatisfaction__ _n_ :pencil2:  
-__dissent__ _n_  
-__docile__ _adj_ :two::hammer: /DAH-sul/  
-__dormitory__ _n_ __1__ A college or university building containing living quarters for students. _Syn_ dorm, residence hall, student residence, hall  
-__downfall__ _n_  
-__dropout__ _n_  
-__drupe__ _n_  
-__ductal__ _adj_ /ˈdʌktəl/ Relating to a duct or tube-like structure in the body that carries bodily fluids.  
-__Dunning-Kruger effect__ _n_ A hypothetical cognitive bias stating that people with low ability at a task overestimate their ability.  
-__earthly__ _adj_  
-__edge__ _v_  
-__egregious__ _adj_  
-__electric shock__ _n_  
-__Emancipation Proclamation__  
-__embolden__ _vt_  
-__emote__ _v_ /ih-MOHT/ To emote is to express emotion in a very dramatic or obvious way. _He stood on the stage, emoting and gesturing wildly._  
-__empty talk__ _n_  
-__enact__  
-__entertain__ _vt_ __3a__ To consider; contemplate: _entertain an idea._  
-__epicure__ _n_ /EP-i-kyoor/ [:scroll: After the ancient Greek philosopher Epicurus (341-270 BCE), who advocated simple pleasures and a calm mind (ataraxia). With time, his teachings were distorted as focusing on sensual pleasures.] __1__ A person with refined taste, especially in food or wine. __2__ A person devoted to sensual pleasure.  
-__epilepsy__ _n_ /ˈɛpɪˌlɛpsɪ/ /ˈɛp əˌlɛp si/  
-__epiphany__ _n_ /ɪˈpɪfənɪ/  
-__equate__ _v_ /ɪˈkweɪt/  
-__ethos__ _n_  
 __evict__ _vt_ /ɪˈvɪkt/  
 __eviction__ _n_  
 __ex-con__ _n informal_ A former prisoner.  

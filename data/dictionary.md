@@ -5139,8 +5139,7 @@ __disembody__ _v_ (disembodied)
 __disempower__ _vt_ :two: To deprive of power or influence.  
 __disenchanted__  
 __disendowment__ _n_  
-__disenfranchise__  
-__disenfranchised__  
+__disenfranchise__ _vt_ :three::hammer: (disfranchise)  
 __disengage__ _v_ :three::hammer:  
 __disengaged__ _adj_ _Syn_ unconnected, separate, apart, detached, unattached _Diane felt somewhat disengaged from those around her._  
 __disfavor__  
@@ -5211,7 +5210,7 @@ __disquisitition__ _n_ :pencil2:
 __disrupt__ _v_ :three::hammer: _A Trump supporter disrupted a Broadway musical._  
 __disruption__ _n_ :two::hammer:  
 __diss__ _v_ _slang_ To insult someone, to treat someone with disrespect. Origin: by 1980, shortening of disrespect or dismiss, originally in U.S. Black English, popularized by hip hop.  
-__dissatisfaction__ _n_ :four::hammer::pencil2:  
+__dissatisfaction__ _n_ :five::hammer::pencil2:  
 __dissatisfied__ _adj_ :four::pencil2: Feeling or exhibiting a lack of contentment or satisfaction.  
 __dissatisfy__ _v_ :three::hammer: (dissatisfied)  
 __dissection__ _n_ _Dissections in coronary vessels._  
@@ -5219,7 +5218,7 @@ __dissed__ _v_ _Rubio had dissed the Bible._
 __dissemble__ _v_ :six::astonished: /dih-SEM-bul/ (Not to be confused with: disassemble – take to pieces; take apart) Talk or act hypocritically; disguise or conceal. Dissemble is a formal word that means “to conceal facts, feelings, or intentions with deceptive explanations, reasons, etc.” It’s frequently used as a gentler way to say “lie.” _Syn_ disguise, cloak, mask, pretend  
 __disseminate__ _v_ :two::pencil2::hammer:  
 __dissension__ _n_ :four::dart::hammer:  
-__dissent__ _n_ :four::hammer:  
+__dissent__ _n_ :five::hammer:  
 __dissenter__ _n_ :three: A person who dissents from some established policy. _Syn_ objector, dissident, protester, contestant _There is not mat space for malcontents or dissenters._  
 __disservice<sup>1</sup>__ _n_ :seven::hammer::pencil2:  
 __disservice<sup>2</sup>__ _v_  
@@ -5287,7 +5286,7 @@ __doable__ _adj_ _It was not a lot of time but it was doable._
 __Doberman__ _n_ A large dog of a German breed with powerful jaws and a smooth coat, typically black with tan markings.  
 __doc__ _n_ _informal_ :two::hammer: (doc)  
 __docent__ _n_ :five: (docents)__2__ A knowledgeable guide, esp. one who conducts visitors through a museum, cathedral, art gallery, etc. _Special docent-guided tours can be arranged in advance._  
-__docile__ _adj_ __1__ Easily taught. __2__ Easily led or managed.  
+__docile__ _adj_ :three: /DAH-sul/ __1__ Easily taught. __2__ Easily led or managed.  
 __docked__ _v_  
 __docket__ _n_ :dart::six: A list of things to be done. _Syn_ agenda, schedule  
 __doctor__ _vt_ :five: __3a__ To falsify or change in such a way as to make favorable to oneself: _doctored the evidence._ _Imagine if a doctored video of a politician appeared the day before an election._ _A photograph doctored by his aides._  
@@ -5386,6 +5385,7 @@ __dork__ _n_ :four: (dorks) __1__ _slang_ A stupid, inept, or foolish person. A 
 __dorm__ _n_  
 __dormant__ _adj_ :four::hammer: /ˈdɔːmənt/ (dormient) __1__ Quiet and inactive, as during sleep. __2__ Latent or inoperative.  
 __dormer__ _n_ :camera:  
+__dormitory__ _n_ __1__ A college or university building containing living quarters for students. _Syn_ dorm, residence hall, student residence, hall  
 __dornick__ _n_ A small stone that is easy to throw.  
 __dorsal__ _adj_ Relating to or found on the back of a fish or animal.  
 __dossier__ _n_ :mega: /ˈdɒs iˌeɪ, ˈdɔ siˌeɪ/  
@@ -5444,6 +5444,7 @@ __downdraft__ _n_ :two: (downdrafts) A downward current, as of air.
 __downed__ _v_ _Terrorists had downed a Russian plane in October._  
 __downer__ _n_ :four::hammer: (downers)  
 __downey__ _adj_  
+__downfall__ _n_  
 __downhearted__ _adj_  
 __downhill<sup>1</sup>__ _adv_ :camera::three: __1__ Down the slope of a hill. __2__ Toward a lower or worse condition: _The alcoholic’s health went downhill fast._ _David Bowie dead, and it was all downhill from there._  
 __downhill<sup>2</sup>__ _adj_ Sloping downward; descending.  
@@ -5574,7 +5575,7 @@ __drop out__
 __drop__ _n_  
 __drop-by__ _n_ A brief visit, especially (politics) for the purpose of attracting voters or motivating one’s staff. _Drop-by performers._  
 __drop-in__ _adj_ Provided for short-term use: _a drop-in center for runaways._  
-__dropout__ _n_  
+__dropout__ _n_ :two::hammer:  
 __dropping hands__  
 __droppings__ _pl n_ :two::hammer:  
 __dross__ _n_ __1__ _metallurgy_ The scum or unwanted material that forms on the surface of molten metal. __2__ Waste or foreign matter. _Syn_ impurity __3__ Something that is base, trivial, or inferior. _There is quite a lot of dross on TV these days._  
@@ -5599,7 +5600,7 @@ __drumbeat__ _n_ _Their drumbeat of criticism._
 __drumfire__ _n_ Heavy, rapid, and continuous gunfire, the sound of which resembles rapid drumbeats.  
 __drumroll__ _n_  
 __drumstick__ _n_ :astonished: __1__ A stick for beating a drum. __2__ The meaty leg of a chicken, turkey, or other fowl.  
-__drupe__ _n_  
+__drupe__ _n_ :two::hammer:  
 __druthers__ _n informal_ :two: /ˈdrʌð ərz/ One’s own way, choice, or preference. A free choice or preference. It is often used in the phrase _if one had one’s druthers._ _If I had my druthers, I’d dance all night._  
 __dry age__ _v_  
 __dry goods__ _n pl_ Textiles, clothing, and related articles of trade. Also called _soft goods._ _Dry goods store._  
@@ -5625,6 +5626,7 @@ __duckweed__
 __ducky__ _adj_ _slang_ Excellent; fine.  
 __duct tape__ _n_ A strongly adhesive silver-gray cloth tape, used in plumbing, household repairs, etc.  
 __duct__ _n_ _They damaged a very large AT&T phone duct._  
+__ductal__ _adj_ /ˈdʌktəl/ Relating to a duct or tube-like structure in the body that carries bodily fluids.  
 __ductile__ _adj_ :two::hammer:  
 __dud<sup>1</sup>__ _n informal_ :eight: (duds, dudly) __1__ A thing that fails to work properly or is otherwise unsatisfactory or worthless. _The winners and the duds._ _A high-grade collection, not a dud in the lot._ __2__ Clothes. _Buy yourself some new duds._ _Contemporary duds for women and men alike._ _Stylish duds._ :es: prendas de vestir  
 __dud<sup>2</sup>__ _v_  
@@ -5667,6 +5669,7 @@ __dung fork__ _n_
 __dung__ _n, v_  
 __dungaree__ _n_ :eight: (dungarees) A sturdy, often blue denim fabric. _Syn_ jean, denim _The men in black dungarees stood motionless._  
 __dunk tanks__  
+__Dunning-Kruger effect__ _n_ A hypothetical cognitive bias stating that people with low ability at a task overestimate their ability.  
 __dunno__  
 __duo__  
 __dupe__ _n_ _A dupe of a president._  
@@ -5739,6 +5742,7 @@ __earring__ _n_ :three::pencil2: An ornament worn on or suspended from the ear, 
 __earth-shattering__  
 __earthing__ _n_ Fastening electrical equipment to earth.  
 __Earthling__ _n_  
+__earthly__ _adj_  
 __earthquake drill__  
 __earthshine__ _n_ :two: The sunlight reflected from the earth’s surface that illuminates part of the moon not directly lighted by the sun. Also called earthlight.  
 __earthworks__ _n_  
@@ -5788,7 +5792,7 @@ __edacious__ _adj_ Characterized by voracity; devouring. _Syn_ ravenous, voracio
 __edamame__ _n_  
 __eddy__ _v_ _Water eddies and cascades._  
 __edema__ _n_ An excessive accumulation of serous fluid in tissue spaces or a body cavity.  
-__edge__ _v_ :four: Advance slowly, as if by inches. _He edged closer to the door._ _A Swiss startup is edging closer to collecting space trash._  
+__edge__ _v_ :dart::five: Advance slowly, as if by inches. _He edged closer to the door._ _A Swiss startup is edging closer to collecting space trash._  
 __edgy__ _adj_ :five::hammer: _Aaron has got a style that’s humble but edgy._  
 __edible<sup>1</sup>__ _adj_ Fit to be eaten, especially by humans. Eatable usually means good to eat.  
 __edible<sup>2</sup>__ _n_  
@@ -5834,7 +5838,7 @@ __egomaniac__
 __egotism__ _n_  
 __egotistical__ _adj_ :four: Characteristic of those having an inflated idea of their own importance.  
 __egotists__  
-__egregious__ _adj_ :nine::m: /ih-GREE-juss/ /ih-gree-juhs, -jee-uhs/ Something that is egregious stands out, but not in a good way — it means “really bad or offensive.” If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game. Extraordinary in some bad way; glaring; flagrant: _an egregious mistake; an egregious liar._  
+__egregious__ _adj_ :dart::nine::m: /ih-GREE-juss/ /ih-gree-juhs, -jee-uhs/ Something that is egregious stands out, but not in a good way — it means “really bad or offensive.” If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game. Extraordinary in some bad way; glaring; flagrant: _an egregious mistake; an egregious liar._  
 __egress<sup>1</sup>__ _n_ :four::hammer:  
 __egress<sup>2</sup>__ _vi_ :two: To go out; emerge.  
 __egret__ _n_ :seven: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
@@ -5867,6 +5871,7 @@ __eldest__ _adj_
 __eldritch__ _adj_ :three: /EL-dritch/ Eerie; weird; spooky. Suggesting the operation of supernatural influences. _Syn_ uncanny, weird, unearthly  
 __Election Day__  
 __elective__ _n_ _Other students can take up to four fine arts electives._  
+__electric shock__ _n_  
 __electrical flex__ _n_  
 __electrical outlet__ _n_ (outlet, electrical socket, plug, wall plug)  
 __electrocute__ _vt_  
@@ -5901,6 +5906,7 @@ __Elysium__ _n_ /i-LIZH-ee-uhm/ A place of perfect happiness.
 __emaciate__ _v_ :six::hammer: (emaciated) _Emaciated cancer patient._  
 __emaciated__ _adj_ Abnormally thin.  
 __emancipate__ _v_ :two: Free from slavery or servitude.  
+__Emancipation Proclamation__  
 __emancipation__ _n_ :two: /ih-man-suh-PAY-shun/ Emancipation is the act of freeing someone from the restraint, control, or power of another. It is especially used for the act of freeing someone from slavery. _Jomo Kenyatta played a key role in the emancipation of Kenya from European rule in the 1960s and became the first president of the newly independent nation._  
 __emasculated__ _adj_ (of a male animal) Having the testicles removed.  
 __embankment__  
@@ -5919,7 +5925,7 @@ __embitterment__
 __emblazon__ _v_ /im-BLAY-zun/ To emblazon something is to decorate its surface, usually with a name, slogan, or picture. _Her favorite souvenir from her trip to the Grand Canyon was a t-shirt emblazoned with a rosy sunset over the famous chasm._  
 __embodiment__  
 __embody__ _v_ :three::hammer:  
-__embolden__ _v_ :three::hammer:  
+__embolden__ _vt_ :four::hammer:  
 __embolic__ _adj_ :two: __1__ Of, relating to, or caused by an embolus or an embolism. __2__ Of or relating to emboly.  
 __embolization__ _n_ __2__ Therapeutic introduction of a substance into a vessel in order to occlude it.  
 __embrace__ _v_ :six::hammer: (embraced) _The best role models embrace their flaws._ _Embrace people as they are._  
@@ -5947,7 +5953,7 @@ __emo__ _n_ :three: Rock music characterized by confessional lyrics about emotio
 __emoji__ _n pl_  
 __emollient__ _adj_ :six: (Medicine) Any preparation or substance that has a softening or soothing effect, esp when applied to the skin. _Syn_ demulcent, salving, softening _In the winter, she applied emollient cream to her hands to prevent the skin from cracking._ _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._  
 __emolument__ _n_ /ih-MAHL-yuh-munt/ An emolument refers to money, gifts, or perquisites that someone receives due to their job or position. _Jenna has contributed countless volunteer hours to the organization and continues to refuse any emolument for her work._  
-__emote__ _vi_ :four::hammer:  
+__emote__ _vi_ :five: /ih-MOHT/ To emote is to express emotion in a very dramatic or obvious way. _He stood on the stage, emoting and gesturing wildly._  
 __empathetic__  
 __empennage__ _n_ The rear part of an airplane or airship, usu. comprising the stabilizer, elevator, vertical fin, and rudder. _Syn_ tail _The pop superstar is so vain that she had her likeness plastered across her private jet’s empennage._  
 __emphasis__  
@@ -5958,6 +5964,7 @@ __empirical__ _adj_ :two: /im-PEER-uh-kul/ Relying on or derived from observatio
 __emporium__ _n_ :three::astonished: A large retail store, especially one selling a great variety of articles.  
 __Empress__  
 __emprise__ _n_ [:scroll: Emprise descends from the Anglo-French word _emprendre_, meaning “to undertake.’] An adventurous, daring, or chivalric enterprise.  
+__empty talk__ _n_  
 __empty-handed__ _adj_  
 __empty-net/power-play/short-handed goal__  
 __emulate__ _v_  
@@ -6056,6 +6063,7 @@ __ensuite<sup>1</sup>__ _n_ :two: A bathroom connected to a bedroom; a private b
 __ensuite<sup>2</sup>__ _adj_ Connected to a bedroom.  
 __entail<sup>1</sup>__ _v_ :nine::m: /ɪnˈteɪl/ __1__ To have, impose, or require as a necessary accompaniment or consequence: _The investment entailed a high risk._  
 __entail<sup>2</sup>__ _n_  
+__entertain__ _vt_ __3a__ To consider; contemplate: _entertain an idea._  
 __enthrall__ _v_ :six: (enthralled, enthralling) /in-THRAWL/ Enthrall means “to hold the attention of someone by being very exciting, interesting, or beautiful,” or in other words, “to charm.” It is often used in its past participle form, as in _“I was enthralled by the beauty of the landscape.”_ To hold spellbound; captivate: _The magic show enthralled us._  
 __enthralling__ _adj_ :two::hammer:  
 __enthuse__ _v_ :nine::m: (enthused, enthusing) __1__ To speak with or show enthusiasm. __2__ To cause to become enthusiastic. _It has enthused fans._ :es: entusiasmar; entusiasmarse  
@@ -6099,16 +6107,16 @@ __epenthesis__ _n_ The insertion of a vowel or consonant into a word to make its
 __ephemera__ _n_ :two::hammer: /i-FEM-uhr-uh/  
 __ephemeral<sup>1</sup>__ _adj_ :six: /ɪˈfɛmərəl/ /ih-FEM-uh-rul/ /ih-fem-er-uhl/ [:scroll: From Greek ephemeros (short-lived), from epi- (upon) + hemera (day).] Lasting a very short time; short-lived; transitory. _Syn_ fugacious, passing, short-lived, transitory, transient _Spare me in my ephemeral happiness, leave it to me for a few days, for a few minutes._  
 __ephemeral<sup>2</sup>__ _n_ :two: /ih-fem-er-uhl/ Anything short-lived, as certain insects.  
-__epicure__ _n_ :two: A person devoted to refined sensuous enjoyment (especially good food and drink). One with sensitive and discriminating tastes especially in food or wine. _Syn_ gastronome, bon vivant, foodie, gourmet  
+__epicure__ _n_ :three: /EP-i-kyoor/ [:scroll: After the ancient Greek philosopher Epicurus (341-270 BCE), who advocated simple pleasures and a calm mind (ataraxia). With time, his teachings were distorted as focusing on sensual pleasures.] __1__ A person with refined taste, especially in food or wine. A person devoted to refined sensuous enjoyment (especially good food and drink). __2__ A person devoted to sensual pleasure. One with sensitive and discriminating tastes especially in food or wine. _Syn_ gastronome, bon vivant, foodie, gourmet  
 __epicurean<sup>1</sup>__ _adj_ :five: /ɛpɪkjʊˈriːən/ (Epicureans) __1__ Devoted to sensual pleasures, esp food and drink; hedonistic. __2__ Suitable for an epicure: _an epicurean feast._ Displaying luxury and furnishing gratification to the senses. _Syn_ sybaritic, luxuriant, voluptuous _I starved myself all day to make sure I would have room for the epicurean feast that was to be my dinner._  
 __epicurean<sup>2</sup>__ _n_ /ɛpɪkjʊˈriːən/  
 __epidemic__ _n_ Notice: _n_!  
 __epidural__ _n_  
 __epigram__ _n_  
 __epigraph__ _n_ :two: An inscription on a building or statue; quotation at the beginning of a book or chapter.  
-__epilepsy__ _n_ _Risks of cerebral palsy and epilepsy._  
+__epilepsy__ _n_ :two::hammer: /ˈɛpɪˌlɛpsɪ/ /ˈɛp əˌlɛp si/ _Risks of cerebral palsy and epilepsy._  
 __epilogue__ _n_ :mega: (epilog)  
-__epiphany__ _n_ :seven::hammer::mega: /ɪˈpɪf ə ni/  
+__epiphany__ _n_ :eight::hammer::mega: /ɪˈpɪf ə ni/  
 __Episcopalian__  
 __epistaxis__ _n_ A nosebleed.  
 __epistolary__ _adj_ Relating to the writing of letters.  
@@ -6125,6 +6133,7 @@ __Equality State__ _n_ WY, Wyoming.
 __equalize__ _v_ :two::hammer: (equalizing) _Tottenham came close to equalizing in the second half._  
 __equalizer__ _n_ :two: __3__ A score that makes the match even.  
 __equanimity__ _n_ The quality of being calm and even-tempered. _Syn_ calmness, composure _Because she was prepared for the news, she was able to respond with equanimity._  
+__equate__ _v_ /ɪˈkweɪt/  
 __equerries__  
 __equestrian<sup>1</sup>__ _adj_  
 __equestrian<sup>2</sup>__ _n_  
@@ -6202,7 +6211,7 @@ __etchings__
 __ether__ _n_ The element believed in ancient and medieval civilizations to fill all space above the sphere of the moon and to compose the stars and planets. _Syn_ quintessence _The stars, the ancients believed, both inhabited and were composed of the ether._  
 __ethereal__ _adj_  
 __ethereality__ _n_  
-__ethos__ _n_ :nine::m: /ˈi θɒs, ˈi θoʊs, ˈɛθ ɒs, -oʊs/ The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement. _They cultivated a subversive alternative ethos._ _The ethos of employees helping one another has stayed strong._ _The D.I.Y. ethos._ _The militaristic ethos of SWAT._ :es: espíritu, escala de valores  
+__ethos__ _n_ :dart::nine::m: /ˈi θɒs, ˈi θoʊs, ˈɛθ ɒs, -oʊs/ The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement. _They cultivated a subversive alternative ethos._ _The ethos of employees helping one another has stayed strong._ _The D.I.Y. ethos._ _The militaristic ethos of SWAT._ :es: espíritu, escala de valores  
 __etiology__  
 __etiquette__ _n_ :two: /ET-ih-kut/ Etiquette refers to the rules of proper and polite behavior that are expected in social or official life.  
 __etymological__ _adj_ _Etymological dictionaries show how languages borrow words from each other._  
