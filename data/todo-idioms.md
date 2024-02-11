@@ -48,31 +48,6 @@ __fill up__
 __finagle__  
 __five o’clock shadow__  
 __flat-out__  
-__flatline__ _slang_ To die or come very close to death.  
-__floor (one)__ To cause one a great deal of shock, surprise, or disbelief.  
-__fly the coop__  
-__follow someone’s lead__ To do as someone else does; to accept someone’s guidance; to follow someone’s direction.  
-__follow suit__  
-__fool around__  
-__for better or (for) worse__ :two: Whether something is good or bad.  
-__for better or for worse__  
-__for days on end__ (for weeks on end)  
-__for its own sake__  
-__for starters__  
-__freak out__  
-__friendly reminder__ “Friendly reminder” is an idiomatic expression that means “a gentle reminder” or “a polite reminder.” It’s a way of reminding someone about something in a non-confrontational or friendly way.  
-__fuss about__  
-__game-changer__  
-__gee__ /dʒi/  
-__get wind of (something)__  
-__give and take__  
-__give credit where credit is due__  
-__glass ceiling__  
-__go cold turkey__  
-__go on a spree__  
-__go to great lengths (to do something)__ To put in a lot of effort, energy, or work to achieve something.  
-__gosh darn__ Euphemistic form of _goddamn._  
-__gully washer__ An extremely heavy rainstorm that usually lasts a short amount of time.  
 __gun-shy__  
 __gut-wrenching__ Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one’s feelings. _What a gut-wrenching loss for the young athlete, who poured her heart and soul into this match._  
 __gyatt__ A slang exclamation of surprise or excitement. Gyatt is most commonly used as an exclamation in reaction to seeing a large butt (that is, the buttocks) and may be used as a noun to mean a large butt.  

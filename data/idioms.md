@@ -1795,13 +1795,14 @@ __flash__ :two: __1__ _v_ _slang_ To expose one’s nudity indecently. _She flas
 __flat out__  
 __flat-earther__  
 __flat-footed__ :dart::three: __1__ Slow to react. Unprepared. Often used in the phrase “caught flat footed.” _That goal was my fault, guys. I got caught flat-footed on the play._  
-__flatline__ :two: _slang_ To die or come very close to death. The “flat line” in question is a straight, horizontal line on an electrocardiogram or electroencephalogram indicating a lack of heart or brain activity. _The patient flatlined and we were unable to resuscitate. Time of death was 18:56._  
+__flatline__ :three: _slang_ To die or come very close to death. The “flat line” in question is a straight, horizontal line on an electrocardiogram or electroencephalogram indicating a lack of heart or brain activity. _The patient flatlined and we were unable to resuscitate. Time of death was 18:56._  
 __flesh out__ :two::hammer:  
 __flick off__ :dart: _He flicked off the light._  
 __flimflam__  
 __flip on__ :dart: To turn something on, typically a switch. A noun or pronoun can be used between “flip” and “on.” _As soon as I flipped on the light, I could see that the house had been robbed._ _He flipped on the radio._  
 __float (one’s) boat__ To make someone happy. Often used in the phrase “whatever floats (one’s) boat.” _A: “What do you want for dinner?” B: “Whatever floats your boat, I’m not even hungry.”_ _I think this new job in the lab will really float Isabel’s boat._  
 __flog a dead horse__  
+__floor (one)__ To cause one a great deal of shock, surprise, or disbelief.  
 __floored__ :four: __1__ Shocked or flabbergasted. _I was completely floored by Rob’s declaration of love—I had no idea he felt that way about me!_ __2__ _slang_ Struck and knocked to the floor. _Can you believe that bully got floored by such a scrawny kid?_ __3__ _slang_ Drunk. _Do you remember last night at the bar at all? You were really floored!_  
 __flop__ :two: __1__ A failure. _The play was a flop. The entire audience left during the second act._  
 __flophouse__ _slang_ An inexpensive, shabby place of lodging. _Ew, we can’t stay in a flophouse like that, no matter how cheap it is. It’s probably infested with bedbugs!_  
@@ -1813,18 +1814,21 @@ __fly in the face of someone or something__
 __fly in the ointment__ :three: Something that spoils or hinders a proceeding, especially when not anticipated. A flaw or imperfection that detracts from something positive. _The only fly in the ointment in an otherwise perfect wedding day was the fact that the bride tripped when walking down the aisle._  
 __fly off the handle__ To lose self control, to get very angry.  
 __fly on the wall__ :four::hammer:  
+__fly the coop__  
 __fly under (the/someone’s) radar__ :three: To go without being noticed, detected, or addressed. _A: “Have you heard this band’s latest album?” B: “I didn’t even know it was out, it must have flown under my radar.”_  
 __flyboy__ _slang_ A pilot or other member of an air force.  
 __foam at the mouth__ :two: To be extraordinarily angry. _She was almost foaming at the mouth when she heard about the cost of the car repairs._  
 __folderol__ Nonsense or foolishness. _His explanation is total folderol and doesn’t answer the question at all._  
 __follow (someone or something) in stride__ To follow the direction, lead, or guidance (of someone or something); to act in accordance (with someone or something); to follow suit.  
 __follow in someone’s footsteps__ To do the same thing as someone else did previously.  
-__follow suit__ :dart::eight: To do the same thing as others, especially by following their example. The phrase comes from card games, where there are four “suits” (diamonds, hearts, spades, and clubs). _The people in front of us began to file out of the auditorium, and we followed suit._  
+__follow someone’s lead__ To do as someone else does; to accept someone’s guidance; to follow someone’s direction.  
+__follow suit__ :dart::nine: To do the same thing as others, especially by following their example. The phrase comes from card games, where there are four “suits” (diamonds, hearts, spades, and clubs). _The people in front of us began to file out of the auditorium, and we followed suit._  
 __FOMO__ _slang_  
 __fond of (someone or something)__ Having an affinity for someone or something. _I’m not too fond of Mike—he really annoys me sometimes._  
 __food baby__ :four: A large amount of food in one’s stomach from having just eaten a big meal, especially when it is protruding (and thus resembles the belly of one who is pregnant). _Don’t take any pictures right now, my stomach is huge! I totally have a food baby!_  
 __food coma__ :three::hammer:  
 __food for thought__ :three: An event, a remark, a fact, etc. which should be considered very carefully because it is interesting, important, etc: _The lectures were very interesting and gave much food for thought._ _That meeting really gave me food for thought—I might invest in their company after all._  
+__fool around__  
 __fool with (someone or something)__  
 __fool’s errand__ :three: A task that has little to no chance of being successful or beneficial. _Giving the baby a bath before he eats spaghetti is a fool’s errand._ _It would be a fool’s errand for anyone inside the party to primary him._  
 __foot and mouth__ _Gardens in 2001 were unfortunately cancelled due to the outbreak of foot and mouth._  
@@ -1833,13 +1837,14 @@ __for (one’s) (own) good__ :two: For one’s benefit, even though it may not b
 __for a song__ For a very (and perhaps surprisingly) low price. _Wow, I can’t believe they let so many things at their yard sale go for a song. I would have marked up the prices a bit._  
 __for all intends and purposes__ :three::hammer:  
 __for all seasons__ :two: __1__ Suitable in or appropriate for every kind of weather. _A coat for all seasons._ __2__ Adaptable to any circumstance. _A singer for all seasons._  
-__for better or (for) worse__ :eight: Under good or bad circumstances, with good or bad effect.  
+__for better or (for) worse__ :nine::m: Under good or bad circumstances, with good or bad effect. Whether something is good or bad.  
 __for certain__ Definitely.  
 __for crying out loud__ :four: A expression of frustration or surprise.  
-__for days on end__ :seven: (for hours on end, for years on end) For a long time, specifically many days.  
+__for days on end__ :eight: (for hours on end; for weeks on end; for years on end) For a long time, specifically many days.  
 __for good reason__  
 __for good__ :four::hammer: _Leadville’s only hospital is preparing to close for good in March._ _The magazine was gone for good._ _She left him for good this time._  
 __for hours on end__ For a long time, specifically many hours. _When do you think the doctor will call with my test results? I’ve been waiting for hours on end._  
+__for its own sake__  
 __for keeps__ :three: __1__ For a very long period of time, possibly forever. _I’m sorry, but you’re stuck with me. As my husband, you have me for keeps._ __2__ For one to maintain or take ownership of. _I would have returned the mug to you sooner, but I thought you gave it to me for keeps._ __3__ With determination to do or complete something. _This is it, girls, the last game of the season. So go out there and play for keeps._  
 __for kicks__  
 __for no good reason__ With no acceptable explanation. _She left for no good reason._  
@@ -1848,6 +1853,7 @@ __for peanuts__ For a very paltry or minuscule amount of money; for nearly no mo
 __for Pete’s sake__  
 __for real__ :two: _North American informal_ Used to assert that something is genuine or is actually the case.  
 __for someone (or something’s) sake__ _For comparison’s sake, it hit 90 twice here all of last July._  
+__for starters__  
 __for that matter__ :three: Besides; in addition. _If you’re hungry, take one of my doughnuts. For that matter, take two._  
 __for the ages__ :four: That will stand the test of time; that will be remembered or regarded for years to come. _A comeback for the ages._ _A year for the ages._ _He put together a run for the ages._  
 __for the better__ _My luck did not change for the better upon arrival at the bank._  
@@ -1875,7 +1881,7 @@ __fraught with anxiety__
 __fraught with danger__  
 __freak flag__ :two: Any unconventional, nonconformist, or uninhibited behavior, convictions, opinions, or lifestyle choices that are unique to an individual. _My high school literature teacher taught me to always be true to myself and to wear my freak flag proudly._  
 __freak of nature__ Something or someone that is unusual, rare, or abnormal in some way; beyond or outside the natural world. _He can lift over 500 pounds in the gym, he’s like some freak of nature._  
-__freak out__ :two::hammer: (freak someone out)  
+__freak out__ :three::hammer: (freak someone out)  
 __free bit of advice__ A suggestion, opinion, or piece of advice that was unrequested or unsolicited by the recipient.  
 __free lunch__ [:scroll: This expression, dating from the early 1800s, alludes to the practice of taverns offering free food to their customers to induce them to buy more drinks.] A gift or benefit for which no return is expected.  
 __free pass__  
@@ -1892,6 +1898,7 @@ __Freudian slip__ :two: Any inadvertent verbal or written mistake that reveals, 
 __fricking__  
 __friend with benefits__  
 __friendly fire__  
+__friendly reminder__ “Friendly reminder” is an idiomatic expression that means “a gentle reminder” or “a polite reminder.” It’s a way of reminding someone about something in a non-confrontational or friendly way.  
 __Friendsgiving__ :two: A Thanksgiving celebration among friends. It often takes place near Thanksgiving, rather than on the actual holiday. _I always have Friendsgiving with my college roommates the week before Thanksgiving._  
 __frigging__ :dart::three: _rude slang_ (friggin’) An intensifier used as a milder alternative to “fucking.” “Friggin’” is also commonly used. _Why are you so frigging late? You’d better have a good excuse._  
 __from a mile away__ :two: Well or far in advance; exceptionally easily. _That movie was so corny, you could tell what was going to happen from a mile away!_  
@@ -1924,6 +1931,7 @@ __funny bone__ (crazy bone) A spot near the elbow bone that is very sensitive to
 __funny farm__ :two: _slang_ A derogatory term for a psychiatric hospital or mental health facility. _I’m getting so burnt out that I feel like I’m losing my mind. If I don’t take a vacation soon, I’ll be headed to the funny farm!_  
 __funny feeling__ :two: An intuition or premonition about something; a sense of foreknowledge about a situation, condition, or set of circumstances. _I have a funny feeling that this meeting isn’t going to end in our favor._  
 __furball__ __1__ An animal, usually a pet. _I can’t wait to get home—I hate to be away from my furballs for long!_  
+__fuss about__  
 __futz__ _v_ In James Ellroy’ novels, “futz” is a verb that means to waste time, to mess around, or to fiddle with something without really accomplishing anything. It’s often used to describe a character who is procrastinating or avoiding doing something important or necessary.  
 __fuzz__ :two: _slang_ The police. _Come on, we’ve got to get out of here before the fuzz show up and bust us!_  
 __gab__ __1__ _v_ To talk or chat. _Geez, she’s been gabbing on the phone to her friend for an hour already._ __2__ _n_ Inane talk or gossip. _Don’t pay attention to what they’re saying—it’s all stupid gab._  
@@ -1934,7 +1942,7 @@ __game changer__ :three::hammer:
 __game of chicken__  
 __game over__ __2__ By extension, a phrase used to describe a situation that has failed or is likely to fail. _When she finds out you cheated on her, it’ll be game over, dude._  
 __game plan__ :two::hammer:  
-__game-changer__ :dart::eight: (game changer) An idea or event that significantly changes the way something is done or thought about.  
+__game-changer__ :dart::nine: (game changer) An idea or event that significantly changes the way something is done or thought about.  
 __gangbusters__ __1__ Successful. _Oh, presenting the case to the students was gangbusters—they got totally engrossed in trying to the solve the mystery._ __2__ A wild, busy, and successful event. (See also _like gangbusters_.) _Our party was truly gangbusters, for sure._  
 __garbage in, garbage out__ :two::hammer:  
 __gargle__ :two: __1__ _v slang_ To drink alcohol. _I lit a cigarette and gargled Old Crow._ __2__ _n slang_ An alcoholic drink. _It’s been a long week—want to get a gargle with me?_  
@@ -1944,6 +1952,7 @@ __gassed__ In James Ellroy’s novels, the term “gassed” is often used to de
 __gather steam__  
 __gather/gain momentum__ To move faster. _The wagon gathered/gained momentum as it rolled down the hill._  
 __gear up__ _The same groundhog festival is gearing up again and again._  
+__gee__ /dʒi/  
 __geek out__ _v_ To temporarily enter techno-nerd mode while in a non-hackish context, for example at parties held near computer equipment. Especially used when you need to do or say something highly technical and don’t have time to explain: “Pardon me while I geek out for a moment.”  
 __geez__ A mild expression of surprise, annoyance, anger, disappointment, etc. (A minced oath for “Jesus.”)  
 __geeze (up)__ To inject narcotics. _They fed a spike. They tied off tourniquets. They geezed._  
@@ -2050,7 +2059,7 @@ __get to know__ :two: To start to be familiar with someone or something. If you 
 __get to someone__ :two::hammer: _Don’t let her get to you._  
 __get to the point__ To talk directly about the most important part or topic.  
 __get under (one’s) skin__ :four: __2__ Obsess someone or affect someone’s deep feelings, as in _Jean’s really gotten under his skin; he misses her terribly._ Cole Porter used this sense in his love song, “I’ve Got You Under My Skin” (1936).  
-__get wind of something__ :two::hammer:  
+__get wind of (something)__ :three::hammer:  
 __get wise (to someone or something)__ :two: To find out, become aware of, more fully understand, and/or no longer be deceived (by something or someone). To become fully aware or cognizant of someone or something, especially if he, she, or it is suspicious, illegal, or malicious in nature or intention. _I’ve been taking small supplies from the office for a long time, but I think the boss is getting wise._  
 __get with the times__ _slang_ To understand or be knowledgeable of modern times, especially as relates to the contemporary trends, ideas, or fashions. (Usually said as a jocular or sarcastic imperative.) _Get with the times, John, nobody wears their hat like that anymore!_  
 __get word (from someone or something)__  
@@ -2088,8 +2097,9 @@ __give (someone) the word__ :dart: To give an order, make a request, or expressl
 __give (something) a face-lift__ :two: To refurbish or improve the appearance of something. _Wow, you really gave this room a face-lift—it looks fantastic!_  
 __give (something) the thumbs up__  
 __give a rat’s ass__ _I don’t give a rat’s ass._  
-__give and take__ :four::hammer: _Love don’t come easy. It’s a game of give and take._  
+__give and take__ :five::hammer: _Love don’t come easy. It’s a game of give and take._  
 __give back__  
+__give credit where credit is due__  
 __give in__ :two::hammer: _Give in to our fears._  
 __give it a go__  
 __give it a shot__  
@@ -2107,7 +2117,7 @@ __give something a whirl__
 __give something/it a shot__ :two::hammer:  
 __give up on (someone or something)__ :two::hammer: _I am not going to give up on you. I am not going to let you give up on yourself._  
 __glad tidings__ :dart::two: Favorable, beneficial, or happy news. Usually used with the verbs “give” or “bring.” _The union leader brought glad tidings to the striking workers that their demands for pay increases had been accepted by the company’s management._  
-__glass ceiling__ A glass ceiling is a metaphor used to represent an invisible barrier that keeps a given demographic (typically applied to minorities) from rising beyond a certain level in a hierarchy. The metaphor was first coined by feminists in reference to barriers in the careers of high-achieving women.  
+__glass ceiling__ :two: A glass ceiling is a metaphor used to represent an invisible barrier that keeps a given demographic (typically applied to minorities) from rising beyond a certain level in a hierarchy. The metaphor was first coined by feminists in reference to barriers in the careers of high-achieving women.  
 __glass over__ _Glassed-over eyes._  
 __glimmer of hope__ :four: A minute indication that something may improve, succeed, or turn out for the best in the end. _Fans clung to a glimmer of hope that their team might score a last-minute touchdown to tie the game._  
 __glitch__ _A phone glitch._  
@@ -2137,7 +2147,7 @@ __go berserk__ :three::hammer:
 __go between__ One who serves as a messenger between two people or groups. In this usage, the words are usually hyphenated. _I’m sick of being a go-between for you and Dad—can you please just talk to him directly?_  
 __go blooey__ _slang_ To go completely awry; to totally fail. _Plans for the gala went blooey after our chief donor backed out and took his millions with him._  
 __go both ways__ __1__ A bisexual person who is attracted to both men and women. __2__ Something that has two functions or purposes. For example, an all-purpose cleaner can be said to “go both ways” because it can be used to clean multiple surfaces.  
-__go cold turkey__  
+__go cold turkey__ :two::hammer:  
 __go commando__  
 __go deep__  
 __go down in/make history__  
@@ -2166,6 +2176,7 @@ __go off in a huff__ :two: To leave in an angry, belligerent, or vexed manner. _
 __go off the handle__ To become uncontrollably angry; to lose control of one’s temper. _It’s a shame the candidate allowed himself to go off the handle like that during the debate, as it undermines a lot of the really solid arguments he’d been making up to that point._ _I know you’re upset, but there’s no point going off the handle like that. It was just an honest mistake._  
 __go off the rails__  
 __go off__ Of an alarm, to enter into an active state, typically resulting in a loud noise or other indication. _My alarm goes off at seven AM._  
+__go on a spree__  
 __go one on one__  
 __go out of (one’s) way (to do something)__  
 __go out on a high note__ To finish, complete, or leave (something) at a successful, impressive, or climactic point. _I know we’ve had quite a few losses this season, but let’s win this last game and go out on a high note!_ _After winning the Oscar, he decided to go out on a high note._  
@@ -2195,7 +2206,7 @@ __go through the roof__
 __go tits up__ :dart: __1__ _rude slang_ To break or malfunction; to die, fall apart, or cease to work. (A play on the phrase “go belly up.” “Tits up” is sometimes hyphenated.) _Sorry, Mark, I’d love to give you a lift to the airport but my car’s gone tits up on me again._ _Jimmy Dean went tits-up in a car wreck._  
 __go to bed with the chickens__ To go to bed very early.  
 __go to Canossa__ :two: To become or make oneself humble; to do a penance or seek absolution for some wrong.  
-__go to great lengths (to do something)__ :six: To put in a lot of effort, energy, or work to achieve something. _We went to great lengths to ensure that this film was historically accurate._  
+__go to great lengths (to do something)__ :seven: To put in a lot of effort, energy, or work to achieve something. _We went to great lengths to ensure that this film was historically accurate._  
 __go to hell and back__  
 __go to hell in a handcart__ To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin.  
 __go to shit__  
@@ -2265,6 +2276,7 @@ __goof up__ :two::hammer:
 __goof__  
 __goofball__ :three: _slang_ __1__ Someone prone to behaving in a silly manner. _Jimmy’s such a goofball—of course he’s the class clown._ __2__ Someone deemed stupid and silly. __3__ A pill with a tranquilizing effect (often because it contains barbiturates), taken recreationally. _Tad took a goofball last night and passed out, man._  
 __goon__ _n_ :four::hammer:  
+__gosh darn__ Euphemistic form of _goddamn._  
 __got them covered__  
 __grab a bite__  
 __grab and go__  
@@ -2316,6 +2328,7 @@ __guardrail__ A safety feature or measure put in place to prevent something from
 __guess again__ A rhetorical imperative indicating that the person being spoken to is mistaken about, and thus should reconsider, something. _You’d better guess again if you think I’m going to lend you any more money._  
 __guilt complex__ :two: A very strong and persistent feeling of guilt regarding something or some event. _John developed a guilt complex after forcing his brother to move out._  
 __guilty pleasure__ :four: Something that one enjoys or finds pleasurable but knows or feels to be bad, inferior, aberrant, or lowbrow, especially as might be perceived or judged by other people.  
+__gully washer__ An extremely heavy rainstorm that usually lasts a short amount of time.  
 __gulp down__  
 __gun down__  
 __gun it__ :two: To accelerate or increase speed suddenly or rapidly; to travel or move very quickly. Usually said while traveling in an automobile. _We’ll have to gun it if we want to make it to the movie on time!_  
