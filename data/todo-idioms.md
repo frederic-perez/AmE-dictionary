@@ -1,8 +1,15 @@
+__(there’s) no turning back (now)__ _expression_ The current course of action cannot be reversed or undone.  
+__around and around__ __2__ In a circuitous, indirect fashion, without an end or satisfactory result. _Around and around these thoughts went in the miserable echo chamber of my mind._  
+__at all costs__ In any way possible, regardless of risk or expense.  
 __at hand__ __3__ Impending or imminent. _After months of planning, I’m thrilled that the event is finally at hand!_ _Victory is at hand._  
 __backup plan__  
+__be a must__ To be requisite, necessary, or indispensable.  
+__behind the scenes__ :two::hammer:  
 __buckle up__  
+__by (oneself)__  
 __call (all) the shots__  
 __check your ego at the door__ To leave behind one’s pride, arrogance, or self-importance when entering a situation or environment.  
+__clinch__ _vt_ /klɪntʃ/ To settle something; to make something final. _I was able to clinch the deal, and I got a raise for it._  
 __close the door on (something)__  
 __cold, hard cash__ Dollar bills and coins, as opposed to checks or credit. _The deal won’t go through unless we pay him in cold, hard cash._  
 __collude with (someone or something)__  
@@ -31,13 +38,14 @@ __double-edged sword__
 __drum roll, please__  
 __eat dirt__  
 __eat shit__  
+__echo chamber__  
 __edge out__ __1__ To surpass, overtake, or defeat someone or something, especially by a narrow margin or degree. A noun or pronoun can be used between “edge” and “out.”  
 __EGOT__ An abbreviation for “Emmy, Grammy, Oscar, Tony,” referring to the rare feat of winning the major awards in television, music, film, and theater. _Elton John joins elite EGOT ranks with Emmy win. John is only the 19th person to have achieved EGOT status (Whoopi Goldberg, Viola Davis, and Mel Brooks are some of the others)._  
 __end (something) on a high note__  
 __enough is enough__  
 __enshittification__ _slang_ The gradual degradation of an online platform or service’s functionality, as part of a cycle in which the platform or service first offers benefits to users to attract them, then pursues more and more profits at the expense of users.  
 __failure is not an option__  
-__far and wide__  
+__far and wide__ :two: All over; everywhere.  
 __fast track__  
 __faux pas__  
 __feast your eyes (on somebody/something)__  
@@ -48,6 +56,8 @@ __fill up__
 __finagle__  
 __five o’clock shadow__  
 __flat-out__  
+__go to (someone or something)__  
+__God willing__ If all goes as it should; if everything goes well.  
 __gun-shy__  
 __gut-wrenching__ Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one’s feelings. _What a gut-wrenching loss for the young athlete, who poured her heart and soul into this match._  
 __gyatt__ A slang exclamation of surprise or excitement. Gyatt is most commonly used as an exclamation in reaction to seeing a large butt (that is, the buttocks) and may be used as a noun to mean a large butt.  
@@ -68,18 +78,23 @@ __henpecked__ Of a man, thoroughly and continually dominated, intimidated, bulli
 __Hip, hip, hooray!__  
 __hit (something) out of the (ball)park__ To do or perform something extraordinarily well; to produce or earn an exceptional achievement. An allusion to a baseball that is hit hard enough to land outside the stadium. _Great job on that report, Jacobs—you really hit it out of the park!_  
 __hold promise__ To have potential or be likely to achieve success. _Our new recruit holds promise. I hope he can deliver during the season._  
+__hooked on (someone or something)__ __1__ _slang_ Addicted to a particular substance or activity.  
 __if you ask me__  
 __in due time__ :dart: Eventually; in an expected or reasonable duration of time. _You’ll get a promotion in due time. Just keep working hard._  
 __in sight__ Close to happening or being achieved. A noun or pronoun can be used between “in” and “sight.”  
 __in the hope of__ With the expectation, intention, or desire of (something or something happening).  
 __in the wild__  
+__in-between__  
 __it remains to be seen__  
 __know-how__ The knowledge, experience, or talent required to do something.  
+__law and order__  
 __learning curve__  
 __level up__  
 __match up__  
+__money talks, (and) bullshit walks__  
 __nice-to-have__ _informal_ A feature that a product or service being designed would ideally have, though it may be impractical at present.  
 __not going anywhere__ “Not going anywhere” is commonly used to convey that something or someone is unchanging, persistent, or not making progress.  
+__on occasion__  
 __on the face of it__  
 __one-on-one__  
 __open-minded__ Interested in and willing to accept new ideas, thoughts, opinions, etc.  
@@ -89,6 +104,7 @@ __plan B__
 __play with fire__  
 __pride and joy__  
 __prop up__  
+__pull the carpet (out) from under (one’s) feet__ To suddenly or unexpectedly remove or rescind support, help, or assistance from one; to abruptly cause one to be in a problematic or difficult situation.  
 __put (someone or something) to the test__  
 __put all of your eggs in one basket__  
 __put out fires__  
@@ -96,11 +112,15 @@ __raise (ones) voice__ To speak or shout loudly, especially out of anger. _I kno
 __red line__  
 __revolving door__  
 __rule the roost__ To have the most control or authority in a group. _Both of our parents were tough, but Mama was as tough as an old shoe, who ruled the roost without saying a word._  
+__run down__  
+__run out of patience__ To become unable to remain patient any longer.  
 __safeguard against (someone or something)__  
 __save (something) for a rainy day__  
 __seeing is believing__  
 __set in stone__  
+__set the tone__  
 __sidebar conversation__ _informal_ A conversation held privately between two people while one or more other people are already speaking.  
+__silver lining__  
 __six ways to Sunday__ _adj_ Askew, at an angle.  
 __skate__  
 __skeevy__ :two: Offensively or unscrupulously repellant, repugnant, or disreputable.  
@@ -126,6 +146,7 @@ __step down__
 __step in__ To enter into some position, activity, or situation to intervene or improve it.  
 __step up__  
 __stick with (someone or something)__  
+__still standing__ A phrase that indicates resilience, endurance, and survival in the face of adversity.  
 __stir the pot__ To exacerbate a tense or otherwise difficult situation.  
 __stop (dead) in (one’s) tracks__ :two::hammer:  
 __stop short__  
@@ -135,6 +156,7 @@ __strike a deal__ :three: To successfully achieve a deal or agreement, especiall
 __studette__ The female version of a stud. A girl that can get any guy she wants, is incredibly good looking, has an amazing personality and is overall awesome at life.  
 __swear by__ _Sam Altman swears by coffee every morning._  
 __sweep down on (someone or something)__  
+__take (something) lightly__  
 __take a step back__  
 __take over__  
 __take the stage__  
@@ -146,11 +168,13 @@ __the latest__ _What’s the latest?_
 __the straw that broke the camel’s back__ :two: A seemingly small or inconsequential issue, problem, or burden that proved to be the final catalyst in causing an overworked or overburdened person, system, organization, etc., to fail, give up, or collapse.  
 __think long and hard__ :dart:two: To give very careful and thorough consideration (to something).  
 __time and (time) again__  
+__touch base (with someone)__  
 __touch down__  
 __twists and turns__  
 __victory lap__ An act of pride or celebration that follows a great achievement or success.  
 __wake-up call__  
 __walk on eggshells__ :dart: To walk on eggshells is to exercise extreme caution. The extended use apparently comes from the fact that eggshells are fragile and would, upon being stepped on, break easily. It would take an impossibly light step to not break them. The phrase is used especially to refer to acting carefully around someone who may be easily upset. _They had to walk on eggshells around the unpredictable coworker._  
+__wash over (someone or something)__  
 __water down__ :two::hammer:  
 __whipe your hair__ When you “whip your hair,” you’re moving your head and hair in a fast and forceful motion. The phrase is meant to evoke a sense of power and confidence.  
 __wink wink (nudge nudge)__ A phrase spoken after a statement which emphasizes or points out a euphemistic underlying meaning or innuendo.  
