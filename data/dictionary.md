@@ -9486,7 +9486,7 @@ __innumerate__
 __inobvious__  
 __inoculate__ _v_  
 __inoculation__ _n_  
-__inordinate__ _adj_ :nine::hammer: /in-OR-dun-ut/ _An inordinate amount of information._ _An inordinate amount of time._ _Inordinate length._  
+__inordinate__ _adj_ :nine: /in-OR-dun-ut/ __1__ Not within proper limits; excessive: _to drink an inordinate amount of wine._ _An inordinate amount of information._ _An inordinate amount of time._ __2__ Unrestrained in conduct, feelings, etc.: _an inordinate lover of antiques._ __3__ Disorderly; uncontrolled. __4__ Not regulated; irregular: _inordinate hours._  
 __inordinately__ _adv_ :four::hammer: _He was inordinately proud of the Roman legions._  
 __inotropic__ _adj_ Affecting the contraction of muscle, especially heart muscle: an inotropic drug.  
 __inpainting__ _n_ A conservation process where damaged, deteriorating, or missing parts of an artwork are filled in to present a complete image.  
@@ -18533,7 +18533,7 @@ __tattletale<sup>1</sup>__ _adj_
 __tattletale<sup>2</sup>__ _n_ :two::hammer:  
 __tatty__ _adj_  
 __taunt<sup>1</sup>__ _n_ :three::hammer: (taunts) _Song has heard his share of slurs and taunts._  
-__taunt<sup>2</sup>__ _v_ :nine::m::hammer: (taunted, taunting)  
+__taunt<sup>2</sup>__ _v_ :nine::m: __1__ To reproach in a mocking, insulting, or contemptuous manner: _taunted her for wearing hand-me-down clothes._ _Syn_ ridicule __2a__ To drive or incite (a person) by taunting: _His friends taunted him into asking for a raise._ __b__ To tease and excite sexually: _taunted him with glimpses of skin._  
 __taupe__  
 __Taurus__ _n_ :mega:  
 __taut__ _adj_  
