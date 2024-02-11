@@ -1,10 +1,16 @@
+__at hand__ __3__ Impending or imminent. _After months of planning, I’m thrilled that the event is finally at hand!_ _Victory is at hand._  
+__backup plan__  
+__buckle up__  
 __call (all) the shots__  
+__check your ego at the door__ To leave behind one’s pride, arrogance, or self-importance when entering a situation or environment.  
 __close the door on (something)__  
 __cold, hard cash__ Dollar bills and coins, as opposed to checks or credit. _The deal won’t go through unless we pay him in cold, hard cash._  
 __collude with (someone or something)__  
 __come a long way__ To make significant progress. Almost always used in the present perfect tense (“have/has come a long way”).  
+__common ground__  
 __correct me if I’m wrong__ Used to introduce a piece of information one believes is true, especially as a means of correcting someone else.  
 __cosleep__ Of a parent, to sleep in the same bed or room as one or more of their small or infant children. _We’re going to try cosleeping once the baby is born._ _Co-sleeping was a factor in quarter of Scotland’s infant deaths in 2023._  
+__crank up__  
 __cut a deal__  
 __cut off__ __2__ _v_ To abruptly move in front of another driver, either intentionally or unintentionally. In this usage, a noun or pronoun can be used between “cut” and “off.” _Can you believe that jerk cut me off like that? I nearly hit him!_  
 __cut someone or something out__  
@@ -52,10 +58,12 @@ __for better or (for) worse__ :two: Whether something is good or bad.
 __for better or for worse__  
 __for days on end__ (for weeks on end)  
 __for its own sake__  
+__for starters__  
 __freak out__  
 __friendly reminder__ “Friendly reminder” is an idiomatic expression that means “a gentle reminder” or “a polite reminder.” It’s a way of reminding someone about something in a non-confrontational or friendly way.  
 __fuss about__  
 __game-changer__  
+__gee__ /dʒi/  
 __get wind of (something)__  
 __give and take__  
 __give credit where credit is due__  
@@ -63,6 +71,7 @@ __glass ceiling__
 __go cold turkey__  
 __go on a spree__  
 __go to great lengths (to do something)__ To put in a lot of effort, energy, or work to achieve something.  
+__gosh darn__ Euphemistic form of _goddamn._  
 __gully washer__ An extremely heavy rainstorm that usually lasts a short amount of time.  
 __gun-shy__  
 __gut-wrenching__ Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one’s feelings. _What a gut-wrenching loss for the young athlete, who poured her heart and soul into this match._  
@@ -70,6 +79,7 @@ __gyatt__ A slang exclamation of surprise or excitement. Gyatt is most commonly 
 __gym bunny__ Someone who is obsessively preoccupied with maintaining or improving their physique and thus spends a large amount of time at the gym to do so. _After recovering from his surgery, John spent a lot of time at the gym getting his body back into shape. Now he’s turned into a total gym bunny._  
 __happy medium__ A healthy balance between two extremes.  
 __hard line__ :two::hammer:  
+__hard pass__ :dart: _slang_ No; not interested; absolutely not.  
 __hassle (someone) about (something)__ To bother or nag someone about something. _Ugh, quit hassling me about that, will you?_  
 __have (one’s) hands full__ :dart: To be busy or completely occupied with dealing with something.  
 __have (one’s) plate full__  
@@ -82,23 +92,36 @@ __hell week__ A week in which new recruits or pledges of an organization, especi
 __henpecked__ Of a man, thoroughly and continually dominated, intimidated, bullied, or browbeaten by a woman, especially his wife or girlfriend. _John used to be the most adventurous, spontaneous guy I knew, but since he got married, he’s become totally henpecked._  
 __Hip, hip, hooray!__  
 __hit (something) out of the (ball)park__ To do or perform something extraordinarily well; to produce or earn an exceptional achievement. An allusion to a baseball that is hit hard enough to land outside the stadium. _Great job on that report, Jacobs—you really hit it out of the park!_  
+__hold promise__ To have potential or be likely to achieve success. _Our new recruit holds promise. I hope he can deliver during the season._  
 __if you ask me__  
 __in due time__ :dart: Eventually; in an expected or reasonable duration of time. _You’ll get a promotion in due time. Just keep working hard._  
 __in sight__ Close to happening or being achieved. A noun or pronoun can be used between “in” and “sight.”  
 __in the hope of__ With the expectation, intention, or desire of (something or something happening).  
+__in the wild__  
+__it remains to be seen__  
+__know-how__ The knowledge, experience, or talent required to do something.  
 __learning curve__  
+__level up__  
+__match up__  
+__nice-to-have__ _informal_ A feature that a product or service being designed would ideally have, though it may be impractical at present.  
 __not going anywhere__ “Not going anywhere” is commonly used to convey that something or someone is unchanging, persistent, or not making progress.  
 __on the face of it__  
+__one-on-one__  
 __open-minded__ Interested in and willing to accept new ideas, thoughts, opinions, etc.  
 __out of the box__ __2__ Outside of or beyond what is considered usual, traditional, or conventional. (A less common shortening of “outside (of) the box.”)  
 __pecking order__  
+__plan B__  
+__play with fire__  
+__pride and joy__  
 __prop up__  
 __put (someone or something) to the test__  
 __put all of your eggs in one basket__  
+__put out fires__  
 __raise (ones) voice__ To speak or shout loudly, especially out of anger. _I know you’re upset, but there’s no need to raise your voice._  
 __red line__  
 __revolving door__  
 __rule the roost__ To have the most control or authority in a group. _Both of our parents were tough, but Mama was as tough as an old shoe, who ruled the roost without saying a word._  
+__safeguard against (someone or something)__  
 __save (something) for a rainy day__  
 __seeing is believing__  
 __set in stone__  
@@ -142,12 +165,14 @@ __take over__
 __take the stage__  
 __taken aback__ Startled, astonished, shocked, or disconcerted.  
 __talk (one’s) ear(s) off__ To talk so much as to cause one to be exhausted or bored.  
+__thanks, but no thanks__ An expression of gratitude for the offer of something that one does not want or is not interested in. Often used sarcastically or impolitely.  
 __the bitter end__  
 __the latest__ _What’s the latest?_  
 __the straw that broke the camel’s back__ :two: A seemingly small or inconsequential issue, problem, or burden that proved to be the final catalyst in causing an overworked or overburdened person, system, organization, etc., to fail, give up, or collapse.  
 __think long and hard__ :dart:two: To give very careful and thorough consideration (to something).  
 __time and (time) again__  
 __touch down__  
+__twists and turns__  
 __victory lap__ An act of pride or celebration that follows a great achievement or success.  
 __wake-up call__  
 __walk on eggshells__ :dart: To walk on eggshells is to exercise extreme caution. The extended use apparently comes from the fact that eggshells are fragile and would, upon being stepped on, break easily. It would take an impossibly light step to not break them. The phrase is used especially to refer to acting carefully around someone who may be easily upset. _They had to walk on eggshells around the unpredictable coworker._  
