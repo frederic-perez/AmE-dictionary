@@ -73,31 +73,6 @@ __have a go (at someone or something)__
 __he-man__ A particularly strong, tough, and/or virile male, especially one who likes to flaunt his strength.  
 __head-to-head__ Describing a one-on-one matchup or comparison.  
 __heavy-footed__ Clumsy, ponderous, or lumbering in gait or tread. _The team’s star striker deftly navigated the ball past the heavy-footed defenseman._  
-__hell week__ A week in which new recruits or pledges of an organization, especially a college fraternity or sorority, are subjected to a series of hazing rituals prior to initiation.  
-__henpecked__ Of a man, thoroughly and continually dominated, intimidated, bullied, or browbeaten by a woman, especially his wife or girlfriend. _John used to be the most adventurous, spontaneous guy I knew, but since he got married, he’s become totally henpecked._  
-__Hip, hip, hooray!__  
-__hit (something) out of the (ball)park__ To do or perform something extraordinarily well; to produce or earn an exceptional achievement. An allusion to a baseball that is hit hard enough to land outside the stadium. _Great job on that report, Jacobs—you really hit it out of the park!_  
-__hold promise__ To have potential or be likely to achieve success. _Our new recruit holds promise. I hope he can deliver during the season._  
-__hooked on (someone or something)__ __1__ _slang_ Addicted to a particular substance or activity.  
-__if you ask me__  
-__in due time__ :dart: Eventually; in an expected or reasonable duration of time. _You’ll get a promotion in due time. Just keep working hard._  
-__in sight__ Close to happening or being achieved. A noun or pronoun can be used between “in” and “sight.”  
-__in the hope of__ With the expectation, intention, or desire of (something or something happening).  
-__in the wild__  
-__in-between__  
-__it remains to be seen__  
-__know-how__ The knowledge, experience, or talent required to do something.  
-__law and order__  
-__learning curve__  
-__level up__  
-__match up__  
-__money talks, (and) bullshit walks__  
-__nice-to-have__ _informal_ A feature that a product or service being designed would ideally have, though it may be impractical at present.  
-__not going anywhere__ “Not going anywhere” is commonly used to convey that something or someone is unchanging, persistent, or not making progress.  
-__on occasion__  
-__on the face of it__  
-__one-on-one__  
-__open-minded__ Interested in and willing to accept new ideas, thoughts, opinions, etc.  
 __out of the box__ __2__ Outside of or beyond what is considered usual, traditional, or conventional. (A less common shortening of “outside (of) the box.”)  
 __pecking order__  
 __plan B__  
