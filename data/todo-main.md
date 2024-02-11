@@ -4,6 +4,7 @@ __banter__ _n_ Good-humored, playful, or teasing conversation.
 __bedsit__ _n_ :es: habitación amueblada; estudio amueblado  
 __bequest__ _n_ /bɪˈkwɛst/  
 __Bhutan__ _n_  
+__bioprosthesis__ _n_ Any implanted device of natural (i.e., nonsynthetic) origin designed to replace a defective body part—e.g., a porcine heart valve.  
 __Black Panther__  
 __blackhead__ _n_  
 __blanket__ _vt_  
@@ -33,6 +34,7 @@ __caucus__ _n_
 __cluck__ _n_  
 __comfy__ _adj_ /ˈkʌmfɪ/ _informal_ Short for comfortable. _Don’t get too comfy._  
 __compound__ _v_  
+__contingency plan__ _n_  
 __conundrum__  
 __de rigueur__ _adj_  
 __debrief__  
@@ -57,9 +59,11 @@ __expire__ _v_
 __expletive__ _adj, n_  
 __explicit__ _adj_ __3b__ Describing or portraying nudity or sexual activity in graphic detail. _AI-generated explicit images of Taylor Swift surfaced on X._  
 __extravagance__ _n_  
+__eye-opening__  
 __eye-watering__ _adj_  
 __fallow land__ _n_  
 __fare evasion__  
+__fast-paced__ _adj_  
 __fatal__ _adj_ /ˈfeɪtəl/  
 __fiddle__ _v_  
 __figurehead__ _n_ :two: __1__ A person nominally having a prominent position, but no real authority.  
@@ -71,22 +75,26 @@ __gaffe__
 __garland__ _n_  
 __generic name__ _n_  
 __gibe__ _n, v_ (jibe)  
+__go-to__ _adj_ __2__ Being the person or thing most trusted to accomplish a purpose.  
 __gratuitous__ _adj_ /gruh-TOO-uh-tuss/  
 __hatred__ _n_ :dart:  
 __head office__ _n_ :es: sede central  
 __hydrophilic__ _adj_  
 __hydroponic__ _adj_  
-__impasse__ _n_  
+__impasse__ _n_ :two::hammer:  
 __indigen__ _n_ One that is native or indigenous to an area. _Syn_ aborigine, native  
+__ingot__ _n_ /ˈɪŋ gət/  
 __intent__ _n_  
 __irredeemably__  
 __jalopy__  
 __Jim Crow laws__  
 __Juneteenth__  
 __lariat__ _n_ A long noosed rope used to catch animals. _Syn_ riata, lasso  
+__late-breaking__ _adj_  
 __likelihood__ _n_  
 __livelihood__ _n_  
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
+__lunisolar__ _adj_  
 __lynch__ _vt_  
 __Machiavellianism__ _n_ /mak-ee-uh-VEL-ee-uh-niz-uhm/ The use of unscrupulous means, cunning, and deceit in pursuit of power, especially in politics.  
 __malaria__ _n_ /məˈlɛər i ə/  
@@ -95,14 +103,21 @@ __manure__ _n_ __1__ The dung of livestock or poultry.
 __market cap__ _n_ :two: (market capitalization) An estimation of the value of a business that is obtained by multiplying the number of shares outstanding by the current price of a share.  
 __military__ _adj, n_ /ˈmɪlɪtərɪ; -trɪ/  
 __minstrel__ _n_  
+__mogul__ _n_ /ˈməʊɡʌl; məʊˈɡʌl/  
 __monarch__ _n_ :mega: /ˈmɒn ərk, -ɑrk/  
 __motorway__ _n_  
 __mount__ _v_  
+__mount<sup>1</sup>__ _vt_  
+__mount<sup>2</sup>__ _vi_ __1__ To increase in amount or intensity (often fol. by up): _The costs mounted up._ __2__ To get up on the back of a horse or other animal for riding. __3__ To rise or go to a higher position, level, degree, etc.; ascend. _Anger mounting._  
+__mount<sup>3</sup>__ _n_  
 __mugging__ _n_ An assault upon a person especially with the intent to rob.  
+__mull<sup>1</sup>__ _vt_ To think about extensively; ponder.  
+__mull<sup>2</sup>__ _vi_ To ruminate; ponder: _mull over a plan._  
 __naive__  
 __NATO__ _n_ :mega: /ˈneɪ toʊ/  
 __ne plus ultra__ _n_ /nay-plus-UL-truh/ Ne plus ultra refers to the highest point of development or success that something may achieve; it is a synonym of acme. _The company’s latest electric car is being hailed as the ne plus ultra of automotive achievement._  
 __nebula__ _n_ /ˈnɛb yə lə/  
+__noncontrast__ _adj_ Without the use of a contrast medium. _Noncontrast CT imaged._  
 __omen__  
 __one-on-one__ _adj, adv_ __2__ Involving a direct encounter between one person and another.  
 __onside kick__ _n_ Short kick-off that travels just far enough to be recoverable by the kicking team.  
@@ -119,13 +134,16 @@ __pergola__ _n_ An arbor or a passageway of columns supporting a roof of trellis
 __pestered__  
 __picturesque__  
 __pleb__ _n_ /plɛb/  
+__plenty__ _n_  
 __plunge__ _v_ /plʌndʒ/  
 __poised__ _adj_ /pɔɪzd/  
+__prep__ _v_  
 __prescient__ _adj_  
 __Presley__ _n_ /ˈprɛs li, ˈprɛz-/  
 __price__ _vt_ __1__ To fix or establish a price for: _shoes that are priced at sixty dollars._  
 __prognosticate__ _v_ /prahg-NAHSS-tuh-kayt/  
 __prominent__ _adj_ __3__ Widely known; eminent: _a prominent poet._  
+__prosecutor__ _n_  
 __prospect__ _n_ :mega: /ˈprɒs pɛkt/  
 __psychedelic__ _adj, n_  
 __quadriplegia__ _n_ Complete paralysis of the body from the neck down. Also called _tetraplegia._  
@@ -138,6 +156,7 @@ __raspberry__ _n_
 __readout__ _n_  
 __refractory__ _adj_ Obstinately resistant to authority or control. _Syn_ fractious, recalcitrant  
 __reitetate__  
+__rejoinder__ _n_ __1__ A reply or response to a question or remark, esp a quick witty one; retort.  
 __relinquish__ _v_ /rɪˈlɪŋ kwɪʃ/  
 __remark__ _n_ /rɪˈmɑrk/  
 __renewal__ _n_  
@@ -156,22 +175,27 @@ __seasoned__ _adj_
 __self-doubt__ _n_ A lack of faith or confidence in oneself.  
 __shortcoming__ _n_  
 __shortfall__ _n_  
+__sideline__ _vt_ :dart: To remove or keep from active participation.  
 __single-use__ _adj_  
 __skill set__ _n_ A set of skills, esp. a collection of skills and abilities that can be applied to a professional or creative endeavor.  
 __slight__ _vt_ :dart: __1__ To show indifference or disregard for (someone); snub. __2__ To treat as unimportant or trifling. __3__ _US_ To devote inadequate attention to (work, duties, etc).  
 __snooker__ _n_ __2__ A shot in which the cue ball is left in a position such that another ball blocks the object ball. The opponent is then usually forced to play the cue ball off a cushion.  
 __soar__ _vi_ __2__ To increase or improve suddenly above the normal or usual level: _Sales soared. Our spirits soared._ _Syn_ rise  
 __soon enough__ _adv_ Without being tardy.  
+__soul__ _n_ :mega: /səʊl/  
 __spat__ _n_  
 __speed dial__ _n_ A function on a telephone that automatically dials stored telephone numbers.  
 __spider__ _n_ __9__ (Billiards & Snooker) A rest having long legs, used to raise the cue above the level of the height of the ball.  
+__spiral__ _v_  
 __squarely__ _adv_ /ˈskwɛəlɪ/ __1__ In a direct way; straight: _he hit me squarely on the nose; walked squarely toward the shoplifter and arrested him._  
 __stagnant__ _adj_  
 __stalk__ _v_  
 __timetable__ _n_  
 __underpin__ _vt_  
 __uneasy__ _adj_  
+__unfold__ _v_ __2__ To reveal or be revealed: _the truth unfolds._  
 __vegetate__ _v_ __3b__ To engage in relaxing or passive activities, such as watching television: _stayed home and vegetated last night._  
+__war crime__ _n_  
 __wrenching__ _adj_ Causing great physical or mental suffering. _ABC News went through a wrenching round of layoffs._  
 __wriggle__ _v_  
 __wring__ _v_ _It pays to wring your hands at least a little bit._  
