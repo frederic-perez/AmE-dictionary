@@ -2,13 +2,18 @@ __(there’s) no turning back (now)__ _expression_ The current course of action 
 __around and around__ __2__ In a circuitous, indirect fashion, without an end or satisfactory result. _Around and around these thoughts went in the miserable echo chamber of my mind._  
 __at all costs__ In any way possible, regardless of risk or expense.  
 __at hand__ __3__ Impending or imminent. _After months of planning, I’m thrilled that the event is finally at hand!_ _Victory is at hand._  
+__back to back__  
 __backup plan__  
+__badass__  
 __be a must__ To be requisite, necessary, or indispensable.  
 __behind the scenes__ :two::hammer:  
+__brutal__ _informal_ Cringe-inducingly unpleasant.  
 __buckle up__  
 __by (oneself)__  
 __call (all) the shots__  
 __check your ego at the door__ To leave behind one’s pride, arrogance, or self-importance when entering a situation or environment.  
+__checkered career__ A history of employment characterized by many different kinds of jobs or by many alternating periods of success and failure.  
+__chitchat__ __2__ _n_ An instance of idle or casual chatter. _We’re just having a chitchat, come on in._  
 __clinch__ _vt_ /klɪntʃ/ To settle something; to make something final. _I was able to clinch the deal, and I got a raise for it._  
 __close the door on (something)__  
 __cold, hard cash__ Dollar bills and coins, as opposed to checks or credit. _The deal won’t go through unless we pay him in cold, hard cash._  
@@ -56,6 +61,8 @@ __fill up__
 __finagle__  
 __five o’clock shadow__  
 __flat-out__  
+__float an idea__ To suggest something in order to gauge interest in it or others’ perception of it.  
+__go a long way__  
 __go to (someone or something)__  
 __God willing__ If all goes as it should; if everything goes well.  
 __gun-shy__  
@@ -73,16 +80,29 @@ __have a go (at someone or something)__
 __he-man__ A particularly strong, tough, and/or virile male, especially one who likes to flaunt his strength.  
 __head-to-head__ Describing a one-on-one matchup or comparison.  
 __heavy-footed__ Clumsy, ponderous, or lumbering in gait or tread. _The team’s star striker deftly navigated the ball past the heavy-footed defenseman._  
+__high roller__ Someone known for spending or gambling large amounts of money.  
+__I kid you not__  
+__in short supply__ Scarce.  
+__kick in__  
+__kind of__ Somewhat; partially.  
+__laugh at (someone or something)__  
+__let alone__ __2__ _expression_ Not to mention. The phrase is used to emphasize that if other more significant or pressing things are not possible or cannot be accommodated, a lesser thing certainly is not or cannot either. _I hardly had time to brush my teeth this morning, let alone do my hair!_  
+__mad (at someone or something)__  
+__make a splash__  
+__moved to tears__ Made to cry due to something that elicited overwhelming emotions. _I was moved to tears by the tributes to my late father._  
 __out of the box__ __2__ Outside of or beyond what is considered usual, traditional, or conventional. (A less common shortening of “outside (of) the box.”)  
 __pecking order__  
 __plan B__  
 __play with fire__  
-__pride and joy__  
+__powers that be__ The people who are in authority. _The powers that be have decided to send back the immigrants._  
+__pride and joy__ :two::hammer:  
 __prop up__  
 __pull the carpet (out) from under (one’s) feet__ To suddenly or unexpectedly remove or rescind support, help, or assistance from one; to abruptly cause one to be in a problematic or difficult situation.  
+__put (one’s) heart and soul into (something)__ To do something with the utmost of one’s energy, enthusiasm, and determination.  
 __put (someone or something) to the test__  
 __put all of your eggs in one basket__  
 __put out fires__  
+__put up with (someone or something)__ To abide or endure someone or something that one finds unpleasant, inconvenient, or annoying.  
 __raise (ones) voice__ To speak or shout loudly, especially out of anger. _I know you’re upset, but there’s no need to raise your voice._  
 __red line__  
 __revolving door__  
@@ -103,6 +123,7 @@ __skeleton in the/(one’s) closet__ An embarrassing or shameful secret.
 __skibidi__ _slang_ A nonsense word or sound without a specific meaning.  
 __skimp on (something)__  
 __slam__ __1__ _vt_ To criticize someone or something.  
+__slide into (someone or something)__  
 __slip up__  
 __slow and steady wins the race__  
 __slowly but surely__  
@@ -111,6 +132,7 @@ __spell out__
 __spill over__  
 __spill the beans__  
 __spring chicken__  
+__spycho__  
 __stand by someone__  
 __stat__ __2__ Right away; without delay. A shortening of the Latin term “statim,” used especially in medicine (or as a parody of such usage). _I’m losing the patient. I need 10 CCs of epinephrine, stat!_ _Uh oh, I’m starting to feel sober. I need a pint and a shot of whiskey, stat!_  
 __stave off__  
@@ -137,10 +159,12 @@ __take over__
 __take the stage__  
 __taken aback__ Startled, astonished, shocked, or disconcerted.  
 __talk (one’s) ear(s) off__ To talk so much as to cause one to be exhausted or bored.  
+__tear__ :astonished:  
 __thanks, but no thanks__ An expression of gratitude for the offer of something that one does not want or is not interested in. Often used sarcastically or impolitely.  
 __the bitter end__  
 __the latest__ _What’s the latest?_  
 __the straw that broke the camel’s back__ :two: A seemingly small or inconsequential issue, problem, or burden that proved to be the final catalyst in causing an overworked or overburdened person, system, organization, etc., to fail, give up, or collapse.  
+__the W__ _slang_ The win. Can refer to an actual win, as in sports (recorded in a box score as “W”), or to a success. Often used in the phrase “get the W.” _We played sloppy, but all that matters is that we got the W._  
 __think long and hard__ :dart:two: To give very careful and thorough consideration (to something).  
 __time and (time) again__  
 __touch base (with someone)__  
