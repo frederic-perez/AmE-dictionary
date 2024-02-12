@@ -148,31 +148,6 @@ __stir the pot__ To exacerbate a tense or otherwise difficult situation.
 __stop (dead) in (one’s) tracks__ :two::hammer:  
 __stop short__  
 __strapped for cash__ Without any or very much money at the moment; broke, especially temporarily.  
-__street urchin__ A poor child who spends most of their time outside, often due to living on the streets.  
-__strike a deal__ :three: To successfully achieve a deal or agreement, especially regarding an acceptable price or exchange for something.  
-__studette__ The female version of a stud. A girl that can get any guy she wants, is incredibly good looking, has an amazing personality and is overall awesome at life.  
-__swear by__ _Sam Altman swears by coffee every morning._  
-__sweep down on (someone or something)__  
-__take (something) lightly__  
-__take a step back__  
-__take over__  
-__take the stage__  
-__taken aback__ Startled, astonished, shocked, or disconcerted.  
-__talk (one’s) ear(s) off__ To talk so much as to cause one to be exhausted or bored.  
-__tear__ :astonished:  
-__thanks, but no thanks__ An expression of gratitude for the offer of something that one does not want or is not interested in. Often used sarcastically or impolitely.  
-__the bitter end__  
-__the latest__ _What’s the latest?_  
-__the straw that broke the camel’s back__ :two: A seemingly small or inconsequential issue, problem, or burden that proved to be the final catalyst in causing an overworked or overburdened person, system, organization, etc., to fail, give up, or collapse.  
-__the W__ _slang_ The win. Can refer to an actual win, as in sports (recorded in a box score as “W”), or to a success. Often used in the phrase “get the W.” _We played sloppy, but all that matters is that we got the W._  
-__think long and hard__ :dart:two: To give very careful and thorough consideration (to something).  
-__time and (time) again__  
-__touch base (with someone)__  
-__touch down__  
-__twists and turns__  
-__victory lap__ An act of pride or celebration that follows a great achievement or success.  
-__wake-up call__  
-__walk on eggshells__ :dart: To walk on eggshells is to exercise extreme caution. The extended use apparently comes from the fact that eggshells are fragile and would, upon being stepped on, break easily. It would take an impossibly light step to not break them. The phrase is used especially to refer to acting carefully around someone who may be easily upset. _They had to walk on eggshells around the unpredictable coworker._  
 __wash over (someone or something)__  
 __water down__ :two::hammer:  
 __whipe your hair__ When you “whip your hair,” you’re moving your head and hair in a fast and forceful motion. The phrase is meant to evoke a sense of power and confidence.  
