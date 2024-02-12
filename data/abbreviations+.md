@@ -94,6 +94,7 @@ __HDL-C__ High-density-lipoprotein cholesterol.
 __HIIT__ High-intensity interval training.  
 __HIV__  
 __HMS__ Her (or His) Majesty’s Ship.  
+__HRT__ Hormone replacement therapy.  
 __HSIA__ High speed Internet access.  
 __HTN__ Hypertension.  
 __HVAC__  
