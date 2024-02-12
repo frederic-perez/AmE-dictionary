@@ -13682,6 +13682,7 @@ __plead__ _v_ :three: To ask for something in an urgent or emotional way. _Lee i
 __please__ _adv_ (Use it at the end of a request/question.)  
 __pleat__ _v_ :five: (pleated) Fold into pleats. _Syn_ fold, tuck, crease _A short pleated skirt._ _The lamp is available with stretched or pleated shade._  
 __pleather__ _n_ A petroleum-based synthetic fabric designed to resemble leather.  
+__pleb__ _n_ /plɛb/  
 __plebs__ _n pl_  
 __plectrum__ _n_ A small thin piece of metal, plastic, bone, or similar material, used to pluck the strings of certain instruments, such as the guitar or lute. _Syn_ pick _When he first struck the guitar’s strings with his plectrum, we knew we were in for a great performance._  
 __pledge__ _n_ :three::hammer:  
@@ -13689,7 +13690,7 @@ __plenitude__ _n_ /PLEN-i-tood/tyood/ __1__ The state of being full. __2__ Abund
 __plenteous__ _adj_  
 __plentiful__  
 __plenty of (something)__  
-__plenty__ _n_ _There are plenty of shops._  
+__plenty__ _n_ :two::hammer: _There are plenty of shops._  
 __pleonastic__ _adj_ Characterized by the repetition of the same sense in different words. _Syn_ redundant, tautological _“A true fact” and “a free gift” are pleonastic expressions._  
 __plethora__ _n_ :nine: Extreme excess.  
 __pleurisy__ _n_ _He pounded Frost’s back hard enough to cause pleurisy._  
@@ -13731,7 +13732,7 @@ __plump<sup>1</sup>__ _adj_ _Plump and juicy hotdogs._
 __plump<sup>2</sup>__ _v_  
 __plums__ _n_ :three::hammer:  
 __plunder__ _v_ :eight::hammer: (plundered)  
-__plunge__ _v_ :two::hammer: _Plunge the toilet._  
+__plunge__ _v_ :three::hammer: /plʌndʒ/ _Plunge the toilet._  
 __plunger__ _n_ :two::hammer: _The syringe’s plunger._  
 __plunked__ _v_  
 __plurale tantum__ _n_ :dart: A plurale tantum (Latin for “plural only”) is a noun that appears only in the plural form and does not have a singular variant for referring to a single object. In a less strict usage of the term, it can also refer to nouns whose singular form is rarely used. In English pluralia tantum are frequently words which denote objects that occur or function as pairs or sets, such as spectacles, trousers, pants, scissors, clothes, electronics, bagpipes, or genitals.  
@@ -13783,6 +13784,7 @@ __point-blank__
 __pointed questions__  
 __pointless__ _adj_ :four::hammer:  
 __poise__ _n_ :two::hammer: _Develop poise between body and mind._  
+__poised__ _adj_ /pɔɪzd/  
 __poison ivy__ _n_ :es: hiedra venenosa  
 __poison__ _n_ /ˈpɔɪzən/  
 __poke__ _v_  
@@ -14043,10 +14045,9 @@ __prenup__ _n_ _informal_ :two: A prenuptial agreement.
 __preoccupation__  
 __preordained__  
 __prep schools__  
-__Prep__  
 __prep<sup>1</sup>__ _adj_  
-__prep<sup>2</sup>__ _n_ :two: __2__ Preparation.  
-__prep<sup>3</sup>__ _v_ :seven::hammer: (prepped, prepping) _I was prepping for the show._  
+__prep<sup>2</sup>__ _n_ :three: __2__ Preparation.  
+__prep<sup>3</sup>__ _v_ :eight::hammer: (prepped, prepping) _I was prepping for the show._  
 __preparedness__ _n_ /prɪˈpɛər ɪd nɪs, -ˈpɛərd nɪs/ The state of being prepared or ready, esp militarily ready for war.  
 __preponderate__ _v_  
 __prepone__ _v_ To bring forward to an earlier time.  
@@ -14078,6 +14079,7 @@ __president-elect__ _n_ :four::hammer:
 __President-elect__ _n_ :six::hammer: (also president-elect)  
 __presidential bid__ _n_ A _presidential bid_ refers to a person’s attempt to become the president of a country by running for election. It involves a candidate putting their name forward as a contender for the highest office in the country.  
 __presidential suite__ _n_  
+__Presley__ _n_ /ˈprɛs li, ˈprɛz-/  
 __press box__ _n_  
 __press on__  
 __press release__ _n_  
@@ -14108,6 +14110,7 @@ __prez__ _n informal_ (Prez) President.
 __priapic__ _adj_ :two: __1__ A less common word for _phallic_. __2__ Characterized by or exhibiting unrestrained or excessive male sexual activity.  
 __price point__ _n_ :two::hammer: _The best in price point._  
 __price tag__ _n_ :two::hammer: _Success always comes with a price tag._  
+__price__ _vt_ __1__ To fix or establish a price for: _shoes that are priced at sixty dollars._  
 __pricey__ _adj_ :two: Expensive. _Syn_ costly, dear  
 __prick-tease__ _n_ :dart: (prick-teaser) A woman who is sexually provocative but refuses to engage in sexual activity. _She was a first-class prick-tease._  
 __prick<sup>1</sup>__ _n_ :two::hammer: _He already had the prick for it._ __2b__ A small, sharp, local pain, such as that made by a needle or bee sting.  
@@ -14215,7 +14218,7 @@ __profuse__ _adj_ Plentiful; copious. _Syn_ lush, riotous, luxuriant, exuberant
 __profusely__ _adv_ :two::hammer:  
 __profusion__  
 __progeny__ _n_ :three::hammer:  
-__prognosticate__ _v_ Indicate by signs. _Syn_ augur, auspicate, bode, omen, portend, foreshadow, presage, predict, prefigure, betoken, forecast, foretell _This neighborhood has seen an urban renewal that prognosticates a social and cultural renaissance._  
+__prognosticate__ _v_ :two: /prahg-NAHSS-tuh-kayt/ Indicate by signs. _Syn_ augur, auspicate, bode, omen, portend, foreshadow, presage, predict, prefigure, betoken, forecast, foretell _This neighborhood has seen an urban renewal that prognosticates a social and cultural renaissance._  
 __prohibit__  
 __prohibitionist__ _n_ A reformer who opposes the use of intoxicating beverages. _Syn_ dry _She was a tireless prohibitionist who raided saloons and destroyed bottles of liquor with a hatchet._  
 __Prohibitionists__  
@@ -14232,7 +14235,7 @@ __prom__
 __promenade__ _n_ :four::hammer: _Public promenades._  
 __Promethean__ _adj_ Creative; boldly original.  
 __prominence__  
-__prominent__ _adj_ :six::hammer: _Package carrying a prominent warning._  
+__prominent__ _adj_ :seven::hammer: __3__ Widely known; eminent: _a prominent poet._ _Package carrying a prominent warning._  
 __prominently__  
 __promissory__ _adj_ :pencil2: Containing, involving, or having the nature of a promise. _A promissory note._  
 __promo__  
@@ -14271,11 +14274,12 @@ __props__ _pl n_ _slang_ :three::dart: Due respect; proper recognition. Often us
 __proptosis__ _n_  
 __prosaic__ _adj_ :two: /proh-ZAY-ik/ Prosaic is a synonym of dull, unimaginative, everyday, or ordinary, but its original meaning is “characteristic of prose as distinguished from poetry.” _Retirement can lead to a prosaic lifestyle unless you will yourself to seek adventure._  
 __prosecute__ _v_ _People liked news of another war successfully prosecuted._  
+__prosecutor__ _n_  
 __proselytism__ _n_ :astonished:  
 __proselytize__ _v_ :six::pencil2::dart: /PRAH-suh-luh-tyze/ Convert or attempt to convert (someone) from one religion, belief, or opinion to another. _Syn_ evangelize, convert :es: convertir  
 __prosody__ _n_ :two::hammer:  
 __prosopopoeia__ _n_ :two: (prosopopeia) __1__ Personification, as of inanimate things. Representing an abstract quality or idea as a person or creature personification. __2__ A figure of speech in which an imaginary, absent, or deceased person is represented as speaking or acting.  
-__prospect__ _n_ (sports)  
+__prospect__ _n_ :two::hammer::mega: /ˈprɒs pɛkt/ (sports)  
 __prospective__ _adj_ :three::hammer: _Prospective clients._  
 __prospector__  
 __prospectus__  
@@ -14325,6 +14329,7 @@ __pseudopseudohypoparathyroidism__
 __psych__ _v_  
 __psyche__ _n_ :three::pencil2::mega::mute:[~~p~~syche] /ˈsaɪkɪ/ (Psychology) The human mind or soul.  
 __psyched__ _v_  
+__psychedelic__ _adj, n_  
 __psychiatrist__ _n_ :mute:[~~p~~sychiatrist]  
 __psychic reading__ _n_  
 __psychic<sup>1</sup>__ _n_ :mute:[~~p~~sychic]  
@@ -14503,6 +14508,7 @@ __qua__ _prep_ In the capacity or character of; as: _The president qua head of t
 __quack__ _n_ :seven: __2__ An untrained person who pretends to be a physician and dispenses medical advice and treatment. Incompetent doctor. _Other quacks and remedies of all kinds were tried to no avail._ __2__ A charlatan; a mountebank. _Partisan quacks._  
 __quadragenarian__ _adj, n_  
 __quadrennial__  
+__quadriplegia__ _n_ Complete paralysis of the body from the neck down. Also called _tetraplegia._  
 __quadroons__  
 __quaff__ _v_ :five: _(chiefly literary)_ To swallow hurriedly or greedily or in one draught. _Syn_ gulp, swig _Recently returned to port, the sailors quaffed their ale with gusto._ _We quaffed Old Crow._  
 __quaffable__  
@@ -14539,7 +14545,7 @@ __queen__ _n_ :astonished: __6__ A mature female cat, especially one kept for br
 __queer<sup>1</sup>__ _adj_  
 __queer<sup>2</sup>__ _n_  
 __queer<sup>3</sup>__ _v_  
-__quell__ _vt_ :nine::m: Put an end to (a rebellion or other disorder), typically by the use of force. _Syn_ put an end to, stamp out, put a stop to, end, finish :es: calmar, reprimir  
+__quell__ _vt_ :nine::m: /kwɛl/ Put an end to (a rebellion or other disorder), typically by the use of force. _Syn_ put an end to, stamp out, put a stop to, end, finish :es: calmar, reprimir  
 __quench<sup>1</sup>__ _n_ :two::hammer:  
 __quench<sup>2</sup>__ _v_ :five: (quenches, quenched) To satisfy (one’s thirst, desires, etc.). _Syn_ slake, allay, assuage _He stopped to quench his thirst at a stream._  
 __querulous__ _adj_ :dart::eight: /ˈkwɛr ə ləs, ˈkwɛr yə-/ Given to complaining; peevish. _Syn_ fretful, whiny _The teacher’s patience was wearing thin, but the querulous student nevertheless continued to whine about how much homework she was assigning._  
@@ -14590,13 +14596,13 @@ __quitessential__ _adj_
 __quittance__ _n_ Payment of a debt or obligation. _Syn_ repayment  
 __quitter__ _n_ _Are you calling me a quitter?_  
 __quiver__ _v_ :seven::hammer: (quivering)  
-__quixotic__ _adj_ :three: /kwik-SAH-tik/ Extravagantly chivalrous or romantic; visionary, impractical, or impracticable. _Her actions may seem quixotic, but they also speak to her courage and passion._  
+__quixotic__ _adj_ :four: /kwik-SAH-tik/ Extravagantly chivalrous or romantic; visionary, impractical, or impracticable. Caught up in the romance of noble deeds and the pursuit of unreachable goals; idealistic without regard to practicality. _Syn_ wild-eyed, romantic _Her actions may seem quixotic, but they also speak to her courage and passion._  
 __quiz__ _n_ :three: (_n pl_ quizzes) A quiz is a short series of questions with a quick result. A magazine quiz might tell a reader if “he’s into you,” or a pop quiz in English class will let your teacher know how far you got (or didn’t get) in last night’s reading. _Take the quiz!_  
 __quondam__ _adj_ :two: Of an earlier time; former: _her quondam lover._  
 __quorum__ _n_ /KWOR-um/ Quorum refers to the smallest number of people who must be present at a meeting in order for official decisions to be made. Broadly speaking, quorum may refer to any select group.  
 __quotation marks__ _n_ _Chroniclers’ figures which seem obviously distorted appear in my text in quotation marks._  
 __quote__ _v_ _In XML, the attribute values must always be quoted._  
-__quotidian__ _adj_  
+__quotidian__ _adj_ :two::hammer: /kwoh-TID-ee-un/  
 __Quran__  
 __R-rated__ _adj_ (of a motion picture) suitable for those under 17 years of age only when accompanied by an adult.  
 __rabble__ _n_ :seven: /RAB-ul/ Rabble is used to refer to a large group of loud people who could become violent (that is, a mob), or, usually in the phrase _the rabble_, to refer to the great mass of regular people as contrasted with the elite. In the latter use, the word is typically applied in a humorous or exaggerated way to suggest the attitudes of the powerful and wealthy. _An angry rabble rushed the stage when the band cut their performance short._ _The magazine’s apparent aim is to induce envy with peeks into the beautiful homes of celebrities who live far away from the rabble._ _They were once considered rabble-rousers._  
@@ -14657,7 +14663,7 @@ __raillery__ _n_
 __raiment__ _n_ :three::hammer:  
 __rain slickers__ _n_  
 __rainbow pass__ _n_ _football_  
-__rainfall__ _n_ _Syn_ rain  
+__rainfall__ _n_ :two::hammer: _Syn_ rain  
 __rainforest__ _n_  
 __rainmaker__  
 __rainout__  
@@ -14673,7 +14679,7 @@ __rally<sup>3</sup>__ _n_
 __ram<sup>1</sup>__ _v_ :eight::hammer: (rammed, ramming) _JFK’s PT boat was rammed._ _Ramming your feet into the stirrups._ _The submarine rammed a pipeline._  
 __ram<sup>2</sup>__ _n_  
 __Ramadan__ _n_ __1__ (Islam) The ninth month of the Muslim year, lasting 30 days, during which strict fasting is observed from sunrise to sunset. __2__ (Islam) The fast itself.  
-__ramble__ _v_ :dart::four: __4__ To speak or write at length and with many digressions: _rambled on about his childhood._  
+__ramble__ _v_ :dart::five: __4__ To speak or write at length and with many digressions: _rambled on about his childhood._  
 __rambler__ _n_ :four::hammer: (ramblers)  
 __rambling__ _v_ :four::hammer:  
 __rambly__ _adv_  
@@ -14744,7 +14750,7 @@ __rashomon__ _adj_ /RASH-uh-mahn/ [:scroll: After the 1950 Japanese film _Rashom
 __rasorial__ _adj_ __1__ Characteristically scratching the ground for food. Used of birds. Given to scratching the ground for food, as chickens. __2__ Adapted for scratching, as a bird’s foot.  
 __rasp<sup>1</sup>__ _n_  
 __rasp<sup>2</sup>__ _v_  
-__raspberry__ _n_ :two::mega::mute:[ras~~p~~berry]:hammer: /ˈræzˌbɛr i, -bə ri, ˈrɑz-/  
+__raspberry__ _n_ :three::mega::mute:[ras~~p~~berry]:hammer: /ˈræzˌbɛr i, -bə ri, ˈrɑz-/  
 __raspy__  
 __rastafari__ _n_  
 __rat race__  
@@ -14815,7 +14821,7 @@ __read into something__
 __readily__ _adv_ :nine::hammer: /ˈrɛdɪlɪ/  
 __readiness__ _n_ :two::hammer: /ˈrɛd i nɪs/ _Our career readiness software program._  
 __readings__ _n_  
-__readout__ _n_ :three::hammer:  
+__readout__ _n_ :four::hammer:  
 __ready cash__ _n_ :two: Funds for immediate use; cash. _They haven’t enough ready cash to pay the commission._  
 __ready room__ _n_ :three: A room on an aircraft carrier where on-duty pilots are stationed while not flying their aircraft.  
 __ready<sup>1</sup>__ _adj_ __4__ Prompt in apprehending or reacting: _a ready intelligence; a ready response._  
@@ -14966,7 +14972,7 @@ __referral__ _n_ :four::hammer: _Free referral service for apartments and homes.
 __referred__ _v_ _Donovan referred to the main engine room of the destroyer._  
 __reffing__  
 __reflexive__ _adj_ /ri-FLEK-siv/  
-__refractory__ _adj_ :five::hammer: _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._ _Refractory VT._  
+__refractory__ _adj_ :six: Obstinately resistant to authority or control. _Syn_ fractious, recalcitrant _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._ _Refractory VT._  
 __refrain<sup>1</sup>__ _n_ :six::hammer::astonished:  
 __refrain<sup>2</sup>__ _vi_ :three::hammer: _Refraining from email was definitely a challenge._ _Lorna refrained from comment._  
 __refreshment__ _n_  
@@ -15012,12 +15018,13 @@ __reindeer__ _n pl_ :three::hammer:
 __reinstate__ _vt_ :six::hammer: /ˌri ɪnˈsteɪt/  
 __reinstatement__ _n_  
 __reiterate__ _v_ :two::hammer: /riːˈɪtəˌreɪt/  
+__reitetate__  
 __reject__ _v_ :dart: __2b__ To refuse to accept (someone) as a lover, spouse, or friend; rebuff.  
 __rejigged__ _v_  
 __rejiggered__  
 __rejoice__ _v_ :five::pencil2::hammer: /rɪˈdʒɔɪs/ (rejoiced, rejoicing)  
 __rejoicing__ _n_ :pencil2:  
-__rejoinder__ _n_ :five: A quick reply to a question or remark (especially a witty or critical one). _Syn_ riposte, comeback, retort, replication, counter, return _Her eyes darkened, and he expected an indignant rejoinder._  
+__rejoinder__ _n_ :six: A quick reply to a question or remark (especially a witty or critical one). _Syn_ riposte, comeback, retort, replication, counter, return _Her eyes darkened, and he expected an indignant rejoinder._  
 __rejuvenate__ _v_ /rih-JOO-vuh-nayt/  
 __rejuvenated__ _adj_  
 __rekindle__ _vt_ :four::hammer: _Will generative AI wreck or rekindle the doctor-patient relationship?_ _We must rekindle the fire of idealism in this country._  
@@ -15039,7 +15046,7 @@ __relief teams__
 __relief__ _n_ :three::hammer: _Iran continues to insist on instant and total relief from sanctions._ _Monetary relief._ _Stress relief._  
 __relieve__ _v_ _Dave had been relieved of his duties._  
 __reliever__  
-__relinquish__ _v_ :nine::m: If you relinquish something, you let it go. You relinquish control of the army when you resign as general. You relinquish your plan to sneak into town when your parents find out what’s going on. _To relinquish the throne._  
+__relinquish__ _v_ :nine::m: /rɪˈlɪŋ kwɪʃ/ If you relinquish something, you let it go. You relinquish control of the army when you resign as general. You relinquish your plan to sneak into town when your parents find out what’s going on. _To relinquish the throne._  
 __reliquary__ _n_ :two::hammer:  
 __relish<sup>1</sup>__ _n_ :four: __1__ Great enjoyment. _Syn_ enjoy, delight in, love, like, adore, be pleased by _Harvey seems to relish fame._ __2__ A condiment eaten with plain food to add flavor. _Aunts were canning peaches and zucchini relish._  
 __relish<sup>2</sup>__ _v_ :five: __1__ Enjoy greatly. __2__ _archaic_ Make pleasant to the taste; add relish to.  

@@ -148,31 +148,6 @@ __pergola__ _n_ An arbor or a passageway of columns supporting a roof of trellis
 __pestered__  
 __picturesque__  
 __pitfall__ _n_ __1__ An unsuspected difficulty or danger.  
-__pleb__ _n_ /plɛb/  
-__plenty__ _n_  
-__plunge__ _v_ /plʌndʒ/  
-__poised__ _adj_ /pɔɪzd/  
-__prep__ _v_  
-__prescient__ _adj_  
-__Presley__ _n_ /ˈprɛs li, ˈprɛz-/  
-__price__ _vt_ __1__ To fix or establish a price for: _shoes that are priced at sixty dollars._  
-__prognosticate__ _v_ /prahg-NAHSS-tuh-kayt/  
-__prominent__ _adj_ __3__ Widely known; eminent: _a prominent poet._  
-__prosecutor__ _n_  
-__prospect__ _n_ :mega: /ˈprɒs pɛkt/  
-__psychedelic__ _adj, n_  
-__quadriplegia__ _n_ Complete paralysis of the body from the neck down. Also called _tetraplegia._  
-__quell__ _vt_ /kwɛl/  
-__quixotic__ _adj_ Caught up in the romance of noble deeds and the pursuit of unreachable goals; idealistic without regard to practicality. _Syn_ wild-eyed, romantic  
-__quotidian__ _adj_ /kwoh-TID-ee-un/  
-__rainfall__ _n_  
-__ramble__ _v_  
-__raspberry__ _n_  
-__readout__ _n_  
-__refractory__ _adj_ Obstinately resistant to authority or control. _Syn_ fractious, recalcitrant  
-__reitetate__  
-__rejoinder__ _n_ __1__ A reply or response to a question or remark, esp a quick witty one; retort.  
-__relinquish__ _v_ /rɪˈlɪŋ kwɪʃ/  
 __remark__ _n_ /rɪˈmɑrk/  
 __renewal__ _n_  
 __respondent__ _n_ /rɪˈspɒn dənt/  
