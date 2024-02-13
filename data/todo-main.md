@@ -38,6 +38,7 @@ __caucus__ _n_
 __cerebritis__ _n_ /ˌsɛrɪˈbraɪtɪs/ An infection or inflammation of the brain.  
 __cessation__  
 __cheat code__ _n_ __2__ A ploy or technique that bypasses traditional methods or rules in order to improve oneself or one’s success: _We don’t know what sort of cheat code he may have discovered to pass the audition, but his mediocre talent sure has us wondering._  
+__chief__ _n_ /tʃiːf/ /tʃif/  
 __cluck__ _n_  
 __comfy__ _adj_ /ˈkʌmfɪ/ _informal_ Short for comfortable. _Don’t get too comfy._  
 __compound__ _v_  
@@ -47,6 +48,8 @@ __conundrum__
 __counterintuitive__ _adj_  
 __cozy__ _adj_ Relating to a genre of mystery stories with little suspense, explicit violence, or sexual content, often also having amateur sleuths and idyllic, intimate settings.  
 __cursory__ _adj_  
+__dandelion__ _n_  
+__daydream__ _n_  
 __de rigueur__ _adj_  
 __debrief__  
 __December__ _n_ /dɪˈsɛm bər/  
@@ -64,6 +67,7 @@ __detour__ _n_
 __detox__  
 __discharge__ _vt_ __1__ To release or allow to go: _the hospital discharged the patient._  
 __dogshit__  
+__encourage__ _vt_ /ɪnˈkʌrɪdʒ/ /ɛnˈkɜr ɪdʒ, -ˈkʌr-/  
 __era__ _n_  
 __evict__ _vt_ /ɪˈvɪkt/  
 __eviction__ _n_  
@@ -88,16 +92,20 @@ __footage__ _n_ :mega:
 __forestry__ _n_  
 __frail__ _adj_  
 __fraudster__ _n_ /ˈfrɔːdstə/ A swindler.  
+__fudge__ _v_ /fʌdʒ/  
 __gaffe__  
 __garland__ _n_  
 __generic name__ _n_  
 __gibe__ _n, v_ (jibe)  
 __gloss__ _n_  
 __go-to__ _adj_ __2__ Being the person or thing most trusted to accomplish a purpose.  
+__goalkeeper__ _n_  
 __gratuitous__ _adj_ /gruh-TOO-uh-tuss/  
 __haka__ _n_ __1__ A Maori war dance accompanied by chanting. __2__ A similar choreographed chant performed by a Rugby team, especially one from New Zealand.  
+__hassle__ _n_ __2__ A great deal of trouble; difficulty; nuisance.  
 __hatred__ _n_ :dart:  
 __head office__ _n_ :es: sede central  
+__heartfelt__ _adj_  
 __hydrophilic__ _adj_  
 __hydroponic__ _adj_  
 __impasse__ _n_ :two::hammer:  
@@ -105,6 +113,7 @@ __indigen__ _n_ One that is native or indigenous to an area. _Syn_ aborigine, na
 __ingot__ _n_ /ˈɪŋ gət/  
 __ingrained__ _adj_  
 __intent__ _n_  
+__interest__ _n_ /ˈɪn tər ɪst, -trɪst/  
 __inveigh__ _v_ /in-VAY/ _Inveigh_ is a formal word that means “to protest or complain bitterly or vehemently.” Like its synonym _rail_, it’s typically used with against. _Students inveighed against the new dress code policy._  
 __irredeemably__  
 __jalopy__  
@@ -120,10 +129,12 @@ __lynch__ _vt_
 __Machiavellianism__ _n_ /mak-ee-uh-VEL-ee-uh-niz-uhm/ The use of unscrupulous means, cunning, and deceit in pursuit of power, especially in politics.  
 __maladroit__ _adj_ /mal-uh-DROYT/ Maladroit is an adjective that means “incompetent” or “very awkward.” It is usually used in formal speech and writing, and often describes people who lack skill in handling situations.  
 __malaria__ _n_ /məˈlɛər i ə/  
+__malnutrition__ _n_  
 __manhunt__ _n_ An organized search, usually by police, for a wanted man or fugitive.  
 __manure__ _n_ __1__ The dung of livestock or poultry.  
 __Maori__ _n_ /ˈmaʊ ri/  
 __market cap__ _n_ :two: (market capitalization) An estimation of the value of a business that is obtained by multiplying the number of shares outstanding by the current price of a share.  
+__memento mori__ _n_  
 __military__ _adj, n_ /ˈmɪlɪtərɪ; -trɪ/  
 __minstrel__ _n_  
 __mogul__ _n_ /ˈməʊɡʌl; məʊˈɡʌl/  
@@ -145,14 +156,19 @@ __ne plus ultra__ _n_ /nay-plus-UL-truh/ Ne plus ultra refers to the highest poi
 __nebula__ _n_ /ˈnɛb yə lə/  
 __nightstick__ _n_ A short stout club used primarily by policemen. _Syn_ truncheon, billy, billy club, billystick, baton  
 __noncontrast__ _adj_ Without the use of a contrast medium. _Noncontrast CT imaged._  
+__nonnegotiable__ _adj_  
+__nuance__ _n_ /ˈnu ɑns, ˈnyu-, nuˈɑns, nyu-/  
 __omen__  
 __one-on-one__ _adj, adv_ __2__ Involving a direct encounter between one person and another.  
 __onside kick__ _n_ Short kick-off that travels just far enough to be recoverable by the kicking team.  
+__Oppie__ _n_ J. Robert Oppenheimer was known as “Oppie.” The nickname originated when he impressed his students in the Netherlands by giving lectures in Dutch, despite not being fluent in the language. This dedication and passion for teaching led to him being called “Opje,” which was later translated to “Oppie” and stuck as his nickname.  
 __otolaryngology__ _n_ _Syn_ otorhinolaryngology  
 __ouster__ _n_  
+__outbid__ _vt_  
 __outweigh__ _v_  
 __overalls__ _n pl_  
 __overdue__ _adj_ Not being on time. _Syn_ behindhand, belated, late, tardy  
+__overstate__ _vt_  
 __pairing__ _n_ /ˈpɛərɪŋ/ __1__ Two people, esp sports players, actors, or musicians, who are working together as a pair. __2__ The action of putting two people together  
 __paling__ _n_ A fence made of upright pickets. _Syn_ picket fence  
 __paravalvular__ _adj_ Surrounding or adjacent to a heart valve.  
@@ -169,6 +185,7 @@ __quirk__ _n_ /KWERK/ _Quirk_ refers to an unusual habit or way of behaving. It 
 __range anxiety__ _n informal_ The apprehension or fear that an electric vehicle’s battery will run out of power before reaching one’s intended destination or a charging station.  
 __remark__ _n_ /rɪˈmɑrk/  
 __renewal__ _n_  
+__renowned__ _adj_  
 __reptilian__ _adj_ :dart: /rep-TIL-ee-uhn, -TIL-yuhn/ __1__ Contemptible. __2__ Treacherous. __3__ Like a reptile.  
 __respondent__ _n_ /rɪˈspɒn dənt/  
 __rest__ _n_ __13__ (Billiards & Snooker) Any of various special poles used as supports for the cue in shots that cannot be made using the hand as a support.  
@@ -188,12 +205,15 @@ __scuttle<sup>2</sup>__ _vt_
 __sea gypsy__ _n_  
 __seasoned__ _adj_  
 __self-doubt__ _n_ A lack of faith or confidence in oneself.  
+__shortage__ _n_ /ˈʃɔr tɪdʒ/  
 __shortcoming__ _n_  
 __shortfall__ _n_  
 __shrinkflation__ _n_  
 __sideline__ _vt_ :dart: To remove or keep from active participation.  
+__sidetrack__ _v_ /ˈsaɪdˌtræk/  
 __single-use__ _adj_  
 __skill set__ _n_ A set of skills, esp. a collection of skills and abilities that can be applied to a professional or creative endeavor.  
+__skittish__ _adj_  
 __slight__ _vt_ :dart: __1__ To show indifference or disregard for (someone); snub. __2__ To treat as unimportant or trifling. __3__ _US_ To devote inadequate attention to (work, duties, etc).  
 __smitten__ _adj_  
 __snooker__ _n_ __2__ A shot in which the cue ball is left in a position such that another ball blocks the object ball. The opponent is then usually forced to play the cue ball off a cushion.  
@@ -208,18 +228,23 @@ __spider__ _n_ __9__ (Billiards & Snooker) A rest having long legs, used to rais
 __spiral__ _v_  
 __Spirit Day__ _n_  
 __squarely__ _adv_ /ˈskwɛəlɪ/ __1__ In a direct way; straight: _he hit me squarely on the nose; walked squarely toward the shoplifter and arrested him._  
+__squeeze__ _n, v_  
 __stagnant__ _adj_  
 __stalk__ _v_  
 __tank top__ _n_  
 __timetable__ _n_  
+__tomahawk__ _n_ /ˈtɒm əˌhɔk/ [:scroll: C17: from Virginia Algonquian _tamahaac_]  
 __translational__ _n_ __2__ In science, of or relating to the application of basic or theoretical discoveries to the development of practical applications: _translational research._  
 __trumpey__ _v_  
 __underpin__ _vt_  
+__undeterred__ _adj_  
 __uneasy__ _adj_  
 __unfold__ _v_ __2__ To reveal or be revealed: _the truth unfolds._  
 __vegetate__ _v_ __3b__ To engage in relaxing or passive activities, such as watching television: _stayed home and vegetated last night._  
 __victory speech__  
+__wander__ _n_ The act or an instance of wandering.  
 __war crime__ _n_  
+__watchdog__ _n_  
 __woke__  
 __wrenching__ _adj_ Causing great physical or mental suffering. _ABC News went through a wrenching round of layoffs._  
 __wriggle__ _v_  
