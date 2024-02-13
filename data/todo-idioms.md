@@ -98,31 +98,6 @@ __keep (one’s) head__ To be and remain in a calm, stable, sensible, and pragma
 __kick in__  
 __kind of__ Somewhat; partially.  
 __knock off__  
-__laugh at (someone or something)__  
-__let alone__ __2__ _expression_ Not to mention. The phrase is used to emphasize that if other more significant or pressing things are not possible or cannot be accommodated, a lesser thing certainly is not or cannot either. _I hardly had time to brush my teeth this morning, let alone do my hair!_  
-__mad (at someone or something)__  
-__make a splash__  
-__moved to tears__ Made to cry due to something that elicited overwhelming emotions. _I was moved to tears by the tributes to my late father._  
-__mumbo jumbo__  
-__no-brainer__  
-__out of the box__ __2__ Outside of or beyond what is considered usual, traditional, or conventional. (A less common shortening of “outside (of) the box.”)  
-__pecking order__  
-__plan B__  
-__play cat and mouse__  
-__play with fire__  
-__powers that be__ The people who are in authority. _The powers that be have decided to send back the immigrants._  
-__pride and joy__ :two::hammer:  
-__prop up__  
-__pull out__  
-__pull the carpet (out) from under (one’s) feet__ To suddenly or unexpectedly remove or rescind support, help, or assistance from one; to abruptly cause one to be in a problematic or difficult situation.  
-__put (one’s) heart and soul into (something)__ To do something with the utmost of one’s energy, enthusiasm, and determination.  
-__put (someone or something) to the test__  
-__put all of your eggs in one basket__  
-__put out fires__  
-__put up with (someone or something)__ To abide or endure someone or something that one finds unpleasant, inconvenient, or annoying.  
-__raise (ones) voice__ To speak or shout loudly, especially out of anger. _I know you’re upset, but there’s no need to raise your voice._  
-__reach out to (one)__ To make contact with one, especially in search of or to offer help, guidance, comfort, or support.  
-__red line__  
 __revolving door__  
 __rule of thumb__ A general principle developed through experiential rather than scientific means. An approximation; a suggested method or guideline. _A good rule of thumb is to plant your seedlings around the end of May._  
 __rule the roost__ To have the most control or authority in a group. _Both of our parents were tough, but Mama was as tough as an old shoe, who ruled the roost without saying a word._  
