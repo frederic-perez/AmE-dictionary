@@ -1,11 +1,17 @@
+__(stuck) in a rut__  
 __(there’s) no turning back (now)__ _expression_ The current course of action cannot be reversed or undone.  
+__a thorn in (one’s) side__  
+__all over (someone)__ Paying overly close attention to someone or something, often accompanied by unwelcome physical closeness as well. _I had barely walked in the door when reporters were all over me for a story._  
+__all the way__  
 __around and around__ __2__ In a circuitous, indirect fashion, without an end or satisfactory result. _Around and around these thoughts went in the miserable echo chamber of my mind._  
 __at all costs__ In any way possible, regardless of risk or expense.  
 __at hand__ __3__ Impending or imminent. _After months of planning, I’m thrilled that the event is finally at hand!_ _Victory is at hand._  
+__baby__ __2__ A jocular term of endearment for one’s friend. _C’mon, baby, help me load these boxes into the truck._  
 __back to back__  
 __backup plan__  
 __badass__  
 __be a must__ To be requisite, necessary, or indispensable.  
+__be up to (something)__  
 __behind the scenes__ :two::hammer:  
 __brutal__ _informal_ Cringe-inducingly unpleasant.  
 __buckle up__  
@@ -62,7 +68,8 @@ __finagle__
 __five o’clock shadow__  
 __flat-out__  
 __float an idea__ To suggest something in order to gauge interest in it or others’ perception of it.  
-__go a long way__  
+__from the get-go__  
+__go a long way__ :two::hammer:  
 __go to (someone or something)__  
 __God willing__ If all goes as it should; if everything goes well.  
 __gun-shy__  
@@ -79,24 +86,34 @@ __have (something) to do__ To have some task or action that one must complete or
 __have a go (at someone or something)__  
 __he-man__ A particularly strong, tough, and/or virile male, especially one who likes to flaunt his strength.  
 __head-to-head__ Describing a one-on-one matchup or comparison.  
+__heads up__ __2__ _n_ A preliminary notice, especially of future difficulty, trouble, or danger; a warning. Often hyphenated. _Make sure everyone gets the heads-up about the inspection tomorrow morning. We don’t want anyone coming in unprepared._  
 __heavy-footed__ Clumsy, ponderous, or lumbering in gait or tread. _The team’s star striker deftly navigated the ball past the heavy-footed defenseman._  
 __high roller__ Someone known for spending or gambling large amounts of money.  
+__holy cow__  
 __I kid you not__  
+__in full swing__ Well underway and operating at the highest possible level or pace.  
 __in short supply__ Scarce.  
+__keep (one’s) head above water__  
+__keep (one’s) head__ To be and remain in a calm, stable, sensible, and pragmatic state or condition despite stress.  
 __kick in__  
 __kind of__ Somewhat; partially.  
+__knock off__  
 __laugh at (someone or something)__  
 __let alone__ __2__ _expression_ Not to mention. The phrase is used to emphasize that if other more significant or pressing things are not possible or cannot be accommodated, a lesser thing certainly is not or cannot either. _I hardly had time to brush my teeth this morning, let alone do my hair!_  
 __mad (at someone or something)__  
 __make a splash__  
 __moved to tears__ Made to cry due to something that elicited overwhelming emotions. _I was moved to tears by the tributes to my late father._  
+__mumbo jumbo__  
+__no-brainer__  
 __out of the box__ __2__ Outside of or beyond what is considered usual, traditional, or conventional. (A less common shortening of “outside (of) the box.”)  
 __pecking order__  
 __plan B__  
+__play cat and mouse__  
 __play with fire__  
 __powers that be__ The people who are in authority. _The powers that be have decided to send back the immigrants._  
 __pride and joy__ :two::hammer:  
 __prop up__  
+__pull out__  
 __pull the carpet (out) from under (one’s) feet__ To suddenly or unexpectedly remove or rescind support, help, or assistance from one; to abruptly cause one to be in a problematic or difficult situation.  
 __put (one’s) heart and soul into (something)__ To do something with the utmost of one’s energy, enthusiasm, and determination.  
 __put (someone or something) to the test__  
@@ -104,8 +121,10 @@ __put all of your eggs in one basket__
 __put out fires__  
 __put up with (someone or something)__ To abide or endure someone or something that one finds unpleasant, inconvenient, or annoying.  
 __raise (ones) voice__ To speak or shout loudly, especially out of anger. _I know you’re upset, but there’s no need to raise your voice._  
+__reach out to (one)__ To make contact with one, especially in search of or to offer help, guidance, comfort, or support.  
 __red line__  
 __revolving door__  
+__rule of thumb__ A general principle developed through experiential rather than scientific means. An approximation; a suggested method or guideline. _A good rule of thumb is to plant your seedlings around the end of May._  
 __rule the roost__ To have the most control or authority in a group. _Both of our parents were tough, but Mama was as tough as an old shoe, who ruled the roost without saying a word._  
 __run down__  
 __run out of patience__ To become unable to remain patient any longer.  
@@ -127,6 +146,7 @@ __slide into (someone or something)__
 __slip up__  
 __slow and steady wins the race__  
 __slowly but surely__  
+__smother (someone or something) with (something)__  
 __sound asleep__ :two::hammer:  
 __spell out__  
 __spill over__  
@@ -136,6 +156,7 @@ __spycho__
 __stand by someone__  
 __stat__ __2__ Right away; without delay. A shortening of the Latin term “statim,” used especially in medicine (or as a parody of such usage). _I’m losing the patient. I need 10 CCs of epinephrine, stat!_ _Uh oh, I’m starting to feel sober. I need a pint and a shot of whiskey, stat!_  
 __stave off__  
+__stay afloat__  
 __stay put__  
 __stay tuned__ :two::hammer:  
 __step aside__ :dart:  
@@ -148,6 +169,8 @@ __stir the pot__ To exacerbate a tense or otherwise difficult situation.
 __stop (dead) in (one’s) tracks__ :two::hammer:  
 __stop short__  
 __strapped for cash__ Without any or very much money at the moment; broke, especially temporarily.  
+__turn around__ __7__ To improve in some way, especially after a poor performance. _The playoffs start in a month—that doesn’t leave much time for things to turn around._  
+__walk someone through something__  
 __wash over (someone or something)__  
 __water down__ :two::hammer:  
 __whipe your hair__ When you “whip your hair,” you’re moving your head and hair in a fast and forceful motion. The phrase is meant to evoke a sense of power and confidence.  
@@ -159,6 +182,7 @@ __with flying colors__
 __within reach__  
 __within reason__  
 __wrack (one’s) brain(s)__  
+__wrap (one’s) head around (something)__  
 __wrap up__  
 __XYZ__ In spoken language, “XYZ” is often used to refer to hypothetical or unspecified elements, variables, or situations.  
 __yap__ __2__ To chatter; to gossip. _Did you just come here to yap?_ __3__ _n_ Nonsense; gibberish. _That windbag can produce an enormous amount of yap._ __4__ _vi_ To empty one’s stomach; to vomit. _Who yapped in the bushes?_ _A yapping dog._  
