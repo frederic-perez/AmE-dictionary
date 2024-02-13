@@ -10463,8 +10463,8 @@ __lexical__ _adj_
 __liability__ _n_ :seven::hammer: _Certainly this power and ﬂexibility is useful, but it can also be a liability._ _He was a liability, an accident waiting to happen._  
 __liable__ _adj_ :two::hammer: _He is liable to be mistaken._ _They are liable to break if not handled properl byy._  
 __liaison__ _n_ :nine::pencil2: /lee-AY-zahn/ __1__ A person who helps organizations or groups to work together and provide information to each other. _She acts as a liaison between the mayor’s office and city schools._ _He was the Strike Force liaison on Abscam._ __2__ A close bond or connection. _The Human Resources Department has a close liaison with employees._  
-__libation__ _n_ :nine::hammer: (libations) _Dutch libations, like ciders, gins and liqueurs._  
-__libel<sup>1</sup>__ _n_ :nine::hammer: _Libel laws._ :es: calumnia, difamación  
+__libation__ _n_ :nine: __1a__ The pouring out of wine, etc, in honour of a deity. __b__ The liquid so poured out. __2__ _usually facetious_ An alcoholic drink. _Dutch libations, like ciders, gins and liqueurs._  
+__libel<sup>1</sup>__ _n_ :nine: __1__ _(Law)_ __a__ The publication of defamatory matter in permanent form, as by a written or printed statement, picture, etc. _Libel laws._ :es: calumnia, difamación __b__ The act of publishing such matter. __2__ Any defamatory or unflattering representation or statement.  
 __libel<sup>2</sup>__ _v_ :es: difamar  
 __libelous__ _adj_ Harmful and often untrue; tending to discredit or malign. _Syn_ calumnious, defamatory, denigrating, libellous, slanderous  
 __liberalization__  
