@@ -98,31 +98,6 @@ __garland__ _n_
 __generic name__ _n_  
 __gibe__ _n, v_ (jibe)  
 __gloss__ _n_  
-__go-to__ _adj_ __2__ Being the person or thing most trusted to accomplish a purpose.  
-__goalkeeper__ _n_  
-__gratuitous__ _adj_ /gruh-TOO-uh-tuss/  
-__haka__ _n_ __1__ A Maori war dance accompanied by chanting. __2__ A similar choreographed chant performed by a Rugby team, especially one from New Zealand.  
-__hassle__ _n_ __2__ A great deal of trouble; difficulty; nuisance.  
-__hatred__ _n_ :dart:  
-__head office__ _n_ :es: sede central  
-__heartfelt__ _adj_  
-__hydrophilic__ _adj_  
-__hydroponic__ _adj_  
-__impasse__ _n_ :two::hammer:  
-__indigen__ _n_ One that is native or indigenous to an area. _Syn_ aborigine, native  
-__ingot__ _n_ /ˈɪŋ gət/  
-__ingrained__ _adj_  
-__intent__ _n_  
-__interest__ _n_ /ˈɪn tər ɪst, -trɪst/  
-__inveigh__ _v_ /in-VAY/ _Inveigh_ is a formal word that means “to protest or complain bitterly or vehemently.” Like its synonym _rail_, it’s typically used with against. _Students inveighed against the new dress code policy._  
-__irredeemably__  
-__jalopy__  
-__Jim Crow laws__  
-__Juneteenth__  
-__lariat__ _n_ A long noosed rope used to catch animals. _Syn_ riata, lasso  
-__late-breaking__ _adj_  
-__likelihood__ _n_  
-__livelihood__ _n_  
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
 __lunisolar__ _adj_  
 __lynch__ _vt_  

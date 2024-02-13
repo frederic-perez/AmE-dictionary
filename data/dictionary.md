@@ -7792,13 +7792,13 @@ __go-for-broke__
 __go-getter__  
 __go-kart__ _n_ (go-cart) A small low motor vehicle with four wheels and an open framework; used for racing.  
 __go-pills__ _n_  
-__go-to__ _adj_ _The go-to method for 3D printing._  
+__go-to__ _adj_ :two: __2__ Being the person or thing most trusted to accomplish a purpose. _The go-to method for 3D printing._  
 __goad__ _vt_ :nine: To prod or urge with or as if with a long pointed stick.  
 __goads__ _n_  
 __goahead__  
 __goal average__ _n_ (sports) The ratio of the numbers of goals scored for and against a team in a series of matches, sometimes used in deciding the team’s position in a table.  
 __goalie__  
-__goalkeeper__  
+__goalkeeper__ _n_ :two::hammer:  
 __goalpost__ _n_  
 __goaltender__  
 __goatee__ _n_ :two::hammer: _Sagging goatee._  
@@ -7947,6 +7947,7 @@ __gratin__ _n_ _Sweet potato gratin._
 __grating<sup>1</sup>__ _n_ :five::hammer: _A bright green screen of thick metal grating sat solidly on the counter._ _A piece of old iron grating._ _The bridge is not paved but rather is an open grating._  
 __grating<sup>2</sup>__ _adj_ _A grating sound._  
 __gratis__ _adj, adv_ /GRAT-is, GRA/GRAY-tis/ Without payment; free.  
+__gratuitous__ _adj_ /gruh-TOO-uh-tuss/  
 __gratuity__ _n_ :two::hammer: (gratuities)  
 __graupel__ _n_ :two: Precipitation consisting of snow pellets.  
 __gravamen__ _n_ /gruh-VAY-mun/ Gravamen is a formal word that refers to the significant part of a complaint or grievance.  
@@ -8254,6 +8255,7 @@ __hair-trigger__ _adj_ Responding to the slightest provocation or stimulation: a
 __hairline__ _n_ :two::hammer:  
 __hairpiece__ _n_  
 __hairspray__ _n_ (hair spray)  
+__haka__ _n_ __1__ A Maori war dance accompanied by chanting. __2__ A similar choreographed chant performed by a Rugby team, especially one from New Zealand.  
 __haking__  
 __halal<sup>1</sup>__ _n_ (Islam) Meat from animals that have been killed according to Muslim law.  
 __halal<sup>2</sup>__ _adj_ (Islam) Of or relating to such meat: _a halal butcher._  
@@ -8417,7 +8419,7 @@ __hash<sup>2</sup>__ _v_
 __hashish__ _n_ :three::hammer: (hasheesh)  
 __hasp__ _n_ :three::hammer: _The hasp and padlock had been splintered loose from the wood._  
 __hassle-free__ _adj_ _informal_ :two: Wthout problems or bother.  
-__hassle<sup>1</sup>__ _n_ :three::hammer: _Advance seat assignment to avoid boarding hassles._  
+__hassle<sup>1</sup>__ _n_ :four::hammer: __2__ A great deal of trouble; difficulty; nuisance. _Advance seat assignment to avoid boarding hassles._  
 __hassle<sup>2</sup>__ _v_ :three::hammer: _Somewhere there are poeple hassling with memos, deadlines, and traffic._  
 __haste__ _n_  
 __hasten__ _v_ :six::mute:[has~~t~~en]:hammer: (hastened, hastening)  
@@ -8431,7 +8433,7 @@ __hatch<sup>2</sup>__ _vt_ :nine::m: (hatches, hatched) __3__ To contrive or dev
 __hatcheck girl__  
 __hatchery__ _n_ :three: A place for hatching eggs (as of poultry or fish). _A fish hatchery._ :es: criadero, vivero  
 __hatchet__ _n_ :two::hammer:  
-__hatred__ _n_ :two: /ˈheɪ trɪd/ The feeling of one who hates; intense dislike or extreme aversion or hostility. :es: odio  
+__hatred__ _n_ :dart::three: /ˈheɪ trɪd/ The feeling of one who hates; intense dislike or extreme aversion or hostility. :es: odio  
 __hauberk__ _n_ (Arms & Armour (excluding Firearms)) A long coat of mail, often sleeveless.  
 __haughty__ _adj_ :five::hammer: _Oscar votters are as haughty as the critics._ _Haughty manners._  
 __haul<sup>1</sup>__ _n_ :six::hammer: _A record haul of assets seized by Scotland Yard._ _It’s a small haul for such a high-profile program._  
@@ -8473,6 +8475,7 @@ __hazmat<sup>1</sup>__ _n_ /HAZ-mat/ [:scroll: A shortening of hazardous + mater
 __hazmat<sup>2</sup>__ _adj_ Relating to hazardous material.  
 __head and shoulders [above the rest/others]__ _phr informal_ :three: Much better than all the others. By the height of the head and shoulders; hence, by a great degree or space; by far; much; as, he is head and shoulders above them. _Texas is head and shoulders above everybody else with really unique packages for the consumer._  
 __head butt__ _n_ :two::hammer: (head butts) _His rival was trying to touch gloves to apologize for a head butt._  
+__head office__ _n_ :es: sede central  
 __head start__ _n_ :three::hammer: _Giving them a head start on finding a job._  
 __head wind__  
 __head__ _v_ _Head to Freakonomics.com._  
@@ -8516,7 +8519,7 @@ __heartbreak__ _n_ /ˈhɑːtˌbreɪk/ Intense and overwhelming grief, esp throug
 __heartedly__  
 __hearten__ _v_  
 __heartening__ _adj_ :dart: Causing cheerfulness; encouraging. _A heartening supper._ :es: alentador  
-__heartfelt__ _adj_ :six: /ˈhɑrtˌfɛlt/ Deeply or sincerely felt; earnest. _Heartfelt sympathy._  
+__heartfelt__ _adj_ :seven: /ˈhɑrtˌfɛlt/ Deeply or sincerely felt; earnest. _Heartfelt sympathy._  
 __hearth__ _n_ :nine::m: __1__ The floor of a fireplace in a house and the area around it. _A log fire roaring in the hearth._ _Hearth repair._ __2__ Home symbolized as a part of the fireplace. _The fishing port of Jonqueres had 354 taxable hearths._ _Hearth tax._  
 __heartily__ _adv_ _A sentiment which I heartily applaud._  
 __heartland__ _n_ :two: The central or most important part of a country, area, or field of activity. _The nation’s heartland._  
@@ -9091,8 +9094,9 @@ __hydrate__ _v_ :two::hammer: _Make sure you hydrate._
 __hydrocephalus__ _n_ :two::hammer:  
 __hydrology__  
 __hydrometeors__ _n_  
+__hydrophilic__ _adj_  
 __hydrophyte__ _n_ A plant adapted to grow in water. _Syn_ aquatic plant  
-__hydroponic__ _adj_  
+__hydroponic__ _adj_ :two::hammer:  
 __hydroponics__ _n_ A technique of growing plants (without soil) in water containing dissolved nutrients. _Syn_ aquiculture, tank farming  
 __hyetal__ _adj_ Of or relating to rain or rainy regions.  
 __hygge__  
@@ -9223,7 +9227,7 @@ __impale__ _v_ Pierce with a sharp stake or point. _Syn_ spike, transfix _My mot
 __impaneled__ _v_  
 __impart__ _v_  
 __impartible__  
-__impasse__ _n_ :seven::pencil2: Deadlock or stalemate. _At impasse._  
+__impasse__ _n_ :nine::pencil2: Deadlock or stalemate. _At impasse._  
 __impassioned__ _adj_ :three: /ɪmˈpæʃ ənd/ Filled with passion; fervent: _an impassioned plea for justice._  
 __impassively__  
 __impeach__ _v_ :two::hammer:  
@@ -9365,6 +9369,7 @@ __index card__ _n_
 __Indian paintbrush__ _n_  
 __indict__ _v_ :seven::hammer: (indicted :mega:)  
 __indictment__ _n_ :seven::hammer::mega: /ɪnˈdaɪtmənt/  
+__indigen__ _n_ One that is native or indigenous to an area. _Syn_ aborigine, native  
 __indigence__ _n_ Poverty; neediness. _Syn_ beggary, pauperism, penury, need  
 __indigenous__ _adj_ _Indigenous people._  
 __indigent__ _adj_ So poor as to lack even necessities; very needy. _Syn_ destitute, impoverished, necessitous, poverty-stricken _As we drove through the slum, our car was mobbed by indigent children begging for money._  
@@ -9452,9 +9457,9 @@ __ingenious__
 __ingenuity__ _n_ :dart::two::astonished: __1__ Inventive skill or imagination; cleverness. __2__ An ingenious or imaginative contrivance. __3__ _(obsolete)_ Ingenuousness.  
 __ingenuous__ _adj_ /in-JEN-yuh-wus/ Someone who shows innocent or childlike simplicity and candidness. _The ingenuous enthusiasm shown by several of the older campers was contagious, and soon everyone was excited about the project._  
 __inglenook__ _n_ :two: A nook or corner beside an open fireplace. _Syn_ chimney corner  
-__ingots__ _n_ :two::hammer::pencil2::  
+__ingot__ _n_ :three::hammer::pencil2: /ˈɪŋ gət/  
 __ingrain__ _v_ :three: To fix deeply or indelibly, as in the mind.  
-__ingrained__ _adj_ :five::hammer: _Speeding is deeply ingrained in American culture._  
+__ingrained__ _adj_ :six::hammer: _Speeding is deeply ingrained in American culture._  
 __ingrate__ _n_ :two: An ungrateful person. A person who shows no gratitude. _Syn_ thankless wretch, ungrateful person  
 __ingratiate__ _vt_ :five: /in-GRAY-shee-ayt/ _Ingratiate_ means “to gain favor or acceptance by deliberate effort.” It is usually used with _with_, and is often (though not always) used disapprovingly. _Scam artists often have an uncanny ability to ingratiate themselves with their victims using subtle flattery that only seems obvious in retrospect._  
 __ingress__ _n_ The act of going or coming in; an entering. _Syn_ incoming, entrance _From the time elapsing between the ingress of the beast and the screams, it seems probable that it was not immediately perceived._  
@@ -9544,6 +9549,7 @@ __integument__ _n_ :pencil2: Something that covers or encloses, esp. an envelopi
 __intel__ _n_ :four::hammer: _The intel value he might offer._ _The site provides crowd-sourced intel on how female-friendly company policy is at thousands of businesses._  
 __intemperance__ _adj_ :two: Lack of moderation _especially_ habitual or excessive drinking of intoxicants.  
 __intemperate__ _adj_ :four: /in-TEM-puh-rut/ __1__ Given to excessive indulgence of bodily appetites, especially for intoxicating liquors. _Syn_ hard, heavy _As he was prone to intemperate behavior at the alehouse, she expected him to stumble out of the carriage, hiccupping, in the wee hours of the morning._ __2__ Having extreme conditions. _The plant is able to survive in intemperate climates._ __3__ Having or showing a lack of emotional calmness or control. _The journalist apologized for her intemperate rant against the mayor._  
+__intent__ _n_  
 __intently__ _adv_ :three::hammer: _He watched him intently._  
 __inter__ _v_ (interred) To place in a grave or tomb; bury.  
 __interbreeding__ _n_  
@@ -9551,6 +9557,7 @@ __interdental__ _adj_ __2__ Articulated with the tip of the tongue between the u
 __interdict<sup>1</sup>__ _vt_  
 __interdict<sup>2</sup>__ _n_  
 __interdicting__  
+__interest__ _n_ /ˈɪn tər ɪst, -trɪst/  
 __interesting__ _adj_ /ˈɪn tər ə stɪŋ, -trə stɪŋ, -təˌrɛs tɪŋ/  
 __interim__ _adj, adv, n_ :two::hammer:  
 __interject__ _v_ To insert between other elements. _Syn_ interpose, throw in, come in, inject, put in _He listened thoughtfully, interjecting only the odd word._  
@@ -9606,7 +9613,7 @@ __invalidate__ _v_
 __invalidating__ _adj_ _Invalidating people._  
 __invariably__ _adj, adv_ _You’ll invariably notice it._  
 __invective__ _n_ :six: /in-VEK-tiv/ Invective means “insulting or abusive language.” It can also refer to an abusive expression or speech. _Her opening campaign speech was, to the shock of everyone present, filled with invective that contrasted sharply with the expectations of those in attendance._  
-__inveigh__ _v_ :dart::four: To give vent to angry disapproval; protest vehemently. To protest or complain bitterly or vehemently. _Syn_ rail _The detective had, indeed, good reasons to inveigh against the bad luck which pursued him._  
+__inveigh__ _v_ :dart::five: /in-VAY/ To give vent to angry disapproval; protest vehemently. To protest or complain bitterly or vehemently. _Inveigh_ is a formal word that means “to protest or complain bitterly or vehemently.” Like its synonym _rail_, it’s typically used with against. _Students inveighed against the new dress code policy._ _Syn_ rail _The detective had, indeed, good reasons to inveigh against the bad luck which pursued him._  
 __inveigle__ _v_ :four::dart: __1__ To win over by wiles. To win over by coaxing, flattery, or artful talk. _Syn_ cajole, coax, sweet-talk, wheedle _The salesman inveigled him so successfully that he paid twice the original price._ __2__ To acquire by ingenuity or flattery: _inveigled her way into a promotion._ _Syn_ wangle  
 __inverness__ _n_  
 __invest__ _v_ :two::hammer: _The Black Prince could be starved out if the French chose to surround and invest him._  
@@ -9646,6 +9653,7 @@ __ironclad__ _adj_ :two::hammer: _Ironclad persistence._ _Ironclad commitment._
 __ironist__  
 __ironman__ _n_ :mega::dart: (iron man) A strong man of exceptional physical endurance.  
 __irony__ _n_ In rhetoric, the notoriously confusing word irony means to use words to mean the opposite of their literal meaning. Example: Ashley said it was a beautiful day while drying off from the drenching rain. (Ashley ironically referred to poor weather as “beautiful.”)  
+__irredeemably__  
 __irrefutable__ _adj_ _Irrefutable evidence._  
 __irreplaceable__  
 __irrepressible__  
@@ -9709,7 +9717,7 @@ __jai-alai__ _n_ A Basque or Spanish game played in a court with a ball and a wi
 __jailbait__ _n_ _slang_ A girl who is younger than the legal age of consent for sexual activity.  
 __jakelegs__  
 __jakes__ _n_ _The flattery was seldom more than sheep jakes._  
-__jalopy__ _n informal_ :three: A dilapidated old vehicle or aircraft. Old car. _Syn_ heap, bus  
+__jalopy__ _n informal_ :four: A dilapidated old vehicle or aircraft. Old car. _Syn_ heap, bus  
 __jam up__ _v_  
 __jam__ _v_ :two::hammer:  
 __jam-packed__ _adj_ :two: Crowded, packed, or filled to capacity.  
@@ -9800,6 +9808,7 @@ __jigs__ _n_
 __jigsaw__ _n_ :three::hammer: (power tool, not puzzle)  
 __jilt__ _v_ :six: (jilted) To deceive or drop (a lover) suddenly or callously. _Syn_ forsake _Since being jilted by his fiancée, he had grown to distrust all women._ _Jilted at the altar._  
 __jilted__ _adj_ :two: Rebuffed (by a lover) without warning.  
+__Jim Crow laws__  
 __Jim Crow<sup>1</sup>__ _n_  
 __Jim Crow<sup>2</sup>__ _adj_ :two::hammer: _A Jim Crow county._  
 __jimmied__ _v_ :two::hammer:  
@@ -9900,7 +9909,7 @@ __jumpsuit__ _n_ :three::hammer: /ˈdʒʌmpˌsut/
 __jumpy__ _adj_ Nervous, afraid that something bad will happen.  
 __junction__ _n_ :three: A place where roads meet. _At 1st junction turn R & head to E to Hapton on Burnley Road._ _Conjunction junctions._  
 __juncture__ _n_ :nine: /JUNK-cher/ A point in time, esp a critical one (often in the phrase at this juncture). _At this juncture, a president might say, the government must decide whether to go ahead with war or to try to solve things diplomatically._ A juncture is a joint or connection between two things. Originally used in the physical sense, it has broadened in meaning to refer to an often urgent decision-making crossroads. _At some point you and your partner will reach a critical juncture and have to decide whether to get serious or break up._ It can also simply mean “point in time.” _She had never learned how to drive and, at this juncture, she knew she never would._ _Prep football at critical juncture._ _The game is at a critical juncture._  
-__Juneteenth__ _n_ :four: June 19, celebrated by African-Americans as the anniversary of the emancipation of slaves in Texas on June 19, 1865.  
+__Juneteenth__ _n_ :five: June 19, celebrated by African-Americans as the anniversary of the emancipation of slaves in Texas on June 19, 1865.  
 __junior__ _adj_ :two: A person who is a specified number of years younger than someone else. _He’s five years her junior._ _My partner is 15 years my junior and I’m probably going to die before he does._  
 __juniper berries__  
 __juniper__ _n_ :two::hammer: _Juniper is the basis for any gin._  
@@ -10257,6 +10266,7 @@ __largely__ _adv_ :four: To a large extent; mostly.
 __larger-than-life__ _adj_ _fig_ :six: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he’s larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn’t._  
 __largess__ _n_  
 __largesse__ _n_ :eight::pencil2::hammer: /lahr-ZHESS/ (largess) _The families who lost their houses in the fire sincerely appreciated the largesse shown by the people from their community._  
+__lariat__ _n_ A long noosed rope used to catch animals. _Syn_ riata, lasso  
 __lark__ _n_ :four::hammer: _Stop this jealousy lark!_  
 __larking__ _v_  
 __larp<sup>1</sup>__ _n_ /larp/ [:scroll: An acronym for Live Action Role Playing] A role-playing game in which participants assume various characters and use costumes and props.  
@@ -10279,7 +10289,7 @@ __lastly__ _adv_
 __latch<sup>1</sup>__ _n_ :three::hammer:  
 __latch<sup>2</sup>__ _v_ :three::hammer: (latched, latching)  
 __latchkey__  
-__late-breaking__ _adj_ :dart: Occurring very shortly before publication on the topic. _Late-breaking clinical trials._ _Late-breaking news._  
+__late-breaking__ _adj_ :dart::two: Occurring very shortly before publication on the topic. _Late-breaking clinical trials._ _Late-breaking news._  
 __latecomer__ _n_ :two::hammer: _I’m somewhat of a latecomer._  
 __later on__ _adv_  
 __lateral thinking__  
@@ -10516,7 +10526,7 @@ __lightning__ _n_ :two::hammer:
 __like hell__  
 __like-minded__ _adj_ Agreeing in opinions, goals, etc.  
 __likelier__  
-__likelihood__ _n_ :two::pencil2: Probability.  
+__likelihood__ _n_ :three::pencil2: Probability.  
 __likely__ _adj, adv_ :three::hammer: _Likely options._ _Likely candidates are WiFi and direct access to the satellite._ _You are likely to get derailed into organizing._  
 __likewise__ _adv_ :three::hammer:  
 __lilac tree__  
@@ -10611,7 +10621,7 @@ __Little Boy__ _n_
 __littoral<sup>1</sup>__ _adj_ :two: /LIT-uhr-uhl/ Relating to or situated at the shore.  
 __littoral<sup>2</sup>__ _n_ :two: A shore, especially the area between high tide and low tide levels.  
 __live wire__  
-__livelihood__ _n_ :dart::three: (livelihoods) Occupation or employment.  
+__livelihood__ _n_ :dart::four: (livelihoods) Occupation or employment.  
 __liverwurst__  
 __livery driver__  
 __livery__ _n_ :three::astonished: (liveries) __1__ The identifying uniform, badge, etc, of a member of a guild or one of the servants of a feudal lord. __4a__ The boarding and care of horses for a fee. _Six servants in livery._  
