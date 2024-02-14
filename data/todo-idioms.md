@@ -148,31 +148,6 @@ __spring chicken__
 __spycho__  
 __stand by someone__  
 __stand tall__  
-__stat__ __2__ Right away; without delay. A shortening of the Latin term “statim,” used especially in medicine (or as a parody of such usage). _I’m losing the patient. I need 10 CCs of epinephrine, stat!_ _Uh oh, I’m starting to feel sober. I need a pint and a shot of whiskey, stat!_  
-__stave off__  
-__stay afloat__  
-__stay put__  
-__stay tuned__ :two::hammer:  
-__step aside__ :dart:  
-__step down__  
-__step in__ To enter into some position, activity, or situation to intervene or improve it.  
-__step up__  
-__stick with (someone or something)__  
-__still standing__ A phrase that indicates resilience, endurance, and survival in the face of adversity.  
-__stir the pot__ To exacerbate a tense or otherwise difficult situation.  
-__stop (dead) in (one’s) tracks__ :two::hammer:  
-__stop short__  
-__strapped for cash__ Without any or very much money at the moment; broke, especially temporarily.  
-__tap into__  
-__then again__  
-__tick off__  
-__toot (one’s) own horn__  
-__turn around__ __7__ To improve in some way, especially after a poor performance. _The playoffs start in a month—that doesn’t leave much time for things to turn around._  
-__walk someone through something__  
-__wash over (someone or something)__  
-__water down__ :two::hammer:  
-__whipe your hair__ When you “whip your hair,” you’re moving your head and hair in a fast and forceful motion. The phrase is meant to evoke a sense of power and confidence.  
-__why on earth__  
 __wink wink (nudge nudge)__ A phrase spoken after a statement which emphasizes or points out a euphemistic underlying meaning or innuendo.  
 __with a bang__ :three::hammer:  
 __with a heavy hand__ __1__ In an excessive, authoritarian, or oppressive way or manner. _The police dispersed the protesters with a heavy hand._  
