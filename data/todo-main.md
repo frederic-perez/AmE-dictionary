@@ -1,4 +1,7 @@
 __ad nauseum__ _adv_ To a disgusting or ridiculous degree; to the point of nausea.  
+__aftershock__ _n_  
+__airstrike__ _n_  
+__archipelago__ _n_  
 __baffling__ _adj_ Impossible to understand; perplexing; bewildering; puzzling.  
 __ball valve__ _n_  
 __ballerina flats__ _n_ _Syn_ ballet flats  
@@ -47,6 +50,8 @@ __contingency plan__ _n_
 __conundrum__  
 __counterintuitive__ _adj_  
 __cozy__ _adj_ Relating to a genre of mystery stories with little suspense, explicit violence, or sexual content, often also having amateur sleuths and idyllic, intimate settings.  
+__crease__ _v_  
+__curb__ _vt_  
 __cursory__ _adj_  
 __dandelion__ _n_  
 __daydream__ _n_  
@@ -68,6 +73,7 @@ __detox__
 __discharge__ _vt_ __1__ To release or allow to go: _the hospital discharged the patient._  
 __dogshit__  
 __encourage__ _vt_ /ɪnˈkʌrɪdʒ/ /ɛnˈkɜr ɪdʒ, -ˈkʌr-/  
+__engage__ _v_  
 __era__ _n_  
 __evict__ _vt_ /ɪˈvɪkt/  
 __eviction__ _n_  
@@ -86,7 +92,9 @@ __fare evasion__
 __fast-paced__ _adj_  
 __fatal__ _adj_ /ˈfeɪtəl/  
 __fiddle__ _v_  
+__fighter__ _n_ __2__ A fast, maneuverable combat aircraft used to engage enemy aircraft.  
 __figurehead__ _n_ :two: __1__ A person nominally having a prominent position, but no real authority.  
+__fine-tune__ _vt_  
 __firestorm__ _n_  
 __footage__ _n_ :mega:  
 __forestry__ _n_  
@@ -98,6 +106,8 @@ __garland__ _n_
 __generic name__ _n_  
 __gibe__ _n, v_ (jibe)  
 __gloss__ _n_  
+__jellyfish__ _n_ :es: medusa  
+__loggerhead__ _n_ __1__ A thick-headed or stupid person; blockhead.  
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
 __lunisolar__ _adj_  
 __lynch__ _vt_  
@@ -108,6 +118,7 @@ __malnutrition__ _n_
 __manhunt__ _n_ An organized search, usually by police, for a wanted man or fugitive.  
 __manure__ _n_ __1__ The dung of livestock or poultry.  
 __Maori__ _n_ /ˈmaʊ ri/  
+__Mariupol__ _n_  
 __market cap__ _n_ :two: (market capitalization) An estimation of the value of a business that is obtained by multiplying the number of shares outstanding by the current price of a share.  
 __memento mori__ _n_  
 __military__ _adj, n_ /ˈmɪlɪtərɪ; -trɪ/  
@@ -164,6 +175,7 @@ __renowned__ _adj_
 __reptilian__ _adj_ :dart: /rep-TIL-ee-uhn, -TIL-yuhn/ __1__ Contemptible. __2__ Treacherous. __3__ Like a reptile.  
 __respondent__ _n_ /rɪˈspɒn dənt/  
 __rest__ _n_ __13__ (Billiards & Snooker) Any of various special poles used as supports for the cue in shots that cannot be made using the hand as a support.  
+__restraint__ _n_  
 __resurgence__ _n_  
 __rife__ _adj_  
 __rigorous__ _adj_  
@@ -179,7 +191,9 @@ __scuttle<sup>1</sup>__ _n_
 __scuttle<sup>2</sup>__ _vt_  
 __sea gypsy__ _n_  
 __seasoned__ _adj_  
+__secretary__ _n_ :mega: /ˈsɛk rɪˌtɛr i/  
 __self-doubt__ _n_ A lack of faith or confidence in oneself.  
+__semiretired__ _adj_ Working only on a part-time basis, as for reasons of ill health or advanced age.  
 __shortage__ _n_ /ˈʃɔr tɪdʒ/  
 __shortcoming__ _n_  
 __shortfall__ _n_  
@@ -206,21 +220,32 @@ __squarely__ _adv_ /ˈskwɛəlɪ/ __1__ In a direct way; straight: _he hit me sq
 __squeeze__ _n, v_  
 __stagnant__ _adj_  
 __stalk__ _v_  
+__steadfast__ _adj_  
+__stick shift__ _n_ A manual transmission for a motor vehicle.  
+__stopgap__ _adj, n_  
+__strangehold__ _n_ __2__ Complete power or control over a person or situation.  
+__stroke__ _v_ To rub (eg a furry animal) gently and repeatedly in one direction, especially as a sign of affection.  
+__substantial__  
 __tank top__ _n_  
+__theater of operations__  
 __timetable__ _n_  
 __tomahawk__ _n_ /ˈtɒm əˌhɔk/ [:scroll: C17: from Virginia Algonquian _tamahaac_]  
 __translational__ _n_ __2__ In science, of or relating to the application of basic or theoretical discoveries to the development of practical applications: _translational research._  
 __trumpey__ _v_  
 __underpin__ _vt_  
+__underway__ _adj_  
 __undeterred__ _adj_  
 __uneasy__ _adj_  
 __unfold__ _v_ __2__ To reveal or be revealed: _the truth unfolds._  
 __vegetate__ _v_ __3b__ To engage in relaxing or passive activities, such as watching television: _stayed home and vegetated last night._  
+__victory parade__ _n_  
 __victory speech__  
 __wander__ _n_ The act or an instance of wandering.  
 __war crime__ _n_  
+__warship__ _n_  
 __watchdog__ _n_  
 __woke__  
+__wow__ _vt_ To have a strong, usually pleasurable effect on: _a performance that wowed the audience._  
 __wrenching__ _adj_ Causing great physical or mental suffering. _ABC News went through a wrenching round of layoffs._  
 __wriggle__ _v_  
 __wring__ _v_ _It pays to wring your hands at least a little bit._  
