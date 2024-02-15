@@ -1,4 +1,11 @@
+__(it’s) all good__  
+__and whatnot__ Along with other things of a similar kind; and so forth.  
+__at the heart of__ The central or most important part of something.  
+__be here to stay__  
+__big deal__  
+__bits and pieces__  
 __call (all) the shots__  
+__catch (one) off guard__  
 __catch some shuteye__  
 __check your ego at the door__ To leave behind one’s pride, arrogance, or self-importance when entering a situation or environment.  
 __checkered career__ A history of employment characterized by many different kinds of jobs or by many alternating periods of success and failure.  
@@ -9,6 +16,7 @@ __Coke-bottle glasses__
 __cold, hard cash__ Dollar bills and coins, as opposed to checks or credit. _The deal won’t go through unless we pay him in cold, hard cash._  
 __collude with (someone or something)__  
 __come a long way__ To make significant progress. Almost always used in the present perfect tense (“have/has come a long way”).  
+__come to light__  
 __common ground__  
 __conventional wisdom__  
 __cook up__  
@@ -86,28 +94,35 @@ __high roller__ Someone known for spending or gambling large amounts of money.
 __holy cow__  
 __I kid you not__  
 __I know, I know__ A conversational phrase used to express that the speaker is aware of what the other person is saying or feeling, often to express empathy or understanding.  
+__if you will__  
+__in a new light__  
 __in full swing__ Well underway and operating at the highest possible level or pace.  
 __in one breath__ Very quickly, as of someone who is speaking (usually while very excited).  
 __in short supply__ Scarce.  
 __in the (grand) scheme of things__ In the long term; in the complete picture of something.  
 __in this day and age__  
+__keep (it) in mind (that)__  
 __keep (one’s) head above water__  
 __keep (one’s) head__ To be and remain in a calm, stable, sensible, and pragmatic state or condition despite stress.  
 __kick in__  
 __kind of__ Somewhat; partially.  
 __knock off__  
 __know a thing or two__  
+__lay (someone) to rest__  
 __left, right, and center__ In many different places or to many different people all at once. Primarily heard in US.  
 __lessons learned__ “Lessons learned” is an idiom that refers to the knowledge or wisdom gained from experience, especially from mistakes or setbacks.  
 __mix up__ :dart: __5__ _n_ A situation in which a mistake has been made, especially when one thing is confused for or erroneously swapped with another. As a noun, the phrase is usually hyphenated. _OK, here are your car keys. Sorry about the mix-up._  
 __name names__  
 __no matter what__ :two::hammer:  
+__on the brink of (something)__  
 __on the fence (about something)__  
 __one-off__  
 __part ways (with one)__  
+__play hardball (with one)__ :dart:  
 __poke fun at (someone or something)__  
 __put (someone or something) to the test__  
 __revolving door__  
+__ring out__ __2__ To mark or celebrate the end of something: _We rang out the old year with a champagne toast._  
 __rule of thumb__ A general principle developed through experiential rather than scientific means. An approximation; a suggested method or guideline. _A good rule of thumb is to plant your seedlings around the end of May._  
 __rule the roost__ To have the most control or authority in a group. _Both of our parents were tough, but Mama was as tough as an old shoe, who ruled the roost without saying a word._  
 __run down__  
@@ -115,10 +130,12 @@ __run out of patience__ To become unable to remain patient any longer.
 __safeguard against (someone or something)__  
 __save (something) for a rainy day__  
 __save the day__  
+__scratch (one’s) head__  
 __seeing is believing__  
 __seize upon (something)__  
 __set in stone__  
 __set the tone__  
+__shift gears__  
 __sick to (one’s) stomach__ Nauseated or vomiting.  
 __sidebar conversation__ _informal_ A conversation held privately between two people while one or more other people are already speaking.  
 __silver lining__  
@@ -136,17 +153,23 @@ __slowly but surely__
 __smother (someone or something) with (something)__  
 __sound asleep__ :two::hammer:  
 __spell out__  
-__spill over__  
+__spill over__ :two::hammer:  
 __spill the beans__  
 __spring chicken__  
 __spycho__  
 __stand by someone__  
 __stand tall__  
+__stay put__  
 __sticking point__ A topic of discussion or debate that results in disagreement. _The subject of curfew is often a real sticking point between teenagers and their parents._  
 __take the blame (for something)__  
 __tap (one) for (something)__  
+__the latest__  
 __tit for tat__ (_n pl_ tit for tats)  
+__to an extent__ Somewhat; partly; in a limited way or to a limited degree.  
 __to name (but) a few__  
+__turn over a new leaf__  
+__up until now__ From the beginning of a particular period of time until the present moment. It is used to indicate that something was true or existed in the past but may not be true or exist in the present or future.  
+__wake-up call__  
 __whoopsie__  
 __wink wink (nudge nudge)__ A phrase spoken after a statement which emphasizes or points out a euphemistic underlying meaning or innuendo.  
 __with a bang__ :three::hammer:  
@@ -155,6 +178,7 @@ __with a vengeance__ _Die Hard with a Vengeance._
 __with flying colors__  
 __within reach__  
 __within reason__  
+__worst-case scenario__  
 __wrack (one’s) brain(s)__  
 __wrap (one’s) head around (something)__  
 __wrap up__  
