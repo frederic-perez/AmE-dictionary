@@ -1,19 +1,25 @@
 __(stuck) in a rut__  
 __(there’s) no turning back (now)__ _expression_ The current course of action cannot be reversed or undone.  
 __a thorn in (one’s) side__  
+__ahem, ahem__  
 __all over (someone)__ Paying overly close attention to someone or something, often accompanied by unwelcome physical closeness as well. _I had barely walked in the door when reporters were all over me for a story._  
 __all the way__  
 __around and around__ __2__ In a circuitous, indirect fashion, without an end or satisfactory result. _Around and around these thoughts went in the miserable echo chamber of my mind._  
+__as all get out__ To the highest or furthest possible degree; as much as one can imagine. _Summers in Texas can be hot as all get-out._  
 __at all costs__ In any way possible, regardless of risk or expense.  
 __at hand__ __3__ Impending or imminent. _After months of planning, I’m thrilled that the event is finally at hand!_ _Victory is at hand._  
+__at loggerheads__  
 __baby__ __2__ A jocular term of endearment for one’s friend. _C’mon, baby, help me load these boxes into the truck._  
 __back to back__  
 __backup plan__  
 __badass__  
 __be a must__ To be requisite, necessary, or indispensable.  
+__be in the know__  
 __be up to (something)__  
 __behind the scenes__ :two::hammer:  
+__bestie__  
 __better (to be) safe than sorry__  
+__bigger fish to fry__ More important matters to deal with.  
 __brutal__ _informal_ Cringe-inducingly unpleasant.  
 __buckle up__  
 __by (oneself)__  
@@ -24,22 +30,27 @@ __checkered career__ A history of employment characterized by many different kin
 __chitchat__ __2__ _n_ An instance of idle or casual chatter. _We’re just having a chitchat, come on in._  
 __clinch__ _vt_ /klɪntʃ/ To settle something; to make something final. _I was able to clinch the deal, and I got a raise for it._  
 __close the door on (something)__  
+__Coke-bottle glasses__  
 __cold, hard cash__ Dollar bills and coins, as opposed to checks or credit. _The deal won’t go through unless we pay him in cold, hard cash._  
 __collude with (someone or something)__  
 __come a long way__ To make significant progress. Almost always used in the present perfect tense (“have/has come a long way”).  
 __common ground__  
+__conventional wisdom__  
+__cook up__  
 __correct me if I’m wrong__ Used to introduce a piece of information one believes is true, especially as a means of correcting someone else.  
 __cosleep__ Of a parent, to sleep in the same bed or room as one or more of their small or infant children. _We’re going to try cosleeping once the baby is born._ _Co-sleeping was a factor in quarter of Scotland’s infant deaths in 2023._  
 __cost the earth__ To be exorbitantly expensive.  
 __count on (someone or something)__  
 __crank up__  
 __cut a deal__  
+__cut it__  
 __cut off__ __2__ _v_ To abruptly move in front of another driver, either intentionally or unintentionally. In this usage, a noun or pronoun can be used between “cut” and “off.” _Can you believe that jerk cut me off like that? I nearly hit him!_  
 __cut someone or something out__  
 __dark cloud__  
 __date me doc__ A _date me doc_ is a document listing someone’s personal information and relationship preferences. The document is posted online in the hopes of attracting romantic partners.  
 __day in and day out__  
 __dealio__ _slang_ Alternative form of _dillio._ The deal; that which is current, relevant, or taking place. _What’s the dealio?_  
+__death toll__  
 __deepfake__  
 __destim__ [:scroll: de + stimulate] _Destim_ is a slang term that means to calm down by avoiding overwhelming stimuli, such as loud noises or stressful situations, as in _I went outside for a minute in order to destim._  
 __detached from reality__  
@@ -73,6 +84,7 @@ __finagle__
 __five o’clock shadow__  
 __flat-out__  
 __float an idea__ To suggest something in order to gauge interest in it or others’ perception of it.  
+__for the birds__  
 __from the get-go__  
 __frosty__ __2__ _mod_ Cool; really cool and mellow. _That music is really frosty._  
 __go a long way__ :two::hammer:  
@@ -103,6 +115,7 @@ __in full swing__ Well underway and operating at the highest possible level or p
 __in one breath__ Very quickly, as of someone who is speaking (usually while very excited).  
 __in short supply__ Scarce.  
 __in the (grand) scheme of things__ In the long term; in the complete picture of something.  
+__in this day and age__  
 __keep (one’s) head above water__  
 __keep (one’s) head__ To be and remain in a calm, stable, sensible, and pragmatic state or condition despite stress.  
 __kick in__  
@@ -110,8 +123,13 @@ __kind of__ Somewhat; partially.
 __knock off__  
 __know a thing or two__  
 __left, right, and center__ In many different places or to many different people all at once. Primarily heard in US.  
+__lessons learned__ “Lessons learned” is an idiom that refers to the knowledge or wisdom gained from experience, especially from mistakes or setbacks.  
+__mix up__ :dart: __5__ _n_ A situation in which a mistake has been made, especially when one thing is confused for or erroneously swapped with another. As a noun, the phrase is usually hyphenated. _OK, here are your car keys. Sorry about the mix-up._  
+__name names__  
 __no matter what__ :two::hammer:  
+__on the fence (about something)__  
 __one-off__  
+__part ways (with one)__  
 __poke fun at (someone or something)__  
 __put (someone or something) to the test__  
 __revolving door__  
@@ -126,6 +144,7 @@ __seeing is believing__
 __seize upon (something)__  
 __set in stone__  
 __set the tone__  
+__sick to (one’s) stomach__ Nauseated or vomiting.  
 __sidebar conversation__ _informal_ A conversation held privately between two people while one or more other people are already speaking.  
 __silver lining__  
 __six ways to Sunday__ _adj_ Askew, at an angle.  
@@ -148,6 +167,12 @@ __spring chicken__
 __spycho__  
 __stand by someone__  
 __stand tall__  
+__sticking point__ A topic of discussion or debate that results in disagreement. _The subject of curfew is often a real sticking point between teenagers and their parents._  
+__take the blame (for something)__  
+__tap (one) for (something)__  
+__tit for tat__ (_n pl_ tit for tats)  
+__to name (but) a few__  
+__whoopsie__  
 __wink wink (nudge nudge)__ A phrase spoken after a statement which emphasizes or points out a euphemistic underlying meaning or innuendo.  
 __with a bang__ :three::hammer:  
 __with a heavy hand__ __1__ In an excessive, authoritarian, or oppressive way or manner. _The police dispersed the protesters with a heavy hand._  
