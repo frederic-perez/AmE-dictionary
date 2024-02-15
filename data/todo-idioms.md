@@ -1,28 +1,3 @@
-__(stuck) in a rut__  
-__(there’s) no turning back (now)__ _expression_ The current course of action cannot be reversed or undone.  
-__a thorn in (one’s) side__  
-__ahem, ahem__  
-__all over (someone)__ Paying overly close attention to someone or something, often accompanied by unwelcome physical closeness as well. _I had barely walked in the door when reporters were all over me for a story._  
-__all the way__  
-__around and around__ __2__ In a circuitous, indirect fashion, without an end or satisfactory result. _Around and around these thoughts went in the miserable echo chamber of my mind._  
-__as all get out__ To the highest or furthest possible degree; as much as one can imagine. _Summers in Texas can be hot as all get-out._  
-__at all costs__ In any way possible, regardless of risk or expense.  
-__at hand__ __3__ Impending or imminent. _After months of planning, I’m thrilled that the event is finally at hand!_ _Victory is at hand._  
-__at loggerheads__  
-__baby__ __2__ A jocular term of endearment for one’s friend. _C’mon, baby, help me load these boxes into the truck._  
-__back to back__  
-__backup plan__  
-__badass__  
-__be a must__ To be requisite, necessary, or indispensable.  
-__be in the know__  
-__be up to (something)__  
-__behind the scenes__ :two::hammer:  
-__bestie__  
-__better (to be) safe than sorry__  
-__bigger fish to fry__ More important matters to deal with.  
-__brutal__ _informal_ Cringe-inducingly unpleasant.  
-__buckle up__  
-__by (oneself)__  
 __call (all) the shots__  
 __catch some shuteye__  
 __check your ego at the door__ To leave behind one’s pride, arrogance, or self-importance when entering a situation or environment.  

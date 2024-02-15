@@ -72,13 +72,14 @@ __(someone) is endgame__ _slang_ In fandom, the idea that a particular romantic 
 __(something) as a service__  
 __(something) won’t get (someone) anywhere__ Something, typically a certain behavior, will not help someone progress or succeed in any way.  
 __(still) going strong__ Continuing to be healthy, successful, or function properly. _Smartphones are designed to become obsolete, but my old flip phone from 2004 is still going strong._  
-__(stuck) in a rut__ :three: Seemingly trapped or stuck in a mundane, non-changing pattern of life, work, or personal behavior. _I had so many ambitions when I first graduated from college, but now I feel like I’m in a rut._  
+__(stuck) in a rut__ :four: Seemingly trapped or stuck in a mundane, non-changing pattern of life, work, or personal behavior. _I had so many ambitions when I first graduated from college, but now I feel like I’m in a rut._  
 __(T)sup?__ _interrog_ /ˈ(t)səp/ What’s up?; What is happening?; What have you been doing? _Hi! Tsup?_  
 __(the good) Lord willing and the creek don’t rise__ (rural) If all goes as it should; if everything goes well. _We’ve had a lot of delays, but Lord willing and the creek don’t rise, we should have the house finished before winter._  
 __(the) man/woman of the hour__ :two: A person currently being celebrated, honored, or admired by others, especially for a recent victory, accomplishment, or other cause for celebration. _Janet was woman of the hour at the office after securing the biggest customer their business had ever had._  
 __(the) next thing (one) knows__ :three: All of a sudden; out of nowhere; without warning. _I was standing in line, minding my own business, when the next thing I know, a gunman runs into the bank and starts screaming at us to get on the ground!_  
 __(there’s) no comparison__ This person or thing is clearly and inarguably better than any other. _This place serves the best pizza in town—no comparison!_  
 __(there’s) no rest for the wicked__ The lack of peace in one’s life, or the perpetual need to be working or be busy, stems from one’s sinfulness. The phrase comes from the Bible, in which it alludes to the suffering in hell that awaits sinners after death. Now, the phrase is usually used humorously. _A: I can’t seem to ever get all my work done. B: No rest for the wicked._  
+__(there’s) no turning back (now)__ _expression_ The current course of action cannot be reversed or undone.  
 __(well) what do you know__ :two: A phrase used to indicate one’s surprise upon discovering something. _Hey, what do you know—we have chocolate chips in the cabinet after all._ _Well, what do you know! It says here that my ancestors first came to this country in 1857!_  
 __(with) kind regards__ A common, semi-formal valediction used to at the end of a letter or other written message to express well wishes to the recipient. _I hope I’ll have the chance of meeting with you again soon. Kind regards, Brian_  
 __15 minutes of fame__ A brief period of celebrity or notoriety. The term was coined by artist Andy Warhol. _Jane had her 15 minutes of fame when she appeared on the nightly news broadcast._  
@@ -222,6 +223,7 @@ __a stab at (someone or something)__
 __a stab in the back__ A betrayal; an act of treachery. _It felt like a stab in the back to hear that Paul was going out with my ex-girlfriend._  
 __a standstill__ A period in which something is stopped or halted.  
 __a stone’s throw__ :two: A very short distance. _The shore house is a stone’s throw from the ocean!_ _Just a stone’s throw from Wrigley Field._  
+__a thorn in (one’s) side__  
 __a thou__  
 __a travesty of justice__ A legal act or decision that is so unjust that it seems like a grotesque mockery or imitation of the way the justice system is supposed to operate. _The acquittal of the mass murderer is an absolute travesty of justice._  
 __a walk in the park__ :two::hammer:  
@@ -289,6 +291,7 @@ __ahead of oneself__ :two: Idiomatic expression that refers to being overly conf
 __ahead of the curve__ :eight: __1__ Better than average. _I’m not sure how I did on that exam, but I think I’ll end up ahead of the curve._ __2__ At the forefront of or leading in something, such as a developing situation, field of study or business, social development, etc. _The new professor is way ahead of the curve with his research into genetics._  
 __ahead of time__ :two::hammer: _A day ahead of time._ _I apology ahead of time._  
 __ahead of__ _Energy talks look likely this week, ahead of the Monday deadline._  
+__ahem, ahem__  
 __ahoy there, me hearties__  
 __air rage__ Sudden, unruly, and often violently aggressive behavior of a passenger aboard an airplane, generally while in the air, which puts the safety of other passengers, the crew, or the airplane at risk. The term is modeled on “road rage,” which is the equivalent behavior in relation to driving. _Airline crews are trained to diffuse incidents of air rage, which often start as minor disputes between passengers._  
 __akin to (something)__ :three: Having similar properties, characteristics, or aspects to something; analogous to something.  
@@ -311,6 +314,7 @@ __all kidding aside__ ((all) kidding aside) In all seriousness; being frank for 
 __all of a dither__ In a nervous, confused, or agitated state.  
 __all of a sudden__  
 __all or nothing__  
+__all over (someone)__ Paying overly close attention to someone or something, often accompanied by unwelcome physical closeness as well. _I had barely walked in the door when reporters were all over me for a story._  
 __all over (something)__ :dart: __1__ Actively doing or working on something. _You need this printed out? No worries, I’m all over it._ __2__ Very interested in something. _My daughter is all over tennis these days, so I just signed her up for some lessons._  
 __all over the map__  
 __all over the place<sup>1</sup>__ _adj_ :five: Inconsistent; lacking a clear pattern; with a large amount of variation. Very scattered or disorganized; ill-conceived. _Boy, that presentation was all over the place. It’s like they wrote it five minutes before taking the stage!_ _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
@@ -324,6 +328,7 @@ __all that jazz__ :four: All that stuff; all that nonsense.
 __all the better__ Even better.  
 __all the difference in the world__ :two: The greatest degree of difference that is possible or conceivable. Without the verbs “mean” or “make,” it is used to compare two disparate things. _There’s all the difference in the world between knowing how to play and actually performing on the field._ _I was sympathetic at first, but finding out you didn’t even study for the test makes all the difference in the world. You’re grounded!_  
 __all the rage__ _slang_ Very popular. _Disco music was all the rage in the 1970s._  
+__all the way__  
 __all things considered__ :two::hammer:  
 __all too often__ :three: Too frequently. _We see this problem all too often._  
 __all-out war__ :two: Unrestricted fighting or conflict. This phrase can be used literally or hyperbolically. _I fear that an invasion will lead to all-out war._ _It is all-out war right now for that empty corner office._  
@@ -376,7 +381,7 @@ __arm in arm__ _They were arm in arm, singing with the band._
 __arm’s length__ A distance intentionally kept from something or between something, equal (literally or figuratively) to an arm’s span. Typically used in the phrase “keep at an arm’s length.” _Nancy has been keeping me at an arm’s length ever since she found out I was gossiping about her._  
 __armchair expert__  
 __armed to the teeth__ :two: Fully armed, having many weapons.  
-__around and around__ __2__ In a circuitous, indirect fashion, without an end or satisfactory result. _We’ve gone around and around with the insurance company, and they still haven’t paid our claim._  
+__around and around__ :two: __2__ In a circuitous, indirect fashion, without an end or satisfactory result. _Around and around these thoughts went in the miserable echo chamber of my mind._ _We’ve gone around and around with the insurance company, and they still haven’t paid our claim._  
 __around Robin Hood’s barn__ On a long, indirect route. _A: “What took you guys so long to get here?” B: “Well, rather than just going through town, our esteemed driver took us all around Robin Hood’s barn instead!”_  
 __around the clock__ :three: Without stopping. _Syn_ for 24 hours, round the clock _Engineers work around the clock for three days trying to recover._  
 __around the corner__ :two: Going to happen soon.  
@@ -384,6 +389,7 @@ __around the horn__ :two: [:scroll: Originally a nautical term referring to Cape
 __artsy__  
 __as a duck takes to water__ _cliché_ Easily and naturally. _She took to singing just as a duck takes to water._ _The baby adapted to the bottle as a duck takes to water._  
 __as a last resort__ As a final option, usually when preferable ones have failed.  
+__as all get out__ To the highest or furthest possible degree; as much as one can imagine. _Summers in Texas can be hot as all get-out._  
 __as blind as a bat__ Unable to see well.  
 __as easy as shooting fish in a barrel__ Of some task or activity, exceptionally easy to do or accomplish. _Like shooting fish in a barrel._  
 __as ever__ _As ever, he was right._  
@@ -419,6 +425,7 @@ __at a discount__ _Virtues are held at a discount._
 __at a loss__ _They sat inside the car, at a loss for what to do next._  
 __at a moment’s notice__:dart::three: With little time to prepare; immediately and at any time. _Firefighters need to be able to spring into action at a moment’s notice._  
 __at a snail’s pace__ :two: (at a snail’s gallop) Very slowly (as a snail is known to move very slowly). _My research is moving at a snail’s pace—every experiment I’ve tried so far has failed._  
+__at all costs__ In any way possible, regardless of risk or expense.  
 __at any cost__ Regardless of the cost involved. _He wanted to save her life at all cost._  
 __at any rate__ :three: Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
 __at best__  
@@ -427,12 +434,13 @@ __at every turn__ :two: __1__ At every opportunity. _My opponent has tried to di
 __at face value__  
 __at first blush__ :two: Upon first seeing or considering something. _At first blush, it sounded like a supremely dumb idea._  
 __at gunpoint__  
-__at hand__  
+__at hand__ :two: __3__ Impending or imminent. _After months of planning, I’m thrilled that the event is finally at hand!_ _Victory is at hand._  
 __at heart__ :three::hammer: _Most people are crooks at heart._ _I’m a country girl at heart._  
 __at its best__ :two: Of or at the highest standard of quality possible. _You’ll love their new album; it’s simply jazz at its best._ _An excellent tribute to nature at its best._  
 __at its worst__  
 __at large__ :three::hammer:  
 __at length__ :four::hammer: _At length a messenger entered the camp site and sought out King._ _Terms were discussed at length in open session._  
+__at loggerheads__  
 __at odds__ :seven: (be at odds) In disagreement; in conflict. _The overhaul have put Pemex and the Energy Ministry at odds._ _They’re often at odds._ _They are at odds over the best way to lead the committee._  
 __at once__ :two::hammer:  
 __at one button__ _The Prince did not value a knight at one button._  
@@ -474,6 +482,7 @@ __B-girl__ _n_ A woman who is employed by a bar to encourage customers to spend 
 __B-Team__  
 __baby boomer__  
 __baby step__ :two::hammer:  
+__baby__ __2__ A jocular term of endearment for one’s friend. _C’mon, baby, help me load these boxes into the truck._  
 __babygirl__ _slang_ A term of endearment that refers to attractive older male celebrities or fictional male characters. Babygirl is especially likely to be used to refer to a male that is seen as vulnerable, sensitive, cute, or submissive.  
 __back and forth__  
 __back at square one__ :dart:  
@@ -488,7 +497,7 @@ __back on the horse__
 __back on track__ Continuing as planned or expected, typically after a problem or distraction.  
 __back out (of something)__ :two::hammer: _If he’d had an honorable way to back out of the job, he would have._ _Medtronic backs out of $738M acquisition due to “multiple breaches.”_  
 __back out__  
-__back to back__ :three::hammer:  
+__back to back__ :four::hammer:  
 __back to basics__ :two::hammer:  
 __back to square one__  
 __back to the salt mines__ Back to one’s job or daily work, especially when it is very hard or unpleasant. (Workers in salt mines were often slaves and prisoners.) Sometimes used humorously. _I’m not excited to get back to the salt mines on Monday._  
@@ -498,7 +507,7 @@ __backdoor__
 __backhanded compliment__ :dart: An insulting or negative comment disguised as praise.  
 __backpedal__ :three: To quickly and often abruptly reverse or retreat from one’s position or opinion on a given subject. Refers to pedaling backwards on a bicycle (done to apply the brakes on fixed-gear bikes), or to taking quick, backward steps, as in football or boxing. _The actor had to backpedal when he let slip a racist remark during the press conference._  
 __backslider__ One who reverts or relapses into bad habits, unethical or immoral behavior, or criminal activity. _We’ve tried to help her quit smoking, but she’s a bit of a backslider._  
-__backup plan__ A plan for some alternative or reserve course of action should another plan fail. _It’s important that we have a backup plan in case our funding proposal is not successful._ _Always contemplate a backup plan._  
+__backup plan__ :two: A plan for some alternative or reserve course of action should another plan fail. _It’s important that we have a backup plan in case our funding proposal is not successful._ _Always contemplate a backup plan._  
 __backwater__  
 __bad apple__ A person whose own words or actions negatively impacts an entire group of people. Taken from the proverb “a bad apple spoils the bunch.”  
 __bad blood__ :three: Tension, disdain, or enmity between two or more people due to past disagreements or transgressions. _There’s bad blood between Elise and Piper, so don’t leave them alone together._  
@@ -509,7 +518,7 @@ __bad press__ :three: Negative or unflattering coverage by the media. _Drones ge
 __bad sport__ Someone who becomes petulant, disagreeable, or belligerent when they lose.  
 __bad word__ A euphemism for profanity. A curse or swear word. _You just said a bad word! I’m telling mom!_ _Cat says bad words._  
 __bad__ :astonished: __1__ mod. Powerful; intense. _This grass is bad!_ __2__ mod. Suitable; excellent; good. _I got some new silks that are really bad._  
-__badass__ :three::hammer:  
+__badass__ :four::hammer:  
 __baddie__ __1__ The antagonist or enemy in a book, film, video game, etc. _Bowser is the main baddie who’s always causing trouble for Mario and Luigi._ __2__ Someone or something that is deemed negative or harmful. _Sean is in time-out because he was being a baddie today._  
 __badgering the witness__ Term used when an attorney is questioning a witness on the stand, and is being unduly snide or pushy, or bullies the witness to answer the question. When an attorney badgers a witness, the other side will use an objection to seek the judge’s intervention.  
 __bae__ _slang_ One’s romantic partner. Often used as a term of endearment. _I don’t have any plans tonight—just staying home with bae._  
@@ -575,6 +584,7 @@ __be a given__
 __be a keeper__ :two::hammer:  
 __be a long shot__ To be very risky, uncertain, or unlikely to succeed. (Of an attempt, proposition, or guess.) _I know this is a long shot, but would you like to go out on a date with me sometime?_  
 __be a loud mouth__ To have a tendency or habit of speaking incessantly, indiscreetly, and/or in a noisy, boastful manner. _If I had known you were such a loud mouth, I’d have never shared my secret with you!_  
+__be a must__ To be requisite, necessary, or indispensable.  
 __be a roaring success__ To be extremely or triumphantly successful.  
 __be a wash__ To have gains and losses that are considered to be equal or offset; to have an outcome of negligible advantage or disadvantage. _The product sold moderately well, but we spent so much on development and marketing that it ended up being a wash._  
 __be all and end all__ (be-all and end-all) The quintessential or all-important element.  
@@ -622,7 +632,7 @@ __be in pursuit__ Following or chasing someone or something. _The burglar got aw
 __be in tall cotton__ :two: To be in a time or period of great success or well-being; to be doing very well. _We were in tall cotton after my wife’s late uncle left us his fortune._  
 __be in the dark (about someone or something)__ _We are in the dark._  
 __be in the hunt__  
-__be in the know__ _slang_ To be well-informed, especially about a topic that is not widely known.  
+__be in the know__ :two: _slang_ To be well-informed, especially about a topic that is not widely known.  
 __be in the wrong__ To have done something incorrect or inappropriate.  
 __be just the same (to someone)__ To make no difference (to someone) one way or another; to be unimportant (to someone) what happens.  
 __be keen about (someone or something)__  
@@ -693,6 +703,7 @@ __be thrilled to death__ To be ecstatic; to be very pleased and excited. _I was 
 __be tied (up) in knots__ To be confused, anxious, worried, and/or upset (about something). _I’ve been tied up in knots trying to come up with a good topic for my term paper, but I just can’t think of anything!_  
 __be two/three etc years someone’s junior__ :three: To be younger than someone else by a particular amount. _Diane is 12 years her husband’s junior._ _His remarriage at the age of 46 to a girl some thirty years his junior took place in February 1386._  
 __be two/three etc years someone’s senior__ To be two/three etc years older than someone. _Her husband is fifteen years her senior._  
+__be up to (something)__  
 __be warned__ _Be warned, Commander, I didn’t make this coffee._  
 __be well versed in (something)__ To be very knowledgeable about, skillful in, or competent at something. _John is well versed in lying, so he’s always able to talk his way out of trouble._  
 __be woke__  
@@ -734,7 +745,7 @@ __behind closed doors__ :dart::six: In secret, privately.
 __behind our backs__ _Behind our backs they called us the Spic and the Mik._  
 __behind the curtain__  
 __behind the eight ball__ If someone or something is behind the eight ball, they are in trouble or in a difficult situation. If a child doesn’t get the basics in primary school, they are way behind the eight ball.  
-__behind the scenes__ :four: Without being widely known or attracting attention. Referring to the private portion of a venue, operation, or production, as opposed to the public part. _Let’s have a round of applause for all the people who worked behind the scenes to give us such a great event!_  
+__behind the scenes__ :six: Without being widely known or attracting attention. Referring to the private portion of a venue, operation, or production, as opposed to the public part. _Let’s have a round of applause for all the people who worked behind the scenes to give us such a great event!_  
 __behind the times__ Old-fashioned.  
 __belie__ _v_  
 __bell the cat__ To perform a daring act.  
@@ -747,9 +758,9 @@ __bend over backward(s)__ :two: To try very hard to do something. This phrase ha
 __bend the rules__ To allow something to be done which is technically against the rules or not normally accepted.  
 __best of all__ Used to refer to the most important or appealing part of something that has many good parts. _The machine is easy to use, easy to clean, and best of all, it’s absolutely free when you order these books._  
 __best-kept secret__  
-__bestie__ _slang_ One’s closest friend. _I’m so excited that my bestie is coming to visit this weekend!_  
+__bestie__ :two: _slang_ One’s closest friend. _I’m so excited that my bestie is coming to visit this weekend!_  
 __bet the farm__ To risk everything on a venture that one thinks will be successful. Primarily heard in US. _I wouldn’t bet the farm on that wacky invention._  
-__better (to be) safe than sorry__  
+__better (to be) safe than sorry__ :two::hammer:  
 __better late than never__  
 __better the devil you know than the devil you don’t__ _prov_ When faced with two options, it is better to choose the more familiar one, even if it is undesirable. _A: “Why don’t you just quit your job if you’re so miserable?” B: “Who knows if a new job will be any better! Better the devil you know than the devil you don’t.”_  
 __better the devil you know__  
@@ -770,7 +781,7 @@ __big if__ Something that is both important and uncertain. _Syn_ a fundamental q
 __big name__ :two: __2__ _adj_ Of great importance, fame, success, or reputation in a particular field or area. Often hyphenated. _We’ve got a lot of big-name singers who perform at our annual charity event._  
 __big spender__ :two: Someone who spends money freely and in great amounts, especially on nonessential things or events. Can also be used sarcastically to refer to someone who is reluctant to spend money, or who offers to spend only a small amount. _There are a certain few big spenders who always come through the casino, so we try to make sure they have the best experience possible._ _You’re only willing to pay for my soda? Wow, you’re a real big spender._  
 __big time__ :three::hammer:  
-__bigger fish to fry__  
+__bigger fish to fry__ :two: More important matters to deal with.  
 __bigger than life__ (larger than life)  
 __biggie__  
 __bigheaded__  
@@ -923,13 +934,13 @@ __brood over__ :two: To worry anxiously or be despondent about something or some
 __browbeat (one) into (something)__ To thoroughly and continually dominate, intimidate, or bully one into some state or action.  
 __brown eye__  
 __brown noser__ _n idiom_ (brown-noser) Someone who pleases an important or powerful person in order to get a benefit.  
-__brutal__ __1__ :astonished: _informal_ Cringe-inducingly unpleasant. __2__ _mod_ Excellent; powerful. _Man, what a brutal tune!_  
+__brutal__ :two: __1__ :astonished: _informal_ Cringe-inducingly unpleasant. __2__ _mod_ Excellent; powerful. _Man, what a brutal tune!_  
 __bubble over__ Of an emotion, to be too strong for one to contain or refrain from expressing. _Her enthusiasm for the subject she teaches just bubbles over in the classroom._  
 __bubble up__  
 __buck the trend__  
 __bucket list__ :three::hammer: _That’s one of my bucket list items._  
 __buckle down__ _Buckle down and work harder._  
-__buckle up__ :seven::hammer: _Bucking up a seat belt._ _Oregon law calls for drivers and passengers to buckle up for safety in both the front and back seats._ __4__ _slang_ Prepare for what is about to happen, such as danger, excitement, trouble, etc. _The boss is in a terrible mood today, so buckle up!_ _Buckle up, folks. This game is going down to the wire!_  
+__buckle up__ :eight::hammer: _Bucking up a seat belt._ _Oregon law calls for drivers and passengers to buckle up for safety in both the front and back seats._ __4__ _slang_ Prepare for what is about to happen, such as danger, excitement, trouble, etc. _The boss is in a terrible mood today, so buckle up!_ _Buckle up, folks. This game is going down to the wire!_  
 __buff up__  
 __bug off__ _slang_  
 __bug__ __7__ _v_ To annoy, pester, or irritate someone. _I don’t know what it is about Tom, but he just bugs me whenever I’m around him._ _Your kids will be too busy bugging you to buy them cotton candy at the concession._  
@@ -986,7 +997,7 @@ __button (one’s) lip__ To be quiet. Often used as an imperative. _Hey, button 
 __buy the farm__ To die.  
 __buy__ _slang_ To believe or accept something as true or feasible without question or investigation. _I can’t believe the boss bought my excuse for missing work yesterday._  
 __buzz__ :two::hammer: _Buzzed the fuzz._  
-__by (oneself)__  
+__by (oneself)__ :two::hammer:  
 __by a mile__ :two: By a large amount; by a lot. _We won that game by a mile! I think the final score was 10-1._  
 __by all accounts__ :dart::four: From all the reports (that are available); according to what everyone is saying. _According to all accounts, the police were on the scene immediately._ _By all accounts, it was a very poor performance._  
 __by all means__  
@@ -5825,8 +5836,8 @@ __while supplies last__ :two::hammer:
 __while the night__ _Anyone who is anyone has whiled the night away here._  
 __whip by__ (whipping by) _The summer is whipping by._  
 __whip out__  
-__whipcrack__ “Whipcrack” is a term that James Ellroy uses in his novels to describe a fast, sharp, and sudden action or event. It’s used to evoke a sense of speed, intensity, and urgency.  
 __whip your hair__ When you “whip your hair,” you’re moving your head and hair in a fast and forceful motion. The phrase is meant to evoke a sense of power and confidence.  
+__whipcrack__ “Whipcrack” is a term that James Ellroy uses in his novels to describe a fast, sharp, and sudden action or event. It’s used to evoke a sense of speed, intensity, and urgency.  
 __whipout__ It’s another slang term that Ellroy uses to describe something that happens quickly and violently. In his books, it can mean a sudden attack, a fast getaway, or even just a quick, sharp response to something.  
 __whisper sweet nothings__ To murmur words of affection to someone in a flirtatious manner.  
 __whistleblower__ :two::hammer:  
