@@ -193,7 +193,7 @@ __acute__ _adj_
 __ad hoc<sup>1</sup>__ _adv_ :three: For the specific purpose, case, or situation at hand and for no other: _a committee formed ad hoc to address the issue of salaries._  
 __ad hoc<sup>2</sup>__ _adj_ __1__ Formed for or concerned with one specific purpose: _an ad hoc compensation committee._ __2__ Improvised and often impromptu.  
 __ad infinitum__ _adv_ :three::hammer: _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
-__ad nauseam__ _adv_ :five: To a disgusting or ridiculous degree; to the point of nausea. _Psychology graduate students are taught to repeat ad nauseam: “Correlation is not causation.”_  
+__ad nauseam__ _adv_ :six: To a disgusting or ridiculous degree; to the point of nausea. _Psychology graduate students are taught to repeat ad nauseam: “Correlation is not causation.”_  
 __ad__ _n informal_ :two::mega: Advertisement.  
 __ad-lib<sup>1</sup>__ _adj_ Of or characterized by an impromptu fashion, with little or no preparation beforehand. _Jazz improv is always a bit ad-lib by design; you can’t plan what you might play!_  
 __ad-lib<sup>2</sup>__ _adv_ Done in an impromptu or free-hand fashion, with little or no preparation beforehand. _His comedy is always so unique; I hear he does the whole thing ad-lib._  
@@ -309,6 +309,7 @@ __afterimage__ _n_ :three: A visual image that persists after the visual stimulu
 __aftermarket__  
 __aftermath__ _n_ :three: /AF-ter-math/ Aftermath refers to the period of time shortly following a destructive event, or to a negative consequence or result.  
 __afters__ _n informal_ :two: Dessert.  
+__aftershock__ _n_  
 __afterward__ _adv_ :two::hammer:  
 __Agamemnon__ _n_ A legendary king of Mycenae, the son of Atreus and brother of Menelaus, who led the Greeks in the Trojan War and was murdered by his wife Clytemnestra.  
 __agape__ _adj, adv_ __1__ With the mouth wide open, as in wonder. __2__ Wide open. _He stood there with his mouth agape._  
@@ -380,6 +381,7 @@ __airfield__
 __airhead__ _n_ _slang_ A stupid person.  
 __airscrew__ _n_ A propeller that rotates to push against air. _Syn_ prop  
 __airship__ _n_ _Tethered airships._  
+__airstrike__ _n_  
 __airtight__ _adj_ :two: __1__ Impermeable by air. __2__ Having no weak points; sound: an airtight excuse.  
 __airtime__ _n_  
 __airy__ _adj_ :two::hammer: _Airy restaurant._ _The master bedroom is airy._  
@@ -810,7 +812,7 @@ __archeology__ _n_ :mute:[arc~~h~~eology]
 __archetypal__  
 __archetype__ _n_ :two::hammer: /ˈɑr kɪˌtaɪp/ /AHR-kih-type/  
 __Archimedes__ _n_ :mega:  
-__archipelago__ _n_ :five::hammer::mega::pencil2: _Archipelago nation._ _The Philippine archipelago._  
+__archipelago__ _n_ :six::hammer::mega::pencil2: _Archipelago nation._ _The Philippine archipelago._  
 __architect__ _n, v_ :two::hammer::mute:[arc~~h~~itect] _He architected the first mesh optical network._  
 __architecture__ _n_ :mega:  
 __archivist__ _n_ :two::hammer: /ˈɑr kə vɪst, -kaɪ-/  
@@ -1191,7 +1193,7 @@ __baffle__ _v_ :eight: __1__ To confuse or perplex, especially so as to frustrat
 __baffled__ _adj_ :four: /ˈbæfəld/ Lacking in understanding: _Police are baffled by the murder._  
 __bafflement__ _n_ Confusion resulting from failure to understand. :es: desconcierto, perplejidad  
 __baffles__ _n_ _Double-wall louver baffles._  
-__baffling__ _adj_ :two: /ˈbæflɪŋ/ Impossible to understand; perplexing; bewildering; puzzling. _Baffling season._  
+__baffling__ _adj_ :three: /ˈbæflɪŋ/ Impossible to understand; perplexing; bewildering; puzzling. _Baffling season._  
 __bag out__ _v_ _Why’d you bag out on me?_  
 __bag__ _v_  
 __baggie__ _n informal_ :three: (baggies) Any small bag or packet. _Take baggies for the extra goodies._  
@@ -1229,9 +1231,11 @@ __ball boy__ _n_ (ball girl) _(in sport, esp tennis)_ A person who retrieves bal
 __ball gag__ _n_ A bondage item that consists of a ball on a rope that is shoved into the victim’s mouth and tied tight. Supposedly it’s more effective at muffling yells.  
 __ball game__ _n_ _Take me out to the ball game._  
 __ball player__  
+__ball valve__ _n_  
 __balladeer__  
 __ballast__ _n_ :two::hammer:  
 __ballcap__ _n_ A baseball cap.  
+__ballerina flats__ _n_ _Syn_ ballet flats  
 __ballet__ _n_ :mute:[balle~~t~~]  
 __ballistic__  
 __balloon__ _n_ :two::hammer: _The dog balloon is a fundamental sculpture in the art of balloon animals._ _Balloon-lined car dealership._  
@@ -1280,7 +1284,7 @@ __banquet__ _n_ :mega::two::hammer:
 __banshee__ _n_ :two::hammer: _The cry of the banshee._  
 __bantam__ _n_ :two::hammer: _Playing hockey at the bantam level._  
 __bantamweight__ _n_ :two: _Rousey is the women’s bantamweight champ._  
-__banter<sup>1</sup>__ _n_ :seven::hammer:  
+__banter<sup>1</sup>__ _n_ :eight: Good-humored, playful, or teasing conversation.  
 __banter<sup>2</sup>__ _v_ :three::hammer:  
 __banzai__ _n_ _They tried a banzai._  
 __Baptist__ _adj, n_ _A Baptist preacher._  
@@ -1436,6 +1440,7 @@ __bedridden__ _adj_ :four: Confined to bed because of illness or infirmity. _She
 __bedrock__ _n_ :eight: Bedrock is the hard layer of rock beneath looser rocks and soil. In some places, the bedrock is exposed, while in others it lies deep underground. A geologist who’s interested in studying the bedrock in different areas might have to dig through the various layers of soil to reach that bedrock. You can also use the word in a figurative way, to mean “the heart of the matter,” or “the basic, fundamental principles.” For example, you might say that fairness and freedom is the bedrock of a good government.  
 __bedrolls__  
 __bedside__ _adj, n_  
+__bedsit__ _n_ :es: habitación amueblada; estudio amueblado  
 __bedspreads__ _n_  
 __bedstead__  
 __bee eater__ _n_ :es: abejaruco  
@@ -1453,6 +1458,7 @@ __Beelzebub__ _n_
 __beep-de-beep__  
 __beer gut__  
 __beer head__ _n_ The frothy foam on top of beer which is produced by bubbles of gas, typically carbon dioxide, rising to the surface.  
+__beer league__ _n_ A community sports league, such as for hockey, softball, or soccer, whose members are amateurs of diverse ages and walks of life and play purely for the fun and socializing involved: games are usually accompanied or followed by alcohol and food: _My dad has played hockey in a beer league for years now, along with accountants, plumbers, and students._  
 __beer pong__ _n_  
 __beer tap__ _n_ A valve, specifically a tap, for controlling the release of beer. While other kinds of tap may be called faucet, valve or spigot, the use of tap for beer is almost universal. _A beer tap that was brought from England._  
 __beet__ _n_ :two::hammer: :es: remolacha  
@@ -1606,6 +1612,7 @@ __bewhiskered__
 __bewilder__  
 __bewitch__ _v_ :two: Cast a spell over someone or something; put a hex on someone or something. _Syn_ hex, jinx, enchant _After reading _Harry Potter_, I spent hours on end trying to bewitch a broomstick to fly._  
 __bezel__ _n_ __4__ The frame around a display screen.  
+__Bhutan__ _n_  
 __biathlon__ _n_ __1__ An athletic contest in which cross-country skiers carrying rifles shoot at targets along a course. __2__ An athletic contest comprising any two consecutive events, as running and cycling.  
 __bib__ _n_ :four::hammer: _Midcalf silk dresses came with ruffled bibs and hems._  
 __Bible Belt__ _n_ Those states of the S US where Protestant fundamentalism is dominant.  
@@ -1689,6 +1696,7 @@ __biography__
 __biomass__  
 __biome__ _n_  
 __biopic__  
+__bioprosthesis__ _n_ Any implanted device of natural (i.e., nonsynthetic) origin designed to replace a defective body part—e.g., a porcine heart valve.  
 __bipartisan__  
 __birch__ _n_ (birches) _Birch and oak in stock._  
 __bird dog__ _n_ A gun dog trained to locate or retrieve birds. _I’m going to be your fuckin’ bird dog._  
@@ -1734,6 +1742,7 @@ __black ice__
 __black lung__ _n_ Pneumoconiosis of coal miners caused by coal dust. _You can die of black lung._  
 __Black Maria__ _n_ Van used by police to transport prisoners. _Frost disappeared from the interior of the Black Maria under conditions which leave the police puzzled._  
 __black out__ _phr v_ :three::hammer: (blacked out)  
+__Black Panther__  
 __black powder__  
 __black smoke__  
 __black swan__ _n_ /BLAK swan/ [:scroll: From the former belief that all swans were white until black swans were discovered in Australia in 1697.] __1__ An unpredictable occurrence that has major consequences. __2__ Something extremely rare.  
@@ -1747,7 +1756,7 @@ __blackening__
 __blackface__ _n_ :two::hammer:  
 __blackguard<sup>1</sup>__ _n_ __1a__ A rude or unscrupulous person __b__ A person who uses foul or abusive language.  
 __blackguard<sup>2</sup>__ _vt_ To talk about or address in abusive terms.  
-__blackhead__ _n_ :five::hammer: (blackheads)  
+__blackhead__ _n_ :six::hammer: (blackheads)  
 __blackjack<sup>1</sup>__ _n_ :two::astonished: __1__ A leather-covered bludgeon with a short, flexible shaft or strap, used as a hand weapon.  
 __blackjack<sup>2</sup>__ _v_ :two::hammer:  
 __blacklist<sup>1</sup>__ _n_  
@@ -1763,8 +1772,8 @@ __bland__ _adj_ :nine::m: __1__ Characterized by a moderate, unperturbed, or tra
 __blandish__ _v_ To coax by flattery or wheedling; cajole.  
 __blandishment__ _n_ :five: /BLAN-dish-munt/ (Often, blandishments.) Something, as an action or speech, that tends to entice. Flattery intended to persuade. A blandishment is something said or done in order to coax or persuade an individual or group to do something. The word is usually used in its plural form, blandishments._Syn_ cajolery, palaver _Not even his favorite daughter’s blandishment could persuade him to submit to her whims._ _It’s important that the mayor not be swayed by bribes and blandishments; decisions must be made for the overall good of the city._ _Sundry blandishments._  
 __blank__ _n_ (blank cartridge) A gun cartridge with a charge of powder but no bullet. _The shooter fired blanks._  
-__blanket__ _n_ :two::hammer: _The security blanket._  
-__blanketed__ _v_ :five::hammer: (blanketing)  
+__blanket<sup>1</sup>__ _n_ :two::hammer: _The security blanket._  
+__blanket<sup>2</sup>__ _vt_ :six::hammer: (blanketing)  
 __blarney<sup>1</sup>__ _n_ :three::dart: /ˈblɑr ni/ __1__ Smooth, flattering talk. __2__ Deceptive nonsense.  
 __blarney<sup>2</sup>__ _v_  
 __blasé__ _adj_ :two::hammer:  
@@ -1817,15 +1826,17 @@ __blitheness__
 __blither__  
 __blithering__  
 __blithesome__ _adj_  
-__blitz__ _n_ __2__ An intense campaign: _a media blitz focused on young voters._  
+__blitz__ _n_ :two: __2__ An intense campaign: _a media blitz focused on young voters._ __3__ _Football_ A sudden charge upon the quarterback by one or more of the linebackers or defensive backs when the ball is snapped. Also called _red-dog._  
 __Blitz__ _n_ _(Historical Terms)_ (the Blitz) The systematic night-time bombing of Britain in 1940–41 by the German Luftwaffe.  
 __blitz<sup>1</sup>__ _n_ :six: [:scroll: Short for blitzkrieg, from German Blitzkrieg, from Blitz (lightning) + Krieg (war). Earliest documented use: 1939.] __1__ A swift, sudden military attack, especially aerial bombardment. __2__ An intense campaign, for example, an ad blitz. __3__ _informal_ A sudden concerted effort to deal with something. _Syn_ effort, exertion, endeavour _Katrina and I had a blitz on the cleaning._  
 __blitz<sup>2</sup>__ _vt_ :three: (blitzed, blitzing) To attack, destroy, conquer, etc.  
+__blitzkrieg__ _n_  
 __blizzard__ _n_ :three::hammer: _It burned in the blizzard of 1925._  
 __bloat__ _n_ A group of hippos.  
 __bloaviate__ _vi_  
 __bloc__ _n_ :eight::pencil2: A group of countries or people with the same political aims. _The Soviet bloc._ _The troubled currency bloc._  
 __block letter__ _n_ __1__ A plain capital letter written or printed unjoined to a following or preceding letter. Block letters (known as printscript, manuscript, print writing or ball and stick in academics) are a sans-serif (or “gothic”) style of writing Latin script in which the letters are individual glyphs, with no joining. _She wrote something in block letters._  
+__blockade__ _n_ /blɒˈkeɪd/  
 __blood clot__ _n_  
 __blood count__ _n_ :es: hemograma  
 __blood draw__ _n_ Removal of blood, usually by venipuncture (phlebotomy, venous blood sampling). Common term for blood sampling for laboratory analysis.  
@@ -1857,6 +1868,7 @@ __blow someone’s mind__
 __blow torch__ _n_ :two::hammer:  
 __blow up__ _phr v_ To fill with air; inflate: _blow up a tire._ Inflate is a formal or technical word. In conversation, you usually say that you blow up a tyre, balloon, or airbed.  
 __blow-out__  
+__blowback__ _n_  
 __blowflies__ _n_  
 __blowgun__ _n_  
 __blowhard__ _n_ :two: A very boastful and talkative person. _Syn_ braggart, line-shooter, vaunter  
@@ -1864,7 +1876,7 @@ __blowhole__ _n_
 __blown call__  
 __blowout__ _n informal_ :eight: __3a__ A large party or other social affair. _Music blowout._ __b__ A lopsided victory or thorough defeat. _The Orioles began a four-game series against the Texas Rangers with a blowout loss._  
 __blowsy__  
-__blowtorch__ _n_ :two::hammer:  
+__blowtorch__ _n_ :three::hammer:  
 __blowup bed__ _n_  
 __blowzy__ _adj_ __1__ Having a coarsely ruddy and bloated appearance. __2__ Disheveled and frowzy; unkempt: _blowzy hair._  
 __BLT sandwich__ _n_ :three: Sandwich filled with slices of bacon and tomato with lettuce.  
@@ -1883,7 +1895,7 @@ __bluegill__
 __bluegrass__  
 __bluejacket__ _n_ An enlisted person in the US or British Navy. _Syn_ sailor  
 __blueprint__ _n_ :nine: __1__ A photographic print made by a process that produces white lines on a blue background, used chiefly in copying architectural and mechanical drawings. __2__ A detailed outline or plan of action. __3__ A model; prototype.  
-__bluff<sup>1</sup>__ _v_ :four::hammer: (bluffing)  
+__bluff<sup>1</sup>__ _v_ :five::hammer: (bluffing)  
 __bluff<sup>2</sup>__ _n_ :four::hammer: __1__ Deliberate deception intended to create the impression of a stronger position or greater resources than one actually has.  
 __bluff<sup>3</sup>__ _adj_ __1__ Good-naturedly frank and hearty. __2__ (Physical Geography) (of a bank, cliff, etc) Presenting a steep broad face.  
 __blunder<sup>1</sup>__ _n_ _I’ve made a lot of computer blunders over de years._  
@@ -1905,7 +1917,7 @@ __boardroom__ _n_ :two::hammer: _Private boardrooms available._
 __boardwalk__ _n_ :two::hammer: _Boot heels clap on the boardwalk._  
 __boast__ _v_ :nine: (boasted) __1__ To say (something about oneself) in a proud or self-admiring way. _I can boast about it for eternity._ _Abe boasted of his wine expertise._ __2__ To have or possess (a desirable feature): _a mall that boasts 80 shops._ _Our beautifully renovated hotel boasts 123 rooms._  
 __boaters__  
-__boatload__ _n_ The number of passengers or the amount of cargo that a boat can hold.  
+__boatload__ _n_ :two: The number of passengers or the amount of cargo that a boat can hold.  
 __boatswain__  
 __bob<sup>1</sup>__ _vt_ :eight::astonished: __1__ To strike with a quick light blow. _Syn_ rap _They had bobbed noses._ __2__ To move up and down in a short quick movement. _Bob the head._ To move or cause to move up and down repeatedly, as while floating in water. _Bags bobbing in the water._ _Bald heads bobbed behind them._ _His small head was bobbing._ _He bobbed in the icy Atlantic with a life jacket for three hours before being rescued._ _The ball bobbed loose for a turnover._ __3__ To polish with a bob. _Syn_ buff  
 __bob<sup>2</sup>__ _vi_ :two: __1a__ To move up and down briefly or repeatedly. __b__ To emerge, arise, or appear suddenly or unexpectedly. __2__ To nod or curtsy briefly. __3__ To try to seize a suspended or floating object with the teeth.  
@@ -1933,7 +1945,7 @@ __bogeyman__ _n_ :two: Variant of boogeyman.
 __bogged down__ _phr v_  
 __boggle__ _v_ :two::hammer: _The mind boggles._  
 __bogs__  
-__bogus__ _adj_ __1__ Counterfeit or fake; not genuine: _bogus money; bogus tasks._ _The art dealer proved the painting to be bogus._  
+__bogus__ _adj_ :two: /ˈboʊ gəs/ __1__ Counterfeit or fake; not genuine: _bogus money; bogus tasks._ _The art dealer proved the painting to be bogus._  
 __bohemian__ _adj_ _Bohemian boutiques._  
 __boil__ _n_ :three: __2__ A painful, circumscribed pus-filled inflammation of the skin and subcutaneous tissue usually caused by a local staphylococcal infection. Also called _furuncle._ _An ugly purple boil on the right cheek of his arse._  
 __boiler room__ _n_  
@@ -2175,7 +2187,7 @@ __brazenly__ _adv_ :two::hammer:
 __brazenness__ _n_ The state or quality of being impudent or arrogantly self-confident.  
 __brazer__  
 __brazier__  
-__breach<sup>1</sup>__ _n_ :three::hammer: _Data breaches._  
+__breach<sup>1</sup>__ _n_ :four::hammer: /breach /briːtʃ/ _Data breaches._  
 __breach<sup>2</sup>__ _v_ :seven: (breached) __1__ To make a hole or gap in; break through. _Breaching old pipelines._ __2__ To fail to keep. _Syn_ violate  
 __bread and butter__  
 __breadcrumb__ _n_  

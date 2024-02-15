@@ -1,28 +1,3 @@
-__ad nauseum__ _adv_ To a disgusting or ridiculous degree; to the point of nausea.  
-__aftershock__ _n_  
-__airstrike__ _n_  
-__archipelago__ _n_  
-__baffling__ _adj_ Impossible to understand; perplexing; bewildering; puzzling.  
-__ball valve__ _n_  
-__ballerina flats__ _n_ _Syn_ ballet flats  
-__banter__ _n_ Good-humored, playful, or teasing conversation.  
-__bedsit__ _n_ :es: habitación amueblada; estudio amueblado  
-__beer league__ _n_ A community sports league, such as for hockey, softball, or soccer, whose members are amateurs of diverse ages and walks of life and play purely for the fun and socializing involved: games are usually accompanied or followed by alcohol and food: _My dad has played hockey in a beer league for years now, along with accountants, plumbers, and students._  
-__bequest__ _n_ /bɪˈkwɛst/  
-__Bhutan__ _n_  
-__bioprosthesis__ _n_ Any implanted device of natural (i.e., nonsynthetic) origin designed to replace a defective body part—e.g., a porcine heart valve.  
-__Black Panther__  
-__blackhead__ _n_  
-__blanket__ _vt_  
-__blitz__ _n_ __3__ _Football_ A sudden charge upon the quarterback by one or more of the linebackers or defensive backs when the ball is snapped. Also called _red-dog._  
-__blitzkrieg__ _n_  
-__blockade__ _n_ /blɒˈkeɪd/  
-__blowback__ _n_  
-__blowtorch__ _n_  
-__bluff__ _v_  
-__boatload__ _n_  
-__bogus__ _adj_ /ˈboʊ gəs/  
-__breach__ _n_ /breach /briːtʃ/  
 __bubble__ _v_ _If it bubbles you have a leak._  
 __bullet__ _n_ :mega: /ˈbʊl ɪt/  
 __burgeoning__  
