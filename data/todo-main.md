@@ -1,10 +1,14 @@
+__absolve__ _v_ /ub-ZAHLV/  
+__betrothed__  
 __bubble__ _v_ _If it bubbles you have a leak._  
 __bullet__ _n_ :mega: /ˈbʊl ɪt/  
 __burgeoning__  
 __burst__ _v_  
+__bussin’__ _adj_ Great; wonderful; amazing.  
 __bustle__ _adj, v_  
 __buttonhole__ _vt_ __3__ To accost and detain (a person) in conversation.  
 __calico__ _adj, n_  
+__callous__ _adj_ /KAL-us/  
 __cap__ _n informal_ __1__ Capital: _venture cap._ __2__ Capitalization: _market cap._  
 __capillary__ _adj, n_  
 __capitulate__ _v_ /kuh-PIH-chuh-layt/  
@@ -18,9 +22,11 @@ __cessation__
 __cheat code__ _n_ __2__ A ploy or technique that bypasses traditional methods or rules in order to improve oneself or one’s success: _We don’t know what sort of cheat code he may have discovered to pass the audition, but his mediocre talent sure has us wondering._  
 __chief__ _n_ /tʃiːf/ /tʃif/  
 __cluck__ _n_  
+__cold turkey__  
 __comfy__ _adj_ /ˈkʌmfɪ/ _informal_ Short for comfortable. _Don’t get too comfy._  
 __compound__ _v_  
 __conjubilant__ _adj_ Shouting together with joy.  
+__consign__ _v_ To give over to the care of another; entrust. _Syn_ charge  
 __contingency plan__ _n_  
 __conundrum__  
 __counterintuitive__ _adj_  
@@ -48,7 +54,10 @@ __detox__
 __discharge__ _vt_ __1__ To release or allow to go: _the hospital discharged the patient._  
 __dogshit__  
 __encourage__ _vt_ /ɪnˈkʌrɪdʒ/ /ɛnˈkɜr ɪdʒ, -ˈkʌr-/  
+__energy poverty__ _n_  
+__enervate__ _v_ /EN-er-vayt/ :astonished: _Syn_ weaken, enfeeble  
 __engage__ _v_  
+__enshittification__ _n_  
 __era__ _n_  
 __evict__ _vt_ /ɪˈvɪkt/  
 __eviction__ _n_  
@@ -62,6 +71,7 @@ __extravagance__ _n_
 __eye-opening__  
 __eye-watering__ _adj_  
 __façade__ _n_ (facade)  
+__fakeness__ _n_  
 __fallow land__ _n_  
 __fare evasion__  
 __fast-paced__ _adj_  
@@ -80,12 +90,17 @@ __gaffe__
 __garland__ _n_  
 __generic name__ _n_  
 __gibe__ _n, v_ (jibe)  
+__global boiling__ _n_  
 __gloss__ _n_  
+__greedflation__ _n_  
+__grotesque__  
 __jellyfish__ _n_ :es: medusa  
+__lavabo__ _n_ A basin for washing the hands. _Syn_ handbasin, washbasin, washbowl _The priest washed his hands in the metal lavabo before saying Mass._  
 __loggerhead__ _n_ __1__ A thick-headed or stupid person; blockhead.  
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
 __lunisolar__ _adj_  
 __lynch__ _vt_  
+__MacGuffin__ _n_ :mega: /muh-GUFF-in/ A MacGuffin is an object, event, or character in a film or story that serves to set and keep the plot in motion despite usually lacking intrinsic importance.  
 __Machiavellianism__ _n_ /mak-ee-uh-VEL-ee-uh-niz-uhm/ The use of unscrupulous means, cunning, and deceit in pursuit of power, especially in politics.  
 __maladroit__ _adj_ /mal-uh-DROYT/ Maladroit is an adjective that means “incompetent” or “very awkward.” It is usually used in formal speech and writing, and often describes people who lack skill in handling situations.  
 __malaria__ _n_ /məˈlɛər i ə/  
@@ -96,6 +111,7 @@ __Maori__ _n_ /ˈmaʊ ri/
 __Mariupol__ _n_  
 __market cap__ _n_ :two: (market capitalization) An estimation of the value of a business that is obtained by multiplying the number of shares outstanding by the current price of a share.  
 __memento mori__ _n_  
+__mid__ _adj_ Mediocre, unimpressive, or disappointing.  
 __military__ _adj, n_ /ˈmɪlɪtərɪ; -trɪ/  
 __minstrel__ _n_  
 __mogul__ _n_ /ˈməʊɡʌl; məʊˈɡʌl/  
@@ -141,6 +157,7 @@ __pestered__
 __picturesque__  
 __pitfall__ _n_ __1__ An unsuspected difficulty or danger.  
 __prebiotic__ _n_  
+__propitiate__ _v_ :astonished: To conciliate (an offended power). _Syn_ appease _After his grave sin, he tried to propitiate the gods with a sacrifice._  
 __psyops__ _n pl_ Military operations usually aimed at influencing the enemy’s state of mind through noncombative means (such as distribution of leaflets).  
 __quirk__ _n_ /KWERK/ _Quirk_ refers to an unusual habit or way of behaving. It can also refer to something strange that happens by chance, as in “a quirk of fate.”  
 __range anxiety__ _n informal_ The apprehension or fear that an electric vehicle’s battery will run out of power before reaching one’s intended destination or a charging station.  
@@ -179,7 +196,7 @@ __single-use__ _adj_
 __skill set__ _n_ A set of skills, esp. a collection of skills and abilities that can be applied to a professional or creative endeavor.  
 __skittish__ _adj_  
 __slight__ _vt_ :dart: __1__ To show indifference or disregard for (someone); snub. __2__ To treat as unimportant or trifling. __3__ _US_ To devote inadequate attention to (work, duties, etc).  
-__smitten__ _adj_  
+__smitten__ _adj_ :two::hammer:  
 __snooker__ _n_ __2__ A shot in which the cue ball is left in a position such that another ball blocks the object ball. The opponent is then usually forced to play the cue ball off a cushion.  
 __soar__ _vi_ __2__ To increase or improve suddenly above the normal or usual level: _Sales soared. Our spirits soared._ _Syn_ rise  
 __sonar__ _n_  
@@ -195,12 +212,15 @@ __squarely__ _adv_ /ˈskwɛəlɪ/ __1__ In a direct way; straight: _he hit me sq
 __squeeze__ _n, v_  
 __stagnant__ _adj_  
 __stalk__ _v_  
+__star-crossed__  
 __steadfast__ _adj_  
 __stick shift__ _n_ A manual transmission for a motor vehicle.  
 __stopgap__ _adj, n_  
 __strangehold__ _n_ __2__ Complete power or control over a person or situation.  
 __stroke__ _v_ To rub (eg a furry animal) gently and repeatedly in one direction, especially as a sign of affection.  
 __substantial__  
+__superfog__ _n_ A combination of fog generated by weather conditions and wildfire smoke from damp, smoldering brush, leaves, trees, and other organic materials that often reduces visibility to less than 10 feet.  
+__swoon__  
 __tank top__ _n_  
 __theater of operations__  
 __timetable__ _n_  
@@ -212,6 +232,8 @@ __underway__ _adj_
 __undeterred__ _adj_  
 __uneasy__ _adj_  
 __unfold__ _v_ __2__ To reveal or be revealed: _the truth unfolds._  
+__unrequited__  
+__valentine__  
 __vegetate__ _v_ __3b__ To engage in relaxing or passive activities, such as watching television: _stayed home and vegetated last night._  
 __victory parade__ _n_  
 __victory speech__  
@@ -219,6 +241,8 @@ __wander__ _n_ The act or an instance of wandering.
 __war crime__ _n_  
 __warship__ _n_  
 __watchdog__ _n_  
+__weasel<sup>1</sup>__ _n_ /WEE-zuhl/ __1__ Any of various small slender carnivorous mammals of the genus Mustela. __2__ A sneaky, cunning person.  
+__weasel<sup>2</sup>__ _vi_ :dart: __1__ To evade an obligation. __2__ To be evasive by using ambiguous or misleading words.  
 __woke__  
 __wow__ _vt_ To have a strong, usually pleasurable effect on: _a performance that wowed the audience._  
 __wrenching__ _adj_ Causing great physical or mental suffering. _ABC News went through a wrenching round of layoffs._  
