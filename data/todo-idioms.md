@@ -98,31 +98,6 @@ __if you will__
 __in a new light__  
 __in full swing__ Well underway and operating at the highest possible level or pace.  
 __in one breath__ Very quickly, as of someone who is speaking (usually while very excited).  
-__in short supply__ Scarce.  
-__in the (grand) scheme of things__ In the long term; in the complete picture of something.  
-__in this day and age__  
-__keep (it) in mind (that)__  
-__keep (one’s) head above water__  
-__keep (one’s) head__ To be and remain in a calm, stable, sensible, and pragmatic state or condition despite stress.  
-__kick in__  
-__kind of__ Somewhat; partially.  
-__knock off__  
-__know a thing or two__  
-__lay (someone) to rest__  
-__left, right, and center__ In many different places or to many different people all at once. Primarily heard in US.  
-__lessons learned__ “Lessons learned” is an idiom that refers to the knowledge or wisdom gained from experience, especially from mistakes or setbacks.  
-__mix up__ :dart: __5__ _n_ A situation in which a mistake has been made, especially when one thing is confused for or erroneously swapped with another. As a noun, the phrase is usually hyphenated. _OK, here are your car keys. Sorry about the mix-up._  
-__name names__  
-__no matter what__ :two::hammer:  
-__on the brink of (something)__  
-__on the fence (about something)__  
-__one-off__  
-__part ways (with one)__  
-__play hardball (with one)__ :dart:  
-__poke fun at (someone or something)__  
-__put (someone or something) to the test__  
-__revolving door__  
-__ring out__ __2__ To mark or celebrate the end of something: _We rang out the old year with a champagne toast._  
 __rule of thumb__ A general principle developed through experiential rather than scientific means. An approximation; a suggested method or guideline. _A good rule of thumb is to plant your seedlings around the end of May._  
 __rule the roost__ To have the most control or authority in a group. _Both of our parents were tough, but Mama was as tough as an old shoe, who ruled the roost without saying a word._  
 __run down__  

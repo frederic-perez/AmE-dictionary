@@ -2897,7 +2897,7 @@ __in round numbers__
 __in secrecy__  
 __in session__ Currently gathered and in the process of conferring about or working on some thing. _Hey, no one is allowed in there while the meeting is in session!_  
 __in short order__ :dart::five: With no delay; quickly. Quickly, efficiently, and without any delays. _The repair shouldn’t take long at all. We’ll get you on the road in short order._ _Bob is the best trainer. He’ll whip you into shape in short order._  
-__in short supply__ Scarce.  
+__in short supply__ :two: Scarce.  
 __in sight__ Close to happening or being achieved. A noun or pronoun can be used between “in” and “sight.”  
 __in so many words__  
 __in someone else’s shoes__ Imagining oneself in the situation or circumstances of another person so as to understand or empathize with their perspective, opinion, or point of view. _If you haven’t spent time in someone else’s shoes, how can you judge them?_  
@@ -2908,7 +2908,7 @@ __in stitches__
 __in sum__ As a final brief, concluding point.  
 __in tall cotton__ In a time or period of great success or wellbeing; doing very well.  
 __in that vein__ _Text-to-image AI models are a lot of fun. Enter any random text prompt, and they will generate an image in that vein._  
-__in the (grand) scheme of things__  
+__in the (grand) scheme of things__ :two: In the long term; in the complete picture of something.  
 __in the (very) nick of time__ :two::hammer:  
 __in the back__ In the back part of a building; in the back room of a building. _He’s not in the shop right now. I’ll see if he’s in the back._  
 __in the black__ :two: Not in debt, profitable.  
@@ -2969,7 +2969,7 @@ __in the works__ :four: In progress; being completed or implemented. Being prepa
 __in the zone__ :two::hammer:  
 __in their own right__  
 __in theory__ Hypothetically; as a possibility. As opposed to in reality or in practice.  
-__in this day and age__ :two::hammer:  
+__in this day and age__ :three::hammer:  
 __in tow__ :five: __1__ In a condition of being towed: _a car with a trailer in tow._ __2__ Under close guidance; in one’s charge: _The new student was taken in tow by a peer counselor._ __3__ As a companion or follower: _came to dinner with a friend in tow._ _The senator arrived to the press conference with her aides in tow._  
 __in training__  
 __in vain__  
@@ -3081,9 +3081,12 @@ __justice is served/done__ Proper punishment or fair treatment is given by the l
 __K-car__ :two::hammer:  
 __kangaroo court__  
 __keen on (someone or something)__  
+__keep (it) in mind (that)__  
 __keep (one’s) cool__ To maintain control of one’s composure, temper, or nerve in a given situation.  
 __keep (one’s) eye(s) peeled (for someone or something)__ :three: To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep your eyes peeled._ _Keep your eye peeled for a birthday gift we could give your mother._  
+__keep (one’s) head above water__  
 __keep (one’s) head on a swivel__ To remain vigilant of one’s surroundings.  
+__keep (one’s) head__ To be and remain in a calm, stable, sensible, and pragmatic state or condition despite stress.  
 __keep (one’s) slate clean__ To maintain an impeccable record; to refrain from committing any mistakes or wrongdoings.  
 __keep (one’s) socks on__ To remain patient and calm, especially when beginning to become angry or upset with impatience. Usually said as an imperative.  
 __keep (one’s)/an eye on (someone or something)__ :three: To watch someone or something carefully; to be attentive to someone or something. _Keep an eye on the Twitter._  
@@ -3138,7 +3141,7 @@ __kick ass__ :four::dart: __1__ _v_ _rude slang_ To defeat someone or something 
 __kick back__  
 __kick butt__ :two: To be very exciting or effective. _Syn_ kick ass _The new system really kicked butt, catching several cheaters the first day it was used._ _I was kicking butt at work._  
 __kick in the ass__  
-__kick in__ :four: To start to have an effect or to happen.  
+__kick in__ :five: To start to have an effect or to happen.  
 __kick into high gear__  
 __kick the can down the road__ Especially in politics, to postpone or defer a definitive action, decision, or solution, usually by effecting a short-term one instead. _It looks as though congress is going to kick the can down the road again on the debt ceiling issue, but they’ll have to find a lasting solution eventually._  
 __kick the crap out of (someone)__  
@@ -3156,6 +3159,7 @@ __kill the goose that lays the golden egg(s)__ Destroy a source of riches throug
 __kill two birds with one stone__  
 __killer__ _adj_ _It is known for its killer grilled cheese sammies._  
 __killing field__  
+__kind of__ Somewhat; partially.  
 __kindred spirit__ :nine::m: [:sound: kindred spirit] (kindred spirits) An individual with the same beliefs, attitudes or feelings as oneself. _Dean and I are kindred spirits when it comes to spending money-we’re both tight._ _Syn_ kindred soul _A kindred spirit._ :es: almas gemelas  
 __king of the hill__ :four: The most powerful, successful, or authoritative person in a group or organization _After years of slowly moving up the ranks, Joe finally became king of the hill in his office._  
 __king of the jungle__ The lion, especially in cultural or artistic depictions. (Usually a misnomer, as lions typically inhabit deserts or dry forests, as opposed to jungles.)  
@@ -3173,6 +3177,7 @@ __knock (someone) over with a feather__ To shock, confuse, or astonish someone t
 __knock (something) out of the (ball)park__ To do or perform something extraordinarily well; to produce or earn an exceptional achievement. An allusion to a baseball that is hit hard enough to land outside the stadium. _Great job on that report, Jacobs—you really knocked it out of the park!_  
 __knock boots (with one)__ To have sex (with one). _My roommate in college used to hang a hat on the door handle outside our room if she was knocking boots with someone inside._  
 __knock it off__ :two: To stop doing whatever one is doing. Often used as an imperative. _Knock it off, you two! I don’t want to see any more fighting._  
+__knock off__  
 __knock on wood__  
 __knock out__ __7__ :dart: _slang_ To produce or complete something, usually with the main motivation of simply getting it done. _If we can knock out a few more of these reports before the weekend, we’ll be in good shape for next week._ _It’s your time to drop into flow and knock out your biggest task._  
 __knock the socks off (someone or something)__ :two::hammer:  
@@ -3184,7 +3189,7 @@ __knocking on heaven’s door__ :dart: To be dying, to be close to death.
 __knockout__  
 __know (one’s) own mind__ To be firmly resolute and confident in one’s ideas, intentions, plans, or opinions.  
 __know (one’s) shit__  
-__know a thing or two__ :seven: To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
+__know a thing or two__ :eight: To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
 __know better (than to do something)__ To be wise enough, experienced enough, or well trained enough not to have done something wrong. _Mary should have known better than to accept a lift from a stranger._ _Children should know better than to play in the road._  
 __know every trick in the book__ To be aware of or knowledgeable in every possible way to do or achieve something, especially ways that are clever, cunning, or ethically questionable.  
 __know for a fact__ :two: To have definitive knowledge of something.  
@@ -3247,6 +3252,7 @@ __lavish (someone or something) with (something)__
 __law and order__  
 __lay (one’s) life on the line__ To put oneself in harm’s way (to achieve something), especially at the risk of losing one’s life. (Sometimes used hyperbolically.)  
 __lay (oneself) out__ To put in a great deal of effort; to inconvenience oneself or go through a lot of trouble. _I don’t know why I always lay myself out to impress your parents—they never appreciate what I do anyway._  
+__lay (someone) to rest__  
 __lay (something) at the feet of (someone)__ To make or hold someone, especially a group of people, responsible for something.  
 __lay bare (something)__ To divulge, explain, or reveal something not previously known publicly. _Our hope is that this expedition will lay bare the secrets of the ancient king’s tomb._ _Influencers are laying bare the inner workings of the internet._  
 __lay down and die__ :dart: To quit; to give up hope or ambition. _We might have had an unexpected loss in the playoffs, but that doesn’t mean this team is ready to lay down and die!_  
@@ -3280,6 +3286,7 @@ __leave someone in its wake__ _The speedboat leaves all others in its wake._
 __left and right__ :eight::hammer:  
 __left in the dark__  
 __left to (one’s) own devices__ :two: Left unsupervised or uncontrolled; allowed to do as one pleases.  
+__left, right, and center__ In many different places or to many different people all at once. Primarily heard in US.  
 __leg up__ :two: __1__ Literally, a boost from another person that enables one to reach something that one could not reach on one.s own. _Give me a leg up so I can reach the dishes on the top shelf._ __2__ An advantage in a situation or over another person. _Getting certifications will definitely give you a leg up in the IT industry._ _Area’s 2 reigning congressmen have leg up on funding._ _That might give me a leg up._  
 __leg work__ :three: The physical work accompanying a task. _I don’t mind making the phone calls if you do the leg work._  
 __legal eagle__ An especially clever, aggressive, or skillful attorney. _I might be considered something of a legal eagle now, but I had to work for years to get enough experience to build my reputation._  
@@ -3287,7 +3294,7 @@ __legend has it__ :two: “Legend has it” is a phrase used to introduce a stor
 __legit__ :three::hammer: /ləˈdʒɪt/  
 __lemon law__ :two: A law requiring an automobile manufacturer or dealer to replace, repair, or refund the cost of an automobile that proves to be defective after purchase. An American law that protects purchasers of faulty cars.  
 __lemon__ Something that is worthless or much less valuable than one was led to believe. _It sounded like a good deal at the time, but this car he sold me is a total lemon!_  
-__lesson learned__ :two: The idiom “lesson learned’ refers to the knowledge or insight gained from a negative experience. It implies that the experience was not enjoyable or desirable, but nevertheless provided a valuable learning opportunity. The phrase is often used to acknowledge a mistake or failure, but to also express an intention to learn from that mistake and avoid repeating it in the future.  
+__lesson learned__ :three: The idiom “lesson learned’ refers to the knowledge or insight gained from a negative experience. It implies that the experience was not enjoyable or desirable, but nevertheless provided a valuable learning opportunity. The phrase is often used to acknowledge a mistake or failure, but to also express an intention to learn from that mistake and avoid repeating it in the future.  
 __let (someone) loose (on something)__ To allow someone to do something as they please, without supervision or control.  
 __let (someone) off the hook__ To pardon, release, or allow someone to escape from blame, responsibility, obligation, or difficulty.  
 __let (the) perfect be the enemy of (the) good__ To allow the demand, desire, or insistence for perfection to decrease the chances of obtaining a good or favorable result in the end. (Usually used in the negative as an imperative.)  
@@ -3614,6 +3621,7 @@ __mission accomplished__ :two::hammer:
 __mission creep__ The gradual expansion or widening in scope of a project, action, or task, especially a military operation, beyond its initial goal or objective. _Congress is wary of granting the president’s request for military authority in the region, fearing a repeat of the mission creep that plagued his last war effort._  
 __mix and match__ :two: To put certain things together in different combinations. _You can mix and match any of the items on this table, so take whatever you want._ _The pieces in my spring collection were designed to be mixed and matched._  
 __mix apples and oranges__ To combine or compare two different things.  
+__mix up__ :dart: __5__ _n_ A situation in which a mistake has been made, especially when one thing is confused for or erroneously swapped with another. As a noun, the phrase is usually hyphenated. _OK, here are your car keys. Sorry about the mix-up._  
 __mixed bag__ :seven: A diverse mixture or group.  
 __mixed emotions__ Positive and negative emotions that are experienced simultaneously and are often in conflict with one another. _I’ve got mixed emotions about starting college this fall: on the one hand, I can’t wait to start the next chapter in my education, but, on the other, I will be so sad leaving my friends and family behind._  
 __mixed feelings__ :two::hammer:  
@@ -3683,7 +3691,7 @@ __nab__ :two: To catch and arrest someone. Often used in passive constructions.
 __nah__ :two: _informal_ No; not really.  
 __nail in (someone’s or something’s) coffin__ :two::hammer:  
 __naked eye__ _With the naked eye._  
-__name names__ :four::hammer: _I will not go naming names here._  
+__name names__ :five::hammer: _I will not go naming names here._  
 __narrow down__ :two: To pare the number of people or things on a list down to a more manageable or select number. A noun or pronoun can be used between “narrow” and “down.” _Let’s narrow it down to just our very top choices, otherwise we’ll never pick a place to go._  
 __narrow escape__ :three::hammer:  
 __narrow something down__ If you narrow something down, you reduce the number of possibilities.  
@@ -3749,7 +3757,7 @@ __no kidding__
 __no less than__ :dart:  
 __no longer__  
 __no matter how you slice it__ :two: Regardless of how a situation is analyzed, viewed, or portrayed, the truth of it remains unchanged. _No matter how you slice it, the drastically lower sales numbers this year are bad news for the company’s prospects for growth._  
-__no matter what__ In any conditions; regardless of what happens. _I don’t care if it’s raining, I’m going to the concert no matter what._  
+__no matter what__ :three: In any conditions; regardless of what happens. _I don’t care if it’s raining, I’m going to the concert no matter what._  
 __no nonsense__ _adj_ :three: Totally serious; with no tricks or deceit. Hyphenated before a noun. _The new manager is very no nonsense in how he deals with customer complaints._ _We’re going to start adopting a no-nonsense approach to the problem._  
 __no offense taken__  
 __no offense__ :three: What I have said or am about to say is not meant to offend or insult you, even though it could be interpreted that way. _No offense, but I think it may be time you cleaned up your kitchen._  
@@ -3953,7 +3961,7 @@ __on the bleeding edge__
 __on the block__  
 __on the books__ Recorded for future reference. _We had the coldest winter on record last year._ _This is the fastest race on record._  
 __on the bright side__  
-__on the brink of (something)__ :three::hammer:  
+__on the brink of (something)__ :four::hammer:  
 __on the button__ Exactly right; in exactly the right place; at exactly the right time.  
 __on the cards__ :two: Very likely or certain to happen, occur, or take place. _They’ve played very well, but it doesn’t look like a championship title is on the cards for this team today._ _She wants to get a promotion but it doesn’t seem to be on the cards right now._  
 __on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
@@ -3963,6 +3971,7 @@ __on the defensive__ :two: Prepared to withstand or counter aggression or attack
 __on the down low__ __1__ In a state of secrecy or minimal public knowledge; being known only by a select few people. _Keep this on the down low, but Janet is planning to break up with Kevin next week._ __2__ In a state of secrecy or minimal public knowledge pertaining to the activities of a man who has sex with other men but considers himself to be heterosexual. _I never thought he was gay, but then I started to hear rumors that he’s on the down low._  
 __on the face of it__ :two::hammer: _That seems totally bizarre on the face of it._  
 __on the fast track__ :two: On an accelerated path to success or achievement. _Jacob was doing so well in all of his classes that his school put him on the fast track so he could graduate early._  
+__on the fence (about something)__  
 __on the fence__ :two: Unable to make a decision.  
 __on the fiddle__ Engaged in deceitful, fraudulent, or dishonest means of obtaining money. _My career will be over if anyone ever finds out I was on the fiddle during my time as the company treasurer._  
 __on the flip side__ :four: Looking at a different or opposite aspect, possibility, or result (associated with something).  
@@ -4028,7 +4037,7 @@ __one-horse town__ A very small and unremarkable town that is typically regarded
 __one-liner__ _informal_ A very short, witty joke, remark, or riposte.  
 __one-night stand__ A sexual relationship that lasts for only one night. It’s a play on words, because a nightstand is a small low bedside table, typically having drawers.  
 __one-of-a-kind__ :three::hammer: _One-of-a-kind experience._  
-__one-off__ :two::hammer:  
+__one-off__ :three::hammer:  
 __one-on-one__ :three::hammer:  
 __one-trick pony__ _n_ A person or thing considered as being limited to only one single talent, capability, quality, etc.  
 __one-up (someone)__ To make a point of outdoing, outperforming, outclassing, etc., someone. _I hate telling stories around Jack because he always tries to one-up you with some fabulous anecdote of his own._  
@@ -4120,7 +4129,7 @@ __paper chase__ A task that involves completing and/or going through a lot of pa
 __pardon my French__ :two: Excuse me for swearing.  
 __park the bus__ In football (soccer), to employ all (or nearly all) of a team’s active players in defending its own side of the pitch. _Protecting a narrow one-point lead, it looks like the home team has parked the bus for the remaining minutes of the match._  
 __part company (with/from somebody/something)__  
-__part ways (with one)__ :four: To separate or depart (from one); to stop associating (with one).  
+__part ways (with one)__ :five: To separate or depart (from one); to stop associating (with one).  
 __party crasher__ :two: One who attends a party without having been invited. _I don’t mind party crashers coming to my parties, so long as they behave themselves._  
 __party pooper__ :two: (party poopers) A person who dislikes or refuses to participate in social events, often with the result of detracting from others’ enjoyment of such events. _Amy is such a party pooper. She thinks our company’s social functions are stupid and just stands around pouting the whole time._  
 __pass along__  
@@ -4234,6 +4243,7 @@ __play down__ :three: To make something seem less important or remarkable. _The 
 __play dumb__ :three: To pretend that one has no or little knowledge (of something); to act ignorant or uninformed (about something). _I don’t think I’m supposed to know that Rick is getting fired, so I’m just going to play dumb the next time I see him._  
 __play footsie__ To flirt with someone by secretly touching feet.  
 __play games (with one)__ To deliberately attempt to evade, deceive, or misinform one (about something) in order to manipulate them or achieve some desired outcome. _Quit playing games, Karen—I know that you’re involved in this deal!_  
+__play hardball (with one)__ :dart:  
 __play hardball__ If someone plays hardball, they will do anything that is necessary to achieve or obtain what they want, even if this involves being harsh or unfair. This term originated in baseball, where it alludes to using the standard ball as opposed to the slightly larger and minimally softer ball of softball. It was transferred to describe aggressive behavior only in the 1970s. _Defense lawyers began playing hardball._  
 __play it cool__  
 __play it safe__ :three::hammer:  
@@ -4261,6 +4271,7 @@ __point fingers (at someone or something)__
 __point taken__ :two::hammer:  
 __point the finger at (one)__  
 __poised to (do something)__  
+__poke fun at (someone or something)__  
 __poke fun__ To mildly taunt or mock someone or something; to make light fun of someone or something.  
 __poke__ __1__ _v_ _vulgar slang_ To have penetrative sex (with someone). _I can’t remember the last time I poked my wife._ __2__ _n_ _vulgar slang_ Penetrative sex. _Look at that hottie at the bar. Wouldn’t mind giving her a poke!_  
 __poker face__  
@@ -4362,7 +4373,7 @@ __put (oneself) in (someone’s) shoes__
 __put (or set) the record straight__ To make things clear, to explain something.  
 __put (someone or something) out of business__  
 __put (someone or something) to bed__ :two: __1__ To help someone, typically a child, prepare for and get into bed at night. _I’ll give you a call after I put the kids to bed._ __2__ To complete something or some initial preparatory phase. _I thought you’d put the proofreading for that edition to bed weeks ago!_ __3__ To stop discussing, thinking about, or focusing on something. _OK, I think we have to agree to disagree. Let’s just put the issue to bed and stop arguing._  
-__put (someone or something) to the test__ :two::hammer:  
+__put (someone or something) to the test__ :three::hammer:  
 __put (someone) in the picture__ To keep someone informed, aware, or up to date (about something); to involve someone in something.  
 __put (something) on hold__ :two::hammer:  
 __put (something) on ice__ __2__ To postpone or delay acting on or dealing with something.  
@@ -4506,6 +4517,7 @@ __retail for (something)__
 __revamp<sup>1</sup>__ _vt_ To renovate, refurnish, revise, etc.  
 __revamp<sup>2</sup>__ _n_ An instance of renovation, refurnishing, etc.  
 __revel in__  
+__revolving door__  
 __rid out__ _(chiefly Midwestern United States)_ To clean, empty, or clear out (something or some space). Primarily heard in US. _You’ve got to learn to rid out some of these negative thoughts you’ve been having, and make room for some positive emotions._ _I’ll be spending this weekend ridding out the garage._  
 __riddled with__ :six::hammer: _v_ __3__ To be permeated in many places by something, especially by flaws. Used in the passive: _That report was riddled with errors._ _Dating sites are riddled with catfish._ _Neuralink’s oversights board is riddled with potential conflicts._ _CNET published AI-generated articles riddled with errors._ _The guy had been riddled with bullets right there._  
 __ride or die__ _n_ :astonished: One’s closest, most reliable or trustworthy friends. _Liz is my ride or die—I can totally count on her to be there for me in any situation._  
@@ -4524,6 +4536,7 @@ __rile up__ :three: To cause someone or some group to become particularly excite
 __ring a bell__ :three::hammer: _Does that ring a bell with you?_  
 __ring false__  
 __ring of Venus__ In James Ellroy’s novels, the “ring of Venus” is a term used to describe a secret society or network of powerful people who engage in corrupt or illegal activities. It’s usually presented as a shadowy and mysterious organization that operates behind the scenes, pulling the strings of government, business, and society.  
+__ring out__ __2__ To mark or celebrate the end of something: _We rang out the old year with a champagne toast._  
 __ring someone’s bell__ __3__ To sexually attract or arouse someone; to bring someone sexual gratification or satisfaction. _That redhead from across the bar has been ringing my bell all night._ _He looks mighty fine, all right. I’d like to take him home and ring his bell!_  
 __ring true__ :two: To seem or sound true, sincere, or authentic. _Her moans of pleasure somehow don’t ring true._  
 __ring up__ _Ringing up sales._  
