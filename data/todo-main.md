@@ -98,31 +98,6 @@ __jellyfish__ _n_ :es: medusa
 __lavabo__ _n_ A basin for washing the hands. _Syn_ handbasin, washbasin, washbowl _The priest washed his hands in the metal lavabo before saying Mass._  
 __loggerhead__ _n_ __1__ A thick-headed or stupid person; blockhead.  
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
-__lunisolar__ _adj_  
-__lynch__ _vt_  
-__MacGuffin__ _n_ :mega: /muh-GUFF-in/ A MacGuffin is an object, event, or character in a film or story that serves to set and keep the plot in motion despite usually lacking intrinsic importance.  
-__Machiavellianism__ _n_ /mak-ee-uh-VEL-ee-uh-niz-uhm/ The use of unscrupulous means, cunning, and deceit in pursuit of power, especially in politics.  
-__maladroit__ _adj_ /mal-uh-DROYT/ Maladroit is an adjective that means “incompetent” or “very awkward.” It is usually used in formal speech and writing, and often describes people who lack skill in handling situations.  
-__malaria__ _n_ /məˈlɛər i ə/  
-__malnutrition__ _n_  
-__manhunt__ _n_ An organized search, usually by police, for a wanted man or fugitive.  
-__manure__ _n_ __1__ The dung of livestock or poultry.  
-__Maori__ _n_ /ˈmaʊ ri/  
-__Mariupol__ _n_  
-__market cap__ _n_ :two: (market capitalization) An estimation of the value of a business that is obtained by multiplying the number of shares outstanding by the current price of a share.  
-__memento mori__ _n_  
-__mid__ _adj_ Mediocre, unimpressive, or disappointing.  
-__military__ _adj, n_ /ˈmɪlɪtərɪ; -trɪ/  
-__minstrel__ _n_  
-__mogul__ _n_ /ˈməʊɡʌl; məʊˈɡʌl/  
-__monarch__ _n_ :mega: /ˈmɒn ərk, -ɑrk/  
-__morbid__ _adj_ __2__ Gruesome.  
-__motorway__ _n_  
-__mount__ _v_  
-__mount<sup>1</sup>__ _vt_  
-__mount<sup>2</sup>__ _vi_ __1__ To increase in amount or intensity (often fol. by up): _The costs mounted up._ __2__ To get up on the back of a horse or other animal for riding. __3__ To rise or go to a higher position, level, degree, etc.; ascend. _Anger mounting._  
-__mount<sup>3</sup>__ _n_  
-__muff__ _n_ __2__ _Sports_ A failure to make a catch.  
 __mugging__ _n_ An assault upon a person especially with the intent to rob.  
 __mull<sup>1</sup>__ _vt_ To think about extensively; ponder.  
 __mull<sup>2</sup>__ _vi_ To ruminate; ponder: _mull over a plan._  

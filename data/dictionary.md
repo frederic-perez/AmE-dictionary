@@ -1826,8 +1826,8 @@ __blitheness__
 __blither__  
 __blithering__  
 __blithesome__ _adj_  
-__blitz__ _n_ :two: __2__ An intense campaign: _a media blitz focused on young voters._ __3__ _Football_ A sudden charge upon the quarterback by one or more of the linebackers or defensive backs when the ball is snapped. Also called _red-dog._  
 __Blitz__ _n_ _(Historical Terms)_ (the Blitz) The systematic night-time bombing of Britain in 1940–41 by the German Luftwaffe.  
+__blitz__ _n_ :two: __2__ An intense campaign: _a media blitz focused on young voters._ __3__ _Football_ A sudden charge upon the quarterback by one or more of the linebackers or defensive backs when the ball is snapped. Also called _red-dog._  
 __blitz<sup>1</sup>__ _n_ :six: [:scroll: Short for blitzkrieg, from German Blitzkrieg, from Blitz (lightning) + Krieg (war). Earliest documented use: 1939.] __1__ A swift, sudden military attack, especially aerial bombardment. __2__ An intense campaign, for example, an ad blitz. __3__ _informal_ A sudden concerted effort to deal with something. _Syn_ effort, exertion, endeavour _Katrina and I had a blitz on the cleaning._  
 __blitz<sup>2</sup>__ _vt_ :three: (blitzed, blitzing) To attack, destroy, conquer, etc.  
 __blitzkrieg__ _n_  
@@ -10842,6 +10842,7 @@ __lunchpail__
 __lunchtime__  
 __lunge<sup>1</sup>__ _v_ :seven::hammer: (lunges, lunged, lunging) _A bull lunges into the pen._ _A police dog lunging at a child._ _The dog snarled and lunged._  
 __lunge<sup>2</sup>__ _n_ :three::hammer: _A reckless lunge at Gerrard._ _An amputee did lunges with Mr. Obama._  
+__lunisolar__ _adj_  
 __lupine<sup>1</sup>__ _n_ :two: (lupin) :es: altramuz  
 __lupine<sup>2</sup>__ _adj_ __1__ Characteristic of or resembling a wolf. __2__ Rapacious; ravenous.  
 __lupus__  
@@ -10872,7 +10873,7 @@ __lye water__
 __Lyme disease__ _n_ :four::hammer: (Lyme arthritis)  
 __lymphatic__ _adj_ __1__ Pertaining to, containing, or conveying lymph. __2__ (of persons) Having the characteristics, as flabbiness or sluggishness, formerly believed to be due to an excess of lymph in the system.  
 __lymphoma__ _n_  
-__lynch__ _v_ :three::pencil2: To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
+__lynch__ _vt_ :four::pencil2: To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
 __lyre__  
 __lyrical__ _adj_ /LEER-ih-kul/ Something described as lyrical has an artistically beautiful or expressive quality, often one that is reminiscent of song.  
 __lysimeter__  
@@ -10886,10 +10887,12 @@ __Mace<sup>1</sup>__ _n_ _A can of Mace._
 __Mace<sup>2</sup>__ _v_  
 __macedoine__ _n_  
 __macerate__ _v_ To make soft, usually by steeping in liquid, and cause to disintegrate as a result. _Syn_ soften _The stale bread was left to macerate in a bowl of milk for a few hours._  
+__MacGuffin__ _n_ :mega: /muh-GUFF-in/ A MacGuffin is an object, event, or character in a film or story that serves to set and keep the plot in motion despite usually lacking intrinsic importance.  
 __MacGyver__ _vt_ _slang_ :three::mega: /məˈɡaɪvər/ /muh-GUY-vur/ /muh-GHYE-ver/ To MacGyver something is to make, form, or repair it with materials that are conveniently on hand. To make, form, or repair (something) with what is conveniently on hand.  
 __Mach number__ _n_ :pencil2:  
 __Machiavelli__  
 __Machiavellian__ _adj_ :pencil2:  
+__Machiavellianism__ _n_ /mak-ee-uh-VEL-ee-uh-niz-uhm/ The use of unscrupulous means, cunning, and deceit in pursuit of power, especially in politics.  
 __machinate__ _v_  
 __machination__ _n_  
 __machine__ _n_ :mega:  
@@ -10962,9 +10965,11 @@ __makeshift__ _adj_ :eight: Being a crude and temporary expedient.
 __makeup__ _n_ :two: __2__ An event that is substituted for a previously cancelled event. _The two teams played a makeup one week later._ _Today’s game has been postponed; no makeup date has been snnounced._ _A makeup game._  
 __maki__ _n_ :two::hammer: [:scroll: from Japanese, literally: roll]  
 __maladaptive__ _adj_ :seven: Showing faulty adaptation. _The Tetris Effect need not be maladaptive._  
+__maladroit__ _adj_ /mal-uh-DROYT/ Maladroit is an adjective that means “incompetent” or “very awkward.” It is usually used in formal speech and writing, and often describes people who lack skill in handling situations.  
 __malady__ _n_ :two: A disease, a disorder, or an ailment. _Syn_ illness, sickness _He was stricken with a crippling malady._  
 __malaise__ _n_ :six: /muh-LAYZ/ Malaise refers to a slight or general feeling of not being healthy or happy. __1__ A vague feeling of bodily discomfort, as at the beginning of an illness. __2__ A general sense of depression or unease. _“The markets remain mired in a deep malaise” (New York Times)_ _Postcolonial malaise._ _The general economic malaise._  
 __malapropism__ _n_ :five::dart: __1__ Ludicrous misuse of a word, especially by confusion with one of similar sound. __2__ An example of such misuse. _“Jesus healing those leopards” is an example of malapropism._  
+__malaria__ _n_ /məˈlɛər i ə/  
 __malarkey__ _n_ :dart::five::mega::hammer: Speech or writing designed to obscure, mislead, or impress; bunk. _Syn_ idle words, jazz, nothingness, wind  
 __malcontent<sup>1</sup>__ _n_ :two: /MAL-kuhn-tent, mal-kuhn-TENT/ One who is chronically dissatisfied. _There is not mat space for malcontents or dissenters._  
 __malcontent<sup>2</sup>__ _adj_ Chronically dissatisfied, complaining, rebellious, etc.  
@@ -10989,6 +10994,7 @@ __mallet__ _n_
 __mallow__ _n_ :pencil2:  
 __mallrats__  
 __malnourished__ _adj_ :three: Affected by improper nutrition or an insufficient diet.  
+__malnutrition__ _n_  
 __malodor__ _n_ A distinctive odor that is offensively unpleasant. _Syn_ fetor, reek, stench, stink, mephitis _The malodor from the skunk filled the night air and sent us running indoors._  
 __malt__ _n_ :mega:  
 __malted__ _n_ A milkshake made with malt powder.  
@@ -11030,7 +11036,7 @@ __manhandle__ _v_ :three::hammer: (manhandled) _Manhandling the striker around t
 __Manhattanite__ _n_ :two::hammer:  
 __manhole cover__  
 __manhole__ _n_  
-__manhunt__ _n_ :two::hammer: _A psychological manhunt for happiness._  
+__manhunt__ _n_ :three: An organized search, usually by police, for a wanted man or fugitive. _A psychological manhunt for happiness._  
 __mania__ _n_ :two::hammer:  
 __manic episode__ _n_ :two::hammer:  
 __manic__ _adj_ :three::mega::hammer: _I was manic._  
@@ -11060,9 +11066,10 @@ __mantle<sup>2</sup>__ _v_
 __mantlet__ _n_  
 __mantra__ _n_  
 __mantrap__ _n_  
-__manure__ _n_  
+__manure__ _n_ :two: __1__ The dung of livestock or poultry.  
 __many<sup>1</sup>__ _adj_  
 __many<sup>2</sup>__ _n_  
+__Maori__ _n_ /ˈmaʊ ri/  
 __maple__  
 __mar<sup>1</sup>__ _v_ :nine::m::pencil2: (mars, marred) If something is marred, it’s damaged due to a flaw. If the big football game on Sunday ends with a fight among fans of the opposing teams, commentators will say that the game was marred by violence. _A game marred by injuries to key players._ _It marred the week._  
 __mar<sup>2</sup>__ _n_ A disfiguring mark; a blemish.  
@@ -11086,11 +11093,13 @@ __marinades__
 __marinate__ _v_ :two::hammer: _Marinating my thoughts._  
 __mariner__ _n_  
 __maritime__  
+__Mariupol__ _n_  
 __marjoram__ _n_ :two: Oregano.  
 __mark of the beast__ _n_ __1__ A mark of evil. __2__ A labeling as unorthodox or heretical.  
 __mark up__ _phr v_ To mark for sale at a higher price.  
 __markdown__  
 __markdowns__  
+__market cap__ _n_ :two: (market capitalization) An estimation of the value of a business that is obtained by multiplying the number of shares outstanding by the current price of a share.  
 __marketplace__  
 __marks__ _n_ _The prime minister has won high marks for his even-handed helmsmanship._  
 __marksman__ _n_  
@@ -11273,6 +11282,7 @@ __melon scratcher__ _phr_ Melon is head, so melon scratcher is a head scratcher 
 __meltdown__ _n_ :seven: __1__ Severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping. __2__ A disaster comparable to a nuclear meltdown.  
 __melting pot__ _n_ :two::hammer:  
 __meme__ _n_ _slang_ :five::mega: A thought, idea, joke, or concept that spreads online, often virally. Can be in the form of an image, a video, an email, an animation, or music.  
+__memento mori__ _n_  
 __memento__ _n_ :five::hammer: (mementos, mementoes) _Removing mementos from a national park is illegal._  
 __memetic__ _adj_ /muh/mee/mi-MET-ik/ [:scroll: From meme, from Greek mimeisthai (to imitate, copy).] Relating to memes.  
 __memo pad__ _n_  
@@ -11385,6 +11395,7 @@ __microbrew__ _n_ :four::hammer:
 __microcosm__ _n_ /MY-kruh-kah-zum/  
 __microdermabrasion__ _n_  
 __micturate__ _v_ A less common word for urinate.  
+__mid__ _adj_ Mediocre, unimpressive, or disappointing.  
 __mid-afternoon__  
 __midafternoon__  
 __midas__ _n_ /MY-duhs/ [:scroll: After the legendary King Midas who was given the power that anything he touched turned into gold.] __1__ One with the ability to easily turn anything profitable. __2__ One who is extremely wealthy.  
@@ -11429,6 +11440,7 @@ __mile-marker__ _n_ (milemarker)
 __mileage__  
 __milieu__ _n_ /meel-YOO/ A milieu is the physical or social setting in which something occurs or develops. The word is synonymous with environment. _The quiet suburban neighborhood provides the perfect milieu for raising a family._  
 __military fiat__ _n_  
+__military__ _adj, n_ /ˈmɪlɪtərɪ; -trɪ/  
 __militate__ _vi_ /MIL-i-tayt/ To exert a strong influence, either for or against something.  
 __militia__ _n_ :two::hammer: (militias)  
 __militiaman__ _n_ :pencil2:  
@@ -11476,7 +11488,7 @@ __minnie__ _n_ :three: /ˈmɪnɪ/ A mother.
 __minnow__ _n_ :nine::m: (minnows) __1__ A very small fish that lives in rivers and lakes. __2__ An organization or company that is small and unimportant; a small or insignificant person. _Things get interesting at feeding time, when gallons of minnows are tossed in the pool._  
 __minor key__  
 __minor__ _n_ :three: /ˈmaɪ nər/ __1__ Underage person. __2__ A field of study that a student is not specializing in and which requires fewer credits, or a student studying such a field. To minor in something is to study it as as a secondary field. _It requires a math minor._  
-__minstrel__ _n_ :five: __1__ A medieval entertainer who traveled from place to place, especially to sing and recite poetry. _A popular minstrel show, such as “Jim Crow.”_ :es: juglar  
+__minstrel__ _n_ :six: __1__ A medieval entertainer who traveled from place to place, especially to sing and recite poetry. _A popular minstrel show, such as “Jim Crow.”_ :es: juglar  
 __mint bank notes__  
 __mint__ _adj_ Unspoilt, as if fresh from a mint.  
 __minus-9__ _n_ _The Cowboys are tied for last with Detroit in turnover margin with minus-9._  
@@ -11588,7 +11600,7 @@ __modicum__ _n_ :eight: If you want to describe a small amount of something, try
 __modish__ _adj_  
 __Mogollon Rim__ _n_ A rugged escarpment of east-central Arizona forming the southern edge of the Colorado Plateau.  
 __mogrify__ _v_  
-__mogul__ _n_ :seven: __1__ A very rich or powerful person; a magnate. _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
+__mogul__ _n_ :eight: /ˈməʊɡʌl; məʊˈɡʌl/ __1__ A very rich or powerful person; a magnate. _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
 __mohair__  
 __Mohs hardness__ _n_ _The Mohs scale of mineral hardness is qualitative and arbitrary._  
 __moiré pattern__  
@@ -11619,6 +11631,7 @@ __momentously__ _adv_ In a momentous way.
 __momentum__ _n_ :two::hammer: _I’ve lost a lot of momentum._  
 __momo__ _n_ _(Tibetan cooking)_ A steamed dumpling filled with meat or vegetables.  
 __monad__  
+__monarch__ _n_ :mega: /ˈmɒn ərk, -ɑrk/  
 __Monday__ _n_ :mega: /’möndi, -deI/  
 __mondegreen__ _n_ :four::dart: [:scroll: from the Scottish ballad _The Bonny Earl of Murray_, in which the line “laid him on the green” can be misheard as “Lady Mondegreen”] A series of words that result from the mishearing or misinterpretation of a statement or song lyric. For example, _I led the pigeons to the flag_ for _I pledge allegiance to the flag._  
 __money on the hoof__  
@@ -11681,7 +11694,7 @@ __morale__ _n_ :five::hammer: _The sunken morale left by defeats._
 __morass__ _n_ :seven: /muh-RASS/ (morasses) __1__ Morass is used literally to refer to an area of soft, wet ground, especially a marsh or swamp. A tract of swampy low-lying land. _I’m often late getting to work when mud season turns my dirt road into an all but impassable morass._ __2__ It is also often used figuratively to mean “a complicated or unpleasant situation that is difficult to get out of or to move through.” A disordered or muddled situation or circumstance, esp one that impedes progress. Something that hinders, engulfs, or overwhelms. _A morass of details._ _We slog through a morass of tangled brambles and hidden pitfalls._ _Social media can make it difficult to discern the truth of something amid the morass of misinformation._ __3__ A book of magical knowledge, especially one containing spells.  
 __moratorium__ _n_ :two::hammer:  
 __moray eel__ _n_  
-__morbid__ _adj_  
+__morbid__ _adj_ :two: __2__ Gruesome.  
 __morbidity__ _n_ :three: The relative incidence of a particular disease. _COPD is responsible for considerable morbidity and mortality._ _Conditions such as back pain and arthritis are the biggest cause of morbidity in the UK._  
 __morcellator__  
 __more than meets the eye__  
@@ -11735,9 +11748,12 @@ __motoring__
 __motorist__ _n_ :three: A person who drives or travels in a privately owned automobile.  
 __motorized scooter__ _n_ :dart: _Police said they know who stole a motorized scooter that belonged to a local woman with limited mobility._  
 __motormouth__ _n_ :two::hammer:  
+__motorway__ _n_  
 __mould__ _n_  
 __mound__ _v_ :two: __1__ (often foll by up) To gather into a mound; heap. __2__ To cover or surround with a mound: _to mound a grave._ _Jack was mounding butter pats on his fourth hard roll._ _He was mounding butter pats on his fourth hard roll._  
-__mount__ _v_ _Evidence is mounting for an ocean at Pluto._  
+__mount<sup>1</sup>__ _vt_  
+__mount<sup>2</sup>__ _vi_ :two: __1__ To increase in amount or intensity (often fol. by up): _The costs mounted up._ __2__ To get up on the back of a horse or other animal for riding. __3__ To rise or go to a higher position, level, degree, etc.; ascend. _Anger mounting._ _Evidence is mounting for an ocean at Pluto._  
+__mount<sup>3</sup>__ _n_  
 __mountain range__ _n_ :two::hammer: :es: cordillera, sierra  
 __Mountain States__ _n_ (also known as the Mountain West and the Interior West) The region of the US that includes states that contain part of the Rocky Mountains.  
 __mountaintops__ _n_  
@@ -11775,7 +11791,7 @@ __muddle through__ _phr v_ To manage to do something despite difficulties.
 __muddle__ _v_ :seven: (muddled) Bring into a disordered or confusing state. _Syn_ confuse, mix up, jumble, jumble up, disarrange, disorganize, disorder _Muddled lime with whiskie on the rocks._  
 __mudslide__ _n_ :three: __2__ A sweet cocktail made with a whiskey-based liqueur blended with cream, a coffee liqueur, and sometimes vodka, served over ice.  
 __mudslinging__ _n_ :three: Efforts to discredit one’s opponent by malicious or scandalous attacks. :es: injurias  
-__muff__ _n_ _She drew from her muff a pistol._  
+__muff__ _n_ :two::hammer: _She drew from her muff a pistol._ __2__ _Sports_ A failure to make a catch.  
 __muff-diver__ _n_ :two::hammer:  
 __muffed__ _v_ _The Ducks muffed a kickoff return._  
 __muffle__ _v_ :three: Deaden (a sound or noise), especially by wrapping. _Syn_ mute, tone down, dampen, dull :es: amortiguar (sonido) _I was up past my bedtime, so I tried to muffle my sneeze by holding my pillow over my face._  
