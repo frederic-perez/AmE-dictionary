@@ -148,31 +148,6 @@ __slip up__
 __slow and steady wins the race__  
 __slowly but surely__  
 __smother (someone or something) with (something)__  
-__sound asleep__ :two::hammer:  
-__spell out__  
-__spill over__ :two::hammer:  
-__spill the beans__  
-__spring chicken__  
-__spycho__  
-__stand by someone__  
-__stand tall__  
-__stay put__  
-__sticking point__ A topic of discussion or debate that results in disagreement. _The subject of curfew is often a real sticking point between teenagers and their parents._  
-__take the blame (for something)__  
-__talk trash__  
-__tap (one) for (something)__  
-__the latest__  
-__tit for tat__ (_n pl_ tit for tats)  
-__to an extent__ Somewhat; partly; in a limited way or to a limited degree.  
-__to name (but) a few__  
-__turn over a new leaf__  
-__two-way street__  
-__up until now__ From the beginning of a particular period of time until the present moment. It is used to indicate that something was true or existed in the past but may not be true or exist in the present or future.  
-__wake-up call__  
-__whoopsie__  
-__wink wink (nudge nudge)__ A phrase spoken after a statement which emphasizes or points out a euphemistic underlying meaning or innuendo.  
-__with a bang__ :three::hammer:  
-__with a heavy hand__ __1__ In an excessive, authoritarian, or oppressive way or manner. _The police dispersed the protesters with a heavy hand._  
 __with a vengeance__ _Die Hard with a Vengeance._  
 __with flying colors__  
 __within reach__  
