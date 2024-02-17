@@ -1,10 +1,16 @@
+__(almost) upon (one)__ (Almost) about to happen, arrive, or commence.  
 __(it’s) all good__  
 __and whatnot__ Along with other things of a similar kind; and so forth.  
 __at the heart of__ The central or most important part of something.  
+__back to basics__ Returning to the fundamental aspects of something.  
 __be here to stay__  
+__be like trying to find a needle in a haystack__  
+__be waiting for the other shoe to drop__ To be waiting for the next, seemingly unavoidable thing to happen. This phrase often has a negative connotation. _Mom said that Dad would punish us when he got home from work, so now we’re just waiting for the other shoe to drop._  
 __big deal__  
 __bits and pieces__  
+__bury the hatchet__ __1__ To make peace with someone.  
 __call (all) the shots__  
+__cash in__  
 __catch (one) off guard__  
 __catch some shuteye__  
 __check your ego at the door__ To leave behind one’s pride, arrogance, or self-importance when entering a situation or environment.  
@@ -55,8 +61,10 @@ __end (something) on a high note__
 __enough is enough__  
 __enshittification__ _slang_ The gradual degradation of an online platform or service’s functionality, as part of a cycle in which the platform or service first offers benefits to users to attract them, then pursues more and more profits at the expense of users.  
 __failure is not an option__  
+__fall on deaf ears__ [for talk or ideas] To be ignored by the persons they were intended for. _Her pleas for mercy fell on deaf ears; the judge gave her the maximum sentence._  
 __far and wide__ :two: All over; everywhere.  
 __fast track__  
+__fast-forward__  
 __faux pas__  
 __feast your eyes (on somebody/something)__  
 __feel (some emotion) about (someone or something)__ To feel a particular emotion in response to or about someone or something.  
@@ -71,12 +79,14 @@ __for the birds__
 __from the get-go__  
 __frosty__ __2__ _mod_ Cool; really cool and mellow. _That music is really frosty._  
 __go a long way__ :two::hammer:  
+__go into overdrive__ To start working very hard or quickly.  
 __go to (someone or something)__  
 __God willing__ If all goes as it should; if everything goes well.  
 __gun-shy__  
 __gut-wrenching__ Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one’s feelings. _What a gut-wrenching loss for the young athlete, who poured her heart and soul into this match._  
 __gyatt__ A slang exclamation of surprise or excitement. Gyatt is most commonly used as an exclamation in reaction to seeing a large butt (that is, the buttocks) and may be used as a noun to mean a large butt.  
 __gym bunny__ Someone who is obsessively preoccupied with maintaining or improving their physique and thus spends a large amount of time at the gym to do so. _After recovering from his surgery, John spent a lot of time at the gym getting his body back into shape. Now he’s turned into a total gym bunny._  
+__Hail Mary__  
 __hammer out__  
 __happy medium__ A healthy balance between two extremes.  
 __hard line__ :two::hammer:  
@@ -86,11 +96,13 @@ __have (one’s) hands full__ :dart: To be busy or completely occupied with deal
 __have (one’s) plate full__  
 __have (something) to do__ To have some task or action that one must complete or undertake.  
 __have a go (at someone or something)__  
+__have no business (doing something)__ To have no legitimate reason, experience, or authority to do something.  
 __he-man__ A particularly strong, tough, and/or virile male, especially one who likes to flaunt his strength.  
 __head-to-head__ Describing a one-on-one matchup or comparison.  
 __heads up__ __2__ _n_ A preliminary notice, especially of future difficulty, trouble, or danger; a warning. Often hyphenated. _Make sure everyone gets the heads-up about the inspection tomorrow morning. We don’t want anyone coming in unprepared._  
 __heavy-footed__ Clumsy, ponderous, or lumbering in gait or tread. _The team’s star striker deftly navigated the ball past the heavy-footed defenseman._  
 __high roller__ Someone known for spending or gambling large amounts of money.  
+__hold my beer__ A phrase indicating that one is about to do something stupid or dangerous. The image is that of a person at a party who asks a friend to hold their beer so that they can attempt some kind of ill-advised stunt. It is often used humorously to describe how something bad was followed by something even worse. _A: “There’s no way it’s possible to jump from the roof into the pool. It’s 20 feet away!” B: “Hold my beer, amateur.”_  
 __holy cow__  
 __I kid you not__  
 __I know, I know__ A conversational phrase used to express that the speaker is aware of what the other person is saying or feeling, often to express empathy or understanding.  
@@ -98,13 +110,23 @@ __if you will__
 __in a new light__  
 __in full swing__ Well underway and operating at the highest possible level or pace.  
 __in one breath__ Very quickly, as of someone who is speaking (usually while very excited).  
+__last-ditch__ :dart: Final, usually drastic or risky, with failure as the only alternative.  
+__leaps and bounds__  
+__level the playing field__  
+__on a pedestal__  
+__on the cusp__  
+__on the spot__  
+__one-up (someone)__  
+__out of here__ _informal_ (outta here) Used to say that one is leaving. _It’s five o’clock, so I’m out of here._  
+__red team__  
 __rule of thumb__ A general principle developed through experiential rather than scientific means. An approximation; a suggested method or guideline. _A good rule of thumb is to plant your seedlings around the end of May._  
 __rule the roost__ To have the most control or authority in a group. _Both of our parents were tough, but Mama was as tough as an old shoe, who ruled the roost without saying a word._  
 __run down__  
 __run out of patience__ To become unable to remain patient any longer.  
 __safeguard against (someone or something)__  
 __save (something) for a rainy day__  
-__save the day__  
+__save the day__ :two::hammer:  
+__scale up__  
 __scratch (one’s) head__  
 __seeing is believing__  
 __seize upon (something)__  
@@ -137,12 +159,14 @@ __stand tall__
 __stay put__  
 __sticking point__ A topic of discussion or debate that results in disagreement. _The subject of curfew is often a real sticking point between teenagers and their parents._  
 __take the blame (for something)__  
+__talk trash__  
 __tap (one) for (something)__  
 __the latest__  
 __tit for tat__ (_n pl_ tit for tats)  
 __to an extent__ Somewhat; partly; in a limited way or to a limited degree.  
 __to name (but) a few__  
 __turn over a new leaf__  
+__two-way street__  
 __up until now__ From the beginning of a particular period of time until the present moment. It is used to indicate that something was true or existed in the past but may not be true or exist in the present or future.  
 __wake-up call__  
 __whoopsie__  
