@@ -17349,7 +17349,8 @@ __speechify__ _vi_ /ˈspiːtʃɪˌfaɪ/ To make a speech, especially in a tediou
 __speechless__ _adj_  
 __speed bag__ _n_  
 __speed demon__  
-__speed-dial__ _v_  
+__speed dial<sup>1</sup>__ _n_ A function on a telephone that automatically dials stored telephone numbers.  
+__speed-dial<sup>2</sup>__ _v_  
 __speedway__ _n_  
 __spell<sup>1</sup>__ _v_  
 __spell<sup>2</sup>__ _n_ :two::hammer: _Dry with clear spells, but cloudy later._  
@@ -17365,6 +17366,7 @@ __spew<sup>1</sup>__ _vt_ :eight: (spewed) __1__ To send out or force out in lar
 __spew<sup>2</sup>__ _vi_ __1__ To flow or gush forth: _Water was spewing from the hydrant._ __2__ To vomit.  
 __sphinx__ _n_  
 __spic__ _n_ _offensive_ Used as an insulting and contemptuous term for a Spanish-American person. _Behind our backs they called us the Spic and the Mik._  
+__spider__ _n_ __9__ (Billiards & Snooker) A rest having long legs, used to raise the cue above the level of the height of the ball.  
 __Spider-Man__  
 __spiel__ _n_ :five: /SPEEL/ A spiel is a fast speech—often one that has been rehearsed or given before—that is usually intended to get someone to buy something or to agree to something. _Syn_ patter, speech, pitch, recital, harangue, sales talk, sales patter _We let the salesman give us his opening spiel, but when he got to the high-pressure sales tactics, we cut him short and made it clear that we were not interested._  
 __spiff__ _v_  
@@ -17397,9 +17399,10 @@ __spinster__ _n_ :two::hammer:
 __spiny lobster__ _n_ :camera:  
 __spiral binder__  
 __spiral<sup>1</sup>__ _n_  
-__spiral<sup>2</sup>__ _v_ :three::hammer: _It spirals out of control._  
+__spiral<sup>2</sup>__ _v_ :four::hammer: _It spirals out of control._  
 __spiraling__  
 __spire__ _n_ :seven: A tapering roof or analogous pyramidal construction surmounting a tower. _A church spire._  
+__Spirit Day__ _n_  
 __spirit stove__ _n_ A stove that burns a volatile liquid fuel such as alcohol. _We had a small spirit stove._  
 __spite__ _n_ :five::hammer: _He brought him along for spite._ _He added her to the list out of spite._ _Some names were added out of spite._  
 __spiteful__ _adj_ :five: Showing malicious ill will and a desire to hurt; motivated by spite. Filled with, prompted by, or showing spite; malicious. _Syn_ vindictive :es: rencoroso  
@@ -17523,7 +17526,7 @@ __square dancing__ _n_ American country dancing in which couples form squares.
 __square deal__  
 __square dsncing__  
 __square__ _n_ _slang_ A boring person.  
-__squarely__ _adv_ :two::hammer: /ˈskwɛəlɪ/  
+__squarely__ _adv_ :three: /ˈskwɛəlɪ/ __1__ In a direct way; straight: _he hit me squarely on the nose; walked squarely toward the shoplifter and arrested him._  
 __squash__ _v_ :two: __1__ To beat, squeeze, or press into a pulp or a flattened mass; crush. _Syn_ crush _My guess is they could have squashed us flat just as easily._  
 __squat down__ _v_  
 __squat toilet__ _n_  
@@ -17539,7 +17542,8 @@ __squeaky-clean__ _adj informal_ __1__ Scrupulously clean. __2__ Virtuous; whole
 __squeal__ _v_  
 __squeamish__ _adj_ :nine: Easily upset or disgusted by things or actions you find unpleasant: _Dad was squeamish about killing roaches._  
 __squeamishness__  
-__squeeze__ _v_  
+__squeeze<sup>1</sup>__ _n_  
+__squeeze<sup>2</sup>__ _v_ :two::hammer:  
 __squelch__ _v_ :seven::hammer: (squelched)  
 __squib__ _n_ :four: __2a__ A brief satirical or witty writing or speech, such as a lampoon.  
 __squiffy__  
@@ -17580,7 +17584,7 @@ __stagflation__ _n_ :two: Sluggish economic growth coupled with a high rate of i
 __stagger__ _v_ :four::hammer: (staggers) _Walmart will stagger other deals._ __4__ To arrange in alternating or overlapping time periods: _staggered the nurses’ shifts._  
 __staggering<sup>1</sup>__ _adj_ :five: Extremely surprising. Causing great astonishment, amazement, or dismay; overwhelming: _a staggering achievement; a staggering defeat._ _Staggering costs._  
 __staggering<sup>2</sup>__ _v_  
-__stagnant__ _adj_ :four::hammer:  
+__stagnant__ _adj_ :five::hammer:  
 __staid__ _adj_ :seven: Sedate, respectable, and unadventurous. _Staid law firms._ _A staid postelection conference._ _Syn_ sedate, respectable, quiet, serious :es: serio, formal, sereno Characterized by sedate dignity and often a strait-laced sense of propriety. _Syn_ serious, sober, quiet, calm, grave, steady, composed, solemn _I instinctively stood up a little straighter when the staid duke entered the parlor._  
 __stair-climber__ _n_ An exercise apparatus that simulates the act of climbing stairs.  
 __stair-climbing__ _n_ (stair climbing) __1__ The climbing of a flight of stairs. __2__ Stair-climber (I guess). _Gyms and health clubs offer yoga along with stair-climbing machines._  
@@ -17597,7 +17601,7 @@ __stalemate__ _n_ /ˈsteɪlˌmeɪt/
 __staler__ _adj_ _The air in the place grew staler._  
 __Stalin__ _n_ (originally Iosif Vissarionovich Dzhugashvili) Steel in Russian.  
 __stalk<sup>1</sup>__ _n_ :two::hammer:  
-__stalk<sup>2</sup>__ _v_ :three::hammer: (stalked) _Scarcity was stalking France._  
+__stalk<sup>2</sup>__ _v_ :four::hammer: (stalked) _Scarcity was stalking France._  
 __stalking-horse__ _n_ Something serving to conceal plans; a fictitious reason that is concocted in order to conceal the real reason. _Syn_ pretext _Steve said he needed a book from the library, but that was just a stalking-horse to talk to the girl who worked behind the counter._  
 __stall__ _v_  
 __stallion__  
@@ -17639,7 +17643,7 @@ __staple__ _n_ :three::hammer: (staples) _There are staples we’ve come to expe
 __star 69__ _v_ _slang_ In most areas of the United States, phone companies offer \*69 service. If you miss a call, or receive one from an unknown caller, dialing \*69 on your phone will identify the last caller’s number (if possible) and give you the option to call them back. _He thought he could just hang up on me and I wouldn’t know who he was, but I star 69ed his ass._ _Risking somebody on the other end of the phone having caller ID or star-69ing him._  
 __star anise__ _n_ :es: anís estrellado  
 __star__ _v_  
-__star-crossed__ _adj_ Thwarted or opposed by the stars; ill-fated: _star-crossed lovers._  
+__star-crossed__ _adj_ :two: Thwarted or opposed by the stars; ill-fated: _star-crossed lovers._  
 __star-spangled__ _adj_ :dart: __1__ Spangled with stars. __2__ _informal_ Made up of or attended by celebrities, distinguished or illustrious persons, etc. _Like a rhinestone cowboy, rding out on a horse in a star-spangled rodeo._ _A star-spangled reception._  
 __star-studded__ _adj_ __2__ Exhibiting or characterized by the presence of many preeminent performers: _a star-studded Hollywood party._  
 __starboard__ _n_ :two: [To keep _port_ and _starboard_ straight, remember that sailors use _stars_ to point them in the _right_ direction after they have _left port_]  
@@ -17773,6 +17777,7 @@ __stewardship__ _n_ :three::hammer:
 __stewed tomatoes__  
 __stick > turnaround stick__  
 __stick of gum__ _n_  
+__stick shift__ _n_ A manual transmission for a motor vehicle.  
 __stick<sup>1</sup>__ _n_ _A swagger stick._  
 __stick<sup>2</sup>__ _v_ :three::hammer: _She began sticking files in a cabinet._  
 __stickball__ _n_ Stickball is a street game related to baseball, usually formed as a pick-up game played in large cities in the Northeastern United States, especially New York City and Philadelphia. The equipment consists of a broom handle and a rubber ball, typically a spaldeen, pensy pinky, high bouncer or tennis ball.  
@@ -17861,8 +17866,8 @@ __stop up__ _v_ To block. _Some rubbish got into the drain and stopped it up._ _
 __stop-and-go__ _adj_ Alternately proceeding and halting: _stop-and-go traffic jams._  
 __stopcock__ _n_ A valve that regulates the flow of fluid through a pipe; a faucet.  
 __stope__  
-__stopgap<sup>1</sup>__ _n_ :nine::m: An improvised substitute for something lacking; a temporary expedient. _Syn_ make-do, makeshift _This is not an acceptable long term solution, just a stopgap._  
-__stopgap<sup>2/sup>__ _adj_ Serving as a stopgap: _a stopgap solution._  
+__stopgap<sup>1</sup>__ _n_ :dart::nine::m: An improvised substitute for something lacking; a temporary expedient. _Syn_ make-do, makeshift _This is not an acceptable long term solution, just a stopgap._  
+__stopgap<sup>2/sup>__ _adj_ :two: Serving as a stopgap: _a stopgap solution._  
 __stoplight__ _n_ :pencil2: __1__ A taillight that lights up as the driver of a vehicle steps on the brake pedal to slow down or stop. __2__ Traffic light.  
 __stopover__ _n_ :four::hammer: _Montrose is a delightful stopover on the way to the Grand Canyon._  
 __stoppage__ _n_ :nine::m: __1__ An act or instance of stopping. __2__ The state of being stopped or obstructed. _A stoppage-time goal._ __3__ A cessation of activity, esp. work; strike. _Keep work stoppages to a minimum._ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
@@ -17924,7 +17929,7 @@ __strand<sup>1</sup>__ _n_ :four::hammer: _A long strand of rope._ _The strands 
 __strand<sup>2</sup>__ _v_  
 __stranded__ _adj_ :two: Left without the means to move from somewhere. _She offers a lift to a stranded commuter._  
 __strangle__ _v_ :four::hammer: (strangled, strangling) :es: estrangular  
-__stranglehold__ _n_ :four::hammer:  
+__stranglehold__ _n_ :five: __2__ Complete power or control over a person or situation.  
 __strap overalls__  
 __strapless__ _adj_ Having no strap or straps, as a dress or an undergarment. _Strapless black dress._  
 __strappado__ _n_ /straˈpɑːdəʊ,straˈpeɪdəʊ/  
@@ -17987,7 +17992,7 @@ __strobe__ _n_ :two::hammer: _Strobe lighting._ _Writhing in the strobe lights a
 __strobing__ _n_ (Computer science) The technique required to time-synchronize data appearing as pulses at the output of a computer memory. _Strobing flash._  
 __stroganoff__  
 __stroke<sup>1</sup>__ _n_ _Stroke of good fortune._  
-__stroke<sup>2</sup>__ _vt_ __1__ To rub lightly with or as if with the hand or something held in the hand; caress. _The dog’s owner stroked its ears, which made the animal lean into the touch and relax._  
+__stroke<sup>2</sup>__ _vt_ :two: __1__ To rub lightly with or as if with the hand or something held in the hand; caress. To rub (eg a furry animal) gently and repeatedly in one direction, especially as a sign of affection ._The dog’s owner stroked its ears, which made the animal lean into the touch and relax._  
 __stroker__ _n_ _Regular strokers sold their plunder._  
 __stroking__ _n_ A light touch with the hands.  
 __stroll__ _v_  
@@ -18085,6 +18090,7 @@ __subsidiary__ _n_ :two::hammer:
 __subsidize__ _vt_  
 __subsidy__  
 __subsist__ _v_ Support oneself. _Syn_ exist, survive, live _I was more agile than they and could subsist upon coarser diet._  
+__substantial__  
 __substantive__ _adj_ :mega: /SUB-stun-tiv/  
 __substation__  
 __subsume__ _vt_ :four::hammer:  
@@ -18192,6 +18198,7 @@ __supercentenarian__
 __supercharge__ _vt_  
 __supercilious__ _adj_ :seven: Displaying arrogant pride, scorn, or indifference. Feeling or showing haughty disdain. _Syn_ haughty, prideful, sniffy, swaggering, lordly, disdainful, arrogant _He smiled in a supercilious manner and said I had better do as I was asked._  
 __superfluous__ _adj_ :mega:  
+__superfog__ _n_ A combination of fog generated by weather conditions and wildfire smoke from damp, smoldering brush, leaves, trees, and other organic materials that often reduces visibility to less than 10 feet.  
 __superintendent__ _n_ :five::hammer:  
 __superlative__ _adj_ _Superlative works._  
 __superluminal__ _adj_ __1__ _Astronomy_ Appearing to travel faster than the speed of light. __2__ _Physics_ Of or relating to a speed or velocity exceeding the speed of light.  
@@ -18378,6 +18385,7 @@ __symbiosis__ _n_ :two::hammer: /sim-bee-OH-sis/
 __sympathetic__ _adj_ :two::hammer:  
 __sympathy__ _n_  
 __sympatric__ _adj_ /sim-PAT-rik/ [:scroll: From sym-, a form of syn- (together) + patra (homeland), from pater (father).] Occurring in the same geographical area. _The Mojave yucca is often sympatric with the Joshua tree._  
+__symphysis__ _n_  
 __symposiarch__ _n_ The person who proposes toasts and introduces speakers at a banquet. _Syn_ toastmaster  
 __synaptogenesis__ _n_  
 __synchronizity__ _n_ /ˌsɪnkrəˈnɪsɪtɪ/ __2__ An apparently meaningful coincidence in time of two or more similar or identical events that are causally unrelated.  
@@ -18508,6 +18516,7 @@ __tangle<sup>1</sup>__ _n_ (tangles)
 __tangle<sup>2</sup>__ _v_ :two::hammer: (tangled) _Cousin and Horford tangled in the first quarter Wednesday._  
 __tangled__  
 __tangy__ _adj_ :two::hammer: _Tangy BBQ duck._  
+__tank top__ _n_  
 __tank<sup>1</sup>__ _n_ __5__ A tank top.  
 __tank<sup>2</sup>__ _vi_ _informal_ :nine::m: (tanked, tanking) __2__ _informal_ To suffer a sudden decline or failure: _The stock market tanked yesterday._ _The Braves are being accussed of losing on purpose now to speed-dial to a brighter future. It’s called tanking._ _There are grand incentives to tank a season._ _The market tanked._ _Laptops tanking your meetings?_ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanking._ _Google’s value tanked by as much as $100 billion because of the two flubs._  
 __tankard__ _n_  
@@ -18774,6 +18783,7 @@ __The More You Know__ _n_
 __the name of the game__  
 __the order of the day__  
 __the writing on the wall__  
+__theater of operations__  
 __theatregoer__ _n_  
 __thecracy__  
 __theism__ _n_ Belief in the existence of a god or gods, especially belief in a personal God as creator and ruler of the world.  
@@ -18972,7 +18982,7 @@ __timepiece__ _n_ :four: A watch, or a clock.
 __timesaving__ _adj_ (of methods, devices, etc.) Reducing the time spent or required to do something.  
 __timeserver__ _n_ :three: /TYM-suhr-vuhr/ __1__ One who makes little effort at work, such as while waiting to retire or find another job. __2__ One who changes views to conform to prevailing circumstances. __3__ A computer that transmits precise time information on a network. __4__ One who conforms to the prevailing ways and opinions of one’s time or condition for personal advantage; an opportunist. A person whose conduct is shaped to conform to the opinions of the time or of persons in power, esp. for self-serving ends.  
 __timeshare__ _n_ :two::hammer: _They have a timeshare in Lake Tahoe._  
-__timetable<sup>1</sup>__ _n_ :two::hammer: _The timetable was tight._  
+__timetable<sup>1</sup>__ _n_ :three::hammer: _The timetable was tight._  
 __timetable<sup>2</sup>__ _v_  
 __timid__  
 __timing bag__  
@@ -19084,6 +19094,7 @@ __toll<sup>2</sup>__ _v_ :three: (tolls, tolling) If you toll a bell, or if it t
 __Tom and Jerry__ _n_ A hot drink consisting of rum or another liquor, a beaten egg, milk or water, sugar, and spices.  
 __Tom Thumb__ _n_ __1__ A diminutive hero of folk tales. __2__ An extremely small person; dwarf.  
 __tom__ _n_ __1a__ The male of various animals, esp the cat. __b__ (as modifier): _a tom turkey._ __c__ (in combination): a _tomcat._  
+__tomahawk__ _n_ /ˈtɒm əˌhɔk/ [:scroll: C17: from Virginia Algonquian _tamahaac_]  
 __tomb__ _n_ :mute:[tom~~b~~]  
 __tombola__ _n_ _The green fingered young lady of the house runs a great tombola._  
 __tomboy__ _n_ :two: A girl who behaves in a way that is perceived to be stereotypically boyish or masculine.  
@@ -19273,6 +19284,7 @@ __transient<sup>1</sup>__ _adj_ :seven::mega: For a short time only; temporary o
 __transient<sup>2</sup>__ _n_  
 __transition__ _vi_ (of a transgender person): To come to live in accordance with one’s gender identity through a process that involves changes to one’s appearance and presentation often with the aid of medical procedures and therapies.  
 __translate__ _v_ _That doesn’t always translate, believe me._  
+__translational__ _n_ __2__ In science, of or relating to the application of basic or theoretical discoveries to the development of practical applications: _translational research._  
 __translucent__ _adj_  
 __transmogrify__ _v_ :two: /transs-MAH-gruh-fye/ To change something significantly and often with humorous or jarring effect. Change completely the nature or appearance of. _Syn_ metamorphose, transfigure _In Franz Kafka’s story_ The Metamorphosis _, a human being transmogrifies into a bug._ _If all goes as planned, the school’s gym will be transmogrified into a spooky gallery of Halloween delights._  
 __transom__ _n_ :two::hammer:  
@@ -19437,6 +19449,7 @@ __truffle__ _n_ :four::hammer: :es: trufa
 __truism__ _n_ :two::hammer:  
 __trull__  
 __truly__ _adj_ :two::hammer: _We truly appreciate it._  
+__trump__ _v_  
 __trumpet__ _v_  
 __trumpeter__ _n_ _The trumpeters were flourishing bright pennants from their silver trumpets._  
 __truncate__ _v_ /TRUNG-kayt/ _Many statements in the court document were truncated before publication._  
@@ -19456,7 +19469,7 @@ __truthiness__ _n informal_
 __try on__ _phr v_ :four::mega: To put clothes or shoes on to see if they fit.  
 __trying__ _adj_ :two::dart::astonished: /ˈtraɪɪŋ/ Extremely difficult and annoying, straining one’s patience and goodwill to the limit. Straining one’s patience and goodwill; annoying, difficult, or irritating. Causing strain, hardship, or distress. Upsetting, difficult, or annoying: _a trying day at the office._  
 __tryptophan__ _n_ :mega: (tryptophane)  
-__tryst__ _n_ :two: An agreement, as between lovers, to meet at a certain time and place. _Syn_ assignation, rendezvous _They tried to keep their weekly meetings a secret, but soon neighbors began to whisper about their trysts._  
+__tryst__ _n_ :three: An agreement, as between lovers, to meet at a certain time and place. _Syn_ assignation, rendezvous _They tried to keep their weekly meetings a secret, but soon neighbors began to whisper about their trysts._  
 __tsuifuku__  
 __tsunami__ _n_ [:scroll: The Japanese word tsunami is formed from _tsu_ (harbor) and _nami_ (wave).]  
 __tub__ _n_ :eight: __1__ A low wide open container, typically round, originally one made of wood and used _esp_ for washing: now made of wood, plastic, metal, etc, and used in a variety of domestic and industrial situations. _Family tub corn._ _Bring a tub of wet wipes._ :camera: __2__ A small plastic or cardboard container of similar shape for ice cream, margarine, etc. _A tub of Ben & Jerry’s._ __3__ Also called: bathtub another word (_esp_ US and Canadian) for bath.  
