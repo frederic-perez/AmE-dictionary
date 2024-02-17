@@ -1,4 +1,5 @@
 __absolve__ _v_ /ub-ZAHLV/  
+__America__ _n_ :mega: /əˈmɛrɪkə/  
 __betrothed__  
 __bubble__ _v_ _If it bubbles you have a leak._  
 __bullet__ _n_ :mega: /ˈbʊl ɪt/  
@@ -7,6 +8,7 @@ __burst__ _v_
 __bussin’__ _adj_ Great; wonderful; amazing.  
 __bustle__ _adj, v_  
 __buttonhole__ _vt_ __3__ To accost and detain (a person) in conversation.  
+__cachexia__ _n_ Weight loss, wasting of muscle, loss of appetite, and general debility that can occur during a chronic disease.  
 __calico__ _adj, n_  
 __callous__ _adj_ /KAL-us/  
 __cap__ _n informal_ __1__ Capital: _venture cap._ __2__ Capitalization: _market cap._  
@@ -15,13 +17,16 @@ __capitulate__ _v_ /kuh-PIH-chuh-layt/
 __captcha__ _n_ /ˈkæptʃə/  
 __cardioplegia__ _n_ /ˌkɑːdɪəʊˈpliːdʒɪə/ Deliberate arrest of the action of the heart, as by hypothermia or the injection of chemicals, to enable complex heart surgery to be carried out.  
 __cartomancy__ _n_ Fortune-telling by means of playing cards.  
+__caseous__ _adj_ Resembling cheese.  
 __cast iron__ _n_ :es: hierro fundido  
 __caucus__ _n_  
 __cerebritis__ _n_ /ˌsɛrɪˈbraɪtɪs/ An infection or inflammation of the brain.  
 __cessation__  
 __cheat code__ _n_ __2__ A ploy or technique that bypasses traditional methods or rules in order to improve oneself or one’s success: _We don’t know what sort of cheat code he may have discovered to pass the audition, but his mediocre talent sure has us wondering._  
 __chief__ _n_ /tʃiːf/ /tʃif/  
+__cirrhosis__ _n_ /sɪˈroʊ sɪs/ A chronic disease of the liver in which fibrous tissue invades and replaces normal tissue, disrupting important functions, as digestion and detoxification.  
 __cluck__ _n_  
+__co-opt__ _vt_  
 __cold turkey__  
 __comfy__ _adj_ /ˈkʌmfɪ/ _informal_ Short for comfortable. _Don’t get too comfy._  
 __compound__ _v_  
@@ -32,6 +37,7 @@ __conundrum__
 __counterintuitive__ _adj_  
 __cozy__ _adj_ Relating to a genre of mystery stories with little suspense, explicit violence, or sexual content, often also having amateur sleuths and idyllic, intimate settings.  
 __crease__ _v_  
+__crepitation__ _n_  
 __curb__ _vt_  
 __cursory__ _adj_  
 __dandelion__ _n_  
@@ -52,12 +58,15 @@ __despite__ _n, prep_ /dɪˈspaɪt/
 __detour__ _n_  
 __detox__  
 __discharge__ _vt_ __1__ To release or allow to go: _the hospital discharged the patient._  
+__dispensation__ _n_  
 __dogshit__  
+__dysarthria__ _n_ Difficulty in articulating words, caused by impairment of the muscles used in speech.  
 __encourage__ _vt_ /ɪnˈkʌrɪdʒ/ /ɛnˈkɜr ɪdʒ, -ˈkʌr-/  
 __energy poverty__ _n_  
 __enervate__ _v_ /EN-er-vayt/ :astonished: _Syn_ weaken, enfeeble  
 __engage__ _v_  
 __enshittification__ _n_  
+__equitable__  
 __era__ _n_  
 __evict__ _vt_ /ɪˈvɪkt/  
 __eviction__ _n_  
@@ -87,6 +96,7 @@ __frail__ _adj_
 __fraudster__ _n_ /ˈfrɔːdstə/ A swindler.  
 __fudge__ _v_ /fʌdʒ/  
 __gaffe__  
+__gantry__ _n_  
 __garland__ _n_  
 __generic name__ _n_  
 __gibe__ _n, v_ (jibe)  
@@ -94,10 +104,15 @@ __global boiling__ _n_
 __gloss__ _n_  
 __greedflation__ _n_  
 __grotesque__  
+__illustrate__ _v_  
 __jellyfish__ _n_ :es: medusa  
+__juvenile__ _adj, n_  
 __lavabo__ _n_ A basin for washing the hands. _Syn_ handbasin, washbasin, washbowl _The priest washed his hands in the metal lavabo before saying Mass._  
 __loggerhead__ _n_ __1__ A thick-headed or stupid person; blockhead.  
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
+__Machiavellian__ _adj_  
+__misdiagnose__ _vt_  
+__mortifying__ _adj_  
 __mugging__ _n_ An assault upon a person especially with the intent to rob.  
 __mull<sup>1</sup>__ _vt_ To think about extensively; ponder.  
 __mull<sup>2</sup>__ _vi_ To ruminate; ponder: _mull over a plan._  
@@ -109,6 +124,7 @@ __nebula__ _n_ /ˈnɛb yə lə/
 __nightstick__ _n_ A short stout club used primarily by policemen. _Syn_ truncheon, billy, billy club, billystick, baton  
 __noncontrast__ _adj_ Without the use of a contrast medium. _Noncontrast CT imaged._  
 __nonnegotiable__ _adj_  
+__nonspecific__ _adj_  
 __nuance__ _n_ /ˈnu ɑns, ˈnyu-, nuˈɑns, nyu-/  
 __omen__  
 __one-on-one__ _adj, adv_ __2__ Involving a direct encounter between one person and another.  
@@ -129,13 +145,16 @@ __pareidolia__ _n_ The perception of a recognizable image or meaningful pattern 
 __penny candy__ _n_ Inexpensive candy originally costing a penny apiece.  
 __pergola__ _n_ An arbor or a passageway of columns supporting a roof of trelliswork on which climbing plants are trained to grow. _Syn_ arbor, bower  
 __pestered__  
+__picket line__ _n_  
 __picturesque__  
 __pitfall__ _n_ __1__ An unsuspected difficulty or danger.  
 __prebiotic__ _n_  
 __propitiate__ _v_ :astonished: To conciliate (an offended power). _Syn_ appease _After his grave sin, he tried to propitiate the gods with a sacrifice._  
 __psyops__ _n pl_ Military operations usually aimed at influencing the enemy’s state of mind through noncombative means (such as distribution of leaflets).  
+__pubic symphysis__ _n_ The fixed joint at the front of the pelvic girdle where the two pubic bones meet.  
 __quirk__ _n_ /KWERK/ _Quirk_ refers to an unusual habit or way of behaving. It can also refer to something strange that happens by chance, as in “a quirk of fate.”  
 __range anxiety__ _n informal_ The apprehension or fear that an electric vehicle’s battery will run out of power before reaching one’s intended destination or a charging station.  
+__relatable__  
 __remark__ _n_ /rɪˈmɑrk/  
 __renewal__ _n_  
 __renowned__ _adj_  
@@ -196,12 +215,15 @@ __stroke__ _v_ To rub (eg a furry animal) gently and repeatedly in one direction
 __substantial__  
 __superfog__ _n_ A combination of fog generated by weather conditions and wildfire smoke from damp, smoldering brush, leaves, trees, and other organic materials that often reduces visibility to less than 10 feet.  
 __swoon__  
+__symphysis__ _n_  
 __tank top__ _n_  
 __theater of operations__  
 __timetable__ _n_  
 __tomahawk__ _n_ /ˈtɒm əˌhɔk/ [:scroll: C17: from Virginia Algonquian _tamahaac_]  
 __translational__ _n_ __2__ In science, of or relating to the application of basic or theoretical discoveries to the development of practical applications: _translational research._  
 __trumpey__ _v_  
+__tryst__ _n_  
+__unbeknown__ _adj_ /ˌʌnbɪˈnəʊn/ (unbeknownst)  
 __underpin__ _vt_  
 __underway__ _adj_  
 __undeterred__ _adj_  
@@ -209,6 +231,7 @@ __uneasy__ _adj_
 __unfold__ _v_ __2__ To reveal or be revealed: _the truth unfolds._  
 __unrequited__  
 __valentine__  
+__varix__ _n_ /ˈvɛər ɪks/ (_n pl_ varices) __1__ An abnormally dilated or swollen vein, artery, or lymph vessel.  
 __vegetate__ _v_ __3b__ To engage in relaxing or passive activities, such as watching television: _stayed home and vegetated last night._  
 __victory parade__ _n_  
 __victory speech__  
@@ -219,13 +242,14 @@ __watchdog__ _n_
 __weasel<sup>1</sup>__ _n_ /WEE-zuhl/ __1__ Any of various small slender carnivorous mammals of the genus Mustela. __2__ A sneaky, cunning person.  
 __weasel<sup>2</sup>__ _vi_ :dart: __1__ To evade an obligation. __2__ To be evasive by using ambiguous or misleading words.  
 __woke__  
+__wound__ _n_  
 __wow__ _vt_ To have a strong, usually pleasurable effect on: _a performance that wowed the audience._  
 __wrenching__ _adj_ Causing great physical or mental suffering. _ABC News went through a wrenching round of layoffs._  
 __wriggle__ _v_  
 __wring__ _v_ _It pays to wring your hands at least a little bit._  
 __writ__ _n_  
 __write-up__ _n_  
-__wrongdoing__ _n_  
+__wrongdoing__ _n_ :two::hammer:  
 __wrung__ _v_ _They have wrung their hands._  
 __yacht__ _n_ /yɒt/  
 __yammering__  
