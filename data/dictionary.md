@@ -14856,7 +14856,7 @@ __reach out__ _v_ :nine::dart: __1__ To attempt to make contact with someone, es
 __reactant__  
 __reactive__ _adj_ :dart:  
 __read into something__  
-__readily__ _adv_ :nine::hammer: /ˈrɛdɪlɪ/  
+__readily__ _adv_ :nine: /ˈrɛdɪlɪ/ __1__ Without hesitation; willingly: _He readily undertook the task._ __2__ Without difficulty; easily: _The explanation was readily understood by the students._  
 __readiness__ _n_ :two::hammer: /ˈrɛd i nɪs/ _Our career readiness software program._  
 __readings__ _n_  
 __readout__ _n_ :four::hammer:  
@@ -16606,7 +16606,8 @@ __sideline<sup>2</sup>__ _vt_ :dart::eight: (sidelined) To remove or keep from a
 __sidereal__ _adj_ /saɪˈdɪər i əl/ __1__ Of, relating to, or involving the stars. __2__ Determined with reference to one or more stars: _the sidereal day._  
 __sidesaddle__ _n_ :camera: A saddle designed so that the rider sits with both legs on one side of the horse.  
 __sidesplitting__ _adj_ _A sidesplitting ceremony._  
-__sidestep__ _v_ :nine::hammer: (sidestepped) _Syn_ evade, hedge, skirt, parry, fudge, circumvent, dodge, elude, duck, put off  
+__sidestep<sup>1</sup>__ _vi_ :nine: __1__ To step aside: _sidestepped to make way for the runner._ __2__ To dodge an issue or a responsibility. _Syn_ evade, hedge, skirt, parry, fudge, circumvent, dodge, elude, duck, put off  
+__sidestep<sup>2</sup>__ _vt_ :nine: __1__ To step out of the way of. __2__ To evade; skirt: _sidestep a difficult question._  
 __sideswiped__ _v_ _She died when her Cobalt sideswiped another car._  
 __sidetrack__ _v_ /ˈsaɪdˌtræk/  
 __sidewalk table__ _n_ _Sitting at a sidewalk table at the Café._  
@@ -19707,7 +19708,7 @@ __underlayment__ _n_ A pad placed under a carpet. _Syn_ carpet pad, rug pad _Aft
 __underling__ _n_  
 __underlying__ _adj_ _The underlying software stack._  
 __undermine__ _vt_ :nine::m: /ˌʌndəˈmaɪn/ (undermined) __1__ To weaken by wearing away a base or foundation: _Water has undermined the stone foundations._ __2__ To weaken, injure, or impair, often by degrees or imperceptibly; sap: _Late hours can undermine one’s health._ __3__ To dig beneath; excavate ground from under, so as to form a tunnel or mine.  
-__underpin__ _vt_ :nine::hammer:  
+__underpin__ _vt_ :nine: __1__ To support from below, as with props, girders, or masonry. __2__ To give support or substance to: _assumptions that underpinned their claims._  
 __underpinning__ _n_ :five::hammer:  
 __underprivileged__  
 __underrated__ _adj_ :pencil2: Underestimated.  
