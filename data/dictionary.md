@@ -16493,9 +16493,9 @@ __short<sup>1</sup>__ _n_
 __short<sup>2</sup>__ _v_ _Every year, Americans short the IRS nearly half a trillion dollars._  
 __shortbread__ _n_ :three::hammer: [:scroll: From short (in the sense: crumbly)] _A rich crumbly biscuit made from dough with a large proportion of butter._  
 __shortchange__ _vt_ :five::hammer: (shortchanged) _I think people will be shortchanged._  
-__shortcoming__ _n_ :three::dart::hammer: (shortcomings) :es: defecto  
+__shortcoming__ _n_ :four::dart::hammer: (shortcomings) :es: defecto  
 __shortening__ _n_ :two: __1__ A fat, such as butter or lard, used to make cake or pastry light or flaky. :es: manteca, grasa __2__ A shortened form of something, as a word. __3__ The act of one that shortens. __4__ The act or process of becoming shorter.  
-__shortfall__ _n_ :four::hammer: _Syn_ deficit, shortage _The oversight of risk leads to financial shortfall._  
+__shortfall__ _n_ :five::hammer: _Syn_ deficit, shortage _The oversight of risk leads to financial shortfall._  
 __shorthand__ _n_ :two::hammer: :es: taquigrafía  
 __shortlist<sup>1</sup>__ _n_ :eight::hammer: _We look at the shortlist’s biggest beasts._ _A women-only shortlist._  
 __shortlist<sup>2</sup>__ _v_ :two::hammer: (shortlisted)  
@@ -16549,7 +16549,7 @@ __shrilly__
 __shrimp__  
 __shrines__ _n_  
 __shrink__ _n_  
-__shrinkflation__ _n_ /shringk-FLAY-shuhn/ [:scroll: A blend of shrink + inflation] The practice of reducing the size of products while selling at the same price.  
+__shrinkflation__ _n_ :two: /shringk-FLAY-shuhn/ [:scroll: A blend of shrink + inflation] The practice of reducing the size of products while selling at the same price.  
 __shrivel up__ _v_ :three::hammer:  
 __shrivel__ _v_ :nine: (shriveled) Shrink and wrinkle, as from dryness. _The heat shriveled the unwatered seedlings._ _The widened empire had shriveled._  
 __shriveled__ _adj_ :two::hammer:  
@@ -16602,12 +16602,13 @@ __sidecar shovelhead__
 __sided__ _adj_ Having sides usually of a specified number or kind. Often used in combination: _many-sided; marble-sided._  
 __sidekick__ _n informal_  
 __sideline<sup>1</sup>__ _n_ :four: The area or areas next to but outside a playing area. _Investors retreated to the sidelines._  
-__sideline<sup>2</sup>__ _vt_ :seven: (sidelined) To remove or keep from active participation. _Women sidelined in pandemic research._ _The first baseman is expected to be sidelined for seven to 10 days._  
+__sideline<sup>2</sup>__ _vt_ :dart::eight: (sidelined) To remove or keep from active participation. _Women sidelined in pandemic research._ _The first baseman is expected to be sidelined for seven to 10 days._  
 __sidereal__ _adj_ /saɪˈdɪər i əl/ __1__ Of, relating to, or involving the stars. __2__ Determined with reference to one or more stars: _the sidereal day._  
 __sidesaddle__ _n_ :camera: A saddle designed so that the rider sits with both legs on one side of the horse.  
 __sidesplitting__ _adj_ _A sidesplitting ceremony._  
 __sidestep__ _v_ :nine::hammer: (sidestepped) _Syn_ evade, hedge, skirt, parry, fudge, circumvent, dodge, elude, duck, put off  
 __sideswiped__ _v_ _She died when her Cobalt sideswiped another car._  
+__sidetrack__ _v_ /ˈsaɪdˌtræk/  
 __sidewalk table__ _n_ _Sitting at a sidewalk table at the Café._  
 __sideways__ _n_ :two::hammer: _I’m not interested in getting sideways with anyone at Augusta_  
 __sidle<sup>1</sup>__ _v_ (sidled)  
@@ -16685,6 +16686,7 @@ __single out__ _v_ :three: To select one from a group and treat differently.
 __single-handedly__ _adv_ :dart::two: Without assistance.  
 __single-jab__ _adj_ _Single-jab vaccine._  
 __single-minded__ _adj_ Steadfast; resolute. _Syn_ resolved  
+__single-use__ _adj_  
 __singlehandledly__ _adv_ _Video shows Ukrainian armored vehicle singlehandedly stopping Russian assault._  
 __singlet__ _n_ :two: A collarless men’s undergarment for the upper part of the body. _Syn_ undershirt, vest _Its owner had taken off his tunic, and in white trousers and a thin, short-sleeved singlet prowled behind the chair-backs nursing his meager elbows._  
 __singletree__ _n_ The pivoted horizontal crossbar to which the harness traces of a draft animal are attached and which is in turn attached to a vehicle or an implement. Also called regionally _whiffletree_, _whippletree_. _Singletree plow._  
@@ -16745,6 +16747,7 @@ __ski-in/ski-out resort__ _n_ :two: A ski-in ski-out resort is basically one tha
 __skid row__ _n_ _slang_ _His father would take him to a blind pig on skid row._  
 __skid<sup>1</sup>__ _n informal_ :seven: __1a__ A period of sharp decline or repeated losses. _Santa Clara ended last season on an 18-game skid, going winless in WCC play._ _The European car market hit a multiyear skid._ __b__ __skids__ A path to ruin or failure _His career hit the skids. Her life is now on the skids._ _Skid marks._ _Shutdown didn’t put skids on sales._  
 __skid<sup>2</sup>__ _v_ _Cars were skidding on the highway._  
+__skill set__ _n_ A set of skills, esp. a collection of skills and abilities that can be applied to a professional or creative endeavor.  
 __skillet__ _n_ :four: A pan used for frying foods. _Syn_ frying pan, frypan  
 __skillset__  
 __skim<sup>1</sup>__ _v_ :nine::m::dart: (skimmed, skimming) __2a__ If someone skims money, they take small amounts from somewhere so that people do not notice it is gone. _Jim could skim huge sums of money off the casino._ _Users often skim a page by its headings._ _Skim fat from chilled pan juices and finish making gravy._ __4a__ To throw so as to bounce or slide: _skimming stones on the pond._ __b__ To glide or pass quickly and lightly over or along (a surface). __5a__ To read or glance through (a book, for example) quickly or superficially. _He skimmed a copy of _Newsday_ abandoned by an earlier customer._  
@@ -16864,7 +16867,7 @@ __slide<sup>2</sup>__ _v_ :five: (slid) _His glasses often slid down his nose._ 
 __slider__ _n_ :six::hammer: _Enjoy Asian inspired sliders, salads amd more._ _What’s up with someone’s slider?_  
 __sliding scale__ _n_ (Economics) A scale in which indicated prices, taxes, or wages vary in accordance with another factor, as wages with the cost-of-living index or medical charges with a patient’s income.  
 __slight<sup>1</sup>__ _adj_ :two::hammer: _A slight reason._  
-__slight<sup>2</sup>__ _v_ :three: (slighted) __1__ To treat (someone) with discourteous reserve or inattention. __2__ To treat as of small importance; make light of. _Slight a guest._ __3__ To do negligently or thoughtlessly; scant. _Don’t slight your work._  
+__slight<sup>2</sup>__ _vt_ :dart::four: (slighted) __1__ To show indifference or disregard for (someone); snub.To treat (someone) with discourteous reserve or inattention. __2__ To treat as unimportant or trifling. To treat as of small importance; make light of. _Slight a guest._ __3__ _US_ To devote inadequate attention to (work, duties, etc). To do negligently or thoughtlessly; scant. _Don’t slight your work._  
 __slight<sup>3</sup>__ _n_ :nine::m: A deliberate discourtesy; a snub. An act or omission indicating supercilious neglect or indifference. _Everyday slights and snubs._ _Seemingly minor slights harm student performance._ _The opera itself is slight._  
 __slim jim__ _n_ :two::hammer: (slim-jim) _Souza used a slim jim to pop the passenger door lock._  
 __slim__ _adj_ _The chances are pretty slim._  
@@ -17073,9 +17076,8 @@ __sniveling__ _n_ Whining in a tearful manner. _Syn_ snivel
 __snob__ _n_ :two: One who has an offensive air of superiority in matters of knowledge or taste.  
 __snollygoster__ _n_ :three: _slang US_ A politician who cares more for personal gain than serving the people. One, especially a politician, who is guided by personal advantage rather than by consistent, respectable principles.  
 __snoodlike__  
-__snooker__ _vt_ /SNOO-kuhr/ To cheat, dupe, trap, stymie, etc.  
-__snooker<sup>1</sup>__ _n_  
-__snooker<sup>2</sup>__ _vt_ _slang_ To deceive.  
+__snooker<sup>1</sup>__ _n_ :two: __2__ A shot in which the cue ball is left in a position such that another ball blocks the object ball. The opponent is then usually forced to play the cue ball off a cushion.  
+__snooker<sup>2</sup>__ _vt_ /SNOO-kuhr/ _slang_ To cheat, dupe, trap, stymie, etc.  
 __snoop__ _v_ :three: To try to find out about someone’s private affairs by secretly looking in their house, examining their possessions etc. _She snooped around._ _Big Brother snooping on innocent Americans._  
 __snoot__ _v_ :two: To behave disdainfully toward; condescend to.  
 __snootiness__  
@@ -17131,7 +17133,7 @@ __soap opera__
 __soap-spuds__ _n_  
 __soapbox<sup>1</sup>__ _n_ :four::astonished: A platform raised above the surrounding level to give prominence to the person on it. _Syn_ dais, podium, pulpit, rostrum, stump, ambo _The author ascended the soapbox and began to read from his latest novel._  
 __soapbox<sup>2</sup>__ _v informal_ :two::hammer:  
-__soar__ _v_  
+__soar__ _vi_ :two: __2__ To increase or improve suddenly above the normal or usual level: _Sales soared. Our spirits soared._ _Syn_ rise  
 __soaring__ _adj_ Ascending to a level markedly higher than the usual: _soaring fuel costs; the soaring spires of the cathedral._ _Soaring ceilings._  
 __sobering__ _adj_ :nine: Making you think about things in a serious way. Tending to make sober or more serious: _the news had a sobering effect._  
 __sobersides__ _n_ :astonished: A humorless or habitually serious person.  
@@ -17206,12 +17208,13 @@ __somnambulant__ _adj_
 __somnambulate__ _v_ :pencil2: To walk or perform another act while asleep or in a sleeplike condition. _Syn_ sleepwalk  
 __somnolent__ _adj_ :two: Drowsy; sleepy. _Syn_ slumbery, slumberous _The monotonous sound of his voice had a somnolent effect, and I found myself nodding off during the speech._  
 __son of a biscuit__  
+__sonar__ _n_  
 __sonic boom__ _n_ The explosive sound of the shock wave produced by an aircraft traveling at or above the speed of sound.  
 __sonnet__ _n_  
 __sonny__  
 __sonogram__  
 __Sonora cacti__ _n_ :camera:  
-__soon enough__ _adv_ :four: Without being tardy. _Syn_ in time  
+__soon enough__ _adv_ :five: Without being tardy. _Syn_ in time  
 __sooner > sooner rather than later__  
 __soot__ _n_ :three::hammer:  
 __soothe__ _v_ (soothing)  
@@ -17244,9 +17247,10 @@ __sotto voce__ _adj, adv_ :two::hammer:
 __soubriquet__ _n_  
 __sought-after__ _adj_ :five: Wanted or desired by many people; in demand: _the tangle of laws that makes it so difficult to get sought-after wines_ (Eric Asimov).  
 __soul food__ _n_  
-__soul__ _n_ :mega:  
+__soul__ _n_ :two::hammer::mega: /səʊl/  
 __soul-searching__ _n_ :two::hammer::pencil2: Examination of one’s conscience especially with regard to motives and values.  
 __sound barrier__ _n_ _(Aeronautics) (not in technical usage)_ A hypothetical barrier to flight at or above the speed of sound, when a sudden large increase in drag occurs. _Syn_ sonic barrier, transonic barrier  
+__sound bath__ _n_ An instance of sustained listening to the pleasant sounds emanating from a collection of singing bowls, bells, chimes, etc., used to aid in relaxation or meditation and believed to help restore physical and mental wellness.  
 __sound bite__ _n_ :six::hammer::astonished: (soundbite, sound bites) _Hoping to score a sound bite._ _Bruce is one of the best sound bites in the NFL._  
 __sound__ _adj_ :five::hammer: _His reasons were sound._ _A sound investment._ _A sound sleep._ _Sound advice._  
 __sounding system__  
@@ -17304,7 +17308,7 @@ __sparklers__ _n_
 __sparred__ _v_  
 __spars__ _n_  
 __spastic__  
-__spat__ _n_ :nine::hammer: __1__ A brief quarrel. _This spat demonstrated that Rogozin is trying to prove that he’s set to revamping the industry._ _Public spat._ _In a spat over an arrest._  
+__spat__ _n_ :nine::m::hammer: __1__ A brief quarrel. _This spat demonstrated that Rogozin is trying to prove that he’s set to revamping the industry._ _Public spat._ _In a spat over an arrest._  
 __spate__ _n_ :nine: /speɪt/ A large number of similar things coming in quick succession. _Syn_ series, succession, run _A spate af hate speech._ _A spate of cross-border attacks._ _A warm spate of blood ran from his nostrils._  
 __spatiotemporal__ _adj_  
 __spatter__ _n_  
@@ -17401,7 +17405,7 @@ __spiral binder__
 __spiral<sup>1</sup>__ _n_  
 __spiral<sup>2</sup>__ _v_ :four::hammer: _It spirals out of control._  
 __spiraling__  
-__spire__ _n_ :seven: A tapering roof or analogous pyramidal construction surmounting a tower. _A church spire._  
+__spire__ _n_ :eight: A tapering roof or analogous pyramidal construction surmounting a tower. _A church spire._  
 __Spirit Day__ _n_  
 __spirit stove__ _n_ A stove that burns a volatile liquid fuel such as alcohol. _We had a small spirit stove._  
 __spite__ _n_ :five::hammer: _He brought him along for spite._ _He added her to the list out of spite._ _Some names were added out of spite._  
@@ -18079,8 +18083,8 @@ __submarine__ _v_
 __submersible__ _adj, n_  
 __suborn__ _vt_ :four::astonished: __1__ To bribe, incite, or instigate (a person) to commit a wrongful act. __2__ (Law) _criminal law_ To induce (a witness) to commit perjury. _The lawyer attempted to suborn the witness._  
 __subpar__ _adj_ :three::hammer: /sʌbˈpɑː/  
-__subpoena<sup>1</sup>__ _n_ :five::hammer:  
-__subpoena<sup>2</sup>__ _v_ :six::mega: (subpoenaed) Put the screws to someone.  
+__subpoena<sup>1</sup>__ _n_ :six::hammer:  
+__subpoena<sup>2</sup>__ _vt_ :seven::mega: (subpoenaed) Put the screws to someone.  
 __subsea__ _n_  
 __subsequent__ _adj_ :nine: Following in time or order; succeeding. _The Justice Ministry plans to introduce the system to other airports in subsequent years._ _The policy to have patients moved from hospitals to care homes may have directly led to subsequent deaths._ :es: posterior, subsiguiente  
 __subsequently__ _adv_ :dart::five: Happening at a time subsequent to a reference time. _He subsequently joined the engineering team._  
@@ -18148,6 +18152,7 @@ __sullen__ _adj_ :two::hammer:
 __sullenly__  
 __Sullivan__ _n_ :mega:  
 __sully__ _v_ :five::hammer: /SUL-ee/ _The money-related charges brought against the restaurant’s owner has sullied her reputation._  
+__sulphite__ _n_ /ˈsʌlfaɪt/  
 __sultanate__  
 __sultry__ _adj_ :seven::hammer: _A sultry smile._  
 __sum up__  
@@ -18452,6 +18457,7 @@ __tagline__ _n_ :two: __1__ (Journalism & Publishing) An amusing or memorable ph
 __tahini__ _n_  
 __Tahiti__ _n_ :mega: /təˈhi ti, tɑ-/  
 __Tahitian__  
+__tai chi__ _n_ (tai chi chuan) A Chinese martial art whose system of physical exercises is often practiced as a way of meditating or improving well-being.  
 __tailgate__ _v_ :two::hammer:  
 __tailor__ _v_ :seven::hammer: (tailored) _All patients with asthma should have their risk of having a future attack assessed and have their monitoring, treatment, and care tailored accordingly._  
 __tailspin<sup>1</sup>__ _n_ :five::hammer:  
@@ -19650,6 +19656,7 @@ __unassailable__ _adj_ :two::hammer:
 __unassuming__ _adj_ :seven::hammer: _Hollande, an unassuming and bespectacled Socialist._  
 __unavailing__ _adj_ Producing no result or effect. _Syn_ futile, ineffectual, otiose _Immediately conscious how unavailing any struggle against such an overwhelming force must prove, he submitted to his fate._  
 __unavenged__ _adj_  
+__unbeknown__ _adj_ /ˌʌnbɪˈnəʊn/ (unbeknownst)  
 __unbidden__ _adj_ :four: Not invited, asked, or requested; unasked: _unbidden guests; comments unbid and unwelcome._  
 __unblemished__ _adj_ Free from physical or moral spots or stains. _Syn_ unmarred, unmutilated  
 __unbox__ _n_  
@@ -19667,6 +19674,7 @@ __uncontested shot__ _n_ (vs contested shot)
 __unconvinced__  
 __uncorroborated__ _adj_ Unsupported by other evidence. _Syn_ unsubstantiated  
 __uncouth__ _adj_ :seven: /un-KOOTH/ Uncouth means “behaving in a rude way” or “not polite or socially acceptable.” Lacking refinement or cultivation or taste. _Syn_ rough-cut, vulgar, coarse, common _He was an uncouth fellow, ragged and dirty and unshaven._ _Stacy realized it would be uncouth to show up to the party without a gift, so she picked up a bottle of wine on the way._  
+__uncover__ _v_ __2__ To manifest or disclose; reveal: _uncovered new evidence._  
 __uncrating__  
 __uncross__ _vt_ _Uncross our arms._  
 __unction__ _n_  
@@ -19699,7 +19707,7 @@ __underlayment__ _n_ A pad placed under a carpet. _Syn_ carpet pad, rug pad _Aft
 __underling__ _n_  
 __underlying__ _adj_ _The underlying software stack._  
 __undermine__ _vt_ :nine::m: /ˌʌndəˈmaɪn/ (undermined) __1__ To weaken by wearing away a base or foundation: _Water has undermined the stone foundations._ __2__ To weaken, injure, or impair, often by degrees or imperceptibly; sap: _Late hours can undermine one’s health._ __3__ To dig beneath; excavate ground from under, so as to form a tunnel or mine.  
-__underpin__ _vt_ :eight::hammer:  
+__underpin__ _vt_ :nine::hammer:  
 __underpinning__ _n_ :five::hammer:  
 __underprivileged__  
 __underrated__ _adj_ :pencil2: Underestimated.  

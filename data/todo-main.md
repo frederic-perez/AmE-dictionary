@@ -198,31 +198,6 @@ __secretary__ _n_ :mega: /ˈsɛk rɪˌtɛr i/
 __self-doubt__ _n_ A lack of faith or confidence in oneself.  
 __semiretired__ _adj_ Working only on a part-time basis, as for reasons of ill health or advanced age.  
 __shortage__ _n_ /ˈʃɔr tɪdʒ/  
-__shortcoming__ _n_  
-__shortfall__ _n_  
-__shrinkflation__ _n_  
-__sideline__ _vt_ :dart: To remove or keep from active participation.  
-__sidetrack__ _v_ /ˈsaɪdˌtræk/  
-__single-use__ _adj_  
-__skill set__ _n_ A set of skills, esp. a collection of skills and abilities that can be applied to a professional or creative endeavor.  
-__skittish__ _adj_  
-__slight__ _vt_ :dart: __1__ To show indifference or disregard for (someone); snub. __2__ To treat as unimportant or trifling. __3__ _US_ To devote inadequate attention to (work, duties, etc).  
-__smitten__ _adj_ :two::hammer:  
-__snooker__ _n_ __2__ A shot in which the cue ball is left in a position such that another ball blocks the object ball. The opponent is then usually forced to play the cue ball off a cushion.  
-__soar__ _vi_ __2__ To increase or improve suddenly above the normal or usual level: _Sales soared. Our spirits soared._ _Syn_ rise  
-__sonar__ _n_  
-__soon enough__ _adv_ Without being tardy.  
-__soul__ _n_ :mega: /səʊl/  
-__sound bath__ _n_ An instance of sustained listening to the pleasant sounds emanating from a collection of singing bowls, bells, chimes, etc., used to aid in relaxation or meditation and believed to help restore physical and mental wellness.  
-__spat__ _n_  
-__spire__ _n_  
-__subpoena<sup>1</sup>__ _n_  
-__subpoena<sup>2</sup>__ _vt_  
-__sulphite__ _n_ /ˈsʌlfaɪt/  
-__tai chi__ _n_ (tai chi chuan) A Chinese martial art whose system of physical exercises is often practiced as a way of meditating or improving well-being.  
-__unbeknown__ _adj_ /ˌʌnbɪˈnəʊn/ (unbeknownst)  
-__uncover__ _v_ __2__ To manifest or disclose; reveal: _uncovered new evidence._  
-__underpin__ _vt_  
 __underway__ _adj_  
 __undeterred__ _adj_  
 __uneasy__ _adj_  
