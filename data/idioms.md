@@ -5085,7 +5085,7 @@ __step back__ :two: __2__ By extension, to withdraw or remove oneself from somet
 __step down__  
 __step in__ :dart::four: To enter into some position, activity, or situation to intervene or improve it.  
 __step on it__  
-__step up__ :nine::hammer:  
+__step up__ :nine: __1__ To increase, improve, or hasten something. In this usage, a noun or pronoun can be used between “step” and “up.” _We plan to step production up by nearly 75% over the next six months._ _I’m trying to step up my output ahead of tomorrow’s deadline._ __2__ To give extra effort or take on additional responsibilities, especially when doing so is critical. _Someone will need to step up and lead this project now that Dylan has resigned._  
 __steppingstone__ :three: Some situation, circumstance, or experience that serves to assist one in reaching or progressing toward a goal or desired outcome.  
 __stew over something__ :dart: To “stew over something” means to be bothered, annoyed, or worried about something for a long period of time, without being able to let it go. It’s kind of like simmering a pot of stew on the stove. You’ve got all these ingredients (your thoughts and emotions) simmering in the pot (your mind), and you just can’t turn off the heat (stop thinking about it). The longer you let it simmer, the more intense it becomes.  
 __stew__  
