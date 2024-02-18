@@ -1,5 +1,7 @@
 __(almost) upon (one)__ (Almost) about to happen, arrive, or commence.  
 __(it’s) all good__  
+__a recipe for disaster__  
+__a word of caution__ Idiomatic expression used to introduce a warning or advice about a potential risk or danger.  
 __and whatnot__ Along with other things of a similar kind; and so forth.  
 __at the heart of__ The central or most important part of something.  
 __back to basics__ Returning to the fundamental aspects of something.  
@@ -24,6 +26,7 @@ __collude with (someone or something)__
 __come a long way__ To make significant progress. Almost always used in the present perfect tense (“have/has come a long way”).  
 __come to light__  
 __common ground__  
+__comply with (something)__ To follow or adhere to a particular rule or regulation.  
 __conventional wisdom__  
 __cook up__  
 __correct me if I’m wrong__ Used to introduce a piece of information one believes is true, especially as a means of correcting someone else.  
@@ -35,6 +38,7 @@ __cut a deal__
 __cut it__  
 __cut off__ __2__ _v_ To abruptly move in front of another driver, either intentionally or unintentionally. In this usage, a noun or pronoun can be used between “cut” and “off.” _Can you believe that jerk cut me off like that? I nearly hit him!_  
 __cut someone or something out__  
+__cut to the chase__  
 __dark cloud__  
 __date me doc__ A _date me doc_ is a document listing someone’s personal information and relationship preferences. The document is posted online in the hopes of attracting romantic partners.  
 __day in and day out__  
@@ -75,6 +79,7 @@ __finagle__
 __five o’clock shadow__  
 __flat-out__  
 __float an idea__ To suggest something in order to gauge interest in it or others’ perception of it.  
+__for show__ Done merely for the sake of appearance; not genuine or sincere.  
 __for the birds__  
 __from the get-go__  
 __frosty__ __2__ _mod_ Cool; really cool and mellow. _That music is really frosty._  
@@ -87,7 +92,9 @@ __gut-wrenching__ Agonizing; extremely distressing, unpleasant, or emotionally d
 __gyatt__ A slang exclamation of surprise or excitement. Gyatt is most commonly used as an exclamation in reaction to seeing a large butt (that is, the buttocks) and may be used as a noun to mean a large butt.  
 __gym bunny__ Someone who is obsessively preoccupied with maintaining or improving their physique and thus spends a large amount of time at the gym to do so. _After recovering from his surgery, John spent a lot of time at the gym getting his body back into shape. Now he’s turned into a total gym bunny._  
 __Hail Mary__  
+__half a brain__ Common sense. _If he had half a brain, he would have left a long time ago._  
 __hammer out__  
+__hands down__  
 __happy medium__ A healthy balance between two extremes.  
 __hard line__ :two::hammer:  
 __hard pass__ :dart: _slang_ No; not interested; absolutely not.  
@@ -110,15 +117,21 @@ __if you will__
 __in a new light__  
 __in full swing__ Well underway and operating at the highest possible level or pace.  
 __in one breath__ Very quickly, as of someone who is speaking (usually while very excited).  
+__in one sitting__ In a single session; finishing a task in the same period when one sets out to do so. _The bookworm devoured her book in one sitting._  
+__in training__ Actively engaged in something in a way that helps hone or strengthen one’s skills, abilities, physical fitness, etc.  
+__kingpin__  
 __last-ditch__ :dart: Final, usually drastic or risky, with failure as the only alternative.  
 __leaps and bounds__  
 __level the playing field__  
+__narrow down__  
 __on a pedestal__  
 __on the cusp__  
 __on the spot__  
-__one-up (someone)__  
+__one-up (someone)__ :two: To make a point of outdoing, outperforming, outclassing, etc., someone.  
 __out of here__ _informal_ (outta here) Used to say that one is leaving. _It’s five o’clock, so I’m out of here._  
 __red team__  
+__refrain from (doing something)__ :dart: To make a considered, conscious effort not to do something. _I ask everyone to refrain from asking questions until the end of the presentation._  
+__root out__  
 __rule of thumb__ A general principle developed through experiential rather than scientific means. An approximation; a suggested method or guideline. _A good rule of thumb is to plant your seedlings around the end of May._  
 __rule the roost__ To have the most control or authority in a group. _Both of our parents were tough, but Mama was as tough as an old shoe, who ruled the roost without saying a word._  
 __run down__  
@@ -133,6 +146,7 @@ __seize upon (something)__
 __set in stone__  
 __set the tone__  
 __shift gears__  
+__shore up__ :dart:  
 __sick to (one’s) stomach__ Nauseated or vomiting.  
 __sidebar conversation__ _informal_ A conversation held privately between two people while one or more other people are already speaking.  
 __silver lining__  
@@ -148,10 +162,20 @@ __slip up__
 __slow and steady wins the race__  
 __slowly but surely__  
 __smother (someone or something) with (something)__  
+__steal (one’s) thunder__ Use or appropriate another’s idea, especially to one’s advantage, as in _It was Harold’s idea but they stole his thunder and turned it into a massive advertising campaign without giving him credit._ This idiom comes from an actual incident in which playwright and critic John Dennis (1657-1734) devised a “thunder machine” (by rattling a sheet of tin backstage) for his play, _Appius and Virginia_ (1709), and a few days later discovered the same device being used in a performance of _Macbeth_, whereupon he declared, “They steal my thunder.”  
+__the bigger picture__  
+__think tank__  
+__tinker with__  
+__to the core__ Fully or completely; in the most essential or inherent way.  
+__unmet need__ An “unmet need” refers to a gap between an individual’s desired condition or goal and their current situation. It implies that there is a necessity or requirement that has not been satisfied or addressed. Unmet needs can occur in various aspects of life, including physical, emotional, social, and psychological dimensions.  
+__what if__  
+__what’s in store__ That which is awaiting or ahead (of one); that which is going to happen (for one).  
 __with a vengeance__ _Die Hard with a Vengeance._  
 __with flying colors__  
 __within reach__  
 __within reason__  
+__within the realm(s) of possibility__ Possible; capable of happening. _You worked so hard this semester that I think an A is within the realm of possibility._  
+__work out__ __2__ _v_ To have a favorable or acceptable outcome. Used especially of situations in which an unfavorable outcome is expected. _This will all work out, you’ll see. I’m certain it’s a blessing in disguise._  
 __worst-case scenario__  
 __wrack (one’s) brain(s)__  
 __wrap (one’s) head around (something)__  
