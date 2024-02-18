@@ -48,31 +48,6 @@ __deepfake__
 __destim__ [:scroll: de + stimulate] _Destim_ is a slang term that means to calm down by avoiding overwhelming stimuli, such as loud noises or stressful situations, as in _I went outside for a minute in order to destim._  
 __detached from reality__  
 __died in their sleep__ When someone is said to have “died in their sleep,” it typically means that they passed away during the night while they were asleep. This phrase is often used when the cause of death is unclear or when the family wishes to maintain privacy.  
-__dillio__ _slang_ [:scroll: From the slang phrase “what’s the deal, yo?” meaning “what’s going on?” Originates from _Lethal Weapon 2_: “what’s the deal Leo?” (South African accent) 1989] The deal; that which is current, relevant, or taking place.  
-__dish out__  
-__dislodge (someone or something) from (someone or something)__ To free someone or something that is stuck.  
-__do something/anything about__ To take some action to change or cope with something.  
-__don’t sweat it__ Don’t worry or stress about it. _Don’t sweat small stuff._  
-__double down__  
-__double-edged sword__  
-__drum roll, please__  
-__eat dirt__  
-__eat shit__  
-__echo chamber__  
-__edge out__ __1__ To surpass, overtake, or defeat someone or something, especially by a narrow margin or degree. A noun or pronoun can be used between “edge” and “out.”  
-__EGOT__ An abbreviation for “Emmy, Grammy, Oscar, Tony,” referring to the rare feat of winning the major awards in television, music, film, and theater. _Elton John joins elite EGOT ranks with Emmy win. John is only the 19th person to have achieved EGOT status (Whoopi Goldberg, Viola Davis, and Mel Brooks are some of the others)._  
-__end (something) on a high note__  
-__enough is enough__  
-__enshittification__ _slang_ The gradual degradation of an online platform or service’s functionality, as part of a cycle in which the platform or service first offers benefits to users to attract them, then pursues more and more profits at the expense of users.  
-__failure is not an option__  
-__fall on deaf ears__ [for talk or ideas] To be ignored by the persons they were intended for. _Her pleas for mercy fell on deaf ears; the judge gave her the maximum sentence._  
-__far and wide__ :two: All over; everywhere.  
-__fast track__  
-__fast-forward__  
-__faux pas__  
-__feast your eyes (on somebody/something)__  
-__feel (some emotion) about (someone or something)__ To feel a particular emotion in response to or about someone or something.  
-__feel-good__ Creating, promoting, or relating to an often superficial or specious sense of happiness, well-being, or satisfaction.  
 __ferret out__ To discover or retrieve something, usually with careful effort. A noun or pronoun can be used between “ferret” and “out.” _Now that I’m a successful actress, I’m worried about what the media will ferret out about my tawdry past._  
 __fill up__  
 __finagle__  

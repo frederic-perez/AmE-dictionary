@@ -1482,6 +1482,7 @@ __dig deep__ :two::hammer:
 __dig in (one’) heels__ :three: To cling stubbornly to one’s beliefs or wishes. _Both sides dug in their heels._  
 __dig in(to) (something)__ :two::hammer:  
 __dig your own grave__ To do something stupid that will cause problems for you in the future.  
+__dillio__ _slang_ [:scroll: From the slang phrase “what’s the deal, yo?” meaning “what’s going on?” Originates from _Lethal Weapon 2_: “what’s the deal Leo?” (South African accent) 1989] The deal; that which is current, relevant, or taking place.  
 __dime__ :two: __1__ The term _dime_ is often employed to convey the idea of something being insignificant or of little value. __2__ A ten-dollar bill. _Syn_ ten-spot  
 __ding ding ding__ :three: Right! You are correct! Meant to replicate the sound from a game show when the contestant has answered the question correctly.  
 __Ding, ding, ding, we have a winner!__ :two: _cliché_ A humorous exclamation said when someone answers or guesses something correctly or is considered the best in some competition. Often used sarcastically. _A: “We’re trying to think of the worst baby names.” B: “My cousin George named his baby ‘Seven.’” A: “Ding, ding, ding! We have a winner! Gosh, what on earth were they thinking?”_  
@@ -1493,8 +1494,9 @@ __dirt cheap__ Very inexpensive. _These shoes were dirt cheap—I found them on 
 __dirtbag__  
 __dirty money__ Money that is obtained or earned through illicit or illegal means, especially thievery, bribery, forgery, or money laundering. _He went from being dirt-poor to being a multimillionaire in just a few years, but given his shady associations, I’d say most of that is dirty money._  
 __disengage from (someone or something)__  
-__dish out__ :six::hammer: _Yoda will dish out the advice._  
+__dish out__ :seven::hammer: _Yoda will dish out the advice._  
 __dish something out__  
+__dislodge (someone or something) from (someone or something)__ To free someone or something that is stuck.  
 __diss__  
 __dissatisfied with (someone or something)__ Unhappy with or disappointed in someone or something. _Don’t go to that car wash—I was completely dissatisfied with their service the last time I went there._  
 __ditz__ :two: /dɪts/ __1__ _n_ _slang chiefly US_ A silly scatterbrained person. __2__ _v_ In James Ellroy’s novels, “ditz” is usually used as a verb to mean to be in a state of confusion or mental disarray. It’s often used to describe someone who is acting in a scatterbrained or disorganized way.  
@@ -1514,6 +1516,7 @@ __do more harm than good__
 __do nicely__  
 __do or die__ :two::hammer:  
 __do over__  
+__do something/anything about__ To take some action to change or cope with something.  
 __do the dishes__ Wash dishes.  
 __do the right thing__ To act or behave correctly, appropriately, or with the best intentions. _We are none of us perfect; I just try to do the right thing and let other people live as they wish._  
 __do the rounds__  
@@ -1552,7 +1555,7 @@ __don’t press your luck__ :two::hammer:
 __don’t rock the boat__ Don’t say or do something that could upset a stable situation.  
 __don’t shit a shitter__ (also don’t bullshit a bullshitter) A phr. meaning one can’t fool someone who deals in fooling others.  
 __don’t shoot the messenger__ :two: Don’t get angry at or punish someone who is simply delivering bad or undesirable news, as he or she is not responsible for it.  
-__don’t sweat it__ _(American English, spoken)_ Used to tell somebody to stop worrying about something: _If we’re a few minutes late he’ll wait for us, so don’t sweat it._  
+__don’t sweat it__ :two: _(American English, spoken)_ Don’t worry or stress about it. Used to tell somebody to stop worrying about something: _If we’re a few minutes late he’ll wait for us, so don’t sweat it._ _Don’t sweat small stuff._  
 __done and done__ :dart::two: Totally, unequivocally finished or finalized.  
 __done and dusted__ (mainly BRITISH)  
 __doofus__ _slang_ One who is stupid or foolish.  
@@ -1563,11 +1566,11 @@ __dorky__ Describing someone or something that is socially awkward, nerdy, or st
 __dot (one’s) i’s and cross (one’s) t’s__ To do something carefully and make sure that every last minor detail is completed. _Please make sure to dot your i’s and cross your t’s when signing this contract._  
 __dote on (someone or something)__ To give a lot of love and attention to someone or something, perhaps to excess. _I can’t help but dote on my kids whenever they’re home from college—I just miss them so much when they’re away!_  
 __double back__ To return to some thing or place after moving away from it, especially by following the same path taken when leaving. _I was walking to my car when I realized I’d forgotten my lunch on the kitchen counter and doubled back to get it._  
-__double down__ :six: To significantly increase or strengthen effort, investment, or resolve toward some goal, strategy, or action so as to maximize the potential yield as a result.  
+__double down__ :seven: To significantly increase or strengthen effort, investment, or resolve toward some goal, strategy, or action so as to maximize the potential yield as a result.  
 __double entendre__ :two::hammer:  
 __double talk__  
 __double whammy__ A situation in which two negative things happen at the same time or in rapid succession. _Jack suffered a double whammy when his car broke down the same day he lost his job._  
-__double-edged sword__ :two: Something that can be both beneficial and problematic.  
+__double-edged sword__ :three: Something that can be both beneficial and problematic.  
 __down for (something)__  
 __down in the mouth__ Visibly sad or depressed. _Molly’s been moping around all week, and I have no idea why she’s so down in the mouth._  
 __down the drain__ :three: Wasted or lost. This metaphoric term alludes to water going down a drain and being carried off.  
@@ -1613,6 +1616,7 @@ __drop by__
 __drop in the bucket__ :two: A very small or unimportant amount.  
 __drop out__  
 __drop the ball__ :dart::seven: To make a mistake, to fail.  
+__drum roll, please__  
 __Drynuary__ (Dry January) _Drynuary_ is when people abstain from drinking alcohol during the month of January, especially after the excesses of the holidays.  
 __duck and cover__  
 __duck__ :dart::two: __2__ _vt_ To avoid someone or something. _Clare is ducking her responsibility._ _Investment falls short and politicians duck social care reform (again)._ _Duck the blame._  
@@ -1633,11 +1637,15 @@ __easy peasy__ :four::hammer:
 __easy street, on__ A secure and comfortable financial situation. _Grandpa will be on easy street once his pension checks start rolling in._  
 __easy-breeze__ :dart:  
 __eat (one’s) lunch__ _slang_ To defeat one. _The upstart ABC Computer Company is eating IBM’s lunch._  
+__eat dirt__  
 __eat it up__  
+__eat shit__  
 __eat, drink, and be merry__ A call for others to enjoy themselves, usually in the context of a party or other festive gathering. _Come on, people, this is a party—eat, drink, and be merry!_  
-__echo chamber__  
+__echo chamber__ :two::hammer:  
+__edge out__ __1__ To surpass, overtake, or defeat someone or something, especially by a narrow margin or degree. A noun or pronoun can be used between “edge” and “out.”  
 __educated guess__  
 __egghead__ _slang_ A derogatory term for an intelligent, studious person.  
+__EGOT__ An abbreviation for “Emmy, Grammy, Oscar, Tony,” referring to the rare feat of winning the major awards in television, music, film, and theater. _Elton John joins elite EGOT ranks with Emmy win. John is only the 19th person to have achieved EGOT status (Whoopi Goldberg, Viola Davis, and Mel Brooks are some of the others)._  
 __elbow grease__ :four: Hard physical effort. _I tend to rely on elbow grease and hotel room sinks._  
 __elbow room__ __1__ Enough space to move around an area easily. _Ugh, the mall is so crowded today that there’s hardly any elbow room at all!_ __2__ The freedom and ability to act as one wants. _Well, you’re her cabinet—if you’re worried about her having too much elbow room as student council president, you should impose limitations._  
 __elephant in the room__ :four: An obvious truth or fact, especially one regarded as embarrassing or undesirable, that is being intentionally ignored or left unaddressed. _We all sat sipping our tea quietly, no one wanting to bring up the elephant in the room about Joel’s expulsion from college._  
@@ -1647,7 +1655,7 @@ __Elysian Fields__
 __emotional rollercoaster__ A situation or experience that is emotionally intense and unpredictable, with ups and downs that can be both thrilling and terrifying.  
 __empty nester__ _n_ :two: A parent whose children have grown and moved away from home. _He and wife Bekki are empty nesters._  
 __en route__  
-__end (something) on a high note__ :three: To finish, complete, or leave (something) at a successful, impressive, or climactic point.  
+__end (something) on a high note__ :four: To finish, complete, or leave (something) at a successful, impressive, or climactic point.  
 __end game__ :two::hammer:  
 __end of one’s rope__  
 __end of story__ A phrase used to end a conversation or topic of discussion, especially when one wants to discourage debate. _I didn’t do anything wrong here, OK? End of story._  
@@ -1658,6 +1666,8 @@ __engine room__ :two::dart: The main source of talent, power, or ability in a te
 __engross in (something)__ To capture and hold someone’s interest in something. A noun or pronoun can be used between “engross” and “in.” _Dad is engrossed in fixing the car, so he can’t talk right now._  
 __enmesh in (something)__  
 __enough (something) to choke Caligula’s horse__ A lot of something. The phrase likely mentions Caligula because the Roman emperor was known for his penchant for excess. _A: “Do you think I got enough balloons?” B: “Are you kidding? There are enough balloons here to choke Caligula’s horse!”_  
+__enough is enough__  
+__enshittification__ _slang_ The gradual degradation of an online platform or service’s functionality, as part of a cycle in which the platform or service first offers benefits to users to attract them, then pursues more and more profits at the expense of users.  
 __entry level__  
 __envelope > push the envelope__ To go beyond established limits; to pioneer.  
 __err on the side of caution__  
@@ -1693,6 +1703,7 @@ __factor in__
 __fail epically__ _Fail epically_ can be used to describe a situation where someone fails in a grand or memorable way, or in modern slang, to describe a complete and utter failure.  
 __fail miserably__ To fail in a very bad or humiliating way. It is often used to describe a situation where someone has tried their best but was not able to achieve their goal.  
 __failing to prepare is preparing to fail__ Adage attributed to Benjamin Franklin which means that one should always be prepared for any situation or task they may face. It is a reminder that being adequately prepared is key to success and that failing to do so can lead to failure.  
+__failure is not an option__  
 __faint of heart__ :three: Lacking the courage to face something difficult or dangerous—usually used in the phrase _not for the faint of heart_.  
 __fair and square__ :three: Completely fair(ly); justly; within the rules. _She won the game fair and square._ _The division of the money should be fair and square._  
 __fair enough__ _informal_ :two: __1__ Used for accepting a suggestion, etc. _I think £200 is a reasonable price. Fair enough. Can I pay you at the end of the week?_ __2__ Used for showing that you think that something is reasonable. _Letting the students work the machines on their own is fair enough, but they do need some training first._  
@@ -1709,6 +1720,7 @@ __fall in place__
 __fall into (someone’s or something’s) hands__ To come into the possession of some person, group, organization, etc., especially when it is undesirable or detrimental to someone else. _If this report falls into the media’s hands, you can expect a full-blown scandal._  
 __fall off the back of a truck__ :two: Of goods or merchandise, to be acquired by illegal or dubious means; to come into (someone’s) possession without being paid for. _Danny says he has several laptops and smartphones he wants to sell for cheap—sounds like they fell off the back of a truck to me._  
 __fall off the wagon__ :two::hammer:  
+__fall on deaf ears__ [for talk or ideas] To be ignored by the persons they were intended for. _Her pleas for mercy fell on deaf ears; the judge gave her the maximum sentence._  
 __fall on one’s face__  
 __fall out__ :dart: __5__ To have one’s relationship with someone completely diminished, typically due to an argument or unpleasant incident. _Apparently, Gina fell out with Dave last week, and now they’re not talking to each other at all._  
 __fall short of__  
@@ -1727,26 +1739,30 @@ __fan the flames__ To do or say something to make an argument, problem, or bad s
 __fancy-pants__ :two: Pretentious or fancy in an extreme or excessive way. Use of this phrase often indicates the speaker’s annoyance. _I’d rather go to a ball game than another one of your fancy-pants corporate events._  
 __fancy-schmancy__ _slang_ Very, perhaps overly, showy or elaborate. _Well, that’s a fancy-schmancy outfit—I didn’t realize this party was such a dressy occasion._  
 __far and away__ :astonished:  
-__far and wide__ :six: All over; everywhere. _Chicago is a destination for travelers far and wide._ _Shoppers flock from far and wide._  
+__far and wide__ :eight: All over; everywhere. _Chicago is a destination for travelers far and wide._ _Shoppers flock from far and wide._  
 __far cry (from something)__ :nine::m: [:sound: far cry from] A thing that is very different from something else. _It is a far cry from the 1970s._ _The office was a far cry from Pete’s domains._  
 __farmer’s tan__ :dart: A tan or sunburn on the neck and lower arms that results from wearing a T-shirt during prolonged sun exposure and that is clearly demarcated from the pale skin of the chest and upper arms that remained covered. :es: moreno paleta _It was so warm that I only wore a T-shirt on the four-hour hike, but I had a pretty gnarly farmer’s tan by the end of the day._  
 __Fart, Barf, and Itch__ :two: Jocular interpretation of the acronym FBI.  
 __fast and furious__  
-__fast-forward__  
+__fast track__  
+__fast-forward__ :two::hammer:  
 __fast-track__ __2__ _v_ To expedite or speed up some process. _The government announced plans to fast-track citizenship applications for illegal immigrants brought to the country as children._  
 __faster than you can say Jack Robinson__ Extremely quickly; almost immediately; suddenly or in a very short space of time.  
 __Faustian bargain__ An agreement, bargain, or deal in which a person sacrifices or abandons their moral, ethical, or spiritual values in favor of wealth, power, or other benefits. A reference to the legend of Faust, who sold his soul to the devil for unlimited knowledge and power.  
-__faux pass__  
+__faux pas__ :two::hammer:  
 __fear not__ :two: Used in speech to say that there is no reason to be afraid or worried. _Fear not—I’ll protect you._  
 __fear of missing out__  
 __feast (up)on (something)__ :two: To eat large quantities of something, usually with pleasure. _The kids feasted on birthday cake and returned to us with frosting-stained faces._  
+__feast your eyes (on somebody/something)__  
 __feather your own nest__ To use your position or your job to get a lot of money for yourself.  
 __feed (someone) to the wolves__ :two: To sacrifice someone to ruin, destruction, or hostility from others, especially for one’s own benefit or survival. _He cares nothing for the people he works with and is willing to feed them to the wolves if it means his stock might increase a bit._  
+__feel (some emotion) about (someone or something)__ To feel a particular emotion in response to or about someone or something.  
 __feel (something) in (one’s) bones__ To sense something strongly and intuitively. _We all felt the truth of the situation in our bones._ _Something bad is going to happen tonight—I can feel it in my bones._  
 __feel all the feels__ To experience a range of strong emotions. _Oh man, that video for the animal shelter made me feel all the feels. I want to adopt 10 puppies now!_  
 __feel like a million bucks__ To feel exceptionally attractive or in very robust health. _Wow, I feel like a million bucks in this new suit!_  
 __feel like a new man/woman__ To feel completely refreshed and in good health and spirits, especially after an exhausting or debilitating experience. _After he had some time to recover from the surgery, he felt like a new man._  
 __feel like__ :two: __1__ To desire to do something: _We all got bored and felt like leaving._ _I feel like ordering a cup of coffee._ _I don’t feel like it._ __2__ To desire to have something: _I feel like a cup of coffee._  
+__feel-good__ Creating, promoting, or relating to an often superficial or specious sense of happiness, well-being, or satisfaction.  
 __feeling blah__ __2__ Depressed; worn out. _I’m really blah. Would you mind awfully if I just went home?_  
 __feeling on edge__ :two::hammer:  
 __femme__ (vs _butch_) A lesbian who embraces identity markers that are associated with traditional expressions of femininity.  
