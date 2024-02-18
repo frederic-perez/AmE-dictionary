@@ -1,6 +1,10 @@
 __absolve__ _v_ /ub-ZAHLV/  
+__advisory panel__ _n_ A group of experts that advises the FDA in the approval process for new and/or previously unapplied technologies, and recommends the class into which such products should be categorised.  
 __America__ _n_ :mega: /əˈmɛrɪkə/  
+__anecdotally__ _adv_ In an anecdotal manner. _Anecdotally speaking, I can attest to the fact that reading music is no joke._  
+__awry__ _adv_ /əˈraɪ/  
 __betrothed__  
+__bode__ _v_  
 __bubble__ _v_ _If it bubbles you have a leak._  
 __bullet__ _n_ :mega: /ˈbʊl ɪt/  
 __burgeoning__  
@@ -25,6 +29,7 @@ __cessation__
 __cheat code__ _n_ __2__ A ploy or technique that bypasses traditional methods or rules in order to improve oneself or one’s success: _We don’t know what sort of cheat code he may have discovered to pass the audition, but his mediocre talent sure has us wondering._  
 __chief__ _n_ /tʃiːf/ /tʃif/  
 __cirrhosis__ _n_ /sɪˈroʊ sɪs/ A chronic disease of the liver in which fibrous tissue invades and replaces normal tissue, disrupting important functions, as digestion and detoxification.  
+__clout__ _n_  
 __cluck__ _n_  
 __co-opt__ _vt_  
 __cold turkey__  
@@ -52,16 +57,20 @@ __deluge<sup>1</sup>__ _n_
 __deluge<sup>2</sup>__ _vt_  
 __demilitarize__ _vt_  
 __demo__ _v_ _We’ve just demoed Riffusion, an incredible AI song-creation tool!_  
+__demonstration__ _n_ __3__ A public display of group opinion, as by a rally or march: _peace demonstrations._ _Syn_ manifestation :es: manifestación  
+__demonstrator__ _n_ __1__ One that demonstrates, such as a participant in a public display of opinion. :es: manifestante  
 __demystify__ _vt_  
 __denial__ _n_ _Despite denials, blah blah blah._  
 __despite__ _n, prep_ /dɪˈspaɪt/  
 __detour__ _n_  
 __detox__  
+__dire__ _adj_  
 __discharge__ _vt_ __1__ To release or allow to go: _the hospital discharged the patient._  
 __dispensation__ _n_  
 __dogshit__  
 __dysarthria__ _n_ Difficulty in articulating words, caused by impairment of the muscles used in speech.  
 __encourage__ _vt_ /ɪnˈkʌrɪdʒ/ /ɛnˈkɜr ɪdʒ, -ˈkʌr-/  
+__endpoint__ _n_ In clinical trials, a variable linked to the efficacy (e.g., prolongation of survival) or safety issue of the trial.  
 __energy poverty__ _n_  
 __enervate__ _v_ /EN-er-vayt/ :astonished: _Syn_ weaken, enfeeble  
 __engage__ _v_  
@@ -90,6 +99,7 @@ __fighter__ _n_ __2__ A fast, maneuverable combat aircraft used to engage enemy 
 __figurehead__ _n_ :two: __1__ A person nominally having a prominent position, but no real authority.  
 __fine-tune__ _vt_  
 __firestorm__ _n_  
+__flexitarian__ _n_ One who eats mostly a vegetarian diet but will occasionally eat meat or fish.  
 __footage__ _n_ :mega:  
 __forestry__ _n_  
 __frail__ _adj_  
@@ -104,14 +114,20 @@ __global boiling__ _n_
 __gloss__ _n_  
 __greedflation__ _n_  
 __grotesque__  
+__hitman__ _n slang_  
+__hourlong__ _adj_  
 __illustrate__ _v_  
 __jellyfish__ _n_ :es: medusa  
 __juvenile__ _adj, n_  
 __lavabo__ _n_ A basin for washing the hands. _Syn_ handbasin, washbasin, washbowl _The priest washed his hands in the metal lavabo before saying Mass._  
+__levity__ _n_  
 __loggerhead__ _n_ __1__ A thick-headed or stupid person; blockhead.  
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
 __Machiavellian__ _adj_  
+__manifesstation__ _n_ __4__ A public demonstration, usually of a political nature.  
+__misconduct__ _n_  
 __misdiagnose__ _vt_  
+__mixed__ _adj_ __b__ Both favorable and unfavorable: _I have mixed feelings about the new ownership._  
 __mortifying__ _adj_  
 __mugging__ _n_ An assault upon a person especially with the intent to rob.  
 __mull<sup>1</sup>__ _vt_ To think about extensively; ponder.  
@@ -127,6 +143,7 @@ __nonnegotiable__ _adj_
 __nonspecific__ _adj_  
 __nuance__ _n_ /ˈnu ɑns, ˈnyu-, nuˈɑns, nyu-/  
 __omen__  
+__omnivore__ _n_  
 __one-on-one__ _adj, adv_ __2__ Involving a direct encounter between one person and another.  
 __onside kick__ _n_ Short kick-off that travels just far enough to be recoverable by the kicking team.  
 __Oppie__ _n_ J. Robert Oppenheimer was known as “Oppie.” The nickname originated when he impressed his students in the Netherlands by giving lectures in Dutch, despite not being fluent in the language. This dedication and passion for teaching led to him being called “Opje,” which was later translated to “Oppie” and stuck as his nickname.  
@@ -198,13 +215,20 @@ __soon enough__ _adv_ Without being tardy.
 __soul__ _n_ :mega: /səʊl/  
 __sound bath__ _n_ An instance of sustained listening to the pleasant sounds emanating from a collection of singing bowls, bells, chimes, etc., used to aid in relaxation or meditation and believed to help restore physical and mental wellness.  
 __spat__ _n_  
+__spire__ _n_  
+__subpoena<sup>1</sup>__ _n_  
+__subpoena<sup>2</sup>__ _vt_  
+__sulphite__ _n_ /ˈsʌlfaɪt/  
+__tai chi__ _n_ (tai chi chuan) A Chinese martial art whose system of physical exercises is often practiced as a way of meditating or improving well-being.  
 __unbeknown__ _adj_ /ˌʌnbɪˈnəʊn/ (unbeknownst)  
+__uncover__ _v_ __2__ To manifest or disclose; reveal: _uncovered new evidence._  
 __underpin__ _vt_  
 __underway__ _adj_  
 __undeterred__ _adj_  
 __uneasy__ _adj_  
 __unfold__ _v_ __2__ To reveal or be revealed: _the truth unfolds._  
 __unrequited__  
+__upfront__ _adj_ :dart: __1__ Straightforward; frank. __2__ Paid or due in advance: _upfront cash._  
 __valentine__  
 __varix__ _n_ /ˈvɛər ɪks/ (_n pl_ varices) __1__ An abnormally dilated or swollen vein, artery, or lymph vessel.  
 __vegetate__ _v_ __3b__ To engage in relaxing or passive activities, such as watching television: _stayed home and vegetated last night._  
@@ -216,6 +240,7 @@ __warship__ _n_
 __watchdog__ _n_  
 __weasel<sup>1</sup>__ _n_ /WEE-zuhl/ __1__ Any of various small slender carnivorous mammals of the genus Mustela. __2__ A sneaky, cunning person.  
 __weasel<sup>2</sup>__ _vi_ :dart: __1__ To evade an obligation. __2__ To be evasive by using ambiguous or misleading words.  
+__winery__ _n_ /ˈwaɪ nə ri/ :es: bodega  
 __woke__  
 __wound__ _n_  
 __wow__ _vt_ To have a strong, usually pleasurable effect on: _a performance that wowed the audience._  
