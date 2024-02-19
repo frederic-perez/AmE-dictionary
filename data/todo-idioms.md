@@ -1,28 +1,3 @@
-__(almost) upon (one)__ (Almost) about to happen, arrive, or commence.  
-__(Are) you kidding (me)?__ :two::hammer:  
-__(it’s) all good__  
-__a clear future__ “A clear picture” is an idiomatic expression that means a complete and accurate understanding or representation of something.  
-__a recipe for disaster__  
-__a word of caution__ Idiomatic expression used to introduce a warning or advice about a potential risk or danger.  
-__and whatnot__ Along with other things of a similar kind; and so forth.  
-__at the heart of__ The central or most important part of something.  
-__back to basics__ Returning to the fundamental aspects of something.  
-__be here to stay__  
-__be like trying to find a needle in a haystack__  
-__be under way__  
-__be waiting for the other shoe to drop__ To be waiting for the next, seemingly unavoidable thing to happen. This phrase often has a negative connotation. _Mom said that Dad would punish us when he got home from work, so now we’re just waiting for the other shoe to drop._  
-__beat (oneself) up__ To continually criticize or question oneself, usually about something that one cannot change.  
-__big deal__  
-__bits and pieces__  
-__break out__ __5__ _v_ To occur unexpectedly and intensely. _We knew it was time to leave the club when a fight broke out between guys at the bar._  
-__bummer__ __3__ _adj_ Describing someone or something unpleasant. _Oh, it was a bummer party—you didn’t miss anything._  
-__bury the hatchet__ __1__ To make peace with someone.  
-__call (all) the shots__  
-__cash in__ :two::hammer:  
-__catch (one) off guard__  
-__catch some shuteye__  
-__check your ego at the door__ To leave behind one’s pride, arrogance, or self-importance when entering a situation or environment.  
-__checkered career__ A history of employment characterized by many different kinds of jobs or by many alternating periods of success and failure.  
 __chitchat__ __2__ _n_ An instance of idle or casual chatter. _We’re just having a chitchat, come on in._  
 __clinch__ _vt_ /klɪntʃ/ To settle something; to make something final. _I was able to clinch the deal, and I got a raise for it._  
 __close the door on (something)__  
