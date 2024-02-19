@@ -1,6 +1,18 @@
+__(Are) you kidding (me)?__ :two::hammer:  
+__a clear future__ “A clear picture” is an idiomatic expression that means a complete and accurate understanding or representation of something.  
+__alongside of (someone or something)__  
+__be better off__  
+__be under way__  
+__beat (oneself) up__ To continually criticize or question oneself, usually about something that one cannot change.  
+__bloodbath__  
+__break out__ __5__ _v_ To occur unexpectedly and intensely. _We knew it was time to leave the club when a fight broke out between guys at the bar._  
+__bummer__ __3__ _adj_ Describing someone or something unpleasant. _Oh, it was a bummer party—you didn’t miss anything._  
+__cash in__  
+__chip away__  
 __chitchat__ __2__ _n_ An instance of idle or casual chatter. _We’re just having a chitchat, come on in._  
 __clinch__ _vt_ /klɪntʃ/ To settle something; to make something final. _I was able to clinch the deal, and I got a raise for it._  
 __close the door on (something)__  
+__clothes don’t make the man__ You cannot judge a man’s character based on his clothing and appearance.  
 __Coke-bottle glasses__  
 __cold, hard cash__ Dollar bills and coins, as opposed to checks or credit. _The deal won’t go through unless we pay him in cold, hard cash._  
 __collude with (someone or something)__  
@@ -21,6 +33,7 @@ __cut off__ __2__ _v_ To abruptly move in front of another driver, either intent
 __cut someone or something out__  
 __cut to the chase__  
 __dark cloud__  
+__dark horse__  
 __date me doc__ A _date me doc_ is a document listing someone’s personal information and relationship preferences. The document is posted online in the hopes of attracting romantic partners.  
 __day in and day out__  
 __dealio__ _slang_ Alternative form of _dillio._ The deal; that which is current, relevant, or taking place. _What’s the dealio?_  
@@ -39,17 +52,20 @@ __finagle__
 __five o’clock shadow__  
 __flat-out__  
 __float an idea__ To suggest something in order to gauge interest in it or others’ perception of it.  
+__for lack of a better word__  
 __for show__ Done merely for the sake of appearance; not genuine or sincere.  
 __for the birds__  
 __free fall__  
 __from the get-go__  
 __frosty__ __2__ _mod_ Cool; really cool and mellow. _That music is really frosty._  
 __game face__ __2__ An expression of stoicism intended to mask one’s emotions or intentions. _John put his game face on as soon as I started to break up with him, so I can’t really tell how he took the new._  
+__give (one) the green light__  
 __go a long way__ :two::hammer:  
 __go down the toilet__ To fail; to be ruined or destroyed; to be squandered or wastefully discarded.  
 __go into overdrive__ To start working very hard or quickly.  
 __go to (someone or something)__  
 __God willing__ If all goes as it should; if everything goes well.  
+__great deal__ A large amount or degree.  
 __gun-shy__  
 __gut-wrenching__ Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one’s feelings. _What a gut-wrenching loss for the young athlete, who poured her heart and soul into this match._  
 __gyatt__ A slang exclamation of surprise or excitement. Gyatt is most commonly used as an exclamation in reaction to seeing a large butt (that is, the buttocks) and may be used as a noun to mean a large butt.  
@@ -73,6 +89,7 @@ __heads up__ __2__ _n_ A preliminary notice, especially of future difficulty, tr
 __hear out__  
 __heavy-footed__ Clumsy, ponderous, or lumbering in gait or tread. _The team’s star striker deftly navigated the ball past the heavy-footed defenseman._  
 __high roller__ Someone known for spending or gambling large amounts of money.  
+__hold fast__  
 __hold my beer__ A phrase indicating that one is about to do something stupid or dangerous. The image is that of a person at a party who asks a friend to hold their beer so that they can attempt some kind of ill-advised stunt. It is often used humorously to describe how something bad was followed by something even worse. _A: “There’s no way it’s possible to jump from the roof into the pool. It’s 20 feet away!” B: “Hold my beer, amateur.”_  
 __holy cow__  
 __I kid you not__  
@@ -82,14 +99,19 @@ __in a new light__
 __in full swing__ Well underway and operating at the highest possible level or pace.  
 __in one breath__ Very quickly, as of someone who is speaking (usually while very excited).  
 __in one sitting__ In a single session; finishing a task in the same period when one sets out to do so. _The bookworm devoured her book in one sitting._  
+__in the midst__  
 __in training__ Actively engaged in something in a way that helps hone or strengthen one’s skills, abilities, physical fitness, etc.  
 __kingpin__  
 __last-ditch__ :dart: Final, usually drastic or risky, with failure as the only alternative.  
 __leaps and bounds__  
 __level the playing field__  
 __make (both) ends meet__  
+__move the needle__  
+__name names__  
 __narrow down__  
+__narrow escape__  
 __necessary evil__  
+__not much__  
 __off the grid__  
 __on a pedestal__  
 __on the cusp__  
@@ -98,6 +120,7 @@ __one size fits all__ Supposedly well-suited to any situation, as of a product, 
 __one-up (someone)__ :two: To make a point of outdoing, outperforming, outclassing, etc., someone.  
 __out of here__ _informal_ (outta here) Used to say that one is leaving. _It’s five o’clock, so I’m out of here._  
 __put down__ __2__ _v_ To insult, mock, belittle, or disparage one.  
+__put pressure on (one)__  
 __red team__  
 __refrain from (doing something)__ :dart: To make a considered, conscious effort not to do something. _I ask everyone to refrain from asking questions until the end of the presentation._  
 __root out__  
@@ -133,6 +156,7 @@ __slip up__
 __slow and steady wins the race__  
 __slowly but surely__  
 __smother (someone or something) with (something)__  
+__sorry to say__ Regretfully; unfortunately. _The film had a lot of potential, but, sorry to say, it falls flat in just about every way._  
 __steal (one’s) thunder__ Use or appropriate another’s idea, especially to one’s advantage, as in _It was Harold’s idea but they stole his thunder and turned it into a massive advertising campaign without giving him credit._ This idiom comes from an actual incident in which playwright and critic John Dennis (1657-1734) devised a “thunder machine” (by rattling a sheet of tin backstage) for his play, _Appius and Virginia_ (1709), and a few days later discovered the same device being used in a performance of _Macbeth_, whereupon he declared, “They steal my thunder.”  
 __take (someone, something, or some place) by storm__  
 __the bigger picture__  
@@ -145,6 +169,7 @@ __weigh in__ __3__ To give one’s opinion or analysis of something during a dis
 __what if__  
 __what’s in store__ That which is awaiting or ahead (of one); that which is going to happen (for one).  
 __with a vengeance__ _Die Hard with a Vengeance._  
+__with each passing day__ As time continues to pass, day by day.  
 __with flying colors__  
 __within reach__  
 __within reason__  
