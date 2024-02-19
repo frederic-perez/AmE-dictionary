@@ -2,9 +2,13 @@ __absolve__ _v_ /ub-ZAHLV/
 __advisory panel__ _n_ A group of experts that advises the FDA in the approval process for new and/or previously unapplied technologies, and recommends the class into which such products should be categorised.  
 __America__ _n_ :mega: /əˈmɛrɪkə/  
 __anecdotally__ _adv_ In an anecdotal manner. _Anecdotally speaking, I can attest to the fact that reading music is no joke._  
+__attributable__ _adj_  
 __awry__ _adv_ /əˈraɪ/  
+__backlash__ _n_  
 __betrothed__  
+__blatant__  
 __bode__ _v_  
+__bravado__  
 __bubble__ _v_ _If it bubbles you have a leak._  
 __bullet__ _n_ :mega: /ˈbʊl ɪt/  
 __burgeoning__  
@@ -12,6 +16,7 @@ __burst__ _v_
 __bussin’__ _adj_ Great; wonderful; amazing.  
 __bustle__ _adj, v_  
 __buttonhole__ _vt_ __3__ To accost and detain (a person) in conversation.  
+__bystander__ _n_  
 __cachexia__ _n_ Weight loss, wasting of muscle, loss of appetite, and general debility that can occur during a chronic disease.  
 __calico__ _adj, n_  
 __callous__ _adj_ /KAL-us/  
@@ -37,12 +42,15 @@ __comfy__ _adj_ /ˈkʌmfɪ/ _informal_ Short for comfortable. _Don’t get too c
 __compound__ _v_  
 __conjubilant__ _adj_ Shouting together with joy.  
 __consign__ _v_ To give over to the care of another; entrust. _Syn_ charge  
+__constraint__ _n_ /kənˈstreɪnt/  
 __contingency plan__ _n_  
 __conundrum__  
 __counterintuitive__ _adj_  
+__coveted__ _adj_ /ˈkʌvɪtɪd/ Greatly desired. _Syn_ desired, in demand, sought after  
 __cozy__ _adj_ Relating to a genre of mystery stories with little suspense, explicit violence, or sexual content, often also having amateur sleuths and idyllic, intimate settings.  
 __crease__ _v_  
 __crepitation__ _n_  
+__cue ball__ _n_  
 __curb__ _vt_  
 __cursory__ _adj_  
 __dandelion__ _n_  
@@ -67,6 +75,7 @@ __detox__
 __dire__ _adj_  
 __discharge__ _vt_ __1__ To release or allow to go: _the hospital discharged the patient._  
 __dispensation__ _n_  
+__docuseries__ _n_ :two: A documentary, or a collection of documentaries, presented as a series.  
 __dogshit__  
 __dysarthria__ _n_ Difficulty in articulating words, caused by impairment of the muscles used in speech.  
 __encourage__ _vt_ /ɪnˈkʌrɪdʒ/ /ɛnˈkɜr ɪdʒ, -ˈkʌr-/  
@@ -111,11 +120,16 @@ __garland__ _n_
 __generic name__ _n_  
 __gibe__ _n, v_ (jibe)  
 __global boiling__ _n_  
+__globetrotter__ _n_  
 __gloss__ _n_  
 __greedflation__ _n_  
 __grotesque__  
+__guardrail__ _n_  
+__headwind__ _n_  
+__high tops__ _n pl_ Training shoes that reach above the ankles.  
 __hitman__ _n slang_  
 __hourlong__ _adj_  
+__humanitarian corridor__ _n_  
 __illustrate__ _v_  
 __jellyfish__ _n_ :es: medusa  
 __juvenile__ _adj, n_  
@@ -123,8 +137,14 @@ __lavabo__ _n_ A basin for washing the hands. _Syn_ handbasin, washbasin, washbo
 __levity__ _n_  
 __loggerhead__ _n_ __1__ A thick-headed or stupid person; blockhead.  
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
+__misgiving__ _n_  
+__misinformation__ _n_  
+__mudslide__ _n_  
+__opponent__ _adj, n_ :mega:  
 __ouster__ _n_  
 __outbid__ _vt_  
+__outpost__ _n_  
+__outright__  
 __outweigh__ _v_  
 __overalls__ _n pl_  
 __overdue__ _adj_ Not being on time. _Syn_ behindhand, belated, late, tardy  
@@ -136,6 +156,7 @@ __pardon__ _v_
 __pareidolia__ _n_ The perception of a recognizable image or meaningful pattern where none exists or is intended, as the perception of a face in the surface features of the moon.  
 __penny candy__ _n_ Inexpensive candy originally costing a penny apiece.  
 __pergola__ _n_ An arbor or a passageway of columns supporting a roof of trelliswork on which climbing plants are trained to grow. _Syn_ arbor, bower  
+__permafrost__ _n_  
 __pestered__  
 __picket line__ _n_  
 __picturesque__  
@@ -146,6 +167,7 @@ __psyops__ _n pl_ Military operations usually aimed at influencing the enemy’s
 __pubic symphysis__ _n_ The fixed joint at the front of the pelvic girdle where the two pubic bones meet.  
 __quirk__ _n_ /KWERK/ _Quirk_ refers to an unusual habit or way of behaving. It can also refer to something strange that happens by chance, as in “a quirk of fate.”  
 __range anxiety__ _n informal_ The apprehension or fear that an electric vehicle’s battery will run out of power before reaching one’s intended destination or a charging station.  
+__reckless__ _adj_  
 __relatable__  
 __remark__ _n_ /rɪˈmɑrk/  
 __renewal__ _n_  
@@ -173,6 +195,9 @@ __secretary__ _n_ :mega: /ˈsɛk rɪˌtɛr i/
 __self-doubt__ _n_ A lack of faith or confidence in oneself.  
 __semiretired__ _adj_ Working only on a part-time basis, as for reasons of ill health or advanced age.  
 __shortage__ _n_ /ˈʃɔr tɪdʒ/  
+__spinal column__ _n_ _Syn_ spine, vertebral column, backbone  
+__Suez Canal__ _n_  
+__uncover__  
 __underway__ _adj_  
 __undeterred__ _adj_  
 __uneasy__ _adj_  
