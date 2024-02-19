@@ -123,31 +123,6 @@ __lavabo__ _n_ A basin for washing the hands. _Syn_ handbasin, washbasin, washbo
 __levity__ _n_  
 __loggerhead__ _n_ __1__ A thick-headed or stupid person; blockhead.  
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
-__Machiavellian__ _adj_  
-__manifesstation__ _n_ __4__ A public demonstration, usually of a political nature.  
-__misconduct__ _n_  
-__misdiagnose__ _vt_  
-__mixed__ _adj_ __b__ Both favorable and unfavorable: _I have mixed feelings about the new ownership._  
-__mortifying__ _adj_  
-__mugging__ _n_ An assault upon a person especially with the intent to rob.  
-__mull<sup>1</sup>__ _vt_ To think about extensively; ponder.  
-__mull<sup>2</sup>__ _vi_ To ruminate; ponder: _mull over a plan._  
-__naive__  
-__nape__ _n_  
-__NATO__ _n_ :mega: /ˈneɪ toʊ/  
-__ne plus ultra__ _n_ /nay-plus-UL-truh/ Ne plus ultra refers to the highest point of development or success that something may achieve; it is a synonym of acme. _The company’s latest electric car is being hailed as the ne plus ultra of automotive achievement._  
-__nebula__ _n_ /ˈnɛb yə lə/  
-__nightstick__ _n_ A short stout club used primarily by policemen. _Syn_ truncheon, billy, billy club, billystick, baton  
-__noncontrast__ _adj_ Without the use of a contrast medium. _Noncontrast CT imaged._  
-__nonnegotiable__ _adj_  
-__nonspecific__ _adj_  
-__nuance__ _n_ /ˈnu ɑns, ˈnyu-, nuˈɑns, nyu-/  
-__omen__  
-__omnivore__ _n_  
-__one-on-one__ _adj, adv_ __2__ Involving a direct encounter between one person and another.  
-__onside kick__ _n_ Short kick-off that travels just far enough to be recoverable by the kicking team.  
-__Oppie__ _n_ J. Robert Oppenheimer was known as “Oppie.” The nickname originated when he impressed his students in the Netherlands by giving lectures in Dutch, despite not being fluent in the language. This dedication and passion for teaching led to him being called “Opje,” which was later translated to “Oppie” and stuck as his nickname.  
-__otolaryngology__ _n_ _Syn_ otorhinolaryngology  
 __ouster__ _n_  
 __outbid__ _vt_  
 __outweigh__ _v_  

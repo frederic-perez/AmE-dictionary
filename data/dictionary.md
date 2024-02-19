@@ -10891,7 +10891,7 @@ __MacGuffin__ _n_ :mega: /muh-GUFF-in/ A MacGuffin is an object, event, or chara
 __MacGyver__ _vt_ _slang_ :three::mega: /məˈɡaɪvər/ /muh-GUY-vur/ /muh-GHYE-ver/ To MacGyver something is to make, form, or repair it with materials that are conveniently on hand. To make, form, or repair (something) with what is conveniently on hand.  
 __Mach number__ _n_ :pencil2:  
 __Machiavelli__  
-__Machiavellian__ _adj_ :pencil2:  
+__Machiavellian__ _adj_ :two::hammer::pencil2:  
 __Machiavellianism__ _n_ /mak-ee-uh-VEL-ee-uh-niz-uhm/ The use of unscrupulous means, cunning, and deceit in pursuit of power, especially in politics.  
 __machinate__ _v_  
 __machination__ _n_  
@@ -11042,6 +11042,7 @@ __manic episode__ _n_ :two::hammer:
 __manic__ _adj_ :three::mega::hammer: _I was manic._  
 __manicure__ _v_ :dart: __1__ To trim, clean, and polish (the fingernails). __2__ To clip or trim evenly and closely; to trim or cut meticulously: _to manicure a hedge; to manicure a lawn._  
 __manicured__ _adj_ _Manicured landscape._  
+__manifesstation__ _n_ __4__ A public demonstration, usually of a political nature.  
 __manifest__ _n_ _A manifest of olive oil._  
 __manifesting__ _n_ Any of a number of wish-fulfillment techniques that involve visualization and positive thinking. There is no peer-reviewed data to support the efficacy of manifesting.  
 __manifesto__ _n_ :two::hammer: _My own workplace manifesto._  
@@ -11519,12 +11520,12 @@ __miscellany__ _n_ :mega::two: (mɪˈsɛlənɪ; US ˈmɪsəˌleɪnɪ) __1__ A mi
 __mischance__ _n_ :three: __1__ An unfortunate occurrence; a mishap. __2__ Bad luck.  
 __mischief__ _n_ :six::hammer:  
 __mischievous__ _adj_ :three::mega::hammer:  
-__misconduct__ _n_ :two::hammer:  
+__misconduct__ _n_ :three::hammer:  
 __misconstrue__ _vt_ :two::hammer:  
 __miscreant__ _n_ :nine::m: A miscreant is a person who is bad––who lies, breaks the law, yells at small puppies. It’s a somewhat old-fashioned word, popular with old ladies shocked at having their purses stolen at the opera. A person without moral scruples. _Syn_ reprobate  
 __miscue__ _n_ (miscues) :three::hammer:  
 __misdemeanor__ _n_ :two::hammer:  
-__misdiagnose__ _v_ _A misdiagnosed patient._  
+__misdiagnose__ _vt_ :two::hammer: _A misdiagnosed patient._  
 __misdiagnosis__ _n_ An incorrect diagnosis.  
 __misdirection__ _n_ :three::hammer:  
 __miser__ _n_ :three::hammer: :es: avaro  
@@ -11580,6 +11581,7 @@ __mitzvah__ _n_ :two: /MITS-vuh/ [:scroll: From Hebrew mitzvah (commandment), fr
 __mix-and-match__ _adj_ _Mix-and-match designs._  
 __mix-up__ _n_ :two::hammer:  
 __mixed bag__ _n_ :three::hammer: _It’s a mixed bag, really._  
+__mixed__ _adj_ __b__ Both favorable and unfavorable: _I have mixed feelings about the new ownership._  
 __mixologist__ _n_ :two::hammer:  
 __mixology__ _n_  
 __mixtape__ _n_  
@@ -11719,6 +11721,7 @@ __mortice__
 __mortification__ _n_ :two::hammer:  
 __mortified__ _adj_ :seven: Having been offended or embarrassed.  
 __mortify__ _v_  
+__mortifying__ _adj_  
 __mortuaries__  
 __mosey<sup>1</sup>__ _n_  
 __mosey<sup>2</sup>__ _vi_ :four:hammer:  
@@ -11799,7 +11802,7 @@ __muffler__ _n_ :three: __1__ A heavy scarf worn around the neck for warmth. __2
 __mug<sup>1</sup>__ _n_ _informal_ The human face.  
 __mug<sup>2</sup>__ _v_ :three::hammer: (mugged, mugging) _They were mugging passerby._  
 __mugger__ _n_ _informal_ :three: (muggers) A person who commits robbery with violence, esp in the street.  
-__mugging__ _n_ An assault upon a person especially with the intent to rob.  
+__mugging__ _n_ :two: An assault upon a person especially with the intent to rob.  
 __muggles__ _n_ :two::hammer:  
 __muggy__ _adj_ :two::hammer: _The weather was muggy._  
 __mulberry__ _n_ :three::hammer: (mulberries)  
@@ -11928,6 +11931,7 @@ __nail it__
 __nail plate__ _n_  
 __nail-biter__ _n_ A situation marked by anxiety or tension.  
 __nails__ _n_  
+__naive__  
 __naïveté__  
 __name of the game__ _n_ _slang_ :two: The essential part or quality necessary for the success of an enterprise or the fulfillment of a goal: _“The name of the game was to get the story” (David Fitzpatrick)._  
 __name-and-likeness__  
@@ -11940,7 +11944,7 @@ __names and likeness__
 __namesake__ _n_ :three::hammer:  
 __nana__ _n_ :two::hammer: _Her nana._  
 __Napa Valley__ _n_ _The goal is to make Denver the Napa Valley of cannabis._  
-__nape__ _n_  
+__nape__ _n_ :two::hammer:  
 __naphthalene__ _n_ (naphthaline, naphthalin)  
 __napping__ _adj_ Not prepared or vigilant. _The blow caught him napping._  
 __nappy__ _n_ :three::hammer: (chiefly British)  
@@ -11972,6 +11976,7 @@ __nativism__ _n_ :two::hammer:
 __nativist__ _adj_  
 __nativistic__ _adj_  
 __nativity__ _n_ :two::hammer: /nuh-TIV-uh-tee/  
+__NATO__ _n_ :mega: /ˈneɪ toʊ/  
 __natter__ _vi_ :dart::four: (nattering) Talk socially without exchanging too much information. To talk idly and at length; chatter or gossip. _Syn_ chew the fat, chitchat, claver, confab, chat, jaw, shoot the breeze, confabulate, gossip, chaffer, chatter, visit  
 __nattily__ _adv_ :two: In a natty manner; with smartness. _Actor nattily dressed._  
 __natty__ _adj_ :two: Neat, trim, and smart; dapper.  
@@ -11986,7 +11991,7 @@ __navel-gazer__ _n_ (derogatory) One who engages in navel-gazing; a person who i
 __navigate__ _v_ :two::hammer:  
 __Navy SEAL__ _n_  
 __naysayer__ _n_ :four::hammer:  
-__ne plus ultra__ _n_ n The extreme or perfect point or state. _The new building is the ne plus ultra of theatrical design._  
+__ne plus ultra__ _n_ :two: /nay-plus-UL-truh/ Ne plus ultra refers to the highest point of development or success that something may achieve; it is a synonym of acme. The extreme or perfect point or state. _The new building is the ne plus ultra of theatrical design._ _The company’s latest electric car is being hailed as the ne plus ultra of automotive achievement._  
 __Neapolitan__ _adj, n_ :two::pencil2:  
 __near__ _v_  
 __nearcation__ _n_ A vacation to a destination relatively close to one’s home.  
@@ -11994,7 +11999,7 @@ __nearlywed__ _n_
 __neat__ _adj_ :three::hammer: _Shots of whiskey, moonshine, vodka and cordial served neat or on the rocks._ _That’s a neat idea, Jupe._  
 __neatnik__ _n_ A very neat and tidy person.  
 __nebbish__ _n_ A person regarded as weak-willed or timid.  
-__nebula__ _n_ A very large cloud of dust and gas that exists in outer space.  
+__nebula__ _n_ :two: /ˈnɛb yə lə/ A very large cloud of dust and gas that exists in outer space.  
 __nebulous__ _adj_ /NEB-yuh-lus/ Nebulous is often used as a synonym of indistinct or vague, but can also be used to refer to something that is related to or that resembles a nebula. _Daniel’s description of the film was so nebulous that I’m still not quite sure what it is about._  
 __necessary evil__  
 __necessary__ _adj_ /ˈne-sə-ˌser-ē/ :two::mega:pencil2:  
@@ -12126,6 +12131,7 @@ __nightmarish__ _adj_ :three::hammer:
 __nightshirt__ _n_ A long, loose shirt worn in bed.  
 __nightspot__ _n_ :two: An informal word for nightclub.  
 __nightstand__ _n_  
+__nightstick__ _n_ A short stout club used primarily by policemen. _Syn_ truncheon, billy, billy club, billystick, baton  
 __nighttime__ _n_ :pencil2:  
 __nigiri__ _n_  
 __nihilism__ _n_  
@@ -12202,12 +12208,14 @@ __nonchalant__ _adj_ :nine::m: /nahn-shuh-LAHNT/ Behaving calmly and not seeming
 __nonchalantly__ _adv_ :six: In a casual way that shows a relaxed lack of concern or interest. _Pete shrugged nonchalantly._  
 __noncommissioned__ _adj_ (of military officers) Appointed from enlisted personnel.  
 __noncommittal__ _adj_ :five: Refusing commitment to a particular opinion or course of action; not revealing what one feels or thinks. Not involving or revealing commitment to any particular opinion or course of action: _a noncommittal reply._  
+__noncontrast__ _adj_ Without the use of a contrast medium. _Noncontrast CT imaged._  
 __nondescript__ _adj_ :five::hammer: /non-di-SKRIPT/  
 __nonesuch__ _n_ (nonsuch)  
 __nonetheless__ _adv_ Despite that; however; nevertheless.  
 __nonexempt__ _adj_ /ˌnɒnɪɡˈzɛmpt/ _Nonexempt position._  
 __nonexistent__ _adj_  
 __nonlinear__ _adj_  
+__nonnegotiable__ _adj_  
 __nonpareil<sup>1</sup>__ _adj_ /nahn-puh-REL/ Having no equal. _The singer’s stunning performance was nonpareil._  
 __nonpareil<sup>2</sup>__ _n_ A person or thing that is unsurpassed or unmatched; peerless example. _Syn_ nonesuch, apotheosis, ideal, paragon, saint  
 __nonpartisan__ _adj_  
@@ -12218,6 +12226,7 @@ __nonplussed__ _adj_ :five::pencil2::hammer: _His celebrations have nonplussed c
 __nonsense__ _n_ :two::hammer: _Nonsense!_ _Pure nonsense!_  
 __nonsensical__ _adj_ _Deadpan delivery of nonsensical jokes._  
 __nonsequitur__  
+__nonspecific__ _adj_  
 __nonstaff jobs__  
 __nonstarter__ _n_ An idea, proposal, or candidate with no chance of being accepted or successful. _Syn_ failure, loser  
 __nonstop__  
@@ -12285,7 +12294,7 @@ __nowcasting__ _adj_ :five::hammer: _Nowcasting system._ _Nowcasting application
 __noxious__ _adj_ :two::hammer:  
 __nozzle__ _n_ :two::hammer:  
 __nth__ _adj_  
-__nuance<sup>1</sup>__ _n_ :dart::six::mega: /NOO-ahnss/ (nuances) A subtle distinction, variation, or quality in something, such as tone, color, meaning, etc. A subtle difference in or shade of meaning, expression, or sound. _The nuances of facial expression and body language._ _Her highly trained palate is able to detect nuances in fine wine that even most oenophiles cannot._ _Syn_ fine distinction, subtle difference :es: matiz  
+__nuance<sup>1</sup>__ _n_ :dart::seven::mega: /NOO-ahnss/ /ˈnu ɑns, ˈnyu-, nuˈɑns, nyu-/ (nuances) A subtle distinction, variation, or quality in something, such as tone, color, meaning, etc. A subtle difference in or shade of meaning, expression, or sound. _The nuances of facial expression and body language._ _Her highly trained palate is able to detect nuances in fine wine that even most oenophiles cannot._ _Syn_ fine distinction, subtle difference :es: matiz  
 __nuance<sup>2</sup>__ _v_ :five: (nuanced) Give nuances to. _The effect of the music is nuanced by the social situation of listeners._  
 __nub__ _n_ :two::hammer: _A punched nub._  
 __nubbly__  
@@ -12492,7 +12501,7 @@ __olykoek__ _n_ /ˈɒlɪˌkuːk/ (olicook) _Eastern US_ A doughnut or ring shape
 __Omaha__ _n_ :mega:  
 __omega__ _n_ /oʊˈmi gə, oʊˈmeɪ-, oʊˈmɛg ə/ [:scroll: Middle English, from Greek ō mega, _large o (from its being a long vowel in Greek)_]  
 __omelet__ _n_ :two::hammer::mega: (omelette)  
-__omen__ _n_ :six::hammer:  
+__omen__ _n_ :seven::hammer:  
 __omicron__ _n_ :two: /ˈɒm ɪˌkrɒn, ˈoʊ mɪ-/ [:scroll: Middle English, from Greek o mīkron, _small o (because of its being a short vowel in Greek)_] The 15th letter of the Greek alphabet (Ο, ο).  
 __omics__ _n_  
 __ominous__ _adj_ :nine::m: /AH-muh-nus/ Something described as ominous hints or suggests that something bad is coming or is going to happen. Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
@@ -12506,6 +12515,7 @@ __omnibus<sup>2</sup>__ _n_ :three::hammer:
 __omnifarious__ _adj_ Of all kinds: _omnifarious knowledge._  
 __omnipresent__ _adj_  
 __omniscient__ _adj_ :two: Having complete or unlimited knowledge, awareness, or understanding; perceiving all things. Having total knowledge; knowing everything: _an omniscient deity; the omniscient narrator._  
+__omnivore__ _n_  
 __omphaloskepsis__ _n_ The practice of contemplating one’s navel in order to aid meditation.  
 __on a second thought__  
 __on a whim__  
@@ -12541,6 +12551,7 @@ __one-note__
 __one-of-a-kind__ _adj_ :two: Unique.  
 __one-off<sup>1</sup>__ _adj_ :four: _British informal_ Done, made, or happening only once. _A one-off benefit show._ _One-off handcrafted pieces._  
 __one-off<sup>2</sup>__ _n_ :three: _British informal_ :three: (one-offs) Something done, made, or happening only once. _The meeting is a one-off._  
+__one-on-one__ _adj, adv_ __2__ Involving a direct encounter between one person and another.  
 __one-stop__ _adj_ :three: Having or providing a range of related services or goods in one place: _a one-stop shop._ _It’s the most comprehensive one-stop AI design suite on the market!_  
 __onerous__ _adj_ :seven::pencil2::astonished: /AH-nuh-rus/ Onerous means “involving, imposing, or constituting a burden.” It typically describes something that is difficult and unpleasant to do or deal with. _They were assigned the onerous task of post-show cleanup._ _The government imposed onerous taxes on imports._  
 __onesie__ _n_ :five: /ˈwʌnzɪ/ A one-piece garment combining a top with trousers, worn as leisurewear. _The actor in the Lycra onesie is stealing the _Avengers_ show._  
@@ -12551,6 +12562,7 @@ __onlooker__ _n_ :three::hammer: (onlookers)
 __only problem is__  
 __onomatopoeia__ _n_ :two: /ah-nuh-mah-tuh-PEE-uh/ Onomatopoeia means “the creation or use of words that imitate sounds.” Example: The thunder boomed and the lightning crashed. It can also refer to the words themselves.  
 __onset__ _n_ :nine::mega::astonished: __1__ The beginning or start of something: _the onset of a cold._ _Early onset dementia._ __2__ An attack; assault.  
+__onside kick__ _n_ Short kick-off that travels just far enough to be recoverable by the kicking team.  
 __onslaught__ _n_ :seven: A violent attack. _The onslaught of the Jacques._  
 __ontology__ _n_  
 __onus__ _n_ :nine::m: /OH-nuss/ __1__ A difficult or disagreeable responsibility or necessity; a burden or obligation. If the onus is on someone to do something, it is their responsibility or duty to do it. Onus is a formal word that means “a responsibility, obligation, or burden.” It is usually preceded by the word _the._ _Management has made it clear that the onus is on employees to ask for further training if they don’t understand the new procedures._ _Ward’s statement puts the onus back on us._ _The onus for change._ __2__ It can also be used in some contexts as a synonym for blame or stigma.  
@@ -12583,6 +12595,7 @@ __ophthalmologist__ _n_
 __opine__ _v_ /oh-PYNE/  
 __opinionated__ _adj_ :five: Holding obstinately and unreasonably to one’s own opinions; dogmatic.  
 __opossum__ _n_  
+__Oppie__ _n_ J. Robert Oppenheimer was known as “Oppie.” The nickname originated when he impressed his students in the Netherlands by giving lectures in Dutch, despite not being fluent in the language. This dedication and passion for teaching led to him being called “Opje,” which was later translated to “Oppie” and stuck as his nickname.  
 __oppo__ _n_ Short for opposition research. Damaging information about a political candidate that is gathered and used or made public usually by an opponent’s camp. _They are doing extensive oppo, looking over her public financial records, getting copies of her divorce papers’._  
 __opportune__ _adj_ /ˌɒp ərˈtun, -ˈtyun/ __1__ Suitable or convenient for a particular situation. _It is an opportune time to invest in the stock market._ __2__ Occurring at an appropriate time. _The book’s publication is opportune._  
 __opportunistic__  
@@ -12665,6 +12678,7 @@ __otherness__
 __otherworldly__ _adj_ :astonished::three::hammer:  
 __otiose__ _adj_ Serving no useful purpose; having no excuse for being. _Syn_ superfluous, wasted, pointless, senseless _More than half of his acceptance speech was otiose nonsense, and the rest was just a rehash of his campaign promises._  
 __otitis__ _n_  
+__otolaryngology__ _n_ _Syn_ otorhinolaryngology  
 __otter__ _n_ :three::hammer: _Keep a look out for the sea otters._  
 __ottoman__  
 __ottter__ _n_  
