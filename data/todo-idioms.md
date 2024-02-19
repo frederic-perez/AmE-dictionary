@@ -1,5 +1,7 @@
 __(almost) upon (one)__ (Almost) about to happen, arrive, or commence.  
+__(Are) you kidding (me)?__ :two::hammer:  
 __(it’s) all good__  
+__a clear future__ “A clear picture” is an idiomatic expression that means a complete and accurate understanding or representation of something.  
 __a recipe for disaster__  
 __a word of caution__ Idiomatic expression used to introduce a warning or advice about a potential risk or danger.  
 __and whatnot__ Along with other things of a similar kind; and so forth.  
@@ -7,12 +9,16 @@ __at the heart of__ The central or most important part of something.
 __back to basics__ Returning to the fundamental aspects of something.  
 __be here to stay__  
 __be like trying to find a needle in a haystack__  
+__be under way__  
 __be waiting for the other shoe to drop__ To be waiting for the next, seemingly unavoidable thing to happen. This phrase often has a negative connotation. _Mom said that Dad would punish us when he got home from work, so now we’re just waiting for the other shoe to drop._  
+__beat (oneself) up__ To continually criticize or question oneself, usually about something that one cannot change.  
 __big deal__  
 __bits and pieces__  
+__break out__ __5__ _v_ To occur unexpectedly and intensely. _We knew it was time to leave the club when a fight broke out between guys at the bar._  
+__bummer__ __3__ _adj_ Describing someone or something unpleasant. _Oh, it was a bummer party—you didn’t miss anything._  
 __bury the hatchet__ __1__ To make peace with someone.  
 __call (all) the shots__  
-__cash in__  
+__cash in__ :two::hammer:  
 __catch (one) off guard__  
 __catch some shuteye__  
 __check your ego at the door__ To leave behind one’s pride, arrogance, or self-importance when entering a situation or environment.  
@@ -48,6 +54,10 @@ __deepfake__
 __destim__ [:scroll: de + stimulate] _Destim_ is a slang term that means to calm down by avoiding overwhelming stimuli, such as loud noises or stressful situations, as in _I went outside for a minute in order to destim._  
 __detached from reality__  
 __died in their sleep__ When someone is said to have “died in their sleep,” it typically means that they passed away during the night while they were asleep. This phrase is often used when the cause of death is unclear or when the family wishes to maintain privacy.  
+__do the dishes__ To wash plates, glasses, bowls, silverware etc. with soap and water.  
+__do the right thing__ To act or behave correctly, appropriately, or with the best intentions.  
+__edge out__  
+__fair game (for something)__  
 __ferret out__ To discover or retrieve something, usually with careful effort. A noun or pronoun can be used between “ferret” and “out.” _Now that I’m a successful actress, I’m worried about what the media will ferret out about my tawdry past._  
 __fill up__  
 __finagle__  
@@ -56,9 +66,12 @@ __flat-out__
 __float an idea__ To suggest something in order to gauge interest in it or others’ perception of it.  
 __for show__ Done merely for the sake of appearance; not genuine or sincere.  
 __for the birds__  
+__free fall__  
 __from the get-go__  
 __frosty__ __2__ _mod_ Cool; really cool and mellow. _That music is really frosty._  
+__game face__ __2__ An expression of stoicism intended to mask one’s emotions or intentions. _John put his game face on as soon as I started to break up with him, so I can’t really tell how he took the new._  
 __go a long way__ :two::hammer:  
+__go down the toilet__ To fail; to be ruined or destroyed; to be squandered or wastefully discarded.  
 __go into overdrive__ To start working very hard or quickly.  
 __go to (someone or something)__  
 __God willing__ If all goes as it should; if everything goes well.  
@@ -82,6 +95,7 @@ __have no business (doing something)__ To have no legitimate reason, experience,
 __he-man__ A particularly strong, tough, and/or virile male, especially one who likes to flaunt his strength.  
 __head-to-head__ Describing a one-on-one matchup or comparison.  
 __heads up__ __2__ _n_ A preliminary notice, especially of future difficulty, trouble, or danger; a warning. Often hyphenated. _Make sure everyone gets the heads-up about the inspection tomorrow morning. We don’t want anyone coming in unprepared._  
+__hear out__  
 __heavy-footed__ Clumsy, ponderous, or lumbering in gait or tread. _The team’s star striker deftly navigated the ball past the heavy-footed defenseman._  
 __high roller__ Someone known for spending or gambling large amounts of money.  
 __hold my beer__ A phrase indicating that one is about to do something stupid or dangerous. The image is that of a person at a party who asks a friend to hold their beer so that they can attempt some kind of ill-advised stunt. It is often used humorously to describe how something bad was followed by something even worse. _A: “There’s no way it’s possible to jump from the roof into the pool. It’s 20 feet away!” B: “Hold my beer, amateur.”_  
@@ -98,12 +112,17 @@ __kingpin__
 __last-ditch__ :dart: Final, usually drastic or risky, with failure as the only alternative.  
 __leaps and bounds__  
 __level the playing field__  
+__make (both) ends meet__  
 __narrow down__  
+__necessary evil__  
+__off the grid__  
 __on a pedestal__  
 __on the cusp__  
 __on the spot__  
+__one size fits all__ Supposedly well-suited to any situation, as of a product, method, solution, etc. Often hyphenated.  
 __one-up (someone)__ :two: To make a point of outdoing, outperforming, outclassing, etc., someone.  
 __out of here__ _informal_ (outta here) Used to say that one is leaving. _It’s five o’clock, so I’m out of here._  
+__put down__ __2__ _v_ To insult, mock, belittle, or disparage one.  
 __red team__  
 __refrain from (doing something)__ :dart: To make a considered, conscious effort not to do something. _I ask everyone to refrain from asking questions until the end of the presentation._  
 __root out__  
@@ -116,6 +135,7 @@ __save (something) for a rainy day__
 __save the day__ :two::hammer:  
 __scale up__  
 __scratch (one’s) head__  
+__sea change__ A massive, fundamental shift or transformation.  
 __seeing is believing__  
 __seize upon (something)__  
 __set in stone__  
@@ -124,6 +144,7 @@ __shift gears__
 __shore up__ :dart:  
 __sick to (one’s) stomach__ Nauseated or vomiting.  
 __sidebar conversation__ _informal_ A conversation held privately between two people while one or more other people are already speaking.  
+__sign of the times__  
 __silver lining__  
 __six ways to Sunday__ _adj_ Askew, at an angle.  
 __skate__  
@@ -138,11 +159,14 @@ __slow and steady wins the race__
 __slowly but surely__  
 __smother (someone or something) with (something)__  
 __steal (one’s) thunder__ Use or appropriate another’s idea, especially to one’s advantage, as in _It was Harold’s idea but they stole his thunder and turned it into a massive advertising campaign without giving him credit._ This idiom comes from an actual incident in which playwright and critic John Dennis (1657-1734) devised a “thunder machine” (by rattling a sheet of tin backstage) for his play, _Appius and Virginia_ (1709), and a few days later discovered the same device being used in a performance of _Macbeth_, whereupon he declared, “They steal my thunder.”  
+__take (someone, something, or some place) by storm__  
 __the bigger picture__  
+__the little things__  
 __think tank__  
 __tinker with__  
 __to the core__ Fully or completely; in the most essential or inherent way.  
 __unmet need__ An “unmet need” refers to a gap between an individual’s desired condition or goal and their current situation. It implies that there is a necessity or requirement that has not been satisfied or addressed. Unmet needs can occur in various aspects of life, including physical, emotional, social, and psychological dimensions.  
+__weigh in__ __3__ To give one’s opinion or analysis of something during a discussion.  
 __what if__  
 __what’s in store__ That which is awaiting or ahead (of one); that which is going to happen (for one).  
 __with a vengeance__ _Die Hard with a Vengeance._  
