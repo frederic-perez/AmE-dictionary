@@ -98,31 +98,6 @@ __if you will__
 __in a new light__  
 __in full swing__ Well underway and operating at the highest possible level or pace.  
 __in one breath__ Very quickly, as of someone who is speaking (usually while very excited).  
-__in one sitting__ In a single session; finishing a task in the same period when one sets out to do so. _The bookworm devoured her book in one sitting._  
-__in the midst__  
-__in training__ Actively engaged in something in a way that helps hone or strengthen one’s skills, abilities, physical fitness, etc.  
-__kingpin__  
-__last-ditch__ :dart: Final, usually drastic or risky, with failure as the only alternative.  
-__leaps and bounds__  
-__level the playing field__  
-__make (both) ends meet__  
-__move the needle__  
-__name names__  
-__narrow down__  
-__narrow escape__  
-__necessary evil__  
-__not much__  
-__off the grid__  
-__on a pedestal__  
-__on the cusp__  
-__on the spot__  
-__one size fits all__ Supposedly well-suited to any situation, as of a product, method, solution, etc. Often hyphenated.  
-__one-up (someone)__ :two: To make a point of outdoing, outperforming, outclassing, etc., someone.  
-__out of here__ _informal_ (outta here) Used to say that one is leaving. _It’s five o’clock, so I’m out of here._  
-__put down__ __2__ _v_ To insult, mock, belittle, or disparage one.  
-__put pressure on (one)__  
-__red team__  
-__refrain from (doing something)__ :dart: To make a considered, conscious effort not to do something. _I ask everyone to refrain from asking questions until the end of the presentation._  
 __root out__  
 __rule of thumb__ A general principle developed through experiential rather than scientific means. An approximation; a suggested method or guideline. _A good rule of thumb is to plant your seedlings around the end of May._  
 __rule the roost__ To have the most control or authority in a group. _Both of our parents were tough, but Mama was as tough as an old shoe, who ruled the roost without saying a word._  

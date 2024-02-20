@@ -2912,6 +2912,7 @@ __in no time (at all)__ :five: (in less than no time) In a very little amount of
 __in no way__ Not at all; not by any means. _We are in no way blaming you for what happened, but you still have to cooperate with the police investigation._  
 __in no way, shape, or form__ In no possible manner; under no circumstances; not by any means.  
 __in one blow__ All at once, with a single decisive or powerful action.  
+__in one sitting__ In a single session; finishing a task in the same period when one sets out to do so. _The bookworm devoured her book in one sitting._  
 __in order that__ So that; with the particular aim or purpose of.  
 __in other news__ :two: A segue into another topic. Used when you want to move on to a new subject, but have no real way to connect it to what you were talking about before.  
 __in over (one’s) head__ Too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer.  
@@ -2977,6 +2978,7 @@ __in the lurch__ In a particularly awkward, difficult, or troublesome situation.
 __in the making__ :four::hammer:  
 __in the middle of nowhere__ :three: In a place that is far away from other people, houses, or cities. _We got lost in the middle of nowhere._  
 __in the midst of (something)__ :three::hammer:  
+__in the midst__  
 __in the money__  
 __in the next breath__ _(especially when speaking)_ In or at the very next moment or opportunity; in a very short space of time.  
 __in the nick of time__ :two: Just at the critical moment; just in time. _I got to the drugstore just in the nick of time. It’s a good thing, because I really need this medicine!_  
@@ -3003,7 +3005,7 @@ __in their own right__
 __in theory__ Hypothetically; as a possibility. As opposed to in reality or in practice.  
 __in this day and age__ :three::hammer:  
 __in tow__ :five: __1__ In a condition of being towed: _a car with a trailer in tow._ __2__ Under close guidance; in one’s charge: _The new student was taken in tow by a peer counselor._ __3__ As a companion or follower: _came to dinner with a friend in tow._ _The senator arrived to the press conference with her aides in tow._  
-__in training__  
+__in training__ :two: Actively engaged in something in a way that helps hone or strengthen one’s skills, abilities, physical fitness, etc.  
 __in vain__  
 __in virtue of (something)__ Due to something; because of something; by reason of something.  
 __in voice__ In an ideal state or condition for speaking or singing.  
@@ -3195,6 +3197,7 @@ __kind of__ Somewhat; partially.
 __kindred spirit__ :nine::m: [:sound: kindred spirit] (kindred spirits) An individual with the same beliefs, attitudes or feelings as oneself. _Dean and I are kindred spirits when it comes to spending money-we’re both tight._ _Syn_ kindred soul _A kindred spirit._ :es: almas gemelas  
 __king of the hill__ :four: The most powerful, successful, or authoritative person in a group or organization _After years of slowly moving up the ranks, Joe finally became king of the hill in his office._  
 __king of the jungle__ The lion, especially in cultural or artistic depictions. (Usually a misnomer, as lions typically inhabit deserts or dry forests, as opposed to jungles.)  
+__kingpin__  
 __kip__ _vi_ To sleep. _He’s upstairs kipping. Can he call you back?_  
 __kiss of death__ An action, event, or association that causes inevitable ruin or failure. An allusion to Judas Iscariot’s betrayal of Jesus Christ, during which Judas kissed Jesus as a way of identifying him to those who would put him to death. _The company’s connection to the disgraced media mogul will likely prove to be its kiss of death._  
 __kiss up__ _slang_ :dart: To habitually offer flattery in the hope of gaining favor; to behave sycophantically. _Stop kissing up just to try to get an A. Just study like everyone else._ _Kiss up tp the bosses._  
@@ -3264,6 +3267,7 @@ __last hurrah__ (final hurrah) A final moment of glory; last notable achievement
 __last resort__ The only remaining option that may help one or be of any use after all other options have been exhausted. _I didn’t really want to ask Mr. Stadler to write my college recommendation, but he’s my last resort at this point._  
 __last straw__ :two: The final problem in a series of problems.  
 __last-ditch attempt__ A final effort or attempt to solve a problem or avoid failure or defeat, especially after a series of failures or setbacks.  
+__last-ditch__ :dart: Final, usually drastic or risky, with failure as the only alternative.  
 __last-minute__ :two: (used before a noun) Done at the very last possible moment or opportunity.  
 __latch on__  
 __latch onto (someone or something)__  
@@ -3302,7 +3306,7 @@ __lean on (someone or something)__
 __leap of faith__  
 __leap to (someone’s) mind__ To suddenly or immediately materialize in someone’s mind. _A: “What would you like to have for dinner?” B: “I’m not sure, nothing’s really leaping to mind.”_  
 __leapfrog over (someone or something)__  
-__leaps and bounds__ :dart::four: __2__ Very large degrees of or rapid progress forward. (Used especially in the phrases “by/in leaps and bounds” and “make leaps and bounds.”) _Samantha’s delivery business has been growing by leaps and bounds recently._ _Communication and control technologies are advancing in leaps and bounds._  
+__leaps and bounds__ :dart::five: __2__ Very large degrees of or rapid progress forward. (Used especially in the phrases “by/in leaps and bounds” and “make leaps and bounds.”) _Samantha’s delivery business has been growing by leaps and bounds recently._ _Communication and control technologies are advancing in leaps and bounds._  
 __learn (something) the hard way__ :dart::two::hammer:  
 __learn the ropes__ :three::hammer:  
 __learning curve__  
@@ -3352,6 +3356,7 @@ __let’s not and say (that) we did__ A sarcastic expression indicating that one
 __let’s roll__ Let’s get out of here; let’s get moving. _That’s everything we need from the store. Let’s roll!_  
 __letdown__ :two: Something that is disappointing, usually because it did not meet one’s high expectations about it. _Not getting tickets to the game after my aunt promised them to us is a real letdown._  
 __letters after (one’s) name__ A series of abbreviations indicating the various levels of higher education or military honors one has received, thereby denoting a presumed level of intelligence, wisdom, or respectability. _I hate hanging out with your PhD colleagues—it seems like they’ll only take you seriously if you have letters after your name._  
+__level the playing field__  
 __level up__ :two::hammer:  
 __lie ahead of (someone or something)__ :two::hammer:  
 __lifer__  
@@ -3506,6 +3511,7 @@ __magic mushrooms__
 __magick thinking__  
 __magpie__  
 __mainline__ _n_ __2__ _slang_ An accessible vein that can be used to inject a narcotic.  
+__make (both) ends meet__  
 __make (one’s) bones__  
 __make (one’s) day__ :two: To cause one to feel very happy; to be a very positive highlight of one’s day. _When my neighbors surprised me with homemade chocolate chip cookies, it really made my day._  
 __make (one’s) mouth water__  
@@ -3694,7 +3700,7 @@ __move (one) to tears__
 __move heaven and earth__ To do everything that one can to make something happen.  
 __move on__ _So, moving on to the next item on the agenda._  
 __move the goal posts__  
-__move the needle__ :dart::five: To cause a noticeable change in something. The imagery refers to the pointer (“needle”) on a measuring instrument, which moves to indicate the level that has been reached. _It seems all my efforts to get in good with the CEO have done little to move the needle in my favor._  
+__move the needle__ :dart::six: To cause a noticeable change in something. The imagery refers to the pointer (“needle”) on a measuring instrument, which moves to indicate the level that has been reached. _It seems all my efforts to get in good with the CEO have done little to move the needle in my favor._  
 __move through the gears__ To steadily increase one’s momentum, as of speed, intensity, progress, or success. _With a lot of hard work and perseverance, our little business is finally starting to move through the gears!_  
 __moved to tears__ Made to cry due to something that elicited overwhelming emotions. _I was moved to tears by the tributes to my late father._  
 __mover and shaker__ :two: A person who wields power and influence; _“a shaker of traditional beliefs”; “movers and shakers in the business world”_  
@@ -3723,15 +3729,16 @@ __nab__ :two: To catch and arrest someone. Often used in passive constructions.
 __nah__ :two: _informal_ No; not really.  
 __nail in (someone’s or something’s) coffin__ :two::hammer:  
 __naked eye__ _With the naked eye._  
-__name names__ :five::hammer: _I will not go naming names here._  
-__narrow down__ :two: To pare the number of people or things on a list down to a more manageable or select number. A noun or pronoun can be used between “narrow” and “down.” _Let’s narrow it down to just our very top choices, otherwise we’ll never pick a place to go._  
-__narrow escape__ :three::hammer:  
+__name names__ :six::hammer: _I will not go naming names here._  
+__narrow down__ :three: To pare the number of people or things on a list down to a more manageable or select number. A noun or pronoun can be used between “narrow” and “down.” _Let’s narrow it down to just our very top choices, otherwise we’ll never pick a place to go._  
+__narrow escape__ :four::hammer:  
 __narrow something down__ If you narrow something down, you reduce the number of possibilities.  
 __narrow the gap__  
 __natter on__ To talk idly or incessantly. _Now that she can talk, my little girl will just natter on all day long._  
 __natural hat trick__ _n_ _sports_ A hat trick in which three goals are scored in succession by one player in one game.  
 __navigate__ :five: To carefully and skillfully manage or deal with something that is complex, challenging, or difficult. To successfully manage or work through a difficult or complex situation. _I’m not sure how to navigate this awkward conversation with my boss about a raise._ _Navigating difficult relationships._ _Navigating life._  
 __nebbish__ A weak, submissive, pitiful person, especially a man. Adapted from the Yiddish word _nebekh_. _He’s just a sniveling nebbish, not a real man like you._  
+__necessary evil__  
 __neck and neck__ :two::hammer:  
 __neck of the woods__ :two: A neighborhood or nearby area; the area around where one lives.  
 __need (something) (about) as much as (one) needs a hole in the head__ To have absolutely no need or use for something. _I’m perfectly happy having a cell phone that just makes phone calls—I need a fancy new smartphone about as much as I need a hole in the head._  
@@ -3856,6 +3863,7 @@ __not know (someone) from a bar of soap__ To be completely unaware of or know no
 __not know (someone) from Adam__ :two: Not to know someone by sight at all. _I wouldn’t recognize John if I saw him up close. I don’t know him from Adam._  
 __not miss a beat__  
 __not miss a thing__  
+__not much__  
 __not on my watch__ :two: That will not happen while I am in charge or on the lookout.  
 __not so fast__  
 __not the full shilling__ (UK) Rather stupid or unintelligent; slightly crazy or unhinged. _He’s not the full shilling if he thinks that plan is going to work._ _Of course he’s not the full shilling—he’s wearing pajamas at the beach!_ _I’m not quite the shillin (from the_ I’m going slightly _mad song)._  
@@ -3908,6 +3916,7 @@ __off key__
 __off the charts__  
 __off the clock__ :two::hammer:  
 __off the cuff__ (off-the-cuff) Casually and spontaneously; without planning or preparation. Often hyphenated.  
+__off the grid__  
 __off the hook__ :three::hammer: _I let you off the hook._  
 __off the rails__ In an abnormal or malfunctioning condition, as in _Her political campaign has been off the rails for months._ The phrase occurs commonly with go, as in _Once the superintendent resigned, the effort to reform the school system went off the rails._ This idiom alludes to the rails on which trains run; if a train goes off the rails, it stops or crashes.  
 __off to the races__ :three: An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting. _The tour bus is out in front waiting and we’ve said goodbye to everyone. Looks like we’re off to the races._  
@@ -3946,6 +3955,7 @@ __on a high horse__ To act as if you are better than other people.
 __on a lark__ :three: On a whim or fancy; for fun or as a joke. _On a lark, I skipped school and drove to the beach._  
 __on a lighter note__ Used as a means of segueing to some topic of discussion that is less serious or more positive.  
 __on a mission__ :two::hammer: _On a mission to close the skills gap by unlocking work-based learning opportunities for all._  
+__on a pedestal__  
 __on a roll__ :four::hammer: _I’m on a roll._  
 __on a side note__ :two: Parenthetically or incidentally; by the way; in addition to but less important than what was just being discussed.  
 __on a tear__ :three: __1__ _slang_ A spree, binge, or indulgence of intense or prolonged alcohol consumption. _A: I didn’t expect Pete to be drunk already! B: Oh, he’s been on a tear all day._ __2__ _slang_ A sudden showing or burst of intense energy or activity. _The team looked a little sluggish in the first half, but they have been on an absolute tear in the second._ _The stock has been on a tear._ _The U.K. labor market is on a tear._  
@@ -3998,7 +4008,7 @@ __on the button__ Exactly right; in exactly the right place; at exactly the righ
 __on the cards__ :two: Very likely or certain to happen, occur, or take place. _They’ve played very well, but it doesn’t look like a championship title is on the cards for this team today._ _She wants to get a promotion but it doesn’t seem to be on the cards right now._  
 __on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
 __on the contrary__ :dart::three::hammer:  
-__on the cusp__  
+__on the cusp__ :two:::hammer:  
 __on the defensive__ :two: Prepared to withstand or counter aggression or attack.  
 __on the down low__ __1__ In a state of secrecy or minimal public knowledge; being known only by a select few people. _Keep this on the down low, but Janet is planning to break up with Kevin next week._ __2__ In a state of secrecy or minimal public knowledge pertaining to the activities of a man who has sex with other men but considers himself to be heterosexual. _I never thought he was gay, but then I started to hear rumors that he’s on the down low._  
 __on the face of it__ :two::hammer: _That seems totally bizarre on the face of it._  
@@ -4032,7 +4042,7 @@ __on the same page__ To agree on something.
 __on the shelf__  
 __on the sidelines__ :two: If you are _on the sidelines_ in a situation, you watch it happening but are not directly involved and cannot influence it. _France no longer wants to be left on the sidelines when critical decisions are taken._  
 __on the sly__ _adv_ :five: Slyly, in an inconspicuous manner, so as not to be seen; secretly; stealthily. _She was drinking on the sly._ _Syn_ in secret, secretly, furtively, stealthily _They’re flicking through their smartphone notifications on the sly._ _Stealing kisses from me on the slide._  
-__on the spot__  
+__on the spot__ :two::hammer:  
 __on the spur of the moment__  
 __on the table__ :two::hammer:  
 __on the tip of your tongue__ About to be said or almost remembered.  
@@ -4060,7 +4070,7 @@ __one man’s trash is another man’s treasure__
 __one of a kind__  
 __one on one__  
 __one side__ Move aside! Get out of the way! (Short for “move to one side.”) _One side, little man! I’m in a rush, and you’re getting in my way!_  
-__one size fits all__ Supposedly well-suited to any situation, as of a product, method, solution, etc. Often hyphenated. _We must move away from a “one size fits all” approach._  
+__one size fits all__ :two: Supposedly well-suited to any situation, as of a product, method, solution, etc. Often hyphenated. _We must move away from a “one size fits all” approach._  
 __one step at a time__  
 __one too many__ :two::hammer: _We drank one too many._  
 __one way or another__ :four::hammer: _If I fail then it will cost me my head one way or another._  
@@ -4072,7 +4082,7 @@ __one-of-a-kind__ :three::hammer: _One-of-a-kind experience._
 __one-off__ :three::hammer:  
 __one-on-one__ :three::hammer:  
 __one-trick pony__ _n_ A person or thing considered as being limited to only one single talent, capability, quality, etc.  
-__one-up (someone)__ To make a point of outdoing, outperforming, outclassing, etc., someone. _I hate telling stories around Jack because he always tries to one-up you with some fabulous anecdote of his own._  
+__one-up (someone)__ :three: To make a point of outdoing, outperforming, outclassing, etc., someone. _I hate telling stories around Jack because he always tries to one-up you with some fabulous anecdote of his own._  
 __one’s other half__ :two::hammer:  
 __only fair__ The right thing. _It’s only fair to tell him the truth._  
 __oodles__ :dart::two: _slang_ A lot; a large amount or volume. _I’ll have oodles of time during my retirement, so I’m planning on taking up a hobby._  
@@ -4102,6 +4112,7 @@ __out of character__ :two::hammer:
 __out of curiosity__ :two: A phrase that is used to indicate that a person is asking a question or seeking information out of a genuine desire to know more about something, rather than for any specific or practical purpose.  
 __out of date__  
 __out of harm’s way__  
+__out of here__ _informal_ (outta here) Used to say that one is leaving. _It’s five o’clock, so I’m out of here._  
 __out of house and home__ Evicted; no longer having a place to live. _If my wife loses her job like so many of her co-workers, we’ll be out of house and home for sure._  
 __out of kilter__ :two: _Out of kilter with the times._  
 __out of left field__ Uncommon, unpopular, or otherwise strange. _Well, that suggestion is certainly out of left field! How did you come up with that one?_  
@@ -4416,6 +4427,7 @@ __put a spoke in (one’s) wheel__
 __put all of your eggs in one basket__  
 __put an end to (something)__  
 __put back__ :two: __2__ To stall, delay, or postpone something until a later time or date. In this usage, a noun or pronoun can be used between “put” and “back.” _They decided to put back the release date of their war film as a sign of respect to the victims of the attack._  
+__put down__ __2__ _v_ To insult, mock, belittle, or disparage one.  
 __put food on the table__ :three: To earn enough money to provide the basic necessities for oneself and (often) one’s family. _With my hours at work being cut so dramatically, I just don’t know how I’ll be able to put food on the table._  
 __put forth__  
 __put forward__ To suggest, offer, or propose someone or something for consideration. A noun or pronoun can be used between “put” and “forward.”  
@@ -4431,6 +4443,7 @@ __put on weight__ To become heavier by gaining muscle mass or fat tissue. _I kee
 __put our heads together__ To discuss or plan something together with other people.  
 __put out fires__ :three::hammer:  
 __put out__ :two::hammer: _Put out the fires._  
+__put pressure on (one)__  
 __put someone or something down__  
 __put that demon to rest__  
 __put the brakes on (someone or something)__ To slow, impede, or stop someone’s or something’s progress or activities.  
@@ -4521,6 +4534,7 @@ __red hot__ :two::hammer: _Now the market is red hot._
 __red line__ :two::hammer:  
 __red pill__ :two::hammer:  
 __red tape__ :seven::hammer:  
+__red team__  
 __red-faced__ __1__ Blushing from embarrassment. _I was completely red-faced when the teacher made me speak in front of the whole class._  
 __redeye__ An overnight flight that arrives at its destination very early in the morning. _My original flight was cancelled, so I caught the redeye back to Philadelphia and got in at four in the morning._ _I boarded a red-eye back to New York._  
 __redound on (someone or something)__  
@@ -4528,7 +4542,7 @@ __reduce (one) to tears__
 __reel off__  
 __refer someone to someone or something__ To direct someone to someone or something; to send someone to someone or something.  
 __refer to (someone or something)__  
-__refrain from (doing something)__ To make a considered, conscious effort not to do something.  
+__refrain from (doing something)__ :dart::two: To make a considered, conscious effort not to do something. _I ask everyone to refrain from asking questions until the end of the presentation._  
 __regardless of (something)__  
 __reinvent (oneself)__ :three: To create a new style or persona for oneself; to change one’s pursuits, way of life, etc. _As a teenager, I was always trying to reinvent myself to be cooler or more mysterious._ _If you’re feeling stuck in a rut with your job, maybe it’s time to reinvent yourself._  
 __reinvent the wheel__  
