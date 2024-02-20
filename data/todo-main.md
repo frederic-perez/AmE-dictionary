@@ -198,31 +198,6 @@ __shortage__ _n_ /ˈʃɔr tɪdʒ/
 __spinal column__ _n_ _Syn_ spine, vertebral column, backbone  
 __Suez Canal__ _n_  
 __uncover__  
-__underway__ _adj_  
-__undeterred__ _adj_  
-__uneasy__ _adj_  
-__unfold__ _v_ __2__ To reveal or be revealed: _the truth unfolds._  
-__unrequited__  
-__upfront__ _adj_ :dart: __1__ Straightforward; frank. __2__ Paid or due in advance: _upfront cash._  
-__valentine__  
-__varix__ _n_ /ˈvɛər ɪks/ (_n pl_ varices) __1__ An abnormally dilated or swollen vein, artery, or lymph vessel.  
-__vegetate__ _v_ __3b__ To engage in relaxing or passive activities, such as watching television: _stayed home and vegetated last night._  
-__victory parade__ _n_  
-__victory speech__  
-__wander__ _n_ The act or an instance of wandering.  
-__war crime__ _n_  
-__warship__ _n_  
-__watchdog__ _n_  
-__weasel<sup>1</sup>__ _n_ /WEE-zuhl/ __1__ Any of various small slender carnivorous mammals of the genus Mustela. __2__ A sneaky, cunning person.  
-__weasel<sup>2</sup>__ _vi_ :dart: __1__ To evade an obligation. __2__ To be evasive by using ambiguous or misleading words.  
-__winery__ _n_ /ˈwaɪ nə ri/ :es: bodega  
-__woke__  
-__wound__ _n_  
-__wow__ _vt_ To have a strong, usually pleasurable effect on: _a performance that wowed the audience._  
-__wrenching__ _adj_ Causing great physical or mental suffering. _ABC News went through a wrenching round of layoffs._  
-__wriggle__ _v_  
-__wring__ _v_ _It pays to wring your hands at least a little bit._  
-__writ__ _n_  
 __write-up__ _n_  
 __wrongdoing__ _n_ :two::hammer:  
 __wrung__ _v_ _They have wrung their hands._  

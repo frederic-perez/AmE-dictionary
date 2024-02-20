@@ -19735,12 +19735,13 @@ __understudy__ _v_
 __undertake__ _v_ :four::hammer: _A video of cyclists overtaking and undertaking a horse rider._ _He agreed to undertake the great riddance._  
 __undertaker__ _n_  
 __undertow__  
+__underway__ _adj_  
 __underwhelm__ _v_ :two: To fail to excite, stimulate, or impress.  
 __underwhelming__ _adj_ :dart::three::hammer: Failing to make a positive impact or impression; disappointing.  
 __underworld__ _n_ Criminals and their associates considered collectively.  
 __underwrite__ _v_ :five::hammer: (underwriting)  
 __underwriter__  
-__undeterred__  
+__undeterred__ _adj_ :two::hammer:  
 __undies__  
 __undimpled__  
 __undisturbed__ _v_  
@@ -19755,6 +19756,7 @@ __undulation__ _n_
 __unduly__ _adv_ :nine::m: Excessively; immoderately: _unduly familiar with strangers._ _I wasn’t unduly worried._  
 __unearth__ _v_ :five::hammer: (unearthed)  
 __uneasy calm__ _phr_ :es: calma tensa _People waited to see whether an uneasy calm would last._  
+__uneasy__ _adj_  
 __unencumbered__ _adj_ :two: /ˌʌnɪnˈkʌmbəd/ Not burdened, impeded, or hampered. _Unencumbered love._ _Now you can travel unencumbered._  
 __unequaled__ _adj_  
 __unequivocal__ _adj_ :two: /ˌʌnɪˈkwɪvəkəl/ Admitting of no doubt or misunderstanding; clear and unambiguous: _an unequivocal success._  
@@ -19771,7 +19773,7 @@ __unfettered__ _adj_ :nine::m: /ʌnˈfɛtəd/ /un-FET-erd/ Not kept under retrai
 __unflagging__ _adj_ :two::hammer:  
 __unflappable__ _adj_ :seven::hammer: _Jim was unflappable._ _Unflappable team._  
 __unflinching__ _adj_ :three: Showing neither fear nor indecision; resolute. _Syn_ unintimidated, unshrinking, unblinking  
-__unfold__ _v_ :eight::hammer: _Mysteries unfold._  
+__unfold__ _v_ :nine::hammer: __2__ To reveal or be revealed: _the truth unfolds._ _Mysteries unfold._  
 __unforeseen__ _adj_ _Unforeseen difficulties._  
 __unforgiving__ _adj_  
 __unfrock__ _v_ To deprive of ecclesiastical rank, authority, and function; depose: _an unfrocked priest._  
@@ -19824,7 +19826,7 @@ __unrecognizable__ _adj_
 __unrelenting__ _adj_ :four::hammer:  
 __unremitting__ _v_  
 __unrepentant__ _adj_ :five: Having or exhibiting no remorse.  
-__unrequited__ _adj_ :three: Not given, rewarded, or felt in return: _unrequited love._ _Her unrequited crush._  
+__unrequited__ _adj_ :four: Not given, rewarded, or felt in return: _unrequited love._ _Her unrequited crush._  
 __unrestrained__  
 __unruffled__ _adj_ _An unruffled commander._  
 __unruly__ _adj_ :nine: Difficult or impossible to discipline, control, or rule. _Unruly campaign speeches._  
@@ -19895,7 +19897,7 @@ __upend<sup>1</sup>__ _vt_ :nine::m: __1__ To stand, set, or turn on one end: _u
 __upend<sup>2</sup>__ _vi_ __1__ To become upended. __2__ To place the body back-end up, as a dabbling duck.  
 __upended__ _adj_ :five: Turned up on end. _Syn_ perpendicular, vertical  
 __upfield__  
-__upfront__ _adj_ :three::hammer:  
+__upfront__ _adj_ :dart::four: __1__ Straightforward; frank. __2__ Paid or due in advance: _upfront cash._  
 __upheaval__ _n_ :nine::m: /ʌpˈhi vəl/ A state of violent disturbance and disorder (as in politics or social conditions generally).  
 __uphill<sup>1</sup>__ _adj_ :two::hammer: _An uphill task._  
 __uphill<sup>2</sup>__ _adv_ _I didn’t have to fight uphill._  
@@ -20012,7 +20014,7 @@ __valedictorian<sup>1</sup>__ _n_ :eight: (valedictorians) A student, usu. the o
 __valedictorian<sup>2</sup>__ _adj_ _Valedictorian speech._  
 __valedictory__ _n_ :three: A closing or farewell statement or address, especially one delivered at graduation exercises.  
 __valence__ _n_ :two::hammer:  
-__valentine__ _n_ :two: __1a__ A sentimental or humorous greeting card sent to a sweetheart, friend, or family member, for example, on Saint Valentine’s Day. __b__ A gift sent as a token of love to one’s sweetheart on Saint Valentine’s Day. __2__ A person singled out especially as one’s sweetheart on Saint Valentine’s Day.  
+__valentine__ _n_ :three: __1a__ A sentimental or humorous greeting card sent to a sweetheart, friend, or family member, for example, on Saint Valentine’s Day. __b__ A gift sent as a token of love to one’s sweetheart on Saint Valentine’s Day. __2__ A person singled out especially as one’s sweetheart on Saint Valentine’s Day.  
 __valet__ _n_  
 __valiant<sup>1</sup>__ _adj_  
 __valiant<sup>2</sup>__ _n_ :two::hammer:  
@@ -20049,6 +20051,7 @@ __variegate__ _v_ Make something more diverse and varied. _Syn_ vary
 __variegated__ _adj_ __1__ Marked with patches or spots of different colors. __2__ Varied; diverse.  
 __variety store__  
 __variola__ _n_ An acute, highly infectious, often fatal disease caused by a poxvirus and characterized by high fever and aches with subsequent widespread eruption of pimples that blister, produce pus, and form pockmarks. _Syn_ smallpox  
+__varix__ _n_ /ˈvɛər ɪks/ (_n pl_ varices) __1__ An abnormally dilated or swollen vein, artery, or lymph vessel.  
 __varlet__ _n_  
 __varmints__  
 __varnish__ _n_  
@@ -20071,6 +20074,7 @@ __veep__ _n informal_ A vice president.
 __veer__ _v_ :two::hammer:  
 __veg<sup>1</sup>__ _n_ :two: Vegetable. _Eat five servings of fruit or veg each day._  
 __veg<sup>2</sup>__ _vi_ To engage in relaxing or passive activities. Often used with out.  
+__vegetate__ _v_ __3b__ To engage in relaxing or passive activities, such as watching television: _stayed home and vegetated last night._  
 __veggie__ _n informal_ :two: A vegetable. _Holiday veggie roast._  
 __veggies__ _n pl_ _slang_ Vegetables.  
 __vehicle__ _n_ :mute:[ve~~h~~icle]  
@@ -20174,6 +20178,8 @@ __victimhood__
 __victimize__ _vt_ :dart: Cause to suffer unfairly. _In an earthquake you’re victimized._  
 __victor__ _n_ :three::hammer: _Seward became the righthand man of the victor, Abraham Lincoln._  
 __victory lap__ _n_  
+__victory parade__ _n_  
+__victory speech__  
 __victual<sup>1</sup>__ _n_ :three::mega: /ˈvɪtəl/ [:scroll: From Latin victualia (provisions), from victus (nourishment), past participle of vivere (to live).] Food, especially food fit for human consumption.  
 __victual<sup>2</sup>__ _vt_ To provide with food.  
 __victual<sup>3</sup>__ _vi_ To obtain food or to eat.  
@@ -20341,7 +20347,8 @@ __walrus mustache__ _n_ A bushy, drooping mustache.
 __wamble__ _v_ Move unsteadily or with a weaving or rolling motion. _As John wambled into the kitchen for his morning coffee, his head pounding and stomach reeling, he made a silent vow never to get drunk again._  
 __wan__ _adj_ :four::hammer: _A wan reception._  
 __wand__ _n_  
-__wander__ _v_ :two::hammer: _Let’s wander slowly through the fields, the fields of joy._  
+__wander<sup>1</sup>__ _n_ The act or an instance of wandering.  
+__wander<sup>2</sup>__ _v_ :two::hammer: _Let’s wander slowly through the fields, the fields of joy._  
 __wanderlust__ _n_ :five: Very strong or irresistible impulse to travel. _Syn_ itchy feet _His wanderlust would not allow him to stay long in one spot._  
 __wanderwort__ _n_ A loanword that has spread to many different languages, often through trade or the adoption of foreign cultural practices.  
 __wane__ _v_ :six::hammer: (waning) _The waning hours._ _Protection from two doses of vaccine wanes within six months._ _Covid-19 vaccination: evidence of waning immunity is overstated._  
@@ -20355,6 +20362,7 @@ __wanting<sup>2</sup>__ _prep_ __1__ Without; missing: _a shirt wanting a button
 __wanton<sup>1</sup>__ _adj_ :nine: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ _The army inflicted wanton damage in order to provoke._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
 __wanton<sup>2</sup>__ _v_  
 __war correspondent__ _n_ A journalist who reports on a war from the scene of action. _Our journalists are not experienced war correspondents._  
+__war crime__ _n_  
 __war criminal__ _n_  
 __war hawk__ _n_ /WAR hawk/ One who advocates war, military intervention, or other aggressive measures.  
 __War of Attrition__ _n_  
@@ -20381,6 +20389,7 @@ __warrant<sup>2</sup>__ _v_ :seven: As a verb, it means to make something seem r
 __warren__ _n_ :two::hammer: _A warren of hares._ _It was like a rabbit warren._  
 __warring__ _adj_ _The warring sides._  
 __Warsaw__ _n_ :mega:  
+__warship__ _n_  
 __wartime__ _n_ :pencil2:  
 __wary__ _adj_ :two::hammer: _He is wary of the situation._  
 __wasabi__ _n_  
@@ -20405,7 +20414,7 @@ __wasted__ _adj_ :two: __5__ _slang_ Drunk or intoxicated.
 __wastewater__ _n_ :pencil2:  
 __wastrel__ _n_ :three: One who wastes, especially one who wastes money; an idler or a loafer. _Syn_ prodigal, profligate _Despite his parents’ best efforts to teach him responsibility, Sam grew up to be a wastrel who squandered his entire fortune._  
 __watch caps__  
-__watchdog__ _n_ :three: __1__ A dog kept to guard property. __2a__ A person or group of persons that acts as a protector or guardian against inefficiency, illegal practices, etc. _A safety watchdog._ _Privacy watchdogs are calling on the Federal Trade Commission to investigate._ __b__ (as modifier): _a watchdog committee._  
+__watchdog__ _n_ :four: __1__ A dog kept to guard property. __2a__ A person or group of persons that acts as a protector or guardian against inefficiency, illegal practices, etc. _A safety watchdog._ _Privacy watchdogs are calling on the Federal Trade Commission to investigate._ __b__ (as modifier): _a watchdog committee._  
 __watchtower__ _n_ :pencil2:  
 __watchword__ _n_ :six: A slogan used to rally support for a cause. _Syn_ cry _“Fight and fall, but fly not,” that was our watchword._ _“Quick and dirty” was the watchword._  
 __water buffalo__  
@@ -20450,8 +20459,8 @@ __weaponize__ _v_ :nine::hammer:
 __weaponsmith__ _n_  
 __wearily__  
 __weary__ _adj_ :three::hammer:  
-__weasel<sup>1</sup>__ _n_ :dart::two: __1__ Any of various carnivorous mammals of the genus _Mustela_. :es: comadreja __2__ A person regarded as sneaky or treacherous.  
-__weasel<sup>2</sup>__ _vi_ :two: To use evasive or deliberately vague language. _Example weasel words include ‘Processor’, ‘Manager’, and ‘Super’._  
+__weasel<sup>1</sup>__ _n_ :dart::three: /WEE-zuhl/ __1__ Any of various carnivorous mammals of the genus _Mustela_. :es: comadreja __2__ A person regarded as sneaky or treacherous.  
+__weasel<sup>2</sup>__ _vi_ :dart::three: __1__ To evade an obligation. __2__ To be evasive by using ambiguous or misleading words. _Example weasel words include ‘Processor’, ‘Manager’, and ‘Super’._  
 __weather vane__ _n_ :two: /WETH-uhr vayn/ __1__ A device having a pointer rotating on a vertical spindle, used to indicate the direction of the wind. __2__ Someone or something constantly changing.  
 __weather__ _vt_ :five::hammer: (weathering) __3__ To come through (something) safely; survive: _weather a crisis._  
 __weathered__ _adj_ :two::hammer:  
@@ -20736,6 +20745,7 @@ __windstorm__
 __windsuit__ _n_ A bodysuit with fabric between the legs and between each arm and the body, allowing skydivers and base jumpers to glide at a relatively gentle angle of descent before opening a parachute to land.  
 __windup__ _adj_ _It was a cheap, windup alarm clock._  
 __wine list__ _n_ _The wine list._ :es: la carta de vinos  
+__winery__ _n_ /ˈwaɪ nə ri/ :es: bodega  
 __wineskin__ _n_ _He took a sip from his wineskin._  
 __wing it__ _v_ _informal_ :astonished: To perform or speak without rehearsal; to improvise.  
 __wing__ _v_ :two::hammer: _I wing my way across the continents._  
@@ -20813,7 +20823,7 @@ __woe__ _n_ :four: (woes) Misfortune; calamity: _economic and political woes._ _
 __woeful__ _adj_ :four::hammer: _Our woeful train system._  
 __woefully__ _adv_ :six::hammer: _Her hand landed woefully on her forehead._ _Most of them are woefully unproductive, and tyrannize our offices._  
 __wogs__ _n_  
-__woke__ _adj_ :three: _slang_ Aware of the injustice of the social system in which one lives.  
+__woke__ _adj_ :four: _slang_ Aware of the injustice of the social system in which one lives.  
 __wolf__ _v_ To eat greedily or voraciously.  
 __wolfe range__  
 __woman__ _n_ /ˈwʊmən/ :mega:  
@@ -20904,9 +20914,10 @@ __wort__
 __worthwhile__ _adj_ :two: Sufficiently valuable or important to be worth one’s time, effort, or interest.  
 __would you be so kind as to__ _phr_ :es: sería tan amable de, tendría la bondad de  
 __would__ _v_ :mute:[wou~~l~~d]  
+__wound__ _n_  
 __woven__ _n_  
 __wow factor__  
-__wow__ _v_ :three::hammer:  
+__wow__ _vt_ :four: To have a strong, usually pleasurable effect on: _a performance that wowed the audience._  
 __wracked__ _v_ :two: (wracked, wracking) Smash or break forcefully.  
 __wraith__ _n_ :three: __1__ An apparition of a living person supposed to portend his or her death. __2__ A visible spirit. _Syn_ ghost  
 __wrangle__ _v_ :two::hammer: (wrangling)  
@@ -20926,20 +20937,20 @@ __wreck<sup>2</sup>__ _v_ :four::mute:[~~w~~reck]:hammer:
 __wrecking ball__  
 __wrench<sup>1</sup>__ _v_ :three::hammer: (wrenched) _My mother reached up and wrenched my ear._ _Kristof had a wrenched thumb from the fight._ _Pulling the plug was wrenching._  
 __wrench<sup>2</sup>__ _n_ (monkey wrench)  
-__wrenching__ _adj_ _A wrenching prospect._  
+__wrenching__ _adj_ :two: Causing great physical or mental suffering. _ABC News went through a wrenching round of layoffs._ _A wrenching prospect._  
 __wrestle with__ _phr v_ To try hard to find the solution to a difficult problem.  
 __wrestle__ _v_ :two::hammer::mute:[~~w~~restle]:mute:[wres~~t~~le] _Admiral Smith wrestled with the decision of when to enter the gulf._  
 __wretch__ _n_ :three: A person pitied for his misfortune. _Syn_ poor devil _If the poor wretch waked in the flames and perished, no one cared._ _The lowliest wretch among them._  
 __wretched__ _adj_ :two::hammer:  
 __wrethes__  
-__wriggle__  
+__wriggle__ _v_ :two::hammer:  
 __wriggling__ _adj_ :two: Moving in a twisting or snake-like or wormlike fashion. _A snake pit of wriggling fragments._  
 __wring out__ _v_ _She finished wringing out the jeans and shut off the water._  
-__wring__ _v_ :six::hammer: (wringing) _The Feds just keeps wringing its hands._  
+__wring__ _v_ :seven::hammer: (wringing) _The Feds just keeps wringing its hands._ _It pays to wring your hands at least a little bit._  
 __wringer__ _n_ :three::hammer: _Run through the wringer._  
 __wrinkle__ _v_ :five::mute:[~~w~~rinkle]:hammer: (wrinkled, wrinkling) _His brow wrinkled in thought._  
 __wrist__ _n_ :mute:[~~w~~rist]  
-__writ__ _n_ :four::hammer: _Compulsory State writ._  
+__writ__ _n_ :five::hammer: _Compulsory State writ._  
 __write off__ _phr v_ :three: To accept that a debt or loan won’t be paid back. _Don’t write off Tiger just yet._  
 __write out__ _phr v_ To write something on paper with all the necessary details.  
 __write up__ _phr v_ :three: To write something using notes that you wrote earlier.  
