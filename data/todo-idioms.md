@@ -2,9 +2,10 @@ __(Are) you kidding (me)?__ :four::hammer:
 __a clear future__ “A clear picture” is an idiomatic expression that means a complete and accurate understanding or representation of something.  
 __a-ha moment__  
 __alongside of (someone or something)__  
+__an uphill battle__  
 __be all about (someone, something, or oneself)__  
 __be better off__  
-__be under way__  
+__be under way__ :two::hammer:  
 __beat (oneself) up__ To continually criticize or question oneself, usually about something that one cannot change.  
 __bloodbath__  
 __break out__ __5__ _v_ To occur unexpectedly and intensely. _We knew it was time to leave the club when a fight broke out between guys at the bar._  
@@ -20,6 +21,7 @@ __cold, hard cash__ Dollar bills and coins, as opposed to checks or credit. _The
 __collude with (someone or something)__  
 __come a long way__ To make significant progress. Almost always used in the present perfect tense (“have/has come a long way”).  
 __come to light__  
+__come together__  
 __common ground__  
 __comply with (something)__ To follow or adhere to a particular rule or regulation.  
 __conventional wisdom__  
@@ -28,6 +30,7 @@ __correct me if I’m wrong__ Used to introduce a piece of information one belie
 __cosleep__ Of a parent, to sleep in the same bed or room as one or more of their small or infant children. _We’re going to try cosleeping once the baby is born._ _Co-sleeping was a factor in quarter of Scotland’s infant deaths in 2023._  
 __cost the earth__ To be exorbitantly expensive.  
 __count on (someone or something)__  
+__crack down__  
 __crank up__  
 __cut a deal__  
 __cut it__  
@@ -51,6 +54,7 @@ __fair game (for something)__
 __ferret out__ To discover or retrieve something, usually with careful effort. A noun or pronoun can be used between “ferret” and “out.” _Now that I’m a successful actress, I’m worried about what the media will ferret out about my tawdry past._  
 __fill up__  
 __finagle__  
+__fishing expedition__  
 __five o’clock shadow__  
 __flat-out__  
 __float an idea__ To suggest something in order to gauge interest in it or others’ perception of it.  
@@ -61,6 +65,8 @@ __free fall__
 __from the get-go__  
 __frosty__ __2__ _mod_ Cool; really cool and mellow. _That music is really frosty._  
 __game face__ __2__ An expression of stoicism intended to mask one’s emotions or intentions. _John put his game face on as soon as I started to break up with him, so I can’t really tell how he took the new._  
+__get into it__  
+__get it (all) together__  
 __give (one) the green light__ :two::hammer:  
 __go a long way__ :two::hammer:  
 __go down the toilet__ To fail; to be ruined or destroyed; to be squandered or wastefully discarded.  
@@ -97,7 +103,18 @@ __holy cow__
 __I kid you not__  
 __I know, I know__ A conversational phrase used to express that the speaker is aware of what the other person is saying or feeling, often to express empathy or understanding.  
 __if you will__  
+__in (high) hopes of (something)__  
 __in a new light__  
+__make (both) ends meet__  
+__make headway__ To make progress.  
+__north of (some number)__  
+__nose job__  
+__on the lookout__ Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
+__point of contact__ A person or entity one can seek to access information or services.  
+__quite a (something)__  
+__rain or shine__  
+__run through (something)__ __4__ To guide one through or inform one of the process or details of something. In this usage, a noun or pronoun is used between “run” and “through.” _Can you run me through the plan one more time?_  
+__scavenger hunt__  
 __set the tone__  
 __shift gears__  
 __shore up__ :dart:  
@@ -122,9 +139,11 @@ __sorry to say__ Regretfully; unfortunately. _The film had a lot of potential, b
 __spin doctor__  
 __steal (one’s) thunder__ Use or appropriate another’s idea, especially to one’s advantage, as in _It was Harold’s idea but they stole his thunder and turned it into a massive advertising campaign without giving him credit._ This idiom comes from an actual incident in which playwright and critic John Dennis (1657-1734) devised a “thunder machine” (by rattling a sheet of tin backstage) for his play, _Appius and Virginia_ (1709), and a few days later discovered the same device being used in a performance of _Macbeth_, whereupon he declared, “They steal my thunder.”  
 __strong words__ :two::hammer:  
+__suspend (one’s) disbelief__  
 __sweet spot__  
 __take (someone or something) for granted__  
-__take (someone, something, or some place) by storm__  
+__take (someone, something, or some place) by storm__ :two::hammer:  
+__tap into (something)__  
 __the bigger picture__  
 __the holy grail of (something)__  
 __the little things__  
@@ -133,6 +152,7 @@ __there you have it__
 __think tank__  
 __tinker with__  
 __to the core__ Fully or completely; in the most essential or inherent way.  
+__uncharted territory__  
 __unmet need__ An “unmet need” refers to a gap between an individual’s desired condition or goal and their current situation. It implies that there is a necessity or requirement that has not been satisfied or addressed. Unmet needs can occur in various aspects of life, including physical, emotional, social, and psychological dimensions.  
 __up and running__  
 __weigh in__ :two: __3__ To give one’s opinion or analysis of something during a discussion.  
