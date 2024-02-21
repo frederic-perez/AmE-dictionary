@@ -1,10 +1,12 @@
 __absolve__ _v_ /ub-ZAHLV/  
 __advisory panel__ _n_ A group of experts that advises the FDA in the approval process for new and/or previously unapplied technologies, and recommends the class into which such products should be categorised.  
 __America__ _n_ :mega: /əˈmɛrɪkə/  
+__anaphylactic__ _adj_  
 __anecdotally__ _adv_ In an anecdotal manner. _Anecdotally speaking, I can attest to the fact that reading music is no joke._  
 __attributable__ _adj_  
 __awry__ _adv_ /əˈraɪ/  
 __backlash__ _n_  
+__battlefield__ _n_  
 __betrothed__  
 __blatant__  
 __bode__ _v_  
@@ -12,6 +14,7 @@ __bravado__
 __bubble__ _v_ _If it bubbles you have a leak._  
 __bullet__ _n_ :mega: /ˈbʊl ɪt/  
 __burgeoning__  
+__burpee__ _n_ /ˈbɜːpiː/  
 __burst__ _v_  
 __bussin’__ _adj_ Great; wonderful; amazing.  
 __bustle__ _adj, v_  
@@ -39,6 +42,7 @@ __cluck__ _n_
 __co-opt__ _vt_  
 __cold turkey__  
 __comfy__ _adj_ /ˈkʌmfɪ/ _informal_ Short for comfortable. _Don’t get too comfy._  
+__commensurate__ _adj_  
 __compound__ _v_  
 __conjubilant__ _adj_ Shouting together with joy.  
 __consign__ _v_ To give over to the care of another; entrust. _Syn_ charge  
@@ -51,6 +55,7 @@ __cozy__ _adj_ Relating to a genre of mystery stories with little suspense, expl
 __crease__ _v_  
 __crepitation__ _n_  
 __cue ball__ _n_  
+__cue__ _n_ :es: taco  
 __curb__ _vt_  
 __cursory__ _adj_  
 __dandelion__ _n_  
@@ -77,6 +82,7 @@ __discharge__ _vt_ __1__ To release or allow to go: _the hospital discharged the
 __dispensation__ _n_  
 __docuseries__ _n_ :two: A documentary, or a collection of documentaries, presented as a series.  
 __dogshit__  
+__dune__ _n_ /dun, dyun/  
 __dysarthria__ _n_ Difficulty in articulating words, caused by impairment of the muscles used in speech.  
 __encourage__ _vt_ /ɪnˈkʌrɪdʒ/ /ɛnˈkɜr ɪdʒ, -ˈkʌr-/  
 __endpoint__ _n_ In clinical trials, a variable linked to the efficacy (e.g., prolongation of survival) or safety issue of the trial.  
@@ -131,15 +137,20 @@ __hitman__ _n slang_
 __hourlong__ _adj_  
 __humanitarian corridor__ _n_  
 __illustrate__ _v_  
+__incarcerate__ _vt_ /ɪnˈkɑr səˌreɪt/  
 __jellyfish__ _n_ :es: medusa  
 __juvenile__ _adj, n_  
 __lavabo__ _n_ A basin for washing the hands. _Syn_ handbasin, washbasin, washbowl _The priest washed his hands in the metal lavabo before saying Mass._  
 __levity__ _n_  
 __loggerhead__ _n_ __1__ A thick-headed or stupid person; blockhead.  
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
-__misgiving__ _n_  
+__lost and found__ _n_  
+__misclassification__ _n_ :pencil2:  
+__misgiving__ _n_ :two::hammer:  
 __misinformation__ _n_  
 __mudslide__ _n_  
+__namely__ _adv_  
+__nutria__ _n_  
 __opponent__ _adj, n_ :mega:  
 __ouster__ _n_  
 __outbid__ _vt_  
@@ -154,6 +165,7 @@ __paling__ _n_ A fence made of upright pickets. _Syn_ picket fence
 __paravalvular__ _adj_ Surrounding or adjacent to a heart valve.  
 __pardon__ _v_  
 __pareidolia__ _n_ The perception of a recognizable image or meaningful pattern where none exists or is intended, as the perception of a face in the surface features of the moon.  
+__peanut allergy__ _n_  
 __penny candy__ _n_ Inexpensive candy originally costing a penny apiece.  
 __pergola__ _n_ An arbor or a passageway of columns supporting a roof of trelliswork on which climbing plants are trained to grow. _Syn_ arbor, bower  
 __permafrost__ _n_  
@@ -179,6 +191,7 @@ __restraint__ _n_
 __resurgence__ _n_  
 __rife__ _adj_  
 __rigorous__ _adj_  
+__ringleader__ _n_ /ˈrɪŋˌliːdə/ A person who leads others in any kind of unlawful or mischievous activity. :es: cabecilla  
 __robocall__ _n_  
 __romanticize__ _v_ :two::hammer:  
 __rumble__ _vi_ __3__ _slang_ To engage in a gang fight.  
@@ -194,10 +207,16 @@ __seasoned__ _adj_
 __secretary__ _n_ :mega: /ˈsɛk rɪˌtɛr i/  
 __self-doubt__ _n_ A lack of faith or confidence in oneself.  
 __semiretired__ _adj_ Working only on a part-time basis, as for reasons of ill health or advanced age.  
+__sex__ _n_ (_n pl_ sexes)  
 __shortage__ _n_ /ˈʃɔr tɪdʒ/  
 __spinal column__ _n_ _Syn_ spine, vertebral column, backbone  
+__storm__ _v_ __2__ To behave or shout angrily; rant and rage: _stormed at his incompetence._  
+__subsidy__ _n_  
 __Suez Canal__ _n_  
+__Sullivan__ _n_ :mega: /ˈsʌl ə vən/  
+__Uncle Sam__  
 __uncover__  
+__work day__ _n_  
 __write-up__ _n_  
 __wrongdoing__ _n_ :two::hammer:  
 __wrung__ _v_ _They have wrung their hands._  
