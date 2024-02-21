@@ -1,13 +1,15 @@
-__(Are) you kidding (me)?__ :two::hammer:  
+__(Are) you kidding (me)?__ :four::hammer:  
 __a clear future__ “A clear picture” is an idiomatic expression that means a complete and accurate understanding or representation of something.  
+__a-ha moment__  
 __alongside of (someone or something)__  
+__be all about (someone, something, or oneself)__  
 __be better off__  
 __be under way__  
 __beat (oneself) up__ To continually criticize or question oneself, usually about something that one cannot change.  
 __bloodbath__  
 __break out__ __5__ _v_ To occur unexpectedly and intensely. _We knew it was time to leave the club when a fight broke out between guys at the bar._  
 __bummer__ __3__ _adj_ Describing someone or something unpleasant. _Oh, it was a bummer party—you didn’t miss anything._  
-__cash in__  
+__cash in__ :two::hammer:  
 __chip away__  
 __chitchat__ __2__ _n_ An instance of idle or casual chatter. _We’re just having a chitchat, come on in._  
 __clinch__ _vt_ /klɪntʃ/ To settle something; to make something final. _I was able to clinch the deal, and I got a raise for it._  
@@ -29,7 +31,7 @@ __count on (someone or something)__
 __crank up__  
 __cut a deal__  
 __cut it__  
-__cut off__ __2__ _v_ To abruptly move in front of another driver, either intentionally or unintentionally. In this usage, a noun or pronoun can be used between “cut” and “off.” _Can you believe that jerk cut me off like that? I nearly hit him!_  
+__cut off__ :two: __2__ _v_ To abruptly move in front of another driver, either intentionally or unintentionally. In this usage, a noun or pronoun can be used between “cut” and “off.” _Can you believe that jerk cut me off like that? I nearly hit him!_  
 __cut someone or something out__  
 __cut to the chase__  
 __dark cloud__  
@@ -59,7 +61,7 @@ __free fall__
 __from the get-go__  
 __frosty__ __2__ _mod_ Cool; really cool and mellow. _That music is really frosty._  
 __game face__ __2__ An expression of stoicism intended to mask one’s emotions or intentions. _John put his game face on as soon as I started to break up with him, so I can’t really tell how he took the new._  
-__give (one) the green light__  
+__give (one) the green light__ :two::hammer:  
 __go a long way__ :two::hammer:  
 __go down the toilet__ To fail; to be ruined or destroyed; to be squandered or wastefully discarded.  
 __go into overdrive__ To start working very hard or quickly.  
@@ -96,12 +98,21 @@ __I kid you not__
 __I know, I know__ A conversational phrase used to express that the speaker is aware of what the other person is saying or feeling, often to express empathy or understanding.  
 __if you will__  
 __in a new light__  
+__in and of itself__  
 __in full swing__ Well underway and operating at the highest possible level or pace.  
 __in one breath__ Very quickly, as of someone who is speaking (usually while very excited).  
+__move over__  
+__navigate__  
+__necessary evil__  
+__off the grid__  
+__peace of mind__  
+__pick up steam__  
+__right off the bat__ Immediately; at once; without delay.  
 __root out__  
 __rule of thumb__ A general principle developed through experiential rather than scientific means. An approximation; a suggested method or guideline. _A good rule of thumb is to plant your seedlings around the end of May._  
 __rule the roost__ To have the most control or authority in a group. _Both of our parents were tough, but Mama was as tough as an old shoe, who ruled the roost without saying a word._  
 __run down__  
+__run for (one’s) money__  
 __run out of patience__ To become unable to remain patient any longer.  
 __safeguard against (someone or something)__  
 __save (something) for a rainy day__  
@@ -115,6 +126,7 @@ __set in stone__
 __set the tone__  
 __shift gears__  
 __shore up__ :dart:  
+__shot to nothing__ _Snooker_ An attempted pot that is intended not to leave a possible pot for the opponent if missed.  
 __sick to (one’s) stomach__ Nauseated or vomiting.  
 __sidebar conversation__ _informal_ A conversation held privately between two people while one or more other people are already speaking.  
 __sign of the times__  
@@ -132,15 +144,23 @@ __slow and steady wins the race__
 __slowly but surely__  
 __smother (someone or something) with (something)__  
 __sorry to say__ Regretfully; unfortunately. _The film had a lot of potential, but, sorry to say, it falls flat in just about every way._  
+__spin doctor__  
 __steal (one’s) thunder__ Use or appropriate another’s idea, especially to one’s advantage, as in _It was Harold’s idea but they stole his thunder and turned it into a massive advertising campaign without giving him credit._ This idiom comes from an actual incident in which playwright and critic John Dennis (1657-1734) devised a “thunder machine” (by rattling a sheet of tin backstage) for his play, _Appius and Virginia_ (1709), and a few days later discovered the same device being used in a performance of _Macbeth_, whereupon he declared, “They steal my thunder.”  
+__strong words__ :two::hammer:  
+__sweet spot__  
+__take (someone or something) for granted__  
 __take (someone, something, or some place) by storm__  
 __the bigger picture__  
+__the holy grail of (something)__  
 __the little things__  
+__the nuts and bolts__ The most basic, fundamental, or essential aspects of something.  
+__there you have it__  
 __think tank__  
 __tinker with__  
 __to the core__ Fully or completely; in the most essential or inherent way.  
 __unmet need__ An “unmet need” refers to a gap between an individual’s desired condition or goal and their current situation. It implies that there is a necessity or requirement that has not been satisfied or addressed. Unmet needs can occur in various aspects of life, including physical, emotional, social, and psychological dimensions.  
-__weigh in__ __3__ To give one’s opinion or analysis of something during a discussion.  
+__up and running__  
+__weigh in__ :two: __3__ To give one’s opinion or analysis of something during a discussion.  
 __what if__  
 __what’s in store__ That which is awaiting or ahead (of one); that which is going to happen (for one).  
 __with a vengeance__ _Die Hard with a Vengeance._  
