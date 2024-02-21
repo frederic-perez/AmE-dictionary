@@ -98,31 +98,6 @@ __ex-con__ _n informal_ A former prisoner.
 __exacerbation__ _n_  
 __exhilarating__ _adj_ /ɪɡˈzɪləˌreɪtɪŋ/  
 __expire__ _v_  
-__expletive__ _adj, n_  
-__explicit__ _adj_ __3b__ Describing or portraying nudity or sexual activity in graphic detail. _AI-generated explicit images of Taylor Swift surfaced on X._  
-__extravagance__ _n_  
-__eye-opening__  
-__eye-watering__ _adj_  
-__façade__ _n_ (facade)  
-__fakeness__ _n_  
-__fallow land__ _n_  
-__fare evasion__  
-__fast-paced__ _adj_  
-__fatal__ _adj_ /ˈfeɪtəl/  
-__fiddle__ _v_  
-__fighter__ _n_ __2__ A fast, maneuverable combat aircraft used to engage enemy aircraft.  
-__figurehead__ _n_ :two: __1__ A person nominally having a prominent position, but no real authority.  
-__fine-tune__ _vt_  
-__firestorm__ _n_  
-__flexitarian__ _n_ One who eats mostly a vegetarian diet but will occasionally eat meat or fish.  
-__footage__ _n_ :mega:  
-__forestry__ _n_  
-__frail__ _adj_  
-__fraudster__ _n_ /ˈfrɔːdstə/ A swindler.  
-__fudge__ _v_ /fʌdʒ/  
-__gaffe__  
-__gantry__ _n_  
-__garland__ _n_  
 __generic name__ _n_  
 __gibe__ _n, v_ (jibe)  
 __global boiling__ _n_  
