@@ -1,28 +1,3 @@
-__absolve__ _v_ /ub-ZAHLV/  
-__advisory panel__ _n_ A group of experts that advises the FDA in the approval process for new and/or previously unapplied technologies, and recommends the class into which such products should be categorised.  
-__America__ _n_ :mega: /əˈmɛrɪkə/  
-__anaphylactic__ _adj_  
-__anecdotally__ _adv_ In an anecdotal manner. _Anecdotally speaking, I can attest to the fact that reading music is no joke._  
-__attributable__ _adj_  
-__awry__ _adv_ /əˈraɪ/  
-__backlash__ _n_  
-__battlefield__ _n_  
-__betrothed__  
-__blatant__  
-__bode__ _v_  
-__bravado__  
-__bubble__ _v_ _If it bubbles you have a leak._  
-__bullet__ _n_ :mega: /ˈbʊl ɪt/  
-__burgeoning__  
-__burpee__ _n_ /ˈbɜːpiː/  
-__burst__ _v_  
-__bussin’__ _adj_ Great; wonderful; amazing.  
-__bustle__ _adj, v_  
-__buttonhole__ _vt_ __3__ To accost and detain (a person) in conversation.  
-__bystander__ _n_  
-__cachexia__ _n_ Weight loss, wasting of muscle, loss of appetite, and general debility that can occur during a chronic disease.  
-__calico__ _adj, n_  
-__callous__ _adj_ /KAL-us/  
 __cap__ _n informal_ __1__ Capital: _venture cap._ __2__ Capitalization: _market cap._  
 __capillary__ _adj, n_  
 __capitulate__ _v_ /kuh-PIH-chuh-layt/  

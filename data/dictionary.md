@@ -103,7 +103,7 @@ __absentee ballot__ _n_ A ballot marked and mailed in advance by a voter away fr
 __absenteeism__ _n_ :four::pencil2: Habitual absence from work. If you’ve got no reason to skip school or work but you do it all the time anyway, you’ve go a bad case of absenteeism.  
 __absinthe__ _n_ __1__ _(Brewing)_ A potent green alcoholic drink, technically a gin, originally having high wormwood content. __2__ _(Plants)_ Another name for wormwood.  
 __absolute pitch__ _n_ (perfect pitch?)  
-__absolve__ _v_  
+__absolve__ _v_ :two: /ub-ZAHLV/  
 __abstain__ _v_ :four::pencil2: /ub-STAYN/ __1__ To choose not to do or have something. To refrain deliberately and often with an effort of self-denial from an action or practice. __2__ To choose not to vote.  
 __abstract__ _v_  
 __abstruse__ _adj_ :two: /ab-STROOS/ [:scroll: From Latin abstrudere (to hide), from ab- (away) + trudere (to push).] Hard to understand; obscure. Difficult to understand; recondite: _The students avoided the professor’s abstruse lectures._  
@@ -261,6 +261,7 @@ __advisable__ _adj_ /ædˈvaɪ zə bəl/
 __advise__ _v_ [:reminder_ribbon: You can remember that advise is a verb because it rhymes with _advertise_, which is also a verb.]  
 __advisedly__  
 __advisement__ _n_ Careful consideration. _Syn_ weighing, deliberation _The petition was taken under advisement._  
+__advisory panel__ _n_ A group of experts that advises the FDA in the approval process for new and/or previously unapplied technologies, and recommends the class into which such products should be categorised.  
 __advisory<sup>1</sup>__ _adj_ :four::hammer: _Advisory committee meeting._ _To take an advisory period._  
 __advisory<sup>2</sup>__ _n_ :two::astonished: (advisories) A report giving information, especially a warning: _a weather advisory._ _Read the full FDA advisory here._  
 __advocacy__ _n_ :two::hammer: :es: apoyo; defensa  
@@ -522,6 +523,7 @@ __amenable__ _adj_ :dart::four::astonished: __1__ Open or susceptible to suggest
 __amend__ _v_ _The Texas constitution was amended in 1891._  
 __amends__ _n pl_ :three: (plurale tantum)  
 __amenity__ _n_ :two::hammer: _Amenity kits._  
+__America__ _n_ :mega: /əˈmɛrɪkə/  
 __Americana__ _n pl_ :three::hammer:  
 __Americano__ _n_ /əˌmɛrɪˈkɑːnəʊ/ (Cooking) A drink consisting of espresso coffee diluted with hot water.  
 __Ames__ _n_ _Ames, Iowa._  
@@ -568,6 +570,7 @@ __analogue__ _n_ Something that bears an analogy to something else. _Syn_ parall
 __analogy__ _n_ An analogy is a comparison between two similar things, typically using figurative language. Metaphors and similes—more on them later—are usually considered to be types of analogies. Sometimes, analogies are considered to be a unique device that is a comparison that explains itself; basically, a complex metaphor or long simile. Example: Life is like a box of chocolates: you never know what you are going to get.  
 __analyst__ _n_ :pencil2:  
 __anaphora__ _n_ :four: Anaphora is the repetition of a word or words at the start of phrases, clauses, or sentences. Example: I came, I saw, I conquered. Martin Luther King Jr’s “I Have A Dream” speech is a classic example of anaphora.  
+__anaphylactic__ _adj_  
 __anaphylaxis__ _n_  
 __anastomosis__ _n_ :three: __2__ (Medicine) The surgical connection of separate or severed tubular hollow organs to form a continuous channel, as between two parts of the intestine.  
 __anastrophe__ _n_ :two: /uh-NAS-truh-fee/ [:scroll: From ana- (back) + strophe (turning)] The inversion of the usual order of words.  
@@ -588,7 +591,7 @@ __andragogy__ _n_ The art or science of teaching adults. The methods or techniqu
 __anecdata__ _n_ :two: An ad hoc portmanteau for anecdotal evidence that is used as data in an attempt to prove a hypothesis.  
 __anecdotage__ _n_  
 __anecdotal__ _adj_ :three::hammer::mega:  
-__anecdotally__  
+__anecdotally__ _adv_ :two: In an anecdotal manner. _Anecdotally speaking, I can attest to the fact that reading music is no joke._  
 __anecdote__ _n_ :two: An anecdote is a brief story about something that happened to the speaker, usually something funny or interesting. Example: Five years ago, I went to the store and met some clowns. Those clowns gave me the advice I am sharing with you now.  
 __anemia__ _n_ [:scroll: C19: from New Latin, from Greek _anaimia_ lack of blood] (Pathology) The usual US spelling of anaemia.  
 __anemomes__ _n_  
@@ -1016,6 +1019,7 @@ __Attn__
 __Attorney General__ _n_ :astonished: (Attorneys General) _He discussed with two successive Attorneys General._  
 __attorney__  
 __attract__ _v_  
+__attributable__ _adj_  
 __attribute noun__ _n_ (noun adjunct) In grammar, a noun adjunct or attributive noun or noun (pre)modifier is an optional noun that modifies another noun; it is a noun functioning as a pre-modifier in a noun phrase. For example, in the phrase “chicken soup” the noun adjunct “chicken” modifies the noun “soup.”  
 __attrite<sup>1</sup>__ _adj_ Regretting one’s wrongdoing only because of the fear of punishment.  
 __attrite<sup>2</sup>__ _vi/t_ (attrit) /uh-TRIT/ __1__ To wear down, erode, or weaken through sustained attacks, friction, etc. __2__ To reduce the size of a workforce by not replacing those who leave. __3__ To drop out from a course of study, job, training, etc.  
@@ -1101,7 +1105,7 @@ __awe__ _n_ :four::hammer: _Rob regarded the complex systems with awe._ _Jane sa
 __awestruck__ _adj_  
 __awfully__ _adv_ :mega::two::hammer: _That’s awfully nice, thanks._  
 __awhile__ _adv_ For a short time; for an interval of time: _Please stay awhile._ Not to be confused with: “a while” (a period of time): _He had to wait a while for the bus. It has been a while since they’ve seen each other._  
-__awry__ _adj, adv_ :six: __1__ Away from the correct course; amiss: _The last minute changes caused our plans to go awry._ __2__ In a position that is turned or twisted toward one side; askew.  
+__awry__ _adj, adv_ :seven: /əˈraɪ/ __1__ Away from the correct course; amiss: _The last minute changes caused our plans to go awry._ __2__ In a position that is turned or twisted toward one side; askew.  
 __ax__  
 __axle__ _n_  
 __ayahuasca__ _n_ :three: A psychedelic brew made out of Banisteriopsis caapi vine alone or in combination with various plants.  
@@ -1155,7 +1159,7 @@ __backhander__ _n_ /ˈbækˌhændə/
 __backhaul__ _n, v_ :three::hammer: _Backhaul areas._  
 __backhoe__ _n_ :three: A mechanical excavator whose bucket is attached by a hinge to a two-part arm and is drawn backward to the machine when in operation.  
 __backlash<sup>1</sup>__ _n_ :seven::hammer: /ˈbækˌlæʃ/ _It leads to backlash._  
-__backlash<sup>2</sup>__ _v_  
+__backlash<sup>2</sup>__ _v_ :two::hammer:  
 __backlit__  
 __backlog<sup>1</sup>__ _n_ :nine: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._ _Thousands of doctors feel under pressure to work extra shifts to help tackle the backlog of care caused by the covid pandemic._ _The NHS has made some progress on reducing the care backlog._  
 __backlog<sup>2</sup>__ _v_ (backlogged)  
@@ -1380,6 +1384,7 @@ __battered__ _adj_ :three: (Cookery) Coated in batter: _a battered cod._
 __battery__ _n_ :four::hammer: _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._ _Counts of a domestic battery by strangulation._ (military) _The siege battery was complete._  
 __batting cage__ _n_ :two::hammer: _Baseball_ _The rookie suffered an injury while taking swings in the batting cage._  
 __battledore and shuttlecock__ _n_ An ancient racket game.  
+__battlefield__ _n_  
 __battleground__ _n_ _AI models are battlegrounds._  
 __battlement__ _n_ :six: (battlements) A notched parapet built on top of a wall, with alternating merlons and crenels for decoration or defense. Also called embattlement. _Syn_ crenelation, crenellation  
 __batty__  
@@ -1600,7 +1605,7 @@ __betray__ _v_ :three::hammer: /bɪˈtreɪ/
 __betrayal__ _n_ :two::hammer:  
 __betroth__ _v_ _archaic_ To promise to marry or to give in marriage. _Syn_ affiance, plight, engage  
 __betrothal__ _n_  
-__betrothed__ _adj_ :five: Engaged to be married.  
+__betrothed__ _adj_ :six: Engaged to be married.  
 __betterment__  
 __bettors__  
 __betweenity__ _n_ /bɪˈtwiːnɪtɪ/ The state of lying between two extremes.  
@@ -1778,7 +1783,7 @@ __blarney<sup>1</sup>__ _n_ :three::dart: /ˈblɑr ni/ __1__ Smooth, flattering 
 __blarney<sup>2</sup>__ _v_  
 __blasé__ _adj_ :two::hammer:  
 __blast__ _n_ :two: __9__ _slang_ A highly exciting or pleasurable experience or event, such as a big party. A great experience, a very enjoyable time.  
-__blatant__ _adj_ :three::hammer:  
+__blatant__ _adj_ :four::hammer:  
 __blatantly__  
 __blather<sup>1</sup>__ _n_ :two::hammer:  
 __blather<sup>2</sup>__ _vi_ :five: (blether) To talk nonsensically. To talk foolishly. _Syn_ smatter, babble  
@@ -2176,7 +2181,7 @@ __brassy__ _adj_ :two::hammer: _She is brassy, funny, and smart._
 __brattice__ _n_  
 __bratty__  
 __bratwurst__ _n_  
-__bravado__ _n_ :seven: /bruh-VAH-doh/ If you act with bravado, you are making a bold showy statement. Picture a cowboy bursting through saloon doors in an old western, and you can picture bravado. The noun bravado is derived from the French and Italian words meaning “bragging and boasting,” and it is related to the word bravo. Today, the word means an almost-over-the-top amount of courage, but it can also be used (often with the word false) to mean a false show of bravery: “It was her first day in the classroom and she was almost shaking with fear, but with false bravado — she took a deep breath and turned to face her students — 20 kindergartners.” Bravado refers to confident or brave talk or behavior that is intended to impress other people. _Syn_ bluster _In a moment it was hand-to-hand fighting, and Trent was cursing already the bravado which had brought him out to the open._ _But I went into it with a certain bravado._ _Her stories of her exploits during the “olden days” are always told with enough bravado to invite some suspicion that they’re embellished a bit._  
+__bravado__ _n_ :eight: /bruh-VAH-doh/ If you act with bravado, you are making a bold showy statement. Picture a cowboy bursting through saloon doors in an old western, and you can picture bravado. The noun bravado is derived from the French and Italian words meaning “bragging and boasting,” and it is related to the word bravo. Today, the word means an almost-over-the-top amount of courage, but it can also be used (often with the word false) to mean a false show of bravery: “It was her first day in the classroom and she was almost shaking with fear, but with false bravado — she took a deep breath and turned to face her students — 20 kindergartners.” Bravado refers to confident or brave talk or behavior that is intended to impress other people. _Syn_ bluster _In a moment it was hand-to-hand fighting, and Trent was cursing already the bravado which had brought him out to the open._ _But I went into it with a certain bravado._ _Her stories of her exploits during the “olden days” are always told with enough bravado to invite some suspicion that they’re embellished a bit._  
 __brave__ _v_ :two::hammer:  
 __bravura__  
 __brawn__ _n_ :two: Physical strength in contrast to intelligence. _Commando work required as much brain as brawn._ _Syn_ physical strength, muscle  
@@ -2339,7 +2344,7 @@ __brute__ _adj, n_ /bruːt/
 __brutish__ _adj_ :three::hammer:  
 __bubba__ _n_ :two: The definition of Bubba is a name used for someone who is a brother, like a brother or a close friend, or slang for a white, uneducated and assertive man from the southern United States. _An example of Bubba is what you might call your best male friend._ _An example of Bubba is what you might call a bigoted, working-class man in the South._  
 __bubble wrap__ _n_ :camera:  
-__bubble__ _v_ _A head of cabbage was bubbling in a copper pot of water._  
+__bubble__ _v_ :two::hammer: _A head of cabbage was bubbling in a copper pot of water._ _If it bubbles you have a leak._  
 __bubbly__ _adj_ :two::hammer: _Bubbly breatlessness._ _A bubbly 20-year-old ever on the look-out for fun and excitement._  
 __bubo__ _n_ An inflamed, tender swelling of a lymph node, especially in the area of the armpit or groin, that is characteristic of certain infectious diseases, such as bubonic plague, tuberculosis, and syphilis.  
 __bubonic__ _adj_ __1__ Of or pertaining to a bubo. __2__ Accompanied by or affected with buboes.  
@@ -2407,7 +2412,7 @@ __Bull__ _n_
 __bull__ _n_ :three: __1a__ An adult male bovine mammal. __b__ The uncastrated adult male of domestic cattle. __c__ The adult male of certain other large animals, such as alligators, elephants, moose, or whales. __6__ (Bull) An official document issued by the pope and sealed with a bulla. :es: bula _Papal Bull._ _No Pope ever issued a Bull to approve of something._  
 __bulldozing__ _v_ _Henry was bulldozing for 201 yards._  
 __bullet point__ _n_ :three::hammer: _Give me the bullet points._  
-__bullet<sup>1</sup>__ _n_ /ˈbʊl ɪt/  
+__bullet<sup>1</sup>__ _n_ :two::hammer::mega: /ˈbʊl ɪt/  
 __bullet<sup>2</sup>__ _v_ _Watch the pros bullet down the icy bobsled track._  
 __bulletin__ _n_  
 __bulletproof__ _adj_ _A bulletproof relationship._  
@@ -2496,7 +2501,7 @@ __Burning Man__ _n_
 __burnish__ _v_ :eight: To make smooth or glossy by or as if by rubbing; polish. _Syn_ furbish, buff, flush _Every afternoon, she would obsessively burnish the floors until the parlor gleamed like an ice rink._  
 __burnoose__ _n_ :astonished::two::hammer:  
 __burp__ _v_ :three::hammer: (burped) _He burped loudly and said, “What? Better out than in!”_  
-__burpee__ _n_ :two: __1__ (Gymnastics) A squat thrust that starts and ends in a standing position.  
+__burpee__ _n_ :three: /ˈbɜːpiː/ __1__ (Gymnastics) A squat thrust that starts and ends in a standing position.  
 __burqa__  
 __burr haircut__  
 __burr__ _n_  
@@ -2508,7 +2513,7 @@ __burrs__ _n_
 __bursary__ _n_ :two::hammer: (bursaries)  
 __bursitis__ _n_  
 __burst<sup>1</sup>__ _n_ _Quick bursts of positive emotions._  
-__burst<sup>2</sup>__ _v_ :two::hammer: (bursting)  
+__burst<sup>2</sup>__ _v_ :three::hammer: (bursting)  
 __bus boy__ _n_ :three::hammer: (bus boys)  
 __bus__ _v_  
 __busboy__ _n_ :five: A young man who clears tables in a restaurant or cafe.  
@@ -2519,12 +2524,13 @@ __business__ _n_ /ˈbɪznɪs/
 __businesspeople__ _n_  
 __busker__ _n_ :two::hammer: (buskers)  
 __busload__ _n_ :two::hammer: _I’ve got a busload of specific ideas._  
+__bussin’__ _adj_ Great; wonderful; amazing.  
 __bust<sup>1</sup>__ _n_ :three::hammer: _A dusty bust of Shakespeare._ _Painful housing busts._  
 __bust<sup>2</sup>__ _v_ :three::hammer: (busting) _Busting out ideas._ _All I can tell you is as a 49er, he’s busting his tail on everything._  
 __busticate__ _v_ _informal US_ To break.  
 __bustiers__ _n_  
-__bustle<sup>1</sup>__ _v_  
-__bustle<sup>2</sup>__ _n_ :six::mute:[bus~~t~~le]:hammer: _The bustle of daily life._ _She still wore a bustle._  
+__bustle<sup>1</sup>__ _v_ :two::hammer:  
+__bustle<sup>2</sup>__ _n_ :seven::mute:[bus~~t~~le]:hammer: _The bustle of daily life._ _She still wore a bustle._  
 __bustling__ _adj_ :nine::m::dart: __1__ Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._ __2__ Very crowded. _The sidewalks are bustling with people._  
 __busy bee__ _n_ An alert and energetic person.  
 __busybody__ _n_ :three: A person who meddles or pries into the affairs of others. :es: entrometido  
@@ -2557,6 +2563,7 @@ __button up__ _v_
 __button-down<sup>1</sup>__ _adj_ __1a__ (of a collar) Having points that are fastened to the garment with buttons. __b__ (of a shirt) Having a button-down collar. __2__ (buttoned-down) Conservatively traditional or conventional, especially: adhering to conventional norms in dress and behavior. _Button-down businessmen._  
 __button-down<sup>2</sup>__ _n_ A shirt with a button-down collar. _She was wearing faded jeans and a button-down._  
 __buttoned-up__ _adj_ Coldly reserved or standoffish.  
+__buttonhole__ _vt_ __3__ To accost and detain (a person) in conversation.  
 __buttress<sup>1</sup>__ _n_ _Lacy buttresses._  
 __buttress<sup>2</sup>__ _v_ :six: (buttressed) Increase the strength of or justification for; reinforce. _Authority was buttressed by religious belief._  
 __buttwipes__ _n_  
@@ -2593,6 +2600,7 @@ __byline__ _n_ :six: (bylines) A line at the head of a newspaper or magazine art
 __bypast__ _adj_ Well in the past; former. _Syn_ bygone, departed, foregone, gone  
 __byproduct__ _n_ :two::hammer:  
 __bystander effect__ _n_ A social psychological theory that states that individuals are less likely to offer help to a victim when there are other people present.  
+__bystander__ _n_  
 __byword__ _n_ A condensed but memorable saying embodying some important fact of experience that is taken as true by many people. _Syn_ adage, proverb, saw  
 __byzantine__ _adj_ :three::pencil2: /BIZ-uhn-teen/tyn, bi/buh/by-ZAN/zuhn-tin/teen/ __1__ (of a system or situation) Highly complex or intricate. Excessively complicated, and typically involving a great deal of administrative detail. _The byzantine nature of health care pricing._ __2__ Involving scheming or intrigue. __3__ Relating to the architectural or decorative style developed in the Byzantine Empire. __4__ Relating to the ancient city of Byzantium or the Byzantine Empire.  
 __C-rations__  
@@ -2617,6 +2625,7 @@ __caboose__ _n_ :camera::three::hammer: _Mr. Miller kept 50 engines, boxcars, fl
 __cache<sup>1</sup>__ _n_ :two::mega: A secret store of valuables or money. _Syn_ hoard, stash _In case of an emergency, I have a small cache of money and weapons hidden in the shed._  
 __cache<sup>2</sup>__ _v_ :mega:  
 __cachet__ _n_ :three: A special quality that makes people admire someone or something, or makes people want to have something. _Sporty cars haven’t lost their cachet._  
+__cachexia__ _n_ Weight loss, wasting of muscle, loss of appetite, and general debility that can occur during a chronic disease.  
 __cachinnate__ _vi_ :six: To laugh hard, loudly, or convulsively; guffaw.  
 __cack-handed__ _adj_ /kak-HAN-did, KAK-han-/ __1__ Clumsy; awkward. __2__ Left-handed.  
 __cackel__ _v_ __1__ To utter a shrill, broken cry, as of a hen. __2__ To laugh in a shrill, broken manner. __3__ To chatter noisily. __4__ To express with a cackling sound: _They cackled their disapproval._  
@@ -2665,7 +2674,7 @@ __calendar girl__
 __calendared__ _v_ _Get the meeting calendared._  
 __calf__ _n_ :three::mute:[ca~~l~~f] __2__ (Zoology) The young of certain other mammals, such as the buffalo, elephant, giraffe, and whale.  
 __caliber__ _n_  
-__calico__ _n_ :two::hammer: _A plain calico coat._  
+__calico__ _adj, n_ :three::hammer: _A plain calico coat._  
 __caliper__ _n_ :two::hammer: _I need a new brake caliper for my motorcycle._  
 __caliph__  
 __caliphate__  
@@ -2687,6 +2696,7 @@ __calling card__
 __calling hours__  
 __calling__ _n_ :six: (callings) __1__ A strong inner urge to follow an occupation, etc; vocation. _She served in many callings._ _She did it in response to an inner calling._ __2__ An occupation, profession, or trade. _He served in many callings for the LDS Church._  
 __calliope__ _n_ :two::mega: (calliopes) A musical instrument fitted with steam whistles, played from a keyboard.  
+__callous__ _adj_ /KAL-us/  
 __callous<sup>1</sup>__ _adj_ :nine::m::dart: /ˈkæl əs/ __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ _A callous remark._ :es: insensible, cruel  
 __callous<sup>2</sup>__ _v_ To make or become callous.  
 __callousness__  
