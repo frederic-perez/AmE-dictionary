@@ -5520,7 +5520,7 @@ __there is (a) method to (one’s) madness__ There is a specific, rational purpo
 __there is aomething about xyz__ :two::hammer:  
 __there is no way around it/that__ :two::dart::hammer: :es: no hay más remedio, no queda otro remedio  
 __there you go__ :two::hammer:  
-__there you have it__ Used to highlight or emphasize the ease or simplicity of something that has just been explained or demonstrated. _Do you understand? You just have to insert the installation disc into your computer, and there you have it! The program installs itself in a matter of minutes._  
+__there you have it__ :two: Used to highlight or emphasize the ease or simplicity of something that has just been explained or demonstrated. _Do you understand? You just have to insert the installation disc into your computer, and there you have it! The program installs itself in a matter of minutes._  
 __there’s no other way around (it)__ There is no solution to avoid a particular outcome. _If you want to get good at English, you have to memorize a lot of idioms. There’s no way around it._  
 __there’s no such thing as a free lunch__ _prov_ :dart: (there is no free lunch, there ain’t no such thing as a free lunch) Nothing is ever really given away for free, so be wary of hidden charges, motives, or agendas. _Of course, once you’re signed up to the free program, you have to pay for all sorts of extra services to make it even worth using. There’s no such thing as a free lunch, after all._  
 __thick and thin__ :four: Good and bad times. _Supporters ready to back them through thick and thin._ _Marriages that last through thick and thin._  
@@ -5536,6 +5536,7 @@ __think before (one) (does something)__ To ruminate, reflect, or consider very c
 __think highly of (someone or something)__  
 __think long and hard__ :dart:two: To give very careful and thorough consideration (to something).  
 __think over__ To consider or ponder something; to reflect upon something. A noun or pronoun can be used between “think” and “over.” _Think it over, and let me know in the morning if you want the job._  
+__think tank__  
 __third wheel__ The “third wheel” refers to the person who is the outsider when there is a group of three. An analogy can be made to a two-wheeled bicycle or cart; adding a third wheel would not be helpful and would limit mobility. To be the “third wheel” is to be the extra, unnecessary person in a group of three people. _You two go on ahead without me. I don’t want to be the third wheel._  
 __third world__  
 __this is (someone)__ __1__ A phrase said when introducing someone, followed by the person’s name or their relation. To identify oneself by phone, or to introduce someone. _This is Laura, my cousin._ _Hello, this is Michael Robinson._ __2__ _informal_ Used to quote, paraphrase, or mimic the words of someone else, especially in a mocking or derisive manner. _This is you right now—“Blah, blah, blah, I’m so important, everyone has to listen to me, blah de blah de blah!”_  
@@ -5591,6 +5592,7 @@ __time after time__
 __time and (time) again__ :nine::m::dart: Repeatedly; on multiple occasions. Again and again; repeatedly. _Why do you continue to trust John when he has lied to you time and again?_  
 __time capsule__  
 __time flies__ :three::hammer: _Time flies when you’re having fun._  
+__tinker with__  
 __Tinseltown__  
 __tip (one’s) hat__  
 __tip off__ :three: (tip-off) To secretly inform the police or authorities.  
@@ -5622,7 +5624,7 @@ __to say the least__
 __to see red__ Very angry.  
 __to some extent__ :two::hammer:  
 __to that end__ :four::hammer: (to that end,)  
-__to the core__ _Charming to the core._  
+__to the core__ :two: Fully or completely; in the most essential or inherent way. _Charming to the core._  
 __to the fore__  
 __to the fullest__  
 __to the hilt__ :two: As much or to the greatest degree possible; completely or utterly. _They’ve had to borrow to the hilt to get the company off the ground._  
@@ -5732,7 +5734,7 @@ __U-turn__
 __uh-huh__ :two::hammer:  
 __uh-oh__ _interj_ _Uh-oh. The cops are here._  
 __uncanny valley__ :four::hammer:  
-__uncharted territory__ :three::hammer:  
+__uncharted territory__ :four::hammer:  
 __Uncle Sambo/Sammy/Samuel/Samwell__ Uncle Sam.  
 __under (one’s) belt__ :three: __1__ In one’s scope of experience. _Once you get a few more major league games under your belt, you’ll feel more comfortable._ _I’ll have a degree under my belt._ __2__ Ingested or consumed. _He should be less cranky after he gets some food under his belt._  
 __under (one’s) breath__ Spoken in such a soft, quiet voice that others cannot hear it distinctly.  
@@ -5754,6 +5756,7 @@ __under the yolk__
 __under-promise and over-deliver__ To avoid raising expectations in order to subsequently exceed them. Used as a strategy to ensure the satisfaction of one’s client, customer, boss, etc. Also spelled without hyphens. _I want all of our customer service representatives to under-promise and over-deliver, so that all experiences with our company are positive ones._  
 __undivided/full/complete attention__ Concentration on what someone is doing or saying. _Please give the speaker your undivided/full/complete attention._  
 __unheard of__ :six: Extremely uncommon or unusual; beyond belief. Hyphenated if used as a modifier before a noun. _His prowess on the balance beam is unheard of._ _Investors began making unheard-of amounts of money on these risky investments._ _It’s not unheard of for individual contributors to question their superiors’ decisions._  
+__unmet need__ An “unmet need” refers to a gap between an individual’s desired condition or goal and their current situation. It implies that there is a necessity or requirement that has not been satisfied or addressed. Unmet needs can occur in various aspects of life, including physical, emotional, social, and psychological dimensions.  
 __unpack__ :six: To try to understand and explicate a complex, and possibly controversial, statement, passage, etc. _Who can unpack what the author is saying in this paragraph?_  
 __unsung hero__  
 __until all hours (of the day and night)__ Until a very late hour of the night or early hour of the morning. _Johnny keeps taking the car and staying out until all hours, and I just don’t know what to do anymore!_ _She sat up till all hours trying to finish her essay._  
@@ -5763,7 +5766,7 @@ __up a notch__ To an increased or extreme degree of intensity or quality.
 __up a tree__ In a difficult situation.  
 __up and coming__ :two: (up-and-coming) An _up and coming_ person is someone who is likely to be successful in the future. On a trajectory to become established or successful, especially in a career or as a business. Sometimes hyphenated. _She’s an up and coming star in the marketing department._ _I like to catch up-and-coming bands at small venues, before they hit it big._ _Check out NFX’s list of the top 75 up-and-coming generative AI startups._  
 __up and down__ __2__ Going between success and failure.  
-__up and running__ :three::hammer: _The cluster is up and running within a very small timescale._  
+__up and running__ :four::hammer: _The cluster is up and running within a very small timescale._  
 __up for grabs__ :six: Available for anyone.  
 __up front__  
 __up in arms__ :dart::three::hammer:  
@@ -5861,7 +5864,7 @@ __wee hours__
 __weekend warrior__  
 __weep (one’s) heart out__ To weep copiously; to cry intensely and for a long time. _Lauren wept her heart out at the news of her father’s sudden death._  
 __weigh down__ To make someone heavy and unable to move easily.  
-__weigh in__ :dart::two: (see also _chime in_) __3__ To give one’s opinion or analysis of something during a discussion. _Karen, you haven’t weighed in yet. What’s your take on this?_ _Later on the show, Senator Williams will weigh in on the debate._  
+__weigh in__ :dart::four: (see also _chime in_) __3__ To give one’s opinion or analysis of something during a discussion. _Karen, you haven’t weighed in yet. What’s your take on this?_ _Later on the show, Senator Williams will weigh in on the debate._  
 __weigh on__  
 __weird out__  
 __weirded out__ Acutely disturbed, awkward, or ill at ease.  
@@ -5884,6 +5887,7 @@ __what do you know__ A phrase used to indicate one’s surprise upon discovering
 __what else?__ The phrase “what else?” in James Ellroy’s novels typically carries a sense of cynicism, as if the character is resigned to the fact that there is nothing new or unexpected to be found in the world. It often reflects the jaded worldview of the characters in his crime novels, who have seen the worst of humanity and are not easily surprised or impressed. The phrase is often used as a rhetorical question, implying that the speaker already knows the answer, or as a means of brushing off a situation or event as being predictable or mundane.  
 __what gives?__ :three: _informal_ Used to ask the reason for something. _You’ve been acting weird all week. What gives?_  
 __what if scenario__  
+__what if__  
 __what in tarnation__ An exclamation used to emphasize surprise, shock, anger, disgust, etc. _Just what in tarnation is going on here?_ _Aw, what in tarnation! I just had this fixed, and now there’s a dent in it!_  
 __what it takes__ :three: The skill, ability, or wherewithal to do something. _She’s pretty talented—I think she might have what it takes to make it in Hollywood._  
 __what makes (one) tick__ :two::hammer: _We’ve never captured one of them, and consequently don’t know what makes them tick._  
@@ -5891,7 +5895,7 @@ __what on earth__
 __what the heck__  
 __what-if__ _n informal_ A hypothetical question; speculation: _one of the great what-ifs of modern history._ _Evaluate various what-if scenarios._  
 __what’s cooking__  
-__what’s in store__  
+__what’s in store__ :two: That which is awaiting or ahead (of one); that which is going to happen (for one).  
 __What’s that got to do with the price of tea in China?__ :two: A rhetorical question calling attention to a non-sequitur or irrelevant statement or suggestion made by another person. _Yes, I agree that health care is an important issue, but what’s that got to do with the price of tea in China? We’re discussing tax incentives for local businesses—not exactly a related topic!_  
 __What’s the catch?__ What’s the problem, drawback, detriment, or risk that I’m not privy to or able to see? _Why are you selling this for so little? What’s the catch?_  
 __what’s the deal?__  
@@ -5986,16 +5990,19 @@ __with a heavy hand__ :two: __1__ In an excessive, authoritarian, or oppressive 
 __with a passion__ _informal_ :two: Used to say that someone strongly dislikes someone or something. _She hated him with a passion._ _He loved her with a passion._  
 __with a record__  
 __with a twist__ :four::hammer:  
-__with a vengeance__ :three: Determinedly or passionately, perhaps fueled by anger. _After my girlfriend dumped me, I started working out with a vengeance._ _We’re going to have to clean with a vengeance to get the house ready in time._  
+__with a vengeance__ :four: Determinedly or passionately, perhaps fueled by anger. _After my girlfriend dumped me, I started working out with a vengeance._ _We’re going to have to clean with a vengeance to get the house ready in time._ _Die Hard with a Vengeance._  
 __with a view__ _Chateau with a view._  
 __with all (one’s) might__ Utilizing all of one’s power and strength to do something. _I pulled at the rope with all my might, but we still lost the tug-of-war._  
-__with flying colors__ :two: With an overwhelming victory, triumph, or success. With distinction. _In these respects, Delta Air Lines passed with flying colors._  
+__with each passing day__ As time continues to pass, day by day.  
+__with flying colors__ :three: With an overwhelming victory, triumph, or success. With distinction. _In these respects, Delta Air Lines passed with flying colors._  
 __with great (something) comes great (something else)__  
 __with no frills__ With no extraneous details or embellishments. Not fancy, decorous, or elaborate. Simple. _My history teacher is not someone who gets impressed by a beautiful cover page, so I made sure that my project was straightforward and presented the information with no frills._  
 __with reckless abandon__ With rash, unrestrained impulsiveness, enthusiasm, or zeal. _Ever since my brother got that car for his birthday, he’s been motoring around at night with reckless abandon._  
 __wither away__  
 __within arm’s reach__ Close enough to touch, either literally or hypothetically. Easily attainable. _Can you pass me that book over there? It’s within arm’s reach of you._  
-__within reason__ Reasonable; reasonably. _You can do anything you want within reason. I’ll pay any sum you ask—within reason._  
+__within reach__  
+__within reason__ :two: Reasonable; reasonably. _You can do anything you want within reason. I’ll pay any sum you ask—within reason._  
+__within the realm(s) of possibility__ Possible; capable of happening. _You worked so hard this semester that I think an A is within the realm of possibility._  
 __within walking distance__  
 __without a doubt__  
 __without fail__ Said of something that happens regularly and predictably with no deviations. _I have passed the same woman walking her dog every day without fail for five years... but today she wasn’t there. I’m really worried about her!_  
@@ -6013,20 +6020,22 @@ __work in concert__ To work together or in cooperation. _The two of us will need
 __work like a charm__ :two::hammer:  
 __work one’s fingers to the bone__  
 __work one’s tail off__ :two::hammer:  
-__work out__  
+__work out__ :two: __2__ _v_ To have a favorable or acceptable outcome. Used especially of situations in which an unfavorable outcome is expected. _This will all work out, you’ll see. I’m certain it’s a blessing in disguise._  
 __work the room__ To interact with many people at an event or function. Often, but not always, applied to business situations. _At networking events, Ben totally works the room, with the goal of meeting as many people as he possibly can._  
 __work up a sweat__ __1__ Literally, to perspire due to strenuous physical activity. _Ping pong is actually great exercise. You really can work up a sweat after just a few games._ __2__ By extension, to put forth a large amount of energy or effort into or toward a task. Often used in the negative to indicate the opposite. _That test was so easy, I aced it without even working up a sweat._  
 __work wonders__  
 __worked out__ __5__ _v_ To have a specific result. _I never planned to become a lawyer, that’s just how it worked out._  
 __worried sick__ Very concerned or anxious about a person or situation. _The next time you’re going to be this late getting home, please call me, because I was worried sick!_  
+__worst-case scenario__  
 __worthy cause__ A cause that merits attention, aid, or action due to an inherent goodness of values or intention. _The lawyer decided to waive her fees because she felt that the young man’s case was a worthy cause._  
 __wouldn’t listen__ _He wouldn’t listen._  
 __wouldn’t touch something/someone with a ten-foot pole__ (_BrA_ wouldn’t touch something/someone with a barge pole) If you say that you wouldn’t touch something or someone with a barge pole, you mean that you do not want to have anything to do with them. _The history of the building kept the price down. No one would touch it with a barge pole._ _A woman like that wouldn’t touch me with a ten-foot pole._ Note: A barge pole is a very long pole that is used to move a barge (= a long, flat boat) forward.  
+__wrack (one’s) brain(s)__  
 __wrangle with (something)__ To struggle to understand, solve, or deal with something.  
-__wrap (one’s) head around it__ :seven: To comprehend something that one considers challenging, confusing, or a foreign concept. _I’m trying to wrap my head around it._  
+__wrap (one’s) head around (something)__ :eight: To comprehend something that one considers challenging, confusing, or a foreign concept. _I’m trying to wrap my head around it._  
 __wrap around one’s finger__ (twist around one’s finger) Exert complete control over someone, do as one likes with someone, as in _Alison could twist just about every man around her finger._  
 __wrap my head around something__  
-__wrap up__ :two: __2__ To complete something, such as a task; to put the finishing touches on something. _You go on ahead, I just need to wrap up some work before I head home._  
+__wrap up__ :three: __2__ To complete something, such as a task; to put the finishing touches on something. _You go on ahead, I just need to wrap up some work before I head home._  
 __wreak havoc__ :four: /riːk ˈhæv ək/ (wreaked havoc) To cause a lot of problems.  
 __wrinkle__ _n_ __1__ (also rinkle, winkle) An idea, device or trick, esp. a new one. A new idea; a new aspect of something. _Here’s a clever wrinkle for you. Nobody has ever tried this one._ __2__ A lie. __3__ A useful piece of information. __4__ A bit, a small amount. __5__ A minor problem. _A wrinkle has developed in the Wilson proposal._  
 __writ large__  
@@ -6037,12 +6046,15 @@ __written all over (one’s) face__ Evident by one’s facial expression. Said o
 __wuss__ _slang_ Someone who is too nervous, afraid, or reserved to do anything too intense, extreme, or risky.  
 __x, y, and z__ _n_ A figure of speech used when making a hypothetical argument or example. _Well, I could say, “God doesn’t exist because of X, Y and Z.”_  
 __X’s and O’s__ :three: (Xs and Os) __1__ _sports_ The symbols used to denote the players on one’s team (and usually those of the opposing team) in a diagram of a play (i.e., the formation the players will take when trying to score or move the ball). The term often refers to the plays themselves. _That coach is great with the x’s and o’s, but the team’s execution has been very disappointing._ _The key is making the Xs and Os work for the Tigers._ __2__ By extension, knowledge of how something works. _Before you start on that report, call Shelly—she knows all the x’s and o’s of the budget._ __3__ Kisses and hugs.  
+__XYZ__ In spoken language, “XYZ” is often used to refer to hypothetical or unspecified elements, variables, or situations.  
 __yada, yada(, yada)__ :nine::m: (yadda yadda yadda) __1__ _slang_ [:scroll: The phrase was popularized by the television show Seinfeld in the 1990s.] Used to summarize, characterize, or represent information or chatter that one finds boring, trivial, or unnecessary. Boring or empty talk. Sometimes spelled “yadda, yadda, yadda.” _So then I ran into my friend, Sarah. Sarah and I went to high school together, and we were really good friends until we had a bit of a falling out. Yada, yada, yada, the point is that I haven’t seen her in a long time._ __2__ _slang_ By extension, et cetera; so on and so forth. _A: “What are you up to tonight?” B: “Not much. Dinner, homework, yada, yada. How about you?”_ _There were all sorts of things stuck in that attic—old furniture, dolls’ houses, broken appliances, yada, yada, yada._  
 __yankee dime__ A kiss. _My grandmother would always say, “Come give me a yankee dime, my dear,” when she wanted a kiss._  
+__yap__ __2__ To chatter; to gossip. _Did you just come here to yap?_ __3__ _n_ Nonsense; gibberish. _That windbag can produce an enormous amount of yap._ __4__ _vi_ To empty one’s stomach; to vomit. _Who yapped in the bushes?_ _A yapping dog._  
 __yap, yap, yapping all day long__ Talking nonstop, especially about insignificant things. _Connie’s nice enough, but once she starts yap, yap, yapping all day long, I feel a headache coming on._  
+__yard__ _n_ A one-hundred-dollar bill. (Underworld.) _The guy wanted a yard just to fix a little dent in the fender._  
 __yea or nay__ :two: Yes or no. “Yea” is pronounced (and commonly misspelled as) “yay.” _What do you think of this outfit for tonight? Yea or nay?_  
 __yeah, yeah (,yeah)__ _informal_ A dismissive phrase commonly used to express impatience, frustration, or incredulity with what the previous speaker has said. _Yeah, yeah, we’ve heard it all before. Now when is your organization going to start taking steps toward real change?_ _A: “And then my dog ate my homework, I swear.” B: “Yeah, yeah, yeah. Tell me what really happened.” A: “I might have forgotten about the assignment.” A: “There we go.”_  
-__yen__ A desire. Often used in the phrase “have a yen for (someone/something).” _Meredith has a real yen to be a surgeon, which, combined with her work ethic, should bring her much success._  
+__yen__ :two: A desire. Often used in the phrase “have a yen for (someone/something).” _Meredith has a real yen to be a surgeon, which, combined with her work ethic, should bring her much success._  
 __yo__ _slang_ A colloquial variant of “hello,” used either as a greeting or to get someone’s attention. _“Yo, they’re making a movie!_  
 __you are what you eat__ To be healthy, you need to eat good food.  
 __you bet__ _Do you want more coffee? You bet._  

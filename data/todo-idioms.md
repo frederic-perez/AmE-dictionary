@@ -148,31 +148,6 @@ __the bigger picture__
 __the holy grail of (something)__  
 __the little things__  
 __the nuts and bolts__ The most basic, fundamental, or essential aspects of something.  
-__there you have it__  
-__think tank__  
-__tinker with__  
-__to the core__ Fully or completely; in the most essential or inherent way.  
-__uncharted territory__  
-__unmet need__ An “unmet need” refers to a gap between an individual’s desired condition or goal and their current situation. It implies that there is a necessity or requirement that has not been satisfied or addressed. Unmet needs can occur in various aspects of life, including physical, emotional, social, and psychological dimensions.  
-__up and running__  
-__weigh in__ :two: __3__ To give one’s opinion or analysis of something during a discussion.  
-__what if__  
-__what’s in store__ That which is awaiting or ahead (of one); that which is going to happen (for one).  
-__with a vengeance__ _Die Hard with a Vengeance._  
-__with each passing day__ As time continues to pass, day by day.  
-__with flying colors__  
-__within reach__  
-__within reason__  
-__within the realm(s) of possibility__ Possible; capable of happening. _You worked so hard this semester that I think an A is within the realm of possibility._  
-__work out__ __2__ _v_ To have a favorable or acceptable outcome. Used especially of situations in which an unfavorable outcome is expected. _This will all work out, you’ll see. I’m certain it’s a blessing in disguise._  
-__worst-case scenario__  
-__wrack (one’s) brain(s)__  
-__wrap (one’s) head around (something)__  
-__wrap up__  
-__XYZ__ In spoken language, “XYZ” is often used to refer to hypothetical or unspecified elements, variables, or situations.  
-__yap__ __2__ To chatter; to gossip. _Did you just come here to yap?_ __3__ _n_ Nonsense; gibberish. _That windbag can produce an enormous amount of yap._ __4__ _vi_ To empty one’s stomach; to vomit. _Who yapped in the bushes?_ _A yapping dog._  
-__yard__ _n_ A one-hundred-dollar bill. (Underworld.) _The guy wanted a yard just to fix a little dent in the fender._  
-__yen__ A desire. Often used in the phrase “have a yen for (someone/something).“  
 __yippee-ki-yay__ :two::hammer:  
 __you name it__ :two::hammer:  
 __your thoughts__ :three: A way to invite someone to share their opinion or perspective in a conversation.  
