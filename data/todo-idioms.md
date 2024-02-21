@@ -98,31 +98,6 @@ __I kid you not__
 __I know, I know__ A conversational phrase used to express that the speaker is aware of what the other person is saying or feeling, often to express empathy or understanding.  
 __if you will__  
 __in a new light__  
-__in and of itself__  
-__in full swing__ Well underway and operating at the highest possible level or pace.  
-__in one breath__ Very quickly, as of someone who is speaking (usually while very excited).  
-__move over__  
-__navigate__  
-__necessary evil__  
-__off the grid__  
-__peace of mind__  
-__pick up steam__  
-__right off the bat__ Immediately; at once; without delay.  
-__root out__  
-__rule of thumb__ A general principle developed through experiential rather than scientific means. An approximation; a suggested method or guideline. _A good rule of thumb is to plant your seedlings around the end of May._  
-__rule the roost__ To have the most control or authority in a group. _Both of our parents were tough, but Mama was as tough as an old shoe, who ruled the roost without saying a word._  
-__run down__  
-__run for (one’s) money__  
-__run out of patience__ To become unable to remain patient any longer.  
-__safeguard against (someone or something)__  
-__save (something) for a rainy day__  
-__save the day__ :two::hammer:  
-__scale up__  
-__scratch (one’s) head__  
-__sea change__ A massive, fundamental shift or transformation.  
-__seeing is believing__  
-__seize upon (something)__  
-__set in stone__  
 __set the tone__  
 __shift gears__  
 __shore up__ :dart:  

@@ -2861,7 +2861,7 @@ __in all likelihood__
 __in all seriousness__ :dart::two: In one’s sincere opinion; without any disingenuousness. _In all seriousness, I think this project plan is severely flawed._  
 __in all truthfulness__ In one’s sincere opinion; without any disingenuousness.  
 __in all__ :two::hammer: _I need five sailors in all._  
-__in and of itself__ :three: By itself, without considering any other factors. Considering it alone. _Yes, in and of itself, your statement isn’t a problem. But you have to understand how it sounded in the context of the conversation._ _Reading is wonderful in and of itself._  
+__in and of itself__ :four: By itself, without considering any other factors. Considering it alone. _Yes, in and of itself, your statement isn’t a problem. But you have to understand how it sounded in the context of the conversation._ _Reading is wonderful in and of itself._  
 __in any event__ :five: In any case. :es: en cualquier caso, en todo caso _In any event, the audience seemed pleased with your performance._  
 __in any way, shape, or form__  
 __in arrears__ Behind or overdue, often because one has not made a payment as scheduled.  
@@ -2891,7 +2891,7 @@ __in fee__ _law_ (specifically of land) In absolute legal ownership or subjectio
 __in front of (one’s) nose__ Immediately obvious or clearly apparent.  
 __in front of (one’s) very eyes__ Right in plain sight or while one is watching. _Someone smashed into my parked car in front of my very eyes._  
 __in full gear__ At the highest or maximum level of function, operation, or performance.  
-__in full swing__ :six::hammer: _The conference was in full swing when I arrived._  
+__in full swing__ :seven: Well underway and operating at the highest possible level or pace. _The conference was in full swing when I arrived._  
 __in full__  
 __in harm’s way__  
 __in high dudgeon__  
@@ -2912,6 +2912,7 @@ __in no time (at all)__ :five: (in less than no time) In a very little amount of
 __in no way__ Not at all; not by any means. _We are in no way blaming you for what happened, but you still have to cooperate with the police investigation._  
 __in no way, shape, or form__ In no possible manner; under no circumstances; not by any means.  
 __in one blow__ All at once, with a single decisive or powerful action.  
+__in one breath__ Very quickly, as of someone who is speaking (usually while very excited).  
 __in one sitting__ In a single session; finishing a task in the same period when one sets out to do so. _The bookworm devoured her book in one sitting._  
 __in order that__ So that; with the particular aim or purpose of.  
 __in other news__ :two: A segue into another topic. Used when you want to move on to a new subject, but have no real way to connect it to what you were talking about before.  
@@ -3699,6 +3700,7 @@ __mouth-watering__ Delicious; particularly appetizing in appearance, aroma, or d
 __move (one) to tears__  
 __move heaven and earth__ To do everything that one can to make something happen.  
 __move on__ _So, moving on to the next item on the agenda._  
+__move over__  
 __move the goal posts__  
 __move the needle__ :dart::six: To cause a noticeable change in something. The imagery refers to the pointer (“needle”) on a measuring instrument, which moves to indicate the level that has been reached. _It seems all my efforts to get in good with the CEO have done little to move the needle in my favor._  
 __move through the gears__ To steadily increase one’s momentum, as of speed, intensity, progress, or success. _With a lot of hard work and perseverance, our little business is finally starting to move through the gears!_  
@@ -3736,9 +3738,9 @@ __narrow something down__ If you narrow something down, you reduce the number of
 __narrow the gap__  
 __natter on__ To talk idly or incessantly. _Now that she can talk, my little girl will just natter on all day long._  
 __natural hat trick__ _n_ _sports_ A hat trick in which three goals are scored in succession by one player in one game.  
-__navigate__ :five: To carefully and skillfully manage or deal with something that is complex, challenging, or difficult. To successfully manage or work through a difficult or complex situation. _I’m not sure how to navigate this awkward conversation with my boss about a raise._ _Navigating difficult relationships._ _Navigating life._  
+__navigate__ :six: To carefully and skillfully manage or deal with something that is complex, challenging, or difficult. To successfully manage or work through a difficult or complex situation. _I’m not sure how to navigate this awkward conversation with my boss about a raise._ _Navigating difficult relationships._ _Navigating life._  
 __nebbish__ A weak, submissive, pitiful person, especially a man. Adapted from the Yiddish word _nebekh_. _He’s just a sniveling nebbish, not a real man like you._  
-__necessary evil__  
+__necessary evil__ :two::hammer:  
 __neck and neck__ :two::hammer:  
 __neck of the woods__ :two: A neighborhood or nearby area; the area around where one lives.  
 __need (something) (about) as much as (one) needs a hole in the head__ To have absolutely no need or use for something. _I’m perfectly happy having a cell phone that just makes phone calls—I need a fancy new smartphone about as much as I need a hole in the head._  
@@ -3916,7 +3918,7 @@ __off key__
 __off the charts__  
 __off the clock__ :two::hammer:  
 __off the cuff__ (off-the-cuff) Casually and spontaneously; without planning or preparation. Often hyphenated.  
-__off the grid__  
+__off the grid__ :two::hammer:  
 __off the hook__ :three::hammer: _I let you off the hook._  
 __off the rails__ In an abnormal or malfunctioning condition, as in _Her political campaign has been off the rails for months._ The phrase occurs commonly with go, as in _Once the superintendent resigned, the effort to reform the school system went off the rails._ This idiom alludes to the rails on which trains run; if a train goes off the rails, it stops or crashes.  
 __off to the races__ :three: An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting. _The tour bus is out in front waiting and we’ve said goodbye to everyone. Looks like we’re off to the races._  
@@ -4197,7 +4199,7 @@ __pay thanks__ To pay thanks to someone is an expression of gratitude and apprec
 __pay the price__ To suffer the consequences for doing something or risking something. _Oh, my head! I am paying the price for drinking too much last night._  
 __pay through the nose (for something)__ :three::hammer:  
 __PC__  
-__peace of mind__ A tranquility that results from not having worries, guilt, or problems. _If peace of mind is more important to you than earning a lot of money, maybe you should consider teaching._  
+__peace of mind__ :two: A tranquility that results from not having worries, guilt, or problems. _If peace of mind is more important to you than earning a lot of money, maybe you should consider teaching._  
 __peace out__ :two: To depart; to leave. _Let’s peace out. It’s too hot in here._ _Electronic health records are everywhere, so peace out, paper charts._  
 __peach fuzz__ _informal_ A nickname for “vellus hair,” a very thin, soft layer of hair, likened to that which appears on the skin of a peach.  
 __pearl jam__ _Syn_ man batter, semen, come, man juice  
@@ -4231,6 +4233,7 @@ __pick someone or something apart__ :dart: To analyze and criticize someone or s
 __pick someone up__ :two::hammer: _I learned about picking ourselves up when we fall._  
 __pick up after (someone or oneself)__ :dart::two: To collect and put away a mess that someone or oneself has left around. _You really need to pick up after yourself if you’re going to use my workshop._  
 __pick up on (something)__  
+__pick up steam__  
 __pick up__ :three::hammer: _Mindset change is not about picking up a few tricks._ _He will pick up the tool?_  
 __pick your poison__  
 __pick-and-shovel work__  
@@ -4575,6 +4578,7 @@ __riffle__ :two: In James Ellroy’s novels, “riffle” is a verb that means t
 __riffraff__ :two: Undesirable, disreputable, or vulgar people, often used in a condescending manner. _I wouldn’t be seen in a place like that, there’s a lot of riffraff that hang out around there._  
 __right away__ Immediately; at once; without delay. _Right away, I could tell that the plan had no chance of success._ _Sarah’s parents took to her new girlfriend right away._  
 __right mess__ A _right mess_ is a situation or thing that is in complete chaos or disarray. It can be used to describe a situation that is confusing, chaotic, and difficult to manage. _This project has become a right mess!_  
+__right off the bat__ Immediately; at once; without delay.  
 __right on__ :two::hammer: _The description of the bomb was right on._  
 __right the wrong__ _Don Quixote believes he’s destined to right the wrongs of the world._  
 __right up (one’s) alley__ Ideally suited to one’s interests. _This course seemed right up my alley when I signed up for it, but it ended up being dreadfully boring._  
@@ -4619,6 +4623,7 @@ __rolling in dough__ Exceptionally wealthy; having large amounts of money to spe
 __roly-poly__ _A roly-poly hustler._  
 __room to grow__ A phrase used to describe the potential for something to improve or expand in the future. _There is always room to grow._  
 __root cause__ The most fundamental, central, or basic causal element of something.  
+__root out__  
 __rosy__ :two: _mod_ Good; satisfactory. (As a life that is seen through rose-colored glasses.) _Things are looking rosy now that the economy is improving._  
 __rough-and-tumble__ _The rough-and-tumble days the wild west._  
 __roughly speaking__ Approximately. _I think we can plan on having 20 volunteers, roughly speaking._  
@@ -4642,8 +4647,9 @@ __rue the day (that something happened)__ To curse or bitterly regret a point in
 __ruffle (one’s) feathers__  
 __rug rat__ :two: (rugrat, ankle biter) A baby or young child, especially one that is not walking fully or at all (i.e. one that is still crawling on the rug). _How are your two rugrats doing, Tom?_  
 __rule of law__  
+__rule of thumb__ A general principle developed through experiential rather than scientific means. An approximation; a suggested method or guideline. _A good rule of thumb is to plant your seedlings around the end of May._  
 __rule out__ :four: To eliminate, prevent, preclude, or cancel someone or something as a possibility. _They ruled Jim out when they were considering a replacement manager due to his tendency to show up late._  
-__rule the roost__ To be the real boss; to be the person in charge. _For all intents and purposes, it’s the assistant manager who rules the roost._  
+__rule the roost__ :two: To be the real boss; to be the person in charge. To have the most control or authority in a group. _Both of our parents were tough, but Mama was as tough as an old shoe, who ruled the roost without saying a word._ _For all intents and purposes, it’s the assistant manager who rules the roost._  
 __rumble on__ To continue at a low but consistent level or degree, especially when no clear conclusion or resolution seems imminent or likely. Said especially of some argument, complaint, debate, discussion, etc. _The issue has been rumbling on in the background of our industry for nearly 10 years now, but we’re still no closer to figuring out a solution to it._  
 __rumor has it (that)__ :four: People say rumour has it when they are telling you something that they have heard, but do not necessarily think is true. _Rumour has it that tickets were being sold for £300._  
 __rumor mill__ :eight: The source from, or process by, which rumors are generated, spread, and perpetuated among a group of people. Primarily heard in US. _Listen, Barry, you can’t believe everything that comes out of the rumor mill. I can guarantee you that there will be no layoffs this year._  
@@ -4654,13 +4660,14 @@ __run a temperature__ To have an abnormally high body temperature (a fever), whi
 __run afoul of (someone or something)__  
 __run amok__ :four::hammer:  
 __run an errand__ :three::hammer:  
-__run down__  
+__run down__ :two::hammer:  
 __run errands__ :two::hammer:  
-__run for (one’s) money__  
+__run for (one’s) money__ :two::hammer:  
 __run for the hills__  
 __run guns__  
 __run in circles__ :dart: To waste one’s time and energy engaging in trivial, aimless, or futile activities; to fail to make any meaningful progress in some task or activity. _I tried to get an outline drafted for my thesis, but my ideas were so jumbled in my head that I just kept running in circles._  
 __run late__ To be behind schedule; to be a bit late. Typically used in the continuous tense.  
+__run out of patience__ To become unable to remain patient any longer.  
 __run out of steam__  
 __run the place__ _The baby African elephant born at the zoo basically runs the place._  
 __run the show__  
@@ -4678,6 +4685,7 @@ __rush out__
 __saber rattling__ :dart: (saber-rattling) A show or threat of military power. Words and actions that seek to convey anger, power, and intimidation, often in a military setting. _The leaders of these countries need to quit their saber rattling before we end up at war._  
 __sack (someone)__ :two: _slang_ To dismiss someone from employment or service. _The boss will sack you if he sees you’ve been wasting your time like this._  
 __safe and sound__ Unharmed and whole or healthy.  
+__safeguard against (someone or something)__  
 __safety net__ :three::hammer:  
 __salad years__ A carefree time of youthful innocence, ingenuousness, and inexperience. A variant of the more common term “salad days,” which comes from Shakespeare’s _Antony and Cleopatra._ _I thought that I had experienced true romantic love back in my salad years, before I graduated. Now, however, I think love is largely an elaborate delusion._  
 __sally__ _v_ In James Ellroy’s novels, the verb “sally” means to venture out or to go forth, often into some kind of danger or uncertainty.  
@@ -4695,16 +4703,17 @@ __sapphic__ _adj_ A code-word to describe female homosexuality.
 __sass back__ To talk back to someone in a rude, impertinent, and disrespectful manner. A noun or pronoun can be used between “sass” and “back.” _Don’t you dare sass me back like that, son, or I’ll tan your hide!_ _He got suspended for school for sassing back to the teacher again._  
 __sassy__  
 __save (one’s) bacon__ :two: To rescue one from failure, danger, or disaster; to prevent something bad from happening to one. _Thanks for bringing me some extra cash—you really saved my bacon._  
-__save (something) for a rainy day__  
+__save (something) for a rainy day__ :two::hammer:  
 __save face__ :seven: To try to regain favorable standing after something embarrassing has happened. _I was late to the meeting but tried to save face by blaming an urgent call._  
 __save on__  
-__save the day__ :dart::eight: To produce a good result when a bad result was expected. _The team was expected to lose, but Sally made three points and saved the day._  
+__save the day__ :dart::nine::m: To produce a good result when a bad result was expected. _The team was expected to lose, but Sally made three points and saved the day._  
 __save your breath__ Stop useless talk.  
 __saved by the bell__ :two: Saved or spared from difficulty or misfortune by some intervention at the very last moment. An allusion to the bell that ends the round in a boxing match saving a boxer from being counted out.  
 __sawbuck__ :two: _slang_ A 10-dollar bill. A sawbuck is another name for a sawhorse (a support on which timber is placed when it is being cut) that has two crossed legs at each end, creating an X, which were featured on old 10-dollar bills as the Roman numeral for 10. Primarily heard in US. _This place is great. You can get a full meal, a soft drink, and a dessert for less than a sawbuck!_ _I had to slip the clerk an extra sawbuck._  
 __Say again?__ Could you please repeat what you just said? _Sorry, Mike, say again? I’m getting bad reception here._  
 __says who__ :two::hammer: (Says who?)  
 __scads__ :three: _slang_ A large, abundant, or vast number or amount. _Scads of people had turned up to see the concert._ _I’ve still got scads to do before the in-laws arrive!_ _Scads of scotch._  
+__scale up__  
 __scare (one) silly__ To shock or frighten one very suddenly or severely. Hyperbolically alludes to frightening one so severely as to cause them to lose their mind. _Don’t sneak up on me like that, you scared me silly!_  
 __scare story__ A story or rumor that makes something seem more serious, dreadful, or terrifying than it really is. _Every year around Halloween, there’s some scare story in the news about razor blades being found in candy._  
 __scare the (living) daylights out of (one)__ To shock or frighten one very suddenly or severely. _Don’t sneak up on me like that—you scared the living daylights out of me!_  
@@ -4728,6 +4737,7 @@ __score big__ _Come in and score big._
 __score<sup>2</sup>__ __6__ To have sex with someone, especially with a new partner. _Ted can’t think about anything but scoring with Martha._ _It had been nearly six months since I broke up with my boyfriend, so I was really in the mood to score when I went to the club with my friends._  
 __scowl at (someone or something)__ To contort one’s face into an expression of anger, disdain, or disapproval at and because of someone or something. _I always make a point of waving to my neighbor each morning, but all he ever does is scowl at me from his porch._  
 __scramble for (something)__  
+__scratch (one’s) head__  
 __scratch the surface__ :two::hammer:  
 __scream (one’s) head off__ To scream or yell very loudly and lengthily. _Suzy screamed her head off when I told her she couldn’t have an ice cream cone._  
 __screw (one’s) courage to the sticking place__ To remain bold, resolute, determined, and courageous, especially in the face of possible danger, difficulty, hardship, or adversity. Taken from a line in Shakespeare’s _Macbeth_: “We fail! But screw your courage to the sticking-place, and we’ll not fail.” _Men, some of us may not make it back alive, but such is the nature of war; so screw your courage to the sticking place and show them what you’re made of!_  
@@ -4736,7 +4746,7 @@ __scrounge up__ _To scrounge up the funds._
 __scruff(y)__  
 __scurvy__ Low, mean, contemptible, or despicable._ You’re nothing but a scurvy dog, you know that?_  
 __scuttlebutt__ _n_ News; information; gossip. (The legend of origin is that the scuttlebutt was a butt [= cask, keg] of drinking water located near a scuttle [= hatch]. Sailors gathered there to exchange gossip.)  
-__sea change__ A massive, fundamental shift or transformation. _The transition from using desktop computers to mobile devices represents a sea change in data management within the field of information technology._  
+__sea change__ :two: A massive, fundamental shift or transformation. _The transition from using desktop computers to mobile devices represents a sea change in data management within the field of information technology._  
 __second base__ _singular only, US, colloquial_ Touching a partner under his or her clothes, without having sex.  
 __second best__ :four: (Describing) someone or something that is one step below or slightly inferior to the person or thing that is considered the best, especially in a formal ranking. _Even though I’d spent weeks working on my project for the science fair, I still came off second best._  
 __second guess__  
@@ -4755,12 +4765,14 @@ __see red__ :three: To become very angry. To fall into a state of extreme anger,
 __see somebody/something for what they are/it is__ Realize that somebody/something is not as good, pleasant, etc. as they seem/it seems: _I used to really like him, but now I can see him for what he really is — selfish and arrogant!_  
 __see-and-be-seen__ To be noticed by others or to attract attention, especially in social situations. It often implies seeking the attention of important or influential people in order to advance one’s own interests or status. This phrase can also refer to the practice of observing and being observed in social environments, such as trendy nightclubs, where being seen is valued for its own sake. _See-and-be-seen restaurant._  
 __seed corn__ :dart: If someone talks about _seed corn_, they mean resources or people that will produce benefits in the future rather than immediately. _Investment in the industry, the seed corn of future output, has fallen by 75 percent._ Note: If people _eat their seed corn_, they use up their valuable resources, and this will prevent them from being able to do things in the future. _A society that’s unwilling to invest in its future is a society that’s living off capital. It’s eating its seed corn._ Note: A farmer’s seed corn is the grain that is used for planting rather than being sold or eaten.  
+__seeing is believing__  
 __seek after__  
 __seen (_or_ known) better days__ Get in a worse state than in the past; have become old, worn-out, or shabby.  
 __seesaw__ _v_ To vacillate between two options, conditions, or situations. _Of course the senator is going to seesaw on this controversial bill until the last minute. He doesn’t want to announce his vote and anger his constituents before he has to._ _Seesaw leadership only infuses anxiety and distrust into a culture, which can affect performance._  
 __seize the day__ To take the opportunity to do something at the present moment without worrying about the future. _This is our time. Let’s seize the day! We may never get a chance to do this again._  
 __seize the opportunity (to do something)__  
 __seize the opportunity__ :two: To take advantage of an opportunity when offered. _My uncle offered me a trip to Europe, so I seized the opportunity._  
+__seize upon (something)__  
 __self-fulfilling prophecy__  
 __sell (someone, something, or oneself) short__ :two: To undervalue someone, something, or oneself; to underestimate or underappreciate the good qualities of someone, something, or oneself. _Don’t sell yourself short—your writing is really excellent!_  
 __sell like hotcakes__ :two: (seel like hot cakes) To be sold quickly and in large quantities. _This record has been selling like hotcakes—I can’t keep it in stock!_ _We are selling English classes like hotcakes._ :es: vender como churros  
@@ -4783,7 +4795,7 @@ __set (something) out__
 __set about (doing something)__ To undertake a task; to begin doing something. _After the meeting, I’ll set about writing a draft of the report._  
 __set down<sup>1</sup>__ To seat, to cause to sit.  
 __set eyes on (someone or something)__ :two::hammer:  
-__set in stone__ :two: No longer changeable. _The agreement is not yet set in stone._ _Our mindset is never set in stone, but constantly in flux._  
+__set in stone__ :three: No longer changeable. _The agreement is not yet set in stone._ _Our mindset is never set in stone, but constantly in flux._  
 __set the ball rolling__ (start the ball rolling) To set something, often a process, in motion; to act to cause something to begin. _I think it will be easier to become comfortable driving now that I’ve set the ball rolling with driving lessons._ _I’ll set the ball rolling with the icing while you mix the cake batter._  
 __set the bar__  
 __set the pace__  
