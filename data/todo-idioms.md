@@ -1,4 +1,6 @@
 __(Are) you kidding (me)?__ :four::hammer:  
+__(the) next thing (one) knows__  
+__a breeze__  
 __a clear future__ “A clear picture” is an idiomatic expression that means a complete and accurate understanding or representation of something.  
 __a-ha moment__  
 __alongside of (someone or something)__  
@@ -8,11 +10,14 @@ __be better off__
 __be under way__ :two::hammer:  
 __beat (oneself) up__ To continually criticize or question oneself, usually about something that one cannot change.  
 __bloodbath__  
+__brain dead__ __2__ _slang_ So mentally exhausted or lacking focus that one does something poorly and/or makes easily avoidable mistakes.  
 __break out__ __5__ _v_ To occur unexpectedly and intensely. _We knew it was time to leave the club when a fight broke out between guys at the bar._  
 __bummer__ __3__ _adj_ Describing someone or something unpleasant. _Oh, it was a bummer party—you didn’t miss anything._  
 __cash in__ :two::hammer:  
 __chip away__  
 __chitchat__ __2__ _n_ An instance of idle or casual chatter. _We’re just having a chitchat, come on in._  
+__clean up (one’s) act__ To improve one’s behavior.  
+__clinch the deal__  
 __clinch__ _vt_ /klɪntʃ/ To settle something; to make something final. _I was able to clinch the deal, and I got a raise for it._  
 __close the door on (something)__  
 __clothes don’t make the man__ You cannot judge a man’s character based on his clothing and appearance.  
@@ -43,10 +48,12 @@ __date me doc__ A _date me doc_ is a document listing someone’s personal infor
 __day in and day out__  
 __dealio__ _slang_ Alternative form of _dillio._ The deal; that which is current, relevant, or taking place. _What’s the dealio?_  
 __death toll__  
+__decision fatigue__ The deteriorating quality of decisions made by an individual after a long session of decision making.  
 __deepfake__  
 __destim__ [:scroll: de + stimulate] _Destim_ is a slang term that means to calm down by avoiding overwhelming stimuli, such as loud noises or stressful situations, as in _I went outside for a minute in order to destim._  
 __detached from reality__  
 __died in their sleep__ When someone is said to have “died in their sleep,” it typically means that they passed away during the night while they were asleep. This phrase is often used when the cause of death is unclear or when the family wishes to maintain privacy.  
+__dig in(to) (something)__  
 __do the dishes__ To wash plates, glasses, bowls, silverware etc. with soap and water.  
 __do the right thing__ To act or behave correctly, appropriately, or with the best intentions.  
 __edge out__  
@@ -61,6 +68,7 @@ __float an idea__ To suggest something in order to gauge interest in it or other
 __for lack of a better word__  
 __for show__ Done merely for the sake of appearance; not genuine or sincere.  
 __for the birds__  
+__fork over__  
 __free fall__  
 __from the get-go__  
 __frosty__ __2__ _mod_ Cool; really cool and mellow. _That music is really frosty._  
@@ -81,7 +89,7 @@ __gym bunny__ Someone who is obsessively preoccupied with maintaining or improvi
 __Hail Mary__  
 __half a brain__ Common sense. _If he had half a brain, he would have left a long time ago._  
 __hammer out__  
-__hands down__  
+__hands down__ :two::hammer:  
 __happy medium__ A healthy balance between two extremes.  
 __hard line__ :two::hammer:  
 __hard pass__ :dart: _slang_ No; not interested; absolutely not.  
@@ -100,29 +108,40 @@ __high roller__ Someone known for spending or gambling large amounts of money.
 __hold fast__  
 __hold my beer__ A phrase indicating that one is about to do something stupid or dangerous. The image is that of a person at a party who asks a friend to hold their beer so that they can attempt some kind of ill-advised stunt. It is often used humorously to describe how something bad was followed by something even worse. _A: “There’s no way it’s possible to jump from the roof into the pool. It’s 20 feet away!” B: “Hold my beer, amateur.”_  
 __holy cow__  
+__honor (someone) for (something)__ To praise or celebrate someone for a particular act or thing.  
 __I kid you not__  
 __I know, I know__ A conversational phrase used to express that the speaker is aware of what the other person is saying or feeling, often to express empathy or understanding.  
 __if you will__  
 __in (high) hopes of (something)__  
 __in a new light__  
+__iron out__  
+__it is what it is__  
+__keep up with (someone or something)__  
+__knock down__  
 __make (both) ends meet__  
 __make headway__ To make progress.  
+__make no mistake__  
 __north of (some number)__  
 __nose job__  
 __on the lookout__ Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
+__org__ __2__ _n_ An organization.  
 __point of contact__ A person or entity one can seek to access information or services.  
 __quite a (something)__  
 __rain or shine__  
 __run through (something)__ __4__ To guide one through or inform one of the process or details of something. In this usage, a noun or pronoun is used between “run” and “through.” _Can you run me through the plan one more time?_  
 __scavenger hunt__  
+__set (someone or oneself) up for (something)__  
 __set the tone__  
+__shell out__  
 __shift gears__  
+__shoot (oneself) in the foot__  
 __shore up__ :dart:  
 __shot to nothing__ _Snooker_ An attempted pot that is intended not to leave a possible pot for the opponent if missed.  
 __sick to (one’s) stomach__ Nauseated or vomiting.  
 __sidebar conversation__ _informal_ A conversation held privately between two people while one or more other people are already speaking.  
 __sign of the times__  
 __silver lining__  
+__single out__  
 __six ways to Sunday__ _adj_ Askew, at an angle.  
 __skate__  
 __skeevy__ :two: Offensively or unscrupulously repellant, repugnant, or disreputable.  
@@ -143,11 +162,16 @@ __suspend (one’s) disbelief__
 __sweet spot__  
 __take (someone or something) for granted__  
 __take (someone, something, or some place) by storm__ :two::hammer:  
+__take a bite out of (something)__  
+__take five__ :dart: To take a short break, about five minutes.  
+__take sides__ To choose a person or party whom one supports, defends, or agrees with in an argument.  
 __tap into (something)__  
 __the bigger picture__  
 __the holy grail of (something)__  
 __the little things__  
 __the nuts and bolts__ The most basic, fundamental, or essential aspects of something.  
+__watershed moment__  
+__within reason__ Within a logical or sensible scope of action.  
 __yippee-ki-yay__ :two::hammer:  
 __you name it__ :two::hammer:  
 __your thoughts__ :three: A way to invite someone to share their opinion or perspective in a conversation.  
