@@ -148,31 +148,6 @@ __skeevy__ :two: Offensively or unscrupulously repellant, repugnant, or disreput
 __skeleton in the/(one’s) closet__ An embarrassing or shameful secret.  
 __skibidi__ _slang_ A nonsense word or sound without a specific meaning.  
 __skimp on (something)__  
-__slam__ __1__ _vt_ To criticize someone or something.  
-__slide into (someone or something)__  
-__slip up__  
-__slow and steady wins the race__  
-__slowly but surely__  
-__smother (someone or something) with (something)__  
-__sorry to say__ Regretfully; unfortunately. _The film had a lot of potential, but, sorry to say, it falls flat in just about every way._  
-__spin doctor__  
-__steal (one’s) thunder__ Use or appropriate another’s idea, especially to one’s advantage, as in _It was Harold’s idea but they stole his thunder and turned it into a massive advertising campaign without giving him credit._ This idiom comes from an actual incident in which playwright and critic John Dennis (1657-1734) devised a “thunder machine” (by rattling a sheet of tin backstage) for his play, _Appius and Virginia_ (1709), and a few days later discovered the same device being used in a performance of _Macbeth_, whereupon he declared, “They steal my thunder.”  
-__strong words__ :two::hammer:  
-__suspend (one’s) disbelief__  
-__sweet spot__  
-__take (someone or something) for granted__  
-__take (someone, something, or some place) by storm__ :two::hammer:  
-__take a bite out of (something)__  
-__take five__ :dart: To take a short break, about five minutes.  
-__take sides__ To choose a person or party whom one supports, defends, or agrees with in an argument.  
-__tap into (something)__  
-__the bigger picture__  
-__the holy grail of (something)__  
-__the little things__  
-__the nuts and bolts__ The most basic, fundamental, or essential aspects of something.  
-__watershed moment__  
-__within reason__ Within a logical or sensible scope of action.  
-__yippee-ki-yay__ :two::hammer:  
 __you name it__ :two::hammer:  
 __your thoughts__ :three: A way to invite someone to share their opinion or perspective in a conversation.  
 __yup__ :dart: _informal_ A variant of “yes,” possibly based on or influenced by the similar word “nope” (meaning “no.”) _Yup, I’d say so._  

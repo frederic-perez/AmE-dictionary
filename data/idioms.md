@@ -4938,6 +4938,7 @@ __slack off on (something)__ __2__ To be or become lazy or unproductive in relat
 __slackjawed__ _He had gone slackjawed when Jack topd him the news._  
 __slam (someone or something)__ :two::hammer:  
 __slam dunk__  
+__slam__ __1__ _vt_ To criticize someone or something.  
 __slap (one) around__ To physically assault someone, especially as a means of control or intimidation. _Our dad wasn’t afraid to slap us around a bit when we got out of line as kids._  
 __slap (one) on the wrist__ :two: To issue one with a very mild, inconsequential punishment or warning.  
 __slated for__ :two: Scheduled or organized to happen or take place.  
@@ -4949,17 +4950,19 @@ __sleep on (something)__
 __sleep the sleep of the dead__  
 __sleight of hand__ :two::hammer:  
 __slice and dice__ :two: To divide something into many small parts especially to use the result for one’s own purposes.  
+__slide into (someone or something)__  
 __slightly built__ Thin and not very strong or muscular. _The slightly built, 27-year-old man._  
 __slimeball__ An offensive, detestable, or repellent person, especially one who does unscrupulous or immoral things. _My last boss was a total slimeball, making all sorts of shady deals to skim a bit of extra profit for herself._  
 __slink off__ :dart: To leave or retreat in a quiet, sneaky, inconspicuous, or furtive manner. _The would-be burglar slunk off after tripping the alarm._  
 __slip through the cracks__  
-__slip up__ :three::hammer: (slip-up) __1__ :dart: _v_ To blunder; to make a mistake or an error. _I think I slipped up and sent the check to the wrong address._  
+__slip up__ :four::hammer: (slip-up) __1__ :dart: _v_ To blunder; to make a mistake or an error. _I think I slipped up and sent the check to the wrong address._  
 __slippery slope__  
 __slob__  
+__slow and steady wins the race__  
 __slow burner__  
 __slow down__  
 __slow food__  
-__slowly but surely__ :three: At a slow or incremental pace but making steady, dependable progress.  
+__slowly but surely__ :four: At a slow or incremental pace but making steady, dependable progress.  
 __slush fund__ An ancillary or reserve fund that has been accumulated or set aside for undesignated or unspecified purposes, especially those that are or are viewed as being illicit, corrupt, or morally questionable.  
 __smack (one’s) lips__ :two::hammer:  
 __smack-dab__ Directly; exactly at a particular place. Usually used to emphasize a prepositional phrase of location, especially “in the middle.” _There I was, smack-dab in the middle of Taiwan with no money and no way to contact my family._ _The criminal turned the corner and ran smack-dab into a group of off-duty police officers._  
@@ -4975,6 +4978,7 @@ __smoke__ _v_ :three::astonished: __6__ _slang_ To perform extremely well, espec
 __smokescreen__ :pencil2:  
 __smoking gun__ Indisputably incriminating evidence. Likened to a gun that is still smoking after having been fired.  
 __smooch__ /smutʃ/  
+__smother (someone or something) with (something)__  
 __snafu__  
 __snag__ __4__ _vt_ To procure, grab, or steal something. _See if you can snag a couple of good seats while I get the popcorn._  
 __snake oil__  
@@ -5024,6 +5028,7 @@ __something or other__ Something unspecified; one thing or another. _A messenger
 __soon enough__ No later than needed, soon.  
 __sooner rather than later__ :dart:  
 __sorry not sorry__ _slang_ A defiant expression of one’s lack of contrition or regret.  
+__sorry to say__ Regretfully; unfortunately. _The film had a lot of potential, but, sorry to say, it falls flat in just about every way._  
 __sort it out__ :seven: __2__ _Fig._ To study a problem and figure it out. _I can’t sort this out without some more time. Let’s sort out this mess and settle it once and for all._  
 __sort of__  
 __sort out__ __2__ To understand or resolve a problem or conflict. A noun or pronoun can be used between “sort” and “out.” _I’ve spent nearly an hour on this math problem, but I still can’t sort it out._  
@@ -5058,6 +5063,7 @@ __spill the beans__ :eight: To reveal something that was meant to be a secret. _
 __spill the tea__ :three: _slang_ To share or reveal gossip. “Tea” is a slang term for gossip. _OK, what happened at Blair’s party last night? Spill the tea!_  
 __spill__ :dart: _informal_ To disclose or divulge (something).  
 __spin (one’s) wheels__ :six: To waste one’s time or energy idly or frivolously; to neither progress nor regress, but remain in a fixed, neutral position. Expend effort with no result, as in _We’re just spinning our wheels here while management tries to make up its mind._ This idiom, with its image of a vehicle in snow or sand that spins its wheels but cannot move, dates from the mid-1900s. _Feel like you’ve been spinning your wheels in your job search?_ _It’s way too easy for this mentality to lead to spinning your wheels on something that’s not working._ _They kept me on to manage what’s left of this division, but to be honest, I’ve just been spinning my wheels here for the last couple of years._  
+__spin doctor__  
 __spin up__  
 __spiral__ _vi_ To increase continually.  
 __spit out__ _All models spit out photos of real people and copyrighted images._  
@@ -5116,6 +5122,7 @@ __stay strong__
 __stay tuned__ :two::hammer:  
 __stay woke__  
 __staying power__ :three: The ability to remain relevant, influential, profitable, or successful in the future. _This exercise has staying power._  
+__steal (one’s) thunder__ Use or appropriate another’s idea, especially to one’s advantage, as in _It was Harold’s idea but they stole his thunder and turned it into a massive advertising campaign without giving him credit._ This idiom comes from an actual incident in which playwright and critic John Dennis (1657-1734) devised a “thunder machine” (by rattling a sheet of tin backstage) for his play, _Appius and Virginia_ (1709), and a few days later discovered the same device being used in a performance of _Macbeth_, whereupon he declared, “They steal my thunder.”  
 __steal the show__ To become the main focus of attention or deliver the most captivating performance in the presence of one or more others, typically unexpectedly. _The opening band totally stole the show tonight—they were amazing._  
 __steamroll through__  
 __steel (someone or oneself) for (something)__ To cause someone or oneself to be mentally and emotionally prepared for and hardened against some difficult or unpleasant task, situation, outcome, etc. _As horrible as the prospect may be, we all must steel ourselves for war._  
@@ -5167,6 +5174,7 @@ __strike a deal__ :three: To successfully achieve a deal or agreement, especiall
 __strike off__ :two: __1__ To depart for or begin traveling to (some place). _Make sure you eat a good breakfast before you strike off!_  
 __strike out__ __4__ To fail to achieve a desired result. _The eighth film in the horror series struck out with audiences._ _I tried to get a phone number from her, but I struck out again._  
 __strong word__  
+__strong words__ :two::hammer:  
 __strong-arm__  
 __struck a nerve__  
 __studette__ The female version of a stud. A girl that can get any guy she wants, is incredibly good looking, has an amazing personality and is overall awesome at life.  
@@ -5191,6 +5199,7 @@ __surefire__ :two: Certain to work, be effective, or have a particular outcome; 
 __surprise, surprise__ :four: Said ironically of or in a situation in which something very predictable has happened.  
 __survival mode__  
 __sus__ _adj_ _slang_ Suspicious, suspect.  
+__suspend (one’s) disbelief__  
 __swag__ :two::hammer: _slang_ __1__ _n_ Stolen goods or money; loot. _Come on, show us the swag you scored from the jewelry shop!_  
 __swallow (one’s) pride__  
 __swamped__ :dart::four: Extremely busy, to the point of being overwhelmed, overburdened, or overworked. _I’d love to come see your game tomorrow, son, but I’m totally swamped with work right now._  
@@ -5203,7 +5212,7 @@ __sweatshop__ __1__ A factory or workshop in which employees are forced to do ve
 __sweep (one) off (one’s) feet__ :two: To charm one in such a way that they form an instant and strong romantic attraction, usually unexpectedly. _A: “Is Lucy still gushing about her new boyfriend?” B: “Yeah, he must have really swept her off her feet._  
 __sweep down on (someone or something)__  
 __sweep in (to some place)__ To dash or run into some place.  
-__sweet spot__ :five: A particular point, area, or range where something will be most effective or beneficial. _The tension is in my shoulders. Move your hands a little higher… there! That’s the sweet spot._  
+__sweet spot__ :six: A particular point, area, or range where something will be most effective or beneficial. _The tension is in my shoulders. Move your hands a little higher… there! That’s the sweet spot._  
 __sweet tooth__  
 __swept away__  
 __swim against the tide__ To go against or disagree with a prevailing or popularly held opinion or perspective; to act or behave contrary to the majority of others.  
@@ -5230,8 +5239,8 @@ __take (one’s) side__ To support or side with one in an argument.
 __take (one’s) word for it__ To accept what one says without further verifying or investigating. _You’re right to be wary, but, in this case, I think we can take John’s word for it. He has no reason to lie to us._  
 __take (one) aback__  
 __take (quite) a toll (on someone or something)__ To cause damage or wear by using something or by hard living. _Years of sunbathing took a toll on Mary’s skin._ _Drug abuse takes quite a toll on the lives of people._  
-__take (someone or something) for granted__ :two::hammer:  
-__take (someone, something, or some place) by storm__ :six: __2__ To win or gain huge and widespread success or popularity very rapidly. _Baby Yoda took the world by storm and overshadowed his co-stars instantaneously._ _Nvidia stock price has doubled since generative AI took the world by storm last fall._ _Stability AI took the world by storm with its introduction of Stability Diffusion last summer._  
+__take (someone or something) for granted__ :three::hammer:  
+__take (someone, something, or some place) by storm__ :eight: __2__ To win or gain huge and widespread success or popularity very rapidly. _Baby Yoda took the world by storm and overshadowed his co-stars instantaneously._ _Nvidia stock price has doubled since generative AI took the world by storm last fall._ _Stability AI took the world by storm with its introduction of Stability Diffusion last summer._  
 __take (someone) under (one’s) wing__  
 __take (something) for a spin__ :two: To take a brief, leisurely ride in a vehicle, especially an automobile. _Do you want to go take my dad’s Corvette for a spin later?_  
 __take (something) into consideration__  
@@ -5242,6 +5251,7 @@ __take (something) with a grain of salt__ :two::hammer:
 __take (the) roll__ :dart: In a group setting, to call out each person’s name from a list to see if they are present or absent. _I haven’t taken roll yet, but it looks like a lot of kids are absent from school today._ _The teacher spent 10 min of class taking roll._  
 __take a bawling out__ To receive a very severe rebuke, chastisement, or scolding (from someone). _I sure took a bawling out from my parents after I smashed up their car._  
 __take a beating__  
+__take a bite out of (something)__  
 __take a breath__ To inhale and then exhale. _I can tell that you’re just a bit too upset to talk about this. Why don’t you take a breath, calm down a bit, and then we’ll discuss it._  
 __take a breather__ To take a short pause or hiatus (from something). _You can go ahead on the hike if you want, I•m going to stop here and take a breather._ _The senator is taking a breather from his campaign to spend some time with his family._  
 __take a catnap__ To sleep for a very brief but restful period of time. _I’m going to try to take a catnap before my next shift starts, or else I’ll be feeling sluggish for the entire evening._ _Julie gets up really early to do her writing before the kids wake up, then takes little catnaps throughout the day._  
@@ -5271,6 +5281,7 @@ __take by storm__ _The dystopian drama that has taken the internet by storm._
 __take center stage__ To be the main focus.  
 __take charge__  
 __take comfort in (something)__ To be soothed or calmed by something. _When things get tough, I take comfort in the company of my closest friends._  
+__take five__ :dart: To take a short break, about five minutes.  
 __take for granted__  
 __take forever__ :dart:  
 __take fright__ To become very frightened or startled (by something). Often followed by “at (something).”  
@@ -5291,6 +5302,7 @@ __take over__ :four: Assume control, management, or possession of, as in _The pi
 __take pains__  
 __take pride in someone or something__ :three::hammer:  
 __take refuge in (something or some place)__  
+__take sides__ To choose a person or party whom one supports, defends, or agrees with in an argument.  
 __take someone for granted__ To not show that you are grateful to someone for helping you.  
 __take something home__ To take a thought, idea, or concept away [to one’s home] from a meeting or conference. _Take this idea home with you—diversify your investments._  
 __take steps to (do something)__  
@@ -5397,7 +5409,7 @@ __the bee’s knees__ _dated slang_ Something or someone highly enjoyable, desir
 __the bends__ :astonished: A serious and painful condition that divers get if they come up from under the water too quickly.  
 __the big one__  
 __the big picture__  
-__the bigger picture__  
+__the bigger picture__ :two::hammer:  
 __the bigger they come, the harder they fall__ _proverb_ :two: Those who are exceptionally large, powerful, or influential will have more to lose when they fail, and their failure will be all the more dramatic or spectacular because of it. _Over 20 years, he created an iron-fisted dictatorship, but when the revolution came, he and the small few who controlled the country were summarily executed or driven into exile. Truly, the bigger they come, the harder they fall._  
 __the bitter end__  
 __the butt of the joke__ Someone or something at whose expense an insulting or mocking joke is made. _I like hanging out with my brother and his friends, even though he likes to make me the butt of his jokes._  
@@ -5434,6 +5446,7 @@ __the happy day__ :two: A wedding, or marriage in general. _So now that all your
 __the head honcho__ _slang_ The person in charge. _That decision is above my pay grade. You’ll have to ask the head honcho._  
 __the heebie-jeebies__ An extreme or acute sensation of fear, apprehension, worry, or anxiety. Often used houses, for example, give many people the heebie-jeebies, while others get the heebie-jeebies from circus clowns. Often used with “get” or “give.” _I have the heebie-jeebies whenever I go to the dentist._  
 __the hell out of__ _slang_ To a huge or great degree; very much. _Don’t sneak up on me like that, you scared the hell out of me!_ _That movie scared the hell out of me._ _The boxer beat the hell out of his opponent._  
+__the holy grail of (something)__  
 __the honest truth__ The sincere, unadulterated truth.  
 __the icing on the cake__ :two::hammer:  
 __the ick__ :two: _The ick_ is a term used in dating to refer to a sudden feeling of disgust or repulsion to a dating partner someone was previously attracted to. A sudden feeling of disgust or revulsion toward a person, usually one’s date.  
@@ -5455,6 +5468,7 @@ __the likes of (someone or something)__ :two::hammer:
 __the likes of__  
 __the lion’s den__ :two: A particularly dangerous, hostile, or oppressive place or situation, especially due to an angry or sinister person or group of people within it. _I felt like I was walking into the lion’s den when I went in front of the board for my annual review._  
 __the lion’s share__ :three: Major share of something.  
+__the little things__  
 __the lot__ _n_ All the things of a group. _This one’s the best of the lot._  
 __the lowdown on__ :dart: The whole truth about something.  
 __the man to see__ A colloquial expression used to refer to a person who holds significant influence, power, or expertise in a particular field or area. It implies that this individual is the most important or influential person to approach or consult with regarding a specific matter.  
@@ -5476,6 +5490,7 @@ __the next big thing__ A future trend. _Designers will discuss the next big thin
 __the Nikon choir__ The paparazzi or a large group of photojournalists, especially when actively engaged in photographing someone or something of great interest. (Refers to the Nikon brand of camera.) _As soon as the starlet walked out onto the red carpet, the Nikon choir swelled to a nearly deafening volume._  
 __the nitty-gritty__ :four::hammer:  
 __the nosebleeds__ A seating area very high up in a stadium or theater, as for a sporting event, musical performance, play, etc., which typically costs less money but has a restricted view. “Nosebleed” refers jocularly to the effects of extremely high altitudes on the body, which can often cause nasal hemorrhaging, among other symptoms. _I wish you wouldn’t be so stingy when you’re buying tickets. I’m sick of watching football games up in the nosebleeds!_  
+__the nuts and bolts__ The most basic, fundamental, or essential aspects of something.  
 __the old days__  
 __the old gray mare ain’t what she used to be__  
 __the other side__ Existence after death; the world of the afterlife. _I miss my wife terribly, but I keep the faith that I will see her on the other side some day._  
@@ -5848,7 +5863,7 @@ __water torture__
 __water under the bridge__ :dart::two::hammer: _We’ll regard it as water under the bridge, shall we?_  
 __watered-down__  
 __watering hole__ :two::hammer: _Revelers can move around watering holes with impunity._  
-__watershed moment__ :two: A moment of critical importance that marks a dramatic change of course for a particular situation or activity. _The result of the lawsuit proved to be a watershed moment in the fight against censorship._  
+__watershed moment__ :three: A moment of critical importance that marks a dramatic change of course for a particular situation or activity. _The result of the lawsuit proved to be a watershed moment in the fight against censorship._  
 __wax lyrical about something__ If you _wax lyrical_ about a subject, you talk about it in an enthusiastic way. _He waxed lyrical about the skills and commitment of his employees._  
 __way back when__ A relatively long time ago, especially when recalling something that is not the case now. Primarily heard in US. _I used to really like this band way back when, but now that I’m older, they just sound silly to me._  
 __way of life__  
@@ -6001,7 +6016,7 @@ __with reckless abandon__ With rash, unrestrained impulsiveness, enthusiasm, or 
 __wither away__  
 __within arm’s reach__ Close enough to touch, either literally or hypothetically. Easily attainable. _Can you pass me that book over there? It’s within arm’s reach of you._  
 __within reach__  
-__within reason__ :two: Reasonable; reasonably. _You can do anything you want within reason. I’ll pay any sum you ask—within reason._  
+__within reason__ :three: Reasonable; reasonably. Within a logical or sensible scope of action. _You can do anything you want within reason. I’ll pay any sum you ask—within reason._  
 __within the realm(s) of possibility__ Possible; capable of happening. _You worked so hard this semester that I think an A is within the realm of possibility._  
 __within walking distance__  
 __without a doubt__  
@@ -6055,6 +6070,7 @@ __yard__ _n_ A one-hundred-dollar bill. (Underworld.) _The guy wanted a yard jus
 __yea or nay__ :two: Yes or no. “Yea” is pronounced (and commonly misspelled as) “yay.” _What do you think of this outfit for tonight? Yea or nay?_  
 __yeah, yeah (,yeah)__ _informal_ A dismissive phrase commonly used to express impatience, frustration, or incredulity with what the previous speaker has said. _Yeah, yeah, we’ve heard it all before. Now when is your organization going to start taking steps toward real change?_ _A: “And then my dog ate my homework, I swear.” B: “Yeah, yeah, yeah. Tell me what really happened.” A: “I might have forgotten about the assignment.” A: “There we go.”_  
 __yen__ :two: A desire. Often used in the phrase “have a yen for (someone/something).” _Meredith has a real yen to be a surgeon, which, combined with her work ethic, should bring her much success._  
+__yippee-ki-yay__ :two::hammer:  
 __yo__ _slang_ A colloquial variant of “hello,” used either as a greeting or to get someone’s attention. _“Yo, they’re making a movie!_  
 __you are what you eat__ To be healthy, you need to eat good food.  
 __you bet__ _Do you want more coffee? You bet._  
