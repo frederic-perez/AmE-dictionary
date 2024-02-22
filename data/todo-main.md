@@ -1,4 +1,6 @@
-__cap__ _n informal_ __1__ Capital: _venture cap._ __2__ Capitalization: _market cap._  
+__apothegm__ _n_ A terse, witty, instructive saying; a maxim. _Syn_ aphorism  
+__aver__ _v_  
+__bellwether__ _n_ __1__ A sheep that leads the herd, often bearing a bell. __2__ A leader, esp one followed unquestioningly.  
 __capillary__ _adj, n_  
 __capitulate__ _v_ /kuh-PIH-chuh-layt/  
 __captcha__ _n_ /ˈkæptʃə/  
@@ -12,12 +14,15 @@ __cessation__
 __cheat code__ _n_ __2__ A ploy or technique that bypasses traditional methods or rules in order to improve oneself or one’s success: _We don’t know what sort of cheat code he may have discovered to pass the audition, but his mediocre talent sure has us wondering._  
 __chief__ _n_ /tʃiːf/ /tʃif/  
 __cirrhosis__ _n_ /sɪˈroʊ sɪs/ A chronic disease of the liver in which fibrous tissue invades and replaces normal tissue, disrupting important functions, as digestion and detoxification.  
+__clairvoyant<sup>1</sup__ _adj_  
+__clairvoyant<sup>2</sup__ _n_ A person claiming to have the power to foretell future events.  
 __clout__ _n_  
 __cluck__ _n_  
 __co-opt__ _vt_  
 __cold turkey__  
 __comfy__ _adj_ /ˈkʌmfɪ/ _informal_ Short for comfortable. _Don’t get too comfy._  
 __commensurate__ _adj_  
+__compassionate__ _adj_  
 __compound__ _v_  
 __conjubilant__ _adj_ Shouting together with joy.  
 __consign__ _v_ To give over to the care of another; entrust. _Syn_ charge  
@@ -57,6 +62,9 @@ __discharge__ _vt_ __1__ To release or allow to go: _the hospital discharged the
 __dispensation__ _n_  
 __docuseries__ _n_ :two: A documentary, or a collection of documentaries, presented as a series.  
 __dogshit__  
+__doze__ _v_  
+__dozy__  
+__drowsy__  
 __dune__ _n_ /dun, dyun/  
 __dysarthria__ _n_ Difficulty in articulating words, caused by impairment of the muscles used in speech.  
 __encourage__ _vt_ /ɪnˈkʌrɪdʒ/ /ɛnˈkɜr ɪdʒ, -ˈkʌr-/  
@@ -78,18 +86,24 @@ __gibe__ _n, v_ (jibe)
 __global boiling__ _n_  
 __globetrotter__ _n_  
 __gloss__ _n_  
+__gratuitous__ _adj_  
 __greedflation__ _n_  
+__groggy__  
 __grotesque__  
 __guardrail__ _n_  
+__haberdasher__ _n_ A dealer in men’s furnishings. _Syn_ clothier  
+__haggard__ _adj_ /HAG-urd/  
 __headwind__ _n_  
 __high tops__ _n pl_ Training shoes that reach above the ankles.  
 __hitman__ _n slang_  
 __hourlong__ _adj_  
 __humanitarian corridor__ _n_  
 __illustrate__ _v_  
+__impeach__ _v_ To charge (a public official) before a competent tribunal with misconduct in office.  
 __incarcerate__ _vt_ /ɪnˈkɑr səˌreɪt/  
 __jellyfish__ _n_ :es: medusa  
 __juvenile__ _adj, n_  
+__lampoon__ _v_ /lam-POON/  
 __lavabo__ _n_ A basin for washing the hands. _Syn_ handbasin, washbasin, washbowl _The priest washed his hands in the metal lavabo before saying Mass._  
 __levity__ _n_  
 __loggerhead__ _n_ __1__ A thick-headed or stupid person; blockhead.  
@@ -98,6 +112,7 @@ __lost and found__ _n_
 __misclassification__ _n_ :pencil2:  
 __misgiving__ _n_ :two::hammer:  
 __misinformation__ _n_  
+__mottle__  
 __mudslide__ _n_  
 __namely__ _adv_  
 __nutria__ _n_  
@@ -112,6 +127,7 @@ __overdue__ _adj_ Not being on time. _Syn_ behindhand, belated, late, tardy
 __overstate__ _vt_  
 __pairing__ _n_ /ˈpɛərɪŋ/ __1__ Two people, esp sports players, actors, or musicians, who are working together as a pair. __2__ The action of putting two people together  
 __paling__ _n_ A fence made of upright pickets. _Syn_ picket fence  
+__panopticon__ _n_ __1__ A building, as a prison or library, so arranged that all parts of the interior are visible from a single point. A circular prison with a watchtower in the center so that any inmate can be observed from a single point. __2__ A place marked by constant surveillance.  
 __paravalvular__ _adj_ Surrounding or adjacent to a heart valve.  
 __pardon__ _v_  
 __pareidolia__ _n_ The perception of a recognizable image or meaningful pattern where none exists or is intended, as the perception of a face in the surface features of the moon.  
@@ -123,12 +139,15 @@ __pestered__
 __picket line__ _n_  
 __picturesque__  
 __pitfall__ _n_ __1__ An unsuspected difficulty or danger.  
+__posit<sup>1</sup>__ _vt_ __2__ To lay down or assume as a fact or principle; postulate.  
+__posit<sup>2</sup>__ _n_ :astonished: Something that is posited; an assumption; postulate.  
 __prebiotic__ _n_  
 __propitiate__ _v_ :astonished: To conciliate (an offended power). _Syn_ appease _After his grave sin, he tried to propitiate the gods with a sacrifice._  
 __psyops__ _n pl_ Military operations usually aimed at influencing the enemy’s state of mind through noncombative means (such as distribution of leaflets).  
 __pubic symphysis__ _n_ The fixed joint at the front of the pelvic girdle where the two pubic bones meet.  
 __quirk__ _n_ /KWERK/ _Quirk_ refers to an unusual habit or way of behaving. It can also refer to something strange that happens by chance, as in “a quirk of fate.”  
 __range anxiety__ _n informal_ The apprehension or fear that an electric vehicle’s battery will run out of power before reaching one’s intended destination or a charging station.  
+__rapport__ _n_ /ra-POR/  
 __reckless__ _adj_  
 __relatable__  
 __remark__ _n_ /rɪˈmɑrk/  
@@ -146,6 +165,7 @@ __robocall__ _n_
 __romanticize__ _v_ :two::hammer:  
 __rumble__ _vi_ __3__ _slang_ To engage in a gang fight.  
 __safe word__  
+__scatterbrained__ _adj_ Exhibiting or characterized by lack of serious thought or concentration; disorganized; silly.  
 __scoff__  
 __scoreless__ _adj_  
 __Scotland Yard__ _n_  
@@ -159,11 +179,15 @@ __self-doubt__ _n_ A lack of faith or confidence in oneself.
 __semiretired__ _adj_ Working only on a part-time basis, as for reasons of ill health or advanced age.  
 __sex__ _n_ (_n pl_ sexes)  
 __shortage__ _n_ /ˈʃɔr tɪdʒ/  
+__sleepify__ _vt_  
+__somnambulant__ _adj_  
 __spinal column__ _n_ _Syn_ spine, vertebral column, backbone  
+__staid__  
 __storm__ _v_ __2__ To behave or shout angrily; rant and rage: _stormed at his incompetence._  
 __subsidy__ _n_  
 __Suez Canal__ _n_  
 __Sullivan__ _n_ :mega: /ˈsʌl ə vən/  
+__turbid__ _adj_ /TER-bid/  >>>>>>
 __Uncle Sam__  
 __uncover__  
 __work day__ _n_  
@@ -184,3 +208,4 @@ __yowl__ _v_
 __zenith__ _n_ /ZEE-nith/ Zenith refers to the strongest or most successful period of time for a person or thing.  
 __zip pouch__ _n_ (zipper pouch)  
 __zoophagous__ _adj_ Feeding on animal matter; carnivorous. _Syn_ meat-eating  
+<<<<<<__cap__ _n informal_ __1__ Capital: _venture cap._ __2__ Capitalization: _market cap._  
