@@ -48,31 +48,6 @@ __curb__ _vt_
 __cursory__ _adj_  
 __dandelion__ _n_  
 __daydream__ _n_  
-__de rigueur__ _adj_  
-__debrief__  
-__December__ _n_ /dɪˈsɛm bər/  
-__decor__ _n_  
-__deep-routed__ _adj_  
-__default__ _v_  
-__deliver__ _vt_ __8__ To give forth or produce.  
-__deluge<sup>1</sup>__ _n_  
-__deluge<sup>2</sup>__ _vt_  
-__demilitarize__ _vt_  
-__demo__ _v_ _We’ve just demoed Riffusion, an incredible AI song-creation tool!_  
-__demonstration__ _n_ __3__ A public display of group opinion, as by a rally or march: _peace demonstrations._ _Syn_ manifestation :es: manifestación  
-__demonstrator__ _n_ __1__ One that demonstrates, such as a participant in a public display of opinion. :es: manifestante  
-__demystify__ _vt_  
-__denial__ _n_ _Despite denials, blah blah blah._  
-__despite__ _n, prep_ /dɪˈspaɪt/  
-__detour__ _n_  
-__detox__  
-__dire__ _adj_  
-__discharge__ _vt_ __1__ To release or allow to go: _the hospital discharged the patient._  
-__dispensation__ _n_  
-__docuseries__ _n_ :two: A documentary, or a collection of documentaries, presented as a series.  
-__dogshit__  
-__doze__ _v_  
-__dozy__  
 __drowsy__  
 __dune__ _n_ /dun, dyun/  
 __dysarthria__ _n_ Difficulty in articulating words, caused by impairment of the muscles used in speech.  

@@ -4644,6 +4644,7 @@ __dazzle__ _v_ :four::hammer: (dazzled) _He had dazzled a businessman._
 __dazzling__ _adj_ :nine::m: /ˈdæzlɪŋ/ (dazzlingly) __1__ Extremely bright, especially so as to blind the eyes temporarily. _The sunlight was dazzling._ _Syn_ extremely bright, blinding, glaring __2__ Extremely impressive, beautiful, or skilful. _A dazzling display of football._ _Dazzling gifts._ _Syn_ impressive, remarkable, extraordinary, outstanding, exceptional  
 __de facto__ _adj_  
 __de novo__ _adj, adv_ :four::hammer: _Computer-based de novo design of drug-like molecules._  
+__de rigueur__ _adj_  
 __de-escalate__ _v_ :four::pencil2::hammer:  
 __de-facto__  
 __deacon<sup>1</sup>__ _n_ /DEE-kuhn/ [:scroll: from Greek diakonos (servant, minister)] In a church, a person appointed as a lay leader to a position below a pastor, priest, etc.  
@@ -4682,7 +4683,7 @@ __debilitating__ _adj_ /dih-BILL-uh-tay-ting/ Causing serious impairment of stre
 __debonair__ _adj_ :three::hammer: /deb-uh-NAIR/  
 __debonnaire__ _adj_ :two::hammer:  
 __debouch__ _v_ :two: __1__ March out (as from a defile) into open ground. _The regiments debouched from the valley._ __2__ Pass out or emerge; especially of rivers. _The tributary debouched into the big river._  
-__debrief__ _v_  
+__debrief__ _v_ :two::hammer:  
 __debriefing__ _n_ :seven::hammer: _You must show up at least 15 minutes early for debriefing._ _A three-day debriefing session._  
 __debris__  
 __debt__ _n_ :five::mega::mute:[de~~b~~t]:hammer:  
@@ -4702,6 +4703,7 @@ __decanter__ _n_ :three: A vessel used for decanting, especially a decorative bo
 __decathlon__  
 __deceit__ _n_ :three::mega::hammer: /dɪˈsiːt/  
 __decelerate__ _v_  
+__December__ _n_ /dɪˈsɛm bər/  
 __decidedly__ _adv_ :pencil2: Without question and beyond doubt. _It was decidedly too expensive._ _It’s offering a decidely fresh atmosphere._  
 __decidophobia__ _n_  
 __deciduous__ _adj_ :three: Shedding the leaves annually.  
@@ -4724,7 +4726,7 @@ __decommits__
 __decompensation__ _n_ __1__ _Medicine_ The inability of a bodily organ or system, especially the circulatory system, to maintain adequate physiological function in the presence of disease.  
 __decongestant__ _n_ :three::pencil2: A drug that helps you breathe more easily when you have a cold. _Decongestants are also known blood pressure-raisers._  
 __deconstruct__ _v_ :two::hammer:  
-__décor__ _n_  
+__decor__ _n_ :two::hammer: (décor)  
 __decorated__ _adj_ :two::hammer: _A decorated veteran._ _He is one of Seattle’s most decorated chefs._  
 __decorous__ _adj_ /DECK-er-us/ Decorous means “marked by propriety and good taste; correct.” A person or thing that is decorous conforms to an approved or conventional standard.  
 __decouple__ _v_  
@@ -4751,7 +4753,7 @@ __Deep South__
 __deep trouble__ _n_ _You’re in deep trouble._ “Deep, Deep Trouble”, song from the album The Simpsons Sing the Blues.  
 __deep__ _adj_ _Ralph has a deep Batman collection._  
 __deep-dish pie__ _n_ (Cookery) _chiefly US and Canadian_ A pie baked in a deep dish and having only a top crust.  
-__deep-routed__  
+__deep-routed__ _adj_ :two::hammer:  
 __deep-seated__ _adj_ _Deep-seated flaws._  
 __deep-six__ _v informal_ :three: Destroy or dispose of (something) irretrievably. _Someone had deliberately deep-sixed evidence._ _Bonuses were being deep-sixed._  
 __deep<sup>1</sup>__ _adj_ :two::hammer: _Deep discounted prices._ __1g__ (Sports) Located or taking place near the outer boundaries of the area of play: _deep left field._ _Tyron Taylor throws a nice deep ball._  
@@ -4765,7 +4767,7 @@ __defamatory__ _adj_ Injurious to someone’s name or reputation.
 __defang__ _v_  
 __defanging__ _n_  
 __default<sup>1</sup>__ _n_  
-__default<sup>2</sup>__ _v_ :six::hammer: _The Solar Energy company defaulted._  
+__default<sup>2</sup>__ _v_ :seven::hammer: _The Solar Energy company defaulted._  
 __defect__ _vi_ :nine::m: __1__ To disown allegiance to one’s country and take up residence in another: _a Soviet citizen who defected to Israel._ _He defected to Canada with the help of the CIA._ To desert one’s country, cause, allegiance, etc, esp in order to join the opposing forces. _A Soviet grandmaster had defected to the West._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
 __defection__ _n_ :nine::m: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward’s defection._  
 __defective__ _adj_  
@@ -4823,7 +4825,7 @@ __delight<sup>2</sup>__ _v_ _It delighted me even though I expected it._
 __delimit__ _v_ Set, mark, or draw the boundaries of something. _Syn_ demarcate _This map that my mother drew delimits how far from home I am allowed to wander without an adult._  
 __delirium tremens__ _n_ An acute, sometimes fatal episode of delirium usually caused by withdrawal or abstinence from alcohol following habitual excessive drinking. It also may occur during an episode of heavy alcohol consumption.  
 __delisted__ _v_  
-__deliver<sup>1</sup>__ _vt_ :two::hammer:  
+__deliver<sup>1</sup>__ _vt_ :three::hammer: __8__ To give forth or produce.  
 __deliver<sup>2</sup>__ _vi_ :dart::nine::m: __1__ To produce or achieve what is desired or expected; make good: _The senator delivered on her pledge._ _He is a manager who just can’t seem to deliver._ _Al was a man who could deliver._ _Republicans apparently cannot deliver._ _There is a hundred grand if you can deliver._ _Can the recovery plan for elective care in England deliver?_ __2__ To give birth: _She expects to deliver in late August._  
 __deliverance__ _n_ :seven::hammer: _Hope and deliverance._  
 __delivery note__  
@@ -4831,8 +4833,8 @@ __dell__ _n_ A small secluded wooded valley.
 __delouse__ _v_ :two::hammer: _They’re deloused once a month._  
 __delphinium__ _n_  
 __delude__ _v_ :four::hammer: (deluded)  
-__deluge<sup>1</sup>__ _n_ :nine: A lot of things all happening or arriving at the same time, especially if they are hard to deal with. _The deluge is not over._ _A digital deluge._  
-__deluge<sup>2</sup>__ _v_ :four: (deluged) To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
+__deluge<sup>1</sup>__ _n_ :nine::m: A lot of things all happening or arriving at the same time, especially if they are hard to deal with. _The deluge is not over._ _A digital deluge._  
+__deluge<sup>2</sup>__ _vt_ :five: (deluged) To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
 __delusional__ _adj_ Suffering from or characterized by delusions. _Syn_ psychoneurotic, neurotic  
 __deluxe__ _adj_ :two::hammer: _Deluxe album._ _Deluxe hotels._  
 __delve__ _v_ :four::dart::hammer: /DELV/  
@@ -4845,13 +4847,14 @@ __demean__ _v_ :five::hammer: (demeaned, demeaning)
 __demeaning__ _adj_ :two::hammer: _This job is demeaning._  
 __demeanor__ _n_ :three: /dih-MEE-ner/ Demeanor refers to a person’s behavior toward other people. It is usually used in the singular. _The teacher’s quiet demeanor had a calming effect on the children._  
 __demigod__ _n_ :two: A person with great powers and abilities. _Syn_ superman, Ubermensch  
-__demo__ _v_ Short for demonstrate. _Google demoed its AI-powered search engine._  
+__demilitarize__ _vt_  
+__demo__ _v_ :two: Short for demonstrate. _Google demoed its AI-powered search engine._ _We’ve just demoed Riffusion, an incredible AI song-creation tool!_  
 __demob-happy__ _adj_  
 __demographic__ _adj_  
 __demonize__ _vt_ :eight::hammer: (demonizing) __3__ To represent as evil or diabolic: _wartime propaganda that demonizes the enemy._  
 __demonstrate__ _v_ :pencil2:  
-__demonstration__ _n_  
-__demonstrators__  
+__demonstration__ _n_ :two: __3__ A public display of group opinion, as by a rally or march: _peace demonstrations._ _Syn_ manifestation :es: manifestación  
+__demonstrator__ _n_ :two: __1__ One that demonstrates, such as a participant in a public display of opinion. :es: manifestante  
 __demonym__ _n_ /dĕm′ə-nĭm′/ A name, such as _Swede_ or _New Yorker_, that denotes an inhabitant or native of a given place.  
 __demosaicing__ _adj_ (de-mosaicing, demosaicking)  
 __demote__ _vt_  
@@ -4859,7 +4862,7 @@ __demur__ _v_ (demurred) :five::hammer: (demurred)
 __demure__ _adj_ :six: /dih-MYOOR/ Affectedly modest or shy especially in a playful or provocative way. _Syn_ coy, overmodest  
 __demurely__ _adv_ :three::hammer:  
 __demurral__ _n_  
-__demystify__ _vt_ :three::hammer:  
+__demystify__ _vt_ :four::hammer:  
 __den mother__ _n_ __2__ Someone who plays the role of a den mother. _He serves as den mother to all the freshmen in this dormitory._  
 __den__ _n_ :seven: __1__ The shelter or retreat of a wild animal; a lair. __2__ A cave or hollow used as a refuge or hiding place. __3__ A hidden or squalid dwelling place: _a den of thieves._ __4__ A secluded room for study or relaxation.  
 __dendrites__ _n_ :two::hammer:  
@@ -4867,6 +4870,7 @@ __dendritic__
 __denervation__ _n_  
 __dengue fever__  
 __dengue__ _n_ :two:hammer:  
+__denial__ _n_ _Despite denials, blah blah blah._  
 __denier__ _n_ :two: A small coin of varying composition and value current in western Europe from the eighth century until the French Revolution.  
 __denigrate__ _v_ :two: To disparage; belittle. _Syn_ derogate _He helped you a great deal on this project, so don’t take all the credit and denigrate his influence._ _It denigrates your performance considerably._  
 __denigration__ _n_  
@@ -4938,6 +4942,7 @@ __desolate<sup>2</sup>__ _v_ /des-uh-leyt/ __1__ To lay waste; devastate. __2__ 
 __despair__ _n_ :two::hammer:  
 __despicable__  
 __despise__ _v_  
+__despite__ _n, prep_ /dɪˈspaɪt/  
 __despoil__ _v_ :three::hammer: (despoiled, despoiling)  
 __despondency__ _n_ :three: Depression of spirits from loss of hope, confidence, or courage; dejection. _Syn_ despondence, disconsolateness _He slipped through all the grades of despondency until he reached a bottom of absolute gloom._  
 __despondent__ _adj_ :nine: Feeling or showing profound hopelessness, dejection, discouragement, or gloom. _Syn_ heartsick  
@@ -4959,8 +4964,9 @@ __detergent<sup>2</sup__ _adj_
 __deterrence__ _n_ :two::hammer:  
 __deterrent<sup>1</sup>__ _n_ :nine::m: A deterrent makes you not want to do something. Let’s say there’s a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won’t commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
 __deterrent<sup>2</sup>__ _adj_ :two::hammer:  
-__detour<sup>1</sup>__ _n_ :two::hammer:  
+__detour<sup>1</sup>__ _n_ :three::hammer:  
 __detour<sup>2</sup>__ _v_  
+__detox__  
 __detractor__ _n_ :two::astonished: One who disparages or belittles the worth of something. _Syn_ depreciator, disparager, knocker _His stellar performance silenced many of his detractors._  
 __detriment__ _n_ A damage or loss. _Syn_ hurt _Her employers were understanding, and she was able to take a long leave of absence without detriment to her career._  
 __detrimental__ _adj_ :three::hammer:  
@@ -5090,7 +5096,7 @@ __diplopia__ _n_ A pathological condition of vision in which a single object app
 __dips__ _n_  
 __dipsomania__  
 __dipstick__ _n_ :three: A rod for measuring the depth of a liquid, esp. the level of crankcase oil in an automotive engine.  
-__dire__ _adj_ :nine: (of a situation or event) Extremely serious or urgent. _Doctors warned of dire consequences._ _Syn_ terrible, dreadful, appalling, frightful, awful :es: terrible, horrible, horrendo, fatal _After showing some improvement, Howe’s health again appeared dire last weekend._ _No matter how dire the news may be, there’s always something you can do._  
+__dire__ _adj_ :nine::m: (of a situation or event) Extremely serious or urgent. _Doctors warned of dire consequences._ _Syn_ terrible, dreadful, appalling, frightful, awful :es: terrible, horrible, horrendo, fatal _After showing some improvement, Howe’s health again appeared dire last weekend._ _No matter how dire the news may be, there’s always something you can do._  
 __direct object__  
 __direction__ _n_ :two::mega:  
 __dirge__ _n_ :four::hammer: :es: canto fúnebre  
@@ -5123,7 +5129,7 @@ __disbeliever__ _n_ Someone who refuses to believe (as in a divinity).
 __discectomy__ _n_ The partial or complete excision of an intervertebral disk.  
 __discerning__ _adj_ :dart::three::hammer: _Downtown Boulder has everything a discerning diner could ask for and more._ _A discerning traveler._  
 __discerp__ _vt_ /di-SUHRP/ [:scroll: From Latin discerpere (to tear to pieces), from dis- (apart) + carpere (to pick, pluck)] To tear off or to rip into pieces.  
-__discharge__ _v_ :nine::m::dart: (discharged) To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You’d probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ _The patient was discharged the day after the operation._  
+__discharge__ _vt_ :nine::m::dart: (discharged) To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You’d probably like being discharged from jail, but not from your job, unless you really hate it. _The hospital discharged the patient._ _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ _The patient was discharged the day after the operation._  
 __discharged__ _adj_ Having lost your job. _He was discharged from the Air Force._ _Syn_ dismissed, fired, laid-off, pink-slipped  
 __disciple__ _n_ :two::mute:[dis~~c~~iple] One who embraces and assists in spreading the teachings of another. _Syn_ adherent  
 __discipline__ _v_  
@@ -5218,6 +5224,7 @@ __dispassionate__ _adj_ :dart: Devoid of or uninfluenced by emotion or prejudice
 __dispatch__ _v_  
 __dispatcher__ _n_ :two::hammer:  
 __dispel__ _vt_ :nine::m: (dispelled) __1__ To drive off in various directions; disperse; dissipate. __2__ To cause to vanish; alleviate. _She dispelled the myth._  
+__dispensation__ _n_  
 __dispense__ _v_ :two::hammer: _He dispensed invaluable advice._  
 __dispenser__  
 __disperse__ _v_ To drive off or scatter in different directions. _Syn_ dissipate, spread, dispel _When it seemed that a riot was about to start, the police arrived to disperse the crowd._  
@@ -5314,7 +5321,7 @@ __docket__ _n_ :dart::six: A list of things to be done. _Syn_ agenda, schedule
 __doctor__ _vt_ :five: __3a__ To falsify or change in such a way as to make favorable to oneself: _doctored the evidence._ _Imagine if a doctored video of a politician appeared the day before an election._ _A photograph doctored by his aides._  
 __doctoring__ _n_ The act of making different in order to deceive, tamper with, falsify, or adulterate.  
 __doctrinaire__ _adj_ /dahk-truh-NAIR/  
-__docuseries__ _n_ A documentary that is telecast in a series of programs.  
+__docuseries__ _n_ :three: A documentary, or a collection of documentaries, telecast in a series of programs.  
 __dodder__ _v_ :two: (doddering) Walk unsteadily. _Syn_ coggle, totter _The two elderly ladies were slowly doddering along, minding their own business, when a bike messenger sped by them on the sidewalk and nearly knocked them over._  
 __doddle__ _n_ _informal Brit_ something easily accomplished. Something easily done, fixed, etc.  
 __dodgeball__ _n_  
@@ -5346,7 +5353,7 @@ __dogleg<sup>1</sup>__ _n_
 __dogleg<sup>2</sup>__ _v_ (doglegs)  
 __dogleg<sup>3</sup>__ _adj_ :two::hammer: _A dogleg twenty-gauge in his hand._  
 __dognap__ _v_ To steal (a dog), esp. for the purpose of selling it for profit.  
-__dogshit__ _n_  
+__dogshit__ _n_ :two::hammer:  
 __dogsled__  
 __dogtrot__ _n_  
 __dogwoods__ _n_  
@@ -5490,7 +5497,8 @@ __dowry__ _n_ :six::hammer: (dowries) :es: dote
 __doxing__ _n_ (doxxing) [:scroll: From the word _docs_ (short for _documents_)] The act of publishing someone’s personal information or revealing their identity without their consent. Doxing is often done in an attempt to intimidate someone by invading their privacy and causing them to fear for their safety, especially due to the threats they often receive after having been doxed.  
 __doyenne__  
 __doze<sup>1</sup>__ _n_  
-__doze<sup>2</sup>__ _v_  
+__doze<sup>2</sup>__ _v_ :two::hammer:  
+__dozy__  
 __Dr. Seuss__ _n_ United States writer of children’s books (1904-1991).  
 __drab<sup>1</sup>__ _adj_ :seven: (drabber jobs) Dull or commonplace in character; dreary: _a drab personality._ _Drab cities._ _A drab office._  
 __drab<sup>2</sup>__ _n_  
