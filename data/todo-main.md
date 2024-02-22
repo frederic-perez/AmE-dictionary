@@ -1,6 +1,12 @@
+__alumni__  
+__amendment__ _n_  
 __apothegm__ _n_ A terse, witty, instructive saying; a maxim. _Syn_ aphorism  
+__armorer__ _n_  
 __aver__ _v_  
 __bellwether__ _n_ __1__ A sheep that leads the herd, often bearing a bell. __2__ A leader, esp one followed unquestioningly.  
+__bolster__ _v_  
+__breeze__ _n_ __1__ A light current of air; a gentle wind.  
+__cap__ _n informal_ __1__ Capital: _venture cap._ __2__ Capitalization: _market cap._  
 __capillary__ _adj, n_  
 __capitulate__ _v_ /kuh-PIH-chuh-layt/  
 __captcha__ _n_ /ˈkæptʃə/  
@@ -12,6 +18,7 @@ __caucus__ _n_
 __cerebritis__ _n_ /ˌsɛrɪˈbraɪtɪs/ An infection or inflammation of the brain.  
 __cessation__  
 __cheat code__ _n_ __2__ A ploy or technique that bypasses traditional methods or rules in order to improve oneself or one’s success: _We don’t know what sort of cheat code he may have discovered to pass the audition, but his mediocre talent sure has us wondering._  
+__cherry bomb__ _n_ :camera: A red, ball-shaped firecracker that explodes with a loud bang.  
 __chief__ _n_ /tʃiːf/ /tʃif/  
 __cirrhosis__ _n_ /sɪˈroʊ sɪs/ A chronic disease of the liver in which fibrous tissue invades and replaces normal tissue, disrupting important functions, as digestion and detoxification.  
 __clairvoyant<sup>1</sup__ _adj_  
@@ -34,8 +41,9 @@ __coveted__ _adj_ /ˈkʌvɪtɪd/ Greatly desired. _Syn_ desired, in demand, soug
 __cozy__ _adj_ Relating to a genre of mystery stories with little suspense, explicit violence, or sexual content, often also having amateur sleuths and idyllic, intimate settings.  
 __crease__ _v_  
 __crepitation__ _n_  
+__cruciferous__  
 __cue ball__ _n_  
-__cue__ _n_ :es: taco  
+__cue__ _n_ :two::hammer: :es: taco  
 __curb__ _vt_  
 __cursory__ _adj_  
 __dandelion__ _n_  
@@ -45,6 +53,7 @@ __debrief__
 __December__ _n_ /dɪˈsɛm bər/  
 __decor__ _n_  
 __deep-routed__ _adj_  
+__default__ _v_  
 __deliver__ _vt_ __8__ To give forth or produce.  
 __deluge<sup>1</sup>__ _n_  
 __deluge<sup>2</sup>__ _vt_  
@@ -81,6 +90,11 @@ __ex-con__ _n informal_ A former prisoner.
 __exacerbation__ _n_  
 __exhilarating__ _adj_ /ɪɡˈzɪləˌreɪtɪŋ/  
 __expire__ _v_  
+__firearm__ _n_  
+__foundational__ _adj_  
+__fresh__ _adj_ _Fresh sanctions._  
+__gatekeep__ _v_  
+__gazillion__  
 __generic name__ _n_  
 __gibe__ _n, v_ (jibe)  
 __global boiling__ _n_  
@@ -93,6 +107,7 @@ __grotesque__
 __guardrail__ _n_  
 __haberdasher__ _n_ A dealer in men’s furnishings. _Syn_ clothier  
 __haggard__ _adj_ /HAG-urd/  
+__hands-down__ _adj_ __1__ Easy: _A hands-down victory._ __2__ Unchallenged; certain: _a hands-down bestseller._  
 __headwind__ _n_  
 __high tops__ _n pl_ Training shoes that reach above the ankles.  
 __hitman__ _n slang_  
@@ -101,14 +116,17 @@ __humanitarian corridor__ _n_
 __illustrate__ _v_  
 __impeach__ _v_ To charge (a public official) before a competent tribunal with misconduct in office.  
 __incarcerate__ _vt_ /ɪnˈkɑr səˌreɪt/  
+__irk__ _vt_ /ɜrk/ To irritate, annoy, or exasperate.  
 __jellyfish__ _n_ :es: medusa  
 __juvenile__ _adj, n_  
 __lampoon__ _v_ /lam-POON/  
 __lavabo__ _n_ A basin for washing the hands. _Syn_ handbasin, washbasin, washbowl _The priest washed his hands in the metal lavabo before saying Mass._  
+__lead__ _n_ :mega:  
 __levity__ _n_  
 __loggerhead__ _n_ __1__ A thick-headed or stupid person; blockhead.  
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
 __lost and found__ _n_  
+__meritless__ _adj_  
 __misclassification__ _n_ :pencil2:  
 __misgiving__ _n_ :two::hammer:  
 __misinformation__ _n_  
@@ -131,11 +149,13 @@ __panopticon__ _n_ __1__ A building, as a prison or library, so arranged that al
 __paravalvular__ _adj_ Surrounding or adjacent to a heart valve.  
 __pardon__ _v_  
 __pareidolia__ _n_ The perception of a recognizable image or meaningful pattern where none exists or is intended, as the perception of a face in the surface features of the moon.  
+__parliament__ _n_  
 __peanut allergy__ _n_  
 __penny candy__ _n_ Inexpensive candy originally costing a penny apiece.  
 __pergola__ _n_ An arbor or a passageway of columns supporting a roof of trelliswork on which climbing plants are trained to grow. _Syn_ arbor, bower  
 __permafrost__ _n_  
 __pestered__  
+__phytonutrient__  
 __picket line__ _n_  
 __picturesque__  
 __pitfall__ _n_ __1__ An unsuspected difficulty or danger.  
@@ -156,6 +176,7 @@ __renowned__ _adj_
 __reptilian__ _adj_ :dart: /rep-TIL-ee-uhn, -TIL-yuhn/ __1__ Contemptible. __2__ Treacherous. __3__ Like a reptile.  
 __respondent__ _n_ /rɪˈspɒn dənt/  
 __rest__ _n_ __13__ (Billiards & Snooker) Any of various special poles used as supports for the cue in shots that cannot be made using the hand as a support.  
+__restorative__  
 __restraint__ _n_  
 __resurgence__ _n_  
 __rife__ _adj_  
@@ -163,6 +184,7 @@ __rigorous__ _adj_
 __ringleader__ _n_ /ˈrɪŋˌliːdə/ A person who leads others in any kind of unlawful or mischievous activity. :es: cabecilla  
 __robocall__ _n_  
 __romanticize__ _v_ :two::hammer:  
+__roundup__  
 __rumble__ _vi_ __3__ _slang_ To engage in a gang fight.  
 __safe word__  
 __scatterbrained__ _adj_ Exhibiting or characterized by lack of serious thought or concentration; disorganized; silly.  
@@ -187,9 +209,12 @@ __storm__ _v_ __2__ To behave or shout angrily; rant and rage: _stormed at his i
 __subsidy__ _n_  
 __Suez Canal__ _n_  
 __Sullivan__ _n_ :mega: /ˈsʌl ə vən/  
-__turbid__ _adj_ /TER-bid/  >>>>>>
+__suspend__ _v_  
+__turbid__ _adj_ /TER-bid/  
 __Uncle Sam__  
 __uncover__  
+__unrelenting__ _adj_  
+__wicked__ _adj_ /ˈwɪkɪd/  
 __work day__ _n_  
 __write-up__ _n_  
 __wrongdoing__ _n_ :two::hammer:  
@@ -208,4 +233,3 @@ __yowl__ _v_
 __zenith__ _n_ /ZEE-nith/ Zenith refers to the strongest or most successful period of time for a person or thing.  
 __zip pouch__ _n_ (zipper pouch)  
 __zoophagous__ _adj_ Feeding on animal matter; carnivorous. _Syn_ meat-eating  
-<<<<<<__cap__ _n informal_ __1__ Capital: _venture cap._ __2__ Capitalization: _market cap._  
