@@ -23,31 +23,6 @@ __brain dead__ __2__ _slang_ So mentally exhausted or lacking focus that one doe
 __break out__ __5__ _v_ To occur unexpectedly and intensely. _We knew it was time to leave the club when a fight broke out between guys at the bar._  
 __bummer__ :two: __3__ _adj_ Describing someone or something unpleasant. _Oh, it was a bummer party—you didn’t miss anything._  
 __cash in__ :two::hammer:  
-__chip away__  
-__chitchat__ __2__ _n_ An instance of idle or casual chatter. _We’re just having a chitchat, come on in._  
-__clean up (one’s) act__ To improve one’s behavior.  
-__clinch the deal__  
-__clinch__ _vt_ /klɪntʃ/ To settle something; to make something final. _I was able to clinch the deal, and I got a raise for it._  
-__close the door on (something)__  
-__clothes don’t make the man__ You cannot judge a man’s character based on his clothing and appearance.  
-__Coke-bottle glasses__  
-__cold, hard cash__ Dollar bills and coins, as opposed to checks or credit. _The deal won’t go through unless we pay him in cold, hard cash._  
-__collude with (someone or something)__  
-__come a long way__ To make significant progress. Almost always used in the present perfect tense (“have/has come a long way”).  
-__come to light__  
-__come together__  
-__common ground__  
-__comply with (something)__ To follow or adhere to a particular rule or regulation.  
-__conventional wisdom__  
-__cook up__  
-__correct me if I’m wrong__ Used to introduce a piece of information one believes is true, especially as a means of correcting someone else.  
-__cosleep__ Of a parent, to sleep in the same bed or room as one or more of their small or infant children. _We’re going to try cosleeping once the baby is born._ _Co-sleeping was a factor in quarter of Scotland’s infant deaths in 2023._  
-__cost the earth__ To be exorbitantly expensive.  
-__count on (someone or something)__  
-__crack down__  
-__crank up__  
-__cut a deal__  
-__cut it__  
 __cut off__ :two: __2__ _v_ To abruptly move in front of another driver, either intentionally or unintentionally. In this usage, a noun or pronoun can be used between “cut” and “off.” _Can you believe that jerk cut me off like that? I nearly hit him!_  
 __cut someone or something out__  
 __cut to the chase__  
