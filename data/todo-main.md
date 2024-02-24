@@ -1,28 +1,3 @@
-__alumni__  
-__amendment__ _n_  
-__apothegm__ _n_ A terse, witty, instructive saying; a maxim. _Syn_ aphorism  
-__armorer__ _n_  
-__aver__ _v_  
-__bellwether__ _n_ __1__ A sheep that leads the herd, often bearing a bell. __2__ A leader, esp one followed unquestioningly.  
-__bolster__ _v_  
-__breeze__ _n_ __1__ A light current of air; a gentle wind.  
-__cap__ _n informal_ __1__ Capital: _venture cap._ __2__ Capitalization: _market cap._  
-__capillary__ _adj, n_  
-__capitulate__ _v_ /kuh-PIH-chuh-layt/  
-__captcha__ _n_ /ˈkæptʃə/  
-__cardioplegia__ _n_ /ˌkɑːdɪəʊˈpliːdʒɪə/ Deliberate arrest of the action of the heart, as by hypothermia or the injection of chemicals, to enable complex heart surgery to be carried out.  
-__cartomancy__ _n_ Fortune-telling by means of playing cards.  
-__caseous__ _adj_ Resembling cheese.  
-__cast iron__ _n_ :es: hierro fundido  
-__caucus__ _n_  
-__cerebritis__ _n_ /ˌsɛrɪˈbraɪtɪs/ An infection or inflammation of the brain.  
-__cessation__  
-__cheat code__ _n_ __2__ A ploy or technique that bypasses traditional methods or rules in order to improve oneself or one’s success: _We don’t know what sort of cheat code he may have discovered to pass the audition, but his mediocre talent sure has us wondering._  
-__cherry bomb__ _n_ :camera: A red, ball-shaped firecracker that explodes with a loud bang.  
-__chief__ _n_ /tʃiːf/ /tʃif/  
-__cirrhosis__ _n_ /sɪˈroʊ sɪs/ A chronic disease of the liver in which fibrous tissue invades and replaces normal tissue, disrupting important functions, as digestion and detoxification.  
-__clairvoyant<sup>1</sup__ _adj_  
-__clairvoyant<sup>2</sup__ _n_ A person claiming to have the power to foretell future events.  
 __clout__ _n_  
 __cluck__ _n_  
 __co-opt__ _vt_  

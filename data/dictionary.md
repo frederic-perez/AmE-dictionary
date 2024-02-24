@@ -493,7 +493,7 @@ __altogether__ _adv_ :two::hammer: _Coach Rose was not altogether pleased with t
 __altruism__ _n_  
 __alum__ _n informal_ :four: An alumna or alumnus. _A Vanderbilt alum._  
 __aluminum__ _n_ :four::pencil2::hammer:  
-__alumni__ _n pl_ :two::hammer:  
+__alumni__ _n pl_ :three::hammer:  
 __amalgam__  
 __amalgamate__ _v_  
 __amaranth__ _n_ __2__ An imaginary flower that never fades.  
@@ -521,6 +521,7 @@ __ameliorate__ _v_ :three::hammer: /uh-MEE-lee-uh-rayt/
 __amen__  
 __amenable__ _adj_ :dart::four::astonished: __1__ Open or susceptible to suggestion; likely to listen, cooperate, etc. _The team leader was amenable to any reasonable suggestion._ __2__ Accountable for behavior to some authority; answerable. __3__ Capable of being or liable to be tested, judged, etc.  
 __amend__ _v_ _The Texas constitution was amended in 1891._  
+__amendment__ _n_  
 __amends__ _n pl_ :three: (plurale tantum)  
 __amenity__ _n_ :two::hammer: _Amenity kits._  
 __America__ _n_ :mega: /əˈmɛrɪkə/  
@@ -736,7 +737,7 @@ __apostate<sup>1</sup>__ _n_ :five: A person who abandons his religion, party, c
 __apostate<sup>2</sup>__ _adj_ Guilty of apostasy.  
 __apostle__ _n_ :mute:[apos~~t~~le]  
 __apostrophe__ _n_ :two: In rhetoric, apostrophe occurs when a writer or speaker directly addresses an absent person, a concept, or an inanimate object. Example: You have made a fool out of me for the last time, washing machine!  
-__apothegm__ _n_ :two: A short, pithy, and instructive saying or formulation. A terse, witty, instructive saying. _Syn_ aphorism _Her mother endlessly repeated the apothegm “cleanliness is next to godliness.”_  
+__apothegm__ _n_ :three: A short, pithy, and instructive saying or formulation. A terse, witty, instructive saying. _Syn_ aphorism _Her mother endlessly repeated the apothegm “cleanliness is next to godliness.”_  
 __apotheosis__ _n_ :two: /uh-pah-thee-OH-sis/ Exaltation to divine rank or stature. _Syn_ deification, exaltation  
 __appall__ _vt_ :six::pencil2: To fill with horror and amazement; dismay greatly. :es: horrorizar, espantar  
 __appalled__ _adj_ :seven: /əˈpɔːld/ Shocked or dismayedfilled with horror. _Syn_ aghast, dismayed, shocked  
@@ -846,6 +847,7 @@ __armillary__ _adj_ Consisting of hoops or rings.
 __armipotent__ _adj_ /ahr-MIP-uh-tuhnt/ Strong in war, battle, contest, etc.  
 __armistice__ _n_ :three::mega: A temporary cessation of fighting by mutual consent; a truce. Armistice descends from Latin _sistere_, meaning “to come to a stand” or “to cause to stand or stop,” combined with _arma_, meaning “weapons.”  
 __armload__  
+__armorer__ _n_  
 __armory__ _n_ :three::hammer: _His armory of weapons._  
 __arms embargo__  
 __arms race__  
@@ -1080,7 +1082,7 @@ __avalanche__ _n_ :two::hammer:
 __avarice__ _n_ Immoderate desire for wealth. _Syn_ cupidity, covetousness, avariciousness  
 __avenge__ _vt_  
 __avent__ _n_  
-__aver__ _vt_ :four::astonished: (averred) To assert formally as a fact. _Syn_ allege, say _For as my conscience does not accuse me, I aver that I am not a criminal._  
+__aver__ _vt_ :five::astonished: (averred) To assert formally as a fact. _Syn_ allege, say _For as my conscience does not accuse me, I aver that I am not a criminal._  
 __average citizens__  
 __average Joe__ _n_ _slang_ :two: An ordinary man.  
 __average__ _n_ :mega: /ˈævərɪdʒ; ˈævrɪdʒ/  
@@ -1525,7 +1527,7 @@ __bellow<sup>2</sup>__ _v_ :seven::hammer: (bellowed)
 __bellowing__ _n_ A very loud utterance (like the sound of an animal). _Syn_ bellow  
 __bellows__ _n_ :two: A mechanical device that blows a strong current of air; used to make a fire burn more fiercely or to sound a musical instrument. :es: fuelle _Barber’s breathing sounded like a bellows._  
 __bells and whistles__ _pl n_ :four: Nonessential features or enhancements intended especially to add commercial appeal.  
-__bellwether__ _n_ :four::hammer: /BEL-WEH-ther/  
+__bellwether__ _n_ :five::hammer: /BEL-WEH-ther/ __1__ A sheep that leads the herd, often bearing a bell. __2__ A leader, esp one followed unquestioningly.  
 __belly flop__ _n informal_ :dart::three: (belly-flop) A dive in which the front of the body hits flat against a surface, especially of water.  
 __belly laugh__ _n_  
 __belly-wash__ _n_ Any kind of drink of poor quality.  
@@ -1973,7 +1975,7 @@ __bolony__
 __Bolshevik__  
 __bolshie__ _adj_ (bolshy) [:scroll: Abbreviation of Bolshevik (a person with radical views), from Russian Bolshevik, from bolshe (greater), referring to the faction of the Russian Social Democratic party that seized power in the October Revolution of 1917. Ultimately from the Indo-European root bel- (strong), which also gave us debility and Bolshoi Theatre (literally, Great Theater).] __1__ Difficult to manage; rebellious __2__ (Government, Politics & Diplomacy) Politically radical or left-wing. _Syn_ Bolshevik, bolshy, Marxist, red  
 __bolster<sup>1</sup>__ _n_ A long, thick pillow that is placed under other pillows for support. _Syn_ pillow, cushion, pad, support, rest  
-__bolster<sup>2</sup>__ _v_ :nine::m: (bolstered) __1__ Support or strengthen. _Syn_ strengthen, support, reinforce :es: reforzar __2__ To buoy up or hearten. _Syn_ boost _Visitors bolstered the patient’s morale._ _The fall in interest rates is starting to bolster confidence._  
+__bolster<sup>2</sup>__ _v_ :nine::m: __1__ Support or strengthen. _Syn_ strengthen, support, reinforce :es: reforzar __2__ To buoy up or hearten. _Syn_ boost _Visitors bolstered the patient’s morale._ _The fall in interest rates is starting to bolster confidence._  
 __bolt__ _v_ :three::hammer: (bolted) _The windows were closed and bolted._ _Bolted onto the ISS._  
 __bomb cyclone__  
 __bomb__ _v_ :four::mute:[bom~~b~~]:hammer: (bombing)  
@@ -2229,6 +2231,7 @@ __breech birth__ _n_ The delivery of a fetus (unborn baby) hind end first.
 __breech position__ _n_ When a child is oriented feet first in the mother’s uterus just before delivery.  
 __breech__ _n_ :six::hammer: (breeches)  
 __breed__ _v_ :two::hammer: _It can breed suspicion._ _Breeding fear._  
+__breeze__ _n_ __1__ A light current of air; a gentle wind.  
 __breezy__ _adj_ :four::hammer: _The breezy tone of the readout._ _Breezy confidence._  
 __brethren__ _n pl_ :four::hammer: _Political brethren._  
 __breviary__ _n_ A book containing the hymns, offices, and prayers for the canonical hours.  
@@ -2781,7 +2784,7 @@ __cantillation__
 __canvass__ _v_ :three::hammer::astonished: (canvassing)  
 __canyoned__ _adj_ _Canyoned city streets._  
 __cap gun__ _n_ :dart::camera: A toy pistol with a hammer action that detonates a mildly explosive cap.  
-__cap<sup>1</sup>__ _n informal_ :four::hammer: _NASA’s AEGIS has a four-megabyte cap of available RAM._ __2__ A capital letter—usually plural.  
+__cap<sup>1</sup>__ _n informal_ :five: __1__ Capital: _venture cap._ _NASA’s AEGIS has a four-megabyte cap of available RAM._ __2__ A capital letter—usually plural. Capitalization: _market cap._  
 __cap<sup>2</sup>__ _v_ :nine::m: (capped, capping) __1__ _informal_ To capitalize. __2__ Lie at the top of. _Snow capped the mountains._ __3__ Restrict the number or amount of. _We had to cap the number of people we can accept into our club._ __4__ Provide a fitting climax or conclusion to. _The most capped player._  
 __capable__  
 __capacious__ _adj_ Capable of containing a large quantity; spacious or roomy: _a capacious office building._  
@@ -2793,10 +2796,11 @@ __caper<sup>1</sup>__ _n_ :eight: __1__ A playful leap or hop. _Syn_ capriole _T
 __caper<sup>2</sup>__ _v_ :two::hammer: _The singers caper around the stage._  
 __capers__ _n pl_  
 __capful__  
+__capillary__ _adj, n_  
 __capitalize__ _v_  
 __capitol__ _n_  
 __Capitol__ _n_ The government building in Washington where the United States Senate and the House of Representatives meet.  
-__capitulate__ _v_ :three: (capitulated) __1__ To surrender under specified conditions: _The garrison capitulated after the bombardment._ __2__ To give up all resistance; acquiesce: _capitulate to the pressure of public opinion._ _Syn_ yield  
+__capitulate__ _v_ :four: /kuh-PIH-chuh-layt/ (capitulated) __1__ To surrender under specified conditions: _The garrison capitulated after the bombardment._ __2__ To give up all resistance; acquiesce: _capitulate to the pressure of public opinion._ _Syn_ yield  
 __capitulation__  
 __caplet__ _n_ :two::hammer: (caplets)  
 __capon__ _n_ :two: A male chicken castrated when young to improve the quality of its flesh for food.  
@@ -2810,6 +2814,7 @@ __capstan__ _n_
 __capstone__ _n_ :two::hammer:  
 __captain__ _v_  
 __captaincy__ _n_ :two::hammer:  
+__captcha__ _n_ /ˈkæptʃə/  
 __captious__ _adj_ :two: /KAP-shuss/ Marked by a disposition to find and point out trivial faults. _Syn_ faultfinding _She found the new professor to be captious, marking all the grammatical errors in her essays while ignoring the points she had tried to make._  
 __capuchin monkey__ _n_ :mega:  
 __car sickness__  
@@ -2834,6 +2839,7 @@ __Cardan__ _n_ A universal joint that transmits motion unchanged. _Optional Card
 __cardiac arrest__ _n_ :two::hammer:  
 __cardinal__ _adj_ :two: __1__ Of foremost importance; paramount: _a cardinal rule; cardinal sins._ _Syn_ fundamental, central, primal _The cardinal rule of membership in the secret society was never to reveal its existence to outsiders._ __2__ Dark to deep or vivid red.  
 __cardioembolic__ _adj_  
+__cardioplegia__ _n_ /ˌkɑːdɪəʊˈpliːdʒɪə/ Deliberate arrest of the action of the heart, as by hypothermia or the injection of chemicals, to enable complex heart surgery to be carried out.  
 __careen__ _v_ :nine::m::camera: (careens, careened, careening) __1__ _(nautical)_ To heave a ship down on one side so as to expose the other, in order to clean it of barnacles and weed, or to repair it below the water line. __2__ _(nautical)_ To tilt on one side. __3__ To lurch or sway violently from side to side. _An open-air tour bus careened wildly out of control._ __4__ To tilt or lean while in motion. __5__ To career, to move rapidly straight ahead.  
 __career ladder__ _n_  
 __career suicide__  
@@ -2882,6 +2888,7 @@ __carte blanche__ _n_ :two::hammer: /KART-BLAHNCH/
 __carted__ _v_  
 __cartel__ _n_ :three::hammer:  
 __carthorse__ _n_  
+__cartomancy__ _n_ Fortune-telling by means of playing cards.  
 __carton__ _n_ :four::camera::hammer: _A carton of eggs._ _Cartons of whole/strawberry/chocolate milk._  
 __cartridge__ _n_ _Database cartridges._  
 __carve out__ _v_ :seven::hammer: (carved out)  
@@ -2899,7 +2906,7 @@ __caseload__ _n_ :two: The number of cases constituting the work of a doctor, so
 __casemates__ _n_  
 __casement windows__ _n_ :camera: A window with one or more casements. _A metal casement window._ :es: ventana a bisagra, ventana batiente  
 __casement__ _n_ :two::hammer: :es: ventana de bisagras _Casement window._  
-__caseous__ _adj_ Resembling cheese.  
+__caseous__ _adj_ :two: Resembling cheese.  
 __cash bar__ _n_ A bar (as at a reception) at which drinks are sold. (compare _open bar_) _The cost is $30 per person with a cash bar._  
 __cash flow__  
 __cash rebate__  
@@ -2915,6 +2922,7 @@ __casserole<sup>2</sup>__ _v_
 __cassock__ _n_ :two::hammer:  
 __cassoulet__ _n_  
 __cast a pall__  
+__cast iron__ _n_ :es: hierro fundido  
 __cast-iron__ _adj_ :two::hammer:  
 __cast<sup>1</sup>__ _v_ _Votes cast._  
 __cast<sup>2</sup>__ _n_ :two::astonished: _A growing cast of lawyers is signing up to defend President Donald Trump and his associates._  
@@ -2980,7 +2988,7 @@ __catwalk__ _n_ :four::hammer:
 __catwalker__ _n_ __1__ A model who walks along a catwalk in a fashion show. __2__ A fashion model. _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
 __Caucasian<sup>1</sup>__ _adj_ :pencil2:  
 __Caucasian<sup>2</sup>__ _n_ :two::pencil2::hammer:  
-__caucus__ _n_ :four: /KAW-kus/ A caucus is “a meeting of members of a political party for the purpose of choosing candidates for an election.” It also refers to “a group of people who meet to discuss a particular issue or to work together for a shared, usually political goal.” _Members of the caucus debated long and hard to come to a unified position on the issue._ _Kentucky will hold a Republican caucus on March 5._  
+__caucus__ _n_ :five: /KAW-kus/ A caucus is “a meeting of members of a political party for the purpose of choosing candidates for an election.” It also refers to “a group of people who meet to discuss a particular issue or to work together for a shared, usually political goal.” _Members of the caucus debated long and hard to come to a unified position on the issue._ _Kentucky will hold a Republican caucus on March 5._  
 __caught up__ _adj_ Having become involved involuntarily: _caught up in the excitement of the crowd; caught up in the scandal._  
 __caught__ _v_ :mute:[cau~~gh~~t] Past tense and past participle of catch.  
 __cauldron__ _n_  
@@ -3039,13 +3047,14 @@ __ceramicist__ _n_ A craftsman who shapes pottery on a potter’s wheel and bake
 __cerebral palsy__  
 __cerebral__ _adj_ :two::mega: /suh-REE-brul/ __1__ Of or relating to the brain or intellect. _The study is on the cerebral functions of infants._ __2__ Primarily intellectual in nature. _The movie is a cerebral thriller that rewards the viewer’s careful attention with intricate plot turns._  
 __cerebrate__ _v_ (usually facetious) To use the mind; think; ponder; consider.  
+__cerebritis__ _n_ /ˌsɛrɪˈbraɪtɪs/ An infection or inflammation of the brain.  
 __certainly__ _adv_  
 __cerulean<sup>1</sup>__ _adj_ :five: /suh-ROO-lee-un/ /suh-ROO-lee-uhn/ Sky blue. Of a deep somewhat purplish blue color similar to that of a clear October sky. _Cerulean basins and Marco Polo blue lips and splash fights._ _The painting depicts autumnal trees bordering a cerulean lake._  
 __cerulean<sup>2</sup>__ _n_ :two: A light shade of blue.  
 __cerumen__ _n_ A soft yellow wax secreted by glands in the ear canal. _Syn_ earwax _A buildup of cerumen was irritating Billy’s ear, so his mother gently cleaned the area with a cotton swab._  
 __cesarean<sup>1</sup>__ _adj_  
 __cesarean<sup>2</sup>__ _n_  
-__cessation__ _n_ :three::mega::pencil2: A ceasing or stopping; discontinuance; pause: _temporary cessation of hostilities._  
+__cessation__ _n_ :four::mega::pencil2: A ceasing or stopping; discontinuance; pause: _temporary cessation of hostilities._  
 __Cessna__  
 __cesspit__ _n_ A pit for refuse or sewage. _Syn_ sump, sink, cesspool _The cesspit smelled foul, but without it all the refuse would have been strewn around the town._  
 __cesspool__ _n_ :nine::m: (cesspit) __1__ _building_ (sink, sump) A covered cistern, etc, for collecting and storing sewage or waste water. __2__ A filthy or corrupt place: _a cesspool of iniquity._ _The journalist cesspool._  
@@ -3141,6 +3150,7 @@ __cheap out__ _v_ To take the cheapest option; try to do something as cheaply as
 __cheapen__ _v_  
 __cheapjack__ _adj_ Inferior in quality or value. _Syn_ shoddy, tawdry _The boardwalk is rife with shabby shops selling cheapjack souvenirs._  
 __cheapskate__ _n_ _informal_ :three::dart: Someone who does not like to spend money.  
+__cheat code__ _n_ __2__ A ploy or technique that bypasses traditional methods or rules in order to improve oneself or one’s success: _We don’t know what sort of cheat code he may have discovered to pass the audition, but his mediocre talent sure has us wondering._  
 __cheat__ _n_  
 __check in__ _v_  
 __check something out__  
@@ -3173,6 +3183,7 @@ __chenier__
 __chenille throws__  
 __cherimoya__ _n_ (chirimoya)  
 __cherry blossoms__ _n_  
+__cherry bomb__ _n_ :camera: A red, ball-shaped firecracker that explodes with a loud bang.  
 __cherry pick__ _v_ (cherrypick)  
 __cherry picker__ _n_  
 __cherub__ _n_ /CHER-uhb/ [:scroll: From Latin cherubim, from Greek kheroubin, from Hebrew kerubim. Ultimately from the Semitic root krb (to praise).] A person, especially a child, with a sweet innocent appearance.  
@@ -3202,7 +3213,7 @@ __chickenpox__ _n_ Also called varicella. An acute contagious disease, primarily
 __chickpea__ _n_ :three::hammer: (chickpeas) _A handful of chickpeas._ :es: garbanzo  
 __chide__ _v_ :eight: (chided, chiding) __1__ To rebuke or scold. __2__ (tr) To goad into action. _We chided the Pentagon._  
 __chief<sup>1</sup>__ _adj_  
-__chief<sup>2</sup>__ _n_ (chiefs)  
+__chief<sup>2</sup>__ _n_ :two::hammer: /tʃiːf/ /tʃif/ (chiefs)  
 __chieftain__ _n_  
 __chiffon__ _n_ :two::hammer: _Try the heavenly lemon chiffon cake._  
 __chignon__ _n_ A roll of hair worn at the nape of the neck. :es: moño  
@@ -3365,6 +3376,7 @@ __circumscribe__ _v_ /SER-kum-skrybe/ Circumscribe means “o limit the size or 
 __circumspect__ _adj_ :two: Heedful of circumstances and potential consequences; prudent. Cautious, prudent, or discreet. _Syn_ discreet _Because the drug was shown to have adverse side effects, physicians are now more circumspect about recommending its use._  
 __circumsphere__  
 __circus__ _n_ [:scroll: Middle English, _round arena_, from Latin, _circus_, _circle_]  
+__cirrhosis__ _n_ /sɪˈroʊ sɪs/ A chronic disease of the liver in which fibrous tissue invades and replaces normal tissue, disrupting important functions, as digestion and detoxification.  
 __cisgender__ _n_  
 __Cistercian__ _n_ :pencil2: A member of a contemplative monastic order founded by reformist Benedictines in France in 1098. _Cistercian monks._  
 __cistern__ _n_ :three::hammer: _More than a hundred households depend on cisterns and wells._  
@@ -3381,7 +3393,8 @@ __cladding__ _n_ __1__ The act or process of bonding one metal to another, usu. 
 __claim__ _v_ _The White Sox claimed the 2005 title._  
 __claimant__ _n_ :two::hammer: :es: demandante  
 __clairvoyance__ _n_ :two: Apparent power to perceive things that are not present to the senses. _Syn_ ESP, extrasensory perception, second sight _The police officer doubted my clairvoyance until I was able to lead him to the missing woman’s remains._  
-__clairvoyant__ _adj_ :two: Having the supposed power to see objects or events that cannot be perceived by the senses. _Syn_ precognitive, second-sighted  
+__clairvoyant<sup>1</sup__ _adj_ :three: Having the supposed power to see objects or events that cannot be perceived by the senses. _Syn_ precognitive, second-sighted  
+__clairvoyant<sup>2</sup__ _n_ A person claiming to have the power to foretell future events.  
 __clam up__ _v_  
 __clam__ _n_ __1__ _slang_ A dollar. _Most smartwatches run around 300 clams._ __2__ :es: almeja  
 __clamant__ _adj_ :two: __1__ Clamorous; loud. __2__ Compelling or pressing; urgent.  
