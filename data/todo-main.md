@@ -198,31 +198,6 @@ __splenomegaly__ _n_ Abnormal enlargement of the spleen.
 __staid__  
 __storm__ _v_ __2__ To behave or shout angrily; rant and rage: _stormed at his incompetence._  
 __subsidy__ _n_  
-__Suez Canal__ _n_  
-__Sullivan__ _n_ :mega: /ˈsʌl ə vən/  
-__suspend__ _v_  
-__systems hardening__ _n_ The process of securing a server or computer system by minimizing its attack surface, or surface of vulnerability, and potential attack vectors.  
-__the bulk__ _n_ Most of something; the largest part of something. _We spent the bulk of the summer at the beach._  
-__touching<sup>1</sup>__ _adj_ /ˈtʌtʃɪŋ/ Evoking or eliciting tender feelings: _your sympathy is touching._  
-__touching<sup>2</sup>__ _prep_ On the subject of; relating to.  
-__turbid__ _adj_ /TER-bid/  
-__twee__ _adj_ (Britain, derogatory) Overly quaint, dainty, cute or nice.  
-__Uncle Sam__  
-__uncover__  
-__unctuous__ _adj_ Revealing or marked by a smug, ingratiating, and false earnestness or spirituality.  
-__unrelenting__ _adj_  
-__uphold__ _vt_  
-__vacuous__ _adj_ Having or showing a lack of intelligence or serious thought; lacking meaning, importance, or substance.  
-__valvuloplasty__ _n_ Plastic surgery to repair a valve, especially a heart valve.  
-__voracious__ _adj_ /vaw-RAY-shus/  
-__wicked__ _adj_ /ˈwɪkɪd/  
-__work day__ _n_  
-__write-up__ _n_  
-__wrongdoing__ _n_ :two::hammer:  
-__wrung__ _v_ _They have wrung their hands._  
-__yacht__ _n_ /yɒt/  
-__yammering__  
-__yawp__ _n_ /jɔːp/ _A pure yawp of joy._  
 __yellow jacket__ _n_ __1__ _slang_ A barbiturate (trade name Nembutal) used as a sedative and hypnotic and anti-spasmodic. __2__ Any of several social wasps of the genus Vespa, having yellow markings on the body.  
 __yelp__ _v_  
 __yesterweek<sup>1</sup>__ _n_ /YES-tuhr-week/ Last week.  

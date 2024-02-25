@@ -18184,6 +18184,7 @@ __sudden__
 __suds__  
 __sudsy__  
 __suede__ _n_ :mega: /sweɪd/ :es: ante  
+__Suez Canal__ _n_  
 __sufferance__ _n_ A disposition to tolerate or accept people or situations. _Syn_ toleration, acceptance _Everyone admired her sufferance in the face of a number of unfortunate events._  
 __suffocate__ _v_ :two::hammer:  
 __suffocation__ _n_ :pencil2:  
@@ -18206,7 +18207,7 @@ __sulk<sup>2</sup>__ _v_ :three: (sulking) To be silent and resentful because of
 __sulky__ _adj_ :three::hammer: _Sulky-looking unshaven men._  
 __sullen__ _adj_ :two::hammer:  
 __sullenly__  
-__Sullivan__ _n_ :mega:  
+__Sullivan__ _n_ :two::hammer::mega: /ˈsʌl ə vən/  
 __sully__ _v_ :five::hammer: /SUL-ee/ _The money-related charges brought against the restaurant’s owner has sullied her reputation._  
 __sulphite__ _n_ /ˈsʌlfaɪt/  
 __sultanate__  
@@ -18317,7 +18318,7 @@ __surveyor__ _n_ :two::hammer:
 __survival skills__ _n_  
 __survivalist__ _n_ :two: /səˈvaɪvəlɪst/ Someone who tries to insure their personal survival or the survival of their group or nation.  
 __susceptible__ _adj_  
-__suspend__ _v_  
+__suspend__ _v_ :two::hammer:  
 __suspenders__ _n_ :two::hammer: _Larry King’s suspenders._  
 __suss__ _v_ _chiefly British_ :three: (sussed) __1__ Figure out —usually used with out. __2__ To inspect or investigate so as to gain more knowledge —usually used with out.  
 __sussed__ _adj_ _Br_ _informal_ If someone is sussed, they are clever and know a lot about something such as clothes, pop music, or politics.  
@@ -18467,6 +18468,7 @@ __syringe__
 __syrup__ _n_ _Maple syrup._  
 __syrupy__ _adj_ :two: Cloyingly sweet or sentimental. _Syn_ saccharine, treacly _I can appreciate a sentimental or romantic film, but syrupy “chick flicks” are another thing altogether._  
 __systemic__ _adj_ :three::hammer:  
+__systems hardening__ _n_ The process of securing a server or computer system by minimizing its attack surface, or surface of vulnerability, and potential attack vectors.  
 __syzygy__ _n_ :two::hammer:  
 __T-ball__  
 __T&A__  
@@ -18834,6 +18836,7 @@ __the 105’s__
 __the 11th hour__  
 __the bandwagon__ _n phr_ _Jump on the bandwagon._  
 __the big three-oh__  
+__the bulk__ _n_ Most of something; the largest part of something. _We spent the bulk of the summer at the beach._  
 __the City of Brotherly Love__  
 __The Crown__ _n_  
 __the day’s full of spiders__  
@@ -19261,6 +19264,8 @@ __totter__ _v_
 __tottered__  
 __touch and go__ _n_ :two: A precarious or delicate state of affairs.  
 __touch down__ _phr v_ To make contact with the ground; land: _The spacecraft touched down on schedule._ _The jet touched down there yesterday._  
+__touching<sup>1</sup>__ _adj_ /ˈtʌtʃɪŋ/ Evoking or eliciting tender feelings: _your sympathy is touching._  
+__touching<sup>2</sup>__ _prep_ On the subject of; relating to.  
 __touchline__  
 __touchstone__ _n_ :two: A basis for comparison; a reference point against which other things can be evaluated. _Syn_ criterion, standard, measure  
 __touchy__ _adj_ :five: __1__ Easily upset or irritated; oversensitive. __2__ Extremely risky. __3__ Easily ignited.  
@@ -19572,7 +19577,7 @@ __tuning fork__
 __tunnel vision__ _n_ :two::hammer:  
 __tuple__ _n_ :mega:  
 __tuppence__  
-__turbid__ _adj_  
+__turbid__ _adj_ :two::hammer: /TER-bid/  
 __turbocharge__ _vt_ :dart::two: __1__ To equip with a turbocharger. __2__ _informal_ To improve dramatically the performance or quality of. To speed up; accelerate.  
 __turducken__ _n_ :three: [:scroll: from tur(key) + du(ck) + (chi)cken] A dish consisting of a deboned chicken stuffed into a deboned duck, further stuffed into a deboned turkey. Outside of the United States and Canada, it is known as a three-bird roast.  
 __tureen__ _n_ :es: sopera _Soup tureens._  
@@ -19633,6 +19638,7 @@ __twattle__ _n_ /ˈtwɒtəl/ A rare word for twaddle.
 __tweak<sup>1</sup>__ _n_ :four (tweaks) __2__ A small adjustment: _made a few tweaks to the sound system._  
 __tweak<sup>2</<sup>__ _vt_ :four: __2__ To adjust; fine-tune: _tweaked her computer setup._ _Tweak your workout routine._  
 __tweak<sup>3</<sup>__ _vi_ _slang_ __1__ To behave in an agitated or compulsive manner, especially when under the influence of a stimulant drug. __2__ To be under the influence of a stimulant drug, especially methamphetamine.  
+__twee__ _adj_ (Britain, derogatory) Overly quaint, dainty, cute or nice.  
 __tweed__  
 __tween__ _n_ :two: A child between middle childhood and adolescence, usually between 8 and 12 years old. Also called _tweener_.  
 __tweeny-weeny__  
@@ -19721,7 +19727,7 @@ __unbundling__ _n_
 __unburdened__  
 __uncheesy__ _adj_  
 __Unchurched Belt__ _n_ The Unchurched Belt is the antithesis of the Bible Belt in that it is defined by a (culturally perceived) lack of a predominant religion. It’s centered around the Pacific Northwest in Oregon and Washington.  
-__Uncle Sam__ _n_ :three::dart: An extension of the common short form of the _United States_ (of America), _US_. A personification of the United States government.  
+__Uncle Sam__ _n_ :four::dart: An extension of the common short form of the _United States_ (of America), _US_. A personification of the United States government.  
 __unclear__ _adj_  
 __unclubbable__ _adj_ (unclubable) Having or showing a disinclination for social activity. _Syn_ unsociable  
 __uncompromising__ _adj_ Unwilling to grant concessions or negotiate; inflexible: _took an uncompromising stance during the peace talks._  
@@ -19730,11 +19736,11 @@ __uncontested shot__ _n_ (vs contested shot)
 __unconvinced__  
 __uncorroborated__ _adj_ Unsupported by other evidence. _Syn_ unsubstantiated  
 __uncouth__ _adj_ :seven: /un-KOOTH/ Uncouth means “behaving in a rude way” or “not polite or socially acceptable.” Lacking refinement or cultivation or taste. _Syn_ rough-cut, vulgar, coarse, common _He was an uncouth fellow, ragged and dirty and unshaven._ _Stacy realized it would be uncouth to show up to the party without a gift, so she picked up a bottle of wine on the way._  
-__uncover__ _v_ __2__ To manifest or disclose; reveal: _uncovered new evidence._  
+__uncover__ _v_ :two: __2__ To manifest or disclose; reveal: _uncovered new evidence._  
 __uncrating__  
 __uncross__ _vt_ _Uncross our arms._  
 __unction__ _n_  
-__unctuous__ _adj_ :six::dart: /UNK-chuh-wus/ Unctuous is a formal word used to describe someone who speaks and behaves in a way that is meant to seem friendly and polite but that is unpleasant because it is obviously not sincere. It can also mean “fatty,” “oily,” and “smooth and greasy in texture or appearance.” Characterized by affected, exaggerated, or insincere earnestness. _Syn_ oleaginous, buttery, fulsome, smarmy, oily _Politicians are often at their most unctuous during election years, full of empty promises made solely to win over certain voters._ _Braising chicken thighs with their skins on creates a rich, unctuous sauce that can be spooned back over the finished dish._  
+__unctuous__ _adj_ :seven::dart: /UNK-chuh-wus/ Unctuous is a formal word used to describe someone who speaks and behaves in a way that is meant to seem friendly and polite but that is unpleasant because it is obviously not sincere. It can also mean “fatty,” “oily,” and “smooth and greasy in texture or appearance.” Characterized by affected, exaggerated, or insincere earnestness. _Syn_ oleaginous, buttery, fulsome, smarmy, oily _Politicians are often at their most unctuous during election years, full of empty promises made solely to win over certain voters._ _Braising chicken thighs with their skins on creates a rich, unctuous sauce that can be spooned back over the finished dish._  
 __uncured__ _v_ _Organic grass-fed uncured hot dogs._  
 __undaunted__  
 __undemosaick__ _v_ _Undemosaicked pixels._  
@@ -19864,7 +19870,7 @@ __unravel__ _v_ :four: /ʌnˈrævəl/ __2__ To free from complications; make pla
 __unreal__  
 __unreasonable__ _adj_  
 __unrecognizable__ _adj_  
-__unrelenting__ _adj_ :four::hammer:  
+__unrelenting__ _adj_ :five::hammer:  
 __unremitting__ _v_  
 __unrepentant__ _adj_ :five: Having or exhibiting no remorse.  
 __unrequited__ _adj_ :four: Not given, rewarded, or felt in return: _unrequited love._ _Her unrequited crush._  
@@ -19942,7 +19948,7 @@ __upfront__ _adj_ :dart::four: __1__ Straightforward; frank. __2__ Paid or due i
 __upheaval__ _n_ :nine::m: /ʌpˈhi vəl/ A state of violent disturbance and disorder (as in politics or social conditions generally).  
 __uphill<sup>1</sup>__ _adj_ :two::hammer: _An uphill task._  
 __uphill<sup>2</sup>__ _adv_ _I didn’t have to fight uphill._  
-__uphold__ _vt_ :nine::m: (upheld) __3__ To maintain or affirm: _uphold a standard of behavior._ _Syn_ support When you uphold something, you stick up for or support it. _Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he’s still alive out there somewhere._ [If you reverse the two parts of this word, you get hold up. And that’s exactly what upholding is: holding up or supporting an idea or practice.]  
+__uphold__ _vt_ :nine::m: __3__ To maintain or affirm: _uphold a standard of behavior._ _Syn_ support When you uphold something, you stick up for or support it. _Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he’s still alive out there somewhere._ [If you reverse the two parts of this word, you get hold up. And that’s exactly what upholding is: holding up or supporting an idea or practice.]  
 __upholder__ _n_  
 __upkeep__ _n_ :six: __1__ Maintenance in proper operation, condition, and repair. _Chalkboards did not require much upkeep._ __2__ The cost of such maintenance.  
 __uplifted__ _adj_  
@@ -20037,7 +20043,7 @@ __vacay__ _n_ _informal_ A vacation. _I’m in France right now, on vacay._
 __vaccination__  
 __vaccine__  
 __vacillate__ _vi_ :two: To swing indecisively from one course of action or opinion to another. _Syn_ hover, oscillate, vibrate _I vacillated about what to say for so long that the man on the phone asked if I was still there._  
-__vacuous__ _adj_ :two: Devoid of intelligence. _Syn_ asinine, fatuous, inane, mindless _The interviewer could tell by the candidate’s vacuous comments that he was not qualified for the position._  
+__vacuous__ _adj_ :three: Having or showing a lack of intelligence or serious thought; lacking meaning, importance, or substance. Devoid of intelligence. _Syn_ asinine, fatuous, inane, mindless _The interviewer could tell by the candidate’s vacuous comments that he was not qualified for the position._  
 __vacuum__ _n_ :four::pencil2::hammer: _Upright/Canister vacuum._ __4__ A vacuum cleaner. :camera:  
 __vagabond__ _n_  
 __vagary__ _n_ :seven: /VAY-guh-ree/ (vagaries) The word vagary, usually used in its plural form, refers to a change that is difficult to predict or control. _The vagaries of fashion make it difficult to predict what styles will be popular a year or two from now._ _The vagaries of economics._ _The vagaries of nature._  
@@ -20066,6 +20072,7 @@ __valorous__ _adj_ /VAL-uh-russ/
 __valuable__ _n_ :astonished:  
 __valuate__ _v_ Evaluate or estimate the nature, quality, ability, extent, or significance of. _Syn_ appraise, assess, measure _The jewelry must be valuated by a professional before the marital assets can be divided._  
 __valued-added__  
+__valvuloplasty__ _n_ Plastic surgery to repair a valve, especially a heart valve.  
 __vamoose__ _vi_ :three: /vuh-MOOSS/ [:scroll: from Spanish _vamos_ let’s go, from Latin _vādere_ to go, walk rapidly] To leave a place hurriedly; decamp. Vamoose is an informal word that means “to depart quickly.” _With the sheriff and his posse hot on their tails, the bank robbers knew they had better vamoose._  
 __vamp<sup>1</sup>__ _n_  
 __vamp<sup>2</sup>__ _v_ :two::hammer: (vamping)  
@@ -20301,7 +20308,7 @@ __voltage__ _n_ :two::mega::hammer:
 __voltron__  
 __voluble__ _adj_ :two: /VAHL-yuh-bul/ Characterized by ready or rapid speech.  
 __volubly__ _adv_ In a chatty manner. _They were speaking volubly into their mobiles._  
-__voracious__ _adj_  
+__voracious__ _adj_ :two::hammer: /vaw-RAY-shus/  
 __voracity__ _n_ /vuh-RASS-uh-tee/  
 __vorpal__ _adj_ /VUHR-puhl/ [:scroll: Coined by Lewis Carroll (1832-1898) in his novel _Through the Looking-Glass._] __1__ Sharp. __2__ Deadly.  
 __votaries__  
@@ -20716,7 +20723,7 @@ __why on earth__
 __Wi-Fi__  
 __wicca__ _n_ (Wicca) Witchcraft, esp. benevolent, nature-oriented practices derived from pre-Christian religions.  
 __wick__ _n_ :three::hammer: _Curiosity is the wick in the candle of learning._ _A wetted wick._  
-__wicked__ _adj_ :two::hammer:  
+__wicked__ _adj_ :three::hammer: /ˈwɪkɪd/  
 __wickedly__  
 __wicker__ _n_ :three::hammer: _Wicker chair._ _They sat in wicker rockers._ :es: mimbre  
 __wicket__ _n_ :two: /ˈwɪkɪt/ __5__ _(Cricket)_ Equipment consisting of a set of three stumps topped by crosspieces; used in playing cricket.  
@@ -20921,6 +20928,7 @@ __wordsmith<sup>2</sup>__ _v_ :two::hammer:
 __wordy__ _adj_ :two: Using or containig too many words.  
 __work as planned__  
 __work at__ _phr v_ To try hard to develop or improve something.  
+__work day__ _n_  
 __work desk__ _n_ :two: A desk used for work; a desk in the workplace.  
 __work my tail of__  
 __work off__ _phr v_ To get rid of something by using physical effort.  
@@ -20997,7 +21005,7 @@ __write out__ _phr v_ To write something on paper with all the necessary details
 __write up__ _phr v_ :three: To write something using notes that you wrote earlier.  
 __write__ _v_ :mute:[~~w~~rite]  
 __write-in votes__  
-__write-up__ _n_ :two::hammer:  
+__write-up__ _n_ :three::hammer:  
 __writhe__ _v_ :nine: /RYTHE/ (writhed, writhing) Writhe means “to twist.” The word is often used when the body or a bodily part is twisting, and especially when it is twisting in pain. _After suffering an injury during the game, he lay on the football field, writhing in pain._ _Dirt flies as 2,500 pounds writhing animal charge across the arena._ _Like writhing red fire._ _The river came alive, writhing._ _Joe writhed in terrible pain._  
 __writs__ _n_  
 __wrong<sup>1</sup>__ _adj_ :mute:[~~w~~rong]  
@@ -21005,11 +21013,12 @@ __wrong<sup>2</sup>__ _adv_ :mute:[~~w~~rong]
 __wrong<sup>3</sup>__ _n_ :mute:[~~w~~rong]  
 __wrong<sup>4</sup>__ _v_ :mute:[~~w~~rong]  
 __wrongdoer__ _n_ One who does wrong, especially morally or ethically.  
-__wrongdoing__  
+__wrongdoing__ _n_ :three::hammer:  
 __wrongous__ _adj_ /ˈrɒŋəs/ [:scroll: From wrong, from Old English wrang + wise (manner)] __1__ (of a person) Unfair, unjust. __2__ Characterized by unfairness or injustice. __3__ Not lawful, unjust. __4__ Not fitting or suitable.  
 __wrought-iron__  
 __wrought<sup>1</sup>__ _v_ :four: A past tense and a past participle of work. _Syn_ worked  
 __wrought<sup>2</sup>__ _adj_ __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
+__wrung__ _v_ _They have wrung their hands._  
 __wry__ _adj_ :six: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He has a wry ear and a knack for poignance._ _Wry moments._ :es: humor seco y burlesco:  
 __wryly__ _adv_ :four::pencil2::hammer: :es: irónicamente, con ironía _A few people laughed wryly._  
 __Wu’s castle__ _n_ A two-dimensional role playing game that teaches loops and arrays in an interactive, visual way.  
@@ -21028,11 +21037,13 @@ __xeriscape__ _n_
 __xeriscaping__ _n_  
 __xylophilous__ _adj_ /zy-LOF-uh-luhs/ [:scroll: From Greek xylo- (wood) + -philous (liking).] Growing on or living in wood.  
 __xyst__ _n_ /zɪst/  
+__yacht__ _n_ /yɒt/  
 __yahoo<sup>1</sup>__ _n_ A person who is boorish, loud, disruptive, etc. Etiology: After Yahoos, a race of brutish creatures in Jonathan Swift’s _Gulliver’s Travels._  
 __yakety-yak__ _n_ Noisy talk.  
 __yakisoba__ _n_ :two::hammer:  
 __yakuza__ _n_ :two::hammer:  
 __yam__ _n_ :three: In North America, a yam is the same thing as a sweet potato, although in most parts of the world these words refer to two completely different vegetables. Yams have flesh that ranges in color from white to deep orange and tastes slightly sweet. The word yam started as igname, from the Portuguese inhame, from a West African source. :es: boniato  
+__yammering__  
 __yank__ _v_ :two::hammer: _Investors have yanked $39.1 billion from traditional domestic stock mutual funds this year._  
 __Yankee__ _n_ /YANG-kee/ Yankee can refer broadly to anyone born or living in the U.S., or it can refer more narrowly only to those in the northern U.S., or even more narrowly, only to those in the states of New England. The broadest use is especially common outside the U.S. _It took the children some time to adjust to being the only Southerners in a classroom full of Yankees._  
 __yap<sup>1</sup>__ _v_ :four::hammer: (yapping) _The dog was yapping._ _Podcast hosts can’t stop yapping about sweat-whisking underwear._  
@@ -21049,6 +21060,7 @@ __yawn__ _n_ :two::hammer: _The sound of yawns and crickets._
 __yawner__ _n_ _slang_ :three: Something that is very boring.  
 __yawning<sup>1</sup>__ _n_ :three: Yawning is what happens when you reflexively open your mouth wide, inhale, and exhale again. Most yawning is caused by sleepiness or extreme boredom. _They dissected the yawning door of a junked Coca-Cola machine._ _Yawning aperture._ _The gap is yawning._  
 __yawning<sup>2</sup>__ _adj_ :six: With the mouth wide open indicating boredom or sleepiness. _He felt a yawning loneliness._ _Yawning pit._  
+__yawp__ _n_ /jɔːp/ _A pure yawp of joy._  
 __yay__ _adv_ So; by this amount: _“The fish was yay big” he said, spreading his arms three feet apart._  
 __year > year-old, year old, years old__ _n_ :three: (-year-old) In the sentence “He’s a fifty-year-old man,” _fifty-year-old_ is a compound adjective. In the sentence “He’s fifty years old,” the term _fifty years_ is a quantifying phrase used as an adverb to modify the adjective _old_—it is a compound adverb. _A 56-year-old retiree._ _A two-year-old toddler._ _Malone started playing guitar at 5 years old. (He got his first drum set at age 10.)_  
 __year in, year out__  
