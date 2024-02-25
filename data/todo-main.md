@@ -1,3 +1,6 @@
+__ageism__  
+__arguably__ _adv_  
+__betterment__ _n_  
 __blacking__ _n_ A preparation, such as a shoe or stove polish, that is used to impart a black color. _Syn_ shoe polish  
 __capitulant__ _n_ One that capitulates.  
 __capitulate__ _v_ To surrender, often after negotiation of terms.  
@@ -29,6 +32,8 @@ __curb__ _vt_
 __cursory__ _adj_  
 __dandelion__ _n_  
 __daydream__ _n_  
+__diastole__ _n_ /daɪˈæstəlɪ/ The dilatation of the chambers of the heart that follows each contraction, during which they refill with blood.  
+__doom__ _v_ _Doomed to fail._  
 __drowsy__  
 __dullard__ _n_ A person regarded as mentally dull. _Syn_ dolt, pillock, poor fish, pudding head  
 __dune__ _n_ /dun, dyun/  
@@ -50,11 +55,13 @@ __exhilarating__ _adj_ /ɪɡˈzɪləˌreɪtɪŋ/
 __expire__ _v_  
 __fatuous__ _adj_ Silly or stupid; complacently or inanely foolish.  
 __firearm__ _n_  
+__flywheel__ _n_  
 __foundational__ _adj_  
 __fresh__ _adj_ _Fresh sanctions._  
 __gatekeep__ _v_  
 __gazillion__  
 __generic name__ _n_  
+__gibberish__ _n_  
 __gibe__ _n, v_ (jibe)  
 __global boiling__ _n_  
 __globetrotter__ _n_  
@@ -67,7 +74,9 @@ __guardrail__ _n_
 __haberdasher__ _n_ A dealer in men’s furnishings. _Syn_ clothier  
 __haggard__ _adj_ /HAG-urd/  
 __hands-down__ _adj_ __1__ Easy: _A hands-down victory._ __2__ Unchallenged; certain: _a hands-down bestseller._  
+__hardened computer__ _n_ A hardened computer refers to a system that has undergone systems hardening, a process aimed at reducing vulnerabilities in technology applications, systems, infrastructure, firmware, and other areas.  
 __headwind__ _n_  
+__hiccup__ _n_ __3__ A usually minor setback, impediment, or difficulty; a hitch.  
 __high tops__ _n pl_ Training shoes that reach above the ankles.  
 __hitman__ _n slang_  
 __hourlong__ _adj_  
@@ -79,6 +88,7 @@ __incarceration__ _n_ The act of imprisoning someone or the state of being impri
 __insipid__ _adj_ __2__ Lacking qualities that excite, stimulate, or interest; dull.  
 __intern__ _v_ To confine or impound especially during a war.  
 __internment__ _n_ The act of interning someone or the state of being interned.  
+__interventional cardiology__ _n_ Branch of cardiology that deals specifically with the catheter based treatment of structural heart diseases.  
 __irk__ _vt_ /ɜrk/ To irritate, annoy, or exasperate.  
 __jalopy__  
 __jellyfish__ _n_ :es: medusa  
@@ -94,10 +104,16 @@ __lost and found__ _n_
 __meritless__ _adj_  
 __misclassification__ _n_ :pencil2:  
 __misgiving__ _n_ :two::hammer:  
+__mishandle__ _vt_  
 __misinformation__ _n_  
+__modesty__ _n_  
+__morbidity__ _n_  
 __mottle__  
 __mudslide__ _n_  
+__multifaceted__ _adj_  
 __namely__ _adv_  
+__niche__ _n_  
+__nonproductive__ _adj_ _She reports a mild non-productive cough._  
 __nutria__ _n_  
 __obstreperous__ _adj_ Difficult to control and often noisy.  
 __obtuse__ _adj_ Stupid or unintelligent; not able to think clearly or to understand what is obvious or simple.  
@@ -118,6 +134,7 @@ __paravalvular__ _adj_ Surrounding or adjacent to a heart valve.
 __pardon__ _v_  
 __pareidolia__ _n_ The perception of a recognizable image or meaningful pattern where none exists or is intended, as the perception of a face in the surface features of the moon.  
 __parliament__ _n_  
+__pass__ _v_ __11__ To cease to exist; die. Often used with on: _The patient passed on during the night._  
 __pattern__ _vt_ __1__ (often foll by: _after_ or _on_) To model. _Patterned after the Olympic Games, the Pan American Games are held every four years._ __2__ To arrange as or decorate with a pattern.  
 __peanut allergy__ _n_  
 __penny candy__ _n_ Inexpensive candy originally costing a penny apiece.  
@@ -175,20 +192,28 @@ __sex__ _n_ (_n pl_ sexes)
 __shortage__ _n_ /ˈʃɔr tɪdʒ/  
 __sleepify__ _vt_  
 __somnambulant__ _adj_  
+__sore throat__ _n_ Any of various inflammations of the tonsils, pharynx, or larynx characterized by pain in swallowing.  
 __spinal column__ _n_ _Syn_ spine, vertebral column, backbone  
+__splenomegaly__ _n_ Abnormal enlargement of the spleen.  
 __staid__  
 __storm__ _v_ __2__ To behave or shout angrily; rant and rage: _stormed at his incompetence._  
 __subsidy__ _n_  
 __Suez Canal__ _n_  
 __Sullivan__ _n_ :mega: /ˈsʌl ə vən/  
 __suspend__ _v_  
+__systems hardening__ _n_ The process of securing a server or computer system by minimizing its attack surface, or surface of vulnerability, and potential attack vectors.  
+__the bulk__ _n_ Most of something; the largest part of something. _We spent the bulk of the summer at the beach._  
+__touching<sup>1</sup>__ _adj_ /ˈtʌtʃɪŋ/ Evoking or eliciting tender feelings: _your sympathy is touching._  
+__touching<sup>2</sup>__ _prep_ On the subject of; relating to.  
 __turbid__ _adj_ /TER-bid/  
 __twee__ _adj_ (Britain, derogatory) Overly quaint, dainty, cute or nice.  
 __Uncle Sam__  
 __uncover__  
 __unctuous__ _adj_ Revealing or marked by a smug, ingratiating, and false earnestness or spirituality.  
 __unrelenting__ _adj_  
+__uphold__ _vt_  
 __vacuous__ _adj_ Having or showing a lack of intelligence or serious thought; lacking meaning, importance, or substance.  
+__valvuloplasty__ _n_ Plastic surgery to repair a valve, especially a heart valve.  
 __voracious__ _adj_ /vaw-RAY-shus/  
 __wicked__ _adj_ /ˈwɪkɪd/  
 __work day__ _n_  
