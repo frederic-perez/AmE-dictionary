@@ -98,31 +98,6 @@ __half a brain__ Common sense. _If he had half a brain, he would have left a lon
 __hammer out__  
 __hands down__ :two::hammer:  
 __happy medium__ A healthy balance between two extremes.  
-__hard line__ :two::hammer:  
-__hard pass__ :dart: _slang_ No; not interested; absolutely not.  
-__hard-boiled__ __2__ Tough and dispassionate; hardened by experience.  
-__hassle (someone) about (something)__ To bother or nag someone about something. _Ugh, quit hassling me about that, will you?_  
-__have (one’s) hands full__ :dart: To be busy or completely occupied with dealing with something.  
-__have (one’s) plate full__  
-__have (something) to do__ To have some task or action that one must complete or undertake.  
-__have a go (at someone or something)__  
-__have no business (doing something)__ To have no legitimate reason, experience, or authority to do something.  
-__he-man__ A particularly strong, tough, and/or virile male, especially one who likes to flaunt his strength.  
-__head-to-head__ Describing a one-on-one matchup or comparison.  
-__heads up__ __2__ _n_ A preliminary notice, especially of future difficulty, trouble, or danger; a warning. Often hyphenated. _Make sure everyone gets the heads-up about the inspection tomorrow morning. We don’t want anyone coming in unprepared._  
-__hear out__  
-__heavy-footed__ Clumsy, ponderous, or lumbering in gait or tread. _The team’s star striker deftly navigated the ball past the heavy-footed defenseman._  
-__high roller__ Someone known for spending or gambling large amounts of money.  
-__hit the big time__ To become very famous or successful. _Though she’d been acting for years, it was after her role in last summer’s blockbuster that she finally hit the big time._  
-__hold (one’s) nerve__ :dart: To remain calm, steady, and resolute, especially in the face of danger or adversity.  
-__hold fast__  
-__hold my beer__ A phrase indicating that one is about to do something stupid or dangerous. The image is that of a person at a party who asks a friend to hold their beer so that they can attempt some kind of ill-advised stunt. It is often used humorously to describe how something bad was followed by something even worse. _A: “There’s no way it’s possible to jump from the roof into the pool. It’s 20 feet away!” B: “Hold my beer, amateur.”_  
-__holy cow__  
-__honor (someone) for (something)__ To praise or celebrate someone for a particular act or thing.  
-__hoosegow__ _slang_ Jail. The term is an English phonetic approximation of the Spanish word _juzgado_, meaning “courtroom” or “tribunal.” _A new sheriff arrived into town, and before long the hoosegow was overrun with criminals._  
-__horse and rabbit stew__ A situation comprising that which is crude or unpleasant as well as that which is pleasing or beneficial, usually with the former in greater proportion to the latter. Used especially in reference to economics or business.  
-__I kid you not__  
-__I know, I know__ A conversational phrase used to express that the speaker is aware of what the other person is saying or feeling, often to express empathy or understanding.  
 __I’ll be hanged if I (do something)__ I am determined not to do something.  
 __idiot mittens__  
 __if you will__  
