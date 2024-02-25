@@ -1,14 +1,17 @@
 __(Are) you kidding (me)?__ :four::hammer:  
 __(the) next thing (one) knows__  
 __a (real) gas__ _slang_ A thoroughly entertaining, enjoyable, or amusing experience.  
+__a breath of fresh air__  
 __a breeze__  
 __a clear future__ “A clear picture” is an idiomatic expression that means a complete and accurate understanding or representation of something.  
 __a-ha moment__  
+__all the rage__ _slang_ Very popular. _Disco music was all the rage in the 1970s._  
 __alongside of (someone or something)__  
 __an uphill battle__  
 __be all about (someone, something, or oneself)__  
 __be better off__  
 __be just the same (to someone)__ To make no difference (to someone) one way or another; to be unimportant (to someone) what happens.  
+__be like finding a needle in a haystack__  
 __be under way__ :two::hammer:  
 __beat (oneself) up__ To continually criticize or question oneself, usually about something that one cannot change.  
 __beekeeping age__ A slang phrase that refers to a middle age range and is usually used specifically to describe an attractive older man, as in _Mark’s dad is in his beekeeping age._  
@@ -28,6 +31,8 @@ __brain dead__ __2__ _slang_ So mentally exhausted or lacking focus that one doe
 __break out__ __5__ _v_ To occur unexpectedly and intensely. _We knew it was time to leave the club when a fight broke out between guys at the bar._  
 __bummer__ :two: __3__ _adj_ Describing someone or something unpleasant. _Oh, it was a bummer party—you didn’t miss anything._  
 __calaboose__ _slang_ Jail. The word comes from “calabozo,” the Spanish word for “dungeon.” _They’ll throw you in the calaboose if they find out that you were involved in the robbery!_  
+__call for (someone or something)__  
+__call out__  
 __cash in__ :two::hammer:  
 __cold fish__ Someone who shows no emotion and comes across as unfriendly or disinterested.  
 __cut off__ :two: __2__ _v_ To abruptly move in front of another driver, either intentionally or unintentionally. In this usage, a noun or pronoun can be used between “cut” and “off.” _Can you believe that jerk cut me off like that? I nearly hit him!_  
@@ -47,6 +52,7 @@ __died in their sleep__ When someone is said to have “died in their sleep,” 
 __dig in(to) (something)__  
 __do the dishes__ To wash plates, glasses, bowls, silverware etc. with soap and water.  
 __do the right thing__ To act or behave correctly, appropriately, or with the best intentions.  
+__drop a bomb__ (drop the bomb) _informal_ To do or say something that is very shocking and unexpected. _She dropped a bomb with her resignation._  
 __eager beaver__ _n_ /ee-guhr BEE-vuhr/ One who is enthusiastic and hard-working, sometimes to the point of being overzealous.  
 __edge out__  
 __every so often__ Sometimes; occasionally.  
@@ -75,8 +81,11 @@ __give (one) the green light__ :two::hammer:
 __go a long way__ :two::hammer:  
 __go down the toilet__ To fail; to be ruined or destroyed; to be squandered or wastefully discarded.  
 __go into overdrive__ To start working very hard or quickly.  
+__go places__ To progress or find success in some area of one’s life. _Alice is definitely going to go places with that singing voice of hers._  
 __go to (someone or something)__  
 __God willing__ If all goes as it should; if everything goes well.  
+__good to know__  
+__gray area__ A concept or topic that is not clearly defined or that exists somewhere between two extreme positions.  
 __great deal__ A large amount or degree.  
 __grody__ _slang_ Disgusting or repulsive. The term possibly derives from the word “grotesque.” _Ugh, that smell is seriously grody—I’m practically gagging._  
 __groovy__ __1__ _slang_ Cool or appealing. Popular in the 1960s and ’70s, the term is considered dated and thus is often used humorously, sarcastically, or specifically in reference to something that is (or looks like it could be) from that era. _A: “Yikes Mom, those are some, um, groovy drapes!” B: “What, you don’t like them?”_  
@@ -121,6 +130,8 @@ __in (high) hopes of (something)__
 __in a bad light__ Negatively; under unfavorable circumstances. (Typically used with the verbs “see” or “show,” or some similar variation.) _I’m flattered that he based a character in his novel on me, but I think I was shown in a bad light._  
 __in a new light__  
 __in the event that__ If it should happen or be the case that.  
+__in the long run__ Over a relatively long or extended length of time in the future.  
+__in the works__  
 __iron out__  
 __it is what it is__  
 __keep up with (someone or something)__  
@@ -130,21 +141,31 @@ __knock down__
 __make (both) ends meet__  
 __make headway__ To make progress.  
 __make no mistake__  
+__mic drop__  
 __moo juice__ _slang_ Cow’s milk.  
 __north of (some number)__  
 __nose job__  
 __not have a hope in hell__ To have no possibility of succeeding, coming to pass, or achieving something. _They don’t have a hope in hell of getting into the playoffs this year._  
+__off the shelf__ Ready made for purchase from available stock; not custom built or crafted. Often hyphenated.  
+__off-kilter__  
+__on a daily basis__ Once or more each day.  
 __on the lookout__ Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
 __org__ __2__ _n_ An organization.  
 __out of pocket__  
+__outed__  
 __plain vanilla__ A reference to vanilla being considered an ordinary or unexciting flavor. Often hyphenated if used before a noun. __1__ Completely basic, simple, or straightforward, lacking embellishments, adornments, special features, etc.  
+__play big__ To play for high stakes; to be willing to take risks.  
 __plenty of (something)__ An abundant amount of; more than is needed.  
 __point of contact__ A person or entity one can seek to access information or services.  
+__put (something or someone) on the map__ To make (a place, a person, etc.) famous or well-known.  
 __quite a (something)__  
 __rain or shine__  
+__ride (on) a wave of (something)__ To enjoy the advantage of or continue to benefit from a situation that is successful, fortunate, trendy, etc.  
+__roll out__  
 __rue the day (that something happened)__ To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
 __run through (something)__ __4__ To guide one through or inform one of the process or details of something. In this usage, a noun or pronoun is used between “run” and “through.” _Can you run me through the plan one more time?_  
 __scavenger hunt__  
+__send the wrong message__ To do or say something that communicates a meaning different or contrary to what one desires, either implicitly or explicitly.  
 __set (someone or oneself) up for (something)__  
 __set the tone__  
 __shell out__  
@@ -165,14 +186,18 @@ __skeleton in the/(one’s) closet__ An embarrassing or shameful secret.
 __skibidi__ _slang_ A nonsense word or sound without a specific meaning.  
 __skimp on (something)__  
 __smoking gun__  
+__So what?__  
 __space cadet__  
 __square__ __1__ _mod_ Old-fashioned; law-abiding; stodgy. _Man, you are really square._  
+__take over__  
 __the (hot) skinny__ _slang_ The real or most accurate information or facts.  
 __the honest truth__ The sincere, unadulterated truth. _I swear it wasn’t me who broke the lamp, that’s the honest truth!_  
+__thoughts and prayers__ A phrase often used as part of an attempt to comfort someone who has just suffered a tragic loss, as in, “Our thoughts and prayers are with you.” The frequent use of the phrase or similar expressions by politicians after mass shootings in the US has increasingly been criticized by those who believe it is used to avoid pursuing tangible actions, notably changes to gun laws. _You can keep your thoughts and prayers, senator—they won’t give me my sister back._  
 __top banana__ The person with the most authority, power, or influence in a group or organization. _Syn_ top dog  
 __top dog__  
 __vacillate between (one person or thing) and (another)__  
 __you name it__ :two::hammer:  
+__your mileage may vary__  
 __your thoughts__ :three: A way to invite someone to share their opinion or perspective in a conversation.  
 __yup__ :dart: _informal_ A variant of “yes,” possibly based on or influenced by the similar word “nope” (meaning “no.”) _Yup, I’d say so._  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
