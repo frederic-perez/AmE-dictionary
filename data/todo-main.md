@@ -1,9 +1,13 @@
 __ageism__  
+__alible__ _adj_ /ˈælɪbəl/ Nourishing; nutritious.  
 __arguably__ _adv_  
+__assiduous__ _adj_ Marked by care and persistent effort. _Syn_ sedulous  
+__bangle__ _n_  
 __betterment__ _n_  
 __blacking__ _n_ A preparation, such as a shoe or stove polish, that is used to impart a black color. _Syn_ shoe polish  
 __capitulant__ _n_ One that capitulates.  
 __capitulate__ _v_ To surrender, often after negotiation of terms.  
+__cardigan__ _n_ A usually collarless sweater or jacket that opens the full length of the center front.  
 __cinematographer__ _n_ A movie photographer, especially one who is in charge of the camera and lighting crews on a production.  
 __clout__ _n_  
 __cluck__ _n_  
@@ -11,6 +15,7 @@ __co-opt__ _vt_
 __cold turkey__  
 __comfy__ _adj_ /ˈkʌmfɪ/ _informal_ Short for comfortable. _Don’t get too comfy._  
 __commensurate__ _adj_  
+__commodore__ _n_  
 __compassionate__ _adj_  
 __compound__ _v_  
 __conjubilant__ _adj_ Shouting together with joy.  
@@ -47,6 +52,8 @@ __engage__ _v_
 __enshittification__ _n_  
 __equitable__  
 __era__ _n_  
+__eurythmic__ _adj_  
+__eurythmics__ _n_ The art of harmonious bodily movement especially through expressive timed movements in response to improvised music.  
 __evict__ _vt_ /ɪˈvɪkt/  
 __eviction__ _n_  
 __ex-con__ _n informal_ A former prisoner.  
@@ -79,6 +86,7 @@ __headwind__ _n_
 __hiccup__ _n_ __3__ A usually minor setback, impediment, or difficulty; a hitch.  
 __high tops__ _n pl_ Training shoes that reach above the ankles.  
 __hitman__ _n slang_  
+__hobbledehoy__ _n_ An awkward, gawky young man.  
 __hourlong__ _adj_  
 __humanitarian corridor__ _n_  
 __illustrate__ _v_  
@@ -94,25 +102,31 @@ __jalopy__
 __jellyfish__ _n_ :es: medusa  
 __juvenile__ _adj, n_  
 __kingpin__ _n_ __1a__ The innermost or central pin in an arrangement of bowling pins. __b__ Headpin. __2__ The most important person or element in an enterprise or system.  
+__kismet__ _n_ Fate; destiny.  
 __lampoon__ _v_ /lam-POON/  
 __lavabo__ _n_ A basin for washing the hands. _Syn_ handbasin, washbasin, washbowl _The priest washed his hands in the metal lavabo before saying Mass._  
 __lead__ _n_ :mega:  
 __levity__ _n_  
+__lickspittle__ _n_ (lickspit) A fawning subordinate; a suck-up. A fawning underling; a toady.  
 __loggerhead__ _n_ __1__ A thick-headed or stupid person; blockhead.  
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
 __lost and found__ _n_  
 __meritless__ _adj_  
+__milksop__ _n_ A man lacking courage and other qualities deemed manly.  
 __misclassification__ _n_ :pencil2:  
 __misgiving__ _n_ :two::hammer:  
 __mishandle__ _vt_  
 __misinformation__ _n_  
 __modesty__ _n_  
+__mooncalf__ _n_ A foolish or absentminded person.  
 __morbidity__ _n_  
 __mottle__  
 __mudslide__ _n_  
 __multifaceted__ _adj_  
+__mumpsimus__ _n_ /ˈmʌmpsɪməs/ A stubborn person who insists on making an error in spite of being shown that it is wrong.  
 __namely__ _adv_  
 __niche__ _n_  
+__ninnyhammer__ _n_ /ˈnɪnɪˌhæmə/ _US and Canadian_ A ninny. A fool; a simpleton.  
 __nonproductive__ _adj_ _She reports a mild non-productive cough._  
 __nutria__ _n_  
 __obstreperous__ _adj_ Difficult to control and often noisy.  
@@ -141,10 +155,12 @@ __penny candy__ _n_ Inexpensive candy originally costing a penny apiece.
 __pergola__ _n_ An arbor or a passageway of columns supporting a roof of trelliswork on which climbing plants are trained to grow. _Syn_ arbor, bower  
 __permafrost__ _n_  
 __pestered__  
+__pettifogger__ _n_ Shyster; a lawyer whose methods are underhanded or disreputable.  
 __phytonutrient__  
 __picket line__ _n_  
 __picturesque__  
 __pitfall__ _n_ __1__ An unsuspected difficulty or danger.  
+__pixie__ _n_ A fairy; specifically: a cheerful mischievous sprite.  
 __posit<sup>1</sup>__ _vt_ __2__ To lay down or assume as a fact or principle; postulate.  
 __posit<sup>2</sup>__ _n_ :astonished: Something that is posited; an assumption; postulate.  
 __prebiotic__ _n_  
@@ -166,14 +182,17 @@ __rest__ _n_ __13__ (Billiards & Snooker) Any of various special poles used as s
 __restorative__  
 __restraint__ _n_  
 __resurgence__ _n_  
+__retinue__ _n_ /RET-uh-noo/ [:scroll: _Retinue_ comes via Middle English from the Anglo-French verb _retenir_, meaning “to retain or keep in one’s pay or service.”] A retinue is a group of helpers, supporters, or followers.  
 __rife__ _adj_  
 __rigorous__ _adj_  
 __ringleader__ _n_ /ˈrɪŋˌliːdə/ A person who leads others in any kind of unlawful or mischievous activity. :es: cabecilla  
 __robocall__ _n_  
+__rolling stone__ _n_ A person who changes his habitation, business, or pursuits with great frequency : one who leads a wandering or unsettled life.  
 __romanticize__ _v_ :two::hammer:  
 __roundup__  
 __rumble__ _vi_ __3__ _slang_ To engage in a gang fight.  
 __safe word__  
+__saltimbanco__ _n_ A mountebank; a person who sells quack medicines from a platform.  
 __sanctimonious__ _adj_ Pretending to be morally better than other people.  
 __sanction__ _n_ An economic or military coercive measure adopted usually by several nations in concert for forcing a nation violating international law to desist or yield to adjudication.  
 __scatterbrained__ _adj_ Exhibiting or characterized by lack of serious thought or concentration; disorganized; silly.  
@@ -191,13 +210,19 @@ __semiretired__ _adj_ Working only on a part-time basis, as for reasons of ill h
 __sex__ _n_ (_n pl_ sexes)  
 __shortage__ _n_ /ˈʃɔr tɪdʒ/  
 __sleepify__ _vt_  
+__slurp<sup>1</sup>__ _v_  
+__slurp<sup>2</sup>__ _n_  
+__smell-feast__ _n_ One given to finding out and getting invited to good feasts.  
+__smellfungus__ _n_ An excessively faultfinding person.  
 __somnambulant__ _adj_  
 __sore throat__ _n_ Any of various inflammations of the tonsils, pharynx, or larynx characterized by pain in swallowing.  
 __spinal column__ _n_ _Syn_ spine, vertebral column, backbone  
 __splenomegaly__ _n_ Abnormal enlargement of the spleen.  
 __staid__  
+__Sterno__ _n_ _Trademark_ Flammable hydrocarbon jelly packaged in a small can for use as a portable heat source for cooking.  
 __storm__ _v_ __2__ To behave or shout angrily; rant and rage: _stormed at his incompetence._  
 __subsidy__ _n_  
+__tenet__ _n_ /TEN-it/ Any opinion, principle, doctrine, dogma, etc., especially one held as true by members of a profession, group, or movement.  
 __yellow jacket__ _n_ __1__ _slang_ A barbiturate (trade name Nembutal) used as a sedative and hypnotic and anti-spasmodic. __2__ Any of several social wasps of the genus Vespa, having yellow markings on the body.  
 __yelp__ _v_  
 __yesterweek<sup>1</sup>__ _n_ /YES-tuhr-week/ Last week.  
