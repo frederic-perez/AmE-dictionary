@@ -1,28 +1,3 @@
-__a posteriori__ _adj_ /eɪ pɒsˌtɛrɪˈɔːraɪ; -rɪ; ɑː/  
-__ageism__  
-__ageist__ _adj_ _Current consultant pay scales are ageist and sexist and require reform._ :es: que discrimina en razón de la edad  
-__alible__ _adj_ /ˈælɪbəl/ Nourishing; nutritious.  
-__appraiser__ _n_ :es: tasador  
-__arguably__ _adv_  
-__assiduous__ _adj_ Marked by care and persistent effort. _Syn_ sedulous  
-__backslide__ _v_  
-__bangle__ _n_  
-__banter__ _n_ Good-humored, playful, or teasing conversation.  
-__bare bones__ _n pl_ _informal_ The basic elements or essentials: outlined the bare bones of the proposal.  
-__betterment__ _n_  
-__blacking__ _n_ A preparation, such as a shoe or stove polish, that is used to impart a black color. _Syn_ shoe polish  
-__capitulant__ _n_ One that capitulates.  
-__capitulate__ _v_ To surrender, often after negotiation of terms.  
-__cardigan__ _n_ A usually collarless sweater or jacket that opens the full length of the center front.  
-__choirboy__ _n_ :pencil2:  
-__cinematographer__ _n_ A movie photographer, especially one who is in charge of the camera and lighting crews on a production.  
-__clout__ _n_  
-__cluck__ _n_  
-__co-opt__ _vt_  
-__cold turkey__  
-__comfy__ _adj_ /ˈkʌmfɪ/ _informal_ Short for comfortable. _Don’t get too comfy._  
-__commensurate__ _adj_  
-__commodore__ _n_  
 __compassionate__ _adj_  
 __compound__ _v_  
 __conjubilant__ _adj_ Shouting together with joy.  

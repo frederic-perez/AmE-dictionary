@@ -38,6 +38,7 @@ __a fool and his money are soon parted__ _prov_ Foolish people make purchases wi
 __à gogo__ _adj, adv_ :two: /ə ˈɡəʊˌɡəʊ/ _informal_ As much as one likes; galore: _wine à gogo._  
 __a great deal__ _adv_  
 __A list__ _n informal_ (A-list) A list or group of the most admired or desirable people, as for a job or social gathering: _a private party for Hollywood’s A list._  
+__a posteriori__ _adj_ /eɪ pɒsˌtɛrɪˈɔːraɪ; -rɪ; ɑː/  
 __A-bomb__ _n_  
 __A-list__  
 __A4__ _adj, n_ :astonished: _A4 stainless steel._  
@@ -319,7 +320,8 @@ __agave__ _n_
 __Age of Aquarius__ _n_ (Aquarian Age) __1__ _informal_ The period, roughly from the mid-1960s to the early-1970s, when New Age culture and the hippie movement were at their peaks, associated with belief in enhanced spiritual enlightenment, universal love, and personal liberation. __2__ _astrology_ A historical period corresponding to the astrological sign of Aquarius, concerning the timing of which (past, present, or future) there is a wide range of views.  
 __age<sup>1</sup>__ _n_ :four::hammer:  
 __age<sup>2</sup>__ _v_  
-__ageism__ _n_ /ˈeɪ dʒɪz əm/ (agism) Discrimination based on age, especially prejudice against the elderly.  
+__ageism__ _n_ :two: /ˈeɪ dʒɪz əm/ (agism) Discrimination based on age, especially prejudice against the elderly.  
+__ageist__ _adj_ _Current consultant pay scales are ageist and sexist and require reform._ :es: que discrimina en razón de la edad  
 __ageless__  
 __agemate__ _n_  
 __agency__ _n_ :nine::m::astonished: __6__ The state of being in action or exerting power. _The agency of providence._ _She has free agency._ _Good data protection practices give users real agency over their data._ _We still have some agency over our situation._ _A young man slowly realizing his own trauma and agency over the course of a single football game._ _They take agency over their lives._ _We must use our agency._  
@@ -412,6 +414,7 @@ __alfresco<sup>1</sup>__ _adv_ :two: In the fresh air. _Syn_ outdoors _Dining al
 __alfresco<sup>2</sup>__ _adj_ :two::hammer: _It had two small terraces for alfresco dining._  
 __algae__ _n_  
 __Alhambresque__ _adj_  
+__alible__ _adj_ /ˈælɪbəl/ Nourishing; nutritious.  
 __alienate__ _v_ :nine::m: (alienated, alienating) To do something that makes someone unfriendly or unwilling to support you. _Alcoholism and violence alienated him from his family._  
 __alienated__ _adj_ Feeling that you do not belong in a particular society, place, or group.  
 __alienist__ _n_ :two: A psychiatrist and specialist in the legal aspects of mental illness.  
@@ -764,6 +767,7 @@ __apposite__ _adj_ Appropriate or relevant: _chose an apposite name for the dog;
 __apposition__ _n_ :two::hammer: (grammar)  
 __appraisal__ _n_ :nine::m: __1__ A statement or opinion judging the worth, value, or condition of something. __2__ An expert or official valuation, as for taxation. _An insurance appraisal._ _Free appraisals._  
 __appraise__ _v_ :two::hammer: (appraised) _The home was appraised in 2007._  
+__appraiser__ _n_ :es: tasador  
 __appraisingly__  
 __appreciable__ _adj_ Capable of being perceived or measured.  
 __appreciate__ _v_ :pencil2: _I appreciate it._  
@@ -833,7 +837,7 @@ __Argentina__ _n_ _Syn_ the Argentine
 __Argentine__ _n_ :two::hammer::mega: /ˈɑr dʒənˌtin, -ˌtaɪn/ _The pope is an Argentine._  
 __argonaut__  
 __argot__ _n_ A specialized vocabulary or set of idioms used by a particular group. _Syn_ jargon, lingo, patois, vernacular, slang, cant  
-__arguably__ _adv_ :five::hammer:  
+__arguably__ _adv_ :six::hammer:  
 __argue__ _v_  
 __argument__ _n_ A fact or assertion offered as evidence that something is true. _It was a strong argument that his hypothesis was true._  
 __argy-bargy__ _n_  
@@ -941,7 +945,7 @@ __assess__ _vt_ :three::hammer: (assessed)
 __assessment__ _n_ :three::pencil2::hammer:  
 __asset__ _n_ :three: __1__ A useful or valuable quality, person, or thing; _an advantage or resource: proved herself an asset to the company._  
 __assiduity__ _n_ :two::astonished: Great and constant diligence and attention. _Syn_ concentration. _Nell immediately applied herself with great assiduity to the decoration and preparation of the room._  
-__assiduous__ _adj_ :two: /uh-SIJ-uh-wus/ Assiduous is a formal word that means “showing great care, attention, and effort.”  
+__assiduous__ _adj_ :three: /uh-SIJ-uh-wus/ Assiduous is a formal word that means “showing great care, attention, and effort.” _Syn_ sedulous  
 __assiduously__ _adv_ :pencil2::three: With care and persistence.  
 __assign__ _n_ :two::mute:[assi~~g~~n]:hammer: _A cover assign._  
 __assimilation__ _n_  
@@ -1171,7 +1175,7 @@ __backpedal__ _vi_ :three::hammer: _He backpedaled quickly._
 __backseater__ _n_  
 __backslash__ _n_  
 __backslid__ _v_  
-__backslide__ _v_ To relapse into bad habits, sinful behavior, or undesirable activities.  
+__backslide__ _v_ :two: To relapse into bad habits, sinful behavior, or undesirable activities.  
 __backsplash__ _n_ An upright surface or border, as of tile, that protects the wall behind a sink or stove. _A new tile backsplash._  
 __backstop__ _n_ (baseball)  
 __backstory__ _n_  
@@ -1275,7 +1279,7 @@ __baneful__ _adj_ :two: Productive of destruction or woe; seriously harmful. Cau
 __bang for our buck__ _v informal_ :five::hammer: (bang for your buck, bang-for-the-buck, [get] a bigger/better etc bang for your buck) _We need to get all the bang for our buck._  
 __bang-up__ _adj_ _I’m sure you’ll do a bang-up job._  
 __banger__ _n_ :two: __1__ _British slang_ A sausage. _Fish and chips, pies and bangers._ A type of sausage. __2__ A powerful or impressive song. __3__ An old or dilapidated vehicle.  
-__bangle__ _n_  
+__bangle__ _n_ :two::hammer:  
 __bangs__ _n_ :two::hammer: _She wore her hair in bangs._  
 __banhammer__  
 __banish__ _v_ :two::hammer: (banished) :es: desterrar  
@@ -1290,7 +1294,7 @@ __banquet__ _n_ :mega::two::hammer:
 __banshee__ _n_ :two::hammer: _The cry of the banshee._  
 __bantam__ _n_ :two::hammer: _Playing hockey at the bantam level._  
 __bantamweight__ _n_ :two: _Rousey is the women’s bantamweight champ._  
-__banter<sup>1</sup>__ _n_ :eight: Good-humored, playful, or teasing conversation.  
+__banter<sup>1</sup>__ _n_ :nine: Good-humored, playful, or teasing conversation.  
 __banter<sup>2</sup>__ _v_ :three::hammer:  
 __banzai__ _n_ _They tried a banzai._  
 __Baptist__ _adj, n_ _A Baptist preacher._  
@@ -1308,6 +1312,7 @@ __barbs__ _n_ :two::hammer: _His sharp barbs._
 __bard__  
 __barded__ _v_  
 __bardic__  
+__bare bones__ _n pl_ _informal_ The basic elements or essentials: outlined the bare bones of the proposal.  
 __bare minimum__ _n_ The smallest possible quantity or the least fulfilling, but still adequate, condition that is required, acceptable, or suitable for some purpose.  
 __bare-bones__ _adj_ Basic or simple; no-frills. _A bare-bones lab._  
 __barefaced__ _adj_ With no effort to conceal. _Syn_ bald _They attacked him in various ways-with barefaced questions, ingenious suppositions, and distant surmises; but he eluded the skill of them all._  
@@ -1608,7 +1613,7 @@ __betrayal__ _n_ :two::hammer:
 __betroth__ _v_ _archaic_ To promise to marry or to give in marriage. _Syn_ affiance, plight, engage  
 __betrothal__ _n_  
 __betrothed__ _adj_ :six: Engaged to be married.  
-__betterment__  
+__betterment__ _n_ :two::hammer:  
 __bettors__  
 __betweenity__ _n_ /bɪˈtwiːnɪtɪ/ The state of lying between two extremes.  
 __bevel<sup>1</sup>__ _n_ :two::hammer:  
@@ -1764,6 +1769,7 @@ __blackface__ _n_ :two::hammer:
 __blackguard<sup>1</sup>__ _n_ __1a__ A rude or unscrupulous person __b__ A person who uses foul or abusive language.  
 __blackguard<sup>2</sup>__ _vt_ To talk about or address in abusive terms.  
 __blackhead__ _n_ :six::hammer: (blackheads)  
+__blacking__ _n_ A preparation, such as a shoe or stove polish, that is used to impart a black color. _Syn_ shoe polish  
 __blackjack<sup>1</sup>__ _n_ :two::astonished: __1__ A leather-covered bludgeon with a short, flexible shaft or strap, used as a hand weapon.  
 __blackjack<sup>2</sup>__ _v_ :two::hammer:  
 __blacklist<sup>1</sup>__ _n_  
@@ -2800,7 +2806,8 @@ __capillary__ _adj, n_
 __capitalize__ _v_  
 __capitol__ _n_  
 __Capitol__ _n_ The government building in Washington where the United States Senate and the House of Representatives meet.  
-__capitulate__ _v_ :four: /kuh-PIH-chuh-layt/ (capitulated) __1__ To surrender under specified conditions: _The garrison capitulated after the bombardment._ __2__ To give up all resistance; acquiesce: _capitulate to the pressure of public opinion._ _Syn_ yield  
+__capitulant__ _n_ One that capitulates.  
+__capitulate__ _v_ :five: /kuh-PIH-chuh-layt/ (capitulated) __1__ To surrender under specified conditions: _The garrison capitulated after the bombardment._ __2__ To give up all resistance; acquiesce: _capitulate to the pressure of public opinion._ _Syn_ yield  
 __capitulation__  
 __caplet__ _n_ :two::hammer: (caplets)  
 __capon__ _n_ :two: A male chicken castrated when young to improve the quality of its flesh for food.  
@@ -2837,6 +2844,7 @@ __card reader__ _n_
 __card__ _v_  
 __Cardan__ _n_ A universal joint that transmits motion unchanged. _Optional Cardan mount._  
 __cardiac arrest__ _n_ :two::hammer:  
+__cardigan__ _n_ A usually collarless sweater or jacket that opens the full length of the center front.  
 __cardinal__ _adj_ :two: __1__ Of foremost importance; paramount: _a cardinal rule; cardinal sins._ _Syn_ fundamental, central, primal _The cardinal rule of membership in the secret society was never to reveal its existence to outsiders._ __2__ Dark to deep or vivid red.  
 __cardioembolic__ _adj_  
 __cardioplegia__ _n_ /ˌkɑːdɪəʊˈpliːdʒɪə/ Deliberate arrest of the action of the heart, as by hypothermia or the injection of chemicals, to enable complex heart surgery to be carried out.  
@@ -3275,6 +3283,7 @@ __chocolate bar__ _n_
 __chocolate-box__ _adj_ Excessively decorative and sentimental, like the pictures on some boxes of chocolate candy.  
 __choice__ _v_ _Pick your choice._  
 __choir__ _n_ :mega:  
+__choirboy__ _n_ :pencil2:  
 __choke hold__ _n_ A restraining hold; someone loops the arm around the neck of another person in a tight grip, usually from behind.  
 __choke<sup>1</sup>__ _n_ :two::hammer: _A team of choke artists._  
 __choke<sup>2</sup>__ _v_ _Why do we choke under pressure?_  
@@ -3353,6 +3362,7 @@ __cinder__ _n_ :two: A fragment of incombustible matter left after a wood or coa
 __cinder-block town__  
 __Cinderella__ _n_ :two: /sin-duh-rel-uh/ __5__ A person or thing that achieves unexpected or sudden success or recognition, especially after obscurity, neglect, or misery (often used attributively): _Which team will find themselves the Cinderella of this year’s college basketball season?_  
 __cine__ _n_ :mega:  
+__cinematographer__ _n_ A movie photographer, especially one who is in charge of the camera and lighting crews on a production.  
 __cinephile__ _n_ :mega:  
 __cineplex__ _n_ _Sequels ruled the cineplex this weekend._  
 __cinnamon bun__ _n_ Rolled dough spread with cinnamon and sugar (and raisins) then sliced before baking.  
@@ -3533,7 +3543,8 @@ __cloying__ _adj_ :nine: /KLOY-ing/ Excessively sweet or sentimental. :es: empal
 __Club Med__ _n_ _Club Med countries._  
 __club soda__ _n_ :two: A US name for soda water.  
 __clubber__ _n_ A person who regularly frequents nightclubs and similar establishments.  
-__cluck__ _v_ :two::hammer: _Clucking chickens._ :es: cacarear  
+__cluck<sup>1</sup>__ _n_  
+__cluck<sup>2</sup>__ _v_ :two::hammer: _Clucking chickens._ :es: cacarear  
 __clue__ _n, v_ :dart:  
 __clump__ _n_ :three::hammer: _The clump of footsteps._  
 __clunker__ _n informal_ :five: (clunkers) __1__ An old, run-down vehicle or machine. _Syn_ jalopy, lemon, rustbucket, bucket of bolts, hooptie, crate _He’s got loads of money, but he still drives an old clunker._ __2__ A thing that is totally unsuccessful. _Novel after novel and not a clunker among them._ _Syn_ failure, flop, bust  
@@ -3545,7 +3556,7 @@ __clutch<sup>1</sup>__ _n_ :five::hammer: _It fosters a clutch of promising inno
 __clutch<sup>2</sup>__ _v_ :six::astonished::hammer: (clutching) _Butler and Wade were both clutch._ _She was clutching her hands._ _Steve was clutching notes outlining possible line-ups._  
 __clyster__ _n_ :two::hammer: (clysters)  
 __co-op__ _n_ :nine::m: Any co-operative, including housing, retail, utility, agricultural, banking or worker cooperatives. _The co-op received loans of $73 million._ _Co-op spokeswoman._  
-__co-opt__ _v_ :two::hammer: (co-opted)  
+__co-opt__ _vt_ :three::hammer: (co-opted)  
 __co-pilot__ _n_ A relief pilot on an airplane.  
 __co-sleeping__  
 __coach__ _n_ :four: __1a__ A bus, especially one designed for long-distance passenger service. _Deluxe motor coaches._ __3__ A class of airline travel less luxurious and less expensive than first class. :es: clase turista _You’re flying coach._ _A standard coach cabin._  
@@ -3635,7 +3646,7 @@ __coke-bottle glasses__
 __colander__ _n_ :three::hammer:  
 __cold duck__  
 __cold shoulder__  
-__cold turkey__ _n_ :three: __1__ Complete and abrupt withdrawal of all addictive drugs or anything else on which you have become dependent. _He quit smoking cold turkey._ _She quit her job cold turkey._ __2__ A blunt expression of views. _I told him cold turkey._  
+__cold turkey__ _n_ :four: __1__ Complete and abrupt withdrawal of all addictive drugs or anything else on which you have become dependent. _He quit smoking cold turkey._ _She quit her job cold turkey._ __2__ A blunt expression of views. _I told him cold turkey._  
 __cold-calling__ _n_ Calling potential new customers in the hope of selling stocks, bonds or other financial products and receiving commissions. _He started cold-calling people in New York._  
 __cold-pressed__ _adj_  
 __coleopteran__ _n_ (coleopteron) Any of numerous insects of the order Coleoptera; a beetle.  
@@ -3707,7 +3718,7 @@ __comfort__ _n_ :pencil2:
 __comfortable__ _adj_ :two::dart::mega::hammer: /ˈkʌmftəbəl/  
 __comforter sets__  
 __comforter__ _n_ :six::mega: (comforters) __4__ _US_ A quilted bed covering. A quilt. A quilted bedcover. _Sheets and comforters._  
-__comfy__ _adj informal_ :five: Comfortable. _The Comfy Cow ice cream._ _Comfy clothes._  
+__comfy__ _adj informal_ :six: /ˈkʌmfɪ/ Comfortable. _The Comfy Cow ice cream._ _Comfy clothes._ _Don’t get too comfy._  
 __coming of age__ _n_ :two::hammer:  
 __coming up__  
 __comity__ _n_ :five: __1__ Mutual civility; courtesy. A state or atmosphere of harmony or mutual civility and respect. :es: cortesía  
@@ -3721,7 +3732,7 @@ __commencement__ _n_ _The high school commencement ceremony._
 __commend__ _v_ :three::hammer: (commended) _The King commended to his brothers his twelve-year-old son._  
 __commendable__ _adj_ :seven: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
 __commendation__ _n_ :three::hammer: (commendations) _He earned two commendation medals._ _He received two commendations._  
-__commensurate__ _adj_ :seven: /kuh-MEN-suh-rut/ __1__ Proportionate. _The job posting states that salary will be commensurate with experience._ __2__ Having the same measure.  
+__commensurate__ _adj_ :eight: /kuh-MEN-suh-rut/ __1__ Proportionate. _The job posting states that salary will be commensurate with experience._ __2__ Having the same measure.  
 __commentary__  
 __commentator__ _n_  
 __commingled__ _v_ :three::hammer:  
@@ -3740,6 +3751,7 @@ __commodious__ _adj_ :three: /kuh-MOH-dee-us/ Spacious; roomy. _Syn_ roomy, larg
 __commoditization__  
 __commodity hardware__  
 __commodity__ _n_ :two::hammer: _Communication on a commodity cluster._  
+__commodore__ _n_  
 __common__ _adj_ :mega: (kŏm′ən)  
 __commonality__ _n_ :three::hammer: (commonalities)  
 __commoner__ _n_ __1__ A member of the commonalty; a person without a title of nobility.  
