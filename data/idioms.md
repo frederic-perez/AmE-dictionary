@@ -2403,14 +2403,15 @@ __gut feeling__ An intuition, an instinctive feeling about something.
 __gut punch__ A “gut punch” is an expression that is typically used to describe a sudden, painful, or shocking experience that leaves a person feeling emotionally or physically drained. It can be used both figuratively and literally to describe something that is unexpectedly hurtful or upsetting.  
 __gut-bucket__ __1__ _offensive slang_ A derogatory term for a fat or obese person. _We left the bar when we realized it was seedy and filled with nothing but old gut-buckets looking for easy women._ __2__ A free-spirited style of jazz or blues music. _The band surprised the audience by playing a few of their songs in a gut-bucket style._ _A gut-bucket string band._ __3__ A stringed instrument used in folk music that is made from a metal washtub . _Grandpop brought out his old gut-bucket and started playing folk songs beside the fire._  
 __gut-wrenching__ :two: Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one’s feelings. _What a gut-wrenching loss for the young athlete, who poured her heart and soul into this match._  
-__gym bunny__ Someone who is obsessively preoccupied with maintaining or improving their physique and thus spends a large amount of time at the gym to do so.  
+__gym bunny__ :two: Someone who is obsessively preoccupied with maintaining or improving their physique and thus spends a large amount of time at the gym to do so. _After recovering from his surgery, John spent a lot of time at the gym getting his body back into shape. Now he’s turned into a total gym bunny._  
 __gym rat__ _slang_ Someone who spends an inordinate amount of time at a gym. _I turned into a real gym rat during college. I go pretty much every day now._  
 __H-E-double-hockey-sticks__ A euphemistic spelling of “hell,” referring to each L resembling a hockey stick in shape. _“Oh yeah?” said Tommy to the schoolyard bully. “Well, you can go to H-E-double-hockey-sticks!”_  
 __haha__ _informal_ Used as a written expression of laughter, or more generally to indicate that the writer finds something humorous. Also commonly written as “ha ha” or “ha-ha.” Greater degrees of laughter or humor can be represented by more instances of “ha.”  
-__Hail Mary__ :two: __1__ _American football_ A long forward pass with a low success of being caught, typically thrown in desperation at the end of a half. _And he throws a Hail Mary! Ah, it’s incomplete. No overtime tonight, folks._ __2__ By extension, a final, usually drastic or risky effort to avoid failure or defeat that has a low probability of success, typically done in desperation. _The experimental new medication will be something of a Hail Mary as doctors scramble to save the patient’s life._  
+__Hail Mary__ :three: __1__ _American football_ A long forward pass with a low success of being caught, typically thrown in desperation at the end of a half. _And he throws a Hail Mary! Ah, it’s incomplete. No overtime tonight, folks._ __2__ By extension, a final, usually drastic or risky effort to avoid failure or defeat that has a low probability of success, typically done in desperation. _The experimental new medication will be something of a Hail Mary as doctors scramble to save the patient’s life._  
 __hair-splitting__ :two::hammer:  
 __hair-splittingly__ With extremely minute, unimportant, or imperceptible differences or details. (Used before an adjective.)  
 __hale and hearty__ Healthy. _It’s true that she was in the hospital a few weeks ago, but she’s hale and hearty now._  
+__half a brain__ Common sense. _If he had half a brain, he would have left a long time ago._  
 __half-ass__ :dart::four: __1__ _v_ _rude slang_ To do something halfheartedly or without one’s full effort. _Did you half-ass these posters? There’s a bunch of misspellings, and the ink is all smudged._ __2__ _adj_ _rude slang_ Done halfheartedly or without one’s full effort. Also seen as “half-assed.” _It was just a half-ass attempt, so naturally it didn’t work._ _Look at these half-assed posters—there’s a bunch of misspellings, and the ink is all smudged._  
 __half-baked__  
 __half-pint__ Any small, weak, and/or insignificant person. Alludes to a pint, a unit of liquid measurement. _Don’t go picking a fight with me, half-pint, or I’ll knock you into next Tuesday!_  
@@ -2418,6 +2419,7 @@ __half-wit__ An insulting term for person who is not very smart.
 __halfway decent__:two: Somewhat good, useful, or enjoyable, but not very; passable.  
 __Hallmark moment__  
 __hambone__ _n_ __1__ A second-rate actor. __2__ A second-rate performance. __3__ A show-off.  
+__hammer out__  
 __hamster wheel__ _These changes will get you off this hamster wheel._  
 __hand (something) to (someone) on a plate__ To give or relinquish something to someone very easily, without them having to work very hard to get or achieve it. _The team’s defense has been atrocious today, handing a victory to their opponents on a plate._  
 __hand back__  
@@ -2425,7 +2427,7 @@ __hand in__ To deliver or submit something to someone: _I handed in my homework.
 __hand it to (someone)__ :dart: To give credit or recognition to someone for something they have done. _I’ve got to hand it to you, the company has really turned a corner since you started managing the accounts._  
 __hand out__ :two::hammer:  
 __hand-to-mouth__ Having, providing, or characterized by the bare minimum of money, food, or resources to survive, with little or nothing else to spare. _I enjoy being a college student, but I’m so sick of this hand-to-mouth lifestyle._  
-__hands down__ :eight: Easily, decisively, or without question. The term originates from horse racing, in which jockeys assured of a victory may lower their hold on the reins in the final stretch. _This is the best pie I’ve ever had, hands down!_ _We were really unprepared for our last game, and the other team won hands down._ _Hands down, best episode ever._ _It beats other cinemas hands down._  
+__hands down__ :nine::m: Easily, decisively, or without question. The term originates from horse racing, in which jockeys assured of a victory may lower their hold on the reins in the final stretch. _This is the best pie I’ve ever had, hands down!_ _We were really unprepared for our last game, and the other team won hands down._ _Hands down, best episode ever._ _It beats other cinemas hands down._  
 __hands off__ :two: An instruction for one to refrain from touching or handling (something or someone). (Usually said imperatively.) _Hey, hands off those cookies, they’re for after dinner!_  
 __hands-on__ __2__ Involving actual, practical use of something, such as a tool, piece of equipment, or program.  
 __handwaving__ _n_ :astonished::two: Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential. (Sometimes hyphenated or spelled as two words.) _Enough with the hand-waving—just give me a direct answer!_  
@@ -2444,6 +2446,7 @@ __happily ever after__
 __Happily Ever After__ :two::hammer:  
 __happy as a clam__ Very happy.  
 __happy camper__  
+__happy medium__ A healthy balance between two extremes.  
 __hard done-by__  
 __hard facts__  
 __hard knocks__ :three: The real and practical experiences of life, especially those involving hardship or adversity. _The problem with you is that you’ve been spoiled your whole life. You haven’t had any hard knocks to teach you what the world is really like!_ _The school of hard knocks._  
@@ -2835,7 +2838,7 @@ __I think not__
 __I wasn’t born yesterday__ Used to indicate that you are not foolish or gullible.  
 __I wish__  
 __I’d say__ In my opinion; it is my estimation that.  
-__I’ll be hanged if I (do something)__ :two: I am determined not to do something. _I’ll be hanged if I let some young upstart like you take control of my company!_  
+__I’ll be hanged if I (do something)__ :three: I am determined not to do something. _I’ll be hanged if I let some young upstart like you take control of my company!_  
 __I’m all ears__ :three::hammer:  
 __I’m with you__ I agree with you. _A: “Ugh, why did we have to get up so darn early?” B: “Hey, I’m with you—I’d rather sleep in. This early wake-up call was all Mom’s idea.”_  
 __I(’ll) give you that__ I concede that what you just said is true or likely.  
@@ -2843,7 +2846,7 @@ __ice maiden__ (pejorative) A coolly composed, unemotional woman; a woman withou
 __icing on the cake__ :three::hammer:  
 __icky__  
 __idiom__ _n_ __1__ A speech form or an expression of a given language that is peculiar to itself grammatically or cannot be understood from the individual meanings of its elements, as in _keep tabs on_. :es: modismo  
-__idiot mittens__ Mittens or gloves that are attached to one’s sleeves by a length of yarn or string so as to prevent their being lost.  
+__idiot mittens__ :two: Mittens or gloves that are attached to one’s sleeves by a length of yarn or string so as to prevent their being lost.  
 __if (one’s) life depended on it__ Under any circumstances; no matter what. (Used almost exclusively with a negative statement regarding something that one couldn’t or wouldn’t do.) _No way am I going to karaoke night. I couldn’t sing if my life depended on it!_  
 __if it ain’t broke, don’t fix it__  
 __if nothing else__ :dart::two: A phrase used to indicate that something is a priority or the most important thing. _I know you’re busy today, so if nothing else, please make sure you respond to these messages._ _And if nothing else, Selig will be watching._  
@@ -2852,11 +2855,11 @@ __if the shoe fits, wear it__ If a description applies to you, then accept it.
 __if you ask me__ :two::hammer:  
 __if you know what I mean__  
 __if you like__  
-__if you will__ :six: If you wish to call it that. _A kind of preoccupation, or obsession if you will._ A phrase used to indicate that what one has just said is an uncommon, metaphorical, or original way of saying something. Similar to the phrases “so to speak” and “in a manner of speaking.” _This arrangement will allow us to eliminate our debt and get back to solid ground, if you will._  
+__if you will__ :seven: If you wish to call it that. A phrase used to indicate that what one has just said is an uncommon, metaphorical, or original way of saying something. Similar to the phrases “so to speak” and “in a manner of speaking.” _A kind of preoccupation, or obsession if you will._ _This arrangement will allow us to eliminate our debt and get back to solid ground, if you will._  
 __iffy__ _informal_ Questionable or uncertain.  
 __in (a) shambles__ :two::hammer:  
 __in (all) fairness (to one)__  
-__in (high) hopes of (something)__ :two::hammer:  
+__in (high) hopes of (something)__ :three::hammer:  
 __in (one’s) best interest__  
 __in (one’s) book__  
 __in (one’s) day__ :dart: When one was younger; in one’s younger days. _Back in my day, the only thing we had to do for fun was stickball, and we were grateful for it!_  
@@ -2869,7 +2872,7 @@ __in (someone’s) view__ In someone’s opinion.
 __in (someone’s) wheelhouse__ :dart::two: In, related to, or matching someone’s general interests, abilities, or area of familiarity; in someone’s comfort zone. _It’s clear, however, that the political implications of this issue are well in the author’s wheelhouse._ _Making bread is in a baker’s wheelhouse._  
 __in (the) bud__ In an undeveloped, immature, or incipient state. _Tommy has become quite a little painter in bud recently._  
 __in (the) light of (something)__ :four: Considering (something); given (something). Typically refers to a new revelation or piece of information that affects some situation. _In light of this new evidence, we are reopening the investigation._  
-__in a bad light__ Negatively; under unfavorable circumstances. (Typically used with the verbs “see” or “show,” or some similar variation.)  
+__in a bad light__ :two: Negatively; under unfavorable circumstances. (Typically used with the verbs “see” or “show,” or some similar variation.) _I’m flattered that he based a character in his novel on me, but I think I was shown in a bad light._  
 __in a big bad way__  
 __in a big way__ Very much; badly- _She wanted to go in a big way._ _He wants to win in a big way._  
 __in a flutter__ In a nervous, confused, or agitated state.  
@@ -2881,6 +2884,7 @@ __in a lifetime__
 __in a manner of speaking__ :dart: In a way; in a sense; so to speak. _He was a fixer, in a manner of speaking. A man who could get things done._  
 __in a measure__ To a certain degree or extent; somewhat.  
 __in a million years__  
+__in a new light__  
 __in a nutshell__ :two::hammer:  
 __in a rut__  
 __in a similar vein__ :two::hammer:  
@@ -2986,7 +2990,7 @@ __in the clear__ :two::hammer: _She is in the clear._
 __in the doghouse__ :three: _slang_ In trouble with someone due to one’s misdeeds or blunders.  
 __in the doldrums__ _The casino’s profits were in the doldrums._  
 __in the event of (something)__ :two::hammer: _Non-replaceable in the event of loss._ _In the event no quantity has been specified, the hotel count will be accepted as correct._  
-__in the event that__ If it should happen or be the case that.  
+__in the event that__ :two: If it should happen or be the case that.  
 __in the eye of (something)__ At, in, or amidst the central or focal point of something.  
 __in the eye of the beholder__  
 __in the face of (something)__ :two::hammer:  
@@ -3005,7 +3009,7 @@ __in the lap of the gods__ Decided upon or controlled by luck, chance, or fate; 
 __in the last analysis__ When everything has been considered; when all the facts are known or the truth has come to light.  
 __in the last week__ “In the last week” refers to the period of time that began seven days ago and ended today. (“Last week” refers to the period of time from the previous Sunday to the current Saturday.)  
 __in the least__ :two::hammer: _Apparently you didn’t understand me in the least._  
-__in the long run__ :two: Over a relatively long or extended length of time in the future.  
+__in the long run__ :three: Over a relatively long or extended length of time in the future.  
 __in the long term__  
 __in the loop__ :three::hammer:  
 __in the lurch__ In a particularly awkward, difficult, or troublesome situation. _I’ll really be left in the lurch if the manager decides to quit before this project is finished._ _The TV series was left in the lurch._  
@@ -3033,7 +3037,7 @@ __in the view of (someone)__ In someone’s or some group’s opinion.
 __in the wake of (something)__ __1__ In the aftermath of something, often as a consequence. _In the wake of the scandal, several committee members resigned._ __2__ Coming immediately after something. _In the wake of the final scene, the audience burst into applause._  
 __in the wild__ :two: In naturally occurring conditions or environments.  
 __in the wind__  
-__in the works__ :four: In progress; being completed or implemented. Being prepared; being planned; being done. _We’ve got a couple life tapings in the works._  
+__in the works__ :five: In progress; being completed or implemented. Being prepared; being planned; being done. _We’ve got a couple life tapings in the works._  
 __in the zone__ :two::hammer:  
 __in their own right__  
 __in theory__ Hypothetically; as a possibility. As opposed to in reality or in practice.  
@@ -3046,7 +3050,7 @@ __in voice__ In an ideal state or condition for speaking or singing.
 __in working order__ Of a machine, functional; not broken.  
 __in your birthday suit__ Naked.  
 __in your face__ :two::hammer:  
-__in-between__  
+__in-between__ :two::hammer:  
 __in-the-know__  
 __in(to) shape__ In good, robust health; strong or fit.  
 __in/within living memory__ In a recent enough time as to be remembered by people who are alive today. (Usually used in negative statements.) _There hasn’t been a blizzard like this in living memory!_ _The worst heart care crisis in living memory._  
@@ -3059,7 +3063,7 @@ __insofar as__ To such an extent that; to the degree that.
 __intellectually challenged__ Of low intelligence; stupid.  
 __intestinal fortitude__ Strong courage, conviction, or determination; gumption; guts. _Not everyone has the intestinal fortitude necessary to survive in the world of politics._  
 __into overdrive__  
-__iron out__ :four: To ease, solve, or remove minor difficulties, troubles, or problematic details (of or in something).  
+__iron out__ :five: To ease, solve, or remove minor difficulties, troubles, or problematic details (of or in something).  
 __ironclad__  
 __Is the glass half empty or half full?__  
 __isn’t that funny?__  
@@ -3070,7 +3074,7 @@ __it factor__
 __it figures__ :three: It makes sense; it is as I expected or might have guessed. _A: “Sally already broke up with that new boyfriend of hers.” B: “Yeah, it figures. The dude looked like a total creep!”_  
 __it goes without saying__ :five: It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
 __it is not a competition__  
-__it is what it is__ :dart::eight: The situation, circumstance, or outcome has already happened or been decided or established, so it must be accepted even if it is undesirable. _Look, we lost the game, but it is what it is. All we can do is work even harder for the next one._  
+__it is what it is__ :dart::nine: The situation, circumstance, or outcome has already happened or been decided or established, so it must be accepted even if it is undesirable. _Look, we lost the game, but it is what it is. All we can do is work even harder for the next one._  
 __it remains to be seen__ :five: Something is not yet clear, certain, or known. _It remains to be seen if and when this feature will be released._  
 __it speaks for itself__  
 __it takes a village__ :four: _proverb_ Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.”  
@@ -3195,7 +3199,7 @@ __keep tabs__
 __keep the ball rolling__ :two::hammer:  
 __keep the lid on (something)__ To quash or suppress something; to control something so as to keep it from flourishing, increasing, or succeeding.  
 __keep the wheels turning__ :dart: To make something continue to happen or operate. _It’s people like him that keep the wheels of commerce turning._  
-__keep up with (someone or something)__ :three::hammer:  
+__keep up with (someone or something)__ :four::hammer:  
 __keep your ego checked__ The idiom “keep your ego checked” means to maintain control over one’s ego or to prevent it from becoming too inflated. It is often used in the context of leadership and personal development to emphasize the importance of staying humble and self-aware. Keeping your ego in check can help prevent arrogance and promote a balanced and healthy sense of self-confidence. It involves being open to feedback, staying grounded, and avoiding the trap of excessive pride.  
 __keep your eyes peeled__ [:scroll: The figurative sense of keeping alert, by removing any covering of the eye that might impede vision, seems to have appeared in the US about 1850.]  
 __keep your head above water__ To just be able to manage when you have financial difficulties.  
@@ -3231,7 +3235,8 @@ __kind of__ Somewhat; partially.
 __kindred spirit__ :nine::m: [:sound: kindred spirit] (kindred spirits) An individual with the same beliefs, attitudes or feelings as oneself. _Dean and I are kindred spirits when it comes to spending money-we’re both tight._ _Syn_ kindred soul _A kindred spirit._ :es: almas gemelas  
 __king of the hill__ :four: The most powerful, successful, or authoritative person in a group or organization _After years of slowly moving up the ranks, Joe finally became king of the hill in his office._  
 __king of the jungle__ The lion, especially in cultural or artistic depictions. (Usually a misnomer, as lions typically inhabit deserts or dry forests, as opposed to jungles.)  
-__kingpin__  
+__kingfish__ _informal_ A person in a position of uncontested authority or influence, especially a powerful political leader.  
+__kingpin__ :two::hammer:  
 __kip__ _vi_ To sleep. _He’s upstairs kipping. Can he call you back?_  
 __kiss of death__ An action, event, or association that causes inevitable ruin or failure. An allusion to Judas Iscariot’s betrayal of Jesus Christ, during which Judas kissed Jesus as a way of identifying him to those who would put him to death. _The company’s connection to the disgraced media mogul will likely prove to be its kiss of death._  
 __kiss up__ _slang_ :dart: To habitually offer flattery in the hope of gaining favor; to behave sycophantically. _Stop kissing up just to try to get an A. Just study like everyone else._ _Kiss up tp the bosses._  
@@ -3245,6 +3250,7 @@ __knock (one’s) head against a/the wall__ To attempt continuously and fruitles
 __knock (someone) over with a feather__ To shock, confuse, or astonish someone to a point of complete bewilderment; throw someone for a loop. More often phrased as “you could have knocked me over with a feather,” expressing great bewilderment or surprise.  
 __knock (something) out of the (ball)park__ To do or perform something extraordinarily well; to produce or earn an exceptional achievement. An allusion to a baseball that is hit hard enough to land outside the stadium. _Great job on that report, Jacobs—you really knocked it out of the park!_  
 __knock boots (with one)__ To have sex (with one). _My roommate in college used to hang a hat on the door handle outside our room if she was knocking boots with someone inside._  
+__knock down__ :two::hammer:  
 __knock it off__ :two: To stop doing whatever one is doing. Often used as an imperative. _Knock it off, you two! I don’t want to see any more fighting._  
 __knock off__  
 __knock on wood__  
@@ -3349,7 +3355,7 @@ __leather-lunged__ (used before a noun) Having an extremely or inordinately loud
 __leave (one’s) mark__  
 __leave (something) out of account__ To ignore something; to pay little or no heed to something. _Don’t leave your father’s advice out of account—he knows what he’s talking about!_  
 __leave home__ To cease living with one’s parents; to strike out on one’s own. _I regret leaving home at such a young age, but it did teach me some good lessons about self-reliance._  
-__leave it at that__ :dart: To take no further action or say nothing more about something. _Let’s not spend too long on this. Let’s just put on a few finishing touches and leave it at that._  
+__leave it at that__ :dart::two: To take no further action or say nothing more about something. _Let’s not spend too long on this. Let’s just put on a few finishing touches and leave it at that._  
 __leave much to be desired__ :dart: To be very inadequate or unsatisfactory; to lack a large amount of what is desired or required. _The film has a very interesting premise, but the final product leaves much to be desired._  
 __leave no stone unturned__ :two::hammer: _We are leaving no stone unturned._  
 __leave someone in its wake__ _The speedboat leaves all others in its wake._  
@@ -3530,7 +3536,7 @@ __lox__ :three: __1__ James Ellroy uses a lot of slang and abbreviations in his 
 __lubrication payment__ A small sum of money or other gifts or services to be paid or given to government officials to expedite business operations in countries that do not prohibit such activity. _Whenever I start up a new factory overseas, I make sure to bring along enough cash on hand for any lubrication payments I may need to make._  
 __luck in__ To be very lucky or fortunate; to experience particularly good luck. (A nonstandard variant of “luck out.”) _I really lucked in with my graduate school program. I have the most amazing group of professors and peers!_  
 __Lucky 13__ “Lucky 13” in Elmore Leonard’s novels refers to the 13th Street gang, a group of criminals who play a significant role in several of his works.  
-__lucky break__ A very fortunate or beneficial chance or happenstance.  
+__lucky break__ :two: A very fortunate or beneficial chance or happenstance.  
 __lucky devil__ Someone who has just experienced particularly good fortune, generally of whom the speaker is envious to some degree. _You just won an all-expenses-paid trip to the Bahamas? You lucky devil!_  
 __lucky loser__ :two: A sports competitor (player or team) who loses a match in a knockout tournament or loses in qualifying, but who then enters the main draw, usually when another competitor withdraws during the tournament because of illness, injury, or other reasons.  
 __lug<sup>1</sup>__ _n_ In James Ellroy’s novels, “lug” is a term used to refer to a person, usually a man, who is tough, strong, and maybe a little slow-witted. It’s often used in a slightly derogatory way to describe someone who’s not very sophisticated or intelligent, but is still physically imposing and intimidating.  

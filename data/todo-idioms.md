@@ -98,31 +98,6 @@ __groovy__ __1__ _slang_ Cool or appealing. Popular in the 1960s and ’70s, the
 __gun-shy__  
 __gut-wrenching__ Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one’s feelings. _What a gut-wrenching loss for the young athlete, who poured her heart and soul into this match._  
 __gyatt__ A slang exclamation of surprise or excitement. Gyatt is most commonly used as an exclamation in reaction to seeing a large butt (that is, the buttocks) and may be used as a noun to mean a large butt.  
-__gym bunny__ Someone who is obsessively preoccupied with maintaining or improving their physique and thus spends a large amount of time at the gym to do so. _After recovering from his surgery, John spent a lot of time at the gym getting his body back into shape. Now he’s turned into a total gym bunny._  
-__Hail Mary__  
-__half a brain__ Common sense. _If he had half a brain, he would have left a long time ago._  
-__hammer out__  
-__hands down__ :two::hammer:  
-__happy medium__ A healthy balance between two extremes.  
-__I’ll be hanged if I (do something)__ I am determined not to do something.  
-__idiot mittens__  
-__if you will__  
-__in (high) hopes of (something)__  
-__in a bad light__ Negatively; under unfavorable circumstances. (Typically used with the verbs “see” or “show,” or some similar variation.) _I’m flattered that he based a character in his novel on me, but I think I was shown in a bad light._  
-__in a new light__  
-__in the event that__ If it should happen or be the case that.  
-__in the long run__ Over a relatively long or extended length of time in the future.  
-__in the works__  
-__in-between__  
-__iron out__  
-__it is what it is__  
-__keep up with (someone or something)__  
-__kingfish__ _informal_ A person in a position of uncontested authority or influence, especially a powerful political leader.  
-__kingpin__  
-__knock down__ :two::hammer:  
-__leave it at that__ To take no further action or say nothing more about something. _Let’s not spend too long on this. Let’s just put on a few finishing touches and leave it at that._  
-__let alone__  
-__lucky break__  
 __MAGA__ An abbreviation for “Make America Great Again,” Donald Trump’s presidential campaign slogan. _President Trump is known to include #MAGA in his tweets._  
 __make (both) ends meet__  
 __make headway__ To make progress.  
