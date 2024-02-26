@@ -1,13 +1,20 @@
+__a posteriori__ _adj_ /eɪ pɒsˌtɛrɪˈɔːraɪ; -rɪ; ɑː/  
 __ageism__  
+__ageist__ _adj_ _Current consultant pay scales are ageist and sexist and require reform._ :es: que discrimina en razón de la edad  
 __alible__ _adj_ /ˈælɪbəl/ Nourishing; nutritious.  
+__appraiser__ _n_ :es: tasador  
 __arguably__ _adv_  
 __assiduous__ _adj_ Marked by care and persistent effort. _Syn_ sedulous  
+__backslide__ _v_  
 __bangle__ _n_  
+__banter__ _n_ Good-humored, playful, or teasing conversation.  
+__bare bones__ _n pl_ _informal_ The basic elements or essentials: outlined the bare bones of the proposal.  
 __betterment__ _n_  
 __blacking__ _n_ A preparation, such as a shoe or stove polish, that is used to impart a black color. _Syn_ shoe polish  
 __capitulant__ _n_ One that capitulates.  
 __capitulate__ _v_ To surrender, often after negotiation of terms.  
 __cardigan__ _n_ A usually collarless sweater or jacket that opens the full length of the center front.  
+__choirboy__ _n_ :pencil2:  
 __cinematographer__ _n_ A movie photographer, especially one who is in charge of the camera and lighting crews on a production.  
 __clout__ _n_  
 __cluck__ _n_  
@@ -29,6 +36,7 @@ __cozy__ _adj_ Relating to a genre of mystery stories with little suspense, expl
 __craven<sup>1</sup>__ _adj_ Having or showing a complete lack of courage; very cowardly.  
 __craven<sup>2</sup>__ _n_ A coward.  
 __crease__ _v_  
+__crème__ _n_ /krɛm, krim/ (creme) __1__ Cream. __2__ A usu. thick, sweet liqueur.  
 __crepitation__ _n_  
 __cruciferous__  
 __cue ball__ _n_  
@@ -38,11 +46,14 @@ __cursory__ _adj_
 __dandelion__ _n_  
 __daydream__ _n_  
 __diastole__ _n_ /daɪˈæstəlɪ/ The dilatation of the chambers of the heart that follows each contraction, during which they refill with blood.  
+__disorderly__ _adj_  
 __doom__ _v_ _Doomed to fail._  
+__drop shot__ _n_ (dropshot) __1a__ _tennis_ A softly-played return that drops abruptly after clearing the net, intended to give an opponent no chance of reaching the ball and usually achieved by imparting backspin.  
 __drowsy__  
 __dullard__ _n_ A person regarded as mentally dull. _Syn_ dolt, pillock, poor fish, pudding head  
 __dune__ _n_ /dun, dyun/  
 __dysarthria__ _n_ Difficulty in articulating words, caused by impairment of the muscles used in speech.  
+__emaciate__ _v_ To make or become extremely thin, especially as a result of starvation. _Half of the prison building had enlarged photos of the emaciated prisoners._  
 __embryo__ _n_  
 __encourage__ _vt_ /ɪnˈkʌrɪdʒ/ /ɛnˈkɜr ɪdʒ, -ˈkʌr-/  
 __endpoint__ _n_ In clinical trials, a variable linked to the efficacy (e.g., prolongation of survival) or safety issue of the trial.  
@@ -65,6 +76,7 @@ __firearm__ _n_
 __flywheel__ _n_  
 __foundational__ _adj_  
 __fresh__ _adj_ _Fresh sanctions._  
+__frostbite__ _n_ :es: congelación  
 __gatekeep__ _v_  
 __gazillion__  
 __generic name__ _n_  
@@ -80,6 +92,7 @@ __grotesque__
 __guardrail__ _n_  
 __haberdasher__ _n_ A dealer in men’s furnishings. _Syn_ clothier  
 __haggard__ _adj_ /HAG-urd/  
+__handball__ _n_ :es: balonmano  
 __hands-down__ _adj_ __1__ Easy: _A hands-down victory._ __2__ Unchallenged; certain: _a hands-down bestseller._  
 __hardened computer__ _n_ A hardened computer refers to a system that has undergone systems hardening, a process aimed at reducing vulnerabilities in technology applications, systems, infrastructure, firmware, and other areas.  
 __headwind__ _n_  
@@ -88,6 +101,7 @@ __high tops__ _n pl_ Training shoes that reach above the ankles.
 __hitman__ _n slang_  
 __hobbledehoy__ _n_ An awkward, gawky young man.  
 __hourlong__ _adj_  
+__huckster__ _n_  
 __humanitarian corridor__ _n_  
 __illustrate__ _v_  
 __impeach__ _v_ To charge (a public official) before a competent tribunal with misconduct in office.  
@@ -108,9 +122,11 @@ __lavabo__ _n_ A basin for washing the hands. _Syn_ handbasin, washbasin, washbo
 __lead__ _n_ :mega:  
 __levity__ _n_  
 __lickspittle__ _n_ (lickspit) A fawning subordinate; a suck-up. A fawning underling; a toady.  
+__limerick__ _n_  
 __loggerhead__ _n_ __1__ A thick-headed or stupid person; blockhead.  
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
 __lost and found__ _n_  
+__lurk__ _vi_  
 __meritless__ _adj_  
 __milksop__ _n_ A man lacking courage and other qualities deemed manly.  
 __misclassification__ _n_ :pencil2:  
@@ -135,6 +151,7 @@ __opponent__ _adj, n_ :mega:
 __opprobrium__ _n_ /uh-PROH-bree-um/ Opprobrium refers to very strong disapproval or criticism of a person or thing especially by a large number of people. _They’re going ahead with the plan despite public opprobrium._  
 __ouster__ _n_  
 __outbid__ _vt_  
+__outbreak__ _n_  
 __outpost__ _n_  
 __outright__  
 __outweigh__ _v_  
@@ -151,6 +168,7 @@ __parliament__ _n_
 __pass__ _v_ __11__ To cease to exist; die. Often used with on: _The patient passed on during the night._  
 __pattern__ _vt_ __1__ (often foll by: _after_ or _on_) To model. _Patterned after the Olympic Games, the Pan American Games are held every four years._ __2__ To arrange as or decorate with a pattern.  
 __peanut allergy__ _n_  
+__penitentiary__ _n_  
 __penny candy__ _n_ Inexpensive candy originally costing a penny apiece.  
 __pergola__ _n_ An arbor or a passageway of columns supporting a roof of trelliswork on which climbing plants are trained to grow. _Syn_ arbor, bower  
 __permafrost__ _n_  
@@ -161,6 +179,7 @@ __picket line__ _n_
 __picturesque__  
 __pitfall__ _n_ __1__ An unsuspected difficulty or danger.  
 __pixie__ _n_ A fairy; specifically: a cheerful mischievous sprite.  
+__poignant__ _adj_  
 __posit<sup>1</sup>__ _vt_ __2__ To lay down or assume as a fact or principle; postulate.  
 __posit<sup>2</sup>__ _n_ :astonished: Something that is posited; an assumption; postulate.  
 __prebiotic__ _n_  
@@ -169,9 +188,11 @@ __psyops__ _n pl_ Military operations usually aimed at influencing the enemy’s
 __pubic symphysis__ _n_ The fixed joint at the front of the pelvic girdle where the two pubic bones meet.  
 __pusillanimous__ _adj_ Weak and afraid of danger.  
 __quirk__ _n_ /KWERK/ _Quirk_ refers to an unusual habit or way of behaving. It can also refer to something strange that happens by chance, as in “a quirk of fate.”  
+__raffle__ _n_  
 __range anxiety__ _n informal_ The apprehension or fear that an electric vehicle’s battery will run out of power before reaching one’s intended destination or a charging station.  
 __rapport__ _n_ /ra-POR/  
 __reckless__ _adj_  
+__reclaim__ _vt_  
 __relatable__  
 __remark__ _n_ /rɪˈmɑrk/  
 __renewal__ _n_  
@@ -183,6 +204,7 @@ __restorative__
 __restraint__ _n_  
 __resurgence__ _n_  
 __retinue__ _n_ /RET-uh-noo/ [:scroll: _Retinue_ comes via Middle English from the Anglo-French verb _retenir_, meaning “to retain or keep in one’s pay or service.”] A retinue is a group of helpers, supporters, or followers.  
+__revolver__ _n_ /rɪˈvɒl vər/ __1__ A handgun having a revolving cylinder with several cartridge chambers that may be fired in succession.  
 __rife__ _adj_  
 __rigorous__ _adj_  
 __ringleader__ _n_ /ˈrɪŋˌliːdə/ A person who leads others in any kind of unlawful or mischievous activity. :es: cabecilla  
@@ -222,7 +244,10 @@ __staid__
 __Sterno__ _n_ _Trademark_ Flammable hydrocarbon jelly packaged in a small can for use as a portable heat source for cooking.  
 __storm__ _v_ __2__ To behave or shout angrily; rant and rage: _stormed at his incompetence._  
 __subsidy__ _n_  
+__temporary duty__ _n_ Temporary military service away from one’s permanent duty station.  
 __tenet__ _n_ /TEN-it/ Any opinion, principle, doctrine, dogma, etc., especially one held as true by members of a profession, group, or movement.  
+__unschooled__ _adj_ __2__ Spontaneous; natural: _unschooled talent._  
+__walkout__ _n_  
 __yellow jacket__ _n_ __1__ _slang_ A barbiturate (trade name Nembutal) used as a sedative and hypnotic and anti-spasmodic. __2__ Any of several social wasps of the genus Vespa, having yellow markings on the body.  
 __yelp__ _v_  
 __yesterweek<sup>1</sup>__ _n_ /YES-tuhr-week/ Last week.  
