@@ -1,3 +1,4 @@
+__(all) fired up__ Feeling very excited or passionate about something.  
 __(Are) you kidding (me)?__ :four::hammer:  
 __(the) next thing (one) knows__  
 __a (real) gas__ _slang_ A thoroughly entertaining, enjoyable, or amusing experience.  
@@ -25,15 +26,18 @@ __bigfoot__ A prominent or influential person, esp. a journalist or news analyst
 __bigwig__ An important person; a self-important person. _Some bigwig in a pinstripe suit waltzed through and asked me to leave._  
 __bloodbath__  
 __bogart__ :astonished: To take an unfair share of something.  
+__bonkers__ __1__ Crazy, wacky, or strange. _There’s a guy on our corner who shouts about the end of the world; I think he’s bonkers._  
 __boob tube__ _slang_ The television.  
 __boogie__ __2__ _v_ To dance, often to rock music specifically. _I hope you’ll boogie with me tonight—my husband hates to dance._ __3__ _v_ To become focused and work diligently on something. _Fine, take a break now, and then we’ll boogie._  
 __brain dead__ __2__ _slang_ So mentally exhausted or lacking focus that one does something poorly and/or makes easily avoidable mistakes.  
 __break out__ __5__ _v_ To occur unexpectedly and intensely. _We knew it was time to leave the club when a fight broke out between guys at the bar._  
+__build up__  
 __bummer__ :two: __3__ _adj_ Describing someone or something unpleasant. _Oh, it was a bummer party—you didn’t miss anything._  
 __calaboose__ _slang_ Jail. The word comes from “calabozo,” the Spanish word for “dungeon.” _They’ll throw you in the calaboose if they find out that you were involved in the robbery!_  
 __call for (someone or something)__  
 __call out__  
 __cash in__ :two::hammer:  
+__cloud (one’s) judgment__ To cause one’s judgment to become confused or impaired.  
 __cold fish__ Someone who shows no emotion and comes across as unfriendly or disinterested.  
 __cut off__ :two: __2__ _v_ To abruptly move in front of another driver, either intentionally or unintentionally. In this usage, a noun or pronoun can be used between “cut” and “off.” _Can you believe that jerk cut me off like that? I nearly hit him!_  
 __cut someone or something out__  
@@ -68,7 +72,9 @@ __for kicks__ Only for the sake of fun, excitement, or distraction.
 __for lack of a better word__  
 __for show__ Done merely for the sake of appearance; not genuine or sincere.  
 __for the birds__  
+__for want of a better word__ Lacking a more precise term. _If you want to maintain your good mood, then don’t talk to Kristina. She is, for want of a better word, a sourpuss._  
 __fork over__  
+__frag__ _slang_ [:scroll: The term had its origin in the Vietnam War] To kill a fellow soldier, often a superior, with a grenade or other explosive device. The word is a shortening of “fragmentation grenade,” referring to a type of grenade that expels shrapnel over a large area. _Someone’s going to frag that guy if he keeps treating his men so poorly._  
 __free fall__  
 __from the get-go__  
 __frosty__ __2__ _mod_ Cool; really cool and mellow. _That music is really frosty._  
@@ -107,17 +113,23 @@ __in a new light__
 __in the event that__ If it should happen or be the case that.  
 __in the long run__ Over a relatively long or extended length of time in the future.  
 __in the works__  
+__in-between__  
 __iron out__  
 __it is what it is__  
 __keep up with (someone or something)__  
 __kingfish__ _informal_ A person in a position of uncontested authority or influence, especially a powerful political leader.  
 __kingpin__  
-__knock down__  
+__knock down__ :two::hammer:  
+__leave it at that__ To take no further action or say nothing more about something. _Let’s not spend too long on this. Let’s just put on a few finishing touches and leave it at that._  
+__let alone__  
+__lucky break__  
+__MAGA__ An abbreviation for “Make America Great Again,” Donald Trump’s presidential campaign slogan. _President Trump is known to include #MAGA in his tweets._  
 __make (both) ends meet__  
 __make headway__ To make progress.  
 __make no mistake__  
 __mic drop__  
 __moo juice__ _slang_ Cow’s milk.  
+__nail__  
 __north of (some number)__  
 __nose job__  
 __not have a hope in hell__ To have no possibility of succeeding, coming to pass, or achieving something. _They don’t have a hope in hell of getting into the playoffs this year._  
@@ -132,6 +144,7 @@ __plain vanilla__ A reference to vanilla being considered an ordinary or unexcit
 __play big__ To play for high stakes; to be willing to take risks.  
 __plenty of (something)__ An abundant amount of; more than is needed.  
 __point of contact__ A person or entity one can seek to access information or services.  
+__pull something off__  
 __put (something or someone) on the map__ To make (a place, a person, etc.) famous or well-known.  
 __quite a (something)__  
 __rain or shine__  
@@ -148,6 +161,7 @@ __shift gears__
 __shoot (oneself) in the foot__  
 __shore up__ :dart:  
 __shot to nothing__ _Snooker_ An attempted pot that is intended not to leave a possible pot for the opponent if missed.  
+__shuffle off this mortal coil__ To die. An allusion to a line in Shakespeare’s _Hamlet_, in which Hamlet muses on what happens to the spirit after death.  
 __sick to (one’s) stomach__ Nauseated or vomiting.  
 __sidebar conversation__ _informal_ A conversation held privately between two people while one or more other people are already speaking.  
 __sign of the times__  
@@ -160,17 +174,27 @@ __skeevy__ :two: Offensively or unscrupulously repellant, repugnant, or disreput
 __skeleton in the/(one’s) closet__ An embarrassing or shameful secret.  
 __skibidi__ _slang_ A nonsense word or sound without a specific meaning.  
 __skimp on (something)__  
+__slip up__ __3__ _n_ A minor mistake, blunder, or mishandling. In this usage, the phrase is often hyphenated.  
 __smoking gun__  
+__snake oil__  
+__so much for (someone or something)__  
 __So what?__  
+__sourpuss__ _n_ /ˈsɑʊɚpʊs/ A grouchy or frowning person.  
 __space cadet__  
 __square__ __1__ _mod_ Old-fashioned; law-abiding; stodgy. _Man, you are really square._  
+__street smart__ _mod_ Wise in the ways of urban life; wise in the ways of tough neighborhoods. _Bess wasn’t street smart enough to survive by herself._  
+__strike (one) as (something)__ To cause one to consider someone or something as being a certain type of person or thing. _You don’t strike me as the type to take criticism like that very lightly._  
 __take over__  
+__task (one) with (something)__  
 __the (hot) skinny__ _slang_ The real or most accurate information or facts.  
+__the golden rule__ The maxim that one should treat other people the way one would like to be treated, often expressed proverbially as “Do unto others as you would have them do unto you.”  
 __the honest truth__ The sincere, unadulterated truth. _I swear it wasn’t me who broke the lamp, that’s the honest truth!_  
 __thoughts and prayers__ A phrase often used as part of an attempt to comfort someone who has just suffered a tragic loss, as in, “Our thoughts and prayers are with you.” The frequent use of the phrase or similar expressions by politicians after mass shootings in the US has increasingly been criticized by those who believe it is used to avoid pursuing tangible actions, notably changes to gun laws. _You can keep your thoughts and prayers, senator—they won’t give me my sister back._  
+__to come__ (used after a noun) In the future: _They may well regret the decision in years to come._  
 __top banana__ The person with the most authority, power, or influence in a group or organization. _Syn_ top dog  
 __top dog__  
 __vacillate between (one person or thing) and (another)__  
+__what the heck__  
 __you name it__ :two::hammer:  
 __your mileage may vary__  
 __your thoughts__ :three: A way to invite someone to share their opinion or perspective in a conversation.  
