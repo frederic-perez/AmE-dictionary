@@ -1,28 +1,3 @@
-__compassionate__ _adj_  
-__compound__ _v_  
-__conjubilant__ _adj_ Shouting together with joy.  
-__consign__ _v_ To give over to the care of another; entrust. _Syn_ charge  
-__constraint__ _n_ /kənˈstreɪnt/  
-__contingency plan__ _n_  
-__conundrum__  
-__counterintuitive__ _adj_  
-__coveted__ _adj_ /ˈkʌvɪtɪd/ Greatly desired. _Syn_ desired, in demand, sought after  
-__cozy__ _adj_ Relating to a genre of mystery stories with little suspense, explicit violence, or sexual content, often also having amateur sleuths and idyllic, intimate settings.  
-__craven<sup>1</sup>__ _adj_ Having or showing a complete lack of courage; very cowardly.  
-__craven<sup>2</sup>__ _n_ A coward.  
-__crease__ _v_  
-__crème__ _n_ /krɛm, krim/ (creme) __1__ Cream. __2__ A usu. thick, sweet liqueur.  
-__crepitation__ _n_  
-__cruciferous__  
-__cue ball__ _n_  
-__cue__ _n_ :two::hammer: :es: taco  
-__curb__ _vt_  
-__cursory__ _adj_  
-__dandelion__ _n_  
-__daydream__ _n_  
-__diastole__ _n_ /daɪˈæstəlɪ/ The dilatation of the chambers of the heart that follows each contraction, during which they refill with blood.  
-__disorderly__ _adj_  
-__doom__ _v_ _Doomed to fail._  
 __drop shot__ _n_ (dropshot) __1a__ _tennis_ A softly-played return that drops abruptly after clearing the net, intended to give an opponent no chance of reaching the ball and usually achieved by imparting backspin.  
 __drowsy__  
 __dullard__ _n_ A person regarded as mentally dull. _Syn_ dolt, pillock, poor fish, pudding head  
