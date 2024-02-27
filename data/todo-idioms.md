@@ -2,6 +2,7 @@ __(all) fired up__ Feeling very excited or passionate about something.
 __(Are) you kidding (me)?__ :four::hammer:  
 __(the) next thing (one) knows__  
 __a (real) gas__ _slang_ A thoroughly entertaining, enjoyable, or amusing experience.  
+__a bit of__ __1__ Somewhat; rather; to some extent. _It turns out that the unusual convention of capitalizing the pronoun I was a bit of an accident._  
 __a breath of fresh air__  
 __a breeze__  
 __a clear future__ “A clear picture” is an idiomatic expression that means a complete and accurate understanding or representation of something.  
@@ -9,6 +10,8 @@ __a-ha moment__
 __all the rage__ _slang_ Very popular. _Disco music was all the rage in the 1970s._  
 __alongside of (someone or something)__  
 __an uphill battle__  
+__as good as it gets__  
+__at a loss__  
 __be all about (someone, something, or oneself)__  
 __be better off__  
 __be just the same (to someone)__ To make no difference (to someone) one way or another; to be unimportant (to someone) what happens.  
@@ -17,6 +20,7 @@ __be under way__ :two::hammer:
 __beat (oneself) up__ To continually criticize or question oneself, usually about something that one cannot change.  
 __beekeeping age__ A slang phrase that refers to a middle age range and is usually used specifically to describe an attractive older man, as in _Mark’s dad is in his beekeeping age._  
 __bellwether state__ A state whose political trends, tendencies, or developments tend to reflect or predict those of the entire country. Primarily heard in US. _Ohio is famously a bellwether state. If the senator can win here, she’s nearly assured to win the presidency._  
+__best-of-class__  
 __between a rock and a hard place__  
 __big enchilada__ __1__ The most important or powerful person in a group, organization, business, or movement (e.g., the boss, leader, etc.). Primarily heard in US. _I think it sounds like a great idea, but you’ll have to ask the big enchilada first._ __2__ An object or goal of great value, importance, or consequence. Primarily heard in US. _We only need to win two more games in the tournament to take home the big enchilada._  
 __big fish__ _n_ An important person or entity.  
@@ -37,11 +41,16 @@ __calaboose__ _slang_ Jail. The word comes from “calabozo,” the Spanish word
 __call for (someone or something)__  
 __call out__  
 __cash in__ :two::hammer:  
+__cheesy__ _mod_ Cheap; tacky. _I wouldn’t live in a cheesy place like this if I could afford better._  
+__clinch__ _vt_ /klɪntʃ/ To settle something; to make something final. _I was able to clinch the deal, and I got a raise for it._  
 __cloud (one’s) judgment__ To cause one’s judgment to become confused or impaired.  
+__coffee nap__ A short nap, usually 15–30 minutes, taken immediately after drinking a cup of coffee.  
 __cold fish__ Someone who shows no emotion and comes across as unfriendly or disinterested.  
+__custard apple__ _n_ :es: chirimoya  
 __cut off__ :two: __2__ _v_ To abruptly move in front of another driver, either intentionally or unintentionally. In this usage, a noun or pronoun can be used between “cut” and “off.” _Can you believe that jerk cut me off like that? I nearly hit him!_  
 __cut someone or something out__  
 __cut to the chase__  
+__cutting edge__  
 __dark cloud__  
 __dark horse__  
 __date me doc__ A _date me doc_ is a document listing someone’s personal information and relationship preferences. The document is posted online in the hopes of attracting romantic partners.  
@@ -83,8 +92,10 @@ __fuzz__ _slang_ The police. _Come on, we’ve got to get out of here before the
 __game face__ __2__ An expression of stoicism intended to mask one’s emotions or intentions. _John put his game face on as soon as I started to break up with him, so I can’t really tell how he took the new._  
 __get into it__  
 __get it (all) together__  
+__get on (one’s) nerves__ To irritate, grate on, or exasperate one.  
 __give (one) the green light__ :two::hammer:  
 __go a long way__ :two::hammer:  
+__go big or go home__ _expression_ Either do something to its fullest extent or largest degree, or else don’t even bother. Often used facetiously. _A: “Do we really need to cook an entire pig for this barbecue? We’re only having a few people over.” B: “Hey, go big or go home!”_  
 __go down the toilet__ To fail; to be ruined or destroyed; to be squandered or wastefully discarded.  
 __go into overdrive__ To start working very hard or quickly.  
 __go places__ To progress or find success in some area of one’s life. _Alice is definitely going to go places with that singing voice of hers._  
@@ -98,6 +109,8 @@ __groovy__ __1__ _slang_ Cool or appealing. Popular in the 1960s and ’70s, the
 __gun-shy__  
 __gut-wrenching__ Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one’s feelings. _What a gut-wrenching loss for the young athlete, who poured her heart and soul into this match._  
 __gyatt__ A slang exclamation of surprise or excitement. Gyatt is most commonly used as an exclamation in reaction to seeing a large butt (that is, the buttocks) and may be used as a noun to mean a large butt.  
+__hard to believe__ Seemingly untrue; quite dubious. _Hard to believe, but there were no rules for capitalization until the 1700s._  
+__lifer__  
 __MAGA__ An abbreviation for “Make America Great Again,” Donald Trump’s presidential campaign slogan. _President Trump is known to include #MAGA in his tweets._  
 __make (both) ends meet__  
 __make headway__ To make progress.  
@@ -108,13 +121,16 @@ __nail__
 __north of (some number)__  
 __nose job__  
 __not have a hope in hell__ To have no possibility of succeeding, coming to pass, or achieving something. _They don’t have a hope in hell of getting into the playoffs this year._  
+__note to self__  
 __off the shelf__ Ready made for purchase from available stock; not custom built or crafted. Often hyphenated.  
 __off-kilter__  
 __on a daily basis__ Once or more each day.  
 __on the lookout__ Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
+__one-off__  
 __org__ __2__ _n_ An organization.  
 __out of pocket__  
 __outed__  
+__over the moon__ Extremely happy. _I’ve been over the moon ever since I got engaged—I just can’t stop looking at my ring!_  
 __plain vanilla__ A reference to vanilla being considered an ordinary or unexciting flavor. Often hyphenated if used before a noun. __1__ Completely basic, simple, or straightforward, lacking embellishments, adornments, special features, etc.  
 __play big__ To play for high stakes; to be willing to take risks.  
 __plenty of (something)__ An abundant amount of; more than is needed.  
@@ -128,6 +144,7 @@ __roll out__
 __rue the day (that something happened)__ To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
 __run through (something)__ __4__ To guide one through or inform one of the process or details of something. In this usage, a noun or pronoun is used between “run” and “through.” _Can you run me through the plan one more time?_  
 __scavenger hunt__  
+__sell like hot cakes__  
 __send the wrong message__ To do or say something that communicates a meaning different or contrary to what one desires, either implicitly or explicitly.  
 __set (someone or oneself) up for (something)__  
 __set the tone__  
@@ -143,6 +160,7 @@ __sign of the times__
 __silver lining__  
 __single out__  
 __sink or swim__  
+__siphon off__  
 __six ways to Sunday__ _adj_ Askew, at an angle.  
 __skate__  
 __skeevy__ :two: Offensively or unscrupulously repellant, repugnant, or disreputable.  
@@ -153,23 +171,29 @@ __slip up__ __3__ _n_ A minor mistake, blunder, or mishandling. In this usage, t
 __smoking gun__  
 __snake oil__  
 __so much for (someone or something)__  
+__so to speak__  
 __So what?__  
 __sourpuss__ _n_ /ˈsɑʊɚpʊs/ A grouchy or frowning person.  
 __space cadet__  
 __square__ __1__ _mod_ Old-fashioned; law-abiding; stodgy. _Man, you are really square._  
 __street smart__ _mod_ Wise in the ways of urban life; wise in the ways of tough neighborhoods. _Bess wasn’t street smart enough to survive by herself._  
 __strike (one) as (something)__ To cause one to consider someone or something as being a certain type of person or thing. _You don’t strike me as the type to take criticism like that very lightly._  
-__take over__  
+__take over__ :two::hammer:  
 __task (one) with (something)__  
+__That’s the spirit!__ That’s the right kind of attitude to have in order to be successful.  
 __the (hot) skinny__ _slang_ The real or most accurate information or facts.  
 __the golden rule__ The maxim that one should treat other people the way one would like to be treated, often expressed proverbially as “Do unto others as you would have them do unto you.”  
 __the honest truth__ The sincere, unadulterated truth. _I swear it wasn’t me who broke the lamp, that’s the honest truth!_  
+__then again__ _It’s too bad she won’t live. But then again, who does?_  
 __thoughts and prayers__ A phrase often used as part of an attempt to comfort someone who has just suffered a tragic loss, as in, “Our thoughts and prayers are with you.” The frequent use of the phrase or similar expressions by politicians after mass shootings in the US has increasingly been criticized by those who believe it is used to avoid pursuing tangible actions, notably changes to gun laws. _You can keep your thoughts and prayers, senator—they won’t give me my sister back._  
+__to a certain extent__  
 __to come__ (used after a noun) In the future: _They may well regret the decision in years to come._  
 __top banana__ The person with the most authority, power, or influence in a group or organization. _Syn_ top dog  
 __top dog__  
+__under (one’s) wing__  
 __vacillate between (one person or thing) and (another)__  
 __what the heck__  
+__whoosis__ _slang_ Any person whose name is not known, cannot be remembered, or is being avoided.  
 __you name it__ :two::hammer:  
 __your mileage may vary__  
 __your thoughts__ :three: A way to invite someone to share their opinion or perspective in a conversation.  
