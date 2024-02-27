@@ -1,3 +1,11 @@
+__antennae__ _n_ :mega: /an-TEN-ee/  
+__awry__ _adj, adv_ :mega: /uh-RYE/  
+__boatswain__ _n_ :mega: /BOH-sun/  
+__bruschetta__ _n_ /broo-SHET-uh, broo-SKET-uh/  
+__clapboard__ _n_ :mega: /KLAB-erd/  
+__colonel__ _n_ :mega: /KER-nul/  
+__coxswain__ _n_ :mega: /KAHK-sun/  
+__cupboard__ _n_ :mega: /KUB-erd/  
 __drop shot__ _n_ (dropshot) __1a__ _tennis_ A softly-played return that drops abruptly after clearing the net, intended to give an opponent no chance of reaching the ball and usually achieved by imparting backspin.  
 __drowsy__  
 __dullard__ _n_ A person regarded as mentally dull. _Syn_ dolt, pillock, poor fish, pudding head  
@@ -11,8 +19,11 @@ __energy poverty__ _n_
 __enervate__ _v_ /EN-er-vayt/ :astonished: _Syn_ weaken, enfeeble  
 __engage__ _v_  
 __enshittification__ _n_  
+__epitome__ _n_ :mega: /ih-PIT-uh-mee/  
 __equitable__  
 __era__ _n_  
+__etcetera__ _n_ :mega: /et-SET-uh-ruh/  
+__etceteras__ _n pl_ Unspecified additional items. _Syn_ odds and ends  
 __eurythmic__ _adj_  
 __eurythmics__ _n_ The art of harmonious bodily movement especially through expressive timed movements in response to improvised music.  
 __evict__ _vt_ /ɪˈvɪkt/  
@@ -27,6 +38,7 @@ __flywheel__ _n_
 __foundational__ _adj_  
 __fresh__ _adj_ _Fresh sanctions._  
 __frostbite__ _n_ :es: congelación  
+__fulgurant__ _adj_ /FUHL/FULL-guh-ruhnt/ __1__ Flashing like lightning. __2__ Brilliant.  
 __gatekeep__ _v_  
 __gazillion__  
 __generic name__ _n_  
@@ -53,6 +65,7 @@ __hobbledehoy__ _n_ An awkward, gawky young man.
 __hourlong__ _adj_  
 __huckster__ _n_  
 __humanitarian corridor__ _n_  
+__hyperbole__ _n_ :mega: /hye-PER-buh-lee/  
 __illustrate__ _v_  
 __impeach__ _v_ To charge (a public official) before a competent tribunal with misconduct in office.  
 __incarcerate__ _vt_ /ɪnˈkɑr səˌreɪt/  
@@ -79,6 +92,7 @@ __lost and found__ _n_
 __lurk__ _vi_  
 __meritless__ _adj_  
 __milksop__ _n_ A man lacking courage and other qualities deemed manly.  
+__mischievous__ _adj_ :mega: /MISS-chuh-vuss/  
 __misclassification__ _n_ :pencil2:  
 __misgiving__ _n_ :two::hammer:  
 __mishandle__ _vt_  
@@ -133,18 +147,24 @@ __poignant__ _adj_
 __posit<sup>1</sup>__ _vt_ __2__ To lay down or assume as a fact or principle; postulate.  
 __posit<sup>2</sup>__ _n_ :astonished: Something that is posited; an assumption; postulate.  
 __prebiotic__ _n_  
+__primer__ _n_ :mega: /PRIMM-er/  
+__prix fixe__ _n_ :mega: /PREE-FEEKS, PREE-FIK/  
 __propitiate__ _v_ :astonished: To conciliate (an offended power). _Syn_ appease _After his grave sin, he tried to propitiate the gods with a sacrifice._  
 __psyops__ _n pl_ Military operations usually aimed at influencing the enemy’s state of mind through noncombative means (such as distribution of leaflets).  
 __pubic symphysis__ _n_ The fixed joint at the front of the pelvic girdle where the two pubic bones meet.  
 __pusillanimous__ _adj_ Weak and afraid of danger.  
+__quiche__ _n_ /KEESH/  
+__quinoa__ _n_ :mega: /KEEN-wah, kee-NOH-uh/  
 __quirk__ _n_ /KWERK/ _Quirk_ refers to an unusual habit or way of behaving. It can also refer to something strange that happens by chance, as in “a quirk of fate.”  
 __raffle__ _n_  
+__ragout__ _n_ :mega: /ra-GOO/  
 __range anxiety__ _n informal_ The apprehension or fear that an electric vehicle’s battery will run out of power before reaching one’s intended destination or a charging station.  
 __rapport__ _n_ /ra-POR/  
 __reckless__ _adj_  
 __reclaim__ _vt_  
 __relatable__  
 __remark__ _n_ /rɪˈmɑrk/  
+__remuneration__ _n_ :mega: /rih-myoo-nuh-RAY-shun/  
 __renewal__ _n_  
 __renowned__ _adj_  
 __reptilian__ _adj_ :dart: /rep-TIL-ee-uhn, -TIL-yuhn/ __1__ Contemptible. __2__ Treacherous. __3__ Like a reptile.  
@@ -177,6 +197,7 @@ __scuttle<sup>2</sup>__ _vt_
 __sea gypsy__ _n_  
 __seasoned__ _adj_  
 __secretary__ _n_ :mega: /ˈsɛk rɪˌtɛr i/  
+__segue__ _n_ :mega: /SEG-way/  
 __self-doubt__ _n_ A lack of faith or confidence in oneself.  
 __semiretired__ _adj_ Working only on a part-time basis, as for reasons of ill health or advanced age.  
 __sex__ _n_ (_n pl_ sexes)  
@@ -186,6 +207,7 @@ __slurp<sup>1</sup>__ _v_
 __slurp<sup>2</sup>__ _n_  
 __smell-feast__ _n_ One given to finding out and getting invited to good feasts.  
 __smellfungus__ _n_ An excessively faultfinding person.  
+__solder__ _n_ :mega: /SAH-der/  
 __somnambulant__ _adj_  
 __sore throat__ _n_ Any of various inflammations of the tonsils, pharynx, or larynx characterized by pain in swallowing.  
 __spinal column__ _n_ _Syn_ spine, vertebral column, backbone  
@@ -194,10 +216,13 @@ __staid__
 __Sterno__ _n_ _Trademark_ Flammable hydrocarbon jelly packaged in a small can for use as a portable heat source for cooking.  
 __storm__ _v_ __2__ To behave or shout angrily; rant and rage: _stormed at his incompetence._  
 __subsidy__ _n_  
+__tabbouleh__ _n_  
 __temporary duty__ _n_ Temporary military service away from one’s permanent duty station.  
 __tenet__ _n_ /TEN-it/ Any opinion, principle, doctrine, dogma, etc., especially one held as true by members of a profession, group, or movement.  
 __unschooled__ _adj_ __2__ Spontaneous; natural: _unschooled talent._  
+__victuals__ _n_ :mega: /VIT-ulz/  
 __walkout__ _n_  
+__Wednesday__ _n_ :mega: /ˈwɛnz deɪ, -di/  
 __yellow jacket__ _n_ __1__ _slang_ A barbiturate (trade name Nembutal) used as a sedative and hypnotic and anti-spasmodic. __2__ Any of several social wasps of the genus Vespa, having yellow markings on the body.  
 __yelp__ _v_  
 __yesterweek<sup>1</sup>__ _n_ /YES-tuhr-week/ Last week.  

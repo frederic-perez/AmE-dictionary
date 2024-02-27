@@ -93,6 +93,7 @@ __whee__ :two: Used to express extreme pleasure or enthusiasm.
 __whew__ :two: Used to express strong emotion, such as relief or amazement.  
 __whoa__ :two: __1__ Used as a command to stop, as to a horse. __2__ Used to express surprise, amazement, or great pleasure.  
 __why__  
+__wilco__ Used especially in radio communications to indicate agreement or compliance.  
 __woohoo__ _informal_ :three: /wʊˈhuː/ (woo hoo, woo-hoo) An exclamation of joy, approval, etc.  
 __yahoo<sup>2</sup>__ Expressing excitement, delight, or triumph.  
 __yay__ :seven: Used as an exclamation of pleasure, approval, elation, or victory. _Yay, Giants!_ _Syn_ hooray, hurrah  
