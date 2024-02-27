@@ -16241,6 +16241,7 @@ __self-conscious__ _adj_ :seven: __1__ Unduly aware of oneself as the object of 
 __self-deprecating__  
 __self-destruct<sup>1</sup>__ _vi_ To destroy itself or oneself.  
 __self-destruct<sup>2</sup>__ _adj_ Causing something to self-destruct.  
+__self-doubt__ _n_ A lack of faith or confidence in oneself.  
 __self-effacing__ _adj_ :five::astonished: Tending to make oneself, one’s actions, etc, inconspicuous, esp because of humility or timidity; modest.  
 __self-esteem__ _n_  
 __self-explanatory__ _adj_  
@@ -16268,6 +16269,7 @@ __semi-final__ _n_ :pencil2:
 __semi-finished__ _adj_ _Semi-finished lens._  
 __seminal__ _adj_ :two: Highly influential in an original way; constituting or providing a basis for further development. _Syn_ germinal, originative _He prepared a speech describing his experiment, never realizing that his presentation would be the seminal event in the development of a new theory._  
 __seminoles__  
+__semiretired__ _adj_ Working only on a part-time basis, as for reasons of ill health or advanced age.  
 __sempiternal__ _adj_ Enduring forever; eternal.  
 __senate__ _n_ :mega:  
 __send-off__ _n_ :three::hammer:  
@@ -16367,6 +16369,7 @@ __sewer gas__
 __sewer grate__ _n_ :two::hammer:  
 __sewer__ _n_ _A sewer pipe._  
 __sex drive__ _n_ A physiological need for sexual activity. _Testosterone is responsible for the male sex drive._  
+__sex__ _n_ (_n pl_ sexes)  
 __sextant__  
 __sexual battery__ _n_ Sexual battery may be defined as non-consensual touching of the intimate parts of another. At least in Florida, “Sexual battery means oral, anal, or vaginal penetration by, or union with, the sexual organ of another or the anal or vaginal penetration of another by any other object.”  
 __shabbily__ _adv_ __1__ So as to appear worn and threadbare or dilapidated; “a shabbily dressed man.” __2__ In a mean and ungenerous manner; _“the two were haggling shabbily in the drawing-room.”_ _He has shabbily deceived us._  
@@ -16568,6 +16571,7 @@ __short-handed__ _adj_ :five: Lacking the usual or necessary number of workers, 
 __short-lived__ _adj_ :four: Living or lasting only a short time; ephemeral.  
 __short<sup>1</sup>__ _n_  
 __short<sup>2</sup>__ _v_ _Every year, Americans short the IRS nearly half a trillion dollars._  
+__shortage__ _n_ /ˈʃɔr tɪdʒ/  
 __shortbread__ _n_ :three::hammer: [:scroll: From short (in the sense: crumbly)] _A rich crumbly biscuit made from dough with a large proportion of butter._  
 __shortchange__ _vt_ :five::hammer: (shortchanged) _I think people will be shortchanged._  
 __shortcoming__ _n_ :four::dart::hammer: (shortcomings) :es: defecto  
@@ -16921,6 +16925,7 @@ __sleep__ _n informal_ Dried mucus that sometimes collects in the eye corners wh
 __sleepaway__  
 __sleeper cell__ _n_ A group of secret agents that have remained inactive for a long period. _Russian sleeper cells._  
 __sleeper__ _n_ __2__ _Railways_ A railway sleeping car or compartment.  
+__sleepify__ _vt_  
 __sleepover__ _n_ :five::hammer:  
 __sleepsuit__ _n_  
 __sleepwalking__  
@@ -17023,7 +17028,8 @@ __slumberland__ _n_ An imaginary land described to children as the place they en
 __slumming__ _v_ :two::hammer:  
 __slump__ _v_ :two::hammer: (slumped) _People slumping out of chairs._  
 __slur__ _n_ :two::hammer:  
-__slurp__ _v_ :four::hammer: _Whitey sucked his soda through a straw until it slurped against the ice._  
+__slurp<sup>1</sup>__ _v_ :five::hammer: _Whitey sucked his soda through a straw until it slurped against the ice._  
+__slurp<sup>2</sup>__ _n_  
 __slush__ _n_ :seven::hammer: _The offshore ice and slush._ _How to Walk Safely in the Snow, Ice and Slush._  
 __slushies__ _n_ _Boozy slushies._  
 __slushy__  
@@ -17061,7 +17067,8 @@ __smattering__ _n_ :nine::m: __1__ A slight superficial knowledge of a language 
 __smear<sup>1</sup>__ _v_ :seven: (smearing) __1__ Make a smudge on; soil by smudging. __2__ Stain by smearing or daubing with a dirty substance. __3__ :dart: Charge falsely or with malicious intent; attack the good name and reputation of someone. _They use social media to smear their opponents._ _The smear campaign._  
 __smear<sup>2</sup>__ _n_ __1__ A blemish made by dirt. __2__ A thin tissue or blood sample spread on a glass slide and stained for cytologic examination and diagnosis under a microscope. __3__ :dart: An act that brings discredit to the person who does it. __4__ Slanderous defamation.  
 __smell test__  
-__smell-feast__ _n_ :two: One given to finding out and getting invited to good feasts. _Syn_ parasite, sponger  
+__smell-feast__ _n_ :three: One given to finding out and getting invited to good feasts. _Syn_ parasite, sponger  
+__smellfungus__ _n_ An excessively faultfinding person.  
 __smelt__ _v_ :two: (smelting) Extract (metal) from its ore by a process involving heating and melting. _A smelting factory._  
 __smelter__ _n_ :two::hammer: (smelters)  
 __smelting__ _n_ :two: The process of extracting a metal from an ore by heating. _A smelting furnace._  
@@ -17253,7 +17260,7 @@ __sojourn<sup>2</sup>__ _v_ :three::hammer:
 __sol__ _n_ __4__ A colloidal solution.  
 __solace__ _n_ :eight::mega: /ˈsɒl ɪs/ /SAH-lus/ /ˈsɒl ɪs/ Something that makes you feel better when you are sad or upset. Someone or something that gives a feeling of comfort to a person who is experiencing grief, sadness, or anxiety. _Her presence was a great solace to me during my time of need._ _We took solace in the knowledge that our ordeal would be over soon._  
 __solacing__ _v_ _Solacing her with kisses._  
-__solder__ _adj, n_ :two::hammer:  
+__solder__ _adj, n_ :three::hammer::mega: /SAH-der/  
 __soldier of fortune__ _n_ :two: A person who seeks riches or pleasure through adventurous, often military exploits.  
 __soldier__ _v_ :two::hammer: (soldiers, soldiered)  
 __sole<sup>1</sup>__ _n_ :two: Lean flesh of any of several flatfish.  
@@ -17282,7 +17289,7 @@ __somatic__ _adj_ Affecting or characteristic of the body as opposed to the mind
 __somber__ _adj_ /ˈsɒm bər/  
 __sombrero__ _n_ :three: (sombreros) A broad-brimmed, tall-crowned hat of straw or felt worn esp. in Mexico and the southwestern U.S.  
 __somewhat__ _adv_ :two: To some extent or degree; rather.  
-__somnambulant__ _adj_  
+__somnambulant__ _adj_ :two::hammer:  
 __somnambulate__ _v_ :pencil2: To walk or perform another act while asleep or in a sleeplike condition. _Syn_ sleepwalk  
 __somnolent__ _adj_ :two: Drowsy; sleepy. _Syn_ slumbery, slumberous _The monotonous sound of his voice had a somnolent effect, and I found myself nodding off during the speech._  
 __son of a biscuit__  
@@ -17307,6 +17314,7 @@ __sopping__ _v_
 __soppy__  
 __sorbet__ _n_ :two::mega::hammer:  
 __sordid__ _adj_  
+__sore throat__ _n_ Any of various inflammations of the tonsils, pharynx, or larynx characterized by pain in swallowing.  
 __sorehead__ _n_ _slang_ One who is easily offended, annoyed, or angered.  
 __sorely__ _adv_ :four::hammer: _Sorely needed._  
 __sorghum__  
@@ -17466,6 +17474,7 @@ __spillover__ _n_ :two::hammer:
 __spin bike__ _n_ :camera:  
 __spin<sup>1</sup>__ _n_ _But don’t believe the spin._  
 __spin<sup>2</sup>__ _v_ :two::hammer: _She spins the truth for whoever is paying her._  
+__spinal column__ _n_ _Syn_ spine, vertebral column, backbone  
 __spinal tap__  
 __spindle__ _n_ :five::hammer:  
 __spindly__  
@@ -17498,6 +17507,7 @@ __splendid__ _adj_ :two::hammer:
 __splendor__ _n_ :three::hammer:  
 __splendour__ _n_  
 __splenetic__ _adj_ :two: /splih-NET-ik/ Splenetic is a formal word that typically describes expressions of sharp annoyance and anger. Affected or marked by ill humor or irritability. _Syn_ bristly, prickly, waspish _The splenetic tone of the complaint letter made James dread meeting its author in person._  
+__splenomegaly__ _n_ Abnormal enlargement of the spleen.  
 __splice__ _v_ :two::hammer:  
 __spline__ _n_ :astonished: A wooden or metal strip. _Syn_ slat  
 __splint<sup>1</sup>__ _n_  
@@ -17667,7 +17677,7 @@ __stagger__ _v_ :four::hammer: (staggers) _Walmart will stagger other deals._ __
 __staggering<sup>1</sup>__ _adj_ :five: Extremely surprising. Causing great astonishment, amazement, or dismay; overwhelming: _a staggering achievement; a staggering defeat._ _Staggering costs._  
 __staggering<sup>2</sup>__ _v_  
 __stagnant__ _adj_ :five::hammer:  
-__staid__ _adj_ :seven: Sedate, respectable, and unadventurous. _Staid law firms._ _A staid postelection conference._ _Syn_ sedate, respectable, quiet, serious :es: serio, formal, sereno Characterized by sedate dignity and often a strait-laced sense of propriety. _Syn_ serious, sober, quiet, calm, grave, steady, composed, solemn _I instinctively stood up a little straighter when the staid duke entered the parlor._  
+__staid__ _adj_ :eight: Sedate, respectable, and unadventurous. _Staid law firms._ _A staid postelection conference._ _Syn_ sedate, respectable, quiet, serious :es: serio, formal, sereno Characterized by sedate dignity and often a strait-laced sense of propriety. _Syn_ serious, sober, quiet, calm, grave, steady, composed, solemn _I instinctively stood up a little straighter when the staid duke entered the parlor._  
 __stair-climber__ _n_ An exercise apparatus that simulates the act of climbing stairs.  
 __stair-climbing__ _n_ (stair climbing) __1__ The climbing of a flight of stairs. __2__ Stair-climber (I guess). _Gyms and health clubs offer yoga along with stair-climbing machines._  
 __stairway__ _n_  
@@ -17846,6 +17856,7 @@ __stereophony__
 __sterling silver__ _n_ __1__ An alloy of 92.5 percent silver with copper or another metal. __2__ Objects made of this alloy. _A sterling silver ship’s lantern, symbolizing a beacon of hope._  
 __sterling__ _adj_ :six::hammer: _A sterling job._ _A sterling example._ _Sterling stories._  
 __stern__ _n_ :four::hammer: _The ship’s stern._ :es: popa  
+__Sterno__ _n_ _Trademark_ Flammable hydrocarbon jelly packaged in a small can for use as a portable heat source for cooking.  
 __sternutation__  
 __sternwheel__ _n_ A paddle wheel at the stern of a vessel. _Sternwheel steamboat tug._  
 __stethoscope__ _n_  
@@ -17965,7 +17976,7 @@ __storied__ _adj_ Having or consisting of a specified number of stories. Often u
 __storks__  
 __storm surge__ _n_ :two::hammer:  
 __storm<sup>1</sup>__ _n_ _A storm of dishes._  
-__storm<sup>2</sup>__ _v_ :two::hammer: _The U.S. women also stormed the 1996 Olympics._  
+__storm<sup>2</sup>__ _v_ :three::hammer: _The U.S. women also stormed the 1996 Olympics._ __2__ To behave or shout angrily; rant and rage: _stormed at his incompetence._  
 __storyboard__ _n_ :pencil2:  
 __storybook__ _n_ :two::hammer: _Storybook characters._  
 __storyteller__ _n_ __1a__ One who tells or writes stories. __b__ One who relates anecdotes. __2__ _informal_ One who tells lies.  
@@ -18170,7 +18181,7 @@ __subside__ _v_ :dart::six::hammer: (subsided) _My headache has subsided._
 __subsidence__ _n_  
 __subsidiary__ _n_ :two::hammer:  
 __subsidize__ _vt_  
-__subsidy__  
+__subsidy__ _n_ :two::hammer:  
 __subsist__ _v_ Support oneself. _Syn_ exist, survive, live _I was more agile than they and could subsist upon coarser diet._  
 __substantial__  
 __substantive__ _adj_ :mega: /SUB-stun-tiv/  
@@ -18496,7 +18507,7 @@ __T-ball__
 __T&A__  
 __tab<sup>1</sup>__ _n_ :six: __1__ _informal_ A restaurant bill. A bill, especially for meals or drinks. _Bar tabs._ _The tab is $1,000 per person._ _The waiter brought three drinks and a new tab._ _Syn_ bill, invoice, account, statement, note/list of charges, charge _The company will pick up the tab for any moving expenses._ __2__ A tally of items ordered in a bar or restaurant. _Bobby had told the barman to put everything on the tab._  
 __tab<sup>2</sup>__ _v_ :two::hammer: (tabbed) _It has been tabbed the no. 2 French restaurant in Arizona._  
-__tabbouleh__ _n_  
+__tabbouleh__ _n_ :two::hammer:  
 __tabby__ _adj, n_ :two::hammer: /ˈtæbɪ/  
 __table tennis__  
 __table tennos__  
@@ -18769,6 +18780,7 @@ __tempestuous__ _adj_ :three: /tem-PESS-chuh-wus/ Of, relating to, or resembling
 __template__ _n_ :dart::two::mega: /ˈtɛmplɪt/ (templet)  
 __templet__ _n_ A model or standard for making comparisons. _Syn_ guide _By using a templet, the artist was able to reproduce the exact same design on each of the tiles._  
 __temporal landmark__ _n_  
+__temporary duty__ _n_ Temporary military service away from one’s permanent duty station.  
 __temporizer__ _n_ /TEM-puh-ry-zuhr/ :astonished: One who delays, waiting for a favorable time, or to avoid making a decision.  
 __Tempranillo__  
 __ten-year__ _adj_ _A ten-year prison sentence._  
@@ -18784,7 +18796,7 @@ __tendrils__ _n_
 __tenebrific__ _adj_ /ˌtɛnɪˈbrɪfɪk/  
 __tenebrous__ _adj_ /TEN-uh-brus/ _Syn_ gloomy  
 __tenement__ _n_ :two: __1__ A building for human habitation, especially one that is rented to tenants. __2__ A rundown, low-rental apartment building whose facilities and maintenance barely meet minimum standards. _Kids from the tenements._  
-__tenet__ _n_ :nine::m: /ˈtɛnɪt; ˈtiːnɪt/ A doctrine, principle, or position held as part of a philosophy, religion, or field of endeavor. A belief, opinion, or dogma. :es: principio  
+__tenet__ _n_ :nine::m: /ˈtɛnɪt; ˈtiːnɪt/ /TEN-it/ A doctrine, principle, or position held as part of a philosophy, religion, or field of endeavor. A belief, opinion, or dogma. Any opinion, principle, doctrine, dogma, etc., especially one held as true by members of a profession, group, or movement. :es: principio  
 __Tennessee Honey__ _n_ Honey liqueur blended with less than 20% whiskey.  
 __tenon__  
 __tense<sup>1</sup>__ _adj_ :two::hammer:  
@@ -19902,6 +19914,7 @@ __unruly__ _adj_ :nine: Difficult or impossible to discipline, control, or rule.
 __unsalted__ _adj_ :dart: Not seasoned, preserved, or treated with salt: _unsalted peanuts._ _Pure Irish butters salted and unsalted._  
 __unsavory__ _adj_ :three::hammer: /ʌnˈseɪ və ri/ __4__ Socially or morally objectionable or offensive: _an unsavory past._  
 __unscathed__ _adj_ :eight: Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
+__unschooled__ _adj_ __2__ Spontaneous; natural: _unschooled talent._  
 __unseemly<sup>1</sup>__ _adj_ _Syn_ indecorous  
 __unseemly<sup>2</sup>__ _adv_ :two::hammer:  
 __unsettle__ _v_ _Team Sky riders tried to unsettle their oponents by setting an frenetic tempo._  
@@ -20253,7 +20266,7 @@ __victory speech__
 __victual<sup>1</sup>__ _n_ :three::mega: /ˈvɪtəl/ [:scroll: From Latin victualia (provisions), from victus (nourishment), past participle of vivere (to live).] Food, especially food fit for human consumption.  
 __victual<sup>2</sup>__ _vt_ To provide with food.  
 __victual<sup>3</sup>__ _vi_ To obtain food or to eat.  
-__victuals__ _n pl_ :five::mega: /ˈvɪtəlz/ Food supplies; provisions.  
+__victuals__ _n pl_ :six::mega: /ˈvɪtəlz/ /VIT-ulz/ Food supplies; provisions.  
 __video__ _n_  
 __vie for__ _phr v_ :seven: To vie for something means to compete for it. Two teams may vie for the gold medal, but one will have to go home with silver. Vie may be spelled the same as the French word, vie, but they are pronounced differently, vī and vē respectively, and are not related in meaning or history. English vie comes from the Latin verb meaning “to invite” as in to invite a challenge. Be careful of the spelling which includes an ie to y shift. “He intends to vie for the top prize,” but “He is vying for the top prize.”  
 __vie__ _v_  
@@ -20403,7 +20416,7 @@ __walk<sup>2</sup>__ _n_ :mute:[wa~~l~~k]
 __walkabout__  
 __walkaway__ _n_ An easy victory.  
 __walking trail__ _n_ :two::hammer: _Many airports are upping their game, adding walking trails._  
-__walkout__ _n_ :eight: __1__ A labor strike. A strike by workers. __2__ The act of leaving or being absent from a meeting, esp. as an expression of protest. _The walkout at the United Nations by all the Middle Eastern delegates._  
+__walkout__ _n_ :nine: __1__ A labor strike. A strike by workers. __2__ The act of leaving or being absent from a meeting, esp. as an expression of protest. _The walkout at the United Nations by all the Middle Eastern delegates._  
 __walkup__ _n_ (walkups) __1__ An apartment house or office building with no elevator. __2__ An apartment or office in a building with no elevator.  
 __wall clock time__ _n_  
 __wall__ _n_ :es: I’d put them up against a wall and shoot them. _Yo los llevaría a todos al paredón._  
@@ -20545,7 +20558,7 @@ __wedge<sup>2</sup>__ _v_ :three::hammer: (wedged) :es : acuñar
 __wedgie__  
 __wedhe issue__  
 __wedlock__ _n_ :two: The state of being married; matrimony.  
-__Wednesday__ _n_ :two::mega::mute:[we~~d~~nesday]:hammer: /’wEnzdi, -deI/  
+__Wednesday__ _n_ :three::mega::mute:[we~~d~~nesday]:hammer: /ˈwɛnz deɪ, -di/ /’wEnzdi, -deI/  
 __wee hours__  
 __wee<sup>1</sup>__ _adj_ :seven: __1__ _chiefly Scot_ Very small. Little; very small; tiny. _Syn_ tiny _Take your wee ones to see the river being dyed green._ _Wee hours._ _Comes out of prison with a wee bit of a chemical dependency problem._ _My niece was just a wee tot and was lost in a cornfield._  
 __wee<sup>2</sup>__ _n_  

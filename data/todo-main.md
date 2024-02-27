@@ -198,31 +198,6 @@ __sea gypsy__ _n_
 __seasoned__ _adj_  
 __secretary__ _n_ :mega: /ˈsɛk rɪˌtɛr i/  
 __segue__ _n_ :mega: /SEG-way/  
-__self-doubt__ _n_ A lack of faith or confidence in oneself.  
-__semiretired__ _adj_ Working only on a part-time basis, as for reasons of ill health or advanced age.  
-__sex__ _n_ (_n pl_ sexes)  
-__shortage__ _n_ /ˈʃɔr tɪdʒ/  
-__sleepify__ _vt_  
-__slurp<sup>1</sup>__ _v_  
-__slurp<sup>2</sup>__ _n_  
-__smell-feast__ _n_ One given to finding out and getting invited to good feasts.  
-__smellfungus__ _n_ An excessively faultfinding person.  
-__solder__ _n_ :mega: /SAH-der/  
-__somnambulant__ _adj_  
-__sore throat__ _n_ Any of various inflammations of the tonsils, pharynx, or larynx characterized by pain in swallowing.  
-__spinal column__ _n_ _Syn_ spine, vertebral column, backbone  
-__splenomegaly__ _n_ Abnormal enlargement of the spleen.  
-__staid__  
-__Sterno__ _n_ _Trademark_ Flammable hydrocarbon jelly packaged in a small can for use as a portable heat source for cooking.  
-__storm__ _v_ __2__ To behave or shout angrily; rant and rage: _stormed at his incompetence._  
-__subsidy__ _n_  
-__tabbouleh__ _n_  
-__temporary duty__ _n_ Temporary military service away from one’s permanent duty station.  
-__tenet__ _n_ /TEN-it/ Any opinion, principle, doctrine, dogma, etc., especially one held as true by members of a profession, group, or movement.  
-__unschooled__ _adj_ __2__ Spontaneous; natural: _unschooled talent._  
-__victuals__ _n_ :mega: /VIT-ulz/  
-__walkout__ _n_  
-__Wednesday__ _n_ :mega: /ˈwɛnz deɪ, -di/  
 __yellow jacket__ _n_ __1__ _slang_ A barbiturate (trade name Nembutal) used as a sedative and hypnotic and anti-spasmodic. __2__ Any of several social wasps of the genus Vespa, having yellow markings on the body.  
 __yelp__ _v_  
 __yesterweek<sup>1</sup>__ _n_ /YES-tuhr-week/ Last week.  
