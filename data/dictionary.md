@@ -15536,6 +15536,7 @@ __rolling back__ _v_
 __rolling caisson__  
 __rolling hills__ _n_ :six::hammer: :es: colinas (onduladas)  
 __rolling meadows__  
+__rolling stone__ _n_ A person who changes his habitation, business, or pursuits with great frequency; one who leads a wandering or unsettled life.  
 __rollout__ _n_ :seven::hammer: (rollouts) _Vaccine rollout._  
 __rollovers__  
 __roly-poly__ _adj_ Short and plump; pudgy. _A roly-poly hustler._  
@@ -15544,7 +15545,7 @@ __Roman holiday__ _n_ Enjoyment or profit derived from others’ discomfort or s
 __romance__ _n_ :astonished:  
 __romancer__  
 __Romanesque__ _adj_ :three::hammer: :es: románico  
-__romanticize__ _v_ :pencil2:  
+__romanticize__ _v_ :three::hammer::pencil2:  
 __romp__ _v_ :seven::hammer:  
 __rondo__ _n_ (music)  
 __ronin__ _n_ :three: A lordless samurai, esp one whose feudal lord had been deprived of his territory.  
@@ -15584,6 +15585,7 @@ __rosewood__
 __Rosh HaShanah__ _n_  
 __rosin box__  
 __roster__ _n_ :three::hammer: _All the calls she gets from different guys, I’d swear she needs a roster by the phone to keep ’em straight._  
+__rostral__ _adj_  
 __rostrum__ _n_ In ancient Rome, a speaking platform was decorated with the beaks of captured ships. Hence the use of the term for a speaking platform. From Latin rostrum (snout, bill, beak), from rodere (to gnaw). __1__ A platform, stage, dais, etc., for public speaking. __2__ A beaklike projection on a warship, used for ramming another ship. __3__ A snout, beak, or bill of an animal.  
 __rosy__ _adj_ :seven::hammer: _A rosy picture._ _Predictions of a rosy future._  
 __rot__ _v_ :two::hammer: (rotted)  
@@ -15610,7 +15612,7 @@ __roundabout__ _n_ :two::hammer: (Children’s attraction.)
 __rounder__ _n_ /RAUN-duhr/ __3__ [:scroll: Apparently referring to one who makes rounds of bars or downs many rounds of drinks. From Latin rotundus (round), from rota (wheel).] A drunkard, idler, or self-indulgent person.  
 __roundhouse__ _n_ :two::hammer: _Try to roundhouse kick a bottle cap off a bottle._  
 __roundly__ _adv_ _I feel free to roundly criticize this source code._  
-__roundup__ _n_ :three::dart::hammer: (roundups) _There were public roundups and massacres._ __3__ A summary: _a news roundup._ _Headline roundup._  
+__roundup__ _n_ :four::dart::hammer: (roundups) _There were public roundups and massacres._ __3__ A summary: _a news roundup._ _Headline roundup._  
 __roundworm__ _n_  
 __rousing__ _adj_ :seven::hammer: _A rousing crowd._ _A rousing tale._ _A rousing dramatization._ _The magazine was a rousing success._  
 __roust__ _vt_  
@@ -15665,7 +15667,7 @@ __rule out__ _v_
 __rule__ _n_ (Printing, Lithography & Bookbinding) A printed or drawn character in the form of a long thin line.  
 __rum idea__  
 __rumble<sup>1</sup>__ _n_ :three: __1__ A loud low dull continuous noise. _Syn_ grumble, grumbling, rumbling __2__ A fight between rival gangs of adolescents.  
-__rumble<sup>2</sup>__ _v_ :nine: (rumbled, rumbling) Are you ready to rumble? To rumble is to throw down, or fight. If you hear a truck rumble down your street, don’t put up your dukes — to rumble also means to make a low, deep sound. _Rumbling 33 yards._ _Thunder rumbled._ _The cart rumbled and lurched._  
+__rumble<sup>2</sup>__ _vi_ :nine::m: (rumbled, rumbling) Are you ready to rumble? To rumble is to throw down, or fight. If you hear a truck rumble down your street, don’t put up your dukes — to rumble also means to make a low, deep sound. _Rumbling 33 yards._ _Thunder rumbled._ _The cart rumbled and lurched._  
 __rumbling__ _n_ :two::hammer: (rumblings) _Rumblings about the trade._  
 __rumdum__  
 __rumhead__ _n_ An alcoholic.  
@@ -15750,7 +15752,7 @@ __sadism__ _n_
 __sadistic__ _adj_  
 __safe and sound__ _adj_ Having come to no harm, especially after being exposed to danger.  
 __safe house__  
-__safe word__ _n_ :four: (safeword) A specific, previously agreed-upon word which, when spoken during BDSM role-play, tells the dominant partner to immediately stop the activity, to protect the physical and psychological safety of the submissive partner. _Do you have a safe word?_  
+__safe word__ _n_ :five: (safeword) A specific, previously agreed-upon word which, when spoken during BDSM role-play, tells the dominant partner to immediately stop the activity, to protect the physical and psychological safety of the submissive partner. _Do you have a safe word?_  
 __safe-conduct__ _n_ _The Prince’s chief knights came under safe-conduct to parley in person._  
 __safecracker__ _n_ One who breaks into safes in order to steal items from them.  
 __safeguard<sup>1</sup>__ _n_ :three::hammer:  
@@ -15795,6 +15797,7 @@ __salmon__ _n_ :mega::mute:[sa~~l~~mon]:astonished::six:
 __salt away__  
 __salt junk__ _n_ /SAWLT-JUNK/ Dried salted beef. _In the past, sailors survived long voyages eating salt junk._  
 __saltigrade__ _adj_ Having the feet or legs adapted to leaping—usually used of spiders (such as members of the family Salticidae).  
+__saltimbanco__ _n_ A mountebank; a person who sells quack medicines from a platform.  
 __saltines__ _n_  
 __salty__  
 __salubrious__ _adj_ :three: Conducive or favorable to health or well-being.  
@@ -15820,8 +15823,9 @@ __samovar__ _n_
 __Samuel Johnson__ _n_ _Dr. Johnson compiled the first extensive dictionary of English._  
 __samurai__ _n_ :mega:  
 __San Diegans__ _n_  
-__sanctimonious__  
-__sanction__ _v_ /SANK-shun/ __1__ To give effective or authoritative approval or consent to. _Because he was using equipment that was not sanctioned by league officials, Jared was disqualified from the competition._ __2__ To impose a penalty or economically or militarily coercive measures.  
+__sanctimonious__ _adj_ :two: Pretending to be morally better than other people.  
+__sanction<sup>1</sup>__ _n_ An economic or military coercive measure adopted usually by several nations in concert for forcing a nation violating international law to desist or yield to adjudication.  
+__sanction<sup>2</sup>__ _v_ /SANK-shun/ __1__ To give effective or authoritative approval or consent to. _Because he was using equipment that was not sanctioned by league officials, Jared was disqualified from the competition._ __2__ To impose a penalty or economically or militarily coercive measures.  
 __sanctuary<sup>1</sup>__ _n_  
 __sanctuary<sup>2</sup>__ _adj_ :two: Relating to or being a locality that provides limited cooperation to federal officials in the enforcement of immigration laws or policies. _Mayor Rahm Emanuel of Chicago has declared that it “will always be a sanctuary city.”_  
 __sand spits__  
@@ -15968,7 +15972,7 @@ __scat__ _v_
 __scathe__ _v_ (scathing) __1__ To attack with severe criticism. __2__ To injure, as by scorching.  
 __scatheless__ _adj_ _A remarkably scatheless record._  
 __scathing__ _adj_ :nine::m: Bitterly severe. _His scathing indictment of Congress._ :es: mordaz; feroz  
-__scatterbrained__ _adj_ :three: /ˈskætəˌbreɪnd/ Exhibiting or characterized by lack of serious thought or concentration; disorganized; silly.  
+__scatterbrained__ _adj_ :four: /ˈskætəˌbreɪnd/ Exhibiting or characterized by lack of serious thought or concentration; disorganized; silly.  
 __scattergood__ _n_ :four: /SKAT-uhr-good/ One who spends wastefully. Someone who spends money prodigally. _Syn_ spendthrift _I prefer to think of myself not as a scattergood but as a collector of rare designer shoes and handbags._  
 __scattershot__ _adj_ :two::hammer:  
 __scavenger hunt__ _n_  
@@ -16037,10 +16041,12 @@ __scorching__
 __score<sup>1</sup>__ _n_ :three: A group or set of twenty or about twenty. _Five score years ago._ :es: veintena  
 __score<sup>2</sup>__ _v_ Make small marks into the surface of. _Score the clay before firing it._ _What tool is used to score a loaf of bread before baking?_  
 __scorecard__ _n_ :three: /ˈskɔːˌkɑːd/ __1__ A card on which scores are recorded in various games, esp golf. _Inner scorecard._ __2__ A card identifying the players in a sports match, esp cricket or baseball.  
+__scoreless__ _adj_  
 __scores__ _n pl_ :two: A large number of something. _Syn_ a great many, a lot, a great/good deal, a large/great number/amount, great quantities, plenty _He sent scores of enthusiastic letters to friends._  
 __scorn<sup>1</sup>__ _n_ :three::hammer:  
 __scorn<sup>2</sup>__ _v_ (scorned)  
 __scotch__ _n_ :astonished: __2__ (Games, other than specified) A line marked down, as for hopscotch.  
+__Scotland Yard__ _n_  
 __Scots__ _adj, n_ :two::hammer::pencil2: _Scots accent._  
 __scoundrel__ _n_ :three::hammer: _Those scoundrel disks._  
 __scour__ _v_ :nine::m: /skour, skaʊər, ˈskaʊ ər/ /SKOW-er/ __1a__ To clean, polish, or wash by scrubbing vigorously: _scour a dirty oven._ __b__ To remove by scrubbing: _scour grease from a pan._ __2__ To remove dirt or grease from (cloth or fibers) by means of a detergent. __3__ To clean (wheat) before the milling process. __4__ To clear (an area) by freeing of weeds or other vegetation. __5__ To clear (a channel or pipe) by flushing. __6__ :dart: Search thoroughly. Scour means “to search (something) carefully and thoroughly.” Scouring is usually associated with moving quickly. _We retraced our steps and scoured the hiking trail for the missing wedding ring._ _He invests hours scouring film._ __7__ To range over (an area) quickly and energetically.  
@@ -16134,7 +16140,8 @@ __scurry<sup>2</sup>__ _n_
 __scurvy<sup>1</sup>__ _n_ :two::hammer: :es: escorbuto  
 __scurvy<sup>2</sup>__ _adj_ Contemptible; despicable.  
 __scut work__ _n_ :four::dart: Trivial, unrewarding, tedious, dirty, and disagreeable chores.  
-__scuttle__ _v_ :nine: (scuttled, scuttling) __1__ Run hurriedly or furtively with short quick steps. __2__ Deliberately cause (a scheme) to fail. _A tighter budgetary policy will scuttle plans to boost consumption._  
+__scuttle<sup>1</sup>__ _n_  
+__scuttle<sup>2</sup>__ _v_ :nine::m: (scuttled, scuttling) __1__ Run hurriedly or furtively with short quick steps. __2__ Deliberately cause (a scheme) to fail. _A tighter budgetary policy will scuttle plans to boost consumption._  
 __scuttlebutt__ _n_ :three: __1__ _informal_ Rumor; gossip. Stories about someone’s personal life, especially ones that contain unkind or false information.  
 __scuzzy__  
 __scythe<sup>1</sup>__ _n_ :four::pencil2: An implement used for mowing grass, grain, or other crops and composed of a long curving blade fastened at an angle to a long handle.  
@@ -16142,6 +16149,7 @@ __scythe<sup>2</sup>__ _v_ :two::hammer:
 __sea bass__ _n_ _Chilean sea bass._  
 __sea canary__ _n_  
 __sea change__ _n_ :three::astonished: A major transformation or alteration. _Derek Chauvin was convicted of murdering George Floyd last week, and a number of words and phrases in our dictionary saw dramatic increases in lookups, including_ justice is served _and_ sea change. _It sufferef a sea change._  
+__sea gypsy__ _n_  
 __sea snail__ _n_ (seasnail, snailfish)  
 __seabed__ _n_ :two::hammer:  
 __Seabees__ _n_ :two::hammer:  
@@ -16170,6 +16178,7 @@ __searing__ _adj_ :three: /ˈsɪərɪŋ/ __1__ Burning. __2__ Intense. _Searing 
 __seaside__  
 __season__ _v_ :two::hammer: _Season to taste with salt and pepper._ :es: sazonar, condimentar  
 __seasonal pool__ _n_ A pool that is opened for a few months during the calendar year, is then closed and reopens the next year during the same approximate time period.  
+__seasoned__ _adj_  
 __seat sticks__  
 __seater__ _n_ __2__ One that has a specified number of seats—used in combination _a 2-seater jet._ _110 seater restaurant._  
 __seating__ _n_ :two::hammer: _Plenty of garden seating._  
@@ -16191,6 +16200,7 @@ __secret police__ _n_ A police force that operates secretly, esp. to suppress di
 __secret weapon__ _n_ :six: Something that will help you gain a big advantage over your competitors, that they do not know about.  
 __secret__ _v_  
 __secretariat__ _n_  
+__secretary__ _n_ :mega: /ˈsɛk rɪˌtɛr i/  
 __secrete__ _v_ :two: Place out of sight; keep secret. _The money was secreted from his children._ _Tim would secrete himself in the hotel._  
 __secular__ _adj_ :four::hammer: /SEK-yuh-ler/  
 __secularist__  
@@ -16224,7 +16234,8 @@ __seesaw<sup>2</sup>__ _v_
 __seethe__ _v_ :nine::m::dart: If a liquid seethes, it is boiling, but if it’s a person who’s seething, watch out! He or she is really angry! _Pujols was left seething._ _Seething with jealousy._ _His seething frustration._  
 __seething__ _adj_ :two: __1__ Boiling or foaming as if boiling __2__ Crowded and full of restless activity. __3__ In a state of extreme agitation, esp through anger.  
 __segregate__ _v_ :three::hammer: (segregated) _Same building, but segregated schools._  
-__segue__ _v_ :seven::pencil2::mega::hammer: (segues)  
+__segue<sup>1</sup>__ _vi_ :seven::pencil2::mega::hammer: (segues)  
+__segue<sup>2</sup>__ _n_ :mega: /SEG-way/  
 __seitan__  
 __seize__ _v_ :seven::hammer: (seizing) _Seize him!_ _Seizing an opportunity._ _Seize the day._ _Students with the growth mindset seized the chance._  
 __seizing__ _n_ :three::hammer:  
@@ -18111,6 +18122,8 @@ __stubby__ _adj_ :two::hammer: _Stubby fingers._
 __stucco__  
 __stuck a chord__  
 __stuck-up__ _adj_ :two: _informal_ Conceited, arrogant, or snobbish. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
+__stuck<sup>1</sup>__ _v_ Past tense and past participle of stick.  
+__stuck<sup>2</sup>__ _adj_  
 __stud<sup>1</sup>__ _n_ :four::hammer: _Tires with studs._  
 __stud<sup>2</sup>__ _v_ :four::hammer: (studded) _Freddie Mercury’s studded armband._  
 __studded__ _adj_ :two::hammer: _Customers gathered for his star-studded celebration in Manila._  
@@ -18505,7 +18518,7 @@ __systems hardening__ _n_ The process of securing a server or computer system by
 __syzygy__ _n_ :two::hammer:  
 __T-ball__  
 __T&A__  
-__tab<sup>1</sup>__ _n_ :six: __1__ _informal_ A restaurant bill. A bill, especially for meals or drinks. _Bar tabs._ _The tab is $1,000 per person._ _The waiter brought three drinks and a new tab._ _Syn_ bill, invoice, account, statement, note/list of charges, charge _The company will pick up the tab for any moving expenses._ __2__ A tally of items ordered in a bar or restaurant. _Bobby had told the barman to put everything on the tab._  
+__tab<sup>1</sup>__ _n_ :seven: __1__ _informal_ __a__ A bill or check, such as one for a meal in a restaurant. A restaurant bill. A bill, especially for meals or drinks. _Bar tabs._ _The tab is $1,000 per person._ _The waiter brought three drinks and a new tab._ _Syn_ bill, invoice, account, statement, note/list of charges, charge __b__ Cost; price: _The tab for upgrading the computers would be high._ _The company will pick up the tab for any moving expenses._ __2__ A tally of items ordered in a bar or restaurant. _Bobby had told the barman to put everything on the tab._  
 __tab<sup>2</sup>__ _v_ :two::hammer: (tabbed) _It has been tabbed the no. 2 French restaurant in Arizona._  
 __tabbouleh__ _n_ :two::hammer:  
 __tabby__ _adj, n_ :two::hammer: /ˈtæbɪ/  
@@ -19377,6 +19390,7 @@ __tranche__ _n_ __1__ A portion of something (especially money). __2__ A cut or 
 __tranquil__ _adj_ _His voice was soft and tranquil._  
 __tranquilizer__ _n_ :mega:  
 __transceiver__  
+__transduction__ _n_  
 __transect__ _n_ :two::hammer:  
 __transfigure__ _v_ Change completely the nature or appearance of.  
 __transfixed__ _adj_ Rendered motionless, esp from horror or shock. Having your attention fixated as though by a spell. _Syn_ fascinated, hypnotised, hypnotized, mesmerised, mesmerized, spellbound, spell-bound _I was transfixed by it._  
@@ -21105,6 +21119,7 @@ __yearning__ _n_ :five: (yearnings) Prolonged unfulfilled desire or need. _Syn_ 
 __yeast__ _n_ :two::hammer:  
 __yegg__ _n_ /jɛɡ/ _slang_ _chiefly US_ A burglar or safe-breaker.  
 __yell out__ _phr v_ To shout loudly.  
+__yellow jacket__ _n_ __1__ _slang_ A barbiturate (trade name Nembutal) used as a sedative and hypnotic and anti-spasmodic. __2__ Any of several social wasps of the genus Vespa, having yellow markings on the body.  
 __yellow wine__  
 __yellow__ _adj_ _slang_ A coward.  
 __yelp<sup>1</sup>__ _v_ :seven::hammer: (yelps, yelped) :es: gañir  

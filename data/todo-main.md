@@ -198,31 +198,6 @@ __rife__ _adj_
 __rigorous__ _adj_  
 __ringleader__ _n_ /ˈrɪŋˌliːdə/ A person who leads others in any kind of unlawful or mischievous activity. :es: cabecilla  
 __robocall__ _n_  
-__rolling stone__ _n_ A person who changes his habitation, business, or pursuits with great frequency : one who leads a wandering or unsettled life.  
-__romanticize__ _v_ :two::hammer:  
-__rostral__ _adj_  
-__roundup__  
-__rumble__ _vi_ __3__ _slang_ To engage in a gang fight.  
-__safe word__  
-__saltimbanco__ _n_ A mountebank; a person who sells quack medicines from a platform.  
-__sanctimonious__ _adj_ Pretending to be morally better than other people.  
-__sanction__ _n_ An economic or military coercive measure adopted usually by several nations in concert for forcing a nation violating international law to desist or yield to adjudication.  
-__scatterbrained__ _adj_ Exhibiting or characterized by lack of serious thought or concentration; disorganized; silly.  
-__scoff__  
-__scoreless__ _adj_  
-__Scotland Yard__ _n_  
-__scour__ _v_  
-__scuttle<sup>1</sup>__ _n_  
-__scuttle<sup>2</sup>__ _vt_  
-__sea gypsy__ _n_  
-__seasoned__ _adj_  
-__secretary__ _n_ :mega: /ˈsɛk rɪˌtɛr i/  
-__segue__ _n_ :mega: /SEG-way/  
-__stuck<sup>1</sup>__ _v_ Past tense and past participle of stick.  
-__stuck<sup>2</sup>__ _adj_  
-__tab__ _n_ __1__ _informal_ __a__ A bill or check, such as one for a meal in a restaurant. __b__ Cost; price: _The tab for upgrading the computers would be high._  
-__transduction__ _n_  
-__yellow jacket__ _n_ __1__ _slang_ A barbiturate (trade name Nembutal) used as a sedative and hypnotic and anti-spasmodic. __2__ Any of several social wasps of the genus Vespa, having yellow markings on the body.  
 __yelp__ _v_  
 __yesterweek<sup>1</sup>__ _n_ /YES-tuhr-week/ Last week.  
 __yesterweek<sup>2</sup>__ _adv_ During last week.  
