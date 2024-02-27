@@ -173,31 +173,6 @@ __snake oil__
 __so much for (someone or something)__  
 __so to speak__  
 __So what?__  
-__sourpuss__ _n_ /ˈsɑʊɚpʊs/ A grouchy or frowning person.  
-__space cadet__  
-__square__ __1__ _mod_ Old-fashioned; law-abiding; stodgy. _Man, you are really square._  
-__street smart__ _mod_ Wise in the ways of urban life; wise in the ways of tough neighborhoods. _Bess wasn’t street smart enough to survive by herself._  
-__strike (one) as (something)__ To cause one to consider someone or something as being a certain type of person or thing. _You don’t strike me as the type to take criticism like that very lightly._  
-__take over__ :two::hammer:  
-__task (one) with (something)__  
-__That’s the spirit!__ That’s the right kind of attitude to have in order to be successful.  
-__the (hot) skinny__ _slang_ The real or most accurate information or facts.  
-__the golden rule__ The maxim that one should treat other people the way one would like to be treated, often expressed proverbially as “Do unto others as you would have them do unto you.”  
-__the honest truth__ The sincere, unadulterated truth. _I swear it wasn’t me who broke the lamp, that’s the honest truth!_  
-__then again__ _It’s too bad she won’t live. But then again, who does?_  
-__thoughts and prayers__ A phrase often used as part of an attempt to comfort someone who has just suffered a tragic loss, as in, “Our thoughts and prayers are with you.” The frequent use of the phrase or similar expressions by politicians after mass shootings in the US has increasingly been criticized by those who believe it is used to avoid pursuing tangible actions, notably changes to gun laws. _You can keep your thoughts and prayers, senator—they won’t give me my sister back._  
-__to a certain extent__  
-__to come__ (used after a noun) In the future: _They may well regret the decision in years to come._  
-__top banana__ The person with the most authority, power, or influence in a group or organization. _Syn_ top dog  
-__top dog__  
-__under (one’s) wing__  
-__vacillate between (one person or thing) and (another)__  
-__what the heck__  
-__whoosis__ _slang_ Any person whose name is not known, cannot be remembered, or is being avoided.  
-__you name it__ :two::hammer:  
-__your mileage may vary__  
-__your thoughts__ :three: A way to invite someone to share their opinion or perspective in a conversation.  
-__yup__ :dart: _informal_ A variant of “yes,” possibly based on or influenced by the similar word “nope” (meaning “no.”) _Yup, I’d say so._  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
 __zero in__  
 __zig when (one) should zag__  
