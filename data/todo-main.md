@@ -1,11 +1,18 @@
 __antennae__ _n_ :mega: /an-TEN-ee/  
+__atherosclerosis__ _n_  
 __awry__ _adj, adv_ :mega: /uh-RYE/  
+__basal state__ _n_ A resting metabolic state early in the morning after a minimum of 12 hours of fasting. Used for laboratory tests.  
 __boatswain__ _n_ :mega: /BOH-sun/  
 __bruschetta__ _n_ /broo-SHET-uh, broo-SKET-uh/  
+__caudal__ _adj_ /ˈkɔd l/  
+__circuitry__ _n_ __3__ The brain’s neural network.  
 __clapboard__ _n_ :mega: /KLAB-erd/  
 __colonel__ _n_ :mega: /KER-nul/  
+__connectome__ _n_ The complete mapping of the structural links in an organism’s neural circuitry.  
+__cortex__ _n_ /ˈkɔr tɛks/ __1__ The outer layer of any organ or part, such as the grey matter in the brain that covers the cerebrum (cerebral cortex) or the outer part of the kidney (renal cortex).  
 __coxswain__ _n_ :mega: /KAHK-sun/  
 __cupboard__ _n_ :mega: /KUB-erd/  
+__deface__ _vt_ __1__ To mar the surface or appearance of; disfigure.  
 __drop shot__ _n_ (dropshot) __1a__ _tennis_ A softly-played return that drops abruptly after clearing the net, intended to give an opponent no chance of reaching the ball and usually achieved by imparting backspin.  
 __drowsy__  
 __dullard__ _n_ A person regarded as mentally dull. _Syn_ dolt, pillock, poor fish, pudding head  
@@ -34,14 +41,18 @@ __exhilarating__ _adj_ /ɪɡˈzɪləˌreɪtɪŋ/
 __expire__ _v_  
 __fatuous__ _adj_ Silly or stupid; complacently or inanely foolish.  
 __firearm__ _n_  
+__fissure__ _n_  
 __flywheel__ _n_  
+__form factor__  
 __foundational__ _adj_  
 __fresh__ _adj_ _Fresh sanctions._  
 __frostbite__ _n_ :es: congelación  
 __fulgurant__ _adj_ /FUHL/FULL-guh-ruhnt/ __1__ Flashing like lightning. __2__ Brilliant.  
 __gatekeep__ _v_  
+__gatekeeper__ _n_  
 __gazillion__  
 __generic name__ _n_  
+__genre__ _n_  
 __gibberish__ _n_  
 __gibe__ _n, v_ (jibe)  
 __global boiling__ _n_  
@@ -62,6 +73,7 @@ __hiccup__ _n_ __3__ A usually minor setback, impediment, or difficulty; a hitch
 __high tops__ _n pl_ Training shoes that reach above the ankles.  
 __hitman__ _n slang_  
 __hobbledehoy__ _n_ An awkward, gawky young man.  
+__homeostasis__ _n_  
 __hourlong__ _adj_  
 __huckster__ _n_  
 __humanitarian corridor__ _n_  
@@ -79,7 +91,7 @@ __jalopy__
 __jellyfish__ _n_ :es: medusa  
 __juvenile__ _adj, n_  
 __kingpin__ _n_ __1a__ The innermost or central pin in an arrangement of bowling pins. __b__ Headpin. __2__ The most important person or element in an enterprise or system.  
-__kismet__ _n_ Fate; destiny.  
+__kismet__ _n_ :two: Fate; destiny.  
 __lampoon__ _v_ /lam-POON/  
 __lavabo__ _n_ A basin for washing the hands. _Syn_ handbasin, washbasin, washbowl _The priest washed his hands in the metal lavabo before saying Mass._  
 __lead__ _n_ :mega:  
@@ -88,6 +100,7 @@ __lickspittle__ _n_ (lickspit) A fawning subordinate; a suck-up. A fawning under
 __limerick__ _n_  
 __loggerhead__ _n_ __1__ A thick-headed or stupid person; blockhead.  
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
+__loss__ _n_  
 __lost and found__ _n_  
 __lurk__ _vi_  
 __meritless__ _adj_  
@@ -97,6 +110,7 @@ __misclassification__ _n_ :pencil2:
 __misgiving__ _n_ :two::hammer:  
 __mishandle__ _vt_  
 __misinformation__ _n_  
+__misnomer__ _n_  
 __modesty__ _n_  
 __mooncalf__ _n_ A foolish or absentminded person.  
 __morbidity__ _n_  
@@ -107,6 +121,7 @@ __mumpsimus__ _n_ /ˈmʌmpsɪməs/ A stubborn person who insists on making an er
 __namely__ _adv_  
 __niche__ _n_  
 __ninnyhammer__ _n_ /ˈnɪnɪˌhæmə/ _US and Canadian_ A ninny. A fool; a simpleton.  
+__noisiness__ _n_  
 __nonproductive__ _adj_ _She reports a mild non-productive cough._  
 __nutria__ _n_  
 __obstreperous__ _adj_ Difficult to control and often noisy.  
@@ -143,12 +158,15 @@ __picket line__ _n_
 __picturesque__  
 __pitfall__ _n_ __1__ An unsuspected difficulty or danger.  
 __pixie__ _n_ A fairy; specifically: a cheerful mischievous sprite.  
+__plethora__  
 __poignant__ _adj_  
 __posit<sup>1</sup>__ _vt_ __2__ To lay down or assume as a fact or principle; postulate.  
 __posit<sup>2</sup>__ _n_ :astonished: Something that is posited; an assumption; postulate.  
 __prebiotic__ _n_  
+__prig__ _n_  
 __primer__ _n_ :mega: /PRIMM-er/  
 __prix fixe__ _n_ :mega: /PREE-FEEKS, PREE-FIK/  
+__prodrome__ _n_ _Med_ Any symptom that signals the impending onset of a disease.  
 __propitiate__ _v_ :astonished: To conciliate (an offended power). _Syn_ appease _After his grave sin, he tried to propitiate the gods with a sacrifice._  
 __psyops__ _n pl_ Military operations usually aimed at influencing the enemy’s state of mind through noncombative means (such as distribution of leaflets).  
 __pubic symphysis__ _n_ The fixed joint at the front of the pelvic girdle where the two pubic bones meet.  
@@ -170,6 +188,7 @@ __renowned__ _adj_
 __reptilian__ _adj_ :dart: /rep-TIL-ee-uhn, -TIL-yuhn/ __1__ Contemptible. __2__ Treacherous. __3__ Like a reptile.  
 __respondent__ _n_ /rɪˈspɒn dənt/  
 __rest__ _n_ __13__ (Billiards & Snooker) Any of various special poles used as supports for the cue in shots that cannot be made using the hand as a support.  
+__resting state__ _n_ The physiologic condition achieved by complete bed rest for at least 1 hour.  
 __restorative__  
 __restraint__ _n_  
 __resurgence__ _n_  
@@ -181,6 +200,7 @@ __ringleader__ _n_ /ˈrɪŋˌliːdə/ A person who leads others in any kind of u
 __robocall__ _n_  
 __rolling stone__ _n_ A person who changes his habitation, business, or pursuits with great frequency : one who leads a wandering or unsettled life.  
 __romanticize__ _v_ :two::hammer:  
+__rostral__ _adj_  
 __roundup__  
 __rumble__ _vi_ __3__ _slang_ To engage in a gang fight.  
 __safe word__  
@@ -198,6 +218,10 @@ __sea gypsy__ _n_
 __seasoned__ _adj_  
 __secretary__ _n_ :mega: /ˈsɛk rɪˌtɛr i/  
 __segue__ _n_ :mega: /SEG-way/  
+__stuck<sup>1</sup>__ _v_ Past tense and past participle of stick.  
+__stuck<sup>2</sup>__ _adj_  
+__tab__ _n_ __1__ _informal_ __a__ A bill or check, such as one for a meal in a restaurant. __b__ Cost; price: _The tab for upgrading the computers would be high._  
+__transduction__ _n_  
 __yellow jacket__ _n_ __1__ _slang_ A barbiturate (trade name Nembutal) used as a sedative and hypnotic and anti-spasmodic. __2__ Any of several social wasps of the genus Vespa, having yellow markings on the body.  
 __yelp__ _v_  
 __yesterweek<sup>1</sup>__ _n_ /YES-tuhr-week/ Last week.  
