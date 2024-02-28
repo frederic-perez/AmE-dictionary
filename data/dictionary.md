@@ -666,6 +666,7 @@ __antedate<sup>2</sup>__ _v_ _It long antedated the plague years._
 __antediluvian__ _adj_  
 __antelope__ _n_ :pencil2:  
 __antenatal__  
+__antennae__ _n_ :mega: /an-TEN-ee/  
 __anteroom__ _n_ :two::hammer:  
 __anthologist__ _n_ :three: An editor who makes selections for an anthology.  
 __anthology__  
@@ -989,6 +990,7 @@ __atelier__ _n_ :two: A studio especially for an artist or designer. _Syn_ artis
 __atheist__ _adj_  
 __athenaeum__ _n_  
 __atherectomy__ _n_ Surgical removal of atherosclerotic plaque from an artery using a catheter fitted with a cutting device.  
+__atherosclerosis__ _n_  
 __athlete’s foot__ _n_ A fungal infection causing the skin between the toes to itch, crack, and peel.  
 __athwart__ _adv, prep_ :two::hammer:  
 __athwartships__ _adv_ Across a ship from side to side.  
@@ -1111,7 +1113,7 @@ __awe__ _n_ :four::hammer: _Rob regarded the complex systems with awe._ _Jane sa
 __awestruck__ _adj_  
 __awfully__ _adv_ :mega::two::hammer: _That’s awfully nice, thanks._  
 __awhile__ _adv_ For a short time; for an interval of time: _Please stay awhile._ Not to be confused with: “a while” (a period of time): _He had to wait a while for the bus. It has been a while since they’ve seen each other._  
-__awry__ _adj, adv_ :seven: /əˈraɪ/ __1__ Away from the correct course; amiss: _The last minute changes caused our plans to go awry._ __2__ In a position that is turned or twisted toward one side; askew.  
+__awry__ _adj, adv_ :eight::mega: /əˈraɪ/ /uh-RYE/ __1__ Away from the correct course; amiss: _The last minute changes caused our plans to go awry._ __2__ In a position that is turned or twisted toward one side; askew.  
 __ax__  
 __axle__ _n_  
 __ayahuasca__ _n_ :three: A psychedelic brew made out of Banisteriopsis caapi vine alone or in combination with various plants.  
@@ -1356,6 +1358,7 @@ __barter<sup>2</sup>__ _v_ :four::hammer: (bartered)
 __barter<sup>3</sup>__ _adj_  
 __barware__  
 __bas-relief__ _n_  
+__basal state__ _n_ A resting metabolic state early in the morning after a minimum of 12 hours of fasting. Used for laboratory tests.  
 __base__ _adj_ __1__ Having or showing a lack of decency; contemptible, mean-spirited, or selfish. _This film is base, moronic, insulting, and vulgar._ __2a__ Being a metal that is of little value. __b__ Containing such metals: _base coins._  
 __baseline__ _n_ _We can permanently raise our happiness baseline._  
 __basement__  
@@ -1401,6 +1404,7 @@ __bawdiness__
 __bawdy__ _adj_ :three::hammer: _Bawdy humor._  
 __bawl__ _v_ :two::hammer: (bawling) _I was bawling my eyes._  
 __bay leaves__  
+__bay__ _n_ __1__ A deep, prolonged bark, such as the sound made by hounds.  
 __bayfront__ _n_  
 __bays__ _n_  
 __bazillion__ _n informal_ :four: /bəˈzɪl yən/ An extremely large, indeterminate number.  
@@ -1931,7 +1935,7 @@ __boardwalk__ _n_ :two::hammer: _Boot heels clap on the boardwalk._
 __boast__ _v_ :nine: (boasted) __1__ To say (something about oneself) in a proud or self-admiring way. _I can boast about it for eternity._ _Abe boasted of his wine expertise._ __2__ To have or possess (a desirable feature): _a mall that boasts 80 shops._ _Our beautifully renovated hotel boasts 123 rooms._  
 __boaters__  
 __boatload__ _n_ :two: The number of passengers or the amount of cargo that a boat can hold.  
-__boatswain__  
+__boatswain__ _n_ :two::hammer::mega: /BOH-sun/  
 __bob<sup>1</sup>__ _vt_ :eight::astonished: __1__ To strike with a quick light blow. _Syn_ rap _They had bobbed noses._ __2__ To move up and down in a short quick movement. _Bob the head._ To move or cause to move up and down repeatedly, as while floating in water. _Bags bobbing in the water._ _Bald heads bobbed behind them._ _His small head was bobbing._ _He bobbed in the icy Atlantic with a life jacket for three hours before being rescued._ _The ball bobbed loose for a turnover._ __3__ To polish with a bob. _Syn_ buff  
 __bob<sup>2</sup>__ _vi_ :two: __1a__ To move up and down briefly or repeatedly. __b__ To emerge, arise, or appear suddenly or unexpectedly. __2__ To nod or curtsy briefly. __3__ To try to seize a suspended or floating object with the teeth.  
 __boba__ _n_  
@@ -2203,6 +2207,7 @@ __brazier__
 __breach<sup>1</sup>__ _n_ :four::hammer: /breach /briːtʃ/ _Data breaches._  
 __breach<sup>2</sup>__ _v_ :seven: (breached) __1__ To make a hole or gap in; break through. _Breaching old pipelines._ __2__ To fail to keep. _Syn_ violate  
 __bread and butter__  
+__bread__ _n_ :mega:  
 __breadcrumb__ _n_  
 __breadcrumbing__ _n_ _slang_ When the “crush” has no intentions of taking things further, but they like the attention. So they flirt here or there, send dm/texts just to keep the person interested, knowing damn well they’re staying single.  
 __breadcrumbs__ _n_ :two::pencil2::camera: Very tiny pieces of bread. _Dip the fish in egg and breadcrumbs._ :es: pan rallado  
@@ -2338,10 +2343,10 @@ __bruise__ _n_ :es: cardenal, magulladura, magullar, moretón, morado
 __bruit<sup>1</sup>__ _n_ __1__ Rumor. __2__ Report. __3__ Noise. __4__ An abnormal sound heard in internal organs in the body during auscultation.  
 __bruit<sup>2</sup>__ _v_ :two: (bruited) __1__ To report. __2__ To repeat. __3__ To spread a rumor.  
 __brumal__ _adj_ Of, characteristic of, or relating to winter; wintry.  
-__brumation__ _n_ :two: A state or condition of sluggishness, inactivity, or torpor exhibited by reptiles (such as snakes or lizards) during winter or extended periods of low temperature.  
+__brumation__ _n_ :three: A state or condition of sluggishness, inactivity, or torpor exhibited by reptiles (such as snakes or lizards) during winter or extended periods of low temperature.  
 __brume__ _n_ /broom/ Fog or mist.  
 __bruncher__ _n_ _Sunday brunchers._  
-__bruschetta__ _n_ :two::hammer: _Ostrich bruschetta._  
+__bruschetta__ _n_ :three::hammer: /broo-SHET-uh, broo-SKET-uh/ _Ostrich bruschetta._  
 __brush fire__ _n_ _Brush fires in California._  
 __brush__ _n_ _The goats cleared brush._  
 __brusque__ _adj_ __1__ Markedly short and abrupt. __2__ Blunt in manner or speech often to the point of ungracious harshness.  
@@ -2476,7 +2481,7 @@ __bunkmates__
 __bunkum__ _n_ /ˈbʌŋkəm/ :three: (buncombe) __1__ Empty talk; nonsense. __2__ _chiefly US_ Empty or insincere speechmaking by a politician to please voters or gain publicity.  
 __bunny__ _n_ __2__ _Professions_ A night-club hostess whose costume includes a rabbit-like tail and ears. _Syn_ bunny girl _Hugh Hefner and his bunnies._  
 __bunraku__  
-__bunt__ _v_ :two::hammer: (bunted) _Hamels batted in the third inning and tried to bunt._  
+__bunt__ _vt_ :three: __1__ To strike or push with or as if with the head. _Syn_ butt _You’re sitting down and your cat comes sauntering up to you, purring—and then immediately head-butts you, hard. What gives? Your cat is bunting._ __2__ To push or tap (a baseball) lightly with a bat without swinging. _Hamels batted in the third inning and tried to bunt._  
 __bunting__ _n_ :three::hammer: __3__ A snug-fitting, hooded sleeping bag or one-piece garment of heavy material for infants.  
 __Bunyanesque__ _adj_  
 __buoy<sup>1</sup>__ _n_ :two: A floating signal; a life preserver.  
@@ -2982,7 +2987,7 @@ __cater__ _v_ :four:hammer: _Catered dinner._
 __catercorner__ _adj, adv_ /KAT-ee-kor-ner/  
 __caterpillar__ _n_  
 __caterwaul<sup>1</sup>__ _n_  
-__caterwaul<sup>2</sup>__ _v_ :three: __1__ To cry or screech like a cat in heat. _Caterwauling divas._ __2__ To make a shrill, discordant sound. __3__ To have a noisy argument.  
+__caterwaul<sup>2</sup>__ _v_ :four: /KAT-er-wawl/ __1__ To cry or screech like a cat in heat. _Caterwauling divas._ __2__ To make a shrill, discordant sound. __3__ To have a noisy argument.  
 __caterwauling__ _adj_ :two::hammer: _Caterwauling choristers._  
 __catfish__ _n_ :five: A person who sets up a false personal profile on a social networking site for fraudulent or deceptive purposes.  
 __catharsis__ _n_ :four::hammer:  
@@ -2997,6 +3002,7 @@ __catwalker__ _n_ __1__ A model who walks along a catwalk in a fashion show. __2
 __Caucasian<sup>1</sup>__ _adj_ :pencil2:  
 __Caucasian<sup>2</sup>__ _n_ :two::pencil2::hammer:  
 __caucus__ _n_ :five: /KAW-kus/ A caucus is “a meeting of members of a political party for the purpose of choosing candidates for an election.” It also refers to “a group of people who meet to discuss a particular issue or to work together for a shared, usually political goal.” _Members of the caucus debated long and hard to come to a unified position on the issue._ _Kentucky will hold a Republican caucus on March 5._  
+__caudal__ _adj_ /ˈkɔd l/  
 __caught up__ _adj_ Having become involved involuntarily: _caught up in the excitement of the crowd; caught up in the scandal._  
 __caught__ _v_ :mute:[cau~~gh~~t] Past tense and past participle of catch.  
 __cauldron__ _n_  
@@ -3375,7 +3381,7 @@ __circadian__ _adj_ :four::hammer:
 __circlet__ _n_ :two::hammer: _A circlet of red-hot iron._ _A jeweled circlet._  
 __circuit__ _n_ :two::mute:[circ~~u~~it]:hammer: _Chester retains the full circuit of its ancient defensive walls._  
 __circuitous__ _adj_ :two: Being or taking a roundabout, lengthy course. _Syn_ roundabout _He prided himself on his sense of direction, so Jane refrained from mentioning that the route he had chosen was circuitous and unnecessarily long._  
-__circuitry__ _n_  
+__circuitry__ _n_ :two: __3__ The brain’s neural network.  
 __circumambulate__ _v_ :pencil2:  
 __circumcircle__  
 __circumforaneous__ _adj_  
@@ -3422,7 +3428,7 @@ __clanging__ _adj_ :astonished::two::hammer:
 __clangor__ _n, v_  
 __clank__ _v_ :three::hammer: (clanked, clanking)  
 __clap__ _n_ :two::hammer: _Incurable clap._  
-__clapboard__ _n_ :two::hammer:  
+__clapboard__ _n_ :three::hammer::mega: /KLAB-erd/  
 __clapper__ _n_ _He tried to turn somebody into a human bell clapper._  
 __claptrap__ _n_  
 __claret jug__ _n_ :two: _The champion returning the claret jug used to be a mere formality._  
@@ -3678,7 +3684,7 @@ __collusion__ _n_ :six: Boldness or daring, especially with confident or arrogan
 __colocate__ _v_  
 __colocation > data colocation__  
 __colon__ _n_ :mega:  
-__colonel__ _n_ :two::mega::hammer:  
+__colonel__ _n_ :three::mega::hammer: /KER-nul/  
 __colonnade__  
 __colophon__ _n_ :two: __2__ A publisher’s emblem or trademark placed usually on the spine or the title page of a book.  
 __color blind__  
@@ -3920,6 +3926,7 @@ __conn__ _v_ :two: To direct the steering or course of (a vessel). _To conn the 
 __connect__ _n_ _First of all, I want to thank my connect._  
 __Connecticut__ _n_ :pencil2:  
 __connective tissue__ _n_  
+__connectome__ _n_ The complete mapping of the structural links in an organism’s neural circuitry.  
 __connivance__ _n_ :four: Agreement on a secret plot.  
 __connive__ _v_ :seven::hammer: (connived, conniving)  
 __connoisseur__ _n_ :pencil2::mega: /ˌkɒn əˈsɜr, -ˈsʊər/  
@@ -4132,6 +4139,7 @@ __corrosion__
 __corrugate__ _v_  
 __corrugated__  
 __corsages__  
+__cortex__ _n_ /ˈkɔr tɛks/ __1__ The outer layer of any organ or part, such as the grey matter in the brain that covers the cerebrum (cerebral cortex) or the outer part of the kidney (renal cortex).  
 __cortisol__ _n_ _Cortisol is the primary stress hormone._  
 __coruscant__ _adj_ Shining or glittering.  
 __coruscate__ _vi_ :five::astonished: /KOR-uh-skayt/ __1__ To sparkle, flash, or gleam. Be lively or brilliant or exhibit virtuosity. _Syn_ sparkle, scintillate _The flutist.s music coruscated throughout the concert hall._ __2__ To display great style or technique.  
@@ -4221,7 +4229,7 @@ __cowled__ _v_
 __cowpoke__ _n_ _old-fashioned_ :two: A cowboy or cowgirl.  
 __cowpuncher__ _n_ A cowboy or a cowgirl.  
 __cox’n__  
-__coxswain__  
+__coxswain__ _n_ :two::hammer::mega: /KAHK-sun/  
 __coy__ _adj_ :six: __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __coyly__ _adv_ :two: In a coy manner. _She pouted and looked at him coyly._  
 __coyote__ _n_ :two::mega::hammer:  
@@ -4489,7 +4497,7 @@ __cummerbund__
 __cumulonimbus__ _n_ _Syn_ thunderstorm  
 __cunctator__ _n_ Someone who postpones work (especially out of laziness or habitual carelessness).  
 __cuneiform__  
-__cupboard__ _n_ :three::hammer::camera::mega::mute:[cu~~p~~board] /ˈkʌb ərd/ A closet with shelves for dishes, cups, food, etc. _My father rebuilt cupboards._  
+__cupboard__ _n_ :four::hammer::camera::mega::mute:[cu~~p~~board] /ˈkʌb ərd/ /KUB-erd/ A closet with shelves for dishes, cups, food, etc. _My father rebuilt cupboards._  
 __cupidity__ _n_ :dart::five: Excessive desire, especially for wealth. _Syn_ covetousness, avarice  
 __cupola__ _n_ :four::hammer: :es: cúpula  
 __cuppa__ _n_ :four: A cup of tea.  
@@ -4718,7 +4726,7 @@ __debouch__ _v_ :two: __1__ March out (as from a defile) into open ground. _The 
 __debrief__ _v_ :two::hammer:  
 __debriefing__ _n_ :seven::hammer: _You must show up at least 15 minutes early for debriefing._ _A three-day debriefing session._  
 __debris__  
-__debt__ _n_ :five::mega::mute:[de~~b~~t]:hammer:  
+__debt__ _n_ :six::mega::mute:[de~~b~~t]:hammer:  
 __debtor__ _n_  
 __debunk__ _v_ :five: /dee-BUNK/ To debunk something, such as a story, theory, or idea, is to show or expose the falseness of it. To expose or ridicule the falseness, sham, or exaggerated claims of. _Syn_ expose _The article thoroughly debunks the notion that life exists on Mars._  
 __deburr__ _v_  
@@ -4793,7 +4801,7 @@ __deep<sup>2</sup>__ _n_ __9__ Large in quantity or size; big: _deep cuts in the
 __deepfake__ _n_ :two: /DEEP-fayk/ Deepfake refers to an image or recording that has been convincingly altered and manipulated to misrepresent someone as doing or saying something that was not actually done or said. _The leaked video incriminating the school’s dean was discovered to be a deepfake._  
 __deeply__  
 __deer__ _adj_ _A deer survey._  
-__deface__ _v_ :two::hammer: _Defacing two murals._  
+__deface__ _vt_ :three: __1__ To mar the surface or appearance of; disfigure. _Defacing two murals._  
 __defamation__ _n_ :dart::three::pencil2: /ˌdɛf əˈmeɪ ʃən/ Defamation is a dirty trick against someone’s reputation. If you were so furious at your friend that you spread a rumor that he was still wetting his bed, that would be defamation of your friend. The noun defamation describes something very mean and completely deliberate, essentially a false accusation against someone or an attack on a person’s good reputation. The terms libel and slander — written or spoken lies about a person, group, or business — both fall under the category of defamation. Sometimes defamation is even a punishable crime, and in every instance it’s unkind and malicious.  
 __defamatory__ _adj_ Injurious to someone’s name or reputation.  
 __defang__ _v_  
@@ -4907,7 +4915,7 @@ __denier__ _n_ :two: A small coin of varying composition and value current in we
 __denigrate__ _v_ :two: To disparage; belittle. _Syn_ derogate _He helped you a great deal on this project, so don’t take all the credit and denigrate his influence._ _It denigrates your performance considerably._  
 __denigration__ _n_  
 __denizen__ _n_ :seven: (denizens) /ˈdɛnɪzən/ An inhabitant; a resident. _Syn_ dweller _I wandered through the empty streets, looking for a single denizen of this hamlet, but found not one._  
-__denouement__ _n_ :nine::m: __1__ The final resolution of a plot, as of a drama or novel. _Syn_ climax, conclusion, finale, termination, culmination _The book’s sentimental denouement._ __2__ The outcome or resolution of a doubtful series of occurrences. _Syn_ outcome, end, result, consequence, resolution, conclusion, end result, upshot _An unexpected denouement to the affair._  
+__denouement__ _n_ :nine::m::mega: /deɪˈnuːmɒn/ __1__ The final resolution of a plot, as of a drama or novel. _Syn_ climax, conclusion, finale, termination, culmination _The book’s sentimental denouement._ __2__ The outcome or resolution of a doubtful series of occurrences. _Syn_ outcome, end, result, consequence, resolution, conclusion, end result, upshot _An unexpected denouement to the affair._  
 __dent__ _v_ (denting) :four: __1__ Mark with a dent. _The drawer was dented by a kick._ _He hit a concrete bollard, denting the wing._ _Syn_ make a dent in, make an indentation in, dint, indent, mark _He grumbled that Jamie had dented his bike._ __2__ Have an adverse effect on; diminish. _This neither deterred him nor dented his enthusiasm._ _Syn_ diminish, reduce, lessen, shrink, weaken  
 __dentifrice__ _n_  
 __dentures__ _n pl_ :dart::four: /ˈdentʃəz/ A set of artificial teeth. _Do you wear dentures?_ :es: dentadura postiza  
@@ -5637,6 +5645,7 @@ __droop__ _n_ /dro͞op/ A fleshy fruit, such as a peach, plum, or cherry, usuall
 __drop by__ _phr v_ :two: To stop in for a short visit.  
 __drop dead__  
 __drop out__  
+__drop shot__ _n_ (dropshot) __1a__ _tennis_ A softly-played return that drops abruptly after clearing the net, intended to give an opponent no chance of reaching the ball and usually achieved by imparting backspin.  
 __drop__ _n_  
 __drop-by__ _n_ A brief visit, especially (politics) for the purpose of attracting voters or motivating one’s staff. _Drop-by performers._  
 __drop-in__ _adj_ Provided for short-term use: _a drop-in center for runaways._  
@@ -5649,6 +5658,7 @@ __drover__ _n_ :two::hammer:
 __drown out__  
 __drown__ _v_ (drowns)  
 __drowse__ _v_ To be or cause to be sleepy, dull, or sluggish.  
+__drowsy__  
 __drub__ _v_ :two::hammer:  
 __drubbing__ _n_ :three::dart: (drubbings) __1__ A beating; a sound thrashing. __2__ A decisive, humiliating defeat, as in a game or contest. _The Knights have improved since receiving a drubbing from the Miners._  
 __drudge<sup>1</sup>__ _n_ :two: A person who does tedious, menial, or unpleasant work. _Syn_ navvy, peon, galley slave _Picking up after my ungrateful kids every day makes me feel like little more than a household drudge._  
@@ -5714,7 +5724,7 @@ __dulcet__ _adj_ :four: __1__ Sweet to the taste. _Dulcet icing._ __2__ Pleasing
 __dulcimer__ _n_ :two::hammer:  
 __dull<sup>1</sup>__ _adj_ :two::hammer: _Never a dull moment._  
 __dull<sup>2</sup>__ _v_ _It dulls thinking._  
-__dullard__  
+__dullard__ _n_ :two: A person regarded as mentally dull. _Syn_ dolt, pillock, poor fish, pudding head  
 __dully__ _adv_  
 __duly__ _adv_ :five::hammer: _Couples duly married._ _Duly noted._ (:es: correctly or appropriately recorded)  
 __Dum Dums__ _n_ Spherical lollipops, invented in 1924.  

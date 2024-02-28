@@ -1,28 +1,3 @@
-__antennae__ _n_ :mega: /an-TEN-ee/  
-__atherosclerosis__ _n_  
-__awry__ _adj, adv_ :mega: /uh-RYE/  
-__basal state__ _n_ A resting metabolic state early in the morning after a minimum of 12 hours of fasting. Used for laboratory tests.  
-__bay__ _n_ __1__ A deep, prolonged bark, such as the sound made by hounds.  
-__boatswain__ _n_ :mega: /BOH-sun/  
-__bread__ _n_ :mega:  
-__brumation__ _n_ A state or condition of sluggishness, inactivity, or torpor exhibited by reptiles (such as snakes or lizards) during winter or extended periods of low temperature.  
-__bruschetta__ _n_ /broo-SHET-uh, broo-SKET-uh/  
-__bunt__ _vt_ __1__ To strike or push with or as if with the head. _Syn_ butt __2__ To push or tap (a baseball) lightly with a bat without swinging. _You’re sitting down and your cat comes sauntering up to you, purring—and then immediately head-butts you, hard. What gives? Your cat is bunting._  
-__caterwaul__ _v_ /KAT-er-wawl/ To caterwaul is to make a very loud and unpleasant sound. Caterwaul can also mean “to protest or complain noisily.”  
-__caudal__ _adj_ /ˈkɔd l/  
-__circuitry__ _n_ __3__ The brain’s neural network.  
-__clapboard__ _n_ :mega: /KLAB-erd/  
-__colonel__ _n_ :mega: /KER-nul/  
-__connectome__ _n_ The complete mapping of the structural links in an organism’s neural circuitry.  
-__cortex__ _n_ /ˈkɔr tɛks/ __1__ The outer layer of any organ or part, such as the grey matter in the brain that covers the cerebrum (cerebral cortex) or the outer part of the kidney (renal cortex).  
-__coxswain__ _n_ :mega: /KAHK-sun/  
-__cupboard__ _n_ :mega: /KUB-erd/  
-__debt__ _n_ :mega:  
-__deface__ _vt_ __1__ To mar the surface or appearance of; disfigure.  
-__denouement__ _n_ /deɪˈnuːmɒn/  
-__drop shot__ _n_ (dropshot) __1a__ _tennis_ A softly-played return that drops abruptly after clearing the net, intended to give an opponent no chance of reaching the ball and usually achieved by imparting backspin.  
-__drowsy__  
-__dullard__ _n_ A person regarded as mentally dull. _Syn_ dolt, pillock, poor fish, pudding head  
 __dune__ _n_ /dun, dyun/  
 __dysarthria__ _n_ Difficulty in articulating words, caused by impairment of the muscles used in speech.  
 __emaciate__ _v_ To make or become extremely thin, especially as a result of starvation. _Half of the prison building had enlarged photos of the emaciated prisoners._  
