@@ -4868,9 +4868,9 @@ __shank<sup>2</sup>__ _v, slang_ To stab or cut (someone) with such a weapon.
 __shantytown__  
 __shed (some) light on (something)__ :five::hammer: (shed light on)  
 __shed a tear__ To cry or weep, especially from grief; to grieve or mourn in general. _Everyone in the room was shedding tears by the end of the ceremony._  
-__shell out__  
+__shell out__ :two::hammer:  
 __shellac__ (shellack) __4__ _US, slang_ __a__ To beat. __b__ To defeat decisively.  
-__shift gears__ To quickly or abruptly change what one is doing or discussing.  
+__shift gears__ :two: To quickly or abruptly change what one is doing or discussing.  
 __shifty__ _A shifty shakedown artist._  
 __shill__ __1__ _n_ Someone who promotes or endorses some product, service, event, etc., in an extravagant, misleading, or insincere manner in return for money or some other self-interest. Originally referred to someone who poses as a satisfied customer in order to lure other people into engaging in a swindle or con. _I’m not a shill for their amusement park or anything, I just genuinely think everyone would love going there!_ __2__ _v_ To promote, endorse, or advertise something in such a manner. _I never trust anyone shilling for alternative medicines or miracle cures._  
 __shine (one) on__  
@@ -4889,7 +4889,7 @@ __shitshow__
 __shitstorm__ _rude slang_ A violent and/or chaotic situation. _The coup has created a shitstorm for everyone in that country._  
 __shoo off__  
 __shoot (one’s) shot__ _slang_ To take the risk of making one’s availability and interest known to others, as to a prospective employer or romantic partner. _I tried shooting my shot with that hot actress when I saw her backstage at the awards show. Yeah, she was not interested._  
-__shoot (oneself) in the foot__ To damage or impede one’s own plans, progress, or actions through foolish actions or words. _Companies have already shot themselves in the foot by relying on AI to execute tasks without supervision._  
+__shoot (oneself) in the foot__ :two: To damage or impede one’s own plans, progress, or actions through foolish actions or words. _Companies have already shot themselves in the foot by relying on AI to execute tasks without supervision._  
 __shoot for the moon__ To set one’s goals or ambitions very high; to try to attain or achieve something particularly difficult.  
 __shoot for the stars__  
 __shoot from the hip__ :two::hammer:  
@@ -4898,6 +4898,7 @@ __shoot the breeze__ _informal_ :four: Have a casual conversation. _We’ve been
 __shoot up__ :two::hammer: _The number of homeless families shot up during the recession._  
 __shoot your mouth off__ To boast or talk too much, to tell secrets.  
 __shoot yourself in the foot__ :three: (shoot themselves in the foot) To do or say something that causes problems for you.  
+__shore up__ :dart:  
 __short of (something)__ _Anything short of that._  
 __short on looks__ Homely; rather plain or unattractive; not aesthetically pleasing. _Janet’s date was a little short on looks, but she said he was very nice and a true gentleman._  
 __short shrift__ A minimal amount of time, attention, or consideration given to someone. (Typically used in the phrases “give/get short shrift.”) _Despite the urgency of the problem, the minister’s proposed solutions are getting short shrift in parliament._  
@@ -4906,6 +4907,7 @@ __shortly after__ :three: Soon after. _Shortly after she hung up, the phone rang
 __shot down__  
 __shot in the arm__ :two::hammer:  
 __shot in the dark__ An attempt to guess something when you have no information or knowledge about it.  
+__shot to nothing__ _Snooker_ An attempted pot that is intended not to leave a possible pot for the opponent if missed.  
 __shotgun house__ _slang_ A one-story house in which each room is in a straight alignment with the others, connected by a continuous hallway running from the front to the back of the residence. Chiefly used in the Southern United States. _When our whole family goes to stay in my grandmother’s shotgun house in New Orleans, it always feels like we’re all right on top of one another._  
 __shoulder to shoulder__  
 __show (one’s) (true) colors__ :two::hammer: _He has shown his true colors._  
@@ -4915,6 +4917,7 @@ __show, don’t tell__
 __shrinking violet__ Someone who is very shy and not assertive. _I am not exactly a shrinking violet, but I don’t have the guts to say what you said to her._  
 __shroom__  
 __shtick__ _Sometimes he pushed his shtick a little too far._  
+__shuffle off this mortal coil__ To die. An allusion to a line in Shakespeare’s _Hamlet_, in which Hamlet muses on what happens to the spirit after death.  
 __shut (one’s) mouth__  
 __shut down__ :three::hammer: _San Antonio shut down Utah for its fourth straight road victory._  
 __shut the front door__ _slang_ An exclamation of surprise or disbelief, used as a minced oath of the vulgar phrase “shut the fuck up.”  
@@ -4924,26 +4927,31 @@ __shy away__ _v_ :two: __1__ To retreat out of a sense of shyness: _The deer pok
 __shy of (something)__ :three::hammer::astonished: _Just shy of its highest mark._  
 __sick and tired of (something)__  
 __sick as a dog__  
+__sick to (one’s) stomach__ Nauseated or vomiting.  
 __sick twist__ :four: “Sick twist” is a term that James Ellroy uses in his novels to describe a disturbing or perverted turn of events. It’s used to describe something that is twisted or warped, often in a way that is both unsettling and fascinating.  
 __sick__ _slang_ Excellent; superb. _He did some sick tricks on his skateboard._  
 __side hustle__ :six: Another source of income in addition to one’s primary or full-time job, sometimes one that serves as a creative outlet in contrast with one’s regular employment. _Almost all of the rookie reporters I know have some kind of side hustle to help them supplement their income._  
 __side track__  
+__sidebar conversation__ _informal_ A conversation held privately between two people while one or more other people are already speaking.  
 __sideline__ _vt_ To remove or keep from active participation.  
 __sidle up (from someone or something)__ To move gradually, inconspicuously, or surreptitiously up to or toward someone or something. _As soon as you step foot in the city center, panhandlers begin sidling up looking for handouts._  
 __sidle up (to someone or something)__ To move close to someone or something cautiously or furtively; to move closer to someone or something gradually. _Tex sidled up to Dolly and said howdy in a soft, shy voice._ _Dolly sidled up and picked the cowboy’s pocket._ _Chuck siddled up beside his brother._  
 __sigh of relief__ A feeling or display of relief that something particularly stressful, unpleasant, or undesirable has been avoided or completed. _Everyone in class heaved a sigh of relief after that horrible midterm exam was over._  
 __sign me up__ “Sign me up” is an idiomatic expression that means “count me in” or “include me in this activity or event.” It’s a way of expressing enthusiasm or interest in something, and a willingness to participate.  
+__sign of the times__  
 __sign up__ __1__ To enlist or enroll oneself or someone in something. A noun or pronoun can be used between “sign” and “up.” _My mother signed me up for piano lessons on the weekend._ __2__ To subscribe oneself or someone to something. A noun or pronoun can be used between “sign” and “up.” _If you sign up a friend for the service, you’ll get $20 credit to your account._  
 __silly me__  
 __silver bullet__  
-__silver lining__ :two: The potential for something positive or beneficial to result from a negative situation. Often used in the phrase “every cloud has a silver lining.” (A silver lining on a cloud is an indication that the sun is behind it.) _There could be a silver lining to getting laid off—you might find a job you actually like!_  
+__silver lining__ :three: The potential for something positive or beneficial to result from a negative situation. Often used in the phrase “every cloud has a silver lining.” (A silver lining on a cloud is an indication that the sun is behind it.) _There could be a silver lining to getting laid off—you might find a job you actually like!_  
 __silver spoon__ :two: A metaphor for ample wealth that has been passed down through inheritance. (Used primarily in the phrase “born with a silver spoon in (one’s) mouth.”) _We may both be wealthy now, but I never had a silver spoon growing up. I had nothing when I was young, and all of my fortune is down to my own hard work._  
 __silver surfer__ An elderly person who is a proficient user of the Internet. _My grandmother has become a real silver surfer since we got her new computer hooked up to the Internet. She even keeps in touch with her friends on social media!_  
 __simp__ _slang_ :two: An abbreviation of “simpleton,” meaning a foolish or simple-minded person.  
 __simply put__ :five: In clearer, more direct, or more easily understandable terms. Used when discussing a complicated topic or situation.  
 __sing along__ :two::hammer:  
-__single out__ :three::hammer:  
+__single out__ :four::hammer:  
 __sink in__  
+__sink or swim__  
+__siphon off__  
 __Sisyphean task__ A task that can never be completed or one that is repetitive and futile, much like the Greek mythological character Sisyphus.  
 __sit a spell__ To sit down, relax, and socialize for a while at one’s leisure. _This saloon is a great place to sit a spell and catch up with old friends._ _Well hey there, honey! Now you come in here and sit a spell, we haven’t seen you in a dog’s age!_  
 __sit back__  
@@ -4961,10 +4969,16 @@ __sitting on the fence__
 __sitting pretty__ :three: Living in comfort.  
 __six in one, (and) half a dozen in the other__ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
 __six ways from (next) Sunday__ Askew, at an angle.  
+__six ways to Sunday__ _adj_ Askew, at an angle.  
 __sixty-four-dollar question__  
+__skate__  
+__skeevy__ :two: Offensively or unscrupulously repellant, repugnant, or disreputable.  
+__skeleton in the/(one’s) closet__ An embarrassing or shameful secret.  
 __skeletons in the cupboard__  
+__skibidi__ _slang_ A nonsense word or sound without a specific meaning.  
 __skid mark__ _slang_ :two: (skid marks) A mark or streak of feces on the inside of one’s underpants.  
 __skim through (something)__  
+__skimp on (something)__  
 __skin flute__ _vulgar, slang_ A penis.  
 __skinny-dipping__  
 __skip a beat__ :two::hammer: _His heart skipped a beat._  
@@ -4994,7 +5008,7 @@ __slightly built__ Thin and not very strong or muscular. _The slightly built, 27
 __slimeball__ An offensive, detestable, or repellent person, especially one who does unscrupulous or immoral things. _My last boss was a total slimeball, making all sorts of shady deals to skim a bit of extra profit for herself._  
 __slink off__ :dart: To leave or retreat in a quiet, sneaky, inconspicuous, or furtive manner. _The would-be burglar slunk off after tripping the alarm._  
 __slip through the cracks__  
-__slip up__ :four::hammer: (slip-up) __1__ :dart: _v_ To blunder; to make a mistake or an error. _I think I slipped up and sent the check to the wrong address._  
+__slip up__ :five::hammer: (slip-up) __1__ :dart: _v_ To blunder; to make a mistake or an error. _I think I slipped up and sent the check to the wrong address._ __3__ _n_ A minor mistake, blunder, or mishandling. In this usage, the phrase is often hyphenated.  
 __slippery slope__  
 __slob__  
 __slow and steady wins the race__  
@@ -5015,12 +5029,12 @@ __smell blood__
 __smoke like a chimney__ To smoke cigarettes, cigars, pipes, etc., continuously and in large amounts.  
 __smoke__ _v_ :three::astonished: __6__ _slang_ To perform extremely well, especially with a lot of energy or enthusiasm. _The band has been absolutely smoking for the last two hours. People in the club are going crazy for them!_ _They looked a little sluggish in the first half of the game, but the team is positively smoking now._ __13__ (tr) To subject or expose to smoke. _This person smokes me._ __14__ (Cookery) (tr) To cure (meat, fish, cheese, etc) by treating with smoke.  
 __smokescreen__ :pencil2:  
-__smoking gun__ Indisputably incriminating evidence. Likened to a gun that is still smoking after having been fired.  
+__smoking gun__ :two: Indisputably incriminating evidence. Likened to a gun that is still smoking after having been fired.  
 __smooch__ /smutʃ/  
 __smother (someone or something) with (something)__  
 __snafu__  
 __snag__ __4__ _vt_ To procure, grab, or steal something. _See if you can snag a couple of good seats while I get the popcorn._  
-__snake oil__  
+__snake oil__ :two::hammer:  
 __snap out of (something)__ To suddenly recover or be freed from some negative or undesirable condition, emotion, or situation. _Alex has been really gloomy lately. I hope he snaps out of it soon, because we’ll need him to present our project to the supervisor next week._  
 __snap__ _v_ To go crazy.  
 __snatch (someone) from the jaws of death__ To rescue someone at the last moment from near or certain death.  
@@ -5045,10 +5059,11 @@ __snuff (one)__ :two: _slang_ To kill one. _He was planning on going to the poli
 __snug as a bug__  
 __so be it__ I accept that this is what will happen or be the case. _If you really want to throw your career away because of some idealistic principle, so be it._  
 __so it goes__ :dart: _informal_ That is the kind of thing that happens; that is life. _Too bad about John and his problems. So it goes._ _I just lost a twenty-dollar bill, and I can’t find it anywhere. So it goes._  
-__so much for (someone or something)__ :three: Someone or something is no longer relevant, feasible, or worth consideration. _So much for my happy ending._  
+__so much for (someone or something)__ :four: Someone or something is no longer relevant, feasible, or worth consideration. _So much for my happy ending._  
 __so much so that__ :three: To such an extent or large degree that. _The interest rates on the loan were exorbitantly high—so much so that I had to start selling things around the house to meet my monthly payments._  
 __so much so__ :four: To such an extent or great degree (that). _So much so that working with animals has become one of his passions._  
-__so to speak__ :three: A phrase used to indicate that what one has just said is an figurative, metaphorical, or uncommon way of saying something. Similar to the phrases “if you will” and “in a manner of speaking.” _He was a fixer, so to speak—a man who could get things done._  
+__so to speak__ :four: A phrase used to indicate that what one has just said is an figurative, metaphorical, or uncommon way of saying something. Similar to the phrases “if you will” and “in a manner of speaking.” _He was a fixer, so to speak—a man who could get things done._  
+__So what?__  
 __so-and-so__ :dart::three: __1__ Some unnamed or unknown person. _They always have some important so-and-so up on the stage giving a lecture no one cares about._ __2__ A euphemistic address for a despised or despicable person. _The rotten so-and-so stole the company’s pension fund and ran off to the Bahamas with it!_  
 __so-called__  
 __so-so__  

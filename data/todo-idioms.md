@@ -148,31 +148,6 @@ __sell like hot cakes__
 __send the wrong message__ To do or say something that communicates a meaning different or contrary to what one desires, either implicitly or explicitly.  
 __set (someone or oneself) up for (something)__  
 __set the tone__  
-__shell out__  
-__shift gears__  
-__shoot (oneself) in the foot__  
-__shore up__ :dart:  
-__shot to nothing__ _Snooker_ An attempted pot that is intended not to leave a possible pot for the opponent if missed.  
-__shuffle off this mortal coil__ To die. An allusion to a line in Shakespeare’s _Hamlet_, in which Hamlet muses on what happens to the spirit after death.  
-__sick to (one’s) stomach__ Nauseated or vomiting.  
-__sidebar conversation__ _informal_ A conversation held privately between two people while one or more other people are already speaking.  
-__sign of the times__  
-__silver lining__  
-__single out__  
-__sink or swim__  
-__siphon off__  
-__six ways to Sunday__ _adj_ Askew, at an angle.  
-__skate__  
-__skeevy__ :two: Offensively or unscrupulously repellant, repugnant, or disreputable.  
-__skeleton in the/(one’s) closet__ An embarrassing or shameful secret.  
-__skibidi__ _slang_ A nonsense word or sound without a specific meaning.  
-__skimp on (something)__  
-__slip up__ __3__ _n_ A minor mistake, blunder, or mishandling. In this usage, the phrase is often hyphenated.  
-__smoking gun__  
-__snake oil__  
-__so much for (someone or something)__  
-__so to speak__  
-__So what?__  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
 __zero in__  
 __zig when (one) should zag__  
