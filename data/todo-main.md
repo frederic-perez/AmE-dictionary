@@ -2,8 +2,13 @@ __antennae__ _n_ :mega: /an-TEN-ee/
 __atherosclerosis__ _n_  
 __awry__ _adj, adv_ :mega: /uh-RYE/  
 __basal state__ _n_ A resting metabolic state early in the morning after a minimum of 12 hours of fasting. Used for laboratory tests.  
+__bay__ _n_ __1__ A deep, prolonged bark, such as the sound made by hounds.  
 __boatswain__ _n_ :mega: /BOH-sun/  
+__bread__ _n_ :mega:  
+__brumation__ _n_ A state or condition of sluggishness, inactivity, or torpor exhibited by reptiles (such as snakes or lizards) during winter or extended periods of low temperature.  
 __bruschetta__ _n_ /broo-SHET-uh, broo-SKET-uh/  
+__bunt__ _vt_ __1__ To strike or push with or as if with the head. _Syn_ butt __2__ To push or tap (a baseball) lightly with a bat without swinging. _You’re sitting down and your cat comes sauntering up to you, purring—and then immediately head-butts you, hard. What gives? Your cat is bunting._  
+__caterwaul__ _v_ /KAT-er-wawl/ To caterwaul is to make a very loud and unpleasant sound. Caterwaul can also mean “to protest or complain noisily.”  
 __caudal__ _adj_ /ˈkɔd l/  
 __circuitry__ _n_ __3__ The brain’s neural network.  
 __clapboard__ _n_ :mega: /KLAB-erd/  
@@ -12,7 +17,9 @@ __connectome__ _n_ The complete mapping of the structural links in an organism�
 __cortex__ _n_ /ˈkɔr tɛks/ __1__ The outer layer of any organ or part, such as the grey matter in the brain that covers the cerebrum (cerebral cortex) or the outer part of the kidney (renal cortex).  
 __coxswain__ _n_ :mega: /KAHK-sun/  
 __cupboard__ _n_ :mega: /KUB-erd/  
+__debt__ _n_ :mega:  
 __deface__ _vt_ __1__ To mar the surface or appearance of; disfigure.  
+__denouement__ _n_ /deɪˈnuːmɒn/  
 __drop shot__ _n_ (dropshot) __1a__ _tennis_ A softly-played return that drops abruptly after clearing the net, intended to give an opponent no chance of reaching the ball and usually achieved by imparting backspin.  
 __drowsy__  
 __dullard__ _n_ A person regarded as mentally dull. _Syn_ dolt, pillock, poor fish, pudding head  
@@ -42,6 +49,7 @@ __expire__ _v_
 __fatuous__ _adj_ Silly or stupid; complacently or inanely foolish.  
 __firearm__ _n_  
 __fissure__ _n_  
+__flehmen__ _n_ :camera: /ˈfleɪmən/ A curling of the upper lip and raising of the head in certain mammals in response to olfactory stimuli, which behaviour allows the scents better to reach an olfactory organ deep within the animal’s nose.  
 __flywheel__ _n_  
 __form factor__  
 __foundational__ _adj_  
@@ -89,14 +97,20 @@ __interventional cardiology__ _n_ Branch of cardiology that deals specifically w
 __irk__ _vt_ /ɜrk/ To irritate, annoy, or exasperate.  
 __jalopy__  
 __jellyfish__ _n_ :es: medusa  
+__jeopardy__ _n_ /JEP-er-dee/  
 __juvenile__ _adj, n_  
 __kingpin__ _n_ __1a__ The innermost or central pin in an arrangement of bowling pins. __b__ Headpin. __2__ The most important person or element in an enterprise or system.  
 __kismet__ _n_ :two: Fate; destiny.  
+__lachrymose__ _adj_ /ˈlæk rəˌmoʊs/  
+__lamb__ _n_ :mega:  
 __lampoon__ _v_ /lam-POON/  
 __lavabo__ _n_ A basin for washing the hands. _Syn_ handbasin, washbasin, washbowl _The priest washed his hands in the metal lavabo before saying Mass._  
 __lead__ _n_ :mega:  
+__lek__ _n_  
+__lekking__ _n_  
 __levity__ _n_  
 __lickspittle__ _n_ (lickspit) A fawning subordinate; a suck-up. A fawning underling; a toady.  
+__limb__ _n_ :mega:  
 __limerick__ _n_  
 __loggerhead__ _n_ __1__ A thick-headed or stupid person; blockhead.  
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
@@ -123,6 +137,7 @@ __niche__ _n_
 __ninnyhammer__ _n_ /ˈnɪnɪˌhæmə/ _US and Canadian_ A ninny. A fool; a simpleton.  
 __noisiness__ _n_  
 __nonproductive__ _adj_ _She reports a mild non-productive cough._  
+__numb__ _adj_ :mega:  
 __nutria__ _n_  
 __obstreperous__ _adj_ Difficult to control and often noisy.  
 __obtuse__ _adj_ Stupid or unintelligent; not able to think clearly or to understand what is obvious or simple.  
@@ -159,6 +174,7 @@ __picturesque__
 __pitfall__ _n_ __1__ An unsuspected difficulty or danger.  
 __pixie__ _n_ A fairy; specifically: a cheerful mischievous sprite.  
 __plethora__  
+__plumb__ _adj, adv, n, v_  
 __poignant__ _adj_  
 __posit<sup>1</sup>__ _vt_ __2__ To lay down or assume as a fact or principle; postulate.  
 __posit<sup>2</sup>__ _n_ :astonished: Something that is posited; an assumption; postulate.  
@@ -168,6 +184,7 @@ __primer__ _n_ :mega: /PRIMM-er/
 __prix fixe__ _n_ :mega: /PREE-FEEKS, PREE-FIK/  
 __prodrome__ _n_ _Med_ Any symptom that signals the impending onset of a disease.  
 __propitiate__ _v_ :astonished: To conciliate (an offended power). _Syn_ appease _After his grave sin, he tried to propitiate the gods with a sacrifice._  
+__prosaic__ _adj_ Straightforward; not fanciful or imaginative. _Syn_ matter-of-fact  
 __psyops__ _n pl_ Military operations usually aimed at influencing the enemy’s state of mind through noncombative means (such as distribution of leaflets).  
 __pubic symphysis__ _n_ The fixed joint at the front of the pelvic girdle where the two pubic bones meet.  
 __pusillanimous__ _adj_ Weak and afraid of danger.  
@@ -198,6 +215,14 @@ __rife__ _adj_
 __rigorous__ _adj_  
 __ringleader__ _n_ /ˈrɪŋˌliːdə/ A person who leads others in any kind of unlawful or mischievous activity. :es: cabecilla  
 __robocall__ _n_  
+__rue<sup>1</sup>__ _v_  
+__rue<sup>2</sup>__ _n_ /roo/ __1__ Sorrow; repentance; regret. __2__ Pity or compassion.  
+__subtle__ _adj_ :mega:  
+__thumb__ _n_ :mega:  
+__tomb__ _n_ :mega:  
+__translucent__ _adj_ /trans-LOO-sunt/  
+__tread__ _n_ :mega:  
+__ungulate__ _n_  
 __yelp__ _v_  
 __yesterweek<sup>1</sup>__ _n_ /YES-tuhr-week/ Last week.  
 __yesterweek<sup>2</sup>__ _adv_ During last week.  
