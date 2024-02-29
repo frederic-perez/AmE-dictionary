@@ -1,3 +1,11 @@
+__accuse__  
+__aglet__ _n_  
+__alga__ _n_ (_n pl_ algae)  
+__bemused__  
+__cactus__ _n_ (_n pl_ cacti, cactuses)  
+__confetti__ _n pl_  
+__data__ _n, n pl_  
+__demean__ _v_ /dih-MEEN/ To demean someone or something is to cause that person or thing to seem less important or worthy of respect.  
 __dune__ _n_ /dun, dyun/  
 __dysarthria__ _n_ Difficulty in articulating words, caused by impairment of the muscles used in speech.  
 __emaciate__ _v_ To make or become extremely thin, especially as a result of starvation. _Half of the prison building had enlarged photos of the emaciated prisoners._  
@@ -15,6 +23,7 @@ __etcetera__ _n_ :mega: /et-SET-uh-ruh/
 __etceteras__ _n pl_ Unspecified additional items. _Syn_ odds and ends  
 __eurythmic__ _adj_  
 __eurythmics__ _n_ The art of harmonious bodily movement especially through expressive timed movements in response to improvised music.  
+__everywhen__ _adv_ /ˈɛvrɪˌwɛn/ Always, at all times.  
 __evict__ _vt_ /ɪˈvɪkt/  
 __eviction__ _n_  
 __ex-con__ _n informal_ A former prisoner.  
@@ -41,6 +50,7 @@ __gibe__ _n, v_ (jibe)
 __global boiling__ _n_  
 __globetrotter__ _n_  
 __gloss__ _n_  
+__gorgeous__  
 __gratuitous__ _adj_  
 __greedflation__ _n_  
 __groggy__  
@@ -62,7 +72,9 @@ __huckster__ _n_
 __humanitarian corridor__ _n_  
 __hyperbole__ _n_ :mega: /hye-PER-buh-lee/  
 __illustrate__ _v_  
-__impeach__ _v_ To charge (a public official) before a competent tribunal with misconduct in office.  
+__impeach__ _v_ :two: To charge (a public official) before a competent tribunal with misconduct in office.  
+__impeachment__  
+__incalescent__  
 __incarcerate__ _vt_ /ɪnˈkɑr səˌreɪt/  
 __incarceration__ _n_ The act of imprisoning someone or the state of being imprisoned.  
 __insipid__ _adj_ __2__ Lacking qualities that excite, stimulate, or interest; dull.  
@@ -76,6 +88,7 @@ __jeopardy__ _n_ /JEP-er-dee/
 __juvenile__ _adj, n_  
 __kingpin__ _n_ __1a__ The innermost or central pin in an arrangement of bowling pins. __b__ Headpin. __2__ The most important person or element in an enterprise or system.  
 __kismet__ _n_ :two: Fate; destiny.  
+__kudo__ _n_  
 __lachrymose__ _adj_ /ˈlæk rəˌmoʊs/  
 __lamb__ _n_ :mega:  
 __lampoon__ _v_ /lam-POON/  
@@ -91,7 +104,9 @@ __loggerhead__ _n_ __1__ A thick-headed or stupid person; blockhead.
 __look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
 __loss__ _n_  
 __lost and found__ _n_  
+__lovesome__ _adj_  
 __lurk__ _vi_  
+__megadeath__ _n_ One million deaths. Used as a unit in reference to nuclear warfare.  
 __meritless__ _adj_  
 __milksop__ _n_ A man lacking courage and other qualities deemed manly.  
 __mischievous__ _adj_ :mega: /MISS-chuh-vuss/  
@@ -118,6 +133,7 @@ __obstreperous__ _adj_ Difficult to control and often noisy.
 __obtuse__ _adj_ Stupid or unintelligent; not able to think clearly or to understand what is obvious or simple.  
 __opponent__ _adj, n_ :mega:  
 __opprobrium__ _n_ /uh-PROH-bree-um/ Opprobrium refers to very strong disapproval or criticism of a person or thing especially by a large number of people. _They’re going ahead with the plan despite public opprobrium._  
+__ortanique__ _n_ [:scroll: From or(ange) + tan(gerine) + (un)ique]  
 __ouster__ _n_  
 __outbid__ _vt_  
 __outbreak__ _n_  
@@ -162,6 +178,7 @@ __propitiate__ _v_ :astonished: To conciliate (an offended power). _Syn_ appease
 __prosaic__ _adj_ Straightforward; not fanciful or imaginative. _Syn_ matter-of-fact  
 __psyops__ _n pl_ Military operations usually aimed at influencing the enemy’s state of mind through noncombative means (such as distribution of leaflets).  
 __pubic symphysis__ _n_ The fixed joint at the front of the pelvic girdle where the two pubic bones meet.  
+__pulchritudinous__ _adj_ Ysed of persons only; having great physical beauty: _pulchritudinous movie stars._  
 __pusillanimous__ _adj_ Weak and afraid of danger.  
 __quiche__ _n_ /KEESH/  
 __quinoa__ _n_ :mega: /KEEN-wah, kee-NOH-uh/  
@@ -192,12 +209,19 @@ __ringleader__ _n_ /ˈrɪŋˌliːdə/ A person who leads others in any kind of u
 __robocall__ _n_  
 __rue<sup>1</sup>__ _v_  
 __rue<sup>2</sup>__ _n_ /roo/ __1__ Sorrow; repentance; regret. __2__ Pity or compassion.  
+__shoestring__ _n_ (shoe string) Marked by or consisting of a small amount of money.  
+__specious__ _adj_ /ˈspiːʃəs/  
 __subtle__ _adj_ :mega:  
+__syzygy__ _n_  
 __thumb__ _n_ :mega:  
 __tomb__ _n_ :mega:  
 __translucent__ _adj_ /trans-LOO-sunt/  
 __tread__ _n_ :mega:  
+__tummler__ _n_  
 __ungulate__ _n_  
+__Venust__ _adj_ Beautiful, graceful, elegant.  
+__verklempt__  
+__whizzer__ _adj_ Something notable of its kind: such as an outstandingly attractive or able person.  
 __yelp__ _v_  
 __yesterweek<sup>1</sup>__ _n_ /YES-tuhr-week/ Last week.  
 __yesterweek<sup>2</sup>__ _adv_ During last week.  
