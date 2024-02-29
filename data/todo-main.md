@@ -98,31 +98,6 @@ __lek__ _n_
 __lekking__ _n_  
 __levity__ _n_  
 __lickspittle__ _n_ (lickspit) A fawning subordinate; a suck-up. A fawning underling; a toady.  
-__limb__ _n_ :mega:  
-__limerick__ _n_  
-__loggerhead__ _n_ __1__ A thick-headed or stupid person; blockhead.  
-__look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
-__loss__ _n_  
-__lost and found__ _n_  
-__lovesome__ _adj_  
-__lurk__ _vi_  
-__megadeath__ _n_ One million deaths. Used as a unit in reference to nuclear warfare.  
-__meritless__ _adj_  
-__milksop__ _n_ A man lacking courage and other qualities deemed manly.  
-__mischievous__ _adj_ :mega: /MISS-chuh-vuss/  
-__misclassification__ _n_ :pencil2:  
-__misgiving__ _n_ :two::hammer:  
-__mishandle__ _vt_  
-__misinformation__ _n_  
-__misnomer__ _n_  
-__modesty__ _n_  
-__mooncalf__ _n_ A foolish or absentminded person.  
-__morbidity__ _n_  
-__mottle__  
-__mudslide__ _n_  
-__multifaceted__ _adj_  
-__mumpsimus__ _n_ /ˈmʌmpsɪməs/ A stubborn person who insists on making an error in spite of being shown that it is wrong.  
-__namely__ _adv_  
 __niche__ _n_  
 __ninnyhammer__ _n_ /ˈnɪnɪˌhæmə/ _US and Canadian_ A ninny. A fool; a simpleton.  
 __noisiness__ _n_  

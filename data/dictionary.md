@@ -10623,13 +10623,13 @@ __lilt<sup>1</sup>__ _n_ :four::hammer: _He talked with the Jamaican lilt._ _She
 __lilt<sup>2</sup>__ _v_  
 __lilting__ _adj_  
 __lily-livered__ _adj_ :two: Weak or lacking in courage; cowardly; timid. _Syn_ chickenhearted, yellow-bellied _I have never seen such a lily-livered bunch of wimps in my life!_  
-__limb__ _n_ :two::mute:[lim~~b~~]:hammer: _Tree limb._  
+__limb__ _n_ :three::mega::mute:[lim~~b~~]:hammer: _Tree limb._  
 __limber__ _adj_ :astonished: __1__ Bending or flexing readily; pliable. _Limber stick._ __2__ Capable of moving, bending, or contorting easily; supple.  
 __limbic system__ _n_  
 __limbic__ _adj_ _Limbic system._  
 __limelight__  
 __limerence__ _n_ /ˈlɪmɪrəns/ A state of mind resulting from romantic attraction, characterized by feelings of euphoria, the desire to have one’s feelings reciprocated, etc.  
-__limerick__ _n_ :six: /LIM-uh-rik/ (limericks) _Poetry_ A humorous rhyming poem of five lines. _The students were asked to compose limericks to help them learn about poetry’s use of meter and rhyme._ _I remember a limerick I wrote._ _Even more usage limericks._  
+__limerick__ _n_ :seven: /LIM-uh-rik/ (limericks) _Poetry_ A humorous rhyming poem of five lines. _The students were asked to compose limericks to help them learn about poetry’s use of meter and rhyme._ _I remember a limerick I wrote._ _Even more usage limericks._  
 __limestone__ _n_ :five::hammer:  
 __liminal__ _adj_ :two: __1__ Of, relating to, or situated at a sensory threshold; barely perceptible or capable of eliciting a response. _Liminal visual stimuli._ __2__ Of, relating to, or being an intermediate state, phase, or condition. _Syn_ in-between, transitional _In the liminal state between life and death._  
 __limitless__  
@@ -10763,7 +10763,7 @@ __loft__ _v_ :two::hammer: (lofted) _The men lofted the shields over their heads
 __loftily__  
 __lofty__ _adj_ :nine: __1__ Of imposing height. _His lofty perch._ __2__ Elevated in character; exalted. __3__ Affecting grandness; pompous. _A lofty professional career._ _Lofty promises._ __4__ Arrogant; haughty.  
 __logfile__ _n_  
-__loggerhead__ _n_ :three: A stupid person; these words are used to express a low opinion of someone’s intelligence.  
+__loggerhead__ _n_ :four: A stupid person; these words are used to express a low opinion of someone’s intelligence. __1__ A thick-headed or stupid person; blockhead.  
 __logjam__ _n_  
 __logodaedalist__ _n_ /log-uh-DEE-duh-list/ One skilled in using or coining words.  
 __logomachist__  
@@ -10798,6 +10798,7 @@ __longitudinal__ _adj_ _Longitudinal findings from the study._
 __longstanding__ _adj_ :four::hammer:  
 __longtime__ _adj_ _The longtime dictator._  
 __longueur__ _n_ A dull and tedious passage or section (as of a book, play, or musical composition) — usually used in plural.  
+__look and feel__ _n_ The combination of the visual design and behaviour of a user interface.  
 __look back on__ _phr v_ To think about something that happened in the past.  
 __look down__ _v_  
 __look out__ _v_ :two::hammer: _Look out for those beauties._  
@@ -10832,6 +10833,8 @@ __lore__ _n_ :nine::m: A body of traditions and knowledge on a subject or held b
 __lorgnettte__ _n_ A pair of eyeglasses or opera glasses with a short handle.  
 __Los Angelino__  
 __lose control__ _v_ Lose one’s nerve.  
+__loss__ _n_  
+__lost and found__ _n_  
 __lost count__ _v_ Simple past tense and past participle of lose count.  
 __lot__ _n_ :two::hammer: _Every choice of lot is imaginable._  
 __Lothario__ _n_ _The second verse of_ You’re So Vain _is about one-time Hollywood Lothario Warren Beatty._  
@@ -10852,6 +10855,7 @@ __love-in__
 __lovebird__ _n_ __2__ (lovebirds) _informal_ A couple who are openly affectionate or demonstrative with each other, especially in public.  
 __lovelorn__ _adj_ Sad because of an unrequited love.  
 __lovesick__ _adj_  
+__lovesome__ _adj_  
 __low and slow__ _n_ Low and slow is a term used when discussing food cooked over a fairly long period of time at a low temperature, often used in grilling or barbecuing that involves smoking meat.  
 __Low Countries__ _n_ :three::hammer:  
 __Low Mass__ _n_ A Mass of simple ceremony that was recited rather than sung by the priest. No longer in official use. _He celebrated high mass in his chapel and low mass afterward in his private oratory._  
@@ -10924,7 +10928,7 @@ __lurch<sup>2</sup>__ _n_
 __lure<sup>1</sup>__ _n_ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond’s surface._  
 __lure<sup>2</sup>__ _v_ (lured)  
 __lurid__ _adj_ :six::hammer: _A lurid career._  
-__lurk__ _v_ :nine::m: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ To read messages on an Internet discussion forum without contributing information.  
+__lurk__ _vi_ :nine::m: /ləːk/ __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ To read messages on an Internet discussion forum without contributing information.  
 __luscious__ _adj_ :five: /LUSH-us/ Luscious most often describes something that has a delicious taste or smell, but it can also mean “richly luxurious or appealing to the senses,” ”excessively ornate,” or “sexually attractive.” _Luscious burgers._  
 __lush<sup>1</sup>__ _adj_ :nine::m: __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ _Their lush outdoor patio._ _A lush tropical forest._ __2__ _(esp of fruits)_ Succulent and fleshy. __3__ Luxurious, elaborate, or opulent. __4__ _slang_ Very attractive or pleasing.  
 __lush<sup>2</sup>__ _n_ _slang_ :two: A person who drinks alcohol habitually or excessively; a drunkard.  
@@ -11330,6 +11334,7 @@ __meet up__
 __meet__ _n_ :four::hammer: _I started going to international meets._  
 __meet-cute__ _n_ /MEET-kyoot/  
 __meetup__ _n_ (meet-up) A word for “meeting.” _Our monthly meetup._  
+__megadeath__ _n_ One million deaths. Used as a unit in reference to nuclear warfare.  
 __megalomania__ _n_ :two: __1__ (Psychology) A mental illness characterized by delusions of grandeur, power, wealth, etc. __2__ _informal_ A lust or craving for power.  
 __megalomaniac__ _n_ :three: Someone who enjoys power over other people and always wants more of it.  
 __megalomanic__ _adj_ :two: Suffering from megalomania.  
@@ -11405,6 +11410,7 @@ __meridian<sup>2</sup>__ _adj_ __1__ Relating to a meridian. __2__ Relating to m
 __meringue__ _n_ :six::mega: Meringue is a very sweet dessert or dessert topping that’s made out of egg whites and sugar. Meringue is so light and airy that it melts on your tongue. _Meringue pie._  
 __merino__ _n_ :two: __1a__ Any of a breed of sheep, originally from Spain, having long fine wool. __b__ The wool of this sheep. _Merino wool._  
 __merit__ _n_ :two::hammer:  
+__meritless__ _adj_  
 __meritorious__ _adj_ /mair-uh-TOR-ee-us/ Deserving of honor or esteem. _At the gathering, the company’s president expressed his gratitude to employees for their meritorious service._  
 __mermaid__ _n_  
 __merman__ _n_  
@@ -11523,6 +11529,7 @@ __milk toast__ _n_ Toast, usually buttered, topped with warm milk and often suga
 __milk__ _v_ :four::hammer: _Milk the clock._ _The general milked the clapping for a long time._  
 __milkmaid__ _n_ A girl or woman who milks cows.  
 __milkshake__ _n_ :astonished: (milk shake) A beverage that is made of milk, ice cream, and often flavoring and is blended or whipped until foamy.  
+__milksop__ _n_ A man lacking courage and other qualities deemed manly.  
 __milkweed__  
 __mill<sup>1</sup>__ _n_ A million dollards.  
 __mill<sup>2</sup>__ _v_ :two::hammer: (milled) _They milled in front of the courtroom door._ _The children milled around._  
@@ -11592,7 +11599,8 @@ __miscellaneous__ _adj_ :mute:[mis~~c~~ellaneous]
 __miscellany__ _n_ :mega::two: (mɪˈsɛlənɪ; US ˈmɪsəˌleɪnɪ) __1__ A mixed assortment of items.  
 __mischance__ _n_ :three: __1__ An unfortunate occurrence; a mishap. __2__ Bad luck.  
 __mischief__ _n_ :six::hammer:  
-__mischievous__ _adj_ :three::mega::hammer:  
+__mischievous__ _adj_ :four::mega::hammer: /MISS-chuh-vuss/  
+__misclassification__ _n_ :pencil2:  
 __misconduct__ _n_ :three::hammer:  
 __misconstrue__ _vt_ :two::hammer:  
 __miscreant__ _n_ :nine::m: A miscreant is a person who is bad––who lies, breaks the law, yells at small puppies. It’s a somewhat old-fashioned word, popular with old ladies shocked at having their purses stolen at the opera. A person without moral scruples. _Syn_ reprobate  
@@ -11610,12 +11618,13 @@ __misfire__ _vi_ :three::hammer: /ˌmɪsˈfaɪə/ (misfiring) _One misfire in th
 __misfirings__ _adj_  
 __misfit__ _n_ :four::pencil2::hammer: (misfits)  
 __misfortune__ _n_  
-__misgiving__ _n_ :nine: (misgivings) _(Often plural)_ Uneasiness about the fitness of an action. A feeling of uncertainty, apprehension, or doubt. _Syn_ unease, worry, anxiety, suspicion, reservation, hesitation, distrust, qualm, trepidation, scruple, dubiety _He granted liberty on Monday with misgivings._  
+__misgiving__ _n_ :nine::m: (misgivings) _(Often plural)_ Uneasiness about the fitness of an action. A feeling of uncertainty, apprehension, or doubt. _Syn_ unease, worry, anxiety, suspicion, reservation, hesitation, distrust, qualm, trepidation, scruple, dubiety _He granted liberty on Monday with misgivings._  
 __misguide__ _v_  
 __misguided__ _adj_ :two: Based or acting on error; misled: _well-intentioned but misguided efforts._  
+__mishandle__ _vt_  
 __mishap__ _n_ :mega::two::hammer:  
 __mishmash__ _n_ :two::hammer:  
-__misinformation__ _n_ :three: False information that is spread, regardless of intent to mislead. Information that is incorrect.  
+__misinformation__ _n_ :four: False information that is spread, regardless of intent to mislead. Information that is incorrect.  
 __miskey__ _vt_ :dart::two: /ˌmɪsˈkiː/ (miskeyed) To key (something) incorrectly on a keyboard. _He mislaid his keys._  
 __mismatch__ _n_ :two::pencil2::hammer:  
 __misnomer__ _n_ :nine::m::pencil2: /miss-NOH-mer/ __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation _Peanut is one of the most famous misnomers, because peanuts are legumes, not true nuts._ __2__ The act of wrongly naming or designating, as in “calling complicated and varied climatic changes ‘global warming’ is something of a misnomer.” _To call this “neighborhood policing” would be a misnomer._  
@@ -11671,6 +11680,7 @@ __mockingbird__ _n_ :es: sinsonte
 __mocktail__ _n_ :two::astonished: A cocktail containing no alcohol.  
 __model home__ _n_ A house in a group of new houses that has been painted and filled with furniture, so that people who might want to buy one of the houses can see what they will be like.  
 __moderate__ _v_  
+__modesty__ _n_  
 __modicum__ _n_ :eight: If you want to describe a small amount of something, try modicum. If you have a modicum of interest in something, you are a little bit interested. Modicum comes from the Latin modicus, for moderate, and modus, for measure. We often use it to mean “any at all,” as if “If you had a modicum of sense (i.e. any sense at all), you’d be able to see that the pencil you’ve spent the last five minutes looking for is tucked behind your ear.” _A modicum of timidity._  
 __modish__ _adj_  
 __Mogollon Rim__ _n_ A rugged escarpment of east-central Arizona forming the southern edge of the Colorado Plateau.  
@@ -11746,6 +11756,7 @@ __moody__ _adj_ :four::hammer:
 __Moon bounce__ _n_ A radio communications technique that relies on the propagation of radio waves from an Earth-based transmitter directed via reflection from the surface of the Moon back to an Earth-based receiver.  
 __moon roof__  
 __moon__ _v_  
+__mooncalf__ _n_ A foolish or absentminded person.  
 __moonshine<sup>1</sup>__ _n_ :four::hammer: (spirit) _People suspected of brewing moonshine._  
 __moonshine<sup>2</sup>__ _v_  
 __moonshot__ _n_ :four: _technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google’s New Moonshot Project: the Human Body_ __1__ The launching of a spacecraft to the moon. __2__ Awesome, fantastic, almost impossible to achieve, the best, the reason for success, reaching the highest point, right on target. _A moonshot type of thing._  
@@ -11770,7 +11781,7 @@ __morass__ _n_ :seven: /muh-RASS/ (morasses) __1__ Morass is used literally to r
 __moratorium__ _n_ :two::hammer:  
 __moray eel__ _n_  
 __morbid__ _adj_ :two: __2__ Gruesome.  
-__morbidity__ _n_ :three: The relative incidence of a particular disease. _COPD is responsible for considerable morbidity and mortality._ _Conditions such as back pain and arthritis are the biggest cause of morbidity in the UK._  
+__morbidity__ _n_ :four: The relative incidence of a particular disease. _COPD is responsible for considerable morbidity and mortality._ _Conditions such as back pain and arthritis are the biggest cause of morbidity in the UK._  
 __morcellator__  
 __more than meets the eye__  
 __moreish__ _adj_ :two::hammer: _Moreish cocktails._  
@@ -11825,6 +11836,7 @@ __motorist__ _n_ :three: A person who drives or travels in a privately owned aut
 __motorized scooter__ _n_ :dart: _Police said they know who stole a motorized scooter that belonged to a local woman with limited mobility._  
 __motormouth__ _n_ :two::hammer:  
 __motorway__ _n_  
+__mottle__  
 __mould__ _n_  
 __mound__ _v_ :two: __1__ (often foll by up) To gather into a mound; heap. __2__ To cover or surround with a mound: _to mound a grave._ _Jack was mounding butter pats on his fourth hard roll._ _He was mounding butter pats on his fourth hard roll._  
 __mount<sup>1</sup>__ _vt_  
@@ -11865,7 +11877,7 @@ __muckrake__
 __mudcat__ _n_  
 __muddle through__ _phr v_ To manage to do something despite difficulties.  
 __muddle__ _v_ :seven: (muddled) Bring into a disordered or confusing state. _Syn_ confuse, mix up, jumble, jumble up, disarrange, disorganize, disorder _Muddled lime with whiskie on the rocks._  
-__mudslide__ _n_ :three: __2__ A sweet cocktail made with a whiskey-based liqueur blended with cream, a coffee liqueur, and sometimes vodka, served over ice.  
+__mudslide__ _n_ :four::hammer: __2__ A sweet cocktail made with a whiskey-based liqueur blended with cream, a coffee liqueur, and sometimes vodka, served over ice.  
 __mudslinging__ _n_ :three: Efforts to discredit one’s opponent by malicious or scandalous attacks. :es: injurias  
 __muff__ _n_ :two::hammer: _She drew from her muff a pistol._ __2__ _Sports_ A failure to make a catch.  
 __muff-diver__ _n_ :two::hammer:  
@@ -11893,7 +11905,7 @@ __mulligan__ _n_ :two::hammer:
 __mulling__ _n_ The act of one who mulls or thinks over something.  
 __multicast__  
 __multicopter__ _n_ _Syn_ multirotor  
-__multifaceted__ _adj_ Having many aspects. _Syn_ multifarious, many-sided _This is a multifaceted problem and cannot be solved by a singular approach._  
+__multifaceted__ _adj_ :two: Having many aspects. _Syn_ multifarious, many-sided _This is a multifaceted problem and cannot be solved by a singular approach._  
 __multifarious__ _adj_ :two: Having many aspects. Having great variety; diverse. _Syn_ multifaceted, many-sided _Multifarious interests._ _The multifarious noise of a great city._ _Syn_ multifaceted, many-sided, miscellaneous  
 __multipronged__ _adj_  
 __multipurpose__ _n_ :two::dart: Designed or used for several purposes: _a multipurpose room; multipurpose software._ :es: polivalente  
@@ -11903,7 +11915,7 @@ __mumble__ _v_ __1__ To speak words indistinctly, as by lowering the voice or pa
 __mumblecore__ _n_ A genre of narrative film focusing primarily on the intimate lives of young characters and featuring scenes of ample dialogue and minimal action. Example films include _Manhattan_, and _Clerks_.  
 __mumbo jumbo__ _n_  
 __mumps__ _n pl_ :five::hammer: :es: paperas  
-__mumpsimus__ _n_  
+__mumpsimus__ _n_ :two: /ˈmʌmpsɪməs/ A stubborn person who insists on making an error in spite of being shown that it is wrong.  
 __munch__ _v_ :seven:hammer: (munches, munched) _He munched the fruit._  
 __muncher__ _n_  
 __munchies__ _pl n_ _slang_ __1__ Food for snacking. __2__ A craving for snack foods. Often used with the: _an attack of the munchies._  
@@ -12011,7 +12023,7 @@ __name-and-likeness__
 __name-calling__  
 __name-drop__ _v_ To mention casually the names of famous or important people to create the impression that one is familiar with them in an attempt to impress or influence others.  
 __name-dropping__ _n_  
-__namely__ _adv_  
+__namely__ _adv_ :two::hammer:  
 __nameplate__ _n_ :two::hammer:  
 __names and likeness__  
 __namesake__ _n_ :three::hammer:  
