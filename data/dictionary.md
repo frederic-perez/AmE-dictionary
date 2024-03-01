@@ -151,6 +151,7 @@ __accrete__ _v_ :seven: (accretes, accreted) To make larger or greater, as by in
 __accretion__ _n_ :two::hammer: _Ice accretion._  
 __accrue__ _v_ :seven: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
 __acculturation__ _n_  
+__accuse__  
 __acerbic__ _adj_ :five::hammer:  
 __acetate__ _n_  
 __achalasia__ _n_  
@@ -338,6 +339,7 @@ __aghast__ _adj_ :nine::m: Struck with terror, amazement, or horror; shocked and
 __agitated__ _adj_ Troubled emotionally and usually deeply. _Agitated parents._  
 __agitation__ _n_ __1__ A state of excitement, disturbance, or worry.  
 __agitprop__ _n_ Political propaganda (especially communist propaganda) communicated via art and literature and cinema.  
+__aglet__ _n_  
 __aglow__ _adj, adv_  
 __agnostic__ _adj_ :two::hammer:  
 __agog__ _adj_ :two: Highly excited by eagerness, curiosity, anticipation, etc.  
@@ -412,6 +414,7 @@ __alert__ _n_ :mega:
 __Aleut__ _n_  
 __alfresco<sup>1</sup>__ _adv_ :two: In the fresh air. _Syn_ outdoors _Dining alfresco is one of my great summer pleasures._  
 __alfresco<sup>2</sup>__ _adj_ :two::hammer: _It had two small terraces for alfresco dining._  
+__alga__ _n_ (_n pl_ algae)  
 __algae__ _n_  
 __Alhambresque__ _adj_  
 __alible__ _adj_ /ˈælɪbəl/ Nourishing; nutritious.  
@@ -513,7 +516,7 @@ __ambisinister__ _adj_ Clumsy or unskillful with both hands.
 __ambit__ _n_ __1__ Sphere or scope, as of influence. _Syn_ range  
 __ambitious__ _adj_ :two::hammer:  
 __ambivalence__  
-__ambivalent__ _adj_ Having mixed feelings or contradictory ideas about something or someone.  
+__ambivalent__ _adj_ :two: Having mixed feelings or contradictory ideas about something or someone.  
 __ambivert__ _adj_ A person who is intermediate between an extrovert and an introvert.  
 __amble__ _v_ :seven::hammer: (ambled, ambling) _Giraffes amble along the savannah._  
 __ambulate__ _v_ :two: To walk from place to place; move about.  
@@ -602,7 +605,7 @@ __anemomes__ _n_
 __anemometer__ _n_ :two::hammer:  
 __anergy__ _n_ /AN-uhr-jee/ [:scroll: From an- (not) + ergon (work). The opposite of sense 1 is energy and the opposite of sense 2, allergy.] __1__ Lack of energy. __2__ The lack of an immune response to a foreign substance.  
 __anew__ _adv_ :four::hammer:  
-__anfractuous__ _adj_ :two: Full of twists and turns; tortuous. _An anfractuous path._ _Anfractuous cliffs._  
+__anfractuous__ _adj_ :three: /an-FRAK-choo-uhs/ Full of twists and turns; tortuous. _An anfractuous path._ _Anfractuous cliffs._  
 __Angeleno__ _n_ :two: A native or inhabitant of Los Angeles.  
 __angle iron__  
 __angle__ _v_  
@@ -665,6 +668,7 @@ __antedate<sup>1</sup>__ _n_
 __antedate<sup>2</sup>__ _v_ _It long antedated the plague years._  
 __antediluvian__ _adj_  
 __antelope__ _n_ :pencil2:  
+__antelucan__ _adj_ /æntɪˈluːkən; ˌæntɪˈljuːkən/ [:scroll: From Latin ante- (before) + lux (light)] Occurring before the arrival of daylight, relating to the hours before dawn.  
 __antenatal__  
 __antennae__ _n_ :mega: /an-TEN-ee/  
 __anteroom__ _n_ :two::hammer:  
@@ -1553,7 +1557,7 @@ __belvedere__ _n_ :six::hammer: [:scroll: From Italian, beautiful view] _archite
 __belying__ _v_  
 __bemoan__ _v_ :nine::m: /bɪˈməʊn/ /bɪˈmoʊn/ To moan or complain about; be dismayed or worried about something. _Esquith bemoans the lowering of standards._  
 __bemuse__ _vt_ :three: /bih-MYOOZ/ (bemused) __1__ To bewilder. _The actor was bemused by all the attention she was receiving for her role in the movie._ __2__ To confuse. _The contestant seemed somewhat bemused by the question; however, she gave the correct answer._  
-__bemused__ _adj_ :three: Preoccupied; lost in thought.  
+__bemused__ _adj_ :four: Preoccupied; lost in thought.  
 __ben trovato__ _adj_ Appropriate even if untrue; happily invented: _a story that is ben trovato._  
 __bench<sup>1</sup>__ _n_ _Snow will dust the benches and valleys._  
 __bench<sup>2</sup>__ _v_  
@@ -2640,7 +2644,7 @@ __cache<sup>1</sup>__ _n_ :two::mega: A secret store of valuables or money. _Syn
 __cache<sup>2</sup>__ _v_ :mega:  
 __cachet__ _n_ :three: A special quality that makes people admire someone or something, or makes people want to have something. _Sporty cars haven’t lost their cachet._  
 __cachexia__ _n_ Weight loss, wasting of muscle, loss of appetite, and general debility that can occur during a chronic disease.  
-__cachinnate__ _vi_ :six: To laugh hard, loudly, or convulsively; guffaw.  
+__cachinnate__ _vi_ :seven: To laugh loudly or immoderately. To laugh hard, loudly, or convulsively; guffaw.  
 __cack-handed__ _adj_ /kak-HAN-did, KAK-han-/ __1__ Clumsy; awkward. __2__ Left-handed.  
 __cackel__ _v_ __1__ To utter a shrill, broken cry, as of a hen. __2__ To laugh in a shrill, broken manner. __3__ To chatter noisily. __4__ To express with a cackling sound: _They cackled their disapproval._  
 __cackle<sup>1</sup>__ _v_ :four::hammer: (cackling)  
@@ -2651,7 +2655,7 @@ __cacography__ _n_ Poor handwriting. _Syn_ scrawl, scribble, scratch
 __cacophonous__ _adj_ :two: Having a harsh, unpleasant sound; discordant. _Syn_ jarring, grating, raucous, strident, dissonant, inharmonious _The school’s cafeteria was as cacophonous as a hen yard._  
 __cacophony__ _n_ :five: /kəˈkɒf ə ni/ Jarring, discordant sound; dissonance. Cacophony is the act of purposefully using harsh sounds. Example: The gnashing of teeth and screeching of bats kept me awake. _Syn_ blare, blaring, clamor, din _I heard a cacophony of horns during the traffic jam._  
 __cacti__ _n_ :two::hammer:  
-__cactus__ _n_ :mega:  
+__cactus__ _n_ :two::hammer::mega: (_n pl_ cacti, cactuses)  
 __cad__ _n_  
 __cadaver__ _n_ :four::mega:  
 __caddish__ _adj_ :two::hammer:  
@@ -3882,6 +3886,7 @@ __confederate<sup>2</sup>__ _n_
 __confer__ _v_ :two::hammer: (conferred)  
 __conference call__  
 __conferred__ _v_  
+__confetti__ _n pl_  
 __confetto__ _n_ (_n pl_ confetti)  
 __confidant__ _n_ :nine: (also confidante) /KAHN-fuh-dahnt/ A confidant is someone to whom secrets are entrusted, and especially a very close friend. _She told only her closest confidant where she had buried the money._ _The longtime confidant of the disgraced mayor was also brought in for questioning._  
 __confide__ _v_ :five::hammer: (confided)  
@@ -4627,6 +4632,7 @@ __dander__ _n informal_ Temper or anger: _What got their dander up?_
 __dandle__ _v_  
 __dandruff__ _n_ :two: A scaly scurf formed on and shed from the scalp, sometimes caused by seborrhea. :es: caspa  
 __dandy__ _adj_ :two::hammer:  
+__dang__ _adj, adv_ Damn.  
 __dangle__ _v_ :two::hammer: (dangling) _Garret seems to be dangling by a thread._  
 __dank__ _adj_ :five: Unpleasantly damp and cold. _Huge dank caverns._ _Syn_ damp, musty, chilly, clammy, wet, moist _An old table in a dank, smelly place._ :es: húmedo  
 __dankness__ _n_ :two::hammer:  
@@ -4653,6 +4659,7 @@ __dashing__ _adj_ :two::hammer: _A dashing atmosphere._ _I think I look rather d
 __dastard__ _adj_  
 __data mining__ _n_  
 __data scrubbing__ _n_ _Syn_ data cleansing, data cleaning  
+__data__ _n, n pl_  
 __datalogger__ _n_ :two::hammer:  
 __datalogging__ _n_ :two: The use of a datalogger  
 __date<sup>1</sup>__ _n_ :three::pencil2: The sweet, edible, oblong or oval fruit of the date palm, containing a narrow, hard seed. _It would be like eating a single date._ :es: dátil  
@@ -4883,7 +4890,7 @@ __demagogue__ _n_ :two: /DEM-uh-gahg/ A leader who makes use of popular prejudic
 __demagogy__  
 __demarcate__ _v_ /dih-MAHR-kayt/ To demarcate something is to fix or define its limits or edges.  
 __démarche__ _n_ :two: /day-MARSH/ The word démarche refers to a course of action or a maneuver, and especially to a political or diplomatic maneuver. Démarche is also often used specifically for a petition or protest that is presented through diplomatic channels. _The speaker urged wealthy nations to heed the démarches of those less powerful countries bearing the brunt of climate change._  
-__demean__ _v_ :five::hammer: (demeaned, demeaning)  
+__demean__ _v_ :six: /dih-MEEN/ To demean someone or something is to cause that person or thing to seem less important or worthy of respect.  
 __demeaning__ _adj_ :two::hammer: _This job is demeaning._  
 __demeanor__ _n_ :three: /dih-MEE-ner/ Demeanor refers to a person’s behavior toward other people. It is usually used in the singular. _The teacher’s quiet demeanor had a calming effect on the children._  
 __demigod__ _n_ :two: A person with great powers and abilities. _Syn_ superman, Ubermensch  
@@ -5739,7 +5746,7 @@ __dumpling__ _n_ :two::hammer: (dumplings) _Bavarian bread dumpling._
 __dumpster fire__ _n slang_ A complete and utter disaster or a completely chaotic situation likened to a fire in a dumpster, which quickly becomes uncontrollable. The phrase can be applied to both situations and people.  
 __dun-colored__ _adj_ Having a dun color ._Dun-colored hair._  
 __dunce__ _n_ :three: A person regarded as dim-witted or foolish. _We are complete dunces at self-perfection._  
-__dune__ _n_  
+__dune__ _n_ :two::hammer: /dun, dyun/  
 __dung fork__ _n_  
 __dung__ _n, v_  
 __dungaree__ _n_ :eight: (dungarees) A sturdy, often blue denim fabric. _Syn_ jean, denim _The men in black dungarees stood motionless._  
@@ -5778,6 +5785,7 @@ __dyke__ _n informal_ :four: A lesbian. _She wasn’t a dyke, either._
 __dynamo__ _n_ :astonished: __2__ An extremely energetic and forceful person: _a vice president who was the real dynamo of the corporation._  
 __dynasty__ _n_ :three::pencil2::hammer:  
 __dys-__ _prefix_ __1__ Abnormal; impaired: _dysfunctional._ __2__ Difficult; painful: _dysmenorrhea._  
+__dysarthria__ _n_ Difficulty in articulating words, caused by impairment of the muscles used in speech.  
 __dysentery__ _n_ :two: Infection of the intestine with bacteria or amoebae, marked chiefly by severe diarrhoea with the passage of mucus and blood.  
 __dysfunction__ _n_ :pencil2: (dysfunctional)  
 __dysfunctional__  
@@ -5978,7 +5986,7 @@ __elusive__ _adj_ :three::hammer: _An elusive goal._
 __elute__ _vt_ :two::hammer: /ee/i-LOOT/ To wash out or extract, especially with a solvent. _The future of drug-eluting stents._  
 __elysian__ _adj_ Blissful, delightful. Resembling paradise; causing happiness: _Elysian peace._ Of such surpassing excellence as to suggest divine inspiration: _An elysian meal._  
 __Elysium__ _n_ /i-LIZH-ee-uhm/ A place of perfect happiness.  
-__emaciate__ _v_ :six::hammer: (emaciated) _Emaciated cancer patient._  
+__emaciate__ _v_ :seven: To make or become extremely thin, especially as a result of starvation. _Half of the prison building had enlarged photos of the emaciated prisoners._ _Emaciated cancer patient._  
 __emaciated__ _adj_ Abnormally thin.  
 __emancipate__ _v_ :two: Free from slavery or servitude.  
 __Emancipation Proclamation__  
@@ -6008,7 +6016,7 @@ __embrasure__ _n_ An opening (in a wall or ship or armored vehicle) for firing t
 __embrocation__ _n_ A medicinal liquid that is rubbed into the skin to relieve muscular stiffness and pain. _Syn_ liniment _The dressings on my wound and the embrocation on my sprained wrist steadily subdue the pains which I have felt so far._  
 __embroider__ _v_ :three: (embroidered) __1__ To do decorative needlework (upon). _Embroidered headwear._ __2__ To make a story or an account of an event more interesting by adding details you have invented. _Ted embroidered the details._  
 __embroil__ _v_ (embroiled)  
-__embryo__  
+__embryo__ _n_ :two::hammer:  
 __emcee__ _n_ :three: Variation of MC, master of ceremonies. A person who acts as host at formal occasions (makes an introductory speech and introduces other speakers). _Syn_ host, master of ceremonies _An emcee leads them._  
 __emceed__ _v_  
 __emerald__ _n_ :four::hammer: _Emerald ash borers._ _Thousands of emerald and green scarves are held outstretched overhead._ :es: esmeralda  
@@ -6062,7 +6070,7 @@ __encomium__ _n_ :three: /en-KOH-mee-um/ (Literary & Literary Critical Terms) A 
 __encompass__ _v_ :nine::m::mega: /ɪnˈkʌmpəs/ __1__ To enclose within a circle; surround. __2__ To bring about; cause to happen; contrive: _he encompassed the enemy’s ruin._ __3__ To have as part of something larger; include. _Syn_ include _A galaxy encompassing billions of stars._ _Very large-scale computing encompasses a varied range of systems._ __4__ To include entirely or comprehensively: _this book encompasses the whole range of knowledge._  
 __encore<sup>1</sup>__ _n_ :six: __1__ A demand by an audience for a repetition of a song or act, performance of an additional piece, etc. __2__ The performance in response to such a demand. _An encore performance._  
 __encore<sup>2</sup>__ _v_ To demand an extra or repeated performance of (a work, piece of music, etc) by a performer.  
-__encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
+__encourage__ _vt_ :two::hammer: /ɪnˈkʌrɪdʒ/ /ɛnˈkɜr ɪdʒ, -ˈkʌr-/ _The Austin American-Statesman encourages feedback from readers._  
 __encroach__ _v_ :nine::m: (encroaching) __1__ To take another’s possessions or rights gradually or stealthily: _encroach on a neighbor’s land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
 __encroachment__ _n_ :six::hammer:  
 __encumber__ _v_ :three: (encumbered) __1__ To hinder or impede; make difficult; hamper: _encumbered with parcels after going shopping at Christmas; his stupidity encumbers his efforts to learn._  
@@ -6090,18 +6098,19 @@ __endothermic__ _adj_ Characterized by or causing the absorption of heat; endoer
 __endow__ _v_ :four::hammer: (endowed)  
 __endowment__ _n_ :four: An endowment is a gift. It might be money given to an institution like a college. Or, an endowment might be a natural gift, say of a physical attribute or a talent. If you lack the endowment of musical talent, you could play the tambourine.  
 __endpiece__ _n_  
-__endpoint__ _n_ _Surrogate endpoints._  
+__endpoint__ _n_ :two: In clinical trials, a variable linked to the efficacy (e.g., prolongation of survival) or safety issue of the trial. _Surrogate endpoints._  
 __ends__ _n_ __1__ _slang_ Money. __2__ The plural of end. _Until the ends of the earth._ :es: extremos, confines  
 __endurance__ _n_ _Endurance race._  
 __endure__ _v_ :four: Last for a long time.  
 __Energizer Bunny__  
 __energy harvesting__ _n_  
-__enervate__ _v_ :two::astonished: To weaken.  
+__energy poverty__ _n_  
+__enervate__ _v_ :three::astonished: /EN-er-vayt/ To weaken. _Syn_ weaken, enfeeble  
 __enervating__ _adj_ :astonished: Causing debilitation. _Syn_ debilitative, enfeebling, weakening  
 __enfeeble__ _v_ To make weak; deprive of strength. _Syn_ debilitate, drain _Although his age enfeebled him, he could still walk long distances without tiring._  
 __enfeoffed__ _v_ :three::hammer:  
 __enfranchisement__ _n_ _Enfranchisement of the serfs._  
-__engage__ _v_ :four::hammer: _I’m engaged with my work._  
+__engage__ _v_ :five::hammer: _I’m engaged with my work._  
 __engaged__ _adj_ :two::hammer: (to marry) __1__ Employed, occupied, or busy. _First time I rang his room his phone was engaged._  
 __engagement__  
 __engender__ _v_ :three: /in-JEN-der/ Engender is a formal word that means “to produce; to cause to exist or to develop.” It is used especially when feelings and ideas are generated.  
@@ -6129,6 +6138,7 @@ __enrol__ _v_
 __ensconce__ _vt_ :eight: (ensconced) Establish or settle (someone) in a comfortable, safe place. _Agnes ensconced herself in their bedroom._  
 __ensemble<sup>1</sup>__ _n_ :three::hammer:  
 __ensemble<sup>2</sup>__ _adj_ _An ensemble group._  
+__enshittification__ _n_  
 __enshrine__ _vt_ :two::hammer:  
 __ensign__ _n_ :three::hammer: _Everyone saluted as the national ensign was raised on the fantail._  
 __ensnare__ _v_ :five: /ɪnˈsnɛː,ɛn-/ (ensnaring) To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
@@ -6218,6 +6228,7 @@ __equinox__ _n_ :five::mega::hammer:
 __equip__ _v_ :two::hammer::mega:  
 __equipment__ _n_ _The equipment was out of date._  
 __equipped__ _adj_ :two::hammer:  
+__equitable__  
 __equitably__ _adv_ :es: de forma equitativa  
 __equity__ _n_ :three::hammer:  
 __equivocal__ _adj_ :two: /ih-KWIV-uh-kul/ __1__ Having two or more possible meanings. _Syn_ ambiguous, confusing __2__ Difficult to understand or explain. __3__ Uncertain. _The most recent clinical trial produced equivocal results._  

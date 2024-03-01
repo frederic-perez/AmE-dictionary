@@ -1,28 +1,3 @@
-__accuse__  
-__aglet__ _n_  
-__alga__ _n_ (_n pl_ algae)  
-__ambivalent__  
-__anfractuous__ _adj_ /an-FRAK-choo-uhs/ Full of twists and turns.  
-__antelucan__ _adj_ /æntɪˈluːkən; ˌæntɪˈljuːkən/ [:scroll: From Latin ante- (before) + lux (light)] Occurring before the arrival of daylight, relating to the hours before dawn.  
-__bemused__  
-__cachinnate__ _v_ To laugh loudly or immoderately.  
-__cactus__ _n_ (_n pl_ cacti, cactuses)  
-__confetti__ _n pl_  
-__dang__ _adj, adv_ Damn.  
-__data__ _n, n pl_  
-__demean__ _v_ /dih-MEEN/ To demean someone or something is to cause that person or thing to seem less important or worthy of respect.  
-__dune__ _n_ /dun, dyun/  
-__dysarthria__ _n_ Difficulty in articulating words, caused by impairment of the muscles used in speech.  
-__emaciate__ _v_ To make or become extremely thin, especially as a result of starvation. _Half of the prison building had enlarged photos of the emaciated prisoners._  
-__embryo__ _n_  
-__encourage__ _vt_ /ɪnˈkʌrɪdʒ/ /ɛnˈkɜr ɪdʒ, -ˈkʌr-/  
-__endpoint__ _n_ In clinical trials, a variable linked to the efficacy (e.g., prolongation of survival) or safety issue of the trial.  
-__energy poverty__ _n_  
-__enervate__ _v_ /EN-er-vayt/ :astonished: _Syn_ weaken, enfeeble  
-__engage__ _v_  
-__enshittification__ _n_  
-__epitome__ _n_ :mega: /ih-PIT-uh-mee/  
-__equitable__  
 __era__ _n_  
 __etcetera__ _n_ :mega: /et-SET-uh-ruh/  
 __etceteras__ _n pl_ Unspecified additional items. _Syn_ odds and ends  
