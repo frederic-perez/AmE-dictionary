@@ -1221,7 +1221,7 @@ __clear the room__ It can also be used figuratively to describe a situation wher
 __click with (one)__ __1__ To have a positive connection or friendly rapport with one, often quickly. __2__ To quickly resonate with one or a group. __3__ To make sense to one; to be able to be understood by one. _The tutor’s explanation of sine and cosine really clicked with me—I think I finally understand it now._  
 __clickbait__ Online articles (especially on social media sites) that use provocative or intriguing headlines (often in combination with images) to drive traffic to the source. _I wouldn’t put too much faith in that article about “the one food no one should ever eat”—it’s probably just clickbait._  
 __clinch the deal__  
-__clinch__ _vt_ /klɪntʃ/ To settle something; to make something final. _I was able to clinch the deal, and I got a raise for it._  
+__clinch__ _vt_ :two: /klɪntʃ/ To settle something; to make something final. _I was able to clinch the deal, and I got a raise for it._  
 __clincher__ :two: The final element; the straw that broke the camel’s back.  
 __clock in__ _Today’s piece clocks in at 728 words._  
 __close a/the deal__  
@@ -1234,6 +1234,7 @@ __close up shop__
 __close, but no cigar__ Close, but not enough to win or succeed.  
 __closed-minded__ :dart:  
 __clothes don’t make the man__ You cannot judge a man’s character based on his clothing and appearance.  
+__cloud (one’s) judgment__ To cause one’s judgment to become confused or impaired.  
 __cloud nine__ :dart::two: A state of extreme happiness. Typically appears in the phrase “on cloud nine.” _Ever since Mary got her promotion at work, she’s been on cloud nine. I don’t think I’ve ever seen her happier!_  
 __cloud of suspicion__ :two: A general sentiment of suspicion of wrongdoing or illegality. _There’s a cloud of suspicion in work after it came to light that someone has been stealing from the cash registers._  
 __cloud the issue__ :two: To obfuscate or distract from the topic at hand by introducing irrelevant or misleading information. _Politicians are always clouding the issue during debates by pointing out their opponents’ history in other issues._  
@@ -1249,10 +1250,11 @@ __cock one’s head__ :two::hammer: _She cocked her head to the sound of a locom
 __cockeyed__ Crazy, stupid, or ridiculous.  
 __cocktease__  
 __code of silence__ :two: The practice of not disclosing important or vital information by members of a group, as due to the threat of violence, reprisal, being branded as a traitor, or an inherent sense of honor. _There are parts of the city where the code of silence is so strong that police don’t even bother questioning the residents there._  
+__coffee nap__ A short nap, usually 15–30 minutes, taken immediately after drinking a cup of coffee.  
 __Coke-bottle glasses__  
 __cold call__  
 __cold feet__ :four::hammer:  
-__cold fish__ :two: A person who is very reserved or aloof in manner or who lacks normal cordiality, sympathy, or other feeling. Someone who shows no emotion and comes across as unfriendly or disinterested. Someone who has very little emotions, who is regarded as hard-hearted and unfeeling. _The manager decided not to hire Bill as the store greeter because he came across like a cold fish during the interview._  
+__cold fish__ :three: A person who is very reserved or aloof in manner or who lacks normal cordiality, sympathy, or other feeling. Someone who shows no emotion and comes across as unfriendly or disinterested. Someone who has very little emotions, who is regarded as hard-hearted and unfeeling. _The manager decided not to hire Bill as the store greeter because he came across like a cold fish during the interview._  
 __cold open__  
 __cold, hard cash__ Dollar bills and coins, as opposed to checks or credit. _The deal won’t go through unless we pay him in cold, hard cash._  
 __collect (one’s) thoughts__ To pause and think before speaking or taking action. _Can I please just have a second to collect my thoughts before I respond?_  
@@ -1417,6 +1419,7 @@ __curtains for (someone or something)__ The end, death, or demise of someone or 
 __curve ball__  
 __cushy job__ :two: A job that is easy, stress-free, and/or very well paid. _Since I got this cushy job managing a toy store, I’ve gotten to sit around playing with toys all day._  
 __cuss a blue streak__ To use profane language with great rapidity and intensity. _My dad cussed a blue streak after he found out I’d put a dent in his car._ _He gathered the players together and then commenced cussing a blue streak at very high volume._  
+__custard apple__ _n_ :es: chirimoya  
 __cut (one’s) teeth__ :two::hammer:  
 __cut (one) some slack__ :two::hammer:  
 __cut (someone or something) short__  
@@ -1432,17 +1435,19 @@ __cut from whole cloth__ :two: Entirely fictional or utterly false; completely f
 __cut it close__ :two: To do or complete something very near to its limit, especially of time. _We’ll be cutting it close, but we should get there just before the movie starts._  
 __cut it out__ To stop doing something. Often used as an imperative. _Come on, man, cut it out! We’ll totally get in trouble if you keep throwing the ball in the house!_  
 __cut it__ :four::hammer: _I feel like a rookie who’s been called up to the big leagues and just can’t cut it._  
+__cut off__ :two: __2__ _v_ To abruptly move in front of another driver, either intentionally or unintentionally. In this usage, a noun or pronoun can be used between “cut” and “off.” _Can you believe that jerk cut me off like that? I nearly hit him!_  
 __cut one’s eyes at someone or something__ :two: To glance at someone or something. _He cut his eyes at me to see if I was looking._ _She cut her eyes at the TV for a second._ _Carmen cut her eyes at her brother, but he ignored her._  
 __cut out__ _Cutting out the negative influences._  
 __cut someone or something off (short)__  
+__cut someone or something out__  
 __cut someone some slack__ _Cut her some slack—she’s nervous!_  
 __cut the cord__ Cease to rely on someone or something influential or supportive and begin to act independently. The image here is of the cutting of a baby’s umbilical cord at birth.  
 __cut the line__  
 __cut the spin__  
 __cut ties with (someone)__ :five::hammer: _I was cutting ties without even knowing._  
-__cut to the chase__ :three::hammer:  
+__cut to the chase__ :four::hammer:  
 __cut-rate__ Offered or sold at a low price. _I told you you’d regret buying a cut-rate car like that!_  
-__cutting edge__ _Cutting edge fashion._  
+__cutting edge__ :two::hammer: _Cutting edge fashion._  
 __dabble in (something)__  
 __daisy cutter__ [:scroll: From daisy, from Old English dæges eage (day’s eye, referring to the flower closing at night) + cutter, from Middle English cutten] _slang_ __1__ _sports_ A strong hit that moves the ball along the ground, as in baseball, soccer, cricket, etc. _That daisy cutter flew right past the infield and ended up securing a double for Williams._ __2__ A conventional bomb with a large blast radius that is lowered from an aircraft and explodes just above the ground. _Man, they must have dropped a daisy cutter here. Not only is the village obliterated, but so are all trees and wildlife._  
 __damn it__  
@@ -1450,17 +1455,19 @@ __damn the torpedoes__ :two: To press on with a task or current course of action
 __dance the night away__ :four: To dance the entire evening. _We danced the night away._  
 __dang it__ :dart: An exclamation of frustration. A mild alternative to “damn it.” _Oh, dang it—I dropped another screw._  
 __dangle (something) before (someone)__ To try to entice someone with something. _Dad dangled a few twenties before us, but we told him he’d have to pay more to get us to clean out the whole garage._  
+__dark cloud__  
 __dark days__ :two: Times of extreme misfortune or difficulty. _The company struggled on through some dark days several years ago, but it has since established itself as a dominant force in the market._  
-__dark horse__ :five: (It probably shouldn’t be a surprise that the first _dark horses_ were, well, horses. They didn’t have dark coats, however. The horses were simply ones that bettors and fans didn’t know much about before the horse unexpectedly won a race.) __1__ One who achieves unexpected support and success as a political candidate, typically during a party’s convention. __2__ A little-known, unexpectedly successful entrant, as in a horserace.  
+__dark horse__ :six: (It probably shouldn’t be a surprise that the first _dark horses_ were, well, horses. They didn’t have dark coats, however. The horses were simply ones that bettors and fans didn’t know much about before the horse unexpectedly won a race.) __1__ One who achieves unexpected support and success as a political candidate, typically during a party’s convention. __2__ A little-known, unexpectedly successful entrant, as in a horserace.  
 __dark joke__  
 __dark side__ A deeply negative, troubled, or antagonistic aspect of someone or something that is usually kept concealed. _Jonathan’s mom is always sweet to me and our friends, but apparently she has a bit of a dark side when we’re not around._  
 __darkest hour__ :two: The moment or period in which things are at their worst, lowest, or most discouraging.  
 __Darktown__ _n_ A neighborhood in Atlanta characterized by squalor, degradation, sickness, crime, and misery.  
 __dart out__ To move quickly out of somewhere or something.  
+__date me doc__ A _date me doc_ is a document listing someone’s personal information and relationship preferences. The document is posted online in the hopes of attracting romantic partners.  
 __date with destiny__ :two: A future event, circumstance, or situation that will or could prove to be of momentous significance or importance. _Having tried unsuccessfully to appeal his verdict for four years, he now has a date with destiny in front of the US Supreme Court._  
 __dawn (up)on (one)__ :three::hammer:  
 __day and age__  
-__day in and day out__ :eight: Without respite. _He plays chess day in and day out._ _Syn_ all the time  
+__day in and day out__ :nine: Without respite. _He plays chess day in and day out._ _Syn_ all the time  
 __day in, day out__ :three: For an indefinite number of successive days. _Syn_ time after time  
 __day lark__ A person who is more energetic and active during the day than at night. The opposite of a “night owl.” _My husband is a real day lark—he has boundless energy as long as the sun is up, but after it sets, he crashes._  
 __day one__ _She established on Day One an atmosphere of genuine affection and concern._  
@@ -1487,12 +1494,15 @@ __dead to the world__ __1__ Sleeping very soundly. _Don’t worry, the vacuum wo
 __deadbeat dad__ _n_ A father who doesn’t live with the family and doesn’t pay child support.  
 __deal in something__ To buy and sell something. _My uncle is a stockbroker. He deals in stocks and bonds._ _My aunt deals in antiques._  
 __dealbreaker__ :eight::pencil2: A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
+__dealio__ _slang_ Alternative form of _dillio._ The deal; that which is current, relevant, or taking place. _What’s the dealio?_  
+__death toll__  
 __deathaversary__  
 __Debbie Downer__ :two: A fictional Saturday Night Live character who debuted in 2004,[1] and was created and portrayed by Rachel Dratch. The character’s name, Debbie Downer, is a slang phrase which refers to someone who frequently adds bad news and negative feelings to a gathering, thus bringing down the mood of everyone around them. Dratch’s character would usually appear at social gatherings and interrupt the conversation to voice negative opinions and pronouncements. _“OK, now I really don’t want to sound like a Debbie Downer, but 2018 has not been an easy one, my friends.”—Valerie Mesa_  
+__decision fatigue__ The deteriorating quality of decisions made by an individual after a long session of decision making.  
 __deep dive__ :six: To go in-depth into something. A thorough analysis, perhaps one that seems excessive or unwarranted for a particular topic. _When you get a chance, check out the magazine’s deep dive on the upcoming vote. It covers every angle._  
 __deep pockets__  
 __deep-six (someone or something)__ [:scroll: A reference to the standard six-foot depth of a grave] To eliminate or dispose of someone or something. _Bonuses were being deep-sixed._  
-__deepfake__ :two::hammer:  
+__deepfake__ :three::hammer:  
 __defuse (something)__ :two: To settle, calm, or make less dangerous an extremely tense, hostile, or volatile situation. Likened to removing the fuse from or otherwise disabling a bomb.  
 __deliver on__ _v_ :dart: To do something one has promised or is expected to do: _The contractor delivered on his promises to get the work done by Friday._ _Caregiving robots don’t always deliver on their promises._  
 __deluge (someone or something) with (something)__ __2__ By extension, to overwhelm or overpower someone or something with something. _Many of my students are now applying to college and have deluged me with requests for recommendations._  
@@ -1501,6 +1511,8 @@ __demur at (something)__ To dispute or contest something.
 __deny (oneself)__ To deprive oneself (of something). _I’m denying myself desserts right now, while I’m on this diet._  
 __derring-do__ Heroic, brave, or daring deeds or spirit, especially when referring to swordplay or other action-adventure scenarios. _The sailor, with great derring-do, leapt from the crow’s nest of the ship with his sword in his teeth, pouncing on the pirate captain._  
 __desperate times call for desperate measures__ :two: _proverb_ Extreme and undesirable circumstances or situations can only be resolved by resorting to equally extreme actions. Derived from the proverb, “Desperate diseases must have desperate remedies.” _I know that the austerity measures introduced by the government during the recession are unpopular, but desperate times call for desperate measures._  
+__destim__ [:scroll: de + stimulate] _Destim_ is a slang term that means to calm down by avoiding overwhelming stimuli, such as loud noises or stressful situations, as in _I went outside for a minute in order to destim._  
+__detached from reality__  
 __deus ex machina__ :five: __2__ By extension, some narrative element that concludes the story or resolves a conflict in a way that seems too contrived and convenient to be believable. _Leaders under fire often wait for some deus ex machina._  
 __devil in disguise__ Something or someone that appears to be good, useful, or benevolent, but that in reality proves to be the opposite. _When I first met my ex-husband, I thought he was the nicest, most generous man alive, but he turned out to be the devil in disguise._  
 __devil is in the detail__ Small things can cause difficulties when you examine them closely enough.  
@@ -1511,9 +1523,10 @@ __dicey__
 __dick around__  
 __die hard__ :two: __2__ To resist against overwhelming, hopeless odds: _radicalism that dies hard._ _The main character, John McClane, is determined to “die hard” — or fight to the end — in order to save his wife and defeat the terrorists who have taken over the building._  
 __die with your boots on__ To die while you are still actively involved in your work.  
+__died in their sleep__ When someone is said to have “died in their sleep,” it typically means that they passed away during the night while they were asleep. This phrase is often used when the cause of death is unclear or when the family wishes to maintain privacy.  
 __dig deep__ :two::hammer:  
 __dig in (one’) heels__ :three: To cling stubbornly to one’s beliefs or wishes. _Both sides dug in their heels._  
-__dig in(to) (something)__ :two::hammer:  
+__dig in(to) (something)__ :three::hammer:  
 __dig your own grave__ To do something stupid that will cause problems for you in the future.  
 __dillio__ _slang_ [:scroll: From the slang phrase “what’s the deal, yo?” meaning “what’s going on?” Originates from _Lethal Weapon 2_: “what’s the deal Leo?” (South African accent) 1989] The deal; that which is current, relevant, or taking place.  
 __dime__ :two: __1__ The term _dime_ is often employed to convey the idea of something being insignificant or of little value. __2__ A ten-dollar bill. _Syn_ ten-spot  
@@ -1550,8 +1563,8 @@ __do nicely__
 __do or die__ :two::hammer:  
 __do over__  
 __do something/anything about__ To take some action to change or cope with something.  
-__do the dishes__ Wash dishes.  
-__do the right thing__ To act or behave correctly, appropriately, or with the best intentions. _We are none of us perfect; I just try to do the right thing and let other people live as they wish._  
+__do the dishes__ :two: To wash plates, glasses, bowls, silverware etc. with soap and water.  
+__do the right thing__ :two: To act or behave correctly, appropriately, or with the best intentions. _We are none of us perfect; I just try to do the right thing and let other people live as they wish._  
 __do the rounds__  
 __do the trick__  
 __do the work__  
@@ -1643,7 +1656,7 @@ __drive (one) batty__ :two: (drive someone nuts) To annoy or frustrate one to th
 __driver’s seat__ :two::hammer: _We want to put the users in the driver’s seat when it comes to how their data is used._  
 __driving force__  
 __drop (someone or something) like a hot potato__ To abandon someone or something suddenly and completely, sometimes to avoid potential problems.  
-__drop a bomb__ :two::hammer:  
+__drop a bomb__ :three: (drop the bomb) _informal_ To do or say something that is very shocking and unexpected. _She dropped a bomb with her resignation._  
 __drop a bombshell__ To announce shocking news.  
 __drop by__  
 __drop in the bucket__ :two: A very small or unimportant amount.  
@@ -1662,6 +1675,7 @@ __dust off__ :three::hammer:
 __dyke__  
 __dynamic duo__  
 __each other__ _The Regent ordered nobles and peasantry to pardon each other._  
+__eager beaver__ _n_ /ee-guhr BEE-vuhr/ One who is enthusiastic and hard-working, sometimes to the point of being overzealous.  
 __early bird__ _No early birds allowed because it just wouldn’t be fair to the other shoppers who waited until the opening time._ _If you have advertised “No Early birds” then do not allow any early birds to even browse through your sale before the open time._  
 __early days__ :three: The beginning period or phase of some entity, trend, or phenomenon.  
 __easier said than done__ :two: Said of a task that is easier to talk about than to do.  

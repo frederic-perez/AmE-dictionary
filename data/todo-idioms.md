@@ -48,31 +48,6 @@ __cash in__ :two::hammer:
 __cheers and jeers__ Praise from some and scorn from others; a mixed reaction.  
 __cheesy__ _mod_ Cheap; tacky. _I wouldn’t live in a cheesy place like this if I could afford better._  
 __circle back (to something)__  
-__clinch__ _vt_ /klɪntʃ/ To settle something; to make something final. _I was able to clinch the deal, and I got a raise for it._  
-__cloud (one’s) judgment__ To cause one’s judgment to become confused or impaired.  
-__coffee nap__ A short nap, usually 15–30 minutes, taken immediately after drinking a cup of coffee.  
-__cold fish__ Someone who shows no emotion and comes across as unfriendly or disinterested.  
-__custard apple__ _n_ :es: chirimoya  
-__cut off__ :two: __2__ _v_ To abruptly move in front of another driver, either intentionally or unintentionally. In this usage, a noun or pronoun can be used between “cut” and “off.” _Can you believe that jerk cut me off like that? I nearly hit him!_  
-__cut someone or something out__  
-__cut to the chase__  
-__cutting edge__  
-__dark cloud__  
-__dark horse__  
-__date me doc__ A _date me doc_ is a document listing someone’s personal information and relationship preferences. The document is posted online in the hopes of attracting romantic partners.  
-__day in and day out__  
-__dealio__ _slang_ Alternative form of _dillio._ The deal; that which is current, relevant, or taking place. _What’s the dealio?_  
-__death toll__  
-__decision fatigue__ The deteriorating quality of decisions made by an individual after a long session of decision making.  
-__deepfake__  
-__destim__ [:scroll: de + stimulate] _Destim_ is a slang term that means to calm down by avoiding overwhelming stimuli, such as loud noises or stressful situations, as in _I went outside for a minute in order to destim._  
-__detached from reality__  
-__died in their sleep__ When someone is said to have “died in their sleep,” it typically means that they passed away during the night while they were asleep. This phrase is often used when the cause of death is unclear or when the family wishes to maintain privacy.  
-__dig in(to) (something)__  
-__do the dishes__ To wash plates, glasses, bowls, silverware etc. with soap and water.  
-__do the right thing__ To act or behave correctly, appropriately, or with the best intentions.  
-__drop a bomb__ (drop the bomb) _informal_ To do or say something that is very shocking and unexpected. _She dropped a bomb with her resignation._  
-__eager beaver__ _n_ /ee-guhr BEE-vuhr/ One who is enthusiastic and hard-working, sometimes to the point of being overzealous.  
 __edge out__  
 __every so often__ Sometimes; occasionally.  
 __fair game (for something)__  
