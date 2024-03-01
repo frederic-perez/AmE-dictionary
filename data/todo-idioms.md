@@ -1,5 +1,7 @@
 __(all) fired up__ Feeling very excited or passionate about something.  
 __(Are) you kidding (me)?__ :four::hammer:  
+__(someone’s) take on (something)__ :dart: Someone’s perspective, opinion, or idea(s) about something.  
+__(someone/something) gets the job done__  
 __(the) next thing (one) knows__  
 __a (real) gas__ _slang_ A thoroughly entertaining, enjoyable, or amusing experience.  
 __a bit of__ __1__ Somewhat; rather; to some extent. _It turns out that the unusual convention of capitalizing the pronoun I was a bit of an accident._  
@@ -7,6 +9,7 @@ __a breath of fresh air__
 __a breeze__  
 __a clear future__ “A clear picture” is an idiomatic expression that means a complete and accurate understanding or representation of something.  
 __a-ha moment__  
+__ah__  
 __all the rage__ _slang_ Very popular. _Disco music was all the rage in the 1970s._  
 __alongside of (someone or something)__  
 __an uphill battle__  
@@ -28,6 +31,7 @@ __big kahuna__ The most important or powerful person in a group, organization, b
 __big shot__  
 __bigfoot__ A prominent or influential person, esp. a journalist or news analyst. The name caught on as a designation for a celebrity reporter or columnist and has since extended to include other big shots in politics, business, and other playing fields.  
 __bigwig__ An important person; a self-important person. _Some bigwig in a pinstripe suit waltzed through and asked me to leave._  
+__blanket term__ A word or phrase used to describe a broad range of similarly related things, usually resulting in diluting the specific meaning of individual items. _“Idiom” is often used as a blanket term for any element of language that is used strangely or uniquely by its users._  
 __bloodbath__  
 __bogart__ :astonished: To take an unfair share of something.  
 __bonkers__ __1__ Crazy, wacky, or strange. _There’s a guy on our corner who shouts about the end of the world; I think he’s bonkers._  
@@ -41,7 +45,9 @@ __calaboose__ _slang_ Jail. The word comes from “calabozo,” the Spanish word
 __call for (someone or something)__  
 __call out__  
 __cash in__ :two::hammer:  
+__cheers and jeers__ Praise from some and scorn from others; a mixed reaction.  
 __cheesy__ _mod_ Cheap; tacky. _I wouldn’t live in a cheesy place like this if I could afford better._  
+__circle back (to something)__  
 __clinch__ _vt_ /klɪntʃ/ To settle something; to make something final. _I was able to clinch the deal, and I got a raise for it._  
 __cloud (one’s) judgment__ To cause one’s judgment to become confused or impaired.  
 __coffee nap__ A short nap, usually 15–30 minutes, taken immediately after drinking a cup of coffee.  
@@ -70,6 +76,7 @@ __eager beaver__ _n_ /ee-guhr BEE-vuhr/ One who is enthusiastic and hard-working
 __edge out__  
 __every so often__ Sometimes; occasionally.  
 __fair game (for something)__  
+__feel the heat__ __2__ To deal with or come up against intense pressure or hostility.  
 __ferret out__ To discover or retrieve something, usually with careful effort. A noun or pronoun can be used between “ferret” and “out.” _Now that I’m a successful actress, I’m worried about what the media will ferret out about my tawdry past._  
 __fill up__  
 __finagle__  
@@ -79,6 +86,7 @@ __flat-out__
 __float an idea__ To suggest something in order to gauge interest in it or others’ perception of it.  
 __for kicks__ Only for the sake of fun, excitement, or distraction.  
 __for lack of a better word__  
+__for real__ _informal_ Used to assert that something is genuine or is actually the case.  
 __for show__ Done merely for the sake of appearance; not genuine or sincere.  
 __for the birds__  
 __for want of a better word__ Lacking a more precise term. _If you want to maintain your good mood, then don’t talk to Kristina. She is, for want of a better word, a sourpuss._  
@@ -98,14 +106,20 @@ __go a long way__ :two::hammer:
 __go big or go home__ _expression_ Either do something to its fullest extent or largest degree, or else don’t even bother. Often used facetiously. _A: “Do we really need to cook an entire pig for this barbecue? We’re only having a few people over.” B: “Hey, go big or go home!”_  
 __go down the toilet__ To fail; to be ruined or destroyed; to be squandered or wastefully discarded.  
 __go into overdrive__ To start working very hard or quickly.  
+__helicopter mom__  
+__in hot water__ Having provoked or incited anger, hostility, or punishment against oneself; in a troublesome or difficult situation, especially that which will result in punishment or reprisal. _I was in a bit of hot water with Janice last night when she found out I went to the movies instead of cleaning out the garage._  
+__jeer at (someone or something)__ To mock, taunt, or scoff at someone or something. _Everyone in school jeered at me for wearing a pink sweater._  
+__JK__ An initialism of “just kidding,” used especially in text messages and online communications to express that one was not being serious about their previous statement. Variously written as “JK,” “J.K.,” or “J/K,” in either uppercase or lowercase letters. _Yeah, def considering working on my uncle’s farm 4 the summer. haha jk lol_  
+__king of the castle__ The most powerful, successful, or authoritative person in a group or organization.  
 __off-kilter__  
 __on a daily basis__ Once or more each day.  
-__on the lookout__ Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
+__on the lookout__ :two: Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
 __one-off__  
 __org__ __2__ _n_ An organization.  
 __out of pocket__  
 __outed__  
 __over the moon__ Extremely happy. _I’ve been over the moon ever since I got engaged—I just can’t stop looking at my ring!_  
+__piss off__  
 __plain vanilla__ A reference to vanilla being considered an ordinary or unexciting flavor. Often hyphenated if used before a noun. __1__ Completely basic, simple, or straightforward, lacking embellishments, adornments, special features, etc.  
 __play big__ To play for high stakes; to be willing to take risks.  
 __plenty of (something)__ An abundant amount of; more than is needed.  
@@ -123,6 +137,16 @@ __sell like hot cakes__
 __send the wrong message__ To do or say something that communicates a meaning different or contrary to what one desires, either implicitly or explicitly.  
 __set (someone or oneself) up for (something)__  
 __set the tone__  
+__simply put__  
+__the good, the bad, and the ugly__ Idiomatic expression used to describe a situation or set of circumstances that has both positive and negative aspects, as well as some aspects that are particularly unpleasant or difficult to deal with.  
+__the nitty-gritty__  
+__there are plenty of (other) fish in the sea__  
+__top dog__ _ChatGPT-4 is still the top dog._  
+__touch on (something)__  
+__trim the fat__ :dart: To excise or discard elements that are seen as superfluous or unnecessary.  
+__word for word__ In or with the same exact words; verbatim. _After seeing the play only once, he was able to repeat the monologue word for word. It was amazing._  
+__yikes__  
+__yup__  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
 __zero in__  
 __zig when (one) should zag__  
