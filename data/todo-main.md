@@ -1,3 +1,8 @@
+__berate__ _vt_  
+__cannabidiol__ _n_ (CBD) A cannabinoid found in cannabis. _It calms us like a CBD gummy before bed._  
+__cinch__ _n_  
+__downright__ _adj, adv_  
+__emote__ _vi_  
 __era__ _n_  
 __etcetera__ _n_ :mega: /et-SET-uh-ruh/  
 __etceteras__ _n pl_ Unspecified additional items. _Syn_ odds and ends  
@@ -19,8 +24,10 @@ __flammable__ _adj_ _Syn_ Inflammable.
 __flehmen__ _n_ :camera: /ˈfleɪmən/ A curling of the upper lip and raising of the head in certain mammals in response to olfactory stimuli, which behaviour allows the scents better to reach an olfactory organ deep within the animal’s nose.  
 __flywheel__ _n_  
 __form factor__  
+__foul__ _adj_  
 __foundational__ _adj_  
 __fresh__ _adj_ _Fresh sanctions._  
+__front-runner__ _n_ (frontrunner)  
 __frostbite__ _n_ :es: congelación  
 __fulgurant__ _adj_ /FUHL/FULL-guh-ruhnt/ __1__ Flashing like lightning. __2__ Brilliant.  
 __gatekeep__ _v_  
@@ -73,6 +80,7 @@ __interventional cardiology__ _n_ Branch of cardiology that deals specifically w
 __inveterate__ _adj_ /in-VET-uh-rut/  
 __irk__ _vt_ /ɜrk/ To irritate, annoy, or exasperate.  
 __jalopy__  
+__jeer__ _n, v_  
 __jellyfish__ _n_ :es: medusa  
 __jeopardy__ _n_ /JEP-er-dee/  
 __juvenile__ _adj, n_  
@@ -89,7 +97,11 @@ __lek__ _n_
 __lekking__ _n_  
 __levity__ _n_  
 __lickspittle__ _n_ (lickspit) A fawning subordinate; a suck-up. A fawning underling; a toady.  
+__macrocosm__ _n_  
+__maddening__ _adj_ Driving to madness or frenzy; exasperating: _All those delays are maddening._ _Syn_ exasperating, infuriating, vexing  
 __malinger__ _v_ To pretend to be ill or otherwise physically or mentally incapacitated so as to avoid duty or work.  
+__minute__ _adj_  
+__multigrain__ _adj_ Made with more than one kind of grain. Used especially of bread.  
 __niche__ _n_ :two::hammer::mega: /nɪtʃ; niːʃ/  
 __ninnyhammer__ _n_ /ˈnɪnɪˌhæmə/ _US and Canadian_ A ninny. A fool; a simpleton.  
 __noisiness__ _n_  
@@ -98,6 +110,8 @@ __numb__ _adj_ :mega:
 __nutria__ _n_  
 __obstreperous__ _adj_ Difficult to control and often noisy.  
 __obtuse__ _adj_ Stupid or unintelligent; not able to think clearly or to understand what is obvious or simple.  
+__off-limits__ _adj_  
+__oftentimes__  
 __opponent__ _adj, n_ :mega:  
 __opprobrium__ _n_ /uh-PROH-bree-um/ Opprobrium refers to very strong disapproval or criticism of a person or thing especially by a large number of people. _They’re going ahead with the plan despite public opprobrium._  
 __ortanique__ _n_ [:scroll: From or(ange) + tan(gerine) + (un)ique]  
@@ -120,6 +134,7 @@ __parliament__ _n_
 __pass__ _v_ __11__ To cease to exist; die. Often used with on: _The patient passed on during the night._  
 __pattern__ _vt_ __1__ (often foll by: _after_ or _on_) To model. _Patterned after the Olympic Games, the Pan American Games are held every four years._ __2__ To arrange as or decorate with a pattern.  
 __peanut allergy__ _n_  
+__peeve__ _vt_ To cause to be annoyed or resentful. _Syn_ annoy _It’s maddening for those of us who are peeved by such things._  
 __penitentiary__ _n_  
 __penny candy__ _n_ Inexpensive candy originally costing a penny apiece.  
 __pergola__ _n_ An arbor or a passageway of columns supporting a roof of trelliswork on which climbing plants are trained to grow. _Syn_ arbor, bower  
@@ -140,6 +155,7 @@ __prebiotic__ _n_
 __prig__ _n_  
 __primer__ _n_ :mega: /PRIMM-er/  
 __prix fixe__ _n_ :mega: /PREE-FEEKS, PREE-FIK/  
+__proactive__ _adj_ Acting in advance to deal with an expected difficulty; anticipatory: _proactive steps to prevent terrorism._  
 __prodrome__ _n_ _Med_ Any symptom that signals the impending onset of a disease.  
 __propitiate__ _v_ :astonished: To conciliate (an offended power). _Syn_ appease _After his grave sin, he tried to propitiate the gods with a sacrifice._  
 __prosaic__ _adj_ Straightforward; not fanciful or imaginative. _Syn_ matter-of-fact  
@@ -173,6 +189,7 @@ __revolver__ _n_ /rɪˈvɒl vər/ __1__ A handgun having a revolving cylinder wi
 __rife__ _adj_  
 __rigorous__ _adj_  
 __ringleader__ _n_ /ˈrɪŋˌliːdə/ A person who leads others in any kind of unlawful or mischievous activity. :es: cabecilla  
+__roadblock__ _n_  
 __robocall__ _n_  
 __roughneck__ _n_ A cruel and brutal fellow. _Syn_ yobo, bully, hooligan, rowdy, ruffian, yob, tough  
 __rue<sup>1</sup>__ _v_  
@@ -183,19 +200,27 @@ __snot__
 __snotter__ _v_ To breathe noisily.  
 __specious__ _adj_ /ˈspiːʃəs/  
 __squeamish__  
+__staffing__ _n_ __1a__ The practice of employing or hiring employees.  
 __steadfast__  
 __subtle__ _adj_ :mega:  
 __syzygy__ _n_  
+__temper__ _v_  
 __thumb__ _n_ :mega:  
+__toastmaster__ _n_  
+__tokamak__ _n_  
 __tomb__ _n_ :mega:  
 __translucent__ _adj_ /trans-LOO-sunt/  
 __tread__ _n_ :mega:  
 __tummler__ _n_  
 __ungulate__ _n_  
+__uptick__ _n_  
 __Venust__ _adj_ Beautiful, graceful, elegant.  
 __verklempt__  
 __whinge__ _v_ To complain in an annoying way.  
 __whizzer__ _adj_ Something notable of its kind: such as an outstandingly attractive or able person.  
+__whopping__ _adj, adv_  
+__whopping<sup>1</sup>__ _adj_ _informal_ Exceptionally large: _“yet another whopping pay raise” (Lee Atwater)._  
+__whopping<sup>2</sup>__ _adv_ Used as an intensive: _a whopping good joke._  
 __yelp__ _v_  
 __yesterweek<sup>1</sup>__ _n_ /YES-tuhr-week/ Last week.  
 __yesterweek<sup>2</sup>__ _adv_ During last week.  
