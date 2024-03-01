@@ -2249,7 +2249,7 @@ __go over (one’s) head__ :two: __1__ To speak to one’s superior rather than 
 __go over the top__  
 __go overboard__ :dart::five: To do too much; to be extravagant; show excessive enthusiasm, act in an excessive way; to act without restraint in some area. _Did I go overboard with the Christmas decorations? I’m worried I bought enough Christmas lights to light up Times Square._  
 __go pffft__ It’s basically James Ellroy-speak for something just…fizzling out or disappearing.  
-__go places__ :three::hammer: _This kid is going places._  
+__go places__:four: To progress or find success in some area of one’s life. _Alice is definitely going to go places with that singing voice of hers._  
 __go potty__ _He has to go potty._  
 __go rogue__  
 __go soft on (someone)__ :two: To treat someone delicately, gently, or leniently; to not criticize, punish, or berate someone too harshly.  
@@ -2264,6 +2264,7 @@ __go the way of the dinosaur(s)__ :two: To become extinct, obsolete, old-fashion
 __go through a phase__ To experience or be in the midst of a temporary period of change, development, or fluctuation. _I went through a phase of being obsessed with superhero movies this summer._  
 __go through the roof__  
 __go tits up__ :dart: __1__ _rude slang_ To break or malfunction; to die, fall apart, or cease to work. (A play on the phrase “go belly up.” “Tits up” is sometimes hyphenated.) _Sorry, Mark, I’d love to give you a lift to the airport but my car’s gone tits up on me again._ _Jimmy Dean went tits-up in a car wreck._  
+__go to (someone or something)__  
 __go to bed with the chickens__ To go to bed very early.  
 __go to Canossa__ :two: To become or make oneself humble; to do a penance or seek absolution for some wrong.  
 __go to great lengths (to do something)__ :seven: To put in a lot of effort, energy, or work to achieve something. _We went to great lengths to ensure that this film was historically accurate._  
@@ -2289,6 +2290,7 @@ __gobble up__
 __God bless you__  
 __God forbid__ :two::hammer:  
 __God is in the detail(s)__ :two: _proverb_ Any action or plan one undertakes should be done carefully and pragmatically; attention to small details will ultimately yield the greatest results. _Remember that God is in the detail, so make sure everything is in order before you begin._  
+__God willing__ If all goes as it should; if everything goes well.  
 __God’s green earth__ :two: The entire planet; anywhere and everywhere.  
 __God’s honest truth__ The absolute, unequivocal truth. (I.e., as if spoken by God Himself.)  
 __Godwin’s law__ A maxim stating that the longer an online debate continues, the higher the likelihood that a comparison will be made to Adolf Hitler or the Nazis. The concept is credited to American lawyer and author Mike Godwin. _Someone in this thread will be compared to Hitler soon enough—it’s just Godwin’s law._  
@@ -2325,6 +2327,7 @@ __good old__ :three::dart: Used before a noun to describe a familiar person or t
 __good omen__ :two: A sign, either real or imagined, of good fortune or a propitious outcome. _I saw a dove on my windowsill this morning; I’d say it’s a good omen for the rest of my day._  
 __good riddance__ :three: An expression used when one is pleased that someone or something is leaving or stopping. A shortened version of the phrase “good riddance to bad rubbish.” _Well, I didn’t want to talk to you anyway, so good riddance!_ _A lot of voters are prepared to say “good riddance” to her at the end of her term._  
 __good sport__ :three: (good sports) A person who takes a bad situation well.  
+__good to know__  
 __good-natured__ :three: Of or having a kindly, affable, beneficent, and/or obliging propensity, inclination, or personality. _Mark is so good-natured, always willing to lend a hand no matter what the task._  
 __goodbye, cruel world__ :two: _cliché_ An exclamation, note, or statement made immediately prior to one’s death, especially by suicide.  
 __goodness gracious me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness gracious me, I’ll never get this report finished on time!_  
@@ -2353,12 +2356,13 @@ __grasp the nettle__ _BrE_
 __grasp__  
 __grasshopper__ _slang_ Someone who frequently smokes marijuana.  
 __grassy knoll__ A metaphor and a source of irony when referring to a suspicion, conspiracy, or a cover-up of some type. The word knoll is associated with the tragic assassination of President John F. Kennedy, who was shot in Dallas just as his motorcade passed a grassy knoll.  
+__gray area__ A concept or topic that is not clearly defined or that exists somewhere between two extreme positions.  
 __gray rocking__ _n_ _Gray rocking_ (or the _gray rock_ method) is the name of a strategy used to avoid unwanted social interactions or to extract oneself from a relationship with a person by engaging with them only at the most basic and unemotional level. _A yellow rocking fence is a bit different than a gray rocking one._  
 __grease payment__ :two: A sum of money, typically a bribe, paid to a government official or business person so as to facilitate or expedite some decision or transaction. _Just offer the governor’s aide a grease payment to move our building application to the forefront of the governor’s agenda._  
 __greasy spoon__ A small restaurant or diner, especially one that serves fried foods. _Every time I go on a road trip, I make it a point to stop at a greasy spoon for at least one of my meals._ _Specialties at this greasy spoon include scones resembling fry bread with honey butter._  
 __great (_or_ much) cry and little wool__ [:scroll: This expression comes from the idea of shearing pigs, where the result could be expected to be _great cry and little wool._] A great deal of fuss, noise, fanfare, or protestation over something of little or no substance, importance, or relevance. _My opponent has been making outlandish claims about my track record so as to foment distrust in the public, but I assure you, he is offering great cry and little wool._  
 __great balls of fire__ An exclamation of surprise and amazement. Good heavens!; Wow! _Did you see that game? Great balls of fire—the Yankees tied it up with two outs in the bottom of the ninth!_  
-__great deal__ :dart: (often followed by \`of’) a large number or amount or extent. Much, a lot.  
+__great deal__ :dart::two: (often followed by \`of’) A large number or amount or extent. Much, a lot.  
 __Greek__ :two::astonished::hammer: _It’s all greek to me._ _It’s in Greek and almost impossible to decode._  
 __green folding__ Paper money, especially in large amounts. _How much green folding is this repair job gonna cost me?_  
 __green sheet__ :two: In James Ellroy’s novels, the term “green sheet” is often used to refer to a document or record that contains information about a person or event. A “green sheet” is usually something that is kept by law enforcement or other authorities, and it contains details that are not publicly available or easily accessible. For example, a “green sheet” might contain information about a suspect in a crime, or about a witness who has given testimony in a trial.  
@@ -2375,8 +2379,10 @@ __grínd one’s teeth__
 __grind to a halt__ To halt progression very abruptly, especially in an ultimately detrimental or undesirable manner. Likened to a machine or automobile that stops functioning due to the grinding of gears. _Our project will grind to a halt if the CEO pulls his approval._  
 __grind__ __3__ _n informal_ A tedious or laborious routine, especially of work or study. _I’m lucky to have a job in today’s economy, but this daily grind is starting to get me down._  
 __gripe about (someone or something)__ :dart::two: To complain, often continually and in an irritating manner, about someone or something. _I turned the thermostat up, so you all can stop griping about how cold it is in here, thanks._  
+__grody__ _slang_ Disgusting or repulsive. The term possibly derives from the word “grotesque.” _Ugh, that smell is seriously grody—I’m practically gagging._  
 __grok__ :two::hammer:  
 __groom (someone) for (something)__  
+__groovy__ __1__ _slang_ Cool or appealing. Popular in the 1960s and ’70s, the term is considered dated and thus is often used humorously, sarcastically, or specifically in reference to something that is (or looks like it could be) from that era. _A: “Yikes Mom, those are some, um, groovy drapes!” B: “What, you don’t like them?”_  
 __ground zero__ :two: __4__ :dart: The earliest possible starting point; the most basic, fundamental, or preliminary level. _The folder with my outline and notes got deleted, so now I have to start the whole project again from ground zero._  
 __ground-breaking__  
 __grouse__ To complain or gripe.  
@@ -2392,6 +2398,7 @@ __gully washer__ An extremely heavy rainstorm that usually lasts a short amount 
 __gulp down__  
 __gun down__  
 __gun it__ :two: To accelerate or increase speed suddenly or rapidly; to travel or move very quickly. Usually said while traveling in an automobile. _We’ll have to gun it if we want to make it to the movie on time!_  
+__gun-shy__  
 __gung ho__  
 __gung-ho__ Exceptionally enthusiastic, eager, or zealous, sometimes overly so.  
 __gunk__ :two: __1__ _slang_ Any unpleasant residue or matter. The word originated as a trademark name for a degreasing solution. _You’re gonna need a more powerful cleaner to get that gunk off the sides of the tub._ __2__ _slang_ A glue or aerosol that one inhales in order to become high. _Gunk is dangerous stuff, you know._ __3__ Nonsense. __4__ A fool, a dullard. __5__ Anything worthless, unpleasant, undesired.  
@@ -2402,7 +2409,8 @@ __gut factor__
 __gut feeling__ An intuition, an instinctive feeling about something.  
 __gut punch__ A “gut punch” is an expression that is typically used to describe a sudden, painful, or shocking experience that leaves a person feeling emotionally or physically drained. It can be used both figuratively and literally to describe something that is unexpectedly hurtful or upsetting.  
 __gut-bucket__ __1__ _offensive slang_ A derogatory term for a fat or obese person. _We left the bar when we realized it was seedy and filled with nothing but old gut-buckets looking for easy women._ __2__ A free-spirited style of jazz or blues music. _The band surprised the audience by playing a few of their songs in a gut-bucket style._ _A gut-bucket string band._ __3__ A stringed instrument used in folk music that is made from a metal washtub . _Grandpop brought out his old gut-bucket and started playing folk songs beside the fire._  
-__gut-wrenching__ :two: Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one’s feelings. _What a gut-wrenching loss for the young athlete, who poured her heart and soul into this match._  
+__gut-wrenching__ :three: Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one’s feelings. _What a gut-wrenching loss for the young athlete, who poured her heart and soul into this match._  
+__gyatt__ A slang exclamation of surprise or excitement. Gyatt is most commonly used as an exclamation in reaction to seeing a large butt (that is, the buttocks) and may be used as a noun to mean a large butt.  
 __gym bunny__ :two: Someone who is obsessively preoccupied with maintaining or improving their physique and thus spends a large amount of time at the gym to do so. _After recovering from his surgery, John spent a lot of time at the gym getting his body back into shape. Now he’s turned into a total gym bunny._  
 __gym rat__ _slang_ Someone who spends an inordinate amount of time at a gym. _I turned into a real gym rat during college. I go pretty much every day now._  
 __H-E-double-hockey-sticks__ A euphemistic spelling of “hell,” referring to each L resembling a hockey stick in shape. _“Oh yeah?” said Tommy to the schoolyard bully. “Well, you can go to H-E-double-hockey-sticks!”_  
@@ -2456,6 +2464,7 @@ __hard of hearing__
 __hard on the eyes__ :two: Unattractive; ugly.  
 __hard pass__ :dart: _slang_ No; not interested; absolutely not.  
 __hard pressed__ :three: Overburdened, put upon, as in _With all these bills to pay we find ourselves hard pressed._ _You’ll be hard pressed to visit them._  
+__hard to believe__ Seemingly untrue; quite dubious. _Hard to believe, but there were no rules for capitalization until the 1700s._  
 __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is hard to come by in this economy._  
 __hard to say__ “Hard to say” is an idiomatic expression used to convey uncertainty or a lack of knowledge about something. It means that it’s difficult to predict or determine the outcome or the answer to a question, as the information is incomplete or unknown.  
 __hard-boiled__ __2__ Tough and dispassionate; hardened by experience.  
@@ -3399,7 +3408,7 @@ __letters after (one’s) name__ A series of abbreviations indicating the variou
 __level the playing field__  
 __level up__ :two::hammer:  
 __lie ahead of (someone or something)__ :two::hammer:  
-__lifer__  
+__lifer__ :two::hammer:  
 __lift a finger__ To help with something. Often used in the negative to indicate a lack of willingness to exert even the bare minimum of effort. _I clean every weekend, and you never lift a finger to help!_  
 __lift the curtain (on something)__ __2__ To make (something) publicly known; to reveal or disclose the details or truth (about something). _LinkedIn finally lifted the curtain on a number of AI features it’s been cooking behind the scenes._  
 __lift the lid off (something)__ To expose something to the public, often something scandalous or deceptive. _That company’s stock price plummeted after the media lifted the lid off the CEO’s embezzlement scandal._  
@@ -3547,11 +3556,12 @@ __lust for power__ Intense, insatiable desire to attain power and control. _My b
 __mad (at someone or something)__  
 __made of money__ To be very rich.  
 __made to order__ :three::hammer: _Everything on our menu is fresh, made from scratch, and made to order._  
+__MAGA__ An abbreviation for “Make America Great Again,” Donald Trump’s presidential campaign slogan. _President Trump is known to include #MAGA in his tweets._  
 __magic mushrooms__  
 __magick thinking__  
 __magpie__  
 __mainline__ _n_ __2__ _slang_ An accessible vein that can be used to inject a narcotic.  
-__make (both) ends meet__  
+__make (both) ends meet__ :two::hammer:  
 __make (one’s) bones__  
 __make (one’s) day__ :two: To cause one to feel very happy; to be a very positive highlight of one’s day. _When my neighbors surprised me with homemade chocolate chip cookies, it really made my day._  
 __make (one’s) mouth water__  
@@ -3594,7 +3604,7 @@ __make fast work of (someone or something)__ __1__ To deal with, finish, or disp
 __make game of (someone or something)__ To ridicule, mock, or tease someone or something; to make fun of someone or something. _I really don’t appreciate you making game of my disability like that._  
 __make great strides__ :three::hammer:  
 __make ground__ To become more successful, popular, important, or accepted. _No one thought our fast food chain would do well in a country like India, but we’ve started making ground!_  
-__make headway__ To make progress.  
+__make headway__ :two: To make progress.  
 __make heavy going of (something)__ To make something harder or more laborious to do, especially more than is usual or necessary. _The Irish rugby squad made heavy going of what should have been a relatively easy win._  
 __make inroads (in/into something)__ :five::hammer: _At universities and research institutes, workstations made inroads._  
 __make light of__ _Squires and servants made light of him._  
@@ -3603,7 +3613,7 @@ __make like a banana and split__ _humorous slang_ To depart or leave, especially
 __make matters worse__ :three: To make an already bad, unpleasant, or difficult situation even more so. (Sometimes used as an independent clause in the infinitive form: “to make matters worse.”) _I heard that Julie is being let go from her job, and to make matters worse, she hasn’t been there long enough to qualify for severance pay!_ _He laughed at her and then, to make matters worse, he accused her of lying!_  
 __make mincemeat (out) of (someone or something)__ To decisively and severely punish or defeat someone. _If he doesn’t stop teasing me, I’m going to make mincemeat of him._ _You better practice for Sunday’s match, or your opponent will make mincemeat out of you._  
 __make no bones about something__ :two: To say clearly what you think or feel about something.  
-__make no mistake__ :two: What I have said or am about to say is absolutely certain; do not think otherwise._ Make no mistake, I intend to take this all the way to the Supreme Court if I have to._  
+__make no mistake__ :three: What I have said or am about to say is absolutely certain; do not think otherwise._ Make no mistake, I intend to take this all the way to the Supreme Court if I have to._  
 __make noise (about something)__ To be very outspoken about something, especially that which one dislikes or disagrees with. _Consumers have begun making a lot more noise about policies of the company that they claim are manipulative._  
 __make oneself wrong__ :two::hammer: _Do not make yourself wrong._  
 __make or break__ :four::hammer: _Music can make or break a show, especially a sitcom._  
@@ -3668,7 +3678,7 @@ __messed up__ :two::hammer: _informal_
 __metal__ _adj_ _slang_ :seven: Very intense or hardcore. A reference to heavy metal music, which is typically considered to have such qualities. _Whoa, that’s metal—how many hours did it take to get that tattoo?_ _The most metal episode so far._ _I don’t know if I’m metal enough to do that._  
 __mete out__ __1__ To distribute or dispense something. A noun or pronoun can be used between “mete” and “out.” _It is the Supreme Court’s job to mete out justice in a situation like this._ __2__ To measure something out. _She meted the solution out carefully into a row of test tubes._ _She meted out the cookies to each of them._  
 __mic drop moment__ A _mic drop moment_ is an emphatic and declarative gesture signifying the conclusion of a performance of note, often literally (or as if) dropping a microphone. It often signifies a triumphant moment or accomplishment, and conveys a sense of superiority and confidence in one’s words or actions.  
-__mic drop__  
+__mic drop__ :two::hammer:  
 __Mickey (Finn)__ :three::hammer: _A mickeyed beer._  
 __microaggression__ An action that is deemed to be a subtle or indirect expression of bigoted or discriminatory views or attitudes.  
 __mid__ Mid is a slang term used to describe something or someone as mediocre or of low quality. _The first movie was good, but all the sequels are mid._  
@@ -3717,6 +3727,7 @@ __money talks__ Rich people can get what they want.
 __money talks, (and) bullshit walks__  
 __monkey off one’s back__ A persistent burden or problem one no longer has to deal with. _I can’t wait until I’m done paying my student loans—that will be a monkey off my back!_ _The win did remove the major monkey off his back._  
 __monkeyshines__ Playful or mischievous pranks, tricks, or capers; tomfoolery.  
+__moo juice__ _slang_ Cow’s milk.  
 __mooch off (of) (someone or something)__ To ask for or obtain (something) through the charity of someone or something; to sponge off someone or something else. _My brother has been mooching off me and my wife ever since he lost his job._  
 __mop-top__  
 __moral compass__ :three: That which serves or guides a person’s knowledge, sense, or intuition of correct virtues, morals, or ethics. _Our country’s moral compass has surely gone awry in recent times, as our priorities seem now to favor the wealthy accumulating more wealth at the expense of any other concern._  
@@ -3769,6 +3780,7 @@ __my, my__ _interjection_ An expression of surprise, incredulity, or pleasure.
 __nab__ :two: To catch and arrest someone. Often used in passive constructions.  
 __nah__ :two: _informal_ No; not really.  
 __nail in (someone’s or something’s) coffin__ :two::hammer:  
+__nail__  
 __naked eye__ _With the naked eye._  
 __name names__ :six::hammer: _I will not go naming names here._  
 __narrow down__ :three: To pare the number of people or things on a list down to a more manageable or select number. A noun or pronoun can be used between “narrow” and “down.” _Let’s narrow it down to just our very top choices, otherwise we’ll never pick a place to go._  
@@ -3865,8 +3877,9 @@ __nod off__ :dart:
 __non sequitur__  
 __non-starter__ :two: __1__ An issue, topic, or person that makes no progress or shows little evidence of future success. _I know you worked really hard on that proposal, but it’s a non-starter—the committee refuses to even consider it._ _You want to be a doctor? Boy, that’s a non-starter—you can’t even handle the sight of blood!_  
 __nook and cranny__ Every possible place or part of something, down to the smallest ones.  
-__north of (some number)__ :two: Beyond some number; exceeding some number. _Does Joel really make north of $80,000 a year? Dang, I’m in the wrong business._ _Apple’s App Store grossed north of $70 Billion in 2022._  
+__north of (some number)__ :three: Beyond some number; exceeding some number. _Does Joel really make north of $80,000 a year? Dang, I’m in the wrong business._ _Apple’s App Store grossed north of $70 Billion in 2022._  
 __nose into (something)__ To investigate something; to try to find information about something, especially private, secret, or sensitive matters. _The last thing we need right now are tax auditors nosing into our accounts._  
+__nose job__  
 __nose to the grindstone__ :dart: A phrase said of one who is working hard or diligently on something. Sometimes used as an imperative. _We need to finish this project tonight! Nose to the grindstone, people!_  
 __nosh__ :three: __2__ _v_ _slang_ To munch on some food, especially a small meal or light snack.  
 __not (one’s) first rodeo__ :three: One is experienced with a certain situation, especially in relation to potential pitfalls or deceitful practices by others. _Don’t think I’ll fall for that old trick. This isn’t my first rodeo, you know._  
@@ -3891,6 +3904,7 @@ __not go amiss__
 __not going anywhere__ “Not going anywhere” is commonly used to convey that something or someone is unchanging, persistent, or not making progress.  
 __not have a cent to your name__ If someone doesn’t have a penny to their name or doesn’t have a cent to their name, they are poor. _He never had a penny to his name while he was with me._  
 __not have a hope in hell (of doing something)__ To not have any chance at all of doing or achieving something.  
+__not have a hope in hell__ To have no possibility of succeeding, coming to pass, or achieving something. _They don’t have a hope in hell of getting into the playoffs this year._  
 __not have all day__ To be in a rush; to not have much or any time to spare. Usually used in the present tense.  
 __not have much between the ears__ To be rather stupid, dull, or dimwitted; to not have much common sense or basic intelligence. _She seems nice enough, but I get the sense that she might not have much between the ears._  
 __not have two nickels to rub together__ To be extremely poor; to have very little or no money to spend. Primarily heard in US. _During college, when I didn’t have two nickels to rub together, I survived off of ramen noodles for months at a time._  
@@ -3917,7 +3931,7 @@ __not utter a word__ To be completely silent; to remain discreet (about somethin
 __not worth the paper it’s printed on__ Useless; unimportant; insignificant. _Oh, that memo is not worth the paper it’s printed on. You know the boss is going to completely change her mind about it in a few days anyway!_  
 __not your father’s__ Very modern or updated; no longer what an older generation would expect or be used to. _With every building now featuring wireless Internet and touch-screen monitors integrated into the desks in each classroom, this is certainly not your father’s high school anymore._  
 __notch up__  
-__note to self__ :four::hammer:  
+__note to self__ :five::hammer:  
 __noted for (something)__ Having an established reputation or degree of fame because of something. _Professor Jenkins is noted for her groundbreaking work in gene therapy for cancer treatment._  
 __nothing but a__ The idiom “nothing but a” is used to emphasize that something is only a particular thing, without any additional qualities or attributes. For example, “He’s nothing but a beginner” means that the person is only a beginner, without any other qualities or experiences.  
 __nothing but__ :two::hammer: _I’m nothing but tired._  
@@ -3960,6 +3974,7 @@ __off the cuff__ (off-the-cuff) Casually and spontaneously; without planning or 
 __off the grid__ :two::hammer:  
 __off the hook__ :three::hammer: _I let you off the hook._  
 __off the rails__ In an abnormal or malfunctioning condition, as in _Her political campaign has been off the rails for months._ The phrase occurs commonly with go, as in _Once the superintendent resigned, the effort to reform the school system went off the rails._ This idiom alludes to the rails on which trains run; if a train goes off the rails, it stops or crashes.  
+__off the shelf__ Ready made for purchase from available stock; not custom built or crafted. Often hyphenated.  
 __off to the races__ :three: An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting. _The tour bus is out in front waiting and we’ve said goodbye to everyone. Looks like we’re off to the races._  
 __off to the side__  
 __off work__  

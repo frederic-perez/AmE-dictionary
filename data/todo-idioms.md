@@ -98,31 +98,6 @@ __go a long way__ :two::hammer:
 __go big or go home__ _expression_ Either do something to its fullest extent or largest degree, or else don’t even bother. Often used facetiously. _A: “Do we really need to cook an entire pig for this barbecue? We’re only having a few people over.” B: “Hey, go big or go home!”_  
 __go down the toilet__ To fail; to be ruined or destroyed; to be squandered or wastefully discarded.  
 __go into overdrive__ To start working very hard or quickly.  
-__go places__ To progress or find success in some area of one’s life. _Alice is definitely going to go places with that singing voice of hers._  
-__go to (someone or something)__  
-__God willing__ If all goes as it should; if everything goes well.  
-__good to know__  
-__gray area__ A concept or topic that is not clearly defined or that exists somewhere between two extreme positions.  
-__great deal__ A large amount or degree.  
-__grody__ _slang_ Disgusting or repulsive. The term possibly derives from the word “grotesque.” _Ugh, that smell is seriously grody—I’m practically gagging._  
-__groovy__ __1__ _slang_ Cool or appealing. Popular in the 1960s and ’70s, the term is considered dated and thus is often used humorously, sarcastically, or specifically in reference to something that is (or looks like it could be) from that era. _A: “Yikes Mom, those are some, um, groovy drapes!” B: “What, you don’t like them?”_  
-__gun-shy__  
-__gut-wrenching__ Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one’s feelings. _What a gut-wrenching loss for the young athlete, who poured her heart and soul into this match._  
-__gyatt__ A slang exclamation of surprise or excitement. Gyatt is most commonly used as an exclamation in reaction to seeing a large butt (that is, the buttocks) and may be used as a noun to mean a large butt.  
-__hard to believe__ Seemingly untrue; quite dubious. _Hard to believe, but there were no rules for capitalization until the 1700s._  
-__lifer__  
-__MAGA__ An abbreviation for “Make America Great Again,” Donald Trump’s presidential campaign slogan. _President Trump is known to include #MAGA in his tweets._  
-__make (both) ends meet__  
-__make headway__ To make progress.  
-__make no mistake__  
-__mic drop__  
-__moo juice__ _slang_ Cow’s milk.  
-__nail__  
-__north of (some number)__  
-__nose job__  
-__not have a hope in hell__ To have no possibility of succeeding, coming to pass, or achieving something. _They don’t have a hope in hell of getting into the playoffs this year._  
-__note to self__  
-__off the shelf__ Ready made for purchase from available stock; not custom built or crafted. Often hyphenated.  
 __off-kilter__  
 __on a daily basis__ Once or more each day.  
 __on the lookout__ Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
