@@ -1,9 +1,14 @@
 __accuse__  
 __aglet__ _n_  
 __alga__ _n_ (_n pl_ algae)  
+__ambivalent__  
+__anfractuous__ _adj_ /an-FRAK-choo-uhs/ Full of twists and turns.  
+__antelucan__ _adj_ /æntɪˈluːkən; ˌæntɪˈljuːkən/ [:scroll: From Latin ante- (before) + lux (light)] Occurring before the arrival of daylight, relating to the hours before dawn.  
 __bemused__  
+__cachinnate__ _v_ To laugh loudly or immoderately.  
 __cactus__ _n_ (_n pl_ cacti, cactuses)  
 __confetti__ _n pl_  
+__dang__ _adj, adv_ Damn.  
 __data__ _n, n pl_  
 __demean__ _v_ /dih-MEEN/ To demean someone or something is to cause that person or thing to seem less important or worthy of respect.  
 __dune__ _n_ /dun, dyun/  
@@ -30,9 +35,12 @@ __ex-con__ _n informal_ A former prisoner.
 __exacerbation__ _n_  
 __exhilarating__ _adj_ /ɪɡˈzɪləˌreɪtɪŋ/  
 __expire__ _v_  
+__fast<sup>1</sup>__ _adv_  
+__fast<sup>2</sup>__ _vi_ __1__ To abstain from food. __2__ To eat very little or abstain from certain foods, especially as a religious discipline.  
 __fatuous__ _adj_ Silly or stupid; complacently or inanely foolish.  
 __firearm__ _n_  
 __fissure__ _n_  
+__flammable__ _adj_ _Syn_ Inflammable.  
 __flehmen__ _n_ :camera: /ˈfleɪmən/ A curling of the upper lip and raising of the head in certain mammals in response to olfactory stimuli, which behaviour allows the scents better to reach an olfactory organ deep within the animal’s nose.  
 __flywheel__ _n_  
 __form factor__  
@@ -53,6 +61,9 @@ __gloss__ _n_
 __gorgeous__  
 __gratuitous__ _adj_  
 __greedflation__ _n_  
+__grisly__  
+__grizzly__  
+__groak__ _v_ To stare at people who are eating in the hope that they will offer to share their food.  
 __groggy__  
 __grotesque__  
 __guardrail__ _n_  
@@ -62,6 +73,7 @@ __handball__ _n_ :es: balonmano
 __hands-down__ _adj_ __1__ Easy: _A hands-down victory._ __2__ Unchallenged; certain: _a hands-down bestseller._  
 __hardened computer__ _n_ A hardened computer refers to a system that has undergone systems hardening, a process aimed at reducing vulnerabilities in technology applications, systems, infrastructure, firmware, and other areas.  
 __headwind__ _n_  
+__heliotropic__ _adj_ [:scroll: From Greek helio- (sun) + -tropic (turning)]  
 __hiccup__ _n_ __3__ A usually minor setback, impediment, or difficulty; a hitch.  
 __high tops__ _n pl_ Training shoes that reach above the ankles.  
 __hitman__ _n slang_  
@@ -70,6 +82,7 @@ __homeostasis__ _n_
 __hourlong__ _adj_  
 __huckster__ _n_  
 __humanitarian corridor__ _n_  
+__hunger strike__ _n_ A voluntary fast undertaken as a means of political protest, as by a prisoner.  
 __hyperbole__ _n_ :mega: /hye-PER-buh-lee/  
 __illustrate__ _v_  
 __impeach__ _v_ :two: To charge (a public official) before a competent tribunal with misconduct in office.  
@@ -77,10 +90,12 @@ __impeachment__
 __incalescent__  
 __incarcerate__ _vt_ /ɪnˈkɑr səˌreɪt/  
 __incarceration__ _n_ The act of imprisoning someone or the state of being imprisoned.  
+__ingurgitate__ _v_ To swallow greedily or in excessive amounts; gulp.  
 __insipid__ _adj_ __2__ Lacking qualities that excite, stimulate, or interest; dull.  
 __intern__ _v_ To confine or impound especially during a war.  
 __internment__ _n_ The act of interning someone or the state of being interned.  
 __interventional cardiology__ _n_ Branch of cardiology that deals specifically with the catheter based treatment of structural heart diseases.  
+__inveterate__ _adj_ /in-VET-uh-rut/  
 __irk__ _vt_ /ɜrk/ To irritate, annoy, or exasperate.  
 __jalopy__  
 __jellyfish__ _n_ :es: medusa  
@@ -94,11 +109,13 @@ __lamb__ _n_ :mega:
 __lampoon__ _v_ /lam-POON/  
 __lavabo__ _n_ A basin for washing the hands. _Syn_ handbasin, washbasin, washbowl _The priest washed his hands in the metal lavabo before saying Mass._  
 __lead__ _n_ :mega:  
+__leap year__ _n_  
 __lek__ _n_  
 __lekking__ _n_  
 __levity__ _n_  
 __lickspittle__ _n_ (lickspit) A fawning subordinate; a suck-up. A fawning underling; a toady.  
-__niche__ _n_  
+__malinger__ _v_ To pretend to be ill or otherwise physically or mentally incapacitated so as to avoid duty or work.  
+__niche__ _n_ :two::hammer::mega: /nɪtʃ; niːʃ/  
 __ninnyhammer__ _n_ /ˈnɪnɪˌhæmə/ _US and Canadian_ A ninny. A fool; a simpleton.  
 __noisiness__ _n_  
 __nonproductive__ _adj_ _She reports a mild non-productive cough._  
@@ -182,10 +199,16 @@ __rife__ _adj_
 __rigorous__ _adj_  
 __ringleader__ _n_ /ˈrɪŋˌliːdə/ A person who leads others in any kind of unlawful or mischievous activity. :es: cabecilla  
 __robocall__ _n_  
+__roughneck__ _n_ A cruel and brutal fellow. _Syn_ yobo, bully, hooligan, rowdy, ruffian, yob, tough  
 __rue<sup>1</sup>__ _v_  
 __rue<sup>2</sup>__ _n_ /roo/ __1__ Sorrow; repentance; regret. __2__ Pity or compassion.  
+__screeve__ _v_ To write (as a letter) in order to beg.  
 __shoestring__ _n_ (shoe string) Marked by or consisting of a small amount of money.  
+__snot__  
+__snotter__ _v_ To breathe noisily.  
 __specious__ _adj_ /ˈspiːʃəs/  
+__squeamish__  
+__steadfast__  
 __subtle__ _adj_ :mega:  
 __syzygy__ _n_  
 __thumb__ _n_ :mega:  
@@ -196,6 +219,7 @@ __tummler__ _n_
 __ungulate__ _n_  
 __Venust__ _adj_ Beautiful, graceful, elegant.  
 __verklempt__  
+__whinge__ _v_ To complain in an annoying way.  
 __whizzer__ _adj_ Something notable of its kind: such as an outstandingly attractive or able person.  
 __yelp__ _v_  
 __yesterweek<sup>1</sup>__ _n_ /YES-tuhr-week/ Last week.  
