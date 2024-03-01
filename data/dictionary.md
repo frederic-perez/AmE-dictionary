@@ -10997,6 +10997,7 @@ __madcap<sup>1</sup>__ _adj_ :two: Behaving or acting impulsively or rashly; wil
 __madcap<sup>2</sup>__ _n_ :two::hammer:  
 __Madchester__ _n_ Manchester, UK.  
 __madden__ _v_ :two::hammer: (maddening)  
+__maddening__ _adj_ Driving to madness or frenzy; exasperating: _All those delays are maddening._ _Syn_ exasperating, infuriating, vexing  
 __madding__ _adj_ :astonished: _Madding crowds._  
 __made-to-order__ _adj_ _Made-to-order sandwiches._  
 __madeleine__ _n_ :astonished: __1__ A small shell-shaped cake. __2__ Something that triggers memories or nostalgia.  
@@ -11074,7 +11075,7 @@ __malign<sup>1</sup>__ _v_ (maligned)
 __malign<sup>2</sup>__ _adj_ :mute:[mali~~g~~n]  
 __malignancy__ _n_ (malignancies)  
 __malignant__ _adj_  
-__malinger__ _vi_ /məˈlɪŋɡə/ To pretend or exaggerate illness, esp to avoid work.  
+__malinger__ _vi_ :two: /məˈlɪŋɡə/ To pretend to be ill or otherwise physically or mentally incapacitated so as to avoid duty or work. To pretend or exaggerate illness, esp to avoid work.  
 __malingerer__ _n_  
 __mallards__ _n_ :two::hammer:  
 __malleable__ _adj_ :five: /MAL-ee-uh-bul/ Capable of being shaped, altered, or controlled by outside forces or influences. Capable of being shaped or bent or drawn out. _Syn_ tractile, ductile, pliant, tensile _The brain is malleable._ _Let the cookie dough thaw so it is malleable._ _Students’ minds are malleable and they need positive influences and guidance._  
@@ -11585,7 +11586,7 @@ __mint bank notes__
 __mint__ _adj_ Unspoilt, as if fresh from a mint.  
 __minus-9__ _n_ _The Cowboys are tied for last with Detroit in turnover margin with minus-9._  
 __minute<sup>1</sup>__ _n_ :mega: /mĭn′ĭt/  
-__minute<sup>2</sup>__ _adj_ :mega: /mĭn′ĭt/  
+__minute<sup>2</sup>__ _adj_ :two::hammer::mega: /mĭn′ĭt/  
 __minutia__ _n_ (minutiae) :two: A small or minor detail.  
 __minutiae__ _n pl_ Precise details; small or trifling matters.  
 __mirabile dictu__ _phr_ /mɪˈræbɪleɪ ˈdɪktuː/ _(Literary & Literary Critical Terms)_ Wonderful to relate; amazing to say.  
@@ -11918,6 +11919,7 @@ __multicast__
 __multicopter__ _n_ _Syn_ multirotor  
 __multifaceted__ _adj_ :two: Having many aspects. _Syn_ multifarious, many-sided _This is a multifaceted problem and cannot be solved by a singular approach._  
 __multifarious__ _adj_ :two: Having many aspects. Having great variety; diverse. _Syn_ multifaceted, many-sided _Multifarious interests._ _The multifarious noise of a great city._ _Syn_ multifaceted, many-sided, miscellaneous  
+__multigrain__ _adj_ Made with more than one kind of grain. Used especially of bread.  
 __multipronged__ _adj_  
 __multipurpose__ _n_ :two::dart: Designed or used for several purposes: _a multipurpose room; multipurpose software._ :es: polivalente  
 __multitude__  
@@ -12203,7 +12205,7 @@ __nibling__ _n_ Blend of nephew, niece + sibling, coined by the American linguis
 __niblings__ _n_ Plural of nibling. A gender-neutral term that encompasses both nieces and nephews.  
 __nicety__ _n_  
 __niche<sup>1</sup>__ _adj_ Of or pertaining to a market niche: _niche advertising._ _A niche market._  
-__niche<sup>2</sup>__ _n_ :four::mega::hammer: (nĭch, nēsh)  
+__niche<sup>2</sup>__ _n_ :six::hammer::mega: /nɪtʃ; niːʃ/ /nĭch, nēsh/  
 __nick<sup>1</sup>__ _n_ _In a nick of time._  
 __nick<sup>2</sup>__ _v_ _Marbles that we knicked from Greece._  
 __nickel__ _n_ _A nickel mine._  
@@ -12238,6 +12240,7 @@ __nimble__ _adj_ :seven: (nimbler, nimbly) __1__ Quick and light in movement or 
 __nimiety__ _n_ :two::astonished: Superfluity; excess. _Syn_ excess, surplus, surplusage  
 __nimrod__ _n_ :two: __1__ (also Nimrod) A hunter. __2__ _informal_ Idiot, jerk.  
 __ninja stars__  
+__ninnyhammer__ _n_ /ˈnɪnɪˌhæmə/ _US and Canadian_ A ninny. A fool; a simpleton.  
 __nip-and-tuck__  
 __nip<sup>1</sup>__ _v_ :six::hammer: (nipped, nipping) _Nip them in the bud._ _The Gaels were nipped at Washington._  
 __nip<sup>2</sup>__ _n_ :two: A small drink of spirits; dram. _There is a nip in the air._  
@@ -12280,6 +12283,7 @@ __noggin__ _n informal_ :two: __3__ A person’s head. _Syn_ bonce, dome
 __noir__ _adj_ _A noir novel._  
 __noise__ _n_ __5__ _informal_ __a__ A complaint or protest. __b__ Rumor; talk. __c__ (noises) Remarks or actions intended to convey a specific impression or to attract attention: _“The U.S. is making appropriately friendly noises to the new Socialist Government” (Flora Lewis)._ _There are some noises coming from the two sides._  
 __noisemaker__ _n_ /ˈnɔɪzˌmeɪ kər./ A person or thing that makes noise, esp. a rattle, horn, or other device used on festive occasions. _Whether they twirl noisemakers, blow up fireworks, or bang on pots and pans, people the world over often celebrate the new year by making a big racket._  
+__noisiness__ _n_  
 __noisome__ _adj_ /noi′səm/ __1__ Offensive to the point of arousing disgust; foul: _a noisome odor._ __2__ Harmful or dangerous: _noisome fumes._  
 __nom de guerre__  
 __nomad__ _n_ :mega:  
@@ -12319,6 +12323,7 @@ __nonpliable__ _adj_ Not pliable. _Nonpliable products._
 __nonplus<sup>1</sup>__ _v_ :three: To put at a loss as to what to think, say, or do. _Syn_ bewilder, dumbfound, flummox, baffl1, mystify, perplex, puzzle, stupefy, amaze, gravel, vex, pose, stick, beat, get _He was nonplussed by the sudden announcement that the company where he had worked for the past 20 years was declaring bankruptcy and shutting its doors._  
 __nonplus<sup>2</sup>__ _n_  
 __nonplussed__ _adj_ :five::pencil2::hammer: _His celebrations have nonplussed commentators._  
+__nonproductive__ _adj_ _She reports a mild non-productive cough._  
 __nonsense__ _n_ :two::hammer: _Nonsense!_ _Pure nonsense!_  
 __nonsensical__ _adj_ _Deadpan delivery of nonsensical jokes._  
 __nonsequitur__  
@@ -12406,7 +12411,7 @@ __nugget__ _n_ :four::dart: (nuggets) __2__ A small piece of information or advi
 __nuisance__  
 __nuke__ _v_ _slang_ :two: To heat or cook something in a microwave oven.  
 __nullify__ _v_ :six: (nullified) Declare invalid. _Syn_ annul, invalidate, void, quash, avoid _He used his broad executive powers to nullify decisions by local government._  
-__numb<sup>1</sup>__ _adj_ :four::mute:[num~~b~~]:hammer:  
+__numb<sup>1</sup>__ _adj_ :five::hammer::mega::mute:[num~~b~~]  
 __numb<sup>2</sup>__ _v_  
 __number<sup>1</sup>__ _n_ __6__ An indefinite quantity of units or individuals. _A number of people complained._ _Winning the first playoff game in the organization in a number of years was really special to all of us._  
 __number<sup>2</sup>__ _v_ :dart::two::hammer: (numbered) _I hope those days are numbered._ _His days are numbered as Vizier._  
@@ -12431,6 +12436,7 @@ __nut case__
 __nut__ _n_ _slang_ A crazy or strange person.  
 __nutation__ _n_ :two: __1__ The act or an instance of nodding the head.  
 __nutmeg__ _n_ :three::hammer: :es: nuez moscada  
+__nutria__ _n_  
 __nutriment__ _n_ A source of nourishment; food. _Syn_ sustenance, victuals, aliment, nourishment, nutrition _The animals’ habitat was destroyed in the storm, and they wandered the ravaged plains searching for nutriment._  
 __nutrition label__ _n_  
 __nutso__ _adj_ /ˈnʌtsəʊ/ _informal chiefly US_ Insane.  
@@ -12480,13 +12486,13 @@ __obsequious__ _adj_ :four: Characterized by or showing servile obedience and ex
 __obsequiously__  
 __obsidian__  
 __obstinate__ _adj_ :two::hammer: /AHB-stuh-nut/  
-__obstreperous__ _adj_ :six: __1__ Resisting control or restraint in a difficult manner; unruly. Noisily unruly or defiant: _The restaurant owner ejected the obstreperous customer._ __2__ Noisily and stubbornly defiant. _Syn_ unruly Noisy, clamorous, or boisterous. _Although the teacher ordered them to sit down, the obstreperous boys continued their antics._  
+__obstreperous__ _adj_ :seven: __1__ Resisting control or restraint in a difficult manner; unruly. Noisily unruly or defiant: _The restaurant owner ejected the obstreperous customer._ __2__ Noisily and stubbornly defiant. _Syn_ unruly Noisy, clamorous, or boisterous. _Although the teacher ordered them to sit down, the obstreperous boys continued their antics._  
 __obstreperousness__  
 __obtain__ _v_ /ub-TAYN/ /əbˈteɪn/  
 __obtrude<sup>1</sup>__ _vt_ :four: /uhb/ob-TROO/ [:scroll: From Latin obtrudere (to thrust at), from ob- (against) + trudere (to push)] To impose one’s ideas, opinions, etc. To impose (oneself or one’s ideas) on others with undue insistence or without invitation. _Syn_ push out, thrust out _He never hesitated to obtrude his opinion on others, believing that everyone must value what he had to say._  
 __obtrude<sup>2</sup>__ _vi_ To thrust forward or to intrude.  
 __obtrusive__ _adj_  
-__obtuse__ _adj_ /ahb-TOOSS/  
+__obtuse__ _adj_ :two: /ahb-TOOSS/ Stupid or unintelligent; not able to think clearly or to understand what is obvious or simple.  
 __obtuseness__  
 __obverse__ _n_ :two: __1__ The side of a coin, medal, or badge that bears the principal stamp or design. _The obverse hub of a coin._  
 __obviate__ _vt_ :two::astonished: [:scroll: From Latin obviare (to act contrary), from ob- (against) + via (way)] To anticipate and dispose of effectively;; to render unnecessary; to remove, avoid, or prevent. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
@@ -12532,6 +12538,7 @@ __off-color__ _adj_ :four: An off-color joke or remark is rude or offensive. _Of
 __off-guard__ _adj_ Not prepared or vigilant.  
 __off-hand__ _adv_  
 __off-key__ _adj, adv_ Varying in pitch from the proper tone of a melody.  
+__off-limits__ _adj_  
 __off-price stores__  
 __off-putting__ _adj_ :three::hammer:  
 __off-street__ _adj_ Located away from a street. _Off-street parking._  
@@ -12560,7 +12567,7 @@ __offshore__
 __oft__ _adv_ :three::hammer: _The oft-hated SAT._  
 __oft-shouting-sermon__  
 __often__ _adv_ :mute:[of~~t~~en]  
-__oftentimes__ _adv_ :six: Frequently; repeatedly.  
+__oftentimes__ _adv_ :seven: Frequently; repeatedly.  
 __ogle__ _v_ :three::hammer: (ogled)  
 __ogre__ _n_ :two::hammer:  
 __Ohioans__  
@@ -12693,13 +12700,14 @@ __opinionated__ _adj_ :five: Holding obstinately and unreasonably to one’s own
 __opossum__ _n_  
 __Oppie__ _n_ J. Robert Oppenheimer was known as “Oppie.” The nickname originated when he impressed his students in the Netherlands by giving lectures in Dutch, despite not being fluent in the language. This dedication and passion for teaching led to him being called “Opje,” which was later translated to “Oppie” and stuck as his nickname.  
 __oppo__ _n_ Short for opposition research. Damaging information about a political candidate that is gathered and used or made public usually by an opponent’s camp. _They are doing extensive oppo, looking over her public financial records, getting copies of her divorce papers’._  
+__opponent__ _adj, n_ :mega:  
 __opportune__ _adj_ /ˌɒp ərˈtun, -ˈtyun/ __1__ Suitable or convenient for a particular situation. _It is an opportune time to invest in the stock market._ __2__ Occurring at an appropriate time. _The book’s publication is opportune._  
 __opportunistic__  
 __opportunity__ _n_ /ˌɒp ərˈtu nɪ ti, -ˈtyu-/  
 __opposition__ _n_ :two::mega: /ˌɒp əˈzɪʃ ən/  
 __oppress__ _v_ Come down on or keep down by unjust use of one’s authority. _Syn_ crush, suppress  
 __opprobrious__ _adj_ Expressing contemptuous reproach; bringing disgrace. _Syn_ abusive, scornful, shameful, ignominious _His opprobrious conduct during an assembly earned him a series of Saturday detentions._  
-__opprobrium__ _n_ :three: Disgrace arising from exceedingly shameful conduct; ignominy. _Syn_ obloquy _The candidate’s racist comments attracted public opprobrium._  
+__opprobrium__ _n_ :four: /uh-PROH-bree-um/ Opprobrium refers to very strong disapproval or criticism of a person or thing especially by a large number of people. Disgrace arising from exceedingly shameful conduct; ignominy. _Syn_ obloquy _The candidate’s racist comments attracted public opprobrium._  
 __opt in__ _v_ _People opt in to send us their pressure data from their smartphones._  
 __opt out__ _v_  
 __opt__ _v_  
@@ -12749,6 +12757,7 @@ __orphan drug__ _n_ A drug that remains undeveloped or is neglected because of l
 __Orphean__ _adj_ /ˈɔːfɪən/ __1__ Of or relating to Orpheus. __2__ Melodious or enchanting.  
 __orphic__ _adj_ Having an import not apparent to the senses nor obvious to the intelligence; beyond ordinary understanding. _Syn_ occult, mysterious, mystical, secret _The orphic symbols on the tome could only be deciphered by the blind wizard._  
 __orphrery__  
+__ortanique__ _n_ [:scroll: From or(ange) + tan(gerine) + (un)ique]  
 __orthogonal__ _adj_ __2__ Not pertinent to the matter under consideration. _It would, said Aichele, but the whole discussion was orthogonal to the argument the petitioners had been making._  
 __orthography__ _n_ /or-THAH-gruh-fee/  
 __orthokeratology__  
@@ -12781,7 +12790,7 @@ __ottter__ _n_
 __ouboros__ _n_  
 __Ouija board__ _n_ :astonished: [:scroll: from French _oui_ yes + German _ja_ yes] _We were doing Ouija board and I asked what I was going to be._  
 __ounce__  
-__ouster__ _n_ :two::hammer:  
+__ouster__ _n_ three::hammer:  
 __out of hand__  
 __out of order__  
 __out of question__ _phr_ (prepositional phrase) Unquestionably.  
@@ -12793,9 +12802,10 @@ __out-of-pocket__
 __out-of-the-box__  
 __outage__ _n_ :five::hammer: _Power outages._  
 __outback__  
+__outbid__ _vt_  
 __outbound__ _adj_ :two::hammer: _Outbound trip._ _The latest trends in Chinese outbound tourism._  
 __outbox__ _n_  
-__outbreak__ _n_ :nine::astonished: (outbreaks) __1__ A sudden increase: _an outbreak of influenza._ __2__ A sudden eruption; an outburst: _“an outbreak of strikes, violent agitation, and arrests” (Samuel Chew)._  
+__outbreak__ _n_ :nine::m::astonished: (outbreaks) __1__ A sudden increase: _an outbreak of influenza._ __2__ A sudden eruption; an outburst: _“an outbreak of strikes, violent agitation, and arrests” (Samuel Chew)._  
 __outburst__ _n_ :four::hammer:  
 __outcast__ _n_  
 __outcaste__ _n_  
@@ -12840,7 +12850,7 @@ __outpatient__ _n_ :three::hammer:
 __outperform__ _vt_ :five::hammer:  
 __outplay__ _v_ :two::hammer: (outplayed)  
 __outpoint__ _v_ _Correa outpointed Lindor 124-109._  
-__outpost__ _n_ :three::hammer:  
+__outpost__ _n_ :four::hammer:  
 __outpour__ _v_ :two::hammer: (outpouring)  
 __outpouring__ _n_  
 __outrace__ _v_ _Her expenditures continued to outrace his gifts._  
@@ -12851,8 +12861,8 @@ __outré__ _adj_ :two: Passing the bounds of what is usual or considered proper;
 __outreach__ _n_ :six::hammer: _He’s an HIV outreach worker._ _Patient outreach._  
 __outrecuidance__ _n_ Excessive self-confidence or conceit.  
 __outriggers__  
-__outright<sup>1</sup>__ _adv_ :four::hammer:  
-__outright<sup>2</sup>__ _adj_ :three::hammer:  
+__outright<sup>1</sup>__ _adv_ :five::hammer:  
+__outright<sup>2</sup>__ _adj_ :four::hammer:  
 __outrun__ _v_ :two::hammer:  
 __outsell__ _vt_  
 __outset__ _n_ :eight::hammer: _The outset of his campaign._ _Designed at the outset._  
@@ -12873,6 +12883,7 @@ __outtakes__ _n_
 __outthink__ _v_  
 __outvouch__  
 __outwear__ _n_  
+__outweigh__ _v_  
 __outwit__ _v_ (outwitted)  
 __outwork__ _v_  
 __oval<sup>1</sup>__ _adj_ :two: Having the shape of an ellipse or ellipsoid. _Ford oval logo._  
@@ -12883,6 +12894,7 @@ __over-the-hill__ _adj_ :two: __1__ Past one’s prime. _I’m over-the-hill for
 __over-under__  
 __overachieve__  
 __overall__ _adj, adv_ :three::hammer:  
+__overalls__ _n pl_  
 __overarch__ _v_ :three::dart: (overarching) Be central or dominant. _This scene overarches the entire first act._  
 __overarching__ _adj_ :seven::hammer: _An overarching quality._ _An overarching principle._  
 __overbite__ _n_ :two::hammer:  
@@ -12894,7 +12906,7 @@ __overcomplicate__ _vt_
 __overcut__  
 __overdo__ _v_ :three::hammer: _Do not overdo caffeine._  
 __overdrive__ _n_ :three::hammer: _Cruising overdrive._ _It’s a 1984 Volvo DL, four speed with overdrive._  
-__overdue__ _adj_ _A resurgence in social homes is long overdue._  
+__overdue__ _adj_ :two: Not being on time. _Syn_ behindhand, belated, late, tardy _A resurgence in social homes is long overdue._  
 __overeducated__ _adj_ Having too much academic education; more educated than is practical or useful.  
 __overflight__  
 __overgrown__ _adj_ __1__ Covered with growing plants. __2__ Abounding in usually unwanted vegetation.  

@@ -98,31 +98,6 @@ __lekking__ _n_
 __levity__ _n_  
 __lickspittle__ _n_ (lickspit) A fawning subordinate; a suck-up. A fawning underling; a toady.  
 __macrocosm__ _n_  
-__maddening__ _adj_ Driving to madness or frenzy; exasperating: _All those delays are maddening._ _Syn_ exasperating, infuriating, vexing  
-__malinger__ _v_ To pretend to be ill or otherwise physically or mentally incapacitated so as to avoid duty or work.  
-__minute__ _adj_  
-__multigrain__ _adj_ Made with more than one kind of grain. Used especially of bread.  
-__niche__ _n_ :two::hammer::mega: /nɪtʃ; niːʃ/  
-__ninnyhammer__ _n_ /ˈnɪnɪˌhæmə/ _US and Canadian_ A ninny. A fool; a simpleton.  
-__noisiness__ _n_  
-__nonproductive__ _adj_ _She reports a mild non-productive cough._  
-__numb__ _adj_ :mega:  
-__nutria__ _n_  
-__obstreperous__ _adj_ Difficult to control and often noisy.  
-__obtuse__ _adj_ Stupid or unintelligent; not able to think clearly or to understand what is obvious or simple.  
-__off-limits__ _adj_  
-__oftentimes__  
-__opponent__ _adj, n_ :mega:  
-__opprobrium__ _n_ /uh-PROH-bree-um/ Opprobrium refers to very strong disapproval or criticism of a person or thing especially by a large number of people. _They’re going ahead with the plan despite public opprobrium._  
-__ortanique__ _n_ [:scroll: From or(ange) + tan(gerine) + (un)ique]  
-__ouster__ _n_  
-__outbid__ _vt_  
-__outbreak__ _n_  
-__outpost__ _n_  
-__outright__  
-__outweigh__ _v_  
-__overalls__ _n pl_  
-__overdue__ _adj_ Not being on time. _Syn_ behindhand, belated, late, tardy  
 __overstate__ _vt_  
 __pairing__ _n_ /ˈpɛərɪŋ/ __1__ Two people, esp sports players, actors, or musicians, who are working together as a pair. __2__ The action of putting two people together  
 __paling__ _n_ A fence made of upright pickets. _Syn_ picket fence  
