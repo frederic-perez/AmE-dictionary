@@ -17688,7 +17688,7 @@ __squeaker__ _n_ __2__ Something achieved (or escaped) by a narrow margin. _Syn_
 __squeaky__ _adj_ :three::hammer: _Squeaky cheese curds._  
 __squeaky-clean__ _adj informal_ __1__ Scrupulously clean. __2__ Virtuous; wholesome; above reproach.  
 __squeal__ _v_  
-__squeamish__ _adj_ :nine: Easily upset or disgusted by things or actions you find unpleasant: _Dad was squeamish about killing roaches._  
+__squeamish__ _adj_ :nine::m: Easily upset or disgusted by things or actions you find unpleasant: _Dad was squeamish about killing roaches._  
 __squeamishness__  
 __squeeze<sup>1</sup>__ _n_  
 __squeeze<sup>2</sup>__ _v_ :two::hammer:  
@@ -17719,6 +17719,7 @@ __stadium__ _n_ _A football stadium._
 __staff__ _n_ :four::astonished: __1__ A stick that some officials carry on formal occasions. _The shepherd’s staff._ __2__ The people who work for an organization. In American English, staff is usually followed by a singular verb: _The museum’s staff is composed of volunteers._ In British English, staff is usually followed by a plural verb: _The staff are against the idea._ __5__ _Music_ A set of horizontal lines and intermediate spaces used in notation to represent a sequence of pitches, in modern notation normally consisting of five lines and four spaces. Also called _stave_. _Music staff._  
 __staffed__ _v_  
 __staffer__ _n_ :six: A member of the staff of an organization, especially of a newspaper. _Staffers on the New York Times._ _White House staffers._ _Campaign staffer._  
+__staffing__ _n_ __1a__ The practice of employing or hiring employees.  
 __stag line__ _n_  
 __stag<sup>1</sup>__ _n_ :two::hammer: _I’m an old stag._  
 __stag<sup>2</sup>__ _adj_  
@@ -18246,7 +18247,7 @@ __substantive__ _adj_ :mega: /SUB-stun-tiv/
 __substation__  
 __subsume__ _vt_ :four::hammer:  
 __subterfuge__ _n_ :five: Subterfuge contains the Latin prefix _subter-_, meaning “secretly,” which derives from the adverb _subter_, meaning “underneath.” The _-fuge_ portion comes from the Latin verb _fugere_, which means “to flee.” __1__ Deception by artifice or stratagem in order to conceal, escape, or evade. __2__ A deceptive device or stratagem.  
-__subtle__ _adj_ :mega::four::mute:[su~~b~~tle]:hammer: :es: sutil  
+__subtle__ _adj_ :five::hammer::mega::mute:[su~~b~~tle] :es: sutil  
 __subtleties__ _n_  
 __subtract__ _v_ :pencil2: __1__ _Mathematics_ To calculate the difference between (two numbers or quantities) by subtraction. __2__ To remove (a part of a thing, quantity, etc) from the whole.  
 __subtraction__ _n_ :pencil2:  
@@ -18560,7 +18561,7 @@ __syrup__ _n_ _Maple syrup._
 __syrupy__ _adj_ :two: Cloyingly sweet or sentimental. _Syn_ saccharine, treacly _I can appreciate a sentimental or romantic film, but syrupy “chick flicks” are another thing altogether._  
 __systemic__ _adj_ :three::hammer:  
 __systems hardening__ _n_ The process of securing a server or computer system by minimizing its attack surface, or surface of vulnerability, and potential attack vectors.  
-__syzygy__ _n_ :two::hammer:  
+__syzygy__ _n_ :three::hammer:  
 __T-ball__  
 __T&A__  
 __tab<sup>1</sup>__ _n_ :seven: __1__ _informal_ __a__ A bill or check, such as one for a meal in a restaurant. A restaurant bill. A bill, especially for meals or drinks. _Bar tabs._ _The tab is $1,000 per person._ _The waiter brought three drinks and a new tab._ _Syn_ bill, invoice, account, statement, note/list of charges, charge __b__ Cost; price: _The tab for upgrading the computers would be high._ _The company will pick up the tab for any moving expenses._ __2__ A tally of items ordered in a bar or restaurant. _Bobby had told the barman to put everything on the tab._  
@@ -18826,7 +18827,7 @@ __telly__ _n_ :dart:
 __temerity__ _n_ :three: /tuh-MAIR-uh-tee/ Excessive boldness or rashness; foolhardiness or recklessness. _Syn_ audaciousness, audacity _Everyone was shocked at her temerity in addressing the king in such a manner._  
 __temp<sup>1</sup>__ _n_ :two: (temps) __1__ A temporary worker, as in an office. __2__ Temperature. _Subzero temps._ _Temps dropped into the 30s._  
 __temp<sup>2</sup>__ _adj_ :two::hammer: _A temp job._ _A temp agency._  
-__temper<sup>1</sup>__ _vt_ :nine: /ˈtɛmpə/ __1__ To moderate: _to temper justice with mercy._ __2__ To soften or tone down. __3__ To make suitable by or as if by blending. __4__ To work into proper consistency, as clay or mortar. __5__ To impart strength or toughness to (steel or cast iron) by heating and cooling. __6__ To tune (a keyboard instrument) so as to make the tones available in different keys or tonalities.  
+__temper<sup>1</sup>__ _vt_ :nine::m: /ˈtɛmpə/ __1__ To moderate: _to temper justice with mercy._ __2__ To soften or tone down. __3__ To make suitable by or as if by blending. __4__ To work into proper consistency, as clay or mortar. __5__ To impart strength or toughness to (steel or cast iron) by heating and cooling. __6__ To tune (a keyboard instrument) so as to make the tones available in different keys or tonalities.  
 __temper<sup>2</sup>__ _vi_ To be or become tempered.  
 __tempera__ _n_  
 __temperament__  
@@ -18952,7 +18953,7 @@ __theosophy__
 __there is no denying__  
 __thereabout__ _adv_ :two::hammer:  
 __thereafter__ _adv_ _Texas took the lead on Javan Felix’s two free throws shortly thereafter._  
-__thereby__ _adv_ :two::hammer:  
+__thereby__ _adv_ :three::hammer:  
 __thereof__ _adv_ :two::hammer:  
 __thereto__ _adv_ _Pushed thereto by the nobles of his party._  
 __thermistor__ _n_ :two::hammer:  
@@ -19023,10 +19024,12 @@ __throes__ _n pl_ :six: A condition of extreme difficulty or trouble: _a country
 __thrombectomy__ _n_ Surgery to remove a blood clot.  
 __thrombocytopenia__ _n_  
 __thromboembolism__ _n_  
+__thrombosis__  
 __throng__ _n_ :eight: A large gathering of people. _A throng of news media members._  
 __throttle__ _v_ :four::hammer: _Most work has focused on throttling throughput._ __3__ To strangle (a person); choke. (throttling) _Throttling the Philadelphia Eagles._  
 __through__ _adj, adv, prep_ :seven::mute:[throu~~gh~~] As an adjective, through means finished or done. As an adverb it can mean backward and forward, completely, up to and including, or all the way to the end. The preposition through means in and out of. _Its current show runs through July 9._ _An exhibition works on display through July 8._ _“The Rat Pack” musical, through July 14._ _“Macbeth.” July 5 through 15._ _Extreme heat and humidity will scorch parts of the central U.S. through the weekend._ _Listing 2 through Listing 5 show the result of splitting the code in Listing 1 into smaller classes and functions._ __4__ _prep_ _chiefly US_ Up to and including: _Monday through Friday._ _The meeting takes place from today through Thursday._  
 __throughfare__ _n_ Another word for thoroughfare.  
+__throughout__ _adv, prep_  
 __throughput__ _n_ :two::mega: /ˈθruːˌpʊt/ Output or production, as of a computer program, over a period of time.  
 __throw a monkey off his back__  
 __throw down<sup>1</sup>__ _v_  
@@ -19047,7 +19050,7 @@ __thud<sup>2</sup>__ _v_ (thudding)
 __thug__ _n_ :three: A tough and violent man, esp a criminal.  
 __thumb tacks__  
 __thumb war__  
-__thumb<sup>1</sup>__ _n_ :mute:[thum~~b~~]  
+__thumb<sup>1</sup>__ _n_ :two::hammer::mega::mute:[thum~~b~~]  
 __thumb<sup>2</sup>__ _v_ :four::astonished::mute:[thum~~b~~]:hammer: _He took a seat and thumbed through the Sporting News._ _Thumb through the magazine._  
 __thumbnail__ _n_ __2__ Concise and brief. _Here’s a thumbnail of the story._  
 __thumbsucker__ _n_ /THUHM-suhk-uhr/ __1__ Someone who likes to suck their thumb. __2__ A journalistic piece that deals with the background and interpretation of events instead of hard news.  
@@ -19218,7 +19221,7 @@ __toady<sup>2</sup>__ _v_
 __toast > French toast__  
 __toast__ _adj_ :two::hammer: _I’m just toast every day._ _A champagne toast._  
 __toaster oven__ _n_ _He keeps frozen pizzas that can be heat in his toaster oven._  
-__toastmaster__ _n_ A person who presides at a dinner and introduces the after-dinner speakers.  
+__toastmaster__ _n_ :two: A person who presides at a dinner and introduces the after-dinner speakers.  
 __toboggan<sup>1</sup>__ _n_ :two::hammer:  
 __toboggan<sup>2</sup>__ _vi_  
 __tobogganer__  
@@ -19241,6 +19244,7 @@ __toilet bowl__ _n_ :two: The bowl of a toilet that can be flushed with water.
 __toilet stool__  
 __toilet training__ _n_ The training of a very young child to control bowel and bladder movements and use the toilet.  
 __toiletries__  
+__tokamak__ _n_  
 __Tokyoites__  
 __tolerant__  
 __tolerate__ _v_  
@@ -19252,7 +19256,7 @@ __Tom and Jerry__ _n_ A hot drink consisting of rum or another liquor, a beaten 
 __Tom Thumb__ _n_ __1__ A diminutive hero of folk tales. __2__ An extremely small person; dwarf.  
 __tom__ _n_ __1a__ The male of various animals, esp the cat. __b__ (as modifier): _a tom turkey._ __c__ (in combination): a _tomcat._  
 __tomahawk__ _n_ /ˈtɒm əˌhɔk/ [:scroll: C17: from Virginia Algonquian _tamahaac_]  
-__tomb__ _n_ :mute:[tom~~b~~]  
+__tomb__ _n_ :two::hammer::mega::mute:[tom~~b~~]  
 __tombola__ _n_ _The green fingered young lady of the house runs a great tombola._  
 __tomboy__ _n_ :two: A girl who behaves in a way that is perceived to be stereotypically boyish or masculine.  
 __tombstone__ _n_  
@@ -19445,7 +19449,7 @@ __transient<sup>2</sup>__ _n_
 __transition__ _vi_ (of a transgender person): To come to live in accordance with one’s gender identity through a process that involves changes to one’s appearance and presentation often with the aid of medical procedures and therapies.  
 __translate__ _v_ _That doesn’t always translate, believe me._  
 __translational__ _n_ __2__ In science, of or relating to the application of basic or theoretical discoveries to the development of practical applications: _translational research._  
-__translucent__ _adj_  
+__translucent__ _adj_ :two::hammer: /trans-LOO-sunt/  
 __transmogrify__ _v_ :two: /transs-MAH-gruh-fye/ To change something significantly and often with humorous or jarring effect. Change completely the nature or appearance of. _Syn_ metamorphose, transfigure _In Franz Kafka’s story_ The Metamorphosis _, a human being transmogrifies into a bug._ _If all goes as planned, the school’s gym will be transmogrified into a spooky gallery of Halloween delights._  
 __transom__ _n_ :two::hammer:  
 __transparent__ _adj_ :mega:  
@@ -19477,6 +19481,7 @@ __treacherous__ _adj_ :four: /ˈtrɛtʃ ər əs/ __1__ Betraying or likely to be
 __treachery__ _n_ :five::hammer: _Navarre preferred guile and treachery._  
 __treacle__  
 __treacly__ _adj_ :two: Cloyingly sweet or sentimental.  
+__tread__ _n_ :mega:  
 __treading__  
 __treasure chest__ _n_ A large box that is filled with gold, silver, jewels, etc.—often used figuratively. _A treasure chest of locally owned businesses._  
 __treasure trove__ _n_ :three::hammer: _Portland’s downtown is a treasure trove of architectural gems._  
@@ -19658,6 +19663,7 @@ __tumblebug__
 __tumbledown__ _adj_  
 __tumbler__ _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2a__ :two: A drinking glass, originally with a rounded bottom. __b__ A flat-bottomed glass having no handle, foot, or stem. __c__ :two: The contents of such a drinking glass: _a tumbler of beer_  
 __tumbleweed__ _n_  
+__tummler__ _n_  
 __tumuli__ _n pl_ Plural of tumulus (an artificial mound, esp. over a grave; barrow.).  
 __tumult__ _n_ :two: Violent and noisy commotion or disturbance of a crowd or mob. _Syn_ garboil, uproar  
 __tumultuous__ _adj_ :two::hammer:  
@@ -19667,11 +19673,12 @@ __tuneful__ _adj_ __1__ Having a pleasant or catchy tune; melodious. __2__ Produ
 __tunesmith__ _n_ _informal_ A person who composes popular music or songs.  
 __tunic__ _n_ :two::hammer: __1__ A coat worn as part of a military or other uniform.  
 __tuning fork__  
+__tuning__ _n_ /ˈtjuːnɪŋ/  
 __tunnel vision__ _n_ :two::hammer:  
 __tuple__ _n_ :mega:  
 __tuppence__  
 __turbid__ _adj_ :two::hammer: /TER-bid/  
-__turbocharge__ _vt_ :dart::two: __1__ To equip with a turbocharger. __2__ _informal_ To improve dramatically the performance or quality of. To speed up; accelerate.  
+__turbocharge__ _vt_ :dart::three: __1__ To equip with a turbocharger. __2__ _informal_ To improve dramatically the performance or quality of. To speed up; accelerate.  
 __turducken__ _n_ :three: [:scroll: from tur(key) + du(ck) + (chi)cken] A dish consisting of a deboned chicken stuffed into a deboned duck, further stuffed into a deboned turkey. Outside of the United States and Canada, it is known as a three-bird roast.  
 __tureen__ _n_ :es: sopera _Soup tureens._  
 __turgid__ _adj_ :four: Excessively ornate or complex in style or language. _Syn_ bombastic, declamatory, orotund, tumid, large _Growing impatient with the politician’s turgid prose, she turned off her television._  
@@ -19865,7 +19872,7 @@ __undermine__ _vt_ :nine::m: /ˌʌndəˈmaɪn/ (undermined) __1__ To weaken by w
 __underpin__ _vt_ :nine: __1__ To support from below, as with props, girders, or masonry. __2__ To give support or substance to: _assumptions that underpinned their claims._  
 __underpinning__ _n_ :five::hammer:  
 __underprivileged__  
-__underrated__ _adj_ :pencil2: Underestimated.  
+__underrated__ _adj_ :two::pencil2: /ˌʌndəˈreɪtɪd/ Underestimated.  
 __underscore__ _v_ :six: (underscored, underscoring) Give extra weight to (a communication). _Syn_ emphasize _When I gave my son permission to attend the party, I made sure to underscore my willingness to ground him for life should he let a mere drop of alcohol touch his lips._  
 __undersecretary__  
 __understandably__ _adv_ :two::hammer:  
@@ -19923,7 +19930,7 @@ __ungainly__ _adj_ :two: __1__ Lacking grace or ease of movement or form; clumsy
 __ungird__ _v_ (ungirded) _The Church ungirded him of the knightly belt._  
 __ungodly__ _adj_  
 __ungulate<sup>1</sup>__ _adj_ :two::hammer:  
-__ungulate<sup>2</sup>__ _n_ A hoofed mammal.  
+__ungulate<sup>2</sup>__ _n_ :two: A hoofed mammal.  
 __unharness__ _v_  
 __unheeded__ _adj_ :dart::two: /ʌnˈhiːdɪd/ Noticed or heard but disregarded.  
 __unheralded__ _adj_ :two::hammer:  
@@ -20253,6 +20260,7 @@ __venture<sup>1</sup>__ _n_
 __venture<sup>2</sup>__ _v_ __2__ Put forward, of a guess, in spite of possible refutation. _Syn_ hazard, guess, pretend  
 __venue__ _n_ :two::hammer: _What’s the venue?_  
 __Venus flytrap__ _n_ :camera::two::hammer:  
+__Venust__ _adj_ Beautiful, graceful, elegant.  
 __veracity__ _n_  
 __veranda__ _n_ :five: A roofed platform along the outside of a house, level with the ground floor. _Syn_ porch, gallery, balcony, lanai, sun porch, stoop _We’ll have our coffee on the veranda._  
 __verbally__  
@@ -20270,6 +20278,7 @@ __verigreen__ _n_ A simple or gullible person.
 __verisimilitude__ _n_ :three: The quality of appearing to be true or real. _Syn_ vraisemblance _While recounting the preposterous tale, he threw in a few convincing details to add verisimilitude to the narrative._  
 __verismo__  
 __veritable__ _adj_ :two::hammer:  
+__verklempt__  
 __vermeil__ _adj, n_  
 __vermicelli__  
 __vermillion__  
@@ -20729,7 +20738,7 @@ __whim__ _n_ :two::hammer:
 __whimper<sup>1</sup>__ _v_ :five: /ˈwɪmpə/ (whimpering) Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan _A child in a bed nearby began to whimper._  
 __whimper<sup>2</sup>__ _n_ :two: A low, broken, sobbing sound; a whine. _She gave a little whimper of protest._ :es: sollozo  
 __whimsical__ _adj_ :astonished::three: /WIM-zih-kul/ __1__ Characterized by, arising from, or subject to whimsy: _a whimsical decision._ __2__ Playful or fanciful, especially in a humorous way.  
-__whinge<sup>1</sup>__ _vi_ :two: /whinj/ _British English_ To keep complaining in an annoying way. To complain or protest, especially in an annoying or persistent manner.  
+__whinge<sup>1</sup>__ _vi_ :three: /whinj/ _British English_ To keep complaining in an annoying way. To complain or protest, especially in an annoying or persistent manner.  
 __whinge<sup>2</sup>__ _n_ A whine or complaint.  
 __whinnied__ _v_  
 __whip up__ _phr v_ :two: To make food or a meal very quickly and easily.  

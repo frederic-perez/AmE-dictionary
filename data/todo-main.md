@@ -198,31 +198,6 @@ __shoestring__ _n_ (shoe string) Marked by or consisting of a small amount of mo
 __snot__  
 __snotter__ _v_ To breathe noisily.  
 __specious__ _adj_ /ˈspiːʃəs/  
-__squeamish__  
-__staffing__ _n_ __1a__ The practice of employing or hiring employees.  
-__steadfast__  
-__stringent__ _adj_  
-__subtle__ _adj_ :mega:  
-__syzygy__ _n_  
-__temper__ _v_  
-__thereby__  
-__thrombosis__  
-__throughout__ _adv, prep_  
-__thumb__ _n_ :mega:  
-__toastmaster__ _n_  
-__tokamak__ _n_  
-__tomb__ _n_ :mega:  
-__translucent__ _adj_ /trans-LOO-sunt/  
-__tread__ _n_ :mega:  
-__tummler__ _n_  
-__tuning__ _n_ /ˈtjuːnɪŋ/  
-__turbocharge__ _v_ __2__ _informal_ To improve dramatically the performance or quality of.  
-__underrated__ _adj_ /ˌʌndəˈreɪtɪd/ Underestimated.  
-__ungulate__ _n_  
-__uptick__ _n_  
-__Venust__ _adj_ Beautiful, graceful, elegant.  
-__verklempt__  
-__whinge__ _v_ To complain in an annoying way.  
 __whizzer__ _adj_ Something notable of its kind: such as an outstandingly attractive or able person.  
 __whopping__ _adj, adv_  
 __whopping<sup>1</sup>__ _adj_ _informal_ Exceptionally large: _“yet another whopping pay raise” (Lee Atwater)._  
