@@ -1,8 +1,15 @@
+__anaconda__ _n_  
+__benchmarking__ _n_  
 __berate__ _vt_  
 __cannabidiol__ _n_ (CBD) A cannabinoid found in cannabis. _It calms us like a CBD gummy before bed._  
+__carbon footprint__ _n_ _Pills have a lesser carbon footprint than equivalent liquid medications._  
 __cinch__ _n_  
+__clerking__ _n_ The activity of recording business transactions. _Syn_ bookkeeping  
+__cosplay__ _n, v_  
 __downright__ _adj, adv_  
+__downsample__ _v_  
 __emote__ _vi_  
+__epoch__ _n_ /ˈɛp ək; _esp. Brit._ ˈi pɒk/  
 __era__ _n_  
 __etcetera__ _n_ :mega: /et-SET-uh-ruh/  
 __etceteras__ _n pl_ Unspecified additional items. _Syn_ odds and ends  
@@ -15,6 +22,7 @@ __ex-con__ _n informal_ A former prisoner.
 __exacerbation__ _n_  
 __exhilarating__ _adj_ /ɪɡˈzɪləˌreɪtɪŋ/  
 __expire__ _v_  
+__familial__ _adj_ _The genetic link must be familial._  
 __fast<sup>1</sup>__ _adv_  
 __fast<sup>2</sup>__ _vi_ __1__ To abstain from food. __2__ To eat very little or abstain from certain foods, especially as a religious discipline.  
 __fatuous__ _adj_ Silly or stupid; complacently or inanely foolish.  
@@ -22,21 +30,25 @@ __firearm__ _n_
 __fissure__ _n_  
 __flammable__ _adj_ _Syn_ Inflammable.  
 __flehmen__ _n_ :camera: /ˈfleɪmən/ A curling of the upper lip and raising of the head in certain mammals in response to olfactory stimuli, which behaviour allows the scents better to reach an olfactory organ deep within the animal’s nose.  
+__flop__ _v_ __3__ _informal_ To fail utterly: _The play flopped._  
 __flywheel__ _n_  
 __form factor__  
 __foul__ _adj_  
 __foundational__ _adj_  
+__frayed__ _adj_ __2__ (of temper, nerves, patience, etc) Under great strain.  
 __fresh__ _adj_ _Fresh sanctions._  
 __front-runner__ _n_ (frontrunner)  
 __frostbite__ _n_ :es: congelación  
 __fulgurant__ _adj_ /FUHL/FULL-guh-ruhnt/ __1__ Flashing like lightning. __2__ Brilliant.  
 __gatekeep__ _v_  
 __gatekeeper__ _n_  
+__gauge__ _v_  
 __gazillion__  
 __generic name__ _n_  
 __genre__ _n_  
 __gibberish__ _n_  
 __gibe__ _n, v_ (jibe)  
+__glean__ _v_ :es: espigar; recoger  
 __global boiling__ _n_  
 __globetrotter__ _n_  
 __gloss__ _n_  
@@ -72,6 +84,7 @@ __impeachment__
 __incalescent__  
 __incarcerate__ _vt_ /ɪnˈkɑr səˌreɪt/  
 __incarceration__ _n_ The act of imprisoning someone or the state of being imprisoned.  
+__inflamed__ _adj_ /ɪnˈfleɪmd/ Swollen, red, and painful as a result of disease or injury.  
 __ingurgitate__ _v_ To swallow greedily or in excessive amounts; gulp.  
 __insipid__ _adj_ __2__ Lacking qualities that excite, stimulate, or interest; dull.  
 __intern__ _v_ To confine or impound especially during a war.  
@@ -79,14 +92,17 @@ __internment__ _n_ The act of interning someone or the state of being interned.
 __interventional cardiology__ _n_ Branch of cardiology that deals specifically with the catheter based treatment of structural heart diseases.  
 __inveterate__ _adj_ /in-VET-uh-rut/  
 __irk__ _vt_ /ɜrk/ To irritate, annoy, or exasperate.  
+__ischemia__ _n_  
 __jalopy__  
 __jeer__ _n, v_  
 __jellyfish__ _n_ :es: medusa  
 __jeopardy__ _n_ /JEP-er-dee/  
 __juvenile__ _adj, n_  
+__kinda__ _adv_ _informal_  
 __kingpin__ _n_ __1a__ The innermost or central pin in an arrangement of bowling pins. __b__ Headpin. __2__ The most important person or element in an enterprise or system.  
 __kismet__ _n_ :two: Fate; destiny.  
 __kudo__ _n_  
+__labradoodle__ _n_ A cross between a Labrador retriever and a poodle.  
 __lachrymose__ _adj_ /ˈlæk rəˌmoʊs/  
 __lamb__ _n_ :mega:  
 __lampoon__ _v_ /lam-POON/  
@@ -95,9 +111,14 @@ __lead__ _n_ :mega:
 __leap year__ _n_  
 __lek__ _n_  
 __lekking__ _n_  
+__lemming__ _n_  
 __levity__ _n_  
 __lickspittle__ _n_ (lickspit) A fawning subordinate; a suck-up. A fawning underling; a toady.  
 __macrocosm__ _n_  
+__mogul__ _n_ __1__ A very rich or powerful person; a magnate.  
+__monocyte__ _n_  
+__nonetheless__  
+__outright__  
 __overstate__ _vt_  
 __pairing__ _n_ /ˈpɛərɪŋ/ __1__ Two people, esp sports players, actors, or musicians, who are working together as a pair. __2__ The action of putting two people together  
 __paling__ _n_ A fence made of upright pickets. _Syn_ picket fence  
@@ -165,10 +186,13 @@ __rife__ _adj_
 __rigorous__ _adj_  
 __ringleader__ _n_ /ˈrɪŋˌliːdə/ A person who leads others in any kind of unlawful or mischievous activity. :es: cabecilla  
 __roadblock__ _n_  
+__roadster__ _n_  
 __robocall__ _n_  
 __roughneck__ _n_ A cruel and brutal fellow. _Syn_ yobo, bully, hooligan, rowdy, ruffian, yob, tough  
 __rue<sup>1</sup>__ _v_  
 __rue<sup>2</sup>__ _n_ /roo/ __1__ Sorrow; repentance; regret. __2__ Pity or compassion.  
+__schema__  
+__scheme__  
 __screeve__ _v_ To write (as a letter) in order to beg.  
 __shoestring__ _n_ (shoe string) Marked by or consisting of a small amount of money.  
 __snot__  
@@ -177,9 +201,13 @@ __specious__ _adj_ /ˈspiːʃəs/
 __squeamish__  
 __staffing__ _n_ __1a__ The practice of employing or hiring employees.  
 __steadfast__  
+__stringent__ _adj_  
 __subtle__ _adj_ :mega:  
 __syzygy__ _n_  
 __temper__ _v_  
+__thereby__  
+__thrombosis__  
+__throughout__ _adv, prep_  
 __thumb__ _n_ :mega:  
 __toastmaster__ _n_  
 __tokamak__ _n_  
@@ -187,6 +215,9 @@ __tomb__ _n_ :mega:
 __translucent__ _adj_ /trans-LOO-sunt/  
 __tread__ _n_ :mega:  
 __tummler__ _n_  
+__tuning__ _n_ /ˈtjuːnɪŋ/  
+__turbocharge__ _v_ __2__ _informal_ To improve dramatically the performance or quality of.  
+__underrated__ _adj_ /ˌʌndəˈreɪtɪd/ Underestimated.  
 __ungulate__ _n_  
 __uptick__ _n_  
 __Venust__ _adj_ Beautiful, graceful, elegant.  
