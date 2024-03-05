@@ -16709,7 +16709,7 @@ __shrunken head__ _n_
 __shtick__ _n_ :three: (also shtik) _slang_ A show-business routine or piece of business inserted to gain a laugh or draw attention to oneself. :es: numerito  
 __shtup__ _v_  
 __shuck<sup>1</sup>__ _n_  
-__shuck<sup>2</sup>__ _vt_ :nine::hammer: (shucked, shucking) _I know when you’re shuckin’ and jivin’ me._ _Portraits of a man shucking corn._  
+__shuck<sup>2</sup>__ _vt_ :nine: __1a__ To remove the husk or shell from: _shuck corn._ __b__ To open the shell of (a bivalve): _shuck oysters._ __2__ _informal_ To cast off: _shucked their coats and cooled off; a city trying to shuck a sooty image._ __3__ In James Ellroy’s novels, the verb _shuck_ is used to convey the idea of something being deceptive or fraudulent. It is associated with the concept of ideology being portrayed as a sham or a trick to deceive others. _I know when you’re shuckin’ and jivin’ me._  
 __shudder__ _vi_ :five::hammer: (shudders, shuddered)  
 __shudderings__ _n_  
 __shuffle off__  
@@ -17461,7 +17461,7 @@ __sparklers__ _n_
 __sparred__ _v_  
 __spars__ _n_  
 __spastic__  
-__spat__ _n_ :nine::m::hammer: __1__ A brief quarrel. _This spat demonstrated that Rogozin is trying to prove that he’s set to revamping the industry._ _Public spat._ _In a spat over an arrest._  
+__spat__ _n_ :nine::m: __1__ A brief quarrel. _This spat demonstrated that Rogozin is trying to prove that he’s set to revamping the industry._ _Public spat._ _In a spat over an arrest._ __2__ _informal_ A light blow; slap; smack. __3__ A spattering sound, as of raindrops.  
 __spate__ _n_ :nine: /speɪt/ A large number of similar things coming in quick succession. _Syn_ series, succession, run _A spate af hate speech._ _A spate of cross-border attacks._ _A warm spate of blood ran from his nostrils._  
 __spatiotemporal__ _adj_  
 __spatter__ _n_  
@@ -19543,7 +19543,7 @@ __trickle down__ _v_ :four: To pass from high-ranked people to lower-ranked peop
 __trickle out__ _v_ :two::hammer: _Walmart kept a very limited supply in stock that it trickle out in online flash sales over the last two weeks._  
 __trickle-down__ _adj_ :nine: (trickle-down theory) __1__ Describing the theory that financial benefits given to the wealthy will somehow be passed down to the poor. _Trickle-down economics._ _Trickle-down tax cut._ __2__ That flows, especially in limited quantity, from the highly placed to others. _Trickle-down racism._ _A trickle-down effect._ _A trickle of sweat._  
 __trickle<sup>1</sup>__ _n_ :nine::m: __1__ A small group or number of people or things moving slowly. _A trickle of customers._ :es: goteo, reguero __2__ Come or go slowly or gradually. _She trickle out, shocking friends and connections in the sports world._ _A trickle of electricity._ _A trickle of sunlight._  
-__trickle<sup>2</sup>__ _v_ :nine::hammer: _The money trickled in._  
+__trickle<sup>2</sup>__ _v_ :nine: __1__ _vi_ To flow or fall by drops, or in a small, gentle stream: _Tears trickled down her cheeks._ __2__ _vi_ To come, go, or pass bit by bit, slowly, or irregularly: _The guests trickled out of the room._ _The money trickled in._ __3__ _vt_ To cause to trickle.  
 __trickster__ _n_ One that swindles or plays tricks. Someone who uses dishonest methods to get what they want. _Trickster hero._  
 __tricksy__  
 __tried-and-true__ _adj_ Tested and proved to be worthy or good.  
@@ -19770,7 +19770,7 @@ __twist__ _n_ :four::hammer: _An innovative twist._ _I’ll have my vodka martin
 __twister__ _n_ __3__ _informal_ A tornado or cyclone.  
 __twit__ _n_ _The damned last boy was a twit._  
 __twitch<sup>1</sup>__ _n_ :two::hammer: _That wad a beautiful last twitch._  
-__twitch<sup>2</sup>__ _v_ :nine::hammer: (twitched) _The curtain was twitched._ _A curtain twitched in the house next door._  
+__twitch<sup>2</sup>__ _v_ :nine: __1__ _vt_ To draw, pull, or move suddenly and sharply; jerk: _I twitched my fishing line._ _The curtain was twitched._ __2__ _vi_ To move jerkily or spasmodically. _A curtain twitched in the house next door._ __3__ _vi_ To ache sharply from time to time; twinge.  
 __twitchy__ _adj_ :two: __1__ Nervous, worried, and ill-at-ease: _he was twitchy with anticipation._ _Syn_ edgy, fidgety, jittery, jumpy, nervous, restive, restless, skittish, tense, uptight, a bundle of nerves, all wound up, on edge __2__ Characterized by jerky or spasmodic motion: _a cat’s twitchy whiskers._  
 __two__ _adj, n_ :mute:[t~~w~~o]  
 __two-dimensional__ _adj_ :astonished: Lacking the expected range or depth. _Syn_ flat _The actress’s two-dimensional performance was especially disappointing given the emotional complexity of the character she was playing._  
@@ -19931,7 +19931,7 @@ __unfettered__ _adj_ :nine::m: /ʌnˈfɛtəd/ /un-FET-erd/ Not kept under retrai
 __unflagging__ _adj_ :two::hammer:  
 __unflappable__ _adj_ :seven::hammer: _Jim was unflappable._ _Unflappable team._  
 __unflinching__ _adj_ :three: Showing neither fear nor indecision; resolute. _Syn_ unintimidated, unshrinking, unblinking  
-__unfold__ _v_ :nine::hammer: __2__ To reveal or be revealed: _the truth unfolds._ _Mysteries unfold._  
+__unfold__ _v_ :nine: __1__ To open or spread out or be opened or spread out from a folded state. __2__ To reveal or be revealed: _the truth unfolds._ _Mysteries unfold._ __3__ To develop or expand or be developed or expanded.  
 __unforeseen__ _adj_ _Unforeseen difficulties._  
 __unforgiving__ _adj_  
 __unfrock__ _v_ To deprive of ecclesiastical rank, authority, and function; depose: _an unfrocked priest._  
@@ -20617,7 +20617,7 @@ __weal__ _n_ :two: /WEEL/ Weal is a somewhat old-fashioned word that refers to �
 __wealth__ _n_ :five::dart::hammer: _It creates a wealth of fresh energy._ _A wealth of information._ _They were furnished with a wealth of new information._ _A wealth of new data._ _A wealth of untapped data resources._  
 __wean off__ _phr v_ To slowly stop a dependency on something.  
 __wean__ _v_ :nine::m: (weaned, weaning) __1__ To accustom (the young of a mammal) to take nourishment other than by suckling. :es: destetar __2__ To detach from that to which one is strongly habituated or devoted: _She weaned herself from cigarettes._ __3__ To accustom to or familiarize with something from, or as if from, childhood. Often used with _on_. _A brilliant student weaned on the classics._  
-__weaponize__ _v_ :nine::hammer:  
+__weaponize__ _v_ :nine: To adapt for use as a weapon of war; to make something suitable for use to harm somebody or to damage something. _They may have weaponized quantities of anthrax._  
 __weaponsmith__ _n_  
 __wearily__  
 __weary__ _adj_ :three::hammer:  
@@ -20996,8 +20996,8 @@ __womb__ _n_ :mute:[wom~~b~~] __1__ The nontechnical name for uterus.
 __women__ _n_ :two::mega: /ˈwɪmɪn/  
 __womenfolk__  
 __wonderland__ _n_ :two::hammer:  
-__wondrous<sup>1</sup>__ _adj_ :nine::hammer:  
-__wondrous<sup>2</sup>__ _adv_ (intensifier): it is wondrous cold.  
+__wondrous<sup>1</sup>__ _adj_ :nine: Remarkable or extraordinary; wonderful.  
+__wondrous<sup>2</sup>__ _adv_ (intensifier): _it is wondrous cold._  
 __wondrously__  
 __wonk__ _n_ :three::hammer: _An economic wonk._ _A telegenic policy wonk._  
 __wonky__ _adj_ :three::hammer:  
