@@ -98,31 +98,6 @@ __jeer__ _n, v_
 __jellyfish__ _n_ :es: medusa  
 __jeopardy__ _n_ /JEP-er-dee/  
 __juvenile__ _adj, n_  
-__kinda__ _adv_ _informal_  
-__kingpin__ _n_ __1a__ The innermost or central pin in an arrangement of bowling pins. __b__ Headpin. __2__ The most important person or element in an enterprise or system.  
-__kismet__ _n_ :two: Fate; destiny.  
-__kudo__ _n_  
-__labradoodle__ _n_ A cross between a Labrador retriever and a poodle.  
-__lachrymose__ _adj_ /ˈlæk rəˌmoʊs/  
-__lamb__ _n_ :mega:  
-__lampoon__ _v_ /lam-POON/  
-__lavabo__ _n_ A basin for washing the hands. _Syn_ handbasin, washbasin, washbowl _The priest washed his hands in the metal lavabo before saying Mass._  
-__lead__ _n_ :mega:  
-__leap year__ _n_  
-__lek__ _n_  
-__lekking__ _n_  
-__lemming__ _n_  
-__levity__ _n_  
-__lickspittle__ _n_ (lickspit) A fawning subordinate; a suck-up. A fawning underling; a toady.  
-__macrocosm__ _n_  
-__mogul__ _n_ __1__ A very rich or powerful person; a magnate.  
-__monocyte__ _n_  
-__nonetheless__  
-__outright__  
-__overstate__ _vt_  
-__pairing__ _n_ /ˈpɛərɪŋ/ __1__ Two people, esp sports players, actors, or musicians, who are working together as a pair. __2__ The action of putting two people together  
-__paling__ _n_ A fence made of upright pickets. _Syn_ picket fence  
-__panopticon__ _n_ __1__ A building, as a prison or library, so arranged that all parts of the interior are visible from a single point. A circular prison with a watchtower in the center so that any inmate can be observed from a single point. __2__ A place marked by constant surveillance.  
 __paravalvular__ _adj_ Surrounding or adjacent to a heart valve.  
 __pardon__ _v_  
 __pareidolia__ _n_ The perception of a recognizable image or meaningful pattern where none exists or is intended, as the perception of a face in the surface features of the moon.  

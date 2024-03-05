@@ -10119,7 +10119,7 @@ __killing field__ _n_ :three: (usually plural) An area where many people have di
 __killjoy__ _n_ :two: One who spoils the enthusiasm or fun of others. _Syn_ wet blanket  
 __kiln__ _n_ :two: A type of oven used for baking clay, bricks, etc. to make them hard.  
 __kin__  
-__kinda__ _adv_ :two::hammer:  
+__kinda__ _adv_ :three::hammer: _informal_  
 __kindergarten__ _n_ :pencil2::four: Kindergarten is where children are introduced to school; it’s where five year old children learn all about their ABC’s and choice time. Kindergarten comes from the German words Kinder (“children”) and Garten (“garden”). A garden of children is a lovely and poetic image for a classroom full of antsy kids trying their hardest to master basic skills and ideas through creative and interactive lessons. But perhaps that is just how they were seen by the 19th-century German educator Friedrich Fröbel, who is credited with inventing kindergarten, his “method of developing intelligence in young children.”  
 __kindergartner__ _n_ :pencil2::three: A child who attends a preschool or kindergarten.  
 __kinderpunsch__ _n_  
@@ -10131,7 +10131,7 @@ __kine__ _n_
 __kinetic__ _adj_ /kuh-NET-ik/  
 __kingdom come__ _n_ _informal_ :two: __1__ The next world: _a bomb that could blow us to kingdom come._ __2__ The end of time: _You can complain till kingdom come, but it won’t help._  
 __kingfisher__ _n_  
-__kingpin__ _n_ :two: /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. The most important person in a group or undertaking. _Syn_ bigwig, top banana _A years-long undercover operation finally yielded the evidence needed to bring down the country’s most notorious drug kingpin._ __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
+__kingpin__ _n_ :three: /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. The most important person in a group or undertaking. _Syn_ bigwig, top banana _A years-long undercover operation finally yielded the evidence needed to bring down the country’s most notorious drug kingpin._ __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
 __kink<sup>1</sup>__ _n_ :nine::m: (kinks) __1__ A sharp twist or bend in a wire, rope, hair, etc, esp one caused when it is pulled tight. _I was getting the kinks out._ __6__ _US_ A clever or unusual idea. _Let them work out the kinks._  
 __kink<sup>2</sup>__ _v_ :two: (kinked) To form or cause to form a kink or kinks. _Kinked catheters._  
 __kinky__ _adj_ :two: __1__ _slang_ Given to unusual, abnormal, or deviant sexual practices. _We all have our little kinky secrets._ __2__ _informal_ Exhibiting unusual idiosyncrasies of personality; quirky; eccentric. __3__ _informal_ Attractive or provocative in a bizarre way: kinky clothes. __4__ Tangled or tightly looped, as a wire or rope. __5__ Tightly curled, as hair.  
@@ -10145,7 +10145,7 @@ __kip__ _n_ __5__ (kĭp-up) A maneuver in gymnastics, martial arts, and similar 
 __kipper__ _n_  
 __kirtle__ _n_ :five::hammer: (kirtles)  
 __kischy__  
-__kismet__ _n_ :three: Fate, fortune.  
+__kismet__ _n_ :five: Fate, fortune; destiny.  
 __kiss-and-tell__ _adj_ _informal_ Disclosing private or confidential information, especially in a firsthand account: _a kiss-and-tell memoir by a presidential aide._  
 __kitchen garden__  
 __kitchen range__  
@@ -10233,6 +10233,7 @@ __krinkled__
 __kroop__  
 __kryptonite__ _n informal_ /ˈkrɪptəˌnaɪt/ Something that renders a person or thing helpless: _football movies are box-office kryptonite._  
 __kts__ _n pl_ :two: Plural of knot (unit), a unit of speed equal to one nautical mile per hour.  
+__kudo__ _n_  
 __kudos__  
 __kulak__ _n_ A comparatively wealthy Soviet peasant who, during the Communist drive to collectivize agriculture in 1929–33, was viewed as an oppressor and class enemy.  
 __kumbaya__ _n_ :four: Rooted in an American spiritual and folk song of the same name, kumbaya refers, often disparagingly, to moments of or efforts at harmony and unity.  
@@ -10249,6 +10250,7 @@ __la la land__ _n_ _slang_ An unreal place, a fantastic dreamworld.
 __labor bureaus__  
 __labor camp__ _n_ A penal institution for political prisoners who are used as forced labor.  
 __Labor Day__  
+__labradoodle__ _n_ A cross between a Labrador retriever and a poodle.  
 __Labrador__  
 __labrum__  
 __labyrinthine__ _adj_  
@@ -10258,7 +10260,7 @@ __lace<sup>2</sup>__ _v_ :dart::five::hammer: _She gave us coffee laced with bra
 __lacerate__ _v_  
 __laceration__ _n_  
 __lachrymator__ _n_ A gas that makes the eyes fill with tears but does not damage them; used in dispersing crowds. _Syn_ teargas _When the demonstration turned violent, the police used a potent lachrymator to disperse the mob._  
-__lachrymose__ _adj_ :three::pencil2: /LAK-ruh-mohss/ Lachrymose is used to describe someone who tends to cry often, or something that tends to cause people to cry. _Her newest screenplay is a lachrymose drama exploring the effects of loss late in life._ _The more lachrymose mourners at the funeral required a steady supply of tissues._  
+__lachrymose__ _adj_ :four::pencil2: /LAK-ruh-mohss/ /ˈlæk rəˌmoʊs/ Lachrymose is used to describe someone who tends to cry often, or something that tends to cause people to cry. _Her newest screenplay is a lachrymose drama exploring the effects of loss late in life._ _The more lachrymose mourners at the funeral required a steady supply of tissues._  
 __lacing__ _n_ The act of inflicting corporal punishment with repeated blows. _Syn_ whacking, beating, drubbing, licking, thrashing, trouncing _If my mother ever caught me smoking, I would get the lacing of a lifetime._  
 __lackadaisical__ _adj_ :seven::dart: /lak-uh-DAY-zi-kuhl/ [:scroll: From lackadaisy, alteration of lack a day, contraction of alack the day (an expression of regret, grief, or disapproval).] Lacking enthusiasm; indifferent; lazy. Lacking spirit, liveliness, or interest. Something or someone described as lackadaisical is lacking in life, spirit, or zest. _Syn_ languid, languorous, dreamy _In spite of his lackadaisical manner, he has moments of energy that would surprise you._ _His teachers did not approve of his lackadaisical approach to homework._  
 __lackey__ _n_ :four: A servile follower. _Syn_ toady, crawler, sycophant _A political lackey._  
@@ -10298,7 +10300,7 @@ __laissez-faire__ _n_ /less-ay-FAIR/
 __Lalique__  
 __lalochezia__ _n_ :astonished: Emotional discharge gained by uttering indecent or filthy words.  
 __lam__ _v_  
-__lamb__ _n_ :two::mute:[lam~~b~~]:hammer:  
+__lamb__ _n_ :three::hammer::mega:::mute:[lam~~b~~]  
 __lambast__ _vt_ :nine::m: _informal_ (also lambaste) (lambasted, lambasting) __1__ To beat or whip severely. __2__ To reprimand harshly; berate.  
 __lambent__ _adj_ :three: /LAM-bunt/ When used literally, lambent can mean “softly bright or radiant” or “flickering.” _Lambent_ is also often used to describe speech, writing, music, and even wine, that has a light, appealing quality.  
 __lambo__ _n_ A Lamborghini car.  
@@ -10309,7 +10311,7 @@ __laminate__ _v_ :two::hammer: :es: plastificar
 __laminated__ _adj_ __2__ Covered with a thin protective layer of plastic or synthetic resin. _A laminated cheat sheet._  
 __lamp shade__ _n_  
 __lampoon<sup>1</sup>__ _n_ :three::hammer: _All get a solid lampooning._  
-__lampoon<sup>2</sup>__ _vt_ :dart::seven: (lampooned) To make the subject of a satire. _Syn_ ridicule, satirize _Joe’s coworkers lampoon his affected way of speaking._  
+__lampoon<sup>2</sup>__ _vt_ :dart::eight: /lam-POON/ (lampooned) To make the subject of a satire. _Syn_ ridicule, satirize _Joe’s coworkers lampoon his affected way of speaking._  
 __lamppost__ _n_ :two: A post supporting a street lamp.  
 __lamprey__ _n_  
 __lance__ _v_ :two::astonished::hammer: (lanced)  
@@ -10415,6 +10417,7 @@ __launch__ _v_ _Launching the projectile/friend._
 __launder__ _v_  
 __laureate__ _adj, n_ :two::hammer:  
 __laurels__  
+__lavabo__ _n_ A basin for washing the hands. _Syn_ handbasin, washbasin, washbowl _The priest washed his hands in the metal lavabo before saying Mass._  
 __lave<sup>1</sup>__ _n_ /layv/ Residue or remainder.  
 __lave<sup>2</sup>__ _vt_ :two: __1__ To wash or bathe. __2__ To flow.  
 __lavish<sup>1</sup>__ _adj_ :nine::m: __1__ Expending or bestowing profusely. _Lavish donors. Lavish in giving praise to her employees._ __2a__ Expended or produced in abundance. _The lavish attentions of his mother —George Meredith._ __b__ Marked by profusion or excess. _A lavish home._ _Lavish fees._ _A lavish castle surrounded by 600 acres of state._  
@@ -10440,6 +10443,7 @@ __layup__ _n_ :three::hammer: (layups)
 __laziness__ _n_ :pencil2:  
 __leaching__ _v_ _Corrosive water leads to leaching of lead in some oñder homes where plumbing contains lead pipes or lead solder._  
 __lead solder__  
+__lead__ _n_ :mega:  
 __lead-up__ _n_  
 __leaden__ _adj_ :two::hammer: _Days of rain and leaden cold._  
 __leaderboard__ _n_ :two: A board that displays the leaders in a competition.  
@@ -10454,7 +10458,7 @@ __lean<sup>2</sup>__ _v_ :two::hammer: _Lean onto that idea._
 __leaner__ _adj_ _AI might make tech companies leaner._  
 __leap day__  
 __leap of faith__  
-__leap year__  
+__leap year__ _n_ :two::hammer:  
 __leapfrog__ _v_ :two::hammer: (leapfrogging)  
 __learned__ _adj_ _A learned physician from Prague._  
 __lease__ _n_ :four::hammer: (on a lease)  
@@ -10501,8 +10505,10 @@ __leisurely<sup>1</sup>__ _adj_ :three::hammer: _A leisurely weekend stroll._
 __leisurely<sup>2</sup>__ _adv_ :three::hammer: _He took his coat, leisurely putting it on._  
 __leisurewear__ _n_ Informal, comfortable clothing designed for wear while resting or relaxing.  
 __leitmotif__ _n_ :three::hammer: (leitmotiv)  
+__lek__ _n_  
+__lekking__ _n_  
 __lemme__ _contraction_ _Lemme see._  
-__lemming__ _n_ :two: /LEM-ing/ __1__ Any of various small, thickset, short-tailed, furry rodents. __2__ One who mindlessly conforms or follows, especially toward disaster.  
+__lemming__ _n_ :three: /LEM-ing/ __1__ Any of various small, thickset, short-tailed, furry rodents. __2__ One who mindlessly conforms or follows, especially toward disaster.  
 __lemon grass__ _n_  
 __lemon wedge__ _n_ :camera: _Lemon wedges for serving._  
 __lemon__ _n_ _This house is a lemon, honey._  
@@ -10551,7 +10557,7 @@ __leverage<sup>1</sup>__ _n_ :three::hammer::mega: /ˈlɛv ər ɪdʒ, ˈlɛv rɪ
 __leverage<sup>2</sup>__ _vt_ :nine: /ˈlɛv ər ɪdʒ, ˈlɛv rɪdʒ; ˈli vər ɪdʒ, -vrɪdʒ/ __3__ To use so as to obtain an advantage or profit: _leveraged their personal contacts to find new investors._ :es: aprovechar  
 __leviathan__ _n_ :four: /luh-VYE-uh-thun/ Something large or formidable. _Towering leviathans of the forest, these giant sequoias often reach heights of more than 200 feet._ _You can sometimes see migrating leviathans._  
 __levied__ _v_ :five::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
-__levity__ _n_ :dart::four: __1__ Humor, merriment, or a lack of seriousness, especially when inappropriate: _a subject that should not be treated with levity._ _His levity faded._ _The most potent antidote for stress is levity._  
+__levity__ _n_ :dart::five: __1__ Humor, merriment, or a lack of seriousness, especially when inappropriate: _a subject that should not be treated with levity._ _His levity faded._ _The most potent antidote for stress is levity._  
 __levy<sup>1</sup>__ _v_ :six::hammer: (levying) _The levy of taxes on clerical income._  
 __levy<sup>2</sup>__ _n_ :five::hammer: (levies) _Infantry levies._ _The UK soft drinks industry levy was one of the first taxes explicitly designed to incentivise manufacturers to reduce sugar content._  
 __lewd__ _adj_ :three::hammer:  
@@ -10580,6 +10586,7 @@ __lichen__ _n_ :mega:
 __lick__ _v_ _Fires licked the edges of cars and buildings._  
 __lick-spittle__ _n_ :dart: One who is abject enough to lick, as it were, another’s spittle; a vulgar flatterer or parasite. _A lick-spittle role._  
 __lickety-split__ _adv_ _informal_ :dart::two::hammer: (lickety split)  
+__lickspittle__ _n_ (lickspit) A fawning subordinate; a suck-up. A fawning underling; a toady.  
 __licorice__ _n_ :five::camera::mega: If you’ve ever had a long, sweet, chewy, black candy, you’ve probably had licorice. This is a common type of candy made from the dried roots of the licorice plant. _Colored licorice candy._  
 __lid__ _n_ _Do not put a lid on your dreams._  
 __lidar__  
@@ -10988,7 +10995,7 @@ __machinery__ _n_ :mega:
 __Machu Picchu__ _n_ A 15th-century Inca citadel situated on a mountain ridge 2,430 metres (7,970 ft) above sea level.  
 __mackerel__ _n_ :three::hammer: :es: caballa  
 __mackinaw__  
-__macrocosm__ _n_ The entire world; the universe. _Syn_ cosmos, universe, world, existence, creation  
+__macrocosm__ _n_ :two: The entire world; the universe. _Syn_ cosmos, universe, world, existence, creation  
 __macrophages__ _n_ _We started looking at macrophages, cells that eat lipids stuck to the walls of blood vessels._  
 __macule__ _n_ :two: (macula) A discolored spot or area on the skin that is not elevated above the surface and is characteristic of certain conditions, such as smallpox, purpura, or roseola.  
 __Mad Libs__ _n_  
@@ -11697,7 +11704,7 @@ __modicum__ _n_ :eight: If you want to describe a small amount of something, try
 __modish__ _adj_  
 __Mogollon Rim__ _n_ A rugged escarpment of east-central Arizona forming the southern edge of the Colorado Plateau.  
 __mogrify__ _v_  
-__mogul__ _n_ :eight: /ˈməʊɡʌl; məʊˈɡʌl/ __1__ A very rich or powerful person; a magnate. _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
+__mogul__ _n_ :nine: /ˈməʊɡʌl; məʊˈɡʌl/ __1__ A very rich or powerful person; a magnate. _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
 __mohair__  
 __Mohs hardness__ _n_ _The Mohs scale of mineral hardness is qualitative and arbitrary._  
 __moiré pattern__  
@@ -11744,6 +11751,7 @@ __monkey mind__
 __monkey suit__  
 __monkey wrench__ _n_ :two: __1__ A hand tool with adjustable jaws for turning nuts of varying sizes. __2__ _informal _Something that disrupts: _He threw a monkey wrench into our plans._  
 __monkeypox__ _n_  
+__monocyte__ _n_  
 __monogramming__  
 __monolith__ _n_  
 __monolithic__ _adj_ Massive, solid, and uniform. _Syn_ massive, monumental _During her travels, she studied the monolithic proportions of Stalinist architecture._  
@@ -12311,7 +12319,7 @@ __noncommittal__ _adj_ :five: Refusing commitment to a particular opinion or cou
 __noncontrast__ _adj_ Without the use of a contrast medium. _Noncontrast CT imaged._  
 __nondescript__ _adj_ :five::hammer: /non-di-SKRIPT/  
 __nonesuch__ _n_ (nonsuch)  
-__nonetheless__ _adv_ Despite that; however; nevertheless.  
+__nonetheless__ _adv_ :two: Despite that; however; nevertheless.  
 __nonexempt__ _adj_ /ˌnɒnɪɡˈzɛmpt/ _Nonexempt position._  
 __nonexistent__ _adj_  
 __nonlinear__ _adj_  
@@ -12861,8 +12869,8 @@ __outré__ _adj_ :two: Passing the bounds of what is usual or considered proper;
 __outreach__ _n_ :six::hammer: _He’s an HIV outreach worker._ _Patient outreach._  
 __outrecuidance__ _n_ Excessive self-confidence or conceit.  
 __outriggers__  
-__outright<sup>1</sup>__ _adv_ :five::hammer:  
-__outright<sup>2</sup>__ _adj_ :four::hammer:  
+__outright<sup>1</sup>__ _adv_ :six::hammer:  
+__outright<sup>2</sup>__ _adj_ :five::hammer:  
 __outrun__ _v_ :two::hammer:  
 __outsell__ _vt_  
 __outset__ _n_ :eight::hammer: _The outset of his campaign._ _Designed at the outset._  
@@ -12937,6 +12945,7 @@ __oversee__ _v_ :seven: To watch, supervise or manage something. _It’s John’
 __overseer__ _n_ _I’ve been targeted by the LinkedIn overseers._  
 __overshadow__ _v_ :two: (overshadowed) To render insignificant or less important in comparison.  
 __oversight__ _n_ :five::hammer: _An oversight board._ _Oversight committee._ _The oversight of risk leads to financial shortfall._  
+__overstate__ _vt_  
 __overstated__ _v_ :two::hammer:  
 __overstep__ _vt_  
 __overstuffed__ _adj_ _Overstuffed sandwiches._  
@@ -13009,7 +13018,7 @@ __pain__ _n_ _You’re such a pain!_ :es: ¡Pero qué pesado eres!
 __painstaking__ _adj_ :two::hammer: _Painstaking patience._  
 __painstakingly__ _adv_ :three::hammer:  
 __painter__  
-__pairing__ _n_ _The final rankings and playoff pairings will be released Sunday._  
+__pairing__ _n_ :two: /ˈpɛərɪŋ/ __1__ Two people, esp sports players, actors, or musicians, who are working together as a pair. _The final rankings and playoff pairings will be released Sunday._ __2__ The action of putting two people together.  
 __paisley__ _n_ :three::camera::hammer: _A green paisley bow tie._  
 __Pakistani__ _adj, n_ :mega: /ˌpɑːkɪˈstɑːnɪ/ /ˌpæk əˈstæn i, ˌpɑ kəˈstɑ ni/  
 __pal__ _n informal_ A close friend; comrade; chum.  
@@ -13024,6 +13033,7 @@ __paleo__
 __palette__ _n_ :mega:  
 __palfrey__ _n_ :two: A palfrey is a type of horse that was highly valued as a riding horse in the Middle Ages. It was a lighter-weight horse, usually a smooth gaited one that could amble, suitable for riding over long distances. _Six little palfreys caparisoned in green velvet with crimson tassels._  
 __palindrome__ _n_ /PAL-un-drohm/  
+__paling__ _n_ A fence made of upright pickets. _Syn_ picket fence  
 __palingenesis__ _n_  
 __palisade__ _n_ /pal-uh-SAYD/ :two::hammer: _The iron palisade surrounding the decrepit mansion stood strong._  
 __pall<sup>1</sup>__ _n_ :six::hammer: _The tragedy casts a pall over Austin._  
@@ -13085,6 +13095,7 @@ __panko__ _n_
 __panna cotta__ _n_  
 __panned out__  
 __panoply__ _n_ :five: __1__ An impressive or striking array or arrangement. _A panoply of colorful flags._  
+__panopticon__ _n_ __1__ A building, as a prison or library, so arranged that all parts of the interior are visible from a single point. A circular prison with a watchtower in the center so that any inmate can be observed from a single point. __2__ A place marked by constant surveillance.  
 __panorama__ _n_ :two: An unbroken view of an entire surrounding area. _Syn_ vista _The panorama from the summit, with glistening lakes and green forests in every direction, is unmatched in the east._  
 __pansexual__  
 __pansy__ _n_ (pansies) __2__ _slang_ _offensive_ An effeminate or homosexual man or boy.  
