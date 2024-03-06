@@ -8,13 +8,16 @@ __a bit of__ __1__ Somewhat; rather; to some extent. _It turns out that the unus
 __a breath of fresh air__  
 __a breeze__ :two::hammer: _Perplexity makes searching online a breeze._  
 __a clear future__ “A clear picture” is an idiomatic expression that means a complete and accurate understanding or representation of something.  
+__a hot spot__  
 __a-ha moment__  
 __ah__  
 __all the rage__ _slang_ Very popular. _Disco music was all the rage in the 1970s._  
 __alongside of (someone or something)__  
 __an uphill battle__  
 __as good as it gets__  
+__as we speak__ At this very moment.  
 __at a loss__  
+__bada-bing__ /ˌbædəˈbɪŋ/ (bada-bing bada-boom) _sentence substitute_ _slang US_ An expression used to suggest that something can be done with no difficulty or delay.  
 __base (up)on__  
 __based in__  
 __be all about (someone, something, or oneself)__  
@@ -25,6 +28,7 @@ __be under way__ :two::hammer:
 __bear (someone or something) in mind__  
 __beat (oneself) up__ To continually criticize or question oneself, usually about something that one cannot change.  
 __beekeeping age__ A slang phrase that refers to a middle age range and is usually used specifically to describe an attractive older man, as in _Mark’s dad is in his beekeeping age._  
+__behind the scenes__ Without being widely known or attracting attention. Referring to the private portion of a venue, operation, or production, as opposed to the public part.  
 __bellwether state__ A state whose political trends, tendencies, or developments tend to reflect or predict those of the entire country. Primarily heard in US. _Ohio is famously a bellwether state. If the senator can win here, she’s nearly assured to win the presidency._  
 __best-of-class__  
 __between a rock and a hard place__  
@@ -42,6 +46,7 @@ __boob tube__ _slang_ The television.
 __boogie__ __2__ _v_ To dance, often to rock music specifically. _I hope you’ll boogie with me tonight—my husband hates to dance._ __3__ _v_ To become focused and work diligently on something. _Fine, take a break now, and then we’ll boogie._  
 __brain dead__ __2__ _slang_ So mentally exhausted or lacking focus that one does something poorly and/or makes easily avoidable mistakes.  
 __break out__ __5__ _v_ To occur unexpectedly and intensely. _We knew it was time to leave the club when a fight broke out between guys at the bar._  
+__break something down__  
 __build up__  
 __bummer__ :two: __3__ _adj_ Describing someone or something unpleasant. _Oh, it was a bummer party—you didn’t miss anything._  
 __burning desire__  
@@ -55,6 +60,7 @@ __cheesy__ _mod_ Cheap; tacky. _I wouldn’t live in a cheesy place like this if
 __chops__ _informal_ One’s skill in some area.  
 __circle back (to something)__  
 __circle back__  
+__cross (one’s) fingers__  
 __downtime__  
 __edge out__  
 __every so often__ Sometimes; occasionally.  
@@ -68,6 +74,7 @@ __fishing expedition__
 __five o’clock shadow__  
 __flat-out__  
 __float an idea__ To suggest something in order to gauge interest in it or others’ perception of it.  
+__for a living__ In order to earn one’s primary income. _Roy runs a deli for a living._  
 __for kicks__ Only for the sake of fun, excitement, or distraction.  
 __for lack of a better word__  
 __for real__ _informal_ Used to assert that something is genuine or is actually the case.  
@@ -85,26 +92,39 @@ __game face__ __2__ An expression of stoicism intended to mask one’s emotions 
 __get into it__  
 __get it (all) together__  
 __get on (one’s) nerves__ To irritate, grate on, or exasperate one.  
+__ghost__ _slang_  
+__ghosting__ _slang_  
 __give (one) the green light__ :two::hammer:  
 __go a long way__ :two::hammer:  
+__go between__  
 __go big or go home__ _expression_ Either do something to its fullest extent or largest degree, or else don’t even bother. Often used facetiously. _A: “Do we really need to cook an entire pig for this barbecue? We’re only having a few people over.” B: “Hey, go big or go home!”_  
 __go down the toilet__ To fail; to be ruined or destroyed; to be squandered or wastefully discarded.  
 __go into overdrive__ To start working very hard or quickly.  
+__go with (someone or something)__  
+__grapple with (someone or something)__  
+__heat up__  
 __helicopter mom__  
+__imprint (something) in(to) (someone or something)__ To retain something in one’s memory.  
 __in (one’s) own right__  
 __in full swing__  
 __in hot water__ Having provoked or incited anger, hostility, or punishment against oneself; in a troublesome or difficult situation, especially that which will result in punishment or reprisal. _I was in a bit of hot water with Janice last night when she found out I went to the movies instead of cleaning out the garage._  
 __in jeopardy__ In danger or at risk; imperiled.  
 __in the least__  
+__it goes without saying__  
 __jeer at (someone or something)__ To mock, taunt, or scoff at someone or something. _Everyone in school jeered at me for wearing a pink sweater._  
 __JK__ An initialism of “just kidding,” used especially in text messages and online communications to express that one was not being serious about their previous statement. Variously written as “JK,” “J.K.,” or “J/K,” in either uppercase or lowercase letters. _Yeah, def considering working on my uncle’s farm 4 the summer. haha jk lol_  
 __keep (one’s)/an eye on (someone or something)__  
+__keep pace__  
+__keep up__  
 __king of the castle__ The most powerful, successful, or authoritative person in a group or organization.  
 __kitchen-sink__ Showing or pertaining to the lives of common, everyday people. (Always used before a noun.)  
+__latch onto (someone or something)__  
+__lose (one’s) shit__  
+__not sleep a wink__  
 __off-kilter__  
 __oh boy__  
 __on a daily basis__ Once or more each day.  
-__on a mission__  
+__on a mission__ :two::hammer:  
 __on the lookout__ :two: Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
 __one-off__  
 __org__ __2__ _n_ An organization.  
@@ -120,14 +140,18 @@ __play big__ To play for high stakes; to be willing to take risks.
 __play games (with one)__ To deliberately attempt to evade, deceive, or misinform one (about something) in order to manipulate them or achieve some desired outcome.  
 __plenty of (something)__ An abundant amount of; more than is needed.  
 __point of contact__ A person or entity one can seek to access information or services.  
+__poster child__ _OpenAI is the poster child of the gen AI wave._  
 __pull something off__  
 __put (something or someone) on the map__ To make (a place, a person, etc.) famous or well-known.  
 __put on a happy face__ To begin to smile and act cheerful.  
 __quite a (something)__  
 __rain or shine__  
+__ramp up__ :two::hammer:  
 __reach out to (one)__  
+__reclaim (someone or something) from (someone or something else)__ To regain or resume possession of someone or something from someone or something.  
 __ride (on) a wave of (something)__ To enjoy the advantage of or continue to benefit from a situation that is successful, fortunate, trendy, etc.  
 __ring hollow__ To sound or give the sense of being false, insincere, or not genuine. _The statements that followed made her apology ring hollow._  
+__road ahead__  
 __roll out__  
 __rue the day (that something happened)__ To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
 __rumble on__  
@@ -139,6 +163,11 @@ __send the wrong message__ To do or say something that communicates a meaning di
 __set (someone or oneself) up for (something)__  
 __set the tone__  
 __simply put__  
+__sit on (something)__  
+__slap on the wrist__  
+__sneak peak__  
+__spill the tea__  
+__take (something) with a dash of salt__  
 __the good, the bad, and the ugly__ Idiomatic expression used to describe a situation or set of circumstances that has both positive and negative aspects, as well as some aspects that are particularly unpleasant or difficult to deal with.  
 __the nitty-gritty__  
 __there are plenty of (other) fish in the sea__  
