@@ -1,16 +1,24 @@
 __anaconda__ _n_  
+__Arkansas__ _n_ :mega:  
 __benchmarking__ _n_  
 __berate__ _vt_  
+__busy__ _adj_ :mega: /ˈbɪzɪ/  
 __cannabidiol__ _n_ (CBD) A cannabinoid found in cannabis. _It calms us like a CBD gummy before bed._  
 __carbon footprint__ _n_ _Pills have a lesser carbon footprint than equivalent liquid medications._  
+__cash-strapped__ _adj_ _informal_ Short of money; impoverished: _cash-strapped local authorities._  
 __cinch__ _n_  
 __clerking__ _n_ The activity of recording business transactions. _Syn_ bookkeeping  
+__concomitant__  
 __cosplay__ _n, v_  
+__coveted__ _adj_ /ˈkʌvɪtɪd/  
+__dethrone__ _vt_  
 __downright__ _adj, adv_  
 __downsample__ _v_  
+__duty__ _n_ __3__ A tax charged by a government, especially on imports. _Freeze on alcohol duty extended to February, 2025._  
 __emote__ _vi_  
 __epoch__ _n_ /ˈɛp ək; _esp. Brit._ ˈi pɒk/  
 __era__ _n_  
+__estoppel__ _n_ /ɪˈstɒpəl/ _Law_  
 __etcetera__ _n_ :mega: /et-SET-uh-ruh/  
 __etceteras__ _n pl_ Unspecified additional items. _Syn_ odds and ends  
 __eurythmic__ _adj_  
@@ -27,6 +35,7 @@ __fast<sup>1</sup>__ _adv_
 __fast<sup>2</sup>__ _vi_ __1__ To abstain from food. __2__ To eat very little or abstain from certain foods, especially as a religious discipline.  
 __fatuous__ _adj_ Silly or stupid; complacently or inanely foolish.  
 __firearm__ _n_  
+__firstborn__ _adj, n_ :es: primogénito  
 __fissure__ _n_  
 __flammable__ _adj_ _Syn_ Inflammable.  
 __flehmen__ _n_ :camera: /ˈfleɪmən/ A curling of the upper lip and raising of the head in certain mammals in response to olfactory stimuli, which behaviour allows the scents better to reach an olfactory organ deep within the animal’s nose.  
@@ -35,6 +44,7 @@ __flywheel__ _n_
 __form factor__  
 __foul__ _adj_  
 __foundational__ _adj_  
+__foundry__ _n_ :es: fundición  
 __frayed__ _adj_ __2__ (of temper, nerves, patience, etc) Under great strain.  
 __fresh__ _adj_ _Fresh sanctions._  
 __front-runner__ _n_ (frontrunner)  
@@ -55,6 +65,7 @@ __gloss__ _n_
 __gorgeous__  
 __gratuitous__ _adj_  
 __greedflation__ _n_  
+__gripping__ _adj_ /ˈgrɪp ɪŋ/ Holding the attention or interest intensely: _a gripping drama._  
 __grisly__  
 __grizzly__  
 __groak__ _v_ To stare at people who are eating in the hope that they will offer to share their food.  
@@ -65,11 +76,13 @@ __haberdasher__ _n_ A dealer in men’s furnishings. _Syn_ clothier
 __haggard__ _adj_ /HAG-urd/  
 __handball__ _n_ :es: balonmano  
 __hands-down__ _adj_ __1__ Easy: _A hands-down victory._ __2__ Unchallenged; certain: _a hands-down bestseller._  
+__harbor__ _v_  
 __hardened computer__ _n_ A hardened computer refers to a system that has undergone systems hardening, a process aimed at reducing vulnerabilities in technology applications, systems, infrastructure, firmware, and other areas.  
 __headwind__ _n_  
 __heliotropic__ _adj_ [:scroll: From Greek helio- (sun) + -tropic (turning)]  
 __hiccup__ _n_ __3__ A usually minor setback, impediment, or difficulty; a hitch.  
 __high tops__ _n pl_ Training shoes that reach above the ankles.  
+__Hillary__ _n_ /ˈhɪl ə ri/  
 __hitman__ _n slang_  
 __hobbledehoy__ _n_ An awkward, gawky young man.  
 __homeostasis__ _n_  
@@ -84,6 +97,7 @@ __impeachment__
 __incalescent__  
 __incarcerate__ _vt_ /ɪnˈkɑr səˌreɪt/  
 __incarceration__ _n_ The act of imprisoning someone or the state of being imprisoned.  
+__inferrer__ _n_  
 __inflamed__ _adj_ /ɪnˈfleɪmd/ Swollen, red, and painful as a result of disease or injury.  
 __ingurgitate__ _v_ To swallow greedily or in excessive amounts; gulp.  
 __insipid__ _adj_ __2__ Lacking qualities that excite, stimulate, or interest; dull.  
@@ -98,12 +112,21 @@ __jeer__ _n, v_
 __jellyfish__ _n_ :es: medusa  
 __jeopardy__ _n_ /JEP-er-dee/  
 __juvenile__ _adj, n_  
+__livelihood__ _n_  
+__lofty__  
+__looking glass__ _n_  
+__machination__ _n_  
+__mismatch__ _n_ :pencil2:  
+__out-of-body__ _adj_  
+__outrank__ _v_  
+__over-the-counter__  
 __paravalvular__ _adj_ Surrounding or adjacent to a heart valve.  
 __pardon__ _v_  
 __pareidolia__ _n_ The perception of a recognizable image or meaningful pattern where none exists or is intended, as the perception of a face in the surface features of the moon.  
 __parliament__ _n_  
 __pass__ _v_ __11__ To cease to exist; die. Often used with on: _The patient passed on during the night._  
 __pattern__ _vt_ __1__ (often foll by: _after_ or _on_) To model. _Patterned after the Olympic Games, the Pan American Games are held every four years._ __2__ To arrange as or decorate with a pattern.  
+__pawn__ _n_ __2__ A person, group, etc, manipulated by another.  
 __peanut allergy__ _n_  
 __peeve__ _vt_ To cause to be annoyed or resentful. _Syn_ annoy _It’s maddening for those of us who are peeved by such things._  
 __penitentiary__ _n_  
@@ -120,6 +143,7 @@ __pixie__ _n_ A fairy; specifically: a cheerful mischievous sprite.
 __plethora__  
 __plumb__ _adj, adv, n, v_  
 __poignant__ _adj_  
+__posit__ _v_  
 __posit<sup>1</sup>__ _vt_ __2__ To lay down or assume as a fact or principle; postulate.  
 __posit<sup>2</sup>__ _n_ :astonished: Something that is posited; an assumption; postulate.  
 __prebiotic__ _n_  
@@ -128,6 +152,7 @@ __primer__ _n_ :mega: /PRIMM-er/
 __prix fixe__ _n_ :mega: /PREE-FEEKS, PREE-FIK/  
 __proactive__ _adj_ Acting in advance to deal with an expected difficulty; anticipatory: _proactive steps to prevent terrorism._  
 __prodrome__ _n_ _Med_ Any symptom that signals the impending onset of a disease.  
+__promissory__ _adj_ /ˈprɒmɪsərɪ/ Containing, involving, or having the nature of a promise.  
 __propitiate__ _v_ :astonished: To conciliate (an offended power). _Syn_ appease _After his grave sin, he tried to propitiate the gods with a sacrifice._  
 __prosaic__ _adj_ Straightforward; not fanciful or imaginative. _Syn_ matter-of-fact  
 __psyops__ _n pl_ Military operations usually aimed at influencing the enemy’s state of mind through noncombative means (such as distribution of leaflets).  
@@ -147,7 +172,7 @@ __relatable__
 __remark__ _n_ /rɪˈmɑrk/  
 __remuneration__ _n_ :mega: /rih-myoo-nuh-RAY-shun/  
 __renewal__ _n_  
-__renowned__ _adj_  
+__renowned__ _adj_ :two::hammer:  
 __reptilian__ _adj_ :dart: /rep-TIL-ee-uhn, -TIL-yuhn/ __1__ Contemptible. __2__ Treacherous. __3__ Like a reptile.  
 __respondent__ _n_ /rɪˈspɒn dənt/  
 __rest__ _n_ __13__ (Billiards & Snooker) Any of various special poles used as supports for the cue in shots that cannot be made using the hand as a support.  
@@ -170,9 +195,15 @@ __schema__
 __scheme__  
 __screeve__ _v_ To write (as a letter) in order to beg.  
 __shoestring__ _n_ (shoe string) Marked by or consisting of a small amount of money.  
+__sloth__ _n_  
 __snot__  
 __snotter__ _v_ To breathe noisily.  
 __specious__ _adj_ /ˈspiːʃəs/  
+__Super Tuesday__ _n_  
+__tortuous__ _adj_  
+__unwavering__ _adj_ /ʌnˈweɪvərɪŋ/  
+__Walkie Scorchie__ _n_ :astonished:  
+__watch list__ _n_ A list of people or things that are being closely watched because they are likely to do or experience bad things in the future. _The animals are on a watch list of species that could become extinct soon._  
 __whizzer__ _adj_ Something notable of its kind: such as an outstandingly attractive or able person.  
 __whopping__ _adj, adv_  
 __whopping<sup>1</sup>__ _adj_ _informal_ Exceptionally large: _“yet another whopping pay raise” (Lee Atwater)._  
