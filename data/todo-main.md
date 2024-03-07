@@ -1,23 +1,38 @@
+__ad hominem__ _adj_ __1__ Attacking a person’s character or motivations rather than a position or argument: _The candidates agreed to focus on the issues rather than making ad hominem attacks against each other._ __2__ Appealing to the emotions rather than to logic or reason.  
+__adumbrate__ _vt_ /æˈdʌm breɪt, ˈæd əmˌbreɪt/  
+__ahistorical__ _adj_ /ˌeɪhɪsˈtɒrɪkəl/ (ahistoric)  
 __anaconda__ _n_  
 __Arkansas__ _n_ :mega:  
 __benchmarking__ _n_  
 __berate__ _vt_  
+__bissextile year__  
+__bomb__ _n_ :mega:  
 __busy__ _adj_ :mega: /ˈbɪzɪ/  
 __cannabidiol__ _n_ (CBD) A cannabinoid found in cannabis. _It calms us like a CBD gummy before bed._  
 __carbon footprint__ _n_ _Pills have a lesser carbon footprint than equivalent liquid medications._  
 __cash-strapped__ _adj_ _informal_ Short of money; impoverished: _cash-strapped local authorities._  
+__chaise__ _n_ A long chair; for reclining. _Syn_ daybed  
+__chiffonier__ _n_ A narrow high chest of drawers or bureau, often with a mirror attached. _Syn_ commode  
 __cinch__ _n_  
 __clerking__ _n_ The activity of recording business transactions. _Syn_ bookkeeping  
+__climb__ _v_ :mega:  
+__comb__ _n_ :mega:  
 __concomitant__  
+__connive__ _v_ /kuh-NYVE/ To connive is to secretly help someone do something dishonest or illegal.  
 __cosplay__ _n, v_  
 __coveted__ _adj_ /ˈkʌvɪtɪd/  
+__crumb__ _n, v_ :mega:  
+__descry__ _v_ /dih-SKRYE/ _Descry_ is a literary word that, like _discover_ or _find out_, means “to come to realize or understand something.” Descry can also mean “to catch sight of.”  
 __dethrone__ _vt_  
+__diatribe__ _n_ A bitter, abusive denunciation. _Syn_ fulmination  
 __downright__ _adj, adv_  
 __downsample__ _v_  
+__dumb__ _adj_ :mega:  
 __duty__ _n_ __3__ A tax charged by a government, especially on imports. _Freeze on alcohol duty extended to February, 2025._  
 __emote__ _vi_  
 __epoch__ _n_ /ˈɛp ək; _esp. Brit._ ˈi pɒk/  
 __era__ _n_  
+__esculent__ _adj_ Suitable for eating; edible.  
 __estoppel__ _n_ /ɪˈstɒpəl/ _Law_  
 __etcetera__ _n_ :mega: /et-SET-uh-ruh/  
 __etceteras__ _n pl_ Unspecified additional items. _Syn_ odds and ends  
@@ -31,6 +46,7 @@ __exacerbation__ _n_
 __exhilarating__ _adj_ /ɪɡˈzɪləˌreɪtɪŋ/  
 __expire__ _v_  
 __familial__ _adj_ _The genetic link must be familial._  
+__fanfic__ _n_  
 __fast<sup>1</sup>__ _adv_  
 __fast<sup>2</sup>__ _vi_ __1__ To abstain from food. __2__ To eat very little or abstain from certain foods, especially as a religious discipline.  
 __fatuous__ _adj_ Silly or stupid; complacently or inanely foolish.  
@@ -50,6 +66,7 @@ __fresh__ _adj_ _Fresh sanctions._
 __front-runner__ _n_ (frontrunner)  
 __frostbite__ _n_ :es: congelación  
 __fulgurant__ _adj_ /FUHL/FULL-guh-ruhnt/ __1__ Flashing like lightning. __2__ Brilliant.  
+__garboil__ _n_ A state of commotion and noise and confusion. _Syn_ tumult, uproar  
 __gatekeep__ _v_  
 __gatekeeper__ _n_  
 __gauge__ _v_  
@@ -75,6 +92,7 @@ __guardrail__ _n_
 __haberdasher__ _n_ A dealer in men’s furnishings. _Syn_ clothier  
 __haggard__ _adj_ /HAG-urd/  
 __handball__ _n_ :es: balonmano  
+__handcart__ _n_ A small, usually two-wheeled cart pulled or pushed by hand.  
 __hands-down__ _adj_ __1__ Easy: _A hands-down victory._ __2__ Unchallenged; certain: _a hands-down bestseller._  
 __harbor__ _v_  
 __hardened computer__ _n_ A hardened computer refers to a system that has undergone systems hardening, a process aimed at reducing vulnerabilities in technology applications, systems, infrastructure, firmware, and other areas.  
@@ -86,6 +104,8 @@ __Hillary__ _n_ /ˈhɪl ə ri/
 __hitman__ _n slang_  
 __hobbledehoy__ _n_ An awkward, gawky young man.  
 __homeostasis__ _n_  
+__hough<sup></sup>__ _vt_ :mega: /hok/ To cripple, disable, or to make ineffective.  
+__hough<sup>2</sup>__ _n_ :mega: /hok/ The joint in the hind leg of a quadruped animal such as a horse, equivalent to the ankle in a human.  
 __hourlong__ _adj_  
 __huckster__ _n_  
 __humanitarian corridor__ _n_  
@@ -116,6 +136,7 @@ __livelihood__ _n_
 __lofty__  
 __looking glass__ _n_  
 __machination__ _n_  
+__middlebrow__ _n informal_ [:scroll: Formed on the pattern of highbrow and lowbrow] One who is somewhat cultured, with conventional tastes and interests; one who is neither highbrow nor lowbrow.  
 __mismatch__ _n_ :pencil2:  
 __out-of-body__ _adj_  
 __outrank__ _v_  
@@ -155,10 +176,12 @@ __prodrome__ _n_ _Med_ Any symptom that signals the impending onset of a disease
 __promissory__ _adj_ /ˈprɒmɪsərɪ/ Containing, involving, or having the nature of a promise.  
 __propitiate__ _v_ :astonished: To conciliate (an offended power). _Syn_ appease _After his grave sin, he tried to propitiate the gods with a sacrifice._  
 __prosaic__ _adj_ Straightforward; not fanciful or imaginative. _Syn_ matter-of-fact  
+__proximity__ _n_ /prahk-SIM-uh-tee/  
 __psyops__ _n pl_ Military operations usually aimed at influencing the enemy’s state of mind through noncombative means (such as distribution of leaflets).  
 __pubic symphysis__ _n_ The fixed joint at the front of the pelvic girdle where the two pubic bones meet.  
 __pulchritudinous__ _adj_ Ysed of persons only; having great physical beauty: _pulchritudinous movie stars._  
 __pusillanimous__ _adj_ Weak and afraid of danger.  
+__quadrennial__  
 __quiche__ _n_ /KEESH/  
 __quinoa__ _n_ :mega: /KEEN-wah, kee-NOH-uh/  
 __quirk__ _n_ /KWERK/ _Quirk_ refers to an unusual habit or way of behaving. It can also refer to something strange that happens by chance, as in “a quirk of fate.”  
@@ -191,6 +214,7 @@ __robocall__ _n_
 __roughneck__ _n_ A cruel and brutal fellow. _Syn_ yobo, bully, hooligan, rowdy, ruffian, yob, tough  
 __rue<sup>1</sup>__ _v_  
 __rue<sup>2</sup>__ _n_ /roo/ __1__ Sorrow; repentance; regret. __2__ Pity or compassion.  
+__salubrious__ _adj_ /suh-LOO-bree-us/  
 __schema__  
 __scheme__  
 __screeve__ _v_ To write (as a letter) in order to beg.  
@@ -200,10 +224,12 @@ __snot__
 __snotter__ _v_ To breathe noisily.  
 __specious__ _adj_ /ˈspiːʃəs/  
 __Super Tuesday__ _n_  
+__tergiversate__ _vi_ /tuhr-JIV-uhr-sayt, TUHR-juh-vuhr-sayt/ __1__ To use evasions or ambiguities; equivocate.  
 __tortuous__ _adj_  
 __unwavering__ _adj_ /ʌnˈweɪvərɪŋ/  
 __Walkie Scorchie__ _n_ :astonished:  
 __watch list__ _n_ A list of people or things that are being closely watched because they are likely to do or experience bad things in the future. _The animals are on a watch list of species that could become extinct soon._  
+__whereas__ _conj_ /ʰwɛərˈæz, wɛər-/  
 __whizzer__ _adj_ Something notable of its kind: such as an outstandingly attractive or able person.  
 __whopping__ _adj, adv_  
 __whopping<sup>1</sup>__ _adj_ _informal_ Exceptionally large: _“yet another whopping pay raise” (Lee Atwater)._  
