@@ -1,28 +1,3 @@
-__ad hominem__ _adj_ __1__ Attacking a person’s character or motivations rather than a position or argument: _The candidates agreed to focus on the issues rather than making ad hominem attacks against each other._ __2__ Appealing to the emotions rather than to logic or reason.  
-__adumbrate__ _vt_ /æˈdʌm breɪt, ˈæd əmˌbreɪt/  
-__ahistorical__ _adj_ /ˌeɪhɪsˈtɒrɪkəl/ (ahistoric)  
-__anaconda__ _n_  
-__Arkansas__ _n_ :mega:  
-__benchmarking__ _n_  
-__berate__ _vt_  
-__bissextile year__  
-__bomb__ _n_ :mega:  
-__busy__ _adj_ :mega: /ˈbɪzɪ/  
-__cannabidiol__ _n_ (CBD) A cannabinoid found in cannabis. _It calms us like a CBD gummy before bed._  
-__carbon footprint__ _n_ _Pills have a lesser carbon footprint than equivalent liquid medications._  
-__cash-strapped__ _adj_ _informal_ Short of money; impoverished: _cash-strapped local authorities._  
-__chaise__ _n_ A long chair; for reclining. _Syn_ daybed  
-__chiffonier__ _n_ A narrow high chest of drawers or bureau, often with a mirror attached. _Syn_ commode  
-__cinch__ _n_  
-__clerking__ _n_ The activity of recording business transactions. _Syn_ bookkeeping  
-__climb__ _v_ :mega:  
-__comb__ _n_ :mega:  
-__concomitant__  
-__connive__ _v_ /kuh-NYVE/ To connive is to secretly help someone do something dishonest or illegal.  
-__cosplay__ _n, v_  
-__coveted__ _adj_ /ˈkʌvɪtɪd/  
-__crumb__ _n, v_ :mega:  
-__descry__ _v_ /dih-SKRYE/ _Descry_ is a literary word that, like _discover_ or _find out_, means “to come to realize or understand something.” Descry can also mean “to catch sight of.”  
 __dethrone__ _vt_  
 __diatribe__ _n_ A bitter, abusive denunciation. _Syn_ fulmination  
 __downright__ _adj, adv_  

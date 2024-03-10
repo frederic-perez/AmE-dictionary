@@ -194,6 +194,7 @@ __acupunture__ _n_ :pencil2:
 __acute__ _adj_  
 __ad hoc<sup>1</sup>__ _adv_ :three: For the specific purpose, case, or situation at hand and for no other: _a committee formed ad hoc to address the issue of salaries._  
 __ad hoc<sup>2</sup>__ _adj_ __1__ Formed for or concerned with one specific purpose: _an ad hoc compensation committee._ __2__ Improvised and often impromptu.  
+__ad hominem__ _adj_ __1__ Attacking a person’s character or motivations rather than a position or argument: _The candidates agreed to focus on the issues rather than making ad hominem attacks against each other._ __2__ Appealing to the emotions rather than to logic or reason.  
 __ad infinitum__ _adv_ :three::hammer: _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
 __ad nauseam__ _adv_ :six: To a disgusting or ridiculous degree; to the point of nausea. _Psychology graduate students are taught to repeat ad nauseam: “Correlation is not causation.”_  
 __ad__ _n informal_ :two::mega: Advertisement.  
@@ -248,6 +249,7 @@ __adulate__ _v_ :mega:
 __adulation__ _n_ :two: /aj-uh-LAY-shun/ Extreme or excessive admiration or flattery. _The movie star basked in the adulation of her many fans as she walked down the red carpet._  
 __adult__ _adj, n, v_ :mega: /ə-ˈdəlt, ˈa-ˌdəlt/  
 __adulterate__ _v_  
+__adumbrate__ _vt_ /æˈdʌm breɪt, ˈæd əmˌbreɪt/  
 __advancement__ _n_  
 __Advent calendar__ _n_ _Brit_ :camera: A large card with a brightly coloured sometimes tinselled design on it that contains small numbered doors for children to open on each of the days of Advent, revealing pictures beneath them.  
 __advent__ _n_ :nine::m::mega: __1__ The coming or arrival of something or someone that is important or worthy of note: _the advent of the computer._ _The advent of social media._  
@@ -359,7 +361,7 @@ __ah__
 __aha__  
 __Aha! moment__  
 __ahem__  
-__ahistorical__ _adj_ Unconcerned with or unrelated to history or to historical development or to tradition.  
+__ahistorical__ _adj_ :two: /ˌeɪhɪsˈtɒrɪkəl/ (ahistoric) Unconcerned with or unrelated to history or to historical development or to tradition.  
 __ahold__  
 __aichmophobia__ _n_ The fear of pointed objects, esp needles, pins, etc.  
 __aide__ _n_ :two::hammer: (aides)  
@@ -568,6 +570,7 @@ __amyloidosis__ _n_ /ˌæmɪlɔɪˈdəʊsɪs/
 __amylum__ _n_ A complex carbohydrate found chiefly in seeds, fruits, tubers, roots and stem pith of plants, notably in corn, potatoes, wheat, and rice. _Syn_ starch :es: almidón _She was on a strict diet and avoided foods with high levels of amylum, sugar, and saturated fat._  
 __anachronism__ _n_ :two: /uh-NAK-ruh-niz-um/ __1__ An error in which something in a movie, story, etc., is placed in a time where it does not belong. _A number of the film’s critics complained about the multiple anachronisms in the historical drama._ __2__ A person or a thing that seems to belong to the past and to not fit in the present. _He’s an old-fashioned politician who is seen by many of his colleagues as an anachronism._  
 __anachronistic__ _adj_ :two: /h-nak-ruh-NIS-tik/ Chronologically misplaced. _Syn_ anachronous  
+__anaconda__ _n_  
 __anacronym__ _n_ /an-AK-ruh-nim/ An acronym or abbreviation whose expansion is not widely known.  
 __anaesthetic__  
 __anal bleaching__ _n_  
@@ -847,7 +850,7 @@ __argue__ _v_
 __argument__ _n_ A fact or assertion offered as evidence that something is true. _It was a strong argument that his hypothesis was true._  
 __argy-bargy__ _n_  
 __Ark of the Covenant__ _n_ The Ark of the Covenant is a gold-covered wooden chest described in the Book of Exodus as containing the two stone tablets of the Ten Commandments.  
-__Arkansas__ _n_ :two::mega::hammer:  
+__Arkansas__ _n_ :three::mega::hammer:  
 __arm bands__ _n_ :es: manguitos  
 __armageddon__  
 __armagnac__  
@@ -1563,7 +1566,7 @@ __bench<sup>1</sup>__ _n_ _Snow will dust the benches and valleys._
 __bench<sup>2</sup>__ _v_  
 __benchmark<sup>1</sup>__ _n_ :three::hammer: _The price of benchmark West Texas Intermediate crude has dropped._  
 __benchmark<sup>2</sup>__ _v_  
-__benchmarking__ _n_ :two::hammer:  
+__benchmarking__ _n_ :three::hammer:  
 __bender__ _n_ :three: __2__ _slang_ A spree, especially a drinking spree. _His mother was on a bender._ _You can die on a bender._  
 __benefic__ _adj_ A rare word for beneficent.  
 __benefice__ _n_ _The cardinal had held nine English benefices in London, York, Lincoln, and Canterbury, making him a principal target of English resentment._  
@@ -1738,6 +1741,7 @@ __biscotto__ _n_ [Italian, from Medieval Latin bis coctus, _twice cooked_] A cri
 __biscuit__ _n_ :mute:[bisc~~u~~it]  
 __bishop’s benches__  
 __bison__ _n_ :two::hammer: (_n pl_) _A herd of 500 bison._  
+__bissextile year__  
 __bissextile<sup>1</sup>__ _adj_ /by-SEKS-til/tyl/ Relating to the leap year or the extra day in a leap year.  
 __bissextile<sup>2</sup>__ _n_ Leap year.  
 __bitch<sup>1</sup>__ _n_ :two::hammer: :es: perra  
@@ -1992,7 +1996,7 @@ __bolster<sup>1</sup>__ _n_ A long, thick pillow that is placed under other pill
 __bolster<sup>2</sup>__ _v_ :nine::m: __1__ Support or strengthen. _Syn_ strengthen, support, reinforce :es: reforzar __2__ To buoy up or hearten. _Syn_ boost _Visitors bolstered the patient’s morale._ _The fall in interest rates is starting to bolster confidence._  
 __bolt__ _v_ :three::hammer: (bolted) _The windows were closed and bolted._ _Bolted onto the ISS._  
 __bomb cyclone__  
-__bomb__ _v_ :four::mute:[bom~~b~~]:hammer: (bombing)  
+__bomb__ _n, v_ :five::mega::mute:[bom~~b~~]:hammer: (bombing)  
 __bombast__ _n_ :eight: /BAHM-bast/ __1__ Bombast refers to speech or writing that is meant to sound important or impressive but that is not sincere or meaningful. Grandiloquent, pompous speech or writing. _Syn_ claptrap, fustian _He found that he could look back upon the brass and bombast of his earlier gospels and see them truly._ _The other world leaders at the international conference had little interest in being subjected to the host president’s bombast._ __2__ _Obsolete_ Material used for padding. _Let’s drop the bombast and look at the evidence._  
 __bombastic__ _adj_ :five: To be bombastic is to be full of hot air, like a politician who makes grand promises and doesn’t deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you’ll understand how the meaning came about.  
 __bombinate__ _vi_ :two: /BOM-buh-nayt/ /BAHM-buh-nayt/ [:scroll: From Latin bombinare, from bombilare (to hum, buzz), from Latin bombus (humming), from Greek bombos (booming, humming)] To bombinate is to make a sustained, murmuring sound similar to a buzz or drone. To buzz or hum. _Syn_ bombilate _When the bees all bombinate like that, it makes me nervous!_ _The only sounds Jared could hear in the office that night were those of his own typing and the air conditioner bombinating._  
@@ -2551,6 +2555,7 @@ __bustle<sup>1</sup>__ _v_ :two::hammer:
 __bustle<sup>2</sup>__ _n_ :seven::mute:[bus~~t~~le]:hammer: _The bustle of daily life._ _She still wore a bustle._  
 __bustling__ _adj_ :nine::m::dart: __1__ Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._ __2__ Very crowded. _The sidewalks are bustling with people._  
 __busy bee__ _n_ An alert and energetic person.  
+__busy__ _adj_ :mega: /ˈbɪzɪ/  
 __busybody__ _n_ :three: A person who meddles or pries into the affairs of others. :es: entrometido  
 __busyness__ _n_ :two::hammer:  
 __but then again__ _adv_ Alternative form of _then again_.  
@@ -2768,6 +2773,7 @@ __candy stripper__ _n_
 __cane brakes__  
 __canebrake__ _n_  
 __canister__ _n_ :five::hammer: _Organic coffee canisters._  
+__cannabidiol__ _n_ (CBD) A cannabinoid found in cannabis. _It calms us like a CBD gummy before bed._  
 __cannibalization__ _n_  
 __cannibalize__ _v_ :two::hammer:  
 __cannikin__ _n_  
@@ -2843,6 +2849,7 @@ __carat__
 __caravansary__ _n_  
 __caravanserai__ _n_ :two: (_also_ caravansary) __1__ An inn built around a large court for accommodating caravans along trade routes in central and western Asia. __2__ A large inn or hostelry.  
 __carbine__ _n_  
+__carbon footprint__ _n_ _Pills have a lesser carbon footprint than equivalent liquid medications._  
 __carbon paper__ _n_  
 __carboy__ _n_ :camera: A large glass bottle encased in a basket or box, used esp. for holding corrosive liquids. :es: garrafón  
 __carbuncle__ _n_  
@@ -2928,6 +2935,7 @@ __cash bar__ _n_ A bar (as at a reception) at which drinks are sold. (compare _o
 __cash flow__  
 __cash rebate__  
 __cash__ _v_ _Cash a check._  
+__cash-strapped__ _adj_ _informal_ Short of money; impoverished: _cash-strapped local authorities._  
 __cashier<sup>1</sup>__ _n_ :three::mega: A cashier is someone who works at a store ringing up people’s purchases. Most cashiers use a cash register for keeping money and making change.  
 __cashier<sup>2</sup>__ _v_ To dismiss from a position of command or responsibility, especially for disciplinary reasons: _was dishonorably cashiered from the army._  
 __cashmere__  
@@ -3087,7 +3095,7 @@ __chain letter__ _n_
 __chain mail__ _n_ :two: Flexible armor of interlinked metal rings.  
 __chain smoker__  
 __chainsaw__ _n_  
-__chaise__  
+__chaise__ _n_ :two: A long chair; for reclining. _Syn_ daybed  
 __chalet__ _n_ :three:::hammer::mega: _Dozens of homes, rental cabins and chalets have been destroyed._  
 __chalk__ _v_ :four::hammer::mute:[cha~~l~~k] (chalked) _Chalk it up._  
 __chalkboard__ _n_ :four: (Education) _US and Canadian_ A hard or rigid surface made of a smooth usually dark substance, used for writing or drawing on with chalk, esp in teaching. Also called (in Britain and certain other countries): blackboard. _Check the chalkboard for daily specials._ _Chalkboards did not require much upkeep._  
@@ -3234,6 +3242,7 @@ __chief<sup>1</sup>__ _adj_
 __chief<sup>2</sup>__ _n_ :two::hammer: /tʃiːf/ /tʃif/ (chiefs)  
 __chieftain__ _n_  
 __chiffon__ _n_ :two::hammer: _Try the heavenly lemon chiffon cake._  
+__chiffonier__ _n_ A narrow high chest of drawers or bureau, often with a mirror attached. _Syn_ commode  
 __chignon__ _n_ A roll of hair worn at the nape of the neck. :es: moño  
 __chilblain__ _n_ :five::mega: /ˈtʃɪl bleɪn/ (usually childblains) An inflammatory swelling or sore caused by exposure (as of the feet or hands) to cold.  
 __child rearing__ _n_ The process of taking care of and raising children. _Her husband is actively involved in child-rearing._  
@@ -3365,7 +3374,7 @@ __cigar__ _n_ :mega:
 __cigarette stub__ _n_ Another name for a cigarette butt.  
 __cigarillo__ _n_ :pencil2::camera::two::hammer:  
 __ciggy__ _n_ _BrE_ _spoken informal_ A cigarette.  
-__cinch__ _n_ _slang_ :three: An easy task. _After the charade, he was a cinch._  
+__cinch__ _n_ _slang_ :four: An easy task. _After the charade, he was a cinch._  
 __cincture__ _n_ A band of material around the waist that strengthens a skirt or trousers. _Syn_ waistband, waistcloth, girdle, sash  
 __Cincy__ _n_ _informal_ Clipping of Cincinnati.  
 __cinder__ _n_ :two: A fragment of incombustible matter left after a wood or coal or charcoal fire. _Syn_ clinker  
@@ -3482,6 +3491,7 @@ __clenched__ _adj_ :three: Closed or squeezed together tightly. _A clenched fist
 __clergy__  
 __clerical__ _adj_ :two::hammer: _Clerical duties._ _Basic computer skills and clerical skills required._  
 __clerk__ _v_ To work or serve as a clerk: _clerked in a store; clerks for a judge._  
+__clerking__ _n_ The activity of recording business transactions. _Syn_ bookkeeping  
 __clever clogs__ _n_ [:scroll: The term boots has been used for a fellow or a person since the early 1600s. From there we got the term clever boots and then clever clogs.] Someone perceived to be intelligent or knowledgeable in an annoying way.  
 __cliché__ _n_ :two::hammer:  
 __click__ _v_ :four: __2b__ _slang_ To become clear; fall into place: _The answer finally clicked, and I finished the crossword._ _Suddenly, it clicked._ _It clicks when it clicks._  
@@ -3495,7 +3505,7 @@ __clientele__ _n_ :two::hammer:
 __climactic__ _adj_ _The battle reached climactic fury._  
 __climate-controlled__ _adj_ :two::hammer:  
 __climax__ _n_ In rhetoric, climax is ordering words so that they build up in intensity. Example: Look at the sky! It’s a bird! A plane! Superman!  
-__climb__ _v_ :two::mute:[clim~~b~~]:hammer:  
+__climb__ _v_ :three::mega::mute:[clim~~b~~]:hammer:  
 __climbing__ _n_ :mute:[clim~~b~~ing]  
 __clinch__ _v_ :nine::m: (clinched) __1__ To secure (a driven nail) by bending the protruding point over. __2a__ To settle (an argument, bargain, etc.) definitely. _Only two places seem clinched._ __b__ To make sure of winning; win conclusively. _A 45-yarder clinched the game._ __3__ _US, boxing_ Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other  
 __clincher__ _n_ :six: An argument that is conclusive. _Syn_ determiner _My final point was the clincher and won me the debate._  
@@ -3705,7 +3715,7 @@ __columbine__ _n_ _Columbine and Indian paintbrush._
 __column__ _n_ :mute:[colum~~n~~]  
 __coma__ _n_ :four::mega::hammer: _Medically induced coma._ _Schumacher out of coma._  
 __comatose__ _adj_ :two: __2__ Marked by lethargy; torpid.  
-__comb<sup>1</sup>__ _n_ (combs) _The hens had red combs, wattles, and earlobes._  
+__comb<sup>1</sup>__ _n_ :two::hammer::mega: (combs) _The hens had red combs, wattles, and earlobes._  
 __comb<sup>2</sup>__ _v_ :two::mute:[com~~b~~]:hammer:  
 __combat<sup>1</sup>__ _n_  
 __combat<sup>2</sup>__ _v_ :two::hammer::mega: (combated, combating, or combatted or combatting)  
@@ -3856,7 +3866,7 @@ __conclude__ _v_
 __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan). _His cronies concocted a simple plan._ _Syn_ make up, think up, dream up, fabricate  
 __concoction__ _n_ :two::hammer:  
 __concomitant<sup>1</sup>__ _adj_ :nine::m: Existing or occurring together; associative. Occurring or existing concurrently; attendant. _Syn_ accompanying, consequent, ensuant, resultant, sequent, incidental  
-__concomitant<sup>2</sup>__ _n_  
+__concomitant<sup>2</sup>__ _n_ :two::hammer:  
 __concordant__ _adj_ Being in agreement: harmonious. _Syn_ accordant, agreeable, consonant, conformable  
 __concordat__ _n_ A signed written agreement between two or more parties (nations) to perform some action. _Syn_ compact, covenant  
 __concourse__ _n_ :nine: __1__ A crowd; throng. __2__ A coming together; confluence: _a concourse of events._ __3__ :dart: A large open space for the gathering of people in a public place. _Enjoy casual fare in the lower level dining concourse._ _Main concourse._ _Art works on display in the concourses and terminal._ __4__ A ground for sports, racing, athletics, etc.  
@@ -3933,7 +3943,7 @@ __Connecticut__ _n_ :pencil2:
 __connective tissue__ _n_  
 __connectome__ _n_ The complete mapping of the structural links in an organism’s neural circuitry.  
 __connivance__ _n_ :four: Agreement on a secret plot.  
-__connive__ _v_ :seven::hammer: (connived, conniving)  
+__connive__ _v_ /kuh-NYVE/ :eight: To connive is to secretly help someone do something dishonest or illegal.  
 __connoisseur__ _n_ :pencil2::mega: /ˌkɒn əˈsɜr, -ˈsʊər/  
 __connotation__ _n_ :two: Connotation is using words to suggest a social or emotional meaning rather than a literal one. Example: This is a house, but I want a home.  
 __connubial__ _adj_ :two: Relating to marriage or the married state; conjugal. _An active connubial career._  
@@ -4149,8 +4159,8 @@ __cortisol__ _n_ _Cortisol is the primary stress hormone._
 __coruscant__ _adj_ Shining or glittering.  
 __coruscate__ _vi_ :five::astonished: /KOR-uh-skayt/ __1__ To sparkle, flash, or gleam. Be lively or brilliant or exhibit virtuosity. _Syn_ sparkle, scintillate _The flutist.s music coruscated throughout the concert hall._ __2__ To display great style or technique.  
 __corvine__ _adj_ Of, resembling, or characteristic of crows.  
-__cosplay<sup>1</sup>__ _n_ /KOZ/KOS-play/ __1__ The act or practice of dressing up as a character from a work of fiction, such as a comic book, video game, film, etc. __2__ The act of, or an instance of, pretending to be someone in a deceptive manner.  
-__cosplay<sup>2</sup>__ _vt_ __1__ To dress up as a fictional character in cosplay. __2__ To pretend to be someone in a deceptive manner.  
+__cosplay<sup>1</sup>__ _n_ :two: /KOZ/KOS-play/ __1__ The act or practice of dressing up as a character from a work of fiction, such as a comic book, video game, film, etc. __2__ The act of, or an instance of, pretending to be someone in a deceptive manner.  
+__cosplay<sup>2</sup>__ _vt_ :two: __1__ To dress up as a fictional character in cosplay. __2__ To pretend to be someone in a deceptive manner.  
 __cosplay<sup>3</sup>__ _vi_ To take part in cosplay.  
 __cosset__ _v_  
 __cosseted__  
@@ -4221,7 +4231,7 @@ __covertness__ _n_ __1__ The state of being covert and hidden. _Syn_ hiddenness 
 __coverup__ _n_  
 __covet__ _v_  
 __covetable__ _adj_ :two::hammer:  
-__coveted<sup>1</sup>__ _adj_ :four: /ˈkʌvɪtɪd/ Sought-after. Greatly desired. _Syn_ desired, in demand, sought after _A coveted item._  
+__coveted<sup>1</sup>__ _adj_ :five: /ˈkʌvɪtɪd/ Sought-after. Greatly desired. _Syn_ desired, in demand, sought after _A coveted item._  
 __coveted<sup>2</sup>__ _v_ :two::hammer:  
 __covetous__ _adj_ :two::hammer:  
 __covey__  
@@ -4429,7 +4439,8 @@ __cruet__ _n_ :mega: A small bottle for holding a condiment, such as vinegar or 
 __cruffy__  
 __cruft__ _n_ :two::hammer:  
 __crufty__ _adj_ :three::hammer: _A crufty comment._  
-__crumb__ _n_ :six::mute:[crum~~b~~] (crumbs) A very small amount of something. _Tim sighed deeply and accepted the crumb._ _Potato chip crumb._  
+__crumb<sup>1</sup>__ _n_ :seven::mega::mute:[crum~~b~~] (crumbs) A very small amount of something. _Tim sighed deeply and accepted the crumb._ _Potato chip crumb._  
+__crumb<sup>2</sup>__ _v_ :two::hammer::mega:  
 __crumble<sup>1</sup>__ _vt_ :eight: To break into small fragments or pieces: _I crumbled the cheese into the salad._  
 __crumble<sup>2</sup>__ _vi_ :eight: __1__ To fall into small fragments or pieces; disintegrate: _The ancient castle had crumbled to ruins._ __2__ To give way; collapse: _an ego that crumbles under pressure._  
 __crumble<sup>3</sup>__ _n_  
@@ -4969,7 +4980,7 @@ __Des Moines, Iowa__ _n_ :mega: [Common popular pronunciation: /duh–moinz, dez
 __descamisado__ _n_ __2__ An Argentine worker especially when poor and underprivileged. __3__ A very poor person. _They walked past cardboard and blanket in a dry outflow wall-pipe, which was some descamisado’s home._  
 __descant__ _vi_ __1__ To comment at length; discourse: _“He used to descant critically on the dishes which had been at table.” (James Boswell)._  
 __descent__ _n_ :mute:[des~~c~~ent]  
-__descry__ _v_ :two: _literary_ To catch sight of (something difficult to discern). _Syn_ spot, spy _From the top of the hill I descried a solitary rider._ _She descried two figures._ :es: divisar  
+__descry__ _v_ :three: _literary_ /dih-SKRYE/ _Descry_ is a literary word that, like _discover_ or _find out_, means “to come to realize or understand something.” Descry can also mean “to catch sight of (something difficult to discern).” _Syn_ spot, spy _From the top of the hill I descried a solitary rider._ _She descried two figures._ :es: divisar  
 __desecrate__ _v_ :four::hammer: _Desecrating the flag._  
 __desecration__ _n_ :two::hammer:  
 __desensitize__ _v_  
