@@ -8,18 +8,22 @@ __a bit of__ __1__ Somewhat; rather; to some extent. _It turns out that the unus
 __a breath of fresh air__  
 __a breeze__ :two::hammer: _Perplexity makes searching online a breeze._  
 __a clear future__ “A clear picture” is an idiomatic expression that means a complete and accurate understanding or representation of something.  
+__a doozy__  
 __a hot spot__  
 __a thin skin__ If someone has a thin skin, they are very easily upset or offended by criticism. _He’ll never make it in journalism with such a thin skin._  
 __a-ha moment__  
 __across the board__  
 __ah__  
 __all the rage__ _slang_ Very popular. _Disco music was all the rage in the 1970s._  
+__all year round__ Lasting or happening through the entire year.  
 __alongside of (someone or something)__  
 __an uphill battle__  
 __as good as it gets__  
 __as we speak__ At this very moment.  
 __at a loss__  
+__at odds__  
 __at stake__  
+__bada bing__ _interj_ :dart: (bada-bing) _chiefly US_ Used especially to emphasize something regarded as surprising, sudden, effortlessly achieved, or impressive.  
 __bada-bing__ /ˌbædəˈbɪŋ/ (bada-bing bada-boom) _sentence substitute_ _slang US_ An expression used to suggest that something can be done with no difficulty or delay.  
 __base (up)on__  
 __based in__  
@@ -44,6 +48,7 @@ __bigfoot__ A prominent or influential person, esp. a journalist or news analyst
 __bigwig__ An important person; a self-important person. _Some bigwig in a pinstripe suit waltzed through and asked me to leave._  
 __blanket term__ A word or phrase used to describe a broad range of similarly related things, usually resulting in diluting the specific meaning of individual items. _“Idiom” is often used as a blanket term for any element of language that is used strangely or uniquely by its users._  
 __bloodbath__  
+__blow the whistle (on) (someone or something)__  
 __bogart__ :astonished: To take an unfair share of something.  
 __bonkers__ __1__ Crazy, wacky, or strange. _There’s a guy on our corner who shouts about the end of the world; I think he’s bonkers._  
 __boob tube__ _slang_ The television.  
@@ -51,13 +56,17 @@ __boogie__ __2__ _v_ To dance, often to rock music specifically. _I hope you’l
 __brain dead__ __2__ _slang_ So mentally exhausted or lacking focus that one does something poorly and/or makes easily avoidable mistakes.  
 __break out__ __5__ _v_ To occur unexpectedly and intensely. _We knew it was time to leave the club when a fight broke out between guys at the bar._  
 __break something down__  
+__bring (one) to (one’s) feet__  
 __build up__  
 __bummer__ :two: __3__ _adj_ Describing someone or something unpleasant. _Oh, it was a bummer party—you didn’t miss anything._  
+__burn money__ To waste or spend money in a careless or excessive way, often without any real benefit or return on investment.  
 __burning desire__  
+__by design__ :dart: Deliberately and purposefully; as one planned or intended. _I assure you that everything you saw has happened by design._  
 __by way of (something)__  
 __calaboose__ _slang_ Jail. The word comes from “calabozo,” the Spanish word for “dungeon.” _They’ll throw you in the calaboose if they find out that you were involved in the robbery!_  
 __call for (someone or something)__  
 __call out__  
+__case in point__  
 __cash in__ :two::hammer:  
 __cheers and jeers__ Praise from some and scorn from others; a mixed reaction.  
 __cheesy__ _mod_ Cheap; tacky. _I wouldn’t live in a cheesy place like this if I could afford better._  
@@ -70,6 +79,7 @@ __cross (one’s) fingers__
 __dead end__  
 __downtime__  
 __dry run__ A practice session or test designed to identify and correct possible problems. _Let’s do a couple dry runs of your speech so you feel totally comfortable with it for tomorrow’s ceremony._  
+__dupe__ _v_ __1__ To deceive or trick one. _The student tried to dupe me with a letter on which he’d forged his mom’s signature._  
 __edge out__  
 __every so often__ Sometimes; occasionally.  
 __fair game (for something)__  
@@ -113,10 +123,14 @@ __go into overdrive__ To start working very hard or quickly.
 __go with (someone or something)__  
 __grapple with (someone or something)__  
 __have got it made__ To be in a comfortable situation or to be very likely to have success. _Living in that big house, earning a nice passive income from their investments—they’ve got it made._  
+__have it made__  
 __have no business (doing something)__ To have no legitimate reason, experience, or authority to do something. _Mom, you had no business eavesdropping on my phone call like that!_  
 __heat up__  
 __helicopter mom__  
+__hogwash__  
+__hush money__  
 __imprint (something) in(to) (someone or something)__ To retain something in one’s memory.  
+__in (high) hopes of (something)__  
 __in (one’s) own right__  
 __in full swing__  
 __in hot water__ Having provoked or incited anger, hostility, or punishment against oneself; in a troublesome or difficult situation, especially that which will result in punishment or reprisal. _I was in a bit of hot water with Janice last night when she found out I went to the movies instead of cleaning out the garage._  
@@ -127,13 +141,17 @@ __jeer at (someone or something)__ To mock, taunt, or scoff at someone or someth
 __JK__ An initialism of “just kidding,” used especially in text messages and online communications to express that one was not being serious about their previous statement. Variously written as “JK,” “J.K.,” or “J/K,” in either uppercase or lowercase letters. _Yeah, def considering working on my uncle’s farm 4 the summer. haha jk lol_  
 __just like that__  
 __keep (one’s)/an eye on (someone or something)__  
+__keep (someone or something) in check__  
 __keep pace__  
 __keep up__  
 __king of the castle__ The most powerful, successful, or authoritative person in a group or organization.  
 __kitchen-sink__ Showing or pertaining to the lives of common, everyday people. (Always used before a noun.)  
 __latch onto (someone or something)__  
 __lose (one’s) shit__  
+__loud and clear__  
 __make a fuss__  
+__matter of fact__  
+__mixed bag__  
 __mixed feelings__  
 __not sleep a wink__  
 __off-kilter__  
@@ -148,6 +166,7 @@ __out of the wood(s)__
 __outed__  
 __over the moon__ Extremely happy. _I’ve been over the moon ever since I got engaged—I just can’t stop looking at my ring!_  
 __paint a (some kind of) picture (of something)__  
+__picture perfect__  
 __pile up__  
 __piss off__  
 __plain vanilla__ A reference to vanilla being considered an ordinary or unexciting flavor. Often hyphenated if used before a noun. __1__ Completely basic, simple, or straightforward, lacking embellishments, adornments, special features, etc.  
@@ -155,7 +174,7 @@ __play big__ To play for high stakes; to be willing to take risks.
 __play games (with one)__ To deliberately attempt to evade, deceive, or misinform one (about something) in order to manipulate them or achieve some desired outcome.  
 __plenty of (something)__ An abundant amount of; more than is needed.  
 __point of contact__ A person or entity one can seek to access information or services.  
-__poster child__ _OpenAI is the poster child of the gen AI wave._  
+__poster child__ :two::hammer: _OpenAI is the poster child of the gen AI wave._  
 __pull something off__ :two::hammer:  
 __put (something or someone) on the map__ To make (a place, a person, etc.) famous or well-known.  
 __put on a happy face__ To begin to smile and act cheerful.  
@@ -165,38 +184,53 @@ __ramp up__ :two::hammer:
 __reach out to (one)__  
 __reclaim (someone or something) from (someone or something else)__ To regain or resume possession of someone or something from someone or something.  
 __ride (on) a wave of (something)__ To enjoy the advantage of or continue to benefit from a situation that is successful, fortunate, trendy, etc.  
+__rig__ __1__ _vt_ To arrange or tamper with the results of something. _Somebody rigged the contest so no one got first prize._  
 __ring hollow__ To sound or give the sense of being false, insincere, or not genuine. _The statements that followed made her apology ring hollow._  
 __road ahead__  
 __roll out__  
 __rue the day (that something happened)__ To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
 __rumble on__  
+__run deep__ To be well established and strongly integrated into the nature or character of something. _In this part of the country, college basketball rivalries run deep._  
+__run out of steam__ :dart: To lose one’s energy, motivation, or enthusiasm to continue doing something.  
 __run through (something)__ __4__ To guide one through or inform one of the process or details of something. In this usage, a noun or pronoun is used between “run” and “through.” _Can you run me through the plan one more time?_  
 __running high__ [for feelings] To be in a state of excitement or anger. _Feelings were running high as the general election approached._  
 __scavenger hunt__  
 __sell like hot cakes__  
 __send the wrong message__ To do or say something that communicates a meaning different or contrary to what one desires, either implicitly or explicitly.  
 __set (someone or oneself) up for (something)__  
+__set sail__ To embark on a journey on water in a boat (not necessarily one with sails).  
 __set the tone__  
 __simply put__  
 __sit on (something)__  
 __slap on the wrist__  
 __sneak peak__  
+__sniff out__  
 __soak in__  
 __spill the tea__ :two::hammer:  
+__spray and pray__ __1__ _informal_ To dispense anything (such as bullets or advertising) in an uncoordinated manner, hoping to reach the desired target through luck. __2__ The act of blindly firing an automatic weapon with the intent of potentially hitting the target; tends to be ineffective.  
+__strive to (do something)__ To put forth a great and tenacious effort to do or accomplish something.  
 __sugarcoat (something)__  
 __take (something) with a dash of salt__  
 __take center stage__  
+__take home__  
+__take issue__ To strongly disagree with or take offense at something.  
 __tank__ __5__ _vi_ (for something) To fail. _The entire stock market tanked on Friday._ _I invested in a restaurant business right before the economy tanked._  
+__tell it like it is__ To speak bluntly, directly, and truthfully, even if what is being said is undesirable to the listener.  
 __the good, the bad, and the ugly__ Idiomatic expression used to describe a situation or set of circumstances that has both positive and negative aspects, as well as some aspects that are particularly unpleasant or difficult to deal with.  
+__the here and now__ The present; this point in time. _Yes, but I’m not worried about his past production—I’m worried about his low sales in the here and now!_  
 __the nitty-gritty__  
 __there are plenty of (other) fish in the sea__  
 __thin-skinned__ Emotionally susceptible to or unable to ignore the verbal attacks or criticisms of others.  
 __think again__  
+__tip over__  
 __tipping point__  
 __to name (but) a few__  
 __top dog__ _ChatGPT-4 is still the top dog._  
 __touch on (something)__  
+__tough it out__ :dart: To persist through a difficult situation. _I’m amazed you toughed it out and went to school with such a high fever._  
 __trim the fat__ :dart: To excise or discard elements that are seen as superfluous or unnecessary.  
+__two a penny__ Very common, ordinary, or widespread.  
+__two-edged sword__ Something that can be at once beneficial and problematic; anything having or offering both good and bad aspects or outcomes.  
 __unheard of__  
 __up in the air__ Uncertain; subject to change.  
 __word for word__ In or with the same exact words; verbatim. _After seeing the play only once, he was able to repeat the monologue word for word. It was amazing._  

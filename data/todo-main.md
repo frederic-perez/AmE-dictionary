@@ -1,5 +1,14 @@
+__agave__ _n_  
+__albatross__ _n_  
+__archetypical__ _adj_ Representing or constituting an original type after which other similar things are patterned.  
+__comedo__ _n_ (_n pl_ comedos, comedones) The primary lesion of acne vulgaris, consisting of a hair follicle that is occluded with sebum and keratin; a blackhead or whitehead.  
+__commonality__ _n_  
+__corduroy__ _n_  
+__Crown dependencies__ _n_ Three island territories in the British Islands that are self-governing possessions of the British Crown: the Bailiwick of Guernsey, the Bailiwick of Jersey, and the Isle of Man.  
+__damsel__ _n_ /ˈdæm zəl/ A maiden, orig. one of gentle or noble birth.  
 __dethrone__ _vt_  
 __diatribe__ _n_ A bitter, abusive denunciation. _Syn_ fulmination  
+__dichotomous__ _adj_  
 __downright__ _adj, adv_  
 __downsample__ _v_  
 __dumb__ _adj_ :mega:  
@@ -11,6 +20,7 @@ __esculent__ _adj_ Suitable for eating; edible.
 __estoppel__ _n_ /ɪˈstɒpəl/ _Law_  
 __etcetera__ _n_ :mega: /et-SET-uh-ruh/  
 __etceteras__ _n pl_ Unspecified additional items. _Syn_ odds and ends  
+__eudaemonic__  
 __eurythmic__ _adj_  
 __eurythmics__ _n_ The art of harmonious bodily movement especially through expressive timed movements in response to improvised music.  
 __everywhen__ _adv_ /ˈɛvrɪˌwɛn/ Always, at all times.  
@@ -31,6 +41,7 @@ __fissure__ _n_
 __flammable__ _adj_ _Syn_ Inflammable.  
 __flehmen__ _n_ :camera: /ˈfleɪmən/ A curling of the upper lip and raising of the head in certain mammals in response to olfactory stimuli, which behaviour allows the scents better to reach an olfactory organ deep within the animal’s nose.  
 __flop__ _v_ __3__ _informal_ To fail utterly: _The play flopped._  
+__flounder__ _vi_  
 __flywheel__ _n_  
 __form factor__  
 __foul__ _adj_  
@@ -48,6 +59,7 @@ __gauge__ _v_
 __gazillion__  
 __generic name__ _n_  
 __genre__ _n_  
+__gerbil__ _n_ /ˈdʒɜːbɪl/ (gerbille) :es: jerbo  
 __gibberish__ _n_  
 __gibe__ _n, v_ (jibe)  
 __glean__ _v_ :es: espigar; recoger  
@@ -89,9 +101,14 @@ __hyperbole__ _n_ :mega: /hye-PER-buh-lee/
 __illustrate__ _v_  
 __impeach__ _v_ :two: To charge (a public official) before a competent tribunal with misconduct in office.  
 __impeachment__  
+__in hiding__ _adv_ Quietly in concealment. _Syn_ doggo, out of sight  
+__in memoriam__  
 __incalescent__  
 __incarcerate__ _vt_ /ɪnˈkɑr səˌreɪt/  
 __incarceration__ _n_ The act of imprisoning someone or the state of being imprisoned.  
+__inconceivable__  
+__indictment__ _n_ :mega: /ɪnˈdaɪt mənt/  
+__infelicific__  
 __inferrer__ _n_  
 __inflamed__ _adj_ /ɪnˈfleɪmd/ Swollen, red, and painful as a result of disease or injury.  
 __ingurgitate__ _v_ To swallow greedily or in excessive amounts; gulp.  
@@ -107,14 +124,21 @@ __jeer__ _n, v_
 __jellyfish__ _n_ :es: medusa  
 __jeopardy__ _n_ /JEP-er-dee/  
 __juvenile__ _adj, n_  
+__kvell__ _n_ /kvɛl/ _slang_  
 __livelihood__ _n_  
 __lofty__  
 __looking glass__ _n_  
 __machination__ _n_  
+__mea culpa__ _n_ An acknowledgment of a personal error or fault: _The authors issued a mea culpa after their plagiarism was revealed._  
 __middlebrow__ _n informal_ [:scroll: Formed on the pattern of highbrow and lowbrow] One who is somewhat cultured, with conventional tastes and interests; one who is neither highbrow nor lowbrow.  
 __mismatch__ _n_ :pencil2:  
+__mothering__ _n_ The nurturing and raising of a child or children by a mother.  
+__newbie__  
+__onus__  
 __out-of-body__ _adj_  
+__outhouse__ _n_ A small building detached from a house, such as a garden shed or sometimes a toilet.  
 __outrank__ _v_  
+__outwit__ _vt_  
 __over-the-counter__  
 __paravalvular__ _adj_ Surrounding or adjacent to a heart valve.  
 __pardon__ _v_  
@@ -136,7 +160,7 @@ __picket line__ _n_
 __picturesque__  
 __pitfall__ _n_ __1__ An unsuspected difficulty or danger.  
 __pixie__ _n_ A fairy; specifically: a cheerful mischievous sprite.  
-__plethora__  
+__plethora__ _n_ :two::hammer::mega: /ˈplɛθərə/  
 __plumb__ _adj, adv, n, v_  
 __poignant__ _adj_  
 __posit__ _v_  
@@ -144,6 +168,7 @@ __posit<sup>1</sup>__ _vt_ __2__ To lay down or assume as a fact or principle; p
 __posit<sup>2</sup>__ _n_ :astonished: Something that is posited; an assumption; postulate.  
 __prebiotic__ _n_  
 __prig__ _n_  
+__primary__ _n_ An election in which qualified voters nominate or express a preference for a particular candidate or group of candidates for political office, choose party officials, or select delegates for a party convention.  
 __primer__ _n_ :mega: /PRIMM-er/  
 __prix fixe__ _n_ :mega: /PREE-FEEKS, PREE-FIK/  
 __proactive__ _adj_ Acting in advance to deal with an expected difficulty; anticipatory: _proactive steps to prevent terrorism._  
@@ -157,6 +182,7 @@ __pubic symphysis__ _n_ The fixed joint at the front of the pelvic girdle where 
 __pulchritudinous__ _adj_ Ysed of persons only; having great physical beauty: _pulchritudinous movie stars._  
 __pusillanimous__ _adj_ Weak and afraid of danger.  
 __quadrennial__  
+__quell__ _vt_  
 __quiche__ _n_ /KEESH/  
 __quinoa__ _n_ :mega: /KEEN-wah, kee-NOH-uh/  
 __quirk__ _n_ /KWERK/ _Quirk_ refers to an unusual habit or way of behaving. It can also refer to something strange that happens by chance, as in “a quirk of fate.”  
@@ -180,6 +206,7 @@ __restraint__ _n_
 __resurgence__ _n_  
 __retinue__ _n_ /RET-uh-noo/ [:scroll: _Retinue_ comes via Middle English from the Anglo-French verb _retenir_, meaning “to retain or keep in one’s pay or service.”] A retinue is a group of helpers, supporters, or followers.  
 __revolver__ _n_ /rɪˈvɒl vər/ __1__ A handgun having a revolving cylinder with several cartridge chambers that may be fired in succession.  
+__rhinitis__ _n_ Inflammation of the nasal mucous membranes.  
 __rife__ _adj_  
 __rigorous__ _adj_  
 __ringleader__ _n_ /ˈrɪŋˌliːdə/ A person who leads others in any kind of unlawful or mischievous activity. :es: cabecilla  
@@ -197,11 +224,19 @@ __shoestring__ _n_ (shoe string) Marked by or consisting of a small amount of mo
 __sloth__ _n_  
 __snot__  
 __snotter__ _v_ To breathe noisily.  
+__solid cancer__ _n_  
 __specious__ _adj_ /ˈspiːʃəs/  
+__squabble__ _n_  
+__strident__  
+__strike action__ _n_ Strike action, also called labor strike, labour strike, or simply strike, is a work stoppage, caused by the mass refusal of employees to work.  
 __Super Tuesday__ _n_  
 __tergiversate__ _vi_ /tuhr-JIV-uhr-sayt, TUHR-juh-vuhr-sayt/ __1__ To use evasions or ambiguities; equivocate.  
 __tortuous__ _adj_  
+__twitterpated__ _adj_ _informal_ Excited or overcome by romantic feelings; smitten.  
+__ultra__ _adj, n_  
+__unviable__ _adj_ /ʌnˈvaɪəbəl/  
 __unwavering__ _adj_ /ʌnˈweɪvərɪŋ/  
+__upskilling__ _n_ Teaching or learning additional skills.  
 __Walkie Scorchie__ _n_ :astonished:  
 __watch list__ _n_ A list of people or things that are being closely watched because they are likely to do or experience bad things in the future. _The animals are on a watch list of species that could become extinct soon._  
 __whereas__ _conj_ /ʰwɛərˈæz, wɛər-/  
