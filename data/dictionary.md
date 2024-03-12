@@ -15335,24 +15335,27 @@ __resounding__ _adj_ :two::hammer: _The answer is a resounding yes._
 __respirator__ _n_ :two: A masklike device, usually of gauze, worn over the mouth, or nose and mouth, to prevent the inhalation of noxious substances or the like. Health professionals wear respirators to filter out virus particles as they breathe in so they don’t get infected with COVID-19 while helping people and patients.  
 __respite__ _n_ :nine::m: /ˈrɛspɪt; -paɪt/ A respite is a break from something that’s difficult or unpleasant. If you’re cramming for exams, take an occasional walk to give yourself a respite from the intensity.  
 __resplendent__ _adj_ :two::pencil2: Splendid or dazzling in appearance; brilliant.  
-__respondent__ _n_ :three::hammer: (respondents)  
+__respondent__ _n_ :four::hammer: /rɪˈspɒn dənt/  
 __responsibility__ _n_ :four::pencil2::mega::hammer: _With great power comes great responsibility._  
 __responsibly__ _adv_ In a responsible manner.  
 __responsive__ _adj_ /rih-SPAHN-siv/  
 __rest home__ _n_  
+__rest__ _n_ __13__ (Billiards & Snooker) Any of various special poles used as supports for the cue in shots that cannot be made using the hand as a support.  
 __restate__ _v_  
 __restaurateur__ _n_ :three: /res-tuh-ruh-TER/ A restaurateur is a person who owns or manages a restaurant.  
 __restenosis__ _n_  
+__resting state__ _n_ The physiologic condition achieved by complete bed rest for at least 1 hour.  
 __restitution__ _n_ _Pierucci must pay $928 in restitution._  
 __restive__ _adj_ :four: Unwilling to be controlled or be patient.  
 __restless__ _adj_  
 __restlessness__  
+__restorative__  
 __restrain__ _v_ _Adding competition could restrain prices._  
 __restrained__ _adj_ /rɪˈstreɪnd/  
-__restraint__ _n_ :three: __3__ Control of the expression of one’s feelings; constraint.  
+__restraint__ _n_ :four: __3__ Control of the expression of one’s feelings; constraint.  
 __restroom__ _n_  
 __resumption__ _n_ :eight::pencil2: _n_ The act or an instance of resuming; a beginning again: _resumption of negotiations._ _A possible resumption of talks between those countries._ _The resumption of negotiations._ _Power resumption._  
-__resurgence__  
+__resurgence__ _n_ :two::hammer:  
 __resurrection__ _n_ /ˌrɛz əˈrɛk ʃən/ _The community applauded the resurrection of the commuter rail system._  
 __resuscitate__ _v_ :astonished:  
 __retailer__ _n_ :three: A retailer is a person or business that sells goods to the public. _Big retailers lik Walmart, Target, Amazon._ _Big Lots, discount retailer; Staples, office supplies retailer._  
@@ -15370,7 +15373,7 @@ __reticent__ _adj_ :three::astonished: /RET-uh-sunt/ Inclined to keep one’s th
 __reticle__ _n_ A grid or pattern placed in the eyepiece of an optical instrument, used to establish scale or position. _Syn_ graticule, reticule  
 __reticular__  
 __reticulation__ _n_ Arrangement in the form of a network, as for decoration.  
-__retinue__ _n_ :nine::m: The retainers or attendants accompanying a high-ranking person. :es: séquito, comitiva _The Duc d’Orleans had a total retinue of over sixty._  
+__retinue__ _n_ :nine::m: /RET-uh-noo/ [:scroll: _Retinue_ comes via Middle English from the Anglo-French verb _retenir_, meaning “to retain or keep in one’s pay or service.”] A retinue is a group of helpers, supporters, or followers. The retainers or attendants accompanying a high-ranking person. :es: séquito, comitiva _The Duc d’Orleans had a total retinue of over sixty._  
 __retiree__ _n_ :four::hammer: (retirees) :es: jubilado  
 __retirement__  
 __retooled__ _v_ :three::hammer:  
@@ -15420,6 +15423,7 @@ __revive__ _v_ _To revive unemployment benefits._
 __revocation__  
 __Revolutionary War__  
 __revolve__ _v_  
+__revolver__ _n_ /rɪˈvɒl vər/ __1__ A handgun having a revolving cylinder with several cartridge chambers that may be fired in succession.  
 __revue__ _n_ :five::mega: A light theatrical entertainment consisting of a series of short sketches, songs, and dances, typically dealing satirically with topical issue. _A kazoo revue._ _A musical revue._ _Improv revues._ _Female impersonators in a Las Vegas-style cabaret revue._ :es: revista, show  
 __reward__ _n_ :mega:  
 __rewrite__ _n_ __1__ The act or an instance of rewriting. __2__ Something rewritten.  
@@ -15435,6 +15439,7 @@ __rhetorician__ _n_ A person who delivers a speech or oration. _Syn_ orator, spe
 __rheum__ _n_ :two: A watery or thin mucous discharge from the eyes or nose. :es: legaña  
 __rheumy__  
 __rhinestone__ _n_ :two::hammer: _Rhinestone glasses._ _Rhinestone cowboy hat._  
+__rhinitis__ _n_ Inflammation of the nasal mucous membranes.  
 __rhino__ _n_ /ˈraɪnəʊ/ Short for rhinoceros.  
 __rhinoceros__ _n_ :mega:  
 __rhinosinusitis__ _n_ Inflammation of the mucous membrane of the nose and paranasal sinuses. _Syn_ nasosinusitis _Chronic rhinosinusitis._  
@@ -15491,7 +15496,7 @@ __rightful__ _adj_ _Edward III announced himself the rightful King of France._
 __rightfully__ _adv_ :two::hammer: _Rightfully so._ :es: con razón  
 __rigmarole__ _n_ :seven: __1__ Confused or meaningless talk. Confused, rambling, or incoherent discourse; nonsense. _Syn_twaddle, story, saga, trash, jargon, yarn, gibberish, spiel _When I asked why he missed the meeting, he gave me some rigmarole about the train being late._ __2__ A complex and sometimes ritualistic procedure. _Rigmarole controls._  
 __rigor__ _n_ :two::hammer:  
-__rigorous__ _adj_ :dart:  
+__rigorous__ _adj_ :dart::two::hammer:  
 __rigors__ _n_  
 __rile__ _v_ :six: (riles, riled, rile up) Make (someone) annoyed or irritated. _A tactic often intended to rile pitchers._ _Of all the things to get riled up about right now, Cam Newton’s touchdown dance ought to be at the bottom of the list._ :es: sacar de quicio  
 __rim__ _n_ _Utah missed shots at the rim and turned the ball over 18 times._  
@@ -15503,7 +15508,7 @@ __ring<sup>1</sup>__ _n_ _A narcotics ring._
 __ring<sup>2</sup>__ _v_ :two::hammer: _Ring the emergency service immediately._ _He was ringed by enemies._  
 __ringed__ _adj_ __1__ Wearing or marked with a ring or rings. _A man whose ringed nose marked him a slave brought wet cloths for theis hands and faces._ __2__ Encircled or surrounded by bands or rings. __3__ (Zoology) Formed from segmented rings; annulate.  
 __ringer__ _n_ :three: __1__ A person who is almost identical to another. _Syn_ clone _I have been told I am a ringer for Bono, but the similarities end the moment I pick up a microphone._ __2__ A contestant, esp a horse, entered in a competition under false representations of identity, record, or ability. _Someone might be throwing in a ringer._  
-__ringleader__ _n_ :two::hammer:  
+__ringleader__ _n_ :three: /ˈrɪŋˌliːdə/ A person who leads others in any kind of unlawful or mischievous activity. :es: cabecilla  
 __ringlets__  
 __ringmaster__ _n_ :two: A person who is in charge of the performances in a circus ring.  
 __ringside__ _n_ :two::hammer: _A ringside seat._  
@@ -15544,9 +15549,10 @@ __roach paste__
 __roach__ _n_ :two::hammer: _Roach paste._  
 __road map__ _n_ :two::hammer::pencil2:  
 __road salt__ _n_  
-__roadblock__ _n_ :three::hammer: _Substantial roadblocks stand in the way._  
+__roadblock__ _n_ :four::hammer: _Substantial roadblocks stand in the way._  
 __roadkill__ _n_ The remains of an animal or animals killed on the road by motor vehicles. _That coat is made of either pure possum or random roadkill. (Sara Rosinsky)_  
 __roadside__ _n_ :two: __1a__ Ahe area at the edge of a road. __b__ (as modifier): _roadside diners._ _Roadside billboards._  
+__roadster__ _n_  
 __roam__ _v_ :nine::m: (roaming) __1__ To move about without purpose or plan; wander. :es: vagar _Dinosaurs roaming the turf in Charlotte._ _To roam the country._ _Users must be able to roam between networks._ _Cuts of beef served tableside by a parade of roaming carvers._  
 __roaring__ _adj_ :two::hammer: _A roaring marble fireplace._  
 __roast__ _n_  
@@ -15557,7 +15563,7 @@ __robed__ _adj_ Dressed or clothed especially in fine attire; often used in comb
 __Robert Burns__ _n_  
 __robin-breasted__  
 __Robinson__ _n_ /ˈrɒbɪnsən/  
-__robocall__ _n_ A prerecorded telephone message transmitted by an automated device, usually as part of a marketing campaign.  
+__robocall__ _n_ :two: A prerecorded telephone message transmitted by an automated device, usually as part of a marketing campaign.  
 __robust__ _adj_ Marked by richness and fullness of flavor. _Syn_ full-bodied, racy, rich _There is nothing like the robust flavor of fresh-brewed coffee._  
 __rock salt__ _n_ _Rock salt is used in the UK to treat roads during the winter months._  
 __rock__ _v_ :two::hammer: _A teen is rocket when her perfect brother starts dating her best friend._ _T.Y. Hilton helped rock the Jacksonville Jaguars._  
@@ -15669,6 +15675,7 @@ __rough > the rough__ _n_ __2b__ (Sports) The area of a golf hole in which the g
 __rough__ _adj_  
 __rough-cut__ _adj_ Lacking refinement or cultivation or taste.  
 __roughly__ _adv_ :two::hammer:  
+__roughneck__ _n_ A cruel and brutal fellow. _Syn_ yobo, bully, hooligan, rowdy, ruffian, yob, tough  
 __roughshod__ _adv_ :five::hammer:  
 __round out__ _v_ :three::hammer: _Alluring martinis round out the experience._  
 __round robin__ _n_ :three::hammer: _The con game is one round robin._  
@@ -15717,7 +15724,8 @@ __rudderless__
 __ruddy__ _adj_ :nine::m: Ruddy is used to describe something that is reddish—like the color of red hair, tomatoes, or your cheeks on a cold winter’s day. _Until her skin was ruddy._  
 __rude__  
 __rudiment__ _n_  
-__rue__ _v_ :eight::astonished::pencil2: (rues, rued) To be sorry about something and wish that it had not happened. A more usual word is regret. _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
+__rue<sup>1</sup>__ _v_ :nine::astonished::pencil2: (rues, rued) To be sorry about something and wish that it had not happened. A more usual word is regret. _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
+__rue<sup>2</sup>__ _n_ /roo/ __1__ Sorrow; repentance; regret. __2__ Pity or compassion.  
 __rueful__ _adj_ :six::dart::hammer: _He gave a rueful smile._  
 __ruefully__ _adv_ :nine::m: In a rueful manner. _Syn_ contritely, remorsefully _Dan shook his head ruefully._  
 __rufescent__ _adj_ :two: /ru-FES-uhnt/ [:scroll::astonished: From Latin rufus (red, reddish)] Reddish. Tinged with red.  
@@ -15867,7 +15875,7 @@ __saltigrade__ _adj_ Having the feet or legs adapted to leaping—usually used o
 __saltimbanco__ _n_ A mountebank; a person who sells quack medicines from a platform.  
 __saltines__ _n_  
 __salty__  
-__salubrious__ _adj_ :three: Conducive or favorable to health or well-being.  
+__salubrious__ _adj_ :four: /suh-LOO-bree-us/ Conducive or favorable to health or well-being.  
 __saludatorian__ _n_ The student with the second highest academic rank in a class who delivers the salutatory at graduation exercises.  
 __saludatory__  
 __salutary__ _adj_ :two::hammer: _Salutary effects._  
@@ -16054,6 +16062,8 @@ __scent<sup>2</sup>__ _v_ :mute:[s~~c~~ent]
 __scented__ _adj_  
 __schadenfreude__ _n_ :five::astonished: /SHAH-dun-froy-duh/ (Schadenfreude) Pleasure derived from the misfortunes of others. _Schadenfreude was felt by many viewers when the arrogant contestant was voted off the show._  
 __schedule__ _n_ _A schedule was set._  
+__schema__  
+__scheme__  
 __schemer__ _n_ A planner who draws up a personal scheme of action.  
 __schism__ _n_ :four: A separation or division into factions. _Syn_ discord, split :es: cisma _Heretics were burned for attempting to create a schism in the Catholic Church._  
 __schizoid__ _adj_ _She had a schizoid personality._  
@@ -16152,6 +16162,7 @@ __screen<sup>1</sup>__ _n_ _Chemists apply the test on only those molecules that
 __screen<sup>2</sup>__ _v_ (screened) _The horsemen screened the advance of the column._  
 __screencap<sup>1</sup>__ _n informal_ A screenshot.  
 __screencap<sup>2</sup>__ _v informal_ To take a screenshot.  
+__screeve__ _v_ To write (as a letter) in order to beg.  
 __screwball<sup>1</sup>__ _adj_ :three::hammer: _A classic screwball comedy._ _The screwball buddy comedy._  
 __screwball<sup>2</sup>__ _n_  
 __screws > put the screws on someone__ _phr informal_ To use force or threats to make someone do what you want. Usage notes: In the past, screws or thumbscrews (torture instrument) were devices used to hurt people by crushing their thumbs in order to force them to do something. _They put the screws on him until eventually he was forced to resign._  
@@ -16616,7 +16627,7 @@ __shoebox__ _n_
 __shoehorn<sup>1</sup>__ _n_ A smooth curved implement, often of plastic or metal, inserted at the heel to help put on a shoe.  
 __shoehorn<sup>2</sup>__ _v_ To squeeze into or as if into an insufficient space: _Can you shoehorn four of us into the back seat of your car?_  
 __shoeshine__ _n_  
-__shoestring<sup>1</sup>__ _n_ :two: __1__ Shoelace. __2__ A small sum of money; capital that is barely adequate: _a company that started on a shoestring._  
+__shoestring<sup>1</sup>__ _n_ :three: (shoe string) __1__ Shoelace. __2__ Marked by or consisting of a small amount of money. A small sum of money; capital that is barely adequate: _a company that started on a shoestring._  
 __shoestring<sup>2</sup>__ _adj_ :three: __1__ Long and slender: _shoestring potatoes._ __2__ Marked by or consisting of a small amount of money: _a shoestring budget._ _A shoestring budget._ _A shoestring operation._  
 __shoftlift__ _v_  
 __shogun__ _n_  
@@ -17074,7 +17085,7 @@ __slops__ _n_ :three::hammer: _He makes six bucks an hur and tips cleaning slops
 __slosh__ _v_ :nine::m: (sloshed, sloshing) __1__ _(of liquid in a container)_ Move irregularly with a splashing sound. _Water in the boat sloshed around under our feet._ _Syn_ spill, slop, splash, flow, overflow _Beer sloshed over the side of the glass._ __2__ _(of a person)_ Move through liquid with a splashing sound. _They sloshed up the tracks in the dank woods._ _Syn_ splash, squelch, wade _Workers sloshed around in boots._ :es: chapotear  
 __sloshed__ _adj_  
 __slot machine__ _n_  
-__sloth__ _n_ :six: __1__ Aversion to work or exertion; laziness; indolence. _The winter sloth._ __2__ Apathy and inactivity in the practice of virtue (personified as one of the deadly sins).  
+__sloth__ _n_ :seven: __1__ Aversion to work or exertion; laziness; indolence. _The winter sloth._ __2__ Apathy and inactivity in the practice of virtue (personified as one of the deadly sins).  
 __slothful__ _adj_  
 __slouch<sup>1</sup>__ _n_ :five::hammer: _De Coubertin was no slouch._ _Slouch hat._  
 __slouch<sup>2</sup>__ _v_ :four::hammer: (slouching)  
@@ -17252,8 +17263,9 @@ __snorkel__ _vi_
 __snort<sup>1</sup>__ _n_ :four: __2__ _slang_ __a__ A drink of liquor, especially when swallowed in one gulp. _Karl took a snort of vodka for courage and headed for the dance floor._ :es: (trago, chupito) Karl tomó un trago de vodka para envalentonarse y se dirigió a la pista de baile. __b__ Cocaine or heroin, especially a small amount sniffed at one time. _A lifestyle of snorting and scrapping._ __c__ The liquor or drug so taken. _Zig offered free snorts of cocaine._  
 __snort<sup>2</sup>__ _vi_ :four::hammer: (snorted, snorting) _Ada snorted in derision._  
 __snot rag__  
-__snot__ _n_ _slang_ :four: __1__ Nasal mucus; phlegm. __2__ An annoying, arrogant, or impertinent person.  
+__snot__ _n_ _slang_ :five: __1__ Nasal mucus; phlegm. __2__ An annoying, arrogant, or impertinent person.  
 __snot-nosed__ _adj_ (used colloquially) Overly conceited or arrogant.  
+__snotter__ _v_ To breathe noisily.  
 __snout__ _n_  
 __Snow Belt__ _n_ (Snowbelt) The northern parts of the U.S. that are subject to considerable snowfall.  
 __snow monkey__ _n_ The Japanese macaque, Macaca fuscata.  
@@ -17353,6 +17365,7 @@ __solicit__ _v_ :three::hammer: (solicited) _We solicited questions to our fanba
 __solicitor__ _n_ /səˈlɪsɪtəʳ/  
 __solicitous__ _adj_ :two::hammer:  
 __solicitude__ _n_ A feeling of excessive concern.  
+__solid cancer__ _n_  
 __solid gold__  
 __solid__ _adj_ :dart::seven::hammer: _A solid sell._ _It lasted a solid year._ _It rained for a solid week._ _Solid gold, solid wood._ :es: macizo  
 __solidify__ _v_ :two: __1__ To make solid, compact, or hard: _an ingredient that solidifies the mixture._ __2__ To make strong or united: _a speech that solidified her supporters._  
@@ -17498,7 +17511,7 @@ __specifically__
 __specificity__ _n_ The ability of a test to correctly identify people without the disease.  
 __specifics__ _n_ _The new project lacks many specifics at this point, including a detailed timeline and budget._  
 __specimen__ _n_ _An adequate nasopharyngeal specimen._  
-__specious__ _adj_ :four: /SPEE-shuss/ __1__ Having deceptive attraction or allure. _The new streamlined design of the phone is specious: it may look new, but its innards are the same, offering no new capabilities or improvements._ __2__ Having a false look of truth or genuineness. _The suspect insisted he was telling the truth, but the detective felt his statements were specious._ _Specious argument._  
+__specious__ _adj_ :five: /SPEE-shuss/ /ˈspiːʃəs/ __1__ Having deceptive attraction or allure. _The new streamlined design of the phone is specious: it may look new, but its innards are the same, offering no new capabilities or improvements._ __2__ Having a false look of truth or genuineness. _The suspect insisted he was telling the truth, but the detective felt his statements were specious._ _Specious argument._  
 __speck__ _n_ :two::hammer: _A speck of blood._  
 __speckle__ _v_  
 __speckled__ _adj_ _Speckled hen._  
@@ -17680,7 +17693,7 @@ __sputum__ _n_
 __spy on__ _phr v_ _Spy on someone._  
 __squab__  
 __squabble<sup>1</sup>__ _v_ :six: To engage in a bad-tempered argument, often over a trivial matter; bicker. _A squabbling family._  
-__squabble<sup>2</sup>__ _n_ :three: A noisy quarrel about something trivial. _Shrieking marital squabbles._ _Syn_ quarrel, row, argument, fight  
+__squabble<sup>2</sup>__ _n_ :four: A noisy quarrel about something trivial. _Shrieking marital squabbles._ _Syn_ quarrel, row, argument, fight  
 __squabbling__ _n_ Petty quarrelling. _All this damn squabbling._  
 __squack__  
 __squad car__ _n_ :four::hammer: _The squad car camera was not activated._  
@@ -18141,7 +18154,9 @@ __stricken__ _adj_ :seven::hammer: _Stricken people._
 __stricture__ _n_ :three::hammer: _The strictures on women’s behavior were easing._  
 __stride__ _n_ :dart: __4__ (often strides) A step of progress; an advance: _making great strides in their studies._ _He made great strides during his presidency._  
 __stridence__ _n_ :two::hammer:  
+__strident__  
 __strife__ _n_ :nine::m: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
+__strike action__ _n_ Strike action, also called labor strike, labour strike, or simply strike, is a work stoppage, caused by the mass refusal of employees to work.  
 __Strike Force__ _n_ A group or team, as of law-enforcement agents, who are assigned to one special problem.  
 __strike warfare__  
 __strike<sup>1</sup>__ _n_ __4a__ A cessation of work by employees in support of demands made on their employer, as for higher pay or improved conditions. __b__ A temporary stoppage of normal activity undertaken as a protest.  
@@ -18364,6 +18379,7 @@ __suntan__ _n_
 __Suntory__ _n_  
 __sunup__ _n_  
 __suped-up__ _adj_ Of a motor vehicle modified for higher performance, applied by extension to other items.  
+__Super Tuesday__ _n_  
 __super-duper__ _adj_ :six: (super duper) _informal_ Extremely pleasing, impressive, etc: often used as an exclamation. _Super-duper crisp chicken wings._ _We’ve got super-duper telescopes._  
 __superannuated__ _adj_ Retired because of age or infirmity. __2__ Antiquated.  
 __superb__ _adj_  
@@ -18893,7 +18909,7 @@ __tenure-track__ _adj_ :two::hammer:
 __tenured__  
 __tepid__ _adj_ :six::hammer:  
 __tequila poppers__  
-__tergiversate__ _v_ :two: __1__ To use evasions or ambiguities; equivocate. __2__ To change sides; apostatize.  
+__tergiversate__ _vi_ :three: /tuhr-JIV-uhr-sayt, TUHR-juh-vuhr-sayt/ __1__ To use evasions or ambiguities; equivocate. __2__ To change sides; apostatize.  
 __tergiversation__ _n_ /tuhr-ji-vuhr-SAY-shuhn/ __1__ Misleading, evasive, or ambiguous speech or action. __2__ Desertion of a party, position, cause, etc.  
 __teriyaki__ _n_  
 __termagant__ _n_ :two: A quarrelsome, scolding woman. _Syn_ shrew _His aunt was such a termagant that he dreaded her annual visit._  
@@ -19361,7 +19377,7 @@ __torpor__ _n_ :six: A state of physical or mental inactivity; lethargy. _They v
 __torrid__ _adj_ :three: Scorching; burning. _Syn_ fervent, fiery, ardent, burning _The torrid noonday sun shone down on the travelers in the desert._ _A torrid affair._  
 __torte__ _n_ _A torte was named after her._  
 __torticollis__ _n_  
-__tortuous__ _adj_ /TOR-chuh-wus/ __1__ Tortuous means “having many twists and turns” or “winding.” _They took a tortuous mountain road marked by numerous hairpin turns._ __2__ It can also mean “marked by devious or indirect tactics” or “complicated, long, and confusing.” _He delivered a tortuous explanation when questioned by press._ _The contract’s tortuous language made it a maddening read._  
+__tortuous__ _adj_ :two: /TOR-chuh-wus/ __1__ Tortuous means “having many twists and turns” or “winding.” _They took a tortuous mountain road marked by numerous hairpin turns._ __2__ It can also mean “marked by devious or indirect tactics” or “complicated, long, and confusing.” _He delivered a tortuous explanation when questioned by press._ _The contract’s tortuous language made it a maddening read._  
 __torturous__ _adj_ :two: (Not to be confused with: tortuous – circuitous; devious; full of twists, turns, or bends) Extremely painful. _Syn_ agonizing, excruciating, harrowing _Losing someone you love is a torturous experience._ Pertains to suffering: _We toil in the torturous heat._  
 __toss__ _v_ :three::hammer: (tossing)  
 __toss-up__ _n_ :two::hammer: (toss-ups)  
@@ -19783,6 +19799,7 @@ __twit__ _n_ _The damned last boy was a twit._
 __twitch<sup>1</sup>__ _n_ :two::hammer: _That wad a beautiful last twitch._  
 __twitch<sup>2</sup>__ _v_ :nine: __1__ _vt_ To draw, pull, or move suddenly and sharply; jerk: _I twitched my fishing line._ _The curtain was twitched._ __2__ _vi_ To move jerkily or spasmodically. _A curtain twitched in the house next door._ __3__ _vi_ To ache sharply from time to time; twinge.  
 __twitchy__ _adj_ :two: __1__ Nervous, worried, and ill-at-ease: _he was twitchy with anticipation._ _Syn_ edgy, fidgety, jittery, jumpy, nervous, restive, restless, skittish, tense, uptight, a bundle of nerves, all wound up, on edge __2__ Characterized by jerky or spasmodic motion: _a cat’s twitchy whiskers._  
+__twitterpated__ _adj_ _informal_ Excited or overcome by romantic feelings; smitten.  
 __two__ _adj, n_ :mute:[t~~w~~o]  
 __two-dimensional__ _adj_ :astonished: Lacking the expected range or depth. _Syn_ flat _The actress’s two-dimensional performance was especially disappointing given the emotional complexity of the character she was playing._  
 __two-fisted__ _adj_ /to͞o′fĭs′tĭd/ [:scroll: The term describes someone using both hands, literally or figuratively, where a clenched fist alludes to vigor, resolve, etc.] __1__ Using or held by both hands: _a two-fisted backhand stroke in tennis._ __2__ _informal_ Characterized by vigor, roughness, or aggression. Strong, tough, and vigorous: _a hard-drinking two-fisted hunter; two-fisted frontier justice._  
@@ -19814,6 +19831,7 @@ __ulnar__ _adj_
 __ulterior__ _adj_  
 __ultimately__  
 __ultimatum__ _n_ :mega:  
+__ultra__ _adj, n_  
 __ultra-processed food__ _n_ The term usually refers to food with ingredients we wouldn’t use at home, such as colorings, flavors, emulsifiers, sweeteners, and preservatives. Food has been significantly changed from its original state, with salt, sugar, fat, additives, preservatives and/or artificial colors added. Examples of these foods are frozen meals, soft drinks, hot dogs and cold cuts, fast food, packaged cookies, cakes, and salty snacks.  
 __ultramarine<sup>1</sup>__ _adj_  
 __ultramarine<sup>2</sup>__ _n_ :astonished::two: A blue pigment made from powdered lapis lazuli; a vivid or strong blue to purplish blue. _Syn_ indigo, French blue _She found a piece of fabric dyed ultramarine, which would make a perfect sash for the light blue dress she was making._  
@@ -20036,9 +20054,10 @@ __untilled__ _adj_ _Untilled fields._
 __unto__ _prep_ /ˈʌntuː/ An archaic word for to. _Do unto others._  
 __untoward__ _adj_ :three: __1__ Improper; unseemly: _untoward behavior._ __2__ Unfavorable or adverse: _an untoward incident._  
 __untuck__ _v_  
+__unviable__ _adj_ /ʌnˈvaɪəbəl/  
 __unwarranted__  
 __unwary__ _adj_  
-__unwavering__ _adj_  
+__unwavering__ _adj_ :two::hammer: /ʌnˈweɪvərɪŋ/  
 __unwell__ _adj_  
 __unwielding__  
 __unwieldy__ _adj_ :four: __1__ Difficult to carry or handle because of size, shape, or weight. __2__ Hindering progress because of complexity; hard to manage or deal with: _an unwieldy bureaucracy._ _Unwieldy design and operational complexity must be avoided._  
@@ -20105,7 +20124,7 @@ __upshot__ _n_ :nine: The final outcome. _Syn_ conclusion, result _The upshot of
 __upside__ _n_ :five: __1__ The upper side or portion. __2__ An advantageous aspect: _the upsides and downsides of home ownership._ _Working from home has its upsides as well as downsides._ _The gig did have some upsides._ _I like his speed, and I like his upside._ _The aging Knicks could use upside._ __3__ An upward tendency, as in business profitability or in the prices of a stock.  
 __upside-down__ _adj_ _An upside-down case._  
 __upskill__ _vt_ :dart: To improve the aptitude for work of (a person) by additional training.  
-__upskilling__ _n_ :dart::two: Teaching or learning additional skills.  
+__upskilling__ _n_ :dart::three: Teaching or learning additional skills.  
 __upskirt__ _v_ (upskirted)  
 __upskirting__ _n_  
 __upslope__ _n_  
@@ -20505,6 +20524,7 @@ __walk<sup>1</sup>__ _v_ :mute:[wa~~l~~k]
 __walk<sup>2</sup>__ _n_ :mute:[wa~~l~~k]  
 __walkabout__  
 __walkaway__ _n_ An easy victory.  
+__Walkie Scorchie__ _n_ :astonished:  
 __walking trail__ _n_ :two::hammer: _Many airports are upping their game, adding walking trails._  
 __walkout__ _n_ :nine: __1__ A labor strike. A strike by workers. __2__ The act of leaving or being absent from a meeting, esp. as an expression of protest. _The walkout at the United Nations by all the Middle Eastern delegates._  
 __walkup__ _n_ (walkups) __1__ An apartment house or office building with no elevator. __2__ An apartment or office in a building with no elevator.  

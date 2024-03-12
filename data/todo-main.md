@@ -198,46 +198,6 @@ __remuneration__ _n_ :mega: /rih-myoo-nuh-RAY-shun/
 __renewal__ _n_  
 __renowned__ _adj_ :two::hammer:  
 __reptilian__ _adj_ :dart: /rep-TIL-ee-uhn, -TIL-yuhn/ __1__ Contemptible. __2__ Treacherous. __3__ Like a reptile.  
-__respondent__ _n_ /rɪˈspɒn dənt/  
-__rest__ _n_ __13__ (Billiards & Snooker) Any of various special poles used as supports for the cue in shots that cannot be made using the hand as a support.  
-__resting state__ _n_ The physiologic condition achieved by complete bed rest for at least 1 hour.  
-__restorative__  
-__restraint__ _n_  
-__resurgence__ _n_  
-__retinue__ _n_ /RET-uh-noo/ [:scroll: _Retinue_ comes via Middle English from the Anglo-French verb _retenir_, meaning “to retain or keep in one’s pay or service.”] A retinue is a group of helpers, supporters, or followers.  
-__revolver__ _n_ /rɪˈvɒl vər/ __1__ A handgun having a revolving cylinder with several cartridge chambers that may be fired in succession.  
-__rhinitis__ _n_ Inflammation of the nasal mucous membranes.  
-__rife__ _adj_  
-__rigorous__ _adj_  
-__ringleader__ _n_ /ˈrɪŋˌliːdə/ A person who leads others in any kind of unlawful or mischievous activity. :es: cabecilla  
-__roadblock__ _n_  
-__roadster__ _n_  
-__robocall__ _n_  
-__roughneck__ _n_ A cruel and brutal fellow. _Syn_ yobo, bully, hooligan, rowdy, ruffian, yob, tough  
-__rue<sup>1</sup>__ _v_  
-__rue<sup>2</sup>__ _n_ /roo/ __1__ Sorrow; repentance; regret. __2__ Pity or compassion.  
-__salubrious__ _adj_ /suh-LOO-bree-us/  
-__schema__  
-__scheme__  
-__screeve__ _v_ To write (as a letter) in order to beg.  
-__shoestring__ _n_ (shoe string) Marked by or consisting of a small amount of money.  
-__sloth__ _n_  
-__snot__  
-__snotter__ _v_ To breathe noisily.  
-__solid cancer__ _n_  
-__specious__ _adj_ /ˈspiːʃəs/  
-__squabble__ _n_  
-__strident__  
-__strike action__ _n_ Strike action, also called labor strike, labour strike, or simply strike, is a work stoppage, caused by the mass refusal of employees to work.  
-__Super Tuesday__ _n_  
-__tergiversate__ _vi_ /tuhr-JIV-uhr-sayt, TUHR-juh-vuhr-sayt/ __1__ To use evasions or ambiguities; equivocate.  
-__tortuous__ _adj_  
-__twitterpated__ _adj_ _informal_ Excited or overcome by romantic feelings; smitten.  
-__ultra__ _adj, n_  
-__unviable__ _adj_ /ʌnˈvaɪəbəl/  
-__unwavering__ _adj_ /ʌnˈweɪvərɪŋ/  
-__upskilling__ _n_ Teaching or learning additional skills.  
-__Walkie Scorchie__ _n_ :astonished:  
 __watch list__ _n_ A list of people or things that are being closely watched because they are likely to do or experience bad things in the future. _The animals are on a watch list of species that could become extinct soon._  
 __whereas__ _conj_ /ʰwɛərˈæz, wɛər-/  
 __whizzer__ _adj_ Something notable of its kind: such as an outstandingly attractive or able person.  
