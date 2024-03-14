@@ -1,8 +1,10 @@
 __(all) fired up__ Feeling very excited or passionate about something.  
 __(Are) you kidding (me)?__ :four::hammer:  
 __(one) figures (that)__ One presumes or anticipates (that); one reckons or thinks (that).  
+__(only) time will tell__  
 __(someone’s) take on (something)__ :dart: Someone’s perspective, opinion, or idea(s) about something.  
 __(someone/something) gets the job done__  
+__(the) clock is ticking__  
 __(the) next thing (one) knows__  
 __a (real) gas__ _slang_ A thoroughly entertaining, enjoyable, or amusing experience.  
 __a bit of__ __1__ Somewhat; rather; to some extent. _It turns out that the unusual convention of capitalizing the pronoun I was a bit of an accident._  
@@ -14,12 +16,16 @@ __a hard-luck story__ A typically self-pitying tale of misfortune, hardship, adv
 __a hot spot__  
 __a thin skin__ If someone has a thin skin, they are very easily upset or offended by criticism. _He’ll never make it in journalism with such a thin skin._  
 __a-ha moment__ :two::hammer:  
+__abide by__  
 __across the board__  
+__addy__ __3__ _slang_ A shortening of Adderall (a stimulant prescribed primarily to treat ADHD and narcolepsy), especially when used as recreationally or as a study aid.  
+__after the jump__ After a break in text on a webpage, as caused by an advertisement or a “Read more” type of link. _More about where I found these great jewelry pieces after the jump!_  
 __ah__  
 __all the rage__ _slang_ Very popular. _Disco music was all the rage in the 1970s._  
 __all year round__ Lasting or happening through the entire year.  
 __alongside of (someone or something)__  
 __an uphill battle__  
+__anytime soon__  
 __as good as it gets__  
 __as we speak__ At this very moment.  
 __at a loss__  
@@ -72,7 +78,7 @@ __by design__ :dart: Deliberately and purposefully; as one planned or intended. 
 __by way of (something)__  
 __calaboose__ _slang_ Jail. The word comes from “calabozo,” the Spanish word for “dungeon.” _They’ll throw you in the calaboose if they find out that you were involved in the robbery!_  
 __call for (someone or something)__  
-__call out__  
+__call out__ :two::hammer: _Midjourney called out competitor Stability AI for scraping their images._  
 __case in point__  
 __cash in__ :two::hammer:  
 __cheers and jeers__ Praise from some and scorn from others; a mixed reaction.  
@@ -82,10 +88,14 @@ __circle back (to something)__
 __circle back__  
 __clap back__  
 __clean sweep__  
+__close in__ :two::hammer:  
 __cross (one’s) fingers__  
 __crowdfund__ /KRAUD-fuhnd/ To fund a project by raising money from a large number of people, mostly strangers and usually via the Internet.  
+__crunch (the) numbers__  
 __dead end__  
+__do or die__  
 __dogfood__ _v_ To test a company’s product by having its employees use it in their regular workday.  
+__down the line__  
 __downtime__  
 __dry run__ A practice session or test designed to identify and correct possible problems. _Let’s do a couple dry runs of your speech so you feel totally comfortable with it for tomorrow’s ceremony._  
 __dupe__ _v_ __1__ To deceive or trick one. _The student tried to dupe me with a letter on which he’d forged his mom’s signature._  
@@ -93,6 +103,7 @@ __edge out__
 __every so often__ Sometimes; occasionally.  
 __fair game (for something)__  
 __fall behind__  
+__far from over__ The idiom “far from over” generally means that a situation or event is not yet finished, resolved or settled. It suggests that there is still more to come and that the outcome is uncertain.  
 __Faustian bargain__ An agreement, bargain, or deal in which a person sacrifices or abandons moral, ethical, or spiritual values in favor of wealth, power, or other benefits. A reference to the legend of Faust, who sold his soul to the devil for unlimited knowledge and power.  
 __feel the heat__ __2__ To deal with or come up against intense pressure or hostility.  
 __ferret out__ To discover or retrieve something, usually with careful effort. A noun or pronoun can be used between “ferret” and “out.” _Now that I’m a successful actress, I’m worried about what the media will ferret out about my tawdry past._  
@@ -100,6 +111,7 @@ __fill up__ :two::hammer:
 __finagle__  
 __fishing expedition__  
 __five o’clock shadow__  
+__flag__ __2__ _v_ _slang_ To fail something. _You better study hard, or you’ll flag this exam._  
 __flat-out__  
 __float an idea__ To suggest something in order to gauge interest in it or others’ perception of it.  
 __for a living__ In order to earn one’s primary income. _Roy runs a deli for a living._  
@@ -113,17 +125,20 @@ __for want of a better word__ Lacking a more precise term. _If you want to maint
 __fork over__  
 __frag__ _slang_ [:scroll: The term had its origin in the Vietnam War] To kill a fellow soldier, often a superior, with a grenade or other explosive device. The word is a shortening of “fragmentation grenade,” referring to a type of grenade that expels shrapnel over a large area. _Someone’s going to frag that guy if he keeps treating his men so poorly._  
 __free fall__  
+__free lunch__  
 __from the get-go__  
 __from time to time__  
 __frosty__ __2__ _mod_ Cool; really cool and mellow. _That music is really frosty._  
 __fuzz man__ _slang_ The police.  
 __fuzz__ _slang_ The police. _Come on, we’ve got to get out of here before the fuzz show up and bust us!_  
 __game face__ __2__ An expression of stoicism intended to mask one’s emotions or intentions. _John put his game face on as soon as I started to break up with him, so I can’t really tell how he took the new._  
+__game__  
 __get (something) in order__ __3__ To arrange or resolve something so that it is in the most proper, efficient state possible. _They brought in a consultant to help get the project in order._  
 __get down to work__ To begin being serious about something; to begin attending to business or work at hand.  
 __get into it__  
 __get it (all) together__  
 __get on (one’s) nerves__ To irritate, grate on, or exasperate one.  
+__get past (someone or something)__  
 __ghost__ _slang_  
 __ghosting__ _slang_  
 __give (one) the green light__ :two::hammer:  
@@ -166,6 +181,7 @@ __keep up__
 __king of the castle__ The most powerful, successful, or authoritative person in a group or organization.  
 __kitchen-sink__ Showing or pertaining to the lives of common, everyday people. (Always used before a noun.)  
 __latch onto (someone or something)__  
+__live up to (something)__  
 __lose (one’s) shit__  
 __loud and clear__  
 __make a fuss__  
@@ -176,10 +192,12 @@ __mixed bag__
 __mixed feelings__  
 __not have all day__ To be in a rush; to not have much or any time to spare. Usually used in the present tense. _How long is this repair job going to take? I don’t have all day!_  
 __not sleep a wink__  
+__off again, on again__  
 __off-kilter__  
 __oh boy__  
 __on a daily basis__ Once or more each day.  
 __on a mission__ :two::hammer:  
+__on the back burner__ Of a low priority; given less or little thought or attention; postponed or suspended.  
 __on the lookout__ :two: Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
 __one-off__  
 __org__ __2__ _n_ An organization.  
@@ -198,11 +216,13 @@ __plenty of (something)__ An abundant amount of; more than is needed.
 __point of contact__ A person or entity one can seek to access information or services.  
 __poster child__ :two::hammer: _OpenAI is the poster child of the gen AI wave._  
 __pull something off__ :two::hammer:  
+__put (one’s) money where (one’s) mouth is__  
+__put (someone or something) to the test__  
 __put (something or someone) on the map__ To make (a place, a person, etc.) famous or well-known.  
 __put on a happy face__ To begin to smile and act cheerful.  
 __quite a (something)__  
 __rain or shine__  
-__ramp up__ :two::hammer:  
+__ramp up__ :three::hammer:  
 __reach out to (one)__  
 __reclaim (someone or something) from (someone or something else)__ To regain or resume possession of someone or something from someone or something.  
 __ride (on) a wave of (something)__ To enjoy the advantage of or continue to benefit from a situation that is successful, fortunate, trendy, etc.  
@@ -222,9 +242,11 @@ __send the wrong message__ To do or say something that communicates a meaning di
 __set (someone or oneself) up for (something)__  
 __set sail__ To embark on a journey on water in a boat (not necessarily one with sails).  
 __set the tone__  
+__shell out__ To pay a sum of money, especially one that seems exorbitant or unfair. A noun or pronoun can be used between “shell” and “out” to specify the amount being paid.  
 __simply put__  
 __sit on (something)__  
 __slap on the wrist__  
+__slide into (someone or something)__  
 __sneak peak__  
 __sniff out__  
 __snot__  
@@ -234,6 +256,7 @@ __spill the tea__ :two::hammer:
 __spray and pray__ __1__ _informal_ To dispense anything (such as bullets or advertising) in an uncoordinated manner, hoping to reach the desired target through luck. __2__ The act of blindly firing an automatic weapon with the intent of potentially hitting the target; tends to be ineffective.  
 __strive to (do something)__ To put forth a great and tenacious effort to do or accomplish something.  
 __sugarcoat (something)__  
+__swipe at__  
 __take (something) with a dash of salt__  
 __take center stage__  
 __take home__  
@@ -254,13 +277,17 @@ __top dog__ _ChatGPT-4 is still the top dog._
 __touch on (something)__  
 __tough it out__ :dart: To persist through a difficult situation. _I’m amazed you toughed it out and went to school with such a high fever._  
 __trim the fat__ :dart: To excise or discard elements that are seen as superfluous or unnecessary.  
+__tug of war__  
 __two a penny__ Very common, ordinary, or widespread.  
 __two-edged sword__ Something that can be at once beneficial and problematic; anything having or offering both good and bad aspects or outcomes.  
+__under fire__  
 __unheard of__  
 __up in the air__ Uncertain; subject to change.  
 __walk down the aisle__ To get married.  
 __wash (one’s) mouth out (with soap)__  
+__whip up__  
 __word for word__ In or with the same exact words; verbatim. _After seeing the play only once, he was able to repeat the monologue word for word. It was amazing._  
+__yada yada yada__  
 __yikes__  
 __yup__  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  

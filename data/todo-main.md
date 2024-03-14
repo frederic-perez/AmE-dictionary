@@ -1,14 +1,18 @@
 __agave__ _n_  
 __albatross__ _n_  
 __archetypical__ _adj_ Representing or constituting an original type after which other similar things are patterned.  
+__blatant__ _adj_  
+__codebase__ _n_  
 __comedo__ _n_ (_n pl_ comedos, comedones) The primary lesion of acne vulgaris, consisting of a hair follicle that is occluded with sebum and keratin; a blackhead or whitehead.  
 __commonality__ _n_  
 __corduroy__ _n_  
 __Crown dependencies__ _n_ Three island territories in the British Islands that are self-governing possessions of the British Crown: the Bailiwick of Guernsey, the Bailiwick of Jersey, and the Isle of Man.  
+__crypto-Jew__ _n_  
 __damsel__ _n_ /ˈdæm zəl/ A maiden, orig. one of gentle or noble birth.  
 __dethrone__ _vt_  
 __diatribe__ _n_ A bitter, abusive denunciation. _Syn_ fulmination  
 __dichotomous__ _adj_  
+__dispel__ _vt_  
 __downright__ _adj, adv_  
 __downsample__ _v_  
 __dumb__ _adj_ :mega:  
@@ -62,7 +66,7 @@ __genre__ _n_
 __gerbil__ _n_ /ˈdʒɜːbɪl/ (gerbille) :es: jerbo  
 __gibberish__ _n_  
 __gibe__ _n, v_ (jibe)  
-__glean__ _v_ :es: espigar; recoger  
+__glean__ _v_ :two::hammer: :es: espigar; recoger  
 __global boiling__ _n_  
 __globetrotter__ _n_  
 __gloss__ _n_  
@@ -132,6 +136,7 @@ __machination__ _n_
 __mea culpa__ _n_ An acknowledgment of a personal error or fault: _The authors issued a mea culpa after their plagiarism was revealed._  
 __middlebrow__ _n informal_ [:scroll: Formed on the pattern of highbrow and lowbrow] One who is somewhat cultured, with conventional tastes and interests; one who is neither highbrow nor lowbrow.  
 __mismatch__ _n_ :pencil2:  
+__mondegreen__ _n_  
 __mothering__ _n_ The nurturing and raising of a child or children by a mother.  
 __newbie__  
 __onus__  
@@ -166,6 +171,7 @@ __poignant__ _adj_
 __posit__ _v_  
 __posit<sup>1</sup>__ _vt_ __2__ To lay down or assume as a fact or principle; postulate.  
 __posit<sup>2</sup>__ _n_ :astonished: Something that is posited; an assumption; postulate.  
+__pre-Columbian__ _adj_  
 __prebiotic__ _n_  
 __prig__ _n_  
 __primary__ _n_ An election in which qualified voters nominate or express a preference for a particular candidate or group of candidates for political office, choose party officials, or select delegates for a party convention.  
@@ -198,6 +204,8 @@ __remuneration__ _n_ :mega: /rih-myoo-nuh-RAY-shun/
 __renewal__ _n_  
 __renowned__ _adj_ :two::hammer:  
 __reptilian__ _adj_ :dart: /rep-TIL-ee-uhn, -TIL-yuhn/ __1__ Contemptible. __2__ Treacherous. __3__ Like a reptile.  
+__safeguard__ _n_  
+__streamline__ _vt_  
 __watch list__ _n_ A list of people or things that are being closely watched because they are likely to do or experience bad things in the future. _The animals are on a watch list of species that could become extinct soon._  
 __whereas__ _conj_ /ʰwɛərˈæz, wɛər-/  
 __whizzer__ _adj_ Something notable of its kind: such as an outstandingly attractive or able person.  
