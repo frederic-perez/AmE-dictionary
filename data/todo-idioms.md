@@ -1,33 +1,3 @@
-__(all) fired up__ Feeling very excited or passionate about something.  
-__(Are) you kidding (me)?__ :four::hammer:  
-__(one) figures (that)__ One presumes or anticipates (that); one reckons or thinks (that).  
-__(only) time will tell__  
-__(someone’s) take on (something)__ :dart: Someone’s perspective, opinion, or idea(s) about something.  
-__(someone/something) gets the job done__  
-__(the) clock is ticking__  
-__(the) next thing (one) knows__  
-__a (real) gas__ _slang_ A thoroughly entertaining, enjoyable, or amusing experience.  
-__a bit of__ __1__ Somewhat; rather; to some extent. _It turns out that the unusual convention of capitalizing the pronoun I was a bit of an accident._  
-__a breath of fresh air__  
-__a breeze__ :two::hammer: _Perplexity makes searching online a breeze._  
-__a clear future__ “A clear picture” is an idiomatic expression that means a complete and accurate understanding or representation of something.  
-__a doozy__  
-__a hard-luck story__ A typically self-pitying tale of misfortune, hardship, adversity, etc., told especially to gain sympathy or charity from others. _Here he goes again with some hard-luck story to get us to pay for his drinks._  
-__a hot spot__  
-__a thin skin__ If someone has a thin skin, they are very easily upset or offended by criticism. _He’ll never make it in journalism with such a thin skin._  
-__a-ha moment__ :two::hammer:  
-__abide by__  
-__across the board__  
-__addy__ __3__ _slang_ A shortening of Adderall (a stimulant prescribed primarily to treat ADHD and narcolepsy), especially when used as recreationally or as a study aid.  
-__after the jump__ After a break in text on a webpage, as caused by an advertisement or a “Read more” type of link. _More about where I found these great jewelry pieces after the jump!_  
-__ah__  
-__all the rage__ _slang_ Very popular. _Disco music was all the rage in the 1970s._  
-__all year round__ Lasting or happening through the entire year.  
-__alongside of (someone or something)__  
-__an uphill battle__  
-__anytime soon__  
-__as good as it gets__  
-__as we speak__ At this very moment.  
 __at a loss__  
 __at odds__  
 __at stake__  

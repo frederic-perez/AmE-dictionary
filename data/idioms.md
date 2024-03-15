@@ -1,11 +1,11 @@
 __(a little/bit) rough around the edge__  
 __(a) good sport__ Someone who can accept a loss in a competition or can accept being the butt of a joke. _Bob is usually a good sport, but this time he didn’t seem to appreciate your joke._  
-__(all) fired up__ Feeling very excited or passionate about something.  
+__(all) fired up__ :two: Feeling very excited or passionate about something.  
 __(all) joking aside__ ((all) kidding aside) Being serious for a moment; in all seriousness.  
 __(all) kidding aside__ In all seriousness; being frank for a moment.  
 __(almost) upon (one)__ (Almost) about to happen, arrive, or commence.  
 __(and) that’s that__  
-__(Are) you kidding (me)?__ :three::hammer:  
+__(Are) you kidding (me)?__ :seven::hammer:  
 __(as) easy as pie__  
 __(as) happy as a clam__ Very joyful and contented.  
 __(as) happy as a lark__ Very happy; contented. _I’ve been happy as a lark ever since we moved to the countryside._  
@@ -61,24 +61,27 @@ __(one’s) nerves are shot__ One is mentally or emotionally exhausted, overwhel
 __(one’s) other half__ One’s spouse, romantic partner, or boyfriend/girlfriend. _I’d love to come out to the bars with you after work, but I’d better check in with my other half to make sure we don’t have any plans for this evening._  
 __(one’s) secret weapon__  
 __(one) can’t wait__ One is very excited or eager for something to happen; it will be difficult for one to wait for it. The phase can be used as part of a sentence or by itself as an exclamation. :es: ¡Qué ganas!  
-__(one) figures (that)__ :two: One presumes or anticipates (that); one reckons or thinks (that).  
+__(one) figures (that)__ :three: One presumes or anticipates (that); one reckons or thinks (that).  
 __(one) has a point (there)__ :two: One’s point of view or opinion makes sense and is worth considering. _A: “It’s snowing—should we really go out for ice cream?” B: “Hmm, you have a point there.”_  
-__(only) time will tell__ :two::hammer:  
+__(only) time will tell__ :three::hammer:  
 __(out) in the open__  
 __(right) from the off__ _He knew it from the off._  
 __(right) here and now__ At this exact place and point in time; right now.  
 __(someone’s or something’s) days are numbered__ :two::hammer:  
 __(someone’s) native soil__ The country or geographical area in which someone was born or raised. _Though I’ve spent most of my adult life in London, it’s always nice to return to my native soil of Shanghai, if even for just a few days._  
+__(someone’s) take on (something)__ :dart: Someone’s perspective, opinion, or idea(s) about something.  
 __(someone) (just) doesn’t know when to quit__ Someone would be better off not doing something or acting a certain way because it is or may become destructive, counterproductive, futile, or undesirable.  
 __(someone) is endgame__ _slang_ In fandom, the idea that a particular romantic couple (or potential romantic couple) is meant to be together (and, in the context of a fictional work, that one thinks should be in a relationship when the work ends). The term is usually used by fans who are very invested in the pairing. Often, a portmanteau of the characters’ names precedes the verb, which is singular (despite alluding to multiple people). _Although Jackson and April on _Grey’s Anatomy_ had a rocky relationship over the years, Japril is still endgame for many fans._ _Klaine was always endgame to me, so I’m not surprised they ended up together on Glee._  
+__(someone/something) gets the job done__  
 __(something) as a service__  
 __(something) won’t get (someone) anywhere__ Something, typically a certain behavior, will not help someone progress or succeed in any way.  
 __(still) going strong__ Continuing to be healthy, successful, or function properly. _Smartphones are designed to become obsolete, but my old flip phone from 2004 is still going strong._  
 __(stuck) in a rut__ :four: Seemingly trapped or stuck in a mundane, non-changing pattern of life, work, or personal behavior. _I had so many ambitions when I first graduated from college, but now I feel like I’m in a rut._  
 __(T)sup?__ _interrog_ /ˈ(t)səp/ What’s up?; What is happening?; What have you been doing? _Hi! Tsup?_  
 __(the good) Lord willing and the creek don’t rise__ (rural) If all goes as it should; if everything goes well. _We’ve had a lot of delays, but Lord willing and the creek don’t rise, we should have the house finished before winter._  
+__(the) clock is ticking__  
 __(the) man/woman of the hour__ :two: A person currently being celebrated, honored, or admired by others, especially for a recent victory, accomplishment, or other cause for celebration. _Janet was woman of the hour at the office after securing the biggest customer their business had ever had._  
-__(the) next thing (one) knows__ :three: All of a sudden; out of nowhere; without warning. _I was standing in line, minding my own business, when the next thing I know, a gunman runs into the bank and starts screaming at us to get on the ground!_  
+__(the) next thing (one) knows__ :dart::four: All of a sudden; out of nowhere; without warning. _I was standing in line, minding my own business, when the next thing I know, a gunman runs into the bank and starts screaming at us to get on the ground!_  
 __(there’s) no comparison__ This person or thing is clearly and inarguably better than any other. _This place serves the best pizza in town—no comparison!_  
 __(there’s) no rest for the wicked__ The lack of peace in one’s life, or the perpetual need to be working or be busy, stems from one’s sinfulness. The phrase comes from the Bible, in which it alludes to the suffering in hell that awaits sinners after death. Now, the phrase is usually used humorously. _A: I can’t seem to ever get all my work done. B: No rest for the wicked._  
 __(there’s) no turning back (now)__ _expression_ The current course of action cannot be reversed or undone.  
@@ -93,6 +96,7 @@ __459__ :three: 459 is a reference to the California Penal Code section for burg
 __800-pound gorilla__ :three: /ɡəˈrɪlə/ (also six-hundred-pound gorilla, eight-hundred-pound gorilla or nine-hundred-pound gorilla) [:scroll: It refers to the riddle “Where does an 800-pound gorilla sit?” (Answer: ”Wherever it likes.”)] A person, group, or organization so powerful (either by size or by influence) that it does not need to heed the rules or threats of others. It refers to the riddle “Where does an 800-pound gorilla sit?” (Answer: “Wherever it likes.”) Primarily heard in US. _Don’t mess with that guy; he’s like an 800-pound gorilla!_  
 __86__ _vt_ :two: (eighty-six) To dispose of someone or something; to nix someone or something. _He wants $400? Eighty-six that! We can’t afford it._  
 __a (real) frog-choker__ A particularly heavy or torrential downpour of rain. (Chiefly heard in the southern United States.) _It’s a real frog-choker out there today—looks like we’ll have to have our barbecue another day._ _There’s no way I’m biking to work in a frog-choker like this!_  
+__a (real) gas__ _slang_ A thoroughly entertaining, enjoyable, or amusing experience.  
 __a (whole) host of (something)__ A very large number or collection of people or things.  
 __a bad apple__ A troublemaker. A person whose own words or actions negatively impacts an entire group of people. Taken from the proverb “a bad apple spoils the bunch.”  
 __a bad penny always turns up__ :dart: __1__ A person or thing which is unpleasant, dishonorable, or unwanted tends to appear (or reappear), especially at inopportune times. __2__ Things that are done improperly eventually cause problems.  
@@ -104,18 +108,19 @@ __a bit beyond (one’s) ken__ :two::dart: Advanced beyond one’s ability to un
 __a bit dicey__ :two: Carrying a certain degree of risk or danger; uncertain of a favorable outcome. _This street looks a bit dicey—I think we should walk another way home._  
 __a bit obtuse__ Coming across as dull, thick-witted, or stupid; unable to grasp or understand a situation or concept. _I feel like I’m a bit too obtuse to understand what these people are talking about._  
 __a bit of a stretch__ :three: A mild exaggeration beyond the truth or what is likely the case. _I’m not too fond of taxes either, but it’s a bit of a stretch to claim they are the cause of all our problems._  
+__a bit of__ __1__ Somewhat; rather; to some extent. _It turns out that the unusual convention of capitalizing the pronoun I was a bit of an accident._  
 __a bit out of it__:two: Feeling somewhat disoriented, phased, or out of touch with the world; spaced out. _Sorry I’m rambling so much tonight, I’ve been feeling a bit out of it lately._  
 __a bleeding heart__ :astonished: A person who shows an overwhelming and often ostentatious display of sympathy, especially for those perceived as victims.  
 __a blessing in disguise__ :two: An unfortunate event or situation that results in an unforeseen positive outcome. _Running late for work turned out to be a blessing in disguise. I would have been in the middle of that big multi-car pileup had I left the house on time._  
 __a bone to pick__ An issue to discuss—typically one that is a source of annoyance for the speaker. _Hey, I have a bone to pick with you! Why didn’t you put gas in my car after you borrowed it?_  
-__a breath of fresh air__  
-__a breeze__ :three: Something that is especially easy, effortless, or trifling to accomplish or complete.  
+__a breath of fresh air__ :two::hammer:  
+__a breeze__ :dart::five: Something that is especially easy, effortless, or trifling to accomplish or complete. _Perplexity makes searching online a breeze._  
 __a brick short of a load__  
 __a bridge too far__ _cliché_ An act or plan whose ambition overreaches its capability, resulting in or potentially leading to difficulty or failure. Taken from the 1974 book _A Bridge Too Far_ by Cornelius Ryan, which details the Allies’ disastrous attempts to capture German-controlled bridges in the Netherlands during World War II. _The multi-million-dollar purchase of the small startup proved a bridge too far for the social media company, as the added revenue couldn’t make up for the cost in the end._  
 __a broken reed__ An unreliable or unsupportive person.  
 __a catch__ __1__ A spectacular find, as in dating or marriage. __2__ A golden discovery, as in a bargain or business deal.  
 __a change is as good as a rest__ A change in one’s work can be as beneficial and revitalizing as taking a break. Primarily heard in US. _I’m hoping that starting on this new career path will help me to find joy in my work again—after all, a change is as good as a rest._  
-__a clear future__ “A clear picture” is an idiomatic expression that means a complete and accurate understanding or representation of something.  
+__a clear future__ :two: “A clear picture” is an idiomatic expression that means a complete and accurate understanding or representation of something.  
 __a cog in the machine__  
 __a crock of shit__ _rude slang_ Something that is false or ridiculous. _He never came, so his promise to help us was a crock of shit!_ _Oh, that rumor is a crock of shit._  
 __a cross to bear__  
@@ -127,7 +132,7 @@ __a different ball game__
 __a different kettle of fish__  
 __a dime a dozen__ :two: Ubiquitous; so abundant or common as to hold little or no value. _In Los Angeles, waiters trying to become famous actors are a dime a dozen._  
 __a disaster waiting to happen__  
-__a doozy__ :three: Something remarkable or exceptional, either positively or negatively, when compared to other instances of it.  
+__a doozy__ :four: Something remarkable or exceptional, either positively or negatively, when compared to other instances of it.  
 __a double take__  
 __a drop in the bucket__ :three: _AmE_ (a drop in the ocean _BrE_) A very small amount compared with what is needed or expected. A very small amount when compared to something else.  
 __a drop in the ocean__ _BrE_ (a drop in the bucket _AmE_) A very small amount compared with what is needed or expected.  
@@ -152,6 +157,7 @@ __a great deal__
 __a great many__ :two: A very large number of (people, things, etc.). _A great many people have joined the protest to voice their concerns over increased taxes._  
 __a ground ball with eyes__  
 __a hard pill to swallow__ :two: Something, especially a fact or piece of news, that is unpleasant or difficult but which is unavoidable or must be accepted.  
+__a hard-luck story__ A typically self-pitying tale of misfortune, hardship, adversity, etc., told especially to gain sympathy or charity from others. _Here he goes again with some hard-luck story to get us to pay for his drinks._  
 __a head start (on something)__  
 __a heartbeat away__ :four::hammer: _Located a heartbeat away from the Buzz of Broadway._  
 __a hell of a someone or something__  
@@ -159,6 +165,7 @@ __a hell of a time__ A hell of a time is an expression used to describe a diffic
 __a hill of beans__ :three: Something of little or no importance, value, or worth. _For all the congressman’s posturing about overhauling the tax system, his plan to do so is just a hill of beans._  
 __a hot hand__ A continuous period of great success, luck, or fortune; a winning streak.  
 __a hot mess__  
+__a hot spot__  
 __a hot-button issue__  
 __a hunch__ A strong intuitive feeling about someone or something.  
 __a joy to behold__ :two: A thing, event, or experience that creates a profound sense of joy or elation in the spectator. _The spring flowers in this part of the country are truly a joy to behold._  
@@ -227,6 +234,7 @@ __a stab at (someone or something)__
 __a stab in the back__ A betrayal; an act of treachery. _It felt like a stab in the back to hear that Paul was going out with my ex-girlfriend._  
 __a standstill__ A period in which something is stopped or halted.  
 __a stone’s throw__ :two: A very short distance. _The shore house is a stone’s throw from the ocean!_ _Just a stone’s throw from Wrigley Field._  
+__a thin skin__ If someone has a thin skin, they are very easily upset or offended by criticism. _He’ll never make it in journalism with such a thin skin._  
 __a thorn in (one’s) side__  
 __a thou__  
 __a travesty of justice__ A legal act or decision that is so unjust that it seems like a grotesque mockery or imitation of the way the justice system is supposed to operate. _The acquittal of the mass murderer is an absolute travesty of justice._  
@@ -240,11 +248,11 @@ __a wild goose never laid a tame egg__ :two: _proverb_ Something will not be spo
 __a wink of sleep__ _n_ A bit of sleep; the smallest amount of sleep. (Usually in the negative.) _I couldn’t get a wink of sleep because of the noise._  
 __a woman of her word__ A woman who can be expected to keep or follow through with her promises or intentions; a truthful, trustworthy, or reliable person. (Masculine: “man of his word.”) _Bob, I’m a woman of my word. If I tell you I’ll be at your house tomorrow morning at 10, then that’s when I’ll be there._  
 __a word of caution__ Idiomatic expression used to introduce a warning or advice about a potential risk or danger.  
-__a-ha moment__ A moment or instance at which a sudden, revelatory idea, realization, or solution to a problem comes to mind. _We’d been working on the problem at the lab for weeks, but the aha moment came to me when I was out gardening!_  
+__a-ha moment__ :three: A moment or instance at which a sudden, revelatory idea, realization, or solution to a problem comes to mind. _We’d been working on the problem at the lab for weeks, but the aha moment came to me when I was out gardening!_  
 __a-hole__  
 __A-team__  
 __abandon (oneself) to__ :dart:  
-__abide by__ :three: To conform to; comply with: _abide by the rules._  
+__abide by__ :four: To conform to; comply with: _abide by the rules._  
 __about to (do something)__  
 __above and beyond__ :dart::seven: Exceeding expectations or requirements. _I will award extra credit to anyone who does research above and beyond the parameters of the assignment._  
 __above board__ :two::hammer:  
@@ -262,7 +270,7 @@ __ace (something)__ To do exceptionally well in something, especially an exam or
 __ace in the hole__ :two::hammer:  
 __Achilles’ heel__  
 __acid test__ :two: Something that shows the true worth or value of something or someone.  
-__across the board__ :four::hammer:  
+__across the board__ :five::hammer:  
 __across the pond__ :two::hammer:  
 __act of Congress__ :two: That which is extremely difficult to achieve or requires a large amount of effort or patience to enact. Primarily heard in US, South Africa. Primarily heard in US. _It’ like you have to have an act of Congress before the city council will pay to fix the roads in this town._ _Trying to get my doctor on the phone is like an act of Congress!_  
 __actuary__ _n_ A statistician who computes insurance risks and premiums.  
@@ -272,6 +280,7 @@ __add insult to injury__ :two: To hurt the feelings of a person who is already u
 __add up to (something)__ :two: To equal or amount to something.  
 __add up__ :two::hammer: _It doesn’t add up._  
 __addict__ _n_ Someone showing a strong preference for something or someone. (Not related to drug addiction.) _Sam is a real opera addict. He just loves the stuff._  
+__addy__ __3__ _slang_ A shortening of Adderall (a stimulant prescribed primarily to treat ADHD and narcolepsy), especially when used as recreationally or as a study aid.  
 __admit defeat__ :two: To yield to the opposition or accept that one is wrong in some pursuit. _Well, I ran a good campaign, but it is time I admitted defeat in this election._  
 __adult in the room__ _n idiom_ A person who makes calculated, rational decisions based on all available data. _Everybody is thinking with emotion, but Jim is the only adult in the room._  
 __adulting__ _slang_ The (sometimes daunting) task of acting mature and responsible. Usually used humorously by young adults. _Does this mean I have to cook for myself now? I hate adulting._  
@@ -281,6 +290,7 @@ __affable personality__ A personality that is friendly, approachable, sociable, 
 __affinity for (someone or something)__ A passionate interest in or affection for someone or something. _She must have an affinity for women with dark hair because her girlfriends are always brunettes._  
 __affirmative action__  
 __after a while__ Following a certain period of time, usually one that is relatively short. _It’s a little bit strange driving on the opposite side of the road in Ireland, but you get used to it after a while._  
+__after the jump__ After a break in text on a webpage, as caused by an advertisement or a “Read more” type of link. _More about where I found these great jewelry pieces after the jump!_  
 __again and again__ :two::hammer: _The same groundhog festival is gearing up again and again._  
 __against all odds__ Despite being very likely to fail.  
 __against nature__ Contrary to what is considered natural, moral, or proper for human life. _The horrible way they treat homeless people around here is a crime against nature._  
@@ -290,6 +300,7 @@ __Age of Aquarius__ The expression _Age of Aquarius_ in popular culture usually 
 __age-old__ Very old or established; related to a time long before one would be able to remember. _Why don’t we ever sing new songs? I’m sick of these age-old hymns._  
 __ages__ _informal_ A very long or extended period of time. _Hi, Mary! It’s been ages since we last saw each other!_  
 __agree in principle__ To accept the general terms or conditions of a deal without having completed or agreed upon the specific details. _The government has agreed in principle that it will cover the cost of building a new school, but so far we haven’t seen a clear proposal on how this would be accomplished._  
+__ah__  
 __aha moment__ An instant at which the solution to a problem becomes clear.  
 __ahead of (someone or something)__  
 __ahead of oneself__ :two: Idiomatic expression that refers to being overly confident or optimistic about future events or outcomes, often without considering the potential obstacles or challenges that may arise.  
@@ -332,16 +343,18 @@ __all sizzle and no steak__ :two: Disappointing or anticlimactic. Having an exci
 __all that jazz__ :four: All that stuff; all that nonsense.  
 __all the better__ Even better.  
 __all the difference in the world__ :two: The greatest degree of difference that is possible or conceivable. Without the verbs “mean” or “make,” it is used to compare two disparate things. _There’s all the difference in the world between knowing how to play and actually performing on the field._ _I was sympathetic at first, but finding out you didn’t even study for the test makes all the difference in the world. You’re grounded!_  
-__all the rage__ _slang_ Very popular. _Disco music was all the rage in the 1970s._  
+__all the rage__ :two: _slang_ Very popular. _Disco music was all the rage in the 1970s._  
 __all the way__  
 __all things considered__ :two::hammer:  
 __all too often__ :three: Too frequently. _We see this problem all too often._  
+__all year round__ Lasting or happening through the entire year.  
 __all-out war__ :two: Unrestricted fighting or conflict. This phrase can be used literally or hyperbolically. _I fear that an invasion will lead to all-out war._ _It is all-out war right now for that empty corner office._  
 __all-out__ :two: Taking, requiring, or using all of one’s effort or resources toward something; complete, total, or all-encompassing. _I’ve been stuck in this cubicle for years now. I’m ready for an all-out adventure somewhere!_  
 __all-time high__  
 __all-you-can-eat__  
 __all’s well that ends well__ _prov_ A positive ending can overshadow any problems that may have preceded it. Although this phrase is the title of a Shakespeare play, it likely predates it. _Hey, we’re not fighting anymore, and that’s all that matters. All’s well that ends well._  
 __allude to (something)__  
+__alongside of (someone or something)__  
 __alphabet soup__ An incoherent or disorganized mix (typically of letters or abbreviations).  
 __alter ego__  
 __amateur hour__ :two: A result, activity, task, or situation characterized by unprofessional, talentless, or careless performance(s). The term likely originates from or refers to _The Original Amateur Hour_, a radio and television talent program in the US that ran from the 1930s through the 1970s. Primarily heard in US. _I expected a better performance from our team today. Was it amateur hour today, or what?_  
@@ -357,7 +370,7 @@ __an eye for an eye, a tooth for a tooth__ _proverb_ :two: Compensation or retri
 __an honest buck__ Honest, legal work or income. Often used in the phrase “make/earn an honest buck.” Primarily heard in US. _After 10 years working for the mob, Jeremy was ready to finally start making an honest buck._  
 __an honest mistake__ :two: A mistake made unintentionally or unknowingly and without the intention of causing harm; a mistake that anyone might have made in similar circumstances.  
 __an iron fist__  
-__an uphill battle__ A task that is very daunting from the outset and continues to be challenging.  
+__an uphill battle__ :dart::two: A task that is very daunting from the outset and continues to be challenging.  
 __an uphill task__  
 __an/the olive branch__ A symbol, expression, or gesture of peace, reconciliation, truce, etc. Used most commonly in the phrase “hold out/offer (someone) an/the olive branch.” _If you find yourself in a spat with a friend, try to be the bigger person and be the one to hold out the olive branch._  
 __and all__  
@@ -377,7 +390,7 @@ __any way you slice it__
 __anyone’s guess__ Something that no one knows for sure.  
 __anything but__ :two: By no means, not at all. _It is anything but sweet._  
 __anything goes__ :three::hammer:  
-__anytime soon__ :four: In the near future. Often used in negative constructions to convey that it will take a long time for something to happen. _Will this train be leaving anytime soon? We’ve been sitting on the tracks for 20 minutes now._  
+__anytime soon__ :dart::five: In the near future. Often used in negative constructions to convey that it will take a long time for something to happen. _Will this train be leaving anytime soon? We’ve been sitting on the tracks for 20 minutes now._  
 __apeshit__  
 __apple of (one’s) eye__ :two::hammer:  
 __apples and oranges__  
@@ -401,7 +414,7 @@ __as easy as shooting fish in a barrel__ Of some task or activity, exceptionally
 __as ever__ _As ever, he was right._  
 __as far as (someone or something) is concerned__ :two::hammer: _As far as I’m concerned, if you can’t do the crawl you can’t swim._  
 __as good as (something)__ In every practical or functional sense; almost certainly. _If you stay out past curfew tonight, you’re as good as grounded, young lady!_  
-__as good as it gets__ :five: As good as is possible; impossible to improve upon. _This neighborhood is as good as it gets—why would we ever move?_ _Right now, Djokovic is about as good as it gets on a tennis court._ _Customer service is as good as it gets._  
+__as good as it gets__ :six: As good as is possible; impossible to improve upon. _This neighborhood is as good as it gets—why would we ever move?_ _Right now, Djokovic is about as good as it gets on a tennis court._ _Customer service is as good as it gets._  
 __as if (one’s) life depends on it__  
 __as if to say__  
 __as it happens,__ :six: Coincidentally; surprisingly; as a matter of fact. Often said of an unlikely or unusual fact, event, or circumstance.  
@@ -415,7 +428,7 @@ __as of today__
 __as the crow flies__ By the most direct way, along a straight line between two places.  
 __as the next person__ You use _as the next person_ to mean that you are no different from anyone else in the way you have mentioned.  
 __as we know it__ :three: As something is currently understood or viewed. This phrase usually implies that current conditions will change, as, for example, _“Nuclear warfare will mark the end of civilization as we know it.”_ First recorded in the late 1800s, the phrase began to be widely used from the 1940s on and has reached cliché status.  
-__as we speak__ At this very moment.  
+__as we speak__ :two: At this very moment.  
 __as yet__ :two: At this time; yet. Up to the present time; up to now. _No one has responded to my email as yet, so I don’t have an answer for you._  
 __as you please__  
 __ascribe (something) to (something)__ To attribute something to a person or source. _The cause of the accident was ascribed to human error._  
