@@ -319,7 +319,7 @@ __afterward__ _adv_ :two::hammer:
 __Agamemnon__ _n_ A legendary king of Mycenae, the son of Atreus and brother of Menelaus, who led the Greeks in the Trojan War and was murdered by his wife Clytemnestra.  
 __agape__ _adj, adv_ __1__ With the mouth wide open, as in wonder. __2__ Wide open. _He stood there with his mouth agape._  
 __agathism__ _n_ /A-guh-thiz-uhm/ [:scroll: From Greek agathos (good), which also gave us agathokakological and the name Agatha.] The doctrine that, in the end, all things tend toward good.  
-__agave__ _n_  
+__agave__ _n_ :two::hammer:  
 __Age of Aquarius__ _n_ (Aquarian Age) __1__ _informal_ The period, roughly from the mid-1960s to the early-1970s, when New Age culture and the hippie movement were at their peaks, associated with belief in enhanced spiritual enlightenment, universal love, and personal liberation. __2__ _astrology_ A historical period corresponding to the astrological sign of Aquarius, concerning the timing of which (past, present, or future) there is a wide range of views.  
 __age<sup>1</sup>__ _n_ :four::hammer:  
 __age<sup>2</sup>__ _v_  
@@ -405,7 +405,7 @@ __alacrity__ _n_ :five: /əˈlakrɪti/ __1__ Cheerful readiness, promptness, or 
 __alas__ _sentence connector_ Unfortunately; regrettably: _there were, alas, none left._  
 __Alaska__ _n_ :mega: /əˈlæs kə/  
 __Alaskan__  
-__albatross__ _n_ :pencil2::four::mega::hammer: /ˈæl bəˌtrɔs, -ˌtrɒs/  
+__albatross__ _n_ :pencil2::five::mega::hammer: /ˈæl bəˌtrɔs, -ˌtrɒs/  
 __alchy__ _n_ (alkie, alky) __1__ Alcohol; an alcoholic beverage. __2__ A drunkard.  
 __alcove__ _n_ :two::hammer: _Historic alcoves._ _The elevator alcove._  
 __alder__ _n_ :pencil2::two::hammer:  
@@ -827,6 +827,7 @@ __archenemy__ _n_ :pencil2:
 __archeology__ _n_ :mute:[arc~~h~~eology]  
 __archetypal__  
 __archetype__ _n_ :two::hammer: /ˈɑr kɪˌtaɪp/ /AHR-kih-type/  
+__archetypical__ _adj_ Representing or constituting an original type after which other similar things are patterned.  
 __Archimedes__ _n_ :mega:  
 __archipelago__ _n_ :six::hammer::mega::pencil2: _Archipelago nation._ _The Philippine archipelago._  
 __architect__ _n, v_ :two::hammer::mute:[arc~~h~~itect] _He architected the first mesh optical network._  
@@ -1803,7 +1804,7 @@ __blarney<sup>1</sup>__ _n_ :three::dart: /ˈblɑr ni/ __1__ Smooth, flattering 
 __blarney<sup>2</sup>__ _v_  
 __blasé__ _adj_ :two::hammer:  
 __blast__ _n_ :two: __9__ _slang_ A highly exciting or pleasurable experience or event, such as a big party. A great experience, a very enjoyable time.  
-__blatant__ _adj_ :four::hammer:  
+__blatant__ _adj_ :five::hammer:  
 __blatantly__  
 __blather<sup>1</sup>__ _n_ :two::hammer:  
 __blather<sup>2</sup>__ _vi_ :five: (blether) To talk nonsensically. To talk foolishly. _Syn_ smatter, babble  
@@ -3616,6 +3617,7 @@ __cod__ _n_ :es: bacalao
 __coda__ _n_ :three::hammer: _The novel ends with a wordless coda._  
 __coddle__ _vt_ :eight: __1__ To cook in water just below the boiling point: _coddle eggs._ __2__ To treat indulgently; baby. _Syn_ pamper Treat with excessive indulgence. _Syn_ baby, cocker, cosset, featherbed, mollycoddle, pamper, spoil, indulge _I have warned her not to spoil the children, but she chooses to coddle them anyway._  
 __code of conduct__  
+__codebase__ _n_  
 __codeine__  
 __codicil__ _n_ :two::hammer: _A codicil to a previous will._  
 __codify__ _v_ _Such a freeze would codify the advantage extreme forces have gained._  
@@ -3727,6 +3729,7 @@ __come of age__
 __come to grips__  
 __come to her senses__  
 __comeback__ _n_  
+__comedo__ _n_ (_n pl_ comedos, comedones) The primary lesion of acne vulgaris, consisting of a hair follicle that is occluded with sebum and keratin; a blackhead or whitehead.  
 __comeliness__ _n_  
 __comely__ _adj_ :six: __1__ Pleasing and wholesome in appearance; attractive. _Syn_ beautiful. _literary old-fashioned_ Very pleasing to the eye. _Syn_ bonny, sightly, fair _A comely smile._ __2__ Suitable; seemly: _comely behavior._  
 __comestible__ _n_ Any substance that can be used as food. _Syn_ eatable, edible, pabulum, victual  
@@ -3773,7 +3776,7 @@ __commodity hardware__
 __commodity__ _n_ :two::hammer: _Communication on a commodity cluster._  
 __commodore__ _n_  
 __common__ _adj_ :mega: (kŏm′ən)  
-__commonality__ _n_ :three::hammer: (commonalities)  
+__commonality__ _n_ :four::hammer: (commonalities)  
 __commoner__ _n_ __1__ A member of the commonalty; a person without a title of nobility.  
 __commonplace__ _adj, n_ :two::hammer:  
 __commonwealth__ _n_ :three: __3__ Commonwealth __a__ Used to refer to some US states, namely, Kentucky, Massachusetts, Pennsylvania, and Virginia. __b__ Used to refer to a self-governing, autonomous political unit voluntarily associated with the United States, namely, Puerto Rico and the Northern Mariana Islands.  
@@ -4113,7 +4116,7 @@ __cordon sanitaire__ _n_ __1__ A barrier designed to prevent a disease or other 
 __cordon__ _n_ :two::hammer: _A wide cordon of police._  
 __cordonef off__ _v_ _The police had cordonex off the site of the bombing._  
 __corduroy pants__  
-__corduroy__ _n_ :three: A durable cut-pile fabric, usually made of cotton, with vertical ribs. :es: pana  
+__corduroy__ _n_ :four: A durable cut-pile fabric, usually made of cotton, with vertical ribs. :es: pana  
 __corduroys__ _n_ Pants made of corduroy.  
 __core dump__ _n_ _The book goes on like this, a chronological core dump of facts._  
 __corgi__  
@@ -4424,6 +4427,7 @@ __crowd<sup>2</sup>__ _vi_ __1__ To gather together in a limited space: _The chi
 __crowd<sup>3</sup>__ _vt_  
 __crowdsourcing__ _n_  
 __crown cork__ _n_ _Syn_ crown seal, crown cap, cap :es: chapa  
+__Crown dependencies__ _n_ Three island territories in the British Islands that are self-governing possessions of the British Crown: the Bailiwick of Guernsey, the Bailiwick of Jersey, and the Isle of Man.  
 __crown jewel__ _n_ __2__ The most prized asset or possession in a group.  
 __crucial__  
 __crucible__ _n_ :nine::m: /KROO-suh-bul/ Crucible refers to a place or situation that forces someone or something to change. Most commonly found in formal and literary writing, it can also mean “a difficult test or challenge.” Its original meaning, still in use, is “a pot in which metals or other substances are heated to a very high temperature or melted.” _Her rock-solid songwriting skills were forged in the crucible of the Nashville music scene._ _After years of intense daily archery training, she is ready to face the crucible of the Olympics._  
@@ -4467,6 +4471,7 @@ __crybaby__ _n_ :dart::three: A person given to excessive complaints and crying 
 __cryotherapy__  
 __cryptanalyst__ _n_ :pencil2:  
 __cryptic__ _adj_  
+__crypto-Jew__ _n_  
 __cryptography__ _n_ /krip-TAH-gruh-fee/  
 __cryptojacking__  
 __cryptomining__  
@@ -4635,7 +4640,7 @@ __dampen__ _v_
 __damper__ _n_  
 __damping__ _adj_ :three::hammer: _Damping systems._  
 __dampness__  
-__damsel__ _n_ _The damsel in distress Snow White in 1937._  
+__damsel__ _n_ :two: /ˈdæm zəl/ A maiden, orig. one of gentle or noble birth. _The damsel in distress Snow White in 1937._  
 __dance the night away__  
 __dandelion thistle__  
 __dandelion__ _n_ :eight: A wild plant with a bright yellow flower which later becomes a white ball of seeds that are blown away in the wind. _Dandelion seeds._ :es: diente de león  
@@ -5022,6 +5027,7 @@ __detergent<sup>2</sup__ _adj_
 __deterrence__ _n_ :two::hammer:  
 __deterrent<sup>1</sup>__ _n_ :nine::m: A deterrent makes you not want to do something. Let’s say there’s a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won’t commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
 __deterrent<sup>2</sup>__ _adj_ :two::hammer:  
+__dethrone__ _vt_  
 __detour<sup>1</sup>__ _n_ :three::hammer:  
 __detour<sup>2</sup>__ _v_  
 __detox__  
@@ -5067,9 +5073,10 @@ __dialysis__ _n_ :three::hammer:
 __diaphanous__ _adj_ :two: Very sheer and light; almost completely transparent or translucent. Of such fine texture as to be transparent or translucent. _Syn_ filmy, gauzy, sheer, vaporous _She wore a hat with a diaphanous veil that did not obscure her features._ _The morning sunrise glowed through the diaphanous curtains._  
 __Diaspora__ _n_ :two::hammer: (diaspora)  
 __diastole__ _n_ /daɪˈæstəlɪ/ The dilatation of the chambers of the heart that follows each contraction, during which they refill with blood.  
-__diatribe__ _n_ :two::hammer:  
+__diatribe__ _n_ :three: A bitter, abusive denunciation. _Syn_ fulmination  
 __dibs__ _n_ _slang_ :three: __3__ _(foll by on)_ _informal_ Tights (to) or claims (on): used mainly by children. _Catalina once tried to kiss Earl, but he said they could not as Randy had called “dibs” on her._  
 __dicey__ _adj_ _informal_ :nine::dart: Risky; unpredictable. _The women’s situation is a bit more dicey._  
+__dichotomous__ _adj_  
 __dichotomy__ _n_ :four::mega: Division into two usually contradictory parts or opinions. _Syn_ duality _One of the novel’s themes is the dichotomy of Eastern and Western culture._  
 __dickens__ _n_ _Psychosomatic afflictions hurt like the dickens._  
 __Dickensian__  
@@ -5283,7 +5290,7 @@ __disparate__ _adj_ :two: /DISS-puh-rut/ Disparate things are noticeably distinc
 __dispassionate__ _adj_ :dart: Devoid of or uninfluenced by emotion or prejudice. _Syn_ unemotional, cool, collected, calm, unmoved, unfazed, unruffled, imperturbable, unexcitable _You are not impulsive, you are not romantic, you are accustomed to view everything from the strong dispassionate ground of reason and calculation._  
 __dispatch__ _v_  
 __dispatcher__ _n_ :two::hammer:  
-__dispel__ _vt_ :nine::m: (dispelled) __1__ To drive off in various directions; disperse; dissipate. __2__ To cause to vanish; alleviate. _She dispelled the myth._  
+__dispel__ _vt_ :nine::m::astonished: (dispelled) __1__ To drive off in various directions; disperse; dissipate. __2__ To cause to vanish; alleviate. _She dispelled the myth._  
 __dispensation__ _n_  
 __dispense__ _v_ :two::hammer: _He dispensed invaluable advice._  
 __dispenser__  
@@ -5541,8 +5548,9 @@ __downhill<sup>2</sup>__ _adj_ Sloping downward; descending.
 __downline__ _n_  
 __downplay__ _vt_ :nine::m: To minimize the significance of; play down: _downplayed the bad news._ _Do not downplay your dreams._  
 __downpour__ _n_ :eight: /ˈdaʊnˌpɔː/ /ˈdaʊnˌpɔr, -ˌpoʊr/ A heavy, drenching rain. A heavy continuous fall of rain. _Torrential downpours._ _Heavy downpours can cause flash flooding._ :es: aguacero, chubasco, chaparrón  
-__downright<sup>1</sup>__ _adj_ _Downright ridiculous._  
-__downright<sup>2</sup>__ _adv_ :dart::seven::hammer: _Not to mention, just downright good looking._ _Downright goofy._ _It is downright fun._  
+__downright<sup>1</sup>__ _adj_ :two::hammer: _Downright ridiculous._  
+__downright<sup>2</sup>__ _adv_ :dart::eight::hammer: _Not to mention, just downright good looking._ _Downright goofy._ _It is downright fun._  
+__downsample__ _v_  
 __downside__ _n_ :four::hammer: (downsides) _Working from home has its upsides as well as downsides._  
 __downsize__ _v_  
 __downslope__ _n_  
@@ -5746,7 +5754,7 @@ __dullard__ _n_ :two: A person regarded as mentally dull. _Syn_ dolt, pillock, p
 __dully__ _adv_  
 __duly__ _adv_ :five::hammer: _Couples duly married._ _Duly noted._ (:es: correctly or appropriately recorded)  
 __Dum Dums__ _n_ Spherical lollipops, invented in 1924.  
-__dumb__ _adj_ :three::hammer::mute:[dum~~b~~] _Dumb jokes._  
+__dumb__ _adj_ :four::hammer::mega::mute:[dum~~b~~] _Dumb jokes._  
 __dumbbells__ _n_ :two: (dumbbell, dumb-bell) A short bar with a weight at each end, used typically in pairs for exercise or muscle-building. :es: mancuernas  
 __dumbfound__ _v_ :four::hammer: (dumbfounded) _This swaggering gesture by a petty German prince, ruler of a narrow territory, dumbfounded the court._  
 __dumbstruck__ _adj_ :two::hammer:  
@@ -5783,7 +5791,7 @@ __dustup__ _n_ An angry dispute. _Syn_ quarrel, run-in, wrangle, row, words _The
 __dusty__ _adj_ _A dusty brand._  
 __Dutch oven__ _n_ :two::hammer:  
 __Dutch__ _adj_ _Dutch licorice._  
-__duty__ _n_ :two::hammer: _Characteristic Roman inventions were concrete for building and the import duty, the last having originated as a piece of emergency taxation during the Second Punic War._  
+__duty__ _n_ :three::hammer: __3__ A tax charged by a government, especially on imports. _Freeze on alcohol duty extended to February, 2025._ _Characteristic Roman inventions were concrete for building and the import duty, the last having originated as a piece of emergency taxation during the Second Punic War._  
 __dwadle__ _v_ __1__ Walk slowly, lag behind. __2__ To spend time idly.  
 __dwell__ _v_ :three::hammer:  
 __dwelling__ _n_  
@@ -6047,7 +6055,7 @@ __emo__ _n_ :three: Rock music characterized by confessional lyrics about emotio
 __emoji__ _n pl_  
 __emollient__ _adj_ :six: (Medicine) Any preparation or substance that has a softening or soothing effect, esp when applied to the skin. _Syn_ demulcent, salving, softening _In the winter, she applied emollient cream to her hands to prevent the skin from cracking._ _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._  
 __emolument__ _n_ /ih-MAHL-yuh-munt/ An emolument refers to money, gifts, or perquisites that someone receives due to their job or position. _Jenna has contributed countless volunteer hours to the organization and continues to refuse any emolument for her work._  
-__emote__ _vi_ :five: /ih-MOHT/ To emote is to express emotion in a very dramatic or obvious way. _He stood on the stage, emoting and gesturing wildly._  
+__emote__ _vi_ :six: /ih-MOHT/ To emote is to express emotion in a very dramatic or obvious way. _He stood on the stage, emoting and gesturing wildly._  
 __empathetic__  
 __empennage__ _n_ The rear part of an airplane or airship, usu. comprising the stabilizer, elevator, vertical fin, and rudder. _Syn_ tail _The pop superstar is so vain that she had her likeness plastered across her private jet’s empennage._  
 __emphasis__  
@@ -6219,7 +6227,7 @@ __epistolary__ _adj_ Relating to the writing of letters.
 __epithet__ _n_ :nine: /EP-uh-thet/ (epithets) __1__ A characterizing word or phrase that accompanies, or occurs in place of, the name of a person or thing. _Richard the First is frequently referred to by the epithet “Lionheart.”_ An epithet is a nickname or descriptive term used to refer to someone. _You need to listen to me and not Clueless Kevin over there._ _Walmart removed the racial epithet from the headline._ __2__ A disparaging or abusive word or phrase. _The school’s policy makes it clear that derogatory epithets will not be tolerated._  
 __epitome__ _n_ :nine::m::mega: /ih-PIT-uh-mee/ A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
-__epoch__ _n_ /EP-uhk, EE-pok/ A distinctive time period in history.  
+__epoch__ _n_ :two: /ˈɛp ək; _esp. Brit._ ˈi pɒk/ /EP-uhk, EE-pok/ A distinctive time period in history.  
 __eponym__ _n_ :three: An eponym can refer to “a word based on or derived from a person’s name,” such as the Gallup poll, named after statistician G.H. Gallup, or Reagonomics (a combination of the last name Reagan and economics). As a rhetorical device, an eponym can be an allusion to a famous person. Example: He is the LeBron James of chess.  
 __eponymous__ _adj_ :nine: /ih-PAH-nuh-mus/ (eponymously) __1__ _(of a person)_ Being the person after whom a literary work, film, etc, is named: _the eponymous heroine in the film of Jane Eyre._ __2__ _(of a literary work, film, etc)_ Named after its central character or creator: _the Stooges’ eponymous debut album._  
 __epoxy__ _n_ [:scroll: Epoxy literally translates to “near-acid.”]  
@@ -6245,6 +6253,7 @@ __equity__ _n_ :three::hammer:
 __equivocal__ _adj_ :two: /ih-KWIV-uh-kul/ __1__ Having two or more possible meanings. _Syn_ ambiguous, confusing __2__ Difficult to understand or explain. __3__ Uncertain. _The most recent clinical trial produced equivocal results._  
 __equivocate__ _v_ To be deliberately ambiguous or unclear in order to mislead or withhold information. _Syn_ prevaricate, beat around the bush, palter, tergiversate  
 __equivocation__ _n_  
+__era__ _n_  
 __eradicate__ _vt_ :two: __1__ To do away with as completely as if by pulling up by the roots. __2__ To pull up by the roots.  
 __eras__ _n pl_ /er-uhz/ Periods of time in a person’s life characterized by something distinctive and noticeable, such as a particular emotional state, relationship, achievement, or interest. _I’ve lived through three separate eras just this year, but I feel like I’m finally in my lucky girl era._  
 __ergomania__ _n_ An excessive desire to work or exercise.  
@@ -6272,7 +6281,7 @@ __eschatology__ _n_ :astonished: /es-kuh-TOL-uh-jee/ [:scroll: From Greek eschat
 __eschew__ _vt_ :five: /ɪsˈtʃuː/ (Formal) To keep clear of or abstain from (something disliked, injurious, etc); shun; avoid. To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._ _Eschewing commas._  
 __escrow<sup>1</sup>__ _n_ :seven: __1__ A deposit or fund held in trust or as a security. _An escrow account._ _Money to be held in escrow._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
 __escrow<sup>2</sup>__ _v_  
-__esculent__ _adj_ Suitable for eating; edible.  
+__esculent__ _adj_ :two: Suitable for eating; edible.  
 __escutcheon__ _n_ __2__ An ornamental or protective plate around a keyhole, door handle, drawer pull, light switch, etc.  
 __esemplastic__ _adj_ /ˌɛs ɛmˈplæs tɪk, -əm-/ Having the ability to shape diverse elements or concepts into a unified whole; unifying: _the esemplastic power of the mind._  
 __Eskimo__ _n_ :two::mega:  
@@ -6296,11 +6305,14 @@ __esteemed__ _adj_ :three::hammer:
 __ester__ _n_ _He can identify all the esters and other flavor-makers im beer._  
 __estival__ _adj_ Of or relating to the summer.  
 __estivate__ _v_ To spend the summer, especially at a different place from one’s usual residence.  
+__estoppel__ _n_ /ɪˈstɒpəl/ _Law_  
 __estrange__ _v_ :two: (estranged) __1__ (often followed by: _from_) To separate and live apart from (one’s spouse): _he is estranged from his wife._  
 __estrangement__  
 __estuary__ _n_ :three::hammer:  
 __esurient__ _adj_ :two::hammer:  
 __et cetera__  
+__etcetera__ _n_ :mega: /et-SET-uh-ruh/  
+__etceteras__ _n pl_ Unspecified additional items. _Syn_ odds and ends  
 __etch<sup>1</sup>__ _vt_ :nine: __1__ To engrave with an acid or the like, as to form a design in furrows that when charged with ink will give an impression on paper. __2__ To produce (a design, image, etc.) by this method, as on copper or glass. __3__ :dart: To outline clearly or sharply; delineate. _The hedgerow was sharply etched._ _A profile identifying each peak is etched in a huge relief along the sidewalk._ __4__ To fix or imprint firmly: _His face is etched in my memory._  
 __etch<sup>2</sup>__ _vi_ T to practice the art of etching.  
 __etched__ _adj_ __1__ If something is etched on your mind or memory, you can still remember it very clearly, sometimes when you would prefer to forget it. __2__ If a feeling is etched on someone’s face, their expression shows clearly what they are feeling.  
@@ -6314,6 +6326,7 @@ __etiquette__ _n_ :two: /ET-ih-kut/ Etiquette refers to the rules of proper and 
 __etymological__ _adj_ _Etymological dictionaries show how languages borrow words from each other._  
 __etymology__ _n_ :two::astonished: Study of the sources and development of words. Etymology is, literally speaking, a true story, from Greek etymos (true). Etymology chronicles a word’s journey, but sometimes we are unable to track it down and we simply say: origin uncertain.  
 __euchre__ _n_  
+__eudaemonic__  
 __eudaimonia__ _n_ A contented state of being happy and healthy and prosperous.  
 __eugenics__  
 __eulogy__ _n_ :five::hammer:  
@@ -6323,7 +6336,8 @@ __euphemism__ _n_ :four: /YOO-fuh-miz-um/ [:scroll: Derived from the Greek words
 __euphonium__ _n_  
 __euphoria__ _n_ [:scroll: New Latin, from Greek, from euphoros, _healthy_ : eu-, eu- + pherein, _to bear_] A feeling of great happiness or well-being.  
 __eupnea__ _n_ /yoop-NEE-uh/ [:scroll: From Greek eu- (good) + pnein (to breathe).] Normal breathing.  
-__eurythmics__ _n_ :two::astonished: The interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding. _Syn_ eurhythmics, eurhythmy, eurythmy  
+__eurythmic__ _adj_  
+__eurythmics__ _n_ :three::astonished: The art of harmonious bodily movement especially through expressive timed movements in response to improvised music. The interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding. _Syn_ eurhythmics, eurhythmy, eurythmy  
 __euryvocalic<sup>1</sup>__ _adj_ :dart: Containing each of the six vowels once. “Euryvocalic” is coined here to refer to these words; “eury-” meaning “broad”, referring to the broad range of vowels. Euryvocalics are a subset of panvocalics (which can have repeated vowels) and of euvocalics (which need not have a “y”).  
 __euryvocalic<sup>2</sup>__ _n_ A word that contains each of the six vowels once.  
 __Euskara__ _n_ :astonished: The Basque language.  
@@ -6339,9 +6353,10 @@ __evensong__ _n_
 __eventual__ _adj_  
 __evergreen__ _adj_ :two: __2__ Perennially fresh or interesting; enduring.  
 __everyday__ _adj_ :three::pencil2: Very common or completely normal, and often not very interesting.  
+__everywhen__ _adv_ /ˈɛvrɪˌwɛn/ Always, at all times.  
 __evict<sup>1</sup>__ _n_ :es: desahucio  
-__evict<sup>2</sup>__ _vt_ :nine::m: (evicted) To force out or expel, especially to remove (a tenant) from rented accommodation or land by a legal process. :es: desahuciar, desalojar  
-__eviction__ _n_ :four::hammer:  
+__evict<sup>2</sup>__ _vt_ :nine::m: /ɪˈvɪkt/ To force out or expel, especially to remove (a tenant) from rented accommodation or land by a legal process. :es: desahuciar, desalojar  
+__eviction__ _n_ :five::hammer:  
 __Evil One__ _n_ _Ecclesiastical Terms_ (the Evil One) The devil; Satan.  
 __evildoer__ _n_  
 __evince__ _vt_ :nine: /ih-VINSS/ Evince is a formal word that means “to display clearly.” Someone who evinces an attitude, emotion, quality, etc., shows it clearly. To show or demonstrate clearly; manifest. _Syn_ express, show _The baby couldn’t tell us she disliked the cereal, but she evinced her distaste by grimacing._ _To evince an interest in politics._ _She didn’t evince surprise._  
@@ -6353,8 +6368,9 @@ __ework__ _n_ Refers to the practice of working from home or remotely using a co
 __ex cathedra__ _adj, adv_ With the authority derived from one’s office or position: _the pope speaking ex cathedra; ex cathedra determinations._  
 __ex libris__ _n_ :two: (bookplate) A label identifying the owner of a book in which it is pasted.  
 __ex__ _n_  
-__ex-con__ _n_ _informal_ A former prisoner.  
+__ex-con__ _n informal_ :two: A former prisoner.  
 __exacerbate__ _v_ :nine::m: /ig-ZASS-er-bayt/ (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
+__exacerbation__ _n_  
 __exact__ _vt_ :nine::m: (exacted, exacting) __1__ To force or compel (payment or performance); extort: _to exact tribute._ __2__ To demand and obtain by force or authority. To demand as a right; insist upon: _to exact respect from one’s employees._ _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._ _They exacted all the spare parts from him._ __3__ To call for or require: _this work exacts careful effort._ _It serves fine local produce, cooked to chef Jane’s exacting standards._  
 __exacting__ _adj_ :dart: _An exacting editor._  
 __exaction__ _n_  
@@ -6402,7 +6418,7 @@ __Exhibit A__ _n_ :three::mute:[ex~~h~~ibit]
 __exhibit__ _n_  
 __exhilarate__ _v_ :three::mute:[ex~~h~~ilarate] /ig-ZIL-uh-rayt/ To make (someone) very happy and excited or elated. Fill with sublime emotion. _Syn_ beatify, inebriate, tickle pink, exalt, thrill _The beauty of the art exhibit exhilarated me so much that I could not wait to get home and paint._  
 __exhilarated__ _adj_ Very happy and excited.  
-__exhilarating__ _adj_ :nine::m: Causing strong feelings of excitement and happiness: _an exhilarating helicopter trip._ _It is an exhilarating thought._ _Exhilarating adventure._  
+__exhilarating__ _adj_ :nine::m: /ɪɡˈzɪləˌreɪtɪŋ/ Causing strong feelings of excitement and happiness: _an exhilarating helicopter trip._ _It is an exhilarating thought._ _Exhilarating adventure._  
 __exhilaration__ _n_  
 __exhort__ _v_ :two: /ig-ZORT/__1__ To incite by argument or advice; urge strongly to do something. __2__ To give warnings or advice; make urgent appeals.  
 __exhortation__ _n_  
@@ -6429,6 +6445,7 @@ __expendable<sup>2</sup>__ _n_ Something that is expendable.
 __expenditure__ _n_ :nine::m: (expenditures) In a trip budget, you need to add up all your expenditures, such as hotel, car rental and food costs against the money you have brought to spend. An expenditure is money spent on something. Expenditure is often used when people are talking about budgets. It is the government’s job to decide what to do with tax money collected, or in other words, to determine the expenditure of public funds. The word is more than a long way of saying expense. In business, an expenditure implies an investment, something that will bring value over time. _Going to the theater is our number one expenditure._ _Energy expenditure._  
 __expertise__  
 __expiate__ _v_ :two: __1__ To extinguish the guilt incurred by. __2__ To make amends for.  
+__expire__ _v_  
 __explant__ _v_ To remove (living tissue) from the natural site of growth and place in a medium for culture.  
 __expletive<sup>1</adj>__ _adj_  
 __expletive<sup>2</adj>__ _n_ :four::hammer::pencil2: In rhetoric, an expletive is an interrupting word or phrase used for emphasis. Example: The eggs were not, in any sense of the word, delicious. _Bombing the expletive out of its oil fields._  
@@ -6577,6 +6594,7 @@ __falter__ _v_
 __faltered__ _v_  
 __fame__ _v_  
 __famed__ _adj_ :two: Something that’s famed is very well-known, or famous. _Your dad’s famed brownies are the highlight of every bake sale in town._  
+__familial__ _adj_ _The genetic link must be familial._  
 __familiar__ _adj_ :two::hammer: _I’m not familiar with it._ _No, I’m not familiar._  
 __family member__ _n_  
 __family plot__ _n_ _She will be laid to rest in the family plot at Bethesda Cemetery._  
@@ -6598,6 +6616,7 @@ __fancy<sup>1</sup>__ _n_
 __fancy<sup>2</sup>__ _v_ :five: __1a__ To have a liking or enthusiasm for: _He fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
 __fandom__ _n_ :two::hammer:  
 __fanfare__ _n_ :three: A spectacular public display. _Syn_ ostentation _Because they were considered hometown heroes, the returning astronauts were greeted with much fanfare._  
+__fanfic__ _n_  
 __fang__ _n_ :pencil2::three::hammer: (fangs)  
 __fannies__  
 __fanny pack__ _n_ :two: A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name “fanny pack” is derived from the way they were traditionally worn facing the rear above the buttocks, for which “fanny” is a slang term in the United States (a person’s buttocks). :es: riñonera  
@@ -6634,11 +6653,13 @@ __fashionista__ _n_
 __fast and furious__ _adj_ :four: _Cliché_ Very rapidly and with unrestrained energy. _Her work in the kitchen was fast and furious, and it looked lovely when she finished. Everything was going so fast and furious at the store during the Christmas rush that we never had time to eat lunch._  
 __fast food__ _n_ :mega: Inexpensive food (hamburgers or chicken or milkshakes) prepared and served quickly.  
 __fast track__ _n_  
-__fast__ _adj_ :astonished: __9__ Firmly fixed or fastened. Fixed, unmoving. _Holding fast._ _A fast grip._  
 __fast-paced__ _adj_ :two::hammer:  
 __fast-talk__ _v_  
 __fast-track<sup>1</sup>__ _adj_ :three: Denoting the quickest or most direct route or system: _fast-track executives; a fast-track procedure for libel claims._  
 __fast-track<sup>2</sup>__ _vt_ :four: To speed up the progress of (a project or person).  
+__fast<sup>1</sup>__ _adv_  
+__fast<sup>2</sup>__ _vi_ __1__ To abstain from food. __2__ To eat very little or abstain from certain foods, especially as a religious discipline.  
+__fast<sup>3</sup>__ _adj_ :astonished: __9__ Firmly fixed or fastened. Fixed, unmoving. _Holding fast._ _A fast grip._  
 __fasten__ _v_ :mute:[fas~~t~~en]  
 __fastening__ _n_  
 __fastidious__ _adj_ :eight::astonished: /fass-TID-ee-us/ __1__ Showing extreme care when doing something. _The handbags have clearly been made with fastidious attention to detail._ __2__ Less commonly, it may be used to describe a person who is difficult to please. _The quality of food and service at the restaurant should appeal to even the most fastidious diner._  
