@@ -1,3 +1,11 @@
+__cacophony__ _n_ /ka-KAH-fuh-nee/ A cacophony is a mixture of loud and usually harsh unpleasant sounds. Cacophony can also refer to an incongruous or chaotic mixture.  
+__collateralize__ _vt_  
+__condescending__ _adj_ Displaying a patronizingly superior attitude. _Syn_ patronizing, arch  
+__conversant__ _adj_ Well informed about or knowing thoroughly. _Syn_ familiar  
+__decennary__ _n_ A period of 10 years. _Syn_ decade  
+__deepfake__ _n_ /DEEP-fayk/ [:scroll: A combination of deep learning + fake. Coined by a user of the Reddit website.] Digitally manipulated images, video, or audio that make someone appear to do or say something they did not.  
+__dot-connect__ _vi_ /DOT-kuh-nekt/ [:scroll: From the expression “to connect the dots”. From puzzles in which a line is drawn between a sequence of numbered dots to reveal a picture.] To make connections between different pieces of information in order to reach a conclusion.  
+__emulate__ _v_ /EM-yuh-layt/  
 __fatuous__ _adj_ Silly or stupid; complacently or inanely foolish.  
 __firearm__ _n_  
 __firstborn__ _adj, n_ :es: primogénito  
@@ -7,6 +15,7 @@ __flehmen__ _n_ :camera: /ˈfleɪmən/ A curling of the upper lip and raising of
 __flop__ _v_ __3__ _informal_ To fail utterly: _The play flopped._  
 __flounder__ _vi_  
 __flywheel__ _n_  
+__footloose__ _adj_ /FUUT-loos/ Free to go or do as one pleases without concerns or commitments.  
 __form factor__  
 __foul__ _adj_  
 __foundational__ _adj_  
@@ -24,15 +33,18 @@ __gazillion__
 __generic name__ _n_  
 __genre__ _n_  
 __gerbil__ _n_ /ˈdʒɜːbɪl/ (gerbille) :es: jerbo  
+__germane__ _adj_ /jer-MAYN/ _Germane_ is a formal synonym of relevant that describes something related to a subject in an appropriate way. _Her comments were not germane to the discussion._  
 __gibberish__ _n_  
 __gibe__ _n, v_ (jibe)  
 __glean__ _v_ :two::hammer: :es: espigar; recoger  
 __global boiling__ _n_  
 __globetrotter__ _n_  
 __gloss__ _n_  
+__godfather__ _n_ __3__ _Slang_ [:scroll: From the movie _The Godfather_, 1972] The leader of an organized crime family.  
 __gorgeous__  
 __gratuitous__ _adj_  
 __greedflation__ _n_  
+__greenwashing__ _n_  
 __gripping__ _adj_ /ˈgrɪp ɪŋ/ Holding the attention or interest intensely: _a gripping drama._  
 __grisly__  
 __grizzly__  
@@ -48,6 +60,7 @@ __hands-down__ _adj_ __1__ Easy: _A hands-down victory._ __2__ Unchallenged; cer
 __harbor__ _v_  
 __hardened computer__ _n_ A hardened computer refers to a system that has undergone systems hardening, a process aimed at reducing vulnerabilities in technology applications, systems, infrastructure, firmware, and other areas.  
 __headwind__ _n_  
+__hegemony__ _n_ /hih-JEM-uh-nee/ Hegemony refers to influence or control over another country, group of people, etc.  
 __heliotropic__ _adj_ [:scroll: From Greek helio- (sun) + -tropic (turning)]  
 __hiccup__ _n_ __3__ A usually minor setback, impediment, or difficulty; a hitch.  
 __high tops__ _n pl_ Training shoes that reach above the ankles.  
@@ -84,6 +97,7 @@ __inveterate__ _adj_ /in-VET-uh-rut/
 __irk__ _vt_ /ɜrk/ To irritate, annoy, or exasperate.  
 __ischemia__ _n_  
 __jalopy__  
+__jamboree__ _n_ A noisy celebration. _Syn_ gala, blowout  
 __jeer__ _n, v_  
 __jellyfish__ _n_ :es: medusa  
 __jeopardy__ _n_ /JEP-er-dee/  
@@ -93,12 +107,18 @@ __livelihood__ _n_
 __lofty__  
 __looking glass__ _n_  
 __machination__ _n_  
+__manger__ _n_ A trough or an open box in which feed for livestock is placed. _Syn_ trough  
+__marchioness__ _n_  
 __mea culpa__ _n_ An acknowledgment of a personal error or fault: _The authors issued a mea culpa after their plagiarism was revealed._  
+__mendacious__ _adj_ [:scroll: From Latin mendācium, _lie_]  
+__mendacity__ _n_ /mɛnˈdæs ɪ ti/  
 __middlebrow__ _n informal_ [:scroll: Formed on the pattern of highbrow and lowbrow] One who is somewhat cultured, with conventional tastes and interests; one who is neither highbrow nor lowbrow.  
 __mismatch__ _n_ :pencil2:  
 __mondegreen__ _n_  
 __mothering__ _n_ The nurturing and raising of a child or children by a mother.  
+__neurodiversity__ _n_ The diversity of brain function, encompassing variations from what is considered typical. Neurodivergence includes conditions like autism, ADHD, dyslexia, and others. It underscores that there is no single “normal” way the brain functions. The opposite of neurodivergent is neurotypical.  
 __newbie__  
+__obeisance__ _n_ /oh-BEE-sunss/  
 __onus__  
 __out-of-body__ _adj_  
 __outhouse__ _n_ A small building detached from a house, such as a garden shed or sometimes a toilet.  
@@ -128,6 +148,7 @@ __pixie__ _n_ A fairy; specifically: a cheerful mischievous sprite.
 __plethora__ _n_ :two::hammer::mega: /ˈplɛθərə/  
 __plumb__ _adj, adv, n, v_  
 __poignant__ _adj_  
+__pollinosis__ _n_ A seasonal rhinitis resulting from an allergic reaction to pollen. _Syn_ hay fever  
 __posit__ _v_  
 __posit<sup>1</sup>__ _vt_ __2__ To lay down or assume as a fact or principle; postulate.  
 __posit<sup>2</sup>__ _n_ :astonished: Something that is posited; an assumption; postulate.  
@@ -149,6 +170,7 @@ __pulchritudinous__ _adj_ Ysed of persons only; having great physical beauty: _p
 __pusillanimous__ _adj_ Weak and afraid of danger.  
 __quadrennial__  
 __quell__ _vt_  
+__querulous__ _adj_ /KWAIR-yuh-lus/ Someone described as querulous is constantly or habitually complaining. Querulous can also be used synonymously with _fretful_ or _whining_ when describing something, such as a person’s tone of voice.  
 __quiche__ _n_ /KEESH/  
 __quinoa__ _n_ :mega: /KEEN-wah, kee-NOH-uh/  
 __quirk__ _n_ /KWERK/ _Quirk_ refers to an unusual habit or way of behaving. It can also refer to something strange that happens by chance, as in “a quirk of fate.”  
@@ -158,6 +180,7 @@ __range anxiety__ _n informal_ The apprehension or fear that an electric vehicle
 __rapport__ _n_ /ra-POR/  
 __reckless__ _adj_  
 __reclaim__ _vt_  
+__refurbish__ _v_ /rih-FER-bish/ To refurbish something is to brighten or freshen it up, or to repair and make improvements to it. _The store refurbishes and sells computers that can often meet the needs of those who don’t need the latest technology._  
 __relatable__  
 __remark__ _n_ /rɪˈmɑrk/  
 __remuneration__ _n_ :mega: /rih-myoo-nuh-RAY-shun/  
@@ -165,8 +188,14 @@ __renewal__ _n_
 __renowned__ _adj_ :two::hammer:  
 __reptilian__ _adj_ :dart: /rep-TIL-ee-uhn, -TIL-yuhn/ __1__ Contemptible. __2__ Treacherous. __3__ Like a reptile.  
 __safeguard__ _n_  
+__sheik__ _n_ [:scroll: From the movie _The Sheik_, 1921] A man held to be masterful and irresistibly charming to women.  
+__smidgen__ _n_ A very small quantity or portion; a bit or mite. _Syn_ whit, iota, scintilla, shred, tittle  
 __streamline__ _vt_  
+__supercalifragilisticexpialidocious__ _n_ The word is a compound word, and said by Richard Lederer in his book _Crazy English_ to be made up of these words: super- “above,” cali- “beauty,” fragilistic- “delicate,” expiali- “to atone,” and -docious “educable,” with all of these parts combined meaning ”Atoning for educability through delicate beauty.”  
+__ulterior__ _adj_ /ul-TEER-ee-er/ Ulterior describes things (usually motives, objectives, reasons, agendas, etc.) that are kept hidden in order to achieve a particular result.  
+__uncultured__ _adj_ Not cultured or cultivated. _Syn_ artless, uncultivated  
 __watch list__ _n_ A list of people or things that are being closely watched because they are likely to do or experience bad things in the future. _The animals are on a watch list of species that could become extinct soon._  
+__weltanschauung__ _n_ A German word meaning world view, used to mean someone’s philosophy of life. _Many people disagree with the writer’s personal Weltanschauung, but most can appreciate the quality and thoughtfulness of her work._  
 __whereas__ _conj_ /ʰwɛərˈæz, wɛər-/  
 __whizzer__ _adj_ Something notable of its kind: such as an outstandingly attractive or able person.  
 __whopping__ _adj, adv_  
