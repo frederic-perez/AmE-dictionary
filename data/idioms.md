@@ -441,7 +441,7 @@ __at (one’s) own game__
 __at a (single) stroke__ All at once, with a single decisive or powerful action. _When the economy crashed, thousands of people lost their jobs, their homes, and their pensions at a single stroke._  
 __at a crossroads__ :dart::four::pencil2: At a point when a choice must be made; at a point of change. _After earning my degree, I’m at a crossroads. I need to figure out which direction my life should take._  
 __at a discount__ _Virtues are held at a discount._  
-__at a loss__ _They sat inside the car, at a loss for what to do next._  
+__at a loss__ :two::hammer: _They sat inside the car, at a loss for what to do next._  
 __at a moment’s notice__:dart::three: With little time to prepare; immediately and at any time. _Firefighters need to be able to spring into action at a moment’s notice._  
 __at a snail’s pace__ :two: (at a snail’s gallop) Very slowly (as a snail is known to move very slowly). _My research is moving at a snail’s pace—every experiment I’ve tried so far has failed._  
 __at all costs__ In any way possible, regardless of risk or expense.  
@@ -460,7 +460,7 @@ __at its worst__
 __at large__ :three::hammer:  
 __at length__ :four::hammer: _At length a messenger entered the camp site and sought out King._ _Terms were discussed at length in open session._  
 __at loggerheads__  
-__at odds__ :seven: (be at odds) In disagreement; in conflict. _The overhaul have put Pemex and the Energy Ministry at odds._ _They’re often at odds._ _They are at odds over the best way to lead the committee._  
+__at odds__ :eight: (be at odds) In disagreement; in conflict. _The overhaul have put Pemex and the Energy Ministry at odds._ _They’re often at odds._ _They are at odds over the best way to lead the committee._  
 __at once__ :two::hammer:  
 __at one button__ _The Prince did not value a knight at one button._  
 __at one time__ _At one time, Ms. Hardy could see the beach from her window._  
@@ -468,7 +468,7 @@ __at one’s wit’s end__ :two: At the limits of one’s mental resources. _I�
 __at pains__ Striving. Used to describe someone who is putting forth effort towards some goal or end.  
 __at peace__  
 __at someone’s disposal__  
-__at stake__ :two::hammer:  
+__at stake__ :three::hammer:  
 __at the buzzer__ _Durant missed a floater at the buzzer._  
 __at the end of (one’s) rope__ Having reached a point of utter exhaustion or exasperation; in a state at which one has no more patience, endurance, or energy left. _The baby’s been crying all morning, and I haven’t slept properly in days. I’m just at the end of my rope!_  
 __at the end of (one’s) tether__ Completely worn out, exasperated, or exhausted; having no more patience, endurance, or energy left. _Joshua has been throwing a tantrum all afternoon, and with all the other things I have to get done, I’m simply at the end of my tether!_  
@@ -538,12 +538,15 @@ __bad press__ :three: Negative or unflattering coverage by the media. _Drones ge
 __bad sport__ Someone who becomes petulant, disagreeable, or belligerent when they lose.  
 __bad word__ A euphemism for profanity. A curse or swear word. _You just said a bad word! I’m telling mom!_ _Cat says bad words._  
 __bad__ :astonished: __1__ mod. Powerful; intense. _This grass is bad!_ __2__ mod. Suitable; excellent; good. _I got some new silks that are really bad._  
+__bada bing__ _interj_ :dart: (bada-bing) _chiefly US_ Used especially to emphasize something regarded as surprising, sudden, effortlessly achieved, or impressive.  
+__bada-bing__ /ˌbædəˈbɪŋ/ (bada-bing bada-boom) _sentence substitute_ _slang US_ An expression used to suggest that something can be done with no difficulty or delay.  
 __badass__ :four::hammer:  
 __baddie__ __1__ The antagonist or enemy in a book, film, video game, etc. _Bowser is the main baddie who’s always causing trouble for Mario and Luigi._ __2__ Someone or something that is deemed negative or harmful. _Sean is in time-out because he was being a baddie today._  
 __badgering the witness__ Term used when an attorney is questioning a witness on the stand, and is being unduly snide or pushy, or bullies the witness to answer the question. When an attorney badgers a witness, the other side will use an objection to seek the judge’s intervention.  
 __bae__ _slang_ One’s romantic partner. Often used as a term of endearment. _I don’t have any plans tonight—just staying home with bae._  
 __bag of tricks__ All the clever methods by which someone achieves something.  
 __bag__ :four: __2__ _v_ To get or obtain something. _Hey, when you go to that event, be sure to bag some cupcakes for us!_ _World’s Strongest Man bags new job._  
+__bait and switch__  
 __balancing act__  
 __bald as a coot__ Totally bald.  
 __bald-faced lie__ A blatantly obvious or impudent untruth, one in which the liar does not attempt to disguise their mendacity. _Our son tells us nothing but bald-faced lies when we ask him where he goes at night._  
@@ -577,6 +580,8 @@ __barnburner__ :four: Any thing, event, or occasion that is especially exciting,
 __barrel of laugh__ :two: Someone who is very funny.  
 __barrel of laughs__ :three: Fun, funny, and pleasant. Often used sarcastically to indicate that someone is unpleasant or not enjoyable to be around. _A: “Is Mr. Grant always cranky?” B: “Oh, yeah—he’s a real barrel of laughs!”_ _I always have so much fun when Katie’s around—she’s totally a barrel of laughs!_  
 __barter with__ :two: To swap or trade items with another person, rather than exchanging money. _I bartered with some guy at the flea market for a futon, so now I have a place to sleep, at least._  
+__base (up)on__  
+__based in__  
 __basket case__  
 __bat an eye__ :three: To display a subtle emotional reaction, such as consternation, annoyance, sadness, joy, etc. Generally used in the negative to denote that the person in question did not display even a hint of an emotional response. _Mary didn’t even bat an eye when I told her I was moving out._  
 __bats in the belfry__  
@@ -607,6 +612,7 @@ __be a loud mouth__ To have a tendency or habit of speaking incessantly, indiscr
 __be a must__ To be requisite, necessary, or indispensable.  
 __be a roaring success__ To be extremely or triumphantly successful.  
 __be a wash__ To have gains and losses that are considered to be equal or offset; to have an outcome of negligible advantage or disadvantage. _The product sold moderately well, but we spent so much on development and marketing that it ended up being a wash._  
+__be all about (someone, something, or oneself)__  
 __be all and end all__ (be-all and end-all) The quintessential or all-important element.  
 __be all ears__  
 __be as good as gone__ To be very nearly, inevitably, or for all intents and purposes lost, departed, defunct, or deceased.  
@@ -618,6 +624,7 @@ __be at odds (with)__ :two: To be in conflict (with).
 __be at odds__ _They are at odds over the details of legislation._  
 __be at your wits’ end__ To be worried about something and not know what you should do next.  
 __be baked into (one’s) DNA__  
+__be better off__  
 __be brought in from the cold__ To be allowed to join or participate in a group from which one was previously excluded; to be accepted in a certain social setting.  
 __be busted__ :two::hammer:  
 __be caught off (one’s) guard__ To be taken by surprise; to be caught when one is vulnerable, careless, or inattentive. _We’ll wait until he’s caught off guard, and then we’ll take him and his company for all they’re worth!_  
@@ -637,7 +644,7 @@ __be hard pressed__
 __be hard put to (do something)__ To be struggling to do or accomplish something, especially because it seems impossible. _You’ll be hard put to find a better guy than Bill._  
 __be hard put__  
 __be held in high regard__ To be regarded with a large amount of respect or admiration. _Mr. Ross has always been held in high regard for all his charity work._  
-__be here to stay__ :six: (is here to stay) To be permanent or firmly established; to be a normal part of everyday life, especially after once being considered abnormal or unusual. _A lot of people see the ubiquity of the Internet as the death of face-to-face communication, but at this point it is very much here to stay._ _Digital health is here to stay._  
+__be here to stay__ :seven: (is here to stay) To be permanent or firmly established; to be a normal part of everyday life, especially after once being considered abnormal or unusual. _A lot of people see the ubiquity of the Internet as the death of face-to-face communication, but at this point it is very much here to stay._ _Digital health is here to stay._  
 __be hoist by (one’s) own petard__  
 __be honor-bound to (do something)__ :two: To be or feel obliged to do something because it is morally correct or required by one’s sense of duty or integrity, even if one does not desire to do so.  
 __be hounded (by someone or something)__ :two: To be pursued, chased, badgered, or pestered (by someone or something), especially persistently or relentlessly.  
@@ -654,7 +661,7 @@ __be in the dark (about someone or something)__ _We are in the dark._
 __be in the hunt__  
 __be in the know__ :two: _slang_ To be well-informed, especially about a topic that is not widely known.  
 __be in the wrong__ To have done something incorrect or inappropriate.  
-__be just the same (to someone)__ To make no difference (to someone) one way or another; to be unimportant (to someone) what happens.  
+__be just the same (to someone)__ :two: To make no difference (to someone) one way or another; to be unimportant (to someone) what happens.  
 __be keen about (someone or something)__  
 __be kept in the dark (about something)__ :two: To be kept uninformed (about something); to be excluded from full knowledge or disclosure (of something). _I don’t fully trust John to keep our plan a secret, so I think it best that he be kept in the dark for now._  
 __be kicked to the curb__ :dart: To be discarded, abandoned, or dismissed (as from employment) due to being unwanted, obsolete, or redundant.  
@@ -665,12 +672,13 @@ __be left holding the bag__ :dart::two: To have responsibility or guilt for some
 __be left in the lurch__ To be left or abandoned without assistance in a particularly awkward, difficult, or troublesome situation. (Sometimes written as “left in a lurch.”) _I’ll really be left in the lurch if the manager decides to quit before this project is finished._  
 __be left out in the cold__ :two: To be ignored, forgotten and neglected.  
 __be left to (one’s) own devices__ :two: To be left unsupervised or uncontrolled; to be allowed to do as one pleases. _My job is really great: I know what I need to work on and am just left to my own devices._  
+__be like finding a needle in a haystack__  
 __be like herding cats__ :two: To be very unwieldy or unmanageable; to be nearly impossible to organize. Usually said of a group of people.  
 __be like oil and water__ To be incompatible or unable to interact or coexist easily, as due to fundamental differences in personality, opinions, beliefs, etc. _The more I pay attention to the news, the more it seems that politics and common sense are as compatible as oil and water._  
 __be like trying to find a needle in a haystack__  
 __be little love lost between (two people)__ Of two people, to dislike one another very much. _There’s little love lost between Sarah and my roommate, so it’ll be a little awkward now that Sarah and I are dating._  
 __be looking for trouble__ To be doing something or acting in a manner that will very likely result in trouble, difficulty, or danger. _I’d keep your mouth shut if you want to keep your job—arguing with the boss like that is just looking for trouble!_  
-__be losing it__ _idiom_ To start becoming crazy, insane, or mentally unstable.  
+__be losing it__ :two: To start becoming crazy, insane, or mentally unstable.  
 __be made of sterner stuff__ To be very strong, determined, or of uncompromising character, especially in comparison to others. _I can’t believe you let us down at the last minute. I thought you were made of sterner stuff than that!_ _Did she cry? I thought she was made of sterner stuff._  
 __be more trouble than it’s worth__ To not be important, useful, or beneficial enough to justify the effort or difficulty that something requires. _With all the repairs this car will need to be road-worthy, it’s going to be more trouble than it’s worth!_  
 __be my guest__  
@@ -724,7 +732,8 @@ __be thrilled to death__ To be ecstatic; to be very pleased and excited. _I was 
 __be tied (up) in knots__ To be confused, anxious, worried, and/or upset (about something). _I’ve been tied up in knots trying to come up with a good topic for my term paper, but I just can’t think of anything!_  
 __be two/three etc years someone’s junior__ :three: To be younger than someone else by a particular amount. _Diane is 12 years her husband’s junior._ _His remarriage at the age of 46 to a girl some thirty years his junior took place in February 1386._  
 __be two/three etc years someone’s senior__ To be two/three etc years older than someone. _Her husband is fifteen years her senior._  
-__be under way__  
+__be under way__ :three::hammer:  
+__be up in the air__ To be uncertain or subject to change.  
 __be up to (something)__  
 __be waiting for the other shoe to drop__ To be waiting for the next, seemingly unavoidable thing to happen. This phrase often has a negative connotation. _Mom said that Dad would punish us when he got home from work, so now we’re just waiting for the other shoe to drop._  
 __be warned__ _Be warned, Commander, I didn’t make this coffee._  
@@ -732,13 +741,14 @@ __be well versed in (something)__ To be very knowledgeable about, skillful in, o
 __be woke__  
 __Beam me up, Scotty__ Get me out of here! Take me away!  
 __bean counter__ :two: __1__ A derogatory term used to describe someone who obsesses over trivial and insignificant expenditures in an attempt to save money.  
+__bear (someone or something) in mind__  
 __bear fruit__ :three: (bear fruits) Yield results, have a favorable outcome. _This new idea of his is bound to bear fruit._  
 __bear hug__ :two::hammer:  
 __bear in mind (that)__ :two: To remember and consider something when making a decision or before taking action. This phrase is often used as an instruction. _Before you ask for a raise, bear in mind that the company isn’t doing well financially right now._  
 __bear out__ _v_ To be evidence that something is true or that what someone says is true; support something or someone: _The test results bear out our claims._ _I told them my side of the story and the evidence bore me out._  
 __bear the brunt (of something)__  
 __bear with (someone or something)__  
-__beat (oneself) up__ :two: To continually criticize or question oneself, usually about something that one cannot change.  
+__beat (oneself) up__ :three: To continually criticize or question oneself, usually about something that one cannot change.  
 __beat about the bush__  
 __beat around the bush__ To fail to come to the important point about something; from the idea of a hunted animal hiding in a bush while the hunter is too timorous to follow it in there.  
 __beat down__  
@@ -755,9 +765,10 @@ __beauty queen__ A woman who has won, or looks as if she could win, a beauty pag
 __beauty sleep__ Sleep that helps one to look refreshed and attractive. Usually said humorously.  
 __become second nature (to one)__  
 __beef up__ :three: To increase something, often in strength. _With all these protestors here, we definitely need to beef up security._ _My boyfriend has been going to the gym every day for months in hopes of beefing up his frame._  
+__beekeeping age__ A slang phrase that refers to a middle age range and is usually used specifically to describe an attractive older man, as in _Mark’s dad is in his beekeeping age._  
 __been there, done that__ :three::hammer:  
 __beer money__ A small amount of money that somebody earns or is allowed to spend, for example on beer. _Singing in bars keeps him in beer money._  
-__beer muscles__ An inflated notion of one’s strength, ego, or bravado due to excess consumption of alcohol (not necessarily beer).  
+__beer muscles__ :two: An inflated notion of one’s strength, ego, or bravado due to excess consumption of alcohol (not necessarily beer). _When he drinks, Jeff always gets beer muscles and wants to fight every guy in the bar._  
 __before I knew it__  
 __before long__ Soon. _I’ll probably be retiring before long._  
 __before you know it__ :two::hammer:  
@@ -768,12 +779,13 @@ __behind closed doors__ :dart::six: In secret, privately.
 __behind our backs__ _Behind our backs they called us the Spic and the Mik._  
 __behind the curtain__  
 __behind the eight ball__ If someone or something is behind the eight ball, they are in trouble or in a difficult situation. If a child doesn’t get the basics in primary school, they are way behind the eight ball.  
-__behind the scenes__ :six: Without being widely known or attracting attention. Referring to the private portion of a venue, operation, or production, as opposed to the public part. _Let’s have a round of applause for all the people who worked behind the scenes to give us such a great event!_  
+__behind the scenes__ :seven: Without being widely known or attracting attention. Referring to the private portion of a venue, operation, or production, as opposed to the public part. _Let’s have a round of applause for all the people who worked behind the scenes to give us such a great event!_  
 __behind the times__ Old-fashioned.  
 __belie__ _v_  
 __bell the cat__ To perform a daring act.  
 __bellies__ _n_ Pork bellies; pork belly futures. (Securities markets. Often with the.) _Buy the bellies and sell the beans._  
 __bells and whistles__ :two::hammer:  
+__bellwether state__ A state whose political trends, tendencies, or developments tend to reflect or predict those of the entire country. Primarily heard in US. _Ohio is famously a bellwether state. If the senator can win here, she’s nearly assured to win the presidency._  
 __belly up__ :two: __3__ Drunk. _Do you remember last night at the bar at all? You were really belly up!_  
 __belt__ _n slang_ A serving of liquor. _Gimme a belt of whiskey, Tom._ _Four belts of Old Crow._  
 __bench-warmer__  
@@ -781,13 +793,14 @@ __bend over backward(s)__ :two: To try very hard to do something. This phrase ha
 __bend the rules__ To allow something to be done which is technically against the rules or not normally accepted.  
 __best of all__ Used to refer to the most important or appealing part of something that has many good parts. _The machine is easy to use, easy to clean, and best of all, it’s absolutely free when you order these books._  
 __best-kept secret__  
+__best-of-class__  
 __bestie__ :two: _slang_ One’s closest friend. _I’m so excited that my bestie is coming to visit this weekend!_  
 __bet the farm__ To risk everything on a venture that one thinks will be successful. Primarily heard in US. _I wouldn’t bet the farm on that wacky invention._  
 __better (to be) safe than sorry__ :two::hammer:  
 __better late than never__  
 __better the devil you know than the devil you don’t__ _prov_ When faced with two options, it is better to choose the more familiar one, even if it is undesirable. _A: “Why don’t you just quit your job if you’re so miserable?” B: “Who knows if a new job will be any better! Better the devil you know than the devil you don’t.”_  
 __better the devil you know__  
-__between a rock and a hard place__ :two::hammer:  
+__between a rock and a hard place__ :three::hammer:  
 __between dog and wolf__ Between dusk and daylight. _What were you guys doing out between dog and wolf? You better not have been getting into trouble last night!_  
 __beyond belief__ Inconceivable; outside of the realm of imagination, expectation, or anticipation. _I find it simply beyond belief the greed of all these big corporations._  
 __beyond compare__ Unequalled or peerless. _I’m not surprised that Molly won that scholarship—her intelligence is beyond compare._  
@@ -798,6 +811,7 @@ __big break__ :two: A fortuitous moment, opportunity, or turn of events of great
 __big brother__  
 __big cheese__ :two: An influential person.  
 __big deal__ :two::hammer:  
+__big enchilada__ __1__ The most important or powerful person in a group, organization, business, or movement (e.g., the boss, leader, etc.). Primarily heard in US. _I think it sounds like a great idea, but you’ll have to ask the big enchilada first._ __2__ An object or goal of great value, importance, or consequence. Primarily heard in US. _We only need to win two more games in the tournament to take home the big enchilada._  
 __big fat__  
 __big fish__  
 __big if__ Something that is both important and uncertain. _Syn_ a fundamental question  

@@ -1,28 +1,3 @@
-__at a loss__  
-__at odds__  
-__at stake__  
-__bada bing__ _interj_ :dart: (bada-bing) _chiefly US_ Used especially to emphasize something regarded as surprising, sudden, effortlessly achieved, or impressive.  
-__bada-bing__ /ˌbædəˈbɪŋ/ (bada-bing bada-boom) _sentence substitute_ _slang US_ An expression used to suggest that something can be done with no difficulty or delay.  
-__bait and switch__  
-__base (up)on__  
-__based in__  
-__be all about (someone, something, or oneself)__  
-__be better off__  
-__be here to stay__ To be permanent or firmly established; to be a normal part of everyday life, especially after once being considered abnormal or unusual.  
-__be just the same (to someone)__ To make no difference (to someone) one way or another; to be unimportant (to someone) what happens.  
-__be like finding a needle in a haystack__  
-__be losing it__ To start becoming crazy, insane, or mentally unstable.  
-__be under way__ :two::hammer:  
-__be up in the air__ To be uncertain or subject to change.  
-__bear (someone or something) in mind__  
-__beat (oneself) up__ To continually criticize or question oneself, usually about something that one cannot change.  
-__beekeeping age__ A slang phrase that refers to a middle age range and is usually used specifically to describe an attractive older man, as in _Mark’s dad is in his beekeeping age._  
-__beer muscles__ An inflated notion of one’s strength, ego, or bravado due to excess consumption of alcohol (not necessarily beer). _When he drinks, Jeff always gets beer muscles and wants to fight every guy in the bar._  
-__behind the scenes__ Without being widely known or attracting attention. Referring to the private portion of a venue, operation, or production, as opposed to the public part.  
-__bellwether state__ A state whose political trends, tendencies, or developments tend to reflect or predict those of the entire country. Primarily heard in US. _Ohio is famously a bellwether state. If the senator can win here, she’s nearly assured to win the presidency._  
-__best-of-class__  
-__between a rock and a hard place__  
-__big enchilada__ __1__ The most important or powerful person in a group, organization, business, or movement (e.g., the boss, leader, etc.). Primarily heard in US. _I think it sounds like a great idea, but you’ll have to ask the big enchilada first._ __2__ An object or goal of great value, importance, or consequence. Primarily heard in US. _We only need to win two more games in the tournament to take home the big enchilada._  
 __big fish__ _n_ An important person or entity.  
 __big kahuna__ The most important or powerful person in a group, organization, business, or movement (e.g., the boss, leader, etc.). Primarily heard in US.  
 __big shot__  
