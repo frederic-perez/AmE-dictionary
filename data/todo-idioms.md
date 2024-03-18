@@ -1,8 +1,11 @@
+__along the lines of (something)__  
+__be in the know__  
 __big fish__ _n_ An important person or entity.  
 __big kahuna__ The most important or powerful person in a group, organization, business, or movement (e.g., the boss, leader, etc.). Primarily heard in US.  
 __big shot__  
 __bigfoot__ A prominent or influential person, esp. a journalist or news analyst. The name caught on as a designation for a celebrity reporter or columnist and has since extended to include other big shots in politics, business, and other playing fields.  
 __bigwig__ An important person; a self-important person. _Some bigwig in a pinstripe suit waltzed through and asked me to leave._  
+__black eye__  
 __blanket term__ A word or phrase used to describe a broad range of similarly related things, usually resulting in diluting the specific meaning of individual items. _“Idiom” is often used as a blanket term for any element of language that is used strangely or uniquely by its users._  
 __blond bombshell__ A voluptuous, alluring blond woman. Primarily heard in US. _Marilyn Monroe is probably the most famous blond bombshell of all time._  
 __bloodbath__  
@@ -12,6 +15,7 @@ __bonkers__ __1__ Crazy, wacky, or strange. _There’s a guy on our corner who s
 __boob tube__ _slang_ The television.  
 __boogie__ __2__ _v_ To dance, often to rock music specifically. _I hope you’ll boogie with me tonight—my husband hates to dance._ __3__ _v_ To become focused and work diligently on something. _Fine, take a break now, and then we’ll boogie._  
 __brain dead__ __2__ _slang_ So mentally exhausted or lacking focus that one does something poorly and/or makes easily avoidable mistakes.  
+__break character__  
 __break out__ __5__ _v_ To occur unexpectedly and intensely. _We knew it was time to leave the club when a fight broke out between guys at the bar._  
 __break something down__  
 __bring (one) to (one’s) feet__  
@@ -20,12 +24,14 @@ __bummer__ :two: __3__ _adj_ Describing someone or something unpleasant. _Oh, it
 __burn money__ To waste or spend money in a careless or excessive way, often without any real benefit or return on investment.  
 __burning desire__  
 __by design__ :dart: Deliberately and purposefully; as one planned or intended. _I assure you that everything you saw has happened by design._  
+__by no means__  
 __by way of (something)__  
 __calaboose__ _slang_ Jail. The word comes from “calabozo,” the Spanish word for “dungeon.” _They’ll throw you in the calaboose if they find out that you were involved in the robbery!_  
 __call for (someone or something)__  
 __call out__ :two::hammer: _Midjourney called out competitor Stability AI for scraping their images._  
 __case in point__  
 __cash in__ :two::hammer:  
+__cast doubt__  
 __cheers and jeers__ Praise from some and scorn from others; a mixed reaction.  
 __cheesy__ _mod_ Cheap; tacky. _I wouldn’t live in a cheesy place like this if I could afford better._  
 __chops__ _informal_ One’s skill in some area.  
@@ -38,13 +44,17 @@ __cross (one’s) fingers__
 __crowdfund__ /KRAUD-fuhnd/ To fund a project by raising money from a large number of people, mostly strangers and usually via the Internet.  
 __crunch (the) numbers__  
 __dead end__  
+__dealbreaker__  
 __do or die__  
 __dogfood__ _v_ To test a company’s product by having its employees use it in their regular workday.  
 __down the line__  
 __downtime__  
+__draw on__  
 __dry run__ A practice session or test designed to identify and correct possible problems. _Let’s do a couple dry runs of your speech so you feel totally comfortable with it for tomorrow’s ceremony._  
 __dupe__ _v_ __1__ To deceive or trick one. _The student tried to dupe me with a letter on which he’d forged his mom’s signature._  
+__echo chamber__  
 __edge out__  
+‌__end of story__  
 __every so often__ Sometimes; occasionally.  
 __fair game (for something)__  
 __fall behind__  
@@ -68,6 +78,7 @@ __for the birds__
 __for the show__ Something done purely for the sake of appearance or to make a good impression, without any real substance or significance. It is often used to describe actions or behaviors that are superficial, insincere, or done solely to impress others.  
 __for want of a better word__ Lacking a more precise term. _If you want to maintain your good mood, then don’t talk to Kristina. She is, for want of a better word, a sourpuss._  
 __fork over__  
+__fourth wall__  
 __frag__ _slang_ [:scroll: The term had its origin in the Vietnam War] To kill a fellow soldier, often a superior, with a grenade or other explosive device. The word is a shortening of “fragmentation grenade,” referring to a type of grenade that expels shrapnel over a large area. _Someone’s going to frag that guy if he keeps treating his men so poorly._  
 __free fall__  
 __free lunch__  
@@ -79,6 +90,7 @@ __fuzz__ _slang_ The police. _Come on, we’ve got to get out of here before the
 __game face__ __2__ An expression of stoicism intended to mask one’s emotions or intentions. _John put his game face on as soon as I started to break up with him, so I can’t really tell how he took the new._  
 __game__  
 __get (something) in order__ __3__ To arrange or resolve something so that it is in the most proper, efficient state possible. _They brought in a consultant to help get the project in order._  
+__get a/the nod (for something)__  
 __get down to work__ To begin being serious about something; to begin attending to business or work at hand.  
 __get into it__  
 __get it (all) together__  
@@ -125,8 +137,10 @@ __keep pace__
 __keep up__  
 __king of the castle__ The most powerful, successful, or authoritative person in a group or organization.  
 __kitchen-sink__ Showing or pertaining to the lives of common, everyday people. (Always used before a noun.)  
+__knock it off__  
 __latch onto (someone or something)__  
 __live up to (something)__  
+__living proof__  
 __lose (one’s) shit__  
 __loud and clear__  
 __make a fuss__  
@@ -138,11 +152,14 @@ __mixed feelings__
 __not have all day__ To be in a rush; to not have much or any time to spare. Usually used in the present tense. _How long is this repair job going to take? I don’t have all day!_  
 __not sleep a wink__  
 __off again, on again__  
+__off the hook__  
 __off-kilter__  
 __oh boy__  
+__old school__  
 __on a daily basis__ Once or more each day.  
 __on a mission__ :two::hammer:  
 __on the back burner__ Of a low priority; given less or little thought or attention; postponed or suspended.  
+__on the contrary__  
 __on the lookout__ :two: Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
 __one-off__  
 __org__ __2__ _n_ An organization.  
@@ -151,6 +168,7 @@ __out of the wood(s)__
 __outed__  
 __over the moon__ Extremely happy. _I’ve been over the moon ever since I got engaged—I just can’t stop looking at my ring!_  
 __paint a (some kind of) picture (of something)__  
+__peanut gallery__  
 __picture perfect__  
 __pile up__  
 __piss off__  
@@ -165,6 +183,7 @@ __put (one’s) money where (one’s) mouth is__
 __put (someone or something) to the test__  
 __put (something or someone) on the map__ To make (a place, a person, etc.) famous or well-known.  
 __put on a happy face__ To begin to smile and act cheerful.  
+__question mark__ An unknown or uncertainty.  
 __quite a (something)__  
 __rain or shine__  
 __ramp up__ :three::hammer:  
@@ -199,6 +218,8 @@ __soak in__
 __soccer mom__  
 __spill the tea__ :two::hammer:  
 __spray and pray__ __1__ _informal_ To dispense anything (such as bullets or advertising) in an uncoordinated manner, hoping to reach the desired target through luck. __2__ The act of blindly firing an automatic weapon with the intent of potentially hitting the target; tends to be ineffective.  
+__step in__  
+__strike action__  
 __strive to (do something)__ To put forth a great and tenacious effort to do or accomplish something.  
 __sugarcoat (something)__  
 __swipe at__  
@@ -217,6 +238,7 @@ __thin-skinned__ Emotionally susceptible to or unable to ignore the verbal attac
 __think again__  
 __tip over__  
 __tipping point__  
+__to (one’s) name__  
 __to name (but) a few__  
 __top dog__ _ChatGPT-4 is still the top dog._  
 __touch on (something)__  
@@ -228,11 +250,13 @@ __two-edged sword__ Something that can be at once beneficial and problematic; an
 __under fire__  
 __unheard of__  
 __up in the air__ Uncertain; subject to change.  
+__walk a fine line between (something)__  
 __walk down the aisle__ To get married.  
 __wash (one’s) mouth out (with soap)__  
 __whip up__  
 __word for word__ In or with the same exact words; verbatim. _After seeing the play only once, he was able to repeat the monologue word for word. It was amazing._  
 __yada yada yada__  
+__yea or nay__  
 __yikes__  
 __yup__  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  

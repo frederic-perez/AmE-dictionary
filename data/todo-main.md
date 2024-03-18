@@ -1,12 +1,23 @@
+__ameliorate__ _v_  
+__amulet__ _n_ _Syn_ charm, fetish, talisman, juju  
 __cacophony__ _n_ /ka-KAH-fuh-nee/ A cacophony is a mixture of loud and usually harsh unpleasant sounds. Cacophony can also refer to an incongruous or chaotic mixture.  
 __collateralize__ _vt_  
 __condescending__ _adj_ Displaying a patronizingly superior attitude. _Syn_ patronizing, arch  
+__conga__ _n_ __3__ A conga drum.  
+__controversy__ _n_ :mega:  
 __conversant__ _adj_ Well informed about or knowing thoroughly. _Syn_ familiar  
+__copyrighter__ _n_  
 __decennary__ _n_ A period of 10 years. _Syn_ decade  
 __deepfake__ _n_ /DEEP-fayk/ [:scroll: A combination of deep learning + fake. Coined by a user of the Reddit website.] Digitally manipulated images, video, or audio that make someone appear to do or say something they did not.  
+__devil__ _n_ /ˈdɛv əl/  
 __dot-connect__ _vi_ /DOT-kuh-nekt/ [:scroll: From the expression “to connect the dots”. From puzzles in which a line is drawn between a sequence of numbered dots to reveal a picture.] To make connections between different pieces of information in order to reach a conclusion.  
+__eclipse__ _vt_ /ɪˈklɪps/  
+__elusive__  
 __emulate__ _v_ /EM-yuh-layt/  
+__factual__ _adj_  
+__far-reaching__ _adj_  
 __fatuous__ _adj_ Silly or stupid; complacently or inanely foolish.  
+__finch__ _n_ (bird)  
 __firearm__ _n_  
 __firstborn__ _adj, n_ :es: primogénito  
 __fissure__ _n_  
@@ -59,6 +70,7 @@ __handcart__ _n_ A small, usually two-wheeled cart pulled or pushed by hand.
 __hands-down__ _adj_ __1__ Easy: _A hands-down victory._ __2__ Unchallenged; certain: _a hands-down bestseller._  
 __harbor__ _v_  
 __hardened computer__ _n_ A hardened computer refers to a system that has undergone systems hardening, a process aimed at reducing vulnerabilities in technology applications, systems, infrastructure, firmware, and other areas.  
+__headdress__ _n_  
 __headwind__ _n_  
 __hegemony__ _n_ /hih-JEM-uh-nee/ Hegemony refers to influence or control over another country, group of people, etc.  
 __heliotropic__ _adj_ [:scroll: From Greek helio- (sun) + -tropic (turning)]  
@@ -68,6 +80,7 @@ __Hillary__ _n_ /ˈhɪl ə ri/
 __hitman__ _n slang_  
 __hobbledehoy__ _n_ An awkward, gawky young man.  
 __homeostasis__ _n_  
+__hopeless__ _adj_  
 __hough<sup></sup>__ _vt_ :mega: /hok/ To cripple, disable, or to make ineffective.  
 __hough<sup>2</sup>__ _n_ :mega: /hok/ The joint in the hind leg of a quadruped animal such as a horse, equivalent to the ankle in a human.  
 __hourlong__ _adj_  
@@ -90,10 +103,12 @@ __inferrer__ _n_
 __inflamed__ _adj_ /ɪnˈfleɪmd/ Swollen, red, and painful as a result of disease or injury.  
 __ingurgitate__ _v_ To swallow greedily or in excessive amounts; gulp.  
 __insipid__ _adj_ __2__ Lacking qualities that excite, stimulate, or interest; dull.  
+__insurmountable__  
 __intern__ _v_ To confine or impound especially during a war.  
 __internment__ _n_ The act of interning someone or the state of being interned.  
 __interventional cardiology__ _n_ Branch of cardiology that deals specifically with the catheter based treatment of structural heart diseases.  
 __inveterate__ _adj_ /in-VET-uh-rut/  
+__invigorate__ _vt_  
 __irk__ _vt_ /ɜrk/ To irritate, annoy, or exasperate.  
 __ischemia__ _n_  
 __jalopy__  
@@ -102,6 +117,7 @@ __jeer__ _n, v_
 __jellyfish__ _n_ :es: medusa  
 __jeopardy__ _n_ /JEP-er-dee/  
 __juvenile__ _adj, n_  
+__kayfabe__  
 __kvell__ _n_ /kvɛl/ _slang_  
 __livelihood__ _n_  
 __lofty__  
@@ -110,12 +126,16 @@ __machination__ _n_
 __manger__ _n_ A trough or an open box in which feed for livestock is placed. _Syn_ trough  
 __marchioness__ _n_  
 __mea culpa__ _n_ An acknowledgment of a personal error or fault: _The authors issued a mea culpa after their plagiarism was revealed._  
+__measles__ _n_ :mega:  
+__meek__ _adj_  
 __mendacious__ _adj_ [:scroll: From Latin mendācium, _lie_]  
 __mendacity__ _n_ /mɛnˈdæs ɪ ti/  
 __middlebrow__ _n informal_ [:scroll: Formed on the pattern of highbrow and lowbrow] One who is somewhat cultured, with conventional tastes and interests; one who is neither highbrow nor lowbrow.  
 __mismatch__ _n_ :pencil2:  
+__mitigate__  
 __mondegreen__ _n_  
 __mothering__ _n_ The nurturing and raising of a child or children by a mother.  
+__nay__ _n_ __1__ A denial or refusal. __2__ A negative vote or voter.  
 __neurodiversity__ _n_ The diversity of brain function, encompassing variations from what is considered typical. Neurodivergence includes conditions like autism, ADHD, dyslexia, and others. It underscores that there is no single “normal” way the brain functions. The opposite of neurodivergent is neurotypical.  
 __newbie__  
 __obeisance__ _n_ /oh-BEE-sunss/  
@@ -154,6 +174,7 @@ __posit<sup>1</sup>__ _vt_ __2__ To lay down or assume as a fact or principle; p
 __posit<sup>2</sup>__ _n_ :astonished: Something that is posited; an assumption; postulate.  
 __pre-Columbian__ _adj_  
 __prebiotic__ _n_  
+__price tag__ _n_  
 __prig__ _n_  
 __primary__ _n_ An election in which qualified voters nominate or express a preference for a particular candidate or group of candidates for political office, choose party officials, or select delegates for a party convention.  
 __primer__ _n_ :mega: /PRIMM-er/  
@@ -178,6 +199,7 @@ __raffle__ _n_
 __ragout__ _n_ :mega: /ra-GOO/  
 __range anxiety__ _n informal_ The apprehension or fear that an electric vehicle’s battery will run out of power before reaching one’s intended destination or a charging station.  
 __rapport__ _n_ /ra-POR/  
+__rapporteur__ _n_  
 __reckless__ _adj_  
 __reclaim__ _vt_  
 __refurbish__ _v_ /rih-FER-bish/ To refurbish something is to brighten or freshen it up, or to repair and make improvements to it. _The store refurbishes and sells computers that can often meet the needs of those who don’t need the latest technology._  
@@ -187,13 +209,20 @@ __remuneration__ _n_ :mega: /rih-myoo-nuh-RAY-shun/
 __renewal__ _n_  
 __renowned__ _adj_ :two::hammer:  
 __reptilian__ _adj_ :dart: /rep-TIL-ee-uhn, -TIL-yuhn/ __1__ Contemptible. __2__ Treacherous. __3__ Like a reptile.  
+__ruble__ _n_ :mega: /ˈru bəl/  
 __safeguard__ _n_  
+__sham__ _n_  
 __sheik__ _n_ [:scroll: From the movie _The Sheik_, 1921] A man held to be masterful and irresistibly charming to women.  
+__short-lived__  
 __smidgen__ _n_ A very small quantity or portion; a bit or mite. _Syn_ whit, iota, scintilla, shred, tittle  
+__spray paint__ _n_ Paint in an aerosol container for spraying onto surfaces.  
+__stimulus__  
 __streamline__ _vt_  
 __supercalifragilisticexpialidocious__ _n_ The word is a compound word, and said by Richard Lederer in his book _Crazy English_ to be made up of these words: super- “above,” cali- “beauty,” fragilistic- “delicate,” expiali- “to atone,” and -docious “educable,” with all of these parts combined meaning ”Atoning for educability through delicate beauty.”  
 __ulterior__ _adj_ /ul-TEER-ee-er/ Ulterior describes things (usually motives, objectives, reasons, agendas, etc.) that are kept hidden in order to achieve a particular result.  
 __uncultured__ _adj_ Not cultured or cultivated. _Syn_ artless, uncultivated  
+__unfold__  
+__vilify__ _vt_  
 __watch list__ _n_ A list of people or things that are being closely watched because they are likely to do or experience bad things in the future. _The animals are on a watch list of species that could become extinct soon._  
 __weltanschauung__ _n_ A German word meaning world view, used to mean someone’s philosophy of life. _Many people disagree with the writer’s personal Weltanschauung, but most can appreciate the quality and thoughtfulness of her work._  
 __whereas__ _conj_ /ʰwɛərˈæz, wɛər-/  
@@ -201,6 +230,7 @@ __whizzer__ _adj_ Something notable of its kind: such as an outstandingly attrac
 __whopping__ _adj, adv_  
 __whopping<sup>1</sup>__ _adj_ _informal_ Exceptionally large: _“yet another whopping pay raise” (Lee Atwater)._  
 __whopping<sup>2</sup>__ _adv_ Used as an intensive: _a whopping good joke._  
+__yea__ _n_ __1__ An affirmative statement or vote. __2__ One who votes affirmatively.  
 __yelp__ _v_  
 __yesterweek<sup>1</sup>__ _n_ /YES-tuhr-week/ Last week.  
 __yesterweek<sup>2</sup>__ _adv_ During last week.  
