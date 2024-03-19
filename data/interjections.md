@@ -91,7 +91,7 @@ __whammo__ _slang_ Used to indicate the startling abruptness of a sound, action,
 __what<sup>5</sup>__ :mute:[w~~h~~at]  
 __whee__ :two: Used to express extreme pleasure or enthusiasm.  
 __whew__ :two: Used to express strong emotion, such as relief or amazement.  
-__whoa__ :two: __1__ Used as a command to stop, as to a horse. __2__ Used to express surprise, amazement, or great pleasure.  
+__whoa__ :dart::three: __1__ Used as a command to stop, as to a horse. __2__ Used to express surprise, amazement, or great pleasure.  
 __why__  
 __wilco__ Used especially in radio communications to indicate agreement or compliance.  
 __woohoo__ _informal_ :three: /wʊˈhuː/ (woo hoo, woo-hoo) An exclamation of joy, approval, etc.  

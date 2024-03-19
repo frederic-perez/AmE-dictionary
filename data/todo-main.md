@@ -1,5 +1,8 @@
 __ameliorate__ _v_  
 __amulet__ _n_ _Syn_ charm, fetish, talisman, juju  
+__attuned__ _adj_ __1__ Able to perceive; sensitive (to). __2__ Accustomed (to). _Syn_ accustomed, adjusted, coordinated, in tune, in harmony, in accord, harmonized, familiarized  
+__awe-struck__  
+__bullous__  
 __cacophony__ _n_ /ka-KAH-fuh-nee/ A cacophony is a mixture of loud and usually harsh unpleasant sounds. Cacophony can also refer to an incongruous or chaotic mixture.  
 __collateralize__ _vt_  
 __condescending__ _adj_ Displaying a patronizingly superior attitude. _Syn_ patronizing, arch  
@@ -7,13 +10,17 @@ __conga__ _n_ __3__ A conga drum.
 __controversy__ _n_ :mega:  
 __conversant__ _adj_ Well informed about or knowing thoroughly. _Syn_ familiar  
 __copyrighter__ _n_  
+__crocus__ _n_  
+__daffodil__ _n_ /ˈdæf ə dɪl/ :es: narciso  
 __decennary__ _n_ A period of 10 years. _Syn_ decade  
 __deepfake__ _n_ /DEEP-fayk/ [:scroll: A combination of deep learning + fake. Coined by a user of the Reddit website.] Digitally manipulated images, video, or audio that make someone appear to do or say something they did not.  
 __devil__ _n_ /ˈdɛv əl/  
 __dot-connect__ _vi_ /DOT-kuh-nekt/ [:scroll: From the expression “to connect the dots”. From puzzles in which a line is drawn between a sequence of numbered dots to reveal a picture.] To make connections between different pieces of information in order to reach a conclusion.  
+__downturn__ _n_  
 __eclipse__ _vt_ /ɪˈklɪps/  
 __elusive__  
 __emulate__ _v_ /EM-yuh-layt/  
+__espouse__ _vt_ __1__ To adhere to or advocate: espoused a contrarian viewpoint.  
 __factual__ _adj_  
 __far-reaching__ _adj_  
 __fatuous__ _adj_ Silly or stupid; complacently or inanely foolish.  
@@ -68,6 +75,7 @@ __haggard__ _adj_ /HAG-urd/
 __handball__ _n_ :es: balonmano  
 __handcart__ _n_ A small, usually two-wheeled cart pulled or pushed by hand.  
 __hands-down__ _adj_ __1__ Easy: _A hands-down victory._ __2__ Unchallenged; certain: _a hands-down bestseller._  
+__handy__ _adj_  
 __harbor__ _v_  
 __hardened computer__ _n_ A hardened computer refers to a system that has undergone systems hardening, a process aimed at reducing vulnerabilities in technology applications, systems, infrastructure, firmware, and other areas.  
 __headdress__ _n_  
@@ -88,9 +96,11 @@ __huckster__ _n_
 __humanitarian corridor__ _n_  
 __hunger strike__ _n_ A voluntary fast undertaken as a means of political protest, as by a prisoner.  
 __hyperbole__ _n_ :mega: /hye-PER-buh-lee/  
+__Ides of March__ _n_ The 15th of March in the Ancient Roman calendar, on which day Julius Caesar was assassinated.  
 __illustrate__ _v_  
 __impeach__ _v_ :two: To charge (a public official) before a competent tribunal with misconduct in office.  
 __impeachment__  
+__impermanence__ _n_ The property of not existing for indefinitely long durations.  
 __in hiding__ _adv_ Quietly in concealment. _Syn_ doggo, out of sight  
 __in memoriam__  
 __incalescent__  
@@ -119,6 +129,7 @@ __jeopardy__ _n_ /JEP-er-dee/
 __juvenile__ _adj, n_  
 __kayfabe__  
 __kvell__ _n_ /kvɛl/ _slang_  
+__landscaper__ _n_ A landscape gardener.  
 __livelihood__ _n_  
 __lofty__  
 __looking glass__ _n_  
@@ -135,6 +146,7 @@ __mismatch__ _n_ :pencil2:
 __mitigate__  
 __mondegreen__ _n_  
 __mothering__ _n_ The nurturing and raising of a child or children by a mother.  
+__myalgia__  
 __nay__ _n_ __1__ A denial or refusal. __2__ A negative vote or voter.  
 __neurodiversity__ _n_ The diversity of brain function, encompassing variations from what is considered typical. Neurodivergence includes conditions like autism, ADHD, dyslexia, and others. It underscores that there is no single “normal” way the brain functions. The opposite of neurodivergent is neurotypical.  
 __newbie__  
@@ -143,6 +155,7 @@ __onus__
 __out-of-body__ _adj_  
 __outhouse__ _n_ A small building detached from a house, such as a garden shed or sometimes a toilet.  
 __outrank__ _v_  
+__outspoken__  
 __outwit__ _vt_  
 __over-the-counter__  
 __paravalvular__ _adj_ Surrounding or adjacent to a heart valve.  
@@ -174,6 +187,7 @@ __posit<sup>1</sup>__ _vt_ __2__ To lay down or assume as a fact or principle; p
 __posit<sup>2</sup>__ _n_ :astonished: Something that is posited; an assumption; postulate.  
 __pre-Columbian__ _adj_  
 __prebiotic__ _n_  
+__preposterous__  
 __price tag__ _n_  
 __prig__ _n_  
 __primary__ _n_ An election in which qualified voters nominate or express a preference for a particular candidate or group of candidates for political office, choose party officials, or select delegates for a party convention.  
@@ -188,6 +202,7 @@ __proximity__ _n_ /prahk-SIM-uh-tee/
 __psyops__ _n pl_ Military operations usually aimed at influencing the enemy’s state of mind through noncombative means (such as distribution of leaflets).  
 __pubic symphysis__ _n_ The fixed joint at the front of the pelvic girdle where the two pubic bones meet.  
 __pulchritudinous__ _adj_ Ysed of persons only; having great physical beauty: _pulchritudinous movie stars._  
+__pushback__ _n_  
 __pusillanimous__ _adj_ Weak and afraid of danger.  
 __quadrennial__  
 __quell__ _vt_  
@@ -198,6 +213,7 @@ __quirk__ _n_ /KWERK/ _Quirk_ refers to an unusual habit or way of behaving. It 
 __raffle__ _n_  
 __ragout__ _n_ :mega: /ra-GOO/  
 __range anxiety__ _n informal_ The apprehension or fear that an electric vehicle’s battery will run out of power before reaching one’s intended destination or a charging station.  
+__range__ _n_ _There are profound differences between us on a range of issues._  
 __rapport__ _n_ /ra-POR/  
 __rapporteur__ _n_  
 __reckless__ _adj_  
@@ -211,18 +227,25 @@ __renowned__ _adj_ :two::hammer:
 __reptilian__ _adj_ :dart: /rep-TIL-ee-uhn, -TIL-yuhn/ __1__ Contemptible. __2__ Treacherous. __3__ Like a reptile.  
 __ruble__ _n_ :mega: /ˈru bəl/  
 __safeguard__ _n_  
+__scion__ _n_  
 __sham__ _n_  
 __sheik__ _n_ [:scroll: From the movie _The Sheik_, 1921] A man held to be masterful and irresistibly charming to women.  
 __short-lived__  
+__sidestep__ _v_  
 __smidgen__ _n_ A very small quantity or portion; a bit or mite. _Syn_ whit, iota, scintilla, shred, tittle  
 __spray paint__ _n_ Paint in an aerosol container for spraying onto surfaces.  
 __stimulus__  
 __streamline__ _vt_  
 __supercalifragilisticexpialidocious__ _n_ The word is a compound word, and said by Richard Lederer in his book _Crazy English_ to be made up of these words: super- “above,” cali- “beauty,” fragilistic- “delicate,” expiali- “to atone,” and -docious “educable,” with all of these parts combined meaning ”Atoning for educability through delicate beauty.”  
+__thrombolysis__  
+__thwart__ _v_  
 __ulterior__ _adj_ /ul-TEER-ee-er/ Ulterior describes things (usually motives, objectives, reasons, agendas, etc.) that are kept hidden in order to achieve a particular result.  
+__unbecoming__ _adj_  
 __uncultured__ _adj_ Not cultured or cultivated. _Syn_ artless, uncultivated  
-__unfold__  
+__unfold__ _v_ :two::hammer:  
+__unwavering__ _adj_  
 __vilify__ _vt_  
+__vitriolic__  
 __watch list__ _n_ A list of people or things that are being closely watched because they are likely to do or experience bad things in the future. _The animals are on a watch list of species that could become extinct soon._  
 __weltanschauung__ _n_ A German word meaning world view, used to mean someone’s philosophy of life. _Many people disagree with the writer’s personal Weltanschauung, but most can appreciate the quality and thoughtfulness of her work._  
 __whereas__ _conj_ /ʰwɛərˈæz, wɛər-/  
