@@ -1,7 +1,14 @@
+__abet__ _vt_  
+__advisory__ _n_  
+__ambivalent__ _adj_  
 __ameliorate__ _v_  
 __amulet__ _n_ _Syn_ charm, fetish, talisman, juju  
+__assess__ _v_  
 __attuned__ _adj_ __1__ Able to perceive; sensitive (to). __2__ Accustomed (to). _Syn_ accustomed, adjusted, coordinated, in tune, in harmony, in accord, harmonized, familiarized  
 __awe-struck__  
+__bajillion__ _n_  
+__belated__ _adj_ /bɪˈleɪtɪd/  
+__bracket__ _n_ __7__ A treelike diagram showing the matchups between competitors in different rounds of a tournament.  
 __bullous__  
 __cacophony__ _n_ /ka-KAH-fuh-nee/ A cacophony is a mixture of loud and usually harsh unpleasant sounds. Cacophony can also refer to an incongruous or chaotic mixture.  
 __collateralize__ _vt_  
@@ -16,11 +23,14 @@ __decennary__ _n_ A period of 10 years. _Syn_ decade
 __deepfake__ _n_ /DEEP-fayk/ [:scroll: A combination of deep learning + fake. Coined by a user of the Reddit website.] Digitally manipulated images, video, or audio that make someone appear to do or say something they did not.  
 __devil__ _n_ /ˈdɛv əl/  
 __dot-connect__ _vi_ /DOT-kuh-nekt/ [:scroll: From the expression “to connect the dots”. From puzzles in which a line is drawn between a sequence of numbered dots to reveal a picture.] To make connections between different pieces of information in order to reach a conclusion.  
+__downfall__ _n_  
 __downturn__ _n_  
 __eclipse__ _vt_ /ɪˈklɪps/  
 __elusive__  
 __emulate__ _v_ /EM-yuh-layt/  
+__envision__ _vt_  
 __espouse__ _vt_ __1__ To adhere to or advocate: espoused a contrarian viewpoint.  
+__exert__  
 __factual__ _adj_  
 __far-reaching__ _adj_  
 __fatuous__ _adj_ Silly or stupid; complacently or inanely foolish.  
@@ -28,12 +38,14 @@ __finch__ _n_ (bird)
 __firearm__ _n_  
 __firstborn__ _adj, n_ :es: primogénito  
 __fissure__ _n_  
+__flaccid__ _adj_ :mega:  
 __flammable__ _adj_ _Syn_ Inflammable.  
 __flehmen__ _n_ :camera: /ˈfleɪmən/ A curling of the upper lip and raising of the head in certain mammals in response to olfactory stimuli, which behaviour allows the scents better to reach an olfactory organ deep within the animal’s nose.  
 __flop__ _v_ __3__ _informal_ To fail utterly: _The play flopped._  
 __flounder__ _vi_  
 __flywheel__ _n_  
 __footloose__ _adj_ /FUUT-loos/ Free to go or do as one pleases without concerns or commitments.  
+__foreclosure__  
 __form factor__  
 __foul__ _adj_  
 __foundational__ _adj_  
@@ -42,6 +54,7 @@ __frayed__ _adj_ __2__ (of temper, nerves, patience, etc) Under great strain.
 __fresh__ _adj_ _Fresh sanctions._  
 __front-runner__ _n_ (frontrunner)  
 __frostbite__ _n_ :es: congelación  
+__frozen shoulder__  
 __fulgurant__ _adj_ /FUHL/FULL-guh-ruhnt/ __1__ Flashing like lightning. __2__ Brilliant.  
 __garboil__ _n_ A state of commotion and noise and confusion. _Syn_ tumult, uproar  
 __gatekeep__ _v_  
@@ -72,6 +85,7 @@ __grotesque__
 __guardrail__ _n_  
 __haberdasher__ _n_ A dealer in men’s furnishings. _Syn_ clothier  
 __haggard__ _adj_ /HAG-urd/  
+__hallway__ _n_  
 __handball__ _n_ :es: balonmano  
 __handcart__ _n_ A small, usually two-wheeled cart pulled or pushed by hand.  
 __hands-down__ _adj_ __1__ Easy: _A hands-down victory._ __2__ Unchallenged; certain: _a hands-down bestseller._  
@@ -112,6 +126,7 @@ __infelicific__
 __inferrer__ _n_  
 __inflamed__ _adj_ /ɪnˈfleɪmd/ Swollen, red, and painful as a result of disease or injury.  
 __ingurgitate__ _v_ To swallow greedily or in excessive amounts; gulp.  
+__insider__ _n_ __2__ One who has special knowledge or access to confidential information.  
 __insipid__ _adj_ __2__ Lacking qualities that excite, stimulate, or interest; dull.  
 __insurmountable__  
 __intern__ _v_ To confine or impound especially during a war.  
@@ -143,6 +158,7 @@ __mendacious__ _adj_ [:scroll: From Latin mendācium, _lie_]
 __mendacity__ _n_ /mɛnˈdæs ɪ ti/  
 __middlebrow__ _n informal_ [:scroll: Formed on the pattern of highbrow and lowbrow] One who is somewhat cultured, with conventional tastes and interests; one who is neither highbrow nor lowbrow.  
 __mismatch__ _n_ :pencil2:  
+__misquote__ _vt_ /mɪsˈkwoʊt/  
 __mitigate__  
 __mondegreen__ _n_  
 __mothering__ _n_ The nurturing and raising of a child or children by a mother.  
@@ -178,8 +194,10 @@ __picket line__ _n_
 __picturesque__  
 __pitfall__ _n_ __1__ An unsuspected difficulty or danger.  
 __pixie__ _n_ A fairy; specifically: a cheerful mischievous sprite.  
+__playing field__ _n_ __2__ The conditions or circumstances in which competition takes place: _a level playing field for all candidates._  
 __plethora__ _n_ :two::hammer::mega: /ˈplɛθərə/  
 __plumb__ _adj, adv, n, v_  
+__poacher__ _n_  
 __poignant__ _adj_  
 __pollinosis__ _n_ A seasonal rhinitis resulting from an allergic reaction to pollen. _Syn_ hay fever  
 __posit__ _v_  
@@ -202,6 +220,7 @@ __proximity__ _n_ /prahk-SIM-uh-tee/
 __psyops__ _n pl_ Military operations usually aimed at influencing the enemy’s state of mind through noncombative means (such as distribution of leaflets).  
 __pubic symphysis__ _n_ The fixed joint at the front of the pelvic girdle where the two pubic bones meet.  
 __pulchritudinous__ _adj_ Ysed of persons only; having great physical beauty: _pulchritudinous movie stars._  
+__purport__ _vt_  
 __pushback__ _n_  
 __pusillanimous__ _adj_ Weak and afraid of danger.  
 __quadrennial__  
@@ -216,6 +235,7 @@ __range anxiety__ _n informal_ The apprehension or fear that an electric vehicle
 __range__ _n_ _There are profound differences between us on a range of issues._  
 __rapport__ _n_ /ra-POR/  
 __rapporteur__ _n_  
+__recap__ _n_ A summary or recapitulation, as of a news report, sports contest, or television show.  
 __reckless__ _adj_  
 __reclaim__ _vt_  
 __refurbish__ _v_ /rih-FER-bish/ To refurbish something is to brighten or freshen it up, or to repair and make improvements to it. _The store refurbishes and sells computers that can often meet the needs of those who don’t need the latest technology._  
@@ -225,9 +245,12 @@ __remuneration__ _n_ :mega: /rih-myoo-nuh-RAY-shun/
 __renewal__ _n_  
 __renowned__ _adj_ :two::hammer:  
 __reptilian__ _adj_ :dart: /rep-TIL-ee-uhn, -TIL-yuhn/ __1__ Contemptible. __2__ Treacherous. __3__ Like a reptile.  
+__rift__ _n_ __4__ A break in friendly relations between people, nations, etc.  
 __ruble__ _n_ :mega: /ˈru bəl/  
 __safeguard__ _n_  
+__sanitation__ _n_ __2__ The disposal of sewage and waste.  
 __scion__ _n_  
+__secure__ _vt_ __5__ To get possession of; acquire: _secured a job._  
 __sham__ _n_  
 __sheik__ _n_ [:scroll: From the movie _The Sheik_, 1921] A man held to be masterful and irresistibly charming to women.  
 __short-lived__  
@@ -237,18 +260,23 @@ __spray paint__ _n_ Paint in an aerosol container for spraying onto surfaces.
 __stimulus__  
 __streamline__ _vt_  
 __supercalifragilisticexpialidocious__ _n_ The word is a compound word, and said by Richard Lederer in his book _Crazy English_ to be made up of these words: super- “above,” cali- “beauty,” fragilistic- “delicate,” expiali- “to atone,” and -docious “educable,” with all of these parts combined meaning ”Atoning for educability through delicate beauty.”  
+__takeaway__ _n_  
 __thrombolysis__  
 __thwart__ _v_  
 __ulterior__ _adj_ /ul-TEER-ee-er/ Ulterior describes things (usually motives, objectives, reasons, agendas, etc.) that are kept hidden in order to achieve a particular result.  
 __unbecoming__ _adj_  
 __uncultured__ _adj_ Not cultured or cultivated. _Syn_ artless, uncultivated  
+__underpin__ _vt_  
 __unfold__ _v_ :two::hammer:  
+__unprecedented__ _adj_ Having no previous example.  
 __unwavering__ _adj_  
+__vigorous__ _adj_ /ˈvɪg ər əs/  
 __vilify__ _vt_  
 __vitriolic__  
 __watch list__ _n_ A list of people or things that are being closely watched because they are likely to do or experience bad things in the future. _The animals are on a watch list of species that could become extinct soon._  
 __weltanschauung__ _n_ A German word meaning world view, used to mean someone’s philosophy of life. _Many people disagree with the writer’s personal Weltanschauung, but most can appreciate the quality and thoughtfulness of her work._  
 __whereas__ _conj_ /ʰwɛərˈæz, wɛər-/  
+__whiplash__  
 __whizzer__ _adj_ Something notable of its kind: such as an outstandingly attractive or able person.  
 __whopping__ _adj, adv_  
 __whopping<sup>1</sup>__ _adj_ _informal_ Exceptionally large: _“yet another whopping pay raise” (Lee Atwater)._  
