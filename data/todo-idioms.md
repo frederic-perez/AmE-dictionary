@@ -1,33 +1,3 @@
-__(one’s) two cents__  
-__a different ball game__  
-__a totally different ballgame__  
-__along the lines of (something)__  
-__as I see it__ From my perspective.  
-__battle scars__  
-__be in the know__  
-__big bucks__  
-__big fish__ _n_ An important person or entity.  
-__big kahuna__ The most important or powerful person in a group, organization, business, or movement (e.g., the boss, leader, etc.). Primarily heard in US.  
-__big shot__  
-__bigfoot__ A prominent or influential person, esp. a journalist or news analyst. The name caught on as a designation for a celebrity reporter or columnist and has since extended to include other big shots in politics, business, and other playing fields.  
-__bigwig__ An important person; a self-important person. _Some bigwig in a pinstripe suit waltzed through and asked me to leave._  
-__black eye__  
-__blanket term__ A word or phrase used to describe a broad range of similarly related things, usually resulting in diluting the specific meaning of individual items. _“Idiom” is often used as a blanket term for any element of language that is used strangely or uniquely by its users._  
-__blond bombshell__ A voluptuous, alluring blond woman. Primarily heard in US. _Marilyn Monroe is probably the most famous blond bombshell of all time._  
-__bloodbath__  
-__blow the whistle (on) (someone or something)__  
-__bogart__ :astonished: To take an unfair share of something.  
-__bonkers__ __1__ Crazy, wacky, or strange. _There’s a guy on our corner who shouts about the end of the world; I think he’s bonkers._  
-__boob tube__ _slang_ The television.  
-__boogie__ __2__ _v_ To dance, often to rock music specifically. _I hope you’ll boogie with me tonight—my husband hates to dance._ __3__ _v_ To become focused and work diligently on something. _Fine, take a break now, and then we’ll boogie._  
-__brain dead__ __2__ _slang_ So mentally exhausted or lacking focus that one does something poorly and/or makes easily avoidable mistakes.  
-__brain fog__  
-__brainchild__  
-__break character__  
-__break out__ __5__ _v_ To occur unexpectedly and intensely. _We knew it was time to leave the club when a fight broke out between guys at the bar._  
-__break something down__  
-__bring (one) to (one’s) feet__  
-__build up__  
 __bummer__ :two: __3__ _adj_ Describing someone or something unpleasant. _Oh, it was a bummer party—you didn’t miss anything._  
 __burn money__ To waste or spend money in a careless or excessive way, often without any real benefit or return on investment.  
 __burning desire__  
