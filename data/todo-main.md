@@ -198,56 +198,6 @@ __playing field__ _n_ __2__ The conditions or circumstances in which competition
 __plethora__ _n_ :two::hammer::mega: /ˈplɛθərə/  
 __plumb__ _adj, adv, n, v_  
 __poacher__ _n_  
-__poignant__ _adj_  
-__pollinosis__ _n_ A seasonal rhinitis resulting from an allergic reaction to pollen. _Syn_ hay fever  
-__posit__ _v_  
-__posit<sup>1</sup>__ _vt_ __2__ To lay down or assume as a fact or principle; postulate.  
-__posit<sup>2</sup>__ _n_ :astonished: Something that is posited; an assumption; postulate.  
-__pre-Columbian__ _adj_  
-__prebiotic__ _n_  
-__preposterous__  
-__price tag__ _n_  
-__prig__ _n_  
-__primary__ _n_ An election in which qualified voters nominate or express a preference for a particular candidate or group of candidates for political office, choose party officials, or select delegates for a party convention.  
-__primer__ _n_ :mega: /PRIMM-er/  
-__prix fixe__ _n_ :mega: /PREE-FEEKS, PREE-FIK/  
-__proactive__ _adj_ Acting in advance to deal with an expected difficulty; anticipatory: _proactive steps to prevent terrorism._  
-__prodrome__ _n_ _Med_ Any symptom that signals the impending onset of a disease.  
-__promissory__ _adj_ /ˈprɒmɪsərɪ/ Containing, involving, or having the nature of a promise.  
-__propitiate__ _v_ :astonished: To conciliate (an offended power). _Syn_ appease _After his grave sin, he tried to propitiate the gods with a sacrifice._  
-__prosaic__ _adj_ Straightforward; not fanciful or imaginative. _Syn_ matter-of-fact  
-__proximity__ _n_ /prahk-SIM-uh-tee/  
-__psyops__ _n pl_ Military operations usually aimed at influencing the enemy’s state of mind through noncombative means (such as distribution of leaflets).  
-__pubic symphysis__ _n_ The fixed joint at the front of the pelvic girdle where the two pubic bones meet.  
-__pulchritudinous__ _adj_ Ysed of persons only; having great physical beauty: _pulchritudinous movie stars._  
-__purport__ _vt_  
-__pushback__ _n_  
-__pusillanimous__ _adj_ Weak and afraid of danger.  
-__quadrennial__  
-__quell__ _vt_  
-__querulous__ _adj_ /KWAIR-yuh-lus/ Someone described as querulous is constantly or habitually complaining. Querulous can also be used synonymously with _fretful_ or _whining_ when describing something, such as a person’s tone of voice.  
-__quiche__ _n_ /KEESH/  
-__quinoa__ _n_ :mega: /KEEN-wah, kee-NOH-uh/  
-__quirk__ _n_ /KWERK/ _Quirk_ refers to an unusual habit or way of behaving. It can also refer to something strange that happens by chance, as in “a quirk of fate.”  
-__raffle__ _n_  
-__ragout__ _n_ :mega: /ra-GOO/  
-__range anxiety__ _n informal_ The apprehension or fear that an electric vehicle’s battery will run out of power before reaching one’s intended destination or a charging station.  
-__range__ _n_ _There are profound differences between us on a range of issues._  
-__rapport__ _n_ /ra-POR/  
-__rapporteur__ _n_  
-__recap__ _n_ A summary or recapitulation, as of a news report, sports contest, or television show.  
-__reckless__ _adj_  
-__reclaim__ _vt_  
-__refurbish__ _v_ /rih-FER-bish/ To refurbish something is to brighten or freshen it up, or to repair and make improvements to it. _The store refurbishes and sells computers that can often meet the needs of those who don’t need the latest technology._  
-__relatable__  
-__remark__ _n_ /rɪˈmɑrk/  
-__remuneration__ _n_ :mega: /rih-myoo-nuh-RAY-shun/  
-__renewal__ _n_  
-__renowned__ _adj_ :two::hammer:  
-__reptilian__ _adj_ :dart: /rep-TIL-ee-uhn, -TIL-yuhn/ __1__ Contemptible. __2__ Treacherous. __3__ Like a reptile.  
-__rift__ _n_ __4__ A break in friendly relations between people, nations, etc.  
-__ruble__ _n_ :mega: /ˈru bəl/  
-__safeguard__ _n_  
 __sanitation__ _n_ __2__ The disposal of sewage and waste.  
 __scion__ _n_  
 __secure__ _vt_ __5__ To get possession of; acquire: _secured a job._  
