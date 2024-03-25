@@ -1015,19 +1015,20 @@ __bulletproof__
 __bullshitter__  
 __bully pulpit__  
 __bum pump__ Buttpump.  
-__bummer__ __3__ _adj_ Describing someone or something unpleasant. _Oh, it was a bummer party—you didn’t miss anything._  
+__bummer__ :three: __3__ _adj_ Describing someone or something unpleasant. _Oh, it was a bummer party—you didn’t miss anything._  
 __bump and grind__ __3__ _v_ To dance in a manner characterized by aggressive and overtly sexualized hip movements, either by a single dancer or between two dance partners. _It was a little disconcerting to see teenagers bumping and grinding at the prom._  
 __bump heads with__ To clash with another person on a particular issue. _Monica and I are always bumping heads with each other about how to go about these reports because she wants to start writing, while I think we should research first._  
 __bump someone or something up__  
 __bundle up__  
 __bunkum__ Nonsense or foolishness. _His explanation is total bunkum and doesn’t answer the question at all._  
 __bupkes__ In James Ellroy’s novels, “bupkes” is a Yiddish term that means “nothing” or “nonsense.” It’s often used to describe something that’s worthless or unimportant.  
+__burn money__ To waste or spend money in a careless or excessive way, often without any real benefit or return on investment.  
 __burn the candle at both ends__ :two: To work very hard and stay up very late at night. (One end of the candle is work done in the daylight, and the other end is work done at night.) _No wonder Mary is ill. She has been burning the candle at both ends for a long time._ _You’ll wear out if you keep burning the candle at both ends._  
 __burn the midnight oil__ :three: To work late into the night.  
 __burn up the road__ To travel very fast. Often used to describe driving. _Have you seen my new sports car? Man, I can’t wait to take it out and burn up the road!_  
 __burn your bridges__ :two: To destroy all possible ways of going back to a situation.  
 __burner account__ A social media account that one uses to post anonymously and avoid having their posts (usually ones that are inappropriate somehow) traced to them. _The 76ers GM resigned after being linked to burner accounts on Twitter that shared private information about several players._  
-__burning desire__  
+__burning desire__ :two::hammer:  
 __burning question__ :three: An important, and perhaps scandalous, question that requires an answer. _If Fred lied about his alibi, then the burning question is: what is he trying to hide?_  
 __burning through money__ Spending money recklessly or quickly. _Google’s biggest rival, OpenAI, is burning through money._  
 __burp__ _informal_  
@@ -1049,6 +1050,7 @@ __but for (something)__ Except for something; if not for something. _That major 
 __but really__ “But really” is a colloquial phrase commonly used in informal speech and writing. It is often employed to emphasize a point or to express sincerity after a previous statement.  
 __but still__  
 __butch__ :two: (vs _femme_) A lesbian who embraces identity markers that are associated with traditional expressions of masculinity.  
+__butt chug__ _slang_ To consume alcohol via the anus, leading to rapid intoxication.  
 __butt heads__ __1__ Literally, to knock heads together, as of rams or sheep. _The two male rams fiercely butted heads to establish dominance among the group._ __2__ By extension, to completely disagree or get into a heated confrontation with someone. _Jonathan and Cynthia always butt heads over politics when they’re together._ _I got kicked out of the bar when I started butting heads with that guy._ _Sullivan butted heads with Standards and Practices._  
 __butt-kicker__  
 __butter up__ [:scroll: This term transfers the oily, unctuous quality of butter to lavish praise.] Excessively praise or flatter someone, usually to gain a favor. _If you butter up Dad, he’ll let you borrow the car._  
@@ -1061,16 +1063,17 @@ __buy__ _slang_ To believe or accept something as true or feasible without quest
 __buzz__ :two::hammer: _Buzzed the fuzz._  
 __by (oneself)__ :two::hammer:  
 __by a mile__ :two: By a large amount; by a lot. _We won that game by a mile! I think the final score was 10-1._  
-__by all accounts__ :dart::four: From all the reports (that are available); according to what everyone is saying. _According to all accounts, the police were on the scene immediately._ _By all accounts, it was a very poor performance._  
+__by all accounts__ :dart::five: From all the reports (that are available); according to what everyone is saying. _According to all accounts, the police were on the scene immediately._ _By all accounts, it was a very poor performance._  
 __by all means__  
 __by and by__  
 __by and large__ :five::hammer:  
 __by any chance__ :dart::two: Used as a polite emphasis to a request or question. Used especially in questions, to ask whether something is true, possible, etc: _Are you in love with him, by any chance?_ _Would you by any chance happen to know where the subway is from here?_  
 __by any means__  
+__by design__ :dart: Deliberately and purposefully; as one planned or intended. _I assure you that everything you saw has happened by design._  
 __by far__ By a large amount; by a lot.  
 __by hell or high water__ :two: By any means necessary; regardless of any difficulty, problem, or obstacle. _By hell or high water, I am going to make it to your wedding!_  
 __by his own admission__ “By his own admission” refers to a situation where an individual acknowledges or confesses to something themselves, without being prompted or coerced by others. In other words, it means that the person is taking responsibility for their actions or statements without any external influence.  
-__by no means__ :two: Not in any way; not at all; absolutely not.  
+__by no means__ :three: Not in any way; not at all; absolutely not.  
 __by popular demand__ Due to a lot of requests or interest (in something).  
 __by the balls__  
 __by the book__ :three: In a way that strictly adheres to the established rules (as recorded in writing).  
@@ -1081,12 +1084,14 @@ __by the numbers__ _The boxing sequences are by the numbers._
 __by the same token__ :five: In the same way.  
 __by the skin of (one’s) teeth__ :two: Barely. Often used to describe something that almost didn’t happen.  
 __by trade__ :three: By professional training, experience, and/or expertise. _I want to be a writer by trade._ _I’m an engineer by trade._  
+__by way of (something)__  
 __by word of mouth__ Through the verbal sharing of information.  
 __bystander effect__ :three: A social psychological phenomenon in which the more people there are viewing a crisis or crime, the less likely they are to offer aid to the victim(s). Also known as bystander apathy. _Over 30 people saw the mugging take place, but due to the bystander effect, none of them intervened._  
 __C-note__  
 __caboose__ /kəˈbus/  
 __cake-eater__ :two: __1__ _slang_ A winsome, often effeminate young man who is apt to socialize. _Of course you like that cake-eater—he’s a very charming fellow._  
 __cakewalk__  
+__calaboose__ _slang_ Jail. The word comes from “calabozo,” the Spanish word for “dungeon.” _They’ll throw you in the calaboose if they find out that you were involved in the robbery!_  
 __call (all) the shots__ :three::hammer:  
 __call (one) names__  
 __call (one) on (something)__  
@@ -1094,13 +1099,14 @@ __call ahead__ _Travelers can also call ahead for a door to door shuttle._
 __call bullshit__ State that some given information is incorrect. _A: “The first president of the U.S.A. was Thomas Jefferson.” B: “I’m gonna have to call bullshit on that.”_  
 __call dibs (on something)__ _slang_ :dart: To claim the right to do or choose something first before others. “Dibs” is a shortening of “dibstones,” counters used in an 18th-century children’s game. _Hey, I called dibs on sitting in the front seat of the car!_ _Whoever calls dibs can have this last piece of cake._  
 __call down__ __5__ To invoke or request divine intervention. A noun or pronoun can be used between “call” and “down.” _I wouldn’t cross a woman who converses with the spirits—who knows what kinds of punishments she can call down on us!_ _He called down a curse upon the King and his descendants._  
+__call for (someone or something)__  
 __call for__ To require as necessary or appropriate the job calls for typing skills.  
 __call it a day__ :two::hammer: _If there are no further points, then let’s call it a day._  
 __call it even__ :two: To acknowledge or consider a situation or exchange as being equal or equitable, as regarding debt, status, ability, a contest, etc. _I’ll pay the Internet bill if you’ll pay the electricity bill, and then we’ll just call it even._  
 __call of nature__ The need to go to the toilet.  
 __call off__  
 __call on (someone or something)__ :two::hammer: _He called on me._  
-__call out__ :nine: __1__ To announce something. In this usage, a noun or pronoun can be used between “call” and “out.” _Once everyone is seated, the host will call out the winners’ names._ _If you’ve got Bingo, call it out!_ __2__ To shout in an attempt to draw attention to oneself. _I called out to my best friend when I saw her walking down the street, but she had headphones on and couldn’t hear me._ _My husband came running when he heard me call out for help._ __3__ :dart: To confront one about one’s misdeeds or unpleasant behavior. In this usage, a noun or pronoun can be used between “call” and “out.” _If your intern keeps coming in late, you need to call her out on it._ _He called me out for being late._ _Never call out a narcissist._ _Why would you publicly call out someone for a typo?_ __4__ To challenge one to a fight. In this usage, a noun or pronoun can be used between “call” and “out.” _I wouldn’t call that guy out—I know for a fact that he carries a knife._ __5__ To request one’s aid or presence. In this usage, a noun or pronoun can be used between “call” and “out.” _When that case had me stumped, I called another detective out to review it with me._ _The president called out military troops when the situation became unstable._ __6__ To utilize something, often a quality or skill. In this usage, a noun or pronoun can be used between “call” and “out.” _The championship game was so intense that I really had to call out my mental toughness just to get through it._ __7__ To order something by phone. _Just tell me what you want for dinner, and I’ll call out for it._  
+__call out__ :nine::m: __1__ To announce something. In this usage, a noun or pronoun can be used between “call” and “out.” _Once everyone is seated, the host will call out the winners’ names._ _If you’ve got Bingo, call it out!_ __2__ To shout in an attempt to draw attention to oneself. _I called out to my best friend when I saw her walking down the street, but she had headphones on and couldn’t hear me._ _My husband came running when he heard me call out for help._ __3__ :dart: To confront one about one’s misdeeds or unpleasant behavior. In this usage, a noun or pronoun can be used between “call” and “out.” _If your intern keeps coming in late, you need to call her out on it._ _He called me out for being late._ _Never call out a narcissist._ _Why would you publicly call out someone for a typo?_ __4__ To challenge one to a fight. In this usage, a noun or pronoun can be used between “call” and “out.” _I wouldn’t call that guy out—I know for a fact that he carries a knife._ __5__ To request one’s aid or presence. In this usage, a noun or pronoun can be used between “call” and “out.” _When that case had me stumped, I called another detective out to review it with me._ _The president called out military troops when the situation became unstable._ __6__ To utilize something, often a quality or skill. In this usage, a noun or pronoun can be used between “call” and “out.” _The championship game was so intense that I really had to call out my mental toughness just to get through it._ __7__ To order something by phone. _Just tell me what you want for dinner, and I’ll call out for it._  
 __call someone names__ :three: To call someone by an abusive or insulting name. _Billy cried when the other kids called him names. John was punished for calling his teacher names._ _I wouldn’t call you names._  
 __call someone on the carpet__ To call someone before an authority to be scolded or reprimanded.  
 __call someone out__ :four: To challenge someone to a fight. _Max wanted to call him out but thought better of it._  
@@ -1141,13 +1147,14 @@ __carry the ball__ :two: To be in charge.
 __carry the day__ To win, to be successful.  
 __carve out__ :four::hammer: _New options help you carve out downtime between meetings._  
 __case closed__ :two::hammer:  
-__case in point__ :eight: A specific example of what one is talking about. An example that demonstrates a point being made as truthful or correct. _Now, as a case in point, let’s look at nineteenth-century England._ _Fireworks can be dangerous. For a case in point, look at what happened to Bob Smith last Fourth of July._  
+__case in point__ :nine: A specific example of what one is talking about. An example that demonstrates a point being made as truthful or correct. _Now, as a case in point, let’s look at nineteenth-century England._ _Fireworks can be dangerous. For a case in point, look at what happened to Bob Smith last Fourth of July._  
 __case of the dropsy__ A fictitious “condition” characterized by continually dropping things from one’s hands. It is a play on the term “dropsy,” which was formerly used to denote the condition now known as edema (or oedema). _I’ve broken four or five plates since I started work. I guess I’ve got a bad case of the dropsy today._  
 __case out__ _slang_ To observe and examine someone or something, often to gain knowledge for a specific future purpose. A noun or pronoun can be used between “case” and “out.” _I cased my opponent out in preparation for the big fight._  
 __case the joint__ :three::hammer: (casing the joint)  
 __cash cow__ A product or business that always makes a lot of profit.  
-__cash in__ :four::hammer:  
+__cash in__ :six::hammer:  
 __cast a sheep’s eye__ To give a sideways glance or a suspicious look. _When I tried to feed the baby something new, she cast a sheep’s eye at it and then tried to smack it out of my hand._  
+__cast doubt__  
 __cast in concrete__ Firmly or permanently established; not subject to change; unalterable. _The healthcare law looks promising, but we’ll have to wait until it’s cast in concrete before we know exactly what it will do._  
 __cast the first stone__ To be the first to criticize someone or something. _OK, fine, I’ll cast the first stone—that movie was awful!_  
 __cast/shed/throw light on something__ :two::hammer:  
@@ -1218,7 +1225,8 @@ __check your ego at the door__ To leave behind one’s pride, arrogance, or self
 __checkered career__ A history of employment characterized by many different kinds of jobs or by many alternating periods of success and failure.  
 __cheddar__ _slang_ Money. _I’m all out of cheddar—can I borrow a few bucks?_  
 __cheek by jowl__ :two: side by side; close together. _The pedestrians had to walk cheek by jowl along the narrow streets._ _The two families lived cheek by jowl in one house._  
-__cheesy__ _adj informal_ :four: Something cheap-looking and in poor taste. Cheap and of low quality. _Cheesy motel rooms._  
+__cheers and jeers__ Praise from some and scorn from others; a mixed reaction.  
+__cheesy__ _adj informal_ :five: Something cheap-looking and in poor taste. Cheap and of low quality. _Cheesy motel rooms._ _I wouldn’t live in a cheesy place like this if I could afford better._  
 __cherry on top__  
 __chew on something__  
 __chew out__ _slang_ To scold or berate one harshly or angrily. A noun or pronoun can be used between “chew” and “out.” _The boss is totally going to chew us out if he hears that we lost that big client._  
@@ -1237,12 +1245,12 @@ __chip away__ :dart::nine: __1__ To break off fragments of something. _We won’
 __chip in__ :two::hammer:  
 __chip on (someone) shoulders__ :nine::m::dart: [:sound: chip on his shoulder] (chip on his shoulder, chip on one’s shoulder) A disposition to quarrel. _Let’s walk into that meeting tomorrow with a chip on our shoulders._  
 __chitchat__ __2__ _n_ An instance of idle or casual chatter. _We’re just having a chitchat, come on in._  
-__chock full of (something)__ Having a lot of something; very full of something. _If you don’t like raisins, you won’t like this cake —it’s chock full of them._  
+__chock full of (something)__ :two: Having a lot of something; very full of something. _If you don’t like raisins, you won’t like this cake —it’s chock full of them._ _The keynote was chock-full of technical mumbo jumbo that IT people love._  
 __chocoholic__ A person who craves chocolate. (Patterned on alcoholic.)  
 __choke someone up__ To cause someone to feel like starting to cry. _Sad stories like that always choke me up._ _The movie was sad and it choked up most of the audience._  
 __chomp at the bit__ To be impatient or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws). A variant of “champ at the bit,” which is the original phrase. _The crowd chomped at the bit to see the unveiling of the new building._ _If you’re chomping at the bit to try these out, you’re not alone._  
 __chopped liver__  
-__chops__ _informal_ One’s skill in some area. _Have you ever heard her play before? She’s got some serious chops on the piano._  
+__chops__ _informal_ :two: One’s skill in some area. _Have you ever heard her play before? She’s got some serious chops on the piano._  
 __chronic__ _slang_ Marijuana, especially that which is particularly potent. _Got any chronic? I need to forget this horrible day._  
 __chuck__ :two: __2__ _v_ _informal_ To eject or force out from some place. _The bouncer chucked the man for being belligerent._ _Vader chucked the emperor._  
 __chug__ _v_ :two: [for one person] To drink something, usually beer, quickly and in large volumes. _He chugged three in a row, and they came right back up again._  
@@ -1250,19 +1258,21 @@ __chugging the milk__ Chugging the milk is a phrase used to describe the task of
 __chum up__ To be friendly with someone. _Why is Patrick chumming up to me all of a sudden? He’s usually so distant._  
 __chummy__  
 __chunk__ :dart: __1__ _vi_ To empty one’s stomach; to vomit. (Collegiate.) _The cat chunked all over the carpet._ __2__ :dart: _vi_ To do badly; to blunder. _Sorry. I really chunked on that last deal._ __3__ _n_ A gun considered as a chunk of iron. (Underworld.) _You carrying a chunk?_ __4__ _n_ A fat or stout person. _Billie’s getting to be such a chunk!_  
-__churn out__ :four::hammer: _ChatGPT helps radiologist churn out 16 papers in 4 months._  
+__churn out__ :five::hammer: _ChatGPT helps radiologist churn out 16 papers in 4 months._  
 __churn something up__  
 __cinch__  
 __cipher<sup>1</sup>__ _n_ :two: __1__ The mathematical symbol (0) denoting absence of quantity; zero. __2__ :two: A person who is unimportant, insignificant, or without influence. It refers to the mathematical symbol for zero (0). _I feel like a bit of a cipher in such a large company._  
-__circle back (to something)__ :two::hammer:  
+__circle back (to something)__ :three::hammer:  
+__circle back__  
 __circle the drain__ :three: To be in a state of severe deterioration such that one is approaching inevitable ruin, failure, or death. Usually used in the continuous form. _The company’s closure was inevitable, as it has been circling the drain for the last six months._ _Once you’re circling the drain, it’s easy to slip down it._  
 __cisgender__  
 __clam__ _n_ :three: __1__ A dollar. (Underworld.) _You got a couple of clams I can bum for a little bottle?_  
-__clap back__ :dart::two: __1__ _v_ To respond to an insult or criticism, sometimes in a vengeful manner. _Microsoft is clapping back, removing Twitter from its advertising network._ _She calmly clapped back at critics by asserting that her weight is none of their business._ _I’m not proud of it, but I did clap back at the girl who stole my boyfriend by starting a vicious rumor about her._ _OpenAI claps back at The NYT._ __2__ _n_ A response to an insult or criticism, sometimes in a vengeful manner. _I’m not great at the clap back because I get easily flustered by criticism._  
+__clap back__ :dart::three: __1__ _v_ To respond to an insult or criticism, sometimes in a vengeful manner. _Microsoft is clapping back, removing Twitter from its advertising network._ _She calmly clapped back at critics by asserting that her weight is none of their business._ _I’m not proud of it, but I did clap back at the girl who stole my boyfriend by starting a vicious rumor about her._ _OpenAI claps back at The NYT._ __2__ _n_ A response to an insult or criticism, sometimes in a vengeful manner. _I’m not great at the clap back because I get easily flustered by criticism._  
 __classy__  
 __clean (one’s) plate (up)__ To eat all of the food that is on one’s plate.  
 __clean house__ To eliminate or discard what is undesirable: _The scandal forced the company to clean house._  
 __clean one’s plate__ Eat up all the food put on one’s plate.  
+__clean sweep__  
 __clean up (one’s) act__ To improve one’s behavior.  
 __clean-cut__ Neatly groomed. _My sister likes long-haired bad boys, but I’ve always thought that clean-cut guys are cuter._  
 __clear the air__ :dart::two::hammer:  
@@ -1276,7 +1286,7 @@ __clock in__ _Today’s piece clocks in at 728 words._
 __close a/the deal__  
 __close as the bark to the tree__ As connected as is possible. Often used to describe a particularly intimate relationship or friendship. _Jenna and Elise are as close as the bark to the tree—I rarely see one without the other!_  
 __close call__ _n_ :three::hammer:  
-__close in__  
+__close in__ :three::hammer:  
 __close the door on (something)__  
 __close the gap (between someone or something)__ :two: To reduce or eliminate some disparity or imbalance between two people, things, groups, etc. _The former champions were ahead by 21 points at halftime, but the underdogs have been steadily closing the gap._  
 __close up shop__  
@@ -1365,7 +1375,7 @@ __content farm__
 __contrary to popular opinion__ Opposite to what is popularly or generally expected or believed. Usually used to introduce such a statement. _Contrary to popular opinion, higher taxes end up benefiting people more than lower ones._  
 __control freak__ :three: Someone who has an obsessive or compulsive need to control every aspect of a situation and/or the ways in which others act. _My father can be such a control freak sometimes, always dictating how I should be living my life._  
 __conventional wisdom__  
-__cook up__  
+__cook up__ :two::hammer:  
 __cookie cutter__ __2__ _adj_ Identical to other things. In this usage, the phrase is typically hyphenated. _I want a unique house, not one of those cookie-cutter boxes that looks like every other one on the block._  
 __cool (one’s) heels__ To wait, sometimes so that one becomes calmer or more composed.  
 __cool customer__ :dart: Someone who remains even-tempered, especially in stressful situations. _Brad is such a cool customer. Nothing ever seems to bother him._  

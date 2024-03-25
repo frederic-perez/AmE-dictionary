@@ -1,28 +1,3 @@
-__bummer__ :two: __3__ _adj_ Describing someone or something unpleasant. _Oh, it was a bummer party—you didn’t miss anything._  
-__burn money__ To waste or spend money in a careless or excessive way, often without any real benefit or return on investment.  
-__burning desire__  
-__butt chug__ _slang_ To consume alcohol via the anus, leading to rapid intoxication.  
-__by all accounts__  
-__by design__ :dart: Deliberately and purposefully; as one planned or intended. _I assure you that everything you saw has happened by design._  
-__by no means__  
-__by way of (something)__  
-__calaboose__ _slang_ Jail. The word comes from “calabozo,” the Spanish word for “dungeon.” _They’ll throw you in the calaboose if they find out that you were involved in the robbery!_  
-__call for (someone or something)__  
-__call out__ :two::hammer: _Midjourney called out competitor Stability AI for scraping their images._  
-__case in point__  
-__cash in__ :two::hammer:  
-__cast doubt__  
-__cheers and jeers__ Praise from some and scorn from others; a mixed reaction.  
-__cheesy__ _mod_ Cheap; tacky. _I wouldn’t live in a cheesy place like this if I could afford better._  
-__chock full of (something)__ Having a lot of something; very full of something. _If you don’t like raisins, you won’t like this cake —it’s chock full of them._ _The keynote was chock-full of technical mumbo jumbo that IT people love._  
-__chops__ _informal_ One’s skill in some area.  
-__churn out__  
-__circle back (to something)__  
-__circle back__  
-__clap back__  
-__clean sweep__  
-__close in__ :two::hammer:  
-__cook up__  
 __cover the waterfront__ To be thorough and comprehensive in what is presented or dealt with. _This thesis will attempt to cover the waterfront of English Law from 1950 to the present._  
 __cross (one’s) fingers__  
 __cross (one’s) mind__  
