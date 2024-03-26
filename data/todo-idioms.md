@@ -1,3 +1,4 @@
+__algospeak__ _n_ (social media, neologism) A form of euphemism for evading social media content filters.  
 __cover the waterfront__ To be thorough and comprehensive in what is presented or dealt with. _This thesis will attempt to cover the waterfront of English Law from 1950 to the present._  
 __cross (one’s) fingers__  
 __cross (one’s) mind__  
@@ -91,12 +92,14 @@ __I see what you did there__ An expression used to acknowledge that one understa
 __I shit you not__  
 __I shudder to think__ It is too worrying or unpleasant for me to think about something that might happen or might have happened. _I shudder to think what my boss will say when I tell him I lost our biggest client._  
 __I take it__ I imagine this is the case; I presume it to be true (that); it is my understanding (that). _So I take it that you’re looking for a new job now that the company has declared bankruptcy?_  
+__I’d say__ In my opinion; it is my estimation that. _I’d say we have about a 50-50 chance of winning this game today._  
 __imprint (something) in(to) (someone or something)__ To retain something in one’s memory.  
 __in (all good) conscience__ In all fairness; by any reasonable standard. _I cannot in conscience endorse Donald Trump._  
 __in (high) hopes of (something)__  
 __in (one’s) heart__  
 __in (one’s) own right__  
 __in a big way__ In a significant way or to a marked extent.  
+__in a sorry state__ In a pitiful, dysfunctional, or abject condition. _My business was in a sorry state after I left it under the control of my brother._ _John’s been in a sorry state lately—I think he’s taken up drinking again._  
 __in and of itself__  
 __in concert with (someone)__ Together with someone; in cooperation with someone. _You’ll need to work in concert with my file clerk to sort through all this paperwork._  
 __in full swing__  
@@ -173,6 +176,7 @@ __play games (with one)__ To deliberately attempt to evade, deceive, or misinfor
 __plenty of (something)__ An abundant amount of; more than is needed.  
 __point of contact__ A person or entity one can seek to access information or services.  
 __poster child__ :two::hammer: _OpenAI is the poster child of the gen AI wave._  
+__preppy__ __1__ _Preppy_ is the word we use to describe those rich kids that look down on anyone whose shoes cost less than a car. It’s the perfect word to describe the pompousness and snootiness of the crustiest of the upper crust. Just recall the fashion of _Carlton Banks_ of _The Fresh Prince of Bel-Air._ _adj_ _slang_ Having the look or manner of an expensive preparatory school student, typically characterized by wealth, snobbishness, and an adoption of current fashions, trends, or styles. _I hate the preppy clothes he’s been wearing ever since he started hanging out with the cool kids at school._ _He’s a bit preppy, sure, but he’s smart and is actually really interested in classic literature._ __2__ _n_ _slang_ A person who affects the look or manner of an expensive preparatory school student. _She’s just another preppy who get’s a get-out-jail-free card anytime she screws up, huh?_  
 __pull something off__ :two::hammer:  
 __pure and simple__ Essentially or fundamentally so, without exaggeration or elaboration.  
 __put (one’s) money where (one’s) mouth is__  
@@ -246,6 +250,7 @@ __the good, the bad, and the ugly__ Idiomatic expression used to describe a situ
 __the grass is always greener on the other side of the fence__  
 __the heebie-jeebies__ An extreme or acute sensation of fear, apprehension, worry, or anxiety. Often used with “get” or “give.” _I always get the heebie-jeebies when I walk through a graveyard._  
 __the here and now__ The present; this point in time. _Yes, but I’m not worried about his past production—I’m worried about his low sales in the here and now!_  
+__the idiot box__ _slang_ A television set, or television in general.  
 __the nitty-gritty__ :two::hammer:  
 __there are plenty of (other) fish in the sea__  
 __thin-skinned__ Emotionally susceptible to or unable to ignore the verbal attacks or criticisms of others.  
@@ -275,9 +280,12 @@ __walk down the aisle__ To get married.
 __wall off__  
 __war of attrition__  
 __wash (one’s) mouth out (with soap)__  
+__when pigs can fly__ At a point in time that will never come to pass. (Used to show skepticism or cynicism over some hypothetical situation or outcome.)  
 __whip out__  
 __whip up__  
 __whopping__  
+__wild goose chase__  
+__win (something) in a walk__ To win (something) easily, handily, or without much or any effort. _Enjoying the benefit of a week off between games, the home team won this match in a walk._  
 __with a bang__  
 __with bated breath__  
 __word for word__ In or with the same exact words; verbatim. _After seeing the play only once, he was able to repeat the monologue word for word. It was amazing._  
