@@ -1,10 +1,35 @@
+__(I’m) not gonna lie__  
+__(it’s) good to see you (again)__  
+__(one’s) finest hour__  
+__a bad rap__  
+__a balancing act__  
+__a card up (one’s) sleeve__  
+__a heavy heart__ A state of profound dejection, depression, or grief. _It is with a heavy heart that we announce the passing of our beloved father._  
 __algospeak__ _n_ (social media, neologism) A form of euphemism for evading social media content filters.  
+__and so on and so forth__  
+__anybody’s/anyone’s guess__  
+__as we speak__  
+__at the end of the day__  
+__bag__ __3__ _v_ To get or obtain something. _Hey, when you go to that event, be sure to bag some cupcakes for us!_ _The Browser Company, the brains behind Arc, just bagged $50M._  
+__ballpark figure__  
+__beg the question__  
+__big name__  
+__blind spot__  
+__bottom line__  
+__breaking point__ :dart:  
+__bring to light__  
+__build a case__ :dart: To compile evidence that supports an argument or charges against someone or something.  
+__by all accounts__  
+__by and large__  
+__call out__  
+__catch (one) off guard__  
 __cover the waterfront__ To be thorough and comprehensive in what is presented or dealt with. _This thesis will attempt to cover the waterfront of English Law from 1950 to the present._  
 __cross (one’s) fingers__  
 __cross (one’s) mind__  
 __crowd out__  
 __crowdfund__ /KRAUD-fuhnd/ To fund a project by raising money from a large number of people, mostly strangers and usually via the Internet.  
 __crunch (the) numbers__ :two::hammer:  
+__cut corners__  
 __dead end__  
 __dealbreaker__  
 __do or die__  
@@ -35,6 +60,7 @@ __flag__ __2__ _v_ _slang_ To fail something. _You better study hard, or you’l
 __flat-out__  
 __float an idea__ To suggest something in order to gauge interest in it or others’ perception of it.  
 __for a living__ In order to earn one’s primary income. _Roy runs a deli for a living._  
+__for good reason__  
 __for kicks__ Only for the sake of fun, excitement, or distraction.  
 __for lack of a better word__  
 __for real__ _informal_ Used to assert that something is genuine or is actually the case.  
@@ -48,7 +74,7 @@ __fourth wall__
 __frag__ _slang_ [:scroll: The term had its origin in the Vietnam War] To kill a fellow soldier, often a superior, with a grenade or other explosive device. The word is a shortening of “fragmentation grenade,” referring to a type of grenade that expels shrapnel over a large area. _Someone’s going to frag that guy if he keeps treating his men so poorly._  
 __free fall__  
 __free lunch__  
-__from the get-go__  
+__from the get-go__ :two::hammer:  
 __from time to time__  
 __frosty__ __2__ _mod_ Cool; really cool and mellow. _That music is really frosty._  
 __full stop__  
@@ -58,6 +84,7 @@ __game face__ __2__ An expression of stoicism intended to mask one’s emotions 
 __game__  
 __get (something) in order__ __3__ To arrange or resolve something so that it is in the most proper, efficient state possible. _They brought in a consultant to help get the project in order._  
 __get a/the nod (for something)__  
+__get done__  
 __get down to work__ To begin being serious about something; to begin attending to business or work at hand.  
 __get into it__  
 __get it (all) together__  
@@ -73,6 +100,7 @@ __go a long way__ :two::hammer:
 __go bananas__  
 __go between__  
 __go big or go home__ _expression_ Either do something to its fullest extent or largest degree, or else don’t even bother. Often used facetiously. _A: “Do we really need to cook an entire pig for this barbecue? We’re only having a few people over.” B: “Hey, go big or go home!”_  
+__go down the rabbit hole__  
 __go down the toilet__ To fail; to be ruined or destroyed; to be squandered or wastefully discarded.  
 __go into overdrive__ To start working very hard or quickly.  
 __go to hell in a handcart__ To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin. _With this new president in office, our country is going to go to hell in a handcart!_  
@@ -85,14 +113,20 @@ __have no business (doing something)__ To have no legitimate reason, experience,
 __heat up__  
 __helicopter mom__  
 __help (oneself) (to something)__ To serve oneself (something); to take, consume, or indulge in (something) freely or without permission or restraint. _There’s plenty of food in the kitchen, so please, help yourselves to more._  
+__high and dry__  
 __hogwash__  
 __hold (one’s) nose__ __3__ By extension, to do something in spite of its unpleasant or illicit nature. _I don’t want to get fired, so I guess I’ll just have to hold my nose and do what he asks._  
+‌__hold (one’s) nose__ To reluctantly overcome one’s revulsion.  
+__home to (something)__ A place where something is commonly found. _The wetland is home to a variety of wildlife, especially birds._  
+__howl at (someone or something)__  
+__humblebrag__  
 __hush money__  
 __I see what you did there__ An expression used to acknowledge that one understands a joke made by someone else, and to either show appreciation or a lack thereof for the wit employed.  
 __I shit you not__  
 __I shudder to think__ It is too worrying or unpleasant for me to think about something that might happen or might have happened. _I shudder to think what my boss will say when I tell him I lost our biggest client._  
 __I take it__ I imagine this is the case; I presume it to be true (that); it is my understanding (that). _So I take it that you’re looking for a new job now that the company has declared bankruptcy?_  
 __I’d say__ In my opinion; it is my estimation that. _I’d say we have about a 50-50 chance of winning this game today._  
+__I’ll believe it when I see it__  
 __imprint (something) in(to) (someone or something)__ To retain something in one’s memory.  
 __in (all good) conscience__ In all fairness; by any reasonable standard. _I cannot in conscience endorse Donald Trump._  
 __in (high) hopes of (something)__  
@@ -110,12 +144,17 @@ __in the (grand) scheme of things__ In the long term; in the complete picture of
 __in the bag__ Achieved or won almost as a certainty.  
 __in the least__  
 __it goes without saying__  
+__it remains to be seen__ Something is not yet clear, certain, or known.  
 __jeer at (someone or something)__ To mock, taunt, or scoff at someone or something. _Everyone in school jeered at me for wearing a pink sweater._  
 __JK__ An initialism of “just kidding,” used especially in text messages and online communications to express that one was not being serious about their previous statement. Variously written as “JK,” “J.K.,” or “J/K,” in either uppercase or lowercase letters. _Yeah, def considering working on my uncle’s farm 4 the summer. haha jk lol_  
+__join hands__ __2__ By extension, to work together to achieve some goal.  
+__jump before (one) is pushed__ To take action willingly or proactively before being forced to do it.  
 __jump ship__ (abandon ship) _Nearly all of (chatbot) Pi’s parent company, Inflection AI, decided to jump ship just 10 months after Pi’s launch._  
 __just like that__  
+__keen on (someone or something)__  
 __keep (one’s)/an eye on (someone or something)__  
 __keep (someone or something) in check__  
+__keep a lid on (something)__  
 __keep pace__  
 __keep up__  
 __king of the castle__ The most powerful, successful, or authoritative person in a group or organization.  
@@ -128,15 +167,22 @@ __loosen up__
 __loosey-goosey__  
 __lose (one’s) shit__  
 __loud and clear__  
-__make (something) clear (to one)__  
+__make (one’s) eyes pop (out)__  
+__make (something) clear (to one)__ :two:hammer:  
+__make a difference__  
 __make a fuss__  
 __make inroads (in/into something)__  
+‌__make it__  
 __make matters worse__  
+__make one’s name__ To become well-known or famous.  
 __male gaze__ The rendering of art, literature, etc., from the perspective of and for the consumption of heterosexual males, especially characterized by the depiction of women as passive objects of desire and pleasure. The phrase was coined by film theorist Laura Mulvey. _The male gaze will continue to dominate media until more and more women artists challenge the paradigm._  
+__masquerade as (someone or something)__  
 __matter of fact__  
 __middlebrow__ [:scroll: Formed on the pattern of highbrow and lowbrow] Neither particularly intelligent and refined nor particularly uncultured or crude in style, content, or quality. _I used to pride myself on my refined tastes when I was in college, but they’ve become positively middlebrow since I settled down as an adult._  
 __mixed bag__  
 __mixed feelings__  
+__mixed message__  
+__modus operandi__ :mega:  
 __mugger__  
 __mumbo jumbo__  
 __nada__  
@@ -144,7 +190,9 @@ __neat and tidy__ (neat and clean)
 __not have all day__ To be in a rush; to not have much or any time to spare. Usually used in the present tense. _How long is this repair job going to take? I don’t have all day!_  
 __not sleep a wink__  
 __not so fast__  
+__odd couple__ A particularly unlikely or mismatched pair of people.  
 __of all places__ Being the least expected place compared to anywhere else.  
+__of all stripes__ Of many varieties or types. _You meet people of all stripes when you live in a big city._  
 __off again, on again__  
 __off the hook__  
 __off-kilter__  
@@ -157,6 +205,7 @@ __on the contrary__
 __on the lookout__ :two: Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
 __on the run__  
 __on the verge of__  
+__on-site__  
 __one-off__  
 __org__ __2__ _n_ An organization.  
 __out of pocket__  
@@ -176,6 +225,7 @@ __play games (with one)__ To deliberately attempt to evade, deceive, or misinfor
 __plenty of (something)__ An abundant amount of; more than is needed.  
 __point of contact__ A person or entity one can seek to access information or services.  
 __poster child__ :two::hammer: _OpenAI is the poster child of the gen AI wave._  
+__postpone until (some later date or time)__ To delay (something) until a later date or time. A noun or pronoun can be used between “postpone” and “until” to specify what is being delayed.  
 __preppy__ __1__ _Preppy_ is the word we use to describe those rich kids that look down on anyone whose shoes cost less than a car. It’s the perfect word to describe the pompousness and snootiness of the crustiest of the upper crust. Just recall the fashion of _Carlton Banks_ of _The Fresh Prince of Bel-Air._ _adj_ _slang_ Having the look or manner of an expensive preparatory school student, typically characterized by wealth, snobbishness, and an adoption of current fashions, trends, or styles. _I hate the preppy clothes he’s been wearing ever since he started hanging out with the cool kids at school._ _He’s a bit preppy, sure, but he’s smart and is actually really interested in classic literature._ __2__ _n_ _slang_ A person who affects the look or manner of an expensive preparatory school student. _She’s just another preppy who get’s a get-out-jail-free card anytime she screws up, huh?_  
 __pull something off__ :two::hammer:  
 __pure and simple__ Essentially or fundamentally so, without exaggeration or elaboration.  
@@ -192,6 +242,7 @@ __reach out to (one)__
 __reality check__ :dart: An event or outcome that forces one to accept or reevaluate the reality of one’s position or situation.  
 __reclaim (someone or something) from (someone or something else)__ To regain or resume possession of someone or something from someone or something.  
 __resonate with (one)__ To produce or evoke an appealing feeling of familiarity in one.  
+__revolving door__  
 __ride (on) a wave of (something)__ To enjoy the advantage of or continue to benefit from a situation that is successful, fortunate, trendy, etc.  
 __rig__ __1__ _vt_ To arrange or tamper with the results of something. _Somebody rigged the contest so no one got first prize._  
 __ring hollow__ To sound or give the sense of being false, insincere, or not genuine. _The statements that followed made her apology ring hollow._  
@@ -220,16 +271,21 @@ __sit on (something)__
 __slap on the wrist__  
 __slide into (someone or something)__  
 __SMH__ An abbreviation for “shaking my head” or “shake my head,” an expression of disbelief or exasperation (likened to the actual gesture of shaking one’s head, which is used to express the same things). _Did she really say that? SMH._  
+__smooth out__  
 __sneak peak__  
 __sniff out__  
 __snot__  
 __soak in__  
 __soccer mom__  
+__soul searching__  
+__sound the alarm__ __2__ To alert other people about something dangerous, risky, or troublesome.  
 __spill the tea__ :two::hammer:  
 __spray and pray__ __1__ _informal_ To dispense anything (such as bullets or advertising) in an uncoordinated manner, hoping to reach the desired target through luck. __2__ The act of blindly firing an automatic weapon with the intent of potentially hitting the target; tends to be ineffective.  
 __steal the show__  
 __step in__  
 __stick with (someone or something)__  
+__stop short__  
+__storm in__  
 __strike action__  
 __strive to (do something)__ To put forth a great and tenacious effort to do or accomplish something.  
 __sugarcoat (something)__  
@@ -237,25 +293,34 @@ __sure enough__ As expected or anticipated.
 __swipe at__  
 __tack on__  
 __take (something) with a dash of salt__  
+__take a deep dive__  
+__take a hit__ :dart:  
 __take center stage__  
 __take home__  
-__take issue__ To strongly disagree with or take offense at something.  
+__take issue__ :two: To strongly disagree with or take offense at something.  
+__take solace in (something)__ To be comforted or consoled by something.  
 __talking head__  
 __tamp down__  
 __tank__ __5__ _vi_ (for something) To fail. _The entire stock market tanked on Friday._ _I invested in a restaurant business right before the economy tanked._  
+__tear down__  
 __tell it like it is__ To speak bluntly, directly, and truthfully, even if what is being said is undesirable to the listener.  
 __tell right from wrong__ To know what things are good and what things are bad_ He is old enough to tell right from wrong._  
+__that would be telling__ That would give away the secret or surprise.  
 __the (hand)writing on the wall__  
+__the ball is in (one’s) court__  
 __the good, the bad, and the ugly__ Idiomatic expression used to describe a situation or set of circumstances that has both positive and negative aspects, as well as some aspects that are particularly unpleasant or difficult to deal with.  
 __the grass is always greener on the other side of the fence__  
 __the heebie-jeebies__ An extreme or acute sensation of fear, apprehension, worry, or anxiety. Often used with “get” or “give.” _I always get the heebie-jeebies when I walk through a graveyard._  
 __the here and now__ The present; this point in time. _Yes, but I’m not worried about his past production—I’m worried about his low sales in the here and now!_  
 __the idiot box__ _slang_ A television set, or television in general.  
+__the lowdown on__ The whole truth about something, as in _We’re waiting to hear the lowdown on what happened after we left._ This term uses lowdown in the sense of “the basic or fundamental part.”  
 __the nitty-gritty__ :two::hammer:  
+__the rest is history__ Everyone knows how the rest of the story goes.  
 __there are plenty of (other) fish in the sea__  
 __thin-skinned__ Emotionally susceptible to or unable to ignore the verbal attacks or criticisms of others.  
 __think again__  
 __this minute__  
+__through and through__  
 __tight__  
 __tighten something up__  
 __time and (time) again__  
@@ -268,11 +333,14 @@ __touch on (something)__
 __tough it out__ :dart: To persist through a difficult situation. _I’m amazed you toughed it out and went to school with such a high fever._  
 __trim the fat__ :dart: To excise or discard elements that are seen as superfluous or unnecessary.  
 __tug of war__  
+__turn over every stone__  
 __two a penny__ Very common, ordinary, or widespread.  
 __two-edged sword__ Something that can be at once beneficial and problematic; anything having or offering both good and bad aspects or outcomes.  
 __under fire__  
 __under scrutiny__  
+__under the gun__  
 __unheard of__  
+__up and running__ :two::hammer:  
 __up in the air__ Uncertain; subject to change.  
 __upbeat__ _informal_ Of, inspiring, or exuding cheerfulness, happiness, or optimism.  
 __walk a fine line between (something)__  
@@ -280,6 +348,7 @@ __walk down the aisle__ To get married.
 __wall off__  
 __war of attrition__  
 __wash (one’s) mouth out (with soap)__  
+__watershed moment__  
 __when pigs can fly__ At a point in time that will never come to pass. (Used to show skepticism or cynicism over some hypothetical situation or outcome.)  
 __whip out__  
 __whip up__  

@@ -1,14 +1,18 @@
 __abet__ _vt_  
 __advisory__ _n_  
+__amass__  
 __ambivalent__ _adj_  
 __ameliorate__ _v_  
 __amulet__ _n_ _Syn_ charm, fetish, talisman, juju  
+__aphasia__ _n_  
 __assess__ _v_  
 __attuned__ _adj_ __1__ Able to perceive; sensitive (to). __2__ Accustomed (to). _Syn_ accustomed, adjusted, coordinated, in tune, in harmony, in accord, harmonized, familiarized  
 __awe-struck__  
 __awl__ _n_ A pointed instrument for piercing small holes in leather, wood, etc.  
 __bajillion__ _n_  
+__bedlam__ _n_  
 __belated__ _adj_ /bɪˈleɪtɪd/  
+__beleaguered__ _adj_  
 __bloodbath__  
 __bracket__ _n_ __7__ A treelike diagram showing the matchups between competitors in different rounds of a tournament.  
 __bullous__  
@@ -16,33 +20,46 @@ __buskin__ _n_ A foot and leg covering reaching halfway to the knee, resembling 
 __cacophony__ _n_ /ka-KAH-fuh-nee/ A cacophony is a mixture of loud and usually harsh unpleasant sounds. Cacophony can also refer to an incongruous or chaotic mixture.  
 __cantankerous__  
 __clop__ _n_ A sound made by or as if by a horse’s hoof striking the ground.  
+__collarbone__ _n_  
 __collateralize__ _vt_  
+__command and control__  
 __condescending__ _adj_ Displaying a patronizingly superior attitude. _Syn_ patronizing, arch  
 __conga__ _n_ __3__ A conga drum.  
 __controversy__ _n_ :mega:  
 __conversant__ _adj_ Well informed about or knowing thoroughly. _Syn_ familiar  
 __copyrighter__ _n_  
 __crocus__ _n_  
+__cross section__ _n_ :dart::two: (cross-section) A section formed by a plane cutting through an object, usually at right angles to an axis.  
+__cross-sectional__ _adj_  
+__cut-and-dried__ _adj_ (cut-and-dry)  
 __daffodil__ _n_ /ˈdæf ə dɪl/ :es: narciso  
+__debris__ _n_ :mega:  
 __decennary__ _n_ A period of 10 years. _Syn_ decade  
 __deepfake__ _n_ /DEEP-fayk/ [:scroll: A combination of deep learning + fake. Coined by a user of the Reddit website.] Digitally manipulated images, video, or audio that make someone appear to do or say something they did not.  
 __devil__ _n_ /ˈdɛv əl/  
+__dire__ _adj_  
 __dot-connect__ _vi_ /DOT-kuh-nekt/ [:scroll: From the expression “to connect the dots”. From puzzles in which a line is drawn between a sequence of numbered dots to reveal a picture.] To make connections between different pieces of information in order to reach a conclusion.  
 __downfall__ _n_  
 __downturn__ _n_  
 __duende__  
+__dyspraxia__ _n_  
 __eclipse__ _vt_ /ɪˈklɪps/  
 __efface__ _vi_ /i-FAYS/ To erase or to make inconspicuous.  
 __elusive__  
 __emulate__ _v_ /EM-yuh-layt/  
-__envision__ _vt_  
+__envision__ _vt_ :two::hammer:  
 __equinox__  
 __espouse__ _vt_ __1__ To adhere to or advocate: espoused a contrarian viewpoint.  
+__essence__ _n_ /ˈɛs əns/  
+‌__eternal__ _adj, n_ /ɪˈtɜr nl/  
+__eternity__ _n_ /ɪˈtɜr nɪ ti/  
 __exert__  
 __facade__ _n_ /fuh-SAHD/ __1__ The front of a building or a side facing a street or a public space. __2__ The front part of something. __3__ :dart: A false or superficial appearance.  
 __factual__ _adj_  
 __far-reaching__ _adj_  
 __fatuous__ _adj_ Silly or stupid; complacently or inanely foolish.  
+__fava bean__ _n_ :es: haba  
+__fennel__ _n_ :es: hinojo:  
 __finch__ _n_ (bird)  
 __fire sale__  
 __firearm__ _n_  
@@ -50,6 +67,7 @@ __firstborn__ _adj, n_ :es: primogénito
 __fissure__ _n_  
 __flaccid__ _adj_ :mega:  
 __flammable__ _adj_ _Syn_ Inflammable.  
+__fleece__ _n_  
 __flehmen__ _n_ :camera: /ˈfleɪmən/ A curling of the upper lip and raising of the head in certain mammals in response to olfactory stimuli, which behaviour allows the scents better to reach an olfactory organ deep within the animal’s nose.  
 __flop__ _v_ __3__ _informal_ To fail utterly: _The play flopped._  
 __flounder__ _vi_  
@@ -58,6 +76,7 @@ __footloose__ _adj_ /FUUT-loos/ Free to go or do as one pleases without concerns
 __foreclosure__  
 __form factor__  
 __forthright__  
+__forthwith__  
 __foul__ _adj_  
 __foundational__ _adj_  
 __foundry__ _n_ :es: fundición  
@@ -79,6 +98,7 @@ __gerbil__ _n_ /ˈdʒɜːbɪl/ (gerbille) :es: jerbo
 __germane__ _adj_ /jer-MAYN/ _Germane_ is a formal synonym of relevant that describes something related to a subject in an appropriate way. _Her comments were not germane to the discussion._  
 __gibberish__ _n_  
 __gibe__ _n, v_ (jibe)  
+__ginger__ _n_ :es: jengibre  
 __glean__ _v_ :two::hammer: :es: espigar; recoger  
 __global boiling__ _n_  
 __globetrotter__ _n_  
@@ -95,6 +115,7 @@ __groak__ _v_ To stare at people who are eating in the hope that they will offer
 __groggy__  
 __grotesque__  
 __guardrail__ _n_  
+__Guggenheim__ _n_ :mega: /go͝og′ən-hīm′/ (Marguerite, known as “Peggy.” 1898-1979)  
 __haberdasher__ _n_ A dealer in men’s furnishings. _Syn_ clothier  
 __haggard__ _adj_ :two: /HAG-urd/ Showing the wearing effects of overwork or care or suffering. _Syn_ careworn, drawn, raddled, worn  
 __hallway__ _n_  
@@ -141,6 +162,7 @@ __inflamed__ _adj_ /ɪnˈfleɪmd/ Swollen, red, and painful as a result of disea
 __ingurgitate__ _v_ To swallow greedily or in excessive amounts; gulp.  
 __insider__ _n_ __2__ One who has special knowledge or access to confidential information.  
 __insipid__ _adj_ __2__ Lacking qualities that excite, stimulate, or interest; dull.  
+__instrumental__ _adj_  
 __insurmountable__  
 __intern__ _v_ To confine or impound especially during a war.  
 __internment__ _n_ The act of interning someone or the state of being interned.  
@@ -153,17 +175,24 @@ __jalopy__
 __jamboree__ _n_ A noisy celebration. _Syn_ gala, blowout  
 __jeer__ _n, v_  
 __jellyfish__ _n_ :es: medusa  
+__jeopardize__ _vt_ _Syn_ endanger  
 __jeopardy__ _n_ /JEP-er-dee/  
 __juvenile__ _adj, n_  
 __kayfabe__  
+__knee-deep__ _adj_ :dart: __3__ Deeply occupied or involved: _is knee-deep in work._  
 __kvell__ _n_ /kvɛl/ _slang_  
+__lackluster__ _n_ A lack of brilliance or vitality.  
 __landscaper__ _n_ A landscape gardener.  
+__law of large numbers__  
 __livelihood__ _n_  
 __lofty__  
+__long view__ _n_ The consideration of events or circumstances likely to occur in the future.  
 __looking glass__ _n_  
 __machination__ _n_  
 __manger__ _n_ A trough or an open box in which feed for livestock is placed. _Syn_ trough  
 __marchioness__ _n_  
+__mariner__ _n_  
+__mayday__  
 __mea culpa__ _n_ An acknowledgment of a personal error or fault: _The authors issued a mea culpa after their plagiarism was revealed._  
 __measles__ _n_ :mega:  
 __meek__ _adj_  
@@ -173,6 +202,7 @@ __mellifluous__
 __mendacious__ _adj_ [:scroll: From Latin mendācium, _lie_]  
 __mendacity__ _n_ /mɛnˈdæs ɪ ti/  
 __middlebrow__ _n informal_ [:scroll: Formed on the pattern of highbrow and lowbrow] One who is somewhat cultured, with conventional tastes and interests; one who is neither highbrow nor lowbrow.  
+__mindful__ _adj_ :mega: /ˈmaɪnd fəl/  
 __mismatch__ _n_ :pencil2:  
 __misquote__ _vt_ /mɪsˈkwoʊt/  
 __mitigate__  
@@ -181,17 +211,26 @@ __mothering__ _n_ The nurturing and raising of a child or children by a mother.
 __mundivagant__  
 __myalgia__  
 __nay__ _n_ __1__ A denial or refusal. __2__ A negative vote or voter.  
+__nebulizer__ _n_  
 __neurodiversity__ _n_ The diversity of brain function, encompassing variations from what is considered typical. Neurodivergence includes conditions like autism, ADHD, dyslexia, and others. It underscores that there is no single “normal” way the brain functions. The opposite of neurodivergent is neurotypical.  
 __newbie__  
+__non-negotiable__ _adj_ Not open to negotiation or discussion: _the policy is non-negotiable._  
 __obeisance__ _n_ /oh-BEE-sunss/  
 __octothorpe__ _n_  
+__ombudsman__ _n_ :es: defensor del pueblo  
 __onus__  
 __out-of-body__ _adj_  
+__outcry__ _n_  
+__outdo__ _vt_  
 __outhouse__ _n_ A small building detached from a house, such as a garden shed or sometimes a toilet.  
 __outrank__ _v_  
 __outspoken__  
 __outwit__ _vt_  
 __over-the-counter__  
+__overstate__ _vt_  
+__package__ _n_ :mega:  
+__panhandle__ _v_  
+__paramedic__  
 __paravalvular__ _adj_ Surrounding or adjacent to a heart valve.  
 __pardon__ _v_  
 __pareidolia__ _n_ The perception of a recognizable image or meaningful pattern where none exists or is intended, as the perception of a face in the surface features of the moon.  
@@ -210,17 +249,23 @@ __persnickety__ _adj_
 __pestered__  
 __pettifogger__ _n_ Shyster; a lawyer whose methods are underhanded or disreputable.  
 __phytonutrient__  
+__piano__ _n_ (e.g, portion of Formule 1 track’s turn)  
 __picket line__ _n_  
 __picturesque__  
+__pilot house__ _n_ (pilothouse)  
 __pitfall__ _n_ __1__ An unsuspected difficulty or danger.  
 __pixie__ _n_ A fairy; specifically: a cheerful mischievous sprite.  
+__player__ _n_  
 __playing field__ _n_ __2__ The conditions or circumstances in which competition takes place: _a level playing field for all candidates._  
 __plethora__ _n_ :two::hammer::mega: /ˈplɛθərə/  
 __plumb__ _adj, adv, n, v_  
 __poacher__ _n_  
 __pollinosis__ _n_ A seasonal rhinitis resulting from an allergic reaction to pollen. _Syn_ hay fever  
+__prevail__  
 __prink__  
+__puberty blocker__ _n_ Any drug used to postpone puberty in children.  
 __pugnacious__  
+__pulse__ _n_ __1__ The edible seeds of certain pod-bearing plants, such as lentils and chickpeas. :es: legumbre __2__ A plant yielding these seeds.  
 __refurbish__ _v_ /rih-FER-bish/ To refurbish something is to brighten or freshen it up, or to repair and make improvements to it. _The store refurbishes and sells computers that can often meet the needs of those who don’t need the latest technology._  
 __roster__ _n_ A list, especially of names. _Syn_ roll _The spy’s mission was to compile a roster of officials amenable to bribery._  
 __sanguine__  
@@ -228,22 +273,28 @@ __sanitation__ _n_ __2__ The disposal of sewage and waste.
 __scion__ _n_  
 __scurrilous__ _adj_ /SKUR-uh-lus/  
 __secure__ _vt_ __5__ To get possession of; acquire: _secured a job._  
+__seedling__ _n_ A young plant, especially one that grows from a seed, rather than from a cutting, for example.  
 __sham__ _n_  
+__shattering__ _adj_ _Syn_ devastating, stunning, severe, crushing, overwhelming, paralysing _Yesterday’s news was another shattering blow._  
 __sheik__ _n_ [:scroll: From the movie _The Sheik_, 1921] A man held to be masterful and irresistibly charming to women.  
 __short-lived__  
 __sidestep__ _v_  
 __smidgen__ _n_ A very small quantity or portion; a bit or mite. _Syn_ whit, iota, scintilla, shred, tittle  
 __snit__ _n_  
+__solace__ _n_ :mega:  
 __spelunker__ _n_ One who explores caves chiefly as a hobby; a caver. _Syn_ potholer, speleologist  
 __spray paint__ _n_ Paint in an aerosol container for spraying onto surfaces.  
+__squalid__ _adj_ :astonished:  
 __stimulus__  
 __streamline__ _vt_  
 __supercalifragilisticexpialidocious__ _n_ The word is a compound word, and said by Richard Lederer in his book _Crazy English_ to be made up of these words: super- “above,” cali- “beauty,” fragilistic- “delicate,” expiali- “to atone,” and -docious “educable,” with all of these parts combined meaning ”Atoning for educability through delicate beauty.”  
 __takeaway__ _n_  
 __thrombolysis__  
 __thwart__ _v_  
+__timeline__ _n_  
 __tucket__ _n_ Short lively tune played on brass instruments. _Syn_ fanfare, flourish  
 __turbid__ _adj_ Having sediment or foreign particles stirred up or suspended. _Syn_ murky, cloudy, muddy  
+__turmeric__ _n_ :es: cúrcuma  
 __ulterior__ _adj_ /ul-TEER-ee-er/ Ulterior describes things (usually motives, objectives, reasons, agendas, etc.) that are kept hidden in order to achieve a particular result.  
 __unbecoming__ _adj_  
 __uncultured__ _adj_ Not cultured or cultivated. _Syn_ artless, uncultivated  
@@ -258,6 +309,7 @@ __watch list__ _n_ A list of people or things that are being closely watched bec
 __weltanschauung__ _n_ A German word meaning world view, used to mean someone’s philosophy of life. _Many people disagree with the writer’s personal Weltanschauung, but most can appreciate the quality and thoughtfulness of her work._  
 __whelm<sup>1</sup>__ _vt_ /hwelm, welm/ __1__ To submerge. __2__ To overcome; overwhelm.  
 __whelm<sup>2</sup>__ _n_ An overwhelming or engulfing quantity of something.  
+__whereabouts__ _n_  
 __whereas__ _conj_ /ʰwɛərˈæz, wɛər-/  
 __whiplash__  
 __whippersnapper__ _n_ /ˈwɪpəˌsnæpə/ An insignificant but pretentious or cheeky person, often a young one. Also called: whipster.  
@@ -265,6 +317,7 @@ __whizzer__ _adj_ Something notable of its kind: such as an outstandingly attrac
 __whopping__ _adj, adv_  
 __whopping<sup>1</sup>__ _adj_ _informal_ Exceptionally large: _“yet another whopping pay raise” (Lee Atwater)._  
 __whopping<sup>2</sup>__ _adv_ Used as an intensive: _a whopping good joke._  
+__withstand__ _v_  
 __yea__ _n_ __1__ An affirmative statement or vote. __2__ One who votes affirmatively.  
 __yelp__ _v_  
 __yesterweek<sup>1</sup>__ _n_ /YES-tuhr-week/ Last week.  

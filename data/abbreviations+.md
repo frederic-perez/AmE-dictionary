@@ -54,6 +54,7 @@ __DMV__ :two: Department of Motor Vehicles.
 __DNF__ Did not finish.  
 __DOJ__ Department of Justice.  
 __DoS__ Denial of service. _We ended up DoS’ing our cafes._  
+__DOT__ Department of Transportation.  
 __DOY__ Day of year.  
 __DSLR__  
 __DWI__  
