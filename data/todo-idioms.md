@@ -298,56 +298,6 @@ __take a hit__ :dart:
 __take center stage__  
 __take home__  
 __take issue__ :two: To strongly disagree with or take offense at something.  
-__take solace in (something)__ To be comforted or consoled by something.  
-__talking head__  
-__tamp down__  
-__tank__ __5__ _vi_ (for something) To fail. _The entire stock market tanked on Friday._ _I invested in a restaurant business right before the economy tanked._  
-__tear down__  
-__tell it like it is__ To speak bluntly, directly, and truthfully, even if what is being said is undesirable to the listener.  
-__tell right from wrong__ To know what things are good and what things are bad_ He is old enough to tell right from wrong._  
-__that would be telling__ That would give away the secret or surprise.  
-__the (hand)writing on the wall__  
-__the ball is in (one’s) court__  
-__the good, the bad, and the ugly__ Idiomatic expression used to describe a situation or set of circumstances that has both positive and negative aspects, as well as some aspects that are particularly unpleasant or difficult to deal with.  
-__the grass is always greener on the other side of the fence__  
-__the heebie-jeebies__ An extreme or acute sensation of fear, apprehension, worry, or anxiety. Often used with “get” or “give.” _I always get the heebie-jeebies when I walk through a graveyard._  
-__the here and now__ The present; this point in time. _Yes, but I’m not worried about his past production—I’m worried about his low sales in the here and now!_  
-__the idiot box__ _slang_ A television set, or television in general.  
-__the lowdown on__ The whole truth about something, as in _We’re waiting to hear the lowdown on what happened after we left._ This term uses lowdown in the sense of “the basic or fundamental part.”  
-__the nitty-gritty__ :two::hammer:  
-__the rest is history__ Everyone knows how the rest of the story goes.  
-__there are plenty of (other) fish in the sea__  
-__thin-skinned__ Emotionally susceptible to or unable to ignore the verbal attacks or criticisms of others.  
-__think again__  
-__this minute__  
-__through and through__  
-__tight__  
-__tighten something up__  
-__time and (time) again__  
-__tip over__  
-__tipping point__  
-__to (one’s) name__  
-__to name (but) a few__  
-__top dog__ _ChatGPT-4 is still the top dog._  
-__touch on (something)__  
-__tough it out__ :dart: To persist through a difficult situation. _I’m amazed you toughed it out and went to school with such a high fever._  
-__trim the fat__ :dart: To excise or discard elements that are seen as superfluous or unnecessary.  
-__tug of war__  
-__turn over every stone__  
-__two a penny__ Very common, ordinary, or widespread.  
-__two-edged sword__ Something that can be at once beneficial and problematic; anything having or offering both good and bad aspects or outcomes.  
-__under fire__  
-__under scrutiny__  
-__under the gun__  
-__unheard of__  
-__up and running__ :two::hammer:  
-__up in the air__ Uncertain; subject to change.  
-__upbeat__ _informal_ Of, inspiring, or exuding cheerfulness, happiness, or optimism.  
-__walk a fine line between (something)__  
-__walk down the aisle__ To get married.  
-__wall off__  
-__war of attrition__  
-__wash (one’s) mouth out (with soap)__  
 __watershed moment__  
 __when pigs can fly__ At a point in time that will never come to pass. (Used to show skepticism or cynicism over some hypothetical situation or outcome.)  
 __whip out__  
