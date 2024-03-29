@@ -11402,7 +11402,7 @@ __melange__ _n_ :two: (mélange) A mixture. _Syn_ mishmash, farrago, hodgepodge,
 __meld<sup>1</sup>__ _v_ :two: /MELD/ __1__ To blend or merge. To blend or mix together. _The sauce cooks slowly, allowing the flavors to meld together._ __2__ [:scroll: From German melden (to announce).] To declare or make known. For example, in some card games, to declare or display a card or a combination of cards so as to score points.  
 __meld<sup>2</sup>__ _n_ __1__ A blend or merger. __2__ [:scroll: From German melden (to announce).] A card or a combination of cards declared or laid down to score points.  
 __melee__ _n_  
-__mellifluous__ _adj_ :two: /muh-LIFF-luh-wus/ Pleasing to the ear. _Syn_ mellisonant, dulcet, sweet _Her mellifluous voice could make him agree to anything._  
+__mellifluous__ _adj_ :three: /muh-LIFF-luh-wus/ Pleasing to the ear. _Syn_ mellisonant, dulcet, sweet _Her mellifluous voice could make him agree to anything._  
 __mellow__  
 __mellow<sup>1</sup>__ _adj_ :four::hammer: _Mellow flavor._ _A mellow vibe._  
 __mellow<sup>2</sup>__ _v_ :four: To make or become mellow; soften; mature.  
@@ -11426,8 +11426,8 @@ __menage__ _n_ A domestic establishment. _Syn_ household
 __menagerie__ _n_ :astonished::seven: /muh-NAJ-uh-ree/ Menagerie is used to refer to a collection of animals kept especially to be shown to the public, as well as a place where such animals are kept. It can also refer more broadly to any varied mixture. _The aviary featured a menagerie of exotic birds._ _The living room is eclectically furnished with a menagerie of garage sale finds._  
 __menageries__ _n_ _Lions were kept in the menageries._  
 __menarche__ _n_ :two: The initial onset of menstruation, usually occurring between the ages of 10 and 15.  
-__mendacious__ _adj_ Lying; untruthful. _Syn_ dishonest, deceptive, deceitful, duplicitous _She was more upset with the mendacious child for his dishonesty than his initial misbehavior._  
-__mendacity__  
+__mendacious__ _adj_ :dart::two: [:scroll: From Latin mendācium, _lie_] Lying; untruthful. _Syn_ dishonest, deceptive, deceitful, duplicitous _She was more upset with the mendacious child for his dishonesty than his initial misbehavior._  
+__mendacity__ _n_ :two::hammer: /mɛnˈdæs ɪ ti/  
 __mending__ _n_ Clothes and other articles that must be repaired: _We let the mending accumulate until Wednesday._  
 __menhir__ _n_ A tall upright megalith; found primarily in England and northern France. _Syn_ standing stone  
 __menial<sup>1</sup>__ _adj_ :two::hammer::mega: _Menial labor._  
@@ -11537,6 +11537,7 @@ __middle pulmonary vein__ _n_ _Role of right middle pulmonary vein in patients w
 __middle school__ _n_ :two: A school for students intermediate between elementary school and college; usually grades 9 to 12.  
 __Middle West__ _n_ :dart: Another name for the Midwest.  
 __middle-of-the-road__ _adj_ Standing for or following a course of action midway between extremes, esp. being neither liberal nor conservative in politics. _He is a middle of the road singer, and that’s a good thing._  
+__middlebrow__ _n informal_ [:scroll: Formed on the pattern of highbrow and lowbrow] One who is somewhat cultured, with conventional tastes and interests; one who is neither highbrow nor lowbrow.  
 __middleware__ _n_ :two::hammer:  
 __middling__ _adj_ :two: __1__ Of medium size, position, or quality. __2__ Mediocre. _Syn_ average _A middling academic career._  
 __midget race track__  
@@ -11604,7 +11605,7 @@ __mind__ _v_ _Mind the gap._
 __mind-blowing__ _adj_  
 __mind-boggling__ _adj_ :three: _informal_ Overwhelming; stunning: _mind-boggling prices._  
 __minder__ _n_ __4__ _slang_ Someone acting as a bodyguard, guard, or assistant, esp in the criminal underworld. :es: guardaespaldas  
-__mindful__  
+__mindful__ _adj_ :two::hammer::mega: /ˈmaɪnd fəl/  
 __mindset__ _n_  
 __mine__ _vt_ __5__ To delve into and make use of; exploit: _mine the archives for detailed information._  
 __minefield__ _n_ __2__ A situation that has many potential hazards or dangers.  
@@ -11677,7 +11678,7 @@ __mishap__ _n_ :mega::two::hammer:
 __mishmash__ _n_ :two::hammer:  
 __misinformation__ _n_ :four: False information that is spread, regardless of intent to mislead. Information that is incorrect.  
 __miskey__ _vt_ :dart::two: /ˌmɪsˈkiː/ (miskeyed) To key (something) incorrectly on a keyboard. _He mislaid his keys._  
-__mismatch__ _n_ :two::pencil2::hammer:  
+__mismatch__ _n_ :three::pencil2::hammer:  
 __misnomer__ _n_ :nine::m::pencil2: /miss-NOH-mer/ __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation _Peanut is one of the most famous misnomers, because peanuts are legumes, not true nuts._ __2__ The act of wrongly naming or designating, as in “calling complicated and varied climatic changes ‘global warming’ is something of a misnomer.” _To call this “neighborhood policing” would be a misnomer._  
 __miso__ _n_  
 __misogynist__ _adj_ :two: One who hates or mistrusts women.  
@@ -11687,6 +11688,7 @@ __misphrase__ _vt_
 __misplace__ _v_  
 __misprint__ _n_ :pencil2::two::hammer: _This is not a misprint._  
 __mispronounce__ _v_  
+__misquote__ _vt_ /mɪsˈkwoʊt/  
 __misread__ _vt_ 2. To misinterpret or misunderstand: _misread our friendly concern as prying._  
 __misremember__ _v_ To remember incorrectly.  
 __miss__ _n_ _A memory cache miss._  
@@ -11707,7 +11709,7 @@ __mistruth__ _n_ :two::hammer: (mistruths)
 __misuse<sup>1</sup>__ _n_ :two::hammer: _He had no history of alcohol misuse._  
 __misuse<sup>2</sup>__ _v_ :two::hammer: _It results in code that is easier to understand and harder to misuse._  
 __miter__ _n_  
-__mitigate__ _v_ /MIT-uh-gayt/ :four::hammer:  
+__mitigate__ _v_ /MIT-uh-gayt/ :five::hammer:  
 __mitt__ _n_  
 __Mitty__ _n_ /ˈmɪtɪ/ [:scroll: From Walter Mitty, a fictional character from a 1939 short story by James Thurber, _The Secret Life of Walter Mitty_] __a__ A fictional character given to grand and elaborate fantasies; daydreamer.  
 __mitzvah__ _n_ :two: /MITS-vuh/ [:scroll: From Hebrew mitzvah (commandment), from tziwwah (to command). Earliest documented use: 1723. Plural: mitzvahs or mitzvoth. The most familiar usage of the word may be in the terms bar mitzvah (of the age of commandment, for boys) and bat mitzvah (for girls). Jewish children are considered adults at the age of 13 (in some versions of Judaism, the age for girls is 12). This comes with rights and responsibilities. The bar and bat mitzvahs are observed with rituals, ceremonies, and celebrations.] __1__ A good deed. __2__ A duty, obligation, or commandment.  
@@ -11769,7 +11771,7 @@ __momo__ _n_ _(Tibetan cooking)_ A steamed dumpling filled with meat or vegetabl
 __monad__  
 __monarch__ _n_ :mega: /ˈmɒn ərk, -ɑrk/  
 __Monday__ _n_ :mega: /’möndi, -deI/  
-__mondegreen__ _n_ :four::dart: [:scroll: from the Scottish ballad _The Bonny Earl of Murray_, in which the line “laid him on the green” can be misheard as “Lady Mondegreen”] A series of words that result from the mishearing or misinterpretation of a statement or song lyric. For example, _I led the pigeons to the flag_ for _I pledge allegiance to the flag._  
+__mondegreen__ _n_ :five::dart: [:scroll: from the Scottish ballad _The Bonny Earl of Murray_, in which the line “laid him on the green” can be misheard as “Lady Mondegreen”] A series of words that result from the mishearing or misinterpretation of a statement or song lyric. For example, _I led the pigeons to the flag_ for _I pledge allegiance to the flag._  
 __money on the hoof__  
 __money__ _n_ :two::mega::hammer: /ˈmʌnɪ/  
 __moneyed__  
@@ -11872,6 +11874,7 @@ __mothball__ _v_ :six:hammer: (mothballed) _The reactor was shut down in 1976, a
 __mother hen__  
 __Mother Hubbard__ _n_ [:scroll: After Mother Hubbard, a character in the nursery rhyme “Old Mother Hubbard”.] A loose shapeless dress for a woman.  
 __mother-of-pearl__ _n_ :two::hammer: :es: nácar _Mother-of-pearl inlays._  
+__mothering__ _n_ The nurturing and raising of a child or children by a mother.  
 __motif__ _n_ :three::hammer:  
 __motion sickness__ _n_ :dart::two: Nausea and dizziness induced by motion, as in travel by aircraft, car, or ship. _For one grandson prone to motion sickness, I took some meclizine as well._ _Motion sickness pills._  
 __motion__ _n_ _Defense attorneys had filed motions._  
@@ -11974,6 +11977,7 @@ __muncher__ _n_
 __munchies__ _pl n_ _slang_ __1__ Food for snacking. __2__ A craving for snack foods. Often used with the: _an attack of the munchies._  
 __mundane__ _adj_ :six::hammer:  
 __mundify__ _vt_ /MUHN-duh-fy/ [:scroll: From Middle French mondefier , from Latin mundificare (to cleanse), from mundus (clean).] To wash, cleanse, or purify.  
+__mundivagant__  
 __Muni bus__  
 __munificent__ _adj_ :three: Very liberal in giving; generous. _Syn_ lavish, unsparing, unstinting  
 __munifience__ _n_ _obsolete_ A fortification.  
@@ -12026,7 +12030,7 @@ __muumuu__ _n_ A long loose dress that hangs free from the shoulders. A woman’
 __muzzle<sup>1</sup>__ _n_ :four: A muzzle is a guard that covers an animal’s mouth to keep it from biting. If your dog is aggressive, you might have to put a muzzle on her when you take her to the dog park. _The muzzle of the gun._  
 __muzzle<sup>2</sup>__ _v_  
 __Mx.__ _n_ A title of respect prefixed to a person’s surname: unlike Mr., Mrs., or Ms., it does not indicate gender and may be used by a person with any or no specific gender identity.  
-__myalgia__ _n_ :dart: /maɪˈæl dʒi ə, -dʒə/ Pain in the muscles; muscular rheumatism.  
+__myalgia__ _n_ :dart::two: /maɪˈæl dʒi ə, -dʒə/ Pain in the muscles; muscular rheumatism.  
 __mycoplasma__ _n_ Any of a group of very small microorganisms without cell walls, of the prokaryote class Mollicutes, that are a common cause of pneumonia and urinary tract infections.  
 __mycorrhiza__ _n_ (mycorhiza) An association of a fungus and a plant in which the fungus lives within or on the outside of the plant’s roots forming a symbiotic or parasitic relationship.  
 __myeloid__ _adj_ (Anatomy) Of or relating to the spinal cord or the bone marrow. _Myeloid leukemia._  
@@ -12128,6 +12132,7 @@ __navel__ _n_ :four: The depression in the center of the belly where the umbilic
 __navel-gazer__ _n_ (derogatory) One who engages in navel-gazing; a person who is introspective to the point of self-obsession. _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
 __navigate__ _v_ :two::hammer:  
 __Navy SEAL__ _n_  
+__nay__ _n_ __1__ A denial or refusal. __2__ A negative vote or voter.  
 __naysayer__ _n_ :four::hammer:  
 __ne plus ultra__ _n_ :two: /nay-plus-UL-truh/ Ne plus ultra refers to the highest point of development or success that something may achieve; it is a synonym of acme. The extreme or perfect point or state. _The new building is the ne plus ultra of theatrical design._ _The company’s latest electric car is being hailed as the ne plus ultra of automotive achievement._  
 __Neapolitan__ _adj, n_ :two::pencil2:  
@@ -12138,6 +12143,7 @@ __neat__ _adj_ :three::hammer: _Shots of whiskey, moonshine, vodka and cordial s
 __neatnik__ _n_ A very neat and tidy person.  
 __nebbish__ _n_ A person regarded as weak-willed or timid.  
 __nebula__ _n_ :two: /ˈnɛb yə lə/ A very large cloud of dust and gas that exists in outer space.  
+__nebulizer__ _n_  
 __nebulous__ _adj_ /NEB-yuh-lus/ Nebulous is often used as a synonym of indistinct or vague, but can also be used to refer to something that is related to or that resembles a nebula. _Daniel’s description of the film was so nebulous that I’m still not quite sure what it is about._  
 __necessary evil__  
 __necessary__ _adj_ /ˈne-sə-ˌser-ē/ :two::mega:pencil2:  
@@ -12206,6 +12212,7 @@ __nettlesome__ _adj_ Causing irritation or annoyance. _Syn_ annoying, bothersome
 __neural tube__ _n_  
 __neurobics__ _n_  
 __neuroblastoma__  
+__neurodiversity__ _n_ The diversity of brain function, encompassing variations from what is considered typical. Neurodivergence includes conditions like autism, ADHD, dyslexia, and others. It underscores that there is no single “normal” way the brain functions. The opposite of neurodivergent is neurotypical.  
 __neuropeptide__ _n_  
 __neuroses__ _n pl_ :three::hammer:  
 __neurotypical__ _adj, n_  
@@ -12217,7 +12224,7 @@ __New Hampshire__ _n_ /ˈhæmp ʃər, -ʃɪər/
 __New Jerseyan__  
 __New Jerusalem__ _n_ :two: __1__ _Christianity_ The final dwelling place of souls redeemed by Jesus. __2__ An ideal community on earth.  
 __New Orleans, Louisiana__ _n_ :mega: [Common popular pronunciations: /noo awr-lee-uhnz, noo awr-leenz/ Prevailing local pronunciation: /noo awr-luhnz/]  
-__newbie__ _n_ :two::hammer: /ˈnu bi, ˈnyu-/ (newbies) :es: principiante  
+__newbie__ _n_ :four::hammer: /ˈnu bi, ˈnyu-/ (newbies) :es: principiante  
 __newborn__ _n_  
 __newcomer__ _n_ One who has only recently arrived.  
 __newfangled__ _adj_ Newly come into existence or fashion, esp excessively modern.  
@@ -12338,7 +12345,7 @@ __non-committal__
 __non-communicable disease__  
 __non-denominational__ _adj_ Alternative spelling of nondenominational. _Non-denominational services._  
 __non-existent__ _adj_  
-__non-negotiable__ _adj_ :four: Not open to negotiation or discussion: _the policy is non-negotiable._  
+__non-negotiable__ _adj_ :five: Not open to negotiation or discussion: _the policy is non-negotiable._  
 __non-perishables__  
 __nonanswer__ _n_  
 __noncall__ _n_ (sports) A failure to make a call, such as by a referee. _He complained about noncalls._  
@@ -12496,6 +12503,7 @@ __oat__ _n_ :two::hammer: _After much deliberation, the US Food and Drug Adminis
 __oath__ _n_ __1__ A formal promise, especially one made in a court of law. __2__ Something offensive that you say when you are angry.  
 __oatmeal__ _n_ :three::hammer:  
 __obdurate__ _adj_ :two: /AHB-duh-rut/ Hardened against feeling; hardhearted. _Syn_ granitic, stony, flinty _The child’s misery would move even the most obdurate heart._  
+__obeisance__ _n_ /oh-BEE-sunss/  
 __obelisk__ _n_ :astonished: __2__ (Printing) The dagger sign (†), used especially as a reference mark. _Syn_ dagger, obelus  
 __obelus__ _n_ /OB-uh-luhs/ __1__ A sign (- or ÷) used in ancient manuscripts to indicate a spurious or doubtful word or passage. __2__ A sign (†) used to indicate reference marks. Also known as obelisk or dagger.  
 __obese__ _adj_ /əʊˈbiːs/ /oʊˈbis/  
@@ -12553,7 +12561,7 @@ __October__ _n_ [:scroll: Like its neighboring months September, November, and D
 __octogenarians__  
 __octopi__ _n pl_ A plural of octopus.  
 __octoroons__  
-__octothorpe__ _n_ The symbol (#).  
+__octothorpe__ _n_ :two: The symbol (#).  
 __odd__ _adj_ :three::hammer: _Bikes are allowed in City Creek Canyon on odd days._ __2__ Being in excess of the indicated or approximate number, extent, or degree. Often used in combination: _invited 30-odd guests._ _Fifty-odd years._  
 __oddball__ _n informal_ :six: A strange or eccentric person. :es: bicho raro  
 __oddity__ _n_  
@@ -12642,6 +12650,7 @@ __olio__
 __ollie__ _n_  
 __olykoek__ _n_ /ˈɒlɪˌkuːk/ (olicook) _Eastern US_ A doughnut or ring shaped cake.  
 __Omaha__ _n_ :mega:  
+__ombudsman__ _n_ :es: defensor del pueblo  
 __omega__ _n_ /oʊˈmi gə, oʊˈmeɪ-, oʊˈmɛg ə/ [:scroll: Middle English, from Greek ō mega, _large o (from its being a long vowel in Greek)_]  
 __omelet__ _n_ :two::hammer::mega: (omelette)  
 __omen__ _n_ :seven::hammer:  
@@ -12838,6 +12847,7 @@ __out of sorts__ _v-link phr_ :six: __1__ Somewhat ill. __2__ Grouching; irritab
 __out of the blue__  
 __out of the woods__  
 __out-and-out__ _adj_ Complete; in all ways. _He’s an out-and-out crook._  
+__out-of-body__ _adj_  
 __out-of-pocket__  
 __out-of-the-box__  
 __outage__ _n_ :five::hammer: _Power outages._  
@@ -12852,8 +12862,9 @@ __outcaste__ _n_
 __outcome__ _n_ :three::hammer::mega: (outcomes) _Blood thinners improve outcomes for hospitalized COVID-19 patients._  
 __outcrop__ _n_ :four::hammer:  
 __outcropping__ _n_ :three::hammer:  
-__outcry__ _n_ :nine: __1__ An exclamation or shout. __2__ A strong expression of public disapproval or anger. _Syn_ protest(s), protestation(s), complaints, howls of protest, objections _The public outcry over the bombing._  
+__outcry__ _n_ :nine::m: __1__ An exclamation or shout. __2__ A strong expression of public disapproval or anger. _Syn_ protest(s), protestation(s), complaints, howls of protest, objections _The public outcry over the bombing._  
 __outdated__ _adj_ _I took all the outdated and close-to-outdated items from the fridge and dumped them in the trash can._  
+__outdo__ _vt_  
 __outdoor__ _adj_ _8 pork sausages from British outdoor bred pigs (454g)._  
 __outdoorsy__ _adj_ _informal_  
 __outer space__  
@@ -12869,7 +12880,7 @@ __outgoing__ _adj_ :two::hammer:
 __outgrow__ _v_ :four: To grow bigger than or too big for something.  
 __outgrowth__ _n_ :two::hammer:  
 __outgunned__ _v_ :two::hammer:  
-__outhouse__  
+__outhouse__ _n_ :two: A small building detached from a house, such as a garden shed or sometimes a toilet.  
 __outing__ _n_ :nine::m: (outings) __1__ A short pleasure trip. _Country club outings._ __2__ _informal_ The act of revealing somebody’s homosexuality against their will.  
 __outlander__ _n_ :two: A person from a foreign country; a foreigner. _Syn_ alien, foreigner, noncitizen _As long as the number of outlanders remained small, the natives were friendly toward them._  
 __outlandish__ _adj_ :nine::m: /out-LAN-dish/ Looking or sounding bizarre or unfamiliar. _Outlandish_ describes things that are strikingly strange or unusual; in this use, it’s a synonym of _bizarre._ _Outlandish_ can also describe things, such as claims, rumors, and accusations, that go beyond reasonable limits or standards. _Silva’s outlandish attire._ _An outlandish claim._  
@@ -12897,6 +12908,7 @@ __outrace__ _v_ _Her expenditures continued to outrace his gifts._
 __outrage<sup>1</sup>__ _n_ /ˈaʊt reɪdʒ/  
 __outrage<sup>2</sup>__ _v_  
 __outrageous__ _adj_ :six::hammer: _Outrageous innovations._ _Outrageous stodgy._ _Embellishments from elegant to outrageous._  
+__outrank__ _v_  
 __outré__ _adj_ :two: Passing the bounds of what is usual or considered proper; unconventional; bizarre.  
 __outreach__ _n_ :six::hammer: _He’s an HIV outreach worker._ _Patient outreach._  
 __outrecuidance__ _n_ Excessive self-confidence or conceit.  
@@ -12924,12 +12936,13 @@ __outthink__ _v_
 __outvouch__  
 __outwear__ _n_  
 __outweigh__ _v_  
-__outwit__ _v_ (outwitted)  
+__outwit__ _vt_ :two::hammer: (outwitted)  
 __outwork__ _v_  
 __oval<sup>1</sup>__ _adj_ :two: Having the shape of an ellipse or ellipsoid. _Ford oval logo._  
 __oval<sup>2</sup>__ _n_ Anything that is oval in shape, such as a sports ground.  
 __over the moon__ _adj_ _British informal_ :two: Extremely happy; delighted. _We are over the moon._  
 __over-ear headphones__  
+__over-the-counter__  
 __over-the-hill__ _adj_ :two: __1__ Past one’s prime. _I’m over-the-hill for Passion._ __2__ Advanced in age.  
 __over-under__  
 __overachieve__  
@@ -12977,8 +12990,7 @@ __oversee__ _v_ :seven: To watch, supervise or manage something. _It’s John’
 __overseer__ _n_ _I’ve been targeted by the LinkedIn overseers._  
 __overshadow__ _v_ :two: (overshadowed) To render insignificant or less important in comparison.  
 __oversight__ _n_ :five::hammer: _An oversight board._ _Oversight committee._ _The oversight of risk leads to financial shortfall._  
-__overstate__ _vt_  
-__overstated__ _v_ :two::hammer:  
+__overstate__ _vt_ :four::hammer:  
 __overstep__ _vt_  
 __overstuffed__ _adj_ _Overstuffed sandwiches._  
 __overt__ _adj_ :two::hammer:  
@@ -13022,7 +13034,7 @@ __pacify__ _v_ :mega: /PASS-uh-fye/ The verb pacify has several related definiti
 __pack ice__ _n_ Floating ice that has been driven together into a single mass.  
 __pack__ _v_ :three::hammer: (packed) _Never pack items like medicine or valuables._ _Our stand at the Sydney convention is packed!_  
 __package peanuts__  
-__package__ _n_ :two::hammer::mega: /păk′ĭj/  
+__package__ _n_ :three::hammer::mega: /păk′ĭj/  
 __packtrain__ _n_ :two: A string of animals for transporting supplies and equipment.  
 __Pacu__ _n_ :astonished: A South American fresh-water fish.  
 __pad__ _vi_ :two: __1__ To go about on foot. __2__ To move or walk about almost inaudibly. _The cat was padding through the grass._  
@@ -13120,7 +13132,7 @@ __pang__ _n_ :five::hammer: (pangs) _A pang of loneliness._
 __Panglossian<sup>1</sup>__ _adj_ :two: /pan-GLOS-ee-uhn/ [:scroll: After Dr. Pangloss, a philosopher and tutor in Voltaire’s 1759 satire _Candide_. Pangloss believes that, in spite of what happens—shipwreck, earthquake, hanging, flogging, and more—“All is for the best in the best of all possible worlds.” The name is coined from Greek panglossia (talkativeness). The word pangloss is used in the same manner.] Blindly or unreasonably optimistic. Blindly or naively optimistic.  
 __Panglossian<sup>2</sup>__ _n_ One who is optimistic regardless of the circumstances.  
 __pangram__ _n_ :three: A sentence, verse, etc., that includes all the letters of the alphabet, such as _the quick brown fox jumps over the lazy dog._  
-__panhandle__ _v_  
+__panhandle__ _v_ :two::hammer:  
 __panhandling__  
 __panjandrum__ _n_ An important or influential (and often overbearing) person. _Syn_ dignitary, high muckamuck, high-up, very important person, VIP  
 __panko__ _n_  
@@ -13174,7 +13186,7 @@ __parallelism__ _n_ Parallelism is using grammatically similar phrases or senten
 __Paralympic Games__  
 __paralysis__ _n_ :two::hammer::mega: /pəˈræl ə sɪs/  
 __paralyze__ _v_ :two::pencil2::hammer: (paralyzed)  
-__parameter__ _n_ :mega:  
+__parameter__ _n_ :two::hammer::mega:  
 __paramount__ _adj_ :three::hammer: _The reliability of the weather station is paramount._ _It is of paramount importance._  
 __paramour__ _n_ :two::hammer:  
 __paranoid__ _adj_  
@@ -13192,6 +13204,7 @@ __parasternal__ _adj_ Adjacent to the sternum.
 __parasympathetic__  
 __paratransit__ _adj_ _Paratransit services._  
 __paratrooper__ _n_  
+__paravalvular__ _adj_ Surrounding or adjacent to a heart valve.  
 __parcel<sup>1</sup>__ _n_ :nine::m: __1__ Something wrapped up or packaged; a package. :es: paquete _Delivering mail and small parcels to countries around the world._ _Open up that parcel of books._ __2__ A plot of land, usually a division of a larger area. __3__ A quantity of merchandise offered for sale. __4__ A group or company; a pack: _“this youthful parcel of noble bachelors” (Shakespeare)._ _Never miss a visitor or parcel._  
 __parcel<sup>2</sup>__ _vt_ :four::mega::hammer:  
 __parched__ _adj_ :six: /pärcht/ __1__ Dried out from extreme heat: _parched land._ _The dryness will encompass parched California._ __2__ Roasted or dried: _parched rice._ _Quench your parched throat with a long tall cool Yard of Beer._ __3__ Very thirsty: _parched laborers._  
@@ -13199,9 +13212,9 @@ __Parcheesi__ _n_ :pencil2: A brand-name American adaptation of the Indian cross
 __parchment paper__ _n_ :camera:  
 __parchment__ _n_ :eight::astonished: __1__ The skin of a sheep or goat prepared as a material on which to write or paint. :es: pergamino _A parchment chart._ __2__ A written text or drawing on a sheet of this material. __3__ Paper made in imitation of this material.  
 __pard__  
-__pardon__ _v_ _Pardon my ignorance._  
+__pardon__ _v_ :two::hammer: _Pardon my ignorance._  
 __pare__ _v_ :three::hammer: (pares, pared)  
-__pareidolia__ _n_ The perception of a recognizable image or meaningful pattern where none exists or is intended, as the perception of a face in the surface features of the moon.  
+__pareidolia__ _n_ :two: The perception of a recognizable image or meaningful pattern where none exists or is intended, as the perception of a face in the surface features of the moon.  
 __parenthesis__ _n_ In rhetoric, parenthesis is an interruption used for clarity. Example: The audience, or at least the paying members of the audience, enjoyed the show.  
 __paresthesia__ _n_  
 __pariah__ _n_ :seven: A social outcast. _Syn_ castaway, leper, untouchable _The rumors of his traitorous actions were enough to make him a pariah among his peers, though nothing was ever proven._  
@@ -13216,7 +13229,7 @@ __parlance__ _n_ :two::hammer:
 __parlay__ _v_ :six: (parlayed) To turn (something) into something of greater value. _The young actor parlayed his popularity as a teen heartthrob into a successful film career._  
 __parley<sup>1</sup__ _n_ :five::hammer: _A peace parley._  
 __parley<sup>2</sup__ _v_ :two::hammer: _The Prince’s chief knights came under safe-conduct to parley in person._  
-__parliament__ _n_ :pencil2::two::hammer:  
+__parliament__ _n_ :pencil2::three::hammer:  
 __parlor__ _n_ :two: __1__ A room in a home for receiving visitors; living room. __2__ A shop or business establishment: _ice-cream parlor; beauty parlor._ __3__ A somewhat private room in a hotel, club, or the like for relaxation, conversation, etc.; lounge.  
 __parochial__ _adj_ :six: Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
 __parody__ _n_ Parody is an imitation of something with the intent to poke fun at it. Example: If Edgar Allen Poe had written this speech, it might have opened with “Here we are, weak and weary, gathered on a Monday dreary.”  
@@ -13263,6 +13276,7 @@ __paschal__ _adj_ /ˈpæskəl/ __1__ _Judaism_ Of or relating to Passover. __2__
 __pass out__ _phr v_ :three: To become unconscious.  
 __pass policy__  
 __pass up__  
+__pass__ _v_ __11__ To cease to exist; die. Often used with on: _The patient passed on during the night._  
 __passage__ _n_ :two::hammer: _The passage of three supplementary budgets this year._ _Natural events include severe weather, frontal passages, and earthquakes._  
 __passel__ _n_ :two: /PASS-ul/ A large number or amount of something. _A passel of ducks._  
 __passerby__ _n_ (passer-by) :three: Person who passes by casually or by chance. _They were mugging passerby._  
@@ -13310,7 +13324,7 @@ __patronizing__ _adj_ :two::hammer:
 __patronymic__  
 __patsy__ _n_ :two: /PAT-see/ One who is easily taken advantage of, by being deceived, unfairly blamed, or ridiculed.  
 __patter__  
-__pattern__ _v_ :three::hammer:  
+__pattern__ _vt_ :four: __1__ (often foll by: _after_ or _on_) To model. _Patterned after the Olympic Games, the Pan American Games are held every four years._ __2__ To arrange as or decorate with a pattern.  
 __patterned__ _adj_ _A patterned background._  
 __patterning__ _n_ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
 __patty__ _n_ :four::hammer: (patties) _Two beef patties topped with knockwurst._ _Falafel patties._ _Organic grass-fed hamburger patties._ _Fine art patties._  
@@ -13323,7 +13337,8 @@ __pavers__ _n_
 __pavilion__ _n_ :four::hammer:  
 __paving stones__  
 __paw__ _v_ :two::hammer: _A drunken master paws her._  
-__pawn__ _v_ _She pawned her jewelry._  
+__pawn<sup>1</sup>__ _n_ __2__ A person, group, etc, manipulated by another.  
+__pawn<sup>2</sup>__ _v_ _She pawned her jewelry._  
 __pax vobiscum__ _n_ _phr_ :two: /pæks vəʊˈbɪskʊm/ Peace be with you.  
 __pay dirt__ _n_ :two::hammer:  
 __pay off__ _v_  
@@ -13347,6 +13362,7 @@ __peak__ _v_
 __peaks and valleys__  
 __peal<sup>1</sup>__ _n_ :two::hammer: _Jimmy could hear the peal of bells._  
 __peal<sup>2</sup>__ _v_ :three::hammer: _Pealing bells._ _The bells of Notre Dame pealed._ _Bells pealed._  
+__peanut allergy__ _n_  
 __peanut butter__ _n_ A paste made from ground roasted peanuts. _Organic peanut butter cups._  
 __peanut candy__ _n_ Candy containing whole roasted peanuts; a piece of this. _M&M peanut candy._  
 __pear martinis__  
@@ -13369,7 +13385,7 @@ __pecuniary__ _adj_ :three::hammer: _Pecuniary benefits._
 __pedagogue__ _n_ :mega:  
 __pedal boat__ _n_  
 __pedal pushers__ _n pl_  
-__pedantic__ _adj_ :two: Characterized by a narrow, often ostentatious concern for book learning and formal rules. _Syn_ donnish, academic _Pedantic and hypercritical, meddlesome and fault-finding, he was a terror to the clerks under him._  
+__pedantic__ _adj_ :three: /pəˈdæn tɪk/ /pih-DAN-tik/ Characterized by a narrow, often ostentatious concern for book learning and formal rules. _Syn_ donnish, academic _Pedantic and hypercritical, meddlesome and fault-finding, he was a terror to the clerks under him._  
 __peddle__ _v_ :four: (peddling) __2__ _informal_ To seek to disseminate; give out: _peddling lies._  
 __pedestal__ _n_  
 __pedestrian__ _adj_ :dart::six: (pedestrians) Lacking in vitality, imagination, or distinction. _Syn_ prosaic _His style is so pedestrian that the book is really boring._  
@@ -13392,7 +13408,7 @@ __peer<sup>1</sup>__ _n_ (peers)
 __peer<sup>2</sup>__ _v_ :two::hammer: (peered, peering) _Peering into their crystal balls._  
 __peered__ _adj_  
 __peerless__ _adj_ :two::hammer: _Peerless scenic beauty._  
-__peeved__ _v_  
+__peeve__ _vt_ :two: To cause to be annoyed or resentful. _Syn_ annoy _It’s maddening for those of us who are peeved by such things._  
 __peevishly__ _adv_ :two::hammer:  
 __peewee__ _n_ :two::hammer:  
 __peg__ _v_ (pegged) :three::hammer: _Pegged as a uniform thug._  
@@ -13419,14 +13435,14 @@ __pendant__ _n_ :four::hammer: _The pendant lamps._ :es: colgante
 __pendent__ _adj_ :astonished: Hanging down; projecting. _Syn_ dangling, overhanging, suspended _An examination of the cave revealed nothing but hundreds of sleeping bats pendent from the ceiling._  
 __penetralia__ _n pl_ :two: [:scroll: From Latin penetralia, from penetrare (to penetrate), from penitus (interior) + intrare (to enter).] __1__ The innermost parts of a building, especially the sanctuary of a temple. The innermost parts or recesses. __2__ The most private or secret parts; recesses: _the penetralia of the soul._  
 __penitent__ _adj_ Feeling or expressing remorse for misdeeds.  
-__penitentiary__  
+__penitentiary__ _n_ :two::hammer:  
 __penitents__ _n_  
 __penknife__ _n_ :two::hammer:  
 __pennant races__  
 __pennant__ _n_ :four: /PEN-uhnt/ __1__ A long tapering flag. __2__ A flag symbolizing a sports championship or another achievement. __3__ A victory, championship, etc.  
 __penned hogs__  
 __penned up__  
-__penny candy__ _n_ Inexpensive candy originally costing a penny apiece.  
+__penny candy__ _n_ :two: Inexpensive candy originally costing a penny apiece.  
 __penny-pinch__ _v_ Spend money frugally; spend as little as possible. _Syn_ nickel-and-dime _Penny-pinching conservatives._  
 __Pennywise__ _n_  
 __pennyworth__ _n_ __3__ A bargain: _got my pennyworth at that price._  
@@ -13478,7 +13494,7 @@ __perfidy__ _n_ :three: Deliberate breach of faith; calculated violation of trus
 __performance__ _n_ _It denigrates your performance considerably._  
 __performative__ _adj, n_ :three::hammer:  
 __perfunctory__ _adj_ :nine::dart: /per-FUNK-tuh-ree/ [:scroll: Perfunctory is from Latin perfunctus, from perfungi “to get through with, perform,” formed from the Latin prefix per- “completely” plus fungi “to perform.”] Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it’s roadkill and say nothing about it but a perfunctory “thank you,” you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it’s usually done out of habit. Something that is done without energy or enthusiasm, as a duty or out of habit. _Clearly exhausted after a long day on her feet, our server gave us only a perfunctory greeting before taking our drink orders._ _She gave me a little nod and a perfunctory smile._  
-__pergola__ _n_  
+__pergola__ _n_ :two: An arbor or a passageway of columns supporting a roof of trelliswork on which climbing plants are trained to grow. _Syn_ arbor, bower  
 __periconceptual__ _adj_ Of, relating to, or done during the period from before conception to early pregnancy: _periconceptional folic acid supplementation._  
 __perigee__ _n_ [:scroll: from peri- + _gaia_ earth] (Astronomy) The point in its orbit around the earth when the moon or an artificial satellite is nearest the earth. Compare apogee.  
 __peril__ _n_ :two::hammer: (perils)  
@@ -13506,7 +13522,7 @@ __perk__ _v_ _The scam perked on a back burner._
 __Perkins booth__ _n_  
 __perks__  
 __perky__ _adj_ _You should be perky until last call._  
-__permafrost__ _n_ :two::hammer:  
+__permafrost__ _n_ :three::hammer:  
 __permeable__ _adj_ /PER-mee-uh-bul/  
 __permeate__ _v_  
 __permed__  
@@ -13521,7 +13537,7 @@ __perpetuity__ _n_ /per-puh-TOO-uh-tee/ A state of continuing forever or for a v
 __perquisite__ _n_ :three: /PER-kwuh-zut/ A payment or profit received in addition to a regular wage or salary, especially a benefit expected as one’s due. _Syn_ fringe benefit, perk  
 __perry__ _n_ :astonished: Alcoholic drink made of pears, similar in taste to cider.  
 __perseverate__ _v_  
-__persnickety__ _adj_ :dart::two::hammer:  
+__persnickety__ _adj_ :dart::three::hammer:  
 __persona__ _n_ :three: In Latin, _persona_ originally meant “mask.” _That’s my stage persona._  
 __personal best__ _n_ Personal record, also called “personal best” or “PB,” an athlete’s best performance in a particular event.  
 __personification__ _n_ Personification is the act of giving human elements to non-human things. Example: The beautiful valley spread its arms out and embraced us.  
@@ -13540,7 +13556,7 @@ __Peruvian__
 __pervasive__ _adj_ :four::hammer:  
 __pesky__ _adj_ :three::hammer:  
 __pessary__ _n_  
-__pester__ _vt_ :four::hammer: (pestered)  
+__pester__ _vt_ :five::hammer: (pestered)  
 __pestiferous__ _adj_  
 __pestilence__ _n_ :three: A usually fatal epidemic disease, especially bubonic plague. _Syn_ plague  
 __pet name__ _n_  
@@ -13562,7 +13578,7 @@ __petrous__
 __petted__  
 __petticoat__  
 __pettifog__ _v_  
-__pettifogger__ _n_ A petty, quibbling, unscrupulous lawyer. _Syn_ shyster _He was by all accounts a pettifogger, and judges dreaded having him appear in their courtrooms._  
+__pettifogger__ _n_ :two: A petty, quibbling, unscrupulous lawyer. Shyster; a lawyer whose methods are underhanded or disreputable. _Syn_ shyster _He was by all accounts a pettifogger, and judges dreaded having him appear in their courtrooms._  
 __petty cash__ _n_ :two: A small cash fund kept on a firm’s premises for the payment of minor incidental expenses.  
 __petty officer__ _n_ :three::hammer:  
 __petty__ _adj_ :dart::three: Not important and not worth giving attention to. _A petty argument resulted in her son’s murder._ __2__ Complaining too much about things that are not important. _Don’t be so petty._  

@@ -198,56 +198,6 @@ __measles__ _n_ :mega:
 __meek__ _adj_  
 __megillah__ _n_ /muh-GHIL-uh/  
 __melancholy__  
-__mellifluous__  
-__mendacious__ _adj_ [:scroll: From Latin mendācium, _lie_]  
-__mendacity__ _n_ /mɛnˈdæs ɪ ti/  
-__middlebrow__ _n informal_ [:scroll: Formed on the pattern of highbrow and lowbrow] One who is somewhat cultured, with conventional tastes and interests; one who is neither highbrow nor lowbrow.  
-__mindful__ _adj_ :mega: /ˈmaɪnd fəl/  
-__mismatch__ _n_ :pencil2:  
-__misquote__ _vt_ /mɪsˈkwoʊt/  
-__mitigate__  
-__mondegreen__ _n_  
-__mothering__ _n_ The nurturing and raising of a child or children by a mother.  
-__mundivagant__  
-__myalgia__  
-__nay__ _n_ __1__ A denial or refusal. __2__ A negative vote or voter.  
-__nebulizer__ _n_  
-__neurodiversity__ _n_ The diversity of brain function, encompassing variations from what is considered typical. Neurodivergence includes conditions like autism, ADHD, dyslexia, and others. It underscores that there is no single “normal” way the brain functions. The opposite of neurodivergent is neurotypical.  
-__newbie__  
-__non-negotiable__ _adj_ Not open to negotiation or discussion: _the policy is non-negotiable._  
-__obeisance__ _n_ /oh-BEE-sunss/  
-__octothorpe__ _n_  
-__ombudsman__ _n_ :es: defensor del pueblo  
-__onus__  
-__out-of-body__ _adj_  
-__outcry__ _n_  
-__outdo__ _vt_  
-__outhouse__ _n_ A small building detached from a house, such as a garden shed or sometimes a toilet.  
-__outrank__ _v_  
-__outspoken__  
-__outwit__ _vt_  
-__over-the-counter__  
-__overstate__ _vt_  
-__package__ _n_ :mega:  
-__panhandle__ _v_  
-__paramedic__  
-__paravalvular__ _adj_ Surrounding or adjacent to a heart valve.  
-__pardon__ _v_  
-__pareidolia__ _n_ The perception of a recognizable image or meaningful pattern where none exists or is intended, as the perception of a face in the surface features of the moon.  
-__parliament__ _n_  
-__pass__ _v_ __11__ To cease to exist; die. Often used with on: _The patient passed on during the night._  
-__pattern__ _vt_ __1__ (often foll by: _after_ or _on_) To model. _Patterned after the Olympic Games, the Pan American Games are held every four years._ __2__ To arrange as or decorate with a pattern.  
-__pawn__ _n_ __2__ A person, group, etc, manipulated by another.  
-__peanut allergy__ _n_  
-__pedantic__ _adj_ /pəˈdæn tɪk/ /pih-DAN-tik/  
-__peeve__ _vt_ To cause to be annoyed or resentful. _Syn_ annoy _It’s maddening for those of us who are peeved by such things._  
-__penitentiary__ _n_  
-__penny candy__ _n_ Inexpensive candy originally costing a penny apiece.  
-__pergola__ _n_ An arbor or a passageway of columns supporting a roof of trelliswork on which climbing plants are trained to grow. _Syn_ arbor, bower  
-__permafrost__ _n_  
-__persnickety__ _adj_  
-__pestered__  
-__pettifogger__ _n_ Shyster; a lawyer whose methods are underhanded or disreputable.  
 __phytonutrient__  
 __piano__ _n_ (e.g, portion of Formule 1 track’s turn)  
 __picket line__ _n_  
