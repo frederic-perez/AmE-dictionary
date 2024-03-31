@@ -3,6 +3,7 @@ __advisory__ _n_
 __amass__  
 __ambivalent__ _adj_  
 __ameliorate__ _v_  
+__amid__ _prep_  
 __amulet__ _n_ _Syn_ charm, fetish, talisman, juju  
 __aphasia__ _n_  
 __assess__ _v_  
@@ -28,6 +29,7 @@ __conga__ _n_ __3__ A conga drum.
 __controversy__ _n_ :mega:  
 __conversant__ _adj_ Well informed about or knowing thoroughly. _Syn_ familiar  
 __copyrighter__ _n_  
+__crime of passion__  
 __crocus__ _n_  
 __cross section__ _n_ :dart::two: (cross-section) A section formed by a plane cutting through an object, usually at right angles to an axis.  
 __cross-sectional__ _adj_  
@@ -36,9 +38,12 @@ __daffodil__ _n_ /ˈdæf ə dɪl/ :es: narciso
 __debris__ _n_ :mega:  
 __decennary__ _n_ A period of 10 years. _Syn_ decade  
 __deepfake__ _n_ /DEEP-fayk/ [:scroll: A combination of deep learning + fake. Coined by a user of the Reddit website.] Digitally manipulated images, video, or audio that make someone appear to do or say something they did not.  
+__delirium__ _n_  
+__derogation__ _n_ A communication that belittles somebody or something. _Syn_ disparagement, depreciation  
 __devil__ _n_ /ˈdɛv əl/  
 __dire__ _adj_  
 __dot-connect__ _vi_ /DOT-kuh-nekt/ [:scroll: From the expression “to connect the dots”. From puzzles in which a line is drawn between a sequence of numbered dots to reveal a picture.] To make connections between different pieces of information in order to reach a conclusion.  
+__doubtless__ _adj, adv_  
 __downfall__ _n_  
 __downturn__ _n_  
 __duende__  
@@ -47,6 +52,7 @@ __eclipse__ _vt_ /ɪˈklɪps/
 __efface__ _vi_ /i-FAYS/ To erase or to make inconspicuous.  
 __elusive__  
 __emulate__ _v_ /EM-yuh-layt/  
+__end stage__ _adj_ (end-stage, endstage) The late, fully developed phase of a disease.  
 __envision__ _vt_ :two::hammer:  
 __equinox__  
 __espouse__ _vt_ __1__ To adhere to or advocate: espoused a contrarian viewpoint.  
@@ -72,6 +78,7 @@ __flehmen__ _n_ :camera: /ˈfleɪmən/ A curling of the upper lip and raising of
 __flop__ _v_ __3__ _informal_ To fail utterly: _The play flopped._  
 __flounder__ _vi_  
 __flywheel__ _n_  
+__foil__ _vt_ _A foiled attack._  
 __footloose__ _adj_ /FUUT-loos/ Free to go or do as one pleases without concerns or commitments.  
 __foreclosure__  
 __form factor__  
@@ -103,7 +110,9 @@ __glean__ _v_ :two::hammer: :es: espigar; recoger
 __global boiling__ _n_  
 __globetrotter__ _n_  
 __gloss__ _n_  
+__goad__ _n_ __2__ An agent or means of prodding or urging; a stimulus.  
 __godfather__ _n_ __3__ _Slang_ [:scroll: From the movie _The Godfather_, 1972] The leader of an organized crime family.  
+__Good Friday__  
 __gorgeous__  
 __gratuitous__ _adj_  
 __greedflation__ _n_  
@@ -141,6 +150,7 @@ __hough<sup>2</sup>__ _n_ :mega: /hok/ The joint in the hind leg of a quadruped 
 __hourlong__ _adj_  
 __huckster__ _n_  
 __humanitarian corridor__ _n_  
+__humanlike__ _adj_  
 __hunger strike__ _n_ A voluntary fast undertaken as a means of political protest, as by a prisoner.  
 __hyperbole__ _n_ :mega: /hye-PER-buh-lee/  
 __Ides of March__ _n_ The 15th of March in the Ancient Roman calendar, on which day Julius Caesar was assassinated.  
@@ -160,6 +170,7 @@ __infelicific__
 __inferrer__ _n_  
 __inflamed__ _adj_ /ɪnˈfleɪmd/ Swollen, red, and painful as a result of disease or injury.  
 __ingurgitate__ _v_ To swallow greedily or in excessive amounts; gulp.  
+__INRI__  
 __insider__ _n_ __2__ One who has special knowledge or access to confidential information.  
 __insipid__ _adj_ __2__ Lacking qualities that excite, stimulate, or interest; dull.  
 __instrumental__ _adj_  
@@ -171,12 +182,14 @@ __inveterate__ _adj_ /in-VET-uh-rut/
 __invigorate__ _vt_  
 __irk__ _vt_ /ɜrk/ To irritate, annoy, or exasperate.  
 __ischemia__ _n_  
+__Istambul__ _n_ :mega:  
 __jalopy__  
 __jamboree__ _n_ A noisy celebration. _Syn_ gala, blowout  
 __jeer__ _n, v_  
 __jellyfish__ _n_ :es: medusa  
 __jeopardize__ _vt_ _Syn_ endanger  
 __jeopardy__ _n_ /JEP-er-dee/  
+__job action__ _n_  
 __juvenile__ _adj, n_  
 __kayfabe__  
 __knee-deep__ _adj_ :dart: __3__ Deeply occupied or involved: _is knee-deep in work._  
@@ -184,6 +197,7 @@ __kvell__ _n_ /kvɛl/ _slang_
 __lackluster__ _n_ A lack of brilliance or vitality.  
 __landscaper__ _n_ A landscape gardener.  
 __law of large numbers__  
+__legal action__  
 __livelihood__ _n_  
 __lofty__  
 __long view__ _n_ The consideration of events or circumstances likely to occur in the future.  
@@ -198,6 +212,7 @@ __measles__ _n_ :mega:
 __meek__ _adj_  
 __megillah__ _n_ /muh-GHIL-uh/  
 __melancholy__  
+__passing__ _adj_ __2__ Of brief duration; transitory: _a passing fancy._  
 __phytonutrient__  
 __piano__ _n_ (e.g, portion of Formule 1 track’s turn)  
 __picket line__ _n_  
@@ -211,17 +226,21 @@ __plethora__ _n_ :two::hammer::mega: /ˈplɛθərə/
 __plumb__ _adj, adv, n, v_  
 __poacher__ _n_  
 __pollinosis__ _n_ A seasonal rhinitis resulting from an allergic reaction to pollen. _Syn_ hay fever  
+__posit__ _v_  
 __prevail__  
 __prink__  
 __puberty blocker__ _n_ Any drug used to postpone puberty in children.  
 __pugnacious__  
 __pulse__ _n_ __1__ The edible seeds of certain pod-bearing plants, such as lentils and chickpeas. :es: legumbre __2__ A plant yielding these seeds.  
+__rebuke__ _v_  
 __refurbish__ _v_ /rih-FER-bish/ To refurbish something is to brighten or freshen it up, or to repair and make improvements to it. _The store refurbishes and sells computers that can often meet the needs of those who don’t need the latest technology._  
 __roster__ _n_ A list, especially of names. _Syn_ roll _The spy’s mission was to compile a roster of officials amenable to bribery._  
+__row__ _n_ _School principal quits after hijab row._  
 __sanguine__  
 __sanitation__ _n_ __2__ The disposal of sewage and waste.  
 __scion__ _n_  
 __scurrilous__ _adj_ /SKUR-uh-lus/  
+__secularism__ _n_  
 __secure__ _vt_ __5__ To get possession of; acquire: _secured a job._  
 __seedling__ _n_ A young plant, especially one that grows from a seed, rather than from a cutting, for example.  
 __sham__ _n_  
@@ -231,13 +250,17 @@ __short-lived__
 __sidestep__ _v_  
 __smidgen__ _n_ A very small quantity or portion; a bit or mite. _Syn_ whit, iota, scintilla, shred, tittle  
 __snit__ _n_  
+__sobering__ _adj_  
 __solace__ _n_ :mega:  
 __spelunker__ _n_ One who explores caves chiefly as a hobby; a caver. _Syn_ potholer, speleologist  
 __spray paint__ _n_ Paint in an aerosol container for spraying onto surfaces.  
 __squalid__ _adj_ :astonished:  
+__stiff__ _adj_ _A stiff sentence._  
+__stigma__ _n_  
 __stimulus__  
 __streamline__ _vt_  
 __supercalifragilisticexpialidocious__ _n_ The word is a compound word, and said by Richard Lederer in his book _Crazy English_ to be made up of these words: super- “above,” cali- “beauty,” fragilistic- “delicate,” expiali- “to atone,” and -docious “educable,” with all of these parts combined meaning ”Atoning for educability through delicate beauty.”  
+__swear jar__ _n_ A jar into which anybody who utters a profanity is obliged to drop some money.  
 __takeaway__ _n_  
 __thrombolysis__  
 __thwart__ _v_  
@@ -249,13 +272,19 @@ __ulterior__ _adj_ /ul-TEER-ee-er/ Ulterior describes things (usually motives, o
 __unbecoming__ _adj_  
 __uncultured__ _adj_ Not cultured or cultivated. _Syn_ artless, uncultivated  
 __underpin__ _vt_  
+__unfazed__  
 __unfold__ _v_ :two::hammer:  
+__unfolding__ _n_ A developmental process.  
+__unnerving__  
 __unprecedented__ _adj_ Having no previous example.  
+__untapped__ _adj_  
 __unwavering__ _adj_  
+__vigil__ _n_  
 __vigorous__ _adj_ /ˈvɪg ər əs/  
 __vilify__ _vt_  
 __vitriolic__  
 __watch list__ _n_ A list of people or things that are being closely watched because they are likely to do or experience bad things in the future. _The animals are on a watch list of species that could become extinct soon._  
+__weightless__  
 __weltanschauung__ _n_ A German word meaning world view, used to mean someone’s philosophy of life. _Many people disagree with the writer’s personal Weltanschauung, but most can appreciate the quality and thoughtfulness of her work._  
 __whelm<sup>1</sup>__ _vt_ /hwelm, welm/ __1__ To submerge. __2__ To overcome; overwhelm.  
 __whelm<sup>2</sup>__ _n_ An overwhelming or engulfing quantity of something.  

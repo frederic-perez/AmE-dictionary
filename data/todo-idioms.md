@@ -1,7 +1,10 @@
 __(I’m) not gonna lie__  
 __(it’s) good to see you (again)__  
 __(one’s) finest hour__  
+__(one’s)/the best bet__ The action or idea that is most likely to be successful.  
+__(You) got it?__  
 __a bad rap__  
+__a badge of honor__ Something that one considers a point of personal pride. Sometimes used in relation to something that might typically be considered a negative trait or aspect.  
 __a balancing act__  
 __a card up (one’s) sleeve__  
 __a heavy heart__ A state of profound dejection, depression, or grief. _It is with a heavy heart that we announce the passing of our beloved father._  
@@ -13,6 +16,7 @@ __at the end of the day__
 __bag__ __3__ _v_ To get or obtain something. _Hey, when you go to that event, be sure to bag some cupcakes for us!_ _The Browser Company, the brains behind Arc, just bagged $50M._  
 __ballpark figure__  
 __beg the question__  
+__big fat__ __1__ Absolute, total; unadulterated. _You are a big fat slob, do you know that?_ __2__ Huge or obscenely large. _Look at that big fat spider. Yuck!_  
 __big name__  
 __blind spot__  
 __bottom line__  
@@ -39,6 +43,7 @@ __downtime__
 __draw on__  
 __dry run__ :two: A practice session or test designed to identify and correct possible problems. _Let’s do a couple dry runs of your speech so you feel totally comfortable with it for tomorrow’s ceremony._  
 __dupe__ _v_ __1__ To deceive or trick one. _The student tried to dupe me with a letter on which he’d forged his mom’s signature._  
+__dust off__  
 __dynamic duo__ _cliché_ Two people often paired together whose unique traits, when combined, usually result in success or otherwise positive results.  
 __ear ringing__  
 __echo chamber__  
@@ -52,9 +57,11 @@ __Faustian bargain__ An agreement, bargain, or deal in which a person sacrifices
 __feel the heat__ __2__ To deal with or come up against intense pressure or hostility.  
 __ferret out__ To discover or retrieve something, usually with careful effort. A noun or pronoun can be used between “ferret” and “out.” _Now that I’m a successful actress, I’m worried about what the media will ferret out about my tawdry past._  
 __fever pitch__ A state of great excitement or turmoil.  
+__fight a losing battle__  
 __fill up__ :two::hammer:  
 __finagle__  
 __fishing expedition__  
+__fit the bill__  
 __five o’clock shadow__  
 __flag__ __2__ _v_ _slang_ To fail something. _You better study hard, or you’ll flag this exam._  
 __flat-out__  
@@ -82,6 +89,7 @@ __fuzz man__ _slang_ The police.
 __fuzz__ _slang_ The police. _Come on, we’ve got to get out of here before the fuzz show up and bust us!_  
 __game face__ __2__ An expression of stoicism intended to mask one’s emotions or intentions. _John put his game face on as soon as I started to break up with him, so I can’t really tell how he took the new._  
 __game__  
+__game-changer__  
 __get (something) in order__ __3__ To arrange or resolve something so that it is in the most proper, efficient state possible. _They brought in a consultant to help get the project in order._  
 __get a/the nod (for something)__  
 __get done__  
@@ -90,6 +98,7 @@ __get into it__
 __get it (all) together__  
 __get on (one’s) nerves__ To irritate, grate on, or exasperate one.  
 __get past (someone or something)__  
+__get the picture__  
 __get wind of (something)__  
 __ghost__ _slang_  
 __ghosting__ _slang_  
@@ -103,6 +112,7 @@ __go big or go home__ _expression_ Either do something to its fullest extent or 
 __go down the rabbit hole__  
 __go down the toilet__ To fail; to be ruined or destroyed; to be squandered or wastefully discarded.  
 __go into overdrive__ To start working very hard or quickly.  
+__go south__  
 __go to hell in a handcart__ To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin. _With this new president in office, our country is going to go to hell in a handcart!_  
 __go with (someone or something)__  
 __grapple with (someone or something)__  
@@ -118,6 +128,7 @@ __hogwash__
 __hold (one’s) nose__ __3__ By extension, to do something in spite of its unpleasant or illicit nature. _I don’t want to get fired, so I guess I’ll just have to hold my nose and do what he asks._  
 ‌__hold (one’s) nose__ To reluctantly overcome one’s revulsion.  
 __home to (something)__ A place where something is commonly found. _The wetland is home to a variety of wildlife, especially birds._  
+__How so?__ Please explain.  
 __howl at (someone or something)__  
 __humblebrag__  
 __hush money__  
@@ -139,6 +150,7 @@ __in concert with (someone)__ Together with someone; in cooperation with someone
 __in full swing__  
 __in hot water__ Having provoked or incited anger, hostility, or punishment against oneself; in a troublesome or difficult situation, especially that which will result in punishment or reprisal. _I was in a bit of hot water with Janice last night when she found out I went to the movies instead of cleaning out the garage._  
 __in jeopardy__ In danger or at risk; imperiled.  
+__in support of__ __1__ In a way that shows approval of (something); in favor of (something). _A majority voted in support of the bill._ __2__ In order to support (something). _He presented evidence in support of his hypothesis._  
 __in tears__  
 __in the (grand) scheme of things__ In the long term; in the complete picture of something.  
 __in the bag__ Achieved or won almost as a certainty.  
@@ -160,7 +172,11 @@ __keep up__
 __king of the castle__ The most powerful, successful, or authoritative person in a group or organization.  
 __kitchen-sink__ Showing or pertaining to the lives of common, everyday people. (Always used before a noun.)  
 __knock it off__  
+__last-minute__  
 __latch onto (someone or something)__  
+__lay bare (something)__ To divulge, explain, or reveal something not previously known publicly.  
+__lay the groundwork (for something)__ To create or prepare the basics or essential foundation (for something); to pave the way (for something).  
+__life, the universe, and everything__ The question that pan-dimensional space-beings asked the computer Deep Thought in Douglas Adams’s book, _The Hitchhiker’s Guide to the Galaxy._ The computer took millions of years and came up with the answer 42. _Balancing risks is life, the universe, and everything._  
 __live up to (something)__  
 __living proof__  
 __loosen up__  
@@ -198,8 +214,10 @@ __off the hook__
 __off-kilter__  
 __oh boy__  
 __old school__  
+__on (one’s) watch__  
 __on a daily basis__ Once or more each day.  
 __on a mission__ :three::hammer:  
+__on a roll__  
 __on the back burner__ Of a low priority; given less or little thought or attention; postponed or suspended.  
 __on the contrary__  
 __on the lookout__ :two: Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
@@ -246,7 +264,9 @@ __revolving door__
 __ride (on) a wave of (something)__ To enjoy the advantage of or continue to benefit from a situation that is successful, fortunate, trendy, etc.  
 __rig__ __1__ _vt_ To arrange or tamper with the results of something. _Somebody rigged the contest so no one got first prize._  
 __ring hollow__ To sound or give the sense of being false, insincere, or not genuine. _The statements that followed made her apology ring hollow._  
+__ripple effect__  
 __road ahead__  
+__rock bottom__ The absolute lowest or worst point.  
 __roll out__  
 __roll with it__ To adapt to a situation despite unexpected circumstances or challenges.  
 __rue the day (that something happened)__ To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
@@ -259,11 +279,13 @@ __running high__ [for feelings] To be in a state of excitement or anger. _Feelin
 __scavenger hunt__  
 __seems about right__ A phrase used in English to express agreement with something that has been said or to indicate that something appears to be generally accurate.  
 __sell like hot cakes__  
+__send a message__ To emphasize or make a clear statement of one’s position.  
 __send the wrong message__ To do or say something that communicates a meaning different or contrary to what one desires, either implicitly or explicitly.  
 __set (someone or oneself) up for (something)__  
 __set sail__ To embark on a journey on water in a boat (not necessarily one with sails).  
 __set the tone__  
-__shell out__ To pay a sum of money, especially one that seems exorbitant or unfair. A noun or pronoun can be used between “shell” and “out” to specify the amount being paid.  
+__shed (some) light on (something)__  
+__shell out__ :two: To pay a sum of money, especially one that seems exorbitant or unfair. A noun or pronoun can be used between “shell” and “out” to specify the amount being paid.  
 __shy away (from someone or something)__  
 __simply put__  
 __sink or swim__  
@@ -279,8 +301,11 @@ __soak in__
 __soccer mom__  
 __soul searching__  
 __sound the alarm__ __2__ To alert other people about something dangerous, risky, or troublesome.  
+__speak (one’s) mind__  
 __spill the tea__ :two::hammer:  
 __spray and pray__ __1__ _informal_ To dispense anything (such as bullets or advertising) in an uncoordinated manner, hoping to reach the desired target through luck. __2__ The act of blindly firing an automatic weapon with the intent of potentially hitting the target; tends to be ineffective.  
+__stand on (one’s) own (two) feet__ :dart:  
+__stay strong__  
 __steal the show__  
 __step in__  
 __stick with (someone or something)__  
@@ -295,10 +320,13 @@ __tack on__
 __take (something) with a dash of salt__  
 __take a deep dive__  
 __take a hit__ :dart:  
+__take a leap of faith__  
 __take center stage__  
 __take home__  
 __take issue__ :two: To strongly disagree with or take offense at something.  
+__the faint of heart__  
 __watershed moment__  
+__weigh in__ :dart::two: __3__ To give one’s opinion or analysis of something during a discussion. _Karen, you haven’t weighed in yet. What’s your take on this?_  
 __when pigs can fly__ At a point in time that will never come to pass. (Used to show skepticism or cynicism over some hypothetical situation or outcome.)  
 __whip out__  
 __whip up__  
