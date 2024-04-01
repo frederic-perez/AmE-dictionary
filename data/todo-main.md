@@ -1,33 +1,3 @@
-__abet__ _vt_  
-__advisory__ _n_  
-__amass__  
-__ambivalent__ _adj_  
-__ameliorate__ _v_  
-__amid__ _prep_  
-__amulet__ _n_ _Syn_ charm, fetish, talisman, juju  
-__aphasia__ _n_  
-__assess__ _v_  
-__attuned__ _adj_ __1__ Able to perceive; sensitive (to). __2__ Accustomed (to). _Syn_ accustomed, adjusted, coordinated, in tune, in harmony, in accord, harmonized, familiarized  
-__awe-struck__  
-__awl__ _n_ A pointed instrument for piercing small holes in leather, wood, etc.  
-__bajillion__ _n_  
-__bedlam__ _n_  
-__belated__ _adj_ /bɪˈleɪtɪd/  
-__beleaguered__ _adj_  
-__bloodbath__  
-__bracket__ _n_ __7__ A treelike diagram showing the matchups between competitors in different rounds of a tournament.  
-__bullous__  
-__buskin__ _n_ A foot and leg covering reaching halfway to the knee, resembling a laced half boot. _Syn_ half boot  
-__cacophony__ _n_ /ka-KAH-fuh-nee/ A cacophony is a mixture of loud and usually harsh unpleasant sounds. Cacophony can also refer to an incongruous or chaotic mixture.  
-__cantankerous__  
-__clop__ _n_ A sound made by or as if by a horse’s hoof striking the ground.  
-__collarbone__ _n_  
-__collateralize__ _vt_  
-__command and control__  
-__condescending__ _adj_ Displaying a patronizingly superior attitude. _Syn_ patronizing, arch  
-__conga__ _n_ __3__ A conga drum.  
-__controversy__ _n_ :mega:  
-__conversant__ _adj_ Well informed about or knowing thoroughly. _Syn_ familiar  
 __copyrighter__ _n_  
 __crime of passion__  
 __crocus__ _n_  

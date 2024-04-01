@@ -61,7 +61,7 @@ __abecedarian<sup>1</sup>__ _n_ A person who is learning the alphabet or the rud
 __abecedarian<sup>2</sup>__ _adj_ Alphabetically arranged.  
 __aberrant__ _adj_ :two::hammer:  
 __aberration__ _n_ :two: __1__ A deviation from what is typical or normal: _an election that was an aberration from usual state politics._ _Syn_ deviation  
-__abet__ _vt_ :seven: /əˈbɛt/ (abetted, abetting) To help someone do something wrong or illegal.  
+__abet__ _vt_ :eight: /əˈbɛt/ (abetted, abetting) To help someone do something wrong or illegal.  
 __abeyance__ _n_ :five::dart: /uh-BAY-unss/ A state of temporary inactivity. The condition of being temporarily set aside. (The word itself is commonly preceded by the preposition in.) _Syn_ suspension _Every other feeling as it rushed upon him was thrown into abeyance by pity, deep respectful pity, for the man who sat before him._ _The misdemeanor charges are in abeyance while the suspect is being prosecuted for the felony._  
 __abhor__ _v_ :pencil2:  
 __abhorrence__ _n_ Hate coupled with disgust. _Syn_ detestation, execration, loathing, odium, abomination  
@@ -267,7 +267,7 @@ __advisedly__
 __advisement__ _n_ Careful consideration. _Syn_ weighing, deliberation _The petition was taken under advisement._  
 __advisory panel__ _n_ A group of experts that advises the FDA in the approval process for new and/or previously unapplied technologies, and recommends the class into which such products should be categorised.  
 __advisory<sup>1</sup>__ _adj_ :four::hammer: _Advisory committee meeting._ _To take an advisory period._  
-__advisory<sup>2</sup>__ _n_ :two::astonished: (advisories) A report giving information, especially a warning: _a weather advisory._ _Read the full FDA advisory here._  
+__advisory<sup>2</sup>__ _n_ :three::astonished: (advisories) A report giving information, especially a warning: _a weather advisory._ _Read the full FDA advisory here._  
 __advocacy__ _n_ :two::hammer: :es: apoyo; defensa  
 __advocate<sup>1</sup>__ _v_ :two: /AD-vuh-kayt/ To support or argue for (a cause, policy, etc.); to plead in favor of. _She advocated for me when the doctors were wrong._  
 __advocate<sup>2</sup>__ _n_ :mega:  
@@ -505,7 +505,7 @@ __alumni__ _n pl_ :three::hammer:
 __amalgam__  
 __amalgamate__ _v_  
 __amaranth__ _n_ __2__ An imaginary flower that never fades.  
-__amass__ _v_ :five::hammer::pencil2: (amassed, amassing) :es: amontonar, acumular  
+__amass__ _v_ :six::hammer::pencil2: (amassed, amassing) :es: amontonar, acumular  
 __amatory__ _adj_ Of, relating to, or expressive of love, especially sexual love. _Syn_ amorous, romantic _She showed her friends the stack of old love letters and read them excerpts from the couple’s amatory correspondence._  
 __ambage__ _n_ A style that involves indirect ways of expressing things. _Syn_ circumlocution, periphrasis  
 __Amber alert__ _n_  
@@ -518,14 +518,14 @@ __ambisinister__ _adj_ Clumsy or unskillful with both hands.
 __ambit__ _n_ __1__ Sphere or scope, as of influence. _Syn_ range  
 __ambitious__ _adj_ :two::hammer:  
 __ambivalence__  
-__ambivalent__ _adj_ :two: Having mixed feelings or contradictory ideas about something or someone.  
+__ambivalent__ _adj_ :three: Having mixed feelings or contradictory ideas about something or someone.  
 __ambivert__ _adj_ A person who is intermediate between an extrovert and an introvert.  
 __amble__ _v_ :seven::hammer: (ambled, ambling) _Giraffes amble along the savannah._  
 __ambulate__ _v_ :two: To walk from place to place; move about.  
 __ambulation__ _n_ :three: Walking about. _The hospital encouraged early ambulation._  
 __ambulatory__ _adj, n_ :two::hammer: _Hakan Erdem, 12, wasn’t ambulatory._ _Ambulatory abilities._  
 __amelia__ _n_ :astonished: (pathology) Congenital absence of an arm or leg.  
-__ameliorate__ _v_ :three::hammer: /uh-MEE-lee-uh-rayt/  
+__ameliorate__ _v_ :four::hammer: /uh-MEE-lee-uh-rayt/  
 __amen__  
 __amenable__ _adj_ :dart::four::astonished: __1__ Open or susceptible to suggestion; likely to listen, cooperate, etc. _The team leader was amenable to any reasonable suggestion._ __2__ Accountable for behavior to some authority; answerable. __3__ Capable of being or liable to be tested, judged, etc.  
 __amend__ _v_ _The Texas constitution was amended in 1891._  
@@ -542,7 +542,7 @@ __amiable__
 __amicable__ _adj_  
 __amicably__ _adv_ :two::mega::hammer: /ˈæmɪkəblɪ/  
 __amicus curiae__ _n_  
-__amid__  
+__amid__ _prep_ :two::hammer:  
 __Amish__ _n_ _Amish country._  
 __amiss<sup>1</sup>__ _adj_ :four: _Jack had sensed something amiss._  
 __amiss<sup>2</sup>__ _adv_  
@@ -563,6 +563,7 @@ __ample__ _adj_ :nine::m: __1__ Enough or more than enough. _Ample evidence._ _T
 __amplification__ _n_ __2__ Material added to a statement, story, etc, in order to expand or clarify it. _Corrections & Amplifications (newspaper section)._  
 __amply__  
 __ampoule__ _n_ :two: (ampul, ampule) A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped. A small glass vial that is sealed after filling and used chiefly as a container for a hypodermic injection solution. _Syn_ phial, vial _Because of his medical condition, he was obligated to carry an ampoule of medicine and a hypodermic needle with him at all times._  
+__amulet__ _n_ _Syn_ charm, fetish, talisman, juju  
 __amusement park__ _n_ :three::hammer:  
 __amusia__ _n_ :three::hammer: _Cochlear amusia._  
 __amygdala__ _n_ :two::hammer:  
@@ -721,7 +722,7 @@ __apathetic__ _adj_ :three::hammer:
 __ape__ _v_ :two::hammer: (aped)  
 __Apennines__ _n pl_ :pencil2:  
 __apex__ _n_ The highest point. _Syn_ acme, vertex, peak  
-__aphasia__ _n_ :two::hammer:  
+__aphasia__ _n_ :three::hammer:  
 __aphorism__ _n_ :four: An aphorism is a short sentence that presents truth or opinion, usually in a witty or clever manner. Example: A penny saved is a penny earned. A terse saying embodying a general truth or astute observation, as “Art is long, life is short.”  
 __aphrodisiac<sup>1</sup>__ _n_ /af-ruh-DEE-zee-ak, -DIZ-ee-ak/ Something, such as a food or drug, that increases sexual desire.  
 __aphrodisiac<sup>2</sup>__ _adj_ Arousing sexual desire.  
@@ -950,7 +951,7 @@ __assembly line__ _n_ :five::hammer:
 __assembly__ _n_ :mega: /əˈsɛmblɪ/  
 __assert__ _v_  
 __asses__ _n pl_ :two::hammer:  
-__assess__ _vt_ :three::hammer: (assessed)  
+__assess__ _vt_ :four::hammer: (assessed)  
 __assessment__ _n_ :three::pencil2::hammer:  
 __asset__ _n_ :three: __1__ A useful or valuable quality, person, or thing; _an advantage or resource: proved herself an asset to the company._  
 __assiduity__ _n_ :two::astonished: Great and constant diligence and attention. _Syn_ concentration. _Nell immediately applied herself with great assiduity to the decoration and preparation of the room._  
@@ -1041,7 +1042,7 @@ __attrite<sup>1</sup>__ _adj_ Regretting one’s wrongdoing only because of the 
 __attrite<sup>2</sup>__ _vi/t_ (attrit) /uh-TRIT/ __1__ To wear down, erode, or weaken through sustained attacks, friction, etc. __2__ To reduce the size of a workforce by not replacing those who leave. __3__ To drop out from a course of study, job, training, etc.  
 __attrition__ _n_ :nine::m: /əˈtrɪʃən/ Erosion by friction. _Syn_ corrasion, detrition, abrasion _The attrition of the stone stairway had occurred by centuries of foot traffic._ __2a__ A gradual reduction in number or strength because of stress or military action. _War of attrition._  
 __attune__ _vt_ :three::hammer:  
-__attuned__ _adj_ :two: Familiar with something and able to deal with it in a sensitive way.  
+__attuned__ _adj_ :three: Familiar with something and able to deal with it in a sensitive way. __1__ Able to perceive; sensitive (to). __2__ Accustomed (to). _Syn_ accustomed, adjusted, coordinated, in tune, in harmony, in accord, harmonized, familiarized  
 __atwitter__ _adj_ Being in a state of nervous excitement; twittering: _a crowd atwitter with expectation._  
 __atypia__ _n_  
 __atypical__ _adj_ :three::hammer: _Atypical atrial flutter._  
@@ -1118,9 +1119,11 @@ __awareness__ _n_
 __awash__ _adj, adv_ :nine::m: /əˈwɒʃ, əˈwɔʃ/ __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _The boat was almost awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
 __awe walk__  
 __awe__ _n_ :four::hammer: _Rob regarded the complex systems with awe._ _Jane sat back in awe._  
+__awe-struck__  
 __awestruck__ _adj_  
 __awfully__ _adv_ :mega::two::hammer: _That’s awfully nice, thanks._  
 __awhile__ _adv_ For a short time; for an interval of time: _Please stay awhile._ Not to be confused with: “a while” (a period of time): _He had to wait a while for the bus. It has been a while since they’ve seen each other._  
+__awl__ _n_ A pointed instrument for piercing small holes in leather, wood, etc.  
 __awry__ _adj, adv_ :eight::mega: /əˈraɪ/ /uh-RYE/ __1__ Away from the correct course; amiss: _The last minute changes caused our plans to go awry._ __2__ In a position that is turned or twisted toward one side; askew.  
 __ax__  
 __axle__ _n_  
@@ -1226,7 +1229,7 @@ __bailiwick__ _n_ :five: /BAY-lih-wik/ Bailiwick refers to the domain or sphere 
 __bailout__ _n_ :four::hammer:  
 __bait and switch__ _n_  
 __bait__ _v_ _A trap baited by a devil._  
-__bajillion<sup>1</sup>__ _n_ An extremely large but unspecified number, quantity, or amount: _They’ll sell a bajillion of these._  
+__bajillion<sup>1</sup>__ _n_ :two: An extremely large but unspecified number, quantity, or amount: _They’ll sell a bajillion of these._  
 __bajillion<sup>2</sup>__ _determiner_ Amounting to a bajillion: _a bajillion dollars._  
 __bake in__ _v_  
 __bake sale__ _n_ A fund-raising event at which usually homemade foods (such as cakes and cookies) are sold.  
@@ -1455,7 +1458,7 @@ __bedding__ _n_ Bedclothes. _A bedding brand._
 __bedeck__ _v_ (bedecked)  
 __bedevil__ _vt_ :nine: (bedeviled) __1__ _(of something bad)_ Cause great and continual trouble to. _Projects like this are bedevilled by a shortage of cash._ Be confusing or perplexing to; cause to be unable to think clearly. _Syn_ befuddle, confound, discombobulate, fox, throw _Jerry frequently bedevils his conversation partners by rapidly and abruptly changing topics._ __2__ _(of a person)_ Torment or harass. _He bedeviled them with petty practical jokes._ _Syn_ afflict, torment, beset  
 __bedfellow__  
-__bedlam__ _n_ :seven: /ˈbɛdləm/ A place or situation of noisy uproar and confusion. Scene of loud confusion. _Syn_ chaos, pandemonium, topsy-turvydom, topsy-turvyness _They quarreled and bickered more than ever among themselves, till at times the camp was a howling bedlam._  
+__bedlam__ _n_ :eight: /ˈbɛdləm/ A place or situation of noisy uproar and confusion. Scene of loud confusion. _Syn_ chaos, pandemonium, topsy-turvydom, topsy-turvyness _They quarreled and bickered more than ever among themselves, till at times the camp was a howling bedlam._  
 __Bedouin__  
 __bedpan__ _n_  
 __bedraggled__ _adj_ In deplorable condition. _Syn_ broken-down, dilapidated, ramshackle, tatterdemalion, derelict  
@@ -1519,7 +1522,7 @@ __bejeweled__ _v_
 __belabor__  
 __belaboring__  
 __belate__ _v_ :five::hammer: (belated)  
-__belated__ _adj_ :five: /bih-LAY-tud/ Happening or coming very late or too late. _Olivia called her friend on his birthday to let him know that a belated gift from her was on its way._ _A belated shoutout to Dave for his recent contribution to the museum._  
+__belated__ _adj_ :six: /bih-LAY-tud/ /bɪˈleɪtɪd/ Happening or coming very late or too late. _Olivia called her friend on his birthday to let him know that a belated gift from her was on its way._ _A belated shoutout to Dave for his recent contribution to the museum._  
 __belatedly__ _adv_ :six::hammer:  
 __belch<sup>1</sup>__ _v_ :three::hammer: _Smoke belched._ _Steam belches from the nuclear power plant._  
 __belch<sup>2</sup>__ _n_  
@@ -1869,6 +1872,7 @@ __blood draw__ _n_ Removal of blood, usually by venipuncture (phlebotomy, venous
 __blood libel__ _n_ __1__ (Law) _medieval history_ The malicious accusation that Jews used the blood of non-Jews in religious rituals. __2__ (Law) Any false accusation of violence, murder, or blood lust.  
 __blood thinner__ _n_ A drug used to inhibit blood clotting.  
 __blood-expander__  
+__bloodbath__  
 __bloodcurdling__ _adj_ :two::hammer:  
 __bloodlusting__  
 __bloodshed__ _n_ /ˈblʌdˌʃɛd/  
@@ -2165,7 +2169,7 @@ __brace<sup>2</sup>__ _v_ :nine::m::astonished: (braces, braced, bracing) A brac
 __brachistochrone__ _n_ The curve between two points through which a body moves under the force of gravity in a shorter time than for any other curve; the path of quickest descent.  
 __bracing swim__  
 __bracken__ _n_ :two: A cluster of ferns or shrubs.  
-__bracket__ _n_ :two::hammer: _Free bus travel led to greater use of public transport by people in the older age bracket._ _I want to break into that world-class bracket._  
+__bracket__ _n_ :three::hammer: __7__ A treelike diagram showing the matchups between competitors in different rounds of a tournament. _I want to break into that world-class bracket._ _Free bus travel led to greater use of public transport by people in the older age bracket._  
 __bracketology__ _n_ _Daily bracketology updates._  
 __brackish__ _adj_ :four: __1__ /BRACK-ish/ Brackish is typically used to mean “somewhat salty,” and most often describes water or bodies of water, such as rivers, lakes, and estuaries. Slightly salty (especially from containing a mixture of seawater and fresh water). _Syn_ briny _A brackish lagoon._ _Brackish water._ _The mangrove swamp is home to many species of plants and animals that thrive in brackish water._ __2__ Distasteful and unpleasant; spoiled by mixture. _A thin brackish gruel._  
 __bradypnea__ _n_ Abnormally slow breathing.  
@@ -2442,6 +2446,7 @@ __bulletproof__ _adj_ _A bulletproof relationship._
 __bullfrog__ _n_ Largest North American frog; highly aquatic with a deep-pitched voice.  
 __bullhorn__ _n_ :dart::two: A portable device consisting of a microphone attached to a loudspeaker, used especially to amplify the voice.  
 __bullion__ _n_ :two::hammer:  
+__bullous__  
 __bullpen__ _n_  
 __bullshitter__ _n_ :dart: _Come to think of it, I haven’t seen too many bullshitters since the war started._  
 __bullwhip__  
@@ -2546,6 +2551,7 @@ __business ties__
 __business__ _n_ /ˈbɪznɪs/  
 __businesspeople__ _n_  
 __busker__ _n_ :two::hammer: (buskers)  
+__buskin__ _n_ A foot and leg covering reaching halfway to the knee, resembling a laced half boot. _Syn_ half boot  
 __busload__ _n_ :two::hammer: _I’ve got a busload of specific ideas._  
 __bussin’__ _adj_ Great; wonderful; amazing.  
 __bust<sup>1</sup>__ _n_ :three::hammer: _A dusty bust of Shakespeare._ _Painful housing busts._  
@@ -2659,7 +2665,7 @@ __cackleberry__ _n_ _slang_ An egg. _No cackleberries for me, please—I’ll ju
 __cacoethes__ _n_ :three: /kak-oh/uh-WEE-theez/ [:scroll: From Greek kakoethes (ill-disposed), from kakos (bad) + ethe (disposition).] (Pathology) An uncontrollable urge or desire, esp for something harmful. An irresistible urge to do something, especially something inadvisable; mania: _a cacoethes for smoking._  
 __cacography__ _n_ Poor handwriting. _Syn_ scrawl, scribble, scratch  
 __cacophonous__ _adj_ :two: Having a harsh, unpleasant sound; discordant. _Syn_ jarring, grating, raucous, strident, dissonant, inharmonious _The school’s cafeteria was as cacophonous as a hen yard._  
-__cacophony__ _n_ :five: /kəˈkɒf ə ni/ Jarring, discordant sound; dissonance. Cacophony is the act of purposefully using harsh sounds. Example: The gnashing of teeth and screeching of bats kept me awake. _Syn_ blare, blaring, clamor, din _I heard a cacophony of horns during the traffic jam._  
+__cacophony__ _n_ :six: /kəˈkɒf ə ni/ /ka-KAH-fuh-nee/ A cacophony is a mixture of loud and usually harsh unpleasant sounds. Cacophony can also refer to an incongruous or chaotic mixture. Jarring, discordant sound; dissonance. Cacophony is the act of purposefully using harsh sounds. Example: The gnashing of teeth and screeching of bats kept me awake. _Syn_ blare, blaring, clamor, din _I heard a cacophony of horns during the traffic jam._  
 __cacti__ _n_ :two::hammer:  
 __cactus__ _n_ :two::hammer::mega: (_n pl_ cacti, cactuses)  
 __cad__ _n_  
@@ -2791,7 +2797,7 @@ __canorous__ _adj_ Richly melodious. _Syn_ songful _When I sing in the shower, m
 __cant<sup>1</sup>__ _n_ __1__ Insincere talk, esp concerning religion or morals; pious platitudes. __2__ Stock phrases that have become meaningless through repetition. __3__ Specialized vocabulary of a particular group, such as thieves, journalists, or lawyers; jargon. __4__ Singsong whining speech, as used by beggars.  
 __cant<sup>2</sup>__ _vi_ To speak in or use cant.  
 __cantabile__ _adj_ In a smooth, lyrical, flowing style. _Syn_ singing _The last part of the movement, a sweet, cantabile passage, resonated with the young audience._  
-__cantankerous__ _adj_ :seven: /kan-TANK-uh-rus/ Always complaining or arguing and easily annoyed. Ill-tempered and quarrelsome; disagreeable. _Syn_ bloody-minded  
+__cantankerous__ _adj_ :eight: /kan-TANK-uh-rus/ Always complaining or arguing and easily annoyed. Ill-tempered and quarrelsome; disagreeable. _Syn_ bloody-minded  
 __cantata__ _n_ :three: A musical composition for voices and orchestra based on a religious text. _Batch cantatas._  
 __canté__ _n_  
 __canted__ _v_ :three::hammer:  
@@ -3534,6 +3540,7 @@ __clog__ _n_ Any of various wooden or wooden-soled shoes.
 __clogging__ _v_  
 __cloisonné__ _adj, n_ _Cloisonné vases._  
 __cloistered__ _adj_ Secluded from the world; sheltered. _Syn_ sequestered  
+__clop__ _n_ A sound made by or as if by a horse’s hoof striking the ground.  
 __close > not even close__  
 __close call__ _n informal_ :four::dart: A narrow escape from danger or trouble. _Syn_ a close shave, narrow escape _Phew, that was a close shave._  
 __close in__ _phr v_ :two: Surround gradually. _Winter was closing in._  
@@ -3680,9 +3687,10 @@ __collage__ _v_
 __collapse__ _v_ :pencil2:  
 __collapsible__ _adj_ :dart: Able to be folded into a more compact shape. :es: plegable _Collapsible shutters._  
 __collar__ _n_ _Accessories include collars, scarves, gloves and more._  
-__collarbone__ _n_ :four: The clavicle.  
+__collarbone__ _n_ :five: The clavicle.  
 __collard greens__ _n_ _dialect_ :three: A cabbage of a variety that does not develop a heart. _Take the collard greens out of your mouth._ :es: berzas  
 __collateral damage__  
+__collateralize__ _vt_  
 __colleague__ _n_ :three::mega::mute:[colleag~~u~~e] /KAH-leeg/  
 __collect__ _v_ _Click and collect._  
 __collectible__ _n_  
@@ -3746,6 +3754,7 @@ __coming of age__ _n_ :two::hammer:
 __coming up__  
 __comity__ _n_ :five: __1__ Mutual civility; courtesy. A state or atmosphere of harmony or mutual civility and respect. :es: cortesía  
 __comma splice__ _n_ (comma fault) The misuse of a comma, rather than a semicolon, colon, or period, to separate related main clauses not joined by a conjunction.  
+__command and control__  
 __command__ _v_ _Those who graduate with degrees in STEM fields are expected to command the highest salaries._  
 __commandeered__ _v_ :astonished::two::hammer:  
 __commander in chief__  
@@ -3879,6 +3888,7 @@ __concussion__ _n_ :two: _He recovers from the concussion he sustained on June 1
 __concussive__  
 __condemn__ _v_ :mute:[condem~~n~~]  
 __condensed milk__ _n_ Cow’s milk with sugar added, reduced by evaporation to a thick consistency.  
+__condescending__ _adj_ Displaying a patronizingly superior attitude. _Syn_ patronizing, arch  
 __condition__ _n_ :two::hammer:  
 __conditional discharge__ _n_ _An Urbana man has been sentenced to 30 months of conditional discharge._  
 __condo__ _n_ :four::hammer: (condos) _Luxury condos._  
@@ -3921,7 +3931,7 @@ __confute__ _v_ Prove to be false. _Syn_ disprove _He took out a packet of old l
 __confuzzle<sup>1</sup>__ _n_ _slang, childish_ A state of confusion or puzzlement.  
 __confuzzle<sup>2</sup>__ _v_ _slang, childish_ To confuse or puzzle.  
 __conga line__ _n_ A line of people in single file performing the conga dance.  
-__conga__ _n_ __1__ A dance of Latin-American origin in which the dancers form a long winding line. __2__ The music for this dance. __3__ A conga drum.  
+__conga__ _n_ :two: __1__ A dance of Latin-American origin in which the dancers form a long winding line. __2__ The music for this dance. __3__ A conga drum.  
 __congenial__ _adj_ :five: /kun-JEEN-yul/ __1__ Pleasant. _The office is a congenial place to work._ __2__ Friendly. _The tour guide was very congenial._ _Everybody will feel at home with the congenial waitresses and bartenders._ __3__ Suitable. _The grapes thrive in the congenial climate._  
 __congeries__ _n_ (used with a sing. verb) A sum total of many heterogeneous things taken together. _Syn_ conglomeration, aggregate  
 __congest__ _v_  
@@ -4038,6 +4048,7 @@ __contrivance__ _n_ :eight: An elaborate or deceitful plan or expedient. _Syn_ s
 __contrive__ _v_ :four::hammer: (contriving)  
 __contrived__ _adj_ :six: /kən-trīvd′/ Deliberately created rather than arising naturally or spontaneously. Obviously planned or calculated; not spontaneous or natural; labored: _a novel with a contrived ending._ _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __controversial__  
+__controversy__ _n_ :mega:  
 __contumacious__ _adj_ Obstinately disobedient or rebellious; insubordinate.  
 __contumely__ _n_ A rude expression intended to offend or hurt. _Syn_ insult, revilement, vilification, abuse  
 __conundrum__ _n_ :four: /kəˈnʌndrəm/ /kuh-NUN-drum/ __1__ A conundrum is a problem that is difficult, confusing, or intricate. _Ideally, students in an ethics class will really wrestle with moral conundrums._ __2__ Conundrum can also refer to a riddle whose answer is or involves a pun. _Her answer to the conundrum “why didn’t the lost hikers starve in the desert?” was “because of the sand which is there.”_  
@@ -4048,7 +4059,7 @@ __convene__ _v_ :nine::m: (convenes, convened) Come or bring together for a meet
 __convenience store__  
 __convenience__ _n_ _Visitor conveniences are easily accessible._  
 __conventioneer__ _n_  
-__conversant__  
+__conversant__ _adj_ :two: Well informed about or knowing thoroughly. _Syn_ familiar  
 __conversely__ _adv_ :three: _(sentence modifier)_ In a contrary or opposite way; on the other hand.  
 __convertible__  
 __convey__ _vt_ :four::hammer: (conveyed) _The traffic conveyed over connections._  
