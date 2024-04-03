@@ -1,3 +1,5 @@
+__acolyte__  
+__conscription__ _n_ :dart:  
 __copyrighter__ _n_  
 __crime of passion__  
 __crocus__ _n_  
@@ -5,20 +7,24 @@ __cross section__ _n_ :dart::two: (cross-section) A section formed by a plane cu
 __cross-sectional__ _adj_  
 __cut-and-dried__ _adj_ (cut-and-dry)  
 __daffodil__ _n_ /ˈdæf ə dɪl/ :es: narciso  
+__damage__ _n_ :mega:  
 __debris__ _n_ :mega:  
 __decennary__ _n_ A period of 10 years. _Syn_ decade  
 __deepfake__ _n_ /DEEP-fayk/ [:scroll: A combination of deep learning + fake. Coined by a user of the Reddit website.] Digitally manipulated images, video, or audio that make someone appear to do or say something they did not.  
+__defector__ _n_  
 __delirium__ _n_  
 __derogation__ _n_ A communication that belittles somebody or something. _Syn_ disparagement, depreciation  
 __devil__ _n_ /ˈdɛv əl/  
 __dire__ _adj_  
+__dissatisfaction__ _n_ :pencil2:  
 __dot-connect__ _vi_ /DOT-kuh-nekt/ [:scroll: From the expression “to connect the dots”. From puzzles in which a line is drawn between a sequence of numbered dots to reveal a picture.] To make connections between different pieces of information in order to reach a conclusion.  
 __doubtless__ _adj, adv_  
 __downfall__ _n_  
 __downturn__ _n_  
 __duende__  
 __dyspraxia__ _n_  
-__eclipse__ _vt_ /ɪˈklɪps/  
+__eclipse<sup>1</sup>__ _n_ :mega:  
+__eclipse<sup>2</sup>__ _vt_ /ɪˈklɪps/  
 __efface__ _vi_ /i-FAYS/ To erase or to make inconspicuous.  
 __elusive__  
 __emulate__ _v_ /EM-yuh-layt/  
@@ -50,6 +56,7 @@ __flounder__ _vi_
 __flywheel__ _n_  
 __foil__ _vt_ _A foiled attack._  
 __footloose__ _adj_ /FUUT-loos/ Free to go or do as one pleases without concerns or commitments.  
+__Forbes__ _n_ :mega: /fɔɹbz/  
 __foreclosure__  
 __form factor__  
 __forthright__  
@@ -59,6 +66,7 @@ __foundational__ _adj_
 __foundry__ _n_ :es: fundición  
 __frayed__ _adj_ __2__ (of temper, nerves, patience, etc) Under great strain.  
 __fresh__ _adj_ _Fresh sanctions._  
+__front line__ _n_ (frontline)  
 __front-runner__ _n_ (frontrunner)  
 __frostbite__ _n_ :es: congelación  
 __frozen shoulder__  
@@ -113,14 +121,17 @@ __high tops__ _n pl_ Training shoes that reach above the ankles.
 __Hillary__ _n_ /ˈhɪl ə ri/  
 __hitman__ _n slang_  
 __hobbledehoy__ _n_ An awkward, gawky young man.  
+__hold__ _v_ _Declare the rightful winner, or hold a new Election, now._  
 __homeostasis__ _n_  
 __hopeless__ _adj_  
 __hough<sup></sup>__ _vt_ :mega: /hok/ To cripple, disable, or to make ineffective.  
 __hough<sup>2</sup>__ _n_ :mega: /hok/ The joint in the hind leg of a quadruped animal such as a horse, equivalent to the ankle in a human.  
 __hourlong__ _adj_  
 __huckster__ _n_  
+__human remains__ _n pl_  
 __humanitarian corridor__ _n_  
 __humanlike__ _adj_  
+__hummingbird__ _n_  
 __hunger strike__ _n_ A voluntary fast undertaken as a means of political protest, as by a prisoner.  
 __hyperbole__ _n_ :mega: /hye-PER-buh-lee/  
 __Ides of March__ _n_ The 15th of March in the Ancient Roman calendar, on which day Julius Caesar was assassinated.  
@@ -171,6 +182,7 @@ __legal action__
 __livelihood__ _n_  
 __lofty__  
 __long view__ _n_ The consideration of events or circumstances likely to occur in the future.  
+__longstanding__ _adj_ (longstanding) Of long duration or existence: _a long-standing friendship; a longstanding disagreement._  
 __looking glass__ _n_  
 __machination__ _n_  
 __manger__ _n_ A trough or an open box in which feed for livestock is placed. _Syn_ trough  
@@ -182,6 +194,9 @@ __measles__ _n_ :mega:
 __meek__ _adj_  
 __megillah__ _n_ /muh-GHIL-uh/  
 __melancholy__  
+__misidentification__  
+__morsel__  
+__overly__  
 __passing__ _adj_ __2__ Of brief duration; transitory: _a passing fancy._  
 __phytonutrient__  
 __piano__ _n_ (e.g, portion of Formule 1 track’s turn)  
@@ -235,12 +250,14 @@ __takeaway__ _n_
 __thrombolysis__  
 __thwart__ _v_  
 __timeline__ _n_  
+__tourniquet__ _n_  
 __tucket__ _n_ Short lively tune played on brass instruments. _Syn_ fanfare, flourish  
 __turbid__ _adj_ Having sediment or foreign particles stirred up or suspended. _Syn_ murky, cloudy, muddy  
 __turmeric__ _n_ :es: cúrcuma  
 __ulterior__ _adj_ /ul-TEER-ee-er/ Ulterior describes things (usually motives, objectives, reasons, agendas, etc.) that are kept hidden in order to achieve a particular result.  
 __unbecoming__ _adj_  
 __uncultured__ _adj_ Not cultured or cultivated. _Syn_ artless, uncultivated  
+__undermine__ _v_  
 __underpin__ _vt_  
 __unfazed__  
 __unfold__ _v_ :two::hammer:  
@@ -253,6 +270,7 @@ __vigil__ _n_
 __vigorous__ _adj_ /ˈvɪg ər əs/  
 __vilify__ _vt_  
 __vitriolic__  
+__warrant__ _n_  
 __watch list__ _n_ A list of people or things that are being closely watched because they are likely to do or experience bad things in the future. _The animals are on a watch list of species that could become extinct soon._  
 __weightless__  
 __weltanschauung__ _n_ A German word meaning world view, used to mean someone’s philosophy of life. _Many people disagree with the writer’s personal Weltanschauung, but most can appreciate the quality and thoughtfulness of her work._  

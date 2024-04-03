@@ -1,4 +1,6 @@
+__(a)round the clock__  
 __(I’m) not gonna lie__  
+__(it’s) (a)bout time__  
 __(it’s) good to see you (again)__  
 __(one’s) finest hour__  
 __(one’s)/the best bet__ The action or idea that is most likely to be successful.  
@@ -9,9 +11,11 @@ __a balancing act__
 __a card up (one’s) sleeve__  
 __a heavy heart__ A state of profound dejection, depression, or grief. _It is with a heavy heart that we announce the passing of our beloved father._  
 __algospeak__ _n_ (social media, neologism) A form of euphemism for evading social media content filters.  
-__and so on and so forth__  
+__and so on and so forth__ :two::hammer:  
 __anybody’s/anyone’s guess__  
+__anytime soon__  
 __as we speak__  
+__at a crossroads__  
 __at the end of the day__  
 __bag__ __3__ _v_ To get or obtain something. _Hey, when you go to that event, be sure to bag some cupcakes for us!_ _The Browser Company, the brains behind Arc, just bagged $50M._  
 __ballpark figure__  
@@ -20,14 +24,19 @@ __big fat__ __1__ Absolute, total; unadulterated. _You are a big fat slob, do yo
 __big name__  
 __blind spot__  
 __bottom line__  
+__break (one’s) heart__  
 __breaking point__ :dart:  
 __bring to light__  
 __build a case__ :dart: To compile evidence that supports an argument or charges against someone or something.  
 __by all accounts__  
 __by and large__  
+__by the day__ Per day; at a daily rate.  
 __call out__  
 __catch (one) off guard__  
+__come forward__ :two::hammer:  
+__comfort food__  
 __cover the waterfront__ To be thorough and comprehensive in what is presented or dealt with. _This thesis will attempt to cover the waterfront of English Law from 1950 to the present._  
+__crash__ __1__ To attend a party or other event uninvited. (see also crasher.) _The boys who tried to crash also broke a window._  
 __cross (one’s) fingers__  
 __cross (one’s) mind__  
 __crowd out__  
@@ -60,6 +69,7 @@ __fever pitch__ A state of great excitement or turmoil.
 __fight a losing battle__  
 __fill up__ :two::hammer:  
 __finagle__  
+__fine-tune__  
 __fishing expedition__  
 __fit the bill__  
 __five o’clock shadow__  
@@ -92,6 +102,7 @@ __game__
 __game-changer__  
 __get (something) in order__ __3__ To arrange or resolve something so that it is in the most proper, efficient state possible. _They brought in a consultant to help get the project in order._  
 __get a/the nod (for something)__  
+__get carried away__  
 __get done__  
 __get down to work__ To begin being serious about something; to begin attending to business or work at hand.  
 __get into it__  
@@ -121,6 +132,7 @@ __have got it made__ To be in a comfortable situation or to be very likely to ha
 __have it made__  
 __have no business (doing something)__ To have no legitimate reason, experience, or authority to do something. _Mom, you had no business eavesdropping on my phone call like that!_  
 __heat up__  
+__heavy-handed__ Overly blunt, forceful, or tactless.  
 __helicopter mom__  
 __help (oneself) (to something)__ To serve oneself (something); to take, consume, or indulge in (something) freely or without permission or restraint. _There’s plenty of food in the kitchen, so please, help yourselves to more._  
 __high and dry__  
@@ -128,6 +140,7 @@ __hogwash__
 __hold (one’s) nose__ __3__ By extension, to do something in spite of its unpleasant or illicit nature. _I don’t want to get fired, so I guess I’ll just have to hold my nose and do what he asks._  
 ‌__hold (one’s) nose__ To reluctantly overcome one’s revulsion.  
 __home to (something)__ A place where something is commonly found. _The wetland is home to a variety of wildlife, especially birds._  
+__hour after hour__ :dart: For many hours without stopping. _I sat by her bedside for hour after hour._  
 __How so?__ Please explain.  
 __howl at (someone or something)__  
 __humblebrag__  
@@ -150,16 +163,19 @@ __in concert with (someone)__ Together with someone; in cooperation with someone
 __in full swing__  
 __in hot water__ Having provoked or incited anger, hostility, or punishment against oneself; in a troublesome or difficult situation, especially that which will result in punishment or reprisal. _I was in a bit of hot water with Janice last night when she found out I went to the movies instead of cleaning out the garage._  
 __in jeopardy__ In danger or at risk; imperiled.  
+__in layman’s terms__  
 __in support of__ __1__ In a way that shows approval of (something); in favor of (something). _A majority voted in support of the bill._ __2__ In order to support (something). _He presented evidence in support of his hypothesis._  
 __in tears__  
 __in the (grand) scheme of things__ In the long term; in the complete picture of something.  
 __in the bag__ Achieved or won almost as a certainty.  
 __in the least__  
+__in the wake of (something)__ :dart:  
 __it goes without saying__  
 __it remains to be seen__ Something is not yet clear, certain, or known.  
 __jeer at (someone or something)__ To mock, taunt, or scoff at someone or something. _Everyone in school jeered at me for wearing a pink sweater._  
 __JK__ An initialism of “just kidding,” used especially in text messages and online communications to express that one was not being serious about their previous statement. Variously written as “JK,” “J.K.,” or “J/K,” in either uppercase or lowercase letters. _Yeah, def considering working on my uncle’s farm 4 the summer. haha jk lol_  
 __join hands__ __2__ By extension, to work together to achieve some goal.  
+__join the ranks (of something)__ To become a part or member of a large group or organization.  
 __jump before (one) is pushed__ To take action willingly or proactively before being forced to do it.  
 __jump ship__ (abandon ship) _Nearly all of (chatbot) Pi’s parent company, Inflection AI, decided to jump ship just 10 months after Pi’s launch._  
 __just like that__  
@@ -174,10 +190,11 @@ __kitchen-sink__ Showing or pertaining to the lives of common, everyday people. 
 __knock it off__  
 __last-minute__  
 __latch onto (someone or something)__  
+__laugh something off__ :dart: To treat a serious problem lightly by laughing at it. _Although his feelings were hurt, he just laughed the incident off as if nothing had happened._ _He laughed off the incident._  
 __lay bare (something)__ To divulge, explain, or reveal something not previously known publicly.  
 __lay the groundwork (for something)__ To create or prepare the basics or essential foundation (for something); to pave the way (for something).  
 __life, the universe, and everything__ The question that pan-dimensional space-beings asked the computer Deep Thought in Douglas Adams’s book, _The Hitchhiker’s Guide to the Galaxy._ The computer took millions of years and came up with the answer 42. _Balancing risks is life, the universe, and everything._  
-__live up to (something)__  
+__live up to (something)__ :two::hammer: _Live up to the hype._  
 __living proof__  
 __loosen up__  
 __loosey-goosey__  
@@ -195,13 +212,16 @@ __male gaze__ The rendering of art, literature, etc., from the perspective of an
 __masquerade as (someone or something)__  
 __matter of fact__  
 __middlebrow__ [:scroll: Formed on the pattern of highbrow and lowbrow] Neither particularly intelligent and refined nor particularly uncultured or crude in style, content, or quality. _I used to pride myself on my refined tastes when I was in college, but they’ve become positively middlebrow since I settled down as an adult._  
-__mixed bag__  
+__mixed bag__ :two::hammer:  
 __mixed feelings__  
 __mixed message__  
 __modus operandi__ :mega:  
+__move the dial__  
 __mugger__  
 __mumbo jumbo__  
 __nada__  
+__narrative__ The way in which a particular person or situation is being portrayed or represented.  
+__near and dear to (one)__  
 __neat and tidy__ (neat and clean)  
 __not have all day__ To be in a rush; to not have much or any time to spare. Usually used in the present tense. _How long is this repair job going to take? I don’t have all day!_  
 __not sleep a wink__  
@@ -220,17 +240,19 @@ __on a mission__ :three::hammer:
 __on a roll__  
 __on the back burner__ Of a low priority; given less or little thought or attention; postponed or suspended.  
 __on the contrary__  
+__on the line__ __1__ In a state of jeopardy or uncertainty.  
 __on the lookout__ :two: Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
 __on the run__  
 __on the verge of__  
 __on-site__  
+__once in a blue moon__ Very rarely.  
 __one-off__  
 __org__ __2__ _n_ An organization.  
 __out of pocket__  
 __out of the wood(s)__  
 __outed__  
 __over the moon__ Extremely happy. _I’ve been over the moon ever since I got engaged—I just can’t stop looking at my ring!_  
-__paint a (some kind of) picture (of something)__  
+__paint a (some kind of) picture (of something)__ :two::hammer:  
 __peanut gallery__  
 __picture perfect__  
 __pie in the sky__ An impossible, unlikely, or fanciful idea or plan. Often hyphenated.  
@@ -315,6 +337,7 @@ __strike action__
 __strive to (do something)__ To put forth a great and tenacious effort to do or accomplish something.  
 __sugarcoat (something)__  
 __sure enough__ As expected or anticipated.  
+__swing state__  
 __swipe at__  
 __tack on__  
 __take (something) with a dash of salt__  
@@ -325,6 +348,9 @@ __take center stage__
 __take home__  
 __take issue__ :two: To strongly disagree with or take offense at something.  
 __the faint of heart__  
+__trash talk__  
+__trickle down__ __2__ To distribute, pass, or diffuse to people lower on a hierarchical structure.  
+__turn heads__  
 __watershed moment__  
 __weigh in__ :dart::two: __3__ To give one’s opinion or analysis of something during a discussion. _Karen, you haven’t weighed in yet. What’s your take on this?_  
 __when pigs can fly__ At a point in time that will never come to pass. (Used to show skepticism or cynicism over some hypothetical situation or outcome.)  
