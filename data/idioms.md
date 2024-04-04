@@ -4847,6 +4847,7 @@ __scare the (living) daylights out of (one)__ To shock or frighten one very sudd
 __scare the shit out of someone__  
 __scarlet letter__ :two::hammer:  
 __scatterbrain__ :two: Someone who is very forgetful, unfocused, or disorganized. _Sorry for forgetting about your recital. I’ve been such a scatterbrain, lately!_  
+__scavenger hunt__  
 __schlep__ __3__ _n, slang_ A foolish, bumbling, or incompetent person. From Yiddish. _Jeff is managing the project? That schlep couldn’t manage his own sock drawer._  
 __schlepp__  
 __schlock__ _He was running a schlock operation._  
@@ -4894,6 +4895,7 @@ __see-and-be-seen__ To be noticed by others or to attract attention, especially 
 __seed corn__ :dart: If someone talks about _seed corn_, they mean resources or people that will produce benefits in the future rather than immediately. _Investment in the industry, the seed corn of future output, has fallen by 75 percent._ Note: If people _eat their seed corn_, they use up their valuable resources, and this will prevent them from being able to do things in the future. _A society that’s unwilling to invest in its future is a society that’s living off capital. It’s eating its seed corn._ Note: A farmer’s seed corn is the grain that is used for planting rather than being sold or eaten.  
 __seeing is believing__  
 __seek after__  
+__seems about right__ A phrase used in English to express agreement with something that has been said or to indicate that something appears to be generally accurate.  
 __seen (_or_ known) better days__ Get in a worse state than in the past; have become old, worn-out, or shabby.  
 __seesaw__ _v_ To vacillate between two options, conditions, or situations. _Of course the senator is going to seesaw on this controversial bill until the last minute. He doesn’t want to announce his vote and anger his constituents before he has to._ _Seesaw leadership only infuses anxiety and distrust into a culture, which can affect performance._  
 __seize the day__ To take the opportunity to do something at the present moment without worrying about the future. _This is our time. Let’s seize the day! We may never get a chance to do this again._  
@@ -4902,17 +4904,20 @@ __seize the opportunity__ :two: To take advantage of an opportunity when offered
 __seize upon (something)__  
 __self-fulfilling prophecy__  
 __sell (someone, something, or oneself) short__ :two: To undervalue someone, something, or oneself; to underestimate or underappreciate the good qualities of someone, something, or oneself. _Don’t sell yourself short—your writing is really excellent!_  
-__sell like hotcakes__ :two: (seel like hot cakes) To be sold quickly and in large quantities. _This record has been selling like hotcakes—I can’t keep it in stock!_ _We are selling English classes like hotcakes._ :es: vender como churros  
+__sell like hotcakes__ :three: (seel like hot cakes) To be sold quickly and in large quantities. _This record has been selling like hotcakes—I can’t keep it in stock!_ _We are selling English classes like hotcakes._ :es: vender como churros  
 __sell out__ :two::hammer:  
 __sell someone a pup__ To swindle someone by selling them something worthless.  
 __sell up__  
 __semper fi__  
 __send (one’s) love to (someone)__  
+__send a message__ To emphasize or make a clear statement of one’s position.  
 __send a shiver down (one’) spine__ To cause an intense feeling of excitement, exhilaration, nervousness, or fear in someone. _The way that sonata swells always sends a shiver down my spine._  
 __send off__ :two::hammer:  
+__send the wrong message__ To do or say something that communicates a meaning different or contrary to what one desires, either implicitly or explicitly.  
 __separate wheat from chaff__  
 __serve (one’s) time__ To spend the amount of time in jail that is required by one’s prison sentence.  
 __serve time__  
+__set (someone or oneself) up for (something)__  
 __set (someone or something) loose__ To make free or give up control of something or someone; to release or discharge something or someone, as from confinement. _Due to a lack of evidence, the suspects were set loose by police._  
 __set (someone or something) off__  
 __set (someone, something, or oneself) apart (from someone or something)__  
@@ -4923,12 +4928,14 @@ __set about (doing something)__ To undertake a task; to begin doing something. _
 __set down<sup>1</sup>__ To seat, to cause to sit.  
 __set eyes on (someone or something)__ :two::hammer:  
 __set in stone__ :three: No longer changeable. _The agreement is not yet set in stone._ _Our mindset is never set in stone, but constantly in flux._  
+__set sail__ To embark on a journey on water in a boat (not necessarily one with sails).  
 __set the ball rolling__ (start the ball rolling) To set something, often a process, in motion; to act to cause something to begin. _I think it will be easier to become comfortable driving now that I’ve set the ball rolling with driving lessons._ _I’ll set the ball rolling with the icing while you mix the cake batter._  
 __set the bar__  
 __set the pace__  
 __set the record straight__ To make the true facts of something clear, especially when they have been previously mistaken, misunderstood, or misrepresented. _There have been a lot of crazy rumors flying around for the last few days, so I’d like to set the record straight once and for all._  
 __set the stage for (something)__ :two: To make something likely to happen. _Family problems in childhood set the stage for unsuccessful relationships in adult life._  
 __set the table__  
+__set the tone__  
 __set the world on fire__ To do wonderful or exciting things that cause a great or remarkable sensation in the world; to become extremely popular, famous, renowned, etc. Often used in the negative to indicate the opposite.  
 __settle a score (with someone)__  
 __settle accounts__ __2__ To avenge a misdeed.  
@@ -4954,9 +4961,9 @@ __shank’s nag__ :dart: One’s legs and feet, used for walking; travel by foot
 __shank<sup>1</sup>__ _n, slang_ A homemade or makeshift cutting or stabbing weapon, especially one fashioned in prison.  
 __shank<sup>2</sup>__ _v, slang_ To stab or cut (someone) with such a weapon.  
 __shantytown__  
-__shed (some) light on (something)__ :five::hammer: (shed light on)  
+__shed (some) light on (something)__ :six::hammer: (shed light on)  
 __shed a tear__ To cry or weep, especially from grief; to grieve or mourn in general. _Everyone in the room was shedding tears by the end of the ceremony._  
-__shell out__ :two::hammer:  
+__shell out__ :four: To pay a sum of money, especially one that seems exorbitant or unfair. A noun or pronoun can be used between “shell” and “out” to specify the amount being paid.  
 __shellac__ (shellack) __4__ _US, slang_ __a__ To beat. __b__ To defeat decisively.  
 __shift gears__ :two: To quickly or abruptly change what one is doing or discussing.  
 __shifty__ _A shifty shakedown artist._  
@@ -5010,7 +5017,7 @@ __shut (one’s) mouth__
 __shut down__ :three::hammer: _San Antonio shut down Utah for its fourth straight road victory._  
 __shut the front door__ _slang_ An exclamation of surprise or disbelief, used as a minced oath of the vulgar phrase “shut the fuck up.”  
 __shuteye__ _n_ _slang_ :three: (shut-eye) Sleep. (Usually qualified with words like “some,” “a little,” “a bit of,” etc.) _Hey, it’s late. We should catch some shuteye so we’re not exhausted tomorrow._ _I could use about another hour of shut-eye._ _I’m going for some shut-eye._  
-__shy away (from someone or something)__ :four::hammer:  
+__shy away (from someone or something)__ :five::hammer:  
 __shy away__ _v_ :two: __1__ To retreat out of a sense of shyness: _The deer poked its head out from the bushes and then shied away when it saw me._ __2__ To avoid doing something, especially out of caution or anxiety: _The company shied away from giving raises this year._  
 __shy of (something)__ :three::hammer::astonished: _Just shy of its highest mark._  
 __sick and tired of (something)__  
@@ -5034,11 +5041,11 @@ __silver lining__ :three: The potential for something positive or beneficial to 
 __silver spoon__ :two: A metaphor for ample wealth that has been passed down through inheritance. (Used primarily in the phrase “born with a silver spoon in (one’s) mouth.”) _We may both be wealthy now, but I never had a silver spoon growing up. I had nothing when I was young, and all of my fortune is down to my own hard work._  
 __silver surfer__ An elderly person who is a proficient user of the Internet. _My grandmother has become a real silver surfer since we got her new computer hooked up to the Internet. She even keeps in touch with her friends on social media!_  
 __simp__ _slang_ :two: An abbreviation of “simpleton,” meaning a foolish or simple-minded person.  
-__simply put__ :five: In clearer, more direct, or more easily understandable terms. Used when discussing a complicated topic or situation.  
+__simply put__ :six: In clearer, more direct, or more easily understandable terms. Used when discussing a complicated topic or situation.  
 __sing along__ :two::hammer:  
 __single out__ :four::hammer:  
 __sink in__  
-__sink or swim__  
+__sink or swim__ :two::hammer:  
 __siphon off__  
 __Sisyphean task__ A task that can never be completed or one that is repetitive and futile, much like the Greek mythological character Sisyphus.  
 __sit a spell__ To sit down, relax, and socialize for a while at one’s leisure. _This saloon is a great place to sit a spell and catch up with old friends._ _Well hey there, honey! Now you come in here and sit a spell, we haven’t seen you in a dog’s age!_  
@@ -5046,6 +5053,7 @@ __sit back__
 __sit down__ _n_ __2__ A form of civil disobedience in which demonstrators sit down in a public place as a protest or to draw attention to a cause.  
 __sit for (some)/(one’s) exam__ To take an examination in a formal setting or situation. To take an exam to qualify for a license, such as a bar exam. _It was only when I sat for my final exam that I realized I had left my calculator at home._  
 __sit in for (one)__ To act as a temporary substitute for one, especially in a meeting or discussion-based activity. _It was decided that I would sit in for the boss at the board meeting._ _I’m sitting in for Ira Glass._ _This is Alan James sitting in for Suzy Williams on the mid-morning show._  
+__sit on (something)__  
 __sit on it__ An exclamation of frustration directed at another person. Popularized by the TV show _Happy Days_. _If he thinks he can call at this hour of the night, he can sit on it!_ _Sit on it, Joe—I’m not helping you with this!_  
 __sit on the fence__  
 __sit on__ (sit on it) To take no action on. _I sent the boss my proposal three weeks ago and he’s been just sitting on it._  
@@ -5082,6 +5090,7 @@ __slam dunk__
 __slam__ __1__ _vt_ To criticize someone or something.  
 __slap (one) around__ To physically assault someone, especially as a means of control or intimidation. _Our dad wasn’t afraid to slap us around a bit when we got out of line as kids._  
 __slap (one) on the wrist__ :two: To issue one with a very mild, inconsequential punishment or warning.  
+__slap on the wrist__  
 __slated for__ :two: Scheduled or organized to happen or take place.  
 __slave away__ :dart: To work strenuously and continuously (doing something). _I refuse to slave away for minimum wage._  
 __slay__ To succeed at something in a particularly impressive or dominant way. _She’s definitely getting the promotion after she slayed that presentation for the CEO._ _I absolutely slayed the interview; at one point, I even laid flat out on the couch on live TV!_  
@@ -5091,7 +5100,7 @@ __sleep on (something)__
 __sleep the sleep of the dead__  
 __sleight of hand__ :two::hammer:  
 __slice and dice__ :two: To divide something into many small parts especially to use the result for one’s own purposes.  
-__slide into (someone or something)__  
+__slide into (someone or something)__ :two::hammer:  
 __slightly built__ Thin and not very strong or muscular. _The slightly built, 27-year-old man._  
 __slimeball__ An offensive, detestable, or repellent person, especially one who does unscrupulous or immoral things. _My last boss was a total slimeball, making all sorts of shady deals to skim a bit of extra profit for herself._  
 __slink off__ :dart: To leave or retreat in a quiet, sneaky, inconspicuous, or furtive manner. _The would-be burglar slunk off after tripping the alarm._  
@@ -5114,11 +5123,13 @@ __smash hit__
 __smear (one’s) name__ To disparage one publicly, especially to the detriment of one’s reputation.  
 __smell a rat__  
 __smell blood__  
+__SMH__ An abbreviation for “shaking my head” or “shake my head,” an expression of disbelief or exasperation (likened to the actual gesture of shaking one’s head, which is used to express the same things). _Did she really say that? SMH._  
 __smoke like a chimney__ To smoke cigarettes, cigars, pipes, etc., continuously and in large amounts.  
 __smoke__ _v_ :three::astonished: __6__ _slang_ To perform extremely well, especially with a lot of energy or enthusiasm. _The band has been absolutely smoking for the last two hours. People in the club are going crazy for them!_ _They looked a little sluggish in the first half of the game, but the team is positively smoking now._ __13__ (tr) To subject or expose to smoke. _This person smokes me._ __14__ (Cookery) (tr) To cure (meat, fish, cheese, etc) by treating with smoke.  
 __smokescreen__ :pencil2:  
 __smoking gun__ :two: Indisputably incriminating evidence. Likened to a gun that is still smoking after having been fired.  
 __smooch__ /smutʃ/  
+__smooth out__  
 __smother (someone or something) with (something)__  
 __snafu__  
 __snag__ __4__ _vt_ To procure, grab, or steal something. _See if you can snag a couple of good seats while I get the popcorn._  
@@ -5127,14 +5138,15 @@ __snap out of (something)__ To suddenly recover or be freed from some negative o
 __snap__ _v_ To go crazy.  
 __snatch (someone) from the jaws of death__ To rescue someone at the last moment from near or certain death.  
 __snatch the pebble__ _v_ :dart: To fully grasp the meaning of a concept or developed a skill to a high degree of proficiency, often that rivals some specific expert. _OH from a student: “it’s like the code is in a perpetual state of waiting to be refactored.” You have snatched the pebble from my hand._  
-__sneak peek__ :four: An early preview of something that has yet to be fully revealed or shown prominently.  
+__sneak peek__ :six: An early preview of something that has yet to be fully revealed or shown prominently.  
 __sneak up (on someone or something)__  
 __sneeze at__  
-__sniff out__ :two::hammer:  
+__sniff out__ :three::hammer:  
 __snookered__ /ˈsnʊkɚd/ _mod_ __1__ Cheated; deceived. _I was snookered skillfully and quickly. It was almost a pleasure._ __2__ _slang_ Drunk.  
 __snoothfest__ _Total snoozefest at Google’s event._  
 __snooty__ Haughtily condescending, dismissive, or snobbish. _I can’t believe that snooty waiter scoffed at you for ordering red wine with fish._  
 __snork__  
+__snot__  
 __snotty__ Impertinent, contemptible, or rudely disagreeable. _What a snotty waiter! Well, I won’t be leaving a tip for him, that’s for sure._  
 __snout trout__ A smell similar to fish left on the end of your nose after going down on your female partner. _Marilyn was a snout trout._  
 __snout__ __4__ _slang_ A person’s nose.  
@@ -5155,9 +5167,11 @@ __So what?__
 __so-and-so__ :dart::three: __1__ Some unnamed or unknown person. _They always have some important so-and-so up on the stage giving a lecture no one cares about._ __2__ A euphemistic address for a despised or despicable person. _The rotten so-and-so stole the company’s pension fund and ran off to the Bahamas with it!_  
 __so-called__  
 __so-so__  
+__soak in__  
 __soak up__  
 __soak__ _v_  
 __soaked to the bone__ Extremely or completely wet, especially through one’s clothing. _I can’t believe you pushed me into the pool! Now I have to walk home soaked to the bone!_  
+__soccer mom__  
 __social butterfly__ Someone who enjoys frequently mingling with other people at social events.  
 __social hour__ :two: Time spent talking and hanging out with people.  
 __sock__ _informal_ __1__ _n_ A sharp, forceful blow. _He gave me a sock in the arm when I called him a wuss._ __2__ _v_ To deliver a sharp, forceful blow. _Talk about my mother like that again, and I’ll sock you in the jaw!_  
@@ -5175,10 +5189,10 @@ __sort it out__ :seven: __2__ _Fig._ To study a problem and figure it out. _I ca
 __sort of__  
 __sort out__ __2__ To understand or resolve a problem or conflict. A noun or pronoun can be used between “sort” and “out.” _I’ve spent nearly an hour on this math problem, but I still can’t sort it out._  
 __sort through (something)__  
-__soul searching__ :four::hammer:  
+__soul searching__ :five::hammer:  
 __sound asleep__ :two::hammer:  
 __sound off (about something)__  
-__sound the alarm__ :four: __2__ To alert other people about something dangerous, risky, or troublesome. _Over 350 executives, researchers, and engineers in the field of AI are sounding the alarm about the urgent risks and implications of advanced AI systems._  
+__sound the alarm__ :five: __2__ To alert other people about something dangerous, risky, or troublesome. _Over 350 executives, researchers, and engineers in the field of AI are sounding the alarm about the urgent risks and implications of advanced AI systems._  
 __sounding board__ A person or group with whom one discusses an idea, plan, or suggestion in order to evaluate its strengths, acceptability, feasibility, practicality, etc. _My friend John and I really know each other’s skills and interests, so whenever one of us has an idea for a new project, we use the other as a sounding board._  
 __souped up__ :dart: Modified to have increased power or performance. Sometimes hyphenated when used before a noun. _At this point, her car is so souped up that it could probably reach 200 miles per hour!_  
 __sour grapes__ Criticism or disparagement of that which one cannot have. The phrase originated in one of Aesop’s fables, in which a fox that cannot reach some grapes deems them sour and therefore undesirable. _He always mocks sports cars as being really impractical, but it’s just sour grapes, if you ask me._  
@@ -5187,6 +5201,7 @@ __space cadet__
 __spaced (out)__  
 __spare a thought for__ To think about. _You should spare a thought for those who are less fortunate than you._  
 __spare time__  
+__speak (one’s) mind__  
 __speak in tongues__ :two: Speak in an unknown language during religious worship.  
 __speak of the devil__ _v_ :dart: Mention someone’s name who just then appears.  
 __speak of the devil, and he shall appear__ _proverb_ An acknowledgment of a person who has arrived just as or after they were being discussed.  
@@ -5204,7 +5219,7 @@ __spiffy__
 __spill out (of something)__  
 __spill over__ :three: __2__ To go beyond the borders or parameters of something and into something else, especially due to growing in size or scope. _It’s hard to contain violence to just one neighborhood, you know. It’s only a matter of time until it spills over into our part of town too._  
 __spill the beans__ :eight: To reveal something that was meant to be a secret. _We had everything organized for Bruce’s surprise party, but Kate accidentally spilled the beans to him at work._  
-__spill the tea__ :three: _slang_ To share or reveal gossip. “Tea” is a slang term for gossip. _OK, what happened at Blair’s party last night? Spill the tea!_  
+__spill the tea__ :five: _slang_ To share or reveal gossip. “Tea” is a slang term for gossip. _OK, what happened at Blair’s party last night? Spill the tea!_  
 __spill__ :dart: _informal_ To disclose or divulge (something).  
 __spin (one’s) wheels__ :six: To waste one’s time or energy idly or frivolously; to neither progress nor regress, but remain in a fixed, neutral position. Expend effort with no result, as in _We’re just spinning our wheels here while management tries to make up its mind._ This idiom, with its image of a vehicle in snow or sand that spins its wheels but cannot move, dates from the mid-1900s. _Feel like you’ve been spinning your wheels in your job search?_ _It’s way too easy for this mentality to lead to spinning your wheels on something that’s not working._ _They kept me on to manage what’s left of this division, but to be honest, I’ve just been spinning my wheels here for the last couple of years._  
 __spin doctor__  
@@ -5217,7 +5232,7 @@ __spoiled for choice__ Having an abundance of suitable or ideal options from whi
 __sponge something up__ To absorb or take up moisture, as with a sponge. _I had to sponge the spilled milk up from the floor, the chair, the table, and the baby. What a mess! Liz sponged up the water._  
 __sports equinox__  
 __spot on__ _informal_ :nine::m: (spot-on) Exactly right; perfectly accurate. Often hyphenated when used before a noun.  
-__spray and pray__ _video games_ The act of blindly firing an automatic weapon with the intent of potentially hitting the target; tends to be ineffective.  
+__spray and pray__ :two: __1__ _informal_ To dispense anything (such as bullets or advertising) in an uncoordinated manner, hoping to reach the desired target through luck. __2__ _video games_ The act of blindly firing an automatic weapon with the intent of potentially hitting the target; tends to be ineffective.  
 __spread like wildfire__ To spread, circulate, or propagate very quickly and widely. Likened to the rapid spread of a literal wildfire. _News of the scandal spread like wildfire across the news outlets._  
 __spread the word__  
 __spring (something) on (one)__ To tell, present, or disclose something unexpected to one. _I’m springing a trip to Barcelona on my wife for her birthday._ _The boss sprang several huge changes to the project on us at the last minute._  
@@ -5245,6 +5260,7 @@ __stand at attention__ _They were standing at attention._
 __stand by someone or something__ :two::hammer:  
 __stand by__  
 __stand in (someone’s) shoes__ :two: To see or understand things from someone else’s position or perspective; to empathize with someone. _If you encounter a bully, try standing in their shoes—they’re probably deeply unhappy and redirect that feeling onto others._  
+__stand on (one’s) own (two) feet__ :dart:  
 __stand on the shoulders of giants__ :two: To make discoveries, insights, or progress due to the discoveries or previous work of great minds that have come before.  
 __stand out like a sore thumb__ To be very noticeable in usually a bad way.  
 __stand out__ __1__ To protrude from something; to project outward from something. _He chose a strong branch standing out from the tree to hang the swing from._ __2__ To be especially noticeable, conspicuous, or prominent, especially in comparison to someone or something else. _The dragons are notoriously varied in physique—they’d stand out in the Mos Eisley Cantina._  
@@ -5263,12 +5279,12 @@ __stave off__ :two::hammer:
 __stay afloat__  
 __stay in character__ To continue exhibiting the traits and characteristics assigned to the character that one plays. _As part of his method acting, he remained in character for the full nine months of shooting._  
 __stay put__ :nine: To not move or leave; to remain in same location or position. To remain in a fixed or established position. _Syn_ stay, stick, stay around _Gilbert, Fultz among top playets who stayed put._ _I want you kids to stay put while I go into the store, OK?_ _And you stayed put for all these years? I would have thought you’d find a different career by now._  
-__stay strong__  
+__stay strong__ :two::hammer:  
 __stay tuned__ :two::hammer:  
 __stay woke__  
 __staying power__ :three: The ability to remain relevant, influential, profitable, or successful in the future. _This exercise has staying power._  
 __steal (one’s) thunder__ Use or appropriate another’s idea, especially to one’s advantage, as in _It was Harold’s idea but they stole his thunder and turned it into a massive advertising campaign without giving him credit._ This idiom comes from an actual incident in which playwright and critic John Dennis (1657-1734) devised a “thunder machine” (by rattling a sheet of tin backstage) for his play, _Appius and Virginia_ (1709), and a few days later discovered the same device being used in a performance of _Macbeth_, whereupon he declared, “They steal my thunder.”  
-__steal the show__ To become the main focus of attention or deliver the most captivating performance in the presence of one or more others, typically unexpectedly. _The opening band totally stole the show tonight—they were amazing._  
+__steal the show__ :two: To become the main focus of attention or deliver the most captivating performance in the presence of one or more others, typically unexpectedly. _The opening band totally stole the show tonight—they were amazing._  
 __steamroll through__  
 __steel (someone or oneself) for (something)__ To cause someone or oneself to be mentally and emotionally prepared for and hardened against some difficult or unpleasant task, situation, outcome, etc. _As horrible as the prospect may be, we all must steel ourselves for war._  
 __steely-eyed missile man__ An astronaut or engineer who quickly devises an ingenious solution to a tough problem while under extreme pressure.  
@@ -5277,7 +5293,7 @@ __stem the tide__ To stop something from continuing or worsening. _Once the peop
 __step aside__ :dart:  
 __step back__ :two: __2__ By extension, to withdraw or remove oneself from something, often in order to consider it from a broader or more objective perspective. _You’re too focused on this project. You need to step back and consider the bigger picture of the whole company._  
 __step down__  
-__step in__ :dart::four: To enter into some position, activity, or situation to intervene or improve it.  
+__step in__ :dart::five: To enter into some position, activity, or situation to intervene or improve it.  
 __step on it__  
 __step up__ :nine: __1__ To increase, improve, or hasten something. In this usage, a noun or pronoun can be used between “step” and “up.” _We plan to step production up by nearly 75% over the next six months._ _I’m trying to step up my output ahead of tomorrow’s deadline._ __2__ To give extra effort or take on additional responsibilities, especially when doing so is critical. _Someone will need to step up and lead this project now that Dylan has resigned._  
 __steppingstone__ :three: Some situation, circumstance, or experience that serves to assist one in reaching or progressing toward a goal or desired outcome.  
@@ -5286,7 +5302,7 @@ __stew__
 __stick (one’s) tongue out__  
 __stick in (one’s) craw__ To rankle or irritate one. _It really sticks in my craw that he would lie and take all the credit for my idea!_ _This enlightenment thing really stuck in my craw._  
 __stick out like a sore thumb__ (stick out a mile) Be very prominent or conspicuous.  
-__stick with (someone or something)__ :three::hammer:  
+__stick with (someone or something)__ :four::hammer:  
 __sticking point__ A topic of discussion or debate that results in disagreement. _The subject of curfew is often a real sticking point between teenagers and their parents._  
 __sticks and stones__  
 __stickup__ _slang_ A robbery, especially at gunpoint. _That’s the second stickup at that gas station this month._  
@@ -5300,7 +5316,8 @@ __stomach__ :two: To tolerate someone or something. (Usually negative.)
 __stone cold__ :three: Completely bereft of emotion or concern. Hyphenated if used as a modifier before a noun. _The criminal was stone cold as she sat in the courtroom stone and heard the verdict being handed down._ _Sam was a stone-cold killer._ _Stone cold sober._  
 __stop (dead) in (one’s) tracks__ :two::hammer:  
 __stop at nothing__ :dart: To do whatever it takes to accomplish a task or goal. _I assure you, ma’am, we will stop at nothing to catch that thief._ _They will stop at nothing to keep the Haller-Bosch dream team from uncovering what the deputy’s killing was really about._  
-__stop short__ :two: To abruptly stop doing something.  
+__stop short__ :three: To abruptly stop doing something.  
+__storm in__  
 __storming mad__ Exceptionally or uncontrollably angry. _Chris’s comments made me storming mad, so I had to go for a walk alone to settle down._  
 __story arc__  
 __stow away__  
@@ -5317,8 +5334,10 @@ __strike (one) as (something)__ To cause one to consider someone or something as
 __strike a (raw) nerve__  
 __strike a chord__ :three: Trigger a feeling or memory, as in _That poem strikes a chord in all those touched by the Holocaust._ This term alludes to striking the strings or keys of a musical instrument.  
 __strike a deal__ :three: To successfully achieve a deal or agreement, especially regarding an acceptable price or exchange for something.  
+__strike action__  
 __strike off__ :two: __1__ To depart for or begin traveling to (some place). _Make sure you eat a good breakfast before you strike off!_  
 __strike out__ __4__ To fail to achieve a desired result. _The eighth film in the horror series struck out with audiences._ _I tried to get a phone number from her, but I struck out again._  
+__strive to (do something)__ To put forth a great and tenacious effort to do or accomplish something.  
 __strong word__  
 __strong words__ :two::hammer:  
 __strong-arm__  
@@ -5334,12 +5353,12 @@ __sugar baby__ A young female or male who is financially pampered/cared for by a
 __sugar daddy__  
 __sugar mommy__  
 __sugar talk__ Sugar talk refers to a type of language or communication that is overly flattering, ingratiating, or excessively polite, often with the intention of manipulating or deceiving others.  
-__sugarcoat (something)__ :two: To say, explain, or present something in a manner that is easier to accept, understand, cope with, or endure. _Don’t sugarcoat it for me, Doc—is my wife going to make it?_  
+__sugarcoat (something)__ :three: To say, explain, or present something in a manner that is easier to accept, understand, cope with, or endure. _Don’t sugarcoat it for me, Doc—is my wife going to make it?_  
 __sum up__ :two: To give a brief and accurate summary, description, assessment, or representation of something; to summarize. A noun or pronoun can be used between “sum” and “up.” _To sum up, we need to reduce our expenditures and target new markets in order to grow._ _Summing up, we can say that yadda yadda yadda._  
 __Sunday best__ One’s very best clothes, as one would wear to a Sunday church service. _Rita wanders a highway in her Sunday best._  
 __Sunday scaries__  
 __sure as hell__ :two: (See _(as) sure as hell_.)  
-__sure enough__ :four: As one might have expected; certainly. _Sure enough, that’s what happened._  
+__sure enough__ :five: As one might have expected; certainly. _Sure enough, that’s what happened._  
 __sure thing__ :two::hammer:  
 __surefire__ :two: Certain to work, be effective, or have a particular outcome; foolproof. The term is sometimes hyphenated, and it is always used before a noun. _Coming in to work drunk is a surefire way to get yourself fired, Tom._ _We’ve developed a sure-fire method of teaching grammar to grade-schoolers in a way that they will not ignore or forget._ _A surefire tactic._ _You need some surefire strategies to get your toddler to take medicine._  
 __surprise, surprise__ :four: Said ironically of or in a situation in which something very predictable has happened.  
@@ -5362,6 +5381,8 @@ __sweet spot__ :six: A particular point, area, or range where something will be 
 __sweet tooth__  
 __swept away__  
 __swim against the tide__ To go against or disagree with a prevailing or popularly held opinion or perspective; to act or behave contrary to the majority of others.  
+__swing state__  
+__swipe at__  
 __swipe back__ Swipe back is a term used in the context of dating or social media apps. It means to go back to a profile that you had previously “swiped left” on, or passed up, and give it a second look.  
 __Swiss Army Knife__ _The Swiss Army Knife of cultural attractions in Chicago._  
 __switch gears__ :dart::two: To quickly or abruptly change what one is doing or discussing. _With that out of the way, let’s switch gears and discuss our strategy for the third quarter._  
@@ -5371,6 +5392,7 @@ __switcheroo__ _slang_ A surprising, unexpected, or deceptive swap, change, vari
 __sword of Damocles__  
 __sync up__ _Syncing up over coffee._  
 __table talk__ The conversation that takes place during a meal. _Once politics and religion enter table talk, it’s time to finish the meal as quickly as possible._  
+__tack on__  
 __tack__ _n_ _I decided to take a different tack._  
 __tacky__ :two::hammer:  
 __tag along__ :seven::dart: To accompany or closely follow someone or a group, perhaps when one is not part of the group or when one’s presence is not wanted. _I decided to tag along and see if they found anything interesting._ _Do you mind if my little brother tags along? My parents want him to get out of the house for a while._ _His old swing has tagged along._ _You want to tag along?_  
@@ -5393,6 +5415,7 @@ __take (something) into consideration__
 __take (something) lightly__  
 __take (something) to heart__  
 __take (something) to the bank__  
+__take (something) with a dash of salt__  
 __take (something) with a grain of salt__ :two::hammer:  
 __take (the) roll__ :dart: In a group setting, to call out each person’s name from a list to see if they are present or absent. _I haven’t taken roll yet, but it looks like a lot of kids are absent from school today._ _The teacher spent 10 min of class taking roll._  
 __take a bawling out__ To receive a very severe rebuke, chastisement, or scolding (from someone). _I sure took a bawling out from my parents after I smashed up their car._  
@@ -5402,12 +5425,14 @@ __take a breath__ To inhale and then exhale. _I can tell that you’re just a bi
 __take a breather__ To take a short pause or hiatus (from something). _You can go ahead on the hike if you want, I•m going to stop here and take a breather._ _The senator is taking a breather from his campaign to spend some time with his family._  
 __take a catnap__ To sleep for a very brief but restful period of time. _I’m going to try to take a catnap before my next shift starts, or else I’ll be feeling sluggish for the entire evening._ _Julie gets up really early to do her writing before the kids wake up, then takes little catnaps throughout the day._  
 __take a deep breath__ :four::hammer:  
-__take a deep dive__ A thorough and comprehensive exploration or investigation into a particular subject or topic.  
+__take a deep dive__ :two: A thorough and comprehensive exploration or investigation into a particular subject or topic.  
 __take a dive__  
 __take a fit__ To become very or unreasonably angry or upset; to have an outburst of rage, frustration, or ill temper. _My mom’s going to take a fit when she sees what happened to the car!_ _I was so embarrassed when Danny started taking a fit in the grocery store._  
 __take a haircut__ A reduction in value. To accept a loss on a return of a financial investment. _The new interest rate hike means that many investors will be forced to take a haircut on their largest assets in the coming fiscal year._  
 __take a hike__ __1__ Literally, to go on a hike. __2__ By extension, to get out of here; to go away; to get lost. Usually used as an imperative. _Listen, I don’t want to buy any, so why don’t you just take a hike and leave me alone!_  
+__take a hit__ :dart:  
 __take a leak__ :three: _vulgar slang_ To urinate. (Crude. Use caution with the topic. Usually in reference to a male.) _Could you pull over? I need to take a leak._  
+__take a leap of faith__  
 __take a load off (one’s feet)__ To sit down and rest one’s feet; to relax. (Usually said as a suggestion.) _Why don’t you go take a load off for a while, and I’ll fix dinner for tonight?_  
 __take a pass__  
 __take a piss__ Urinate.  
@@ -5424,7 +5449,7 @@ __take aim (at someone or something)__ :two::hammer:
 __take aside__  
 __take back__  
 __take by storm__ _The dystopian drama that has taken the internet by storm._  
-__take center stage__ To be the main focus.  
+__take center stage__ :two: To be the main focus.  
 __take charge__  
 __take comfort in (something)__ To be soothed or calmed by something. _When things get tough, I take comfort in the company of my closest friends._  
 __take five__ :dart: To take a short break, about five minutes.  
@@ -5432,7 +5457,9 @@ __take for granted__
 __take forever__ :dart:  
 __take fright__ To become very frightened or startled (by something). Often followed by “at (something).”  
 __take heart__ :five::dart: To be confident or courageous.  
+__take home__  
 __take ill__ To be or become sick or unwell. _I heard your sister has taken ill recently. I hope that it isn’t anything too serious?_  
+__take issue__ :two: To strongly disagree with or take offense at something.  
 __take it away__ :two: _informal_ An invitation or instruction for someone to begin their performance. Start up the performance!; Let the show begin! (Typically a public announcement of the beginning of a musical performance.) _And now, here is the band playing “Song of Songs.” Take it away!_ _We’ve brought in a very talented young band to entertain you this evening. Take it away, girls!_  
 __take it away!__  
 __take it to the bank__  
@@ -5578,6 +5605,7 @@ __the end of (one’s) rope__ A point of utter exhaustion or exasperation; a poi
 __the end of the world__ An extremely bad situation or event. Almost always used hyperbolically and ironically. _Well, whoever is elected, it won’t be the end of the world; each candidate is as good or bad as the other in my book._  
 __the eye of the storm__ The center of a tumultuous situation, typically a conflict of some kind. The phrase alludes to the center of an actual storm, such as a hurricane, which rotates around a central point.  
 __the fact of the matter__ The most basic, fundamental truth of something.  
+__the faint of heart__  
 __the final nail in the coffin__  
 __the final straw__  
 __the floor is yours__ :two: You can talk now. _That’s all I have to say—the floor is yours._  

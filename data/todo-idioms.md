@@ -298,56 +298,6 @@ __run deep__ To be well established and strongly integrated into the nature or c
 __run out of steam__ :dart: To lose one’s energy, motivation, or enthusiasm to continue doing something.  
 __run through (something)__ __4__ To guide one through or inform one of the process or details of something. In this usage, a noun or pronoun is used between “run” and “through.” _Can you run me through the plan one more time?_  
 __running high__ [for feelings] To be in a state of excitement or anger. _Feelings were running high as the general election approached._  
-__scavenger hunt__  
-__seems about right__ A phrase used in English to express agreement with something that has been said or to indicate that something appears to be generally accurate.  
-__sell like hot cakes__  
-__send a message__ To emphasize or make a clear statement of one’s position.  
-__send the wrong message__ To do or say something that communicates a meaning different or contrary to what one desires, either implicitly or explicitly.  
-__set (someone or oneself) up for (something)__  
-__set sail__ To embark on a journey on water in a boat (not necessarily one with sails).  
-__set the tone__  
-__shed (some) light on (something)__  
-__shell out__ :two: To pay a sum of money, especially one that seems exorbitant or unfair. A noun or pronoun can be used between “shell” and “out” to specify the amount being paid.  
-__shy away (from someone or something)__  
-__simply put__  
-__sink or swim__  
-__sit on (something)__  
-__slap on the wrist__  
-__slide into (someone or something)__  
-__SMH__ An abbreviation for “shaking my head” or “shake my head,” an expression of disbelief or exasperation (likened to the actual gesture of shaking one’s head, which is used to express the same things). _Did she really say that? SMH._  
-__smooth out__  
-__sneak peak__  
-__sniff out__  
-__snot__  
-__soak in__  
-__soccer mom__  
-__soul searching__  
-__sound the alarm__ __2__ To alert other people about something dangerous, risky, or troublesome.  
-__speak (one’s) mind__  
-__spill the tea__ :two::hammer:  
-__spray and pray__ __1__ _informal_ To dispense anything (such as bullets or advertising) in an uncoordinated manner, hoping to reach the desired target through luck. __2__ The act of blindly firing an automatic weapon with the intent of potentially hitting the target; tends to be ineffective.  
-__stand on (one’s) own (two) feet__ :dart:  
-__stay strong__  
-__steal the show__  
-__step in__  
-__stick with (someone or something)__  
-__stop short__  
-__storm in__  
-__strike action__  
-__strive to (do something)__ To put forth a great and tenacious effort to do or accomplish something.  
-__sugarcoat (something)__  
-__sure enough__ As expected or anticipated.  
-__swing state__  
-__swipe at__  
-__tack on__  
-__take (something) with a dash of salt__  
-__take a deep dive__  
-__take a hit__ :dart:  
-__take a leap of faith__  
-__take center stage__  
-__take home__  
-__take issue__ :two: To strongly disagree with or take offense at something.  
-__the faint of heart__  
 __trash talk__  
 __trickle down__ __2__ To distribute, pass, or diffuse to people lower on a hierarchical structure.  
 __turn heads__  
