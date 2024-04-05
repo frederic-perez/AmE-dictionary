@@ -163,7 +163,7 @@ __achondroplasiaphobia__ _n_ Fear of little people or midgets. _Syn_ nanosophobi
 __achoo__  
 __acme__  
 __acne__ _n_ :mega::three::hammer:  
-__acolyte__ _n_ :nine: __1__ Any attendant, assistant, or follower. _To his acolytes, he is known simply as ‘The Boss.’_ __2__ An altar attendant in public worship; altar boy.  
+__acolyte__ _n_ :nine::m: __1__ Any attendant, assistant, or follower. _To his acolytes, he is known simply as ‘The Boss.’_ __2__ An altar attendant in public worship; altar boy.  
 __acorn worm__ _n_ Any of a class (Enteropneusta) of burrowing wormlike marine animals having an acorn-shaped proboscis and classified with the hemichordates.  
 __acorn__ _n_ :four::hammer: _The acorn don’t fall far from the tree._ _Mighty oaks from little acorns grow._ :es: bellota  
 __acquaintance__ _n_ :pencil2:  
@@ -3967,7 +3967,7 @@ __conscious__ _adj_ /kon-shuhs/
 __consciousness__ _n_  
 __conscript<sup>1</sup>__ _n_ One compulsorily enrolled for service, especially in the armed forces; a draftee.  
 __conscript<sup>2</sup>__ _v_ :five::hammer: (conscripted) _I was conscripted into the army._  
-__conscription__ _n_ :four: __1__ Compulsory enrollment, especially for the armed forces; draft.  
+__conscription__ _n_ :dart::five: __1__ Compulsory enrollment, especially for the armed forces; draft.  
 __consecrate__ _v_ :two::hammer: _The current church building was consecrated in 1909._  
 __consecutive__ _adj_ :two::hammer:  
 __consensual__  
@@ -4115,7 +4115,7 @@ __copy__ _n_ __2a__ Material, such as a manuscript, that is to be set in type. _
 __copyedit__ _v_ To correct and prepare (a manuscript, for example) for publication.  
 __copyeditor__ _n_ :two: (copy editor) A person who edits a manuscript, text, etc., for publication, esp. to correct errors in style, punctuation, and grammar.  
 __copyleft__ _n_  
-__copywriter__ _n_  
+__copywriter__ _n_ :two::hammer:  
 __coquetry__ _n_ /ˈkoʊ kɪ tri, koʊˈkɛ tri/ __1__ The behavior of a coquette; flirtation. __2__ A flirtatious act.  
 __coracle__ _n_ :two: (coracles) A small rounded boat made of hides stretched over a wicker frame; still used in some parts of Great Britain.  
 __cord blood__  
@@ -4364,6 +4364,7 @@ __crewcats__
 __crib__ _n_ :six: __2a__ A small building, usually with slatted sides, for storing corn. __b__ A rack or trough for fodder; a manger. __c__ A stall for cattle. __10__ _n informal_ A literal translation used in studying a foreign language (often used illicitly).  
 __cribbage__ _n_ :mega: /ˈkrɪbɪdʒ/ _game_  
 __crier__ _n_ :two: __2__ (formerly) an official who made public announcements, esp in a town or court. _Public criers._  
+__crime of passion__  
 __crimp<sup>1</sup>__ _n_ __1__ Usually, crimps. waves or curls, especially in hair that has been crimped or that displays a crimped pattern. __2__ The waviness imparted to natural or synthetic fibers by weaving, knitting, plaiting, or other processes. __3__ A crease formed in sheet metal or plate metal to make the material less flexible or for fastening purposes.  
 __crimp<sup>2</sup>__ _v_ :nine::m: (crimped) To press or pinch into small regular folds or ridges: _crimp a pie crust._  
 __crimson__ _n_ :four::hammer: _Crimson cereal._ _Her face went crimson._ _Soar among the spectacular crimson mesas._  
@@ -4395,6 +4396,7 @@ __crochet__ _v_ :five::hammer: (crocheting)
 __crocheter__ _n_  
 __crock__ _n_ :two::hammer:  
 __crockery__ _n_ :two::hammer:  
+__crocus__ _n_  
 __croft__ _n_ :three::hammer::pencil2:  
 __cromagnon__ _n_ :mega:  
 __crone__ _n_ :three: A witchlike old woman.  
@@ -4410,6 +4412,7 @@ __crop-duster__ _n_ :camera: _The crop-duster attack in North by Northwest._
 __crosbar__ _n_ _soccer_  
 __cross hairs__ _n pl_  
 __cross oneself__ _v_ Make the sign of the cross; in the Catholic religion. :es: santiguarse  
+__cross section__ _n_ :dart::two: (cross-section) A section formed by a plane cutting through an object, usually at right angles to an axis.  
 __cross talk__ _n_ :two: Interference heard on a telephone or radio because of unintentional coupling to another communication channel.  
 __cross-compiler__ _n_  
 __cross-country<sup>1</sup>__ _adj_ :two::hammer:  
@@ -4417,6 +4420,7 @@ __cross-country<sup>2</sup>__ _n_
 __cross-examination__ _n_  
 __cross-eyed__ _adj_ :two::hammer: _An infamous cros-eyed burglar._  
 __cross-grained__ _adj_ Difficult to deal with.  
+__cross-sectional__ _adj_  
 __cross<sup>2</sup>__ _v_ :three::hammer: _They paled and crossed themselves._ __12__ To turn (the eyes) inward toward the nose. _The boy made a funny face and crossed his eyes._ _There’s kid stuff that makes adults kind of cross their eyes._  
 __cross<sup>3</sup>__ _adj_ _No one heard her say a cross word about anyone else._  
 __crossbar__ _n_  
@@ -4580,6 +4584,7 @@ __customs__ _n_ (at airport)
 __cut me a little slack__  
 __cut shot__ _n_ A type of shot in several sports.  
 __cut__ _n_ :three: __10__ _informal_ A portion of profits or earnings; a share. _His cut of the $50,000._ __16__ _Baseball_ A swing of a bat. _He was finished taking his cuts in batting practice._  
+__cut-and-dried__ _adj_ (cut-and-dry)  
 __cut-and-dry task__  
 __cut-off date__ _n_  
 __cutdown__ _n_ __2__ The surgical insertion of a catheter into a vein, as for the administration of intravenous medication.  
@@ -4618,7 +4623,7 @@ __dacha__ _n_ A vacation cottage or country villa in Russia or other parts of th
 __dada__ _n_ _Cinematic dada._  
 __Daddy-O__ _n_  
 __daedal__ _adj_ :two: /DEE-duhl/ [:scroll: From Latin daedalus (skillful), from Greek daidalos. In Greek mythology, Daedalus was an architect and craftsman who built the labyrinth for King Minos of Crete. When the king imprisoned him so the knowledge of the labyrinth wouldn’t spread, Daedalus made wings for himself and his son Icarus. ] __1__ Ingenious and complex in design or function; intricate. __2__ Finely or skillfully made or employed; artistic.  
-__daffodil__ _n_ :four::hammer:  
+__daffodil__ _n_ :five::hammer: /ˈdæf ə dɪl/ :es: narciso  
 __daffy__  
 __daft__ _adj_ :four::hammer:  
 __dafter__  
@@ -4639,6 +4644,7 @@ __dalliance__ _n_ :two::hammer:
 __dally__ _v_ :six::hammer: (dallied, dallying)  
 __Dalmatian__ _n_ A dog of a large, white short-haired breed with dark spots.  
 __dam__ _n_ _The Hoover Dam._  
+__damage__ _n_ :mega:  
 __damask__ _n_ :three: /DAM-usk/ _Damask_ refers to a usually shiny, thick fabric (as of linen, cotton, silk, or rayon) made with patterns. The word can also be used as a synonym of Damascus steel, or for a grayish red color. _Apparel of fine damask._  
 __dammit__  
 __damn__ _adj, adv, n, v_ :mute:[dam~~n~~]  
@@ -4759,7 +4765,7 @@ __debonnaire__ _adj_ :two::hammer:
 __debouch__ _v_ :two: __1__ March out (as from a defile) into open ground. _The regiments debouched from the valley._ __2__ Pass out or emerge; especially of rivers. _The tributary debouched into the big river._  
 __debrief__ _v_ :two::hammer:  
 __debriefing__ _n_ :seven::hammer: _You must show up at least 15 minutes early for debriefing._ _A three-day debriefing session._  
-__debris__  
+__debris__ _n_ :two::hammer::mega:  
 __debt__ _n_ :six::mega::mute:[de~~b~~t]:hammer:  
 __debtor__ _n_  
 __debunk__ _v_ :five: /dee-BUNK/ To debunk something, such as a story, theory, or idea, is to show or expose the falseness of it. To expose or ridicule the falseness, sham, or exaggerated claims of. _Syn_ expose _The article thoroughly debunks the notion that life exists on Mars._  
@@ -4778,6 +4784,7 @@ __decathlon__
 __deceit__ _n_ :three::mega::hammer: /dɪˈsiːt/  
 __decelerate__ _v_  
 __December__ _n_ /dɪˈsɛm bər/  
+__decennary__ _n_ A period of 10 years. _Syn_ decade  
 __decidedly__ _adv_ :pencil2: Without question and beyond doubt. _It was decidedly too expensive._ _It’s offering a decidely fresh atmosphere._  
 __decidophobia__ _n_  
 __deciduous__ _adj_ :three: Shedding the leaves annually.  
@@ -4832,7 +4839,7 @@ __deep-seated__ _adj_ _Deep-seated flaws._
 __deep-six__ _v informal_ :three: Destroy or dispose of (something) irretrievably. _Someone had deliberately deep-sixed evidence._ _Bonuses were being deep-sixed._  
 __deep<sup>1</sup>__ _adj_ :two::hammer: _Deep discounted prices._ __1g__ (Sports) Located or taking place near the outer boundaries of the area of play: _deep left field._ _Tyron Taylor throws a nice deep ball._  
 __deep<sup>2</sup>__ _n_ __9__ Large in quantity or size; big: _deep cuts in the budget._ _Deep breakfast._  
-__deepfake__ _n_ :two: /DEEP-fayk/ Deepfake refers to an image or recording that has been convincingly altered and manipulated to misrepresent someone as doing or saying something that was not actually done or said. _The leaked video incriminating the school’s dean was discovered to be a deepfake._  
+__deepfake__ _n_ :three: /DEEP-fayk/ [:scroll: A combination of deep learning + fake. Coined by a user of the Reddit website.] Digitally manipulated images, video, or audio that make someone appear to do or say something they did not. Deepfake refers to an image or recording that has been convincingly altered and manipulated to misrepresent someone as doing or saying something that was not actually done or said. _The leaked video incriminating the school’s dean was discovered to be a deepfake._  
 __deeply__  
 __deer__ _adj_ _A deer survey._  
 __deface__ _vt_ :three: __1__ To mar the surface or appearance of; disfigure. _Defacing two murals._  
@@ -4845,7 +4852,7 @@ __default<sup>2</sup>__ _v_ :seven::hammer: _The Solar Energy company defaulted.
 __defect__ _vi_ :nine::m: __1__ To disown allegiance to one’s country and take up residence in another: _a Soviet citizen who defected to Israel._ _He defected to Canada with the help of the CIA._ To desert one’s country, cause, allegiance, etc, esp in order to join the opposing forces. _A Soviet grandmaster had defected to the West._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
 __defection__ _n_ :nine::m: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward’s defection._  
 __defective__ _adj_  
-__defector__ _n_ :four::hammer: _Army defectors._  
+__defector__ _n_ :five::hammer: _Army defectors._  
 __defenestration__ _n_ :two: Defenestration originally meant “a throwing of a person or thing out of a window.” Today, it’s more often used for “a usually swift dismissal or expulsion (as from a political party or office).” _Michael’s annoyance at his alarm clock’s persistent drone led to its sudden defenestration from his eighth-floor bedroom._  
 __defensive__ _adj_ :two::hammer: _You seem defensive now._  
 __defer__ _v_ :seven: /dih-FER/ (deferred) To delay or cause to be delayed until a future time; postpone. To choose to do (something) at a later time. _She deferred her master’s program for a year so that she could travel the world._  
@@ -4898,6 +4905,7 @@ __delight<sup>1</sup>__ _n_ :two::hammer:
 __delight<sup>2</sup>__ _v_ _It delighted me even though I expected it._  
 __delimit__ _v_ Set, mark, or draw the boundaries of something. _Syn_ demarcate _This map that my mother drew delimits how far from home I am allowed to wander without an adult._  
 __delirium tremens__ _n_ An acute, sometimes fatal episode of delirium usually caused by withdrawal or abstinence from alcohol following habitual excessive drinking. It also may occur during an episode of heavy alcohol consumption.  
+__delirium__ _n_  
 __delisted__ _v_  
 __deliver<sup>1</sup>__ _vt_ :three::hammer: __8__ To give forth or produce.  
 __deliver<sup>2</sup>__ _vi_ :dart::nine::m: __1__ To produce or achieve what is desired or expected; make good: _The senator delivered on her pledge._ _He is a manager who just can’t seem to deliver._ _Al was a man who could deliver._ _Republicans apparently cannot deliver._ _There is a hundred grand if you can deliver._ _Can the recovery plan for elective care in England deliver?_ __2__ To give birth: _She expects to deliver in late August._  
@@ -4987,6 +4995,7 @@ __dereliction__ _n_ :two::hammer:
 __deride__ _vt_ __1__ To laugh at or insult contemptuously: _got derided by a carnival clown._ __2a__ To subject to usually bitter or contemptuous ridicule or criticism: _politicians deriding their opponents._ __b__ To express a lack of respect or approval of: _were derided as the weaker sex._  
 __derision__  
 __derive__ _v_  
+__derogation__ _n_ A communication that belittles somebody or something. _Syn_ disparagement, depreciation  
 __derogative__ _adj_  
 __derrick__ _n_ :two::hammer:  
 __derring-do__ _n_ /ˈdɛrɪŋˈduː, dair-ing-DOO/ _archaic or literary_ A daring spirit or deed; boldness or bold action. _Derring-do_ refers to daring action that requires bravery and courage. _In a spectacular feat of derring-do, the stuntman leaped from the overpass and landed on top of the train as it passed below._  
@@ -5053,6 +5062,7 @@ __developer__ _n_ _This land attracts developers, architects, builders and broke
 __development__ _n_ :five: __2__ A significant event, occurrence, or change. _A key development._ __5__ A large group of dwellings, often of similar design and constructed as a community, esp. by a real-estate developer. A district that has been developed to serve some purpose; _“such land is practical for small park developments.”_ _Choose your home from 8 new developments across London._  
 __deviancy__  
 __deviate__ _v_ :mega:  
+__devil__ _n_ /ˈdɛv əl/  
 __devil-may-care style__  
 __deviled egg__ _n_ :camera::five: (deviled eggs, also known as stuffed eggs, Russian eggs, or dressed eggs) Halved hard-cooked egg with the yolk mashed with mayonnaise and seasonings and returned to the white. _Syn_ stuffed egg  
 __devilish<sup>1</sup>__ _adj_ __1__ Of, resembling, or befitting a devil; diabolic; fiendish. __2__ Excessive; extreme: _devilish heat._  
@@ -5317,7 +5327,7 @@ __disquisitition__ _n_ :pencil2:
 __disrupt__ _v_ :three::hammer: _A Trump supporter disrupted a Broadway musical._  
 __disruption__ _n_ :two::hammer:  
 __diss__ _v_ _slang_ To insult someone, to treat someone with disrespect. Origin: by 1980, shortening of disrespect or dismiss, originally in U.S. Black English, popularized by hip hop.  
-__dissatisfaction__ _n_ :five::hammer::pencil2:  
+__dissatisfaction__ _n_ :six::hammer::pencil2:  
 __dissatisfied__ _adj_ :four::pencil2: Feeling or exhibiting a lack of contentment or satisfaction.  
 __dissatisfy__ _v_ :three::hammer: (dissatisfied)  
 __dissection__ _n_ _Dissections in coronary vessels._  
@@ -5499,6 +5509,7 @@ __dorsal__ _adj_ Relating to or found on the back of a fish or animal.
 __dossier__ _n_ :mega: /ˈdɒs iˌeɪ, ˈdɔ siˌeɪ/  
 __dot__ _v_ :five: (dotted) __1__ Mark with a dot. _Wooden stools dot the floor of hot spots._ __2__ 10. (tr) to scatter or intersperse (with dots or something resembling dots): _bushes dotting the plain._ _Statues and fountains dot every turn._  
 __dot-com__ _adj, n_ _The bursting of the dot-com bubble._  
+__dot-connect__ _vi_ /DOT-kuh-nekt/ [:scroll: From the expression “to connect the dots”. From puzzles in which a line is drawn between a sequence of numbered dots to reveal a picture.] To make connections between different pieces of information in order to reach a conclusion.  
 __dotage__ _n_ __1__ Feebleness of mind, esp as a result of old age. __2__ Foolish infatuation.  
 __dote__ _v_ (doted) To show excessive fondness or love: doted on their only child.  
 __dotting__  
@@ -5522,7 +5533,7 @@ __doublet__ _n_ :camera:
 __doubly__  
 __doubt__ _n, v_ :three::hammer::mega::mute:[dou~~b~~t] /daʊt/  
 __doubting Thomas__ _n_  
-__doubtless__ _adj, adv_ :two::hammer:  
+__doubtless__ _adj, adv_ :three::hammer:  
 __douche__ _n_ __4__ _vulgar_ _slang_ A foolish or contemptible person.  
 __douchebag__ _n phr_ _informal_ :three: (douche bag) An obnoxious or contemptible person, typically a man. :es: gilipollas  
 __dough__ _n_ :two::mute:[dou~~gh~~] __2__ _slang_ Money.  
@@ -5552,7 +5563,7 @@ __downdraft__ _n_ :two: (downdrafts) A downward current, as of air.
 __downed__ _v_ _Terrorists had downed a Russian plane in October._  
 __downer__ _n_ :four::hammer: (downers)  
 __downey__ _adj_  
-__downfall__ _n_  
+__downfall__ _n_ :two::hammer:  
 __downhearted__ _adj_  
 __downhill<sup>1</sup>__ _adv_ :camera::three: __1__ Down the slope of a hill. __2__ Toward a lower or worse condition: _The alcoholic’s health went downhill fast._ _David Bowie dead, and it was all downhill from there._  
 __downhill<sup>2</sup>__ _adj_ Sloping downward; descending.  
@@ -5569,7 +5580,7 @@ __downspout__ _n_
 __downswing__ _n_ A worsening of business or economic activity. _Syn_ downturn  
 __downtime__ _n_ :six::hammer:  
 __downtrodden__ _adj_ :eight::hammer: _The Clippers were the victims, the downtrodden, the doormats._ _Riots rocked downrodden urban areas across the country._  
-__downturn__ _n_ :three::hammer: (downturns)  
+__downturn__ _n_ :four::hammer: (downturns)  
 __downward dog__ _n_ A yoga pose in which the body assumes an inverted V shape, with the hands and feet on the floor, and the buttocks pointing upward. _Just because you’re not in a yoga studio, it doesn’t mean you can’t practice your downward dog._  
 __downward__ _adj, adv_ _A downward spiral._  
 __downy__ _adj_ __1__ Made of or covered with down. _Downy coat._  
@@ -5751,6 +5762,7 @@ __due<sup>1</sup>__ _adj_
 __due<sup>2</sup>__ _n_  
 __due<sup>3</sup>__ _adv_ :two: Straight; directly. _Go due west._ _They travelled due south._  
 __duel__ _n_ :mega:  
+__duende__  
 __duffel bag__ _n_ :four::dart::camera: (duffle bag) A large cylindrical cloth bag of canvas or duck for carrying personal belongings.  
 __duffer__ _n informal_ :six: An incompetent or stupid person. _A complete duffer at languages._ _Syn_ bungler, blunderer, incompetent, fool, idiot _Wealthy duffers._  
 __duffle bag__ _n_ :dart: A large cylindrical cloth bag of canvas or duck for carrying personal belongings.  
@@ -5827,6 +5839,7 @@ __dysphemism__ _n_
 __dysphoria__ _n_ :four: An emotional state characterized by anxiety, depression, or unease.  
 __dysplasia__ _n_ Abnormal development or growth of tissues, organs, or cells. _Canine hip dysplasia._  
 __dyspnea__ _n_ :three: Difficulty in breathing, often associated with lung or heart disease and resulting in shortness of breath. Difficult or labored breathing. Also called _air hunger_.  
+__dyspraxia__ _n_  
 __dystonia__ _n_ [:scroll: dys- + G. tonos, tension] A syndrome of abnormal muscle contraction that produces repetitive involuntary twisting movements and abnormal posturing of the neck, trunk, face, and extremities.  
 __dystopia__ _n_ _Philip K. Dick story takes place in an alternate dystopia in which the Nazis and Japanese won Worls War II._  
 __dystopian__ _adj_  
@@ -5891,7 +5904,8 @@ __echt__ _adj_ /EKHT/ Echt is an adjective used mostly in formal or literary spe
 __eclampsia__  
 __éclat__ _n_  
 __eclectic__ _adj_ :two::pencil2::hammer:  
-__eclipse__ _n_ :two::hammer::mega: /ɪˈklɪps/  
+__eclipse<sup>1</sup>__ _n_ :three::hammer::mega: /ɪˈklɪps/  
+__eclipse<sup>2</sup>__ _vt_ /ɪˈklɪps/  
 __ecliptic__ _n_  
 __ecology__ _n_  
 __ecosystem__ _n_  
@@ -5919,6 +5933,7 @@ __edutainment__ _n_
 __eel__ _n_ :two::hammer: _Electric eels._  
 __eerie__ _adj_ :nine: (eery) Uncanny, so as to inspire superstitious fear; strange and mysterious: _an eerie howl._ _Eerie incidents._  
 __eerily__ _adv_ :three::hammer:  
+__efface__ _vi_ /i-FAYS/ To erase or to make inconspicuous.  
 __effect__ _v_ :four::hammer: (effecting) _A view to effecting opportunities._  
 __effective altruism__  
 __effeminacy__ _n_  
@@ -6012,7 +6027,7 @@ __eloquent__ _adj_ :two::hammer: /EL-uh-kwunt/
 __elucidate__ _v_ :five: /ih-LOO-suh-dayt/ /ɪˈluːsɪˌdeɪt/ To make something that is hard to understand clear or easy to understand. _The author elucidates complex ideas to a general audience._  
 __elucidation__ _n_  
 __elude__ _v_ :three::astonished::hammer: (eluding)  
-__elusive__ _adj_ :three::hammer: _An elusive goal._  
+__elusive__ _adj_ :four::hammer: _An elusive goal._  
 __elute__ _vt_ :two::hammer: /ee/i-LOOT/ To wash out or extract, especially with a solvent. _The future of drug-eluting stents._  
 __elysian__ _adj_ Blissful, delightful. Resembling paradise; causing happiness: _Elysian peace._ Of such surpassing excellence as to suggest divine inspiration: _An elysian meal._  
 __Elysium__ _n_ /i-LIZH-ee-uhm/ A place of perfect happiness.  
@@ -6080,7 +6095,7 @@ __emprise__ _n_ [:scroll: Emprise descends from the Anglo-French word _emprendre
 __empty talk__ _n_  
 __empty-handed__ _adj_  
 __empty-net/power-play/short-handed goal__  
-__emulate__ _v_  
+__emulate__ _v_ :two::hammer: /EM-yuh-layt/  
 __emulsified__ _v_  
 __en masse__ _adv_ :three: In one group or body; all together: _The protesters marched en masse to the capitol._ _Cruz supporters are going to bolt to Rubio en masse._ _Cavalry could not deploy en masse owing to the marshes, hedges, and ditches._  
 __en route<sup>1</sup>__ _adj_  

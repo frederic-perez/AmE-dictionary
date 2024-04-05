@@ -1,33 +1,3 @@
-__acolyte__  
-__conscription__ _n_ :dart:  
-__copyrighter__ _n_  
-__crime of passion__  
-__crocus__ _n_  
-__cross section__ _n_ :dart::two: (cross-section) A section formed by a plane cutting through an object, usually at right angles to an axis.  
-__cross-sectional__ _adj_  
-__cut-and-dried__ _adj_ (cut-and-dry)  
-__daffodil__ _n_ /ˈdæf ə dɪl/ :es: narciso  
-__damage__ _n_ :mega:  
-__debris__ _n_ :mega:  
-__decennary__ _n_ A period of 10 years. _Syn_ decade  
-__deepfake__ _n_ /DEEP-fayk/ [:scroll: A combination of deep learning + fake. Coined by a user of the Reddit website.] Digitally manipulated images, video, or audio that make someone appear to do or say something they did not.  
-__defector__ _n_  
-__delirium__ _n_  
-__derogation__ _n_ A communication that belittles somebody or something. _Syn_ disparagement, depreciation  
-__devil__ _n_ /ˈdɛv əl/  
-__dire__ _adj_  
-__dissatisfaction__ _n_ :pencil2:  
-__dot-connect__ _vi_ /DOT-kuh-nekt/ [:scroll: From the expression “to connect the dots”. From puzzles in which a line is drawn between a sequence of numbered dots to reveal a picture.] To make connections between different pieces of information in order to reach a conclusion.  
-__doubtless__ _adj, adv_  
-__downfall__ _n_  
-__downturn__ _n_  
-__duende__  
-__dyspraxia__ _n_  
-__eclipse<sup>1</sup>__ _n_ :mega:  
-__eclipse<sup>2</sup>__ _vt_ /ɪˈklɪps/  
-__efface__ _vi_ /i-FAYS/ To erase or to make inconspicuous.  
-__elusive__  
-__emulate__ _v_ /EM-yuh-layt/  
 __end stage__ _adj_ (end-stage, endstage) The late, fully developed phase of a disease.  
 __envision__ _vt_ :two::hammer:  
 __equinox__  
