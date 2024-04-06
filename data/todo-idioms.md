@@ -1,38 +1,3 @@
-__(a)round the clock__  
-__(I’m) not gonna lie__  
-__(it’s) (a)bout time__  
-__(it’s) good to see you (again)__  
-__(one’s) finest hour__  
-__(one’s)/the best bet__ The action or idea that is most likely to be successful.  
-__(You) got it?__  
-__a bad rap__  
-__a badge of honor__ Something that one considers a point of personal pride. Sometimes used in relation to something that might typically be considered a negative trait or aspect.  
-__a balancing act__  
-__a card up (one’s) sleeve__  
-__a heavy heart__ A state of profound dejection, depression, or grief. _It is with a heavy heart that we announce the passing of our beloved father._  
-__algospeak__ _n_ (social media, neologism) A form of euphemism for evading social media content filters.  
-__and so on and so forth__ :two::hammer:  
-__anybody’s/anyone’s guess__  
-__anytime soon__  
-__as we speak__  
-__at a crossroads__  
-__at the end of the day__  
-__bag__ __3__ _v_ To get or obtain something. _Hey, when you go to that event, be sure to bag some cupcakes for us!_ _The Browser Company, the brains behind Arc, just bagged $50M._  
-__ballpark figure__  
-__beg the question__  
-__big fat__ __1__ Absolute, total; unadulterated. _You are a big fat slob, do you know that?_ __2__ Huge or obscenely large. _Look at that big fat spider. Yuck!_  
-__big name__  
-__blind spot__  
-__bottom line__  
-__break (one’s) heart__  
-__breaking point__ :dart:  
-__bring to light__  
-__build a case__ :dart: To compile evidence that supports an argument or charges against someone or something.  
-__by all accounts__  
-__by and large__  
-__by the day__ Per day; at a daily rate.  
-__call out__  
-__catch (one) off guard__  
 __come forward__ :two::hammer:  
 __comfort food__  
 __cover the waterfront__ To be thorough and comprehensive in what is presented or dealt with. _This thesis will attempt to cover the waterfront of English Law from 1950 to the present._  
