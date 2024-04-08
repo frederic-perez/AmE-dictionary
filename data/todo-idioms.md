@@ -1,3 +1,12 @@
+__(something) speaks for itself__  
+__against all the odds__  
+__at play__  
+__be brought down a notch (or two)__  
+__be in the know__  
+__be on the threshold of (something)__ To be about to do something; to be about to happen.  
+__breaking point__  
+__capitalize on (something)__ :dart: To take advantage of a particular opportunity or situation for one’s benefit.  
+__chances are__  
 __come forward__ :two::hammer:  
 __comfort food__  
 __cover the waterfront__ To be thorough and comprehensive in what is presented or dealt with. _This thesis will attempt to cover the waterfront of English Law from 1950 to the present._  
@@ -8,11 +17,15 @@ __crowd out__
 __crowdfund__ /KRAUD-fuhnd/ To fund a project by raising money from a large number of people, mostly strangers and usually via the Internet.  
 __crunch (the) numbers__ :two::hammer:  
 __cut corners__  
+__day-to-day__  
 __dead end__  
 __dealbreaker__  
+__deets__ :dart::three: _n pl_ _informal_ Detailed information. _Syn_ details _Click here for the deets._ _At first you seemed hesitant to spill deets on your personal life. What changed?_  
 __do or die__  
 __dogfood__ _v_ To test a company’s product by having its employees use it in their regular workday.  
+__doomscrolling__ (informal, neologism) The practice of continually reading Internet news about catastrophic events. _Syn_ doomsurfing  
 __down the line__ :two: In the future.  
+__down the road__  
 __downtime__  
 __draw on__  
 __dreamboat__ A very attractive or appealing person.  
@@ -21,9 +34,11 @@ __dupe__ _v_ __1__ To deceive or trick one. _The student tried to dupe me with a
 __dust off__  
 __dynamic duo__ _cliché_ Two people often paired together whose unique traits, when combined, usually result in success or otherwise positive results.  
 __ear ringing__  
+__earworm__  
 __echo chamber__  
 __edge out__  
 ‌__end of story__  
+__enough is enough__ This situation needs to stop.  
 __every so often__ Sometimes; occasionally.  
 __fair game (for something)__  
 __fall behind__  
@@ -36,6 +51,7 @@ __fight a losing battle__
 __fill up__ :two::hammer:  
 __finagle__  
 __fine-tune__  
+__finish the job__  
 __fishing expedition__  
 __fit the bill__  
 __five o’clock shadow__  
@@ -94,6 +110,7 @@ __go to hell in a handcart__ To be in an extremely and increasingly bad or ruino
 __go with (someone or something)__  
 __grapple with (someone or something)__  
 __have (someone’s) number on it__ To be considered the agent or instrument of one’s fate, especially leading to death. _Those poor souls should have been safe in that trench, but it looks like that artillery shell had their number on it._  
+__have a trick up (one’s) sleeve__  
 __have got it made__ To be in a comfortable situation or to be very likely to have success. _Living in that big house, earning a nice passive income from their investments—they’ve got it made._  
 __have it made__  
 __have no business (doing something)__ To have no legitimate reason, experience, or authority to do something. _Mom, you had no business eavesdropping on my phone call like that!_  
@@ -118,12 +135,14 @@ __I shudder to think__ It is too worrying or unpleasant for me to think about so
 __I take it__ I imagine this is the case; I presume it to be true (that); it is my understanding (that). _So I take it that you’re looking for a new job now that the company has declared bankruptcy?_  
 __I’d say__ In my opinion; it is my estimation that. _I’d say we have about a 50-50 chance of winning this game today._  
 __I’ll believe it when I see it__  
+__if my memory serves me well, correctly, etc.__  
+__iffy__  
 __imprint (something) in(to) (someone or something)__ To retain something in one’s memory.  
 __in (all good) conscience__ In all fairness; by any reasonable standard. _I cannot in conscience endorse Donald Trump._  
 __in (high) hopes of (something)__  
 __in (one’s) heart__  
 __in (one’s) heyday__ In, at, or during the period of one’s greatest success, power, vigor, etc.  
-__in (one’s) own right__  
+__in (one’s) own right__ :two::hammer:  
 __in a big way__ In a significant way or to a marked extent.  
 __in a sorry state__ In a pitiful, dysfunctional, or abject condition. _My business was in a sorry state after I left it under the control of my brother._ _John’s been in a sorry state lately—I think he’s taken up drinking again._  
 __in and of itself__  
@@ -131,14 +150,18 @@ __in concert with (someone)__ Together with someone; in cooperation with someone
 __in full swing__  
 __in hot water__ Having provoked or incited anger, hostility, or punishment against oneself; in a troublesome or difficult situation, especially that which will result in punishment or reprisal. _I was in a bit of hot water with Janice last night when she found out I went to the movies instead of cleaning out the garage._  
 __in jeopardy__ In danger or at risk; imperiled.  
-__in layman’s terms__  
+__in layman’s terms__ :two::hammer:  
+__in more ways than one__ In a number of ways. _I’m telling you, this idea of yours is a mistake in more ways than one._  
 __in one blow__ All at once, with a single decisive or powerful action.  
 __in order that__ So that; with the particular aim or purpose of.  
+__in overdrive__  
 __in plain view__ In full, unrestricted view; visibly, openly, or publicly.  
 __in support of__ __1__ In a way that shows approval of (something); in favor of (something). _A majority voted in support of the bill._ __2__ In order to support (something). _He presented evidence in support of his hypothesis._  
 __in tears__  
 __in the (grand) scheme of things__ In the long term; in the complete picture of something.  
-__in the bag__ Achieved or won almost as a certainty.  
+__in the bag__ :two: Achieved or won almost as a certainty.  
+__in the blink of an eye__  
+__in the house__  
 __in the least__  
 __in the pocket of (someone)__ Under the direct control or influence of someone or some group, especially through illegal or unscrupulous financial means. _It’s pretty obvious that the country’s legislators are all in the pocket of corporations._  
 __in the wake of (something)__ :dart:  
@@ -196,9 +219,10 @@ __nada__
 __narrative__ The way in which a particular person or situation is being portrayed or represented.  
 __near and dear to (one)__  
 __neat and tidy__ (neat and clean)  
+__neck and neck__  
 __not have all day__ To be in a rush; to not have much or any time to spare. Usually used in the present tense. _How long is this repair job going to take? I don’t have all day!_  
 __not sleep a wink__  
-__not so fast__  
+__not so fast__ :two::hammer:  
 __odd couple__ A particularly unlikely or mismatched pair of people.  
 __of all places__ Being the least expected place compared to anywhere else.  
 __of all stripes__ Of many varieties or types. _You meet people of all stripes when you live in a big city._  
@@ -217,17 +241,21 @@ __on the contrary__
 __on the line__ __1__ In a state of jeopardy or uncertainty.  
 __on the lookout__ :two: Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
 __on the run__  
+__on the sidelines__ In a position in which one is not actively participating in something.  
 __on the verge of__  
 __on-site__  
 __once in a blue moon__ Very rarely.  
 __one-off__  
+__one-up (someone)__ To make a point of outdoing, outperforming, outclassing, etc., someone.  
 __org__ __2__ _n_ An organization.  
 __out of pocket__  
 __out of the wood(s)__  
 __outed__  
 __over the moon__ Extremely happy. _I’ve been over the moon ever since I got engaged—I just can’t stop looking at my ring!_  
 __paint a (some kind of) picture (of something)__ :two::hammer:  
+__part ways (with one)__  
 __peanut gallery__  
+__peek out__  
 __picture perfect__  
 __pie in the sky__ An impossible, unlikely, or fanciful idea or plan. Often hyphenated.  
 __pile up__  
@@ -272,15 +300,32 @@ __run deep__ To be well established and strongly integrated into the nature or c
 __run out of steam__ :dart: To lose one’s energy, motivation, or enthusiasm to continue doing something.  
 __run through (something)__ __4__ To guide one through or inform one of the process or details of something. In this usage, a noun or pronoun is used between “run” and “through.” _Can you run me through the plan one more time?_  
 __running high__ [for feelings] To be in a state of excitement or anger. _Feelings were running high as the general election approached._  
+__see the light of day__  
+__serve up (something)__  
 __shorty__ A term of endearment for a child, younger sibling, shorter person, etc.  
+__shy away (from someone or something)__  
+__sidekick__  
+__sink in__  
+__slam the door shut__  
 __sleep divorce__ A term that refers to the decision of a couple to sleep in separate places, such as separate beds or separate rooms.  
+__small fortune__  
+__smash hit__  
+__sneak in__  
+__spring to mind__ :dart: To suddenly or immediately appear, materialize, or come to the forefront in one’s mind. _Mention OpenAI and ChatGPT springs to mind for most._  
+__step in__  
 __sweetie pie__ A term of endearment, especially for a person or pet towards whom one feels tender love or affection.  
+__take (someone or something) for granted__  
+__take a crack at (something)__ To attempt (to do) something; to take a turn trying (to do) something.  
+__take center stage__ To be the main focus.  
 __the idiot box__ _slang_ A television set, or television in general.  
 __the march of time__ The steady, unstoppable advancement of time.  
+__the naked eye__  
 __throw shade__ _slang_ To subtly issue insults or expressions of disapproval.  
+__tight race__  
 __trash talk__  
 __trickle down__ __2__ To distribute, pass, or diffuse to people lower on a hierarchical structure.  
 __turn heads__  
+__user base__ _business jargon_ The number units of a particular product or service that are currently in use, especially software or an Internet or computing platform.  
 __watershed moment__  
 __weigh in__ :dart::two: __3__ To give one’s opinion or analysis of something during a discussion. _Karen, you haven’t weighed in yet. What’s your take on this?_  
 __when pigs can fly__ At a point in time that will never come to pass. (Used to show skepticism or cynicism over some hypothetical situation or outcome.)  

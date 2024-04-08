@@ -1,19 +1,27 @@
+__allegedly__ _adv_  
 __altogether__ _adv_  
 __blasphemous__  
+__bluff__ _v_  
+__brazen__  
+__bulletin__ _n_  
 __campanile__ _n_ A bell tower, especially one near but not attached to a church or other public building. _Syn_ belfry  
 __cantankerous__  
 __conflux__ _n_ A flowing together. _Syn_ merging, confluence _There was a conflux of emotions and thoughts in him._  
 __conjecture__ _v_ /kun-JEK-cher/  
+__de-escalate__ _v_ (deescalate)  
+__defect__ _v_  
 __empleomania__ _n_ A mania for holding public office.  
 __end stage__ _adj_ (end-stage, endstage) The late, fully developed phase of a disease.  
 __envision__ _vt_ :two::hammer:  
 __equinox__  
+__escalate__ _v_ :pencil2:  
 __espouse__ _vt_ __1__ To adhere to or advocate: espoused a contrarian viewpoint.  
 __essence__ _n_ /ˈɛs əns/  
 ‌__eternal__ _adj, n_ /ɪˈtɜr nl/  
 __eternity__ _n_ /ɪˈtɜr nɪ ti/  
 __ethereal__ _adj_ /ih-THEER-ee-ul/  
 __exert__  
+__extravaganza__  
 __facade__ _n_ /fuh-SAHD/ __1__ The front of a building or a side facing a street or a public space. __2__ The front part of something. __3__ :dart: A false or superficial appearance.  
 __factual__ _adj_  
 __far-reaching__ _adj_  
@@ -179,7 +187,9 @@ __mellifluous__
 __meticulous__ _adj_ /muh-TIK-yuh-lus/  
 __misidentification__  
 __morsel__  
+__must-have__ _adj, n_  
 __occultation__ _n_ /ah-kuhl-TAY-shuhn/ __1__ The state of being hidden or blocked. __2__ The passage of a celestial object in front of another, hiding it from view.  
+__ominous__ _adj_  
 __overly__  
 __passing__ _adj_ __2__ Of brief duration; transitory: _a passing fancy._  
 __phytonutrient__  
@@ -200,14 +210,18 @@ __praxis__ _n_ /PRAK-sis/
 __preclude__ _v_ Keep from happening or arising; make impossible. _Syn_ foreclose, forestall, prevent, forbid  
 __prevail__  
 __prink__  
+__profoundly__ _adv_  
 __prosody__ _n_ The study of the metrical structure of verse. _Syn_ metrics  
+__protectionism__ _n_  
 __puberty blocker__ _n_ Any drug used to postpone puberty in children.  
 __pugnacious__ _adj_ :two::hammer:  
 __pulse__ _n_ __1__ The edible seeds of certain pod-bearing plants, such as lentils and chickpeas. :es: legumbre __2__ A plant yielding these seeds.  
 __quaggy__ _adj_ Resembling a marsh; soggy. _Syn_ boggy, marshy, miry, mucky, muddy, sloughy, swampy  
+__queendom__ _n_  
 __rebuke__ _v_  
 __redoubt__ _n_ :astonished: /rih-DOUT/ Redoubt can refer specifically to a small building or area that provides soldiers with protection from attack, or more broadly to any safe or protected place, whether literal or figurative.  
 __refurbish__ _v_ /rih-FER-bish/ To refurbish something is to brighten or freshen it up, or to repair and make improvements to it. _The store refurbishes and sells computers that can often meet the needs of those who don’t need the latest technology._  
+__remorse__ _n_ /rɪˈmɔrs/  
 __roster__ _n_ A list, especially of names. _Syn_ roll _The spy’s mission was to compile a roster of officials amenable to bribery._  
 __row__ _n_ _School principal quits after hijab row._  
 __sanguine__ _adj_ :two::hammer:  
@@ -238,9 +252,11 @@ __streamline__ _vt_
 __supercalifragilisticexpialidocious__ _n_ The word is a compound word, and said by Richard Lederer in his book _Crazy English_ to be made up of these words: super- “above,” cali- “beauty,” fragilistic- “delicate,” expiali- “to atone,” and -docious “educable,” with all of these parts combined meaning ”Atoning for educability through delicate beauty.”  
 __swear jar__ _n_ A jar into which anybody who utters a profanity is obliged to drop some money.  
 __takeaway__ _n_  
+__temper__ _v_  
 __thrombolysis__  
 __thwart__ _v_  
 __timeline__ _n_  
+__tonne__ _n_  
 __totally__ _n_ :astonished: /toh-TAL-i/uh-tee/ __3__ The phase of an eclipse when an obscuring body completely blocks the light source, e.g., when the moon completely blocks the view of the sun.  
 __tourniquet__ _n_  
 __tucket__ _n_ Short lively tune played on brass instruments. _Syn_ fanfare, flourish  
@@ -249,6 +265,7 @@ __turmeric__ _n_ :es: cúrcuma
 __ulterior__ _adj_ /ul-TEER-ee-er/ Ulterior describes things (usually motives, objectives, reasons, agendas, etc.) that are kept hidden in order to achieve a particular result.  
 __umbra__ _n_  
 __umbrageous__ _adj_ /uhm-BRAY-juhs/ __1__ Inclined to take offense easily. __2__ Cast in shadow; shaded. __3__ Providing shade.  
+__umbraphile__ _n_ One who loves eclipses, often travelling to see them.  
 __unbecoming__ _adj_  
 __uncultured__ _adj_ Not cultured or cultivated. _Syn_ artless, uncultivated  
 __undermine__ _v_  
@@ -260,6 +277,7 @@ __unnerving__
 __unprecedented__ _adj_ Having no previous example.  
 __untapped__ _adj_  
 __unwavering__ _adj_  
+__unworldly__ _adj_  
 __vigil__ _n_  
 __vigorous__ _adj_ /ˈvɪg ər əs/  
 __vilify__ _vt_  
@@ -267,6 +285,7 @@ __vitriolic__
 __warrant__ _n_  
 __watch list__ _n_ A list of people or things that are being closely watched because they are likely to do or experience bad things in the future. _The animals are on a watch list of species that could become extinct soon._  
 __weightless__  
+__well-being__ _n_  
 __weltanschauung__ _n_ A German word meaning world view, used to mean someone’s philosophy of life. _Many people disagree with the writer’s personal Weltanschauung, but most can appreciate the quality and thoughtfulness of her work._  
 __whelm<sup>1</sup>__ _vt_ /hwelm, welm/ __1__ To submerge. __2__ To overcome; overwhelm.  
 __whelm<sup>2</sup>__ _n_ An overwhelming or engulfing quantity of something.  
@@ -279,6 +298,7 @@ __whopping__ _adj, adv_
 __whopping<sup>1</sup>__ _adj_ _informal_ Exceptionally large: _“yet another whopping pay raise” (Lee Atwater)._  
 __whopping<sup>2</sup>__ _adv_ Used as an intensive: _a whopping good joke._  
 __withstand__ _v_  
+__wonderwall__ _n_ A very dependable person.  
 __worriment__ _n_ A difficulty that causes anxiety. _Syn_ troublesomeness, inconvenience  
 __yea__ _n_ __1__ An affirmative statement or vote. __2__ One who votes affirmatively.  
 __yelp__ _v_  
