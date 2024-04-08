@@ -1,3 +1,10 @@
+__altogether__ _adv_  
+__blasphemous__  
+__campanile__ _n_ A bell tower, especially one near but not attached to a church or other public building. _Syn_ belfry  
+__cantankerous__  
+__conflux__ _n_ A flowing together. _Syn_ merging, confluence _There was a conflux of emotions and thoughts in him._  
+__conjecture__ _v_ /kun-JEK-cher/  
+__empleomania__ _n_ A mania for holding public office.  
 __end stage__ _adj_ (end-stage, endstage) The late, fully developed phase of a disease.  
 __envision__ _vt_ :two::hammer:  
 __equinox__  
@@ -5,6 +12,7 @@ __espouse__ _vt_ __1__ To adhere to or advocate: espoused a contrarian viewpoint
 __essence__ _n_ /ˈɛs əns/  
 ‌__eternal__ _adj, n_ /ɪˈtɜr nl/  
 __eternity__ _n_ /ɪˈtɜr nɪ ti/  
+__ethereal__ _adj_ /ih-THEER-ee-ul/  
 __exert__  
 __facade__ _n_ /fuh-SAHD/ __1__ The front of a building or a side facing a street or a public space. __2__ The front part of something. __3__ :dart: A false or superficial appearance.  
 __factual__ _adj_  
@@ -112,6 +120,7 @@ __impermanence__ _n_ The property of not existing for indefinitely long duration
 __impetuous__  
 __in hiding__ _adv_ Quietly in concealment. _Syn_ doggo, out of sight  
 __in memoriam__  
+__inane__ _adj_  
 __incalescent__  
 __incarcerate__ _vt_ /ɪnˈkɑr səˌreɪt/  
 __incarceration__ _n_ The act of imprisoning someone or the state of being imprisoned.  
@@ -146,6 +155,7 @@ __kayfabe__
 __knee-deep__ _adj_ :dart: __3__ Deeply occupied or involved: _is knee-deep in work._  
 __kvell__ _n_ /kvɛl/ _slang_  
 __lackluster__ _n_ A lack of brilliance or vitality.  
+__lambaste__ _v_ /lam-BAYST/ To _lambaste_ something or someone is to criticize them very harshly. _Lambaste_ is also sometimes used as a synonym of beat meaning “to assault.”  
 __landscaper__ _n_ A landscape gardener.  
 __law of large numbers__  
 __legal action__  
@@ -155,6 +165,7 @@ __long view__ _n_ The consideration of events or circumstances likely to occur i
 __longstanding__ _adj_ (longstanding) Of long duration or existence: _a long-standing friendship; a longstanding disagreement._  
 __looking glass__ _n_  
 __machination__ _n_  
+__mandamus__ _n_  
 __manger__ _n_ A trough or an open box in which feed for livestock is placed. _Syn_ trough  
 __marchioness__ _n_  
 __mariner__ _n_  
@@ -163,9 +174,12 @@ __mea culpa__ _n_ An acknowledgment of a personal error or fault: _The authors i
 __measles__ _n_ :mega:  
 __meek__ _adj_  
 __megillah__ _n_ /muh-GHIL-uh/  
-__melancholy__  
+__melancholy__ _adj, n_ :two::hammer:  
+__mellifluous__  
+__meticulous__ _adj_ /muh-TIK-yuh-lus/  
 __misidentification__  
 __morsel__  
+__occultation__ _n_ /ah-kuhl-TAY-shuhn/ __1__ The state of being hidden or blocked. __2__ The passage of a celestial object in front of another, hiding it from view.  
 __overly__  
 __passing__ _adj_ __2__ Of brief duration; transitory: _a passing fancy._  
 __phytonutrient__  
@@ -182,16 +196,21 @@ __plumb__ _adj, adv, n, v_
 __poacher__ _n_  
 __pollinosis__ _n_ A seasonal rhinitis resulting from an allergic reaction to pollen. _Syn_ hay fever  
 __posit__ _v_  
+__praxis__ _n_ /PRAK-sis/  
+__preclude__ _v_ Keep from happening or arising; make impossible. _Syn_ foreclose, forestall, prevent, forbid  
 __prevail__  
 __prink__  
+__prosody__ _n_ The study of the metrical structure of verse. _Syn_ metrics  
 __puberty blocker__ _n_ Any drug used to postpone puberty in children.  
-__pugnacious__  
+__pugnacious__ _adj_ :two::hammer:  
 __pulse__ _n_ __1__ The edible seeds of certain pod-bearing plants, such as lentils and chickpeas. :es: legumbre __2__ A plant yielding these seeds.  
+__quaggy__ _adj_ Resembling a marsh; soggy. _Syn_ boggy, marshy, miry, mucky, muddy, sloughy, swampy  
 __rebuke__ _v_  
+__redoubt__ _n_ :astonished: /rih-DOUT/ Redoubt can refer specifically to a small building or area that provides soldiers with protection from attack, or more broadly to any safe or protected place, whether literal or figurative.  
 __refurbish__ _v_ /rih-FER-bish/ To refurbish something is to brighten or freshen it up, or to repair and make improvements to it. _The store refurbishes and sells computers that can often meet the needs of those who don’t need the latest technology._  
 __roster__ _n_ A list, especially of names. _Syn_ roll _The spy’s mission was to compile a roster of officials amenable to bribery._  
 __row__ _n_ _School principal quits after hijab row._  
-__sanguine__  
+__sanguine__ _adj_ :two::hammer:  
 __sanitation__ _n_ __2__ The disposal of sewage and waste.  
 __scion__ _n_  
 __scurrilous__ _adj_ /SKUR-uh-lus/  
@@ -199,6 +218,7 @@ __secularism__ _n_
 __secure__ _vt_ __5__ To get possession of; acquire: _secured a job._  
 __seedling__ _n_ A young plant, especially one that grows from a seed, rather than from a cutting, for example.  
 __sham__ _n_  
+__shambles__ _n_ /SHAM-bulz/ _Shambles_ refers to a place or state in which there is great confusion, disorder, or destruction. _The house party they had over the weekend left the entire living room in shambles._  
 __shattering__ _adj_ _Syn_ devastating, stunning, severe, crushing, overwhelming, paralysing _Yesterday’s news was another shattering blow._  
 __sheik__ _n_ [:scroll: From the movie _The Sheik_, 1921] A man held to be masterful and irresistibly charming to women.  
 __short-lived__  
@@ -208,6 +228,7 @@ __snit__ _n_
 __sobering__ _adj_  
 __solace__ _n_ :mega:  
 __spelunker__ _n_ One who explores caves chiefly as a hobby; a caver. _Syn_ potholer, speleologist  
+__sporty__ _adj_ Marked by conspicuous display. _Syn_ flashy, gaudy, jazzy, showy  
 __spray paint__ _n_ Paint in an aerosol container for spraying onto surfaces.  
 __squalid__ _adj_ :astonished:  
 __stiff__ _adj_ _A stiff sentence._  
@@ -220,11 +241,14 @@ __takeaway__ _n_
 __thrombolysis__  
 __thwart__ _v_  
 __timeline__ _n_  
+__totally__ _n_ :astonished: /toh-TAL-i/uh-tee/ __3__ The phase of an eclipse when an obscuring body completely blocks the light source, e.g., when the moon completely blocks the view of the sun.  
 __tourniquet__ _n_  
 __tucket__ _n_ Short lively tune played on brass instruments. _Syn_ fanfare, flourish  
 __turbid__ _adj_ Having sediment or foreign particles stirred up or suspended. _Syn_ murky, cloudy, muddy  
 __turmeric__ _n_ :es: cúrcuma  
 __ulterior__ _adj_ /ul-TEER-ee-er/ Ulterior describes things (usually motives, objectives, reasons, agendas, etc.) that are kept hidden in order to achieve a particular result.  
+__umbra__ _n_  
+__umbrageous__ _adj_ /uhm-BRAY-juhs/ __1__ Inclined to take offense easily. __2__ Cast in shadow; shaded. __3__ Providing shade.  
 __unbecoming__ _adj_  
 __uncultured__ _adj_ Not cultured or cultivated. _Syn_ artless, uncultivated  
 __undermine__ _v_  
@@ -255,6 +279,7 @@ __whopping__ _adj, adv_
 __whopping<sup>1</sup>__ _adj_ _informal_ Exceptionally large: _“yet another whopping pay raise” (Lee Atwater)._  
 __whopping<sup>2</sup>__ _adv_ Used as an intensive: _a whopping good joke._  
 __withstand__ _v_  
+__worriment__ _n_ A difficulty that causes anxiety. _Syn_ troublesomeness, inconvenience  
 __yea__ _n_ __1__ An affirmative statement or vote. __2__ One who votes affirmatively.  
 __yelp__ _v_  
 __yesterweek<sup>1</sup>__ _n_ /YES-tuhr-week/ Last week.  

@@ -15,6 +15,7 @@ __dogfood__ _v_ To test a company’s product by having its employees use it in 
 __down the line__ :two: In the future.  
 __downtime__  
 __draw on__  
+__dreamboat__ A very attractive or appealing person.  
 __dry run__ :two: A practice session or test designed to identify and correct possible problems. _Let’s do a couple dry runs of your speech so you feel totally comfortable with it for tomorrow’s ceremony._  
 __dupe__ _v_ __1__ To deceive or trick one. _The student tried to dupe me with a letter on which he’d forged his mom’s signature._  
 __dust off__  
@@ -104,6 +105,7 @@ __high and dry__
 __hogwash__  
 __hold (one’s) nose__ __3__ By extension, to do something in spite of its unpleasant or illicit nature. _I don’t want to get fired, so I guess I’ll just have to hold my nose and do what he asks._  
 ‌__hold (one’s) nose__ To reluctantly overcome one’s revulsion.  
+__hold (someone) in good stead__ Especially of a talent, ability, or experience, to prove particularly useful or beneficial to someone in the future. _Janet is hoping her internship working in IT will hold her in good stead when she looks for a job after college._  
 __home to (something)__ A place where something is commonly found. _The wetland is home to a variety of wildlife, especially birds._  
 __hour after hour__ :dart: For many hours without stopping. _I sat by her bedside for hour after hour._  
 __How so?__ Please explain.  
@@ -120,6 +122,7 @@ __imprint (something) in(to) (someone or something)__ To retain something in one
 __in (all good) conscience__ In all fairness; by any reasonable standard. _I cannot in conscience endorse Donald Trump._  
 __in (high) hopes of (something)__  
 __in (one’s) heart__  
+__in (one’s) heyday__ In, at, or during the period of one’s greatest success, power, vigor, etc.  
 __in (one’s) own right__  
 __in a big way__ In a significant way or to a marked extent.  
 __in a sorry state__ In a pitiful, dysfunctional, or abject condition. _My business was in a sorry state after I left it under the control of my brother._ _John’s been in a sorry state lately—I think he’s taken up drinking again._  
@@ -129,12 +132,17 @@ __in full swing__
 __in hot water__ Having provoked or incited anger, hostility, or punishment against oneself; in a troublesome or difficult situation, especially that which will result in punishment or reprisal. _I was in a bit of hot water with Janice last night when she found out I went to the movies instead of cleaning out the garage._  
 __in jeopardy__ In danger or at risk; imperiled.  
 __in layman’s terms__  
+__in one blow__ All at once, with a single decisive or powerful action.  
+__in order that__ So that; with the particular aim or purpose of.  
+__in plain view__ In full, unrestricted view; visibly, openly, or publicly.  
 __in support of__ __1__ In a way that shows approval of (something); in favor of (something). _A majority voted in support of the bill._ __2__ In order to support (something). _He presented evidence in support of his hypothesis._  
 __in tears__  
 __in the (grand) scheme of things__ In the long term; in the complete picture of something.  
 __in the bag__ Achieved or won almost as a certainty.  
 __in the least__  
+__in the pocket of (someone)__ Under the direct control or influence of someone or some group, especially through illegal or unscrupulous financial means. _It’s pretty obvious that the country’s legislators are all in the pocket of corporations._  
 __in the wake of (something)__ :dart:  
+__in(to) shape__ In good, robust health; strong or fit. _Boy, I really need to get into shape. Ten years working behind a desk have given me quite a belly!_  
 __it goes without saying__  
 __it remains to be seen__ Something is not yet clear, certain, or known.  
 __jeer at (someone or something)__ To mock, taunt, or scoff at someone or something. _Everyone in school jeered at me for wearing a pink sweater._  
@@ -200,6 +208,7 @@ __off-kilter__
 __oh boy__  
 __old school__  
 __on (one’s) watch__  
+__on (someone’s) behalf__  
 __on a daily basis__ Once or more each day.  
 __on a mission__ :three::hammer:  
 __on a roll__  
@@ -263,6 +272,12 @@ __run deep__ To be well established and strongly integrated into the nature or c
 __run out of steam__ :dart: To lose one’s energy, motivation, or enthusiasm to continue doing something.  
 __run through (something)__ __4__ To guide one through or inform one of the process or details of something. In this usage, a noun or pronoun is used between “run” and “through.” _Can you run me through the plan one more time?_  
 __running high__ [for feelings] To be in a state of excitement or anger. _Feelings were running high as the general election approached._  
+__shorty__ A term of endearment for a child, younger sibling, shorter person, etc.  
+__sleep divorce__ A term that refers to the decision of a couple to sleep in separate places, such as separate beds or separate rooms.  
+__sweetie pie__ A term of endearment, especially for a person or pet towards whom one feels tender love or affection.  
+__the idiot box__ _slang_ A television set, or television in general.  
+__the march of time__ The steady, unstoppable advancement of time.  
+__throw shade__ _slang_ To subtly issue insults or expressions of disapproval.  
 __trash talk__  
 __trickle down__ __2__ To distribute, pass, or diffuse to people lower on a hierarchical structure.  
 __turn heads__  
@@ -280,6 +295,7 @@ __word for word__ In or with the same exact words; verbatim. _After seeing the p
 __yada yada yada__  
 __yea or nay__  
 __yikes__  
+__you’re on your own__ You have to deal with or resolve this situation without my or anyone else’s assistance.  
 __yup__  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
 __zero in__ :two::hammer:  
