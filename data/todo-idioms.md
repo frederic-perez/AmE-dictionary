@@ -1,12 +1,18 @@
+__(every) now and again__  
 __(something) speaks for itself__  
+__a fallen angel__  
+__a slap on the wrist__  
 __against all the odds__  
+__anybody’s/anyone’s guess__  
 __at play__  
 __be brought down a notch (or two)__  
 __be in the know__  
 __be on the threshold of (something)__ To be about to do something; to be about to happen.  
 __breaking point__  
+__burning question__  
 __capitalize on (something)__ :dart: To take advantage of a particular opportunity or situation for one’s benefit.  
 __chances are__  
+__come clean__  
 __come forward__ :two::hammer:  
 __comfort food__  
 __cover the waterfront__ To be thorough and comprehensive in what is presented or dealt with. _This thesis will attempt to cover the waterfront of English Law from 1950 to the present._  
@@ -17,8 +23,10 @@ __crowd out__
 __crowdfund__ /KRAUD-fuhnd/ To fund a project by raising money from a large number of people, mostly strangers and usually via the Internet.  
 __crunch (the) numbers__ :two::hammer:  
 __cut corners__  
+__day in and day out__  
 __day-to-day__  
 __dead end__  
+__dead on (one’s) feet__  
 __dealbreaker__  
 __deets__ :dart::three: _n pl_ _informal_ Detailed information. _Syn_ details _Click here for the deets._ _At first you seemed hesitant to spill deets on your personal life. What changed?_  
 __do or die__  
@@ -27,6 +35,7 @@ __doomscrolling__ (informal, neologism) The practice of continually reading Inte
 __down the line__ :two: In the future.  
 __down the road__  
 __downtime__  
+__drag (one’s) feet__  
 __draw on__  
 __dreamboat__ A very attractive or appealing person.  
 __dry run__ :two: A practice session or test designed to identify and correct possible problems. _Let’s do a couple dry runs of your speech so you feel totally comfortable with it for tomorrow’s ceremony._  
@@ -52,6 +61,7 @@ __fill up__ :two::hammer:
 __finagle__  
 __fine-tune__  
 __finish the job__  
+__first hand__  
 __fishing expedition__  
 __fit the bill__  
 __five o’clock shadow__  
@@ -114,11 +124,14 @@ __have a trick up (one’s) sleeve__
 __have got it made__ To be in a comfortable situation or to be very likely to have success. _Living in that big house, earning a nice passive income from their investments—they’ve got it made._  
 __have it made__  
 __have no business (doing something)__ To have no legitimate reason, experience, or authority to do something. _Mom, you had no business eavesdropping on my phone call like that!_  
+__hear from (one)__  
 __heat up__  
+__heavy lifting__ Any serious, difficult, or arduous work or activities.  
 __heavy-handed__ Overly blunt, forceful, or tactless.  
 __helicopter mom__  
 __help (oneself) (to something)__ To serve oneself (something); to take, consume, or indulge in (something) freely or without permission or restraint. _There’s plenty of food in the kitchen, so please, help yourselves to more._  
 __high and dry__  
+__high and low__  
 __hogwash__  
 __hold (one’s) nose__ __3__ By extension, to do something in spite of its unpleasant or illicit nature. _I don’t want to get fired, so I guess I’ll just have to hold my nose and do what he asks._  
 ‌__hold (one’s) nose__ To reluctantly overcome one’s revulsion.  
@@ -129,6 +142,7 @@ __How so?__ Please explain.
 __howl at (someone or something)__  
 __humblebrag__  
 __hush money__  
+__hush-hush__  
 __I see what you did there__ An expression used to acknowledge that one understands a joke made by someone else, and to either show appreciation or a lack thereof for the wit employed.  
 __I shit you not__  
 __I shudder to think__ It is too worrying or unpleasant for me to think about something that might happen or might have happened. _I shudder to think what my boss will say when I tell him I lost our biggest client._  
@@ -140,6 +154,7 @@ __iffy__
 __imprint (something) in(to) (someone or something)__ To retain something in one’s memory.  
 __in (all good) conscience__ In all fairness; by any reasonable standard. _I cannot in conscience endorse Donald Trump._  
 __in (high) hopes of (something)__  
+__in (high) hopes that__  
 __in (one’s) heart__  
 __in (one’s) heyday__ In, at, or during the period of one’s greatest success, power, vigor, etc.  
 __in (one’s) own right__ :two::hammer:  
@@ -163,11 +178,14 @@ __in the bag__ :two: Achieved or won almost as a certainty.
 __in the blink of an eye__  
 __in the house__  
 __in the least__  
+__in the nick of time__  
+__in the pipeline__ In progress or about to be started or implemented.  
 __in the pocket of (someone)__ Under the direct control or influence of someone or some group, especially through illegal or unscrupulous financial means. _It’s pretty obvious that the country’s legislators are all in the pocket of corporations._  
 __in the wake of (something)__ :dart:  
 __in(to) shape__ In good, robust health; strong or fit. _Boy, I really need to get into shape. Ten years working behind a desk have given me quite a belly!_  
 __it goes without saying__  
 __it remains to be seen__ Something is not yet clear, certain, or known.  
+__jacked up__  
 __jeer at (someone or something)__ To mock, taunt, or scoff at someone or something. _Everyone in school jeered at me for wearing a pink sweater._  
 __JK__ An initialism of “just kidding,” used especially in text messages and online communications to express that one was not being serious about their previous statement. Variously written as “JK,” “J.K.,” or “J/K,” in either uppercase or lowercase letters. _Yeah, def considering working on my uncle’s farm 4 the summer. haha jk lol_  
 __join hands__ __2__ By extension, to work together to achieve some goal.  
@@ -181,6 +199,7 @@ __keep (someone or something) in check__
 __keep a lid on (something)__  
 __keep pace__  
 __keep up__  
+__kick up__  
 __king of the castle__ The most powerful, successful, or authoritative person in a group or organization.  
 __kitchen-sink__ Showing or pertaining to the lives of common, everyday people. (Always used before a noun.)  
 __knock it off__  
@@ -196,10 +215,12 @@ __loosen up__
 __loosey-goosey__  
 __lose (one’s) shit__  
 __loud and clear__  
+__lust for life__  
 __make (one’s) eyes pop (out)__  
 __make (something) clear (to one)__ :two:hammer:  
 __make a difference__  
 __make a fuss__  
+__make a run for (someone or something)__ To run in order to escape something or to reach a destination quickly, perhaps before a certain time or before something happens.  
 __make inroads (in/into something)__  
 ‌__make it__  
 __make matters worse__  
@@ -224,6 +245,7 @@ __not have all day__ To be in a rush; to not have much or any time to spare. Usu
 __not sleep a wink__  
 __not so fast__ :two::hammer:  
 __odd couple__ A particularly unlikely or mismatched pair of people.  
+__of (one’s) own accord__  
 __of all places__ Being the least expected place compared to anywhere else.  
 __of all stripes__ Of many varieties or types. _You meet people of all stripes when you live in a big city._  
 __off again, on again__  
@@ -237,6 +259,7 @@ __on a daily basis__ Once or more each day.
 __on a mission__ :three::hammer:  
 __on a roll__  
 __on the back burner__ Of a low priority; given less or little thought or attention; postponed or suspended.  
+__on the brink of (something)__  
 __on the contrary__  
 __on the line__ __1__ In a state of jeopardy or uncertainty.  
 __on the lookout__ :two: Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
@@ -256,6 +279,7 @@ __paint a (some kind of) picture (of something)__ :two::hammer:
 __part ways (with one)__  
 __peanut gallery__  
 __peek out__  
+__photobomb__  
 __picture perfect__  
 __pie in the sky__ An impossible, unlikely, or fanciful idea or plan. Often hyphenated.  
 __pile up__  
@@ -283,6 +307,7 @@ __ramp up__ :three::hammer:
 __reach out to (one)__  
 __reality check__ :dart: An event or outcome that forces one to accept or reevaluate the reality of one’s position or situation.  
 __reclaim (someone or something) from (someone or something else)__ To regain or resume possession of someone or something from someone or something.  
+__red flag__  
 __resonate with (one)__ To produce or evoke an appealing feeling of familiarity in one.  
 __revolving door__  
 __ride (on) a wave of (something)__ To enjoy the advantage of or continue to benefit from a situation that is successful, fortunate, trendy, etc.  
@@ -317,15 +342,21 @@ __sweetie pie__ A term of endearment, especially for a person or pet towards who
 __take (someone or something) for granted__  
 __take a crack at (something)__ To attempt (to do) something; to take a turn trying (to do) something.  
 __take center stage__ To be the main focus.  
+__take notice (of someone or something)__  
+__test the water(s)__  
 __the idiot box__ _slang_ A television set, or television in general.  
 __the march of time__ The steady, unstoppable advancement of time.  
 __the naked eye__  
+__through thick and thin__  
 __throw shade__ _slang_ To subtly issue insults or expressions of disapproval.  
 __tight race__  
 __trash talk__  
+__tread carefully__  
 __trickle down__ __2__ To distribute, pass, or diffuse to people lower on a hierarchical structure.  
 __turn heads__  
+__up and running__  
 __user base__ _business jargon_ The number units of a particular product or service that are currently in use, especially software or an Internet or computing platform.  
+__walk out__  
 __watershed moment__  
 __weigh in__ :dart::two: __3__ To give one’s opinion or analysis of something during a discussion. _Karen, you haven’t weighed in yet. What’s your take on this?_  
 __when pigs can fly__ At a point in time that will never come to pass. (Used to show skepticism or cynicism over some hypothetical situation or outcome.)  
@@ -341,6 +372,7 @@ __yada yada yada__
 __yea or nay__  
 __yikes__  
 __you’re on your own__ You have to deal with or resolve this situation without my or anyone else’s assistance.  
+__your highness__ __1__ A royal greeting. __2__ A greeting of someone who is high.  
 __yup__  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
 __zero in__ :two::hammer:  
