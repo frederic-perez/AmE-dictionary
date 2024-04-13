@@ -7,31 +7,34 @@ $ python -m unittest -v test_checker
 
 import unittest
 from checker import Checker
+from typing import Final
 
-class Test_Checker(unittest.TestCase):
+
+class TestChecker(unittest.TestCase):
 
     def test_GivenAnEmptyDictionary_When_Checker_ThenExceptionIsRaised(self):
-        DICTIONARY = ''
-        self.assertRaises(ValueError, Checker, DICTIONARY)
+        dictionary: Final = ''
+        self.assertRaises(ValueError, Checker, dictionary)
 
     def test_GivenANonexistentDictionaryForChecker_When_Checker_ThenExceptionIsRaised(self):
-        DICTIONARY = 'this-file-does-not-exist'
-        self.assertRaises(IOError, Checker, DICTIONARY)
-        
+        dictionary = 'this-file-does-not-exist'
+        self.assertRaises(IOError, Checker, dictionary)
+
     def test_GivenTheRealDictionaryForChecker_When_check_entries_ThenReturnTrue(self):
-        DICTIONARY = '../data/dictionary.md'
-        CHECKER = Checker(DICTIONARY)
-        self.assertTrue(CHECKER.check_entries())
+        dictionary = '../data/dictionary.md'
+        checker = Checker(dictionary)
+        self.assertTrue(checker.check_entries())
 
     def test_GivenTheRealDictionaryForChecker_When_check_duplicated_headwords_ThenReturnTrue(self):
-        DICTIONARY = '../data/dictionary.md'
-        CHECKER = Checker(DICTIONARY)
-        self.assertTrue(CHECKER.check_duplicated_headwords())
+        dictionary = '../data/dictionary.md'
+        checker = Checker(dictionary)
+        self.assertTrue(checker.check_duplicated_headwords())
 
     def test_GivenTheRealDictionaryForChecker_When_check_undef_high_freq_keywords_ThenReturnTrue(self):
-        DICTIONARY = '../data/dictionary.md'
-        CHECKER = Checker(DICTIONARY)
-        self.assertTrue(CHECKER.check_undef_high_freq_keywords())
+        dictionary = '../data/dictionary.md'
+        checker = Checker(dictionary)
+        self.assertTrue(checker.check_undef_high_freq_keywords())
+
 
 if __name__ == '__main__':
     unittest.main()
