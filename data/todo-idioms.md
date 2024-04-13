@@ -1,28 +1,3 @@
-__(every) now and again__  
-__(something) speaks for itself__  
-__a fallen angel__  
-__a slap on the wrist__  
-__against all the odds__  
-__anybody’s/anyone’s guess__  
-__at play__  
-__be brought down a notch (or two)__  
-__be in the know__  
-__be on the threshold of (something)__ To be about to do something; to be about to happen.  
-__breaking point__  
-__burning question__  
-__capitalize on (something)__ :dart: To take advantage of a particular opportunity or situation for one’s benefit.  
-__chances are__  
-__come clean__  
-__come forward__ :two::hammer:  
-__comfort food__  
-__cover the waterfront__ To be thorough and comprehensive in what is presented or dealt with. _This thesis will attempt to cover the waterfront of English Law from 1950 to the present._  
-__crash__ __1__ To attend a party or other event uninvited. (see also crasher.) _The boys who tried to crash also broke a window._  
-__cross (one’s) fingers__  
-__cross (one’s) mind__  
-__crowd out__  
-__crowdfund__ /KRAUD-fuhnd/ To fund a project by raising money from a large number of people, mostly strangers and usually via the Internet.  
-__crunch (the) numbers__ :two::hammer:  
-__cut corners__  
 __day in and day out__  
 __day-to-day__  
 __dead end__  
