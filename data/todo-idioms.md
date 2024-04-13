@@ -1,28 +1,3 @@
-__day in and day out__  
-__day-to-day__  
-__dead end__  
-__dead on (one’s) feet__  
-__dealbreaker__  
-__deets__ :dart::three: _n pl_ _informal_ Detailed information. _Syn_ details _Click here for the deets._ _At first you seemed hesitant to spill deets on your personal life. What changed?_  
-__do or die__  
-__dogfood__ _v_ To test a company’s product by having its employees use it in their regular workday.  
-__doomscrolling__ (informal, neologism) The practice of continually reading Internet news about catastrophic events. _Syn_ doomsurfing  
-__down the line__ :two: In the future.  
-__down the road__  
-__downtime__  
-__drag (one’s) feet__  
-__draw on__  
-__dreamboat__ A very attractive or appealing person.  
-__dry run__ :two: A practice session or test designed to identify and correct possible problems. _Let’s do a couple dry runs of your speech so you feel totally comfortable with it for tomorrow’s ceremony._  
-__dupe__ _v_ __1__ To deceive or trick one. _The student tried to dupe me with a letter on which he’d forged his mom’s signature._  
-__dust off__  
-__dynamic duo__ _cliché_ Two people often paired together whose unique traits, when combined, usually result in success or otherwise positive results.  
-__ear ringing__  
-__earworm__  
-__echo chamber__  
-__edge out__  
-‌__end of story__  
-__enough is enough__ This situation needs to stop.  
 __every so often__ Sometimes; occasionally.  
 __fair game (for something)__  
 __fall behind__  
