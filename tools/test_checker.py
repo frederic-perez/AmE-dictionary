@@ -17,22 +17,23 @@ class TestChecker(unittest.TestCase):
         self.assertRaises(ValueError, Checker, dictionary)
 
     def test_GivenANonexistentDictionaryForChecker_When_Checker_ThenExceptionIsRaised(self):
-        dictionary = 'this-file-does-not-exist'
+        dictionary: Final = 'this-file-does-not-exist'
         self.assertRaises(IOError, Checker, dictionary)
 
     def test_GivenTheRealDictionaryForChecker_When_check_entries_ThenReturnTrue(self):
-        dictionary = '../data/dictionary.md'
-        checker = Checker(dictionary)
-        self.assertTrue(checker.check_entries())
+        dictionary: Final = '../data/dictionary.md'
+        checker: Final = Checker(dictionary)
+        for do_check_parts_of_speech in False, True:
+            self.assertTrue(checker.check_entries(do_check_parts_of_speech))
 
     def test_GivenTheRealDictionaryForChecker_When_check_duplicated_headwords_ThenReturnTrue(self):
-        dictionary = '../data/dictionary.md'
-        checker = Checker(dictionary)
+        dictionary: Final = '../data/dictionary.md'
+        checker: Final = Checker(dictionary)
         self.assertTrue(checker.check_duplicated_headwords())
 
     def test_GivenTheRealDictionaryForChecker_When_check_undef_high_freq_keywords_ThenReturnTrue(self):
-        dictionary = '../data/dictionary.md'
-        checker = Checker(dictionary)
+        dictionary: Final = '../data/dictionary.md'
+        checker: Final = Checker(dictionary)
         self.assertTrue(checker.check_undef_high_freq_keywords())
 
 
