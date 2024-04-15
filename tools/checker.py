@@ -4,7 +4,9 @@ import os.path
 import re
 import sys
 
-from typing import Final
+from typing import Final, TypeAlias
+
+ListOfStr: TypeAlias = list[str]
 
 # From https://stackoverflow.com/questions/287871/print-in-terminal-with-colors
 # (see also https://en.wikipedia.org/wiki/ANSI_escape_code)
@@ -29,45 +31,43 @@ ITALIC: Final = '\33[3m'
 UNDERLINE: Final = '\033[4m'
 
 
-def valid_entry_ending(entry):
+def valid_entry_ending(entry: str) -> bool:
     """Self-explanatory"""
-    valid = entry.endswith('  ')
+    valid: Final = entry.endswith('  ')
     return valid
 
 
-def valid_use_of_underscores(entry):
+def valid_use_of_underscores(entry: str) -> bool:
     """Returns False when finding a bad usage of underscores"""
-    num_hits = (len(re.findall('__[a-zA-Z0-9>]+_[^_]', entry))
-                + len(re.findall('[^_]_[a-zA-Z0-9>]+__', entry)))
+    num_hits: Final[int] = (len(re.findall('__[a-zA-Z0-9>]+_[^_]', entry))
+                            + len(re.findall('[^_]_[a-zA-Z0-9>]+__', entry)))
     if num_hits > 0:
         return False
 
-    num_possible_headwords = len(re.findall('__[a-zA-Z0-9>]+__', entry))
-    num_not_headwords = (len(re.findall('__[0-9]+[a-z]*__', entry))
-                         + len(re.findall('__[a-z]__', entry)))
-    num_headwords = num_possible_headwords - num_not_headwords
+    num_possible_headwords: Final = len(re.findall('__[a-zA-Z0-9>]+__', entry))
+    num_not_headwords: Final = (len(re.findall('__[0-9]+[a-z]*__', entry))
+                                + len(re.findall('__[a-z]__', entry)))
+    num_headwords: Final = num_possible_headwords - num_not_headwords
     if num_headwords > 1:
         return False
 
-    num_reminder_ribbons = 1 if entry.find('reminder_ribbon') > -1 else 0
+    num_reminder_ribbons: Final = 1 if entry.find('reminder_ribbon') > -1 else 0
 
-    if entry.count('___') > 0 or \
-            (entry.count('_') - num_reminder_ribbons) % 2 != 0 or \
-            entry.count('_:es:') > 0:
+    if entry.count('___') > 0 or (entry.count('_') - num_reminder_ribbons) % 2 != 0 or entry.count('_:es:') > 0:
         return False
     return True
 
 
-def valid_use_of_parentheses_or_brackets(entry):
+def valid_use_of_parentheses_or_brackets(entry: str) -> bool:
     """Returns False when finding a wrong number of parentheses or brackets"""
-    num_open_char = len(re.findall('\\(', entry))
-    num_close_char = len(re.findall('\\)', entry))
-    if num_open_char != num_close_char:
+    num_open_parentheses: Final = len(re.findall('\\(', entry))
+    num_close_parentheses: Final = len(re.findall('\\)', entry))
+    if num_open_parentheses != num_close_parentheses:
         return False
 
-    num_open_char = len(re.findall('\\[', entry))
-    num_close_char = len(re.findall(']', entry))
-    if num_open_char != num_close_char:
+    num_open_brackets: Final = len(re.findall('\\[', entry))
+    num_close_brackets: Final = len(re.findall(']', entry))
+    if num_open_brackets != num_close_brackets:
         return False
 
     return True
@@ -77,14 +77,14 @@ VALID_TAGS: Final = ('three', 'two', 'astonished', 'camera', 'dart', 'eight', 'e
                      'mega', 'mute', 'nine', 'pencil2', 'reminder_ribbon', 'seven', 'six', 'scroll', 'sound')
 
 
-def valid_tag(tag):
+def valid_tag(tag: str) -> bool:
     """Returns True when tag is an allowed one; False otherwise"""
     return tag in VALID_TAGS
 
 
-def valid_entry_tags(entry):
+def valid_entry_tags(entry: str) -> tuple[bool, str]:
     """Self-explanatory"""
-    tags = re.findall(r':(\w+):', entry)
+    tags: Final = re.findall(r':(\w+):', entry)
     for tag in tags:
         if not valid_tag(tag):
             return False, tag
@@ -95,13 +95,13 @@ NUMBER_TO_TAG = ':two:', ':three:', ':four:', ':five:', ':six:', ':seven:', ':ei
     ':nine::m:'
 
 
-def get_tag(number):
+def get_tag(number: int) -> str:
     """"Given an input number, an index is set to access a list to get the corresponding tag"""
     index = number - 2
     return NUMBER_TO_TAG[index]
 
 
-def tag_to_number(tag):
+def tag_to_number(tag: str) -> int | None:
     """Given a tag like :seven:, returns the corresponding number, 7"""
     if tag in NUMBER_TO_TAG:
         index = NUMBER_TO_TAG.index(tag)
@@ -109,7 +109,7 @@ def tag_to_number(tag):
     return None
 
 
-def entry_has_tag_of_any_number(entry, number_min, number_max):
+def entry_has_tag_of_any_number(entry: str, number_min: int, number_max: int) -> bool:
     """Self-explanatory"""
     for number in range(number_min, number_max + 1):
         if entry.find(get_tag(number)) > -1:
@@ -117,36 +117,36 @@ def entry_has_tag_of_any_number(entry, number_min, number_max):
     return False
 
 
-def entry_has_tag_of_number(entry, number):
+def entry_has_tag_of_number(entry: str, number: int) -> bool:
     """Self-explanatory"""
     return entry.find(get_tag(number)) > -1
 
 
-def entry_has_tag_hammer(entry):
+def entry_has_tag_hammer(entry:str) -> bool:
     """Self-explanatory"""
     return entry.find(':hammer:') > -1
 
 
-def print_colored(label, number):
+def print_colored(label: str, number: int) -> None:
     """Self-explanatory"""
-    message = label + ' = ' + str(number)
+    message: Final = label + ' = ' + str(number)
     if number == 0:
         print('✅ ' + OK_GREEN + message + END_C)
     else:
         print('🐞 ' + FAIL + message + END_C)
 
 
-def print_colored_if_positive(label, number):
+def print_colored_if_positive(label: str, number: int) -> None:
     """Self-explanatory"""
     if number > 0:
         message = label + ' = ' + str(number)
         print('🐞 ' + FAIL + message + END_C)
 
 
-def get_headword(entry):
+def get_headword(entry: str) -> str:
     """Self-explanatory"""
-    tokens = entry.split()
-    num_tokens = len(tokens)
+    tokens: Final[ListOfStr] = entry.split()
+    num_tokens: Final = len(tokens)
     if num_tokens == 0:
         return '(empty)'
     headword = tokens[0]
@@ -163,9 +163,9 @@ def get_headword(entry):
     return headword
 
 
-def get_headword_part_of_speech_etc(tokens, do_print=False):
+def get_headword_part_of_speech_etc(tokens: ListOfStr, do_print: bool = False) -> tuple[str, str, ListOfStr]:
     """Self-explanatory"""
-    num_tokens = len(tokens)
+    num_tokens: Final = len(tokens)
     headword = tokens[0]
     headword_completed = headword.count('__') == 2
     idx = 0
@@ -576,7 +576,7 @@ class Checker(object):
         input_file = open(self.filename, 'r', encoding='utf-8')
 
         repeated = {}
-        dictionary = {}
+        dictionary: dict[str, int] = {}
 
         for line in input_file:
             entry = line.replace('\n', '')
