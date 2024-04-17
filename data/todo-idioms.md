@@ -1,5 +1,12 @@
+__at heart__  
+__bad shape__  
+__balk at__  
+__big name__  
+__bigger fish to fry__  
+__cold open__  
 __every so often__ Sometimes; occasionally.  
 __fair game (for something)__  
+__fall asleep at the wheel__ To fail to attend to one’s responsibilities or duties; to be inattentive to that which is important or for which one is responsible.  
 __fall behind__  
 __far from over__ The idiom “far from over” generally means that a situation or event is not yet finished, resolved or settled. It suggests that there is still more to come and that the outcome is uncertain.  
 __Faustian bargain__ An agreement, bargain, or deal in which a person sacrifices or abandons moral, ethical, or spiritual values in favor of wealth, power, or other benefits. A reference to the legend of Faust, who sold his soul to the devil for unlimited knowledge and power.  
@@ -20,6 +27,7 @@ __flat-out__
 __float an idea__ To suggest something in order to gauge interest in it or others’ perception of it.  
 __for a living__ In order to earn one’s primary income. _Roy runs a deli for a living._  
 __for good reason__  
+__for good__ __1__ Permanently; indefinitely; forever.  
 __for kicks__ Only for the sake of fun, excitement, or distraction.  
 __for lack of a better word__  
 __for real__ _informal_ Used to assert that something is genuine or is actually the case.  
@@ -39,6 +47,7 @@ __frosty__ __2__ _mod_ Cool; really cool and mellow. _That music is really frost
 __full stop__  
 __fuzz man__ _slang_ The police.  
 __fuzz__ _slang_ The police. _Come on, we’ve got to get out of here before the fuzz show up and bust us!_  
+__gag order__  
 __game face__ __2__ An expression of stoicism intended to mask one’s emotions or intentions. _John put his game face on as soon as I started to break up with him, so I can’t really tell how he took the new._  
 __game__  
 __game-changer__  
@@ -64,16 +73,22 @@ __go between__
 __go big or go home__ _expression_ Either do something to its fullest extent or largest degree, or else don’t even bother. Often used facetiously. _A: “Do we really need to cook an entire pig for this barbecue? We’re only having a few people over.” B: “Hey, go big or go home!”_  
 __go down the rabbit hole__  
 __go down the toilet__ To fail; to be ruined or destroyed; to be squandered or wastefully discarded.  
+__go for (something)__  
 __go into overdrive__ To start working very hard or quickly.  
+__go overboard__  
 __go south__  
 __go to hell in a handcart__ To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin. _With this new president in office, our country is going to go to hell in a handcart!_  
 __go with (someone or something)__  
 __grapple with (someone or something)__  
+__Hail Mary__  
+__hardliner__  
 __have (someone’s) number on it__ To be considered the agent or instrument of one’s fate, especially leading to death. _Those poor souls should have been safe in that trench, but it looks like that artillery shell had their number on it._  
 __have a trick up (one’s) sleeve__  
 __have got it made__ To be in a comfortable situation or to be very likely to have success. _Living in that big house, earning a nice passive income from their investments—they’ve got it made._  
 __have it made__  
 __have no business (doing something)__ To have no legitimate reason, experience, or authority to do something. _Mom, you had no business eavesdropping on my phone call like that!_  
+__have skin in the game__  
+__heads up__  
 __hear from (one)__  
 __heat up__  
 __heavy lifting__ Any serious, difficult, or arduous work or activities.  
@@ -82,6 +97,7 @@ __helicopter mom__
 __help (oneself) (to something)__ To serve oneself (something); to take, consume, or indulge in (something) freely or without permission or restraint. _There’s plenty of food in the kitchen, so please, help yourselves to more._  
 __high and dry__  
 __high and low__  
+__hit at (someone or something)__  
 __hogwash__  
 __hold (one’s) nose__ __3__ By extension, to do something in spite of its unpleasant or illicit nature. _I don’t want to get fired, so I guess I’ll just have to hold my nose and do what he asks._  
 ‌__hold (one’s) nose__ To reluctantly overcome one’s revulsion.  
@@ -156,8 +172,10 @@ __knock it off__
 __last-minute__  
 __latch onto (someone or something)__  
 __laugh something off__ :dart: To treat a serious problem lightly by laughing at it. _Although his feelings were hurt, he just laughed the incident off as if nothing had happened._ _He laughed off the incident._  
+__lay (someone) to rest__  
 __lay bare (something)__ To divulge, explain, or reveal something not previously known publicly.  
 __lay the groundwork (for something)__ To create or prepare the basics or essential foundation (for something); to pave the way (for something).  
+__leapfrog over (someone or something)__  
 __life, the universe, and everything__ The question that pan-dimensional space-beings asked the computer Deep Thought in Douglas Adams’s book, _The Hitchhiker’s Guide to the Galaxy._ The computer took millions of years and came up with the answer 42. _Balancing risks is life, the universe, and everything._  
 __live up to (something)__ :two::hammer: _Live up to the hype._  
 __living proof__  
@@ -179,6 +197,7 @@ __male gaze__ The rendering of art, literature, etc., from the perspective of an
 __masquerade as (someone or something)__  
 __matter of fact__  
 __middlebrow__ [:scroll: Formed on the pattern of highbrow and lowbrow] Neither particularly intelligent and refined nor particularly uncultured or crude in style, content, or quality. _I used to pride myself on my refined tastes when I was in college, but they’ve become positively middlebrow since I settled down as an adult._  
+__miss the mark__  
 __mixed bag__ :two::hammer:  
 __mixed feelings__  
 __mixed message__  
@@ -188,6 +207,7 @@ __mugger__
 __mumbo jumbo__  
 __nada__  
 __narrative__ The way in which a particular person or situation is being portrayed or represented.  
+__narrow the gap__  
 __near and dear to (one)__  
 __neat and tidy__ (neat and clean)  
 __neck and neck__  
@@ -208,6 +228,7 @@ __on (someone’s) behalf__
 __on a daily basis__ Once or more each day.  
 __on a mission__ :three::hammer:  
 __on a roll__  
+__on a whim__  
 __on the back burner__ Of a low priority; given less or little thought or attention; postponed or suspended.  
 __on the brink of (something)__  
 __on the contrary__  
@@ -221,6 +242,7 @@ __once in a blue moon__ Very rarely.
 __one-off__  
 __one-up (someone)__ To make a point of outdoing, outperforming, outclassing, etc., someone.  
 __org__ __2__ _n_ An organization.  
+__out of commission__  
 __out of pocket__  
 __out of the wood(s)__  
 __outed__  
@@ -257,6 +279,7 @@ __ramp up__ :three::hammer:
 __reach out to (one)__  
 __reality check__ :dart: An event or outcome that forces one to accept or reevaluate the reality of one’s position or situation.  
 __reclaim (someone or something) from (someone or something else)__ To regain or resume possession of someone or something from someone or something.  
+__recount (something) to (one)__ To narrate or share the facts or details of some experience or story to one.  
 __red flag__  
 __resonate with (one)__ To produce or evoke an appealing feeling of familiarity in one.  
 __revolving door__  
@@ -283,11 +306,13 @@ __sidekick__
 __sink in__  
 __slam the door shut__  
 __sleep divorce__ A term that refers to the decision of a couple to sleep in separate places, such as separate beds or separate rooms.  
+__slowly but surely__  
 __small fortune__  
 __smash hit__  
 __sneak in__  
 __spring to mind__ :dart: To suddenly or immediately appear, materialize, or come to the forefront in one’s mind. _Mention OpenAI and ChatGPT springs to mind for most._  
 __step in__  
+__strike a (raw) nerve__  
 __sweetie pie__ A term of endearment, especially for a person or pet towards whom one feels tender love or affection.  
 __take (someone or something) for granted__  
 __take a crack at (something)__ To attempt (to do) something; to take a turn trying (to do) something.  
@@ -300,12 +325,14 @@ __the naked eye__
 __through thick and thin__  
 __throw shade__ _slang_ To subtly issue insults or expressions of disapproval.  
 __tight race__  
+__time and (time) again__  
 __trash talk__  
 __tread carefully__  
 __trickle down__ __2__ To distribute, pass, or diffuse to people lower on a hierarchical structure.  
 __turn heads__  
 __up and running__  
 __user base__ _business jargon_ The number units of a particular product or service that are currently in use, especially software or an Internet or computing platform.  
+__vouch for (someone or something)__  
 __walk out__  
 __watershed moment__  
 __weigh in__ :dart::two: __3__ To give one’s opinion or analysis of something during a discussion. _Karen, you haven’t weighed in yet. What’s your take on this?_  
