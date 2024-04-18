@@ -1,13 +1,19 @@
 __at heart__  
+__at the top of the hour__  
 __bad shape__  
 __balk at__  
+__behind the scenes__  
 __big name__  
 __bigger fish to fry__  
 __cold open__  
+__connect the dots__  
+__day in and day out__  
+__do away with__  
 __every so often__ Sometimes; occasionally.  
 __fair game (for something)__  
 __fall asleep at the wheel__ To fail to attend to one’s responsibilities or duties; to be inattentive to that which is important or for which one is responsible.  
 __fall behind__  
+__fall in(to) line__  
 __far from over__ The idiom “far from over” generally means that a situation or event is not yet finished, resolved or settled. It suggests that there is still more to come and that the outcome is uncertain.  
 __Faustian bargain__ An agreement, bargain, or deal in which a person sacrifices or abandons moral, ethical, or spiritual values in favor of wealth, power, or other benefits. A reference to the legend of Faust, who sold his soul to the devil for unlimited knowledge and power.  
 __feel the heat__ __2__ To deal with or come up against intense pressure or hostility.  
@@ -16,12 +22,14 @@ __fever pitch__ A state of great excitement or turmoil.
 __fight a losing battle__  
 __fill up__ :two::hammer:  
 __finagle__  
+__find for__  
 __fine-tune__  
 __finish the job__  
 __first hand__  
 __fishing expedition__  
 __fit the bill__  
 __five o’clock shadow__  
+__fixer__ _slang_ One tasked with handling and alleviating problems for someone, often illicitly.  
 __flag__ __2__ _v_ _slang_ To fail something. _You better study hard, or you’ll flag this exam._  
 __flat-out__  
 __float an idea__ To suggest something in order to gauge interest in it or others’ perception of it.  
@@ -36,6 +44,7 @@ __for the birds__
 __for the greater good__  
 __for the show__ Something done purely for the sake of appearance or to make a good impression, without any real substance or significance. It is often used to describe actions or behaviors that are superficial, insincere, or done solely to impress others.  
 __for want of a better word__ Lacking a more precise term. _If you want to maintain your good mood, then don’t talk to Kristina. She is, for want of a better word, a sourpuss._  
+__foregone conclusion__  
 __fork over__  
 __fourth wall__  
 __frag__ _slang_ [:scroll: The term had its origin in the Vietnam War] To kill a fellow soldier, often a superior, with a grenade or other explosive device. The word is a shortening of “fragmentation grenade,” referring to a type of grenade that expels shrapnel over a large area. _Someone’s going to frag that guy if he keeps treating his men so poorly._  
@@ -79,6 +88,7 @@ __go overboard__
 __go south__  
 __go to hell in a handcart__ To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin. _With this new president in office, our country is going to go to hell in a handcart!_  
 __go with (someone or something)__  
+__good to go__  
 __grapple with (someone or something)__  
 __Hail Mary__  
 __hardliner__  
@@ -144,10 +154,12 @@ __in the bag__ :two: Achieved or won almost as a certainty.
 __in the blink of an eye__  
 __in the house__  
 __in the least__  
+__in the midst of (something)__  
 __in the nick of time__  
 __in the pipeline__ In progress or about to be started or implemented.  
 __in the pocket of (someone)__ Under the direct control or influence of someone or some group, especially through illegal or unscrupulous financial means. _It’s pretty obvious that the country’s legislators are all in the pocket of corporations._  
 __in the wake of (something)__ :dart:  
+__in the works__  
 __in(to) shape__ In good, robust health; strong or fit. _Boy, I really need to get into shape. Ten years working behind a desk have given me quite a belly!_  
 __it goes without saying__  
 __it remains to be seen__ Something is not yet clear, certain, or known.  
@@ -169,6 +181,7 @@ __kick up__
 __king of the castle__ The most powerful, successful, or authoritative person in a group or organization.  
 __kitchen-sink__ Showing or pertaining to the lives of common, everyday people. (Always used before a noun.)  
 __knock it off__  
+__knock on doors__ To speak to the people who live in an area by walking up to their houses, apartments, etc., especially to provide information or solicit votes, support, contributions, etc.  
 __last-minute__  
 __latch onto (someone or something)__  
 __laugh something off__ :dart: To treat a serious problem lightly by laughing at it. _Although his feelings were hurt, he just laughed the incident off as if nothing had happened._ _He laughed off the incident._  
@@ -176,6 +189,7 @@ __lay (someone) to rest__
 __lay bare (something)__ To divulge, explain, or reveal something not previously known publicly.  
 __lay the groundwork (for something)__ To create or prepare the basics or essential foundation (for something); to pave the way (for something).  
 __leapfrog over (someone or something)__  
+__lick (one’s) wounds__  
 __life, the universe, and everything__ The question that pan-dimensional space-beings asked the computer Deep Thought in Douglas Adams’s book, _The Hitchhiker’s Guide to the Galaxy._ The computer took millions of years and came up with the answer 42. _Balancing risks is life, the universe, and everything._  
 __live up to (something)__ :two::hammer: _Live up to the hype._  
 __living proof__  
@@ -186,7 +200,7 @@ __loud and clear__
 __lust for life__  
 __make (one’s) eyes pop (out)__  
 __make (something) clear (to one)__ :two:hammer:  
-__make a difference__  
+__make a difference__ :two::hammer:  
 __make a fuss__  
 __make a run for (someone or something)__ To run in order to escape something or to reach a destination quickly, perhaps before a certain time or before something happens.  
 __make inroads (in/into something)__  
@@ -203,6 +217,7 @@ __mixed feelings__
 __mixed message__  
 __modus operandi__ :mega:  
 __move the dial__  
+__move the needle__ _I am concentrating on what moves the needle most._  
 __mugger__  
 __mumbo jumbo__  
 __nada__  
@@ -266,6 +281,7 @@ __poster child__ :two::hammer: _OpenAI is the poster child of the gen AI wave._
 __postpone until (some later date or time)__ To delay (something) until a later date or time. A noun or pronoun can be used between “postpone” and “until” to specify what is being delayed.  
 __preppy__ __1__ _Preppy_ is the word we use to describe those rich kids that look down on anyone whose shoes cost less than a car. It’s the perfect word to describe the pompousness and snootiness of the crustiest of the upper crust. Just recall the fashion of _Carlton Banks_ of _The Fresh Prince of Bel-Air._ _adj_ _slang_ Having the look or manner of an expensive preparatory school student, typically characterized by wealth, snobbishness, and an adoption of current fashions, trends, or styles. _I hate the preppy clothes he’s been wearing ever since he started hanging out with the cool kids at school._ _He’s a bit preppy, sure, but he’s smart and is actually really interested in classic literature._ __2__ _n_ _slang_ A person who affects the look or manner of an expensive preparatory school student. _She’s just another preppy who get’s a get-out-jail-free card anytime she screws up, huh?_  
 __pull something off__ :two::hammer:  
+__pump out__  
 __pure and simple__ Essentially or fundamentally so, without exaggeration or elaboration.  
 __put (one’s) money where (one’s) mouth is__  
 __put (someone or something) to the test__  
@@ -291,25 +307,31 @@ __road ahead__
 __rock bottom__ The absolute lowest or worst point.  
 __roll out__  
 __roll with it__ To adapt to a situation despite unexpected circumstances or challenges.  
+__roll with the punches__ :dart:  
 __rue the day (that something happened)__ To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
 __rumble on__  
 __rumble__  
 __run deep__ To be well established and strongly integrated into the nature or character of something. _In this part of the country, college basketball rivalries run deep._  
+__run out of (something or some place)__  
 __run out of steam__ :dart: To lose one’s energy, motivation, or enthusiasm to continue doing something.  
 __run through (something)__ __4__ To guide one through or inform one of the process or details of something. In this usage, a noun or pronoun is used between “run” and “through.” _Can you run me through the plan one more time?_  
 __running high__ [for feelings] To be in a state of excitement or anger. _Feelings were running high as the general election approached._  
 __see the light of day__  
 __serve up (something)__  
 __shorty__ A term of endearment for a child, younger sibling, shorter person, etc.  
+__show of force__ A display of one’s power, influence, or capability to cause harm, meant to act as a warning or deterrent to others.  
 __shy away (from someone or something)__  
 __sidekick__  
+__sigh of relief__  
 __sink in__  
 __slam the door shut__  
 __sleep divorce__ A term that refers to the decision of a couple to sleep in separate places, such as separate beds or separate rooms.  
+__slippery slope__ :dart:  
 __slowly but surely__  
 __small fortune__  
 __smash hit__  
 __sneak in__  
+__sneak peek__  
 __spring to mind__ :dart: To suddenly or immediately appear, materialize, or come to the forefront in one’s mind. _Mention OpenAI and ChatGPT springs to mind for most._  
 __step in__  
 __strike a (raw) nerve__  
@@ -318,6 +340,7 @@ __take (someone or something) for granted__
 __take a crack at (something)__ To attempt (to do) something; to take a turn trying (to do) something.  
 __take center stage__ To be the main focus.  
 __take notice (of someone or something)__  
+__tell it like it is__  
 __test the water(s)__  
 __the idiot box__ _slang_ A television set, or television in general.  
 __the march of time__ The steady, unstoppable advancement of time.  
@@ -342,7 +365,7 @@ __whip up__
 __whopping__  
 __wild goose chase__  
 __win (something) in a walk__ To win (something) easily, handily, or without much or any effort. _Enjoying the benefit of a week off between games, the home team won this match in a walk._  
-__with a bang__  
+__with a bang__ :two::hammer:  
 __with bated breath__  
 __word for word__ In or with the same exact words; verbatim. _After seeing the play only once, he was able to repeat the monologue word for word. It was amazing._  
 __yada yada yada__  
