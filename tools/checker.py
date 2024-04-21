@@ -4,36 +4,34 @@ import os.path
 import re
 import sys
 
-from typing import Final, TypeAlias
-
-ListOfStr: TypeAlias = list[str]
+from typing import Final
 
 # From https://stackoverflow.com/questions/287871/print-in-terminal-with-colors
 # (see also https://en.wikipedia.org/wiki/ANSI_escape_code)
 #
-HEADER: Final = '\033[95m'
-OK_BLUE: Final = '\033[94m'
-OK_CYAN: Final = '\033[96m'
-OK_GREEN: Final = '\033[92m'
-WARNING: Final = '\033[93m'
-RED: Final = '\033[31m'
-GREEN: Final = '\033[32m'
-YELLOW: Final = '\033[33m'
-BLUE: Final = '\033[34m'
-MAGENTA: Final = '\033[35m'
-CYAN: Final = '\033[36m'
-WHITE: Final = '\033[37m'
-GRAY: Final = '\033[90m'
-FAIL: Final = '\033[91m'
-END_C: Final = '\033[0m'
-BOLD: Final = '\033[1m'
-ITALIC: Final = '\33[3m'
-UNDERLINE: Final = '\033[4m'
+HEADER: Final[str] = '\033[95m'
+OK_BLUE: Final[str] = '\033[94m'
+OK_CYAN: Final[str] = '\033[96m'
+OK_GREEN: Final[str] = '\033[92m'
+WARNING: Final[str] = '\033[93m'
+RED: Final[str] = '\033[31m'
+GREEN: Final[str] = '\033[32m'
+YELLOW: Final[str] = '\033[33m'
+BLUE: Final[str] = '\033[34m'
+MAGENTA: Final[str] = '\033[35m'
+CYAN: Final[str] = '\033[36m'
+WHITE: Final[str] = '\033[37m'
+GRAY: Final[str] = '\033[90m'
+FAIL: Final[str] = '\033[91m'
+END_C: Final[str] = '\033[0m'
+BOLD: Final[str] = '\033[1m'
+ITALIC: Final[str] = '\33[3m'
+UNDERLINE: Final[str] = '\033[4m'
 
 
 def valid_entry_ending(entry: str) -> bool:
     """Self-explanatory"""
-    valid: Final = entry.endswith('  ')
+    valid: Final[bool] = entry.endswith('  ')
     return valid
 
 
@@ -44,14 +42,14 @@ def valid_use_of_underscores(entry: str) -> bool:
     if num_hits > 0:
         return False
 
-    num_possible_headwords: Final = len(re.findall('__[a-zA-Z0-9>]+__', entry))
-    num_not_headwords: Final = (len(re.findall('__[0-9]+[a-z]*__', entry))
-                                + len(re.findall('__[a-z]__', entry)))
-    num_headwords: Final = num_possible_headwords - num_not_headwords
+    num_possible_headwords: Final[int] = len(re.findall('__[a-zA-Z0-9>]+__', entry))
+    num_not_headwords: Final[int] = (len(re.findall('__[0-9]+[a-z]*__', entry))
+                                     + len(re.findall('__[a-z]__', entry)))
+    num_headwords: Final[int] = num_possible_headwords - num_not_headwords
     if num_headwords > 1:
         return False
 
-    num_reminder_ribbons: Final = 1 if entry.find('reminder_ribbon') > -1 else 0
+    num_reminder_ribbons: Final[int] = 1 if entry.find('reminder_ribbon') > -1 else 0
 
     if entry.count('___') > 0 or (entry.count('_') - num_reminder_ribbons) % 2 != 0 or entry.count('_:es:') > 0:
         return False
@@ -60,21 +58,23 @@ def valid_use_of_underscores(entry: str) -> bool:
 
 def valid_use_of_parentheses_or_brackets(entry: str) -> bool:
     """Returns False when finding a wrong number of parentheses or brackets"""
-    num_open_parentheses: Final = len(re.findall('\\(', entry))
-    num_close_parentheses: Final = len(re.findall('\\)', entry))
+    num_open_parentheses: Final[int] = len(re.findall('\\(', entry))
+    num_close_parentheses: Final[int] = len(re.findall('\\)', entry))
     if num_open_parentheses != num_close_parentheses:
         return False
 
-    num_open_brackets: Final = len(re.findall('\\[', entry))
-    num_close_brackets: Final = len(re.findall(']', entry))
+    num_open_brackets: Final[int] = len(re.findall('\\[', entry))
+    num_close_brackets: Final[int] = len(re.findall(']', entry))
     if num_open_brackets != num_close_brackets:
         return False
 
     return True
 
 
-VALID_TAGS: Final = ('three', 'two', 'astonished', 'camera', 'dart', 'eight', 'es', 'four', 'five', 'fr', 'hammer', 'm',
-                     'mega', 'mute', 'nine', 'pencil2', 'reminder_ribbon', 'seven', 'six', 'scroll', 'sound')
+# TODO: Transform to Enum
+VALID_TAGS: Final[tuple[str, ...]] = (
+    'three', 'two', 'astonished', 'camera', 'dart', 'eight', 'es', 'four', 'five', 'fr', 'hammer', 'm', 'mega', 'mute',
+    'nine', 'pencil2', 'reminder_ribbon', 'seven', 'six', 'scroll', 'sound')
 
 
 def valid_tag(tag: str) -> bool:
@@ -84,29 +84,29 @@ def valid_tag(tag: str) -> bool:
 
 def valid_entry_tags(entry: str) -> tuple[bool, str]:
     """Self-explanatory"""
-    tags: Final = re.findall(r':(\w+):', entry)
+    tags: Final[list[str]] = re.findall(r':(\w+):', entry)
     for tag in tags:
         if not valid_tag(tag):
             return False, tag
     return True, ''
 
 
-NUMBER_TO_TAG = ':two:', ':three:', ':four:', ':five:', ':six:', ':seven:', ':eight:', ':nine:', \
-    ':nine::m:'
+NUMBER_TO_TAG: Final[tuple[str, ...]] = (
+    ':two:', ':three:', ':four:', ':five:', ':six:', ':seven:', ':eight:', ':nine:', ':nine::m:')
 
 
 def get_tag(number: int) -> str:
     """"Given an input number, an index is set to access a list to get the corresponding tag"""
-    index = number - 2
+    index: Final[int] = number - 2
     return NUMBER_TO_TAG[index]
 
 
-def tag_to_number(tag: str) -> int | None:
+def tag_to_number(tag: str) -> int:
     """Given a tag like :seven:, returns the corresponding number, 7"""
     if tag in NUMBER_TO_TAG:
-        index = NUMBER_TO_TAG.index(tag)
+        index: int = NUMBER_TO_TAG.index(tag)
         return index + 2
-    return None
+    raise ValueError(f'{tag} is not in {NUMBER_TO_TAG}')
 
 
 def entry_has_tag_of_any_number(entry: str, number_min: int, number_max: int) -> bool:
@@ -122,14 +122,14 @@ def entry_has_tag_of_number(entry: str, number: int) -> bool:
     return entry.find(get_tag(number)) > -1
 
 
-def entry_has_tag_hammer(entry:str) -> bool:
+def entry_has_tag_hammer(entry: str) -> bool:
     """Self-explanatory"""
     return entry.find(':hammer:') > -1
 
 
 def print_colored(label: str, number: int) -> None:
     """Self-explanatory"""
-    message: Final = label + ' = ' + str(number)
+    message: Final[str] = label + ' = ' + str(number)
     if number == 0:
         print('✅ ' + OK_GREEN + message + END_C)
     else:
@@ -139,19 +139,19 @@ def print_colored(label: str, number: int) -> None:
 def print_colored_if_positive(label: str, number: int) -> None:
     """Self-explanatory"""
     if number > 0:
-        message = label + ' = ' + str(number)
+        message: Final[str] = label + ' = ' + str(number)
         print('🐞 ' + FAIL + message + END_C)
 
 
 def get_headword(entry: str) -> str:
     """Self-explanatory"""
-    tokens: Final[ListOfStr] = entry.split()
-    num_tokens: Final = len(tokens)
+    tokens: Final[list[str]] = entry.split()
+    num_tokens: Final[int] = len(tokens)
     if num_tokens == 0:
         return '(empty)'
-    headword = tokens[0]
-    headword_completed = headword.count('__') == 2
-    idx = 0
+    headword: str = tokens[0]
+    headword_completed: bool = headword.count('__') == 2
+    idx: int = 0
     while not headword_completed:
         idx += 1
         if idx == num_tokens:
@@ -163,12 +163,12 @@ def get_headword(entry: str) -> str:
     return headword
 
 
-def get_headword_part_of_speech_etc(tokens: ListOfStr, do_print: bool = False) -> tuple[str, str, ListOfStr]:
+def get_headword_part_of_speech_etc(tokens: list[str], do_print: bool = False) -> tuple[str, str, list[str]]:
     """Self-explanatory"""
-    num_tokens: Final = len(tokens)
-    headword = tokens[0]
-    headword_completed = headword.count('__') == 2
-    idx = 0
+    num_tokens: Final[int] = len(tokens)
+    headword: str = tokens[0]
+    headword_completed: bool = headword.count('__') == 2
+    idx: int = 0
     while not headword_completed:
         idx += 1
         if idx == num_tokens:
@@ -179,8 +179,8 @@ def get_headword_part_of_speech_etc(tokens: ListOfStr, do_print: bool = False) -
                 headword_completed = True
     idx += 1
     if idx < num_tokens:
-        part_of_speech = tokens[idx]
-        part_of_speech_completed = part_of_speech.count('_') == 2
+        part_of_speech: str = tokens[idx]
+        part_of_speech_completed: bool = part_of_speech.count('_') == 2
         while not part_of_speech_completed:
             idx += 1
             if idx == num_tokens:
@@ -197,7 +197,7 @@ def get_headword_part_of_speech_etc(tokens: ListOfStr, do_print: bool = False) -
     return headword, part_of_speech, tokens[idx + 1:]
 
 
-VALID_PARTS_OF_SPEECH: Final = (
+VALID_PARTS_OF_SPEECH: Final[tuple[str, ...]] = (
     '',
     '_adj informal_',
     '_adj vulgar slang_',
@@ -253,22 +253,22 @@ VALID_PARTS_OF_SPEECH: Final = (
     '_vt_')
 
 
-def entry_misses_part_of_speech(entry):
+def entry_misses_part_of_speech(entry: str) -> bool:
     """This should be called instead entry_including_hammer_tag_misses_part_of_speech"""
-    tokens = entry.split()
-    do_print = False
+    tokens: Final[list[str]] = entry.split()
+    do_print: Final[bool] = False
     _, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
     if part_of_speech not in VALID_PARTS_OF_SPEECH:
         return True
     return False
 
 
-def entry_has_displaced_part_of_speech(entry):
+def entry_has_displaced_part_of_speech(entry: str) -> bool:
     """Self-explanatory"""
+    do_print: Final[bool] = False
     for part_of_speech in VALID_PARTS_OF_SPEECH:
         if entry.count(part_of_speech) == 1:
-            tokens = entry.split()
-            do_print = False
+            tokens: list[str] = entry.split()
             headword, _, _ = get_headword_part_of_speech_etc(tokens, do_print)
             return entry.count('__ ' + part_of_speech) != 1 and part_of_speech == headword
     return False
@@ -276,174 +276,178 @@ def entry_has_displaced_part_of_speech(entry):
 
 class Checker(object):
     """The class Checker encapsulates all functionalities to check the dictionary"""
+    filename: Final[str]
 
-    def __init__(self, filename):
+    def __new__(cls, filename: str) -> 'Checker':
         if not filename:
             raise ValueError('Filename should not be empty')
         if not os.path.exists(filename):
             raise IOError('File does not exist')
+        return object.__new__(cls)
 
+    def __init__(self, filename: str) -> None:
         self.filename = filename
-        self.num_composite_headwords = 0
-        self.num_displaced_part_of_speech = 0
-        self.num_entries_with_triple_spaces = 0
-        self.num_entries_with_wrong_type_of_space_character = 0
-        self.num_entries_with_tab_character = 0
-        self.num_entries_with_straight_single_quote = 0
-        self.num_entries_with_straight_double_quote = 0
-        self.num_entries_with_double_dash = 0
-        self.num_entries_with_colon_underscore = 0
-        self.num_entries_with_rogue_underscore = 0
-        self.num_entries_with_question_mark = 0
-        self.num_invalid_endings = 0
-        self.num_invalid_tags = 0
-        self.num_invalid_use_of_underscores = 0
-        self.num_invalid_use_of_parentheses_or_brackets = 0
-        self.num_invalid_syn = 0
-        self.num_missing_part_of_speech = 0
-        self.num_tag_shit = 0
-        self.num_wrong_nine_m = 0
-        self.num_too_many_double_spaces = 0
-        self.num_wrong_part_of_speech = 0
+        self.num_composite_headwords: int = 0
+        self.num_displaced_part_of_speech: int = 0
+        self.num_entries_with_triple_spaces: int = 0
+        self.num_entries_with_wrong_type_of_space_character: int = 0
+        self.num_entries_with_tab_character: int = 0
+        self.num_entries_with_straight_single_quote: int = 0
+        self.num_entries_with_straight_double_quote: int = 0
+        self.num_entries_with_double_dash: int = 0
+        self.num_entries_with_colon_underscore: int = 0
+        self.num_entries_with_rogue_underscore: int = 0
+        self.num_entries_with_question_mark: int = 0
+        self.num_invalid_endings: int = 0
+        self.num_invalid_tags: int = 0
+        self.num_invalid_use_of_underscores: int = 0
+        self.num_invalid_use_of_parentheses_or_brackets: int = 0
+        self.num_invalid_syn: int = 0
+        self.num_missing_part_of_speech: int = 0
+        self.num_tag_shit: int = 0
+        self.num_wrong_nine_m: int = 0
+        self.num_too_many_double_spaces: int = 0
+        self.num_wrong_part_of_speech: int = 0
 
-    def treat_invalid_entry_ending(self, entry):
+    # TODO: Refactor methods below to reduce code duplication
+    def treat_invalid_entry_ending(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_invalid_endings += 1
-        headword = get_headword(entry)
+        headword: Final[str] = get_headword(entry)
         print(OK_BLUE + BOLD + headword + END_C + FAIL + ' « Incorrect entry ending #'
               + str(self.num_invalid_endings) + END_C)
 
-    def treat_invalid_underscores_use(self, entry):
+    def treat_invalid_underscores_use(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_invalid_use_of_underscores += 1
-        headword = get_headword(entry)
+        headword: Final[str] = get_headword(entry)
         print(OK_BLUE + BOLD + headword + END_C + FAIL + ' « Incorrect use of underscores #'
               + str(self.num_invalid_use_of_underscores) + END_C)
 
-    def treat_invalid_parentheses_or_brackets_use(self, entry):
+    def treat_invalid_parentheses_or_brackets_use(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_invalid_use_of_parentheses_or_brackets += 1
-        headword = get_headword(entry)
+        headword: Final[str] = get_headword(entry)
         print(OK_BLUE + BOLD + headword + END_C + FAIL + ' « Incorrect use of parentheses or brackets #'
               + str(self.num_invalid_use_of_parentheses_or_brackets) + END_C)
 
-    def treat_invalid_syn(self, entry):
+    def treat_invalid_syn(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_invalid_syn += 1
-        headword = get_headword(entry)
+        headword: Final[str] = get_headword(entry)
         print(OK_BLUE + BOLD + headword + END_C + FAIL + ' « Incorrect use of syn #'
               + str(self.num_invalid_syn) + END_C)
 
-    def treat_invalid_entry_tags(self, entry, tag):
+    def treat_invalid_entry_tags(self, entry: str, tag: str) -> None:
         """Self-explanatory"""
         self.num_invalid_tags += 1
-        headword = get_headword(entry)
+        headword: Final[str] = get_headword(entry)
         print(FAIL + headword + ' ' + BOLD + ':' + tag + ':' + END_C
               + ' « Invalid tag #' + str(self.num_invalid_tags) + END_C)
 
-    def treat_too_many_double_spaces(self, entry):
+    def treat_too_many_double_spaces(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_too_many_double_spaces += 1
-        headword = get_headword(entry)
+        headword: Final[str] = get_headword(entry)
         print(OK_BLUE + BOLD + headword + END_C + FAIL
               + ' « Too many double spaces #'
               + str(self.num_too_many_double_spaces) + END_C)
 
-    def treat_triple_spaces(self, entry):
+    def treat_triple_spaces(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_entries_with_triple_spaces += 1
-        headword = get_headword(entry)
+        headword: Final[str] = get_headword(entry)
         print(OK_BLUE + BOLD + headword + END_C + FAIL + ' « Triple spaces #'
               + str(self.num_entries_with_triple_spaces) + END_C)
 
-    def treat_wrong_type_of_space_character(self, entry):
+    def treat_wrong_type_of_space_character(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_entries_with_wrong_type_of_space_character += 1
-        headword = get_headword(entry)
+        headword: Final[str] = get_headword(entry)
         print(OK_BLUE + BOLD + headword + END_C + FAIL + ' « Wrong type of space character #'
               + str(self.num_entries_with_wrong_type_of_space_character) + END_C)
 
-    def treat_tab_character(self, entry):
+    def treat_tab_character(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_entries_with_tab_character += 1
-        headword = get_headword(entry)
+        headword: Final[str] = get_headword(entry)
         print(OK_BLUE + BOLD + headword + END_C + FAIL + ' « Tab character(s) #'
               + str(self.num_entries_with_tab_character) + END_C)
 
-    def treat_straight_single_quote(self, entry):
+    def treat_straight_single_quote(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_entries_with_straight_single_quote += 1
-        headword = get_headword(entry)
+        headword: Final[str] = get_headword(entry)
         print(OK_BLUE + BOLD + headword + END_C + FAIL + ' « Straight single quote #'
               + str(self.num_entries_with_straight_single_quote) + END_C)
 
-    def treat_straight_double_quote(self, entry):
+    def treat_straight_double_quote(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_entries_with_straight_double_quote += 1
-        headword = get_headword(entry)
+        headword: Final[str] = get_headword(entry)
         print(OK_BLUE + BOLD + headword + END_C + FAIL + ' « Straight double quote #'
               + str(self.num_entries_with_straight_double_quote) + END_C)
 
-    def treat_double_dash(self, entry):
+    def treat_double_dash(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_entries_with_double_dash += 1
-        headword = get_headword(entry)
+        headword: Final[str] = get_headword(entry)
         print(OK_BLUE + BOLD + headword + END_C + FAIL + ' « Double dash #'
               + str(self.num_entries_with_double_dash) + END_C)
 
-    def treat_colon_underscore(self, entry):
+    def treat_colon_underscore(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_entries_with_colon_underscore += 1
-        headword = get_headword(entry)
+        headword: Final[str] = get_headword(entry)
         print(OK_BLUE + BOLD + headword + END_C + FAIL + ' « Colon followed by underscore #'
               + str(self.num_entries_with_colon_underscore) + END_C)
 
-    def treat_rogue_underscore(self, entry):
+    def treat_rogue_underscore(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_entries_with_rogue_underscore += 1
-        headword = get_headword(entry)
+        headword: Final[str] = get_headword(entry)
         print(OK_BLUE + BOLD + headword + END_C + FAIL + ' « Rogue underscore #'
               + str(self.num_entries_with_rogue_underscore) + END_C)
 
-    def treat_question_mark(self, entry):
+    def treat_question_mark(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_entries_with_question_mark += 1
-        headword = get_headword(entry)
+        headword: Final[str] = get_headword(entry)
         print(OK_BLUE + BOLD + headword + END_C + FAIL + ' « Question mark (?) #'
               + str(self.num_entries_with_question_mark) + END_C)
 
-    def treat_shit_tag(self, entry):
+    def treat_shit_tag(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_tag_shit += 1
-        tokens = entry.split()
-        headword = tokens[0]
-        part_of_speech = tokens[1]
+        tokens: Final[list[str]] = entry.split()
+        headword: Final[str] = tokens[0]
+        part_of_speech: Final[str] = tokens[1]
         print(OK_BLUE + BOLD + headword + END_C + ' ' + part_of_speech + FAIL
               + ' « :shit: found; use :hammer: instead' + END_C)
 
-    def treat_wrong_nine_m(self, entry):
+    def treat_wrong_nine_m(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_wrong_nine_m += 1
-        tokens = entry.split()
-        headword = tokens[0]
-        part_of_speech = tokens[1]
+        tokens: Final[list[str]] = entry.split()
+        headword: Final[str] = tokens[0]
+        part_of_speech: Final[str] = tokens[1]
         print(OK_BLUE + BOLD + headword + END_C + ' ' + part_of_speech + FAIL
               + ' « :nine:m: found; add missing colon' + END_C)
 
-    def treat_missing_part_of_speech(self, headword, part_of_speech):
+    def treat_missing_part_of_speech(self, headword: str, part_of_speech: str) -> None:
         """Self-explanatory"""
         self.num_missing_part_of_speech += 1
         if part_of_speech != '':
             print(OK_BLUE + BOLD + headword + END_C + ' ' + part_of_speech + FAIL
                   + ' « Missing part of speech found' + END_C)
 
-    def treat_displaced_part_of_speech(self, headword, part_of_speech):
+    def treat_displaced_part_of_speech(self, headword: str, part_of_speech: str) -> None:
         """Self-explanatory"""
         self.num_displaced_part_of_speech += 1
         print(OK_BLUE + BOLD + headword + END_C + ' ' + part_of_speech + FAIL
               + ' « Displaced part of speech found' + END_C)
 
-    def check_entry(self, entry, do_check_parts_of_speech):
+    def check_entry(self, entry: str, do_check_parts_of_speech: bool) -> None:
         """Looking and tallying mistakes in a particular entry of the dictionary"""
         if not valid_entry_ending(entry):
             self.treat_invalid_entry_ending(entry)
@@ -484,8 +488,8 @@ class Checker(object):
             # if entry_has_tag_of_any_number(entry, 2, 9) and \
             #   entry_misses_part_of_speech(entry):
             if entry_misses_part_of_speech(entry):
-                tokens = entry.split()
-                do_print = False
+                tokens: list[str] = entry.split()
+                do_print: bool = False
                 headword, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
                 self.treat_missing_part_of_speech(headword, part_of_speech)
             if entry_has_displaced_part_of_speech(entry):
@@ -503,38 +507,40 @@ class Checker(object):
                           + ' « Wrong part of speech #'
                           + str(self.num_wrong_part_of_speech))
 
-    def check_entries(self, do_check_parts_of_speech):
+    def check_entries(self, do_check_parts_of_speech: bool) -> bool:
         """Looking for mistakes in the entries of the dictionary
 
         Reads the contents of self's filename checking every single entry
         """
-        input_file = open(self.filename, 'r', encoding='utf-8')
+        input_file: Final = open(self.filename, 'r', encoding='utf-8')
 
         for line in input_file:
-            entry = line.replace('\n', '')
+            entry: str = line.replace('\n', '')
             self.check_entry(entry, do_check_parts_of_speech)
 
         input_file.close()
-        succeeded = bool(self.num_displaced_part_of_speech
-                         + self.num_invalid_endings
-                         + self.num_invalid_tags
-                         + self.num_invalid_use_of_underscores
-                         + self.num_invalid_use_of_parentheses_or_brackets
-                         + self.num_invalid_syn
-                         + self.num_tag_shit
-                         + self.num_too_many_double_spaces
-                         + self.num_entries_with_triple_spaces
-                         + self.num_entries_with_wrong_type_of_space_character
-                         + self.num_entries_with_tab_character
-                         + self.num_entries_with_straight_single_quote
-                         + self.num_entries_with_straight_double_quote
-                         + self.num_entries_with_double_dash
-                         + self.num_entries_with_colon_underscore
-                         + self.num_entries_with_rogue_underscore
-                         + self.num_entries_with_question_mark
-                         + self.num_missing_part_of_speech
-                         + self.num_wrong_part_of_speech
-                         + self.num_wrong_nine_m == 0)
+        num_failures: Final[int] = (
+            self.num_displaced_part_of_speech
+            + self.num_invalid_endings
+            + self.num_invalid_tags
+            + self.num_invalid_use_of_underscores
+            + self.num_invalid_use_of_parentheses_or_brackets
+            + self.num_invalid_syn
+            + self.num_tag_shit
+            + self.num_too_many_double_spaces
+            + self.num_entries_with_triple_spaces
+            + self.num_entries_with_wrong_type_of_space_character
+            + self.num_entries_with_tab_character
+            + self.num_entries_with_straight_single_quote
+            + self.num_entries_with_straight_double_quote
+            + self.num_entries_with_double_dash
+            + self.num_entries_with_colon_underscore
+            + self.num_entries_with_rogue_underscore
+            + self.num_entries_with_question_mark
+            + self.num_missing_part_of_speech
+            + self.num_wrong_part_of_speech
+            + self.num_wrong_nine_m)
+        succeeded: Final[bool] = num_failures == 0
         if succeeded:
             print('✅ ' + OK_GREEN + 'No entries-related problems were found in file \''
                   + self.filename + '\'' + END_C)
@@ -571,17 +577,17 @@ class Checker(object):
             print_colored_if_positive('Entries with wrong nine m', self.num_wrong_nine_m)
         return succeeded
 
-    def check_duplicated_headwords(self):
+    def check_duplicated_headwords(self) -> bool:
         """Self-explanatory"""
-        input_file = open(self.filename, 'r', encoding='utf-8')
+        input_file: Final = open(self.filename, 'r', encoding='utf-8')
 
-        repeated = {}
+        repeated: dict[str, str] = {}
         dictionary: dict[str, int] = {}
 
         for line in input_file:
-            entry = line.replace('\n', '')
-            tokens = entry.split()
-            do_print = False
+            entry: str = line.replace('\n', '')
+            tokens: list[str] = entry.split()
+            do_print: bool = False
             headword, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
             if dictionary.get(headword) == 1:
                 repeated[headword] = part_of_speech
@@ -589,11 +595,11 @@ class Checker(object):
 
         input_file.close()
 
-        size = len(repeated)
+        size: Final[int] = len(repeated)
         if size > 0:
-            repeated_sorted = sorted(repeated)
+            repeated_sorted: Final[list[str]] = sorted(repeated)
             print('Found ' + str(size) + ' duplicated headwords, the very first being:')
-            i = 0
+            i: int = 0
             for headword in repeated_sorted:
                 print('  ' + FAIL + headword + ' ' + repeated[headword] + END_C)
                 i += 1
@@ -601,37 +607,36 @@ class Checker(object):
                     break  # exit loop
         else:
             print('✅ ' + OK_GREEN + 'No duplicated headwords were found' + END_C)
-        return bool(size == 0)
+        return size == 0
 
-    def check_undef_high_freq_keywords(self):
+    def check_undef_high_freq_keywords(self) -> bool:
         """Self-explanatory"""
-        input_file = open(self.filename, 'r', encoding='utf-8')
+        input_file: Final = open(self.filename, 'r', encoding='utf-8')
 
-        undefined = {}
+        undefined: dict[str, str] = {}
 
-        number_min: Final = 9  # 8 # 7
-        number_max: Final = 9
+        number_min: Final[int] = 9  # 8 # 7
+        number_max: Final[int] = 9
         for line in input_file:
-            entry = line.replace('\n', '')
+            entry: str = line.replace('\n', '')
             if entry_has_tag_of_any_number(entry, number_min, number_max):
                 if entry_has_tag_hammer(entry):
-                    tokens = entry.split()
-                    do_print = False
-                    headword, part_of_speech, _ = \
-                        get_headword_part_of_speech_etc(tokens, do_print)
+                    tokens: list[str] = entry.split()
+                    do_print: bool = False
+                    headword, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
                     undefined[headword] = part_of_speech
 
         input_file.close()
 
-        size = len(undefined)
+        size: Final[int] = len(undefined)
         if size > 0:
-            undefined_sorted = sorted(undefined)
-            max_high_frequency_headwords_shown = 10
+            undefined_sorted: Final[list[str]] = sorted(undefined)
+            max_high_frequency_headwords_shown: Final[int] = 10
             print('Found ' + str(size)
                   + ' undefined high frequency headwords, the very first '
                   + str(max_high_frequency_headwords_shown)
                   + ' being:')
-            i = 0
+            i: int = 0
             for headword in undefined_sorted:
                 print('  ' + FAIL + headword + ' ' + OK_CYAN + undefined[headword] + END_C)
                 i += 1
@@ -640,30 +645,30 @@ class Checker(object):
         else:
             print('✅ ' + OK_GREEN + 'No undefined high frequency headwords were found' + END_C)
 
-        return bool(size == 0)
+        return size == 0
 
 
-def get_index(tag_as_number):
+def get_index(tag_as_number: int) -> int:
     """Returns the appropriate index to use in list, skipping 1 (we start at :two:)"""
     return tag_as_number - 2
 
 
-def format_to_print(entry):
+def format_to_print(entry: str) -> str:
     """Returns a str with the formatted version of the input"""
-    tokens = entry.split()
-    do_print = False
+    tokens: Final[list[str]] = entry.split()
+    do_print: Final[bool] = False
     headword, part_of_speech, rest = get_headword_part_of_speech_etc(tokens, do_print)
-    clean_headword = headword.replace('__', '')
-    clean_part_of_speech = part_of_speech.replace('_', '')
-    clean_rest = ''
+    clean_headword: Final[str] = headword.replace('__', '')
+    clean_part_of_speech: Final[str] = part_of_speech.replace('_', '')
+    clean_rest: str = ''
     for token in rest:
         if token.find('__') > -1:
-            leading_text = '\n'
+            leading_text: str = '\n'
             if re.search('__[a-z]__', token) is not None:
                 leading_text += ' '
             clean_rest += leading_text + CYAN + BOLD + token.replace('__', '') + END_C + ' '
         else:
-            num_underscores = len(re.findall('_', token))
+            num_underscores: int = len(re.findall('_', token))
             if num_underscores == 1:
                 if token.find('_') == 0:
                     clean_rest += YELLOW + ITALIC + token.replace('_', '') + ' '
@@ -676,8 +681,8 @@ def format_to_print(entry):
 
     # Final retouches to clean_rest
     for tag in NUMBER_TO_TAG:
-        number = tag_to_number(tag)
-        number_str_xt = MAGENTA + '[' + str(number) + ']' + END_C
+        number: int = tag_to_number(tag)
+        number_str_xt: str = MAGENTA + '[' + str(number) + ']' + END_C
         clean_rest = clean_rest.replace(tag, number_str_xt)
     clean_rest = clean_rest.replace(':m:', MAGENTA + '(+)' + END_C)
 
@@ -685,31 +690,32 @@ def format_to_print(entry):
         + END_C + CYAN + ITALIC + clean_part_of_speech + END_C + ' ' + clean_rest
 
 
-def check(arg, do_check_parts_of_speech):
-    filename = '../data/' + arg + ".md"
+def check(arg, do_check_parts_of_speech: bool) -> None:
+    filename: Final[str] = '../data/' + arg + ".md"
     print(
         '🔵 ' + OK_BLUE + "Checking " + UNDERLINE + filename + END_C + OK_BLUE + " with do_check_parts_of_speech = "
         + str(do_check_parts_of_speech) + END_C)
-    checker = Checker(filename)
+    checker: Final = Checker(filename)
     checker.check_entries(do_check_parts_of_speech)
     checker.check_duplicated_headwords()
     checker.check_undef_high_freq_keywords()
 
 
-def usage_and_abort(prog_name, valid_arguments):
-    print(BLUE + "Usage: " + prog_name + " <arguments> # with <arguments> being one or more of " + str(
-        valid_arguments) + END_C)
+def usage_and_abort(prog_name: str, valid_arguments: list[str]) -> None:
+    print(BLUE + "Usage: " + prog_name + " <arguments> # with <arguments> being one or more of "
+          + str(valid_arguments) + END_C)
     sys.exit(1)
 
 
-def main(prog_name, argv):
-    num_arguments = len(argv)
+def main(prog_name: str, argv: list[str]) -> None:
+    num_arguments: Final[int] = len(argv)
     print('🔵 ' + OK_BLUE + prog_name + ': Number of arguments: ' + str(num_arguments) + END_C)
     if num_arguments > 0:
         print('🔵 ' + OK_BLUE + prog_name + ': Argument list: ' + str(argv) + END_C)
 
-    valid_arguments: Final = ["abbreviations+", "dictionary", "Ellroy's-lingo", "idioms", "interjections",
-                              "todo-idioms", "todo-main", "top-dictionary", "top-idioms"]
+    valid_arguments: Final[list[str]] = [
+        "abbreviations+", "dictionary", "Ellroy's-lingo", "idioms", "interjections", "todo-idioms", "todo-main",
+        "top-dictionary", "top-idioms"]
     if num_arguments > len(valid_arguments):
         print(RED + "Too many arguments. Aborting..." + END_C)
         usage_and_abort(prog_name, valid_arguments)
@@ -723,8 +729,9 @@ def main(prog_name, argv):
         print('🔵 ' + OK_BLUE + prog_name + ': Argument list after adding default arguments: ' + str(argv) + END_C)
 
     for arg in argv:
-        do_check_parts_of_speech = (arg != "abbreviations+" and arg != 'Ellroy\'s-lingo' and arg != 'idioms'
-                                    and arg != 'interjections' and arg != 'todo-idioms' and arg != 'top-idioms')
+        do_check_parts_of_speech: bool = (
+            arg != "abbreviations+" and arg != 'Ellroy\'s-lingo' and arg != 'idioms'
+            and arg != 'interjections' and arg != 'todo-idioms' and arg != 'top-idioms')
         check(arg, do_check_parts_of_speech)
 
 
