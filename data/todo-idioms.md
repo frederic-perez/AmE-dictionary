@@ -1,19 +1,26 @@
+__(all) fired up__ :dart:  
+__as we speak__  
 __at heart__  
+__at the end of the day__  
 __at the top of the hour__  
 __bad shape__  
 __balk at__  
+__beg for (someone or something)__ To plead or ask earnestly for something or someone.  
 __behind the scenes__  
+__bestie__ _slang_ One’s closest friend.  
 __big name__  
 __bigger fish to fry__  
 __cold open__  
 __connect the dots__  
 __day in and day out__  
+__die down__ To diminish or fade slowly.  
 __do away with__  
 __every so often__ Sometimes; occasionally.  
+__face off__ __1__ _v_ To begin a competition or contest. _If you make it to the finals, you’ll have to face off against their best player._  
 __fair game (for something)__  
 __fall asleep at the wheel__ To fail to attend to one’s responsibilities or duties; to be inattentive to that which is important or for which one is responsible.  
 __fall behind__  
-__fall in(to) line__  
+__fall in(to) line__ :two::hammer:  
 __far from over__ The idiom “far from over” generally means that a situation or event is not yet finished, resolved or settled. It suggests that there is still more to come and that the outcome is uncertain.  
 __Faustian bargain__ An agreement, bargain, or deal in which a person sacrifices or abandons moral, ethical, or spiritual values in favor of wealth, power, or other benefits. A reference to the legend of Faust, who sold his soul to the devil for unlimited knowledge and power.  
 __feel the heat__ __2__ To deal with or come up against intense pressure or hostility.  
@@ -50,6 +57,7 @@ __fourth wall__
 __frag__ _slang_ [:scroll: The term had its origin in the Vietnam War] To kill a fellow soldier, often a superior, with a grenade or other explosive device. The word is a shortening of “fragmentation grenade,” referring to a type of grenade that expels shrapnel over a large area. _Someone’s going to frag that guy if he keeps treating his men so poorly._  
 __free fall__  
 __free lunch__  
+__from here on out__ From this moment and continuing into the future. _We need to follow the directions from here on out—otherwise, we’re liable to get lost._  
 __from the get-go__ :two::hammer:  
 __from time to time__  
 __frosty__ __2__ _mod_ Cool; really cool and mellow. _That music is really frosty._  
@@ -91,6 +99,7 @@ __go with (someone or something)__
 __good to go__  
 __grapple with (someone or something)__  
 __Hail Mary__  
+__hard line__ __1__ _adj_ (hardline) Very strict or inflexible. In this usage, the phrase can be hyphenated or written as one word. __2__ _n_ Strict and inflexible view of or position on something.  
 __hardliner__  
 __have (someone’s) number on it__ To be considered the agent or instrument of one’s fate, especially leading to death. _Those poor souls should have been safe in that trench, but it looks like that artillery shell had their number on it._  
 __have a trick up (one’s) sleeve__  
@@ -106,7 +115,7 @@ __heavy-handed__ Overly blunt, forceful, or tactless.
 __helicopter mom__  
 __help (oneself) (to something)__ To serve oneself (something); to take, consume, or indulge in (something) freely or without permission or restraint. _There’s plenty of food in the kitchen, so please, help yourselves to more._  
 __high and dry__  
-__high and low__  
+__high and low__ :two: In many different places.  
 __hit at (someone or something)__  
 __hogwash__  
 __hold (one’s) nose__ __3__ By extension, to do something in spite of its unpleasant or illicit nature. _I don’t want to get fired, so I guess I’ll just have to hold my nose and do what he asks._  
@@ -189,8 +198,11 @@ __lay (someone) to rest__
 __lay bare (something)__ To divulge, explain, or reveal something not previously known publicly.  
 __lay the groundwork (for something)__ To create or prepare the basics or essential foundation (for something); to pave the way (for something).  
 __leapfrog over (someone or something)__  
+__leave a lot to be desired__ To be very inadequate or unsatisfactory; to lack a large amount of what is desired or required.  
 __lick (one’s) wounds__  
 __life, the universe, and everything__ The question that pan-dimensional space-beings asked the computer Deep Thought in Douglas Adams’s book, _The Hitchhiker’s Guide to the Galaxy._ The computer took millions of years and came up with the answer 42. _Balancing risks is life, the universe, and everything._  
+__liminal__ _adj_ /ˈlɪmɪnəl/  
+__litmus test__  
 __live up to (something)__ :two::hammer: _Live up to the hype._  
 __living proof__  
 __loosen up__  
@@ -229,6 +241,7 @@ __neck and neck__
 __not have all day__ To be in a rush; to not have much or any time to spare. Usually used in the present tense. _How long is this repair job going to take? I don’t have all day!_  
 __not sleep a wink__  
 __not so fast__ :two::hammer:  
+__not worth the paper it’s written on__ Useless; unimportant; insignificant.  
 __odd couple__ A particularly unlikely or mismatched pair of people.  
 __of (one’s) own accord__  
 __of all places__ Being the least expected place compared to anywhere else.  
@@ -244,6 +257,7 @@ __on a daily basis__ Once or more each day.
 __on a mission__ :three::hammer:  
 __on a roll__  
 __on a whim__  
+__on par (with someone or something)__  
 __on the back burner__ Of a low priority; given less or little thought or attention; postponed or suspended.  
 __on the brink of (something)__  
 __on the contrary__  
@@ -263,7 +277,10 @@ __out of the wood(s)__
 __outed__  
 __over the moon__ Extremely happy. _I’ve been over the moon ever since I got engaged—I just can’t stop looking at my ring!_  
 __paint a (some kind of) picture (of something)__ :two::hammer:  
+__paint the town red__  
+__paper tiger__  
 __part ways (with one)__  
+__pave the way (for someone or something)__ :dart:  
 __peanut gallery__  
 __peek out__  
 __photobomb__  
@@ -291,7 +308,7 @@ __put on pause__
 __question mark__ An unknown or uncertainty.  
 __quite a (something)__  
 __rain or shine__  
-__ramp up__ :three::hammer:  
+__ramp up__ :four::hammer:  
 __reach out to (one)__  
 __reality check__ :dart: An event or outcome that forces one to accept or reevaluate the reality of one’s position or situation.  
 __reclaim (someone or something) from (someone or something else)__ To regain or resume possession of someone or something from someone or something.  
@@ -308,6 +325,7 @@ __rock bottom__ The absolute lowest or worst point.
 __roll out__  
 __roll with it__ To adapt to a situation despite unexpected circumstances or challenges.  
 __roll with the punches__ :dart:  
+__round on__ To suddenly attack, berate, or show hostility toward someone, especially verbally. _I know he seems friendly, but he’ll round on you in an instant if you disagree with him._  
 __rue the day (that something happened)__ To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
 __rumble on__  
 __rumble__  
@@ -316,14 +334,18 @@ __run out of (something or some place)__
 __run out of steam__ :dart: To lose one’s energy, motivation, or enthusiasm to continue doing something.  
 __run through (something)__ __4__ To guide one through or inform one of the process or details of something. In this usage, a noun or pronoun is used between “run” and “through.” _Can you run me through the plan one more time?_  
 __running high__ [for feelings] To be in a state of excitement or anger. _Feelings were running high as the general election approached._  
+__rush into (something)__  
 __see the light of day__  
+__seep in(to something)__  
 __serve up (something)__  
+__shoot up__  
 __shorty__ A term of endearment for a child, younger sibling, shorter person, etc.  
 __show of force__ A display of one’s power, influence, or capability to cause harm, meant to act as a warning or deterrent to others.  
 __shy away (from someone or something)__  
 __sidekick__  
 __sigh of relief__  
 __sink in__  
+__sink to new depths__  
 __slam the door shut__  
 __sleep divorce__ A term that refers to the decision of a couple to sleep in separate places, such as separate beds or separate rooms.  
 __slippery slope__ :dart:  
@@ -332,7 +354,9 @@ __small fortune__
 __smash hit__  
 __sneak in__  
 __sneak peek__  
+__sound the alarm__  
 __spring to mind__ :dart: To suddenly or immediately appear, materialize, or come to the forefront in one’s mind. _Mention OpenAI and ChatGPT springs to mind for most._  
+__steamroll through__  
 __step in__  
 __strike a (raw) nerve__  
 __sweetie pie__ A term of endearment, especially for a person or pet towards whom one feels tender love or affection.  
@@ -340,8 +364,10 @@ __take (someone or something) for granted__
 __take a crack at (something)__ To attempt (to do) something; to take a turn trying (to do) something.  
 __take center stage__ To be the main focus.  
 __take notice (of someone or something)__  
+__take__ __2__ \_noun, informal\_ One’s reaction to, impression of, or opinion about something.  
 __tell it like it is__  
 __test the water(s)__  
+__that said__  
 __the idiot box__ _slang_ A television set, or television in general.  
 __the march of time__ The steady, unstoppable advancement of time.  
 __the naked eye__  
@@ -349,10 +375,12 @@ __through thick and thin__
 __throw shade__ _slang_ To subtly issue insults or expressions of disapproval.  
 __tight race__  
 __time and (time) again__  
+__top dog__ _Llama 3 is now the top dog in open-source AI models._  
 __trash talk__  
 __tread carefully__  
 __trickle down__ __2__ To distribute, pass, or diffuse to people lower on a hierarchical structure.  
 __turn heads__  
+__U-turn__ __2__ By extension, any sudden and drastic reversal, as of opinion, policy, intention, fortune, trend, etc.  
 __up and running__  
 __user base__ _business jargon_ The number units of a particular product or service that are currently in use, especially software or an Internet or computing platform.  
 __vouch for (someone or something)__  
