@@ -1,4 +1,8 @@
 __(all) fired up__ :dart:  
+__(and) that’s that__ That is final; the issue is settled or completed.  
+__a lifeline__ A source of help or means of dealing with a problematic or dangerous situation, especially when one is desperate or unlikely to succeed on one’s own.  
+__all together__  
+__as simple as that__ Idiom used to describe something as extremely easy to understand or not complicated at all.  
 __as we speak__  
 __at heart__  
 __at the end of the day__  
@@ -10,11 +14,15 @@ __behind the scenes__
 __bestie__ _slang_ One’s closest friend.  
 __big name__  
 __bigger fish to fry__  
+__breaking point__  
+__chase away__  
+__check all the boxes__ Idiom used to describe the act of fulfilling all the requirements or conditions of something, often in the context of a survey, application, or list of criteria.  
 __cold open__  
 __connect the dots__  
 __day in and day out__  
 __die down__ To diminish or fade slowly.  
 __do away with__  
+__entitle (one) to (do something)__  
 __every so often__ Sometimes; occasionally.  
 __face off__ __1__ _v_ To begin a competition or contest. _If you make it to the finals, you’ll have to face off against their best player._  
 __fair game (for something)__  
@@ -31,6 +39,7 @@ __fill up__ :two::hammer:
 __finagle__  
 __find for__  
 __fine-tune__  
+__finish line__  
 __finish the job__  
 __first hand__  
 __fishing expedition__  
@@ -81,10 +90,12 @@ __get the picture__
 __get wind of (something)__  
 __ghost__ _slang_  
 __ghosting__ _slang_  
+__give (one’s) ground__  
 __give (one) the green light__ :two::hammer:  
 __give a shit__  
 __glass cliff__ _n_ A situation in which a woman or minority has advanced professionally at a time when adverse circumstances or crises make it more likely for the person to fail at the job.  
 __go a long way__ :two::hammer:  
+__go back to the well__ To return to some proven and reliable source of success, talent, good fortune, etc.  
 __go bananas__  
 __go between__  
 __go big or go home__ _expression_ Either do something to its fullest extent or largest degree, or else don’t even bother. Often used facetiously. _A: “Do we really need to cook an entire pig for this barbecue? We’re only having a few people over.” B: “Hey, go big or go home!”_  
@@ -96,8 +107,10 @@ __go overboard__
 __go south__  
 __go to hell in a handcart__ To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin. _With this new president in office, our country is going to go to hell in a handcart!_  
 __go with (someone or something)__  
+__golden__  
 __good to go__  
 __grapple with (someone or something)__  
+__guinea pig__  
 __Hail Mary__  
 __hard line__ __1__ _adj_ (hardline) Very strict or inflexible. In this usage, the phrase can be hyphenated or written as one word. __2__ _n_ Strict and inflexible view of or position on something.  
 __hardliner__  
@@ -120,9 +133,11 @@ __hit at (someone or something)__
 __hogwash__  
 __hold (one’s) nose__ __3__ By extension, to do something in spite of its unpleasant or illicit nature. _I don’t want to get fired, so I guess I’ll just have to hold my nose and do what he asks._  
 ‌__hold (one’s) nose__ To reluctantly overcome one’s revulsion.  
+__hold (someone or something) in contempt__  
 __hold (someone) in good stead__ Especially of a talent, ability, or experience, to prove particularly useful or beneficial to someone in the future. _Janet is hoping her internship working in IT will hold her in good stead when she looks for a job after college._  
 __home to (something)__ A place where something is commonly found. _The wetland is home to a variety of wildlife, especially birds._  
 __hour after hour__ :dart: For many hours without stopping. _I sat by her bedside for hour after hour._  
+__How do you eat an elephant? One bite at a time.__ How do you accomplish a large goal? By making progress in small, cumulative steps over time.  
 __How so?__ Please explain.  
 __howl at (someone or something)__  
 __humblebrag__  
@@ -163,6 +178,7 @@ __in the bag__ :two: Achieved or won almost as a certainty.
 __in the blink of an eye__  
 __in the house__  
 __in the least__  
+__in the making__  
 __in the midst of (something)__  
 __in the nick of time__  
 __in the pipeline__ In progress or about to be started or implemented.  
@@ -199,6 +215,7 @@ __lay bare (something)__ To divulge, explain, or reveal something not previously
 __lay the groundwork (for something)__ To create or prepare the basics or essential foundation (for something); to pave the way (for something).  
 __leapfrog over (someone or something)__  
 __leave a lot to be desired__ To be very inadequate or unsatisfactory; to lack a large amount of what is desired or required.  
+__let (oneself) go__  
 __lick (one’s) wounds__  
 __life, the universe, and everything__ The question that pan-dimensional space-beings asked the computer Deep Thought in Douglas Adams’s book, _The Hitchhiker’s Guide to the Galaxy._ The computer took millions of years and came up with the answer 42. _Balancing risks is life, the universe, and everything._  
 __liminal__ _adj_ /ˈlɪmɪnəl/  
@@ -218,6 +235,7 @@ __make a run for (someone or something)__ To run in order to escape something or
 __make inroads (in/into something)__  
 ‌__make it__  
 __make matters worse__  
+__make news__ To garner attention and be the topic of conversation.  
 __make one’s name__ To become well-known or famous.  
 __male gaze__ The rendering of art, literature, etc., from the perspective of and for the consumption of heterosexual males, especially characterized by the depiction of women as passive objects of desire and pleasure. The phrase was coined by film theorist Laura Mulvey. _The male gaze will continue to dominate media until more and more women artists challenge the paradigm._  
 __masquerade as (someone or something)__  
@@ -308,6 +326,7 @@ __put on pause__
 __question mark__ An unknown or uncertainty.  
 __quite a (something)__  
 __rain or shine__  
+__raise (one’s) eyebrows__  
 __ramp up__ :four::hammer:  
 __reach out to (one)__  
 __reality check__ :dart: An event or outcome that forces one to accept or reevaluate the reality of one’s position or situation.  
@@ -332,6 +351,7 @@ __rumble__
 __run deep__ To be well established and strongly integrated into the nature or character of something. _In this part of the country, college basketball rivalries run deep._  
 __run out of (something or some place)__  
 __run out of steam__ :dart: To lose one’s energy, motivation, or enthusiasm to continue doing something.  
+__run out of time__  
 __run through (something)__ __4__ To guide one through or inform one of the process or details of something. In this usage, a noun or pronoun is used between “run” and “through.” _Can you run me through the plan one more time?_  
 __running high__ [for feelings] To be in a state of excitement or anger. _Feelings were running high as the general election approached._  
 __rush into (something)__  
@@ -344,6 +364,7 @@ __show of force__ A display of one’s power, influence, or capability to cause 
 __shy away (from someone or something)__  
 __sidekick__  
 __sigh of relief__  
+__simmer down__  
 __sink in__  
 __sink to new depths__  
 __slam the door shut__  
@@ -358,6 +379,7 @@ __sound the alarm__
 __spring to mind__ :dart: To suddenly or immediately appear, materialize, or come to the forefront in one’s mind. _Mention OpenAI and ChatGPT springs to mind for most._  
 __steamroll through__  
 __step in__  
+__streetwise__  
 __strike a (raw) nerve__  
 __sweetie pie__ A term of endearment, especially for a person or pet towards whom one feels tender love or affection.  
 __take (someone or something) for granted__  
@@ -365,12 +387,15 @@ __take a crack at (something)__ To attempt (to do) something; to take a turn try
 __take center stage__ To be the main focus.  
 __take notice (of someone or something)__  
 __take__ __2__ \_noun, informal\_ One’s reaction to, impression of, or opinion about something.  
+__takes two to quarrel__  
 __tell it like it is__  
 __test the water(s)__  
 __that said__  
 __the idiot box__ _slang_ A television set, or television in general.  
+__the latest__  
 __the march of time__ The steady, unstoppable advancement of time.  
 __the naked eye__  
+__there you go__  
 __through thick and thin__  
 __throw shade__ _slang_ To subtly issue insults or expressions of disapproval.  
 __tight race__  
@@ -379,6 +404,7 @@ __top dog__ _Llama 3 is now the top dog in open-source AI models._
 __trash talk__  
 __tread carefully__  
 __trickle down__ __2__ To distribute, pass, or diffuse to people lower on a hierarchical structure.  
+__true believer__ One who passionately supports a cause or concept.  
 __turn heads__  
 __U-turn__ __2__ By extension, any sudden and drastic reversal, as of opinion, policy, intention, fortune, trend, etc.  
 __up and running__  
@@ -387,6 +413,7 @@ __vouch for (someone or something)__
 __walk out__  
 __watershed moment__  
 __weigh in__ :dart::two: __3__ To give one’s opinion or analysis of something during a discussion. _Karen, you haven’t weighed in yet. What’s your take on this?_  
+__What do you say?__ Does that sound good to you? Do you agree?  
 __when pigs can fly__ At a point in time that will never come to pass. (Used to show skepticism or cynicism over some hypothetical situation or outcome.)  
 __whip out__  
 __whip up__  

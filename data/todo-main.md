@@ -4,6 +4,7 @@ __agathokakological__ _adj_
 __alternate__ _n_ __1__ A person acting in the place of another; a substitute. __2__ An alternative.  
 __apnea__ _n_ :mega: /ˈæp ni ə, æpˈni ə/  
 __balk__ _v_  
+__blatant__  
 __blurb__ _n_ A brief testimonial or excerpt of a review, as on a book jacket.  
 __bombastic__  
 __Capitol Hill__ _n_ _informal_ The US Congress.  
@@ -12,6 +13,9 @@ __contentious__ _adj_
 __defect__ _v_  
 __deliverance__ _n_ _Deliverance center._  
 __depersonalization__ _n_  
+__dew__ _n_  
+__dicta__ _n pl_  
+__dire__ _adj_  
 __draft__ _v_ _They drafted a set of guidelines and best practices._  
 __dwindle__ _v_  
 __dysphagia__ _n_ Difficulty in swallowing, caused by obstruction or spasm of the esophagus.  
@@ -25,6 +29,7 @@ __first-of-its-kind__
 __fluffy__ _adj_  
 __food sensitivity__ _n_  
 __footstep__ _n_  
+__full-blown__ _adj_  
 __hardline__ _adj_ two::hammer:  
 __hastily__ _adv_ In a hurried or hasty manner. _Syn_ hurriedly, in haste  
 __ID__ _vt_  
@@ -32,7 +37,12 @@ __ID__ _vt_
 __invaginate__ _v_  
 __jacksmith__ _n_  
 __juror__  
+__kazoo__ _n_  
+__leptospirosis__ _n_  
+__liable__ _adj_  
+__lip liner__ _n_ (lip liner)  
 __massive__ _adj_  
+__Mattel__ _n_ A relatively rare last name. It is most commonly found in France, according to one source.  
 __mismatch__  
 __near__ _v_  
 __on-site__  
@@ -40,11 +50,17 @@ __opening statement__
 __orphan drug__ _n_ A drug that remains undeveloped or is neglected because of limited potential for commercial gain.  
 __overstretched__ _adj_ /ˌəʊvəˈstrɛtʃt/ Subject to excessive demands or put under excessive pressure. _Overstretched staff._  
 __Paralympics__ _n pl_  
+__peculiar__ _adj, n_  
 __peremptory__  
 __personal column__ _n_  
 __perspicacious__ _adj_  
+‌__pilgrim__ _n_ /ˈpɪl grɪm, -grəm/  
+__plateau__ _n_  
 __price tag__  
+__Pringle__ _n_ A Scottish surname.  
 __punch line__ _n_  
+__quarrel__  
+__quench__ _vt_  
 __quickstart__ _n_ (quickstart guide) A guide or manual intended to get a user rapidly acquainted with a program or system.  
 __recount__ _v_  
 __rife__ _adj_  
@@ -53,6 +69,8 @@ __salacious__
 __school of thought__  
 __security__ _n_ /sɪˈkyʊər ɪ ti/  
 __seminal__ _adj_  
+__shimmy__ _v_  
+__showdown__ _n_  
 __single-handed__  
 __skewer__ _vt_ __2__ To ridicule or criticize harshly: _a reviewer who skewered the tedious movie._  
 __skittish__ _adj_  
@@ -64,8 +82,12 @@ __themself__ _pron_ :dart: _Just after the jury was seated, emergency crews resp
 __thought leader__ _n_ A person, organization, publication, etc. regarded as an authoritative source of new ideas or intellectual trends.  
 __tidbit__ _n_  
 __Tipp-Ex__ _n_ /ˈtɪp.eks/  
+__trample__ _v_  
+__ungrateful__ _adj_  
 __unmissable__ _adj_  
 __vet__ _v_ :two: __2__ :dart: To subject to thorough examination or evaluation: _vet a manuscript._  
+__villager__ _adj_  
+__void__ _v_  
 __voir dire__ _n_  
 __wanderer__  
 __watermelon__  
