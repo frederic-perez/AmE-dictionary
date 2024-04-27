@@ -1,5 +1,6 @@
 __(all) fired up__ :dart:  
 __(and) that’s that__ That is final; the issue is settled or completed.  
+__(in) up to (one’s) eye(ball)s__ Extremely busy; deeply involved or engrossed (in or with something). _I’d love to come for a pint, but I’m in up to my eyeballs with work for my class on Monday._  
 __a lifeline__ A source of help or means of dealing with a problematic or dangerous situation, especially when one is desperate or unlikely to succeed on one’s own.  
 __all together__  
 __as simple as that__ Idiom used to describe something as extremely easy to understand or not complicated at all.  
@@ -119,7 +120,7 @@ __have a trick up (one’s) sleeve__
 __have got it made__ To be in a comfortable situation or to be very likely to have success. _Living in that big house, earning a nice passive income from their investments—they’ve got it made._  
 __have it made__  
 __have no business (doing something)__ To have no legitimate reason, experience, or authority to do something. _Mom, you had no business eavesdropping on my phone call like that!_  
-__have skin in the game__  
+__have skin in the game__ :two::hammer:  
 __heads up__  
 __hear from (one)__  
 __heat up__  
@@ -155,10 +156,13 @@ __imprint (something) in(to) (someone or something)__ To retain something in one
 __in (all good) conscience__ In all fairness; by any reasonable standard. _I cannot in conscience endorse Donald Trump._  
 __in (high) hopes of (something)__  
 __in (high) hopes that__  
+__in (one’s) dotage__ :dart: In a state of senility or mental decline due to old age. _My grandfather in his dotage has lately had trouble remembering our names._  
 __in (one’s) heart__  
 __in (one’s) heyday__ In, at, or during the period of one’s greatest success, power, vigor, etc.  
 __in (one’s) own right__ :two::hammer:  
+__in (someone’s) view__ In someone’s opinion. _And what, in your view, would be the best way to go about solving this problem?_  
 __in a big way__ In a significant way or to a marked extent.  
+__in a measure__ To a certain degree or extent; somewhat.  
 __in a sorry state__ In a pitiful, dysfunctional, or abject condition. _My business was in a sorry state after I left it under the control of my brother._ _John’s been in a sorry state lately—I think he’s taken up drinking again._  
 __in and of itself__  
 __in concert with (someone)__ Together with someone; in cooperation with someone. _You’ll need to work in concert with my file clerk to sort through all this paperwork._  
@@ -176,6 +180,7 @@ __in tears__
 __in the (grand) scheme of things__ In the long term; in the complete picture of something.  
 __in the bag__ :two: Achieved or won almost as a certainty.  
 __in the blink of an eye__  
+__in the hope that__ With the expectation, intention, or desire that (something will happen). _He strove to be well-behaved in prison, in the hope that he would be let out early on parole._  
 __in the house__  
 __in the least__  
 __in the making__  
@@ -183,8 +188,13 @@ __in the midst of (something)__
 __in the nick of time__  
 __in the pipeline__ In progress or about to be started or implemented.  
 __in the pocket of (someone)__ Under the direct control or influence of someone or some group, especially through illegal or unscrupulous financial means. _It’s pretty obvious that the country’s legislators are all in the pocket of corporations._  
+__in the same mold__ Of or in the same or similar style, fashion, or manner.  
+__in the sticks__ In the countryside, especially in a rustic or particularly unsophisticated area. _Jane was sick of living in the sticks and dreamed of spending her life in New York City._  
+__in the unlikely event (that) (something) happens__ If a very improbable outcome turns out to be the case.  
+__in the view of (someone)__  
 __in the wake of (something)__ :dart:  
 __in the works__  
+__in virtue of (something)__ Due to something; because of something; by reason of something. _In virtue of your years of hard work and experience in the company, we think you would be well-suited to a managerial role within the company._  
 __in(to) shape__ In good, robust health; strong or fit. _Boy, I really need to get into shape. Ten years working behind a desk have given me quite a belly!_  
 __it goes without saying__  
 __it remains to be seen__ Something is not yet clear, certain, or known.  
@@ -256,6 +266,7 @@ __narrow the gap__
 __near and dear to (one)__  
 __neat and tidy__ (neat and clean)  
 __neck and neck__  
+__noblesse oblige__ /noh-BLESS-uh-BLEEZH/ Noblesse oblige refers to the idea that people who have high social rank or wealth should be helpful and generous to people of lower rank or to people who are poor.  
 __not have all day__ To be in a rush; to not have much or any time to spare. Usually used in the present tense. _How long is this repair job going to take? I don’t have all day!_  
 __not sleep a wink__  
 __not so fast__ :two::hammer:  
