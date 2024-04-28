@@ -1,6 +1,8 @@
-__(all) fired up__ :dart:  
+__(all) fired up__ :dart::two::hammer:  
 __(and) that’s that__ That is final; the issue is settled or completed.  
 __(in) up to (one’s) eye(ball)s__ Extremely busy; deeply involved or engrossed (in or with something). _I’d love to come for a pint, but I’m in up to my eyeballs with work for my class on Monday._  
+__a dime a dozen__  
+__a far cry from (something)__  
 __a lifeline__ A source of help or means of dealing with a problematic or dangerous situation, especially when one is desperate or unlikely to succeed on one’s own.  
 __all together__  
 __as simple as that__ Idiom used to describe something as extremely easy to understand or not complicated at all.  
@@ -11,18 +13,25 @@ __at the top of the hour__
 __bad shape__  
 __balk at__  
 __beg for (someone or something)__ To plead or ask earnestly for something or someone.  
-__behind the scenes__  
+__behind the scenes__ :two::hammer:  
 __bestie__ _slang_ One’s closest friend.  
+__better late than never__  
+__big bucks__  
 __big name__  
 __bigger fish to fry__  
+__blanket (someone or something) with (something)__ To cover with something.  
 __breaking point__  
+__BYOB__ _BYO_ is an abbreviation for “bring your own.” What the second “B” stands for in “BYOB” is disputed; both “bottle” and “booze” are often used. “BYOB” is typically used of a place or event that does not serve alcohol but permits patrons to bring it with them. _The restaurant is BYOB, so I’ll stop and pick up a bottle of wine on my way there._  
 __chase away__  
 __check all the boxes__ Idiom used to describe the act of fulfilling all the requirements or conditions of something, often in the context of a survey, application, or list of criteria.  
+__clean up after (someone or something)__  
 __cold open__  
 __connect the dots__  
 __day in and day out__  
 __die down__ To diminish or fade slowly.  
+__divine intervention__ A purported miracle caused by a deity’s active involvement in the human world.  
 __do away with__  
+__dreaming too big__ Setting goals or aspirations that are excessively ambitious, to the point where they may seem unrealistic or unattainable. _Many folks (read: Nvidia investors) are dreaming too big about how soon AI will truly revolutionize things._  
 __entitle (one) to (do something)__  
 __every so often__ Sometimes; occasionally.  
 __face off__ __1__ _v_ To begin a competition or contest. _If you make it to the finals, you’ll have to face off against their best player._  
@@ -48,6 +57,7 @@ __fit the bill__
 __five o’clock shadow__  
 __fixer__ _slang_ One tasked with handling and alleviating problems for someone, often illicitly.  
 __flag__ __2__ _v_ _slang_ To fail something. _You better study hard, or you’ll flag this exam._  
+__flaky__  
 __flat-out__  
 __float an idea__ To suggest something in order to gauge interest in it or others’ perception of it.  
 __for a living__ In order to earn one’s primary income. _Roy runs a deli for a living._  
@@ -93,6 +103,7 @@ __ghost__ _slang_
 __ghosting__ _slang_  
 __give (one’s) ground__  
 __give (one) the green light__ :two::hammer:  
+__give (someone) a lift__  
 __give a shit__  
 __glass cliff__ _n_ A situation in which a woman or minority has advanced professionally at a time when adverse circumstances or crises make it more likely for the person to fail at the job.  
 __go a long way__ :two::hammer:  
@@ -110,8 +121,10 @@ __go to hell in a handcart__ To be in an extremely and increasingly bad or ruino
 __go with (someone or something)__  
 __golden__  
 __good to go__  
-__grapple with (someone or something)__  
+__grapple with (someone or something)__ :two::hammer:  
+__green thumb__  
 __guinea pig__  
+__gut check__ :dart: A moment in which one stops to seriously evaluate something or one’s current state. _I think we need to step back and have a gut check about our plan because I don’t think it’s going to work out the way we envisioned._  
 __Hail Mary__  
 __hard line__ __1__ _adj_ (hardline) Very strict or inflexible. In this usage, the phrase can be hyphenated or written as one word. __2__ _n_ Strict and inflexible view of or position on something.  
 __hardliner__  
@@ -139,6 +152,7 @@ __hold (someone) in good stead__ Especially of a talent, ability, or experience,
 __home to (something)__ A place where something is commonly found. _The wetland is home to a variety of wildlife, especially birds._  
 __hour after hour__ :dart: For many hours without stopping. _I sat by her bedside for hour after hour._  
 __How do you eat an elephant? One bite at a time.__ How do you accomplish a large goal? By making progress in small, cumulative steps over time.  
+__how on earth__  
 __How so?__ Please explain.  
 __howl at (someone or something)__  
 __humblebrag__  
@@ -232,6 +246,7 @@ __liminal__ _adj_ /ˈlɪmɪnəl/
 __litmus test__  
 __live up to (something)__ :two::hammer: _Live up to the hype._  
 __living proof__  
+__loaded gun__ A situation or person that is dangerous or volatile. For example, a person might be described as a “loaded gun” if they are highly emotional or prone to outbursts.  
 __loosen up__  
 __loosey-goosey__  
 __lose (one’s) shit__  
@@ -239,7 +254,7 @@ __loud and clear__
 __lust for life__  
 __make (one’s) eyes pop (out)__  
 __make (something) clear (to one)__ :two:hammer:  
-__make a difference__ :two::hammer:  
+__make a difference__ :three::hammer:  
 __make a fuss__  
 __make a run for (someone or something)__ To run in order to escape something or to reach a destination quickly, perhaps before a certain time or before something happens.  
 __make inroads (in/into something)__  
@@ -256,6 +271,7 @@ __mixed bag__ :two::hammer:
 __mixed feelings__  
 __mixed message__  
 __modus operandi__ :mega:  
+__move mountains__ :dart: To do or achieve something that is incredibly difficult.  
 __move the dial__  
 __move the needle__ _I am concentrating on what moves the needle most._  
 __mugger__  
@@ -266,7 +282,9 @@ __narrow the gap__
 __near and dear to (one)__  
 __neat and tidy__ (neat and clean)  
 __neck and neck__  
+__need to be done__ To be required to be completed or acted upon.  
 __noblesse oblige__ /noh-BLESS-uh-BLEEZH/ Noblesse oblige refers to the idea that people who have high social rank or wealth should be helpful and generous to people of lower rank or to people who are poor.  
+__not a chance__ :dart: (There is) no possibility (that that will happen). _You? Beat me? At ping pong? Not a chance!_  
 __not have all day__ To be in a rush; to not have much or any time to spare. Usually used in the present tense. _How long is this repair job going to take? I don’t have all day!_  
 __not sleep a wink__  
 __not so fast__ :two::hammer:  
@@ -285,22 +303,25 @@ __on (someone’s) behalf__
 __on a daily basis__ Once or more each day.  
 __on a mission__ :three::hammer:  
 __on a roll__  
+__on a second thought__ An idiomatic expression that means to reconsider or reevaluate something after initial consideration. It implies that one has had a change of mind or a new perspective after giving more thought to a particular issue or decision.  
 __on a whim__  
 __on par (with someone or something)__  
 __on the back burner__ Of a low priority; given less or little thought or attention; postponed or suspended.  
-__on the brink of (something)__  
+__on the brink of (something)__ :two::hammer:  
 __on the contrary__  
 __on the line__ __1__ In a state of jeopardy or uncertainty.  
 __on the lookout__ :two: Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
 __on the run__  
-__on the sidelines__ In a position in which one is not actively participating in something.  
+__on the sidelines__ :two: In a position in which one is not actively participating in something.  
 __on the verge of__  
 __on-site__  
 __once in a blue moon__ Very rarely.  
+__one size fits all__  
 __one-off__  
 __one-up (someone)__ To make a point of outdoing, outperforming, outclassing, etc., someone.  
 __org__ __2__ _n_ An organization.  
 __out of commission__  
+__out of place__  
 __out of pocket__  
 __out of the wood(s)__  
 __outed__  
@@ -328,6 +349,7 @@ __postpone until (some later date or time)__ To delay (something) until a later 
 __preppy__ __1__ _Preppy_ is the word we use to describe those rich kids that look down on anyone whose shoes cost less than a car. It’s the perfect word to describe the pompousness and snootiness of the crustiest of the upper crust. Just recall the fashion of _Carlton Banks_ of _The Fresh Prince of Bel-Air._ _adj_ _slang_ Having the look or manner of an expensive preparatory school student, typically characterized by wealth, snobbishness, and an adoption of current fashions, trends, or styles. _I hate the preppy clothes he’s been wearing ever since he started hanging out with the cool kids at school._ _He’s a bit preppy, sure, but he’s smart and is actually really interested in classic literature._ __2__ _n_ _slang_ A person who affects the look or manner of an expensive preparatory school student. _She’s just another preppy who get’s a get-out-jail-free card anytime she screws up, huh?_  
 __pull something off__ :two::hammer:  
 __pump out__  
+__pump the brakes__ :dart:  
 __pure and simple__ Essentially or fundamentally so, without exaggeration or elaboration.  
 __put (one’s) money where (one’s) mouth is__  
 __put (someone or something) to the test__  
@@ -357,6 +379,7 @@ __roll with it__ To adapt to a situation despite unexpected circumstances or cha
 __roll with the punches__ :dart:  
 __round on__ To suddenly attack, berate, or show hostility toward someone, especially verbally. _I know he seems friendly, but he’ll round on you in an instant if you disagree with him._  
 __rue the day (that something happened)__ To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
+__rules of the road__  
 __rumble on__  
 __rumble__  
 __run deep__ To be well established and strongly integrated into the nature or character of something. _In this part of the country, college basketball rivalries run deep._  
@@ -386,12 +409,15 @@ __small fortune__
 __smash hit__  
 __sneak in__  
 __sneak peek__  
+__so much so that__  
 __sound the alarm__  
 __spring to mind__ :dart: To suddenly or immediately appear, materialize, or come to the forefront in one’s mind. _Mention OpenAI and ChatGPT springs to mind for most._  
+__stand up for (oneself)__  
 __steamroll through__  
 __step in__  
 __streetwise__  
 __strike a (raw) nerve__  
+__swear in__  
 __sweetie pie__ A term of endearment, especially for a person or pet towards whom one feels tender love or affection.  
 __take (someone or something) for granted__  
 __take a crack at (something)__ To attempt (to do) something; to take a turn trying (to do) something.  
@@ -419,13 +445,16 @@ __true believer__ One who passionately supports a cause or concept.
 __turn heads__  
 __U-turn__ __2__ By extension, any sudden and drastic reversal, as of opinion, policy, intention, fortune, trend, etc.  
 __up and running__  
+__up to snuff__ (up to scratch) As good as what was expected, required, or demanded; satisfactory or adequate. _Sorry, Tom. Your performance isn’t up to snuff. You’ll have to improve or find another job._ _My paper wasn’t up to scratch, so I got an F._  
 __user base__ _business jargon_ The number units of a particular product or service that are currently in use, especially software or an Internet or computing platform.  
 __vouch for (someone or something)__  
 __walk out__  
+__war chest__ A financial reserve collected and maintained for specific political purposes, especially election campaigns.  
 __watershed moment__  
 __weigh in__ :dart::two: __3__ To give one’s opinion or analysis of something during a discussion. _Karen, you haven’t weighed in yet. What’s your take on this?_  
 __What do you say?__ Does that sound good to you? Do you agree?  
 __when pigs can fly__ At a point in time that will never come to pass. (Used to show skepticism or cynicism over some hypothetical situation or outcome.)  
+__where to draw the line__  
 __whip out__  
 __whip up__  
 __whopping__  
@@ -434,6 +463,7 @@ __win (something) in a walk__ To win (something) easily, handily, or without muc
 __with a bang__ :two::hammer:  
 __with bated breath__  
 __word for word__ In or with the same exact words; verbatim. _After seeing the play only once, he was able to repeat the monologue word for word. It was amazing._  
+__work (oneself) up__  
 __yada yada yada__  
 __yea or nay__  
 __yikes__  
