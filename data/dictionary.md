@@ -237,7 +237,7 @@ __admin<sup>2</sup>__ _adj_ Short for administrative. _I was doing just admin st
 __admission__ _n_ :three::hammer: _Free admission._ _The last admission is sold one hour prior to closing._  
 __admittedly__ _adv_ :two: By general admission; confessedly. _I’ve stepped outside my admittedly miniscule comfort zone._  
 __admixture__ _n_ :two::hammer:  
-__admonish__ _v_ /ad-MAH-nish/ To express warning or disapproval to (someone) especially in a gentle or earnest manner. _The reporter was admonished by the senator after he interrupted her a second time._  
+__admonish__ _v_ :two: /ad-MAH-nish/ To express warning or disapproval to (someone) especially in a gentle or earnest manner. _The reporter was admonished by the senator after he interrupted her a second time._  
 __admonition__ _n_ :nine: Bringing a skateboard to school is a great way to get an admonition from a teacher not to ride it down the halls. An admonition is advice with a hint of scolding, a warning not to do something.  
 __admonitory__ _adj_ Serving to warn. _Syn_ cautionary, exemplary  
 __adoring__  
@@ -271,7 +271,7 @@ __advisory<sup>2</sup>__ _n_ :three::astonished: (advisories) A report giving in
 __advocacy__ _n_ :two::hammer: :es: apoyo; defensa  
 __advocate<sup>1</sup>__ _v_ :two: /AD-vuh-kayt/ To support or argue for (a cause, policy, etc.); to plead in favor of. _She advocated for me when the doctors were wrong._  
 __advocate<sup>2</sup>__ _n_ :mega:  
-__aegis__ _n_ :two: /ˈiːdʒɪs/ (egis) __1__ Sponsorship or protection; auspices (esp in the phrase _under the aegis of_). __2__ (Greek myth) The shield of Zeus, often represented in art as a goatskin.  
+__aegis__ _n_ :three: /ˈiːdʒɪs/ /EE-jus/ (egis) __1__ Sponsorship or protection; auspices (esp in the phrase _under the aegis of_). Aegis is a formal word that refers to the power to protect, control, or support something or someone. It is often used in the phrase _under the aegis of._ __2__ (Greek myth) The shield of Zeus, often represented in art as a goatskin.  
 __aerials__  
 __aerie__ _n_ __1__ The nest of a bird, such as an eagle, built on a cliff or other high place. __2__ A house or stronghold perched on a height.  
 __aero-hydroponics__  
@@ -289,7 +289,7 @@ __affirmance__ _n_
 __affix__ _v_  
 __afflict__ _v_ :two: Cause physical pain or suffering in. _Syn_ smite _My grandmother is afflicted with arthritis, and it makes it hard for her to get around._ _Hepatitis C afflicts some 150 million people._  
 __affluence__ _n_ :two: The state of having a great deal of money; wealth. _A sign of our growing affluence._ _Syn_ wealth, prosperity, opulence, fortune  
-__affluent__ _adj_ :six: (especially of a group or area) Having a great deal of money; wealthy. _Affluent parents._ _In the United States and other affluent nations._  
+__affluent__ _adj_ :seven: (especially of a group or area) Having a great deal of money; wealthy. _Affluent parents._ _In the United States and other affluent nations._  
 __afford__ _v_ :three::hammer: _We can’t afford it._  
 __affordable__ _adj_ :three::pencil2::hammer:  
 __afforestation__ _n_ :pencil2: The process of planting many trees on an area of land.  
@@ -319,6 +319,7 @@ __afterward__ _adv_ :two::hammer:
 __Agamemnon__ _n_ A legendary king of Mycenae, the son of Atreus and brother of Menelaus, who led the Greeks in the Trojan War and was murdered by his wife Clytemnestra.  
 __agape__ _adj, adv_ __1__ With the mouth wide open, as in wonder. __2__ Wide open. _He stood there with his mouth agape._  
 __agathism__ _n_ /A-guh-thiz-uhm/ [:scroll: From Greek agathos (good), which also gave us agathokakological and the name Agatha.] The doctrine that, in the end, all things tend toward good.  
+__agathokakological__ _adj_  
 __agave__ _n_ :two::hammer:  
 __Age of Aquarius__ _n_ (Aquarian Age) __1__ _informal_ The period, roughly from the mid-1960s to the early-1970s, when New Age culture and the hippie movement were at their peaks, associated with belief in enhanced spiritual enlightenment, universal love, and personal liberation. __2__ _astrology_ A historical period corresponding to the astrological sign of Aquarius, concerning the timing of which (past, present, or future) there is a wide range of views.  
 __age<sup>1</sup>__ _n_ :four::hammer:  
@@ -491,8 +492,9 @@ __alpine__ _n_ :three::hammer:
 __also-ran__ _n_ _To become an also-ran._  
 __also-run__  
 __altar boy__  
-__alter__ _v_  
+__alter__ _vt_ :two::hammer: /ˈɔl tər/  
 __altercation__  
+__alternate__ _n_ __1__ A person acting in the place of another; a substitute. __2__ An alternative.  
 __alternating caps__ _n_ Used to convey sarcasm or mockery across the internet. Can also be used to purposefully mislead and create humour.  
 __altiloquent__ _adj_ /al-TIL-uh-kwuhnt/ Pompous or pretentious.  
 __altitude sickness__  
@@ -563,9 +565,9 @@ __ample__ _adj_ :nine::m: __1__ Enough or more than enough. _Ample evidence._ _T
 __amplification__ _n_ __2__ Material added to a statement, story, etc, in order to expand or clarify it. _Corrections & Amplifications (newspaper section)._  
 __amply__  
 __ampoule__ _n_ :two: (ampul, ampule) A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped. A small glass vial that is sealed after filling and used chiefly as a container for a hypodermic injection solution. _Syn_ phial, vial _Because of his medical condition, he was obligated to carry an ampoule of medicine and a hypodermic needle with him at all times._  
-__amulet__ _n_ _Syn_ charm, fetish, talisman, juju  
+__amulet__ _n_ :two: An object worn, especially around the neck, as a charm against evil or injury. _Syn_ charm, fetish, talisman, juju  
 __amusement park__ _n_ :three::hammer:  
-__amusia__ _n_ :three::hammer: _Cochlear amusia._  
+__amusia__ _n_ :four: /ay-MYOO-zee-uh/ The inability to recognize, reproduce, or appreciate music. _Cochlear amusia._  
 __amygdala__ _n_ :two::hammer:  
 __amyloidosis__ _n_ /ˌæmɪlɔɪˈdəʊsɪs/  
 __amylum__ _n_ A complex carbohydrate found chiefly in seeds, fruits, tubers, roots and stem pith of plants, notably in corn, potatoes, wheat, and rice. _Syn_ starch :es: almidón _She was on a strict diet and avoided foods with high levels of amylum, sugar, and saturated fat._  
@@ -648,6 +650,7 @@ __annuity__ _n_ :five::hammer: (annuities)
 __annulment__ _n_ /əˈnʌlmənt/  
 __annulus__ _n_ A toroidal shape. _Syn_ doughnut, anchor ring, halo, ring  
 __annum__ _n_  
+__annunciationç__ _n_ A formal public statement. _Syn_ proclamation, declaration, announcement  
 __annus horribilis__ _n_  
 __anodized__ _v_ :two::hammer:  
 __anodyne<sup>1</sup>__ _adj_  
@@ -733,7 +736,7 @@ __apiece__ _adv_ /əˈpiːs/
 __aping__  
 __aplenty__ _adj, adv_ :three::hammer:  
 __aplomb__ _n_ :dart::nine: /əˈplɒm, əˈplʌm/ /uh-PLAHM/ Self-confidence or assurance, especially when in a demanding situation. Self-confident assurance; poise. _Syn_ assuredness, sang-froid, cool _Diana passed the test with aplomb._ _The defense attorney smiled with an air of aplomb, knowing that his client’s acquittal was all but assured._ :es: aplomo  
-__apnea__ _n_ :four::mega: Temporary cessation of breathing. _Sleep apnea._  
+__apnea__ _n_ :five::mega: /ˈæp ni ə, æpˈni ə/ Temporary cessation of breathing. _Sleep apnea._  
 __apocalypse__ _n_ /uh-POK-uh-lips/ __1__ The destruction of the world. __2__ Any widespread destruction or disaster. __3__ A massive, decisive conflict. __4__ A prophecy.  
 __apocryphal__ _adj_ :three::pencil2: /uh-PAH-kri-fuhl/ [:scroll: From Latin apocryphus (secret), from Greek apokruphos (secret, hidden), from apokruptein (to hide away), from apo- (away) + kruptein (to hide).] __1__ Of dubious authorship or authenticity. Of doubtful authenticity: spurious. __2__ False; erroneous; fictitious.  
 __apogee__ _n_ :three: __1__ [:scroll: from apogaios away from the earth, from apo- + _gaia_ earth] (Astronomy) The point in its orbit around the earth when the moon or an artificial satellite is at its greatest distance from the earth. Compare perigee. __2__ The highest point. The farthest or highest point; the apex. _Syn_ summit, height, peak, climax, pinnacle, zenith, acme  
@@ -810,7 +813,7 @@ __Arapahoe__ _n_ :two::hammer:
 __arbitrage__ _n_  
 __arbitrary__ _adj_ :two: /AHR-buh-trair-ee/ Determined, planned, or chosen seemingly at random or by chance. _People often make arbitrary decisions on where to go out to eat._ _An arbitrary number of servers._  
 __arbitration__ _n_ _Arbitration clause._  
-__arbor__ _n_ :two::hammer: _An arbor of live oaks._  
+__arbor__ _n_ :three: A shady resting place in a garden or park, often made of rustic work or latticework on which plants, such as climbing shrubs or vines, are grown. _An arbor of live oaks._ _Syn_ bower, pergola  
 __arboreal__ _adj_ /ahr-BOR-ee-ul/  
 __arboretum__ _n_ :nine: /ˌɑːbəˈriːtəm/ A parklike area in which many different trees or shrubs are grown for study or display. _Syn_ botanical garden  
 __arboriculture__ _n_  
@@ -851,6 +854,7 @@ __arguably__ _adv_ :six::hammer:
 __argue__ _v_  
 __argument__ _n_ A fact or assertion offered as evidence that something is true. _It was a strong argument that his hypothesis was true._  
 __argy-bargy__ _n_  
+__arithmomania__ _n_ /uh-rith-muh-MAY-nee-uh/ [:scroll: From Greek arithmo- (number) + -mania (excessive enthusiasm or craze)] An obsessive preoccupation with numbers, calculations, and counting.  
 __Ark of the Covenant__ _n_ The Ark of the Covenant is a gold-covered wooden chest described in the Book of Exodus as containing the two stone tablets of the Ten Commandments.  
 __Arkansas__ _n_ :three::mega::hammer:  
 __arm bands__ _n_ :es: manguitos  
@@ -1808,7 +1812,7 @@ __blarney<sup>2</sup>__ _v_
 __blasé__ _adj_ :two::hammer:  
 __blasphemous__  
 __blast__ _n_ :two: __9__ _slang_ A highly exciting or pleasurable experience or event, such as a big party. A great experience, a very enjoyable time.  
-__blatant__ _adj_ :five::hammer:  
+__blatant__ _adj_ :six::hammer:  
 __blatantly__  
 __blather<sup>1</sup>__ _n_ :two::hammer:  
 __blather<sup>2</sup>__ _vi_ :five: (blether) To talk nonsensically. To talk foolishly. _Syn_ smatter, babble  
@@ -1934,7 +1938,7 @@ __blunder<sup>2</sup>__ _v_ __1__ To make a mistake in; botch: _would-be thieves
 __blunt<sup>1</sup>__ _adj_ :five: A blunt object is rounded — it isn’t very pointy. A blunt comment is candid — it isn’t very subtle. When we blunt things we make them less lively, sharp, or intense. Blunt and blunder (“make a stupid mistake”) may have the same origins — the Old Norse blundra, meaning “to shut one’s eyes.” So don’t be blunt (“dull” or “obtuse”) — here are a few things you probably don’t want to do: (1) use a blunt (“dull”) knife to cut your tomatoes; (2) make a blunt (“outspoken”) comment that might hurt someone’s feelings; or (3) blunt (“deaden”) the sound of your favorite music by sticking cotton balls in your ears. _A really blunt tool._  
 __blunt<sup>2</sup>__ _v_ :four: (blunting) __1__ To dull the edge of (a knife, for example). __2__ To make less effective; weaken: _blunting the criticism with a smile._ _He blunted the attacks._  
 __bluntly__ _adv_ :two::hammer: _“We haven’t got the money,” Ingold responded bluntly._  
-__blurb__ _n_ :three: A brief testimonial or excerpt of a review, as on a book jacket. _Anonymous titles and blurbs had graced the front cover._ :es: comentario de sobrecubierta  
+__blurb__ _n_ :four: A brief testimonial or excerpt of a review, as on a book jacket. _Anonymous titles and blurbs had graced the front cover._ :es: comentario de sobrecubierta  
 __blurt__ _v_ :four: (blurting) /bləːt/ To say something suddenly and without thinking carefully enough. _Syn_ utter suddenly, exclaim, tell, babble, jabber _She blurted it out before I could stop her._  
 __bluster<sup>1</sup>__ _v_ :three::hammer: _The bitter blustering of the wind._  
 __bluster<sup>2</sup>__ _n_ :three: __1__ Boisterous talk or action; swagger. __2__ Empty threats or protests. __3__ A strong wind; gale.  
@@ -2004,7 +2008,7 @@ __bolt__ _v_ :three::hammer: (bolted) _The windows were closed and bolted._ _Bol
 __bomb cyclone__  
 __bomb__ _n, v_ :five::mega::mute:[bom~~b~~]:hammer: (bombing)  
 __bombast__ _n_ :eight: /BAHM-bast/ __1__ Bombast refers to speech or writing that is meant to sound important or impressive but that is not sincere or meaningful. Grandiloquent, pompous speech or writing. _Syn_ claptrap, fustian _He found that he could look back upon the brass and bombast of his earlier gospels and see them truly._ _The other world leaders at the international conference had little interest in being subjected to the host president’s bombast._ __2__ _Obsolete_ Material used for padding. _Let’s drop the bombast and look at the evidence._  
-__bombastic__ _adj_ :five: To be bombastic is to be full of hot air, like a politician who makes grand promises and doesn’t deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you’ll understand how the meaning came about.  
+__bombastic__ _adj_ :six: To be bombastic is to be full of hot air, like a politician who makes grand promises and doesn’t deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you’ll understand how the meaning came about.  
 __bombinate__ _vi_ :two: /BOM-buh-nayt/ /BAHM-buh-nayt/ [:scroll: From Latin bombinare, from bombilare (to hum, buzz), from Latin bombus (humming), from Greek bombos (booming, humming)] To bombinate is to make a sustained, murmuring sound similar to a buzz or drone. To buzz or hum. _Syn_ bombilate _When the bees all bombinate like that, it makes me nervous!_ _The only sounds Jared could hear in the office that night were those of his own typing and the air conditioner bombinating._  
 __bombing__ _v_  
 __bombogenesis__  
@@ -2411,7 +2415,7 @@ __buffalo__ _n_ :two::hammer: (_n pl_ buffalo or buffaloes or buffalos)
 __buffer__ _vt_ :two::hammer:  
 __buffet<sup>1</sup>__ _n_ _A ten-dollar buffet._  
 __buffet<sup>2</sup>__ _v_ :five::hammer: (buffeted) _The country has been buffeted by civil unrest._  
-__buffoon__ _n_ :two::hammer:  
+__buffoon__ _n_ :dart::three: A person given to clowning and joking. _Syn_ merry andrew, clown, goof, goofball  
 __buffoonery__ _n_ Acting like a clown or buffoon. _Syn_ clowning, harlequinade, prank, frivolity  
 __bug spray__ _n_ An insecticide for killing household pests. _Bug spray with DEET to ward off mosquitoes._  
 __bug__ _v informal_ :nine: (bugging) Annoy or bother (someone). _A persistent reporter was bugging me._ _Bug me not!_ _That bugs me._ _You’re bugging me._  
@@ -2510,7 +2514,7 @@ __burden of proof__ _n_
 __burden__ _n_  
 __burdensome__ _adj_ :two::hammer:  
 __bureaucracy__  
-__burgeon__ _vi_ :two::hammer:  
+__burgeon__ _vi_ :three: /BER-jun/ To bourgeon is to grow or develop quickly—in other words to flourish, blossom or sprout.  
 __burgeoning__ _adj_ :nine::m: Rapidly developing or growing; flourishing.  
 __burgermeister__  
 __burglarize__ _v_  
@@ -2827,6 +2831,7 @@ __capers__ _n pl_
 __capful__  
 __capillary__ _adj, n_  
 __capitalize__ _v_  
+__Capitol Hill__ _n_ :two: _informal_ The US Congress.  
 __capitol__ _n_  
 __Capitol__ _n_ The government building in Washington where the United States Senate and the House of Representatives meet.  
 __capitulant__ _n_ One that capitulates.  
@@ -3164,6 +3169,7 @@ __charter<sup>1</sup>__ _n_ :three::hammer: _Private jet charter._
 __charter<sup>2</sup>__ _v_  
 __chartered__ _adj_ :five: A chartered professional person has passed examinations in their profession. _Chartered accountants._  
 __chartreuse__ _n_ :two: A strong to brilliant greenish yellow to moderate or strong yellow green. The color takes its name from the trademarked liqueur _Chartreuse_, which comes in green and yellow varieties and has been made since 1737 by Carthusian monks, whose monastery is located in the Chartreuse Mountains in the Grenoble region of France.  
+__charwoman__ _n_ A woman hired to do cleaning or similar work, usually in a large building. _Syn_ cleaning lady  
 __chase__ _v_ :two: __3__ To decorate (metal) by engraving or embossing. _The infant received six bowls, gilded and chased._ _A beautiful chased golden bowl._  
 __chasm__ _n_ :nine::m: __1__ A deep, steep-sided opening in the earth’s surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
 __chassis__ _n_ :two::hammer:  
@@ -3406,7 +3412,7 @@ __circuitry__ _n_ :two: __3__ The brain’s neural network.
 __circumambulate__ _v_ :pencil2:  
 __circumcircle__  
 __circumforaneous__ _adj_  
-__circumlocution__ _n_ :two: The use of unnecessarily wordy and indirect language. _Syn_ ambage, periphrasis, evasion _He is long-winded and prone to circumlocution in his public speeches._  
+__circumlocution__ _n_ :three: /ser-kum-loh-KYOO-shun/ The use of unnecessarily wordy and indirect language. _Syn_ ambage, periphrasis, evasion _He is long-winded and prone to circumlocution in his public speeches._  
 __circumnavigate__ _v_ :two: __1__ To proceed completely around: _circumnavigating the earth._ __2__ To go around; circumvent: _circumnavigate the downtown traffic._  
 __circumradius__  
 __circumscribe__ _v_ /SER-kum-skrybe/ Circumscribe means “o limit the size or amount of something,” or, in other words, “to constrict the range or activity of.” _His role as president was carefully circumscribed by the board._  
@@ -3959,7 +3965,7 @@ __connective tissue__ _n_
 __connectome__ _n_ The complete mapping of the structural links in an organism’s neural circuitry.  
 __connivance__ _n_ :four: Agreement on a secret plot.  
 __connive__ _v_ /kuh-NYVE/ :eight: To connive is to secretly help someone do something dishonest or illegal.  
-__connoisseur__ _n_ :pencil2::mega: /ˌkɒn əˈsɜr, -ˈsʊər/  
+__connoisseur__ _n_ :two::pencil2::mega: /ˌkɒn əˈsɜr, -ˈsʊər/ A person with expert knowledge or training, especially in the fine arts. _Syn_ cognoscente  
 __connotation__ _n_ :two: Connotation is using words to suggest a social or emotional meaning rather than a literal one. Example: This is a house, but I want a home.  
 __connubial__ _adj_ :two: Relating to marriage or the married state; conjugal. _An active connubial career._  
 __consanguinity__ _n_  
@@ -4019,7 +4025,7 @@ __contend__ _v_ :four: (contended) __1__ To claim that something is true. __2__ 
 __contended__ _adj_ Happy and satisfied with your life. _He was happy and contended._  
 __content__ _adj_ :four::hammer:  
 __contention__ _n_ :nine::m: /kənˈtɛn ʃən/ Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ _A contention disputed by independent experts._ :es: contienda  
-__contentious__ _adj_ :nine: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight. _Syn_ combative, disputatious, litigious _The captain felt like he was constantly mediating disputes between his contentious crew members._  
+__contentious__ _adj_ :nine::m: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight. _Syn_ combative, disputatious, litigious _The captain felt like he was constantly mediating disputes between his contentious crew members._  
 __contentment__ _n_  
 __contestation__ _n_ Controversy, debate.  
 __contested shot__ _n_ (vs uncontested shot)  
@@ -4447,7 +4453,7 @@ __crown cork__ _n_ _Syn_ crown seal, crown cap, cap :es: chapa
 __Crown dependencies__ _n_ Three island territories in the British Islands that are self-governing possessions of the British Crown: the Bailiwick of Guernsey, the Bailiwick of Jersey, and the Isle of Man.  
 __crown jewel__ _n_ __2__ The most prized asset or possession in a group.  
 __crucial__  
-__crucible__ _n_ :nine::m: /KROO-suh-bul/ Crucible refers to a place or situation that forces someone or something to change. Most commonly found in formal and literary writing, it can also mean “a difficult test or challenge.” Its original meaning, still in use, is “a pot in which metals or other substances are heated to a very high temperature or melted.” _Her rock-solid songwriting skills were forged in the crucible of the Nashville music scene._ _After years of intense daily archery training, she is ready to face the crucible of the Olympics._  
+__crucible__ _n_ :nine::m: /KROO-suh-bul/ /KROO-suh/si-buhl/ Crucible refers to a place or situation that forces someone or something to change. Most commonly found in formal and literary writing, it can also mean “a difficult test or challenge.” Its original meaning, still in use, is “a pot in which metals or other substances are heated to a very high temperature or melted.” __1__ A vessel used for heating substances to a high temperature. __2__ A trying experience. __3__ A situation or place where forces interact to bring about great changes. _Her rock-solid songwriting skills were forged in the crucible of the Nashville music scene._ _After years of intense daily archery training, she is ready to face the crucible of the Olympics._  
 __cruciferous__  
 __crucifix__ _n_ :two::hammer:  
 __crucifixion__ _n_  
@@ -4489,6 +4495,7 @@ __cryotherapy__
 __cryptanalyst__ _n_ :pencil2:  
 __cryptic__ _adj_  
 __crypto-Jew__ _n_  
+__cryptogenic__ _adj_ /krip-tuh-JEN-ik/ [:scroll: From Greek crypto- (secret, hidden) + -genic (producing, produced by)] Of unknown origin or cause.  
 __cryptography__ _n_ /krip-TAH-gruh-fee/  
 __cryptojacking__  
 __cryptomining__  
@@ -4911,7 +4918,7 @@ __delirium__ _n_
 __delisted__ _v_  
 __deliver<sup>1</sup>__ _vt_ :three::hammer: __8__ To give forth or produce.  
 __deliver<sup>2</sup>__ _vi_ :dart::nine::m: __1__ To produce or achieve what is desired or expected; make good: _The senator delivered on her pledge._ _He is a manager who just can’t seem to deliver._ _Al was a man who could deliver._ _Republicans apparently cannot deliver._ _There is a hundred grand if you can deliver._ _Can the recovery plan for elective care in England deliver?_ __2__ To give birth: _She expects to deliver in late August._  
-__deliverance__ _n_ :seven::hammer: _Hope and deliverance._  
+__deliverance__ _n_ :eight::hammer: _Hope and deliverance._ _Deliverance center._  
 __delivery note__  
 __dell__ _n_ A small secluded wooded valley.  
 __delouse__ _v_ :two::hammer: _They’re deloused once a month._  
@@ -4967,6 +4974,7 @@ __deontology__ _n_
 __depart__ _v_ _Buses depart every 30 minutes._  
 __departed__  
 __dependable__ _adj_ :three::hammer: _Applicants are required to have a dependable vehicle._  
+__depersonalization__ _n_  
 __depict__ _v_  
 __deplete__ _v_ :five: Use up the supply or resources of. _Syn_ exhaust, use up, consume  
 __depleted__ _adj_ /dɪˈpliːtɪd/ Reduced or exhausted. _It also helps restore depleted neurotransmitter levels._  

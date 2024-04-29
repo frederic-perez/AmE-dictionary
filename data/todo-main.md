@@ -1,33 +1,3 @@
-__admonish__ _v_  
-__advent__ _n_  
-__aegis__ _n_ /EE-jus/ Aegis is a formal word that refers to the power to protect, control, or support something or someone. It is often used in the phrase _under the aegis of._  
-__affluent__ _adj_  
-__agathokakological__ _adj_  
-__alter__ _vt_ /ˈɔl tər/  
-__alternate__ _n_ __1__ A person acting in the place of another; a substitute. __2__ An alternative.  
-__amulet__ _n_ An object worn, especially around the neck, as a charm against evil or injury. _Syn_ talisman  
-__amusia__ _n_ /ay-MYOO-zee-uh/ The inability to recognize, reproduce, or appreciate music.  
-__annunciationç__ _n_ A formal public statement. _Syn_ proclamation, declaration, announcement  
-__apnea__ _n_ :mega: /ˈæp ni ə, æpˈni ə/  
-__arbor__ _n_ A shady resting place in a garden or park, often made of rustic work or latticework on which plants, such as climbing shrubs or vines, are grown. _Syn_ bower, pergola  
-__arithmomania__ _n_ /uh-rith-muh-MAY-nee-uh/ [:scroll: From Greek arithmo- (number) + -mania (excessive enthusiasm or craze)] An obsessive preoccupation with numbers, calculations, and counting.  
-__balk__ _v_  
-__blatant__  
-__blurb__ _n_ A brief testimonial or excerpt of a review, as on a book jacket.  
-__bombastic__  
-__buffoon__ _n_ :dart: A person given to clowning and joking. _Syn_ merry andrew, clown, goof, goofball  
-__burgeon__ _v_ /BER-jun/ To bourgeon is to grow or develop quickly—in other words to flourish, blossom or sprout.  
-__Capitol Hill__ _n_ :two: _informal_ The US Congress.  
-__charwoman__ _n_ A woman hired to do cleaning or similar work, usually in a large building. _Syn_ cleaning lady  
-__circumlocution__ _n_ /ser-kum-loh-KYOO-shun/  
-__clout__ _n_ __2__ Power or influence, esp in politics.  
-__connoisseur__ _n_ A person with expert knowledge or training, especially in the fine arts. _Syn_ cognoscente  
-__contentious__ _adj_  
-__crucible__ _n_ /KROO-suh/si-buhl/ __1__ A vessel used for heating substances to a high temperature. __2__ A trying experience. __3__ A situation or place where forces interact to bring about great changes.  
-__cryptogenic__ _adj_ /krip-tuh-JEN-ik/ [:scroll: From Greek crypto- (secret, hidden) + -genic (producing, produced by)] Of unknown origin or cause.  
-__defect__ _v_  
-__deliverance__ _n_ _Deliverance center._  
-__depersonalization__ _n_  
 __derelict__ _n_  
 __dew__ _n_  
 __dicta__ _n pl_  
