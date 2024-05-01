@@ -5000,7 +5000,7 @@ __derated__ _v_ _A derated estimation of the actual peak power consumption._
 __derecho__ _n_ :three: /də-rā′chō/ A widespread and severe windstorm that moves rapidly along a fairly straight path and is associated with bands of rapidly moving thunderstorms.  
 __deregulation__ _n_  
 __derelict<sup>1</sup>__ _adj_ :three::hammer: _Derelict buildings._  
-__derelict<sup>2</sup>__ _n_  
+__derelict<sup>2</sup>__ _n_ :two::hammer:  
 __dereliction__ _n_ :two::hammer:  
 __deride__ _vt_ __1__ To laugh at or insult contemptuously: _got derided by a carnival clown._ __2a__ To subject to usually bitter or contemptuous ridicule or criticism: _politicians deriding their opponents._ __b__ To express a lack of respect or approval of: _were derided as the weaker sex._  
 __derision__  
@@ -5088,6 +5088,7 @@ __devolved__ _v_
 __devote__ _v_ :two::hammer: (devoted) _We’re devoting this episode to his paintings._  
 __devotee__ _n_ _Burning Man devotees._  
 __devout__ _adj_ :two::hammer:  
+__dew__ _n_  
 __dewlaps__ _n_ :two::hammer:  
 __deworm__ _vt_ To cure (an animal) of worms; worm.  
 __Dexedrine__ _n_ :three: /ˈdɛksɪˌdriːn/ A trademark for dextroamphetamine.  
@@ -5111,6 +5112,7 @@ __dichotomous__ _adj_
 __dichotomy__ _n_ :four::mega: Division into two usually contradictory parts or opinions. _Syn_ duality _One of the novel’s themes is the dichotomy of Eastern and Western culture._  
 __dickens__ _n_ _Psychosomatic afflictions hurt like the dickens._  
 __Dickensian__  
+__dicta__ _n pl_  
 __dictate__ _v_  
 __diction__ _n_ :five::hammer: _The priest diction._  
 __didactic__ _adj_ Intended to instruct. _Syn_ didactical  
@@ -5234,7 +5236,7 @@ __disclaimer__ _n_ :two::hammer:
 __disclosure__ _n_  
 __discombobulate__ _vt_ :five::pencil2: To throw into a state of confusion. _Syn_ befuddle  
 __discombobulated__ _adj_ :four::hammer: _Syn_ disconcerted  
-__discomfit__ _v_ To make uneasy or perplexed; disconcert. _Syn_ discompose, untune, upset, disconcert  
+__discomfit__ _v_ :two: /diss-KUM-fit/ To _discomfit_ someone is to make them confused or upset. _Discomfit_ is a formal synonym of the also formal (but slightly less so) _disconcert._ _Syn_ discompose, untune, upset, disconcert _Jacob was discomfited by the new employee’s forward, probing questions._  
 __discomfited__ _adj_ :two: Uncomfortable.  
 __discomfiture__ _n_ :two::hammer:  
 __discommode__ _v_ To cause inconvenience or annoyance to; disturb.  
@@ -5604,6 +5606,7 @@ __Dr. Seuss__ _n_ United States writer of children’s books (1904-1991).
 __drab<sup>1</sup>__ _adj_ :seven: (drabber jobs) Dull or commonplace in character; dreary: _a drab personality._ _Drab cities._ _A drab office._  
 __drab<sup>2</sup>__ _n_  
 __draconian__ _adj_ :seven: /dray-KOH-nee-un/ Draconian means “cruel“ or “severe.” It is usually used to describe harsh laws, rules, or regulations. Extremely strict and severe. _Small businesses believe that the new tax is draconian._  
+__draft__ _v_ _They drafted a set of guidelines and best practices._  
 __draft<sup>1</sup>__ _n_  
 __draft<sup>2</sup>__ _vt_ :four::astonished::hammer: __1__ To select from a group for some usually compulsory service: _drafted into the army._ _Please, draft two messages._ _Drafting the Defense Ministry’s basic policy._ _Pam spent some time drafting the latest e-mail._  
 __draft<sup>3</sup>__ _vi_  
@@ -5844,9 +5847,9 @@ __dysfunctional__
 __dysgraphia__ _n_  
 __dyslipidemia__ _n_ An abnormal concentration of lipids or lipoproteins in the blood.  
 __dysmorphia__ _n_ Any of various psychological disorders whose sufferers believe that their body is wrong or inadequate, such as anorexia, bulimia, and muscle dysmorphia.  
-__dyspepsia__ _n_ Disturbed digestion. _Syn_ indigestion, upset stomach  
+__dysphagia__ _n_ :two: Difficulty in swallowing, caused by obstruction or spasm of the esophagus. _Syn_ indigestion, upset stomach  
 __dysphemism__ _n_  
-__dysphoria__ _n_ :four: An emotional state characterized by anxiety, depression, or unease.  
+__dysphoria__ _n_ :five: An emotional state characterized by anxiety, depression, or unease.  
 __dysplasia__ _n_ Abnormal development or growth of tissues, organs, or cells. _Canine hip dysplasia._  
 __dyspnea__ _n_ :three: Difficulty in breathing, often associated with lung or heart disease and resulting in shortness of breath. Difficult or labored breathing. Also called _air hunger_.  
 __dyspraxia__ _n_  
@@ -5998,7 +6001,7 @@ __élan__ _n_ :two::pencil2::hammer:
 __elapse__ _v_ :dart: Pass by. _Syn_ glide by, go by, slide by, slip by, slip away, go along _A month has elapsed since our last meeting, so let us begin by reviewing the minutes from that session._  
 __elastically__  
 __elastin__ _n_  
-__elate__ _v_ :four::hammer: (elated) _They came to be elated and uplifted._  
+__elate__ _vt_ :five: To make very happy or proud: _news to elate the hearer._ _They came to be elated and uplifted._  
 __elated__ _adj_ :four::hammer: /ɪˈleɪtɪd/  
 __elation__ _n_ :four::hammer:  
 __elbow__ _v_ (elbowing) _Elbowing your way through crowds._  
@@ -6116,7 +6119,7 @@ __enact__ _v_ :nine::m: (enacted, enacting) Make (a bill or other proposal) law.
 __enactment__  
 __enamel__ _n_ :two::hammer: :es: esmalte  
 __enamored__  
-__encampment__ _n_ :three::hammer:  
+__encampment__ _n_ :four::hammer:  
 __encapsulate__ _v_ /in-KAP-suh-layt/ To show or express the main idea or quality of (something) in a brief way. _Her first album encapsulates the sound of the 90s._  
 __encashment__ _n_  
 __encephalopathy__ _n_ /ɛnˌsɛfəˈlɒpəθɪ/ (Pathology) Any degenerative disease of the brain, often associated with toxic conditions.  
@@ -6308,7 +6311,7 @@ __erupt__ _vi_ :four::hammer: (erupted)
 __erupted__ _v_  
 __erythema__ _n_ Abnormal redness of the skin due to local congestion, as in inflammation.  
 __erythro-__ _prefix_ (eryth-) __1__ Red: _erythrocyte._ __2__ Erythrocyte: _erythropoiesis._  
-__escalate__ _v_ :four::pencil2: To increase, enlarge, or intensify. _Syn_ intensify, step up _Tensions escalated as the politicians refused to compromise._  
+__escalate__ _v_ :five::pencil2: To increase, enlarge, or intensify. _Syn_ intensify, step up _Tensions escalated as the politicians refused to compromise._  
 __escalation__ _n_ :three::hammer:  
 __escalator__ _n_ :three: A continuously moving stairway on an endless loop for carrying passengers up or down.  
 __escapade__ _n_ :dart::three: (escapades) A usually adventurous action that runs counter to approved or conventional conduct.  
@@ -6465,7 +6468,7 @@ __exhortation__ _n_
 __exigent__ _adj_ /EK-suh-junt/  
 __exiguous__ _adj_ :two::hammer:  
 __existential__ _n_ :pencil2:  
-__exodus__ _n_ :three: /EK-suh-duhs/ __1__ _capitalized_ The mainly narrative second book of canonical Jewish and Christian Scripture. __2__ A mass departure. A large scale departure or emigration.  
+__exodus__ _n_ :four: /EK-suh-duhs/ __1__ _capitalized_ The mainly narrative second book of canonical Jewish and Christian Scripture. __2__ A mass departure. A large scale departure or emigration.  
 __exonerate__ _vt_ :seven: (exonerating) __1__ To clear from accusation, guilt, or blame. Pronounce not guilty of criminal charges. _Syn_ acquit, exculpate, discharge, clear _After the long trial, the suspect was exonerated of the murder charges, much to his relief._ __2__ To relieve from an obligation, duty, or task.  
 __exorbitant__ _adj_ /ig-ZOR-bi-tuhnt/ [:scroll: From Latin exorbitare (to go out of the track), from ex- (out) + orbita (wheel track), from orbis (circle, disk).] Greatly exceeding what’s considered reasonable, especially in cost or price.  
 __exoteric__ _adj_ :three: __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning “designed for or understood by the specially initiated alone.”  
@@ -6517,7 +6520,7 @@ __extort__ _v_
 __extradite__ _v_ :two: /EK-struh-dyte/ To extradite someone who has been accused of a crime is to send that person to the state or country that has jurisdiction to try them for that crime. _The U.S. has rejected the country’s request to extradite the journalist because of concerns that she will be subjected to an unfair trial there._  
 __extraneous__ _adj_ :dart::two: /ek-STRAY-nee-us/ Something described as extraneous does not form a necessary part of something else, and may also therefore be considered irrelevant or unimportant (as in “extraneous details”). _The woman who reported the robbery kept bringing up extraneous facts, such as what she’d had for lunch._  
 __extravagance__ _n_  
-__extravaganza__ _n_ :five::hammer:  
+__extravaganza__ _n_ :six::hammer:  
 __extravert__ _adj, n_ /ɛkstrəˌvɜːt/ A variant spelling of extrovert.  
 __extreme unction__ _n_ _The King received extreme unction._  
 __extremes__  
@@ -6554,7 +6557,7 @@ __f-ing__
 __f-word__ _n_ (sometimes capital) A euphemistic way of referring to the word fuck.  
 __Fab Four__ _n_ :two: The Beatles.  
 __fab__ _adj_ :two: _slang_ A shortening of “fabulous,” meaning great or outstanding. _Wow, you look fab—that dress is gorgeous._ _Check out fab store._  
-__fabled__  
+__fabled__ _adj_ :two::hammer:  
 __fabric softener__  
 __fabric__ _n_ :two::hammer: _The fabric of time and space._  
 __fabricate__ _v_ :two: _Fabricated stories._  
@@ -6606,6 +6609,7 @@ __fairway__ _n_ :two: The long part of a golf course that you hit the ball along
 __fait accompli__  
 __faiway__ _n_ _The turf of the lush green fairways._  
 __fakeness__ _n_  
+__falcon__ _n_ :mega: /ˈfɔl kən, ˈfæl-, ˈfɔ kən/  
 __fall for__ _phr v_  
 __fall guy__ _n slang_ __1__ A person who is the victim of a confidence trick. A gullible victim; a dupe. __2__ A scapegoat _A fall guy for his boss’s errors._  
 __fall into place__  
@@ -6721,7 +6725,7 @@ __fatigues__ _n_ :four: Clothing worn by military personnel for labor or for fie
 __fatiguing__ _adj_ Causing physical or mental weariness or exhaustion.  
 __fatso__  
 __fatuity__ _n_ Something that is utterly stupid or silly. _Syn_ absurdity, fatuousness, silliness _In his fatuity, the beggar believed the princess to be in love with him._  
-__fatuous__ _adj_ :five: Foolish or inane, esp. in an unconscious, complacent manner; silly. Foolish or silly, especially in a smug or self-satisfied way. _Syn_ asinine _He made these fatuous pronouncements with such conviction that no one dared to contradict him._  
+__fatuous__ _adj_ :six: /FATCH-oo-us/ To describe something, such as an idea or remark, as _fatuous_ is to say that it is foolish or silly rather than sensible or logical. Foolish or inane, esp. in an unconscious, complacent manner; silly. Foolish or silly, especially in a smug or self-satisfied way. _Syn_ asinine _He made these fatuous pronouncements with such conviction that no one dared to contradict him._  
 __fatuously__ _adv_ Vacuously or complacently and unconsciously foolish. _Syn_ inanely  
 __fatwa__ _n_ :two: Religious edict.  
 __Fauci-ing__ _n_ _slang_ One of the hippest, newest dating trends where one rejects a date because they think the other person is not taking COVID-19 protocols seriously.  
@@ -6889,6 +6893,7 @@ __figure skating__
 __figure<sup>1</sup>__ _n_ _5-figure price tag._  
 __figure<sup>2</sup>__ _v_ _informal_ :two::hammer:  
 __figurehead__ _n_ :seven: __1__ A person nominally having a prominent position, but no real authority.  
+__figurine__ _n_ A small molded or sculptured figure; a statuette. _Syn_ statuette  
 __filbert__ _n_ :es: avellana  
 __filch__ _v_ :four: To filch something is to secretly or casually steal it. The word _filch_ also usually, though not always, implies that what has been stolen is small or of little monetary value.  
 __file a case__ _v_  
@@ -6949,9 +6954,10 @@ __firehouse__ _n_ :two::hammer:
 __fireman__ _n_ __3__ An enlisted man in the US Navy or Coast Guard engaged in the operation of engineering machinery.  
 __fireplace__ _n_ _Gas fireplaces._  
 __fireplug__ _n_  
-__firestorm__ _n_ :three: __2__ A vehemently intense and contagious response: _a firestorm of protest._  
+__firestorm__ _n_ :four: __2__ A vehemently intense and contagious response: _a firestorm of protest._  
 __firewall__ _v_ :camera: _The pilot firewalled the throttles._  
 __fireworks__ _n_ _A fireworks display will be held on Sunday._  
+__firing squad__ _n_ :two::hammer:  
 __firm<sup>1</sup>__ _adj_ _A firm closure._  
 __firm<sup>2</sup>__ _n_ :dart::mega: /fûrm/  
 __firmament__ _n_ :two: /ˈfɜːməmənt/ The expanse of the sky; heavens. The vault or expanse of the heavens; the sky.  
@@ -6961,6 +6967,7 @@ __first responder__ _n_ :two: A person, such as a police officer, firefighter, o
 __first-hand__ _adj, adv_  
 __first-in-class<sup>1</sup>__ _adj_ :two: (first in class) First-in-class drugs are ones that use a new and unique mechanism of action for treating a medical condition. These products are often referred to as innovative and cited as offering new treatment options for patients.  
 __first-in-class<sup>2</sup>__ _n_ Drugs that use a new and unique mechanism of action for treating a medical condition according to FDA 2011 Novel New Drugs.  
+__first-of-its-kind__  
 __firstborn__ _adj, n_ :two::hammer: :es: primogénito  
 __firsthand__ _adj, adv_ :three::hammer:  
 __firth__ _n_ (frith) [:scroll: C15: from Old Norse fjörthr fiord] _Physical Geography_ A relatively narrow inlet of the sea, esp in Scotland.  
@@ -7179,7 +7186,7 @@ __fluctuate__ _v_ :mega:
 __flue__ _n_ __1__ (Building) A shaft, tube, or pipe, esp as used in a chimney, to carry off smoke, gas, etc.  
 __fluff__ _n_ :four::hammer: __4__ _informal_ A mistake, esp in speaking or reading lines or performing music. _I am talking about the tools in my real-life, absolutely ZERO-fluff kinda way._  
 __fluffy slippers__ _n_ :camera:  
-__fluffy__ _adj_ :two::hammer: _Fluffy omelets and giant salads._  
+__fluffy__ _adj_ :three::hammer: _Fluffy omelets and giant salads._  
 __fluke__ _n_ :nine::mega: /fluːk/ An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
 __fluky__ _adj_  
 __flummox__ _vt_ :nine::m::dart: /FLUM-uks/ (flummoxed) To confuse; perplex. _Syn_ baffle, bewilder, nonplus, puzzle _The game was designed to flummox its players, presenting them with a series of complex riddles._ _Why the error message kept popping up flummoxed the computer tech._  
@@ -7240,6 +7247,7 @@ __fond__ _adj_ _Fond memories._
 __foo fighter__ _n_ :dart: Any of various unidentified flying objects, as reported by Allied pilots during World War II.  
 __food bank__  
 __food processor__  
+__food sensitivity__ _n_  
 __food stall__  
 __food stand__ _n_ A food kiosk or food booth (also food stand, temporary food service facility) is generally a temporary structure used to prepare and sell food to the general public, usually where large groups of people are situated outdoors in a park, at a parade, near a stadium or otherwise.  
 __food-handler’s permit__  
@@ -7268,6 +7276,7 @@ __footloose<sup>2</sup>__ _n_ _Travel clothes for the footloose._
 __footpad__ _n_ A thief who preys on pedestrians. _Syn_ padder _The footpad was known to local police, as he had a habit of preying on tourists in the center of town._  
 __footpath__ _n_ A narrow path for persons on foot.  
 __footprint__ _n_ _Two pools set in the footprints of the Twin Towers._  
+__footstep__ _n_  
 __footstool__ _n_  
 __footwork__ _n_ :three::hammer:  
 __foozle__ _v_  
@@ -7377,6 +7386,7 @@ __foul-smelling__ _adj_ Having a very unpleasant smell.
 __foul-ups__  
 __foundational__ _adj_  
 __founder__ _v_ :seven: /FOUN-der/ (foundered) __1__ (of a boat or ship) To become submerged; to sink. _As the vessel began to founder, the captain ordered everyone on board to prepare to abandon ship._ __2__ To experience failure or to be unsuccessful. _The entrepreneur recruited a financial advisor to help her business that was foundering._ _The attempt foundered._ _His plan foundered._ _Most of us would have foundered in that situation._  
+__foundling__ _n_ :astonished: A deserted or abandoned child of unknown parentage. _Syn_ abandoned infant  
 __foundry__ _n_ :four::hammer: (foundries) _Metal foundries._ :es: fundición  
 __fount__ _n_ __1__ A fountain. __2__ One that initiates or dispenses; a source. _The fount of authority._  
 __fountain pen__ _n_ :four: A pen with a reservoir or cartridge from which ink flows continuously to the nib. :es: pluma estilográfica  

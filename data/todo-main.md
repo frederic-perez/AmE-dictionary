@@ -1,28 +1,3 @@
-__derelict__ _n_  
-__dew__ _n_  
-__dicta__ _n pl_  
-__dire__ _adj_  
-__discomfit__ _v_ /diss-KUM-fit/ To _discomfit_ someone is to make them confused or upset. _Discomfit_ is a formal synonym of the also formal (but slightly less so) _disconcert._ _Jacob was discomfited by the new employee’s forward, probing questions._  
-__draft__ _v_ _They drafted a set of guidelines and best practices._  
-__dwindle__ _v_  
-__dysphagia__ _n_ Difficulty in swallowing, caused by obstruction or spasm of the esophagus.  
-__dysphoria__  
-__elate__ _vt_ To make very happy or proud: _news to elate the hearer._  
-__encampment__ _n_  
-__escalate__ _v_  
-__exodus__ _n_ /EK-suh-dus/  
-__extravaganza__  
-__fabled__ _adj_  
-__falcon__ _n_ :mega: /ˈfɔl kən, ˈfæl-, ˈfɔ kən/  
-__fatuous__ _adj_ /FATCH-oo-us/ To describe something, such as an idea or remark, as _fatuous_ is to say that it is foolish or silly rather than sensible or logical.  
-__figurine__ _n_ A small molded or sculptured figure; a statuette. _Syn_ statuette  
-__firestorm__ _n_  
-__firing squad__ _n_ :two::hammer:  
-__first-of-its-kind__  
-__fluffy__ _adj_  
-__food sensitivity__ _n_  
-__footstep__ _n_  
-__foundling__ _n_ :astonished: A deserted or abandoned child of unknown parentage. _Syn_ abandoned infant  
 __full-blown__ _adj_  
 __garrulous__ _adj_ _Syn_ chatty, gabby, loquacious, talkative, talky  
 __gingerly__ _adj_ /JIN-jer-lee/ An act or manner described as gingerly is very cautious or careful.  
