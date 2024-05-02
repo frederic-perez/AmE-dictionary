@@ -98,36 +98,7 @@ __high and low__ :two: In many different places.
 __hit at (someone or something)__  
 __hogwash__  
 __hold (one’s) nose__ __3__ By extension, to do something in spite of its unpleasant or illicit nature. _I don’t want to get fired, so I guess I’ll just have to hold my nose and do what he asks._  
-‌__hold (one’s) nose__ To reluctantly overcome one’s revulsion.  
-__hold (someone or something) in contempt__  
-__hold (someone) in good stead__ Especially of a talent, ability, or experience, to prove particularly useful or beneficial to someone in the future. _Janet is hoping her internship working in IT will hold her in good stead when she looks for a job after college._  
-__home to (something)__ A place where something is commonly found. _The wetland is home to a variety of wildlife, especially birds._  
-__hour after hour__ :dart: For many hours without stopping. _I sat by her bedside for hour after hour._  
-__How do you eat an elephant? One bite at a time.__ How do you accomplish a large goal? By making progress in small, cumulative steps over time.  
-__how on earth__  
-__How so?__ Please explain.  
-__howl at (someone or something)__  
-__humblebrag__  
-__hush money__ :two::hammer:  
-__hush-hush__  
-__I see what you did there__ An expression used to acknowledge that one understands a joke made by someone else, and to either show appreciation or a lack thereof for the wit employed.  
-__I shit you not__  
-__I shudder to think__ It is too worrying or unpleasant for me to think about something that might happen or might have happened. _I shudder to think what my boss will say when I tell him I lost our biggest client._  
-__I take it__ I imagine this is the case; I presume it to be true (that); it is my understanding (that). _So I take it that you’re looking for a new job now that the company has declared bankruptcy?_  
-__I’d say__ In my opinion; it is my estimation that. _I’d say we have about a 50-50 chance of winning this game today._  
-__I’ll believe it when I see it__  
-__if my memory serves me well, correctly, etc.__  
-__iffy__  
-__imprint (something) in(to) (someone or something)__ To retain something in one’s memory.  
-__in (all good) conscience__ In all fairness; by any reasonable standard. _I cannot in conscience endorse Donald Trump._  
-__in (high) hopes of (something)__  
-__in (high) hopes that__  
-__in (one’s) dotage__ :dart: In a state of senility or mental decline due to old age. _My grandfather in his dotage has lately had trouble remembering our names._  
-__in (one’s) heart__  
-__in (one’s) heyday__ In, at, or during the period of one’s greatest success, power, vigor, etc.  
-__in (one’s) own right__ :two::hammer:  
-__in (someone’s) view__ In someone’s opinion. _And what, in your view, would be the best way to go about solving this problem?_  
-__in a big way__ In a significant way or to a marked extent.  
+
 __in a measure__ To a certain degree or extent; somewhat.  
 __in a sorry state__ In a pitiful, dysfunctional, or abject condition. _My business was in a sorry state after I left it under the control of my brother._ _John’s been in a sorry state lately—I think he’s taken up drinking again._  
 __in and of itself__  

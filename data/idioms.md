@@ -2860,12 +2860,13 @@ __hold (down) the fort__
 __hold (one’s) breath__ :four::hammer:  
 __hold (one’s) feet to the fire__ To put pressure on one to do, say, or consent to something._Someone holds everyone’s feet to the fire._  
 __hold (one’s) nerve__ :dart::two: To remain calm, steady, and resolute, especially in the face of danger or adversity.  
-__hold (one’s) nose__ :two::hammer:  
+__hold (one’s) nose__ :three: To reluctantly overcome one’s revulsion.  
 __hold (one’s) tongue__  
 __hold (one’s) water__ :two: To be calm or patient; to stop making pressing demands, requests, or solicitations. _You kids hold your water back there or I swear I’ll turn this car right around!_  
+__hold (someone or something) in contempt__  
 __hold (someone, something, or an animal) back (from someone or something)__ :three: To restrain someone, something, or an animal from getting at or getting to someone or something. _The parents held the children back from the cake and ice cream until the hostess said she was ready._ _Please hold back your dog._ _The GPU shortage is holding OpenAI back from its true potential._  
 __hold (someone) accountable (for someone)__ :three: To deem someone responsible for something. _I don’t care if Vince is trying to blame this blunder on his staff—I hold him accountable._  
-__hold (someone) in good stead__ Especially of a talent, ability, or experience, to prove particularly useful or beneficial to someone in the future.  
+__hold (someone) in good stead__ :two: Especially of a talent, ability, or experience, to prove particularly useful or beneficial to someone in the future. _Janet is hoping her internship working in IT will hold her in good stead when she looks for a job after college._  
 __hold (something) in abeyance__  
 __hold (something) in store (for one)__  
 __hold a candle to__  
@@ -2899,6 +2900,7 @@ __holy shit__
 __holy smoke(s)__ :two: What a surprise. _Holy smoke! Look at all of those geese!_  
 __home skillet__ __1__ _slang_ A friendly term of address. _What’s up, home skillet?_ _Hey home skillet, how’re you doing?_ __2__ _slang_ A friend. _Teddy’s my home skillet—he’ll help us out._  
 __home sweet home__ An expression of pleasure or relief upon returning to one’s home, especially after an extended period away from it. _Ah, home sweet home! After two months in India, it sure is great to be back._  
+__home to (something)__ A place where something is commonly found. _The wetland is home to a variety of wildlife, especially birds._  
 __home, James (, and don’t spare the horses)__ :two: A humorous directive for a driver to take one home directly and without delay.  
 __homeboy__ _n_ (homegirl) [:scroll: Originally between blacks. Also a term of address. Homeboy is for males and homegirl is for females.] A buddy; a pal. _Come on, homeboy. Help out a friend._ _Tsup, homegirl?_  
 __homespun<sup>1</sup>__ _adj_ Unpretentious and unsophisticated. _Oh, I had a great time—it was a homespun event, very casual and friendly._  
@@ -2942,26 +2944,31 @@ __hot wire__ To start a vehicle without a key by connecting wires that power the
 __hot-button__ _Hot-button social issues._  
 __hotfoot__ :dart::two: To travel as fast as one can, usually by walking or running. _We need to hotfoot it out of here before Mom catches us going through her things!_  
 __hothead__ :two: A person with an excitable, fiery, or impetuous temper or disposition; one who is quick to get angry or act rashly. _That lady in the car behind me is a real hothead, honking and shouting at me every time I slow down!_  
+__hour after hour__ :dart: For many hours without stopping. _I sat by her bedside for hour after hour._  
 __house cooling party__ :two: A party thrown to commemorate when someone leaves an apartment, flat, or house.  
 __house of cards__  
 __housewarming (party)__ A party thrown to celebrate when someone moves into a new apartment, flat, or house.  
 __how about that__ :two: That is very interesting, impressive, exciting, surprising, or respectable. Said as an exclamation, rather than a question. _A: “I heard Janet is running for a seat in the senate.” B: “Wow, how about that!”_ _How about that. Have you ever seen such a thing?_  
 __how come__ :two: Why? Why is it that (something is the case)? How is it that; why: _How come you’re so late?_ _A: “I’m sorry, but I’m not letting you go to the party tonight.” B: “Aw, Mom! How come?”_ _How come Bobby gets ice cream but I don’t?_  
-__how on earth__ :two: An exclamation used to emphasize surprise, shock, anger, disgust, etc. _How on earth did you get here? I thought your car was in the shop._  
+__How do you eat an elephant? One bite at a time.__ How do you accomplish a large goal? By making progress in small, cumulative steps over time.  
+__how on earth__ :three: An exclamation used to emphasize surprise, shock, anger, disgust, etc. _How on earth did you get here? I thought your car was in the shop._  
+__How so?__ Please explain.  
 __how time flies__  
 __how’s life (treating you)?__ How are you? How is everything in your life? (Said as an informal greeting.)  
 __however much__ :two: No matter how much.  
+__howl at (someone or something)__  
 __hubby__ :seven: _A shortening and alteration of “husband.”_  
 __huff and puff__  
 __hulk out__  
 __hullabaloo__ :two::hammer:  
 __human touch__ __2__ The ability to treat other people with warmth and empathy. _In my experience, it’s rare to have a psychiatrist who treats her clients with a human touch and sees them as more than a diagnosis._  
-__humblebrag__  
+__humblebrag__ :two::hammer:  
 __Humpty Dumptyism__ The act or practice of misusing or misinterpreting a word, phrase, or article of text to suit one’s own meaning or purpose. Taken from the character Humpty Dumpty in Lewis Carroll’s _Through the Looking-Glass_, who states, “When I use a word it means just what I choose it to mean.”  
 __hunker down__ :two: __1__ Literally, to squat. _The magician hunkered down to the eye level of the children._ __2__ To seek refuge in a particular place or area. _We hunkered down at home with some movies while the blizzard raged all weekend._ __3__ To work or begin to work on something in a determined matter. _I can’t believe I didn’t get an A on my project after I’d hunkered down all weekend to do it!_ __4__ To stubbornly maintain some belief. _It seems he’s hunkered down and will never see me as anything but the villain in his life._  
 __hunky-dory__  
 __hunt where the ducks are__ To pursue or look for one’s objectives, results, or goals in the place where one is most likely to find them.  
-__hush money__  
+__hush money__ :three::hammer:  
+__hush-hush__  
 __hustle (one’s) bustle__ :two: To increase one’s pace or sense of urgency; to hurry up; to get moving quickly. _We’d better hustle our bustle if we want to get to the movie theater on time!_  
 __hustle and bustle__ :two: Busy and frenetic activity or excitement. _I love living among the hustle and bustle of the city._ _I avoid the hustle and bustle of malls and shopping centers whenever I can._  
 __hygge__ The state of happiness and contentment that one feels in a cozy, relaxing environment. This Danish word, approximately pronounced “HUE-guh,” describes the penchant in Denmark for appreciating life’s simple pleasures. _For me, hygge is sitting by the fireplace and listening to classical music with my husband._  
@@ -2977,14 +2984,17 @@ __I kid you not__ :three::hammer:
 __I know the feeling__  
 __I know, I know__ A conversational phrase used to express that the speaker is aware of what the other person is saying or feeling, often to express empathy or understanding.  
 __I rest my case__  
-__I see what you did there__ :three: (I saw what you did there) An expression used to acknowledge that one understands a joke made by someone else, and to either show appreciation or a lack thereof for the wit employed.  
+__I see what you did there__ :four: (I saw what you did there) An expression used to acknowledge that one understands a joke made by someone else, and to either show appreciation or a lack thereof for the wit employed.  
+__I shit you not__  
+__I shudder to think__ It is too worrying or unpleasant for me to think about something that might happen or might have happened. _I shudder to think what my boss will say when I tell him I lost our biggest client._  
 __I suppose (so)__ An expression of vague affirmation or assent.  
-__I take it__ _idiom_ I imagine this is the case; I presume it to be true (that); it is my understanding (that).  
+__I take it__ :two: I imagine this is the case; I presume it to be true (that); it is my understanding (that). _So I take it that you’re looking for a new job now that the company has declared bankruptcy?_  
 __I think not__  
 __I wasn’t born yesterday__ Used to indicate that you are not foolish or gullible.  
 __I wish__  
-__I’d say__ In my opinion; it is my estimation that.  
+__I’d say__ :two: In my opinion; it is my estimation that. _I’d say we have about a 50-50 chance of winning this game today._  
 __I’ll be hanged if I (do something)__ :three: I am determined not to do something. _I’ll be hanged if I let some young upstart like you take control of my company!_  
+__I’ll believe it when I see it__  
 __I’m all ears__ :three::hammer:  
 __I’m with you__ I agree with you. _A: “Ugh, why did we have to get up so darn early?” B: “Hey, I’m with you—I’d rather sleep in. This early wake-up call was all Mom’s idea.”_  
 __I(’ll) give you that__ I concede that what you just said is true or likely.  
@@ -2995,6 +3005,7 @@ __idiom__ _n_ __1__ A speech form or an expression of a given language that is p
 __idiot mittens__ :two: Mittens or gloves that are attached to one’s sleeves by a length of yarn or string so as to prevent their being lost.  
 __if (one’s) life depended on it__ Under any circumstances; no matter what. (Used almost exclusively with a negative statement regarding something that one couldn’t or wouldn’t do.) _No way am I going to karaoke night. I couldn’t sing if my life depended on it!_  
 __if it ain’t broke, don’t fix it__  
+__if my memory serves me well, correctly, etc.__  
 __if nothing else__ :dart::two: A phrase used to indicate that something is a priority or the most important thing. _I know you’re busy today, so if nothing else, please make sure you respond to these messages._ _And if nothing else, Selig will be watching._  
 __if only__ :two::hammer:  
 __if the shoe fits, wear it__ If a description applies to you, then accept it.  
@@ -3002,25 +3013,29 @@ __if you ask me__ :two::hammer:
 __if you know what I mean__  
 __if you like__  
 __if you will__ :seven: If you wish to call it that. A phrase used to indicate that what one has just said is an uncommon, metaphorical, or original way of saying something. Similar to the phrases “so to speak” and “in a manner of speaking.” _A kind of preoccupation, or obsession if you will._ _This arrangement will allow us to eliminate our debt and get back to solid ground, if you will._  
-__iffy__ _informal_ Questionable or uncertain.  
+__iffy__ :two: _informal_ Questionable or uncertain.  
+__imprint (something) in(to) (someone or something)__ To retain something in one’s memory.  
 __in (a) shambles__ :two::hammer:  
+__in (all good) conscience__ In all fairness; by any reasonable standard. _I cannot in conscience endorse Donald Trump._  
 __in (all) fairness (to one)__  
-__in (high) hopes of (something)__ :three::hammer:  
+__in (high) hopes of (something)__ :four::hammer:  
+__in (high) hopes that__  
 __in (one’s) best interest__  
 __in (one’s) book__  
 __in (one’s) day__ :dart: When one was younger; in one’s younger days. _Back in my day, the only thing we had to do for fun was stickball, and we were grateful for it!_  
-__in (one’s) dotage__ In a state of senility or mental decline due to old age.  
-__in (one’s) heyday__ In, at, or during the period of one’s greatest success, power, vigor, etc.  
-__in (one’s) own right__ :five: Through one’s own talents or efforts. _His father was a hall-of-famer, and he’s a pretty good basketball player in his own right._ _He is becoming a star in his own right._  
+__in (one’s) dotage__ :dart::two: In a state of senility or mental decline due to old age. _My grandfather in his dotage has lately had trouble remembering our names._  
+__in (one’s) heart__  
+__in (one’s) heyday__ :two: In, at, or during the period of one’s greatest success, power, vigor, etc.  
+__in (one’s) own right__ :seven: Through one’s own talents or efforts. _His father was a hall-of-famer, and he’s a pretty good basketball player in his own right._ _He is becoming a star in his own right._  
 __in (one’s) tracks__  
 __in (or out of) someone’s hair__ _informal_ :two: [:scroll: This expression alludes to entangling one’s hair.]Annoying (or ceasing to annoy) or bothering someone. _He built the shop to get his hobby out of his wife’s hair._ _Yogi Bear is always in the Ranger’s hair._  
-__in (someone’s) view__ In someone’s opinion.  
+__in (someone’s) view__ :two: In someone’s opinion. _And what, in your view, would be the best way to go about solving this problem?_  
 __in (someone’s) wheelhouse__ :dart::two: In, related to, or matching someone’s general interests, abilities, or area of familiarity; in someone’s comfort zone. _It’s clear, however, that the political implications of this issue are well in the author’s wheelhouse._ _Making bread is in a baker’s wheelhouse._  
 __in (the) bud__ In an undeveloped, immature, or incipient state. _Tommy has become quite a little painter in bud recently._  
 __in (the) light of (something)__ :four: Considering (something); given (something). Typically refers to a new revelation or piece of information that affects some situation. _In light of this new evidence, we are reopening the investigation._  
 __in a bad light__ :two: Negatively; under unfavorable circumstances. (Typically used with the verbs “see” or “show,” or some similar variation.) _I’m flattered that he based a character in his novel on me, but I think I was shown in a bad light._  
 __in a big bad way__  
-__in a big way__ Very much; badly- _She wanted to go in a big way._ _He wants to win in a big way._  
+__in a big way__ :two: In a significant way or to a marked extent. Very much; badly- _She wanted to go in a big way._ _He wants to win in a big way._  
 __in a flutter__ In a nervous, confused, or agitated state.  
 __in a heartbeat__  
 __in a huff__ In an angry, belligerent, or vexed manner. _Don’t go off in a huff like that, it was only a joke!_ _Mary went off in a huff after her wife criticized her cooking._  
