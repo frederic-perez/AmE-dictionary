@@ -1,4 +1,6 @@
+__boodle__ Something that has been obtained through criminal activity; loot or booty. _Wow, all of this boodle came from one robbery, huh?_  
 __fine-tune__  
+__fingers crossed__  
 __finish line__  
 __finish the job__  
 __first hand__  
@@ -106,7 +108,7 @@ __how on earth__
 __How so?__ Please explain.  
 __howl at (someone or something)__  
 __humblebrag__  
-__hush money__  
+__hush money__ :two::hammer:  
 __hush-hush__  
 __I see what you did there__ An expression used to acknowledge that one understands a joke made by someone else, and to either show appreciation or a lack thereof for the wit employed.  
 __I shit you not__  
@@ -171,10 +173,15 @@ __jump before (one) is pushed__ To take action willingly or proactively before b
 __jump ship__ (abandon ship) _Nearly all of (chatbot) Pi’s parent company, Inflection AI, decided to jump ship just 10 months after Pi’s launch._  
 __just like that__  
 __keen on (someone or something)__  
+__keep (one’s) slate clean__ To maintain an impeccable record; to refrain from committing any mistakes or wrongdoings.  
 __keep (one’s)/an eye on (someone or something)__  
 __keep (someone or something) in check__  
+__keep (someone) in the loop__ To keep someone informed about and/or involved in something, such as a plan or project, especially that which involves or pertains to a specific group.  
+__keep (something) straight (in one’s mind/head)__ To be able to understand something clearly and comprehensively; to keep the details of something clear in one’s mind.  
+__keep (up) (one’s) end of the bargain__  
 __keep a lid on (something)__  
 __keep pace__  
+__keep the lid on (something)__  
 __keep up__  
 __kick up__  
 __king of the castle__ The most powerful, successful, or authoritative person in a group or organization.  
@@ -184,6 +191,7 @@ __knock on doors__ To speak to the people who live in an area by walking up to t
 __last-minute__  
 __latch onto (someone or something)__  
 __laugh something off__ :dart: To treat a serious problem lightly by laughing at it. _Although his feelings were hurt, he just laughed the incident off as if nothing had happened._ _He laughed off the incident._  
+__launder__  
 __lay (someone) to rest__  
 __lay bare (something)__ To divulge, explain, or reveal something not previously known publicly.  
 __lay the groundwork (for something)__ To create or prepare the basics or essential foundation (for something); to pave the way (for something).  
@@ -292,6 +300,7 @@ __plain vanilla__ A reference to vanilla being considered an ordinary or unexcit
 __play (something) at full blast__ (play at full volume)  
 __play big__ To play for high stakes; to be willing to take risks.  
 __play games (with one)__ To deliberately attempt to evade, deceive, or misinform one (about something) in order to manipulate them or achieve some desired outcome.  
+__plead the Fifth (Amendment)__  
 __plenty of (something)__ An abundant amount of; more than is needed.  
 __point of contact__ A person or entity one can seek to access information or services.  
 __poster child__ :two::hammer: _OpenAI is the poster child of the gen AI wave._  
