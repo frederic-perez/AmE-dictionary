@@ -91,7 +91,7 @@ __GPT__ Generative pre-trained transformer.
 __GRE__ _n_ (trademark) A standardized test that is an admissions requirement for most Graduate Schools in the United States.  
 __GWB__ George Washington Bridge.  
 __GWTW__ Gone With The Wind.  
-__h/t__ Hat tip.  
+__H/T__ :dart::two: (h/t) Hat Tip (blogs - information source) _Close Open Loops (H/T David Allen)._  
 __HAI__ Healthcare-associated infection. _Every year, more than 90,000 Americans die of an HAI._  
 __HDL-C__ High-density-lipoprotein cholesterol.  
 __HIIT__ High-intensity interval training.  

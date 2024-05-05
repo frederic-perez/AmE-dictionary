@@ -1,9 +1,28 @@
+__(the) clock is ticking__  
+__a soft spot__ A particular fondness or affection for someone or something, often for reasons that hard to understand or articulate.  
+__across the board__  
+__back on (one’s) feet__  
+__bank on__  
+__beef up__  
 __boodle__ Something that has been obtained through criminal activity; loot or booty. _Wow, all of this boodle came from one robbery, huh?_  
+__booty__  
+__bounce into (someone or something)__  
+__bunco__ (bunko) In the context of Ellroy’s work, “bunco” is often used to describe the activities of con artists, swindlers, and other criminals who use deceitful tactics to obtain money, property, or other valuables from their victims.  
+__bury the hatchet__  
+__cave in__  
+__cheat on (someone or something)__  
+__chip away__  
+__connect the dots__  
+__cross-examine (someone)__  
+__diss__  
+__doom and gloom__  
+__empty nester__  
 __fine-tune__  
 __fingers crossed__  
 __finish line__  
 __finish the job__  
 __first hand__  
+__first off__  
 __fishing expedition__  
 __fit the bill__  
 __five o’clock shadow__  
@@ -32,6 +51,7 @@ __free lunch__
 __from here on out__ From this moment and continuing into the future. _We need to follow the directions from here on out—otherwise, we’re liable to get lost._  
 __from the get-go__ :two::hammer:  
 __from time to time__  
+__front and center__  
 __frosty__ __2__ _mod_ Cool; really cool and mellow. _That music is really frosty._  
 __full stop__  
 __fuzz man__ _slang_ The police.  
@@ -76,6 +96,7 @@ __good to go__
 __grapple with (someone or something)__ :two::hammer:  
 __green thumb__  
 __guinea pig__  
+__gun for (someone or something)__  
 __gut check__ :dart: A moment in which one stops to seriously evaluate something or one’s current state. _I think we need to step back and have a gut check about our plan because I don’t think it’s going to work out the way we envisioned._  
 __Hail Mary__  
 __hard line__ __1__ _adj_ (hardline) Very strict or inflexible. In this usage, the phrase can be hyphenated or written as one word. __2__ _n_ Strict and inflexible view of or position on something.  
@@ -98,19 +119,20 @@ __high and low__ :two: In many different places.
 __hit at (someone or something)__  
 __hogwash__  
 __hold (one’s) nose__ __3__ By extension, to do something in spite of its unpleasant or illicit nature. _I don’t want to get fired, so I guess I’ll just have to hold my nose and do what he asks._  
-
+__hold (someone or something) in contempt__  
 __in a measure__ To a certain degree or extent; somewhat.  
 __in a sorry state__ In a pitiful, dysfunctional, or abject condition. _My business was in a sorry state after I left it under the control of my brother._ _John’s been in a sorry state lately—I think he’s taken up drinking again._  
 __in and of itself__  
 __in concert with (someone)__ Together with someone; in cooperation with someone. _You’ll need to work in concert with my file clerk to sort through all this paperwork._  
 __in full swing__  
-__in hot water__ Having provoked or incited anger, hostility, or punishment against oneself; in a troublesome or difficult situation, especially that which will result in punishment or reprisal. _I was in a bit of hot water with Janice last night when she found out I went to the movies instead of cleaning out the garage._  
+__in hot water__ :dart::two: Having provoked or incited anger, hostility, or punishment against oneself; in a troublesome or difficult situation, especially that which will result in punishment or reprisal. _I was in a bit of hot water with Janice last night when she found out I went to the movies instead of cleaning out the garage._  
 __in jeopardy__ In danger or at risk; imperiled.  
 __in layman’s terms__ :two::hammer:  
 __in more ways than one__ In a number of ways. _I’m telling you, this idea of yours is a mistake in more ways than one._  
 __in one blow__ All at once, with a single decisive or powerful action.  
 __in order that__ So that; with the particular aim or purpose of.  
 __in overdrive__  
+__in place of (someone or something)__  
 __in plain view__ In full, unrestricted view; visibly, openly, or publicly.  
 __in support of__ __1__ In a way that shows approval of (something); in favor of (something). _A majority voted in support of the bill._ __2__ In order to support (something). _He presented evidence in support of his hypothesis._  
 __in tears__  
@@ -159,6 +181,7 @@ __king of the castle__ The most powerful, successful, or authoritative person in
 __kitchen-sink__ Showing or pertaining to the lives of common, everyday people. (Always used before a noun.)  
 __knock it off__  
 __knock on doors__ To speak to the people who live in an area by walking up to their houses, apartments, etc., especially to provide information or solicit votes, support, contributions, etc.  
+__larger than life__  
 __last-minute__  
 __latch onto (someone or something)__  
 __laugh something off__ :dart: To treat a serious problem lightly by laughing at it. _Although his feelings were hurt, he just laughed the incident off as if nothing had happened._ _He laughed off the incident._  
@@ -181,6 +204,7 @@ __loosey-goosey__
 __lose (one’s) shit__  
 __loud and clear__  
 __lust for life__  
+__make (both) ends meet__  
 __make (one’s) eyes pop (out)__  
 __make (something) clear (to one)__ :two:hammer:  
 __make a difference__ :three::hammer:  
@@ -199,6 +223,7 @@ __miss the mark__
 __mixed bag__ :two::hammer:  
 __mixed feelings__  
 __mixed message__  
+__mm-hmm__ _informal_ Yes; yeah. A verbal expression used to express agreement or acknowledgement. Formed by intoning “uh-huh” with a closed mouth.  
 __modus operandi__ :mega:  
 __move mountains__ :dart: To do or achieve something that is incredibly difficult.  
 __move the dial__  
@@ -244,6 +269,7 @@ __on the run__
 __on the sidelines__ :two: In a position in which one is not actively participating in something.  
 __on the verge of__  
 __on-site__  
+__once and for all__  
 __once in a blue moon__ Very rarely.  
 __one size fits all__  
 __one-off__  
@@ -269,8 +295,10 @@ __pile up__
 __piss off__  
 __plain vanilla__ A reference to vanilla being considered an ordinary or unexciting flavor. Often hyphenated if used before a noun. __1__ Completely basic, simple, or straightforward, lacking embellishments, adornments, special features, etc.  
 __play (something) at full blast__ (play at full volume)  
+__play a role in (something)__  
 __play big__ To play for high stakes; to be willing to take risks.  
 __play games (with one)__ To deliberately attempt to evade, deceive, or misinform one (about something) in order to manipulate them or achieve some desired outcome.  
+__play tag__ A long distance phone call made.  
 __plead the Fifth (Amendment)__  
 __plenty of (something)__ An abundant amount of; more than is needed.  
 __point of contact__ A person or entity one can seek to access information or services.  
@@ -319,9 +347,12 @@ __run out of time__
 __run through (something)__ __4__ To guide one through or inform one of the process or details of something. In this usage, a noun or pronoun is used between “run” and “through.” _Can you run me through the plan one more time?_  
 __running high__ [for feelings] To be in a state of excitement or anger. _Feelings were running high as the general election approached._  
 __rush into (something)__  
+__scoop__  
 __see the light of day__  
 __seep in(to something)__  
 __serve up (something)__  
+__set the table__  
+__shitbird__  
 __shoot up__  
 __shorty__ A term of endearment for a child, younger sibling, shorter person, etc.  
 __show of force__ A display of one’s power, influence, or capability to cause harm, meant to act as a warning or deterrent to others.  
@@ -350,6 +381,7 @@ __strike a (raw) nerve__
 __swear in__  
 __sweetie pie__ A term of endearment, especially for a person or pet towards whom one feels tender love or affection.  
 __take (someone or something) for granted__  
+__take (someone, something, or some place) by storm__  
 __take a crack at (something)__ To attempt (to do) something; to take a turn trying (to do) something.  
 __take center stage__ To be the main focus.  
 __take notice (of someone or something)__  
@@ -372,14 +404,14 @@ __trash talk__
 __tread carefully__  
 __trickle down__ __2__ To distribute, pass, or diffuse to people lower on a hierarchical structure.  
 __true believer__ One who passionately supports a cause or concept.  
-__turn heads__  
+__turn heads__ :two::hammer:  
 __U-turn__ __2__ By extension, any sudden and drastic reversal, as of opinion, policy, intention, fortune, trend, etc.  
 __up and running__  
 __up to snuff__ (up to scratch) As good as what was expected, required, or demanded; satisfactory or adequate. _Sorry, Tom. Your performance isn’t up to snuff. You’ll have to improve or find another job._ _My paper wasn’t up to scratch, so I got an F._  
 __user base__ _business jargon_ The number units of a particular product or service that are currently in use, especially software or an Internet or computing platform.  
 __vouch for (someone or something)__  
 __walk out__  
-__war chest__ A financial reserve collected and maintained for specific political purposes, especially election campaigns.  
+__war chest__:two: A financial reserve collected and maintained for specific political purposes, especially election campaigns.  
 __watershed moment__  
 __weigh in__ :dart::two: __3__ To give one’s opinion or analysis of something during a discussion. _Karen, you haven’t weighed in yet. What’s your take on this?_  
 __What do you say?__ Does that sound good to you? Do you agree?  
