@@ -1,7 +1,12 @@
 __(the) clock is ticking__  
+__a balancing act__  
+__a front-row seat__ Close proximity to a certain situation or event.  
 __a soft spot__ A particular fondness or affection for someone or something, often for reasons that hard to understand or articulate.  
 __across the board__  
+__all over the place__  
+__at the end of the day__  
 __back on (one’s) feet__  
+__back to square one__  
 __bank on__  
 __beef up__  
 __boodle__ Something that has been obtained through criminal activity; loot or booty. _Wow, all of this boodle came from one robbery, huh?_  
@@ -9,10 +14,15 @@ __booty__
 __bounce into (someone or something)__  
 __bunco__ (bunko) In the context of Ellroy’s work, “bunco” is often used to describe the activities of con artists, swindlers, and other criminals who use deceitful tactics to obtain money, property, or other valuables from their victims.  
 __bury the hatchet__  
+__cash cow__  
+__catch and kill__ The media technique of suppressing a story by buying the exclusive rights to it, with a legally enforceable non-disclosure agreement, and then refusing to publish it.  
 __cave in__  
 __cheat on (someone or something)__  
 __chip away__  
+__come a long way__  
+__come to the table__ To meet in order to negotiate or discuss how to resolve a particular issue or situation.  
 __connect the dots__  
+__cough up__  
 __cross-examine (someone)__  
 __diss__  
 __doom and gloom__  
@@ -73,6 +83,7 @@ __get the picture__
 __get wind of (something)__  
 __ghost__ _slang_  
 __ghosting__ _slang_  
+__gig__  
 __give (one’s) ground__  
 __give (one) the green light__ :two::hammer:  
 __give (someone) a lift__  
@@ -81,13 +92,14 @@ __glass cliff__ _n_ A situation in which a woman or minority has advanced profes
 __go a long way__ :two::hammer:  
 __go back to the well__ To return to some proven and reliable source of success, talent, good fortune, etc.  
 __go bananas__  
+__go berserk__  
 __go between__  
 __go big or go home__ _expression_ Either do something to its fullest extent or largest degree, or else don’t even bother. Often used facetiously. _A: “Do we really need to cook an entire pig for this barbecue? We’re only having a few people over.” B: “Hey, go big or go home!”_  
 __go down the rabbit hole__  
 __go down the toilet__ To fail; to be ruined or destroyed; to be squandered or wastefully discarded.  
 __go for (something)__  
 __go into overdrive__ To start working very hard or quickly.  
-__go overboard__  
+__go overboard__ :two::hammer:  
 __go south__  
 __go to hell in a handcart__ To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin. _With this new president in office, our country is going to go to hell in a handcart!_  
 __go with (someone or something)__  
@@ -95,6 +107,7 @@ __golden__
 __good to go__  
 __grapple with (someone or something)__ :two::hammer:  
 __green thumb__  
+__guilty pleasure__  
 __guinea pig__  
 __gun for (someone or something)__  
 __gut check__ :dart: A moment in which one stops to seriously evaluate something or one’s current state. _I think we need to step back and have a gut check about our plan because I don’t think it’s going to work out the way we envisioned._  
@@ -116,10 +129,15 @@ __helicopter mom__
 __help (oneself) (to something)__ To serve oneself (something); to take, consume, or indulge in (something) freely or without permission or restraint. _There’s plenty of food in the kitchen, so please, help yourselves to more._  
 __high and dry__  
 __high and low__ :two: In many different places.  
+__hit a wall__  
 __hit at (someone or something)__  
+__hit rock bottom__  
 __hogwash__  
 __hold (one’s) nose__ __3__ By extension, to do something in spite of its unpleasant or illicit nature. _I don’t want to get fired, so I guess I’ll just have to hold my nose and do what he asks._  
 __hold (someone or something) in contempt__  
+__home in__  
+__If you can’t beat ’em, join ’em__  
+__in a bit__  
 __in a measure__ To a certain degree or extent; somewhat.  
 __in a sorry state__ In a pitiful, dysfunctional, or abject condition. _My business was in a sorry state after I left it under the control of my brother._ _John’s been in a sorry state lately—I think he’s taken up drinking again._  
 __in and of itself__  
@@ -148,6 +166,7 @@ __in the nick of time__
 __in the pipeline__ In progress or about to be started or implemented.  
 __in the pocket of (someone)__ Under the direct control or influence of someone or some group, especially through illegal or unscrupulous financial means. _It’s pretty obvious that the country’s legislators are all in the pocket of corporations._  
 __in the same mold__ Of or in the same or similar style, fashion, or manner.  
+__in the short/medium/long term__  
 __in the sticks__ In the countryside, especially in a rustic or particularly unsophisticated area. _Jane was sick of living in the sticks and dreamed of spending her life in New York City._  
 __in the unlikely event (that) (something) happens__ If a very improbable outcome turns out to be the case.  
 __in the view of (someone)__  
@@ -182,6 +201,7 @@ __kitchen-sink__ Showing or pertaining to the lives of common, everyday people. 
 __knock it off__  
 __knock on doors__ To speak to the people who live in an area by walking up to their houses, apartments, etc., especially to provide information or solicit votes, support, contributions, etc.  
 __larger than life__  
+__last-ditch__  
 __last-minute__  
 __latch onto (someone or something)__  
 __laugh something off__ :dart: To treat a serious problem lightly by laughing at it. _Although his feelings were hurt, he just laughed the incident off as if nothing had happened._ _He laughed off the incident._  
@@ -237,6 +257,7 @@ __near and dear to (one)__
 __neat and tidy__ (neat and clean)  
 __neck and neck__  
 __need to be done__ To be required to be completed or acted upon.  
+__no end in sight (to something)__  
 __noblesse oblige__ /noh-BLESS-uh-BLEEZH/ Noblesse oblige refers to the idea that people who have high social rank or wealth should be helpful and generous to people of lower rank or to people who are poor.  
 __not a chance__ :dart: (There is) no possibility (that that will happen). _You? Beat me? At ping pong? Not a chance!_  
 __not have all day__ To be in a rush; to not have much or any time to spare. Usually used in the present tense. _How long is this repair job going to take? I don’t have all day!_  
@@ -259,6 +280,7 @@ __on a mission__ :three::hammer:
 __on a roll__  
 __on a second thought__ An idiomatic expression that means to reconsider or reevaluate something after initial consideration. It implies that one has had a change of mind or a new perspective after giving more thought to a particular issue or decision.  
 __on a whim__  
+__on paper__ __2__ Hypothetically or in theory.\_ It’s a good idea on paper, but I don’t think it would work in a real-world environment.\_  
 __on par (with someone or something)__  
 __on the back burner__ Of a low priority; given less or little thought or attention; postponed or suspended.  
 __on the brink of (something)__ :two::hammer:  
@@ -294,6 +316,7 @@ __pie in the sky__ An impossible, unlikely, or fanciful idea or plan. Often hyph
 __pile up__  
 __piss off__  
 __plain vanilla__ A reference to vanilla being considered an ordinary or unexciting flavor. Often hyphenated if used before a noun. __1__ Completely basic, simple, or straightforward, lacking embellishments, adornments, special features, etc.  
+__play (one’s) cards close to (one’s) chest__  
 __play (something) at full blast__ (play at full volume)  
 __play a role in (something)__  
 __play big__ To play for high stakes; to be willing to take risks.  
@@ -302,6 +325,7 @@ __play tag__ A long distance phone call made.
 __plead the Fifth (Amendment)__  
 __plenty of (something)__ An abundant amount of; more than is needed.  
 __point of contact__ A person or entity one can seek to access information or services.  
+__pop one’s cherry__ In James Ellroy’s novels, “popping one’s cherry” is a metaphorical expression that means to commit a first violent or morally reprehensible act, often marking a point of no return.  
 __poster child__ :two::hammer: _OpenAI is the poster child of the gen AI wave._  
 __postpone until (some later date or time)__ To delay (something) until a later date or time. A noun or pronoun can be used between “postpone” and “until” to specify what is being delayed.  
 __preppy__ __1__ _Preppy_ is the word we use to describe those rich kids that look down on anyone whose shoes cost less than a car. It’s the perfect word to describe the pompousness and snootiness of the crustiest of the upper crust. Just recall the fashion of _Carlton Banks_ of _The Fresh Prince of Bel-Air._ _adj_ _slang_ Having the look or manner of an expensive preparatory school student, typically characterized by wealth, snobbishness, and an adoption of current fashions, trends, or styles. _I hate the preppy clothes he’s been wearing ever since he started hanging out with the cool kids at school._ _He’s a bit preppy, sure, but he’s smart and is actually really interested in classic literature._ __2__ _n_ _slang_ A person who affects the look or manner of an expensive preparatory school student. _She’s just another preppy who get’s a get-out-jail-free card anytime she screws up, huh?_  
@@ -314,6 +338,7 @@ __put (someone or something) to the test__
 __put (something or someone) on the map__ To make (a place, a person, etc.) famous or well-known.  
 __put on a happy face__ To begin to smile and act cheerful.  
 __put on pause__  
+__quality time__ Time spent interacting with someone in a close, meaningful way.  
 __question mark__ An unknown or uncertainty.  
 __quite a (something)__  
 __rain or shine__  
@@ -348,10 +373,13 @@ __run through (something)__ __4__ To guide one through or inform one of the proc
 __running high__ [for feelings] To be in a state of excitement or anger. _Feelings were running high as the general election approached._  
 __rush into (something)__  
 __scoop__  
+__second wind__ A renewed energy after a period of fatigue. _I planned to stop working at 9, but then I got my second wind and just kept going._  
 __see the light of day__  
 __seep in(to something)__  
 __serve up (something)__  
 __set the table__  
+__shake down__  
+__sheesh__ An exclamation of exasperation, vexation, or annoyance.  
 __shitbird__  
 __shoot up__  
 __shorty__ A term of endearment for a child, younger sibling, shorter person, etc.  
@@ -364,6 +392,7 @@ __sink in__
 __sink to new depths__  
 __slam the door shut__  
 __sleep divorce__ A term that refers to the decision of a couple to sleep in separate places, such as separate beds or separate rooms.  
+__slip through (one’s) fingers__  
 __slippery slope__ :dart:  
 __slowly but surely__  
 __small fortune__  
@@ -378,6 +407,9 @@ __steamroll through__
 __step in__  
 __streetwise__  
 __strike a (raw) nerve__  
+__sugar daddy__  
+__super-duper__  
+__swear by (someone or something)__  
 __swear in__  
 __sweetie pie__ A term of endearment, especially for a person or pet towards whom one feels tender love or affection.  
 __take (someone or something) for granted__  
@@ -399,6 +431,7 @@ __through thick and thin__
 __throw shade__ _slang_ To subtly issue insults or expressions of disapproval.  
 __tight race__  
 __time and (time) again__  
+__too little too late__  
 __top dog__ _Llama 3 is now the top dog in open-source AI models._  
 __trash talk__  
 __tread carefully__  
@@ -422,7 +455,9 @@ __whip up__
 __whopping__  
 __wild goose chase__  
 __win (something) in a walk__ To win (something) easily, handily, or without much or any effort. _Enjoying the benefit of a week off between games, the home team won this match in a walk._  
+__witch hunt__  
 __with a bang__ :two::hammer:  
+__with a twist__ The phrase “with a twist” is an idiomatic expression that means something is done or presented in an unexpected or unconventional way, often with a surprise or a new spin. It can imply that something is extraordinary, not straightforward, or deviates from the usual procedure.  
 __with bated breath__  
 __word for word__ In or with the same exact words; verbatim. _After seeing the play only once, he was able to repeat the monologue word for word. It was amazing._  
 __work (oneself) up__  

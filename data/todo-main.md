@@ -3,21 +3,28 @@ __antihypertensive__ _adj, n_
 __appurtenance__ _n_ Equipment, such as clothing, tools, or instruments, used for a specific purpose or task. _Syn_ paraphernalia, gear  
 __assail__ _v_ /əˈseɪl/ /uh-SAIL/  
 __baccarat__ _n_ A card game in which the winner is the player who holds two or three cards totaling closest to nine. _Syn_ chemin de fer  
+__blather__ _n, v_  
 __boodle__ _n_  
 __broker__ _vt_ _He brokered the hush money to Jane and Eve._  
 __calisthenics__ _n_  
 __caretaker__ _n_ __2__ _(modifier)_ Holding office temporarily; interim: _a caretaker government._  
 __Carnation Revolution__ _n_  
+__clause__ _n_  
 __coconspirator__ _n_ A joint conspirator.  
 __cohesive__ _adj_ /koh-HEE-siv/  
+__column__ _n_ :mega:  
 __commute__ _n, v_ :mega: /kəˈmyut/  
+__contempt__ _n_  
+__cover-up__ _n_  
 __crucible__ _n_  
 __demagogue__ _n_ /DEM-uh-gahg/ A demagogue is a political leader who tries to get support by making use of popular prejudices, as well as by making false claims and promises and using arguments based on emotion rather than reason.  
 __drool__ _vi_ __1__ To water at the mouth, as in anticipation of food; salivate; drivel. __2__ To show excessive pleasure or anticipation of pleasure. __3__ To talk foolishly.  
 __elliptic__ _adj_ /i-LIP-tik/ __1__ Marked by extreme economy of expression in speech or writing. __2__ Cryptic, ambiguous, or obscure. __3__ Marked by ellipsis: the omission of one or more words from a sentence. __4__ Relating to or shaped like an ellipse.  
 __exaction__ _n_  
 __extortion__ _n_  
+__flab__ _n_ :dart:  
 __flippant__ _adj_  
+__flurry__ _n_ __1__ A sudden commotion or burst of activity.  
 __forfend__ _v_ /for-FEND/  
 __frill__ _n_ __4__ _informal_ Something that is desirable but not a necessity; a luxury.  
 __full-blown__ _adj_  
@@ -31,6 +38,8 @@ __heartfelt__
 __heft__ _n_  
 __homage__ _n_ /AH-mij/ An homage is something that is done to honor someone or something. It is often used with the word pay (as in “pay homage”) to mean “to respect or honor.”  
 __ID__ _vt_  
+__implore__  
+__in-house__  
 __inalienable__ _adj_ /in-AY-lee-uh-nuh-bul/ Something considered inalienable is impossible to take away or give up.  
 __incantation__ _n_ A ritual recitation of words or sounds believed to have a magical effect. _Syn_ conjuration  
 ‌__indict__  
@@ -38,6 +47,7 @@ __injunction__ _n_ :two::hammer:
 __invaginate__ _v_  
 __invective__ _n_ Denunciatory or abusive language. _Syn_ vituperation, vitriol  
 __inviolable__ _adj_ /in-VYE-uh-luh-bul/  
+__irrelevant__ _adj_  
 __ism__ _n_ /ˈɪz əm/  
 __jacksmith__ _n_  
 __jaunt__ _n_ /dʒɔnt, dʒɑnt/ A short journey, especially one taken for pleasure.  
@@ -48,9 +58,12 @@ __ken__ _n_ /KEN/ Ken refers to someone’s range of perception, knowledge, or u
 __kickback__ _n_  
 __kindle__ _v_ __1__ To set alight or start to burn.  
 __kinkeeping__  
+__kombucha__ _n_  
 __leer__ _vt_ /lɪər/ To look with a sideways or oblique glance, especially suggestive of lascivious interest or sly and malicious intent: _Go away! I can’t concentrate with you leering at me._  
+__leery__ _adj_ Suspicious or distrustful; wary: _was leery of aggressive salespeople._ _Syn_ mistrustful, suspicious, untrusting, wary  
 __leptospirosis__ _n_  
 __liable__ _adj_  
+__liminal__ _adj_  
 __lip liner__ _n_ (lip liner)  
 __livid__ _adj_ __3__ _informal_ Angry or furious.  
 __massive__ _adj_  
@@ -101,12 +114,14 @@ __rife__ _adj_
 __rile__ _vt_ __1__ To irritate or vex. _Syn_ nettle, chafe, provoke, annoy, irk  
 __romcom__  
 __run-up__ _n_ (runup)  
-__salacious__ _adj_ :two::hammer:  
+__ruse__ _n_ _Syn_ wile  
+__salacious__ _adj_ :three::hammer:  
 __school of thought__  
 __scour__ _v_  
 __security__ _n_ /sɪˈkyʊər ɪ ti/  
 __seminal__ _adj_  
 __sendoff__ _n, v_  
+__shelter__ _v_  
 __shimmy__ _v_  
 __showdown__ _n_  
 __single-handed__  
@@ -139,6 +154,9 @@ __tidbit__ _n_
 __Tipp-Ex__ _n_ /ˈtɪp.eks/  
 __trample__ _v_  
 __triangulation__ _n_ /try-ang-gyuh-LAY-shuhn/ __2__ Positioning between two extremes, especially in politics.  
+__truth-telling__  
+__truthful__ _adj_  
+__tryst__ _n_  
 __tune__ _n, v_ /tun, tyun/  
 __twister__ _n_ __2__ _informal_ A whirlwind or tornado.  
 __underrated__ _adj_  
@@ -148,6 +166,7 @@ __ungrateful__ _adj_
 __unmissable__ _adj_  
 __unnerving__ _adj_ /ʌnˈnɜːvɪŋ/ Making one feel worried or uncomfortable.  
 __unsavory__ _adj_  
+__unwavering__  
 __vet__ _v_ :two: __2__ :dart: To subject to thorough examination or evaluation: _vet a manuscript._  
 __vicarious__ _adj_ /vye-KAIR-ee-us/ A _vicarious_ emotion or experience is one felt by watching, hearing about, or reading about someone else rather than by doing something yourself. _He felt a vicarious thrill as his daughter crossed the stage to accept her diploma._  
 __villager__ _adj_  
@@ -157,6 +176,7 @@ __voir dire__ _n_
 __volatile__ _adj_ /VOL-uh-tuhl/tyl/ __1__ Fluctuating widely and unpredictably. __2__ Evaporating easily. __3__ Explosive. __4__ Capable of flying.  
 __waitlist__ _n, v_  
 __wanderer__  
+__wary__ _adj_  
 __watermelon__  
 __weaponize__  
 __weather__ _v_  
