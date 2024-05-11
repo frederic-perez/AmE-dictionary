@@ -1,12 +1,16 @@
+__agrarian__ _adj_ /uh-GRAIR-ee-un/ Something described as agrarian has to do with farms and farming.  
 __antics__ _n pl_  
 __antihypertensive__ _adj, n_  
 __appurtenance__ _n_ Equipment, such as clothing, tools, or instruments, used for a specific purpose or task. _Syn_ paraphernalia, gear  
 __assail__ _v_ /əˈseɪl/ /uh-SAIL/  
+__asymptote__ _n_ /AS-im-toht/  
 __baccarat__ _n_ A card game in which the winner is the player who holds two or three cards totaling closest to nine. _Syn_ chemin de fer  
+__behemoth__ _n_  
 __blather__ _n, v_  
 __boodle__ _n_  
 __broker__ _vt_ _He brokered the hush money to Jane and Eve._  
 __calisthenics__ _n_  
+__cantina__ _n_  
 __caretaker__ _n_ __2__ _(modifier)_ Holding office temporarily; interim: _a caretaker government._  
 __Carnation Revolution__ _n_  
 __clause__ _n_  
@@ -14,6 +18,7 @@ __coconspirator__ _n_ A joint conspirator.
 __cohesive__ _adj_ /koh-HEE-siv/  
 __column__ _n_ :mega:  
 __commute__ _n, v_ :mega: /kəˈmyut/  
+__contemn__ _vt_ To view with contempt; despise; scorn.  
 __contempt__ _n_  
 __cover-up__ _n_  
 __crucible__ _n_  
@@ -21,7 +26,9 @@ __demagogue__ _n_ /DEM-uh-gahg/ A demagogue is a political leader who tries to g
 __drool__ _vi_ __1__ To water at the mouth, as in anticipation of food; salivate; drivel. __2__ To show excessive pleasure or anticipation of pleasure. __3__ To talk foolishly.  
 __elliptic__ _adj_ /i-LIP-tik/ __1__ Marked by extreme economy of expression in speech or writing. __2__ Cryptic, ambiguous, or obscure. __3__ Marked by ellipsis: the omission of one or more words from a sentence. __4__ Relating to or shaped like an ellipse.  
 __exaction__ _n_  
+__extemporize__ _v_ /ik-STEM-puh-ryze/ To _extemporize_ means to do something extemporaneously—in other words, to improvise. _A good talk show host must be able to extemporize when interviews don’t go as planned._  
 __extortion__ _n_  
+__ferrule__ _n_ A metal ring or cap placed around a pole or shaft for reinforcement or to prevent splitting. _Syn_ collet  
 __flab__ _n_ :dart:  
 __flippant__ _adj_  
 __flurry__ _n_ __1__ A sudden commotion or burst of activity.  
@@ -31,6 +38,9 @@ __full-blown__ _adj_
 __garner__ _vt_  
 __garrulous__ _adj_ _Syn_ chatty, gabby, loquacious, talkative, talky  
 __gingerly__ _adj_ /JIN-jer-lee/ An act or manner described as gingerly is very cautious or careful.  
+__graymail__ _n, vt_  
+__greenmail__ _n, vt_  
+__grudging__ _adj_ /GRUH-jing/ Grudging is an adjective used to describe something that is said, done, or given unwillingly or reluctantly. It can also describe someone who is unwilling or reluctant to do something.  
 __gustatory__ _adj_ /GUHS-tuh-TOR-ee/ [:scroll: From Latin gustare (to taste)] Relating to the sense of taste.  
 __hardline__ _adj_ two::hammer:  
 __hastily__ _adv_ In a hurried or hasty manner. _Syn_ hurriedly, in haste  
@@ -49,6 +59,7 @@ __invective__ _n_ Denunciatory or abusive language. _Syn_ vituperation, vitriol
 __inviolable__ _adj_ /in-VYE-uh-luh-bul/  
 __irrelevant__ _adj_  
 __ism__ _n_ /ˈɪz əm/  
+__jackassery__ _n_ /ˈdʒækˌæsərɪ/ Foolish behaviour or stupidity.  
 __jacksmith__ _n_  
 __jaunt__ _n_ /dʒɔnt, dʒɑnt/ A short journey, especially one taken for pleasure.  
 __jurisprudence__ _n_ The philosophy or science of law. _Syn_ legal philosophy, law  
@@ -63,11 +74,16 @@ __leer__ _vt_ /lɪər/ To look with a sideways or oblique glance, especially sug
 __leery__ _adj_ Suspicious or distrustful; wary: _was leery of aggressive salespeople._ _Syn_ mistrustful, suspicious, untrusting, wary  
 __leptospirosis__ _n_  
 __liable__ _adj_  
+__lightsaber__ _n_  
 __liminal__ _adj_  
 __lip liner__ _n_ (lip liner)  
+__listless__ _adj_ Marked by low spirits; showing no enthusiasm. _Syn_ dispirited  
 __livid__ _adj_ __3__ _informal_ Angry or furious.  
+__lycanthrope__ _n_ A monster able to change appearance from human to wolf. _Syn_ werewolf, wolfman, loup-garou  
+__mailed fist__ _n_ [:scroll: Translation of German gepanzerte Faust (mailed fist), from Panzer (armor) + Faust (fist)] The threat of military force. A threat or show of force to maintain control. :es: la mano dura  
 __massive__ _adj_  
 __Mattel__ _n_ A relatively rare last name. It is most commonly found in France, according to one source.  
+__melee__ _n_ /MAY-lay/ _Melee_ refers to a confused fight or struggle, especially one involving hand-to-hand combat.  
 __mismatch__  
 ‌__monster truck__ _n_  
 __moratorium__ _n_  
@@ -84,6 +100,7 @@ __overall__
 __overstretched__ _adj_ /ˌəʊvəˈstrɛtʃt/ Subject to excessive demands or put under excessive pressure. _Overstretched staff._  
 __palpable__ _adj_ /PAL-puh-bul/ Something described as _palpable_ is obvious and notable. _Palpable_ may also be used as a synonym of tangible to describe something that can be perceived by one’s sense of touch.  
 __Paralympics__ _n pl_  
+__pasquinade__ _n_ A satire or lampoon, especially one that ridicules a specific person, traditionally written and posted in a public place. _Syn_ parody, put-on, sendup, spoof, charade, lampoon, mockery, burlesque, travesty, takeoff  
 __peculiar__ _adj, n_  
 __peremptory__  
 __perfunctory__  
@@ -93,8 +110,12 @@ __perspicacious__ _adj_
 __pertussis__ _n_ The technical name for _whooping cough_.  
 __photophobia__ _n_ /fo-tuh-FO-bee-uh/ An abnormal sensitivity to light.  
 ‌__pilgrim__ _n_ /ˈpɪl grɪm, -grəm/  
+__pincer__ _n_ A grasping structure on the limb of a crustacean or other arthropods. _Syn_ chela, nipper, claw  
+__plangent__ _adj_ /PLAN-junt/ Something, such as a sound, that is described as plangent is loud, deep, and often expressive of sadness or suffering. _Syn_ plaintive _The campers were awoken by the plangent howl of a coyote off in the distance._  
 __plateau__ _n_  
 __platitude__ _n_ A trite or banal remark or statement, especially one expressed as if it were original or significant. _Syn_ banality, cliche, commonplace, bromide  
+__plexus__ _n_ A structure in the form of a network, especially of nerves, blood vessels, or lymphatics. _Syn_ rete  
+__postal__ _adj_ /POHS-tuhl/ __1__ Relating to the mail or the post office. __2__ Very angry, insane, or violent.  
 __praise__ _vt_  
 __prejudicious__ _adj_ :astonished: Causing harm or injury. _Syn_ damaging, detrimental, prejudicial  
 __prevalence__  
@@ -102,6 +123,7 @@ __preview__ _n, v_ /ˈpriˌvyu/ /prē′vyo͞o′/
 __price tag__  
 __Pringle__ _n_ A Scottish surname.  
 __profligate__ _adj_ :dart:  
+__proliferate__ _v_ /pruh-LIF-uh-rayt/ To increase quickly in number or amount.  
 __proximate__ _adj_  
 __punch line__ _n_  
 __pyrophobia__ _n_ /py-roh-FOH-bee-uh/ An extreme fear of fire.  
@@ -117,6 +139,7 @@ __run-up__ _n_ (runup)
 __ruse__ _n_ _Syn_ wile  
 __salacious__ _adj_ :three::hammer:  
 __school of thought__  
+__scissure__ _n_ A split or opening in an organ or part. _Syn_ crack, crevice, fissure, cleft  
 __scour__ _v_  
 __security__ _n_ /sɪˈkyʊər ɪ ti/  
 __seminal__ _adj_  
@@ -140,6 +163,7 @@ __sternutation__ _n_ A symptom consisting of the involuntary expulsion of air fr
 __straddle__ _v_  
 __stressor__ _n_  
 __suborn__ _vt_ :astonished:  
+__surreptitious__ _adj_ Marked by quiet and caution and secrecy; taking pains to avoid being observed. _Syn_ furtive, stealthy, sneaky  
 __swim lane__ _n_ (swimlane) __2__ A horizontal or vertical division of a process flow chart, typically used to visually separate the tasks of different actors.  
 __sympathetic__ _adj_ /ˌsɪm pəˈθɛt ɪk/  
 __table__ _vt_ __2__ To postpone consideration of (a piece of legislation, for example); shelve.  

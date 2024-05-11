@@ -1,6 +1,10 @@
+__(all) kidding aside__ In all seriousness; being frank for a moment.  
 __(the) clock is ticking__  
 __a balancing act__  
+__a different kettle of fish__ Any issue or matter that is entirely different in scope, description, or nature from that which was just being discussed.  
 __a front-row seat__ Close proximity to a certain situation or event.  
+__a kernel of truth__ A singular element of truth or wisdom within a greater story, narrative, speech, or claim, especially when most or all other elements are fictitious or of questionable veracity. _I think the governor’s speech is a bunch of hogwash by and large, but there is a kernel of truth in what he said about the need for lower taxes._  
+__a kick at the can__ An opportunity to do, try, or achieve something. Primarily heard in Canada.  
 __a soft spot__ A particular fondness or affection for someone or something, often for reasons that hard to understand or articulate.  
 __across the board__  
 __all over the place__  
@@ -8,7 +12,10 @@ __at the end of the day__
 __back on (one’s) feet__  
 __back to square one__  
 __bank on__  
+__be kicked upstairs__ To be promoted to a higher role or position in a company that has little actual responsibility or authority. _John was kicked upstairs to an assistant manager position so he would stop griping about his pay._  
+__be on track__ To progress or develop as planned, scheduled, or expected. _Everyone in our entire department is on track to meet their sales quotas for the year._  
 __beef up__  
+__bogart__  
 __boodle__ Something that has been obtained through criminal activity; loot or booty. _Wow, all of this boodle came from one robbery, huh?_  
 __booty__  
 __bounce into (someone or something)__  
@@ -26,6 +33,7 @@ __cough up__
 __cross-examine (someone)__  
 __diss__  
 __doom and gloom__  
+__drag (someone) kicking and screaming__ To force someone to go somewhere or do something against their will, especially when they protest against it vehemently and/or at great length. _I really thought Mike would be perfect for that job, but I had to drag him kicking and screaming into an interview for it._ _Every summer we drag our kids kicking and screaming to their grandparents’ house in the countryside._  
 __empty nester__  
 __fine-tune__  
 __fingers crossed__  
@@ -132,7 +140,7 @@ __high and low__ :two: In many different places.
 __hit a wall__  
 __hit at (someone or something)__  
 __hit rock bottom__  
-__hogwash__  
+__hogwash__ :two::hammer:  
 __hold (one’s) nose__ __3__ By extension, to do something in spite of its unpleasant or illicit nature. _I don’t want to get fired, so I guess I’ll just have to hold my nose and do what he asks._  
 __hold (someone or something) in contempt__  
 __home in__  
@@ -186,6 +194,7 @@ __jump ship__ (abandon ship) _Nearly all of (chatbot) Pi’s parent company, Inf
 __just like that__  
 __keen on (someone or something)__  
 __keep (one’s) slate clean__ To maintain an impeccable record; to refrain from committing any mistakes or wrongdoings.  
+__keep (one’s) socks on__ :dart: To remain patient and calm, especially when beginning to become angry or upset with impatience. Usually said as an imperative. _Yeah, yeah, keep your socks on! I’ll have the report finished by the end of the day!_  
 __keep (one’s)/an eye on (someone or something)__  
 __keep (someone or something) in check__  
 __keep (someone) in the loop__ To keep someone informed about and/or involved in something, such as a plan or project, especially that which involves or pertains to a specific group.  
@@ -397,6 +406,7 @@ __slippery slope__ :dart:
 __slowly but surely__  
 __small fortune__  
 __smash hit__  
+__snail mail__  
 __sneak in__  
 __sneak peek__  
 __so much so that__  
