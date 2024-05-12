@@ -1,28 +1,3 @@
-__agrarian__ _adj_ /uh-GRAIR-ee-un/ Something described as agrarian has to do with farms and farming.  
-__antics__ _n pl_  
-__antihypertensive__ _adj, n_  
-__appurtenance__ _n_ Equipment, such as clothing, tools, or instruments, used for a specific purpose or task. _Syn_ paraphernalia, gear  
-__assail__ _v_ /əˈseɪl/ /uh-SAIL/  
-__asymptote__ _n_ /AS-im-toht/  
-__baccarat__ _n_ A card game in which the winner is the player who holds two or three cards totaling closest to nine. _Syn_ chemin de fer  
-__behemoth__ _n_  
-__blather__ _n, v_  
-__boodle__ _n_  
-__broker__ _vt_ _He brokered the hush money to Jane and Eve._  
-__calisthenics__ _n_  
-__cantina__ _n_  
-__caretaker__ _n_ __2__ _(modifier)_ Holding office temporarily; interim: _a caretaker government._  
-__Carnation Revolution__ _n_  
-__clause__ _n_  
-__coconspirator__ _n_ A joint conspirator.  
-__cohesive__ _adj_ /koh-HEE-siv/  
-__column__ _n_ :mega:  
-__commute__ _n, v_ :mega: /kəˈmyut/  
-__contemn__ _vt_ To view with contempt; despise; scorn.  
-__contempt__ _n_  
-__cover-up__ _n_  
-__crucible__ _n_  
-__demagogue__ _n_ /DEM-uh-gahg/ A demagogue is a political leader who tries to get support by making use of popular prejudices, as well as by making false claims and promises and using arguments based on emotion rather than reason.  
 __drool__ _vi_ __1__ To water at the mouth, as in anticipation of food; salivate; drivel. __2__ To show excessive pleasure or anticipation of pleasure. __3__ To talk foolishly.  
 __elliptic__ _adj_ /i-LIP-tik/ __1__ Marked by extreme economy of expression in speech or writing. __2__ Cryptic, ambiguous, or obscure. __3__ Marked by ellipsis: the omission of one or more words from a sentence. __4__ Relating to or shaped like an ellipse.  
 __exaction__ _n_  

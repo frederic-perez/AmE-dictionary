@@ -350,7 +350,7 @@ __agonal__ _adj_ Relating to agony, especially before death. _Agonal breathing._
 __agonist__ _n_ :astonished::four: /ˈæg ə nɪst/ __3__ One involved in a struggle or competition.  
 __agonistic__ _adj_ :pencil2: Striving to overcome in argument.  
 __Agpar__ _n_ (Agpar score) A method of assessing a newborn’s health. Also known as Apgar score. After anesthesiologist Virginia Apgar (1909-1974) who devised it.  
-__agrarian__  
+__agrarian__ _adj_ :two: /uh-GRAIR-ee-un/ Something described as agrarian has to do with farms and farming.  
 __agribusiness__ _n_  
 __agritourism__ _n_  
 __agrochemical__ _n_  
@@ -697,8 +697,9 @@ __antic__
 __anticipate__ _v_ (anticipated)  
 __anticlimactic__ _adj_ :pencil2:  
 __anticlimax__ _n_  
-__antics__ _n_ _(plural)_ :five: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
+__antics__ _n pl_ :six: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
 __antidepressant__ _adj_  
+__antihypertensive__ _adj, n_  
 __antipasto__ _n_ (_n pl_ antipastos or antipasti)  
 __antipathy__ _n_ A strong feeling of aversion or repugnance. _Syn_ aversion, distaste  
 __antipodean__ _adj_ _Syn_ antipodal  
@@ -791,6 +792,7 @@ __apprentice<sup>2</sup>__ _v_ :two::hammer: (apprenticed)
 __apprenticeship__ _n_ _Apprenticeship program._  
 __apprise__ _v_ :two: To give notice to; inform. _Syn_ notify, advise _During the drive home from the airport, they had time to apprise her of everything that had changed since she had been gone._ _He was kept apprised of events by partisans in Paris._  
 __approval rating__ _n_ :dart: A rating based on a percentage of people (as voters) who think someone (as a politician) is doing a good job. _The governor’s approval rating is going up._ _Park’s approval rating has plummeted._  
+__appurtenance__ _n_ Equipment, such as clothing, tools, or instruments, used for a specific purpose or task. _Syn_ paraphernalia, gear  
 __après__ _prep_ :three: After. Often used in combination: _an après-dinner entertainment; a concert après dinner._  
 __apricate__ _v_ To bask in the sun.  
 __apropos<sup>1</sup>__ _adj_ :mega::four: /ˌæp rəˈpoʊ/ Being at once opportune and to the point. _Syn_ relevant, timely _His book about safe investment, published right before the stock market crash, was more apropos than he expected._  
@@ -946,7 +948,7 @@ __asphalt__ _n_ _Asphalt rafts floating in the shore._ :es: chapapote
 __aspheric__ _adj_ (aspherical) (of a reflecting surface or lens) Deviating slightly from a perfectly spherical shape and relatively free from aberrations.  
 __aspire__ _v_  
 __aspirin__ _n_ :mega:  
-__assail__ _v_ :three: /əˈseɪl/ __1__ Make a concerted or violent attack on. _The Scots army assailed Edward’s army from the rear._ __2__ :dart: Criticize strongly. _He assailed a group of editors for their alleged excesses._  
+__assail__ _v_ :four: /əˈseɪl/ /uh-SAIL/ __1__ Make a concerted or violent attack on. _The Scots army assailed Edward’s army from the rear._ __2__ :dart: Criticize strongly. _He assailed a group of editors for their alleged excesses._  
 __assailant__  
 __assault__ _n_ :two::hammer:  
 __assay<sup>1</sup>__ _n_  
@@ -989,6 +991,7 @@ __astronomical unit__ _n_ A unit of length used in measuring astronomical distan
 __Astroturfing__ _n_ /as-truh-turf-ing/ __1__ The act or process of installing Astroturf on a surface. __2__ (usually lowercase) A deception tactic in which an organized effort is used to create the illusion of widespread, spontaneous support for something. The goal of astroturfing is to give the false impression that something has wide support from a passionate grassroots campaign when in reality the effort is (secretly) motivated by a person or group’s personal interest.  
 __astute__ _adj_ :two::hammer: /uh-STOOT/  
 __asunder__ _adj, adv_ :seven: /uh-SUN-der/ Asunder is most often used as an adverb—often with a verb such as _tear_ or _pull_—to mean “apart” or “into pieces.” It is more rarely used as an adjective meaning “apart from each other,” as in “he stood with his legs wide asunder.” _A world torn asunder by evil and hate._  
+__asymptote__ _n_ /AS-im-toht/  
 __asyndeton__ _n_ The removal of conjunctions from a sentence. Example: Get in, cause a distraction, get out.  
 __At ease!__ _phr_ :four: Allowed to refrain from being in rigid formation.  
 __at large<sup>1</sup>__ _adj_ /at larj/ [:scroll: From Latin ad largum (at liberty)] __1__ Having a wide scope. __2__ As a whole. __3__ Not captured.  
@@ -1155,6 +1158,7 @@ __Babylonian captivity__ _n_ __1__ (Judaism) The exile of the Jews in Babylonia 
 __Babylonian exile__ _n_ Babylonian captivity.  
 __babysit__ _v_ :two::hammer:  
 __baccalaureate__ _n_  
+__baccarat__ _n_ A card game in which the winner is the player who holds two or three cards totaling closest to nine. _Syn_ chemin de fer  
 __bacchanalian__ _adj_ Used of riotously drunken merrymaking. _A night of bacchanalian revelry._  
 __bachelor party__  
 __back away__  
@@ -1512,7 +1516,7 @@ __begrudgingly__ _adv_ :two::hammer: :es: de mala gana, a regañadientes
 __beguile__ _v_ :nine: /bih-GHYLE/ __1__ To deceive by guile or charm: _beguiled unwary investors._ _She was cunning enough to beguile her classmates into doing the work for her._ __2__ To deprive (someone) of something by guile or deceit; cheat: _a disease that has beguiled me of strength._ __3__ To distract the attention of; divert: _“to beguile you from the grief of a loss so overwhelming”_ (Abraham Lincoln). __4__ To amuse or charm; delight or fascinate. To attract or interest someone. _He beguiled the audience with his smooth and seductive voice._ __5__ To pass (time) pleasantly.  
 __beguiling__ _adj_ :four: Agreeably or charmingly attractive or pleasing. _The Artist has an utterly beguiling purity._  
 __behavioral intervention__  
-__behemoth__ _n_ :eight: /bih-HEE-muth/ [:scroll: Behemoth (usually capitalized) is the name of a mighty animal described in the biblical book of Job.] __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization. Something of monstrous size, power, or appearance. _The town will be voting on whether or not to let the retail behemoth build a store on the proposed site._  
+__behemoth__ _n_ :nine: /bih-HEE-muth/ [:scroll: Behemoth (usually capitalized) is the name of a mighty animal described in the biblical book of Job.] __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization. Something of monstrous size, power, or appearance. _The town will be voting on whether or not to let the retail behemoth build a store on the proposed site._  
 __behest__ _n_ :nine::dart: /bih-HEST/ An authoritative order or an urgent prompting. A person’s orders or command. _Syn_ Instruction, bidding, request _They had assembled at his behest._ _The committee met again at the behest of the senator._  
 __behold__ _v_ :seven::hammer: _The wedding ceremony was a joy to behold._ _They are a genuine delight to behold._ _Sirs, behold me here!_  
 __beholden__ _adj_ :nine::m: /bih-HOHL-dun/ Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don’t like to be beholden to anybody._ _She works for herself, and so is beholden to no one._  
@@ -1814,8 +1818,8 @@ __blasphemous__
 __blast__ _n_ :two: __9__ _slang_ A highly exciting or pleasurable experience or event, such as a big party. A great experience, a very enjoyable time.  
 __blatant__ _adj_ :six::hammer:  
 __blatantly__  
-__blather<sup>1</sup>__ _n_ :two::hammer:  
-__blather<sup>2</sup>__ _vi_ :five: (blether) To talk nonsensically. To talk foolishly. _Syn_ smatter, babble  
+__blather<sup>1</sup>__ _n_ :three::hammer:  
+__blather<sup>2</sup>__ _vi_ :six: (blether) To talk nonsensically. To talk foolishly. _Syn_ smatter, babble  
 __blatherskite__ _n_ :two::hammer:  
 __blaze of glory__ _n_ :two: __1__ An impressive but brief display of strength before expiring, in the way that a fire burns more brightly shortly before burning out.  
 __blaze__ _v_ __2__ To prepare or lead (the way in an endeavor): _blazed the way in space exploration._  
@@ -2040,6 +2044,7 @@ __boo<sup>2</sup>__ _n_ _informal_ __1a__ A boyfriend or girlfriend. __b__ A spo
 __booby trap__ _n_ :three::hammer:  
 __booby-trapped 105’s__  
 __boocoo__ _adj, adv, n_ :two: _Chiefly Southern US_ Variant of _beaucoup_. _I’d take boocoo notes._  
+__boodle__ _n_  
 __boogeyman__  
 __boogie__ _n_ :two: __1__ Strongly rhythmic rock music. __2__ Boogie-woogie.  
 __boohoo__ _v_ :two::hammer:  
@@ -2323,9 +2328,8 @@ __broiler__ _n_ _An infrared broiler._
 __broken accent__  
 __broken English__ _n_  
 __broken__ _adj_ :two::dart: Lacking fluency. _Broken English._  
-__broker__ _n_  
-__broker<sup>1</sup>__ _n_  
-__broker<sup>2</sup>__ _v_ :seven::hammer: (brokered) _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._ _Negotiations brokered by the Vatican._ _They brokered deals for new business ventures._  
+__broker<sup>1</sup>__ _n_ :three::hammer:  
+__broker<sup>2</sup>__ _vt_ :eight::hammer: (brokered) _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._ _Negotiations brokered by the Vatican._ _They brokered deals for new business ventures._ _He brokered the hush money to Jane and Eve._  
 __brokerage__ _n_  
 __bromance__ _n_ :three: /BRO-mans/ A close friendship between men.  
 __bromide__ _n_ __2a__ A commonplace remark or notion; a platitude. _Syn_ cliché __b__ A tiresome person; a bore.  
@@ -2713,7 +2717,7 @@ __calico__ _adj, n_ :three::hammer: _A plain calico coat._
 __caliper__ _n_ :two::hammer: _I need a new brake caliper for my motorcycle._  
 __caliph__  
 __caliphate__  
-__calisthenics__  
+__calisthenics__ _n_ :two::hammer:  
 __call for__  
 __call forth__  
 __call of duty__  
@@ -2814,6 +2818,7 @@ __Canterbury tale__ _n_ A story that is long, tedious, or absurdly implausible. 
 __canthus__ _n_  
 __cantilever__ _v_ :four::hammer: (cantilevered)  
 __cantillation__  
+__cantina__ _n_  
 __canvass__ _v_ :three::hammer::astonished: (canvassing)  
 __canyoned__ _adj_ _Canyoned city streets._  
 __cap gun__ _n_ :dart::camera: A toy pistol with a hammer action that detonates a mildly explosive cap.  
@@ -2885,7 +2890,7 @@ __carefree__ _adj_ :two::hammer:
 __carefully__ _adv_ _It pays to consider his words carefully._  
 __caregiver__ _n_  
 __caresses__ _v_  
-__caretaker__ _n_ :two::hammer: _A caretaker government._  
+__caretaker__ _n_ :three::hammer: __2__ _(modifier)_ Holding office temporarily; interim: _a caretaker government._  
 __cargo pants__  
 __cargo-pocket__ _n_ (cargo pocket) _A nice cargo-pocket handbook._  
 __caribou__  
@@ -2893,6 +2898,7 @@ __carillon__ _n_ _Sounds of bubbling founyains and carillons._
 __Carioca__  
 __carjack__ _v_ :two: To commit forcible theft of (a vehicle) from its users.  
 __carnage__ _n_ :five::mega: /ˈkɑr nɪdʒ/ The slaughter of a great number of people.  
+__Carnation Revolution__ _n_  
 __carnation__ _n_ :pencil2::four: A double-flowered cultivated variety of clove pink, with grey-green leaves and showy pink, white, or red flowers. :es: clavel  
 __carnie__ _n_ _Carnie man._  
 __carnival__  
@@ -3474,6 +3480,7 @@ __classical__ _adj_
 __classy__ _adj_ :two::hammer:  
 __clatter<sup>1</sup>__ _n_ :four::hammer: _The clatter of the Telex machines._  
 __clatter<sup>2</sup>__ _v_ (clattered)  
+__clause__ _n_  
 __claw back__ _v_ :two::hammer:  
 __claw machine__ _n_ :two::camera: A claw crane game machine.  
 __claw<sup>1</sup>__ _n_  
@@ -3624,6 +3631,7 @@ __cockeyed__ _adj_ _informal_ :four::hammer: _Cockeyed optimism._ _Cockeyed pred
 __cockle__ _n_ :es: berberecho  
 __cockpit__ _n_ _The charged particles can enter the cabin or cockpit._  
 __cockscomb__ _n_ __1__ The comb of a rooster. :es: cresta de gallo  
+__coconspirator__ _n_ A joint conspirator.  
 __cocoon<sup>1</sup>__ _n_  
 __cocoon<sup>2</sup>__ _v_ To wrap or envelop in or as if in a cocoon.  
 __cocooned__ _adj_ _I had become lifeless again, cocooned and frozen._  
@@ -3663,7 +3671,7 @@ __cognomen__ _n_
 __cognoscente__ _n_ :two: A person with superior, usually specialized knowledge or highly refined taste; a connoisseur.  
 __cognoscenti__ _n pl_ Well-informed persons, esp. those who have superior knowledge of a particular field, as in the arts.  
 __cogwheel__  
-__cohesive__ _adj_ :dart::three: Combining well to form a strong well-organized unit. _A more cohesive layout._  
+__cohesive__ _adj_ :dart::four: /koh-HEE-siv/ Combining well to form a strong well-organized unit. _A more cohesive layout._  
 __cohort study__ _n_ :four: A particular form of longitudinal study that samples a cohort (a group of people who share a defining characteristic, typically those who experienced a common event in a selected period, such as birth or graduation), performing a cross-section at intervals through time.  
 __cohort__ _n_  
 __coif__ _n_ :es: cofia _Strange coif._  
@@ -3729,7 +3737,7 @@ __colossus__
 __colostomy bag__  
 __colum__ _n_ Someone (physician or clergyman) who substitutes temporarily for another member of the same profession. :es: interino, suplente  
 __columbine__ _n_ _Columbine and Indian paintbrush._  
-__column__ _n_ :mute:[colum~~n~~]  
+__column__ _n_ :two::hammer::mega::mute:[colum~~n~~]  
 __coma__ _n_ :four::mega::hammer: _Medically induced coma._ _Schumacher out of coma._  
 __comatose__ _adj_ :two: __2__ Marked by lethargy; torpid.  
 __comb<sup>1</sup>__ _n_ :two::hammer::mega: (combs) _The hens had red combs, wattles, and earlobes._  
@@ -3802,6 +3810,7 @@ __commune__ _v_ __1__ To be in a state of intimate, heightened sensitivity and r
 __communicant__ _n_ _Even the Eucharist might be withheld unless the communicant produced an offering which made a mockery of the ritual._  
 __communion wafers__  
 __communiqué__ _n_ :two: (communiqués) An official statement.  
+__commute__ _n, v_ :mega: /kəˈmyut/  
 __comorbidity__ _n_ (Pathology) The occurrence of more than one illness or condition at the same time.  
 __comp__ _n_ (comps) __4__ A competition.  
 __comp<sup>1</sup>__ _n_ _Workers’ comp cases._  
@@ -4017,8 +4026,9 @@ __contact__ _n_ __6__ A contact lens. _We wear contacts._
 __contactless__  
 __contagion__  
 __contain__ _v_ _He could barely contain his saliva._  
+__contemn__ _vt_ /kənˈtɛm/ To view with contempt; despise; scorn.  
 __contempt sentence__ _n_ A _contempt sentence_ refers to the punishment imposed on an individual found guilty of contempt of court. Contempt of court is the act of showing disrespect or disobedience towards the authority or dignity of a court, such as by disobeying an order or obstructing the administration of justice.  
-__contempt__ _n_ :three::hammer: _Contempt sentence._  
+__contempt__ _n_ :four::hammer: _Contempt sentence._  
 __contemptible__ _adj_ Deserving contempt; despicable. _A display of contemptible cowardice._ :es: despreciable  
 __contemptuous__  
 __contend__ _v_ :four: (contended) __1__ To claim that something is true. __2__ To compete against someone, for example for a victory or for power.  
@@ -4247,6 +4257,7 @@ __Coventrate__ _v_ To devastate, such as by heavy bombing. After Coventry, a cit
 __Coventry__ _n_ A state of ostracism or exile. After Coventry, a city in central England. It’s unclear how Coventry developed this sense. One conjecture is that Royalist prisoners were sent there during the English Civil War. _“It.s not that smoke-filled rooms are back; smokers huddle in Coventry these days.” (Flora Lewis)._  
 __cover all bases__  
 __cover charge__ _n_ :three: A fixed amount paid when arriving or added to the bill at a nightclub or restaurant for entertainment or services.  
+__cover-up__ _n_  
 __coverage__ _n_ :mega: /ˈkʌv ər ɪdʒ, ˈkʌv rɪdʒ/  
 __covertly__  
 __covertness__ _n_ __1__ The state of being covert and hidden. _Syn_ hiddenness __2__ The habit, practice, or policy of keeping secrets. _Syn_ clandestineness, clandestinity, concealment, huggermugger, huggermuggery, secrecy, secretiveness, secretness  
@@ -4930,7 +4941,7 @@ __delusional__ _adj_ Suffering from or characterized by delusions. _Syn_ psychon
 __deluxe__ _adj_ :two::hammer: _Deluxe album._ _Deluxe hotels._  
 __delve__ _v_ :four::dart::hammer: /DELV/  
 __Dem__ _n_ _slang_ __1__ A politician belonging to the Democratic Party. __2__ One who votes for candidates of or supports the Democratic Party.  
-__demagogue__ _n_ :two: /DEM-uh-gahg/ A leader who makes use of popular prejudices and false claims and promises in order to gain power. A leader who obtains power by means of impassioned appeals to the emotions and prejudices of the populace. _Syn_ rabble-rouser _The country’s voters ousted the demagogue who capitalized on the fears of the people._  
+__demagogue__ _n_ :three: /DEM-uh-gahg/ A leader who makes use of popular prejudices and false claims and promises in order to gain power. A leader who obtains power by means of impassioned appeals to the emotions and prejudices of the populace. _Syn_ rabble-rouser _The country’s voters ousted the demagogue who capitalized on the fears of the people._  
 __demagogy__  
 __demarcate__ _v_ /dih-MAHR-kayt/ To demarcate something is to fix or define its limits or edges.  
 __démarche__ _n_ :two: /day-MARSH/ The word démarche refers to a course of action or a maneuver, and especially to a political or diplomatic maneuver. Démarche is also often used specifically for a petition or protest that is presented through diplomatic channels. _The speaker urged wealthy nations to heed the démarches of those less powerful countries bearing the brunt of climate change._  
