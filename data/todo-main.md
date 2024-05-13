@@ -1,12 +1,21 @@
+__athlete__ _n_  
+__battleground__ _n_  
+__brain fog__ _n_ A usually temporary state of diminished mental capacity marked by inability to concentrate or to think or reason clearly.  
+__churro__ _n_ /ˈtʃuːrəʊ/  
+__cooze__ _n_  
 __drool__ _vi_ __1__ To water at the mouth, as in anticipation of food; salivate; drivel. __2__ To show excessive pleasure or anticipation of pleasure. __3__ To talk foolishly.  
 __elliptic__ _adj_ /i-LIP-tik/ __1__ Marked by extreme economy of expression in speech or writing. __2__ Cryptic, ambiguous, or obscure. __3__ Marked by ellipsis: the omission of one or more words from a sentence. __4__ Relating to or shaped like an ellipse.  
+__embolism__ _n_  
 __exaction__ _n_  
 __extemporize__ _v_ /ik-STEM-puh-ryze/ To _extemporize_ means to do something extemporaneously—in other words, to improvise. _A good talk show host must be able to extemporize when interviews don’t go as planned._  
 __extortion__ _n_  
+__eye-pop·ping__ _adj_ _informal_  
+__fairytale__ _n_  
 __ferrule__ _n_ A metal ring or cap placed around a pole or shaft for reinforcement or to prevent splitting. _Syn_ collet  
 __flab__ _n_ :dart:  
 __flippant__ _adj_  
 __flurry__ _n_ __1__ A sudden commotion or burst of activity.  
+__foment__ _vt_  
 __forfend__ _v_ /for-FEND/  
 __frill__ _n_ __4__ _informal_ Something that is desirable but not a necessity; a luxury.  
 __full-blown__ _adj_  
@@ -45,6 +54,7 @@ __kickback__ _n_
 __kindle__ _v_ __1__ To set alight or start to burn.  
 __kinkeeping__  
 __kombucha__ _n_  
+__la-la land__ _n_ _slang_ __1__ A state of being out of touch with reality. __2__ Los Angeles.  
 __leer__ _vt_ /lɪər/ To look with a sideways or oblique glance, especially suggestive of lascivious interest or sly and malicious intent: _Go away! I can’t concentrate with you leering at me._  
 __leery__ _adj_ Suspicious or distrustful; wary: _was leery of aggressive salespeople._ _Syn_ mistrustful, suspicious, untrusting, wary  
 __leptospirosis__ _n_  
@@ -54,11 +64,14 @@ __liminal__ _adj_
 __lip liner__ _n_ (lip liner)  
 __listless__ _adj_ Marked by low spirits; showing no enthusiasm. _Syn_ dispirited  
 __livid__ _adj_ __3__ _informal_ Angry or furious.  
+__lucrative__ _adj_  
 __lycanthrope__ _n_ A monster able to change appearance from human to wolf. _Syn_ werewolf, wolfman, loup-garou  
 __mailed fist__ _n_ [:scroll: Translation of German gepanzerte Faust (mailed fist), from Panzer (armor) + Faust (fist)] The threat of military force. A threat or show of force to maintain control. :es: la mano dura  
 __massive__ _adj_  
 __Mattel__ _n_ A relatively rare last name. It is most commonly found in France, according to one source.  
 __melee__ _n_ /MAY-lay/ _Melee_ refers to a confused fight or struggle, especially one involving hand-to-hand combat.  
+__Midas__ _n_ /ˈmaɪdəs/  
+__misconception__ _n_  
 __mismatch__  
 ‌__monster truck__ _n_  
 __moratorium__ _n_  
@@ -66,6 +79,7 @@ __murder-suicide__ _n_ A murder in which the killer subsequently commits suicide
 __near__ _v_  
 __nickelodeon__ _n_ A cabinet containing an automatic record player; records are played by inserting a coin. _Syn_ jukebox  
 __ninepin__ _n_ A wooden pin used in the game of ninepins. _Syn_ skittle  
+__nonpartisan__ _adj_  
 __obstruction of justice__ _n_ The criminal offense of intentionally hindering or interfering with the processes of law.  
 __on-site__  
 __onboard__ _adv_ __2__ Into a state of participation of support for an effort.  
@@ -73,6 +87,7 @@ __opening statement__
 __orphan drug__ _n_ A drug that remains undeveloped or is neglected because of limited potential for commercial gain.  
 __overall__  
 __overstretched__ _adj_ /ˌəʊvəˈstrɛtʃt/ Subject to excessive demands or put under excessive pressure. _Overstretched staff._  
+__palatable__ _adj_  
 __palpable__ _adj_ /PAL-puh-bul/ Something described as _palpable_ is obvious and notable. _Palpable_ may also be used as a synonym of tangible to describe something that can be perceived by one’s sense of touch.  
 __Paralympics__ _n pl_  
 __pasquinade__ _n_ A satire or lampoon, especially one that ridicules a specific person, traditionally written and posted in a public place. _Syn_ parody, put-on, sendup, spoof, charade, lampoon, mockery, burlesque, travesty, takeoff  
@@ -119,10 +134,13 @@ __scour__ _v_
 __security__ _n_ /sɪˈkyʊər ɪ ti/  
 __seminal__ _adj_  
 __sendoff__ _n, v_  
+__severance__ _n_  
 __shelter__ _v_  
 __shimmy__ _v_  
 __showdown__ _n_  
 __single-handed__  
+__Situation Room__ _n_ (John F. Kennedy Conference Room)  
+__sizable__ _adj_ :astonished: Of considerable size; fairly large.  
 __skewer__ _vt_ __2__ To ridicule or criticize harshly: _a reviewer who skewered the tedious movie._  
 __skipper__ _n_  
 __skittish__ _adj_  
@@ -133,15 +151,20 @@ __snug__ _adj, v_
 __Special Olympics__ _n pl_  
 __spew__ _v_  
 __squarely__ _adv_ /SKWAIR-lee/ __1__ In a straightforward or frank manner. __2__ Firmly. __3__ Directly. __4__ At right angles.  
+__stance__  
+__stand watch__ _v_ Watch over so as to protect.  
 __standoff__ _n_  
+__staunch__ _adj_ (staunchest)  
 __sternutation__ _n_ A symptom consisting of the involuntary expulsion of air from the nose. _Syn_ sneeze, sneezing  
-__straddle__ _v_  
+__straddle__ _v_ :two::hammer: __1a__ To stand or sit with a leg on each side of; bestride: _straddle a horse._ _Pete straddled a chair._  
 __stressor__ _n_  
 __suborn__ _vt_ :astonished:  
+__subservient__ _adj_  
 __surreptitious__ _adj_ Marked by quiet and caution and secrecy; taking pains to avoid being observed. _Syn_ furtive, stealthy, sneaky  
 __swim lane__ _n_ (swimlane) __2__ A horizontal or vertical division of a process flow chart, typically used to visually separate the tasks of different actors.  
 __sympathetic__ _adj_ /ˌsɪm pəˈθɛt ɪk/  
 __table__ _vt_ __2__ To postpone consideration of (a piece of legislation, for example); shelve.  
+__tame__ _adj_ __4__ Insipid; flat: _a tame birthday party._  
 __tamper__  
 __tangent__ _adj, n_ /TAN-juhnt/ [:scroll: From Latin tangere (to touch)]  
 __taxpayer__ _n_ :es: contribuyente  
@@ -150,6 +173,7 @@ __tentative__ _adj_
 __themself__ _pron_ :dart: _Just after the jury was seated, emergency crews responded to a park outside the Manhattan courthouse, where a person had set themselves on fire._  
 __thought leader__ _n_ A person, organization, publication, etc. regarded as an authoritative source of new ideas or intellectual trends.  
 __tidbit__ _n_  
+__timecard__ _n_  
 __Tipp-Ex__ _n_ /ˈtɪp.eks/  
 __trample__ _v_  
 __triangulation__ _n_ /try-ang-gyuh-LAY-shuhn/ __2__ Positioning between two extremes, especially in politics.  
@@ -172,7 +196,7 @@ __villager__ _adj_
 __voice__ _vt_  
 __void__ _v_  
 __voir dire__ _n_  
-__volatile__ _adj_ /VOL-uh-tuhl/tyl/ __1__ Fluctuating widely and unpredictably. __2__ Evaporating easily. __3__ Explosive. __4__ Capable of flying.  
+__volatile__ _adj_ :two::mega: /VOL-uh-tuhl/tyl/ __1__ Fluctuating widely and unpredictably. __2__ Evaporating easily. __3__ Explosive. __4__ Capable of flying.  
 __waitlist__ _n, v_  
 __wanderer__  
 __wary__ _adj_  
@@ -180,6 +204,7 @@ __watermelon__
 __weaponize__  
 __weather__ _v_  
 __whistleblower__  
+__wordy__ _adj_  
 __worked up__ _adj_ Agitated or excited. Excessively affected by emotion. _She was worked up about all the noise._  
 __workforce__ _n_ (work force)  
 __zoolatry__ _n_ /zo-OL-uh-tree/ [:scroll: From Greek zoo- (animal) + -latry (worship)] __1__ The worship of animals. __2__ Extreme devotion to animals, for example, to one’s pets.  
