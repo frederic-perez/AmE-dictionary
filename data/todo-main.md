@@ -1,33 +1,3 @@
-__athlete__ _n_  
-__battleground__ _n_  
-__brain fog__ _n_ A usually temporary state of diminished mental capacity marked by inability to concentrate or to think or reason clearly.  
-__churro__ _n_ /ˈtʃuːrəʊ/  
-__cooze__ _n_  
-__drool__ _vi_ __1__ To water at the mouth, as in anticipation of food; salivate; drivel. __2__ To show excessive pleasure or anticipation of pleasure. __3__ To talk foolishly.  
-__elliptic__ _adj_ /i-LIP-tik/ __1__ Marked by extreme economy of expression in speech or writing. __2__ Cryptic, ambiguous, or obscure. __3__ Marked by ellipsis: the omission of one or more words from a sentence. __4__ Relating to or shaped like an ellipse.  
-__embolism__ _n_  
-__exaction__ _n_  
-__extemporize__ _v_ /ik-STEM-puh-ryze/ To _extemporize_ means to do something extemporaneously—in other words, to improvise. _A good talk show host must be able to extemporize when interviews don’t go as planned._  
-__extortion__ _n_  
-__eye-pop·ping__ _adj_ _informal_  
-__fairytale__ _n_  
-__ferrule__ _n_ A metal ring or cap placed around a pole or shaft for reinforcement or to prevent splitting. _Syn_ collet  
-__flab__ _n_ :dart:  
-__flippant__ _adj_  
-__flurry__ _n_ __1__ A sudden commotion or burst of activity.  
-__foment__ _vt_  
-__forfend__ _v_ /for-FEND/  
-__frill__ _n_ __4__ _informal_ Something that is desirable but not a necessity; a luxury.  
-__full-blown__ _adj_  
-__garner__ _vt_  
-__garrulous__ _adj_ _Syn_ chatty, gabby, loquacious, talkative, talky  
-__gingerly__ _adj_ /JIN-jer-lee/ An act or manner described as gingerly is very cautious or careful.  
-__graymail__ _n, vt_  
-__greenmail__ _n, vt_  
-__grudging__ _adj_ /GRUH-jing/ Grudging is an adjective used to describe something that is said, done, or given unwillingly or reluctantly. It can also describe someone who is unwilling or reluctant to do something.  
-__gustatory__ _adj_ /GUHS-tuh-TOR-ee/ [:scroll: From Latin gustare (to taste)] Relating to the sense of taste.  
-__hardline__ _adj_ two::hammer:  
-__hastily__ _adv_ In a hurried or hasty manner. _Syn_ hurriedly, in haste  
 __heartfelt__  
 __heft__ _n_  
 __homage__ _n_ /AH-mij/ An homage is something that is done to honor someone or something. It is often used with the word pay (as in “pay homage”) to mean “to respect or honor.”  

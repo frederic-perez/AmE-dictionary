@@ -1007,6 +1007,7 @@ __atheist__ _adj_
 __athenaeum__ _n_  
 __atherectomy__ _n_ Surgical removal of atherosclerotic plaque from an artery using a catheter fitted with a cutting device.  
 __atherosclerosis__ _n_  
+__athlete__ _n_  
 __athlete’s foot__ _n_ A fungal infection causing the skin between the toes to itch, crack, and peel.  
 __athwart__ _adv, prep_ :two::hammer:  
 __athwartships__ _adv_ Across a ship from side to side.  
@@ -1414,7 +1415,7 @@ __battery__ _n_ :four::hammer: _Cameron was charged with attempted murder, mayhe
 __batting cage__ _n_ :two::hammer: _Baseball_ _The rookie suffered an injury while taking swings in the batting cage._  
 __battledore and shuttlecock__ _n_ An ancient racket game.  
 __battlefield__ _n_  
-__battleground__ _n_ _AI models are battlegrounds._  
+__battleground__ _n_ :two::hammer: _AI models are battlegrounds._  
 __battlement__ _n_ :six: (battlements) A notched parapet built on top of a wall, with alternating merlons and crenels for decoration or defense. Also called embattlement. _Syn_ crenelation, crenellation  
 __batty__  
 __bauble__ _n_ :seven: (baubles) A small, showy ornament of little value. _Syn_ fallal, gaud, gewgaw, trinket, bangle, novelty _The tacky bauble she wore around her neck was intended to attract attention, but it mostly drew snickers._  
@@ -2188,7 +2189,7 @@ __braggadocio__ _n_ :two: __1a__ Empty boasting. __b__ Arrogant pretension. _Syn
 __braggart__ _n_ One given to loud, empty boasting; a bragger. _Syn_ blowhard, boaster, bragger, line-shooter, vaunter _He was generally considered a braggart, and others found it hard to be excited about his self-proclaimed successes._  
 __brain death__ _n_ _We’re witnessing the brain death of Twitter._  
 __brain drain__  
-__brain fog__ _n_  
+__brain fog__ _n_ :two: A usually temporary state of diminished mental capacity marked by inability to concentrate or to think or reason clearly.  
 __brainchild__ _n_ :five::hammer:  
 __brainiac__ _n_ :three: A very intelligent person. As Superman fans know, Brainiac was the superintelligent villain in the _Action Comics_ series and its spin-offs. His name is a portmanteau of _brain_ and _maniac_.  
 __brainpan__  
@@ -3383,6 +3384,7 @@ __churn<sup>1</sup>__ _n_ :four: __1__ A machine for making butter by shaking mi
 __churn<sup>2</sup>__ _v_ :nine::m: (churned, churning) __1__ If your stomach churns or something churns your stomach, you feel sick from nervousness, disgust, etc. _Just thinking about the test made my stomach churn._ _The violence in the movie churned my stomach._ __2__ To agitate in order to make into butter: _to churn cream._ __3__ To make (butter) by the agitation of cream. __4__ To shake or agitate: _The storm churned the sea._ _Churning sand._ _A surge of churning water._ _The hype machine churning into overdrive._  
 __churrascaria__ _n_ A restaurant serving churrasco, often featuring all-you-can-eat service and having waiters who carry skewered meat to the diners’ tables and cut slices upon request.  
 __churrigueresque__ _adj_ Of or relating to a style of baroque architecture of Spain and its Latin-American colonies, characterized by elaborate and extravagant decoration. The name is a reference to José Churriguera, a baroque architect and sculptor. The Cathedral Basilica of Zacatecas in Mexico is just one example of a churrigueresque building.  
+__churro__ _n_ /ˈtʃuːrəʊ/  
 __chute__ _n_ :two: __2__ (Individual Sports, other than specified) A steep slope, used as a slide as for toboggans.  
 __Chutes and Ladders__ _n_  
 __chutney__ _n_ :two: (chutneys) A cold food made from fruit, spices, and vinegar, eaten with meat or cheese.  
@@ -4110,7 +4112,7 @@ __cooper__ _n_ :two::astonished: A person who makes or repairs wooden barrels an
 __cooperage__  
 __coopetition__ _n_ :astonished: [:scroll: A blend of cooperative + competition] Collaboration between business competitors, in the hope of mutually beneficial results.  
 __coos__ _v_  
-__cooze__ _n_ :three::hammer:  
+__cooze__ _n_ :four::hammer:  
 __cop out__ _v_ :eight: (copped out) Choose not to do something, as out of fear of failing: _She copped out when she was supposed to get into the hang glider._  
 __cop__ _v_ _My deal was that all charges were dropped against her and I would cop a plea._  
 __cop-out__ _n informal_ Something you do or say in order to avoid doing or accepting something. _Ignoring the problem is a cop-out._  
@@ -5712,6 +5714,7 @@ __droit du seigneur__
 __droll__ _adj_ :six: Curious or unusual in a way that provokes dry amusement. _There is room for droll comedy._ _Droll comic moments._ _A droll sense of humor._  
 __drone<sup>1</sup>__ _n_ _The drone of an outboard motor reverberated._  
 __drone<sup>2</sup>__ _v_  
+__drool__ _vi_ __1__ To water at the mouth, as in anticipation of food; salivate; drivel. __2__ To show excessive pleasure or anticipation of pleasure. __3__ To talk foolishly.  
 __droolworthy__ _adj_ _Droolworthy shawarna._  
 __droop__ _n_ /dro͞op/ A fleshy fruit, such as a peach, plum, or cherry, usually having a single hard stone that encloses a seed. Also called stone fruit.  
 __drop by__ _phr v_ :two: To stop in for a short visit.  
@@ -6045,6 +6048,7 @@ __elision__
 __elite__ _n_ :two::hammer: (elites)  
 __elk__ _n_ :three::hammer: /ɛlk/ (_n pl_ elk or elks) :es: alce  
 __ellipsis__ _n_ /ɪˈlɪp sɪs/ An ellipsis is a series of three consecutive periods known as ellipsis points (...) used to indicate where words have been omitted from quoted text, or (informally) to represent a pause, hesitation, or trailing-off in thought or speech.  
+__elliptic__ _adj_ /i-LIP-tik/ __1__ Marked by extreme economy of expression in speech or writing. __2__ Cryptic, ambiguous, or obscure. __3__ Marked by ellipsis: the omission of one or more words from a sentence. __4__ Relating to or shaped like an ellipse.  
 __elliptical machine__ _n_ _He was working out on an elliptical machine._  
 __elope__ _vi_ :nine::m::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
 __eloquent__ _adj_ :two::hammer: /EL-uh-kwunt/  
@@ -6079,6 +6083,7 @@ __embodiment__
 __embody__ _v_ :three::hammer:  
 __embolden__ _vt_ :four::hammer:  
 __embolic__ _adj_ :two: __1__ Of, relating to, or caused by an embolus or an embolism. __2__ Of or relating to emboly.  
+__embolism__ _n_  
 __embolization__ _n_ __2__ Therapeutic introduction of a substance into a vessel in order to occlude it.  
 __embrace__ _v_ :six::hammer: (embraced) _The best role models embrace their flaws._ _Embrace people as they are._  
 __embrasure__ _n_ An opening (in a wall or ship or armored vehicle) for firing through.  
@@ -6427,7 +6432,7 @@ __exacerbate__ _v_ :nine::m: /ig-ZASS-er-bayt/ (exacerbated, exacerbating) Make 
 __exacerbation__ _n_  
 __exact__ _vt_ :nine::m: (exacted, exacting) __1__ To force or compel (payment or performance); extort: _to exact tribute._ __2__ To demand and obtain by force or authority. To demand as a right; insist upon: _to exact respect from one’s employees._ _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._ _They exacted all the spare parts from him._ __3__ To call for or require: _this work exacts careful effort._ _It serves fine local produce, cooked to chef Jane’s exacting standards._  
 __exacting__ _adj_ :dart: _An exacting editor._  
-__exaction__ _n_  
+__exaction__ _n_ :two::hammer:  
 __exaggerate__  
 __exaggeration__ _n_ :pencil2:  
 __exalt__ _v_  
@@ -6520,6 +6525,7 @@ __expurgate__ _vt_ :astonished:
 __exquisite__ _adj_ :two::hammer: _Exquisite acting._  
 __extant__ _adj_ :two::hammer:  
 __extemporaneous__ _adj_ :two::astonished: Carried out or performed with little or no preparation. _Syn_ impromptu, off-the-cuff, offhand, unrehearsed, ad-lib _Though she had not practiced for some time, Mary’s extemporaneous piano recital wowed her dinner guests._  
+__extemporize__ _v_ /ik-STEM-puh-ryze/ To _extemporize_ means to do something extemporaneously—in other words, to improvise. _A good talk show host must be able to extemporize when interviews don’t go as planned._  
 __extended family__ _n_ A family group that consists of parents, children, and other relatives, often living in close proximity.  
 __extensive__ _adj_ _Extensive discussions._  
 __extensively__ _adv_ _She’s been working extensively._  
@@ -6528,6 +6534,7 @@ __extenuate__ _v_ :astonished:
 __extirpate__ _v_ :two: /EK-ster-payt/ To destroy totally. _Syn_ eradicate, exterminate, uproot _The district attorney is vowing to extirpate political corruption from City Hall if she is elected mayor._  
 __extol__ _vt_ :nine::m: (extol, extolled, extolling) To praise highly; exalt. _But he extols running as what helps him stay clean._  
 __extort__ _v_  
+__extortion__ _n_  
 __extradite__ _v_ :two: /EK-struh-dyte/ To extradite someone who has been accused of a crime is to send that person to the state or country that has jurisdiction to try them for that crime. _The U.S. has rejected the country’s request to extradite the journalist because of concerns that she will be subjected to an unfair trial there._  
 __extraneous__ _adj_ :dart::two: /ek-STRAY-nee-us/ Something described as extraneous does not form a necessary part of something else, and may also therefore be considered irrelevant or unimportant (as in “extraneous details”). _The woman who reported the robbery kept bringing up extraneous facts, such as what she’d had for lunch._  
 __extravagance__ _n_  
@@ -6550,7 +6557,7 @@ __eye raiser__
 __eye socket__ _n_ (Anatomy) The nontechnical name for orbit. :es: órbita del ojo  
 __eye__ _vt_ :two: __1__ To look at: _eyed the passing crowd with indifference._ _Kyiv eyes global peace summit this year._ __2__ To watch closely: _eyed the shark’s movements._ __3__ To supply with an eye.  
 __eye-opening__  
-__eye-popping__ _adj_ :three: Amazingly impressive; suggestive of the flashing of lightning. _Rob Nail displayed eye-popping videos of new robots._ _Eye-popping croissants._  
+__eye-popping__ _adj_ _informal_ :four: Amazingly impressive; suggestive of the flashing of lightning. _Rob Nail displayed eye-popping videos of new robots._ _Eye-popping croissants._  
 __eye-watering__ _adj_ :three: Painful or extremely unpleasant: _eye-watering electricity bills._  
 __eyeball<sup>1</sup>__ _n_ :three::hammer:  
 __eyeball<sup>2</sup>__ _v_ _slang_ To stare at.  
@@ -6617,6 +6624,7 @@ __fair__ _adj_ :three::hammer: (fairest) _The fairest lady in all the kingdom of
 __fairground attraction__  
 __fairly__ _adv_ :four::hammer: _I realized it fairly quickly._ _I’m fairly tidy._  
 __fairway__ _n_ :two: The long part of a golf course that you hit the ball along to get to the hole.  
+__fairytale__ _n_  
 __fait accompli__  
 __faiway__ _n_ _The turf of the lush green fairways._  
 __fakeness__ _n_  
@@ -6822,7 +6830,7 @@ __ferret<sup>1</sup>__ _n_ :five::hammer:
 __ferret<sup>2</sup>__ _v_ __1__ To hunt game with ferrets. __2__ To drive out of a hiding place. __3__ To find and bring to light by searching — usually used with out.  
 __ferreting out__ _v_  
 __Ferris wheel__ _n_  
-__ferrule__ _n_ :three: (ferule) __1__ A metal ring or cap placed around a pole or shaft for reinforcement or to prevent splitting. __2__ A bushing used to secure a pipe joint.  
+__ferrule__ _n_ :four: (ferule) __1__ A metal ring or cap placed around a pole or shaft for reinforcement or to prevent splitting. _Syn_ collet __2__ A bushing used to secure a pipe joint.  
 __ferryboat__ _n_  
 __fertigation__ _n_ /fuhr-ti-GAY-shuhn/ [:scroll: A blend of fertilizer + irrigation] The application of fertilizer by adding it to the water in an irrigation system.  
 __fertile__ _adj_ :mega:  
@@ -7015,7 +7023,7 @@ __fizzle out__
 __fizzle up__  
 __fizzle__ _v_ :three::hammer: (fizzled)  
 __fizzy__ _adj_ _A fizzy mix of generational drama and dystopian fantasy._  
-__flab__ _n_ Body fat, soft loose flesh on a person’s body.  
+__flab__ _n_ :dart::two: Body fat, soft loose flesh on a person’s body.  
 __flabbergast__ _v_ _informal_ :four::hammer: (flabbergasted)  
 __flabbergasted__ _adj_ :two::hammer:  
 __flaccid__ _adj_ :two::hammer::mega:  
@@ -7144,7 +7152,7 @@ __flip the bird__
 __flip turn__ _n_  
 __flip-flop<sup>1</sup>__ _n_  
 __flip-flop<sup>2</sup>__ _v_ :three: Reverse (a direction, attitude, or course of action). _Larry may promise you a ticket now, but I would not be surprised if he flip-flops on that decision later._ _Politicians who flip-flop get mocked._  
-__flippant__ _adj_ :seven::astonished: / FLIP-unt / Lacking proper respect or seriousness. Marked by disrespectful levity or casualness. _Syn_ frivolous, irreverent, saucy, glib, pert, impertinent, impudent _The coach made a flippant response to the media’s questions about the unexpected loss._  
+__flippant__ _adj_ :eight::astonished: /FLIP-unt/ Lacking proper respect or seriousness. Marked by disrespectful levity or casualness. _Syn_ frivolous, irreverent, saucy, glib, pert, impertinent, impudent _The coach made a flippant response to the media’s questions about the unexpected loss._  
 __flipper__ _n_ :two: __1__ The flat broad limb of seals, whales, penguins, and other aquatic animals, specialized for swimming.  
 __flippers__ _n_ :camera:  
 __flipside__ _n_  
@@ -7251,7 +7259,7 @@ __folk__ _n_ _n pl_ :five::hammer::mute:[fo~~l~~k]
 __follow the leader__ _n_ (game) _Playing a delicate game of follow the leader._  
 __follow-up__ _n_ :two::astonished::hammer:  
 __folly__ _n_ :eight: (follies) __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
-__foment__ _v_ To promote the growth or development of. _Syn_ rouse, incite  
+__foment__ _vt_ :two: To promote the growth or development of. _Syn_ rouse, incite  
 __fomite__ _n_ /FOH-myte/ Any inanimate object (as a towel or money or clothing or dishes or books or toys etc.) that can transmit infectious agents from one person to another. _Syn_ vehicle  
 __fomites__ _n_ :mega: _Pathology_ Surfaces, as clothing or door handles, that can become contaminated with pathogens when touched by the carrier of an infection, and can then transmit the pathogens to those who next touch the surfaces.  
 __fond__ _adj_ _Fond memories._  
@@ -7348,6 +7356,7 @@ __foretoken__ _n_ An event that is experienced as indicating important things to
 __forfeit<sup>1</sup>__ _v_ :nine::m: (forfeited, forfeiting) Lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing. _Those unable to meet their taxes were liable to forfeit their estates._ _I cannot believe my soul will be forfeit._ _We actually had to forfeit a game or two for not having enough players._  
 __forfeit<sup>2</sup>__ _n_ :four: A fine or penalty for wrongdoing. _The loser must pay a forfeit._ _Syn_ penalty, financial penalty, fine, fee, charge, sanction :es: multa  
 __forfeiture__ _n_ :three: The loss or giving up of something as a penalty for wrongdoing. _A partial forfeiture of pay for two months._  
+__forfend__ _v_ /for-FEND/  
 __forge__ _v_ _It is up to you to forge ahead with a new attitude._  
 __forgear__  
 __forged__ _adj_ Of or relating to that which has been fraudulently imitated.  
@@ -7497,7 +7506,8 @@ __frieze__ _n_
 __frigate__ _n_ :es: fragata  
 __fright__ _n_ :two::hammer: _You gave me quite a fright, sonny!_  
 __frigid__ _adj_ Extremely cold. _Frigid winds._  
-__frill__ _v_  
+__frill<sup>1</sup>__ _n_ __4__ _informal_ Something that is desirable but not a necessity; a luxury.  
+__frill<sup>2</sup>__ _v_  
 __frilled__ _adj_ Having decorative ruffles or frills. _Frilled apron._  
 __frilly__  
 __fringe__  
@@ -7573,7 +7583,7 @@ __fulgurant__ _adj_ /FUHL/FULL-guh-ruhnt/ __1__ Flashing like lightning. __2__ B
 __full circle__ _adv_ Back to an original state or position. Often used in the phrase “come/go full circle.” _I started out as an excellent student, and now that my grades are starting to improve again, I feel like I’ve come full circle._  
 __full disclosure__  
 __full nelson__ _n_ A wrestling hold in which the holder puts both arms under the opponent’s arms and exerts pressure on the back of the neck (illegal in amateur wrestling).  
-__full-blown__ _adj_ :two::hammer:  
+__full-blown__ _adj_ :three::hammer:  
 __full-bodied__ _adj_ :two::hammer:  
 __full-court press__ _n_  
 __full-fledged__ _adj_ :two::hammer: _Full-fledged work._  
@@ -7736,14 +7746,14 @@ __gargoyle__ _n_ :three::hammer: /GAR-goy-ul/
 __garish__ _adj_ :seven::hammer::astonished: _They are charming and garish at the same time._  
 __garland__ _n_ :five::camera::hammer: _Garland motifs on carved oak paneling._ _Evergreen garlands._ _A garland of flowers._  
 __garment__  
-__garner__ _v_ :nine::m: /GAHR-ner/ (garnered, garnering) __1__ To collect or gather something. _The researchers garnered more evidence to support their theory._ Gather or collect (something, especially information or approval). _The police struggled to garner sufficient evidence._ _Syn_ gather, collect, accumulate, amass, assemble __2__ To get or receive something wanted or valued. _The author’s novel has garnered much praise and several awards._  
+__garner__ _vt_ :nine::m: /GAHR-ner/ (garnered, garnering) __1__ To collect or gather something. _The researchers garnered more evidence to support their theory._ Gather or collect (something, especially information or approval). _The police struggled to garner sufficient evidence._ _Syn_ gather, collect, accumulate, amass, assemble __2__ To get or receive something wanted or valued. _The author’s novel has garnered much praise and several awards._  
 __garnet__ _n_ :two::hammer: :es: granate  
 __garnish__ _v_ :four: __1a__ Decorate, embellish. __b__ To add decorative or savory touches to (food or drink). __2__ To equip with accessories. _Syn_ furnish __3__ Garnishee.  
 __garret__ _n_  
 __garrison cap__ _n_ :three::hammer: _He removed his garrison cap._  
 __garrison__ _n_ :two::hammer: _A small garrison of 100 lances._  
 __garroted__ _v_  
-__garrulous__ _adj_ :four: /GAIR-uh-lus/ Given to excessive and often trivial or rambling talk. _Syn_ chatty, gabby, loquacious, talkative, talky _One day the elder Pokrovski came to see us, and chattered in a brisk, cheerful, garrulous sort of way._  
+__garrulous__ _adj_ :five: /GAIR-uh-lus/ Given to excessive and often trivial or rambling talk. _Syn_ chatty, gabby, loquacious, talkative, talky _One day the elder Pokrovski came to see us, and chattered in a brisk, cheerful, garrulous sort of way._  
 __gars__ _n_ :three::hammer: _Alligator gars._  
 __garter__ _n_ :three: (garters) __1a__ An elasticized band worn around the leg to hold up a stocking or sock. :es: liguero __b__ A suspender strap with a fastener attached to a girdle or belt to hold up a stocking or sock. __c__ An elasticized band worn around the arm to keep the sleeve pushed up.  
 __gas gauge__  
@@ -7891,7 +7901,7 @@ __gin and tonic__ _n_ :pencil2:
 __gin palace__ _n_ (gin house, gin shop) An English name originally for a lavish bar selling gin, later transferred by association to late Victorian pubs designed in a similar style. _It is a former Victorian gin palace._  
 __gin rummy__ _n_ :two: _(Card Games)_ A version of rummy in which a player may go out if the odd cards outside his sequences total less than ten points. Often shortened to: gin. _The two men sat in the back of the bar and played gin rummy and kept their score in pencil on the back of a napkin._  
 __ginger__ _n_ :es: jengibre  
-__gingerly<sup>1</sup>__ _adv_ :five::hammer: _Walking gingerly behind the pack._  
+__gingerly<sup>1</sup>__ _adv_ :six: /JIN-jer-lee/ An act or manner described as gingerly is very cautious or careful. _Walking gingerly behind the pack._  
 __gingerly<sup>2</sup>__ _adj_  
 __gingersnap__ _n_  
 __gingham__  
@@ -8182,6 +8192,7 @@ __gravity__ _n_ :two: __2__ Grave consequence; seriousness or importance: _They 
 __gravy__ _n_ :three::hammer:  
 __graybeard__ _n_ :two: A man who is very old. _Syn_ old man, Methuselah _Senate graybeards._  
 __grayling__  
+__graymail__ _n, vt_  
 __graze__ _v_ :nine::m: (grazed, grazing) __1__ To feed on growing grasses and herbage. _Some species can graze on the extra algae._ __2__ To scrape or touch something lightly in passing. _Police confirm a young girl was grazed by a bullet._ __3__ To break the skin of (a part of the body) by scraping.  
 __grazer__ _n_  
 __grazing land__ _n_ :hammer::camera: A field covered with grass or herbage and suitable for grazing by livestock.  
@@ -8208,6 +8219,7 @@ __greenery__ _n_ /ˈgri nə ri/
 __greenhorn__ _n_ :two: A newcomer, especially one who is unfamiliar with the ways of a place or group. _Syn_ novice, beginner, apprentice, naïf, learner, ingénue, tyro, newbie, neophyte _I am a bit of a greenhorn in the kitchen, but I am a fast learner and expect to be cooking like a pro in no time._  
 __greenhouse__ _n_ :three::hammer: :es: invernadero  
 __greenlight__ _vt_ :two::hammer:  
+__greenmail__ _n, vt_  
 __greensward__ _n_ Surface layer of ground containing a mat of grass and grass roots. _Syn_ sod, turf  
 __greenwash<sup>1</sup>__ _vt_ To launder money; to obliterate the illegal sources of money by moving it through a variety of financial institutions. _It was shown in court that the mayor had been involved in greenwashing some of the bribe money._  
 __greenwash<sup>2</sup>__ _n_  
@@ -8311,7 +8323,7 @@ __grubstake__ _n_ :two: Supplies or funds advanced to a mining prospector or a p
 __grudge<sup>1</sup>__ _v_ :three: (grudging)  
 __grudge<sup>2</sup>__ _n_ :nine: (grudges) A deep-seated feeling of resentment or rancor: _bears a grudge about the accident._ _I don’t hold any grudges._ _Holding a grudge._ :es: rencor  
 __grudgeful__ _adj_ /ˈɡrʌdʒfʊl/  
-__grudging__ _adj_ _That behavior had won the soldier’s respect, and grudging affection._  
+__grudging__ _adj_ :two: /GRUH-jing/ Grudging is an adjective used to describe something that is said, done, or given unwillingly or reluctantly. It can also describe someone who is unwilling or reluctant to do something. _That behavior had won the soldier’s respect, and grudging affection._  
 __grudgingly__ _adv_ :five::hammer:  
 __gruel__ _n_ :three::hammer:  
 __grueling__ _adj_ :six: Physically or mentally demanding to the point of exhaustion: _a grueling campaign._ :es: duro, penoso; agotador  
@@ -8409,6 +8421,7 @@ __gusseted__ _adj_ _Gusseted underarms._
 __gussets__  
 __gussied up__ _v_  
 __gussy__ _v_ _slang_ To dress or decorate elaborately; adorn or embellish: _gussied herself up in sequins and feathers._  
+__gustatory__ _adj_ /GUHS-tuh-TOR-ee/ [:scroll: From Latin gustare (to taste)] Relating to the sense of taste.  
 __gusted__ _v_ _The rain gusted against the windows._  
 __gusto__ _n_ :three: __1__ Vigorous enjoyment; zest: _The children jumped into the swimming pool with gusto._  
 __gut__ _vt_ :two::hammer: _Trump could gut the agency’s budget._  
@@ -8606,7 +8619,7 @@ __hardened computer__ _n_ A hardened computer refers to a system that has underg
 __hardhat__ _n_  
 __hardier__  
 __hardihood__ _n_ The trait of being willing to undertake things that involve risk or danger. _Syn_ boldness, daring  
-__hardline__ _adj_ :four::hammer: (hard-line) _The US hardline policy on illegal immigration._ _A more hard-line position._  
+__hardline__ _adj_ :six::hammer: (hard-line) _The US hardline policy on illegal immigration._ _A more hard-line position._  
 __hardly ever__  
 __hardpan__ _n_ :two::hammer: _Hardpan dirt yards._  
 __hardscrabble__ _adj_ Providing or yielding meagerly in return for much effort: _a hardscrabble existence._  
@@ -8649,7 +8662,7 @@ __hassle<sup>1</sup>__ _n_ :four::hammer: __2__ A great deal of trouble; difficu
 __hassle<sup>2</sup>__ _v_ :three::hammer: _Somewhere there are poeple hassling with memos, deadlines, and traffic._  
 __haste__ _n_  
 __hasten__ _v_ :six::mute:[has~~t~~en]:hammer: (hastened, hastening)  
-__hastily__ _adv_ _A hastily arranged news conference._  
+__hastily__ _adv_ :two: In a hurried or hasty manner. _A hastily arranged news conference._ _Syn_ hurriedly, in haste  
 __hasty__ _adj_ :four::hammer: _A hasty decision._  
 __hat off__ _n_ (hats off) _Hats off to Jane._  
 __hat tip__ _n_ (tipping hat) An act of tipping or doffing one’s hat as a cultural expression of recognition, respect, gratitude, greeting, or simple salutation and acknowledgement between two persons.  
