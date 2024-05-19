@@ -34,6 +34,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [George Carlin](https://www.youtube.com/results?gl=US&search_query=George+Carlin)
 - [Gilbert Gottfried](https://www.youtube.com/results?gl=US&search_query=Gilbert+Gottfried)
 - [Groucho Marx](https://www.youtube.com/results?gl=US&search_query=Groucho+Marx)
+- [Ismo](https://www.youtube.com/results?gl=US&search_query=Ismo)
 - [Jack Benny](https://www.youtube.com/results?gl=US&search_query=Jack+Benny) portrayed "that great, great Polish actor Joseph Tura."
 - [James Corden](https://www.youtube.com/results?gl=US&search_query=James+Corden) battled Adam Lambert to become Queen frontman.
 - [Jason Mantzoukas](https://www.youtube.com/results?gl=US&search_query=Jason+Mantzoukas)
