@@ -1,4 +1,5 @@
 __(all) kidding aside__ In all seriousness; being frank for a moment.  
+__(it’s) (a)bout time__  
 __(the) clock is ticking__  
 __a balancing act__  
 __a different kettle of fish__ Any issue or matter that is entirely different in scope, description, or nature from that which was just being discussed.  
@@ -9,20 +10,27 @@ __a kick at the can__ An opportunity to do, try, or achieve something. Primarily
 __a soft spot__ A particular fondness or affection for someone or something, often for reasons that hard to understand or articulate.  
 __a total flop__ A colloquial term used to describe something that has been a complete failure or disappointment.  
 __across the board__  
+__all aboard__ A call for all passengers to board a mode of transportation, especially a train.  
 __all over the place__ :two::hammer:  
+__at a crossroads__  
 __at every turn__  
 __at the end of the day__ :two::hammer:  
 __back on (one’s) feet__  
 __back to square one__  
+__bait and switch__ A deceptive commercial practice in which customers are induced to visit a store by an advertised sale item and then are told that it is out of stock or that it is far inferior to some more expensive item.  
 __bank on__  
 __be kicked upstairs__ To be promoted to a higher role or position in a company that has little actual responsibility or authority. _John was kicked upstairs to an assistant manager position so he would stop griping about his pay._  
 __be on track__ To progress or develop as planned, scheduled, or expected. _Everyone in our entire department is on track to meet their sales quotas for the year._  
+__bedrock__ __1__ _n_ Fundamentals; solid facts. _Let’s get down to bedrock and quit wasting time._ __2__ _mod_ Fundamental. _You’ve been avoiding the bedrock issues all your life._  
 __beef up__  
 __bird-dog__  
 __bogart__  
 __boodle__ Something that has been obtained through criminal activity; loot or booty. _Wow, all of this boodle came from one robbery, huh?_  
 __booty__  
 __bounce into (someone or something)__  
+__breather__ _n_ A rest period; a lull. (A chance to catch one’s breath.) _As soon as we’ve had a breather, it’s back to work._  
+__brew (something) up__  
+__brew up (something)__  
 __bunco__ (bunko) In the context of Ellroy’s work, “bunco” is often used to describe the activities of con artists, swindlers, and other criminals who use deceitful tactics to obtain money, property, or other valuables from their victims.  
 __bury the hatchet__  
 __by all accounts__ According to the information that is available; based on what people are saying.  
@@ -38,6 +46,7 @@ __come to the table__ To meet in order to negotiate or discuss how to resolve a 
 __connect the dots__  
 __cough up__  
 __crack a joke__  
+__cross the aisle__  
 __cross-examine (someone)__  
 __daily grind__ :dart: One’s daily work routine, especially when it is tiresome. _I’m so thrilled to be off next week—I really need a break from the daily grind._  
 __dead on (one’s) feet__  
@@ -45,8 +54,11 @@ __diss__
 __doom and gloom__  
 __drag (someone) kicking and screaming__ To force someone to go somewhere or do something against their will, especially when they protest against it vehemently and/or at great length. _I really thought Mike would be perfect for that job, but I had to drag him kicking and screaming into an interview for it._ _Every summer we drag our kids kicking and screaming to their grandparents’ house in the countryside._  
 __drive home__  
+__dying to (do something)__ Eager and excited to do something. _The kids were dying to go on another roller coaster._  
+__elephant in the room__  
 __empty nester__  
 __fairy tale__  
+__fight the good fight__  
 __fine-tune__  
 __fingers crossed__  
 __finish line__  
@@ -62,11 +74,13 @@ __flaky__
 __flat-out__  
 __flip (one) the bird__ To raise the middle finger (a rude gesture of anger or displeasure) at one.  
 __float an idea__ To suggest something in order to gauge interest in it or others’ perception of it.  
+__food coma__  
 __for a living__ In order to earn one’s primary income. _Roy runs a deli for a living._  
 __for good reason__  
 __for good__ __1__ Permanently; indefinitely; forever.  
 __for kicks__ Only for the sake of fun, excitement, or distraction.  
 __for lack of a better word__  
+__for one__  
 __for real__ _informal_ Used to assert that something is genuine or is actually the case.  
 __for show__ Done merely for the sake of appearance; not genuine or sincere.  
 __for the birds__ :two::hammer:  
@@ -93,6 +107,7 @@ __game__
 __game-changer__  
 __get (something) in order__ __3__ To arrange or resolve something so that it is in the most proper, efficient state possible. _They brought in a consultant to help get the project in order._  
 __get a/the nod (for something)__  
+__get ahead of (someone or something)__  
 __get carried away__  
 __get done__  
 __get down to work__ To begin being serious about something; to begin attending to business or work at hand.  
@@ -100,6 +115,7 @@ __get into it__
 __get it (all) together__  
 __get on (one’s) nerves__ To irritate, grate on, or exasperate one.  
 __get past (someone or something)__  
+__get the boot__  
 __get the picture__  
 __get wind of (something)__  
 __ghost__ _slang_  
@@ -120,6 +136,7 @@ __go down the rabbit hole__
 __go down the toilet__ To fail; to be ruined or destroyed; to be squandered or wastefully discarded.  
 __go for (something)__  
 __go into overdrive__ To start working very hard or quickly.  
+__go off the rails__  
 __go overboard__ :two::hammer:  
 __go south__  
 __go to hell in a handcart__ To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin. _With this new president in office, our country is going to go to hell in a handcart!_  
@@ -134,12 +151,14 @@ __guilty pleasure__
 __guinea pig__  
 __gun for (someone or something)__  
 __gut check__ :dart: A moment in which one stops to seriously evaluate something or one’s current state. _I think we need to step back and have a gut check about our plan because I don’t think it’s going to work out the way we envisioned._  
+__gut-wrenching__  
 __Hail Mary__  
 __hard line__ __1__ _adj_ (hardline) Very strict or inflexible. In this usage, the phrase can be hyphenated or written as one word. __2__ _n_ Strict and inflexible view of or position on something.  
 __hard stop__  
 __hardliner__  
 __have (someone’s) number on it__ To be considered the agent or instrument of one’s fate, especially leading to death. _Those poor souls should have been safe in that trench, but it looks like that artillery shell had their number on it._  
 __have a trick up (one’s) sleeve__  
+__have done with (someone or something)__ :dart: To be finished with someone or something; to cease being involved with someone or something.  
 __have got it made__ To be in a comfortable situation or to be very likely to have success. _Living in that big house, earning a nice passive income from their investments—they’ve got it made._  
 __have it made__  
 __have no business (doing something)__ To have no legitimate reason, experience, or authority to do something. _Mom, you had no business eavesdropping on my phone call like that!_  
@@ -157,6 +176,7 @@ __hinky__
 __hit a wall__  
 __hit at (someone or something)__  
 __hit rock bottom__  
+__hit the ground running__  
 __hogwash__ :two::hammer:  
 __hold (one’s) nose__ __3__ By extension, to do something in spite of its unpleasant or illicit nature. _I don’t want to get fired, so I guess I’ll just have to hold my nose and do what he asks._  
 __hold (someone or something) in contempt__  
@@ -174,6 +194,7 @@ __in jeopardy__ In danger or at risk; imperiled.
 __in layman’s terms__ :two::hammer:  
 __in more ways than one__ In a number of ways. _I’m telling you, this idea of yours is a mistake in more ways than one._  
 __in one blow__ All at once, with a single decisive or powerful action.  
+__in one go__ All at one time or in one attempt. _We’ll never be able to carry all these boxes out in one go—we’ll have to make several trips._  
 __in order that__ So that; with the particular aim or purpose of.  
 __in overdrive__  
 __in place of (someone or something)__  
@@ -215,7 +236,7 @@ __just like that__
 __keen on (someone or something)__  
 __keep (one’s) slate clean__ To maintain an impeccable record; to refrain from committing any mistakes or wrongdoings.  
 __keep (one’s) socks on__ :dart: To remain patient and calm, especially when beginning to become angry or upset with impatience. Usually said as an imperative. _Yeah, yeah, keep your socks on! I’ll have the report finished by the end of the day!_  
-__keep (one’s)/an eye on (someone or something)__  
+__keep (one’s)/an eye on (someone or something)__ :two::hammer:  
 __keep (someone or something) in check__  
 __keep (someone) in the loop__ To keep someone informed about and/or involved in something, such as a plan or project, especially that which involves or pertains to a specific group.  
 __keep (something) straight (in one’s mind/head)__ To be able to understand something clearly and comprehensively; to keep the details of something clear in one’s mind.  
@@ -246,7 +267,7 @@ __lick (one’s) wounds__
 __life, the universe, and everything__ The question that pan-dimensional space-beings asked the computer Deep Thought in Douglas Adams’s book, _The Hitchhiker’s Guide to the Galaxy._ The computer took millions of years and came up with the answer 42. _Balancing risks is life, the universe, and everything._  
 __liminal__ _adj_ /ˈlɪmɪnəl/  
 __litmus test__  
-__live up to (something)__ :two::hammer: _Live up to the hype._  
+__live up to (something)__ :three::hammer: _Live up to the hype._  
 __living proof__  
 __loaded gun__ A situation or person that is dangerous or volatile. For example, a person might be described as a “loaded gun” if they are highly emotional or prone to outbursts.  
 __loosen up__  
@@ -259,7 +280,7 @@ __make (one’s) eyes pop (out)__
 __make (something) clear (to one)__ :two:hammer:  
 __make a difference__ :three::hammer:  
 __make a fuss__  
-__make a run for (someone or something)__ To run in order to escape something or to reach a destination quickly, perhaps before a certain time or before something happens.  
+__make a run for (someone or something)__ :two: To run in order to escape something or to reach a destination quickly, perhaps before a certain time or before something happens.  
 __make inroads (in/into something)__  
 ‌__make it__  
 __make matters worse__  
@@ -304,6 +325,7 @@ __off the hook__
 __off-kilter__  
 __oh boy__  
 __old school__  
+__on (one’s) (own) terms__ In the manner or timeframe that one prefers.  
 __on (one’s) watch__  
 __on (someone’s) behalf__  
 __on a daily basis__ Once or more each day.  
@@ -333,6 +355,7 @@ __out of commission__
 __out of place__  
 __out of pocket__  
 __out of the wood(s)__  
+__out of thin air__  
 __outed__  
 __over the moon__ Extremely happy. _I’ve been over the moon ever since I got engaged—I just can’t stop looking at my ring!_  
 __paint a (some kind of) picture (of something)__ :two::hammer:  
@@ -409,6 +432,7 @@ __run through (something)__ __4__ To guide one through or inform one of the proc
 __running high__ [for feelings] To be in a state of excitement or anger. _Feelings were running high as the general election approached._  
 __rush into (something)__  
 __scoop__  
+__scramble for (something)__  
 __second wind__ A renewed energy after a period of fatigue. _I planned to stop working at 9, but then I got my second wind and just kept going._  
 __see the light of day__  
 __seep in(to something)__  
@@ -441,22 +465,26 @@ __so much so that__
 __sound the alarm__  
 __spic__ :three::hammer:  
 __spring to mind__ :dart: To suddenly or immediately appear, materialize, or come to the forefront in one’s mind. _Mention OpenAI and ChatGPT springs to mind for most._  
+__square off__  
+__stack up__  
 __stand up for (oneself)__  
 __steamroll through__  
 __step in__  
+__stone cold__ Completely bereft of emotion or concern. Hyphenated if used as a modifier before a noun.  
 __streetwise__  
 __strike a (raw) nerve__ :two::hammer:  
 __sugar daddy__  
-__super-duper__  
+__super-duper__ :two::hammer: (super-dooper)  
 __supply and demand__ The amount of something available to purchase compared to the number of people who need or want to purchase it.  
 __swear by (someone or something)__  
 __swear in__  
 __sweetie pie__ A term of endearment, especially for a person or pet towards whom one feels tender love or affection.  
 __take (someone or something) for granted__  
 __take (someone, something, or some place) by storm__  
+__take a chance__ To try to do something that has a high probability of having a negative or unfortunate outcome. probability of having a negative or unfortunate outcome.  
 __take a crack at (something)__ To attempt (to do) something; to take a turn trying (to do) something.  
 __take a/the bullet (for someone)__  
-__take center stage__ To be the main focus.  
+__take center stage__ :two: To be the main focus.  
 __take notice (of someone or something)__  
 __take the heat__  
 __take__ __2__ \_noun, informal\_ One’s reaction to, impression of, or opinion about something.  
@@ -471,10 +499,13 @@ __the Midas touch__
 __the naked eye__  
 __there you go__  
 __this goes to show__ The phrase “this goes to show” is commonly used to indicate that a particular situation or example serves as evidence or proof of a broader point or principle. It is often employed to highlight a specific instance that demonstrates a general truth or conclusion.  
-__through thick and thin__  
+__this time around__  
+__through thick and thin__ :two::hammer:  
+__throw (one) a curveball__  
 __throw shade__ _slang_ To subtly issue insults or expressions of disapproval.  
 __tick away__  
 __tight race__  
+__tight__ __4__ _mod._ Cool; super. _His new car is tight!_  
 __time and (time) again__ :two::hammer:  
 __to say the least__  
 __too little too late__  
@@ -483,6 +514,7 @@ __trash talk__
 __tread carefully__  
 __trickle down__ __2__ To distribute, pass, or diffuse to people lower on a hierarchical structure.  
 __true believer__ One who passionately supports a cause or concept.  
+__turn (something) on its head__  
 __turn heads__ :two::hammer:  
 __twist (one’s) arm__ To pressure or force one into doing something.  
 __U-turn__ __2__ By extension, any sudden and drastic reversal, as of opinion, policy, intention, fortune, trend, etc.  

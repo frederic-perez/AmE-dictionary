@@ -1,3 +1,19 @@
+__analysis paralysis__ _n_ (paralysis by analysis) State of over-analyzing which leads to decision delay and worse outcome.  
+__apprehend__ _v_ :pencil2:  
+__arduous__ _adj_ Demanding great effort or labor; difficult. _Syn_ backbreaking, grueling, laborious, toilsome, punishing, hard, heavy  
+__blunt__ _v_  
+__buffet__ _n_  
+__cholecystectomy__ _n_  
+__complacency__  
+__congenial__ _adj_  
+__drawn-out__ _adj_ Relatively long in duration; tediously protracted.  
+__endeavor__ _v_  
+__endocarditis__ _n_ Inflammation of the endocardium.  
+__equitable__ _adj_ Characterized by fairness; just and right; impartial; unbiased.  
+__excited delirium__ _n_ (agitated delirium)  
+__flagship__  
+__flint__ _n_ __2b__ A small solid cylinder of a spark-producing alloy, used in lighters to ignite the fuel.  
+__flower__ _v_  
 __heartfelt__  
 __heft__ _n_  
 __homage__ _n_ /AH-mij/ An homage is something that is done to honor someone or something. It is often used with the word pay (as in “pay homage”) to mean “to respect or honor.”  
@@ -28,11 +44,13 @@ __la-la land__ _n_ _slang_ __1__ A state of being out of touch with reality. __2
 __leer__ _vt_ /lɪər/ To look with a sideways or oblique glance, especially suggestive of lascivious interest or sly and malicious intent: _Go away! I can’t concentrate with you leering at me._  
 __leery__ _adj_ Suspicious or distrustful; wary: _was leery of aggressive salespeople._ _Syn_ mistrustful, suspicious, untrusting, wary  
 __leptospirosis__ _n_  
+__leverage__ _v_ _You can leverage the win32gui package in Python to target specific windows for capture._ _Syn_ take advantage of  
 __liable__ _adj_  
 __lightsaber__ _n_  
 __liminal__ _adj_  
 __lip liner__ _n_ (lip liner)  
 __listless__ _adj_ Marked by low spirits; showing no enthusiasm. _Syn_ dispirited  
+__litigation__ _n_  
 __livid__ _adj_ __3__ _informal_ Angry or furious.  
 __lucrative__ _adj_  
 __lycanthrope__ _n_ A monster able to change appearance from human to wolf. _Syn_ werewolf, wolfman, loup-garou  
@@ -41,6 +59,7 @@ __massive__ _adj_
 __Mattel__ _n_ A relatively rare last name. It is most commonly found in France, according to one source.  
 __melee__ _n_ /MAY-lay/ _Melee_ refers to a confused fight or struggle, especially one involving hand-to-hand combat.  
 __Midas__ _n_ /ˈmaɪdəs/  
+__misaligned__ _adj_  
 __misconception__ _n_  
 __mismatch__  
 ‌__monster truck__ _n_  
@@ -53,6 +72,7 @@ __nonpartisan__ _adj_
 __obstruction of justice__ _n_ The criminal offense of intentionally hindering or interfering with the processes of law.  
 __on-site__  
 __onboard__ _adv_ __2__ Into a state of participation of support for an effort.  
+__onlooker__ _n_  
 __opening statement__  
 __orphan drug__ _n_ A drug that remains undeveloped or is neglected because of limited potential for commercial gain.  
 __overall__  
@@ -104,11 +124,13 @@ __scour__ _v_
 __security__ _n_ /sɪˈkyʊər ɪ ti/  
 __seminal__ _adj_  
 __sendoff__ _n, v_  
+__sequester__ _v_ /sih-KWESS-ter/ __The jury was sequestered until a verdict was reached.__  
 __severance__ _n_  
 __shelter__ _v_  
 __shimmy__ _v_  
 __showdown__ _n_  
 __single-handed__  
+__singsongy__ _adj_  
 __Situation Room__ _n_ (John F. Kennedy Conference Room)  
 __sizable__ _adj_ :astonished: Of considerable size; fairly large.  
 __skewer__ _vt_ __2__ To ridicule or criticize harshly: _a reviewer who skewered the tedious movie._  
@@ -117,6 +139,7 @@ __skittish__ _adj_
 __sleazy__ _adj_ :dart: __1b__ Dishonest or corrupt; disreputable: _Some sleazy characters hang around casinos._  
 __slothful__ _adj_  
 __smitten__ _adj_  
+__snub-fighter__ _n_ The term _snub-fighter_ originates from its use in Star Wars novels to describe small starfighters like the Z-95 Headhunter and T-65B X-wing. The term “snubÆ likely refers to the short range and limited capabilities of these fighters compared to larger ships.  
 __snug__ _adj, v_  
 __Special Olympics__ _n pl_  
 __spew__ _v_  
@@ -142,11 +165,13 @@ __tendentious__ _adj_ /ten-DEN-shus/ _Tendentious_ is a formal word used disappr
 __tentative__ _adj_  
 __themself__ _pron_ :dart: _Just after the jury was seated, emergency crews responded to a park outside the Manhattan courthouse, where a person had set themselves on fire._  
 __thought leader__ _n_ A person, organization, publication, etc. regarded as an authoritative source of new ideas or intellectual trends.  
+__thoughtless__ _adj_  
 __tidbit__ _n_  
 __timecard__ _n_  
 __Tipp-Ex__ _n_ /ˈtɪp.eks/  
 __trample__ _v_  
 __triangulation__ _n_ /try-ang-gyuh-LAY-shuhn/ __2__ Positioning between two extremes, especially in politics.  
+__trustworthy__ _adj_  
 __truth-telling__  
 __truthful__ _adj_  
 __tryst__ _n_  
@@ -159,6 +184,7 @@ __ungrateful__ _adj_
 __unmissable__ _adj_  
 __unnerving__ _adj_ /ʌnˈnɜːvɪŋ/ Making one feel worried or uncomfortable.  
 __unsavory__ _adj_  
+__untapped__ _adj_ __2__ Not utilized: _untapped resources._  
 __unwavering__  
 __vet__ _v_ :two: __2__ :dart: To subject to thorough examination or evaluation: _vet a manuscript._  
 __vicarious__ _adj_ /vye-KAIR-ee-us/ A _vicarious_ emotion or experience is one felt by watching, hearing about, or reading about someone else rather than by doing something yourself. _He felt a vicarious thrill as his daughter crossed the stage to accept her diploma._  
@@ -173,8 +199,11 @@ __wary__ _adj_
 __watermelon__  
 __weaponize__  
 __weather__ _v_  
+__whereabouts__  
 __whistleblower__  
+__whooping cough__ _n_  
 __wordy__ _adj_  
 __worked up__ _adj_ Agitated or excited. Excessively affected by emotion. _She was worked up about all the noise._  
 __workforce__ _n_ (work force)  
+__zither__  
 __zoolatry__ _n_ /zo-OL-uh-tree/ [:scroll: From Greek zoo- (animal) + -latry (worship)] __1__ The worship of animals. __2__ Extreme devotion to animals, for example, to one’s pets.  
