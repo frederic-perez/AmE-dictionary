@@ -581,6 +581,7 @@ __analemma__ _n_
 __analgesic__ _n_ A medicine used to relieve pain. _Syn_ anodyne, painkiller _An over-the-counter analgesic is not going to suffice for this pain._  
 __analogue__ _n_ Something that bears an analogy to something else. _Syn_ parallel _Surimi is marketed as an analogue of crabmeat._  
 __analogy__ _n_ An analogy is a comparison between two similar things, typically using figurative language. Metaphors and similes—more on them later—are usually considered to be types of analogies. Sometimes, analogies are considered to be a unique device that is a comparison that explains itself; basically, a complex metaphor or long simile. Example: Life is like a box of chocolates: you never know what you are going to get.  
+__analysis paralysis__ _n_ (paralysis by analysis) State of over-analyzing which leads to decision delay and worse outcome.  
 __analyst__ _n_ :pencil2:  
 __anaphora__ _n_ :four: Anaphora is the repetition of a word or words at the start of phrases, clauses, or sentences. Example: I came, I saw, I conquered. Martin Luther King Jr’s “I Have A Dream” speech is a classic example of anaphora.  
 __anaphylactic__ _adj_  
@@ -784,7 +785,7 @@ __appraiser__ _n_ :es: tasador
 __appraisingly__  
 __appreciable__ _adj_ Capable of being perceived or measured.  
 __appreciate__ _v_ :pencil2: _I appreciate it._  
-__apprehend__ _v_  
+__apprehend__ _v_ :pencil2::two::hammer:  
 __apprehension__ _n_ :five::pencil2::hammer:  
 __apprehensive__ _adj_ :two::dart: Very nervous.  
 __apprentice<sup>1</sup>__ _n_ :three::hammer:  
@@ -846,7 +847,7 @@ __archway__ _n_
 __arctophile__ _n_ :astonished: A person who collects or is very fond of teddy bears. _Tom is an arctophile._  
 __ardent__ _adj_ :two::hammer: _He was one of her most ardent suitors._  
 __ardor__ _n_ :two: Intensity of emotion, especially strong desire, enthusiasm, or devotion. _Syn_ passion Feelings of great warmth and intensity. _Syn_ fervency, fire _He spoke with great ardor at the rally, inspiring the crowd with his passionate words._  
-__arduous__ _adj_ :three: /AHR-juh-wus/ Arduous is an adjective used to describe something that is very difficult or strenuous.  
+__arduous__ _adj_ :four: /AHR-juh-wus/ Arduous is an adjective used to describe something that is very difficult or strenuous. Demanding great effort or labor; difficult. _Syn_ backbreaking, grueling, laborious, toilsome, punishing, hard, heavy  
 __arena__ _n_ :two::hammer: _In the professional and personal arenas._  
 __Argentina__ _n_ _Syn_ the Argentine  
 __Argentine__ _n_ :two::hammer::mega: /ˈɑr dʒənˌtin, -ˌtaɪn/ _The pope is an Argentine._  
@@ -1941,7 +1942,7 @@ __bluff<sup>3</sup>__ _adj_ __1__ Good-naturedly frank and hearty. __2__ (Physic
 __blunder<sup>1</sup>__ _n_ _I’ve made a lot of computer blunders over de years._  
 __blunder<sup>2</sup>__ _v_ __1__ To make a mistake in; botch: _would-be thieves blundering a break-in._ __2__ To move clumsily or haltingly. __3__ To utter (something) stupidly or thoughtlessly.  
 __blunt<sup>1</sup>__ _adj_ :five: A blunt object is rounded — it isn’t very pointy. A blunt comment is candid — it isn’t very subtle. When we blunt things we make them less lively, sharp, or intense. Blunt and blunder (“make a stupid mistake”) may have the same origins — the Old Norse blundra, meaning “to shut one’s eyes.” So don’t be blunt (“dull” or “obtuse”) — here are a few things you probably don’t want to do: (1) use a blunt (“dull”) knife to cut your tomatoes; (2) make a blunt (“outspoken”) comment that might hurt someone’s feelings; or (3) blunt (“deaden”) the sound of your favorite music by sticking cotton balls in your ears. _A really blunt tool._  
-__blunt<sup>2</sup>__ _v_ :four: (blunting) __1__ To dull the edge of (a knife, for example). __2__ To make less effective; weaken: _blunting the criticism with a smile._ _He blunted the attacks._  
+__blunt<sup>2</sup>__ _v_ :five: (blunting) __1__ To dull the edge of (a knife, for example). __2__ To make less effective; weaken: _blunting the criticism with a smile._ _He blunted the attacks._  
 __bluntly__ _adv_ :two::hammer: _“We haven’t got the money,” Ingold responded bluntly._  
 __blurb__ _n_ :four: A brief testimonial or excerpt of a review, as on a book jacket. _Anonymous titles and blurbs had graced the front cover._ :es: comentario de sobrecubierta  
 __blurt__ _v_ :four: (blurting) /bləːt/ To say something suddenly and without thinking carefully enough. _Syn_ utter suddenly, exclaim, tell, babble, jabber _She blurted it out before I could stop her._  
@@ -2418,7 +2419,7 @@ __buff<sup>2</sup>__ _adj informal_ :three: _(of a person or their body)_ In goo
 __buff<sup>3</sup>__ _v_ :three::hammer: (buffed) _Joel placed the award on his piano and buffed it._  
 __buffalo__ _n_ :two::hammer: (_n pl_ buffalo or buffaloes or buffalos)  
 __buffer__ _vt_ :two::hammer:  
-__buffet<sup>1</sup>__ _n_ _A ten-dollar buffet._  
+__buffet<sup>1</sup>__ _n_ :two::hammer: _A ten-dollar buffet._  
 __buffet<sup>2</sup>__ _v_ :five::hammer: (buffeted) _The country has been buffeted by civil unrest._  
 __buffoon__ _n_ :dart::three: A person given to clowning and joking. _Syn_ merry andrew, clown, goof, goofball  
 __buffoonery__ _n_ Acting like a clown or buffoon. _Syn_ clowning, harlequinade, prank, frivolity  
@@ -3329,6 +3330,7 @@ __choke<sup>1</sup>__ _n_ :two::hammer: _A team of choke artists._
 __choke<sup>2</sup>__ _v_ _Why do we choke under pressure?_  
 __chokehold__ _n_ :two: __1__ The act of holding a person’s neck across the windpipe, esp from behind using one arm. A restraining move in which one person seizes another around the neck in a tight grip, typically from behind. _Right now, Big Tech has a chokehold on AI._ __2__ Complete power or control: _the chokehold the mob has had on the town._  
 __choker__ _n_ _A velvet choker._  
+__cholecystectomy__ _n_  
 __choler__ _n_ __1__ An irritable petulant feeling. _Syn_ crossness, fretfulness, fussiness, peevishness _I felt quite amused at his unwarranted choler, and while he stumped indignantly up and down I fell to dwelling upon the romance of the fog._ __2__ A strong emotion; a feeling that is oriented toward some real or supposed grievance. _Syn_ anger, ire  
 __chomp__ _v_ :two::hammer: _He chomped his cigar._  
 __chomping__ _n_ :two::hammer:  
@@ -3829,7 +3831,7 @@ __compelling__ _adj_ :seven: Compelling means attractive, or irresistible, or re
 __compendious__ _adj_ /kum-PEN-dee-us/ __1__ Concise. _The book is fairly short and provides a compendious account of the war._ __2__ Comprehensive. _The teacher has a compendious knowledge of the subject._  
 __compendium__ _n_ A list or collection of various items. _Syn_ collection  
 __compensable__ _adj_ Being such as to entitle or warrant compensation. _Syn_ remunerative, paying, salaried, stipendiary _Once I traded my unpaid internship for a compensable job, I was able to move out of my parents’ house into a place of my own._  
-__complacency__  
+__complacency__ _n_ :two::hammer:  
 __complacent__ _adj_ :five: Self-satisfied; smug; unbothered: _He is too complacent to make changes._  
 __complaisance__ _n_ A disposition or tendency to yield to the will of others. _Syn_ deference, compliancy, obligingness, compliance  
 __completion__ _n_  
@@ -3951,7 +3953,7 @@ __confuzzle<sup>1</sup>__ _n_ _slang, childish_ A state of confusion or puzzleme
 __confuzzle<sup>2</sup>__ _v_ _slang, childish_ To confuse or puzzle.  
 __conga line__ _n_ A line of people in single file performing the conga dance.  
 __conga__ _n_ :two: __1__ A dance of Latin-American origin in which the dancers form a long winding line. __2__ The music for this dance. __3__ A conga drum.  
-__congenial__ _adj_ :five: /kun-JEEN-yul/ __1__ Pleasant. _The office is a congenial place to work._ __2__ Friendly. _The tour guide was very congenial._ _Everybody will feel at home with the congenial waitresses and bartenders._ __3__ Suitable. _The grapes thrive in the congenial climate._  
+__congenial__ _adj_ :six: /kun-JEEN-yul/ __1__ Pleasant. _The office is a congenial place to work._ __2__ Friendly. _The tour guide was very congenial._ _Everybody will feel at home with the congenial waitresses and bartenders._ __3__ Suitable. _The grapes thrive in the congenial climate._  
 __congeries__ _n_ (used with a sing. verb) A sum total of many heterogeneous things taken together. _Syn_ conglomeration, aggregate  
 __congest__ _v_  
 __congested__ _adj_ __3__ (of the nose) Blocked with mucus.  
@@ -5657,7 +5659,7 @@ __drawbridge__ _n_ :three::hammer:
 __drawingrooms__  
 __drawl<sup>1</sup>__ _v_ :three::hammer: (drawled)  
 __drawl<sup>2</sup>__ _n_ :seven: The way of speech of someone who drawls. _A slow Southern drawl._ _He was from Texas and spoke with a slight drawl._  
-__drawn-out__ _adj_ :two: Protracted. _Are you tired of long and drawn-out meetings that seem to go nowhere?_  
+__drawn-out__ _adj_ :three: Relatively long in duration; tediously protracted. Protracted. _Are you tired of long and drawn-out meetings that seem to go nowhere?_  
 __drawstring__ _n_  
 __dray<sup>1</sup>__ _n_ :three::hammer: (drays) _Dray horse._  
 __dray<sup>2</sup>__ _v_ :two::hammer:  
@@ -6163,9 +6165,10 @@ __endarken__ _vt_ /en-DARK-uhn/ To make dark, less clear, or gloomy.
 __endarterectomy__ _n_ :mega:  
 __endear__ _v_ :two: (endeared) To make beloved or very sympathetic: _a couple whose kindness endeared them to friends._  
 __endearing__ _adj_ :eight: Inspiring affection or warm sympathy: _the endearing charm of a little child._ _It was so endearing._ _An endearing little grin._ _Syn_ lovable, adorable, cute, sweet, dear :es: entrañable  
-__endeavor__ _v_ :two: Attempt by employing effort. _Syn_ strive _The candidate promised to endeavor to improve the quality of life in the inner city, but once in office, she did nothing of the sort._  
+__endeavor__ _v_ :three: Attempt by employing effort. _Syn_ strive _The candidate promised to endeavor to improve the quality of life in the inner city, but once in office, she did nothing of the sort._  
 __endemic__ _adj_ /en-DEM-ik/  
 __endless__  
+__endocarditis__ _n_ Inflammation of the endocardium.  
 __endocrine__ _n_ :mega:  
 __endometriosis__ _n_ The presence of endometrium in areas other than the lining of the uterus, as on the ovaries, resulting in premenstrual pain.  
 __endometrium__ _n_ The glandular mucous membrane that lines the uterus.  
@@ -6304,7 +6307,7 @@ __equinox__ _n_ :six::mega::hammer:
 __equip__ _v_ :two::hammer::mega:  
 __equipment__ _n_ _The equipment was out of date._  
 __equipped__ _adj_ :two::hammer:  
-__equitable__  
+__equitable__ _adj_ :two: Characterized by fairness; just and right; impartial; unbiased.  
 __equitably__ _adv_ :es: de forma equitativa  
 __equity__ _n_ :three::hammer:  
 __equivocal__ _adj_ :two: /ih-KWIV-uh-kul/ __1__ Having two or more possible meanings. _Syn_ ambiguous, confusing __2__ Difficult to understand or explain. __3__ Uncertain. _The most recent clinical trial produced equivocal results._  
@@ -6447,6 +6450,7 @@ __exchequer__ _n_ /ɪksˈtʃɛkə/
 __excise__ _v_  
 __excise<sup>1</sup>__ _n_ :two::hammer: _Excise tax._ _The new law imposes an excise tax of 2.3% on the sale of medical devices._  
 __excise<sup>2</sup>__ _v_ (excised) To remove by or as if by cutting: _excised the tumor; excised two scenes from the film._  
+__excited delirium__ _n_ (agitated delirium)  
 __excommunicate__ _v_  
 __excommunication__  
 __excoriate__ _v_ :six: (excoriated, excoriating) To censure strongly. _Syn_ abrade, condemn, denounce _The newspaper printed an editorial that excoriated the administration for its inaction._ _Gay rights advocates excoriated the state’s actions._  
@@ -7043,7 +7047,7 @@ __flageolet__ _n_ A small flutelike instrument with a cylindrical mouthpiece, fo
 __flagged__ _v_ :two::hammer: _His appetite had flagged._  
 __flagon__ _n_ :three::hammer: (flagons) _A flagon of ale._ _A flagon of wine._  
 __flagrant__ _adj_ :four::hammer: _A flagrant foul._  
-__flagship__ _n_ :six: __1__ A ship that carries the fleet commander and flies the commander’s flag. __2__ The best or the most important of a group of things. _The flagship store._ _It has become another flagship event._  
+__flagship__ _n_ :seven: __1__ A ship that carries the fleet commander and flies the commander’s flag. __2__ The best or the most important of a group of things. _The flagship store._ _It has become another flagship event._  
 __flagstaff__  
 __flagstone__ _n_ :two::hammer: _Flagstone terraces._  
 __flah point__  
@@ -7141,7 +7145,7 @@ __flinch<sup>2</sup>__ _n_
 __flinders__ _n_ Bits, fragments, or splinters. _Syn_ slivers, splinters _The bullet blew the glass bottle into flinders._  
 __fling<sup>1</sup>__ _n_ __4__ A brief, casual sexual or romantic relationship.  
 __fling<sup>2/sup>__ _v_ :nine: (flinging, flung) __1__ To throw something carelessly or with a lot of force. Fling something over/across/onto etc.: _She flung a book across the room at me._ _His coat had been flung over the back of a chair._ _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._ __2__ To move your body or part of your body quickly, and with a lot of force. Fling something around/up/back etc.: _I flung my arms around him._ Fling yourself down/into/onto/to something: _Martin flung himself to the ground to stop the ball._ __3__ :dart: To quickly open a door, window, or curtain. Fling something open/back/off: _She flung open the curtains to let in the sunlight._ __4__ To say something to someone that is intended to hurt them. _Don’t start flinging accusations just because you’re upset._ __5__ To place or send suddenly and unceremoniously: _He was arrested and flung into prison._ __6__ To give unrestrainedly: _flung himself into music._  
-__flint__ _n_ :three::hammer: _You’ll discover ancient villages of brick and flint._ :es: sílex; piedra de encendedor  
+__flint__ _n_ :four::hammer: __2b__ A small solid cylinder of a spark-producing alloy, used in lighters to ignite the fuel. _You’ll discover ancient villages of brick and flint._ :es: sílex; piedra de encendedor  
 __flintily__  
 __flintlock__ _n_ :two::hammer: (flintlocks)  
 __flinty__ _adj_ :three: __1__ A flinty expression is unfriendly and without emotion. Showing unfeeling resistance to tender feelings. _Syn_ granitic, obdurate, stony __2__ Composed of, containing, or resembling flint, esp. in hardness. _Flinty soil._  
@@ -7195,6 +7199,7 @@ __flounder__ _vi_ :nine::m: /floun′dər, ˈflaʊndə/ (floundered, floundering
 __flourish<sup>1</sup>__ _n_ :four::hammer::astonished::camera: _A flourish of drums and cymbals._ _A flourish of proposals._  
 __flourish<sup>2</sup>__ _v_ _The trumpeters were flourishing bright pennants from their silver trumpets._  
 __flout__ _v_ :nine::m: (flouts, flouted, flouting) /flaʊt/ To ignore or disregard (a rule or convention, for example) in an open or defiant way. _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._ _Illegal campers who persist in flouting the law._ _Public flouting of ordinances was to blame._  
+__flower__ _v_  
 __flowerpot__ _n_ :two::hammer: _Clay flowerpot._  
 __flowing__ _adj_ __3__ Hanging freely or loosely. _Three people in flowing black robes._  
 __flown__ _v_ :two::hammer: _Fresh fish is flown in daily from all over the globe._ _The flag was flown at half mast._  
@@ -8758,7 +8763,7 @@ __heartbreak__ _n_ /ˈhɑːtˌbreɪk/ Intense and overwhelming grief, esp throug
 __heartedly__  
 __hearten__ _v_  
 __heartening__ _adj_ :dart: Causing cheerfulness; encouraging. _A heartening supper._ :es: alentador  
-__heartfelt__ _adj_ :seven: /ˈhɑrtˌfɛlt/ Deeply or sincerely felt; earnest. _Heartfelt sympathy._  
+__heartfelt__ _adj_ :eight: /ˈhɑrtˌfɛlt/ Deeply or sincerely felt; earnest. _Heartfelt sympathy._  
 __hearth__ _n_ :nine::m: __1__ The floor of a fireplace in a house and the area around it. _A log fire roaring in the hearth._ _Hearth repair._ __2__ Home symbolized as a part of the fireplace. _The fishing port of Jonqueres had 354 taxable hearths._ _Hearth tax._  
 __heartily__ _adv_ _A sentiment which I heartily applaud._  
 __heartland__ _n_ :two: The central or most important part of a country, area, or field of activity. _The nation’s heartland._  
@@ -8809,7 +8814,7 @@ __heedlessly__
 __heel<sup>1</sup>__ _n_ _A heel who learns how to be a good egg._  
 __heel<sup>2</sup>__ _v_  
 __Hefe Weizen__ _n_ :three: Wheat beer.  
-__heft<sup>1</sup>__ _n_ :two::hammer:  
+__heft<sup>1</sup>__ _n_ :three::hammer:  
 __heft<sup>2</sup>__ _v_ (hefted) _He hefted the cube experimentally._  
 __hefted up__  
 __hefty__ _adj_ :two::hammer:  
@@ -9076,7 +9081,7 @@ __Holy See__ _n_ :two: The see of the pope. :es: Santa Sede
 __Holy Sepulcher__ _n_ The sepulcher in which Christ’s body lay between burial and resurrection.  
 __Holy Week__ _n_ The week before Easter. Also called _Passion Week._  
 __Holy Writ__ _n_  
-__homage__ _n_ :three: /ˈhɒm ɪdʒ, ˈɒm-/ __1__ Formal acknowledgment by a vassal of allegiance to his lord under feudal law. __2__ Respect; reverence: _to pay homage to one’s forebears._  
+__homage__ _n_ :four: /ˈhɒm ɪdʒ, ˈɒm-/ /AH-mij/ __1__ Formal acknowledgment by a vassal of allegiance to his lord under feudal law. __2__ Respect; reverence: _to pay homage to one’s forebears._ An homage is something that is done to honor someone or something. It is often used with the word pay (as in “pay homage”) to mean “to respect or honor.”  
 __hombre__ _n_ _informal_ :two: An informal term for a youth or man. A man; a fellow.  
 __home furnishing__ _n_  
 __home ground__ _n_ _Syn_ habitat  
@@ -9408,6 +9413,7 @@ __iconoclast__ _n_ :three: /eye-KAH-nuh-klast/ Iconoclast originally referred to
 __iconoclastic__  
 __ID window__  
 __id__ _n_  
+__ID__ _vt_  
 __ideation__ _n_ :two::hammer:  
 __identical twin__ _n_ :three: Either of a pair of twins who develop from a single fertilized ovum and therefore have the same genotype, are of the same sex, and usu. resemble each other closely. Compare _fraternal twin._  
 __identical__ _adj_ /aɪˈdɛntɪkəl/  
@@ -9509,6 +9515,7 @@ __implacable__ _adj_ /im-PLAK-uh-bul/ Not capable of being appeased, significant
 __implausible__ _adj_ :two::hammer::mega: /ɪmˈplɔ zə bəl/  
 __implement__ _n_ :two: A utensil or tool, especially one with a specific purpose.  
 __implode__ _v_  
+__implore__  
 __importantly__ _adv_  
 __importune__ _v_ :two: /im-per-TOON/ To importune someone is to annoy or pester them with repeated questions or requests. Beg persistently and urgently. _Syn_ insist  
 __impost__ _n_ __2__ The uppermost part of a column or pillar supporting an arch.  
@@ -9542,14 +9549,14 @@ __in the long run__
 __in__ _prep_ _Cuba’s team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._ _Jubilo scored in injury time_ _It was Lucas Mann, in aviator sunglasses._ _The ball is in their court._  
 __in-depth__ _adj_ :dart::two: Carefully worked out; detailed and thorough: _an in-depth study._ _He will conduct an in-depth review._  
 __in-fighting__ _n_  
-__in-house__ _adj, adv_ :five::pencil2::hammer: _In-house experts._ _An in-house system._  
+__in-house__ _adj, adv_ :six::pencil2::hammer: _In-house experts._ _An in-house system._  
 __in-law__ _n_ (in-laws) _A room for the in-laws._  
 __in-tray__ _n_ _What’s in the in-tray of NHS England’s new chief executive?_  
 __in-your-face__ _adj_ _An in-your-face farewell._  
 __inadequacy__ _n_ :two::hammer:  
 __inadvertent__ _adj_ :four: Happening by chance or unexpectedly or unintentionally. _Inadvertent arterial punctures._  
 __inadvertently__ _adv_ :two::hammer:  
-__inalienable__ _adj_ :two: That cannot be transferred to another or others. _Syn_ unforfeitable _When he decided to fight for his inalienable rights, he did not realize that his actions would go down in history._  
+__inalienable__ _adj_ :three: /in-AY-lee-uh-nuh-bul/ Something considered inalienable is impossible to take away or give up. That cannot be transferred to another or others. _Syn_ unforfeitable _When he decided to fight for his inalienable rights, he did not realize that his actions would go down in history._  
 __inane__ _adj_ :nine::m::mega: Empty, pointless, lacking sense, complacently foolish: _I was bored by the lecturer’s inane presentation._ _Asking inane questions._ _Syn_ asinine, fatuous, vacuous, mindless  
 __inanely__ _adv_ :two::hammer:  
 __inanition__ _n_  
@@ -9566,6 +9573,7 @@ __inbound<sup>3</sup>__ _v_
 __inbox__ _n_ :mega:  
 __inbreeding__ _n_  
 __incalescent__  
+__incantation__ _n_ A ritual recitation of words or sounds believed to have a magical effect. _Syn_ conjuration  
 __incarcerate__ _vt_ :four::hammer: /in-KAHR-suh-rayt/ /ɪnˈkɑr səˌreɪt/  
 __incarceration__ _n_ The act of imprisoning someone or the state of being imprisoned.  
 __incarnate<sup>1</sup>__ _adj_ /in-KAHR-nuht/nit/nayt/ __1__ Embodied in flesh. __2__ Personified. __3__ Flesh-colored; blood red.  
@@ -9625,7 +9633,7 @@ __indenture__ _v_
 __indentured__  
 __index card__ _n_  
 __Indian paintbrush__ _n_  
-__indict__ _v_ :seven::hammer: (indicted :mega:)  
+__indict__ _v_ :eight::hammer: (indicted :mega:)  
 __indictment__ _n_ :eight::hammer::mega: /ɪnˈdaɪt mənt/  
 __indigen__ _n_ One that is native or indigenous to an area. _Syn_ aborigine, native  
 __indigence__ _n_ Poverty; neediness. _Syn_ beggary, pauperism, penury, need  

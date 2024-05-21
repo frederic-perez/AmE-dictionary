@@ -1,28 +1,3 @@
-__analysis paralysis__ _n_ (paralysis by analysis) State of over-analyzing which leads to decision delay and worse outcome.  
-__apprehend__ _v_ :pencil2:  
-__arduous__ _adj_ Demanding great effort or labor; difficult. _Syn_ backbreaking, grueling, laborious, toilsome, punishing, hard, heavy  
-__blunt__ _v_  
-__buffet__ _n_  
-__cholecystectomy__ _n_  
-__complacency__  
-__congenial__ _adj_  
-__drawn-out__ _adj_ Relatively long in duration; tediously protracted.  
-__endeavor__ _v_  
-__endocarditis__ _n_ Inflammation of the endocardium.  
-__equitable__ _adj_ Characterized by fairness; just and right; impartial; unbiased.  
-__excited delirium__ _n_ (agitated delirium)  
-__flagship__  
-__flint__ _n_ __2b__ A small solid cylinder of a spark-producing alloy, used in lighters to ignite the fuel.  
-__flower__ _v_  
-__heartfelt__  
-__heft__ _n_  
-__homage__ _n_ /AH-mij/ An homage is something that is done to honor someone or something. It is often used with the word pay (as in “pay homage”) to mean “to respect or honor.”  
-__ID__ _vt_  
-__implore__  
-__in-house__  
-__inalienable__ _adj_ /in-AY-lee-uh-nuh-bul/ Something considered inalienable is impossible to take away or give up.  
-__incantation__ _n_ A ritual recitation of words or sounds believed to have a magical effect. _Syn_ conjuration  
-‌__indict__  
 __injunction__ _n_ :two::hammer:  
 __invaginate__ _v_  
 __invective__ _n_ Denunciatory or abusive language. _Syn_ vituperation, vitriol  
