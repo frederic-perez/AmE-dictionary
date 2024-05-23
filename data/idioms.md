@@ -999,8 +999,10 @@ __breaking point__ :dart::six: The point at which an overworked or overburdened 
 __breakout moment__ A “breakout moment” is a term used to describe a pivotal point in someone’s career, when they suddenly become much more visible, successful, or well-known.  
 __breathe easily__ To relax or feel relieved, as after a period of stress or worry. _I can finally breathe easily now that I’m done my term paper—I had been working on that thing all day every day for weeks!_  
 __breathe new life__  
-__breather__ _n_ A rest period; a lull. (A chance to catch one’s breath.) _As soon as we’ve had a breather, it’s back to work._  
+__breather__ _n_ :two: A rest period; a lull. (A chance to catch one’s breath.) _As soon as we’ve had a breather, it’s back to work._  
 __breeding ground__  
+__brew (something) up__  
+__brew up (something)__  
 __brick by brick__ :two: Steadily and continuously in a step-by-step manner, especially the creation or destruction of something. Likened to erecting (or demolishing) a house or other building one brick at a time. _We built this business from nothing, brick by brick, until we had the largest retail chain in the city._  
 __brick wall__ _The 49ers continue to be a brick wall for opposing RBs._  
 __bridge the gap__ :two::hammer:  
@@ -1055,6 +1057,7 @@ __bummer__ :three: __3__ _adj_ Describing someone or something unpleasant. _Oh, 
 __bump and grind__ __3__ _v_ To dance in a manner characterized by aggressive and overtly sexualized hip movements, either by a single dancer or between two dance partners. _It was a little disconcerting to see teenagers bumping and grinding at the prom._  
 __bump heads with__ To clash with another person on a particular issue. _Monica and I are always bumping heads with each other about how to go about these reports because she wants to start writing, while I think we should research first._  
 __bump someone or something up__  
+__bunco__ (bunko) In the context of Ellroy’s work, “bunco” is often used to describe the activities of con artists, swindlers, and other criminals who use deceitful tactics to obtain money, property, or other valuables from their victims.  
 __bundle up__  
 __bunkum__ Nonsense or foolishness. _His explanation is total bunkum and doesn’t answer the question at all._  
 __bupkes__ In James Ellroy’s novels, “bupkes” is a Yiddish term that means “nothing” or “nonsense.” It’s often used to describe something that’s worthless or unimportant.  
@@ -1073,7 +1076,7 @@ __burst (one’s) bubble__
 __burst at the seams__ :two::hammer:  
 __burst through (something)__  
 __bury (one’s) head in the sand__  
-__bury the hatchet__ __1__ To make peace with someone.  
+__bury the hatchet__ :two: __1__ To make peace with someone.  
 __bush league__ :two: _slang_ Subpar or inept; lame. The phrase comes from minor league baseball, in which some teams played on unkempt fields bordered by bushes, or in rural, “bush” towns. _Their operation is pretty bush league—no professionalism at all._ _It was a bush league fuck-up._  
 __bust out__ _She clearly has something busting out._  
 __bust up__ _He had a way of saying things that busted us up._  
@@ -1099,10 +1102,10 @@ __buy__ _slang_ To believe or accept something as true or feasible without quest
 __buzz__ :two::hammer: _Buzzed the fuzz._  
 __by (oneself)__ :two::hammer:  
 __by a mile__ :two: By a large amount; by a lot. _We won that game by a mile! I think the final score was 10-1._  
-__by all accounts__ :dart::six: From all the reports (that are available); according to what everyone is saying. _According to all accounts, the police were on the scene immediately._ _By all accounts, it was a very poor performance._  
+__by all accounts__ :dart::seven: From all the reports (that are available); according to what everyone is saying. _According to all accounts, the police were on the scene immediately._ _By all accounts, it was a very poor performance._  
 __by all means__  
 __by and by__  
-__by and large__ :six::hammer:  
+__by and large__ :seven::hammer:  
 __by any chance__ :dart::two: Used as a polite emphasis to a request or question. Used especially in questions, to ask whether something is true, possible, etc: _Are you in love with him, by any chance?_ _Would you by any chance happen to know where the subway is from here?_  
 __by any means__  
 __by design__ :dart: Deliberately and purposefully; as one planned or intended. _I assure you that everything you saw has happened by design._  
@@ -1189,7 +1192,7 @@ __case in point__ :nine: A specific example of what one is talking about. An exa
 __case of the dropsy__ A fictitious “condition” characterized by continually dropping things from one’s hands. It is a play on the term “dropsy,” which was formerly used to denote the condition now known as edema (or oedema). _I’ve broken four or five plates since I started work. I guess I’ve got a bad case of the dropsy today._  
 __case out__ _slang_ To observe and examine someone or something, often to gain knowledge for a specific future purpose. A noun or pronoun can be used between “case” and “out.” _I cased my opponent out in preparation for the big fight._  
 __case the joint__ :three::hammer: (casing the joint)  
-__cash cow__ A product or business that always makes a lot of profit.  
+__cash cow__ :two: A product or business that always makes a lot of profit.  
 __cash in__ :six::hammer:  
 __cast a sheep’s eye__ To give a sideways glance or a suspicious look. _When I tried to feed the baby something new, she cast a sheep’s eye at it and then tried to smack it out of my hand._  
 __cast doubt__  
@@ -1212,6 +1215,7 @@ __catch (one) off guard__ :three::hammer:
 __catch (the) headlines__ To be featured on the headlines of news articles, as due to being particularly important, popular, fashionable, etc. _The pop star caught headlines yesterday after his latest run-in with police._  
 __catch a glimpse of (someone or something)__ To see someone or something very briefly or suddenly.  
 __catch a snooze__ :three: To sleep or take a nap, especially of a short duration. _I prefer getting the bus to work in the morning rather than driving, because it gives me a chance to catch a snooze on the way._  
+__catch and kill__ The media technique of suppressing a story by buying the exclusive rights to it, with a legally enforceable non-disclosure agreement, and then refusing to publish it.  
 __catch big air__ To jump into the air, especially in a vehicle or on sports equipment (e.g., a snowboard, skis, skateboard, bike, etc.). _I love this ski slope, you can catch some big air off some of its jumps!_  
 __catch fire__ __1__ Be ignited, as in _This wood is dry enough to catch fire._ __2__ Become inflamed with enthusiasm or passion, as in _His ideas caught fire all over the country._ _The magazine never quite caught fire._  
 __catch hell__ _I’d catch hell for it._  
@@ -1237,6 +1241,7 @@ __caught unaware(s)__ To be surprised by someone or something. _The clerk was ca
 __caught with your pants down__ To be found in an embarrassing situation.  
 __cause a stir__ :three: To incite trouble or excitement. _ChatGPT is the latest artificial intelligence (AI) chatbot to cause a stir._  
 __cautionary tale__ :three::hammer:  
+__cave in__  
 __chafe at (something)__ To feel or express annoyance in response to something. _Bruce chafed at the idea that the new hire he was training made more money than him._  
 __chafe at the bit__ :three: To be impatient and/or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws). _The crowd chafed at the bit to see the unveiling of the new building._  
 __chain reaction__ /CHAYN ree-ak-shuhn/ A series of events wherein the outcome of each instance specifically influences or causes the next. The phrase comes from the occurrence of such reactions in chemistry and physics. _Deciding to take a course studying James Joyce in college set up a chain reaction that ultimately led me to move to Ireland._  
@@ -1256,6 +1261,7 @@ __chase down__
 __chase the clouds away__  
 __chatterbox__ _informal_  
 __cheap out__ To choose a less expensive option or course of action in order to reduce cost, especially at the expense of quality or reliability. _A: “We’ve had to have so many repairs done to the house over the last year.” B: “Well, that’s what you get for cheaping out on building materials.”_  
+__cheat on (someone or something)__  
 __check all the boxes__ :two: Idiom used to describe the act of fulfilling all the requirements or conditions of something, often in the context of a survey, application, or list of criteria. _The movie _Thor_ checks all the boxes._  
 __check in on (someone or something)__  
 __check off__ :dart::nine: To mark someone or something as present, verified, or completed, as on a list. A noun or pronoun can be used between “check” and “off.” _Checking things off my to-do list is so satisfying._ _Thanksgiving weekend is a great time to check off some items from your family Christmas wish lists._ _According to Jim, the layer’s name checked out._ _Come check us out._ _So far everything checked out._ __9__ _v_ _slang_ To die. _Doctor, I’m not ready to check out yet, so I’m willing to try your most aggressive approach._  
@@ -1280,7 +1286,7 @@ __chillaxing__ _slang_ Relaxing. A portmanteau of “chilling” and “relaxing
 __chime in__ :five::hammer:  
 __chin up__ :dart::two: __1__ A phrase that encourages one to improve one’s mood, especially when sad or discouraged. _Come on, the project was not a total failure—chin up!_  
 __chip (away) at (something)__ :dart::two: __1__ Literally, to break off fragments of something. _We won’t be able to move this huge rock until we chip at it and make it smaller._ __2__ :dart: By extension, to complete small, incremental portions of a task. _I knew I wouldn’t be able to write 50 pages in one night, so I’ve been chipping away at this paper for a few weeks._  
-__chip away__ :dart::nine: __1__ To break off fragments of something. _We won’t be able to move this huge rock until we chip away at it and make it smaller._ __2__ To come off of something in small pieces. _The paint is so old that it has completely chipped away from this side of the house._ __3__ :dart: To complete small, incremental portions of a task. _Try not to get too overwhelmed about cleaning the house and just chip away at it one room at a time._  
+__chip away__ :dart::nine::m: __1__ To break off fragments of something. _We won’t be able to move this huge rock until we chip away at it and make it smaller._ __2__ To come off of something in small pieces. _The paint is so old that it has completely chipped away from this side of the house._ __3__ :dart: To complete small, incremental portions of a task. _Try not to get too overwhelmed about cleaning the house and just chip away at it one room at a time._  
 __chip in__ :two::hammer:  
 __chip on (someone) shoulders__ :nine::m::dart: [:sound: chip on his shoulder] (chip on his shoulder, chip on one’s shoulder) A disposition to quarrel. _Let’s walk into that meeting tomorrow with a chip on our shoulders._  
 __chitchat__ __2__ _n_ An instance of idle or casual chatter. _We’re just having a chitchat, come on in._  
@@ -1361,7 +1367,7 @@ __collect (one’s) wits__ :two: To try to calm oneself and think clearly and ra
 __collect dust__ :two: To be in a state of disuse for a prolonged period of time. _My father has lots of old trinkets and memorabilia collecting dust in the attic._ _Why do you want another video game console? You already have three collecting dust under the television!_  
 __collude with (someone or something)__  
 __come (a)round__ :three::hammer: __6__ To change one’s position or view on something. _He’ll never come around to our side now that you’ve insulted him!_  
-__come a long way__ :two: To make significant progress. Almost always used in the present perfect tense (“have/has come a long way”). _He can play entire songs now, and they sound pretty good! He’s really come a long way from when he could barely hold a guitar._  
+__come a long way__ :three: To make significant progress. Almost always used in the present perfect tense (“have/has come a long way”). _He can play entire songs now, and they sound pretty good! He’s really come a long way from when he could barely hold a guitar._  
 __come across something__  
 __come across__ :four::hammer:  
 __come again?__ :two::hammer:  
@@ -1376,6 +1382,7 @@ __come into play__ To become a factor in a particular situation. _Once personal 
 __come into question__ To become doubted, scrutinized, or a matter of serious discussion.  
 __come of age__  
 __come on__  
+__come out badly__ To result in something negative or unpleasant.  
 __come out of the woodwork__ To appear unexpectedly, or from unexpected places. _No one had anything negative to say when I first pitched this idea, but now people are coming out of the woodwork to criticize it._ _Ever since Liam won the lottery, his so-called relatives have been coming out of the woodwork._  
 __come out swinging__ To compete or defend someone or something passionately or aggressively. _After hearing so much opposition to his proposed construction project, the developer came out swinging at the town hall meeting._  
 __come out__  
@@ -1392,6 +1399,7 @@ __come to light__ :two: To be revealed or exposed.
 __come to terms with (someone or something)__ :nine::m: To begin to or make an effort to understand, accept, and deal with a difficult or problematic person, thing, or situation. _I should have the report ready for you by this afternoon, I just need to come to terms with this new software update first._ _I’ve tried, but I just can’t come to terms with Amy, she’s totally out of control!_  
 __come to terms__ :two: Come to terms (about someone or something), and come to terms (on someone or something) [for two or more people]: To reach an accord on someone or something. _Ed and Alice came to terms about money._ _They did not come to terms on the price._  
 __come to the fore__  
+__come to the table__ To meet in order to negotiate or discuss how to resolve a particular issue or situation.  
 __come to think of it__ :dart::two: _set phrase_ Used when one has had a sudden realization. _Yeah, come to think of it, Dave was at the party, too._ _Come to think of it, I haven’t seen too many bullshitters since the war started._  
 __come together__ :four::hammer:  
 __come-one-come-all__  
@@ -1408,7 +1416,7 @@ __competitive edge__ :two: Some aspect, factor, or strategy that gives a person,
 __comply with (something)__ To follow or adhere to a particular rule or regulation.  
 __concrete jungle__ :two: An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads. _After years living in that concrete jungle, I’m looking forward to being in a place with a bit of grass and friendly neighbors._  
 __confide in (one)__  
-__connect the dots__ :four::hammer:  
+__connect the dots__ :five::hammer:  
 __connect up__ To attach or link something to something else. _Let me just connect up these two cords, and then everything should be running again._  
 __conspicuous consumption__ :three: The lavish expenditure of money or acquisition of expensive items as a public display of one’s wealth or financial success. _In rapidly developing economies, conspicuous consumption becomes more and more prevalent as a means for those who have done well to flaunt their new economic status._  
 __contend with (someone or something) for (something)__ To compete against someone or something for something. _Andy hasn’t trained enough to contend with other swimmers his age for a win. If you push him to enter this race, he’ll just end up disappointed._  
@@ -1437,7 +1445,7 @@ __cost an arm and a leg__ To be extremely expensive.
 __cost the earth__ :two: To be exorbitant or burdensome in expense.  
 __cottage industry__  
 __couch potato__  
-__cough up__ :two::hammer:  
+__cough up__ :three::hammer:  
 __count on (someone or something)__  
 __count someone in (for something)__  
 __count your blessings__ :six: (count (one’s) blessings) To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
@@ -1450,6 +1458,7 @@ __cowboy up__ To act tough and determined, like a stereotypical cowboy. _Come on
 __cozy up (to someone or something)__ :two::hammer:  
 __cozy up__ :two: Try to get on friendly or intimate terms, ingratiate oneself. _That new woman is always cozying up to one or another club member so she’ll be asked to join._  
 __crack a book__ To open a book to study. (Usually used with a negative.) _I never cracked a book and still passed the course._ _Sally didn’t crack a book all semester._  
+__crack a joke__  
 __crack down (on someone or something)__ :three: To put limits on someone or something; to become strict about enforcing rules about someone or something. _The police cracked down on the street gangs. They cracked down once last year too._ _Chinese regulators have cracked down on access to ChatGPT._  
 __crack down__ :two::hammer: _France is cracking down on shady influencers._  
 __crack open__  
@@ -1490,6 +1499,8 @@ __cross someone__
 __cross swords__ :two: To fight or argue. _They had crossed swords many times._  
 __cross that bridge later__ To deal with a problem, issue, or situation at another point in time. It is recommended especially when the issue is not problematic at the moment.  
 __cross that bridge when one comes to it__ :two: To delay dealing with a problem until it happens.  
+__cross the aisle__  
+__cross-examine (someone)__  
 __crowd out__ :two::hammer:  
 __crowdfund__ /KRAUD-fuhnd/ To fund a project by raising money from a large number of people, mostly strangers and usually via the Internet.  
 __crown jewel__ :four: __2__ An asset or possession prized as being the best of a group of similar things. _This vintage 1965 Corvette Stingray is the crown jewel of my car collection._ _A NYC crown jewel of museums._  
@@ -1553,6 +1564,7 @@ __cut to the chase__ :four::hammer:
 __cut-rate__ Offered or sold at a low price. _I told you you’d regret buying a cut-rate car like that!_  
 __cutting edge__ :two::hammer: _Cutting edge fashion._  
 __dabble in (something)__  
+__daily grind__ :dart: One’s daily work routine, especially when it is tiresome. _I’m so thrilled to be off next week—I really need a break from the daily grind._  
 __daisy cutter__ [:scroll: From daisy, from Old English dæges eage (day’s eye, referring to the flower closing at night) + cutter, from Middle English cutten] _slang_ __1__ _sports_ A strong hit that moves the ball along the ground, as in baseball, soccer, cricket, etc. _That daisy cutter flew right past the infield and ended up securing a double for Williams._ __2__ A conventional bomb with a large blast radius that is lowered from an aircraft and explodes just above the ground. _Man, they must have dropped a daisy cutter here. Not only is the village obliterated, but so are all trees and wildlife._  
 __damn it__  
 __damn the torpedoes__ :two: To press on with a task or current course of action regardless of apparent risks or dangers. _I don’t care that it might bankrupt the company! Damn the torpedoes and get it done already!_  
@@ -1591,7 +1603,7 @@ __dead in the water__ :two: [:scroll: _Dead in the water_ was originally used of
 __dead last__ :two: In last place, especially by a wide margin, as for a race or other competition. _I didn’t train at all for that marathon, so I guess it’s no wonder I finished dead last._  
 __dead man walking__ :two::hammer: _Jack was a dead man walking._  
 __dead naming__ The act of referring to a transgender person by the name and/or pronouns they used before transitioning to the gender they currently identify as. Dead naming is just a way to show contempt for transgender people.  
-__dead on (one’s) feet__ :two::hammer:  
+__dead on (one’s) feet__ :three::hammer:  
 __dead on arrival__ _As pay-as-you-go subscription plan, it was dead on arrival._  
 __dead on__  
 __dead set against something__ To be completely against something.  
@@ -1650,7 +1662,7 @@ __disengage from (someone or something)__
 __dish out__ :seven::hammer: _Yoda will dish out the advice._  
 __dish something out__  
 __dislodge (someone or something) from (someone or something)__ To free someone or something that is stuck.  
-__diss__  
+__diss__ :two::hammer:  
 __dissatisfied with (someone or something)__ Unhappy with or disappointed in someone or something. _Don’t go to that car wash—I was completely dissatisfied with their service the last time I went there._  
 __ditz__ :two: /dɪts/ __1__ _n_ _slang chiefly US_ A silly scatterbrained person. __2__ _v_ In James Ellroy’s novels, “ditz” is usually used as a verb to mean to be in a state of confusion or mental disarray. It’s often used to describe someone who is acting in a scatterbrained or disorganized way.  
 __dive bar__ _slang_ :two: A cheap, run-down, or disreputable bar or saloon.  
@@ -1715,7 +1727,7 @@ __don’t sweat it__ :two: _(American English, spoken)_ Don’t worry or stress 
 __done and done__ :dart::two: Totally, unequivocally finished or finalized.  
 __done and dusted__ (mainly BRITISH)  
 __doofus__ _slang_ One who is stupid or foolish.  
-__doom and gloom__ :five: (A situation) characterized by negativity or futility. A general feeling of pessimism or despondency. This expression, sometimes found as _gloom and doom_, was particularly pertinent to fears about a nuclear holocaust during the cold war period of the 1950s and 1960s. It became a catchphrase in the 1968 film _Finian’s Rainbow_. (A situation) characterized by negativity or futility. A general feeling of having lost all hope and of pessimism (= expecting things to go badly). _The situation isn’t all doom and gloom—there are still plenty of good schools that did accept you!_  
+__doom and gloom__ :six: (A situation) characterized by negativity or futility. A general feeling of pessimism or despondency. This expression, sometimes found as _gloom and doom_, was particularly pertinent to fears about a nuclear holocaust during the cold war period of the 1950s and 1960s. It became a catchphrase in the 1968 film _Finian’s Rainbow_. (A situation) characterized by negativity or futility. A general feeling of having lost all hope and of pessimism (= expecting things to go badly). _The situation isn’t all doom and gloom—there are still plenty of good schools that did accept you!_  
 __doomscrolling__ (informal, neologism) The practice of continually reading Internet news about catastrophic events. _Syn_ doomsurfing  
 __doormat__ :two::hammer:  
 __dopey__ __1__ Stupid or silly. _I can’t ask that dopey kid to the prom!_ _A dopey idea._  
@@ -1746,7 +1758,7 @@ __downtime__
 __doxxing__ :three: The act of making someone’s personal information (such as their address, phone number, social security number, etc.) available online, especially out of vengeance. _More and more people are finding themselves victims of doxxing, in which the personal details of their lives are exposed to the world._  
 __drag (one’s) ass__  
 __drag (one’s) feet__ :four: To move slowly and reluctantly because one does not want to do something. _We can’t be late for the dentist, so quit dragging your feet and get in the car!_  
-__drag (someone) kicking and screaming__ To force someone to go somewhere or do something against their will, especially when they protest against it vehemently and/or at great length.  
+__drag (someone) kicking and screaming__ :two: To force someone to go somewhere or do something against their will, especially when they protest against it vehemently and/or at great length. _I really thought Mike would be perfect for that job, but I had to drag him kicking and screaming into an interview for it._ _Every summer we drag our kids kicking and screaming to their grandparents’ house in the countryside._  
 __drag out__ __1__ To continue for an excessively long time. _This case has dragged out for months. When will it finally end?_ __2__ To cause something to continue for an excessively long time. In this usage, a noun or pronoun can be used between “drag” and “out.” _I wish management would quit dragging things out and just give someone the promotion already. Please don’t drag out your story any longer—get to the point!_  
 __dragon breath__ Particularly foul-smelling breath. _I know I tend to have dragon breath when I wake up, so I usually brush my teeth before I do anything else._ _My date was really attractive and very funny, but good lord, she had horrible dragon breath._  
 __drain the swamp__ To get rid of the root causes of problems, especially to rid politics and government of evils, such as corruption and bureaucracy.  
@@ -1768,6 +1780,7 @@ __drill in(to) (someone or something)__
 __drink like a fish__ To drink too much alcohol.  
 __drive (one’s) pigs to market__ To snore. _I can’t get any sleep with Will driving his pigs to market every night—I think it’s time for him to see a doctor about his snoring._  
 __drive (one) batty__ :two: (drive someone nuts) To annoy or frustrate one to the point of exasperation. _A week on vacation with my relatives is enough to drive me batty._ _That loud beeping noise is driving me batty!_ _You are certainly annoying! You’re going to drive me batty. These tax forms are driving me nuts._  
+__drive home__  
 __driver’s seat__ :two::hammer: _We want to put the users in the driver’s seat when it comes to how their data is used._  
 __driving force__  
 __drop (someone or something) like a hot potato__ To abandon someone or something suddenly and completely, sometimes to avoid potential problems.  
@@ -1788,6 +1801,7 @@ __dumb bunny__ Stupid, silly, or naïve person, usually used in an affectionate 
 __dumpster fire__ _slang_ A complete and utter disaster or a completely chaotic situation, likened to a fire in a dumpster, which quickly becomes uncontrollable. The phrase can be applied to both situations and people. _As you might imagine, a 17-1 loss was a dumpster fire._  
 __dupe__ :two: _v_ __1__ To deceive or trick one. _The student tried to dupe me with a letter on which he’d forged his mom’s signature._  
 __dust off__ :four::hammer:  
+__dying to (do something)__ Eager and excited to do something. _The kids were dying to go on another roller coaster._  
 __dyke__  
 __dynamic duo__ :two: _cliché_ Two people often paired together whose unique traits, when combined, usually result in success or otherwise positive results.  
 __each other__ _The Regent ordered nobles and peasantry to pardon each other._  
@@ -1813,12 +1827,12 @@ __egghead__ _slang_ A derogatory term for an intelligent, studious person.
 __EGOT__ An abbreviation for “Emmy, Grammy, Oscar, Tony,” referring to the rare feat of winning the major awards in television, music, film, and theater. _Elton John joins elite EGOT ranks with Emmy win. John is only the 19th person to have achieved EGOT status (Whoopi Goldberg, Viola Davis, and Mel Brooks are some of the others)._  
 __elbow grease__ :four: Hard physical effort. _I tend to rely on elbow grease and hotel room sinks._  
 __elbow room__ __1__ Enough space to move around an area easily. _Ugh, the mall is so crowded today that there’s hardly any elbow room at all!_ __2__ The freedom and ability to act as one wants. _Well, you’re her cabinet—if you’re worried about her having too much elbow room as student council president, you should impose limitations._  
-__elephant in the room__ :four: An obvious truth or fact, especially one regarded as embarrassing or undesirable, that is being intentionally ignored or left unaddressed. _We all sat sipping our tea quietly, no one wanting to bring up the elephant in the room about Joel’s expulsion from college._  
+__elephant in the room__ :five: An obvious truth or fact, especially one regarded as embarrassing or undesirable, that is being intentionally ignored or left unaddressed. _We all sat sipping our tea quietly, no one wanting to bring up the elephant in the room about Joel’s expulsion from college._  
 __elevator pitch__ :two: A short sales presentation for a product/service/person/idea.  
 __Elvis has left the building__ :four: Said when an event or performance has come to an end, or when someone or something has left a place, especially in a dramatic fashion. The phrase refers to an announcement famously made at the end of Elvis Presley concerts alerting people that he vacated the premises and no further encores would be played.  
 __Elysian Fields__  
 __emotional rollercoaster__ A situation or experience that is emotionally intense and unpredictable, with ups and downs that can be both thrilling and terrifying.  
-__empty nester__ _n_ :two: A parent whose children have grown and moved away from home. _He and wife Bekki are empty nesters._  
+__empty nester__ _n_ :three: A parent whose children have grown and moved away from home. _He and wife Bekki are empty nesters._  
 __en route__  
 __end (something) on a high note__ :four: To finish, complete, or leave (something) at a successful, impressive, or climactic point.  
 __end game__ :two::hammer:  
@@ -1878,6 +1892,7 @@ __fair game (for something)__
 __fair game__ :four: Legitimately or permissibly targeted for something, such as criticism, use, or discussion. _As the youngest sibling, I’m always fair game for mockery at family events._  
 __fair-weather fan__ :two: A person who is supportive of and enthusiastic about a sports team only when that team is performing well. _I°ve been rooting for the home team in their playoff run, but I’ll admit I’m just a fair-weather fan._  
 __fairy godmother__ __1__ In children’s fairy tales, a woman with magical powers who appears in order to help others in their time of need. _Cinderella’s fairy godmother helped her get ready for the ball so she could meet Prince Charming._ __2__ Someone who helps others with their problems, usually providing financial assistance. _Thank you so much for helping me with my car repair bill! You are my fairy godmother._  
+__fairy tale__  
 __fall (flat) on (one’s)/its face__  
 __fall asleep at the wheel__ To fail to attend to one’s responsibilities or duties; to be inattentive to that which is important or for which one is responsible.  
 __fall behind__  

@@ -1,33 +1,3 @@
-__breather__ _n_ A rest period; a lull. (A chance to catch one’s breath.) _As soon as we’ve had a breather, it’s back to work._  
-__brew (something) up__  
-__brew up (something)__  
-__bunco__ (bunko) In the context of Ellroy’s work, “bunco” is often used to describe the activities of con artists, swindlers, and other criminals who use deceitful tactics to obtain money, property, or other valuables from their victims.  
-__bury the hatchet__  
-__by all accounts__ According to the information that is available; based on what people are saying.  
-__by and large__  
-__cash cow__  
-__catch and kill__ The media technique of suppressing a story by buying the exclusive rights to it, with a legally enforceable non-disclosure agreement, and then refusing to publish it.  
-__cave in__  
-__cheat on (someone or something)__  
-__chip away__  
-__come a long way__  
-__come out badly__ To result in something negative or unpleasant.  
-__come to the table__ To meet in order to negotiate or discuss how to resolve a particular issue or situation.  
-__connect the dots__  
-__cough up__  
-__crack a joke__  
-__cross the aisle__  
-__cross-examine (someone)__  
-__daily grind__ :dart: One’s daily work routine, especially when it is tiresome. _I’m so thrilled to be off next week—I really need a break from the daily grind._  
-__dead on (one’s) feet__  
-__diss__  
-__doom and gloom__  
-__drag (someone) kicking and screaming__ To force someone to go somewhere or do something against their will, especially when they protest against it vehemently and/or at great length. _I really thought Mike would be perfect for that job, but I had to drag him kicking and screaming into an interview for it._ _Every summer we drag our kids kicking and screaming to their grandparents’ house in the countryside._  
-__drive home__  
-__dying to (do something)__ Eager and excited to do something. _The kids were dying to go on another roller coaster._  
-__elephant in the room__  
-__empty nester__  
-__fairy tale__  
 __fight the good fight__  
 __fine-tune__  
 __fingers crossed__  
