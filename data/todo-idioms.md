@@ -398,41 +398,6 @@ __scramble for (something)__
 __second wind__ A renewed energy after a period of fatigue. _I planned to stop working at 9, but then I got my second wind and just kept going._  
 __see the light of day__  
 __seep in(to something)__  
-__serve (one’s) time__  
-__serve up (something)__  
-__set the table__  
-__shake down__  
-__sheesh__ An exclamation of exasperation, vexation, or annoyance.  
-__shitbird__  
-__shoot up__  
-__shorty__ A term of endearment for a child, younger sibling, shorter person, etc.  
-__show of force__ A display of one’s power, influence, or capability to cause harm, meant to act as a warning or deterrent to others.  
-__shy away (from someone or something)__  
-__sidekick__  
-__sigh of relief__  
-__simmer down__  
-__sink in__  
-__sink to new depths__  
-__sinking feeling__ A feeling of dread indicating that something bad has happened or is about to happen. _As soon as I met him, I got a sinking feeling that he had bad intentions._  
-__slam the door shut__  
-__sleep divorce__ A term that refers to the decision of a couple to sleep in separate places, such as separate beds or separate rooms.  
-__slip through (one’s) fingers__  
-__slippery slope__ :dart:  
-__slowly but surely__  
-__small fortune__  
-__smash hit__  
-__snail mail__  
-__sneak in__  
-__sneak peek__  
-__so much so that__  
-__sound the alarm__  
-__spic__ :three::hammer:  
-__spring to mind__ :dart: To suddenly or immediately appear, materialize, or come to the forefront in one’s mind. _Mention OpenAI and ChatGPT springs to mind for most._  
-__square off__  
-__stack up__  
-__stan<sup>1</sup>__ _n_ /stan/ n extremely zealous or obsessive fan.  
-__stan<sup>2</sup>__ _v_ To be or act as such a fan.  
-__stand up for (oneself)__  
 __steamroll through__  
 __step in__  
 __stone cold__ Completely bereft of emotion or concern. Hyphenated if used as a modifier before a noun.  
