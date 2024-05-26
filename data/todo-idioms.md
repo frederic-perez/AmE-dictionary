@@ -1,3 +1,13 @@
+__all of a dither__ In a nervous, confused, or agitated state. _We were all of a dither waiting to meet the president at our school rally._  
+__anybody’s/anyone’s guess__  
+__back and forth__  
+__back to square one__  
+__behind the curve__  
+__boogie__  
+__buy__ _slang_ To believe or accept something as true or feasible without question or investigation.  
+__come into play__  
+__don’t shoot the messenger__  
+__downbeat__ __1__ Glum or pessimistic. _Michael used to be a cheery kid, but he been pretty downbeat lately._ __2__ _mod_ Cool; easygoing. (Compare this with upbeat.) _He is sort of a downbeat character—no stress._  
 __fight the good fight__  
 __fine-tune__  
 __fingers crossed__  
@@ -51,6 +61,8 @@ __get ahead of (someone or something)__
 __get carried away__  
 __get done__  
 __get down to work__ To begin being serious about something; to begin attending to business or work at hand.  
+__get in the last word__  
+__get in(to) hot water__  
 __get into it__  
 __get it (all) together__  
 __get on (one’s) nerves__ To irritate, grate on, or exasperate one.  
@@ -64,6 +76,7 @@ __gig__
 __give (one’s) ground__  
 __give (one) the green light__ :two::hammer:  
 __give (someone) a lift__  
+__give (someone) an out__ To provide someone with an excuse or a means of escaping (from something).  
 __give a shit__  
 __glass cliff__ _n_ A situation in which a woman or minority has advanced professionally at a time when adverse circumstances or crises make it more likely for the person to fail at the job.  
 __go a long way__ :two::hammer:  
@@ -96,8 +109,11 @@ __Hail Mary__
 __hard line__ __1__ _adj_ (hardline) Very strict or inflexible. In this usage, the phrase can be hyphenated or written as one word. __2__ _n_ Strict and inflexible view of or position on something.  
 __hard stop__  
 __hardliner__  
+__have (got) (one) pegged as (something)__  
 __have (someone’s) number on it__ To be considered the agent or instrument of one’s fate, especially leading to death. _Those poor souls should have been safe in that trench, but it looks like that artillery shell had their number on it._  
+__have (something) going for (one)__ To have something that is favorable, beneficial, or advantageous to one.  
 __have a trick up (one’s) sleeve__  
+__have a yen for (something)__ To have a very strong and persistent desire or craving for something. _I’ve had a yen for sushi ever since I came back from Tokyo last month._  
 __have done with (someone or something)__ :dart: To be finished with someone or something; to cease being involved with someone or something.  
 __have got it made__ To be in a comfortable situation or to be very likely to have success. _Living in that big house, earning a nice passive income from their investments—they’ve got it made._  
 __have it made__  
@@ -121,8 +137,10 @@ __hogwash__ :two::hammer:
 __hold (one’s) nose__ __3__ By extension, to do something in spite of its unpleasant or illicit nature. _I don’t want to get fired, so I guess I’ll just have to hold my nose and do what he asks._  
 __hold (someone or something) in contempt__  
 __home in__  
+__hot__ _slang_ __3__ Especially popular and desirable. _He’s one of the hottest directors in Hollywood right now._  
 __If you can’t beat ’em, join ’em__  
 __in a bit__  
+__in a flutter__ In a nervous, confused, or agitated state.  
 __in a measure__ To a certain degree or extent; somewhat.  
 __in a sorry state__ In a pitiful, dysfunctional, or abject condition. _My business was in a sorry state after I left it under the control of my brother._ _John’s been in a sorry state lately—I think he’s taken up drinking again._  
 __in all likelihood__  
@@ -161,6 +179,7 @@ __in the wake of (something)__ :dart:
 __in the works__  
 __in virtue of (something)__ Due to something; because of something; by reason of something. _In virtue of your years of hard work and experience in the company, we think you would be well-suited to a managerial role within the company._  
 __in(to) shape__ In good, robust health; strong or fit. _Boy, I really need to get into shape. Ten years working behind a desk have given me quite a belly!_  
+__insofar as__  
 __it goes without saying__  
 __it remains to be seen__ Something is not yet clear, certain, or known.  
 __jacked up__  
@@ -180,16 +199,18 @@ __keep (one’s)/an eye on (someone or something)__ :two::hammer:
 __keep (someone or something) in check__  
 __keep (someone) in the loop__ To keep someone informed about and/or involved in something, such as a plan or project, especially that which involves or pertains to a specific group.  
 __keep (something) straight (in one’s mind/head)__ To be able to understand something clearly and comprehensively; to keep the details of something clear in one’s mind.  
-__keep (up) (one’s) end of the bargain__  
+__keep (up) (one’s) end of the bargain__ :two::hammer:  
 __keep a lid on (something)__ :two::hammer:  
 __keep pace__  
 __keep the lid on (something)__  
 __keep up__  
 __kick up__  
+__kids will be kids__ Kids behave childishly or immaturely by nature, so it is unrealistic to expect otherwise.  
 __king of the castle__ The most powerful, successful, or authoritative person in a group or organization.  
 __kitchen-sink__ Showing or pertaining to the lives of common, everyday people. (Always used before a noun.)  
 __knock it off__  
 __knock on doors__ To speak to the people who live in an area by walking up to their houses, apartments, etc., especially to provide information or solicit votes, support, contributions, etc.  
+__land of plenty__ A fictional or imagined utopian place where there is an abundance of everything needed to survive and flourish.  
 __larger than life__  
 __lash out__  
 __last-ditch__  
@@ -308,9 +329,10 @@ __peanut gallery__
 __peek out__  
 __photobomb__  
 __picture perfect__  
-__pie in the sky__ An impossible, unlikely, or fanciful idea or plan. Often hyphenated.  
+__pie in the sky__ :two: An impossible, unlikely, or fanciful idea or plan. Often hyphenated.  
 __pile up__  
 __piss off__  
+__pitch-perfect__ Reaching or conveying the exactly right note or tone. The phrase refers to music but it is often applied to writing and other things.  
 __plain vanilla__ A reference to vanilla being considered an ordinary or unexciting flavor. Often hyphenated if used before a noun. __1__ Completely basic, simple, or straightforward, lacking embellishments, adornments, special features, etc.  
 __play (one’s) cards close to (one’s) chest__  
 __play (something) at full blast__ (play at full volume)  
@@ -376,6 +398,7 @@ __scramble for (something)__
 __second wind__ A renewed energy after a period of fatigue. _I planned to stop working at 9, but then I got my second wind and just kept going._  
 __see the light of day__  
 __seep in(to something)__  
+__serve (one’s) time__  
 __serve up (something)__  
 __set the table__  
 __shake down__  
@@ -407,6 +430,8 @@ __spic__ :three::hammer:
 __spring to mind__ :dart: To suddenly or immediately appear, materialize, or come to the forefront in one’s mind. _Mention OpenAI and ChatGPT springs to mind for most._  
 __square off__  
 __stack up__  
+__stan<sup>1</sup>__ _n_ /stan/ n extremely zealous or obsessive fan.  
+__stan<sup>2</sup>__ _v_ To be or act as such a fan.  
 __stand up for (oneself)__  
 __steamroll through__  
 __step in__  
@@ -423,6 +448,7 @@ __take (someone or something) for granted__
 __take (someone, something, or some place) by storm__  
 __take a chance__ To try to do something that has a high probability of having a negative or unfortunate outcome. probability of having a negative or unfortunate outcome.  
 __take a crack at (something)__ To attempt (to do) something; to take a turn trying (to do) something.  
+__take a stand__  
 __take a/the bullet (for someone)__  
 __take center stage__ :two: To be the main focus.  
 __take notice (of someone or something)__  
@@ -432,6 +458,8 @@ __takes two to quarrel__
 __tell it like it is__  
 __test the water(s)__  
 __that said__  
+__that said,__  
+__the granddaddy of them all__ The biggest, oldest, most impressive, or most respected of a certain kind of person or thing. _I own a lot of vintage cars, but my 1926 Bentley is the granddaddy of them all._  
 __the idiot box__ _slang_ A television set, or television in general.  
 __the latest__  
 __the march of time__ The steady, unstoppable advancement of time.  
@@ -473,6 +501,7 @@ __when pigs can fly__ At a point in time that will never come to pass. (Used to 
 __where to draw the line__  
 __whip out__  
 __whip up__  
+__whistleblower__ (whistle-blower)  
 __whopping__  
 __wild goose chase__  
 __win (something) in a walk__ To win (something) easily, handily, or without much or any effort. _Enjoying the benefit of a week off between games, the home team won this match in a walk._  

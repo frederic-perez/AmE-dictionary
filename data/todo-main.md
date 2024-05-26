@@ -1,4 +1,32 @@
+__alastor__ _n_ /uh-LAS-tuhr/ An avenging deity or spirit, the masculine personification of Nemesis, frequently evoked in Greek tragedy.  
+__apostasy__ _n_ Abandonment of one’s religious faith, a political party, one’s principles, or a cause. _Syn_ defection, renunciation  
+__artifice__ _n_ /AHR-tuh-fus/ _Artifice_ refers to dishonest or insincere behavior or speech that is meant to deceive someone. It can also be used to mean “clever or artful skill.”  
+__athirst__ _adj_ Extremely desirous. _Syn_ hungry, thirsty _The young, enthusiastic student was athirst for knowledge._  
+__attention span__ _n_ The length of time during which a person can concentrate on a subject or idea.  
+__belie__ _v_ /bih-LYE/ To belie something is to give a false idea or impression of it. Belie can also mean “to show (something) to be false or wrong.”  
+__bonhomie__ _n_ A pleasant and affable disposition. _Syn_ affability, affableness, amiableness, geniality, amiability  
+__buzzword__ _n_  
+__byword__ _n_  
+__carnage__ _n_  
+__catchword__ _n_  
+__caveat__ _n_ /KAV-ee-aht/ A _caveat_ is an explanation or warning that should be remembered when you are doing or thinking about something. In legal contexts, _caveat_ refers to a notice to a court or judicial officer to suspend a proceeding until the opposition can be heard.  
+__code word__ _n_  
+__counterword__ _n_  
+__curse word__ _n_ _Syn_ cussword, dirty word  
+__debacle__ _n_ /dee-BAH-kul/  
+__entourage__ _n_  
+__escritoire__ _n_ A writing table; a desk. _Syn_ secretaire, writing table, secretary  
+__fanfare__ _n_ /FAN-fayr/ __1__ A showy public display. __2__ A brief, lively sounding of brass instruments, especially trumpets, in a celebration.  
+__flexor__ _n_ A small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes. _Syn_ percussor, plessor  
+__formicary__ _n_ A nest of ants. _Syn_ anthill  
+__futile__ _adj_ /FYOO-tul/  
+__galvanic__ _adj_ /gal-VAN-ik/ __1__ Stimulating; energizing; shocking. __2__ Relating to electric current, especially direct current.  
+__ghost word__ _n_  
+__guide word__ _n_  
+__headword__ _n_  
+__hibernal__ _adj_ Of or relating to winter. _Syn_ brumal, hiemal  
 __injunction__ _n_ :two::hammer:  
+__instigate__ _v_ /IN-stuh-gayt/ To _instigate_ something is to cause it to happen or begin.  
 __invaginate__ _v_  
 __invective__ _n_ Denunciatory or abusive language. _Syn_ vituperation, vitriol  
 __inviolable__ _adj_ /in-VYE-uh-luh-bul/  
@@ -6,9 +34,11 @@ __irrelevant__ _adj_
 __ism__ _n_ /ˈɪz əm/  
 __jackassery__ _n_ /ˈdʒækˌæsərɪ/ Foolish behaviour or stupidity.  
 __jacksmith__ _n_  
+__Janus word__ _n_  
 __jaunt__ _n_ /dʒɔnt, dʒɑnt/ A short journey, especially one taken for pleasure.  
 __jurisprudence__ _n_ The philosophy or science of law. _Syn_ legal philosophy, law  
 __juror__  
+__kangaroo word__  
 __kazoo__ _n_  
 __ken__ _n_ /KEN/ Ken refers to someone’s range of perception, knowledge, or understanding, and is most often used in phrases like “beyond/outside/within one’s ken.”  
 __kickback__ _n_  
@@ -27,11 +57,15 @@ __lip liner__ _n_ (lip liner)
 __listless__ _adj_ Marked by low spirits; showing no enthusiasm. _Syn_ dispirited  
 __litigation__ _n_  
 __livid__ _adj_ __3__ _informal_ Angry or furious.  
-__lucrative__ _adj_  
+__loan word__ _n_  
+__lucrative__ _adj_ :two::hammer: /LOO-kruh-tiv/  
 __lycanthrope__ _n_ A monster able to change appearance from human to wolf. _Syn_ werewolf, wolfman, loup-garou  
+__maecenatism__ _n_ /my/mi-SEE-nuh-tiz-uhm /Patronage, for example, the support or financial sponsorship provided to artists, musicians, or writers.  
 __mailed fist__ _n_ [:scroll: Translation of German gepanzerte Faust (mailed fist), from Panzer (armor) + Faust (fist)] The threat of military force. A threat or show of force to maintain control. :es: la mano dura  
+__manhunt__ _n_  
 __massive__ _adj_  
 __Mattel__ _n_ A relatively rare last name. It is most commonly found in France, according to one source.  
+__maverick__ _adj_ Being independent in thought and action or exhibiting such independence. _Syn_ unorthodox, irregular  
 __melee__ _n_ /MAY-lay/ _Melee_ refers to a confused fight or struggle, especially one involving hand-to-hand combat.  
 __Midas__ _n_ /ˈmaɪdəs/  
 __misaligned__ _adj_  
@@ -43,7 +77,9 @@ __murder-suicide__ _n_ A murder in which the killer subsequently commits suicide
 __near__ _v_  
 __nickelodeon__ _n_ A cabinet containing an automatic record player; records are played by inserting a coin. _Syn_ jukebox  
 __ninepin__ _n_ A wooden pin used in the game of ninepins. _Syn_ skittle  
+__nonce word__ _n_  
 __nonpartisan__ _adj_  
+__nonword__ _n_ :dart:  
 __obstruction of justice__ _n_ The criminal offense of intentionally hindering or interfering with the processes of law.  
 __on-site__  
 __onboard__ _adv_ __2__ Into a state of participation of support for an effort.  
@@ -54,8 +90,10 @@ __overall__
 __overstretched__ _adj_ /ˌəʊvəˈstrɛtʃt/ Subject to excessive demands or put under excessive pressure. _Overstretched staff._  
 __palatable__ _adj_  
 __palpable__ _adj_ /PAL-puh-bul/ Something described as _palpable_ is obvious and notable. _Palpable_ may also be used as a synonym of tangible to describe something that can be perceived by one’s sense of touch.  
+__panoply__ _n_ /PAN-uh-plee/  
 __Paralympics__ _n pl_  
 __pasquinade__ _n_ A satire or lampoon, especially one that ridicules a specific person, traditionally written and posted in a public place. _Syn_ parody, put-on, sendup, spoof, charade, lampoon, mockery, burlesque, travesty, takeoff  
+__pauperism__ _n_ A state of extreme poverty or destitution. _Syn_ indigence, penury, need  
 __peculiar__ _adj, n_  
 __peremptory__  
 __perfunctory__  
@@ -66,6 +104,7 @@ __pertussis__ _n_ The technical name for _whooping cough_.
 __photophobia__ _n_ /fo-tuh-FO-bee-uh/ An abnormal sensitivity to light.  
 ‌__pilgrim__ _n_ /ˈpɪl grɪm, -grəm/  
 __pincer__ _n_ A grasping structure on the limb of a crustacean or other arthropods. _Syn_ chela, nipper, claw  
+__pitch-perfect__ _adj_ /pich-PUHR-fikt/ [:scroll: From pitch, from Old English pic + perficere (to finish), from per- (across) + facere (to do)] __1__ Perfect in every way, especially in being sensitive to a particular situation. __2__ Right tone, pitch, mood, etc.  
 __plangent__ _adj_ /PLAN-junt/ Something, such as a sound, that is described as plangent is loud, deep, and often expressive of sadness or suffering. _Syn_ plaintive _The campers were awoken by the plangent howl of a coyote off in the distance._  
 __plateau__ _n_  
 __platitude__ _n_ A trite or banal remark or statement, especially one expressed as if it were original or significant. _Syn_ banality, cliche, commonplace, bromide  
@@ -82,6 +121,7 @@ __proliferate__ _v_ /pruh-LIF-uh-rayt/ To increase quickly in number or amount.
 __proximate__ _adj_  
 __punch line__ _n_  
 __pyrophobia__ _n_ /py-roh-FOH-bee-uh/ An extreme fear of fire.  
+__quagmire__ _n_ Land with a soft muddy surface. _Syn_ mire, morass, quag, slack  
 __quarrel__  
 __quench__ _vt_  
 __quickstart__ _n_ (quickstart guide) A guide or manual intended to get a user rapidly acquainted with a program or system.  
@@ -104,6 +144,8 @@ __severance__ _n_
 __shelter__ _v_  
 __shimmy__ _v_  
 __showdown__ _n_  
+__sideshow__ _n_  
+__sine die__  
 __single-handed__  
 __singsongy__ _adj_  
 __Situation Room__ _n_ (John F. Kennedy Conference Room)  
@@ -144,6 +186,7 @@ __thoughtless__ _adj_
 __tidbit__ _n_  
 __timecard__ _n_  
 __Tipp-Ex__ _n_ /ˈtɪp.eks/  
+__torrid__ _adj_ /TOR-id/ Torrid can be used to describe something that is literally hot (such as a region near the Earth’s equator) or figuratively hot (such as a romance).  
 __trample__ _v_  
 __triangulation__ _n_ /try-ang-gyuh-LAY-shuhn/ __2__ Positioning between two extremes, especially in politics.  
 __trustworthy__ _adj_  
@@ -158,9 +201,11 @@ __unfathomable__ _adj_
 __ungrateful__ _adj_  
 __unmissable__ _adj_  
 __unnerving__ _adj_ /ʌnˈnɜːvɪŋ/ Making one feel worried or uncomfortable.  
+__unputdownable__  
 __unsavory__ _adj_  
 __untapped__ _adj_ __2__ Not utilized: _untapped resources._  
 __unwavering__  
+__vestige__ _n_ A visible trace, evidence, or sign of something that once existed but exists or appears no more. _Syn_ tincture, trace, shadow  
 __vet__ _v_ :two: __2__ :dart: To subject to thorough examination or evaluation: _vet a manuscript._  
 __vicarious__ _adj_ /vye-KAIR-ee-us/ A _vicarious_ emotion or experience is one felt by watching, hearing about, or reading about someone else rather than by doing something yourself. _He felt a vicarious thrill as his daughter crossed the stage to accept her diploma._  
 __villager__ _adj_  
@@ -169,16 +214,22 @@ __void__ _v_
 __voir dire__ _n_  
 __volatile__ _adj_ :two::mega: /VOL-uh-tuhl/tyl/ __1__ Fluctuating widely and unpredictably. __2__ Evaporating easily. __3__ Explosive. __4__ Capable of flying.  
 __waitlist__ _n, v_  
+__walloping__ _n_ A sound thrashing or defeat. _Syn_ debacle, drubbing, thrashing, trouncing, whipping, slaughter  
 __wanderer__  
+__wane__ _v_ /WAYN/ To _wane_ is to become smaller or less, or in other words, to decrease in size, extent, or degree. _The national scandal caused her popularity to wane._  
 __wary__ _adj_  
 __watermelon__  
 __weaponize__  
+__weasel word__ _n_  
 __weather__ _v_  
 __whereabouts__  
 __whistleblower__  
 __whooping cough__ _n_  
+__wondrous__ _adj_  
 __wordy__ _adj_  
 __worked up__ _adj_ Agitated or excited. Excessively affected by emotion. _She was worked up about all the noise._  
 __workforce__ _n_ (work force)  
+__zetetic__  
+__zhuzh__ _v_ /ZHUZH (the U is as in PUSH)/ To _zhuzh_ something up is to improve its flavor or appearance by way of a small improvement, adjustment, or addition. _He likes to zhuzh up his outfits with brightly-colored ties._  
 __zither__  
 __zoolatry__ _n_ /zo-OL-uh-tree/ [:scroll: From Greek zoo- (animal) + -latry (worship)] __1__ The worship of animals. __2__ Extreme devotion to animals, for example, to one’s pets.  

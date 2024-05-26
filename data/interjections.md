@@ -1,6 +1,6 @@
 __aah__ Used to express pleasure, satisfaction, surprise, or great joy.  
 __aha__ Used to express surprise, pleasure, or triumph.  
-__ahem__ :dart: Used to attract attention or to express doubt or warning.  
+__ahem__ :dart::two: Used to attract attention or to express doubt or warning.  
 __ahoy__ Used to hail a ship or to attract attention.  
 __alas__ :three::mega::hammer: /əˈlæs, əˈlɑs/  
 __allegedly__ An exclamation expressing disbelief or skepticism.  
