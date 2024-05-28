@@ -2544,6 +2544,7 @@ __groom (someone) for (something)__
 __groovy__ __1__ _slang_ Cool or appealing. Popular in the 1960s and ’70s, the term is considered dated and thus is often used humorously, sarcastically, or specifically in reference to something that is (or looks like it could be) from that era. _A: “Yikes Mom, those are some, um, groovy drapes!” B: “What, you don’t like them?”_  
 __ground zero__ :two: __4__ :dart: The earliest possible starting point; the most basic, fundamental, or preliminary level. _The folder with my outline and notes got deleted, so now I have to start the whole project again from ground zero._  
 __ground-breaking__  
+__grounded__ __3__ Feeling calm, safe, and present in one’s body and environment.  
 __grouse__ To complain or gripe.  
 __grovel__ To interact with someone in an overtly agreeable or deferential manner. _Well, if your mother’s mad at me, I guess I’m going to have to grovel—we want this family dinner to be pleasant, after all._  
 __grunt work__ Work that is menial and often tedious.  
@@ -2551,11 +2552,14 @@ __GTFO__ _abbr_ :two: __1__ _rude slang_ An abbreviation for “get the fuck out
 __guarded secret__ A piece of information that is known by only a few people and is intentionally kept confidential or hidden from others.  
 __guardrail__ A safety feature or measure put in place to prevent something from going too far or becoming too extreme. _Senate looks to set guardrails for AI patient safety._  
 __guess again__ A rhetorical imperative indicating that the person being spoken to is mistaken about, and thus should reconsider, something. _You’d better guess again if you think I’m going to lend you any more money._  
+__guess what__  
 __guilt complex__ :two: A very strong and persistent feeling of guilt regarding something or some event. _John developed a guilt complex after forcing his brother to move out._  
-__guilty pleasure__ :four: Something that one enjoys or finds pleasurable but knows or feels to be bad, inferior, aberrant, or lowbrow, especially as might be perceived or judged by other people.  
+__guilty pleasure__ :five: Something that one enjoys or finds pleasurable but knows or feels to be bad, inferior, aberrant, or lowbrow, especially as might be perceived or judged by other people.  
+__guinea pig__  
 __gully washer__ An extremely heavy rainstorm that usually lasts a short amount of time.  
 __gulp down__  
 __gun down__  
+__gun for (someone or something)__  
 __gun it__ :two: To accelerate or increase speed suddenly or rapidly; to travel or move very quickly. Usually said while traveling in an automobile. _We’ll have to gun it if we want to make it to the movie on time!_  
 __gun-shy__  
 __gung ho__  
@@ -2564,17 +2568,18 @@ __gunk__ :two: __1__ _slang_ Any unpleasant residue or matter. The word originat
 __gush over (someone or something)__  
 __gush over__ _v_ To speak or write about something or someone with wild enthusiasm: _They returned from the new store and gushed over the great shoes they had bought._  
 __gut bomb__ Any greasy, filling junk food.  
+__gut check__ :dart: A moment in which one stops to seriously evaluate something or one’s current state. _I think we need to step back and have a gut check about our plan because I don’t think it’s going to work out the way we envisioned._  
 __gut factor__  
 __gut feeling__ An intuition, an instinctive feeling about something.  
 __gut punch__ A “gut punch” is an expression that is typically used to describe a sudden, painful, or shocking experience that leaves a person feeling emotionally or physically drained. It can be used both figuratively and literally to describe something that is unexpectedly hurtful or upsetting.  
 __gut-bucket__ __1__ _offensive slang_ A derogatory term for a fat or obese person. _We left the bar when we realized it was seedy and filled with nothing but old gut-buckets looking for easy women._ __2__ A free-spirited style of jazz or blues music. _The band surprised the audience by playing a few of their songs in a gut-bucket style._ _A gut-bucket string band._ __3__ A stringed instrument used in folk music that is made from a metal washtub . _Grandpop brought out his old gut-bucket and started playing folk songs beside the fire._  
-__gut-wrenching__ :three: Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one’s feelings. _What a gut-wrenching loss for the young athlete, who poured her heart and soul into this match._  
+__gut-wrenching__ :four: Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one’s feelings. _What a gut-wrenching loss for the young athlete, who poured her heart and soul into this match._  
 __gyatt__ A slang exclamation of surprise or excitement. Gyatt is most commonly used as an exclamation in reaction to seeing a large butt (that is, the buttocks) and may be used as a noun to mean a large butt.  
 __gym bunny__ :two: Someone who is obsessively preoccupied with maintaining or improving their physique and thus spends a large amount of time at the gym to do so. _After recovering from his surgery, John spent a lot of time at the gym getting his body back into shape. Now he’s turned into a total gym bunny._  
 __gym rat__ _slang_ Someone who spends an inordinate amount of time at a gym. _I turned into a real gym rat during college. I go pretty much every day now._  
 __H-E-double-hockey-sticks__ A euphemistic spelling of “hell,” referring to each L resembling a hockey stick in shape. _“Oh yeah?” said Tommy to the schoolyard bully. “Well, you can go to H-E-double-hockey-sticks!”_  
 __haha__ _informal_ Used as a written expression of laughter, or more generally to indicate that the writer finds something humorous. Also commonly written as “ha ha” or “ha-ha.” Greater degrees of laughter or humor can be represented by more instances of “ha.”  
-__Hail Mary__ :three: __1__ _American football_ A long forward pass with a low success of being caught, typically thrown in desperation at the end of a half. _And he throws a Hail Mary! Ah, it’s incomplete. No overtime tonight, folks._ __2__ By extension, a final, usually drastic or risky effort to avoid failure or defeat that has a low probability of success, typically done in desperation. _The experimental new medication will be something of a Hail Mary as doctors scramble to save the patient’s life._  
+__Hail Mary__ :four: __1__ _American football_ A long forward pass with a low success of being caught, typically thrown in desperation at the end of a half. _And he throws a Hail Mary! Ah, it’s incomplete. No overtime tonight, folks._ __2__ By extension, a final, usually drastic or risky effort to avoid failure or defeat that has a low probability of success, typically done in desperation. _The experimental new medication will be something of a Hail Mary as doctors scramble to save the patient’s life._  
 __hair-splitting__ :two::hammer:  
 __hair-splittingly__ With extremely minute, unimportant, or imperceptible differences or details. (Used before an adjective.)  
 __hale and hearty__ Healthy. _It’s true that she was in the hospital a few weeks ago, but she’s hale and hearty now._  
@@ -2617,12 +2622,13 @@ __happy medium__ A healthy balance between two extremes.
 __hard done-by__  
 __hard facts__  
 __hard knocks__ :three: The real and practical experiences of life, especially those involving hardship or adversity. _The problem with you is that you’ve been spoiled your whole life. You haven’t had any hard knocks to teach you what the world is really like!_ _The school of hard knocks._  
-__hard line__ :two::hammer:  
+__hard line__ :three: __1__ _adj_ (hard-line, hardline) Very strict or inflexible. In this usage, the phrase can be hyphenated or written as one word. __2__ _n_ Strict and inflexible view of or position on something.  
 __hard nut to crack__ A problem that is hard to solve or a person who is difficult to understand.  
 __hard of hearing__  
 __hard on the eyes__ :two: Unattractive; ugly.  
 __hard pass__ :dart: _slang_ No; not interested; absolutely not.  
 __hard pressed__ :three: Overburdened, put upon, as in _With all these bills to pay we find ourselves hard pressed._ _You’ll be hard pressed to visit them._  
+__hard stop__  
 __hard to believe__ Seemingly untrue; quite dubious. _Hard to believe, but there were no rules for capitalization until the 1700s._  
 __hard to come by__ Difficult to possess, obtain, or acquire. _Steady work is hard to come by in this economy._  
 __hard to say__ “Hard to say” is an idiomatic expression used to convey uncertainty or a lack of knowledge about something. It means that it’s difficult to predict or determine the outcome or the answer to a question, as the information is incomplete or unknown.  
@@ -2630,7 +2636,7 @@ __hard-boiled__ __2__ Tough and dispassionate; hardened by experience.
 __hard-luck story__ A typically self-pitying tale of misfortune, hardship, adversity, etc., told especially to gain sympathy or charity from others.  
 __hard-nosed__ :two: Strict and/or unfeeling. _That guy seems so hard-nosed that I’m afraid to say hi to him!_  
 __hard-pressed to (do something)__ Struggling to do or accomplish something, especially because it seems impossible. _You’d be hard-pressed to find a better guy than Bill._ _Frankly, if Taylor Swift told us to buy a “Signature Oval Casserole,” we’d be hard-pressed not to._  
-__hardliner__ :three: Someone who has an unyielding, inflexible belief in some person or thing. _Susan’s not a hardliner, so I really think she’ll listen to your views on the matter._  
+__hardliner__ :four: Someone who has an unyielding, inflexible belief in some person or thing. _Susan’s not a hardliner, so I really think she’ll listen to your views on the matter._  
 __hark back__ _Harking back to the past._  
 __hark(en) back to (something)__ __1__ To cause one to think of or recall something. (The spelling “harken” is actually a variant of the archaic word “hearken,” which originally meant “to listen” but is more commonly used in place of “hark” in this idiomatic phrase.) _That song harkens back to an earlier time in my life._ __2__ To have originated or begun as something. To go back to something as an origin or source. _You know, our modern cell phones hark back to those old rotary phones you like to make fun of._ _The diner’s interior harks back to the 1950s._ __3__ To revisit or recall something mentioned earlier. _Before we get too upset, let’s all harken back to the real reason we’re here today._  
 __harp away at (someone or something)__ :dart: To complain about or dwell upon someone or something repeatedly and to the point of tediousness. _You need to stop harping away at your boss and just quit already!_  
@@ -2648,6 +2654,7 @@ __hate someone’s guts__ Thoroughly despise someone, as in _I hate Peter’s gu
 __haters gonna hate__ (haters will be heater) People who dislike something or someone are going to continue to do so no matter what. It’s used to suggest that it’s impossible to please everyone and that it’s better to focus on what makes you happy than to worry about those who don’t approve.  
 __hats and bats__ _n_ _(US police)_ Equipped with helmets and nightsticks.  
 __have (a) skeleton(s) in (one’s)/the closet__ :three: To have (an) embarrassing, unpleasant, damaging, or incriminating secret(s) from one’s past. Primarily heard in US. _Even the most seemingly perfect people have some pretty shocking skeletons in their closets._  
+__have (got) (one) pegged as (something)__  
 __have (got) (someone’s) back__ :eight: To be willing and prepared to help or defend someone; to look out for someone in case they need assistance. _Don’t worry about those thugs, buddy. I’ve got your back if they ever come bother you again._ _Thanks for having my back._ _I’ve got your back._  
 __have (got) (someone) pegged as (something)__ To distinctly regard someone as being a certain type of person.  
 __have (got) a knack for (something)__ :two: To be exceptionally proficient at (doing) something. _I don’t know what it is, but David just has a knack for getting under my skin._  
@@ -2670,10 +2677,10 @@ __have (one’s) plate full__
 __have (one’s) say__ :two: To express or make known one’s views, opinions, or ideas. _We aren’t going to make a decision until everyone here has had their say._  
 __have (some/any) qualms about (something or someone)__ To have some or certain hesitations, apprehensions, uneasiness, or pangs of conscience (about something or someone). (Also often used in the negative to mean the opposite.) _I know it’s wrong to feel this way, but I don’t have any qualms about telling my boss I’m sick if it means I can have a long weekend._  
 __have (someone’s) blood on (one’s) head__ :two: To be the cause of (someone’s) death; to bear the guilt or responsibility of (someone’s) death or injury.  
-__have (someone’s) number on it__ To be considered the agent or instrument of one’s fate, especially leading to death.  
+__have (someone’s) number on it__ :two: To be considered the agent or instrument of one’s fate, especially leading to death. _Those poor souls should have been safe in that trench, but it looks like that artillery shell had their number on it._  
 __have (someone) coming and going__ :two: To put someone in an inescapable position or situation; to leave someone with no viable options or solutions. _If I want to stay in the country, I need a job, but if I want a job, I need to be living here—these immigration issues have me coming and going!_  
 __have (something) down cold__ :dart::two: To learn, master, or understand something perfectly, to the point of requiring little or no focus to do, recall, or accomplish it. _Make sure you practice these equations until you have them down cold._  
-__have (something) going for (one)__ To have something that is favorable, beneficial, or advantageous to one.  
+__have (something) going for (one)__ :two: To have something that is favorable, beneficial, or advantageous to one.  
 __have (something) in (one’s) hands__ To have under one’s control, charge, or care; to have responsibility for something. _With his father gone, Mike has the company’s future in his hands._  
 __have (something) in store (for one)__ :two: To have something awaiting (one) or prepared (for one). _The future has plenty in store—try not to worry about it too much._ _If you think ChatGPT is awesome, wait til you see what the coming wave of AI has in store for you._  
 __have (something) on__ To be busy or engaged with something; to have plans to do something at a particular point in time. _I’’’ve got a few things on at the moment, but business has been pretty slow overall._  
@@ -2710,29 +2717,31 @@ __have a screw loose__
 __have a sneaking suspicion__ :two: To have a slight but persistent premonition or intuition (about something).  
 __have a thing for (someone)__ :two: To have a romantic infatuation with someone, especially unbeknownst to that person. _I had a thing for one of my colleagues for a while, but I decided not to pursue it for the sake of our work._  
 __have a thing for (something)__ To have a very keen or particular interest in something; to really like or enjoy something. _I know they’re stupid, but I’ve always had a thing for cheesy horror movies._  
-__have a trick up (one’s) sleeve__ :two: To have a secret plan, idea, or advantage that can be utilized if and when it is required. A reference to cheating at a card game by hiding a favorable card up one’s sleeve. _I’ve got a few tricks up my sleeve if he decides to pursue legal action against me._  
+__have a trick up (one’s) sleeve__ :three: To have a secret plan, idea, or advantage that can be utilized if and when it is required. A reference to cheating at a card game by hiding a favorable card up one’s sleeve. _I’ve got a few tricks up my sleeve if he decides to pursue legal action against me._  
 __have a voice (in something)__ To have an active and participatory role in making or influencing a decision about something.  
-__have a yen for (something)__ To have a very strong and persistent desire or craving for something.  
+__have a yen for (something)__ :two: To have a very strong and persistent desire or craving for something. _I’ve had a yen for sushi ever since I came back from Tokyo last month._  
 __have a/the right to (something)__  
 __have a/the wolf by the ear(s)__ To be in a difficult situation from which it is as dangerous to extricate oneself as it is to remain in it.  
 __have an itch for (something)__ :two: To have an interest in or desire to do something. _I have an itch for another road trip, but I’m not sure where to go._  
 __have bats in the belfry__  
 __have bigger fish to fry__ :two: To have more important things to do.  
 __have butterflies on one’s stomach__  
-__have done with (someone or something)__ To be finished with someone or something; to cease being involved with someone or something.  
+__have done with (someone or something)__ :dart::two: To be finished with someone or something; to cease being involved with someone or something.  
 __have egg on (one’s) face__ :two: To be embarrassed by something one has done. (As if one went out in public with a dirty face.)  
 __have enough on (one’s) plate__ :two: To be sufficiently busy or preoccupied with work, problems, or difficulties as to be unable or unwilling to cope with anything more.  
 __have eyes bigger than (one’s) stomach__ :two: To take more food than one is actually capable of eating. _I always have eyes bigger than my stomach when I go to all-you-can-eat buffets!_  
 __have good antennae__ :two: To be very sensitive (to something); to have a keen sense of detection or perception. Likened to the antennae of (e.g.) an insect, which are extremely sensitive to environmental stimuli. _The best teacher must have good antennae for any emotional difficulties their students may be going through._  
+__have got it made__ To be in a comfortable situation or to be very likely to have success. _Living in that big house, earning a nice passive income from their investments—they’ve got it made._  
 __have got to (do something)__ To be obligated, obliged, or required to (do something). _I don’t want to go to the family reunion, but I’m afraid I’ve got to._  
 __have had (one’s) chips__ :two: To be defeated; to fail completely; to die or be killed. A reference to chips (small plastic disks) used to make wagers when gambling. _We tried to keep our business open through this recession, but we’ve had our chips at this point._  
 __have hot pants (for someone)__  
 __have it easy__ :two: To have or be in a particularly comfortable or relaxed position, status, or condition, such that makes for an easier life. _I get over a month of paid time off each year, so I feel like I have it pretty easy compared to other people I know._  
+__have it made__  
 __have it out (with someone)__ :two: To have an argument, verbal fight, or frank discussion (with someone), especially to settle something that has caused anger, frustration, or annoyance. _I had to have it out with my roommate because he never does his share of cleaning in the house._ _Tom and his boyfriend are always having it out._  
 __have its/(one’s) day__ :four: To be at the height of or experience success or prosperity. _The smartphone is really having its day it seems._ _Any of you who is determined and willing to put in hard work will have her day eventually._  
 __have more than one string to (one’s) bow__ To have multiple viable options or alternatives available in the event that the current course of action, circumstance, opportunity, etc., does not work out. _With all this varied job experience under my belt, I have more than one string to my bow if this particular career path isn’t to my liking._  
 __have nine lives__ To endure, continue, or survive despite a near encounter with death or disaster. From the common myth that cats have nine lives. _I can’t believe he survived after his bungee cord snapped! He must have nine lives or something._  
-__have no business (doing something)__ To have no legitimate reason, experience, or authority to do something.  
+__have no business (doing something)__ :two: To have no legitimate reason, experience, or authority to do something. _Mom, you had no business eavesdropping on my phone call like that!_  
 __have no spine__ To have no courage, resolve, or strength of character. _I just wish Tom would have stood up for our team when the CEO started criticizing our work. For a manager, he seems to have no spine._  
 __have no time for (someone or something)__ :two: To have no respect for, interest in, or approval of someone or something and thus have no desire to be involved with him, her, or it. _I have no time for people who belittle or harass others for their own enjoyment._  
 __have nothing to do__ To have no tasks or actions that one must complete or undertake; to have nothing with which to occupy one’s time.  
@@ -2741,7 +2750,7 @@ __have one’s cake and eat it too__
 __have one’s heart in it__ (put one’s heart in it) Be emotionally involved in something, undertake something enthusiastically, as in _Nancy puts her heart in her teaching._ This expression may also be put negatively as one’s heart is not in it, as in _She decided to quit; her heart just wasn’t in this kind of work._  
 __have rocks in (one’s) head__ :two: To be thoroughly stupid, crazy, absurd, incorrect, etc. _You must have rocks in your head if you think the bank will approve you for another loan._  
 __have seen (one’s) day__ :two: To be beyond one’s prime; to be no longer useful, effective, or functional.  
-__have skin in the game__ :three: To have a personal investment, usually monetary, in the pursuit of some goal or achievement, especially in business and finance. _I have no skin in the game._  
+__have skin in the game__ :five: To have a personal investment, usually monetary, in the pursuit of some goal or achievement, especially in business and finance. _I have no skin in the game._  
 __have someone pegged__ :three::hammer: _She had me pegged on that, too._ _You got me pegged._ :es: Me has calado.  
 __have someone’s number__ If you have someone’s number, you understand what kind of person they are, and so you know how to deal with them. Understand a person’s real motives or character and thereby gain some advantage. _Oh, don’t worry — I won’t let him cheat me. I’ve got his number._  
 __have teeth__ To have enough power or support of authority to compel obedience or punish offenders, as of a law. _This new law against littering has teeth, so if you don’t pick up your trash, you’ll get a hefty fine._  
@@ -2778,10 +2787,11 @@ __head-scratching__ (head scratching) Very confusing or perplexing. Usually used
 __head-spinning__ :two: Incredible, overwhelming.  
 __head-to-head__ :two: Describing a one-on-one matchup or comparison.  
 __head-to-toe__  
-__heads up__ :three: __2__ _n_ A preliminary notice, especially of future difficulty, trouble, or danger; a warning. Often hyphenated. _Make sure everyone gets the heads-up about the inspection tomorrow morning. We don’t want anyone coming in unprepared._ _Thanks for giving me the heads up._  
+__heads up__ :four: __2__ _n_ A preliminary notice, especially of future difficulty, trouble, or danger; a warning. Often hyphenated. _Make sure everyone gets the heads-up about the inspection tomorrow morning. We don’t want anyone coming in unprepared._ _Thanks for giving me the heads up._  
 __headspinning__ :two: (head-spinning) Incredible, overwhelming.  
 __hear a pin drop, one/you could__ :two: Complete silence.  
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  
+__hear from (one)__  
 __hear out__  
 __hearing things__ Having auditory hallucinations. _Bob: “Listen, I’m sure that someone is right behind us!” Jack: “Bob, you’re hearing things. There’s nothing out here but us and the wind.”_  
 __heart and soul__ :five::hammer:  
@@ -2789,7 +2799,7 @@ __heart of gold__
 __heart sinks, one’s__ One’s courage or hope fails; one is very disappointed or dejected. Used to say that you suddenly feel sad or depressed about something. _My heart sank when I saw that the meal I’d spent all day preparing had burned in the oven._  
 __heart skips a beat__  
 __heartbreaking__ Deeply upsetting or causing great sadness. _Watching my grandmother endure this horrible illness has been just heartbreaking._  
-__heat up__ :two: __3__ To intensify. Become acute or intense. _If inflation heats up, the interest rate will surely rise._ _The competition will heat up as we get closer to the playoffs._  
+__heat up__ :three: __3__ To intensify. Become acute or intense. _If inflation heats up, the interest rate will surely rise._ _The competition will heat up as we get closer to the playoffs._  
 __heat wave__ A period of time in which the weather is unusually and persistently hot. _Our summers are usually very mild here, but we’ve been in the midst of a heat wave recently that’s made it feel like the tropics!_  
 __heat__ __1__ _slang_ Adverse, hostile criticism. _The senator has been facing a lot of heat in the media for his involvement in the scandal._ __2__ _slang_ Intense pressure. _Their defensive line has been cranking up on the heat on the other team’s quarterback._ __3__ _slang_ Increased police activity in response to some criminal activity. _We’ll have to wait until the heat dies down a bit before we try to sell the stolen goods._ __4__ _slang_ One or more firearms, especially a handgun. _Make sure you’re packing heat before you meet with the rival gang leader._  
 __heave into view__ (heave into sight) To move or rise into sight, especially from a distance. _We’d been walking for hours in the barren desert when a small town finally heaved into view._ To rise or seem to rise over the horizon into view, as a ship.  
@@ -2797,12 +2807,14 @@ __heaven forbid__ :two::hammer:
 __heaven knows__  
 __heaven on earth__ :two::hammer:  
 __heavy handed__  
-__heavy lifting__ :two::dart: Any serious, difficult, or arduous work or activities. Difficult work. _The boss hoped the plan would succeed but he wasn’t willing to do the heavy lifting._  
+__heavy lifting__ :dart::three: Any serious, difficult, or arduous work or activities. Difficult work. _The boss hoped the plan would succeed but he wasn’t willing to do the heavy lifting._  
 __heavy-duty__  
 __heavy-footed__ :two: Clumsy, ponderous, or lumbering in gait or tread. _The team’s star striker deftly navigated the ball past the heavy-footed defenseman._  
+__heavy-handed__ Overly blunt, forceful, or tactless.  
 __heavy-hearted__ Sorrowful; melancholy; depressed.  
 __heck of a__ _He’s doing a heck of a job._  
 __heinous__ _adj_  
+__helicopter mom__  
 __Hell and half of Georgia__ A great distance or area; a huge amount of space. Primarily heard in US. A very large region; everywhere. _I’ve been looking across Hell and half of Georgia trying to find you!_  
 __hell hath no fury like a (certain type of person) scorned__  
 __hell no__  
@@ -2810,7 +2822,7 @@ __hell week__ :two: A week in which new recruits or pledges of an organization, 
 __hella__ __1__ _slang_ Very. _Geez, it’s hella crowded in here! I didn’t expect so many people to show up right at noon._ _That’s a hella good song, man._ __2__ _slang_ A lot of. _There were hella problems with the printer, that’s why I have to turn in my paper late._  
 __helluva__  
 __help (one) out__  
-__help (oneself) (to something)__ To serve oneself (something); to take, consume, or indulge in (something) freely or without permission or restraint.  
+__help (oneself) (to something)__ :two: To serve oneself (something); to take, consume, or indulge in (something) freely or without permission or restraint. _There’s plenty of food in the kitchen, so please, help yourselves to more._  
 __help (someone) out of a fix__ To help someone avoid or escape from some troublesome, difficult, or dangerous position or situation. _My father’s always having to go down to the courthouse to help my knuckle-headed brother out of some fix or another._ _Thanks so much for staying late with me to finish that report the other day—you really helped me out of a fix!_  
 __hem and haw__ :dart: To speak in an evasive, vague, roundabout way in order to avoid responding to a question or making a definite statement. The phrase comes from the common filler words often used by habit or when one is deciding what to say. _How much longer do we have to hear this guy hem and haw? I wish they would get on with the debate._ _Zoe hems and haws._  
 __henpecked__ :two: Of a man, thoroughly and continually dominated, intimidated, bullied, or browbeaten by a woman, especially his wife or girlfriend. _John used to be the most adventurous, spontaneous guy I knew, but since he got married, he’s become totally henpecked._  
@@ -2824,7 +2836,8 @@ __hidden agenda__ A secret goal or an ulterior motive.
 __hidden in plain sight__  
 __hide and seek__ :two: A situation in which one party is constantly evading or avoiding another. (A reference to the children’s game “hide and go seek.”) Often used with the verb “play.”  
 __higgledy-piggledy__  
-__high and dry__  
+__high and dry__ :two::hammer:  
+__high and low__ :two: In many different places.  
 __high horse__  
 __high jinks__ Excited, uninhibited, often boisterous or silly behavior. Playful or rowdy activity, often involving mischievous pranks. _All sorts of high jinks go on at summer camp after “lights out.”_  
 __high muckety muck__ _slang_ An especially important, influential, and authoritative person, especially someone who is overbearingly or arrogantly so. _We’re just waiting for the high muckety muck to give us the green light before we get the project started._  
@@ -2840,6 +2853,7 @@ __highbrow__ __1__ _adj_ Of or pertaining to heightened intellectualism or super
 __highbrowed__ Of or pertaining to heightened intellectualism or superior learning or culture; especially erudite or sophisticated; appealing or suited to highbrows.  
 __hijinx__ :two: Mischievous or playful behavior that is intended to be amusing or entertaining, but that often crosses the line into being disruptive or annoying.  
 __hindsight is (always) 20/20__ :two: It is easier to clearly reevaluate past actions or decisions than when they are being made or done; things are clearer or more obvious when they are reflected upon. A reference to the visual acuity of normal eyesight (20/20 vision). _I can see now that having my brother as my legal counsel was unwise, but I guess hindsight is always 20/20._  
+__hinky__  
 __Hip, hip, hooray!__  
 __hit (one’s) stride__  
 __hit (one) (right) between the eyes__ :dart: To suddenly become obvious or apparent to one. _After days of struggling to come up with a solution, one finally hit me right between the eyes this morning._  
@@ -2848,21 +2862,22 @@ __hit (someone or something) hard__
 __hit (something) out of the (ball)park__ :two: To do or perform something extraordinarily well; to produce or earn an exceptional achievement. An allusion to a baseball that is hit hard enough to land outside the stadium. _Great job on that report, Jacobs—you really hit it out of the park!_ _I’m pretty sure I hit that test out of the ballpark._  
 __hit a brick wall__ :dart: To come up against an immovable or insurmountable difficulty or obstacle. _Our project was going well, but we hit a brick wall when our funding was suddenly cut._  
 __hit a snag__ :dart::four: To encounter an issue, drawback, or challenge. _Our plans for a relaxing night at home hit a snag when a pipe burst in the basement._  
-__hit a wall__ :two::hammer:  
+__hit a wall__ :three::hammer:  
 __hit and miss__ :two::hammer: (hit or miss)  
+__hit at (someone or something)__  
 __hit bottom__ To reach the lowest or worst point. _Our profits have hit bottom._  
 __hit home__ :four: To be fully understood by or strongly affect or resonate with someone. _It wasn’t until he was threatened with losing his job that the comments about John’s work ethic really hit home._ _The film has an underlying theme of grief and loss that will hit home with a lot of viewers._  
 __hit on (one)__ To show one’s romantic or sexual interest in one; to flirt with one. _Are you hitting on me? You’re a married man!_  
 __hit on all cylinders__ :two: To operate, perform, function, or proceed exceptionally well or at the greatest possible speed or efficiency. _We’ll be hitting on all cylinders if we get Janet to join our team._  
 __hit or miss__ _adj_ :three: Sometimes good or successful, sometimes not; having mixed or unpredictable results; random, aimless, careless, or haphazard. Often hyphenated.  
-__hit rock bottom__  
+__hit rock bottom__ :two::hammer:  
 __hit the big time__ :two: To become very famous or successful. _Though she’d been acting for years, it was after her role in last summer’s blockbuster that she finally hit the big time._  
 __hit the books__ To study, often intensely. _You better hit the books if you want to pass your exam on Friday._  
 __hit the bull’s-eye__  
 __hit the ceiling__ To react with extreme anger. _Mom will hit the ceiling when she finds out we broke the vase by playing ball in the house again._  
 __hit the fan__ To become more of a problem or more widespread or publicized. _Once this scandal hits the fan, all of our investors are liable to pull out of the company._  
 __hit the gas__ :three: To move quickly; to accelerate or go faster. Used especially while riding in an automobile. _We’ll need to hit the gas if we want to make it to the movie on time._  
-__hit the ground running__ :three::hammer:  
+__hit the ground running__ :four::hammer:  
 __hit the jackpot__ :two::hammer:  
 __hit the lotto__  
 __hit the road__ To leave a place or begin a journey.  
@@ -2874,7 +2889,7 @@ __hither and thither__ :four::hammer::pencil2: _He was flinging the ball hither 
 __hobby-horse__ A subject, topic, or issue about which one frequently or incessantly talks, expounds, or complains. The term can also be spelled as a single word. _Ah, here we go again. Once grandpa gets on his hobby-horse about the government, there’s no stopping him!_  
 __Hobson’s choice__ A choice between what is available and nothing; a lack of an alternative.  
 __hog (something)__ :three: To take or use something all for oneself; to not allow others to have or use something. _Hey buddy, quit hogging the road!_ _My wife always hogs the covers at night._  
-__hogwash__  
+__hogwash__ :three::hammer:  
 __hoist by (one’s) own petard__ To be injured, ruined, or defeated by one’s own action, device, or plot that was intended to harm another; to have fallen victim to one’s own trap or schemes. (Note: “hoist” in this instance is the simple past-tense of the archaic form of the verb, “hoise.”)  
 __hoist by/with (one’s) own petard__  
 __hoist the white flag__ :dart:  
@@ -2882,10 +2897,10 @@ __hold (down) the fort__
 __hold (one’s) breath__ :four::hammer:  
 __hold (one’s) feet to the fire__ To put pressure on one to do, say, or consent to something._Someone holds everyone’s feet to the fire._  
 __hold (one’s) nerve__ :dart::two: To remain calm, steady, and resolute, especially in the face of danger or adversity.  
-__hold (one’s) nose__ :three: To reluctantly overcome one’s revulsion.  
+__hold (one’s) nose__ :four: To reluctantly overcome one’s revulsion. __3__ By extension, to do something in spite of its unpleasant or illicit nature. _I don’t want to get fired, so I guess I’ll just have to hold my nose and do what he asks._  
 __hold (one’s) tongue__  
 __hold (one’s) water__ :two: To be calm or patient; to stop making pressing demands, requests, or solicitations. _You kids hold your water back there or I swear I’ll turn this car right around!_  
-__hold (someone or something) in contempt__  
+__hold (someone or something) in contempt__ :two::hammer:  
 __hold (someone, something, or an animal) back (from someone or something)__ :three: To restrain someone, something, or an animal from getting at or getting to someone or something. _The parents held the children back from the cake and ice cream until the hostess said she was ready._ _Please hold back your dog._ _The GPU shortage is holding OpenAI back from its true potential._  
 __hold (someone) accountable (for someone)__ :three: To deem someone responsible for something. _I don’t care if Vince is trying to blame this blunder on his staff—I hold him accountable._  
 __hold (someone) in good stead__ :two: Especially of a talent, ability, or experience, to prove particularly useful or beneficial to someone in the future. _Janet is hoping her internship working in IT will hold her in good stead when she looks for a job after college._  
@@ -2920,6 +2935,7 @@ __holy crickets__ :two: An exclamation of surprise, shock, or astonishment. _Hol
 __holy moley__ :two::pencil2: An exclamation of surprise, shock, or astonishment. _Holy moley, the bill for that dinner was nearly $200!_  
 __holy shit__  
 __holy smoke(s)__ :two: What a surprise. _Holy smoke! Look at all of those geese!_  
+__home in__  
 __home skillet__ __1__ _slang_ A friendly term of address. _What’s up, home skillet?_ _Hey home skillet, how’re you doing?_ __2__ _slang_ A friend. _Teddy’s my home skillet—he’ll help us out._  
 __home sweet home__ An expression of pleasure or relief upon returning to one’s home, especially after an extended period away from it. _Ah, home sweet home! After two months in India, it sure is great to be back._  
 __home to (something)__ A place where something is commonly found. _The wetland is home to a variety of wildlife, especially birds._  
@@ -2963,6 +2979,7 @@ __hot take__ :two: An opinion or analysis published, broadcast, or otherwise iss
 __hot tip__ :two: A piece of advice or information that is timely and helpful, especially if acted upon quickly.  
 __hot to trot__ __1__ Eager or impatient to do something. _Let’s get going—the kids are hot to trot._ __2__ Sexually arousing or aroused. _If you think he’s so hot to trot, why don’t you ask him out?_  
 __hot wire__ To start a vehicle without a key by connecting wires that power the ignition. _The thief stole the car by hot wiring it._  
+__hot__ _slang_ __3__ Especially popular and desirable. _He’s one of the hottest directors in Hollywood right now._  
 __hot-button__ _Hot-button social issues._  
 __hotfoot__ :dart::two: To travel as fast as one can, usually by walking or running. _We need to hotfoot it out of here before Mom catches us going through her things!_  
 __hothead__ :two: A person with an excitable, fiery, or impetuous temper or disposition; one who is quick to get angry or act rashly. _That lady in the car behind me is a real hothead, honking and shouting at me every time I slow down!_  

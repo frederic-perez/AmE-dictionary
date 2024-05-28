@@ -98,46 +98,6 @@ __golden__
 __good to go__  
 __grapple with (someone or something)__ :two::hammer:  
 __green thumb__  
-__grounded__ __3__ Feeling calm, safe, and present in one’s body and environment.  
-__guess what__  
-__guilty pleasure__  
-__guinea pig__  
-__gun for (someone or something)__  
-__gut check__ :dart: A moment in which one stops to seriously evaluate something or one’s current state. _I think we need to step back and have a gut check about our plan because I don’t think it’s going to work out the way we envisioned._  
-__gut-wrenching__  
-__Hail Mary__  
-__hard line__ __1__ _adj_ (hardline) Very strict or inflexible. In this usage, the phrase can be hyphenated or written as one word. __2__ _n_ Strict and inflexible view of or position on something.  
-__hard stop__  
-__hardliner__  
-__have (got) (one) pegged as (something)__  
-__have (someone’s) number on it__ To be considered the agent or instrument of one’s fate, especially leading to death. _Those poor souls should have been safe in that trench, but it looks like that artillery shell had their number on it._  
-__have (something) going for (one)__ To have something that is favorable, beneficial, or advantageous to one.  
-__have a trick up (one’s) sleeve__  
-__have a yen for (something)__ To have a very strong and persistent desire or craving for something. _I’ve had a yen for sushi ever since I came back from Tokyo last month._  
-__have done with (someone or something)__ :dart: To be finished with someone or something; to cease being involved with someone or something.  
-__have got it made__ To be in a comfortable situation or to be very likely to have success. _Living in that big house, earning a nice passive income from their investments—they’ve got it made._  
-__have it made__  
-__have no business (doing something)__ To have no legitimate reason, experience, or authority to do something. _Mom, you had no business eavesdropping on my phone call like that!_  
-__have skin in the game__ :two::hammer:  
-__heads up__  
-__hear from (one)__  
-__heat up__  
-__heavy lifting__ Any serious, difficult, or arduous work or activities.  
-__heavy-handed__ Overly blunt, forceful, or tactless.  
-__helicopter mom__  
-__help (oneself) (to something)__ To serve oneself (something); to take, consume, or indulge in (something) freely or without permission or restraint. _There’s plenty of food in the kitchen, so please, help yourselves to more._  
-__high and dry__  
-__high and low__ :two: In many different places.  
-__hinky__  
-__hit a wall__  
-__hit at (someone or something)__  
-__hit rock bottom__  
-__hit the ground running__  
-__hogwash__ :two::hammer:  
-__hold (one’s) nose__ __3__ By extension, to do something in spite of its unpleasant or illicit nature. _I don’t want to get fired, so I guess I’ll just have to hold my nose and do what he asks._  
-__hold (someone or something) in contempt__  
-__home in__  
-__hot__ _slang_ __3__ Especially popular and desirable. _He’s one of the hottest directors in Hollywood right now._  
 __If you can’t beat ’em, join ’em__  
 __in a bit__  
 __in a flutter__ In a nervous, confused, or agitated state.  
