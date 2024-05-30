@@ -3,21 +3,34 @@ __apostasy__ _n_ Abandonment of one’s religious faith, a political party, one�
 __artifice__ _n_ /AHR-tuh-fus/ _Artifice_ refers to dishonest or insincere behavior or speech that is meant to deceive someone. It can also be used to mean “clever or artful skill.”  
 __athirst__ _adj_ Extremely desirous. _Syn_ hungry, thirsty _The young, enthusiastic student was athirst for knowledge._  
 __attention span__ _n_ The length of time during which a person can concentrate on a subject or idea.  
+__backstreet__ _adj_  
 __belie__ _v_ /bih-LYE/ To belie something is to give a false idea or impression of it. Belie can also mean “to show (something) to be false or wrong.”  
 __bonhomie__ _n_ A pleasant and affable disposition. _Syn_ affability, affableness, amiableness, geniality, amiability  
+__booby trap__ _n_  
+__boost__ _n_ __3__ An increase: _a big boost in salary._  
 __buzzword__ _n_  
 __byword__ _n_  
+__carabiner__ _n_  
 __carnage__ _n_  
 __catchword__ _n_  
 __caveat__ _n_ /KAV-ee-aht/ A _caveat_ is an explanation or warning that should be remembered when you are doing or thinking about something. In legal contexts, _caveat_ refers to a notice to a court or judicial officer to suspend a proceeding until the opposition can be heard.  
+__closing argument(s)__  
+__closure__ _n_  
+__code of conduct__  
+__code of ethics__  
 __code word__ _n_  
 __counterword__ _n_  
 __curse word__ _n_ _Syn_ cussword, dirty word  
 __debacle__ _n_ /dee-BAH-kul/  
+__demeanor__ _n_ :mega:  
+__dismay__ _vt_  
+__dopamine__ _n_ _Dopamine hit/rush._  
+__downpour__ _n_ A heavy fall of rain. _Syn_ pelter, soaker, torrent, cloudburst, deluge, waterspout  
 __entourage__ _n_  
 __escritoire__ _n_ A writing table; a desk. _Syn_ secretaire, writing table, secretary  
 __fanfare__ _n_ /FAN-fayr/ __1__ A showy public display. __2__ A brief, lively sounding of brass instruments, especially trumpets, in a celebration.  
 __flexor__ _n_ A small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes. _Syn_ percussor, plessor  
+__footage__ _n_ :mega:  
 __formicary__ _n_ A nest of ants. _Syn_ anthill  
 __futile__ _adj_ /FYOO-tul/  
 __galvanic__ _adj_ /gal-VAN-ik/ __1__ Stimulating; energizing; shocking. __2__ Relating to electric current, especially direct current.  
@@ -43,6 +56,7 @@ __kazoo__ _n_
 __ken__ _n_ /KEN/ Ken refers to someone’s range of perception, knowledge, or understanding, and is most often used in phrases like “beyond/outside/within one’s ken.”  
 __kickback__ _n_  
 __kindle__ _v_ __1__ To set alight or start to burn.  
+__kindling__ _n_ :dart:  
 __kinkeeping__  
 __kombucha__ _n_  
 __la-la land__ _n_ _slang_ __1__ A state of being out of touch with reality. __2__ Los Angeles.  
@@ -58,6 +72,7 @@ __listless__ _adj_ Marked by low spirits; showing no enthusiasm. _Syn_ dispirite
 __litigation__ _n_  
 __livid__ _adj_ __3__ _informal_ Angry or furious.  
 __loan word__ _n_  
+__long-standing__ _adj_ (longstanding)  
 __lucrative__ _adj_ :two::hammer: /LOO-kruh-tiv/  
 __lycanthrope__ _n_ A monster able to change appearance from human to wolf. _Syn_ werewolf, wolfman, loup-garou  
 __maecenatism__ _n_ /my/mi-SEE-nuh-tiz-uhm /Patronage, for example, the support or financial sponsorship provided to artists, musicians, or writers.  
@@ -86,7 +101,9 @@ __onboard__ _adv_ __2__ Into a state of participation of support for an effort.
 __onlooker__ _n_  
 __opening statement__  
 __orphan drug__ _n_ A drug that remains undeveloped or is neglected because of limited potential for commercial gain.  
+__outright__ _adj, adv_  
 __overall__  
+__overcapacity__ _n_  
 __overstretched__ _adj_ /ˌəʊvəˈstrɛtʃt/ Subject to excessive demands or put under excessive pressure. _Overstretched staff._  
 __palatable__ _adj_  
 __palpable__ _adj_ /PAL-puh-bul/ Something described as _palpable_ is obvious and notable. _Palpable_ may also be used as a synonym of tangible to describe something that can be perceived by one’s sense of touch.  
@@ -125,8 +142,13 @@ __quagmire__ _n_ Land with a soft muddy surface. _Syn_ mire, morass, quag, slack
 __quarrel__  
 __quench__ _vt_  
 __quickstart__ _n_ (quickstart guide) A guide or manual intended to get a user rapidly acquainted with a program or system.  
+__quizzical__ _adj_  
 __racketeer__ _n_ One who obtains money by an illegal enterprise usually involving intimidation.  
+__reback__ _vt_  
 __recount__ _v_  
+__recusal__ _n_ /rɪˈkjuːzəl/ The withdrawal of a judge from a legal case.  
+__recuse__ _vt_  
+__repent__ _v_  
 __rife__ _adj_  
 __rile__ _vt_ __1__ To irritate or vex. _Syn_ nettle, chafe, provoke, annoy, irk  
 __romcom__  
@@ -164,13 +186,16 @@ __squarely__ _adv_ /SKWAIR-lee/ __1__ In a straightforward or frank manner. __2_
 __stance__  
 __stand watch__ _v_ Watch over so as to protect.  
 __standoff__ _n_  
+__statement of work__ _n_ (SOW)  
 __staunch__ _adj_ (staunchest)  
 __sternutation__ _n_ A symptom consisting of the involuntary expulsion of air from the nose. _Syn_ sneeze, sneezing  
+__stillbirth__ _n_  
 __straddle__ _v_ :two::hammer: __1a__ To stand or sit with a leg on each side of; bestride: _straddle a horse._ _Pete straddled a chair._  
 __stressor__ _n_  
 __suborn__ _vt_ :astonished:  
 __subservient__ _adj_  
 __surreptitious__ _adj_ Marked by quiet and caution and secrecy; taking pains to avoid being observed. _Syn_ furtive, stealthy, sneaky  
+__swelter__  
 __swim lane__ _n_ (swimlane) __2__ A horizontal or vertical division of a process flow chart, typically used to visually separate the tasks of different actors.  
 __sympathetic__ _adj_ /ˌsɪm pəˈθɛt ɪk/  
 __table__ _vt_ __2__ To postpone consideration of (a piece of legislation, for example); shelve.  
@@ -194,6 +219,7 @@ __truth-telling__
 __truthful__ _adj_  
 __tryst__ _n_  
 __tune__ _n, v_ /tun, tyun/  
+__Turkey__ _n_ /ˈtɜr ki/  
 __twister__ _n_ __2__ _informal_ A whirlwind or tornado.  
 __underrated__ _adj_  
 __underwhelm__ _v_ /un-der-WELM/ To underwhelm someone is to fail to impress or excite them.  
@@ -202,12 +228,14 @@ __ungrateful__ _adj_
 __unmissable__ _adj_  
 __unnerving__ _adj_ /ʌnˈnɜːvɪŋ/ Making one feel worried or uncomfortable.  
 __unputdownable__  
+__unruly__ _adj_  
 __unsavory__ _adj_  
 __untapped__ _adj_ __2__ Not utilized: _untapped resources._  
 __unwavering__  
 __vestige__ _n_ A visible trace, evidence, or sign of something that once existed but exists or appears no more. _Syn_ tincture, trace, shadow  
 __vet__ _v_ :two: __2__ :dart: To subject to thorough examination or evaluation: _vet a manuscript._  
 __vicarious__ _adj_ /vye-KAIR-ee-us/ A _vicarious_ emotion or experience is one felt by watching, hearing about, or reading about someone else rather than by doing something yourself. _He felt a vicarious thrill as his daughter crossed the stage to accept her diploma._  
+__victory lap__  
 __villager__ _adj_  
 __voice__ _vt_  
 __void__ _v_  
@@ -224,11 +252,13 @@ __weasel word__ _n_
 __weather__ _v_  
 __whereabouts__  
 __whistleblower__  
+__wholesome__ _adj_  
 __whooping cough__ _n_  
 __wondrous__ _adj_  
 __wordy__ _adj_  
 __worked up__ _adj_ Agitated or excited. Excessively affected by emotion. _She was worked up about all the noise._  
 __workforce__ _n_ (work force)  
+__wreath__ _n_ /riːθ, riθ/  
 __zetetic__  
 __zhuzh__ _v_ /ZHUZH (the U is as in PUSH)/ To _zhuzh_ something up is to improve its flavor or appearance by way of a small improvement, adjustment, or addition. _He likes to zhuzh up his outfits with brightly-colored ties._  
 __zither__  

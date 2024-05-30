@@ -1,13 +1,32 @@
+__a no-no__  
+__a whole different beast__  
 __all of a dither__ In a nervous, confused, or agitated state. _We were all of a dither waiting to meet the president at our school rally._  
 __anybody’s/anyone’s guess__  
+__at the end of the day__ :two::hammer:  
 __back and forth__  
+__back in the game__  
 __back to square one__  
+__bear in mind (that)__ (keep in mind)  
+__behind closed doors__ In secret.  
 __behind the curve__  
+__big if__ _n_ An unlikely but necessary condition.  
+__biggie__ __1__ _n_ Something or someone important. _As problems go, this one’s a biggie._  
+__boil (something) down to (something)__  
 __boogie__  
+__BRB__ (be right back)  
 __buy__ _slang_ To believe or accept something as true or feasible without question or investigation.  
+__come full circle__ To return to the original or a similar position, situation, or circumstance where one or something started.  
 __come into play__  
+__come to an end__  
+__crack open__  
+__creep up__  
+__cut (one’s) teeth__  
 __don’t shoot the messenger__  
 __downbeat__ __1__ Glum or pessimistic. _Michael used to be a cheery kid, but he been pretty downbeat lately._ __2__ _mod_ Cool; easygoing. (Compare this with upbeat.) _He is sort of a downbeat character—no stress._  
+__drag (one’s) feet__  
+__f-bomb__  
+__fast track__ An accelerated path to success or achievement.  
+__fast-track__ __2__ _v_ To expedite or speed up some process.  
 __fight the good fight__  
 __fine-tune__  
 __fingers crossed__  
@@ -41,10 +60,12 @@ __foregone conclusion__
 __fork over__  
 __fourth wall__  
 __frag__ _slang_ [:scroll: The term had its origin in the Vietnam War] To kill a fellow soldier, often a superior, with a grenade or other explosive device. The word is a shortening of “fragmentation grenade,” referring to a type of grenade that expels shrapnel over a large area. _Someone’s going to frag that guy if he keeps treating his men so poorly._  
+__freak out__  
 __free fall__  
 __free lunch__  
 __from here on out__ From this moment and continuing into the future. _We need to follow the directions from here on out—otherwise, we’re liable to get lost._  
 __from the get-go__ :two::hammer:  
+__from the river to the sea__ (antisemitic) A political phrase that refers geographically to the area between the Jordan River and the Mediterranean Sea, an area described as Palestine, which today includes Israel and the Israeli-occupied Palestinian territories, including the West Bank, East Jerusalem, and the Gaza Strip.  
 __from time to time__  
 __front and center__  
 __frosty__ __2__ _mod_ Cool; really cool and mellow. _That music is really frosty._  
@@ -78,6 +99,7 @@ __give (one) the green light__ :two::hammer:
 __give (someone) a lift__  
 __give (someone) an out__ To provide someone with an excuse or a means of escaping (from something).  
 __give a shit__  
+__give or take__  
 __glass cliff__ _n_ A situation in which a woman or minority has advanced professionally at a time when adverse circumstances or crises make it more likely for the person to fail at the job.  
 __go a long way__ :two::hammer:  
 __go back to the well__ To return to some proven and reliable source of success, talent, good fortune, etc.  
@@ -98,6 +120,9 @@ __golden__
 __good to go__  
 __grapple with (someone or something)__ :two::hammer:  
 __green thumb__  
+__heat wave__ A period of time in which the weather is unusually and persistently hot.  
+__hell on earth__  
+__hit the ground running__  
 __If you can’t beat ’em, join ’em__  
 __in a bit__  
 __in a flutter__ In a nervous, confused, or agitated state.  
@@ -110,7 +135,9 @@ __in full swing__
 __in hot water__ :dart::two: Having provoked or incited anger, hostility, or punishment against oneself; in a troublesome or difficult situation, especially that which will result in punishment or reprisal. _I was in a bit of hot water with Janice last night when she found out I went to the movies instead of cleaning out the garage._  
 __in jeopardy__ In danger or at risk; imperiled.  
 __in layman’s terms__ :two::hammer:  
+__in less than no time__ (in no time) In a very little amount of time. Very quickly.  
 __in more ways than one__ In a number of ways. _I’m telling you, this idea of yours is a mistake in more ways than one._  
+__in no time (at all)__ (in less than no time) In a very little amount of time. Very quickly.  
 __in one blow__ All at once, with a single decisive or powerful action.  
 __in one go__ All at one time or in one attempt. _We’ll never be able to carry all these boxes out in one go—we’ll have to make several trips._  
 __in order that__ So that; with the particular aim or purpose of.  
@@ -139,7 +166,9 @@ __in the wake of (something)__ :dart:
 __in the works__  
 __in virtue of (something)__ Due to something; because of something; by reason of something. _In virtue of your years of hard work and experience in the company, we think you would be well-suited to a managerial role within the company._  
 __in(to) shape__ In good, robust health; strong or fit. _Boy, I really need to get into shape. Ten years working behind a desk have given me quite a belly!_  
+__ink__ _slang_ __4__ _v_ To sign one’s name to (something); to formalize and seal something, as a deal or contract. _Before we ink the contract, I want my lawyer to have a look at the details._  
 __insofar as__  
+__iron grip__ __2__ Total, dominant control (over someone or something).  
 __it goes without saying__  
 __it remains to be seen__ Something is not yet clear, certain, or known.  
 __jacked up__  
@@ -170,6 +199,7 @@ __king of the castle__ The most powerful, successful, or authoritative person in
 __kitchen-sink__ Showing or pertaining to the lives of common, everyday people. (Always used before a noun.)  
 __knock it off__  
 __knock on doors__ To speak to the people who live in an area by walking up to their houses, apartments, etc., especially to provide information or solicit votes, support, contributions, etc.  
+__Lady Luck__ The personification of fortune, whether good or bad. Sometimes spelled in lower case.  
 __land of plenty__ A fictional or imagined utopian place where there is an abundance of everything needed to survive and flourish.  
 __larger than life__  
 __lash out__  
@@ -184,6 +214,7 @@ __lay the groundwork (for something)__ To create or prepare the basics or essent
 __leapfrog over (someone or something)__  
 __leave a lot to be desired__ To be very inadequate or unsatisfactory; to lack a large amount of what is desired or required.  
 __let (oneself) go__  
+__level the playing field__ To make a situation or activity more fair and balanced by giving an extra advantage or opportunity to those who would normally be at a disadvantage, or by attempting to take away or diminish advantages, perhaps of one’s adversary or competitor.  
 __lick (one’s) wounds__  
 __life, the universe, and everything__ The question that pan-dimensional space-beings asked the computer Deep Thought in Douglas Adams’s book, _The Hitchhiker’s Guide to the Galaxy._ The computer took millions of years and came up with the answer 42. _Balancing risks is life, the universe, and everything._  
 __liminal__ _adj_ /ˈlɪmɪnəl/  
@@ -230,6 +261,7 @@ __neat and tidy__ (neat and clean)
 __neck and neck__  
 __need to be done__ To be required to be completed or acted upon.  
 __no end in sight (to something)__  
+__no stranger to (something)__  
 __noblesse oblige__ /noh-BLESS-uh-BLEEZH/ Noblesse oblige refers to the idea that people who have high social rank or wealth should be helpful and generous to people of lower rank or to people who are poor.  
 __not a chance__ :dart: (There is) no possibility (that that will happen). _You? Beat me? At ping pong? Not a chance!_  
 __not have all day__ To be in a rush; to not have much or any time to spare. Usually used in the present tense. _How long is this repair job going to take? I don’t have all day!_  
@@ -277,6 +309,7 @@ __out of place__
 __out of pocket__  
 __out of the wood(s)__  
 __out of thin air__  
+__out of touch__  
 __outed__  
 __over the moon__ Extremely happy. _I’ve been over the moon ever since I got engaged—I just can’t stop looking at my ring!_  
 __paint a (some kind of) picture (of something)__ :two::hammer:  
@@ -287,8 +320,11 @@ __part ways (with one)__
 __pave the way (for someone or something)__ :dart:  
 __peanut gallery__  
 __peek out__  
+__pepper with (something)__  
 __photobomb__  
+__pick up on (something)__ :dart: To detect or notice something; to become alert to or aware of something. _There are a lot of mature jokes in this cartoon that I never picked up on as a kid._  
 __picture perfect__  
+__picture this__  
 __pie in the sky__ :two: An impossible, unlikely, or fanciful idea or plan. Often hyphenated.  
 __pile up__  
 __piss off__  
@@ -303,6 +339,7 @@ __play tag__ A long distance phone call made.
 __plead the Fifth (Amendment)__  
 __plenty of (something)__ An abundant amount of; more than is needed.  
 __point of contact__ A person or entity one can seek to access information or services.  
+__poking and prodding__  
 __pop one’s cherry__ In James Ellroy’s novels, “popping one’s cherry” is a metaphorical expression that means to commit a first violent or morally reprehensible act, often marking a point of no return.  
 __poster child__ :two::hammer: _OpenAI is the poster child of the gen AI wave._  
 __postpone until (some later date or time)__ To delay (something) until a later date or time. A noun or pronoun can be used between “postpone” and “until” to specify what is being delayed.  
@@ -343,6 +380,7 @@ __roll with it__ To adapt to a situation despite unexpected circumstances or cha
 __roll with the punches__ :dart:  
 __round on__ To suddenly attack, berate, or show hostility toward someone, especially verbally. _I know he seems friendly, but he’ll round on you in an instant if you disagree with him._  
 __rue the day (that something happened)__ To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
+__rule of law__  
 __rules of the road__  
 __rumble on__  
 __rumble__  
@@ -355,14 +393,23 @@ __running high__ [for feelings] To be in a state of excitement or anger. _Feelin
 __rush into (something)__  
 __scoop__  
 __scramble for (something)__  
+__sea change__ A massive, fundamental shift or transformation.  
 __second wind__ A renewed energy after a period of fatigue. _I planned to stop working at 9, but then I got my second wind and just kept going._  
 __see the light of day__  
 __seep in(to something)__  
+__set the bar (high/low)__  
+__Shangri-la__ A utopian paradise. A reference to the fictional Tibetan paradise described in James Hilton’s 1933 novel _The Lost Horizon._  
+__single out__  
+__slap in the face__ Words or actions that have offended or otherwise upset someone. _It was a real slap in the face when she got promoted over me, especially after the amount of work I did on that last project._  
+__soft spot__  
+__spot showers__ :two: Term used by some weather forecasters to say that the chance of rain is low and will only affect a small percentage of the forecast area.  
 __steamroll through__  
 __step in__  
+__sticking point__ A topic of discussion or debate that results in disagreement.  
 __stone cold__ Completely bereft of emotion or concern. Hyphenated if used as a modifier before a noun.  
 __streetwise__  
 __strike a (raw) nerve__ :two::hammer:  
+__strike a deal__  
 __sugar daddy__  
 __super-duper__ :two::hammer: (super-dooper)  
 __supply and demand__ The amount of something available to purchase compared to the number of people who need or want to purchase it.  
@@ -430,6 +477,7 @@ __whistleblower__ (whistle-blower)
 __whopping__  
 __wild goose chase__  
 __win (something) in a walk__ To win (something) easily, handily, or without much or any effort. _Enjoying the benefit of a week off between games, the home team won this match in a walk._  
+__wishy-washy__  
 __witch hunt__  
 __with a bang__ :two::hammer:  
 __with a twist__ The phrase “with a twist” is an idiomatic expression that means something is done or presented in an unexpected or unconventional way, often with a surprise or a new spin. It can imply that something is extraordinary, not straightforward, or deviates from the usual procedure.  
