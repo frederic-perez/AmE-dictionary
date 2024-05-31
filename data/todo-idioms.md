@@ -1,33 +1,3 @@
-__a no-no__  
-__a whole different beast__  
-__all of a dither__ In a nervous, confused, or agitated state. _We were all of a dither waiting to meet the president at our school rally._  
-__anybody’s/anyone’s guess__  
-__at the end of the day__ :two::hammer:  
-__back and forth__  
-__back in the game__  
-__back to square one__  
-__bear in mind (that)__ (keep in mind)  
-__behind closed doors__ In secret.  
-__behind the curve__  
-__big if__ _n_ An unlikely but necessary condition.  
-__biggie__ __1__ _n_ Something or someone important. _As problems go, this one’s a biggie._  
-__boil (something) down to (something)__  
-__boogie__  
-__BRB__ (be right back)  
-__buy__ _slang_ To believe or accept something as true or feasible without question or investigation.  
-__come full circle__ To return to the original or a similar position, situation, or circumstance where one or something started.  
-__come into play__  
-__come to an end__  
-__crack open__  
-__creep up__  
-__cut (one’s) teeth__  
-__don’t shoot the messenger__  
-__downbeat__ __1__ Glum or pessimistic. _Michael used to be a cheery kid, but he been pretty downbeat lately._ __2__ _mod_ Cool; easygoing. (Compare this with upbeat.) _He is sort of a downbeat character—no stress._  
-__drag (one’s) feet__  
-__f-bomb__  
-__fast track__ An accelerated path to success or achievement.  
-__fast-track__ __2__ _v_ To expedite or speed up some process.  
-__fight the good fight__  
 __fine-tune__  
 __fingers crossed__  
 __finish line__  
