@@ -1,3 +1,10 @@
+__a made guy__ In the context of James Ellroy’s novels, “a made guy” likely refers to a member of the Mafia who has been fully initiated into the organization. This term is synonymous with “a made man,” which means a person who has been inducted into the Mafia and has taken the oath of omertà, the Mafia code of silence and code of honor. A made guy is a fully initiated member of the Mafia family, holding the rank of soldier and having the potential to rise through the ranks.  
+__as of now__  
+__at (one’s) discretion__ :dart: In accordance with one’s thoughts or judgment on a particular issue.  
+__at the very least__  
+__at the whim of (someone)__  
+__cool off__  
+__drive (one) to the brink__ :dart: To cause one to reach a point of desperation.  
 __fine-tune__  
 __fingers crossed__  
 __finish line__  
@@ -9,10 +16,12 @@ __fit the bill__
 __five o’clock shadow__  
 __fixer__ _slang_ One tasked with handling and alleviating problems for someone, often illicitly.  
 __flag__ __2__ _v_ _slang_ To fail something. _You better study hard, or you’ll flag this exam._  
+__flak__ Criticism or judgment.  
 __flaky__  
 __flat-out__  
 __flip (one) the bird__ To raise the middle finger (a rude gesture of anger or displeasure) at one.  
 __float an idea__ To suggest something in order to gauge interest in it or others’ perception of it.  
+__flub up__ __1__ _v_ To make a mistake, often an embarrassing one. A noun or pronoun can be used between “flub” and “up.”  
 __food coma__  
 __for a living__ In order to earn one’s primary income. _Roy runs a deli for a living._  
 __for good reason__  
@@ -33,6 +42,7 @@ __frag__ _slang_ [:scroll: The term had its origin in the Vietnam War] To kill a
 __freak out__  
 __free fall__  
 __free lunch__  
+__frigging__  
 __from here on out__ From this moment and continuing into the future. _We need to follow the directions from here on out—otherwise, we’re liable to get lost._  
 __from the get-go__ :two::hammer:  
 __from the river to the sea__ (antisemitic) A political phrase that refers geographically to the area between the Jordan River and the Mediterranean Sea, an area described as Palestine, which today includes Israel and the Israeli-occupied Palestinian territories, including the West Bank, East Jerusalem, and the Gaza Strip.  
@@ -52,6 +62,7 @@ __get ahead of (someone or something)__
 __get carried away__  
 __get done__  
 __get down to work__ To begin being serious about something; to begin attending to business or work at hand.  
+__get flak__ To receive a lot of criticism, judgment, or teasing (for something).  
 __get in the last word__  
 __get in(to) hot water__  
 __get into it__  
@@ -114,6 +125,7 @@ __in order that__ So that; with the particular aim or purpose of.
 __in overdrive__  
 __in place of (someone or something)__  
 __in plain view__ In full, unrestricted view; visibly, openly, or publicly.  
+__in single file__ In a line one person or one thing in width.  
 __in support of__ __1__ In a way that shows approval of (something); in favor of (something). _A majority voted in support of the bill._ __2__ In order to support (something). _He presented evidence in support of his hypothesis._  
 __in tears__  
 __in the (grand) scheme of things__ In the long term; in the complete picture of something.  
@@ -141,6 +153,7 @@ __insofar as__
 __iron grip__ __2__ Total, dominant control (over someone or something).  
 __it goes without saying__  
 __it remains to be seen__ Something is not yet clear, certain, or known.  
+__jabber__ :two: __1__ _v_ To chat casually about someone or something. _I’ve got some free time today, so let’s sit and jabber for a bit._  
 __jacked up__  
 __jeer at (someone or something)__ To mock, taunt, or scoff at someone or something. _Everyone in school jeered at me for wearing a pink sweater._  
 __jigaboo__ _n_ (ethnic slur) Extremely offensive name for a Black person.  
@@ -148,6 +161,7 @@ __JK__ An initialism of “just kidding,” used especially in text messages and
 __join hands__ __2__ By extension, to work together to achieve some goal.  
 __join the ranks (of something)__ To become a part or member of a large group or organization.  
 __juice head__  
+__juicer__ _n_ (juicehead) A heavy drinker; a drunkard. _The tavern is always filled with juicers on Friday night._  
 __jump before (one) is pushed__ To take action willingly or proactively before being forced to do it.  
 __jump ship__ (abandon ship) _Nearly all of (chatbot) Pi’s parent company, Inflection AI, decided to jump ship just 10 months after Pi’s launch._  
 __just like that__  
@@ -163,6 +177,7 @@ __keep a lid on (something)__ :two::hammer:
 __keep pace__  
 __keep the lid on (something)__  
 __keep up__  
+__keester__ _slang_ The buttocks or anus. Often used figuratively. _OK, kids, get off your keesters and go play outside!_  
 __kick up__  
 __kids will be kids__ Kids behave childishly or immaturely by nature, so it is unrealistic to expect otherwise.  
 __king of the castle__ The most powerful, successful, or authoritative person in a group or organization.  
@@ -195,6 +210,7 @@ __loaded gun__ A situation or person that is dangerous or volatile. For example,
 __loosen up__  
 __loosey-goosey__  
 __lose (one’s) shit__  
+__lose steam__ To begin to wane in energy, enthusiasm, or potency.  
 __loud and clear__  
 __lust for life__  
 __make (both) ends meet__  
@@ -213,6 +229,7 @@ __masquerade as (someone or something)__
 __matter of fact__  
 __middlebrow__ [:scroll: Formed on the pattern of highbrow and lowbrow] Neither particularly intelligent and refined nor particularly uncultured or crude in style, content, or quality. _I used to pride myself on my refined tastes when I was in college, but they’ve become positively middlebrow since I settled down as an adult._  
 __miss the mark__  
+__mix and match__  
 __mixed bag__ :two::hammer:  
 __mixed feelings__  
 __mixed message__  
@@ -327,6 +344,7 @@ __put on pause__
 __quality time__ Time spent interacting with someone in a close, meaningful way.  
 __question mark__ An unknown or uncertainty.  
 __quite a (something)__  
+__rabbit hole__ A situation, journey, or process that is particularly strange, problematic, difficult, complex, or chaotic, especially one that becomes increasingly so as it develops or unfolds.  
 __rain or shine__  
 __raise (one’s) eyebrows__  
 __raise the stakes__  
@@ -338,7 +356,7 @@ __recount (something) to (one)__ To narrate or share the facts or details of som
 __red flag__  
 __resonate with (one)__ To produce or evoke an appealing feeling of familiarity in one.  
 __revolving door__  
-__ride (on) a wave of (something)__ To enjoy the advantage of or continue to benefit from a situation that is successful, fortunate, trendy, etc.  
+__ride (on) a wave of (something)__ :two: To enjoy the advantage of or continue to benefit from a situation that is successful, fortunate, trendy, etc. _Jonathan has been riding a wave of celebrity ever since he was cast in the leading role for the new blockbuster._  
 __rig__ __1__ _vt_ To arrange or tamper with the results of something. _Somebody rigged the contest so no one got first prize._  
 __right off the bat__  
 __ring hollow__ To sound or give the sense of being false, insincere, or not genuine. _The statements that followed made her apology ring hollow._  
@@ -361,22 +379,32 @@ __run out of time__
 __run through (something)__ __4__ To guide one through or inform one of the process or details of something. In this usage, a noun or pronoun is used between “run” and “through.” _Can you run me through the plan one more time?_  
 __running high__ [for feelings] To be in a state of excitement or anger. _Feelings were running high as the general election approached._  
 __rush into (something)__  
+__said and done__ :dart: Agreed to and accomplished or finished. _When all is said and done, we’ll look back at this and laugh._  
+__schmuck__  
+__schtick__ _slang_ A particular gimmick, routine, or characteristic that distinguishes one or sets one apart from others. Originally from Yiddish. _The restaurant’s whole schtick is that your table is locked inside of a cage and, periodically, the lights go out while people in costumes come out to try to scare you._ _I tried writing more serious literary novels, but I realized that cheesy thrillers are just my schtick._  
 __scoop__  
 __scramble for (something)__  
 __sea change__ A massive, fundamental shift or transformation.  
 __second wind__ A renewed energy after a period of fatigue. _I planned to stop working at 9, but then I got my second wind and just kept going._  
 __see the light of day__  
 __seep in(to something)__  
+__serve (one’s) time__  
 __set the bar (high/low)__  
 __Shangri-la__ A utopian paradise. A reference to the fictional Tibetan paradise described in James Hilton’s 1933 novel _The Lost Horizon._  
+__shit (one’s) pants__ __2__ _rude slang_ By extension, to be very surprised. _When I saw that the magazine had published my letter to the editor, I practically shit my pants!_ _Shit-your-pants scared._  
+__shut out__  
+__single file__ A line of things or people, one person or one thing wide. _Please get into single file._ _You have to march single file._  
 __single out__  
 __slap in the face__ Words or actions that have offended or otherwise upset someone. _It was a real slap in the face when she got promoted over me, especially after the amount of work I did on that last project._  
+__snazzy__ Particularly elegant, dazzling, classy, or fancy in appearance. _Wow, that’s a snazzy new suit you’ve got on! Big meeting today or something?_ _She runs one of the snazziest clubs in town._  
 __soft spot__  
 __spot showers__ :two: Term used by some weather forecasters to say that the chance of rain is low and will only affect a small percentage of the forecast area.  
+__stay in character__  
 __steamroll through__  
 __step in__  
 __sticking point__ A topic of discussion or debate that results in disagreement.  
 __stone cold__ Completely bereft of emotion or concern. Hyphenated if used as a modifier before a noun.  
+__strange bedfellows__  
 __streetwise__  
 __strike a (raw) nerve__ :two::hammer:  
 __strike a deal__  
@@ -417,6 +445,7 @@ __tick away__
 __tight race__  
 __tight__ __4__ _mod._ Cool; super. _His new car is tight!_  
 __time and (time) again__ :two::hammer:  
+__to put it mildly__ (put it mildly)  
 __to say the least__  
 __too little too late__  
 __top dog__ _Llama 3 is now the top dog in open-source AI models._  
@@ -427,6 +456,7 @@ __true believer__ One who passionately supports a cause or concept.
 __turn (something) on its head__  
 __turn heads__ :two::hammer:  
 __twist (one’s) arm__ To pressure or force one into doing something.  
+__twists and turns__  
 __U-turn__ __2__ By extension, any sudden and drastic reversal, as of opinion, policy, intention, fortune, trend, etc.  
 __under (one’s) belt__  
 __up and running__  
@@ -437,6 +467,7 @@ __vouch for (someone or something)__
 __walk out__  
 __war chest__:two: A financial reserve collected and maintained for specific political purposes, especially election campaigns.  
 __watershed moment__  
+__weave (something) into (something) else__  
 __weigh in__ :dart::two: __3__ To give one’s opinion or analysis of something during a discussion. _Karen, you haven’t weighed in yet. What’s your take on this?_  
 __What do you say?__ Does that sound good to you? Do you agree?  
 __when pigs can fly__ At a point in time that will never come to pass. (Used to show skepticism or cynicism over some hypothetical situation or outcome.)  
@@ -459,6 +490,7 @@ __work out the kinks__ To remove or resolve any small problems that remain prese
 __yada yada yada__  
 __yea or nay__  
 __yikes__  
+__yips__ In the novels by James Ellroy, the phrase “she had the yips” likely refers to a condition of nervousness or a loss of nerve. This expression is often used in sports to describe a sudden loss of skill or confidence, particularly in activities like golf or baseball. In a broader context, it can signify a general state of anxiety or unease. Ellroy’s use of this term may indicate a character’s psychological state or emotional turmoil within the narrative.  
 __you’re on your own__ You have to deal with or resolve this situation without my or anyone else’s assistance.  
 __your highness__ __1__ A royal greeting. __2__ A greeting of someone who is high.  
 __yup__  

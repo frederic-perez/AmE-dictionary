@@ -29,16 +29,23 @@ __downpour__ _n_ A heavy fall of rain. _Syn_ pelter, soaker, torrent, cloudburst
 __entourage__ _n_  
 __escritoire__ _n_ A writing table; a desk. _Syn_ secretaire, writing table, secretary  
 __fanfare__ _n_ /FAN-fayr/ __1__ A showy public display. __2__ A brief, lively sounding of brass instruments, especially trumpets, in a celebration.  
+__felon__ _n_  
 __flexor__ _n_ A small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes. _Syn_ percussor, plessor  
+__flub<sup>1</sup>__ _n_ :dart: /flʌb/ An embarrassing mistake or blunder.  
+__flub<sup>2</sup>__ _v_ :dart: To blunder or make an embarrassing mistake. Make a mess of, destroy or ruin.  
 __footage__ _n_ :mega:  
 __formicary__ _n_ A nest of ants. _Syn_ anthill  
 __futile__ _adj_ /FYOO-tul/  
 __galvanic__ _adj_ /gal-VAN-ik/ __1__ Stimulating; energizing; shocking. __2__ Relating to electric current, especially direct current.  
 __ghost word__ _n_  
 __guide word__ _n_  
+__halcyon__ _adj, n_  
+__hangnail__ _n_ :dart: A small piece of dead skin at the side or the base of a fingernail that is partly detached from the rest of the skin. :es: padrastro  
 __headword__ _n_  
 __hibernal__ _adj_ Of or relating to winter. _Syn_ brumal, hiemal  
+__impetuous__ _adj_  
 __injunction__ _n_ :two::hammer:  
+__innocuous__ _adj_  
 __instigate__ _v_ /IN-stuh-gayt/ To _instigate_ something is to cause it to happen or begin.  
 __invaginate__ _v_  
 __invective__ _n_ Denunciatory or abusive language. _Syn_ vituperation, vitriol  
@@ -74,6 +81,7 @@ __livid__ _adj_ __3__ _informal_ Angry or furious.
 __loan word__ _n_  
 __long-standing__ _adj_ (longstanding)  
 __lucrative__ _adj_ :two::hammer: /LOO-kruh-tiv/  
+__lunchtime__ _n_ :pencil2:  
 __lycanthrope__ _n_ A monster able to change appearance from human to wolf. _Syn_ werewolf, wolfman, loup-garou  
 __maecenatism__ _n_ /my/mi-SEE-nuh-tiz-uhm /Patronage, for example, the support or financial sponsorship provided to artists, musicians, or writers.  
 __mailed fist__ _n_ [:scroll: Translation of German gepanzerte Faust (mailed fist), from Panzer (armor) + Faust (fist)] The threat of military force. A threat or show of force to maintain control. :es: la mano dura  
@@ -81,6 +89,8 @@ __manhunt__ _n_
 __massive__ _adj_  
 __Mattel__ _n_ A relatively rare last name. It is most commonly found in France, according to one source.  
 __maverick__ _adj_ Being independent in thought and action or exhibiting such independence. _Syn_ unorthodox, irregular  
+__measly__ _adj_ __1__ Infected with measles. __2__ _slang_ Contemptibly small; meager: _gave the waiter a measly tip._ _Syn_ paltry, miserable  
+__meekly__ _adj_ In a submissive or spiritless manner. _Meekly bowed to his wishes._  
 __melee__ _n_ /MAY-lay/ _Melee_ refers to a confused fight or struggle, especially one involving hand-to-hand combat.  
 __Midas__ _n_ /ˈmaɪdəs/  
 __misaligned__ _adj_  
@@ -106,6 +116,7 @@ __overall__
 __overcapacity__ _n_  
 __overstretched__ _adj_ /ˌəʊvəˈstrɛtʃt/ Subject to excessive demands or put under excessive pressure. _Overstretched staff._  
 __palatable__ _adj_  
+__palmer__ _n_ :m: /ˈpɑːmə/ __1__ A pilgrim, esp. of the Middle Ages, who had returned from the Holy Land bearing a palm branch as a token. __2__ Any religious pilgrim.  
 __palpable__ _adj_ /PAL-puh-bul/ Something described as _palpable_ is obvious and notable. _Palpable_ may also be used as a synonym of tangible to describe something that can be perceived by one’s sense of touch.  
 __panoply__ _n_ /PAN-uh-plee/  
 __Paralympics__ _n pl_  
@@ -131,8 +142,10 @@ __praise__ _vt_
 __prejudicious__ _adj_ :astonished: Causing harm or injury. _Syn_ damaging, detrimental, prejudicial  
 __prevalence__  
 __preview__ _n, v_ /ˈpriˌvyu/ /prē′vyo͞o′/  
+__priapic__ _adj_ __1__ Of, relating to, or resembling a phallus; phallic. __2__ Characterized by or exhibiting unrestrained or excessive male sexual activity.  
 __price tag__  
 __Pringle__ _n_ A Scottish surname.  
+__process server__ _n_ :dart::two: A person who serves subpoenas or other legal documents, esp. those requiring appearance in court.  
 __profligate__ _adj_ :dart:  
 __proliferate__ _v_ /pruh-LIF-uh-rayt/ To increase quickly in number or amount.  
 __proximate__ _adj_  
@@ -143,7 +156,8 @@ __quarrel__
 __quench__ _vt_  
 __quickstart__ _n_ (quickstart guide) A guide or manual intended to get a user rapidly acquainted with a program or system.  
 __quizzical__ _adj_  
-__racketeer__ _n_ One who obtains money by an illegal enterprise usually involving intimidation.  
+__racketeer<sup>1</sup>__ _n_ One who obtains money by an illegal enterprise usually involving intimidation.  
+__racketeer<sup>2</sup>__ _vi_  
 __reback__ _vt_  
 __recount__ _v_  
 __recusal__ _n_ /rɪˈkjuːzəl/ The withdrawal of a judge from a legal case.  
@@ -152,9 +166,12 @@ __repent__ _v_
 __rife__ _adj_  
 __rile__ _vt_ __1__ To irritate or vex. _Syn_ nettle, chafe, provoke, annoy, irk  
 __romcom__  
+__rosary__ _n_  
 __run-up__ _n_ (runup)  
 __ruse__ _n_ _Syn_ wile  
 __salacious__ _adj_ :three::hammer:  
+__salutary__  
+__sartorial__  
 __school of thought__  
 __scissure__ _n_ A split or opening in an organ or part. _Syn_ crack, crevice, fissure, cleft  
 __scour__ _v_  
@@ -183,16 +200,21 @@ __snug__ _adj, v_
 __Special Olympics__ _n pl_  
 __spew__ _v_  
 __squarely__ _adv_ /SKWAIR-lee/ __1__ In a straightforward or frank manner. __2__ Firmly. __3__ Directly. __4__ At right angles.  
+__squirm<sup>1</sup>__ _n_  
+__squirm<sup>2</sup>__ _vi_ __1__ To move with a wriggling motion; writhe. __2__ :dart: To feel deep mental discomfort, guilt, embarrassment, etc.  
 __stance__  
 __stand watch__ _v_ Watch over so as to protect.  
 __standoff__ _n_  
 __statement of work__ _n_ (SOW)  
+__statute of limitations__  
 __staunch__ _adj_ (staunchest)  
 __sternutation__ _n_ A symptom consisting of the involuntary expulsion of air from the nose. _Syn_ sneeze, sneezing  
 __stillbirth__ _n_  
 __straddle__ _v_ :two::hammer: __1a__ To stand or sit with a leg on each side of; bestride: _straddle a horse._ _Pete straddled a chair._  
 __stressor__ _n_  
+__strongman__ _n_  
 __suborn__ _vt_ :astonished:  
+__subpoena__ _v_  
 __subservient__ _adj_  
 __surreptitious__ _adj_ Marked by quiet and caution and secrecy; taking pains to avoid being observed. _Syn_ furtive, stealthy, sneaky  
 __swelter__  
@@ -203,6 +225,7 @@ __tame__ _adj_ __4__ Insipid; flat: _a tame birthday party._
 __tamper__  
 __tangent__ _adj, n_ /TAN-juhnt/ [:scroll: From Latin tangere (to touch)]  
 __taxpayer__ _n_ :es: contribuyente  
+__teamster__ _n_ :astonished: __1__ One who drives a truck for hauling loads, especially as an occupation. __2__ One who drives a team.  
 __tendentious__ _adj_ /ten-DEN-shus/ _Tendentious_ is a formal word used disapprovingly to describe someone or something expressing a strongly biased point of view in a way that may cause argument.  
 __tentative__ _adj_  
 __themself__ _pron_ :dart: _Just after the jury was seated, emergency crews responded to a park outside the Manhattan courthouse, where a person had set themselves on fire._  
@@ -234,7 +257,7 @@ __untapped__ _adj_ __2__ Not utilized: _untapped resources._
 __unwavering__  
 __vestige__ _n_ A visible trace, evidence, or sign of something that once existed but exists or appears no more. _Syn_ tincture, trace, shadow  
 __vet__ _v_ :two: __2__ :dart: To subject to thorough examination or evaluation: _vet a manuscript._  
-__vicarious__ _adj_ /vye-KAIR-ee-us/ A _vicarious_ emotion or experience is one felt by watching, hearing about, or reading about someone else rather than by doing something yourself. _He felt a vicarious thrill as his daughter crossed the stage to accept her diploma._  
+__vicarious__ _adj_ :two: /vye-KAIR-ee-us/ A _vicarious_ emotion or experience is one felt by watching, hearing about, or reading about someone else rather than by doing something yourself. _He felt a vicarious thrill as his daughter crossed the stage to accept her diploma._  
 __victory lap__  
 __villager__ _adj_  
 __voice__ _vt_  
@@ -250,7 +273,9 @@ __watermelon__
 __weaponize__  
 __weasel word__ _n_  
 __weather__ _v_  
+__wet bar__ _n_  
 __whereabouts__  
+__whiplash__ _n_  
 __whistleblower__  
 __wholesome__ _adj_  
 __whooping cough__ _n_  
