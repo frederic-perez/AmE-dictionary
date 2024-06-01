@@ -1,10 +1,19 @@
+__(someone) ain’t seen nothing yet__  
 __a made guy__ In the context of James Ellroy’s novels, “a made guy” likely refers to a member of the Mafia who has been fully initiated into the organization. This term is synonymous with “a made man,” which means a person who has been inducted into the Mafia and has taken the oath of omertà, the Mafia code of silence and code of honor. A made guy is a fully initiated member of the Mafia family, holding the rank of soldier and having the potential to rise through the ranks.  
+__ain’t it the truth__  
+__ain’t__ _slang_ Contraction that can mean am not, are not, and is not. It can also mean have not, has not, do not, does not, or did not. It’s considered a no-no in formal writing.  
 __as of now__  
 __at (one’s) discretion__ :dart: In accordance with one’s thoughts or judgment on a particular issue.  
+__at a (single) stroke__ All at once, with a single decisive or powerful action.  
 __at the very least__  
 __at the whim of (someone)__  
+__Aunt Sally__ _n_ Primarily heard in UK. /ant SAL-ee/ __1__ An object of criticism. __2__ Someone or something set up as an easy target for criticism in order to deflect it from others.  
+__backchannel__ __1__ _n_ A clandestine avenue for conveying information or engaging in conversation, often in politics.  
+__be in for a surprise__ To be guaranteed to receive or experience an unexpected outcome, especially a negative one. _If you think being a parent is easy, then you’re in for a surprise!_  
+__be still in the game__ To remain a contender for success despite setbacks or difficulties. _Our competitors may have carved away a lot of our market, but we’re still in the game!_  
 __cool off__  
 __drive (one) to the brink__ :dart: To cause one to reach a point of desperation.  
+__esprit de l’escalier__  
 __fine-tune__  
 __fingers crossed__  
 __finish line__  
@@ -18,6 +27,7 @@ __fixer__ _slang_ One tasked with handling and alleviating problems for someone,
 __flag__ __2__ _v_ _slang_ To fail something. _You better study hard, or you’ll flag this exam._  
 __flak__ Criticism or judgment.  
 __flaky__  
+__flash Harry__ _n_ /flash HAR-ee/ A man who dresses and behaves in a vulgar, showy, or pretentious manner.  
 __flat-out__  
 __flip (one) the bird__ To raise the middle finger (a rude gesture of anger or displeasure) at one.  
 __float an idea__ To suggest something in order to gauge interest in it or others’ perception of it.  
@@ -99,11 +109,13 @@ __go to hell in a handcart__ To be in an extremely and increasingly bad or ruino
 __go with (someone or something)__  
 __golden__  
 __good to go__  
+__good-time Charlie__ An affable, lively, and entertaining man who is often or always seeking pleasure or a good time.  
 __grapple with (someone or something)__ :two::hammer:  
 __green thumb__  
 __heat wave__ A period of time in which the weather is unusually and persistently hot.  
 __hell on earth__  
 __hit the ground running__  
+__if it ain’t broke, don’t fix it__  
 __If you can’t beat ’em, join ’em__  
 __in a bit__  
 __in a flutter__ In a nervous, confused, or agitated state.  
@@ -114,11 +126,14 @@ __in and of itself__
 __in concert with (someone)__ Together with someone; in cooperation with someone. _You’ll need to work in concert with my file clerk to sort through all this paperwork._  
 __in full swing__  
 __in hot water__ :dart::two: Having provoked or incited anger, hostility, or punishment against oneself; in a troublesome or difficult situation, especially that which will result in punishment or reprisal. _I was in a bit of hot water with Janice last night when she found out I went to the movies instead of cleaning out the garage._  
+__in its infancy__ In the early, nascent period of development or implementation. (Typically of an area of activity, interest, research, etc.)  
 __in jeopardy__ In danger or at risk; imperiled.  
-__in layman’s terms__ :two::hammer:  
+__in layman’s terms__ :three::hammer:  
 __in less than no time__ (in no time) In a very little amount of time. Very quickly.  
 __in more ways than one__ In a number of ways. _I’m telling you, this idea of yours is a mistake in more ways than one._  
 __in no time (at all)__ (in less than no time) In a very little amount of time. Very quickly.  
+__in no way__ Not at all; not by any means.  
+__in no way, shape, or form__ In no possible manner; under no circumstances; not by any means. _In no way, shape, or form is this kind of behavior acceptable!_  
 __in one blow__ All at once, with a single decisive or powerful action.  
 __in one go__ All at one time or in one attempt. _We’ll never be able to carry all these boxes out in one go—we’ll have to make several trips._  
 __in order that__ So that; with the particular aim or purpose of.  
@@ -126,6 +141,7 @@ __in overdrive__
 __in place of (someone or something)__  
 __in plain view__ In full, unrestricted view; visibly, openly, or publicly.  
 __in single file__ In a line one person or one thing in width.  
+__in some sense__ Partly; in some or certain way(s).  
 __in support of__ __1__ In a way that shows approval of (something); in favor of (something). _A majority voted in support of the bill._ __2__ In order to support (something). _He presented evidence in support of his hypothesis._  
 __in tears__  
 __in the (grand) scheme of things__ In the long term; in the complete picture of something.  
@@ -227,6 +243,7 @@ __make one’s name__ To become well-known or famous.
 __male gaze__ The rendering of art, literature, etc., from the perspective of and for the consumption of heterosexual males, especially characterized by the depiction of women as passive objects of desire and pleasure. The phrase was coined by film theorist Laura Mulvey. _The male gaze will continue to dominate media until more and more women artists challenge the paradigm._  
 __masquerade as (someone or something)__  
 __matter of fact__  
+__mickey mouse__ _slang_ A reference to the cartoon character Mickey Mouse. Often capitalized. __1__ _n_ Something that is trivial or insignificant. _All I ever do at this job is a lot of mickey mouse._ __2__ _n_ A police officer. _You hear those sirens? Mickey Mouse is getting closer—we need to move it._ __3__ _n_ A small piece of paper containing LSD and imprinted with an image of Mickey Mouse. _Got any mickey mouse I can buy?_ __4__ _adj_ Trivial or insignificant. _She needs to get a real job instead of wasting time with this Mickey Mouse internship._  
 __middlebrow__ [:scroll: Formed on the pattern of highbrow and lowbrow] Neither particularly intelligent and refined nor particularly uncultured or crude in style, content, or quality. _I used to pride myself on my refined tastes when I was in college, but they’ve become positively middlebrow since I settled down as an adult._  
 __miss the mark__  
 __mix and match__  
@@ -247,6 +264,7 @@ __near and dear to (one)__
 __neat and tidy__ (neat and clean)  
 __neck and neck__  
 __need to be done__ To be required to be completed or acted upon.  
+__Nervous Nellie__ /nuhr-vuhs NEL-ee/(nervous Nellie/Nelly) Any nervous person, male or female. Someone who is more timid, nervous, or anxious than is normal or reasonable.  
 __no end in sight (to something)__  
 __no stranger to (something)__  
 __noblesse oblige__ /noh-BLESS-uh-BLEEZH/ Noblesse oblige refers to the idea that people who have high social rank or wealth should be helpful and generous to people of lower rank or to people who are poor.  
@@ -289,6 +307,7 @@ __once and for all__
 __once in a blue moon__ Very rarely.  
 __one size fits all__  
 __one-off__  
+__one-stop shop__ A physical or online location at which one can obtain everything one needs or wants all at once.  
 __one-up (someone)__ To make a point of outdoing, outperforming, outclassing, etc., someone.  
 __org__ __2__ _n_ An organization.  
 __out of commission__  
@@ -380,6 +399,7 @@ __run through (something)__ __4__ To guide one through or inform one of the proc
 __running high__ [for feelings] To be in a state of excitement or anger. _Feelings were running high as the general election approached._  
 __rush into (something)__  
 __said and done__ :dart: Agreed to and accomplished or finished. _When all is said and done, we’ll look back at this and laugh._  
+__Say it ain’t so, Joe!__ Your admitting your mistake would break my heart. “Shoeless” Joe Jackson was involved in the “Black Sox” baseball scandal in which eight Chicago White Sox players were accused of fixing the 1919 World Series. Legend has it that as Jackson was leaving the courthouse, a young fan tugged on his sleeve and, in a voice full of emotion, said, “Say it ain’t so, Joe.” When Jackson confirmed the accusation, the lad realized that his idol had feet of clay.  
 __schmuck__  
 __schtick__ _slang_ A particular gimmick, routine, or characteristic that distinguishes one or sets one apart from others. Originally from Yiddish. _The restaurant’s whole schtick is that your table is locked inside of a cage and, periodically, the lights go out while people in costumes come out to try to scare you._ _I tried writing more serious literary novels, but I realized that cheesy thrillers are just my schtick._  
 __scoop__  
@@ -491,6 +511,7 @@ __yada yada yada__
 __yea or nay__  
 __yikes__  
 __yips__ In the novels by James Ellroy, the phrase “she had the yips” likely refers to a condition of nervousness or a loss of nerve. This expression is often used in sports to describe a sudden loss of skill or confidence, particularly in activities like golf or baseball. In a broader context, it can signify a general state of anxiety or unease. Ellroy’s use of this term may indicate a character’s psychological state or emotional turmoil within the narrative.  
+__You ain’t seen nothing yet!__  
 __you’re on your own__ You have to deal with or resolve this situation without my or anyone else’s assistance.  
 __your highness__ __1__ A royal greeting. __2__ A greeting of someone who is high.  
 __yup__  

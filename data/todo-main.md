@@ -1,4 +1,5 @@
 __alastor__ _n_ /uh-LAS-tuhr/ An avenging deity or spirit, the masculine personification of Nemesis, frequently evoked in Greek tragedy.  
+__apodal__ _adj_ Having no limbs, feet, or footlike appendages. _Syn_ apodous _Eels are apodal and well adapted for wriggling in the mud, through the crevices of reefs, and along rocky shores._  
 __apostasy__ _n_ Abandonment of one’s religious faith, a political party, one’s principles, or a cause. _Syn_ defection, renunciation  
 __artifice__ _n_ /AHR-tuh-fus/ _Artifice_ refers to dishonest or insincere behavior or speech that is meant to deceive someone. It can also be used to mean “clever or artful skill.”  
 __athirst__ _adj_ Extremely desirous. _Syn_ hungry, thirsty _The young, enthusiastic student was athirst for knowledge._  
@@ -19,31 +20,45 @@ __closure__ _n_
 __code of conduct__  
 __code of ethics__  
 __code word__ _n_  
+__countermand__ _v_ /KOUNT-er-mand/  
 __counterword__ _n_  
 __curse word__ _n_ _Syn_ cussword, dirty word  
 __debacle__ _n_ /dee-BAH-kul/  
 __demeanor__ _n_ :mega:  
+__discernible__ _adj_ Capable of being seen or noticed. _Syn_ evident, observable  
 __dismay__ _vt_  
 __dopamine__ _n_ _Dopamine hit/rush._  
 __downpour__ _n_ A heavy fall of rain. _Syn_ pelter, soaker, torrent, cloudburst, deluge, waterspout  
+__dynasty__ _n_ /DYE-nuh-stee/ Dynasty refers to a group (such as a team, family, etc.) that is very powerful or successful for a long period of time. It is also often used for a family of rulers who rule over a country for a long period of time, as well as the period of time when a particular dynasty is in power.  
+__ebullient__ _adj_ /ih-BULL-yunt/  
+__eleemosynary__ _adj_  
 __entourage__ _n_  
 __escritoire__ _n_ A writing table; a desk. _Syn_ secretaire, writing table, secretary  
+__exothermic__ _adj_ Releasing heat. _Syn_ heat-releasing, exothermal  
 __fanfare__ _n_ /FAN-fayr/ __1__ A showy public display. __2__ A brief, lively sounding of brass instruments, especially trumpets, in a celebration.  
 __felon__ _n_  
+__felony__ _n_ A crime that has a greater punishment imposed by statute than that imposed on a misdemeanor.  
+__fiddle-faddle<sup>1</aup>__ _n_ /ˈfɪdəlˌfædəl/ Nonsense.  
+__fiddle-faddle<sup>2</sup>__ _v_ To fuss or waste time, esp over trivial matters.  
 __flexor__ _n_ A small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes. _Syn_ percussor, plessor  
 __flub<sup>1</sup>__ _n_ :dart: /flʌb/ An embarrassing mistake or blunder.  
 __flub<sup>2</sup>__ _v_ :dart: To blunder or make an embarrassing mistake. Make a mess of, destroy or ruin.  
+__foist__ _v_ /FOIST/ _Foist_, which is almost always used with _on_ or _upon_, is used when someone forces another person to accept something, usually something that is not good or is not wanted. Foist can also mean “to pass off as genuine or worthy.”  
 __footage__ _n_ :mega:  
 __formicary__ _n_ A nest of ants. _Syn_ anthill  
 __futile__ _adj_ /FYOO-tul/  
+__gadfly__ _n_ /GAD-flye/ In literal use, gadfly refers to any of various flies (such as a horsefly, botfly, or warble fly) that bite or annoy livestock. Gadfly is most popular in figurative use, however, where it refers to someone who provokes or annoys other people especially by persistent criticism. _The journalist was known as a gadfly for exposing hypocrisy in politics._  
 __galvanic__ _adj_ /gal-VAN-ik/ __1__ Stimulating; energizing; shocking. __2__ Relating to electric current, especially direct current.  
 __ghost word__ _n_  
+__glean__ _v_ /GLEEN/ To glean is to gather or collect something bit by bit, or in a gradual way. _Glean_ can also be used to mean “to search (something) carefully” and “to find out.”  
 __guide word__ _n_  
 __halcyon__ _adj, n_  
 __hangnail__ _n_ :dart: A small piece of dead skin at the side or the base of a fingernail that is partly detached from the rest of the skin. :es: padrastro  
 __headword__ _n_  
 __hibernal__ _adj_ Of or relating to winter. _Syn_ brumal, hiemal  
+__Hooray Henry__ _n_ /hoo-ray HEN-ree/ (Hooray Henrietta) A young, upper-class man who behaves in a loud, obnoxious, and often pretentious manner.  
 __impetuous__ _adj_  
+__inebriant__ _n_ An intoxicant. _Syn_ alcoholic beverage, intoxicant, alcohol  
 __injunction__ _n_ :two::hammer:  
 __innocuous__ _adj_  
 __instigate__ _v_ /IN-stuh-gayt/ To _instigate_ something is to cause it to happen or begin.  
@@ -56,6 +71,7 @@ __jackassery__ _n_ /ˈdʒækˌæsərɪ/ Foolish behaviour or stupidity.
 __jacksmith__ _n_  
 __Janus word__ _n_  
 __jaunt__ _n_ /dʒɔnt, dʒɑnt/ A short journey, especially one taken for pleasure.  
+__juggernaut__ _n_ An overwhelming, advancing force that crushes or seems to crush everything in its path. _Syn_ steamroller  
 __jurisprudence__ _n_ The philosophy or science of law. _Syn_ legal philosophy, law  
 __juror__  
 __kangaroo word__  
@@ -105,6 +121,8 @@ __ninepin__ _n_ A wooden pin used in the game of ninepins. _Syn_ skittle
 __nonce word__ _n_  
 __nonpartisan__ _adj_  
 __nonword__ _n_ :dart:  
+__nosegay__ _n_ A small bunch of flowers. _Syn_ bouquet, corsage, posy  
+__obstreperous__ _adj_ /ub-STREP-uh-rus/ Obstreperous is a formal word that describes people or things that stubbornly resist control; in this use it’s a synonym of _unruly_. A person or thing described as obstreperous may also be defiantly or aggressively noisy.  
 __obstruction of justice__ _n_ The criminal offense of intentionally hindering or interfering with the processes of law.  
 __on-site__  
 __onboard__ _adv_ __2__ Into a state of participation of support for an effort.  
@@ -120,6 +138,7 @@ __palmer__ _n_ :m: /ˈpɑːmə/ __1__ A pilgrim, esp. of the Middle Ages, who ha
 __palpable__ _adj_ /PAL-puh-bul/ Something described as _palpable_ is obvious and notable. _Palpable_ may also be used as a synonym of tangible to describe something that can be perceived by one’s sense of touch.  
 __panoply__ _n_ /PAN-uh-plee/  
 __Paralympics__ _n pl_  
+__parapraxis__ _n_ A minor error, such as a slip of the tongue, thought to reveal a repressed motive. _Syn_ slip-up, miscue, slip  
 __pasquinade__ _n_ A satire or lampoon, especially one that ridicules a specific person, traditionally written and posted in a public place. _Syn_ parody, put-on, sendup, spoof, charade, lampoon, mockery, burlesque, travesty, takeoff  
 __pauperism__ _n_ A state of extreme poverty or destitution. _Syn_ indigence, penury, need  
 __peculiar__ _adj, n_  
@@ -161,7 +180,9 @@ __racketeer<sup>2</sup>__ _vi_
 __reback__ _vt_  
 __recount__ _v_  
 __recusal__ _n_ /rɪˈkjuːzəl/ The withdrawal of a judge from a legal case.  
-__recuse__ _vt_  
+__recuse__ _vt_ :two::hammer:  
+__redolent__ _adj_ Having or emitting fragrance. _Syn_ aromatic  
+__Reich__ _n_ /raɪk, raɪx/  
 __repent__ _v_  
 __rife__ _adj_  
 __rile__ _vt_ __1__ To irritate or vex. _Syn_ nettle, chafe, provoke, annoy, irk  
@@ -183,6 +204,7 @@ __severance__ _n_
 __shelter__ _v_  
 __shimmy__ _v_  
 __showdown__ _n_  
+__shutout__ _n_ A defeat in a game where one side fails to score. _Syn_ skunk  
 __sideshow__ _n_  
 __sine die__  
 __single-handed__  
@@ -217,9 +239,11 @@ __suborn__ _vt_ :astonished:
 __subpoena__ _v_  
 __subservient__ _adj_  
 __surreptitious__ _adj_ Marked by quiet and caution and secrecy; taking pains to avoid being observed. _Syn_ furtive, stealthy, sneaky  
+__svelte__ _adj_ /SVELT/ Someone described as _svelte_ is considered slender or thin in an attractive or graceful way. _Svelte_ can also be used to describe something sleek, such as a vehicle or an article of clothing. _The svelte dancer seemed to float across the stage._  
 __swelter__  
 __swim lane__ _n_ (swimlane) __2__ A horizontal or vertical division of a process flow chart, typically used to visually separate the tasks of different actors.  
 __sympathetic__ _adj_ /ˌsɪm pəˈθɛt ɪk/  
+__symposium__ _n_ /sim-POH-zee-um/ (_n pl_ symposia, symposiums)  
 __table__ _vt_ __2__ To postpone consideration of (a piece of legislation, for example); shelve.  
 __tame__ _adj_ __4__ Insipid; flat: _a tame birthday party._  
 __tamper__  
@@ -257,6 +281,7 @@ __untapped__ _adj_ __2__ Not utilized: _untapped resources._
 __unwavering__  
 __vestige__ _n_ A visible trace, evidence, or sign of something that once existed but exists or appears no more. _Syn_ tincture, trace, shadow  
 __vet__ _v_ :two: __2__ :dart: To subject to thorough examination or evaluation: _vet a manuscript._  
+__vexillology__ _n_ /ˌvɛksɪˈlɒlədʒɪ/ The study and collection of information about flags.  
 __vicarious__ _adj_ :two: /vye-KAIR-ee-us/ A _vicarious_ emotion or experience is one felt by watching, hearing about, or reading about someone else rather than by doing something yourself. _He felt a vicarious thrill as his daughter crossed the stage to accept her diploma._  
 __victory lap__  
 __villager__ _adj_  
