@@ -1,28 +1,3 @@
-__(someone) ain’t seen nothing yet__  
-__a made guy__ In the context of James Ellroy’s novels, “a made guy” likely refers to a member of the Mafia who has been fully initiated into the organization. This term is synonymous with “a made man,” which means a person who has been inducted into the Mafia and has taken the oath of omertà, the Mafia code of silence and code of honor. A made guy is a fully initiated member of the Mafia family, holding the rank of soldier and having the potential to rise through the ranks.  
-__ain’t it the truth__  
-__ain’t__ _slang_ Contraction that can mean am not, are not, and is not. It can also mean have not, has not, do not, does not, or did not. It’s considered a no-no in formal writing.  
-__as of now__  
-__at (one’s) discretion__ :dart: In accordance with one’s thoughts or judgment on a particular issue.  
-__at a (single) stroke__ All at once, with a single decisive or powerful action.  
-__at the very least__  
-__at the whim of (someone)__  
-__Aunt Sally__ _n_ Primarily heard in UK. /ant SAL-ee/ __1__ An object of criticism. __2__ Someone or something set up as an easy target for criticism in order to deflect it from others.  
-__backchannel__ __1__ _n_ A clandestine avenue for conveying information or engaging in conversation, often in politics.  
-__be in for a surprise__ To be guaranteed to receive or experience an unexpected outcome, especially a negative one. _If you think being a parent is easy, then you’re in for a surprise!_  
-__be still in the game__ To remain a contender for success despite setbacks or difficulties. _Our competitors may have carved away a lot of our market, but we’re still in the game!_  
-__cool off__  
-__drive (one) to the brink__ :dart: To cause one to reach a point of desperation.  
-__esprit de l’escalier__  
-__fine-tune__  
-__fingers crossed__  
-__finish line__  
-__finish the job__  
-__first hand__  
-__first off__  
-__fishing expedition__  
-__fit the bill__  
-__five o’clock shadow__  
 __fixer__ _slang_ One tasked with handling and alleviating problems for someone, often illicitly.  
 __flag__ __2__ _v_ _slang_ To fail something. _You better study hard, or you’ll flag this exam._  
 __flak__ Criticism or judgment.  

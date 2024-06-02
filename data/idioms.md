@@ -78,6 +78,7 @@ __(someone’s or something’s) days are numbered__ :two::hammer:
 __(someone’s) native soil__ The country or geographical area in which someone was born or raised. _Though I’ve spent most of my adult life in London, it’s always nice to return to my native soil of Shanghai, if even for just a few days._  
 __(someone’s) take on (something)__ :dart: Someone’s perspective, opinion, or idea(s) about something.  
 __(someone) (just) doesn’t know when to quit__ Someone would be better off not doing something or acting a certain way because it is or may become destructive, counterproductive, futile, or undesirable.  
+__(someone) ain’t seen nothing yet__  
 __(someone) is endgame__ _slang_ In fandom, the idea that a particular romantic couple (or potential romantic couple) is meant to be together (and, in the context of a fictional work, that one thinks should be in a relationship when the work ends). The term is usually used by fans who are very invested in the pairing. Often, a portmanteau of the characters’ names precedes the verb, which is singular (despite alluding to multiple people). _Although Jackson and April on _Grey’s Anatomy_ had a rocky relationship over the years, Japril is still endgame for many fans._ _Klaine was always endgame to me, so I’m not surprised they ended up together on Glee._  
 __(someone/something) gets the job done__  
 __(something) as a service__  
@@ -209,6 +210,7 @@ __a long row to hoe__ A particularly difficult or problematic task, situation, o
 __a looker__ A particularly attractive person or thing. _I know I’ve never been much of a looker, but I try to make up for it with a confident, outgoing personality._  
 __a losing game__ A failing or hopeless effort; a situation or activity that is ultimately futile or cannot be won. (Most often used in the phrase “play a losing game.”) _You’re playing a losing game if you think you can convince Sarah to go to college._  
 __a lot on (one’s) plate__ :two: A lot to do. _I just have a lot on my plate right now while I’m finishing up my degree and doing this huge project for work._  
+__a made guy__ In the context of James Ellroy’s novels, “a made guy” likely refers to a member of the Mafia who has been fully initiated into the organization. This term is synonymous with “a made man,” which means a person who has been inducted into the Mafia and has taken the oath of omertà, the Mafia code of silence and code of honor. A made guy is a fully initiated member of the Mafia family, holding the rank of soldier and having the potential to rise through the ranks.  
 __a man of his word__ _He is a man of his word._  
 __a man/woman on a mission__ A person who is fiercely determined to do or get what they want. _Janet stormed into work like a woman on a mission, heading straight into her boss’s office to demand a raise in her salary._  
 __a match made in hell__ An extremely ill-suited pairing of people or things; a match that will result in a particularly negative or disastrous outcome. (A play on the more common phrase “a match made in heaven,” meaning the opposite.) _I can’t understand how John and Samantha are still together—they seem like a match made in in hell to me!_  
@@ -329,6 +331,8 @@ __ahead of time__ :two::hammer: _A day ahead of time._ _I apology ahead of time.
 __ahead of__ _Energy talks look likely this week, ahead of the Monday deadline._  
 __ahem, ahem__  
 __ahoy there, me hearties__  
+__ain’t it the truth__  
+__ain’t__ _slang_ Contraction that can mean am not, are not, and is not. It can also mean have not, has not, do not, does not, or did not. It’s considered a no-no in formal writing.  
 __air rage__ Sudden, unruly, and often violently aggressive behavior of a passenger aboard an airplane, generally while in the air, which puts the safety of other passengers, the crew, or the airplane at risk. The term is modeled on “road rage,” which is the equivalent behavior in relation to driving. _Airline crews are trained to diffuse incidents of air rage, which often start as minor disputes between passengers._  
 __akin to (something)__ :three: Having similar properties, characteristics, or aspects to something; analogous to something.  
 __al fresco__  
@@ -448,7 +452,7 @@ __as many as__ _As many as five terror plots were foiled last year._
 __as much as__ _Inside today’s Stateman as much as $215 in coupon savings._  
 __as much__ Almost the same: _I thought as much._ _She said as much._  
 __as of late__ :two::hammer:  
-__as of now__ :three: Starting now. From now on; from this moment on: _As of now, smoking is forbidden in this house._  
+__as of now__ :four: Starting now. From now on; from this moment on: _As of now, smoking is forbidden in this house._  
 __as of today__  
 __as simple as that__ Idiom used to describe something as extremely easy to understand or not complicated at all.  
 __as the crow flies__ By the most direct way, along a straight line between two places.  
@@ -462,9 +466,10 @@ __ask for the moon__ To ask for too much, to want something that is not possible
 __ask for trouble__  
 __at (long) last__ :three: Finally. Typically said after a long period. _My husband returns from his trip today at last—I’ve missed him so much!_  
 __at (one’s) beck and call__ Completely compliant or obedient to another person; catering to one’s every need. The phrase has a negative connotation. Ready to obey someone’s orders instantly; subject to someone’s slightest whim. _Do you really think I’ll do anything you say? I’m not at your beck and call!_  
+__at (one’s) discretion__ :dart: In accordance with one’s thoughts or judgment on a particular issue.  
 __at (one’s) leisure__ :dart::two: When one has free time; at one’s convenience: _I’ll return the call at my leisure._ _Enjoy coffee at your leisure._  
 __at (one’s) own game__  
-__at a (single) stroke__ All at once, with a single decisive or powerful action. _When the economy crashed, thousands of people lost their jobs, their homes, and their pensions at a single stroke._  
+__at a (single) stroke__ :two: All at once, with a single decisive or powerful action. _When the economy crashed, thousands of people lost their jobs, their homes, and their pensions at a single stroke._  
 __at a crossroads__ :dart::six::pencil2: At a point when a choice must be made; at a point of change. _After earning my degree, I’m at a crossroads. I need to figure out which direction my life should take._  
 __at a discount__ _Virtues are held at a discount._  
 __at a loss__ :two::hammer: _They sat inside the car, at a loss for what to do next._  
@@ -509,6 +514,8 @@ __at the outset__ At the beginning. _This quest seemed Quixotic at the outset._ 
 __at the ready__ :four: Available for immediate use. Available for use at any time. _Soldiers with machine guns at the ready._ _Students with notebooks at the ready._  
 __at the top of (one’s) lungs__ As loudly as one can.  
 __at the top of the hour__ :two: At the start of the hour (such as 12:00, 3:00, etc.). _And we’ll cover that news story at the top of the hour._  
+__at the very least__  
+__at the whim of (someone)__  
 __at times__ :two: On occasion; sometimes. _There was an incredible amount of stress at times._  
 __at top speed__ As fast as something or someone can go. _Once Tom caught the ball, he took off at top speed toward the end zone._  
 __at work__ __1__ At one’s place of work. _I’m sorry to call you at work, but this is important._ _She’s at work now. She’ll be home at supper time._ __2__ Working [at something]; busy [with something]. _Tom is presently at work on his project. He’ll be finished in a half hour._  
@@ -516,6 +523,7 @@ __at your leisure__
 __atone for (something)__  
 __attaboy__ :five: (atta boy) An expression of encouragement, support, or approval toward a boy, man, or male animal, used as a standalone interjection before or after a sentence. Largely presumed to be a corruption of the expression “that’s the boy.” _You won the spelling bee? Attaboy!_  
 __auld lang syne__ [At many New Year’s Eve parties, the song “Auld Lang Syne” is played or sung at midnight, as a means of saying farewell to the old year and greeting the new.] Old times, especially those that are remembered fondly. In Scottish, the phrase means “old long since.” _Come on, you’re only in town for a few days—let’s go to dinner for auld lang syne._  
+__Aunt Sally__ _n_ Primarily heard in UK. /ant SAL-ee/ __1__ An object of criticism. __2__ Someone or something set up as an easy target for criticism in order to deflect it from others.  
 __avoid (someone or something) like the plague__  
 __aw__ :dart::two::hammer: _interj_ [Sometimes elongated with multiple w’s to add emphasis.]  
 __awash__ _adj_ Drunk.  
@@ -551,6 +559,7 @@ __back to square one__ :three::hammer:
 __back to the salt mines__ Back to one’s job or daily work, especially when it is very hard or unpleasant. (Workers in salt mines were often slaves and prisoners.) Sometimes used humorously. _I’m not excited to get back to the salt mines on Monday._  
 __back-of-the-envelope ideas__ Rough ideas.  
 __backbiting__ :dart: The act of saying malicious, nasty, or catty things about someone. _Don’t let her backbiting deter you—she complains about everyone and everything all the time._  
+__backchannel__ __1__ _n_ A clandestine avenue for conveying information or engaging in conversation, often in politics.  
 __backdoor__  
 __backhanded compliment__ :dart: An insulting or negative comment disguised as praise.  
 __backpedal__ :three: To quickly and often abruptly reverse or retreat from one’s position or opinion on a given subject. Refers to pedaling backwards on a bicycle (done to apply the brakes on fixed-gear bikes), or to taking quick, backward steps, as in football or boxing. _The actor had to backpedal when he let slip a racist remark during the press conference._  
@@ -683,7 +692,7 @@ __be hounded (by someone or something)__ :two: To be pursued, chased, badgered, 
 __be in a pickle__ _slang_ To be in a troublesome situation.  
 __be in a spin__  
 __be in bad with (someone)__ To be disliked or out of favor with someone; to be in trouble with someone. _After pointing out her mistake on the first day of class, I was in bad with my teacher for the rest of the semester._  
-__be in for a surprise__ To be guaranteed to receive or experience an unexpected outcome, especially a negative one.  
+__be in for a surprise__ :two: To be guaranteed to receive or experience an unexpected outcome, especially a negative one. _If you think being a parent is easy, then you’re in for a surprise!_  
 __be in for a treat__ To be guaranteed to receive or experience something unexpectedly pleasant or beneficial. _Is this your first time seeing this movie? Gosh, you.re in for a treat!_  
 __be in line__  
 __be in over (one’s) head__ To be too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer. _I think I’m in over my head with Amy. She wants marriage, kids, and a house, and I’m just not ready for any of that._  
@@ -756,7 +765,7 @@ __be sold on (something)__ To be confident in or convinced about something’s v
 __be something to (something)__ To have some degree of importance, truth, or value. _You know, there might be something to all this “positive thinking” you keep going on about._ _The detective initially brushed off the pattern as nothing but coincidence, but after it started appearing at each and every crime scene, he began to think there was something to it._  
 __be spot on__ To be exactly right; to be perfectly accurate.  
 __be square (with one)__ :two: To no longer be in dispute or disagreement with one; to not be indebted to one anymore. _Look, if you just help me get this job, we’ll be square._  
-__be still in the game__ To remain a contender for success despite setbacks or difficulties.  
+__be still in the game__ :two: To remain a contender for success despite setbacks or difficulties. _Our competitors may have carved away a lot of our market, but we’re still in the game!_  
 __be stoked__ _slang_ :two: To be very excited or enthusiastic (about someone or something). _I’ve been so stoked about our trip to Europe that I can barely contain myself!_ _Everyone I know is stoked to see the new Roboformers movie next week!_  
 __be taken by surprise__ To be happened upon when one is not ready, prepared, or on guard; to be shocked or startled by someone or something. _I was taken completely by surprise when you showed up at my office this afternoon for lunch. I wish you would have called ahead!_  
 __be the butt of the joke__  
@@ -1436,7 +1445,7 @@ __cool customer__ :dart: Someone who remains even-tempered, especially in stress
 __cool head__ The ability to remain calm and rational during stressful situations. _The successful outcome of the hostage situation was due to the police officer°s cool head._  
 __cool headed__  
 __cool it__  
-__cool off__  
+__cool off__ :two::hammer:  
 __cool reception__ An unenthusiastic, disdainful, or unfriendly welcome. _My wife met me with a rather cool reception when I came home at 3 AM._  
 __cool your jets!__ Calm down! This caution began with air force pilots reducing their jet planes’ air speed and, by so doing, reducing strain on the engine caused by excess heat. Among similar “relax!” phrases are “hold your horses!” “chill out!” “keep your pants on!” and “don’t get your bowels in an uproar!”  
 __coop up__ To restrict someone or something to a particular, usually small, space for a length of time. A noun or pronoun can be used between “coop” and “up.” _Just let the dogs run in the yard—they’ve been cooped up all day._ _After that snowstorm cooped us up for days, we were thrilled to leave the house again._  
@@ -1787,6 +1796,7 @@ __drill in(to) (someone or something)__
 __drink like a fish__ To drink too much alcohol.  
 __drive (one’s) pigs to market__ To snore. _I can’t get any sleep with Will driving his pigs to market every night—I think it’s time for him to see a doctor about his snoring._  
 __drive (one) batty__ :two: (drive someone nuts) To annoy or frustrate one to the point of exasperation. _A week on vacation with my relatives is enough to drive me batty._ _That loud beeping noise is driving me batty!_ _You are certainly annoying! You’re going to drive me batty. These tax forms are driving me nuts._  
+__drive (one) to the brink__ :dart: To cause one to reach a point of desperation.  
 __drive home__  
 __driver’s seat__ :two::hammer: _We want to put the users in the driver’s seat when it comes to how their data is used._  
 __driving force__  
@@ -1858,6 +1868,7 @@ __entitle (one) to (do something)__
 __entry level__  
 __envelope > push the envelope__ To go beyond established limits; to pioneer.  
 __err on the side of caution__  
+__esprit de l’escalier__  
 __et alia__  
 __etch (something) in(to) (something)__ To cut something, such as a design or message, into some material or surface. _Here, use this to try to etch your name into the glass._  
 __eureka moment__ :two: A moment or instance at which a sudden, revelatory idea, realization, or solution to a problem comes to mind.  
@@ -1989,11 +2000,13 @@ __find (one‘s) bearings__ To recognize or determine one’s orientation, posit
 __find (something) out the hard way__ :two: To learn or discover something through personal experience, especially that which is difficult, painful, or unpleasant. Can also be phrased as “find out about something the hard way.”  
 __find for__  
 __finders keepers(, losers weepers)__  
-__fine-tune__ :two::hammer::pencil2:  
+__fine-tune__ :three::hammer::pencil2:  
 __finger on the pulse__  
 __finger-licking good__ Very tasty.  
-__fingers crossed__ An expression of hope that something one desires will come to pass or turn out to be true. A truncated version of the phrase “keep your fingers crossed.”  
+__fingers crossed__ :two: An expression of hope that something one desires will come to pass or turn out to be true. A truncated version of the phrase “keep your fingers crossed.”  
+__finish line__  
 __finish off__  
+__finish the job__  
 __fink on (someone)__ To report someone’s misdeeds to an authority figure. _The gang was determined to find the traitor who finked on them to the police._  
 __fire hose__ :two: A strong, heavy stream of something. _When I defended my dissertation, it felt like the questions were coming at me like a fire hose._  
 __fire up__ :two: __1__ To cause someone to feel more passionate or excited about someone or something. In this usage, a noun or pronoun can be used between “fire” and “up.” _I know our players are nervous about the big game, but it’s our job as coaches to fire them up._ _I have to fire up the electorate if I want them to vote for me._  
@@ -2002,15 +2015,16 @@ __fired up__ Excited; enthusiastic. _How can you be so fired up at this time of 
 __firing both barrels all the time__ _You know your father: firing both barrels all the time._  
 __first and foremost__ :four::hammer:  
 __first dibs__ _It is something we want first dibs on._  
-__first hand__ Direct(ly) (as opposed to second hand, or from a source other than oneself). Often hyphenated if used as a modifier before a noun. _As a teacher, I’ve seen first hand how reading can change children’s lives._ _We were finally about to hear some first-hand accounts of what happened._  
+__first hand__ :two: Direct(ly) (as opposed to second hand, or from a source other than oneself). Often hyphenated if used as a modifier before a noun. _As a teacher, I’ve seen first hand how reading can change children’s lives._ _We were finally about to hear some first-hand accounts of what happened._  
 __first impression__ The initial, introductory evaluation upon meeting a person, encountering something, or experiencing a situation for the first time. _I had a bad first impression of the job when, on my very first day, the boss humiliated me in front of everyone in the office._  
-__first off__ :dart::two::hammer:  
+__first off__ :dart::three::hammer:  
 __first port of call__ :two: The first place where one stops to visit, accomplish something, or begin a process. Taken from nautical terminology, referring to the first port that a seafaring vessel calls in to at the beginning of a voyage. _The president’s first port of call on his re-election campaign will be his hometown._  
 __first things first__ :three::hammer:  
 __fish eye__ _Nobody on the bus would give you the fish eye if you were a grown man and happened to be reading it._  
+__fishing expedition__  
 __fit like a glove__ To fit perfectly.  
-__fit the bill__ :four::hammer: (fill the bill) _His appearance fitted the bill._  
-__five o’clock shadow__ :two: A short beard on a man’s face that has grown since the morning shave.  
+__fit the bill__ :five::hammer: (fill the bill) _His appearance fitted the bill._  
+__five o’clock shadow__ :three: A short beard on a man’s face that has grown since the morning shave.  
 __fix up__  
 __fizzle out__  
 __fizzle__ __2__ To fail or weaken, often slowly over time. _No, I don’t have a back-up plan—I didn’t expect this idea to fizzle out so fast._  
