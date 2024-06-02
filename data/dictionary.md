@@ -11152,6 +11152,7 @@ __luxe<sup>2</sup>__ _adj_ _People were accustomed to creating luxe interiors._
 __luxuriant__ _adj_ Produced or growing in extreme abundance. _Syn_ lush, profuse, riotous, exuberant _The rivulet was hidden by the luxuriant vegetation of the banks save at one point, where I caught a triangular patch of its glittering water._  
 __luxuriate__ _v_ :two::hammer: _Luxuriate and pamper yourself._  
 __luxurious__ _adj_ _Luxurious furs._  
+__lycanthrope__ _n_ A monster able to change appearance from human to wolf. _Syn_ werewolf, wolfman, loup-garou  
 __lycanthropy__ _n_ /lye-KAN-thruh-pee/ Lycanthropy refers to the power or ability to take the shape and characteristics of a wolf through witchcraft or magic. It can also mean “a delusion that one has become a wolf.” _The 1941 film _The Wolf Man_ starred Lon Chaney, Jr., as a man cursed with lycanthropy._  
 __lyceum__ _n_ A school for students intermediate between elementary school and college; usually grades 9 to 12. _Syn_ secondary school, Gymnasium, lycee, middle school  
 __lye water__  
@@ -11204,6 +11205,7 @@ __madrasa__ _n_ :two: (madrasah, madrassa, madrasas) An Islamic school or colleg
 __madrigal__ _n_ :two::hammer:  
 __madrigalist__ _n_  
 __madrigals__ _n_ :pencil2:  
+__maecenatism__ _n_ /my/mi-SEE-nuh-tiz-uhm /Patronage, for example, the support or financial sponsorship provided to artists, musicians, or writers.  
 __maelstrom__ _n_ :nine::m: /MAIL-strum/ __1__ A violent or turbulent situation: _caught in the maelstrom of war._ __2__ A whirlpool of extraordinary size or violence. _Syn_ whirlpool, vortex _Suddenly going down in a maelstrom, within three rods of the planks, he wholly disappeared from view, as if diving under the keel._  
 __magazine__ _n_ _They were pledged to keep the castle’s magazines full of millet and rice._  
 __maggot__ _n_ :dart::camera::three::hammer: (maggots)  
@@ -11223,6 +11225,7 @@ __maiden<sup>1</sup>__ _n_
 __maiden<sup>2</sup>__ _adj_ :two: __4__ Done for the first time. _A maiden flight._  
 __mail vest__ _n_ _The man wore a mail vest and greaves._  
 __mail__ _n_ :three::hammer: _When we go into battle, the elephant wears his own mail._ _Some elephants were laden with bundles of war mail._ _Elephants covered in mail._  
+__mailed fist__ _n_ [:scroll: Translation of German gepanzerte Faust (mailed fist), from Panzer (armor) + Faust (fist)] The threat of military force. A threat or show of force to maintain control. :es: la mano dura  
 __mailed__ _adj_ :pencil2: __1__ Covered with or made of plates of mail: _a mailed sleeve._ __2__ Having a hard covering of scales, spines, or horny plate, as an armadillo or a lobster.  
 __mailman__ _n_  
 __maim__ _v_ :five: (maimed) Wound or injure (a person or animal) so that part of the body is permanently damaged. _v_ _Civilians who are not fighting are being maimed and starved._ :es: mutilar  
@@ -11323,7 +11326,7 @@ __manhandle__ _v_ :three::hammer: (manhandled) _Manhandling the striker around t
 __Manhattanite__ _n_ :two::hammer:  
 __manhole cover__  
 __manhole__ _n_  
-__manhunt__ _n_ :three: An organized search, usually by police, for a wanted man or fugitive. _A psychological manhunt for happiness._  
+__manhunt__ _n_ :four: An organized search, usually by police, for a wanted man or fugitive. _A psychological manhunt for happiness._  
 __mania__ _n_ :two::hammer:  
 __manic episode__ _n_ :two::hammer:  
 __manic__ _adj_ :three::mega::hammer: _I was manic._  
@@ -11437,7 +11440,7 @@ __massacre<sup>2</sup>__ _v_ :two::hammer: _Five of them were killed and eighty 
 __masseur__ _n_ A man who gives massages professionally. :es: masajista  
 __masseuse__ _n_ :three: A woman who gives massages professionally. :es: masajista  
 __massif__ _n_ :two::hammer: :es: macizo  
-__massive__  
+__massive__ _adj_ :two::hammer:  
 __mast__ _n_ _The flag was flown at half mast._  
 __mastermind__ _v_ :two::hammer: (masterminding)  
 __masterpiece__ _n_ :two::hammer:  
@@ -11464,6 +11467,7 @@ __matron__ _n_ :two::hammer: _A jailhouse matron._
 __matsuri__  
 __matt__  
 __matte__  
+__Mattel__ _n_ A relatively rare last name. It is most commonly found in France, according to one source.  
 __matter-of-fact__ _adj_ :two::hammer:  
 __matter-of-factly__ _adv_ :three::hammer:  
 __mattock__ _n_ :three: A kind of pick that is used for digging; has a flat blade set at right angles to the handle.  
@@ -11475,7 +11479,8 @@ __Maundy Thursday__ _n_ :two: (Holy Thursday, Sheer Thursday) A Christian holy d
 __maundy__ _n_ [:scroll: From the Old French mande, in turn from the Latin mandātum, which means “mandate or command.” As you may have guessed, this Latin word is the source of the English mandate.] The ceremony of washing the feet of the poor, especially commemorating Jesus’s washing of his disciples’ feet on Maundy Thursday.  
 __mauve__ _n_  
 __maven__ _n_ :four: A person who has special knowledge or experience; an expert.  
-__maverick__ _n_ An independent individual who does not go along with a group or party.  
+__maverick<sup>1</sup>__ _adj_ Being independent in thought and action or exhibiting such independence. _Syn_ unorthodox, irregular  
+__maverick<sup>2</sup>__ _n_ An independent individual who does not go along with a group or party.  
 __mavis__ _n_ /ˈmeɪvɪs/  
 __maw__ _n_ :five::hammer:  
 __mawkish__ _adj_ :five: /MAW-kish/ Mawkish means “exaggeratedly or childishly emotional,” and is often used to describe works of art, music, or literature that a critic finds cloying. Excessively and objectionably sentimental. Effusively or insincerely emotional. _Syn_ bathetic, hokey, maudlin, schmaltzy, sentimental, mushy, drippy _His pathos is often exaggerated until it passes into mawkish sentimentality._ _Although Olivia was embarrassed by the mawkish poetry that filled her old high school diaries, she couldn’t bring herself to throw them away._  
@@ -11510,7 +11515,7 @@ __meandering__ _adj_
 __meaningful__  
 __meanness__ _n_ :pencil2: __1a__ Unkindness, spitefulness, or unfairness. _Aal the hatred and meanness, despair and sorrow surrounding us._ __b__ _North American_ Aggressive character; viciousness. _He is also callous, with a streak of meanness._ __2__ Lack of quality or attractiveness; shabbiness. _The meanness of that existence._  
 __measles__ _n_ :seven::pencil2::mega::hammer: :es: sarampión  
-__measly__ _adj_ :two: __2__ _informal_ Meagre in quality or quantity. Contemptibly small; meager: _gave the waiter a measly tip._ _All that abuse for a measly $20?_ _I couldn’t help but wonder if I was supposed to feel stupid for withstanding all that abuse for a measly $20._  
+__measly__ _adj_ :three: __1__ Infected with measles.__2__ _informal_ Meagre in quality or quantity. Contemptibly small; meager: _gave the waiter a measly tip._ _Syn_ paltry, miserable _All that abuse for a measly $20?_ _I couldn’t help but wonder if I was supposed to feel stupid for withstanding all that abuse for a measly $20._  
 __measure up__ _phr v_ To be good enough or to be of the required standard.  
 __meat and potatoes__  
 __meat at the bone__  
@@ -11539,7 +11544,8 @@ __meds__
 __medulla__ _n_ :mega: /mɪˈdʌlə/  
 __meek<sup>1</sup>__ _adj_ :nine::m: Very quiet and gentle and unwilling to argue with people. _Blessed are the meek._  
 __meek<sup>2</sup>__ _n_  
-__meekly__ _adv_ :four::hammer:  
+__meekly<sup>1</sup>__ _adj_ __1__ Showing patience and humility; gentle. __2__ Easily imposed on; submissive.  
+__meekly<sup>2</sup>__ _adv_ :four: In a submissive or spiritless manner. _Meekly bowed to his wishes._  
 __meekness__ _n_ :three::hammer:  
 __meerkats__ _n_  
 __meet up__  
@@ -11562,7 +11568,7 @@ __melancholy<sup>2</sup>__ _adj_ :four::astonished::hammer: _A melancholy man._
 __melange__ _n_ :two: (mélange) A mixture. _Syn_ mishmash, farrago, hodgepodge, mingle-mangle, oddments, odds and ends, omnium-gatherum, ragbag _The movie was a strange melange of romance, science fiction, comedy, and drama._  
 __meld<sup>1</sup>__ _v_ :two: /MELD/ __1__ To blend or merge. To blend or mix together. _The sauce cooks slowly, allowing the flavors to meld together._ __2__ [:scroll: From German melden (to announce).] To declare or make known. For example, in some card games, to declare or display a card or a combination of cards so as to score points.  
 __meld<sup>2</sup>__ _n_ __1__ A blend or merger. __2__ [:scroll: From German melden (to announce).] A card or a combination of cards declared or laid down to score points.  
-__melee__ _n_  
+__melee__ _n_ :two: /MAY-lay/ _Melee_ refers to a confused fight or struggle, especially one involving hand-to-hand combat.  
 __mellifluous__ _adj_ :four: /muh-LIFF-luh-wus/ Pleasing to the ear. _Syn_ mellisonant, dulcet, sweet _Her mellifluous voice could make him agree to anything._  
 __mellow__  
 __mellow<sup>1</sup>__ _adj_ :four::hammer: _Mellow flavor._ _A mellow vibe._  
@@ -11690,6 +11696,7 @@ __micturate__ _v_ A less common word for urinate.
 __mid__ _adj_ Mediocre, unimpressive, or disappointing.  
 __mid-afternoon__  
 __midafternoon__  
+__Midas__ _n_ /ˈmaɪdəs/  
 __midas__ _n_ /MY-duhs/ [:scroll: After the legendary King Midas who was given the power that anything he touched turned into gold.] __1__ One with the ability to easily turn anything profitable. __2__ One who is extremely wealthy.  
 __midday__ _n_ :four::pencil2: The middle of the day; noon. _Normalize midday naps._  
 __midden__ _n_ A dunghill or refuse heap. _Syn_ muckheap, muckhill, dunghill  
@@ -11799,6 +11806,7 @@ __mirth__ _n_ :seven: /mɜrθ/ Gladness and merriment, especially when expressed
 __mirthful__  
 __mirthless__  
 __misadventure__ _n_ :two: An instance of misfortune; a mishap.  
+__misaligned__ _adj_  
 __misanthrope__ _n_ /MISS-un-throhp/ Someone who hates people in general.  
 __misanthropic__ _adj_ :two: Characterized by a hatred or mistrustful scorn for humankind. _Syn_ cynical _Perhaps rendered more misanthropic by the infirmities that come with years upon a ship, she had made up her mind to kill all hands at once._  
 __misapprehension__  
@@ -11814,6 +11822,7 @@ __mischance__ _n_ :three: __1__ An unfortunate occurrence; a mishap. __2__ Bad l
 __mischief__ _n_ :six::hammer:  
 __mischievous__ _adj_ :four::mega::hammer: /MISS-chuh-vuss/  
 __misclassification__ _n_ :pencil2:  
+__misconception__ _n_  
 __misconduct__ _n_ :three::hammer:  
 __misconstrue__ _vt_ :two::hammer:  
 __miscreant__ _n_ :nine::m: A miscreant is a person who is bad––who lies, breaks the law, yells at small puppies. It’s a somewhat old-fashioned word, popular with old ladies shocked at having their purses stolen at the opera. A person without moral scruples. _Syn_ reprobate  
@@ -11840,7 +11849,7 @@ __mishmash__ _n_ :two::hammer:
 __misidentification__  
 __misinformation__ _n_ :four: False information that is spread, regardless of intent to mislead. Information that is incorrect.  
 __miskey__ _vt_ :dart::two: /ˌmɪsˈkiː/ (miskeyed) To key (something) incorrectly on a keyboard. _He mislaid his keys._  
-__mismatch__ _n_ :three::pencil2::hammer:  
+__mismatch__ _n_ :four::pencil2::hammer:  
 __misnomer__ _n_ :nine::m::pencil2: /miss-NOH-mer/ __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation _Peanut is one of the most famous misnomers, because peanuts are legumes, not true nuts._ __2__ The act of wrongly naming or designating, as in “calling complicated and varied climatic changes ‘global warming’ is something of a misnomer.” _To call this “neighborhood policing” would be a misnomer._  
 __miso__ _n_  
 __misogynist__ _adj_ :two: One who hates or mistrusts women.  
@@ -11960,6 +11969,7 @@ __monopsony__ _n_
 __monosemous__ _adj_ /mon-uh-SEE-muhs/ [:scroll: From Greek mono- (one) + sema (sign)] Having only one meaning.  
 __monotonous__ _adj_ Tediously repetitious or lacking in variety. _Syn_ humdrum _Spending eight hours a day on an assembly line is monotonous work, but I am grateful to have a job._  
 __monsoon__ _n_ :four::hammer:  
+‌__monster truck__ _n_  
 __monstera__ _n_ :mega: /ˈmɑnstərə/  
 __monstrosity__ _n_ :pencil2::three::hammer:  
 __montage__ _n_ A single pictorial composition made by juxtaposing or superimposing many pictures or designs. _Syn_ collage _The children’s gift to their grandmother was a montage of family pictures._  
@@ -11994,7 +12004,7 @@ __mopping up__
 __moral__  
 __morale__ _n_ :five::hammer: _The sunken morale left by defeats._  
 __morass__ _n_ :seven: /muh-RASS/ (morasses) __1__ Morass is used literally to refer to an area of soft, wet ground, especially a marsh or swamp. A tract of swampy low-lying land. _I’m often late getting to work when mud season turns my dirt road into an all but impassable morass._ __2__ It is also often used figuratively to mean “a complicated or unpleasant situation that is difficult to get out of or to move through.” A disordered or muddled situation or circumstance, esp one that impedes progress. Something that hinders, engulfs, or overwhelms. _A morass of details._ _We slog through a morass of tangled brambles and hidden pitfalls._ _Social media can make it difficult to discern the truth of something amid the morass of misinformation._ __3__ A book of magical knowledge, especially one containing spells.  
-__moratorium__ _n_ :two::hammer:  
+__moratorium__ _n_ :three::hammer:  
 __moray eel__ _n_  
 __morbid__ _adj_ :two: __2__ Gruesome.  
 __morbidity__ _n_ :four: The relative incidence of a particular disease. _COPD is responsible for considerable morbidity and mortality._ _Conditions such as back pain and arthritis are the biggest cause of morbidity in the UK._  
@@ -12147,6 +12157,7 @@ __munition__ _n_ :four::hammer: (munitions) _The munitions factory._
 __muons__ _n_ _Cosmic-ray muons._  
 __mural__ _n_  
 __murder book__ _n_ The case file of a murder investigation.  
+__murder-suicide__ _n_ A murder in which the killer subsequently commits suicide.  
 __murderess__ _n_ :astonished: A woman who commits murder.  
 __muriatic__  
 __murk__ _n_  
@@ -12298,7 +12309,7 @@ __nay__ _n_ __1__ A denial or refusal. __2__ A negative vote or voter.
 __naysayer__ _n_ :four::hammer:  
 __ne plus ultra__ _n_ :two: /nay-plus-UL-truh/ Ne plus ultra refers to the highest point of development or success that something may achieve; it is a synonym of acme. The extreme or perfect point or state. _The new building is the ne plus ultra of theatrical design._ _The company’s latest electric car is being hailed as the ne plus ultra of automotive achievement._  
 __Neapolitan__ _adj, n_ :two::pencil2:  
-__near__ _v_  
+__near__ _v_ :two::hammer:  
 __nearcation__ _n_ A vacation to a destination relatively close to one’s home.  
 __nearlywed__ _n_  
 __neat__ _adj_ :three::hammer: _Shots of whiskey, moonshine, vodka and cordial served neat or on the rocks._ _That’s a neat idea, Jupe._  
@@ -12418,6 +12429,7 @@ __niche<sup>2</sup>__ _n_ :six::hammer::mega: /nɪtʃ; niːʃ/ /nĭch, nēsh/
 __nick<sup>1</sup>__ _n_ _In a nick of time._  
 __nick<sup>2</sup>__ _v_ _Marbles that we knicked from Greece._  
 __nickel__ _n_ _A nickel mine._  
+__nickelodeon__ _n_ A cabinet containing an automatic record player; records are played by inserting a coin. _Syn_ jukebox  
 __nickle-and-dime__ _adj_ _A nickle-and-dime con man._  
 __nickleodeon__ _n_ _There are lots of nickleodeons for the kids._  
 __nidus__ _n_ /NY-duhs/ __1__ A nest. __2__ A source or the central point, especially of infection where bacteria or other pathogens breed.  
@@ -12448,6 +12460,7 @@ __niladic__
 __nimble__ _adj_ :seven: (nimbler, nimbly) __1__ Quick and light in movement or action; agile. _With a deft motion of her nimble fingers._ _Syn_ agile, graceful, deft, dexterous :es: ágil __2__ (of the mind) Able to think and understand quickly. _Her mind was so nimble and she was so quick to learn._  
 __nimiety__ _n_ :two::astonished: Superfluity; excess. _Syn_ excess, surplus, surplusage  
 __nimrod__ _n_ :two: __1__ (also Nimrod) A hunter. __2__ _informal_ Idiot, jerk.  
+__ninepin__ _n_ A wooden pin used in the game of ninepins. _Syn_ skittle  
 __ninja stars__  
 __ninnyhammer__ _n_ /ˈnɪnɪˌhæmə/ _US and Canadian_ A ninny. A fool; a simpleton.  
 __nip-and-tuck__  
@@ -12511,6 +12524,7 @@ __non-negotiable__ _adj_ :five: Not open to negotiation or discussion: _the poli
 __non-perishables__  
 __nonanswer__ _n_  
 __noncall__ _n_ (sports) A failure to make a call, such as by a referee. _He complained about noncalls._  
+__nonce word__ _n_  
 __nonce__ _n_ :two: The present or particular occasion. _Syn_ time being _Her tendency to discover a touch of sadness had for the nonce disappeared._  
 __nonchalance__ _n_  
 __nonchalant__ _adj_ :nine::m: /nahn-shuh-LAHNT/ Behaving calmly and not seeming interested in anything or worried about anything. Having an air of easy unconcern or indifference. _The most experienced public speakers are able to address audiences with a nonchalant ease._  
@@ -12527,7 +12541,7 @@ __nonlinear__ _adj_
 __nonnegotiable__ _adj_  
 __nonpareil<sup>1</sup>__ _adj_ /nahn-puh-REL/ Having no equal. _The singer’s stunning performance was nonpareil._  
 __nonpareil<sup>2</sup>__ _n_ A person or thing that is unsurpassed or unmatched; peerless example. _Syn_ nonesuch, apotheosis, ideal, paragon, saint  
-__nonpartisan__ _adj_  
+__nonpartisan__ _adj_ :two::hammer:  
 __nonpliable__ _adj_ Not pliable. _Nonpliable products._  
 __nonplus<sup>1</sup>__ _v_ :three: To put at a loss as to what to think, say, or do. _Syn_ bewilder, dumbfound, flummox, baffl1, mystify, perplex, puzzle, stupefy, amaze, gravel, vex, pose, stick, beat, get _He was nonplussed by the sudden announcement that the company where he had worked for the past 20 years was declaring bankruptcy and shutting its doors._  
 __nonplus<sup>2</sup>__ _n_  
@@ -12540,6 +12554,7 @@ __nonspecific__ _adj_
 __nonstaff jobs__  
 __nonstarter__ _n_ An idea, proposal, or candidate with no chance of being accepted or successful. _Syn_ failure, loser  
 __nonstop__  
+__nonword__ _n_ :dart:  
 __noodgy__ _adj_ /NOO-jee/ [:scroll: From noodge (to pester; one who pesters)] Nagging, pestering, annoying, or complaining.  
 __noodle<sup>1</sup>__ _n_ Brain. _Use your noodle._  
 __noodle<sup>2</sup>__ _v_ To improvise music on an instrument in an idle, haphazard fashion.  
@@ -12565,6 +12580,7 @@ __nosebag__ _n_ A canvas bag that is used to feed an animal (such as a horse). _
 __nosebleed__ _n_ :two::hammer: (nosebleeds)  
 __nosedive<sup>1</sup>__ _n_  
 __nosedive<sup>2</sup>__ _vi_ :two::hammer: _My confidence has been nose diving._  
+__nosegay__ _n_ A small bunch of flowers. _Syn_ bouquet, corsage, posy  
 __nosh<sup>1</sup>__ _vi_ _informal_ :four: To snack or eat between meals. _Late-night noshing._  
 __nosh<sup>2</sup>__ _vt_ To snack on: _to nosh potato chips._  
 __nosh<sup>3</sup>__ _n_ A snack.  
@@ -12696,8 +12712,9 @@ __obsequious__ _adj_ :four: Characterized by or showing servile obedience and ex
 __obsequiously__  
 __obsidian__  
 __obstinate__ _adj_ :two::hammer: /AHB-stuh-nut/  
-__obstreperous__ _adj_ :seven: __1__ Resisting control or restraint in a difficult manner; unruly. Noisily unruly or defiant: _The restaurant owner ejected the obstreperous customer._ __2__ Noisily and stubbornly defiant. _Syn_ unruly Noisy, clamorous, or boisterous. _Although the teacher ordered them to sit down, the obstreperous boys continued their antics._  
+__obstreperous__ _adj_ :eight: /ub-STREP-uh-rus/ Obstreperous is a formal word that describes people or things that stubbornly resist control; in this use it’s a synonym of _unruly_. A person or thing described as obstreperous may also be defiantly or aggressively noisy. __1__ Resisting control or restraint in a difficult manner; unruly. Noisily unruly or defiant: _The restaurant owner ejected the obstreperous customer._ __2__ Noisily and stubbornly defiant. _Syn_ unruly Noisy, clamorous, or boisterous. _Although the teacher ordered them to sit down, the obstreperous boys continued their antics._  
 __obstreperousness__  
+__obstruction of justice__ _n_ The criminal offense of intentionally hindering or interfering with the processes of law.  
 __obtain__ _v_ /ub-TAYN/ /əbˈteɪn/  
 __obtrude<sup>1</sup>__ _vt_ :four: /uhb/ob-TROO/ [:scroll: From Latin obtrudere (to thrust at), from ob- (against) + trudere (to push)] To impose one’s ideas, opinions, etc. To impose (oneself or one’s ideas) on others with undue insistence or without invitation. _Syn_ push out, thrust out _He never hesitated to obtrude his opinion on others, believing that everyone must value what he had to say._  
 __obtrude<sup>2</sup>__ _vi_ To thrust forward or to intrude.  
@@ -12844,14 +12861,14 @@ __on the hoof__
 __on the run__  
 __on the verge__  
 __on three__ _phr_ _On three: One, two, three!_  
-__on-site__ _adj_ :two::hammer:  
+__on-site__ _adj_ :three::hammer:  
 __on-the-go__ _adj_  
 __on<sup>1</sup>__ _prep_ :dart: _Please, stay on the train._ _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn’t care._ _It’s on the Internet._ _A military base on the island of Okinawa._ _The plans are described on its website._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ _The shooting happened late on a Saturday night._ _Halliburton insists on pressuring our board._ _All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._ _Others would get on line for loans._  
 __on<sup>2</sup>__ _adv_  
 __on<sup>3</sup>__ _adj_  
 __onagers__ _n_  
 __onboard<sup>1</sup>__ _adj_ :two::hammer:  
-__onboard<sup>2/sup>__ _adv_  
+__onboard<sup>2/sup>__ _adv_ :two::hammer: __2__ Into a state of participation of support for an effort.  
 __onboard<sup>3</sup>__ _prep_  
 __onboard<sup>4</sup>__ _v_  
 __onboarding__ _n_ :two: The induction and assimilation of a new employee into a company or organizationthe management of the early stages of a relationship between a business and a customer. _Onboarding specialist._  
@@ -12873,7 +12890,7 @@ __onesie__ _n_ :five: /ˈwʌnzɪ/ A one-piece garment combining a top with trous
 __onetime__ _adj_ __1__ Former, sometime. _A onetime actor._ __2__ Occurring only once. _Syn_ one-shot _It’s a onetime thing._  
 __ongoing__ _adj_ :five::hammer: _Ongoing efforts._ _The ongoing research activities,_  
 __onionskin__ _n_ /′ən‚yən‚skin/ A thin strong lightweight translucent paper used especially for making carbon copies. _Onionskin pages._ _Onionskin paper._  
-__onlooker__ _n_ :three::hammer: (onlookers)  
+__onlooker__ _n_ :four::hammer: (onlookers)  
 __only problem is__  
 __onomatopoeia__ _n_ :two: /ah-nuh-mah-tuh-PEE-uh/ Onomatopoeia means “the creation or use of words that imitate sounds.” Example: The thunder boomed and the lightning crashed. It can also refer to the words themselves.  
 __onset__ _n_ :nine::mega::astonished: __1__ The beginning or start of something: _the onset of a cold._ _Early onset dementia._ __2__ An attack; assault.  
@@ -12900,6 +12917,7 @@ __open-label trial__ _n_
 __open-wheel car__ _n_ :three::camera::hammer:  
 __openhanded__ _adj_ [:scroll: The figurative meaning alludes to someone giving money or other things away with an open hand.] __1__ Done with or having an open hand: _an openhanded karate chop._ __2__ Giving freely; generous. _Syn_ liberal  
 __opening hours__  
+__opening statement__  
 __operatic__  
 __operating system__  
 __operetta__ _n_ :pencil2:  

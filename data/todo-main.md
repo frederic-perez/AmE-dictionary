@@ -98,36 +98,6 @@ __loan word__ _n_
 __long-standing__ _adj_ (longstanding)  
 __lucrative__ _adj_ :two::hammer: /LOO-kruh-tiv/  
 __lunchtime__ _n_ :pencil2:  
-__lycanthrope__ _n_ A monster able to change appearance from human to wolf. _Syn_ werewolf, wolfman, loup-garou  
-__maecenatism__ _n_ /my/mi-SEE-nuh-tiz-uhm /Patronage, for example, the support or financial sponsorship provided to artists, musicians, or writers.  
-__mailed fist__ _n_ [:scroll: Translation of German gepanzerte Faust (mailed fist), from Panzer (armor) + Faust (fist)] The threat of military force. A threat or show of force to maintain control. :es: la mano dura  
-__manhunt__ _n_  
-__massive__ _adj_  
-__Mattel__ _n_ A relatively rare last name. It is most commonly found in France, according to one source.  
-__maverick__ _adj_ Being independent in thought and action or exhibiting such independence. _Syn_ unorthodox, irregular  
-__measly__ _adj_ __1__ Infected with measles. __2__ _slang_ Contemptibly small; meager: _gave the waiter a measly tip._ _Syn_ paltry, miserable  
-__meekly__ _adj_ In a submissive or spiritless manner. _Meekly bowed to his wishes._  
-__melee__ _n_ /MAY-lay/ _Melee_ refers to a confused fight or struggle, especially one involving hand-to-hand combat.  
-__Midas__ _n_ /ˈmaɪdəs/  
-__misaligned__ _adj_  
-__misconception__ _n_  
-__mismatch__  
-‌__monster truck__ _n_  
-__moratorium__ _n_  
-__murder-suicide__ _n_ A murder in which the killer subsequently commits suicide.  
-__near__ _v_  
-__nickelodeon__ _n_ A cabinet containing an automatic record player; records are played by inserting a coin. _Syn_ jukebox  
-__ninepin__ _n_ A wooden pin used in the game of ninepins. _Syn_ skittle  
-__nonce word__ _n_  
-__nonpartisan__ _adj_  
-__nonword__ _n_ :dart:  
-__nosegay__ _n_ A small bunch of flowers. _Syn_ bouquet, corsage, posy  
-__obstreperous__ _adj_ /ub-STREP-uh-rus/ Obstreperous is a formal word that describes people or things that stubbornly resist control; in this use it’s a synonym of _unruly_. A person or thing described as obstreperous may also be defiantly or aggressively noisy.  
-__obstruction of justice__ _n_ The criminal offense of intentionally hindering or interfering with the processes of law.  
-__on-site__  
-__onboard__ _adv_ __2__ Into a state of participation of support for an effort.  
-__onlooker__ _n_  
-__opening statement__  
 __orphan drug__ _n_ A drug that remains undeveloped or is neglected because of limited potential for commercial gain.  
 __outright__ _adj, adv_  
 __overall__  
