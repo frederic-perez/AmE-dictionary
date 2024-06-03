@@ -1,28 +1,3 @@
-__fixer__ _slang_ One tasked with handling and alleviating problems for someone, often illicitly.  
-__flag__ __2__ _v_ _slang_ To fail something. _You better study hard, or you’ll flag this exam._  
-__flak__ Criticism or judgment.  
-__flaky__  
-__flash Harry__ _n_ /flash HAR-ee/ A man who dresses and behaves in a vulgar, showy, or pretentious manner.  
-__flat-out__  
-__flip (one) the bird__ To raise the middle finger (a rude gesture of anger or displeasure) at one.  
-__float an idea__ To suggest something in order to gauge interest in it or others’ perception of it.  
-__flub up__ __1__ _v_ To make a mistake, often an embarrassing one. A noun or pronoun can be used between “flub” and “up.”  
-__food coma__  
-__for a living__ In order to earn one’s primary income. _Roy runs a deli for a living._  
-__for good reason__  
-__for good__ __1__ Permanently; indefinitely; forever.  
-__for kicks__ Only for the sake of fun, excitement, or distraction.  
-__for lack of a better word__  
-__for one__  
-__for real__ _informal_ Used to assert that something is genuine or is actually the case.  
-__for show__ Done merely for the sake of appearance; not genuine or sincere.  
-__for the birds__ :two::hammer:  
-__for the greater good__  
-__for the show__ Something done purely for the sake of appearance or to make a good impression, without any real substance or significance. It is often used to describe actions or behaviors that are superficial, insincere, or done solely to impress others.  
-__for want of a better word__ Lacking a more precise term. _If you want to maintain your good mood, then don’t talk to Kristina. She is, for want of a better word, a sourpuss._  
-__foregone conclusion__  
-__fork over__  
-__fourth wall__  
 __frag__ _slang_ [:scroll: The term had its origin in the Vietnam War] To kill a fellow soldier, often a superior, with a grenade or other explosive device. The word is a shortening of “fragmentation grenade,” referring to a type of grenade that expels shrapnel over a large area. _Someone’s going to frag that guy if he keeps treating his men so poorly._  
 __freak out__  
 __free fall__  
