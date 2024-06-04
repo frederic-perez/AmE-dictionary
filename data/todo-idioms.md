@@ -1,3 +1,7 @@
+__(as) solid as a rock__ Exceptionally stable, sturdy, and reliable.  
+__a slew of (something)__  
+__an early riser__ Someone who wakes up and is more active and alert in the early hours of the morning.  
+__blow (someone or something) out of the water__  
 __frag__ _slang_ [:scroll: The term had its origin in the Vietnam War] To kill a fellow soldier, often a superior, with a grenade or other explosive device. The word is a shortening of “fragmentation grenade,” referring to a type of grenade that expels shrapnel over a large area. _Someone’s going to frag that guy if he keeps treating his men so poorly._  
 __freak out__  
 __free fall__  
@@ -54,6 +58,7 @@ __go for (something)__
 __go into overdrive__ To start working very hard or quickly.  
 __go off the rails__  
 __go overboard__ :two::hammer:  
+__go places__  
 __go south__  
 __go to hell in a handcart__ To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin. _With this new president in office, our country is going to go to hell in a handcart!_  
 __go with (someone or something)__  
@@ -102,6 +107,7 @@ __in the house__
 __in the least__  
 __in the making__  
 __in the midst of (something)__  
+__in the mix__  
 __in the nick of time__  
 __in the pipeline__ In progress or about to be started or implemented.  
 __in the pocket of (someone)__ Under the direct control or influence of someone or some group, especially through illegal or unscrupulous financial means. _It’s pretty obvious that the country’s legislators are all in the pocket of corporations._  
@@ -189,6 +195,7 @@ __make inroads (in/into something)__
 ‌__make it__  
 __make matters worse__  
 __make news__ To garner attention and be the topic of conversation.  
+__make no mistake__  
 __make one’s name__ To become well-known or famous.  
 __male gaze__ The rendering of art, literature, etc., from the perspective of and for the consumption of heterosexual males, especially characterized by the depiction of women as passive objects of desire and pleasure. The phrase was coined by film theorist Laura Mulvey. _The male gaze will continue to dominate media until more and more women artists challenge the paradigm._  
 __masquerade as (someone or something)__  
@@ -201,7 +208,7 @@ __mixed bag__ :two::hammer:
 __mixed feelings__  
 __mixed message__  
 __mm-hmm__ _informal_ Yes; yeah. A verbal expression used to express agreement or acknowledgement. Formed by intoning “uh-huh” with a closed mouth.  
-__modus operandi__ :mega:  
+__modus operandi__ :two::mega: A unique and habitual method of doing something. From Latin, literally “mode of operation.” Used especially in reference to criminal behavior.  
 __move mountains__ :dart: To do or achieve something that is incredibly difficult.  
 __move the dial__  
 __move the needle__ _I am concentrating on what moves the needle most._  
@@ -215,6 +222,7 @@ __neat and tidy__ (neat and clean)
 __neck and neck__  
 __need to be done__ To be required to be completed or acted upon.  
 __Nervous Nellie__ /nuhr-vuhs NEL-ee/(nervous Nellie/Nelly) Any nervous person, male or female. Someone who is more timid, nervous, or anxious than is normal or reasonable.  
+__nice and (something)__ :five: Very something. Used to emphasize how nice something is because of the particular quality named after “and.” _I love your new house! It’s nice and bright inside!_ _Ah, this lemonade is nice and cold—just the thing for such a hot day._  
 __no end in sight (to something)__  
 __no stranger to (something)__  
 __noblesse oblige__ /noh-BLESS-uh-BLEEZH/ Noblesse oblige refers to the idea that people who have high social rank or wealth should be helpful and generous to people of lower rank or to people who are poor.  
@@ -249,6 +257,7 @@ __on the contrary__
 __on the edge of (one’s) seat__  
 __on the line__ __1__ In a state of jeopardy or uncertainty.  
 __on the lookout__ :two: Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
+__on the radar (screen)__  
 __on the run__  
 __on the sidelines__ :two: In a position in which one is not actively participating in something.  
 __on the verge of__  
@@ -282,6 +291,7 @@ __pick up on (something)__ :dart: To detect or notice something; to become alert
 __picture perfect__  
 __picture this__  
 __pie in the sky__ :two: An impossible, unlikely, or fanciful idea or plan. Often hyphenated.  
+__piggyback on(to) (something)__ To use something said or done by someone else as the foundation for one’s own actions.  
 __pile up__  
 __piss off__  
 __pitch-perfect__ Reaching or conveying the exactly right note or tone. The phrase refers to music but it is often applied to writing and other things.  
@@ -300,6 +310,7 @@ __pop one’s cherry__ In James Ellroy’s novels, “popping one’s cherry” 
 __poster child__ :two::hammer: _OpenAI is the poster child of the gen AI wave._  
 __postpone until (some later date or time)__ To delay (something) until a later date or time. A noun or pronoun can be used between “postpone” and “until” to specify what is being delayed.  
 __preppy__ __1__ _Preppy_ is the word we use to describe those rich kids that look down on anyone whose shoes cost less than a car. It’s the perfect word to describe the pompousness and snootiness of the crustiest of the upper crust. Just recall the fashion of _Carlton Banks_ of _The Fresh Prince of Bel-Air._ _adj_ _slang_ Having the look or manner of an expensive preparatory school student, typically characterized by wealth, snobbishness, and an adoption of current fashions, trends, or styles. _I hate the preppy clothes he’s been wearing ever since he started hanging out with the cool kids at school._ _He’s a bit preppy, sure, but he’s smart and is actually really interested in classic literature._ __2__ _n_ _slang_ A person who affects the look or manner of an expensive preparatory school student. _She’s just another preppy who get’s a get-out-jail-free card anytime she screws up, huh?_  
+__public eye__  
 __pull something off__ :two::hammer:  
 __pull the trigger (on something)__ To make a final decision or commit to a certain course of action (about something).  
 __pump out__  
@@ -314,7 +325,7 @@ __quality time__ Time spent interacting with someone in a close, meaningful way.
 __question mark__ An unknown or uncertainty.  
 __quite a (something)__  
 __rabbit hole__ A situation, journey, or process that is particularly strange, problematic, difficult, complex, or chaotic, especially one that becomes increasingly so as it develops or unfolds.  
-__rain or shine__  
+__rain or shine__ :two::hammer:  
 __raise (one’s) eyebrows__  
 __raise the stakes__  
 __ramp up__ :four::hammer:  
@@ -367,7 +378,9 @@ __single file__ A line of things or people, one person or one thing wide. _Pleas
 __single out__  
 __slap in the face__ Words or actions that have offended or otherwise upset someone. _It was a real slap in the face when she got promoted over me, especially after the amount of work I did on that last project._  
 __snazzy__ Particularly elegant, dazzling, classy, or fancy in appearance. _Wow, that’s a snazzy new suit you’ve got on! Big meeting today or something?_ _She runs one of the snazziest clubs in town._  
+__so much so that__  
 __soft spot__  
+__spill the tea__  
 __spot showers__ :two: Term used by some weather forecasters to say that the chance of rain is low and will only affect a small percentage of the forecast area.  
 __stay in character__  
 __steamroll through__  
@@ -384,6 +397,7 @@ __supply and demand__ The amount of something available to purchase compared to 
 __swear by (someone or something)__  
 __swear in__  
 __sweetie pie__ A term of endearment, especially for a person or pet towards whom one feels tender love or affection.  
+__tada__  
 __take (someone or something) for granted__  
 __take (someone, something, or some place) by storm__  
 __take a chance__ To try to do something that has a high probability of having a negative or unfortunate outcome. probability of having a negative or unfortunate outcome.  
@@ -399,6 +413,8 @@ __tell it like it is__
 __test the water(s)__  
 __that said__  
 __that said,__  
+__the bane of (one’s) life__ The source or cause of one’s misfortune, unhappiness, frustration, or anxiety, usually used hyperbolically.  
+__the calm before the storm__  
 __the granddaddy of them all__ The biggest, oldest, most impressive, or most respected of a certain kind of person or thing. _I own a lot of vintage cars, but my 1926 Bentley is the granddaddy of them all._  
 __the idiot box__ _slang_ A television set, or television in general.  
 __the latest__  
@@ -446,8 +462,9 @@ __whip out__
 __whip up__  
 __whistleblower__ (whistle-blower)  
 __whopping__  
-__wild goose chase__  
+__wild goose chase__ :dart::two: (wild-goose chase) A prolonged or chaotic search for something that is difficult to find (often because it does not exist). A worthless hunt or chase; a futile pursuit.  
 __win (something) in a walk__ To win (something) easily, handily, or without much or any effort. _Enjoying the benefit of a week off between games, the home team won this match in a walk._  
+__wishful thinking__  
 __wishy-washy__  
 __witch hunt__  
 __with a bang__ :two::hammer:  

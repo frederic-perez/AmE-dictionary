@@ -25,12 +25,16 @@ __counterword__ _n_
 __curse word__ _n_ _Syn_ cussword, dirty word  
 __debacle__ _n_ /dee-BAH-kul/  
 __demeanor__ _n_ :mega:  
+__depart__ _v_  
 __discernible__ _adj_ Capable of being seen or noticed. _Syn_ evident, observable  
 __dismay__ _vt_  
+__doable__  
 __dopamine__ _n_ _Dopamine hit/rush._  
 __downpour__ _n_ A heavy fall of rain. _Syn_ pelter, soaker, torrent, cloudburst, deluge, waterspout  
 __dynasty__ _n_ /DYE-nuh-stee/ Dynasty refers to a group (such as a team, family, etc.) that is very powerful or successful for a long period of time. It is also often used for a family of rulers who rule over a country for a long period of time, as well as the period of time when a particular dynasty is in power.  
+__easy__ _adj, adv_ :mega: /ˈiːzɪ/  
 __ebullient__ _adj_ /ih-BULL-yunt/  
+__egregious__  
 __eleemosynary__ _adj_  
 __entourage__ _n_  
 __escritoire__ _n_ A writing table; a desk. _Syn_ secretaire, writing table, secretary  
@@ -51,12 +55,15 @@ __gadfly__ _n_ /GAD-flye/ In literal use, gadfly refers to any of various flies 
 __galvanic__ _adj_ /gal-VAN-ik/ __1__ Stimulating; energizing; shocking. __2__ Relating to electric current, especially direct current.  
 __ghost word__ _n_  
 __glean__ _v_ /GLEEN/ To glean is to gather or collect something bit by bit, or in a gradual way. _Glean_ can also be used to mean “to search (something) carefully” and “to find out.”  
+__grill__ _vt_ __3__ _informal_ To question relentlessly; cross-examine.  
 __guide word__ _n_  
 __halcyon__ _adj, n_  
+__hand-pick__ _vt_ To choose or select with great care, as for a special job or purpose.  
 __hangnail__ _n_ :dart: A small piece of dead skin at the side or the base of a fingernail that is partly detached from the rest of the skin. :es: padrastro  
 __headword__ _n_  
 __hibernal__ _adj_ Of or relating to winter. _Syn_ brumal, hiemal  
 __Hooray Henry__ _n_ /hoo-ray HEN-ree/ (Hooray Henrietta) A young, upper-class man who behaves in a loud, obnoxious, and often pretentious manner.  
+__hospice__ _n_  
 __impetuous__ _adj_  
 __inebriant__ _n_ An intoxicant. _Syn_ alcoholic beverage, intoxicant, alcohol  
 __injunction__ _n_ :two::hammer:  
@@ -98,7 +105,10 @@ __loan word__ _n_
 __long-standing__ _adj_ (longstanding)  
 __lucrative__ _adj_ :two::hammer: /LOO-kruh-tiv/  
 __lunchtime__ _n_ :pencil2:  
+__misstep__ _n, v_  
+__mohawk__ _n_ /ˈməʊhɔːk/  
 __orphan drug__ _n_ A drug that remains undeveloped or is neglected because of limited potential for commercial gain.  
+__outlying__ _adj_ Relatively distant or remote from a center or middle: _outlying regions._ _Outlying areas._  
 __outright__ _adj, adv_  
 __overall__  
 __overcapacity__ _n_  
@@ -126,6 +136,8 @@ __plangent__ _adj_ /PLAN-junt/ Something, such as a sound, that is described as 
 __plateau__ _n_  
 __platitude__ _n_ A trite or banal remark or statement, especially one expressed as if it were original or significant. _Syn_ banality, cliche, commonplace, bromide  
 __plexus__ _n_ A structure in the form of a network, especially of nerves, blood vessels, or lymphatics. _Syn_ rete  
+__pocket__ _n_ __11a__ A small, isolated, or protected area or group: _pockets of dissatisfied voters._ In the sentence “pockets of heavy rain,” “pockets” refers to small, isolated areas or regions where heavy rain is occurring.  
+__possession__ _n_ :pencil2::mega: /pəˈzɛʃən/  
 __postal__ _adj_ /POHS-tuhl/ __1__ Relating to the mail or the post office. __2__ Very angry, insane, or violent.  
 __praise__ _vt_  
 __prejudicious__ _adj_ :astonished: Causing harm or injury. _Syn_ damaging, detrimental, prejudicial  
@@ -159,6 +171,7 @@ __rile__ _vt_ __1__ To irritate or vex. _Syn_ nettle, chafe, provoke, annoy, irk
 __romcom__  
 __rosary__ _n_  
 __run-up__ _n_ (runup)  
+__rundown__ _n_  
 __ruse__ _n_ _Syn_ wile  
 __salacious__ _adj_ :three::hammer:  
 __salutary__  
@@ -170,6 +183,7 @@ __security__ _n_ /sɪˈkyʊər ɪ ti/
 __seminal__ _adj_  
 __sendoff__ _n, v_  
 __sequester__ _v_ /sih-KWESS-ter/ __The jury was sequestered until a verdict was reached.__  
+__sergeant__ _n_  
 __severance__ _n_  
 __shelter__ _v_  
 __shimmy__ _v_  
@@ -187,10 +201,13 @@ __skittish__ _adj_
 __sleazy__ _adj_ :dart: __1b__ Dishonest or corrupt; disreputable: _Some sleazy characters hang around casinos._  
 __slothful__ _adj_  
 __smitten__ _adj_  
+__snag__ _v_ __2__ _informal_ To catch or obtain quickly or unexpectedly: _snagged a ground ball; snagged a bargain._  
 __snub-fighter__ _n_ The term _snub-fighter_ originates from its use in Star Wars novels to describe small starfighters like the Z-95 Headhunter and T-65B X-wing. The term “snubÆ likely refers to the short range and limited capabilities of these fighters compared to larger ships.  
 __snug__ _adj, v_  
 __Special Olympics__ _n pl_  
 __spew__ _v_  
+__spider vein__ _n_ A small, dilated vein visible just beneath the skin.  
+__spike__ _v_  
 __squarely__ _adv_ /SKWAIR-lee/ __1__ In a straightforward or frank manner. __2__ Firmly. __3__ Directly. __4__ At right angles.  
 __squirm<sup>1</sup>__ _n_  
 __squirm<sup>2</sup>__ _vi_ __1__ To move with a wriggling motion; writhe. __2__ :dart: To feel deep mental discomfort, guilt, embarrassment, etc.  
@@ -205,6 +222,7 @@ __stillbirth__ _n_
 __straddle__ _v_ :two::hammer: __1a__ To stand or sit with a leg on each side of; bestride: _straddle a horse._ _Pete straddled a chair._  
 __stressor__ _n_  
 __strongman__ _n_  
+__sturdy__  
 __suborn__ _vt_ :astonished:  
 __subpoena__ _v_  
 __subservient__ _adj_  
@@ -221,16 +239,19 @@ __tangent__ _adj, n_ /TAN-juhnt/ [:scroll: From Latin tangere (to touch)]
 __taxpayer__ _n_ :es: contribuyente  
 __teamster__ _n_ :astonished: __1__ One who drives a truck for hauling loads, especially as an occupation. __2__ One who drives a team.  
 __tendentious__ _adj_ /ten-DEN-shus/ _Tendentious_ is a formal word used disapprovingly to describe someone or something expressing a strongly biased point of view in a way that may cause argument.  
+__tenement__ _n_  
 __tentative__ _adj_  
 __themself__ _pron_ :dart: _Just after the jury was seated, emergency crews responded to a park outside the Manhattan courthouse, where a person had set themselves on fire._  
 __thought leader__ _n_ A person, organization, publication, etc. regarded as an authoritative source of new ideas or intellectual trends.  
 __thoughtless__ _adj_  
 __tidbit__ _n_  
 __timecard__ _n_  
+__tinderbox__ _n_ __1__ A metal box for holding tinder. __2__ A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
 __Tipp-Ex__ _n_ /ˈtɪp.eks/  
 __torrid__ _adj_ /TOR-id/ Torrid can be used to describe something that is literally hot (such as a region near the Earth’s equator) or figuratively hot (such as a romance).  
 __trample__ _v_  
 __triangulation__ _n_ /try-ang-gyuh-LAY-shuhn/ __2__ Positioning between two extremes, especially in politics.  
+__trifecta__  
 __trustworthy__ _adj_  
 __truth-telling__  
 __truthful__ _adj_  
@@ -249,12 +270,15 @@ __unruly__ _adj_
 __unsavory__ _adj_  
 __untapped__ _adj_ __2__ Not utilized: _untapped resources._  
 __unwavering__  
+__upheaval__ _n_  
+__uptick__ _n_  
 __vestige__ _n_ A visible trace, evidence, or sign of something that once existed but exists or appears no more. _Syn_ tincture, trace, shadow  
 __vet__ _v_ :two: __2__ :dart: To subject to thorough examination or evaluation: _vet a manuscript._  
 __vexillology__ _n_ /ˌvɛksɪˈlɒlədʒɪ/ The study and collection of information about flags.  
 __vicarious__ _adj_ :two: /vye-KAIR-ee-us/ A _vicarious_ emotion or experience is one felt by watching, hearing about, or reading about someone else rather than by doing something yourself. _He felt a vicarious thrill as his daughter crossed the stage to accept her diploma._  
 __victory lap__  
 __villager__ _adj_  
+__vindicate__  
 __voice__ _vt_  
 __void__ _v_  
 __voir dire__ _n_  
