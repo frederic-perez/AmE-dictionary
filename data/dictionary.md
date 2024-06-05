@@ -19630,7 +19630,7 @@ __torn__ _v_ :three: Past participle of tear. _You feel so torn about what to do
 __torpedo__ _v_  
 __torpid__ _adj_ :three: Lethargic; apathetic. _Syn_ inert, sluggish _They are always in a torpid state, and are apt to yawn and go to sleep over any intellectual toil._  
 __torpor__ _n_ :six: A state of physical or mental inactivity; lethargy. _They veered between apathetic torpor and hysterical fanaticism._ _The economy is in a torpor._ _Syn_ lethargy  
-__torrid__ _adj_ :three: Scorching; burning. _Syn_ fervent, fiery, ardent, burning _The torrid noonday sun shone down on the travelers in the desert._ _A torrid affair._  
+__torrid__ _adj_ :four: /TOR-id/ Torrid can be used to describe something that is literally hot (such as a region near the Earth’s equator) or figuratively hot (such as a romance). Scorching; burning. _Syn_ fervent, fiery, ardent, burning _The torrid noonday sun shone down on the travelers in the desert._ _A torrid affair._  
 __torte__ _n_ _A torte was named after her._  
 __torticollis__ _n_  
 __tortuous__ _adj_ :two: /TOR-chuh-wus/ __1__ Tortuous means “having many twists and turns” or “winding.” _They took a tortuous mountain road marked by numerous hairpin turns._ __2__ It can also mean “marked by devious or indirect tactics” or “complicated, long, and confusing.” _He delivered a tortuous explanation when questioned by press._ _The contract’s tortuous language made it a maddening read._  
@@ -19812,6 +19812,7 @@ __triad__ _n_ :two::hammer:
 __triage<sup>1</sup>__ _n_ :two: The method of deciding who receives medical treatment first, according to how seriously someone is injured.  
 __triage<sup>2</sup>__ _v_ :three::hammer:  
 __trial__ _n_ :two::hammer: _They take small trials of the power for testing._  
+__triangulation__ _n_ /try-ang-gyuh-LAY-shuhn/ __2__ Positioning between two extremes, especially in politics.  
 __triathlon__ _n_ [:scroll: The Greek word âthlon means “contest.” The beginning of the words triathlon, pentathlon, and decathlon indicates the number of different events it involves: tri- means “three,” pent- means “five,” and deca- means “ten.”]  
 __tribal__  
 __tribble__ _n_  
@@ -19831,7 +19832,7 @@ __trickle<sup>2</sup>__ _v_ :nine: __1__ _vi_ To flow or fall by drops, or in a 
 __trickster__ _n_ One that swindles or plays tricks. Someone who uses dishonest methods to get what they want. _Trickster hero._  
 __tricksy__  
 __tried-and-true__ _adj_ Tested and proved to be worthy or good.  
-__trifecta__ _n_ :six::mega: /trʌɪˈfɛktə/ (1970s: from tri- ‘three’ + perfecta.) (Before it was a broad term for three, _trifecta_ referred specifically to bets on horse races. A _trifecta_ is a bet when a bettor chooses the first, second, and third finishers in the correct order. The odds of making the correct ordered picks are low, but the payout is often much higher than basic bets like picking an overall winner. It’s a bet that isn’t typically applied to other sports.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
+__trifecta__ _n_ :seven::mega: /trʌɪˈfɛktə/ (1970s: from tri- ‘three’ + perfecta.) (Before it was a broad term for three, _trifecta_ referred specifically to bets on horse races. A _trifecta_ is a bet when a bettor chooses the first, second, and third finishers in the correct order. The odds of making the correct ordered picks are low, but the payout is often much higher than basic bets like picking an overall winner. It’s a bet that isn’t typically applied to other sports.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
 __trifle<sup>1</sup>__ _n_ :three::hammer:  
 __trifle<sup>2</sup>__ _v_ :three::hammer: (trifled) _Never to be trifled with._  
 __trigger__ _v_ _The avalanche was triggered by skiers._  
@@ -19923,13 +19924,15 @@ __trust company__
 __trust__ _n_ (trusts)  
 __trustee__ _n_ :two::hammer: _Board of Trustees_  
 __trusties__  
-__trustworthy__ _adj_ :three::dart::hammer: _Trustworthy information._  
+__trustworthy__ _adj_ :four::dart::hammer: _Trustworthy information._  
 __truth or dare__ _n_ A game where players take it in turn to perform a dare set by the other players, or truthfully answer a question put forth by them.  
+__truth-telling__  
+__truthful__ _adj_  
 __truthiness__ _n informal_  
 __try on__ _phr v_ :four::mega: To put clothes or shoes on to see if they fit.  
 __trying__ _adj_ :two::dart::astonished: /ˈtraɪɪŋ/ Extremely difficult and annoying, straining one’s patience and goodwill to the limit. Straining one’s patience and goodwill; annoying, difficult, or irritating. Causing strain, hardship, or distress. Upsetting, difficult, or annoying: _a trying day at the office._  
 __tryptophan__ _n_ :mega: (tryptophane)  
-__tryst__ _n_ :three: An agreement, as between lovers, to meet at a certain time and place. _Syn_ assignation, rendezvous _They tried to keep their weekly meetings a secret, but soon neighbors began to whisper about their trysts._  
+__tryst__ _n_ :four: An agreement, as between lovers, to meet at a certain time and place. _Syn_ assignation, rendezvous _They tried to keep their weekly meetings a secret, but soon neighbors began to whisper about their trysts._  
 __tsuifuku__  
 __tsunami__ _n_ [:scroll: The Japanese word tsunami is formed from _tsu_ (harbor) and _nami_ (wave).]  
 __tub__ _n_ :eight: __1__ A low wide open container, typically round, originally one made of wood and used _esp_ for washing: now made of wood, plastic, metal, etc, and used in a variety of domestic and industrial situations. _Family tub corn._ _Bring a tub of wet wipes._ :camera: __2__ A small plastic or cardboard container of similar shape for ice cream, margarine, etc. _A tub of Ben & Jerry’s._ __3__ Also called: bathtub another word (_esp_ US and Canadian) for bath.  
@@ -19964,6 +19967,7 @@ __tumuli__ _n pl_ Plural of tumulus (an artificial mound, esp. over a grave; bar
 __tumult__ _n_ :two: Violent and noisy commotion or disturbance of a crowd or mob. _Syn_ garboil, uproar  
 __tumultuous__ _adj_ :two::hammer:  
 __tumulus__ _n_ A heap of earth placed over prehistoric tombs. _Syn_ burial mound, grave mound, barrow  
+__tune__ _n, v_ /tun, tyun/  
 __tune-up__ _n_ _Overnight tune-ups and repairs._  
 __tuneful__ _adj_ __1__ Having a pleasant or catchy tune; melodious. __2__ Producing a melody or music: _a tuneful blackbird._  
 __tunesmith__ _n_ _informal_ A person who composes popular music or songs.  
@@ -19981,6 +19985,7 @@ __turgid__ _adj_ :four: Excessively ornate or complex in style or language. _Syn
 __Turkey day__  
 __turkey drumstick__ _n_  
 __turkey trot__ _n_ _(Dancing)_ An early ragtime one-step, popular in the period of World War I.  
+__Turkey__ _n_ /ˈtɜr ki/  
 __turmeric__ _n_ :five::hammer: :es: cúrcuma  
 __turmoil__  
 __turn a profit__  
@@ -20052,7 +20057,7 @@ __twinkle__
 __twinned towns__  
 __twirl__ _v_ _Goodman twirled is spectacles._  
 __twist__ _n_ :four::hammer: _An innovative twist._ _I’ll have my vodka martini with a twist of lemon._  
-__twister__ _n_ __3__ _informal_ A tornado or cyclone.  
+__twister__ _n_ :two::hammer: __2__ _informal_ A whirlwind or tornado. A tornado or cyclone.  
 __twit__ _n_ _The damned last boy was a twit._  
 __twitch<sup>1</sup>__ _n_ :two::hammer: _That wad a beautiful last twitch._  
 __twitch<sup>2</sup>__ _v_ :nine: __1__ _vt_ To draw, pull, or move suddenly and sharply; jerk: _I twitched my fishing line._ _The curtain was twitched._ __2__ _vi_ To move jerkily or spasmodically. _A curtain twitched in the house next door._ __3__ _vi_ To ache sharply from time to time; twinge.  
@@ -20175,7 +20180,7 @@ __undermine__ _vt_ :nine::m: /ˌʌndəˈmaɪn/ (undermined) __1__ To weaken by w
 __underpin__ _vt_ :nine::m: __1__ To support from below, as with props, girders, or masonry. __2__ To give support or substance to: _assumptions that underpinned their claims._  
 __underpinning__ _n_ :five::hammer:  
 __underprivileged__  
-__underrated__ _adj_ :two::pencil2: /ˌʌndəˈreɪtɪd/ Underestimated.  
+__underrated__ _adj_ :three::pencil2: /ˌʌndəˈreɪtɪd/ Underestimated.  
 __underscore__ _v_ :six: (underscored, underscoring) Give extra weight to (a communication). _Syn_ emphasize _When I gave my son permission to attend the party, I made sure to underscore my willingness to ground him for life should he let a mere drop of alcohol touch his lips._  
 __undersecretary__  
 __understandably__ _adv_ :two::hammer:  
@@ -20186,7 +20191,7 @@ __undertake__ _v_ :four::hammer: _A video of cyclists overtaking and undertaking
 __undertaker__ _n_  
 __undertow__  
 __underway__ _adj_  
-__underwhelm__ _v_ :two: To fail to excite, stimulate, or impress.  
+__underwhelm__ _v_ :three: /un-der-WELM/ To underwhelm someone is to fail to impress or excite them. To fail to excite, stimulate, or impress.  
 __underwhelming__ _adj_ :dart::three::hammer: Failing to make a positive impact or impression; disappointing.  
 __underworld__ _n_ Criminals and their associates considered collectively.  
 __underwrite__ _v_ :five::hammer: (underwriting)  
@@ -20216,7 +20221,7 @@ __unethically__ _adv_ _He had acted unethically and for that I could never trust
 __uneven__ _adj_ :two: __2__ Not consistent or uniform: _an uneven color._  
 __uneventful__ _adj_ :two: /ˌʌnɪˈvɛntfʊl/ Ordinary, routine, or quiet. Lacking in important or interesting occurrences; routine: _an uneventful day._  
 __unfailing__ _adj_ _Unfailing support._  
-__unfathomable__ _adj_ :five: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
+__unfathomable__ _adj_ :six: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
 __unfazed__ _adj_ :nine::m:: /ʌnˈfeɪzd/ Not disconcerted; unperturbed. _Her criticism left him quite unfazed._ :es: Sus críticas le dejaban tan pancho. _She was completely unfazed by the extraordinary events._ _They are unfazed by all fof this._ :es: Se quedó como si nada ante unos sucesos tan extraordinarios.  
 __unfeasible__ _adj_ _Syn_ infeasible  
 __unfettered__ _adj_ :nine::m: /ʌnˈfɛtəd/ /un-FET-erd/ Not kept under retraint; uninhibited. _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
@@ -20233,6 +20238,7 @@ __unfurnished__ _adj_ Having no furniture, especially when available to be rente
 __ungainly__ _adj_ :two: __1__ Lacking grace or ease of movement or form; clumsy. __2__ Difficult to move or use; unwieldy.  
 __ungird__ _v_ (ungirded) _The Church ungirded him of the knightly belt._  
 __ungodly__ _adj_  
+__ungrateful__ _adj_  
 __ungulate<sup>1</sup>__ _adj_ :two::hammer:  
 __ungulate<sup>2</sup>__ _n_ :two: A hoofed mammal.  
 __unharness__ _v_  
@@ -20260,8 +20266,8 @@ __unleavened__ _adj_ :mega:
 __unlike<sup>1</sup>__ _adj_  
 __unlike<sup>2</sup>__ _prep_  
 __unlucky__ _adj_  
-__unmissable__ _adj_ :two: A movie, play, etc. that is unmissable is so good that you think everyone should see it.  
-__unnerving__ _adj_ :four::hammer::astonished:  
+__unmissable__ _adj_ :three: A movie, play, etc. that is unmissable is so good that you think everyone should see it.  
+__unnerving__ _adj_ :five::hammer::astonished: /ʌnˈnɜːvɪŋ/ Making one feel worried or uncomfortable.  
 __unobstrusive__  
 __unpack__  
 __unparalleled__ _adj_ :two::hammer:  
@@ -20269,6 +20275,7 @@ __unplugged__ _adj_ /un-PLUHGD/ [:scroll: From un- (not) + plug, from Dutch plug
 __unprecedented__ _adj_ :three: Having no previous example: _unprecedented economic growth._  
 __unpretentious__  
 __unprofessional__ _adj_  
+__unputdownable__  
 __unquestioned__  
 __unravel__ _v_ :four: /ʌnˈrævəl/ __2__ To free from complications; make plain or clear; solve: _to unravel a mystery._  
 __unreal__  
@@ -20280,9 +20287,9 @@ __unrepentant__ _adj_ :five: Having or exhibiting no remorse.
 __unrequited__ _adj_ :four: Not given, rewarded, or felt in return: _unrequited love._ _Her unrequited crush._  
 __unrestrained__  
 __unruffled__ _adj_ _An unruffled commander._  
-__unruly__ _adj_ :nine: Difficult or impossible to discipline, control, or rule. _Unruly campaign speeches._  
+__unruly__ _adj_ :nine::m: Difficult or impossible to discipline, control, or rule. _Unruly campaign speeches._  
 __unsalted__ _adj_ :dart: Not seasoned, preserved, or treated with salt: _unsalted peanuts._ _Pure Irish butters salted and unsalted._  
-__unsavory__ _adj_ :three::hammer: /ʌnˈseɪ və ri/ __4__ Socially or morally objectionable or offensive: _an unsavory past._  
+__unsavory__ _adj_ :four::hammer: /ʌnˈseɪ və ri/ __4__ Socially or morally objectionable or offensive: _an unsavory past._  
 __unscathed__ _adj_ :eight: Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
 __unschooled__ _adj_ __2__ Spontaneous; natural: _unschooled talent._  
 __unseemly<sup>1</sup>__ _adj_ _Syn_ indecorous  
@@ -20307,7 +20314,7 @@ __unsurmountable__ _adj_
 __unswerving__ _adj_ :two::hammer: _Unswerving confidence._ _Unswerving attention._  
 __unswervingly__  
 __unsympathetic__  
-__untapped__ _adj_ :six: /ŭn-tăpt′/ __1__ Not having been tapped: _an untapped cask of wine._ __2__ Not utilized: _untapped resources._ _Untapped talent._  
+__untapped__ _adj_ :seven: /ŭn-tăpt′/ __1__ Not having been tapped: _an untapped cask of wine._ __2__ Not utilized: _untapped resources._ _Untapped talent._  
 __untenable__ _adj_ :three: __1__ Not able to be defended. __2__ Not able to be occupied.  
 __untethered__ _adj_ Not tied or limited with or as if with a tether.  
 __unthawed__ _adj_ Not thawed; still frozen. _Unthawed croissant._  
@@ -20321,7 +20328,7 @@ __untuck__ _v_
 __unviable__ _adj_ /ʌnˈvaɪəbəl/  
 __unwarranted__  
 __unwary__ _adj_  
-__unwavering__ _adj_ :three::hammer: /ʌnˈweɪvərɪŋ/  
+__unwavering__ _adj_ :four::hammer: /ʌnˈweɪvərɪŋ/  
 __unwell__ _adj_  
 __unwielding__  
 __unwieldy__ _adj_ :four: __1__ Difficult to carry or handle because of size, shape, or weight. __2__ Hindering progress because of complexity; hard to manage or deal with: _an unwieldy bureaucracy._ _Unwieldy design and operational complexity must be avoided._  
@@ -20608,23 +20615,23 @@ __vesta__ _n_ /VES-tuh/ [:scroll: After Vesta, the goddess of hearth and househo
 __vested interest__ _n_ :two: A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
 __vested__ _adj_ _Vested hostilities._  
 __vestibule__ _n_ :two::mega::hammer:  
-__vestige__ _n_ :three: /VESS-tij/ (vestiges) A trace, mark, or visible sign left by something lost or vanished. _The seconds ticked by, but the team still had a vestige of hope._ _The ruins remain as vestiges of the Roman occupation of Britain._  
+__vestige__ _n_ :four: /VESS-tij/ (vestiges) A trace, mark, or visible sign left by something lost or vanished. _Syn_ tincture, trace, shadow _The seconds ticked by, but the team still had a vestige of hope._ _The ruins remain as vestiges of the Roman occupation of Britain._  
 __vesting__ _n_ The granting to an employee of the right to pension benefits despite retirement before the usual time or age. _The vesting date._  
-__vet<sup>1</sup>__ _vt_ :five::astonished: (vetted, vetting) __1__ To subject to veterinary evaluation, examination, medication, or surgery. __2__ :dart: To appraise, verify, or check for accuracy, authenticity, etc. To subject to thorough examination or evaluation: _An expert vetted the manuscript before publication._  
+__vet<sup>1</sup>__ _vt_ :dart::six::astonished: (vetted, vetting) __1__ To subject to veterinary evaluation, examination, medication, or surgery. __2__ :dart: To appraise, verify, or check for accuracy, authenticity, etc. To subject to thorough examination or evaluation: _An expert vetted the manuscript before publication._  
 __vet<sup>2</sup>__ _vi_ To work as a veterinarian.  
 __Veterans Day__ _n_ While “Veterans’ Day” does encompass multiple veterans, that spelling is incorrect according to the Department of Veterans Affairs. In the name of the holiday, the word veterans acts as an _attributive noun_, which means that it behaves like an adjective even though it is a noun. We use attributive nouns all the time without realizing it. For example, if you said “Last week, I went to the Cowboys game,” it is not grammatically imperative to include an apostrophe at the end of Cowboys, because Cowboys acts as an attributive noun.  
 __veto<sup>1</sup>__ _n_  
 __veto<sup>2</sup>__ _vt_ :three::hammer:  
 __vex__ _v_ :three::hammer: (vexed)  
 __vexatious__ _adj_ :two: Causing irritation or annoyance. Causing or creating vexation; annoying: _vexatious delays._ _Syn_ annoying, bothersome, galling, irritating, nettlesome, pesky, pestering, plaguey, teasing, pestiferous  
-__vexillology__ _n_ The study of flags.  
+__vexillology__ _n_ :two: /ˌvɛksɪˈlɒlədʒɪ/ The study and collection of information about flags.  
 __vexing__ _adj_ :four::hammer: _A vexing problem._ _It’s a vexing topic._  
 __viable__ _adj_ :two::hammer:  
 __vial__ _n_ :two: /ˈvʌɪəl/ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._ _Angels empty the vials of wrath._  
 __viand__ _n_ :two::hammer: (viands)  
 __vibrissa__ _n_ :two: Any of the long stiff hairs that project from the snout or brow of most mammals, as the whiskers of a cat. _Syn_ whisker, sensory hair _The mouse’s vibrissae alerted it to the presence of a predator._  
 __vicar__ _n_ :two::hammer:  
-__vicarious__ _adj_ :three: Felt or enjoyed through imagined participation in the experience of others. _Now I just live vicariously through the people who did get to play._  
+__vicarious__ _adj_ :five: /vye-KAIR-ee-us/ A _vicarious_ emotion or experience is one felt by watching, hearing about, or reading about someone else rather than by doing something yourself. Felt or enjoyed through imagined participation in the experience of others. _Now I just live vicariously through the people who did get to play._ _He felt a vicarious thrill as his daughter crossed the stage to accept her diploma._  
 __vicinity__ _n_ :two::hammer: /vuh-SIN-uh-tee/  
 __vicious__ _adj_ :six: Vicious is an adjective that means intentionally harmful or nasty. If you spread vicious rumors about a person, you’re telling people things that will hurt her feelings or ruin her reputation. Cut it out! _A vicious attack._  
 __viciously__ _adv_ :two::hammer: _They were persecuted viciously._  
@@ -20633,7 +20640,7 @@ __vicissitudes__ _n pl_ :two: /vuh-SISS-uh-toodz/ The word vicissitudes usually 
 __victimhood__  
 __victimize__ _vt_ :dart: Cause to suffer unfairly. _In an earthquake you’re victimized._  
 __victor__ _n_ :three::hammer: _Seward became the righthand man of the victor, Abraham Lincoln._  
-__victory lap__ _n_  
+__victory lap__ _n_ :three::hammer:  
 __victory parade__ _n_  
 __victory speech__  
 __victual<sup>1</sup>__ _n_ :three::mega: /ˈvɪtəl/ [:scroll: From Latin victualia (provisions), from victus (nourishment), past participle of vivere (to live).] Food, especially food fit for human consumption.  
@@ -20653,6 +20660,7 @@ __vile__
 __vilify__ _vt_ :seven: (vilifies) To make vicious and defamatory statements about. _Syn_ revile, vituperate, rail _The Nazi propaganda vilified the Jews._  
 __vilipend__ _v_ Belittle. _Syn_ deprecate _In my culture, men commonly vilipend women and treat them as second-class citizens._  
 __villa__ _n_ :four::hammer:  
+__villager__ _adj_  
 __villainy__ _n_ :two::pencil2: _A wretched hive of scum and villainy._  
 __villas__ _n_  
 __villeinage__ _n_  

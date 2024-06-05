@@ -248,36 +248,6 @@ __tidbit__ _n_
 __timecard__ _n_  
 __tinderbox__ _n_ __1__ A metal box for holding tinder. __2__ A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
 __Tipp-Ex__ _n_ /ˈtɪp.eks/  
-__torrid__ _adj_ /TOR-id/ Torrid can be used to describe something that is literally hot (such as a region near the Earth’s equator) or figuratively hot (such as a romance).  
-__trample__ _v_  
-__triangulation__ _n_ /try-ang-gyuh-LAY-shuhn/ __2__ Positioning between two extremes, especially in politics.  
-__trifecta__  
-__trustworthy__ _adj_  
-__truth-telling__  
-__truthful__ _adj_  
-__tryst__ _n_  
-__tune__ _n, v_ /tun, tyun/  
-__Turkey__ _n_ /ˈtɜr ki/  
-__twister__ _n_ __2__ _informal_ A whirlwind or tornado.  
-__underrated__ _adj_  
-__underwhelm__ _v_ /un-der-WELM/ To underwhelm someone is to fail to impress or excite them.  
-__unfathomable__ _adj_  
-__ungrateful__ _adj_  
-__unmissable__ _adj_  
-__unnerving__ _adj_ /ʌnˈnɜːvɪŋ/ Making one feel worried or uncomfortable.  
-__unputdownable__  
-__unruly__ _adj_  
-__unsavory__ _adj_  
-__untapped__ _adj_ __2__ Not utilized: _untapped resources._  
-__unwavering__  
-__upheaval__ _n_  
-__uptick__ _n_  
-__vestige__ _n_ A visible trace, evidence, or sign of something that once existed but exists or appears no more. _Syn_ tincture, trace, shadow  
-__vet__ _v_ :two: __2__ :dart: To subject to thorough examination or evaluation: _vet a manuscript._  
-__vexillology__ _n_ /ˌvɛksɪˈlɒlədʒɪ/ The study and collection of information about flags.  
-__vicarious__ _adj_ :two: /vye-KAIR-ee-us/ A _vicarious_ emotion or experience is one felt by watching, hearing about, or reading about someone else rather than by doing something yourself. _He felt a vicarious thrill as his daughter crossed the stage to accept her diploma._  
-__victory lap__  
-__villager__ _adj_  
 __vindicate__  
 __voice__ _vt_  
 __void__ _v_  
