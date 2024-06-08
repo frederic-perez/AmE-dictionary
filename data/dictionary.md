@@ -20713,10 +20713,12 @@ __vodka Collins__ _n_ :three: Shake vodka, lemon juice and powdered sugar with i
 __vodka__ _n_ :mega:  
 __voguish__  
 __voice over__ _n_ (voice-over)  
-__voice__ _v_ :dart::two::hammer: _He was voicing his thoughts aloud._  
+__voice__ _vt_ :dart::three::hammer: _He was voicing his thoughts aloud._  
 __voicemail__ _n_  
+__void__ _v_  
 __voidance__ _n_ The act of removing the contents of something. _Syn_ emptying, evacuation _The voidance of one’s inbox after a long vacation is an unenviable task._  
-__volatile__ _adj_ :two::hammer: /VAH-luh-tul/  
+__voir dire__ _n_  
+__volatile__ _adj_ :four::mega: /VAH-luh-tul/ /VOL-uh-tuhl/tyl/ __1__ Fluctuating widely and unpredictably. __2__ Evaporating easily. __3__ Explosive. __4__ Capable of flying.  
 __volcano__ _n_ :mega::two::hammer:  
 __vole__ _n_ :two: A small animal similar to a mouse but with a short tail. _Syn_ field mouse _Water voles._  
 __volition__ _n_ :five: /voh-LISH-un/ Volition is a formal word that means “the power of choosing or determining.” Usually, though not always, _volition_ follows _own_, as in “left the company of her own volition.” _Every choice I made was of my own volition and not subject to outside influence._  
@@ -20776,8 +20778,8 @@ __wainscoting__ _n_ :two::hammer:
 __waist band__  
 __waistcoat__ _n_  
 __wait up__ _phr v_ :two: To not go to sleep until someone comes home.  
-__waitlist<sup>1</sup>__ _n_ /ˈweɪtˌlɪst/ A waiting list.  
-__waitlist<sup>2</sup>__ _vt_ To place on a waiting list; to create a waiting list for.  
+__waitlist<sup>1</sup>__ _n_ :two: /ˈweɪtˌlɪst/ A waiting list.  
+__waitlist<sup>2</sup>__ _vt_ :two: To place on a waiting list; to create a waiting list for.  
 __waive__ _v_ :six::hammer: (waived)  
 __waiver__ _n_ :three::hammer: (waivers)  
 __wakame__ _n_  
@@ -20808,6 +20810,7 @@ __wallboard__
 __walleye__ _n_ _Walleye fishing._  
 __wallflower__ _n_ :three: /WAL-flou-uhr/ __1__ Someone who does not mingle at a social event, such as a party, dance, etc. __2__ A person or an organization that is forced to stay at the sidelines of some activity.  
 __wallop__ _v_ _informal_ :five: (walloped) To beat soundly; strike or hit very hard. _Syn_ whack, wham, whop _They walloped the back of his head with a stick._ _The storm was aimed to wallop Washington, D.C., today._ :es: golpear  
+__walloping__ _n_ A sound thrashing or defeat. _Syn_ debacle, drubbing, thrashing, trouncing, whipping, slaughter  
 __wallow__ _v_ :nine::m: __1__ _(chiefly of large mammals)_ Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ _(of a person)_ Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself) _They tend to wallow in their sorrow._ _Don’t wallow in despair._  
 __walrus mustache__ _n_ A bushy, drooping mustache.  
 __wamble__ _v_ Move unsteadily or with a weaving or rolling motion. _As John wambled into the kitchen for his morning coffee, his head pounding and stomach reeling, he made a silent vow never to get drunk again._  
@@ -20815,9 +20818,10 @@ __wan__ _adj_ :four::hammer: _A wan reception._
 __wand__ _n_  
 __wander<sup>1</sup>__ _n_ The act or an instance of wandering.  
 __wander<sup>2</sup>__ _v_ :two::hammer: _Let’s wander slowly through the fields, the fields of joy._  
+__wanderer__  
 __wanderlust__ _n_ :five: Very strong or irresistible impulse to travel. _Syn_ itchy feet _His wanderlust would not allow him to stay long in one spot._  
 __wanderwort__ _n_ A loanword that has spread to many different languages, often through trade or the adoption of foreign cultural practices.  
-__wane__ _v_ :six::hammer: (waning) _The waning hours._ _Protection from two doses of vaccine wanes within six months._ _Covid-19 vaccination: evidence of waning immunity is overstated._  
+__wane__ _v_ :seven::hammer: /WAYN/ To _wane_ is to become smaller or less, or in other words, to decrease in size, extent, or degree. _The national scandal caused her popularity to wane._ _The waning hours._ _Protection from two doses of vaccine wanes within six months._ _Covid-19 vaccination: evidence of waning immunity is overstated._  
 __wangle__ _v_ /WANG-gul/ __1__ To get (something) by trickery or persuasion. _He managed to wangle his way into the party._ __2__ To adjust or manipulate for personal or fraudulent ends. _They wangled me into pleading guilty._  
 __wanker__ _n_  
 __wanly__ _adv_ :three: In a weak or pale or languid manner. _He nodded a little wanly._ _She droppedand egg on the floor and looked at it wanly._  
@@ -20857,7 +20861,7 @@ __warring__ _adj_ _The warring sides._
 __Warsaw__ _n_ :mega:  
 __warship__ _n_  
 __wartime__ _n_ :pencil2:  
-__wary__ _adj_ :two::hammer: _He is wary of the situation._  
+__wary__ _adj_ :three::hammer: _He is wary of the situation._  
 __wasabi__ _n_  
 __wash out__ _phr v_ To wash the inside of something.  
 __wash up__ _phr v_ :two: To wash your hands and face.  
@@ -20901,7 +20905,7 @@ __waterfowl__ _n_ :three::hammer:
 __waterfront__ _n_ :seven: Land, land with buildings, or a section of a town fronting or abutting on a body of water. _Waterfront real state._  
 __watering hole__ _n_ :six: __1__ _Zoology_ A pool where animals drink; water hole. __2__ _Brewing_ _facetious_ _slang_ A pub.  
 __waterlogged__  
-__watermelon__ _n_ :pencil2:  
+__watermelon__ _n_ :two::hammer::pencil2:  
 __waterpark__  
 __watershed__ _n_ :four::hammer: _A watershed moment._ _Dignataries recognized the watershed moment of his passing._  
 __waterspout__ _n_  
@@ -20922,14 +20926,15 @@ __weal__ _n_ :two: /WEEL/ Weal is a somewhat old-fashioned word that refers to �
 __wealth__ _n_ :five::dart::hammer: _It creates a wealth of fresh energy._ _A wealth of information._ _They were furnished with a wealth of new information._ _A wealth of new data._ _A wealth of untapped data resources._  
 __wean off__ _phr v_ To slowly stop a dependency on something.  
 __wean__ _v_ :nine::m: (weaned, weaning) __1__ To accustom (the young of a mammal) to take nourishment other than by suckling. :es: destetar __2__ To detach from that to which one is strongly habituated or devoted: _She weaned herself from cigarettes._ __3__ To accustom to or familiarize with something from, or as if from, childhood. Often used with _on_. _A brilliant student weaned on the classics._  
-__weaponize__ _v_ :nine: To adapt for use as a weapon of war; to make something suitable for use to harm somebody or to damage something. _They may have weaponized quantities of anthrax._  
+__weaponize__ _v_ :nine::m: To adapt for use as a weapon of war; to make something suitable for use to harm somebody or to damage something. _They may have weaponized quantities of anthrax._  
 __weaponsmith__ _n_  
 __wearily__  
 __weary__ _adj_ :three::hammer:  
+__weasel word__ _n_  
 __weasel<sup>1</sup>__ _n_ :dart::three: /WEE-zuhl/ __1__ Any of various carnivorous mammals of the genus _Mustela_. :es: comadreja __2__ A person regarded as sneaky or treacherous.  
 __weasel<sup>2</sup>__ _vi_ :dart::three: __1__ To evade an obligation. __2__ To be evasive by using ambiguous or misleading words. _Example weasel words include ‘Processor’, ‘Manager’, and ‘Super’._  
 __weather vane__ _n_ :two: /WETH-uhr vayn/ __1__ A device having a pointer rotating on a vertical spindle, used to indicate the direction of the wind. __2__ Someone or something constantly changing.  
-__weather__ _vt_ :five::hammer: (weathering) __3__ To come through (something) safely; survive: _weather a crisis._  
+__weather__ _vt_ :six::hammer: (weathering) __3__ To come through (something) safely; survive: _weather a crisis._  
 __weathered__ _adj_ :two::hammer:  
 __weave<sup>1</sup>__ _n_  
 __weave<sup>2</sup>__ _v_ :three::hammer: (weaving) _He was weaving through traffic._ _It is important to weave your keywords into a compelling story._  
@@ -20995,7 +21000,7 @@ __wen__ _n_ :camera::two::hammer:
 __wend__ _v_ :six: /wɛnd/ (wending) __1__ To direct one’s course. To move or travel slowly somewhere. _Syn_ travel _Hikers wend along the marked trails to the top of the mountain, which provides a panoramic view of the area towns._ _Leo wended his way home through the wet streets._ _She had to wend her way through the crowd._ __2__ To proceed on. To proceed or go. _Syn_ meander, make one’s way, wind one’s way _The legal battle wends its way through the federal appeals process._  
 __werewolf__ _n_ :three::hammer: /WAIR-woolf/ :es: hombre lobo  
 __wet a line__  
-__wet bar__ _n_ :three::astonished: A small bar, as in the home or a hotel suite, equipped with a sink and running water.  
+__wet bar__ _n_ :four::astonished: A small bar, as in the home or a hotel suite, equipped with a sink and running water.  
 __wet market__ _n_ A market that sells perishable items (such as fresh meat and produce) and sometimes live animals which are often slaughtered on-site. _This scientist now believes covid started in Wuhan’s wet market._  
 __wet suit__ _n_  
 __wet__ _v_ (wetted) _A wetted wick._  
@@ -21039,7 +21044,7 @@ __whelm<sup>1</sup>__ _vt_ /hwelm, welm/ __1__ To submerge. __2__ To overcome; o
 __whelm<sup>2</sup>__ _n_ An overwhelming or engulfing quantity of something.  
 __whelp__  
 __whence__  
-__whereabouts__ _n_ :two::hammer:  
+__whereabouts__ _n_ :three::hammer:  
 __whereas__ _conj_ :two::hammer: /ʰwɛərˈæz, wɛər-/  
 __whereby__  
 __wherefore__ _adv_  
@@ -21065,7 +21070,7 @@ __whinnied__ _v_
 __whip up__ _phr v_ :two: To make food or a meal very quickly and easily.  
 __whip<sup>1</sup>__ _v_ :mute:[w~~h~~ip]  
 __whip<sup>2</sup>__ _n_ :mute:[w~~h~~ip] _Mr. Roskam was appointed deputy whip after the 2010 elections._  
-__whiplash__ _n_ :nine: Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ _An amazing, whiplash-inducing performance._ _Economic whiplash._ :es: latigazo  
+__whiplash__ _n_ :nine::m: Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ _An amazing, whiplash-inducing performance._ _Economic whiplash._ :es: latigazo  
 __whippersnapper__ _n_ :two: /ˈwɪpəˌsnæpə/ An insignificant but pretentious or cheeky person, often a young one. Also called: whipster.  
 __whipsaw__ _v_  
 __whir<sup>1</sup>__ _n_ :two: (whirr in _British English_) Sound of something in rapid motion. _The high-pitched whir of a drill._  
@@ -21086,7 +21091,7 @@ __whisper<sup>2</sup>__ _v_ :mute:[w~~h~~isper]
 __whistle-blower__ _n_ :two: One who reveals wrongdoing within an organization to the public or to those in positions of authority.  
 __whistle<sup>1</sup>__ _n_ :mute:[w~~h~~istle]:mute:[whis~~t~~le]  
 __whistle<sup>2</sup>__ _adj_ :mute:[w~~h~~istle]:mute:[whis~~t~~le]  
-__whistleblower__ _n_ :three::hammer:  
+__whistleblower__ _n_ :four::hammer:  
 __Whit Sunday__  
 __whit__ _n_ :two: _(usually used with a negative)_ The smallest particle; iota; jot: _he has changed not a whit._ _A whit of intelligence._ _He didn’t care a whit for what others thought of him._  
 __white elephant__ _n_ :two: A possession that provides few benefits and is an inconvenience or a financial burden to maintain.  
@@ -21129,7 +21134,7 @@ __whole<sup>3</sup>__ _adv_ :mute:[~~w~~hole] _informal_ Entirely; wholly: _a wh
 __wholeheartedly__ _adv_ :three::hammer:  
 __wholesale__ _adj, adv, n, v_ :six: Use the adjective wholesale to describe something that’s done on a big, broad scale, like wholesale changes made by a new government that affect an entire country. It’s pretty common to see the phrase “wholesale destruction,” especially when historians are talking about the overwhelming effects of war or ecological disasters. When wholesale is a verb, it has a very different meaning — to sell things in bulk, usually to someone who is going to sell it again at a higher retail price. The earliest meaning of the word was “in large quantities,” combining whole and sale into the phrase “by whole sale.” _Russia stands for wholesale orruption._ _The wholesale burning of villages._ _The largest wholesale jewelry center open to the public._  
 __wholesaler__ _n_ :two: Someone who buys large quantities of goods and resells to merchants rather than to the ultimate customers. _Syn_ jobber, middleman  
-__wholesome__ _adj_ :six::hammer:  
+__wholesome__ _adj_ :seven::hammer:  
 __wholistic__ _adj_ A variant spelling of holistic.  
 __Wholly Molly__  
 __wholly__ _adv_ :pencil2::four::hammer: _Something wholly different._ _A problem that is wholly unnecessary._  
@@ -21138,7 +21143,7 @@ __whoop-de-do__ _n_
 __whoop<sup>1</sup>__ _n_ :two::hammer:  
 __whoop<sup>2</sup>__ _v_ :four::hammer: (whooped) _He can whoop him with a switch._  
 __whoopee__  
-__whooping cough__  
+__whooping cough__ _n_ :two::hammer:  
 __whoopsie__ _n_ :dart::three: __1__ An embarrassing mistake. __2__ A piece of excrement, esp one left by a pet.  
 __whoosh<sup>1</sup>__ _n_ :two::hammer: _A whoosh of air._ _He could hear the whoosh of cars speeding past on a expressway._  
 __whoosh<sup>2</sup>__ _v_ (whooshed)  
@@ -21309,7 +21314,7 @@ __women__ _n_ :two::mega: /ˈwɪmɪn/
 __womenfolk__  
 __wonderland__ _n_ :two::hammer:  
 __wonderwall__ _n_ A very dependable person.  
-__wondrous<sup>1</sup>__ _adj_ :nine: Remarkable or extraordinary; wonderful.  
+__wondrous<sup>1</sup>__ _adj_ :nine::m: Remarkable or extraordinary; wonderful.  
 __wondrous<sup>2</sup>__ _adv_ (intensifier): _it is wondrous cold._  
 __wondrously__  
 __wonk__ _n_ :three::hammer: _An economic wonk._ _A telegenic policy wonk._  
@@ -21352,7 +21357,7 @@ __wordnesia__ _n_ When a common word looks strange and ungainly.
 __wordplay__ _n_ :two::hammer:  
 __wordsmith<sup>1</sup>__ _n_  
 __wordsmith<sup>2</sup>__ _v_ :two::hammer:  
-__wordy__ _adj_ :two: Using or containig too many words.  
+__wordy__ _adj_ :three: Using or containig too many words.  
 __work as planned__  
 __work at__ _phr v_ To try hard to develop or improve something.  
 __work day__ _n_  
@@ -21365,7 +21370,8 @@ __work surface__ _n_ A horizontal surface for supporting objects used in working
 __workaday__ _adj_ :three::hammer: _The workaday world._  
 __workaholism__ _n_ :mega: The state of being a workaholic.  
 __workbook__ _n_  
-__workforce__ _n_ :two::hammer: (work force)  
+__worked up__ _adj_ Agitated or excited. Excessively affected by emotion. _She was worked up about all the noise._  
+__workforce__ _n_ :three::hammer: (work force)  
 __workhorse__ _n_ _informal_ A person who works tirelessly, especially at difficult or time-consuming tasks.  
 __working order__ _n_  
 __working title__  
@@ -21406,7 +21412,7 @@ __wraparound__ _adj_ :two::hammer: _A wraparound front porch._ _Wraparound seaso
 __wrath__ _n_ :mute:[~~w~~rath]  
 __wreak__ _v_ /REEK/ To bring about or cause (something that is harmful or damaging). It is often used in the phrase “wreak havoc.”  
 __wreak-havoc__ _v_  
-__wreath<sup>1</sup>__ _n_ :three::mute:[~~w~~reath] (wreaths) _Funeral wreath._ :es: corona  
+__wreath<sup>1</sup>__ _n_ :five::mega::mute:[~~w~~reath] /riːθ, riθ/ _Funeral wreath._ :es: corona  
 __wreath<sup>2</sup>__ _v_ :mute:[~~w~~reath] _A wreathed sword._  
 __wreathe__ _v_ To encircle or adorn, as with a wreath; to envelop: _Her head was wreathed in spring flowers._  
 __wreck<sup>1</sup>__ _n_  
@@ -21571,7 +21577,8 @@ __zero point__ _n_
 __zero-sum__ _adj_ :three::hammer: _A zero-sum game._ _A zero-sum relationship._  
 __zest__ _n_ :five::hammer: _The zest of one orange._ _Stir in orange zest and orange juice._  
 __zesty__ _adj_ :six::hammer: _Fruits with zesty peel._ _Zesty appetizers._  
-__zhuzh__ _v_  
+__zetetic__  
+__zhuzh__ _v_ :two: /ZHUZH (the U is as in PUSH)/ To _zhuzh_ something up is to improve its flavor or appearance by way of a small improvement, adjustment, or addition. _He likes to zhuzh up his outfits with brightly-colored ties._  
 __zig__ _v_ _They tend to zig when markets zag._  
 __zilch__  
 __zillion__ _n_ _informal_  
@@ -21588,11 +21595,13 @@ __zip<sup>2</sup>__ _v informal_ :two: To move with speed and vigour. _The ISS z
 __zipline__ _n_ :two::hammer: _A zipline park._  
 __zippy__ _adj_ Full of energy; lively. _A zippy hit parade._  
 __zit__ _n informal_ A spot on the skin.  
+__zither__  
 __zoanthropy__ _n_ /zo-AN-thruh-pee/ The delusion that one is a beast.  
 __zodiac__ _n_ /ZOH-dee-ak/ [:scroll: From Latin zodiacus, from Greek zoidiakos, shortening of zoidiakos kyklos (zodiac circle), from zoion (living being) + kyklos (circle, wheel).] __1__ A circular diagram with 12 parts, each named after a constellation, used in astrology. __2__ A circle, circuit, etc.  
 __zone out__ _phr v_ :three: To lose concentration or become inattentive. To fall asleep.  
 __zonk out__ _v_  
 __zonk__ _n_ :two::hammer:  
+__zoolatry__ _n_ /zo-OL-uh-tree/ [:scroll: From Greek zoo- (animal) + -latry (worship)] __1__ The worship of animals. __2__ Extreme devotion to animals, for example, to one’s pets.  
 __zoom in__ _phr v_ To focus more closely.  
 __zoomorphic__ _adj_ /zoh-uh-MOR-fik/ Having the form of an animal. _Using cookie cutters, the children made zoomorphic treats to bring to the bake sale._  
 __zoonotic__ _adj_  

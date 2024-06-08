@@ -248,32 +248,3 @@ __tidbit__ _n_
 __timecard__ _n_  
 __tinderbox__ _n_ __1__ A metal box for holding tinder. __2__ A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
 __Tipp-Ex__ _n_ /ˈtɪp.eks/  
-__vindicate__  
-__voice__ _vt_  
-__void__ _v_  
-__voir dire__ _n_  
-__volatile__ _adj_ :two::mega: /VOL-uh-tuhl/tyl/ __1__ Fluctuating widely and unpredictably. __2__ Evaporating easily. __3__ Explosive. __4__ Capable of flying.  
-__waitlist__ _n, v_  
-__walloping__ _n_ A sound thrashing or defeat. _Syn_ debacle, drubbing, thrashing, trouncing, whipping, slaughter  
-__wanderer__  
-__wane__ _v_ /WAYN/ To _wane_ is to become smaller or less, or in other words, to decrease in size, extent, or degree. _The national scandal caused her popularity to wane._  
-__wary__ _adj_  
-__watermelon__  
-__weaponize__  
-__weasel word__ _n_  
-__weather__ _v_  
-__wet bar__ _n_  
-__whereabouts__  
-__whiplash__ _n_  
-__whistleblower__  
-__wholesome__ _adj_  
-__whooping cough__ _n_  
-__wondrous__ _adj_  
-__wordy__ _adj_  
-__worked up__ _adj_ Agitated or excited. Excessively affected by emotion. _She was worked up about all the noise._  
-__workforce__ _n_ (work force)  
-__wreath__ _n_ /riːθ, riθ/  
-__zetetic__  
-__zhuzh__ _v_ /ZHUZH (the U is as in PUSH)/ To _zhuzh_ something up is to improve its flavor or appearance by way of a small improvement, adjustment, or addition. _He likes to zhuzh up his outfits with brightly-colored ties._  
-__zither__  
-__zoolatry__ _n_ /zo-OL-uh-tree/ [:scroll: From Greek zoo- (animal) + -latry (worship)] __1__ The worship of animals. __2__ Extreme devotion to animals, for example, to one’s pets.  
