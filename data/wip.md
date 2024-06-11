@@ -69,3 +69,36 @@ __eat (one’s) fill__ To eat enough that one is satisfied or no longer hungry.
 __a rough patch__ A period of trouble, difficulty, or hardship.  
 __go through a rough patch__ To experience or be in the midst of a period of trouble, difficulty, or hardship.  
 
+__muttering__ _n_ (?)  
+__racket__ _n_ (noise)  
+__interfere__ _v_  
+__gruff__  
+__rung__  
+__breeze__ _Breeze blocks on the streets of Havana._  
+__guardian__ _n_ (tutor?)  
+__virid__ _adj_ /VIR-id/ Bright green.  
+__foment__ _v_ /FOH-ment/  
+__hellion__ _n_ A mischievous, troublesome, or unruly person. _Syn_ devil, heller  
+__tractable__ _adj_ /TRAK-tuh-bul/ _Tractable_ is used to describe someone or something that is easily led, managed, taught, or controlled.  
+__perdition__ _n_ The abode of Satan and the forces of evil; where sinners suffer eternal punishment. _Syn_ Hell, infernal region, nether region, Inferno  
+__lentitude__ _n_ /LEN-tuh-tood/tyood/ Slowness or sluggishness.  
+__firebrand__  
+__miniscule__ _adj_ :astonished:  
+__cornpone__ _n_  
+__inviting__ _adj_ :two: Attractive; tempting: _an inviting dessert._  
+
+
+__it ain’t over till/until the fat lady sings__  
+__to a T__  
+__wey kiss__  
+__boil (something) down to (something)__ To reduce or simplify something to the most basic, essential, or fundamental element(s).  
+__beg to differ__ (?)  
+__a hung jury__ (?)  
+__prissy__  
+__fussbudget__ :dart: _informal_ One who tends to be fussy or particular, usually to an excessive or unnecessary degree. Primarily heard in US. _Don’t be such a fussbudget, huh? This really isn’t a big deal._ _Of course Vanessa found some miniscule issue that no one else would have noticed. She’s such a fussbudget._  
+__hell-bent__ Very determined to do something, perhaps annoyingly or recklessly so.  
+__as we speak__  
+__stakeout__  
+__top-heavy__ __1__ _slang_ Of a woman, having very large breasts. __2__ _slang_ Of a man, having large upper-body muscles with relatively small lower-body muscles.  
+__usual suspects__  
+__at its best__  
