@@ -136,3 +136,40 @@ __the real deal__
 __watershed moment__ (?)  
 __sexual advance__  
 __in a pinch__ When something ideal or preferred is not available; as a substitute. _I don’t have any cooking oil. Is there anything else I can add to the recipe in a pinch?_  
+
+__peal__ _A peal of laughter._  
+__outlay__ _n_  
+__hotplate__ _n_ :two::hammer:  
+__klunk__ _n_ (noise?)  
+__enlighened__ _Enlightened despot._  
+__roar__ _n_  
+__hiss__ _v_ :three::hammer:  
+__descant__ _n_  
+__missus__ _n_  
+__holdall__ _n_  
+__wellingtons__  
+__lathe__ _n_  
+__alcove__ _n_  
+__forecourt__ _n_  
+__reprieve__ _n_  
+__squeegee__  
+__sludge__ _n_  
+__spades__ _n_  
+__lug__ _Lug of hair._  
+__fru__  
+__overnight__ _It happened almost overnight._  
+__self-assured__  
+__birch tree__  
+__dinghy__ _n_  
+__bleak__ _adj_  
+
+__as simple (smt?) as it gets__ :dart:  
+__enjoy oneself__  
+__slip__ (mistake, uttered)  
+__in a month time__  
+__loose cannon__  
+__prick teaser__  
+__sleep like a stone__ (?)  
+__go ballistic__  
+__food chain__  
+__like the back of your hand__  
