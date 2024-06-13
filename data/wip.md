@@ -102,3 +102,37 @@ __stakeout__
 __top-heavy__ __1__ _slang_ Of a woman, having very large breasts. __2__ _slang_ Of a man, having large upper-body muscles with relatively small lower-body muscles.  
 __usual suspects__  
 __at its best__  
+
+
+__efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
+__big game__  
+__ogle__ _v_  
+__bonnet__ _n_ :three::hammer:  
+__pressing__ _A pressing need._  
+__nonplussed__ :pencil2:  
+__wispy__ _Wispy hair._  
+__heathen__  
+__smiting__ _v_  
+__throb__ _v_ _My hand was throbbing._  
+__bog__ _n_ _A cow grazing in a bog._  
+__nags__ _n_ _Riding old nags._  
+__regardles__  
+__summons__ _n_  
+__lodge__ _v_ _He’s lodged a complaint against you._  
+
+__turn a blind eye to something__  
+__lost for words__  
+__look the othr way__  
+__fair enough__  
+__all the same__ (?)  
+__at any rate__  
+__bow-legged__ :three::hammer:  
+__a balancing act__ :dart:  
+__go cold__ _The bonnet beneath had gone cold._  
+__show (one’s) hand__  
+__all too often__  
+__at its very worst__ (?)  
+__the real deal__  
+__watershed moment__ (?)  
+__sexual advance__  
+__in a pinch__ When something ideal or preferred is not available; as a substitute. _I don’t have any cooking oil. Is there anything else I can add to the recipe in a pinch?_  
