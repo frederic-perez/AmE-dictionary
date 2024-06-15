@@ -205,3 +205,35 @@ __know by heart__
 __beat about the bush__  
 __the same old same__ (?)  
 __go bust__  
+
+__snuff__ _n_  
+__cleaning agent__  
+__plumb__ _Bruises and plumb lines._  
+__writ__  
+__ragbag__  
+__Boxing Day__  
+__snowdrift__  
+__swedes__ _n_ :two::hammer: _I helped her mash the swedes._  
+__sheaf__ _n_  
+__aquavit__  
+__spruce tree__  
+__curtly__ _‘Congratulations,’ I said curtly._  
+__divide__ _n_ (?)  
+
+__work like a Trojan__  
+__beat about the bush__  
+__the same old same__  
+__go bust__  
+__get it out of my system__  
+__pissrain__  
+__airhead__  
+__dig and poke around__ (?)  
+__as far as it goes__  
+__wind down__  
+__get something out of the way__ :dart:  
+__lucky monkey__  
+__as it happens__  
+__clear the table__ _After the meal I cleared the table._  
+__the small of one’s back__  
+__jalopy__  
+__grease monkey__  
