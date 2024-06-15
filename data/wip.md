@@ -173,3 +173,35 @@ __sleep like a stone__ (?)
 __go ballistic__  
 __food chain__  
 __like the back of your hand__  
+
+__endure__ _v_ _I could hardly even endure my own reflection in the mirror._  
+__self-contempt__  
+__golden plover__ _n_ (bird?)  
+__round and round__  
+__broach__ _v_  
+__hanker for__ _It is not something to hanker for._  
+__calendar year__  
+__millpond__  
+__squelch__ _v_  
+__trawl__ _v_  
+__cowed__  
+__snuff__ _n_  
+
+__red-hot__ _The red-hot property market._  
+__step up s gear__  
+__for which read__ :dart: _Readjustment, scaling back, for which read — redundancies._ :es: léase (?)  
+__starting salary__  
+__stands to reason__  
+__heathens__ _Heathens like me._  
+__for all I know__  
+__get (one, something) out of the system__  
+__tearjerker__  
+__in full swing__  
+__no picnic__ _It’s no picnic walking around with a guilty conscience._  
+__barb__ _He acknoledged the barb._  
+__trip along__  
+__jungle law__  
+__know by heart__  
+__beat about the bush__  
+__the same old same__ (?)  
+__go bust__  
