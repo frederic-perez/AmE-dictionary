@@ -237,3 +237,38 @@ __clear the table__ _After the meal I cleared the table._
 __the small of one’s back__  
 __jalopy__  
 __grease monkey__  
+
+__waddle__ _v_  
+__hoipolloi__  
+__shoal__ _n_  
+__deaf-mute__ _n_ (?)  
+__serviette__ _n_  
+__funfair__  
+__undwrarm__ _n_  
+__splosh__ _v_  
+__peal__ _n_ (bell sound?)  
+__welt boots__  
+__stovepipe__  
+__flit__ _v_  
+__unassuming__ _adj_  
+__self-effacing__  
+__self-reliant__  
+__alacrity__  
+__paradigm__ _n_ /PAIR-uh-dyme/  
+__pustulate__ _adj_ Blemished by imperfections of the skin. _Syn_ acned, pimpled  
+__unbeknownst__ _adj_ /un-bih-NOHNST/  
+__drollery__ _n_ A quaint and amusing jest. _Syn_ waggery  
+
+__it wouldn’t do (someone) any harm (to do something)__ It would or may be good, pragmatic, or beneficial for someone (to do something). _You know, it wouldn’t do you any harm to comb your hair from time to time._  
+
+__with a start__ _I dreamed about falling and I woke with a start._  
+__goats and oats__ :dart:  
+__slush__ _n_ (drink?)  
+__talk in tongues__  
+__white spirit__ _n_  
+__sounds familiar__  
+__a one-off__  
+__give something a miss__ _I’ll give coffee a miss; I’m off to bed now._  
+__double or quits__ (?)  
+__poppy appeal__  
+__(it’s) just as well (that) (something happened)__ It is or turned out to be beneficial (that something happened). _It turned out we had a pop quiz on Monday. Just as well I was studying this weekend!_  
