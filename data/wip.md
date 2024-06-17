@@ -272,3 +272,38 @@ __give something a miss__ _I’ll give coffee a miss; I’m off to bed now._
 __double or quits__ (?)  
 __poppy appeal__  
 __(it’s) just as well (that) (something happened)__ It is or turned out to be beneficial (that something happened). _It turned out we had a pop quiz on Monday. Just as well I was studying this weekend!_  
+
+__limestone__  
+__viaduct__  
+__aqueduct__  
+__superintendent__ _A park superintendent._  
+__weir__ _n_  
+__Victoria Cross__ _n_  
+__savoy__ _n_ (food)  
+__scullery__  
+__scrump__ _v_  
+__nip__ _n_  
+__weed__ _v_  
+__fire grates__ _She prepared the fire grates._  
+__surgery__ _n_ _The doctor’s surgery was his own home._  
+__jollop__ _n_  
+__butt__ _n_ _Two iron water butts._  
+__cesspit__ _n_  
+__hurricane lamp__  
+__crevice__  
+__stairway__  
+__apportionment__ _n_ The act of distributing by allotting or apportioning; distribution according to a plan. _Syn_ parceling, assignation, allocation, allotment  
+__catapult__ _n_  
+__pit pony__ _The coal mines used pit ponies._  
+__throwback__ _n_  
+__folly__ _n_ (construction)  
+__balustrade__  
+__sham__  
+__poach__ _v_  
+
+__close shave__  
+__six in one, (and) half a dozen in the other__ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
+__the man to see__  
+__give a hiding__ (punishment?)  
+__well-to-do__ _A well-to-do doctor._  
+__the three Rs__ _We learned the three Rs._  
