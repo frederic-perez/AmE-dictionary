@@ -346,3 +346,48 @@ __dimly__
 __a stone’s throw__ :two::hammer:  
 __be partial to something__  
 __spend a penny__  
+
+__scrupulously__  
+__squally__ _Squally showers._  
+__peckish__  
+__untoward__  
+__funkhole__  
+__hitherto__  
+__nominal price__  
+__attritional__ :dart: _Attritional battles._  
+__haversack__ _n_  
+__pontoon__ _n_  
+__broad__ _In broad daylight._  
+__pillbox__  
+__poplar tree__  
+__dishevelled__  
+__morass__  
+__comradeship__  
+__parade__ _v_  
+__communicatipn trench__  
+__divots__ _n_  
+__unassailable__  
+__epaulettes__ _n_  
+__armistice__ _n_  
+__strong__ (people?)  
+__spud__ _n_ _I was peeling spuds in the cookhouse._  
+__cookhouse__ _n_  
+__exonerate__ _v_  
+__demob__ _v_  
+__surplice__  
+__upshot__  
+
+__dig one’s feet__  
+__speak one’s mind__  
+__make one scarce__  
+__go over the top__  
+__get on famously__  
+__booty-trap__  
+__lip to lip__ :two::hammer:  
+__zero hour__  
+__mess tin__  
+__whizz-bangs__  
+__no-man’s-land__ :three::hammer:  
+__attend to the call of nature__  
+__field dressing__  
+__fire on the ranges__  
