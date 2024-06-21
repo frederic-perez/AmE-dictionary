@@ -391,3 +391,30 @@ __no-man’s-land__ :three::hammer:
 __attend to the call of nature__  
 __field dressing__  
 __fire on the ranges__  
+
+__spinster__  
+__tackle__ _n_ _The tackle broke when they tried to lift the heavy bell._  
+__cornices__ _n_ :two::hammer:  
+__woodwork__ _Woodwork fascia._  
+__fascia__  
+__unlatched__  
+__smouldered__ _v_  
+__tramp__ _n_ (vagrant?)  
+__VE Day__  
+__store__ _n_ :dart: A mercantile establishment for the sale of goods or services.  
+__brushwood__ _n_  
+__cathexis__ _n_ Concentration of emotional energy on an object or idea. _Syn_	charge _Freud thought of cathexis as a psychic analog of an electrical charge._  
+__jubilee__ _n_ :mega: /JOO-buh-lee/  
+__degage__ _adj_ Showing lack of emotional involvement. _Syn_ detached, uninvolved  
+__balderdash__ _n_ /ˈbɔːldəˌdæʃ/ Nomsense. Stupid or illogical talk; senseless rubbish.  
+__transgression__ _n_ /trans-GRESH-uhn/ A violation of legal or moral boundaries.  
+__brainiac__ _n_ /BRAY-nee-ak/  
+
+__dry run__  
+__bits and pieces__  
+__smell a rat__  
+__pull one’s weight__  
+__Jerry__ (German?)  
+__hue and cry__ /HYOO-und-KRYE/ __1__ A large public protest. _Hue and cry_ refers to a clamor of alarm or protest in response to something. __2__ It can also be used as a synonym of hubbub to refer to general noise or uproar.  
+__(it’s/there’s) no use crying over spilt milk__ :dart: _proverb_ It does no good to get upset over a bad decision or unfortunate event that has already come to pass and cannot be changed.  
+__it’s all good__ :dart: A phrase used to express general approval, unconcern, or disinterest.  
