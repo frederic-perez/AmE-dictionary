@@ -13,6 +13,7 @@ __buzzword__ _n_
 __byword__ _n_  
 __carabiner__ _n_  
 __carnage__ _n_  
+__cartwheel__ _n_  
 __catchword__ _n_  
 __caveat__ _n_ /KAV-ee-aht/ A _caveat_ is an explanation or warning that should be remembered when you are doing or thinking about something. In legal contexts, _caveat_ refers to a notice to a court or judicial officer to suspend a proceeding until the opposition can be heard.  
 __closing argument(s)__  
@@ -20,6 +21,7 @@ __closure__ _n_
 __code of conduct__  
 __code of ethics__  
 __code word__ _n_  
+__consternation__ _n_ /kahn-ster-NAY-shun/  
 __countermand__ _v_ /KOUNT-er-mand/  
 __counterword__ _n_  
 __curse word__ _n_ _Syn_ cussword, dirty word  
@@ -31,6 +33,7 @@ __dismay__ _vt_
 __doable__  
 __dopamine__ _n_ _Dopamine hit/rush._  
 __downpour__ _n_ A heavy fall of rain. _Syn_ pelter, soaker, torrent, cloudburst, deluge, waterspout  
+__dumbwaiter__ _n_ A small elevator used to convey food (or other goods) from one floor of a building to another. _Syn_ food elevator  
 __dynasty__ _n_ /DYE-nuh-stee/ Dynasty refers to a group (such as a team, family, etc.) that is very powerful or successful for a long period of time. It is also often used for a family of rulers who rule over a country for a long period of time, as well as the period of time when a particular dynasty is in power.  
 __easy__ _adj, adv_ :mega: /ˈiːzɪ/  
 __ebullient__ _adj_ /ih-BULL-yunt/  
@@ -45,6 +48,7 @@ __felony__ _n_ A crime that has a greater punishment imposed by statute than tha
 __fiddle-faddle<sup>1</aup>__ _n_ /ˈfɪdəlˌfædəl/ Nonsense.  
 __fiddle-faddle<sup>2</sup>__ _v_ To fuss or waste time, esp over trivial matters.  
 __flexor__ _n_ A small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes. _Syn_ percussor, plessor  
+__flighty__ _adj_ /ˈflaɪtɪ/  
 __flub<sup>1</sup>__ _n_ :dart: /flʌb/ An embarrassing mistake or blunder.  
 __flub<sup>2</sup>__ _v_ :dart: To blunder or make an embarrassing mistake. Make a mess of, destroy or ruin.  
 __foist__ _v_ /FOIST/ _Foist_, which is almost always used with _on_ or _upon_, is used when someone forces another person to accept something, usually something that is not good or is not wanted. Foist can also mean “to pass off as genuine or worthy.”  
@@ -55,6 +59,7 @@ __gadfly__ _n_ /GAD-flye/ In literal use, gadfly refers to any of various flies 
 __galvanic__ _adj_ /gal-VAN-ik/ __1__ Stimulating; energizing; shocking. __2__ Relating to electric current, especially direct current.  
 __ghost word__ _n_  
 __glean__ _v_ /GLEEN/ To glean is to gather or collect something bit by bit, or in a gradual way. _Glean_ can also be used to mean “to search (something) carefully” and “to find out.”  
+__gossip__ _v_ /GAH-sup/ To gossip is to talk about the personal lives of other people.  
 __grill__ _vt_ __3__ _informal_ To question relentlessly; cross-examine.  
 __guide word__ _n_  
 __halcyon__ _adj, n_  
@@ -65,6 +70,7 @@ __hibernal__ _adj_ Of or relating to winter. _Syn_ brumal, hiemal
 __Hooray Henry__ _n_ /hoo-ray HEN-ree/ (Hooray Henrietta) A young, upper-class man who behaves in a loud, obnoxious, and often pretentious manner.  
 __hospice__ _n_  
 __impetuous__ _adj_  
+__incognito__ _adj, adv_ /in-kahg-NEE-toh/  
 __inebriant__ _n_ An intoxicant. _Syn_ alcoholic beverage, intoxicant, alcohol  
 __injunction__ _n_ :two::hammer:  
 __innocuous__ _adj_  
@@ -102,16 +108,20 @@ __listless__ _adj_ Marked by low spirits; showing no enthusiasm. _Syn_ dispirite
 __litigation__ _n_  
 __livid__ _adj_ __3__ _informal_ Angry or furious.  
 __loan word__ _n_  
+__logodaedalus__ _n_ /log-uh-DEE-duh-luhs/ One skilled with words.  
 __long-standing__ _adj_ (longstanding)  
 __lucrative__ _adj_ :two::hammer: /LOO-kruh-tiv/  
 __lunchtime__ _n_ :pencil2:  
 __misstep__ _n, v_  
 __mohawk__ _n_ /ˈməʊhɔːk/  
+__nosy__ _adj_  
 __orphan drug__ _n_ A drug that remains undeveloped or is neglected because of limited potential for commercial gain.  
 __outlying__ _adj_ Relatively distant or remote from a center or middle: _outlying regions._ _Outlying areas._  
 __outright__ _adj, adv_  
+__outsized__ _adj_  
 __overall__  
 __overcapacity__ _n_  
+__overly__  
 __overstretched__ _adj_ /ˌəʊvəˈstrɛtʃt/ Subject to excessive demands or put under excessive pressure. _Overstretched staff._  
 __palatable__ _adj_  
 __palmer__ _n_ :m: /ˈpɑːmə/ __1__ A pilgrim, esp. of the Middle Ages, who had returned from the Holy Land bearing a palm branch as a token. __2__ Any religious pilgrim.  
@@ -122,6 +132,7 @@ __parapraxis__ _n_ A minor error, such as a slip of the tongue, thought to revea
 __pasquinade__ _n_ A satire or lampoon, especially one that ridicules a specific person, traditionally written and posted in a public place. _Syn_ parody, put-on, sendup, spoof, charade, lampoon, mockery, burlesque, travesty, takeoff  
 __pauperism__ _n_ A state of extreme poverty or destitution. _Syn_ indigence, penury, need  
 __peculiar__ _adj, n_  
+__penury__ _n_ Extreme want or poverty; destitution. _Syn_ indigence, pauperism, beggary, need  
 __peremptory__  
 __perfunctory__  
 __perjury__ _n_  
@@ -130,6 +141,7 @@ __perspicacious__ _adj_
 __pertussis__ _n_ The technical name for _whooping cough_.  
 __photophobia__ _n_ /fo-tuh-FO-bee-uh/ An abnormal sensitivity to light.  
 ‌__pilgrim__ _n_ /ˈpɪl grɪm, -grəm/  
+__pinafore__ _n_ A sleeveless garment similar to an apron, worn especially by small girls as a dress or an overdress. _Syn_ jumper, pinny  
 __pincer__ _n_ A grasping structure on the limb of a crustacean or other arthropods. _Syn_ chela, nipper, claw  
 __pitch-perfect__ _adj_ /pich-PUHR-fikt/ [:scroll: From pitch, from Old English pic + perficere (to finish), from per- (across) + facere (to do)] __1__ Perfect in every way, especially in being sensitive to a particular situation. __2__ Right tone, pitch, mood, etc.  
 __plangent__ _adj_ /PLAN-junt/ Something, such as a sound, that is described as plangent is loud, deep, and often expressive of sadness or suffering. _Syn_ plaintive _The campers were awoken by the plangent howl of a coyote off in the distance._  
@@ -248,3 +260,5 @@ __tidbit__ _n_
 __timecard__ _n_  
 __tinderbox__ _n_ __1__ A metal box for holding tinder. __2__ A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
 __Tipp-Ex__ _n_ /ˈtɪp.eks/  
+__tweener__ _n_ (sports, chiefly tennis) A shot that is hit between the legs.  
+__venomous__ _adj_ /ˈvɛn ə məs/  

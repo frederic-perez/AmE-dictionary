@@ -1,7 +1,10 @@
 __(as) solid as a rock__ Exceptionally stable, sturdy, and reliable.  
+__(it’s/there’s) no use crying over spilt milk__ :dart: _proverb_ It does no good to get upset over a bad decision or unfortunate event that has already come to pass and cannot be changed.  
 __a slew of (something)__  
 __an early riser__ Someone who wakes up and is more active and alert in the early hours of the morning.  
 __blow (someone or something) out of the water__  
+__come into question__ To become doubted, scrutinized, or a matter of serious discussion.  
+__doxx (one)__  
 __frag__ _slang_ [:scroll: The term had its origin in the Vietnam War] To kill a fellow soldier, often a superior, with a grenade or other explosive device. The word is a shortening of “fragmentation grenade,” referring to a type of grenade that expels shrapnel over a large area. _Someone’s going to frag that guy if he keeps treating his men so poorly._  
 __freak out__  
 __free fall__  
@@ -33,6 +36,7 @@ __get into it__
 __get it (all) together__  
 __get on (one’s) nerves__ To irritate, grate on, or exasperate one.  
 __get past (someone or something)__  
+__get the best of (someone or something)__ To overwhelm, take control, or gain an advantage over someone or something.  
 __get the boot__  
 __get the picture__  
 __get wind of (something)__  
@@ -62,6 +66,7 @@ __go places__
 __go south__  
 __go to hell in a handcart__ To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin. _With this new president in office, our country is going to go to hell in a handcart!_  
 __go with (someone or something)__  
+__go with the flow__ To act as others are acting, conforming to common behavior patterns with an attitude of calm acceptance.  
 __golden__  
 __good to go__  
 __good-time Charlie__ An affable, lively, and entertaining man who is often or always seeking pleasure or a good time.  
@@ -69,7 +74,9 @@ __grapple with (someone or something)__ :two::hammer:
 __green thumb__  
 __heat wave__ A period of time in which the weather is unusually and persistently hot.  
 __hell on earth__  
+__hem and haw__  
 __hit the ground running__  
+__hue and cry__ /HYOO-und-KRYE/ __1__ A large public protest. _Hue and cry_ refers to a clamor of alarm or protest in response to something. __2__ It can also be used as a synonym of hubbub to refer to general noise or uproar.  
 __if it ain’t broke, don’t fix it__  
 __If you can’t beat ’em, join ’em__  
 __in a bit__  
@@ -121,10 +128,11 @@ __in the works__
 __in virtue of (something)__ Due to something; because of something; by reason of something. _In virtue of your years of hard work and experience in the company, we think you would be well-suited to a managerial role within the company._  
 __in(to) shape__ In good, robust health; strong or fit. _Boy, I really need to get into shape. Ten years working behind a desk have given me quite a belly!_  
 __ink__ _slang_ __4__ _v_ To sign one’s name to (something); to formalize and seal something, as a deal or contract. _Before we ink the contract, I want my lawyer to have a look at the details._  
-__insofar as__  
+__insofar as__ :two: To such an extent that; to the degree that. _Insofar as money is concerned, our project will be completely funded by private donations._  
 __iron grip__ __2__ Total, dominant control (over someone or something).  
 __it goes without saying__  
 __it remains to be seen__ Something is not yet clear, certain, or known.  
+__it’s all good__ :dart: A phrase used to express general approval, unconcern, or disinterest.  
 __jabber__ :two: __1__ _v_ To chat casually about someone or something. _I’ve got some free time today, so let’s sit and jabber for a bit._  
 __jacked up__  
 __jeer at (someone or something)__ To mock, taunt, or scoff at someone or something. _Everyone in school jeered at me for wearing a pink sweater._  
@@ -293,6 +301,7 @@ __picture this__
 __pie in the sky__ :two: An impossible, unlikely, or fanciful idea or plan. Often hyphenated.  
 __piggyback on(to) (something)__ To use something said or done by someone else as the foundation for one’s own actions.  
 __pile up__  
+__pin down__ __2__ By extension, to try to force someone into a position where they must commit to a single, precise answer or piece of information. In this usage, a noun or pronoun can be used between “pin” and “down.” _The president never let reporters question him long enough for them to pin him down on any issue they brought up._  
 __piss off__  
 __pitch-perfect__ Reaching or conveying the exactly right note or tone. The phrase refers to music but it is often applied to writing and other things.  
 __plain vanilla__ A reference to vanilla being considered an ordinary or unexciting flavor. Often hyphenated if used before a noun. __1__ Completely basic, simple, or straightforward, lacking embellishments, adornments, special features, etc.  
@@ -321,6 +330,7 @@ __put (someone or something) to the test__
 __put (something or someone) on the map__ To make (a place, a person, etc.) famous or well-known.  
 __put on a happy face__ To begin to smile and act cheerful.  
 __put on pause__  
+__put up a fight__  
 __quality time__ Time spent interacting with someone in a close, meaningful way.  
 __question mark__ An unknown or uncertainty.  
 __quite a (something)__  
@@ -380,6 +390,7 @@ __slap in the face__ Words or actions that have offended or otherwise upset some
 __snazzy__ Particularly elegant, dazzling, classy, or fancy in appearance. _Wow, that’s a snazzy new suit you’ve got on! Big meeting today or something?_ _She runs one of the snazziest clubs in town._  
 __so much so that__  
 __soft spot__  
+__something of sorts__ An inferior example of a kind of something.  
 __spill the tea__  
 __spot showers__ :two: Term used by some weather forecasters to say that the chance of rain is low and will only affect a small percentage of the forecast area.  
 __stay in character__  
@@ -431,6 +442,7 @@ __tick away__
 __tight race__  
 __tight__ __4__ _mod._ Cool; super. _His new car is tight!_  
 __time and (time) again__ :two::hammer:  
+__to name a few__  
 __to put it mildly__ (put it mildly)  
 __to say the least__  
 __too little too late__  
@@ -448,7 +460,7 @@ __under (one’s) belt__
 __up and running__  
 __up to snuff__ (up to scratch) As good as what was expected, required, or demanded; satisfactory or adequate. _Sorry, Tom. Your performance isn’t up to snuff. You’ll have to improve or find another job._ _My paper wasn’t up to scratch, so I got an F._  
 __uphill battle__  
-__user base__ _business jargon_ The number units of a particular product or service that are currently in use, especially software or an Internet or computing platform.  
+__user base__ :two: (business jargon) The number units of a particular product or service that are currently in use, especially software or an internet or computing platform. (Also referred to as “install(ed) user base” or simply “install(ed) base.”)  
 __vouch for (someone or something)__  
 __walk out__  
 __war chest__:two: A financial reserve collected and maintained for specific political purposes, especially election campaigns.  
@@ -465,7 +477,7 @@ __whopping__
 __wild goose chase__ :dart::two: (wild-goose chase) A prolonged or chaotic search for something that is difficult to find (often because it does not exist). A worthless hunt or chase; a futile pursuit.  
 __win (something) in a walk__ To win (something) easily, handily, or without much or any effort. _Enjoying the benefit of a week off between games, the home team won this match in a walk._  
 __wishful thinking__  
-__wishy-washy__  
+__wishy-washy__ :two::hammer:  
 __witch hunt__  
 __with a bang__ :two::hammer:  
 __with a twist__ The phrase “with a twist” is an idiomatic expression that means something is done or presented in an unexpected or unconventional way, often with a surprise or a new spin. It can imply that something is extraordinary, not straightforward, or deviates from the usual procedure.  

@@ -49,6 +49,7 @@ __DAX__ The DAX (Deutscher Aktienindex (German stock index)) is a blue chip stoc
 __DEA__  
 __DEET__ Diethyl(meta)toluamide; an insect repellent. _Bug spray with DEET to ward off mosquitoes._  
 __DEFCON__ Defense readiness condition. _I went into DEFCON 1._  
+__DILF__ Dad I’d like to f*ck.  
 __DJ__ Dear John _(break up letter)_  
 __DMV__ :two: Department of Motor Vehicles.  
 __DNF__ Did not finish.  
