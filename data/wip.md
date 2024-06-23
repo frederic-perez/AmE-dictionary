@@ -1,45 +1,3 @@
-__keen__ _adj_  
-__punchbowl__ _n_  
-__service station__ _n_  
-__till__ _n_ :three::hammer:  
-__bedsit__  
-__skivvy__ (?)  
-__along<sup>1</sup>__ _prep_  
-__along<sup>2</sup>__ _adv_ __2__ In accompaniment; together with some specified person or people: _he says he’d like to come along._  
-__bellwether__ _n_  
-__polyandry__  
-__laddish__  
-__paratrooper__  
-__calypso__  
-__soca__  
-__worktop__ _n_ :two::hammer:  
-__jeers__ _n_  
-__snigger__ _v_  
-__satchel__ _n_  
-
-
-__says who__  
-__set eyes on something__  
-__in all good faith__  
-__bog__ _n_ (i?)  
-__wedge__ (cigarette?)  
-__split hairs__  
-__sit on the throne__ (?)  
-__have a shit__  
-__shipshape__  
-__comfort eating__  
-__a dying breed__ (?)  
-__be all smiles__  
-__spic and span__ (?)  
-__one way or the other__  
-__in the back of beyond__  
-__slowly and surely__  
-__dilf__ [:scroll: d(ad) I('d) l(ike to) f(*ck)] A man considered sexually desirable by a considerably younger person.  
-__for chrissakes__  
-__eat (one’s) fill__ To eat enough that one is satisfied or no longer hungry.  
-__a rough patch__ A period of trouble, difficulty, or hardship.  
-__go through a rough patch__ To experience or be in the midst of a period of trouble, difficulty, or hardship.  
-
 __muttering__ _n_ (?)  
 __racket__ _n_ (noise)  
 __interfere__ _v_  
@@ -58,7 +16,6 @@ __miniscule__ _adj_ :astonished:
 __cornpone__ _n_  
 __inviting__ _adj_ :two: Attractive; tempting: _an inviting dessert._  
 
-
 __it ain’t over till/until the fat lady sings__  
 __to a T__  
 __wey kiss__  
@@ -73,7 +30,6 @@ __stakeout__
 __top-heavy__ __1__ _slang_ Of a woman, having very large breasts. __2__ _slang_ Of a man, having large upper-body muscles with relatively small lower-body muscles.  
 __usual suspects__  
 __at its best__  
-
 
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
 __big game__  

@@ -1,16 +1,21 @@
 __alastor__ _n_ /uh-LAS-tuhr/ An avenging deity or spirit, the masculine personification of Nemesis, frequently evoked in Greek tragedy.  
+__along<sup>1</sup>__ _prep_  
+__along<sup>2</sup>__ _adv_ __2__ In accompaniment; together with some specified person or people: _he says he’d like to come along._  
 __apodal__ _adj_ Having no limbs, feet, or footlike appendages. _Syn_ apodous _Eels are apodal and well adapted for wriggling in the mud, through the crevices of reefs, and along rocky shores._  
 __apostasy__ _n_ Abandonment of one’s religious faith, a political party, one’s principles, or a cause. _Syn_ defection, renunciation  
 __artifice__ _n_ /AHR-tuh-fus/ _Artifice_ refers to dishonest or insincere behavior or speech that is meant to deceive someone. It can also be used to mean “clever or artful skill.”  
 __athirst__ _adj_ Extremely desirous. _Syn_ hungry, thirsty _The young, enthusiastic student was athirst for knowledge._  
 __attention span__ _n_ The length of time during which a person can concentrate on a subject or idea.  
 __backstreet__ _adj_  
+__bedsit__  
 __belie__ _v_ /bih-LYE/ To belie something is to give a false idea or impression of it. Belie can also mean “to show (something) to be false or wrong.”  
+__bellwether__ _n_  
 __bonhomie__ _n_ A pleasant and affable disposition. _Syn_ affability, affableness, amiableness, geniality, amiability  
 __booby trap__ _n_  
 __boost__ _n_ __3__ An increase: _a big boost in salary._  
 __buzzword__ _n_  
 __byword__ _n_  
+__calypso__  
 __carabiner__ _n_  
 __carnage__ _n_  
 __cartwheel__ _n_  
@@ -84,11 +89,13 @@ __jackassery__ _n_ /ˈdʒækˌæsərɪ/ Foolish behaviour or stupidity.
 __jacksmith__ _n_  
 __Janus word__ _n_  
 __jaunt__ _n_ /dʒɔnt, dʒɑnt/ A short journey, especially one taken for pleasure.  
+__jeers__ _n_  
 __juggernaut__ _n_ An overwhelming, advancing force that crushes or seems to crush everything in its path. _Syn_ steamroller  
 __jurisprudence__ _n_ The philosophy or science of law. _Syn_ legal philosophy, law  
 __juror__  
 __kangaroo word__  
 __kazoo__ _n_  
+__keen__ _adj_  
 __ken__ _n_ /KEN/ Ken refers to someone’s range of perception, knowledge, or understanding, and is most often used in phrases like “beyond/outside/within one’s ken.”  
 __kickback__ _n_  
 __kindle__ _v_ __1__ To set alight or start to burn.  
@@ -96,6 +103,7 @@ __kindling__ _n_ :dart:
 __kinkeeping__  
 __kombucha__ _n_  
 __la-la land__ _n_ _slang_ __1__ A state of being out of touch with reality. __2__ Los Angeles.  
+__laddish__  
 __leer__ _vt_ /lɪər/ To look with a sideways or oblique glance, especially suggestive of lascivious interest or sly and malicious intent: _Go away! I can’t concentrate with you leering at me._  
 __leery__ _adj_ Suspicious or distrustful; wary: _was leery of aggressive salespeople._ _Syn_ mistrustful, suspicious, untrusting, wary  
 __leptospirosis__ _n_  
@@ -129,6 +137,7 @@ __palpable__ _adj_ /PAL-puh-bul/ Something described as _palpable_ is obvious an
 __panoply__ _n_ /PAN-uh-plee/  
 __Paralympics__ _n pl_  
 __parapraxis__ _n_ A minor error, such as a slip of the tongue, thought to reveal a repressed motive. _Syn_ slip-up, miscue, slip  
+__paratrooper__  
 __pasquinade__ _n_ A satire or lampoon, especially one that ridicules a specific person, traditionally written and posted in a public place. _Syn_ parody, put-on, sendup, spoof, charade, lampoon, mockery, burlesque, travesty, takeoff  
 __pauperism__ _n_ A state of extreme poverty or destitution. _Syn_ indigence, penury, need  
 __peculiar__ _adj, n_  
@@ -149,6 +158,7 @@ __plateau__ _n_
 __platitude__ _n_ A trite or banal remark or statement, especially one expressed as if it were original or significant. _Syn_ banality, cliche, commonplace, bromide  
 __plexus__ _n_ A structure in the form of a network, especially of nerves, blood vessels, or lymphatics. _Syn_ rete  
 __pocket__ _n_ __11a__ A small, isolated, or protected area or group: _pockets of dissatisfied voters._ In the sentence “pockets of heavy rain,” “pockets” refers to small, isolated areas or regions where heavy rain is occurring.  
+__polyandry__  
 __possession__ _n_ :pencil2::mega: /pəˈzɛʃən/  
 __postal__ _adj_ /POHS-tuhl/ __1__ Relating to the mail or the post office. __2__ Very angry, insane, or violent.  
 __praise__ _vt_  
@@ -163,6 +173,7 @@ __profligate__ _adj_ :dart:
 __proliferate__ _v_ /pruh-LIF-uh-rayt/ To increase quickly in number or amount.  
 __proximate__ _adj_  
 __punch line__ _n_  
+__punchbowl__ _n_  
 __pyrophobia__ _n_ /py-roh-FOH-bee-uh/ An extreme fear of fire.  
 __quagmire__ _n_ Land with a soft muddy surface. _Syn_ mire, morass, quag, slack  
 __quarrel__  
@@ -188,6 +199,7 @@ __ruse__ _n_ _Syn_ wile
 __salacious__ _adj_ :three::hammer:  
 __salutary__  
 __sartorial__  
+__satchel__ _n_  
 __school of thought__  
 __scissure__ _n_ A split or opening in an organ or part. _Syn_ crack, crevice, fissure, cleft  
 __scour__ _v_  
@@ -196,6 +208,7 @@ __seminal__ _adj_
 __sendoff__ _n, v_  
 __sequester__ _v_ /sih-KWESS-ter/ __The jury was sequestered until a verdict was reached.__  
 __sergeant__ _n_  
+__service station__ _n_  
 __severance__ _n_  
 __shelter__ _v_  
 __shimmy__ _v_  
@@ -210,12 +223,15 @@ __sizable__ _adj_ :astonished: Of considerable size; fairly large.
 __skewer__ _vt_ __2__ To ridicule or criticize harshly: _a reviewer who skewered the tedious movie._  
 __skipper__ _n_  
 __skittish__ _adj_  
+__skivvy__ _n_ __1__ _chiefly often derogatory Brit_ A servant, esp a female, who does menial work of all kinds; drudge. __2__ (Clothing & Fashion) _slang chiefly US_ A man’s T-shirt or vest. __3__ (Clothing & Fashion) (plural) _slang chiefly US_ Men’s underwear.  
 __sleazy__ _adj_ :dart: __1b__ Dishonest or corrupt; disreputable: _Some sleazy characters hang around casinos._  
 __slothful__ _adj_  
 __smitten__ _adj_  
 __snag__ _v_ __2__ _informal_ To catch or obtain quickly or unexpectedly: _snagged a ground ball; snagged a bargain._  
+__snigger__ _v_  
 __snub-fighter__ _n_ The term _snub-fighter_ originates from its use in Star Wars novels to describe small starfighters like the Z-95 Headhunter and T-65B X-wing. The term “snubÆ likely refers to the short range and limited capabilities of these fighters compared to larger ships.  
 __snug__ _adj, v_  
+__soca__  
 __Special Olympics__ _n pl_  
 __spew__ _v_  
 __spider vein__ _n_ A small, dilated vein visible just beneath the skin.  
@@ -257,8 +273,10 @@ __themself__ _pron_ :dart: _Just after the jury was seated, emergency crews resp
 __thought leader__ _n_ A person, organization, publication, etc. regarded as an authoritative source of new ideas or intellectual trends.  
 __thoughtless__ _adj_  
 __tidbit__ _n_  
+__till__ _n_ :three::hammer:  
 __timecard__ _n_  
 __tinderbox__ _n_ __1__ A metal box for holding tinder. __2__ A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
 __Tipp-Ex__ _n_ /ˈtɪp.eks/  
 __tweener__ _n_ (sports, chiefly tennis) A shot that is hit between the legs.  
 __venomous__ _adj_ /ˈvɛn ə məs/  
+__worktop__ _n_ :two::hammer:  

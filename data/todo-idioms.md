@@ -1,10 +1,18 @@
 __(as) solid as a rock__ Exceptionally stable, sturdy, and reliable.  
 __(it’s/there’s) no use crying over spilt milk__ :dart: _proverb_ It does no good to get upset over a bad decision or unfortunate event that has already come to pass and cannot be changed.  
+__a breed apart__ A type or group of people that is markedly superior to or unique from most others.  
+__a rough patch__ A period of trouble, difficulty, or hardship.  
 __a slew of (something)__  
 __an early riser__ Someone who wakes up and is more active and alert in the early hours of the morning.  
+__be all smiles__  
 __blow (someone or something) out of the water__  
+__bog__ _n_ (i?)  
 __come into question__ To become doubted, scrutinized, or a matter of serious discussion.  
+__comfort eating__  
+__dilf__ [:scroll: d(ad) I(’d) l(ike to) f(*ck)] A man considered sexually desirable by a considerably younger person.  
 __doxx (one)__  
+__eat (one’s) fill__ To eat enough that one is satisfied or no longer hungry.  
+__for Chrissake__ An exclamation of shock, annoyance, frustration, or anger (an informal pronunciation of “for Christ’s sake”) _Would you let me finish my story, for Chrissake?_  
 __frag__ _slang_ [:scroll: The term had its origin in the Vietnam War] To kill a fellow soldier, often a superior, with a grenade or other explosive device. The word is a shortening of “fragmentation grenade,” referring to a type of grenade that expels shrapnel over a large area. _Someone’s going to frag that guy if he keeps treating his men so poorly._  
 __freak out__  
 __free fall__  
@@ -64,6 +72,7 @@ __go off the rails__
 __go overboard__ :two::hammer:  
 __go places__  
 __go south__  
+__go through a rough patch__ To experience or be in the midst of a period of trouble, difficulty, or hardship.  
 __go to hell in a handcart__ To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin. _With this new president in office, our country is going to go to hell in a handcart!_  
 __go with (someone or something)__  
 __go with the flow__ To act as others are acting, conforming to common behavior patterns with an attitude of calm acceptance.  
@@ -72,6 +81,7 @@ __good to go__
 __good-time Charlie__ An affable, lively, and entertaining man who is often or always seeking pleasure or a good time.  
 __grapple with (someone or something)__ :two::hammer:  
 __green thumb__  
+__have a shit__  
 __heat wave__ A period of time in which the weather is unusually and persistently hot.  
 __hell on earth__  
 __hem and haw__  
@@ -83,6 +93,7 @@ __in a bit__
 __in a flutter__ In a nervous, confused, or agitated state.  
 __in a measure__ To a certain degree or extent; somewhat.  
 __in a sorry state__ In a pitiful, dysfunctional, or abject condition. _My business was in a sorry state after I left it under the control of my brother._ _John’s been in a sorry state lately—I think he’s taken up drinking again._  
+__in all good faith__  
 __in all likelihood__  
 __in and of itself__  
 __in concert with (someone)__ Together with someone; in cooperation with someone. _You’ll need to work in concert with my file clerk to sort through all this paperwork._  
@@ -107,6 +118,7 @@ __in some sense__ Partly; in some or certain way(s).
 __in support of__ __1__ In a way that shows approval of (something); in favor of (something). _A majority voted in support of the bill._ __2__ In order to support (something). _He presented evidence in support of his hypothesis._  
 __in tears__  
 __in the (grand) scheme of things__ In the long term; in the complete picture of something.  
+__in the back of beyond__  
 __in the bag__ :two: Achieved or won almost as a certainty.  
 __in the blink of an eye__  
 __in the hope that__ With the expectation, intention, or desire that (something will happen). _He strove to be well-behaved in prison, in the hope that he would be let out early on parole._  
@@ -273,6 +285,7 @@ __on-site__
 __once and for all__  
 __once in a blue moon__ Very rarely.  
 __one size fits all__  
+__one way or the other__  
 __one-off__  
 __one-stop shop__ A physical or online location at which one can obtain everything one needs or wants all at once.  
 __one-up (someone)__ To make a point of outdoing, outperforming, outclassing, etc., someone.  
@@ -371,6 +384,7 @@ __running high__ [for feelings] To be in a state of excitement or anger. _Feelin
 __rush into (something)__  
 __said and done__ :dart: Agreed to and accomplished or finished. _When all is said and done, we’ll look back at this and laugh._  
 __Say it ain’t so, Joe!__ Your admitting your mistake would break my heart. “Shoeless” Joe Jackson was involved in the “Black Sox” baseball scandal in which eight Chicago White Sox players were accused of fixing the 1919 World Series. Legend has it that as Jackson was leaving the courthouse, a young fan tugged on his sleeve and, in a voice full of emotion, said, “Say it ain’t so, Joe.” When Jackson confirmed the accusation, the lad realized that his idol had feet of clay.  
+__says who__  
 __schmuck__  
 __schtick__ _slang_ A particular gimmick, routine, or characteristic that distinguishes one or sets one apart from others. Originally from Yiddish. _The restaurant’s whole schtick is that your table is locked inside of a cage and, periodically, the lights go out while people in costumes come out to try to scare you._ _I tried writing more serious literary novels, but I realized that cheesy thrillers are just my schtick._  
 __scoop__  
@@ -380,18 +394,23 @@ __second wind__ A renewed energy after a period of fatigue. _I planned to stop w
 __see the light of day__  
 __seep in(to something)__  
 __serve (one’s) time__  
+__set eyes on something__  
 __set the bar (high/low)__  
 __Shangri-la__ A utopian paradise. A reference to the fictional Tibetan paradise described in James Hilton’s 1933 novel _The Lost Horizon._  
+__shipshape and Bristol fashion__  
 __shit (one’s) pants__ __2__ _rude slang_ By extension, to be very surprised. _When I saw that the magazine had published my letter to the editor, I practically shit my pants!_ _Shit-your-pants scared._  
 __shut out__  
 __single file__ A line of things or people, one person or one thing wide. _Please get into single file._ _You have to march single file._  
 __single out__  
 __slap in the face__ Words or actions that have offended or otherwise upset someone. _It was a real slap in the face when she got promoted over me, especially after the amount of work I did on that last project._  
+__slowly and surely__  
 __snazzy__ Particularly elegant, dazzling, classy, or fancy in appearance. _Wow, that’s a snazzy new suit you’ve got on! Big meeting today or something?_ _She runs one of the snazziest clubs in town._  
 __so much so that__  
 __soft spot__  
 __something of sorts__ An inferior example of a kind of something.  
+__spic and span__ (spick and span) Totally clean and/or organized. _I plan to spend the day cleaning so that this place is spick and span when my mother-in-law arrives._  
 __spill the tea__  
+__split hairs__  
 __spot showers__ :two: Term used by some weather forecasters to say that the chance of rain is low and will only affect a small percentage of the forecast area.  
 __stay in character__  
 __steamroll through__  
@@ -432,6 +451,7 @@ __the latest__
 __the march of time__ The steady, unstoppable advancement of time.  
 __the Midas touch__  
 __the naked eye__  
+__the throne__ __2__ _slang_ The toilet. _Sit on the throne._  
 __there you go__  
 __this goes to show__ The phrase “this goes to show” is commonly used to indicate that a particular situation or example serves as evidence or proof of a broader point or principle. It is often employed to highlight a specific instance that demonstrates a general truth or conclusion.  
 __this time around__  
