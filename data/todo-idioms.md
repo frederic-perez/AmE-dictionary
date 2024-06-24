@@ -3,15 +3,23 @@ __(it’s/there’s) no use crying over spilt milk__ :dart: _proverb_ It does no
 __a breed apart__ A type or group of people that is markedly superior to or unique from most others.  
 __a rough patch__ A period of trouble, difficulty, or hardship.  
 __a slew of (something)__  
+__alive and kicking__ Active and healthy.  
 __an early riser__ Someone who wakes up and is more active and alert in the early hours of the morning.  
+__at first__  
+__be (all) for (someone or something)__ To support or be in favor of a person, group, or effort. _If management is considering adding a gym to the building, I’m all for it!_  
 __be all smiles__  
 __blow (someone or something) out of the water__  
 __bog__ _n_ (i?)  
+__break a sweat__ To put forth a large amount of energy or effort into or toward a task. (Likened to perspiring due to strenuous physical activity.) Usually used in negative constructions to indicate the opposite. _That test was so easy, I aced it without even breaking a sweat._  
+__breakneck__ __1__ Extremely fast, often excessively or recklessly so. _If he can maintain that breakneck pace, I think he’s going to win the race!_  
+__click with (one)__  
 __come into question__ To become doubted, scrutinized, or a matter of serious discussion.  
 __comfort eating__  
 __dilf__ [:scroll: d(ad) I(’d) l(ike to) f(*ck)] A man considered sexually desirable by a considerably younger person.  
 __doxx (one)__  
 __eat (one’s) fill__ To eat enough that one is satisfied or no longer hungry.  
+__Exterminating Angel__  
+__for better or (for) worse__  
 __for Chrissake__ An exclamation of shock, annoyance, frustration, or anger (an informal pronunciation of “for Christ’s sake”) _Would you let me finish my story, for Chrissake?_  
 __frag__ _slang_ [:scroll: The term had its origin in the Vietnam War] To kill a fellow soldier, often a superior, with a grenade or other explosive device. The word is a shortening of “fragmentation grenade,” referring to a type of grenade that expels shrapnel over a large area. _Someone’s going to frag that guy if he keeps treating his men so poorly._  
 __freak out__  
@@ -22,12 +30,13 @@ __from here on out__ From this moment and continuing into the future. _We need t
 __from the get-go__ :two::hammer:  
 __from the river to the sea__ (antisemitic) A political phrase that refers geographically to the area between the Jordan River and the Mediterranean Sea, an area described as Palestine, which today includes Israel and the Israeli-occupied Palestinian territories, including the West Bank, East Jerusalem, and the Gaza Strip.  
 __from time to time__  
-__front and center__  
+__front and center__ :two::hammer:  
 __frosty__ __2__ _mod_ Cool; really cool and mellow. _That music is really frosty._  
 __full stop__  
 __fuzz man__ _slang_ The police.  
 __fuzz__ _slang_ The police. _Come on, we’ve got to get out of here before the fuzz show up and bust us!_  
 __gag order__  
+__gain ground__  
 __game face__ __2__ An expression of stoicism intended to mask one’s emotions or intentions. _John put his game face on as soon as I started to break up with him, so I can’t really tell how he took the new._  
 __game__  
 __game-changer__  
@@ -44,6 +53,7 @@ __get into it__
 __get it (all) together__  
 __get on (one’s) nerves__ To irritate, grate on, or exasperate one.  
 __get past (someone or something)__  
+__get real__ :dart: To realize or accept the truth; to be realistic or practical. Often used as an imperative.  
 __get the best of (someone or something)__ To overwhelm, take control, or gain an advantage over someone or something.  
 __get the boot__  
 __get the picture__  
@@ -86,6 +96,7 @@ __heat wave__ A period of time in which the weather is unusually and persistentl
 __hell on earth__  
 __hem and haw__  
 __hit the ground running__  
+__hold the line__  
 __hue and cry__ /HYOO-und-KRYE/ __1__ A large public protest. _Hue and cry_ refers to a clamor of alarm or protest in response to something. __2__ It can also be used as a synonym of hubbub to refer to general noise or uproar.  
 __if it ain’t broke, don’t fix it__  
 __If you can’t beat ’em, join ’em__  
@@ -113,6 +124,7 @@ __in order that__ So that; with the particular aim or purpose of.
 __in overdrive__  
 __in place of (someone or something)__  
 __in plain view__ In full, unrestricted view; visibly, openly, or publicly.  
+__in regard to (someone or something)__ In reference to; considering.  
 __in single file__ In a line one person or one thing in width.  
 __in some sense__ Partly; in some or certain way(s).  
 __in support of__ __1__ In a way that shows approval of (something); in favor of (something). _A majority voted in support of the bill._ __2__ In order to support (something). _He presented evidence in support of his hypothesis._  
@@ -124,6 +136,7 @@ __in the blink of an eye__
 __in the hope that__ With the expectation, intention, or desire that (something will happen). _He strove to be well-behaved in prison, in the hope that he would be let out early on parole._  
 __in the house__  
 __in the least__  
+__in the long run__ Over a relatively long or extended length of time in the future.  
 __in the making__  
 __in the midst of (something)__  
 __in the mix__  
@@ -155,6 +168,7 @@ __join the ranks (of something)__ To become a part or member of a large group or
 __juice head__  
 __juicer__ _n_ (juicehead) A heavy drinker; a drunkard. _The tavern is always filled with juicers on Friday night._  
 __jump before (one) is pushed__ To take action willingly or proactively before being forced to do it.  
+__jump in__  
 __jump ship__ (abandon ship) _Nearly all of (chatbot) Pi’s parent company, Inflection AI, decided to jump ship just 10 months after Pi’s launch._  
 __just like that__  
 __keen on (someone or something)__  
@@ -199,6 +213,7 @@ __litmus test__
 __live up to (something)__ :three::hammer: _Live up to the hype._  
 __living proof__  
 __loaded gun__ A situation or person that is dangerous or volatile. For example, a person might be described as a “loaded gun” if they are highly emotional or prone to outbursts.  
+__loop the loop__ __1__ _n_ A flight maneuver in which an aircraft flies in a complete vertical circle. (Usually hyphenated.) _I loved going to air shows as a kid, and I always dreamed of doing loop-the-loops in an airplane when I grew up._ __2__ _v_ To fly an aircraft in a complete vertical circle. _I thought I was going to throw up when the pilot looped the loop with our little biplane._  
 __loosen up__  
 __loosey-goosey__  
 __lose (one’s) shit__  
@@ -357,6 +372,7 @@ __reality check__ :dart: An event or outcome that forces one to accept or reeval
 __reclaim (someone or something) from (someone or something else)__ To regain or resume possession of someone or something from someone or something.  
 __recount (something) to (one)__ To narrate or share the facts or details of some experience or story to one.  
 __red flag__  
+__red line__  
 __resonate with (one)__ To produce or evoke an appealing feeling of familiarity in one.  
 __revolving door__  
 __ride (on) a wave of (something)__ :two: To enjoy the advantage of or continue to benefit from a situation that is successful, fortunate, trendy, etc. _Jonathan has been riding a wave of celebrity ever since he was cast in the leading role for the new blockbuster._  
@@ -376,6 +392,7 @@ __rules of the road__
 __rumble on__  
 __rumble__  
 __run deep__ To be well established and strongly integrated into the nature or character of something. _In this part of the country, college basketball rivalries run deep._  
+__run high__  
 __run out of (something or some place)__  
 __run out of steam__ :dart: To lose one’s energy, motivation, or enthusiasm to continue doing something.  
 __run out of time__  
@@ -389,6 +406,7 @@ __schmuck__
 __schtick__ _slang_ A particular gimmick, routine, or characteristic that distinguishes one or sets one apart from others. Originally from Yiddish. _The restaurant’s whole schtick is that your table is locked inside of a cage and, periodically, the lights go out while people in costumes come out to try to scare you._ _I tried writing more serious literary novels, but I realized that cheesy thrillers are just my schtick._  
 __scoop__  
 __scramble for (something)__  
+__scrub (something)__ :three: To cancel or abort some plan or activity.  
 __sea change__ A massive, fundamental shift or transformation.  
 __second wind__ A renewed energy after a period of fatigue. _I planned to stop working at 9, but then I got my second wind and just kept going._  
 __see the light of day__  
@@ -403,11 +421,13 @@ __shut out__
 __single file__ A line of things or people, one person or one thing wide. _Please get into single file._ _You have to march single file._  
 __single out__  
 __slap in the face__ Words or actions that have offended or otherwise upset someone. _It was a real slap in the face when she got promoted over me, especially after the amount of work I did on that last project._  
+__slice of the pie__  
 __slowly and surely__  
 __snazzy__ Particularly elegant, dazzling, classy, or fancy in appearance. _Wow, that’s a snazzy new suit you’ve got on! Big meeting today or something?_ _She runs one of the snazziest clubs in town._  
 __so much so that__  
 __soft spot__  
 __something of sorts__ An inferior example of a kind of something.  
+__sound the alarm__  
 __spic and span__ (spick and span) Totally clean and/or organized. _I plan to spend the day cleaning so that this place is spick and span when my mother-in-law arrives._  
 __spill the tea__  
 __split hairs__  
@@ -418,6 +438,7 @@ __step in__
 __sticking point__ A topic of discussion or debate that results in disagreement.  
 __stone cold__ Completely bereft of emotion or concern. Hyphenated if used as a modifier before a noun.  
 __strange bedfellows__  
+__street walker__ A popular term for a prostitute who walks the streets to solicit sexual favours for money.  
 __streetwise__  
 __strike a (raw) nerve__ :two::hammer:  
 __strike a deal__  
@@ -426,12 +447,14 @@ __super-duper__ :two::hammer: (super-dooper)
 __supply and demand__ The amount of something available to purchase compared to the number of people who need or want to purchase it.  
 __swear by (someone or something)__  
 __swear in__  
+__sweeping changes__ :dart: Extreme and far-reaching changes. _Of course the new manager wants to make sweeping changes to our department._  
 __sweetie pie__ A term of endearment, especially for a person or pet towards whom one feels tender love or affection.  
 __tada__  
 __take (someone or something) for granted__  
-__take (someone, something, or some place) by storm__  
+__take (someone, something, or some place) by storm__ :two::hammer:  
 __take a chance__ To try to do something that has a high probability of having a negative or unfortunate outcome. probability of having a negative or unfortunate outcome.  
 __take a crack at (something)__ To attempt (to do) something; to take a turn trying (to do) something.  
+__take a number__ _imperative_ Wait your turn; get in line; there are a lot of other people looking or waiting for the same thing as you. (Refers to offices or shops that distribute printed numbers to let customers know the order in which they’ll be helped. Often said somewhat ironically or sarcastically.)  
 __take a stand__  
 __take a/the bullet (for someone)__  
 __take center stage__ :two: To be the main focus.  
@@ -443,11 +466,12 @@ __tell it like it is__
 __test the water(s)__  
 __that said__  
 __that said,__  
+__that’s business__ Phrase often used to justify or downplay the severity of violent or ruthless behavior, implying that such actions are necessary or acceptable within the context of that business or profession.  
 __the bane of (one’s) life__ The source or cause of one’s misfortune, unhappiness, frustration, or anxiety, usually used hyperbolically.  
 __the calm before the storm__  
 __the granddaddy of them all__ The biggest, oldest, most impressive, or most respected of a certain kind of person or thing. _I own a lot of vintage cars, but my 1926 Bentley is the granddaddy of them all._  
 __the idiot box__ _slang_ A television set, or television in general.  
-__the latest__  
+__the latest__ :two::hammer:  
 __the march of time__ The steady, unstoppable advancement of time.  
 __the Midas touch__  
 __the naked eye__  
@@ -462,6 +486,7 @@ __tick away__
 __tight race__  
 __tight__ __4__ _mod._ Cool; super. _His new car is tight!_  
 __time and (time) again__ :two::hammer:  
+__tip theˈbalance/scales__  
 __to name a few__  
 __to put it mildly__ (put it mildly)  
 __to say the least__  
@@ -477,11 +502,13 @@ __twist (one’s) arm__ To pressure or force one into doing something.
 __twists and turns__  
 __U-turn__ __2__ By extension, any sudden and drastic reversal, as of opinion, policy, intention, fortune, trend, etc.  
 __under (one’s) belt__  
+__unf*ckwithable__ :dart: A Definition: “When you’re truly at peace and in touch with yourself. Nothing anyone says or does bothers you and no negativity can touch you.” —Vishen Lakhiani, _The Code of the Extraordinary Mind_  
 __up and running__  
 __up to snuff__ (up to scratch) As good as what was expected, required, or demanded; satisfactory or adequate. _Sorry, Tom. Your performance isn’t up to snuff. You’ll have to improve or find another job._ _My paper wasn’t up to scratch, so I got an F._  
 __uphill battle__  
 __user base__ :two: (business jargon) The number units of a particular product or service that are currently in use, especially software or an internet or computing platform. (Also referred to as “install(ed) user base” or simply “install(ed) base.”)  
 __vouch for (someone or something)__  
+__wait and see__  
 __walk out__  
 __war chest__:two: A financial reserve collected and maintained for specific political purposes, especially election campaigns.  
 __watershed moment__  
@@ -496,6 +523,7 @@ __whistleblower__ (whistle-blower)
 __whopping__  
 __wild goose chase__ :dart::two: (wild-goose chase) A prolonged or chaotic search for something that is difficult to find (often because it does not exist). A worthless hunt or chase; a futile pursuit.  
 __win (something) in a walk__ To win (something) easily, handily, or without much or any effort. _Enjoying the benefit of a week off between games, the home team won this match in a walk._  
+__window dressing__  
 __wishful thinking__  
 __wishy-washy__ :two::hammer:  
 __witch hunt__  
