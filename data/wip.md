@@ -231,45 +231,10 @@ __poach__ _v_
 __close shave__  
 __six in one, (and) half a dozen in the other__ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
 __the man to see__  
+__pinch__ _slang_ :two: __1__ _v_ To steal something.  
 __give a hiding__ (punishment?)  
 __well-to-do__ _A well-to-do doctor._  
 __the three Rs__ _We learned the three Rs._  
-
-__parson__ _n_ (church?)  
-__woe__  
-__betide__  
-__midriff__  
-__newt__ _n_  
-__punt__ _n_ (aqueduct?)  
-__tobogganing__ :pencil2:  
-__icicle__ _n_  
-__retrieve__ _v__  
-__jetty__ _n_ _The boats were lined up on a jetty._  
-__weir__ _n_  
-__maiden__ _The _Titanic_ maiden voyage._    
-__scruff__ _n_  
-__aspersion__ _n_ :astonished:  
-__revetting__ _v_  
-__conscription__ _n_ :three::hammer:  
-__billet__ :three::hammer:  
-__trestle__ _n_  
-__stamina__ _n_  
-__upshot__ _n_ (consequence? :dart: if so)  
-__court martial__ 
-__pinch__ _v_ :two::hammer: (steal?)  
-__vagaries__ _n_  
-__bull__ _My next two shots were bulls._  
-__Lewis gun__  
-__joviality__  
-__lookout__ _Lookouts were posted._  
-__conscript__ _n_  
-__battalion__ _n_ :pencil2:  
-__misnomer__  
-__panniers__ _n_ (for a machine gun)  
-__breastwork__  
-__duckboard__  
-__dimly__  
-
 __a stone’s throw__ :two::hammer:  
 __be partial to something__  
 __spend a penny__  
@@ -291,7 +256,7 @@ __dishevelled__
 __morass__  
 __comradeship__  
 __parade__ _v_  
-__communicatipn trench__  
+__communication trench__  
 __divots__ _n_  
 __unassailable__  
 __epaulettes__ _n_  

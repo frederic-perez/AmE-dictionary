@@ -7,16 +7,22 @@ __apocryphal__ _adj_ :mega: /uh-PAH-kruh-ful/
 __apodal__ _adj_ Having no limbs, feet, or footlike appendages. _Syn_ apodous _Eels are apodal and well adapted for wriggling in the mud, through the crevices of reefs, and along rocky shores._  
 __apostasy__ _n_ Abandonment of one’s religious faith, a political party, one’s principles, or a cause. _Syn_ defection, renunciation  
 __artifice__ _n_ /AHR-tuh-fus/ _Artifice_ refers to dishonest or insincere behavior or speech that is meant to deceive someone. It can also be used to mean “clever or artful skill.”  
+__aspersion__ _n_ :astonished:  
 __athirst__ _adj_ Extremely desirous. _Syn_ hungry, thirsty _The young, enthusiastic student was athirst for knowledge._  
 __attention span__ _n_ The length of time during which a person can concentrate on a subject or idea.  
 __backstreet__ _adj_  
 __balsam__ _n_ /BAWL-suhm/ __1__ Something that soothes or heals. __2__ An aromatic resinous substance from certain trees and plants. __3__ A preparation, for example an ointment, made with such a substance. __4__ Such a tree or a plant.  
+__battalion__ _n_ :pencil2:  
 __bedsit__  
 __belie__ _v_ /bih-LYE/ To belie something is to give a false idea or impression of it. Belie can also mean “to show (something) to be false or wrong.”  
 __bellwether__ _n_  
+__betide__  
+__billet__ _n_ :three::hammer:  
 __bonhomie__ _n_ A pleasant and affable disposition. _Syn_ affability, affableness, amiableness, geniality, amiability  
 __booby trap__ _n_  
 __boost__ _n_ __3__ An increase: _a big boost in salary._  
+__breastwork__  
+__bull__ _n_ The center of a target. _Syyn_ bull’s eye _My next two shots were bulls._  
 __buzzword__ _n_  
 __byword__ _n_  
 __calypso__  
@@ -31,10 +37,13 @@ __code of conduct__
 __code of ethics__  
 __code word__ _n_  
 __conniption__ _n_ A fit of violent emotion, such as anger or panic. _Syn_ fit, tantrum, scene  
+__conscript__ _n_  
+__conscription__ _n_ :three::hammer:  
 __consternation__ _n_ /kahn-ster-NAY-shun/  
 __coterminous__ _adj_ Being of equal extent or scope or duration _Syn_ coextensive, conterminous  
 __countermand__ _v_ /KOUNT-er-mand/  
 __counterword__ _n_  
+__court martial__ _n_  
 __craven__ _adj_ Characterized by abject fear; cowardly. _Syn_ recreant  
 __cudbear__ _n_ A purplish-red dye derived from certain lichens. _Syn_ archil, orchil  
 __curse word__ _n_ _Syn_ cussword, dirty word  
@@ -42,12 +51,14 @@ __debacle__ _n_ /dee-BAH-kul/
 __demeanor__ _n_ :mega:  
 __depart__ _v_  
 __deride__ _v_ /dih-RYDE/ To deride someone or something is to subject them to usually harsh and bitter insults or criticism.  
+__dimly__  
 __discernible__ _adj_ Capable of being seen or noticed. _Syn_ evident, observable  
 __dismay__ _vt_  
 __doable__  
 __dolorifuge__ _n_ Something that banishes or mitigates grief.  
 __dopamine__ _n_ _Dopamine hit/rush._  
 __downpour__ _n_ A heavy fall of rain. _Syn_ pelter, soaker, torrent, cloudburst, deluge, waterspout  
+__duckboard__  
 __dumbwaiter__ _n_ A small elevator used to convey food (or other goods) from one floor of a building to another. _Syn_ food elevator  
 __dynasty__ _n_ /DYE-nuh-stee/ Dynasty refers to a group (such as a team, family, etc.) that is very powerful or successful for a long period of time. It is also often used for a family of rulers who rule over a country for a long period of time, as well as the period of time when a particular dynasty is in power.  
 __easy__ _adj, adv_ :mega: /ˈiːzɪ/  
@@ -89,6 +100,7 @@ __headword__ _n_
 __hibernal__ _adj_ Of or relating to winter. _Syn_ brumal, hiemal  
 __Hooray Henry__ _n_ /hoo-ray HEN-ree/ (Hooray Henrietta) A young, upper-class man who behaves in a loud, obnoxious, and often pretentious manner.  
 __hospice__ _n_  
+__icicle__ _n_  
 __impermanent__ _adj_ Not lasting or durable; not permanent. _Syn_ temporary  
 __impetuous__ _adj_  
 __incidence__ _n_ :mega: /IN-suh-dunss/ _Incidence_ refers to the number of times something happens or develops—in other words, the rate at which something occurs. _The neighborhood boasts excellent schools and a low incidence of crime._  
@@ -108,6 +120,8 @@ __jacksmith__ _n_
 __Janus word__ _n_  
 __jaunt__ _n_ /dʒɔnt, dʒɑnt/ A short journey, especially one taken for pleasure.  
 __jeers__ _n_  
+__jetty__ _n_ _The boats were lined up on a jetty._  
+__joviality__  
 __juggernaut__ _n_ An overwhelming, advancing force that crushes or seems to crush everything in its path. _Syn_ steamroller  
 __jurisprudence__ _n_ The philosophy or science of law. _Syn_ legal philosophy, law  
 __juror__  
@@ -126,6 +140,7 @@ __leer__ _vt_ /lɪər/ To look with a sideways or oblique glance, especially sug
 __leery__ _adj_ Suspicious or distrustful; wary: _was leery of aggressive salespeople._ _Syn_ mistrustful, suspicious, untrusting, wary  
 __leptospirosis__ _n_  
 __leverage__ _v_ _You can leverage the win32gui package in Python to target specific windows for capture._ _Syn_ take advantage of  
+__Lewis gun__  
 __liable__ _adj_  
 __lightsaber__ _n_  
 __liminal__ _adj_  
@@ -137,13 +152,18 @@ __loan word__ _n_
 __lodestone__ _n_ (loadstone) /lōd′stōn′/ A piece of magnetite that has magnetic properties and attracts iron or steel. __2__ One that attracts strongly.  
 __logodaedalus__ _n_ /log-uh-DEE-duh-luhs/ One skilled with words.  
 __long-standing__ _adj_ (longstanding)  
+__lookout__ _n_ _Lookouts were posted._  
 __lucrative__ _adj_ :two::hammer: /LOO-kruh-tiv/  
 __lunchtime__ _n_ :pencil2:  
+__maiden__ _adj_ _The _Titanic_ maiden voyage._  
 __marionette__ _n_ _Syn_ puppet  
 __meliorism__ _n_ /MEE-lee-uh-riz-um/ _Meliorism_ refers to the belief that the world tends to improve and that humans can aid its betterment.  
+__midriff__  
+__misnomer__  
 __misstep__ _n, v_  
 __mohawk__ _n_ /ˈməʊhɔːk/  
 __moxie__ _n_ /MAHK-see/ _Moxie_ can refer to courage and determination (aka nerve), energy and pep (aka verve), or know-how (as, say, reflected in one’s oeuvre). _They showed a lot of moxie in questioning their company’s policy._  
+__newt__ _n_  
 __nosy__ _adj_  
 __orphan drug__ _n_ A drug that remains undeveloped or is neglected because of limited potential for commercial gain.  
 __outlying__ _adj_ Relatively distant or remote from a center or middle: _outlying regions._ _Outlying areas._  
@@ -157,10 +177,12 @@ __palatable__ _adj_
 __palmer__ _n_ :m: /ˈpɑːmə/ __1__ A pilgrim, esp. of the Middle Ages, who had returned from the Holy Land bearing a palm branch as a token. __2__ Any religious pilgrim.  
 __palpable__ _adj_ /PAL-puh-bul/ Something described as _palpable_ is obvious and notable. _Palpable_ may also be used as a synonym of tangible to describe something that can be perceived by one’s sense of touch.  
 __pandemonium__ _n_ A state of extreme confusion and disorder. _Syn_ bedlam, chaos, topsy-turvydom  
+__pannier__ _n_  
 __panoply__ _n_ /PAN-uh-plee/  
 __Paralympics__ _n pl_  
 __parapraxis__ _n_ A minor error, such as a slip of the tongue, thought to reveal a repressed motive. _Syn_ slip-up, miscue, slip  
 __paratrooper__  
+__parson__ _n_  
 __pasquinade__ _n_ A satire or lampoon, especially one that ridicules a specific person, traditionally written and posted in a public place. _Syn_ parody, put-on, sendup, spoof, charade, lampoon, mockery, burlesque, travesty, takeoff  
 __pauperism__ _n_ A state of extreme poverty or destitution. _Syn_ indigence, penury, need  
 __peculiar__ _adj, n_  
@@ -199,6 +221,7 @@ __proliferate__ _v_ /pruh-LIF-uh-rayt/ To increase quickly in number or amount.
 __proximate__ _adj_  
 __punch line__ _n_  
 __punchbowl__ _n_  
+__punt__ _n_ (aqueduct?)  
 __pyrophobia__ _n_ /py-roh-FOH-bee-uh/ An extreme fear of fire.  
 __quagmire__ _n_ Land with a soft muddy surface. _Syn_ mire, morass, quag, slack  
 __quarrel__  
@@ -216,6 +239,8 @@ __recuse__ _vt_ :two::hammer:
 __redolent__ _adj_ Having or emitting fragrance. _Syn_ aromatic  
 __Reich__ _n_ /raɪk, raɪx/  
 __repent__ _v_  
+__retrieve__ _v_  
+__revetting__ _v_  
 __rife__ _adj_  
 __rile__ _vt_ __1__ To irritate or vex. _Syn_ nettle, chafe, provoke, annoy, irk  
 __romcom__  
@@ -230,6 +255,7 @@ __satchel__ _n_
 __school of thought__  
 __scissure__ _n_ A split or opening in an organ or part. _Syn_ crack, crevice, fissure, cleft  
 __scour__ _v_  
+__scruff__ _n_  
 __security__ _n_ /sɪˈkyʊər ɪ ti/  
 __seminal__ _adj_  
 __sendoff__ _n, v_  
@@ -267,6 +293,7 @@ __spillway__ _n_ A channel for an overflow of water, as from a reservoir. _Syn_ 
 __squarely__ _adv_ /SKWAIR-lee/ __1__ In a straightforward or frank manner. __2__ Firmly. __3__ Directly. __4__ At right angles.  
 __squirm<sup>1</sup>__ _n_  
 __squirm<sup>2</sup>__ _vi_ __1__ To move with a wriggling motion; writhe. __2__ :dart: To feel deep mental discomfort, guilt, embarrassment, etc.  
+__stamina__ _n_  
 __stance__  
 __stand watch__ _v_ Watch over so as to protect.  
 __standoff__ _n_  
@@ -306,7 +333,13 @@ __till__ _n_ :three::hammer:
 __timecard__ _n_  
 __tinderbox__ _n_ __1__ A metal box for holding tinder. __2__ A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
 __Tipp-Ex__ _n_ /ˈtɪp.eks/  
+__tobogganing__ _n_ :pencil2:  
+__trestle__ _n_  
 __tweener__ _n_ (sports, chiefly tennis) A shot that is hit between the legs.  
+__upshot__ _n_ :dart:  
+__vagaries__ _n_  
 __venomous__ _adj_ /ˈvɛn ə məs/  
 __vulnerable__ _adj_ /VUL-nuh-ruh-bul/  
+__weir__ _n_  
+__woe__  
 __worktop__ _n_ :two::hammer:  
