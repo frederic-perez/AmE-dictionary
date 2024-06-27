@@ -1,33 +1,3 @@
-__affluent__ _adj_ /AF-loo-unt/  
-__alastor__ _n_ /uh-LAS-tuhr/ An avenging deity or spirit, the masculine personification of Nemesis, frequently evoked in Greek tragedy.  
-__along<sup>1</sup>__ _prep_  
-__along<sup>2</sup>__ _adv_ __2__ In accompaniment; together with some specified person or people: _he says he’d like to come along._  
-__amiable__ _adj_ AY-mee-uh-buhl/ Pleasant; friendly.  
-__apocryphal__ _adj_ :mega: /uh-PAH-kruh-ful/  
-__apodal__ _adj_ Having no limbs, feet, or footlike appendages. _Syn_ apodous _Eels are apodal and well adapted for wriggling in the mud, through the crevices of reefs, and along rocky shores._  
-__apostasy__ _n_ Abandonment of one’s religious faith, a political party, one’s principles, or a cause. _Syn_ defection, renunciation  
-__artifice__ _n_ /AHR-tuh-fus/ _Artifice_ refers to dishonest or insincere behavior or speech that is meant to deceive someone. It can also be used to mean “clever or artful skill.”  
-__aspersion__ _n_ :astonished:  
-__athirst__ _adj_ Extremely desirous. _Syn_ hungry, thirsty _The young, enthusiastic student was athirst for knowledge._  
-__attention span__ _n_ The length of time during which a person can concentrate on a subject or idea.  
-__backstreet__ _adj_  
-__balsam__ _n_ /BAWL-suhm/ __1__ Something that soothes or heals. __2__ An aromatic resinous substance from certain trees and plants. __3__ A preparation, for example an ointment, made with such a substance. __4__ Such a tree or a plant.  
-__battalion__ _n_ :pencil2:  
-__bedsit__  
-__belie__ _v_ /bih-LYE/ To belie something is to give a false idea or impression of it. Belie can also mean “to show (something) to be false or wrong.”  
-__bellwether__ _n_  
-__betide__  
-__billet__ _n_ :three::hammer:  
-__bonhomie__ _n_ A pleasant and affable disposition. _Syn_ affability, affableness, amiableness, geniality, amiability  
-__booby trap__ _n_  
-__boost__ _n_ __3__ An increase: _a big boost in salary._  
-__breastwork__  
-__bull__ _n_ The center of a target. _Syyn_ bull’s eye _My next two shots were bulls._  
-__buzzword__ _n_  
-__byword__ _n_  
-__calypso__  
-__carabiner__ _n_  
-__carnage__ _n_  
 __cartwheel__ _n_  
 __catchword__ _n_  
 __caveat__ _n_ /KAV-ee-aht/ A _caveat_ is an explanation or warning that should be remembered when you are doing or thinking about something. In legal contexts, _caveat_ refers to a notice to a court or judicial officer to suspend a proceeding until the opposition can be heard.  

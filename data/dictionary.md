@@ -289,7 +289,7 @@ __affirmance__ _n_
 __affix__ _v_  
 __afflict__ _v_ :two: Cause physical pain or suffering in. _Syn_ smite _My grandmother is afflicted with arthritis, and it makes it hard for her to get around._ _Hepatitis C afflicts some 150 million people._  
 __affluence__ _n_ :two: The state of having a great deal of money; wealth. _A sign of our growing affluence._ _Syn_ wealth, prosperity, opulence, fortune  
-__affluent__ _adj_ :seven: (especially of a group or area) Having a great deal of money; wealthy. _Affluent parents._ _In the United States and other affluent nations._  
+__affluent__ _adj_ :eight: /AF-loo-unt/ (especially of a group or area) Having a great deal of money; wealthy. _Affluent parents._ _In the United States and other affluent nations._  
 __afford__ _v_ :three::hammer: _We can’t afford it._  
 __affordable__ _adj_ :three::pencil2::hammer:  
 __afforestation__ _n_ :pencil2: The process of planting many trees on an area of land.  
@@ -406,6 +406,7 @@ __alacrity__ _n_ :five: /əˈlakrɪti/ __1__ Cheerful readiness, promptness, or 
 __alas__ _sentence connector_ Unfortunately; regrettably: _there were, alas, none left._  
 __Alaska__ _n_ :mega: /əˈlæs kə/  
 __Alaskan__  
+__alastor__ _n_ /uh-LAS-tuhr/ An avenging deity or spirit, the masculine personification of Nemesis, frequently evoked in Greek tragedy.  
 __albatross__ _n_ :pencil2::five::mega::hammer: /ˈæl bəˌtrɔs, -ˌtrɒs/  
 __alchy__ _n_ (alkie, alky) __1__ Alcohol; an alcoholic beverage. __2__ A drunkard.  
 __alcove__ _n_ :two::hammer: _Historic alcoves._ _The elevator alcove._  
@@ -480,6 +481,8 @@ __almshouses__ _n_
 __aloft__ _adv_ :seven::hammer: _Dwyane Wade raised three fingers aloft._ _Simply believing we can fly won’t set us aloft._ _The balloons are designed to stay aloft for 100+ days._  
 __alone__ _adj_ :mega: /ə-lōn′/  
 __along with__  
+__along<sup>1</sup>__ _prep_  
+__along<sup>2</sup>__ _adv_ __2__ In accompaniment; together with some specified person or people: _he says he’d like to come along._  
 __alongside__ _prep_ :four::hammer:  
 __aloof<sup>1</sup>__ _adj_ :nine: /əˈluːf/ __1__ Emotionally reserved or indifferent: _an aloof manner._ __2__ Distant or uninvolved: _remained aloof from political movements._ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._ _Commanders with an aloof demeanor._  
 __aloof<sup>2</sup>__ _adv_ In an aloof manner. _Held aloof._  
@@ -540,7 +543,7 @@ __Americano__ _n_ /əˌmɛrɪˈkɑːnəʊ/ (Cooking) A drink consisting of espre
 __Ames__ _n_ _Ames, Iowa._  
 __amethyst__ _n_ :four::pencil2::hammer:  
 __ametropia__ _n_  
-__amiable__  
+__amiable__ _adj_ :two: /AY-mee-uh-buhl/ Pleasant; friendly.  
 __amicable__ _adj_  
 __amicably__ _adv_ :two::mega::hammer: /ˈæmɪkəblɪ/  
 __amicus curiae__ _n_  
@@ -740,7 +743,8 @@ __aplenty__ _adj, adv_ :three::hammer:
 __aplomb__ _n_ :dart::nine: /əˈplɒm, əˈplʌm/ /uh-PLAHM/ Self-confidence or assurance, especially when in a demanding situation. Self-confident assurance; poise. _Syn_ assuredness, sang-froid, cool _Diana passed the test with aplomb._ _The defense attorney smiled with an air of aplomb, knowing that his client’s acquittal was all but assured._ :es: aplomo  
 __apnea__ _n_ :five::mega: /ˈæp ni ə, æpˈni ə/ Temporary cessation of breathing. _Sleep apnea._  
 __apocalypse__ _n_ /uh-POK-uh-lips/ __1__ The destruction of the world. __2__ Any widespread destruction or disaster. __3__ A massive, decisive conflict. __4__ A prophecy.  
-__apocryphal__ _adj_ :three::pencil2: /uh-PAH-kri-fuhl/ [:scroll: From Latin apocryphus (secret), from Greek apokruphos (secret, hidden), from apokruptein (to hide away), from apo- (away) + kruptein (to hide).] __1__ Of dubious authorship or authenticity. Of doubtful authenticity: spurious. __2__ False; erroneous; fictitious.  
+__apocryphal__ _adj_ :four::pencil2::mega: /uh-PAH-kruh-ful/ /uh-PAH-kri-fuhl/ [:scroll: From Latin apocryphus (secret), from Greek apokruphos (secret, hidden), from apokruptein (to hide away), from apo- (away) + kruptein (to hide).] __1__ Of dubious authorship or authenticity. Of doubtful authenticity: spurious. __2__ False; erroneous; fictitious.  
+__apodal__ _adj_ Having no limbs, feet, or footlike appendages. _Syn_ apodous _Eels are apodal and well adapted for wriggling in the mud, through the crevices of reefs, and along rocky shores._  
 __apogee__ _n_ :three: __1__ [:scroll: from apogaios away from the earth, from apo- + _gaia_ earth] (Astronomy) The point in its orbit around the earth when the moon or an artificial satellite is at its greatest distance from the earth. Compare perigee. __2__ The highest point. The farthest or highest point; the apex. _Syn_ summit, height, peak, climax, pinnacle, zenith, acme  
 __apologetic__ _adj_ :seven: Very sorry. _That’s what I call apologetic hand raise._  
 __apologist__ _n_ :two::hammer:  
@@ -749,7 +753,7 @@ __apoplectic__ _adj_ :three::hammer:
 __apoplexy__ _n_ :three: __1__ Sudden impairment of neurological function, especially that resulting from a cerebral hemorrhage; a stroke. _Syn_ stroke, cerebrovascular accident _The medical evidence showed conclusively that death was due to apoplexy._ __2__ A sudden effusion of blood into an organ or tissue. __3__ A fit of extreme anger; rage.  
 __apoptosis__ _n_  
 __aposematic__ _adj_  
-__apostasy__ _n_ :two::hammer:  
+__apostasy__ _n_ :three: Abandonment of one’s religious faith, a political party, one’s principles, or a cause. _Syn_ defection, renunciation  
 __apostate<sup>1</sup>__ _n_ :five: A person who abandons his religion, party, cause, etc. _Syn_ deserter, ratter, turncoat, recreant, renegade _He was an early apostate, leaving the party last year._  
 __apostate<sup>2</sup>__ _adj_ Guilty of apostasy.  
 __apostle__ _n_ :mute:[apos~~t~~le]  
@@ -900,7 +904,7 @@ __articulate<sup>2</sup>__ _vt_ :nine: __1__ To pronounce clearly and distinctly
 __articulate<sup>3</sup>__ _vi_ :nine: __1__ To pronounce clearly each of a succession of speech sounds, syllables, or words. __2__ To articulate a speech sound. __3__ To form a joint.  
 __articulated__ _adj_ :two::hammer: _(of a vehicle)_ Built in sections that are hinged or otherwise connected so as to allow flexibility of movement.  
 __artifact__ _n_ :four::hammer: (artifacts)  
-__artifice__ _n_ A deceptive maneuver, especially to avoid capture. _Syn_ ruse _What could the bewildered scouts do, masters as they were of every war-like artifice save this one, but trot helplessly after him, exposing themselves fatally to view._  
+__artifice__ _n_ :two: /AHR-tuh-fus/ _Artifice_ refers to dishonest or insincere behavior or speech that is meant to deceive someone. It can also be used to mean “clever or artful skill.” A deceptive maneuver, especially to avoid capture. _Syn_ ruse _What could the bewildered scouts do, masters as they were of every war-like artifice save this one, but trot helplessly after him, exposing themselves fatally to view._  
 __artificer__ _n_ A skilled worker who practices some trade or handicraft. _Syn_ artisan, journeyman, craftsman _There are native tanners, shoemakers, weavers, blacksmiths, stonecutters, and other artificers attached to each establishment._  
 __artillery__ _n_  
 __artiodactyl__ _n_  
@@ -944,7 +948,7 @@ __aspect__ _n_ __5__ A side or surface facing in a particular direction: _the ve
 __aspen__ _n_ :five::hammer: _Quaking aspen._ _Aspens turn the canyon golden by the end of September._ :es: chopo  
 __Asperger’s syndrome__ _n_ :two::hammer:  
 __asperity__ _n_ Harshness of manner; ill temper or irritability. _Syn_ sharpness  
-__aspersion__ _n_  
+__aspersion__ _n_ :two::hammer::astonished:  
 __asphalt__ _n_ _Asphalt rafts floating in the shore._ :es: chapapote  
 __aspheric__ _adj_ (aspherical) (of a reflecting surface or lens) Deviating slightly from a perfectly spherical shape and relatively free from aberrations.  
 __aspire__ _v_  
@@ -1008,6 +1012,7 @@ __atheist__ _adj_
 __athenaeum__ _n_  
 __atherectomy__ _n_ Surgical removal of atherosclerotic plaque from an artery using a catheter fitted with a cutting device.  
 __atherosclerosis__ _n_  
+__athirst__ _adj_ Extremely desirous. _Syn_ hungry, thirsty _The young, enthusiastic student was athirst for knowledge._  
 __athlete__ _n_  
 __athlete’s foot__ _n_ A fungal infection causing the skin between the toes to itch, crack, and peel.  
 __athwart__ _adv, prep_ :two::hammer:  
@@ -1036,6 +1041,7 @@ __attainment__ _n_ :two::hammer: _Scientific attainments._
 __attend to__ _phr v_ To deal with something or someone.  
 __attend__ _v_ _Brenda attends her monthly appointment at the NIH Clinical Center._  
 __attendee__ _n_ :three::mega::hammer:  
+__attention span__ _n_ The length of time during which a person can concentrate on a subject or idea.  
 __attentive__ _adj_ :two::hammer:  
 __attenuate__ _adj_ :astonished: Reduced or weakened, as in strength, value, or virulence. _Syn_ faded, weakened _She placed a record in the player, and the attenuate tones of the old recording swept through the house._  
 __attest__ _v_ :three::hammer:  
@@ -1202,6 +1208,7 @@ __backslide__ _v_ :two: To relapse into bad habits, sinful behavior, or undesira
 __backsplash__ _n_ An upright surface or border, as of tile, that protects the wall behind a sink or stove. _A new tile backsplash._  
 __backstop__ _n_ (baseball)  
 __backstory__ _n_  
+__backstreet__ _adj_  
 __backtrack__ _n_ :two::hammer:  
 __backup__ _n_ _It’s amazing the amount of backup we see from even those most minor crashes._  
 __backwash__ _n_ __3__ A result of an event; an aftermath.  
@@ -1283,6 +1290,7 @@ __balmy__ _adj_ :four::hammer: /BAH-mee/ _The air was sweet and balmy._ _A balmy
 __baloney__ _n_ :five::pencil2::mega: /buh-LOH-nee/ (boloney) [:scroll: From respelling of bologna (pronounced buh-LOH-nee), a kind of seasoned sausage, from the Italian city of Bologna] __1__ (less common spelling of ‘bologna’) A large smoked sausage of beef, veal, and pork. __2__ _informal_ Pretentious nonsense—often used as a generalized expression of disagreement. Nonsense, such as foolish, deceptive, or pretentious talk.  
 __Baloo__ _n_ In the _Author’s Notes in the Jungle Books_, Kipling gives the pronunciation of the name as /ˈbɑːluː/ although it is common also /bəˈluː/.  
 __balsa__ _n_  
+__balsam__ _n_ /BAWL-suhm/ __1__ Something that soothes or heals. __2__ An aromatic resinous substance from certain trees and plants. __3__ A preparation, for example an ointment, made with such a substance. __4__ Such a tree or a plant.  
 __balter__ _vt_ _archaic_ To dance or tread clumsily.  
 __balustrade__ _n_ :three: A rail and the row of balusters or posts that support it, as along the front of a gallery. _Syn_ banister, handrail _She leaned over the balustrade, trying to see what was happening below._ _The stone balustrade._  
 __balustrades__  
@@ -1409,6 +1417,7 @@ __bathwater__ _n_ Water in which a person bathes. _Let’s not throw out the bab
 __bathymetry__ _n_ :two: The measurement of the depth of bodies of water.  
 __batik__ _n_  
 __baton__ _n_ :three::hammer: :es: batuta  
+__battalion__ _n_ :pencil2:  
 __batter<sup>1</sup>__ _n_ A liquid or semiliquid mixture, as of flour, milk, and eggs, used in cooking.  
 __batter<sup>2</sup>__ _v_ :three::hammer: (battered) _His face was battered._ _Her pride remains battered but intact._  
 __battered__ _adj_ :three: (Cookery) Coated in batter: _a battered cod._  
@@ -1477,7 +1486,7 @@ __bedridden__ _adj_ :four: Confined to bed because of illness or infirmity. _She
 __bedrock__ _n_ :eight: Bedrock is the hard layer of rock beneath looser rocks and soil. In some places, the bedrock is exposed, while in others it lies deep underground. A geologist who’s interested in studying the bedrock in different areas might have to dig through the various layers of soil to reach that bedrock. You can also use the word in a figurative way, to mean “the heart of the matter,” or “the basic, fundamental principles.” For example, you might say that fairness and freedom is the bedrock of a good government.  
 __bedrolls__  
 __bedside__ _adj, n_  
-__bedsit__ _n_ :es: habitación amueblada; estudio amueblado  
+__bedsit__ _n_ :two::hammer::es: habitación amueblada; estudio amueblado  
 __bedspreads__ _n_  
 __bedstead__  
 __bee eater__ _n_ :es: abejaruco  
@@ -1540,7 +1549,7 @@ __beleaguer__ _v_ :two::hammer: /bih-LEE-gur/
 __beleaguered__ _adj_ :nine::m: Put in a very difficult situation. _The board is supporting the beleaguered director._ _Syn_ hard-pressed, troubled  
 __belfry__ _n_ __1__ A bell tower; especially one surmounting or attached to another structure. __2__ A room or framework for enclosing a bell. __3__ The seat of the intellect: head. Someone who has “bats in the belfry” is insane or eccentric. This phrase is responsible for the use of bats for “insane” (as in “Are you completely bats?”) and the occasional use of belfry for “head” (“He’s not quite right in the belfry”).  
 __Belial__ _n_  
-__belie__ _v_ :nine::m: (belies, belied) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar  
+__belie__ _v_ :nine::m: /bih-LYE/ (belies, belied) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar  
 __believe__ _v_ :two::hammer::mega:  
 __believer__ _n_ :mega:  
 __belittle__ _vt_ :six: (belittling) Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
@@ -1557,7 +1566,7 @@ __bellow<sup>2</sup>__ _v_ :seven::hammer: (bellowed)
 __bellowing__ _n_ A very loud utterance (like the sound of an animal). _Syn_ bellow  
 __bellows__ _n_ :two: A mechanical device that blows a strong current of air; used to make a fire burn more fiercely or to sound a musical instrument. :es: fuelle _Barber’s breathing sounded like a bellows._  
 __bells and whistles__ _pl n_ :four: Nonessential features or enhancements intended especially to add commercial appeal.  
-__bellwether__ _n_ :five::hammer: /BEL-WEH-ther/ __1__ A sheep that leads the herd, often bearing a bell. __2__ A leader, esp one followed unquestioningly.  
+__bellwether__ _n_ :six::hammer: /BEL-WEH-ther/ __1__ A sheep that leads the herd, often bearing a bell. __2__ A leader, esp one followed unquestioningly.  
 __belly flop__ _n informal_ :dart::three: (belly-flop) A dive in which the front of the body hits flat against a surface, especially of water.  
 __belly laugh__ _n_  
 __belly-wash__ _n_ Any kind of drink of poor quality.  
@@ -1631,6 +1640,7 @@ __bestow__ _vt_ _formal_ :nine::m: /bɪˈstəʊ/ (bestowed) Confer or present (a
 __beta__ _n_ :mega:  
 __betel nut__ _n_ The seed of the betel palm, chewed with betel leaves and lime by people in S and SE Asia as a digestive stimulant and narcotic.  
 __bethren__ _n_  
+__betide__  
 __bêtise__ _n_ :two: __1__ An act of foolishness or stupidity. __2__ Lack of good sense. _Syn_ stupidity  
 __betoken__ _v_  
 __betray__ _v_ :three::hammer: /bɪˈtreɪ/  
@@ -1711,7 +1721,7 @@ __bilk<sup>2</sup>__ _n_ :dart::three: __1__ A swindle or cheat. _America was th
 __bill-file__  
 __bill<sup>1</sup>__ _n_ __3__ The entertainment offered by a theater. _I’m not my usual top billing._  
 __bill<sup>2</sup>__ _v_  
-__billet__ _v_ :six: (billeted, billeting) :mega: Provide housing for (military personnel). _Syn_ canton, quarter _The citizens who were forced to billet soldiers in their own private homes were understandably irritated by the imposition._  
+__billet__ _v_ :nine: (billeted, billeting) :mega: Provide housing for (military personnel). _Syn_ canton, quarter _The citizens who were forced to billet soldiers in their own private homes were understandably irritated by the imposition._  
 __billet-doux__ _n_ /bill-ee-DOO/ A love letter. _While helping her grandmother pack, Abbie came across a billet-doux from her grandfather that was written when the two were teenagers._  
 __billet<sup>1</sup>__ _n_  
 __billet<sup>2</sup>__ _v_ :two::hammer: (billeted)  
@@ -2034,6 +2044,7 @@ __bone__ _n_ :two::hammer: _Another bone of contention._ _I have a bone to pick 
 __bonebreaker__ _n_ Any of several large birds (such as the giant petrel, the lammergeier, or the osprey).  
 __bonfire__ _n_ :three::hammer:  
 __bonged__ _v_  
+__bonhomie__ _n_ A pleasant and affable disposition. _Syn_ affability, affableness, amiableness, geniality, amiability  
 __bonked__ _v_ _The stadium lights bonked out._  
 __bonkers__ _adj_ _informal_ :six: Crazy. _That’s bonkers!_  
 __bonnie blue flag__  
@@ -2043,6 +2054,7 @@ __boo__ _v_ :two::hammer:
 __boo-hoo__ _v_ Used to describe a kind of childish or exaggerated crying. In other words, when someone is “boo-hooing,” they’re not just shedding a couple tears, they’re wailing and bemoaning their fate in a pretty over-the-top way. It’s often used as a joke or a way to make light of a situation that’s not really that serious.  
 __boo<sup>1</sup>__ _v_ :three::hammer: (booed) :es: abuchear  
 __boo<sup>2</sup>__ _n_ _informal_ __1a__ A boyfriend or girlfriend. __b__ A spouse. __2__ Used as a term of endearment for such a person.  
+__booby trap__ _n_  
 __booby trap__ _n_ :three::hammer:  
 __booby-trapped 105’s__  
 __boocoo__ _adj, adv, n_ :two: _Chiefly Southern US_ Variant of _beaucoup_. _I’d take boocoo notes._  
@@ -2084,6 +2096,7 @@ __boonies__
 __boor__ _n_ _Sometimes you can really be a boor._  
 __boorish__ _adj_ :five: Rude and not caring about other people’s feelings. Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking and boorish behavior._  
 __boorishness__ _n_ :two::hammer:  
+__boost__ _n_ __3__ An increase: _a big boost in salary._  
 __booster shot__ _n_ An additional dose of an immunizing agent, such as a vaccine or toxoid, given at a time after the initial dose to sustain the immune response elicited by the previous dose of the same agent. _Syn_ booster dose  
 __booster__ _n_ :two: (boosters) An enthusiastic promoter, as of a sports team or school. _Mississippi boosters._  
 __boot camp__ _n_  
@@ -2260,6 +2273,7 @@ __breakup__ _n_ :three: The termination or disintegration of a relationship (bet
 __breakwater__ _n_ :three::hammer: :es: rompeolas  
 __bream__ _n_ :seven: A greenish-bronze deep-bodied freshwater fish native to Europe. _Fishing for bream._  
 __breaststroke__ _n_ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
+__breastwork__  
 __breastwork__ _n_  
 __breather__ _n_ :four::hammer:  
 __breathing room__  
@@ -2448,6 +2462,7 @@ __bulk<sup>3</sup>__ _adj_ _Bulk items._
 __bulkhead__ _n_ :six::hammer: _The bulkhead door._  
 __Bull__ _n_  
 __bull__ _n_ :three: __1a__ An adult male bovine mammal. __b__ The uncastrated adult male of domestic cattle. __c__ The adult male of certain other large animals, such as alligators, elephants, moose, or whales. __6__ (Bull) An official document issued by the pope and sealed with a bulla. :es: bula _Papal Bull._ _No Pope ever issued a Bull to approve of something._  
+__bull__ _n_ The center of a target. _Syyn_ bull’s eye _My next two shots were bulls._  
 __bulldozing__ _v_ _Henry was bulldozing for 201 yards._  
 __bullet point__ _n_ :three::hammer: _Give me the bullet points._  
 __bullet<sup>1</sup>__ _n_ :two::hammer::mega: /ˈbʊl ɪt/  
@@ -2624,6 +2639,7 @@ __buzzing__ _adj_ Noisy like the sound of a bee. _Buzzing space._
 __buzzkill__ _n_ _slang_ :four: (buzz kill) Someone or something that ruins enjoyment or pleasure.  
 __buzzkiller__ _n_ :two::hammer:  
 __buzzword__  
+__buzzword__ _n_  
 __buzzy__ _adj_ Having an atmosphere of excitement or anticipation. _Is it making my face hot, my chest buzzy?_  
 __by all means,__  
 __by and by<sup>1</sup>__ _adv_ Presently or eventually.  
@@ -2642,6 +2658,7 @@ __bypast__ _adj_ Well in the past; former. _Syn_ bygone, departed, foregone, gon
 __byproduct__ _n_ :two::hammer:  
 __bystander effect__ _n_ A social psychological theory that states that individuals are less likely to offer help to a victim when there are other people present.  
 __bystander__ _n_  
+__byword__ _n_  
 __byword__ _n_ A condensed but memorable saying embodying some important fact of experience that is taken as true by many people. _Syn_ adage, proverb, saw  
 __byzantine__ _adj_ :three::pencil2: /BIZ-uhn-teen/tyn, bi/buh/by-ZAN/zuhn-tin/teen/ __1__ (of a system or situation) Highly complex or intricate. Excessively complicated, and typically involving a great deal of administrative detail. _The byzantine nature of health care pricing._ __2__ Involving scheming or intrigue. __3__ Relating to the architectural or decorative style developed in the Byzantine Empire. __4__ Relating to the ancient city of Byzantium or the Byzantine Empire.  
 __C-rations__  
@@ -2748,6 +2765,7 @@ __calumniate__ _v_ To make maliciously or knowingly false statements about. _Syn
 __calumny__ _n_ :two: __1__ A false statement maliciously made to injure another’s reputation. _Syn_ aspersion, defamation, denigration, slander __2__ The utterance of maliciously false statements; slander.  
 __calves__  
 __Calvinism__ _n_  
+__calypso__  
 __calypso__ _n_ (music)  
 __calzone__ _n_ (food)  
 __camaraderie__ _n_ :two::hammer: /kahm-RAH-duh-ree/  
@@ -2860,6 +2878,7 @@ __captcha__ _n_ /ˈkæptʃə/
 __captious__ _adj_ :two: /KAP-shuss/ Marked by a disposition to find and point out trivial faults. _Syn_ faultfinding _She found the new professor to be captious, marking all the grammatical errors in her essays while ignoring the points she had tried to make._  
 __capuchin monkey__ _n_ :mega:  
 __car sickness__  
+__carabiner__ _n_  
 __carabiner__ _n_ :camera::four::hammer: _Syn_ karabiner, snap ring :es: mosquetón  
 __carafe__ _n_ :two: The word carafe comes from the Arabic word “gharrafah” meaning “dipper” or “drinking vessel.”  
 __caramel apple__ _n_ :two::hammer:  
@@ -2899,6 +2918,7 @@ __caribou__
 __carillon__ _n_ _Sounds of bubbling founyains and carillons._  
 __Carioca__  
 __carjack__ _v_ :two: To commit forcible theft of (a vehicle) from its users.  
+__carnage__ _n_  
 __carnage__ _n_ :five::mega: /ˈkɑr nɪdʒ/ The slaughter of a great number of people.  
 __Carnation Revolution__ _n_  
 __carnation__ _n_ :pencil2::four: A double-flowered cultivated variety of clove pink, with grey-green leaves and showy pink, white, or red flowers. :es: clavel  
