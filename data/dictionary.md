@@ -2054,8 +2054,7 @@ __boo__ _v_ :two::hammer:
 __boo-hoo__ _v_ Used to describe a kind of childish or exaggerated crying. In other words, when someone is “boo-hooing,” they’re not just shedding a couple tears, they’re wailing and bemoaning their fate in a pretty over-the-top way. It’s often used as a joke or a way to make light of a situation that’s not really that serious.  
 __boo<sup>1</sup>__ _v_ :three::hammer: (booed) :es: abuchear  
 __boo<sup>2</sup>__ _n_ _informal_ __1a__ A boyfriend or girlfriend. __b__ A spouse. __2__ Used as a term of endearment for such a person.  
-__booby trap__ _n_  
-__booby trap__ _n_ :three::hammer:  
+__booby trap__ _n_ :four::hammer:  
 __booby-trapped 105’s__  
 __boocoo__ _adj, adv, n_ :two: _Chiefly Southern US_ Variant of _beaucoup_. _I’d take boocoo notes._  
 __boodle__ _n_  
@@ -2273,8 +2272,7 @@ __breakup__ _n_ :three: The termination or disintegration of a relationship (bet
 __breakwater__ _n_ :three::hammer: :es: rompeolas  
 __bream__ _n_ :seven: A greenish-bronze deep-bodied freshwater fish native to Europe. _Fishing for bream._  
 __breaststroke__ _n_ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
-__breastwork__  
-__breastwork__ _n_  
+__breastwork__ _n_ :two::hammer:  
 __breather__ _n_ :four::hammer:  
 __breathing room__  
 __breech birth__ _n_ The delivery of a fetus (unborn baby) hind end first.  
@@ -2461,8 +2459,7 @@ __bulk<sup>2</sup>__ _v_
 __bulk<sup>3</sup>__ _adj_ _Bulk items._  
 __bulkhead__ _n_ :six::hammer: _The bulkhead door._  
 __Bull__ _n_  
-__bull__ _n_ :three: __1a__ An adult male bovine mammal. __b__ The uncastrated adult male of domestic cattle. __c__ The adult male of certain other large animals, such as alligators, elephants, moose, or whales. __6__ (Bull) An official document issued by the pope and sealed with a bulla. :es: bula _Papal Bull._ _No Pope ever issued a Bull to approve of something._  
-__bull__ _n_ The center of a target. _Syyn_ bull’s eye _My next two shots were bulls._  
+__bull__ _n_ :four: __1a__ An adult male bovine mammal. __b__ The uncastrated adult male of domestic cattle. __c__ The adult male of certain other large animals, such as alligators, elephants, moose, or whales. __6__ (Bull) An official document issued by the pope and sealed with a bulla. :es: bula _Papal Bull._ _No Pope ever issued a Bull to approve of something._ __20__ The center of a target. _Syn_ bull’s eye _My next two shots were bulls._  
 __bulldozing__ _v_ _Henry was bulldozing for 201 yards._  
 __bullet point__ _n_ :three::hammer: _Give me the bullet points._  
 __bullet<sup>1</sup>__ _n_ :two::hammer::mega: /ˈbʊl ɪt/  
@@ -2638,8 +2635,7 @@ __buzzcut__ _n_ /ˈbʌzˌkʌt/ (buzz cut) A very short haircut.
 __buzzing__ _adj_ Noisy like the sound of a bee. _Buzzing space._  
 __buzzkill__ _n_ _slang_ :four: (buzz kill) Someone or something that ruins enjoyment or pleasure.  
 __buzzkiller__ _n_ :two::hammer:  
-__buzzword__  
-__buzzword__ _n_  
+__buzzword__ _n_ :two::hammer:  
 __buzzy__ _adj_ Having an atmosphere of excitement or anticipation. _Is it making my face hot, my chest buzzy?_  
 __by all means,__  
 __by and by<sup>1</sup>__ _adv_ Presently or eventually.  
@@ -2658,8 +2654,7 @@ __bypast__ _adj_ Well in the past; former. _Syn_ bygone, departed, foregone, gon
 __byproduct__ _n_ :two::hammer:  
 __bystander effect__ _n_ A social psychological theory that states that individuals are less likely to offer help to a victim when there are other people present.  
 __bystander__ _n_  
-__byword__ _n_  
-__byword__ _n_ A condensed but memorable saying embodying some important fact of experience that is taken as true by many people. _Syn_ adage, proverb, saw  
+__byword__ _n_ :two: A condensed but memorable saying embodying some important fact of experience that is taken as true by many people. _Syn_ adage, proverb, saw  
 __byzantine__ _adj_ :three::pencil2: /BIZ-uhn-teen/tyn, bi/buh/by-ZAN/zuhn-tin/teen/ __1__ (of a system or situation) Highly complex or intricate. Excessively complicated, and typically involving a great deal of administrative detail. _The byzantine nature of health care pricing._ __2__ Involving scheming or intrigue. __3__ Relating to the architectural or decorative style developed in the Byzantine Empire. __4__ Relating to the ancient city of Byzantium or the Byzantine Empire.  
 __C-rations__  
 __C-section__ _n_  
@@ -2765,8 +2760,7 @@ __calumniate__ _v_ To make maliciously or knowingly false statements about. _Syn
 __calumny__ _n_ :two: __1__ A false statement maliciously made to injure another’s reputation. _Syn_ aspersion, defamation, denigration, slander __2__ The utterance of maliciously false statements; slander.  
 __calves__  
 __Calvinism__ _n_  
-__calypso__  
-__calypso__ _n_ (music)  
+__calypso__ _n_ :three::hammer: (music)  
 __calzone__ _n_ (food)  
 __camaraderie__ _n_ :two::hammer: /kahm-RAH-duh-ree/  
 __camarilla__ _n_ A group of confidential, often scheming advisers. _Syn_ cabal, faction, junto  
@@ -2878,8 +2872,7 @@ __captcha__ _n_ /ˈkæptʃə/
 __captious__ _adj_ :two: /KAP-shuss/ Marked by a disposition to find and point out trivial faults. _Syn_ faultfinding _She found the new professor to be captious, marking all the grammatical errors in her essays while ignoring the points she had tried to make._  
 __capuchin monkey__ _n_ :mega:  
 __car sickness__  
-__carabiner__ _n_  
-__carabiner__ _n_ :camera::four::hammer: _Syn_ karabiner, snap ring :es: mosquetón  
+__carabiner__ _n_ :camera::five::hammer: _Syn_ karabiner, snap ring :es: mosquetón  
 __carafe__ _n_ :two: The word carafe comes from the Arabic word “gharrafah” meaning “dipper” or “drinking vessel.”  
 __caramel apple__ _n_ :two::hammer:  
 __caramel corn__ _n_ Popcorn that has been mixed with a caramel topping.  
@@ -2918,8 +2911,7 @@ __caribou__
 __carillon__ _n_ _Sounds of bubbling founyains and carillons._  
 __Carioca__  
 __carjack__ _v_ :two: To commit forcible theft of (a vehicle) from its users.  
-__carnage__ _n_  
-__carnage__ _n_ :five::mega: /ˈkɑr nɪdʒ/ The slaughter of a great number of people.  
+__carnage__ _n_ :six::mega: /ˈkɑr nɪdʒ/ The slaughter of a great number of people.  
 __Carnation Revolution__ _n_  
 __carnation__ _n_ :pencil2::four: A double-flowered cultivated variety of clove pink, with grey-green leaves and showy pink, white, or red flowers. :es: clavel  
 __carnie__ _n_ _Carnie man._  
@@ -2956,6 +2948,7 @@ __carthorse__ _n_
 __cartomancy__ _n_ Fortune-telling by means of playing cards.  
 __carton__ _n_ :four::camera::hammer: _A carton of eggs._ _Cartons of whole/strawberry/chocolate milk._  
 __cartridge__ _n_ _Database cartridges._  
+__cartwheel__ _n_  
 __carve out__ _v_ :seven::hammer: (carved out)  
 __carve__ _v_ :two::hammer: _Feast on oversized hand-carved sandwiches._ _Grilled meats carved tableside._  
 __carveouts__  
@@ -3033,6 +3026,7 @@ __catch-up schedule__
 __catchall__ _n_ _A catchall phrase._  
 __catchpenny__  
 __catchphrase__ _n_  
+__catchword__ _n_  
 __catchy__ _adj_ :two: __1__ Attractive or appealing: _a catchy idea for a new television series._ __2__ Easily remembered: _a song with a catchy tune._ __3__ Tricky; deceptive. Having concealed difficulty. _Syn_ tricky _A catchy question on an exam._ _Despite Ms. Brown’s assurances to the contrary, her exam was surprisingly catchy, and many students received a failing grade._ __4__ Fitful or spasmodic: _catchy breathing._  
 __catechism__ _n_ :three::hammer::pencil2:  
 __categorical__ _adj_  
@@ -3075,7 +3069,7 @@ __cavalier<sup>2</sup>__ _n_ __1__ A gallant or chivalrous man, especially one s
 __cavalry__ _n_ :two: __1__ A highly mobile army unit using vehicular transport, such as light armor and helicopters. __2__ Troops trained to fight on horseback.  
 __cave__ _v_ :six: (caved) Short for cave in below. _The tunnel walls cave in._ _The FAA caved._ _Syn_ Collapse, fall in, give, give way, crumble  
 __caveat emptor__  
-__caveat__ _n_ :four::hammer:  
+__caveat__ _n_ :five: /KAV-ee-aht/ A _caveat_ is an explanation or warning that should be remembered when you are doing or thinking about something. In legal contexts, _caveat_ refers to a notice to a court or judicial officer to suspend a proceeding until the opposition can be heard.  
 __cavil__ _adj, n_  
 __cavity__ _n_ :es: caries  
 __cavort__ _vi_ :eight::hammer: (cavorted, cavorting) _Animals cavorting._  
@@ -3588,7 +3582,8 @@ __closed-captioned__ _adj_ Broadcast with captions that are only visible if the 
 __closely__ _adv_ :two::hammer: _Obama’s words are being watched closely by world leaders._ _Watch closely._  
 __closeout__ _n_ :dart: A sale of goods at very low prices because a store wants to get rid of them.  
 __closeted__ _adj_ :two: Being in a state of secrecy or cautious privacy. _A closeted life._  
-__closure__ _n_ :three::hammer: _Get closure on compensation dispute with business partner._  
+__closing argument(s)__  
+__closure__ _n_ :four::hammer: _Get closure on compensation dispute with business partner._  
 __clot__  
 __clotheshorse__ _n_ A person excessively concerned with dress. _Syn_ dandy, dude, fashion plate, fop, gallant, sheik, beau, swell  
 __clothesline__ _n_ :two::hammer:  
@@ -3662,7 +3657,9 @@ __cocooned__ _adj_ _I had become lifeless again, cocooned and frozen._
 __cod__ _n_ :es: bacalao  
 __coda__ _n_ :three::hammer: _The novel ends with a wordless coda._  
 __coddle__ _vt_ :eight: __1__ To cook in water just below the boiling point: _coddle eggs._ __2__ To treat indulgently; baby. _Syn_ pamper Treat with excessive indulgence. _Syn_ baby, cocker, cosset, featherbed, mollycoddle, pamper, spoil, indulge _I have warned her not to spoil the children, but she chooses to coddle them anyway._  
-__code of conduct__  
+__code of conduct__ _n_ :two::hammer:  
+__code of ethics__  
+__code word__ _n_  
 __codebase__ _n_  
 __codeine__  
 __codicil__ _n_ :two::hammer: _A codicil to a previous will._  
@@ -3996,6 +3993,7 @@ __connect__ _n_ _First of all, I want to thank my connect._
 __Connecticut__ _n_ :pencil2:  
 __connective tissue__ _n_  
 __connectome__ _n_ The complete mapping of the structural links in an organism’s neural circuitry.  
+__conniption__ _n_ A fit of violent emotion, such as anger or panic. _Syn_ fit, tantrum, scene  
 __connivance__ _n_ :four: Agreement on a secret plot.  
 __connive__ _v_ /kuh-NYVE/ :eight: To connive is to secretly help someone do something dishonest or illegal.  
 __connoisseur__ _n_ :two::pencil2::mega: /ˌkɒn əˈsɜr, -ˈsʊər/ A person with expert knowledge or training, especially in the fine arts. _Syn_ cognoscente  
@@ -4006,9 +4004,9 @@ __conscience__ _n_ :pencil2:
 __conscientious__ _adj_ :dart::two: /kahn-shee-EN-shus/ Conscientious often describes those who are concerned with doing things correctly. It can be used as a synonym for both meticulous and careful. _Although Marvin was brilliant, he was not a very conscientious student, and he frequently lost points for forgetting to turn in his homework._  
 __conscious__ _adj_ /kon-shuhs/  
 __consciousness__ _n_  
-__conscript<sup>1</sup>__ _n_ One compulsorily enrolled for service, especially in the armed forces; a draftee.  
+__conscript<sup>1</sup>__ _n_ :two: One compulsorily enrolled for service, especially in the armed forces; a draftee.  
 __conscript<sup>2</sup>__ _v_ :five::hammer: (conscripted) _I was conscripted into the army._  
-__conscription__ _n_ :dart::five: __1__ Compulsory enrollment, especially for the armed forces; draft.  
+__conscription__ _n_ :dart::eight: __1__ Compulsory enrollment, especially for the armed forces; draft.  
 __consecrate__ _v_ :two::hammer: _The current church building was consecrated in 1909._  
 __consecutive__ _adj_ :two::hammer:  
 __consensual__  
@@ -4029,6 +4027,7 @@ __consonance__ _n_ Consonance is a repetition of consonants or consonant sounds.
 __consort__ _v_ (consorting)  
 __conspicuous__ _adj_ :eight: /kuhn-spik-yoo-uhs/ (conspicuously) __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
 __constable__ _n_ _Town constables will be on-hand to quickly penalize scofflaws._  
+__consternation__ _n_ /kahn-ster-NAY-shun/  
 __constituency__ _n_ :seven::hammer: /kənˈstɪtʃ u ən si/ (constituencies)  
 __constituent__ _n_ :six::hammer: (constituents)  
 __constitutional<sup>1</sup>__ _n_ :astonished: A walk taken for one’s health.  
@@ -4224,6 +4223,7 @@ __costliest__ _adj_ :two::hammer:
 __costumier__ _n_  
 __cot__ _n_ :three::hammer: _Ryan chooses to bed down in a cot in his office every night the House is in session._  
 __coterie__ _n_ :two::hammer: (coteries)  
+__coterminous__ _adj_ Being of equal extent or scope or duration _Syn_ coextensive, conterminous  
 __cottage__ _n_ :three::astonished::hammer: _Cottage on premises._  
 __Cotton Belt__ _n_ (cotton belt) A belt of land in the southeastern US that specializes in the production of cotton.  
 __cotton candy__ _n_ :two::hammer:  
@@ -4256,11 +4256,12 @@ __counterbalance__ _v_ Oppose and mitigate the effects of by contrary actions.
 __counterfactual__ _adj, n_  
 __counterfeit__ _adj_ :three::hammer: _Counterfeit money._ _Someone passed two counterfeit $20 bills at the Princeton Community Pool._ :es: falsificación  
 __counterintuitive__ _adj_  
-__countermand__ _v_ :four: To cancel or reverse (a previously issued command or order). _Syn_ repeal, rescind, annul, revoke, vacate, reverse, overturn, lift _Countermand the order for cake, send a wire putting off the wedding, dismiss the bridesmaids, and tell the organist he can stop practicing._  
+__countermand__ _v_ :five: /KOUNT-er-mand/ To cancel or reverse (a previously issued command or order). _Syn_ repeal, rescind, annul, revoke, vacate, reverse, overturn, lift _Countermand the order for cake, send a wire putting off the wedding, dismiss the bridesmaids, and tell the organist he can stop practicing._  
 __counteroffensive__ _n_  
 __counterpoint__ _n_ :two::hammer:  
 __countertop__ _n_ :two::hammer:  
 __countervail__ _v_ _Countervailing evidence._  
+__counterword__ _n_  
 __countless__ _adj_ :three::hammer: /ˈkaʊnt lɪs/ _Jenkins wandered nervously around the study, examining objects that didn’t interest him and smoking countless cigarettes._  
 __country store__  
 __counts__ _n_ :three::hammer: _Seven counts of murder._ _He was charged with multiple crimes, including counts of money laundering._  
@@ -4272,6 +4273,7 @@ __coupon__ _n_ :two::mega::hammer:
 __course<sup>1</sup>__ _n_ _The course features dishes such as lobster, four gras and mushroom pie._  
 __course<sup>2</sup>__ _v_ :astonished: _Cy felt stress coursing through his body._  
 __coursework__  
+__court martial__ _n_  
 __courteous__ _adj_ _Remember it is courtesous to tip your driver for their service._  
 __courtship__ _n_ _Syn_ courting, wooing, suit  
 __courtyard__ _n_ :three::hammer: :es: patio  
@@ -4358,7 +4360,7 @@ __cratered__ _v_ _Cratered streets._
 __cratering__ _n_ :two::hammer: _Cratering car sales._  
 __cravat__ _n_  
 __crave__ _v_  
-__craven<sup>1</sup>__ _adj_ :three: Having or showing a complete lack of courage; very cowardly. _A craven political figure._  
+__craven<sup>1</sup>__ _adj_ :four: Having or showing a complete lack of courage; very cowardly. _A craven political figure._  
 __craven<sup>2</sup>__ _n_ :two: A coward.  
 __cravenly__ _adv_ _Battalions fled shamefully and cravenly._  
 __craw__ _n_  
@@ -4545,6 +4547,7 @@ __cuckold<sup>2</sup>__ _v_ :three::hammer:
 __cuckolded__ _adj_ :four::hammer:  
 __cuckoldry__ _n_  
 __cud__ _n_ :three::hammer:  
+__cudbear__ _n_ A purplish-red dye derived from certain lichens. _Syn_ archil, orchil  
 __cuddly__ _adj_ :four: Suitable for or inviting cuddling. _Cuddly teddy bear._  
 __cudgel__ _n_ :six: /ˈkʌdʒəl/ (cudgels) A short heavy stick. _Syn_ bastinado, club _She woke up with her head hurting as though it had been hit with a cudgel._  
 __cue ball__ _n_ :five: The ball a player strikes with the cue, as distinguished from the other balls on the table. The white ball that is propelled with the cue in billiards and pool.  
@@ -4604,6 +4607,7 @@ __curmudgeon__ _n_ :nine: An ill-tempered person full of resentment and stubborn
 __curriculum vitae__ _n_  
 __curriculum__ _n_ _The math curriculum of the school is pretty useless._  
 __curry__ _v_ :five::hammer: (curried) _A blatant effort to curry favor._  
+__curse word__ _n_ _Syn_ cussword, dirty word  
 __cursive<sup>1</sup>__ _adj_ :three: /ˈkəːsɪv/ /ˈkɜːsɪv/ [:scroll: from Latin curs, ‘run’] Written with the characters joined. _I can’t give autographs right now, ‘cause I don’t know cursive._  
 __cursive<sup>2</sup>__ _n_ /ˈkəːsɪv/ /ˈkɜːsɪv/  
 __cursory__ _adj_ :nine: Performed with haste and scant attention to detail: _a cursory glance at the headlines._  
@@ -4798,7 +4802,7 @@ __dearth__ _n_ :dart::six::hammer:
 __death toll__ _n_ The number of deaths resulting from some particular cause such as an accident or a battle or a natural disaster.  
 __deathbed__ _n_ :two::hammer:  
 __deathless__  
-__debacle__ _n_ :eight: A sudden, disastrous collapse, downfall, or defeat; a rout. _Syn_ fiasco _The team had had high hopes before the debacle of their final game, in which they did not manage to score any points._ _A shameful debacle._  
+__debacle__ _n_ :nine: /dee-BAH-kul/ A sudden, disastrous collapse, downfall, or defeat; a rout. _Syn_ fiasco _The team had had high hopes before the debacle of their final game, in which they did not manage to score any points._ _A shameful debacle._  
 __debasing__ _v_  
 __debatable__  
 __debauchee__ _n_ A man who leads a life of reckless drinking, promiscuity, and self-indulgence. _Syn_ libertine, rounder  

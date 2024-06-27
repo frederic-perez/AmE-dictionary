@@ -1,23 +1,3 @@
-__cartwheel__ _n_  
-__catchword__ _n_  
-__caveat__ _n_ /KAV-ee-aht/ A _caveat_ is an explanation or warning that should be remembered when you are doing or thinking about something. In legal contexts, _caveat_ refers to a notice to a court or judicial officer to suspend a proceeding until the opposition can be heard.  
-__closing argument(s)__  
-__closure__ _n_  
-__code of conduct__  
-__code of ethics__  
-__code word__ _n_  
-__conniption__ _n_ A fit of violent emotion, such as anger or panic. _Syn_ fit, tantrum, scene  
-__conscript__ _n_  
-__conscription__ _n_ :three::hammer:  
-__consternation__ _n_ /kahn-ster-NAY-shun/  
-__coterminous__ _adj_ Being of equal extent or scope or duration _Syn_ coextensive, conterminous  
-__countermand__ _v_ /KOUNT-er-mand/  
-__counterword__ _n_  
-__court martial__ _n_  
-__craven__ _adj_ Characterized by abject fear; cowardly. _Syn_ recreant  
-__cudbear__ _n_ A purplish-red dye derived from certain lichens. _Syn_ archil, orchil  
-__curse word__ _n_ _Syn_ cussword, dirty word  
-__debacle__ _n_ /dee-BAH-kul/  
 __demeanor__ _n_ :mega:  
 __depart__ _v_  
 __deride__ _v_ /dih-RYDE/ To deride someone or something is to subject them to usually harsh and bitter insults or criticism.  
