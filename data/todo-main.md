@@ -1,3 +1,10 @@
+__apportionment__ _n_ The act of distributing by allotting or apportioning; distribution according to a plan. _Syn_ parceling, assignation, allocation, allotment  
+__aqueduct__  
+__balustrade__  
+__butt__ _n_ _Two iron water butts._  
+__catapult__ _n_  
+__cesspit__ _n_  
+__crevice__  
 __demeanor__ _n_ :mega:  
 __depart__ _v_  
 __deride__ _v_ /dih-RYDE/ To deride someone or something is to subject them to usually harsh and bitter insults or criticism.  
@@ -25,12 +32,14 @@ __felon__ _n_
 __felony__ _n_ A crime that has a greater punishment imposed by statute than that imposed on a misdemeanor.  
 __fiddle-faddle<sup>1</aup>__ _n_ /ˈfɪdəlˌfædəl/ Nonsense.  
 __fiddle-faddle<sup>2</sup>__ _v_ To fuss or waste time, esp over trivial matters.  
+__fire grate__ _n_ (firegrate, fire-grate) A grate used to hold the fuel in domestic fireplaces and in many forms of heaters and furnaces. _She prepared the fire grates._  
 __flexor__ _n_ A small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes. _Syn_ percussor, plessor  
 __flighty__ _adj_ /ˈflaɪtɪ/  
 __floorwalker__ _n_ An employee of a department store who supervises sales personnel and assists customers. _Syn_ shopwalker  
 __flub<sup>1</sup>__ _n_ :dart: /flʌb/ An embarrassing mistake or blunder.  
 __flub<sup>2</sup>__ _v_ :dart: To blunder or make an embarrassing mistake. Make a mess of, destroy or ruin.  
 __foist__ _v_ /FOIST/ _Foist_, which is almost always used with _on_ or _upon_, is used when someone forces another person to accept something, usually something that is not good or is not wanted. Foist can also mean “to pass off as genuine or worthy.”  
+__folly__ _n_ (construction)  
 __footage__ _n_ :mega:  
 __formicary__ _n_ A nest of ants. _Syn_ anthill  
 __froward__ _adj_ Stubbornly contrary and disobedient; obstinate. _Syn_ headstrong, self-willed, willful  
@@ -50,6 +59,7 @@ __headword__ _n_
 __hibernal__ _adj_ Of or relating to winter. _Syn_ brumal, hiemal  
 __Hooray Henry__ _n_ /hoo-ray HEN-ree/ (Hooray Henrietta) A young, upper-class man who behaves in a loud, obnoxious, and often pretentious manner.  
 __hospice__ _n_  
+__hurricane lamp__  
 __icicle__ _n_  
 __impermanent__ _adj_ Not lasting or durable; not permanent. _Syn_ temporary  
 __impetuous__ _adj_  
@@ -71,6 +81,7 @@ __Janus word__ _n_
 __jaunt__ _n_ /dʒɔnt, dʒɑnt/ A short journey, especially one taken for pleasure.  
 __jeers__ _n_  
 __jetty__ _n_ _The boats were lined up on a jetty._  
+__jollop__ _n_ _informal Brit_ A cream or unguent.  
 __joviality__  
 __juggernaut__ _n_ An overwhelming, advancing force that crushes or seems to crush everything in its path. _Syn_ steamroller  
 __jurisprudence__ _n_ The philosophy or science of law. _Syn_ legal philosophy, law  
@@ -93,6 +104,7 @@ __leverage__ _v_ _You can leverage the win32gui package in Python to target spec
 __Lewis gun__  
 __liable__ _adj_  
 __lightsaber__ _n_  
+__limestone__  
 __liminal__ _adj_  
 __lip liner__ _n_ (lip liner)  
 __listless__ _adj_ Marked by low spirits; showing no enthusiasm. _Syn_ dispirited  
@@ -114,6 +126,7 @@ __misstep__ _n, v_
 __mohawk__ _n_ /ˈməʊhɔːk/  
 __moxie__ _n_ /MAHK-see/ _Moxie_ can refer to courage and determination (aka nerve), energy and pep (aka verve), or know-how (as, say, reflected in one’s oeuvre). _They showed a lot of moxie in questioning their company’s policy._  
 __newt__ _n_  
+__nip__ _n_  
 __nosy__ _adj_  
 __orphan drug__ _n_ A drug that remains undeveloped or is neglected because of limited potential for commercial gain.  
 __outlying__ _adj_ Relatively distant or remote from a center or middle: _outlying regions._ _Outlying areas._  
@@ -148,11 +161,13 @@ __photophobia__ _n_ /fo-tuh-FO-bee-uh/ An abnormal sensitivity to light.
 ‌__pilgrim__ _n_ /ˈpɪl grɪm, -grəm/  
 __pinafore__ _n_ A sleeveless garment similar to an apron, worn especially by small girls as a dress or an overdress. _Syn_ jumper, pinny  
 __pincer__ _n_ A grasping structure on the limb of a crustacean or other arthropods. _Syn_ chela, nipper, claw  
+__pit pony__ _n_ A _pit pony_, otherwise known as a _mining horse_, was a horse, pony or mule commonly used underground in mines from the mid-18th until the mid-20th century. The term “pony” was sometimes broadly applied to any equine working underground. _The coal mines used pit ponies._  
 __pitch-perfect__ _adj_ /pich-PUHR-fikt/ [:scroll: From pitch, from Old English pic + perficere (to finish), from per- (across) + facere (to do)] __1__ Perfect in every way, especially in being sensitive to a particular situation. __2__ Right tone, pitch, mood, etc.  
 __plangent__ _adj_ /PLAN-junt/ Something, such as a sound, that is described as plangent is loud, deep, and often expressive of sadness or suffering. _Syn_ plaintive _The campers were awoken by the plangent howl of a coyote off in the distance._  
 __plateau__ _n_  
 __platitude__ _n_ A trite or banal remark or statement, especially one expressed as if it were original or significant. _Syn_ banality, cliche, commonplace, bromide  
 __plexus__ _n_ A structure in the form of a network, especially of nerves, blood vessels, or lymphatics. _Syn_ rete  
+__poach__ _v_  
 __pocket__ _n_ __11a__ A small, isolated, or protected area or group: _pockets of dissatisfied voters._ In the sentence “pockets of heavy rain,” “pockets” refers to small, isolated areas or regions where heavy rain is occurring.  
 __polemic__ _n_ /puh-LEM-ik/ A _polemic_ is a strong written or spoken attack against someone else’s opinions, beliefs, practices, etc. _Her book is a fierce polemic against societal inequalities._  
 __polyandry__  
@@ -202,10 +217,13 @@ __salacious__ _adj_ :three::hammer:
 __salutary__  
 __sartorial__  
 __satchel__ _n_  
+__savoy__ _n_ (food)  
 __school of thought__  
 __scissure__ _n_ A split or opening in an organ or part. _Syn_ crack, crevice, fissure, cleft  
 __scour__ _v_  
 __scruff__ _n_  
+__scrump__ _v_  
+__scullery__  
 __security__ _n_ /sɪˈkyʊər ɪ ti/  
 __seminal__ _adj_  
 __sendoff__ _n, v_  
@@ -213,6 +231,7 @@ __sequester__ _v_ /sih-KWESS-ter/ __The jury was sequestered until a verdict was
 __sergeant__ _n_  
 __service station__ _n_  
 __severance__ _n_  
+__sham__  
 __shelter__ _v_  
 __shimmy__ _v_  
 __showdown__ _n_  
@@ -243,6 +262,7 @@ __spillway__ _n_ A channel for an overflow of water, as from a reservoir. _Syn_ 
 __squarely__ _adv_ /SKWAIR-lee/ __1__ In a straightforward or frank manner. __2__ Firmly. __3__ Directly. __4__ At right angles.  
 __squirm<sup>1</sup>__ _n_  
 __squirm<sup>2</sup>__ _vi_ __1__ To move with a wriggling motion; writhe. __2__ :dart: To feel deep mental discomfort, guilt, embarrassment, etc.  
+__stairway__  
 __stamina__ _n_  
 __stance__  
 __stand watch__ _v_ Watch over so as to protect.  
@@ -259,7 +279,9 @@ __sturdy__
 __suborn__ _vt_ :astonished:  
 __subpoena__ _v_  
 __subservient__ _adj_  
+__superintendent__ _n_ _A park superintendent._  
 __supersede__ _v_ /soo-per-SEED/ _Syn_ replace, displace  
+__surgery__ _n_ _The doctor’s surgery was his own home._  
 __surreptitious__ _adj_ Marked by quiet and caution and secrecy; taking pains to avoid being observed. _Syn_ furtive, stealthy, sneaky  
 __svelte__ _adj_ /SVELT/ Someone described as _svelte_ is considered slender or thin in an attractive or graceful way. _Svelte_ can also be used to describe something sleek, such as a vehicle or an article of clothing. _The svelte dancer seemed to float across the stage._  
 __swelter__  
@@ -278,6 +300,7 @@ __tentative__ _adj_
 __themself__ _pron_ :dart: _Just after the jury was seated, emergency crews responded to a park outside the Manhattan courthouse, where a person had set themselves on fire._  
 __thought leader__ _n_ A person, organization, publication, etc. regarded as an authoritative source of new ideas or intellectual trends.  
 __thoughtless__ _adj_  
+__throwback__ _n_  
 __tidbit__ _n_  
 __till__ _n_ :three::hammer:  
 __timecard__ _n_  
@@ -289,7 +312,10 @@ __tweener__ _n_ (sports, chiefly tennis) A shot that is hit between the legs.
 __upshot__ _n_ :dart:  
 __vagaries__ _n_  
 __venomous__ _adj_ /ˈvɛn ə məs/  
+__viaduct__  
+__Victoria Cross__ _n_  
 __vulnerable__ _adj_ /VUL-nuh-ruh-bul/  
-__weir__ _n_  
+__weed__ _v_  
+__weir__ _n_ :two::hammer:  
 __woe__  
 __worktop__ _n_ :two::hammer:  
