@@ -17,6 +17,7 @@ __(as) nice as ninepence__ Very tidy, neat, and well-organized; in good order. _
 __(as) plain as the nose on (one’s) face__ Very obvious or noticeable. _Those two have been flirting all afternoon—it’s as plain as the nose on your face!_  
 __(as) quick as a bunny__ Incredibly quickly or speedily. _Quick as a bunny, Mary finished her exam and raced out of the classroom._  
 __(as) silent as the grave__ Totally silent, especially as produces an ominous or foreboding effect. _I knew something was wrong when I walked into the meeting room and all the members of the board were silent as the grave._  
+__(as) solid as a rock__ Exceptionally stable, sturdy, and reliable.  
 __(as) sure as hell__ Certainly, definitely, or absolutely. _Goals sure as hell do matter._  
 __(be) careful what you wish for(, (because) you just might get it)__ A warning that something that one desires might prove to problematic or undesirable were it to happen or come true.  
 __(deep) in the weeds__ :dart::two::hammer:  
@@ -37,7 +38,7 @@ __(it’s) all good__
 __(it’s) good to see you (again)__  
 __(it’s) just as well (that) (something happened)__ It is or turned out to be beneficial (that something happened).  
 __(it’s) little wonder__ It is not at all surprising (that something is the case). _I was always terrible at math in school, so it’s little wonder that I have such trouble filing my taxes._  
-__(it’s/there’s) no use crying over spilt milk__ It does no good to get upset over a bad decision or unfortunate event that has already come to pass and cannot be changed.  
+__(it’s/there’s) no use crying over spilt milk__ :dart::two: _proverb_ It does no good to get upset over a bad decision or unfortunate event that has already come to pass and cannot be changed.  
 __(it) takes one to know one__  
 __(just) a stone’s throw from (something)__  
 __(kill) the golden goose__  
@@ -125,6 +126,7 @@ __a bleeding heart__ :astonished: A person who shows an overwhelming and often o
 __a blessing in disguise__ :two: An unfortunate event or situation that results in an unforeseen positive outcome. _Running late for work turned out to be a blessing in disguise. I would have been in the middle of that big multi-car pileup had I left the house on time._  
 __a bone to pick__ An issue to discuss—typically one that is a source of annoyance for the speaker. _Hey, I have a bone to pick with you! Why didn’t you put gas in my car after you borrowed it?_  
 __a breath of fresh air__ :two::hammer:  
+__a breed apart__ A type or group of people that is markedly superior to or unique from most others.  
 __a breeze__ :dart::five: Something that is especially easy, effortless, or trifling to accomplish or complete. _Perplexity makes searching online a breeze._  
 __a brick short of a load__  
 __a bridge too far__ _cliché_ An act or plan whose ambition overreaches its capability, resulting in or potentially leading to difficulty or failure. Taken from the 1974 book _A Bridge Too Far_ by Cornelius Ryan, which details the Allies’ disastrous attempts to capture German-controlled bridges in the Netherlands during World War II. _The multi-million-dollar purchase of the small startup proved a bridge too far for the social media company, as the added revenue couldn’t make up for the cost in the end._  
@@ -233,14 +235,14 @@ __a portent of things to come__ Something that is indicative of what will happen
 __a real doozy__  
 __a recipe for disaster__  
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
-__a rough patch__ :two: A period of trouble, difficulty, or hardship. _Almost every new business experiences a rough patch at some point or another._  
+__a rough patch__ :three: A period of trouble, difficulty, or hardship. _Almost every new business experiences a rough patch at some point or another._  
 __a shame__ An unfortunate situation. The term is used either in consolation or ironically. _I heard that things didn’t work out between you two—that’s a real shame._  
 __a shit ton__ _rude slang_ A huge amount (of something). _I’m sorry, I can’t come on the trip this weekend. I’ve got a shit ton of work to catch up on._ _That robot learns from a sh*t-ton of pre-existing data to perform human tasks._  
 __a shiver down (one’s) spine__ :two: A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
 __a shooting spree__ A series of firearm attacks on multiple people committed consecutively or in a relatively short period of time, usually by a single person.  
 __a shot in the arm__  
 __a slap on the wrist__  
-__a slew of (something)__ :three: A very large number or amount of something; a lot of something. _We’ve been coming up against a slew of legal issues getting our new subsidiary set up overseas._ _She tried on a Cartier Tank watch and a slew of Tiffany bracelets._ _YouTube unveiled a slew of AI tools for creators._  
+__a slew of (something)__ :four: A very large number or amount of something; a lot of something. _We’ve been coming up against a slew of legal issues getting our new subsidiary set up overseas._ _She tried on a Cartier Tank watch and a slew of Tiffany bracelets._ _YouTube unveiled a slew of AI tools for creators._  
 __a sly dog__ :two: Someone who, through cunning, devious, or dishonest means, achieves a fortuitous outcome. _What a sly dog, he managed to get a copy of the test so he could memorize the answers ahead of time!_  
 __a smidgen__ _slang_ Only a little bit; a very small amount. _Adjust the mirror a smidgen to the right._ _A: “Would you like some more wine?” B: “Just a smidgen, thanks!”_ _Just pull the car up a smidgen—OK, that’s perfect, stop!_  
 __a sobering thought__ :two: A thought or idea which is dispiriting, depressing, or traumatic.  
@@ -338,7 +340,7 @@ __akin to (something)__ :three: Having similar properties, characteristics, or a
 __al fresco__  
 __alarm bell__ A sudden warning or intimation of danger, risk, or ill fortune. (Often pluralized.) _Alarm bells were going off in my head when I saw the panicked expression on her face._  
 __algospeak__ _n_ (social media, neologism) A form of euphemism for evading social media content filters.  
-__alive and kicking__  
+__alive and kicking__ :two: Active and healthy.  
 __all (one’s) eggs in one basket__  
 __all aboard__ :three: A call for all passengers to board a mode of transportation, especially a train.  
 __all along__ The entire time.  
@@ -393,6 +395,7 @@ __amp up__ :three::hammer: (amped up, amping up) _Amped-up crowd._
 __an accident waiting to happen__  
 __an act of God__ A natural disaster, or any similar large-scale event beyond human control. _I don’t care about a little rain—only an act of God will keep us from getting married today._  
 __an armchair something__  
+__an early riser__ Someone who wakes up and is more active and alert in the early hours of the morning.  
 __an eye for an eye, a tooth for a tooth__ _proverb_ :two: Compensation or retribution that is (or should be) of an equal amount or degree to the injury or offense that was originally dealt. The saying comes from various passages in the Bible, including in Exodus, Leviticus, and Deuteronomy. _I cannot be placated by paltry excuses of reparation! An eye for an eye, a tooth for a tooth—this I demand from all who have wronged me._  
 __an honest buck__ Honest, legal work or income. Often used in the phrase “make/earn an honest buck.” Primarily heard in US. _After 10 years working for the mob, Jeremy was ready to finally start making an honest buck._  
 __an honest mistake__ :two: A mistake made unintentionally or unknowingly and without the intention of causing harm; a mistake that anyone might have made in similar circumstances.  
@@ -483,6 +486,7 @@ __at breakneck speed/pace__ :two: Extremely and often dangerously fast. _He drov
 __at every turn__ :three: __1__ At every opportunity. _My opponent has tried to discredit me at every turn._ __2__ Everywhere. _I’ve been seeing my old roommate at every turn lately. Just today, I bumped into her at the mall!_  
 __at face value__  
 __at first blush__ :two: Upon first seeing or considering something. _At first blush, it sounded like a supremely dumb idea._  
+__at first__  
 __at gunpoint__  
 __at hand__ :two: __3__ Impending or imminent. _After months of planning, I’m thrilled that the event is finally at hand!_ _Victory is at hand._  
 __at heart__ :four::hammer: _Most people are crooks at heart._ _I’m a country girl at heart._  
@@ -631,6 +635,7 @@ __battle scars__
 __battle something out__  
 __bazillion__ A very large, nonspecific number or quantity. _Why do you insist on buying new shoes when you have a bazillion pairs already?_  
 __bbg__ _slang_ An abbreviation for “baby girl,” a term of endearment typically used in text messages or online communication. Almost always written in lower case.  
+__be (all) for (someone or something)__ To support or be in favor of a person, group, or effort. _If management is considering adding a gym to the building, I’m all for it!_  
 __be (all) set (to do something)__ To be ready or about to do something. _I was set to get in the shower when the phone rang._  
 __be (as) easy as one-two-three__ To be extremely easy, simple, or intuitive; to require very little skill or effort. (Sometimes used with the numbers spelled out (“one-two-three”) or written numerically (“123” or “1-2-3”).) _After so many years as an accountant, doing taxes is as easy as one-two-three for me._  
 __be (as) green as a gooseberry__ To be very young, immature, or inexperienced. _Are you sure he’s fit to run your campaign? He’s just out of college and still as green as a gooseberry!_  
@@ -655,6 +660,7 @@ __be a wash__ To have gains and losses that are considered to be equal or offset
 __be all about (someone, something, or oneself)__  
 __be all and end all__ (be-all and end-all) The quintessential or all-important element.  
 __be all ears__  
+__be all smiles__  
 __be as good as gone__ To be very nearly, inevitably, or for all intents and purposes lost, departed, defunct, or deceased.  
 __be at (one’s) wit’s end__  
 __be at a crossroads__  
@@ -912,6 +918,7 @@ __bloodbath__
 __bloodshot eyes__ :camera: Eyes in which the sclera (the whites of the eye) and/or conjunctiva (the inside of the eyelid) are colored red due to the prominence of superficial blood vessels. Bloodshot eyes can be the result of a wide range of conditions, including tiredness, eyestrain, irritation, conjunctivitis, injury, or more serious inflammatory conditions. _I’ve got these really bloodshot eyes from studying all night long._  
 __blooper__ __2__ _n_ An error. _That was a real blooper. Did you get fired?_  
 __blow (one’s) mind__ :four::hammer:  
+__blow (someone or something) out of the water__  
 __blow a fuse__ :dart: To react furiously, to the point of losing control of one’s behavior. _Mom totally blew a fuse when I told her I had failed math._ _Don’t blow a fuse—it’s just a tiny scratch on the car._  
 __blow me down__ An expression of shock or surprise at something. Often used jocosely and usually preceded by the word “well.” _Well, blow me down! I never thought I’d see you around these parts again!_  
 __blow one’s top at someone__  
@@ -930,6 +937,7 @@ __blue pill__
 __bode well for (someone or something)__ To seem indicative of a favorable outcome. This phrase is often used in the negative to suggest the opposite. _Sunny weather bodes well for our flight leaving on time._  
 __boffo__ :two: __2__ _adj_ Wonderful or fantastic. _That routine was just boffo, way to go!_  
 __bog down__ :dart: __1__ To slow down or burden someone or something. (A bog is an area of wet, muddy ground that it is difficult to walk through.) _We were hoping to open the restaurant by the holidays, but we’ve gotten bogged down with regulations and permits._ __2__ Stuck; prevented from making progress. _The students became bogged down with the algebra problems._  
+__bog__ _n_ (i?)  
 __bogart__ :astonished::two: To take an unfair share of something.  
 __boggle the/(one’s) mind__ To thoroughly overwhelm, confuse, or surprise one. _The show of support from everyone just boggled my mind._  
 __boil (something) down to (something)__ :two: To reduce or simplify (something) to the most basic, essential, or fundamental element(s).  
@@ -990,7 +998,7 @@ __bread and butter__
 __bread__ _slang_ Money.  
 __break (one’s) heart__  
 __break a leg__ _interj_ :four: Good luck! (A special theatrical way of wishing a performer good luck. Saying “good luck” is considered by actors to be a jinx.) _“Break a leg!” shouted the stage manager to the heroine. Let’s all go and do our best. Break a leg!_  
-__break a sweat__ :two: Use a lot of physical effort: _He hardly needed to break sweat to reach the final._  
+__break a sweat__ :three: To put forth a large amount of energy or effort into or toward a task. (Likened to perspiring due to strenuous physical activity.) Usually used in negative constructions to indicate the opposite. Use a lot of physical effort: _He hardly needed to break sweat to reach the final._ _That test was so easy, I aced it without even breaking a sweat._  
 __break bread__ To eat. _We should break bread before the meal gets cold._  
 __break character__  
 __break cover__ To suddenly and quickly emerge from a place of hiding or protection.  
@@ -1009,6 +1017,7 @@ __break the news__ To reveal information, often that which is bad or upsetting. 
 __break your back__ :two: To work extremely hard.  
 __break your duck__ To do something for the first time.  
 __breaking point__ :dart::six: The point at which an overworked or overburdened person, system, organization, etc., fails, give ups, or collapses. _I was already fed up with my husband’s lazy, selfish ways, but his refusal to come with me to my mother’s funeral was the breaking point._  
+__breakneck__ __1__ Extremely fast, often excessively or recklessly so. _If he can maintain that breakneck pace, I think he’s going to win the race!_  
 __breakout moment__ A “breakout moment” is a term used to describe a pivotal point in someone’s career, when they suddenly become much more visible, successful, or well-known.  
 __breathe easily__ To relax or feel relieved, as after a period of stress or worry. _I can finally breathe easily now that I’m done my term paper—I had been working on that thing all day every day for weeks!_  
 __breathe new life__  
@@ -1336,7 +1345,7 @@ __clean up after (someone or something)__
 __clean-cut__ Neatly groomed. _My sister likes long-haired bad boys, but I’ve always thought that clean-cut guys are cuter._  
 __clear the air__ :dart::two::hammer:  
 __clear the room__ It can also be used figuratively to describe a situation where something, such as a strong odor or a loud noise, causes everyone to leave the room.  
-__click with (one)__ __1__ To have a positive connection or friendly rapport with one, often quickly. __2__ To quickly resonate with one or a group. __3__ To make sense to one; to be able to be understood by one. _The tutor’s explanation of sine and cosine really clicked with me—I think I finally understand it now._  
+__click with (one)__ :two: __1__ To have a positive connection or friendly rapport with one, often quickly. __2__ To quickly resonate with one or a group. __3__ To make sense to one; to be able to be understood by one. _The tutor’s explanation of sine and cosine really clicked with me—I think I finally understand it now._  
 __clickbait__ Online articles (especially on social media sites) that use provocative or intriguing headlines (often in combination with images) to drive traffic to the source. _I wouldn’t put too much faith in that article about “the one food no one should ever eat”—it’s probably just clickbait._  
 __clinch the deal__  
 __clinch__ _vt_ :two: /klɪntʃ/ To settle something; to make something final. _I was able to clinch the deal, and I got a raise for it._  
@@ -1393,7 +1402,7 @@ __come down the pike__ :dart: Appear, become prominent, as in _He was the best w
 __come forward__ :two::hammer:  
 __come full circle__ To return to the original or a similar position, situation, or circumstance where one or something started.  
 __come into play__ :two: To become a factor in a particular situation. _Once personal insults come into play, it’s very hard to resolve a situation calmly._  
-__come into question__ To become doubted, scrutinized, or a matter of serious discussion.  
+__come into question__ :two: To become doubted, scrutinized, or a matter of serious discussion.  
 __come of age__  
 __come on__  
 __come out badly__ To result in something negative or unpleasant.  
@@ -1417,7 +1426,7 @@ __come to the table__ To meet in order to negotiate or discuss how to resolve a 
 __come to think of it__ :dart::two: _set phrase_ Used when one has had a sudden realization. _Yeah, come to think of it, Dave was at the party, too._ _Come to think of it, I haven’t seen too many bullshitters since the war started._  
 __come together__ :four::hammer:  
 __come-one-come-all__  
-__comfort eating__  
+__comfort eating__ :two::hammer:  
 __comfort food__ :three: Particular dishes or food items that are meant to ease emotional pain upon consumption, as by reminding one of home or childhood. Often, such food is high in calories or carbohydrates. _Did Mom make mac and cheese tonight? I’m definitely in need of some comfort food._ _Comfort food like chicken wings, chicken and steak sandwiches, shrimp, ousters and more._  
 __coming-of-age__ :four: Describing something, such as a book or film, that focuses on a character’s maturation to adulthood. _Her coming-of-age novel focuses on a child born into poverty who goes on to be a Harvard graduate._  
 __common ground__  
@@ -1662,6 +1671,7 @@ __dig deep__ :two::hammer:
 __dig in (one’) heels__ :three: To cling stubbornly to one’s beliefs or wishes. _Both sides dug in their heels._  
 __dig in(to) (something)__ :three::hammer:  
 __dig your own grave__ To do something stupid that will cause problems for you in the future.  
+__dilf__ [:scroll: d(ad) I(’d) l(ike to) f(*ck)] A man considered sexually desirable by a considerably younger person.  
 __dillio__ _slang_ [:scroll: From the slang phrase “what’s the deal, yo?” meaning “what’s going on?” Originates from _Lethal Weapon 2_: “what’s the deal Leo?” (South African accent) 1989] The deal; that which is current, relevant, or taking place.  
 __dime__ :two: __1__ The term _dime_ is often employed to convey the idea of something being insignificant or of little value. __2__ A ten-dollar bill. _Syn_ ten-spot  
 __ding ding ding__ :three: Right! You are correct! Meant to replicate the sound from a game show when the contestant has answered the question correctly.  
@@ -1771,6 +1781,7 @@ __down-to-earth__ _adj_ :five: Sensible and realistic.
 __downbeat__ __1__ Glum or pessimistic. _Michael used to be a cheery kid, but he been pretty downbeat lately._ __2__ _mod_ Cool; easygoing. (Compare this with upbeat.) _He is sort of a downbeat character—no stress._  
 __downer__ :two::hammer:  
 __downtime__  
+__doxx (one)__  
 __doxxing__ :three: The act of making someone’s personal information (such as their address, phone number, social security number, etc.) available online, especially out of vengeance. _More and more people are finding themselves victims of doxxing, in which the personal details of their lives are exposed to the world._  
 __drag (one’s) ass__  
 __drag (one’s) feet__ :dart::five: To move slowly and reluctantly because one does not want to do something. _We can’t be late for the dentist, so quit dragging your feet and get in the car!_  
@@ -1832,6 +1843,7 @@ __easier than falling off a log__ Extremely easy; very intuitive; requiring litt
 __easy peasy__ :four::hammer:  
 __easy street, on__ A secure and comfortable financial situation. _Grandpa will be on easy street once his pension checks start rolling in._  
 __easy-breeze__ :dart:  
+__eat (one’s) fill__ To eat enough that one is satisfied or no longer hungry.  
 __eat (one’s) lunch__ _slang_ To defeat one. _The upstart ABC Computer Company is eating IBM’s lunch._  
 __eat dirt__  
 __eat it up__  
@@ -1888,6 +1900,7 @@ __everything under the sun__
 __excuse my French__  
 __exert (oneself)__ To make a concerted effort to do something. Put oneself to strenuous effort.  
 __explore every avenue__ :two: To investigate or pursue every possible means to find a solution to a given problem or to achieve a desired outcome. _Right now, we are exploring every avenue to catch the perpetrator of this heinous crime._  
+__Exterminating Angel__  
 __extra pair of hands__ :two::dart: Additional help or assistance provided by another person. _I think we need to hire an extra pair of hands to help clean the house and mind the children._ _Don’t you want to hire an extra pair of hands?_  
 __eye candy__ :three: A person or thing that is nice to look at, but has very little substance, meaning, or purpose.  
 __eye-opening__ :three: Causing or resulting in a shocking or startling revelation. _Learning that John had been dealing with an opioid addiction for all those years was really eye-opening for me._  
@@ -2090,6 +2103,7 @@ __for all intends and purposes__ :three::hammer:
 __for all seasons__ :two: __1__ Suitable in or appropriate for every kind of weather. _A coat for all seasons._ __2__ Adaptable to any circumstance. _A singer for all seasons._  
 __for better or (for) worse__ :nine::m: Under good or bad circumstances, with good or bad effect. Whether something is good or bad.  
 __for certain__ Definitely.  
+__for Chrissake__ An exclamation of shock, annoyance, frustration, or anger (an informal pronunciation of “for Christ’s sake”) _Would you let me finish my story, for Chrissake?_  
 __for crying out loud__ :four: A expression of frustration or surprise.  
 __for days on end__ :eight: (for hours on end; for weeks on end; for years on end) For a long time, specifically many days.  
 __for good reason__ :two::hammer:  
@@ -2135,11 +2149,12 @@ __four-letter word__
 __fourth wall__ :three: The imaginary barrier separating performers in a TV show, film, or play from the audience. _I hate those shows that break the fourth wall—I don’t want to feel like the characters are having a conversation with me!_  
 __fox__ _n_ __1__ A sly, crafty person. __2__ _slang_ Someone who is very sexually attractive.  
 __fox’s sleep__ A state of apparent sleep (or feigned indifference) in which someone is actually aware of everything going on around them. Alludes to the idea that foxes sleep with one eye open and thus are always at the ready. _I think Amy is just in a fox’s sleep, so be careful what you say right now._  
+__frag__ _slang_ [:scroll: The term had its origin in the Vietnam War] To kill a fellow soldier, often a superior, with a grenade or other explosive device. The word is a shortening of “fragmentation grenade,” referring to a type of grenade that expels shrapnel over a large area. _Someone’s going to frag that guy if he keeps treating his men so poorly._  
 __fraught with anxiety__  
 __fraught with danger__  
 __freak flag__ :two: Any unconventional, nonconformist, or uninhibited behavior, convictions, opinions, or lifestyle choices that are unique to an individual. _My high school literature teacher taught me to always be true to myself and to wear my freak flag proudly._  
 __freak of nature__ Something or someone that is unusual, rare, or abnormal in some way; beyond or outside the natural world. _He can lift over 500 pounds in the gym, he’s like some freak of nature._  
-__freak out__ :three::hammer: (freak someone out)  
+__freak out__ :four::hammer: (freak someone out)  
 __free bit of advice__ A suggestion, opinion, or piece of advice that was unrequested or unsolicited by the recipient.  
 __free lunch__ [:scroll: This expression, dating from the early 1800s, alludes to the practice of taverns offering free food to their customers to induce them to buy more drinks.] A gift or benefit for which no return is expected.  
 __free pass__  

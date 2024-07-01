@@ -1,28 +1,3 @@
-__(as) solid as a rock__ Exceptionally stable, sturdy, and reliable.  
-__(it’s/there’s) no use crying over spilt milk__ :dart: _proverb_ It does no good to get upset over a bad decision or unfortunate event that has already come to pass and cannot be changed.  
-__a breed apart__ A type or group of people that is markedly superior to or unique from most others.  
-__a rough patch__ A period of trouble, difficulty, or hardship.  
-__a slew of (something)__  
-__alive and kicking__ Active and healthy.  
-__an early riser__ Someone who wakes up and is more active and alert in the early hours of the morning.  
-__at first__  
-__be (all) for (someone or something)__ To support or be in favor of a person, group, or effort. _If management is considering adding a gym to the building, I’m all for it!_  
-__be all smiles__  
-__blow (someone or something) out of the water__  
-__bog__ _n_ (i?)  
-__break a sweat__ To put forth a large amount of energy or effort into or toward a task. (Likened to perspiring due to strenuous physical activity.) Usually used in negative constructions to indicate the opposite. _That test was so easy, I aced it without even breaking a sweat._  
-__breakneck__ __1__ Extremely fast, often excessively or recklessly so. _If he can maintain that breakneck pace, I think he’s going to win the race!_  
-__click with (one)__  
-__come into question__ To become doubted, scrutinized, or a matter of serious discussion.  
-__comfort eating__  
-__dilf__ [:scroll: d(ad) I(’d) l(ike to) f(*ck)] A man considered sexually desirable by a considerably younger person.  
-__doxx (one)__  
-__eat (one’s) fill__ To eat enough that one is satisfied or no longer hungry.  
-__Exterminating Angel__  
-__for better or (for) worse__  
-__for Chrissake__ An exclamation of shock, annoyance, frustration, or anger (an informal pronunciation of “for Christ’s sake”) _Would you let me finish my story, for Chrissake?_  
-__frag__ _slang_ [:scroll: The term had its origin in the Vietnam War] To kill a fellow soldier, often a superior, with a grenade or other explosive device. The word is a shortening of “fragmentation grenade,” referring to a type of grenade that expels shrapnel over a large area. _Someone’s going to frag that guy if he keeps treating his men so poorly._  
-__freak out__  
 __free fall__  
 __free lunch__  
 __frigging__  
