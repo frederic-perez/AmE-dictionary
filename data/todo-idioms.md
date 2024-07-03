@@ -1,28 +1,3 @@
-__free fall__  
-__free lunch__  
-__frigging__  
-__from here on out__ From this moment and continuing into the future. _We need to follow the directions from here on out—otherwise, we’re liable to get lost._  
-__from the get-go__ :two::hammer:  
-__from the river to the sea__ (antisemitic) A political phrase that refers geographically to the area between the Jordan River and the Mediterranean Sea, an area described as Palestine, which today includes Israel and the Israeli-occupied Palestinian territories, including the West Bank, East Jerusalem, and the Gaza Strip.  
-__from time to time__  
-__front and center__ :two::hammer:  
-__frosty__ __2__ _mod_ Cool; really cool and mellow. _That music is really frosty._  
-__full stop__  
-__fuzz man__ _slang_ The police.  
-__fuzz__ _slang_ The police. _Come on, we’ve got to get out of here before the fuzz show up and bust us!_  
-__gag order__  
-__gain ground__  
-__game face__ __2__ An expression of stoicism intended to mask one’s emotions or intentions. _John put his game face on as soon as I started to break up with him, so I can’t really tell how he took the new._  
-__game__  
-__game-changer__  
-__get (something) in order__ __3__ To arrange or resolve something so that it is in the most proper, efficient state possible. _They brought in a consultant to help get the project in order._  
-__get a/the nod (for something)__  
-__get ahead of (someone or something)__  
-__get carried away__  
-__get done__  
-__get down to work__ To begin being serious about something; to begin attending to business or work at hand.  
-__get flak__ To receive a lot of criticism, judgment, or teasing (for something).  
-__get in the last word__  
 __get in(to) hot water__  
 __get into it__  
 __get it (all) together__  
