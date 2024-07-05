@@ -1,11 +1,20 @@
+__amusement park__ _n_  
 __apportionment__ _n_ The act of distributing by allotting or apportioning; distribution according to a plan. _Syn_ parceling, assignation, allocation, allotment  
 __aqueduct__  
 __balustrade__  
+__botch__ _vt_  
+__bunco<sup>1</sup>__ _n_ A swindle in which an unsuspecting person is cheated; a confidence game.  
+__bunco<sup>2</sup>__ _vt_ To swindle.  
 __butt__ _n_ _Two iron water butts._  
 __catapult__ _n_  
 __cesspit__ _n_  
+__confusion__ _n_ :pencil2:  
+__congestion pricing__  
+__cookout__ _n_ A social gathering at which a meal is cooked and eaten outdoors.  
 __crevice__  
+__delay__ _n, v_ /dɪˈleɪ/  
 __demeanor__ _n_ :mega:  
+__demonstrator__ _n_  
 __depart__ _v_  
 __deride__ _v_ /dih-RYDE/ To deride someone or something is to subject them to usually harsh and bitter insults or criticism.  
 __dimly__  
@@ -33,30 +42,37 @@ __felony__ _n_ A crime that has a greater punishment imposed by statute than tha
 __fiddle-faddle<sup>1</aup>__ _n_ /ˈfɪdəlˌfædəl/ Nonsense.  
 __fiddle-faddle<sup>2</sup>__ _v_ To fuss or waste time, esp over trivial matters.  
 __fire grate__ _n_ (firegrate, fire-grate) A grate used to hold the fuel in domestic fireplaces and in many forms of heaters and furnaces. _She prepared the fire grates._  
+__flash flood__ _n_ (flashflood) A sudden flood of great volume, usually caused by heavy rain.  
 __flexor__ _n_ A small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes. _Syn_ percussor, plessor  
 __flighty__ _adj_ /ˈflaɪtɪ/  
 __floorwalker__ _n_ An employee of a department store who supervises sales personnel and assists customers. _Syn_ shopwalker  
 __flub<sup>1</sup>__ _n_ :dart: /flʌb/ An embarrassing mistake or blunder.  
 __flub<sup>2</sup>__ _v_ :dart: To blunder or make an embarrassing mistake. Make a mess of, destroy or ruin.  
+__flyover__ _n_  
 __foist__ _v_ /FOIST/ _Foist_, which is almost always used with _on_ or _upon_, is used when someone forces another person to accept something, usually something that is not good or is not wanted. Foist can also mean “to pass off as genuine or worthy.”  
 __folly__ _n_ (construction)  
 __footage__ _n_ :mega:  
 __formicary__ _n_ A nest of ants. _Syn_ anthill  
 __froward__ _adj_ Stubbornly contrary and disobedient; obstinate. _Syn_ headstrong, self-willed, willful  
 __fulsome__ _adj_ :dart: Unpleasantly and excessively suave or ingratiating in manner or speech. _Syn_ unctuous, buttery, oleaginous, smarmy, oily _His introduction contained such fulsome flattery that I began to wonder whether anything else he said could be trusted._  
+__funnel cake__ _n_  
 __futile__ _adj_ /FYOO-tul/  
 __gadfly__ _n_ /GAD-flye/ In literal use, gadfly refers to any of various flies (such as a horsefly, botfly, or warble fly) that bite or annoy livestock. Gadfly is most popular in figurative use, however, where it refers to someone who provokes or annoys other people especially by persistent criticism. _The journalist was known as a gadfly for exposing hypocrisy in politics._  
 __galvanic__ _adj_ /gal-VAN-ik/ __1__ Stimulating; energizing; shocking. __2__ Relating to electric current, especially direct current.  
+__gator__ _n_ (gater)  
 __ghost word__ _n_  
 __glean__ _v_ /GLEEN/ To glean is to gather or collect something bit by bit, or in a gradual way. _Glean_ can also be used to mean “to search (something) carefully” and “to find out.”  
 __gossip__ _v_ /GAH-sup/ To gossip is to talk about the personal lives of other people.  
 __grill__ _vt_ __3__ _informal_ To question relentlessly; cross-examine.  
+__gripping__ _adj_  
 __guide word__ _n_  
 __halcyon__ _adj, n_  
 __hand-pick__ _vt_ To choose or select with great care, as for a special job or purpose.  
 __hangnail__ _n_ :dart: A small piece of dead skin at the side or the base of a fingernail that is partly detached from the rest of the skin. :es: padrastro  
+__headwind__ _n_  
 __headword__ _n_  
 __hibernal__ _adj_ Of or relating to winter. _Syn_ brumal, hiemal  
+__holdout__ _n_  
 __Hooray Henry__ _n_ /hoo-ray HEN-ree/ (Hooray Henrietta) A young, upper-class man who behaves in a loud, obnoxious, and often pretentious manner.  
 __hospice__ _n_  
 __hurricane lamp__  
@@ -67,6 +83,7 @@ __incidence__ _n_ :mega: /IN-suh-dunss/ _Incidence_ refers to the number of time
 __incognito__ _adj, adv_ /in-kahg-NEE-toh/  
 __inebriant__ _n_ An intoxicant. _Syn_ alcoholic beverage, intoxicant, alcohol  
 __injunction__ _n_ :two::hammer:  
+__inner workings__ _n pl_ The parts (of something) that are only known by the people who work on it. _He wanted to experience the inner workings of the political campaign._  
 __innocuous__ _adj_  
 __instigate__ _v_ /IN-stuh-gayt/ To _instigate_ something is to cause it to happen or begin.  
 __invaginate__ _v_  
@@ -116,6 +133,7 @@ __logodaedalus__ _n_ /log-uh-DEE-duh-luhs/ One skilled with words.
 __long-standing__ _adj_ (longstanding)  
 __lookout__ _n_ _Lookouts were posted._  
 __lucrative__ _adj_ :two::hammer: /LOO-kruh-tiv/  
+__luminal__ _adj_  
 __lunchtime__ _n_ :pencil2:  
 __maiden__ _adj_ _The _Titanic_ maiden voyage._  
 __marionette__ _n_ _Syn_ puppet  
@@ -123,8 +141,10 @@ __meliorism__ _n_ /MEE-lee-uh-riz-um/ _Meliorism_ refers to the belief that the 
 __midriff__  
 __misnomer__  
 __misstep__ _n, v_  
+__modicum__ _n_  
 __mohawk__ _n_ /ˈməʊhɔːk/  
 __moxie__ _n_ /MAHK-see/ _Moxie_ can refer to courage and determination (aka nerve), energy and pep (aka verve), or know-how (as, say, reflected in one’s oeuvre). _They showed a lot of moxie in questioning their company’s policy._  
+__mull__ _v_  
 __newt__ _n_  
 __nip__ _n_  
 __nosy__ _adj_  
@@ -134,6 +154,7 @@ __outright__ _adj, adv_
 __outsized__ _adj_  
 __overall__  
 __overcapacity__ _n_  
+__overeager__ _adj_ Excessively eager; too ardent or impatient.  
 __overly__  
 __overstretched__ _adj_ /ˌəʊvəˈstrɛtʃt/ Subject to excessive demands or put under excessive pressure. _Overstretched staff._  
 __palatable__ _adj_  
@@ -175,6 +196,7 @@ __possession__ _n_ :pencil2::mega: /pəˈzɛʃən/
 __postal__ _adj_ /POHS-tuhl/ __1__ Relating to the mail or the post office. __2__ Very angry, insane, or violent.  
 __praise__ _vt_  
 __prejudicious__ _adj_ :astonished: Causing harm or injury. _Syn_ damaging, detrimental, prejudicial  
+__preposterous__ _adj_  
 __prevalence__  
 __preview__ _n, v_ /ˈpriˌvyu/ /prē′vyo͞o′/  
 __priapic__ _adj_ __1__ Of, relating to, or resembling a phallus; phallic. __2__ Characterized by or exhibiting unrestrained or excessive male sexual activity.  
@@ -187,6 +209,7 @@ __proximate__ _adj_
 __punch line__ _n_  
 __punchbowl__ _n_  
 __punt__ _n_ (aqueduct?)  
+__pup__ _n_  
 __pyrophobia__ _n_ /py-roh-FOH-bee-uh/ An extreme fear of fire.  
 __quagmire__ _n_ Land with a soft muddy surface. _Syn_ mire, morass, quag, slack  
 __quarrel__  
@@ -221,9 +244,11 @@ __savoy__ _n_ (food)
 __school of thought__  
 __scissure__ _n_ A split or opening in an organ or part. _Syn_ crack, crevice, fissure, cleft  
 __scour__ _v_  
+__scrap__ _vt_ :dart: __2__ To discard or abandon as useless; cancel: _scrap a plan._  
 __scruff__ _n_  
 __scrump__ _v_  
 __scullery__  
+__secure__ _vt_  
 __security__ _n_ /sɪˈkyʊər ɪ ti/  
 __seminal__ _adj_  
 __sendoff__ _n, v_  
@@ -238,6 +263,7 @@ __showdown__ _n_
 __shutout__ _n_ A defeat in a game where one side fails to score. _Syn_ skunk  
 __sideshow__ _n_  
 __sine die__  
+__sinecure__ _n_  
 __single-handed__  
 __singsongy__ _adj_  
 __Situation Room__ _n_ (John F. Kennedy Conference Room)  
@@ -292,8 +318,10 @@ __table__ _vt_ __2__ To postpone consideration of (a piece of legislation, for e
 __tame__ _adj_ __4__ Insipid; flat: _a tame birthday party._  
 __tamper__  
 __tangent__ _adj, n_ /TAN-juhnt/ [:scroll: From Latin tangere (to touch)]  
+__tariff__ _n_ :es: arancel  
 __taxpayer__ _n_ :es: contribuyente  
 __teamster__ _n_ :astonished: __1__ One who drives a truck for hauling loads, especially as an occupation. __2__ One who drives a team.  
+__temp__ _n_ Temperature.  
 __tendentious__ _adj_ /ten-DEN-shus/ _Tendentious_ is a formal word used disapprovingly to describe someone or something expressing a strongly biased point of view in a way that may cause argument.  
 __tenement__ _n_  
 __tentative__ _adj_  
@@ -307,8 +335,12 @@ __timecard__ _n_
 __tinderbox__ _n_ __1__ A metal box for holding tinder. __2__ A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
 __Tipp-Ex__ _n_ /ˈtɪp.eks/  
 __tobogganing__ _n_ :pencil2:  
+__torpedo__ _vt_ __2__ To destroy decisively; wreck: _torpedo efforts at reform._  
 __trestle__ _n_  
+__troubleshoot__ _v_  
 __tweener__ _n_ (sports, chiefly tennis) A shot that is hit between the legs.  
+__undercut__ _v_  
+__unrequited__ _adj_ /ˌʌn rɪˈkwaɪ tɪd/  
 __upshot__ _n_ :dart:  
 __vagaries__ _n_  
 __venomous__ _adj_ /ˈvɛn ə məs/  
@@ -319,3 +351,5 @@ __weed__ _v_
 __weir__ _n_ :two::hammer:  
 __woe__  
 __worktop__ _n_ :two::hammer:  
+__wring__ _vt_  
+__wringer__ _n_ __1__ A person or thing that wrings. __2__ An apparatus for squeezing out liquid, as two rollers through which an article of wet clothing may be squeezed.  
