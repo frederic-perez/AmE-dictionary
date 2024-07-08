@@ -1,22 +1,30 @@
+__adulterate__ _vt_ /uh-DUHL-tuh-rayt/ To add a cheaper or inferior substance to something.  
 __amusement park__ _n_  
 __apportionment__ _n_ The act of distributing by allotting or apportioning; distribution according to a plan. _Syn_ parceling, assignation, allocation, allotment  
 __aqueduct__  
 __balustrade__  
+__blasé__ _adj_ Indifferent to or bored with life; unimpressed, as or as if from an excess of worldly pleasures.  
 __botch__ _vt_  
 __bunco<sup>1</sup>__ _n_ A swindle in which an unsuspecting person is cheated; a confidence game.  
 __bunco<sup>2</sup>__ _vt_ To swindle.  
 __butt__ _n_ _Two iron water butts._  
+__cardinal__ _adj_ /KAHRD-nul/  
 __catapult__ _n_  
 __cesspit__ _n_  
+__clandestine__ _adj_ /klan-DESS-tun/  
 __confusion__ _n_ :pencil2:  
 __congestion pricing__  
 __cookout__ _n_ A social gathering at which a meal is cooked and eaten outdoors.  
 __crevice__  
+__deference__ _n_ /DEF-uh-runss/  
 __delay__ _n, v_ /dɪˈleɪ/  
+__delirious__ _adj_ Marked by uncontrolled excitement or emotion; ecstatic. _Syn_ excited, frantic, mad, unrestrained  
 __demeanor__ _n_ :mega:  
 __demonstrator__ _n_  
 __depart__ _v_  
 __deride__ _v_ /dih-RYDE/ To deride someone or something is to subject them to usually harsh and bitter insults or criticism.  
+__dicker<sup>1</sup>__ _vi_ To bargain; barter. o dicker is to talk or argue with someone about the conditions of a purchase, agreement, or contract. _My favorite thing about flea markets is dickering over prices._  
+__dicker<sup>2</sup>__ _n_ The act or process of bargaining.  
 __dimly__  
 __discernible__ _adj_ Capable of being seen or noticed. _Syn_ evident, observable  
 __dismay__ _vt_  
@@ -35,7 +43,9 @@ __entourage__ _n_
 __escritoire__ _n_ A writing table; a desk. _Syn_ secretaire, writing table, secretary  
 __exigency__ _n_ Urgent requirements; pressing needs. Often used in the plural. _Syn_ need, demand, requirement, necessity, constraint, wont  
 __exothermic__ _adj_ Releasing heat. _Syn_ heat-releasing, exothermal  
+__extralegal__ _adj_ Not permitted or governed by law. _Syn_ nonlegal  
 __exultation__ _n_ /eg-zuhl-TAY-shuhn/ The act or state of triumphant joy.  
+__facile__ _adj_ Working, acting, or speaking with effortless ease and fluency. _Syn_ eloquent, silver-tongued, smooth-spoken, fluent, silver  
 __fanfare__ _n_ /FAN-fayr/ __1__ A showy public display. __2__ A brief, lively sounding of brass instruments, especially trumpets, in a celebration.  
 __felon__ _n_  
 __felony__ _n_ A crime that has a greater punishment imposed by statute than that imposed on a misdemeanor.  
@@ -43,6 +53,7 @@ __fiddle-faddle<sup>1</aup>__ _n_ /ˈfɪdəlˌfædəl/ Nonsense.
 __fiddle-faddle<sup>2</sup>__ _v_ To fuss or waste time, esp over trivial matters.  
 __fire grate__ _n_ (firegrate, fire-grate) A grate used to hold the fuel in domestic fireplaces and in many forms of heaters and furnaces. _She prepared the fire grates._  
 __flash flood__ _n_ (flashflood) A sudden flood of great volume, usually caused by heavy rain.  
+__fleet__ _n_ The largest organized unit of naval ships grouped for tactical or other purposes.  
 __flexor__ _n_ A small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes. _Syn_ percussor, plessor  
 __flighty__ _adj_ /ˈflaɪtɪ/  
 __floorwalker__ _n_ An employee of a department store who supervises sales personnel and assists customers. _Syn_ shopwalker  
@@ -65,7 +76,9 @@ __glean__ _v_ /GLEEN/ To glean is to gather or collect something bit by bit, or 
 __gossip__ _v_ /GAH-sup/ To gossip is to talk about the personal lives of other people.  
 __grill__ _vt_ __3__ _informal_ To question relentlessly; cross-examine.  
 __gripping__ _adj_  
+__grouse__ _v_  
 __guide word__ _n_  
+__haggle__ _v_ To bargain, as over the price of something; dicker. _Syn_ chaffer, higgle, huckster _He preferred to be overcharged than to haggle over such a trivial item._  
 __halcyon__ _adj, n_  
 __hand-pick__ _vt_ To choose or select with great care, as for a special job or purpose.  
 __hangnail__ _n_ :dart: A small piece of dead skin at the side or the base of a fingernail that is partly detached from the rest of the skin. :es: padrastro  
@@ -77,6 +90,7 @@ __Hooray Henry__ _n_ /hoo-ray HEN-ree/ (Hooray Henrietta) A young, upper-class m
 __hospice__ _n_  
 __hurricane lamp__  
 __icicle__ _n_  
+__idiosyncrasy__  
 __impermanent__ _adj_ Not lasting or durable; not permanent. _Syn_ temporary  
 __impetuous__ _adj_  
 __incidence__ _n_ :mega: /IN-suh-dunss/ _Incidence_ refers to the number of times something happens or develops—in other words, the rate at which something occurs. _The neighborhood boasts excellent schools and a low incidence of crime._  
@@ -112,15 +126,18 @@ __kindle__ _v_ __1__ To set alight or start to burn.
 __kindling__ _n_ :dart:  
 __kinkeeping__  
 __kombucha__ _n_  
+__kudos__ _n_ /KOO-dahss/  
 __la-la land__ _n_ _slang_ __1__ A state of being out of touch with reality. __2__ Los Angeles.  
 __laddish__  
 __leer__ _vt_ /lɪər/ To look with a sideways or oblique glance, especially suggestive of lascivious interest or sly and malicious intent: _Go away! I can’t concentrate with you leering at me._  
 __leery__ _adj_ Suspicious or distrustful; wary: _was leery of aggressive salespeople._ _Syn_ mistrustful, suspicious, untrusting, wary  
 __leptospirosis__ _n_  
+__lethargic__ _adj_ Of, relating to, or affected with lethargy; drowsy; sluggish; apathetic.  
 __leverage__ _v_ _You can leverage the win32gui package in Python to target specific windows for capture._ _Syn_ take advantage of  
 __Lewis gun__  
 __liable__ _adj_  
 __lightsaber__ _n_  
+__limerence__ _n_ The state of being obsessively infatuated with someone, usually accompanied by delusions of or a desire for an intense romantic relationship with that person.  
 __limestone__  
 __liminal__ _adj_  
 __lip liner__ _n_ (lip liner)  
@@ -145,6 +162,7 @@ __modicum__ _n_
 __mohawk__ _n_ /ˈməʊhɔːk/  
 __moxie__ _n_ /MAHK-see/ _Moxie_ can refer to courage and determination (aka nerve), energy and pep (aka verve), or know-how (as, say, reflected in one’s oeuvre). _They showed a lot of moxie in questioning their company’s policy._  
 __mull__ _v_  
+__natural hat trick__ _n_ _sports_ A hat trick in which three goals are scored in succession by one player in one game.  
 __newt__ _n_  
 __nip__ _n_  
 __nosy__ _adj_  
@@ -172,12 +190,15 @@ __pauperism__ _n_ A state of extreme poverty or destitution. _Syn_ indigence, pe
 __peculiar__ _adj, n_  
 __pejorist__ _n_ /PEJ-uh-rist/ A person who believes that the world is getting worse.  
 __penury__ _n_ Extreme want or poverty; destitution. _Syn_ indigence, pauperism, beggary, need  
+__peradventure__ _n_ Chance, doubt, or uncertainty.  
+__peremptorily__ _adv_ In a way that leaves no opportunity for denial or refusal.  
 __peremptory__  
 __perfunctory__  
 __perjury__ _n_  
 __personal column__ _n_  
 __perspicacious__ _adj_  
 __pertussis__ _n_ The technical name for _whooping cough_.  
+__phony__ _adj_  
 __photophobia__ _n_ /fo-tuh-FO-bee-uh/ An abnormal sensitivity to light.  
 ‌__pilgrim__ _n_ /ˈpɪl grɪm, -grəm/  
 __pinafore__ _n_ A sleeveless garment similar to an apron, worn especially by small girls as a dress or an overdress. _Syn_ jumper, pinny  
@@ -188,6 +209,7 @@ __plangent__ _adj_ /PLAN-junt/ Something, such as a sound, that is described as 
 __plateau__ _n_  
 __platitude__ _n_ A trite or banal remark or statement, especially one expressed as if it were original or significant. _Syn_ banality, cliche, commonplace, bromide  
 __plexus__ _n_ A structure in the form of a network, especially of nerves, blood vessels, or lymphatics. _Syn_ rete  
+__plod__ _v_ To walk heavily or move laboriously; trudge.  
 __poach__ _v_  
 __pocket__ _n_ __11a__ A small, isolated, or protected area or group: _pockets of dissatisfied voters._ In the sentence “pockets of heavy rain,” “pockets” refers to small, isolated areas or regions where heavy rain is occurring.  
 __polemic__ _n_ /puh-LEM-ik/ A _polemic_ is a strong written or spoken attack against someone else’s opinions, beliefs, practices, etc. _Her book is a fierce polemic against societal inequalities._  
@@ -205,6 +227,7 @@ __Pringle__ _n_ A Scottish surname.
 __process server__ _n_ :dart::two: A person who serves subpoenas or other legal documents, esp. those requiring appearance in court.  
 __profligate__ _adj_ :dart:  
 __proliferate__ _v_ /pruh-LIF-uh-rayt/ To increase quickly in number or amount.  
+__prostration__ _n_ An abrupt failure of function or complete physical exhaustion. _Syn_ collapse  
 __proximate__ _adj_  
 __punch line__ _n_  
 __punchbowl__ _n_  
@@ -338,7 +361,9 @@ __tobogganing__ _n_ :pencil2:
 __torpedo__ _vt_ __2__ To destroy decisively; wreck: _torpedo efforts at reform._  
 __trestle__ _n_  
 __troubleshoot__ _v_  
+__trudge__ _v_ To walk, especially laboriously or wearily.  
 __tweener__ _n_ (sports, chiefly tennis) A shot that is hit between the legs.  
+__unabashed__ _adj_ Not ashamed, disconcerted, or apologetic; boldly certain of one’s position.  
 __undercut__ _v_  
 __unrequited__ _adj_ /ˌʌn rɪˈkwaɪ tɪd/  
 __upshot__ _n_ :dart:  
