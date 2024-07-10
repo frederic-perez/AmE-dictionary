@@ -17478,7 +17478,7 @@ __snafu<sup>1</sup>__ _n_ :three: /snæˈfuː/ (Military) [:scroll: s(ituation) 
 __snafu<sup>2</sup>__ _adj_ (postpositive) Confused or muddled up, as usual.  
 __snafu<sup>3</sup>__ _vt_ (US and Canadian) To throw into chaos.  
 __snag<sup>1</sup>__ _n_ :six::hammer: (snags) :es: problema _A very telling snag._  
-__snag<sup>2</sup>__ _v_ :four::hammer: _He wants to snag a Black Friday deal on a 65-inch Samsung TV._  
+__snag<sup>2</sup>__ _v_ :five: __2__ _informal_ To catch or obtain quickly or unexpectedly: _snagged a ground ball; snagged a bargain._ _He wants to snag a Black Friday deal on a 65-inch Samsung TV._  
 __snake charmer__ _n_ :astonished:  
 __snakebite__ _n_  
 __snap<sup>1</sup>__ _n_ :three::hammer: _He played for nine snaps, and rushed four times for 14 yards._ _Played seven more snaps._ _He took his first snaps with the starters._  
@@ -17512,7 +17512,7 @@ __sniffed__ _v_ :two::hammer:
 __sniffle__ _v_ (sniffles)  
 __snifter__ _n_ :two::camera::dart::hammer:  
 __snigger<sup>1</sup>__ _n_  
-__snigger<sup>2</sup>__ _vi_ :three::hammer:  
+__snigger<sup>2</sup>__ _vi_ :four::hammer:  
 __snipe__ _v_  
 __snippet__ _n_ A small piece of anything (especially a piece that has been snipped off).  
 __snippy__  
@@ -17562,13 +17562,15 @@ __snowplows__ _n_
 __snowshed__ _n_ :two::hammer:  
 __snowshoe<sup>1</sup>__ _n_ :three::hammer: (snowshoeing)  
 __snowshoe<sup>2</sup>__ _v_ :two::hammer: (snowshoeing)  
+__snub-fighter__ _n_ The term _snub-fighter_ originates from its use in Star Wars novels to describe small starfighters like the Z-95 Headhunter and T-65B X-wing. The term “snub” likely refers to the short range and limited capabilities of these fighters compared to larger ships.  
 __snub-nosed__ _adj_ :two::hammer: _Snub-nosed revolver._ _He wore a snub-nosed .38 in a clip-on holster on his belt._  
 __snub<sup>1</sup>__ _v_ :nine::m: /snʌb/ (snubs, snubbed) Rebuff, ignore, or spurn disdainfully. _Syn_ insult, slight, affront, humiliate _Putin is not just snubbing the United States and the G8._ _He snubbed faculty members and students alike._ _Snubbed nose._ :es: _desaire, repulsa_  
 __snub<sup>2</sup>__ _n_ :seven: A deliberate slight or affront.  
 __snuff out__ _v_ :two::hammer: (snuffed out) _Her life snuffed out at 41._  
 __snuff__ _v_ :four::hammer: (snuffling) _He quickly snuffed it out._  
 __snuffbox__ _n_ :two::hammer:  
-__snug__ _v_ :three::hammer:  
+__snug<sup>1</sup>__ _adj_  
+__snug<sup>2</sup>__ _v_ :four::hammer:  
 __snuggery__ _n_ /ˈsnʌɡərɪ/ _Chiefly British_ __1__ A snug place or position. __2__ A comfortable or cozy room. _Syn_ cubby, cubbyhole  
 __snuggle<sup>1</sup>__ _v_ :three::hammer:  
 __snuggle<sup>2</sup>__ _n_  
@@ -17587,6 +17589,7 @@ __soaring__ _adj_ Ascending to a level markedly higher than the usual: _soaring 
 __sobering__ _adj_ :nine::m: Making you think about things in a serious way. Tending to make sober or more serious: _the news had a sobering effect._  
 __sobersides__ _n_ :astonished: A humorless or habitually serious person.  
 __sobriquet__ _n_ :six: (soubriquet) An affectionate or humorous nickname. _Syn_ cognomen, moniker, nickname, soubriquet  
+__soca__  
 __SoCal__ _n_ _informal_ _US_ Southern California.  
 __soccage__  
 __social contract__ _n_ An implicit agreement among people that results in the organization of society; individual surrenders liberty in return for protection.  
@@ -17774,6 +17777,7 @@ __spear side__ _n_ /SPEER syd/ The male side or branch of a family (opposed to _
 __speargun__  
 __spearhead<sup>1</sup>__ _n_  
 __spearhead<sup>2</sup>__ _vt_ :nine: (spearheaded, spearheading) Lead (an attack or movement). To be the leader of (a movement, for example). _He’s spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
+__Special Olympics__ _n pl_  
 __special__ _adj_ /ˈspɛʃəl/  
 __special-team__  
 __specially__ _adv_ :two: Specifically, in a special manner. _A can of Coke rested in the specially made holder._ _Specialty apparel sellers._  
@@ -17818,10 +17822,11 @@ __spelunking__ _n_
 __spendolie__  
 __spendthrift__ _n_ One who spends money recklessly or wastefully. _Syn_ scattergood, spend-all, spender _You talk as if a miser on Monday were always a spendthrift on Tuesday._  
 __spent volcano__  
-__spew<sup>1</sup>__ _vt_ :eight: (spewed) __1__ To send out or force out in large amounts: _a volcano that spewed molten lava; spewed invective at his opponent._ _Carbon-spewing coal power plants._ __2__ To vomit or otherwise cast out (matter) through the mouth.  
-__spew<sup>2</sup>__ _vi_ __1__ To flow or gush forth: _Water was spewing from the hydrant._ __2__ To vomit.  
+__spew<sup>1</sup>__ _vt_ :nine: (spewed) __1__ To send out or force out in large amounts: _a volcano that spewed molten lava; spewed invective at his opponent._ _Carbon-spewing coal power plants._ __2__ To vomit or otherwise cast out (matter) through the mouth.  
+__spew<sup>2</sup>__ _vi_ :two: __1__ To flow or gush forth: _Water was spewing from the hydrant._ __2__ To vomit.  
 __sphinx__ _n_  
 __spic__ _n_ _offensive_ Used as an insulting and contemptuous term for a Spanish-American person. _Behind our backs they called us the Spic and the Mik._  
+__spider vein__ _n_ A small, dilated vein visible just beneath the skin.  
 __spider__ _n_ __9__ (Billiards & Snooker) A rest having long legs, used to raise the cue above the level of the height of the ball.  
 __Spider-Man__  
 __spiel__ _n_ :five: /SPEEL/ A spiel is a fast speech—often one that has been rehearsed or given before—that is usually intended to get someone to buy something or to agree to something. _Syn_ patter, speech, pitch, recital, harangue, sales talk, sales patter _We let the salesman give us his opening spiel, but when he got to the high-pressure sales tactics, we cut him short and made it clear that we were not interested._  
@@ -17837,6 +17842,7 @@ __spill the beans__
 __spill<sup>1</sup>__ _n_ _Chemical spill._  
 __spill<sup>2</sup>__ _v_ _Spilling the coins of a roll of quarters into the drawer of the cash register._  
 __spillover__ _n_ :two::hammer:  
+__spillway__ _n_ A channel for an overflow of water, as from a reservoir. _Syn_ wasteweir, spill  
 __spin bike__ _n_ :camera:  
 __spin<sup>1</sup>__ _n_ _But don’t believe the spin._  
 __spin<sup>2</sup>__ _v_ :two::hammer: _She spins the truth for whoever is paying her._  
@@ -17986,7 +17992,7 @@ __square dancing__ _n_ American country dancing in which couples form squares.
 __square deal__  
 __square dsncing__  
 __square__ _n_ _slang_ A boring person.  
-__squarely__ _adv_ :three: /ˈskwɛəlɪ/ __1__ In a direct way; straight: _he hit me squarely on the nose; walked squarely toward the shoplifter and arrested him._  
+__squarely__ _adv_ :four: /ˈskwɛəlɪ/ /SKWAIR-lee/ __1__ In a straightforward or frank manner. In a direct way; straight: _he hit me squarely on the nose; walked squarely toward the shoplifter and arrested him._ __2__ Firmly. __3__ Directly. __4__ At right angles.  
 __squash__ _v_ :two: __1__ To beat, squeeze, or press into a pulp or a flattened mass; crush. _Syn_ crush _My guess is they could have squashed us flat just as easily._  
 __squat down__ _v_  
 __squat toilet__ _n_  
@@ -18011,7 +18017,7 @@ __squiggly__ _adj_
 __squinch__ _vt_ To squeeze, twist, or draw together: _squinched her eyes shut._  
 __squire<sup>1</sup>__ _n_ :five::hammer: (squires) _Is he her consort or her squire?_  
 __squire<sup>2</sup>__ _v_ :pencil2::two::hammer: (squiring)  
-__squirm<sup>1</sup>__ _v_ :nine::m: (squirming) To move in a twisting or contorted motion, (especially when struggling). _Syn_ twist, worm, wriggle, writhe, wrestle _He tried to squirm free, but the police officer had a firm grip on the man’s wrists._ _Squirming like a toad._ _Five-year-old Katie squirmed in her lap._  
+__squirm<sup>1</sup>__ _vi_ :nine::m: (squirming) __1__ To move with a wriggling motion; writhe. To move in a twisting or contorted motion, (especially when struggling). _Syn_ twist, worm, wriggle, writhe, wrestle _He tried to squirm free, but the police officer had a firm grip on the man’s wrists._ _Squirming like a toad._ _Five-year-old Katie squirmed in her lap._ __2__ :dart: To feel deep mental discomfort, guilt, embarrassment, etc.  
 __squirm<sup>2</sup>__ _n_ _But his mother was holding him tight, ignoring his squirms._  
 __squirmy__  
 __squirrel__ _n_ /ˈskwɪrəl; _US_ ˈskwɜːrəl; ˈskwʌr-/  
@@ -18049,7 +18055,7 @@ __stagnant__ _adj_ :five::hammer:
 __staid__ _adj_ :eight: Sedate, respectable, and unadventurous. _Staid law firms._ _A staid postelection conference._ _Syn_ sedate, respectable, quiet, serious :es: serio, formal, sereno Characterized by sedate dignity and often a strait-laced sense of propriety. _Syn_ serious, sober, quiet, calm, grave, steady, composed, solemn _I instinctively stood up a little straighter when the staid duke entered the parlor._  
 __stair-climber__ _n_ An exercise apparatus that simulates the act of climbing stairs.  
 __stair-climbing__ _n_ (stair climbing) __1__ The climbing of a flight of stairs. __2__ Stair-climber (I guess). _Gyms and health clubs offer yoga along with stair-climbing machines._  
-__stairway__ _n_  
+__stairway__ _n_ :two::hammer:  
 __stairwell__ _n_ :four::camera: _(Architecture)_ A vertical shaft or opening that contains a staircase.  
 __stake truck__ _n_ :camera:  
 __stake__ _n_  
@@ -18069,7 +18075,7 @@ __stallion__
 __stalward__  
 __stalwart<sup>1</sup>__ _adj_ :nine::m: Loyal, reliable, and hard-working. _He remained a stalwart supporter of the cause._ _Syn_ staunch, loyal, faithful, committed, devoted, dedicated, dependable, reliable, steady  
 __stalwart<sup>2</sup>__ _n_ :two::hammer:  
-__stamina__ _n_ :six::mega: /stā′mə-nə, stăm′ə-, ˈstæmɪnə/ Physical or moral strength to resist or withstand illness, fatigue, or hardship; endurance.  
+__stamina__ _n_ :seven::mega: /stā′mə-nə, stăm′ə-, ˈstæmɪnə/ Physical or moral strength to resist or withstand illness, fatigue, or hardship; endurance.  
 __stammer<sup>1</sup>__ _n_ :three::hammer: _The consensus was shrugs and stammers._  
 __stammer<sup>2</sup>__ _v_ :two: (stammered) To speak with involuntary pauses or repetitions.  
 __stamp out__ _phr v_ :two: End or extinguish by forceful means. _Leading ophthalmologist vows to stamp out “unjustified” screening for cataract surgery._ _Policemen took their own steps to stamp out smoking on the railways._  
@@ -18082,6 +18088,7 @@ __stanch__ _v_ :two::hammer:
 __stanchion__ _n_ :two::hammer: _He braced his hands on a stanchion._  
 __stand a chance__  
 __stand strong__  
+__stand watch__ _v_ Watch over so as to protect.  
 __standard of care__ _n_ :three::hammer: _Our commitment to developing a new standard of care for patients at risk of heart disease remains steadfast._  
 __standard__ _n_ :camera: :es: estandarte  
 __standardization__ _n_  
@@ -18092,7 +18099,7 @@ __standby<sup>2</sup>__ _adj_
 __standby<sup>3</sup>__ _adv_  
 __standee__ _n_ A person who stands, as in a public conveyance, usu. because all seats are occupied.  
 __standings__ _n_ :four: (Sports) A listing of individual competitors or of teams in a league according to their record of performance. _31 points in the overall standings._ _Pac-12 Standings_ _Harvick is third in the standings._ :es: clasificación  
-__standoff__ _n_ :five::hammer:  
+__standoff__ _n_ :six::hammer:  
 __standoffish__  
 __standout<sup>1</sup>__ _adj informal_ :eight: Exceptionally good. Outstanding; superior. _He became a standout quarterback in the NFL._  
 __standout<sup>2</sup>__ _n_ :five: A person, performance, etc., that is clearly superior to others. _PGA tour standout._  
@@ -18134,6 +18141,7 @@ __state media__ _n_ State media or government media are media outlets that are u
 __statecraft__ _n_ The art of conducting public affairs. _Syn_ statesmanship, diplomacy _Only through superior statecraft was he able to avoid a war while simultaneously achieving favorable trade conditions._  
 __stately home__ _n_ _BrE_ A large mansion, esp one open to the public.  
 __stately__ _adj_ :seven: To be stately is to appear noble and impressive, almost in a larger than life kind of way. You may encounter a stately gentleman or a stately statue. If you do, take a little bow. _A stately ballroom._ _Stately homes._ _A stately afternoon tea._ _A stately building._  
+__statement of work__ _n_ (SOW)  
 __statement__  
 __Staten Island__ _n_ :m: /ˈstæt n ˈaɪlənd/  
 __Staten Islander__ _n_  
@@ -18151,11 +18159,11 @@ __stationery__ _n_ :two::hammer:
 __statuary<sup>1</sup>__ _n_ :three::hammer: :es: estatuas  
 __statuary<sup>2</sup>__ _adj_  
 __stature__ _n_ :two: __2__ An achieved level; status. _A golf facility of world class stature._  
-__statute of limitations__ _n phr_ :three: A statute assigning a certain time after which rights cannot be enforced by legal action or offenses cannot be punished.  
+__statute of limitations__ _n phr_ :four: A statute assigning a certain time after which rights cannot be enforced by legal action or offenses cannot be punished.  
 __statute__  
 __statutory rape__  
 __statutory__ _adj_ :three::hammer:  
-__staunch<sup>1</sup>__ _adj_ :nine::m: __1__ Firm and steadfast; loyal or true. _Syn_ loyal, faithful __2__ Having a strong or substantial construction or constitution. _A staunch little cabin._  
+__staunch<sup>1</sup>__ _adj_ :nine::m: (staunchest) __1__ Firm and steadfast; loyal or true. _Syn_ loyal, faithful __2__ Having a strong or substantial construction or constitution. _A staunch little cabin._  
 __staunch<sup>2</sup>__ _v_ :two::hammer: _He applied pressure to staunch the flow of blood._  
 __staunchest__ _adj_ :two::hammer:  
 __stave off__ _phr v_ :nine: (staved off) To keep or hold off; repel: _“For 12 years, we’ve sought to stave off this ultimate threat of disaster”._  
@@ -18226,7 +18234,7 @@ __sterling silver__ _n_ __1__ An alloy of 92.5 percent silver with copper or ano
 __sterling__ _adj_ :six::hammer: _A sterling job._ _A sterling example._ _Sterling stories._  
 __stern__ _n_ :four::hammer: _The ship’s stern._ :es: popa  
 __Sterno__ _n_ _Trademark_ Flammable hydrocarbon jelly packaged in a small can for use as a portable heat source for cooking.  
-__sternutation__  
+__sternutation__ _n_ :two: A symptom consisting of the involuntary expulsion of air from the nose. _Syn_ sneeze, sneezing  
 __sternwheel__ _n_ A paddle wheel at the stern of a vessel. _Sternwheel steamboat tug._  
 __stethoscope__ _n_  
 __Stetson__ _n_ :two: A trademark for a hat having a high crown and wide brim.  
@@ -18263,7 +18271,7 @@ __stigma__ _n_ :two::hammer:
 __stigmatize__ _v_ :two::hammer:  
 __stile__ _n_  
 __still life__ _n_ _Still life painting._  
-__stillbirth__ _n_ :four::hammer:  
+__stillbirth__ _n_ :five::hammer:  
 __stillborn__ _adj_  
 __stilt__ _n_ :eight: (stilts) Stilts are poles, posts or pillars used to allow a person or structure to stand at a height above the ground. _Stilt house._ _Stilt walkers._ _Wooden houses on stilts._  
 __stilted__ _adj_ :two: __1__ (of speech, writing, etc) Formal, pompous, or bombastic. __2__ Not flowing continuously or naturally: _Stilted conversation._ __3__ Standing on stilts. _Villages of stilted houses._  
@@ -18361,7 +18369,7 @@ __stow__ _vt_ :five::hammer: (stowed)
 __stowage__  
 __stowaway__  
 __strabismus__ _n_ Abnormal alignment of one or both eyes.  
-__straddle__ _v_ :six::hammer: (straddles, straddling)  
+__straddle__ _v_ :eight::hammer: __1a__ To stand or sit with a leg on each side of; bestride: _straddle a horse._ _Pete straddled a chair._  
 __strafed__ _v_  
 __strafes__ _v_  
 __strafing__  
@@ -18421,7 +18429,7 @@ __strenuous__ _adj_ :astonished::six::hammer: _A man of of strenuous temperament
 __strep > strep throat__ _n_ :two::hammer: _Maybe strepsils is derived from strep (throat)._  
 __stress__ _v_ _I cannot stress it enough._  
 __stressful__ _adj_  
-__stressor__ _n_ /ˈstrɛs ər, -ɔr/ :two: An event, experience, stimulus, etc, that causes stress.  
+__stressor__ _n_ :three: /ˈstrɛs ər, -ɔr/ An event, experience, stimulus, etc, that causes stress.  
 __stretch limousine__ _n_ :two::hammer:  
 __stretch marks__ _n_ :two: Streaks or stripes on the skin, especially on the abdomen, caused by distension of the skin from obesity or during pregnancy.  
 __stretch<sup>1</sup>__ _n_ :six::hammer: _An interesting stretch run in the NFC._ _Second-half stretch._ _We worked for stretches of 6 or 8 hours._ _He was awake for long streches of time._  
@@ -18465,7 +18473,7 @@ __Strombolian__ _adj_
 __strong accent__  
 __strongbox__ _n_  
 __stronghold__ _n_  
-__strongman__  
+__strongman__ _n_ :two::hammer:  
 __struck a nerve__  
 __struck__ _v_ :three::hammer: _The Paris climate was struck almost a year ago._  
 __strudel__ _n_ :three::hammer:  
@@ -18510,7 +18518,7 @@ __stunted__ _adj_ Inferior in size or quality.
 __stupas__  
 __stupefy__  
 __stupendous__ _adj_ _A stupendous twelve-hour sermon._  
-__sturdy__ _adj_ :five::hammer:  
+__sturdy__ _adj_ :six::hammer:  
 __sturgeon__ _n_ :three::hammer: :es: esturión  
 __stutter__ _v_ :two::hammer:  
 __style__ _v_  
@@ -18544,13 +18552,14 @@ __sublimate__ _v_
 __submachine gun__  
 __submarine__ _v_  
 __submersible__ _adj, n_  
-__suborn__ _vt_ :four::astonished: __1__ To bribe, incite, or instigate (a person) to commit a wrongful act. __2__ (Law) _criminal law_ To induce (a witness) to commit perjury. _The lawyer attempted to suborn the witness._  
+__suborn__ _vt_ :five::astonished: __1__ To bribe, incite, or instigate (a person) to commit a wrongful act. __2__ (Law) _criminal law_ To induce (a witness) to commit perjury. _The lawyer attempted to suborn the witness._  
 __subpar__ _adj_ :three::hammer: /sʌbˈpɑː/  
 __subpoena<sup>1</sup>__ _n_ :six::hammer:  
-__subpoena<sup>2</sup>__ _vt_ :seven::mega: (subpoenaed) Put the screws to someone.  
+__subpoena<sup>2</sup>__ _vt_ :dart::eight::mega: (subpoenaed) Put the screws to someone.  
 __subsea__ _n_  
 __subsequent__ _adj_ :nine: Following in time or order; succeeding. _The Justice Ministry plans to introduce the system to other airports in subsequent years._ _The policy to have patients moved from hospitals to care homes may have directly led to subsequent deaths._ :es: posterior, subsiguiente  
 __subsequently__ _adv_ :dart::five: Happening at a time subsequent to a reference time. _He subsequently joined the engineering team._  
+__subservient__ _adj_  
 __subside__ _v_ :dart::six::hammer: (subsided) _My headache has subsided._  
 __subsidence__ _n_  
 __subsidiary__ _n_ :two::hammer:  

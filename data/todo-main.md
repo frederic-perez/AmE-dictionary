@@ -298,36 +298,6 @@ __skivvy__ _n_ __1__ _chiefly often derogatory Brit_ A servant, esp a female, wh
 __sleazy__ _adj_ :dart: __1b__ Dishonest or corrupt; disreputable: _Some sleazy characters hang around casinos._  
 __slothful__ _adj_  
 __smitten__ _adj_  
-__snag__ _v_ __2__ _informal_ To catch or obtain quickly or unexpectedly: _snagged a ground ball; snagged a bargain._  
-__snigger__ _v_  
-__snub-fighter__ _n_ The term _snub-fighter_ originates from its use in Star Wars novels to describe small starfighters like the Z-95 Headhunter and T-65B X-wing. The term “snubÆ likely refers to the short range and limited capabilities of these fighters compared to larger ships.  
-__snug__ _adj, v_  
-__soca__  
-__Special Olympics__ _n pl_  
-__spew__ _v_  
-__spider vein__ _n_ A small, dilated vein visible just beneath the skin.  
-__spike__ _v_  
-__spillway__ _n_ A channel for an overflow of water, as from a reservoir. _Syn_ wasteweir, spill  
-__squarely__ _adv_ /SKWAIR-lee/ __1__ In a straightforward or frank manner. __2__ Firmly. __3__ Directly. __4__ At right angles.  
-__squirm<sup>1</sup>__ _n_  
-__squirm<sup>2</sup>__ _vi_ __1__ To move with a wriggling motion; writhe. __2__ :dart: To feel deep mental discomfort, guilt, embarrassment, etc.  
-__stairway__  
-__stamina__ _n_  
-__stance__  
-__stand watch__ _v_ Watch over so as to protect.  
-__standoff__ _n_  
-__statement of work__ _n_ (SOW)  
-__statute of limitations__  
-__staunch__ _adj_ (staunchest)  
-__sternutation__ _n_ A symptom consisting of the involuntary expulsion of air from the nose. _Syn_ sneeze, sneezing  
-__stillbirth__ _n_  
-__straddle__ _v_ :two::hammer: __1a__ To stand or sit with a leg on each side of; bestride: _straddle a horse._ _Pete straddled a chair._  
-__stressor__ _n_  
-__strongman__ _n_  
-__sturdy__  
-__suborn__ _vt_ :astonished:  
-__subpoena__ _v_  
-__subservient__ _adj_  
 __superintendent__ _n_ _A park superintendent._  
 __supersede__ _v_ /soo-per-SEED/ _Syn_ replace, displace  
 __surgery__ _n_ _The doctor’s surgery was his own home._  
