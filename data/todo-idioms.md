@@ -1,3 +1,11 @@
+__a kick in the butt__ A forceful gesture or message of some kind (usually delivered with good intentions) that acts as motivation to the (previously unmotivated) recipient. _These days, teenagers seem to need a swift kick in the butt to convince them to do well in school._  
+__black bag job__  
+__blah__ __2__ _adj_ Displeased, dissatisfied, or dejected. _I’m just feeling kind of blah after reading that negative review of my play._  
+__bristle at something__ :dart: [:scroll: Alludes to a dog or cat raising the hair on its back in anger or as a threat] To show sudden anger or other negative response to something. _She bristled at the suggestion._  
+__catch up on (something)__  
+__find/take shelter__ To go somewhere for cover and protection from danger, bad weather, etc. _They found/took shelter in a cave during the storm._  
+__flip-flop__ __1__ _v_ To completely change one’s opinion or stance. Primarily heard in US.  
+__from a mile away__  
 __get in(to) hot water__  
 __get into it__  
 __get it (all) together__  
@@ -39,8 +47,10 @@ __go with the flow__ To act as others are acting, conforming to common behavior 
 __golden__  
 __good to go__  
 __good-time Charlie__ An affable, lively, and entertaining man who is often or always seeking pleasure or a good time.  
+__goon__  
 __grapple with (someone or something)__ :two::hammer:  
 __green thumb__  
+__have a rocky start__ To have a troubled, uncertain, or discouraging beginning.  
 __have a shit__  
 __heat wave__ A period of time in which the weather is unusually and persistently hot.  
 __hell on earth__  
@@ -48,7 +58,7 @@ __hem and haw__
 __hit the ground running__  
 __hold the line__  
 __hue and cry__ /HYOO-und-KRYE/ __1__ A large public protest. _Hue and cry_ refers to a clamor of alarm or protest in response to something. __2__ It can also be used as a synonym of hubbub to refer to general noise or uproar.  
-__if it ain’t broke, don’t fix it__  
+__if it ain’t broke, don’t fix it__ :two::hammer: (if it isn’t broke, don’t fix it)  
 __If you can’t beat ’em, join ’em__  
 __in a bit__  
 __in a flutter__ In a nervous, confused, or agitated state.  
@@ -58,7 +68,7 @@ __in all good faith__
 __in all likelihood__  
 __in and of itself__  
 __in concert with (someone)__ Together with someone; in cooperation with someone. _You’ll need to work in concert with my file clerk to sort through all this paperwork._  
-__in full swing__  
+__in full swing__ :two::hammer:  
 __in hot water__ :dart::two: Having provoked or incited anger, hostility, or punishment against oneself; in a troublesome or difficult situation, especially that which will result in punishment or reprisal. _I was in a bit of hot water with Janice last night when she found out I went to the movies instead of cleaning out the garage._  
 __in its infancy__ In the early, nascent period of development or implementation. (Typically of an area of activity, interest, research, etc.)  
 __in jeopardy__ In danger or at risk; imperiled.  
@@ -138,6 +148,7 @@ __kick up__
 __kids will be kids__ Kids behave childishly or immaturely by nature, so it is unrealistic to expect otherwise.  
 __king of the castle__ The most powerful, successful, or authoritative person in a group or organization.  
 __kitchen-sink__ Showing or pertaining to the lives of common, everyday people. (Always used before a noun.)  
+__knee-jerk reaction__ Any spontaneous, reflexive, and unthinking reaction or response.  
 __knock it off__  
 __knock on doors__ To speak to the people who live in an area by walking up to their houses, apartments, etc., especially to provide information or solicit votes, support, contributions, etc.  
 __Lady Luck__ The personification of fortune, whether good or bad. Sometimes spelled in lower case.  
@@ -194,6 +205,7 @@ __mixed feelings__
 __mixed message__  
 __mm-hmm__ _informal_ Yes; yeah. A verbal expression used to express agreement or acknowledgement. Formed by intoning “uh-huh” with a closed mouth.  
 __modus operandi__ :two::mega: A unique and habitual method of doing something. From Latin, literally “mode of operation.” Used especially in reference to criminal behavior.  
+__more often than not__  
 __move mountains__ :dart: To do or achieve something that is incredibly difficult.  
 __move the dial__  
 __move the needle__ _I am concentrating on what moves the needle most._  
@@ -222,7 +234,7 @@ __of (one’s) own accord__
 __of all places__ Being the least expected place compared to anywhere else.  
 __of all stripes__ Of many varieties or types. _You meet people of all stripes when you live in a big city._  
 __off again, on again__  
-__off the hook__  
+__off the hook__ :two::hammer:  
 __off-kilter__  
 __oh boy__  
 __old school__  
@@ -242,6 +254,7 @@ __on the contrary__
 __on the edge of (one’s) seat__  
 __on the line__ __1__ In a state of jeopardy or uncertainty.  
 __on the lookout__ :two: Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
+__on the move__  
 __on the radar (screen)__  
 __on the run__  
 __on the sidelines__ :two: In a position in which one is not actively participating in something.  
@@ -279,7 +292,8 @@ __picture this__
 __pie in the sky__ :two: An impossible, unlikely, or fanciful idea or plan. Often hyphenated.  
 __piggyback on(to) (something)__ To use something said or done by someone else as the foundation for one’s own actions.  
 __pile up__  
-__pin down__ __2__ By extension, to try to force someone into a position where they must commit to a single, precise answer or piece of information. In this usage, a noun or pronoun can be used between “pin” and “down.” _The president never let reporters question him long enough for them to pin him down on any issue they brought up._  
+__pin down__ :two: __2__ By extension, to try to force someone into a position where they must commit to a single, precise answer or piece of information. In this usage, a noun or pronoun can be used between “pin” and “down.” _The president never let reporters question him long enough for them to pin him down on any issue they brought up._  
+__pinch__  
 __piss off__  
 __pitch-perfect__ Reaching or conveying the exactly right note or tone. The phrase refers to music but it is often applied to writing and other things.  
 __plain vanilla__ A reference to vanilla being considered an ordinary or unexciting flavor. Often hyphenated if used before a noun. __1__ Completely basic, simple, or straightforward, lacking embellishments, adornments, special features, etc.  
@@ -319,6 +333,7 @@ __raise the stakes__
 __ramp up__ :four::hammer:  
 __reach out to (one)__  
 __reality check__ :dart: An event or outcome that forces one to accept or reevaluate the reality of one’s position or situation.  
+__receive (one’s) just deserts__ To receive that which one deserves, especially a punishment or unfavorable outcome. (Note: The phrase is often misspelled as “just desserts,” due to the pronunciation of “deserts” and “desserts” being the same in this context.) _The CEO cheated his clients out of nearly $4 million, but he received his just deserts when he was stripped of everything he owned and sent to prison._  
 __reclaim (someone or something) from (someone or something else)__ To regain or resume possession of someone or something from someone or something.  
 __recount (something) to (one)__ To narrate or share the facts or details of some experience or story to one.  
 __red flag__  
@@ -332,6 +347,7 @@ __ring hollow__ To sound or give the sense of being false, insincere, or not gen
 __ripple effect__  
 __road ahead__  
 __rock bottom__ The absolute lowest or worst point.  
+__rocky start__ A troubled, uncertain, or discouraging beginning.  
 __roll out__  
 __roll with it__ To adapt to a situation despite unexpected circumstances or challenges.  
 __roll with the punches__ :dart:  
@@ -356,6 +372,7 @@ __schmuck__
 __schtick__ _slang_ A particular gimmick, routine, or characteristic that distinguishes one or sets one apart from others. Originally from Yiddish. _The restaurant’s whole schtick is that your table is locked inside of a cage and, periodically, the lights go out while people in costumes come out to try to scare you._ _I tried writing more serious literary novels, but I realized that cheesy thrillers are just my schtick._  
 __scoop__  
 __scramble for (something)__  
+__scrape by__  
 __scrub (something)__ :three: To cancel or abort some plan or activity.  
 __sea change__ A massive, fundamental shift or transformation.  
 __second wind__ A renewed energy after a period of fatigue. _I planned to stop working at 9, but then I got my second wind and just kept going._  
@@ -364,6 +381,7 @@ __seep in(to something)__
 __serve (one’s) time__  
 __set eyes on something__  
 __set the bar (high/low)__  
+__sexual advances__  
 __Shangri-la__ A utopian paradise. A reference to the fictional Tibetan paradise described in James Hilton’s 1933 novel _The Lost Horizon._  
 __shipshape and Bristol fashion__  
 __shit (one’s) pants__ __2__ _rude slang_ By extension, to be very surprised. _When I saw that the magazine had published my letter to the editor, I practically shit my pants!_ _Shit-your-pants scared._  
@@ -454,9 +472,11 @@ __U-turn__ __2__ By extension, any sudden and drastic reversal, as of opinion, p
 __under (one’s) belt__  
 __unf*ckwithable__ :dart: A Definition: “When you’re truly at peace and in touch with yourself. Nothing anyone says or does bothers you and no negativity can touch you.” —Vishen Lakhiani, _The Code of the Extraordinary Mind_  
 __up and running__  
+__up for grabs__  
 __up to snuff__ (up to scratch) As good as what was expected, required, or demanded; satisfactory or adequate. _Sorry, Tom. Your performance isn’t up to snuff. You’ll have to improve or find another job._ _My paper wasn’t up to scratch, so I got an F._  
 __uphill battle__  
 __user base__ :two: (business jargon) The number units of a particular product or service that are currently in use, especially software or an internet or computing platform. (Also referred to as “install(ed) user base” or simply “install(ed) base.”)  
+__vette__ A colloquial shortening of “Corvette,” a sports car manufactured by Chevrolet. The abbreviation can also be capitalized or spelled with an apostrophe.  
 __vouch for (someone or something)__  
 __wait and see__  
 __walk out__  
@@ -480,7 +500,7 @@ __witch hunt__
 __with a bang__ :two::hammer:  
 __with a twist__ The phrase “with a twist” is an idiomatic expression that means something is done or presented in an unexpected or unconventional way, often with a surprise or a new spin. It can imply that something is extraordinary, not straightforward, or deviates from the usual procedure.  
 __with bated breath__  
-__without a hitch__  
+__without a hitch__ :two::hammer:  
 __word for word__ In or with the same exact words; verbatim. _After seeing the play only once, he was able to repeat the monologue word for word. It was amazing._  
 __work (oneself) up__  
 __work out the kinks__ To remove or resolve any small problems that remain present in something.  
