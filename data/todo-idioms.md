@@ -398,31 +398,6 @@ __something of sorts__ An inferior example of a kind of something.
 __sound the alarm__  
 __spic and span__ (spick and span) Totally clean and/or organized. _I plan to spend the day cleaning so that this place is spick and span when my mother-in-law arrives._  
 __spill the tea__  
-__split hairs__  
-__spot showers__ :two: Term used by some weather forecasters to say that the chance of rain is low and will only affect a small percentage of the forecast area.  
-__stay in character__  
-__steamroll through__  
-__step in__  
-__sticking point__ A topic of discussion or debate that results in disagreement.  
-__stone cold__ Completely bereft of emotion or concern. Hyphenated if used as a modifier before a noun.  
-__strange bedfellows__  
-__street walker__ A popular term for a prostitute who walks the streets to solicit sexual favours for money.  
-__streetwise__  
-__strike a (raw) nerve__ :two::hammer:  
-__strike a deal__  
-__sugar daddy__  
-__super-duper__ :two::hammer: (super-dooper)  
-__supply and demand__ The amount of something available to purchase compared to the number of people who need or want to purchase it.  
-__swear by (someone or something)__  
-__swear in__  
-__sweeping changes__ :dart: Extreme and far-reaching changes. _Of course the new manager wants to make sweeping changes to our department._  
-__sweetie pie__ A term of endearment, especially for a person or pet towards whom one feels tender love or affection.  
-__tada__  
-__take (someone or something) for granted__  
-__take (someone, something, or some place) by storm__ :two::hammer:  
-__take a chance__ To try to do something that has a high probability of having a negative or unfortunate outcome. probability of having a negative or unfortunate outcome.  
-__take a crack at (something)__ To attempt (to do) something; to take a turn trying (to do) something.  
-__take a number__ _imperative_ Wait your turn; get in line; there are a lot of other people looking or waiting for the same thing as you. (Refers to offices or shops that distribute printed numbers to let customers know the order in which they’ll be helped. Often said somewhat ironically or sarcastically.)  
 __take a stand__  
 __take a/the bullet (for someone)__  
 __take center stage__ :two: To be the main focus.  
