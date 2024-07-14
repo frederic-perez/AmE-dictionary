@@ -13828,10 +13828,12 @@ __phobia__ _n_ /ˈfəʊbɪə/
 __phoenix__ _n_  
 __phonophobia__ _n_ /foh-nuh/noh-FOH-bee-uh/ __1__ A fear of or intolerance of loud sounds. __2__ A hypersensitivity to sound. __3__ An aversion to the sound of one’s own voice.  
 __phonotaxis__ _n_ _Cricket phonotaxis._  
+__phony__ _adj_  
 __phoropter__ _n_  
 __photo-op__  
 __photochromic__ _adj_  
 __photography__ _n_ :mega:  
+__photophobia__ _n_ /fo-tuh-FO-bee-uh/ An abnormal sensitivity to light.  
 __photovoltaic__ _adj_ Capable of producing a voltage when exposed to radiant energy, especially light.  
 __phub__ _n_ _slang_ :dart: To ignore someone in one’s presence in order to pay attention to the content on one’s phone or other mobile device. The term derives from “phubbing,” a combination of “phone” and “snubbing” that was coined as part of a marketing campaign for an Australian dictionary. _I’m right here—quit phubbing me and read your tweets later!_  
 __phylacteries__ _n_ :two::hammer:  
@@ -13914,6 +13916,7 @@ __pile__ _v_ (piling) _There’s a lot of investors piling in._
 __pileup__  
 __pilfer__ _v_ :five::hammer: (pilfering)  
 __pilfered__ _v_  
+‌__pilgrim__ _n_ /ˈpɪl grɪm, -grəm/  
 __piling__ _n_ _A deserted cabin built on pilings._  
 __pill caddy__ _n_  
 __pillbox hat__ _n_ :two::hammer:  
@@ -13933,9 +13936,9 @@ __pin-curled__
 __pin-drop silence__  
 __pin<sup>1</sup>__ _n_ :camera: _McCloud needed a pin placed in his wrist this offseason._  
 __pin<sup>2</sup>__ _v_ :two: (pinned) _Evans pinned a 32-18 loss to the New York Giants._ _Pin the blame on its inability to develop an economy independent of the United States._  
-__pinafore__ _n_ :two::hammer:  
+__pinafore__ _n_ :three: A sleeveless garment similar to an apron, worn especially by small girls as a dress or an overdress. _Syn_ jumper, pinny :es: pichi  
 __pinback__ _n_ :two::hammer:  
-__pincer__ _n_ :two: __3__ A military maneuver in which an enemy force is attacked from two flanks and the front. _A pincer movement._  
+__pincer__ _n_ :three: __1__ A grasping structure on the limb of a crustacean or other arthropods. _Syn_ chela, nipper, claw __3__ A military maneuver in which an enemy force is attacked from two flanks and the front. _A pincer movement._  
 __pinch > in a pinch__  
 __pinch__ _v_ _slang_ To take (money or property) wrongfully. _Syn_ steal  
 __pinch-faced__ _adj_ The term _pinch-faced_ typically describes a person with a thin, pale, and sometimes unpleasant-looking face. _A pinch-faced balding man with a deep drawl._  
@@ -13999,6 +14002,7 @@ __pisspot__ _n_ :two: A person who drinks a lot of alcohol very often.
 __pissy__ _adj_ _slang_ _vulgar_ Irritable; cranky.  
 __pistachios__ _n_ :two::pencil2::hammer:  
 __pit latrine__ _n_  
+__pit pony__ _n_ A _pit pony_, otherwise known as a _mining horse_, was a horse, pony or mule commonly used underground in mines from the mid-18th until the mid-20th century. The term “pony” was sometimes broadly applied to any equine working underground. _The coal mines used pit ponies._  
 __pit toilet__ _n_  
 __pit wagon__  
 __pit<sup>1</sup>__ _n_ :four::hammer: _The pit of his stomach._ _Money pit._ _A pit of snakes._  
@@ -14008,7 +14012,7 @@ __pita__ _n_ A round flat bread of Middle Eastern origin that can be opened to f
 __pitch in__ _v_  
 __pitch__ _v_ _They hadn’t rolled or pitched too much 9n the storm they hit just outside of San Francisco._  
 __pitch-faced__ _adj_ :two::hammer:  
-__pitch-perfect__  
+__pitch-perfect__ _adj_ :dart::two: /pich-PUHR-fikt/ [:scroll: From pitch, from Old English pic + perficere (to finish), from per- (across) + facere (to do)] __1__ Perfect in every way, especially in being sensitive to a particular situation. __2__ Right tone, pitch, mood, etc.  
 __pitch<sup>1</sup>__ _n_ :eight: __1__ A black or dark viscous substance obtained as a residue in the distillation of organic materials and especially tars. __2__ Resin obtained from various conifers and often used medicinally. _There was a jar of hot pitch [in case it was required for the amputation]._ :es: brea __3__ _sports_ A playing field. Also called _wicket._ _We recovered the ball in their side of the pitch after pressing well._ :es: campo, cancha  
 __pitch<sup>2</sup>__ _v_ :camera::three::hammer: (pitched) _Pitching bowling balls._ _To pitch a tent._ _If not from pitched battles, where do we find victory?_  
 __pitched battle__ _n_ :two: __1__ An intense battle fought in close contact by troops arranged in a predetermined formation. _He feared to seek pitched battle._ __2__ A fiercely waged battle or struggle between opposing forces.  
@@ -14054,7 +14058,7 @@ __plan B__ _n_ (capital B) An alternative strategy. _It’s time I put plan B in
 __Plan B__ _n_ A brand name of levonorgestrel, an emergency contraception drug.  
 __planchette__ _n_ :camera: _The planchette of a Ouija board._ :es: tabla de escritura espiritista  
 __plane tree__ _n_ :two: Any of several trees of the genus _Platanus_, having ball-shaped fruit clusters and, usually, outer bark that flakes off in patches. _It was a place full of plane trees._  
-__plangent__  
+__plangent__ _adj_ :two: /PLAN-junt/ Something, such as a sound, that is described as plangent is loud, deep, and often expressive of sadness or suffering. _Syn_ plaintive _The campers were awoken by the plangent howl of a coyote off in the distance._  
 __plank__ _n_ :three::hammer: _In his Wall Street Journal interview, Trump added a new plank: bringing the nation together._ _Anti-austerity planks._ __4__ Planks are exercises for strengthening your stomach and back muscles. They involve holding your body straight and horizontal with your hands or elbows and toes or knees on the floor. _For over an hour, I did planks, squats, lunges and crunches._  
 __plankton__ _n_  
 __plano__ _adj_ Having a flat surface. A corrective lens with a power of zero is called a _plano lens_. These lenses are used when one or both eyes do not require correction of a refractive error. Some people with good natural eyesight like to wear eyeglasses as a style accessory, or want to change the appearance of their eyes using novelty contact lenses. _Plano sunglasses._  
@@ -14073,12 +14077,12 @@ __plat__ _vt_ (platted)
 __plate armor__ _n_ :two::hammer:  
 __plate__ _n_ :two: __1a__ A smooth flat thin piece of material. __b__ Forged, rolled, or cast metal in sheets usually thicker than ¹/₄ inch (6 millimeters). __c__ A very thin layer of metal deposited on a surface of base metal by plating. __d__ One of the broad metal pieces used in armor; also armor of such plates. _Linked plates._ __9__ _Baseball_ Home plate.  
 __plate-glass__ _n_  
-__plateau<sup>1</sup>__ _n_ :two::hammer:  
+__plateau<sup>1</sup>__ _n_ :three::hammer:  
 __plateau<sup>2</sup>__ _v_ :three: (plateaued, plateauing) To reach a stable level; level off.  
 __Plateresque__ _adj_ :two: Of or relating to a style of 16th-century Spanish architecture characterized by lavish ornamentation in a variety of motifs, especially Gothic, Renaissance, and Moorish.  
 __plating__ _n_ _It’s your armor plating._  
 __platinum__ _n_ :mega: /ˈplætənəm/  
-__platitude__ _n_ :five::hammer: (platitudes)  
+__platitude__ _n_ :six: (platitudes) A trite or banal remark or statement, especially one expressed as if it were original or significant. _Syn_ banality, cliche, commonplace, bromide  
 __platoon__ _v_ :two::hammer:  
 __platter__ _n_ A large shallow usually oval dish or plate, used for serving food.  
 __platypus__ _n_ :two::hammer: _Internet platypus pranks._ :es: ornitorrinco  
@@ -14124,6 +14128,7 @@ __plenty__ _n_ :two::hammer: _There are plenty of shops._
 __pleonastic__ _adj_ Characterized by the repetition of the same sense in different words. _Syn_ redundant, tautological _“A true fact” and “a free gift” are pleonastic expressions._  
 __plethora__ _n_ :nine::m::mega: /ˈplɛθərə/ Extreme excess.  
 __pleurisy__ _n_ _He pounded Frost’s back hard enough to cause pleurisy._  
+__plexus__ _n_ A structure in the form of a network, especially of nerves, blood vessels, or lymphatics. _Syn_ rete  
 __pliable__ _adj_ _The pliable GOP._  
 __pliant__ _adj_ :four: Easily bent or flexed; pliable. _Syn_ bendable _A pliant young waitress._  
 __plied__ _v_ :three::hammer: _She had been plied with opiates and wine._ _He plied Tom with questions._  
@@ -14134,7 +14139,7 @@ __plight<sup>2</sup>__ _v_ __1__ To become engaged to marry. __2__ To promise. _
 __plinian__ _adj_  
 __plinking__  
 __plinth__ _n_ :four::hammer: (plinths)  
-__plod__ _v_ :nine::m: (plodded, plodding) __1__ To walk heavily, slowly, and with difficulty. _Syn_ slog, slop, toil, trudge, wade _Plod to the shower._ __2__ To do tedious, laborious, and sometimes menial work. _Syn_ drudge, grub, slave, slog. _Average people go to work and plod through the day._  
+__plod__ _v_ :nine::m: (plodded, plodding) __1__ To walk heavily, slowly, and with difficulty. To walk heavily or move laboriously; trudge. _Syn_ slog, slop, toil, trudge, wade _Plod to the shower._ __2__ To do tedious, laborious, and sometimes menial work. _Syn_ drudge, grub, slave, slog. _Average people go to work and plod through the day._  
 __plodder__ _n_  
 __plodding__ _adj_  
 __plonk__ _v_ :two::hammer: (plonked)  
@@ -14181,13 +14186,13 @@ __pneumonia__ _n_ :two::mute:[~~p~~neumonia]:hammer:
 __pneumothorax__ _n_ (_n pl_ pneumothoraxes or pneumothoraces) Accumulation of air or gas in the pleural cavity, occurring as a result of disease or injury, or sometimes induced to collapse the lung in the treatment of tuberculosis and other lung diseases.  
 __po-po__ _n_ _slang_ The police or a police officer. _Watch your back, Tom—po-po coming up behind us. They got a po-po stationed at the front._  
 __po’-boy sandwiches__  
-__poach__ _v_ :four::hammer: (poached, poaching) _Their signs will not be electronically poached._  
+__poach__ _v_ :five::hammer: (poached, poaching) _Their signs will not be electronically poached._  
 __poacher__ _n_ :seven: __1__ (Cookery) A metal pan with individual cups for poaching eggs. __2__ One who hunts or fishes illegally on the property of another. _A chimpanzee that lost its mother to poachers._ _Tracking rhino poachers in Nepal._  
 __poaching__ _n_ :two: Cooking in simmering liquid. _Poaching has become socially unacceptable._  
 __pocket change__  
 __pocket rat__ _n_ Any of various rodents with cheek pouches.  
 __pocket square__ _n_ A handkerchief worn in a breast pocket as an accessory to a suit.  
-__pocket<sup>1</sup>__ _n_ :three: __7__ _games_ One of the pouchlike receptacles at the corners and sides of a billiard or pool table. :es: tronera __11__ (football) The area a few yards behind the line of scrimmage that blockers attempt to keep clear so that the quarterback can pass the ball. _Standing tall in the pocket._  
+__pocket<sup>1</sup>__ _n_ :four: __7__ _games_ One of the pouchlike receptacles at the corners and sides of a billiard or pool table. :es: tronera __11__ (football) The area a few yards behind the line of scrimmage that blockers attempt to keep clear so that the quarterback can pass the ball. _Standing tall in the pocket._ __11a__ A small, isolated, or protected area or group: _pockets of dissatisfied voters._ In the sentence “pockets of heavy rain,” “pockets” refers to small, isolated areas or regions where heavy rain is occurring.  
 __pocket<sup>2</sup>__ _v_  
 __pocketbook__  
 __pockmark__ _n_ __1__ _Pathology_ (pock) A a pitted scar left on the skin after the healing of a smallpox or similar pustule. __2__ Any pitting of a surface that resembles or suggests such scars.  
@@ -14227,7 +14232,7 @@ __polarizing__
 __Pole__ _n_ _(pl. Poles)_ A native or inhabitant of Poland, or a person of Polish descent.  
 __pole__ _v_  
 __polecats__ _n_  
-__polemic__ _n_ A controversial argument, especially one refuting or attacking a specific opinion or doctrine. _Syn_ tirade, diatribe _He launched into the polemic, not caring whom he offended or won over, intent only on getting his point across._  
+__polemic__ _n_ :two: /puh-LEM-ik/ __1__ A _polemic_ is a strong written or spoken attack against someone else’s opinions, beliefs, practices, etc. _Her book is a fierce polemic against societal inequalities._ __2__ A controversial argument, especially one refuting or attacking a specific opinion or doctrine. _Syn_ tirade, diatribe _He launched into the polemic, not caring whom he offended or won over, intent only on getting his point across._  
 __polemology__ _n_ The study of war.  
 __police academy__  
 __police state__ _n_ _A society log run as a police state._  
@@ -14255,6 +14260,7 @@ __poltergeist__ _n_ :mega:
 __poltroon__ _n_ An abject coward. _Syn_ craven, recreant  
 __polyadic__  
 __polyamorous__  
+__polyandry__  
 __polyglot__ _adj, n_ /ˈpɒl iˌglɒt/  
 __polyhistor__ _n_ :two: /pol-ee-HIS-tuhr/ /ˌpɒlɪˈhɪstɔː/ (polyhistorian) A person of great or wide learning. _Syn_ polymath  
 __polymath__ _n_ :seven::hammer: [:scroll: Greek polumathēs : polu-, poly- + manthanein, math-, to learn]  
@@ -14343,10 +14349,12 @@ __posh__ _adj_ :six: Things that are posh are swanky, fancy, and high-class. Pos
 __posit<sup>1</sup>__ _vt_ :nine::m::hammer::pencil2: (posited) _BYU has posited themselves well._ __2__ To lay down or assume as a fact or principle; postulate.  
 __posit<sup>2</sup>__ _n_ :astonished::two: Something that is posited; an assumption; postulate. A proposition that is accepted as true in order to provide a basis for logical reasoning. _Syn_ postulate  
 __posse__ _n_ :three: /PAH-see/ A posse is a group of friends, or a group of people who are gathered together for a particular purpose. Posse also refers to a group of people who were gathered together by a sheriff in the past to help search for a criminal. _A posse clad._  
+__possession__ _n_ :pencil2::mega: /pəˈzɛʃən/  
 __possum > play possum__ _v informal_ :seven: To pretend to be ignorant, asleep, or deal in order to deceive somebody. _To play possum._ _He’d been playing possum._  
 __possum__ _n_ :five::hammer: _Possums in New Zealand are known to destroy plants, birds’ nests, and eat birds’ eggs and invertebrates, posing a serious threat to forests and native wildlife._ :es: zarigüeya  
 __post hoc__ _adj, adv, n_ :two::hammer:  
 __post-war groove__  
+__postal__ _adj_ /POHS-tuhl/ __1__ Relating to the mail or the post office. __2__ Very angry, insane, or violent.  
 __postbellum__ _adj_ :two: Of, relating to, or characteristic of the period following a war and especially following the American Civil War. _Postbellum years._  
 __postcode lottery__ _n_ :two::hammer:  
 __poster boy__ _n_ :two::hammer:  
@@ -14422,6 +14430,7 @@ __practical joke__ _n_ :two::hammer:
 __practice__ _n_ _A pediatrics practice._  
 __practitioner__ _n_ _GTD practitioner._  
 __Praetorian__  
+__praise__ _vt_  
 __pram suit__ _n_  
 __pram__ _n_ :three::hammer:  
 __prance__ _v_ :eight: (pranced, prancing) __1__ To walk with a lofty proud gait, often in an attempt to impress others. _Syn_ strut, swagger, tittup, sashay, cock, ruffle _On the floor exercise, Wieber prances, tumbles and smiles._ __2__ Spring forward on the hind legs. _The horse pranced._ _Prancing reindeer._ __3__ Cause (a horse) to bound spring forward. __4__ Ride a horse such that it springs and bounds forward.  
@@ -14470,6 +14479,7 @@ __prefab__ _n_ :two::hammer: (prefabs) _Prefab vacations._
 __pregnant__ _adj_ __2a__ Weighty or significant; full of meaning: _a conversation occasionally punctuated by pregnant pauses._  
 __prehensile__ _adj_ :pencil2:  
 __prehension__ _n_ The act of gripping something firmly with the hands (or the tentacles). _Syn_ taking hold, grasping, seizing  
+__prejudicious__ _adj_ :astonished: Causing harm or injury. _Syn_ damaging, detrimental, prejudicial  
 __prelate__ _n_ :three: A high-ranking member of the clergy, especially a bishop.  
 __preliminary__  
 __premier__ _adj_ :four::hammer: _Chicago is one of the premier dining destinations in the country._ _Premier opportunities for advertisers._  
@@ -14532,18 +14542,19 @@ __preternatural__ _n_
 __pretty penny__ _n_ _informal_ A considerable sum of money: _I paid a pretty penny for that ring._  
 __pretzel__ _v_ Twist, bend, or contort. _He found the snake pretzeled into a tangle of knots._  
 __prevail__ _vi_ :six::hammer: (prevails)  
-__prevalence__ _n_ :two: The total number of cases of a disease in a given population at a specific time.  
+__prevalence__ _n_ :three: The total number of cases of a disease in a given population at a specific time.  
 __prevalent__ _adj_ :two::hammer:  
 __prevaricate__ _v_ :five::dart: To speak falsely, misleadingly, or so as to avoid the truth; deliberately misstate or create an incorrect impression; equivocate; lie. _Syn_ beat around the bush, palter, tergiversate  
 __preventable__  
 __preventative__ _adj_ :two: Another form of _preventive_. _Preventative antibiotics._  
 __prevention is better than cure__ _prov_ It is better to try to keep a bad thing from happening than it is to fix the bad thing once it has happened. :es: _más vale prevenir que curar_  
 __preventive__ _adj_ _Preventive and corrective maintenance._  
+__preview__ _n, v_ /ˈpriˌvyu/ /prē′vyo͞o′/  
 __prey__ _v_ :two::hammer: (preyed) _A sniper who prays on victims in broad daylight._  
 __prez__ _n informal_ (Prez) President.  
-__priapic__ _adj_ :two: __1__ A less common word for _phallic_. __2__ Characterized by or exhibiting unrestrained or excessive male sexual activity.  
+__priapic__ _adj_ :three: __1__ Of, relating to, or resembling a phallus; phallic. A less common word for _phallic_. __2__ Characterized by or exhibiting unrestrained or excessive male sexual activity.  
 __price point__ _n_ :two::hammer: _The best in price point._  
-__price tag__ _n_ :three::hammer: _Success always comes with a price tag._  
+__price tag__ _n_ :four::hammer: _Success always comes with a price tag._  
 __price__ _vt_ __1__ To fix or establish a price for: _shoes that are priced at sixty dollars._  
 __pricey__ _adj_ :two: Expensive. _Syn_ costly, dear  
 __prick-tease__ _n_ :dart: (prick-teaser) A woman who is sexually provocative but refuses to engage in sexual activity. _She was a first-class prick-tease._  
@@ -14582,6 +14593,7 @@ __primp__ _v_ To dress (oneself), esp in fine clothes; prink.
 __primrose__ _n_  
 __princeling__ _n_ (princelet, princekin) A young, subordinate, or minor prince.  
 __principled__ _adj_ _A principled foundation._  
+__Pringle__ _n_ A Scottish surname.  
 __prink__  
 __prior<sup>1</sup>__ _adj_ :four::hammer: _Continued from the prior page._ _His data show 30% fewer arrest citations compared to the 15 months prior._ _Make sure that flight controls move prior to flight._ _The only relevant hx is WPW ablation 20 years prior._  
 __prior<sup>2</sup>__ _adv_  

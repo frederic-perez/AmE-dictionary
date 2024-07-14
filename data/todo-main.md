@@ -198,32 +198,6 @@ __perjury__ _n_
 __personal column__ _n_  
 __perspicacious__ _adj_  
 __pertussis__ _n_ The technical name for _whooping cough_.  
-__phony__ _adj_  
-__photophobia__ _n_ /fo-tuh-FO-bee-uh/ An abnormal sensitivity to light.  
-‌__pilgrim__ _n_ /ˈpɪl grɪm, -grəm/  
-__pinafore__ _n_ A sleeveless garment similar to an apron, worn especially by small girls as a dress or an overdress. _Syn_ jumper, pinny  
-__pincer__ _n_ A grasping structure on the limb of a crustacean or other arthropods. _Syn_ chela, nipper, claw  
-__pit pony__ _n_ A _pit pony_, otherwise known as a _mining horse_, was a horse, pony or mule commonly used underground in mines from the mid-18th until the mid-20th century. The term “pony” was sometimes broadly applied to any equine working underground. _The coal mines used pit ponies._  
-__pitch-perfect__ _adj_ /pich-PUHR-fikt/ [:scroll: From pitch, from Old English pic + perficere (to finish), from per- (across) + facere (to do)] __1__ Perfect in every way, especially in being sensitive to a particular situation. __2__ Right tone, pitch, mood, etc.  
-__plangent__ _adj_ /PLAN-junt/ Something, such as a sound, that is described as plangent is loud, deep, and often expressive of sadness or suffering. _Syn_ plaintive _The campers were awoken by the plangent howl of a coyote off in the distance._  
-__plateau__ _n_  
-__platitude__ _n_ A trite or banal remark or statement, especially one expressed as if it were original or significant. _Syn_ banality, cliche, commonplace, bromide  
-__plexus__ _n_ A structure in the form of a network, especially of nerves, blood vessels, or lymphatics. _Syn_ rete  
-__plod__ _v_ To walk heavily or move laboriously; trudge.  
-__poach__ _v_  
-__pocket__ _n_ __11a__ A small, isolated, or protected area or group: _pockets of dissatisfied voters._ In the sentence “pockets of heavy rain,” “pockets” refers to small, isolated areas or regions where heavy rain is occurring.  
-__polemic__ _n_ /puh-LEM-ik/ A _polemic_ is a strong written or spoken attack against someone else’s opinions, beliefs, practices, etc. _Her book is a fierce polemic against societal inequalities._  
-__polyandry__  
-__possession__ _n_ :pencil2::mega: /pəˈzɛʃən/  
-__postal__ _adj_ /POHS-tuhl/ __1__ Relating to the mail or the post office. __2__ Very angry, insane, or violent.  
-__praise__ _vt_  
-__prejudicious__ _adj_ :astonished: Causing harm or injury. _Syn_ damaging, detrimental, prejudicial  
-__preposterous__ _adj_  
-__prevalence__  
-__preview__ _n, v_ /ˈpriˌvyu/ /prē′vyo͞o′/  
-__priapic__ _adj_ __1__ Of, relating to, or resembling a phallus; phallic. __2__ Characterized by or exhibiting unrestrained or excessive male sexual activity.  
-__price tag__  
-__Pringle__ _n_ A Scottish surname.  
 __process server__ _n_ :dart::two: A person who serves subpoenas or other legal documents, esp. those requiring appearance in court.  
 __profligate__ _adj_ :dart:  
 __proliferate__ _v_ /pruh-LIF-uh-rayt/ To increase quickly in number or amount.  
