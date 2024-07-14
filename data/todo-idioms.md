@@ -1,8 +1,15 @@
+__(something) won’t get (someone) anywhere__ Something, typically a certain behavior, will not help someone progress or succeed in any way.  
 __a kick in the butt__ A forceful gesture or message of some kind (usually delivered with good intentions) that acts as motivation to the (previously unmotivated) recipient. _These days, teenagers seem to need a swift kick in the butt to convince them to do well in school._  
+__be (someone’s) call__ To be ultimately left up to someone to decide. _I don’t really care what movie we see—it’s your call._  
+__be (the) bomb__ To be excellent, extremely entertaining, or of very high quality. _This steak I ordered is bomb!_ _I’m not usually a fan of action films, but that one was the bomb!_  
+__be not just another pretty face__ To have distinguishing achievements, intelligence, skills, or abilities beyond what was or may have been assumed.  
 __black bag job__  
 __blah__ __2__ _adj_ Displeased, dissatisfied, or dejected. _I’m just feeling kind of blah after reading that negative review of my play._  
 __bristle at something__ :dart: [:scroll: Alludes to a dog or cat raising the hair on its back in anger or as a threat] To show sudden anger or other negative response to something. _She bristled at the suggestion._  
 __catch up on (something)__  
+__cost the earth__ To be exorbitantly expensive.  
+__dad bod__ _slang_ [:scroll: From _dad_ + _bod_, an abbreviation of _body_] A physique characterized by moderate chubbiness; the stereotypical physique of a middle-aged dad. The phrase is often used affectionately or approvingly. _Aww, I don’t care that he’s a bigger guy—I like guys with a dad bod._  
+__faster than you can say Jack Robinson__ :dart: Extremely quickly; almost immediately; suddenly or in a very short space of time. _Once I’m finished with high school, I’ll be outta this two-bit town faster than you can say Jack Robinson!_  
 __find/take shelter__ To go somewhere for cover and protection from danger, bad weather, etc. _They found/took shelter in a cave during the storm._  
 __flip-flop__ __1__ _v_ To completely change one’s opinion or stance. Primarily heard in US.  
 __from a mile away__  
@@ -12,6 +19,7 @@ __get it (all) together__
 __get on (one’s) nerves__ To irritate, grate on, or exasperate one.  
 __get past (someone or something)__  
 __get real__ :dart: To realize or accept the truth; to be realistic or practical. Often used as an imperative.  
+__get swole__ _slang_ To develop or pump up one’s muscles, that is, until they look swollen. _A: “You coming to club with us tonight?” B: “Yep, just want to hit the gym to get swole first.’_  
 __get the best of (someone or something)__ To overwhelm, take control, or gain an advantage over someone or something.  
 __get the boot__  
 __get the picture__  
@@ -100,6 +108,7 @@ __in the long run__ Over a relatively long or extended length of time in the fut
 __in the making__  
 __in the midst of (something)__  
 __in the mix__  
+__in the next breath__ (especially when speaking) In or at the very next moment or opportunity; in a very short space of time. _The boss spent nearly an hour talking about how we had to cut spending in the office, but in the next breath, he was telling his secretary to upgrade his company car._  
 __in the nick of time__  
 __in the pipeline__ In progress or about to be started or implemented.  
 __in the pocket of (someone)__ Under the direct control or influence of someone or some group, especially through illegal or unscrupulous financial means. _It’s pretty obvious that the country’s legislators are all in the pocket of corporations._  
@@ -109,10 +118,14 @@ __in the sticks__ In the countryside, especially in a rustic or particularly uns
 __in the unlikely event (that) (something) happens__ If a very improbable outcome turns out to be the case.  
 __in the view of (someone)__  
 __in the wake of (something)__ :dart:  
+__in the wild__ In naturally occurring conditions or environments.  
 __in the works__  
 __in virtue of (something)__ Due to something; because of something; by reason of something. _In virtue of your years of hard work and experience in the company, we think you would be well-suited to a managerial role within the company._  
 __in(to) shape__ In good, robust health; strong or fit. _Boy, I really need to get into shape. Ten years working behind a desk have given me quite a belly!_  
+__incumbent (up)on (someone)__ Imposed or expected as an obligation, duty, or requirement on someone.  
 __ink__ _slang_ __4__ _v_ To sign one’s name to (something); to formalize and seal something, as a deal or contract. _Before we ink the contract, I want my lawyer to have a look at the details._  
+__ink-slinger__ _slang_ A writer, especially one who produces a large amount of low-quality material for a living.  
+__inner circle__  
 __insofar as__ :two: To such an extent that; to the degree that. _Insofar as money is concerned, our project will be completely funded by private donations._  
 __iron grip__ __2__ Total, dominant control (over someone or something).  
 __it goes without saying__  
@@ -120,16 +133,20 @@ __it remains to be seen__ Something is not yet clear, certain, or known.
 __it’s all good__ :dart: A phrase used to express general approval, unconcern, or disinterest.  
 __jabber__ :two: __1__ _v_ To chat casually about someone or something. _I’ve got some free time today, so let’s sit and jabber for a bit._  
 __jacked up__  
+__jaw away__ To talk incessantly and/or at great length. _I became so bored while the professor jawed away at us that I nearly fell asleep in the middle of the lecture._  
 __jeer at (someone or something)__ To mock, taunt, or scoff at someone or something. _Everyone in school jeered at me for wearing a pink sweater._  
 __jigaboo__ _n_ (ethnic slur) Extremely offensive name for a Black person.  
+__Jill of all trades(, master of none)__ :dart:  
 __JK__ An initialism of “just kidding,” used especially in text messages and online communications to express that one was not being serious about their previous statement. Variously written as “JK,” “J.K.,” or “J/K,” in either uppercase or lowercase letters. _Yeah, def considering working on my uncle’s farm 4 the summer. haha jk lol_  
 __join hands__ __2__ By extension, to work together to achieve some goal.  
 __join the ranks (of something)__ To become a part or member of a large group or organization.  
+__jolly (one) along__ :dart: To encourage one (to do something), especially in a positive, cheerful manner. _I was getting disheartened writing my first novel, but my husband jollied me along to finish it._  
 __juice head__  
 __juicer__ _n_ (juicehead) A heavy drinker; a drunkard. _The tavern is always filled with juicers on Friday night._  
 __jump before (one) is pushed__ To take action willingly or proactively before being forced to do it.  
 __jump in__  
 __jump ship__ (abandon ship) _Nearly all of (chatbot) Pi’s parent company, Inflection AI, decided to jump ship just 10 months after Pi’s launch._  
+__junkyard dog__ An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase “meaner than a junkyard dog.” _Though he’s always polite when he’s in public, Tiffany’s husband is meaner than a junkyard dog behind closed doors._  
 __just like that__  
 __keen on (someone or something)__  
 __keep (one’s) slate clean__ To maintain an impeccable record; to refrain from committing any mistakes or wrongdoings.  
@@ -139,7 +156,10 @@ __keep (someone or something) in check__
 __keep (someone) in the loop__ To keep someone informed about and/or involved in something, such as a plan or project, especially that which involves or pertains to a specific group.  
 __keep (something) straight (in one’s mind/head)__ To be able to understand something clearly and comprehensively; to keep the details of something clear in one’s mind.  
 __keep (up) (one’s) end of the bargain__ :two::hammer:  
+__keep a cool head__ To maintain a calm demeanor and think clearly in a difficult, stressful, or troubling situation. _I know you’re anxious about this midterm exam, but just remember what we’ve gone over and try to keep a cool head._  
 __keep a lid on (something)__ :two::hammer:  
+__keep a sharp lookout (for something or someone)__ To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep a sharp lookout._  
+__keep an eye peeled (for something or someone)__ To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep an eye peeled._ _Keep an eye peeled for a Christmas present we could give your mother._  
 __keep pace__  
 __keep the lid on (something)__  
 __keep up__  
@@ -209,6 +229,7 @@ __more often than not__
 __move mountains__ :dart: To do or achieve something that is incredibly difficult.  
 __move the dial__  
 __move the needle__ _I am concentrating on what moves the needle most._  
+__mug shot__ __1__ An official photograph taken of someone being brought into police custody, usually characterized by the person wearing a grim or blank expression on their face.  
 __mugger__  
 __mumbo jumbo__  
 __nada__  
@@ -225,6 +246,7 @@ __no stranger to (something)__
 __noblesse oblige__ /noh-BLESS-uh-BLEEZH/ Noblesse oblige refers to the idea that people who have high social rank or wealth should be helpful and generous to people of lower rank or to people who are poor.  
 __not a chance__ :dart: (There is) no possibility (that that will happen). _You? Beat me? At ping pong? Not a chance!_  
 __not have all day__ To be in a rush; to not have much or any time to spare. Usually used in the present tense. _How long is this repair job going to take? I don’t have all day!_  
+__not just another pretty face__ Having distinguishing achievements, intelligence, skills, or abilities beyond what was or may have been assumed. (The assertion that someone is also very attractive is sometimes meant to be humorous rather than literal.) _Yeah, I know how to fix your computer. I’m not just another pretty face, you know!_  
 __not sleep a wink__  
 __not so fast__ :two::hammer:  
 __not worth the paper it’s written on__ Useless; unimportant; insignificant.  
@@ -242,6 +264,7 @@ __on (one’s) (own) terms__ In the manner or timeframe that one prefers.
 __on (one’s) watch__  
 __on (someone’s) behalf__  
 __on a daily basis__ Once or more each day.  
+__on a lark__ On a whim or fancy; for fun or as a joke.  
 __on a mission__ :three::hammer:  
 __on a roll__  
 __on a second thought__ An idiomatic expression that means to reconsider or reevaluate something after initial consideration. It implies that one has had a change of mind or a new perspective after giving more thought to a particular issue or decision.  
@@ -278,6 +301,7 @@ __outed__
 __over the moon__ Extremely happy. _I’ve been over the moon ever since I got engaged—I just can’t stop looking at my ring!_  
 __paint a (some kind of) picture (of something)__ :two::hammer:  
 __paint the town red__  
+__palooka__ _n_ /pəˈlukə/ (paluka) A stupid person; an unskilled prizefighter; any mediocre person. (Also a term of address. From the name of the comic-strip prizefighter Joe Palooka.) _Tell that stupid palooka to sit down and shut up._  
 __paper tiger__  
 __paper trail__ Physical or digital documentation of a person’s activities.  
 __part ways (with one)__  
@@ -285,6 +309,7 @@ __pave the way (for someone or something)__ :dart:
 __peanut gallery__  
 __peek out__  
 __pepper with (something)__  
+__perp__ _n_ /pɚp/ [:scroll: Short for perpetrator, from perpetrare (to carry out), from per- (through) + patrare (to bring about), from pater (father)] One who commits a crime or is accused of committing one. A perpetrator; someone who does something, such as committing a crime. _The perp left a good set of prints on the doorknob._  
 __photobomb__  
 __pick up on (something)__ :dart: To detect or notice something; to become alert to or aware of something. _There are a lot of mature jokes in this cartoon that I never picked up on as a kid._  
 __picture perfect__  
@@ -391,6 +416,7 @@ __single out__
 __slap in the face__ Words or actions that have offended or otherwise upset someone. _It was a real slap in the face when she got promoted over me, especially after the amount of work I did on that last project._  
 __slice of the pie__  
 __slowly and surely__  
+__snatch (someone) from the jaws of death__ To rescue someone at the last moment from near or certain death.  
 __snazzy__ Particularly elegant, dazzling, classy, or fancy in appearance. _Wow, that’s a snazzy new suit you’ve got on! Big meeting today or something?_ _She runs one of the snazziest clubs in town._  
 __so much so that__  
 __soft spot__  
@@ -398,6 +424,7 @@ __something of sorts__ An inferior example of a kind of something.
 __sound the alarm__  
 __spic and span__ (spick and span) Totally clean and/or organized. _I plan to spend the day cleaning so that this place is spick and span when my mother-in-law arrives._  
 __spill the tea__  
+__swole__ _slang_ _adj_ /SWOHL/ Very muscular (i.e., swollen with muscles). _I always go to the gym right before I go to the club so I look more swole._  
 __take a stand__  
 __take a/the bullet (for someone)__  
 __take center stage__ :two: To be the main focus.  
