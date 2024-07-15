@@ -98,31 +98,6 @@ __incognito__ _adj, adv_ /in-kahg-NEE-toh/
 __inebriant__ _n_ An intoxicant. _Syn_ alcoholic beverage, intoxicant, alcohol  
 __injunction__ _n_ :two::hammer:  
 __inner workings__ _n pl_ The parts (of something) that are only known by the people who work on it. _He wanted to experience the inner workings of the political campaign._  
-__innocuous__ _adj_  
-__instigate__ _v_ /IN-stuh-gayt/ To _instigate_ something is to cause it to happen or begin.  
-__invaginate__ _v_  
-__invective__ _n_ Denunciatory or abusive language. _Syn_ vituperation, vitriol  
-__invertebrate__ _adj_ Lacking a backbone or spinal column; not vertebrate. _Syn_ spineless  
-__inviolable__ _adj_ /in-VYE-uh-luh-bul/  
-__irrelevant__ _adj_  
-__ism__ _n_ /ˈɪz əm/  
-__jackassery__ _n_ /ˈdʒækˌæsərɪ/ Foolish behaviour or stupidity.  
-__jacksmith__ _n_  
-__Janus word__ _n_  
-__jaunt__ _n_ /dʒɔnt, dʒɑnt/ A short journey, especially one taken for pleasure.  
-__jeers__ _n_  
-__jetty__ _n_ _The boats were lined up on a jetty._  
-__jollop__ _n_ _informal Brit_ A cream or unguent.  
-__joviality__  
-__juggernaut__ _n_ An overwhelming, advancing force that crushes or seems to crush everything in its path. _Syn_ steamroller  
-__jurisprudence__ _n_ The philosophy or science of law. _Syn_ legal philosophy, law  
-__juror__  
-__kangaroo word__  
-__kazoo__ _n_  
-__keen__ _adj_  
-__ken__ _n_ /KEN/ Ken refers to someone’s range of perception, knowledge, or understanding, and is most often used in phrases like “beyond/outside/within one’s ken.”  
-__kickback__ _n_  
-__kindle__ _v_ __1__ To set alight or start to burn.  
 __kindling__ _n_ :dart:  
 __kinkeeping__  
 __kombucha__ _n_  

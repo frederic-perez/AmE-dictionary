@@ -9780,7 +9780,7 @@ __inlay<sup>2</sup>__ _n_ :three::hammer: _Inlay photo._ _Mother-of-pearl inlays
 __innards__ _n_ _informal_ :four: __1__ Internal bodily organs; viscera. __2__ The inner parts, as of a machine. _The pictures adorn the innards of each chapter._  
 __innate__  
 __innit__ _contraction_ _adv_ _slang_ A contraction of _isn’t it?_, used to invite agreement with a statement: _it’s a funny old world, innit?_  
-__innocuous__ _adj_ :two: Having no adverse effect. _Syn_ harmless _That mushroom may look innocuous, but it is in fact deadly._  
+__innocuous__ _adj_ :three: Having no adverse effect. _Syn_ harmless _That mushroom may look innocuous, but it is in fact deadly._  
 __innumerate__  
 __inobvious__  
 __inoculate__ _v_  
@@ -9824,7 +9824,7 @@ __instability__ _n_ :three::hammer::pencil2:
 __installment__ _n_ :three::dart: A part of a broadcast serial. _Customers can pay monthly installments of $15._ _In final installment, celebrity chef grills up some steak frites._  
 __instant message__ _n_  
 __instating__  
-__instigate__ _v_ Provoke or stir up. _Syn_ incite  
+__instigate__ _v_ :two: /IN-stuh-gayt/ To _instigate_ something is to cause it to happen or begin. Provoke or stir up. _Syn_ incite  
 __instigator__ _n_  
 __instill__ _vt_ :nine: (_BrE_ instil; instilled) Inculcate, introduce; insinuate; infuse slowly into the mind or feelings: _instill a sense of fairness in a child._ _She instilled an enduring sense of family._ _This idea is instilled in kids._  
 __institute__ _v_  
@@ -9906,19 +9906,22 @@ __inundation__ _n_ :astonished: An overwhelming number or amount. _Syn_ deluge, 
 __inure__ _v_ :two::hammer: (inured)  
 __inured__ _adj_ Made tough by habitual exposure. _Syn_ hardened _Doctors become inured to death._  
 __inurnment__  
+__invaginate__ _v_  
 __invalidate__ _v_  
 __invalidating__ _adj_ _Invalidating people._  
 __invariably__ _adj, adv_ _You’ll invariably notice it._  
-__invective__ _n_ :six: /in-VEK-tiv/ Invective means “insulting or abusive language.” It can also refer to an abusive expression or speech. _Her opening campaign speech was, to the shock of everyone present, filled with invective that contrasted sharply with the expectations of those in attendance._  
+__invective__ _n_ :seven: /in-VEK-tiv/ Invective means “insulting or abusive language.” It can also refer to an abusive expression or speech. Denunciatory or abusive language. _Syn_ vituperation, vitriol _Her opening campaign speech was, to the shock of everyone present, filled with invective that contrasted sharply with the expectations of those in attendance._  
 __inveigh__ _v_ :dart::five: /in-VAY/ To give vent to angry disapproval; protest vehemently. To protest or complain bitterly or vehemently. _Inveigh_ is a formal word that means “to protest or complain bitterly or vehemently.” Like its synonym _rail_, it’s typically used with against. _Students inveighed against the new dress code policy._ _Syn_ rail _The detective had, indeed, good reasons to inveigh against the bad luck which pursued him._  
 __inveigle__ _v_ :four::dart: __1__ To win over by wiles. To win over by coaxing, flattery, or artful talk. _Syn_ cajole, coax, sweet-talk, wheedle _The salesman inveigled him so successfully that he paid twice the original price._ __2__ To acquire by ingenuity or flattery: _inveigled her way into a promotion._ _Syn_ wangle  
 __inverness__ _n_  
+__invertebrate__ _adj_ Lacking a backbone or spinal column; not vertebrate. _Syn_ spineless  
 __invest__ _v_ :two::hammer: _The Black Prince could be starved out if the French chose to surround and invest him._  
 __investiture__ _n_ /in-VES-ti-choor/chuhr/ [:scroll: From Latin investire (to cloth, install), from vestis (garment).] A formal ceremony in which someone is given an official title, rank, honors, etc.  
 __inveterate__ _adj_ :dart::eight: /in-VET-uh-rut/ Persisting in an ingrained habit. _Syn_ chronic, confirmed, habitual _He was an inveterate gambler, though a poor loser._ _Two inveterate peculators._  
 __invigorate__ _vt_  
 __invigorating__ _adj_  
 __invincible__ _adj_ /in-VIN-suh-bul/  
+__inviolable__ _adj_ /in-VYE-uh-luh-bul/  
 __inviolate__ _adj_ Free from violation, injury, desecration, or outrage. _Syn_ intact, whole, untouched, undisturbed, unsullied, unpolluted, unstained, undefiled _The old America had only one foreign policy, and that was to hold inviolate the Monroe doctrine._  
 __invite__ _n informal_ An invitation.  
 __invoice__ _v_  
@@ -9953,6 +9956,7 @@ __ironman__ _n_ :mega::dart: (iron man) A strong man of exceptional physical end
 __irony__ _n_ In rhetoric, the notoriously confusing word irony means to use words to mean the opposite of their literal meaning. Example: Ashley said it was a beautiful day while drying off from the drenching rain. (Ashley ironically referred to poor weather as “beautiful.”)  
 __irredeemably__  
 __irrefutable__ _adj_ _Irrefutable evidence._  
+__irrelevant__ _adj_  
 __irreplaceable__  
 __irrepressible__  
 __irrespective__ _adj_  
@@ -9964,6 +9968,7 @@ __island__
 __islander__  
 __isle__ _n_ :mega:  
 __islet__ _n_ :three::hammer: _Transplanting islet cells into the liver._  
+__ism__ _n_ /ˈɪz əm/  
 __isobar__ _n_  
 __issuance__ _n_ :three::hammer:  
 __issue<sup>1</sup>__ _n_ :two: __6__ Offspring; progeny. :es: descendencia _She died without issue._  
@@ -9996,7 +10001,7 @@ __Jack the Ripper__ _n_ _She was a fucking stripper, a Jack the Ripper as the sl
 __jack-o’-lantern__ _n_ :two::hammer:  
 __jack-straw__ _n_ _An exchange of fiefs as complicated as a game of jack-straw._  
 __jackass__ _n_ :two: __1__ (Animals) A male donkey. __2__ A stupid person; fool.  
-__jackassery__ _n_ /ˈdʒækˌæsərɪ/ Foolish behavior or stupidity.  
+__jackassery__ _n_ /ˈdʒækˌæsərɪ/ :two: Foolish behavior or stupidity.  
 __jacket potatoes__ _n_  
 __jackhammer__  
 __jackpot__  
@@ -10004,6 +10009,7 @@ __jackrabbit<sup>1</sup>__ _n_ :two: /JAK-rab-it/ [:scroll: The word jackrabbit 
 __jackrabbit<sup>2</sup>__ _vi_ To move or begin to move very quickly.  
 __jackrabbit<sup>3</sup>__ _adj_ Moving or beginning to move very quickly.  
 __jacks__ _n_ _functioning as singular_ A game in which jackstones are thrown and picked up in various groups between bounces of a small rubber ball. _Syn_ knucklebones, jackstones  
+__jacksmith__ _n_  
 __Jacob’s ladder__ _n_  
 __Jacquerie__ _n_  
 __Jacques__ _n_ :four::hammer: _The onslaught of the Jacques._  
@@ -10031,7 +10037,7 @@ __Jane__ _n_ _slang chiefly US_ A girl or woman. _Regular Janes and Joes._
 __jangle__ _v_ :two: (jangled, jangling) __1__ To make a noise by hitting small metal objects against each other. _Phones jangling in Senator Doe’s office._ __2__ If something jangles someone’s nerves, it makes them feel very nervous.  
 __jangling__ _adj_ A discordant, harsh, or unpleasant (esp metallic) sound.  
 __janitor__ _n_  
-__Janus word__ _n_ :two: A Janus word is a word that is its own opposite—like “fast,” which can refer both to moving very quickly and to staying put. Frequently described as “words that are their own opposites,” Janus words are also known as contronyms, antagonyms , or auto-antonyms. A word having opposite or contradictory meanings, as _sanction_ or _cleave_.  
+__Janus word__ _n_ :three: A Janus word is a word that is its own opposite—like “fast,” which can refer both to moving very quickly and to staying put. Frequently described as “words that are their own opposites,” Janus words are also known as contronyms, antagonyms , or auto-antonyms. A word having opposite or contradictory meanings, as _sanction_ or _cleave_.  
 __Janus-faced__ _adj_ :two: /JAY-nuhs-fayst/ [:scroll: After Janus, the Roman god of doors, gates, and transitions.] __1__ Looking in two different directions. __2__ Having two contrasting aspects. __3__ Hypocritical or deceitful.  
 __Japan__ _n_ :mega: /dʒəˈpæn/  
 __jape__ _v_ :two::hammer: (japing)  
@@ -10045,7 +10051,7 @@ __jasper__ _n_ /JAS-puhr/ __1__ A person; guy. __2__ A wasp. __3__ A compact, op
 __jaundice<sup>1</sup>__ _n_  
 __jaundice<sup>2</sup>__ _v_ :three::hammer:  
 __jaundiced__ _adj_ /JAWN-dist/Jaundiced means “showing or influenced by feelings of distrust, distaste, or hostility.” Someone described as jaundiced, or as possessing jaundiced opinions or views, is typically understood to feel that way because of negative past experiences.  
-__jaunt__ _n_ :eight::hammer:  
+__jaunt__ _n_ :nine: /dʒɔnt, dʒɑnt/ A short journey, especially one taken for pleasure.  
 __jaunty__ _adj_ :nine::m: /JAWN-tee/ /JON/JAHN-tee/ __1__ Sprightly; lively: _walking at a jaunty pace; music with jaunty rhythms._ _A jaunty tune._ __2__ Lively; self-confident. Lively in manner or appearance. _The server whistled a jaunty tune as she wiped the tables and set out fresh flowers in preparation for the day’s diners._ Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
 __javelin__ _n_ :mega:  
 __jawbreaker__ _n_ __1__ A large round hard candy. __2__ _informal_ A word that is difficult to pronounce.  
@@ -10056,7 +10062,7 @@ __jaywalking__
 __jazz up__ _v_  
 __jazzy__  
 __jeans__ _n pl_ (plurale tantum)  
-__jeer<sup>1</sup>__ _n_ :two: A scoffing or taunting remark or shout.  
+__jeer<sup>1</sup>__ _n_ :three: (jeers) A scoffing or taunting remark or shout.  
 __jeer<sup>2</sup>__ _v_ :six::hammer: (jeered, jeering)  
 __jeery__  
 __Jehova’s Witness__  
@@ -10089,7 +10095,7 @@ __jet__ _n_ :two::hammer: _Low-level jet formation._ _The sky was jet overhead._
 __jetliners__  
 __jetpack__ _n_ A backpack powered by jets, used especially to enable an astronaut to maneuver independently during a spacewalk.  
 __jettison__ _v_ :nine::mega: /JET-uh-sun/ (jettisoned, jettisoning) __1__ To throw (something) overboard to lighten a ship or aircraft in distress. To cast overboard or off: _a ship jettisoning wastes; a pilot jettisoning aircraft fuel._ _Princess Leia Organa hid the data tapes in the memory banks of R2-D2, and the astromech jettisoned the ship with C-3PO._ _Seven seconds later the aeroshell was jettisoned._ __2__ To get rid of (something). _The coach was jettisoned after the team failed to make the playoffs for the third straight year._  
-__jetty<sup>1</sup>__ _n_ :three::hammer:  
+__jetty<sup>1</sup>__ _n_ :four::hammer: _The boats were lined up on a jetty._  
 __jetty<sup>2</sup>__ _adj_  
 __jeu d’esprit__ _n_ A work of light playfulness or wit, especially in literature.  
 __jewelry__ _n_ (jewellery)  
@@ -10152,6 +10158,7 @@ __jokey__
 __jollification__ _n_ :two: Festivity; revelry.  
 __jollity__ _n_ A jolly or merry mood, condition, or activity; gaiety. _Syn_ joviality _The genial festival of Christmas ... lights up the fireside of home with mirth and jollity._  
 __jollof rice__  
+__jollop__ _n_ _informal Brit_ A cream or unguent.  
 __jolly__ _adj_ :seven::hammer: _Jolly handshakes._  
 __jolt<sup>1</sup>__ _n_ :six::hammer: _A spending jolt by the military government._ _It was a jolt of good news._ _Find a quick jolt of happiness!_ _The jolt shook the Tomcat._  
 __jolt<sup>2</sup>__ _v_ _The chair jolts._  
@@ -10168,6 +10175,7 @@ __joust<sup>2</sup>__ _v_ :three::hammer: (jousted) _Here people jousted with na
 __jouster__ _n_  
 __jousting__ _adj_ _Jousting egos._  
 __jovial__ _adj_ :three::hammer: /JOH-vee-ul/  
+__joviality__  
 __jowl__ _n_ The flesh of the lower cheeks or lower jaw, especially when plump or flaccid.  
 __jowls__ _pl n_ :four::hammer::camera:  
 __jowly__ _adj_ :three: (of a person) Having fat cheeks which hang down towards the jaw. Having heavy or sagging jowls. _The jowly lawyer._  
@@ -10180,7 +10188,7 @@ __judgmental__ _adj_ :pencil2:
 __judicious__ _adj_ _Judicious improvements._  
 __judo__ _n_ [:scroll: A Japanes discipline whose name is based on Chinese words that translate to “soft way.”]  
 __jug__ _n_ :three: A large container for liquids, with a narrow mouth and typically a stopper or cap. _We have pulled the cork out of the jug._ :camera: _There were gas jugs in the bed of the vehicle._  
-__juggernaut__ _n_ :nine::m::dart: /ˈdʒʌɡəˌnɔːt/ /JUG-er-nawt/ Juggernaut means a massive force. If the army marching into your country is a juggernaut, you’re doomed. If you’re trying to market a new Cola product, you’re up against corporate giant Coca-Cola, a beverage juggernaut if ever there was one. A massive force, campaign, movement, or object that crushes whatever is in its path. _With the signing of a player who is possibly the best receiver in the league, the team will be an offensive juggernaut._ _Jinx-killing juggernaut._  
+__juggernaut__ _n_ :nine::m::dart: /ˈdʒʌɡəˌnɔːt/ /JUG-er-nawt/ Juggernaut means a massive force. If the army marching into your country is a juggernaut, you’re doomed. If you’re trying to market a new Cola product, you’re up against corporate giant Coca-Cola, a beverage juggernaut if ever there was one. A massive force, campaign, movement, or object that crushes whatever is in its path. _Syn_ steamroller _With the signing of a player who is possibly the best receiver in the league, the team will be an offensive juggernaut._ _Jinx-killing juggernaut._  
 __juice box__ _n_ :camera: A small disposable carton containing a single serving of fruit juice or fruit drink.  
 __juice__ _n_ _slang_ :three: Energy, power.  
 __juicy__ _adj_ :three::hammer:  
@@ -10223,8 +10231,8 @@ __junkie__ _n_ :two: __2__ One who has an insatiable interest or devotion: _a sp
 __junkyard__ _n_  
 __Junoesque__ _adj_ Having the stately bearing and imposing beauty of the goddess Juno.  
 __junta__ _n_ :four::hammer:  
-__jurisprudence__ _n_  
-__juror__ _n_ :mega: (jurors)  
+__jurisprudence__ _n_ :two: The philosophy or science of law. _Syn_ legal philosophy, law  
+__juror__ _n_ :two::hammer::mega: (jurors)  
 __jury box__ _n_ An enclosure where the jury sit in court.  
 __jury__ _v_ (juried) _Juried art events._  
 __jury-rig__ _v_ To rig or assemble for temporary emergency use; improvise: _The survivors of the wreck jury-rigged some fishing gear._  
@@ -10250,7 +10258,7 @@ __Kafkaesque__ _adj_ :three::hammer: /ˌkɑf kəˈɛsk/
 __kairos__ _n_ /KY-rahs/ The right time for taking an action; a decisive moment.  
 __kale__ _n_ :six::hammer:  
 __kamikaze__ _n_ :mega:  
-__kangaroo word__ _n_ :three::hammer:  
+__kangaroo word__ _n_ :four::hammer:  
 __kaput__  
 __karate__ _n_ [:scroll: A Japanese discipline whose name literally translates as “empty hand.”]  
 __karmic__ _adj_ _Karmic balance._  
@@ -10261,7 +10269,7 @@ __kayak__ _v_
 __kayaking__  
 __kayfabe__  
 __kazillion__ _n informal_ An indefinitely large number.  
-__kazoo__ _n_  
+__kazoo__ _n_ :two::hammer:  
 __keel<sup>1</sup>__ _v_ :three::hammer: (keeled)  
 __keel<sup>2</sup>__ _n_  
 __keen__ _adj_ :nine::m: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to “bold and brave” and while the spelling is now really different, the sounds are similar. Variations of keen as being “bold” and “strong” show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of “sharp” — relating to “an edge or blade.” Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._ _We are keen walkers._  
@@ -10275,7 +10283,7 @@ __kegger__ _n_
 __keiretsu__ _n_  
 __kelly green__ _n_ :two: A strong yellowish green.  
 __kelp__ _n_ :three::hammer:  
-__ken__ _n_ :four::astonished: __1__ Range of what one can know or understand. _Syn_ cognizance Perception; understanding: _complex issues well beyond our ken._ _This level of mathematics is beyond my ken._  
+__ken__ _n_ :five::astonished: /KEN/ __1__ Ken refers to someone’s range of perception, knowledge, or understanding, and is most often used in phrases like “beyond/outside/within one’s ken.” Range of what one can know or understand. _Syn_ cognizance Perception; understanding: _complex issues well beyond our ken._ _This level of mathematics is beyond my ken._  
 __Kendall__ _n_ /ˈkɛndəl/  
 __kennel__ _n_ :two::hammer:  
 __keno__ _n_ :two: A game of chance, similar to lotto, that uses balls rather than counters.  
@@ -10304,7 +10312,7 @@ __kick the bucket__
 __kick-starter__ _n_ A motor starter (as on a motorcycle) that is activated by a thrust of the foot.  
 __kick-the-can__ _n_ Kick the Can (also known as 40 40, Pom Pom, Tip the can, and Can up Can Down) is a children’s game related to tag, hide and seek, and capture the flag which can be played outdoors, with as few as three to as many as several dozen players. The game is one of skill, strategy, and stealth, as well as physical fitness.  
 __kickback schemes__  
-__kickback__ _n_ :seven::hammer: (kickbacks) _A kickback deal._  
+__kickback__ _n_ :eight::hammer: (kickbacks) _A kickback deal._  
 __kickoff__ _n_ _The kickoff of the shopping season._  
 __kicks__ _n_ Pleasures, thrills.  
 __kid around__ _phr v_ To have fun by acting in a silly way.  
@@ -10329,7 +10337,7 @@ __kinda__ _adv_ :three::hammer: _informal_
 __kindergarten__ _n_ :pencil2::four: Kindergarten is where children are introduced to school; it’s where five year old children learn all about their ABC’s and choice time. Kindergarten comes from the German words Kinder (“children”) and Garten (“garden”). A garden of children is a lovely and poetic image for a classroom full of antsy kids trying their hardest to master basic skills and ideas through creative and interactive lessons. But perhaps that is just how they were seen by the 19th-century German educator Friedrich Fröbel, who is credited with inventing kindergarten, his “method of developing intelligence in young children.”  
 __kindergartner__ _n_ :pencil2::three: A child who attends a preschool or kindergarten.  
 __kinderpunsch__ _n_  
-__kindle__ _v_ _To kindle a fire._  
+__kindle__ _v_ :two: __1__ To set alight or start to burn. _To kindle a fire._  
 __kindling__ _n_ :three: Material for starting a fire, such as dry wood, straw, etc.  
 __kindred<sup>1</sup>__ _n_ :three::hammer:  
 __kindred<sup>2</sup>__ _adj_ :four: /KIN-drud/ __1__ Of the same ancestry or family: _kindred clans._ __2__ Having a similar or related origin, nature, or character: _kindred emotions._  
