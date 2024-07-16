@@ -448,31 +448,6 @@ __the naked eye__
 __the throne__ __2__ _slang_ The toilet. _Sit on the throne._  
 __there you go__  
 __this goes to show__ The phrase “this goes to show” is commonly used to indicate that a particular situation or example serves as evidence or proof of a broader point or principle. It is often employed to highlight a specific instance that demonstrates a general truth or conclusion.  
-__this time around__  
-__through thick and thin__ :two::hammer:  
-__throw (one) a curveball__  
-__throw shade__ _slang_ To subtly issue insults or expressions of disapproval.  
-__tick away__  
-__tight race__  
-__tight__ __4__ _mod._ Cool; super. _His new car is tight!_  
-__time and (time) again__ :two::hammer:  
-__tip theˈbalance/scales__  
-__to name a few__  
-__to put it mildly__ (put it mildly)  
-__to say the least__  
-__too little too late__  
-__top dog__ _Llama 3 is now the top dog in open-source AI models._  
-__trash talk__  
-__tread carefully__  
-__trickle down__ __2__ To distribute, pass, or diffuse to people lower on a hierarchical structure.  
-__true believer__ One who passionately supports a cause or concept.  
-__turn (something) on its head__  
-__turn heads__ :two::hammer:  
-__twist (one’s) arm__ To pressure or force one into doing something.  
-__twists and turns__  
-__U-turn__ __2__ By extension, any sudden and drastic reversal, as of opinion, policy, intention, fortune, trend, etc.  
-__under (one’s) belt__  
-__unf*ckwithable__ :dart: A Definition: “When you’re truly at peace and in touch with yourself. Nothing anyone says or does bothers you and no negativity can touch you.” —Vishen Lakhiani, _The Code of the Extraordinary Mind_  
 __up and running__  
 __up for grabs__  
 __up to snuff__ (up to scratch) As good as what was expected, required, or demanded; satisfactory or adequate. _Sorry, Tom. Your performance isn’t up to snuff. You’ll have to improve or find another job._ _My paper wasn’t up to scratch, so I got an F._  
