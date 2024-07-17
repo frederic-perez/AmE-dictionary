@@ -198,31 +198,6 @@ __profligate__ _adj_ :dart:
 __proliferate__ _v_ /pruh-LIF-uh-rayt/ To increase quickly in number or amount.  
 __prostration__ _n_ An abrupt failure of function or complete physical exhaustion. _Syn_ collapse  
 __proximate__ _adj_  
-__punch line__ _n_  
-__punchbowl__ _n_  
-__punt__ _n_ (aqueduct?)  
-__pup__ _n_  
-__pyrophobia__ _n_ /py-roh-FOH-bee-uh/ An extreme fear of fire.  
-__quagmire__ _n_ Land with a soft muddy surface. _Syn_ mire, morass, quag, slack  
-__quarrel__  
-__quench__ _vt_  
-__quickstart__ _n_ (quickstart guide) A guide or manual intended to get a user rapidly acquainted with a program or system.  
-__quintessential__ _adj_  
-__quizzical__ _adj_  
-__racketeer<sup>1</sup>__ _n_ One who obtains money by an illegal enterprise usually involving intimidation.  
-__racketeer<sup>2</sup>__ _vi_  
-__reback__ _vt_  
-__rebarbative__ _adj_ Tending to irritate. _Syn_ repellant, repellent  
-__rebuff__ _v_ /rih-BUFF/  
-__recount__ _v_  
-__recusal__ _n_ /rɪˈkjuːzəl/ The withdrawal of a judge from a legal case.  
-__recuse__ _vt_ :two::hammer:  
-__redolent__ _adj_ Having or emitting fragrance. _Syn_ aromatic  
-__Reich__ _n_ /raɪk, raɪx/  
-__repent__ _v_  
-__respite__ _n_ /RESS-pit/ Respite refers to a short period of time when someone is able to stop doing something that is difficult or unpleasant, or when something difficult or unpleasant stops or is delayed.  
-__retrieve__ _v_  
-__revetting__ _v_  
 __rife__ _adj_  
 __rile__ _vt_ __1__ To irritate or vex. _Syn_ nettle, chafe, provoke, annoy, irk  
 __romcom__  

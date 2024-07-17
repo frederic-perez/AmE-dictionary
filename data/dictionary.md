@@ -14861,10 +14861,12 @@ __pumpkin patch__ _n_ A garden where pumpkins are planted, commonly available fo
 __pumpkin spice__ _n_  
 __pun<sup>1</sup>__ _n_ :five: A person is making a pun when they humorously use words with multiple meanings or words with similar sounds to create wordplay. Example: The farmer tried to get his cows to get along, but they insisted on having a beef with each other. :es: juego de palabras  
 __pun<sup>2</sup>__ _v_ :two::hammer: _He developed a savantlike speed of calculation and punning._  
+__punch line__ _n_  
 __punch list__ _n_  
 __punch out__ _v_ :two::hammer: (eject a flying pilot)  
 __punch<sup>1</sup>__ _n_ :two: A beverage of fruit juices and sometimes a soft drink or carbonated water, often spiced and mixed with a wine or liquor base. :es: ponche  
 __punch<sup>2</sup>__ _v_ :three::hammer: _I’m going to punch your ticket._ _You think you can punch my buttons, make me ashamed of myself in front of people?_  
+__punchbowl__ _n_  
 __punching bag__ _n_ _The firm was a regular punching bag._  
 __punchline__ _n_ :pencil2:  
 __punchy__  
@@ -14880,13 +14882,13 @@ __pungi__
 __punim__ _n slang_ /POO-nuhm/ [:scroll: From Yiddish ponem (face), from Hebrew panim (face)] The face.  
 __punitive damages__ _n pl_ Damages awarded in cases of serious or malicious wrongdoing to punish or deter the wrongdoer or deter others from behaving similarly.  
 __punitive__ _adj_ :five: Relating to, involving, or with the intention of inflicting punishment. _Punitive damages._ _The Green party wants punitive taxes on petrol._ _Punitive pension tax charges._  
-__punt<sup>1</sup>__ _n_ :three: __1__ An open flatbottom boat with squared ends, used in shallow waters and usually propelled by a long pole. __2__ A kick in which the ball is dropped from the hands and kicked before it touches the ground.  
+__punt<sup>1</sup>__ _n_ :four: __1__ An open flatbottom boat with squared ends, used in shallow waters and usually propelled by a long pole. __2__ A kick in which the ball is dropped from the hands and kicked before it touches the ground.  
 __punt<sup>2</sup>__ _vt_ To propel (a ball) by means of a punt.  
 __punt<sup>3</sup>__ _vi_ :three: __1__ To execute a punt. __2__ _informal_ To cease doing something; give up: _Let’s punt on this and try something else._ _Obama punted until after the election._  
 __punters__ _n_ :two::hammer: _I have laced a few punters._  
 __punting__ _n_ _football_ A kick in which the football is dropped from the hands and kicked before it touches the ground. _Syn_ punt  
 __puny__ _adj_ _A puny garden snail._  
-__pup__ _n_  
+__pup__ _n_ :two::hammer:  
 __pupil__ _n_ :two::hammer: /ˈpjuːpəl/  
 __pupillary__ _adj_ _Pupillary distance._  
 __puppet government__ _n_ A government that is appointed by and whose affairs are directed by an outside authority that may impose hardships on those governed.  
@@ -14961,6 +14963,7 @@ __pyrite__ _n_ :two: /PY-ryt/ [:scroll: From Latin pyrites (flint), from Greek p
 __pyroclast__ _n_ /ˈpaɪrəʊˌklæst/ (Geological Science) A piece of lava ejected from a volcano.  
 __pyroclastic__ _adj_ :three::hammer: _Pyroclastic cloud._ _Pyroclastic flow._  
 __pyromancy__ _n_  
+__pyrophobia__ _n_ /py-roh-FOH-bee-uh/ An extreme fear of fire.  
 __pyrosis__ _n_ :astonished: A painful burning sensation in the chest caused by gastroesophageal reflux (backflow from the stomach irritating the esophagus); symptomatic of an ulcer or a diaphragmatic hernia or other disorder. _Syn_ heartburn _Even after he swore off spicy foods, his pyrosis kept him up at night._  
 __pyrrhic__ _adj_ :five::pencil2: (of a victory) Won at too great a cost to have been worthwhile for the victor.  
 __Pyrrhonism__ _n_ /PIR-uh-niz-uhm/ [:scroll: After Pyrrho, a Greek philosopher, c. 360-270 BCE.] Extreme or absolute skepticism.  
@@ -14978,7 +14981,7 @@ __quaff__ _v_ :five: _(chiefly literary)_ To swallow hurriedly or greedily or in
 __quaffable__  
 __quaffing__ _adj_ Quaffable. _Quaffing tequila shooters on ser with Darth Vader._  
 __quaggy__ _adj_ Resembling a marsh; soggy. _Syn_ boggy, marshy, miry, mucky, muddy, sloughy, swampy  
-__quagmire__ _n_ :seven: __1__ Soft spongy wet ground that shakes or gives way under the foot. _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ :dart: An awkward, complex, or hazardous situation. A difficult situation from which it is hard to escape. _Syn_ mix-up, mess _A legal quagmire._ _Local journalists are caught in the quagmire._ :es: atolladero  
+__quagmire__ _n_ :eight: __1__ Soft spongy wet ground that shakes or gives way under the foot. Land with a soft muddy surface. _Syn_ mire, morass, quag, slack _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ :dart: An awkward, complex, or hazardous situation. A difficult situation from which it is hard to escape. _Syn_ mix-up, mess _A legal quagmire._ _Local journalists are caught in the quagmire._ :es: atolladero  
 __quail<sup>1</sup>__ _n_ :five::hammer: _Quails marinated in yoghurt._  
 __quail<sup>2</sup>__ _v_ :six: To shrink back in fear; cower. _Syn_ cringe, flinch, recoil, wince _The little boy quailed at the teacher’s angry voice._  
 __quaint__ _adj_ :nine::m: /kweɪnt/ __1__ Pleasingly or strikingly old-fashioned or unusual. _Quaint village/bridges/cottage/streets/town/village._ _Quaint neighborhood shops._ _Quaint residential area._ _Quaint Victorian buildings._ __2__ Unfamiliar or different in character or appearance; odd. _A quaint sense of duty._  
@@ -14992,7 +14995,7 @@ __qualm__ _n_ :nine::m: /KWAHM/ /kwam, kwom/ __1__ An uneasy feeling about the r
 __quandary__ _n_ :nine::m: A state of perplexity or doubt. A situation in which one has to choose between two or more equally unsatisfactory choices. _Syn_ catch-22, dilemma, double bind _All-Star managers face quandary._ _Mel was in a quandary._ _The situation was awkward, but nothing like the quandary they had found themselves in when their car had broken down on a deserted road._  
 __quantifiable__  
 __quarantine__ _n_ :mega:  
-__quarrel__ _n_  
+__quarrel__ _n_ :two::hammer:  
 __quarrelsome__  
 __quarry<sup>1</sup>__ _n_ :three::hammer: /KWOR-ee/ _Syn_ prey  
 __quarry<sup>2</sup>__ _vt_ To dig, cut into, or extract.  
@@ -15013,7 +15016,7 @@ __queer<sup>2</sup>__ _n_
 __queer<sup>3</sup>__ _v_  
 __quell__ _vt_ :nine::m: /kwɛl/ Put an end to (a rebellion or other disorder), typically by the use of force. _Syn_ put an end to, stamp out, put a stop to, end, finish :es: calmar, reprimir  
 __quench<sup>1</sup>__ _n_ :two::hammer:  
-__quench<sup>2</sup>__ _v_ :five: (quenches, quenched) To satisfy (one’s thirst, desires, etc.). _Syn_ slake, allay, assuage _He stopped to quench his thirst at a stream._  
+__quench<sup>2</sup>__ _vt_ :six: (quenches, quenched) To satisfy (one’s thirst, desires, etc.). _Syn_ slake, allay, assuage _He stopped to quench his thirst at a stream._  
 __querulous__ _adj_ :dart::nine: /ˈkwɛr ə ləs, ˈkwɛr yə-/ /KWAIR-yuh-lus/ Someone described as querulous is constantly or habitually complaining. Querulous can also be used synonymously with _fretful_ or _whining_ when describing something, such as a person’s tone of voice. Given to complaining; peevish. _Syn_ fretful, whiny _The teacher’s patience was wearing thin, but the querulous student nevertheless continued to whine about how much homework she was assigning._  
 __query<sup>1</sup>__ _n_ :mega::two::hammer: _The quest of the Holy Grail._  
 __query<sup>2</sup>__ _v_ :mega:  
@@ -15030,6 +15033,7 @@ __quicken__ _v_ :three::hammer: (quickened) _Spring quickened._
 __quickening__ _n_ :two::hammer: _He felt a quickening within him._  
 __quicksand__ _n_ :two::hammer: _I’ve just signed a quicksand employment contract._  
 __quicksilver__  
+__quickstart__ _n_ (quickstart guide) A guide or manual intended to get a user rapidly acquainted with a program or system.  
 __quid pro quo__ _n_ :five::hammer: _He sees counseling as a quid pro quo and not a sincere effort to repair himself._  
 __quid__  
 __quiddity__ _n_ :three: /ˈkwɪdɪtɪ/ /KWID-uh-tee/ Quiddity refers to the essence of a thing—that is, whatever makes something the type of thing that it is. Quiddity can also refer to a small and usually trivial complaint or criticism, or to a quirk or eccentricity in someone’s behavior. _He portrayed the character’s quirks and quiddities with tender playfulness._  
@@ -15052,7 +15056,7 @@ __quinquagenarian__ _n_
 __quinquennial__  
 __quinsy__  
 __quintessence__ _n_ /kwin-TESS-unss/  
-__quintessential__ _adj_ :eight::hammer: _Syn_ ultimate, essential, typical, fundamental, definitive, archetypal, prototypical _Everybody thinks of him as the quintessential New Yorker._  
+__quintessential__ _adj_ :nine::hammer: _Syn_ ultimate, essential, typical, fundamental, definitive, archetypal, prototypical _Everybody thinks of him as the quintessential New Yorker._  
 __quip__ _n, v_ :seven: (quipped, quippy) /KWIP/ A clever remark or a witty or funny observation or response. A clever or witty remark or comment. _They traded quips over a beer._ _Rapid-fire quips._ :es: pulla  
 __quire__ _n_ (Not to be confused with _choir_)  
 __quirk__ _n_ :nine::m: (quirky, quirkier) /kwəːk/ /KWERK/ _Quirk_ refers to an unusual habit or way of behaving. It can also refer to something strange that happens by chance, as in “a quirk of fate.” A peculiarity of behavior; an idiosyncrasy. _They accepted her attitude as one of her little quirks._ _A gleeful roast of Utah’s cultural quirks._  
@@ -15064,6 +15068,7 @@ __quitter__ _n_ _Are you calling me a quitter?_
 __quiver__ _v_ :seven::hammer: (quivering)  
 __quixotic__ _adj_ :four: /kwik-SAH-tik/ Extravagantly chivalrous or romantic; visionary, impractical, or impracticable. Caught up in the romance of noble deeds and the pursuit of unreachable goals; idealistic without regard to practicality. _Syn_ wild-eyed, romantic _Her actions may seem quixotic, but they also speak to her courage and passion._  
 __quiz__ _n_ :three: (_n pl_ quizzes) A quiz is a short series of questions with a quick result. A magazine quiz might tell a reader if “he’s into you,” or a pop quiz in English class will let your teacher know how far you got (or didn’t get) in last night’s reading. _Take the quiz!_  
+__quizzical__ _adj_  
 __quondam__ _adj_ :two: Of an earlier time; former: _her quondam lover._  
 __quorum__ _n_ /KWOR-um/ Quorum refers to the smallest number of people who must be present at a meeting in order for official decisions to be made. Broadly speaking, quorum may refer to any select group.  
 __quotation marks__ _n_ _Chroniclers’ figures which seem obviously distorted appear in my text in quotation marks._  
@@ -15085,8 +15090,8 @@ __rack<sup>1</sup>__ _n_
 __rack<sup>2</sup>__ _v_ :three: (racked) __1__ (also _wrack_) To cause great physical or mental suffering to: _Pain racked his entire body._ _Syn_ afflict __2__ To torture by means of the rack. _She woke up racked with anxiety and fear that this was the final blow._ __3__ To place (billiard balls, for example) in a rack.  
 __racket<sup>1</sup>__ _n_ :eight: __1__ A loud distressing noise. _He heard the trains making their racket._ __5__ _slang_ __a__ An occupation, livelihood, or business. __b__ An easy or profitable source of livelihood. _Extortion rackets._  
 __racket<sup>2</sup>__ _v_  
-__racketeer<sup>1</sup>__ _n_ :five: A person who engages in dishonest and fraudulent business dealings. :es: estafador, timador  
-__racketeer<sup>2</sup>__ _v_ :two::hammer:  
+__racketeer<sup>1</sup>__ _n_ :six: A person who engages in dishonest and fraudulent business dealings. One who obtains money by an illegal enterprise usually involving intimidation. :es: estafador, timador  
+__racketeer<sup>2</sup>__ _vi_ :three::hammer:  
 __racketeering__ _n_ :two: Engaging in a racket.  
 __raconteur__ _n_ :three: /ra-kahn-TER/ One who tells stories and anecdotes with skill and wit. _Syn_ anecdotist _Dave is quite the raconteur and will no doubt keep my guests entertained throughout the evening._  
 __racous__  
@@ -15315,12 +15320,14 @@ __reasonable__
 __reasoned__ _v_  
 __reassurance__ _n_ _Igor’s reassurances did not stifle the fear._  
 __reassuring__ _adj_  
+__reback__ _vt_  
 __rebar__ _n_ A steel reinforcing bar in a reinforced concrete structure, or a grid of such bars.  
+__rebarbative__ _adj_ Tending to irritate. _Syn_ repellant, repellent  
 __rebate__ _n_ :six: A partial refund to someone who has paid too much for tax, rent, or a utility. _Syn_ refund, partial refund, repayment _To pay rebates._ :es: reembolso _Amount off MSRP includes all additional available rebate and incentive programs._ _Tax rebates._ _10% rebate with the purchase of 3 or more Bosch kitchen appliances._  
 __rebellion__ _n_ :pencil2:  
 __rebop__ _n_ :four: A form of jazz improvising by musicians of the post-bebop era that embodies the traditions of bebop but includes the musical advances since that time, i.e. group improvisation, free, pentagonic and intervalic improvising, as well as incorporating contemporary and historic rhythmic concepts.  
 __reborn__ _adj_ /riːˈbɔːn/  
-__rebuff__ _v_ :nine::m: To refuse; to offer sudden or harsh resistance; to turn down or shut out. To refuse to accept a helpful suggestion offer from someone, often by answering in an unfriendly way. _Syn_ reject, turn down, decline _She rebuffed all suggestions that she should resign._ _The effort has been rebuffed._  
+__rebuff__ _v_ :nine::m: /rih-BUFF/ To refuse; to offer sudden or harsh resistance; to turn down or shut out. To refuse to accept a helpful suggestion offer from someone, often by answering in an unfriendly way. _Syn_ reject, turn down, decline _She rebuffed all suggestions that she should resign._ _The effort has been rebuffed._  
 __rebuke<sup>1</sup>__ _n_ :six::hammer:  
 __rebuke<sup>2</sup>__ _v_  
 __rebus__ _n_ A puzzle in which one must decode a message consisting of pictures representing syllables and words.  
@@ -15365,7 +15372,7 @@ __reconvene__ _v_ :eight: To gather, call together, or summon again, esp for a f
 __recooled__  
 __recorder__ _n_ :astonished: __3__ (Music) A flute with eight finger holes and a whistlelike mouthpiece. :es: flauta dulce  
 __recording__ _n_ _When I call, I get a recording. There is never anyone in._  
-__recount__ _vt_ :two: /rɪˈkaʊnt/ To tell the story or details of; narrate.  
+__recount__ _vt_ :three: /rɪˈkaʊnt/ To tell the story or details of; narrate.  
 __recounting__ _n_ :two::hammer: _His recounting._  
 __recoup__ _v_ :seven: To recoup is a kind of recovery: If you lost some money but then made that amount back, you recouped your loss.  
 __recourse__ _n_  
@@ -15377,7 +15384,8 @@ __rectitude__ _n_ :two: /REK-tuh-tood/ Righteousness as a consequence of being h
 __rector__  
 __recumbent__ _adj_ :three::hammer:  
 __recurse__ _v_ /ri-KUHRS/  
-__recuse__ _v_ :two: /rih-KYOOZ/ Recuse means “to disqualify (oneself) as judge in a particular case.” More broadly, it can also mean “to remove (oneself) from participation to avoid a conflict of interest.” _The judge decided to recuse herself from the case due to the nature of her relationship with the plaintiff’s family._  
+__recusal__ _n_ /rɪˈkjuːzəl/ The withdrawal of a judge from a legal case.  
+__recuse__ _vt_ :four: /rih-KYOOZ/ Recuse means “to disqualify (oneself) as judge in a particular case.” More broadly, it can also mean “to remove (oneself) from participation to avoid a conflict of interest.” _The judge decided to recuse herself from the case due to the nature of her relationship with the plaintiff’s family._  
 __recycler__ _n_ _Joe admitted stealing the copper and taking it to a recycler to get cash for it._  
 __Red Brigade__  
 __Red Crescent__ _n_ A national branch of or the emblem of the Red Cross Society in a Muslim country.  
@@ -15410,7 +15418,7 @@ __redline__ _v_
 __redlining__ _n_  
 __redo__ _v_ :two::hammer:  
 __redolence__ _n_ A pleasingly sweet olfactory property. _Syn_ bouquet, fragrance _The moonlight and the redolence of flowers made the garden a romantic spot._  
-__redolent__ _adj_ :eight: /RED-uh-lunt/ As a synonym of _aromatic_, the word _redolent_ can describe something that has a noticeable smell without specifying the scent, but more often it is accompanied by _of_ or _with_ and means “full of a specified fragrance,” as in “redolent with smoke.” _No matter what time of year he visited, his grandmother’s house was always redolent of cloves and other warm spices._ _His ceremony was redolent with tension._  
+__redolent__ _adj_ :nine::m: /RED-uh-lunt/ As a synonym of _aromatic_, the word _redolent_ can describe something that has a noticeable smell without specifying the scent, but more often it is accompanied by _of_ or _with_ and means “full of a specified fragrance,” as in “redolent with smoke.” Having or emitting fragrance. _Syn_ aromatic _No matter what time of year he visited, his grandmother’s house was always redolent of cloves and other warm spices._ _His ceremony was redolent with tension._  
 __redos__  
 __redoubt__ _n_ :astonished::four: /rih-DOUT/ Redoubt can refer specifically to a small building or area that provides soldiers with protection from attack, or more broadly to any safe or protected place, whether literal or figurative. A small, often temporary defensive fortification. _Syn_ sconce :es: reducto  
 __redoubtable__ _adj_ :five::astonished: That is to be feared; formidable. _Two redoubtable warriors._  
@@ -15481,6 +15489,7 @@ __rehabber__ _n informal_ A person who engages in rehabilitating something. _A w
 __rehabilitation__ _n_  
 __rehash__ _v_ :two::hammer:  
 __rehouse__ _vt_ To provide with new, usually improved housing.  
+__Reich__ _n_ /raɪk, raɪx/  
 __reign__ _n_ :two::mute:[rei~~g~~n]:hammer:  
 __reiki__ _n_ /ˈreɪkɪ/  
 __reimagining__ _n_  
@@ -15566,7 +15575,7 @@ __repealing__
 __repeat<sup>1</sup>__ _adj_ :astonished: Of, relating to, or being something that repeats or is repeated: _a repeat offender; a repeat performance of the play._ _Providing support to existing and repeat events._  
 __repeat<sup>2</sup>__ _n_ :two::dart::hammer: _CBS is filling this spot with a_ Big Bang _repeat today._ _It was off and running, in time to prevent a repeat of the previous year’s last-minute chaos._  
 __repeieve__  
-__repent__ _v_ :five::hammer: (repented)  
+__repent__ _v_ :six::hammer: (repented)  
 __repentance__ _n_ :three::hammer:  
 __repercussion__ _n_ :dart::three::hammer:  
 __repertoire__ _n_ :two::hammer:  
@@ -15624,7 +15633,7 @@ __resolve__ _v_ :two::hammer: (resolved) _The issue was resolved._
 __resonate__ _v_  
 __resounding__ _adj_ :two::hammer: _The answer is a resounding yes._  
 __respirator__ _n_ :two: A masklike device, usually of gauze, worn over the mouth, or nose and mouth, to prevent the inhalation of noxious substances or the like. Health professionals wear respirators to filter out virus particles as they breathe in so they don’t get infected with COVID-19 while helping people and patients.  
-__respite__ _n_ :nine::m: /ˈrɛspɪt; -paɪt/ A respite is a break from something that’s difficult or unpleasant. If you’re cramming for exams, take an occasional walk to give yourself a respite from the intensity.  
+__respite__ _n_ :nine::m::mega: /ˈrɛspɪt; -paɪt/ /RESS-pit/ A respite is a break from something that’s difficult or unpleasant. If you’re cramming for exams, take an occasional walk to give yourself a respite from the intensity. Respite refers to a short period of time when someone is able to stop doing something that is difficult or unpleasant, or when something difficult or unpleasant stops or is delayed.  
 __resplendent__ _adj_ :two::pencil2: Splendid or dazzling in appearance; brilliant.  
 __respondent__ _n_ :four::hammer: /rɪˈspɒn dənt/  
 __responsibility__ _n_ :four::pencil2::mega::hammer: _With great power comes great responsibility._  
@@ -15680,6 +15689,7 @@ __retreat<sup>2</sup>__ _n_ :three::hammer: _About 35 firefighters volunteered a
 __retrench__ _v_ (retrenching) To reduce (expenses, for example); cut down.  
 __retrenchment__ _n_ :two::hammer: _An era of American retrenchment._  
 __retribution__  
+__retrieve__ _v_  
 __retrocede__ _v_  
 __retrofit__ _v_  
 __retrograde<sup>1</sup>__ _adj_ :five::hammer: _NHS staff face unacceptable health risks as a result of “retrograde” changes to the government’s guidance on preventing spread of SARS-CoV-2 infection, doctors’ leaders have warned._  
@@ -15706,6 +15716,7 @@ __revered__
 __reversal of fortune__  
 __reversible__  
 __revet__ _vt_ /ri-VET/ __1__ To cover a wall, embankment, etc., with masonry or other supporting material. __2__ To recheck or reexamine.  
+__revetting__ _v_  
 __revile__ _v_ :two::hammer:  
 __revisionist__  
 __revisit__ _v_  
