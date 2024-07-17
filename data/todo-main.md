@@ -3,10 +3,15 @@ __amusement park__ _n_
 __apportionment__ _n_ The act of distributing by allotting or apportioning; distribution according to a plan. _Syn_ parceling, assignation, allocation, allotment  
 __aqueduct__  
 __balustrade__  
+__beryl__ _n_  
+__bilk<sup>1</sup>__ _vt_  
+__bilk<sup>2</sup>__ _n_  
 __blasé__ _adj_ Indifferent to or bored with life; unimpressed, as or as if from an excess of worldly pleasures.  
 __botch__ _vt_  
+__bridgehead__ _n_ A forward position seized by advancing troops in enemy territory as a foothold for further advance. _Syn_ foothold  
 __bunco<sup>1</sup>__ _n_ A swindle in which an unsuspecting person is cheated; a confidence game.  
 __bunco<sup>2</sup>__ _vt_ To swindle.  
+__buoyancy__ _n_ :dart: __2__ Ability to recover quickly from setbacks; resilience. __3__ Lightness of spirit; cheerfulness. Irrepressible liveliness and good spirit. _Syn_ irrepressibility _With his natural buoyancy of spirits, he began to hope again._  
 __butt__ _n_ _Two iron water butts._  
 __cardinal__ _adj_ /KAHRD-nul/  
 __catapult__ _n_  
@@ -15,6 +20,7 @@ __clandestine__ _adj_ /klan-DESS-tun/
 __confusion__ _n_ :pencil2:  
 __congestion pricing__  
 __cookout__ _n_ A social gathering at which a meal is cooked and eaten outdoors.  
+__coterie__ _n_ /KOH-tuh-ree/ An intimate and often exclusive group of people with a unifying common interest or purpose.  
 __crevice__  
 __deference__ _n_ /DEF-uh-runss/  
 __delay__ _n, v_ /dɪˈleɪ/  
@@ -27,8 +33,10 @@ __dicker<sup>1</sup>__ _vi_ To bargain; barter. o dicker is to talk or argue wit
 __dicker<sup>2</sup>__ _n_ The act or process of bargaining.  
 __dimly__  
 __discernible__ _adj_ Capable of being seen or noticed. _Syn_ evident, observable  
+__disfavor__ _v_ Put at a disadvantage; hinder, harm. _Syn_ disadvantage  
 __dismay__ _vt_  
 __doable__  
+__doleful__ _adj_ Filled with or expressing grief. _Syn_ mournful  
 __dolorifuge__ _n_ Something that banishes or mitigates grief.  
 __dopamine__ _n_ _Dopamine hit/rush._  
 __downpour__ _n_ A heavy fall of rain. _Syn_ pelter, soaker, torrent, cloudburst, deluge, waterspout  
@@ -37,9 +45,11 @@ __dumbwaiter__ _n_ A small elevator used to convey food (or other goods) from on
 __dynasty__ _n_ /DYE-nuh-stee/ Dynasty refers to a group (such as a team, family, etc.) that is very powerful or successful for a long period of time. It is also often used for a family of rulers who rule over a country for a long period of time, as well as the period of time when a particular dynasty is in power.  
 __easy__ _adj, adv_ :mega: /ˈiːzɪ/  
 __ebullient__ _adj_ /ih-BULL-yunt/  
+__eclectic__ _adj_ /ih-KLEK-tik/  
 __egregious__  
 __eleemosynary__ _adj_  
 __entourage__ _n_  
+__entreaty__ _n_ An earnest request or petition; a plea. _Syn_ appeal, prayer  
 __escritoire__ _n_ A writing table; a desk. _Syn_ secretaire, writing table, secretary  
 __exigency__ _n_ Urgent requirements; pressing needs. Often used in the plural. _Syn_ need, demand, requirement, necessity, constraint, wont  
 __exothermic__ _adj_ Releasing heat. _Syn_ heat-releasing, exothermal  
@@ -64,6 +74,8 @@ __foist__ _v_ /FOIST/ _Foist_, which is almost always used with _on_ or _upon_, 
 __folly__ _n_ (construction)  
 __footage__ _n_ :mega:  
 __formicary__ _n_ A nest of ants. _Syn_ anthill  
+__fountainhead__ _n_ /foun′tən-hĕd′/ /ˈfaʊntɪnˌhɛd/ /ˈfaʊn tnˌhɛd/ __1__ A spring that is the source or head of a stream. __2__ A chief and copious source; an originator.  
+__front__ _n_ A movement linking divergent elements to achieve common objectives (used especially to refer to a political coalition).  
 __froward__ _adj_ Stubbornly contrary and disobedient; obstinate. _Syn_ headstrong, self-willed, willful  
 __fulsome__ _adj_ :dart: Unpleasantly and excessively suave or ingratiating in manner or speech. _Syn_ unctuous, buttery, oleaginous, smarmy, oily _His introduction contained such fulsome flattery that I began to wonder whether anything else he said could be trusted._  
 __funnel cake__ _n_  
@@ -82,6 +94,8 @@ __haggle__ _v_ To bargain, as over the price of something; dicker. _Syn_ chaffer
 __halcyon__ _adj, n_  
 __hand-pick__ _vt_ To choose or select with great care, as for a special job or purpose.  
 __hangnail__ _n_ :dart: A small piece of dead skin at the side or the base of a fingernail that is partly detached from the rest of the skin. :es: padrastro  
+__haply__ _adv_ By accident. _Syn_ by chance, by luck _Her true feelings were betrayed by a word haply spoken and immediately regretted._  
+__harry__ _v_ /HAIR-ee/ To harry someone or something is to harass or torment them by or as if by constant attack. _The visiting team harried the home team relentlessly during the first quarter._  
 __headwind__ _n_  
 __headword__ _n_  
 __hibernal__ _adj_ Of or relating to winter. _Syn_ brumal, hiemal  
@@ -111,10 +125,12 @@ __lethargic__ _adj_ Of, relating to, or affected with lethargy; drowsy; sluggish
 __leverage__ _v_ _You can leverage the win32gui package in Python to target specific windows for capture._ _Syn_ take advantage of  
 __Lewis gun__  
 __liable__ _adj_  
+__lidless__ _adj_ Watchful; vigilant. _Syn_ sleepless  
 __lightsaber__ _n_  
 __limerence__ _n_ The state of being obsessively infatuated with someone, usually accompanied by delusions of or a desire for an intense romantic relationship with that person.  
 __limestone__  
 __liminal__ _adj_  
+__limpid__ _adj_ /LIM-pid/ _Limpid_ describes things that are perfectly transparent or clear, or that are simple in style.  
 __lip liner__ _n_ (lip liner)  
 __listless__ _adj_ Marked by low spirits; showing no enthusiasm. _Syn_ dispirited  
 __litigation__ _n_  
@@ -138,10 +154,12 @@ __mohawk__ _n_ /ˈməʊhɔːk/
 __moxie__ _n_ /MAHK-see/ _Moxie_ can refer to courage and determination (aka nerve), energy and pep (aka verve), or know-how (as, say, reflected in one’s oeuvre). _They showed a lot of moxie in questioning their company’s policy._  
 __mull__ _v_  
 __natural hat trick__ _n_ _sports_ A hat trick in which three goals are scored in succession by one player in one game.  
+__navel__ _n_ The mark on the surface of the abdomen of mammals where the umbilical cord was attached during gestation. _Syn_ bellybutton, omphalos, umbilicus  
 __newt__ _n_  
 __nip__ _n_  
 __nosy__ _adj_  
 __orphan drug__ _n_ A drug that remains undeveloped or is neglected because of limited potential for commercial gain.  
+__otiose__ _adj_ /OH-shee-ohss/ Otiose is a formal word typically used to describe either something that serves no useful purpose, or something that has no use or effect.  
 __outlying__ _adj_ Relatively distant or remote from a center or middle: _outlying regions._ _Outlying areas._  
 __outright__ _adj, adv_  
 __outsized__ _adj_  
@@ -159,6 +177,7 @@ __panoply__ _n_ /PAN-uh-plee/
 __Paralympics__ _n pl_  
 __parapraxis__ _n_ A minor error, such as a slip of the tongue, thought to reveal a repressed motive. _Syn_ slip-up, miscue, slip  
 __paratrooper__  
+__Parkinson’s law__ _n_ /PAHR-kin-suhnz law/ The observation that work expands to fill the time available.  
 __parson__ _n_  
 __pasquinade__ _n_ A satire or lampoon, especially one that ridicules a specific person, traditionally written and posted in a public place. _Syn_ parody, put-on, sendup, spoof, charade, lampoon, mockery, burlesque, travesty, takeoff  
 __pauperism__ _n_ A state of extreme poverty or destitution. _Syn_ indigence, penury, need  
@@ -173,6 +192,7 @@ __perjury__ _n_
 __personal column__ _n_  
 __perspicacious__ _adj_  
 __pertussis__ _n_ The technical name for _whooping cough_.  
+__preposterous__ _adj_ [:scroll: From Latin praeposterus, which translates literally to “in the wrong order”]  
 __process server__ _n_ :dart::two: A person who serves subpoenas or other legal documents, esp. those requiring appearance in court.  
 __profligate__ _adj_ :dart:  
 __proliferate__ _v_ /pruh-LIF-uh-rayt/ To increase quickly in number or amount.  
@@ -192,6 +212,7 @@ __quizzical__ _adj_
 __racketeer<sup>1</sup>__ _n_ One who obtains money by an illegal enterprise usually involving intimidation.  
 __racketeer<sup>2</sup>__ _vi_  
 __reback__ _vt_  
+__rebarbative__ _adj_ Tending to irritate. _Syn_ repellant, repellent  
 __rebuff__ _v_ /rih-BUFF/  
 __recount__ _v_  
 __recusal__ _n_ /rɪˈkjuːzəl/ The withdrawal of a judge from a legal case.  
@@ -199,6 +220,7 @@ __recuse__ _vt_ :two::hammer:
 __redolent__ _adj_ Having or emitting fragrance. _Syn_ aromatic  
 __Reich__ _n_ /raɪk, raɪx/  
 __repent__ _v_  
+__respite__ _n_ /RESS-pit/ Respite refers to a short period of time when someone is able to stop doing something that is difficult or unpleasant, or when something difficult or unpleasant stops or is delayed.  
 __retrieve__ _v_  
 __revetting__ _v_  
 __rife__ _adj_  
@@ -228,6 +250,8 @@ __sequester__ _v_ /sih-KWESS-ter/ __The jury was sequestered until a verdict was
 __sergeant__ _n_  
 __service station__ _n_  
 __severance__ _n_  
+__sexennial<sup>1</sup>__ _n_ /sek-SEN-ee-uhl/ An event occurring every six years.  
+__sexennial<sup>2</sup>__ _adj_ /sek-SEN-ee-uhl/ Happening every six years; lasting for or relating to six years.  
 __sham__  
 __shelter__ _v_  
 __shimmy__ _v_  
@@ -284,6 +308,7 @@ __trudge__ _v_ To walk, especially laboriously or wearily.
 __tweener__ _n_ (sports, chiefly tennis) A shot that is hit between the legs.  
 __unabashed__ _adj_ Not ashamed, disconcerted, or apologetic; boldly certain of one’s position.  
 __undercut__ _v_  
+__ungainly__ _adj_ /un-GAYN-lee/  
 __unrequited__ _adj_ /ˌʌn rɪˈkwaɪ tɪd/  
 __upshot__ _n_ :dart:  
 __vagaries__ _n_  
