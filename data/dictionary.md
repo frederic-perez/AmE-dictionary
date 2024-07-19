@@ -248,7 +248,7 @@ __adroitly__ _adj_ :three: With expert or dexterous use of the hands or body; ni
 __adulate__ _v_ :mega:  
 __adulation__ _n_ :two: /aj-uh-LAY-shun/ Extreme or excessive admiration or flattery. _The movie star basked in the adulation of her many fans as she walked down the red carpet._  
 __adult__ _adj, n, v_ :mega: /ə-ˈdəlt, ˈa-ˌdəlt/  
-__adulterate__ _v_  
+__adulterate__ _vt_ :two: /uh-DUHL-tuh-rayt/ To add a cheaper or inferior substance to something.  
 __adumbrate__ _vt_ /æˈdʌm breɪt, ˈæd əmˌbreɪt/  
 __advancement__ _n_  
 __Advent calendar__ _n_ _Brit_ :camera: A large card with a brightly coloured sometimes tinselled design on it that contains small numbered doors for children to open on each of the days of Advent, revealing pictures beneath them.  
@@ -569,7 +569,7 @@ __amplification__ _n_ __2__ Material added to a statement, story, etc, in order 
 __amply__  
 __ampoule__ _n_ :two: (ampul, ampule) A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped. A small glass vial that is sealed after filling and used chiefly as a container for a hypodermic injection solution. _Syn_ phial, vial _Because of his medical condition, he was obligated to carry an ampoule of medicine and a hypodermic needle with him at all times._  
 __amulet__ _n_ :two: An object worn, especially around the neck, as a charm against evil or injury. _Syn_ charm, fetish, talisman, juju  
-__amusement park__ _n_ :three::hammer:  
+__amusement park__ _n_ :four::hammer:  
 __amusia__ _n_ :four: /ay-MYOO-zee-uh/ The inability to recognize, reproduce, or appreciate music. _Cochlear amusia._  
 __amygdala__ _n_ :two::hammer:  
 __amyloidosis__ _n_ /ˌæmɪlɔɪˈdəʊsɪs/  
@@ -781,6 +781,7 @@ __applied science__ _n_
 __appoint__ _v_ __3__ To furnish; equip: _a house that is comfortably appointed._  
 __appointed__ _adj_ :five: __3__ Provided with furnishing and accessories (especially of a tasteful kind). _A house that is beautifully appointed._ _155 well appointed guestrooms._  
 __apportion__ _v_ :three: (apportioned) Give out as one’s portion or share. _Syn_ divvy up, share, deal  
+__apportionment__ _n_ The act of distributing by allotting or apportioning; distribution according to a plan. _Syn_ parceling, assignation, allocation, allotment  
 __apposite__ _adj_ Appropriate or relevant: _chose an apposite name for the dog; felt the comments were not apposite to the discussion._  
 __apposition__ _n_ :two::hammer: (grammar)  
 __appraisal__ _n_ :nine::m: __1__ A statement or opinion judging the worth, value, or condition of something. __2__ An expert or official valuation, as for taxation. _An insurance appraisal._ _Free appraisals._  
@@ -809,7 +810,7 @@ __aptly__ _adj_ :two::hammer:
 __aquanaut__ _n_ :two::hammer:  
 __aquaponics__ _n_ _(used with singular verb)_  
 __aquaria__  
-__aqueduct__ _n_ :three::hammer:  
+__aqueduct__ _n_ :four::hammer:  
 __aqueous__ _adj_  
 __aquifer__ _n_ :two::hammer:  
 __aquiline__ _adj_  
@@ -1292,7 +1293,7 @@ __Baloo__ _n_ In the _Author’s Notes in the Jungle Books_, Kipling gives the p
 __balsa__ _n_  
 __balsam__ _n_ /BAWL-suhm/ __1__ Something that soothes or heals. __2__ An aromatic resinous substance from certain trees and plants. __3__ A preparation, for example an ointment, made with such a substance. __4__ Such a tree or a plant.  
 __balter__ _vt_ _archaic_ To dance or tread clumsily.  
-__balustrade__ _n_ :three: A rail and the row of balusters or posts that support it, as along the front of a gallery. _Syn_ banister, handrail _She leaned over the balustrade, trying to see what was happening below._ _The stone balustrade._  
+__balustrade__ _n_ :four: A rail and the row of balusters or posts that support it, as along the front of a gallery. _Syn_ banister, handrail _She leaned over the balustrade, trying to see what was happening below._ _The stone balustrade._  
 __balustrades__  
 __bamboozle__ _v_ :six: /bam-BOO-zul/ To deceive, trick, or confuse. To take in by elaborate methods of deceit. _Syn_ lead by the nose, play false, snow, hoodwink _I don’t know how he did it, but Johnny managed to bamboozle me into swapping my pudding for his carrot sticks._ _The legal advisor bluntly said to his client, “Don’t be bamboozled into saying ‘yes’ to something you don’t agree with.”_ _Inexperienced investors are often bamboozled by the volatility of the stock market._  
 __banal__ _adj_ Drearily commonplace and often predictable; trite. _Syn_ stock, threadbare, hackneyed, old-hat, well-worn, tired _By his twelfth book, his plots had become downright banal._  
@@ -1618,6 +1619,7 @@ __berserk__ _adj_ :nine::m: /ber-SERK/ (usually used in the phrase “go berserk
 __berserkers__ _n_ :two::hammer:  
 __berth<sup>1</sup>__ _n_ :five::hammer: _Sho Sakai secured an Olympic berth._  
 __berth<sup>2</sup>__ _v_  
+__beryl__ _n_  
 __beseech__ _vt_ :nine: Ask for or request earnestly. _Syn_ adjure, entreat, conjure, bid, press _Daddy, I beseech you to stop smoking before it is too late._  
 __beseechingly__  
 __beseechment__  
@@ -1716,8 +1718,8 @@ __bilabial__ _adj_ __1__ Produced with the lips close together or touching, as t
 __bildungsroman__ _n_ /BIL-doonks-roh-mahn/ A novel whose principal subject is the moral, psychological, and intellectual development of a usually youthful main character.  
 __bilge__ _n_  
 __bilious__ _adj_ :three: /BILL-yus/ Bilious has several meanings, including “angry or bad-tempered,” “irritable,” and “sickeningly unpleasant to look at.” Its earliest use describes things that are “of or relating to bile.” _The actor has come under fire for his bilious commentary._ _The new homeowners immediately painted over the bilious color scheme._  
-__bilk<sup>1</sup>__ _v_ _Durham was guilty of bilking._  
-__bilk<sup>2</sup>__ _n_ :dart::three: __1__ A swindle or cheat. _America was the land of bilk and money._ __2__ A person who swindles or cheats.  
+__bilk<sup>1</sup>__ _vt_ :two::hammer: _Durham was guilty of bilking._  
+__bilk<sup>2</sup>__ _n_ :dart::four: __1__ A swindle or cheat. _America was the land of bilk and money._ __2__ A person who swindles or cheats.  
 __bill-file__  
 __bill<sup>1</sup>__ _n_ __3__ The entertainment offered by a theater. _I’m not my usual top billing._  
 __bill<sup>2</sup>__ _v_  
@@ -1825,7 +1827,7 @@ __blanket<sup>1</sup>__ _n_ :two::hammer: _The security blanket._
 __blanket<sup>2</sup>__ _vt_ :six::hammer: (blanketing)  
 __blarney<sup>1</sup>__ _n_ :three::dart: /ˈblɑr ni/ __1__ Smooth, flattering talk. __2__ Deceptive nonsense.  
 __blarney<sup>2</sup>__ _v_  
-__blasé__ _adj_ :two::hammer:  
+__blasé__ _adj_ :three: Indifferent to or bored with life; unimpressed, as or as if from an excess of worldly pleasures.  
 __blasphemous__  
 __blast__ _n_ :two: __9__ _slang_ A highly exciting or pleasurable experience or event, such as a big party. A great experience, a very enjoyable time.  
 __blatant__ _adj_ :six::hammer:  
@@ -2135,7 +2137,7 @@ __bossy__ _adj_
 __bosun__ _n_ :two::hammer: _Bosun’s chairs._ _The aviation bosun._  
 __bot__ _n_  
 __botanicals__ _n_  
-__botch__ _v_ _McDonald’s is getting heat for its AI voicebots completely botching drive-through orders._  
+__botch__ _vt_ :two::hammer: _McDonald’s is getting heat for its AI voicebots completely botching drive-through orders._  
 __botched__ _adj_ :four: Used to describe something, usually a job, that is done badly. _A botched deal._  
 __bothersome__ _adj_ :dart::two: Causing bother; troublesome.  
 __botnet__  
@@ -2295,6 +2297,7 @@ __brickbat__ _n_ :two::hammer:
 __bridal gown__ _n_  
 __bridesmaid__  
 __bridezilla__ _n_ /bryd-ZIL-uh/ A woman who is overbearing and obnoxious in planning her wedding.  
+__bridgehead__ _n_ A forward position seized by advancing troops in enemy territory as a foothold for further advance. _Syn_ foothold  
 __bridle__ _n_ :two::pencil2: __1__ A harness, consisting of a headstall, bit, and reins, fitted about a horse’s head and used to restrain or guide the animal.  
 __briers__  
 __brig__ _n_ :four::hammer:  
@@ -2498,6 +2501,8 @@ __bumpy__ _adj_ :two::hammer: _A bumpy ride._
 __bun__ _n_ :two::hammer: _All that on a a sesame seed bun._  
 __bunch<sup>1</sup>__ _n_ _Bunches of grapes._  
 __bunch<sup>2</sup>__ _v_ :camera::seven::hammer: (bunched, bunching) _Organic bunched carrots, 98¢ per pound._ _Bunched together far behind Trump are Sens. Rubio and Cruz._ _Placing the satellites at safe intervals to avoid bunching._ _Bunching socks._  
+__bunco<sup>1</sup>__ _n_ A swindle in which an unsuspecting person is cheated; a confidence game.  
+__bunco<sup>2</sup>__ _vt_ To swindle.  
 __Bund__ _n_ __2__ (Historical Terms) Short for German American Bund, an organization of US Nazis and Nazi sympathizers in the 1930s and 1940s.  
 __bungalow__ _n_ :two::pencil2::hammer:  
 __bungee cord__ _n_ :camera::four::hammer:  
@@ -2523,7 +2528,7 @@ __bunting__ _n_ :three::hammer: __3__ A snug-fitting, hooded sleeping bag or one
 __Bunyanesque__ _adj_  
 __buoy<sup>1</sup>__ _n_ :two: A floating signal; a life preserver.  
 __buoy<sup>2</sup>__ _v_ :four: (buoyed) __1__ Keep (someone or something) afloat. __2__ Sustain.  
-__buoyancy__  
+__buoyancy__ _n_ :dart::two: __2__ Ability to recover quickly from setbacks; resilience. __3__ Lightness of spirit; cheerfulness. Irrepressible liveliness and good spirit. _Syn_ irrepressibility _With his natural buoyancy of spirits, he began to hope again._  
 __buoyant__ _adj_ :five: __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _Buoyant energy._ _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
 __buoyed__  
 __burb__ _n informal_  
@@ -2594,7 +2599,7 @@ __butcher__ _n_ _Lindsay makes championship haggis at her family butchers._
 __butt crust__  
 __butt out__ _v_ :two::hammer:  
 __butt up__ _v_ _Butt up against obstacles._  
-__butt__ _n_ _Rainwater butts._  
+__butt__ _n_ :two::hammer: _Rainwater butts._ _Two iron water butts._  
 __butt-fumble__  
 __butt-strap__ _n_  
 __butt<sup>1</sup>__ _v_  
@@ -2893,7 +2898,7 @@ __card__ _v_
 __Cardan__ _n_ A universal joint that transmits motion unchanged. _Optional Cardan mount._  
 __cardiac arrest__ _n_ :two::hammer:  
 __cardigan__ _n_ A usually collarless sweater or jacket that opens the full length of the center front.  
-__cardinal__ _adj_ :two: __1__ Of foremost importance; paramount: _a cardinal rule; cardinal sins._ _Syn_ fundamental, central, primal _The cardinal rule of membership in the secret society was never to reveal its existence to outsiders._ __2__ Dark to deep or vivid red.  
+__cardinal__ _adj_ :three: /KAHRD-nul/ __1__ Of foremost importance; paramount: _a cardinal rule; cardinal sins._ _Syn_ fundamental, central, primal _The cardinal rule of membership in the secret society was never to reveal its existence to outsiders._ __2__ Dark to deep or vivid red.  
 __cardioembolic__ _adj_  
 __cardioplegia__ _n_ /ˌkɑːdɪəʊˈpliːdʒɪə/ Deliberate arrest of the action of the heart, as by hypothermia or the injection of chemicals, to enable complex heart surgery to be carried out.  
 __careen__ _v_ :nine::m::camera: (careens, careened, careening) __1__ _(nautical)_ To heave a ship down on one side so as to expose the other, in order to clean it of barnacles and weed, or to repair it below the water line. __2__ _(nautical)_ To tilt on one side. __3__ To lurch or sway violently from side to side. _An open-air tour bus careened wildly out of control._ __4__ To tilt or lean while in motion. __5__ To career, to move rapidly straight ahead.  
@@ -3009,7 +3014,7 @@ __catalyze__ _v_ :pencil2:
 __catamaran__ _n_  
 __catamounts__  
 __cataplasm__ _n_ A _Syn_ poultice, plaster  
-__catapult<sup>1</sup>__ _n_ __3__ A slingshot. :es: tirachinas  
+__catapult<sup>1</sup>__ _n_ :two::hammer: __3__ A slingshot. :es: tirachinas  
 __catapult<sup>2</sup>__ _v_ :two::hammer: (catapulted)  
 __cataract__ _n_ :two::hammer: :es: cataratas  
 __catarrh__ _n_ :two::astonished::pencil2: Copious discharge of mucus associated with inflammation of mucous membranes, especially of the nose and throat.  
@@ -3117,7 +3122,7 @@ __cesarean<sup>1</sup>__ _adj_
 __cesarean<sup>2</sup>__ _n_  
 __cessation__ _n_ :four::mega::pencil2: A ceasing or stopping; discontinuance; pause: _temporary cessation of hostilities._  
 __Cessna__  
-__cesspit__ _n_ A pit for refuse or sewage. _Syn_ sump, sink, cesspool _The cesspit smelled foul, but without it all the refuse would have been strewn around the town._  
+__cesspit__ _n_ :two: A pit for refuse or sewage. _Syn_ sump, sink, cesspool _The cesspit smelled foul, but without it all the refuse would have been strewn around the town._  
 __cesspool__ _n_ :nine::m: (cesspit) __1__ _building_ (sink, sump) A covered cistern, etc, for collecting and storing sewage or waste water. __2__ A filthy or corrupt place: _a cesspool of iniquity._ _The journalist cesspool._  
 __chads__ _n_  
 __chafe<sup>1</sup>__ _v_ :nine::m: (chafes, chafed, chafing) __4__ To cause friction; rub. If a part of your body chafes or if something chafes it, it becomes sore because of something rubbing against it. _Her bare ankles chafing against the tops of her tennis shoes._ _Chafing dishes._  
@@ -3472,7 +3477,7 @@ __clammy__ _adj_ :six::hammer: _His skin was clammy._
 __clamor__ _v_ :two: (clamoring) __1__ To make loud demands. _He clamored for justice and tolerance._ __2__ To utter or proclaim insistently and noisily. _The delegates clamored their disappointment._  
 __clampdown__ _n_ :six::hammer: _An immigration clampdown._  
 __clamped__ _v_  
-__clandestine__ _adj_ :two: /klænˈdɛstɪn/ Kept or done in secret, often in order to conceal an illicit or improper purpose. _Syn_ hush-hush, cloak-and-dagger, undercover, underground, hole-and-corner, hugger-mugger, secret, surreptitious _The clandestine affairs of the congressman are being investigated by the ethics committee._  
+__clandestine__ _adj_ :three::mega: /klænˈdɛstɪn/ /klan-DESS-tun/ Kept or done in secret, often in order to conceal an illicit or improper purpose. _Syn_ hush-hush, cloak-and-dagger, undercover, underground, hole-and-corner, hugger-mugger, secret, surreptitious _The clandestine affairs of the congressman are being investigated by the ethics committee._  
 __clang<sup>1</sup>__ _n_ :five::hammer: (sound) _A sharp clang sounded._ _The shout and clang of battle._ __2__ The strident call of a crane or goose.  
 __clang<sup>2</sup>__ _v_ :two::hammer: _Bells clanging._  
 __clanging__ _adj_ :astonished::two::hammer:  
@@ -3965,6 +3970,7 @@ __confound__ _v_ :nine::m: /kən-found′, kŏn-/ (confounded, confounding) __1_
 __confounded__ _adj_ :three::hammer:  
 __confounding__ _adj_ :three: That confounds or contradicts or confuses _Syn_ contradictory _Confounding factors._  
 __confrerie__ _n_ :two::pencil2::hammer: (confreries)  
+__confusion__ _n_ :pencil2:  
 __confute__ _v_ Prove to be false. _Syn_ disprove _He took out a packet of old letters and began turning them over as if in search of one that would confute Terence’s suspicions._  
 __confuzzle<sup>1</sup>__ _n_ _slang, childish_ A state of confusion or puzzlement.  
 __confuzzle<sup>2</sup>__ _v_ _slang, childish_ To confuse or puzzle.  
@@ -3974,6 +3980,7 @@ __congenial__ _adj_ :six: /kun-JEEN-yul/ __1__ Pleasant. _The office is a congen
 __congeries__ _n_ (used with a sing. verb) A sum total of many heterogeneous things taken together. _Syn_ conglomeration, aggregate  
 __congest__ _v_  
 __congested__ _adj_ __3__ (of the nose) Blocked with mucus.  
+__congestion pricing__  
 __congestion__ _n_ _The congestion during peak hours._  
 __congestive__ _adj_  
 __conglomerate__  
@@ -4120,7 +4127,7 @@ __cook__ _n_
 __cook-off__ _n_ :two: A cooking competition. _Chili cook-offs._  
 __cookie cutter__ _n_ :camera: A device for cutting flattened cookie dough into shapes before baking.  
 __cookie__ _n_ :dart::two: [:scroll: from Dutch koekje, diminutive of koek _cake_, so it essentially means a “small cake”] __3__ _informal_ A person: _smart cookie._  
-__cookout__ _n_ :four: A social gathering at which a meal is cooked and eaten outdoors.  
+__cookout__ _n_ :five: A social gathering at which a meal is cooked and eaten outdoors.  
 __cooktop__ _n_ :six::hammer: _Ceramic/Electric/Gas cooktop._  
 __cookware__  
 __cool your jets__  
@@ -4222,7 +4229,7 @@ __cosseted__
 __costliest__ _adj_ :two::hammer:  
 __costumier__ _n_  
 __cot__ _n_ :three::hammer: _Ryan chooses to bed down in a cot in his office every night the House is in session._  
-__coterie__ _n_ :two::hammer: (coteries)  
+__coterie__ _n_ :three: /KOH-tuh-ree/ An intimate and often exclusive group of people with a unifying common interest or purpose.  
 __coterminous__ _adj_ Being of equal extent or scope or duration _Syn_ coextensive, conterminous  
 __cottage__ _n_ :three::astonished::hammer: _Cottage on premises._  
 __Cotton Belt__ _n_ (cotton belt) A belt of land in the southeastern US that specializes in the production of cotton.  
@@ -4403,7 +4410,7 @@ __crescent<sup>2</sup>__ _adj_ :two::hammer:
 __crest__ _v_ _The Fox River is expected to crest Tuesday._  
 __crestfallen__ _adj_ :seven: Dispirited and depressed; dejected.  
 __crevasse__ _n_ :two::hammer:  
-__crevice__ _n_ :five: (crevices) A narrow opening or fissure, especially in a rock or wall. _Many creatures hide in crevices in the rock._ _Syn_ crack, fissure, cleft, chink, interstice, cranny, nook :es: resquicio, hoyo  
+__crevice__ _n_ :six: A narrow opening or fissure, especially in a rock or wall. _Many creatures hide in crevices in the rock._ _Syn_ crack, fissure, cleft, chink, interstice, cranny, nook :es: resquicio, hoyo  
 __crew cut__ _n_ :three::hammer: _A tall crew cut._  
 __crewcats__  
 __crib__ _n_ :six: __2a__ A small building, usually with slatted sides, for storing corn. __b__ A rack or trough for fodder; a manger. __c__ A stall for cattle. __10__ _n informal_ A literal translation used in studying a foreign language (often used illicitly).  
@@ -4904,7 +4911,7 @@ __defector__ _n_ :five::hammer: _Army defectors._
 __defenestration__ _n_ :two: Defenestration originally meant “a throwing of a person or thing out of a window.” Today, it’s more often used for “a usually swift dismissal or expulsion (as from a political party or office).” _Michael’s annoyance at his alarm clock’s persistent drone led to its sudden defenestration from his eighth-floor bedroom._  
 __defensive__ _adj_ :two::hammer: _You seem defensive now._  
 __defer__ _v_ :seven: /dih-FER/ (deferred) To delay or cause to be delayed until a future time; postpone. To choose to do (something) at a later time. _She deferred her master’s program for a year so that she could travel the world._  
-__deference__ _n_ :five::hammer:  
+__deference__ _n_ :six::hammer: /DEF-uh-runss/  
 __deferential__  
 __deferentially__  
 __deferment__ _n_ :three::hammer:  

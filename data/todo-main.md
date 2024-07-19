@@ -1,28 +1,3 @@
-__adulterate__ _vt_ /uh-DUHL-tuh-rayt/ To add a cheaper or inferior substance to something.  
-__amusement park__ _n_  
-__apportionment__ _n_ The act of distributing by allotting or apportioning; distribution according to a plan. _Syn_ parceling, assignation, allocation, allotment  
-__aqueduct__  
-__balustrade__  
-__beryl__ _n_  
-__bilk<sup>1</sup>__ _vt_  
-__bilk<sup>2</sup>__ _n_  
-__blasé__ _adj_ Indifferent to or bored with life; unimpressed, as or as if from an excess of worldly pleasures.  
-__botch__ _vt_  
-__bridgehead__ _n_ A forward position seized by advancing troops in enemy territory as a foothold for further advance. _Syn_ foothold  
-__bunco<sup>1</sup>__ _n_ A swindle in which an unsuspecting person is cheated; a confidence game.  
-__bunco<sup>2</sup>__ _vt_ To swindle.  
-__buoyancy__ _n_ :dart: __2__ Ability to recover quickly from setbacks; resilience. __3__ Lightness of spirit; cheerfulness. Irrepressible liveliness and good spirit. _Syn_ irrepressibility _With his natural buoyancy of spirits, he began to hope again._  
-__butt__ _n_ _Two iron water butts._  
-__cardinal__ _adj_ /KAHRD-nul/  
-__catapult__ _n_  
-__cesspit__ _n_  
-__clandestine__ _adj_ /klan-DESS-tun/  
-__confusion__ _n_ :pencil2:  
-__congestion pricing__  
-__cookout__ _n_ A social gathering at which a meal is cooked and eaten outdoors.  
-__coterie__ _n_ /KOH-tuh-ree/ An intimate and often exclusive group of people with a unifying common interest or purpose.  
-__crevice__  
-__deference__ _n_ /DEF-uh-runss/  
 __delay__ _n, v_ /dɪˈleɪ/  
 __delirious__ _adj_ Marked by uncontrolled excitement or emotion; ecstatic. _Syn_ excited, frantic, mad, unrestrained  
 __demeanor__ _n_ :mega:  
