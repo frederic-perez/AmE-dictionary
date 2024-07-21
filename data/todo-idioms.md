@@ -1,18 +1,27 @@
 __(something) won’t get (someone) anywhere__ Something, typically a certain behavior, will not help someone progress or succeed in any way.  
 __a kick in the butt__ A forceful gesture or message of some kind (usually delivered with good intentions) that acts as motivation to the (previously unmotivated) recipient. _These days, teenagers seem to need a swift kick in the butt to convince them to do well in school._  
+__a-ha moment__  
 __be (someone’s) call__ To be ultimately left up to someone to decide. _I don’t really care what movie we see—it’s your call._  
 __be (the) bomb__ To be excellent, extremely entertaining, or of very high quality. _This steak I ordered is bomb!_ _I’m not usually a fan of action films, but that one was the bomb!_  
 __be not just another pretty face__ To have distinguishing achievements, intelligence, skills, or abilities beyond what was or may have been assumed.  
 __black bag job__  
 __blah__ __2__ _adj_ Displeased, dissatisfied, or dejected. _I’m just feeling kind of blah after reading that negative review of my play._  
 __bristle at something__ :dart: [:scroll: Alludes to a dog or cat raising the hair on its back in anger or as a threat] To show sudden anger or other negative response to something. _She bristled at the suggestion._  
+__cash cow__  
+__catch on__ __1__ To become popular or widespread.  
 __catch up on (something)__  
+__Chekhov’s gun__ /chek-ofs GUHN/ [:scroll: After the playwright and doctor Anton Chekhov (1860-1904) who espoused this principle] __1__ The literary principle that if an element is introduced in a story, it must be shown to have a purpose. __2__ An element introduced in a story that is revealed to have a purpose later on.  
+__commend (someone) for (something)__ To compliment or praise someone for something that they have done. _I have to commend you for your extraordinary bravery in a dangerous situation. I’m sure all of the people you rescued from the fire see you as a hero._  
 __cost the earth__ To be exorbitantly expensive.  
 __dad bod__ _slang_ [:scroll: From _dad_ + _bod_, an abbreviation of _body_] A physique characterized by moderate chubbiness; the stereotypical physique of a middle-aged dad. The phrase is often used affectionately or approvingly. _Aww, I don’t care that he’s a bigger guy—I like guys with a dad bod._  
+__every dog has his/its day__  
+__far and wide__  
 __faster than you can say Jack Robinson__ :dart: Extremely quickly; almost immediately; suddenly or in a very short space of time. _Once I’m finished with high school, I’ll be outta this two-bit town faster than you can say Jack Robinson!_  
 __find/take shelter__ To go somewhere for cover and protection from danger, bad weather, etc. _They found/took shelter in a cave during the storm._  
 __flip-flop__ __1__ _v_ To completely change one’s opinion or stance. Primarily heard in US.  
+__foot the bill__ To pay for something. _I hope the production company is footing the bill for all of this air travel._  
 __from a mile away__  
+__from the get-go__  
 __get in(to) hot water__  
 __get into it__  
 __get it (all) together__  
@@ -60,6 +69,7 @@ __grapple with (someone or something)__ :two::hammer:
 __green thumb__  
 __have a rocky start__ To have a troubled, uncertain, or discouraging beginning.  
 __have a shit__  
+__hear the end of (someone or something)__  
 __heat wave__ A period of time in which the weather is unusually and persistently hot.  
 __hell on earth__  
 __hem and haw__  
@@ -225,6 +235,7 @@ __mixed feelings__
 __mixed message__  
 __mm-hmm__ _informal_ Yes; yeah. A verbal expression used to express agreement or acknowledgement. Formed by intoning “uh-huh” with a closed mouth.  
 __modus operandi__ :two::mega: A unique and habitual method of doing something. From Latin, literally “mode of operation.” Used especially in reference to criminal behavior.  
+__mooch off (of) (someone or something)__ To ask for or obtain (something) through the charity of someone or something; to sponge off someone or something else. _My brother has been mooching off me and my wife ever since he lost his job._  
 __more often than not__  
 __move mountains__ :dart: To do or achieve something that is incredibly difficult.  
 __move the dial__  
@@ -244,6 +255,7 @@ __nice and (something)__ :five: Very something. Used to emphasize how nice somet
 __no end in sight (to something)__  
 __no stranger to (something)__  
 __noblesse oblige__ /noh-BLESS-uh-BLEEZH/ Noblesse oblige refers to the idea that people who have high social rank or wealth should be helpful and generous to people of lower rank or to people who are poor.  
+__nose-dive__ Take a sudden downtrend.  
 __not a chance__ :dart: (There is) no possibility (that that will happen). _You? Beat me? At ping pong? Not a chance!_  
 __not have all day__ To be in a rush; to not have much or any time to spare. Usually used in the present tense. _How long is this repair job going to take? I don’t have all day!_  
 __not just another pretty face__ Having distinguishing achievements, intelligence, skills, or abilities beyond what was or may have been assumed. (The assertion that someone is also very attractive is sometimes meant to be humorous rather than literal.) _Yeah, I know how to fix your computer. I’m not just another pretty face, you know!_  
@@ -294,6 +306,7 @@ __org__ __2__ _n_ An organization.
 __out of commission__  
 __out of place__  
 __out of pocket__  
+__out of sight, out of mind__  
 __out of the wood(s)__  
 __out of thin air__  
 __out of touch__  
@@ -306,6 +319,7 @@ __paper tiger__
 __paper trail__ Physical or digital documentation of a person’s activities.  
 __part ways (with one)__  
 __pave the way (for someone or something)__ :dart:  
+__peaks and troughs__ :dart: __1__ High points and low points, as in a graph, statistical model, economic cycle, etc. _I wouldn’t buy that stock right now because it’s experiencing some drastic peaks and troughs._ __2__ Good times and bad times. _Life is full of peaks and troughs—the trick is not to let the low points get you down._  
 __peanut gallery__  
 __peek out__  
 __pepper with (something)__  
@@ -317,6 +331,7 @@ __picture this__
 __pie in the sky__ :two: An impossible, unlikely, or fanciful idea or plan. Often hyphenated.  
 __piggyback on(to) (something)__ To use something said or done by someone else as the foundation for one’s own actions.  
 __pile up__  
+__pilfer from (someone or something)__  
 __pin down__ :two: __2__ By extension, to try to force someone into a position where they must commit to a single, precise answer or piece of information. In this usage, a noun or pronoun can be used between “pin” and “down.” _The president never let reporters question him long enough for them to pin him down on any issue they brought up._  
 __pinch__  
 __piss off__  
@@ -347,6 +362,7 @@ __put (someone or something) to the test__
 __put (something or someone) on the map__ To make (a place, a person, etc.) famous or well-known.  
 __put on a happy face__ To begin to smile and act cheerful.  
 __put on pause__  
+__put out__ __2__ _v_ To generate or create. _This computer is powerful, but it puts out an absurd amount of heat._ _Since then, he’s put out 18 albums._  
 __put up a fight__  
 __quality time__ Time spent interacting with someone in a close, meaningful way.  
 __question mark__ An unknown or uncertainty.  
@@ -357,7 +373,7 @@ __raise (one’s) eyebrows__
 __raise the stakes__  
 __ramp up__ :four::hammer:  
 __reach out to (one)__  
-__reality check__ :dart: An event or outcome that forces one to accept or reevaluate the reality of one’s position or situation.  
+__reality check__ :dart::two: An event or outcome that forces one to accept or reevaluate the reality of one’s position or situation.  
 __receive (one’s) just deserts__ To receive that which one deserves, especially a punishment or unfavorable outcome. (Note: The phrase is often misspelled as “just desserts,” due to the pronunciation of “deserts” and “desserts” being the same in this context.) _The CEO cheated his clients out of nearly $4 million, but he received his just deserts when he was stripped of everything he owned and sent to prison._  
 __reclaim (someone or something) from (someone or something else)__ To regain or resume possession of someone or something from someone or something.  
 __recount (something) to (one)__ To narrate or share the facts or details of some experience or story to one.  
@@ -376,6 +392,8 @@ __rocky start__ A troubled, uncertain, or discouraging beginning.
 __roll out__  
 __roll with it__ To adapt to a situation despite unexpected circumstances or challenges.  
 __roll with the punches__ :dart:  
+__rope (one) into (doing) (something)__ To persuade, entice, or enlist one to do or participate in something. _I really didn’t want to sing in the talent show, but Janet roped me into it._  
+__rough sleeper__ Someone who sleeps outside at night (i.e., “sleeps rough”), usually because they have no home. Primarily heard in UK, Australia.  
 __round on__ To suddenly attack, berate, or show hostility toward someone, especially verbally. _I know he seems friendly, but he’ll round on you in an instant if you disagree with him._  
 __rue the day (that something happened)__ To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
 __rule of law__  
@@ -401,6 +419,7 @@ __scrape by__
 __scrub (something)__ :three: To cancel or abort some plan or activity.  
 __sea change__ A massive, fundamental shift or transformation.  
 __second wind__ A renewed energy after a period of fatigue. _I planned to stop working at 9, but then I got my second wind and just kept going._  
+__see red__ To fall into a state of extreme anger, excitement, or competitive arousal, such as might cloud one’s judgement or senses. _He’s generally not a confrontational person, but you’d better get out of his way when he sees red!_ _I see red when anyone disrespects my wife._  
 __see the light of day__  
 __seep in(to something)__  
 __serve (one’s) time__  
@@ -424,6 +443,10 @@ __something of sorts__ An inferior example of a kind of something.
 __sound the alarm__  
 __spic and span__ (spick and span) Totally clean and/or organized. _I plan to spend the day cleaning so that this place is spick and span when my mother-in-law arrives._  
 __spill the tea__  
+__splurge (on someone or something)__ To spend a lot of money (on someone or something) in an indulgent or self-gratifying manner. _You need to put some of that money into a savings account instead of just splurging the moment you get each paycheck._  
+__sponge off__  
+__spray and pray__ The act of blindly firing an automatic weapon with the intent of potentially hitting the target; tends to be ineffective.  
+__sub rosa__  
 __swole__ _slang_ _adj_ /SWOHL/ Very muscular (i.e., swollen with muscles). _I always go to the gym right before I go to the club so I look more swole._  
 __take a stand__  
 __take a/the bullet (for someone)__  
@@ -452,6 +475,7 @@ __up and running__
 __up for grabs__  
 __up to snuff__ (up to scratch) As good as what was expected, required, or demanded; satisfactory or adequate. _Sorry, Tom. Your performance isn’t up to snuff. You’ll have to improve or find another job._ _My paper wasn’t up to scratch, so I got an F._  
 __uphill battle__  
+__ups and downs__ Positive and negative events or experiences, considered collectively. _Oh, we’ve had our share of ups and downs, like any married couple._  
 __user base__ :two: (business jargon) The number units of a particular product or service that are currently in use, especially software or an internet or computing platform. (Also referred to as “install(ed) user base” or simply “install(ed) base.”)  
 __vette__ A colloquial shortening of “Corvette,” a sports car manufactured by Chevrolet. The abbreviation can also be capitalized or spelled with an apostrophe.  
 __vouch for (someone or something)__  
