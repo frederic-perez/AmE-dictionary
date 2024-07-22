@@ -48,31 +48,6 @@ __flyover__ _n_
 __foist__ _v_ /FOIST/ _Foist_, which is almost always used with _on_ or _upon_, is used when someone forces another person to accept something, usually something that is not good or is not wanted. Foist can also mean “to pass off as genuine or worthy.”  
 __folly__ _n_ (construction)  
 __footage__ _n_ :mega:  
-__formicary__ _n_ A nest of ants. _Syn_ anthill  
-__fountainhead__ _n_ /foun′tən-hĕd′/ /ˈfaʊntɪnˌhɛd/ /ˈfaʊn tnˌhɛd/ __1__ A spring that is the source or head of a stream. __2__ A chief and copious source; an originator.  
-__front__ _n_ A movement linking divergent elements to achieve common objectives (used especially to refer to a political coalition).  
-__froward__ _adj_ Stubbornly contrary and disobedient; obstinate. _Syn_ headstrong, self-willed, willful  
-__fulsome__ _adj_ :dart: Unpleasantly and excessively suave or ingratiating in manner or speech. _Syn_ unctuous, buttery, oleaginous, smarmy, oily _His introduction contained such fulsome flattery that I began to wonder whether anything else he said could be trusted._  
-__funnel cake__ _n_  
-__futile__ _adj_ /FYOO-tul/  
-__gadfly__ _n_ /GAD-flye/ In literal use, gadfly refers to any of various flies (such as a horsefly, botfly, or warble fly) that bite or annoy livestock. Gadfly is most popular in figurative use, however, where it refers to someone who provokes or annoys other people especially by persistent criticism. _The journalist was known as a gadfly for exposing hypocrisy in politics._  
-__galvanic__ _adj_ /gal-VAN-ik/ __1__ Stimulating; energizing; shocking. __2__ Relating to electric current, especially direct current.  
-__gator__ _n_ (gater)  
-__ghost word__ _n_  
-__glean__ _v_ /GLEEN/ To glean is to gather or collect something bit by bit, or in a gradual way. _Glean_ can also be used to mean “to search (something) carefully” and “to find out.”  
-__gossip__ _v_ /GAH-sup/ To gossip is to talk about the personal lives of other people.  
-__grill__ _vt_ __3__ _informal_ To question relentlessly; cross-examine.  
-__gripping__ _adj_  
-__grouse__ _v_  
-__guide word__ _n_  
-__haggle__ _v_ To bargain, as over the price of something; dicker. _Syn_ chaffer, higgle, huckster _He preferred to be overcharged than to haggle over such a trivial item._  
-__halcyon__ _adj, n_  
-__hand-pick__ _vt_ To choose or select with great care, as for a special job or purpose.  
-__hangnail__ _n_ :dart: A small piece of dead skin at the side or the base of a fingernail that is partly detached from the rest of the skin. :es: padrastro  
-__haply__ _adv_ By accident. _Syn_ by chance, by luck _Her true feelings were betrayed by a word haply spoken and immediately regretted._  
-__harry__ _v_ /HAIR-ee/ To harry someone or something is to harass or torment them by or as if by constant attack. _The visiting team harried the home team relentlessly during the first quarter._  
-__headwind__ _n_  
-__headword__ _n_  
 __hibernal__ _adj_ Of or relating to winter. _Syn_ brumal, hiemal  
 __holdout__ _n_  
 __Hooray Henry__ _n_ /hoo-ray HEN-ree/ (Hooray Henrietta) A young, upper-class man who behaves in a loud, obnoxious, and often pretentious manner.  
