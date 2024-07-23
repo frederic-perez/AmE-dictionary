@@ -98,31 +98,6 @@ __marionette__ _n_ _Syn_ puppet
 __meliorism__ _n_ /MEE-lee-uh-riz-um/ _Meliorism_ refers to the belief that the world tends to improve and that humans can aid its betterment.  
 __midriff__  
 __misnomer__  
-__misstep__ _n, v_  
-__modicum__ _n_  
-__mohawk__ _n_ /ˈməʊhɔːk/  
-__moxie__ _n_ /MAHK-see/ _Moxie_ can refer to courage and determination (aka nerve), energy and pep (aka verve), or know-how (as, say, reflected in one’s oeuvre). _They showed a lot of moxie in questioning their company’s policy._  
-__mull__ _v_  
-__natural hat trick__ _n_ _sports_ A hat trick in which three goals are scored in succession by one player in one game.  
-__navel__ _n_ The mark on the surface of the abdomen of mammals where the umbilical cord was attached during gestation. _Syn_ bellybutton, omphalos, umbilicus  
-__newt__ _n_  
-__nip__ _n_  
-__nosy__ _adj_  
-__orphan drug__ _n_ A drug that remains undeveloped or is neglected because of limited potential for commercial gain.  
-__otiose__ _adj_ /OH-shee-ohss/ Otiose is a formal word typically used to describe either something that serves no useful purpose, or something that has no use or effect.  
-__outlying__ _adj_ Relatively distant or remote from a center or middle: _outlying regions._ _Outlying areas._  
-__outright__ _adj, adv_  
-__outsized__ _adj_  
-__overall__  
-__overcapacity__ _n_  
-__overeager__ _adj_ Excessively eager; too ardent or impatient.  
-__overly__  
-__overstretched__ _adj_ /ˌəʊvəˈstrɛtʃt/ Subject to excessive demands or put under excessive pressure. _Overstretched staff._  
-__palatable__ _adj_  
-__palmer__ _n_ :m: /ˈpɑːmə/ __1__ A pilgrim, esp. of the Middle Ages, who had returned from the Holy Land bearing a palm branch as a token. __2__ Any religious pilgrim.  
-__palpable__ _adj_ /PAL-puh-bul/ Something described as _palpable_ is obvious and notable. _Palpable_ may also be used as a synonym of tangible to describe something that can be perceived by one’s sense of touch.  
-__pandemonium__ _n_ A state of extreme confusion and disorder. _Syn_ bedlam, chaos, topsy-turvydom  
-__pannier__ _n_  
 __panoply__ _n_ /PAN-uh-plee/  
 __Paralympics__ _n pl_  
 __parapraxis__ _n_ A minor error, such as a slip of the tongue, thought to reveal a repressed motive. _Syn_ slip-up, miscue, slip  
