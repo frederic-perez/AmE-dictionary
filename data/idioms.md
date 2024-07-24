@@ -4659,7 +4659,8 @@ __pop__ _I took four quick pops of Old Crown._
 __popcorn flick__ A film that is entertaining to watch but is generally not of a very high quality or rich in emotional or intellectual depth. _A: “So what movie do you want to go see later?” B: “I don’t feel like watching anything too heavy or complex—let’s just see whatever popcorn flick is out.”_  
 __poppycock__ _old-fashioned_ Foolish, nonsensical prattle.  
 __posse__ _slang_ A group of friends or associates that spend a lot of time together.  
-__poster child__  
+__poster child__ :three::hammer: _OpenAI is the poster child of the gen AI wave._  
+__postpone until (some later date or time)__ To delay (something) until a later date or time. A noun or pronoun can be used between “postpone” and “until” to specify what is being delayed.  
 __pot luck__ (potluck)  
 __Potemkin village__ :two: Something that is made to seem very grand, elaborate, or prosperous for the purposes of impressing others, but which in reality has no real worth or substance.  
 __pounce (up)on someone or something__ :three::hammer:  
@@ -4672,6 +4673,7 @@ __powerhouse__ :three: A person, group, organization, etc., that has a lot of po
 __powers that be__ The people who are in authority. _The powers that be have decided to send back the immigrants._  
 __practice makes perfect__ :three: _Prov. Cliché_ :two: Doing something over and over again is the only way to learn to do it well. _Child: How come you’re so good at peeling potatoes? Father: I did it a lot in the army, and practice makes perfect._  
 __prattle on (about someone or something)__ :two: To ramble, chatter, or babble (about someone or something) in an idle, meaningless, or incessant way. _What on earth is he prattling on about now?_  
+__preppy__ __1__ _Preppy_ is the word we use to describe those rich kids that look down on anyone whose shoes cost less than a car. It’s the perfect word to describe the pompousness and snootiness of the crustiest of the upper crust. Just recall the fashion of _Carlton Banks_ of _The Fresh Prince of Bel-Air._ _adj_ _slang_ Having the look or manner of an expensive preparatory school student, typically characterized by wealth, snobbishness, and an adoption of current fashions, trends, or styles. _I hate the preppy clothes he’s been wearing ever since he started hanging out with the cool kids at school._ _He’s a bit preppy, sure, but he’s smart and is actually really interested in classic literature._ __2__ _n_ _slang_ A person who affects the look or manner of an expensive preparatory school student. _She’s just another preppy who get’s a get-out-jail-free card anytime she screws up, huh?_  
 __pressure cooker__ :two::hammer: _Too many of us feel like we’re living inside a pressure cooker._  
 __presto__ _interjection_ A phrase said when doing or producing something very quickly or easily. Primarily heard in US. _All I need to do is reconfigure your IP address and... presto! Your connection is back to normal._  
 __prevention is better than cure__ _proverb_ Work to stop something from happening is easier and better than having to try to resolve it later.  
@@ -4690,6 +4692,7 @@ __promises, promises__ A sarcastic reply to a promise or assurance that one does
 __prone to__  
 __prop up__ :two::hammer: _But with her leg propped up._  
 __psyched__ Extremely surprised, excited, or nervous. Feeling a very strong emotion.  
+__public eye__  
 __publicity hound__ Someone who seeks to have the attention of the public constantly focused on him- or herself, typically by means of attracting media coverage. _The former actor’s run at politics is seen by many as just another stunt by a publicity hound desperate to keep the spotlight on himself._  
 __pull (one’s) leg__ To tease or joke with someone, often by trying to convince them of something untrue.  
 __pull (one’s) weight__ :dart: To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
@@ -4704,14 +4707,17 @@ __pull out__
 __pull over__ _On that summer road trip, we pulled over every night to get out and stretch._  
 __pull rank__ _He pulled rank and told the pilot to shut up._  
 __pull someone’s leg__ :three: To make a playful attempt to fool or deceive someone. _You’re pulling my leg._ _Just pulling your leg, Mom._  
-__pull something off__ :dart::three: __1__ _informal_ To manage to make something happen. _Yes, I can pull it off. Do you think you can pull off this deal?_  
+__pull something off__ :dart::five: __1__ _informal_ To manage to make something happen. _Yes, I can pull it off. Do you think you can pull off this deal?_  
 __pull tabs__ (casino)  
 __pull teeth__ __1__ To do something that is especially difficult, tedious, or requires an extreme amount of effort; to do something in the most difficult or unpleasant way possible. _I’ve been pulling teeth trying to get my family members organized for this get together, but I think it will all be worth it!_ __2__ To make someone or something less powerful, potent, or effective. A noun or pronoun is used between “pull” and “teeth.” _Corporate lobbyists are trying to pull the new law’s teeth to give them greater leeway in the market._  
 __pull the carpet (out) from under (one’s) feet__ To suddenly or unexpectedly remove or rescind support, help, or assistance from one; to abruptly cause one to be in a problematic or difficult situation.  
 __pull the plug (on someone or something)__ :two::hammer:  
+__pull the trigger (on something)__ To make a final decision or commit to a certain course of action (about something).  
 __pull your socks up__ To improve your work or behaviour.  
 __pump in__  
+__pump out__  
 __pump someone up (for something)__  
+__pump the brakes__ :dart:  
 __punch out__ To record that one has left one’s workplace at a certain time. _Why didn’t you punch out when you left last night?_  
 __punch the (time) clock__ __1__ (of an employee) Clock in or out. __2__ Be employed in a conventional job with regular hours.  
 __punch up__  
@@ -4719,7 +4725,7 @@ __punk out__ _slang_ To abandon, give up, or refuse to do something out of cowar
 __punk__ _n_  
 __puppet master__ :two: Someone who uses their actions or words to control someone or something of lesser will, also known as pulling the strings of someone or something.  
 __puppy love__ :two::hammer:  
-__pure and simple__ Essentially or fundamentally so, without exaggeration or elaboration. _I was a political casualty, pure and simple._  
+__pure and simple__ :two: Essentially or fundamentally so, without exaggeration or elaboration. _I was a political casualty, pure and simple._  
 __push (one’s) buttons__  
 __push back__ :three::hammer:  
 __push the envelope__ :four: To expand on, exceed, or test the limits of the established norm or standard. _It’s a natural stage for most teenagers to push the envelope of their parents’ rules._ _Pushing the envelope of contemporary Japanese cuisine._  
@@ -4736,7 +4742,7 @@ __put (one’s) foot in (one’s) mouth__ :three: To unintentionally say somethi
 __put (one’s) hands together (for someone or something)__ To applaud (someone or something); to clap (for someone or something). _Ladies and gentlemen, please put your hands together for our next comedian this evening!_  
 __put (one’s) head down__  
 __put (one’s) heart and soul into (something)__ :two: To do something with the utmost of one’s energy, enthusiasm, and determination. _We’ve put our hearts and souls into developing a truly revolutionary way of staying in touch with loved ones._  
-__put (one’s) money where (one’s) mouth is__ :three::hammer:  
+__put (one’s) money where (one’s) mouth is__ :four::hammer:  
 __put (one) off (something)__  
 __put (one) on hold__  
 __put (one) on notice__ To warn or alert one about something. _Boston put their prima donnas on notice._  
@@ -4744,8 +4750,9 @@ __put (oneself) in (someone’s) shoes__
 __put (or set) the record straight__ To make things clear, to explain something.  
 __put (someone or something) out of business__  
 __put (someone or something) to bed__ :two: __1__ To help someone, typically a child, prepare for and get into bed at night. _I’ll give you a call after I put the kids to bed._ __2__ To complete something or some initial preparatory phase. _I thought you’d put the proofreading for that edition to bed weeks ago!_ __3__ To stop discussing, thinking about, or focusing on something. _OK, I think we have to agree to disagree. Let’s just put the issue to bed and stop arguing._  
-__put (someone or something) to the test__ :three::hammer:  
+__put (someone or something) to the test__ :four::hammer:  
 __put (someone) in the picture__ To keep someone informed, aware, or up to date (about something); to involve someone in something.  
+__put (something or someone) on the map__ To make (a place, a person, etc.) famous or well-known.  
 __put (something) on hold__ :two::hammer:  
 __put (something) on ice__ __2__ To postpone or delay acting on or dealing with something.  
 __put (something) on the back burner__ :two::dart: To establish something as being a low priority; to give something less or little thought or attention; to postpone, suspend, or hold off on doing something. _It has put the needs of farmers on the back burner in favor of its own interests._  
@@ -4765,12 +4772,14 @@ __put it there__ :astonished: Shake my hand. As in greeting or in agreement to a
 __put off by someone or something__ :four: Distressed or repelled by someone or something. _I was really put off by your behavior. We were all put off by the unfairness of the rules._  
 __put on (one’s) thinking cap__ To begin thinking or considering very carefully and seriously (about something).  
 __put on a clinic__  
+__put on a happy face__ To begin to smile and act cheerful.  
 __put on a show__  
+__put on pause__  
 __put on the brakes__ :two: To slow down, impede, or stop one’s activity or progress. _We had to put on the brakes when we found out investors were pulling out of the company._  
 __put on weight__ To become heavier by gaining muscle mass or fat tissue. _I keep putting on weight, even though I’ve been cutting back on the junk food._  
 __put our heads together__ To discuss or plan something together with other people.  
 __put out fires__ :three::hammer:  
-__put out__ :two::hammer: _Put out the fires._  
+__put out__ :three::hammer: _Put out the fires._ __2__ _v_ To generate or create. _This computer is powerful, but it puts out an absurd amount of heat._ _Since then, he’s put out 18 albums._  
 __put pressure on (one)__  
 __put someone or something down__  
 __put that demon to rest__  
@@ -4785,7 +4794,7 @@ __put the wind up (someone)__ To make someone very anxious, upset, or frightened
 __put through the ringer__  
 __put to the test__ :three::hammer:  
 __put two and two together__  
-__put up a fight__ :three::hammer:  
+__put up a fight__ :four::hammer:  
 __put up with (someone or something)__ :dart::nine::m: [:sound: put up with] To abide or endure someone or something that one finds unpleasant, inconvenient, or annoying. To endure without complaint: _We had to put up with the inconvenience._ _They don’t put up with bullshit._ _We’re not going to put up with this anymore._ _People put up with it._ _I can put up with the injury._ _She put up with the men in her life because she had to._ _I don’t know how you put up with John—he’s such a loudmouth!_  
 __put up__  
 __put upon__  
@@ -4794,21 +4803,23 @@ __putzo__ :two::hammer:
 __putzy__ “Putzy” is a term that James Ellroy uses in his novels to describe someone who is incompetent, inept, or otherwise ineffective. It’s a slang term that captures the idea of someone who is struggling to get things done, or who is making a lot of mistakes.  
 __quack__ _n_  
 __quake like a leaf__ To tremble violently with fear or nervousness. _My brother is so strong and scary-looking that he leaves people quaking like a leaf when he threatens them._ _I was quaking like a leaf when I went up to deliver my speech._  
+__quality time__ Time spent interacting with someone in a close, meaningful way.  
 __Queen of Angels__ :two: It’s a nickname for Los Angeles in James Ellroy’s novels.  
+__question mark__ An unknown or uncertainty.  
 __quibble over (something)__  
 __quick buck__  
 __quick-and-dirty__ :two: _mod._ Rapidly and carelessly done.  
 __quid pro quo__ :two::hammer:  
 __quiet firing__ An informal term for the practice in which employers make workplace conditions worse for employees with the intent of driving some of them to quit. The term implies that this is done secretly or at least subtly enough to make it appear unintentional.  
 __quiet quitting__ :two::hammer: /kwahy-it kwit-ing/  
-__quite a (something)__ Used to signify something very significant, exemplary, or impressive.  
+__quite a (something)__ :dart::two: Used to signify something very significant, exemplary, or impressive.  
 __quite a few__ (quite a lot, quite a bit, quite a number) _Quite a few of them came to the party._ :es: bastante  
 __quite a lot__  
 __quite quitting__  
 __quite something__  
 __quitter__ One who gives up, especially before or without putting forth the maximum amount of effort possible. _The sport is too hard for you, is it? Well, good riddance—we don’t need a quitter like you on our team._  
 __quote, unquote__ :two::hammer:  
-__rabbit hole__ :five::hammer: _We fell into the poop rabbit hole again in this episode._ _We are falling down the rabbit hole._  
+__rabbit hole__ :six: A situation, journey, or process that is particularly strange, problematic, difficult, complex, or chaotic, especially one that becomes increasingly so as it develops or unfolds. _We fell into the poop rabbit hole again in this episode._ _We are falling down the rabbit hole._  
 __rabbit__ _v_ __1__ To run away quickly, usually to escape from something or someone. __2__ To talk excessively or rapidly.  
 __rabble-rouser__ :two: Someone who excites or provokes in others an intense emotional reaction or call to action; someone who tries to stir up trouble among other people. The term is always used in a negative way. _How can you listen to that fool? He’s just a rabble-rouser trying to sway mindless followers so that they join his cause._  
 __race against the clock__  
@@ -4821,17 +4832,17 @@ __rags to riches__ Characterized by a rise from poverty to great or exceptional 
 __ragtop__ _n_ A convertible car.  
 __rah-rah__  
 __rain check__ :dart::two: __1__ A substitute ticket or pass to attend an event that has been postponed for a later date. _They emailed us a rain check for the concert after the guitarist broke his hand in a rock-climbing accident._ __2__ By extension, a promise to take up an offer that one has initially declined. _I’m sorry, but I’ll have to take a rain check for dinner this Saturday. Would next weekend work for you?_  
-__rain or shine__ _Market open rain or shine._  
+__rain or shine__ :three::hammer: _Market open rain or shine._  
 __rainbows and unicorns__ :dart::three: Innocent, carefree happiness. Often used in negative constructions to indicate the opposite. _I know it’s ugly having to see someone you cared about betray you like that, but life isn’t all rainbows and unicorns._  
-__raise (one’s) eyebrows__  
+__raise (one’s) eyebrows__ :two::hammer:  
 __raise (ones) voice__ To speak or shout loudly, especially out of anger. _I know you’re upset, but there’s no need to raise your voice._  
 __raise a red flag__  
 __raise the alarm__ __2__ To alert other people about something dangerous, risky, or troublesome.  
 __raise the bar__ :four: To raise the standards of quality that are expected of or required for something.  
-__raise the stakes__  
+__raise the stakes__ :two::hammer:  
 __rake in (something)__ :two: To acquire or accumulate an abundance of something, especially money.  
 __ram into (someone or something)__  
-__ramp up__ :eight: To increase. A noun or pronoun can be used between “ramp” and “up.” _Ever since that break-in, they’ve really ramped up security at the office._ _The country needs to ramp up its CCTA program to meet demand._  
+__ramp up__ :nine::m: To increase. A noun or pronoun can be used between “ramp” and “up.” _Ever since that break-in, they’ve really ramped up security at the office._ _The country needs to ramp up its CCTA program to meet demand._  
 __rank and file__  
 __rapid fire__ _Start with rapid fire decisions._  
 __rarer than hens’ teeth__ Incredibly scarce or rare; extremely difficult or impossible to find.  
@@ -4846,7 +4857,7 @@ __rave about (something)__ :two: To give wildly enthusiastic praise for somethin
 __raw deal__ _n_ :dart: An instance of unfair treatment: _got a raw deal from our insurance company._  
 __raze (something) to the ground__ To completely demolish or destroy something until it is nothing but rubble on the ground. _We’ve decided to raze this rickety old building to the ground._  
 __reach for the stars__ :two: Have high or ambitious aims.  
-__reach out to (one)__ To make contact with one, especially in search of or to offer help, guidance, comfort, or support.  
+__reach out to (one)__ :two: To make contact with one, especially in search of or to offer help, guidance, comfort, or support.  
 __reach out__  
 __read between the lines__  
 __read it and weep__  

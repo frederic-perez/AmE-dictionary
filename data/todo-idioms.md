@@ -348,31 +348,6 @@ __plenty of (something)__ An abundant amount of; more than is needed.
 __point of contact__ A person or entity one can seek to access information or services.  
 __poking and prodding__  
 __pop one’s cherry__ In James Ellroy’s novels, “popping one’s cherry” is a metaphorical expression that means to commit a first violent or morally reprehensible act, often marking a point of no return.  
-__poster child__ :two::hammer: _OpenAI is the poster child of the gen AI wave._  
-__postpone until (some later date or time)__ To delay (something) until a later date or time. A noun or pronoun can be used between “postpone” and “until” to specify what is being delayed.  
-__preppy__ __1__ _Preppy_ is the word we use to describe those rich kids that look down on anyone whose shoes cost less than a car. It’s the perfect word to describe the pompousness and snootiness of the crustiest of the upper crust. Just recall the fashion of _Carlton Banks_ of _The Fresh Prince of Bel-Air._ _adj_ _slang_ Having the look or manner of an expensive preparatory school student, typically characterized by wealth, snobbishness, and an adoption of current fashions, trends, or styles. _I hate the preppy clothes he’s been wearing ever since he started hanging out with the cool kids at school._ _He’s a bit preppy, sure, but he’s smart and is actually really interested in classic literature._ __2__ _n_ _slang_ A person who affects the look or manner of an expensive preparatory school student. _She’s just another preppy who get’s a get-out-jail-free card anytime she screws up, huh?_  
-__public eye__  
-__pull something off__ :two::hammer:  
-__pull the trigger (on something)__ To make a final decision or commit to a certain course of action (about something).  
-__pump out__  
-__pump the brakes__ :dart:  
-__pure and simple__ Essentially or fundamentally so, without exaggeration or elaboration.  
-__put (one’s) money where (one’s) mouth is__  
-__put (someone or something) to the test__  
-__put (something or someone) on the map__ To make (a place, a person, etc.) famous or well-known.  
-__put on a happy face__ To begin to smile and act cheerful.  
-__put on pause__  
-__put out__ __2__ _v_ To generate or create. _This computer is powerful, but it puts out an absurd amount of heat._ _Since then, he’s put out 18 albums._  
-__put up a fight__  
-__quality time__ Time spent interacting with someone in a close, meaningful way.  
-__question mark__ An unknown or uncertainty.  
-__quite a (something)__  
-__rabbit hole__ A situation, journey, or process that is particularly strange, problematic, difficult, complex, or chaotic, especially one that becomes increasingly so as it develops or unfolds.  
-__rain or shine__ :two::hammer:  
-__raise (one’s) eyebrows__  
-__raise the stakes__  
-__ramp up__ :four::hammer:  
-__reach out to (one)__  
 __reality check__ :dart::two: An event or outcome that forces one to accept or reevaluate the reality of one’s position or situation.  
 __receive (one’s) just deserts__ To receive that which one deserves, especially a punishment or unfavorable outcome. (Note: The phrase is often misspelled as “just desserts,” due to the pronunciation of “deserts” and “desserts” being the same in this context.) _The CEO cheated his clients out of nearly $4 million, but he received his just deserts when he was stripped of everything he owned and sent to prison._  
 __reclaim (someone or something) from (someone or something else)__ To regain or resume possession of someone or something from someone or something.  
