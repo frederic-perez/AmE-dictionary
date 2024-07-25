@@ -48,31 +48,6 @@ __flyover__ _n_
 __foist__ _v_ /FOIST/ _Foist_, which is almost always used with _on_ or _upon_, is used when someone forces another person to accept something, usually something that is not good or is not wanted. Foist can also mean “to pass off as genuine or worthy.”  
 __folly__ _n_ (construction)  
 __footage__ _n_ :mega:  
-__hibernal__ _adj_ Of or relating to winter. _Syn_ brumal, hiemal  
-__holdout__ _n_  
-__Hooray Henry__ _n_ /hoo-ray HEN-ree/ (Hooray Henrietta) A young, upper-class man who behaves in a loud, obnoxious, and often pretentious manner.  
-__hospice__ _n_  
-__hurricane lamp__  
-__icicle__ _n_  
-__idiosyncrasy__  
-__impermanent__ _adj_ Not lasting or durable; not permanent. _Syn_ temporary  
-__impetuous__ _adj_  
-__incidence__ _n_ :mega: /IN-suh-dunss/ _Incidence_ refers to the number of times something happens or develops—in other words, the rate at which something occurs. _The neighborhood boasts excellent schools and a low incidence of crime._  
-__incognito__ _adj, adv_ /in-kahg-NEE-toh/  
-__inebriant__ _n_ An intoxicant. _Syn_ alcoholic beverage, intoxicant, alcohol  
-__injunction__ _n_ :two::hammer:  
-__inner workings__ _n pl_ The parts (of something) that are only known by the people who work on it. _He wanted to experience the inner workings of the political campaign._  
-__kindling__ _n_ :dart:  
-__kinkeeping__  
-__kombucha__ _n_  
-__kudos__ _n_ /KOO-dahss/  
-__la-la land__ _n_ _slang_ __1__ A state of being out of touch with reality. __2__ Los Angeles.  
-__laddish__  
-__leer__ _vt_ /lɪər/ To look with a sideways or oblique glance, especially suggestive of lascivious interest or sly and malicious intent: _Go away! I can’t concentrate with you leering at me._  
-__leery__ _adj_ Suspicious or distrustful; wary: _was leery of aggressive salespeople._ _Syn_ mistrustful, suspicious, untrusting, wary  
-__leptospirosis__ _n_  
-__lethargic__ _adj_ Of, relating to, or affected with lethargy; drowsy; sluggish; apathetic.  
-__leverage__ _v_ _You can leverage the win32gui package in Python to target specific windows for capture._ _Syn_ take advantage of  
 __Lewis gun__  
 __liable__ _adj_  
 __lidless__ _adj_ Watchful; vigilant. _Syn_ sleepless  

@@ -4082,7 +4082,7 @@ __continual__ _adj_ :two::hammer: _For most systems, change is continual._
 __continuance__ _n_  
 __contraband__ _n_  
 __contract__ _v_ _Contract the disease._  
-__contractor__ _n_ :hammer::two:  
+__contractor__ _n_ :two::hammer:  
 __contrafactum__ _n_ A composition that makes use of an existing piece of music with different lyrics.  
 __contrail__ _n_ (vapor trail) A visible condensation of water droplets or ice crystals from the atmosphere, occurring in the wake of an aircraft, rocket, or missile.  
 __contranym__ _n_ :two: A word that has opposite or nearly opposite meanings, as _cleave_, meaning “to adhere closely” and “to part or split.”  
@@ -8958,7 +8958,7 @@ __heyday__ _n_ :nine::m: (haydays) The period of one’s greatest popularity, vi
 __hi-rail truck__ _n_ :camera:  
 __hiatus__ _n_ :two: /haɪˈeɪtəs/ /hye-AY-tus/ __1__ A period of time when something, such as an activity or program, is suspended. _The band has been on hiatus for three years, but is returning to live performance this summer._ __2__ In biology, hiatus refers to a gap or passage in an anatomical part or organ. __3__ In linguistics, it denotes the occurrence of two vowel sounds without pause or intervening consonantal sound.  
 __hibachi__ _n_ :three::hammer: _Original hibachi cooking._  
-__hibernal__ _adj_ /hy-BUHR-nuhl/ Of or relating to winter.  
+__hibernal__ _adj_ :two: /hy-BUHR-nuhl/ Of or relating to winter. _Syn_ brumal, hiemal  
 __hiccup__ _n_ __3__ A usually minor setback, impediment, or difficulty; a hitch.  
 __hick__ _n_ :two::hammer: _A collection of web-toed hicks._  
 __hickey__ _n_ :two: A love bite, a mark on the neck or face caused by a lover biting or sucking the skin.  
@@ -9102,7 +9102,7 @@ __holdall__ _n_
 __holder__ _n_ :two::hammer:  
 __holding sway__  
 __holdings__ _n_  
-__holdout__ _n_ :three::hammer: _A weeklong holdout._  
+__holdout__ _n_ :four::hammer: _A weeklong holdout._  
 __holdover__  
 __holdup__ _v_  
 __hole in one__ _n_ The driving of a golf ball from the tee into the hole in a single stroke.  
@@ -9193,6 +9193,7 @@ __hoop__ _v_
 __hoopla__ _n_ :four: __2__ _slang US and Canadian_ Noise; bustle, __3__ _slang US_ Nonsense; ballyhoo (sensational or clamorous advertising or publicity). _The hype and hoopla that goes with her first All-Star game._ :es: alboroto  
 __hoops__ _n_ _slang_ :two: The game of basketball. _Can you play hoops?_  
 __hoopster__ _n_ A basketball player.  
+__Hooray Henry__ _n_ /hoo-ray HEN-ree/ (Hooray Henrietta) A young, upper-class man who behaves in a loud, obnoxious, and often pretentious manner.  
 __hoosegow__ _n_ :astonished: (hoosgow) _US_ A slang word for jail. The term was born in the lively mixture of Spanish and English spoken in the western part of the United States—it comes from the Spanish _juzgado_.  
 __Hoosiers__  
 __hoot<sup>1</sup>__ _vi_ :nine::m: __1__ To utter the characteristic cry of an owl. __2__ To make a loud raucous cry, especially of derision or contempt.  
@@ -9235,7 +9236,7 @@ __horticulturist__ _n_ :mega:
 __hosanna__ _n_ _A thousand hosannas._  
 __hose clamp__ _n_  
 __hospice care__ _n_  
-__hospice__  
+__hospice__ _n_ :two::hammer:  
 __hoss__ _n_ (Animals) _dialect informal US_ A horse.  
 __host__ _n_ :dart::seven::astonished: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._ _A host of data._ _A host of techniques._ _A whole host of consequences._  
 __hostage__ _n_ :three::mega::hammer: /ˈhɒs tɪdʒ/ :es: rehén  
@@ -9366,7 +9367,7 @@ __hurl__ _v_ :nine::m: (hurled, hurling) Throw (an object) with great force. _Ri
 __hurler__ _n_ :three::hammer: _(baseball)_  
 __hurly-burly__ _adj, n_ _A hurly-burly of writers._  
 __hurrah__ _n_ A cheer of joy, victory, etc.  
-__hurricane lamp__ _n_  
+__hurricane lamp__ _n_ :two::hammer:  
 __hurricane__  
 __hurriedly__  
 __hurtle__ _v_ :two::hammer: (hurtling)  
@@ -9447,7 +9448,7 @@ __ice-cold__ _adj_
 __ice-slick chain__  
 __iceblink__ _n_ _We had perfect iceblink conditions._  
 __icebox__ _n_  
-__icicle__ _n_ :three::hammer: :es: carámbano  
+__icicle__ _n_ :four::hammer: :es: carámbano  
 __icing__ _n_ :three::hammer: _Mansions are found on the icing._  
 __icky__ _adj_ :three::hammer:  
 __iconoclasm__  
@@ -9465,7 +9466,7 @@ __idiocracy__ _n_ (humorous) A government run by idiots. _Frank is sick and tire
 __idiolatry__ _n_ /i-di-OL-uh-tree/ [:scroll: From Greek idio- (one’s own, personal) + -latry (worship)] Self worship.  
 __idiolect__ _n_ The variety or form of a language used by an individual.  
 __idiopathic__ _adj_ :three: Of, relating to, or designating a disease having no known cause.  
-__idiosyncrasy__ _n_ A structural or behavioral characteristic peculiar to an individual or group. _Syn_ peculiarity _Of all her idiosyncrasies, I find her tendency to dance while cooking the most charming._  
+__idiosyncrasy__ _n_ :two: A structural or behavioral characteristic peculiar to an individual or group. _Syn_ peculiarity _Of all her idiosyncrasies, I find her tendency to dance while cooking the most charming._  
 __idiosyncratic__ _adj_ :two::hammer:  
 __idiot box__  
 __idiot__ _n_ :mega:  
@@ -9545,10 +9546,11 @@ __imperil__ _v_ :five::hammer: (imperiled)
 __imperious__ _adj_ :three: Having or showing arrogant superiority to and disdain of those one views as unworthy.  
 __imperishable__ _adj_ :astonished: Unceasing. _Syn_ abiding, enduring  
 __impermanence__ _n_ :three: The property of not existing for indefinitely long durations. _Syn_ impermanency  
+__impermanent__ _adj_ Not lasting or durable; not permanent. _Syn_ temporary  
 __impermissible__ _adj_ :two::hammer:  
 __impersonation__  
 __impervious__ _adj_ :dart::nine::m: /ɪmˈpɜːvɪəs, ɪmˈpɜr vi əs/ __1__ Incapable of being penetrated: _a material impervious to water._ __2__ Incapable of being affected: _impervious to fear._ _The donjon was impervious to time._  
-__impetuous__ _adj_ :two:  
+__impetuous__ _adj_ :three::hammer:  
 __impetus__ _n_ :seven: /IM-puh-tus/ /ˈɪm pɪ təs/ A force that causes or encourages something to be done or to become more active. _The high salary and generous benefits package were impetus enough to apply for the job._  
 __impinge on/upon somebody/something__ _v_ :two: (impinging) To have a harmful effect on someone or something.  
 __impinge__ _v_ :two::hammer:  
@@ -9634,6 +9636,7 @@ __inch__ _v_ :six::hammer: (inching) _They’ll just inch their way down the fie
 __inchmeal__ _adv_ /INCH-meel/ Something done _inchmeal_ is done gradually, or little by little.  
 __inchoate__ _adj_ :three: /in-KOH-ut/ Only partly in existence; imperfectly formed. _Syn_ incipient _Dave looked at Mr. James Ward wonderingly, until that gentleman broke his train of inchoate thought._  
 __inchworm__ _n_  
+__incidence__ _n_ :mega: /IN-suh-dunss/ _Incidence_ refers to the number of times something happens or develops—in other words, the rate at which something occurs. _The neighborhood boasts excellent schools and a low incidence of crime._  
 __incident<sup>1</sup>__ _n_  
 __incident<sup>2</sup>__ _adj_ _A stroke incident to pancreatic cancer._  
 __incidental<sup>1</sup>__ _adj_  
@@ -9642,7 +9645,7 @@ __incidentally__ _adv_ :nine: __1__ Apart or aside from the main subject; parent
 __incipient__ _adj_ :two: /in-SIP-ee-unt/ _Incipient_ is used to describe things which are beginning to come into being or which are to become apparent. _An incipient building._  
 __inclement__ _adj_ __1__ (of weather) Stormy, severe, or tempestuous. __2__ Harsh, severe, or merciless.  
 __inclined__ _adj_  
-__incognito__ _adv_ :two::hammer:  
+__incognito__ _adj, adv_ :two::hammer: /in-kahg-NEE-toh/  
 __incognizant__ _adj_ Lacking knowledge or awareness. _Syn_ unaware _He was incognizant of the new political situation and needed his brother to brief him on the details._  
 __income__ _n_ :mega:  
 __incommunicado__  
@@ -9699,6 +9702,7 @@ __induction__ _n_ :five::hammer: _Induction hall._ __3__ _logic_ __a__ The proce
 __indulge__  
 __indurate__ _adj_ Emotionally hardened. _Syn_ callous, pachydermatous _My father was once an affectionate man, but he returned from the war cold and indurate._  
 __industrious__ _adj_ :four::mega: /ɪnˈdʌstrɪəs/ Always working very hard.  
+__inebriant__ _n_ An intoxicant. _Syn_ alcoholic beverage, intoxicant, alcohol  
 __inebriate__ _v_ :three: (inebriated) __1__ Fill with sublime emotion. _Syn_ beatify, exhilarate, tickle pink, exalt, thrill _He was inebriated by his phenomenal success._ __2__ Become drunk or drink excessively.  
 __inebriated__ _adj_  
 __inebriety__ _n_ A temporary state resulting from excessive consumption of alcohol. _Syn_ drunkenness, tipsiness, intoxication  
@@ -9797,6 +9801,7 @@ __inlay<sup>1</sup>__ _v_
 __inlay<sup>2</sup>__ _n_ :three::hammer: _Inlay photo._ _Mother-of-pearl inlays._ _Wood inlay._  
 __innards__ _n_ _informal_ :four: __1__ Internal bodily organs; viscera. __2__ The inner parts, as of a machine. _The pictures adorn the innards of each chapter._  
 __innate__  
+__inner workings__ _n pl_ The parts (of something) that are only known by the people who work on it. _He wanted to experience the inner workings of the political campaign._  
 __innit__ _contraction_ _adv_ _slang_ A contraction of _isn’t it?_, used to invite agreement with a statement: _it’s a funny old world, innit?_  
 __innocuous__ _adj_ :three: Having no adverse effect. _Syn_ harmless _That mushroom may look innocuous, but it is in fact deadly._  
 __innumerate__  
@@ -10356,7 +10361,7 @@ __kindergarten__ _n_ :pencil2::four: Kindergarten is where children are introduc
 __kindergartner__ _n_ :pencil2::three: A child who attends a preschool or kindergarten.  
 __kinderpunsch__ _n_  
 __kindle__ _v_ :two: __1__ To set alight or start to burn. _To kindle a fire._  
-__kindling__ _n_ :three: Material for starting a fire, such as dry wood, straw, etc.  
+__kindling__ _n_ :dart::four: Material for starting a fire, such as dry wood, straw, etc.  
 __kindred<sup>1</sup>__ _n_ :three::hammer:  
 __kindred<sup>2</sup>__ _adj_ :four: /KIN-drud/ __1__ Of the same ancestry or family: _kindred clans._ __2__ Having a similar or related origin, nature, or character: _kindred emotions._  
 __kine__ _n_  
@@ -10366,6 +10371,7 @@ __kingfisher__ _n_
 __kingpin__ _n_ :three: /KING-pin/ [:scroll: From skittles, a lawn game involving pins that are toppled by a ball, the ancestor of modern bowling.] __1__ The most important person in an organization, especially one who is the head of a crime organization. The most important person in a group or undertaking. _Syn_ bigwig, top banana _A years-long undercover operation finally yielded the evidence needed to bring down the country’s most notorious drug kingpin._ __2__ The tallest, foremost, or the central pin in an arrangement of bowling pins. __3__ A main bolt, for example, a large vertical bolt in an axle of a vehicle.  
 __kink<sup>1</sup>__ _n_ :nine::m: (kinks) __1__ A sharp twist or bend in a wire, rope, hair, etc, esp one caused when it is pulled tight. _I was getting the kinks out._ __6__ _US_ A clever or unusual idea. _Let them work out the kinks._  
 __kink<sup>2</sup>__ _v_ :two: (kinked) To form or cause to form a kink or kinks. _Kinked catheters._  
+__kinkeeping__  
 __kinky__ _adj_ :two: __1__ _slang_ Given to unusual, abnormal, or deviant sexual practices. _We all have our little kinky secrets._ __2__ _informal_ Exhibiting unusual idiosyncrasies of personality; quirky; eccentric. __3__ _informal_ Attractive or provocative in a bizarre way: kinky clothes. __4__ Tangled or tightly looped, as a wire or rope. __5__ Tightly curled, as hair.  
 __kinsfolk__ _n pl_ One’s family or relatives.  
 __kinship__ _n_ :four::hammer:  
@@ -10451,7 +10457,7 @@ __koi pond__ _n_ Ponds used for holding koi carp, usually as part of a garden.
 __koi__ _v_  
 __koinobori__ _n_ [:scroll: In Japanese, _carp streamer_]  
 __koinonia__  
-__kombucha__ _n_ _Ginger flavor kambucha._  
+__kombucha__ _n_ :two::hammer: _Ginger flavor kambucha._  
 __kook__ _n_ _slang_ :two::hammer:  
 __kookier__  
 __kooky__ _adj_ _slang_ :five: Crazy, mentally unbalanced. Characteristic of a kook; strange or crazy.  
@@ -10467,7 +10473,7 @@ __kroop__
 __kryptonite__ _n informal_ /ˈkrɪptəˌnaɪt/ Something that renders a person or thing helpless: _football movies are box-office kryptonite._  
 __kts__ _n pl_ :two: Plural of knot (unit), a unit of speed equal to one nautical mile per hour.  
 __kudo__ _n_  
-__kudos__  
+__kudos__ _n_ :two::hammer: /KOO-dahss/  
 __kulak__ _n_ A comparatively wealthy Soviet peasant who, during the Communist drive to collectivize agriculture in 1929–33, was viewed as an oppressor and class enemy.  
 __kumbaya__ _n_ :four: Rooted in an American spiritual and folk song of the same name, kumbaya refers, often disparagingly, to moments of or efforts at harmony and unity.  
 __kumquat__ _n_  
@@ -10480,7 +10486,7 @@ __kybosh__ _v_
 __kyphoplasty__ _n_ A treatment for a vertebral compression fracture in which a collapsed vertebral body is restored to its normal size and shape with a balloon, followed by the injection of bone cement to maintain the bone’s shape and strength.  
 __L-plate__ _n_ _He saw the L-plate on the back of the car._  
 __La Croix Sparkling Water__ _n_ Beverage brand of Sundance Beverage Company.  
-__la la land__ _n_ _slang_ An unreal place, a fantastic dreamworld.  
+__la-la land__ _n_ _slang_ :two: __1__ A state of being out of touch with reality. __2__ An unreal place, a fantastic dreamworld. __3__ Los Angeles.  
 __labor bureaus__  
 __labor camp__ _n_ A penal institution for political prisoners who are used as forced labor.  
 __Labor Day__  
@@ -10507,6 +10513,7 @@ __lacustrine__ _adj_
 __lacy__ _adj_ :three: Of, relating to, or resembling lace. _Cypress trees that were lacy with new leaf._ _Lacy buttresses._  
 __lad__ _n_  
 __laddie__ _n_ :two: _chiefly Scot_ A familiar term for a male, esp a young man; lad.  
+__laddish__  
 __lade__ _v_  
 __laden__ _adj_ :five: /LAY-dun/ Laden describes things that are heavily loaded with something, literally or figuratively. Heavily loaded or weighed down. _A suicide attack rammed an explosives-laden vehicle into the main gate of his home._ _Debt-laden banks._ _Salt laden marine environments._ _Airline passengers laden with luggage inched slowly through the gate._ _His voice was heavily laden with sarcasm._  
 __ladies and gents__ _n pl_ Informal form of _ladies and gentlemen._  
@@ -10715,10 +10722,10 @@ __leech__ _n_ :six: __1__ Bloodsucking worm. :es: sanguijuela __2__ A person who
 __leek__ _n_  
 __leeks__ _n_  
 __leer up__  
-__leer__ _v_  
+__leer__ _vt_ :two: /lɪər/ To look with a sideways or oblique glance, especially suggestive of lascivious interest or sly and malicious intent: _Go away! I can’t concentrate with you leering at me._  
 __leer<sup>1</sup>__ _v_ (leering) :four::pencil2: _v_ Look or gaze in a lascivious or unpleasant way. _Bystanders were leering at the nude painting._ _Syn_ ogle, look lasciviously  
 __leer<sup>2</sup>__ _n_ A facial expression of contempt or scorn; the upper lip curls. _Syn_ sneer  
-__leery__ _adj informal_ :six: Cautious or wary due to realistic suspicions. _A city leery of gang violence._ _Institutions are leery of the paperwork._  
+__leery__ _adj informal_ :seven: Cautious or wary due to realistic suspicions. Suspicious or distrustful; wary: _was leery of aggressive salespeople._ _Syn_ mistrustful, suspicious, untrusting, wary _A city leery of gang violence._ _Institutions are leery of the paperwork._  
 __leeway__ _n_ :nine::m: /ˈliːˌweɪ/ Leeway is a term used to describe the amount of freedom available. If you know you have a paper due on Monday, you might ask your teachers if there is any leeway—could you, say, bring it first thing Tuesday morning? A permissible difference; allowing some freedom to move within limits. A margin of freedom or variation, as of activity, time, or expenditure; latitude. _Syn_ margin, allowance, tolerance _Allowing leeway for students who have low scores._  
 __lefty buckets__  
 __leg warmer__ _n_  
@@ -10770,6 +10777,7 @@ __leper__
 __lepers__  
 __leporine__ _adj_ Of or characteristic of rabbits or hares.  
 __leprechauns__  
+__leptospirosis__ _n_  
 __lese majeste__ _n_ :four: (lèse-majesté) Alternative form of lese majesty. A crime injuring or causing harm to the dignity of a reigning sovereign or a state. _Colin drew his dagger in the terrible act of lese majeste._ _A number of senior officials were charged with lese majeste._  
 __lessen__ _v_ :three::hammer:  
 __lessons learned__ _n_ Experiences distilled from past activities that should be actively taken into account in future actions and behaviors.  
@@ -10778,7 +10786,7 @@ __let down__ _phr v_ :two: To disappoint someone by failing to do what they expe
 __let on__ _phr v_  
 __let your hair down__  
 __letdown__ _n_ :three: Something that makes you feel disappointed because it is not as good as you expected it to be. _Dinner was a letdown._ _It is a bit of a letdown._  
-__lethargic__ _adj_ :two::hammer: _Lethargic voice._  
+__lethargic__ _adj_ :three: Of, relating to, or affected with lethargy; drowsy; sluggish; apathetic. _Lethargic voice._  
 __lethologica__ _n_ The temporary inability to remember a word, name, or intended action.  
 __letter jacket__ _n_ A jacket traditionally worn by high school and college students in the United States to represent school and team pride as well as to display personal awards earned in athletics, academics or activities.  
 __letter__ _v_ _I’m currently lettering the forthcoming comic book._  
@@ -10792,7 +10800,7 @@ __levelheaded__ _adj_ :three: Exercising or showing good judgment. _Syn_ sound, 
 __lever<sup>1</sup>__ _n_  
 __lever<sup>2</sup>__ _vt_  
 __leverage<sup>1</sup>__ _n_ :three::hammer::mega: /ˈlɛv ər ɪdʒ, ˈlɛv rɪdʒ; ˈli vər ɪdʒ, -vrɪdʒ/ _To exert leverage._ _He had no leverage over her just as she had none over him._  
-__leverage<sup>2</sup>__ _vt_ :nine: /ˈlɛv ər ɪdʒ, ˈlɛv rɪdʒ; ˈli vər ɪdʒ, -vrɪdʒ/ __3__ To use so as to obtain an advantage or profit: _leveraged their personal contacts to find new investors._ :es: aprovechar  
+__leverage<sup>2</sup>__ _vt_ :nine::m: /ˈlɛv ər ɪdʒ, ˈlɛv rɪdʒ; ˈli vər ɪdʒ, -vrɪdʒ/ __3__ To use so as to obtain an advantage or profit: _leveraged their personal contacts to find new investors._ _You can leverage the win32gui package in Python to target specific windows for capture._ _Syn_ take advantage of :es: aprovechar  
 __leviathan__ _n_ :four: /luh-VYE-uh-thun/ Something large or formidable. _Towering leviathans of the forest, these giant sequoias often reach heights of more than 200 feet._ _You can sometimes see migrating leviathans._  
 __levied__ _v_ :five::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
 __levity__ _n_ :dart::five: __1__ Humor, merriment, or a lack of seriousness, especially when inappropriate: _a subject that should not be treated with levity._ _His levity faded._ _The most potent antidote for stress is levity._  
@@ -11919,8 +11927,8 @@ __misspell__ _v_ :three::pencil2: To spell incorrectly.
 __misspend__ _vt_ :two::hammer: To spend time more or money foolishly or wastefully.  
 __misstate__ _v_  
 __misstated__ _v_  
-__misstep<sup>1</sup>__ _n_ :six::pencil2::hammer:  
-__misstep<sup>2</sup>__ _v_  
+__misstep<sup>1</sup>__ _n_ :seven::pencil2::hammer:  
+__misstep<sup>2</sup>__ _v_ :two::hammer:  
 __missus__ _n_ __1__ _informal_ Wife. __2__ The mistress of a household.  
 __misting fan__ _n_  
 __mistletoe__ _n_ :two::mute:[mis~~t~~letoe]:hammer:  
@@ -13379,7 +13387,6 @@ __panko__ _n_
 __panna cotta__ _n_  
 __panned out__  
 __pannier__ _n_ :two::hammer:  
-__misstep__ _n, v_  
 __panoply__ _n_ :five: __1__ An impressive or striking array or arrangement. _A panoply of colorful flags._  
 __panopticon__ _n_ __1__ A building, as a prison or library, so arranged that all parts of the interior are visible from a single point. A circular prison with a watchtower in the center so that any inmate can be observed from a single point. __2__ A place marked by constant surveillance.  
 __panorama__ _n_ :two: An unbroken view of an entire surrounding area. _Syn_ vista _The panorama from the summit, with glistening lakes and green forests in every direction, is unmatched in the east._  
