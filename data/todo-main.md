@@ -148,31 +148,6 @@ __slothful__ _adj_
 __smitten__ _adj_  
 __superintendent__ _n_ _A park superintendent._  
 __supersede__ _v_ /soo-per-SEED/ _Syn_ replace, displace  
-__surgery__ _n_ _The doctor’s surgery was his own home._  
-__surreptitious__ _adj_ Marked by quiet and caution and secrecy; taking pains to avoid being observed. _Syn_ furtive, stealthy, sneaky  
-__svelte__ _adj_ /SVELT/ Someone described as _svelte_ is considered slender or thin in an attractive or graceful way. _Svelte_ can also be used to describe something sleek, such as a vehicle or an article of clothing. _The svelte dancer seemed to float across the stage._  
-__swelter__  
-__swim lane__ _n_ (swimlane) __2__ A horizontal or vertical division of a process flow chart, typically used to visually separate the tasks of different actors.  
-__sympathetic__ _adj_ /ˌsɪm pəˈθɛt ɪk/  
-__symposium__ _n_ /sim-POH-zee-um/ (_n pl_ symposia, symposiums)  
-__table__ _vt_ __2__ To postpone consideration of (a piece of legislation, for example); shelve.  
-__tame__ _adj_ __4__ Insipid; flat: _a tame birthday party._  
-__tamper__  
-__tangent__ _adj, n_ /TAN-juhnt/ [:scroll: From Latin tangere (to touch)]  
-__tariff__ _n_ :es: arancel  
-__taxpayer__ _n_ :es: contribuyente  
-__teamster__ _n_ :astonished: __1__ One who drives a truck for hauling loads, especially as an occupation. __2__ One who drives a team.  
-__temp__ _n_ Temperature.  
-__tendentious__ _adj_ /ten-DEN-shus/ _Tendentious_ is a formal word used disapprovingly to describe someone or something expressing a strongly biased point of view in a way that may cause argument.  
-__tenement__ _n_  
-__tentative__ _adj_  
-__themself__ _pron_ :dart: _Just after the jury was seated, emergency crews responded to a park outside the Manhattan courthouse, where a person had set themselves on fire._  
-__thought leader__ _n_ A person, organization, publication, etc. regarded as an authoritative source of new ideas or intellectual trends.  
-__thoughtless__ _adj_  
-__throwback__ _n_  
-__tidbit__ _n_  
-__till__ _n_ :three::hammer:  
-__timecard__ _n_  
 __tinderbox__ _n_ __1__ A metal box for holding tinder. __2__ A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
 __Tipp-Ex__ _n_ /ˈtɪp.eks/  
 __tobogganing__ _n_ :pencil2:  

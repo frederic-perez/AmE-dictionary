@@ -18782,6 +18782,7 @@ __surf and turf__ _n_ :two::hammer: Seafood and beefsteak served as the main cou
 __surfeit__ _n_ :five::astonished: __1a__ Overindulgence in food or drink. __b__ The result of such overindulgence; satiety or disgust. __2__ An excessive amount. _Syn_ overabundance, excess _The surfeit of goods produced caused prices to fall, hurting the economy._  
 __surge<sup>1</sup>__ _v_ :four::hammer: (surging) _A mysterious current surging through Earth._  
 __surge<sup>2</sup>__ _n_ :two::hammer:  
+__surgery__ _n_ _The doctor’s surgery was his own home._  
 __suricate__ _n_  
 __surliness__  
 __surly__ _adj_ :seven: /SUHR-lee/ __1__ Rude; sullen; unfriendly. Unfriendly and rude. _A waiter with a surly attitude._ __2__ Ominous or dismal (used for weather, clouds, sky, ocean, etc.).  
@@ -18794,7 +18795,7 @@ __surpass__ _v_
 __surplice__ _n_ :two: A loose-fitting, white ecclesiastical gown with wide sleeves, worn over a cassock.  
 __surprise__ _n, v_ /səˈpraɪz/  
 __surreal__ _adj_  
-__surreptitious__  
+__surreptitious__ _adj_ :two: Marked by quiet and caution and secrecy; taking pains to avoid being observed. _Syn_ furtive, stealthy, sneaky  
 __surreptitiously__ _adv_ :six: Obtained, done, or made by clandestine or stealthy means. _Syn_ sneakily  
 __surrey__ _n_  
 __surrogate__ _n_ :three::hammer:  
@@ -18814,7 +18815,7 @@ __susurrus__
 __sutler__ _n_ A supplier of victuals or supplies to an army. _Syn_ provisioner, victualer, victualler _He became a sutler on a major scale in the war between the States._  
 __sutra__ _n_  
 __suture__ _n_ :dart: _I took twenty sutures out of a kid’s boy this morning. Not a peep._  
-__svelte__ _adj_ :two::hammer:  
+__svelte__ _adj_ :three: /SVELT/ Someone described as _svelte_ is considered slender or thin in an attractive or graceful way. _Svelte_ can also be used to describe something sleek, such as a vehicle or an article of clothing. _The svelte dancer seemed to float across the stage._  
 __Svengali__ _n_ A person who manipulates or controls another, especially by force of personality for malicious purposes.  
 __swab__ _n_ _Nasopharyngeal swabs._  
 __swadding__  
@@ -18875,6 +18876,7 @@ __swell<sup>1</sup>__ _n_ :five::hammer: _The swell of people from war-torn coun
 __swell<sup>2</sup>__ _v_ :four::hammer: (swelled, swelling)  
 __swell<sup>3</sup>__ _adj_ :two: Excelent.  
 __swellhead__ _n informal_ A person regarded as arrogant or conceited. _Syn_ egoist, egotist _He was dismissed by many as a swellhead, but his ridiculously high estimation of himself sustained him through all sorts of challenging situations._  
+__swelter__  
 __sweltering__ _adj_ :eight: Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
 __swerve<sup>1</sup>__ _n_ :two::hammer: _Applying swerve and spin to the ball._  
 __swerve<sup>2</sup>__ _v_ :nine::m: (swerves, swerved) __1__ To make a sudden sideways movement while moving forwards, usually in order to avoid hitting something. (swerve violently/sharply) _The car swerved sharply to avoid the dog._ (swerve across/off/into etc) _The bus swerved off the road._ __2__ _[usually in negatives]_ _formal_ To change from an idea, course of action, purpose etc. (swerve from) _He would never swerve from the truth._  
@@ -18886,6 +18888,7 @@ __swig<sup>1</sup>__ _n_ :four::hammer: _Mike Scott takes a swig from a fan’s 
 __swig<sup>2</sup>__ _v_ :two::hammer:  
 __swill<sup>1</sup>__ _v_ :five::hammer: (swilled, swilling) _Swilling wine._ _Beefy men swilling champagne from magnums._  
 __swill<sup>2</sup>__ _n_  
+__swim lane__ _n_ (swimlane) __2__ A horizontal or vertical division of a process flow chart, typically used to visually separate the tasks of different actors.  
 __swim tube__  
 __swimabout__  
 __swimming hole__ _n_ :two: A place, as in a stream, where there is water deep enough for swimming.  
@@ -18928,11 +18931,12 @@ __sylph__ _n_ /silf/
 __sylvan<sup>1</sup>__ _adj_ :two::hammer: (silvan)  
 __sylvan<sup>2</sup>__ _n_ :two::hammer: (silvan) _Classical Myth & Legend_ An inhabitant of the woods, esp. a spirit.  
 __symbiosis__ _n_ :two::hammer: /sim-bee-OH-sis/  
-__sympathetic__ _adj_ :two::hammer:  
+__sympathetic__ _adj_ :three::hammer: /ˌsɪm pəˈθɛt ɪk/  
 __sympathy__ _n_  
 __sympatric__ _adj_ /sim-PAT-rik/ [:scroll: From sym-, a form of syn- (together) + patra (homeland), from pater (father).] Occurring in the same geographical area. _The Mojave yucca is often sympatric with the Joshua tree._  
 __symphysis__ _n_  
 __symposiarch__ _n_ The person who proposes toasts and introduces speakers at a banquet. _Syn_ toastmaster  
+__symposium__ _n_ /sim-POH-zee-um/ (_n pl_ symposia, symposiums)  
 __synaptogenesis__ _n_  
 __synchronizity__ _n_ /ˌsɪnkrəˈnɪsɪtɪ/ __2__ An apparently meaningful coincidence in time of two or more similar or identical events that are causally unrelated.  
 __syncope__ _n_ :two: A brief loss of consciousness caused by a temporary deficiency of oxygen in the brain; a swoon. _Syn_ deliquium, faint, swoon  
@@ -18962,7 +18966,7 @@ __tabbouleh__ _n_ :two::hammer:
 __tabby__ _adj, n_ :two::hammer: /ˈtæbɪ/  
 __table tennis__  
 __table tennos__  
-__table__ _v_ :astonished::three: Hold back to a later time. _Let’s table that idea._  
+__table__ _vt_ :dart::four: __2__ To postpone consideration of (a piece of legislation, for example); shelve. Hold back to a later time. _Let’s table that idea._  
 __tableau__ _n_ :astonished::two::hammer:  
 __tableaux__  
 __tableland__ _n_ A flat, elevated region; a plateau or mesa. _Syn_ plateau _The hikers climbed all morning, planning to stop for lunch when they reached the tableland._  
@@ -19051,13 +19055,15 @@ __Tamagotchi__ _n_ :pencil2:
 __tamale__ _n_ (tamales) A Mexican dish made of chopped meat and crushed peppers, highly seasoned, wrapped in cornhusks spread with masa, and steamed. _I’m staying away from that one—that’s a hot tamale._  
 __tamarind__  
 __tambour__ _n_ A small wooden embroidery frame consisting of two concentric hoops between which fabric is stretched. _Syn_ embroidery frame, embroidery hoop _She was addicted to needlepoint and took her tambour wherever she went._  
+__tame__ _adj_ __4__ Insipid; flat: _a tame birthday party._  
 __tamp down__ _v_ :two::hammer:  
-__tamper__ _v_ :two::hammer: (tampering) _Tampering with a Federal grand jury._  
+__tamper__ _v_ :three::hammer: (tampering) _Tampering with a Federal grand jury._  
 __tan<sup>1</sup>__ _v_  
 __tan<sup>2</sup>__ _n_  
 __tandem__ _n_  
 __tang__ _n_ :five: __4__ A projection by which a tool, such as a chisel or knife, is attached to its handle or stock. _Syn_ shank :es: espiga _Dory, the little blue tang fish._  
 __Tang__ _n_ An artificially flavored drink mix that was formulated in 1957, and first marketed in powdered form in 1959. Sales of Tang were poor until NASA used it on John Glenn’s Mercury flight in February 1962, and on subsequent Gemini missions. Since then it has been closely associated with the U.S. manned spaceflight program, and created the misconception that Tang was invented for the space program.  
+__tangent__ _adj, n_ /TAN-juhnt/ [:scroll: From Latin tangere (to touch)]  
 __tangerine__ _n_  
 __tangible__ _adj_  
 __tangle<sup>1</sup>__ _n_ (tangles)  
@@ -19096,7 +19102,7 @@ __taradiddle__ _n_
 __tardy__ _adj_ :three::hammer:  
 __target ball__  
 __target__ _v_ _Liftoff is targeted for 7:50 a.m. EDT, Thursday, July 30._  
-__tariff__ _n_ :six::hammer: (tariffs)  
+__tariff__ _n_ :seven::hammer: (tariffs) :es: arancel  
 __tarmac__ _n_ :four: __1__ Material used for surfacing roads or other outdoor areas, consisting of broken stone mixed with tar. __2__ A runway or other area surfaced with tarmac or a similar material. _A rule allowing passengers on such flights to disembark after a four-hour tarmac delay._ :es: pista; alquitranado  
 __tarn__ _n_ /tɑːn/ /tɑrn/ A small mountain lake.  
 __tarnation__ _n_ :two: A euphemism for damnation.  
@@ -19159,7 +19165,7 @@ __taxi__ _n_ (_n pl_ taxis, or taxies)
 __taxidermy__ _n_  
 __taxing__ _adj_ :dart: Burdensome; wearing: _a taxing business schedule._  
 __taxonomy__ _n_  
-__taxpayer__ _n_ :two::pencil2::hammer:  
+__taxpayer__ _n_ :three::pencil2::hammer: :es: contribuyente  
 __Taylorism__ _n_ /TAY-luh-riz-uhm/ __1__ A method of analyzing workflow for process optimization. Also known as scientific management. __2__ A modified form of Calvinism. Also known as New Haven theology.  
 __tchotchkes__ _n_ :three::hammer: _Simpson tchotchkes._  
 __tea party__ _n_ :two::hammer: _Tea party groups._ _Tea party rallies._  
@@ -19168,6 +19174,7 @@ __team effort__ _n_ Something done by a group of people.
 __team player__  
 __team up__ _v_  
 __teammate__ _n_ :pencil2:  
+__teamster__ _n_ :astonished: __1__ One who drives a truck for hauling loads, especially as an occupation. __2__ One who drives a team.  
 __Teamster__ _n_ :two::hammer:  
 __tear gas__ _n_ :two::hammer:  
 __teardown__ _n_  
@@ -19217,7 +19224,7 @@ __tellurian<sup>2</sup>__ _n_ (esp in science fiction) An inhabitant of the eart
 __telluric__ _adj_  
 __telly__ _n_ :dart:  
 __temerity__ _n_ :three: /tuh-MAIR-uh-tee/ Excessive boldness or rashness; foolhardiness or recklessness. _Syn_ audaciousness, audacity _Everyone was shocked at her temerity in addressing the king in such a manner._  
-__temp<sup>1</sup>__ _n_ :two: (temps) __1__ A temporary worker, as in an office. __2__ Temperature. _Subzero temps._ _Temps dropped into the 30s._  
+__temp<sup>1</sup>__ _n_ :three: (temps) __1__ A temporary worker, as in an office. __2__ Temperature. _Subzero temps._ _Temps dropped into the 30s._  
 __temp<sup>2</sup>__ _adj_ :two::hammer: _A temp job._ _A temp agency._  
 __temper<sup>1</sup>__ _vt_ :nine::m: /ˈtɛmpə/ __1__ To moderate: _to temper justice with mercy._ __2__ To soften or tone down. __3__ To make suitable by or as if by blending. __4__ To work into proper consistency, as clay or mortar. __5__ To impart strength or toughness to (steel or cast iron) by heating and cooling. __6__ To tune (a keyboard instrument) so as to make the tones available in different keys or tonalities.  
 __temper<sup>2</sup>__ _vi_ To be or become tempered.  
@@ -19240,13 +19247,14 @@ __tenacious__ _adj_
 __tenacity__ _n_  
 __tenant__ _n_ :two::hammer: (tenants)  
 __tench__ _n_  
+__tendentious__ _adj_ /ten-DEN-shus/ _Tendentious_ is a formal word used disapprovingly to describe someone or something expressing a strongly biased point of view in a way that may cause argument.  
 __tender__ _n_ _The company won the tender._  
 __tenderize__ _v_ :two: To make (meat) tender, as by marinating, pounding, or applying a tenderizer.  
 __tendinitis__  
 __tendrils__ _n_  
 __tenebrific__ _adj_ /ˌtɛnɪˈbrɪfɪk/  
 __tenebrous__ _adj_ /TEN-uh-brus/ _Syn_ gloomy  
-__tenement__ _n_ :two: __1__ A building for human habitation, especially one that is rented to tenants. __2__ A rundown, low-rental apartment building whose facilities and maintenance barely meet minimum standards. _Kids from the tenements._  
+__tenement__ _n_ :three: __1__ A building for human habitation, especially one that is rented to tenants. __2__ A rundown, low-rental apartment building whose facilities and maintenance barely meet minimum standards. _Kids from the tenements._  
 __tenet__ _n_ :nine::m: /ˈtɛnɪt; ˈtiːnɪt/ /TEN-it/ A doctrine, principle, or position held as part of a philosophy, religion, or field of endeavor. A belief, opinion, or dogma. Any opinion, principle, doctrine, dogma, etc., especially one held as true by members of a profession, group, or movement. :es: principio  
 __Tennessee Honey__ _n_ Honey liqueur blended with less than 20% whiskey.  
 __tenon__  
@@ -19254,7 +19262,7 @@ __tense<sup>1</sup>__ _adj_ :two::hammer:
 __tense<sup>2</sup>__ _n_ Grammatical tense refers to the conjugation of a verb to reflect its place in time—that is, when the action occurred.  
 __tensile__ _adj_ _Tensile cable._  
 __tent-pole__ _n_ (tentpole) A program or film that supports the financial performance of a film studio or television network. It is an analogy for the way a strong central pole provides a stable structure to a tent. A tent-pole film may be expected to support the sale of tie-in merchandise. _A summer-season tent-pole._  
-__tentative__ _adj_ :two::hammer:  
+__tentative__ _adj_ :three::hammer:  
 __tenterhook__ _n_  
 __tenterhooks__  
 __tenuous__ _adj_ :four: Having litthe substance or strength; thin; weak.  
@@ -19338,6 +19346,7 @@ __theatregoer__ _n_
 __thecracy__  
 __theism__ _n_ Belief in the existence of a god or gods, especially belief in a personal God as creator and ruler of the world.  
 __theist__ _adj_  
+__themself__ _pron_ :dart: _Just after the jury was seated, emergency crews responded to a park outside the Manhattan courthouse, where a person had set themselves on fire._  
 __thence__ _adv_  
 __theocracy__  
 __theophoric__ _adj_ /thee-uh/oh-FOR-ik/ [:scroll: From Greek theo- (god) + -phoric (bearing)] Having or derived from the name of a god.  
@@ -19386,10 +19395,11 @@ __thoroughbred__
 __thoroughfare__ _n_ :eight::hammer: _A vibrant shopping thoroughfare._  
 __thoroughly__  
 __thoughout__  
-__thought leader__ _n_  
+__thought leader__ _n_ :two: A person, organization, publication, etc. regarded as an authoritative source of new ideas or intellectual trends.  
 __thought__ _n_ :mute:[thou~~gh~~t]  
 __thought-provoking__ _adj_ :three: Challenging or causing someone to think, esp about things they have not thought about before.  
 __thoughtful__ _adj_  
+__thoughtless__ _adj_  
 __thousandth__  
 __thrall__ _n_ :six::hammer:  
 __thrash out__  
@@ -19431,7 +19441,7 @@ __throw off__ _phr v_ To quickly remove a piece of clothing.
 __throw out the red meat__  
 __throw out__ _v_ __1__ To give off; emit: _searchlights throwing out powerful beams._ __2__ To reject or discard: _The committee threw out her proposal._ __3__ To get rid of as useless: _threw out the garbage._ __4__ _informal_ To offer, as a suggestion or plan: _They sat around throwing out names of people they might want to invite to the party._ __5__ To force someone to leave a place or group.  
 __throwaway__ _adj_ _Throwaway one-liners._  
-__throwback__ _n_ :four::hammer: _Throwback uniform._ _A distinct throwback to the poster covers of the early magazines._  
+__throwback__ _n_ :five::hammer: _Throwback uniform._ _A distinct throwback to the poster covers of the early magazines._  
 __throwers__ _n_  
 __throws__ _n_ :two: __2__ _informal_ A chance, venture, or try. __3__ _(Games, other than specified)_ An act or result of throwing dice.  
 __thru__  
@@ -19511,7 +19521,8 @@ __tiki<sup>2</sup>__ _n_
 __tikkamassala__ _n_  
 __til__ _conj, prep_  
 __tilapia__  
-__till__ _v_ (tilled)  
+__till<sup>1</sup>__ _n_ :three::hammer:  
+__till<sup>2</sup>__ _v_ (tilled)  
 __tiller__ _n_ :three: One that tills land: _a tiller of soil._  
 __Tilt-A-Whirl__ _n_  
 __tiltyard__  
@@ -19524,6 +19535,7 @@ __time-consuming__ _adj_ :two::hammer:
 __time-resolved__ _adj_ Relating to or denoting a spectroscopic technique in which a spectrum is obtained at a series of time intervals after excitation of the sample. _SSFP cine sequences provide high resolution, time-resolved images._  
 __time-saver__ _n_  
 __time-stamp__ _v_ _These events are time-stamped._  
+__timecard__ _n_  
 __timeless<sup>1</sup>__ _adj_ :two: /TYME-luss/ Not restricted to a particular time or date. _Syn_ eternal, ageless _Proverbs are statements of timeless wisdom._  
 __timeless<sup>2</sup>__ _adv_  
 __timeless<sup>3</sup>__ _n_ :two::hammer:  
