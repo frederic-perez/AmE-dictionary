@@ -1,3 +1,12 @@
+__antenatal__  
+__banter__  
+__barren__ _adj_  
+__biology__ _n_ :mega:  
+__blazing__ _adj_  
+__bountiful__  
+__coop__ _n_ __1__ A small enclosure or cage, as for poultry or small animals. __2__ A cramped or uncomfortably confined space. __3__ _Slang_ A jail or prison.  
+__deduplicate__ _vt_ :astonished: _Computing_ To remove (duplicated material) from a system.  
+__defect__ _vi_  
 __delay__ _n, v_ /dɪˈleɪ/  
 __delirious__ _adj_ Marked by uncontrolled excitement or emotion; ecstatic. _Syn_ excited, frantic, mad, unrestrained  
 __demeanor__ _n_ :mega:  
@@ -48,6 +57,9 @@ __flyover__ _n_
 __foist__ _v_ /FOIST/ _Foist_, which is almost always used with _on_ or _upon_, is used when someone forces another person to accept something, usually something that is not good or is not wanted. Foist can also mean “to pass off as genuine or worthy.”  
 __folly__ _n_ (construction)  
 __footage__ _n_ :mega:  
+__galvanize__  
+__hiking__ _n_  
+__history__ _n_ :mega:  
 __Lewis gun__  
 __liable__ _adj_  
 __lidless__ _adj_ Watchful; vigilant. _Syn_ sleepless  
@@ -73,6 +85,10 @@ __marionette__ _n_ _Syn_ puppet
 __meliorism__ _n_ /MEE-lee-uh-riz-um/ _Meliorism_ refers to the belief that the world tends to improve and that humans can aid its betterment.  
 __midriff__  
 __misnomer__  
+__moot__ _vt_  
+__mountaineering__  
+__off-limits__  
+__outrun__  
 __panoply__ _n_ /PAN-uh-plee/  
 __Paralympics__ _n pl_  
 __parapraxis__ _n_ A minor error, such as a slip of the tongue, thought to reveal a repressed motive. _Syn_ slip-up, miscue, slip  
@@ -92,6 +108,8 @@ __perjury__ _n_
 __personal column__ _n_  
 __perspicacious__ _adj_  
 __pertussis__ _n_ The technical name for _whooping cough_.  
+__pitch__ _n_ :es: (esp. _British_) campo, cancha  
+__premier__  
 __preposterous__ _adj_ [:scroll: From Latin praeposterus, which translates literally to “in the wrong order”]  
 __process server__ _n_ :dart::two: A person who serves subpoenas or other legal documents, esp. those requiring appearance in court.  
 __profligate__ _adj_ :dart:  
@@ -117,6 +135,7 @@ __scrap__ _vt_ :dart: __2__ To discard or abandon as useless; cancel: _scrap a p
 __scruff__ _n_  
 __scrump__ _v_  
 __scullery__  
+__sea plane__ _n_  
 __secure__ _vt_  
 __security__ _n_ /sɪˈkyʊər ɪ ti/  
 __seminal__ _adj_  
@@ -144,10 +163,15 @@ __skipper__ _n_
 __skittish__ _adj_  
 __skivvy__ _n_ __1__ _chiefly often derogatory Brit_ A servant, esp a female, who does menial work of all kinds; drudge. __2__ (Clothing & Fashion) _slang chiefly US_ A man’s T-shirt or vest. __3__ (Clothing & Fashion) (plural) _slang chiefly US_ Men’s underwear.  
 __sleazy__ _adj_ :dart: __1b__ Dishonest or corrupt; disreputable: _Some sleazy characters hang around casinos._  
+__slimy__ _adj_ /slaɪmɪ/  
 __slothful__ _adj_  
+__smell-feast__ _n_ _archaic_ One given to finding out and getting invited to good feasts. _Syn_ parasite, sponger  
 __smitten__ _adj_  
+__stridor__ _n_ :es: estridor, ruido sordo respiratorio  
+__stub__ _n_ __1__ The usually short end remaining after something bigger has been used up: _a pencil stub; a cigarette stub._  
 __superintendent__ _n_ _A park superintendent._  
 __supersede__ _v_ /soo-per-SEED/ _Syn_ replace, displace  
+__tabloid__ _n_ :dart::astonished:  
 __tinderbox__ _n_ __1__ A metal box for holding tinder. __2__ A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
 __Tipp-Ex__ _n_ /ˈtɪp.eks/  
 __tobogganing__ _n_ :pencil2:  
@@ -168,7 +192,9 @@ __Victoria Cross__ _n_
 __vulnerable__ _adj_ /VUL-nuh-ruh-bul/  
 __weed__ _v_  
 __weir__ _n_ :two::hammer:  
+__Wembley__ _n_ :mega:  
 __woe__  
+__word-perfect__ _adj_  
 __worktop__ _n_ :two::hammer:  
 __wring__ _vt_  
 __wringer__ _n_ __1__ A person or thing that wrings. __2__ An apparatus for squeezing out liquid, as two rollers through which an article of wet clothing may be squeezed.  
