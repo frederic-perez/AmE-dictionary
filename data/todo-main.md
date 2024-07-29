@@ -1,9 +1,18 @@
+__acquiescent__ _adj_ Willing to carry out the orders or wishes of another without protest. _Syn_ biddable  
+__amiable__ _adj_ /AY-mee-uh-bul/  
 __antenatal__  
+__baleful__ _adj_ Threatening or foreshadowing evil or tragic developments. _Syn_ menacing, minacious, minatory, ominous, sinister, threatening, forbidding  
 __banter__  
 __barren__ _adj_  
 __biology__ _n_ :mega:  
 __blazing__ _adj_  
 __bountiful__  
+__brat__ _n_  
+__bungle<sup>1</sup>__ _vt_ :dart: /ˈbʌŋɡəl/ To carry out badly or ruin through ineptitude; botch. To spoil (an operation) through clumsiness, incompetence, etc; botch.  
+__bungle<sup>2</sup>__ _vi_ To work or act ineptly or inefficiently.  
+__bungle<sup>3</sup>__ _n_ :dart: A clumsy or unsuccessful performance or piece of work; mistake; botch.  
+__catastrophe__ _n_ /kuh-TASS-truh-fee/  
+__coltish__ _adj_ Lively and playful; frisky. _Syn_ frolicky, frolicsome, rollicking, sportive  
 __coop__ _n_ __1__ A small enclosure or cage, as for poultry or small animals. __2__ A cramped or uncomfortably confined space. __3__ _Slang_ A jail or prison.  
 __deduplicate__ _vt_ :astonished: _Computing_ To remove (duplicated material) from a system.  
 __defect__ _vi_  
@@ -13,8 +22,12 @@ __demeanor__ _n_ :mega:
 __demonstrator__ _n_  
 __depart__ _v_  
 __deride__ _v_ /dih-RYDE/ To deride someone or something is to subject them to usually harsh and bitter insults or criticism.  
+__descript__ _adj_ /di-SKRIPT/ Having distinctive features or qualities.  
+__dew point__ _n_  
 __dicker<sup>1</sup>__ _vi_ To bargain; barter. o dicker is to talk or argue with someone about the conditions of a purchase, agreement, or contract. _My favorite thing about flea markets is dickering over prices._  
 __dicker<sup>2</sup>__ _n_ The act or process of bargaining.  
+__diminutive<sup>1</sup>__ _n_  
+__diminutive<sup>2</sup>__ _adj_  
 __dimly__  
 __discernible__ _adj_ Capable of being seen or noticed. _Syn_ evident, observable  
 __disfavor__ _v_ Put at a disadvantage; hinder, harm. _Syn_ disadvantage  
@@ -25,6 +38,7 @@ __dolorifuge__ _n_ Something that banishes or mitigates grief.
 __dopamine__ _n_ _Dopamine hit/rush._  
 __downpour__ _n_ A heavy fall of rain. _Syn_ pelter, soaker, torrent, cloudburst, deluge, waterspout  
 __duckboard__  
+__dulcet__ _adj_ /DUL-sut/ _Dulcet_ is a formal word used to describe sounds that are pleasant to hear. It is often used in the phrase “dulcet tones.”  
 __dumbwaiter__ _n_ A small elevator used to convey food (or other goods) from one floor of a building to another. _Syn_ food elevator  
 __dynasty__ _n_ /DYE-nuh-stee/ Dynasty refers to a group (such as a team, family, etc.) that is very powerful or successful for a long period of time. It is also often used for a family of rulers who rule over a country for a long period of time, as well as the period of time when a particular dynasty is in power.  
 __easy__ _adj, adv_ :mega: /ˈiːzɪ/  
@@ -32,15 +46,20 @@ __ebullient__ _adj_ /ih-BULL-yunt/
 __eclectic__ _adj_ /ih-KLEK-tik/  
 __egregious__  
 __eleemosynary__ _adj_  
+__elegy__ _n_  
+__eloquence__ _n_ Powerful and effective language. _Syn_ fluency, smoothness  
 __entourage__ _n_  
 __entreaty__ _n_ An earnest request or petition; a plea. _Syn_ appeal, prayer  
 __escritoire__ _n_ A writing table; a desk. _Syn_ secretaire, writing table, secretary  
+__exceptionable__ _adj_ Open or liable to objection or debate; debatable. _Syn_ objectionable  
 __exigency__ _n_ Urgent requirements; pressing needs. Often used in the plural. _Syn_ need, demand, requirement, necessity, constraint, wont  
 __exothermic__ _adj_ Releasing heat. _Syn_ heat-releasing, exothermal  
+__extenuate__ _v_ :astonished: /ik-STEN-yuh-wayt/ _Extenuate_ is a formal word that is most often used to mean “to lessen the strength or effect of something, such as a risk.” In legal use, to extenuate a crime, offense, etc., is to lessen or to try to lessen its seriousness or extent by making partial excuses.  
 __extralegal__ _adj_ Not permitted or governed by law. _Syn_ nonlegal  
 __exultation__ _n_ /eg-zuhl-TAY-shuhn/ The act or state of triumphant joy.  
 __facile__ _adj_ Working, acting, or speaking with effortless ease and fluency. _Syn_ eloquent, silver-tongued, smooth-spoken, fluent, silver  
 __fanfare__ _n_ /FAN-fayr/ __1__ A showy public display. __2__ A brief, lively sounding of brass instruments, especially trumpets, in a celebration.  
+__fealty__ _n_ /FEE-ul-tee/ _Fealty_ is an old-fashioned and somewhat literary word that refers to intense loyalty or fidelity to a person, group, etc. More narrowly, _fealty_ refers to the fidelity of a vassal or feudal tenant to their lord.  
 __felon__ _n_  
 __felony__ _n_ A crime that has a greater punishment imposed by statute than that imposed on a misdemeanor.  
 __fiddle-faddle<sup>1</aup>__ _n_ /ˈfɪdəlˌfædəl/ Nonsense.  
@@ -58,8 +77,13 @@ __foist__ _v_ /FOIST/ _Foist_, which is almost always used with _on_ or _upon_, 
 __folly__ _n_ (construction)  
 __footage__ _n_ :mega:  
 __galvanize__  
+__gruntled__ _adj_ /ˈɡrʌntəld/ _informal_ Happy or contented; satisfied.  
+__herald__ _v_ /HAIR-uld/ _Herald_ is a verb meaning “to give notice of”; it is synonymous with _announce_, _publicize_, and _foreshadow_. _Herald_ may also mean “to greet especially with enthusiasm.”  
 __hiking__ _n_  
 __history__ _n_ :mega:  
+__ineffable__ _adj_ Incapable of being expressed. _Syn_ indescribable, unspeakable, untellable, unutterable, indefinable  
+__inerrant__ _adj_ Incapable of erring. _Syn_ infallible  
+__jurisprudence__ _n_ /joor-us-PROO-dunss/ _Jurisprudence_ is a formal word that typically refers to the science or philosophy of law, or to a system or body of law.  
 __Lewis gun__  
 __liable__ _adj_  
 __lidless__ _adj_ Watchful; vigilant. _Syn_ sleepless  
@@ -87,6 +111,8 @@ __midriff__
 __misnomer__  
 __moot__ _vt_  
 __mountaineering__  
+__nonplus__ _v_ /nahn-PLUS/ To _nonplus_ someone is to perplex them, or in other words, to cause them to be at a loss as to what to say, think, or do.  
+__nubbly__ _adj_ Rough or irregular; textured. _Syn_ homespun, nubby, slubbed, tweedy  
 __off-limits__  
 __outrun__  
 __panoply__ _n_ /PAN-uh-plee/  
@@ -109,6 +135,7 @@ __personal column__ _n_
 __perspicacious__ _adj_  
 __pertussis__ _n_ The technical name for _whooping cough_.  
 __pitch__ _n_ :es: (esp. _British_) campo, cancha  
+__precede__ _v_ Furnish with a preface or introduction. _Syn_ preface, premise, introduce _She always precedes her lectures with a joke._  
 __premier__  
 __preposterous__ _adj_ [:scroll: From Latin praeposterus, which translates literally to “in the wrong order”]  
 __process server__ _n_ :dart::two: A person who serves subpoenas or other legal documents, esp. those requiring appearance in court.  
@@ -116,6 +143,8 @@ __profligate__ _adj_ :dart:
 __proliferate__ _v_ /pruh-LIF-uh-rayt/ To increase quickly in number or amount.  
 __prostration__ _n_ An abrupt failure of function or complete physical exhaustion. _Syn_ collapse  
 __proximate__ _adj_  
+__reck<sup>1</sup>__ _n_ /rek/ Care or concern.  
+__reck<sup>2</sup>__ _v_ /rek/ To care or concern.  
 __rife__ _adj_  
 __rile__ _vt_ __1__ To irritate or vex. _Syn_ nettle, chafe, provoke, annoy, irk  
 __romcom__  
@@ -125,6 +154,7 @@ __rundown__ _n_
 __ruse__ _n_ _Syn_ wile  
 __salacious__ _adj_ :three::hammer:  
 __salutary__  
+__sanctimonious__ _adj_ /sank-tuh-MOH-nee-us/ Someone described as sanctimonious behaves as though they are morally superior to others. Language or behavior that suggests the same kind of moral superiority can also be described as sanctimonious.  
 __sartorial__  
 __satchel__ _n_  
 __savoy__ _n_ (food)  
@@ -146,6 +176,7 @@ __service station__ _n_
 __severance__ _n_  
 __sexennial<sup>1</sup>__ _n_ /sek-SEN-ee-uhl/ An event occurring every six years.  
 __sexennial<sup>2</sup>__ _adj_ /sek-SEN-ee-uhl/ Happening every six years; lasting for or relating to six years.  
+__sexpert__ _n_ /ˈsɛkspɜːt/ _informal_ a person whose job involves the academic study of or the providing information and advice about sexual relationships and sexual intercourse between human beings. A person who professes a knowledge of sexual matters.  
 __sham__  
 __shelter__ _v_  
 __shimmy__ _v_  
@@ -175,6 +206,7 @@ __tabloid__ _n_ :dart::astonished:
 __tinderbox__ _n_ __1__ A metal box for holding tinder. __2__ A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
 __Tipp-Ex__ _n_ /ˈtɪp.eks/  
 __tobogganing__ _n_ :pencil2:  
+__tomfoolery__ _n_ /tahm-FOO-luh-ree/ _Tomfoolery_ is a word with an old-fashioned sound to it that refers to playful or silly behavior.  
 __torpedo__ _vt_ __2__ To destroy decisively; wreck: _torpedo efforts at reform._  
 __trestle__ _n_  
 __troubleshoot__ _v_  
@@ -182,13 +214,14 @@ __trudge__ _v_ To walk, especially laboriously or wearily.
 __tweener__ _n_ (sports, chiefly tennis) A shot that is hit between the legs.  
 __unabashed__ _adj_ Not ashamed, disconcerted, or apologetic; boldly certain of one’s position.  
 __undercut__ _v_  
-__ungainly__ _adj_ /un-GAYN-lee/  
+__ungainly__ _adj_ :two: /un-GAYN-lee/ Lacking grace or ease of movement or form. _Syn_ clumsy, clunky, gawky, unwieldy  
 __unrequited__ _adj_ /ˌʌn rɪˈkwaɪ tɪd/  
 __upshot__ _n_ :dart:  
 __vagaries__ _n_  
 __venomous__ _adj_ /ˈvɛn ə məs/  
 __viaduct__  
 __Victoria Cross__ _n_  
+__visage__ _n_ /VIZ-ij/  
 __vulnerable__ _adj_ /VUL-nuh-ruh-bul/  
 __weed__ _v_  
 __weir__ _n_ :two::hammer:  
