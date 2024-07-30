@@ -1,27 +1,38 @@
 __(something) won’t get (someone) anywhere__ Something, typically a certain behavior, will not help someone progress or succeed in any way.  
 __a kick in the butt__ A forceful gesture or message of some kind (usually delivered with good intentions) that acts as motivation to the (previously unmotivated) recipient. _These days, teenagers seem to need a swift kick in the butt to convince them to do well in school._  
+__a walk in the park__  
 __a-ha moment__  
+__bank at__  
 __be (someone’s) call__ To be ultimately left up to someone to decide. _I don’t really care what movie we see—it’s your call._  
 __be (the) bomb__ To be excellent, extremely entertaining, or of very high quality. _This steak I ordered is bomb!_ _I’m not usually a fan of action films, but that one was the bomb!_  
 __be not just another pretty face__ To have distinguishing achievements, intelligence, skills, or abilities beyond what was or may have been assumed.  
+__be on the fence__  
 __black bag job__  
 __blah__ __2__ _adj_ Displeased, dissatisfied, or dejected. _I’m just feeling kind of blah after reading that negative review of my play._  
 __bristle at something__ :dart: [:scroll: Alludes to a dog or cat raising the hair on its back in anger or as a threat] To show sudden anger or other negative response to something. _She bristled at the suggestion._  
+__brush up__  
 __cash cow__  
 __catch on__ __1__ To become popular or widespread.  
 __catch up on (something)__  
 __Chekhov’s gun__ /chek-ofs GUHN/ [:scroll: After the playwright and doctor Anton Chekhov (1860-1904) who espoused this principle] __1__ The literary principle that if an element is introduced in a story, it must be shown to have a purpose. __2__ An element introduced in a story that is revealed to have a purpose later on.  
+__cherry pop__ The term “cherry pop” is a slang expression that refers to a girl losing her virginity.  
+__chime in__  
+__close to the bone__ Very close to the truth in a hurtful way. _Of course I’m mad—Dad’s remarks about how I’m wasting my life were close to the bone._  
 __commend (someone) for (something)__ To compliment or praise someone for something that they have done. _I have to commend you for your extraordinary bravery in a dangerous situation. I’m sure all of the people you rescued from the fire see you as a hero._  
 __cost the earth__ To be exorbitantly expensive.  
 __dad bod__ _slang_ [:scroll: From _dad_ + _bod_, an abbreviation of _body_] A physique characterized by moderate chubbiness; the stereotypical physique of a middle-aged dad. The phrase is often used affectionately or approvingly. _Aww, I don’t care that he’s a bigger guy—I like guys with a dad bod._  
+__death count__ (death toll) The total number of fatalities resulting from an event such as an accident, disaster, or conflict.  
 __every dog has his/its day__  
 __far and wide__  
 __faster than you can say Jack Robinson__ :dart: Extremely quickly; almost immediately; suddenly or in a very short space of time. _Once I’m finished with high school, I’ll be outta this two-bit town faster than you can say Jack Robinson!_  
 __find/take shelter__ To go somewhere for cover and protection from danger, bad weather, etc. _They found/took shelter in a cave during the storm._  
+__fizzle out__  
 __flip-flop__ __1__ _v_ To completely change one’s opinion or stance. Primarily heard in US.  
 __foot the bill__ To pay for something. _I hope the production company is footing the bill for all of this air travel._  
+__free compute__  
 __from a mile away__  
 __from the get-go__  
+__get a hold on/of (oneself)__ To begin to control one’s reactions or emotions after not having done so previously.  
 __get in(to) hot water__  
 __get into it__  
 __get it (all) together__  
@@ -65,7 +76,8 @@ __golden__
 __good to go__  
 __good-time Charlie__ An affable, lively, and entertaining man who is often or always seeking pleasure or a good time.  
 __goon__  
-__grapple with (someone or something)__ :two::hammer:  
+__goop__  
+__grapple with (someone or something)__ :three::hammer:  
 __green thumb__  
 __have a rocky start__ To have a troubled, uncertain, or discouraging beginning.  
 __have a shit__  
@@ -75,7 +87,10 @@ __hell on earth__
 __hem and haw__  
 __hit the ground running__  
 __hold the line__  
+__holding pattern__  
+__hotshot__  
 __hue and cry__ /HYOO-und-KRYE/ __1__ A large public protest. _Hue and cry_ refers to a clamor of alarm or protest in response to something. __2__ It can also be used as a synonym of hubbub to refer to general noise or uproar.  
+__I beg your pardon__ :dart: __1__ :dart: I apologize for what I just did or said. _Oh, I beg your pardon. I wasn’t looking where I was going._ __2__ What did you just say? _Could you please repeat that? I beg your pardon, I couldn’t quite hear you._ __3__ An expression or exclamation of indignation or incredulous disbelief. _A: “I’m afraid we’re going to have to cut your funding, effective immediately.” B: “I beg your pardon? Who on earth decided that?”_ __4__ Could you please give me your attention. _I beg your pardon, everyone, but I’d like to get tonight’s proceedings underway._ __5__ :dart: I believe you are mistaken or incorrect; I beg to differ; I don’t agree with you on that. _I beg your pardon, but I believe you’ll find that our school is actually one of the best in the state._  
 __if it ain’t broke, don’t fix it__ :two::hammer: (if it isn’t broke, don’t fix it)  
 __If you can’t beat ’em, join ’em__  
 __in a bit__  
@@ -99,6 +114,7 @@ __in no way, shape, or form__ In no possible manner; under no circumstances; not
 __in one blow__ All at once, with a single decisive or powerful action.  
 __in one go__ All at one time or in one attempt. _We’ll never be able to carry all these boxes out in one go—we’ll have to make several trips._  
 __in order that__ So that; with the particular aim or purpose of.  
+__in other news__  
 __in overdrive__  
 __in place of (someone or something)__  
 __in plain view__ In full, unrestricted view; visibly, openly, or publicly.  
@@ -129,6 +145,7 @@ __in the unlikely event (that) (something) happens__ If a very improbable outcom
 __in the view of (someone)__  
 __in the wake of (something)__ :dart:  
 __in the wild__ In naturally occurring conditions or environments.  
+__in the woods__ __1__ Being in a forest or a natural woodland area. _We went camping in the woods._ __2__ It can also mean being in critical condition, near death’s door.  
 __in the works__  
 __in virtue of (something)__ Due to something; because of something; by reason of something. _In virtue of your years of hard work and experience in the company, we think you would be well-suited to a managerial role within the company._  
 __in(to) shape__ In good, robust health; strong or fit. _Boy, I really need to get into shape. Ten years working behind a desk have given me quite a belly!_  
@@ -198,6 +215,7 @@ __leave a lot to be desired__ To be very inadequate or unsatisfactory; to lack a
 __let (oneself) go__  
 __level the playing field__ To make a situation or activity more fair and balanced by giving an extra advantage or opportunity to those who would normally be at a disadvantage, or by attempting to take away or diminish advantages, perhaps of one’s adversary or competitor.  
 __lick (one’s) wounds__  
+__lie to__ __2__ (Nautical) Of a sailing vessel, to remain stationary while facing the wind. _Make sure the ship lies to during the storm so as not to capsize._  
 __life, the universe, and everything__ The question that pan-dimensional space-beings asked the computer Deep Thought in Douglas Adams’s book, _The Hitchhiker’s Guide to the Galaxy._ The computer took millions of years and came up with the answer 42. _Balancing risks is life, the universe, and everything._  
 __liminal__ _adj_ /ˈlɪmɪnəl/  
 __litmus test__  
@@ -217,6 +235,7 @@ __make (something) clear (to one)__ :two:hammer:
 __make a difference__ :three::hammer:  
 __make a fuss__  
 __make a run for (someone or something)__ :two: To run in order to escape something or to reach a destination quickly, perhaps before a certain time or before something happens.  
+__make headway__  
 __make inroads (in/into something)__  
 ‌__make it__  
 __make matters worse__  
@@ -243,6 +262,7 @@ __move the needle__ _I am concentrating on what moves the needle most._
 __mug shot__ __1__ An official photograph taken of someone being brought into police custody, usually characterized by the person wearing a grim or blank expression on their face.  
 __mugger__  
 __mumbo jumbo__  
+__nab__ _v_ To catch and arrest someone. Often used in passive constructions.  
 __nada__  
 __narrative__ The way in which a particular person or situation is being portrayed or represented.  
 __narrow the gap__  
@@ -297,7 +317,7 @@ __on the verge of__
 __on-site__  
 __once and for all__  
 __once in a blue moon__ Very rarely.  
-__one size fits all__  
+__one size fits all__ :two::hammer:  
 __one way or the other__  
 __one-off__  
 __one-stop shop__ A physical or online location at which one can obtain everything one needs or wants all at once.  
@@ -329,6 +349,7 @@ __pick up on (something)__ :dart: To detect or notice something; to become alert
 __picture perfect__  
 __picture this__  
 __pie in the sky__ :two: An impossible, unlikely, or fanciful idea or plan. Often hyphenated.  
+__piece of ass__  
 __piggyback on(to) (something)__ To use something said or done by someone else as the foundation for one’s own actions.  
 __pile up__  
 __pilfer from (someone or something)__  
@@ -348,7 +369,10 @@ __plenty of (something)__ An abundant amount of; more than is needed.
 __point of contact__ A person or entity one can seek to access information or services.  
 __poking and prodding__  
 __pop one’s cherry__ In James Ellroy’s novels, “popping one’s cherry” is a metaphorical expression that means to commit a first violent or morally reprehensible act, often marking a point of no return.  
-__reality check__ :dart::two: An event or outcome that forces one to accept or reevaluate the reality of one’s position or situation.  
+__power play__ __2__ An action, behavior, or strategy intended to assert, enhance, or exaggerate one’s power, authority, or influence.  
+__push the envelope__  
+__pussyfoot (around)__ To behave in an overly cautious, timid, or non-committal manner. _He had a chance to take over the business for himself if he hadn’t kept pussyfooting around._ _Come on and say what you mean! Stop pussyfooting._  
+__reality check__ :dart::four: An event or outcome that forces one to accept or reevaluate the reality of one’s position or situation.  
 __receive (one’s) just deserts__ To receive that which one deserves, especially a punishment or unfavorable outcome. (Note: The phrase is often misspelled as “just desserts,” due to the pronunciation of “deserts” and “desserts” being the same in this context.) _The CEO cheated his clients out of nearly $4 million, but he received his just deserts when he was stripped of everything he owned and sent to prison._  
 __reclaim (someone or something) from (someone or something else)__ To regain or resume possession of someone or something from someone or something.  
 __recount (something) to (one)__ To narrate or share the facts or details of some experience or story to one.  
@@ -365,6 +389,7 @@ __road ahead__
 __rock bottom__ The absolute lowest or worst point.  
 __rocky start__ A troubled, uncertain, or discouraging beginning.  
 __roll out__  
+__roll the dice__  
 __roll with it__ To adapt to a situation despite unexpected circumstances or challenges.  
 __roll with the punches__ :dart:  
 __rope (one) into (doing) (something)__ To persuade, entice, or enlist one to do or participate in something. _I really didn’t want to sing in the talent show, but Janet roped me into it._  
@@ -392,22 +417,27 @@ __scoop__
 __scramble for (something)__  
 __scrape by__  
 __scrub (something)__ :three: To cancel or abort some plan or activity.  
+__scrub__ _That launch was scrubbed._  
 __sea change__ A massive, fundamental shift or transformation.  
+__search for a hero__ The quest for an ideal figure who embodies certain values, qualities, or aspirations that people admire or wish to emulate.  
 __second wind__ A renewed energy after a period of fatigue. _I planned to stop working at 9, but then I got my second wind and just kept going._  
 __see red__ To fall into a state of extreme anger, excitement, or competitive arousal, such as might cloud one’s judgement or senses. _He’s generally not a confrontational person, but you’d better get out of his way when he sees red!_ _I see red when anyone disrespects my wife._  
 __see the light of day__  
 __seep in(to something)__  
 __serve (one’s) time__  
+__set a camp__  
 __set eyes on something__  
 __set the bar (high/low)__  
 __sexual advances__  
 __Shangri-la__ A utopian paradise. A reference to the fictional Tibetan paradise described in James Hilton’s 1933 novel _The Lost Horizon._  
+__shine a light__  
 __shipshape and Bristol fashion__  
 __shit (one’s) pants__ __2__ _rude slang_ By extension, to be very surprised. _When I saw that the magazine had published my letter to the editor, I practically shit my pants!_ _Shit-your-pants scared._  
 __shut out__  
 __single file__ A line of things or people, one person or one thing wide. _Please get into single file._ _You have to march single file._  
 __single out__  
 __slap in the face__ Words or actions that have offended or otherwise upset someone. _It was a real slap in the face when she got promoted over me, especially after the amount of work I did on that last project._  
+__sleazo__  
 __slice of the pie__  
 __slowly and surely__  
 __snatch (someone) from the jaws of death__ To rescue someone at the last moment from near or certain death.  
@@ -428,6 +458,7 @@ __take a/the bullet (for someone)__
 __take center stage__ :two: To be the main focus.  
 __take notice (of someone or something)__  
 __take the heat__  
+__take the plunge__  
 __take__ __2__ \_noun, informal\_ One’s reaction to, impression of, or opinion about something.  
 __takes two to quarrel__  
 __tell it like it is__  
@@ -443,9 +474,11 @@ __the latest__ :two::hammer:
 __the march of time__ The steady, unstoppable advancement of time.  
 __the Midas touch__  
 __the naked eye__  
+__the pit of (one’s) stomach__  
 __the throne__ __2__ _slang_ The toilet. _Sit on the throne._  
 __there you go__  
 __this goes to show__ The phrase “this goes to show” is commonly used to indicate that a particular situation or example serves as evidence or proof of a broader point or principle. It is often employed to highlight a specific instance that demonstrates a general truth or conclusion.  
+__to a T__  
 __up and running__  
 __up for grabs__  
 __up to snuff__ (up to scratch) As good as what was expected, required, or demanded; satisfactory or adequate. _Sorry, Tom. Your performance isn’t up to snuff. You’ll have to improve or find another job._ _My paper wasn’t up to scratch, so I got an F._  
@@ -454,10 +487,11 @@ __ups and downs__ Positive and negative events or experiences, considered collec
 __user base__ :two: (business jargon) The number units of a particular product or service that are currently in use, especially software or an internet or computing platform. (Also referred to as “install(ed) user base” or simply “install(ed) base.”)  
 __vette__ A colloquial shortening of “Corvette,” a sports car manufactured by Chevrolet. The abbreviation can also be capitalized or spelled with an apostrophe.  
 __vouch for (someone or something)__  
-__wait and see__  
+__wait and see__ :two: To act with caution and patience until something happens. _I guess I just have to wait and see until the doctor calls with the test results._  
 __walk out__  
 __war chest__:two: A financial reserve collected and maintained for specific political purposes, especially election campaigns.  
 __watershed moment__  
+__we are coming for you__  
 __weave (something) into (something) else__  
 __weigh in__ :dart::two: __3__ To give one’s opinion or analysis of something during a discussion. _Karen, you haven’t weighed in yet. What’s your take on this?_  
 __What do you say?__ Does that sound good to you? Do you agree?  
@@ -480,6 +514,8 @@ __without a hitch__ :two::hammer:
 __word for word__ In or with the same exact words; verbatim. _After seeing the play only once, he was able to repeat the monologue word for word. It was amazing._  
 __work (oneself) up__  
 __work out the kinks__ To remove or resolve any small problems that remain present in something.  
+__worth a candle__  
+__y’all__ (ya’ll, yall, waw) _chiefly Southern US_ You. Usually used in addressing two or more persons. _I’m Mary Poppins, y’all!_ _Howdy, y’all._  
 __yada yada yada__  
 __yea or nay__  
 __yikes__  
