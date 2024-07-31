@@ -498,31 +498,6 @@ __What do you say?__ Does that sound good to you? Do you agree?
 __when pigs can fly__ At a point in time that will never come to pass. (Used to show skepticism or cynicism over some hypothetical situation or outcome.)  
 __where to draw the line__  
 __whip out__  
-__whip up__  
-__whistleblower__ (whistle-blower)  
-__whopping__  
-__wild goose chase__ :dart::two: (wild-goose chase) A prolonged or chaotic search for something that is difficult to find (often because it does not exist). A worthless hunt or chase; a futile pursuit.  
-__win (something) in a walk__ To win (something) easily, handily, or without much or any effort. _Enjoying the benefit of a week off between games, the home team won this match in a walk._  
-__window dressing__  
-__wishful thinking__  
-__wishy-washy__ :two::hammer:  
-__witch hunt__  
-__with a bang__ :two::hammer:  
-__with a twist__ The phrase “with a twist” is an idiomatic expression that means something is done or presented in an unexpected or unconventional way, often with a surprise or a new spin. It can imply that something is extraordinary, not straightforward, or deviates from the usual procedure.  
-__with bated breath__  
-__without a hitch__ :two::hammer:  
-__word for word__ In or with the same exact words; verbatim. _After seeing the play only once, he was able to repeat the monologue word for word. It was amazing._  
-__work (oneself) up__  
-__work out the kinks__ To remove or resolve any small problems that remain present in something.  
-__worth a candle__  
-__y’all__ (ya’ll, yall, waw) _chiefly Southern US_ You. Usually used in addressing two or more persons. _I’m Mary Poppins, y’all!_ _Howdy, y’all._  
-__yada yada yada__  
-__yea or nay__  
-__yikes__  
-__yips__ In the novels by James Ellroy, the phrase “she had the yips” likely refers to a condition of nervousness or a loss of nerve. This expression is often used in sports to describe a sudden loss of skill or confidence, particularly in activities like golf or baseball. In a broader context, it can signify a general state of anxiety or unease. Ellroy’s use of this term may indicate a character’s psychological state or emotional turmoil within the narrative.  
-__You ain’t seen nothing yet!__  
-__you’re on your own__ You have to deal with or resolve this situation without my or anyone else’s assistance.  
-__your highness__ __1__ A royal greeting. __2__ A greeting of someone who is high.  
 __yup__  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
 __zero in__ :two::hammer:  

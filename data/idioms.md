@@ -6392,11 +6392,12 @@ __while supplies last__ :two::hammer:
 __while the night__ _Anyone who is anyone has whiled the night away here._  
 __whip by__ (whipping by) _The summer is whipping by._  
 __whip out__  
+__whip up__  
 __whip your hair__ When you “whip your hair,” you’re moving your head and hair in a fast and forceful motion. The phrase is meant to evoke a sense of power and confidence.  
 __whipcrack__ “Whipcrack” is a term that James Ellroy uses in his novels to describe a fast, sharp, and sudden action or event. It’s used to evoke a sense of speed, intensity, and urgency.  
 __whipout__ It’s another slang term that Ellroy uses to describe something that happens quickly and violently. In his books, it can mean a sudden attack, a fast getaway, or even just a quick, sharp response to something.  
 __whisper sweet nothings__ To murmur words of affection to someone in a flirtatious manner.  
-__whistleblower__ :two::hammer:  
+__whistleblower__ :three::hammer: (whistle-blower)  
 __white coat hypertension__ A phenomenon in which a patient experiences elevated blood pressure around medical professionals. _A: “I swear, I didn’t feel dizzy until the doctor came in.” B: “Hmm, sounds like a case of white coat hypertension to me.”_  
 __white elephant__ :two::hammer:  
 __white knuckle something__  
@@ -6417,23 +6418,24 @@ __whoops__ _informal_ An exclamation of surprise used in response to a mistake o
 __whoopsie__  
 __whoopsie-daisy__  
 __whoosis__ _slang_ Any person whose name is not known, cannot be remembered, or is being avoided.  
+__whopping__  
 __why on earth__ :five: __1__ _proverb_ What one person may consider worthless could be highly prized or valued by someone else. __2__ Used to ask a question that emphasizes one’s shock, anger, disgust, incredulity, etc. _Why on earth are they here when the party doesn’t start for hours?_  
 __wide berth__ A good distance (between things, people, etc.). Originally referred to ships. _Once I learned that there was a lice outbreak, I kept a wide berth from all of my students for the rest of the day._  
 __wigged out__  
-__wild goose chase__ :three: A situation where you are looking for something that does not exist or that you are very unlikely to find, so that you waste a lot of time. _It looks like they’ve sent us on a wild goose chase._ A prolonged or chaotic search for something that is difficult to find (often because it does not exist). _I’ve been on a wild goose chase trying to find a bag of Dan’s favorite potato chips._  
+__wild goose chase__ :dart::five: (wild-goose chase) A prolonged or chaotic search for something that is difficult to find (often because it does not exist). A worthless hunt or chase; a futile pursuit. A situation where you are looking for something that does not exist or that you are very unlikely to find, so that you waste a lot of time. _It looks like they’ve sent us on a wild goose chase._ A prolonged or chaotic search for something that is difficult to find (often because it does not exist). _I’ve been on a wild goose chase trying to find a bag of Dan’s favorite potato chips._  
 __wild ride__  
 __wild__ :two::hammer:  
 __wild-goose chase__ A worthless hunt or chase; a futile pursuit. _I wasted all afternoon on a wild-goose chase._  
 __wildest dreams__ :two: All the things that one has ever imagined or hoped. Always used in a phrase such as “in (one’s) wildest dreams” or “never in (one’s) wildest dreams.” _Never in my wildest dreams did I think that someday I’d be living in Paris!_  
 __willy-nilly__  
 __win (one) over__  
-__win (something) in a walk__ To win (something) easily, handily, or without much or any effort.  
+__win (something) in a walk__ :two: To win (something) easily, handily, or without much or any effort. _Enjoying the benefit of a week off between games, the home team won this match in a walk._  
 __win out__ To defeat someone or something; to prevail.  
 __win over__  
 __win-win__ _A win-win scenario._  
 __wind down__ :four::hammer:  
 __wind__ __1__ _informal_ A hint, suggestion, or rumor about something. Used especially with the verb “get.” _Don’t let the boss catch wind of what you’re doing, or you’ll be fired for sure!_ __2__ _informal_ Intestinal gas; flatulence. _It is quite rude to pass wind so openly when in the company of others!_  
-__window dressing__ __2__ By extension, something that makes a person or thing look or seem better than it really is.  
+__window dressing__ :two: __2__ By extension, something that makes a person or thing look or seem better than it really is.  
 __window of opportunity__  
 __window-shopping__ The act of visiting stores, or looking in their windows, to see what is available without buying anything. _My bank account is so sad these days that I’ll only be window-shopping for a while!_  
 __wine by the glass__ _A wine list with over 80 wines by the glass._  
@@ -6448,24 +6450,25 @@ __wire__
 __wise guy__ __2__ A mobster.  
 __wise up__  
 __wish (one) well__  
-__wishful thinking__ :three: The act of thinking that or hoping that something will happen or be the case when in reality it is unlikely. :es: espejismo, ilusión  
+__wishful thinking__ :four: The act of thinking that or hoping that something will happen or be the case when in reality it is unlikely. :es: espejismo, ilusión  
 __wishy washy__ _slang_ Indecisive or not reliable.  
-__wishy-washy__ :three::hammer:  
+__wishy-washy__ :five::hammer:  
 __wit a vengeance__ _Generative AI left the lab with a vengeance._  
 __wit’s end__ :two::dart: A state of distress that is reached when someone has no more patience. Often used in the phrase “at wit’s end” or “at (one’s) wit’s end.” _The baby’s been crying for hours, and I’ve reached my wit’s end!_  
-__witch hunt__ :two: An attempt to blame and punish people who hold unpopular views and opinions, often under the guise of some other investigation. _The ruling party’s witch hunt against its detractors sparked a civil war._  
+__witch hunt__ :three: An attempt to blame and punish people who hold unpopular views and opinions, often under the guise of some other investigation. _The ruling party’s witch hunt against its detractors sparked a civil war._  
 __witching hour__ _The pizzeria servers until the witching hours._  
 __with (one’s) blessing__ With one’s express approval, consent, or well-wishes. _I asked Samantha to marry me, with her mother and father’s blessing, of course._  
 __with (one’s) head held high__ Displaying pride and confidence, often (but not always) after something has gone wrong. _Even though I knew I blew the presentation, I walked out of the conference room with my head held high… and then cried in my car._  
 __with (one’s) pants down__ _slang_ In an embarrassing position.  
-__with a bang__ :five::hammer: _Chamber music with a bang!_  
+__with a bang__ :seven::hammer: _Chamber music with a bang!_  
 __with a heavy hand__ :two: __1__ In an excessive, authoritarian, or oppressive way or manner. _The police dispersed the protesters with a heavy hand._  
 __with a passion__ _informal_ :two: Used to say that someone strongly dislikes someone or something. _She hated him with a passion._ _He loved her with a passion._  
 __with a record__  
-__with a twist__ :four::hammer:  
+__with a twist__ :five: The phrase “with a twist” is an idiomatic expression that means something is done or presented in an unexpected or unconventional way, often with a surprise or a new spin. It can imply that something is extraordinary, not straightforward, or deviates from the usual procedure.  
 __with a vengeance__ :four: Determinedly or passionately, perhaps fueled by anger. _After my girlfriend dumped me, I started working out with a vengeance._ _We’re going to have to clean with a vengeance to get the house ready in time._ _Die Hard with a Vengeance._  
 __with a view__ _Chateau with a view._  
 __with all (one’s) might__ Utilizing all of one’s power and strength to do something. _I pulled at the rope with all my might, but we still lost the tug-of-war._  
+__with bated breath__  
 __with each passing day__ As time continues to pass, day by day.  
 __with flying colors__ :three: With an overwhelming victory, triumph, or success. With distinction. _In these respects, Delta Air Lines passed with flying colors._  
 __with great (something) comes great (something else)__  
@@ -6478,21 +6481,25 @@ __within reason__ :three: Reasonable; reasonably. Within a logical or sensible s
 __within the realm(s) of possibility__ Possible; capable of happening. _You worked so hard this semester that I think an A is within the realm of possibility._  
 __within walking distance__  
 __without a doubt__  
+__without a hitch__ :two::hammer:  
 __without fail__ Said of something that happens regularly and predictably with no deviations. _I have passed the same woman walking her dog every day without fail for five years... but today she wasn’t there. I’m really worried about her!_  
 __without further ado__ :two: With no more delay.  
 __without notice__ Without informing the person or people involved. _Terms of the agreement are subject to change without notice._  
 __wolf down__  
 __womp womp__ :astonished: A humorous phrase used to indicate or highlight minor disappointment. It mimics the sad trombone noise often used as a trope in movies and TV shows. _I tried to stop at that boutique on my way home from work, but it was already closed. Womp womp._  
 __won’t budge an inch__ Will not move, change, or shift in any way at all. _Once my brother gets his mind made up, he won’t budge an inch, so don’t bother trying to reason with him._  
+__word for word__ In or with the same exact words; verbatim. _After seeing the play only once, he was able to repeat the monologue word for word. It was amazing._  
 __word of mouth__ :three: Spoken communication: _News of their success spread by word of mouth._  
 __word on the street__ :two: The information, or the version of that information, that is currently spreading from person to person, often in a particular setting, like school or work. _There are so many people stopping by Shelly’s office because word on the street is that she’s leaving the company._  
 __work (one’s) ass off__  
 __work (one’s) butt off__ b work really hard (on or at something).  
 __work (one’s) tail off__  
+__work (oneself) up__  
 __work in concert__ To work together or in cooperation. _The two of us will need to work in concert if we’re going to get through all these files._  
 __work like a charm__ :two::hammer:  
 __work one’s fingers to the bone__  
 __work one’s tail off__ :two::hammer:  
+__work out the kinks__ To remove or resolve any small problems that remain present in something.  
 __work out__ :two: __2__ _v_ To have a favorable or acceptable outcome. Used especially of situations in which an unfavorable outcome is expected. _This will all work out, you’ll see. I’m certain it’s a blessing in disguise._  
 __work the room__ To interact with many people at an event or function. Often, but not always, applied to business situations. _At networking events, Ben totally works the room, with the goal of meeting as many people as he possibly can._  
 __work up a sweat__ __1__ Literally, to perspire due to strenuous physical activity. _Ping pong is actually great exercise. You really can work up a sweat after just a few games._ __2__ By extension, to put forth a large amount of energy or effort into or toward a task. Often used in the negative to indicate the opposite. _That test was so easy, I aced it without even working up a sweat._  
@@ -6500,6 +6507,7 @@ __work wonders__
 __worked out__ __5__ _v_ To have a specific result. _I never planned to become a lawyer, that’s just how it worked out._  
 __worried sick__ Very concerned or anxious about a person or situation. _The next time you’re going to be this late getting home, please call me, because I was worried sick!_  
 __worst-case scenario__  
+__worth a candle__  
 __worthy cause__ A cause that merits attention, aid, or action due to an inherent goodness of values or intention. _The lawyer decided to waive her fees because she felt that the young man’s case was a worthy cause._  
 __wouldn’t listen__ _He wouldn’t listen._  
 __wouldn’t touch something/someone with a ten-foot pole__ (_BrA_ wouldn’t touch something/someone with a barge pole) If you say that you wouldn’t touch something or someone with a barge pole, you mean that you do not want to have anything to do with them. _The history of the building kept the price down. No one would touch it with a barge pole._ _A woman like that wouldn’t touch me with a ten-foot pole._ Note: A barge pole is a very long pole that is used to move a barge (= a long, flat boat) forward.  
@@ -6520,16 +6528,21 @@ __wuss__ _slang_ Someone who is too nervous, afraid, or reserved to do anything 
 __x, y, and z__ _n_ A figure of speech used when making a hypothetical argument or example. _Well, I could say, “God doesn’t exist because of X, Y and Z.”_  
 __X’s and O’s__ :three: (Xs and Os) __1__ _sports_ The symbols used to denote the players on one’s team (and usually those of the opposing team) in a diagram of a play (i.e., the formation the players will take when trying to score or move the ball). The term often refers to the plays themselves. _That coach is great with the x’s and o’s, but the team’s execution has been very disappointing._ _The key is making the Xs and Os work for the Tigers._ __2__ By extension, knowledge of how something works. _Before you start on that report, call Shelly—she knows all the x’s and o’s of the budget._ __3__ Kisses and hugs.  
 __XYZ__ In spoken language, “XYZ” is often used to refer to hypothetical or unspecified elements, variables, or situations.  
+__y’all__ (ya’ll, yall, waw) _chiefly Southern US_ You. Usually used in addressing two or more persons. _I’m Mary Poppins, y’all!_ _Howdy, y’all._  
+__yada yada yada__  
 __yada, yada(, yada)__ :nine::m: (yadda yadda yadda) __1__ _slang_ [:scroll: The phrase was popularized by the television show Seinfeld in the 1990s.] Used to summarize, characterize, or represent information or chatter that one finds boring, trivial, or unnecessary. Boring or empty talk. Sometimes spelled “yadda, yadda, yadda.” _So then I ran into my friend, Sarah. Sarah and I went to high school together, and we were really good friends until we had a bit of a falling out. Yada, yada, yada, the point is that I haven’t seen her in a long time._ __2__ _slang_ By extension, et cetera; so on and so forth. _A: “What are you up to tonight?” B: “Not much. Dinner, homework, yada, yada. How about you?”_ _There were all sorts of things stuck in that attic—old furniture, dolls’ houses, broken appliances, yada, yada, yada._  
 __yankee dime__ A kiss. _My grandmother would always say, “Come give me a yankee dime, my dear,” when she wanted a kiss._  
 __yap__ __2__ To chatter; to gossip. _Did you just come here to yap?_ __3__ _n_ Nonsense; gibberish. _That windbag can produce an enormous amount of yap._ __4__ _vi_ To empty one’s stomach; to vomit. _Who yapped in the bushes?_ _A yapping dog._  
 __yap, yap, yapping all day long__ Talking nonstop, especially about insignificant things. _Connie’s nice enough, but once she starts yap, yap, yapping all day long, I feel a headache coming on._  
 __yard__ _n_ A one-hundred-dollar bill. (Underworld.) _The guy wanted a yard just to fix a little dent in the fender._  
-__yea or nay__ :two: Yes or no. “Yea” is pronounced (and commonly misspelled as) “yay.” _What do you think of this outfit for tonight? Yea or nay?_  
+__yea or nay__ :three: Yes or no. “Yea” is pronounced (and commonly misspelled as) “yay.” _What do you think of this outfit for tonight? Yea or nay?_  
 __yeah, yeah (,yeah)__ _informal_ A dismissive phrase commonly used to express impatience, frustration, or incredulity with what the previous speaker has said. _Yeah, yeah, we’ve heard it all before. Now when is your organization going to start taking steps toward real change?_ _A: “And then my dog ate my homework, I swear.” B: “Yeah, yeah, yeah. Tell me what really happened.” A: “I might have forgotten about the assignment.” A: “There we go.”_  
 __yen__ :two: A desire. Often used in the phrase “have a yen for (someone/something).” _Meredith has a real yen to be a surgeon, which, combined with her work ethic, should bring her much success._  
+__yikes__  
 __yippee-ki-yay__ :two::hammer:  
+__yips__ In the novels by James Ellroy, the phrase “she had the yips” likely refers to a condition of nervousness or a loss of nerve. This expression is often used in sports to describe a sudden loss of skill or confidence, particularly in activities like golf or baseball. In a broader context, it can signify a general state of anxiety or unease. Ellroy’s use of this term may indicate a character’s psychological state or emotional turmoil within the narrative.  
 __yo__ _slang_ A colloquial variant of “hello,” used either as a greeting or to get someone’s attention. _“Yo, they’re making a movie!_  
+__You ain’t seen nothing yet!__  
 __you are what you eat__ To be healthy, you need to eat good food.  
 __you bet__ _Do you want more coffee? You bet._  
 __you can say that again__ I agree completely; what you said is especially true. _A: “Wow, that exam was brutally difficult.” B: “You can say that again! It was the hardest test I’ve ever taken.”_  
@@ -6542,10 +6555,12 @@ __you name it__ :dart::nine::m: You say _you name it_, usually after or before a
 __you scratch my back, I scratch yours__ :three: (you scratch my back, I’ll scratch yours) If you help me, I will help you.  
 __you shouldn’t have__ A message of thanks for a (usually unexpected) gift. Can be used sincerely or sarcastically. _You got me a present? Aww, you shouldn’t have!_ _More files to copy? Thanks, you shouldn’t have._  
 __you’re a lifesaver__ You are wonderful and/or helpful. _You brought me coffee? Ah, you’re a lifesaver._  
+__you’re on your own__ You have to deal with or resolve this situation without my or anyone else’s assistance.  
 __you’ve got a point there__ Your point of view or opinion makes sense. _A: “It’s snowing—should we really go out for ice cream?” B: “Hmm, you’ve got a point there.”_  
 __you’ve got me__ :dart: I don’t know the answer to your question. _A: “Is Bill coming in today?” B: “Hmm, you’ve got me.”_  
 __young at heart__  
 __your eyes are bigger than your stomach__ You want more food than you can eat.  
+__your highness__ __1__ A royal greeting. __2__ A greeting of someone who is high.  
 __your mileage may vary__  
 __your thoughts__ :three: A way to invite someone to share their opinion or perspective in a conversation.  
 __your/the last/final word (on/about something)__ your, etc. final decision or statement about something: ‘Will you take £900?’ ‘No, £1 000 and that’s my last word.’  
