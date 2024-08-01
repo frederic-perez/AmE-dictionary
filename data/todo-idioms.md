@@ -398,31 +398,6 @@ __round on__ To suddenly attack, berate, or show hostility toward someone, espec
 __rue the day (that something happened)__ To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
 __rule of law__  
 __rules of the road__  
-__rumble on__  
-__rumble__  
-__run deep__ To be well established and strongly integrated into the nature or character of something. _In this part of the country, college basketball rivalries run deep._  
-__run high__  
-__run out of (something or some place)__  
-__run out of steam__ :dart: To lose one’s energy, motivation, or enthusiasm to continue doing something.  
-__run out of time__  
-__run through (something)__ __4__ To guide one through or inform one of the process or details of something. In this usage, a noun or pronoun is used between “run” and “through.” _Can you run me through the plan one more time?_  
-__running high__ [for feelings] To be in a state of excitement or anger. _Feelings were running high as the general election approached._  
-__rush into (something)__  
-__said and done__ :dart: Agreed to and accomplished or finished. _When all is said and done, we’ll look back at this and laugh._  
-__Say it ain’t so, Joe!__ Your admitting your mistake would break my heart. “Shoeless” Joe Jackson was involved in the “Black Sox” baseball scandal in which eight Chicago White Sox players were accused of fixing the 1919 World Series. Legend has it that as Jackson was leaving the courthouse, a young fan tugged on his sleeve and, in a voice full of emotion, said, “Say it ain’t so, Joe.” When Jackson confirmed the accusation, the lad realized that his idol had feet of clay.  
-__says who__  
-__schmuck__  
-__schtick__ _slang_ A particular gimmick, routine, or characteristic that distinguishes one or sets one apart from others. Originally from Yiddish. _The restaurant’s whole schtick is that your table is locked inside of a cage and, periodically, the lights go out while people in costumes come out to try to scare you._ _I tried writing more serious literary novels, but I realized that cheesy thrillers are just my schtick._  
-__scoop__  
-__scramble for (something)__  
-__scrape by__  
-__scrub (something)__ :three: To cancel or abort some plan or activity.  
-__scrub__ _That launch was scrubbed._  
-__sea change__ A massive, fundamental shift or transformation.  
-__search for a hero__ The quest for an ideal figure who embodies certain values, qualities, or aspirations that people admire or wish to emulate.  
-__second wind__ A renewed energy after a period of fatigue. _I planned to stop working at 9, but then I got my second wind and just kept going._  
-__see red__ To fall into a state of extreme anger, excitement, or competitive arousal, such as might cloud one’s judgement or senses. _He’s generally not a confrontational person, but you’d better get out of his way when he sees red!_ _I see red when anyone disrespects my wife._  
-__see the light of day__  
 __seep in(to something)__  
 __serve (one’s) time__  
 __set a camp__  
