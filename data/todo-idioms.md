@@ -348,31 +348,6 @@ __photobomb__
 __pick up on (something)__ :dart: To detect or notice something; to become alert to or aware of something. _There are a lot of mature jokes in this cartoon that I never picked up on as a kid._  
 __picture perfect__  
 __picture this__  
-__pie in the sky__ :two: An impossible, unlikely, or fanciful idea or plan. Often hyphenated.  
-__piece of ass__  
-__piggyback on(to) (something)__ To use something said or done by someone else as the foundation for one’s own actions.  
-__pile up__  
-__pilfer from (someone or something)__  
-__pin down__ :two: __2__ By extension, to try to force someone into a position where they must commit to a single, precise answer or piece of information. In this usage, a noun or pronoun can be used between “pin” and “down.” _The president never let reporters question him long enough for them to pin him down on any issue they brought up._  
-__pinch__  
-__piss off__  
-__pitch-perfect__ Reaching or conveying the exactly right note or tone. The phrase refers to music but it is often applied to writing and other things.  
-__plain vanilla__ A reference to vanilla being considered an ordinary or unexciting flavor. Often hyphenated if used before a noun. __1__ Completely basic, simple, or straightforward, lacking embellishments, adornments, special features, etc.  
-__play (one’s) cards close to (one’s) chest__  
-__play (something) at full blast__ (play at full volume)  
-__play a role in (something)__  
-__play big__ To play for high stakes; to be willing to take risks.  
-__play games (with one)__ To deliberately attempt to evade, deceive, or misinform one (about something) in order to manipulate them or achieve some desired outcome.  
-__play tag__ A long distance phone call made.  
-__plead the Fifth (Amendment)__  
-__plenty of (something)__ An abundant amount of; more than is needed.  
-__point of contact__ A person or entity one can seek to access information or services.  
-__poking and prodding__  
-__pop one’s cherry__ In James Ellroy’s novels, “popping one’s cherry” is a metaphorical expression that means to commit a first violent or morally reprehensible act, often marking a point of no return.  
-__power play__ __2__ An action, behavior, or strategy intended to assert, enhance, or exaggerate one’s power, authority, or influence.  
-__push the envelope__  
-__pussyfoot (around)__ To behave in an overly cautious, timid, or non-committal manner. _He had a chance to take over the business for himself if he hadn’t kept pussyfooting around._ _Come on and say what you mean! Stop pussyfooting._  
-__reality check__ :dart::four: An event or outcome that forces one to accept or reevaluate the reality of one’s position or situation.  
 __receive (one’s) just deserts__ To receive that which one deserves, especially a punishment or unfavorable outcome. (Note: The phrase is often misspelled as “just desserts,” due to the pronunciation of “deserts” and “desserts” being the same in this context.) _The CEO cheated his clients out of nearly $4 million, but he received his just deserts when he was stripped of everything he owned and sent to prison._  
 __reclaim (someone or something) from (someone or something else)__ To regain or resume possession of someone or something from someone or something.  
 __recount (something) to (one)__ To narrate or share the facts or details of some experience or story to one.  
