@@ -5,17 +5,22 @@ __baleful__ _adj_ Threatening or foreshadowing evil or tragic developments. _Syn
 __banter__  
 __barren__ _adj_  
 __biology__ _n_ :mega:  
+__blasé__ _adj_ Indifferent to or bored with life; unimpressed, as or as if from an excess of worldly pleasures.  
 __blazing__ _adj_  
 __bountiful__  
 __brat__ _n_  
 __bungle<sup>1</sup>__ _vt_ :dart: /ˈbʌŋɡəl/ To carry out badly or ruin through ineptitude; botch. To spoil (an operation) through clumsiness, incompetence, etc; botch.  
 __bungle<sup>2</sup>__ _vi_ To work or act ineptly or inefficiently.  
 __bungle<sup>3</sup>__ _n_ :dart: A clumsy or unsuccessful performance or piece of work; mistake; botch.  
+__capricious__ _adj_ /kuh-PRISH-us/ _Capricious_ is a formal word that describes someone or something governed or characterized by impulsivity or unpredictability.  
+__cardinal__ _adj_ /KAHRD-nul/  
 __catastrophe__ _n_ /kuh-TASS-truh-fee/  
+__clandestine__ _adj_ /klan-DESS-tun/  
 __coltish__ _adj_ Lively and playful; frisky. _Syn_ frolicky, frolicsome, rollicking, sportive  
 __coop__ _n_ __1__ A small enclosure or cage, as for poultry or small animals. __2__ A cramped or uncomfortably confined space. __3__ _Slang_ A jail or prison.  
 __deduplicate__ _vt_ :astonished: _Computing_ To remove (duplicated material) from a system.  
 __defect__ _vi_  
+__deference__ _n_ /DEF-uh-runss/  
 __delay__ _n, v_ /dɪˈleɪ/  
 __delirious__ _adj_ Marked by uncontrolled excitement or emotion; ecstatic. _Syn_ excited, frantic, mad, unrestrained  
 __demeanor__ _n_ :mega:  
@@ -66,7 +71,7 @@ __fiddle-faddle<sup>1</aup>__ _n_ /ˈfɪdəlˌfædəl/ Nonsense.
 __fiddle-faddle<sup>2</sup>__ _v_ To fuss or waste time, esp over trivial matters.  
 __fire grate__ _n_ (firegrate, fire-grate) A grate used to hold the fuel in domestic fireplaces and in many forms of heaters and furnaces. _She prepared the fire grates._  
 __flash flood__ _n_ (flashflood) A sudden flood of great volume, usually caused by heavy rain.  
-__fleet__ _n_ The largest organized unit of naval ships grouped for tactical or other purposes.  
+__fleet__ _n_ :two: The largest organized unit of naval ships grouped for tactical or other purposes.  
 __flexor__ _n_ A small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes. _Syn_ percussor, plessor  
 __flighty__ _adj_ /ˈflaɪtɪ/  
 __floorwalker__ _n_ An employee of a department store who supervises sales personnel and assists customers. _Syn_ shopwalker  
@@ -76,14 +81,20 @@ __flyover__ _n_
 __foist__ _v_ /FOIST/ _Foist_, which is almost always used with _on_ or _upon_, is used when someone forces another person to accept something, usually something that is not good or is not wanted. Foist can also mean “to pass off as genuine or worthy.”  
 __folly__ _n_ (construction)  
 __footage__ _n_ :mega:  
+__gabby__ _adj_ Tending to talk excessively. _Syn_ chatty, garrulous, loquacious, talkative, talky  
 __galvanize__  
+__grouse__ _v_  
 __gruntled__ _adj_ /ˈɡrʌntəld/ _informal_ Happy or contented; satisfied.  
 __herald__ _v_ /HAIR-uld/ _Herald_ is a verb meaning “to give notice of”; it is synonymous with _announce_, _publicize_, and _foreshadow_. _Herald_ may also mean “to greet especially with enthusiasm.”  
 __hiking__ _n_  
 __history__ _n_ :mega:  
+__hoopla__ _n_ /HOO-plah/ _Hoopla_ refers to talk or writing that is designed to get people excited about or interested in something, often with the implication that the person using the word does not find the thing exciting or interesting.  
+__idiosyncrasy__  
 __ineffable__ _adj_ Incapable of being expressed. _Syn_ indescribable, unspeakable, untellable, unutterable, indefinable  
 __inerrant__ _adj_ Incapable of erring. _Syn_ infallible  
 __jurisprudence__ _n_ /joor-us-PROO-dunss/ _Jurisprudence_ is a formal word that typically refers to the science or philosophy of law, or to a system or body of law.  
+__kudos__ _n_ /KOO-dahss/  
+__lethargic__ _adj_ Of, relating to, or affected with lethargy; drowsy; sluggish; apathetic.  
 __Lewis gun__  
 __liable__ _adj_  
 __lidless__ _adj_ Watchful; vigilant. _Syn_ sleepless  
@@ -92,6 +103,7 @@ __limerence__ _n_ The state of being obsessively infatuated with someone, usuall
 __limestone__  
 __liminal__ _adj_  
 __limpid__ _adj_ /LIM-pid/ _Limpid_ describes things that are perfectly transparent or clear, or that are simple in style.  
+__lionhearted__ _adj_  
 __lip liner__ _n_ (lip liner)  
 __listless__ _adj_ Marked by low spirits; showing no enthusiasm. _Syn_ dispirited  
 __litigation__ _n_  
@@ -104,6 +116,7 @@ __lookout__ _n_ _Lookouts were posted._
 __lucrative__ _adj_ :two::hammer: /LOO-kruh-tiv/  
 __luminal__ _adj_  
 __lunchtime__ _n_ :pencil2:  
+__machtpolitik__ _n_ /MAHKHT-pol-ee-teek/ Power politics: policies that advocate the use of power and physical force to attain their goals.  
 __maiden__ _adj_ _The _Titanic_ maiden voyage._  
 __marionette__ _n_ _Syn_ puppet  
 __meliorism__ _n_ /MEE-lee-uh-riz-um/ _Meliorism_ refers to the belief that the world tends to improve and that humans can aid its betterment.  
@@ -111,6 +124,7 @@ __midriff__
 __misnomer__  
 __moot__ _vt_  
 __mountaineering__  
+__natural hat trick__ _n_ _sports_ A hat trick in which three goals are scored in succession by one player in one game.  
 __nonplus__ _v_ /nahn-PLUS/ To _nonplus_ someone is to perplex them, or in other words, to cause them to be at a loss as to what to say, think, or do.  
 __nubbly__ _adj_ Rough or irregular; textured. _Syn_ homespun, nubby, slubbed, tweedy  
 __off-limits__  
@@ -127,14 +141,16 @@ __peculiar__ _adj, n_
 __pejorist__ _n_ /PEJ-uh-rist/ A person who believes that the world is getting worse.  
 __penury__ _n_ Extreme want or poverty; destitution. _Syn_ indigence, pauperism, beggary, need  
 __peradventure__ _n_ Chance, doubt, or uncertainty.  
-__peremptorily__ _adv_ In a way that leaves no opportunity for denial or refusal.  
+__peremptorily__ _adv_ :astonished: In an imperative and commanding manner. In a way that leaves no opportunity for denial or refusal.  
 __peremptory__  
 __perfunctory__  
 __perjury__ _n_  
 __personal column__ _n_  
 __perspicacious__ _adj_  
 __pertussis__ _n_ The technical name for _whooping cough_.  
+__phony__ _adj_  
 __pitch__ _n_ :es: (esp. _British_) campo, cancha  
+__plod__ _v_ To walk heavily or move laboriously; trudge.  
 __precede__ _v_ Furnish with a preface or introduction. _Syn_ preface, premise, introduce _She always precedes her lectures with a joke._  
 __premier__  
 __preposterous__ _adj_ [:scroll: From Latin praeposterus, which translates literally to “in the wrong order”]  
@@ -154,7 +170,7 @@ __rundown__ _n_
 __ruse__ _n_ _Syn_ wile  
 __salacious__ _adj_ :three::hammer:  
 __salutary__  
-__sanctimonious__ _adj_ /sank-tuh-MOH-nee-us/ Someone described as sanctimonious behaves as though they are morally superior to others. Language or behavior that suggests the same kind of moral superiority can also be described as sanctimonious.  
+__sanctimonious__ _adj_ :two: /sank-tuh-MOH-nee-us/ Someone described as sanctimonious behaves as though they are morally superior to others. Language or behavior that suggests the same kind of moral superiority can also be described as sanctimonious. Feigning piety or righteousness. _Syn_ holier-than-thou, pharisaic, pietistic, self-righteous  
 __sartorial__  
 __satchel__ _n_  
 __savoy__ _n_ (food)  
@@ -210,9 +226,9 @@ __tomfoolery__ _n_ /tahm-FOO-luh-ree/ _Tomfoolery_ is a word with an old-fashion
 __torpedo__ _vt_ __2__ To destroy decisively; wreck: _torpedo efforts at reform._  
 __trestle__ _n_  
 __troubleshoot__ _v_  
-__trudge__ _v_ To walk, especially laboriously or wearily.  
+__trudge__ _v_ :two: To walk, especially laboriously or wearily.  
 __tweener__ _n_ (sports, chiefly tennis) A shot that is hit between the legs.  
-__unabashed__ _adj_ Not ashamed, disconcerted, or apologetic; boldly certain of one’s position.  
+__unabashed__ _adj_ :two: Not ashamed, disconcerted, or apologetic; boldly certain of one’s position.  
 __undercut__ _v_  
 __ungainly__ _adj_ :two: /un-GAYN-lee/ Lacking grace or ease of movement or form. _Syn_ clumsy, clunky, gawky, unwieldy  
 __unrequited__ _adj_ /ˌʌn rɪˈkwaɪ tɪd/  
