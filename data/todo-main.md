@@ -198,31 +198,6 @@ __sartorial__
 __satchel__ _n_  
 __savoy__ _n_ (food)  
 __school of thought__  
-__scissure__ _n_ A split or opening in an organ or part. _Syn_ crack, crevice, fissure, cleft  
-__scour__ _v_  
-__scrap__ _vt_ :dart: __2__ To discard or abandon as useless; cancel: _scrap a plan._  
-__scruff__ _n_  
-__scrump__ _v_  
-__scullery__  
-__sea plane__ _n_  
-__secure__ _vt_  
-__security__ _n_ /sɪˈkyʊər ɪ ti/  
-__seminal__ _adj_  
-__sendoff__ _n, v_  
-__sequester__ _v_ /sih-KWESS-ter/ __The jury was sequestered until a verdict was reached.__  
-__sergeant__ _n_  
-__service station__ _n_  
-__severance__ _n_  
-__sexennial<sup>1</sup>__ _n_ /sek-SEN-ee-uhl/ An event occurring every six years.  
-__sexennial<sup>2</sup>__ _adj_ /sek-SEN-ee-uhl/ Happening every six years; lasting for or relating to six years.  
-__sexpert__ _n_ /ˈsɛkspɜːt/ _informal_ a person whose job involves the academic study of or the providing information and advice about sexual relationships and sexual intercourse between human beings. A person who professes a knowledge of sexual matters.  
-__sham__  
-__shelter__ _v_  
-__shimmy__ _v_  
-__showdown__ _n_  
-__shutout__ _n_ A defeat in a game where one side fails to score. _Syn_ skunk  
-__sick bay__ _n_ A hospital or dispensary, esp. aboard ship.  
-__sideshow__ _n_  
 __simpleton__ _n_  
 __sine die__  
 __sinecure__ _n_  

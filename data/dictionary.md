@@ -16441,6 +16441,7 @@ __scintillometer__
 __scion__ _n_ :seven: /ˈsaɪ ən/ __1__ A descendant or offspring, esp. of an illustrious family. __2__ A shoot or twig, esp. one cut for grafting or planting.  
 __scissor lift__  
 __scissors__ _n pl_ (plurale tantum) :two::mute:[s~~c~~issors]  
+__scissure__ _n_ A split or opening in an organ or part. _Syn_ crack, crevice, fissure, cleft  
 __scleroderma__  
 __scoff__ _v_ :nine::m: (scoffed) Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at _They scoffed at the idea._  
 __scoffer__ _n_  
@@ -16477,7 +16478,7 @@ __scram__ _vi_ :two::hammer: _We better scram._
 __scramble<sup>1</sup>__ _vi_ :five: __2__ To struggle or contend frantically in order to get something: _scrambled for the best seats._ _Google scrambles to integrate AI into Search._ _We were scrambling financially._ _They scrambled for personal power._  
 __scramble<sup>2</sup>__ _vt_ :eight: (scrambles, scrambled, scrambling) __1__ Make one’s way quickly or awkwardly up a steep slope or over rough ground by using one’s hands as well as one’s feet. _We scrambled over the wet boulders._ _Syn_ clamber, climb __2__ Make (something) jumbled or muddled. _Maybe the alcohol has scrambled his brains._ _Syn_ muddle, confuse, mix up, disarrange, disorganize, mess up _The alcohol has scrambled his brains._  
 __scrap<sup>1</sup>__ _n_ :three: (scraps) __1__ A small piece or bit; a fragment. __2__ (scraps) Leftover bits of food. __3__ Discarded waste material, especially metal suitable for reprocessing. _Scrap iron._ __4__ (scraps) Crisp pieces of rendered animal fat; cracklings. __5__ A fight or scuffle. _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
-__scrap<sup>2</sup>__ _vt_ :nine::m: (scraps, scrapped, scrapping) __1__ To break down into parts for disposal or salvage: _scrap an old stove._ __2__ :dart: To discard or abandon as useless; cancel: _scrap a plan._ _It forced oil companies to scrap planned investments._ _Ship to be scrapped had reactor built on board in 1960s._ _Scrapping the legislation._  
+__scrap<sup>2</sup>__ _vt_ :dart::nine::m: (scraps, scrapped, scrapping) __1__ To break down into parts for disposal or salvage: _scrap an old stove._ __2__ :dart: To discard or abandon as useless; cancel: _scrap a plan._ _It forced oil companies to scrap planned investments._ _Ship to be scrapped had reactor built on board in 1960s._ _Scrapping the legislation._  
 __scrap<sup>3</sup>__ _vi_ :nine::m: (scrapping) To fight, usually with the fists. _A boy spends the next four decades scrapping._ _A lifestyle of snorting and scrapping._  
 __scrapbook__ _n_  
 __scrape__ _v_  
@@ -16525,9 +16526,11 @@ __scrub<sup>1</sup>__ _n_ _Trails winding through scrub oak stands._
 __scrub<sup>2</sup>__ _vt_ :five: (scrubbed) __1a__ To rub hard in order to clean: _scrubbed the floor._ _He scrubbed his hands at the sink._ __b__ To remove (dirt or stains) by hard rubbing. __3__ _Computers_ __a__ To maintain the integrity of by finding and correcting errors: _software that automatically scrubs stored data._ __b__ To erase in such a way as to render unrecoverable: _scrubbed the laptop’s hard drive to destroy incriminating evidence._ __4__ _Slang_ To cancel or abandon; drop: _We had to scrub our plans for vacation._  
 __scrubber__ _n_ __1__ A person or thing that scrubs. __2__ (Chemical Engineering) An apparatus for purifying a gas.  
 __scrubbers__ _n_  
+__scruff__ _n_  
 __scruffy__ _adj_ :nine::m::camera: /ˈskrʌfɪ/ (scruffier) Shabby and untidy. Unkempt or shabby. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __scrum__ _n_  
 __scrummy__ _adj_ :three: Delicious; lovely.  
+__scrump__ _v_  
 __scrumptious__ _adj_ :five: Extremely pleasing, esp. to the taste; delectable. _The scrumptious chuckwagon supper._  
 __scrunch__ _v_ :three::hammer: (scrunched, scrunching) :two::hammer:  
 __scrunchy__ _n_ (scrunchies) An elastic band covered with gathered fabric, used to fasten the hair, as in a ponytail.  
@@ -16544,7 +16547,7 @@ __scuffed__ _v_ :three::hammer:
 __scuffle<sup>1</sup>__ _v_ :seven: (scuffled, scuffling) Engage in a short, confused fight or struggle at close quarters. _The teacher noticed two pupils scuffling in the corridor._ _Syn_ fight, struggle _The police scuffled with a group of demonstrators._  
 __scuffle<sup>2</sup>__ _n_ :six::hammer: _Other guards hurried by with a scuffle and thud of leather._ _The scuffle and scrape of rubber soles._  
 __scull__ _v_ _Sculled the boat._  
-__scullery__ _n_ A small room (in large old British houses) next to the kitchen; where kitchen utensils are cleaned and kept and other rough household jobs are done.  
+__scullery__ _n_ :two: A small room (in large old British houses) next to the kitchen; where kitchen utensils are cleaned and kept and other rough household jobs are done.  
 __scum__ _n_ :three::hammer: _He was scum._  
 __scumbag__ _n_ :three::hammer:  
 __scunner<sup>1</sup>__ _vi_ /SKUHN-uhr/ [:scroll: From Scots scunner/skunner (to shrink back)] __1__ To disgust or sicken. __2__ To feel disgust or to flinch.  
@@ -16567,6 +16570,7 @@ __sea bass__ _n_ _Chilean sea bass._
 __sea canary__ _n_  
 __sea change__ _n_ :three::astonished: A major transformation or alteration. _Derek Chauvin was convicted of murdering George Floyd last week, and a number of words and phrases in our dictionary saw dramatic increases in lookups, including_ justice is served _and_ sea change. _It sufferef a sea change._  
 __sea gypsy__ _n_  
+__sea plane__ _n_  
 __sea snail__ _n_ (seasnail, snailfish)  
 __seabed__ _n_ :two::hammer:  
 __Seabees__ _n_ :two::hammer:  
@@ -16622,8 +16626,8 @@ __secrete__ _v_ :two: Place out of sight; keep secret. _The money was secreted f
 __secular__ _adj_ :four::hammer: /SEK-yuh-ler/  
 __secularism__ _n_  
 __secularist__  
-__secure__ _vt_ :two: __5__ To get possession of; acquire: _secured a job._ _Go online now to secure your seat._  
-__security__ _n_ :three::mega::hammer: /sɪˈkyʊər ɪ ti/  
+__secure__ _vt_ :three: __5__ To get possession of; acquire: _secured a job._ _Go online now to secure your seat._  
+__security__ _n_ :four::mega::hammer: /sɪˈkyʊər ɪ ti/  
 __sedan chair__ _n_  
 __sedative__ _n_ _Not the strongest sedative._  
 __sedentary__ _adj_ /SED-un-tair-ee/ Sedentary describes an activity in which much sitting is involved. _Editorial work is chiefly sedentary._  
@@ -16696,12 +16700,13 @@ __semester__ _n_ A semester is half of a school year. In September of your first
 __semi__ _n_ _informal_ __1a__ A semitrailer. __b__ A tractor-trailer.  
 __semi-final__ _n_ :pencil2:  
 __semi-finished__ _adj_ _Semi-finished lens._  
-__seminal__ _adj_ :two: Highly influential in an original way; constituting or providing a basis for further development. _Syn_ germinal, originative _He prepared a speech describing his experiment, never realizing that his presentation would be the seminal event in the development of a new theory._  
+__seminal__ _adj_ :three: Highly influential in an original way; constituting or providing a basis for further development. _Syn_ germinal, originative _He prepared a speech describing his experiment, never realizing that his presentation would be the seminal event in the development of a new theory._  
 __seminoles__  
 __semiretired__ _adj_ Working only on a part-time basis, as for reasons of ill health or advanced age.  
 __sempiternal__ _adj_ Enduring forever; eternal.  
 __senate__ _n_ :mega:  
 __send-off__ _n_ :three::hammer:  
+__sendoff__ _n, v_  
 __sendup__ _v_ _A sendup of the genre._  
 __Seneca__ _n_ :astonished: __1__ A member of the Iroquoian people formerly living in New York state south of Lake Ontario. __2__ The Iroquoian language spoken by the Seneca people.  
 __seneschal__ _n_ :three: An official in a medieval noble household in charge of domestic arrangements and the administration of servants; a steward or major-domo.  
@@ -16727,7 +16732,7 @@ __sepulcher__ _n_ :two::hammer::mega:
 __sepulchre__ _n_ /SEP-ul-ker/ (mostly British) Sepulchre is an old-fashioned word for a tomb or other place of burial.  
 __sequela__ _n_ A morbid condition following or occurring as a consequence of another condition or event.  
 __sequelae__ _n pl_ :two: The consequences of a particular condition or therapeutic intervention.  
-__sequester__ _v_ :two::hammer:  
+__sequester__ _v_ :three::hammer: /sih-KWESS-ter/ _The jury was sequestered until a verdict was reached._  
 __sequestration__ _n_ _Sequestration of the jury._  
 __sequin__ _n_ :five::hammer: (sequins) :es: lentejuela  
 __sequined__ _v_ :four::hammer:  
@@ -16745,6 +16750,7 @@ __Serengeti__ _n_ :pencil2:
 __Serenity Prayer__  
 __serf__ _n_ _A vagrant serf._  
 __serfdom__ _n_  
+__sergeant__ _n_  
 __serial comma__ _n_ :two: Oxford comma  
 __serial__ _adj, n_ /ˈsɪər i əl/  
 __serigraph__ _n_  
@@ -16760,6 +16766,7 @@ __serpentine<sup>3</sup>__ _n_ __1__ Something winding, twisting, or coiling. __
 __serpiginous__ _adj_ :astonished:  
 __serum__ _n_ :es: suero  
 __service animal__ _n_ Any animal (often a dog) specially trained to assist a person who is blind, deaf, or disabled in some way. _Syn_ assistance animal  
+__service station__ _n_  
 __servicers__  
 __serving__ _n_ :three: (servings) An individual portion or helping of food or drink. _Eat five servings of fruit or veg each day._  
 __sesquicentennial__ _adj_  
@@ -16791,7 +16798,7 @@ __seven__ _n_ :mega: /ˈsɛvən/
 __seventeen-year locust__ _n_ A cicada, _Magicicada septendecim_, of the eastern U.S., having nymphs that live in the soil, usually emerging in great numbers after 17 years in the North or 13 years in the South.  
 __severance (severance contract)__ _n_ :two: _Law_ The division into separate parts of a joint estate, contract, etc.  
 __severance pay__ _n_ :two: A sum of money usually based on length of employment for which an employee is eligible upon termination. :es: finiquito  
-__severance__ _n_ :three::hammer: _Severance pay._  
+__severance__ _n_ :four::hammer: _Severance pay._  
 __severe attacks__  
 __sewage__ _n_ :two::hammer: :es: aguas residuales  
 __sewer gas__  
@@ -16799,6 +16806,9 @@ __sewer grate__ _n_ :two::hammer:
 __sewer__ _n_ _A sewer pipe._  
 __sex drive__ _n_ A physiological need for sexual activity. _Testosterone is responsible for the male sex drive._  
 __sex__ _n_ (_n pl_ sexes)  
+__sexennial<sup>1</sup>__ _n_ /sek-SEN-ee-uhl/ An event occurring every six years.  
+__sexennial<sup>2</sup>__ _adj_ /sek-SEN-ee-uhl/ Happening every six years; lasting for or relating to six years.  
+__sexpert__ _n_ /ˈsɛkspɜːt/ _informal_ a person whose job involves the academic study of or the providing information and advice about sexual relationships and sexual intercourse between human beings. A person who professes a knowledge of sexual matters.  
 __sextant__  
 __sexual battery__ _n_ Sexual battery may be defined as non-consensual touching of the intimate parts of another. At least in Florida, “Sexual battery means oral, anal, or vaginal penetration by, or union with, the sexual organ of another or the anal or vaginal penetration of another by any other object.”  
 __shabbily__ _adv_ __1__ So as to appear worn and threadbare or dilapidated; “a shabbily dressed man.” __2__ In a mean and ungenerous manner; _“the two were haggling shabbily in the drawing-room.”_ _He has shabbily deceived us._  
@@ -16826,7 +16836,7 @@ __shale<sup>3</sup>__ _v_
 __shallot__ _n_ :three::hammer:  
 __shallow__  
 __sham<sup>1</sup>__ _adj_ :four: Bogus; false. _Syn_ fake, pretended, feigned, simulated, false, artificial, bogus _Sham marriages._ _The sham elections._ _“Sham surgery” diminished swelling in hurt knees._  
-__sham<sup>2</sup>__ _n_ :seven::hammer: _The novelty effect isn’t a sham._  
+__sham<sup>2</sup>__ _n_ :eight::hammer: _The novelty effect isn’t a sham._  
 __shambled__ _v_ :two::hammer:  
 __shambles__ _n_ :five: /SHAM-bulz/ _Shambles_ refers to a place or state in which there is great confusion, disorder, or destruction. _The house party they had over the weekend left the entire living room in shambles._ _By 1984, our dreams were a shambles._ _It was in shambles._  
 __shambling__  
@@ -16901,6 +16911,7 @@ __shelling out__
 __shelling<sup>1</sup>__ _n_ :two: /ˈʃɛlɪŋ/ The act of bombing a place with artillery shells. :es: bombardeo  
 __shelling<sup>2</sup>__ _v_  
 __shells__ _n_  
+__shelter__ _v_  
 __shelved__ _v_ :four::hammer: _The Supreme Court temporarily shelved his Clean Power Plan._  
 __shemozzle__ _n informal_ (shimozzle) A noisy confusion or dispute; uproar.  
 __shenanigans__ _n pl_ :six: /shuh-NA-nih-guns/ Shenanigans is an informal word used to refer to mischievous or bold activity or behavior, or to dishonest or questionable practices or conduct. Its oldest meaning, and the one most likely to be encountered as the singular shenanigan, is “a devious trick used especially for an underhanded purpose.” _Reunited at their class reunion, the school’s most notorious pranksters were instantly back to their old shenanigans, cracking up their former classmates with hilarious toasts during dinner._ _The CEO resigned amid accusations of financial shenanigans and dubious deals._ _Pulling shenanigans._  
@@ -16923,7 +16934,7 @@ __shillelagh__ _n_ /ʃəˈleɪlə, ʃəˈleɪlɪ/ A cudgel made of hardwood (usu
 __shim__ _vt_  
 __shimmer__ _vi_ :six::hammer: (shimmering) _Shimmering eyes._  
 __shimmering__ _adj_ :es: reluciente  
-__shimmy__ _v_ :five: (shimmying) Tremble or shake. _Syn_ wobble _I need to take the car to a mechanic because it begins to shimmy every time it is driven at high speed._  
+__shimmy__ _v_ :six: (shimmying) Tremble or shake. _Syn_ wobble _I need to take the car to a mechanic because it begins to shimmy every time it is driven at high speed._  
 __shin splints__ _n_ (shinsplints) A painful condition of the shins caused by inflammation of muscles and connective tissue, frequently occurring among runners. _She was crippled by shin splints._ :es: calambres en la pierna, periostitis  
 __shinbones__  
 __shindig__ _n_ :two: A large and noisy party of people. _Syn_ shindy  
@@ -17083,7 +17094,7 @@ __shunt__ _v_ :three::hammer: (shunted, shunting) _With a PDA, there is continou
 __shuriken__ _n_ /ˈʃuːrɪken/ A martial-arts weapon usually in the shape of a star or cross with sharp protruding edges, thrown with a spin towards the target.  
 __shush<sup>2</sup>__ _v_ :two::hammer: (shushing)  
 __shut out__ _v_ :two::hammer:  
-__shutout__ _n_ :nine::m: _Sports_ A game in which one side does not score. _Last year, the NL won in a shutout._ _It was the Tigers’s fifth consecutive shutout._ _Chelsea Haas won seven games with six shutouts._  
+__shutout__ _n_ :nine::m: _Sports_ A game in which one side does not score. A defeat in a game where one side fails to score. _Syn_ skunk _Last year, the NL won in a shutout._ _It was the Tigers’s fifth consecutive shutout._ _Chelsea Haas won seven games with six shutouts._  
 __shutter__ _n_ :three::hammer: (shutters) _The finest selection of custom shutters since 1973._  
 __shutterbug__ _n_ _informal_ :two: An enthusiastic amateur photographer. _Shutterbugs will be intrigued by the Canon camera._  
 __shuttlecock__ _n_  
@@ -17098,7 +17109,7 @@ __sibilance__ _n_ A hissing quality of sound, or the hissing sound itself. _I do
 __sibilant__ _adj_ _Every _s_ is sibilant._  
 __sic__  
 __sicced__ _v_  
-__sick bay__ _n_ A hospital or dispensary, esp. aboard ship.  
+__sick bay__ _n_ :two: A hospital or dispensary, esp. aboard ship.  
 __sick leave__ _n_ :four::hammer: _The UK’s biggest reason for sick leave._  
 __sickbed__ _n_ A sick person’s bed.  
 __sickle cell__  
@@ -17116,6 +17127,7 @@ __sideline<sup>1</sup>__ _n_ :four: The area or areas next to but outside a play
 __sideline<sup>2</sup>__ _vt_ :dart::eight: (sidelined) To remove or keep from active participation. _Women sidelined in pandemic research._ _The first baseman is expected to be sidelined for seven to 10 days._  
 __sidereal__ _adj_ /saɪˈdɪər i əl/ __1__ Of, relating to, or involving the stars. __2__ Determined with reference to one or more stars: _the sidereal day._  
 __sidesaddle__ _n_ :camera: A saddle designed so that the rider sits with both legs on one side of the horse.  
+__sideshow__ _n_  
 __sidesplitting__ _adj_ _A sidesplitting ceremony._  
 __sidestep<sup>1</sup>__ _vi_ :nine::m: __1__ To step aside: _sidestepped to make way for the runner._ __2__ To dodge an issue or a responsibility. _Syn_ evade, hedge, skirt, parry, fudge, circumvent, dodge, elude, duck, put off  
 __sidestep<sup>2</sup>__ _vt_ :nine: __1__ To step out of the way of. __2__ To evade; skirt: _sidestep a difficult question._  
