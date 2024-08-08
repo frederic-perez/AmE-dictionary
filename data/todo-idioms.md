@@ -22,6 +22,7 @@ __commend (someone) for (something)__ To compliment or praise someone for someth
 __cost the earth__ To be exorbitantly expensive.  
 __dad bod__ _slang_ [:scroll: From _dad_ + _bod_, an abbreviation of _body_] A physique characterized by moderate chubbiness; the stereotypical physique of a middle-aged dad. The phrase is often used affectionately or approvingly. _Aww, I don’t care that he’s a bigger guy—I like guys with a dad bod._  
 __death count__ (death toll) The total number of fatalities resulting from an event such as an accident, disaster, or conflict.  
+__earworm__ _n_ _informal_ /ˈɪəˌwɜːm/  
 __every dog has his/its day__  
 __far and wide__  
 __faster than you can say Jack Robinson__ :dart: Extremely quickly; almost immediately; suddenly or in a very short space of time. _Once I’m finished with high school, I’ll be outta this two-bit town faster than you can say Jack Robinson!_  
@@ -202,6 +203,8 @@ __Lady Luck__ The personification of fortune, whether good or bad. Sometimes spe
 __land of plenty__ A fictional or imagined utopian place where there is an abundance of everything needed to survive and flourish.  
 __larger than life__  
 __lash out__  
+__last chance (for/at/to do something)__ The last or final opportunity to get, have, do, or achieve something. _Hurry and book your flights today—this is your last chance for the cheapest tickets in town!_  
+__last-ditch attempt__ A final effort or attempt to solve a problem or avoid failure or defeat, especially after a series of failures or setbacks.  
 __last-ditch__  
 __last-minute__  
 __latch onto (someone or something)__  

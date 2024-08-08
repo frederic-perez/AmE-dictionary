@@ -3,6 +3,7 @@ __afebrile__
 __amiable__ _adj_ /AY-mee-uh-bul/  
 __anecdotally__ _adv_  
 __antenatal__  
+__avaricious__ _adj_ Immoderately desirous of wealth or gain. _Syn_ covetous, grabby, grasping, greedy, prehensile  
 __baleful__ _adj_ Threatening or foreshadowing evil or tragic developments. _Syn_ menacing, minacious, minatory, ominous, sinister, threatening, forbidding  
 __banter__  
 __barge__ _n_ :es: gabarra  
@@ -15,6 +16,7 @@ __blazing__ _adj_
 __bountiful__  
 __brain fog__  
 __brat__ _n_  
+__bridgehead__ _n_ /BRIJ-hed/ __1__ A foothold opening the way for further advance. __2__ A fortified position at the end of a bridge nearest the enemy.  
 __bungle<sup>1</sup>__ _vt_ :dart: /ˈbʌŋɡəl/ To carry out badly or ruin through ineptitude; botch. To spoil (an operation) through clumsiness, incompetence, etc; botch.  
 __bungle<sup>2</sup>__ _vi_ To work or act ineptly or inefficiently.  
 __bungle<sup>3</sup>__ _n_ :dart: A clumsy or unsuccessful performance or piece of work; mistake; botch.  
@@ -28,6 +30,7 @@ __coltish__ _adj_ Lively and playful; frisky. _Syn_ frolicky, frolicsome, rollic
 __comforter__ _n_ __3__ A quilted bedcover.  
 __contingency plan__  
 __coop__ _n_ __1__ A small enclosure or cage, as for poultry or small animals. __2__ A cramped or uncomfortably confined space. __3__ _Slang_ A jail or prison.  
+__corporeal__ _adj_ Of a material nature; tangible. _Syn_ material  
 __countryside__ _n_ /ˈkʌn triˌsaɪd/  
 __deduplicate__ _vt_ :astonished: _Computing_ To remove (duplicated material) from a system.  
 __defect__ _vi_  
@@ -59,6 +62,7 @@ __dulcet__ _adj_ /DUL-sut/ _Dulcet_ is a formal word used to describe sounds tha
 __dull__ _v_ _Spend less time with people who dull you._  
 __dumbwaiter__ _n_ A small elevator used to convey food (or other goods) from one floor of a building to another. _Syn_ food elevator  
 __dynasty__ _n_ /DYE-nuh-stee/ Dynasty refers to a group (such as a team, family, etc.) that is very powerful or successful for a long period of time. It is also often used for a family of rulers who rule over a country for a long period of time, as well as the period of time when a particular dynasty is in power.  
+__earworm__ _n_ _informal_ /ˈɪəˌwɜːm/  
 __easy__ _adj, adv_ :mega: /ˈiːzɪ/  
 __ebullient__ _adj_ /ih-BULL-yunt/  
 __eclectic__ _adj_ /ih-KLEK-tik/  
@@ -96,6 +100,7 @@ __flyover__ _n_
 __foist__ _v_ /FOIST/ _Foist_, which is almost always used with _on_ or _upon_, is used when someone forces another person to accept something, usually something that is not good or is not wanted. Foist can also mean “to pass off as genuine or worthy.”  
 __folly__ _n_ (construction)  
 __footage__ _n_ :mega:  
+__fusty__ _adj_ /FUSS-tee/ Someone or something described as fusty is rigidly old-fashioned. Fusty is also used as a synonym of musty to describe things that are full of dust and unpleasant, stale odors.  
 __gabby__ _adj_ Tending to talk excessively. _Syn_ chatty, garrulous, loquacious, talkative, talky  
 __galvanize__  
 __grouse__ _v_  
@@ -162,7 +167,7 @@ __pejorist__ _n_ /PEJ-uh-rist/ A person who believes that the world is getting w
 __pen test__ _n_ (penetration test) An authorized simulated cyberattack on a computer system, performed to evaluate the security of the system.  
 __penury__ _n_ Extreme want or poverty; destitution. _Syn_ indigence, pauperism, beggary, need  
 __peradventure__ _n_ Chance, doubt, or uncertainty.  
-__peremptorily__ _adv_ :astonished: In an imperative and commanding manner. In a way that leaves no opportunity for denial or refusal.  
+__peremptorily__ _adv_ :dart::astonished: In an imperative and commanding manner. In a way that leaves no opportunity for denial or refusal.  
 __peremptory__  
 __perfunctory__  
 __perjury__ _n_  
@@ -182,6 +187,7 @@ __prostration__ _n_ An abrupt failure of function or complete physical exhaustio
 __proximate__ _adj_  
 __reck<sup>1</sup>__ _n_ /rek/ Care or concern.  
 __reck<sup>2</sup>__ _v_ /rek/ To care or concern.  
+__reify__ _v_ /ˈri əˌfaɪ, ˈreɪ-/ /RAY-uh-fye/ Reifying is about considering or representing something abstract as a material or concrete thing. If you reify a concept or idea you somehow give it definite content and form.  
 __reignite__ _v_  
 __reread__ _v_ :pencil2:  
 __rife__ _adj_  
