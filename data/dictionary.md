@@ -169,6 +169,7 @@ __acorn__ _n_ :four::hammer: _The acorn don’t fall far from the tree._ _Mighty
 __acquaintance__ _n_ :pencil2:  
 __acquiesce__ _vi_ :nine: /ak-wee-ESS/ /ak-wee-es/ To acquiesce is to accept, agree, or allow something to happen by staying silent or by not arguing. The word is somewhat formal, and is often used with _in_ or _to_. To agree to something or to accept something, although you do not want to. _Eventually, the professor acquiesced to the students’ request to have the seminar’s final class be a potluck lunch._ _Lucas was initially skeptical of the proposal, but acquiesced._  
 __acquiescence__ _n_ :three::hammer:  
+__acquiescent__ _adj_ Willing to carry out the orders or wishes of another without protest. _Syn_ biddable  
 __acquisitive__ _adj_  
 __acquisitiveness__ _n_  
 __acquit__ _vt_ :six: (acquitted) To relieve from a charge of fault or crime; declare not guilty. _If it doesn’t fit, you must acquit._  
@@ -277,6 +278,7 @@ __aerie__ _n_ __1__ The nest of a bird, such as an eagle, built on a cliff or ot
 __aero-hydroponics__  
 __aerospike engine__ _n_  
 __afar__ _adv_ :four: From, to, or at a great distance. _I’ve been watching his magnificent season from afar._ :es: lejos  
+__afebrile__  
 __affable__ _adj_ :three::hammer: /AF-uh-bul/  
 __affect<sup>1</sup>__ _n_  
 __affect<sup>2</sup>__ _v_ _He tried to affect nonchalance._  
@@ -543,7 +545,7 @@ __Americano__ _n_ /əˌmɛrɪˈkɑːnəʊ/ (Cooking) A drink consisting of espre
 __Ames__ _n_ _Ames, Iowa._  
 __amethyst__ _n_ :four::pencil2::hammer:  
 __ametropia__ _n_  
-__amiable__ _adj_ :two: /AY-mee-uh-buhl/ Pleasant; friendly.  
+__amiable__ _adj_ :three: /AY-mee-uh-buhl/ Pleasant; friendly.  
 __amicable__ _adj_  
 __amicably__ _adv_ :two::mega::hammer: /ˈæmɪkəblɪ/  
 __amicus curiae__ _n_  
@@ -608,7 +610,7 @@ __andragogy__ _n_ The art or science of teaching adults. The methods or techniqu
 __anecdata__ _n_ :two: An ad hoc portmanteau for anecdotal evidence that is used as data in an attempt to prove a hypothesis.  
 __anecdotage__ _n_  
 __anecdotal__ _adj_ :three::hammer::mega:  
-__anecdotally__ _adv_ :two: In an anecdotal manner. _Anecdotally speaking, I can attest to the fact that reading music is no joke._  
+__anecdotally__ _adv_ :three: In an anecdotal manner. _Anecdotally speaking, I can attest to the fact that reading music is no joke._  
 __anecdote__ _n_ :two: An anecdote is a brief story about something that happened to the speaker, usually something funny or interesting. Example: Five years ago, I went to the store and met some clowns. Those clowns gave me the advice I am sharing with you now.  
 __anemia__ _n_ [:scroll: C19: from New Latin, from Greek _anaimia_ lack of blood] (Pathology) The usual US spelling of anaemia.  
 __anemomes__ _n_  
@@ -680,7 +682,7 @@ __antedate<sup>2</sup>__ _v_ _It long antedated the plague years._
 __antediluvian__ _adj_  
 __antelope__ _n_ :pencil2:  
 __antelucan__ _adj_ /æntɪˈluːkən; ˌæntɪˈljuːkən/ [:scroll: From Latin ante- (before) + lux (light)] Occurring before the arrival of daylight, relating to the hours before dawn.  
-__antenatal__  
+__antenatal__ _adj_ :two::hammer:  
 __antennae__ _n_ :mega: /an-TEN-ee/  
 __anteroom__ _n_ :two::hammer:  
 __anthologist__ _n_ :three: An editor who makes selections for an anthology.  
@@ -1111,6 +1113,7 @@ __autumnal__ _adj_ /aw-TUHM-nuhl/ __1__ Relating to the season of autumn. __2__ 
 __avail__ _v_ :three::hammer: _Nothing avails against the Death._  
 __avalanche__ _n_ :two::hammer:  
 __avarice__ _n_ Immoderate desire for wealth. _Syn_ cupidity, covetousness, avariciousness  
+__avaricious__ _adj_ Immoderately desirous of wealth or gain. _Syn_ covetous, grabby, grasping, greedy, prehensile  
 __avenge__ _vt_  
 __avent__ _n_  
 __aver__ _vt_ :five::astonished: (averred) To assert formally as a fact. _Syn_ allege, say _For as my conscience does not accuse me, I aver that I am not a criminal._  
@@ -1260,7 +1263,7 @@ __bald-faced__ _adj_
 __balderdash__  
 __bale<sup>1</sup>__ _n_ (bales) _He sat on a bale of prayer rugs._ _Bales of cotton._  
 __bale<sup>2</sup>__ _v_  
-__baleful__ _adj_ :two::hammer: _Syn_ threating, menacing  
+__baleful__ _adj_ :three: Threatening or foreshadowing evil or tragic developments. _Syn_ menacing, minacious, minatory, ominous, sinister, threatening, forbidding  
 __balefully__  
 __baler__ _n_ An agricultural machine for making bales of hay, etc. _It required an investment of $1 million for balers, choppers, compactors, colored cans and signage._  
 __balk<sup>1</sup>__ _n_ __1__ A check or hindrance. __2__ A defeat or disappointment. __3__ A beam or rafter. __4__ A ridge; an unplowed strip of land between furrows.  
@@ -1326,8 +1329,8 @@ __banquet__ _n_ :mega::two::hammer:
 __banshee__ _n_ :two::hammer: _The cry of the banshee._  
 __bantam__ _n_ :two::hammer: _Playing hockey at the bantam level._  
 __bantamweight__ _n_ :two: _Rousey is the women’s bantamweight champ._  
-__banter<sup>1</sup>__ _n_ :nine: Good-humored, playful, or teasing conversation.  
-__banter<sup>2</sup>__ _v_ :three::hammer:  
+__banter<sup>1</sup>__ _n_ :nine::m: Good-humored, playful, or teasing conversation.  
+__banter<sup>2</sup>__ _v_ :four::hammer:  
 __banzai__ _n_ _They tried a banzai._  
 __Baptist__ _adj, n_ _A Baptist preacher._  
 __Bar Mitzvah__ _n_ :three::hammer:  
@@ -1350,7 +1353,7 @@ __bare-bones__ _adj_ Basic or simple; no-frills. _A bare-bones lab._
 __barefaced__ _adj_ With no effort to conceal. _Syn_ bald _They attacked him in various ways-with barefaced questions, ingenious suppositions, and distant surmises; but he eluded the skill of them all._  
 __barf__ _v_ :four: To vomit. _Barf bag._ _Barf bucket._  
 __bargain__ _n_ :four::hammer: _He poured red wine to seal their bargain._ _I have fulfilled my end of the bargain._  
-__barge<sup>1</sup>__ _n_ :two::hammer: _A wrecked tow barge._  
+__barge<sup>1</sup>__ _n_ :three::hammer: _A wrecked tow barge._ :es: gabarra  
 __barge<sup>2</sup>__ _v_ (barging) :three::hammer:  
 __bariatric surgery__ _n_ Surgery on the stomach and/or intestines to help a person with extreme obesity lose weight.  
 __bariatric__ _adj_ Of or relating to the treatment of obesity.  
@@ -1377,7 +1380,7 @@ __barrel bombs__
 __barrel<sup>1</sup>__ _n_ :two::hammer: _A tank’s barrel._  
 __barrel<sup>2</sup>__ _vi_ _informal_ :five: To move or progress rapidly. _A truck barreling toward you._ _A truck barreled down the road._ _Callous barreling against traffic._  
 __barrelhouse__ _n_ A disreputable old-time saloon or house of prostitution. _Barrelhouse piano._  
-__barren__ _adj_ :three::hammer:  
+__barren__ _adj_ :four::hammer:  
 __barrette__ _n_ :two: A small clasp for holding the hair in place.  
 __barring__ _v_ :two::hammer:  
 __barrister__ _n_ :two::hammer:  
@@ -1663,7 +1666,7 @@ __bewitch__ _v_ :two: Cast a spell over someone or something; put a hex on someo
 __bezel__ _n_ __4__ The frame around a display screen.  
 __Bhutan__ _n_  
 __biathlon__ _n_ __1__ An athletic contest in which cross-country skiers carrying rifles shoot at targets along a course. __2__ An athletic contest comprising any two consecutive events, as running and cycling.  
-__bib__ _n_ :four::hammer: _Midcalf silk dresses came with ruffled bibs and hems._  
+__bib__ _n_ :five::hammer: _Midcalf silk dresses came with ruffled bibs and hems._ __2c__ A piece of cloth or plastic bearing a number, usually worn over the chest or back, identifying a competitor in a race. _Why do olympic runners still wear paper bibs?_  
 __Bible Belt__ _n_ Those states of the S US where Protestant fundamentalism is dominant.  
 __bibliognost__ _n_  
 __bibliophagist__ _n_ /bib-lee-AH-fuh-jist/ [:scroll: From Greek biblio- (book) + -phage (one who eats)] One who loves to read books; a bookworm.  
@@ -1742,6 +1745,7 @@ __binocular__ _adj_ :mega: Adapted for or using both eyes.
 __binoculars__ _n pl_ (plurale tantum)  
 __bio__ _n_ :two::hammer:  
 __biography__  
+__biology__ _n_ :mega:  
 __biomass__  
 __biome__ _n_  
 __biopic__  
@@ -1775,6 +1779,7 @@ __bitch<sup>2</sup>__ _v_
 __bitching__ _n_ _Quit your bitching!_  
 __bite__ _n_ _Complimentary pretzel bites._  
 __bite-size__ _adj_  
+__bite-sized__ _adj_ (bite-size)  
 __bitingly__  
 __bivouac<sup>1</sup>__ _n_ :two: A temporary encampment, in the open air, typically without tents or cover.  
 __bivouac<sup>2</sup>__ _vi_ :three::astonished::pencil2: To take shelter temporarily for the night.  
@@ -1827,7 +1832,7 @@ __blanket<sup>1</sup>__ _n_ :two::hammer: _The security blanket._
 __blanket<sup>2</sup>__ _vt_ :six::hammer: (blanketing)  
 __blarney<sup>1</sup>__ _n_ :three::dart: /ˈblɑr ni/ __1__ Smooth, flattering talk. __2__ Deceptive nonsense.  
 __blarney<sup>2</sup>__ _v_  
-__blasé__ _adj_ :three: Indifferent to or bored with life; unimpressed, as or as if from an excess of worldly pleasures.  
+__blasé__ _adj_ :four: Indifferent to or bored with life; unimpressed, as or as if from an excess of worldly pleasures.  
 __blasphemous__  
 __blast__ _n_ :two: __9__ _slang_ A highly exciting or pleasurable experience or event, such as a big party. A great experience, a very enjoyable time.  
 __blatant__ _adj_ :six::hammer:  
@@ -1837,7 +1842,7 @@ __blather<sup>2</sup>__ _vi_ :six: (blether) To talk nonsensically. To talk fool
 __blatherskite__ _n_ :two::hammer:  
 __blaze of glory__ _n_ :two: __1__ An impressive but brief display of strength before expiring, in the way that a fire burns more brightly shortly before burning out.  
 __blaze__ _v_ __2__ To prepare or lead (the way in an endeavor): _blazed the way in space exploration._  
-__blazing__  
+__blazing__ _adj_ :two::hammer:  
 __bleach<sup>1</sup>__ _n_  
 __bleach<sup>2</sup>__ _vt_ :two: __1a__ To remove the color from, as by means of chemical agents or sunlight: _Over time, the exposure to sunlight bleached the rug in front of the window._ _Bleached blonde hair._ __b__ To make white or colorless: _Dawn bleached the mountains._ __2__ To whiten by causing the death or expulsion of algal symbionts from (coral). _Warm waters bleached the coral._  
 __bleaching__ _n_ :two::hammer: :es: decoloración _Steven called the bleaching a tragedy._  
@@ -2161,7 +2166,7 @@ __Bouncing Betty__
 __bouncy house__ _n_  
 __bouncy__  
 __bounteous__ _adj_ Existing in, characterized by, or producing abundance: _bounteous harvests; bounteous land._  
-__bountiful__ _adj_ :five: __1__ Plentiful; ample (esp in the phrase _a bountiful supply_). _Bountiful buffets._ __2__ Giving freely; generous.  
+__bountiful__ _adj_ :six: __1__ Plentiful; ample (esp in the phrase _a bountiful supply_). _Bountiful buffets._ __2__ Giving freely; generous.  
 __bounty hunter__  
 __bounty__ _n_ :five: [:scroll: From the Latin _bonitās_, meaning “goodness.” _Bounty_ comes from the Latin word _bonus_, meaning good.] __1__ Generosity in giving to others; liberality. __2__ A generous gift; something freely provided. __3__ A payment made by a government, as, formerly, to a sailor on enlisting or to a soldier after a campaign. _To fight under the banner and bounty of the grand seigneur._ __4__ Any reward or premium: _a bounty of 20p for every rat killed._  
 __bouquet__ _n_ :two::pencil2: A whiskey distilled from a fermented mash containing not less than 51 percent corn in addition to malt and rye.  
@@ -2204,7 +2209,7 @@ __braggadocio__ _n_ :two: __1a__ Empty boasting. __b__ Arrogant pretension. _Syn
 __braggart__ _n_ One given to loud, empty boasting; a bragger. _Syn_ blowhard, boaster, bragger, line-shooter, vaunter _He was generally considered a braggart, and others found it hard to be excited about his self-proclaimed successes._  
 __brain death__ _n_ _We’re witnessing the brain death of Twitter._  
 __brain drain__  
-__brain fog__ _n_ :two: A usually temporary state of diminished mental capacity marked by inability to concentrate or to think or reason clearly.  
+__brain fog__ _n_ :three: A usually temporary state of diminished mental capacity marked by inability to concentrate or to think or reason clearly.  
 __brainchild__ _n_ :five::hammer:  
 __brainiac__ _n_ :three: A very intelligent person. As Superman fans know, Brainiac was the superintelligent villain in the _Action Comics_ series and its spin-offs. His name is a portmanteau of _brain_ and _maniac_.  
 __brainpan__  
@@ -2229,6 +2234,7 @@ __brass__ _n_ _informal_ :six: Important and powerful people. _The ceremony was 
 __brasserie__ _n_ :two: /ˌbræs əˈri/ An unpretentious restaurant or tavern that serves drinks, esp. beer, and simple food.  
 __brassiere__ _n_  
 __brassy__ _adj_ :two::hammer: _She is brassy, funny, and smart._  
+__brat__ _n_  
 __brattice__ _n_  
 __bratty__  
 __bratwurst__ _n_  
@@ -2297,7 +2303,7 @@ __brickbat__ _n_ :two::hammer:
 __bridal gown__ _n_  
 __bridesmaid__  
 __bridezilla__ _n_ /bryd-ZIL-uh/ A woman who is overbearing and obnoxious in planning her wedding.  
-__bridgehead__ _n_ A forward position seized by advancing troops in enemy territory as a foothold for further advance. _Syn_ foothold  
+__bridgehead__ _n_ :two: /BRIJ-hed/ __1__ A foothold opening the way for further advance. A forward position seized by advancing troops in enemy territory as a foothold for further advance. _Syn_ foothold __2__ A fortified position at the end of a bridge nearest the enemy.  
 __bridle__ _n_ :two::pencil2: __1__ A harness, consisting of a headstall, bit, and reins, fitted about a horse’s head and used to restrain or guide the animal.  
 __briers__  
 __brig__ _n_ :four::hammer:  
@@ -2509,7 +2515,9 @@ __bungee cord__ _n_ :camera::four::hammer:
 __bungee jumping__  
 __bungee rope__  
 __bungee running__  
-__bungle__ _v_ (bungled) :three::hammer: _Cops badly bungled their attempt to frame a guilty man._  
+__bungle<sup>1</sup>__ _vt_ :dart::four: /ˈbʌŋɡəl/ To carry out badly or ruin through ineptitude; botch. To spoil (an operation) through clumsiness, incompetence, etc; botch. _Cops badly bungled their attempt to frame a guilty man._  
+__bungle<sup>2</sup>__ _vi_ :two: To work or act ineptly or inefficiently.  
+__bungle<sup>3</sup>__ _n_ :dart: A clumsy or unsuccessful performance or piece of work; mistake; botch.  
 __bungler__ _n_ :two: Someone who makes mistakes because of incompetence. _Upper-crust bunglers._  
 __bunglesome__ _adj_  
 __bungling__ _adj_ Spoil by incompetence.  
@@ -2866,7 +2874,7 @@ __capon__ _n_ :two: A male chicken castrated when young to improve the quality o
 __capote__ _n_ A long, usually hooded cloak or coat. _Syn_ hooded coat _The men wore matching black capotes with hoods that obscured their features, and we watched in terror as they advanced in the dim light._  
 __cappie__ _n_  
 __caprice__  
-__capricious__ _adj_ :two: /kuh-prish-uhs, -pree-shuhs/ Subject to, led by, or indicative of a sudden, odd notion or unpredictable change; erratic.  
+__capricious__ _adj_ :three: /kuh-prish-uhs, -pree-shuhs/ /kuh-PRISH-us/ _Capricious_ is a formal word that describes someone or something governed or characterized by impulsivity or unpredictability. Subject to, led by, or indicative of a sudden, odd notion or unpredictable change; erratic.  
 __caps__ _n_ Capital letters.  
 __capsize__ _v_ :three: To capsize is to overturn, and it usually happens to boats. To overturn or cause to overturn: _The boat capsized; I capsized the canoe._ _Don’t rock the boat, baby, or you might just capsize._  
 __capstan__ _n_  
@@ -2898,7 +2906,7 @@ __card__ _v_
 __Cardan__ _n_ A universal joint that transmits motion unchanged. _Optional Cardan mount._  
 __cardiac arrest__ _n_ :two::hammer:  
 __cardigan__ _n_ A usually collarless sweater or jacket that opens the full length of the center front.  
-__cardinal__ _adj_ :three: /KAHRD-nul/ __1__ Of foremost importance; paramount: _a cardinal rule; cardinal sins._ _Syn_ fundamental, central, primal _The cardinal rule of membership in the secret society was never to reveal its existence to outsiders._ __2__ Dark to deep or vivid red.  
+__cardinal__ _adj_ :four::mega: /KAHRD-nul/ __1__ Of foremost importance; paramount: _a cardinal rule; cardinal sins._ _Syn_ fundamental, central, primal _The cardinal rule of membership in the secret society was never to reveal its existence to outsiders._ __2__ Dark to deep or vivid red.  
 __cardioembolic__ _adj_  
 __cardioplegia__ _n_ /ˌkɑːdɪəʊˈpliːdʒɪə/ Deliberate arrest of the action of the heart, as by hypothermia or the injection of chemicals, to enable complex heart surgery to be carried out.  
 __careen__ _v_ :nine::m::camera: (careens, careened, careening) __1__ _(nautical)_ To heave a ship down on one side so as to expose the other, in order to clean it of barnacles and weed, or to repair it below the water line. __2__ _(nautical)_ To tilt on one side. __3__ To lurch or sway violently from side to side. _An open-air tour bus careened wildly out of control._ __4__ To tilt or lean while in motion. __5__ To career, to move rapidly straight ahead.  
@@ -2916,7 +2924,7 @@ __caribou__
 __carillon__ _n_ _Sounds of bubbling founyains and carillons._  
 __Carioca__  
 __carjack__ _v_ :two: To commit forcible theft of (a vehicle) from its users.  
-__carnage__ _n_ :six::mega: /ˈkɑr nɪdʒ/ The slaughter of a great number of people.  
+__carnage__ _n_ :seven::mega: /ˈkɑr nɪdʒ/ The slaughter of a great number of people.  
 __Carnation Revolution__ _n_  
 __carnation__ _n_ :pencil2::four: A double-flowered cultivated variety of clove pink, with grey-green leaves and showy pink, white, or red flowers. :es: clavel  
 __carnie__ _n_ _Carnie man._  

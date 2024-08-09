@@ -1,28 +1,3 @@
-__acquiescent__ _adj_ Willing to carry out the orders or wishes of another without protest. _Syn_ biddable  
-__afebrile__  
-__amiable__ _adj_ /AY-mee-uh-bul/  
-__anecdotally__ _adv_  
-__antenatal__  
-__avaricious__ _adj_ Immoderately desirous of wealth or gain. _Syn_ covetous, grabby, grasping, greedy, prehensile  
-__baleful__ _adj_ Threatening or foreshadowing evil or tragic developments. _Syn_ menacing, minacious, minatory, ominous, sinister, threatening, forbidding  
-__banter__  
-__barge__ _n_ :es: gabarra  
-__barren__ _adj_  
-__bib__ _n_ __2c__ A piece of cloth or plastic bearing a number, usually worn over the chest or back, identifying a competitor in a race. _Why do olympic runners still wear paper bibs?_  
-__biology__ _n_ :mega:  
-__bite-sized__ _adj_ (bite-size)  
-__blasé__ _adj_ Indifferent to or bored with life; unimpressed, as or as if from an excess of worldly pleasures.  
-__blazing__ _adj_  
-__bountiful__  
-__brain fog__  
-__brat__ _n_  
-__bridgehead__ _n_ /BRIJ-hed/ __1__ A foothold opening the way for further advance. __2__ A fortified position at the end of a bridge nearest the enemy.  
-__bungle<sup>1</sup>__ _vt_ :dart: /ˈbʌŋɡəl/ To carry out badly or ruin through ineptitude; botch. To spoil (an operation) through clumsiness, incompetence, etc; botch.  
-__bungle<sup>2</sup>__ _vi_ To work or act ineptly or inefficiently.  
-__bungle<sup>3</sup>__ _n_ :dart: A clumsy or unsuccessful performance or piece of work; mistake; botch.  
-__capricious__ _adj_ /kuh-PRISH-us/ _Capricious_ is a formal word that describes someone or something governed or characterized by impulsivity or unpredictability.  
-__cardinal__ _adj_ /KAHRD-nul/  
-__carnage__ _n_  
 __catastrophe__ _n_ /kuh-TASS-truh-fee/  
 __cease and desist__  
 __clandestine__ _adj_ /klan-DESS-tun/  
