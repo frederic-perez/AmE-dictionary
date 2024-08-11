@@ -398,31 +398,6 @@ __snazzy__ Particularly elegant, dazzling, classy, or fancy in appearance. _Wow,
 __so much so that__  
 __soft spot__  
 __something of sorts__ An inferior example of a kind of something.  
-__sound the alarm__  
-__spic and span__ (spick and span) Totally clean and/or organized. _I plan to spend the day cleaning so that this place is spick and span when my mother-in-law arrives._  
-__spill the tea__  
-__splurge (on someone or something)__ To spend a lot of money (on someone or something) in an indulgent or self-gratifying manner. _You need to put some of that money into a savings account instead of just splurging the moment you get each paycheck._  
-__sponge off__  
-__spray and pray__ The act of blindly firing an automatic weapon with the intent of potentially hitting the target; tends to be ineffective.  
-__sub rosa__  
-__swole__ _slang_ _adj_ /SWOHL/ Very muscular (i.e., swollen with muscles). _I always go to the gym right before I go to the club so I look more swole._  
-__take a stand__  
-__take a/the bullet (for someone)__  
-__take center stage__ :two: To be the main focus.  
-__take notice (of someone or something)__  
-__take the heat__  
-__take the plunge__  
-__take__ __2__ \_noun, informal\_ One’s reaction to, impression of, or opinion about something.  
-__takes two to quarrel__  
-__tell it like it is__  
-__test the water(s)__  
-__that said__  
-__that said,__  
-__that’s business__ Phrase often used to justify or downplay the severity of violent or ruthless behavior, implying that such actions are necessary or acceptable within the context of that business or profession.  
-__the bane of (one’s) life__ The source or cause of one’s misfortune, unhappiness, frustration, or anxiety, usually used hyperbolically.  
-__the calm before the storm__  
-__the granddaddy of them all__ The biggest, oldest, most impressive, or most respected of a certain kind of person or thing. _I own a lot of vintage cars, but my 1926 Bentley is the granddaddy of them all._  
-__the idiot box__ _slang_ A television set, or television in general.  
 __the latest__ :two::hammer:  
 __the march of time__ The steady, unstoppable advancement of time.  
 __the Midas touch__  
