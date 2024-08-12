@@ -5930,7 +5930,7 @@ __the last line of defense__ The final person or thing who can act as a protecti
 __the last of the lot__ The last or final person(s) or thing(s) in a given group or list.  
 __the last straw__  
 __the last thing (one) wants__ Something which one absolutely does not want or has no use for.  
-__the latest__ :two::hammer: _What’s the latest?_  
+__the latest__ :four::hammer: _What’s the latest?_  
 __the likes of (someone or something)__ :two::hammer:  
 __the likes of__  
 __the lion’s den__ :two: A particularly dangerous, hostile, or oppressive place or situation, especially due to an angry or sinister person or group of people within it. _I felt like I was walking into the lion’s den when I went in front of the board for my annual review._  
@@ -5939,15 +5939,17 @@ __the little things__
 __the lot__ _n_ All the things of a group. _This one’s the best of the lot._  
 __the lowdown on__ :dart::two: The whole truth about something, as in _We’re waiting to hear the lowdown on what happened after we left._ This term uses lowdown in the sense of “the basic or fundamental part.”  
 __the man to see__ A colloquial expression used to refer to a person who holds significant influence, power, or expertise in a particular field or area. It implies that this individual is the most important or influential person to approach or consult with regarding a specific matter.  
-__the march of time__ The steady, unstoppable advancement of time. _Some people despair at the march of time, as they see themselves aging in the mirror, but I relish growing older and seeing the world change._  
+__the march of time__ :two: The steady, unstoppable advancement of time. _Some people despair at the march of time, as they see themselves aging in the mirror, but I relish growing older and seeing the world change._  
 __the meat and potatoes__ :two: The most basic or fundamental aspects of something. _Too much information will overwhelm the new hire, so just give him the meat and potatoes._  
 __the meat of the matter__ The most important, basic, or fundamental essence or element(s) of an issue, problem, or matter at hand. _Thank you all for attending this staff meeting. Before we get to the meat of the matter, I’d like to assure each of you that your jobs are secure._  
+__the Midas touch__  
 __the million-dollar question__ A question that is very important and/or difficult to answer. Sometimes used ironically.  
 __the mind’s ear__ The imaginative capability to create or recall sound within one’s mind; the part of the mind that experiences imagined or recalled sound. (An allusion to the “mind’s eye,” which is likewise responsible for mental imagery.) _I can still hear in my mind’s ear the sweet laughter of my daughter when she was a child._  
 __the moon on a stick__ Anything and everything that one desires or can imagine wanting (i.e., above and beyond what would be normal or appropriate). _Jim was so smitten with his co-worker that he’d probably try to get her the moon on a stick if she asked for it._ _Jonathan always wants the moon on a stick when it comes to relationships._  
 __the moral high ground__ A position of moral authority or superiority that one’s arguments, beliefs, ideas, etc., are claimed or purported to occupy, especially in comparison to a differing viewpoint. (Used especially in the phrase “take/claim/seize/etc. the moral high ground.”) _The senator always tries to claim the moral high ground during a debate so as to shift public opinion in his favor._  
 __the more you know__  
 __the mother of all (something)__ The largest, most extreme, or ultimate example of a particular kind of thing. _Wow, that is the mother of all sandwiches. It’s nearly a foot high!_  
+__the naked eye__  
 __the name of the game__ :two: The most important aspect or component of something; the main point of an activity. _Getting strike-outs is the name of the game when you’re a pitcher._  
 __the nature of the beast__  
 __the new black__  
@@ -5963,7 +5965,7 @@ __the old gray mare ain’t what she used to be__
 __the other side__ Existence after death; the world of the afterlife. _I miss my wife terribly, but I keep the faith that I will see her on the other side some day._  
 __the outside world__ The people, culture, ideas, or experiences beyond an enclosed, sheltered, or remote place, situation or environment. _Being raised out on the farm meant Jacob had little knowledge of the outside world._  
 __the party is over__  
-__the pit of (one’s) stomach__ :two: An area in the core of one’s abdomen, approximately in or near one’s stomach, in which one feels a physical response to strong emotion, especially fear, stress, or anxiety. _I’ve had this awful feeling in the pit of my stomach all morning because I know we’ll be finding out the results to the final exam this afternoon._  
+__the pit of (one’s) stomach__ :three: An area in the core of one’s abdomen, approximately in or near one’s stomach, in which one feels a physical response to strong emotion, especially fear, stress, or anxiety. _I’ve had this awful feeling in the pit of my stomach all morning because I know we’ll be finding out the results to the final exam this afternoon._  
 __the powers that be__  
 __the proof is in the pudding__ :dart::two: The final results of something are the only way to judge its quality or veracity. _OK, if I did everything right, the engine should work right, but the proof will be in the pudding._  
 __the pump__ _informal_ A gasoline pump, used as a synecdoche to represent gas stations as a whole. _Prices at the pump have been at their lowest since 1995._  
@@ -5982,6 +5984,7 @@ __the spur of the moment__
 __the straw that broke the camel’s back__ :three: A seemingly small or inconsequential issue, problem, or burden that proved to be the final catalyst in causing an overworked or overburdened person, system, organization, etc., to fail, give up, or collapse.  
 __the terrible twos__ A developmental stage of children, generally at or around the age of two, marked by increased rebelliousness and frequent tantrums. _Becca’s been having really bad temper tantrums lately and just keeps saying “no” to everything we say to her. I guess she’s going into the terrible twos._  
 __the third degree__ _informal_ Asking serious questions and/or giving someone rough treatment to get information. _I got the third degree when I got home last night._  
+__the throne__ __2__ _slang_ The toilet. _Sit on the throne._  
 __the tip of the iceberg__  
 __the toast of (the town)__ Someone who is especially well-liked, regarded, or admired in a certain place. _The young entrepreneur’s new tech innovation has made him the toast of the town in Silicon Valley._  
 __the unwashed masses__ The broader general public, especially those of the lower and lower-middle classes. _The film didn’t cause too great a stir with the unwashed masses, but it has been considered a milestone in cinematic achievement among film critics._  
@@ -6003,7 +6006,7 @@ __there comes a time__
 __there is (a) method to (one’s) madness__ There is a specific, rational purpose in what one is doing or planning, even though it may seem crazy or absurd to another person. _I know you don’t understand my motivation for this decision, but after the dust settles, you’ll see that there is a method to my madness._  
 __there is aomething about xyz__ :two::hammer:  
 __there is no way around it/that__ :two::dart::hammer: :es: no hay más remedio, no queda otro remedio  
-__there you go__ :two::hammer:  
+__there you go__ :three::hammer:  
 __there you have it__ :two: Used to highlight or emphasize the ease or simplicity of something that has just been explained or demonstrated. _Do you understand? You just have to insert the installation disc into your computer, and there you have it! The program installs itself in a matter of minutes._  
 __there’s no other way around (it)__ There is no solution to avoid a particular outcome. _If you want to get good at English, you have to memorize a lot of idioms. There’s no way around it._  
 __there’s no such thing as a free lunch__ _prov_ :dart: (there is no free lunch, there ain’t no such thing as a free lunch) Nothing is ever really given away for free, so be wary of hidden charges, motives, or agendas. _Of course, once you’re signed up to the free program, you have to pay for all sorts of extra services to make it even worth using. There’s no such thing as a free lunch, after all._  
@@ -6025,6 +6028,7 @@ __think over__ To consider or ponder something; to reflect upon something. A nou
 __think tank__  
 __third wheel__ The “third wheel” refers to the person who is the outsider when there is a group of three. An analogy can be made to a two-wheeled bicycle or cart; adding a third wheel would not be helpful and would limit mobility. To be the “third wheel” is to be the extra, unnecessary person in a group of three people. _You two go on ahead without me. I don’t want to be the third wheel._  
 __third world__  
+__this goes to show__ The phrase “this goes to show” is commonly used to indicate that a particular situation or example serves as evidence or proof of a broader point or principle. It is often employed to highlight a specific instance that demonstrates a general truth or conclusion.  
 __this is (someone)__ __1__ A phrase said when introducing someone, followed by the person’s name or their relation. To identify oneself by phone, or to introduce someone. _This is Laura, my cousin._ _Hello, this is Michael Robinson._ __2__ _informal_ Used to quote, paraphrase, or mimic the words of someone else, especially in a mocking or derisive manner. _This is you right now—“Blah, blah, blah, I’m so important, everyone has to listen to me, blah de blah de blah!”_  
 __this is going to hurt__ Something is going to be painful, either physically or emotionally. It’s a way of acknowledging that whatever is coming up is going to be unpleasant, uncomfortable, or distressing.  
 __this is no picnic__  
@@ -6098,7 +6102,7 @@ __TMI__ :two: An abbreviation for “too much information,” a phrase used to i
 __to (one’s) heart’s desire__ :two: As much as or to the point that one wants; to the point of contentment, satiety, or surfeit. _I’ve made plenty of food for everyone, so please eat to your heart’s desire._  
 __to (one’s) name__ :three: In one’s possession; owned by one. _Without a penny to his name._ _Bernie died with $1.09 to his name._  
 __to a certain extent__  
-__to a T__ :four: Perfectly; completely; exactly. _You look beautiful. That color really suits you to a T._  
+__to a T__ :five: Perfectly; completely; exactly. _You look beautiful. That color really suits you to a T._  
 __to a turn__ For exactly the right amount of time necessary or desired. (Used almost exclusively in reference to how well meat is cooked). _My goodness, these steaks are so flavorful and have been cooked to a turn!_ _Jeff is always the one manning the grill, because he makes sure everything on there is done to a turn!_  
 __to an extent__ Somewhat; partly; in a limited way or to a limited degree.  
 __to be in a better place__  
@@ -6276,23 +6280,25 @@ __up a notch__ To an increased or extreme degree of intensity or quality.
 __up a tree__ In a difficult situation.  
 __up and coming__ :two: (up-and-coming) An _up and coming_ person is someone who is likely to be successful in the future. On a trajectory to become established or successful, especially in a career or as a business. Sometimes hyphenated. _She’s an up and coming star in the marketing department._ _I like to catch up-and-coming bands at small venues, before they hit it big._ _Check out NFX’s list of the top 75 up-and-coming generative AI startups._  
 __up and down__ __2__ Going between success and failure.  
-__up and running__ :six::hammer: _The cluster is up and running within a very small timescale._  
-__up for grabs__ :six: Available for anyone.  
+__up and running__ :seven::hammer: _The cluster is up and running within a very small timescale._  
+__up for grabs__ :seven: Available for anyone.  
 __up front__  
 __up in arms__ :dart::three::hammer:  
 __up in the air__ Uncertain; subject to change.  
 __up to (one’s) eyeballs (in something)__ :astonished: Extremely busy (with something); deeply or overly involved (in something); possessing, filled up with, or overwhelmed by an excessive amount (of something). _There’s no way I can take a vacation right now, I’m up to my eyeballs in work at the moment!_  
 __up to (one’s) neck in alligators__ :two: _business adage_ So overcome or preoccupied by various tangential worries, problems, or tasks that one loses sight of the ultimate goal or objective. The full expression is some variation of “When you are up to your neck in alligators, it’s easy to forget that the goal was to drain the swamp.” _I’ve spent so much time dealing with various infrastructure problems for my new business that I’ve had no time to actually develop our product properly. I guess it’s easy to forget that when up to your neck in alligators, the mission was to drain the swamp._  
 __up to no good__  
+__up to snuff__ (up to scratch) As good as what was expected, required, or demanded; satisfactory or adequate. _Sorry, Tom. Your performance isn’t up to snuff. You’ll have to improve or find another job._ _My paper wasn’t up to scratch, so I got an F._  
 __up to your eyeballs in something__ To have too much of something.  
 __up until now__ From the beginning of a particular period of time until the present moment. It is used to indicate that something was true or existed in the past but may not be true or exist in the present or future.  
 __up yours__ _vulgar_ _slang_ :two: An expression of anger at someone.  
 __up-and-coming__ :two::hammer: _Up-and-coming writers and artists._  
 __upbeat__ _informal_ :two: Of, inspiring, or exuding cheerfulness, happiness, or optimism.  
-__uphill battle__ :dart::three: Something very difficult to do.  
+__uphill battle__ :dart::four: Something very difficult to do.  
 __uplevel__ _slang_ :dart: To make progress or improve in a specific skill or area of one’s life. _I started taking an online course to help uplevel my word-processing skills._  
-__ups and downs__ Positive and negative events or experiences, considered collectively.  
+__ups and downs__ :two: Positive and negative events or experiences, considered collectively. _Oh, we’ve had our share of ups and downs, like any married couple._  
 __urban legend__ A myth or piece of folklore that is totally false. _That story about the rats in the sewer being as big as dogs is an urban legend. It’s just not so._  
+__user base__ :two: (business jargon) The number units of a particular product or service that are currently in use, especially software or an internet or computing platform. (Also referred to as “install(ed) user base” or simply “install(ed) base.”)  
 __usher in__  
 __utterly__  
 __vac__  
@@ -6310,11 +6316,13 @@ __verge (up)on something__ :two: To be almost identical to something; to be simi
 __verse (someone or oneself) in (something)__  
 __vertically challenged__ Short; not tall in stature. (Pseudo-politically correct slang used for humorous effect.) _Whenever anyone teases me about my height, I just tell them that I’m vertically challenged!_  
 __very much so__ :three: Used to say “yes” or to say that one agrees with something. _“Were you surprised?” “Oh, very much so.”_  
+__vette__ A colloquial shortening of “Corvette,” a sports car manufactured by Chevrolet. The abbreviation can also be capitalized or spelled with an apostrophe.  
 __vibe__ A distinct but unquantifiable emotional feeling, quality, or atmosphere that can exist within some place or be exuded by someone. Often pluralized. _I got a weird vibe from the boss during the meeting._  
 __victory lap__ An act of pride or celebration that follows a great achievement or success.  
 __vie for (something)__ :two::hammer:  
+__vouch for (someone or something)__  
 __vroom__  
-__wait and see__ To act with caution and patience until something happens. _I guess I just have to wait and see until the doctor calls with the test results._  
+__wait and see__ :three: To act with caution and patience until something happens. _I guess I just have to wait and see until the doctor calls with the test results._  
 __wait for it__ :two::hammer:  
 __wait for the other shoe to drop__ To wait for something bad to happen.  
 __wait-and-see__ Hesitant, skeptical, or circumspect, as of a mindset, outlook, or tactic. _With all due respect, the situation is too dire for this kind of wait-and-see approach._  
@@ -6331,6 +6339,7 @@ __walk on eggs__ :four: (walk on eggshells) To act or proceed with great care, c
 __walk on eggshells__ :dart::three: To walk on eggshells is to exercise extreme caution. The extended use apparently comes from the fact that eggshells are fragile and would, upon being stepped on, break easily. It would take an impossibly light step to not break them. The phrase is used especially to refer to acting carefully around someone who may be easily upset. _They had to walk on eggshells around the unpredictable coworker._  
 __walk on water__ :two: To perform godlike or superhuman feats. The phrase refers to the Gospel story in which Jesus walks on water.  
 __walk out the door__ To leave a place. _She walked out the door without saying goodbye._  
+__walk out__  
 __walk someone through something__ :two: To lead someone through a complex problem or thought process. _Mary walked Jane through the complex solution to the calculus problem. Do I have to walk you through this solution?_  
 __walk someone through__  
 __walk the line__ :dart::three: To remain neutral rather than committing to a particular position, view, or thing. _When my kids fight, I try to walk the line rather than siding with one of them._  
@@ -6344,7 +6353,7 @@ __wallflower__ Someone who remains on the outer edges of a social event, especia
 __wallow in something__ _Do not wallow in failure._  
 __walls have ears__ Someone might be eavesdropping. _Let’s talk in my office—out here, the walls have ears._  
 __want out__ _When it became hard you wanted out._  
-__war chest__ :two: A financial reserve collected and maintained for specific political purposes, especially election campaigns. _The party has been able to strengthen its war chest ahead of the midterm elections, thanks to huge donations from across the tech sector._  
+__war chest__ :four: A financial reserve collected and maintained for specific political purposes, especially election campaigns. _The party has been able to strengthen its war chest ahead of the midterm elections, thanks to huge donations from across the tech sector._  
 __war of attrition__  
 __warmed-over__ Unoriginal, reused, or derivative. An allusion to reheated leftover food.  
 __wash (one’s) mouth out (with soap)__  
@@ -6364,23 +6373,24 @@ __water torture__
 __water under the bridge__ :dart::two::hammer: _We’ll regard it as water under the bridge, shall we?_  
 __watered-down__  
 __watering hole__ :two::hammer: _Revelers can move around watering holes with impunity._  
-__watershed moment__ :three: A moment of critical importance that marks a dramatic change of course for a particular situation or activity. _The result of the lawsuit proved to be a watershed moment in the fight against censorship._  
+__watershed moment__ :four: A moment of critical importance that marks a dramatic change of course for a particular situation or activity. _The result of the lawsuit proved to be a watershed moment in the fight against censorship._  
 __wax lyrical about something__ If you _wax lyrical_ about a subject, you talk about it in an enthusiastic way. _He waxed lyrical about the skills and commitment of his employees._  
 __way back when__ A relatively long time ago, especially when recalling something that is not the case now. Primarily heard in US. _I used to really like this band way back when, but now that I’m older, they just sound silly to me._  
 __way of life__  
 __wazoo__  
+__we are coming for you__  
 __weak in the knees__ Unsteady or flustered due to a strong emotional reaction to someone or something. _Hearing the news of my father’s sudden death, I went weak in the knees and could barely remain standing._  
 __wean off (of) (something)__  
 __wear thin__ _My patience was wearing thin._  
 __wear too many hats__ _business slang_ To hold too many responsibilities or assume too many roles at the same time. _One of the pitfalls many entrepreneurs fall into when setting up a new company is to wear too many hats, which not only spreads themselves very thin, but ends up being counterproductive to the operation as a whole._  
 __wear two hats__ To hold or function in more than one position or role. _I’m able to work from home, so I’m able to wear two hats: stay-at-home dad and website developer._  
 __weather permitting__ :four::hammer: _Weather permitting, you can experience a spectacular view of the city below from atop this mountain._  
-__weave (something) into (something) else__  
+__weave (something) into (something) else__ :two::hammer:  
 __wee hours__  
 __weekend warrior__  
 __weep (one’s) heart out__ To weep copiously; to cry intensely and for a long time. _Lauren wept her heart out at the news of her father’s sudden death._  
 __weigh down__ To make someone heavy and unable to move easily.  
-__weigh in__ :dart::four: (see also _chime in_) __3__ To give one’s opinion or analysis of something during a discussion. _Karen, you haven’t weighed in yet. What’s your take on this?_ _Later on the show, Senator Williams will weigh in on the debate._  
+__weigh in__ :dart::six: (see also _chime in_) __3__ To give one’s opinion or analysis of something during a discussion. _Karen, you haven’t weighed in yet. What’s your take on this?_ _Later on the show, Senator Williams will weigh in on the debate._  
 __weigh on__  
 __weird out__  
 __weirded out__ Acutely disturbed, awkward, or ill at ease.  
@@ -6400,6 +6410,7 @@ __what a drag__
 __what are the odds__  
 __what do I know__  
 __what do you know__ A phrase used to indicate one’s surprise upon discovering something. _Well, what do you know! It says here that my ancestors first came to this country in 1857!_ :es: ¡Qué sorpresa!  
+__What do you say?__ Does that sound good to you? Do you agree?  
 __what else?__ The phrase “what else?” in James Ellroy’s novels typically carries a sense of cynicism, as if the character is resigned to the fact that there is nothing new or unexpected to be found in the world. It often reflects the jaded worldview of the characters in his crime novels, who have seen the worst of humanity and are not easily surprised or impressed. The phrase is often used as a rhetorical question, implying that the speaker already knows the answer, or as a means of brushing off a situation or event as being predictable or mundane.  
 __what gives?__ :three: _informal_ Used to ask the reason for something. _You’ve been acting weird all week. What gives?_  
 __what if scenario__  

@@ -398,31 +398,6 @@ __snazzy__ Particularly elegant, dazzling, classy, or fancy in appearance. _Wow,
 __so much so that__  
 __soft spot__  
 __something of sorts__ An inferior example of a kind of something.  
-__the latest__ :two::hammer:  
-__the march of time__ The steady, unstoppable advancement of time.  
-__the Midas touch__  
-__the naked eye__  
-__the pit of (one’s) stomach__  
-__the throne__ __2__ _slang_ The toilet. _Sit on the throne._  
-__there you go__  
-__this goes to show__ The phrase “this goes to show” is commonly used to indicate that a particular situation or example serves as evidence or proof of a broader point or principle. It is often employed to highlight a specific instance that demonstrates a general truth or conclusion.  
-__to a T__  
-__up and running__  
-__up for grabs__  
-__up to snuff__ (up to scratch) As good as what was expected, required, or demanded; satisfactory or adequate. _Sorry, Tom. Your performance isn’t up to snuff. You’ll have to improve or find another job._ _My paper wasn’t up to scratch, so I got an F._  
-__uphill battle__  
-__ups and downs__ Positive and negative events or experiences, considered collectively. _Oh, we’ve had our share of ups and downs, like any married couple._  
-__user base__ :two: (business jargon) The number units of a particular product or service that are currently in use, especially software or an internet or computing platform. (Also referred to as “install(ed) user base” or simply “install(ed) base.”)  
-__vette__ A colloquial shortening of “Corvette,” a sports car manufactured by Chevrolet. The abbreviation can also be capitalized or spelled with an apostrophe.  
-__vouch for (someone or something)__  
-__wait and see__ :two: To act with caution and patience until something happens. _I guess I just have to wait and see until the doctor calls with the test results._  
-__walk out__  
-__war chest__:two: A financial reserve collected and maintained for specific political purposes, especially election campaigns.  
-__watershed moment__  
-__we are coming for you__  
-__weave (something) into (something) else__  
-__weigh in__ :dart::two: __3__ To give one’s opinion or analysis of something during a discussion. _Karen, you haven’t weighed in yet. What’s your take on this?_  
-__What do you say?__ Does that sound good to you? Do you agree?  
 __when pigs can fly__ At a point in time that will never come to pass. (Used to show skepticism or cynicism over some hypothetical situation or outcome.)  
 __where to draw the line__  
 __whip out__  
