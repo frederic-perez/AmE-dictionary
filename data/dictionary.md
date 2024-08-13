@@ -3026,7 +3026,7 @@ __catapult<sup>1</sup>__ _n_ :two::hammer: __3__ A slingshot. :es: tirachinas
 __catapult<sup>2</sup>__ _v_ :two::hammer: (catapulted)  
 __cataract__ _n_ :two::hammer: :es: cataratas  
 __catarrh__ _n_ :two::astonished::pencil2: Copious discharge of mucus associated with inflammation of mucous membranes, especially of the nose and throat.  
-__catastrophe__ _n_ :two::hammer:  
+__catastrophe__ _n_ :three::hammer: /kuh-TASS-truh-fee/  
 __catatonic__ _adj_ __1__ Characterized by catatonia especially either rigidity or extreme laxness of limbs. __2__ _informal_ So tired or exhausted that one can barely move: _We arrived in Marostica the following day, hungry, cranky, and catatonic with jet lag._  
 __catcall<sup>1</sup>__ _n_ :eight: A shrill sound or raucous shout expressing disapproval at a theater, meeting, etc. :es: silbido _A pack of men on motorbikes left a wake of catcalls._  
 __catcall<sup>2</sup>__ _v_ :two::hammer: (catcalled, catcalling) _Some catcalling builders shouted abuse at him._  
@@ -3090,6 +3090,7 @@ __caw<sup>1</sup>__ _n_ :two: (caws) The hoarse raucous sound that is characteri
 __caw<sup>2</sup>__ _v_ :two::hammer: (cawed, cawing)  
 __cc__ _vt_ (cc’d _or_ cc’ed; cc’ng) _The bugs are cc’ed to me._  
 __ce__  
+__cease and desist__  
 __ceasefire__ _n_ :seven::hammer: /ˈsiːsfaiə(r)/ (cease-fire)  
 __cede__  
 __ceilometer__ _n_ :four::hammer:  
@@ -3485,7 +3486,7 @@ __clammy__ _adj_ :six::hammer: _His skin was clammy._
 __clamor__ _v_ :two: (clamoring) __1__ To make loud demands. _He clamored for justice and tolerance._ __2__ To utter or proclaim insistently and noisily. _The delegates clamored their disappointment._  
 __clampdown__ _n_ :six::hammer: _An immigration clampdown._  
 __clamped__ _v_  
-__clandestine__ _adj_ :three::mega: /klænˈdɛstɪn/ /klan-DESS-tun/ Kept or done in secret, often in order to conceal an illicit or improper purpose. _Syn_ hush-hush, cloak-and-dagger, undercover, underground, hole-and-corner, hugger-mugger, secret, surreptitious _The clandestine affairs of the congressman are being investigated by the ethics committee._  
+__clandestine__ _adj_ :four::mega: /klænˈdɛstɪn/ /klan-DESS-tun/ Kept or done in secret, often in order to conceal an illicit or improper purpose. _Syn_ hush-hush, cloak-and-dagger, undercover, underground, hole-and-corner, hugger-mugger, secret, surreptitious _The clandestine affairs of the congressman are being investigated by the ethics committee._  
 __clang<sup>1</sup>__ _n_ :five::hammer: (sound) _A sharp clang sounded._ _The shout and clang of battle._ __2__ The strident call of a crane or goose.  
 __clang<sup>2</sup>__ _v_ :two::hammer: _Bells clanging._  
 __clanging__ _adj_ :astonished::two::hammer:  
@@ -3769,6 +3770,7 @@ __colorful__ _adj_ _The colorful lawyer is up for the challenges of the task._
 __colossal__ _adj_ :two::hammer:  
 __colossus__  
 __colostomy bag__  
+__coltish__ _adj_ Lively and playful; frisky. _Syn_ frolicky, frolicsome, rollicking, sportive  
 __colum__ _n_ Someone (physician or clergyman) who substitutes temporarily for another member of the same profession. :es: interino, suplente  
 __columbine__ _n_ _Columbine and Indian paintbrush._  
 __column__ _n_ :two::hammer::mega::mute:[colum~~n~~]  
@@ -3797,7 +3799,7 @@ __comfort food__ _n_ :three::hammer:
 __comfort__ _n_ :pencil2:  
 __comfortable__ _adj_ :two::dart::mega::hammer: /ˈkʌmftəbəl/  
 __comforter sets__  
-__comforter__ _n_ :six::mega: (comforters) __4__ _US_ A quilted bed covering. A quilt. A quilted bedcover. _Sheets and comforters._  
+__comforter__ _n_ :seven::mega: (comforters) __4__ _US_ A quilted bed covering. A quilt. A quilted bedcover. _Sheets and comforters._  
 __comfy__ _adj informal_ :six: /ˈkʌmfɪ/ Comfortable. _The Comfy Cow ice cream._ _Comfy clothes._ _Don’t get too comfy._  
 __coming of age__ _n_ :two::hammer:  
 __coming up__  
@@ -4083,7 +4085,7 @@ __contiguous > the contiguous U.S.__
 __contiguous__ _adj_ /kun-TIG-yuh-wus/  
 __continence__ _n_ :two::hammer:  
 __continental breakfast__  
-__contingency plan__ _n_ :four::hammer:  
+__contingency plan__ _n_ :five::hammer:  
 __contingency__ _n_ :seven::hammer: (contingencies) _Contingency plan._ _The contingency response missions._  
 __contingent__ _adj_ :two::hammer: _Contingent problems._ _The University of Illinois conducts criminal background checks on all job candidates upon acceptance of a contingent offer._  
 __continual__ _adj_ :two::hammer: _For most systems, change is continual._  
@@ -4142,7 +4144,7 @@ __cool your jets__
 __cooler__ _n_  
 __coolie hat__ _n_ A conical-shaped usually straw hat worn especially to protect the head from the heat of the sun.  
 __coonass__ _n_ _offensive_ _slang_ :two: (coonasses) Used as a disparaging term for a Cajun.  
-__coop<sup>1</sup>__ _n_ :three::hammer: :es: gallinero _Chicken coops._  
+__coop<sup>1</sup>__ _n_ :four: __1__ A small enclosure or cage, as for poultry or small animals. :es: gallinero _Chicken coops._ __2__ A cramped or uncomfortably confined space. __3__ _Slang_ A jail or prison.  
 __coop<sup>2</sup>__ _v_ :two::hammer: (cooped)  
 __cooper__ _n_ :two::astonished: A person who makes or repairs wooden barrels and tubs.  
 __cooperage__  
@@ -4212,6 +4214,7 @@ __coronary<sup>1</sup>__ _adj_ :mega: /ˈkɒrənəri $ ˈkɔːrəneri, ˈkɑː-/
 __coronary<sup>2</sup>__ _n_ __1__ A heart attack, esp. a coronary thrombosis. __2__ A coronary artery.  
 __coronet__ _n_  
 __corporal__ _n_ __1__ (Military) A noncommissioned officer junior to a sergeant in the army, air force, or marines. :es: cabo  
+__corporeal__ _adj_ Of a material nature; tangible. _Syn_ material  
 __corps__ _n_ :three::hammer: _Japan’s deep corps of talented skaters._ _We have a deep receiving corps._ _An inconsistent running back corps._  
 __corpsman__ _n_ :two::hammer: _He served in the U.S. Navy as a hospital corpsman._ _He was trained as a medical corpsman._  
 __corpus__ _n_ _A big corpus of examples._  
@@ -4279,6 +4282,7 @@ __countervail__ _v_ _Countervailing evidence._
 __counterword__ _n_  
 __countless__ _adj_ :three::hammer: /ˈkaʊnt lɪs/ _Jenkins wandered nervously around the study, examining objects that didn’t interest him and smoking countless cigarettes._  
 __country store__  
+__countryside__ _n_ /ˈkʌn triˌsaɪd/  
 __counts__ _n_ :three::hammer: _Seven counts of murder._ _He was charged with multiple crimes, including counts of money laundering._  
 __coup de grâce__ _n_ :three: __1__ A deathblow or death shot administered to end the suffering of one mortally wounded. __2__ A decisive finishing blow, act, or event.  
 __coup__ _n, v_ :mute:[cou~~p~~]  
@@ -4886,6 +4890,7 @@ __decypher__ _v_ :mega:
 __dedication__  
 __deduct__ _v_ :two::hammer: /dɪˈdʌkt/ (deducted) _If they fall from the balance beam, a full point is deducted._ _When hit, your pack is de-activated for a few seconds and points are deducted._  
 __deductible__ _adj, n_ :three::hammer: (deductibles) _The deductible, $3,000 a year, makes it impossible to actually go to the doctor._ _High deductibles hurt the health care plan._  
+__deduplicate__ _vt_ :astonished: _Computing_ To remove (duplicated material) from a system.  
 __deed__ _n_ :three::hammer: _The deed was set in motion._  
 __deedee__ _v_  
 __deem__ _v_ :two::hammer:  
@@ -4919,7 +4924,7 @@ __defector__ _n_ :five::hammer: _Army defectors._
 __defenestration__ _n_ :two: Defenestration originally meant “a throwing of a person or thing out of a window.” Today, it’s more often used for “a usually swift dismissal or expulsion (as from a political party or office).” _Michael’s annoyance at his alarm clock’s persistent drone led to its sudden defenestration from his eighth-floor bedroom._  
 __defensive__ _adj_ :two::hammer: _You seem defensive now._  
 __defer__ _v_ :seven: /dih-FER/ (deferred) To delay or cause to be delayed until a future time; postpone. To choose to do (something) at a later time. _She deferred her master’s program for a year so that she could travel the world._  
-__deference__ _n_ :six::hammer: /DEF-uh-runss/  
+__deference__ _n_ :seven::hammer: /DEF-uh-runss/  
 __deferential__  
 __deferentially__  
 __deferment__ _n_ :three::hammer:  
@@ -4955,6 +4960,7 @@ __deity__ _n_ :mega:
 __dejected__ _adj_ :two: Being in low spirits; depressed. Depressed in spirits; disheartened; low-spirited.  
 __deking__  
 __dekulakization__ _n_  
+__delay__ _n, v_ /dɪˈleɪ/  
 __delectable__ _adj_ :nine::m: __1__ 1. Greatly pleasing to the taste; delicious. _Syn_ delicious _Delectable dining._ _Delectable desserts._ _The Malaysian cuisine is absolutely delectable._ __2__ Greatly pleasing; delightful: _found her anecdotes delectable._ _A delectable range of bath treats._ __3__ Sexually attractive or alluring Capable of arousing desire. _The delectable Miss Haynes._  
 __delectation__ _n_ :dart::two::hammer:  
 __delegacy__ _n_ A group of representatives or delegates.  
@@ -4967,6 +4973,7 @@ __delicate__ _adj_ :two::hammer::mega:
 __delight<sup>1</sup>__ _n_ :two::hammer:  
 __delight<sup>2</sup>__ _v_ _It delighted me even though I expected it._  
 __delimit__ _v_ Set, mark, or draw the boundaries of something. _Syn_ demarcate _This map that my mother drew delimits how far from home I am allowed to wander without an adult._  
+__delirious__ _adj_ Marked by uncontrolled excitement or emotion; ecstatic. _Syn_ excited, frantic, mad, unrestrained  
 __delirium tremens__ _n_ An acute, sometimes fatal episode of delirium usually caused by withdrawal or abstinence from alcohol following habitual excessive drinking. It also may occur during an episode of heavy alcohol consumption.  
 __delirium__ _n_  
 __delisted__ _v_  
@@ -4990,7 +4997,7 @@ __demarcate__ _v_ /dih-MAHR-kayt/ To demarcate something is to fix or define its
 __démarche__ _n_ :two: /day-MARSH/ The word démarche refers to a course of action or a maneuver, and especially to a political or diplomatic maneuver. Démarche is also often used specifically for a petition or protest that is presented through diplomatic channels. _The speaker urged wealthy nations to heed the démarches of those less powerful countries bearing the brunt of climate change._  
 __demean__ _v_ :six: /dih-MEEN/ To demean someone or something is to cause that person or thing to seem less important or worthy of respect.  
 __demeaning__ _adj_ :two::hammer: _This job is demeaning._  
-__demeanor__ _n_ :three: /dih-MEE-ner/ Demeanor refers to a person’s behavior toward other people. It is usually used in the singular. _The teacher’s quiet demeanor had a calming effect on the children._  
+__demeanor__ _n_ :four::mega: /dih-MEE-ner/ Demeanor refers to a person’s behavior toward other people. It is usually used in the singular. _The teacher’s quiet demeanor had a calming effect on the children._  
 __demigod__ _n_ :two: A person with great powers and abilities. _Syn_ superman, Ubermensch  
 __demilitarize__ _vt_  
 __demo__ _v_ :two: Short for demonstrate. _Google demoed its AI-powered search engine._ _We’ve just demoed Riffusion, an incredible AI song-creation tool!_  
@@ -4999,7 +5006,7 @@ __demographic__ _adj_
 __demonize__ _vt_ :eight::hammer: (demonizing) __3__ To represent as evil or diabolic: _wartime propaganda that demonizes the enemy._  
 __demonstrate__ _v_ :pencil2:  
 __demonstration__ _n_ :two: __3__ A public display of group opinion, as by a rally or march: _peace demonstrations._ _Syn_ manifestation :es: manifestación  
-__demonstrator__ _n_ :two: __1__ One that demonstrates, such as a participant in a public display of opinion. :es: manifestante  
+__demonstrator__ _n_ :three: __1__ One that demonstrates, such as a participant in a public display of opinion. :es: manifestante  
 __demonym__ _n_ /dĕm′ə-nĭm′/ A name, such as _Swede_ or _New Yorker_, that denotes an inhabitant or native of a given place.  
 __demosaicing__ _adj_ (de-mosaicing, demosaicking)  
 __demote__ _vt_  
@@ -5025,7 +5032,7 @@ __dent__ _v_ (denting) :four: __1__ Mark with a dent. _The drawer was dented by 
 __dentifrice__ _n_  
 __dentures__ _n pl_ :dart::four: /ˈdentʃəz/ A set of artificial teeth. _Do you wear dentures?_ :es: dentadura postiza  
 __deontology__ _n_  
-__depart__ _v_ _Buses depart every 30 minutes._  
+__depart__ _v_ :two::hammer: _Buses depart every 30 minutes._  
 __departed__  
 __dependable__ _adj_ :three::hammer: _Applicants are required to have a dependable vehicle._  
 __depersonalization__ _n_  
@@ -5056,7 +5063,7 @@ __deregulation__ _n_
 __derelict<sup>1</sup>__ _adj_ :three::hammer: _Derelict buildings._  
 __derelict<sup>2</sup>__ _n_ :two::hammer:  
 __dereliction__ _n_ :two::hammer:  
-__deride__ _vt_ __1__ To laugh at or insult contemptuously: _got derided by a carnival clown._ __2a__ To subject to usually bitter or contemptuous ridicule or criticism: _politicians deriding their opponents._ __b__ To express a lack of respect or approval of: _were derided as the weaker sex._  
+__deride__ _v_ :two: /dih-RYDE/ __1__ To laugh at or insult contemptuously: _got derided by a carnival clown._ __2a__ To subject to usually bitter or contemptuous ridicule or criticism: _politicians deriding their opponents._ __b__ To express a lack of respect or approval of: _were derided as the weaker sex._  
 __derision__  
 __derive__ _v_  
 __derogation__ _n_ A communication that belittles somebody or something. _Syn_ disparagement, depreciation  
@@ -5069,6 +5076,7 @@ __Des Moines, Iowa__ _n_ :mega: [Common popular pronunciation: /duh–moinz, dez
 __descamisado__ _n_ __2__ An Argentine worker especially when poor and underprivileged. __3__ A very poor person. _They walked past cardboard and blanket in a dry outflow wall-pipe, which was some descamisado’s home._  
 __descant__ _vi_ __1__ To comment at length; discourse: _“He used to descant critically on the dishes which had been at table.” (James Boswell)._  
 __descent__ _n_ :mute:[des~~c~~ent]  
+__descript__ _adj_ /di-SKRIPT/ Having distinctive features or qualities.  
 __descry__ _v_ :three: _literary_ /dih-SKRYE/ _Descry_ is a literary word that, like _discover_ or _find out_, means “to come to realize or understand something.” Descry can also mean “to catch sight of (something difficult to discern).” _Syn_ spot, spy _From the top of the hill I descried a solitary rider._ _She descried two figures._ :es: divisar  
 __desecrate__ _v_ :four::hammer: _Desecrating the flag._  
 __desecration__ _n_ :two::hammer:  
@@ -5142,6 +5150,7 @@ __devolved__ _v_
 __devote__ _v_ :two::hammer: (devoted) _We’re devoting this episode to his paintings._  
 __devotee__ _n_ _Burning Man devotees._  
 __devout__ _adj_ :two::hammer:  
+__dew point__ _n_  
 __dew__ _n_  
 __dewlaps__ _n_ :two::hammer:  
 __deworm__ _vt_ To cure (an animal) of worms; worm.  
@@ -5166,6 +5175,8 @@ __dichotomous__ _adj_
 __dichotomy__ _n_ :four::mega: Division into two usually contradictory parts or opinions. _Syn_ duality _One of the novel’s themes is the dichotomy of Eastern and Western culture._  
 __dickens__ _n_ _Psychosomatic afflictions hurt like the dickens._  
 __Dickensian__  
+__dicker<sup>1</sup>__ _vi_ To bargain; barter. o dicker is to talk or argue with someone about the conditions of a purchase, agreement, or contract. _My favorite thing about flea markets is dickering over prices._  
+__dicker<sup>2</sup>__ _n_ The act or process of bargaining.  
 __dicta__ _n pl_  
 __dictate__ _v_  
 __diction__ _n_ :five::hammer: _The priest diction._  
@@ -5216,7 +5227,9 @@ __dime > on the dime__
 __diminish__ _v_  
 __diminishing returns__  
 __diminution__ _n_ Change toward something smaller or lower. _Syn_ decline _The thermometer indicated a certain diminution of temperature._  
-__dimly__ _adv_ _He was dimly aware of it._  
+__diminutive<sup>1</sup>__ _n_  
+__diminutive<sup>2</sup>__ _adj_  
+__dimly__ _adv_ :two::hammer: _He was dimly aware of it._  
 __dimpled__ _v_ :five::hammer:  
 __dimples__ _n_ :three::hammer: _They look like dimples in oatmeal now._  
 __dimply__  

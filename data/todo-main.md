@@ -1,28 +1,3 @@
-__catastrophe__ _n_ /kuh-TASS-truh-fee/  
-__cease and desist__  
-__clandestine__ _adj_ /klan-DESS-tun/  
-__coltish__ _adj_ Lively and playful; frisky. _Syn_ frolicky, frolicsome, rollicking, sportive  
-__comforter__ _n_ __3__ A quilted bedcover.  
-__contingency plan__  
-__coop__ _n_ __1__ A small enclosure or cage, as for poultry or small animals. __2__ A cramped or uncomfortably confined space. __3__ _Slang_ A jail or prison.  
-__corporeal__ _adj_ Of a material nature; tangible. _Syn_ material  
-__countryside__ _n_ /ˈkʌn triˌsaɪd/  
-__deduplicate__ _vt_ :astonished: _Computing_ To remove (duplicated material) from a system.  
-__defect__ _vi_  
-__deference__ _n_ /DEF-uh-runss/  
-__delay__ _n, v_ /dɪˈleɪ/  
-__delirious__ _adj_ Marked by uncontrolled excitement or emotion; ecstatic. _Syn_ excited, frantic, mad, unrestrained  
-__demeanor__ _n_ :mega:  
-__demonstrator__ _n_  
-__depart__ _v_  
-__deride__ _v_ /dih-RYDE/ To deride someone or something is to subject them to usually harsh and bitter insults or criticism.  
-__descript__ _adj_ /di-SKRIPT/ Having distinctive features or qualities.  
-__dew point__ _n_  
-__dicker<sup>1</sup>__ _vi_ To bargain; barter. o dicker is to talk or argue with someone about the conditions of a purchase, agreement, or contract. _My favorite thing about flea markets is dickering over prices._  
-__dicker<sup>2</sup>__ _n_ The act or process of bargaining.  
-__diminutive<sup>1</sup>__ _n_  
-__diminutive<sup>2</sup>__ _adj_  
-__dimly__  
 __discernible__ _adj_ Capable of being seen or noticed. _Syn_ evident, observable  
 __disfavor__ _v_ Put at a disadvantage; hinder, harm. _Syn_ disadvantage  
 __dismay__ _vt_  
