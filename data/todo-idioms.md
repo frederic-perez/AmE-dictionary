@@ -348,31 +348,6 @@ __peek out__
 __pepper with (something)__  
 __perp__ _n_ /pɚp/ [:scroll: Short for perpetrator, from perpetrare (to carry out), from per- (through) + patrare (to bring about), from pater (father)] One who commits a crime or is accused of committing one. A perpetrator; someone who does something, such as committing a crime. _The perp left a good set of prints on the doorknob._  
 __photobomb__  
-__pick up on (something)__ :dart: To detect or notice something; to become alert to or aware of something. _There are a lot of mature jokes in this cartoon that I never picked up on as a kid._  
-__picture perfect__  
-__picture this__  
-__receive (one’s) just deserts__ To receive that which one deserves, especially a punishment or unfavorable outcome. (Note: The phrase is often misspelled as “just desserts,” due to the pronunciation of “deserts” and “desserts” being the same in this context.) _The CEO cheated his clients out of nearly $4 million, but he received his just deserts when he was stripped of everything he owned and sent to prison._  
-__reclaim (someone or something) from (someone or something else)__ To regain or resume possession of someone or something from someone or something.  
-__recount (something) to (one)__ To narrate or share the facts or details of some experience or story to one.  
-__red flag__  
-__red line__  
-__resonate with (one)__ To produce or evoke an appealing feeling of familiarity in one.  
-__revolving door__  
-__ride (on) a wave of (something)__ :two: To enjoy the advantage of or continue to benefit from a situation that is successful, fortunate, trendy, etc. _Jonathan has been riding a wave of celebrity ever since he was cast in the leading role for the new blockbuster._  
-__rig__ __1__ _vt_ To arrange or tamper with the results of something. _Somebody rigged the contest so no one got first prize._  
-__right off the bat__  
-__ring hollow__ To sound or give the sense of being false, insincere, or not genuine. _The statements that followed made her apology ring hollow._  
-__ripple effect__  
-__road ahead__  
-__rock bottom__ The absolute lowest or worst point.  
-__rocky start__ A troubled, uncertain, or discouraging beginning.  
-__roll out__  
-__roll the dice__  
-__roll with it__ To adapt to a situation despite unexpected circumstances or challenges.  
-__roll with the punches__ :dart:  
-__rope (one) into (doing) (something)__ To persuade, entice, or enlist one to do or participate in something. _I really didn’t want to sing in the talent show, but Janet roped me into it._  
-__rough sleeper__ Someone who sleeps outside at night (i.e., “sleeps rough”), usually because they have no home. Primarily heard in UK, Australia.  
-__round on__ To suddenly attack, berate, or show hostility toward someone, especially verbally. _I know he seems friendly, but he’ll round on you in an instant if you disagree with him._  
 __rue the day (that something happened)__ To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
 __rule of law__  
 __rules of the road__  

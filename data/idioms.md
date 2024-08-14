@@ -4557,7 +4557,7 @@ __pick on (someone or something)__ :four::hammer:
 __pick someone or something apart__ :dart: To analyze and criticize someone or something negatively. _You didn’t review her performance; you just picked her apart._ _Stop picking yourself apart._  
 __pick someone up__ :two::hammer: _I learned about picking ourselves up when we fall._  
 __pick up after (someone or oneself)__ :dart::two: To collect and put away a mess that someone or oneself has left around. _You really need to pick up after yourself if you’re going to use my workshop._  
-__pick up on (something)__  
+__pick up on (something)__ :dart::two: To detect or notice something; to become alert to or aware of something. _There are a lot of mature jokes in this cartoon that I never picked up on as a kid._  
 __pick up steam__  
 __pick up__ :three::hammer: _Mindset change is not about picking up a few tricks._ _He will pick up the tool?_  
 __pick your poison__  
@@ -4565,8 +4565,9 @@ __pick-and-shovel work__
 __pick-me-up__ Something used to improve a person’s mood or level of energy. _After a long week, I needed a pick-me-up, so I stopped by the salon to get a pedicure._ _I was so drowsy on the way to work, so I stopped by the coffee shop for a little pick-me-up._  
 __pick-up line__ A conversation opener with the intent of engaging an un familiar person for romance or dating.  
 __pickle__ _informal_ A particularly troublesome or difficult predicament. _Boy, am I in a pickle—I accidentally made plans to meet with two different clients at the same time today._  
-__picture perfect__ :two: Exactly as desired in every detail. Often hyphenated. _My goodness, what a party. Everything was picture perfect._  
+__picture perfect__ :three: Exactly as desired in every detail. Often hyphenated. _My goodness, what a party. Everything was picture perfect._  
 __picture postcard__  
+__picture this__  
 __pie in the sky__ :six: An impossible, unlikely, or fanciful idea or plan. Often hyphenated.  
 __piece by piece__ Incrementally; slowly; one piece at a time. In stages, gradually. _Let’s go over your exam paper, piece by piece._ _It took years, but piece by piece we turned this ramshackle old house into a real home._  
 __piece of ass__  
@@ -4880,13 +4881,15 @@ __ready cash__
 __ready, set, go__  
 __reality check__ :dart::four: An event or outcome that forces one to accept or reevaluate the reality of one’s position or situation.  
 __reap the benefits__ To enjoy the rewards resulting from something. _You’ll always reap the benefits of hard work—don’t ever forget that._  
-__receive (one’s) just deserts__ To receive that which one deserves, especially a punishment or unfavorable outcome. (Note: The phrase is often misspelled as “just desserts,” due to the pronunciation of “deserts” and “desserts” being the same in this context.)  
+__receive (one’s) just deserts__ :two: To receive that which one deserves, especially a punishment or unfavorable outcome. (Note: The phrase is often misspelled as “just desserts,” due to the pronunciation of “deserts” and “desserts” being the same in this context.) _The CEO cheated his clients out of nearly $4 million, but he received his just deserts when he was stripped of everything he owned and sent to prison._  
 __reckon with__ :dart::two: __1__ Take into account, be prepared for, as in _The third-party movement is a force to be reckoned with during the primaries._ _You have made our podcast a force to be reckoned with._ __2__ Deal with, as in _Your lost wallet isn’t the only problem we have to reckon with._  
+__reclaim (someone or something) from (someone or something else)__ To regain or resume possession of someone or something from someone or something.  
+__recount (something) to (one)__ To narrate or share the facts or details of some experience or story to one.  
 __red balloon__ The slang term “red balloon” is commonly used to refer to a small container for illicit drugs made from a condom or the finger of a latex glove, which is often filled with heroin, cocaine, or other substances. The balloon is often red in color, which is thought to be a reference to the _Roger Rabbit_ cartoon, in which the character carries a red balloon filled with illegal substances.  
-__red flag__ :four::hammer:  
+__red flag__ :five::hammer:  
 __red herring__  
 __red hot__ :two::hammer: _Now the market is red hot._  
-__red line__ :two::hammer:  
+__red line__ :three::hammer:  
 __red pill__ :two::hammer:  
 __red tape__ :seven::hammer:  
 __red team__  
@@ -4909,7 +4912,7 @@ __reminisce about (someone or something)__ To recall or think back on memories o
 __reminiscent of (someone or something)__  
 __rep__ __2__ _n_ A shortening of “reputation.”  
 __reset button__  
-__resonate with (one)__  
+__resonate with (one)__ :two: To produce or evoke an appealing feeling of familiarity in one.  
 __rest assured__ :four::hammer: _Rest assured you’ll sleep like an angel._  
 __rest easy__ :dart: To stop worrying about something. To not worry about something. _I can rest easy knowing that he will be in charge._ _OpenAI isn’t resting easy: the company is reportedly working hard to beat Google to multimodal features in its models._  
 __rest my case__ :two::hammer: _I rest my case._  
@@ -4918,9 +4921,10 @@ __retail for (something)__
 __revamp<sup>1</sup>__ _vt_ To renovate, refurnish, revise, etc.  
 __revamp<sup>2</sup>__ _n_ An instance of renovation, refurnishing, etc.  
 __revel in__  
-__revolving door__  
+__revolving door__ :two::hammer:  
 __rid out__ _(chiefly Midwestern United States)_ To clean, empty, or clear out (something or some space). Primarily heard in US. _You’ve got to learn to rid out some of these negative thoughts you’ve been having, and make room for some positive emotions._ _I’ll be spending this weekend ridding out the garage._  
 __riddled with__ :six::hammer: _v_ __3__ To be permeated in many places by something, especially by flaws. Used in the passive: _That report was riddled with errors._ _Dating sites are riddled with catfish._ _Neuralink’s oversights board is riddled with potential conflicts._ _CNET published AI-generated articles riddled with errors._ _The guy had been riddled with bullets right there._  
+__ride (on) a wave of (something)__ :two: To enjoy the advantage of or continue to benefit from a situation that is successful, fortunate, trendy, etc. _Jonathan has been riding a wave of celebrity ever since he was cast in the leading role for the new blockbuster._  
 __ride or die__ _n_ :astonished: One’s closest, most reliable or trustworthy friends. _Liz is my ride or die—I can totally count on her to be there for me in any situation._  
 __ride the pine__ In sports (especially baseball), to remain sitting on the bench, rather than be an active participant in the game. _I’m not going to play next year if coach makes me ride the pine again this season._  
 __ride the rail(s)__ To travel on a vehicle mounted on rails (especially a train or streetcar). _I know it takes a lot longer than flying, but I love riding the rail from Portland to Vancouver._  
@@ -4928,15 +4932,17 @@ __ride__ _n_ One’s vehicle, especially an automobile. _You can park your ride 
 __riding high__  
 __riffle__ :two: In James Ellroy’s novels, “riffle” is a verb that means to search quickly through something, usually a pile of papers or documents. It implies a sense of urgency and impatience, as if the person doing the riffling is searching for something important and doesn’t have time to waste.  
 __riffraff__ :two: Undesirable, disreputable, or vulgar people, often used in a condescending manner. _I wouldn’t be seen in a place like that, there’s a lot of riffraff that hang out around there._  
+__rig__ __1__ _vt_ To arrange or tamper with the results of something. _Somebody rigged the contest so no one got first prize._  
 __right away__ Immediately; at once; without delay. _Right away, I could tell that the plan had no chance of success._ _Sarah’s parents took to her new girlfriend right away._  
 __right mess__ A _right mess_ is a situation or thing that is in complete chaos or disarray. It can be used to describe a situation that is confusing, chaotic, and difficult to manage. _This project has become a right mess!_  
-__right off the bat__ Immediately; at once; without delay.  
+__right off the bat__ :two: Immediately; at once; without delay.  
 __right on__ :two::hammer: _The description of the bomb was right on._  
 __right the wrong__ _Don Quixote believes he’s destined to right the wrongs of the world._  
 __right up (one’s) alley__ Ideally suited to one’s interests. _This course seemed right up my alley when I signed up for it, but it ended up being dreadfully boring._  
 __rile up__ :three: To cause someone or some group to become particularly excited and animated, especially in an angry or irritated manner. A noun or pronoun can be used between “rile” and “up.” _Seeing that kind of injustice on the news always riles me up to no end._  
 __ring a bell__ :three::hammer: _Does that ring a bell with you?_  
 __ring false__  
+__ring hollow__ To sound or give the sense of being false, insincere, or not genuine. _The statements that followed made her apology ring hollow._  
 __ring of Venus__ In James Ellroy’s novels, the “ring of Venus” is a term used to describe a secret society or network of powerful people who engage in corrupt or illegal activities. It’s usually presented as a shadowy and mysterious organization that operates behind the scenes, pulling the strings of government, business, and society.  
 __ring out__ __2__ To mark or celebrate the end of something: _We rang out the old year with a champagne toast._  
 __ring someone’s bell__ __3__ To sexually attract or arouse someone; to bring someone sexual gratification or satisfaction. _That redhead from across the bar has been ringing my bell all night._ _He looks mighty fine, all right. I’d like to take him home and ring his bell!_  
@@ -4950,36 +4956,40 @@ __rip off__ :two::hammer:
 __rip-snorting mad__ Extremely angry and agitated; infuriated. _My mom was rip-snorting mad when I came home drunk at 2 AM._ _You’ve got to learn to stay out of the boss’s way when he gets rip-snorting mad like that._  
 __ripen up__ To grow ripe; to become mature enough to harvest or pick. _Make sure you plant your tomatoes in a spot that gets plenty of sunshine, or else it will take a whole lot longer for them to ripen up._  
 __ripped to the tits__ _adj_ (ripped off one’s ass, ripped to the nuts, ripped to the gills) Very intoxicated by drink, drugs or a combination.  
-__ripple effect__ :two::hammer:  
+__ripple effect__ :three::hammer:  
 __rise from the ashes__ To recover after a serious failure.  
 __rizz<sup>1</sup>__ _n_ Romantic appeal or charm. _A bro who has rizz._  
 __rizz<sup>2</sup>__ _v_ (typically used with _up_, as in _rizz up that cutie._) To charm or seduce.  
+__road ahead__  
 __road to nowhere__  
 __rob the till__ To steal the earnings of a shop or restaurant from out of its cash register. _Just remember, this place has insurance, so if anyone comes in with a gun looking to rob the till, you don’t offer up any resistance, OK?_ _I hear Janet was fired from her last job for robbing the till._  
 __rock (one’s) world__  
-__rock bottom__ :two::hammer:  
+__rock bottom__ :three: The absolute lowest or worst point.  
 __rock solid__  
 __rock the boat__ :nine::m: To do or say something that might endanger a stable situation or upset the status quo. _None of my family members are fighting with each other right now, so please don’t rock the boat by bringing up politics or any other controversial topics._  
 __rocket science__ :three: A pursuit, activity, or endeavor that requires extraordinary skill or intelligence. Most often used in the negative to imply the opposite. _Look, all you need to do is reformat the hard drive on your computer. It isn’t rocket science!_  
 __rocky road__ A difficult period of time. _Bob’s been going down quite a rocky road since his divorce._  
-__rocky start__ :three::hammer:  
+__rocky start__ :four: A troubled, uncertain, or discouraging beginning.  
 __roll (one’s) eyes__ :four: To turn one’s eyes upward or around in a circle, usually as an expression of exasperation, annoyance, impatience, or disdain. _I just rolled my eyes as my dad told another one of his corny jokes._  
 __roll of the dice__ :dart: A risky attempt to do or achieve something. _The merger was their last roll of the dice, and it failed miserably._  
 __roll off the tongue__ To be very easy or enjoyable to say. Sometimes used sarcastically to imply the opposite. _When you name your food truck, make sure it’s something that rolls off the tongue so that people will remember it._  
-__roll out__ :two::hammer: __4__ _v_ To get out of bed, especially lazily or late in the morning or day. _My teenage son doesn’t roll out of bed until nearly 1 in the afternoon on the weekends._  
-__roll the dice__ To take some risk on the hope or chance of a fortunate outcome. _He rolled the dice again in movie production._  
-__roll with it__ :two: To adapt to a situation despite unexpected circumstances or challenges.  
-__roll with the punches__ :dart::two: Cope with and withstand adversity, especially by being flexible. For example, _She’d had three different editors for her book, each with a different style, but she’d learned to roll with the punches._ This term alludes to the boxer’s ability to deflect the full force of an opponent’s blow by adroitly moving his body.  
+__roll out__ :three::hammer: __4__ _v_ To get out of bed, especially lazily or late in the morning or day. _My teenage son doesn’t roll out of bed until nearly 1 in the afternoon on the weekends._  
+__roll the dice__ :two: To take some risk on the hope or chance of a fortunate outcome. _He rolled the dice again in movie production._  
+__roll with it__ :three: To adapt to a situation despite unexpected circumstances or challenges.  
+__roll with the punches__ :dart::three: Cope with and withstand adversity, especially by being flexible. For example, _She’d had three different editors for her book, each with a different style, but she’d learned to roll with the punches._ This term alludes to the boxer’s ability to deflect the full force of an opponent’s blow by adroitly moving his body.  
 __roller coaster__ _Emotional roller coaster._  
 __rolling in dough__ Exceptionally wealthy; having large amounts of money to spend. _I hear her father is rolling in dough, so I wouldn’t be too worried about her future._  
 __roly-poly__ _A roly-poly hustler._  
 __room to grow__ A phrase used to describe the potential for something to improve or expand in the future. _There is always room to grow._  
 __root cause__ The most fundamental, central, or basic causal element of something.  
 __root out__  
+__rope (one) into (doing) (something)__ To persuade, entice, or enlist one to do or participate in something. _I really didn’t want to sing in the talent show, but Janet roped me into it._  
 __rosy__ :two: _mod_ Good; satisfactory. (As a life that is seen through rose-colored glasses.) _Things are looking rosy now that the economy is improving._  
+__rough sleeper__ Someone who sleeps outside at night (i.e., “sleeps rough”), usually because they have no home. Primarily heard in UK, Australia.  
 __rough-and-tumble__ _The rough-and-tumble days the wild west._  
 __roughly speaking__ Approximately. _I think we can plan on having 20 volunteers, roughly speaking._  
 __round and round__ :two: (around and around) In circles.  
+__round on__ To suddenly attack, berate, or show hostility toward someone, especially verbally. _I know he seems friendly, but he’ll round on you in an instant if you disagree with him._  
 __round something out__  
 __round the bend__ :two: Crazy, insane.  
 __round the clock__ (around the clock) Nonstop. _There are sirens round the clock._  
