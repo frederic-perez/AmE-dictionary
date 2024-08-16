@@ -1,6 +1,14 @@
+__biddy__ _n_ /ˈbɪdɪ/ __1__ A dialect word for chicken, hen. __2__ _informal offensive_ A woman, esp an old gossipy or interfering one.  
+__byword__ _n_ _Syn_ adage, aphorism, maxim, motto, proverb, saw, saying  
+__ceasefire__ _n_  
+__chute__ _n_  
+__coda__ _n_  
+__deliverance__ _n_  
+__dinghy__ _n_ A small boat. :es: bote  
 __discernible__ _adj_ Capable of being seen or noticed. _Syn_ evident, observable  
 __disfavor__ _v_ Put at a disadvantage; hinder, harm. _Syn_ disadvantage  
 __dismay__ _vt_  
+__dissipate__ _v_ :pencil2:  
 __doable__  
 __docker__ _n_ A laborer who loads and unloads vessels in a port. _Syn_ dock worker, dockhand, dock-walloper, dockworker, loader, longshoreman, lumper, stevedore :es: estibador  
 __doleful__ _adj_ Filled with or expressing grief. _Syn_ mournful  
@@ -48,17 +56,21 @@ __flub<sup>1</sup>__ _n_ :dart: /flʌb/ An embarrassing mistake or blunder.
 __flub<sup>2</sup>__ _v_ :dart: To blunder or make an embarrassing mistake. Make a mess of, destroy or ruin.  
 __flyover__ _n_  
 __foist__ _v_ /FOIST/ _Foist_, which is almost always used with _on_ or _upon_, is used when someone forces another person to accept something, usually something that is not good or is not wanted. Foist can also mean “to pass off as genuine or worthy.”  
+__folksy__ _adj_  
 __folly__ _n_ (construction)  
 __footage__ _n_ :mega:  
 __fusty__ _adj_ /FUSS-tee/ Someone or something described as fusty is rigidly old-fashioned. Fusty is also used as a synonym of musty to describe things that are full of dust and unpleasant, stale odors.  
 __gabby__ _adj_ Tending to talk excessively. _Syn_ chatty, garrulous, loquacious, talkative, talky  
 __galvanize__  
+__gasp<sup>1</sup>__ _v_  
+__gasp<sup>2</sup>__ _n_ __1__ A short convulsive intake of breath.  
 __grouse__ _v_  
 __gruntled__ _adj_ /ˈɡrʌntəld/ _informal_ Happy or contented; satisfied.  
 __herald__ _v_ /HAIR-uld/ _Herald_ is a verb meaning “to give notice of”; it is synonymous with _announce_, _publicize_, and _foreshadow_. _Herald_ may also mean “to greet especially with enthusiasm.”  
 __hiking__ _n_  
 __history__ _n_ :mega:  
 __hoopla__ _n_ /HOO-plah/ _Hoopla_ refers to talk or writing that is designed to get people excited about or interested in something, often with the implication that the person using the word does not find the thing exciting or interesting.  
+__huddle__ _v_  
 __idiosyncrasy__  
 __impending__ _adj_ About to happen; imminent.  
 __ineffable__ _adj_ Incapable of being expressed. _Syn_ indescribable, unspeakable, untellable, unutterable, indefinable  
@@ -127,9 +139,13 @@ __pertussis__ _n_ The technical name for _whooping cough_.
 __phony__ _adj_  
 __pitch__ _n_ :es: (esp. _British_) campo, cancha  
 __plod__ _v_ To walk heavily or move laboriously; trudge.  
+__porky__ _adj_ __1__ Of or like pork: _a porky flavor._ __2__ _Derogatory Slang_ Fat or corpulent.  
 __precede__ _v_ Furnish with a preface or introduction. _Syn_ preface, premise, introduce _She always precedes her lectures with a joke._  
 __premier__  
 __preposterous__ _adj_ [:scroll: From Latin praeposterus, which translates literally to “in the wrong order”]  
+__pressing<sup>1</sup>__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._ _Syn_ urgent __2__ Very earnest or insistent: _a pressing invitation._  
+__pressing<sup>2</sup>__ _n_  
+__prioritize__ _v_ _We’ll probably go on prioritizing._  
 __process server__ _n_ :dart::two: A person who serves subpoenas or other legal documents, esp. those requiring appearance in court.  
 __profligate__ _adj_ :dart:  
 __proliferate__ _v_ /pruh-LIF-uh-rayt/ To increase quickly in number or amount.  
@@ -137,6 +153,8 @@ __prostration__ _n_ An abrupt failure of function or complete physical exhaustio
 __proximate__ _adj_  
 __reck<sup>1</sup>__ _n_ /rek/ Care or concern.  
 __reck<sup>2</sup>__ _v_ /rek/ To care or concern.  
+__redleg__ _n_ /ˈrɛdˌlɛɡ/ _derogatory Caribbean_ A poor White person.  
+__reef__ _n_ __3__ _Nautical_ A portion of a sail gathered in and secured to lessen the area exposed to the wind.  
 __reify__ _v_ /ˈri əˌfaɪ, ˈreɪ-/ /RAY-uh-fye/ Reifying is about considering or representing something abstract as a material or concrete thing. If you reify a concept or idea you somehow give it definite content and form.  
 __reignite__ _v_  
 __reread__ _v_ :pencil2:  
@@ -154,6 +172,8 @@ __sartorial__
 __satchel__ _n_  
 __savoy__ _n_ (food)  
 __school of thought__  
+__Scots__ _adj, n_ :pencil2:  
+__self-effacing__ _adj_ :dart: Tending to make oneself, one’s actions, etc, inconspicuous, esp because of humility or timidity; modest. Reluctant to draw attention to yourself. _Syn_ reticent, retiring  
 __simpleton__ _n_  
 __sine die__  
 __sinecure__ _n_  
@@ -167,11 +187,14 @@ __skittish__ _adj_
 __skivvy__ _n_ __1__ _chiefly often derogatory Brit_ A servant, esp a female, who does menial work of all kinds; drudge. __2__ (Clothing & Fashion) _slang chiefly US_ A man’s T-shirt or vest. __3__ (Clothing & Fashion) (plural) _slang chiefly US_ Men’s underwear.  
 __sleazy__ _adj_ :dart: __1b__ Dishonest or corrupt; disreputable: _Some sleazy characters hang around casinos._  
 __slimy__ _adj_ /slaɪmɪ/  
+__slosh__ _v_  
 __slothful__ _adj_  
 __smell-feast__ _n_ _archaic_ One given to finding out and getting invited to good feasts. _Syn_ parasite, sponger  
 __smitten__ _adj_  
+__steady__  
 __stow__ _v_ __3__ _(Nautical Terms)_ To pack or put away (cargo, sails and other gear, etc). :es: estibar  
 __stridor__ _n_ :es: estridor, ruido sordo respiratorio  
+__string__ _n_ _The string of the tea bag._  
 __stub__ _n_ __1__ The usually short end remaining after something bigger has been used up: _a pencil stub; a cigarette stub._  
 __subdural__ _adj_ Located or occurring beneath the dura mater: _subdural space; a subdural hematoma._  
 __superintendent__ _n_ _A park superintendent._  
@@ -187,6 +210,7 @@ __troubleshoot__ _v_
 __trudge__ _v_ :two: To walk, especially laboriously or wearily.  
 __tweener__ _n_ (sports, chiefly tennis) A shot that is hit between the legs.  
 __unabashed__ _adj_ :two: Not ashamed, disconcerted, or apologetic; boldly certain of one’s position.  
+__unattainable__ _adj_ _Unattainable love._  
 __undercut__ _v_  
 __ungainly__ _adj_ :two: /un-GAYN-lee/ Lacking grace or ease of movement or form. _Syn_ clumsy, clunky, gawky, unwieldy  
 __unrequited__ _adj_ /ˌʌn rɪˈkwaɪ tɪd/  
@@ -201,6 +225,7 @@ __vulnerable__ _adj_ /VUL-nuh-ruh-bul/
 __weed__ _v_  
 __weir__ _n_ :two::hammer:  
 __Wembley__ _n_ :mega:  
+__windjammer__ _n_ :es: buque de vela (grande y veloz)  
 __woe__  
 __word-perfect__ _adj_  
 __worktop__ _n_ :two::hammer:  
