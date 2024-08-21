@@ -1,5 +1,7 @@
 __(something) won’t get (someone) anywhere__ Something, typically a certain behavior, will not help someone progress or succeed in any way.  
+__a drop in the ocean__ (BrE) (a drop in the bucket (AmE)) If something, especially an amount of money, is _a drop in the ocean_, it is very small in comparison with the amount which is needed or expected.  
 __a kick in the butt__ A forceful gesture or message of some kind (usually delivered with good intentions) that acts as motivation to the (previously unmotivated) recipient. _These days, teenagers seem to need a swift kick in the butt to convince them to do well in school._  
+__a mind of (one’s) own__ A capacity or inclination to think or act independently: _a reporter with a mind of her own._  
 __a walk in the park__  
 __a-ha moment__  
 __bank at__  
@@ -7,10 +9,14 @@ __be (someone’s) call__ To be ultimately left up to someone to decide. _I don�
 __be (the) bomb__ To be excellent, extremely entertaining, or of very high quality. _This steak I ordered is bomb!_ _I’m not usually a fan of action films, but that one was the bomb!_  
 __be not just another pretty face__ To have distinguishing achievements, intelligence, skills, or abilities beyond what was or may have been assumed.  
 __be on the fence__  
+__be on the go__  
+__be quite something__ To be particularly noteworthy, remarkable, interesting, special, or impressive. _Wow, this new car of yours is quite something!_  
+__bestie__  
 __black bag job__  
 __blah__ __2__ _adj_ Displeased, dissatisfied, or dejected. _I’m just feeling kind of blah after reading that negative review of my play._  
 __bristle at something__ :dart: [:scroll: Alludes to a dog or cat raising the hair on its back in anger or as a threat] To show sudden anger or other negative response to something. _She bristled at the suggestion._  
 __brush up__  
+__camp out__ __2__ To live in a place other than one home’s temporarily, often in conditions that are not ideal. _How Two Stranded Astronauts Are Camping Out in Space._  
 __cash cow__  
 __catch on__ __1__ To become popular or widespread.  
 __catch up on (something)__  
@@ -22,6 +28,8 @@ __commend (someone) for (something)__ To compliment or praise someone for someth
 __cost the earth__ To be exorbitantly expensive.  
 __dad bod__ _slang_ [:scroll: From _dad_ + _bod_, an abbreviation of _body_] A physique characterized by moderate chubbiness; the stereotypical physique of a middle-aged dad. The phrase is often used affectionately or approvingly. _Aww, I don’t care that he’s a bigger guy—I like guys with a dad bod._  
 __death count__ (death toll) The total number of fatalities resulting from an event such as an accident, disaster, or conflict.  
+__drum roll__  
+__dynamite__ __1__ _n_ Anything potentially powerful: a drug, news, a person. _The story about the scandal was dynamite and kept selling papers for a month._ __2__ :dart: _mod_ Excellent; powerful. _I want some more of your dynamite enchiladas, please._  
 __earworm__ _n_ _informal_ /ˈɪəˌwɜːm/  
 __every dog has his/its day__  
 __far and wide__  
@@ -33,7 +41,10 @@ __foot the bill__ To pay for something. _I hope the production company is footin
 __free compute__  
 __from a mile away__  
 __from the get-go__  
+__gasp for air__ To gasp or pant heavily due to having difficulty breathing, as after strenuous activity or holding one’s breath.  
+__get (one’s) hands dirty__  
 __get a hold on/of (oneself)__ To begin to control one’s reactions or emotions after not having done so previously.  
+__get dirt under one’s nails__ The idiom “get dirt under one’s nails” generally refers to engaging in hard work or manual labor, resulting in one’s hands becoming dirty. It signifies a person who is not afraid to roll up their sleeves and get involved in physical tasks, often associated with a sense of practicality and a strong work ethic.  
 __get in(to) hot water__  
 __get into it__  
 __get it (all) together__  
@@ -80,6 +91,7 @@ __goon__
 __goop__  
 __grapple with (someone or something)__ :three::hammer:  
 __green thumb__  
+__hairpin bend__ :two: A very sharp, approximately 180° bend in a road.  
 __have a rocky start__ To have a troubled, uncertain, or discouraging beginning.  
 __have a shit__  
 __hear the end of (someone or something)__  
@@ -93,6 +105,7 @@ __hotshot__
 __hue and cry__ /HYOO-und-KRYE/ __1__ A large public protest. _Hue and cry_ refers to a clamor of alarm or protest in response to something. __2__ It can also be used as a synonym of hubbub to refer to general noise or uproar.  
 __I beg your pardon__ :dart: __1__ :dart: I apologize for what I just did or said. _Oh, I beg your pardon. I wasn’t looking where I was going._ __2__ What did you just say? _Could you please repeat that? I beg your pardon, I couldn’t quite hear you._ __3__ An expression or exclamation of indignation or incredulous disbelief. _A: “I’m afraid we’re going to have to cut your funding, effective immediately.” B: “I beg your pardon? Who on earth decided that?”_ __4__ Could you please give me your attention. _I beg your pardon, everyone, but I’d like to get tonight’s proceedings underway._ __5__ :dart: I believe you are mistaken or incorrect; I beg to differ; I don’t agree with you on that. _I beg your pardon, but I believe you’ll find that our school is actually one of the best in the state._  
 __if it ain’t broke, don’t fix it__ :two::hammer: (if it isn’t broke, don’t fix it)  
+__if nothing else__ :dart: A phrase used to indicate that something is a priority or the most important thing. _I know you’re busy today, so if nothing else, please make sure you respond to these messages._ _If nothing else, we’ll at least get our money back._  
 __If you can’t beat ’em, join ’em__  
 __in a bit__  
 __in a flutter__ In a nervous, confused, or agitated state.  
@@ -169,6 +182,7 @@ __JK__ An initialism of “just kidding,” used especially in text messages and
 __join hands__ __2__ By extension, to work together to achieve some goal.  
 __join the ranks (of something)__ To become a part or member of a large group or organization.  
 __jolly (one) along__ :dart: To encourage one (to do something), especially in a positive, cheerful manner. _I was getting disheartened writing my first novel, but my husband jollied me along to finish it._  
+__jughead__ _slang_ A stupid or foolish person (as if their head is as empty as a jug). _He’s sweet, but he can be a real jughead sometimes._  
 __juice head__  
 __juicer__ _n_ (juicehead) A heavy drinker; a drunkard. _The tavern is always filled with juicers on Friday night._  
 __jump before (one) is pushed__ To take action willingly or proactively before being forced to do it.  
@@ -216,6 +230,7 @@ __lay the groundwork (for something)__ To create or prepare the basics or essent
 __leapfrog over (someone or something)__  
 __leave a lot to be desired__ To be very inadequate or unsatisfactory; to lack a large amount of what is desired or required.  
 __let (oneself) go__  
+__let someone down__  
 __level the playing field__ To make a situation or activity more fair and balanced by giving an extra advantage or opportunity to those who would normally be at a disadvantage, or by attempting to take away or diminish advantages, perhaps of one’s adversary or competitor.  
 __lick (one’s) wounds__  
 __lie to__ __2__ (Nautical) Of a sailing vessel, to remain stationary while facing the wind. _Make sure the ship lies to during the storm so as not to capsize._  
@@ -234,9 +249,10 @@ __loud and clear__
 __lust for life__  
 __make (both) ends meet__  
 __make (one’s) eyes pop (out)__  
+__make (one’s)/the rounds__  
 __make (something) clear (to one)__ :two:hammer:  
-__make a difference__ :three::hammer:  
-__make a fuss__  
+__make a difference__ :four::hammer:  
+__make a fuss__ :two: To be a nuisance or cause a disturbance by complaining, arguing, etc. (about something).  
 __make a run for (someone or something)__ :two: To run in order to escape something or to reach a destination quickly, perhaps before a certain time or before something happens.  
 __make headway__  
 __make inroads (in/into something)__  
@@ -348,6 +364,8 @@ __peek out__
 __pepper with (something)__  
 __perp__ _n_ /pɚp/ [:scroll: Short for perpetrator, from perpetrare (to carry out), from per- (through) + patrare (to bring about), from pater (father)] One who commits a crime or is accused of committing one. A perpetrator; someone who does something, such as committing a crime. _The perp left a good set of prints on the doorknob._  
 __photobomb__  
+__put up with (someone or something)__ To abide or endure someone or something that one finds unpleasant, inconvenient, or annoying.  
+__quite a few__ (quite a lot; quite a bit; quite a number)  
 __rue the day (that something happened)__ To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
 __rule of law__  
 __rules of the road__  
@@ -373,9 +391,14 @@ __snazzy__ Particularly elegant, dazzling, classy, or fancy in appearance. _Wow,
 __so much so that__  
 __soft spot__  
 __something of sorts__ An inferior example of a kind of something.  
+__stand on (one’s) own (two) feet__ To be strong and independent; to not need the help, guidance, or resources of another person.  
+__swig__ __1__ _n_ Adeep drink of liquor; a swallow of liquor. _She took a swig of rum and leaped into the lagoon._ __2__ _vt_ To drink liquor deeply. _He nearly swigged the whole bottle before he needed to take a breath._  
+__take (something) with a pinch of salt__ (take something with a dash/grain of salt)  
+__turn of phrase__  
 __when pigs can fly__ At a point in time that will never come to pass. (Used to show skepticism or cynicism over some hypothetical situation or outcome.)  
 __where to draw the line__  
 __whip out__  
+__willy-nilly__  
 __yup__  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
 __zero in__ :two::hammer:  
