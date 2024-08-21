@@ -20,6 +20,7 @@ I collect words and expressions from multiple written sources, including:
   - Learning from [_Widespread Panic_](https://greensdictofslang.com/sources/11069) (2021), by James Ellroy
 - Posts by [Susan Rooks (The Grammar Goddess)](https://www.linkedin.com/in/susanrooks-the-grammar-goddess/)
 - Posts by [Sara Rosinsky](https://www.linkedin.com/in/sararosinsky/)
+- [The Free Dictionary](https://www.thefreedictionary.com/), which includes nice stuff like [Nominalization (Creating Nouns)](https://www.thefreedictionary.com/Nominalization-Creating-Nouns.htm)
 
 ### Audio Resources
 
