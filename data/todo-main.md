@@ -1,3 +1,66 @@
+__ontic__ _adj_ /ON-tik/ [:scroll: From Greek onto (being)] Having or relating to a real existence.  +
+__ossify__ _v_ /AH-suh-fye/ In general contexts, something that ossifies becomes hardened or conventional and opposed to change. In medical contexts, something that ossifies (such as cartilage) forms or is transformed into bone.  +
+__anodyne__ _adj_ Capable of soothing or eliminating pain. _Syn_ analgesic, analgetic  +
+__propensity__ _n_ /pruh-PENN-suh-tee/ A _propensity_ is a strong natural tendency to do something.  +
+__splendiferous__ _adj_ /splɛnˈdɪfərəs/ [:scroll: From Latin splendor (brilliance) + -fer (bearing)] _facetious_ Grand; splendid: _a really splendiferous meal._  +
+__scathing__ _adj_ Bitterly denunciatory; harshly critical. _Syn_ vituperative  +
+__lethargic__ _adj_ /luh-THAHR-jik/ _Lethargic_ describes people who feel a lack of energy or a lack of interest in doing things. It is sometimes used figuratively, as in “a sluggish and lethargic economy.”  +
+__evanescent__ _adj_ /e-vuh-NES-uhnt/ Fading quickly; transitory.   +
+__pathos__ _n_ A quality, as of an experience or a work of art, that arouses feelings of pity, sympathy, tenderness, or sorrow. _Syn_ poignancy  +
+__impugn__ _v_ /im-PYOON/ To impugn something, such as a person's integrity, judgment, etc., is to attack or oppose it as false or lacking integrity.  +
+__superannuated__ _adj_ Retired or ineffective because of advanced age. _Syn_ over-the-hill, overaged  +
+__comment period__ _n_ A “comment period” is a designated timeframe during which members of the public, stakeholders, or interested parties are invited to provide feedback, opinions, or suggestions on a proposed rule, regulation, policy, or decision. This process is commonly used by government agencies, organizations, or regulatory bodies to gather input before finalizing a decision or implementing a new policy.  +
+__estaminet__ /ɛs ta miˈnɛ/ A small café, bar, or bistro, esp a shabby one.  +
+__scab__ _n_ __3a__ A contemptible person. __b__ A worker who refuses to join a labor union; a union member who refuses to strike or returns to work before a strike has ended; a worker who accepts employment or replaces a union worker during a strike; one who works for less than union wages or on nonunion terms.  +
+__mpox__ _n_ (formerly called _monkey pox_) A zoonotic disease especially of central and western Africa that is caused by a poxvirus.  +
+__Perseid__ _n_ /ˈpɜːsɪɪd/ (Celestial Objects) Any member of a meteor shower occurring annually around August 12th and appearing to radiate from a point in the constellation Perseus.  +
+__demure__ _adj_ /dɪˈmyʊər/ __1__ Characterized by shyness and modesty; reserved. __2__ Affectedly or coyly decorous or sedate.  +
+__preponderance__ _n_ A superiority in numbers or amount. _Syn_ prevalence, extensiveness _The preponderance of the evidence strongly supports his guilt._  +
+__copious__ _adj_ /KOH-pee-us/ _Copious_ is a synonym of abundant and plentiful. It is always used before a noun to describe something very large in amount or number.  +
+__tchotchke__ _n_ /CHAHCH-kuh/ _Tchotchke_ refers to a small object used for decoration. It's a synonym of knickknack and trinket.  +
+__topophilia__ _n_ _Psychology_ The love of or emotional connections with place or physical environment.  +
+__repose__ _n_ The act of resting or the state of being at rest. _Syn_ ease, relaxation, rest _The vacationer took his repose beside the swimming pool._  +
+__encumber__ _v_ :dart: /in-KUM-ber/ Someone or something that is encumbered is burdened or weighed down (as in “tourists encumbered by heavy luggage”) or hindered (as in “negotiations encumbered by a lack of trust”).  +
+__fervent__ _adj_ Having or showing great emotion or zeal. _Syn_ ardent, fervid, fiery, impassioned, perfervid, torrid  +
+__gadabout__ _n_ /GAD-uh-bout/ A gadabout is a person who flits about in social activity, as by going to many places and social events for pleasure.  +
+__semelparous__ _adj_ [:scroll: From Latin semel (once) + -parous (producing)] /se-MEL-puh-ruhs/ Reproducing only once in a lifetime.  +
+__labyrinthine__ _adj_ Resembling a labyrinth in form or complexity. _Syn_ mazy  +
+__sentient__ _adj_ :mega: /SEN-shee-unt/ /ˈsɛntɪənt/ Sentient is a formal term that typically describes beings conscious of or responsive to the sensations of seeing, hearing, feeling, tasting, or smelling.  +
+__bardolatry__ _n_ [:scroll: Coined by George Bernard Shaw from bard (poet) + -latry (worship)] _facetious_ Idolatry or excessive admiration of William Shakespeare.  +
+__brow__ _n_ The projecting upper edge of a steep place. _Syn_ top, summit, peak, edge, tip, crown, verge, brink, rim, crest, brim  +
+__grawlix__ _n_ :dart: /GRAW-liks/ A series of special characters, such as “@#$%&*,” that are used to indicate either miscellaneous text, or more commonly, swear words. The term is attributed to Mort Walker, an American cartoonist known for his Beetle Bailey comic strip.  +
+__iota__ _n_ /eye-OH-tuh/ An _iota_ is an infinitesimal amount of something. The word _iota_ is used synonymously with the etymologically related _jot_, and by its oldest definition refers to the 9th letter of the Greek alphabet.  +
+__jot<sup>1</sup>__ _n_ :dart: /dʒɒt/ The smallest bit; iota. _(used with a negative)_ A little bit (in phrases such as _not to care (or give) a jot_). +
+__jot<sup>2</sup>__ _vt_  +
+__unabashed__ _adj_ Not disconcerted or embarrassed; poised. _Syn_ unembarrassed  +
+__audacity__ _n_ :dart: Fearless daring; intrepidity. _Syn_ temerity  +
+__vitiate__ _v_ :sart: /VISH-ee-ayt/ To _vitiate_ something is to ruin it or render it ineffective. _A single inaccuracy in the spreadsheet that supported the data vitiated the entire proposal._  +
+__third state__ _n_ The third of the traditional social classes; the common people. _Syn commons  +
+__wedge__ _vt_ __1__ 1. To split or force apart with or as if with a wedge: _wedged the board away from the stud; neighbors who were wedged apart by a dispute._  +
+__durable__ _adj_ /DUR-uh-bul/ _Durable_ describes people or things that last, or remain strong and in good condition over a long period of time. It is often used figuratively, as in “a durable athlete.”  +
+__immiseration__ _n_ /i-miz-uh-RAY-shuhn/ __1__ The act of making miserable or the state of being made miserable. __2__ Impoverishment.  +
+__acumen__ _n_ /AK-yoo-mun/ _Acumen_ refers to keenness and depth of perception, discernment, or discrimination—in other words, the ability to think clearly and make good decisions, especially in practical matters.  +
+__farsighted__ _adj_ Planning prudently for the future. _Syn_ foresighted, long, longsighted, prospicient  +
+```
+
+‌
+
+## 🚧Add idioms from dictionaries
+
+```text
+__lay (one’s) life on the line__ To put oneself in harm’s way (to achieve something), especially at the risk of losing one’s life. (Sometimes used hyperbolically.) _It’s important to honor the men and women in the military, who lay their lives on the line every day defending our country._  +
+__lay the groundwork (for something)__ To create or prepare the basics or essential foundation (for something); to pave the way (for something). _Our success with this healthcare bill wouldn’t be possible, had the previous administration not laid the groundwork already._  +
+__lay (something) at the feet of (someone)__ To make or hold someone, especially a group of people, responsible for something. _With every other department losing money each year, the managers have laid the company’s success at the feet of our team._  +
+__lay (oneself) out__ To put in a great deal of effort; to inconvenience oneself or go through a lot of trouble. _I don’t know why I always lay myself out to impress your parents—they never appreciate what I do anyway._  +
+__laughing in the aisles__ Laughing uproariously or hysterically. (Used especially in the phrase “have someone laughing in the aisles.”) _Your jokes are perfect for your speech tonight. You’ll have them laughing in the aisles!_  +
+__laugh in (one’s) sleeve__ To rejoice or be amused secretly and contemptuously, as at another’s mistakes or misfortunes. _Though feigning sympathy, my colleagues are all laughing in their sleeves at me for being stood up at the altar by my fiancée._ _I know it’s mean-spirited, but I can’t help but laugh in my sleeve when I see someone slip on the icy streets._  +
+__late model__ Especially regarding an automobile, of a relatively recent design or model. _After I got my promotion, I decided to trade in my clunky old Volkswagen for a snazzy, late model sedan._  +
+__latchkey kid__ A child who is home alone after school or in general because their parents or guardians are at work. _I know it makes me sound horrible, but I just don’t want Tommy hanging out with those latchkey kids from down the road._  +
+__the last thing (one) wants__ Something which one absolutely does not want or has no use for. _The last thing I want right now is a lengthy court battle, so let’s try and get through this divorce as painlessly as possible._  +
+__(one’s) final resting place__ The location where one’s body is interred after death.  +
+__be (one’s) last resort__ To be the only remaining option that may help one or be of any use after all other options have been exhausted. _I didn’t really want to ask Mr. Stadler to write my college recommendation, but he’s my last resort at this point._  +
+__the last of the lot__ The last or final person(s) or thing(s) in a given group or list. _This package is the last of the lot. Once we get this shipped, we can call it a day._  +
+__last-minute__ (used before a noun) Done at the very last possible moment or opportunity. _In an attempt to avoid a government shutdown, congress has pushed forward a last-minute spending bill._  +
 __biddy__ _n_ /ˈbɪdɪ/ __1__ A dialect word for chicken, hen. __2__ _informal offensive_ A woman, esp an old gossipy or interfering one.  
 __byword__ _n_ _Syn_ adage, aphorism, maxim, motto, proverb, saw, saying  
 __ceasefire__ _n_  
