@@ -41,27 +41,7 @@ __durable__ _adj_ /DUR-uh-bul/ _Durable_ describes people or things that last, o
 __immiseration__ _n_ /i-miz-uh-RAY-shuhn/ __1__ The act of making miserable or the state of being made miserable. __2__ Impoverishment.  +
 __acumen__ _n_ /AK-yoo-mun/ _Acumen_ refers to keenness and depth of perception, discernment, or discrimination—in other words, the ability to think clearly and make good decisions, especially in practical matters.  +
 __farsighted__ _adj_ Planning prudently for the future. _Syn_ foresighted, long, longsighted, prospicient  +
-```
-
-‌
-
-## 🚧Add idioms from dictionaries
-
-```text
-__lay (one’s) life on the line__ To put oneself in harm’s way (to achieve something), especially at the risk of losing one’s life. (Sometimes used hyperbolically.) _It’s important to honor the men and women in the military, who lay their lives on the line every day defending our country._  +
-__lay the groundwork (for something)__ To create or prepare the basics or essential foundation (for something); to pave the way (for something). _Our success with this healthcare bill wouldn’t be possible, had the previous administration not laid the groundwork already._  +
-__lay (something) at the feet of (someone)__ To make or hold someone, especially a group of people, responsible for something. _With every other department losing money each year, the managers have laid the company’s success at the feet of our team._  +
-__lay (oneself) out__ To put in a great deal of effort; to inconvenience oneself or go through a lot of trouble. _I don’t know why I always lay myself out to impress your parents—they never appreciate what I do anyway._  +
-__laughing in the aisles__ Laughing uproariously or hysterically. (Used especially in the phrase “have someone laughing in the aisles.”) _Your jokes are perfect for your speech tonight. You’ll have them laughing in the aisles!_  +
-__laugh in (one’s) sleeve__ To rejoice or be amused secretly and contemptuously, as at another’s mistakes or misfortunes. _Though feigning sympathy, my colleagues are all laughing in their sleeves at me for being stood up at the altar by my fiancée._ _I know it’s mean-spirited, but I can’t help but laugh in my sleeve when I see someone slip on the icy streets._  +
-__late model__ Especially regarding an automobile, of a relatively recent design or model. _After I got my promotion, I decided to trade in my clunky old Volkswagen for a snazzy, late model sedan._  +
-__latchkey kid__ A child who is home alone after school or in general because their parents or guardians are at work. _I know it makes me sound horrible, but I just don’t want Tommy hanging out with those latchkey kids from down the road._  +
-__the last thing (one) wants__ Something which one absolutely does not want or has no use for. _The last thing I want right now is a lengthy court battle, so let’s try and get through this divorce as painlessly as possible._  +
-__(one’s) final resting place__ The location where one’s body is interred after death.  +
-__be (one’s) last resort__ To be the only remaining option that may help one or be of any use after all other options have been exhausted. _I didn’t really want to ask Mr. Stadler to write my college recommendation, but he’s my last resort at this point._  +
-__the last of the lot__ The last or final person(s) or thing(s) in a given group or list. _This package is the last of the lot. Once we get this shipped, we can call it a day._  +
-__last-minute__ (used before a noun) Done at the very last possible moment or opportunity. _In an attempt to avoid a government shutdown, congress has pushed forward a last-minute spending bill._  +
-__biddy__ _n_ /ˈbɪdɪ/ __1__ A dialect word for chicken, hen. __2__ _informal offensive_ A woman, esp an old gossipy or interfering one.  
+__biddy__ _n_ /ˈbɪdɪ/ __1__ A dialect word for chicken, hen.  __2__ _informal offensive_ A woman, esp an old gossipy or interfering one.  
 __byword__ _n_ _Syn_ adage, aphorism, maxim, motto, proverb, saw, saying  
 __ceasefire__ _n_  
 __chute__ _n_  
