@@ -16304,14 +16304,14 @@ __sarcophagus__ _n_ :two: A stone coffin, often inscribed or decorated with scul
 __sardonic__ _adj_ :two: Scornfully or cynically mocking. Characterized by bitter or scornful derision; mocking; sneering; cynical. _Syn_ wry _He continued to grin with a sardonic humor, with a cynical mockery and defiance._  
 __sari__ _n_ /ˈsɑːrɪ/ (saree) An Indian or Pakistani women’s garment consisting of a length of cloth wrapped around the waist like a skirt then draped over the shoulder and sometimes the head.  
 __sarsaparilla__ _n_  
-__sartorial__ _adj_ :two::hammer:  
+__sartorial__ _adj_ :three::hammer:  
 __sash__ _n_ :six::hammer: (sashes) :es: banda _A sash cord._ _A sash window._  
 __sashay__ _vi_ :seven: /sa-SHAY/ (sashayed) To sashay is to proudly walk in a slow, confident way that is meant to attract attention. _Sashay_ can also mean simply “to walk, glide, or go,” or “to proceed or move in a diagonal or sideways manner.” In contexts involving dance, sashay means “to make a chassé,” which is a dance step in which a slide on one foot is followed closely by a slide on the other foot. To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house._  
 __sashimi__ _n_ :two::hammer:  
 __sass__ _v_ (sassed)  
 __sassy__ _adj_ :four: /ˈsæsɪ/ _informal US_ Insolent, impertinent.  
 __satays__ _n_  
-__satchel__ _n_ :two::hammer:  
+__satchel__ _n_ :three::hammer:  
 __sate__ _vt_ :three::hammer: (sated) _Sate your appetite._  
 __satiate__ _v_ /SAY-shee-ayt/ Satiate is a formal word that means “to satisfy (something, such as a need or desire) fully.”  
 __satire__ _n_ :two: Satire is using humor to criticize public figures. Example: When Senator Jackson said “numbers don’t lie,” he forgot that his first name wasn’t “Numbers.”  
@@ -16347,6 +16347,7 @@ __savior__
 __savoir-faire__ _n_ The ability to say or do the right or graceful thing. _Syn_ diplomacy, discretion, finesse, poise, tact, urbanity _While greeting the prince in the ballroom, I stumbled over my words, but my sister-with all her savoir-faire-knew just what to say._  
 __savor__ _v_ :two::hammer: _I was savoring the moment._  
 __savory__ _adj_ :two::hammer: _Savory menu items._  
+__savoy__ _n_ (food)  
 __savvy<sup>1</sup>__ _v_ :three: Via pidgin and/or creole language(s), from Portuguese and/or Spanish sabe, from Latin sapere (to be wise). To understand or know. _The agency’s Denver office sent Siringo, who savvied some Spanish, to Santa Fe._  
 __savvy<sup>2</sup>__ _n_ :two: Know-how, practical knowledge, or shrewdness.  
 __savvy<sup>3</sup>__ _adj_ :three: Shrewd or knowledgeable, especially in practical matters. _Savvy travelers._  
@@ -16360,7 +16361,7 @@ __sawyer__ _n_ :astonished:
 __say the world__  
 __saying__ _n_ :two::hammer:  
 __sboutout__ _n_ _informal_ A public greeting, esp one broadcast via television or radio. _A belated shoutout to Dave for his recent contribution to the museum._  
-__scab__ _n_ :two::hammer: :es: costra  
+__scab__ _n_ :three::hammer: :es: costra __3a__ A contemptible person. __b__ A worker who refuses to join a labor union; a union member who refuses to strike or returns to work before a strike has ended; a worker who accepts employment or replaces a union worker during a strike; one who works for less than union wages or on nonunion terms.  
 __scabbard__ _n_ :eight: /ˈskæb ərd/ A sheath for a sword, dagger, or bayonet. :es: vaina  
 __scabby__ _adj_ :two: __1__ Having scabs. __2__ Mean or contemptible.  
 __scabies__  
@@ -16405,7 +16406,7 @@ __scarper__ _n_ A hasty departure.
 __scat__ _v_  
 __scathe__ _v_ (scathing) __1__ To attack with severe criticism. __2__ To injure, as by scorching.  
 __scatheless__ _adj_ _A remarkably scatheless record._  
-__scathing__ _adj_ :nine::m: Bitterly severe. _His scathing indictment of Congress._ :es: mordaz; feroz  
+__scathing__ _adj_ :nine::m: Bitterly severe. Bitterly denunciatory; harshly critical. _Syn_ vituperative _His scathing indictment of Congress._ :es: mordaz; feroz  
 __scatterbrained__ _adj_ :four: /ˈskætəˌbreɪnd/ Exhibiting or characterized by lack of serious thought or concentration; disorganized; silly.  
 __scattergood__ _n_ :four: /SKAT-uhr-good/ One who spends wastefully. Someone who spends money prodigally. _Syn_ spendthrift _I prefer to think of myself not as a scattergood but as a collector of rare designer shoes and handbags._  
 __scattershot__ _adj_ :two::hammer:  
@@ -16441,7 +16442,7 @@ __schnitzel__ _n_ :es: escalope
 __scholar__ _n_ :two::hammer: _Legal scholar._  
 __school > charter school__  
 __school desk__  
-__school of thought__  
+__school of thought_ _:two::hammer:  
 __school<sup>1</sup>__ _n_ :three::mute:[sc~~h~~ool]:hammer: _A school of fish._ _Flocks, herds, and schools._  
 __school<sup>2</sup>__ _vt_ _She schooled her face into careful neutrality._  
 __schoolcharm__  
@@ -16484,7 +16485,7 @@ __scorn<sup>1</sup>__ _n_ :three::hammer:
 __scorn<sup>2</sup>__ _v_ (scorned)  
 __scotch__ _n_ :astonished: __2__ (Games, other than specified) A line marked down, as for hopscotch.  
 __Scotland Yard__ _n_  
-__Scots__ _adj, n_ :two::hammer::pencil2: _Scots accent._  
+__Scots__ _adj, n_ :three::hammer::pencil2: _Scots accent._  
 __scoundrel__ _n_ :three::hammer: _Those scoundrel disks._  
 __scour__ _v_ :nine::m: /skour, skaʊər, ˈskaʊ ər/ /SKOW-er/ __1a__ To clean, polish, or wash by scrubbing vigorously: _scour a dirty oven._ __b__ To remove by scrubbing: _scour grease from a pan._ __2__ To remove dirt or grease from (cloth or fibers) by means of a detergent. __3__ To clean (wheat) before the milling process. __4__ To clear (an area) by freeing of weeds or other vegetation. __5__ To clear (a channel or pipe) by flushing. __6__ :dart: Search thoroughly. Scour means “to search (something) carefully and thoroughly.” Scouring is usually associated with moving quickly. _We retraced our steps and scoured the hiking trail for the missing wedding ring._ _He invests hours scouring film._ __7__ To range over (an area) quickly and energetically.  
 __scourer__ _n_ :es: estropajo  
@@ -16696,7 +16697,7 @@ __self-deprecating__
 __self-destruct<sup>1</sup>__ _vi_ To destroy itself or oneself.  
 __self-destruct<sup>2</sup>__ _adj_ Causing something to self-destruct.  
 __self-doubt__ _n_ A lack of faith or confidence in oneself.  
-__self-effacing__ _adj_ :five::astonished: Tending to make oneself, one’s actions, etc, inconspicuous, esp because of humility or timidity; modest.  
+__self-effacing__ _adj_ :dart::six::astonished: Tending to make oneself, one’s actions, etc, inconspicuous, esp because of humility or timidity; modest. Reluctant to draw attention to yourself. _Syn_ reticent, retiring  
 __self-esteem__ _n_  
 __self-explanatory__ _adj_  
 __self-fulfilling__ _adj_ :five::hammer: _Self-fulfilling prophecy._  
@@ -16717,6 +16718,7 @@ __sellout__ _n_ (sold out, sellouts) :three::hammer: _There have been no sellout
 __sellsworth__ _n_  
 __seltzer__ _n_ __1__ A natural effervescent spring water of high mineral content. __2__ A similar synthetic water, used as a beverage.  
 __semblance__ _n_ _The semblance of peace._  
+__semelparous__ _adj_ [:scroll: From Latin semel (once) + -parous (producing)] /se-MEL-puh-ruhs/ Reproducing only once in a lifetime.  
 __semester__ _n_ A semester is half of a school year. In September of your first year of high school, you could describe yourself as “a first-semester freshman.” The noun semester comes up often when you’re in high school and college. It’s an easy way to divide the school year, into two equal halves, or semesters. Sometimes a class lasts for the whole year, and sometimes for just one semester. Occasionally schools split the year into three trimesters just to make things interesting. Originally, semester meant “six months,” from the Latin root of the same meaning, semestris.  
 __semi__ _n_ _informal_ __1a__ A semitrailer. __b__ A tractor-trailer.  
 __semi-final__ _n_ :pencil2:  
@@ -16743,7 +16745,7 @@ __sensitivity__ _n_ The ability of a test to correctly identify patients with a 
 __sentence__ _n_ _A sentence of judges._  
 __sententious__ _adj_ :two: Concise and full of meaning. _Syn_ pithy _He was a man of few words, but when he did speak, his sententious statements struck at the very heart of the matter._  
 __sentience__  
-__sentient__ _adj_ :nine: Endowed with feeling and unstructured consciousness. _Syn_ animate _The living knew themselves just sentient puppets on God’s stage._  
+__sentient__ _adj_ :nine::m::mega: /SEN-shee-unt/ /ˈsɛntɪənt/ _Sentient_ is a formal term that typically describes beings conscious of or responsive to the sensations of seeing, hearing, feeling, tasting, or smelling. Endowed with feeling and unstructured consciousness. _Syn_ animate _The living knew themselves just sentient puppets on God’s stage._  
 __sentiment__ _n_ :two::hammer: _A sentiment which I heartily applaud._  
 __sentry__ _n_ (sentries)  
 __separate__ _adj_ :two::hammer:  
@@ -17209,15 +17211,16 @@ __simpatico__ _adj_ :two::hammer:
 __simper<sup>1</sup>__ _n_ :two: A simpering smile; smirk.  
 __simper<sup>2</sup>__ _v_ :two: __1__ _intr_ To smile coyly, affectedly, or in a silly self-conscious way. __2__ _tr_ To utter (something) in a simpering manner.  
 __Simple Simon__ _n_ /SIM-puhl SYM-uhn/ [:scroll: After Simple Simon, a foolish boy in a nursery rhyme.] A simpleton.  
+__simpleton__ _n_  
 __simulacrum__ _n_ :two: /sim-yuh-LAK-rum/ A superficial likeness or representation of something. _The wax figure is a perfect simulacrum of the president._  
 __simulcast__  
 __Sin City__ _n_ Urban area (a city or part of) that caters to various vices. These vices may be legal (depending on area) or illegal activities which are tolerated. Cities or areas that have this reputation include, in the US: Las Vegas, NV, and Reno, NV.  
 __Sinai__ _n_ (Mount Sinai) :mega:  
 __since forever__  
 __since__ _adv_ __1__ From then until now or between then and now. _They left town and haven’t been here since._ _The two Senators have since denied knowing Kev._ __2__ Before now; ago: _a name long since forgotten._ __3__ After some point in the past; at a subsequent time. _My friend has since married and moved to California._  
-__sine die__ _adv_ :three: [Medieval Latin : Latin sine, _without_ + Latin diē, ablative of diēs, _day_.] Without a day specified for a future meeting; indefinitely: _Parliament was dismissed sine die._  
+__sine die__ _adv_ :four: [Medieval Latin : Latin sine, _without_ + Latin diē, ablative of diēs, _day_.] Without a day specified for a future meeting; indefinitely: _Parliament was dismissed sine die._  
 __sine qua non__ _n_ :two: An essential element or condition. _“The perfect cake is the sine qua non of the carefully planned modern wedding” (J.M. Hilary)._  
-__sinecure__ _n_ :three: /SYE-nih-kyoor/ Sinecure is a noun that refers to a usually paid job or position that requires little or no work. A position or office that requires little or no work but provides a salary. _The king was in the habit of rewarding his loyal supporters with sinecures._  
+__sinecure__ _n_ :four: /SYE-nih-kyoor/ Sinecure is a noun that refers to a usually paid job or position that requires little or no work. A position or office that requires little or no work but provides a salary. _The king was in the habit of rewarding his loyal supporters with sinecures._  
 __sinergy__ _n_ (sinergies)  
 __sinew__ _n_ :eight::hammer: (sinews)  
 __sinewy__ _adj_ :five::hammer: _A sinewy man._  
@@ -17228,6 +17231,7 @@ __sing-along__ _n_
 __Singapore__ _n_ /ˈsɪŋ gəˌpɔr, -ˌpoʊr, ˈsɪŋ ə-/ [:scroll: From Malay _Singapora_, “Lion-city.”]  
 __singe__ _v_ :pencil2::three::hammer: (singed)  
 __single out__ _v_ :three: To select one from a group and treat differently.  
+__single-handed__  
 __single-handedly__ _adv_ :dart::two: Without assistance.  
 __single-jab__ _adj_ _Single-jab vaccine._  
 __single-minded__ _adj_ Steadfast; resolute. _Syn_ resolved  
@@ -17237,6 +17241,7 @@ __singlet__ _n_ :two: A collarless men’s undergarment for the upper part of th
 __singletree__ _n_ The pivoted horizontal crossbar to which the harness traces of a draft animal are attached and which is in turn attached to a vehicle or an implement. Also called regionally _whiffletree_, _whippletree_. _Singletree plow._  
 __singsong<sup>1</sup>__ _adj_ _Singsong cantillation._  
 __singsong<sup>2</sup>__ _n_ :two::hammer:  
+__singsongy__ _adj_  
 __sinister__  
 __sinistrality__ _n_ The condition of being left-handed.  
 __sinkhole__ _n_ :two::hammer:  
@@ -17262,11 +17267,12 @@ __sitting room__ _n_
 __sitting<sup>1</sup>__ _n_ :three: __1__ The act or position of one that sits. __2__ A period during which one is seated and occupied with a single activity, such as posing for a portrait or reading a book. _I watched all the episodes in just one sitting._ __3__ A session or term, as of a legislature or court.  
 __sitting<sup>2</sup>__ _adj_ :four: In office or actual possession. _The sitting U.S. president._ _Sitting members of parliment._  
 __situated__ _adj_ Having a place or location. _Syn_ located, placed, set  
+__Situation Room__ _n_ (John F. Kennedy Conference Room)  
 __situation__ _n_ :five::hammer: _Sorry guys, we have a situation here._ _We’ve got a situation in there!_  
 __Six-Day War__ _n_  
 __six-figure__ _adj_  
 __sixth man__ _n_ A player in basketball who is regularly used as the first of a team’s substitutes in a game.  
-__sizable__ _adj_ :two: Of considerable size; fairly large. _Clinton’s sizable lead._  
+__sizable__ _adj_ :astonished::three: Of considerable size; fairly large. _Clinton’s sizable lead._  
 __sizzle<sup>1</sup>__ _v_ :six::hammer: _Rihanna sizzled when she performed in New York._ _Sizzling burgers/soups._  
 __sizzle<sup>2</sup>__ _n_ :five: _Filming a “sizzle reel.”_  
 __sizzling__ _adj_ :three: __1__ Exciting and intensely emotional. _The sizzling singer._ __2__ Hot enough to make a hissing sound. __3__ Brought to the table in the metal dish it has been cooked in, making such a sound.  
@@ -17285,7 +17291,7 @@ __skeptic__ _adj_ :pencil2:
 __sketch__ _v_ _Let us briefly sketch its major challenges._  
 __sketchy__  
 __skewer<sup>1</sup>__ _n_ _Skewers of meats, vegetables, and fruits._  
-__skewer<sup>2</sup>__ _v_ :three::astonished::hammer:  
+__skewer<sup>2</sup>__ _vt_ :four::astonished::hammer: __2__ To ridicule or criticize harshly: _a reviewer who skewered the tedious movie._  
 __skews__ _v_  
 __ski jump__ _n_  
 __ski-in/ski-out resort__ _n_ :two: A ski-in ski-out resort is basically one that borders a mountain. It’s where skiers are able to ski in and out of the resort without having to use any form of transportation.  
@@ -17307,7 +17313,7 @@ __skin__ _vt_ _He skinned his knee and started to cry._
 __skinflint__ _n_ :three: One who is very reluctant to spend money; a miser. A selfish person who is unwilling to give or spend. _Syn_ scrooge, churl, niggard  
 __skinner__ _n_ :dart::two: __2__ A person who prepares or deals in skins or hides. __3__ A person who drives draft animals, as mules. _A resting place for mule skinners guiding packtrains._  
 __skip stones__ _v_ (skip rocks) To throw smooth flat stones into a lake, river etc in a way that makes them jump across the surface. _Alafair was skipping stones across the water into a cypress stump._  
-__skipper__ _n_ :two::hammer:  
+__skipper__ _n_ :three::hammer:  
 __skips__ _n_ :two::hammer: _One of the skips yelled._  
 __skirmish<sup>1</sup>__ _n_ :five::hammer: (skirmishes)  
 __skirmish<sup>2</sup>__ _v_ :two::hammer:  
@@ -17317,7 +17323,7 @@ __skit__ _n_ :five::hammer: _Skit theater._
 __skitter__ _v_ :eight::hammer: (skittered, skittering) _Neymar’s kick skittered through the hands of the goalkeeper._ _The brittle down leaves of fall skittering down an alley in a gust of wind._  
 __skittish__ _adj_ :nine::m: (skittishness) __1__ _(of an animal, especially a horse)_ Nervous or excitable; easily scared. _A skittish chestnut mare._ _Syn_ restive, excitable, nervous, easily frightened :es: asustadizo __2__ _(of a person)_ Playfully frivolous or unpredictable. _My skittish and immature mother._ _Syn_ playful, lively, high-spirited, frisky :es: frívolo  
 __skivvies__ _n_ :six: (Skivvies: A trademark for underwear.) Men’s underwear consisting of cotton T-shirt and shorts.  
-__skivvy__ _n_ :two: A female domestic servant who does all kinds of menial work.  
+__skivvy__ _n_ :three: __1__ _chiefly often derogatory Brit_ A servant, esp a female, who does menial work of all kinds; drudge. A female domestic servant who does all kinds of menial work. __2__ (Clothing & Fashion) _slang chiefly US_ A man’s T-shirt or vest. __3__ (Clothing & Fashion) (plural) _slang chiefly US_ Men’s underwear.  
 __skosh__ _n_ _slang_ [:scroll: Skosh comes from the Japanese _sukoshi_, which means “a little bit.”] A small amount; a bit.  
 __skulduggery__ _n_ _informal_ :two: (skullduggery) Underhand dealing; trickery.  
 __skulk__ _v_ :five: /SKULK/ To skulk is to move around or hide in a stealthy or secretive way. A person or animal that is said to be _skulking_ is often assumed or considered to be up to some form of wrongdoing or mischief. _Jessica makes both friends and enemies skulking around in the night._  
@@ -17377,7 +17383,7 @@ __slay__ _v_ ;two::hammer: (slain) JFK was slain.
 __slayer__ _n_ :two: Someone who causes the death of a person or animal.  
 __sleazebag__  
 __sleaziest__  
-__sleazy__ _adj_ :nine::m: _(disapproving)_ __1__ A sleazy place is dirty, cheap, or in bad condition: _sleazy bars._ __2__ Relating to sex or dishonest behavior: _a sleazy lawyer._  
+__sleazy__ _adj_ :dart::nine::m: _(disapproving)_ __1a__ Shabby, dirty, and vulgar; tawdry: _“sleazy storefronts with torn industrial carpeting and dirt on the walls.” (Seattle Weekly)._ A sleazy place is dirty, cheap, or in bad condition: _sleazy bars._ __b__ :dart: Dishonest or corrupt; disreputable: _Some sleazy characters hang around casinos._ __2__ Relating to sex or dishonest behavior: _a sleazy lawyer._  
 __sled__ _n_ :two::hammer:  
 __sledge__ _n_ :three: __1__ A vehicle mounted on runners and pulled by horses or dogs; for transportation over snow. _Syn_ sled, sleigh _Sledges packed with gear._ _The towing sledge._ __2__ A heavy long-handled hammer used to drive stakes or wedges. _Syn_ maul, sledgehammer  
 __sleek__ _adj_ :four::hammer: _A sleek shopping center._  
@@ -17419,7 +17425,7 @@ __slim jim__ _n_ :two::hammer: (slim-jim) _Souza used a slim jim to pop the pass
 __slim__ _adj_ _The chances are pretty slim._  
 __slime__ _n_ :two::hammer:  
 __sliminess__  
-__slimy__ _adj_ _Slimy sales techniques._  
+__slimy__ _adj_ :two::hammer: /slaɪmɪ/ _Slimy sales techniques._  
 __sling<sup>1</sup>__ _n_ :four::hammer: _The sling for his dislocated shoulder._  
 __sling<sup>2</sup>__ _v_ :two: (slung) To throw or drop something carelessly. _His nose broke and slung a string of blood across his shoulder._  
 __slinger__  
@@ -17460,7 +17466,7 @@ __slosh__ _v_ :nine::m: (sloshed, sloshing) __1__ _(of liquid in a container)_ M
 __sloshed__ _adj_  
 __slot machine__ _n_  
 __sloth__ _n_ :seven: __1__ Aversion to work or exertion; laziness; indolence. _The winter sloth._ __2__ Apathy and inactivity in the practice of virtue (personified as one of the deadly sins).  
-__slothful__ _adj_  
+__slothful__ _adj_ :two::hammer:  
 __slouch<sup>1</sup>__ _n_ :five::hammer: _De Coubertin was no slouch._ _Slouch hat._  
 __slouch<sup>2</sup>__ _v_ :four::hammer: (slouching)  
 __slouchy__  

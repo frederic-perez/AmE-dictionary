@@ -198,31 +198,6 @@ __ruse__ _n_ _Syn_ wile
 __salacious__ _adj_ :three::hammer:  
 __salutary__  
 __sanctimonious__ _adj_ :two: /sank-tuh-MOH-nee-us/ Someone described as sanctimonious behaves as though they are morally superior to others. Language or behavior that suggests the same kind of moral superiority can also be described as sanctimonious. Feigning piety or righteousness. _Syn_ holier-than-thou, pharisaic, pietistic, self-righteous  
-__sartorial__  
-__satchel__ _n_  
-__savoy__ _n_ (food)  
-__scab__ _n_ __3a__ A contemptible person. __b__ A worker who refuses to join a labor union; a union member who refuses to strike or returns to work before a strike has ended; a worker who accepts employment or replaces a union worker during a strike; one who works for less than union wages or on nonunion terms.  
-__scathing__ _adj_ Bitterly denunciatory; harshly critical. _Syn_ vituperative  
-__school of thought__  
-__Scots__ _adj, n_ :pencil2:  
-__self-effacing__ _adj_ :dart: Tending to make oneself, one’s actions, etc, inconspicuous, esp because of humility or timidity; modest. Reluctant to draw attention to yourself. _Syn_ reticent, retiring  
-__semelparous__ _adj_ [:scroll: From Latin semel (once) + -parous (producing)] /se-MEL-puh-ruhs/ Reproducing only once in a lifetime.  
-__sentient__ _adj_ :mega: /SEN-shee-unt/ /ˈsɛntɪənt/ Sentient is a formal term that typically describes beings conscious of or responsive to the sensations of seeing, hearing, feeling, tasting, or smelling.  
-__simpleton__ _n_  
-__sine die__  
-__sinecure__ _n_  
-__single-handed__  
-__singsongy__ _adj_  
-__Situation Room__ _n_ (John F. Kennedy Conference Room)  
-__sizable__ _adj_ :astonished: Of considerable size; fairly large.  
-__skewer__ _vt_ __2__ To ridicule or criticize harshly: _a reviewer who skewered the tedious movie._  
-__skipper__ _n_  
-__skittish__ _adj_  
-__skivvy__ _n_ __1__ _chiefly often derogatory Brit_ A servant, esp a female, who does menial work of all kinds; drudge. __2__ (Clothing & Fashion) _slang chiefly US_ A man’s T-shirt or vest. __3__ (Clothing & Fashion) (plural) _slang chiefly US_ Men’s underwear.  
-__sleazy__ _adj_ :dart: __1b__ Dishonest or corrupt; disreputable: _Some sleazy characters hang around casinos._  
-__slimy__ _adj_ /slaɪmɪ/  
-__slosh__ _v_  
-__slothful__ _adj_  
 __smell-feast__ _n_ _archaic_ One given to finding out and getting invited to good feasts. _Syn_ parasite, sponger  
 __smitten__ _adj_  
 __splendiferous__ _adj_ /splɛnˈdɪfərəs/ [:scroll: From Latin splendor (brilliance) + -fer (bearing)] _facetious_ Grand; splendid: _a really splendiferous meal._  
