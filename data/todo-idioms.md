@@ -1,17 +1,4 @@
-__laze about__ To relax or spend time idly; to do nothing or very little. _It’s a gorgeous day outside, so you kids get off your butts and quit lazing about!_  +
-__lay (one’s) life on the line__ To put oneself in harm’s way (to achieve something), especially at the risk of losing one’s life. (Sometimes used hyperbolically.) _It’s important to honor the men and women in the military, who lay their lives on the line every day defending our country._  +
-__lay the groundwork (for something)__ To create or prepare the basics or essential foundation (for something); to pave the way (for something). _Our success with this healthcare bill wouldn’t be possible, had the previous administration not laid the groundwork already._  +
-__lay (something) at the feet of (someone)__ To make or hold someone, especially a group of people, responsible for something. _With every other department losing money each year, the managers have laid the company’s success at the feet of our team._  +
-__lay (oneself) out__ To put in a great deal of effort; to inconvenience oneself or go through a lot of trouble. _I don’t know why I always lay myself out to impress your parents—they never appreciate what I do anyway._  +
-__laughing in the aisles__ Laughing uproariously or hysterically. (Used especially in the phrase “have someone laughing in the aisles.”) _Your jokes are perfect for your speech tonight. You’ll have them laughing in the aisles!_  +
-__laugh in (one’s) sleeve__ To rejoice or be amused secretly and contemptuously, as at another’s mistakes or misfortunes. _Though feigning sympathy, my colleagues are all laughing in their sleeves at me for being stood up at the altar by my fiancée._ _I know it’s mean-spirited, but I can’t help but laugh in my sleeve when I see someone slip on the icy streets._  +
-__late model__ Especially regarding an automobile, of a relatively recent design or model. _After I got my promotion, I decided to trade in my clunky old Volkswagen for a snazzy, late model sedan._  +
-__latchkey kid__ A child who is home alone after school or in general because their parents or guardians are at work. _I know it makes me sound horrible, but I just don’t want Tommy hanging out with those latchkey kids from down the road._  +
-__the last thing (one) wants__ Something which one absolutely does not want or has no use for. _The last thing I want right now is a lengthy court battle, so let’s try and get through this divorce as painlessly as possible._  +
-__(one’s) final resting place__ The location where one’s body is interred after death.  +
-__be (one’s) last resort__ To be the only remaining option that may help one or be of any use after all other options have been exhausted. _I didn’t really want to ask Mr. Stadler to write my college recommendation, but he’s my last resort at this point._  +
-__the last of the lot__ The last or final person(s) or thing(s) in a given group or list. _This package is the last of the lot. Once we get this shipped, we can call it a day._  +
-__last-minute__ (used before a noun) Done at the very last possible moment or opportunity. _In an attempt to avoid a government shutdown, congress has pushed forward a last-minute spending bill._  +
+__(one’s) final resting place__ The location where one’s body is interred after death.  
 __(something) won’t get (someone) anywhere__ Something, typically a certain behavior, will not help someone progress or succeed in any way.  
 __a drop in the ocean__ (BrE) (a drop in the bucket (AmE)) If something, especially an amount of money, is _a drop in the ocean_, it is very small in comparison with the amount which is needed or expected.  
 __a kick in the butt__ A forceful gesture or message of some kind (usually delivered with good intentions) that acts as motivation to the (previously unmotivated) recipient. _These days, teenagers seem to need a swift kick in the butt to convince them to do well in school._  
@@ -19,6 +6,7 @@ __a mind of (one’s) own__ A capacity or inclination to think or act independen
 __a walk in the park__  
 __a-ha moment__  
 __bank at__  
+__be (one’s) last resort__ To be the only remaining option that may help one or be of any use after all other options have been exhausted. _I didn’t really want to ask Mr. Stadler to write my college recommendation, but he’s my last resort at this point._  
 __be (someone’s) call__ To be ultimately left up to someone to decide. _I don’t really care what movie we see—it’s your call._  
 __be (the) bomb__ To be excellent, extremely entertaining, or of very high quality. _This steak I ordered is bomb!_ _I’m not usually a fan of action films, but that one was the bomb!_  
 __be not just another pretty face__ To have distinguishing achievements, intelligence, skills, or abilities beyond what was or may have been assumed.  
@@ -234,13 +222,21 @@ __lash out__
 __last chance (for/at/to do something)__ The last or final opportunity to get, have, do, or achieve something. _Hurry and book your flights today—this is your last chance for the cheapest tickets in town!_  
 __last-ditch attempt__ A final effort or attempt to solve a problem or avoid failure or defeat, especially after a series of failures or setbacks.  
 __last-ditch__  
-__last-minute__  
+__last-minute__ :two: (used before a noun) Done at the very last possible moment or opportunity. _In an attempt to avoid a government shutdown, congress has pushed forward a last-minute spending bill._  
 __latch onto (someone or something)__  
+__latchkey kid__ A child who is home alone after school or in general because their parents or guardians are at work. _I know it makes me sound horrible, but I just don’t want Tommy hanging out with those latchkey kids from down the road._  
+__late model__ Especially regarding an automobile, of a relatively recent design or model. _After I got my promotion, I decided to trade in my clunky old Volkswagen for a snazzy, late model sedan._  
+__laugh in (one’s) sleeve__ To rejoice or be amused secretly and contemptuously, as at another’s mistakes or misfortunes. _Though feigning sympathy, my colleagues are all laughing in their sleeves at me for being stood up at the altar by my fiancée._ _I know it’s mean-spirited, but I can’t help but laugh in my sleeve when I see someone slip on the icy streets._  
 __laugh something off__ :dart: To treat a serious problem lightly by laughing at it. _Although his feelings were hurt, he just laughed the incident off as if nothing had happened._ _He laughed off the incident._  
+__laughing in the aisles__ Laughing uproariously or hysterically. (Used especially in the phrase “have someone laughing in the aisles.”) _Your jokes are perfect for your speech tonight. You’ll have them laughing in the aisles!_  
 __launder__  
+__lay (one’s) life on the line__ To put oneself in harm’s way (to achieve something), especially at the risk of losing one’s life. (Sometimes used hyperbolically.) _It’s important to honor the men and women in the military, who lay their lives on the line every day defending our country._  
+__lay (oneself) out__ To put in a great deal of effort; to inconvenience oneself or go through a lot of trouble. _I don’t know why I always lay myself out to impress your parents—they never appreciate what I do anyway._  
 __lay (someone) to rest__  
+__lay (something) at the feet of (someone)__ To make or hold someone, especially a group of people, responsible for something. _With every other department losing money each year, the managers have laid the company’s success at the feet of our team._  
 __lay bare (something)__ To divulge, explain, or reveal something not previously known publicly.  
-__lay the groundwork (for something)__ To create or prepare the basics or essential foundation (for something); to pave the way (for something).  
+__lay the groundwork (for something)__ :two: To create or prepare the basics or essential foundation (for something); to pave the way (for something). _Our success with this healthcare bill wouldn’t be possible, had the previous administration not laid the groundwork already._  
+__laze about__ To relax or spend time idly; to do nothing or very little. _It’s a gorgeous day outside, so you kids get off your butts and quit lazing about!_  
 __leapfrog over (someone or something)__  
 __leave a lot to be desired__ To be very inadequate or unsatisfactory; to lack a large amount of what is desired or required.  
 __let (oneself) go__  
@@ -408,6 +404,8 @@ __something of sorts__ An inferior example of a kind of something.
 __stand on (one’s) own (two) feet__ To be strong and independent; to not need the help, guidance, or resources of another person.  
 __swig__ __1__ _n_ Adeep drink of liquor; a swallow of liquor. _She took a swig of rum and leaped into the lagoon._ __2__ _vt_ To drink liquor deeply. _He nearly swigged the whole bottle before he needed to take a breath._  
 __take (something) with a pinch of salt__ (take something with a dash/grain of salt)  
+__the last of the lot__ The last or final person(s) or thing(s) in a given group or list. _This package is the last of the lot. Once we get this shipped, we can call it a day._  
+__the last thing (one) wants__ Something which one absolutely does not want or has no use for. _The last thing I want right now is a lengthy court battle, so let’s try and get through this divorce as painlessly as possible._  
 __turn of phrase__  
 __when pigs can fly__ At a point in time that will never come to pass. (Used to show skepticism or cynicism over some hypothetical situation or outcome.)  
 __where to draw the line__  
