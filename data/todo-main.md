@@ -1,4 +1,5 @@
 __acumen__ _n_ /AK-yoo-mun/ _Acumen_ refers to keenness and depth of perception, discernment, or discrimination—in other words, the ability to think clearly and make good decisions, especially in practical matters.  
+__affect__ _v_ __1__ To put on a false show of; simulate: _affected a British accent._ Pretend. __4__ 4. To imitate; copy.  
 __anodyne__ _adj_ Capable of soothing or eliminating pain. _Syn_ analgesic, analgetic  
 __audacity__ _n_ :dart: Fearless daring; intrepidity. _Syn_ temerity  
 __bardolatry__ _n_ [:scroll: Coined by George Bernard Shaw from bard (poet) + -latry (worship)] _facetious_ Idolatry or excessive admiration of William Shakespeare.  
@@ -19,6 +20,7 @@ __dismay__ _vt_
 __dissipate__ _v_ :pencil2:  
 __doable__  
 __docker__ _n_ A laborer who loads and unloads vessels in a port. _Syn_ dock worker, dockhand, dock-walloper, dockworker, loader, longshoreman, lumper, stevedore :es: estibador  
+__dodo__ _n_ __2__ _informal_ An intensely conservative or reactionary person who is unaware of changing fashions, ideas, etc.  
 __doleful__ _adj_ Filled with or expressing grief. _Syn_ mournful  
 __dolorifuge__ _n_ Something that banishes or mitigates grief.  
 __dopamine__ _n_ _Dopamine hit/rush._  
@@ -54,6 +56,8 @@ __facile__ _adj_ Working, acting, or speaking with effortless ease and fluency. 
 __fanfare__ _n_ /FAN-fayr/ __1__ A showy public display. __2__ A brief, lively sounding of brass instruments, especially trumpets, in a celebration.  
 __far-fetched__ _adj_ Improbable in nature; unlikely.  
 __farsighted__ _adj_ Planning prudently for the future. _Syn_ foresighted, long, longsighted, prospicient  
+__faze__ _v_  
+__fazed__ _adj_ /feɪzd/ Disconcerted; worried; disturbed.  
 __fealty__ _n_ /FEE-ul-tee/ _Fealty_ is an old-fashioned and somewhat literary word that refers to intense loyalty or fidelity to a person, group, etc. More narrowly, _fealty_ refers to the fidelity of a vassal or feudal tenant to their lord.  
 __felon__ _n_  
 __felony__ _n_ A crime that has a greater punishment imposed by statute than that imposed on a misdemeanor.  
@@ -82,9 +86,11 @@ __gasp<sup>2</sup>__ _n_ __1__ A short convulsive intake of breath.
 __grawlix__ _n_ :dart: /GRAW-liks/ A series of special characters, such as “@#$%&*,” that are used to indicate either miscellaneous text, or more commonly, swear words. The term is attributed to Mort Walker, an American cartoonist known for his Beetle Bailey comic strip.  
 __grouse__ _v_  
 __gruntled__ _adj_ /ˈɡrʌntəld/ _informal_ Happy or contented; satisfied.  
+__handyman__ _n_ :es: manitas  
 __herald__ _v_ /HAIR-uld/ _Herald_ is a verb meaning “to give notice of”; it is synonymous with _announce_, _publicize_, and _foreshadow_. _Herald_ may also mean “to greet especially with enthusiasm.”  
 __hiking__ _n_  
 __history__ _n_ :mega:  
+__hitherto__ _adv_ Until this time.  
 __hoopla__ _n_ /HOO-plah/ _Hoopla_ refers to talk or writing that is designed to get people excited about or interested in something, often with the implication that the person using the word does not find the thing exciting or interesting.  
 __huddle__ _v_  
 __idiosyncrasy__  
@@ -119,6 +125,7 @@ __lodestone__ _n_ (loadstone) /lōd′stōn′/ A piece of magnetite that has ma
 __logodaedalus__ _n_ /log-uh-DEE-duh-luhs/ One skilled with words.  
 __long-standing__ _adj_ (longstanding)  
 __lookout__ _n_ _Lookouts were posted._  
+__Lothario__ _n_ (lothario)  
 __lucrative__ _adj_ :two::hammer: /LOO-kruh-tiv/  
 __luminal__ _adj_  
 __lunchtime__ _n_ :pencil2:  
@@ -162,7 +169,7 @@ __perjury__ _n_
 __Perseid__ _n_ /ˈpɜːsɪɪd/ (Celestial Objects) Any member of a meteor shower occurring annually around August 12th and appearing to radiate from a point in the constellation Perseus.  
 __personal column__ _n_  
 __perspicacious__ _adj_  
-__pertussis__ _n_ The technical name for _whooping cough_.  
+__pertussis__ _n_ :two: /pəˈtʌsɪs/ _(Pathology)_ The technical name for _whooping cough_.  
 __phony__ _adj_  
 __pitch__ _n_ :es: (esp. _British_) campo, cancha  
 __plod__ _v_ To walk heavily or move laboriously; trudge.  
@@ -180,6 +187,7 @@ __proliferate__ _v_ /pruh-LIF-uh-rayt/ To increase quickly in number or amount.
 __propensity__ _n_ /pruh-PENN-suh-tee/ A _propensity_ is a strong natural tendency to do something.  
 __prostration__ _n_ An abrupt failure of function or complete physical exhaustion. _Syn_ collapse  
 __proximate__ _adj_  
+__quiff__ _n_  
 __reck<sup>1</sup>__ _n_ /rek/ Care or concern.  
 __reck<sup>2</sup>__ _v_ /rek/ To care or concern.  
 __redleg__ _n_ /ˈrɛdˌlɛɡ/ _derogatory Caribbean_ A poor White person.  
@@ -198,15 +206,25 @@ __ruse__ _n_ _Syn_ wile
 __salacious__ _adj_ :three::hammer:  
 __salutary__  
 __sanctimonious__ _adj_ :two: /sank-tuh-MOH-nee-us/ Someone described as sanctimonious behaves as though they are morally superior to others. Language or behavior that suggests the same kind of moral superiority can also be described as sanctimonious. Feigning piety or righteousness. _Syn_ holier-than-thou, pharisaic, pietistic, self-righteous  
+__scrappy__ _adj_ :dart: __1__ Composed of scraps; fragmentary: _scrappy evidence._ __2__ Quarrelsome; contentious. _Syn_ argumentative __3__ :dart: Full of fighting spirit.  
+__scree__ _n_ A sloping mass of loose rocks at the base of a cliff. _Syn_ talus  
+__shirtlifter__ _n_ A homosexual man. _Syn_ gay man  
+__skew__ _v_  
+__skewer__ _n_  
 __smell-feast__ _n_ _archaic_ One given to finding out and getting invited to good feasts. _Syn_ parasite, sponger  
 __smitten__ _adj_  
+__snort__ _v_  
+__somersault__ _n_ :es: voltereta  
 __splendiferous__ _adj_ /splɛnˈdɪfərəs/ [:scroll: From Latin splendor (brilliance) + -fer (bearing)] _facetious_ Grand; splendid: _a really splendiferous meal._  
+__stammer__ _v_ :two::hammer:  
 __steady__  
 __stow__ _v_ __3__ _(Nautical Terms)_ To pack or put away (cargo, sails and other gear, etc). :es: estibar  
+__strafe__ _v_ :dart: /streɪf, strɑf/ __1__ To attack (ground troops, etc.) with fire from low-flying airplanes.  
 __stridor__ _n_ :es: estridor, ruido sordo respiratorio  
 __string__ _n_ _The string of the tea bag._  
 __stub__ _n_ __1__ The usually short end remaining after something bigger has been used up: _a pencil stub; a cigarette stub._  
 __subdural__ _adj_ Located or occurring beneath the dura mater: _subdural space; a subdural hematoma._  
+__sunder__ _v_  
 __superannuated__ _adj_ Retired or ineffective because of advanced age. _Syn_ over-the-hill, overaged  
 __superintendent__ _n_ _A park superintendent._  
 __supersede__ _v_ /soo-per-SEED/ _Syn_ replace, displace  
@@ -219,9 +237,14 @@ __tobogganing__ _n_ :pencil2:
 __tomfoolery__ _n_ /tahm-FOO-luh-ree/ _Tomfoolery_ is a word with an old-fashioned sound to it that refers to playful or silly behavior.  
 __topophilia__ _n_ _Psychology_ The love of or emotional connections with place or physical environment.  
 __torpedo__ _vt_ __2__ To destroy decisively; wreck: _torpedo efforts at reform._  
+__tow hitch__ _n_ See _towbar._ _The tow hitch of the car._  
+__towbar__ _n_ (tow bar) A bar, or ball, usually at the rear of a vehicle, where a trailer, or caravan or other similar item can be attached and towed. A rigid metal bar or frame used for towing vehicles.  
 __trestle__ _n_  
 __troubleshoot__ _v_  
 __trudge__ _v_ :two: To walk, especially laboriously or wearily.  
+__truss__ _n_  
+__trust__ _v_ __3a__ Reliance on something in the future; hope: _We have trust that the future will be better._  
+__trustworthiness__ _n_ The trait of deserving trust and confidence. _Syn_ trustiness  
 __tweener__ _n_ (sports, chiefly tennis) A shot that is hit between the legs.  
 __unabashed__ _adj_ :three: Not ashamed, disconcerted, or apologetic; boldly certain of one’s position. Not disconcerted or embarrassed; poised. _Syn_ unembarrassed  
 __unattainable__ _adj_ _Unattainable love._  
