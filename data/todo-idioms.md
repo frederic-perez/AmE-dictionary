@@ -347,32 +347,6 @@ __on-site__
 __once and for all__  
 __once in a blue moon__ Very rarely.  
 __one size fits all__ :two::hammer:  
-__one way or the other__  
-__one-off__  
-__one-stop shop__ A physical or online location at which one can obtain everything one needs or wants all at once.  
-__one-up (someone)__ To make a point of outdoing, outperforming, outclassing, etc., someone.  
-__org__ __2__ _n_ An organization.  
-__out of commission__  
-__out of place__  
-__out of pocket__  
-__out of sight, out of mind__  
-__out of the wood(s)__  
-__out of thin air__  
-__out of touch__  
-__outed__  
-__over the moon__ Extremely happy. _I’ve been over the moon ever since I got engaged—I just can’t stop looking at my ring!_  
-__paint a (some kind of) picture (of something)__ :two::hammer:  
-__paint the town red__  
-__palooka__ _n_ /pəˈlukə/ (paluka) A stupid person; an unskilled prizefighter; any mediocre person. (Also a term of address. From the name of the comic-strip prizefighter Joe Palooka.) _Tell that stupid palooka to sit down and shut up._  
-__paper tiger__  
-__paper trail__ Physical or digital documentation of a person’s activities.  
-__part ways (with one)__  
-__pave the way (for someone or something)__ :dart:  
-__peaks and troughs__ :dart: __1__ High points and low points, as in a graph, statistical model, economic cycle, etc. _I wouldn’t buy that stock right now because it’s experiencing some drastic peaks and troughs._ __2__ Good times and bad times. _Life is full of peaks and troughs—the trick is not to let the low points get you down._  
-__peanut gallery__  
-__peek out__  
-__pepper with (something)__  
-__perp__ _n_ /pɚp/ [:scroll: Short for perpetrator, from perpetrare (to carry out), from per- (through) + patrare (to bring about), from pater (father)] One who commits a crime or is accused of committing one. A perpetrator; someone who does something, such as committing a crime. _The perp left a good set of prints on the doorknob._  
 __photobomb__  
 __put up with (someone or something)__ To abide or endure someone or something that one finds unpleasant, inconvenient, or annoying.  
 __quite a few__ (quite a lot; quite a bit; quite a number)  

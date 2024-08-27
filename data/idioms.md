@@ -4401,15 +4401,17 @@ __one size fits all__ :two: Supposedly well-suited to any situation, as of a pro
 __one step at a time__  
 __one too many__ :two::hammer: _We drank one too many._  
 __one way or another__ :four::hammer: _If I fail then it will cost me my head one way or another._  
+__one way or the other__  
 __one-hit wonder__ A musician or band that only has one successful song during their music career. _I’m surprised that band was a one-hit wonder. I enjoyed several songs on their album, but only the one big single ever got radio play._  
 __one-horse town__ A very small and unremarkable town that is typically regarded as dull or boring. _I can’t wait to graduate high school and get out of this boring, one-horse town!_  
 __one-liner__ _informal_ A very short, witty joke, remark, or riposte.  
 __one-night stand__ A sexual relationship that lasts for only one night. It’s a play on words, because a nightstand is a small low bedside table, typically having drawers.  
 __one-of-a-kind__ :three::hammer: _One-of-a-kind experience._  
-__one-off__ :three::hammer:  
+__one-off__ :four::hammer:  
 __one-on-one__ :three::hammer:  
+__one-stop shop__ A physical or online location at which one can obtain everything one needs or wants all at once.  
 __one-trick pony__ _n_ A person or thing considered as being limited to only one single talent, capability, quality, etc.  
-__one-up (someone)__ :three: To make a point of outdoing, outperforming, outclassing, etc., someone. _I hate telling stories around Jack because he always tries to one-up you with some fabulous anecdote of his own._  
+__one-up (someone)__ :four: To make a point of outdoing, outperforming, outclassing, etc., someone. _I hate telling stories around Jack because he always tries to one-up you with some fabulous anecdote of his own._  
 __one’s other half__ :two::hammer:  
 __only fair__ The right thing. _It’s only fair to tell him the truth._  
 __oodles__ :dart::two: _slang_ A lot; a large amount or volume. _I’ll have oodles of time during my retirement, so I’m planning on taking up a hobby._  
@@ -4426,6 +4428,7 @@ __open the floodgates__
 __open to question__  
 __open-minded__ Interested in and willing to accept new ideas, thoughts, opinions, etc.  
 __orbiter__ In James Ellroy’s novels, “orbiter” is a term used to describe someone who is on the periphery or fringes of a criminal organization or network. It’s someone who is not a central player or a key decision-maker, but who is still involved in the criminal activity in some way, perhaps as a lookout, a messenger, or a low-level enforcer.  
+__org__ __2__ _n_ An organization.  
 __other than (something)__ :six: (other than that) Besides or excluding something. _Other than having a view of the parking lot, his apartment is great._ _Other than that, blah blah blah._  
 __otherwise known as__ Used to indicate a different name that people know or that a person uses. _France’s King Louis XIV, otherwise known as the Sun King._  
 __otherworldly__  
@@ -4436,6 +4439,7 @@ __out of (one’s) gourd__
 __out of (one’s) hair__ No longer pestering or annoying to one; not one’s responsibility or burden any longer. _I’ve gotten the kids out of my hair for a few hours so I can go and get a relaxing massage by myself._ _Once these auditors from the IRS are out of our hair, we can get back to business as usual._  
 __out of (one’s) shell__ :two: Less shy, reserved, or reticent and in a more sociable, outgoing, or enthusiastic state. _Samantha was quite a quiet girl growing up, but she really started coming out of her shell in college._ _Jack is actually a very funny, engaging guy once he’s out of his shell._  
 __out of character__ :two::hammer:  
+__out of commission__  
 __out of curiosity__ :two: A phrase that is used to indicate that a person is asking a question or seeking information out of a genuine desire to know more about something, rather than for any specific or practical purpose.  
 __out of date__  
 __out of harm’s way__  
@@ -4445,16 +4449,18 @@ __out of kilter__ :two: _Out of kilter with the times._
 __out of left field__ Uncommon, unpopular, or otherwise strange. _Well, that suggestion is certainly out of left field! How did you come up with that one?_  
 __out of nowhere__  
 __out of one’s hair__  
-__out of pocket__ :three::hammer: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
-__out of sight, out of mind__  
+__out of place__  
+__out of pocket__ :four::hammer: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
+__out of sight, out of mind__ :two::hammer:  
 __out of spite__  
 __out of steam__ :dart::two: Completely exhausted, fatigued, or without energy or motivation. _I’m all out of steam, I can’t walk another step._  
 __out of the blue__ :two::hammer: _Tragedy came out of the blue._  
 __out of the box__ __2__ Outside of or beyond what is considered usual, traditional, or conventional. (A less common shortening of “outside (of) the box.”)  
 __out of the frying pan (and) into the fire__ From a bad, stressful, or dangerous situation into one that is even worse.  
-__out of the wood(s)__ :two: No longer in danger or dealing with a particular difficulty, though not entirely resolved. Usually used in the negative. _Her surgery went as well as we could have hoped, but she’s not out of the woods yet._  
-__out of thin air__ :three: From nothing, as of something that has suddenly materialized. Appearing suddenly and unexpectedly. _The great ones create ideas out of thin air._  
+__out of the wood(s)__ :three: No longer in danger or dealing with a particular difficulty, though not entirely resolved. Usually used in the negative. _Her surgery went as well as we could have hoped, but she’s not out of the woods yet._  
+__out of thin air__ :four: From nothing, as of something that has suddenly materialized. Appearing suddenly and unexpectedly. _The great ones create ideas out of thin air._  
 __out of this world__ Extremely good.  
+__out of touch__  
 __out of tune with (someone or something)__ At odds with someone or something; not in harmony or agreement with someone or something. _I’m often out of tune with my family because they don’t approve of my line of work._  
 __out of whack__ :dart::six: _My hormones are out of whack._  
 __out of whole cloth__ :astonished:  
@@ -4464,6 +4470,7 @@ __out with the old, in with the new__
 __out-and-out__  
 __out-of-pocket__ :two: Out-of-pocket expenses are costs connected with work that people pay themselves at first but are usually paid back to them later. _I charge twenty dollars an hour plus out-of-pocket expenses._ Note: If you pay out of pocket, you pay for something yourself and claim the money back later. _As long as people have to pay out of pocket to see a physician, many people will not get the necessary care._  
 __outdo (oneself)__ To outperform or outclass one’s previous actions or efforts. _Wow, Mom, this chili is delicious—you really outdid yourself!_  
+__outed__  
 __outie__ _slang_ Out of here; leaving. _That’s it, I’m not waiting any longer—I’m outtie! No way, this is too gross for me! I’m outtie._  
 __outside the box__ (Also, to think outside the box) To think or behave in an unconventional way, in a novel or often creative fashion. The “box” in question represents the limits of what is usually thought or done.  
 __outsmart (oneself)__  
@@ -4477,6 +4484,7 @@ __over the hills and far away__ To or at some distant, remote point or location.
 __over the hump__ Past the worst, most difficult, or most stressful part (of something); more than halfway done (with something). _I know this project has been trying, but we’re finally over the hump. Everything should go smoothly now._ _We must get over the hump._  
 __over the line__  
 __over the long haul__  
+__over the moon__ Extremely happy. _I’ve been over the moon ever since I got engaged—I just can’t stop looking at my ring!_  
 __over the top__ :two::hammer:  
 __overarching__ The idiom “overarching” refers to something that is all-encompassing, overarching, or overarching in nature. It is often used to describe a concept, idea, or principle that is broad and comprehensive, covering or influencing many different aspects or elements within a particular context. _An overarching plan._  
 __owing to__ :dart::three: Because of; as a result of; due to. _Owing to construction on the highway, please anticipate higher levels of traffic than usual._ _Cancer plans are essential owing to the complexity of care._  
@@ -4488,18 +4496,20 @@ __pachuco__
 __package deal__ :two: A group of many or various things sold together at a single, often reduced price. _They’re offering a package deal where you buy three DVDs and get a fourth for free._  
 __packed to the gills__ :two::hammer:  
 __pad__ _n_ _I’m at my pad._  
-__paint a (some kind of) picture of (something)__ To give an elaborate or detailed description of something that portrays it in a specific way. _The board meeting painted a pretty grim picture of the company’s future._  
-__paint the town red__ Have a good time.  
+__paint a (some kind of) picture of (something)__ :three: To give an elaborate or detailed description of something that portrays it in a specific way. _The board meeting painted a pretty grim picture of the company’s future._  
+__paint the town red__ :dart::two: Have a good time.  
 __pale in comparison__ :two: To be or seem less important, impressive, or otherwise deficient when compared to someone or something else. _The film was enjoyable, but it pales in comparison to the original._ _Bard still pales in comparison to GPT-4 when it comes to the creative stuff._  
-__palooka__  
+__palooka__ _n_ :two: /pəˈlukə/ (paluka) A stupid person; an unskilled prizefighter; any mediocre person. (Also a term of address. From the name of the comic-strip prizefighter Joe Palooka.) _Tell that stupid palooka to sit down and shut up._  
 __palsy-walsy__  
 __pan out__ :two::hammer:  
 __panic attack__  
 __paper chase__ A task that involves completing and/or going through a lot of paperwork. _After getting married and buying a house, doing my taxes has become a real paper chase._  
+__paper tiger__  
+__paper trail__ Physical or digital documentation of a person’s activities.  
 __pardon my French__ :two: Excuse me for swearing.  
 __park the bus__ In football (soccer), to employ all (or nearly all) of a team’s active players in defending its own side of the pitch. _Protecting a narrow one-point lead, it looks like the home team has parked the bus for the remaining minutes of the match._  
 __part company (with/from somebody/something)__  
-__part ways (with one)__ :five: To separate or depart (from one); to stop associating (with one).  
+__part ways (with one)__ :dart::six: To separate or depart (from one); to stop associating (with one).  
 __party crasher__ :two: One who attends a party without having been invited. _I don’t mind party crashers coming to my parties, so long as they behave themselves._  
 __party pooper__ :two: (party poopers) A person who dislikes or refuses to participate in social events, often with the result of detracting from others’ enjoyment of such events. _Amy is such a party pooper. She thinks our company’s social functions are stupid and just stands around pouting the whole time._  
 __pass along__  
@@ -4510,7 +4520,7 @@ __pass up__
 __pass with flying colors__ :two::hammer:  
 __pat (one) on the back__ To praise one. _The only reason he stays late at work is so the boss will pat him on the back._  
 __patch up__ :three::dart: __1__ To mend, repair, or service something to the point of being functional or whole again, especially temporarily, typically by adding material to cover or connect broken or missing parts. A noun or pronoun can be used between “patch” and “up.” To fix something quickly so it can be used until it’s repaired properly or replaced. _John patched up the hose with an old bike tube._ __2__ To restore a relationship damaged by a disagreement or dispute. A noun or pronoun can be used between “patch” and “up.” _I tried to patch up my dispute with Marcy, but she isn’t ready to forgive me._ __3__ To treat someone’s wound, injury, or illness. A noun or pronoun can be used between “patch” and “up.” _I know you’re hurting, but the doctors here will patch you up._  
-__pave the way (for someone or something)__ :four::hammer:  
+__pave the way (for someone or something)__ :dart::five::hammer:  
 __pave the way__ :two::hammer:  
 __pay (for something) out of pocket__  
 __pay (for something) up front__  
@@ -4527,10 +4537,13 @@ __PC__
 __peace of mind__ :two: A tranquility that results from not having worries, guilt, or problems. _If peace of mind is more important to you than earning a lot of money, maybe you should consider teaching._  
 __peace out__ :two: To depart; to leave. _Let’s peace out. It’s too hot in here._ _Electronic health records are everywhere, so peace out, paper charts._  
 __peach fuzz__ _informal_ A nickname for “vellus hair,” a very thin, soft layer of hair, likened to that which appears on the skin of a peach.  
+__peaks and troughs__ :dart: __1__ High points and low points, as in a graph, statistical model, economic cycle, etc. _I wouldn’t buy that stock right now because it’s experiencing some drastic peaks and troughs._ __2__ Good times and bad times. _Life is full of peaks and troughs—the trick is not to let the low points get you down._  
+__peanut gallery__  
 __pearl jam__ _Syn_ man batter, semen, come, man juice  
 __pearly whites__ A person’s set of teeth. _Be sure to brush your pearly whites twice a day, or you might end up getting a cavity!_  
 __pecking order__ :four:::hammer: _Regardless of how good you are at your job, whether you’re a consultant, [...,] physician’s associate, or GP, qualifications still puts you in a pecking order._  
 __pedal to the metal__ __1__ Drive as fast as you can; push the accelerator down. _We’re going to be late—pedal to the metal!_ __2__ Do something with maximum speed or effort. _Pedal to the metal, boys—we need to get these packages shipped by the end of the day._ _OpenAI has been going pedal to the metal for months now._  
+__peek out__  
 __peel off__ __3__ To deviate or depart from a group’s course or direction of movement. _When he saw his parents approaching, Tom peeled off from his friends and ducked down a side alley._  
 __peeping Tom__ A person who secretly watches others, especially for sexual gratification; a voyeur.  
 __peeps__  
@@ -4538,10 +4551,12 @@ __peg it__ To leave or depart very quickly or suddenly. _You’d better peg it, 
 __peg someone as something__ (have someone pegged as something) To think of someone in a certain way. _Susan pegged the new employee as a lazy worker._ _She had him pegged as a fortune hunger._  
 __penguin suit__ _slang_ A man’s formal evening wear, i.e., a tuxedo. _I need to find somewhere I can rent a penguin suit for my brother’s wedding this summer._  
 __people pleaser__ (_less commonly_ people-pleaser)  
+__pepper with (something)__  
 __percolate__ In the context of James Ellroy’s novels, “percolate” means to spread or become known gradually or by word of mouth. It’s often used to describe the way information or rumors circulate in the criminal underworld, or how news of a crime or scandal might slowly reach the public.  
 __perfect storm__ :seven: A critical or disastrous situation created by a powerful concurrence of factors.  
 __period__  
 __perk up__ :four: To make or become more lively, energetic, attentive, cheerful, dynamic, etc. _I wish you would perk up._ _I think I need some coffee to perk me up._ _The mint perks everything up._  
+__perp__ _n_ /pɚp/ [:scroll: Short for perpetrator, from perpetrare (to carry out), from per- (through) + patrare (to bring about), from pater (father)] One who commits a crime or is accused of committing one. A perpetrator; someone who does something, such as committing a crime. _The perp left a good set of prints on the doorknob._  
 __pester (someone) for (something)__ To continually annoy someone with requests for something. _I wish you would stop pestering me for a new bicycle; your birthday will be here soon enough!_  
 __pet hate__ A source of annoyance for one; a pet peeve. _Ugh, my pet hate is people who chew with their mouths open._  
 __Peter Pan syndrome__ A psychological state or condition in which a grown person cannot or refuses to act like an adult; a stubborn and persistent immaturity found in an adult person. _I seem cursed to only find men who have some damned Peter Pan syndrome. I’m tired of going out with guys who act like children!_  
