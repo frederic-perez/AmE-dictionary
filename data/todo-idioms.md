@@ -1,28 +1,3 @@
-__(one’s) final resting place__ The location where one’s body is interred after death.  
-__(something) won’t get (someone) anywhere__ Something, typically a certain behavior, will not help someone progress or succeed in any way.  
-__a drop in the ocean__ (BrE) (a drop in the bucket (AmE)) If something, especially an amount of money, is _a drop in the ocean_, it is very small in comparison with the amount which is needed or expected.  
-__a kick in the butt__ A forceful gesture or message of some kind (usually delivered with good intentions) that acts as motivation to the (previously unmotivated) recipient. _These days, teenagers seem to need a swift kick in the butt to convince them to do well in school._  
-__a mind of (one’s) own__ A capacity or inclination to think or act independently: _a reporter with a mind of her own._  
-__a walk in the park__  
-__a-ha moment__  
-__bank at__  
-__be (one’s) last resort__ To be the only remaining option that may help one or be of any use after all other options have been exhausted. _I didn’t really want to ask Mr. Stadler to write my college recommendation, but he’s my last resort at this point._  
-__be (someone’s) call__ To be ultimately left up to someone to decide. _I don’t really care what movie we see—it’s your call._  
-__be (the) bomb__ To be excellent, extremely entertaining, or of very high quality. _This steak I ordered is bomb!_ _I’m not usually a fan of action films, but that one was the bomb!_  
-__be not just another pretty face__ To have distinguishing achievements, intelligence, skills, or abilities beyond what was or may have been assumed.  
-__be on the fence__  
-__be on the go__  
-__be quite something__ To be particularly noteworthy, remarkable, interesting, special, or impressive. _Wow, this new car of yours is quite something!_  
-__bestie__  
-__black bag job__  
-__blah__ __2__ _adj_ Displeased, dissatisfied, or dejected. _I’m just feeling kind of blah after reading that negative review of my play._  
-__bristle at something__ :dart: [:scroll: Alludes to a dog or cat raising the hair on its back in anger or as a threat] To show sudden anger or other negative response to something. _She bristled at the suggestion._  
-__brush up__  
-__camp out__ __2__ To live in a place other than one home’s temporarily, often in conditions that are not ideal. _How Two Stranded Astronauts Are Camping Out in Space._  
-__cash cow__  
-__catch on__ __1__ To become popular or widespread.  
-__catch up on (something)__  
-__Chekhov’s gun__ /chek-ofs GUHN/ [:scroll: After the playwright and doctor Anton Chekhov (1860-1904) who espoused this principle] __1__ The literary principle that if an element is introduced in a story, it must be shown to have a purpose. __2__ An element introduced in a story that is revealed to have a purpose later on.  
 __cherry pop__ The term “cherry pop” is a slang expression that refers to a girl losing her virginity.  
 __chime in__  
 __close to the bone__ Very close to the truth in a hurtful way. _Of course I’m mad—Dad’s remarks about how I’m wasting my life were close to the bone._  
