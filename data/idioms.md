@@ -1307,6 +1307,7 @@ __cheers and jeers__ Praise from some and scorn from others; a mixed reaction.
 __cheesy__ _adj informal_ :five: Something cheap-looking and in poor taste. Cheap and of low quality. _Cheesy motel rooms._ _I wouldn’t live in a cheesy place like this if I could afford better._  
 __Chekhov’s gun__ /chek-ofs GUHN/ [:scroll: After the playwright and doctor Anton Chekhov (1860-1904) who espoused this principle] __1__ The literary principle that if an element is introduced in a story, it must be shown to have a purpose. __2__ An element introduced in a story that is revealed to have a purpose later on.  
 __cherry on top__  
+__cherry pop__ The term “cherry pop” is a slang expression that refers to a girl losing her virginity.  
 __chew on something__  
 __chew out__ _slang_ To scold or berate one harshly or angrily. A noun or pronoun can be used between “chew” and “out.” _The boss is totally going to chew us out if he hears that we lost that big client._  
 __chew the fat__ To chat or gossip.  
@@ -1317,7 +1318,7 @@ __chicken out__
 __child’s play__  
 __chillax__ _slang_ Calm down and relax. _You can dance to your favorite tune, chillax, or have friends over._  
 __chillaxing__ _slang_ Relaxing. A portmanteau of “chilling” and “relaxing,” often shortened colloquially to “chillaxin’.” _We’re just chillaxin’ and watching some TV, if you want to join us._  
-__chime in__ :five::hammer:  
+__chime in__ :six::hammer:  
 __chin up__ :dart::two: __1__ A phrase that encourages one to improve one’s mood, especially when sad or discouraged. _Come on, the project was not a total failure—chin up!_  
 __chip (away) at (something)__ :dart::two: __1__ Literally, to break off fragments of something. _We won’t be able to move this huge rock until we chip at it and make it smaller._ __2__ :dart: By extension, to complete small, incremental portions of a task. _I knew I wouldn’t be able to write 50 pages in one night, so I’ve been chipping away at this paper for a few weeks._  
 __chip away__ :dart::nine::m: __1__ To break off fragments of something. _We won’t be able to move this huge rock until we chip away at it and make it smaller._ __2__ To come off of something in small pieces. _The paint is so old that it has completely chipped away from this side of the house._ __3__ :dart: To complete small, incremental portions of a task. _Try not to get too overwhelmed about cleaning the house and just chip away at it one room at a time._  
@@ -1369,6 +1370,7 @@ __close call__ _n_ :three::hammer:
 __close in__ :three::hammer:  
 __close the door on (something)__  
 __close the gap (between someone or something)__ :two: To reduce or eliminate some disparity or imbalance between two people, things, groups, etc. _The former champions were ahead by 21 points at halftime, but the underdogs have been steadily closing the gap._  
+__close to the bone__ Very close to the truth in a hurtful way. _Of course I’m mad—Dad’s remarks about how I’m wasting my life were close to the bone._  
 __close up shop__  
 __close, but no cigar__ Close, but not enough to win or succeed.  
 __closed-minded__ :dart:  
@@ -1441,6 +1443,7 @@ __come-one-come-all__
 __comfort eating__ :two::hammer:  
 __comfort food__ :three: Particular dishes or food items that are meant to ease emotional pain upon consumption, as by reminding one of home or childhood. Often, such food is high in calories or carbohydrates. _Did Mom make mac and cheese tonight? I’m definitely in need of some comfort food._ _Comfort food like chicken wings, chicken and steak sandwiches, shrimp, ousters and more._  
 __coming-of-age__ :four: Describing something, such as a book or film, that focuses on a character’s maturation to adulthood. _Her coming-of-age novel focuses on a child born into poverty who goes on to be a Harvard graduate._  
+__commend (someone) for (something)__ To compliment or praise someone for something that they have done. _I have to commend you for your extraordinary bravery in a dangerous situation. I’m sure all of the people you rescued from the fire see you as a hero._  
 __common ground__  
 __commy__ (Commy; commies) Pinko.  
 __compare (someone or something) to (someone or something)__ _A city park whose beauty compares to many of our country’s national parks._  
@@ -1477,7 +1480,7 @@ __corporate ladder__ :two::hammer:
 __correct me if I’m wrong__ Used to introduce a piece of information one believes is true, especially as a means of correcting someone else.  
 __cosleep__ Of a parent, to sleep in the same bed or room as one or more of their small or infant children. _We’re going to try cosleeping once the baby is born._ _Co-sleeping was a factor in quarter of Scotland’s infant deaths in 2023._  
 __cost an arm and a leg__ To be extremely expensive.  
-__cost the earth__ :two: To be exorbitant or burdensome in expense.  
+__cost the earth__ :three: To be exorbitant or burdensome in expense.  
 __cottage industry__  
 __couch potato__  
 __cough up__ :three::hammer:  
@@ -1600,6 +1603,7 @@ __cut to the chase__ :four::hammer:
 __cut-rate__ Offered or sold at a low price. _I told you you’d regret buying a cut-rate car like that!_  
 __cutting edge__ :two::hammer: _Cutting edge fashion._  
 __dabble in (something)__  
+__dad bod__ _slang_ [:scroll: From _dad_ + _bod_, an abbreviation of _body_] A physique characterized by moderate chubbiness; the stereotypical physique of a middle-aged dad. The phrase is often used affectionately or approvingly. _Aww, I don’t care that he’s a bigger guy—I like guys with a dad bod._  
 __daily grind__ :dart: One’s daily work routine, especially when it is tiresome. _I’m so thrilled to be off next week—I really need a break from the daily grind._  
 __daisy cutter__ [:scroll: From daisy, from Old English dæges eage (day’s eye, referring to the flower closing at night) + cutter, from Middle English cutten] _slang_ __1__ _sports_ A strong hit that moves the ball along the ground, as in baseball, soccer, cricket, etc. _That daisy cutter flew right past the infield and ended up securing a double for Williams._ __2__ A conventional bomb with a large blast radius that is lowered from an aircraft and explodes just above the ground. _Man, they must have dropped a daisy cutter here. Not only is the village obliterated, but so are all trees and wildlife._  
 __damn it__  
@@ -1648,6 +1652,7 @@ __deadbeat dad__ _n_ A father who doesn’t live with the family and doesn’t p
 __deal in something__ To buy and sell something. _My uncle is a stockbroker. He deals in stocks and bonds._ _My aunt deals in antiques._  
 __dealbreaker__ :nine::pencil2: A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
 __dealio__ _slang_ Alternative form of _dillio._ The deal; that which is current, relevant, or taking place. _What’s the dealio?_  
+__death count__ (death toll) The total number of fatalities resulting from an event such as an accident, disaster, or conflict.  
 __death toll__  
 __deathaversary__  
 __Debbie Downer__ :two: A fictional Saturday Night Live character who debuted in 2004,[1] and was created and portrayed by Rachel Dratch. The character’s name, Debbie Downer, is a slang phrase which refers to someone who frequently adds bad news and negative feelings to a gathering, thus bringing down the mood of everyone around them. Dratch’s character would usually appear at social gatherings and interrupt the conversation to voice negative opinions and pronouncements. _“OK, now I really don’t want to sound like a Debbie Downer, but 2018 has not been an easy one, my friends.”—Valerie Mesa_  
@@ -1830,6 +1835,7 @@ __drop by__
 __drop in the bucket__ :two: A very small or unimportant amount.  
 __drop out__  
 __drop the ball__ :dart::seven: To make a mistake, to fail.  
+__drum roll__  
 __drum roll, please__  
 __dry run__ :two: A practice session or test designed to identify and correct possible problems. _Let’s do a couple dry runs of your speech so you feel totally comfortable with it for tomorrow’s ceremony._  
 __Drynuary__ (Dry January) _Drynuary_ is when people abstain from drinking alcohol during the month of January, especially after the excesses of the holidays.  
@@ -1844,12 +1850,13 @@ __dust off__ :four::hammer:
 __dying to (do something)__ Eager and excited to do something. _The kids were dying to go on another roller coaster._  
 __dyke__  
 __dynamic duo__ :two: _cliché_ Two people often paired together whose unique traits, when combined, usually result in success or otherwise positive results.  
+__dynamite__ __1__ _n_ Anything potentially powerful: a drug, news, a person. _The story about the scandal was dynamite and kept selling papers for a month._ __2__ :dart: _mod_ Excellent; powerful. _I want some more of your dynamite enchiladas, please._  
 __each other__ _The Regent ordered nobles and peasantry to pardon each other._  
 __eager beaver__ _n_ /ee-guhr BEE-vuhr/ One who is enthusiastic and hard-working, sometimes to the point of being overzealous.  
 __ear ringing__  
 __early bird__ _No early birds allowed because it just wouldn’t be fair to the other shoppers who waited until the opening time._ _If you have advertised “No Early birds” then do not allow any early birds to even browse through your sale before the open time._  
 __early days__ :three: The beginning period or phase of some entity, trend, or phenomenon.  
-__earworm__  
+__earworm__ _n_ :two: _informal_ /ˈɪəˌwɜːm/  
 __easier said than done__ :two: Said of a task that is easier to talk about than to do.  
 __easier than falling off a log__ Extremely easy; very intuitive; requiring little or no skill or effort. _Boy, that test was easier than falling off a log!_  
 __easy peasy__ :four::hammer:  
@@ -1900,6 +1907,7 @@ __even more so__ :two::hammer:
 __even so__ In spite of something; regardless. _I know you’re not happy with mom right now, but, even so, you should tell her that you arrived in London safely._  
 __ever since__ :dart::two::hammer: _I’ve been a fan ever since._  
 __every cloud has a silver lining__ :seven: Used to say that there is something good even in a situation that seems very sad or difficult.  
+__every dog has his/its day__  
 __every last one__  
 __every man for himself__ :dart:  
 __every other__ :three: Every second one in a series, as in _I’m supposed to take this pill every other day._ When something happens “every other week,” this means that it happens about once every two weeks. _We don’t win bigger events every other week._ _A new cartoon will be published every other Sunday._  
@@ -1969,7 +1977,7 @@ __fan the flames__ To do or say something to make an argument, problem, or bad s
 __fancy-pants__ :two: Pretentious or fancy in an extreme or excessive way. Use of this phrase often indicates the speaker’s annoyance. _I’d rather go to a ball game than another one of your fancy-pants corporate events._  
 __fancy-schmancy__ _slang_ Very, perhaps overly, showy or elaborate. _Well, that’s a fancy-schmancy outfit—I didn’t realize this party was such a dressy occasion._  
 __far and away__ :astonished:  
-__far and wide__ :eight: All over; everywhere. _Chicago is a destination for travelers far and wide._ _Shoppers flock from far and wide._  
+__far and wide__ :nine: All over; everywhere. _Chicago is a destination for travelers far and wide._ _Shoppers flock from far and wide._  
 __far cry (from something)__ :nine::m: [:sound: far cry from] A thing that is very different from something else. _It is a far cry from the 1970s._ _The office was a far cry from Pete’s domains._  
 __far from over__ The idiom “far from over” generally means that a situation or event is not yet finished, resolved or settled. It suggests that there is still more to come and that the outcome is uncertain.  
 __farmer’s tan__ :dart: A tan or sunburn on the neck and lower arms that results from wearing a T-shirt during prolonged sun exposure and that is clearly demarcated from the pale skin of the chest and upper arms that remained covered. :es: moreno paleta _It was so warm that I only wore a T-shirt on the four-hour hike, but I had a pretty gnarly farmer’s tan by the end of the day._  
@@ -1978,7 +1986,7 @@ __fast and furious__
 __fast track__ :two: An accelerated path to success or achievement.  
 __fast-forward__ :two::hammer:  
 __fast-track__ :two: __2__ _v_ To expedite or speed up some process. _The government announced plans to fast-track citizenship applications for illegal immigrants brought to the country as children._  
-__faster than you can say Jack Robinson__ Extremely quickly; almost immediately; suddenly or in a very short space of time.  
+__faster than you can say Jack Robinson__ :dart::two: Extremely quickly; almost immediately; suddenly or in a very short space of time. _Once I’m finished with high school, I’ll be outta this two-bit town faster than you can say Jack Robinson!_  
 __Faustian bargain__ :two: An agreement, bargain, or deal in which a person sacrifices or abandons their moral, ethical, or spiritual values in favor of wealth, power, or other benefits. A reference to the legend of Faust, who sold his soul to the devil for unlimited knowledge and power.  
 __faux pas__ :two::hammer:  
 __fear not__ :two: Used in speech to say that there is no reason to be afraid or worried. _Fear not—I’ll protect you._  
@@ -2024,6 +2032,7 @@ __final nail in the coffin__
 __find (one‘s) bearings__ To recognize or determine one’s orientation, position, or abilities relative to one’s surroundings or situation. _It took me a little while to find my bearings in the new office, but after a week, I felt as if I’d been working there for years._  
 __find (something) out the hard way__ :two: To learn or discover something through personal experience, especially that which is difficult, painful, or unpleasant. Can also be phrased as “find out about something the hard way.”  
 __find for__  
+__find/take shelter__ To go somewhere for cover and protection from danger, bad weather, etc. _They found/took shelter in a cave during the storm._  
 __finders keepers(, losers weepers)__  
 __fine-tune__ :three::hammer::pencil2:  
 __finger on the pulse__  
@@ -2052,7 +2061,7 @@ __fit the bill__ :five::hammer: (fill the bill) _His appearance fitted the bill.
 __five o’clock shadow__ :three: A short beard on a man’s face that has grown since the morning shave.  
 __fix up__  
 __fixer__ _slang_ One tasked with handling and alleviating problems for someone, often illicitly.  
-__fizzle out__  
+__fizzle out__ :two::hammer:  
 __fizzle__ __2__ To fail or weaken, often slowly over time. _No, I don’t have a back-up plan—I didn’t expect this idea to fizzle out so fast._  
 __flag__ __2__ _v_ _slang_ To fail something. _You better study hard, or you’ll flag this exam._  
 __flak__ Criticism or judgment.  
@@ -2073,6 +2082,7 @@ __flick off__ :dart: _He flicked off the light._
 __flimflam__  
 __flip (one) the bird__ To raise the middle finger (a rude gesture of anger or displeasure) at one.  
 __flip on__ :dart: To turn something on, typically a switch. A noun or pronoun can be used between “flip” and “on.” _As soon as I flipped on the light, I could see that the house had been robbed._ _He flipped on the radio._  
+__flip-flop__ __1__ _v_ To completely change one’s opinion or stance. Primarily heard in US.  
 __float (one’s) boat__ To make someone happy. Often used in the phrase “whatever floats (one’s) boat.” _A: “What do you want for dinner?” B: “Whatever floats your boat, I’m not even hungry.”_ _I think this new job in the lab will really float Isabel’s boat._  
 __float an idea__ To suggest something in order to gauge interest in it or others’ perception of it.  
 __flog a dead horse__  
@@ -2108,6 +2118,7 @@ __fool with (someone or something)__
 __fool’s errand__ :three: A task that has little to no chance of being successful or beneficial. _Giving the baby a bath before he eats spaghetti is a fool’s errand._ _It would be a fool’s errand for anyone inside the party to primary him._  
 __foot and mouth__ _Gardens in 2001 were unfortunately cancelled due to the outbreak of foot and mouth._  
 __foot the bill (for something)__ To pay for something; to pay for a bill. _My boss took me out for lunch and the company footed the bill._ _You paid for dinner last time. Let me foot the bill for lunch today._  
+__foot the bill__ To pay for something. _I hope the production company is footing the bill for all of this air travel._  
 __for (one’s) (own) good__ :two: For one’s benefit, even though it may not be enjoyable or desirable. _I know you’re mad that I won’t let you eat candy for dinner, sweetheart, but it’s for your own good._  
 __for a living__ In order to earn one’s primary income. _Roy runs a deli for a living._  
 __for a song__ For a very (and perhaps surprisingly) low price. _Wow, I can’t believe they let so many things at their yard sale go for a song. I would have marked up the prices a bit._  
@@ -2168,6 +2179,7 @@ __freak flag__ :two: Any unconventional, nonconformist, or uninhibited behavior,
 __freak of nature__ Something or someone that is unusual, rare, or abnormal in some way; beyond or outside the natural world. _He can lift over 500 pounds in the gym, he’s like some freak of nature._  
 __freak out__ :four::hammer: (freak someone out)  
 __free bit of advice__ A suggestion, opinion, or piece of advice that was unrequested or unsolicited by the recipient.  
+__free compute__  
 __free fall__  
 __free lunch__ :two: [:scroll: This expression, dating from the early 1800s, alludes to the practice of taverns offering free food to their customers to induce them to buy more drinks.] A gift or benefit for which no return is expected.  
 __free pass__  
@@ -2187,13 +2199,13 @@ __friendly fire__
 __friendly reminder__ “Friendly reminder” is an idiomatic expression that means “a gentle reminder” or “a polite reminder.” It’s a way of reminding someone about something in a non-confrontational or friendly way.  
 __Friendsgiving__ :two: A Thanksgiving celebration among friends. It often takes place near Thanksgiving, rather than on the actual holiday. _I always have Friendsgiving with my college roommates the week before Thanksgiving._  
 __frigging__ :dart::four: _rude slang_ (friggin’) An intensifier used as a milder alternative to “fucking.” “Friggin’” is also commonly used. _Why are you so frigging late? You’d better have a good excuse._  
-__from a mile away__ :two: Well or far in advance; exceptionally easily. _That movie was so corny, you could tell what was going to happen from a mile away!_  
+__from a mile away__ :three: Well or far in advance; exceptionally easily. _That movie was so corny, you could tell what was going to happen from a mile away!_  
 __from A to Z__  
 __from bad to worse__ :two::hammer:  
 __from here on out__ From this moment and continuing into the future. _We need to follow the directions from here on out—otherwise, we’re liable to get lost._  
 __from jump street__  
 __from rags to riches__ From being poor to being wealthy.  
-__from the get-go__ :four::hammer:  
+__from the get-go__ :six::hammer:  
 __from the ground up__ :two: [:scroll: This expression alludes to the construction of a house, which begins with the foundation.] From the very beginning; also, completely, thoroughly. For example, _We’ve had to learn a new system from the ground up_, or _The company changed all of the forms from the ground up._ _Written from the ground up._  
 __from the outset__ From the beginning. _Honestly, I never expected this play to be so successful from the outset._  
 __from the river to the sea__ (antisemitic) A political phrase that refers geographically to the area between the Jordan River and the Mediterranean Sea, an area described as Palestine, which today includes Israel and the Israeli-occupied Palestinian territories, including the West Bank, East Jerusalem, and the Gaza Strip.  
@@ -2241,6 +2253,7 @@ __garbage in, garbage out__ :two::hammer:
 __gargle__ :two: __1__ _v slang_ To drink alcohol. _I lit a cigarette and gargled Old Crow._ __2__ _n slang_ An alcoholic drink. _It’s been a long week—want to get a gargle with me?_  
 __gas__ :three: __4__ _vi_ To have a good time. _We gassed all evening._ _We’re here to gas on the show._  
 __gaslight__ :nine::m: (gaslighting) To manipulate someone psychologically so that they begin to doubt their experience of reality. The phrase comes from the 1938 play _Gas Light_, in which the protagonist attempts to induce insanity in his wife by constantly questioning or doubting her reports of strange events, such as the dimming of the house’s gas lights (which has in fact occurred and is related to the husband’s nefarious activities). _Her husband must be gaslighting her because she suddenly doubts all the evidence that she’s found of his indiscretions._ _The administration has been accused of gaslighting with its repeated attempts to spread disinformation._  
+__gasp for air__ To gasp or pant heavily due to having difficulty breathing, as after strenuous activity or holding one’s breath.  
 __gassed__ In James Ellroy’s novels, the term “gassed” is often used to describe someone who is intoxicated or under the influence of drugs or alcohol.  
 __gather steam__  
 __gather/gain momentum__ To move faster. _The wagon gathered/gained momentum as it rolled down the hill._  
@@ -2259,6 +2272,7 @@ __get (one’s) claws into (someone)__ To exert one’s influence over another p
 __get (one’s) ducks in a row__ To take action to become well-organized, prepared, or up-to-date. _We need to get our ducks in a row to ensure that there are no problems at home while we’re gone on our trip._  
 __get (one’s) ears lowered__ :two: To get a haircut, especially to a length that reveals one’s ears. _Ah, I see you got your ears lowered. It looks good!_  
 __get (one’s) goat__ :two: To annoy or anger one. _That guy just gets my goat every time he opens his mouth._  
+__get (one’s) hands dirty__  
 __get (one’s) hands on (something)__ Obtain something that you want or need very much. _This is all about OpenAI getting their hands on more data._  
 __get (one’s) knuckles rapped__ _The Japanese drug company Astellas has had its knuckles rapped for wrongdoing four times in less than three years._  
 __get (one’s) shit together__ :two::hammer:  
@@ -2275,7 +2289,7 @@ __get a big head__ To become arrogant or conceited; to assume an exaggeratedly h
 __get a free pass__  
 __get a grip__ :three::hammer:  
 __get a handle on (something)__ _UAVs are used to get a handle on what’s going on._  
-__get a hold on/of (oneself)__  
+__get a hold on/of (oneself)__ :two: To begin to control one’s reactions or emotions after not having done so previously.  
 __get a jump on (someone or something)__  
 __get a kick out of (someone or something)__ :eight: To get a sense of enjoyment, amusement, or excitement from someone or something. _Even as an adult, I still get a kick out of building sandcastles at the beach._ _You’ll get a kick out of this!_  
 __get a toehold__  
@@ -2294,6 +2308,7 @@ __get bogged down__ To become burdened or impeded (by something). (A bog is an a
 __get bombed__ _slang_ To get very drunk. _After the long week I had, all I want to do is go to the bar and get bombed._  
 __get by__  
 __get carried away__  
+__get dirt under one’s nails__ The idiom “get dirt under one’s nails” generally refers to engaging in hard work or manual labor, resulting in one’s hands becoming dirty. It signifies a person who is not afraid to roll up their sleeves and get involved in physical tasks, often associated with a sense of practicality and a strong work ethic.  
 __get done__ :two::hammer:  
 __get down to (doing) something__ _Get down to business._  
 __get down to work__ :two: To begin being serious about something; to begin attending to business or work at hand.  
@@ -2305,7 +2320,7 @@ __get in touch (with one)__ To initiate or establish contact or communication wi
 __get in your face__ _We might get in your face but we can also charm you out of your socks._  
 __get in(to) (one’s) pants__ _vulgar slang_ To have sex with one. (Usually said of the intention or expectation.)  
 __get in(to) (someone’s) pants__ _vulgar_ _slang_ To have sex with someone. (Usually said of the intention or expectation.)  
-__get in(to) hot water__ :two: To provoke or incite anger, hostility, or punishment against oneself; to cause or encounter trouble or difficulty, especially that which will result in punishment or reprisal.  
+__get in(to) hot water__ :three: To provoke or incite anger, hostility, or punishment against oneself; to cause or encounter trouble or difficulty, especially that which will result in punishment or reprisal.  
 __get into (someone or something)__ :two: __13__ To become interested in or passionate about something. _My daughter has gotten into sports all of sudden._  
 __get into it__  
 __get it (all) together__  

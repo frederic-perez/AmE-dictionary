@@ -1,28 +1,3 @@
-__cherry pop__ The term “cherry pop” is a slang expression that refers to a girl losing her virginity.  
-__chime in__  
-__close to the bone__ Very close to the truth in a hurtful way. _Of course I’m mad—Dad’s remarks about how I’m wasting my life were close to the bone._  
-__commend (someone) for (something)__ To compliment or praise someone for something that they have done. _I have to commend you for your extraordinary bravery in a dangerous situation. I’m sure all of the people you rescued from the fire see you as a hero._  
-__cost the earth__ To be exorbitantly expensive.  
-__dad bod__ _slang_ [:scroll: From _dad_ + _bod_, an abbreviation of _body_] A physique characterized by moderate chubbiness; the stereotypical physique of a middle-aged dad. The phrase is often used affectionately or approvingly. _Aww, I don’t care that he’s a bigger guy—I like guys with a dad bod._  
-__death count__ (death toll) The total number of fatalities resulting from an event such as an accident, disaster, or conflict.  
-__drum roll__  
-__dynamite__ __1__ _n_ Anything potentially powerful: a drug, news, a person. _The story about the scandal was dynamite and kept selling papers for a month._ __2__ :dart: _mod_ Excellent; powerful. _I want some more of your dynamite enchiladas, please._  
-__earworm__ _n_ _informal_ /ˈɪəˌwɜːm/  
-__every dog has his/its day__  
-__far and wide__  
-__faster than you can say Jack Robinson__ :dart: Extremely quickly; almost immediately; suddenly or in a very short space of time. _Once I’m finished with high school, I’ll be outta this two-bit town faster than you can say Jack Robinson!_  
-__find/take shelter__ To go somewhere for cover and protection from danger, bad weather, etc. _They found/took shelter in a cave during the storm._  
-__fizzle out__  
-__flip-flop__ __1__ _v_ To completely change one’s opinion or stance. Primarily heard in US.  
-__foot the bill__ To pay for something. _I hope the production company is footing the bill for all of this air travel._  
-__free compute__  
-__from a mile away__  
-__from the get-go__  
-__gasp for air__ To gasp or pant heavily due to having difficulty breathing, as after strenuous activity or holding one’s breath.  
-__get (one’s) hands dirty__  
-__get a hold on/of (oneself)__ To begin to control one’s reactions or emotions after not having done so previously.  
-__get dirt under one’s nails__ The idiom “get dirt under one’s nails” generally refers to engaging in hard work or manual labor, resulting in one’s hands becoming dirty. It signifies a person who is not afraid to roll up their sleeves and get involved in physical tasks, often associated with a sense of practicality and a strong work ethic.  
-__get in(to) hot water__  
 __get into it__  
 __get it (all) together__  
 __get on (one’s) nerves__ To irritate, grate on, or exasperate one.  
