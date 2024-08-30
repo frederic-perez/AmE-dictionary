@@ -4,8 +4,11 @@ __anodyne__ _adj_ Capable of soothing or eliminating pain. _Syn_ analgesic, anal
 __audacity__ _n_ :dart: Fearless daring; intrepidity. _Syn_ temerity  
 __bardolatry__ _n_ [:scroll: Coined by George Bernard Shaw from bard (poet) + -latry (worship)] _facetious_ Idolatry or excessive admiration of William Shakespeare.  
 __biddy__ _n_ /ˈbɪdɪ/ __1__ A dialect word for chicken, hen. __2__ _informal offensive_ A woman, esp an old gossipy or interfering one.  
+__blithely__ _adv_ In a joyous manner.  
 __brow__ _n_ The projecting upper edge of a steep place. _Syn_ top, summit, peak, edge, tip, crown, verge, brink, rim, crest, brim  
 __byword__ _n_ _Syn_ adage, aphorism, maxim, motto, proverb, saw, saying  
+__candlestick__ _n_ (candleholder) A holder, usually ornamental, with a spike or socket for a candle.  
+__catapult__ _v_ /ˈkæt əˌpʌlt, -ˌpʊlt/  
 __ceasefire__ _n_  
 __chute__ _n_  
 __coda__ _n_  
@@ -25,6 +28,7 @@ __doleful__ _adj_ Filled with or expressing grief. _Syn_ mournful
 __dolorifuge__ _n_ Something that banishes or mitigates grief.  
 __dopamine__ _n_ _Dopamine hit/rush._  
 __downpour__ _n_ A heavy fall of rain. _Syn_ pelter, soaker, torrent, cloudburst, deluge, waterspout  
+__dramatis personae__ _n_  
 __duckboard__  
 __dulcet__ _adj_ /DUL-sut/ _Dulcet_ is a formal word used to describe sounds that are pleasant to hear. It is often used in the phrase “dulcet tones.”  
 __dull__ _v_ _Spend less time with people who dull you._  
@@ -39,6 +43,7 @@ __egregious__
 __eleemosynary__ _adj_  
 __elegy__ _n_  
 __eloquence__ _n_ Powerful and effective language. _Syn_ fluency, smoothness  
+__empathetic__ _adj_  
 __encrypt__ _vt_ :mega: /ɪnˈkrɪpt/  
 __encumber__ _v_ :dart: /in-KUM-ber/ Someone or something that is encumbered is burdened or weighed down (as in “tourists encumbered by heavy luggage”) or hindered (as in “negotiations encumbered by a lack of trust”).  
 __entourage__ _n_  
@@ -53,6 +58,7 @@ __extenuate__ _v_ :astonished: /ik-STEN-yuh-wayt/ _Extenuate_ is a formal word t
 __extralegal__ _adj_ Not permitted or governed by law. _Syn_ nonlegal  
 __exultation__ _n_ /eg-zuhl-TAY-shuhn/ The act or state of triumphant joy.  
 __facile__ _adj_ Working, acting, or speaking with effortless ease and fluency. _Syn_ eloquent, silver-tongued, smooth-spoken, fluent, silver  
+__faint__ _adj_ /feɪnt/ (fainter, faintest)  
 __fanfare__ _n_ /FAN-fayr/ __1__ A showy public display. __2__ A brief, lively sounding of brass instruments, especially trumpets, in a celebration.  
 __far-fetched__ _adj_ Improbable in nature; unlikely.  
 __farsighted__ _adj_ Planning prudently for the future. _Syn_ foresighted, long, longsighted, prospicient  
@@ -77,6 +83,7 @@ __foist__ _v_ /FOIST/ _Foist_, which is almost always used with _on_ or _upon_, 
 __folksy__ _adj_  
 __folly__ _n_ (construction)  
 __footage__ _n_ :mega:  
+__fracas__ _n_  
 __fusty__ _adj_ /FUSS-tee/ Someone or something described as fusty is rigidly old-fashioned. Fusty is also used as a synonym of musty to describe things that are full of dust and unpleasant, stale odors.  
 __gabby__ _adj_ Tending to talk excessively. _Syn_ chatty, garrulous, loquacious, talkative, talky  
 __gadabout__ _n_ /GAD-uh-bout/ A gadabout is a person who flits about in social activity, as by going to many places and social events for pleasure.  
@@ -86,11 +93,14 @@ __gasp<sup>2</sup>__ _n_ __1__ A short convulsive intake of breath.
 __grawlix__ _n_ :dart: /GRAW-liks/ A series of special characters, such as “@#$%&*,” that are used to indicate either miscellaneous text, or more commonly, swear words. The term is attributed to Mort Walker, an American cartoonist known for his Beetle Bailey comic strip.  
 __grouse__ _v_  
 __gruntled__ _adj_ /ˈɡrʌntəld/ _informal_ Happy or contented; satisfied.  
+__hands-off__ _adj_ Characterized by nonintervention: a hands-off foreign policy.  
 __handyman__ _n_ :es: manitas  
+__hard-pressed__ _adj_  
 __herald__ _v_ /HAIR-uld/ _Herald_ is a verb meaning “to give notice of”; it is synonymous with _announce_, _publicize_, and _foreshadow_. _Herald_ may also mean “to greet especially with enthusiasm.”  
 __hiking__ _n_  
 __history__ _n_ :mega:  
 __hitherto__ _adv_ Until this time.  
+__honeybee__ _n_ /ˈhʌnɪˌbiː/  
 __hoopla__ _n_ /HOO-plah/ _Hoopla_ refers to talk or writing that is designed to get people excited about or interested in something, often with the implication that the person using the word does not find the thing exciting or interesting.  
 __huddle__ _v_  
 __idiosyncrasy__  
@@ -105,6 +115,7 @@ __jot<sup>2</sup>__ _vt_
 __jurisprudence__ _n_ /joor-us-PROO-dunss/ _Jurisprudence_ is a formal word that typically refers to the science or philosophy of law, or to a system or body of law.  
 __kudos__ _n_ /KOO-dahss/  
 __labyrinthine__ _adj_ Resembling a labyrinth in form or complexity. _Syn_ mazy  
+__lemony__ _adj_ :astonished: /ˈlɛmənɪ/  
 __lethargic__ _adj_ :two: /luh-THAHR-jik/ Of, relating to, or affected with lethargy; drowsy; sluggish; apathetic. _Lethargic_ describes people who feel a lack of energy or a lack of interest in doing things. It is sometimes used figuratively, as in “a sluggish and lethargic economy.”  
 __Lewis gun__  
 __liable__ _adj_  
@@ -139,6 +150,7 @@ __moot__ _vt_
 __mountaineering__  
 __mpox__ _n_ (formerly called _monkey pox_) A zoonotic disease especially of central and western Africa that is caused by a poxvirus.  
 __natural hat trick__ _n_ _sports_ A hat trick in which three goals are scored in succession by one player in one game.  
+__nigh__ _adj, adv, prep_ /naɪ/ An archaic, poetic, or dialect word for near.  
 __noggin__ _n_ __1__ A small mug or cup. __2__ A unit of liquid measure equal to one quarter of a pint. __3__ _slang_ The human head.  
 __nonplus__ _v_ /nahn-PLUS/ To _nonplus_ someone is to perplex them, or in other words, to cause them to be at a loss as to what to say, think, or do.  
 __nubbly__ _adj_ Rough or irregular; textured. _Syn_ homespun, nubby, slubbed, tweedy  
@@ -171,8 +183,10 @@ __personal column__ _n_
 __perspicacious__ _adj_  
 __pertussis__ _n_ :two: /pəˈtʌsɪs/ _(Pathology)_ The technical name for _whooping cough_.  
 __phony__ _adj_  
+__pickeball__ _n_  
 __pitch__ _n_ :es: (esp. _British_) campo, cancha  
 __plod__ _v_ To walk heavily or move laboriously; trudge.  
+__polypharmacy__ _n_ The practice of prescribing multiple medications for an individual patient, especially excessively, for a single disease.  
 __porky__ _adj_ __1__ Of or like pork: _a porky flavor._ __2__ _Derogatory Slang_ Fat or corpulent.  
 __precede__ _v_ Furnish with a preface or introduction. _Syn_ preface, premise, introduce _She always precedes her lectures with a joke._  
 __premier__  
@@ -188,6 +202,8 @@ __propensity__ _n_ /pruh-PENN-suh-tee/ A _propensity_ is a strong natural tenden
 __prostration__ _n_ An abrupt failure of function or complete physical exhaustion. _Syn_ collapse  
 __proximate__ _adj_  
 __quiff__ _n_  
+__quiver<sup>1</sup>__ _vi_  
+__quiver<sup>2</sup>__ _n_ __1__ A portable case for holding arrows.  
 __reck<sup>1</sup>__ _n_ /rek/ Care or concern.  
 __reck<sup>2</sup>__ _v_ /rek/ To care or concern.  
 __redleg__ _n_ /ˈrɛdˌlɛɡ/ _derogatory Caribbean_ A poor White person.  
@@ -206,16 +222,23 @@ __ruse__ _n_ _Syn_ wile
 __salacious__ _adj_ :three::hammer:  
 __salutary__  
 __sanctimonious__ _adj_ :two: /sank-tuh-MOH-nee-us/ Someone described as sanctimonious behaves as though they are morally superior to others. Language or behavior that suggests the same kind of moral superiority can also be described as sanctimonious. Feigning piety or righteousness. _Syn_ holier-than-thou, pharisaic, pietistic, self-righteous  
+__saunter__ _vi_  
+__schadenfreude__ _n_  
+__scoundrel__ _n_  
 __scrappy__ _adj_ :dart: __1__ Composed of scraps; fragmentary: _scrappy evidence._ __2__ Quarrelsome; contentious. _Syn_ argumentative __3__ :dart: Full of fighting spirit.  
 __scree__ _n_ A sloping mass of loose rocks at the base of a cliff. _Syn_ talus  
+__sexton__ _n_  
 __shirtlifter__ _n_ A homosexual man. _Syn_ gay man  
+__shriek__ _n_  
 __skew__ _v_  
 __skewer__ _n_  
 __smell-feast__ _n_ _archaic_ One given to finding out and getting invited to good feasts. _Syn_ parasite, sponger  
 __smitten__ _adj_  
 __snort__ _v_  
+__snuffle__ _v_  
 __somersault__ _n_ :es: voltereta  
 __splendiferous__ _adj_ /splɛnˈdɪfərəs/ [:scroll: From Latin splendor (brilliance) + -fer (bearing)] _facetious_ Grand; splendid: _a really splendiferous meal._  
+__squirm__ _vi_  
 __stammer__ _v_ :two::hammer:  
 __steady__  
 __stow__ _v_ __3__ _(Nautical Terms)_ To pack or put away (cargo, sails and other gear, etc). :es: estibar  
@@ -228,6 +251,7 @@ __sunder__ _v_
 __superannuated__ _adj_ Retired or ineffective because of advanced age. _Syn_ over-the-hill, overaged  
 __superintendent__ _n_ _A park superintendent._  
 __supersede__ _v_ /soo-per-SEED/ _Syn_ replace, displace  
+__swivel__ _v_  
 __tabloid__ _n_ :dart::astonished:  
 __tchotchke__ _n_ /CHAHCH-kuh/ _Tchotchke_ refers to a small object used for decoration. It’s a synonym of knickknack and trinket.  
 __third state__ _n_ The third of the traditional social classes; the common people. _Syn_ commons  
@@ -236,6 +260,7 @@ __Tipp-Ex__ _n_ /ˈtɪp.eks/
 __tobogganing__ _n_ :pencil2:  
 __tomfoolery__ _n_ /tahm-FOO-luh-ree/ _Tomfoolery_ is a word with an old-fashioned sound to it that refers to playful or silly behavior.  
 __topophilia__ _n_ _Psychology_ The love of or emotional connections with place or physical environment.  
+__tor__ _n_ :dart: /tɔr/ /tɔː/ [:scroll: Old English _torr_ < Celtic; compare Irish _tor_, Welsh _twr_ heap, pile] A rocky pinnacle; a peak of a rocky mountain or hill.  
 __torpedo__ _vt_ __2__ To destroy decisively; wreck: _torpedo efforts at reform._  
 __tow hitch__ _n_ See _towbar._ _The tow hitch of the car._  
 __towbar__ _n_ (tow bar) A bar, or ball, usually at the rear of a vehicle, where a trailer, or caravan or other similar item can be attached and towed. A rigid metal bar or frame used for towing vehicles.  
