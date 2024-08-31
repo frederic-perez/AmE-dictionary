@@ -1,6 +1,20 @@
+__a rocky start__ :two::hammer:  
+__as it happens__ :dart:  
+__balancing act__  
+__be onto (something)__  
+__bugger__  
+__career cushioning__ _informal_ The practice of lining up future job opportunities while still employed at one’s current job.  
+__cautionary tale__  
+__ciggy__ A shortening of “cigarette.” _Hey, can I bum a ciggy off you?_  
+__clear as muck__ The idiom “clear as muck” is a British expression that means something is not clear at all; in fact, it suggests that the subject is quite confusing or difficult to understand. The term “muck” refers to dirt or mud, implying that if something is as clear as muck, it is murky and obscured, much like muddy water.  
+__cuss out__ To use profane language as a reprimand or attack. A noun or pronoun can be used between “cuss” and “out.” _I cussed out the driver that nearly backed into my car._ _I had to cuss him out—he was just being so rude!_  
+__disabuse (someone or oneself) of (something)__ To stop someone or oneself from continuing to believe something that is false. _After being so ill, I had to disabuse myself of the notion that work is more important than my health._  
+__don’t know any better__ The idiom “don’t know any better” refers to a situation where someone is unaware of a more appropriate or correct way to act, think, or behave. It often implies that the person’s lack of knowledge or experience leads them to make mistakes or poor choices, but it is not necessarily their fault. The phrase can convey a sense of innocence or naivety.  
+__flit about__ To move in a quick, deft manner.  
 __get into it__  
 __get it (all) together__  
 __get on (one’s) nerves__ To irritate, grate on, or exasperate one.  
+__get on the bandwagon__  
 __get past (someone or something)__  
 __get real__ :dart: To realize or accept the truth; to be realistic or practical. Often used as an imperative.  
 __get swole__ _slang_ To develop or pump up one’s muscles, that is, until they look swollen. _A: “You coming to club with us tonight?” B: “Yep, just want to hit the gym to get swole first.’_  
@@ -42,6 +56,7 @@ __good-time Charlie__ An affable, lively, and entertaining man who is often or a
 __goon__  
 __goop__  
 __grapple with (someone or something)__ :three::hammer:  
+__graze on (something)__ __1__ Of animals, to eat the greens or vegetables in a particular area or location. _I put up a fence to try to keep the deer from grazing on my land._  
 __green thumb__  
 __hairpin bend__ :two: A very sharp, approximately 180° bend in a road.  
 __have a rocky start__ To have a troubled, uncertain, or discouraging beginning.  
@@ -50,7 +65,9 @@ __hear the end of (someone or something)__
 __heat wave__ A period of time in which the weather is unusually and persistently hot.  
 __hell on earth__  
 __hem and haw__  
+__hit a snag__  
 __hit the ground running__  
+__hold my beer__  
 __hold the line__  
 __holding pattern__  
 __hotshot__  
@@ -59,12 +76,15 @@ __I beg your pardon__ :dart: __1__ :dart: I apologize for what I just did or sai
 __if it ain’t broke, don’t fix it__ :two::hammer: (if it isn’t broke, don’t fix it)  
 __if nothing else__ :dart: A phrase used to indicate that something is a priority or the most important thing. _I know you’re busy today, so if nothing else, please make sure you respond to these messages._ _If nothing else, we’ll at least get our money back._  
 __If you can’t beat ’em, join ’em__  
+__iffy__  
 __in a bit__  
 __in a flutter__ In a nervous, confused, or agitated state.  
 __in a measure__ To a certain degree or extent; somewhat.  
 __in a sorry state__ In a pitiful, dysfunctional, or abject condition. _My business was in a sorry state after I left it under the control of my brother._ _John’s been in a sorry state lately—I think he’s taken up drinking again._  
 __in all good faith__  
+__in all honesty__  
 __in all likelihood__  
+__in all seriousness__  
 __in and of itself__  
 __in concert with (someone)__ Together with someone; in cooperation with someone. _You’ll need to work in concert with my file clerk to sort through all this paperwork._  
 __in full swing__ :two::hammer:  
@@ -132,6 +152,7 @@ __jigaboo__ _n_ (ethnic slur) Extremely offensive name for a Black person.
 __Jill of all trades(, master of none)__ :dart:  
 __JK__ An initialism of “just kidding,” used especially in text messages and online communications to express that one was not being serious about their previous statement. Variously written as “JK,” “J.K.,” or “J/K,” in either uppercase or lowercase letters. _Yeah, def considering working on my uncle’s farm 4 the summer. haha jk lol_  
 __join hands__ __2__ By extension, to work together to achieve some goal.  
+__join the fray__ __1__ To enter into some competitive endeavor.  
 __join the ranks (of something)__ To become a part or member of a large group or organization.  
 __jolly (one) along__ :dart: To encourage one (to do something), especially in a positive, cheerful manner. _I was getting disheartened writing my first novel, but my husband jollied me along to finish it._  
 __jughead__ _slang_ A stupid or foolish person (as if their head is as empty as a jug). _He’s sweet, but he can be a real jughead sometimes._  
@@ -187,7 +208,7 @@ __lay (something) at the feet of (someone)__ To make or hold someone, especially
 __lay bare (something)__ To divulge, explain, or reveal something not previously known publicly.  
 __lay the groundwork (for something)__ :two: To create or prepare the basics or essential foundation (for something); to pave the way (for something). _Our success with this healthcare bill wouldn’t be possible, had the previous administration not laid the groundwork already._  
 __laze about__ To relax or spend time idly; to do nothing or very little. _It’s a gorgeous day outside, so you kids get off your butts and quit lazing about!_  
-__leapfrog over (someone or something)__  
+__leapfrog over (someone or something)__ :two::hammer:  
 __leave a lot to be desired__ To be very inadequate or unsatisfactory; to lack a large amount of what is desired or required.  
 __let (oneself) go__  
 __let someone down__  
@@ -206,6 +227,7 @@ __loosey-goosey__
 __lose (one’s) shit__  
 __lose steam__ To begin to wane in energy, enthusiasm, or potency.  
 __loud and clear__  
+__lurk__  
 __lust for life__  
 __make (both) ends meet__  
 __make (one’s) eyes pop (out)__  
@@ -251,6 +273,7 @@ __neck and neck__
 __need to be done__ To be required to be completed or acted upon.  
 __Nervous Nellie__ /nuhr-vuhs NEL-ee/(nervous Nellie/Nelly) Any nervous person, male or female. Someone who is more timid, nervous, or anxious than is normal or reasonable.  
 __nice and (something)__ :five: Very something. Used to emphasize how nice something is because of the particular quality named after “and.” _I love your new house! It’s nice and bright inside!_ _Ah, this lemonade is nice and cold—just the thing for such a hot day._  
+__nip at__ __1__ To give (someone or something) little bites. _Their dog kept nipping at my heels whenever I walked through the house._ _I know some people go crazy for the treatment, but I can’t stand the feeling of fish nipping at my feet!_ __2__ To sting (a part of one’s body) with cold. _The air had just started nipping at our noses by the time we reached the house._ _There’s nothing like settling down in front of a fire with a hot drink after the cold wind has been nipping at your cheeks on a long, satisfying bike ride._ _The cold air nipped at my lungs if I breathed in too quickly._ __3__ To take small, frequent sips of (some drink, especially alcohol). _I caught my grandma nipping at a flask, which she tried to pretend had medicine inside of it._  
 __no end in sight (to something)__  
 __no stranger to (something)__  
 __noblesse oblige__ /noh-BLESS-uh-BLEEZH/ Noblesse oblige refers to the idea that people who have high social rank or wealth should be helpful and generous to people of lower rank or to people who are poor.  
@@ -298,11 +321,17 @@ __once and for all__
 __once in a blue moon__ Very rarely.  
 __one size fits all__ :two::hammer:  
 __photobomb__  
+__prim and proper__ Having very traditional, morally conservative beliefs and behavior.  
+__public eye__ Attention from the general public. Typically used in the phrase “in the public eye.”  
+__puppy__ __1__ _n_ A wimp; a softie. _That silly puppy is still waiting outside your door._ __2 __ _n_ A thing; a piece or part of something. _Put this little puppy right here._  
+__put (someone or something) (up) on a pedestal__ To believe or behave as if someone or something is perfect, wonderful, or better than others, to the extent that one is unable to see its potential flaws or faults.  
 __put up with (someone or something)__ To abide or endure someone or something that one finds unpleasant, inconvenient, or annoying.  
 __quite a few__ (quite a lot; quite a bit; quite a number)  
+__roast__  
 __rue the day (that something happened)__ To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
 __rule of law__  
 __rules of the road__  
+__rumor has it (that)__ It is being rumored that (something is or will be the case). _Rumor has it that the boss is using the company profits to pay off his own gambling debts._  
 __seep in(to something)__  
 __serve (one’s) time__  
 __set a camp__  
@@ -313,6 +342,8 @@ __Shangri-la__ A utopian paradise. A reference to the fictional Tibetan paradise
 __shine a light__  
 __shipshape and Bristol fashion__  
 __shit (one’s) pants__ __2__ _rude slang_ By extension, to be very surprised. _When I saw that the magazine had published my letter to the editor, I practically shit my pants!_ _Shit-your-pants scared._  
+__shoot (oneself) in the foot__  
+__shrink from (someone or something)__ :dart: __1__ To recede or recoil from someone or something. _The way the gums are shrinking from your teeth is a clear sign of gingivitis._ _The child shrank from the men as they approached the house._ __2__ :dart: To avoid or neglect some action, duty, or responsibility. _You wanted to lead this branch, which means you can’t shrink from the thornier aspects of the job._  
 __shut out__  
 __single file__ A line of things or people, one person or one thing wide. _Please get into single file._ _You have to march single file._  
 __single out__  
@@ -325,15 +356,23 @@ __snazzy__ Particularly elegant, dazzling, classy, or fancy in appearance. _Wow,
 __so much so that__  
 __soft spot__  
 __something of sorts__ An inferior example of a kind of something.  
+__stamp of approval__ An indication of endorsement or authorization of something.  
 __stand on (one’s) own (two) feet__ To be strong and independent; to not need the help, guidance, or resources of another person.  
 __swig__ __1__ _n_ Adeep drink of liquor; a swallow of liquor. _She took a swig of rum and leaped into the lagoon._ __2__ _vt_ To drink liquor deeply. _He nearly swigged the whole bottle before he needed to take a breath._  
 __take (something) with a pinch of salt__ (take something with a dash/grain of salt)  
+__test the water(s)__ To informally or casually attempt to gauge the reaction of a potential audience or recipient of something, or to try to get an idea of what something will be like before actually doing it. Likened to feeling the temperature of water before getting in.  
+__That’s a fact, jack!__ _humorous_ Used to emphasize that something is true.  
+__that’s the spirit!__ That’s the right kind of attitude to have in order to be successful.  
 __the last of the lot__ The last or final person(s) or thing(s) in a given group or list. _This package is the last of the lot. Once we get this shipped, we can call it a day._  
 __the last thing (one) wants__ Something which one absolutely does not want or has no use for. _The last thing I want right now is a lengthy court battle, so let’s try and get through this divorce as painlessly as possible._  
+__turd blossom__  
 __turn of phrase__  
+__under-promise and over-deliver__ To avoid raising expectations in order to subsequently exceed them. Used as a strategy to ensure the satisfaction of one’s client, customer, boss, etc. Also spelled without hyphens.  
+__wait and see__  
 __when pigs can fly__ At a point in time that will never come to pass. (Used to show skepticism or cynicism over some hypothetical situation or outcome.)  
 __where to draw the line__  
 __whip out__  
+__wild ride__ A _wild ride_ refers to an experience or adventure that is thrilling, intense, unpredictable, and often exhilarating.  
 __willy-nilly__  
 __yup__  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
