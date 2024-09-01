@@ -1,22 +1,32 @@
 __acumen__ _n_ /AK-yoo-mun/ _Acumen_ refers to keenness and depth of perception, discernment, or discrimination—in other words, the ability to think clearly and make good decisions, especially in practical matters.  
 __affect__ _v_ __1__ To put on a false show of; simulate: _affected a British accent._ Pretend. __4__ 4. To imitate; copy.  
 __anodyne__ _adj_ Capable of soothing or eliminating pain. _Syn_ analgesic, analgetic  
+__arthralgia__ _n_ är-thrăl′jə/ Neuralgic pain in a joint or joints.  
 __audacity__ _n_ :dart: Fearless daring; intrepidity. _Syn_ temerity  
 __bardolatry__ _n_ [:scroll: Coined by George Bernard Shaw from bard (poet) + -latry (worship)] _facetious_ Idolatry or excessive admiration of William Shakespeare.  
 __biddy__ _n_ /ˈbɪdɪ/ __1__ A dialect word for chicken, hen. __2__ _informal offensive_ A woman, esp an old gossipy or interfering one.  
 __blithely__ _adv_ In a joyous manner.  
 __brow__ _n_ The projecting upper edge of a steep place. _Syn_ top, summit, peak, edge, tip, crown, verge, brink, rim, crest, brim  
+__bursary__ _n_  
 __byword__ _n_ _Syn_ adage, aphorism, maxim, motto, proverb, saw, saying  
 __candlestick__ _n_ (candleholder) A holder, usually ornamental, with a spike or socket for a candle.  
 __catapult__ _v_ /ˈkæt əˌpʌlt, -ˌpʊlt/  
 __ceasefire__ _n_  
+__ceiling rose__ _n_ In the United Kingdom and Australia, a _ceiling rose_ is a decorative element affixed to the ceiling from which a chandelier or light fitting is often suspended.  
 __chute__ _n_  
+__clean-shaven__ _adj_ __1__ Having the beard or hair shaved off. __2__ Having recently shaved.  
+__clued up__ _adj_ _BrE_ _informal_ Knowledgeable about a topic or situation; possessing the facts. :es: al tanto (de), al corriente (de)  
+__co-op__ _n_ A cooperative enterprise, building, or apartment.  
 __coda__ _n_  
 __comment period__ _n_ A “comment period” is a designated timeframe during which members of the public, stakeholders, or interested parties are invited to provide feedback, opinions, or suggestions on a proposed rule, regulation, policy, or decision. This process is commonly used by government agencies, organizations, or regulatory bodies to gather input before finalizing a decision or implementing a new policy.  
 __copious__ _adj_ /KOH-pee-us/ _Copious_ is a synonym of abundant and plentiful. It is always used before a noun to describe something very large in amount or number.  
+__crocodile clip__ _n_ :camera: A clasp with serrated interlocking edges used for making electrical connections.  
+__dalliance__ _n_  
+__deliver__ _v_ _He always promised more than he could deliver._  
 __deliverance__ _n_  
 __demure__ _adj_ /dɪˈmyʊər/ __1__ Characterized by shyness and modesty; reserved. __2__ Affectedly or coyly decorous or sedate.  
 __dinghy__ _n_ A small boat. :es: bote  
+__directory__ _n_ :two::hammer: _A small jobs directory of people._  
 __discernible__ _adj_ Capable of being seen or noticed. _Syn_ evident, observable  
 __disfavor__ _v_ Put at a disadvantage; hinder, harm. _Syn_ disadvantage  
 __dismay__ _vt_  
@@ -31,10 +41,12 @@ __downpour__ _n_ A heavy fall of rain. _Syn_ pelter, soaker, torrent, cloudburst
 __dramatis personae__ _n_  
 __duckboard__  
 __dulcet__ _adj_ /DUL-sut/ _Dulcet_ is a formal word used to describe sounds that are pleasant to hear. It is often used in the phrase “dulcet tones.”  
-__dull__ _v_ _Spend less time with people who dull you._  
+__dull<sup>1</sup>__ _adj_ /dʌl/  
+__dull<sup>2</sup>__ _v_ _Spend less time with people who dull you._  
 __dumbwaiter__ _n_ A small elevator used to convey food (or other goods) from one floor of a building to another. _Syn_ food elevator  
 __durable__ _adj_ /DUR-uh-bul/ _Durable_ describes people or things that last, or remain strong and in good condition over a long period of time. It is often used figuratively, as in “a durable athlete.”  
 __dynasty__ _n_ /DYE-nuh-stee/ Dynasty refers to a group (such as a team, family, etc.) that is very powerful or successful for a long period of time. It is also often used for a family of rulers who rule over a country for a long period of time, as well as the period of time when a particular dynasty is in power.  
+__earthing__ _n_ Fastening electrical equipment to earth. _Syn_ grounding  
 __earworm__ _n_ _informal_ /ˈɪəˌwɜːm/  
 __easy__ _adj, adv_ :mega: /ˈiːzɪ/  
 __ebullient__ _adj_ /ih-BULL-yunt/  
@@ -72,10 +84,12 @@ __fiddle-faddle<sup>1</aup>__ _n_ /ˈfɪdəlˌfædəl/ Nonsense.
 __fiddle-faddle<sup>2</sup>__ _v_ To fuss or waste time, esp over trivial matters.  
 __fire grate__ _n_ (firegrate, fire-grate) A grate used to hold the fuel in domestic fireplaces and in many forms of heaters and furnaces. _She prepared the fire grates._  
 __flash flood__ _n_ (flashflood) A sudden flood of great volume, usually caused by heavy rain.  
+__flaunt__ _v_  
 __fleet__ _n_ :two: The largest organized unit of naval ships grouped for tactical or other purposes.  
 __flexor__ _n_ A small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes. _Syn_ percussor, plessor  
 __flighty__ _adj_ /ˈflaɪtɪ/  
 __floorwalker__ _n_ An employee of a department store who supervises sales personnel and assists customers. _Syn_ shopwalker  
+__flout__ _v_  
 __flub<sup>1</sup>__ _n_ :dart: /flʌb/ An embarrassing mistake or blunder.  
 __flub<sup>2</sup>__ _v_ :dart: To blunder or make an embarrassing mistake. Make a mess of, destroy or ruin.  
 __flyover__ _n_  
@@ -83,6 +97,7 @@ __foist__ _v_ /FOIST/ _Foist_, which is almost always used with _on_ or _upon_, 
 __folksy__ _adj_  
 __folly__ _n_ (construction)  
 __footage__ _n_ :mega:  
+__fortnight__ _n_ :dart::astonished: [:scroll: Middle English fourtenight, alteration of fourtene night, fourteen nights] A period of 14 days; two weeks.  
 __fracas__ _n_  
 __fusty__ _adj_ /FUSS-tee/ Someone or something described as fusty is rigidly old-fashioned. Fusty is also used as a synonym of musty to describe things that are full of dust and unpleasant, stale odors.  
 __gabby__ _adj_ Tending to talk excessively. _Syn_ chatty, garrulous, loquacious, talkative, talky  
@@ -101,6 +116,7 @@ __hiking__ _n_
 __history__ _n_ :mega:  
 __hitherto__ _adv_ Until this time.  
 __honeybee__ _n_ /ˈhʌnɪˌbiː/  
+__hookah__ _n_ (hooka) A water pipe with a long flexible tube by which the smoke is drawn through a jar of water and thus cooled.  
 __hoopla__ _n_ /HOO-plah/ _Hoopla_ refers to talk or writing that is designed to get people excited about or interested in something, often with the implication that the person using the word does not find the thing exciting or interesting.  
 __huddle__ _v_  
 __idiosyncrasy__  
@@ -142,6 +158,7 @@ __luminal__ _adj_
 __lunchtime__ _n_ :pencil2:  
 __machtpolitik__ _n_ /MAHKHT-pol-ee-teek/ Power politics: policies that advocate the use of power and physical force to attain their goals.  
 __maiden__ _adj_ _The _Titanic_ maiden voyage._  
+__mains tester__ _n_ An insulated screwdriver with a light in the handle.  
 __marionette__ _n_ _Syn_ puppet  
 __meliorism__ _n_ /MEE-lee-uh-riz-um/ _Meliorism_ refers to the belief that the world tends to improve and that humans can aid its betterment.  
 __midriff__  
@@ -159,7 +176,9 @@ __off-limits__
 __ontic__ _adj_ /ON-tik/ [:scroll: From Greek onto (being)] Having or relating to a real existence.  
 __ossify__ _v_ /AH-suh-fye/ In general contexts, something that ossifies becomes hardened or conventional and opposed to change. In medical contexts, something that ossifies (such as cartilage) forms or is transformed into bone.  
 __outbreak__  
+__outline__ _v_  
 __outrun__  
+__overdraft__ _n_  
 __panoply__ _n_ /PAN-uh-plee/  
 __Paralympics__ _n pl_  
 __parapraxis__ _n_ A minor error, such as a slip of the tongue, thought to reveal a repressed motive. _Syn_ slip-up, miscue, slip  
@@ -186,8 +205,12 @@ __phony__ _adj_
 __pickeball__ _n_  
 __pitch__ _n_ :es: (esp. _British_) campo, cancha  
 __plod__ _v_ To walk heavily or move laboriously; trudge.  
+__pluck__ _v_  
+__poll tax__ _n_ A fixed tax levied on all persons in a certain area, especially as a condition of voting in elections.  
 __polypharmacy__ _n_ The practice of prescribing multiple medications for an individual patient, especially excessively, for a single disease.  
+__polytechnic__ _adj, n_  
 __porky__ _adj_ __1__ Of or like pork: _a porky flavor._ __2__ _Derogatory Slang_ Fat or corpulent.  
+__porter__ _n_ __1__ A person employed to carry luggage, parcels, supplies, etc, esp at a railway station or hotel.  
 __precede__ _v_ Furnish with a preface or introduction. _Syn_ preface, premise, introduce _She always precedes her lectures with a joke._  
 __premier__  
 __preponderance__ _n_ A superiority in numbers or amount. _Syn_ prevalence, extensiveness _The preponderance of the evidence strongly supports his guilt._  
@@ -201,9 +224,12 @@ __proliferate__ _v_ /pruh-LIF-uh-rayt/ To increase quickly in number or amount.
 __propensity__ _n_ /pruh-PENN-suh-tee/ A _propensity_ is a strong natural tendency to do something.  
 __prostration__ _n_ An abrupt failure of function or complete physical exhaustion. _Syn_ collapse  
 __proximate__ _adj_  
+__quaver__ _vi_ __1__ To quiver, as from weakness; tremble. _I took a quavering breath._  
 __quiff__ _n_  
 __quiver<sup>1</sup>__ _vi_  
 __quiver<sup>2</sup>__ _n_ __1__ A portable case for holding arrows.  
+__receptacle outlet__ _n_ An electrical outlet where one or more receptacles are installed.  
+__receptacle__ _n_ A device which is installed in an outlet box to receive a plug for the supply of electric current to an appliance or portable equipment.  
 __reck<sup>1</sup>__ _n_ /rek/ Care or concern.  
 __reck<sup>2</sup>__ _v_ /rek/ To care or concern.  
 __redleg__ _n_ /ˈrɛdˌlɛɡ/ _derogatory Caribbean_ A poor White person.  
@@ -215,6 +241,7 @@ __reread__ _v_ :pencil2:
 __rife__ _adj_  
 __rile__ _vt_ __1__ To irritate or vex. _Syn_ nettle, chafe, provoke, annoy, irk  
 __romcom__  
+__roofing__ _n_ __1__ Materials used in building a roof. __2__ A roof.  
 __rosary__ _n_  
 __run-up__ _n_ (runup)  
 __rundown__ _n_  
@@ -227,26 +254,33 @@ __schadenfreude__ _n_
 __scoundrel__ _n_  
 __scrappy__ _adj_ :dart: __1__ Composed of scraps; fragmentary: _scrappy evidence._ __2__ Quarrelsome; contentious. _Syn_ argumentative __3__ :dart: Full of fighting spirit.  
 __scree__ _n_ A sloping mass of loose rocks at the base of a cliff. _Syn_ talus  
+__second__ _vt_ :two::hammer:  
 __sexton__ _n_  
+__sheathed__ _adj_  
+__shelve__ _v_  
 __shirtlifter__ _n_ A homosexual man. _Syn_ gay man  
 __shriek__ _n_  
 __skew__ _v_  
 __skewer__ _n_  
+__slightly__ _adv_ __1__ To a small degree or extent; somewhat. __2__ Slenderly; delicately: _slightly built._  
 __smell-feast__ _n_ _archaic_ One given to finding out and getting invited to good feasts. _Syn_ parasite, sponger  
 __smitten__ _adj_  
 __snort__ _v_  
 __snuffle__ _v_  
+__socket outlet__ _n_ __1__ British term for receptacle outlet. __2__ See _outlet_.  
 __somersault__ _n_ :es: voltereta  
 __splendiferous__ _adj_ /splɛnˈdɪfərəs/ [:scroll: From Latin splendor (brilliance) + -fer (bearing)] _facetious_ Grand; splendid: _a really splendiferous meal._  
 __squirm__ _vi_  
 __stammer__ _v_ :two::hammer:  
 __steady__  
+__stove__ _n_  
 __stow__ _v_ __3__ _(Nautical Terms)_ To pack or put away (cargo, sails and other gear, etc). :es: estibar  
 __strafe__ _v_ :dart: /streɪf, strɑf/ __1__ To attack (ground troops, etc.) with fire from low-flying airplanes.  
 __stridor__ _n_ :es: estridor, ruido sordo respiratorio  
 __string__ _n_ _The string of the tea bag._  
 __stub__ _n_ __1__ The usually short end remaining after something bigger has been used up: _a pencil stub; a cigarette stub._  
 __subdural__ _adj_ Located or occurring beneath the dura mater: _subdural space; a subdural hematoma._  
+__summit__ _v_  
 __sunder__ _v_  
 __superannuated__ _adj_ Retired or ineffective because of advanced age. _Syn_ over-the-hill, overaged  
 __superintendent__ _n_ _A park superintendent._  
@@ -254,6 +288,7 @@ __supersede__ _v_ /soo-per-SEED/ _Syn_ replace, displace
 __swivel__ _v_  
 __tabloid__ _n_ :dart::astonished:  
 __tchotchke__ _n_ /CHAHCH-kuh/ _Tchotchke_ refers to a small object used for decoration. It’s a synonym of knickknack and trinket.  
+__temp__ _n_  
 __third state__ _n_ The third of the traditional social classes; the common people. _Syn_ commons  
 __tinderbox__ _n_ __1__ A metal box for holding tinder. __2__ A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
 __Tipp-Ex__ _n_ /ˈtɪp.eks/  
@@ -264,6 +299,7 @@ __tor__ _n_ :dart: /tɔr/ /tɔː/ [:scroll: Old English _torr_ < Celtic; compare
 __torpedo__ _vt_ __2__ To destroy decisively; wreck: _torpedo efforts at reform._  
 __tow hitch__ _n_ See _towbar._ _The tow hitch of the car._  
 __towbar__ _n_ (tow bar) A bar, or ball, usually at the rear of a vehicle, where a trailer, or caravan or other similar item can be attached and towed. A rigid metal bar or frame used for towing vehicles.  
+__traipse__ _v_  
 __trestle__ _n_  
 __troubleshoot__ _v_  
 __trudge__ _v_ :two: To walk, especially laboriously or wearily.  
@@ -295,3 +331,4 @@ __word-perfect__ _adj_
 __worktop__ _n_ :two::hammer:  
 __wring__ _vt_  
 __wringer__ _n_ __1__ A person or thing that wrings. __2__ An apparatus for squeezing out liquid, as two rollers through which an article of wet clothing may be squeezed.  
+__Xmas__ _n_  
