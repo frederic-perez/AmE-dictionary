@@ -1,28 +1,3 @@
-__a rocky start__ :two::hammer:  
-__as it happens__ :dart:  
-__balancing act__  
-__be onto (something)__  
-__bugger__  
-__career cushioning__ _informal_ The practice of lining up future job opportunities while still employed at one’s current job.  
-__cautionary tale__  
-__ciggy__ A shortening of “cigarette.” _Hey, can I bum a ciggy off you?_  
-__clear as muck__ The idiom “clear as muck” is a British expression that means something is not clear at all; in fact, it suggests that the subject is quite confusing or difficult to understand. The term “muck” refers to dirt or mud, implying that if something is as clear as muck, it is murky and obscured, much like muddy water.  
-__cuss out__ To use profane language as a reprimand or attack. A noun or pronoun can be used between “cuss” and “out.” _I cussed out the driver that nearly backed into my car._ _I had to cuss him out—he was just being so rude!_  
-__disabuse (someone or oneself) of (something)__ To stop someone or oneself from continuing to believe something that is false. _After being so ill, I had to disabuse myself of the notion that work is more important than my health._  
-__don’t know any better__ The idiom “don’t know any better” refers to a situation where someone is unaware of a more appropriate or correct way to act, think, or behave. It often implies that the person’s lack of knowledge or experience leads them to make mistakes or poor choices, but it is not necessarily their fault. The phrase can convey a sense of innocence or naivety.  
-__flit about__ To move in a quick, deft manner.  
-__get into it__  
-__get it (all) together__  
-__get on (one’s) nerves__ To irritate, grate on, or exasperate one.  
-__get on the bandwagon__  
-__get past (someone or something)__  
-__get real__ :dart: To realize or accept the truth; to be realistic or practical. Often used as an imperative.  
-__get swole__ _slang_ To develop or pump up one’s muscles, that is, until they look swollen. _A: “You coming to club with us tonight?” B: “Yep, just want to hit the gym to get swole first.’_  
-__get the best of (someone or something)__ To overwhelm, take control, or gain an advantage over someone or something.  
-__get the boot__  
-__get the picture__  
-__get wind of (something)__  
-__ghost__ _slang_  
 __ghosting__ _slang_  
 __gig__  
 __give (one’s) ground__  

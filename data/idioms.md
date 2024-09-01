@@ -236,6 +236,7 @@ __a pop__
 __a portent of things to come__ Something that is indicative of what will happen or become popular in the future.  
 __a real doozy__  
 __a recipe for disaster__  
+__a rocky start__ :two::hammer:  
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
 __a rough patch__ :three: A period of trouble, difficulty, or hardship. _Almost every new business experiences a rough patch at some point or another._  
 __a shame__ An unfortunate situation. The term is used either in consolation or ironically. _I heard that things didn’t work out between you two—that’s a real shame._  
@@ -451,7 +452,7 @@ __as good as it gets__ :six: As good as is possible; impossible to improve upon.
 __as I see it__ From my perspective.  
 __as if (one’s) life depends on it__  
 __as if to say__  
-__as it happens,__ :six: Coincidentally; surprisingly; as a matter of fact. Often said of an unlikely or unusual fact, event, or circumstance.  
+__as it happens,__ :dart::seven: Coincidentally; surprisingly; as a matter of fact. Often said of an unlikely or unusual fact, event, or circumstance.  
 __as long as__  
 __as many as__ _As many as five terror plots were foiled last year._  
 __as much as__ _Inside today’s Stateman as much as $215 in coupon savings._  
@@ -591,7 +592,7 @@ __bae__ _slang_ One’s romantic partner. Often used as a term of endearment. _I
 __bag of tricks__ All the clever methods by which someone achieves something.  
 __bag__ :five: __3__ _v_ To get or obtain something. _Hey, when you go to that event, be sure to bag some cupcakes for us!_ _World’s Strongest Man bags new job._ _The Browser Company, the brains behind Arc, just bagged $50M._  
 __bait and switch__ :two: A deceptive commercial practice in which customers are induced to visit a store by an advertised sale item and then are told that it is out of stock or that it is far inferior to some more expensive item.  
-__balancing act__  
+__balancing act__ :two::hammer:  
 __bald as a coot__ Totally bald.  
 __bald-faced lie__ A blatantly obvious or impudent untruth, one in which the liar does not attempt to disguise their mendacity. _Our son tells us nothing but bald-faced lies when we ask him where he goes at night._  
 __balderdash__ _n_ Senseless, stupid, or exaggerated talk or writing; nonsense. .  
@@ -758,6 +759,7 @@ __be on the same page__ :three::hammer:
 __be on the threshold of (something)__ To be about to do something; to be about to happen.  
 __be on track__ :three: To progress or develop as planned, scheduled, or expected. _Everyone in our entire department is on track to meet their sales quotas for the year._  
 __be on vacation__ _During January and February the trolleys are on vacation._  
+__be onto (something)__  
 __be out for/after (one’s) scalp__  
 __be partial to (someone or something)__  
 __be put behind bars__ To be arrested and held in prison; to be sentenced to serve time in prison. _Sir, I’m afraid your son has been put behind bars on a charge of drunk driving._  
@@ -1073,6 +1075,7 @@ __buckle up__ :eight::hammer: _Bucking up a seat belt._ _Oregon law calls for dr
 __buff up__  
 __bug off__ _slang_  
 __bug__ __7__ _v_ To annoy, pester, or irritate someone. _I don’t know what it is about Tom, but he just bugs me whenever I’m around him._ _Your kids will be too busy bugging you to buy them cotton candy at the concession._  
+__bugger__  
 __build a case__ :dart::two: To compile evidence that supports an argument or charges against someone or something.  
 __build bridges__ :two::hammer:  
 __build castles in the air__ (build castles in the sky)  
@@ -1210,7 +1213,7 @@ __capeesh__ _phr_ :dart: As interrog., do you understand? thus as v., to underst
 __capitalize on (something)__ :dart::three: To take advantage of a particular opportunity or situation for one’s benefit. _We need to capitalize on that team’s losing streak and overtake them in the standings._  
 __Captain Obvious__ :three: A person who makes a statement or statements of such obvious meaning or implication as to be entirely redundant, superfluous, or unnecessary. _Pauline: “The President has said that lower-class families are bearing the brunt of the recession worse than anyone else.” Johnny: “Thank you, Captain Obvious!”_  
 __cards are stacked against someone__ Luck is against someone.  
-__career cushioning__ Career cushioning is an informal term for the practice of lining up future job opportunities while still employed at one’s current job. It doesn’t imply reducing the amount of effort devoted to one’s current job, as _quiet quitting_ does.  
+__career cushioning__ :two: _informal_ The practice of lining up future job opportunities while still employed at one’s current job. It doesn’t imply reducing the amount of effort devoted to one’s current job, as _quiet quitting_ does.  
 __carp about (someone or something)__ To complain about someone or something, especially in a way that others find annoying. _If you hate your job so much, quit carping about it and look for a new one!_  
 __carp at (one)__ To complain to one about someone or something, especially in a way that one finds annoying. _If you hate your job so much, quit carping at me about it and look for a new one!_  
 __carrot and stick__ :three: (carrots and sticks, carrot or stick) Reward and punishment.  
@@ -1273,7 +1276,7 @@ __caught on the hop__ Caught unawares or in a state of unpreparedness. _Please f
 __caught unaware(s)__ To be surprised by someone or something. _The clerk was caught unawares, and the robber emptied out the cash register before the clerk could sound the alarm._  
 __caught with your pants down__ To be found in an embarrassing situation.  
 __cause a stir__ :three: To incite trouble or excitement. _ChatGPT is the latest artificial intelligence (AI) chatbot to cause a stir._  
-__cautionary tale__ :three::hammer:  
+__cautionary tale__ :four::hammer:  
 __cave in__  
 __chafe at (something)__ To feel or express annoyance in response to something. _Bruce chafed at the idea that the new hire he was training made more money than him._  
 __chafe at the bit__ :three: To be impatient and/or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws). _The crowd chafed at the bit to see the unveiling of the new building._  
@@ -1340,6 +1343,7 @@ __chummy__
 __chunk__ :dart: __1__ _vi_ To empty one’s stomach; to vomit. (Collegiate.) _The cat chunked all over the carpet._ __2__ :dart: _vi_ To do badly; to blunder. _Sorry. I really chunked on that last deal._ __3__ _n_ A gun considered as a chunk of iron. (Underworld.) _You carrying a chunk?_ __4__ _n_ A fat or stout person. _Billie’s getting to be such a chunk!_  
 __churn out__ :five::hammer: _ChatGPT helps radiologist churn out 16 papers in 4 months._  
 __churn something up__  
+__ciggy__ A shortening of “cigarette.” _Hey, can I bum a ciggy off you?_  
 __cinch__  
 __cipher<sup>1</sup>__ _n_ :two: __1__ The mathematical symbol (0) denoting absence of quantity; zero. __2__ :two: A person who is unimportant, insignificant, or without influence. It refers to the mathematical symbol for zero (0). _I feel like a bit of a cipher in such a large company._  
 __circle back (to something)__ :three::hammer:  
@@ -1356,6 +1360,7 @@ __clean sweep__
 __clean up (one’s) act__ To improve one’s behavior.  
 __clean up after (someone or something)__  
 __clean-cut__ Neatly groomed. _My sister likes long-haired bad boys, but I’ve always thought that clean-cut guys are cuter._  
+__clear as muck__ The idiom “clear as muck” is a British expression that means something is not clear at all; in fact, it suggests that the subject is quite confusing or difficult to understand. The term “muck” refers to dirt or mud, implying that if something is as clear as muck, it is murky and obscured, much like muddy water.  
 __clear the air__ :dart::two::hammer:  
 __clear the room__ It can also be used figuratively to describe a situation where something, such as a strong odor or a loud noise, causes everyone to leave the room.  
 __click with (one)__ :two: __1__ To have a positive connection or friendly rapport with one, often quickly. __2__ To quickly resonate with one or a group. __3__ To make sense to one; to be able to be understood by one. _The tutor’s explanation of sine and cosine really clicked with me—I think I finally understand it now._  
@@ -1573,6 +1578,7 @@ __curtains for (someone or something)__ The end, death, or demise of someone or 
 __curve ball__  
 __cushy job__ :two: A job that is easy, stress-free, and/or very well paid. _Since I got this cushy job managing a toy store, I’ve gotten to sit around playing with toys all day._  
 __cuss a blue streak__ To use profane language with great rapidity and intensity. _My dad cussed a blue streak after he found out I’d put a dent in his car._ _He gathered the players together and then commenced cussing a blue streak at very high volume._  
+__cuss out__ To use profane language as a reprimand or attack. A noun or pronoun can be used between “cuss” and “out.” _I cussed out the driver that nearly backed into my car._ _I had to cuss him out—he was just being so rude!_  
 __custard apple__ _n_ :es: chirimoya  
 __cut (one’s) teeth__ :three::hammer:  
 __cut (one) some slack__ :two::hammer:  
@@ -1700,6 +1706,7 @@ __dipso__ _n_ /ˈdɪpso/ A drunkard; an alcoholic. _Yeah, it wasn’t until I we
 __dirt cheap__ Very inexpensive. _These shoes were dirt cheap—I found them on the clearance rack._  
 __dirtbag__  
 __dirty money__ Money that is obtained or earned through illicit or illegal means, especially thievery, bribery, forgery, or money laundering. _He went from being dirt-poor to being a multimillionaire in just a few years, but given his shady associations, I’d say most of that is dirty money._  
+__disabuse (someone or oneself) of (something)__ To stop someone or oneself from continuing to believe something that is false. _After being so ill, I had to disabuse myself of the notion that work is more important than my health._  
 __disengage from (someone or something)__  
 __dish out__ :seven::hammer: _Yoda will dish out the advice._  
 __dish something out__  
@@ -1759,6 +1766,7 @@ __don’t get mad, get even__ :dart: Channel your anger into revenge. _When I he
 __don’t get me started__ :two: An exclamation of weariness or despair regarding a topic that has just been introduced and about which the speaker feels very strongly and (usually) has a negative opinion of.  
 __don’t go there__ :two: Don’t get into that topic of conversation; I don’t want to talk about that. Used humorously, the phrase usually implies that the speaker has a potentially scandalous, sensitive, or otherwise complicated association with the topic. _A: “So, do you ever hear from your ex-husband?” B: “Don’t even go there. That divorce trial still gives me a headache!”_  
 __don’t kill the messenger__  
+__don’t know any better__ The idiom “don’t know any better” refers to a situation where someone is unaware of a more appropriate or correct way to act, think, or behave. It often implies that the person’s lack of knowledge or experience leads them to make mistakes or poor choices, but it is not necessarily their fault. The phrase can convey a sense of innocence or naivety.  
 __don’t let the door hit you on the way out__ :two: Leave here quickly and directly; don’t linger on your way out the door. Used sarcastically to express one’s desire to see someone leave. _I couldn’t be happier that you’re leaving the firm, you were a nuisance here anyway. Don’t let the door hit you on the way out!_  
 __don’t mention it__  
 __don’t press your luck__ :two::hammer:  
@@ -2083,6 +2091,7 @@ __flimflam__
 __flip (one) the bird__ To raise the middle finger (a rude gesture of anger or displeasure) at one.  
 __flip on__ :dart: To turn something on, typically a switch. A noun or pronoun can be used between “flip” and “on.” _As soon as I flipped on the light, I could see that the house had been robbed._ _He flipped on the radio._  
 __flip-flop__ __1__ _v_ To completely change one’s opinion or stance. Primarily heard in US.  
+__flit about__ To move in a quick, deft manner.  
 __float (one’s) boat__ To make someone happy. Often used in the phrase “whatever floats (one’s) boat.” _A: “What do you want for dinner?” B: “Whatever floats your boat, I’m not even hungry.”_ _I think this new job in the lab will really float Isabel’s boat._  
 __float an idea__ To suggest something in order to gauge interest in it or others’ perception of it.  
 __flog a dead horse__  
@@ -2322,17 +2331,18 @@ __get in(to) (one’s) pants__ _vulgar slang_ To have sex with one. (Usually sai
 __get in(to) (someone’s) pants__ _vulgar_ _slang_ To have sex with someone. (Usually said of the intention or expectation.)  
 __get in(to) hot water__ :three: To provoke or incite anger, hostility, or punishment against oneself; to cause or encounter trouble or difficulty, especially that which will result in punishment or reprisal.  
 __get into (someone or something)__ :two: __13__ To become interested in or passionate about something. _My daughter has gotten into sports all of sudden._  
-__get into it__  
-__get it (all) together__  
+__get into it__ :two::hammer:  
+__get it (all) together__ :two::hammer:  
 __get it off my chest__  
 __get knocked out cold__ To be rendered unconscious, as by a physical blow, medication, or other means. _I had a shot at a championship boxing title, but I got knocked out cold in the semi-finals._ _I hope I don’t get knocked out cold by this painkiller the doctor gave me._  
 __get lucky__  
 __get nowhere__  
 __get off (one’s) high horse__ To stop acting as if one is better than other people; to stop being arrogant or haughty.  
 __get off__ _I always get off the bus a stop early on the way to work._  
-__get on (one’s) nerves__ To irritate, grate on, or exasperate one.  
+__get on (one’s) nerves__ :two: To irritate, grate on, or exasperate one.  
 __get on like a house afire__ Of two or more people, to enjoy one another’s company very much from the start and become good friends at once. (Used when people are meeting for the first time.) _I can’t wait for you to meet Mark, I just know the two of you will get on like a house afire!_  
 __get on someone’s nerves__ :two: To annoy someone a lot. _A yes-man suck-up can get on your nerves._  
+__get on the bandwagon__  
 __get on top of (something)__  
 __get on your nerves__ To annoy someone a lot.  
 __get one’s act together__ :two: (get one’s shit together, get it all together) Start to behave more appropriately or effectively; get organized. For example, _Once Joe gets his act together he’ll get a raise_, or _You’d better get it all together before the boss comes back._ The variant using _shit_ is considered vulgar. Galvanize oneself into organizing one’s affairs effectively.  
@@ -2343,20 +2353,21 @@ __get out__
 __Get outta here!__  
 __get over it__ :dart::two: To move on and accept things the way they are; to stop being concerned by or with something that is in the past or can’t be changed. Often used as an imperative. _Look, I’m going to marry him whether you want me to or not. Get over it!_  
 __get over someone or something__ _They’re getting over their heads._  
-__get past (someone or something)__  
-__get real__ :dart::two: To realize or accept the truth; to be realistic or practical. Often used as an imperative.  
+__get past (someone or something)__ :two::hammer:  
+__get real__ :dart::three: To realize or accept the truth; to be realistic or practical. Often used as an imperative.  
 __get shut-eye__ _I’ll get some shut-eye._  
 __get smart (with one)__ To make disrespectful comments to one; to sass one. _Just take out the trash like I asked you to, and don’t get smart with me._  
 __get someone’s dander up__ To make someone get angry. _Now, don’t get your dander up. Calm down._ _The customer’s disrespectful attitude got the waitstaff’s dander up._  
 __get someone’s goat__ :two: _informal_ If someone or something gets your goat, they annoy you. (It’s believed that the phrase comes from actual goats and their effect on race horses. Goats are thought to calm down anxious or energy-filled thoroughbreds, so owners would put a goat in the horse’s stall for the night before the race. Stealing that goat out of the pen would thus upset the horse and make it perform poorly on the big day.)  
 __get something straight__  
+__get swole__ _slang_ To develop or pump up one’s muscles, that is, until they look swollen. _A: “You coming to club with us tonight?” B: “Yep, just want to hit the gym to get swole first.’_  
 __get taken to task (by someone)__ To be scolded, rebuked, reprimanded, or criticized (by someone). _I got taken to task by the headmaster for disrupting class again._  
 __get the axe__ To lose your job.  
 __get the ball rolling__ :dart: To set something, often a process, in motion; to begin. _I think it will be easier to become comfortable driving now that I’ve gotten the ball rolling with driving lessons._ _Anyway, if everyone’s here then let’s get the ball rolling._  
-__get the best of (someone or something)__ To overwhelm, take control, or gain an advantage over someone or something.  
+__get the best of (someone or something)__ :dart::two: To overwhelm, take control, or gain an advantage over someone or something.  
 __get the best of me__  
 __get the better of (someone or something)__ :two: To gain superiority, mastery, or an advantage over someone or something; to get control over someone or something. _I knew I shouldn’t be meddling in other people’s business, but my curiosity got the better of me._  
-__get the boot__  
+__get the boot__ :two::hammer:  
 __get the bug__  
 __get the drift of something__ :two: To understand the general meaning of some situation or piece of information. To understand the general idea of something. _I knew enough German to get the drift of this article. I don’t get the drift of what you’re trying to tell me._ _Since I don’t have time at work to read news articles in full, I usually just read a daily news recap to get the drift of what.s going on in the world._  
 __get the drift__  
@@ -2366,7 +2377,7 @@ __get the green light__ :two: To receive permission to proceed with some action 
 __get the handle of__  
 __get the hang of (something)__ :two::hammer:  
 __get the knack of__ :three: To learn how to do something competently or well after a certain period of practice or development. _Wow, you’re really getting the knack of playing piano!_  
-__get the picture__ :two: To understand the real or overall meaning of a situation, without the need for further explanation. _OK, I get the picture. I’ll start looking for somewhere else to stay._  
+__get the picture__ :three: To understand the real or overall meaning of a situation, without the need for further explanation. _OK, I get the picture. I’ll start looking for somewhere else to stay._  
 __get the sniffles__ To catch a cold, usually a minor one. _My daughter seems to have gotten the sniffles from someone at daycare._  
 __get the the green light__ To receive permission to proceed with some action or task. Likened to the green light of a traffic signal.  
 __get this show on the road__ :two: To promptly begin or get something started. _Sorry for the delay, folks. I think we’re ready to get this show on the road._  
@@ -2378,7 +2389,7 @@ __get to know__ :two: To start to be familiar with someone or something. If you 
 __get to someone__ :two::hammer: _Don’t let her get to you._  
 __get to the point__ To talk directly about the most important part or topic.  
 __get under (one’s) skin__ :four: __2__ Obsess someone or affect someone’s deep feelings, as in _Jean’s really gotten under his skin; he misses her terribly._ Cole Porter used this sense in his love song, “I’ve Got You Under My Skin” (1936).  
-__get wind of (something)__ :four::hammer:  
+__get wind of (something)__ :five::hammer:  
 __get wise (to someone or something)__ :two: To find out, become aware of, more fully understand, and/or no longer be deceived (by something or someone). To become fully aware or cognizant of someone or something, especially if he, she, or it is suspicious, illegal, or malicious in nature or intention. _I’ve been taking small supplies from the office for a long time, but I think the boss is getting wise._  
 __get with the times__ _slang_ To understand or be knowledgeable of modern times, especially as relates to the contemporary trends, ideas, or fashions. (Usually said as a jocular or sarcastic imperative.) _Get with the times, John, nobody wears their hat like that anymore!_  
 __get word (from someone or something)__  
@@ -2390,7 +2401,7 @@ __get your foot in the door__
 __get your shit together__  
 __get-rich-quick__ :two: (used as a modifier before a noun) Of or characterized by generating a large sum of money quickly and (typically) without requiring much effort or energy. _Jenny’s always coming up with some get-rich-quick scheme to lift us out of this dinky little town._  
 __get-together__ _informal_ A casual social gathering. _Oh, I’m busy on Saturday—I have to go to a family get-together._  
-__ghost__ _slang_  
+__ghost__ _slang_ :two::hammer:  
 __ghosting__ _slang_  
 __GI Joe__  
 __giddy up__  
