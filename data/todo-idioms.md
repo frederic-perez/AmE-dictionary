@@ -1,3 +1,10 @@
+__break even__  
+__cash flow__  
+__Catch-22__  
+__educated guess__ A thoughtful, well-reasoned guess; a guess with some basis in one’s knowledge.  
+__first come, first served__ The first people present will be the first to receive something, often something that is available in limited quantities.  
+__for kicks__  
+__get lucky__  
 __ghosting__ _slang_  
 __gig__  
 __give (one’s) ground__  
@@ -35,6 +42,7 @@ __graze on (something)__ __1__ Of animals, to eat the greens or vegetables in a 
 __green thumb__  
 __hairpin bend__ :two: A very sharp, approximately 180° bend in a road.  
 __have a rocky start__ To have a troubled, uncertain, or discouraging beginning.  
+__have a say (in something)__ :two: To have an active and participatory role in making or influencing a decision about something.  
 __have a shit__  
 __hear the end of (someone or something)__  
 __heat wave__ A period of time in which the weather is unusually and persistently hot.  
@@ -61,6 +69,7 @@ __in all honesty__
 __in all likelihood__  
 __in all seriousness__  
 __in and of itself__  
+__in arrears__ :three: Behind or overdue, often because one has not made a payment as scheduled.  
 __in concert with (someone)__ Together with someone; in cooperation with someone. _You’ll need to work in concert with my file clerk to sort through all this paperwork._  
 __in full swing__ :two::hammer:  
 __in hot water__ :dart::two: Having provoked or incited anger, hostility, or punishment against oneself; in a troublesome or difficult situation, especially that which will result in punishment or reprisal. _I was in a bit of hot water with Janice last night when she found out I went to the movies instead of cleaning out the garage._  
@@ -109,6 +118,7 @@ __in the wild__ In naturally occurring conditions or environments.
 __in the woods__ __1__ Being in a forest or a natural woodland area. _We went camping in the woods._ __2__ It can also mean being in critical condition, near death’s door.  
 __in the works__  
 __in virtue of (something)__ Due to something; because of something; by reason of something. _In virtue of your years of hard work and experience in the company, we think you would be well-suited to a managerial role within the company._  
+__in working order__  
 __in(to) shape__ In good, robust health; strong or fit. _Boy, I really need to get into shape. Ten years working behind a desk have given me quite a belly!_  
 __incumbent (up)on (someone)__ Imposed or expected as an obligation, duty, or requirement on someone.  
 __ink__ _slang_ __4__ _v_ To sign one’s name to (something); to formalize and seal something, as a deal or contract. _Before we ink the contract, I want my lawyer to have a look at the details._  
@@ -191,11 +201,13 @@ __level the playing field__ To make a situation or activity more fair and balanc
 __lick (one’s) wounds__  
 __lie to__ __2__ (Nautical) Of a sailing vessel, to remain stationary while facing the wind. _Make sure the ship lies to during the storm so as not to capsize._  
 __life, the universe, and everything__ The question that pan-dimensional space-beings asked the computer Deep Thought in Douglas Adams’s book, _The Hitchhiker’s Guide to the Galaxy._ The computer took millions of years and came up with the answer 42. _Balancing risks is life, the universe, and everything._  
+__lift__  
 __liminal__ _adj_ /ˈlɪmɪnəl/  
 __litmus test__  
 __live up to (something)__ :three::hammer: _Live up to the hype._  
 __living proof__  
 __loaded gun__ A situation or person that is dangerous or volatile. For example, a person might be described as a “loaded gun” if they are highly emotional or prone to outbursts.  
+__long and hard__  
 __loop the loop__ __1__ _n_ A flight maneuver in which an aircraft flies in a complete vertical circle. (Usually hyphenated.) _I loved going to air shows as a kid, and I always dreamed of doing loop-the-loops in an airplane when I grew up._ __2__ _v_ To fly an aircraft in a complete vertical circle. _I thought I was going to throw up when the pilot looped the loop with our little biplane._  
 __loosen up__  
 __loosey-goosey__  
@@ -250,6 +262,7 @@ __Nervous Nellie__ /nuhr-vuhs NEL-ee/(nervous Nellie/Nelly) Any nervous person, 
 __nice and (something)__ :five: Very something. Used to emphasize how nice something is because of the particular quality named after “and.” _I love your new house! It’s nice and bright inside!_ _Ah, this lemonade is nice and cold—just the thing for such a hot day._  
 __nip at__ __1__ To give (someone or something) little bites. _Their dog kept nipping at my heels whenever I walked through the house._ _I know some people go crazy for the treatment, but I can’t stand the feeling of fish nipping at my feet!_ __2__ To sting (a part of one’s body) with cold. _The air had just started nipping at our noses by the time we reached the house._ _There’s nothing like settling down in front of a fire with a hot drink after the cold wind has been nipping at your cheeks on a long, satisfying bike ride._ _The cold air nipped at my lungs if I breathed in too quickly._ __3__ To take small, frequent sips of (some drink, especially alcohol). _I caught my grandma nipping at a flask, which she tried to pretend had medicine inside of it._  
 __no end in sight (to something)__  
+__no question about it__ :two: Definitely; for sure.  
 __no stranger to (something)__  
 __noblesse oblige__ /noh-BLESS-uh-BLEEZH/ Noblesse oblige refers to the idea that people who have high social rank or wealth should be helpful and generous to people of lower rank or to people who are poor.  
 __nose-dive__ Take a sudden downtrend.  
@@ -295,11 +308,14 @@ __on-site__
 __once and for all__  
 __once in a blue moon__ Very rarely.  
 __one size fits all__ :two::hammer:  
+__one-off__ :two::hammer:  
 __photobomb__  
+__play havoc with (someone or something)__ To cause issues or disruptions for someone or something. _The road closures have played havoc with rush-hour traffic._  
 __prim and proper__ Having very traditional, morally conservative beliefs and behavior.  
 __public eye__ Attention from the general public. Typically used in the phrase “in the public eye.”  
 __puppy__ __1__ _n_ A wimp; a softie. _That silly puppy is still waiting outside your door._ __2 __ _n_ A thing; a piece or part of something. _Put this little puppy right here._  
 __put (someone or something) (up) on a pedestal__ To believe or behave as if someone or something is perfect, wonderful, or better than others, to the extent that one is unable to see its potential flaws or faults.  
+__put off__ __1__ _v_ To deter, annoy, or repel. A noun or pronoun can be used between “put” and “off.” _I don’t know if you realize how much you put people off with your attitude._  
 __put up with (someone or something)__ To abide or endure someone or something that one finds unpleasant, inconvenient, or annoying.  
 __quite a few__ (quite a lot; quite a bit; quite a number)  
 __roast__  
@@ -307,6 +323,7 @@ __rue the day (that something happened)__ To curse or bitterly regret a point in
 __rule of law__  
 __rules of the road__  
 __rumor has it (that)__ It is being rumored that (something is or will be the case). _Rumor has it that the boss is using the company profits to pay off his own gambling debts._  
+__run the gauntlet__ To be exposed to or forced to endure a series of threats, dangers, criticism, or other problems. Refers to an old military punishment in which one was forced to run between two lines of soldiers while being thrashed with rods or whips. _Medical students often feel that they have to run the gauntlet when they become residents in a hospital._  
 __seep in(to something)__  
 __serve (one’s) time__  
 __set a camp__  
@@ -326,29 +343,36 @@ __slap in the face__ Words or actions that have offended or otherwise upset some
 __sleazo__  
 __slice of the pie__  
 __slowly and surely__  
+__small print__ (fine print) An important part of a document that is not easily noticed because of the smallness of the printing. _You should have read the small print before signing the contract._  
 __snatch (someone) from the jaws of death__ To rescue someone at the last moment from near or certain death.  
 __snazzy__ Particularly elegant, dazzling, classy, or fancy in appearance. _Wow, that’s a snazzy new suit you’ve got on! Big meeting today or something?_ _She runs one of the snazziest clubs in town._  
 __so much so that__  
 __soft spot__  
 __something of sorts__ An inferior example of a kind of something.  
+__sort out__  
 __stamp of approval__ An indication of endorsement or authorization of something.  
 __stand on (one’s) own (two) feet__ To be strong and independent; to not need the help, guidance, or resources of another person.  
+__strangely enough__ Bafflingly; surprisingly; atypically.  
 __swig__ __1__ _n_ Adeep drink of liquor; a swallow of liquor. _She took a swig of rum and leaped into the lagoon._ __2__ _vt_ To drink liquor deeply. _He nearly swigged the whole bottle before he needed to take a breath._  
 __take (something) with a pinch of salt__ (take something with a dash/grain of salt)  
+__take on__ :two: __3__ To hire or employ someone; to contract someone for their services. A noun or pronoun can be used between “take” and “on.” _We take on a number of high-school graduates each year as interns to give them some work experience before they begin college._  
 __test the water(s)__ To informally or casually attempt to gauge the reaction of a potential audience or recipient of something, or to try to get an idea of what something will be like before actually doing it. Likened to feeling the temperature of water before getting in.  
 __That’s a fact, jack!__ _humorous_ Used to emphasize that something is true.  
 __that’s the spirit!__ That’s the right kind of attitude to have in order to be successful.  
+__the (hand)writing on the wall__  
 __the last of the lot__ The last or final person(s) or thing(s) in a given group or list. _This package is the last of the lot. Once we get this shipped, we can call it a day._  
 __the last thing (one) wants__ Something which one absolutely does not want or has no use for. _The last thing I want right now is a lengthy court battle, so let’s try and get through this divorce as painlessly as possible._  
 __turd blossom__  
 __turn of phrase__  
 __under-promise and over-deliver__ To avoid raising expectations in order to subsequently exceed them. Used as a strategy to ensure the satisfaction of one’s client, customer, boss, etc. Also spelled without hyphens.  
 __wait and see__  
+__warts and all__ :dart: Including any imperfections or flaws. _If you’re going to marry him, then you better love him, warts and all._  
 __when pigs can fly__ At a point in time that will never come to pass. (Used to show skepticism or cynicism over some hypothetical situation or outcome.)  
 __where to draw the line__  
 __whip out__  
 __wild ride__ A _wild ride_ refers to an experience or adventure that is thrilling, intense, unpredictable, and often exhilarating.  
 __willy-nilly__  
+__work out__  
 __yup__  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
 __zero in__ :two::hammer:  
