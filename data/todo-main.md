@@ -10,16 +10,21 @@ __brow__ _n_ The projecting upper edge of a steep place. _Syn_ top, summit, peak
 __bursary__ _n_  
 __byword__ _n_ _Syn_ adage, aphorism, maxim, motto, proverb, saw, saying  
 __candlestick__ _n_ (candleholder) A holder, usually ornamental, with a spike or socket for a candle.  
+__canvasser__ _n_  
 __catapult__ _v_ /ˈkæt əˌpʌlt, -ˌpʊlt/  
 __ceasefire__ _n_  
 __ceiling rose__ _n_ In the United Kingdom and Australia, a _ceiling rose_ is a decorative element affixed to the ceiling from which a chandelier or light fitting is often suspended.  
 __chute__ _n_  
+__claimant__ _n_ :es: demandante; solicitante  
 __clean-shaven__ _adj_ __1__ Having the beard or hair shaved off. __2__ Having recently shaved.  
+__clearing bank__ _n_ (in Britain) Any bank that makes use of the central clearing house in London for the transfer of credits and cheques between banks.  
 __clued up__ _adj_ _BrE_ _informal_ Knowledgeable about a topic or situation; possessing the facts. :es: al tanto (de), al corriente (de)  
 __co-op__ _n_ A cooperative enterprise, building, or apartment.  
 __coda__ _n_  
+__colloquy__ _n_ :pencil2: /ˈkɒl ə kwi/  
 __comment period__ _n_ A “comment period” is a designated timeframe during which members of the public, stakeholders, or interested parties are invited to provide feedback, opinions, or suggestions on a proposed rule, regulation, policy, or decision. This process is commonly used by government agencies, organizations, or regulatory bodies to gather input before finalizing a decision or implementing a new policy.  
 __copious__ _adj_ /KOH-pee-us/ _Copious_ is a synonym of abundant and plentiful. It is always used before a noun to describe something very large in amount or number.  
+__countless__ _adj_ Too many to be counted; innumerable. _Syn_ incalculable _Countless times._  
 __crocodile clip__ _n_ :camera: A clasp with serrated interlocking edges used for making electrical connections.  
 __dalliance__ _n_  
 __deliver__ _v_ _He always promised more than he could deliver._  
@@ -31,6 +36,7 @@ __discernible__ _adj_ Capable of being seen or noticed. _Syn_ evident, observabl
 __disfavor__ _v_ Put at a disadvantage; hinder, harm. _Syn_ disadvantage  
 __dismay__ _vt_  
 __dissipate__ _v_ :pencil2:  
+__distraint__ _n_ _Law_ :es: embargo  
 __doable__  
 __docker__ _n_ A laborer who loads and unloads vessels in a port. _Syn_ dock worker, dockhand, dock-walloper, dockworker, loader, longshoreman, lumper, stevedore :es: estibador  
 __dodo__ _n_ __2__ _informal_ An intensely conservative or reactionary person who is unaware of changing fashions, ideas, etc.  
@@ -82,6 +88,7 @@ __felony__ _n_ A crime that has a greater punishment imposed by statute than tha
 __fervent__ _adj_ Having or showing great emotion or zeal. _Syn_ ardent, fervid, fiery, impassioned, perfervid, torrid  
 __fiddle-faddle<sup>1</aup>__ _n_ /ˈfɪdəlˌfædəl/ Nonsense.  
 __fiddle-faddle<sup>2</sup>__ _v_ To fuss or waste time, esp over trivial matters.  
+__figuratively__ _adv_  
 __fire grate__ _n_ (firegrate, fire-grate) A grate used to hold the fuel in domestic fireplaces and in many forms of heaters and furnaces. _She prepared the fire grates._  
 __flash flood__ _n_ (flashflood) A sudden flood of great volume, usually caused by heavy rain.  
 __flaunt__ _v_  
@@ -97,7 +104,10 @@ __foist__ _v_ /FOIST/ _Foist_, which is almost always used with _on_ or _upon_, 
 __folksy__ _adj_  
 __folly__ _n_ (construction)  
 __footage__ _n_ :mega:  
-__fortnight__ _n_ :dart::astonished: [:scroll: Middle English fourtenight, alteration of fourtene night, fourteen nights] A period of 14 days; two weeks.  
+__fortnight__ _n_ :dart::astonished::two: [:scroll: Middle English fourtenight, alteration of fourtene night, fourteen nights] A period of 14 days; two weeks.  
+__fortnightly<sup>1</sup>__ _adj_ Happening or appearing once in or every two weeks.  
+__fortnightly<sup>2</sup>__ _adv_ Once in a fortnight.  
+__fortnightly<sup>3</sup>__ _n_ :astonished: A publication issued once every two weeks.  
 __fracas__ _n_  
 __fusty__ _adj_ /FUSS-tee/ Someone or something described as fusty is rigidly old-fashioned. Fusty is also used as a synonym of musty to describe things that are full of dust and unpleasant, stale odors.  
 __gabby__ _adj_ Tending to talk excessively. _Syn_ chatty, garrulous, loquacious, talkative, talky  
@@ -105,7 +115,9 @@ __gadabout__ _n_ /GAD-uh-bout/ A gadabout is a person who flits about in social 
 __galvanize__  
 __gasp<sup>1</sup>__ _v_  
 __gasp<sup>2</sup>__ _n_ __1__ A short convulsive intake of breath.  
+__giro__ _n_ __2__ _informal Brit_ An unemployment or income support payment by giro cheque, posted fortnightly.  
 __grawlix__ _n_ :dart: /GRAW-liks/ A series of special characters, such as “@#$%&*,” that are used to indicate either miscellaneous text, or more commonly, swear words. The term is attributed to Mort Walker, an American cartoonist known for his Beetle Bailey comic strip.  
+__grease pit__ _n_ A narrow pit or trench over which a vehicle can be driven and conveniently worked on from beneath.  
 __grouse__ _v_  
 __gruntled__ _adj_ /ˈɡrʌntəld/ _informal_ Happy or contented; satisfied.  
 __hands-off__ _adj_ Characterized by nonintervention: a hands-off foreign policy.  
@@ -145,6 +157,7 @@ __lionhearted__ _adj_
 __lip liner__ _n_ (lip liner)  
 __listless__ _adj_ Marked by low spirits; showing no enthusiasm. _Syn_ dispirited  
 __litigation__ _n_  
+__Little Red Riding Hood__ _n_ A girl in a fairy tale who meets a wolf while going to visit her grandmother.  
 __livid__ _adj_ __3__ _informal_ Angry or furious.  
 __loan word__ _n_  
 __locus__ _n_  
@@ -163,17 +176,22 @@ __marionette__ _n_ _Syn_ puppet
 __meliorism__ _n_ /MEE-lee-uh-riz-um/ _Meliorism_ refers to the belief that the world tends to improve and that humans can aid its betterment.  
 __midriff__  
 __misnomer__  
+__moisten__ _v_  
 __moot__ _vt_  
+__mother of pearl__ _n_  
 __mountaineering__  
 __mpox__ _n_ (formerly called _monkey pox_) A zoonotic disease especially of central and western Africa that is caused by a poxvirus.  
+__nail varnish__ _n_ (nail enamel, nail polish)  
 __natural hat trick__ _n_ _sports_ A hat trick in which three goals are scored in succession by one player in one game.  
 __nigh__ _adj, adv, prep_ /naɪ/ An archaic, poetic, or dialect word for near.  
 __noggin__ _n_ __1__ A small mug or cup. __2__ A unit of liquid measure equal to one quarter of a pint. __3__ _slang_ The human head.  
+__nominal wages__ _n_ (money wages) Wages measured in terms of money and not by their actual purchasing ability.  
 __nonplus__ _v_ /nahn-PLUS/ To _nonplus_ someone is to perplex them, or in other words, to cause them to be at a loss as to what to say, think, or do.  
 __nubbly__ _adj_ Rough or irregular; textured. _Syn_ homespun, nubby, slubbed, tweedy  
 __obsequious__ _adj_  
 __off-limits__  
 __ontic__ _adj_ /ON-tik/ [:scroll: From Greek onto (being)] Having or relating to a real existence.  
+__onus__ _n_ :dart:  
 __ossify__ _v_ /AH-suh-fye/ In general contexts, something that ossifies becomes hardened or conventional and opposed to change. In medical contexts, something that ossifies (such as cartilage) forms or is transformed into bone.  
 __outbreak__  
 __outline__ _v_  
@@ -188,6 +206,7 @@ __parson__ _n_
 __pasquinade__ _n_ A satire or lampoon, especially one that ridicules a specific person, traditionally written and posted in a public place. _Syn_ parody, put-on, sendup, spoof, charade, lampoon, mockery, burlesque, travesty, takeoff  
 __pathos__ _n_ A quality, as of an experience or a work of art, that arouses feelings of pity, sympathy, tenderness, or sorrow. _Syn_ poignancy  
 __pauperism__ _n_ A state of extreme poverty or destitution. _Syn_ indigence, penury, need  
+__payslip__ _n_ (pay slip) A piece of paper received by an employee showing how much salary they have been paid.  
 __peculiar__ _adj, n_  
 __pejorist__ _n_ /PEJ-uh-rist/ A person who believes that the world is getting worse.  
 __pen test__ _n_ (penetration test) An authorized simulated cyberattack on a computer system, performed to evaluate the security of the system.  
@@ -205,6 +224,7 @@ __phony__ _adj_
 __pickeball__ _n_  
 __pitch__ _n_ :es: (esp. _British_) campo, cancha  
 __plod__ _v_ To walk heavily or move laboriously; trudge.  
+__plover__ _n_ :es: chorlito  
 __pluck__ _v_  
 __poll tax__ _n_ A fixed tax levied on all persons in a certain area, especially as a condition of voting in elections.  
 __polypharmacy__ _n_ The practice of prescribing multiple medications for an individual patient, especially excessively, for a single disease.  
@@ -228,6 +248,7 @@ __quaver__ _vi_ __1__ To quiver, as from weakness; tremble. _I took a quavering 
 __quiff__ _n_  
 __quiver<sup>1</sup>__ _vi_  
 __quiver<sup>2</sup>__ _n_ __1__ A portable case for holding arrows.  
+__rebate__ _n_ A refund of a fraction of the amount payable or paid, as for goods purchased in quantity; discount. :es: reembolso  
 __receptacle outlet__ _n_ An electrical outlet where one or more receptacles are installed.  
 __receptacle__ _n_ A device which is installed in an outlet box to receive a plug for the supply of electric current to an appliance or portable equipment.  
 __reck<sup>1</sup>__ _n_ /rek/ Care or concern.  
@@ -236,8 +257,10 @@ __redleg__ _n_ /ˈrɛdˌlɛɡ/ _derogatory Caribbean_ A poor White person.
 __reef__ _n_ __3__ _Nautical_ A portion of a sail gathered in and secured to lessen the area exposed to the wind.  
 __reify__ _v_ /ˈri əˌfaɪ, ˈreɪ-/ /RAY-uh-fye/ Reifying is about considering or representing something abstract as a material or concrete thing. If you reify a concept or idea you somehow give it definite content and form.  
 __reignite__ _v_  
+__repeat__ _n_  
 __repose__ _n_ The act of resting or the state of being at rest. _Syn_ ease, relaxation, rest _The vacationer took his repose beside the swimming pool._  
 __reread__ _v_ :pencil2:  
+__riding hood__ _n_ A type of cloak or hood worn by women who rode horses. This clothing was designed specifically for riding, providing warmth and protection for the rider.  
 __rife__ _adj_  
 __rile__ _vt_ __1__ To irritate or vex. _Syn_ nettle, chafe, provoke, annoy, irk  
 __romcom__  
@@ -265,6 +288,7 @@ __skewer__ _n_
 __slightly__ _adv_ __1__ To a small degree or extent; somewhat. __2__ Slenderly; delicately: _slightly built._  
 __smell-feast__ _n_ _archaic_ One given to finding out and getting invited to good feasts. _Syn_ parasite, sponger  
 __smitten__ _adj_  
+__snarl__ _n_ __1__ A vicious growl, utterance, or facial expression. __2__ The act of snarling. __3__ A tangled mass, as of hair or yarn. __4__ A confused, complicated, or tangled situation: _a traffic snarl._  
 __snort__ _v_  
 __snuffle__ _v_  
 __socket outlet__ _n_ __1__ British term for receptacle outlet. __2__ See _outlet_.  
@@ -279,6 +303,7 @@ __strafe__ _v_ :dart: /streɪf, strɑf/ __1__ To attack (ground troops, etc.) wi
 __stridor__ _n_ :es: estridor, ruido sordo respiratorio  
 __string__ _n_ _The string of the tea bag._  
 __stub__ _n_ __1__ The usually short end remaining after something bigger has been used up: _a pencil stub; a cigarette stub._  
+__stuffy__ _adj_ :dart:  
 __subdural__ _adj_ Located or occurring beneath the dura mater: _subdural space; a subdural hematoma._  
 __summit__ _v_  
 __sunder__ _v_  
@@ -307,6 +332,7 @@ __truss__ _n_
 __trust__ _v_ __3a__ Reliance on something in the future; hope: _We have trust that the future will be better._  
 __trustworthiness__ _n_ The trait of deserving trust and confidence. _Syn_ trustiness  
 __tweener__ _n_ (sports, chiefly tennis) A shot that is hit between the legs.  
+__twine__ _n_  
 __unabashed__ _adj_ :three: Not ashamed, disconcerted, or apologetic; boldly certain of one’s position. Not disconcerted or embarrassed; poised. _Syn_ unembarrassed  
 __unattainable__ _adj_ _Unattainable love._  
 __undercut__ _v_  
