@@ -4,7 +4,7 @@ __ahem__ :dart::two: Used to attract attention or to express doubt or warning.
 __ahoy__ Used to hail a ship or to attract attention.  
 __alas__ :three::mega::hammer: /əˈlæs, əˈlɑs/  
 __allegedly__ An exclamation expressing disbelief or skepticism.  
-__aw__ :three: Used to express sympathy, tenderness, disapproval, or disbelief. _Aw, snap!_  
+__aw__ :dart::four: Used to express sympathy, tenderness, disapproval, or disbelief. _Aw, snap!_  
 __aye yi yi__  
 __bam__ :two: __1__ Representing a loud noise or heavy impact. Used to indicate the sound of a blow or a collision. __2__ Representing a sudden or abrupt occurrence. Used to indicate a sudden or unexpected occurrence. _BAM!_  
 __bejesus__ (bejeezus) Used to express exasperation, annoyance, or surprise.  

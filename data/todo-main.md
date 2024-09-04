@@ -9,15 +9,18 @@ __blithely__ _adv_ In a joyous manner.
 __brow__ _n_ The projecting upper edge of a steep place. _Syn_ top, summit, peak, edge, tip, crown, verge, brink, rim, crest, brim  
 __bursary__ _n_  
 __byword__ _n_ _Syn_ adage, aphorism, maxim, motto, proverb, saw, saying  
+__cad__ _n informal_ _old-fashioned_ _Brit_ A man who does not behave in a gentlemanly manner towards others.  
 __candlestick__ _n_ (candleholder) A holder, usually ornamental, with a spike or socket for a candle.  
 __canvasser__ _n_  
 __catapult__ _v_ /ˈkæt əˌpʌlt, -ˌpʊlt/  
 __ceasefire__ _n_  
 __ceiling rose__ _n_ In the United Kingdom and Australia, a _ceiling rose_ is a decorative element affixed to the ceiling from which a chandelier or light fitting is often suspended.  
+__chrome__ _n, v_ /kroʊm/  
 __chute__ _n_  
 __claimant__ _n_ :es: demandante; solicitante  
 __clean-shaven__ _adj_ __1__ Having the beard or hair shaved off. __2__ Having recently shaved.  
 __clearing bank__ _n_ (in Britain) Any bank that makes use of the central clearing house in London for the transfer of credits and cheques between banks.  
+__close-knit__ _adj_ Held tightly together, as by social or cultural ties: _a close-knit family._  
 __clued up__ _adj_ _BrE_ _informal_ Knowledgeable about a topic or situation; possessing the facts. :es: al tanto (de), al corriente (de)  
 __co-op__ _n_ A cooperative enterprise, building, or apartment.  
 __coda__ _n_  
@@ -25,6 +28,7 @@ __colloquy__ _n_ :pencil2: /ˈkɒl ə kwi/
 __comment period__ _n_ A “comment period” is a designated timeframe during which members of the public, stakeholders, or interested parties are invited to provide feedback, opinions, or suggestions on a proposed rule, regulation, policy, or decision. This process is commonly used by government agencies, organizations, or regulatory bodies to gather input before finalizing a decision or implementing a new policy.  
 __copious__ _adj_ /KOH-pee-us/ _Copious_ is a synonym of abundant and plentiful. It is always used before a noun to describe something very large in amount or number.  
 __countless__ _adj_ Too many to be counted; innumerable. _Syn_ incalculable _Countless times._  
+__courier__ _n_ :mega: /ˈkɜr i ər, ˈkʊər-/  
 __crocodile clip__ _n_ :camera: A clasp with serrated interlocking edges used for making electrical connections.  
 __dalliance__ _n_  
 __deliver__ _v_ _He always promised more than he could deliver._  
@@ -68,14 +72,17 @@ __entourage__ _n_
 __entreaty__ _n_ An earnest request or petition; a plea. _Syn_ appeal, prayer  
 __escritoire__ _n_ A writing table; a desk. _Syn_ secretaire, writing table, secretary  
 __estaminet__ _n_ /ɛs ta miˈnɛ/ A small café, bar, or bistro, esp a shabby one.  
+__etching__ _n_ :two::hammer:  
 __evanescent__ _adj_ /e-vuh-NES-uhnt/ Fading quickly; transitory.  
 __exceptionable__ _adj_ Open or liable to objection or debate; debatable. _Syn_ objectionable  
 __exigency__ _n_ Urgent requirements; pressing needs. Often used in the plural. _Syn_ need, demand, requirement, necessity, constraint, wont  
 __exothermic__ _adj_ Releasing heat. _Syn_ heat-releasing, exothermal  
 __extenuate__ _v_ :astonished: /ik-STEN-yuh-wayt/ _Extenuate_ is a formal word that is most often used to mean “to lessen the strength or effect of something, such as a risk.” In legal use, to extenuate a crime, offense, etc., is to lessen or to try to lessen its seriousness or extent by making partial excuses.  
 __extralegal__ _adj_ Not permitted or governed by law. _Syn_ nonlegal  
+__extricate__ _vt_ To release from an entanglement or difficulty; disengage.  
 __exultation__ _n_ /eg-zuhl-TAY-shuhn/ The act or state of triumphant joy.  
 __facile__ _adj_ Working, acting, or speaking with effortless ease and fluency. _Syn_ eloquent, silver-tongued, smooth-spoken, fluent, silver  
+__facsimile__ _adj, n_ :mega: /fækˈsɪm ə li/ [:scroll: Latin fac simile, make similar]  
 __faint__ _adj_ /feɪnt/ (fainter, faintest)  
 __fanfare__ _n_ /FAN-fayr/ __1__ A showy public display. __2__ A brief, lively sounding of brass instruments, especially trumpets, in a celebration.  
 __far-fetched__ _adj_ Improbable in nature; unlikely.  
@@ -89,17 +96,21 @@ __fervent__ _adj_ Having or showing great emotion or zeal. _Syn_ ardent, fervid,
 __fiddle-faddle<sup>1</aup>__ _n_ /ˈfɪdəlˌfædəl/ Nonsense.  
 __fiddle-faddle<sup>2</sup>__ _v_ To fuss or waste time, esp over trivial matters.  
 __figuratively__ _adv_  
+__filly__ _n_  
 __fire grate__ _n_ (firegrate, fire-grate) A grate used to hold the fuel in domestic fireplaces and in many forms of heaters and furnaces. _She prepared the fire grates._  
 __flash flood__ _n_ (flashflood) A sudden flood of great volume, usually caused by heavy rain.  
 __flaunt__ _v_  
 __fleet__ _n_ :two: The largest organized unit of naval ships grouped for tactical or other purposes.  
 __flexor__ _n_ A small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes. _Syn_ percussor, plessor  
 __flighty__ _adj_ /ˈflaɪtɪ/  
+__flit__ _vi_ __1__ To move about rapidly and nimbly. __2__ To move quickly from one condition or location to another.  
 __floorwalker__ _n_ An employee of a department store who supervises sales personnel and assists customers. _Syn_ shopwalker  
+__flotsam__ _n_  
 __flout__ _v_  
 __flub<sup>1</sup>__ _n_ :dart: /flʌb/ An embarrassing mistake or blunder.  
 __flub<sup>2</sup>__ _v_ :dart: To blunder or make an embarrassing mistake. Make a mess of, destroy or ruin.  
 __flyover__ _n_  
+__flywheel__ _n_ :es: volante  
 __foist__ _v_ /FOIST/ _Foist_, which is almost always used with _on_ or _upon_, is used when someone forces another person to accept something, usually something that is not good or is not wanted. Foist can also mean “to pass off as genuine or worthy.”  
 __folksy__ _adj_  
 __folly__ _n_ (construction)  
@@ -155,6 +166,8 @@ __liminal__ _adj_
 __limpid__ _adj_ /LIM-pid/ _Limpid_ describes things that are perfectly transparent or clear, or that are simple in style.  
 __lionhearted__ _adj_  
 __lip liner__ _n_ (lip liner)  
+__lipoma__ _n_ A benign tumor composed chiefly of fat cells.  
+__lipomatous__ _adj_ Relating to a lipoma. _Lipomatous metaplasia._  
 __listless__ _adj_ Marked by low spirits; showing no enthusiasm. _Syn_ dispirited  
 __litigation__ _n_  
 __Little Red Riding Hood__ _n_ A girl in a fairy tale who meets a wolf while going to visit her grandmother.  
@@ -172,10 +185,12 @@ __lunchtime__ _n_ :pencil2:
 __machtpolitik__ _n_ /MAHKHT-pol-ee-teek/ Power politics: policies that advocate the use of power and physical force to attain their goals.  
 __maiden__ _adj_ _The _Titanic_ maiden voyage._  
 __mains tester__ _n_ An insulated screwdriver with a light in the handle.  
+__make__ _n_ :astonished:  
 __marionette__ _n_ _Syn_ puppet  
 __meliorism__ _n_ /MEE-lee-uh-riz-um/ _Meliorism_ refers to the belief that the world tends to improve and that humans can aid its betterment.  
 __midriff__  
 __misnomer__  
+__miter__ _n_ (mitre) A type of headdress worn by archbishops and bishops.  
 __moisten__ _v_  
 __moot__ _vt_  
 __mother of pearl__ _n_  
@@ -190,16 +205,18 @@ __nonplus__ _v_ /nahn-PLUS/ To _nonplus_ someone is to perplex them, or in other
 __nubbly__ _adj_ Rough or irregular; textured. _Syn_ homespun, nubby, slubbed, tweedy  
 __obsequious__ _adj_  
 __off-limits__  
+__oilskin__ _n_  
 __ontic__ _adj_ /ON-tik/ [:scroll: From Greek onto (being)] Having or relating to a real existence.  
 __onus__ _n_ :dart:  
 __ossify__ _v_ /AH-suh-fye/ In general contexts, something that ossifies becomes hardened or conventional and opposed to change. In medical contexts, something that ossifies (such as cartilage) forms or is transformed into bone.  
 __outbreak__  
 __outline__ _v_  
-__outrun__  
+__outrun__ _vt_ :two::hammer:  
 __overdraft__ _n_  
 __panoply__ _n_ /PAN-uh-plee/  
 __Paralympics__ _n pl_  
 __parapraxis__ _n_ A minor error, such as a slip of the tongue, thought to reveal a repressed motive. _Syn_ slip-up, miscue, slip  
+__parasol__ _n_ :astonished: A light, usually small umbrella carried as protection from the sun.  
 __paratrooper__  
 __Parkinson’s law__ _n_ /PAHR-kin-suhnz law/ The observation that work expands to fill the time available.  
 __parson__ _n_  
@@ -276,7 +293,9 @@ __saunter__ _vi_
 __schadenfreude__ _n_  
 __scoundrel__ _n_  
 __scrappy__ _adj_ :dart: __1__ Composed of scraps; fragmentary: _scrappy evidence._ __2__ Quarrelsome; contentious. _Syn_ argumentative __3__ :dart: Full of fighting spirit.  
+__scratch mittens__ _n pl_ Small, glove-like garments designed to prevent babies from scratching their faces and skin, particularly when they have itchy conditions or are in a stage of development where they lack control over their movements.  
 __scree__ _n_ A sloping mass of loose rocks at the base of a cliff. _Syn_ talus  
+__scrub__ _n_ /skrʌb/ __3a__ (Breeds) An animal of inferior breeding or condition. __b__ (as modifier): _a scrub bull._  
 __second__ _vt_ :two::hammer:  
 __sexton__ _n_  
 __sheathed__ _adj_  
@@ -296,6 +315,7 @@ __somersault__ _n_ :es: voltereta
 __splendiferous__ _adj_ /splɛnˈdɪfərəs/ [:scroll: From Latin splendor (brilliance) + -fer (bearing)] _facetious_ Grand; splendid: _a really splendiferous meal._  
 __squirm__ _vi_  
 __stammer__ _v_ :two::hammer:  
+__statute of limitations__ _n phr_  
 __steady__  
 __stove__ _n_  
 __stow__ _v_ __3__ _(Nautical Terms)_ To pack or put away (cargo, sails and other gear, etc). :es: estibar  
@@ -305,6 +325,7 @@ __string__ _n_ _The string of the tea bag._
 __stub__ _n_ __1__ The usually short end remaining after something bigger has been used up: _a pencil stub; a cigarette stub._  
 __stuffy__ _adj_ :dart:  
 __subdural__ _adj_ Located or occurring beneath the dura mater: _subdural space; a subdural hematoma._  
+__sumac__ _n_ :three::hammer:  
 __summit__ _v_  
 __sunder__ _v_  
 __superannuated__ _adj_ Retired or ineffective because of advanced age. _Syn_ over-the-hill, overaged  
@@ -312,6 +333,7 @@ __superintendent__ _n_ _A park superintendent._
 __supersede__ _v_ /soo-per-SEED/ _Syn_ replace, displace  
 __swivel__ _v_  
 __tabloid__ _n_ :dart::astonished:  
+__Tartuffe__ _n_ (Tartufe) [:scroll: after the title character in a Molière play (1664)] A person who hypocritically pretends to be deeply pious.  
 __tchotchke__ _n_ /CHAHCH-kuh/ _Tchotchke_ refers to a small object used for decoration. It’s a synonym of knickknack and trinket.  
 __temp__ _n_  
 __third state__ _n_ The third of the traditional social classes; the common people. _Syn_ commons  
@@ -344,9 +366,11 @@ __vagaries__ _n_
 __venomous__ _adj_ /ˈvɛn ə məs/  
 __viaduct__  
 __Victoria Cross__ _n_  
+__vilify__ _vt_  
 __visage__ _n_ /VIZ-ij/  
 __vitiate__ _v_ :dart: /VISH-ee-ayt/ To _vitiate_ something is to ruin it or render it ineffective. _A single inaccuracy in the spreadsheet that supported the data vitiated the entire proposal._  
 __vulnerable__ _adj_ /VUL-nuh-ruh-bul/  
+__warp speed__ _n_ [:scroll: The expression was popularized on the science-fiction show _Star Trek_ in the 1960s] __1__ (science fiction) A hypothetical, extremely rapid, speed, resulting from entering a separate dimension, termed hyperspace; much faster than the speed of light. __2__ (by extension, informal) Any very fast speed. _A brain going at warp speed._  
 __wedge__ _vt_ __1__ 1. To split or force apart with or as if with a wedge: _wedged the board away from the stud; neighbors who were wedged apart by a dispute._  
 __weed__ _v_  
 __weir__ _n_ :two::hammer:  
