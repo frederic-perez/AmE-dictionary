@@ -46,6 +46,7 @@ __CVD__ Cardiovascular disease.
 __CVS__ __1__ Computer Vision Syndrome. __2__ CVS Pharmacy, Inc. is an American retail corporation. A subsidiary of CVS Health, it is headquartered in Woonsocket, Rhode Island. It was also known as, and originally named, the Consumer Value Store and was founded in Lowell, Massachusetts, in 1963.  
 __D&D__ :three: Dungeons and Dragons.  
 __DAX__ The DAX (Deutscher Aktienindex (German stock index)) is a blue chip stock market index consisting of the 30 major German companies trading on the Frankfurt Stock Exchange.  
+__DDoS__ Distributed denial of service: a method of attacking a computer system by flooding it with so many messages that it is obliged to shut down.  
 __DEA__  
 __DEET__ Diethyl(meta)toluamide; an insect repellent. _Bug spray with DEET to ward off mosquitoes._  
 __DEFCON__ Defense readiness condition. _I went into DEFCON 1._  

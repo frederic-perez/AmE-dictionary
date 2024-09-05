@@ -2,19 +2,24 @@ __acumen__ _n_ /AK-yoo-mun/ _Acumen_ refers to keenness and depth of perception,
 __affect__ _v_ __1__ To put on a false show of; simulate: _affected a British accent._ Pretend. __4__ 4. To imitate; copy.  
 __anodyne__ _adj_ Capable of soothing or eliminating pain. _Syn_ analgesic, analgetic  
 __arthralgia__ _n_ är-thrăl′jə/ Neuralgic pain in a joint or joints.  
+__aspersion__ _n_ /uh-SPUHR-zhuhn/shuhn/ __1__ A damaging accusation: slander. __2__ The sprinkling with water, as in baptism.  
 __audacity__ _n_ :dart: Fearless daring; intrepidity. _Syn_ temerity  
 __bardolatry__ _n_ [:scroll: Coined by George Bernard Shaw from bard (poet) + -latry (worship)] _facetious_ Idolatry or excessive admiration of William Shakespeare.  
 __biddy__ _n_ /ˈbɪdɪ/ __1__ A dialect word for chicken, hen. __2__ _informal offensive_ A woman, esp an old gossipy or interfering one.  
+__biennial__ _adj_ Happening every second year. _Syn_ biyearly  
 __blithely__ _adv_ In a joyous manner.  
+__Britpop__ _n_ /ˈbrɪtˌpɒp/ The characteristic pop music performed by some British bands of the mid 1990s.  
 __brow__ _n_ The projecting upper edge of a steep place. _Syn_ top, summit, peak, edge, tip, crown, verge, brink, rim, crest, brim  
 __bursary__ _n_  
 __byword__ _n_ _Syn_ adage, aphorism, maxim, motto, proverb, saw, saying  
+__Byzantine__ _adj_ /BIZ-un-teen/  
 __cad__ _n informal_ _old-fashioned_ _Brit_ A man who does not behave in a gentlemanly manner towards others.  
 __candlestick__ _n_ (candleholder) A holder, usually ornamental, with a spike or socket for a candle.  
 __canvasser__ _n_  
 __catapult__ _v_ /ˈkæt əˌpʌlt, -ˌpʊlt/  
 __ceasefire__ _n_  
 __ceiling rose__ _n_ In the United Kingdom and Australia, a _ceiling rose_ is a decorative element affixed to the ceiling from which a chandelier or light fitting is often suspended.  
+__char__ _v_ Burn slightly and superficially so as to affect color. _Syn_ blacken, sear, scorch.  
 __chrome__ _n, v_ /kroʊm/  
 __chute__ _n_  
 __claimant__ _n_ :es: demandante; solicitante  
@@ -30,10 +35,13 @@ __copious__ _adj_ /KOH-pee-us/ _Copious_ is a synonym of abundant and plentiful.
 __countless__ _adj_ Too many to be counted; innumerable. _Syn_ incalculable _Countless times._  
 __courier__ _n_ :mega: /ˈkɜr i ər, ˈkʊər-/  
 __crocodile clip__ _n_ :camera: A clasp with serrated interlocking edges used for making electrical connections.  
+__cronyism__ _n_ /KROH-nee-iz-um/ _Cronyism_ is the unfair practice by a powerful person (such as a politician) of giving jobs and other favors to friends without regard for their qualifications.  
 __dalliance__ _n_  
+__dearth__ _n_ /DERTH/ _Dearth_ refers to a lack or inadequate supply. It is usually followed by _of._ _There is no dearth of opportunities for volunteers at the fair._  
 __deliver__ _v_ _He always promised more than he could deliver._  
 __deliverance__ _n_  
-__demure__ _adj_ /dɪˈmyʊər/ __1__ Characterized by shyness and modesty; reserved. __2__ Affectedly or coyly decorous or sedate.  
+__demure__ _adj_ :two: /dɪˈmyʊər/ __1__ Characterized by shyness and modesty; reserved. __2__ Affectedly or coyly decorous or sedate.  
+__digressive__ _adj_ Tending to depart from the main point or cover a wide range of subjects. _Syn_ excursive, rambling, discursive  
 __dinghy__ _n_ A small boat. :es: bote  
 __directory__ _n_ :two::hammer: _A small jobs directory of people._  
 __discernible__ _adj_ Capable of being seen or noticed. _Syn_ evident, observable  
@@ -43,6 +51,7 @@ __dissipate__ _v_ :pencil2:
 __distraint__ _n_ _Law_ :es: embargo  
 __doable__  
 __docker__ _n_ A laborer who loads and unloads vessels in a port. _Syn_ dock worker, dockhand, dock-walloper, dockworker, loader, longshoreman, lumper, stevedore :es: estibador  
+__doddering__ _adj_ Infirm, feeble, and often senile. _Syn_ gaga, senile  
 __dodo__ _n_ __2__ _informal_ An intensely conservative or reactionary person who is unaware of changing fashions, ideas, etc.  
 __doleful__ _adj_ Filled with or expressing grief. _Syn_ mournful  
 __dolorifuge__ _n_ Something that banishes or mitigates grief.  
@@ -68,6 +77,7 @@ __eloquence__ _n_ Powerful and effective language. _Syn_ fluency, smoothness
 __empathetic__ _adj_  
 __encrypt__ _vt_ :mega: /ɪnˈkrɪpt/  
 __encumber__ _v_ :dart: /in-KUM-ber/ Someone or something that is encumbered is burdened or weighed down (as in “tourists encumbered by heavy luggage”) or hindered (as in “negotiations encumbered by a lack of trust”).  
+__ensconce__ _v_ :mega: /in-SKAHNSS/ Someone or something ensconced is firmly placed or hidden. Ensconce can be a synonym of shelter and conceal, or of establish and settle. _The sculpture is safely ensconced behind glass._ _He ensconced himself in the library’s back room for the afternoon._  
 __entourage__ _n_  
 __entreaty__ _n_ An earnest request or petition; a plea. _Syn_ appeal, prayer  
 __escritoire__ _n_ A writing table; a desk. _Syn_ secretaire, writing table, secretary  
@@ -81,9 +91,11 @@ __extenuate__ _v_ :astonished: /ik-STEN-yuh-wayt/ _Extenuate_ is a formal word t
 __extralegal__ _adj_ Not permitted or governed by law. _Syn_ nonlegal  
 __extricate__ _vt_ To release from an entanglement or difficulty; disengage.  
 __exultation__ _n_ /eg-zuhl-TAY-shuhn/ The act or state of triumphant joy.  
+__facet__ _n_ A distinct feature or element in a problem. _Syn_ aspect  
 __facile__ _adj_ Working, acting, or speaking with effortless ease and fluency. _Syn_ eloquent, silver-tongued, smooth-spoken, fluent, silver  
 __facsimile__ _adj, n_ :mega: /fækˈsɪm ə li/ [:scroll: Latin fac simile, make similar]  
 __faint__ _adj_ /feɪnt/ (fainter, faintest)  
+__fallacious__ _adj_ /fuh-LAY-shus/ _Fallacious_ is a formal word that typically describes something, such as an argument or assumption, that is false or inaccurate and that tends to mislead or deceive others.  
 __fanfare__ _n_ /FAN-fayr/ __1__ A showy public display. __2__ A brief, lively sounding of brass instruments, especially trumpets, in a celebration.  
 __far-fetched__ _adj_ Improbable in nature; unlikely.  
 __farsighted__ _adj_ Planning prudently for the future. _Syn_ foresighted, long, longsighted, prospicient  
@@ -120,17 +132,22 @@ __fortnightly<sup>1</sup>__ _adj_ Happening or appearing once in or every two we
 __fortnightly<sup>2</sup>__ _adv_ Once in a fortnight.  
 __fortnightly<sup>3</sup>__ _n_ :astonished: A publication issued once every two weeks.  
 __fracas__ _n_  
+__fractious__ _adj_ Stubbornly resistant to authority or control. _Syn_ recalcitrant, refractory  
+__fulgent__ _adj_ /FUHL-juhnt/ Shining brilliantly; radiant.  
 __fusty__ _adj_ /FUSS-tee/ Someone or something described as fusty is rigidly old-fashioned. Fusty is also used as a synonym of musty to describe things that are full of dust and unpleasant, stale odors.  
 __gabby__ _adj_ Tending to talk excessively. _Syn_ chatty, garrulous, loquacious, talkative, talky  
 __gadabout__ _n_ /GAD-uh-bout/ A gadabout is a person who flits about in social activity, as by going to many places and social events for pleasure.  
 __galvanize__  
 __gasp<sup>1</sup>__ _v_  
 __gasp<sup>2</sup>__ _n_ __1__ A short convulsive intake of breath.  
+__genteelism__ _n_ /jen-TEE-liz-uhm/ The substitution of a word that is believed to be more polite or refined. For example, washroom for lavatory.  
 __giro__ _n_ __2__ _informal Brit_ An unemployment or income support payment by giro cheque, posted fortnightly.  
 __grawlix__ _n_ :dart: /GRAW-liks/ A series of special characters, such as “@#$%&*,” that are used to indicate either miscellaneous text, or more commonly, swear words. The term is attributed to Mort Walker, an American cartoonist known for his Beetle Bailey comic strip.  
 __grease pit__ _n_ A narrow pit or trench over which a vehicle can be driven and conveniently worked on from beneath.  
+__gridiron__ _n_ /GRID-eye-ern/  
 __grouse__ _v_  
 __gruntled__ _adj_ /ˈɡrʌntəld/ _informal_ Happy or contented; satisfied.  
+__gutsy__ _adj_ Marked by courage and determination in the face of difficulties or danger; robust and uninhibited. _Syn_ plucky  
 __hands-off__ _adj_ Characterized by nonintervention: a hands-off foreign policy.  
 __handyman__ _n_ :es: manitas  
 __hard-pressed__ _adj_  
@@ -148,6 +165,7 @@ __impending__ _adj_ About to happen; imminent.
 __impugn__ _v_ /im-PYOON/ To impugn something, such as a person’s integrity, judgment, etc., is to attack or oppose it as false or lacking integrity.  
 __ineffable__ _adj_ Incapable of being expressed. _Syn_ indescribable, unspeakable, untellable, unutterable, indefinable  
 __inerrant__ _adj_ Incapable of erring. _Syn_ infallible  
+__ingenuous__ _adj_ Lacking in cunning, guile, or worldliness. _Syn_ artless  
 __iota__ _n_ /eye-OH-tuh/ An _iota_ is an infinitesimal amount of something. The word _iota_ is used synonymously with the etymologically related _jot_, and by its oldest definition refers to the 9th letter of the Greek alphabet.  
 __jot<sup>1</sup>__ _n_ :dart: /dʒɒt/ The smallest bit; iota. _(used with a negative)_ A little bit (in phrases such as _not to care (or give) a jot_).  
 __jot<sup>2</sup>__ _vt_  
@@ -189,6 +207,7 @@ __make__ _n_ :astonished:
 __marionette__ _n_ _Syn_ puppet  
 __meliorism__ _n_ /MEE-lee-uh-riz-um/ _Meliorism_ refers to the belief that the world tends to improve and that humans can aid its betterment.  
 __midriff__  
+__mise-en-scène__ _n_ /meez-ahn-SEN/ _Mise-en-scène_ can refer to the setting of a play, movie, etc., or it can refer to the physical or social setting in which something real occurs or develops.  
 __misnomer__  
 __miter__ _n_ (mitre) A type of headdress worn by archbishops and bishops.  
 __moisten__ _v_  
@@ -237,6 +256,7 @@ __Perseid__ _n_ /ˈpɜːsɪɪd/ (Celestial Objects) Any member of a meteor showe
 __personal column__ _n_  
 __perspicacious__ _adj_  
 __pertussis__ _n_ :two: /pəˈtʌsɪs/ _(Pathology)_ The technical name for _whooping cough_.  
+__phantasmagorical__ _adj_ /fan-taz-muh-GOR-i-kuhl/ Illusory; strange; deceptive; imaginary; surreal; hallucinatory.  
 __phony__ _adj_  
 __pickeball__ _n_  
 __pitch__ _n_ :es: (esp. _British_) campo, cancha  
@@ -304,6 +324,9 @@ __shirtlifter__ _n_ A homosexual man. _Syn_ gay man
 __shriek__ _n_  
 __skew__ _v_  
 __skewer__ _n_  
+__skirl<sup>1</sup>__ _vi_ /SKERL/ To produce a high, shrill, wailing tone. Used of bagpipes.  
+__skirl<sup>2</sup>__ _vt_ To play (a piece) on bagpipes.  
+__skirl<sup>3</sup>__ _n_ __1__ The shrill sound made by the chanter pipe of bagpipes. __2__ A shrill wailing sound: _“The skirl of a police whistle split the stillness” (Sax Rohmer)._  
 __slightly__ _adv_ __1__ To a small degree or extent; somewhat. __2__ Slenderly; delicately: _slightly built._  
 __smell-feast__ _n_ _archaic_ One given to finding out and getting invited to good feasts. _Syn_ parasite, sponger  
 __smitten__ _adj_  
@@ -336,6 +359,7 @@ __tabloid__ _n_ :dart::astonished:
 __Tartuffe__ _n_ (Tartufe) [:scroll: after the title character in a Molière play (1664)] A person who hypocritically pretends to be deeply pious.  
 __tchotchke__ _n_ /CHAHCH-kuh/ _Tchotchke_ refers to a small object used for decoration. It’s a synonym of knickknack and trinket.  
 __temp__ _n_  
+__tenuity__ _n_ :astonished: Relatively small dimension through an object as opposed to its length or width. _Syn_ thinness, slenderness  
 __third state__ _n_ The third of the traditional social classes; the common people. _Syn_ commons  
 __tinderbox__ _n_ __1__ A metal box for holding tinder. __2__ A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
 __Tipp-Ex__ _n_ /ˈtɪp.eks/  
