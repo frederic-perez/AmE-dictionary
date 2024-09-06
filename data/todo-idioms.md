@@ -1,7 +1,22 @@
+__(stuck) in a rut__  
+__all the same__  
+__at the top of (one’s) voice__ As loudly as one can.  
+__aw shucks__ :dart: __1__ An expression of shyness, happiness, or embarrassment. _A: “You’re just too sweet!” B: “Aw shucks, you’re gonna make me blush.”_ _Aw shucks, it was nothing. I was happy to help._ _Aw shucks, that’s so nice of you to say! Thank you!_ __2__ An expression of disappointment. _Aw shucks, it looks like we’re going to lose the game after all._  
+__back in the saddle__  
+__be on the safe side__ :dart:  
+__behind (one’s) back__ In one’s absence. The phrase typically suggests wrongdoing or deceit. _I can’t believe you were gossiping about me behind my back!_  
 __break even__  
+__by all means__ :dart:  
 __cash flow__  
+__castle in the air__  
+__castles in the air__  
 __Catch-22__  
+__coming-of-age__  
+__creeper__  
+__dance on air__ To be extremely happy.  
+__downed on (someone)__  
 __educated guess__ A thoughtful, well-reasoned guess; a guess with some basis in one’s knowledge.  
+__fall off the perch__ _BrE_ _old-fashioned, informal_ (fall off your perch) If someone falls off the perch or falls off their perch, they die. Note: A perch is a pole, branch or other place where a bird sits to rest. _He fell off the perch years ago._ Note: Other verbs such as drop or topple can be used instead of fall. _He’ll topple off his perch one morning. You know how it is._ Note: This expression is used humorously.  
 __first come, first served__ The first people present will be the first to receive something, often something that is available in limited quantities.  
 __for kicks__  
 __get lucky__  
@@ -30,6 +45,7 @@ __go places__
 __go south__  
 __go through a rough patch__ To experience or be in the midst of a period of trouble, difficulty, or hardship.  
 __go to hell in a handcart__ To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin. _With this new president in office, our country is going to go to hell in a handcart!_  
+__go to the wall__  
 __go with (someone or something)__  
 __go with the flow__ To act as others are acting, conforming to common behavior patterns with an attitude of calm acceptance.  
 __golden__  
@@ -41,11 +57,13 @@ __grapple with (someone or something)__ :three::hammer:
 __graze on (something)__ __1__ Of animals, to eat the greens or vegetables in a particular area or location. _I put up a fence to try to keep the deer from grazing on my land._  
 __green thumb__  
 __hairpin bend__ :two: A very sharp, approximately 180° bend in a road.  
+__hatchet man__  
 __have a rocky start__ To have a troubled, uncertain, or discouraging beginning.  
 __have a say (in something)__ :two: To have an active and participatory role in making or influencing a decision about something.  
 __have a shit__  
 __hear the end of (someone or something)__  
 __heat wave__ A period of time in which the weather is unusually and persistently hot.  
+__heavy-duty__ __1__ Designed to be durable for heavy use or extreme conditions; industrial strength. My pickup has a heavy-duty lining to protect it from all the stuff I load in it. _Fritz heavy-duty workshop cleaner._  
 __hell on earth__  
 __hem and haw__  
 __hit a snag__  
@@ -162,6 +180,7 @@ __keep a sharp lookout (for something or someone)__ To remain vigilant or carefu
 __keep an eye peeled (for something or someone)__ To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep an eye peeled._ _Keep an eye peeled for a Christmas present we could give your mother._  
 __keep pace__  
 __keep the lid on (something)__  
+__keep to (something)__ __1__ To adhere to something, such as a plan or a rule; to stick to something. _Please keep to the plan, and everything will go smoothly._  
 __keep up__  
 __keester__ _slang_ The buttocks or anus. Often used figuratively. _OK, kids, get off your keesters and go play outside!_  
 __kick up__  
@@ -194,6 +213,7 @@ __lay bare (something)__ To divulge, explain, or reveal something not previously
 __lay the groundwork (for something)__ :two: To create or prepare the basics or essential foundation (for something); to pave the way (for something). _Our success with this healthcare bill wouldn’t be possible, had the previous administration not laid the groundwork already._  
 __laze about__ To relax or spend time idly; to do nothing or very little. _It’s a gorgeous day outside, so you kids get off your butts and quit lazing about!_  
 __leapfrog over (someone or something)__ :two::hammer:  
+__leaps and bounds__ :dart:  
 __leave a lot to be desired__ To be very inadequate or unsatisfactory; to lack a large amount of what is desired or required.  
 __let (oneself) go__  
 __let someone down__  
@@ -204,6 +224,7 @@ __life, the universe, and everything__ The question that pan-dimensional space-b
 __lift__  
 __liminal__ _adj_ /ˈlɪmɪnəl/  
 __litmus test__  
+__little does (one) know__ One is completely unaware of something.  
 __live up to (something)__ :three::hammer: _Live up to the hype._  
 __living proof__  
 __loaded gun__ A situation or person that is dangerous or volatile. For example, a person might be described as a “loaded gun” if they are highly emotional or prone to outbursts.  
@@ -213,6 +234,7 @@ __loosen up__
 __loosey-goosey__  
 __lose (one’s) shit__  
 __lose steam__ To begin to wane in energy, enthusiasm, or potency.  
+__loss leader__ A product or service offered at or below cost in order to attract customers to a store in the hopes that they will then purchase other items.  
 __loud and clear__  
 __lurk__  
 __lust for life__  
@@ -273,16 +295,20 @@ __not sleep a wink__
 __not so fast__ :two::hammer:  
 __not worth the paper it’s written on__ Useless; unimportant; insignificant.  
 __now that you’re mentioning it__  
+__nowhere to be found__ Unable to be discovered; completely gone or vanished.  
+__nowhere to be sound__  
 __odd couple__ A particularly unlikely or mismatched pair of people.  
 __of (one’s) own accord__  
 __of all places__ Being the least expected place compared to anywhere else.  
 __of all stripes__ Of many varieties or types. _You meet people of all stripes when you live in a big city._  
+__of note__  
 __off again, on again__  
 __off the hook__ :two::hammer:  
 __off-kilter__  
 __oh boy__  
 __old school__  
 __on (one’s) (own) terms__ In the manner or timeframe that one prefers.  
+__on (one’s) feet__  
 __on (one’s) watch__  
 __on (someone’s) behalf__  
 __on a daily basis__ Once or more each day.  
@@ -301,6 +327,7 @@ __on the line__ __1__ In a state of jeopardy or uncertainty.
 __on the lookout__ :two: Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
 __on the move__  
 __on the radar (screen)__  
+__on the rocks__ _That marriage was already on the rocks._  
 __on the run__  
 __on the sidelines__ :two: In a position in which one is not actively participating in something.  
 __on the verge of__  
@@ -309,6 +336,7 @@ __once and for all__
 __once in a blue moon__ Very rarely.  
 __one size fits all__ :two::hammer:  
 __one-off__ :two::hammer:  
+__over and out__ Said to mark the end of communication between two people. Used especially in radio communication, in which it signals that a person is done speaking and does not expect a reply from the other person. _A: “Oh, and while you’re at the store, could you please get some milk, too?” B: “Sure thing. Over and out.”_  
 __photobomb__  
 __play havoc with (someone or something)__ To cause issues or disruptions for someone or something. _The road closures have played havoc with rush-hour traffic._  
 __prim and proper__ Having very traditional, morally conservative beliefs and behavior.  
@@ -318,12 +346,16 @@ __put (someone or something) (up) on a pedestal__ To believe or behave as if som
 __put off__ __1__ _v_ To deter, annoy, or repel. A noun or pronoun can be used between “put” and “off.” _I don’t know if you realize how much you put people off with your attitude._  
 __put up with (someone or something)__ To abide or endure someone or something that one finds unpleasant, inconvenient, or annoying.  
 __quite a few__ (quite a lot; quite a bit; quite a number)  
+__rags to riches__ Characterized by a rise from poverty to great or exceptional wealth. Hyphenated if used as a modifier before a noun.  
+__rake in__  
 __roast__  
 __rue the day (that something happened)__ To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
 __rule of law__  
 __rules of the road__  
 __rumor has it (that)__ It is being rumored that (something is or will be the case). _Rumor has it that the boss is using the company profits to pay off his own gambling debts._  
 __run the gauntlet__ To be exposed to or forced to endure a series of threats, dangers, criticism, or other problems. Refers to an old military punishment in which one was forced to run between two lines of soldiers while being thrashed with rods or whips. _Medical students often feel that they have to run the gauntlet when they become residents in a hospital._  
+__same shit, new wrapping__ Colloquial expression that conveys the idea that something has been superficially changed or repackaged but remains fundamentally the same. It suggests that despite appearances, the underlying issues or qualities have not been altered.  
+__see (one) in the flesh__ To see one in person who is usually only seen at a distance, especially through a medium such as film, music, theater, etc. _After years of idolizing the singer, it was a bit anticlimactic seeing her in the flesh._  
 __seep in(to something)__  
 __serve (one’s) time__  
 __set a camp__  
@@ -353,9 +385,11 @@ __sort out__
 __stamp of approval__ An indication of endorsement or authorization of something.  
 __stand on (one’s) own (two) feet__ To be strong and independent; to not need the help, guidance, or resources of another person.  
 __strangely enough__ Bafflingly; surprisingly; atypically.  
+__sure thing__  
 __swig__ __1__ _n_ Adeep drink of liquor; a swallow of liquor. _She took a swig of rum and leaped into the lagoon._ __2__ _vt_ To drink liquor deeply. _He nearly swigged the whole bottle before he needed to take a breath._  
 __take (something) with a pinch of salt__ (take something with a dash/grain of salt)  
 __take on__ :two: __3__ To hire or employ someone; to contract someone for their services. A noun or pronoun can be used between “take” and “on.” _We take on a number of high-school graduates each year as interns to give them some work experience before they begin college._  
+__take the fall (for someone or something)__  
 __test the water(s)__ To informally or casually attempt to gauge the reaction of a potential audience or recipient of something, or to try to get an idea of what something will be like before actually doing it. Likened to feeling the temperature of water before getting in.  
 __That’s a fact, jack!__ _humorous_ Used to emphasize that something is true.  
 __that’s the spirit!__ That’s the right kind of attitude to have in order to be successful.  
@@ -365,15 +399,19 @@ __the last thing (one) wants__ Something which one absolutely does not want or h
 __turd blossom__  
 __turn of phrase__  
 __under-promise and over-deliver__ To avoid raising expectations in order to subsequently exceed them. Used as a strategy to ensure the satisfaction of one’s client, customer, boss, etc. Also spelled without hyphens.  
+__up (one’s) alley__ Well suited to one’s interests. _I really like Romantic poetry, so this class on John Keats should be up my alley._  
 __wait and see__  
 __warts and all__ :dart: Including any imperfections or flaws. _If you’re going to marry him, then you better love him, warts and all._  
 __when pigs can fly__ At a point in time that will never come to pass. (Used to show skepticism or cynicism over some hypothetical situation or outcome.)  
 __where to draw the line__  
 __whip out__  
 __wild ride__ A _wild ride_ refers to an experience or adventure that is thrilling, intense, unpredictable, and often exhilarating.  
-__willy-nilly__  
+__willy-nilly__ :two::hammer: [:scroll: This expression is a shortened form of ‘willing or not willing.’]  
 __work out__  
+__you are what you eat__ One’s overall health is linked to one’s eating habits. The phrase is often used to promote proper nutrition.  
+__you(’d) better believe it__ Absolutely, without question; rest assured.  
 __yup__  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
 __zero in__ :two::hammer:  
 __zig when (one) should zag__  
+__zippy__  
