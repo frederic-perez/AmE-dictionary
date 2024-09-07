@@ -39,7 +39,7 @@ __heck__ :two: Used as a mild oath.
 __hell yeah__  
 __hell yes/no__ _mainly US informal_ :two: Used to emphasize that you strongly agree or disagree, like or dislike something, etc.  
 __hiya__ An informal term of greeting.  
-__hmm__ :dart::six: /mm/ /hmmm/ A sound made when considering or puzzling over something.  
+__hmm__ :dart::seven: /mm/ /hmmm/ A sound made when considering or puzzling over something.  
 __hmph__ A sound, usually made with a closed mouth, indicating annoyance or indignation.  
 __holy cannoli__ :two: An expression that usually accompanies shock or excitement. _Holy cannoli, what the hell was that?_  
 __holy guacamole__ An exclamation said when surprised, used when in shock or disbelief.  
@@ -66,6 +66,7 @@ __oof__
 __ooh__ _intej_ :mega: /uː/ An exclamation of surprise, pleasure, pain, etc.  
 __oops__  
 __ouch__  
+__over__ Used in two-way radio to indicate that a transmission is complete and a reply is awaited.  
 __oy__ :two: Used especially to express irritation, dismay, sorrow, or self-pity. _Oy. Way to ruin a great talk._  
 __pfft__ (phfft) Used to express or indicate a dying or fizzling out. Used to express or indicate a usually sudden disappearance or ending.  
 __phew__ :two: Used to express relief, fatigue, surprise, or disgust.  
