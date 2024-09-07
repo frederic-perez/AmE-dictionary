@@ -298,31 +298,6 @@ __repeat__ _n_
 __repose__ _n_ The act of resting or the state of being at rest. _Syn_ ease, relaxation, rest _The vacationer took his repose beside the swimming pool._  
 __reread__ _v_ :pencil2:  
 __riding hood__ _n_ A type of cloak or hood worn by women who rode horses. This clothing was designed specifically for riding, providing warmth and protection for the rider.  
-__rife__ _adj_  
-__rile__ _vt_ __1__ To irritate or vex. _Syn_ nettle, chafe, provoke, annoy, irk  
-__romcom__  
-__roofing__ _n_ __1__ Materials used in building a roof. __2__ A roof.  
-__rosary__ _n_  
-__run-up__ _n_ (runup)  
-__rundown__ _n_  
-__ruse__ _n_ _Syn_ wile  
-__salacious__ _adj_ :three::hammer:  
-__salutary__  
-__sanctimonious__ _adj_ :two: /sank-tuh-MOH-nee-us/ Someone described as sanctimonious behaves as though they are morally superior to others. Language or behavior that suggests the same kind of moral superiority can also be described as sanctimonious. Feigning piety or righteousness. _Syn_ holier-than-thou, pharisaic, pietistic, self-righteous  
-__saunter__ _vi_  
-__schadenfreude__ _n_  
-__scoundrel__ _n_  
-__scrappy__ _adj_ :dart: __1__ Composed of scraps; fragmentary: _scrappy evidence._ __2__ Quarrelsome; contentious. _Syn_ argumentative __3__ :dart: Full of fighting spirit.  
-__scratch mittens__ _n pl_ Small, glove-like garments designed to prevent babies from scratching their faces and skin, particularly when they have itchy conditions or are in a stage of development where they lack control over their movements.  
-__scree__ _n_ A sloping mass of loose rocks at the base of a cliff. _Syn_ talus  
-__scrub__ _n_ /skrʌb/ __3a__ (Breeds) An animal of inferior breeding or condition. __b__ (as modifier): _a scrub bull._  
-__second__ _vt_ :two::hammer:  
-__sexton__ _n_  
-__sheathed__ _adj_  
-__shelve__ _v_  
-__shirtlifter__ _n_ A homosexual man. _Syn_ gay man  
-__shriek__ _n_  
-__skew__ _v_  
 __skewer__ _n_  
 __skirl<sup>1</sup>__ _vi_ /SKERL/ To produce a high, shrill, wailing tone. Used of bagpipes.  
 __skirl<sup>2</sup>__ _vt_ To play (a piece) on bagpipes.  

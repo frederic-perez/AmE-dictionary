@@ -15857,7 +15857,7 @@ __rigmarole__ _n_ :seven: __1__ Confused or meaningless talk. Confused, rambling
 __rigor__ _n_ :two::hammer:  
 __rigorous__ _adj_ :dart::two::hammer:  
 __rigors__ _n_  
-__rile__ _v_ :six: (riles, riled, rile up) Make (someone) annoyed or irritated. _A tactic often intended to rile pitchers._ _Of all the things to get riled up about right now, Cam Newton’s touchdown dance ought to be at the bottom of the list._ :es: sacar de quicio  
+__rile__ _vt_ :seven: (riles, riled, rile up) __1__ To irritate or vex. Make (someone) annoyed or irritated. _Syn_ nettle, chafe, provoke, annoy, irk _A tactic often intended to rile pitchers._ _Of all the things to get riled up about right now, Cam Newton’s touchdown dance ought to be at the bottom of the list._ :es: sacar de quicio  
 __rim__ _n_ _Utah missed shots at the rim and turned the ball over 18 times._  
 __rimless__ _adj_ _Rimless glasses._  
 __rind__ _n_ :two::hammer: _The color of rind._  
@@ -15978,10 +15978,12 @@ __romance__ _n_ :astonished:
 __romancer__  
 __Romanesque__ _adj_ :three::hammer: :es: románico  
 __romanticize__ _v_ :three::hammer::pencil2:  
+__romcom__  
 __romp__ _v_ :seven::hammer:  
 __rondo__ _n_ (music)  
 __ronin__ _n_ :three: A lordless samurai, esp one whose feudal lord had been deprived of his territory.  
 __rood__ _n_ :two::hammer:  
+__roofing__ _n_ __1__ Materials used in building a roof. __2__ A roof.  
 __roofless__ _adj_ Physically or spiritually homeless or deprived of security.  
 __roofrack__  
 __rooftop deck__ _n_ :two::hammer:  
@@ -16006,7 +16008,7 @@ __rope-a-dope__ _n_ :two::hammer:
 __ropes__ _n pl_ :two: Special or basic techniques or procedures. _He’s teaching her the ropes._ _They need to learn the ropes._  
 __ropy__ _adj_ :three::hammer: _The camel spat ropy globs at him._ _The camels were spewing ropy saliva._  
 __rosacea__ _n_  
-__rosary__ _n_ (rosaries)  
+__rosary__ _n_ :two::hammer: (rosaries)  
 __Rose City__ _n_ Nicknames of Portland, Oregon.  
 __rose water__ _n_ Perfume consisting of water scented with oil of roses.  
 __rose-colored__ _adj_ /ROZ-kuhl-uhrd/ [:scroll: From Latin rosa (rose), from Greek rhodon (rose). Yes, a rhododendron is a rose tree, literally speaking.] __1__ Optimistic or cheerful, especially naively or to an unrealistic degree. Often used in the form “to see through rose-colored glasses.” __2__ Of a bright pink or red color.  
@@ -16121,10 +16123,11 @@ __run the show__
 __run-and-gun__ _adj_ Relating to or being a fast, freewheeling style of play in basketball that de-emphasizes set plays and defense. _A run-and-gun platform game._  
 __run-in__ _n_ :dart::four: (run-ins) __1__ A quarrel or argument. _A run-in with police._ _He had several run-ins with the law._  
 __run-of-the-mill__ _adj_ :five: Not special or outstanding; average. Ordinary, average.  
+__run-up__ _n_ (runup)  
 __runabout__ _n, v_  
 __runaway<sup>1</sup>__ _n_ :three::hammer: (runaways)  
 __runaway<sup>2</sup>__ _adj_ :two::hammer: _Bryant was a runaway winner._  
-__rundown<sup>1</sup>__ _n_ :dart::six:::hammer: __1__ A point-by-point summary.  
+__rundown<sup>1</sup>__ _n_ :dart::seven:::hammer: __1__ A point-by-point summary.  
 __rundown<sup>2</sup>__ _adj_ (run-down)  
 __rung__ _n informal_ :nine::m: (rungs) A particular level or position in an organization: _I started on the bottom rung of the company._ _He deserves to be in the lowest rungs of hell._ _The Romans climbed the rungs._ _The rung of the ladder._  
 __runner-up__ _n_ :nine::m::dart: (runners-up) The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _They are runners-up to Real Madrid._ _Nishikori was runner-up here last season._ _That was a close runner-up._  
@@ -16142,7 +16145,7 @@ __Runyonesque__ _adj_ :three::hammer: _A torrent of Runyonesque chitchat._
 __ruptured__ _v_ _He ruptured his Achilles._  
 __rural area__ _n_ :mega: An area outside of cities and towns.  
 __ruralism__ _n_ A rural idiom or expression. _Syn_ rusticism  
-__ruse__ _n_ :nine::m::mega: /ruz/ An action intended to mislead, deceive, or trick; stratagem.  
+__ruse__ _n_ :nine::m::mega: /ruz/ An action intended to mislead, deceive, or trick; stratagem. _Syn_ wile  
 __rush<sup>1</sup>__ _n_  
 __rush<sup>2</sup>__ _v_  
 __russet__ _adj_ :two: Moderate to strong brown.  
@@ -16216,7 +16219,7 @@ __saint<sup>2</sup>__ _vt_ (sainted) _The chef should be sainted._
 __sake__ _n_ /ˈsækɪ/ (saki) A Japanese alcoholic beverage made from fermented rice.  
 __sakura__  
 __salability__ _adj_ :pencil2: Offered or suitable for sale; marketable.  
-__salacious__ _adj_ :six::hammer: _Salacious music._  
+__salacious__ _adj_ :nine::hammer: _Salacious music._  
 __salacities__ _n_  
 __salad spinner__ _n_  
 __salamander__ _n_  
@@ -16237,7 +16240,7 @@ __salty__
 __salubrious__ _adj_ :four: /suh-LOO-bree-us/ Conducive or favorable to health or well-being.  
 __saludatorian__ _n_ The student with the second highest academic rank in a class who delivers the salutatory at graduation exercises.  
 __saludatory__  
-__salutary__ _adj_ :two::hammer: _Salutary effects._  
+__salutary__ _adj_ :three::hammer: _Salutary effects._  
 __salute<sup>1</sup>__ _n_  
 __salute<sup>2</sup>__ _v_ To salute a person or their achievements means to publicly show or state your admiration for them.  
 __salvage__ _adj_  
@@ -16257,7 +16260,7 @@ __samovar__ _n_
 __Samuel Johnson__ _n_ _Dr. Johnson compiled the first extensive dictionary of English._  
 __samurai__ _n_ :mega:  
 __San Diegans__ _n_  
-__sanctimonious__ _adj_ :two: Pretending to be morally better than other people.  
+__sanctimonious__ _adj_ :four: /sank-tuh-MOH-nee-us/ Someone described as sanctimonious behaves as though they are morally superior to others. Language or behavior that suggests the same kind of moral superiority can also be described as sanctimonious. Feigning piety or righteousness. Pretending to be morally better than other people. _Syn_ holier-than-thou, pharisaic, pietistic, self-righteous  
 __sanction<sup>1</sup>__ _n_ An economic or military coercive measure adopted usually by several nations in concert for forcing a nation violating international law to desist or yield to adjudication.  
 __sanction<sup>2</sup>__ _v_ /SANK-shun/ __1__ To give effective or authoritative approval or consent to. _Because he was using equipment that was not sanctioned by league officials, Jared was disqualified from the competition._ __2__ To impose a penalty or economically or militarily coercive measures.  
 __sanctuary<sup>1</sup>__ _n_  
@@ -16330,7 +16333,7 @@ __saucy__
 __saudade__  
 __sauerkraut__ _n_  
 __sauna__ _n_ :mega: /ˈsɔːnə/  
-__saunter<sup>1</sup>__ _v_ :seven: (sauntered, sauntering) To walk in a casual manner; stroll. _Lynn sauntered to the edge of the stage._  
+__saunter<sup>1</sup>__ _vi_ :eight: (sauntered, sauntering) To walk in a casual manner; stroll. _Lynn sauntered to the edge of the stage._  
 __saunter<sup>2</sup>__ _n_  
 __sausage dog__ _n_ An informal name for dachshund. _Syn_ sausage hound  
 __sausage party__ _n_ :two: (slang, derogatory) A gathering with many more men than women.  
@@ -16420,7 +16423,7 @@ __scenic<sup>2</sup>__ _n_ :two::hammer:
 __scent<sup>1</sup>__ _n_ :mute:[s~~c~~ent]  
 __scent<sup>2</sup>__ _v_ :mute:[s~~c~~ent]  
 __scented__ _adj_  
-__schadenfreude__ _n_ :five::astonished: /SHAH-dun-froy-duh/ (Schadenfreude) Pleasure derived from the misfortunes of others. _Schadenfreude was felt by many viewers when the arrogant contestant was voted off the show._  
+__schadenfreude__ _n_ :six::astonished: /SHAH-dun-froy-duh/ (Schadenfreude) Pleasure derived from the misfortunes of others. _Schadenfreude was felt by many viewers when the arrogant contestant was voted off the show._  
 __schedule__ _n_ _A schedule was set._  
 __schema__  
 __scheme__  
@@ -16486,7 +16489,7 @@ __scorn<sup>2</sup>__ _v_ (scorned)
 __scotch__ _n_ :astonished: __2__ (Games, other than specified) A line marked down, as for hopscotch.  
 __Scotland Yard__ _n_  
 __Scots__ _adj, n_ :three::hammer::pencil2: _Scots accent._  
-__scoundrel__ _n_ :three::hammer: _Those scoundrel disks._  
+__scoundrel__ _n_ :four::hammer: _Those scoundrel disks._  
 __scour__ _v_ :nine::m: /skour, skaʊər, ˈskaʊ ər/ /SKOW-er/ __1a__ To clean, polish, or wash by scrubbing vigorously: _scour a dirty oven._ __b__ To remove by scrubbing: _scour grease from a pan._ __2__ To remove dirt or grease from (cloth or fibers) by means of a detergent. __3__ To clean (wheat) before the milling process. __4__ To clear (an area) by freeing of weeds or other vegetation. __5__ To clear (a channel or pipe) by flushing. __6__ :dart: Search thoroughly. Scour means “to search (something) carefully and thoroughly.” Scouring is usually associated with moving quickly. _We retraced our steps and scoured the hiking trail for the missing wedding ring._ _He invests hours scouring film._ __7__ To range over (an area) quickly and energetically.  
 __scourer__ _n_ :es: estropajo  
 __scourge__ _n_ :nine::m: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
@@ -16505,7 +16508,8 @@ __scrap<sup>3</sup>__ _vi_ :nine::m: (scrapping) To fight, usually with the fist
 __scrapbook__ _n_  
 __scrape__ _v_  
 __scrapper__  
-__scrappy__ _adj_ :five::hammer: _The scrappy journalist inside me fuels my fire in the marketing world._ _A scrappy industrial city._ _They are young, scrapoyband hungry._  
+__scrappy__ _adj_ :dart::six: __1__ Composed of scraps; fragmentary: _scrappy evidence._ __2__ Quarrelsome; contentious. _Syn_ argumentative _The scrappy journalist inside me fuels my fire in the marketing world._ _A scrappy industrial city._ __3__ :dart: Full of fighting spirit. _They are young, scrapoyband hungry._  
+__scratch mittens__ _n pl_ Small, glove-like garments designed to prevent babies from scratching their faces and skin, particularly when they have itchy conditions or are in a stage of development where they lack control over their movements.  
 __scratch pad__ _n_  
 __scratch<sup>1</sup>__ _v_ :mute:[scra~~t~~ch]  
 __scratch<sup>2</sup>__ _n_ :mute:[scra~~t~~ch]  
@@ -16516,6 +16520,7 @@ __scrawl__ _v_ :seven: (scrawled) To write hastily or sloppily. Write carelessly
 __scrawny__ _adj_ :three::hammer: _Two scrawny containers of grape jelly._  
 __scream-o-meter__  
 __screaming yellow__  
+__scree__ _n_ A sloping mass of loose rocks at the base of a cliff. _Syn_ talus  
 __screech<sup>1</sup>__ _n_ :two::hammer:  
 __screech<sup>2</sup>__ _v_ :nine::m: (screeched, screeching) __1__ (tr) To utter in a screech or high-pitched voice. __2__ (i) To cry out in a high-pitched, strident voice. __3__ To make a sound suggestive of a screech: _Tires screeched on the wet pavement._  
 __screen door__ _n_ A door that consists of a frame holding metallic or plastic netting; used to allow ventilation and to keep insects from entering a building through the open door; _“he heard the screen slam as she left.”_  
@@ -16544,7 +16549,7 @@ __scrouching__ _v_
 __scrounge__ _v_  
 __scrub brush__  
 __scrub out__ _v_  
-__scrub<sup>1</sup>__ _n_ _Trails winding through scrub oak stands._  
+__scrub<sup>1</sup>__ _n_ :two::hammer: /skrʌb/ __3a__ (Breeds) An animal of inferior breeding or condition. __b__ (as modifier): _a scrub bull._ _Trails winding through scrub oak stands._  
 __scrub<sup>2</sup>__ _vt_ :five: (scrubbed) __1a__ To rub hard in order to clean: _scrubbed the floor._ _He scrubbed his hands at the sink._ __b__ To remove (dirt or stains) by hard rubbing. __3__ _Computers_ __a__ To maintain the integrity of by finding and correcting errors: _software that automatically scrubs stored data._ __b__ To erase in such a way as to render unrecoverable: _scrubbed the laptop’s hard drive to destroy incriminating evidence._ __4__ _Slang_ To cancel or abandon; drop: _We had to scrub our plans for vacation._  
 __scrubber__ _n_ __1__ A person or thing that scrubs. __2__ (Chemical Engineering) An apparatus for purifying a gas.  
 __scrubbers__ _n_  
@@ -16635,6 +16640,7 @@ __Second Coming__ _n_ (Theology) The prophesied return of Christ to earth at the
 __second nature__  
 __second string__ _n_  
 __second wind__ _n_ Renewed energy or strength to continue an undertaking; _She had dinner and got a second wind to finish painting._  
+__second__ _vt_ :two::hammer:  
 __second-guess__ _v_ :seven::dart: (second-guessing)  
 __second-string__ _adj_ _Southhampton beat a largely second-string Arsenal team 2-0._  
 __second<sup>1</sup>__ _n_ :mega: /ˈsɛkənd/  
@@ -16833,6 +16839,7 @@ __sexennial<sup>1</sup>__ _n_ /sek-SEN-ee-uhl/ An event occurring every six year
 __sexennial<sup>2</sup>__ _adj_ /sek-SEN-ee-uhl/ Happening every six years; lasting for or relating to six years.  
 __sexpert__ _n_ /ˈsɛkspɜːt/ _informal_ a person whose job involves the academic study of or the providing information and advice about sexual relationships and sexual intercourse between human beings. A person who professes a knowledge of sexual matters.  
 __sextant__  
+__sexton__ _n_  
 __sexual battery__ _n_ Sexual battery may be defined as non-consensual touching of the intimate parts of another. At least in Florida, “Sexual battery means oral, anal, or vaginal penetration by, or union with, the sexual organ of another or the anal or vaginal penetration of another by any other object.”  
 __shabbily__ _adv_ __1__ So as to appear worn and threadbare or dilapidated; “a shabbily dressed man.” __2__ In a mean and ungenerous manner; _“the two were haggling shabbily in the drawing-room.”_ _He has shabbily deceived us._  
 __shabby__ _adj_ :three::hammer:  
@@ -16900,7 +16907,8 @@ __sheared__ _adj_ _Sheared mink._
 __shearing__ _n_ _Sheep shearing._  
 __shearling__ _n_ _Luxurious shearlings._  
 __sheath__ _n_ :three::hammer: :es: vaina  
-__sheathed__ _v_ :six::hammer: _Poster of Sharon Stone, sheathed in white._  
+__sheathed<sup>1</sup>__ _adj_  
+__sheathed<sup>2</sup>__ _v_ :six::hammer: _Poster of Sharon Stone, sheathed in white._  
 __shebang__ _n_ :two::hammer: _The whole shebang._  
 __shed__ _v_ :six: __1__ Cast off hair, skin, horn, or feathers. _A reptile sheds its skin._ _Wing de-icing systems are designed to shed the moisture._ _The lawyers shed their vests and loosened their neckties._ __2__ Get rid of. _He shed his image as a pushy boss._ _The rookie has shed his walking boot and says he’ll be fine._ __3__ Park (a vehicle) in a depot.  
 __shedder__ _n_ _A tree shedder._  
@@ -16935,7 +16943,7 @@ __shelling<sup>1</sup>__ _n_ :two: /ˈʃɛlɪŋ/ The act of bombing a place with
 __shelling<sup>2</sup>__ _v_  
 __shells__ _n_  
 __shelter__ _v_  
-__shelved__ _v_ :four::hammer: _The Supreme Court temporarily shelved his Clean Power Plan._  
+__shelve__ _v_ :five::hammer: _The Supreme Court temporarily shelved his Clean Power Plan._  
 __shemozzle__ _n informal_ (shimozzle) A noisy confusion or dispute; uproar.  
 __shenanigans__ _n pl_ :six: /shuh-NA-nih-guns/ Shenanigans is an informal word used to refer to mischievous or bold activity or behavior, or to dishonest or questionable practices or conduct. Its oldest meaning, and the one most likely to be encountered as the singular shenanigan, is “a devious trick used especially for an underhanded purpose.” _Reunited at their class reunion, the school’s most notorious pranksters were instantly back to their old shenanigans, cracking up their former classmates with hilarious toasts during dinner._ _The CEO resigned amid accusations of financial shenanigans and dubious deals._ _Pulling shenanigans._  
 __shepherd__ _v_ :two::mute:[shep~~h~~erd]:mega::astonished: (shepherded)  
@@ -16977,6 +16985,7 @@ __shirk__ _v_
 __shirk<sup>1</sup>__ _n_  
 __shirk<sup>2</sup>__ _v_ :five::dart: (shirking) To avoid work or duty. _He shirked the tasks._  
 __Shirley Temple__ _n_ A non-alcoholic cocktail consisting of ginger ale or sometimes lemonade and grenadine and garnished with a maraschino cherry.  
+__shirtlifter__ _n_ A homosexual man. _Syn_ gay man  
 __shirtsleeves__ _n_ :two::hammer:  
 __shirttail__ _n_  
 __shirttail<sup>1</sup>__ _n_ __1__ The part of a shirt reaching below the waist, especially in the back. __2__ A brief item added at the end of a newspaper article. __3__ Something small or unimportant.  
@@ -17085,7 +17094,8 @@ __shred__ _n_ :two::hammer: _A shred of evidence._ _I sat in their place, headed
 __shrew__ _n_ __1__ Any of various small, chiefly insectivorous mammals of the family Soricidae, resembling a mouse but having a long pointed snout and small eyes and ears. Also called shrewmouse. :es: musaraña __2__ _pejorative_ A woman regarded as an ill-tempered scold or nag. _Syn_ harridan, harpy, scold, termagant, virago  
 __shrewd__ _adj_  
 __shrewishly__  
-__shriek__ _v_ (shrieked) :two::hammer:  
+__shriek<sup>1</sup>__ _n_  
+__shriek<sup>2</sup>__ _v_ (shrieked) :two::hammer:  
 __shrieking__ _adj, n_ :two::hammer: _Shrieking panic._  
 __shrieks__  
 __shrift__ _n_ :six::hammer:  
@@ -17290,9 +17300,9 @@ __skell__ _n_ _slang_ A homeless person who lives as a derelict. _How you like i
 __skeptic__ _adj_ :pencil2:  
 __sketch__ _v_ _Let us briefly sketch its major challenges._  
 __sketchy__  
+__skew__ _v_ :two::hammer:  
 __skewer<sup>1</sup>__ _n_ _Skewers of meats, vegetables, and fruits._  
 __skewer<sup>2</sup>__ _vt_ :four::astonished::hammer: __2__ To ridicule or criticize harshly: _a reviewer who skewered the tedious movie._  
-__skews__ _v_  
 __ski jump__ _n_  
 __ski-in/ski-out resort__ _n_ :two: A ski-in ski-out resort is basically one that borders a mountain. It’s where skiers are able to ski in and out of the resort without having to use any form of transportation.  
 __skid row__ _n_ _slang_ _His father would take him to a blind pig on skid row._  
