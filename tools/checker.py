@@ -717,7 +717,7 @@ def main(prog_name: str, argv: list[str]) -> None:
 
     valid_arguments: Final[list[str]] = [
         "abbreviations+", "dictionary", "Ellroy's-lingo", "idioms", "interjections", "todo-idioms", "todo-main",
-        "top-dictionary", "top-idioms"]
+        "top-dictionary", "top-idioms", "wip"]
     if num_arguments > len(valid_arguments):
         print(RED + "Too many arguments. Aborting..." + END_C)
         usage_and_abort(prog_name, valid_arguments)

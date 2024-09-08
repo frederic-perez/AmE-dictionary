@@ -1,6 +1,75 @@
+__GDR__ German Democratic Republic.  
+__USSR__ Union of Soviet Socialist Republics.  
+****
+__undercut__ _v_  
+__nursing__ _n_ __1__ The profession of a nurse. __2__ The tasks or care of a nurse.  
+__occasionally__ _adv_ :pencil2: Now and then; from time to time.  
+__breakdown__ _n_  
+__full board__ _n_ :dart: __a__ The provision by a hotel of a bed and all meals. :es: pensión completa __b__ (as modifier): _full board accommodation._  
+__occasion__ _n_ :pencil2:  
+__bedsit__ _n_ A furnished sitting room containing sleeping accommodation and sometimes cooking and washing facilities. :es: estudio amueblado, habitación amueblada _Syn_ bedsitter, bedsitting room, bed-sitting room  
+__vivisection__ _n_  
+__tread__ _v_ (trod)  
+__suspicious__ _adj_ :es: desconfiado; sospechoso; suspicaz  
+__dosser__ _n_ Someone who sleeps in any convenient place. _Syn_ street person  
+__visa__ _n_ An official authorization appended to a passport, permitting entry into and travel within a particular country or region subject to certain conditions, such as length of time and purpose of the visit.  
+__stray dog__ _n_ An ownerless dog, a roaming wild or half-wild dog.  
+__secondhand<sup>1</sup>__ _adj_ :three::hammer:  
+__secondhand<sup>2</sup>__ _adv_  
+__visa national__ _n_ A person from a country whose citizens are required to obtain a visa before entering the United Kingdom, regardless of the purpose or duration of their visit.  
+__Equity__ _n_ :astonished: /ˈɛkwɪtɪ/ _Theatre_ The actors’ trade union. Full name: Actors’ Equity Association  
+__gateway__ _n_ __2__ Something that serves as an entrance or a means of access: _a gateway to success; the gateway to the West._  
+__rundown__ _n_ __1__ A point-by-point summary.  
+__Ceroc__ _n_ /səˈrɒk/ (Dancing) _trademark_ A form of dance combining elements of jive and salsa.  
+__brisk__ _adj_ (brisker, briskest)  
+__crèche__ _n_ :two: __3__ _Brit._ Say nursery.  
+__archway__ _n_ :es: pasaje abovedado  
+__noticeboard__ _n_ Bulletin board.  
+__press cutting__ _n_ An excerpt cut from a newspaper or magazinepress cutting - an excerpt cut from a newspaper or magazine.  
+__scored tablet__ _n_ :dart::camera: A tablet that has a line or groove (called a score line) on their surface, designed to allow the tablet to be split into smaller doses.  
+__criminal offence__ _n_ An act punishable by law; usually considered an evil act. _Syn_ crime, criminal offense, law-breaking, offense, offence  
+__duty solicitor__ _n_ (duty counsel, duty lawyer) A solicitor whose services are available to a person either suspected of, or charged with, a criminal offence free of charge (pro bono), if that person does not have access to a solicitor of their own and usually if it is judged by a means test that they cannot afford one. The system is operative in several Commonwealth countries, including the United Kingdom, Australia, New Zealand and Canada.  
+__solicitor__ _n_ __3__ _Chiefly British_ An attorney who advises clients on legal matters, represents clients in certain lower courts, and prepares cases for barristers to present in the higher courts.  
+__skin-pop__ _vt_ To inject (a drug) beneath the skin rather than into a vein.  
+__subcontinent__ _n_  
+__snuff__ _n_ __3__ Any powdered substance, esp one for sniffing up the nostrils.  
+__work camp__ _n_ __1__ A camp for prisoners sentenced to labor, esp. to outdoor labor. __2__ A camp where volunteers, often from religious organizations, work together on community service projects.  
+__holidaymaker__ _n_ _Chiefly British_ One who goes on vacation. Someone who travels for pleasure. _Syn_ tourer, tourist  
+__cater__ _v_  
+__refuse__ _v_ /rɪˈfjuːz/  
+__au pair__ _n_ A young foreigner who provides childcare for a family in exchange for room and board, often a small stipend, and the opportunity to study.  
+__camp__ _n_  
+__no-man’s-land__ _n_ :three: __1__ _Military_ Land between boundaries, esp an unoccupied zone between opposing forces.  
+__peal__ _n_ :two: __1__ A ringing of a set of bells, especially a change or set of changes rung on bells. __2__ A set of bells tuned to each other; a chime. __3__ A loud burst of noise: _peals of laughter._  
+****
+__on the whole__ Considering everything together; in general or for the most part.  
+__beat about the bush__ :two: _BrE_ To speak vaguely or euphemistically so as to avoid talking directly about an unpleasant or sensitive topic. Primarily heard in UK.  
+__go bust__ :two: To experience financial failure or ruin, often as of a business.  
+__at the outset__ At the beginning.  
+__more often than not__ Much of the time.  
+__out of print__ No longer being printed and sold by a publisher.  
+__for a fee__  
+__few and far between__  
+__a word of warning__  
+__hit and miss__ (hit or miss)  
+__bargain for (someone or something)__  
+__bona fide__  
+__slippery path__ A situation or course of action that is fraught with difficulties, risks, or potential negative consequences.  
+__fancy__ _informal_ __2__ To have a desire for (something).  
+__to the contrary__ Opposite to what has just been said.  
+__put on a good/poor/etc. show__  
+__pitch (something) at__  
+__under false pretenses__ With a false impression created through intentional misrepresentation.  
+__same old same old__ :two::hammer:  
+__double or quits__ A wager, undertaken after a previous wager, that stipulates two possible outcomes: if the winner of the previous wager wins again, they win twice the amount won in the previous wager; if they lose, they receive nothing. Primarily heard in UK.  
+__clear the table__ To remove objects from a table. This phrase is often said after a meal, as one removes dishes, silverware, and leftover food from the table. _After the meal I cleared the table._  
+__think small__ The idiom “think small” refers to adopting a mindset that focuses on modest goals, limited ambitions, or a more conservative approach, often in contrast to the more common phrase “think big,” which encourages setting lofty, ambitious objectives.  
+****
 __muttering__ _n_ (?)  
 __racket__ _n_ (noise)  
 __interfere__ _v_  
+__gerbil__ _n_ :es: jerbo  
+__concourse__ _n_ __1__ A large open space for the gathering or passage of crowds, as in an airport. :es: explanada __2__ A broad thoroughfare. __3__ A great crowd; a throng. __4__ The act of coming, moving, or flowing together.  
 __gruff__  
 __rung__  
 __breeze__ _Breeze blocks on the streets of Havana._  
@@ -15,7 +84,6 @@ __firebrand__
 __miniscule__ _adj_ :astonished:  
 __cornpone__ _n_  
 __inviting__ _adj_ :two: Attractive; tempting: _an inviting dessert._  
-
 __it ain’t over till/until the fat lady sings__  
 __to a T__  
 __wey kiss__  
@@ -30,7 +98,6 @@ __stakeout__
 __top-heavy__ __1__ _slang_ Of a woman, having very large breasts. __2__ _slang_ Of a man, having large upper-body muscles with relatively small lower-body muscles.  
 __usual suspects__  
 __at its best__  
-
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
 __big game__  
 __ogle__ _v_  
@@ -46,14 +113,13 @@ __nags__ _n_ _Riding old nags._
 __regardles__  
 __summons__ _n_  
 __lodge__ _v_ _He’s lodged a complaint against you._  
-
 __turn a blind eye to something__  
 __lost for words__  
 __look the othr way__  
 __fair enough__  
 __all the same__ (?)  
 __at any rate__  
-__bow-legged__ :three::hammer:  
+__bow-legged__ _adj_ :three::hammer:  
 __a balancing act__ :dart:  
 __go cold__ _The bonnet beneath had gone cold._  
 __show (one’s) hand__  
@@ -63,8 +129,6 @@ __the real deal__
 __watershed moment__ (?)  
 __sexual advance__  
 __in a pinch__ When something ideal or preferred is not available; as a substitute. _I don’t have any cooking oil. Is there anything else I can add to the recipe in a pinch?_  
-
-__peal__ _A peal of laughter._  
 __outlay__ _n_  
 __hotplate__ _n_ :two::hammer:  
 __klunk__ _n_ (noise?)  
@@ -89,7 +153,6 @@ __self-assured__
 __birch tree__  
 __dinghy__ _n_  
 __bleak__ _adj_  
-
 __as simple (smt?) as it gets__ :dart:  
 __enjoy oneself__  
 __slip__ (mistake, uttered)  
@@ -100,7 +163,6 @@ __sleep like a stone__ (?)
 __go ballistic__  
 __food chain__  
 __like the back of your hand__  
-
 __endure__ _v_ _I could hardly even endure my own reflection in the mirror._  
 __self-contempt__  
 __golden plover__ _n_ (bird?)  
@@ -112,8 +174,6 @@ __millpond__
 __squelch__ _v_  
 __trawl__ _v_  
 __cowed__  
-__snuff__ _n_  
-
 __red-hot__ _The red-hot property market._  
 __step up s gear__  
 __for which read__ :dart: _Readjustment, scaling back, for which read — redundancies._ :es: léase (?)  
@@ -129,11 +189,6 @@ __barb__ _He acknoledged the barb._
 __trip along__  
 __jungle law__  
 __know by heart__  
-__beat about the bush__  
-__the same old same__ (?)  
-__go bust__  
-
-__snuff__ _n_  
 __cleaning agent__  
 __plumb__ _Bruises and plumb lines._  
 __writ__  
@@ -146,11 +201,7 @@ __aquavit__
 __spruce tree__  
 __curtly__ _‘Congratulations,’ I said curtly._  
 __divide__ _n_ (?)  
-
 __work like a Trojan__  
-__beat about the bush__  
-__the same old same__  
-__go bust__  
 __get it out of my system__  
 __pissrain__  
 __airhead__  
@@ -160,11 +211,9 @@ __wind down__
 __get something out of the way__ :dart:  
 __lucky monkey__  
 __as it happens__  
-__clear the table__ _After the meal I cleared the table._  
 __the small of one’s back__  
 __jalopy__  
 __grease monkey__  
-
 __waddle__ _v_  
 __hoipolloi__  
 __shoal__ _n_  
@@ -173,7 +222,6 @@ __serviette__ _n_
 __funfair__  
 __undwrarm__ _n_  
 __splosh__ _v_  
-__peal__ _n_ (bell sound?)  
 __welt boots__  
 __stovepipe__  
 __flit__ _v_  
@@ -185,9 +233,6 @@ __paradigm__ _n_ /PAIR-uh-dyme/
 __pustulate__ _adj_ Blemished by imperfections of the skin. _Syn_ acned, pimpled  
 __unbeknownst__ _adj_ /un-bih-NOHNST/  
 __drollery__ _n_ A quaint and amusing jest. _Syn_ waggery  
-
-__it wouldn’t do (someone) any harm (to do something)__ It would or may be good, pragmatic, or beneficial for someone (to do something). _You know, it wouldn’t do you any harm to comb your hair from time to time._  
-
 __with a start__ _I dreamed about falling and I woke with a start._  
 __goats and oats__ :dart:  
 __slush__ _n_ (drink?)  
@@ -196,10 +241,8 @@ __white spirit__ _n_
 __sounds familiar__  
 __a one-off__  
 __give something a miss__ _I’ll give coffee a miss; I’m off to bed now._  
-__double or quits__ (?)  
 __poppy appeal__  
 __(it’s) just as well (that) (something happened)__ It is or turned out to be beneficial (that something happened). _It turned out we had a pop quiz on Monday. Just as well I was studying this weekend!_  
-
 __close shave__  
 __six in one, (and) half a dozen in the other__ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
 __the man to see__  
@@ -210,7 +253,6 @@ __the three Rs__ _We learned the three Rs._
 __a stone’s throw__ :two::hammer:  
 __be partial to something__  
 __spend a penny__  
-
 __scrupulously__  
 __squally__ _Squally showers._  
 __peckish__  
@@ -240,7 +282,6 @@ __exonerate__ _v_
 __demob__ _v_  
 __surplice__  
 __upshot__  
-
 __dig one’s feet__  
 __speak one’s mind__  
 __make one scarce__  
@@ -251,11 +292,9 @@ __lip to lip__ :two::hammer:
 __zero hour__  
 __mess tin__  
 __whizz-bangs__  
-__no-man’s-land__ :three::hammer:  
 __attend to the call of nature__  
 __field dressing__  
 __fire on the ranges__  
-
 __spinster__  
 __tackle__ _n_ _The tackle broke when they tried to lift the heavy bell._  
 __cornices__ _n_ :two::hammer:  
@@ -267,15 +306,15 @@ __tramp__ _n_ (vagrant?)
 __VE Day__  
 __store__ _n_ :dart: A mercantile establishment for the sale of goods or services.  
 __brushwood__ _n_  
-__cathexis__ _n_ Concentration of emotional energy on an object or idea. _Syn_	charge _Freud thought of cathexis as a psychic analog of an electrical charge._  
+__cathexis__ _n_ Concentration of emotional energy on an object or idea. _Syn_ charge _Freud thought of cathexis as a psychic analog of an electrical charge._  
 __jubilee__ _n_ :mega: /JOO-buh-lee/  
 __degage__ _adj_ Showing lack of emotional involvement. _Syn_ detached, uninvolved  
 __balderdash__ _n_ /ˈbɔːldəˌdæʃ/ Nomsense. Stupid or illogical talk; senseless rubbish.  
 __transgression__ _n_ /trans-GRESH-uhn/ A violation of legal or moral boundaries.  
 __brainiac__ _n_ /BRAY-nee-ak/  
-
 __dry run__  
 __bits and pieces__  
 __smell a rat__  
 __pull one’s weight__  
 __Jerry__ (German?)  
+__it wouldn’t do (someone) any harm (to do something)__ It would or may be good, pragmatic, or beneficial for someone (to do something). _You know, it wouldn’t do you any harm to comb your hair from time to time._  
