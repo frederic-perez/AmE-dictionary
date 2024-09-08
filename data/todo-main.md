@@ -1,10 +1,16 @@
+__abscess__ _n_ /ˈæbsɛs; -sɪs/ A localized collection of pus formed as the product of inflammation and usually caused by bacteria.  
 __acumen__ _n_ /AK-yoo-mun/ _Acumen_ refers to keenness and depth of perception, discernment, or discrimination—in other words, the ability to think clearly and make good decisions, especially in practical matters.  
+__adulterant__ _n_ /əˈdʌl tər ənt/  
 __affect__ _v_ __1__ To put on a false show of; simulate: _affected a British accent._ Pretend. __4__ 4. To imitate; copy.  
+__allay__ _vt_ əˈleɪ/  
+__anilingus__ _n_ Oral stimulation of the anus.  
 __anodyne__ _adj_ Capable of soothing or eliminating pain. _Syn_ analgesic, analgetic  
+__anorexia nervosa__ _n_ /nɜrˈvoʊ sə/ An eating disorder characterized by a fear of becoming fat, a distorted body image, and excessive dieting leading to emaciation.  
 __arable__ _adj_ /ˈærəbəl/ Fit for cultivation, as by plowing.  
 __arthralgia__ _n_ är-thrăl′jə/ Neuralgic pain in a joint or joints.  
 __aspersion__ _n_ /uh-SPUHR-zhuhn/shuhn/ __1__ A damaging accusation: slander. __2__ The sprinkling with water, as in baptism.  
 __audacity__ _n_ :dart: Fearless daring; intrepidity. _Syn_ temerity  
+__barbiturate__ _n_ :es: barbitúrico  
 __bardolatry__ _n_ [:scroll: Coined by George Bernard Shaw from bard (poet) + -latry (worship)] _facetious_ Idolatry or excessive admiration of William Shakespeare.  
 __biddy__ _n_ /ˈbɪdɪ/ __1__ A dialect word for chicken, hen. __2__ _informal offensive_ A woman, esp an old gossipy or interfering one.  
 __biennial__ _adj_ Happening every second year. _Syn_ biyearly  
@@ -19,10 +25,12 @@ __Byzantine__ _adj_ /BIZ-un-teen/
 __cad__ _n informal_ _old-fashioned_ _Brit_ A man who does not behave in a gentlemanly manner towards others.  
 __candlestick__ _n_ (candleholder) A holder, usually ornamental, with a spike or socket for a candle.  
 __canvasser__ _n_  
+__casualty__ _n_ :astonished: __3__ _(Medicine)_ A hospital department in which victims of accidents, violence, etc, are treated.  
 __catapult__ _v_ /ˈkæt əˌpʌlt, -ˌpʊlt/  
 __ceasefire__ _n_  
 __ceiling rose__ _n_ In the United Kingdom and Australia, a _ceiling rose_ is a decorative element affixed to the ceiling from which a chandelier or light fitting is often suspended.  
 __char__ _v_ Burn slightly and superficially so as to affect color. _Syn_ blacken, sear, scorch.  
+__chemist__ _n_ __1__ A scientist specializing in chemistry. __2__ _Chiefly British_ A pharmacist.  
 __choosy__ _adj_  
 __chrome__ _n, v_ /kroʊm/  
 __chute__ _n_  
@@ -34,6 +42,7 @@ __clued up__ _adj_ _BrE_ _informal_ Knowledgeable about a topic or situation; po
 __co-op__ _n_ A cooperative enterprise, building, or apartment.  
 __coda__ _n_  
 __colloquy__ _n_ :pencil2: /ˈkɒl ə kwi/  
+__coma__ _n_  
 __comment period__ _n_ A “comment period” is a designated timeframe during which members of the public, stakeholders, or interested parties are invited to provide feedback, opinions, or suggestions on a proposed rule, regulation, policy, or decision. This process is commonly used by government agencies, organizations, or regulatory bodies to gather input before finalizing a decision or implementing a new policy.  
 __condone__ _v_  
 __convenience food__ _n_ :dart: A prepackaged food that can be prepared quickly and easily.  
@@ -42,6 +51,7 @@ __cot death__ _n_ _Br E_ Sudden infant death syndrome.
 __cottage cheese__ _n_ A soft white cheese made of strained and seasoned curds of milk. Also called _pot cheese_; also called regionally _Dutch cheese, smearcase._  
 __countless__ _adj_ Too many to be counted; innumerable. _Syn_ incalculable _Countless times._  
 __courier__ _n_ :mega: /ˈkɜr i ər, ˈkʊər-/  
+__crackle__ _v_ /ˈkrækəl/ To make or cause to make a series of slight sharp noises, as of paper being crushed or of a wood fire burning.  
 __crocodile clip__ _n_ :camera: A clasp with serrated interlocking edges used for making electrical connections.  
 __cronyism__ _n_ /KROH-nee-iz-um/ _Cronyism_ is the unfair practice by a powerful person (such as a politician) of giving jobs and other favors to friends without regard for their qualifications.  
 __dalliance__ _n_  
@@ -99,6 +109,7 @@ __ephemeris__ _n_ /ɪˈfɛm ər ɪs/
 __escritoire__ _n_ A writing table; a desk. _Syn_ secretaire, writing table, secretary  
 __estaminet__ _n_ /ɛs ta miˈnɛ/ A small café, bar, or bistro, esp a shabby one.  
 __etching__ _n_ :three::hammer:  
+__ethanol__ _n_  
 __evanescent__ _adj_ /e-vuh-NES-uhnt/ Fading quickly; transitory.  
 __exceptionable__ _adj_ Open or liable to objection or debate; debatable. _Syn_ objectionable  
 __exigency__ _n_ Urgent requirements; pressing needs. Often used in the plural. _Syn_ need, demand, requirement, necessity, constraint, wont  
@@ -144,7 +155,7 @@ __flywheel__ _n_ :es: volante
 __foist__ _v_ /FOIST/ _Foist_, which is almost always used with _on_ or _upon_, is used when someone forces another person to accept something, usually something that is not good or is not wanted. Foist can also mean “to pass off as genuine or worthy.”  
 __folksy__ _adj_  
 __folly__ _n_ (construction)  
-__foodstuff__ _n_ A substance that can be used or prepared for use as food.  
+__foodstuff__ _n_ :two: A substance that can be used or prepared for use as food.  
 __footage__ _n_ :mega:  
 __fortnight__ _n_ :dart::astonished::two: [:scroll: Middle English fourtenight, alteration of fourtene night, fourteen nights] A period of 14 days; two weeks.  
 __fortnightly<sup>1</sup>__ _adj_ Happening or appearing once in or every two weeks.  
@@ -157,6 +168,7 @@ __fusty__ _adj_ /FUSS-tee/ Someone or something described as fusty is rigidly ol
 __gabby__ _adj_ Tending to talk excessively. _Syn_ chatty, garrulous, loquacious, talkative, talky  
 __gadabout__ _n_ /GAD-uh-bout/ A gadabout is a person who flits about in social activity, as by going to many places and social events for pleasure.  
 __galvanize__  
+__gangrene__ _n_  
 __gasp<sup>1</sup>__ _v_  
 __gasp<sup>2</sup>__ _n_ __1__ A short convulsive intake of breath.  
 __genteelism__ _n_ /jen-TEE-liz-uhm/ The substitution of a word that is believed to be more polite or refined. For example, washroom for lavatory.  
@@ -183,6 +195,7 @@ __hoopla__ _n_ /HOO-plah/ _Hoopla_ refers to talk or writing that is designed to
 __huddle__ _v_  
 __husk__ _n_ /hʌsk/  
 __idiosyncrasy__  
+__illicit__ _adj_ /ɪˈlɪsɪt/  
 __immiseration__ _n_ /i-miz-uh-RAY-shuhn/ __1__ The act of making miserable or the state of being made miserable. __2__ Impoverishment.  
 __impending__ _adj_ About to happen; imminent.  
 __impugn__ _v_ /im-PYOON/ To impugn something, such as a person’s integrity, judgment, etc., is to attack or oppose it as false or lacking integrity.  
@@ -192,10 +205,13 @@ __ingenuous__ _adj_ Lacking in cunning, guile, or worldliness. _Syn_ artless
 __iota__ _n_ /eye-OH-tuh/ An _iota_ is an infinitesimal amount of something. The word _iota_ is used synonymously with the etymologically related _jot_, and by its oldest definition refers to the 9th letter of the Greek alphabet.  
 __irate__ _adj_ :dart::astonished:  
 __itching__ _n_ An irritating cutaneous sensation that produces a desire to scratchitching - an irritating cutaneous sensation that produces a desire to scratch. _Syn_ itchiness, itch  
+__jaundice__ _n_  
 __jot<sup>1</sup>__ _n_ :dart: /dʒɒt/ The smallest bit; iota. _(used with a negative)_ A little bit (in phrases such as _not to care (or give) a jot_).  
 __jot<sup>2</sup>__ _vt_  
 __jumar__ _n_ /ˈdʒuːmə/  
 __jurisprudence__ _n_ /joor-us-PROO-dunss/ _Jurisprudence_ is a formal word that typically refers to the science or philosophy of law, or to a system or body of law.  
+__justice of the peace__ _n_ (JP) A local magistrate empowered chiefly to administer summary justice in minor cases, to commit for trial, and to administer oaths and perform marriages.  
+__keen__ _adj_ (keener, keenest)  
 __Kitemark__ _n_ _BrE_ The official mark of quality and reliability, in the form of a kite, on articles approved by the British Standards Institution.  
 __kudos__ _n_ /KOO-dahss/  
 __labyrinthine__ _adj_ Resembling a labyrinth in form or complexity. _Syn_ mazy  
@@ -223,11 +239,15 @@ __lodestone__ _n_ (loadstone) /lōd′stōn′/ A piece of magnetite that has ma
 __logodaedalus__ _n_ /log-uh-DEE-duh-luhs/ One skilled with words.  
 __long-standing__ _adj_ (longstanding)  
 __lookout__ _n_ _Lookouts were posted._  
+__loss aversion__ _n_  
 __Lothario__ _n_ (lothario)  
+__LSD__ _n_ (acid) _(Recreational Drugs)_ Lysergic acid diethylamide; a crystalline compound prepared from lysergic acid, used in experimental medicine and taken illegally as a hallucinogenic drug. Informal name (as an illegal hallucinogen): acid.  
 __lucrative__ _adj_ :two::hammer: /LOO-kruh-tiv/  
 __luminal__ _adj_  
 __lunchtime__ _n_ :pencil2:  
 __machtpolitik__ _n_ /MAHKHT-pol-ee-teek/ Power politics: policies that advocate the use of power and physical force to attain their goals.  
+__maggot__ _n_ __1__ The legless, soft-bodied, wormlike larva of any of various dipteran flies, often found in decaying matter. :es: gusano  
+__Magic Eye poster__ _n_  
 __maiden__ _adj_ _The _Titanic_ maiden voyage._  
 __mains tester__ _n_ An insulated screwdriver with a light in the handle.  
 __make__ _n_ :astonished:  
@@ -236,6 +256,7 @@ __meliorism__ _n_ /MEE-lee-uh-riz-um/ _Meliorism_ refers to the belief that the 
 __midriff__  
 __mise-en-scène__ _n_ /meez-ahn-SEN/ _Mise-en-scène_ can refer to the setting of a play, movie, etc., or it can refer to the physical or social setting in which something real occurs or develops.  
 __misnomer__  
+__misuser__ _n_ __1__ One that misuses: _a misuser of school property._  
 __miter__ _n_ (mitre) A type of headdress worn by archbishops and bishops.  
 __moisten__ _v_  
 __moot__ _vt_  
@@ -244,6 +265,7 @@ __mountaineering__
 __mpox__ _n_ (formerly called _monkey pox_) A zoonotic disease especially of central and western Africa that is caused by a poxvirus.  
 __nail varnish__ _n_ (nail enamel, nail polish)  
 __natural hat trick__ _n_ _sports_ A hat trick in which three goals are scored in succession by one player in one game.  
+__nibble__ _v_  
 __nigh__ _adj, adv, prep_ /naɪ/ An archaic, poetic, or dialect word for near.  
 __noggin__ _n_ __1__ A small mug or cup. __2__ A unit of liquid measure equal to one quarter of a pint. __3__ _slang_ The human head.  
 __nominal wages__ _n_ (money wages) Wages measured in terms of money and not by their actual purchasing ability.  
@@ -278,6 +300,7 @@ __peculiar__ _adj, n_
 __pejorist__ _n_ /PEJ-uh-rist/ A person who believes that the world is getting worse.  
 __pen test__ _n_ (penetration test) An authorized simulated cyberattack on a computer system, performed to evaluate the security of the system.  
 __penury__ _n_ Extreme want or poverty; destitution. _Syn_ indigence, pauperism, beggary, need  
+__peptic ulcer__ _n_ An erosion of the mucous membrane of the lower esophagus, stomach, or duodenum, caused in part by the corrosive action of the gastric juice.  
 __peradventure__ _n_ Chance, doubt, or uncertainty.  
 __peremptorily__ _adv_ :dart::astonished: In an imperative and commanding manner. In a way that leaves no opportunity for denial or refusal.  
 __peremptory__  
@@ -319,6 +342,8 @@ __quaver__ _vi_ __1__ To quiver, as from weakness; tremble. _I took a quavering 
 __quiff__ _n_  
 __quiver<sup>1</sup>__ _vi_  
 __quiver<sup>2</sup>__ _n_ __1__ A portable case for holding arrows.  
+__raving<sup>1</sup>__ _n_  
+__raving<sup>2</sup>__ _adj_ Delirious, irrational speech.  
 __rear__ _vt_ __1__ To care for (children or a child) during the early stages of life; bring up. __2__ To tend (growing plants or animals). __3__ To build; erect.  
 __rebate__ _n_ A refund of a fraction of the amount payable or paid, as for goods purchased in quantity; discount. :es: reembolso  
 __receptacle outlet__ _n_ An electrical outlet where one or more receptacles are installed.  
@@ -333,6 +358,7 @@ __repeat__ _n_
 __repose__ _n_ The act of resting or the state of being at rest. _Syn_ ease, relaxation, rest _The vacationer took his repose beside the swimming pool._  
 __reread__ _v_ :pencil2:  
 __riding hood__ _n_ A type of cloak or hood worn by women who rode horses. This clothing was designed specifically for riding, providing warmth and protection for the rider.  
+__rimming__ _n_ _slang_ A slang term for the act of licking and/or orally stimulating the anus of a sexual partner.  
 __rundown__ _n_  
 __skewer__ _n_  
 __skirl<sup>1</sup>__ _vi_ /SKERL/ To produce a high, shrill, wailing tone. Used of bagpipes.  
@@ -345,6 +371,7 @@ __smitten__ _adj_
 __snarl__ _n_ __1__ A vicious growl, utterance, or facial expression. __2__ The act of snarling. __3__ A tangled mass, as of hair or yarn. __4__ A confused, complicated, or tangled situation: _a traffic snarl._  
 __snoop__ _vi_ To pry into the private affairs of others, especially by prowling about.  
 __snort__ _v_  
+__snuff__ _n_ __3__ A powdery substance, such as a medicine, taken by inhaling.  
 __snuffle__ _v_  
 __socket outlet__ _n_ __1__ British term for receptacle outlet. __2__ See _outlet_.  
 __somersault__ _n_ :es: voltereta  
@@ -414,12 +441,14 @@ __visage__ _n_ /VIZ-ij/
 __vitiate__ _v_ :dart: /VISH-ee-ayt/ To _vitiate_ something is to ruin it or render it ineffective. _A single inaccuracy in the spreadsheet that supported the data vitiated the entire proposal._  
 __vulnerable__ _adj_ /VUL-nuh-ruh-bul/  
 __warp speed__ _n_ [:scroll: The expression was popularized on the science-fiction show _Star Trek_ in the 1960s] __1__ (science fiction) A hypothetical, extremely rapid, speed, resulting from entering a separate dimension, termed hyperspace; much faster than the speed of light. __2__ (by extension, informal) Any very fast speed. _A brain going at warp speed._  
+__water sports__ _n_ __2__ _slang_ Sexual practices that involve urination.  
 __wedge__ _vt_ __1__ 1. To split or force apart with or as if with a wedge: _wedged the board away from the stud; neighbors who were wedged apart by a dispute._  
 __weed__ _v_  
 __weir__ _n_ :two::hammer:  
 __Wembley__ _n_ :mega:  
 __wholefood__ _n_ __a__ Food that has been refined or processed as little as possible and is eaten in its natural state, such as brown rice, wholemeal flour, etc. __b__ (as modifier): _a wholefood restaurant._  
 __windjammer__ _n_ :es: buque de vela (grande y veloz)  
+__withdrawal symptom__ _n_ :dart: Any physical or psychological disturbance (as sweating or depression) experienced by a drug addict when deprived of the drug.  
 __woe__  
 __word-perfect__ _adj_  
 __worktop__ _n_ :two::hammer:  

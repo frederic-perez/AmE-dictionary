@@ -1,23 +1,37 @@
 __(stuck) in a rut__  
+__a long shot__ :dart:  
+__a word of warning__ Information about possible danger or trouble.  
 __all the same__  
 __at the top of (one’s) voice__ As loudly as one can.  
 __aw shucks__ :dart: __1__ An expression of shyness, happiness, or embarrassment. _A: “You’re just too sweet!” B: “Aw shucks, you’re gonna make me blush.”_ _Aw shucks, it was nothing. I was happy to help._ _Aw shucks, that’s so nice of you to say! Thank you!_ __2__ An expression of disappointment. _Aw shucks, it looks like we’re going to lose the game after all._  
 __back in the saddle__  
+__barb__ A shortening of “barbiturate,” a drug class that consists of sedatives and hypnotics. _Barbs are dangerous, man—I’d stay away from them._  
 __be on the safe side__ :dart:  
+__bear (someone or something) in mind__  
 __behind (one’s) back__ In one’s absence. The phrase typically suggests wrongdoing or deceit. _I can’t believe you were gossiping about me behind my back!_  
 __break even__  
+__brown sugar__ :dart: _slang_ Heroine.  
 __by all means__ :dart:  
 __cash flow__  
 __castle in the air__  
 __castles in the air__  
 __Catch-22__  
+__chalk up__  
+__chase the dragon__ :dart: To smoke a controlled substance, often heroin. _I can’t chase the dragon anymore—I’m trying to get away from that stuff._  
 __coming-of-age__  
 __creeper__  
+__cut bait__  
 __dance on air__ To be extremely happy.  
+__dead__ __5__ Absolutely. _You’d better be dead certain about this decision, because you can’t take it back._  
 __downed on (someone)__  
+__downer__  
+__drop in__ To visit someone casually or unexpectedly.  
 __educated guess__ A thoughtful, well-reasoned guess; a guess with some basis in one’s knowledge.  
+__every other__ Alternating. _Every other week._  
 __fall off the perch__ _BrE_ _old-fashioned, informal_ (fall off your perch) If someone falls off the perch or falls off their perch, they die. Note: A perch is a pole, branch or other place where a bird sits to rest. _He fell off the perch years ago._ Note: Other verbs such as drop or topple can be used instead of fall. _He’ll topple off his perch one morning. You know how it is._ Note: This expression is used humorously.  
 __first come, first served__ The first people present will be the first to receive something, often something that is available in limited quantities.  
+__flying squad__ _n_ A small group of police, soldiers, etc, ready to move into action quickly.  
+__for a charge__ The act of charging someone a fee or price for a service or item.  
 __for kicks__  
 __get lucky__  
 __ghosting__ _slang_  
@@ -54,6 +68,7 @@ __good-time Charlie__ An affable, lively, and entertaining man who is often or a
 __goon__  
 __goop__  
 __grapple with (someone or something)__ :three::hammer:  
+__grass__ _slang_ __1__ Marijuana.  
 __graze on (something)__ __1__ Of animals, to eat the greens or vegetables in a particular area or location. _I put up a fence to try to keep the deer from grazing on my land._  
 __green thumb__  
 __hairpin bend__ :two: A very sharp, approximately 180° bend in a road.  
@@ -238,6 +253,7 @@ __loss leader__ A product or service offered at or below cost in order to attrac
 __loud and clear__  
 __lurk__  
 __lust for life__  
+__magic mushroom__ _informal_ Any mushroom-like fungus that has psychedelic effects.  
 __make (both) ends meet__  
 __make (one’s) eyes pop (out)__  
 __make (one’s)/the rounds__  
@@ -282,6 +298,7 @@ __neck and neck__
 __need to be done__ To be required to be completed or acted upon.  
 __Nervous Nellie__ /nuhr-vuhs NEL-ee/(nervous Nellie/Nelly) Any nervous person, male or female. Someone who is more timid, nervous, or anxious than is normal or reasonable.  
 __nice and (something)__ :five: Very something. Used to emphasize how nice something is because of the particular quality named after “and.” _I love your new house! It’s nice and bright inside!_ _Ah, this lemonade is nice and cold—just the thing for such a hot day._  
+__nip (something) in the bud__  
 __nip at__ __1__ To give (someone or something) little bites. _Their dog kept nipping at my heels whenever I walked through the house._ _I know some people go crazy for the treatment, but I can’t stand the feeling of fish nipping at my feet!_ __2__ To sting (a part of one’s body) with cold. _The air had just started nipping at our noses by the time we reached the house._ _There’s nothing like settling down in front of a fire with a hot drink after the cold wind has been nipping at your cheeks on a long, satisfying bike ride._ _The cold air nipped at my lungs if I breathed in too quickly._ __3__ To take small, frequent sips of (some drink, especially alcohol). _I caught my grandma nipping at a flask, which she tried to pretend had medicine inside of it._  
 __no end in sight (to something)__  
 __no question about it__ :two: Definitely; for sure.  
@@ -326,6 +343,7 @@ __on the edge of (one’s) seat__
 __on the line__ __1__ In a state of jeopardy or uncertainty.  
 __on the lookout__ :two: Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
 __on the move__  
+__on the pill__ _slang_ Currently and regularly using birth-control pills (oral contraceptives that inhibit ovulation to prevent conception).  
 __on the radar (screen)__  
 __on the rocks__ _That marriage was already on the rocks._  
 __on the run__  
@@ -339,6 +357,7 @@ __one-off__ :two::hammer:
 __over and out__ Said to mark the end of communication between two people. Used especially in radio communication, in which it signals that a person is done speaking and does not expect a reply from the other person. _A: “Oh, and while you’re at the store, could you please get some milk, too?” B: “Sure thing. Over and out.”_  
 __photobomb__  
 __play havoc with (someone or something)__ To cause issues or disruptions for someone or something. _The road closures have played havoc with rush-hour traffic._  
+__poppers__ Drugs of the alkyl nitrate class used recreationally as a sexual stimulant, especially among gay men. Amyl nitrite became popular in the 60s especially with the male gay community becase it relaxes the muscles, making anal intercourse easier.  
 __prim and proper__ Having very traditional, morally conservative beliefs and behavior.  
 __public eye__ Attention from the general public. Typically used in the phrase “in the public eye.”  
 __puppy__ __1__ _n_ A wimp; a softie. _That silly puppy is still waiting outside your door._ __2 __ _n_ A thing; a piece or part of something. _Put this little puppy right here._  
@@ -382,9 +401,12 @@ __so much so that__
 __soft spot__  
 __something of sorts__ An inferior example of a kind of something.  
 __sort out__  
+__speed__ _slang_ Any illicit stimulant drug, especially amphetamine or methamphetamine. _We all used to take speed during college to help us study._  
 __stamp of approval__ An indication of endorsement or authorization of something.  
 __stand on (one’s) own (two) feet__ To be strong and independent; to not need the help, guidance, or resources of another person.  
-__strangely enough__ Bafflingly; surprisingly; atypically.  
+__steamroll through__  
+__strangely enough__ :two: Bafflingly; surprisingly; atypically.  
+__strong feelings__ Intense emotions or sentiments that a person experiences regarding a particular situation, person, or idea.  
 __sure thing__  
 __swig__ __1__ _n_ Adeep drink of liquor; a swallow of liquor. _She took a swig of rum and leaped into the lagoon._ __2__ _vt_ To drink liquor deeply. _He nearly swigged the whole bottle before he needed to take a breath._  
 __take (something) with a pinch of salt__ (take something with a dash/grain of salt)  
@@ -396,17 +418,22 @@ __that’s the spirit!__ That’s the right kind of attitude to have in order to
 __the (hand)writing on the wall__  
 __the last of the lot__ The last or final person(s) or thing(s) in a given group or list. _This package is the last of the lot. Once we get this shipped, we can call it a day._  
 __the last thing (one) wants__ Something which one absolutely does not want or has no use for. _The last thing I want right now is a lengthy court battle, so let’s try and get through this divorce as painlessly as possible._  
+__tooth and nail__ Furiously or fiercely; with all of one’s strength and effort.  
 __turd blossom__  
 __turn of phrase__  
 __under-promise and over-deliver__ To avoid raising expectations in order to subsequently exceed them. Used as a strategy to ensure the satisfaction of one’s client, customer, boss, etc. Also spelled without hyphens.  
 __up (one’s) alley__ Well suited to one’s interests. _I really like Romantic poetry, so this class on John Keats should be up my alley._  
+__upper__ Any recreational drug, typically an amphetamine, taken as a stimulant. _I got hooked on uppers in college when I took them to help me study for long hours._  
 __wait and see__  
+__walk in__ To enter some establishment or event as a casual attendee.  
 __warts and all__ :dart: Including any imperfections or flaws. _If you’re going to marry him, then you better love him, warts and all._  
 __when pigs can fly__ At a point in time that will never come to pass. (Used to show skepticism or cynicism over some hypothetical situation or outcome.)  
 __where to draw the line__  
-__whip out__  
+__whip out__ :two::hammer:  
+__whizz__ _slang_ (whiz) (Recreational Drugs) A slang word for amphetamine.  
 __wild ride__ A _wild ride_ refers to an experience or adventure that is thrilling, intense, unpredictable, and often exhilarating.  
 __willy-nilly__ :two::hammer: [:scroll: This expression is a shortened form of ‘willing or not willing.’]  
+__with the naked eye__ _They can be seen with the naked eye._  
 __work out__  
 __you are what you eat__ One’s overall health is linked to one’s eating habits. The phrase is often used to promote proper nutrition.  
 __you(’d) better believe it__ Absolutely, without question; rest assured.  
