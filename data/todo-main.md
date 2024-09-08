@@ -398,31 +398,6 @@ __supersede__ _v_ /soo-per-SEED/ _Syn_ replace, displace
 __swivel__ _v_  
 __tabloid__ _n_ :dart::astonished:  
 __Tartuffe__ _n_ (Tartufe) [:scroll: after the title character in a Molière play (1664)] A person who hypocritically pretends to be deeply pious.  
-__tchotchke__ _n_ /CHAHCH-kuh/ _Tchotchke_ refers to a small object used for decoration. It’s a synonym of knickknack and trinket.  
-__temp__ _n_  
-__tenuity__ _n_ :astonished: Relatively small dimension through an object as opposed to its length or width. _Syn_ thinness, slenderness  
-__thimbel__ _n_ :es: dedal  
-__third state__ _n_ The third of the traditional social classes; the common people. _Syn_ commons  
-__thrush__ _n_ :dart: :es: afta  
-__tinderbox__ _n_ __1__ A metal box for holding tinder. __2__ A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
-__Tipp-Ex__ _n_ /ˈtɪp.eks/  
-__tobogganing__ _n_ :pencil2:  
-__tomfoolery__ _n_ /tahm-FOO-luh-ree/ _Tomfoolery_ is a word with an old-fashioned sound to it that refers to playful or silly behavior.  
-__top-up__ _n_ _Can I give you a top-up?_ :es: _¿te sirvo un poco más?_  
-__topophilia__ _n_ _Psychology_ The love of or emotional connections with place or physical environment.  
-__tor__ _n_ :dart: /tɔr/ /tɔː/ [:scroll: Old English _torr_ < Celtic; compare Irish _tor_, Welsh _twr_ heap, pile] A rocky pinnacle; a peak of a rocky mountain or hill.  
-__torpedo__ _vt_ __2__ To destroy decisively; wreck: _torpedo efforts at reform._  
-__tow hitch__ _n_ See _towbar._ _The tow hitch of the car._  
-__towbar__ _n_ (tow bar) A bar, or ball, usually at the rear of a vehicle, where a trailer, or caravan or other similar item can be attached and towed. A rigid metal bar or frame used for towing vehicles.  
-__toxaemia__ _n_ (toxemia)  
-__traipse__ _v_  
-__trestle__ _n_  
-__troubleshoot__ _v_  
-__trudge__ _v_ :two: To walk, especially laboriously or wearily.  
-__truss__ _n_  
-__trust__ _v_ __3a__ Reliance on something in the future; hope: _We have trust that the future will be better._  
-__trustworthiness__ _n_ The trait of deserving trust and confidence. _Syn_ trustiness  
-__tweener__ _n_ (sports, chiefly tennis) A shot that is hit between the legs.  
 __twine__ _n_  
 __unabashed__ _adj_ :three: Not ashamed, disconcerted, or apologetic; boldly certain of one’s position. Not disconcerted or embarrassed; poised. _Syn_ unembarrassed  
 __unattainable__ _adj_ _Unattainable love._  

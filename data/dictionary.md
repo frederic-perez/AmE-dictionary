@@ -19216,6 +19216,7 @@ __taxing__ _adj_ :dart: Burdensome; wearing: _a taxing business schedule._
 __taxonomy__ _n_  
 __taxpayer__ _n_ :three::pencil2::hammer: :es: contribuyente  
 __Taylorism__ _n_ /TAY-luh-riz-uhm/ __1__ A method of analyzing workflow for process optimization. Also known as scientific management. __2__ A modified form of Calvinism. Also known as New Haven theology.  
+__tchotchke__ _n_ /CHAHCH-kuh/ _Tchotchke_ refers to a small object used for decoration. It’s a synonym of knickknack and trinket.  
 __tchotchkes__ _n_ :three::hammer: _Simpson tchotchkes._  
 __tea party__ _n_ :two::hammer: _Tea party groups._ _Tea party rallies._  
 __teakwood__ _n_ :pencil2: Teak.  
@@ -19273,7 +19274,7 @@ __tellurian<sup>2</sup>__ _n_ (esp in science fiction) An inhabitant of the eart
 __telluric__ _adj_  
 __telly__ _n_ :dart:  
 __temerity__ _n_ :three: /tuh-MAIR-uh-tee/ Excessive boldness or rashness; foolhardiness or recklessness. _Syn_ audaciousness, audacity _Everyone was shocked at her temerity in addressing the king in such a manner._  
-__temp<sup>1</sup>__ _n_ :three: (temps) __1__ A temporary worker, as in an office. __2__ Temperature. _Subzero temps._ _Temps dropped into the 30s._  
+__temp<sup>1</sup>__ _n_ :four: (temps) __1__ A temporary worker, as in an office. __2__ Temperature. _Subzero temps._ _Temps dropped into the 30s._  
 __temp<sup>2</sup>__ _adj_ :two::hammer: _A temp job._ _A temp agency._  
 __temper<sup>1</sup>__ _vt_ :nine::m: /ˈtɛmpə/ __1__ To moderate: _to temper justice with mercy._ __2__ To soften or tone down. __3__ To make suitable by or as if by blending. __4__ To work into proper consistency, as clay or mortar. __5__ To impart strength or toughness to (steel or cast iron) by heating and cooling. __6__ To tune (a keyboard instrument) so as to make the tones available in different keys or tonalities.  
 __temper<sup>2</sup>__ _vi_ To be or become tempered.  
@@ -19314,6 +19315,7 @@ __tent-pole__ _n_ (tentpole) A program or film that supports the financial perfo
 __tentative__ _adj_ :three::hammer:  
 __tenterhook__ _n_  
 __tenterhooks__  
+__tenuity__ _n_ :astonished: Relatively small dimension through an object as opposed to its length or width. _Syn_ thinness, slenderness  
 __tenuous__ _adj_ :four: Having litthe substance or strength; thin; weak.  
 __tenure__ _n_ :three::hammer:  
 __tenure-track__ _adj_ :two::hammer:  
@@ -19416,7 +19418,7 @@ __thick accent__ _n_ Heavy foreign or regional pronunciation. _Arnold’s accent
 __thicket__ _n_ :eight::hammer: (thickets) _The thicket of racist laws._  
 __thieve__ _v_ :astonished: To steal.  
 __thigh__ _n_ :mute:[thi~~gh~~]  
-__thimble__ _n_ __1__ (Knitting & Sewing) A cap of metal, plastic, etc, used to protect the end of the finger when sewing.  
+__thimble__ _n_ :two: __1__ (Knitting & Sewing) A cap of metal, plastic, etc, used to protect the end of the finger when sewing. :es: dedal  
 __thimblerig<sup>1</sup>__ _n_ (Gambling, except Cards) A game in which the operator rapidly moves about three inverted small cups, often with sleight of hand, one of which conceals a token, the other player betting on which thimble the token is under.  
 __thimblerig<sup>2</sup>__ _v_ __1__ To cheat by trickery. __2__ To swindle by a trick in which a small ball or pea is quickly shifted from under one to another of three small cups to fool the spectator guessing its location.  
 __thin skin__  
@@ -19428,6 +19430,7 @@ __thinner__ _n_ A liquid, such as turpentine, mixed with paint or varnish to red
 __thinning__ _n_  
 __third estate__ _n_ The third of the traditional social classes; the common people.  
 __third rail__ _n_ :two: /thurd rayl/ __1__ A topic believed to be too controversial or charged to discuss. __2__ A rail that runs near a railroad track to supply high-voltage power to an electric train.  
+__third state__ _n_ The third of the traditional social classes; the common people. _Syn_ commons  
 __this and that__  
 __this time around__ _phr_ :dart::hammer: :es: esta vez  
 __thistle__ _n_ :two::hammer::mute:[this~~t~~le] :es: cardo  
@@ -19495,6 +19498,7 @@ __throwers__ _n_
 __throws__ _n_ :two: __2__ _informal_ A chance, venture, or try. __3__ _(Games, other than specified)_ An act or result of throwing dice.  
 __thru__  
 __thrum__ _v_ :three::hammer:  
+__thrush__ _n_ :dart: :es: afta  
 __thrust<sup>1</sup>__ _v_ :three::hammer:  
 __thrust<sup>2</sup>__ _n_ :four::hammer: _A thrust of cognitive effort._  
 __thud<sup>1</sup>__ _n_ :two::hammer:  
@@ -19602,7 +19606,7 @@ __timid__
 __timing bag__  
 __timorous__ _adj_ :three: Full of fear; timid. _Syn_ trepid, fearful  
 __tin ear__ _n_ _Hillary has a political tin ear._  
-__tinderbox__  
+__tinderbox__ _n_ :two: __1__ A metal box for holding tinder. __2__ A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
 __tinderdry__  
 __tine__ _n_ :three::hammer: (tines)  
 __tinfoil hat__  
@@ -19624,6 +19628,7 @@ __tip over__ _v_ :three::hammer:
 __tip__ _v_ :three::hammer: _You have to find a way to make Sam tip his hand._  
 __tip-top__ _adj_ _informal_ :two: Excellent. _Tip top perfection._  
 __tipoff__ _n_ :two::hammer: (tip-off)  
+__Tipp-Ex__ _n_ /ˈtɪp.eks/  
 __tipple<sup>1</sup>__ _vi_ :six: (tippled) To drink liquor, esp. to excess.  
 __tipple<sup>2</sup>__ _vt_ To drink (liquor), esp. repeatedly and in small quantities.  
 __tipple<sup>3</sup>__ _n_ Liquor; alcohol.  
@@ -19679,7 +19684,7 @@ __toastmaster__ _n_ :two: A person who presides at a dinner and introduces the a
 __toboggan<sup>1</sup>__ _n_ :two::hammer:  
 __toboggan<sup>2</sup>__ _vi_  
 __tobogganer__  
-__tobogganing__ _n_ _Summer tobogganing run._  
+__tobogganing__ _n_ :two::hammer::pencil2: _Summer tobogganing run._  
 __tocsin__ _n_ :two: __1__ An alarm or warning signal, esp one sounded on a bell. __2__ An alarm bell.  
 __toddle__ _v_  
 __toe jam__ _n_ :two::hammer:  
@@ -19717,7 +19722,7 @@ __tombstone__ _n_
 __tomcat<sup>1</sup>__ _n_ :two: /TOM-kat/ __1__ A male domestic cat. __2__ A womanizer.  
 __tomcat<sup>2</sup>__ _vi_ To pursue women promiscuously.  
 __tome__ _n_ :two: /TOHM/ A large heavy book, usually about a serious subject. A tome is a large or scholarly book. _The book is a literary tome set during the French Revolution._  
-__tomfoolery__ _n_ :three: Foolish or senseless behavior. _Syn_ lunacy, craziness, folly, indulgence  
+__tomfoolery__ _n_ :four: /tahm-FOO-luh-ree/ _Tomfoolery_ is a word with an old-fashioned sound to it that refers to playful or silly behavior. Foolish or senseless behavior. _Syn_ lunacy, craziness, folly, indulgence  
 __tommyrot__ _n informal_ :two: Utter foolishness; nonsense. Pretentious or silly talk or writing. _Syn_ baloney, bilgewater, bosh, drool, humbug, twaddle, tarradiddle _Spare me the tommyrot and just get to the point!_  
 __ton__ _n_ _A metric ton._  
 __tone-deaf__ _adj_ :three::hammer:  
@@ -19768,10 +19773,12 @@ __top-end__ _adj_ Of or relating to the best or most expensive products of their
 __top-flight__ _adj_ :two::hammer: _Top-flight restaurant._  
 __top-notch__  
 __top-of-mind__  
+__top-up__ _n_ _Can I give you a top-up?_ :es: _¿te sirvo un poco más?_  
 __topiary<sup>1</sup>__ _adj_ :two::hammer: _Topiary figures adorned the gardens._  
 __topiary<sup>2</sup>__ _n_ :four::hammer: _Topiary garden._  
 __topical__ _adj_ _She had applied a topical steroid to the leg lesions._  
 __toponym__ _n_  
+__topophilia__ _n_ _Psychology_ The love of or emotional connections with place or physical environment.  
 __topos__ _n_ /TOH-pohs/pahs/ A traditional theme or motif; a literary convention.  
 __toppings__ _n_  
 __topple__ _v_ :four::hammer: _Warriors topple Raptors for fifth straight story._ _Church towers toppled._ _Men-at-arms on ladders climbed to the very brink of the walls to be toppled back._  
@@ -19781,6 +19788,7 @@ __topsy-turvy<sup>1</sup>__ _adj_ :five: __1__ Upside down. __2__ In a state of 
 __topsy-turvy<sup>2</sup>__ _adv_ In a topsy-turvy manner.  
 __topsy-turvy<sup>3</sup>__ _n_ A topsy-turvy state.  
 __toque__ _n_ __1__ A soft, brimless, close-fitting hat for women, in any of several shapes. __2__ A tall white hat worn by chefs. __3__ A velvet hat with a narrow brim, a full crown, and usu. a plume, worn by men and women in the 16th century.  
+__tor__ _n_ :dart: /tɔr/ /tɔː/ [:scroll: Old English _torr_ < Celtic; compare Irish _tor_, Welsh _twr_ heap, pile] A rocky pinnacle; a peak of a rocky mountain or hill.  
 __torch__ _n_  
 __torches__ _n_  
 __tore__ _v_  
@@ -19788,7 +19796,7 @@ __toric__ _adj_ _Toric lens._
 __torment__ _v_  
 __tormentor__ _n_ :two::hammer:  
 __torn__ _v_ :three: Past participle of tear. _You feel so torn about what to do._  
-__torpedo__ _v_  
+__torpedo__ _vt_ :two: __2__ To destroy decisively; wreck: _torpedo efforts at reform._  
 __torpid__ _adj_ :three: Lethargic; apathetic. _Syn_ inert, sluggish _They are always in a torpid state, and are apt to yawn and go to sleep over any intellectual toil._  
 __torpor__ _n_ :six: A state of physical or mental inactivity; lethargy. _They veered between apathetic torpor and hysterical fanaticism._ _The economy is in a torpor._ _Syn_ lethargy  
 __torrid__ _adj_ :four: /TOR-id/ Torrid can be used to describe something that is literally hot (such as a region near the Earth’s equator) or figuratively hot (such as a romance). Scorching; burning. _Syn_ fervent, fiery, ardent, burning _The torrid noonday sun shone down on the travelers in the desert._ _A torrid affair._  
@@ -19834,8 +19842,10 @@ __tousle__ _v_ :two: To make untidy (especially someone’s hair). _Vic stood in
 __tousled__ _adj_ :three: Disordered or disheveled: _tousled hair; tousled clothes._  
 __tout__ _vt_ :dart::five::hammer: (touted)  
 __touting__ _v_  
+__tow hitch__ _n_ See _towbar._ _The tow hitch of the car._  
 __tow truck__ _n_  
 __toward__ _prep_ :five::mega::hammer:  
+__towbar__ _n_ (tow bar) A bar, or ball, usually at the rear of a vehicle, where a trailer, or caravan or other similar item can be attached and towed. A rigid metal bar or frame used for towing vehicles.  
 __towel__ _n_ :mega:  
 __tower__ _v_ _Towering over our heads._  
 __towheaded__ _adj_  
@@ -19843,6 +19853,7 @@ __town crier__ _n_
 __town hall__ _n_  
 __townhouse__ _n_ :five: (townhouses) A house that shares walls with houses on either side of it.  
 __towpath__  
+__toxaemia__ _n_ (toxemia)  
 __toy dog__ _n_ Any of several breeds of very small dogs kept purely as pets.  
 __toy__ _v_ :three::hammer: (toying)  
 __Toyota__ _n_ :mega: A city of south-central Honshu, Japan, east-southeast of Nagoya. It is an industrial center.  
@@ -19883,7 +19894,7 @@ __train wreck__ _n_ :two: __2__ _slang_ A disastrous outcome or occurrence; a ca
 __train__ _v_ __5__ To point or direct (a gun or camera, for example) at something. _Syn_ aim  
 __trainee__ _n_ :two::pencil2: (trainees) One who is being trained. :es: aprendiz  
 __training wheels__ _n_  
-__traipse__ _v_ :two: Walk or tramp about. _Syn_ shlep _I spent the holiday exploring the countryside, traipsing from town to town with just a knapsack of supplies on my back._  
+__traipse__ _v_ :three: Walk or tramp about. _Syn_ shlep _I spent the holiday exploring the countryside, traipsing from town to town with just a knapsack of supplies on my back._  
 __traipsing__  
 __traitorous__  
 __tramp__ _adj_  
@@ -19967,7 +19978,7 @@ __trepidatious__ _adj_ (_less commonly_ trepidacious) Feeling trepidation.
 __trespass__ _v_ :two::hammer: _No trespassing._  
 __trespasses__ _n_ :pencil2:  
 __tress__ _n_ (tresses) long lock of hair esp. the long unbound hair of a woman—usually used in plural. _Blond tresses._  
-__trestle__ _n_ :nine: /ˈtrɛs(ə)l/ __1__ A framework in the form of a horizontal member supported at each end by a pair of splayed legs, used to carry scaffold boards, a table top, etc _A trestle table._ :es: caballete __2__ An open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ _Railway trestles._ :es: bastidor  
+__trestle__ _n_ :nine::m: /ˈtrɛs(ə)l/ __1__ A framework in the form of a horizontal member supported at each end by a pair of splayed legs, used to carry scaffold boards, a table top, etc _A trestle table._ :es: caballete __2__ An open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ _Railway trestles._ :es: bastidor  
 __trey__ _n_ :two: (treys) A card, die, or domino with three pips.  
 __triad__ _n_ :two::hammer:  
 __triage<sup>1</sup>__ _n_ :two: The method of deciding who receives medical treatment first, according to how seriously someone is injured.  
@@ -20047,7 +20058,7 @@ __trot out__
 __trot__  
 __trotter__ _n_ __1__ A horse that trots, especially one trained for harness racing. __2__ _informal_ A foot, especially the foot of a pig or sheep prepared as food. _Sheep’s trotters._  
 __troublemaker__ _n_ /ˈtrʌbəlˌmeɪkə/  
-__troubleshoot__ _v_ :three::hammer:  
+__troubleshoot__ _v_ :four::hammer:  
 __troubleshooter__ _n_ :three::hammer:  
 __trough__ _n_ :five: (troughs) Lowest point of a wave. _Showers will continue for one more day as a low-pressure trough spins through the region._ _The daily peaks and troughs._  
 __trounce__ _v_ :six::hammer: (trounces, trounced) _Drama trounces trauma!_  
@@ -20064,7 +20075,7 @@ __truck__ _v_ _They will not truck with terrorists._
 __truckle__ _v_  
 __truculent__ _adj_ :six::astonished: Defiantly aggressive. _Syn_ belligerent, combative, pugnacious, bellicose, obstreperous _Bitter and truculent when excited, I spoke as I felt, without reserve or softening._  
 __trudge__ _v_ :nine::m: (trudged, trudging) To walk in a laborious, heavy-footed way; plod. Walk heavily and firmly, as when weary, or through mud. _Mules plodded in a circle around a grindstone._ _Syn_ footslog, plod, slog, tramp, pad  
-__trudge<sup>1</sup>__ _v_ :three::hammer:  
+__trudge<sup>1</sup>__ _v_ :five: To walk, especially laboriously or wearily.  
 __trudge<sup>2</sup>__ _n_  
 __true to form__  
 __truffle__ _n_ :four::hammer: :es: trufa  
@@ -20078,13 +20089,15 @@ __truncate__ _v_ /TRUNG-kayt/ _Many statements in the court document were trunca
 __trundle__ _v_  
 __trundling__ _v_ _Some employees are trundling in._  
 __trunk__ _n_ _Leatherbound Tibetan trunks._  
-__truss__ _n_ :four::hammer: _Trusses of grapes._  
+__truss__ _n_ :five::hammer: _Trusses of grapes._  
 __trussed up__ _v_  
 __trussed__ _v_ :three::hammer:  
 __trust company__  
-__trust__ _n_ (trusts)  
+__trust<sup>1</sup>__ _n_ (trusts)  
+__trust<sup>2</sup>__ _v_ __3a__ Reliance on something in the future; hope: _We have trust that the future will be better._  
 __trustee__ _n_ :two::hammer: _Board of Trustees_  
 __trusties__  
+__trustworthiness__ _n_ The trait of deserving trust and confidence. _Syn_ trustiness  
 __trustworthy__ _adj_ :four::dart::hammer: _Trustworthy information._  
 __truth or dare__ _n_ A game where players take it in turn to perform a dare set by the other players, or truthfully answer a question put forth by them.  
 __truth-telling__  
@@ -20203,6 +20216,7 @@ __tweak<sup>3</<sup>__ _vi_ _slang_ __1__ To behave in an agitated or compulsive
 __twee__ _adj_ (Britain, derogatory) Overly quaint, dainty, cute or nice.  
 __tweed__  
 __tween__ _n_ :two: A child between middle childhood and adolescence, usually between 8 and 12 years old. Also called _tweener_.  
+__tweener__ _n_ (sports, chiefly tennis) A shot that is hit between the legs.  
 __tweeny-weeny__  
 __twelvemonth__ _n_ A year. _Syn_ year _But wilt thou not give me another twelvemonth to pay my debt?_  
 __twerp__ _n_ _slang_ A person regarded as insignificant and contemptible. _That malfunctioning little twerp. This is all his fault!_  
