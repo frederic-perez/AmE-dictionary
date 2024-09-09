@@ -82,6 +82,7 @@ __FT__ _Sports_ __1__ Full-time. __2__ Free throw.
 __FTW__ _abbr_ _slang_ For the win —used especially to express approval or support. _Night out with the girls? Thigh high boots FTW!_  
 __GA__ Gamblers Anonymous.  
 __GDP__ Gross domestic product.  
+__GDR__ German Democratic Republic.  
 __GED__ :two: (GED exam) The General Educational Development Test is designed for people who, for various reasons, did not graduate from high school but want a certificate equivalent to the traditional high school diploma. _GED exam._  
 __GIGO__ Garbage in, garbage out.  
 __GMO__ :three: Genetically modified organism. _Reserve your non-GMO turkey now._ _ngmoproject.org_ _Raised humanely on healthful non-GMO feed._  
@@ -242,6 +243,7 @@ __TOEFL__ (ToEFL) Test of English as a Foreign Language, is a standardized test 
 __UNESCO__ United Nations Educational, Scientific and Cultural Organization.  
 __UNICEF__ United Nations Children’s Fund (formerly United Nations International Children’s Emergency Fund).  
 __USDA__ :four: United States Department of Agriculture. _Dry-aged USDA Prime cuts of beef._ _USDA choice certified Angus steaks._  
+__USSR__ Union of Soviet Socialist Republics.  
 __VA__ __1__ (Military) (in the US) Veterans’ Administration. _VA medical centers._  
 __VAR__ Video Assistant Referee.  
 __VATS__ Video-assisted thoracic surgery. Video-Assisted Thoracoscopic Surgery. _(aka keyhole surgery of the chest)_  

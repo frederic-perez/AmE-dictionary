@@ -1,14 +1,19 @@
 __(stuck) in a rut__  
 __a long shot__ :dart:  
-__a word of warning__ Information about possible danger or trouble.  
+__a word of warning__ :two: Information about possible danger or trouble.  
 __all the same__  
+__at the outset__ At the beginning.  
 __at the top of (one’s) voice__ As loudly as one can.  
 __aw shucks__ :dart: __1__ An expression of shyness, happiness, or embarrassment. _A: “You’re just too sweet!” B: “Aw shucks, you’re gonna make me blush.”_ _Aw shucks, it was nothing. I was happy to help._ _Aw shucks, that’s so nice of you to say! Thank you!_ __2__ An expression of disappointment. _Aw shucks, it looks like we’re going to lose the game after all._  
 __back in the saddle__  
 __barb__ A shortening of “barbiturate,” a drug class that consists of sedatives and hypnotics. _Barbs are dangerous, man—I’d stay away from them._  
+__bargain for (someone or something)__  
 __be on the safe side__ :dart:  
 __bear (someone or something) in mind__  
+__beat about the bush__ :two: _BrE_ To speak vaguely or euphemistically so as to avoid talking directly about an unpleasant or sensitive topic. Primarily heard in UK.  
 __behind (one’s) back__ In one’s absence. The phrase typically suggests wrongdoing or deceit. _I can’t believe you were gossiping about me behind my back!_  
+__boil (something) down to (something)__ To reduce or simplify something to the most basic, essential, or fundamental element(s).  
+__bona fide__  
 __break even__  
 __brown sugar__ :dart: _slang_ Heroine.  
 __by all means__ :dart:  
@@ -18,20 +23,25 @@ __castles in the air__
 __Catch-22__  
 __chalk up__  
 __chase the dragon__ :dart: To smoke a controlled substance, often heroin. _I can’t chase the dragon anymore—I’m trying to get away from that stuff._  
+__clear the table__ To remove objects from a table. This phrase is often said after a meal, as one removes dishes, silverware, and leftover food from the table. _After the meal I cleared the table._  
 __coming-of-age__  
 __creeper__  
 __cut bait__  
 __dance on air__ To be extremely happy.  
 __dead__ __5__ Absolutely. _You’d better be dead certain about this decision, because you can’t take it back._  
+__double or quits__ A wager, undertaken after a previous wager, that stipulates two possible outcomes: if the winner of the previous wager wins again, they win twice the amount won in the previous wager; if they lose, they receive nothing. Primarily heard in UK.  
 __downed on (someone)__  
 __downer__  
 __drop in__ To visit someone casually or unexpectedly.  
 __educated guess__ A thoughtful, well-reasoned guess; a guess with some basis in one’s knowledge.  
 __every other__ Alternating. _Every other week._  
 __fall off the perch__ _BrE_ _old-fashioned, informal_ (fall off your perch) If someone falls off the perch or falls off their perch, they die. Note: A perch is a pole, branch or other place where a bird sits to rest. _He fell off the perch years ago._ Note: Other verbs such as drop or topple can be used instead of fall. _He’ll topple off his perch one morning. You know how it is._ Note: This expression is used humorously.  
+__fancy__ _informal_ __2__ To have a desire for (something).  
+__few and far between__  
 __first come, first served__ The first people present will be the first to receive something, often something that is available in limited quantities.  
 __flying squad__ _n_ A small group of police, soldiers, etc, ready to move into action quickly.  
 __for a charge__ The act of charging someone a fee or price for a service or item.  
+__for a fee__  
 __for kicks__  
 __get lucky__  
 __ghosting__ _slang_  
@@ -49,6 +59,7 @@ __go bananas__
 __go berserk__  
 __go between__  
 __go big or go home__ _expression_ Either do something to its fullest extent or largest degree, or else don’t even bother. Often used facetiously. _A: “Do we really need to cook an entire pig for this barbecue? We’re only having a few people over.” B: “Hey, go big or go home!”_  
+__go bust__ :two: To experience financial failure or ruin, often as of a business.  
 __go down the rabbit hole__  
 __go down the toilet__ To fail; to be ruined or destroyed; to be squandered or wastefully discarded.  
 __go for (something)__  
@@ -82,6 +93,7 @@ __heavy-duty__ __1__ Designed to be durable for heavy use or extreme conditions;
 __hell on earth__  
 __hem and haw__  
 __hit a snag__  
+__hit and miss__ (hit or miss)  
 __hit the ground running__  
 __hold my beer__  
 __hold the line__  
@@ -159,6 +171,7 @@ __ink-slinger__ _slang_ A writer, especially one who produces a large amount of 
 __inner circle__  
 __insofar as__ :two: To such an extent that; to the degree that. _Insofar as money is concerned, our project will be completely funded by private donations._  
 __iron grip__ __2__ Total, dominant control (over someone or something).  
+__it ain’t over till/until the fat lady sings__  
 __it goes without saying__  
 __it remains to be seen__ Something is not yet clear, certain, or known.  
 __it’s all good__ :dart: A phrase used to express general approval, unconcern, or disinterest.  
@@ -244,12 +257,14 @@ __live up to (something)__ :three::hammer: _Live up to the hype._
 __living proof__  
 __loaded gun__ A situation or person that is dangerous or volatile. For example, a person might be described as a “loaded gun” if they are highly emotional or prone to outbursts.  
 __long and hard__  
+__look the other way__  
 __loop the loop__ __1__ _n_ A flight maneuver in which an aircraft flies in a complete vertical circle. (Usually hyphenated.) _I loved going to air shows as a kid, and I always dreamed of doing loop-the-loops in an airplane when I grew up._ __2__ _v_ To fly an aircraft in a complete vertical circle. _I thought I was going to throw up when the pilot looped the loop with our little biplane._  
 __loosen up__  
 __loosey-goosey__  
 __lose (one’s) shit__  
 __lose steam__ To begin to wane in energy, enthusiasm, or potency.  
 __loss leader__ A product or service offered at or below cost in order to attract customers to a store in the hopes that they will then purchase other items.  
+__lost for words__ (at a loss for words)  
 __loud and clear__  
 __lurk__  
 __lust for life__  
@@ -281,7 +296,7 @@ __mixed message__
 __mm-hmm__ _informal_ Yes; yeah. A verbal expression used to express agreement or acknowledgement. Formed by intoning “uh-huh” with a closed mouth.  
 __modus operandi__ :two::mega: A unique and habitual method of doing something. From Latin, literally “mode of operation.” Used especially in reference to criminal behavior.  
 __mooch off (of) (someone or something)__ To ask for or obtain (something) through the charity of someone or something; to sponge off someone or something else. _My brother has been mooching off me and my wife ever since he lost his job._  
-__more often than not__  
+__more often than not__ :two: Much of the time.  
 __move mountains__ :dart: To do or achieve something that is incredibly difficult.  
 __move the dial__  
 __move the needle__ _I am concentrating on what moves the needle most._  
@@ -349,13 +364,16 @@ __on the rocks__ _That marriage was already on the rocks._
 __on the run__  
 __on the sidelines__ :two: In a position in which one is not actively participating in something.  
 __on the verge of__  
+__on the whole__ Considering everything together; in general or for the most part.  
 __on-site__  
 __once and for all__  
 __once in a blue moon__ Very rarely.  
 __one size fits all__ :two::hammer:  
 __one-off__ :two::hammer:  
+__out of print__ No longer being printed and sold by a publisher.  
 __over and out__ Said to mark the end of communication between two people. Used especially in radio communication, in which it signals that a person is done speaking and does not expect a reply from the other person. _A: “Oh, and while you’re at the store, could you please get some milk, too?” B: “Sure thing. Over and out.”_  
 __photobomb__  
+__pitch (something) at__  
 __play havoc with (someone or something)__ To cause issues or disruptions for someone or something. _The road closures have played havoc with rush-hour traffic._  
 __poppers__ Drugs of the alkyl nitrate class used recreationally as a sexual stimulant, especially among gay men. Amyl nitrite became popular in the 60s especially with the male gay community becase it relaxes the muscles, making anal intercourse easier.  
 __prim and proper__ Having very traditional, morally conservative beliefs and behavior.  
@@ -363,6 +381,7 @@ __public eye__ Attention from the general public. Typically used in the phrase �
 __puppy__ __1__ _n_ A wimp; a softie. _That silly puppy is still waiting outside your door._ __2 __ _n_ A thing; a piece or part of something. _Put this little puppy right here._  
 __put (someone or something) (up) on a pedestal__ To believe or behave as if someone or something is perfect, wonderful, or better than others, to the extent that one is unable to see its potential flaws or faults.  
 __put off__ __1__ _v_ To deter, annoy, or repel. A noun or pronoun can be used between “put” and “off.” _I don’t know if you realize how much you put people off with your attitude._  
+__put on a good/poor/etc. show__  
 __put up with (someone or something)__ To abide or endure someone or something that one finds unpleasant, inconvenient, or annoying.  
 __quite a few__ (quite a lot; quite a bit; quite a number)  
 __rags to riches__ Characterized by a rise from poverty to great or exceptional wealth. Hyphenated if used as a modifier before a noun.  
@@ -373,6 +392,7 @@ __rule of law__
 __rules of the road__  
 __rumor has it (that)__ It is being rumored that (something is or will be the case). _Rumor has it that the boss is using the company profits to pay off his own gambling debts._  
 __run the gauntlet__ To be exposed to or forced to endure a series of threats, dangers, criticism, or other problems. Refers to an old military punishment in which one was forced to run between two lines of soldiers while being thrashed with rods or whips. _Medical students often feel that they have to run the gauntlet when they become residents in a hospital._  
+__same old same old__ :two::hammer:  
 __same shit, new wrapping__ Colloquial expression that conveys the idea that something has been superficially changed or repackaged but remains fundamentally the same. It suggests that despite appearances, the underlying issues or qualities have not been altered.  
 __see (one) in the flesh__ To see one in person who is usually only seen at a distance, especially through a medium such as film, music, theater, etc. _After years of idolizing the singer, it was a bit anticlimactic seeing her in the flesh._  
 __seep in(to something)__  
@@ -393,6 +413,7 @@ __single out__
 __slap in the face__ Words or actions that have offended or otherwise upset someone. _It was a real slap in the face when she got promoted over me, especially after the amount of work I did on that last project._  
 __sleazo__  
 __slice of the pie__  
+__slippery path__ A situation or course of action that is fraught with difficulties, risks, or potential negative consequences.  
 __slowly and surely__  
 __small print__ (fine print) An important part of a document that is not easily noticed because of the smallness of the printing. _You should have read the small print before signing the contract._  
 __snatch (someone) from the jaws of death__ To rescue someone at the last moment from near or certain death.  
@@ -418,9 +439,14 @@ __that’s the spirit!__ That’s the right kind of attitude to have in order to
 __the (hand)writing on the wall__  
 __the last of the lot__ The last or final person(s) or thing(s) in a given group or list. _This package is the last of the lot. Once we get this shipped, we can call it a day._  
 __the last thing (one) wants__ Something which one absolutely does not want or has no use for. _The last thing I want right now is a lengthy court battle, so let’s try and get through this divorce as painlessly as possible._  
+__think small__ The idiom “think small” refers to adopting a mindset that focuses on modest goals, limited ambitions, or a more conservative approach, often in contrast to the more common phrase “think big,” which encourages setting lofty, ambitious objectives.  
+__to a T__  
+__to the contrary__ Opposite to what has just been said.  
 __tooth and nail__ Furiously or fiercely; with all of one’s strength and effort.  
 __turd blossom__  
+__turn a blind eye to something__  
 __turn of phrase__  
+__under false pretenses__ With a false impression created through intentional misrepresentation.  
 __under-promise and over-deliver__ To avoid raising expectations in order to subsequently exceed them. Used as a strategy to ensure the satisfaction of one’s client, customer, boss, etc. Also spelled without hyphens.  
 __up (one’s) alley__ Well suited to one’s interests. _I really like Romantic poetry, so this class on John Keats should be up my alley._  
 __upper__ Any recreational drug, typically an amphetamine, taken as a stimulant. _I got hooked on uppers in college when I took them to help me study for long hours._  

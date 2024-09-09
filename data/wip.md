@@ -1,6 +1,3 @@
-__GDR__ German Democratic Republic.  
-__USSR__ Union of Soviet Socialist Republics.  
-****
 __undercut__ _v_  
 __nursing__ _n_ __1__ The profession of a nurse. __2__ The tasks or care of a nurse.  
 __occasionally__ _adv_ :pencil2: Now and then; from time to time.  
@@ -42,37 +39,44 @@ __camp__ _n_
 __no-man’s-land__ _n_ :three: __1__ _Military_ Land between boundaries, esp an unoccupied zone between opposing forces.  
 __peal__ _n_ :two: __1__ A ringing of a set of bells, especially a change or set of changes rung on bells. __2__ A set of bells tuned to each other; a chime. __3__ A loud burst of noise: _peals of laughter._  
 ****
-__on the whole__ Considering everything together; in general or for the most part.  
-__beat about the bush__ :two: _BrE_ To speak vaguely or euphemistically so as to avoid talking directly about an unpleasant or sensitive topic. Primarily heard in UK.  
-__go bust__ :two: To experience financial failure or ruin, often as of a business.  
-__at the outset__ At the beginning.  
-__more often than not__ Much of the time.  
-__out of print__ No longer being printed and sold by a publisher.  
-__for a fee__  
-__few and far between__  
-__a word of warning__  
-__hit and miss__ (hit or miss)  
-__bargain for (someone or something)__  
-__bona fide__  
-__slippery path__ A situation or course of action that is fraught with difficulties, risks, or potential negative consequences.  
-__fancy__ _informal_ __2__ To have a desire for (something).  
-__to the contrary__ Opposite to what has just been said.  
-__put on a good/poor/etc. show__  
-__pitch (something) at__  
-__under false pretenses__ With a false impression created through intentional misrepresentation.  
-__same old same old__ :two::hammer:  
-__double or quits__ A wager, undertaken after a previous wager, that stipulates two possible outcomes: if the winner of the previous wager wins again, they win twice the amount won in the previous wager; if they lose, they receive nothing. Primarily heard in UK.  
-__clear the table__ To remove objects from a table. This phrase is often said after a meal, as one removes dishes, silverware, and leftover food from the table. _After the meal I cleared the table._  
-__think small__ The idiom “think small” refers to adopting a mindset that focuses on modest goals, limited ambitions, or a more conservative approach, often in contrast to the more common phrase “think big,” which encourages setting lofty, ambitious objectives.  
+__beg to differ__  
+__hung jury__ :dart: A jury that cannot agree on a verdict.  
+__wet kiss__  
+__in a pinch__ When something ideal or preferred is not available; as a substitute. _I don’t have any cooking oil. Is there anything else I can add to the recipe in a pinch?_  
+__fair enough__  
+__top-heavy__ __1__ _slang_ Of a woman, having very large breasts. __2__ _slang_ Of a man, having large upper-body muscles with relatively small lower-body muscles.  
+__all the same__  
+__at any rate__  
+__a balancing act__ :dart:  
+__go cold__ _The bonnet beneath had gone cold._  
+__show (one’s) hand__  
+__all too often__  
+__at (the) worst__ (at its very worst) Under the most negative circumstances, estimation, or interpretation: At worst, the storm will make us postpone the trip.
+__the real deal__  
+__watershed moment__  
+__sexual advance__  
+__dig and poke around__ The idiom “dig and poke around” generally means to search or investigate something thoroughly by looking through various items or areas, often in a somewhat casual or unstructured manner.  
+__as far as it goes__  
+__wind down__  
+__get something out of the way__ :dart: Deal with a task or difficulty so that it is no longer a problem or worry. _I’m glad I’ve got that visit to the dentist out of the way._  
+__lucky monkey__  
+__as it happens__  
+__the small of (one’s)/the back__  
+__as we speak__ At this very moment.  
+__it wouldn’t do (someone) any harm (to do something)__ It would or may be good, pragmatic, or beneficial for someone (to do something). _You know, it wouldn’t do you any harm to comb your hair from time to time._  
+__sleep like a rock__  
+__go ballistic__  
+__food chain__  
+__like the back of your hand__  
 ****
-__muttering__ _n_ (?)  
-__racket__ _n_ (noise)  
+__muttering__ _n_  
+__racket__ _n_ __1__ A loud distressing noise.  
 __interfere__ _v_  
 __gerbil__ _n_ :es: jerbo  
 __concourse__ _n_ __1__ A large open space for the gathering or passage of crowds, as in an airport. :es: explanada __2__ A broad thoroughfare. __3__ A great crowd; a throng. __4__ The act of coming, moving, or flowing together.  
 __gruff__  
 __rung__  
-__breeze__ _Breeze blocks on the streets of Havana._  
+__breeze block__ _n_ _Breeze blocks on the streets of Havana._  
 __guardian__ _n_ (tutor?)  
 __virid__ _adj_ /VIR-id/ Bright green.  
 __foment__ _v_ /FOH-ment/  
@@ -84,18 +88,10 @@ __firebrand__
 __miniscule__ _adj_ :astonished:  
 __cornpone__ _n_  
 __inviting__ _adj_ :two: Attractive; tempting: _an inviting dessert._  
-__it ain’t over till/until the fat lady sings__  
-__to a T__  
-__wey kiss__  
-__boil (something) down to (something)__ To reduce or simplify something to the most basic, essential, or fundamental element(s).  
-__beg to differ__ (?)  
-__a hung jury__ (?)  
 __prissy__  
 __fussbudget__ :dart: _informal_ One who tends to be fussy or particular, usually to an excessive or unnecessary degree. Primarily heard in US. _Don’t be such a fussbudget, huh? This really isn’t a big deal._ _Of course Vanessa found some miniscule issue that no one else would have noticed. She’s such a fussbudget._  
 __hell-bent__ Very determined to do something, perhaps annoyingly or recklessly so.  
-__as we speak__  
 __stakeout__  
-__top-heavy__ __1__ _slang_ Of a woman, having very large breasts. __2__ _slang_ Of a man, having large upper-body muscles with relatively small lower-body muscles.  
 __usual suspects__  
 __at its best__  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
@@ -113,22 +109,7 @@ __nags__ _n_ _Riding old nags._
 __regardles__  
 __summons__ _n_  
 __lodge__ _v_ _He’s lodged a complaint against you._  
-__turn a blind eye to something__  
-__lost for words__  
-__look the othr way__  
-__fair enough__  
-__all the same__ (?)  
-__at any rate__  
 __bow-legged__ _adj_ :three::hammer:  
-__a balancing act__ :dart:  
-__go cold__ _The bonnet beneath had gone cold._  
-__show (one’s) hand__  
-__all too often__  
-__at its very worst__ (?)  
-__the real deal__  
-__watershed moment__ (?)  
-__sexual advance__  
-__in a pinch__ When something ideal or preferred is not available; as a substitute. _I don’t have any cooking oil. Is there anything else I can add to the recipe in a pinch?_  
 __outlay__ _n_  
 __hotplate__ _n_ :two::hammer:  
 __klunk__ _n_ (noise?)  
@@ -159,13 +140,9 @@ __slip__ (mistake, uttered)
 __in a month time__  
 __loose cannon__  
 __prick teaser__  
-__sleep like a stone__ (?)  
-__go ballistic__  
-__food chain__  
-__like the back of your hand__  
 __endure__ _v_ _I could hardly even endure my own reflection in the mirror._  
 __self-contempt__  
-__golden plover__ _n_ (bird?)  
+__golden plover__ _n_  
 __round and round__  
 __broach__ _v_  
 __hanker for__ _It is not something to hanker for._  
@@ -176,7 +153,7 @@ __trawl__ _v_
 __cowed__  
 __red-hot__ _The red-hot property market._  
 __step up s gear__  
-__for which read__ :dart: _Readjustment, scaling back, for which read — redundancies._ :es: léase (?)  
+__for which read__ :dart: _Readjustment, scaling back, for which read — redundancies._ :es: léase  
 __starting salary__  
 __stands to reason__  
 __heathens__ _Heathens like me._  
@@ -200,24 +177,17 @@ __sheaf__ _n_
 __aquavit__  
 __spruce tree__  
 __curtly__ _‘Congratulations,’ I said curtly._  
-__divide__ _n_ (?)  
+__divide__ _n_  
 __work like a Trojan__  
 __get it out of my system__  
 __pissrain__  
 __airhead__  
-__dig and poke around__ (?)  
-__as far as it goes__  
-__wind down__  
-__get something out of the way__ :dart:  
-__lucky monkey__  
-__as it happens__  
-__the small of one’s back__  
 __jalopy__  
 __grease monkey__  
 __waddle__ _v_  
 __hoipolloi__  
 __shoal__ _n_  
-__deaf-mute__ _n_ (?)  
+__deaf-mute__ _adj, n_  
 __serviette__ _n_  
 __funfair__  
 __undwrarm__ _n_  
@@ -317,4 +287,3 @@ __bits and pieces__
 __smell a rat__  
 __pull one’s weight__  
 __Jerry__ (German?)  
-__it wouldn’t do (someone) any harm (to do something)__ It would or may be good, pragmatic, or beneficial for someone (to do something). _You know, it wouldn’t do you any harm to comb your hair from time to time._  
