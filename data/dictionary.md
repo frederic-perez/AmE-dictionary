@@ -6165,7 +6165,7 @@ __emoji__ _n pl_
 __emollient__ _adj_ :six: (Medicine) Any preparation or substance that has a softening or soothing effect, esp when applied to the skin. _Syn_ demulcent, salving, softening _In the winter, she applied emollient cream to her hands to prevent the skin from cracking._ _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._  
 __emolument__ _n_ /ih-MAHL-yuh-munt/ An emolument refers to money, gifts, or perquisites that someone receives due to their job or position. _Jenna has contributed countless volunteer hours to the organization and continues to refuse any emolument for her work._  
 __emote__ _vi_ :six: /ih-MOHT/ To emote is to express emotion in a very dramatic or obvious way. _He stood on the stage, emoting and gesturing wildly._  
-__empathetic__  
+__empathetic__ _adj_ :two::hammer:  
 __empennage__ _n_ The rear part of an airplane or airship, usu. comprising the stabilizer, elevator, vertical fin, and rudder. _Syn_ tail _The pop superstar is so vain that she had her likeness plastered across her private jet’s empennage._  
 __emphasis__  
 __emphasize__ _v_ :four::pencil2::hammer:  
@@ -6202,7 +6202,8 @@ __encore<sup>2</sup>__ _v_ To demand an extra or repeated performance of (a work
 __encourage__ _vt_ :two::hammer: /ɪnˈkʌrɪdʒ/ /ɛnˈkɜr ɪdʒ, -ˈkʌr-/ _The Austin American-Statesman encourages feedback from readers._  
 __encroach__ _v_ :nine::m: (encroaching) __1__ To take another’s possessions or rights gradually or stealthily: _encroach on a neighbor’s land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
 __encroachment__ _n_ :six::hammer:  
-__encumber__ _v_ :three: (encumbered) __1__ To hinder or impede; make difficult; hamper: _encumbered with parcels after going shopping at Christmas; his stupidity encumbers his efforts to learn._  
+__encrypt__ _vt_ :mega: /ɪnˈkrɪpt/  
+__encumber__ _v_ :dart::four: /in-KUM-ber/ __1__ To hinder or impede; make difficult; hamper: _encumbered with parcels after going shopping at Christmas; his stupidity encumbers his efforts to learn._ Someone or something that is encumbered is burdened or weighed down (as in “tourists encumbered by heavy luggage”) or hindered (as in “negotiations encumbered by a lack of trust”).  
 __encumbrance__ _n_ :four::dart: Any obstruction that impedes or is burdensome. _Syn_ hindrance, preventive, interference, hitch  
 __encyclical<sup>1</sup>__ _n_ /in/en-SIK-li-kuhl/ An official letter.  
 __encyclical<sup>2</sup>__ _adj_ For wide circulation.  
@@ -6240,6 +6241,7 @@ __enervate__ _v_ :three::astonished: /EN-er-vayt/ To weaken. _Syn_ weaken, enfee
 __enervating__ _adj_ :astonished: Causing debilitation. _Syn_ debilitative, enfeebling, weakening  
 __enfeeble__ _v_ To make weak; deprive of strength. _Syn_ debilitate, drain _Although his age enfeebled him, he could still walk long distances without tiring._  
 __enfeoffed__ _v_ :three::hammer:  
+__enforcer__ _n_ :three::hammer:  
 __enfranchisement__ _n_ _Enfranchisement of the serfs._  
 __engage__ _v_ :five::hammer: _I’m engaged with my work._  
 __engaged__ _adj_ :two::hammer: (to marry) __1__ Employed, occupied, or busy. _First time I rang his room his phone was engaged._  
@@ -6266,7 +6268,7 @@ __enrapture__ _v_ :four: (enraptured) To fill with rapture or delight. _Syn_ enc
 __enrich__ _vt_  
 __enrichment__ _n_  
 __enrol__ _v_  
-__ensconce__ _vt_ :eight: (ensconced) Establish or settle (someone) in a comfortable, safe place. _Agnes ensconced herself in their bedroom._  
+__ensconce__ _vt_ :mega::nine::m: /in-SKAHNSS/ Someone or something ensconced is firmly placed or hidden. Ensconce can be a synonym of shelter and conceal, or of establish and settle. Establish or settle (someone) in a comfortable, safe place. _Agnes ensconced herself in their bedroom._ _The sculpture is safely ensconced behind glass._ _He ensconced himself in the library’s back room for the afternoon._  
 __ensemble<sup>1</sup>__ _n_ :three::hammer:  
 __ensemble<sup>2</sup>__ _adj_ _An ensemble group._  
 __enshittification__ _n_  
@@ -6291,14 +6293,14 @@ __enticing__ _adj_ :two::hammer: _An enticing outdoor deck._
 __entitle__ _v_ :five::hammer: (entitled) _They are entitled to know that._ _We are soft, entitled, and scared of conflict._ _Treatments you’re no longer entitled to on the NHS._ _His brothers were entitled to express their opinions._  
 __entitled__ _adj_ :two::hammer:  
 __entitlement__ _n_ :four::hammer: _Entitlement programs._  
-__entourage__ _n_ :two::hammer: :es: séquito  
+__entourage__ _n_ :three::hammer: :es: séquito  
 __entrain__ _vt_ :three::hammer:  
 __entrainment__ _n_  
 __entrance<sup>1</sup>__ _n_  
 __entrance<sup>2</sup>__ _v_  
 __entrant__ _n_ :three::dart::astonished: __1__ A person who takes part in a competition or contest. _Syn_ competitor, player, candidate, entry, participant, applicant, contender, contestant _All items submitted for the competition must be the entrant’s own work._ __2__ A new member, as of an association or school. __3__ A person who enters.  
 __entreat__ _v_ _Syn_ beg, plead  
-__entreaty__  
+__entreaty__ _n_ :two: An earnest request or petition; a plea. _Syn_ appeal, prayer  
 __entrée__  
 __entrench__ _v_ :nine::m: (entrenched) Establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. _Ageism is entrenched in our society._ _Syn_ establish, settle  
 __entrenched__ _adj_ :nine: (of an attitude, habit, or belief) Firmly established and difficult or unlikely to change; ingrained. _An entrenched resistance to change._ __2__ Established firmly and securely. _The entrenched power of the nobility._  
@@ -6323,6 +6325,7 @@ __epenthesis__ _n_ The insertion of a vowel or consonant into a word to make its
 __ephemera__ _n_ :two::hammer: /i-FEM-uhr-uh/  
 __ephemeral<sup>1</sup>__ _adj_ :six: /ɪˈfɛmərəl/ /ih-FEM-uh-rul/ /ih-fem-er-uhl/ [:scroll: From Greek ephemeros (short-lived), from epi- (upon) + hemera (day).] Lasting a very short time; short-lived; transitory. _Syn_ fugacious, passing, short-lived, transitory, transient _Spare me in my ephemeral happiness, leave it to me for a few days, for a few minutes._  
 __ephemeral<sup>2</sup>__ _n_ :two: /ih-fem-er-uhl/ Anything short-lived, as certain insects.  
+__ephemeris__ _n_ /ɪˈfɛm ər ɪs/  
 __epicure__ _n_ :three: /EP-i-kyoor/ [:scroll: After the ancient Greek philosopher Epicurus (341-270 BCE), who advocated simple pleasures and a calm mind (ataraxia). With time, his teachings were distorted as focusing on sensual pleasures.] __1__ A person with refined taste, especially in food or wine. A person devoted to refined sensuous enjoyment (especially good food and drink). __2__ A person devoted to sensual pleasure. One with sensitive and discriminating tastes especially in food or wine. _Syn_ gastronome, bon vivant, foodie, gourmet  
 __epicurean<sup>1</sup>__ _adj_ :five: /ɛpɪkjʊˈriːən/ (Epicureans) __1__ Devoted to sensual pleasures, esp food and drink; hedonistic. __2__ Suitable for an epicure: _an epicurean feast._ Displaying luxury and furnishing gratification to the senses. _Syn_ sybaritic, luxuriant, voluptuous _I starved myself all day to make sure I would have room for the epicurean feast that was to be my dinner._  
 __epicurean<sup>2</sup>__ _n_ /ɛpɪkjʊˈriːən/  
@@ -6391,6 +6394,7 @@ __escapism__ _n_ :three::mega: The tendency to escape from daily reality or rout
 __escarpment__ _n_ :two: A steep slope or long cliff that results from erosion or faulting and separates two relatively level areas of differing elevations. _Syn_ scarp  
 __eschatology__ _n_ :astonished: /es-kuh-TOL-uh-jee/ [:scroll: From Greek eschatos (last) + -logy (study).] The doctrine or the study of final or ultimate matters, such as, death, judgment, end of the world, etc. _He wished to learn the eschatology of the world; he dared to contemplate the Mind of God._  
 __eschew__ _vt_ :five: /ɪsˈtʃuː/ (Formal) To keep clear of or abstain from (something disliked, injurious, etc); shun; avoid. To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._ _Eschewing commas._  
+__escritoire__ _n_ A writing table; a desk. _Syn_ secretaire, writing table, secretary  
 __escrow<sup>1</sup>__ _n_ :seven: __1__ A deposit or fund held in trust or as a security. _An escrow account._ _Money to be held in escrow._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
 __escrow<sup>2</sup>__ _v_  
 __esculent__ _adj_ :two: Suitable for eating; edible.  
@@ -6411,6 +6415,7 @@ __essential<sup>2</sup>__ _n_
 __essoin<sup>1</sup>__ _n_ /ɛˈsɔɪn/ _law_ An excuse for not appearing in court.  
 __essoin<sup>2</sup>__ _vt_ /ɛˈsɔɪn/ _law_ To excuse for not appearing in court.  
 __establish__ _v_ _Established 1978._  
+__estaminet__ _n_ /ɛs ta miˈnɛ/ A small café, bar, or bistro, esp a shabby one.  
 __estate__ _n_ _A lavish castle surrounded by 600 acres of state._  
 __esteem__ _v_ _Our esteemed allies._  
 __esteemed__ _adj_ :three::hammer:  
@@ -6428,9 +6433,10 @@ __etceteras__ _n pl_ Unspecified additional items. _Syn_ odds and ends
 __etch<sup>1</sup>__ _vt_ :nine: __1__ To engrave with an acid or the like, as to form a design in furrows that when charged with ink will give an impression on paper. __2__ To produce (a design, image, etc.) by this method, as on copper or glass. __3__ :dart: To outline clearly or sharply; delineate. _The hedgerow was sharply etched._ _A profile identifying each peak is etched in a huge relief along the sidewalk._ __4__ To fix or imprint firmly: _His face is etched in my memory._  
 __etch<sup>2</sup>__ _vi_ T to practice the art of etching.  
 __etched__ _adj_ __1__ If something is etched on your mind or memory, you can still remember it very clearly, sometimes when you would prefer to forget it. __2__ If a feeling is etched on someone’s face, their expression shows clearly what they are feeling.  
-__etchings__  
+__etching__ _n_ :four::hammer:  
 ‌__eternal__ _adj, n_ /ɪˈtɜr nl/  
 __eternity__ _n_ /ɪˈtɜr nɪ ti/  
+__ethanol__ _n_  
 __ether__ _n_ The element believed in ancient and medieval civilizations to fill all space above the sphere of the moon and to compose the stars and planets. _Syn_ quintessence _The stars, the ancients believed, both inhabited and were composed of the ether._  
 __ethereal__ _adj_ :two::hammer: /ih-THEER-ee-ul/  
 __ethereality__ _n_  
@@ -6458,7 +6464,7 @@ __Euskara__ _n_ :astonished: The Basque language.
 __euthanasia__ _n_ /yoo-thuh-NAY-zhuh, -zhee-uh/ [:scroll: From Greek eu- (good) + thanatos (death)] The practice of ending life to relieve suffering.  
 __evacuee__  
 __evanesce__ _v_ :two::mute:[evanes~~c~~e]:hammer:  
-__evanescent__ _adj_ :two: /ev-uh-NESS-unt/ Something that is evanescent vanishes quickly like a vapor. _The joy of winning the last game was evanescent, as the team quickly turned its focus to the upcoming championships._  
+__evanescent__ _adj_ :three: /ev-uh-NESS-unt/ /e-vuh-NES-uhnt/ Fading quickly; transitory. Something that is evanescent vanishes quickly like a vapor. _The joy of winning the last game was evanescent, as the team quickly turned its focus to the upcoming championships._  
 __evangelist__ _n_ :two: Someone who is very enthusiastic about something and likes to tell other people how good it is. _Technology evangelist._  
 __even__ _adv_ _Syn_ indeed, actually _Is this even our house?_  
 __evened__ _v_  
@@ -6497,6 +6503,7 @@ __exasperation__ _n_ :two::hammer:
 __exceed__ _v_  
 __exceedingly__  
 __excelsior__  
+__exceptionable__ _adj_ Open or liable to objection or debate; debatable. _Syn_ objectionable  
 __excess__ _adj_ :six::hammer: _Excess mortality._ _He’s raised or spent in excess of $5,000 on political activity._  
 __exchequer__ _n_ /ɪksˈtʃɛkə/  
 __excise__ _v_  
@@ -6537,6 +6544,7 @@ __exhilarating__ _adj_ :nine::m: /ɪɡˈzɪləˌreɪtɪŋ/ Causing strong feelin
 __exhilaration__ _n_  
 __exhort__ _v_ :two: /ig-ZORT/__1__ To incite by argument or advice; urge strongly to do something. __2__ To give warnings or advice; make urgent appeals.  
 __exhortation__ _n_  
+__exigency__ _n_ Urgent requirements; pressing needs. Often used in the plural. _Syn_ need, demand, requirement, necessity, constraint, wont  
 __exigent__ _adj_ /EK-suh-junt/  
 __exiguous__ _adj_ :two::hammer:  
 __existential__ _n_ :pencil2:  
@@ -6544,6 +6552,7 @@ __exodus__ _n_ :four: /EK-suh-duhs/ __1__ _capitalized_ The mainly narrative sec
 __exonerate__ _vt_ :seven: (exonerating) __1__ To clear from accusation, guilt, or blame. Pronounce not guilty of criminal charges. _Syn_ acquit, exculpate, discharge, clear _After the long trial, the suspect was exonerated of the murder charges, much to his relief._ __2__ To relieve from an obligation, duty, or task.  
 __exorbitant__ _adj_ /ig-ZOR-bi-tuhnt/ [:scroll: From Latin exorbitare (to go out of the track), from ex- (out) + orbita (wheel track), from orbis (circle, disk).] Greatly exceeding what’s considered reasonable, especially in cost or price.  
 __exoteric__ _adj_ :three: __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning “designed for or understood by the specially initiated alone.”  
+__exothermic__ _adj_ Releasing heat. _Syn_ heat-releasing, exothermal  
 __expansive__ _adj_ :five::hammer: _An expansive craft beer list._ _He became expansive and revealed some facts._  
 __expansively__ _adv_ _He sucked expansively on his cigar._  
 __expat__ _n_ :seven: _Chiefly British_ An expatriate. _Baroque debut for Moscow expat choir._  
@@ -6586,12 +6595,13 @@ __extended family__ _n_ A family group that consists of parents, children, and o
 __extensive__ _adj_ _Extensive discussions._  
 __extensively__ _adv_ _She’s been working extensively._  
 __extent__ _n_  
-__extenuate__ _v_ :astonished:  
+__extenuate__ _v_ :astonished::two: /ik-STEN-yuh-wayt/ _Extenuate_ is a formal word that is most often used to mean “to lessen the strength or effect of something, such as a risk.” In legal use, to extenuate a crime, offense, etc., is to lessen or to try to lessen its seriousness or extent by making partial excuses.  
 __extirpate__ _v_ :two: /EK-ster-payt/ To destroy totally. _Syn_ eradicate, exterminate, uproot _The district attorney is vowing to extirpate political corruption from City Hall if she is elected mayor._  
 __extol__ _vt_ :nine::m: (extol, extolled, extolling) To praise highly; exalt. _But he extols running as what helps him stay clean._  
 __extort__ _v_  
 __extortion__ _n_  
 __extradite__ _v_ :two: /EK-struh-dyte/ To extradite someone who has been accused of a crime is to send that person to the state or country that has jurisdiction to try them for that crime. _The U.S. has rejected the country’s request to extradite the journalist because of concerns that she will be subjected to an unfair trial there._  
+__extralegal__ _adj_ Not permitted or governed by law. _Syn_ nonlegal  
 __extraneous__ _adj_ :dart::two: /ek-STRAY-nee-us/ Something described as extraneous does not form a necessary part of something else, and may also therefore be considered irrelevant or unimportant (as in “extraneous details”). _The woman who reported the robbery kept bringing up extraneous facts, such as what she’d had for lunch._  
 __extravagance__ _n_  
 __extravaganza__ _n_ :six::hammer:  
@@ -6603,6 +6613,7 @@ __exudate<sup>1</sup>__ _n_ :astonished: An exuded substance.
 __exudate<sup>2</sup>__ _v_ Release (a liquid) in drops or small quantities. _Exude sweat through the pores._  
 __exude__ _v_ :four::hammer:  
 __exult__ _vi_ :two: (Not to be confused with ‘exalt’) Rejoice exceedingly; delight; revel.  
+__exultation__ _n_ /eg-zuhl-TAY-shuhn/ The act or state of triumphant joy.  
 __exuviate__ _v_ [:scroll: From Latin exuere (to take off)] Cast off hair, skin, horn, or feathers.  
 __eye dropper__ _n_  
 __eye mask__ _n_ (to sleep)  
@@ -6644,13 +6655,14 @@ __face value__ _n_ :three::hammer:
 __face__ _v_ _The problems faced by the network operators._  
 __face-off__ _n_ A hostile disagreement face-to-face. _Syn_ confrontation, encounter, showdown _The relationship between the two officers deteriorated until they had a noisy face-off at the chief’s office._  
 __facelift__ _n_ :two::hammer: (face-lift)  
+__facet__ _n_ A distinct feature or element in a problem. _Syn_ aspect  
 __facetious__ _adj_ :nine::m::astonished::pencil2: /fəˈsi ʃəs/ /fuh-SEE-shuss/ Not to be taken seriously; amusing; humorous; frivolous. Playfully jocular; humorous. _Syn_ bantering, tongue-in-cheek _I was only being facetious._ _She was quite gullible and could never tell when his remarks were facetious or when he was being serious._  
 __facetiousness__  
-__facile<sup>1</sup>__ _adj_ :three: /FASS-ul/ Too easily accomplished or attained. _She’s an extremely facile actress._  
+__facile<sup>1</sup>__ _adj_ :four::mega: /FASS-ul/ Too easily accomplished or attained. Working, acting, or speaking with effortless ease and fluency. _Syn_ eloquent, silver-tongued, smooth-spoken, fluent, silver _She’s an extremely facile actress._  
 __facile<sup>2</sup>__ _n_ __1b__ :dart: Working, acting, or done with ease and fluency: _a facile writer; facile prose._ _All interventional cardiologists are facile with delivering balloons._  
 __facilitate__ _v_ /fuh-SIL-uh-tayt/  
 __facioscapulohumeral__ _adj_ Referring to the face, shoulder and arm.  
-__facsimile<sup>1</sup>__ _n_ :five: /fak-SIM-uh-lee/ _The forged painting was an impressive facsimile of the original._ _The lander had two facsimile cameras._  
+__facsimile<sup>1</sup>__ _n_ :six: /fak-SIM-uh-lee/ /fækˈsɪm ə li/ [:scroll: Latin fac simile, make similar] _The forged painting was an impressive facsimile of the original._ _The lander had two facsimile cameras._  
 __facsimile<sup>2</sup>__ _adj_  
 __facsimile<sup>3</sup>__ _v_  
 __fact checker__ _n_ Someone whose job is to make sure that facts are correct, especially in something that is published. _He found a job as a fact-checker on a local newspaper._  
@@ -6660,6 +6672,7 @@ __factious__ _adj_ Of, relating to, produced by, or characterized by internal di
 __factoid__ _n_ :five: /FAK-toyd/ A brief and usually trivial fact. _On the back of baseball cards is a chart showing the player’s statistics along with one or two interesting factoids about his career._  
 __factor in__ _v_ :two::hammer:  
 __factotum__ _n_ :three: /fak-TOH-tum/ A factotum is a person who has many diverse activities or responsibilities, and especially one whose work involves a wide variety of tasks. A general assistant, engaged to do all varieties of work. _After graduating from college, Natalia worked for several years as an office factotum._  
+__factsheet__ _n_  
 __factual__ _adj_ :two::hammer:  
 __faculty__ _n_ :three::astonished: __1__ A group of similarly trained or educated individuals.  
 __fad__ _n_  
@@ -6671,7 +6684,7 @@ __fail-safe__
 __failover<sup>1</sup>__ _n_ :four::hammer:  
 __failover<sup>2</sup>__ _v_  
 __fain__ _adv_ :two: In a willing manner. _I would fain do it._  
-__faint__ _adj_ :two::hammer: _Faint irony._  
+__faint__ _adj_ :three::hammer: /feɪnt/ (fainter, faintest) _Faint irony._  
 __faint-hearted__  
 __fair and square__  
 __fair condition__ _n_ :four::hammer: _Critical to serious condition, fair condition._ _She was listed in fair condition Tuesday evening at an area hospital._  

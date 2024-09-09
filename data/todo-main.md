@@ -98,31 +98,6 @@ __egregious__
 __eleemosynary__ _adj_  
 __elegy__ _n_  
 __eloquence__ _n_ Powerful and effective language. _Syn_ fluency, smoothness  
-__empathetic__ _adj_  
-__encrypt__ _vt_ :mega: /ɪnˈkrɪpt/  
-__encumber__ _v_ :dart: /in-KUM-ber/ Someone or something that is encumbered is burdened or weighed down (as in “tourists encumbered by heavy luggage”) or hindered (as in “negotiations encumbered by a lack of trust”).  
-__enforcer__ _n_ :three::hammer:  
-__ensconce__ _v_ :mega: /in-SKAHNSS/ Someone or something ensconced is firmly placed or hidden. Ensconce can be a synonym of shelter and conceal, or of establish and settle. _The sculpture is safely ensconced behind glass._ _He ensconced himself in the library’s back room for the afternoon._  
-__entourage__ _n_  
-__entreaty__ _n_ An earnest request or petition; a plea. _Syn_ appeal, prayer  
-__ephemeris__ _n_ /ɪˈfɛm ər ɪs/  
-__escritoire__ _n_ A writing table; a desk. _Syn_ secretaire, writing table, secretary  
-__estaminet__ _n_ /ɛs ta miˈnɛ/ A small café, bar, or bistro, esp a shabby one.  
-__etching__ _n_ :three::hammer:  
-__ethanol__ _n_  
-__evanescent__ _adj_ /e-vuh-NES-uhnt/ Fading quickly; transitory.  
-__exceptionable__ _adj_ Open or liable to objection or debate; debatable. _Syn_ objectionable  
-__exigency__ _n_ Urgent requirements; pressing needs. Often used in the plural. _Syn_ need, demand, requirement, necessity, constraint, wont  
-__exothermic__ _adj_ Releasing heat. _Syn_ heat-releasing, exothermal  
-__extenuate__ _v_ :astonished: /ik-STEN-yuh-wayt/ _Extenuate_ is a formal word that is most often used to mean “to lessen the strength or effect of something, such as a risk.” In legal use, to extenuate a crime, offense, etc., is to lessen or to try to lessen its seriousness or extent by making partial excuses.  
-__extralegal__ _adj_ Not permitted or governed by law. _Syn_ nonlegal  
-__extricate__ _vt_ To release from an entanglement or difficulty; disengage.  
-__exultation__ _n_ /eg-zuhl-TAY-shuhn/ The act or state of triumphant joy.  
-__facet__ _n_ A distinct feature or element in a problem. _Syn_ aspect  
-__facile__ _adj_ Working, acting, or speaking with effortless ease and fluency. _Syn_ eloquent, silver-tongued, smooth-spoken, fluent, silver  
-__facsimile__ _adj, n_ :mega: /fækˈsɪm ə li/ [:scroll: Latin fac simile, make similar]  
-__factsheet__ _n_  
-__faint__ _adj_ /feɪnt/ (fainter, faintest)  
 __fallacious__ _adj_ /fuh-LAY-shus/ _Fallacious_ is a formal word that typically describes something, such as an argument or assumption, that is false or inaccurate and that tends to mislead or deceive others.  
 __fanfare__ _n_ /FAN-fayr/ __1__ A showy public display. __2__ A brief, lively sounding of brass instruments, especially trumpets, in a celebration.  
 __far-fetched__ _adj_ Improbable in nature; unlikely.  
