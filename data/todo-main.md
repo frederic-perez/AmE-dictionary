@@ -48,31 +48,6 @@ __condone__ _v_
 __convenience food__ _n_ :dart: A prepackaged food that can be prepared quickly and easily.  
 __copious__ _adj_ /KOH-pee-us/ _Copious_ is a synonym of abundant and plentiful. It is always used before a noun to describe something very large in amount or number.  
 __cot death__ _n_ _Br E_ Sudden infant death syndrome.  
-__cottage cheese__ _n_ A soft white cheese made of strained and seasoned curds of milk. Also called _pot cheese_; also called regionally _Dutch cheese, smearcase._  
-__countless__ _adj_ Too many to be counted; innumerable. _Syn_ incalculable _Countless times._  
-__courier__ _n_ :mega: /ˈkɜr i ər, ˈkʊər-/  
-__crackle__ _v_ /ˈkrækəl/ To make or cause to make a series of slight sharp noises, as of paper being crushed or of a wood fire burning.  
-__crocodile clip__ _n_ :camera: A clasp with serrated interlocking edges used for making electrical connections.  
-__cronyism__ _n_ /KROH-nee-iz-um/ _Cronyism_ is the unfair practice by a powerful person (such as a politician) of giving jobs and other favors to friends without regard for their qualifications.  
-__dalliance__ _n_  
-__dance__ _n, v_ :mega: /dæns, dɑns/  
-__dearth__ _n_ /DERTH/ _Dearth_ refers to a lack or inadequate supply. It is usually followed by _of._ _There is no dearth of opportunities for volunteers at the fair._  
-__deathblow__ _n_  
-__debatable__ _adj_  
-__deliver__ _v_ _He always promised more than he could deliver._  
-__deliverance__ _n_  
-__demure__ _adj_ :two: /dɪˈmyʊər/ __1__ Characterized by shyness and modesty; reserved. __2__ Affectedly or coyly decorous or sedate.  
-__diction__ _n_  
-__digressive__ _adj_ Tending to depart from the main point or cover a wide range of subjects. _Syn_ excursive, rambling, discursive  
-__dinghy__ _n_ A small boat. :es: bote  
-__directory__ _n_ :two::hammer: _A small jobs directory of people._  
-__discernible__ _adj_ Capable of being seen or noticed. _Syn_ evident, observable  
-__disfavor__ _v_ Put at a disadvantage; hinder, harm. _Syn_ disadvantage  
-__dismay__ _vt_  
-__dissipate__ _v_ :pencil2:  
-__distraint__ _n_ _Law_ :es: embargo  
-__doable__  
-__docker__ _n_ A laborer who loads and unloads vessels in a port. _Syn_ dock worker, dockhand, dock-walloper, dockworker, loader, longshoreman, lumper, stevedore :es: estibador  
 __doddering__ _adj_ Infirm, feeble, and often senile. _Syn_ gaga, senile  
 __dodo__ _n_ __2__ _informal_ An intensely conservative or reactionary person who is unaware of changing fashions, ideas, etc.  
 __doleful__ _adj_ Filled with or expressing grief. _Syn_ mournful  

@@ -4242,6 +4242,7 @@ __costumier__ _n_
 __cot__ _n_ :three::hammer: _Ryan chooses to bed down in a cot in his office every night the House is in session._  
 __coterie__ _n_ :three: /KOH-tuh-ree/ An intimate and often exclusive group of people with a unifying common interest or purpose.  
 __coterminous__ _adj_ Being of equal extent or scope or duration _Syn_ coextensive, conterminous  
+__cottage cheese__ _n_ A soft white cheese made of strained and seasoned curds of milk. Also called _pot cheese_; also called regionally _Dutch cheese, smearcase._  
 __cottage__ _n_ :three::astonished::hammer: _Cottage on premises._  
 __Cotton Belt__ _n_ (cotton belt) A belt of land in the southeastern US that specializes in the production of cotton.  
 __cotton candy__ _n_ :two::hammer:  
@@ -4280,7 +4281,7 @@ __counterpoint__ _n_ :two::hammer:
 __countertop__ _n_ :two::hammer:  
 __countervail__ _v_ _Countervailing evidence._  
 __counterword__ _n_  
-__countless__ _adj_ :three::hammer: /ˈkaʊnt lɪs/ _Jenkins wandered nervously around the study, examining objects that didn’t interest him and smoking countless cigarettes._  
+__countless__ _adj_ :four: /ˈkaʊnt lɪs/ Too many to be counted; innumerable. _Syn_ incalculable _Countless times._ _Jenkins wandered nervously around the study, examining objects that didn’t interest him and smoking countless cigarettes._  
 __country store__  
 __countryside__ _n_ /ˈkʌn triˌsaɪd/  
 __counts__ _n_ :three::hammer: _Seven counts of murder._ _He was charged with multiple crimes, including counts of money laundering._  
@@ -4289,6 +4290,7 @@ __coup__ _n, v_ :mute:[cou~~p~~]
 __coupe__ _n_ (coupé) A closed two-door car shorter than a sedan of the same model. _Coupes, two door models usually sportier than sedans._  
 __coupled__ _v_  
 __coupon__ _n_ :two::mega::hammer:  
+__courier__ _n_ :mega: /ˈkɜr i ər, ˈkʊər-/  
 __course<sup>1</sup>__ _n_ _The course features dishes such as lobster, four gras and mushroom pie._  
 __course<sup>2</sup>__ _v_ :astonished: _Cy felt stress coursing through his body._  
 __coursework__  
@@ -4341,7 +4343,7 @@ __cracker-barrel__ _adj_ Suggesting the rustic informality of a country store: _
 __crackerjack<sup>1</sup>__ _adj_ _slang_ :two: Having or demonstrating a high degree of knowledge or skill. _Syn_ adept, crack, expert, master, masterful, masterly, professional, proficient, skilled, skillful  
 __crackerjack<sup>2</sup>__ _n_ _slang_ :two: A person with a high degree of knowledge or skill in a particular field. A person or thing of exceptional quality or ability. _Syn_ ace, adept, authority, dab hand, expert, master, past master, professional, proficient, wizard  
 __crackers__  
-__crackle__ _v_ :three::hammer: _Crackled a bottle of wine._  
+__crackle__ _v_ :four::hammer: /ˈkrækəl/ To make or cause to make a series of slight sharp noises, as of paper being crushed or of a wood fire burning. _Crackled a bottle of wine._  
 __cracklings__ _n_  
 __crackpot__ _n_ :three: An eccentric person, especially one with bizarre ideas. _A reputation as a ridiculous crackpot._  
 __crackpot<sup>1</sup>__ _n_  
@@ -4460,6 +4462,7 @@ __crochet__ _v_ :five::hammer: (crocheting)
 __crocheter__ _n_  
 __crock__ _n_ :two::hammer:  
 __crockery__ _n_ :two::hammer:  
+__crocodile clip__ _n_ :camera: A clasp with serrated interlocking edges used for making electrical connections.  
 __crocus__ _n_  
 __croft__ _n_ :three::hammer::pencil2:  
 __cromagnon__ _n_ :mega:  
@@ -4467,7 +4470,7 @@ __crone__ _n_ :three: A witchlike old woman.
 __cronies__ _n_ :four::hammer: _Military cronies._  
 __Cronuts__ _n_ _trademark_  
 __crony__ _n_ :four: A close friend or companion.  
-__cronyism__ _n_ :dart::seven: When someone hires a friend to do a job, whether or not she’s the best candidate, that’s cronyism. A governor appointing his inexperienced daughter to an important staff position is one example of cronyism. You’re most likely to find the word cronyism in political discussions. It’s not necessarily considered cronyism for a public figure to hire, promote, or appoint her friends or colleagues. However, if the person isn’t as qualified as other candidates but gets the job anyway, it’s a clear case of cronyism. The original meaning of cronyism was simply “friendship,” from crony, Cambridge student slang for “old friend” from the Greek khronios, “long-lasting.” :es: amiguismo  
+__cronyism__ _n_ :dart::eight: /KROH-nee-iz-um/ _Cronyism_ is the unfair practice by a powerful person (such as a politician) of giving jobs and other favors to friends without regard for their qualifications. When someone hires a friend to do a job, whether or not she’s the best candidate, that’s cronyism. A governor appointing his inexperienced daughter to an important staff position is one example of cronyism. You’re most likely to find the word cronyism in political discussions. It’s not necessarily considered cronyism for a public figure to hire, promote, or appoint her friends or colleagues. However, if the person isn’t as qualified as other candidates but gets the job anyway, it’s a clear case of cronyism. The original meaning of cronyism was simply “friendship,” from crony, Cambridge student slang for “old friend” from the Greek khronios, “long-lasting.” :es: amiguismo  
 __crook__ _n_ :seven::hammer: (crooks) _They carried long crooks._ _The crook of her arm._  
 __crooked__ _adj_ :three::hammer: _Crooked media._  
 __crooner__ _n_  
@@ -4707,7 +4710,7 @@ __daisy-chain<sup>2</sup>__ _n_ An interlinked sequence of things, events, peopl
 __dalai lama__ _n_ :mega:  
 __Dalai Lama__ _n_ :mega: /ˈdælaɪ ˈlɑːmə/  
 __dale__ _n_ _Secluded dales._  
-__dalliance__ _n_ :two::hammer:  
+__dalliance__ _n_ :three::hammer:  
 __dally__ _v_ :six::hammer: (dallied, dallying)  
 __Dalmatian__ _n_ A dog of a large, white short-haired breed with dark spots.  
 __dam__ _n_ _The Hoover Dam._  
@@ -4726,6 +4729,7 @@ __damping__ _adj_ :three::hammer: _Damping systems._
 __dampness__  
 __damsel__ _n_ :two: /ˈdæm zəl/ A maiden, orig. one of gentle or noble birth. _The damsel in distress Snow White in 1937._  
 __dance the night away__  
+__dance__ _n, v_ :mega: /dæns, dɑns/  
 __dandelion thistle__  
 __dandelion__ _n_ :eight: A wild plant with a bright yellow flower which later becomes a white ball of seeds that are blown away in the wind. _Dandelion seeds._ :es: diente de león  
 __dander__ _n informal_ Temper or anger: _What got their dander up?_  
@@ -4817,13 +4821,14 @@ __deafening__ _adj_
 __dealbreaker__  
 __dean__ _n_ :four: A senior official at a college or university. _He served as dean._  
 __dear__ _adj_ __1__ Bearing a high price; high-priced; costly; expensive. __2__ Marked by scarcity or dearth, and exorbitance of price. _Though bread and cheese were available from the inhabitants, provision and other supplies were dear._ __3__ Highly valued; greatly beloved; cherished; precious.  
-__dearth__ _n_ :dart::six::hammer:  
+__dearth__ _n_ :dart::seven: /DERTH/ _Dearth_ refers to a lack or inadequate supply. It is usually followed by _of._ _There is no dearth of opportunities for volunteers at the fair._  
 __death toll__ _n_ The number of deaths resulting from some particular cause such as an accident or a battle or a natural disaster.  
 __deathbed__ _n_ :two::hammer:  
+__deathblow__ _n_  
 __deathless__  
 __debacle__ _n_ :nine: /dee-BAH-kul/ A sudden, disastrous collapse, downfall, or defeat; a rout. _Syn_ fiasco _The team had had high hopes before the debacle of their final game, in which they did not manage to score any points._ _A shameful debacle._  
 __debasing__ _v_  
-__debatable__  
+__debatable__ _adj_ :two::hammer:  
 __debauchee__ _n_ A man who leads a life of reckless drinking, promiscuity, and self-indulgence. _Syn_ libertine, rounder  
 __debauchery__ _n_ :four::hammer:  
 __debilitating__ _adj_ /dih-BILL-uh-tay-ting/ Causing serious impairment of strength or ability to function. _The flu can be debilitating for several days._  
@@ -4977,9 +4982,9 @@ __delirious__ _adj_ Marked by uncontrolled excitement or emotion; ecstatic. _Syn
 __delirium tremens__ _n_ An acute, sometimes fatal episode of delirium usually caused by withdrawal or abstinence from alcohol following habitual excessive drinking. It also may occur during an episode of heavy alcohol consumption.  
 __delirium__ _n_  
 __delisted__ _v_  
-__deliver<sup>1</sup>__ _vt_ :three::hammer: __8__ To give forth or produce.  
+__deliver<sup>1</sup>__ _vt_ :four::hammer: __8__ To give forth or produce. _He always promised more than he could deliver._  
 __deliver<sup>2</sup>__ _vi_ :dart::nine::m: __1__ To produce or achieve what is desired or expected; make good: _The senator delivered on her pledge._ _He is a manager who just can’t seem to deliver._ _Al was a man who could deliver._ _Republicans apparently cannot deliver._ _There is a hundred grand if you can deliver._ _Can the recovery plan for elective care in England deliver?_ __2__ To give birth: _She expects to deliver in late August._  
-__deliverance__ _n_ :eight::hammer: _Hope and deliverance._ _Deliverance center._  
+__deliverance__ _n_ :nine::hammer: _Hope and deliverance._ _Deliverance center._  
 __delivery note__  
 __dell__ _n_ A small secluded wooded valley.  
 __delouse__ _v_ :two::hammer: _They’re deloused once a month._  
@@ -5011,7 +5016,7 @@ __demonym__ _n_ /dĕm′ə-nĭm′/ A name, such as _Swede_ or _New Yorker_, tha
 __demosaicing__ _adj_ (de-mosaicing, demosaicking)  
 __demote__ _vt_  
 __demur__ _v_ (demurred) :five::hammer: (demurred)  
-__demure__ _adj_ :six: /dih-MYOOR/ Affectedly modest or shy especially in a playful or provocative way. _Syn_ coy, overmodest  
+__demure__ _adj_ :eight: /dih-MYOOR/ /dɪˈmyʊər/ __1__ Characterized by shyness and modesty; reserved.Affectedly modest or shy especially in a playful or provocative way. _Syn_ coy, overmodest __2__ Affectedly or coyly decorous or sedate.  
 __demurely__ _adv_ :three::hammer:  
 __demurral__ _n_  
 __demystify__ _vt_ :four::hammer:  
@@ -5179,7 +5184,7 @@ __dicker<sup>1</sup>__ _vi_ To bargain; barter. o dicker is to talk or argue wit
 __dicker<sup>2</sup>__ _n_ The act or process of bargaining.  
 __dicta__ _n pl_  
 __dictate__ _v_  
-__diction__ _n_ :five::hammer: _The priest diction._  
+__diction__ _n_ :six::hammer: _The priest diction._  
 __didactic__ _adj_ Intended to instruct. _Syn_ didactical  
 __diddle-shit__  
 __diddle-squat__  
@@ -5206,6 +5211,7 @@ __diglot__ _adj_ /ˈdaɪɡlɒt/ (Linguistics) A less common word for bilingual.
 __digoxin__ _n_  
 __digress__ _v_ :two: To stray temporarily from the topic at hand, as in delivering a speech or engaging in a discussion. _Syn_ swerve  
 __digression__ _n_ :two::hammer:  
+__digressive__ _adj_ Tending to depart from the main point or cover a wide range of subjects. _Syn_ excursive, rambling, discursive  
 __digs__ _n_ _Sherman took digs at the NFL during a news conference._  
 __dike__ _n_ :pencil2: (dyke)  
 __dilapidate__ _v_ :four::hammer:  
@@ -5241,7 +5247,7 @@ __ding up__ _v_ :two::hammer:
 __ding__ _vt_ :five::hammer: (dinged) _I am also getting tired of my property taxes being dinged._ _They were dinging me on their way out._ _Dinged aircraft._  
 __dingbat<sup>1</sup>__ _n_ :three: /DING-bat/ __1__ An eccentric or crazy person. __2__ An ornamental typographical symbol, such as ✲, ❏, ☛, ♥. __3__ An object, such as a brick, used as a missile. __4__ A gadget or an object whose name is unknown or forgotten. Aka, thingamajig, gizmo, etc. __5__ A two- to three-story boxy apartment building with parking spaces directly under it.  
 __dingbat<sup>2</sup>__ _adj_ Eccentric or crazy.  
-__dinghy__ _n_ :nine::m: (dingy, dingey, dinguies; Nautical Terms) Any small boat, powered by sail, oars, or outboard motor. Also (_esp_ formerly): dingy or dingey. _Rubber dinghy and fishing safaris._  
+__dinghy__ _n_ :nine::m: (dingy, dingey, dinguies; Nautical Terms) Any small boat, powered by sail, oars, or outboard motor. Also (_esp_ formerly): dingy or dingey. :es: bote _Rubber dinghy and fishing safaris._  
 __dinging<sup>1</sup>__ _n_ (Sports medicine) Mild traumatic brain injury.  
 __dingly__ _n_ A small boat used for pleasure or for sailing to land from a larger boat.  
 __dingy__ _adj_ :two::hammer::mega:  
@@ -5265,6 +5271,7 @@ __dipstick__ _n_ :three: A rod for measuring the depth of a liquid, esp. the lev
 __dire__ _adj_ :nine::m: (of a situation or event) Extremely serious or urgent. _Doctors warned of dire consequences._ _Syn_ terrible, dreadful, appalling, frightful, awful :es: terrible, horrible, horrendo, fatal _After showing some improvement, Howe’s health again appeared dire last weekend._ _No matter how dire the news may be, there’s always something you can do._  
 __direct object__  
 __direction__ _n_ :two::mega:  
+__directory__ _n_ :two::hammer: _A small jobs directory of people._  
 __dirge__ _n_ :four::hammer: :es: canto fúnebre  
 __dirigiste__  
 __dirk__ _n_ :astonished: A long straight-bladed dagger. :es: puñal  
@@ -5293,6 +5300,7 @@ __disbar<sup>2</sup>__ _v_ :three::hammer: (disbarred)
 __disbelief__ _n_  
 __disbeliever__ _n_ Someone who refuses to believe (as in a divinity).  
 __discectomy__ _n_ The partial or complete excision of an intervertebral disk.  
+__discernible__ _adj_ Capable of being seen or noticed. _Syn_ evident, observable  
 __discerning__ _adj_ :dart::three::hammer: _Downtown Boulder has everything a discerning diner could ask for and more._ _A discerning traveler._  
 __discerp__ _vt_ /di-SUHRP/ [:scroll: From Latin discerpere (to tear to pieces), from dis- (apart) + carpere (to pick, pluck)] To tear off or to rip into pieces.  
 __discharge__ _vt_ :nine::m::dart: (discharged) To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You’d probably like being discharged from jail, but not from your job, unless you really hate it. _The hospital discharged the patient._ _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ _The patient was discharged the day after the operation._  
@@ -5336,7 +5344,7 @@ __disendowment__ _n_
 __disenfranchise__ _vt_ :three::hammer: (disfranchise)  
 __disengage__ _v_ :three::hammer:  
 __disengaged__ _adj_ _Syn_ unconnected, separate, apart, detached, unattached _Diane felt somewhat disengaged from those around her._  
-__disfavor__  
+__disfavor__ _v_ :two: Put at a disadvantage; hinder, harm. _Syn_ disadvantage  
 __disgorge__ _v_  
 __disgorgement__  
 __disgruntle__ _v_ :two::dart: Put into a bad mood or into bad humour. To make sulky or discontented.  
@@ -5374,7 +5382,7 @@ __dislocate__ _v_ To displace (a body part), especially to displace a bone from 
 __dislodge__ _v_  
 __disloyal__  
 __dismal__ _adj_ :eight::mega: Causing gloom or depression; dreary: _dismal weather; took a dismal view of the economy._ _Syn_ dark and drepressing, gloomy, somber  
-__dismay__ _v_ (dismayed) _The proposal has dismayed the Canadian government._  
+__dismay__ _vt_ :two::hammer: _The proposal has dismayed the Canadian government._  
 __dismayed__ _adj_ :two::dart: Filled with depression or discouragement filled with apprehension or alarm.  
 __dismiss__ _v_ :two: __2__ _Military_ An order to end an activity or give permission to disperse. To direct or allow to leave: _dismissed troops after the inspection; dismissed the student after reprimanding him._ _be dismissed_ :es: retirarse (por ejemplo de la mesa)  
 __dismissive__ _adj_ :four::hammer: _Healthy young adults often are dismissive of health issues._  
@@ -5424,7 +5432,7 @@ __dissimilar__ _adj_ :two::hammer:
 __dissimilarly__  
 __dissimulate__ _v_ :two::pencil2::hammer:  
 __dissing__ _v_  
-__dissipate__ _v_ :two::hammer:  
+__dissipate__ _v_ :three::pencil2::hammer:  
 __dissipation__ _n_ :two::hammer:  
 __dissociate__ _v_ :pencil2:  
 __dissociation__ _n_  
@@ -5438,6 +5446,7 @@ __distemper__ _n_ :four::hammer: _An outbreak of canine distemper has killed a 1
 __distend__ _v_ To cause to expand by or as if by internal pressure; dilate. _Syn_ dilate  
 __distinct__ _adj_ :three::hammer: _A distinct throwback to the poster covers of the early magazines._  
 __distinctly__ _adv_ :two::hammer:  
+__distraint__ _n_ _Law_ :es: embargo  
 __distraught__ _adj_ :two: Deeply agitated, as from worry or grief.  
 __distress__ _n_  
 __distressed__ _adj_ :two::hammer:  
@@ -5478,12 +5487,13 @@ __do it by the numbers__
 __do math__  
 __do__ _v_ _5_ _vt_ To make tidy, elegant, ready, etc, as by arranging or adorning: _to do one’s hair._  
 __do-gooder__  
-__doable__ _adj_ _It was not a lot of time but it was doable._  
+__doable__ _adj_ :two::hammer: _It was not a lot of time but it was doable._  
 __Doberman__ _n_ A large dog of a German breed with powerful jaws and a smooth coat, typically black with tan markings.  
 __doc__ _n_ _informal_ :two::hammer: (doc)  
 __docent__ _n_ :five: (docents)__2__ A knowledgeable guide, esp. one who conducts visitors through a museum, cathedral, art gallery, etc. _Special docent-guided tours can be arranged in advance._  
 __docile__ _adj_ :three: /DAH-sul/ __1__ Easily taught. __2__ Easily led or managed.  
 __docked__ _v_  
+__docker__ _n_ A laborer who loads and unloads vessels in a port. _Syn_ dock worker, dockhand, dock-walloper, dockworker, loader, longshoreman, lumper, stevedore :es: estibador  
 __docket__ _n_ :dart::six: A list of things to be done. _Syn_ agenda, schedule  
 __doctor__ _vt_ :five: __3a__ To falsify or change in such a way as to make favorable to oneself: _doctored the evidence._ _Imagine if a doctored video of a politician appeared the day before an election._ _A photograph doctored by his aides._  
 __doctoring__ _n_ The act of making different in order to deceive, tamper with, falsify, or adulterate.  
