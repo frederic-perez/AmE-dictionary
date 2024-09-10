@@ -1,3 +1,31 @@
+__dry run__ A practice session or test designed to identify and correct possible problems.  
+__bits and pieces__ Sundry little items, tasks, or chores.  
+__smell a rat__ To suspect an instance of betrayal, deception, or corruption.  
+__pull (one’s) weight__ To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
+__a stone’s throw__ :two: A very short distance.  
+__call of nature__ The urge to urinate or defecate. _I have to attend to the call of nature._  
+__give a hiding__ The idiom “give a hiding” primarily means to deliver a severe beating or punishment. This usage is particularly common in British English, where it can refer to both physical punishment and a figurative sense of defeat.  
+__the three Rs__ The three tenets of education traditionally considered the most basic or essential: reading, writing, and arithmetic. (So named for the prominent “R” sound at the beginning of each word.) _We learned the three Rs._  
+__be partial to (someone or something)__ To be particularly fond of someone or something; to have someone or something as one’s favorite or preference.  
+__spend a penny__ _euphemism_ To go to the toilet. Primarily heard in UK.  
+__pinch__ _slang_ :two: __1__ _v_ To steal something.  
+__give something a miss__ _I’ll give coffee a miss; I’m off to bed now._  
+__poppy appeal__  
+__(it’s) just as well (that) (something happened)__ It is or turned out to be beneficial (that something happened). _It turned out we had a pop quiz on Monday. Just as well I was studying this weekend!_  
+__close shave__  
+__six in one, (and) half a dozen in the other__ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
+__barb__  
+__the man to see__  
+__with a start__ The phrase “with a start” refers to a sudden, involuntary movement or reaction, typically caused by surprise or alarm. It is often used to describe the action of waking up abruptly, as in the expression “I woke up with a start.” _I dreamed about falling and I woke with a start._  
+__for all I know__  
+__get (one, something) out of the system__  
+__in full swing__  
+__no picnic__ _It’s no picnic walking around with a guilty conscience._  
+__trip along__  
+__jungle law__  
+__know by heart__  
+__for which read__ :dart: _Readjustment, scaling back, for which read — redundancies._ :es: léase  
+__stands to reason__  
 __undercut__ _v_  
 __nursing__ _n_ __1__ The profession of a nurse. __2__ The tasks or care of a nurse.  
 __occasionally__ _adv_ :pencil2: Now and then; from time to time.  
@@ -38,37 +66,6 @@ __au pair__ _n_ A young foreigner who provides childcare for a family in exchang
 __camp__ _n_  
 __no-man’s-land__ _n_ :three: __1__ _Military_ Land between boundaries, esp an unoccupied zone between opposing forces.  
 __peal__ _n_ :two: __1__ A ringing of a set of bells, especially a change or set of changes rung on bells. __2__ A set of bells tuned to each other; a chime. __3__ A loud burst of noise: _peals of laughter._  
-****
-__beg to differ__  
-__hung jury__ :dart: A jury that cannot agree on a verdict.  
-__wet kiss__  
-__in a pinch__ When something ideal or preferred is not available; as a substitute. _I don’t have any cooking oil. Is there anything else I can add to the recipe in a pinch?_  
-__fair enough__  
-__top-heavy__ __1__ _slang_ Of a woman, having very large breasts. __2__ _slang_ Of a man, having large upper-body muscles with relatively small lower-body muscles.  
-__all the same__  
-__at any rate__  
-__a balancing act__ :dart:  
-__go cold__ _The bonnet beneath had gone cold._  
-__show (one’s) hand__  
-__all too often__  
-__at (the) worst__ (at its very worst) Under the most negative circumstances, estimation, or interpretation: At worst, the storm will make us postpone the trip.
-__the real deal__  
-__watershed moment__  
-__sexual advance__  
-__dig and poke around__ The idiom “dig and poke around” generally means to search or investigate something thoroughly by looking through various items or areas, often in a somewhat casual or unstructured manner.  
-__as far as it goes__  
-__wind down__  
-__get something out of the way__ :dart: Deal with a task or difficulty so that it is no longer a problem or worry. _I’m glad I’ve got that visit to the dentist out of the way._  
-__lucky monkey__  
-__as it happens__  
-__the small of (one’s)/the back__  
-__as we speak__ At this very moment.  
-__it wouldn’t do (someone) any harm (to do something)__ It would or may be good, pragmatic, or beneficial for someone (to do something). _You know, it wouldn’t do you any harm to comb your hair from time to time._  
-__sleep like a rock__  
-__go ballistic__  
-__food chain__  
-__like the back of your hand__  
-****
 __muttering__ _n_  
 __racket__ _n_ __1__ A loud distressing noise.  
 __interfere__ _v_  
@@ -101,7 +98,7 @@ __bonnet__ _n_ :three::hammer:
 __pressing__ _A pressing need._  
 __nonplussed__ :pencil2:  
 __wispy__ _Wispy hair._  
-__heathen__  
+__heathen__ _adj, n_ :two::hammer: _Heathens like me._  
 __smiting__ _v_  
 __throb__ _v_ _My hand was throbbing._  
 __bog__ _n_ _A cow grazing in a bog._  
@@ -152,22 +149,9 @@ __squelch__ _v_
 __trawl__ _v_  
 __cowed__  
 __red-hot__ _The red-hot property market._  
-__step up s gear__  
-__for which read__ :dart: _Readjustment, scaling back, for which read — redundancies._ :es: léase  
-__starting salary__  
-__stands to reason__  
-__heathens__ _Heathens like me._  
-__for all I know__  
-__get (one, something) out of the system__  
 __tearjerker__  
-__in full swing__  
-__no picnic__ _It’s no picnic walking around with a guilty conscience._  
-__barb__ _He acknoledged the barb._  
-__trip along__  
-__jungle law__  
-__know by heart__  
 __cleaning agent__  
-__plumb__ _Bruises and plumb lines._  
+__plumb__ _adj, adv, n_ _Bruises and plumb lines._  
 __writ__  
 __ragbag__  
 __Boxing Day__  
@@ -176,7 +160,7 @@ __swedes__ _n_ :two::hammer: _I helped her mash the swedes._
 __sheaf__ _n_  
 __aquavit__  
 __spruce tree__  
-__curtly__ _‘Congratulations,’ I said curtly._  
+__curtly__ _adv_ _‘Congratulations,’ I said curtly._  
 __divide__ _n_  
 __work like a Trojan__  
 __get it out of my system__  
@@ -203,37 +187,22 @@ __paradigm__ _n_ /PAIR-uh-dyme/
 __pustulate__ _adj_ Blemished by imperfections of the skin. _Syn_ acned, pimpled  
 __unbeknownst__ _adj_ /un-bih-NOHNST/  
 __drollery__ _n_ A quaint and amusing jest. _Syn_ waggery  
-__with a start__ _I dreamed about falling and I woke with a start._  
-__goats and oats__ :dart:  
 __slush__ _n_ (drink?)  
 __talk in tongues__  
 __white spirit__ _n_  
 __sounds familiar__  
 __a one-off__  
-__give something a miss__ _I’ll give coffee a miss; I’m off to bed now._  
-__poppy appeal__  
-__(it’s) just as well (that) (something happened)__ It is or turned out to be beneficial (that something happened). _It turned out we had a pop quiz on Monday. Just as well I was studying this weekend!_  
-__close shave__  
-__six in one, (and) half a dozen in the other__ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
-__the man to see__  
-__pinch__ _slang_ :two: __1__ _v_ To steal something.  
-__give a hiding__ (punishment?)  
-__well-to-do__ _A well-to-do doctor._  
-__the three Rs__ _We learned the three Rs._  
-__a stone’s throw__ :two::hammer:  
-__be partial to something__  
-__spend a penny__  
 __scrupulously__  
-__squally__ _Squally showers._  
+__squally__ _adj_ __1__ Characterized by squalls. __2__ Stormy; threatening. _Squally showers._  
 __peckish__  
 __untoward__  
 __funkhole__  
 __hitherto__  
 __nominal price__  
-__attritional__ :dart: _Attritional battles._  
+__attritional__ _adj_ :dart: Relating to or caused by attrition. _Attritional battles._  
 __haversack__ _n_  
 __pontoon__ _n_  
-__broad__ _In broad daylight._  
+__broad__ _adj_ _In broad daylight._  
 __pillbox__  
 __poplar tree__  
 __dishevelled__  
@@ -245,7 +214,7 @@ __divots__ _n_
 __unassailable__  
 __epaulettes__ _n_  
 __armistice__ _n_  
-__strong__ (people?)  
+__strong__ _n_ __18__ Having a specified number of units or members: _a military force 100,000 strong._  
 __spud__ _n_ _I was peeling spuds in the cookhouse._  
 __cookhouse__ _n_  
 __exonerate__ _v_  
@@ -258,17 +227,15 @@ __make one scarce__
 __go over the top__  
 __get on famously__  
 __booty-trap__  
-__lip to lip__ :two::hammer:  
 __zero hour__  
 __mess tin__  
 __whizz-bangs__  
-__attend to the call of nature__  
 __field dressing__  
 __fire on the ranges__  
 __spinster__  
 __tackle__ _n_ _The tackle broke when they tried to lift the heavy bell._  
 __cornices__ _n_ :two::hammer:  
-__woodwork__ _Woodwork fascia._  
+__woodwork__ _n_ __1__ (Crafts) The art, craft, or skill of making things in wood; carpentry. :es: carpintería __2__ (Building) components made of wood, such as doors, staircases, etc. _Woodwork fascia._  
 __fascia__  
 __unlatched__  
 __smouldered__ _v_  
@@ -282,8 +249,4 @@ __degage__ _adj_ Showing lack of emotional involvement. _Syn_ detached, uninvolv
 __balderdash__ _n_ /ˈbɔːldəˌdæʃ/ Nomsense. Stupid or illogical talk; senseless rubbish.  
 __transgression__ _n_ /trans-GRESH-uhn/ A violation of legal or moral boundaries.  
 __brainiac__ _n_ /BRAY-nee-ak/  
-__dry run__  
-__bits and pieces__  
-__smell a rat__  
-__pull one’s weight__  
-__Jerry__ (German?)  
+__Jerry__ _n slang_ _Chiefly British_ A German, especially a German soldier.  

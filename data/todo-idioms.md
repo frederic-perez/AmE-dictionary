@@ -1,7 +1,14 @@
 __(stuck) in a rut__  
+__a balancing act__ :dart:  
 __a long shot__ :dart:  
 __a word of warning__ :two: Information about possible danger or trouble.  
-__all the same__  
+__all the same__ :two::hammer:  
+__all too often__  
+__as far as it goes__ As much as something accomplishes, typically with room for improvement.  
+__as it happens__  
+__as we speak__ At this very moment.  
+__at (the) worst__ (at its very worst) Under the most negative circumstances, estimation, or interpretation: At worst, the storm will make us postpone the trip.  
+__at any rate__  
 __at the outset__ At the beginning.  
 __at the top of (one’s) voice__ As loudly as one can.  
 __aw shucks__ :dart: __1__ An expression of shyness, happiness, or embarrassment. _A: “You’re just too sweet!” B: “Aw shucks, you’re gonna make me blush.”_ _Aw shucks, it was nothing. I was happy to help._ _Aw shucks, that’s so nice of you to say! Thank you!_ __2__ An expression of disappointment. _Aw shucks, it looks like we’re going to lose the game after all._  
@@ -11,6 +18,7 @@ __bargain for (someone or something)__
 __be on the safe side__ :dart:  
 __bear (someone or something) in mind__  
 __beat about the bush__ :two: _BrE_ To speak vaguely or euphemistically so as to avoid talking directly about an unpleasant or sensitive topic. Primarily heard in UK.  
+__beg to differ__  
 __behind (one’s) back__ In one’s absence. The phrase typically suggests wrongdoing or deceit. _I can’t believe you were gossiping about me behind my back!_  
 __boil (something) down to (something)__ To reduce or simplify something to the most basic, essential, or fundamental element(s).  
 __bona fide__  
@@ -29,21 +37,25 @@ __creeper__
 __cut bait__  
 __dance on air__ To be extremely happy.  
 __dead__ __5__ Absolutely. _You’d better be dead certain about this decision, because you can’t take it back._  
+__dig and poke around__ The idiom “dig and poke around” generally means to search or investigate something thoroughly by looking through various items or areas, often in a somewhat casual or unstructured manner.  
 __double or quits__ A wager, undertaken after a previous wager, that stipulates two possible outcomes: if the winner of the previous wager wins again, they win twice the amount won in the previous wager; if they lose, they receive nothing. Primarily heard in UK.  
 __downed on (someone)__  
 __downer__  
 __drop in__ To visit someone casually or unexpectedly.  
 __educated guess__ A thoughtful, well-reasoned guess; a guess with some basis in one’s knowledge.  
 __every other__ Alternating. _Every other week._  
+__fair enough__  
 __fall off the perch__ _BrE_ _old-fashioned, informal_ (fall off your perch) If someone falls off the perch or falls off their perch, they die. Note: A perch is a pole, branch or other place where a bird sits to rest. _He fell off the perch years ago._ Note: Other verbs such as drop or topple can be used instead of fall. _He’ll topple off his perch one morning. You know how it is._ Note: This expression is used humorously.  
 __fancy__ _informal_ __2__ To have a desire for (something).  
 __few and far between__  
 __first come, first served__ The first people present will be the first to receive something, often something that is available in limited quantities.  
 __flying squad__ _n_ A small group of police, soldiers, etc, ready to move into action quickly.  
+__food chain__ Used in the phrases “at the top of the food chain” and “at the bottom of the food chain.” __1__ A hierarchy of organisms that transfer food energy between them. The smallest organisms are at the bottom—and they are preyed upon by the larger ones above them in the food chain. _Grizzly bears are at the top of the food chain._ _Phytoplankton are at the bottom of the food chain._ __2__ A hierarchy of people in a group or organization. _As a medical intern, I’m at the bottom of the food chain, but I’ll move up soon enough._  
 __for a charge__ The act of charging someone a fee or price for a service or item.  
 __for a fee__  
 __for kicks__  
 __get lucky__  
+__get something out of the way__ :dart: Deal with a task or difficulty so that it is no longer a problem or worry. _I’m glad I’ve got that visit to the dentist out of the way._  
 __ghosting__ _slang_  
 __gig__  
 __give (one’s) ground__  
@@ -55,11 +67,13 @@ __give or take__
 __glass cliff__ _n_ A situation in which a woman or minority has advanced professionally at a time when adverse circumstances or crises make it more likely for the person to fail at the job.  
 __go a long way__ :two::hammer:  
 __go back to the well__ To return to some proven and reliable source of success, talent, good fortune, etc.  
+__go ballistic__ To become wildly or uncontrollably angry.  
 __go bananas__  
 __go berserk__  
 __go between__  
 __go big or go home__ _expression_ Either do something to its fullest extent or largest degree, or else don’t even bother. Often used facetiously. _A: “Do we really need to cook an entire pig for this barbecue? We’re only having a few people over.” B: “Hey, go big or go home!”_  
 __go bust__ :two: To experience financial failure or ruin, often as of a business.  
+__go cold__ _The bonnet beneath had gone cold._  
 __go down the rabbit hole__  
 __go down the toilet__ To fail; to be ruined or destroyed; to be squandered or wastefully discarded.  
 __go for (something)__  
@@ -100,6 +114,7 @@ __hold the line__
 __holding pattern__  
 __hotshot__  
 __hue and cry__ /HYOO-und-KRYE/ __1__ A large public protest. _Hue and cry_ refers to a clamor of alarm or protest in response to something. __2__ It can also be used as a synonym of hubbub to refer to general noise or uproar.  
+__hung jury__ :dart: A jury that cannot agree on a verdict.  
 __I beg your pardon__ :dart: __1__ :dart: I apologize for what I just did or said. _Oh, I beg your pardon. I wasn’t looking where I was going._ __2__ What did you just say? _Could you please repeat that? I beg your pardon, I couldn’t quite hear you._ __3__ An expression or exclamation of indignation or incredulous disbelief. _A: “I’m afraid we’re going to have to cut your funding, effective immediately.” B: “I beg your pardon? Who on earth decided that?”_ __4__ Could you please give me your attention. _I beg your pardon, everyone, but I’d like to get tonight’s proceedings underway._ __5__ :dart: I believe you are mistaken or incorrect; I beg to differ; I don’t agree with you on that. _I beg your pardon, but I believe you’ll find that our school is actually one of the best in the state._  
 __if it ain’t broke, don’t fix it__ :two::hammer: (if it isn’t broke, don’t fix it)  
 __if nothing else__ :dart: A phrase used to indicate that something is a priority or the most important thing. _I know you’re busy today, so if nothing else, please make sure you respond to these messages._ _If nothing else, we’ll at least get our money back._  
@@ -108,6 +123,7 @@ __iffy__
 __in a bit__  
 __in a flutter__ In a nervous, confused, or agitated state.  
 __in a measure__ To a certain degree or extent; somewhat.  
+__in a pinch__ When something ideal or preferred is not available; as a substitute. _I don’t have any cooking oil. Is there anything else I can add to the recipe in a pinch?_  
 __in a sorry state__ In a pitiful, dysfunctional, or abject condition. _My business was in a sorry state after I left it under the control of my brother._ _John’s been in a sorry state lately—I think he’s taken up drinking again._  
 __in all good faith__  
 __in all honesty__  
@@ -174,6 +190,7 @@ __iron grip__ __2__ Total, dominant control (over someone or something).
 __it ain’t over till/until the fat lady sings__  
 __it goes without saying__  
 __it remains to be seen__ Something is not yet clear, certain, or known.  
+__it wouldn’t do (someone) any harm (to do something)__ It would or may be good, pragmatic, or beneficial for someone (to do something). _You know, it wouldn’t do you any harm to comb your hair from time to time._  
 __it’s all good__ :dart: A phrase used to express general approval, unconcern, or disinterest.  
 __jabber__ :two: __1__ _v_ To chat casually about someone or something. _I’ve got some free time today, so let’s sit and jabber for a bit._  
 __jacked up__  
@@ -250,7 +267,9 @@ __lick (one’s) wounds__
 __lie to__ __2__ (Nautical) Of a sailing vessel, to remain stationary while facing the wind. _Make sure the ship lies to during the storm so as not to capsize._  
 __life, the universe, and everything__ The question that pan-dimensional space-beings asked the computer Deep Thought in Douglas Adams’s book, _The Hitchhiker’s Guide to the Galaxy._ The computer took millions of years and came up with the answer 42. _Balancing risks is life, the universe, and everything._  
 __lift__  
+__like the back of (one’s) hand__ A common English expression used to describe something that a person knows extremely well or is very familiar with.  
 __liminal__ _adj_ /ˈlɪmɪnəl/  
+__lip to lip__ :two: The idiom “lip to lip” typically refers to a kiss that involves direct contact between the lips of two people. This expression is often associated with romantic or intimate contexts, emphasizing the closeness and emotional connection between the individuals involved.  
 __litmus test__  
 __little does (one) know__ One is completely unaware of something.  
 __live up to (something)__ :three::hammer: _Live up to the hype._  
@@ -266,6 +285,7 @@ __lose steam__ To begin to wane in energy, enthusiasm, or potency.
 __loss leader__ A product or service offered at or below cost in order to attract customers to a store in the hopes that they will then purchase other items.  
 __lost for words__ (at a loss for words)  
 __loud and clear__  
+__lucky monkey__ The concept of a “lucky monkey” is often associated with good fortune, playfulness, and positive energy.  
 __lurk__  
 __lust for life__  
 __magic mushroom__ _informal_ Any mushroom-like fungus that has psychedelic effects.  
@@ -400,18 +420,21 @@ __serve (one’s) time__
 __set a camp__  
 __set eyes on something__  
 __set the bar (high/low)__  
+__sexual advance__ An attempt to gain some form of sexual favor or gratification from another person.  
 __sexual advances__  
 __Shangri-la__ A utopian paradise. A reference to the fictional Tibetan paradise described in James Hilton’s 1933 novel _The Lost Horizon._  
 __shine a light__  
 __shipshape and Bristol fashion__  
 __shit (one’s) pants__ __2__ _rude slang_ By extension, to be very surprised. _When I saw that the magazine had published my letter to the editor, I practically shit my pants!_ _Shit-your-pants scared._  
 __shoot (oneself) in the foot__  
+__show (one’s) hand__  
 __shrink from (someone or something)__ :dart: __1__ To recede or recoil from someone or something. _The way the gums are shrinking from your teeth is a clear sign of gingivitis._ _The child shrank from the men as they approached the house._ __2__ :dart: To avoid or neglect some action, duty, or responsibility. _You wanted to lead this branch, which means you can’t shrink from the thornier aspects of the job._  
 __shut out__  
 __single file__ A line of things or people, one person or one thing wide. _Please get into single file._ _You have to march single file._  
 __single out__  
 __slap in the face__ Words or actions that have offended or otherwise upset someone. _It was a real slap in the face when she got promoted over me, especially after the amount of work I did on that last project._  
 __sleazo__  
+__sleep like a rock__ To experience a very deep and restful sleep; to sleep soundly.  
 __slice of the pie__  
 __slippery path__ A situation or course of action that is fraught with difficulties, risks, or potential negative consequences.  
 __slowly and surely__  
@@ -439,10 +462,13 @@ __that’s the spirit!__ That’s the right kind of attitude to have in order to
 __the (hand)writing on the wall__  
 __the last of the lot__ The last or final person(s) or thing(s) in a given group or list. _This package is the last of the lot. Once we get this shipped, we can call it a day._  
 __the last thing (one) wants__ Something which one absolutely does not want or has no use for. _The last thing I want right now is a lengthy court battle, so let’s try and get through this divorce as painlessly as possible._  
+__the real deal__  
+__the small of (one’s)/the back__  
 __think small__ The idiom “think small” refers to adopting a mindset that focuses on modest goals, limited ambitions, or a more conservative approach, often in contrast to the more common phrase “think big,” which encourages setting lofty, ambitious objectives.  
 __to a T__  
 __to the contrary__ Opposite to what has just been said.  
 __tooth and nail__ Furiously or fiercely; with all of one’s strength and effort.  
+__top-heavy__ __1__ _slang_ Of a woman, having very large breasts. __2__ _slang_ Of a man, having large upper-body muscles with relatively small lower-body muscles.  
 __turd blossom__  
 __turn a blind eye to something__  
 __turn of phrase__  
@@ -453,12 +479,16 @@ __upper__ Any recreational drug, typically an amphetamine, taken as a stimulant.
 __wait and see__  
 __walk in__ To enter some establishment or event as a casual attendee.  
 __warts and all__ :dart: Including any imperfections or flaws. _If you’re going to marry him, then you better love him, warts and all._  
+__watershed moment__  
+__well-to-do__ _A well-to-do doctor._  
+__wet kiss__  
 __when pigs can fly__ At a point in time that will never come to pass. (Used to show skepticism or cynicism over some hypothetical situation or outcome.)  
 __where to draw the line__  
 __whip out__ :two::hammer:  
 __whizz__ _slang_ (whiz) (Recreational Drugs) A slang word for amphetamine.  
 __wild ride__ A _wild ride_ refers to an experience or adventure that is thrilling, intense, unpredictable, and often exhilarating.  
 __willy-nilly__ :two::hammer: [:scroll: This expression is a shortened form of ‘willing or not willing.’]  
+__wind down__ __2__ To cause something to slow and near an ending. In this usage, a noun or pronoun can be used between “wind” and “down.” _We’ll wind down our practice with some gentle stretches._  
 __with the naked eye__ _They can be seen with the naked eye._  
 __work out__  
 __you are what you eat__ One’s overall health is linked to one’s eating habits. The phrase is often used to promote proper nutrition.  
