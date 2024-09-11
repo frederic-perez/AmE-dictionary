@@ -12,10 +12,12 @@ __as simple (smt?) as it gets__ :dart:
 __as we speak__ At this very moment.  
 __at (the) worst__ (at its very worst) Under the most negative circumstances, estimation, or interpretation: At worst, the storm will make us postpone the trip.  
 __at any rate__  
+__at its best__  
 __at the outset__ At the beginning.  
 __at the top of (one’s) voice__ As loudly as one can.  
 __aw shucks__ :dart: __1__ An expression of shyness, happiness, or embarrassment. _A: “You’re just too sweet!” B: “Aw shucks, you’re gonna make me blush.”_ _Aw shucks, it was nothing. I was happy to help._ _Aw shucks, that’s so nice of you to say! Thank you!_ __2__ An expression of disappointment. _Aw shucks, it looks like we’re going to lose the game after all._  
 __back in the saddle__  
+__balderdash__ /ˈbɔːldəˌdæʃ/ Nomsense. Stupid or illogical talk; senseless rubbish.  
 __barb__ :two: A shortening of “barbiturate,” a drug class that consists of sedatives and hypnotics. _Barbs are dangerous, man—I’d stay away from them._  
 __bargain for (someone or something)__  
 __be on the safe side__ :dart:  
@@ -48,6 +50,7 @@ __dig and poke around__ The idiom “dig and poke around” generally means to s
 __double or quits__ A wager, undertaken after a previous wager, that stipulates two possible outcomes: if the winner of the previous wager wins again, they win twice the amount won in the previous wager; if they lose, they receive nothing. Primarily heard in UK.  
 __downed on (someone)__  
 __downer__  
+__drag (one’s) feet__  
 __drop in__ To visit someone casually or unexpectedly.  
 __dry run__ A practice session or test designed to identify and correct possible problems.  
 __educated guess__ A thoughtful, well-reasoned guess; a guess with some basis in one’s knowledge.  
@@ -67,7 +70,9 @@ __for kicks__
 __for which read__ :dart: _Readjustment, scaling back, for which read — redundancies._ :es: léase  
 __fussbudget__ :dart: _informal_ One who tends to be fussy or particular, usually to an excessive or unnecessary degree. Primarily heard in US. _Don’t be such a fussbudget, huh? This really isn’t a big deal._ _Of course Vanessa found some miniscule issue that no one else would have noticed. She’s such a fussbudget._  
 __get (one, something) out of the system__  
+__get (something) out of (one’s) system__ __2__ To do something so that one no longer has the desire to do it anymore. _I got drinking and partying out of my system during college. I’m ready for a quieter life now._  
 __get lucky__  
+__get on famously__ To have an exceptionally good relationship (with someone); to get along very well. _I’m glad you finally got to meet my brother—I knew you two would get on famously._  
 __get something out of the way__ :dart: Deal with a task or difficulty so that it is no longer a problem or worry. _I’m glad I’ve got that visit to the dentist out of the way._  
 __ghosting__ _slang_  
 __gig__  
@@ -94,6 +99,7 @@ __go down the toilet__ To fail; to be ruined or destroyed; to be squandered or w
 __go for (something)__  
 __go into overdrive__ To start working very hard or quickly.  
 __go off the rails__  
+__go over the top__  
 __go overboard__ :two::hammer:  
 __go places__  
 __go south__  
@@ -110,6 +116,7 @@ __goop__
 __grapple with (someone or something)__ :three::hammer:  
 __grass__ _slang_ __1__ Marijuana.  
 __graze on (something)__ __1__ Of animals, to eat the greens or vegetables in a particular area or location. _I put up a fence to try to keep the deer from grazing on my land._  
+__grease monkey__ A mechanic, especially one who works on aircraft or automobiles.  
 __green thumb__  
 __hairpin bend__ :two: A very sharp, approximately 180° bend in a road.  
 __hanker for (something)__ To have a very strong, persistent desire or craving for something. _It is not something to hanker for._  
@@ -411,7 +418,7 @@ __on-site__
 __once and for all__  
 __once in a blue moon__ Very rarely.  
 __one size fits all__ :two::hammer:  
-__one-off__ :two::hammer:  
+__one-off__ :three::hammer:  
 __out of print__ No longer being printed and sold by a publisher.  
 __over and out__ Said to mark the end of communication between two people. Used especially in radio communication, in which it signals that a person is done speaking and does not expect a reply from the other person. _A: “Oh, and while you’re at the store, could you please get some milk, too?” B: “Sure thing. Over and out.”_  
 __photobomb__  
@@ -433,6 +440,7 @@ __quite a few__ (quite a lot; quite a bit; quite a number)
 __rags to riches__ Characterized by a rise from poverty to great or exceptional wealth. Hyphenated if used as a modifier before a noun.  
 __rake in__  
 __roast__  
+__round and round__ (around and around)  
 __rue the day (that something happened)__ To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
 __rule of law__  
 __rules of the road__  
@@ -474,6 +482,8 @@ __so much so that__
 __soft spot__  
 __something of sorts__ An inferior example of a kind of something.  
 __sort out__  
+__sounds familiar__  
+__speak (one’s) mind__ To voice one’s thoughts plainly or bluntly.  
 __speed__ _slang_ Any illicit stimulant drug, especially amphetamine or methamphetamine. _We all used to take speed during college to help us study._  
 __spend a penny__ _euphemism_ To go to the toilet. Primarily heard in UK.  
 __stamp of approval__ An indication of endorsement or authorization of something.  
@@ -487,16 +497,20 @@ __swig__ __1__ _n_ Adeep drink of liquor; a swallow of liquor. _She took a swig 
 __take (something) with a pinch of salt__ (take something with a dash/grain of salt)  
 __take on__ :two: __3__ To hire or employ someone; to contract someone for their services. A noun or pronoun can be used between “take” and “on.” _We take on a number of high-school graduates each year as interns to give them some work experience before they begin college._  
 __take the fall (for someone or something)__  
+__talk in tongues__  
+__tearjerker__  
 __test the water(s)__ To informally or casually attempt to gauge the reaction of a potential audience or recipient of something, or to try to get an idea of what something will be like before actually doing it. Likened to feeling the temperature of water before getting in.  
 __That’s a fact, jack!__ _humorous_ Used to emphasize that something is true.  
 __that’s the spirit!__ That’s the right kind of attitude to have in order to be successful.  
 __the (hand)writing on the wall__  
+__the hoi polloi__  
 __the last of the lot__ The last or final person(s) or thing(s) in a given group or list. _This package is the last of the lot. Once we get this shipped, we can call it a day._  
 __the last thing (one) wants__ Something which one absolutely does not want or has no use for. _The last thing I want right now is a lengthy court battle, so let’s try and get through this divorce as painlessly as possible._  
 __the man to see__  
 __the real deal__  
 __the small of (one’s)/the back__  
 __the three Rs__ The three tenets of education traditionally considered the most basic or essential: reading, writing, and arithmetic. (So named for the prominent “R” sound at the beginning of each word.) _We learned the three Rs._  
+__the upshot (of something)__ The final or resulting outcome, conclusion, or consequence (of something).  
 __think small__ The idiom “think small” refers to adopting a mindset that focuses on modest goals, limited ambitions, or a more conservative approach, often in contrast to the more common phrase “think big,” which encourages setting lofty, ambitious objectives.  
 __to a T__  
 __to the contrary__ Opposite to what has just been said.  
@@ -510,6 +524,7 @@ __under false pretenses__ With a false impression created through intentional mi
 __under-promise and over-deliver__ To avoid raising expectations in order to subsequently exceed them. Used as a strategy to ensure the satisfaction of one’s client, customer, boss, etc. Also spelled without hyphens.  
 __up (one’s) alley__ Well suited to one’s interests. _I really like Romantic poetry, so this class on John Keats should be up my alley._  
 __upper__ Any recreational drug, typically an amphetamine, taken as a stimulant. _I got hooked on uppers in college when I took them to help me study for long hours._  
+__usual suspects__  
 __wait and see__  
 __walk in__ To enter some establishment or event as a casual attendee.  
 __warts and all__ :dart: Including any imperfections or flaws. _If you’re going to marry him, then you better love him, warts and all._  
@@ -525,11 +540,13 @@ __willy-nilly__ :two::hammer: [:scroll: This expression is a shortened form of �
 __wind down__ __2__ To cause something to slow and near an ending. In this usage, a noun or pronoun can be used between “wind” and “down.” _We’ll wind down our practice with some gentle stretches._  
 __with a start__ The phrase “with a start” refers to a sudden, involuntary movement or reaction, typically caused by surprise or alarm. It is often used to describe the action of waking up abruptly, as in the expression “I woke up with a start.” _I dreamed about falling and I woke with a start._  
 __with the naked eye__ _They can be seen with the naked eye._  
+__work like a Trojan__  
 __work out__  
 __you are what you eat__ One’s overall health is linked to one’s eating habits. The phrase is often used to promote proper nutrition.  
 __you(’d) better believe it__ Absolutely, without question; rest assured.  
 __yup__  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
+__zero hour__  
 __zero in__ :two::hammer:  
 __zig when (one) should zag__  
 __zippy__  
