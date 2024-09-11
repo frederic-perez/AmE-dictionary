@@ -5500,12 +5500,13 @@ __doctoring__ _n_ The act of making different in order to deceive, tamper with, 
 __doctrinaire__ _adj_ /dahk-truh-NAIR/  
 __docuseries__ _n_ :three: A documentary, or a collection of documentaries, telecast in a series of programs.  
 __dodder__ _v_ :two: (doddering) Walk unsteadily. _Syn_ coggle, totter _The two elderly ladies were slowly doddering along, minding their own business, when a bike messenger sped by them on the sidewalk and nearly knocked them over._  
+__doddering__ _adj_ Infirm, feeble, and often senile. _Syn_ gaga, senile  
 __doddle__ _n_ _informal Brit_ something easily accomplished. Something easily done, fixed, etc.  
 __dodgeball__ _n_  
 __dodgem__ _n_ An amusement-park ride consisting of small, electrically powered vehicles, whose drivers move them about erratically within an enclosed area, frequently bumping one another.  
 __dodges__ _n_  
 __dodgy__ _adj_ _slang_ :four::dart: /ˈdɒdʒɪ/ __1__ Risky, difficult, or dangerous. __2__ Uncertain or unreliable; tricky. Dishonest or unreliable. Marked by skill in deception. _They try to protect members from dodgy sites._  
-__dodo__ _n_ _informal_ :three: A stupid person; an idiot. Extinct flightless bird whose name has become synonymous with stupidity.  
+__dodo__ _n_ :four: _informal_ A stupid person; an idiot. Extinct flightless bird whose name has become synonymous with stupidity. __2__ _informal_ An intensely conservative or reactionary person who is unaware of changing fashions, ideas, etc.  
 __doe__ _n_ :three::hammer::pencil2: _The young doe will be moved to the E.L. Johnson Nature Center._  
 __doer__ _n_  
 __doeskin__ _n_ :two::hammer: _A roeskin belt._ _A doeskin wallet._  
@@ -5541,9 +5542,11 @@ __doldrum__ _n_ :four::hammer: (doldrums)
 __doldrums__ _n pl_ (plurale tantum)  
 __dole out__ _v_ :nine::m: (doled out, doling out) To give or deliver in small portions. _Pringles will dole out thousands of speakers that fit atop Pringles cans and amplify music from MP3 players._ _Doling out a familiar meal._  
 __dole__ _n_  
+__doleful__ _adj_ Filled with or expressing grief. _Syn_ mournful  
 __dolirometer__  
 __dollhouse__  
 __dollop__ _n_ :seven::dart: (dollops) A dollop is a small, indefinite amount of something. People often ask for dollops of food. English has many words for amounts of something that aren’t exact. For example, a load is a lot of something, but a dollop is a little. If you’re watching your weight, you may only want a dollop of dressing on your salad. Most people use a dollop of shampoo when washing their hair. You can’t measure a dollop, but it’s should be a fairly small amount. If you use a whole bottle of ketchup, that’s far more than a dollop. _A dollop of caviar._ _An extra dollop of drama._  
+__dolorifuge__ _n_ Something that banishes or mitigates grief.  
 __dolorous__ _adj_ /DOH-luh-rus/ Causing, marked by, or expressing misery or grief.  
 __dolphin kick__ _n_  
 __dolt__ _n_ :two: A stupid person; a dunce.  
@@ -5581,7 +5584,7 @@ __doorpost__
 __doorsill__ _n_  
 __doorway__ _n_ The entranceway to a room, building, or passage. :es: entrada, portal, puerta _Garlands hang down doorways and balconies._  
 __doozy__ _n informal_ :seven: Something extraordinary, impressive, or unique: _a doozy of a hailstorm._ Something outstanding or unique of its kind. _It’s gonna be a doozy of a black eye._  
-__dopamine__ _n_ :three::mega::hammer:  
+__dopamine__ _n_ :four::mega::hammer: _Dopamine hit/rush._  
 __dope<sup>1</sup>__ _n_ :three::hammer: __3__ _Informal_ A stupid person; a dolt. _It has everything you want to know ... with 200 photos, complete rosters ond schedules of oil major-league teams, inside dope about each club and player in the league._  
 __dope<sup>2</sup>__ _adj_ _informal_ :five: Very good. A slang word that is used to define someone or something great, wonderful, fantastic. _He is dope._  
 __doper__ _n_  
@@ -5590,7 +5593,7 @@ __doppelganger__ _n_
 __Doritos__ _n_ :mega: _A bag of Doritos (corn chips)._  
 __dork__ _n_ :four: (dorks) __1__ _slang_ A stupid, inept, or foolish person. A socially awkward person. _The stupid antics of America’s favorite teen-age cartoon dorks. (Joshua Mooney)._ __2__ _Vulgar Slang_ The penis.  
 __dorm__ _n_  
-__dormant__ _adj_ :four::hammer: /ˈdɔːmənt/ (dormient) __1__ Quiet and inactive, as during sleep. __2__ Latent or inoperative.  
+__dormant__ _adj_ :five::hammer: /ˈdɔːmənt/ (dormient) __1__ Quiet and inactive, as during sleep. __2__ Latent or inoperative. _The infection goes dormant for 10–20 years._  
 __dormer__ _n_ :camera:  
 __dormitory__ _n_ __1__ A college or university building containing living quarters for students. _Syn_ dorm, residence hall, student residence, hall  
 __dornick__ _n_ A small stone that is easy to throw.  
@@ -5658,7 +5661,7 @@ __downhill<sup>1</sup>__ _adv_ :camera::three: __1__ Down the slope of a hill. _
 __downhill<sup>2</sup>__ _adj_ Sloping downward; descending.  
 __downline__ _n_  
 __downplay__ _vt_ :nine::m: To minimize the significance of; play down: _downplayed the bad news._ _Do not downplay your dreams._  
-__downpour__ _n_ :eight: /ˈdaʊnˌpɔː/ /ˈdaʊnˌpɔr, -ˌpoʊr/ A heavy, drenching rain. A heavy continuous fall of rain. _Torrential downpours._ _Heavy downpours can cause flash flooding._ :es: aguacero, chubasco, chaparrón  
+__downpour__ _n_ :nine: /ˈdaʊnˌpɔː/ /ˈdaʊnˌpɔr, -ˌpoʊr/ A heavy, drenching rain. A heavy continuous fall of rain. _Syn_ pelter, soaker, torrent, cloudburst, deluge, waterspout _Torrential downpours._ _Heavy downpours can cause flash flooding._ :es: aguacero, chubasco, chaparrón  
 __downright<sup>1</sup>__ _adj_ :two::hammer: _Downright ridiculous._  
 __downright<sup>2</sup>__ _adv_ :dart::eight::hammer: _Not to mention, just downright good looking._ _Downright goofy._ _It is downright fun._  
 __downsample__ _v_  
@@ -5704,6 +5707,7 @@ __drain<sup>1</sup>__ _v_ :six::hammer: (drained) _They laughed and drained thei
 __drain<sup>2</sup>__ _n_ A pipe or channel by which liquid is drawn off.  
 __drama__ _n_ :mega:  
 __dramatic__ _adj_ :two::hammer: _Dramatic landscapes._ _Watch dramatic aerial displays._  
+__dramatis personae__ _n_  
 __dramatist__ _n_ :two: Someone who writes plays. _Syn_ playwright  
 __dramedy__ _n_ :three::hammer:  
 __drape<sup>1</sup>__ _n_ :three: Long curtains. _Katherine pulled back the heavy velvet drapes._ _Silk drape._  
@@ -5834,7 +5838,7 @@ __duchy__ _n_ :three::hammer:
 __duck down__ _n_ Down of the duck. _The pillow contains 30 percent duck down and 70 percent duck feathers._  
 __duck reuben sandwich__  
 __duck__ _v_ __1__ Lower the head or the body quickly to avoid a blow or missile or so as not to be seen. _Spectators ducked for cover._ _Syn_ bob down, bend (down) __2__ _informal_ Evade or avoid (an unwelcome duty or undertaking). _A responsibility which a less courageous man might well have ducked._ _Syn_ shirk, dodge, evade, avoid __3__ :dart: Push or plunge (someone) under water, either playfully or as a punishment. _Rufus grabbed him from behind to duck him under the surface._ _Syn_ dip, dunk, plunge, immerse, submerge, lower, sink :es: hacer ahogadillas  
-__duckboard__ _n_ :two: (duckboards) A board or boards laid so as to form a floor or path over wet or muddy ground.  
+__duckboard__ _n_ :three: (duckboards) A board or boards laid so as to form a floor or path over wet or muddy ground.  
 __duckling__ _n_ (ducklings) A young duck.  
 __duckweed__  
 __ducky__ _adj_ _slang_ Excellent; fine.  
@@ -5860,10 +5864,10 @@ __duffle bag__ _n_ :dart: A large cylindrical cloth bag of canvas or duck for ca
 __duffle coat__  
 __dug__ _n_  
 __dugout__ _n_ :two::hammer:  
-__dulcet__ _adj_ :four: __1__ Sweet to the taste. _Dulcet icing._ __2__ Pleasing to the ear. _Syn_ mellifluous, honeyed, sweet _I turned on the record, closed my eyes, and allowed the dulcet tones of the cello to melt away the stress of my day._ __3__ Generally pleasing or agreeable.  
+__dulcet__ _adj_ :five: /DUL-sut/ __1__ Sweet to the taste. _Dulcet icing._ __2__ Pleasing to the ear. _Dulcet_ is a formal word used to describe sounds that are pleasant to hear. It is often used in the phrase “dulcet tones.” _Syn_ mellifluous, honeyed, sweet _I turned on the record, closed my eyes, and allowed the dulcet tones of the cello to melt away the stress of my day._ __3__ Generally pleasing or agreeable.  
 __dulcimer__ _n_ :two::hammer:  
-__dull<sup>1</sup>__ _adj_ :two::hammer: _Never a dull moment._  
-__dull<sup>2</sup>__ _v_ _It dulls thinking._  
+__dull<sup>1</sup>__ _adj_ :three::hammer: /dʌl/ _Never a dull moment._  
+__dull<sup>2</sup>__ _v_ :two::hammer: _It dulls thinking._ _Spend less time with people who dull you._  
 __dullard__ _n_ :two: A person regarded as mentally dull. _Syn_ dolt, pillock, poor fish, pudding head  
 __dully__ _adv_  
 __duly__ _adv_ :five::hammer: _Couples duly married._ _Duly noted._ (:es: correctly or appropriately recorded)  
@@ -5872,6 +5876,7 @@ __dumb__ _adj_ :four::hammer::mega::mute:[dum~~b~~] _Dumb jokes._
 __dumbbells__ _n_ :two: (dumbbell, dumb-bell) A short bar with a weight at each end, used typically in pairs for exercise or muscle-building. :es: mancuernas  
 __dumbfound__ _v_ :four::hammer: (dumbfounded) _This swaggering gesture by a petty German prince, ruler of a narrow territory, dumbfounded the court._  
 __dumbstruck__ _adj_ :two::hammer:  
+__dumbwaiter__ _n_ A small elevator used to convey food (or other goods) from one floor of a building to another. _Syn_ food elevator  
 __dummy__ _n_  
 __dump<sup>1</sup>__ _n_ :two::hammer: __3__ An unordered accumulation; a pile. _A munitions dump._  
 __dump<sup>2</sup>__ _v_ :two::hammer: _Dumping ash on the carpet._ _They walkes to the trash can and dumped their cups._  
@@ -5892,7 +5897,7 @@ __duped__ _v_ :six::hammer: _He had been duped by her._ _Putin feels that the We
 __duplex__ _n_ :two::hammer: (duplexes)  
 __duplicitous__ _adj_ :four: Given to or marked by deliberate deceptiveness in behavior or speech. _A duplicitous cigarette industry._  
 __duplicity__ _n_ :dart: /doo-PLISS-uh-tee/ Duplicity is a formal word that refers to dishonest behavior meant to trick or deceive someone.  
-__durable<sup>1</sup>__ _adj_ :three::hammer: _The end of durable Red John story line is a new beginning._  
+__durable<sup>1</sup>__ _adj_ :four: /DUR-uh-bul/ _Durable_ describes people or things that last, or remain strong and in good condition over a long period of time. It is often used figuratively, as in “a durable athlete.” _The end of durable Red John story line is a new beginning._  
 __durable<sup>2</sup>__ _n_  
 __duration__  
 __duress__ _n_ :nine::m: /dur-RESS/ __1__ Compulsion by use of force or threat; constraint; coercion (often in the phrase _under duress_). _The ability to think under duress._ _The defense asserts that the defendant’s confession was made under duress._ __2__ (Law) The illegal exercise of coercion. __3__ Confinement; imprisonment.  
@@ -5916,7 +5921,7 @@ __dye__ _v_ (dyes, dyed, dyeing) :two::pencil2::hammer: _Sail the dyed green wat
 __dyed-in-the-wool__ _adj_ /dyde-in-thuh-WOOL/ Someone described as dyed-in-the-wool has very strong, uncompromising beliefs or opinions.  
 __dyke__ _n informal_ :four: A lesbian. _She wasn’t a dyke, either._  
 __dynamo__ _n_ :astonished: __2__ An extremely energetic and forceful person: _a vice president who was the real dynamo of the corporation._  
-__dynasty__ _n_ :three::pencil2::hammer:  
+__dynasty__ _n_ :four::pencil2: /DYE-nuh-stee/ Dynasty refers to a group (such as a team, family, etc.) that is very powerful or successful for a long period of time. It is also often used for a family of rulers who rule over a country for a long period of time, as well as the period of time when a particular dynasty is in power.  
 __dys-__ _prefix_ __1__ Abnormal; impaired: _dysfunctional._ __2__ Difficult; painful: _dysmenorrhea._  
 __dysarthria__ _n_ Difficulty in articulating words, caused by impairment of the muscles used in speech.  
 __dysentery__ _n_ :two: Infection of the intestine with bacteria or amoebae, marked chiefly by severe diarrhoea with the passage of mucus and blood.  
@@ -5957,7 +5962,7 @@ __earpiece__ _n_ _Roz was screaming in my earpiece that we were running out of t
 __earplug__ _n_ :pencil2:  
 __earring__ _n_ :three::pencil2: An ornament worn on or suspended from the ear, especially the earlobe.  
 __earth-shattering__  
-__earthing__ _n_ Fastening electrical equipment to earth.  
+__earthing__ _n_ :two: Fastening electrical equipment to earth. _Syn_ grounding  
 __Earthling__ _n_  
 __earthly__ _adj_  
 __earthquake drill__  
@@ -5965,7 +5970,7 @@ __earthshine__ _n_ :two: The sunlight reflected from the earth’s surface that 
 __earthworks__ _n_  
 __earthy__ _adj_  
 __earwig__  
-__earworm__ _n_ :two: A song that gets stuck in your head; also called sticky tune.  
+__earworm__ _n_ :three: _informal_ /ˈɪəˌwɜːm/ A song that gets stuck in your head; also called sticky tune.  
 __ease__ _v_ :astonished: _He started easing a set of levers._  
 __easement__  
 __easing__  
@@ -5973,6 +5978,7 @@ __Easter egg__ _n_ :two: __1__ A dyed or decorated egg, traditionally associated
 __Eastern Block__ _n_ (the Eastern bloc) _politics_ (formerly) The Soviet bloc.  
 __easy as can be__  
 __easy chair__ _n_ :four: A large, comfortable, upholstered chair.  
+__easy__ _adj, adv_ :mega: /ˈiːzɪ/  
 __easy-chair__  
 __easy-to-use__ _adj_ Straightforward and simple to use. _An easy-to-use disposable camera._  
 __easygoing__ _adj_ :four::hammer: (easy-going) _Easygoing people._  
@@ -5983,7 +5989,7 @@ __ebb and flow__ _n_ :seven: (ebbed and flowed, ebbs and flows) Used to describe
 __ebb<sup>1</sup>__ _n_ _A noticeable ebb of despair._  
 __ebb<sup>2</sup>__ _v_ :two::hammer: _My confidence was ebbing._  
 __ebullience__ _n_  
-__ebullient__ _adj_ :six: Overflowing with fervor, enthusiasm, or excitement; high-spirited. Very happy and enthusiastic. Zestfully enthusiastic. _Syn_ exuberant, high-spirited _The ebullient young scientist couldn’t wait to share their latest discovery._  
+__ebullient__ _adj_ :seven: /ih-BULL-yunt/ Overflowing with fervor, enthusiasm, or excitement; high-spirited. Very happy and enthusiastic. Zestfully enthusiastic. _Syn_ exuberant, high-spirited _The ebullient young scientist couldn’t wait to share their latest discovery._  
 __ebullition__ _n_ An unrestrained expression of emotion. _Syn_ effusion, outburst, blowup, gush  
 __eccentric__ _adj_ /ik-SEN-trik/ __1__ People and things that deviate from conventional or accepted usage or behavior, especially in odd or whimsical ways. _Down the road from us lives an eccentric old man who claims that he can communicate with the birds that roost in his yard._ __2__ Deviating from a circular path. _The dwarf planet Pluto has a particularly eccentric orbit._ __3__ Located elsewhere than at the geometric center.  
 __eccentricity__ _n_  
@@ -5994,13 +6000,14 @@ __echoism__ _n_ /EK-oh-iz-uhm/ The formation of words by imitating sounds; also 
 __echt__ _adj_ /EKHT/ Echt is an adjective used mostly in formal or literary speech and writing as a synonym of authentic, genuine, and true.  
 __eclampsia__  
 __éclat__ _n_  
-__eclectic__ _adj_ :two::pencil2::hammer:  
+__eclectic__ _adj_ :three::pencil2::hammer: /ih-KLEK-tik/  
 __eclipse<sup>1</sup>__ _n_ :three::hammer::mega: /ɪˈklɪps/  
 __eclipse<sup>2</sup>__ _vt_ /ɪˈklɪps/  
 __ecliptic__ _n_  
 __ecology__ _n_  
 __ecosystem__ _n_  
 __ecstatic__ _adj_ :two::hammer:  
+__ectopic pregnancy__ _n_ Implantation and subsequent development of a fertilized ovum outside the uterus, as in a fallopian tube.  
 __ectopic__ _adj_ _Ectopic pregnancy._  
 __Ecuadorian__ _n_ A native or inhabitant of Ecuador.  
 __ecumenical__ _adj_ :three: Of worldwide scope or applicability. _Syn_ universal _The movement against violence is intended to be an ecumenical one, applicable to all nations._  
@@ -6096,7 +6103,8 @@ __electrical outlet__ _n_ (outlet, electrical socket, plug, wall plug)
 __electrocute__ _vt_  
 __electrolysis__ _n_ :two::pencil2::hammer:  
 __electronics__ _n pl_ (plurale tantum)  
-__elegy__ _n_ :five::mega: A mournful poem; a lament for the dead. _Syn_ lament, requiem, dirge _Standing beside his departed friend’s casket, Mike delivered a moving elegy that brought everyone in the room to tears._  
+__eleemosynary__ _adj_  
+__elegy__ _n_ :six::mega: A mournful poem; a lament for the dead. _Syn_ lament, requiem, dirge _Standing beside his departed friend’s casket, Mike delivered a moving elegy that brought everyone in the room to tears._  
 __elephantine__ _adj_ :mega: Of great mass; huge and bulky. _Syn_ gargantuan, giant, jumbo  
 __elevator boy__  
 __elevator control box__  
@@ -6115,6 +6123,7 @@ __ellipsis__ _n_ /ɪˈlɪp sɪs/ An ellipsis is a series of three consecutive pe
 __elliptic__ _adj_ /i-LIP-tik/ __1__ Marked by extreme economy of expression in speech or writing. __2__ Cryptic, ambiguous, or obscure. __3__ Marked by ellipsis: the omission of one or more words from a sentence. __4__ Relating to or shaped like an ellipse.  
 __elliptical machine__ _n_ _He was working out on an elliptical machine._  
 __elope__ _vi_ :nine::m::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
+__eloquence__ _n_ Powerful and effective language. _Syn_ fluency, smoothness  
 __eloquent__ _adj_ :two::hammer: /EL-uh-kwunt/  
 __elucidate__ _v_ :five: /ih-LOO-suh-dayt/ /ɪˈluːsɪˌdeɪt/ To make something that is hard to understand clear or easy to understand. _The author elucidates complex ideas to a general audience._  
 __elucidation__ _n_  

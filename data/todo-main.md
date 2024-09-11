@@ -48,31 +48,6 @@ __condone__ _v_
 __convenience food__ _n_ :dart: A prepackaged food that can be prepared quickly and easily.  
 __copious__ _adj_ /KOH-pee-us/ _Copious_ is a synonym of abundant and plentiful. It is always used before a noun to describe something very large in amount or number.  
 __cot death__ _n_ _Br E_ Sudden infant death syndrome.  
-__doddering__ _adj_ Infirm, feeble, and often senile. _Syn_ gaga, senile  
-__dodo__ _n_ __2__ _informal_ An intensely conservative or reactionary person who is unaware of changing fashions, ideas, etc.  
-__doleful__ _adj_ Filled with or expressing grief. _Syn_ mournful  
-__dolorifuge__ _n_ Something that banishes or mitigates grief.  
-__dopamine__ _n_ _Dopamine hit/rush._  
-__dormant__ _adj_ _The infection goes dormant for 10–20 years._  
-__downpour__ _n_ A heavy fall of rain. _Syn_ pelter, soaker, torrent, cloudburst, deluge, waterspout  
-__dramatis personae__ _n_  
-__duckboard__  
-__dulcet__ _adj_ /DUL-sut/ _Dulcet_ is a formal word used to describe sounds that are pleasant to hear. It is often used in the phrase “dulcet tones.”  
-__dull<sup>1</sup>__ _adj_ /dʌl/  
-__dull<sup>2</sup>__ _v_ _Spend less time with people who dull you._  
-__dumbwaiter__ _n_ A small elevator used to convey food (or other goods) from one floor of a building to another. _Syn_ food elevator  
-__durable__ _adj_ /DUR-uh-bul/ _Durable_ describes people or things that last, or remain strong and in good condition over a long period of time. It is often used figuratively, as in “a durable athlete.”  
-__dynasty__ _n_ /DYE-nuh-stee/ Dynasty refers to a group (such as a team, family, etc.) that is very powerful or successful for a long period of time. It is also often used for a family of rulers who rule over a country for a long period of time, as well as the period of time when a particular dynasty is in power.  
-__earthing__ _n_ Fastening electrical equipment to earth. _Syn_ grounding  
-__earworm__ _n_ _informal_ /ˈɪəˌwɜːm/  
-__easy__ _adj, adv_ :mega: /ˈiːzɪ/  
-__ebullient__ _adj_ /ih-BULL-yunt/  
-__eclectic__ _adj_ /ih-KLEK-tik/  
-__ectopic pregnancy__ _n_ Implantation and subsequent development of a fertilized ovum outside the uterus, as in a fallopian tube.  
-__egregious__  
-__eleemosynary__ _adj_  
-__elegy__ _n_  
-__eloquence__ _n_ Powerful and effective language. _Syn_ fluency, smoothness  
 __fallacious__ _adj_ /fuh-LAY-shus/ _Fallacious_ is a formal word that typically describes something, such as an argument or assumption, that is false or inaccurate and that tends to mislead or deceive others.  
 __fanfare__ _n_ /FAN-fayr/ __1__ A showy public display. __2__ A brief, lively sounding of brass instruments, especially trumpets, in a celebration.  
 __far-fetched__ _adj_ Improbable in nature; unlikely.  
