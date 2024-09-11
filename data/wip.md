@@ -1,31 +1,3 @@
-__dry run__ A practice session or test designed to identify and correct possible problems.  
-__bits and pieces__ Sundry little items, tasks, or chores.  
-__smell a rat__ To suspect an instance of betrayal, deception, or corruption.  
-__pull (one’s) weight__ To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
-__a stone’s throw__ :two: A very short distance.  
-__call of nature__ The urge to urinate or defecate. _I have to attend to the call of nature._  
-__give a hiding__ The idiom “give a hiding” primarily means to deliver a severe beating or punishment. This usage is particularly common in British English, where it can refer to both physical punishment and a figurative sense of defeat.  
-__the three Rs__ The three tenets of education traditionally considered the most basic or essential: reading, writing, and arithmetic. (So named for the prominent “R” sound at the beginning of each word.) _We learned the three Rs._  
-__be partial to (someone or something)__ To be particularly fond of someone or something; to have someone or something as one’s favorite or preference.  
-__spend a penny__ _euphemism_ To go to the toilet. Primarily heard in UK.  
-__pinch__ _slang_ :two: __1__ _v_ To steal something.  
-__give something a miss__ _I’ll give coffee a miss; I’m off to bed now._  
-__poppy appeal__  
-__(it’s) just as well (that) (something happened)__ It is or turned out to be beneficial (that something happened). _It turned out we had a pop quiz on Monday. Just as well I was studying this weekend!_  
-__close shave__  
-__six in one, (and) half a dozen in the other__ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
-__barb__  
-__the man to see__  
-__with a start__ The phrase “with a start” refers to a sudden, involuntary movement or reaction, typically caused by surprise or alarm. It is often used to describe the action of waking up abruptly, as in the expression “I woke up with a start.” _I dreamed about falling and I woke with a start._  
-__for all I know__  
-__get (one, something) out of the system__  
-__in full swing__  
-__no picnic__ _It’s no picnic walking around with a guilty conscience._  
-__trip along__  
-__jungle law__  
-__know by heart__  
-__for which read__ :dart: _Readjustment, scaling back, for which read — redundancies._ :es: léase  
-__stands to reason__  
 __undercut__ _v_  
 __nursing__ _n_ __1__ The profession of a nurse. __2__ The tasks or care of a nurse.  
 __occasionally__ _adv_ :pencil2: Now and then; from time to time.  
@@ -86,8 +58,6 @@ __miniscule__ _adj_ :astonished:
 __cornpone__ _n_  
 __inviting__ _adj_ :two: Attractive; tempting: _an inviting dessert._  
 __prissy__  
-__fussbudget__ :dart: _informal_ One who tends to be fussy or particular, usually to an excessive or unnecessary degree. Primarily heard in US. _Don’t be such a fussbudget, huh? This really isn’t a big deal._ _Of course Vanessa found some miniscule issue that no one else would have noticed. She’s such a fussbudget._  
-__hell-bent__ Very determined to do something, perhaps annoyingly or recklessly so.  
 __stakeout__  
 __usual suspects__  
 __at its best__  
@@ -95,9 +65,9 @@ __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to de
 __big game__  
 __ogle__ _v_  
 __bonnet__ _n_ :three::hammer:  
-__pressing__ _A pressing need._  
-__nonplussed__ :pencil2:  
-__wispy__ _Wispy hair._  
+__pressing__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._  
+__nonplussed__ _adj_ :pencil2:  
+__wispy__ _adj_ Wisplike; delicate, faint, light, etc. _Wispy hair._  
 __heathen__ _adj, n_ :two::hammer: _Heathens like me._  
 __smiting__ _v_  
 __throb__ _v_ _My hand was throbbing._  
@@ -110,7 +80,7 @@ __bow-legged__ _adj_ :three::hammer:
 __outlay__ _n_  
 __hotplate__ _n_ :two::hammer:  
 __klunk__ _n_ (noise?)  
-__enlighened__ _Enlightened despot._  
+__enlightened__ _adj_ _Enlightened despot._  
 __roar__ _n_  
 __hiss__ _v_ :three::hammer:  
 __descant__ _n_  
@@ -124,31 +94,23 @@ __reprieve__ _n_
 __squeegee__  
 __sludge__ _n_  
 __spades__ _n_  
-__lug__ _Lug of hair._  
 __fru__  
-__overnight__ _It happened almost overnight._  
+__overnight__ _adj, adv, n_ _It happened almost overnight._  
 __self-assured__  
 __birch tree__  
 __dinghy__ _n_  
 __bleak__ _adj_  
-__as simple (smt?) as it gets__ :dart:  
-__enjoy oneself__  
-__slip__ (mistake, uttered)  
-__in a month time__  
-__loose cannon__  
-__prick teaser__  
 __endure__ _v_ _I could hardly even endure my own reflection in the mirror._  
 __self-contempt__  
 __golden plover__ _n_  
 __round and round__  
 __broach__ _v_  
-__hanker for__ _It is not something to hanker for._  
 __calendar year__  
 __millpond__  
 __squelch__ _v_  
 __trawl__ _v_  
 __cowed__  
-__red-hot__ _The red-hot property market._  
+__red-hot__ _adj_ __2__ Heated, as with excitement, anger, or enthusiasm: _a red-hot speech._ _The red-hot property market._  
 __tearjerker__  
 __cleaning agent__  
 __plumb__ _adj, adv, n_ _Bruises and plumb lines._  
