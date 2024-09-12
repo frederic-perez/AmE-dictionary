@@ -15,6 +15,7 @@ __archway__ _n_ :es: pasaje abovedado
 __armistice__ _n_  
 __arthralgia__ _n_ är-thrăl′jə/ Neuralgic pain in a joint or joints.  
 __aspersion__ _n_ /uh-SPUHR-zhuhn/shuhn/ __1__ A damaging accusation: slander. __2__ The sprinkling with water, as in baptism.  
+__attractant__ _n_ A substance, such as a pheromone, that attracts insects or other animals.  
 __attritional__ _adj_ :dart: Relating to or caused by attrition. _Attritional battles._  
 __au pair__ _n_ A young foreigner who provides childcare for a family in exchange for room and board, often a small stipend, and the opportunity to study.  
 __audacity__ _n_ :dart: Fearless daring; intrepidity. _Syn_ temerity  
@@ -28,7 +29,9 @@ __big game__ _n_ __1__ Large animals or fish hunted or caught for sport.
 __birch tree__  
 __bleak__ _adj_  
 __blithely__ _adv_ In a joyous manner.  
+__board__ _v_ __17__ To furnish with meals, or with meals and lodging, esp. for pay.  
 __bog__ _n_ _A cow grazing in a bog._  
+__boiler suit__ _n_ _BrE_ A one-piece work garment consisting of overalls and a shirt top usually worn over ordinary clothes to protect them.  
 __bonnet__ _n_ :three::hammer:  
 __booby trap__ _n_  
 __bow-legged__ _adj_ :three::hammer:  
@@ -43,8 +46,10 @@ __broach__ _v_
 __broad__ _adj_ _In broad daylight._  
 __brow__ _n_ The projecting upper edge of a steep place. _Syn_ top, summit, peak, edge, tip, crown, verge, brink, rim, crest, brim  
 __brushwood__ _n_  
+__bucket shop__ _n_  
 __burl__ _vt_  
 __bursary__ _n_  
+__bustle__ _n_  
 __byword__ _n_ _Syn_ adage, aphorism, maxim, motto, proverb, saw, saying  
 __Byzantine__ _adj_ /BIZ-un-teen/  
 __cad__ _n informal_ _old-fashioned_ _Brit_ A man who does not behave in a gentlemanly manner towards others.  
@@ -71,6 +76,7 @@ __clearing bank__ _n_ (in Britain) Any bank that makes use of the central cleari
 __close-knit__ _adj_ Held tightly together, as by social or cultural ties: _a close-knit family._  
 __clued up__ _adj_ _BrE_ _informal_ Knowledgeable about a topic or situation; possessing the facts. :es: al tanto (de), al corriente (de)  
 __co-op__ _n_ A cooperative enterprise, building, or apartment.  
+__coach__ _n_ __1a__ A bus, especially one designed for long-distance passenger service.  
 __coda__ _n_  
 __colloquy__ _n_ :pencil2: /ˈkɒl ə kwi/  
 __coma__ _n_  
@@ -92,13 +98,17 @@ __curtly__ _adv_ _‘Congratulations,’ I said curtly._
 __deaf-mute__ _adj, n_  
 __degage__ _adj_ Showing lack of emotional involvement. _Syn_ detached, uninvolved  
 __demob__ _v_  
+__deport__ _vt_ __1__ To expel from a country: _deported the foreigner who had entered the country illegally._  
 __descant__ _n_  
 __dinghy__ _n_  
 __dishevelled__  
 __divide__ _n_  
 __divots__ _n_  
+__dodger__ _n_ __1__ One that dodges or evades: _a skilled dodger of reporters’ questions._  
 __dosser__ _n_ Someone who sleeps in any convenient place. _Syn_ street person  
+__dowsing__ _n_ The practice of prospecting for water or minerals using a divining rod. _Syn_ dowse, rhabdomancy  
 __drollery__ _n_ A quaint and amusing jest. _Syn_ waggery  
+__drop handlebars__ _n_ Low curved handles on a bicycle.  
 __duty solicitor__ _n_ (duty counsel, duty lawyer) A solicitor whose services are available to a person either suspected of, or charged with, a criminal offence free of charge (pro bono), if that person does not have access to a solicitor of their own and usually if it is judged by a means test that they cannot afford one. The system is operative in several Commonwealth countries, including the United Kingdom, Australia, New Zealand and Canada.  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
 __endure__ _v_ _I could hardly even endure my own reflection in the mirror._  
@@ -109,6 +119,7 @@ __exonerate__ _v_
 __fallacious__ _adj_ /fuh-LAY-shus/ _Fallacious_ is a formal word that typically describes something, such as an argument or assumption, that is false or inaccurate and that tends to mislead or deceive others.  
 __fanfare__ _n_ /FAN-fayr/ __1__ A showy public display. __2__ A brief, lively sounding of brass instruments, especially trumpets, in a celebration.  
 __far-fetched__ _adj_ Improbable in nature; unlikely.  
+__far-flung__ _adj_  
 __farsighted__ _adj_ Planning prudently for the future. _Syn_ foresighted, long, longsighted, prospicient  
 __fascia__  
 __faze__ _v_  
@@ -164,8 +175,10 @@ __gangrene__ _n_
 __gasp<sup>1</sup>__ _v_  
 __gasp<sup>2</sup>__ _n_ __1__ A short convulsive intake of breath.  
 __gateway__ _n_ __2__ Something that serves as an entrance or a means of access: _a gateway to success; the gateway to the West._  
+__general practitioner__ _n_ (GP) _Syn_ family doctor  
 __genteelism__ _n_ /jen-TEE-liz-uhm/ The substitution of a word that is believed to be more polite or refined. For example, washroom for lavatory.  
 __gerbil__ _n_ :es: jerbo  
+__gestalt__ _n_ _Gestalt therapy._  
 __giro__ _n_ __2__ _informal Brit_ An unemployment or income support payment by giro cheque, posted fortnightly.  
 __golden plover__ _n_  
 __grawlix__ _n_ :dart: /GRAW-liks/ A series of special characters, such as “@#$%&*,” that are used to indicate either miscellaneous text, or more commonly, swear words. The term is attributed to Mort Walker, an American cartoonist known for his Beetle Bailey comic strip.  
@@ -180,8 +193,13 @@ __gutsy__ _adj_ Marked by courage and determination in the face of difficulties 
 __hands-off__ _adj_ Characterized by nonintervention: a hands-off foreign policy.  
 __handyman__ _n_ :es: manitas  
 __hard-pressed__ _adj_  
+__hassle__ _n_  
+__hatha yoga__ _n_ A form of yogic exercise that emphasizes specific postures in combination with controlled breathing. It is widely practiced in the West.  
 __haversack__ _n_  
-__heathen__ _adj, n_ :two::hammer: _Heathens like me._  
+__havoc__ _n_  
+__heath__ _n_  
+__heathen<sup>1</sup>__ _n_ :three: __1__ _Offensive_ __a__ An adherent of a religion that does not worship the God of Judaism, Christianity, or Islam. _Heathens like me._ __b__ Such persons considered as a group.  
+__heathen<sup>2</sup>__ _adj_  
 __hellion__ _n_ A mischievous, troublesome, or unruly person. _Syn_ devil, heller  
 __hemophilia__ _n_ (haemophilia) A tendency to uncontrolled bleeding.  
 __hemophiliac__ _n_ /ˌhi məˈfɪl iˌæk/ A person who has hemophilia.  
@@ -195,6 +213,7 @@ __holidaymaker__ _n_ _Chiefly British_ One who goes on vacation. Someone who tra
 __honeybee__ _n_ /ˈhʌnɪˌbiː/  
 __hookah__ _n_ (hooka) A water pipe with a long flexible tube by which the smoke is drawn through a jar of water and thus cooled.  
 __hoopla__ _n_ /HOO-plah/ _Hoopla_ refers to talk or writing that is designed to get people excited about or interested in something, often with the implication that the person using the word does not find the thing exciting or interesting.  
+__horse brass__ _n_ :camera: A decorative brass ornament, usually circular, originally attached to a horse’s harness.  
 __hotplate__ _n_ :two::hammer:  
 __huddle__ _v_  
 __husk__ _n_ /hʌsk/  
@@ -225,6 +244,7 @@ __Kitemark__ _n_ _BrE_ The official mark of quality and reliability, in the form
 __kudos__ _n_ /KOO-dahss/  
 __labyrinthine__ _adj_ Resembling a labyrinth in form or complexity. _Syn_ mazy  
 __lathe__ _n_  
+__leisure__ _n_  
 __lemony__ _adj_ :astonished: /ˈlɛmənɪ/  
 __lentitude__ _n_ /LEN-tuh-tood/tyood/ Slowness or sluggishness.  
 __lethargic__ _adj_ :two: /luh-THAHR-jik/ Of, relating to, or affected with lethargy; drowsy; sluggish; apathetic. _Lethargic_ describes people who feel a lack of energy or a lack of interest in doing things. It is sometimes used figuratively, as in “a sluggish and lethargic economy.”  
@@ -256,6 +276,7 @@ __Lothario__ _n_ (lothario)
 __LSD__ _n_ (acid) _(Recreational Drugs)_ Lysergic acid diethylamide; a crystalline compound prepared from lysergic acid, used in experimental medicine and taken illegally as a hallucinogenic drug. Informal name (as an illegal hallucinogen): acid.  
 __lucrative__ _adj_ :two::hammer: /LOO-kruh-tiv/  
 __luminal__ _adj_  
+__lump__ _v_  
 __lunchtime__ _n_ :pencil2:  
 __machtpolitik__ _n_ /MAHKHT-pol-ee-teek/ Power politics: policies that advocate the use of power and physical force to attain their goals.  
 __maggot__ _n_ __1__ The legless, soft-bodied, wormlike larva of any of various dipteran flies, often found in decaying matter. :es: gusano  
@@ -263,6 +284,7 @@ __Magic Eye poster__ _n_
 __maiden__ _adj_ _The _Titanic_ maiden voyage._  
 __mains tester__ _n_ An insulated screwdriver with a light in the handle.  
 __make__ _n_ :astonished:  
+__mantra yoga__ _n_ A meditation practice that focuses on chanting sacred syllables along with conscious breathing and a meditative focus to quiet the mind, cultivate spiritual energy, and create states of enlightenment.  
 __marionette__ _n_ _Syn_ puppet  
 __meliorism__ _n_ /MEE-lee-uh-riz-um/ _Meliorism_ refers to the belief that the world tends to improve and that humans can aid its betterment.  
 __mess tin__ _n_ A portable container for cooking or serving food, originally for military use, and generally of a rounded rectangular form.  
@@ -275,7 +297,9 @@ __missus__ _n_
 __misuser__ _n_ __1__ One that misuses: _a misuser of school property._  
 __miter__ _n_ (mitre) A type of headdress worn by archbishops and bishops.  
 __moisten__ _v_  
+__Montserrat__ _n_ An island in the Leeward Islands, in the West Indies: British crown colony.  
 __moot__ _vt_  
+__moped__ _n_ _Brit_ A light motorcycle, not over 50cc.  
 __morass__  
 __mother of pearl__ _n_  
 __mountaineering__  
@@ -284,21 +308,26 @@ __muttering__ _n_
 __nags__ _n_ _Riding old nags._  
 __nail varnish__ _n_ (nail enamel, nail polish)  
 __natural hat trick__ _n_ _sports_ A hat trick in which three goals are scored in succession by one player in one game.  
+__naturalization__ _n_  
+__newsagent__ _n_ A shopkeeper who sells newspapers, stationery, etc. _Syn_ newsdealer  
 __nibble__ _v_  
 __nigh__ _adj, adv, prep_ /naɪ/ An archaic, poetic, or dialect word for near.  
 __no-man’s-land__ _n_ :three: __1__ _Military_ Land between boundaries, esp an unoccupied zone between opposing forces.  
 __noggin__ _n_ __1__ A small mug or cup. __2__ A unit of liquid measure equal to one quarter of a pint. __3__ _slang_ The human head.  
 __nominal price__ _n_  
 __nominal wages__ _n_ (money wages) Wages measured in terms of money and not by their actual purchasing ability.  
+__nominal__ _adj_ :dart: __2__ :dart: Minimal in comparison with real worth or what is expected; token: _a nominal fee._  
 __non-profit-making__ _adj_ Not yielding a profit, esp because organized or established for some other reason: _a non-profit-making organization._  
 __nonplus__ _v_ /nahn-PLUS/ To _nonplus_ someone is to perplex them, or in other words, to cause them to be at a loss as to what to say, think, or do.  
 __nonplussed__ _adj_ :pencil2:  
 __noticeboard__ _n_ Bulletin board.  
+__notorious__  
 __nubbly__ _adj_ Rough or irregular; textured. _Syn_ homespun, nubby, slubbed, tweedy  
 __nursing__ _n_ __1__ The profession of a nurse. __2__ The tasks or care of a nurse.  
 __obsequious__ _adj_  
 __occasion__ _n_ :pencil2:  
 __occasionally__ _adv_ :pencil2: Now and then; from time to time.  
+__occultism__ _n_  
 __off-limits__  
 __off-putting__ _adj_ :dart: Provoking uneasiness, dislike, annoyance, or repugnance. Tending to disconcert or repel: _was rankled by the off-putting remarks._  
 __offcut__ _n_ /ˈɒfˌkʌt/ A piece of paper, plywood, fabric, etc, remaining after the main pieces have been cut; remnant.  
@@ -312,8 +341,13 @@ __outburst__ _n_
 __outlay__ _n_  
 __outline__ _v_  
 __outrun__ _vt_ :two::hammer:  
+__outstretched__ _adj_ Extended or expanded; stretched out.  
 __overdraft__ _n_  
+__overland__ _adj, adv_  
 __overnight__ _adj, adv, n_ _It happened almost overnight._  
+__padded__ _adj_ Softened by the addition of cushions or padding. _Padded shorts for cycling._ _Syn_ cushioned, cushiony  
+__pagan__ _adj, n_  
+__paganism__ _n_  
 __panoply__ _n_ /PAN-uh-plee/  
 __parade__ _v_  
 __paradigm__ _n_ /PAIR-uh-dyme/  
@@ -330,6 +364,7 @@ __payslip__ _n_ (pay slip) A piece of paper received by an employee showing how 
 __peal__ _n_ :two: __1__ A ringing of a set of bells, especially a change or set of changes rung on bells. __2__ A set of bells tuned to each other; a chime. __3__ A loud burst of noise: _peals of laughter._  
 __peckish__  
 __peculiar__ _adj, n_  
+__pedestrian__ _adj, n_  
 __pejorist__ _n_ /PEJ-uh-rist/ A person who believes that the world is getting worse.  
 __pen test__ _n_ (penetration test) An authorized simulated cyberattack on a computer system, performed to evaluate the security of the system.  
 __penury__ _n_ Extreme want or poverty; destitution. _Syn_ indigence, pauperism, beggary, need  
@@ -344,16 +379,21 @@ __Perseid__ _n_ /ˈpɜːsɪɪd/ (Celestial Objects) Any member of a meteor showe
 __personal column__ _n_  
 __perspicacious__ _adj_  
 __pertussis__ _n_ :two: /pəˈtʌsɪs/ _(Pathology)_ The technical name for _whooping cough_.  
+__petrol station__ _n_ _Syn_ filling station, gas station, gasoline station  
 __phantasmagorical__ _adj_ /fan-taz-muh-GOR-i-kuhl/ Illusory; strange; deceptive; imaginary; surreal; hallucinatory.  
 __phony__ _adj_  
 __pickeball__ _n_  
 __pillbox__  
+__pillion passenger__ _n_ _Brit_ A person who travels in a seat or place behind the rider of a motorcycle, scooter, horse, etc. _As a learner rider you must not carry a pillion passenger._  
+__pillion__ _n_ A seat or place behind the rider of a motorcycle, scooter, horse, etc.  
 __pimple__ _n_ :es: espinilla  
 __pitch__ _n_ :es: (esp. _British_) campo, cancha  
 __plod__ _v_ To walk heavily or move laboriously; trudge.  
 __plover__ _n_ :es: chorlito  
 __pluck__ _v_  
 __plumb__ _adj, adv, n_ _Bruises and plumb lines._  
+__plush<sup>1</sup>__ _n_  
+__plush<sup>2</sup>__ _adj_  
 __poll tax__ _n_ A fixed tax levied on all persons in a certain area, especially as a condition of voting in elections.  
 __polypharmacy__ _n_ The practice of prescribing multiple medications for an individual patient, especially excessively, for a single disease.  
 __polytechnic__ _adj, n_  
@@ -384,6 +424,7 @@ __quaver__ _vi_ __1__ To quiver, as from weakness; tremble. _I took a quavering 
 __quiff__ _n_  
 __quiver<sup>1</sup>__ _vi_  
 __quiver<sup>2</sup>__ _n_ __1__ A portable case for holding arrows.  
+__rabies__ _n_ /ˈreɪ biz/ _Rabies is normally fatal if untreated and it’s a horrible death._  
 __racket__ _n_ __1__ A loud distressing noise.  
 __ragbag__ _n_  
 __raving<sup>1</sup>__ _n_  
@@ -429,6 +470,7 @@ __skirl<sup>3</sup>__ _n_ __1__ The shrill sound made by the chanter pipe of bag
 __slightly__ _adv_ __1__ To a small degree or extent; somewhat. __2__ Slenderly; delicately: _slightly built._  
 __sludge__ _n_  
 __slush__ _n_ (drink?)  
+__smallholding__ _n_  
 __smarting__ _adj_ Marked by, causing, or experiencing physical pain. _Syn_ aching, achy, afflictive, hurtful, nagging, painful, sore  
 __smell-feast__ _n_ _archaic_ One given to finding out and getting invited to good feasts. _Syn_ parasite, sponger  
 __smite__ _v_  
@@ -441,9 +483,11 @@ __snowdrift__ _n_
 __snuff__ _n_ :two: __3__ Any powdered substance, esp one for sniffing up the nostrils.  
 __snuffle__ _v_  
 __socket outlet__ _n_ __1__ British term for receptacle outlet. __2__ See _outlet_.  
+__soft currency__ _n_ _BrE_ Money of a specific country that is liable to depreciate in value and is difficult to exchange for another currency.  
 __solicitor__ _n_ __3__ _Chiefly British_ An attorney who advises clients on legal matters, represents clients in certain lower courts, and prepares cases for barristers to present in the higher courts.  
 __somersault__ _n_ :es: voltereta  
 __spades__ _n_  
+__spark plug__ _n_  
 __spinster__ _n_ :es: solterona  
 __splendiferous__ _adj_ /splɛnˈdɪfərəs/ [:scroll: From Latin splendor (brilliance) + -fer (bearing)] _facetious_ Grand; splendid: _a really splendiferous meal._  
 __splosh__ _v_  
@@ -458,19 +502,24 @@ __stammer__ _v_ :two::hammer:
 __statute of limitations__ _n phr_  
 __statutory__ _adj_  
 __steady__  
+__sterling__ _n_ __1a__ British money: _pound sterling._ _Take cash in sterling._ __b__ (as modifier): _sterling reserves._  
+__stopover__ _n_  
 __store__ _n_ :dart: A mercantile establishment for the sale of goods or services.  
 __stove__ _n_  
 __stovepipe__  
 __stow__ _v_ __3__ _(Nautical Terms)_ To pack or put away (cargo, sails and other gear, etc). :es: estibar  
+__straddle__ _v_  
 __strafe__ _v_ :dart: /streɪf, strɑf/ __1__ To attack (ground troops, etc.) with fire from low-flying airplanes.  
 __stray dog__ _n_ An ownerless dog, a roaming wild or half-wild dog.  
 __stridor__ _n_ :es: estridor, ruido sordo respiratorio  
 __string__ _n_ _The string of the tea bag._  
+__stringent__ _adj_  
 __strong__ _n_ __18__ Having a specified number of units or members: _a military force 100,000 strong._  
 __stub__ _n_ __1__ The usually short end remaining after something bigger has been used up: _a pencil stub; a cigarette stub._  
 __stuffy__ _adj_ :dart:  
 __subcontinent__ _n_  
 __subdural__ _adj_ Located or occurring beneath the dura mater: _subdural space; a subdural hematoma._  
+__Sufism__ _n_ The beliefs and practices of an ascetic, retiring, and mystical sect in Islam.  
 __sumac__ _n_ :three::hammer:  
 __summit__ _v_  
 __summons__ _n_  
@@ -485,9 +534,13 @@ __swivel__ _v_
 __tabloid__ _n_ :dart::astonished:  
 __tackle__ _n_ _The tackle broke when they tried to lift the heavy bell._  
 __Tartuffe__ _n_ (Tartufe) [:scroll: after the title character in a Molière play (1664)] A person who hypocritically pretends to be deeply pious.  
+__therapy__ _n_ /ˈθɛr ə pi/  
+__thrash__ _v_  
 __throb__ _v_ _My hand was throbbing._  
 __tractable__ _adj_ /TRAK-tuh-bul/ _Tractable_ is used to describe someone or something that is easily led, managed, taught, or controlled.  
+__traffic warden__ _n_ _Brit_ A person who is appointed to supervise road traffic and report traffic offenses.  
 __tramp__ _n_ (vagrant?)  
+__tranquil__ _adj_  
 __transgression__ _n_ /trans-GRESH-uhn/ A violation of legal or moral boundaries.  
 __trawl__ _v_  
 __tread__ _v_ (trod)  
@@ -502,6 +555,7 @@ __undercut__ _v_ :two::hammer:
 __ungainly__ _adj_ :two: /un-GAYN-lee/ Lacking grace or ease of movement or form. _Syn_ clumsy, clunky, gawky, unwieldy  
 __unlatched__ _adj_ Not firmly fastened or secured.  
 __unnoticed__ _adj_ /ʌnˈnəʊtɪst/ Not perceived or observed. _You may go unnoticed._  
+__unpretentious__ _adj_ :es: sin pretensiones; modesto  
 __unrequited__ _adj_ /ˌʌn rɪˈkwaɪ tɪd/  
 __unsavory__ _adj_  
 __untoward__  
@@ -520,6 +574,7 @@ __vitiate__ _v_ :dart: /VISH-ee-ayt/ To _vitiate_ something is to ruin it or ren
 __vivisection__ _n_  
 __vulnerable__ _adj_ /VUL-nuh-ruh-bul/  
 __waddle__ _v_  
+__waiver__ _n_  
 __warp speed__ _n_ [:scroll: The expression was popularized on the science-fiction show _Star Trek_ in the 1960s] __1__ (science fiction) A hypothetical, extremely rapid, speed, resulting from entering a separate dimension, termed hyperspace; much faster than the speed of light. __2__ (by extension, informal) Any very fast speed. _A brain going at warp speed._  
 __water sports__ _n_ __2__ _slang_ Sexual practices that involve urination.  
 __wedge__ _vt_ __1__ 1. To split or force apart with or as if with a wedge: _wedged the board away from the stud; neighbors who were wedged apart by a dispute._  
@@ -532,6 +587,7 @@ __whizz-bang__ _adj, n_
 __wholefood__ _n_ __a__ Food that has been refined or processed as little as possible and is eaten in its natural state, such as brown rice, wholemeal flour, etc. __b__ (as modifier): _a wholefood restaurant._  
 __windjammer__ _n_ :es: buque de vela (grande y veloz)  
 __wispy__ _adj_ Wisplike; delicate, faint, light, etc. _Wispy hair._  
+__witchcraft__ _n_  
 __withdrawal symptom__ _n_ :dart: Any physical or psychological disturbance (as sweating or depression) experienced by a drug addict when deprived of the drug.  
 __woe__  
 __woodwork__ _n_ __1__ (Crafts) The art, craft, or skill of making things in wood; carpentry. :es: carpintería __2__ (Building) components made of wood, such as doors, staircases, etc. _Woodwork fascia._  
@@ -542,3 +598,4 @@ __wring__ _vt_
 __wringer__ _n_ __1__ A person or thing that wrings. __2__ An apparatus for squeezing out liquid, as two rollers through which an article of wet clothing may be squeezed.  
 __writ__ _n_  
 __Xmas__ _n_  
+__yoga__ _n_ [:scroll: From Hindi yoga, from Sanskrit yoga-s, literally “union, yoking” (with the Supreme Spirit)] _Hatha/Mantra/Karma/Bhakti/Raja/Jnana/Kundalini yoga._  

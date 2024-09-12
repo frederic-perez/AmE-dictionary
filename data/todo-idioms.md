@@ -6,6 +6,7 @@ __a stone’s throw__ :two: A very short distance.
 __a word of warning__ :two: Information about possible danger or trouble.  
 __all the same__ :two::hammer:  
 __all too often__  
+__artful dodger__ :smiling_imp:  
 __as far as it goes__ As much as something accomplishes, typically with room for improvement.  
 __as it happens__  
 __as simple (smt?) as it gets__ :dart:  
@@ -47,6 +48,8 @@ __cut bait__
 __dance on air__ To be extremely happy.  
 __dead__ __5__ Absolutely. _You’d better be dead certain about this decision, because you can’t take it back._  
 __dig and poke around__ The idiom “dig and poke around” generally means to search or investigate something thoroughly by looking through various items or areas, often in a somewhat casual or unstructured manner.  
+__dodge__ :smiling_imp: /dɑdʒ/ A swindle; a scam; a deception. _What sort of dodge did you get flimflammed with?_  
+__don’t worry, be happy__ The phrase “Don’t worry, be happy” has its origins in the teachings of the Indian spiritual master Meher Baba. He frequently used this expression in communications with his followers, particularly in the West, as a succinct message of encouragement and positivity. Meher Baba’s teachings emphasized the importance of maintaining a positive outlook.  
 __double or quits__ A wager, undertaken after a previous wager, that stipulates two possible outcomes: if the winner of the previous wager wins again, they win twice the amount won in the previous wager; if they lose, they receive nothing. Primarily heard in UK.  
 __downed on (someone)__  
 __downer__  
@@ -56,6 +59,7 @@ __dry run__ A practice session or test designed to identify and correct possible
 __educated guess__ A thoughtful, well-reasoned guess; a guess with some basis in one’s knowledge.  
 __enjoy (oneself)__ To have fun.  
 __every other__ Alternating. _Every other week._  
+__fail to deliver__ A situation in which a buyer, or, more commonly, his/her broker does not receive delivery of the securities he/she bought by the settlement date.  
 __fair enough__  
 __fall off the perch__ _BrE_ _old-fashioned, informal_ (fall off your perch) If someone falls off the perch or falls off their perch, they die. Note: A perch is a pole, branch or other place where a bird sits to rest. _He fell off the perch years ago._ Note: Other verbs such as drop or topple can be used instead of fall. _He’ll topple off his perch one morning. You know how it is._ Note: This expression is used humorously.  
 __fancy__ _informal_ __2__ To have a desire for (something).  
@@ -118,6 +122,7 @@ __grass__ _slang_ __1__ Marijuana.
 __graze on (something)__ __1__ Of animals, to eat the greens or vegetables in a particular area or location. _I put up a fence to try to keep the deer from grazing on my land._  
 __grease monkey__ A mechanic, especially one who works on aircraft or automobiles.  
 __green thumb__  
+__haggle over (something)__  
 __hairpin bend__ :two: A very sharp, approximately 180° bend in a road.  
 __hanker for (something)__ To have a very strong, persistent desire or craving for something. _It is not something to hanker for._  
 __hatchet man__  
@@ -136,6 +141,7 @@ __hit the ground running__
 __hold my beer__  
 __hold the line__  
 __holding pattern__  
+__hopeless at (something)__ Not skilled or adept at something. _Oh, I hired a maid because I know I’m hopeless at housework._  
 __hotshot__  
 __hue and cry__ /HYOO-und-KRYE/ __1__ A large public protest. _Hue and cry_ refers to a clamor of alarm or protest in response to something. __2__ It can also be used as a synonym of hubbub to refer to general noise or uproar.  
 __hung jury__ :dart: A jury that cannot agree on a verdict.  
@@ -203,6 +209,7 @@ __in the wake of (something)__ :dart:
 __in the wild__ In naturally occurring conditions or environments.  
 __in the woods__ __1__ Being in a forest or a natural woodland area. _We went camping in the woods._ __2__ It can also mean being in critical condition, near death’s door.  
 __in the works__  
+__in twos__ In groups of two. _You will be working in twos._  
 __in virtue of (something)__ Due to something; because of something; by reason of something. _In virtue of your years of hard work and experience in the company, we think you would be well-suited to a managerial role within the company._  
 __in working order__  
 __in(to) shape__ In good, robust health; strong or fit. _Boy, I really need to get into shape. Ten years working behind a desk have given me quite a belly!_  
@@ -288,6 +295,7 @@ __leapfrog over (someone or something)__ :two::hammer:
 __leaps and bounds__ :dart:  
 __leave a lot to be desired__ To be very inadequate or unsatisfactory; to lack a large amount of what is desired or required.  
 __let (oneself) go__  
+__let alone__  
 __let someone down__  
 __level the playing field__ To make a situation or activity more fair and balanced by giving an extra advantage or opportunity to those who would normally be at a disadvantage, or by attempting to take away or diminish advantages, perhaps of one’s adversary or competitor.  
 __lick (one’s) wounds__  
@@ -405,13 +413,14 @@ __on the brink of (something)__ :two::hammer:
 __on the contrary__  
 __on the edge of (one’s) seat__  
 __on the line__ __1__ In a state of jeopardy or uncertainty.  
-__on the lookout__ :two: Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
+__on the lookout__ :three: Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
 __on the move__  
 __on the pill__ _slang_ Currently and regularly using birth-control pills (oral contraceptives that inhibit ovulation to prevent conception).  
 __on the radar (screen)__  
 __on the rocks__ _That marriage was already on the rocks._  
 __on the run__  
 __on the sidelines__ :two: In a position in which one is not actively participating in something.  
+__on the spot__ __1__ At once in one’s exact location; right then and there. Hyphenated if used before a noun.  
 __on the verge of__  
 __on the whole__ Considering everything together; in general or for the most part.  
 __on-site__  
@@ -513,6 +522,7 @@ __the three Rs__ The three tenets of education traditionally considered the most
 __the upshot (of something)__ The final or resulting outcome, conclusion, or consequence (of something).  
 __think small__ The idiom “think small” refers to adopting a mindset that focuses on modest goals, limited ambitions, or a more conservative approach, often in contrast to the more common phrase “think big,” which encourages setting lofty, ambitious objectives.  
 __to a T__  
+__to name (but) a few__  
 __to the contrary__ Opposite to what has just been said.  
 __tooth and nail__ Furiously or fiercely; with all of one’s strength and effort.  
 __top-heavy__ __1__ _slang_ Of a woman, having very large breasts. __2__ _slang_ Of a man, having large upper-body muscles with relatively small lower-body muscles.  
@@ -521,10 +531,12 @@ __turd blossom__
 __turn a blind eye to something__  
 __turn of phrase__  
 __under false pretenses__ With a false impression created through intentional misrepresentation.  
+__under the guise of (something)__  
 __under-promise and over-deliver__ To avoid raising expectations in order to subsequently exceed them. Used as a strategy to ensure the satisfaction of one’s client, customer, boss, etc. Also spelled without hyphens.  
 __up (one’s) alley__ Well suited to one’s interests. _I really like Romantic poetry, so this class on John Keats should be up my alley._  
 __upper__ Any recreational drug, typically an amphetamine, taken as a stimulant. _I got hooked on uppers in college when I took them to help me study for long hours._  
 __usual suspects__  
+__w/end__ :three: _informal_ Weekend.  
 __wait and see__  
 __walk in__ To enter some establishment or event as a casual attendee.  
 __warts and all__ :dart: Including any imperfections or flaws. _If you’re going to marry him, then you better love him, warts and all._  
@@ -550,3 +562,4 @@ __zero hour__
 __zero in__ :two::hammer:  
 __zig when (one) should zag__  
 __zippy__  
+__zoom along__ __1__ To progress forward at a very quick pace. _The ambulance zoomed along to get the victim to the hospital in time._  
