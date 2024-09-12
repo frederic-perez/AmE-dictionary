@@ -498,31 +498,6 @@ __spend a penny__ _euphemism_ To go to the toilet. Primarily heard in UK.
 __stamp of approval__ An indication of endorsement or authorization of something.  
 __stand on (one’s) own (two) feet__ To be strong and independent; to not need the help, guidance, or resources of another person.  
 __stands to reason__  
-__steamroll through__  
-__strangely enough__ :two: Bafflingly; surprisingly; atypically.  
-__strong feelings__ Intense emotions or sentiments that a person experiences regarding a particular situation, person, or idea.  
-__sure thing__  
-__swig__ __1__ _n_ Adeep drink of liquor; a swallow of liquor. _She took a swig of rum and leaped into the lagoon._ __2__ _vt_ To drink liquor deeply. _He nearly swigged the whole bottle before he needed to take a breath._  
-__take (something) with a pinch of salt__ (take something with a dash/grain of salt)  
-__take on__ :two: __3__ To hire or employ someone; to contract someone for their services. A noun or pronoun can be used between “take” and “on.” _We take on a number of high-school graduates each year as interns to give them some work experience before they begin college._  
-__take the fall (for someone or something)__  
-__talk in tongues__  
-__tearjerker__  
-__test the water(s)__ To informally or casually attempt to gauge the reaction of a potential audience or recipient of something, or to try to get an idea of what something will be like before actually doing it. Likened to feeling the temperature of water before getting in.  
-__That’s a fact, jack!__ _humorous_ Used to emphasize that something is true.  
-__that’s the spirit!__ That’s the right kind of attitude to have in order to be successful.  
-__the (hand)writing on the wall__  
-__the hoi polloi__  
-__the last of the lot__ The last or final person(s) or thing(s) in a given group or list. _This package is the last of the lot. Once we get this shipped, we can call it a day._  
-__the last thing (one) wants__ Something which one absolutely does not want or has no use for. _The last thing I want right now is a lengthy court battle, so let’s try and get through this divorce as painlessly as possible._  
-__the man to see__  
-__the real deal__  
-__the small of (one’s)/the back__  
-__the three Rs__ The three tenets of education traditionally considered the most basic or essential: reading, writing, and arithmetic. (So named for the prominent “R” sound at the beginning of each word.) _We learned the three Rs._  
-__the upshot (of something)__ The final or resulting outcome, conclusion, or consequence (of something).  
-__think small__ The idiom “think small” refers to adopting a mindset that focuses on modest goals, limited ambitions, or a more conservative approach, often in contrast to the more common phrase “think big,” which encourages setting lofty, ambitious objectives.  
-__to a T__  
-__to name (but) a few__  
 __to the contrary__ Opposite to what has just been said.  
 __tooth and nail__ Furiously or fiercely; with all of one’s strength and effort.  
 __top-heavy__ __1__ _slang_ Of a woman, having very large breasts. __2__ _slang_ Of a man, having large upper-body muscles with relatively small lower-body muscles.  

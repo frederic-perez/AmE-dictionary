@@ -5610,7 +5610,7 @@ __stay woke__
 __staying power__ :three: The ability to remain relevant, influential, profitable, or successful in the future. _This exercise has staying power._  
 __steal (one’s) thunder__ Use or appropriate another’s idea, especially to one’s advantage, as in _It was Harold’s idea but they stole his thunder and turned it into a massive advertising campaign without giving him credit._ This idiom comes from an actual incident in which playwright and critic John Dennis (1657-1734) devised a “thunder machine” (by rattling a sheet of tin backstage) for his play, _Appius and Virginia_ (1709), and a few days later discovered the same device being used in a performance of _Macbeth_, whereupon he declared, “They steal my thunder.”  
 __steal the show__ :two: To become the main focus of attention or deliver the most captivating performance in the presence of one or more others, typically unexpectedly. _The opening band totally stole the show tonight—they were amazing._  
-__steamroll through__ :two::hammer:  
+__steamroll through__ :three::hammer:  
 __steel (someone or oneself) for (something)__ To cause someone or oneself to be mentally and emotionally prepared for and hardened against some difficult or unpleasant task, situation, outcome, etc. _As horrible as the prospect may be, we all must steel ourselves for war._  
 __steely-eyed missile man__ An astronaut or engineer who quickly devises an ingenious solution to a tough problem while under extreme pressure.  
 __steely-eyed__ With or having a fierce intensity in one’s expression. _The teacher fixed a steely-eyed gaze upon me when I started joking around during class._  
@@ -5648,7 +5648,7 @@ __story arc__
 __stow away__  
 __straight shooter__ :dart::two: An honest and trustworthy person who is straightforward in dealings with others. _Joe’s a straight shooter—if he says that Alice is taking money out of the cash register, then I believe him._  
 __strange bedfellows__ :two::hammer:  
-__strangely enough__ Bafflingly; surprisingly; atypically. _Strangely enough, it turned out that we both knew John, but had met him in two different parts of the world._ _Strangely enough, the Hugo awards for_ Galaxy _were relatively far and between._  
+__strangely enough__ :three: Bafflingly; surprisingly; atypically. _Strangely enough, it turned out that we both knew John, but had met him in two different parts of the world._ _Strangely enough, the Hugo awards for_ Galaxy _were relatively far and between._  
 __strap on the (old) feedbag__ _slang_ To begin eating; to have a meal. _I can’t wait to get to Grandma’s and strap on the old feedbag. She always cooks the tastiest food!_  
 __strapped for cash__ Without any or very much money at the moment; broke, especially temporarily.  
 __straw man__  
@@ -5665,6 +5665,7 @@ __strike action__
 __strike off__ :two: __1__ To depart for or begin traveling to (some place). _Make sure you eat a good breakfast before you strike off!_  
 __strike out__ __4__ To fail to achieve a desired result. _The eighth film in the horror series struck out with audiences._ _I tried to get a phone number from her, but I struck out again._  
 __strive to (do something)__ To put forth a great and tenacious effort to do or accomplish something.  
+__strong feelings__ Intense emotions or sentiments that a person experiences regarding a particular situation, person, or idea.  
 __strong word__  
 __strong words__ :two::hammer:  
 __strong-arm__  
@@ -5689,7 +5690,7 @@ __super-duper__ :two::hammer: (super-dooper)
 __supply and demand__ The amount of something available to purchase compared to the number of people who need or want to purchase it.  
 __sure as hell__ :two: (See _(as) sure as hell_.)  
 __sure enough__ :five: As one might have expected; certainly. _Sure enough, that’s what happened._  
-__sure thing__ :two::hammer:  
+__sure thing__ :three::hammer:  
 __surefire__ :two: Certain to work, be effective, or have a particular outcome; foolproof. The term is sometimes hyphenated, and it is always used before a noun. _Coming in to work drunk is a surefire way to get yourself fired, Tom._ _We’ve developed a sure-fire method of teaching grammar to grade-schoolers in a way that they will not ignore or forget._ _A surefire tactic._ _You need some surefire strategies to get your toddler to take medicine._  
 __surprise, surprise__ :four: Said ironically of or in a situation in which something very predictable has happened.  
 __survival mode__  
@@ -5712,6 +5713,7 @@ __sweet spot__ :six: A particular point, area, or range where something will be 
 __sweet tooth__  
 __sweetie pie__ A term of endearment, especially for a person or pet towards whom one feels tender love or affection.  
 __swept away__  
+__swig__ __1__ _n_ A deep drink of liquor; a swallow of liquor. _She took a swig of rum and leaped into the lagoon._ __2__ _vt_ To drink liquor deeply. _He nearly swigged the whole bottle before he needed to take a breath._  
 __swim against the tide__ To go against or disagree with a prevailing or popularly held opinion or perspective; to act or behave contrary to the majority of others.  
 __swing state__  
 __swipe at__  
@@ -5750,7 +5752,7 @@ __take (something) lightly__
 __take (something) to heart__  
 __take (something) to the bank__  
 __take (something) with a dash of salt__  
-__take (something) with a grain of salt__ :two::hammer:  
+__take (something) with a grain of salt__ :three::hammer: (take something with a dash/grain of salt)  
 __take (the) roll__ :dart: In a group setting, to call out each person’s name from a list to see if they are present or absent. _I haven’t taken roll yet, but it looks like a lot of kids are absent from school today._ _The teacher spent 10 min of class taking roll._  
 __take a bawling out__ To receive a very severe rebuke, chastisement, or scolding (from someone). _I sure took a bawling out from my parents after I smashed up their car._  
 __take a beating__  
@@ -5808,7 +5810,7 @@ __take no prisoners__ :two: To be utterly ruthless, uncompromising, or unyieldin
 __take notice (of someone or something)__ :two::hammer:  
 __take offense (at) (something)__ To be or feel insulted, offended, or humiliated by something.  
 __take office__ To assume a position of political authority, especially one that is granted as the result of a public election.  
-__take on__  
+__take on__ :three: __3__ To hire or employ someone; to contract someone for their services. A noun or pronoun can be used between “take” and “on.” _We take on a number of high-school graduates each year as interns to give them some work experience before they begin college._  
 __take over__ :six: Assume control, management, or possession of, as in _The pilot told his copilot to take over the controls_, or _There’s a secret bid to take over our company._ _Kyle took over in the first half and finished with 23 points._ _Execs aren’t ready for AI to completely take over._  
 __take pains__  
 __take pride in someone or something__ :three::hammer:  
@@ -5825,6 +5827,7 @@ __take the brunt__
 __take the bull by the horns__  
 __take the cake__ __1__ To be the worst in a series of negative actions. Primarily heard in US. _The one importantly stupid example that teally takes the cake._ _When I found out he had been reading through my text messages, well, that took the cake._ __2__ To be the best or the most outstanding. Primarily heard in US. _You’ve done some nice murals, but this one takes the cake!_  
 __take the edge off__  
+__take the fall (for someone or something)__  
 __take the Fifth (amendment)__ Refuse to answer on the grounds that one may incriminate oneself, as in _He took the Fifth on so many of the prosecutor’s questions that we’re sure he’s guilty._  
 __take the gloves off__ _The gloves are coming off today._  
 __take the heat__ :two: To receive and endure intense criticism or scorn, especially for a perceived mistake or wrongdoing.  
@@ -5853,6 +5856,7 @@ __talk back (to one)__ To answer, respond, or interrupt in a rude or impertinent
 __talk back__  
 __talk down to (one)__  
 __talk in riddles__ To speak in a (perhaps intentionally) convoluted way.  
+__talk in tongues__  
 __talk is cheap__ _prov_ It is very easy to talk about what one is going to do or what the correct course of action is, but it is much harder one actually puts those words into action. (Saying this in response to someone who promises you something implies that you do not believe that person will keep the promise.)  
 __talk out (of) (one’s) ass__  
 __talk smack__ _slang_ :two: To make disparaging, insulting, or abusive comments (about a person, group, or thing). _You know, you talk a lot of smack for someone who has yet to show us any moves._  
@@ -5887,6 +5891,7 @@ __tear around__ _Her idea of taking a day off is tearing around a golf course._
 __tear away__  
 __tear down__ :two::hammer:  
 __tear__ :astonished:  
+__tearjerker__  
 __tease apart__ “Tease apart” is an idiomatic expression that means to carefully analyze something in order to understand the different components or aspects of it. It’s like trying to untangle a ball of yarn to figure out what each individual strand is made up of. _A clear causal connection between drug use and schizophrenia has been difficult to tease apart._  
 __tech neck__ A condition characterized by pain and stiffness in the neck, shoulders, and upper back due to prolonged use of digital devices. The sagging skin and neck wrinkles resulting from constantly bending downward to look at a smartphone, which can also cause headaches and neck, shoulder and back pain.  
 __tee off__ _Tee off for St. Patrick’s Day._  
@@ -5906,7 +5911,7 @@ __tempest in a teapot__ Tempest in a teapot (American English), or storm in a te
 __tempus fugit__ [:scroll: The phrase is Latin for “time flies.”] Time passes quickly. _I can’t believe it’s been so long since my last visit—tempus fugit!_  
 __ten-spot__ _slang_ A ten-dollar bill or a sum of ten dollars. Primarily heard in US. _This restaurant is an incredibly good value. For just a ten-spot you can get an appetizer, an entrée, and a dessert!_  
 __test (one’s) mettle__  
-__test the water(s)__ :five::hammer: _We’re testing the waters._  
+__test the water(s)__ :six: To informally or casually attempt to gauge the reaction of a potential audience or recipient of something, or to try to get an idea of what something will be like before actually doing it. Likened to feeling the temperature of water before getting in.  
 __test the waters__  
 __TFW__ An abbreviation for “that feel when” or “that feeling when,” used in texting and social media to introduce a commonly experienced feeling or situation (that others will likely identify with). _TFW you see your dog after you get home from work._  
 __thang__ A facetious or slang form of _thing._  
@@ -5919,13 +5924,14 @@ __that being said__
 __that said.__ :two::hammer:  
 __that will be the day__ Said of something that is unlikely to happen. _A politician speaking the truth? Ha, that’ll be the day!_  
 __that would be telling__ That would give away the secret or surprise.  
+__That’s a fact, jack!__ _humorous_ Used to emphasize that something is true.  
 __that’s a given__ :two::hammer:  
 __that’s a wrap__ :dart::two: Used to indicate that something is finished or concluded. _OK, everyone, that’s a wrap! Great work._  
 __that’s all she wrote__ This is the end; there is nothing left to say. _I’m sorry, Ben, but the board’s decision is final. That’s all she wrote, I’m afraid._  
 __that’s business__ Phrase often used to justify or downplay the severity of violent or ruthless behavior, implying that such actions are necessary or acceptable within the context of that business or profession.  
 __that’s my girl__ An expression used to express praise or pride for a female with whom one has a close relationship, especially one.s daughter. _That’s my girl, another report card with straight A’s!_  
-__That’s the spirit!__ That’s the right kind of attitude to have in order to be successful.  
-__the (hand)writing on the wall__ :dart::four::hammer: (the (hand)writing is on the wall)  
+__That’s the spirit!__ :two: That’s the right kind of attitude to have in order to be successful.  
+__the (hand)writing on the wall__ :dart::nine::m: (the (hand)writing is on the wall) An omen of impending disaster or ruin. _I’ve seen the writing on the wall._ _He could see the handwriting on the wall._  
 __the (hot) skinny__ :two: _slang_ The real or most accurate information or facts. Confidential information on a particular person or topic. _Net managers who want the skinny on the latest in computer security._  
 __the back of (one’s) hand__ __1__ A rejection, snub, or rebuke; a display of contempt or scorn for someone or something. _She met their accusations with the back of her hand._ __2__ Used to represent one’s complete knowledge of or familiarity with something. Usually used after the verb “know.” _I’ve read this book so many times, I know it like the back of my hand._  
 __the ball is in (one’s) court__ :five: To be responsible for taking the next action.  
@@ -5970,12 +5976,12 @@ __the greater good__ The benefit or betterment of the majority of people, especi
 __the Greek calends__  
 __the green-eyed monster__ Jealousy. The phrase comes from the Shakespeare play _Othello._ _My daughter often succumbs to the green-eyed monster when she sees the toys that her friends have._  
 __the half of it__ :two: A portion of something, typically implied to be the most important of significant part. (Often used in the negative.)  
-__the handwriting on the wall__ _He could see the handwriting on the wall._  
 __the happy day__ :two: A wedding, or marriage in general. _So now that all your siblings are married, when will the happy day be for you?_  
 __the head honcho__ _slang_ The person in charge. _That decision is above my pay grade. You’ll have to ask the head honcho._  
 __the heebie-jeebies__ :two: An extreme or acute sensation of fear, apprehension, worry, or anxiety. Often used houses, for example, give many people the heebie-jeebies, while others get the heebie-jeebies from circus clowns. Often used with “get” or “give.” _I have the heebie-jeebies whenever I go to the dentist._ _I always get the heebie-jeebies when I walk through a graveyard._  
 __the hell out of__ _slang_ To a huge or great degree; very much. _Don’t sneak up on me like that, you scared the hell out of me!_ _That movie scared the hell out of me._ _The boxer beat the hell out of his opponent._  
 __the here and now__ The present; this point in time. _Yes, but I’m not worried about his past production—I’m worried about his low sales in the here and now!_  
+__the hoi polloi__  
 __the holy grail of (something)__  
 __the honest truth__ :two: The sincere, unadulterated truth. _I swear it wasn’t me who broke the lamp, that’s the honest truth!_  
 __the icing on the cake__ :two::hammer:  
@@ -5990,9 +5996,9 @@ __the knacker’s yard__ A state of ruin or failure due to having become useless
 __the L-bomb__ An expression of romantic love for another, especially when said unexpectedly and/or for the first time. Usually used in the phrase “drop the L-bomb.” _We’d only been dating for a couple of months when he dropped the L-bomb on me. I was so shocked that all I could think to say back was, “Thank you!”_  
 __the lady of the house__ A woman who looks after and runs the house; the matriarch of a family or household.  
 __the last line of defense__ The final person or thing who can act as a protection or deterrent against some threat.  
-__the last of the lot__ The last or final person(s) or thing(s) in a given group or list.  
+__the last of the lot__ :two: The last or final person(s) or thing(s) in a given group or list. _This package is the last of the lot. Once we get this shipped, we can call it a day._  
 __the last straw__  
-__the last thing (one) wants__ Something which one absolutely does not want or has no use for.  
+__the last thing (one) wants__ :two: Something which one absolutely does not want or has no use for. _The last thing I want right now is a lengthy court battle, so let’s try and get through this divorce as painlessly as possible._  
 __the latest__ :four::hammer: _What’s the latest?_  
 __the likes of (someone or something)__ :two::hammer:  
 __the likes of__  
@@ -6001,7 +6007,7 @@ __the lion’s share__ :three: Major share of something.
 __the little things__  
 __the lot__ _n_ All the things of a group. _This one’s the best of the lot._  
 __the lowdown on__ :dart::two: The whole truth about something, as in _We’re waiting to hear the lowdown on what happened after we left._ This term uses lowdown in the sense of “the basic or fundamental part.”  
-__the man to see__ A colloquial expression used to refer to a person who holds significant influence, power, or expertise in a particular field or area. It implies that this individual is the most important or influential person to approach or consult with regarding a specific matter.  
+__the man to see__ :two: A colloquial expression used to refer to a person who holds significant influence, power, or expertise in a particular field or area. It implies that this individual is the most important or influential person to approach or consult with regarding a specific matter.  
 __the march of time__ :two: The steady, unstoppable advancement of time. _Some people despair at the march of time, as they see themselves aging in the mirror, but I relish growing older and seeing the world change._  
 __the meat and potatoes__ :two: The most basic or fundamental aspects of something. _Too much information will overwhelm the new hire, so just give him the meat and potatoes._  
 __the meat of the matter__ The most important, basic, or fundamental essence or element(s) of an issue, problem, or matter at hand. _Thank you all for attending this staff meeting. Before we get to the meat of the matter, I’d like to assure each of you that your jobs are secure._  
@@ -6034,6 +6040,7 @@ __the proof is in the pudding__ :dart::two: The final results of something are t
 __the pump__ _informal_ A gasoline pump, used as a synecdoche to represent gas stations as a whole. _Prices at the pump have been at their lowest since 1995._  
 __the rabbit died__ [:scroll: From an early pregnancy test developed in 1931 in which the urine of a woman thought to be pregnant was injected into a female rabbit; if the woman was pregnant, the rabbit’s ovaries would react. A common misconception at the time was that the rabbit would die if the woman was pregnant, hence the expression.] The woman to whom we are referring is pregnant; the pregnancy test was positive. _I saw Carol shopping for maternity clothes in the mall the other day. I guess the rabbit died!_  
 __the ravages of something__ The destructive effects of something. _The potential ravages of a man-manipulated virus at a research center._  
+__the real deal__  
 __the real McCoy__ “The real McCoy” is an idiom and metaphor used in much of the English-speaking world to mean “the real thing” or “the genuine article”, e.g. “he’s the real McCoy”.  
 __the red carpet__  
 __the rest is history__ Everyone knows how the rest of the story goes.  
@@ -6043,14 +6050,17 @@ __the rubber meets the road__ Someone’s or something’s efforts, resolve, or 
 __the scoots__ _n_ A case of diarrhea. _Our vacation was ruined by a case of the scoots._  
 __the short and the long of it__ The essential or most important point being made; the plain truth of the matter. _Bob, the short and the long of it is that we aren’t satisfied with your performance in work lately._  
 __the sky is the limit__ :five: (the sky’s the limit) Anything is possible; there is practically no limit.  
+__the small of (one’s)/the back__  
 __the spur of the moment__  
 __the straw that broke the camel’s back__ :three: A seemingly small or inconsequential issue, problem, or burden that proved to be the final catalyst in causing an overworked or overburdened person, system, organization, etc., to fail, give up, or collapse.  
 __the terrible twos__ A developmental stage of children, generally at or around the age of two, marked by increased rebelliousness and frequent tantrums. _Becca’s been having really bad temper tantrums lately and just keeps saying “no” to everything we say to her. I guess she’s going into the terrible twos._  
 __the third degree__ _informal_ Asking serious questions and/or giving someone rough treatment to get information. _I got the third degree when I got home last night._  
+__the three Rs__ The three tenets of education traditionally considered the most basic or essential: reading, writing, and arithmetic. (So named for the prominent “R” sound at the beginning of each word.) _We learned the three Rs._  
 __the throne__ __2__ _slang_ The toilet. _Sit on the throne._  
 __the tip of the iceberg__  
 __the toast of (the town)__ Someone who is especially well-liked, regarded, or admired in a certain place. _The young entrepreneur’s new tech innovation has made him the toast of the town in Silicon Valley._  
 __the unwashed masses__ The broader general public, especially those of the lower and lower-middle classes. _The film didn’t cause too great a stir with the unwashed masses, but it has been considered a milestone in cinematic achievement among film critics._  
+__the upshot (of something)__ The final or resulting outcome, conclusion, or consequence (of something).  
 __the usual suspects__ :four: The people one would expect to be involved in something. _Let’s have a game night! Call the usual suspects and I’ll order pizza._ _Side vegetables contain all the usual suspects._  
 __the very thing__ Exactly what is most ideal, desired, or useful in a particular moment or situation. _I’m telling you, when you’re hungover, a big basket of French fries is the very thing!_ _I have the very thing to wear with a dress that color._ _Harvard students complained about the very thing the Soweto students saw as a privilege: shoolwork._  
 __the W__ _slang_ The win. Can refer to an actual win, as in sports (recorded in a box score as “W”), or to a success. Often used in the phrase “get the W.” _We played sloppy, but all that matters is that we got the W._  
@@ -6088,6 +6098,7 @@ __think before (one) (does something)__ To ruminate, reflect, or consider very c
 __think highly of (someone or something)__  
 __think long and hard__ :dart:two: To give very careful and thorough consideration (to something).  
 __think over__ To consider or ponder something; to reflect upon something. A noun or pronoun can be used between “think” and “over.” _Think it over, and let me know in the morning if you want the job._  
+__think small__ The idiom “think small” refers to adopting a mindset that focuses on modest goals, limited ambitions, or a more conservative approach, often in contrast to the more common phrase “think big,” which encourages setting lofty, ambitious objectives.  
 __think tank__  
 __third wheel__ The “third wheel” refers to the person who is the outsider when there is a group of three. An analogy can be made to a two-wheeled bicycle or cart; adding a third wheel would not be helpful and would limit mobility. To be the “third wheel” is to be the extra, unnecessary person in a group of three people. _You two go on ahead without me. I don’t want to be the third wheel._  
 __third world__  
@@ -6165,7 +6176,7 @@ __TMI__ :two: An abbreviation for “too much information,” a phrase used to i
 __to (one’s) heart’s desire__ :two: As much as or to the point that one wants; to the point of contentment, satiety, or surfeit. _I’ve made plenty of food for everyone, so please eat to your heart’s desire._  
 __to (one’s) name__ :three: In one’s possession; owned by one. _Without a penny to his name._ _Bernie died with $1.09 to his name._  
 __to a certain extent__  
-__to a T__ :five: Perfectly; completely; exactly. _You look beautiful. That color really suits you to a T._  
+__to a T__ :six: Perfectly; completely; exactly. _You look beautiful. That color really suits you to a T._  
 __to a turn__ For exactly the right amount of time necessary or desired. (Used almost exclusively in reference to how well meat is cooked). _My goodness, these steaks are so flavorful and have been cooked to a turn!_ _Jeff is always the one manning the grill, because he makes sure everything on there is done to a turn!_  
 __to an extent__ Somewhat; partly; in a limited way or to a limited degree.  
 __to be in a better place__  
@@ -6182,7 +6193,7 @@ __to hell and back__ :three: Through a difficult, trying, or perilous situation 
 __to his name__  
 __to let (one’s) guard down__ To stop being cautious; to relax and stop being so aware of one’s behavior and other people’s reactions to oneself.  
 __to make a long story short__ To skip boring, extraneous, or unnecessary details; to get to the point. _Anyway, to make a long story short, I got expelled for writing graffiti on the bathroom stalls._  
-__to name (but) a few__ :seven::hammer:  
+__to name (but) a few__ :eight::hammer:  
 __to no end__ Greatly; very much. _I was pleased to no end when you wrote of making several new friends at the university._ _I’m an editor, so it irritates me to no end when people use “their” or “there” when they should be using “they’re.”_  
 __to perfection__ In a way or to a degree that is exactly right. _Cooked to perfection._  
 __to put it mildly__ (put it mildly)  
@@ -6640,7 +6651,6 @@ __wrinkle__ _n_ __1__ (also rinkle, winkle) An idea, device or trick, esp. a new
 __writ large__  
 __write (one’s) own ticket__ :two::hammer:  
 __write someone or something off__  
-__writing on the wall, the__ :four: An omen of impending disaster or ruin. _I’ve seen the writing on the wall._  
 __written all over (one’s) face__ Evident by one’s facial expression. Said of one’s emotions or inner thoughts. _Jenny said she wasn’t scared before we went into the haunted house, but terror was written all over her face._  
 __wuss__ _slang_ Someone who is too nervous, afraid, or reserved to do anything too intense, extreme, or risky.  
 __x, y, and z__ _n_ A figure of speech used when making a hypothetical argument or example. _Well, I could say, “God doesn’t exist because of X, Y and Z.”_  
