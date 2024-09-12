@@ -50,8 +50,9 @@ def valid_use_of_underscores(entry: str) -> bool:
         return False
 
     num_reminder_ribbons: Final[int] = 1 if entry.find('reminder_ribbon') > -1 else 0
+    num_smiling_imps: Final[int] = 1 if entry.find('smiling_imp') > -1 else 0
 
-    if entry.count('___') > 0 or (entry.count('_') - num_reminder_ribbons) % 2 != 0 or entry.count('_:es:') > 0:
+    if entry.count('___') > 0 or (entry.count('_') - num_reminder_ribbons - num_smiling_imps) % 2 != 0 or entry.count('_:es:') > 0:
         return False
     return True
 
@@ -74,7 +75,7 @@ def valid_use_of_parentheses_or_brackets(entry: str) -> bool:
 # TODO: Transform to Enum
 VALID_TAGS: Final[tuple[str, ...]] = (
     'three', 'two', 'astonished', 'camera', 'dart', 'eight', 'es', 'four', 'five', 'fr', 'hammer', 'm', 'mega', 'mute',
-    'nine', 'pencil2', 'reminder_ribbon', 'seven', 'six', 'scroll', 'sound')
+    'nine', 'pencil2', 'reminder_ribbon', 'scroll', 'seven', 'six', 'smiling_imp', 'sound')
 
 
 def valid_tag(tag: str) -> bool:
@@ -733,7 +734,8 @@ def main(prog_name: str, argv: list[str]) -> None:
     for arg in argv:
         do_check_parts_of_speech: bool = (
             arg != "abbreviations+" and arg != 'Ellroy\'s-lingo' and arg != 'idioms'
-            and arg != 'interjections' and arg != 'todo-idioms' and arg != 'top-idioms')
+            and arg != 'interjections' and arg != 'todo-idioms' and arg != 'top-idioms'
+            and arg != 'wip')
         check(arg, do_check_parts_of_speech)
 
 

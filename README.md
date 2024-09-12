@@ -45,6 +45,7 @@ Meaning of the emojis used in the dictionary:
 - :dart: Try to learn this particular one!
 - :reminder_ribbon: Trick aimed at remembering the meaning
 - :scroll: Etymology
+- :smiling_imp: Shady-related word, or terms with pejorative connotations
 - :es: Translation into Spanish
 
 Note: For help editing with Markdown in GitHub, you can visit [writing on github pages](https://help.github.com/categories/writing-on-github/), and for emojis, visit the [emojipedia](https://emojipedia.org/) or the [emoji cheat sheet](http://www.emoji-cheat-sheet.com/). By the way, the word emoji comes from Japanese e (絵, "picture") + moji (文字, "character").
