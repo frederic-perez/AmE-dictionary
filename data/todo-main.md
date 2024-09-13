@@ -6,6 +6,7 @@ __airhead__
 __alacrity__  
 __alcove__ _n_  
 __allay__ _vt_ əˈleɪ/  
+__ambivalent__ _adj_ /am-BIV-uh-lunt/ Someone described as _ambivalent_ has or displays very different feelings (such as love and hate) about someone or something at the same time.  
 __anilingus__ _n_ Oral stimulation of the anus.  
 __anodyne__ _adj_ Capable of soothing or eliminating pain. _Syn_ analgesic, analgetic  
 __anorexia nervosa__ _n_ /nɜrˈvoʊ sə/ An eating disorder characterized by a fear of becoming fat, a distorted body image, and excessive dieting leading to emaciation.  
@@ -58,6 +59,7 @@ __byword__ _n_ _Syn_ adage, aphorism, maxim, motto, proverb, saw, saying
 __Byzantine__ _adj_ /BIZ-un-teen/  
 __cad__ _n informal_ _old-fashioned_ _Brit_ A man who does not behave in a gentlemanly manner towards others.  
 __calendar year__  
+__callow__ _adj_ /KAL-oh/ _Callow_ is a synonym of _immature_ used to describe someone, especially a young person, who does not have much experience and does not know how to behave like an adult. Like the word immature, callow is often used disapprovingly.  
 __camp__ _n_  
 __candlestick__ _n_ (candleholder) A holder, usually ornamental, with a spike or socket for a candle.  
 __canvasser__ _n_  
@@ -71,6 +73,7 @@ __ceiling rose__ _n_ In the United Kingdom and Australia, a _ceiling rose_ is a 
 __Ceroc__ _n_ /səˈrɒk/ (Dancing) _trademark_ A form of dance combining elements of jive and salsa.  
 __char__ _v_ Burn slightly and superficially so as to affect color. _Syn_ blacken, sear, scorch.  
 __chemist__ _n_ __1__ A scientist specializing in chemistry. __2__ _Chiefly British_ A pharmacist.  
+__chockablock__ _adj_ /CHAH-kuh-blahk/ Something described as chockablock is very full or tightly packed.  
 __choosy__ _adj_  
 __chrome__ _n, v_ /kroʊm/  
 __chute__ _n_  
@@ -82,9 +85,11 @@ __close-knit__ _adj_ Held tightly together, as by social or cultural ties: _a cl
 __clued up__ _adj_ _BrE_ _informal_ Knowledgeable about a topic or situation; possessing the facts. :es: al tanto (de), al corriente (de)  
 __co-op__ _n_ A cooperative enterprise, building, or apartment.  
 __coach__ _n_ __1a__ A bus, especially one designed for long-distance passenger service.  
+__cocksure__ _adj_ :astonished: Marked by excessive confidence. _Syn_ overconfident, positive  
 __coda__ _n_  
 __colloquy__ _n_ :pencil2: /ˈkɒl ə kwi/  
 __coma__ _n_  
+__commensurability__ _n_ /kuh-men-suh/shuh-ruh-BIH-lih-tee/ __1__ The quality of being in proportion or suitable in relation to something else. __2__ The quality of being measurable by a common standard; comparability.  
 __comment period__ _n_ A “comment period” is a designated timeframe during which members of the public, stakeholders, or interested parties are invited to provide feedback, opinions, or suggestions on a proposed rule, regulation, policy, or decision. This process is commonly used by government agencies, organizations, or regulatory bodies to gather input before finalizing a decision or implementing a new policy.  
 __communication trench__  
 __compulsory__ _adj_ _Syn_ mandatory, required  
@@ -114,6 +119,7 @@ __deter__ _v_ /dɪˈtɜr/
 __dinghy__ _n_  
 __disarmament__ _n_  
 __dishevelled__  
+__disinformation__ _n_  
 __dispensary__ _n_  
 __divide__ _n_  
 __divots__ _n_  
@@ -123,14 +129,18 @@ __dowse__ _vi_ (douse) _Dowsing with a pendulum._
 __dowsing__ _n_ The practice of prospecting for water or minerals using a divining rod. _Syn_ dowse, rhabdomancy  
 __drollery__ _n_ A quaint and amusing jest. _Syn_ waggery  
 __drop handlebars__ _n_ Low curved handles on a bicycle.  
+__duster__ _n_ :dart::camera: A loose coverall (coat or frock) reaching down to the ankles. _Syn_ gaberdine, smock  
 __duty solicitor__ _n_ (duty counsel, duty lawyer) A solicitor whose services are available to a person either suspected of, or charged with, a criminal offence free of charge (pro bono), if that person does not have access to a solicitor of their own and usually if it is judged by a means test that they cannot afford one. The system is operative in several Commonwealth countries, including the United Kingdom, Australia, New Zealand and Canada.  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
+__elocution__ _n_  
 __emphasis__ _n_ /ˈɛm fə sɪs/  
 __emphasize__ _vt_ /ˈɛm fəˌsaɪz/  
 __endure__ _v_ _I could hardly even endure my own reflection in the mirror._  
 __enlightened__ _adj_ _Enlightened despot._  
 __epaulettes__ _n_  
 __Equity__ _n_ :astonished: /ˈɛkwɪtɪ/ _Theatre_ The actors’ trade union. Full name: Actors’ Equity Association  
+__equivocacy__ _n_ /i-KWIV-uh-kuh-see/ The quality of being deliberately ambiguous or vague.  
+__ethos__ _n_ /EE-thahss/ _Ethos_ refers to the guiding beliefs of a person, group, or organization. :es: espíritu; escala de valores _The company made environmental awareness part of its business ethos._  
 __exonerate__ _v_  
 __fallacious__ _adj_ /fuh-LAY-shus/ _Fallacious_ is a formal word that typically describes something, such as an argument or assumption, that is false or inaccurate and that tends to mislead or deceive others.  
 __fanfare__ _n_ /FAN-fayr/ __1__ A showy public display. __2__ A brief, lively sounding of brass instruments, especially trumpets, in a celebration.  
@@ -181,6 +191,7 @@ __fortnightly<sup>2</sup>__ _adv_ Once in a fortnight.
 __fortnightly<sup>3</sup>__ _n_ :astonished: A publication issued once every two weeks.  
 __fracas__ _n_  
 __fractious__ _adj_ Stubbornly resistant to authority or control. _Syn_ recalcitrant, refractory  
+__fraternize__ _v_ /FRAT-er-nyze/  
 __fru__  
 __fulgent__ _adj_ /FUHL-juhnt/ Shining brilliantly; radiant.  
 __full board__ _n_ :dart: __a__ The provision by a hotel of a bed and all meals. :es: pensión completa __b__ (as modifier): _full board accommodation._  
@@ -202,6 +213,7 @@ __gestalt__ _n_ _Gestalt therapy._
 __giro__ _n_ __2__ _informal Brit_ An unemployment or income support payment by giro cheque, posted fortnightly.  
 __glean__ _v_ /ɡliːn, glin/ To collect or pick up small amounts of news, facts, etc. :es: recoger, recopilar  
 __golden plover__ _n_  
+__googolplex__ _n_ /GOO-guhl-pleks/ The number 1 followed by a googol number of zeros.  
 __grawlix__ _n_ :dart: /GRAW-liks/ A series of special characters, such as “@#$%&*,” that are used to indicate either miscellaneous text, or more commonly, swear words. The term is attributed to Mort Walker, an American cartoonist known for his Beetle Bailey comic strip.  
 __graze__ _n_ __1__ The act of brushing or scraping along a surface. __2__ A minor scratch or abrasion.  
 __grease pit__ _n_ A narrow pit or trench over which a vehicle can be driven and conveniently worked on from beneath.  
@@ -220,6 +232,7 @@ __hatha yoga__ _n_ A form of yogic exercise that emphasizes specific postures in
 __haversack__ _n_  
 __havoc__ _n_  
 __hay fever__ _n_ :es: alergia al polen  
+__hearth__ _n_ The floor of a fireplace, usually extending into a room and paved with brick, flagstone, or cement. _Syn_ fireside  
 __heath__ _n_  
 __heathen<sup>1</sup>__ _n_ :three: __1__ _Offensive_ __a__ An adherent of a religion that does not worship the God of Judaism, Christianity, or Islam. _Heathens like me._ __b__ Such persons considered as a group.  
 __heathen<sup>2</sup>__ _adj_  
@@ -241,10 +254,13 @@ __hotplate__ _n_ :two::hammer:
 __huddle__ _v_  
 __husk__ _n_ /hʌsk/  
 __idiosyncrasy__  
+__ignoble__ _adj_ Not of the nobility; common. _Syn_ ungentle, untitled  
 __illicit__ _adj_ /ɪˈlɪsɪt/  
 __immiseration__ _n_ /i-miz-uh-RAY-shuhn/ __1__ The act of making miserable or the state of being made miserable. __2__ Impoverishment.  
 __impending__ _adj_ About to happen; imminent.  
 __impugn__ _v_ /im-PYOON/ To impugn something, such as a person’s integrity, judgment, etc., is to attack or oppose it as false or lacking integrity.  
+__indict__ _v_  
+__indictment__ _n_  
 __ineffable__ _adj_ Incapable of being expressed. _Syn_ indescribable, unspeakable, untellable, unutterable, indefinable  
 __inerrant__ _adj_ Incapable of erring. _Syn_ infallible  
 __ingenuous__ _adj_ Lacking in cunning, guile, or worldliness. _Syn_ artless  
@@ -295,10 +311,12 @@ __lodge__ _v_ _He’s lodged a complaint against you._
 __logodaedalus__ _n_ /log-uh-DEE-duh-luhs/ One skilled with words.  
 __long-standing__ _adj_ (longstanding)  
 __lookout__ _n_ _Lookouts were posted._  
+__lore__ _n_ Accumulated facts, traditions, or beliefs about a particular subject. _Syn_ traditional knowledge  
 __loss aversion__ _n_  
 __Lothario__ _n_ (lothario)  
 __LSD__ _n_ (acid) _(Recreational Drugs)_ Lysergic acid diethylamide; a crystalline compound prepared from lysergic acid, used in experimental medicine and taken illegally as a hallucinogenic drug. Informal name (as an illegal hallucinogen): acid.  
 __lucrative__ _adj_ :two::hammer: /LOO-kruh-tiv/  
+__lucubration__ _n_  
 __luminal__ _adj_  
 __lump__ _v_  
 __lunchtime__ _n_ :pencil2:  
@@ -312,6 +330,7 @@ __mantra yoga__ _n_ A meditation practice that focuses on chanting sacred syllab
 __marionette__ _n_ _Syn_ puppet  
 __masseuse__  
 __meliorism__ _n_ /MEE-lee-uh-riz-um/ _Meliorism_ refers to the belief that the world tends to improve and that humans can aid its betterment.  
+__memento__ _n_ :mega: /muh-MEN-toh/ _Memento_ is a synonym of _souvenir_; it refers to something that is kept as a reminder of a person, place, or thing.  
 __mess tin__ _n_ A portable container for cooking or serving food, originally for military use, and generally of a rounded rectangular form.  
 __midriff__  
 __millpond__ _n_ __1__ A pool formed by damming a stream to provide water to turn a millwheel.  
@@ -350,6 +369,7 @@ __notorious__
 __nubbly__ _adj_ Rough or irregular; textured. _Syn_ homespun, nubby, slubbed, tweedy  
 __nursing__ _n_ __1__ The profession of a nurse. __2__ The tasks or care of a nurse.  
 __obsequious__ _adj_  
+__ocassion__  
 __occasion__ _n_ :pencil2:  
 __occasionally__ _adv_ :pencil2: Now and then; from time to time.  
 __occultism__ _n_  
@@ -476,6 +496,7 @@ __regardless__
 __reify__ _v_ /ˈri əˌfaɪ, ˈreɪ-/ /RAY-uh-fye/ Reifying is about considering or representing something abstract as a material or concrete thing. If you reify a concept or idea you somehow give it definite content and form.  
 __reignite__ _v_  
 __repeat__ _n_  
+__replete__ _adj_ /rih-PLEET/ Replete is an adjective used to describe things as “fully or abundantly provided or filled,” “abundantly fed,” “stout,” or “complete.”  
 __repose__ _n_ The act of resting or the state of being at rest. _Syn_ ease, relaxation, rest _The vacationer took his repose beside the swimming pool._  
 __reprieve__ _n_  
 __reputedly__ _adv_ According to general belief or supposition: _the reputedly excellent food._ :es: según dicen  
@@ -540,6 +561,7 @@ __statutory__ _adj_
 __steady__  
 __steeped__ _adj_ :two::hammer:  
 __sterling__ _n_ __1a__ British money: _pound sterling._ _Take cash in sterling._ __b__ (as modifier): _sterling reserves._  
+__stoop__ _v_ :smiling_imp: Debase oneself morally, act in an undignified, unworthy, or dishonorable way. _Syn_ condescend, lower oneself  
 __stopover__ _n_  
 __store__ _n_ :dart: A mercantile establishment for the sale of goods or services.  
 __stove__ _n_  
@@ -598,6 +620,7 @@ __unnoticed__ _adj_ /ʌnˈnəʊtɪst/ Not perceived or observed. _You may go unn
 __unpretentious__ _adj_ :es: sin pretensiones; modesto  
 __unrequited__ _adj_ /ˌʌn rɪˈkwaɪ tɪd/  
 __unsavory__ _adj_  
+__unsteady__ _adj_ Not firm, solid, or securely in place; unstable. _Syn_ unfirm  
 __untapped__ _adj_ :es: sin explotar  
 __untoward__  
 __upshot__ _n_ :dart:  
@@ -606,12 +629,13 @@ __VE Day__
 __venomous__ _adj_ /ˈvɛn ə məs/  
 __viaduct__  
 __Victoria Cross__ _n_  
-__vilify__ _vt_  
+__vilify__ _vt_ :two::hammer: /VIL-uh-fye/  
 __virid__ _adj_ /VIR-id/ Bright green.  
 __visa national__ _n_ A person from a country whose citizens are required to obtain a visa before entering the United Kingdom, regardless of the purpose or duration of their visit.  
 __visa__ _n_ An official authorization appended to a passport, permitting entry into and travel within a particular country or region subject to certain conditions, such as length of time and purpose of the visit.  
 __visage__ _n_ /VIZ-ij/  
 __vitiate__ _v_ :dart: /VISH-ee-ayt/ To _vitiate_ something is to ruin it or render it ineffective. _A single inaccuracy in the spreadsheet that supported the data vitiated the entire proposal._  
+__vituperatory__ _adj_ :smiling_imp: /vy-TOO/TYOO-pruh-tor-ee/ [:scroll: From Latin vituperare (to blame), from vitium (fault) + parare (to make or prepare)] Criticizing bitterly, scathing, abusive.  
 __vivisection__ _n_  
 __vulnerable__ _adj_ /VUL-nuh-ruh-bul/  
 __waddle__ _v_  
@@ -631,6 +655,7 @@ __windjammer__ _n_ :es: buque de vela (grande y veloz)
 __wispy__ _adj_ Wisplike; delicate, faint, light, etc. _Wispy hair._  
 __witchcraft__ _n_  
 __withdrawal symptom__ _n_ :dart: Any physical or psychological disturbance (as sweating or depression) experienced by a drug addict when deprived of the drug.  
+__withhold__ _v_ :pencil2:  
 __woe__  
 __woodwork__ _n_ __1__ (Crafts) The art, craft, or skill of making things in wood; carpentry. :es: carpintería __2__ (Building) components made of wood, such as doors, staircases, etc. _Woodwork fascia._  
 __word-perfect__ _adj_  
