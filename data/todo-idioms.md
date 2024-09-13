@@ -498,31 +498,6 @@ __spend a penny__ _euphemism_ To go to the toilet. Primarily heard in UK.
 __stamp of approval__ An indication of endorsement or authorization of something.  
 __stand on (one’s) own (two) feet__ To be strong and independent; to not need the help, guidance, or resources of another person.  
 __stands to reason__  
-__to the contrary__ Opposite to what has just been said.  
-__tooth and nail__ Furiously or fiercely; with all of one’s strength and effort.  
-__top-heavy__ __1__ _slang_ Of a woman, having very large breasts. __2__ _slang_ Of a man, having large upper-body muscles with relatively small lower-body muscles.  
-__trip along__  
-__turd blossom__  
-__turn a blind eye to something__  
-__turn of phrase__  
-__under false pretenses__ With a false impression created through intentional misrepresentation.  
-__under the guise of (something)__  
-__under-promise and over-deliver__ To avoid raising expectations in order to subsequently exceed them. Used as a strategy to ensure the satisfaction of one’s client, customer, boss, etc. Also spelled without hyphens.  
-__up (one’s) alley__ Well suited to one’s interests. _I really like Romantic poetry, so this class on John Keats should be up my alley._  
-__upper__ Any recreational drug, typically an amphetamine, taken as a stimulant. _I got hooked on uppers in college when I took them to help me study for long hours._  
-__usual suspects__  
-__w/end__ :three: _informal_ Weekend.  
-__wait and see__  
-__walk in__ To enter some establishment or event as a casual attendee.  
-__warts and all__ :dart: Including any imperfections or flaws. _If you’re going to marry him, then you better love him, warts and all._  
-__watershed moment__  
-__well-to-do__ _A well-to-do doctor._  
-__wet kiss__  
-__when pigs can fly__ At a point in time that will never come to pass. (Used to show skepticism or cynicism over some hypothetical situation or outcome.)  
-__where to draw the line__  
-__whip out__ :two::hammer:  
-__whizz__ _slang_ (whiz) (Recreational Drugs) A slang word for amphetamine.  
-__wild ride__ A _wild ride_ refers to an experience or adventure that is thrilling, intense, unpredictable, and often exhilarating.  
 __willy-nilly__ :two::hammer: [:scroll: This expression is a shortened form of ‘willing or not willing.’]  
 __wind down__ __2__ To cause something to slow and near an ending. In this usage, a noun or pronoun can be used between “wind” and “down.” _We’ll wind down our practice with some gentle stretches._  
 __with a start__ The phrase “with a start” refers to a sudden, involuntary movement or reaction, typically caused by surprise or alarm. It is often used to describe the action of waking up abruptly, as in the expression “I woke up with a start.” _I dreamed about falling and I woke with a start._  

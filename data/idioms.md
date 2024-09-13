@@ -6201,6 +6201,7 @@ __to say the least__ :two::hammer:
 __to see red__ Very angry.  
 __to some extent__ :two::hammer:  
 __to that end__ :four::hammer: (to that end,)  
+__to the contrary__ Opposite to what has just been said.  
 __to the core__ :two: Fully or completely; in the most essential or inherent way. _Charming to the core._  
 __to the fore__  
 __to the fullest__  
@@ -6222,7 +6223,7 @@ __too little too late__
 __too many irons in the fire__ :dart: An excessive number of simultaneous activities or potential undertakings or opportunities underway. _I have too many irons in the fire at work right now, and it’s going to be tricky to balance all of them over the next few weeks._  
 __toot (one’s) own horn__ :two: To boast or brag about one’s own abilities, skills, success, achievements, etc._ I don’t mean to toot my own horn, but this pasta sauce I made is quite delicious!_  
 __toot__ __5__ _v_ _slang_ To emit a small, often audible fart. _Oops! Sorry for tooting!_ _My kids thought it was hilarious when I tooted in front of them._  
-__tooth and nail__  
+__tooth and nail__ :two: Furiously or fiercely; with all of one’s strength and effort.  
 __top banana__ The person with the most authority, power, or influence in a group or organization. _Syn_ top dog  
 __top dog__ :three::hammer: _ChatGPT-4 is still the top dog._ _Llama 3 is now the top dog in open-source AI models._  
 __top of mind__ :dart::two: Occupying one’s foremost attention or concern. Often hyphenated when used before a noun. _I assure you that privacy issues are a top-of-mind priority for our company._ _His top-of-mind interest._  
@@ -6230,6 +6231,7 @@ __top off__ _L.A. is topping off pools, watering lawns, washing cars._
 __top something up__ To add a bit of something to replenish the amount that was used. _Let me top your drink up. Can I top up your glass?_ _Topping up testosterone doesn’t reduce fractures._  
 __top the bill__ Be the most important item or performer in a show, play, etc: _Topping the bill tonight will be Robbie Williams._ _I’ll top the bill, I’ll overkill._  
 __top-flight__ Stellar; excellent; of the highest level of quality or worth. Can be used with or without the hyphen when used after a noun.  
+__top-heavy__ __1__ _slang_ Of a woman, having very large breasts. __2__ _slang_ Of a man, having large upper-body muscles with relatively small lower-body muscles.  
 __topsy-turvy__ :two::hammer: _There’s an old Zen saying: “The world is topsy-turvy.”_ _Welcome back to another topsy-turvy day in AI._  
 __torqued off__ Particularly irritated, frustrated, or exasperated. _It’s no use getting torqued off just because you don’t like your professor’s style of teaching._  
 __toss (one’s) hat in(to) the ring__  
@@ -6268,6 +6270,7 @@ __tricks up one’s sleeve__ _Chicago has a few tricks up its sleeve._
 __trifle with (someone or something)__ To treat or deal with someone or something in a frivolous or disrespectful manner. Often used in passive constructions.  
 __trigger__ :five: __1__ _n_ Something that causes one psychological distress, typically because it reminds them of a past trauma. _The graphic descriptions in that article were a trigger for me._ __2__ :dart: _v_ To cause psychological distress in someone, typically by reminding them of a past trauma. _This article might be triggering for child abuse survivors._  
 __trim the fat__ :dart: To excise or discard elements that are seen as superfluous or unnecessary.  
+__trip along__  
 __trip__ _We were tripping on acid when we broke._  
 __Trojan horse__ :two::hammer:  
 __trot out__  
@@ -6283,16 +6286,18 @@ __try out__ :two::hammer:
 __tuff__ :two: In James Ellroy’s novels, the term “tuff” is often used to describe someone who is tough, gritty, and hardened. Ellroy is known for his hardboiled writing style and his focus on the seedy underbelly of society, and the term “tuff” reflects that. It’s often used to describe characters who are street-smart, tough-talking, and unafraid to engage in violent or risky behavior.  
 __tug of war__ :three: A struggle for supremacy.  
 __tune into (someone or something)__  
+__turd blossom__  
 __turf war__ :two::hammer:  
 __turkey__ :two: __3__ _n_ _slang_ Stupid person.  
 __turn (one’s) back on (someone or something)__ :two: To ignore, disregard, or exclude someone or something; to abandon, give up on, or forsake someone or something. _It’s clear that the company has turned its back on customers._  
 __turn (someone or something) upside down__  
 __turn (something) on its head__ :four::hammer:  
+__turn a blind eye to something__  
 __turn a deaf ear (to someone or something)__  
 __turn around__ :three: __7__ To improve in some way, especially after a poor performance. To change something unsuccessful into something successful. _The playoffs start in a month—that doesn’t leave much time for things to turn around._  
 __turn away__ To refuse to let someone come into a place.  
 __turn heads__ :three: To capture people’s attention due to being exceptionally interesting, beautiful, unusual, or novel. The image is of people literally turning to stare at something as it passes by.  
-__turn of phrase__  
+__turn of phrase__ :two::hammer:  
 __turn on someone__ To attack someone. _I thought the strange dog was friendly, but suddenly it turned on me and bit me._  
 __turn out all right__  
 __turn out__ __6__ _v_ To result or end up as; to be ultimately discovered or considered to be (something). _I thought the dinner turned out really well!_ _He turned out to be a liar when all was said and done._ _Turns out I never lost the ticket—it was in my pocket the whole time!_  
@@ -6327,20 +6332,21 @@ __under (one’s) breath__ Spoken in such a soft, quiet voice that others cannot
 __under (one’s) watch__ A situation where someone is responsible for overseeing or supervising a particular task, project, or group of people. It implies that the person in question has the duty of ensuring that everything runs smoothly and according to plan.  
 __under (one’s) wing__ :two: Under one’s care, protection, or tutelage. _Our parents died when we were quite young, so my aunt took us under her wing._  
 __under (one’s)/the skin__ __1__ Inherently; essentially. In this usage, “the” is used between “under” and “skin.” _She’s really a sweet girl under the skin—her sassy attitude just gets in the way of that sometimes._ __2__ Said of something that is a source of irritation. In this usage, a personal pronoun is used between “under” and “skin.” _I just can’t stand Dean’s voice, so everything he says gets under my skin._ __3__ Said of someone or something that one is obsessing about. In this usage, a personal pronoun is used between “under” and “skin.” _I can’t get that beautiful girl I met earlier off my mind. She’s just under my skin now._  
+__under false pretenses__ :smiling_imp: With a false impression created through intentional misrepresentation.  
 __under fire__ :three: Subject to intense criticism or judgment. _You will definitely come under fire if they find out that you were responsible for the printing error._  
 __under one’s belt__  
 __under one’s thumb__  
 __under pressure__ Facing or enduring something such as pressure or a deadline.  
 __under scrutiny__ :two::hammer:  
 __under the aegis of__ Under the protection, sponsorship, or patronage of; under the supervision, control, or management of. _This course will be offered under the aegis of the English Department._  
-__under the guise of (something)__  
+__under the guise of (something)__ :two::hammer::smiling_imp:  
 __under the gun__  
 __under the hood__ :two::hammer:  
 __under the radar__ Doing something without other people noticing.  
 __under the sun__ :three: It’s used for emphasizing that something includes a very wide range of things. _Doctors did everything under the sun, but they couldn’t save her life._  
 __under the weather__ :two: To feel ill.  
 __under the yolk__  
-__under-promise and over-deliver__ To avoid raising expectations in order to subsequently exceed them. Used as a strategy to ensure the satisfaction of one’s client, customer, boss, etc. Also spelled without hyphens. _I want all of our customer service representatives to under-promise and over-deliver, so that all experiences with our company are positive ones._  
+__under-promise and over-deliver__ :two: To avoid raising expectations in order to subsequently exceed them. Used as a strategy to ensure the satisfaction of one’s client, customer, boss, etc. Also spelled without hyphens. _I want all of our customer service representatives to under-promise and over-deliver, so that all experiences with our company are positive ones._  
 __undivided/full/complete attention__ Concentration on what someone is doing or saying. _Please give the speaker your undivided/full/complete attention._  
 __unf*ckwithable__ :dart: A Definition: “When you’re truly at peace and in touch with yourself. Nothing anyone says or does bothers you and no negativity can touch you.” —Vishen Lakhiani, _The Code of the Extraordinary Mind_  
 __unheard of__ :seven: Extremely uncommon or unusual; beyond belief. Hyphenated if used as a modifier before a noun. _His prowess on the balance beam is unheard of._ _Investors began making unheard-of amounts of money on these risky investments._ _It’s not unheard of for individual contributors to question their superiors’ decisions._  
@@ -6350,6 +6356,7 @@ __unsung hero__
 __until all hours (of the day and night)__ Until a very late hour of the night or early hour of the morning. _Johnny keeps taking the car and staying out until all hours, and I just don’t know what to do anymore!_ _She sat up till all hours trying to finish her essay._  
 __until kingdom come__ For a very long, indefinite amount of time; forever.  
 __until next time__ :two::hammer:  
+__up (one’s) alley__ Well suited to one’s interests. _I really like Romantic poetry, so this class on John Keats should be up my alley._  
 __up a notch__ To an increased or extreme degree of intensity or quality.  
 __up a tree__ In a difficult situation.  
 __up and coming__ :two: (up-and-coming) An _up and coming_ person is someone who is likely to be successful in the future. On a trajectory to become established or successful, especially in a career or as a business. Sometimes hyphenated. _She’s an up and coming star in the marketing department._ _I like to catch up-and-coming bands at small venues, before they hit it big._ _Check out NFX’s list of the top 75 up-and-coming generative AI startups._  
@@ -6370,10 +6377,12 @@ __up-and-coming__ :two::hammer: _Up-and-coming writers and artists._
 __upbeat__ _informal_ :two: Of, inspiring, or exuding cheerfulness, happiness, or optimism.  
 __uphill battle__ :dart::four: Something very difficult to do.  
 __uplevel__ _slang_ :dart: To make progress or improve in a specific skill or area of one’s life. _I started taking an online course to help uplevel my word-processing skills._  
+__upper__ :smiling_imp: Any recreational drug, typically an amphetamine, taken as a stimulant. _I got hooked on uppers in college when I took them to help me study for long hours._  
 __ups and downs__ :two: Positive and negative events or experiences, considered collectively. _Oh, we’ve had our share of ups and downs, like any married couple._  
 __urban legend__ A myth or piece of folklore that is totally false. _That story about the rats in the sewer being as big as dogs is an urban legend. It’s just not so._  
 __user base__ :two: (business jargon) The number units of a particular product or service that are currently in use, especially software or an internet or computing platform. (Also referred to as “install(ed) user base” or simply “install(ed) base.”)  
 __usher in__  
+__usual suspects__  
 __utterly__  
 __vac__  
 __vacillate between (one person or thing) and (another)__  
@@ -6396,7 +6405,8 @@ __victory lap__ An act of pride or celebration that follows a great achievement 
 __vie for (something)__ :two::hammer:  
 __vouch for (someone or something)__  
 __vroom__  
-__wait and see__ :three: To act with caution and patience until something happens. _I guess I just have to wait and see until the doctor calls with the test results._  
+__w/end__ :three: _informal_ Weekend.  
+__wait and see__ :four: To act with caution and patience until something happens. _I guess I just have to wait and see until the doctor calls with the test results._  
 __wait for it__ :two::hammer:  
 __wait for the other shoe to drop__ To wait for something bad to happen.  
 __wait-and-see__ Hesitant, skeptical, or circumspect, as of a mindset, outlook, or tactic. _With all due respect, the situation is too dire for this kind of wait-and-see approach._  
@@ -6408,6 +6418,7 @@ __walk away from (someone or something)__
 __walk away__ _Knowing when to walk away is an essential life skill._  
 __walk down the aisle__ To get married.  
 __walk in the park__ :two::hammer: _Major depression—and especially treatment-resistant depression—is no walk in the park._  
+__walk in__ To enter some establishment or event as a casual attendee.  
 __walk on air__ To be in a state of extreme happiness. _I’ve been walking on air ever since I got engaged!_  
 __walk on eggs__ :four: (walk on eggshells) To act or proceed with great care, caution, and consideration so as not to upset someone or trigger some imminent disaster. _The littlest thing tends to anger my mother, so I feel like I have to walk on eggs whenever I’m at her house._  
 __walk on eggshells__ :dart::three: To walk on eggshells is to exercise extreme caution. The extended use apparently comes from the fact that eggshells are fragile and would, upon being stepped on, break easily. It would take an impossibly light step to not break them. The phrase is used especially to refer to acting carefully around someone who may be easily upset. _They had to walk on eggshells around the unpredictable coworker._  
@@ -6430,6 +6441,7 @@ __want out__ _When it became hard you wanted out._
 __war chest__ :four: A financial reserve collected and maintained for specific political purposes, especially election campaigns. _The party has been able to strengthen its war chest ahead of the midterm elections, thanks to huge donations from across the tech sector._  
 __war of attrition__  
 __warmed-over__ Unoriginal, reused, or derivative. An allusion to reheated leftover food.  
+__warts and all__ :dart: Including any imperfections or flaws. _If you’re going to marry him, then you better love him, warts and all._  
 __wash (one’s) mouth out (with soap)__  
 __wash (someone’s) mouth out (with soap)__ To punish someone for using rude, vulgar, or obscene language by cleaning their mouth with soap (usually used merely as a threat).  
 __wash over (someone or something)__ :two::hammer:  
@@ -6447,7 +6459,7 @@ __water torture__
 __water under the bridge__ :dart::two::hammer: _We’ll regard it as water under the bridge, shall we?_  
 __watered-down__  
 __watering hole__ :two::hammer: _Revelers can move around watering holes with impunity._  
-__watershed moment__ :four: A moment of critical importance that marks a dramatic change of course for a particular situation or activity. _The result of the lawsuit proved to be a watershed moment in the fight against censorship._  
+__watershed moment__ :five: A moment of critical importance that marks a dramatic change of course for a particular situation or activity. _The result of the lawsuit proved to be a watershed moment in the fight against censorship._  
 __wax lyrical about something__ If you _wax lyrical_ about a subject, you talk about it in an enthusiastic way. _He waxed lyrical about the skills and commitment of his employees._  
 __way back when__ A relatively long time ago, especially when recalling something that is not the case now. Primarily heard in US. _I used to really like this band way back when, but now that I’m older, they just sound silly to me._  
 __way of life__  
@@ -6471,10 +6483,12 @@ __weirded out__ Acutely disturbed, awkward, or ill at ease.
 __well in advance__ _Book tickets well in advance._  
 __well played__  
 __well-heeled__ :two: (well-fixed; well-off) [:scroll: Alluding to a person who can easily afford to replace shoes often] Wealthy; with sufficient money. Having plenty of money; prosperous. _My uncle can afford a new car. He’s well-heeled. Everyone in his family is well-off._  
+__well-to-do__ _A well-to-do doctor._  
 __well, well, (well)__ Used to express surprise or incredulity, either sincerely or sarcastically. _Well, well, I must say that I didn’t expect to see results like that from the experiment!_  
 __welp__ A common alternative to “well” that is used to express disappointment, often in text messaging.  
 __Were you born in a tent?__ Have you no basic manners? (Usually said after someone has left open a door to the outside.) _Shut the door, it’s freezing outside! Were you born in a tent?_  
 __west of the Mississippi__ _The Oregon Symphony is the oldest major orchestra west of the Mississippi._  
+__wet kiss__  
 __whack__  
 __whack-a-mole__ :astonished: __2__ By extension, a situation in which problems continue to arise faster than one is able to solve or cope with them, resulting in piecemeal, incomplete, or temporary results. _Every time we think we have the software debugged, more problems show up. We’ve just been playing whack-a-mole from day one!_  
 __whale on (someone or something)__  
@@ -6505,7 +6519,7 @@ __wheel man__ The driver of an escape vehicle during some kind of crime, especia
 __wheels are turning, the__ Things have begun developing, unfolding, or progressing. _That gets your wheels turning._  
 __when in Rome (do as the Romans do)__ _proverb_ One should do what is customary or typical in a particular place or setting, especially when one is a tourist. _I don’t love cotton candy, but we are at a carnival. When in Rome, right?_  
 __when it comes to (someone or something)__  
-__when pigs can fly__ At a time that will never come to pass. (Used to show skepticism or cynicism over someone’s hypothetical remark.)  
+__when pigs can fly__ :two: At a point in time that will never come to pass. (Used to show skepticism or cynicism over some hypothetical situation or outcome.)  
 __when pigs fly__ :three: Never, impossible.  
 __when the chips are down__ :three: When a situation has become especially difficult, desperate, or hard to recover from. The expression alludes to having a low amount of poker chips, which means that one may soon lose. _You can tell a lot about a person’s character from how they act when the chips are down._  
 __when the rubber hits the road__ The point at which someone’s or something’s efforts, resolve, or viability are put to the test; the point at which things become truly or meaningfully challenging.  
@@ -6513,6 +6527,7 @@ __when the stakes are low__ When the stakes are low, it means that there is litt
 __where (one) stands__  
 __where the sun doesn’t shine__  
 __where there’s a will, there’s a way__ _proverb_ If one is motivated enough to do something, they will find a way to do it. _Don’t tell me it’s impossible. Where there’s a will, there’s a way. And we’re going to find that way._  
+__where to draw the line__  
 __wherever you go, there you are__ :two: _proverb_ No matter where you go, you can’t escape yourself. _Sure, you’ll get some distance from your family when you move to Alaska, but your problems will be there too. Wherever you go, there you are._  
 __whet (one’s) appetite__  
 __which way the wind blows__ What appears probable or likely; how a certain course or situation is likely to develop. _It looks like I might be considered for the job, but I’m waiting to see which way the wind blows._  
@@ -6520,7 +6535,7 @@ __while away__ :two::hammer: _Nothing welcomes the summer season better than whi
 __while supplies last__ :two::hammer:  
 __while the night__ _Anyone who is anyone has whiled the night away here._  
 __whip by__ (whipping by) _The summer is whipping by._  
-__whip out__  
+__whip out__ :three::hammer:  
 __whip up__  
 __whip your hair__ When you “whip your hair,” you’re moving your head and hair in a fast and forceful motion. The phrase is meant to evoke a sense of power and confidence.  
 __whipcrack__ “Whipcrack” is a term that James Ellroy uses in his novels to describe a fast, sharp, and sudden action or event. It’s used to evoke a sense of speed, intensity, and urgency.  
@@ -6537,6 +6552,7 @@ __white-knuckle__
 __whitewash__ :two::hammer:  
 __whittle down__  
 __whiz up__ _Go-karts can whiz up to 45 miles per hour._  
+__whizz__ _slang_ :smiling_imp: (whiz) (Recreational Drugs) A slang word for amphetamine.  
 __Who calls the shots?__ Who dictates how this situation or agenda proceeds? Who has authority here? _Who calls the shots for Thanksgiving dinner, Mom or Grandma?_  
 __who cares__ (who cares?; what do I, you, etc. care?) A phrase used to dismiss something as insignificant. _Oh, who cares, it’s not a big deal anyway._  
 __who’s who__ __2__ A gathering of the most famous, important, or influential individuals in a larger group, field, or profession. _The gala event is shaping up to be a who’s who of the film industry._  
@@ -6552,7 +6568,7 @@ __why on earth__ :five: __1__ _proverb_ What one person may consider worthless c
 __wide berth__ A good distance (between things, people, etc.). Originally referred to ships. _Once I learned that there was a lice outbreak, I kept a wide berth from all of my students for the rest of the day._  
 __wigged out__  
 __wild goose chase__ :dart::five: (wild-goose chase) A prolonged or chaotic search for something that is difficult to find (often because it does not exist). A worthless hunt or chase; a futile pursuit. A situation where you are looking for something that does not exist or that you are very unlikely to find, so that you waste a lot of time. _It looks like they’ve sent us on a wild goose chase._ A prolonged or chaotic search for something that is difficult to find (often because it does not exist). _I’ve been on a wild goose chase trying to find a bag of Dan’s favorite potato chips._  
-__wild ride__  
+__wild ride__ :two: A _wild ride_ refers to an experience or adventure that is thrilling, intense, unpredictable, and often exhilarating.  
 __wild__ :two::hammer:  
 __wild-goose chase__ A worthless hunt or chase; a futile pursuit. _I wasted all afternoon on a wild-goose chase._  
 __wildest dreams__ :two: All the things that one has ever imagined or hoped. Always used in a phrase such as “in (one’s) wildest dreams” or “never in (one’s) wildest dreams.” _Never in my wildest dreams did I think that someday I’d be living in Paris!_  
