@@ -1,4 +1,7 @@
+__abound__ _vi_  
 __abscess__ _n_ /ˈæbsɛs; -sɪs/ A localized collection of pus formed as the product of inflammation and usually caused by bacteria.  
+__abscond__ _v_  
+__acquittal__ _n_  
 __acumen__ _n_ /AK-yoo-mun/ _Acumen_ refers to keenness and depth of perception, discernment, or discrimination—in other words, the ability to think clearly and make good decisions, especially in practical matters.  
 __adulterant__ _n_ /əˈdʌl tər ənt/  
 __affect__ _v_ __1__ To put on a false show of; simulate: _affected a British accent._ Pretend. __4__ 4. To imitate; copy.  
@@ -11,17 +14,22 @@ __anilingus__ _n_ Oral stimulation of the anus.
 __anodyne__ _adj_ Capable of soothing or eliminating pain. _Syn_ analgesic, analgetic  
 __anorexia nervosa__ _n_ /nɜrˈvoʊ sə/ An eating disorder characterized by a fear of becoming fat, a distorted body image, and excessive dieting leading to emaciation.  
 __ansaphone__ _n_ /ˈɑːnsəˌfəʊn/ Another name for answering machine.  
+__appalling__  
 __aquavit__  
 __arable__ _adj_ /ˈærəbəl/ Fit for cultivation, as by plowing.  
+__arbitration__  
+__arbitrator__  
 __archetypal__ _adj_ /ˌɑːkɪˈtaɪpəl/ (archetypical)  
 __archway__ _n_ :es: pasaje abovedado  
 __armistice__ _n_  
 __arthralgia__ _n_ är-thrăl′jə/ Neuralgic pain in a joint or joints.  
+__articulate__ _v_  
 __aspersion__ _n_ /uh-SPUHR-zhuhn/shuhn/ __1__ A damaging accusation: slander. __2__ The sprinkling with water, as in baptism.  
 __attractant__ _n_ A substance, such as a pheromone, that attracts insects or other animals.  
 __attritional__ _adj_ :dart: Relating to or caused by attrition. _Attritional battles._  
 __au pair__ _n_ A young foreigner who provides childcare for a family in exchange for room and board, often a small stipend, and the opportunity to study.  
 __audacity__ _n_ :dart: Fearless daring; intrepidity. _Syn_ temerity  
+__ayahuasca__  
 __barbiturate__ _n_ :es: barbitúrico  
 __bardolatry__ _n_ [:scroll: Coined by George Bernard Shaw from bard (poet) + -latry (worship)] _facetious_ Idolatry or excessive admiration of William Shakespeare.  
 __batter__ _v_ :two: __1a__ To hit heavily and repeatedly with violent blows. _Syn_ beat __b__ To subject to repeated beatings or physical abuse.  
@@ -34,8 +42,10 @@ __birch tree__
 __bleak__ _adj_  
 __blithely__ _adv_ In a joyous manner.  
 __board__ _v_ __17__ To furnish with meals, or with meals and lodging, esp. for pay.  
+__bobbin__ _n_ A cylinder or cone for holding thread; a spool or reel.  
 __bog__ _n_ _A cow grazing in a bog._  
 __boiler suit__ _n_ _BrE_ A one-piece work garment consisting of overalls and a shirt top usually worn over ordinary clothes to protect them.  
+__bollock__ _vt_  
 __bonnet__ _n_ :three::hammer:  
 __booby trap__ _n_  
 __bow-legged__ _adj_ :three::hammer:  
@@ -76,7 +86,9 @@ __chemist__ _n_ __1__ A scientist specializing in chemistry. __2__ _Chiefly Brit
 __chockablock__ _adj_ /CHAH-kuh-blahk/ Something described as chockablock is very full or tightly packed.  
 __choosy__ _adj_  
 __chrome__ _n, v_ /kroʊm/  
+__chuck out__ _v_  
 __chute__ _n_  
+__civil action__  
 __claimant__ _n_ :es: demandante; solicitante  
 __clean-shaven__ _adj_ __1__ Having the beard or hair shaved off. __2__ Having recently shaved.  
 __cleaning agent__  
@@ -91,8 +103,9 @@ __colloquy__ _n_ :pencil2: /ˈkɒl ə kwi/
 __coma__ _n_  
 __commensurability__ _n_ /kuh-men-suh/shuh-ruh-BIH-lih-tee/ __1__ The quality of being in proportion or suitable in relation to something else. __2__ The quality of being measurable by a common standard; comparability.  
 __comment period__ _n_ A “comment period” is a designated timeframe during which members of the public, stakeholders, or interested parties are invited to provide feedback, opinions, or suggestions on a proposed rule, regulation, policy, or decision. This process is commonly used by government agencies, organizations, or regulatory bodies to gather input before finalizing a decision or implementing a new policy.  
+__committal__ _n_ :two::hammer:  
 __communication trench__  
-__compulsory__ _adj_ _Syn_ mandatory, required  
+__compulsory__ _adj_ :two: _Syn_ mandatory, required  
 __comradeship__  
 __concourse__ _n_ __1__ A large open space for the gathering or passage of crowds, as in an airport. :es: explanada __2__ A broad thoroughfare. __3__ A great crowd; a throng. __4__ The act of coming, moving, or flowing together.  
 __condone__ _v_  
@@ -101,14 +114,18 @@ __cookhouse__ _n_
 __copious__ _adj_ /KOH-pee-us/ _Copious_ is a synonym of abundant and plentiful. It is always used before a noun to describe something very large in amount or number.  
 __cornices__ _n_ :two::hammer:  
 __cornpone__ _n_  
+__cosmesis__ _n_  
 __cot death__ _n_ _Br E_ Sudden infant death syndrome.  
 __cowed__  
 __creche__ _n_ :three::hammer:  
 __crèche__ _n_ :two: __3__ _Brit._ Say nursery.  
 __criminal offence__ _n_ An act punishable by law; usually considered an evil act. _Syn_ crime, criminal offense, law-breaking, offense, offence  
 __crisis intervention__ _n_  
+__cross examine__ _v_ :two::hammer:  
 __cruise missile__ _n_  
 __curtly__ _adv_ _‘Congratulations,’ I said curtly._  
+__cutback__  
+__darn__  
 __deaf-mute__ _adj, n_  
 __decor__ _n_  
 __degage__ _adj_ Showing lack of emotional involvement. _Syn_ detached, uninvolved  
@@ -121,6 +138,7 @@ __disarmament__ _n_
 __dishevelled__  
 __disinformation__ _n_  
 __dispensary__ _n_  
+__dissatisfied__  
 __divide__ _n_  
 __divots__ _n_  
 __dodger__ _n_ __1__ One that dodges or evades: _a skilled dodger of reporters’ questions._  
@@ -185,6 +203,7 @@ __foment__ _v_ /FOH-ment/
 __foodstuff__ _n_ :two: A substance that can be used or prepared for use as food.  
 __footage__ _n_ :mega:  
 __forecourt__ _n_  
+__form factor__ _n_  
 __fortnight__ _n_ :dart::astonished::two: [:scroll: Middle English fourtenight, alteration of fourtene night, fourteen nights] A period of 14 days; two weeks.  
 __fortnightly<sup>1</sup>__ _adj_ Happening or appearing once in or every two weeks.  
 __fortnightly<sup>2</sup>__ _adv_ Once in a fortnight.  
@@ -192,6 +211,7 @@ __fortnightly<sup>3</sup>__ _n_ :astonished: A publication issued once every two
 __fracas__ _n_  
 __fractious__ _adj_ Stubbornly resistant to authority or control. _Syn_ recalcitrant, refractory  
 __fraternize__ _v_ /FRAT-er-nyze/  
+__frontier__ _n_ :mega: /frʌnˈtɪər, frɒn-; also, esp. _Brit_, ˈfrʌn tɪər/  
 __fru__  
 __fulgent__ _adj_ /FUHL-juhnt/ Shining brilliantly; radiant.  
 __full board__ _n_ :dart: __a__ The provision by a hotel of a bed and all meals. :es: pensión completa __b__ (as modifier): _full board accommodation._  
@@ -211,7 +231,7 @@ __gerbil__ _n_ :es: jerbo
 __gestalt therapy__ _n_  
 __gestalt__ _n_ _Gestalt therapy._  
 __giro__ _n_ __2__ _informal Brit_ An unemployment or income support payment by giro cheque, posted fortnightly.  
-__glean__ _v_ /ɡliːn, glin/ To collect or pick up small amounts of news, facts, etc. :es: recoger, recopilar  
+__glean__ _v_ :two: /ɡliːn, glin/ To collect or pick up small amounts of news, facts, etc. :es: recoger, recopilar  
 __golden plover__ _n_  
 __googolplex__ _n_ /GOO-guhl-pleks/ The number 1 followed by a googol number of zeros.  
 __grawlix__ _n_ :dart: /GRAW-liks/ A series of special characters, such as “@#$%&*,” that are used to indicate either miscellaneous text, or more commonly, swear words. The term is attributed to Mort Walker, an American cartoonist known for his Beetle Bailey comic strip.  
@@ -264,10 +284,12 @@ __indictment__ _n_
 __ineffable__ _adj_ Incapable of being expressed. _Syn_ indescribable, unspeakable, untellable, unutterable, indefinable  
 __inerrant__ _adj_ Incapable of erring. _Syn_ infallible  
 __ingenuous__ _adj_ Lacking in cunning, guile, or worldliness. _Syn_ artless  
+__injunction__  
 __interfere__ _v_  
 __inviting__ _adj_ :two: Attractive; tempting: _an inviting dessert._  
 __iota__ _n_ /eye-OH-tuh/ An _iota_ is an infinitesimal amount of something. The word _iota_ is used synonymously with the etymologically related _jot_, and by its oldest definition refers to the 9th letter of the Greek alphabet.  
 __irate__ _adj_ :dart::astonished:  
+__irretrievable__ _adj_ _Irretrievable breakdown of marriage._  
 __itching__ _n_ An irritating cutaneous sensation that produces a desire to scratchitching - an irritating cutaneous sensation that produces a desire to scratch. _Syn_ itchiness, itch  
 __jalopy__  
 __jaundice__ _n_  
@@ -283,11 +305,13 @@ __Kitemark__ _n_ _BrE_ The official mark of quality and reliability, in the form
 __kudos__ _n_ /KOO-dahss/  
 __kung fu__ _n_ /ˈkʌŋ ˈfu, ˈkʊŋ/  
 __labyrinthine__ _adj_ Resembling a labyrinth in form or complexity. _Syn_ mazy  
+__lap__ _vt_ __6__ :dart: _Sports_ To get ahead of (an opponent) in a race by one or more complete circuits of the course, as in running, or by two or more lengths of a pool in swimming.  
 __lathe__ _n_  
 __leisure__ _n_  
 __lemony__ _adj_ :astonished: /ˈlɛmənɪ/  
 __lentitude__ _n_ /LEN-tuh-tood/tyood/ Slowness or sluggishness.  
 __lethargic__ _adj_ :two: /luh-THAHR-jik/ Of, relating to, or affected with lethargy; drowsy; sluggish; apathetic. _Lethargic_ describes people who feel a lack of energy or a lack of interest in doing things. It is sometimes used figuratively, as in “a sluggish and lethargic economy.”  
+__lewd__  
 __Lewis gun__  
 __liable__ _adj_  
 __lidless__ _adj_ Watchful; vigilant. _Syn_ sleepless  
@@ -318,6 +342,7 @@ __LSD__ _n_ (acid) _(Recreational Drugs)_ Lysergic acid diethylamide; a crystall
 __lucrative__ _adj_ :two::hammer: /LOO-kruh-tiv/  
 __lucubration__ _n_  
 __luminal__ _adj_  
+__lump sum__ _n_ A single sum of money that serves as complete payment.  
 __lump__ _v_  
 __lunchtime__ _n_ :pencil2:  
 __machtpolitik__ _n_ /MAHKHT-pol-ee-teek/ Power politics: policies that advocate the use of power and physical force to attain their goals.  
@@ -340,6 +365,7 @@ __misnomer__
 __missus__ _n_  
 __misuser__ _n_ __1__ One that misuses: _a misuser of school property._  
 __miter__ _n_ (mitre) A type of headdress worn by archbishops and bishops.  
+__mitochondrion__ _n_ :pencil2: (_npl_ mitochondria)  
 __moisten__ _v_  
 __Montserrat__ _n_ An island in the Leeward Islands, in the West Indies: British crown colony.  
 __moot__ _vt_  
@@ -368,6 +394,7 @@ __noticeboard__ _n_ Bulletin board.
 __notorious__  
 __nubbly__ _adj_ Rough or irregular; textured. _Syn_ homespun, nubby, slubbed, tweedy  
 __nursing__ _n_ __1__ The profession of a nurse. __2__ The tasks or care of a nurse.  
+__nurture__ _n, vt_  
 __obsequious__ _adj_  
 __ocassion__  
 __occasion__ _n_ :pencil2:  
@@ -393,6 +420,7 @@ __overnight__ _adj, adv, n_ _It happened almost overnight._
 __padded__ _adj_ Softened by the addition of cushions or padding. _Padded shorts for cycling._ _Syn_ cushioned, cushiony  
 __pagan__ _adj, n_  
 __paganism__ _n_  
+__palliative__ _adj, n_  
 __palmistry__ _n_ /ˈpɑ mə stri/ The practice or art of telling fortunes from the lines, marks, and patterns on the palms of the hands.  
 __pamphlet__ _n_ :pencil2:  
 __panoply__ _n_ /PAN-uh-plee/  
@@ -437,12 +465,14 @@ __pillion passenger__ _n_ _Brit_ A person who travels in a seat or place behind 
 __pillion__ _n_ A seat or place behind the rider of a motorcycle, scooter, horse, etc.  
 __pimple__ _n_ :es: espinilla  
 __pitch__ _n_ :es: (esp. _British_) campo, cancha  
+__plead__ _v_  
 __plod__ _v_ To walk heavily or move laboriously; trudge.  
 __plover__ _n_ :es: chorlito  
 __pluck__ _v_  
 __plumb__ _adj, adv, n_ _Bruises and plumb lines._  
 __plush<sup>1</sup>__ _n_  
 __plush<sup>2</sup>__ _adj_  
+__poaching__ _v_  
 __poll tax__ _n_ A fixed tax levied on all persons in a certain area, especially as a condition of voting in elections.  
 __polypharmacy__ _n_ The practice of prescribing multiple medications for an individual patient, especially excessively, for a single disease.  
 __polytechnic__ _adj, n_  
@@ -471,6 +501,7 @@ __proximate__ _adj_
 __pulse__ _n_ __1__ The edible seeds of certain pod-bearing plants, such as lentils and chickpeas. :es: legumbres __2__ A plant yielding these seeds.  
 __pustulate__ _adj_ Blemished by imperfections of the skin. _Syn_ acned, pimpled  
 __quaver__ _vi_ __1__ To quiver, as from weakness; tremble. _I took a quavering breath._  
+__Queen’s evidence__ _n_  
 __quiff__ _n_  
 __quiver<sup>1</sup>__ _vi_  
 __quiver<sup>2</sup>__ _n_ __1__ A portable case for holding arrows.  
@@ -487,6 +518,7 @@ __receptacle__ _n_ A device which is installed in an outlet box to receive a plu
 __reck<sup>1</sup>__ _n_ /rek/ Care or concern.  
 __reck<sup>2</sup>__ _v_ /rek/ To care or concern.  
 __reckless__ _adj_  
+__recompense__ _n_  
 __red-hot__ _adj_ __2__ Heated, as with excitement, anger, or enthusiasm: _a red-hot speech._ _The red-hot property market._  
 __redleg__ _n_ /ˈrɛdˌlɛɡ/ _derogatory Caribbean_ A poor White person.  
 __reef__ _n_ __3__ _Nautical_ A portion of a sail gathered in and secured to lessen the area exposed to the wind.  
@@ -495,6 +527,8 @@ __refuse__ _v_ /rɪˈfjuːz/
 __regardless__  
 __reify__ _v_ /ˈri əˌfaɪ, ˈreɪ-/ /RAY-uh-fye/ Reifying is about considering or representing something abstract as a material or concrete thing. If you reify a concept or idea you somehow give it definite content and form.  
 __reignite__ _v_  
+__remand__ _n_ :three::hammer:  
+__remanded__ _v_  
 __repeat__ _n_  
 __replete__ _adj_ /rih-PLEET/ Replete is an adjective used to describe things as “fully or abundantly provided or filled,” “abundantly fed,” “stout,” or “complete.”  
 __repose__ _n_ The act of resting or the state of being at rest. _Syn_ ease, relaxation, rest _The vacationer took his repose beside the swimming pool._  
@@ -525,6 +559,7 @@ __skirl<sup>1</sup>__ _vi_ /SKERL/ To produce a high, shrill, wailing tone. Used
 __skirl<sup>2</sup>__ _vt_ To play (a piece) on bagpipes.  
 __skirl<sup>3</sup>__ _n_ __1__ The shrill sound made by the chanter pipe of bagpipes. __2__ A shrill wailing sound: _“The skirl of a police whistle split the stillness” (Sax Rohmer)._  
 __slightly__ _adv_ __1__ To a small degree or extent; somewhat. __2__ Slenderly; delicately: _slightly built._  
+__slop out__ _v_ :smiling_imp: (of prisoners) To empty chamber pots and collect water for washing.  
 __sludge__ _n_  
 __slush__ _n_ (drink?)  
 __smallholding__ _n_  
@@ -533,6 +568,7 @@ __smell-feast__ _n_ _archaic_ One given to finding out and getting invited to go
 __smite__ _v_  
 __smitten__ _adj_  
 __smolder__ _v_ (smoulder)  
+__smother__ _v_  
 __snarl__ _n_ __1__ A vicious growl, utterance, or facial expression. __2__ The act of snarling. __3__ A tangled mass, as of hair or yarn. __4__ A confused, complicated, or tangled situation: _a traffic snarl._  
 __snoop__ _vi_ To pry into the private affairs of others, especially by prowling about.  
 __snort__ _v_  
@@ -551,6 +587,7 @@ __splosh__ _v_
 __spruce__ _n_ :es: abeto  
 __spud__ _n_ _I was peeling spuds in the cookhouse._  
 __squally__ _adj_ __1__ Characterized by squalls. __2__ Stormy; threatening. _Squally showers._  
+__squealer__  
 __squeegee__  
 __squelch__ _v_  
 __squirm__ _vi_  
@@ -584,24 +621,29 @@ __summit__ _v_
 __summons__ _n_  
 __sunder__ _v_  
 __superannuated__ _adj_ Retired or ineffective because of advanced age. _Syn_ over-the-hill, overaged  
-__superintendent__ _n_ _A park superintendent._  
+__superintendent__ _n_ :two: A rank in British police services and in most English-speaking Commonwealth nations. _A park superintendent._  
 __supersede__ _v_ /soo-per-SEED/ _Syn_ replace, displace  
+__surety__ _n_  
 __surplice__  
 __suspicious__ _adj_ :es: desconfiado; sospechoso; suspicaz  
 __swedes__ _n_ :two::hammer: _I helped her mash the swedes._  
+__switchboard__  
 __swivel__ _v_  
 __tabloid__ _n_ :dart::astonished:  
 __tackle__ _n_ _The tackle broke when they tried to lift the heavy bell._  
 __Tartuffe__ _n_ (Tartufe) [:scroll: after the title character in a Molière play (1664)] A person who hypocritically pretends to be deeply pious.  
 __therapy__ _n_ /ˈθɛr ə pi/  
+__thimbel__ _n_  
 __thrash__ _v_  
 __throb__ _v_ _My hand was throbbing._  
 __top dog__  
+__top-heavy__ _adj_ __3__ (Commerce) (of a business enterprise) Having too many executives.  
 __tractable__ _adj_ /TRAK-tuh-bul/ _Tractable_ is used to describe someone or something that is easily led, managed, taught, or controlled.  
 __traffic warden__ _n_ _Brit_ A person who is appointed to supervise road traffic and report traffic offenses.  
 __tramp__ _n_ (vagrant?)  
 __tranquil__ _adj_  
 __transgression__ _n_ /trans-GRESH-uhn/ A violation of legal or moral boundaries.  
+__transsexual__ _n_ :pencil2:  
 __trawl__ _v_  
 __tread__ _v_ (trod)  
 __twine__ _n_  
@@ -617,16 +659,19 @@ __underdog__ _n_
 __ungainly__ _adj_ :two: /un-GAYN-lee/ Lacking grace or ease of movement or form. _Syn_ clumsy, clunky, gawky, unwieldy  
 __unlatched__ _adj_ Not firmly fastened or secured.  
 __unnoticed__ _adj_ /ʌnˈnəʊtɪst/ Not perceived or observed. _You may go unnoticed._  
+__unpleasant__ _adj_ _Unpleasant surprise._  
 __unpretentious__ _adj_ :es: sin pretensiones; modesto  
 __unrequited__ _adj_ /ˌʌn rɪˈkwaɪ tɪd/  
 __unsavory__ _adj_  
 __unsteady__ _adj_ Not firm, solid, or securely in place; unstable. _Syn_ unfirm  
+__unsung__ _adj_ __1__ Not honored or praised; uncelebrated: _an unsung hero._  
 __untapped__ _adj_ :es: sin explotar  
 __untoward__  
 __upshot__ _n_ :dart:  
 __vagaries__ _n_  
 __VE Day__  
 __venomous__ _adj_ /ˈvɛn ə məs/  
+__verboten__ _adj_ :astonished: Forbidden; prohibited.  
 __viaduct__  
 __Victoria Cross__ _n_  
 __vilify__ _vt_ :two::hammer: /VIL-uh-fye/  
