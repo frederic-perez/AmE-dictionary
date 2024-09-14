@@ -41,6 +41,7 @@ __big game__ _n_ __1__ Large animals or fish hunted or caught for sport.
 __birch tree__  
 __bleak__ _adj_  
 __blithely__ _adv_ In a joyous manner.  
+__blood sport__ _n_ Any sport involving killing or the shedding of blood, as bullfighting, cockfighting, or hunting. Any sport involving the killing of an animal, esp hunting.  
 __board__ _v_ __17__ To furnish with meals, or with meals and lodging, esp. for pay.  
 __bobbin__ _n_ A cylinder or cone for holding thread; a spool or reel.  
 __bog__ _n_ _A cow grazing in a bog._  
@@ -63,7 +64,7 @@ __brushwood__ _n_
 __bucket shop__ _n_  
 __bulimia nervosa__ _n_  
 __burl__ _vt_  
-__bursary__ _n_  
+__bursary__ _n_ :two::hammer:  
 __bustle__ _n_  
 __byword__ _n_ _Syn_ adage, aphorism, maxim, motto, proverb, saw, saying  
 __Byzantine__ _adj_ /BIZ-un-teen/  
@@ -73,6 +74,7 @@ __callow__ _adj_ /KAL-oh/ _Callow_ is a synonym of _immature_ used to describe s
 __camp__ _n_  
 __candlestick__ _n_ (candleholder) A holder, usually ornamental, with a spike or socket for a candle.  
 __canvasser__ _n_  
+__casework__ _n_ :two: Social work involving direct contact between the social worker and the individual or family being helped.  
 __casualty__ _n_ :astonished: __3__ _(Medicine)_ A hospital department in which victims of accidents, violence, etc, are treated.  
 __catapult__ _v_ /ˈkæt əˌpʌlt, -ˌpʊlt/  
 __catchment__ _n_ :es: cuenca  
@@ -83,6 +85,7 @@ __ceiling rose__ _n_ In the United Kingdom and Australia, a _ceiling rose_ is a 
 __Ceroc__ _n_ /səˈrɒk/ (Dancing) _trademark_ A form of dance combining elements of jive and salsa.  
 __char__ _v_ Burn slightly and superficially so as to affect color. _Syn_ blacken, sear, scorch.  
 __chemist__ _n_ __1__ A scientist specializing in chemistry. __2__ _Chiefly British_ A pharmacist.  
+__childminder__ _n_ (Social Welfare) A person who looks after children, esp those whose parents are working. :es: niñera  
 __chockablock__ _adj_ /CHAH-kuh-blahk/ Something described as chockablock is very full or tightly packed.  
 __choosy__ _adj_  
 __chrome__ _n, v_ /kroʊm/  
@@ -105,11 +108,14 @@ __commensurability__ _n_ /kuh-men-suh/shuh-ruh-BIH-lih-tee/ __1__ The quality of
 __comment period__ _n_ A “comment period” is a designated timeframe during which members of the public, stakeholders, or interested parties are invited to provide feedback, opinions, or suggestions on a proposed rule, regulation, policy, or decision. This process is commonly used by government agencies, organizations, or regulatory bodies to gather input before finalizing a decision or implementing a new policy.  
 __committal__ _n_ :two::hammer:  
 __communication trench__  
-__compulsory__ _adj_ :two: _Syn_ mandatory, required  
+__compulsory__ _adj_ :three: _Syn_ mandatory, required  
 __comradeship__  
 __concourse__ _n_ __1__ A large open space for the gathering or passage of crowds, as in an airport. :es: explanada __2__ A broad thoroughfare. __3__ A great crowd; a throng. __4__ The act of coming, moving, or flowing together.  
 __condone__ _v_  
+__conscientious objector__ _n_ (CO) One who on the basis of religious or moral principles refuses to bear arms or participate in military service.  
+__conscription__ _n_  
 __convenience food__ _n_ :dart: A prepackaged food that can be prepared quickly and easily.  
+__conveyancing__ _n_ :two: (Law) The branch of legal practice dealing with the conveyance [transfer of the legal title to property] of property or real estate.  
 __cookhouse__ _n_  
 __copious__ _adj_ /KOH-pee-us/ _Copious_ is a synonym of abundant and plentiful. It is always used before a noun to describe something very large in amount or number.  
 __cornices__ _n_ :two::hammer:  
@@ -117,6 +123,7 @@ __cornpone__ _n_
 __cosmesis__ _n_  
 __cot death__ _n_ _Br E_ Sudden infant death syndrome.  
 __cowed__  
+__craft__ _n_ __5__ _crafts_ Items made by craftspeople.  
 __creche__ _n_ :three::hammer:  
 __crèche__ _n_ :two: __3__ _Brit._ Say nursery.  
 __criminal offence__ _n_ An act punishable by law; usually considered an evil act. _Syn_ crime, criminal offense, law-breaking, offense, offence  
@@ -142,6 +149,7 @@ __dissatisfied__
 __divide__ _n_  
 __divots__ _n_  
 __dodger__ _n_ __1__ One that dodges or evades: _a skilled dodger of reporters’ questions._  
+__dormitory__ _n_  
 __dosser__ _n_ Someone who sleeps in any convenient place. _Syn_ street person  
 __dowse__ _vi_ (douse) _Dowsing with a pendulum._  
 __dowsing__ _n_ The practice of prospecting for water or minerals using a divining rod. _Syn_ dowse, rhabdomancy  
@@ -159,6 +167,9 @@ __epaulettes__ _n_
 __Equity__ _n_ :astonished: /ˈɛkwɪtɪ/ _Theatre_ The actors’ trade union. Full name: Actors’ Equity Association  
 __equivocacy__ _n_ /i-KWIV-uh-kuh-see/ The quality of being deliberately ambiguous or vague.  
 __ethos__ _n_ /EE-thahss/ _Ethos_ refers to the guiding beliefs of a person, group, or organization. :es: espíritu; escala de valores _The company made environmental awareness part of its business ethos._  
+__eurythmy__ _n_  
+__exile<sup>1</sup>__ _n_ :es: exilio, destierro, :dart: exiliado, desterrado  
+__exile<sup>2</sup>__ _vt_ :es: exiliar, desterrar  
 __exonerate__ _v_  
 __fallacious__ _adj_ /fuh-LAY-shus/ _Fallacious_ is a formal word that typically describes something, such as an argument or assumption, that is false or inaccurate and that tends to mislead or deceive others.  
 __fanfare__ _n_ /FAN-fayr/ __1__ A showy public display. __2__ A brief, lively sounding of brass instruments, especially trumpets, in a celebration.  
@@ -179,6 +190,8 @@ __field dressing__
 __figuratively__ _adv_  
 __filly__ _n_  
 __fire grate__ _n_ (firegrate, fire-grate) A grate used to hold the fuel in domestic fireplaces and in many forms of heaters and furnaces. _She prepared the fire grates._  
+__firebomb<sup>1</sup>__ _n_ A bomb used to start a fire; an incendiary bomb.  
+__firebomb<sup>2</sup>__ _v_ To attack with firebombs.  
 __firebrand__  
 __flash flood__ _n_ (flashflood) A sudden flood of great volume, usually caused by heavy rain.  
 __flaunt__ _v_  
@@ -221,6 +234,7 @@ __fusty__ _adj_ /FUSS-tee/ Someone or something described as fusty is rigidly ol
 __gabby__ _adj_ Tending to talk excessively. _Syn_ chatty, garrulous, loquacious, talkative, talky  
 __gadabout__ _n_ /GAD-uh-bout/ A gadabout is a person who flits about in social activity, as by going to many places and social events for pleasure.  
 __galvanize__  
+__Gamblers Anonymous__ _n_ (GA) An organization that holds group meetings to help people who are addicted to gambling.  
 __gangrene__ _n_  
 __gasp<sup>1</sup>__ _v_  
 __gasp<sup>2</sup>__ _n_ __1__ A short convulsive intake of breath.  
@@ -246,6 +260,7 @@ __guardian__ _n_ (tutor?)
 __gutsy__ _adj_ Marked by courage and determination in the face of difficulties or danger; robust and uninhibited. _Syn_ plucky  
 __hands-off__ _adj_ Characterized by nonintervention: a hands-off foreign policy.  
 __handyman__ _n_ :es: manitas  
+__harass__ _v_  
 __hard-pressed__ _adj_  
 __hassle__ _n_  
 __hatha yoga__ _n_ A form of yogic exercise that emphasizes specific postures in combination with controlled breathing. It is widely practiced in the West.  
@@ -351,6 +366,7 @@ __Magic Eye poster__ _n_
 __maiden__ _adj_ _The _Titanic_ maiden voyage._  
 __mains tester__ _n_ An insulated screwdriver with a light in the handle.  
 __make__ _n_ :astonished:  
+__mandatory__ _n_ :mega: /ˈmæn dəˌtɔr i, -ˌtoʊr i/  
 __mantra yoga__ _n_ A meditation practice that focuses on chanting sacred syllables along with conscious breathing and a meditative focus to quiet the mind, cultivate spiritual energy, and create states of enlightenment.  
 __marionette__ _n_ _Syn_ puppet  
 __masseuse__  
@@ -410,6 +426,7 @@ __onus__ _n_ :dart:
 __ossify__ _v_ /AH-suh-fye/ In general contexts, something that ossifies becomes hardened or conventional and opposed to change. In medical contexts, something that ossifies (such as cartilage) forms or is transformed into bone.  
 __outbreak__  
 __outburst__ _n_  
+__outing__ _n_  
 __outlay__ _n_  
 __outline__ _v_  
 __outrun__ _vt_ :two::hammer:  
@@ -466,6 +483,7 @@ __pillion__ _n_ A seat or place behind the rider of a motorcycle, scooter, horse
 __pimple__ _n_ :es: espinilla  
 __pitch__ _n_ :es: (esp. _British_) campo, cancha  
 __plead__ _v_  
+__plebiscite__ _n_  
 __plod__ _v_ To walk heavily or move laboriously; trudge.  
 __plover__ _n_ :es: chorlito  
 __pluck__ _v_  
@@ -511,7 +529,7 @@ __ragbag__ _n_
 __rapport__ _n_ /ræˈpɔr, -ˈpoʊr, rə-/  
 __raving<sup>1</sup>__ _n_  
 __raving<sup>2</sup>__ _adj_ Delirious, irrational speech.  
-__rear__ _vt_ __1__ To care for (children or a child) during the early stages of life; bring up. __2__ To tend (growing plants or animals). __3__ To build; erect.  
+__rear__ _vt_ :two: __1__ To care for (children or a child) during the early stages of life; bring up. __2__ To tend (growing plants or animals). __3__ To build; erect.  
 __rebate__ _n_ A refund of a fraction of the amount payable or paid, as for goods purchased in quantity; discount. :es: reembolso  
 __receptacle outlet__ _n_ An electrical outlet where one or more receptacles are installed.  
 __receptacle__ _n_ A device which is installed in an outlet box to receive a plug for the supply of electric current to an appliance or portable equipment.  
@@ -646,6 +664,7 @@ __transgression__ _n_ /trans-GRESH-uhn/ A violation of legal or moral boundaries
 __transsexual__ _n_ :pencil2:  
 __trawl__ _v_  
 __tread__ _v_ (trod)  
+__truancy__ _n_ __1__ The absence of a child from school without permission. __2__ The neglect of work or duty.  
 __twine__ _n_  
 __umbrella__ _n_ __3a__ Something that covers or protects.  
 __unabashed__ _adj_ :three: Not ashamed, disconcerted, or apologetic; boldly certain of one’s position. Not disconcerted or embarrassed; poised. _Syn_ unembarrassed  
@@ -664,6 +683,7 @@ __unpretentious__ _adj_ :es: sin pretensiones; modesto
 __unrequited__ _adj_ /ˌʌn rɪˈkwaɪ tɪd/  
 __unsavory__ _adj_  
 __unsteady__ _adj_ Not firm, solid, or securely in place; unstable. _Syn_ unfirm  
+__unstreamed__ _adj_ /ʌnˈstriːmd/ (Education) _Brit_ (of children) Not divided into groups or streams according to ability.  
 __unsung__ _adj_ __1__ Not honored or praised; uncelebrated: _an unsung hero._  
 __untapped__ _adj_ :es: sin explotar  
 __untoward__  
@@ -710,5 +730,7 @@ __wring__ _vt_
 __wringer__ _n_ __1__ A person or thing that wrings. __2__ An apparatus for squeezing out liquid, as two rollers through which an article of wet clothing may be squeezed.  
 __writ__ _n_  
 __Xmas__ _n_  
+__yacht<sup>1</sup>__ _n_  
+__yacht<sup>2</sup>__ _vi_ To sail, cruise, or race in a yacht.  
 __yarrow__ _n_ :es: milenrama  
 __yoga__ _n_ [:scroll: From Hindi yoga, from Sanskrit yoga-s, literally “union, yoking” (with the Supreme Spirit)] _Hatha/Mantra/Karma/Bhakti/Raja/Jnana/Kundalini yoga._  

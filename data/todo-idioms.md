@@ -71,6 +71,7 @@ __dry run__ A practice session or test designed to identify and correct possible
 __educated guess__ A thoughtful, well-reasoned guess; a guess with some basis in one’s knowledge.  
 __enjoy (oneself)__ To have fun.  
 __every other__ Alternating. _Every other week._  
+__face to face__ In direct contact, especially literally standing close together.  
 __fail to deliver__ A situation in which a buyer, or, more commonly, his/her broker does not receive delivery of the securities he/she bought by the settlement date.  
 __fair enough__  
 __fall off the perch__ _BrE_ _old-fashioned, informal_ (fall off your perch) If someone falls off the perch or falls off their perch, they die. Note: A perch is a pole, branch or other place where a bird sits to rest. _He fell off the perch years ago._ Note: Other verbs such as drop or topple can be used instead of fall. _He’ll topple off his perch one morning. You know how it is._ Note: This expression is used humorously.  
@@ -154,6 +155,7 @@ __hem and haw__
 __hit a snag__  
 __hit and miss__ (hit or miss)  
 __hit the ground running__  
+__hit-and-run__ :smiling_imp:  
 __hold my beer__  
 __hold the line__  
 __holding pattern__  
@@ -289,6 +291,7 @@ __knock on doors__ To speak to the people who live in an area by walking up to t
 __know by heart__  
 __know the ropes__  
 __Lady Luck__ The personification of fortune, whether good or bad. Sometimes spelled in lower case.  
+__lag behind__  
 __land of plenty__ A fictional or imagined utopian place where there is an abundance of everything needed to survive and flourish.  
 __larger than life__  
 __lash out__  
@@ -503,6 +506,7 @@ __shipshape and Bristol fashion__
 __shit (one’s) pants__ __2__ _rude slang_ By extension, to be very surprised. _When I saw that the magazine had published my letter to the editor, I practically shit my pants!_ _Shit-your-pants scared._  
 __shoot (oneself) in the foot__  
 __shop around (for something)__ :dart: To browse different stores, vendors, or selections to find the best price or option for something one wants to buy.  
+__shop around__  
 __show (one’s) hand__  
 __shrink from (someone or something)__ :dart: __1__ To recede or recoil from someone or something. _The way the gums are shrinking from your teeth is a clear sign of gingivitis._ _The child shrank from the men as they approached the house._ __2__ :dart: To avoid or neglect some action, duty, or responsibility. _You wanted to lead this branch, which means you can’t shrink from the thornier aspects of the job._  
 __shut out__  
