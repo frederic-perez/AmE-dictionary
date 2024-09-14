@@ -4,6 +4,7 @@ __a balancing act__ :dart:
 __a long shot__ :dart:  
 __a stone’s throw__ :two: A very short distance.  
 __a word of warning__ :two: Information about possible danger or trouble.  
+__according to (someone or something)__  
 __all the same__ :two::hammer:  
 __all too often__  
 __artful dodger__ :smiling_imp:  
@@ -12,15 +13,19 @@ __as it happens__
 __as simple (smt?) as it gets__ :dart:  
 __as we speak__ At this very moment.  
 __at (the) worst__ (at its very worst) Under the most negative circumstances, estimation, or interpretation: At worst, the storm will make us postpone the trip.  
-__at any rate__  
+__at any rate__ :three::hammer:  
 __at its best__  
 __at the outset__ At the beginning.  
 __at the top of (one’s) voice__ As loudly as one can.  
 __aw shucks__ :dart: __1__ An expression of shyness, happiness, or embarrassment. _A: “You’re just too sweet!” B: “Aw shucks, you’re gonna make me blush.”_ _Aw shucks, it was nothing. I was happy to help._ _Aw shucks, that’s so nice of you to say! Thank you!_ __2__ An expression of disappointment. _Aw shucks, it looks like we’re going to lose the game after all._  
 __back in the saddle__  
+__back on track__  
+__back to normal__  
 __balderdash__ /ˈbɔːldəˌdæʃ/ Nomsense. Stupid or illogical talk; senseless rubbish.  
 __barb__ :two: A shortening of “barbiturate,” a drug class that consists of sedatives and hypnotics. _Barbs are dangerous, man—I’d stay away from them._  
 __bargain for (someone or something)__  
+__battered__ :dart::astonished: Drunk.  
+__be at pains__ To put forth effort toward some goal or end.  
 __be on the safe side__ :dart:  
 __be partial to (someone or something)__ To be particularly fond of someone or something; to have someone or something as one’s favorite or preference.  
 __bear (someone or something) in mind__  
@@ -32,9 +37,11 @@ __boil (something) down to (something)__ To reduce or simplify something to the 
 __bona fide__  
 __break even__  
 __brown sugar__ :dart: _slang_ Heroine.  
+__buckle up__  
 __by all means__ :dart:  
 __call of nature__ The urge to urinate or defecate. _I have to attend to the call of nature._  
 __cash flow__  
+__cash poor__ Having very little fluid capital due to one’s financial wealth being derived from or invested in long-term assets. _I can’t afford transactions like that right now. All my wealth is tied up in real estate, so I’m a bit cash poor at the moment._  
 __castle in the air__  
 __castles in the air__  
 __Catch-22__  
@@ -42,6 +49,8 @@ __chalk up__
 __chase the dragon__ :dart: To smoke a controlled substance, often heroin. _I can’t chase the dragon anymore—I’m trying to get away from that stuff._  
 __clear the table__ To remove objects from a table. This phrase is often said after a meal, as one removes dishes, silverware, and leftover food from the table. _After the meal I cleared the table._  
 __close shave__  
+__come to grips__  
+__come to terms with (someone or something)__  
 __coming-of-age__  
 __creeper__  
 __cut bait__  
@@ -51,10 +60,13 @@ __dig and poke around__ The idiom “dig and poke around” generally means to s
 __dodge__ :smiling_imp: /dɑdʒ/ A swindle; a scam; a deception. _What sort of dodge did you get flimflammed with?_  
 __don’t worry, be happy__ The phrase “Don’t worry, be happy” has its origins in the teachings of the Indian spiritual master Meher Baba. He frequently used this expression in communications with his followers, particularly in the West, as a succinct message of encouragement and positivity. Meher Baba’s teachings emphasized the importance of maintaining a positive outlook.  
 __double or quits__ A wager, undertaken after a previous wager, that stipulates two possible outcomes: if the winner of the previous wager wins again, they win twice the amount won in the previous wager; if they lose, they receive nothing. Primarily heard in UK.  
+__down the line__ In the future.  
 __downed on (someone)__  
 __downer__  
 __drag (one’s) feet__  
+__dried milk__ _n_ Dehydrated milk.  
 __drop in__ To visit someone casually or unexpectedly.  
+__drum up__  
 __dry run__ A practice session or test designed to identify and correct possible problems.  
 __educated guess__ A thoughtful, well-reasoned guess; a guess with some basis in one’s knowledge.  
 __enjoy (oneself)__ To have fun.  
@@ -64,6 +76,7 @@ __fair enough__
 __fall off the perch__ _BrE_ _old-fashioned, informal_ (fall off your perch) If someone falls off the perch or falls off their perch, they die. Note: A perch is a pole, branch or other place where a bird sits to rest. _He fell off the perch years ago._ Note: Other verbs such as drop or topple can be used instead of fall. _He’ll topple off his perch one morning. You know how it is._ Note: This expression is used humorously.  
 __fancy__ _informal_ __2__ To have a desire for (something).  
 __few and far between__  
+__fill the gap__  
 __first come, first served__ The first people present will be the first to receive something, often something that is available in limited quantities.  
 __flying squad__ _n_ A small group of police, soldiers, etc, ready to move into action quickly.  
 __food chain__ Used in the phrases “at the top of the food chain” and “at the bottom of the food chain.” __1__ A hierarchy of organisms that transfer food energy between them. The smallest organisms are at the bottom—and they are preyed upon by the larger ones above them in the food chain. _Grizzly bears are at the top of the food chain._ _Phytoplankton are at the bottom of the food chain._ __2__ A hierarchy of people in a group or organization. _As a medical intern, I’m at the bottom of the food chain, but I’ll move up soon enough._  
@@ -72,6 +85,7 @@ __for a fee__
 __for all I know__  
 __for kicks__  
 __for which read__ :dart: _Readjustment, scaling back, for which read — redundancies._ :es: léase  
+__free of charge__  
 __fussbudget__ :dart: _informal_ One who tends to be fussy or particular, usually to an excessive or unnecessary degree. Primarily heard in US. _Don’t be such a fussbudget, huh? This really isn’t a big deal._ _Of course Vanessa found some miniscule issue that no one else would have noticed. She’s such a fussbudget._  
 __get (one, something) out of the system__  
 __get (something) out of (one’s) system__ __2__ To do something so that one no longer has the desire to do it anymore. _I got drinking and partying out of my system during college. I’m ready for a quieter life now._  
@@ -89,7 +103,7 @@ __give a shit__
 __give or take__  
 __give something a miss__ _I’ll give coffee a miss; I’m off to bed now._  
 __glass cliff__ _n_ A situation in which a woman or minority has advanced professionally at a time when adverse circumstances or crises make it more likely for the person to fail at the job.  
-__go a long way__ :two::hammer:  
+__go a long way__ :three::hammer:  
 __go back to the well__ To return to some proven and reliable source of success, talent, good fortune, etc.  
 __go ballistic__ To become wildly or uncontrollably angry.  
 __go bananas__  
@@ -107,6 +121,7 @@ __go over the top__
 __go overboard__ :two::hammer:  
 __go places__  
 __go south__  
+__go strong__  
 __go through a rough patch__ To experience or be in the midst of a period of trouble, difficulty, or hardship.  
 __go to hell in a handcart__ To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin. _With this new president in office, our country is going to go to hell in a handcart!_  
 __go to the wall__  
@@ -118,6 +133,7 @@ __good-time Charlie__ An affable, lively, and entertaining man who is often or a
 __goon__  
 __goop__  
 __grapple with (someone or something)__ :three::hammer:  
+__grass on (one)__ _slang_ :smiling_imp: _BrE_ To inform against a criminal or wrongdoer to a figure of authority. Primarily heard in UK.  
 __grass__ _slang_ __1__ Marijuana.  
 __graze on (something)__ __1__ Of animals, to eat the greens or vegetables in a particular area or location. _I put up a fence to try to keep the deer from grazing on my land._  
 __grease monkey__ A mechanic, especially one who works on aircraft or automobiles.  
@@ -183,6 +199,7 @@ __in plain view__ In full, unrestricted view; visibly, openly, or publicly.
 __in regard to (someone or something)__ In reference to; considering.  
 __in single file__ In a line one person or one thing in width.  
 __in some sense__ Partly; in some or certain way(s).  
+__in spite of (something)__ Regardless or in defiance of; despite.  
 __in support of__ __1__ In a way that shows approval of (something); in favor of (something). _A majority voted in support of the bill._ __2__ In order to support (something). _He presented evidence in support of his hypothesis._  
 __in tears__  
 __in the (grand) scheme of things__ In the long term; in the complete picture of something.  
@@ -235,6 +252,7 @@ __join hands__ __2__ By extension, to work together to achieve some goal.
 __join the fray__ __1__ To enter into some competitive endeavor.  
 __join the ranks (of something)__ To become a part or member of a large group or organization.  
 __jolly (one) along__ :dart: To encourage one (to do something), especially in a positive, cheerful manner. _I was getting disheartened writing my first novel, but my husband jollied me along to finish it._  
+__joy ride__ :smiling_imp:  
 __jughead__ _slang_ A stupid or foolish person (as if their head is as empty as a jug). _He’s sweet, but he can be a real jughead sometimes._  
 __juice head__  
 __juicer__ _n_ (juicehead) A heavy drinker; a drunkard. _The tavern is always filled with juicers on Friday night._  
@@ -269,6 +287,7 @@ __knee-jerk reaction__ Any spontaneous, reflexive, and unthinking reaction or re
 __knock it off__  
 __knock on doors__ To speak to the people who live in an area by walking up to their houses, apartments, etc., especially to provide information or solicit votes, support, contributions, etc.  
 __know by heart__  
+__know the ropes__  
 __Lady Luck__ The personification of fortune, whether good or bad. Sometimes spelled in lower case.  
 __land of plenty__ A fictional or imagined utopian place where there is an abundance of everything needed to survive and flourish.  
 __larger than life__  
@@ -302,6 +321,7 @@ __lick (one’s) wounds__
 __lie to__ __2__ (Nautical) Of a sailing vessel, to remain stationary while facing the wind. _Make sure the ship lies to during the storm so as not to capsize._  
 __life, the universe, and everything__ The question that pan-dimensional space-beings asked the computer Deep Thought in Douglas Adams’s book, _The Hitchhiker’s Guide to the Galaxy._ The computer took millions of years and came up with the answer 42. _Balancing risks is life, the universe, and everything._  
 __lift__  
+__like a fish out of water__  
 __like the back of (one’s) hand__ A common English expression used to describe something that a person knows extremely well or is very familiar with.  
 __liminal__ _adj_ /ˈlɪmɪnəl/  
 __lip to lip__ :two: The idiom “lip to lip” typically refers to a kiss that involves direct contact between the lips of two people. This expression is often associated with romantic or intimate contexts, emphasizing the closeness and emotional connection between the individuals involved.  
@@ -312,6 +332,7 @@ __living proof__
 __loaded gun__ A situation or person that is dangerous or volatile. For example, a person might be described as a “loaded gun” if they are highly emotional or prone to outbursts.  
 __long and hard__  
 __look the other way__  
+__loony bin__ _slang_ A psychiatric hospital or insane asylum. From a glib adaptation of the word “lunatic,” the phrase is now considered tactless at best, extremely insulting at worst.  
 __loop the loop__ __1__ _n_ A flight maneuver in which an aircraft flies in a complete vertical circle. (Usually hyphenated.) _I loved going to air shows as a kid, and I always dreamed of doing loop-the-loops in an airplane when I grew up._ __2__ _v_ To fly an aircraft in a complete vertical circle. _I thought I was going to throw up when the pilot looped the loop with our little biplane._  
 __loose cannon__ Someone who has the propensity to act unpredictably or to lose their temper very quickly.  
 __loosen up__  
@@ -339,6 +360,7 @@ __make matters worse__
 __make news__ To garner attention and be the topic of conversation.  
 __make no mistake__  
 __make one’s name__ To become well-known or famous.  
+__make or break__  
 __male gaze__ The rendering of art, literature, etc., from the perspective of and for the consumption of heterosexual males, especially characterized by the depiction of women as passive objects of desire and pleasure. The phrase was coined by film theorist Laura Mulvey. _The male gaze will continue to dominate media until more and more women artists challenge the paradigm._  
 __masquerade as (someone or something)__  
 __matter of fact__  
@@ -372,9 +394,12 @@ __nice and (something)__ :five: Very something. Used to emphasize how nice somet
 __nip (something) in the bud__  
 __nip at__ __1__ To give (someone or something) little bites. _Their dog kept nipping at my heels whenever I walked through the house._ _I know some people go crazy for the treatment, but I can’t stand the feeling of fish nipping at my feet!_ __2__ To sting (a part of one’s body) with cold. _The air had just started nipping at our noses by the time we reached the house._ _There’s nothing like settling down in front of a fire with a hot drink after the cold wind has been nipping at your cheeks on a long, satisfying bike ride._ _The cold air nipped at my lungs if I breathed in too quickly._ __3__ To take small, frequent sips of (some drink, especially alcohol). _I caught my grandma nipping at a flask, which she tried to pretend had medicine inside of it._  
 __no end in sight (to something)__  
+__no holds barred__  
 __no picnic__ _It’s no picnic walking around with a guilty conscience._  
 __no question about it__ :two: Definitely; for sure.  
 __no stranger to (something)__  
+__no-no__  
+__no-win situation__ :dart: A problem that has no ideal solution.  
 __noblesse oblige__ /noh-BLESS-uh-BLEEZH/ Noblesse oblige refers to the idea that people who have high social rank or wealth should be helpful and generous to people of lower rank or to people who are poor.  
 __nose-dive__ Take a sudden downtrend.  
 __not a chance__ :dart: (There is) no possibility (that that will happen). _You? Beat me? At ping pong? Not a chance!_  
@@ -412,6 +437,7 @@ __on the back burner__ Of a low priority; given less or little thought or attent
 __on the brink of (something)__ :two::hammer:  
 __on the contrary__  
 __on the edge of (one’s) seat__  
+__on the grounds of__ The phrase “on the grounds of” is primarily used in legal and formal contexts to mean “based on” or “justified by.”  
 __on the line__ __1__ In a state of jeopardy or uncertainty.  
 __on the lookout__ :three: Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
 __on the move__  
@@ -421,6 +447,7 @@ __on the rocks__ _That marriage was already on the rocks._
 __on the run__  
 __on the sidelines__ :two: In a position in which one is not actively participating in something.  
 __on the spot__ __1__ At once in one’s exact location; right then and there. Hyphenated if used before a noun.  
+__on the verge of (doing) (something)__  
 __on the verge of__  
 __on the whole__ Considering everything together; in general or for the most part.  
 __on-site__  
@@ -430,8 +457,10 @@ __one size fits all__ :two::hammer:
 __one-off__ :three::hammer:  
 __out of print__ No longer being printed and sold by a publisher.  
 __over and out__ Said to mark the end of communication between two people. Used especially in radio communication, in which it signals that a person is done speaking and does not expect a reply from the other person. _A: “Oh, and while you’re at the store, could you please get some milk, too?” B: “Sure thing. Over and out.”_  
+__over the phone__ By calling on the telephone. _You can order a pizza over the phone._  
 __photobomb__  
 __pinch__ _slang_ :two: __1__ _v_ To steal something.  
+__piss off__  
 __pitch (something) at__  
 __play havoc with (someone or something)__ To cause issues or disruptions for someone or something. _The road closures have played havoc with rush-hour traffic._  
 __poppers__ Drugs of the alkyl nitrate class used recreationally as a sexual stimulant, especially among gay men. Amyl nitrite became popular in the 60s especially with the male gay community becase it relaxes the muscles, making anal intercourse easier.  
@@ -441,6 +470,7 @@ __prim and proper__ Having very traditional, morally conservative beliefs and be
 __public eye__ Attention from the general public. Typically used in the phrase “in the public eye.”  
 __pull (one’s) weight__ To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
 __puppy__ __1__ _n_ A wimp; a softie. _That silly puppy is still waiting outside your door._ __2 __ _n_ A thing; a piece or part of something. _Put this little puppy right here._  
+__push the envelope__ To expand on, exceed, or test the limits of the established norm or standard.  
 __put (someone or something) (up) on a pedestal__ To believe or behave as if someone or something is perfect, wonderful, or better than others, to the extent that one is unable to see its potential flaws or faults.  
 __put off__ __1__ _v_ To deter, annoy, or repel. A noun or pronoun can be used between “put” and “off.” _I don’t know if you realize how much you put people off with your attitude._  
 __put on a good/poor/etc. show__  
@@ -449,6 +479,7 @@ __quite a few__ (quite a lot; quite a bit; quite a number)
 __rags to riches__ Characterized by a rise from poverty to great or exceptional wealth. Hyphenated if used as a modifier before a noun.  
 __rake in__  
 __roast__  
+__rolling stone__  
 __round and round__ (around and around)  
 __rue the day (that something happened)__ To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
 __rule of law__  
@@ -457,6 +488,7 @@ __rumor has it (that)__ It is being rumored that (something is or will be the ca
 __run the gauntlet__ To be exposed to or forced to endure a series of threats, dangers, criticism, or other problems. Refers to an old military punishment in which one was forced to run between two lines of soldiers while being thrashed with rods or whips. _Medical students often feel that they have to run the gauntlet when they become residents in a hospital._  
 __same old same old__ :two::hammer:  
 __same shit, new wrapping__ Colloquial expression that conveys the idea that something has been superficially changed or repackaged but remains fundamentally the same. It suggests that despite appearances, the underlying issues or qualities have not been altered.  
+__scheme for (something)__ To form or contrive a secret or devious plan or conspiracy in order to obtain, achieve, or accomplish something. _We spent the afternoon scheming for a way to get into the elite Hollywood party so we could meet some celebrities._  
 __see (one) in the flesh__ To see one in person who is usually only seen at a distance, especially through a medium such as film, music, theater, etc. _After years of idolizing the singer, it was a bit anticlimactic seeing her in the flesh._  
 __seep in(to something)__  
 __serve (one’s) time__  
@@ -470,6 +502,7 @@ __shine a light__
 __shipshape and Bristol fashion__  
 __shit (one’s) pants__ __2__ _rude slang_ By extension, to be very surprised. _When I saw that the magazine had published my letter to the editor, I practically shit my pants!_ _Shit-your-pants scared._  
 __shoot (oneself) in the foot__  
+__shop around (for something)__ :dart: To browse different stores, vendors, or selections to find the best price or option for something one wants to buy.  
 __show (one’s) hand__  
 __shrink from (someone or something)__ :dart: __1__ To recede or recoil from someone or something. _The way the gums are shrinking from your teeth is a clear sign of gingivitis._ _The child shrank from the men as they approached the house._ __2__ :dart: To avoid or neglect some action, duty, or responsibility. _You wanted to lead this branch, which means you can’t shrink from the thornier aspects of the job._  
 __shut out__  
@@ -498,9 +531,13 @@ __spend a penny__ _euphemism_ To go to the toilet. Primarily heard in UK.
 __stamp of approval__ An indication of endorsement or authorization of something.  
 __stand on (one’s) own (two) feet__ To be strong and independent; to not need the help, guidance, or resources of another person.  
 __stands to reason__  
+__start the ball rolling__ To set something, often a process, in motion; to begin.  
+__to name (but) a few__  
+__toughen up__  
 __willy-nilly__ :two::hammer: [:scroll: This expression is a shortened form of ‘willing or not willing.’]  
 __wind down__ __2__ To cause something to slow and near an ending. In this usage, a noun or pronoun can be used between “wind” and “down.” _We’ll wind down our practice with some gentle stretches._  
 __with a start__ The phrase “with a start” refers to a sudden, involuntary movement or reaction, typically caused by surprise or alarm. It is often used to describe the action of waking up abruptly, as in the expression “I woke up with a start.” _I dreamed about falling and I woke with a start._  
+__with open arms__ Very happily and eagerly.  
 __with the naked eye__ _They can be seen with the naked eye._  
 __work like a Trojan__  
 __work out__  
