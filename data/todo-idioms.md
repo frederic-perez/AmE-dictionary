@@ -2,6 +2,9 @@ __(it’s) just as well (that) (something happened)__ It is or turned out to be 
 __(stuck) in a rut__  
 __(the) top of the line__ The absolute best of a certain thing, often referring to a product that is of the utmost quality (and usually the most expensive). When used as a noun, it is preceded by “the.” _That store only sells top of the line gear. You may want to consider some lower-priced options._  
 __a balancing act__ :dart:  
+__a legend in (one’s) own lifetime__ A person who has an extraordinary level of fame or reputation while they are still alive. _The singer has made such a huge impact on the world of blues that she’s come to be a legend in her own lifetime._  
+__a legend in (one’s) own mind__ A person who affects or believes that they are of greater importance or notoriety than is actually the case. A humorous, ironic twist on the phrase “a legend in one’s own lifetime.” _The assistant manager acts as if she’s the only one keeping the company together. She’s a regular legend in her own mind._  
+__a license to print money__ An activity, business model, or company that yields very high profits but requires little or no effort to do so. _All these hefty parking fees and fines are just a license to print money for the city._  
 __a long shot__ :dart:  
 __a stone’s throw__ :two: A very short distance.  
 __a word of warning__ :two: Information about possible danger or trouble.  
@@ -27,6 +30,9 @@ __barb__ :two: A shortening of “barbiturate,” a drug class that consists of 
 __bargain for (someone or something)__  
 __battered__ :dart::astonished: Drunk.  
 __be at pains__ To put forth effort toward some goal or end.  
+__be chock-a-block__ __1__ To be squeezed or jammed closely together. _So many people wanted to see the show that we were chock-a-block inside the venue._ __2__ To be very full or tightly packed. _Your office is chock-a-block with books and boxes. How do you even move around in here!_ _The restaurant has been chock-a-block with guests all day._ __3__ By extension, to be very busy; to be completely filled or engaged (with something). _Every day of our vacation was chock-a-block with fun activities._  
+__be cocksure of (oneself)__ To be completely certain of oneself or one’s actions, to the point of overconfidence. _You seem pretty cocksure of yourself—do you really know how to handle that machine?_  
+__be left to (one’s) own devices__ To be left unsupervised or uncontrolled; to be allowed to do as one pleases. _My job is really great: I know what I need to work on and am just left to my own devices._  
 __be on the safe side__ :dart:  
 __be partial to (someone or something)__ To be particularly fond of someone or something; to have someone or something as one’s favorite or preference.  
 __bear (someone or something) in mind__  
@@ -35,6 +41,7 @@ __beef up__ To increase something, often in strength. _With all these protestors
 __beg to differ__  
 __behind (one’s) back__ In one’s absence. The phrase typically suggests wrongdoing or deceit. _I can’t believe you were gossiping about me behind my back!_  
 __bits and pieces__ Sundry little items, tasks, or chores.  
+__black tie__ Dress ccde (slightly less formal than _white tie_) typically allowing men to wear tuxedos or dinner jackets and women to wear cocktail dresses and long dresses.  
 __boil (something) down to (something)__ To reduce or simplify something to the most basic, essential, or fundamental element(s).  
 __bona fide__  
 __break even__  
@@ -152,7 +159,9 @@ __green thumb__
 __haggle over (something)__  
 __hairpin bend__ :two: A very sharp, approximately 180° bend in a road.  
 __hanker for (something)__ To have a very strong, persistent desire or craving for something. _It is not something to hanker for._  
+__happy-go-lucky__ Always happy or in a pleasant mood; carefree. _Arya is so happy-go-lucky that I doubt any negative thing you say would bother her._  
 __hatchet man__  
+__have a light heart__ To have a carefree, uplifted attitude; to be in a happy or gladdened state or condition. _Though it is, of course, bittersweet to leave my friends and family behind, I have a light heart because of the amazing opportunities that await me in Europe._  
 __have a rocky start__ To have a troubled, uncertain, or discouraging beginning.  
 __have a say (in something)__ :two: To have an active and participatory role in making or influencing a decision about something.  
 __have a shit__  
@@ -300,6 +309,7 @@ __knock it off__
 __knock on doors__ To speak to the people who live in an area by walking up to their houses, apartments, etc., especially to provide information or solicit votes, support, contributions, etc.  
 __know by heart__  
 __know the ropes__  
+__l’esprit de l’escalier__  
 __Lady Luck__ The personification of fortune, whether good or bad. Sometimes spelled in lower case.  
 __lag behind__  
 __land of plenty__ A fictional or imagined utopian place where there is an abundance of everything needed to survive and flourish.  
@@ -325,10 +335,21 @@ __lay the groundwork (for something)__ :two: To create or prepare the basics or 
 __laze about__ To relax or spend time idly; to do nothing or very little. _It’s a gorgeous day outside, so you kids get off your butts and quit lazing about!_  
 __leapfrog over (someone or something)__ :two::hammer:  
 __leaps and bounds__ :dart:  
+__leave (something) out of account__ To ignore something; to pay little or no heed to something. _If you leave the constituents’ opinions out of account on this issue, you can kiss their votes goodbye in the election next fall._  
 __leave a lot to be desired__ To be very inadequate or unsatisfactory; to lack a large amount of what is desired or required.  
+__legal eagle__ An especially clever, aggressive, or skillful attorney. _I might be considered something of a legal eagle now, but I had to work for years to get enough experience to build my reputation._  
+__lemon law__ A law requiring an automobile manufacturer or dealer to replace, repair, or refund the cost of an automobile that proves to be defective after purchase.  
+__let (one) off the hook__ To pardon, release, or allow one to escape from blame, responsibility, obligation, or difficulty. _At first, Sam was suspected of stealing money from the safe, but he was let off the hook after security camera footage showed it was someone else._  
 __let (oneself) go__  
+__let (someone) loose (on something)__ To allow someone to do something as they please, without supervision or control. _It’s so nice to go to the park and let the kids loose for a while._  
+__let (something) slip__ To accidentally or inadvertently reveal some secret or important piece of information. _I can’t believe your sister let news of our engagement slip in front of your parents!_  
+__let (the) perfect be the enemy of (the) good__ :dart: To allow the demand, desire, or insistence for perfection to decrease the chances of obtaining a good or favorable result in the end. (Usually used in the negative as an imperative.) _I know you want your research paper to be flawless, but don’t let perfect be the enemy of good, or you won’t even finish it in time!_  
 __let alone__  
+__let down (one’s) guard__ To become less guarded or vigilant; to stop being cautious about potential trouble or danger. _We’ll wait long enough for them to let down their guard before we launch our invasion._  
+__let down (one’s) hair__ To cease acting formally or conservatively; to let go of one’s inhibitions or reservations. _Come on, Jim, this is a party! Let down your hair and go a little wild!_  
 __let someone down__  
+__let the good times roll__ To have as much fun or live life as richly as possible. (Often said as an imperative.) _We’ve had another successful year at the company, so everyone enjoy the party and let the good times roll!_  
+__letters after (one’s) name__ :dart: A series of abbreviations indicating the various levels of higher education or military honors one has received, thereby denoting a presumed level of intelligence, wisdom, or respectability. _I hate hanging out with your PhD colleagues—it seems like they’ll only take you seriously if you have letters after your name._  
 __level the playing field__ To make a situation or activity more fair and balanced by giving an extra advantage or opportunity to those who would normally be at a disadvantage, or by attempting to take away or diminish advantages, perhaps of one’s adversary or competitor.  
 __lick (one’s) wounds__  
 __lie to__ __2__ (Nautical) Of a sailing vessel, to remain stationary while facing the wind. _Make sure the ship lies to during the storm so as not to capsize._  
@@ -340,6 +361,7 @@ __liminal__ _adj_ /ˈlɪmɪnəl/
 __lip to lip__ :two: The idiom “lip to lip” typically refers to a kiss that involves direct contact between the lips of two people. This expression is often associated with romantic or intimate contexts, emphasizing the closeness and emotional connection between the individuals involved.  
 __litmus test__  
 __little does (one) know__ One is completely unaware of something.  
+__live the life of Riley__ To lead a life of great ease, comfort, or luxury. The phrase is likely of early 20th-century Irish-American origin, but to whom Riley refers is uncertain. _Pampered from a young age after his father came into sudden wealth, Jonathan lived the life of Riley compared to the hardships his older siblings faced._  
 __live up to (something)__ :three::hammer: _Live up to the hype._  
 __living proof__  
 __loaded gun__ A situation or person that is dangerous or volatile. For example, a person might be described as a “loaded gun” if they are highly emotional or prone to outbursts.  
@@ -471,6 +493,7 @@ __one-off__ :three::hammer:
 __out of print__ No longer being printed and sold by a publisher.  
 __over and out__ Said to mark the end of communication between two people. Used especially in radio communication, in which it signals that a person is done speaking and does not expect a reply from the other person. _A: “Oh, and while you’re at the store, could you please get some milk, too?” B: “Sure thing. Over and out.”_  
 __over the phone__ By calling on the telephone. _You can order a pizza over the phone._  
+__peeper__ peeper__ One’s eye. (That is, what one uses to peep.) Typically used in the plural and often used to refer to the eyes of children. _Your baby girl has such beautiful peepers!_  
 __photobomb__  
 __pinch__ _slang_ :two: __1__ _v_ To steal something.  
 __piss off__  
@@ -538,6 +561,7 @@ __small print__ (fine print) An important part of a document that is not easily 
 __smell a rat__ To suspect an instance of betrayal, deception, or corruption.  
 __snatch (someone) from the jaws of death__ To rescue someone at the last moment from near or certain death.  
 __snazzy__ Particularly elegant, dazzling, classy, or fancy in appearance. _Wow, that’s a snazzy new suit you’ve got on! Big meeting today or something?_ _She runs one of the snazziest clubs in town._  
+__sneak peek__  
 __so much so that__  
 __soft spot__  
 __something of sorts__ An inferior example of a kind of something.  
@@ -553,6 +577,7 @@ __start the ball rolling__ To set something, often a process, in motion; to begi
 __the upshot (of something)__ :dart: The final or resulting outcome, conclusion, or consequence (of something). _The upshot of this merger is that the company will now control nearly 50% of the world’s television networks._  
 __to name (but) a few__  
 __toughen up__  
+__white tie__ The most formal of all dress codes, requiring men to wear white bow ties and black tailcoats and women to wear evening or ball gowns.  
 __willy-nilly__ :two::hammer: [:scroll: This expression is a shortened form of ‘willing or not willing.’]  
 __wind down__ __2__ To cause something to slow and near an ending. In this usage, a noun or pronoun can be used between “wind” and “down.” _We’ll wind down our practice with some gentle stretches._  
 __with a start__ The phrase “with a start” refers to a sudden, involuntary movement or reaction, typically caused by surprise or alarm. It is often used to describe the action of waking up abruptly, as in the expression “I woke up with a start.” _I dreamed about falling and I woke with a start._  
