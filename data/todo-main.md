@@ -21,12 +21,14 @@ __aquavit__
 __arable__ _adj_ /ˈærəbəl/ Fit for cultivation, as by plowing.  
 __arbitration__  
 __arbitrator__  
+__arcane__ _adj_ :astonished:  
 __archetypal__ _adj_ /ˌɑːkɪˈtaɪpəl/ (archetypical)  
 __archway__ _n_ :es: pasaje abovedado  
 __armistice__ _n_  
 __arthralgia__ _n_ är-thrăl′jə/ Neuralgic pain in a joint or joints.  
 __articulate__ _v_  
 __aspersion__ _n_ /uh-SPUHR-zhuhn/shuhn/ __1__ A damaging accusation: slander. __2__ The sprinkling with water, as in baptism.  
+__assess__ _vt_ :es: evaluar; calcular  
 __attractant__ _n_ A substance, such as a pheromone, that attracts insects or other animals.  
 __attritional__ _adj_ :dart: Relating to or caused by attrition. _Attritional battles._  
 __au pair__ _n_ A young foreigner who provides childcare for a family in exchange for room and board, often a small stipend, and the opportunity to study.  
@@ -51,6 +53,7 @@ __boiler suit__ _n_ _BrE_ A one-piece work garment consisting of overalls and a 
 __bollock__ _vt_  
 __bonnet__ _n_ :three::hammer:  
 __booby trap__ _n_  
+__bookstall__ _n_ __1__ A booth or stall at which books are sold, usu. secondhand. __2__ A stall or stand where periodicals, newspapers, or books are sold. US word: newsstand  
 __bow-legged__ _adj_ :three::hammer:  
 __Boxing Day__  
 __brainiac__ _n_ /BRAY-nee-ak/  
@@ -65,6 +68,7 @@ __brow__ _n_ The projecting upper edge of a steep place. _Syn_ top, summit, peak
 __brushwood__ _n_  
 __bucket shop__ _n_  
 __bulimia nervosa__ _n_  
+__bureau__ _n_ :two::hammer: (_n pl_ bureaus, bureaux)  
 __burl__ _vt_  
 __bursary__ _n_ :two::hammer:  
 __bustle__ _n_  
@@ -100,7 +104,7 @@ __cleaning agent__
 __clearing bank__ _n_ (in Britain) Any bank that makes use of the central clearing house in London for the transfer of credits and cheques between banks.  
 __close-knit__ _adj_ Held tightly together, as by social or cultural ties: _a close-knit family._  
 __clued up__ _adj_ _BrE_ _informal_ Knowledgeable about a topic or situation; possessing the facts. :es: al tanto (de), al corriente (de)  
-__co-op__ _n_ A cooperative enterprise, building, or apartment.  
+__co-op__ _n_ :three: A cooperative enterprise, building, or apartment.  
 __coach__ _n_ __1a__ A bus, especially one designed for long-distance passenger service.  
 __cocksure__ _adj_ :astonished: Marked by excessive confidence. _Syn_ overconfident, positive  
 __coda__ _n_  
@@ -133,6 +137,7 @@ __crisis intervention__ _n_
 __cross examine__ _v_ :two::hammer:  
 __cruise missile__ _n_  
 __curtly__ _adv_ _‘Congratulations,’ I said curtly._  
+__cut__ _n_ __10__ _informal_ A portion of profits or earnings; a share.  
 __cutback__  
 __darn__  
 __deaf-mute__ _adj, n_  
@@ -141,6 +146,7 @@ __decor__ _n_
 __degage__ _adj_ Showing lack of emotional involvement. _Syn_ detached, uninvolved  
 __demob__ _v_  
 __deport__ _vt_ __1__ To expel from a country: _deported the foreigner who had entered the country illegally._  
+__deride__ _vt_ [:scroll: Latin dērīdēre : dē-, de- + rīdēre, _to laugh at_]  
 __descant__ _n_  
 __deter__ _v_ /dɪˈtɜr/  
 __dinghy__ _n_  
@@ -188,6 +194,7 @@ __feint__ _n_
 __felon__ _n_  
 __felony__ _n_ A crime that has a greater punishment imposed by statute than that imposed on a misdemeanor.  
 __fervent__ _adj_ Having or showing great emotion or zeal. _Syn_ ardent, fervid, fiery, impassioned, perfervid, torrid  
+__feverish__ _adj_  
 __fiddle-faddle<sup>1</aup>__ _n_ /ˈfɪdəlˌfædəl/ Nonsense.  
 __fiddle-faddle<sup>2</sup>__ _v_ To fuss or waste time, esp over trivial matters.  
 __field dressing__  
@@ -220,6 +227,7 @@ __foment__ _v_ /FOH-ment/
 __foodstuff__ _n_ :two: A substance that can be used or prepared for use as food.  
 __footage__ _n_ :mega:  
 __forecourt__ _n_  
+__forename__ _n_ A name before one’s surname; a first name.  
 __form factor__ _n_  
 __fortnight__ _n_ :dart::astonished::two: [:scroll: Middle English fourtenight, alteration of fourtene night, fourteen nights] A period of 14 days; two weeks.  
 __fortnightly<sup>1</sup>__ _adj_ Happening or appearing once in or every two weeks.  
@@ -266,6 +274,7 @@ __gutsy__ _adj_ Marked by courage and determination in the face of difficulties 
 __hands-off__ _adj_ Characterized by nonintervention: a hands-off foreign policy.  
 __handyman__ _n_ :es: manitas  
 __harass__ _v_  
+__hard-of-hearing__ _adj_ Having a hearing loss. _Syn_ hearing-impaired  
 __hard-pressed__ _adj_  
 __hassle__ _n_  
 __hatha yoga__ _n_ A form of yogic exercise that emphasizes specific postures in combination with controlled breathing. It is widely practiced in the West.  
@@ -286,6 +295,7 @@ __history__ _n_ :mega:
 __hitherto__ _adv_ :two: Until this time.  
 __holdall__ _n_  
 __holidaymaker__ _n_ _Chiefly British_ One who goes on vacation. Someone who travels for pleasure. _Syn_ tourer, tourist  
+__holistic__ _adj_  
 __honeybee__ _n_ /ˈhʌnɪˌbiː/  
 __hookah__ _n_ (hooka) A water pipe with a long flexible tube by which the smoke is drawn through a jar of water and thus cooled.  
 __hoopla__ _n_ /HOO-plah/ _Hoopla_ refers to talk or writing that is designed to get people excited about or interested in something, often with the implication that the person using the word does not find the thing exciting or interesting.  
@@ -320,6 +330,7 @@ __Jerry__ _n slang_ _Chiefly British_ A German, especially a German soldier.
 __jot<sup>1</sup>__ _n_ :dart: /dʒɒt/ The smallest bit; iota. _(used with a negative)_ A little bit (in phrases such as _not to care (or give) a jot_).  
 __jot<sup>2</sup>__ _vt_  
 __jubilee__ _n_ :mega: /JOO-buh-lee/  
+__juggernaut__ _n_  
 __jumar__ _n_ /ˈdʒuːmə/  
 __jurisprudence__ _n_ /joor-us-PROO-dunss/ _Jurisprudence_ is a formal word that typically refers to the science or philosophy of law, or to a system or body of law.  
 __justice of the peace__ _n_ (JP) A local magistrate empowered chiefly to administer summary justice in minor cases, to commit for trial, and to administer oaths and perform marriages.  
@@ -357,6 +368,7 @@ __locus__ _n_
 __lodestone__ _n_ (loadstone) /lōd′stōn′/ A piece of magnetite that has magnetic properties and attracts iron or steel. __2__ One that attracts strongly.  
 __lodge__ _v_ _He’s lodged a complaint against you._  
 __logodaedalus__ _n_ /log-uh-DEE-duh-luhs/ One skilled with words.  
+__lonely hearts__ _adj_ :dart::two: (often capitals) Ff or for people who wish to meet a congenial companion or marriage partner: _a lonely hearts advertisement._  
 __long-standing__ _adj_ (longstanding)  
 __lookout__ _n_ _Lookouts were posted._  
 __lore__ _n_ Accumulated facts, traditions, or beliefs about a particular subject. _Syn_ traditional knowledge  
@@ -381,9 +393,11 @@ __mandatory__ _n_ :mega: /ˈmæn dəˌtɔr i, -ˌtoʊr i/
 __mantra yoga__ _n_ A meditation practice that focuses on chanting sacred syllables along with conscious breathing and a meditative focus to quiet the mind, cultivate spiritual energy, and create states of enlightenment.  
 __marionette__ _n_ _Syn_ puppet  
 __masseuse__  
+__measly__ _adj_ :astonished:  
 __meliorism__ _n_ /MEE-lee-uh-riz-um/ _Meliorism_ refers to the belief that the world tends to improve and that humans can aid its betterment.  
 __memento__ _n_ :mega: /muh-MEN-toh/ _Memento_ is a synonym of _souvenir_; it refers to something that is kept as a reminder of a person, place, or thing.  
 __mess tin__ _n_ A portable container for cooking or serving food, originally for military use, and generally of a rounded rectangular form.  
+__microfiche__ _n_ /ˈmaɪ krəˌfiʃ/ A flat sheet of microfilm, containing reproductions of printed or graphic matter.  
 __midriff__  
 __millpond__ _n_ __1__ A pool formed by damming a stream to provide water to turn a millwheel.  
 __miniscule__ _adj_ :astonished:  
@@ -401,6 +415,8 @@ __morass__
 __mother of pearl__ _n_  
 __mountaineering__  
 __mpox__ _n_ (formerly called _monkey pox_) A zoonotic disease especially of central and western Africa that is caused by a poxvirus.  
+__mundane__ _adj_  
+__mushroom__ _vi_ __1__ To multiply, grow, or expand rapidly: _The population mushroomed in the postwar decades._  
 __muttering__ _n_  
 __nags__ _n_ _Riding old nags._  
 __nail varnish__ _n_ (nail enamel, nail polish)  
@@ -410,6 +426,7 @@ __newsagent__ _n_ A shopkeeper who sells newspapers, stationery, etc. _Syn_ news
 __nibble__ _v_  
 __nigh__ _adj, adv, prep_ /naɪ/ An archaic, poetic, or dialect word for near.  
 __no-man’s-land__ _n_ :three: __1__ _Military_ Land between boundaries, esp an unoccupied zone between opposing forces.  
+__nodule__ _n_  
 __noggin__ _n_ __1__ A small mug or cup. __2__ A unit of liquid measure equal to one quarter of a pint. __3__ _slang_ The human head.  
 __nominal price__ _n_  
 __nominal wages__ _n_ (money wages) Wages measured in terms of money and not by their actual purchasing ability.  
@@ -459,6 +476,7 @@ __Paralympics__ _n pl_
 __paraphernalia__ _n_  
 __paraplegia__ _n_ [:scroll: quadri- (because all four limbs are affected ) + -plegia] Complete paralysis of the lower half of the body including both legs, usually caused by damage to the spinal cord.  
 __parapraxis__ _n_ A minor error, such as a slip of the tongue, thought to reveal a repressed motive. _Syn_ slip-up, miscue, slip  
+__parapsychology__ _n_ /ˌpær ə saɪˈkɒl ə dʒi/ The study of the evidence for psychological phenomena, such as telepathy, clairvoyance, and psychokinesis, that are inexplicable by science.  
 __parasol__ _n_ :astonished: A light, usually small umbrella carried as protection from the sun.  
 __paratrooper__  
 __Parkinson’s law__ _n_ /PAHR-kin-suhnz law/ The observation that work expands to fill the time available.  
@@ -523,6 +541,7 @@ __pressing__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need
 __pressing<sup>1</sup>__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._ _Syn_ urgent __2__ Very earnest or insistent: _a pressing invitation._  
 __pressing<sup>2</sup>__ _n_  
 __pressurize__ _vt_  
+__pricey__ _adj_ /ˈpraɪ si/ (pricy)  
 __prioritize__ _v_ _We’ll probably go on prioritizing._  
 __prissy__ _adj_ :es: remilgado  
 __process server__ _n_ :dart::two: A person who serves subpoenas or other legal documents, esp. those requiring appearance in court.  
@@ -576,12 +595,14 @@ __reread__ _v_ :pencil2:
 __riding hood__ _n_ A type of cloak or hood worn by women who rode horses. This clothing was designed specifically for riding, providing warmth and protection for the rider.  
 __rife__ _adj_ /raɪf/ (postpositive)  
 __rimming__ _n_ _slang_ A slang term for the act of licking and/or orally stimulating the anus of a sexual partner.  
+__ring-pull__ _n_ _BrE_ A metal strip that must be pulled off the top of a can of drink or food in order to open it.  
 __roar__ _n_  
 __rundown__ _n_ :two: __1__ A point-by-point summary.  
 __rung__  
 __scant__ _adj_  
 __scored tablet__ _n_ :dart::camera: A tablet that has a line or groove (called a score line) on their surface, designed to allow the tablet to be split into smaller doses.  
 __scrupulously__  
+__second-hand__ _adj, adv_  
 __secondhand<sup>1</sup>__ _adj_ :three::hammer:  
 __secondhand<sup>2</sup>__ _adv_  
 __self-assured__  
@@ -591,11 +612,14 @@ __self-reliant__
 __serviette__ _n_  
 __sexual assault__ _n_  
 __sheaf__ _n_  
+__sheet music__ _n_ [U]  
 __shoal__ _n_  
+__shoo__ _vt_  
 __sickle cell__ _n_ An elongated, often sickle-shaped red blood cell, caused by defective hemoglobin.  
 __skewer__ _n_  
 __skimp__ _v_  
 __skin-pop__ _vt_ To inject (a drug) beneath the skin rather than into a vein.  
+__skip__ _n_ _BrE_ A container for receiving, transporting, and dumping waste materials.  
 __skirl<sup>1</sup>__ _vi_ /SKERL/ To produce a high, shrill, wailing tone. Used of bagpipes.  
 __skirl<sup>2</sup>__ _vt_ To play (a piece) on bagpipes.  
 __skirl<sup>3</sup>__ _n_ __1__ The shrill sound made by the chanter pipe of bagpipes. __2__ A shrill wailing sound: _“The skirl of a police whistle split the stillness” (Sax Rohmer)._  
@@ -611,6 +635,7 @@ __smite__ _v_
 __smitten__ _adj_  
 __smolder__ _v_ (smoulder)  
 __smother__ _v_  
+__snappy__ _adj_  
 __snarl__ _n_ __1__ A vicious growl, utterance, or facial expression. __2__ The act of snarling. __3__ A tangled mass, as of hair or yarn. __4__ A confused, complicated, or tangled situation: _a traffic snarl._  
 __snoop__ _vi_ To pry into the private affairs of others, especially by prowling about.  
 __snort__ _v_  
@@ -623,6 +648,7 @@ __solicitor__ _n_ __3__ _Chiefly British_ An attorney who advises clients on leg
 __somersault__ _n_ :es: voltereta  
 __spades__ _n_  
 __spark plug__ _n_  
+__spearhead__ _vt_  
 __spinster__ _n_ :es: solterona  
 __splendiferous__ _adj_ /splɛnˈdɪfərəs/ [:scroll: From Latin splendor (brilliance) + -fer (bearing)] _facetious_ Grand; splendid: _a really splendiferous meal._  
 __splosh__ _v_  
@@ -682,7 +708,9 @@ __thrash__ _v_
 __throb__ _v_ _My hand was throbbing._  
 __top dog__  
 __top-heavy__ _adj_ __3__ (Commerce) (of a business enterprise) Having too many executives.  
+__tow__ _vt_  
 __tractable__ _adj_ /TRAK-tuh-bul/ _Tractable_ is used to describe someone or something that is easily led, managed, taught, or controlled.  
+__trade union__ _n_ :es: sindicato  
 __traffic warden__ _n_ _Brit_ A person who is appointed to supervise road traffic and report traffic offenses.  
 __tramp__ _n_ (vagrant?)  
 __tranquil__ _adj_  
@@ -690,6 +718,7 @@ __transgression__ _n_ /trans-GRESH-uhn/ A violation of legal or moral boundaries
 __transsexual__ _n_ :pencil2:  
 __trawl__ _v_  
 __tread__ _v_ (trod)  
+__trespasser__ _n_ Someone who intrudes on the privacy or property of another without permission.  
 __truancy__ _n_ __1__ The absence of a child from school without permission. __2__ The neglect of work or duty.  
 __truant officer__ _n_ A person employed by a public-school system to investigate the continued absences of pupils. _Syn_ attendance officer, truancy officer  
 __twine__ _n_  

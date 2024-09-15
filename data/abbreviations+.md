@@ -29,6 +29,7 @@ __BO__ :two: Body odor.
 __BPA__ Bisphenol A. _BPA free 100% recyclable plastic bottle._  
 __BS__ :three::hammer: (BSing) _One of our core values is: Open company, no BS._  
 __BYOD__ :two: Bring your own device.  
+__c/o__ Care of.  
 __CBT__  
 __CCP__ Chinese Communist Party, the ruling political party of China.  
 __CDC__ :three: Center for Disease Control. _A CDC van._  
@@ -250,9 +251,9 @@ __VA__ __1__ (Military) (in the US) Veterans’ Administration. _VA medical cent
 __VAR__ Video Assistant Referee.  
 __VATS__ Video-assisted thoracic surgery. Video-Assisted Thoracoscopic Surgery. _(aka keyhole surgery of the chest)_  
 __VC__ :two::hammer: _A blindfolded VC suspect._  
+__viz__ Videlicet.  
 __VTOL__ Vertical Take-Off & Landing. A vertical take-off and landing aircraft.  
 __w/__ :two: With. On drawings, abbr. for “with.”  
-__viz__ Videlicet.  
 __w/o__ _abbr_ Without.  
 __WFH__  
 __WHO__ World Health Organization.  

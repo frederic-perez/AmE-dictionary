@@ -1,6 +1,8 @@
 __(it’s) just as well (that) (something happened)__ It is or turned out to be beneficial (that something happened). _It turned out we had a pop quiz on Monday. Just as well I was studying this weekend!_  
+__(just) for the fun of it__  
 __(stuck) in a rut__  
 __(the) top of the line__ The absolute best of a certain thing, often referring to a product that is of the utmost quality (and usually the most expensive). When used as a noun, it is preceded by “the.” _That store only sells top of the line gear. You may want to consider some lower-priced options._  
+__a (whole) host of (something)__  
 __a balancing act__ :dart:  
 __a legend in (one’s) own lifetime__ A person who has an extraordinary level of fame or reputation while they are still alive. _The singer has made such a huge impact on the world of blues that she’s come to be a legend in her own lifetime._  
 __a legend in (one’s) own mind__ A person who affects or believes that they are of greater importance or notoriety than is actually the case. A humorous, ironic twist on the phrase “a legend in one’s own lifetime.” _The assistant manager acts as if she’s the only one keeping the company together. She’s a regular legend in her own mind._  
@@ -9,6 +11,7 @@ __a long shot__ :dart:
 __a stone’s throw__ :two: A very short distance.  
 __a word of warning__ :two: Information about possible danger or trouble.  
 __according to (someone or something)__  
+__Aladdin’s cave__ The idiom “Aladdin’s cave” refers to a place filled with a vast collection of valuable, interesting, or unusual objects.  
 __all the same__ :two::hammer:  
 __all too often__  
 __artful dodger__ :smiling_imp:  
@@ -44,9 +47,11 @@ __bits and pieces__ Sundry little items, tasks, or chores.
 __black tie__ Dress ccde (slightly less formal than _white tie_) typically allowing men to wear tuxedos or dinner jackets and women to wear cocktail dresses and long dresses.  
 __boil (something) down to (something)__ To reduce or simplify something to the most basic, essential, or fundamental element(s).  
 __bona fide__  
+__brazen out__ To face something, especially a difficult situation or an accusation, with brave or impudent self-confidence. A noun or pronoun can be used between “brazen” and “out.” _Timmy brazened out his teacher’s scolding about his bad behavior._ _I’m so impressed that you brazened out that long drive in torrential rain._  
 __break even__  
 __brown sugar__ :dart: _slang_ Heroine.  
 __buckle up__  
+__bullshit artist__ :smiling_imp: _rude slang_ A person expert at lies, deception, and hype. Someone who is apt to lie and embellish. _Oh, you can’t trust a word that bullshit artist says._  
 __by all means__ :dart:  
 __by no means__ Not in any way; not at all; absolutely not.  
 __call of nature__ The urge to urinate or defecate. _I have to attend to the call of nature._  
@@ -60,17 +65,19 @@ __chase the dragon__ :dart: To smoke a controlled substance, often heroin. _I ca
 __clear the table__ To remove objects from a table. This phrase is often said after a meal, as one removes dishes, silverware, and leftover food from the table. _After the meal I cleared the table._  
 __close shave__  
 __come a long way__  
+__come and gone__ The idiom “come and gone” refers to something that has arrived and then passed or ended. It often implies that a particular time, opportunity, or event has occurred and is now over, suggesting a sense of finality or missed chances.  
 __come to grips__  
 __come to terms with (someone or something)__  
 __coming-of-age__  
 __contend with (someone or something)__  
+__cranky__ Irritable; in a foul mood.  
 __creeper__  
 __cut bait__  
 __dance on air__ To be extremely happy.  
 __dead__ __5__ Absolutely. _You’d better be dead certain about this decision, because you can’t take it back._  
 __dearth__ _n_ /dɜːθ/  
 __dig and poke around__ The idiom “dig and poke around” generally means to search or investigate something thoroughly by looking through various items or areas, often in a somewhat casual or unstructured manner.  
-__dodge__ :smiling_imp: /dɑdʒ/ A swindle; a scam; a deception. _What sort of dodge did you get flimflammed with?_  
+__dodge__ :three::smiling_imp: /dɑdʒ/ A swindle; a scam; a deception. _What sort of dodge did you get flimflammed with?_  
 __don’t worry, be happy__ The phrase “Don’t worry, be happy” has its origins in the teachings of the Indian spiritual master Meher Baba. He frequently used this expression in communications with his followers, particularly in the West, as a succinct message of encouragement and positivity. Meher Baba’s teachings emphasized the importance of maintaining a positive outlook.  
 __double or quits__ A wager, undertaken after a previous wager, that stipulates two possible outcomes: if the winner of the previous wager wins again, they win twice the amount won in the previous wager; if they lose, they receive nothing. Primarily heard in UK.  
 __down the line__ In the future.  
@@ -94,6 +101,7 @@ __fill the gap__
 __first come, first served__ The first people present will be the first to receive something, often something that is available in limited quantities.  
 __flying squad__ _n_ A small group of police, soldiers, etc, ready to move into action quickly.  
 __fold__ :two: _informal_ __1__ Of a business, to fail or close; to cease to do business.  
+__follow suit__  
 __food chain__ Used in the phrases “at the top of the food chain” and “at the bottom of the food chain.” __1__ A hierarchy of organisms that transfer food energy between them. The smallest organisms are at the bottom—and they are preyed upon by the larger ones above them in the food chain. _Grizzly bears are at the top of the food chain._ _Phytoplankton are at the bottom of the food chain._ __2__ A hierarchy of people in a group or organization. _As a medical intern, I’m at the bottom of the food chain, but I’ll move up soon enough._  
 __for a charge__ The act of charging someone a fee or price for a service or item.  
 __for a fee__  
@@ -283,6 +291,7 @@ __jump ship__ (abandon ship) _Nearly all of (chatbot) Pi’s parent company, Inf
 __jungle law__  
 __junkyard dog__ An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase “meaner than a junkyard dog.” _Though he’s always polite when he’s in public, Tiffany’s husband is meaner than a junkyard dog behind closed doors._  
 __just like that__  
+__keel over__  
 __keen on (someone or something)__  
 __keep (one’s) slate clean__ To maintain an impeccable record; to refrain from committing any mistakes or wrongdoings.  
 __keep (one’s) socks on__ :dart: To remain patient and calm, especially when beginning to become angry or upset with impatience. Usually said as an imperative. _Yeah, yeah, keep your socks on! I’ll have the report finished by the end of the day!_  
@@ -492,13 +501,15 @@ __one size fits all__ :two::hammer:
 __one-off__ :three::hammer:  
 __out of print__ No longer being printed and sold by a publisher.  
 __over and out__ Said to mark the end of communication between two people. Used especially in radio communication, in which it signals that a person is done speaking and does not expect a reply from the other person. _A: “Oh, and while you’re at the store, could you please get some milk, too?” B: “Sure thing. Over and out.”_  
-__over the phone__ By calling on the telephone. _You can order a pizza over the phone._  
+__over the phone__ :two: By calling on the telephone. _You can order a pizza over the phone._  
+__pay lip service__ :smiling_imp:  
 __peeper__ peeper__ One’s eye. (That is, what one uses to peep.) Typically used in the plural and often used to refer to the eyes of children. _Your baby girl has such beautiful peepers!_  
 __photobomb__  
 __pinch__ _slang_ :two: __1__ _v_ To steal something.  
 __piss off__  
 __pitch (something) at__  
 __play havoc with (someone or something)__ To cause issues or disruptions for someone or something. _The road closures have played havoc with rush-hour traffic._  
+__point the finger at (one)__  
 __poppers__ Drugs of the alkyl nitrate class used recreationally as a sexual stimulant, especially among gay men. Amyl nitrite became popular in the 60s especially with the male gay community becase it relaxes the muscles, making anal intercourse easier.  
 __poppy appeal__  
 __price to pay__  
@@ -523,6 +534,7 @@ __round and round__ (around and around)
 __rue the day (that something happened)__ To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
 __rule of law__  
 __rules of the road__  
+__rummage around for (something)__  
 __rumor has it (that)__ It is being rumored that (something is or will be the case). _Rumor has it that the boss is using the company profits to pay off his own gambling debts._  
 __run the gauntlet__ To be exposed to or forced to endure a series of threats, dangers, criticism, or other problems. Refers to an old military punishment in which one was forced to run between two lines of soldiers while being thrashed with rods or whips. _Medical students often feel that they have to run the gauntlet when they become residents in a hospital._  
 __same old same old__ :two::hammer:  
@@ -538,11 +550,11 @@ __sexual advance__ An attempt to gain some form of sexual favor or gratification
 __sexual advances__  
 __Shangri-la__ A utopian paradise. A reference to the fictional Tibetan paradise described in James Hilton’s 1933 novel _The Lost Horizon._  
 __shine a light__  
+__shipping and handling__ The costs associated with packaging and delivering a product to the person who bought it. _Our top line of vacuum cleaners is now only $250, plus shipping and handling._  
 __shipshape and Bristol fashion__  
 __shit (one’s) pants__ __2__ _rude slang_ By extension, to be very surprised. _When I saw that the magazine had published my letter to the editor, I practically shit my pants!_ _Shit-your-pants scared._  
 __shoot (oneself) in the foot__  
-__shop around (for something)__ :dart: To browse different stores, vendors, or selections to find the best price or option for something one wants to buy.  
-__shop around__  
+__shop around (for something)__ :dart::three: To browse different stores, vendors, or selections to find the best price or option for something one wants to buy.  
 __show (one’s) hand__  
 __shrink from (someone or something)__ :dart: __1__ To recede or recoil from someone or something. _The way the gums are shrinking from your teeth is a clear sign of gingivitis._ _The child shrank from the men as they approached the house._ __2__ :dart: To avoid or neglect some action, duty, or responsibility. _You wanted to lead this branch, which means you can’t shrink from the thornier aspects of the job._  
 __shut out__  
@@ -574,6 +586,10 @@ __stamp of approval__ An indication of endorsement or authorization of something
 __stand on (one’s) own (two) feet__ To be strong and independent; to not need the help, guidance, or resources of another person.  
 __stands to reason__  
 __start the ball rolling__ To set something, often a process, in motion; to begin.  
+__take heart (from something)__ To receive courage or comfort from some fact. _I hope that you will take heart from what we told you today. Even though you did not win the race, take heart from the fact that you did your best. I told her to take heart and try again next time._  
+__take heart__ To have one’s confidence, courage, or happiness bolstered (by something). _We may have lost the election, but we take heart in the fact that so many young people are now engaged and excited about politics._  
+__the golden rule__ :dart: The maxim that one should treat other people the way one would like to be treated, often expressed proverbially as “Do unto others as you would have them do unto you.” _My son wanted to steal the bike of a boy who stole his lunch money, so I told him that the only way to get along with people is to follow the golden rule._  
+__the upper crust__  
 __the upshot (of something)__ :dart: The final or resulting outcome, conclusion, or consequence (of something). _The upshot of this merger is that the company will now control nearly 50% of the world’s television networks._  
 __to name (but) a few__  
 __toughen up__  
