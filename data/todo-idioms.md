@@ -1,5 +1,6 @@
 __(it’s) just as well (that) (something happened)__ It is or turned out to be beneficial (that something happened). _It turned out we had a pop quiz on Monday. Just as well I was studying this weekend!_  
 __(stuck) in a rut__  
+__(the) top of the line__ The absolute best of a certain thing, often referring to a product that is of the utmost quality (and usually the most expensive). When used as a noun, it is preceded by “the.” _That store only sells top of the line gear. You may want to consider some lower-priced options._  
 __a balancing act__ :dart:  
 __a long shot__ :dart:  
 __a stone’s throw__ :two: A very short distance.  
@@ -30,6 +31,7 @@ __be on the safe side__ :dart:
 __be partial to (someone or something)__ To be particularly fond of someone or something; to have someone or something as one’s favorite or preference.  
 __bear (someone or something) in mind__  
 __beat about the bush__ :two: _BrE_ To speak vaguely or euphemistically so as to avoid talking directly about an unpleasant or sensitive topic. Primarily heard in UK.  
+__beef up__ To increase something, often in strength. _With all these protestors here, we definitely need to beef up security._  
 __beg to differ__  
 __behind (one’s) back__ In one’s absence. The phrase typically suggests wrongdoing or deceit. _I can’t believe you were gossiping about me behind my back!_  
 __bits and pieces__ Sundry little items, tasks, or chores.  
@@ -39,6 +41,7 @@ __break even__
 __brown sugar__ :dart: _slang_ Heroine.  
 __buckle up__  
 __by all means__ :dart:  
+__by no means__ Not in any way; not at all; absolutely not.  
 __call of nature__ The urge to urinate or defecate. _I have to attend to the call of nature._  
 __cash flow__  
 __cash poor__ Having very little fluid capital due to one’s financial wealth being derived from or invested in long-term assets. _I can’t afford transactions like that right now. All my wealth is tied up in real estate, so I’m a bit cash poor at the moment._  
@@ -49,13 +52,16 @@ __chalk up__
 __chase the dragon__ :dart: To smoke a controlled substance, often heroin. _I can’t chase the dragon anymore—I’m trying to get away from that stuff._  
 __clear the table__ To remove objects from a table. This phrase is often said after a meal, as one removes dishes, silverware, and leftover food from the table. _After the meal I cleared the table._  
 __close shave__  
+__come a long way__  
 __come to grips__  
 __come to terms with (someone or something)__  
 __coming-of-age__  
+__contend with (someone or something)__  
 __creeper__  
 __cut bait__  
 __dance on air__ To be extremely happy.  
 __dead__ __5__ Absolutely. _You’d better be dead certain about this decision, because you can’t take it back._  
+__dearth__ _n_ /dɜːθ/  
 __dig and poke around__ The idiom “dig and poke around” generally means to search or investigate something thoroughly by looking through various items or areas, often in a somewhat casual or unstructured manner.  
 __dodge__ :smiling_imp: /dɑdʒ/ A swindle; a scam; a deception. _What sort of dodge did you get flimflammed with?_  
 __don’t worry, be happy__ The phrase “Don’t worry, be happy” has its origins in the teachings of the Indian spiritual master Meher Baba. He frequently used this expression in communications with his followers, particularly in the West, as a succinct message of encouragement and positivity. Meher Baba’s teachings emphasized the importance of maintaining a positive outlook.  
@@ -80,13 +86,17 @@ __few and far between__
 __fill the gap__  
 __first come, first served__ The first people present will be the first to receive something, often something that is available in limited quantities.  
 __flying squad__ _n_ A small group of police, soldiers, etc, ready to move into action quickly.  
+__fold__ :two: _informal_ __1__ Of a business, to fail or close; to cease to do business.  
 __food chain__ Used in the phrases “at the top of the food chain” and “at the bottom of the food chain.” __1__ A hierarchy of organisms that transfer food energy between them. The smallest organisms are at the bottom—and they are preyed upon by the larger ones above them in the food chain. _Grizzly bears are at the top of the food chain._ _Phytoplankton are at the bottom of the food chain._ __2__ A hierarchy of people in a group or organization. _As a medical intern, I’m at the bottom of the food chain, but I’ll move up soon enough._  
 __for a charge__ The act of charging someone a fee or price for a service or item.  
 __for a fee__  
 __for all I know__  
+__for better or (for) worse__  
 __for kicks__  
+__for starters__  
 __for which read__ :dart: _Readjustment, scaling back, for which read — redundancies._ :es: léase  
 __free of charge__  
+__full-fledged__  
 __fussbudget__ :dart: _informal_ One who tends to be fussy or particular, usually to an excessive or unnecessary degree. Primarily heard in US. _Don’t be such a fussbudget, huh? This really isn’t a big deal._ _Of course Vanessa found some miniscule issue that no one else would have noticed. She’s such a fussbudget._  
 __get (one, something) out of the system__  
 __get (something) out of (one’s) system__ __2__ To do something so that one no longer has the desire to do it anymore. _I got drinking and partying out of my system during college. I’m ready for a quieter life now._  
@@ -468,6 +478,7 @@ __pitch (something) at__
 __play havoc with (someone or something)__ To cause issues or disruptions for someone or something. _The road closures have played havoc with rush-hour traffic._  
 __poppers__ Drugs of the alkyl nitrate class used recreationally as a sexual stimulant, especially among gay men. Amyl nitrite became popular in the 60s especially with the male gay community becase it relaxes the muscles, making anal intercourse easier.  
 __poppy appeal__  
+__price to pay__  
 __prickteaser__ _slang_ A _prickteaser_ is a slang term with vulgar and derogatory connotations, typically referring to a seductive woman who uses her sex appeal to exploit or manipulate men without following through on implied sexual promises.  
 __prim and proper__ Having very traditional, morally conservative beliefs and behavior.  
 __public eye__ Attention from the general public. Typically used in the phrase “in the public eye.”  
@@ -475,12 +486,14 @@ __pull (one’s) weight__ To contribute to a group activity or pursuit in propor
 __puppy__ __1__ _n_ A wimp; a softie. _That silly puppy is still waiting outside your door._ __2 __ _n_ A thing; a piece or part of something. _Put this little puppy right here._  
 __push the envelope__ To expand on, exceed, or test the limits of the established norm or standard.  
 __put (someone or something) (up) on a pedestal__ To believe or behave as if someone or something is perfect, wonderful, or better than others, to the extent that one is unable to see its potential flaws or faults.  
+__put off by someone or something__ Distressed or repelled by someone or something. _I was really put off by your behavior._ _We were all put off by the unfairness of the rules._  
 __put off__ __1__ _v_ To deter, annoy, or repel. A noun or pronoun can be used between “put” and “off.” _I don’t know if you realize how much you put people off with your attitude._  
 __put on a good/poor/etc. show__  
 __put up with (someone or something)__ To abide or endure someone or something that one finds unpleasant, inconvenient, or annoying.  
 __quite a few__ (quite a lot; quite a bit; quite a number)  
 __rags to riches__ Characterized by a rise from poverty to great or exceptional wealth. Hyphenated if used as a modifier before a noun.  
 __rake in__  
+__recoup (something) from (someone or something)__ To recover, regain, or restore something from someone or something. _You’ll have to pay for everything out of pocket, but you can recoup it all from HR after you’re back from the trip._  
 __roast__  
 __rolling stone__  
 __round and round__ (around and around)  
@@ -513,6 +526,7 @@ __shut out__
 __single file__ A line of things or people, one person or one thing wide. _Please get into single file._ _You have to march single file._  
 __single out__  
 __six in one, (and) half a dozen in the other__ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
+__skive off__ _BrE_ To absent oneself or leave early from school or work when one would normally be required to be there; to play truant. Primarily heard in UK.  
 __slap in the face__ Words or actions that have offended or otherwise upset someone. _It was a real slap in the face when she got promoted over me, especially after the amount of work I did on that last project._  
 __sleazo__  
 __sleep like a rock__ To experience a very deep and restful sleep; to sleep soundly.  
@@ -536,6 +550,7 @@ __stamp of approval__ An indication of endorsement or authorization of something
 __stand on (one’s) own (two) feet__ To be strong and independent; to not need the help, guidance, or resources of another person.  
 __stands to reason__  
 __start the ball rolling__ To set something, often a process, in motion; to begin.  
+__the upshot (of something)__ :dart: The final or resulting outcome, conclusion, or consequence (of something). _The upshot of this merger is that the company will now control nearly 50% of the world’s television networks._  
 __to name (but) a few__  
 __toughen up__  
 __willy-nilly__ :two::hammer: [:scroll: This expression is a shortened form of ‘willing or not willing.’]  
@@ -547,6 +562,7 @@ __work like a Trojan__
 __work out__  
 __you are what you eat__ One’s overall health is linked to one’s eating habits. The phrase is often used to promote proper nutrition.  
 __you(’d) better believe it__ Absolutely, without question; rest assured.  
+__young at heart__ Behaving or thinking in a way that is more youthful than what traditionally accompanies one’s actual age.  
 __yup__  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
 __zero hour__  

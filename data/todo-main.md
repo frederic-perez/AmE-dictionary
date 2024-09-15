@@ -1,6 +1,8 @@
+__-phobe__ _n_ (combining form) One fearing or averse to (something specified). _Francophobe._  
 __abound__ _vi_  
 __abscess__ _n_ /ˈæbsɛs; -sɪs/ A localized collection of pus formed as the product of inflammation and usually caused by bacteria.  
 __abscond__ _v_  
+__acolyte__ _n_ :es: acólito; monaguillo  
 __acquittal__ _n_  
 __acumen__ _n_ /AK-yoo-mun/ _Acumen_ refers to keenness and depth of perception, discernment, or discrimination—in other words, the ability to think clearly and make good decisions, especially in practical matters.  
 __adulterant__ _n_ /əˈdʌl tər ənt/  
@@ -74,7 +76,7 @@ __callow__ _adj_ /KAL-oh/ _Callow_ is a synonym of _immature_ used to describe s
 __camp__ _n_  
 __candlestick__ _n_ (candleholder) A holder, usually ornamental, with a spike or socket for a candle.  
 __canvasser__ _n_  
-__casework__ _n_ :two: Social work involving direct contact between the social worker and the individual or family being helped.  
+__casework__ _n_ :three: Social work involving direct contact between the social worker and the individual or family being helped.  
 __casualty__ _n_ :astonished: __3__ _(Medicine)_ A hospital department in which victims of accidents, violence, etc, are treated.  
 __catapult__ _v_ /ˈkæt əˌpʌlt, -ˌpʊlt/  
 __catchment__ _n_ :es: cuenca  
@@ -134,6 +136,7 @@ __curtly__ _adv_ _‘Congratulations,’ I said curtly._
 __cutback__  
 __darn__  
 __deaf-mute__ _adj, n_  
+__dear__ _adj_ __4a__ :dart: Highly priced. _Software is dearer in the UK than in the USA._ __b__ Charging high prices.  
 __decor__ _n_  
 __degage__ _adj_ Showing lack of emotional involvement. _Syn_ detached, uninvolved  
 __demob__ _v_  
@@ -177,6 +180,7 @@ __far-fetched__ _adj_ Improbable in nature; unlikely.
 __far-flung__ _adj_  
 __farsighted__ _adj_ Planning prudently for the future. _Syn_ foresighted, long, longsighted, prospicient  
 __fascia__  
+__fascism__ _n_ (sometimes capital)  
 __faze__ _v_  
 __fazed__ _adj_ /feɪzd/ Disconcerted; worried; disturbed.  
 __fealty__ _n_ /FEE-ul-tee/ _Fealty_ is an old-fashioned and somewhat literary word that refers to intense loyalty or fidelity to a person, group, etc. More narrowly, _fealty_ refers to the fidelity of a vassal or feudal tenant to their lord.  
@@ -244,6 +248,7 @@ __genteelism__ _n_ /jen-TEE-liz-uhm/ The substitution of a word that is believed
 __gerbil__ _n_ :es: jerbo  
 __gestalt therapy__ _n_  
 __gestalt__ _n_ _Gestalt therapy._  
+__gifted__ _adj_ __1__ Endowed with great natural ability, intelligence, or talent: _a gifted child; a gifted pianist._ __2__ Revealing special talent: _a gifted rendition of the aria._  
 __giro__ _n_ __2__ _informal Brit_ An unemployment or income support payment by giro cheque, posted fortnightly.  
 __glean__ _v_ :two: /ɡliːn, glin/ To collect or pick up small amounts of news, facts, etc. :es: recoger, recopilar  
 __golden plover__ _n_  
@@ -293,6 +298,7 @@ __ignoble__ _adj_ Not of the nobility; common. _Syn_ ungentle, untitled
 __illicit__ _adj_ /ɪˈlɪsɪt/  
 __immiseration__ _n_ /i-miz-uh-RAY-shuhn/ __1__ The act of making miserable or the state of being made miserable. __2__ Impoverishment.  
 __impending__ _adj_ About to happen; imminent.  
+__imprisonment__ _n_ :pencil2: Putting someone in prison or in jail as lawful punishment.  
 __impugn__ _v_ /im-PYOON/ To impugn something, such as a person’s integrity, judgment, etc., is to attack or oppose it as false or lacking integrity.  
 __indict__ _v_  
 __indictment__ _n_  
@@ -300,7 +306,9 @@ __ineffable__ _adj_ Incapable of being expressed. _Syn_ indescribable, unspeakab
 __inerrant__ _adj_ Incapable of erring. _Syn_ infallible  
 __ingenuous__ _adj_ Lacking in cunning, guile, or worldliness. _Syn_ artless  
 __injunction__  
+__innards__ _n pl_  
 __interfere__ _v_  
+__invalid car__ _n_ _BrE_ A car specially equipped so that a disabled person can drive it.  
 __inviting__ _adj_ :two: Attractive; tempting: _an inviting dessert._  
 __iota__ _n_ /eye-OH-tuh/ An _iota_ is an infinitesimal amount of something. The word _iota_ is used synonymously with the etymologically related _jot_, and by its oldest definition refers to the 9th letter of the Greek alphabet.  
 __irate__ _adj_ :dart::astonished:  
@@ -329,6 +337,7 @@ __lethargic__ _adj_ :two: /luh-THAHR-jik/ Of, relating to, or affected with leth
 __lewd__  
 __Lewis gun__  
 __liable__ _adj_  
+__liaise__ _v_ (usually foll by: _with_) To communicate and maintain contact (with). _They can put you in touch with solicitors, and liaise with police._  
 __lidless__ _adj_ Watchful; vigilant. _Syn_ sleepless  
 __lightsaber__ _n_  
 __limerence__ _n_ The state of being obsessively infatuated with someone, usually accompanied by delusions of or a desire for an intense romantic relationship with that person.  
@@ -353,9 +362,11 @@ __lookout__ _n_ _Lookouts were posted._
 __lore__ _n_ Accumulated facts, traditions, or beliefs about a particular subject. _Syn_ traditional knowledge  
 __loss aversion__ _n_  
 __Lothario__ _n_ (lothario)  
+__low-end__ _adj_ Cheaper and, typically, of lower quality compared to the leading products or brands. Used before a noun. _Because he’s only willing to pay for low-end supplies, we’ve had nothing but problems with all our equipment._  
 __LSD__ _n_ (acid) _(Recreational Drugs)_ Lysergic acid diethylamide; a crystalline compound prepared from lysergic acid, used in experimental medicine and taken illegally as a hallucinogenic drug. Informal name (as an illegal hallucinogen): acid.  
 __lucrative__ _adj_ :two::hammer: /LOO-kruh-tiv/  
 __lucubration__ _n_  
+__luggable__ _n_ /ˈlʌɡəbəl/ (esp of computers) Portable, but with difficulty.  
 __luminal__ _adj_  
 __lump sum__ _n_ A single sum of money that serves as complete payment.  
 __lump__ _v_  
@@ -419,6 +430,7 @@ __occultism__ _n_
 __off-limits__  
 __off-putting__ _adj_ :dart: Provoking uneasiness, dislike, annoyance, or repugnance. Tending to disconcert or repel: _was rankled by the off-putting remarks._  
 __offcut__ _n_ /ˈɒfˌkʌt/ A piece of paper, plywood, fabric, etc, remaining after the main pieces have been cut; remnant.  
+__offset__ _v_  
 __ogle__ _v_  
 __oilskin__ _n_  
 __ontic__ _adj_ /ON-tik/ [:scroll: From Greek onto (being)] Having or relating to a real existence.  
@@ -445,12 +457,14 @@ __parade__ _v_
 __paradigm__ _n_ /PAIR-uh-dyme/  
 __Paralympics__ _n pl_  
 __paraphernalia__ _n_  
+__paraplegia__ _n_ [:scroll: quadri- (because all four limbs are affected ) + -plegia] Complete paralysis of the lower half of the body including both legs, usually caused by damage to the spinal cord.  
 __parapraxis__ _n_ A minor error, such as a slip of the tongue, thought to reveal a repressed motive. _Syn_ slip-up, miscue, slip  
 __parasol__ _n_ :astonished: A light, usually small umbrella carried as protection from the sun.  
 __paratrooper__  
 __Parkinson’s law__ _n_ /PAHR-kin-suhnz law/ The observation that work expands to fill the time available.  
 __parson__ _n_  
 __pasquinade__ _n_ A satire or lampoon, especially one that ridicules a specific person, traditionally written and posted in a public place. _Syn_ parody, put-on, sendup, spoof, charade, lampoon, mockery, burlesque, travesty, takeoff  
+__pastime__ _n_ :pencil2:  
 __pathos__ _n_ A quality, as of an experience or a work of art, that arouses feelings of pity, sympathy, tenderness, or sorrow. _Syn_ poignancy  
 __pauperism__ _n_ A state of extreme poverty or destitution. _Syn_ indigence, penury, need  
 __payslip__ _n_ (pay slip) A piece of paper received by an employee showing how much salary they have been paid.  
@@ -495,6 +509,7 @@ __poll tax__ _n_ A fixed tax levied on all persons in a certain area, especially
 __polypharmacy__ _n_ The practice of prescribing multiple medications for an individual patient, especially excessively, for a single disease.  
 __polytechnic__ _adj, n_  
 __pontoon__ _n_  
+__pool__ _n_ __1a__ A game of chance, resembling a lottery, in which the contestants put staked money into a common fund that is later paid to the winner. __b__ A fund containing all the money bet in a game of chance or on the outcome of an event.  
 __poplar tree__  
 __porky__ _adj_ __1__ Of or like pork: _a porky flavor._ __2__ _Derogatory Slang_ Fat or corpulent.  
 __porter__ _n_ __1__ A person employed to carry luggage, parcels, supplies, etc, esp at a railway station or hotel.  
@@ -517,7 +532,9 @@ __propensity__ _n_ /pruh-PENN-suh-tee/ A _propensity_ is a strong natural tenden
 __prostration__ _n_ An abrupt failure of function or complete physical exhaustion. _Syn_ collapse  
 __proximate__ _adj_  
 __pulse__ _n_ __1__ The edible seeds of certain pod-bearing plants, such as lentils and chickpeas. :es: legumbres __2__ A plant yielding these seeds.  
+__pundit__ _n_ __1__ A source of opinion; a critic: a political pundit. __2__ A learned person.  
 __pustulate__ _adj_ Blemished by imperfections of the skin. _Syn_ acned, pimpled  
+__quadriplegia__ _n_ Complete paralysis of the body from the neck down. Also called tetraplegia.  
 __quaver__ _vi_ __1__ To quiver, as from weakness; tremble. _I took a quavering breath._  
 __Queen’s evidence__ _n_  
 __quiff__ _n_  
@@ -527,6 +544,7 @@ __rabies__ _n_ /ˈreɪ biz/ _Rabies is normally fatal if untreated and it’s a 
 __racket__ _n_ __1__ A loud distressing noise.  
 __ragbag__ _n_  
 __rapport__ _n_ /ræˈpɔr, -ˈpoʊr, rə-/  
+__Rastafarian__ _adj, n_  
 __raving<sup>1</sup>__ _n_  
 __raving<sup>2</sup>__ _adj_ Delirious, irrational speech.  
 __rear__ _vt_ :two: __1__ To care for (children or a child) during the early stages of life; bring up. __2__ To tend (growing plants or animals). __3__ To build; erect.  
@@ -546,6 +564,8 @@ __regardless__
 __reify__ _v_ /ˈri əˌfaɪ, ˈreɪ-/ /RAY-uh-fye/ Reifying is about considering or representing something abstract as a material or concrete thing. If you reify a concept or idea you somehow give it definite content and form.  
 __reignite__ _v_  
 __remand__ _n_ :three::hammer:  
+__remand<sup>1</sup>__ _n_  
+__remand<sup>2</sup>__ _vt_  
 __remanded__ _v_  
 __repeat__ _n_  
 __replete__ _adj_ /rih-PLEET/ Replete is an adjective used to describe things as “fully or abundantly provided or filled,” “abundantly fed,” “stout,” or “complete.”  
@@ -554,6 +574,7 @@ __reprieve__ _n_
 __reputedly__ _adv_ According to general belief or supposition: _the reputedly excellent food._ :es: según dicen  
 __reread__ _v_ :pencil2:  
 __riding hood__ _n_ A type of cloak or hood worn by women who rode horses. This clothing was designed specifically for riding, providing warmth and protection for the rider.  
+__rife__ _adj_ /raɪf/ (postpositive)  
 __rimming__ _n_ _slang_ A slang term for the act of licking and/or orally stimulating the anus of a sexual partner.  
 __roar__ _n_  
 __rundown__ _n_ :two: __1__ A point-by-point summary.  
@@ -571,7 +592,9 @@ __serviette__ _n_
 __sexual assault__ _n_  
 __sheaf__ _n_  
 __shoal__ _n_  
+__sickle cell__ _n_ An elongated, often sickle-shaped red blood cell, caused by defective hemoglobin.  
 __skewer__ _n_  
+__skimp__ _v_  
 __skin-pop__ _vt_ To inject (a drug) beneath the skin rather than into a vein.  
 __skirl<sup>1</sup>__ _vi_ /SKERL/ To produce a high, shrill, wailing tone. Used of bagpipes.  
 __skirl<sup>2</sup>__ _vt_ To play (a piece) on bagpipes.  
@@ -582,6 +605,7 @@ __sludge__ _n_
 __slush__ _n_ (drink?)  
 __smallholding__ _n_  
 __smarting__ _adj_ Marked by, causing, or experiencing physical pain. _Syn_ aching, achy, afflictive, hurtful, nagging, painful, sore  
+__smattering__ _n_ :astonished:  
 __smell-feast__ _n_ _archaic_ One given to finding out and getting invited to good feasts. _Syn_ parasite, sponger  
 __smite__ _v_  
 __smitten__ _adj_  
@@ -625,6 +649,7 @@ __stow__ _v_ __3__ _(Nautical Terms)_ To pack or put away (cargo, sails and othe
 __straddle__ _v_  
 __strafe__ _v_ :dart: /streɪf, strɑf/ __1__ To attack (ground troops, etc.) with fire from low-flying airplanes.  
 __stray dog__ _n_ An ownerless dog, a roaming wild or half-wild dog.  
+__street trading__ _n_ The selling, or exposing for sale, of articles on certain streets. It is an offense in both England and Scotland although under different legislation.  
 __stridor__ _n_ :es: estridor, ruido sordo respiratorio  
 __string__ _n_ _The string of the tea bag._  
 __stringent__ _adj_  
@@ -650,6 +675,7 @@ __swivel__ _v_
 __tabloid__ _n_ :dart::astonished:  
 __tackle__ _n_ _The tackle broke when they tried to lift the heavy bell._  
 __Tartuffe__ _n_ (Tartufe) [:scroll: after the title character in a Molière play (1664)] A person who hypocritically pretends to be deeply pious.  
+__tetraplegia__ _n_ Another name for quadriplegia.  
 __therapy__ _n_ /ˈθɛr ə pi/  
 __thimbel__ _n_  
 __thrash__ _v_  
@@ -665,6 +691,7 @@ __transsexual__ _n_ :pencil2:
 __trawl__ _v_  
 __tread__ _v_ (trod)  
 __truancy__ _n_ __1__ The absence of a child from school without permission. __2__ The neglect of work or duty.  
+__truant officer__ _n_ A person employed by a public-school system to investigate the continued absences of pupils. _Syn_ attendance officer, truancy officer  
 __twine__ _n_  
 __umbrella__ _n_ __3a__ Something that covers or protects.  
 __unabashed__ _adj_ :three: Not ashamed, disconcerted, or apologetic; boldly certain of one’s position. Not disconcerted or embarrassed; poised. _Syn_ unembarrassed  
@@ -687,6 +714,7 @@ __unstreamed__ _adj_ /ʌnˈstriːmd/ (Education) _Brit_ (of children) Not divide
 __unsung__ _adj_ __1__ Not honored or praised; uncelebrated: _an unsung hero._  
 __untapped__ _adj_ :es: sin explotar  
 __untoward__  
+__unwaged__ _adj_ :two of, relating to, or denoting a person who is not receiving pay because of either being unemployed or working in the home. :es: sin sueldo; _the unwaged (= the unemployed)_ los no asalariados  
 __upshot__ _n_ :dart:  
 __vagaries__ _n_  
 __VE Day__  
@@ -694,7 +722,9 @@ __venomous__ _adj_ /ˈvɛn ə məs/
 __verboten__ _adj_ :astonished: Forbidden; prohibited.  
 __viaduct__  
 __Victoria Cross__ _n_  
+__videlicet__ _adv_ (abbr _viz_) That is; namely. Used to introduce examples, lists, or items.  
 __vilify__ _vt_ :two::hammer: /VIL-uh-fye/  
+__virago__ _n_ /vɪˈrɑ goʊ, -ˈreɪ-/  
 __virid__ _adj_ /VIR-id/ Bright green.  
 __visa national__ _n_ A person from a country whose citizens are required to obtain a visa before entering the United Kingdom, regardless of the purpose or duration of their visit.  
 __visa__ _n_ An official authorization appended to a passport, permitting entry into and travel within a particular country or region subject to certain conditions, such as length of time and purpose of the visit.  

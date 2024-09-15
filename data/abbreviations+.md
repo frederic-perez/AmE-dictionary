@@ -196,6 +196,7 @@ __pppn__ _abbr_ Per person per night.
 __PR__ :three: Public relations. _The best-kept secret in PR._ _The PR version of my life._  
 __PSA__ __1__ Prostate-specific antigen. __2__ Public service announcement.  
 __pt__ Patient.  
+__PTA__ Parent Teacher Association.  
 __PTO__ __1__ Paid time off. __2__ Parent Teacher Organization.  
 __PTSD__ :four: Post-traumatic stress disorder.  
 __PVC__ Polyvinyl Chloride.  
@@ -251,6 +252,7 @@ __VATS__ Video-assisted thoracic surgery. Video-Assisted Thoracoscopic Surgery. 
 __VC__ :two::hammer: _A blindfolded VC suspect._  
 __VTOL__ Vertical Take-Off & Landing. A vertical take-off and landing aircraft.  
 __w/__ :two: With. On drawings, abbr. for “with.”  
+__viz__ Videlicet.  
 __w/o__ _abbr_ Without.  
 __WFH__  
 __WHO__ World Health Organization.  
