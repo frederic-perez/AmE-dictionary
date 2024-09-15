@@ -698,31 +698,6 @@ __unabashed__ _adj_ :three: Not ashamed, disconcerted, or apologetic; boldly cer
 __unassailable__  
 __unassuming__ _adj_  
 __unattainable__ _adj_ _Unattainable love._  
-__unbeknownst__ _adj_ /un-bih-NOHNST/  
-__underarm__ _adj, adv, n_  
-__undercut__ _v_ :two::hammer:  
-__underdog__ _n_  
-__ungainly__ _adj_ :two: /un-GAYN-lee/ Lacking grace or ease of movement or form. _Syn_ clumsy, clunky, gawky, unwieldy  
-__unlatched__ _adj_ Not firmly fastened or secured.  
-__unnoticed__ _adj_ /ʌnˈnəʊtɪst/ Not perceived or observed. _You may go unnoticed._  
-__unpleasant__ _adj_ _Unpleasant surprise._  
-__unpretentious__ _adj_ :es: sin pretensiones; modesto  
-__unrequited__ _adj_ /ˌʌn rɪˈkwaɪ tɪd/  
-__unsavory__ _adj_  
-__unsteady__ _adj_ Not firm, solid, or securely in place; unstable. _Syn_ unfirm  
-__unstreamed__ _adj_ /ʌnˈstriːmd/ (Education) _Brit_ (of children) Not divided into groups or streams according to ability.  
-__unsung__ _adj_ __1__ Not honored or praised; uncelebrated: _an unsung hero._  
-__untapped__ _adj_ :es: sin explotar  
-__untoward__  
-__unwaged__ _adj_ :two of, relating to, or denoting a person who is not receiving pay because of either being unemployed or working in the home. :es: sin sueldo; _the unwaged (= the unemployed)_ los no asalariados  
-__upshot__ _n_ :dart:  
-__vagaries__ _n_  
-__VE Day__  
-__venomous__ _adj_ /ˈvɛn ə məs/  
-__verboten__ _adj_ :astonished: Forbidden; prohibited.  
-__viaduct__  
-__Victoria Cross__ _n_  
-__videlicet__ _adv_ (abbr _viz_) That is; namely. Used to introduce examples, lists, or items.  
 __vilify__ _vt_ :two::hammer: /VIL-uh-fye/  
 __virago__ _n_ /vɪˈrɑ goʊ, -ˈreɪ-/  
 __virid__ _adj_ /VIR-id/ Bright green.  

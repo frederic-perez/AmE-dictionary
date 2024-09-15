@@ -20332,7 +20332,7 @@ __unassuming__ _adj_ :seven::hammer: _Hollande, an unassuming and bespectacled S
 __unavailing__ _adj_ Producing no result or effect. _Syn_ futile, ineffectual, otiose _Immediately conscious how unavailing any struggle against such an overwhelming force must prove, he submitted to his fate._  
 __unavenged__ _adj_  
 __unbecoming__ _adj_  
-__unbeknown__ _adj_ /ˌʌnbɪˈnəʊn/ (unbeknownst)  
+__unbeknown__ _adj_ :two::hammer: /ˌʌnbɪˈnəʊn/ (unbeknownst /un-bih-NOHNST/)  
 __unbidden__ _adj_ :four: Not invited, asked, or requested; unasked: _unbidden guests; comments unbid and unwelcome._  
 __unblemished__ _adj_ Free from physical or moral spots or stains. _Syn_ unmarred, unmutilated  
 __unbox__ _n_  
@@ -20364,6 +20364,7 @@ __under (someone’s) watch__
 __under siege__  
 __under water__  
 __under-the-table__ _adj_ Transacted in an underhand manner. _An under-the-table payment of $10 million._  
+__underarm__ _adj, adv, n_  
 __underbelly__ _n_ :four::hammer: /ˈʌn dərˌbɛl i/ (underbellies) _He is forced to balance his new life with the gritty underbelly of the city._ _The seedy underbelly of New York City._  
 __underbid__  
 __undercard__ _n_ :two::hammer: _Undercard debates._  
@@ -20371,7 +20372,7 @@ __undercroft__ _n_ _The cathedral’s undercroft._
 __undercurrent__ _n_ :astonished::five::hammer: :es: trasfondo  
 __undercut<sup>1</sup>__ _vt_ :nine::m: __1__ To diminish or destroy the province or effectiveness of; undermine. _Why do you undercut yourself so much?_ _If you’re sporting self-doubt, you’ve undercut your performance before you even begin._ __2__ (Commerce) To charge less than (a competitor) in order to obtain trade. __3__ To cut away the under part of (something). __4__ (General Sporting Terms) _sport_ To hit (a ball) in such a way as to impart backspin.  
 __undercut<sup>2</sup>__ _vi_ To engage in undercutting.  
-__underdog__ _n_ :three::hammer: _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
+__underdog__ _n_ :four::hammer: _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __underdone__ _adj_ (Cookery) Insufficiently or lightly cooked. _The potatoes were underdone._  
 __underemployed__  
 __underfoot__ _adv_ :four::hammer: _They were reluctant to recognize crisis until it was underfoot._  
@@ -20442,7 +20443,7 @@ __unforgiving__ _adj_
 __unfrock__ _v_ To deprive of ecclesiastical rank, authority, and function; depose: _an unfrocked priest._  
 __unfurl__ _v_ :four::hammer: (unfurling) :es: desplegar  
 __unfurnished__ _adj_ Having no furniture, especially when available to be rented. _One-bedroom unfurnished flats start at £1,325 a month._  
-__ungainly__ _adj_ :two: __1__ Lacking grace or ease of movement or form; clumsy. __2__ Difficult to move or use; unwieldy.  
+__ungainly__ _adj_ :four: __1__ Lacking grace or ease of movement or form; clumsy. _Syn_ clumsy, clunky, gawky, unwieldy __2__ Difficult to move or use; unwieldy.  
 __ungird__ _v_ (ungirded) _The Church ungirded him of the knightly belt._  
 __ungodly__ _adj_  
 __ungrateful__ _adj_  
@@ -20468,6 +20469,7 @@ __univocal__ _adj_ /yoo-NIV-uh-kul/
 __unkempt__ _adj_ :four::hammer: _Unkempt beards._  
 __unknome__ _n_ A tongue-in-cheek neologism (after ge-nome) for the plethora of genes lacking functional information.  
 __unkosher__ _adj_ _The Buddha never said it was un-kosher to strive._  
+__unlatched__ _adj_ Not firmly fastened or secured.  
 __unleash__ _v_  
 __unleavened__ _adj_ :mega:  
 __unlike<sup>1</sup>__ _adj_  
@@ -20475,12 +20477,14 @@ __unlike<sup>2</sup>__ _prep_
 __unlucky__ _adj_  
 __unmissable__ _adj_ :three: A movie, play, etc. that is unmissable is so good that you think everyone should see it.  
 __unnerving__ _adj_ :five::hammer::astonished: /ʌnˈnɜːvɪŋ/ Making one feel worried or uncomfortable.  
+__unnoticed__ _adj_ /ʌnˈnəʊtɪst/ Not perceived or observed. _You may go unnoticed._  
 __unobstrusive__  
 __unpack__  
 __unparalleled__ _adj_ :two::hammer:  
+__unpleasant__ _adj_ _Unpleasant surprise._  
 __unplugged__ _adj_ /un-PLUHGD/ [:scroll: From un- (not) + plug, from Dutch plug.] __1__ Authentic; unadorned. __2__ Refraining from the constant use of electronic communication and entertainment devices. __3__ Relating to music performed with acoustic rather than electric instruments. __4__ Not connected to an electrical outlet. __5__ Without a plug or stopper (of a container of liquid). __6__ Low-key; intimate.  
 __unprecedented__ _adj_ :three: Having no previous example: _unprecedented economic growth._  
-__unpretentious__  
+__unpretentious__ _adj_ :two::hammer: :es: sin pretensiones; modesto  
 __unprofessional__ _adj_  
 __unputdownable__  
 __unquestioned__  
@@ -20491,12 +20495,12 @@ __unrecognizable__ _adj_
 __unrelenting__ _adj_ :five::hammer:  
 __unremitting__ _v_  
 __unrepentant__ _adj_ :five: Having or exhibiting no remorse.  
-__unrequited__ _adj_ :four: Not given, rewarded, or felt in return: _unrequited love._ _Her unrequited crush._  
+__unrequited__ _adj_ :five: /ˌʌn rɪˈkwaɪ tɪd/ Not given, rewarded, or felt in return: _unrequited love._ _Her unrequited crush._  
 __unrestrained__  
 __unruffled__ _adj_ _An unruffled commander._  
 __unruly__ _adj_ :nine::m: Difficult or impossible to discipline, control, or rule. _Unruly campaign speeches._  
 __unsalted__ _adj_ :dart: Not seasoned, preserved, or treated with salt: _unsalted peanuts._ _Pure Irish butters salted and unsalted._  
-__unsavory__ _adj_ :four::hammer: /ʌnˈseɪ və ri/ __4__ Socially or morally objectionable or offensive: _an unsavory past._  
+__unsavory__ _adj_ :five::hammer::smiling_imp: /ʌnˈseɪ və ri/ __4__ Socially or morally objectionable or offensive: _an unsavory past._  
 __unscathed__ _adj_ :eight: Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
 __unschooled__ _adj_ __2__ Spontaneous; natural: _unschooled talent._  
 __unseemly<sup>1</sup>__ _adj_ _Syn_ indecorous  
@@ -20512,16 +20516,18 @@ __unsolicited__ _adj_ Not requested, welcome or invited. _Unsolicited email._
 __unsound__  
 __unspoken__ _adj_  
 __unspool__ _v_ (unspooling) _Unspooling microphone cables._  
+__unsteady__ _adj_ Not firm, solid, or securely in place; unstable. _Syn_ unfirm  
 __unstiking__ _v_  
 __unstintingly__ _adv_ In an unstinting fashion; without stinting; generously; lavishly.  
 __unstoppable__ _adj_ :two::hammer: _She is our unstoppable force of nature._  
+__unstreamed__ _adj_ /ʌnˈstriːmd/ (Education) _Brit_ (of children) Not divided into groups or streams according to ability.  
 __unsubstantiated__ _adj_  
 __unsung__  
 __unsurmountable__ _adj_  
 __unswerving__ _adj_ :two::hammer: _Unswerving confidence._ _Unswerving attention._  
 __unswervingly__  
 __unsympathetic__  
-__untapped__ _adj_ :seven: /ŭn-tăpt′/ __1__ Not having been tapped: _an untapped cask of wine._ __2__ Not utilized: _untapped resources._ _Untapped talent._  
+__untapped__ _adj_ :eight: /ŭn-tăpt′/ __1__ Not having been tapped: _an untapped cask of wine._ __2__ Not utilized: _untapped resources._ _Untapped talent._ :es: sin explotar  
 __untenable__ _adj_ :three: __1__ Not able to be defended. __2__ Not able to be occupied.  
 __untethered__ _adj_ Not tied or limited with or as if with a tether.  
 __unthawed__ _adj_ Not thawed; still frozen. _Unthawed croissant._  
@@ -20530,9 +20536,10 @@ __unticked__ _adj_ :dart: Not ticked; unchecked. _Checking an unticked box on my
 __untidy__  
 __untilled__ _adj_ _Untilled fields._  
 __unto__ _prep_ /ˈʌntuː/ An archaic word for to. _Do unto others._  
-__untoward__ _adj_ :three: __1__ Improper; unseemly: _untoward behavior._ __2__ Unfavorable or adverse: _an untoward incident._  
+__untoward__ _adj_ :four: __1__ Improper; unseemly: _untoward behavior._ __2__ Unfavorable or adverse: _an untoward incident._  
 __untuck__ _v_  
 __unviable__ _adj_ /ʌnˈvaɪəbəl/  
+__unwaged__ _adj_ :two of, relating to, or denoting a person who is not receiving pay because of either being unemployed or working in the home. :es: sin sueldo; _the unwaged (= the unemployed)_ los no asalariados  
 __unwarranted__  
 __unwary__ _adj_  
 __unwavering__ _adj_ :four::hammer: /ʌnˈweɪvərɪŋ/  
@@ -20598,7 +20605,7 @@ __upsell__ _v_
 __upselling__ _n_ :two: The practice of offering customers additional or more expensive products or services after they have already agreed to buy something.  
 __upset__ _n_ :three::mega::hammer: _He scored 15 points to lead Syracuse to the upset._  
 __upsetting__  
-__upshot__ _n_ :nine: The final outcome. _Syn_ conclusion, result _The upshot of the disagreement was that they broke up the partnership._  
+__upshot__ _n_ :dart::nine::m: The final outcome. _Syn_ conclusion, result _The upshot of the disagreement was that they broke up the partnership._  
 __upside__ _n_ :five: __1__ The upper side or portion. __2__ An advantageous aspect: _the upsides and downsides of home ownership._ _Working from home has its upsides as well as downsides._ _The gig did have some upsides._ _I like his speed, and I like his upside._ _The aging Knicks could use upside._ __3__ An upward tendency, as in business profitability or in the prices of a stock.  
 __upside-down__ _adj_ _An upside-down case._  
 __upskill__ _vt_ :dart: To improve the aptitude for work of (a person) by additional training.  
@@ -20666,7 +20673,7 @@ __vacillate__ _vi_ :two: To swing indecisively from one course of action or opin
 __vacuous__ _adj_ :three: Having or showing a lack of intelligence or serious thought; lacking meaning, importance, or substance. Devoid of intelligence. _Syn_ asinine, fatuous, inane, mindless _The interviewer could tell by the candidate’s vacuous comments that he was not qualified for the position._  
 __vacuum__ _n_ :four::pencil2::hammer: _Upright/Canister vacuum._ __4__ A vacuum cleaner. :camera:  
 __vagabond__ _n_  
-__vagary__ _n_ :seven: /VAY-guh-ree/ (vagaries) The word vagary, usually used in its plural form, refers to a change that is difficult to predict or control. _The vagaries of fashion make it difficult to predict what styles will be popular a year or two from now._ _The vagaries of economics._ _The vagaries of nature._  
+__vagary__ _n_ :astonished::eight: /VAY-guh-ree/ (vagaries) The word vagary, usually used in its plural form, refers to a change that is difficult to predict or control. _The vagaries of fashion make it difficult to predict what styles will be popular a year or two from now._ _The vagaries of economics._ _The vagaries of nature._  
 __vagrant<sup>1</sup>__ _n_ :eight: __1__ A person who wanders about idly and has no permanent home or employment; vagabond. One who wanders from place to place without a permanent home or a means of livelihood. _Syn_ drifter, vagabond, floater __2__ _Law_ An idle person without visible means of support, as a tramp or beggar. __3__ A person who wanders from place to place; wanderer; rover.  
 __vagrant<sup>2</sup>__ _adj_ :two::hammer:  
 __vague__ _adj_ :mute:[vag~~u~~e]  
@@ -20736,6 +20743,7 @@ __vaulted__ _adj_ _Vaulted ceilings._
 __vaunt__ _v_ :eight: (vaunted) Boast about or praise (something), especially excessively: _the much vaunted information superhighway._ _His vaunted political organization._ _His vaunted negotiation skills._  
 __vaunted__ _adj_ :three: Highly or widely praised or boasted about. Praised more than deserved. _His vaunted years of experience._  
 __vaxxer__ _n informal_ A person who trusts vaccines or is in favor of vaccination.  
+__VE Day__  
 __veal__ _n_ :four::hammer: :es: ternera  
 __vector__ _vt_ _He vectored toward the tanker waiting for him._  
 __veep__ _n informal_ A vice president.  
@@ -20769,7 +20777,7 @@ __venial__ _adj_
 __venison__ _n_ :five::hammer:  
 __Venn__ _n_ (John Venn) English logician who introduced Venn diagrams. (1834-1923)  
 __venom__ _n_ :three::hammer:  
-__venomous__ _adj_ :two::hammer:  
+__venomous__ _adj_ :three::hammer: /ˈvɛn ə məs/  
 __vent<sup>1</sup>__ _n_ __2__ An opening permitting the escape of fumes, a liquid, a gas, or steam. _Laundry vents are the tube that runs from a clothes dryer to the exterior of your home or building. They act like an exhaust pipe for the dryer, allowing the moisture from your clothes to escape vent._  
 __vent<sup>2</sup>__ _v_ _slang_ :four: To express a negative emotion in a forceful way.  
 __ventail__ _n_ A medieval hood of mail suspended from a basinet to protect the head and neck. _Syn_ camail _The sword caught him just below the jaw, but the ventail protected his neck._  
@@ -20787,7 +20795,7 @@ __verbatim__
 __verberize__  
 __verbiage__ _n_ :three::hammer: _Ornamental verbiage._  
 __verbicide__ _n_ :two::astonished: _facetious_ An act or instance of destroying a word. Misuse or overuse of a word or any use of a word which is damaging to it.  
-__verboten__ _adj_ Not allowed.  
+__verboten__ _adj_ :astonished::two: Forbidden; prohibited. Not allowed.  
 __verdant__ _adj_ :three: /VER-dunt/ __1__ Green in tint or color. __2__ Green with growing plants. _The golf course is noted for its tricky hazards and lush, verdant borders along its fairways._ _Verdant hills._ __3__ Unripe in experience or judgment.  
 __verdict__ _n_ :eight::hammer::pencil2: /ˈvɜr dɪkt/  
 __verdigris__ _n_ :two::astonished: /VER-duh-greess/ __2__ A green patina or crust of copper sulfate or copper chloride formed on copper, brass, and bronze exposed to air or seawater for long periods of time. “Green of Greece” is the literal translation of “vert de Grece,” the Anglo-French phrase from which the modern word _verdigris_ descends. _We removed the verdigris from Grandma’s old copper jewelry by first soaking it in lemon juice, then gently polishing it with a soft rag._  
@@ -20834,6 +20842,7 @@ __vexatious__ _adj_ :two: Causing irritation or annoyance. Causing or creating v
 __vexillology__ _n_ :two: /ˌvɛksɪˈlɒlədʒɪ/ The study and collection of information about flags.  
 __vexing__ _adj_ :four::hammer: _A vexing problem._ _It’s a vexing topic._  
 __viable__ _adj_ :two::hammer:  
+__viaduct__  
 __vial__ _n_ :two: /ˈvʌɪəl/ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._ _Angels empty the vials of wrath._  
 __viand__ _n_ :two::hammer: (viands)  
 __vibrissa__ _n_ :two: Any of the long stiff hairs that project from the snout or brow of most mammals, as the whiskers of a cat. _Syn_ whisker, sensory hair _The mouse’s vibrissae alerted it to the presence of a predator._  
@@ -20847,6 +20856,7 @@ __vicissitudes__ _n pl_ :two: /vuh-SISS-uh-toodz/ The word vicissitudes usually 
 __victimhood__  
 __victimize__ _vt_ :dart: Cause to suffer unfairly. _In an earthquake you’re victimized._  
 __victor__ _n_ :three::hammer: _Seward became the righthand man of the victor, Abraham Lincoln._  
+__Victoria Cross__ _n_  
 __victory lap__ _n_ :three::hammer:  
 __victory parade__ _n_  
 __victory speech__  
@@ -20854,6 +20864,7 @@ __victual<sup>1</sup>__ _n_ :three::mega: /ˈvɪtəl/ [:scroll: From Latin victu
 __victual<sup>2</sup>__ _vt_ To provide with food.  
 __victual<sup>3</sup>__ _vi_ To obtain food or to eat.  
 __victuals__ _n pl_ :six::mega: /ˈvɪtəlz/ /VIT-ulz/ Food supplies; provisions.  
+__videlicet__ _adv_ :dart: (abbr _viz_) That is; namely. Used to introduce examples, lists, or items.  
 __video__ _n_  
 __vie for__ _phr v_ :seven: To vie for something means to compete for it. Two teams may vie for the gold medal, but one will have to go home with silver. Vie may be spelled the same as the French word, vie, but they are pronounced differently, vī and vē respectively, and are not related in meaning or history. English vie comes from the Latin verb meaning “to invite” as in to invite a challenge. Be careful of the spelling which includes an ie to y shift. “He intends to vie for the top prize,” but “He is vying for the top prize.”  
 __vie__ _v_  
