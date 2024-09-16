@@ -19054,6 +19054,7 @@ __tableland__ _n_ A flat, elevated region; a plateau or mesa. _Syn_ plateau _The
 __tableside__ _n_ _Topless tableside dancing._  
 __tablet__ _n_ :astonished: __1__ (Pharmacology) A medicinal formulation made of a compressed powdered substance containing an active drug and excipients. _Hair tablet._  
 __tabletop__ _adj, n_  
+__tabloid__ _n_ :dart::astonished:  
 __tabulate__ _v_ :two::hammer: (tabulated) _Tabulated scientific data._  
 __tabulator__ _n_ :pencil2: __1__ A person or thing that tabulates. _Tabulators are being paid $25 for each half day they work._  
 __tachometer__  
@@ -19065,7 +19066,7 @@ __tacit__ _adj_ Implied by or inferred from actions or statements. _Syn_ underst
 __taciturn__ _adj_ :two::hammer:  
 __tack<sup>1</sup>__ _n_ :two::hammer: _The GOP changed its tack._ :es: rumbo; chincheta  
 __tack<sup>2</sup>__ _v_ _Tack the note on the board._  
-__tackle<sup>1</sup>__ _n_ :two::hammer: _Bait and tackle available._  
+__tackle<sup>1</sup>__ _n_ :three::hammer: _Bait and tackle available._ _The tackle broke when they tried to lift the heavy bell._  
 __tackle<sup>2</sup>__ _v_  
 __tacky__ _adj_ :nine::m::dart: Cheap, crude, and unrefined; indicating or characteristic of a lack of class, elegance, or sophistication. _He showed up in a really tacky suit._ _The office looked tacky._ _Tacky birthday present._ :es: cutre  
 __tactful__ _adj_ :two::hammer:  
@@ -19200,6 +19201,7 @@ __tartar__ _n_
 __tartare__ _adj_ (of food) Served raw: _salmon tartare._  
 __tartly__ _adv_ In a tart manner. _The teacher replied tartly._  
 __tarts__ _n_ (whore)  
+__Tartuffe__ _n_ :smiling_imp: (Tartufe) [:scroll: after the title character in a Molière play (1664)] A person who hypocritically pretends to be deeply pious.  
 __tase__ _v_  
 __Taser__ _n_ A trademark for a brand of conducted electrical weapons that cause neuromuscular incapacitation, used widely in law enforcement. _A Taser stun gun._  
 __task__ _vt_ :six: __1__ To assign a task to or impose a task on. _The agency was tasked with creating an advertising campaign._ _They have been tasked._  
@@ -19382,6 +19384,7 @@ __testy__ _adj_ :two::hammer:
 __tether<sup>1</sup>__ _n_ _Soft bite chewy tether._  
 __tether<sup>2</sup>__ _v_ (tethered) To restrain or secure with a tether.  
 __tethering ring__ _n_  
+__tetraplegia__ _n_ Another name for quadriplegia.  
 __tetromino__ _n_  
 __Texas Panhandle__  
 __Texas__ _n_ /ˈtɛksəs/  
@@ -19434,6 +19437,7 @@ __thence__ _adv_
 __theocracy__  
 __theophoric__ _adj_ /thee-uh/oh-FOR-ik/ [:scroll: From Greek theo- (god) + -phoric (bearing)] Having or derived from the name of a god.  
 __theosophy__  
+__therapy__ _n_ /ˈθɛr ə pi/  
 __there is no denying__  
 __thereabout__ _adv_ :two::hammer:  
 __thereafter__ _adv_ _Texas took the lead on Javan Felix’s two free throws shortly thereafter._  
@@ -19450,7 +19454,7 @@ __thick accent__ _n_ Heavy foreign or regional pronunciation. _Arnold’s accent
 __thicket__ _n_ :eight::hammer: (thickets) _The thicket of racist laws._  
 __thieve__ _v_ :astonished: To steal.  
 __thigh__ _n_ :mute:[thi~~gh~~]  
-__thimble__ _n_ :two: __1__ (Knitting & Sewing) A cap of metal, plastic, etc, used to protect the end of the finger when sewing. :es: dedal  
+__thimble__ _n_ :three: __1__ (Knitting & Sewing) A cap of metal, plastic, etc, used to protect the end of the finger when sewing. :es: dedal  
 __thimblerig<sup>1</sup>__ _n_ (Gambling, except Cards) A game in which the operator rapidly moves about three inverted small cups, often with sleight of hand, one of which conceals a token, the other player betting on which thimble the token is under.  
 __thimblerig<sup>2</sup>__ _v_ __1__ To cheat by trickery. __2__ To swindle by a trick in which a small ball or pea is quickly shifted from under one to another of three small cups to fool the spectator guessing its location.  
 __thin skin__  
@@ -19503,7 +19507,7 @@ __thrift__ _n_ _Thrift store._
 __thrifty__ _adj_ :five::hammer: _Thrifty car rental._  
 __thrilling__ _adj_  
 __throat__ _n_ _Throat clearing._  
-__throb__ _v_ :six::hammer: (throbs, throbbing) _My head is throbbing._  
+__throb__ _v_ :seven::hammer: (throbs, throbbing) _My hand/head is throbbing._  
 __throbbing__ _adj_ _A throbbing dance club atmosphere._  
 __throbbingly__  
 __throes__ _n pl_ :six: A condition of extreme difficulty or trouble: _a country in the throes of economic collapse._  
@@ -19793,7 +19797,7 @@ __Tootsie Roll__ _n_
 __tootsie__ _n_ _slang_ :three: /ˈtʊtsɪ/ Darling; sweetheart. (toots, tootsy) _Twiddle their tootsies._  
 __top banana__ _n_ _slang_ :two: The most important person in an organization.  
 __top billing__ _n_ The advertisement of a star’s name at the top of a theatrical poster.  
-__top dog__  
+__top dog__ _n_ _slang_ :two::hammer:  
 __top dollars__  
 __top flight__ _n_  
 __top hat__ _n_  
@@ -19803,6 +19807,7 @@ __top-dog__
 __top-drawer__ _adj_ Of the highest importance, rank, privilege, or merit. _Top-drawer treatment._  
 __top-end__ _adj_ Of or relating to the best or most expensive products of their kind: _a range of top-end vehicles._  
 __top-flight__ _adj_ :two::hammer: _Top-flight restaurant._  
+__top-heavy__ _adj_ __3__ (Commerce) (of a business enterprise) Having too many executives.  
 __top-notch__  
 __top-of-mind__  
 __top-up__ _n_ _Can I give you a top-up?_ :es: _¿te sirvo un poco más?_  
@@ -19876,6 +19881,7 @@ __tout__ _vt_ :dart::five::hammer: (touted)
 __touting__ _v_  
 __tow hitch__ _n_ See _towbar._ _The tow hitch of the car._  
 __tow truck__ _n_  
+__tow__ _vt_  
 __toward__ _prep_ :five::mega::hammer:  
 __towbar__ _n_ (tow bar) A bar, or ball, usually at the rear of a vehicle, where a trailer, or caravan or other similar item can be attached and towed. A rigid metal bar or frame used for towing vehicles.  
 __towel__ _n_ :mega:  
@@ -19898,12 +19904,12 @@ __track__ _n_ :camera:
 __tracklement__ _n_ /ˈtrækəlmənt/ (Cookery) Any savoury condiment or sauce served with meat.  
 __tracksuit__ _n_ :three: A loose-fitting jacket and pants worn by athletes and exercisers usually before and after workouts. :es: chándal  
 __tract__ _v_  
-__tractable__ _adj_ Easily managed or controlled; governable. _Syn_ manipulable  
+__tractable__ _adj_ :two: /TRAK-tuh-bul/ _Tractable_ is used to describe someone or something that is easily led, managed, taught, or controlled. Easily managed or controlled; governable. _Syn_ manipulable  
 __tractography__ _n_  
 __tractor trailer__ _n_ :two::hammer::camera: (tractor-trailer)  
 __tractor__ _n_  
 __trade paperback__  
-__trade union__ _n_ :dart: :es: sindicato  
+__trade union__ _n_ :dart::two::hammer: :es: sindicato  
 __trade war__  
 __trade__ _n_  
 __trade-off__ _n_ :five::hammer: (tradeoff, trade-offs) _She has to make trade-offs._  
@@ -19911,6 +19917,7 @@ __trademarked__ _adj_ (of goods and merchandise) Labeled with proprietary (and l
 __tradeoff__ _n_ :pencil2:  
 __trading card__ _n_ A card with a picture or design printed on it, often one of a set collected and traded by children.  
 __traduce__ _v_ :two::astonished: Speak badly of or tell lies about (someone) so as to damage their reputation. _Syn_ defame, slander  
+__traffic warden__ _n_ _Brit_ A person who is appointed to supervise road traffic and report traffic offenses.  
 __traffickers__  
 __tragicomedy__ _n_  
 __tragus__ _n_ __1__ The projection of skin-covered cartilage in front of the meatus of the external ear. __2__ Any of the hairs growing at the entrance to the meatus of the external ear.  
@@ -19929,19 +19936,20 @@ __training wheels__ _n_
 __traipse__ _v_ :three: Walk or tramp about. _Syn_ shlep _I spent the holiday exploring the countryside, traipsing from town to town with just a knapsack of supplies on my back._  
 __traipsing__  
 __traitorous__  
-__tramp__ _adj_  
+__tramp__ _n_ :two::hammer: (vagrant?)  
 __trample__ _v_ :nine::m: (trampled, trampling) __1__ To step heavily on something, so that you crush it with your feet. (trample on/over/through etc) _There was a small fence to stop people trampling on the flowers._ _They trample the weeds heading for the park._ _He could be seen trampling grapes in a wooden vat._ __2__ To behave in a way that shows that you do not care about someone’s rights or feelings. (trample on/over somebody/something) _Don’t let people trample all over you._ _Snow trampled down by detectives._  
 __trampoline__ _n_ :two::hammer:  
 __trampolines__ _n_  
 __trance__ _n_ /trɑːns/  
 __tranche__ _n_ __1__ A portion of something (especially money). __2__ A cut or slice of meat: _a tranche of sirloin._  
-__tranquil__ _adj_ _His voice was soft and tranquil._  
+__tranquil__ _adj_ :two::hammer: _His voice was soft and tranquil._  
 __tranquilizer__ _n_ :mega:  
 __transceiver__  
 __transduction__ _n_  
 __transect__ _n_ :two::hammer:  
 __transfigure__ _v_ Change completely the nature or appearance of.  
 __transfixed__ _adj_ Rendered motionless, esp from horror or shock. Having your attention fixated as though by a spell. _Syn_ fascinated, hypnotised, hypnotized, mesmerised, mesmerized, spellbound, spell-bound _I was transfixed by it._  
+__transgression__ _n_ :smiling_imp: /ptrans-GRESH-uhn/ A violation of legal or moral boundaries.  
 __transience__  
 __transient<sup>1</sup>__ _adj_ :seven::mega: For a short time only; temporary or transitory. _Transient lesions._ _A transient log._ _One of the more transient jobs at the paper._  
 __transient<sup>2</sup>__ _n_  
@@ -19956,7 +19964,7 @@ __transpire__ _v_ /tran-SPYRE/ __1__ To happen. _The police are still trying to 
 __transport__ _n_ :two: _Three attack transports._ _What’s that? A transport? I’m saved!_  
 __transpose__ _v_ _Someone might have transposed digits._  
 __transseptal__ _adj_ :pencil2: Extending or performed through or across a septum.  
-__transsexual__ _adj, n_ (transexual) Note: The term “transgender” is more commonly used than “transsexual” or “transexual” in current literature and discussions.  
+__transsexual__ _adj, n_ :two::hammer::pencil2: (transexual) Note: The term “transgender” is more commonly used than “transsexual” or “transexual” in current literature and discussions.  
 __transtentorial__ _adj_ Passing across or through either the tentorial notch or tentorium cerebelli.  
 __transvestite__ _n_  
 __trap question__ _n_ :astonished: _That’s a trap question._  
@@ -19974,13 +19982,13 @@ __travelogue__ _n_ :three::hammer:
 __travertine__ _n_ Calcium carbonate deposited by water, as in stalactites.  
 __travesty<sup>1</sup>__ _n_ :six: /TRAV-uh-stee/ __1__ Mockery. __2__ A debased or grotesque imitation.  
 __travesty<sup>2</sup>__ _vt_ /TRAV-uh-stee/ __1__ To represent in a false or absurd manner. __2__ To caricature or parody.  
-__trawl__ _v_ :four::hammer:  
+__trawl__ _v_ :five::hammer:  
 __trawler__  
 __treacherous__ _adj_ :four: /ˈtrɛtʃ ər əs/ __1__ Betraying or likely to betray faith or confidence.  
 __treachery__ _n_ :five::hammer: _Navarre preferred guile and treachery._  
 __treacle__  
 __treacly__ _adj_ :two: Cloyingly sweet or sentimental.  
-__tread__ _n_ :mega:  
+__tread__ _n_ :two::hammer::mega: (trod)  
 __treading__  
 __treasure chest__ _n_ A large box that is filled with gold, silver, jewels, etc.—often used figuratively. _A treasure chest of locally owned businesses._  
 __treasure trove__ _n_ :three::hammer: _Portland’s downtown is a treasure trove of architectural gems._  
@@ -20008,6 +20016,7 @@ __trendsetter__ _n_ One that initiates or popularizes a trend: _a trendsetter in
 __trepidation__ _n_ :eight: /trep-uh-DAY-shun/ Worry or anxiety about something that is going to happen. A state of alarm or dread. _Syn_ apprehension _With trepidation, the children approached the haunted house._ _With some trepidation, I asked him out for dinner._  
 __trepidatious__ _adj_ (_less commonly_ trepidacious) Feeling trepidation.  
 __trespass__ _v_ :two::hammer: _No trespassing._  
+__trespasser__ _n_ :smiling_imp: Someone who intrudes on the privacy or property of another without permission.  
 __trespasses__ _n_ :pencil2:  
 __tress__ _n_ (tresses) long lock of hair esp. the long unbound hair of a woman—usually used in plural. _Blond tresses._  
 __trestle__ _n_ :nine::m: /ˈtrɛs(ə)l/ __1__ A framework in the form of a horizontal member supported at each end by a pair of splayed legs, used to carry scaffold boards, a table top, etc _A trestle table._ :es: caballete __2__ An open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ _Railway trestles._ :es: bastidor  
@@ -20101,6 +20110,8 @@ __trowel__ _n_ :two::hammer:
 __troweled__ _v_  
 __troy ounce__ _n_ :two::hammer:  
 __troy__  
+__truancy__ _n_ __1__ The absence of a child from school without permission. __2__ The neglect of work or duty.  
+__truant officer__ _n_ A person employed by a public-school system to investigate the continued absences of pupils. _Syn_ attendance officer, truancy officer  
 __truant__ _n_ :two: Someone who shirks duty. _Syn_ nonattender, no-show _As the two truants rolled up the avenue ... the sense of duties neglected added zest to their holiday._  
 __truce__ _n_ /truːs/  
 __truck__ _v_ _They will not truck with terrorists._  
@@ -20257,7 +20268,7 @@ __twilight sleep__ _n_ A state of partial anaesthesia in which the patient retai
 __twin rooms__  
 __twin__ _v_ _Twinned files._  
 __twindemic__ _n_ Twindemic refers to the dual threat of a severe flu outbreak on top of the COVID-19 pandemic in the fall and winter of 2020.  
-__twine<sup>1</sup>__ _n_ :two::hammer: _Tie the legs of the turkey together with twine._  
+__twine<sup>1</sup>__ _n_ :three::hammer: _Tie the legs of the turkey together with twine._  
 __twine<sup>2</sup>__ _v_ _Imaginary beasts twine through the pages._  
 __twinge__ _n_ :three::hammer: _A painful twinge._  
 __twinkle__  
@@ -20313,7 +20324,7 @@ __umbra__ _n_
 __umbrage__ _n_ :five: /UM-brij/ Umbrage is a formal word that usually refers to a feeling of being offended by what someone has said or done. It is often used in the phrase “take umbrage.” A feeling of anger caused by being offended. _Syn_ offense _I had tried to phrase it politely, but he still took umbrage at my question._ _It can be difficult to converse with someone who is ready to take umbrage at the most innocent remarks._  
 __umbrageous__ _adj_ /uhm-BRAY-juhs/ __1__ Inclined to take offense easily. __2__ Cast in shadow; shaded. __3__ Providing shade.  
 __umbraphile__ _n_ One who loves eclipses, often travelling to see them.  
-__umbrella__ _n_ :three::hammer: /ʌmˈbrɛl ə/ [:scroll: Etymologically, it is a “little shadow.”] _Under his umbrella._ _A national umbrella organization._  
+__umbrella__ _n_ :four::hammer: /ʌmˈbrɛl ə/ [:scroll: Etymologically, it is a “little shadow.”] __3a__ Something that covers or protects. _Under his umbrella._ _A national umbrella organization._  
 __umpteen__ _adj, n_ :two::hammer:  
 __umpteenth__ _adj_ :three::dart: Last in an indefinitely numerous series. _Syn_ umptieth, umteenth  
 __un-American__  

@@ -698,31 +698,6 @@ __suspicious__ _adj_ :es: desconfiado; sospechoso; suspicaz
 __swedes__ _n_ :two::hammer: _I helped her mash the swedes._  
 __switchboard__  
 __swivel__ _v_  
-__tabloid__ _n_ :dart::astonished:  
-__tackle__ _n_ _The tackle broke when they tried to lift the heavy bell._  
-__Tartuffe__ _n_ (Tartufe) [:scroll: after the title character in a Molière play (1664)] A person who hypocritically pretends to be deeply pious.  
-__tetraplegia__ _n_ Another name for quadriplegia.  
-__therapy__ _n_ /ˈθɛr ə pi/  
-__thimbel__ _n_  
-__thrash__ _v_  
-__throb__ _v_ _My hand was throbbing._  
-__top dog__  
-__top-heavy__ _adj_ __3__ (Commerce) (of a business enterprise) Having too many executives.  
-__tow__ _vt_  
-__tractable__ _adj_ /TRAK-tuh-bul/ _Tractable_ is used to describe someone or something that is easily led, managed, taught, or controlled.  
-__trade union__ _n_ :es: sindicato  
-__traffic warden__ _n_ _Brit_ A person who is appointed to supervise road traffic and report traffic offenses.  
-__tramp__ _n_ (vagrant?)  
-__tranquil__ _adj_  
-__transgression__ _n_ /trans-GRESH-uhn/ A violation of legal or moral boundaries.  
-__transsexual__ _n_ :pencil2:  
-__trawl__ _v_  
-__tread__ _v_ (trod)  
-__trespasser__ _n_ Someone who intrudes on the privacy or property of another without permission.  
-__truancy__ _n_ __1__ The absence of a child from school without permission. __2__ The neglect of work or duty.  
-__truant officer__ _n_ A person employed by a public-school system to investigate the continued absences of pupils. _Syn_ attendance officer, truancy officer  
-__twine__ _n_  
-__umbrella__ _n_ __3a__ Something that covers or protects.  
 __unabashed__ _adj_ :three: Not ashamed, disconcerted, or apologetic; boldly certain of one’s position. Not disconcerted or embarrassed; poised. _Syn_ unembarrassed  
 __unassailable__  
 __unassuming__ _adj_  
