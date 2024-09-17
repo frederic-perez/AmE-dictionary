@@ -605,7 +605,7 @@ __ball of wax__ _slang_ An unspecified set of items or circumstances: _went shop
 __ball-buster__  
 __ballpark figure__ :three: A rough numerical estimate.  
 __ballyhoo__ _v_  
-__bamboozle__ :dart::three: To cheat, deceive, or take advantage of someone by elaborate and underhanded means. _I can’t believe I let that salesmen bamboozle me like that._  
+__bamboozle__ :dart::three::smiling_imp: To cheat, deceive, or take advantage of someone by elaborate and underhanded means. _I can’t believe I let that salesmen bamboozle me like that._  
 __banana oil__ _n_ /buh-NAN-uh oyl/ [:scroll: It’s not known why the banana oil earned this sense, although “to go bananas” means to be crazy or wildly enthusiastic. Perhaps the sense arose because the liquid known as banana oil does not involve bananas at all. Instead, it’s a mixture of amyl acetate and cellulose that has a banana-like odor and is used as food flavoring and a solvent. ] __1__ Nonsense. __2__ Insincere talk or flattery.  
 __Band E__  
 __bang for (one’s)/the buck__ :four: A lot of value for little cost. _With no sales tax, Portland gives shoppers a bigger bang for their buck._  
@@ -1091,7 +1091,7 @@ __bummer__ :three: __3__ _adj_ Describing someone or something unpleasant. _Oh, 
 __bump and grind__ __3__ _v_ To dance in a manner characterized by aggressive and overtly sexualized hip movements, either by a single dancer or between two dance partners. _It was a little disconcerting to see teenagers bumping and grinding at the prom._  
 __bump heads with__ To clash with another person on a particular issue. _Monica and I are always bumping heads with each other about how to go about these reports because she wants to start writing, while I think we should research first._  
 __bump someone or something up__  
-__bunco__ (bunko) In the context of Ellroy’s work, “bunco” is often used to describe the activities of con artists, swindlers, and other criminals who use deceitful tactics to obtain money, property, or other valuables from their victims.  
+__bunco__ :smiling_imp: (bunko) In the context of Ellroy’s work, “bunco” is often used to describe the activities of con artists, swindlers, and other criminals who use deceitful tactics to obtain money, property, or other valuables from their victims.  
 __bundle up__  
 __bunkum__ Nonsense or foolishness. _His explanation is total bunkum and doesn’t answer the question at all._  
 __bupkes__ In James Ellroy’s novels, “bupkes” is a Yiddish term that means “nothing” or “nonsense.” It’s often used to describe something that’s worthless or unimportant.  
@@ -2034,7 +2034,7 @@ __file 13__ (file thirteen) A wastepaper basket. _We don’t need those reports 
 __fill in__ :two: __4__ To inform one of something. In this usage, a noun or pronoun can be used between “fill” and “in.” _Fill me in—what happened at the party last night?_ _The weekly newsletter is intended to fill in everyone about company policy, but no one reads it._ _Thank you for filling us in._  
 __fill up__ :four::hammer: __4__ To put fuel in a vehicle’s gas tank. _Let me just stop and fill up before we get on the highway._  
 __filled to the brim__ :two: __1__ Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is filled to the brim!_ _A city practically filled to the brim with entertainment._ __2__ Intensely experiencing a particular feeling or emotion. _She is filled to the brim with nervous energy now that her performance is just a week away._  
-__finagle__ :two::hammer:  
+__finagle__ :two::hammer::smiling_imp:  
 __final cut__ :two: The completed and finalized edited version of a film, as authorized by its director and producer. _We finished shooting last week, but it will likely be another several months before we’re ready with the final cut._  
 __final nail in the coffin__  
 __find (one‘s) bearings__ To recognize or determine one’s orientation, position, or abilities relative to one’s surroundings or situation. _It took me a little while to find my bearings in the new office, but after a week, I felt as if I’d been working there for years._  
@@ -2087,7 +2087,7 @@ __flat-out__
 __flatline__ :three: _slang_ To die or come very close to death. The “flat line” in question is a straight, horizontal line on an electrocardiogram or electroencephalogram indicating a lack of heart or brain activity. _The patient flatlined and we were unable to resuscitate. Time of death was 18:56._  
 __flesh out__ :two::hammer:  
 __flick off__ :dart: _He flicked off the light._  
-__flimflam__  
+__flimflam__ :smiling_imp:  
 __flip (one) the bird__ To raise the middle finger (a rude gesture of anger or displeasure) at one.  
 __flip on__ :dart: To turn something on, typically a switch. A noun or pronoun can be used between “flip” and “on.” _As soon as I flipped on the light, I could see that the house had been robbed._ _He flipped on the radio._  
 __flip-flop__ __1__ _v_ To completely change one’s opinion or stance. Primarily heard in US.  
@@ -2648,7 +2648,7 @@ __green with envy__ :two: Very jealous of another person. _My daughter loves bei
 __greener pastures__ :two: A better or more exciting job or place.  
 __greenwash__ :three: __1__ _v_ To make illegally obtained money appear to have come from legal channels; to launder money. _This isn’t a foolproof plan, Jack—eventually, someone is going to catch you greenwashing._ __2__ _n_ Activities undertaken by an organization or company so that it appears more environmentally conscious. _Is this “recycled content” label legit, or is it just greenwash?_  
 __greige__ A neutral color that looks like a mix of gray and beige.  
-__grifter__ :two: Someone who swindles other people. _Mom, don’t be a fool and give this guy more money when he hasn’t done a single part of this job right so far. He’s a total grifter!_  
+__grifter__ :two::smiling_imp: Someone who swindles other people. _Mom, don’t be a fool and give this guy more money when he hasn’t done a single part of this job right so far. He’s a total grifter!_  
 __grill (someone) (about something)__ :two: To question or interrogate someone intensely and relentlessly (about something). _I wish my parents would stop grilling me about where I go with my friends at night!_  
 __grind (someone’s) gears__ :two: To greatly or specifically irritate or annoy someone. _It really grinds my gears when cyclists go zipping through red lights!_  
 __grind on__ :dart: _The conflict grinds on._  
@@ -3950,7 +3950,7 @@ __marching orders__
 __Marie Celeste__ A place, location, or high-occupancy vehicle (especially a ship) that is inexplicably deserted or abandoned. An allusion to the Mary Celeste, an American merchant brigantine that was discovered floating off the Azores Islands in 1872 with no one on board and still in seaworthy condition. _We came upon a house in the woods, empty as the Marie Celeste, but left otherwise untouched._  
 __marinate__  
 __mark my word(s)__ :three::hammer:  
-__mark__ _n_ :two: A dupe; a victim selected for a theft or a swindle.  
+__mark__ _n_ :two::smiling_imp: A dupe; a victim selected for a theft or a swindle.  
 __marry (someone) for (his or her) money__ To marry someone solely or primarily to have access to their personal wealth. _Given the extreme age difference between them, a lot of people speculated that she was simply marrying Donald for his money._  
 __marry above (one’s) station__ To marry someone who is of a higher social class or standing than oneself. _A: “I hear that the local fishmonger’s daughter is betrothed to a rich foreign lawyer!” B: “My word, she’s certainly marrying above her station, isn’t she?”_  
 __marry beneath (oneself)__ To marry someone who is of a lower social class or standing than oneself _Janet has a bright future with one of the best law firms in town, so it’s beyond me why she’s marrying beneath herself with some fast food worker._  
@@ -5391,7 +5391,7 @@ __skinny-dipping__
 __skip a beat__ :two::hammer: _His heart skipped a beat._  
 __skip off__ To leave or depart hastily so as to avoid something or escape with something.  
 __skip town__  
-__skullduggery__ An act or instance of deceitful, duplicitous, or dishonorably trickery.  
+__skulduggery__ :pencil2::smiling_imp: (skulduggery) An act or instance of deceitful, duplicitous, or dishonorably trickery.  
 __sky-high__  
 __skyhook__  
 __slack off on (something)__ __2__ To be or become lazy or unproductive in relation to some task or activity.  

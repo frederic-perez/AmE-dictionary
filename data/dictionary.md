@@ -1721,8 +1721,8 @@ __bilabial__ _adj_ __1__ Produced with the lips close together or touching, as t
 __bildungsroman__ _n_ /BIL-doonks-roh-mahn/ A novel whose principal subject is the moral, psychological, and intellectual development of a usually youthful main character.  
 __bilge__ _n_  
 __bilious__ _adj_ :three: /BILL-yus/ Bilious has several meanings, including “angry or bad-tempered,” “irritable,” and “sickeningly unpleasant to look at.” Its earliest use describes things that are “of or relating to bile.” _The actor has come under fire for his bilious commentary._ _The new homeowners immediately painted over the bilious color scheme._  
-__bilk<sup>1</sup>__ _vt_ :two::hammer: _Durham was guilty of bilking._  
-__bilk<sup>2</sup>__ _n_ :dart::four: __1__ A swindle or cheat. _America was the land of bilk and money._ __2__ A person who swindles or cheats.  
+__bilk<sup>1</sup>__ _vt_ :two::hammer::smiling_imp: _Durham was guilty of bilking._  
+__bilk<sup>2</sup>__ _n_ :dart::four::smiling_imp: __1__ A swindle or cheat. _America was the land of bilk and money._ __2__ A person who swindles or cheats.  
 __bill-file__  
 __bill<sup>1</sup>__ _n_ __3__ The entertainment offered by a theater. _I’m not my usual top billing._  
 __bill<sup>2</sup>__ _v_  
@@ -1825,13 +1825,13 @@ __blacktop__ _n_ __1__ A bituminous paving substance, as asphalt. __2__ A road c
 __blah story__  
 __blanched__ _v_  
 __bland__ _adj_ :nine::m: __1__ Characterized by a moderate, unperturbed, or tranquil quality, especially: __a__ Pleasant in manner; smooth: _a bland smile._ __b__ Not irritating or stimulating; soothing: _a bland diet._ __c__ Exhibiting no personal worry, embarrassment, or concern: _told a series of bland lies._ __2a__ Dull and insipid: _a bland little drama._ __b__ Having little or no distinctive flavor: _bland cooking._  
-__blandish__ _v_ To coax by flattery or wheedling; cajole.  
-__blandishment__ _n_ :five: /BLAN-dish-munt/ (Often, blandishments.) Something, as an action or speech, that tends to entice. Flattery intended to persuade. A blandishment is something said or done in order to coax or persuade an individual or group to do something. The word is usually used in its plural form, blandishments._Syn_ cajolery, palaver _Not even his favorite daughter’s blandishment could persuade him to submit to her whims._ _It’s important that the mayor not be swayed by bribes and blandishments; decisions must be made for the overall good of the city._ _Sundry blandishments._  
+__blandish__ _v_ :smiling_imp: To coax by flattery or wheedling; cajole.  
+__blandishment__ _n_ :five::smiling_imp: /BLAN-dish-munt/ (Often, blandishments.) Something, as an action or speech, that tends to entice. Flattery intended to persuade. A blandishment is something said or done in order to coax or persuade an individual or group to do something. The word is usually used in its plural form, blandishments._Syn_ cajolery, palaver _Not even his favorite daughter’s blandishment could persuade him to submit to her whims._ _It’s important that the mayor not be swayed by bribes and blandishments; decisions must be made for the overall good of the city._ _Sundry blandishments._  
 __blank__ _n_ (blank cartridge) A gun cartridge with a charge of powder but no bullet. _The shooter fired blanks._  
 __blanket<sup>1</sup>__ _n_ :two::hammer: _The security blanket._  
 __blanket<sup>2</sup>__ _vt_ :six::hammer: (blanketing)  
-__blarney<sup>1</sup>__ _n_ :three::dart: /ˈblɑr ni/ __1__ Smooth, flattering talk. __2__ Deceptive nonsense.  
-__blarney<sup>2</sup>__ _v_  
+__blarney<sup>1</sup>__ _n_ :three::dart::smiling_imp: /ˈblɑr ni/ __1__ Smooth, flattering talk. __2__ Deceptive nonsense.  
+__blarney<sup>2</sup>__ _v_ :smiling_imp:  
 __blasé__ _adj_ :four: Indifferent to or bored with life; unimpressed, as or as if from an excess of worldly pleasures.  
 __blasphemous__  
 __blast__ _n_ :two: __9__ _slang_ A highly exciting or pleasurable experience or event, such as a big party. A great experience, a very enjoyable time.  
@@ -2507,8 +2507,8 @@ __bumpy__ _adj_ :two::hammer: _A bumpy ride._
 __bun__ _n_ :two::hammer: _All that on a a sesame seed bun._  
 __bunch<sup>1</sup>__ _n_ _Bunches of grapes._  
 __bunch<sup>2</sup>__ _v_ :camera::seven::hammer: (bunched, bunching) _Organic bunched carrots, 98¢ per pound._ _Bunched together far behind Trump are Sens. Rubio and Cruz._ _Placing the satellites at safe intervals to avoid bunching._ _Bunching socks._  
-__bunco<sup>1</sup>__ _n_ A swindle in which an unsuspecting person is cheated; a confidence game.  
-__bunco<sup>2</sup>__ _vt_ To swindle.  
+__bunco<sup>1</sup>__ _n_ :smiling_imp: A swindle in which an unsuspecting person is cheated; a confidence game.  
+__bunco<sup>2</sup>__ _vt_ :smiling_imp: To swindle.  
 __Bund__ _n_ __2__ (Historical Terms) Short for German American Bund, an organization of US Nazis and Nazi sympathizers in the 1930s and 1940s.  
 __bungalow__ _n_ :two::pencil2::hammer:  
 __bungee cord__ _n_ :camera::four::hammer:  
@@ -2726,8 +2726,8 @@ __cahoots__
 __Cairo__ _n_ :es: El Cairo  
 __caisson__ _n_  
 __caitiff__ _adj_ _Caitiff nobles._  
-__cajole__ _v_ :nine::m: /kuh-JOHL/ Cajole usually means “to persuade someone to do something or to give you something by making promises or saying nice things.” To persuade (someone) by flattery or pleasing talk to do what one wants; wheedle; coax. _She cajoled her partner into going to the party with her._ It can also mean “to deceive with soothing words or false promises.”  
-__cajolery__ _n_ Flattery intended to persuade. _Syn_ blandishment, palaver _She used every possible means of cajolery to persuade her father to take her to the circus._  
+__cajole__ _v_ :nine::m::smiling_imp: /kuh-JOHL/ Cajole usually means “to persuade someone to do something or to give you something by making promises or saying nice things.” To persuade (someone) by flattery or pleasing talk to do what one wants; wheedle; coax. _She cajoled her partner into going to the party with her._ It can also mean “to deceive with soothing words or false promises.”  
+__cajolery__ _n_ :smiling_imp: Flattery intended to persuade. _Syn_ blandishment, palaver _She used every possible means of cajolery to persuade her father to take her to the circus._  
 __cake__ _n_ :two::dart: __1__ Money. (From bread, dough.) _I can’t scrape together enough cake to do the job._ _They cost a lot of cake._  
 __cakeage__ _n_ /ˈkeɪkɪdʒ/ A charge levied in a restaurant for serving cake (such as a birthday cake) brought in from outside the premises.  
 __cakewalk__  
@@ -3273,7 +3273,7 @@ __chiasmus__ _n_ Reversing the grammatical order in two otherwise parallel phras
 __chic__ _adj_ _Target has been trying to gain back the chic status._  
 __Chicagoan__ _n_  
 __Chicagoland__  
-__chicanery__ _n_ :six: The use of clever plans or actions to deceive people. Deception by trickery or sophistry. _Syn_ guile _The trial revealed a world of crime, corruption and political chicanery._  
+__chicanery__ _n_ :six::smiling_imp: The use of clever plans or actions to deceive people. Deception by trickery or sophistry. _Syn_ guile _The trial revealed a world of crime, corruption and political chicanery._  
 __Chick-fil-A__ _n_  
 __chickadee__ _n_ :es: carbonero  
 __chicken > game of chicken__  
@@ -3898,10 +3898,9 @@ __compute<sup>2</sup>__ _v_ To be reasonable, plausible, or consistent; make sen
 __computer__ _n_ :mega:  
 __comrade__  
 __comradery__ _n_ :two::hammer:  
-__con artist__ _n informal_ :five::hammer: _A pair of con artists target a noblewoman._ _Foul-mouthed con artist._  
-__con man__  
-__con__ _vt_ _slang_ To swindle (a victim) by first winning his or her confidence; dupe.  
-__con-artist__  
+__con artist__ _n informal_ :six::hammer::smiling_imp: _A pair of con artists target a noblewoman._ _Foul-mouthed con artist._  
+__con man__ _n_ :smiling_imp:  
+__con__ _vt_ _slang_ :smiling_imp: To swindle (a victim) by first winning his or her confidence; dupe.  
 __con<sup>1</sup>__ _n_ :six::hammer: Short for convention. _Comic con._ _Con game with many surprises._ _The pro column, not the con column._ _A real con man._ _The con artist._  
 __con<sup>2</sup>__ _v_ :four::hammer: (conned) _He was conned beyond redemption._ _Now Biff, don’t con me!_  
 __Concacaf__  
@@ -4328,7 +4327,7 @@ __coxswain__ _n_ :two::hammer::mega: /KAHK-sun/
 __coy__ _adj_ :six: __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __coyly__ _adv_ :two: In a coy manner. _She pouted and looked at him coyly._  
 __coyote__ _n_ :two::mega::hammer:  
-__cozen__ _v_ :four: /KUZ-un/ To mislead by means of a petty trick or fraud. _Syn_ deceive, delude, lead on _He has wronged me and deceived me enough, he shall not cozen me further!_  
+__cozen__ _v_ :four::smiling_imp: /KUZ-un/ To mislead by means of a petty trick or fraud. _Syn_ deceive, delude, lead on _He has wronged me and deceived me enough, he shall not cozen me further!_  
 __cozy<sup>1</sup>__ _adj_ :six::hammer: _A modern, cozy oasis of culinary delights._ _Cozy cottages._ _There are many cozy B and B inns._ __2__ Relating to a genre of mystery stories with little suspense, explicit violence, or sexual content, often also having amateur sleuths and idyllic, intimate settings.  
 __cozy<sup>2</sup>__ _n_ A padded covering for a teapot, chocolate pot, etc., to retain the heat. _Teapots, infusers, and cozies._  
 __crab lice__ _n_  
@@ -5895,8 +5894,8 @@ __duo__
 __dupe__ _n_ _A dupe of a president._  
 __duped__ _v_ :six::hammer: _He had been duped by her._ _Putin feels that the West duped Russia into de facto sanctioning international intervention in Libya._ _Settlers duped, children abandoned, Indians deported._  
 __duplex__ _n_ :two::hammer: (duplexes)  
-__duplicitous__ _adj_ :four: Given to or marked by deliberate deceptiveness in behavior or speech. _A duplicitous cigarette industry._  
-__duplicity__ _n_ :dart: /doo-PLISS-uh-tee/ Duplicity is a formal word that refers to dishonest behavior meant to trick or deceive someone.  
+__duplicitous__ _adj_ :four::smiling_imp: Given to or marked by deliberate deceptiveness in behavior or speech. _A duplicitous cigarette industry._  
+__duplicity__ _n_ :dart::smiling_imp: /doo-PLISS-uh-tee/ Duplicity is a formal word that refers to dishonest behavior meant to trick or deceive someone.  
 __durable<sup>1</sup>__ _adj_ :four: /DUR-uh-bul/ _Durable_ describes people or things that last, or remain strong and in good condition over a long period of time. It is often used figuratively, as in “a durable athlete.” _The end of durable Red John story line is a new beginning._  
 __durable<sup>2</sup>__ _n_  
 __duration__  
@@ -7021,7 +7020,7 @@ __filly__ _n_ :two: /ˈfɪlɪ/ A young female horse, especially one less than fo
 __film noir__ _n_  
 __filmmaker__ _n_ :two: One who directs or produces movies.  
 __filthy__ _adj_  
-__finagle__ _v_ :three: To obtain or achieve by indirect, usually deceitful methods.  
+__finagle__ _v_ :three::smiling_imp: To obtain or achieve by indirect, usually deceitful methods.  
 __finalize__ _v_  
 __finch__ _n_ :three: Any of numerous small songbirds with short stout bills adapted for crushing seeds.  
 __fine print__  
@@ -7203,7 +7202,7 @@ __fledging__ _n_ :two::hammer:
 __fledgling__ _adj_ :nine::m::pencil2: __1__ A young bird that has just fledged. :es: pichón __2__ A person or organization that is immature, inexperienced, or underdeveloped. _Fledgling entrepreneurs._  
 __flee__ _v_ :four::hammer: _He was forced to flee Ukraine._ _Fleeing New York._  
 __fleece<sup>1</sup>__ _n_ :two::hammer:  
-__fleece<sup>2</sup>__ _v_ :nine::dart: (fleeced) __1__ To defraud of money or property; swindle. _Those swindlers hoped to fleece Jack’s bank contacts._  
+__fleece<sup>2</sup>__ _v_ :nine::dart::smiling_imp: (fleeced) __1__ To defraud of money or property; swindle. _Those swindlers hoped to fleece Jack’s bank contacts._  
 __fleecy__  
 __fleeting__  
 __fleetingly__  
@@ -7221,8 +7220,8 @@ __flickered__ _v_ _The man flickered the reins._
 __fliddle__ _v_  
 __Flight into Egypt__ _n_  
 __flight__ _n_ :dart::four::mute:[fli~~gh~~t] __9__ A series of stairs rising from one landing to another. _A flight of steps._ _He climbed four flights of stairs._ __11__ A selection of alcoholic drinks (such as wines, beers, or whiskeys) for tasting as a group. _Guests can choose three for a $9.50 flight._  
-__flimflam<sup>1</sup>__ _n_ :dart::two::hammer:  
-__flimflam<sup>2</sup>__ _v_ To deceive, mislead, or trick someone. The word is thought to be of Scandinavian origin. _I wish I’d realized that guy was flimflamming me before I gave him the last of my money._  
+__flimflam<sup>1</sup>__ _n_ :dart::two::hammer::smiling_imp:  
+__flimflam<sup>2</sup>__ _v_ :smiling_imp: To deceive, mislead, or trick someone. The word is thought to be of Scandinavian origin. _I wish I’d realized that guy was flimflamming me before I gave him the last of my money._  
 __flimsy__ _adj_ :two::hammer:  
 __flinch<sup>1</sup>__ _v_ :eight: (flinching) __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
 __flinch<sup>2</sup>__ _n_  
@@ -8331,8 +8330,8 @@ __gridlock__ _n_ :two::hammer:
 __grievance__ _n_ :four::hammer: /ˈgri vəns/  
 __grievously__  
 __griffins__ _n_  
-__grift__ _n, v_ :two::hammer:  
-__grifter__ _n_ :three: A person who swindles another out of money.  
+__grift__ _n, v_ :two::hammer::smiling_imp:  
+__grifter__ _n_ :three::smiling_imp: A person who swindles another out of money.  
 __grill__ _vt_ __3__ _informal_ To question relentlessly; cross-examine.  
 __grille__ _n_ :two::hammer: _The grille of a semi truck._  
 __grilling__  
@@ -8457,8 +8456,8 @@ __guide__ _n, v_ :mute:[g~~u~~ide]
 __guidepost__ _n_ :two: A rule or principle that provides guidance to appropriate behavior. _Syn_ rule of thumb, guideline  
 __guidette__ _n_ (guidettes) _slang, US, ethnic slur_ [:scroll: guido + _-ette_] Italian-American female; an American female of Italian descent. _Two guidettes._  
 __guild__ _n_ :mega: _The brass guild._  
-__guile__ _n_ :seven: __1__ Treacherous cunning; skillful deceit. _Syn_ craftiness, foxiness, slyness, wiliness, cunning _Her mild eyes seemed incapable of any severity or guile, and yet she has committed a murder._ _Navarre preferred guile and treachery._ _She did not seem like a cheater; she seemed totally lacking in guile._ __2__ A trick or stratagem.  
-__guileless__ _adj_ :two: Free of deceit. _Syn_ transparent _She was so guileless that he had no option but to believe her._  
+__guile__ _n_ :seven::smiling_imp: __1__ Treacherous cunning; skillful deceit. _Syn_ craftiness, foxiness, slyness, wiliness, cunning _Her mild eyes seemed incapable of any severity or guile, and yet she has committed a murder._ _Navarre preferred guile and treachery._ _She did not seem like a cheater; she seemed totally lacking in guile._ __2__ A trick or stratagem.  
+__guileless__ _adj_ :two::smiling_imp: Free of deceit. _Syn_ transparent _She was so guileless that he had no option but to believe her._  
 __guillemet__ _n_ One of two marks (« or ») used in French, Italian, and Russian printing to enclose quotations.  
 __guillemots__ _n_  
 __guillotine__ _n_ :mega:  
@@ -9436,8 +9435,8 @@ __hushed__ _adj_ _A hushed hotel lounge._
 __husk<sup>1</sup>__ _n_ :six::hammer: (husks) _Cane husks._  
 __husk<sup>2</sup>__ _v_  
 __husky__ _adj_ :three::hammer: _Husky voice._  
-__hustle__ _v_ :five::mute:[hus~~t~~le]:hammer:  
-__hustler__ _n_ _slang_ :three::hammer: A person, usually male, who has sex for money. _An elderly mortgage hustler._  
+__hustle__ _v_ :five::mute:[hus~~t~~le]:hammer::smiling_imp:  
+__hustler__ _n_ _slang_ :three::hammer::smiling_imp: A person, usually male, who has sex for money. _An elderly mortgage hustler._  
 __hut__ _n_ _Beach huts._ _Hire one of the multicolored huts that line the sandy beach._  
 __hutch__ _n_ :two::hammer: _The rabbit hutch._  
 __hyacinth__ _n_ :pencil2:  
@@ -13370,8 +13369,8 @@ __paladin__ _n_ :two: /PAL-uh-din/ A paladin is a leading champion of a cause, o
 __palanquin__ _n_ :two: A closed litter carried on the shoulders of four bearers. _Syn_ palankeen  
 __palatable__ _adj_ :seven: /PAL-uh-tuh-bul/ __1__ Agreeable to one’s sense of taste or palate. _The soup was too bland for my taste, so I added some salt and pepper to make it palatable._ __2__ Agreeable or acceptable to the mind. _Those who are afraid of flying often consider traveling by train as the palatable alternative._  
 __palate__ _n_ :three::hammer: _I add a few spices to educate their palates._  
-__palaver<sup>1</sup>__ _n_ :four: Talk intended to charm or beguile. _Syn_ blandishment, cajolery _Then she would pounce upon me with a lot of that drivelling poodle palaver and kiss me on the nose—but what could I do?_  
-__palaver<sup>2</sup>__ _v_  
+__palaver<sup>1</sup>__ _n_ :four::smiling_imp: Talk intended to charm or beguile. _Syn_ blandishment, cajolery _Then she would pounce upon me with a lot of that drivelling poodle palaver and kiss me on the nose—but what could I do?_  
+__palaver<sup>2</sup>__ _v_ :smiling_imp:  
 __pale__ _adj_ :three: Inferior or unimpressive. _The new cheese is a pale imitation of continental cheeses._ _He called Mr. Trump’s proposal “beyond the pale.”_  
 __paleo__  
 __palette__ _n_ :mega:  
@@ -16177,7 +16176,7 @@ __Runyonesque__ _adj_ :three::hammer: _A torrent of Runyonesque chitchat._
 __ruptured__ _v_ _He ruptured his Achilles._  
 __rural area__ _n_ :mega: An area outside of cities and towns.  
 __ruralism__ _n_ A rural idiom or expression. _Syn_ rusticism  
-__ruse__ _n_ :nine::m::mega: /ruz/ An action intended to mislead, deceive, or trick; stratagem. _Syn_ wile  
+__ruse__ _n_ :nine::m::smiling_imp::mega: /ruz/ An action intended to mislead, deceive, or trick; stratagem. _Syn_ wile  
 __rush<sup>1</sup>__ _n_  
 __rush<sup>2</sup>__ _v_  
 __russet__ _adj_ :two: Moderate to strong brown.  
@@ -16414,8 +16413,8 @@ __scalp<sup>1</sup>__ _n_ __3__ A trophy or token signifying conquest.
 __scalp<sup>2</sup>__ _v_ :three::astonished: __2__ _informal_ Punish severely. __2a__ To resell at inflated prices: to scalp tickets. __b__ To buy and sell (stocks) for quick profit. __3__ To cut or tear the scalp from.  
 __scalpel__  
 __scalper__ _n_ :four::hammer:  
-__scam__ _v_ :four::hammer: (scammed)  
-__scammer__  
+__scam__ _v_ :four::hammer::smiling_imp: (scammed)  
+__scammer__ _n_ :smiling_imp:  
 __scamp__ _n_  
 __scamper__ _v_ :four::hammer: (scampered, scampering) _Scampered into the van._  
 __scamster__ _n_ _informal_ One who perpetrates a scam or fraud; a windler.  
@@ -16897,8 +16896,8 @@ __shale<sup>2</sup>__ _n_ :five: A soft kind of rock that splits easily into fla
 __shale<sup>3</sup>__ _v_  
 __shallot__ _n_ :three::hammer:  
 __shallow__  
-__sham<sup>1</sup>__ _adj_ :four: Bogus; false. _Syn_ fake, pretended, feigned, simulated, false, artificial, bogus _Sham marriages._ _The sham elections._ _“Sham surgery” diminished swelling in hurt knees._  
-__sham<sup>2</sup>__ _n_ :eight::hammer: _The novelty effect isn’t a sham._  
+__sham<sup>1</sup>__ _adj_ :four::smiling_imp: Bogus; false. _Syn_ fake, pretended, feigned, simulated, false, artificial, bogus _Sham marriages._ _The sham elections._ _“Sham surgery” diminished swelling in hurt knees._  
+__sham<sup>2</sup>__ _n_ :eight::hammer::smiling_imp: _The novelty effect isn’t a sham._  
 __shambled__ _v_ :two::hammer:  
 __shambles__ _n_ :five: /SHAM-bulz/ _Shambles_ refers to a place or state in which there is great confusion, disorder, or destruction. _The house party they had over the weekend left the entire living room in shambles._ _By 1984, our dreams were a shambles._ _It was in shambles._  
 __shambling__  
@@ -17367,10 +17366,9 @@ __skittish__ _adj_ :nine::m: (skittishness) __1__ _(of an animal, especially a h
 __skivvies__ _n_ :six: (Skivvies: A trademark for underwear.) Men’s underwear consisting of cotton T-shirt and shorts.  
 __skivvy__ _n_ :three: __1__ _chiefly often derogatory Brit_ A servant, esp a female, who does menial work of all kinds; drudge. A female domestic servant who does all kinds of menial work. __2__ (Clothing & Fashion) _slang chiefly US_ A man’s T-shirt or vest. __3__ (Clothing & Fashion) (plural) _slang chiefly US_ Men’s underwear.  
 __skosh__ _n_ _slang_ [:scroll: Skosh comes from the Japanese _sukoshi_, which means “a little bit.”] A small amount; a bit.  
-__skulduggery__ _n_ _informal_ :two: (skullduggery) Underhand dealing; trickery.  
+__skulduggery__ _n_ _informal_ :four::smiling_imp: (skullduggery) Underhand dealing; trickery.  
 __skulk__ _v_ :five: /SKULK/ To skulk is to move around or hide in a stealthy or secretive way. A person or animal that is said to be _skulking_ is often assumed or considered to be up to some form of wrongdoing or mischief. _Jessica makes both friends and enemies skulking around in the night._  
 __skullcap__  
-__skullduggery__ _n_ :two::hammer:  
 __skunk__ _n_ :two::hammer:  
 __skunworks__  
 __sky diving__  
@@ -18147,7 +18145,7 @@ __squat toilet__ _n_
 __squat<sup>1</sup>__ _v_ :six: (squatted, squatting) Crouch or sit with one’s knees bent and one’s heels close to or touching one’s buttocks or the back of one’s thighs. _I squatted down in front of him._ _Syn_ crouch (down), hunker (down), sit on one’s haunches, sit on one’s heels :es: agacharse  
 __squat<sup>2</sup>__ _adj_ :seven: Short and thickset; disproportionately broad or wide. _He was muscular and squat._ _She kept her squat rotary phone by her bed._ _Syn_ stocky, dumpy, stubby, stumpy, short, thickset, heavily built, sturdy _A squat gray clinic._  
 __squat<sup>3</sup>__ _n_ :two::hammer: (squats) _Didn’t know squat aboit what went on over there._  
-__squatter__  
+__squatter__ _n_ :smiling_imp:  
 __squawk__ _v_ :six::hammer: (squawked, squawking) _The walkie-talkie squawked._  
 __squeak__ _vi_ :five: __2__ _slang_ To turn informer.  
 __squeaker__ _n_ __2__ Something achieved (or escaped) by a narrow margin. _Syn_ close call, close shave, narrow escape, squeak _Clippers keep up hot start in squeaker over Thunder._  
@@ -18973,8 +18971,8 @@ __swim lane__ _n_ (swimlane) __2__ A horizontal or vertical division of a proces
 __swim tube__  
 __swimabout__  
 __swimming hole__ _n_ :two: A place, as in a stream, where there is water deep enough for swimming.  
-__swindle<sup>1</sup>__ _n_ :two::hammer:  
-__swindle<sup>2</sup>__ _v_ :three::hammer:  
+__swindle<sup>1</sup>__ _n_ :two::hammer::smiling_imp:  
+__swindle<sup>2</sup>__ _v_ :three::hammer::smiling_imp:  
 __swindler__ _n_ :four::hammer: _In the dark space between anticipation and realization, the swindler thrives._ _The notorious 19th-century swindler Ferdinand Ward._  
 __swinging bridge__  
 __swipe<sup>1</sup>__ _n_ :two::hammer: _It was Fujita’s swipe at the one-year anniversary fo the New Orleans bounty scandal._  
@@ -21408,6 +21406,7 @@ __wildfowl__
 __wildling__ _n informal_ The activity by a gang of youths of going on a protracted and violent rampage in a public place, attacking or mugging people at random. _John is about to kill wildling leader Rayder._  
 __wildly__ _adv_ To an extreme or greatly exaggerated degree. _A wildly successful chain of boutique hotels._  
 __wildness__  
+__wile__ _n_ :smiling_imp:  
 __wilful__  
 __wilfull__  
 __will__ _v_  
