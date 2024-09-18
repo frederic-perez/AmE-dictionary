@@ -598,31 +598,6 @@ __rimming__ _n_ _slang_ A slang term for the act of licking and/or orally stimul
 __ring-pull__ _n_ _BrE_ A metal strip that must be pulled off the top of a can of drink or food in order to open it.  
 __roar__ _n_  
 __rundown__ _n_ :two: __1__ A point-by-point summary.  
-__rung__  
-__scant__ _adj_  
-__scored tablet__ _n_ :dart::camera: A tablet that has a line or groove (called a score line) on their surface, designed to allow the tablet to be split into smaller doses.  
-__scrupulously__  
-__second-hand__ _adj, adv_  
-__secondhand<sup>1</sup>__ _adj_ :three::hammer:  
-__secondhand<sup>2</sup>__ _adv_  
-__self-assured__  
-__self-contempt__  
-__self-effacing__  
-__self-reliant__  
-__serviette__ _n_  
-__sexual assault__ _n_  
-__sheaf__ _n_  
-__sheet music__ _n_ [U]  
-__shoal__ _n_  
-__shoo__ _vt_  
-__sickle cell__ _n_ An elongated, often sickle-shaped red blood cell, caused by defective hemoglobin.  
-__skewer__ _n_  
-__skimp__ _v_  
-__skin-pop__ _vt_ To inject (a drug) beneath the skin rather than into a vein.  
-__skip__ _n_ _BrE_ A container for receiving, transporting, and dumping waste materials.  
-__skirl<sup>1</sup>__ _vi_ /SKERL/ To produce a high, shrill, wailing tone. Used of bagpipes.  
-__skirl<sup>2</sup>__ _vt_ To play (a piece) on bagpipes.  
-__skirl<sup>3</sup>__ _n_ __1__ The shrill sound made by the chanter pipe of bagpipes. __2__ A shrill wailing sound: _“The skirl of a police whistle split the stillness” (Sax Rohmer)._  
 __slightly__ _adv_ __1__ To a small degree or extent; somewhat. __2__ Slenderly; delicately: _slightly built._  
 __slop out__ _v_ :smiling_imp: (of prisoners) To empty chamber pots and collect water for washing.  
 __sludge__ _n_  

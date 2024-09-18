@@ -16418,7 +16418,7 @@ __scammer__ _n_ :smiling_imp:
 __scamp__ _n_  
 __scamper__ _v_ :four::hammer: (scampered, scampering) _Scampered into the van._  
 __scamster__ _n_ _informal_ One who perpetrates a scam or fraud; a windler.  
-__scant__ _adj_ :nine: Scant is an adjective that means “a tiny amount,” like your scant attendance at practice this week that results in being benched from the big game. _Details were scant._  
+__scant__ _adj_ :nine::m: Scant is an adjective that means “a tiny amount,” like your scant attendance at practice this week that results in being benched from the big game. _Details were scant._  
 __scantily__ _adv_ :two::hammer: _A scantily clad spider._  
 __scanty__ _adj_  
 __scape__ _n_ _Moon and Mars scapes._  
@@ -16513,6 +16513,7 @@ __scorching__
 __score<sup>1</sup>__ _n_ :three: A group or set of twenty or about twenty. _Five score years ago._ :es: veintena  
 __score<sup>2</sup>__ _v_ Make small marks into the surface of. _Score the clay before firing it._ _What tool is used to score a loaf of bread before baking?_  
 __scorecard__ _n_ :three: /ˈskɔːˌkɑːd/ __1__ A card on which scores are recorded in various games, esp golf. _Inner scorecard._ __2__ A card identifying the players in a sports match, esp cricket or baseball.  
+__scored tablet__ _n_ :dart::camera: A tablet that has a line or groove (called a score line) on their surface, designed to allow the tablet to be split into smaller doses.  
 __scoreless__ _adj_  
 __scores__ _n pl_ :two: A large number of something. _Syn_ a great many, a lot, a great/good deal, a large/great number/amount, great quantities, plenty _He sent scores of enthusiastic letters to friends._  
 __scorn<sup>1</sup>__ _n_ :three::hammer:  
@@ -16594,7 +16595,7 @@ __scrunch__ _v_ :three::hammer: (scrunched, scrunching) :two::hammer:
 __scrunchy__ _n_ (scrunchies) An elastic band covered with gathered fabric, used to fasten the hair, as in a ponytail.  
 __scruple__ _n_ An uneasy feeling arising from conscience or principle that tends to hinder action. _Syn_ misgiving, qualm _Lady Macbeth is impatient with her husband’s scruples and goads him into killing the king._  
 __scrupulous__ _adj_ /SKROO-pyuh-lus/ __1__ Very careful about doing something correctly. _She was always very scrupulous about her work, paying attention to every little detail._ __2__ Careful about doing what is honest and morally right. _Less scrupulous companies find ways to evade the law._  
-__scrupulously__  
+__scrupulously__ _adv_ :two::hammer:  
 __scrutinize__ _v_ :two: /SKROO-tuh-nyze/ To examine (something) carefully especially in a critical way.  
 __scrutiny__ _n_ :seven::dart::hammer:  
 __scry__ _v_ To see or predict the future by means of a crystal ball.  
@@ -16676,6 +16677,8 @@ __second-guess__ _v_ :seven::dart: (second-guessing)
 __second-string__ _adj_ _Southhampton beat a largely second-string Arsenal team 2-0._  
 __second<sup>1</sup>__ _n_ :mega: /ˈsɛkənd/  
 __second<sup>2</sup>__ _vt_ _I second you._  
+__secondhand<sup>1</sup>__ _adj_ :four::hammer: (second-hand)  
+__secondhand<sup>2</sup>__ _adv_ :two::hammer: (second-hand)  
 __secret police__ _n_ A police force that operates secretly, esp. to suppress dissent against the government.  
 __secret weapon__ _n_ :six: Something that will help you gain a big advantage over your competitors, that they do not know about.  
 __secret__ _v_  
@@ -16725,21 +16728,23 @@ __seldom<sup>2</sup>__ _adv_ :two::hammer: _People seldom think about their valu
 __select__ _adj_ :two::hammer: (vs selected) _Opens today in select cities._ _Free shipping on select items._  
 __selectorate__ _n_ /si-LEK-tuhr-it/ /sɪˈlɛktərɪt/ [:scroll: A blend of select + electorate. Both from Latin legere (to choose).] A body of people responsible for making a selection, esp members of a political party who select candidates for an election.  
 __self-absorbed__ _adj_ :three::hammer: _Bill Murray is a self-absorbed weatherman in_ Groundhog Day.  
-__self-assured__ _adj_ :three: Having or showing confidence and poise. _Syn_ self-confident  
+__self-assured__ _adj_ :four: Having or showing confidence and poise. _Syn_ self-confident  
 __self-awareness__ _n_  
 __self-bailing__ _adj_ _Equipment includes self-bailing rafts with footcups._  
 __self-centered__ _adj_ Engrossed in oneself and one’s own affairs; selfish. _Self-centered actions._  
 __self-conscious__ _adj_ :seven: __1__ Unduly aware of oneself as the object of the attention of others; embarrassed. :es: acomplejado; cohibido, tímido  
+__self-contempt__  
 __self-deprecating__  
 __self-destruct<sup>1</sup>__ _vi_ To destroy itself or oneself.  
 __self-destruct<sup>2</sup>__ _adj_ Causing something to self-destruct.  
 __self-doubt__ _n_ A lack of faith or confidence in oneself.  
-__self-effacing__ _adj_ :dart::six::astonished: Tending to make oneself, one’s actions, etc, inconspicuous, esp because of humility or timidity; modest. Reluctant to draw attention to yourself. _Syn_ reticent, retiring  
+__self-effacing__ _adj_ :dart::seven::astonished: Tending to make oneself, one’s actions, etc, inconspicuous, esp because of humility or timidity; modest. Reluctant to draw attention to yourself. _Syn_ reticent, retiring  
 __self-esteem__ _n_  
 __self-explanatory__ _adj_  
 __self-fulfilling__ _adj_ :five::hammer: _Self-fulfilling prophecy._  
 __self-hatred__ _n_ (self-hate) Hatred, disregard, and denigration of oneself.  
 __self-indulgent__ _adj_  
+__self-reliant__  
 __self-righteous__ _adj_ :two: Excessively or hypocritically pious. _My self-righteous neighbor Mary makes herself out to be a paragon of virtue and chastity, but I know that she has some dirty little secrets of her own._  
 __self-satisfied__ _adj_ :two: Having or showing a complacent satisfaction with oneself, one’s own actions, behavior, etc.  
 __self-serving__ _adj_ :four: __1__ Serving one’s own interests, especially without concern for the needs or interests of others. __2__ Exhibiting concern solely for one’s own interests: _a speech full of self-serving comments._  
@@ -16828,6 +16833,7 @@ __serum__ _n_ :es: suero
 __service animal__ _n_ Any animal (often a dog) specially trained to assist a person who is blind, deaf, or disabled in some way. _Syn_ assistance animal  
 __service station__ _n_  
 __servicers__  
+__serviette__ _n_  
 __serving__ _n_ :three: (servings) An individual portion or helping of food or drink. _Eat five servings of fruit or veg each day._  
 __sesquicentennial__ _adj_  
 __sesquipedalian<sup>1</sup>__ _n_ :two: A long word.  
@@ -16871,6 +16877,7 @@ __sexennial<sup>2</sup>__ _adj_ /sek-SEN-ee-uhl/ Happening every six years; last
 __sexpert__ _n_ /ˈsɛkspɜːt/ _informal_ a person whose job involves the academic study of or the providing information and advice about sexual relationships and sexual intercourse between human beings. A person who professes a knowledge of sexual matters.  
 __sextant__  
 __sexton__ _n_  
+__sexual assault__ _n_  
 __sexual battery__ _n_ Sexual battery may be defined as non-consensual touching of the intimate parts of another. At least in Florida, “Sexual battery means oral, anal, or vaginal penetration by, or union with, the sexual organ of another or the anal or vaginal penetration of another by any other object.”  
 __shabbily__ _adv_ __1__ So as to appear worn and threadbare or dilapidated; “a shabbily dressed man.” __2__ In a mean and ungenerous manner; _“the two were haggling shabbily in the drawing-room.”_ _He has shabbily deceived us._  
 __shabby__ _adj_ :three::hammer:  
@@ -16932,7 +16939,7 @@ __shaved ice__ _n_ :two::hammer: _Glacee flavored shaved ice._
 __shaved__ _adj_ :two: __1__ Having the hair cut close to the skin. _A shaved head._ __2__ :dart: Cut from a larger portion into thin slivers or slices. _Shaved Parmesan._  
 __shawl__ _n_ :three::hammer: (shawls) _Prayer shawls._  
 __shea oil__  
-__sheaf__ _n_ :three::hammer: (sheaves) _A sheaf of photos._  
+__sheaf__ _n_ :four::hammer: (sheaves) _A sheaf of photos._  
 __shear__ _v_ :four: (shorn) To cut the wool off a sheep or other animal.  
 __sheared__ _adj_ _Sheared mink._  
 __shearing__ _n_ _Sheep shearing._  
@@ -16957,6 +16964,7 @@ __sheer yoga pants__ _n_ :camera: Semi see-through yoga pants.
 __sheer<sup>1</sup>__ _adj_ :nine::m: __1__ Used for emphasizing the amount or degree of something. _The sheer magnitude of threats._ _Sheer size._ _The sheer scale of the operations surprised many._ _The city’s sheer density of concert spaces._ __2__ Thin, fine, and translucent: _sheer curtains; sheer chiffon._ __3a__ Completely such, without qualification or exception: _sheer stupidity; sheer happiness._ _Sheer brazenness._ __b__ Free from admixture or adulterants; unmixed: _sheer alcohol._ __c__ Considered or operating apart from anything else: _got the job through sheer persistence._ __4__ Almost perpendicular; steep: _sheer rock cliffs._ _Syn_ steep  
 __sheer<sup>2</sup>__ _adv_ _The sheer bulk of those tests can present a daunting management problem._  
 __sheer<sup>3</sup>__ _v_  
+__sheet music__ _n_ [U]  
 __sheet rock__  
 __sheet__ _n_ :three::hammer: _A three-sheeted bed._  
 __sheeting__  
@@ -17032,7 +17040,7 @@ __shitshow__ _n_
 __shiv__ _n_ :three: A knife used as a weapon.  
 __shivaree__ _n_ :three: _Midwestern & Western US_ A noisy mock serenade for newlyweds. Also called regionally charivari, belling, horning, serenade. _Syn_ belling, callithump  
 __shiver__ _n_  
-__shoal__ _n_ :five: (shoals) An area of shallow water.  
+__shoal__ _n_ :six: (shoals) An area of shallow water.  
 __shoat__ _n_  
 __shock jock__ _n_ :two: _informal_ A radio disc jockey who is deliberately controversial or provocative.  
 __shoddily__  
@@ -17048,7 +17056,7 @@ __shoftlift__ _v_
 __shogun__ _n_  
 __shogunate__ _n_ :three: A form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.). _Syn_ monocracy, dictatorship _A local shogunate office._  
 __shoo away__  
-__shoo__ _vt_ :seven::hammer: (shooing)  
+__shoo__ _vt_ :eight::hammer: (shooing)  
 __shoo-in__ _n_ :two::hammer:  
 __shoot out__ _n_ :three: __1__ A conclusive gunfight. __2__ _informal_ A decisive contest between two people or teams.  
 __shoot the moon__ _v_ :three::hammer:  
@@ -17176,7 +17184,7 @@ __sicced__ _v_
 __sick bay__ _n_ :two: A hospital or dispensary, esp. aboard ship.  
 __sick leave__ _n_ :four::hammer: _The UK’s biggest reason for sick leave._  
 __sickbed__ _n_ A sick person’s bed.  
-__sickle cell__  
+__sickle cell__ _n_ :two: An elongated, often sickle-shaped red blood cell, caused by defective hemoglobin.  
 __sickly__ _adj_ :es: enfermizo  
 __side effect__  
 __side of bacon__ _n_ Salted and cured abdominal wall of a side of pork. _Syn_ flitch  
@@ -17332,7 +17340,7 @@ __skeptic__ _adj_ :pencil2:
 __sketch__ _v_ _Let us briefly sketch its major challenges._  
 __sketchy__  
 __skew__ _v_ :two::hammer:  
-__skewer<sup>1</sup>__ _n_ _Skewers of meats, vegetables, and fruits._  
+__skewer<sup>1</sup>__ _n_ :two::hammer: _Skewers of meats, vegetables, and fruits._  
 __skewer<sup>2</sup>__ _vt_ :four::astonished::hammer: __2__ To ridicule or criticize harshly: _a reviewer who skewered the tedious movie._  
 __ski jump__ _n_  
 __ski-in/ski-out resort__ _n_ :two: A ski-in ski-out resort is basically one that borders a mountain. It’s where skiers are able to ski in and out of the resort without having to use any form of transportation.  
@@ -17345,17 +17353,22 @@ __skillset__
 __skim<sup>1</sup>__ _v_ :nine::m::dart: (skimmed, skimming) __2a__ If someone skims money, they take small amounts from somewhere so that people do not notice it is gone. _Jim could skim huge sums of money off the casino._ _Users often skim a page by its headings._ _Skim fat from chilled pan juices and finish making gravy._ __4a__ To throw so as to bounce or slide: _skimming stones on the pond._ __b__ To glide or pass quickly and lightly over or along (a surface). __5a__ To read or glance through (a book, for example) quickly or superficially. _He skimmed a copy of _Newsday_ abandoned by an earlier customer._  
 __skim<sup>2</sup>__ _n_  
 __skimboard__  
-__skimp<sup>1</sup>__ _v_ :five: (skimped) Expend or use less time, money, or material on something than is necessary in an attempt to economize. _Don’t skimp on insurance when you book your holidays._  
+__skimp<sup>1</sup>__ _v_ :six: Expend or use less time, money, or material on something than is necessary in an attempt to economize. _Don’t skimp on insurance when you book your holidays._  
 __skimp<sup>2</sup>__ _n informal_ A fashionably short or revealing garment. _She wore a yellow skimp._ _Don’t skimp on the turkey._  
 __skimpy__ _adj_ :four: Containing little excess. _Syn_ lean _When the car repairs maxed out my already skimpy budget, I knew my shopping days were over._  
 __skin diving__ _n_ Underwater swimming in which the swimmer, without lines to the surface, is variously equipped with a face mask, flipperlike footgear, scuba equipment, etc.  
 __skin parlor__  
 __skin__ _vt_ _He skinned his knee and started to cry._  
+__skin-pop__ _vt_ To inject (a drug) beneath the skin rather than into a vein.  
 __skinflint__ _n_ :three: One who is very reluctant to spend money; a miser. A selfish person who is unwilling to give or spend. _Syn_ scrooge, churl, niggard  
 __skinner__ _n_ :dart::two: __2__ A person who prepares or deals in skins or hides. __3__ A person who drives draft animals, as mules. _A resting place for mule skinners guiding packtrains._  
 __skip stones__ _v_ (skip rocks) To throw smooth flat stones into a lake, river etc in a way that makes them jump across the surface. _Alafair was skipping stones across the water into a cypress stump._  
+__skip__ _n_ _BrE_ A container for receiving, transporting, and dumping waste materials.  
 __skipper__ _n_ :three::hammer:  
 __skips__ _n_ :two::hammer: _One of the skips yelled._  
+__skirl<sup>1</sup>__ _vi_ /SKERL/ To produce a high, shrill, wailing tone. Used of bagpipes.  
+__skirl<sup>2</sup>__ _vt_ To play (a piece) on bagpipes.  
+__skirl<sup>3</sup>__ _n_ __1__ The shrill sound made by the chanter pipe of bagpipes. __2__ A shrill wailing sound: _“The skirl of a police whistle split the stillness” (Sax Rohmer)._  
 __skirmish<sup>1</sup>__ _n_ :five::hammer: (skirmishes)  
 __skirmish<sup>2</sup>__ _v_ :two::hammer:  
 __skirmishers__ _n_  
