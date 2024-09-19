@@ -47,6 +47,7 @@ __bleak__ _adj_
 __blithely__ _adv_ In a joyous manner.  
 __blood sport__ _n_ Any sport involving killing or the shedding of blood, as bullfighting, cockfighting, or hunting. Any sport involving the killing of an animal, esp hunting.  
 __board__ _v_ __17__ To furnish with meals, or with meals and lodging, esp. for pay.  
+__bob__ _v_  
 __bobbin__ _n_ A cylinder or cone for holding thread; a spool or reel.  
 __bog__ _n_ _A cow grazing in a bog._  
 __boiler suit__ _n_ _BrE_ A one-piece work garment consisting of overalls and a shirt top usually worn over ordinary clothes to protect them.  
@@ -68,6 +69,7 @@ __brow__ _n_ The projecting upper edge of a steep place. _Syn_ top, summit, peak
 __brushwood__ _n_  
 __bucket shop__ _n_  
 __bulimia nervosa__ _n_  
+__buoy__ _n_  
 __bureau__ _n_ :two::hammer: (_n pl_ bureaus, bureaux)  
 __burl__ _vt_  
 __bursary__ _n_ :two::hammer:  
@@ -79,6 +81,7 @@ __calendar year__
 __callow__ _adj_ /KAL-oh/ _Callow_ is a synonym of _immature_ used to describe someone, especially a young person, who does not have much experience and does not know how to behave like an adult. Like the word immature, callow is often used disapprovingly.  
 __camp__ _n_  
 __candlestick__ _n_ (candleholder) A holder, usually ornamental, with a spike or socket for a candle.  
+__Canuck__ _n_  
 __canvasser__ _n_  
 __casework__ _n_ :three: Social work involving direct contact between the social worker and the individual or family being helped.  
 __casualty__ _n_ :astonished: __3__ _(Medicine)_ A hospital department in which victims of accidents, violence, etc, are treated.  
@@ -136,6 +139,7 @@ __criminal offence__ _n_ An act punishable by law; usually considered an evil ac
 __crisis intervention__ _n_  
 __cross examine__ _v_ :two::hammer:  
 __cruise missile__ _n_  
+__cupboard__ _n_ /ˈkʌb ərd/ A closet with shelves for dishes, cups, food, etc.  
 __curtly__ _adv_ _‘Congratulations,’ I said curtly._  
 __cut__ _n_ __10__ _informal_ A portion of profits or earnings; a share.  
 __cutback__  
@@ -162,6 +166,7 @@ __dormitory__ _n_
 __dosser__ _n_ Someone who sleeps in any convenient place. _Syn_ street person  
 __dowse__ _vi_ (douse) _Dowsing with a pendulum._  
 __dowsing__ _n_ The practice of prospecting for water or minerals using a divining rod. _Syn_ dowse, rhabdomancy  
+__drapery__ _n_ :two::hammer: /ˈdreɪpərɪ/  
 __drollery__ _n_ A quaint and amusing jest. _Syn_ waggery  
 __drop handlebars__ _n_ Low curved handles on a bicycle.  
 __duster__ _n_ :dart::camera: A loose coverall (coat or frock) reaching down to the ankles. _Syn_ gaberdine, smock  
@@ -194,6 +199,7 @@ __feint__ _n_
 __felon__ _n_  
 __felony__ _n_ A crime that has a greater punishment imposed by statute than that imposed on a misdemeanor.  
 __fervent__ _adj_ Having or showing great emotion or zeal. _Syn_ ardent, fervid, fiery, impassioned, perfervid, torrid  
+__feud__ _v_  
 __feverish__ _adj_  
 __fiddle-faddle<sup>1</aup>__ _n_ /ˈfɪdəlˌfædəl/ Nonsense.  
 __fiddle-faddle<sup>2</sup>__ _v_ To fuss or waste time, esp over trivial matters.  
@@ -204,6 +210,7 @@ __fire grate__ _n_ (firegrate, fire-grate) A grate used to hold the fuel in dome
 __firebomb<sup>1</sup>__ _n_ A bomb used to start a fire; an incendiary bomb.  
 __firebomb<sup>2</sup>__ _v_ To attack with firebombs.  
 __firebrand__  
+__flapper__ _n_  
 __flash flood__ _n_ (flashflood) A sudden flood of great volume, usually caused by heavy rain.  
 __flaunt__ _v_  
 __fleck__ _n_  
@@ -271,6 +278,7 @@ __gruff__
 __gruntled__ _adj_ /ˈɡrʌntəld/ _informal_ Happy or contented; satisfied.  
 __guardian__ _n_ (tutor?)  
 __gutsy__ _adj_ Marked by courage and determination in the face of difficulties or danger; robust and uninhibited. _Syn_ plucky  
+__hammy__ _adj_ /ˈhæm i/ Characterized by a highly exaggerated theatricality: _a hammy actor; a hammy performance._  
 __hands-off__ _adj_ Characterized by nonintervention: a hands-off foreign policy.  
 __handyman__ _n_ :es: manitas  
 __harass__ _v_  
@@ -394,6 +402,7 @@ __mantra yoga__ _n_ A meditation practice that focuses on chanting sacred syllab
 __marionette__ _n_ _Syn_ puppet  
 __masseuse__  
 __measly__ _adj_ :astonished:  
+__medley relay__  
 __meliorism__ _n_ /MEE-lee-uh-riz-um/ _Meliorism_ refers to the belief that the world tends to improve and that humans can aid its betterment.  
 __memento__ _n_ :mega: /muh-MEN-toh/ _Memento_ is a synonym of _souvenir_; it refers to something that is kept as a reminder of a person, place, or thing.  
 __mess tin__ _n_ A portable container for cooking or serving food, originally for military use, and generally of a rounded rectangular form.  
@@ -458,7 +467,7 @@ __outburst__ _n_
 __outing__ _n_  
 __outlay__ _n_  
 __outline__ _v_  
-__outrun__ _vt_ :two::hammer:  
+__outrun__ _vt_ :three::hammer:  
 __outstretched__ _adj_ Extended or expanded; stretched out.  
 __overdraft__ _n_  
 __overland__ _adj, adv_  
@@ -470,6 +479,7 @@ __palliative__ _adj, n_
 __palmistry__ _n_ /ˈpɑ mə stri/ The practice or art of telling fortunes from the lines, marks, and patterns on the palms of the hands.  
 __pamphlet__ _n_ :pencil2:  
 __panoply__ _n_ /PAN-uh-plee/  
+__pant__  
 __parade__ _v_  
 __paradigm__ _n_ /PAIR-uh-dyme/  
 __Paralympics__ _n pl_  
@@ -673,6 +683,7 @@ __suspicious__ _adj_ :es: desconfiado; sospechoso; suspicaz
 __swedes__ _n_ :two::hammer: _I helped her mash the swedes._  
 __switchboard__  
 __swivel__ _v_  
+__tire iron__ _n_ A short length of steel with one end flattened to form a blade, used to remove tires from wheel rims.  
 __unabashed__ _adj_ :three: Not ashamed, disconcerted, or apologetic; boldly certain of one’s position. Not disconcerted or embarrassed; poised. _Syn_ unembarrassed  
 __unassailable__  
 __unassuming__ _adj_  

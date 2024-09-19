@@ -11,6 +11,7 @@ __a long shot__ :dart:
 __a stone’s throw__ :two: A very short distance.  
 __a word of warning__ :two: Information about possible danger or trouble.  
 __according to (someone or something)__  
+__across the board__  
 __Aladdin’s cave__ The idiom “Aladdin’s cave” refers to a place filled with a vast collection of valuable, interesting, or unusual objects.  
 __all the same__ :two::hammer:  
 __all too often__  
@@ -29,6 +30,7 @@ __back in the saddle__
 __back on track__  
 __back to normal__  
 __balderdash__ /ˈbɔːldəˌdæʃ/ Nomsense. Stupid or illogical talk; senseless rubbish.  
+__banana shot__  
 __barb__ :two: A shortening of “barbiturate,” a drug class that consists of sedatives and hypnotics. _Barbs are dangerous, man—I’d stay away from them._  
 __bargain for (someone or something)__  
 __battered__ :dart::astonished: Drunk.  
@@ -64,12 +66,14 @@ __chalk up__
 __chase the dragon__ :dart: To smoke a controlled substance, often heroin. _I can’t chase the dragon anymore—I’m trying to get away from that stuff._  
 __clear the table__ To remove objects from a table. This phrase is often said after a meal, as one removes dishes, silverware, and leftover food from the table. _After the meal I cleared the table._  
 __close shave__  
+__coin__ _slang_ Money.  
 __come a long way__  
 __come and gone__ The idiom “come and gone” refers to something that has arrived and then passed or ended. It often implies that a particular time, opportunity, or event has occurred and is now over, suggesting a sense of finality or missed chances.  
 __come to grips__  
 __come to terms with (someone or something)__  
 __coming-of-age__  
 __contend with (someone or something)__  
+__coochie__  
 __cranky__ Irritable; in a foul mood.  
 __creeper__  
 __cut bait__  
@@ -375,6 +379,7 @@ __live up to (something)__ :three::hammer: _Live up to the hype._
 __living proof__  
 __loaded gun__ A situation or person that is dangerous or volatile. For example, a person might be described as a “loaded gun” if they are highly emotional or prone to outbursts.  
 __long and hard__  
+__long in the tooth__  
 __look the other way__  
 __loony bin__ _slang_ A psychiatric hospital or insane asylum. From a glib adaptation of the word “lunatic,” the phrase is now considered tactless at best, extremely insulting at worst.  
 __loop the loop__ __1__ _n_ A flight maneuver in which an aircraft flies in a complete vertical circle. (Usually hyphenated.) _I loved going to air shows as a kid, and I always dreamed of doing loop-the-loops in an airplane when I grew up._ __2__ _v_ To fly an aircraft in a complete vertical circle. _I thought I was going to throw up when the pilot looped the loop with our little biplane._  
@@ -417,13 +422,14 @@ __mixed feelings__
 __mixed message__  
 __mm-hmm__ _informal_ Yes; yeah. A verbal expression used to express agreement or acknowledgement. Formed by intoning “uh-huh” with a closed mouth.  
 __modus operandi__ :two::mega: A unique and habitual method of doing something. From Latin, literally “mode of operation.” Used especially in reference to criminal behavior.  
+__monkey__ :dart: __1__ _slang_ A drug addiction. _Did you hear? Pete checked himself into rehab to deal with the monkey on his back._  
 __mooch off (of) (someone or something)__ To ask for or obtain (something) through the charity of someone or something; to sponge off someone or something else. _My brother has been mooching off me and my wife ever since he lost his job._  
 __more often than not__ :two: Much of the time.  
 __move mountains__ :dart: To do or achieve something that is incredibly difficult.  
 __move the dial__  
 __move the needle__ _I am concentrating on what moves the needle most._  
 __mug shot__ __1__ An official photograph taken of someone being brought into police custody, usually characterized by the person wearing a grim or blank expression on their face.  
-__mugger__  
+__mugger__ _n_ :two::smiling_imp: Someone, usually a male, who attacks and robs people. _I clobbered the mugger with a tire iron I carry just for such occasions._  
 __mumbo jumbo__  
 __nab__ _v_ To catch and arrest someone. Often used in passive constructions.  
 __nada__  
@@ -452,16 +458,18 @@ __not just another pretty face__ Having distinguishing achievements, intelligenc
 __not sleep a wink__  
 __not so fast__ :two::hammer:  
 __not worth the paper it’s written on__ Useless; unimportant; insignificant.  
+__now that I think about it__  
 __now that you’re mentioning it__  
 __nowhere to be found__ Unable to be discovered; completely gone or vanished.  
 __nowhere to be sound__  
 __odd couple__ A particularly unlikely or mismatched pair of people.  
+__oddly enough__  
 __of (one’s) own accord__  
 __of all places__ Being the least expected place compared to anywhere else.  
 __of all stripes__ Of many varieties or types. _You meet people of all stripes when you live in a big city._  
 __of note__  
 __off again, on again__  
-__off the hook__ :two::hammer:  
+__off the hook__ :three::hammer:  
 __off-kilter__  
 __oh boy__  
 __old school__  
@@ -505,10 +513,13 @@ __over the phone__ :two: By calling on the telephone. _You can order a pizza ove
 __pay lip service__ :smiling_imp:  
 __peeper__ peeper__ One’s eye. (That is, what one uses to peep.) Typically used in the plural and often used to refer to the eyes of children. _Your baby girl has such beautiful peepers!_  
 __photobomb__  
+__pillow talk__  
 __pinch__ _slang_ :two: __1__ _v_ To steal something.  
+__pins and needles__  
 __piss off__  
 __pitch (something) at__  
 __play havoc with (someone or something)__ To cause issues or disruptions for someone or something. _The road closures have played havoc with rush-hour traffic._  
+__plunger__ _n_ /ˈplʌndʒə/ __3__ _informal_ A reckless gambler.  
 __point the finger at (one)__  
 __poppers__ Drugs of the alkyl nitrate class used recreationally as a sexual stimulant, especially among gay men. Amyl nitrite became popular in the 60s especially with the male gay community becase it relaxes the muscles, making anal intercourse easier.  
 __poppy appeal__  
@@ -526,6 +537,7 @@ __put on a good/poor/etc. show__
 __put up with (someone or something)__ To abide or endure someone or something that one finds unpleasant, inconvenient, or annoying.  
 __quite a few__ (quite a lot; quite a bit; quite a number)  
 __rags to riches__ Characterized by a rise from poverty to great or exceptional wealth. Hyphenated if used as a modifier before a noun.  
+__raise eyebrows__  
 __rake in__  
 __recoup (something) from (someone or something)__ To recover, regain, or restore something from someone or something. _You’ll have to pay for everything out of pocket, but you can recoup it all from HR after you’re back from the trip._  
 __roast__  
@@ -555,6 +567,7 @@ __shipshape and Bristol fashion__
 __shit (one’s) pants__ __2__ _rude slang_ By extension, to be very surprised. _When I saw that the magazine had published my letter to the editor, I practically shit my pants!_ _Shit-your-pants scared._  
 __shoot (oneself) in the foot__  
 __shop around (for something)__ :dart::three: To browse different stores, vendors, or selections to find the best price or option for something one wants to buy.  
+__shortlisted__ Placed on a final list (a shortlist) of people or things that are being considered for something, such as an award or a position of employment. _I was so shocked to hear that my story was shortlisted for the fiction award!_  
 __show (one’s) hand__  
 __shrink from (someone or something)__ :dart: __1__ To recede or recoil from someone or something. _The way the gums are shrinking from your teeth is a clear sign of gingivitis._ _The child shrank from the men as they approached the house._ __2__ :dart: To avoid or neglect some action, duty, or responsibility. _You wanted to lead this branch, which means you can’t shrink from the thornier aspects of the job._  
 __shut out__  
@@ -589,8 +602,11 @@ __start the ball rolling__ To set something, often a process, in motion; to begi
 __take heart (from something)__ To receive courage or comfort from some fact. _I hope that you will take heart from what we told you today. Even though you did not win the race, take heart from the fact that you did your best. I told her to take heart and try again next time._  
 __take heart__ To have one’s confidence, courage, or happiness bolstered (by something). _We may have lost the election, but we take heart in the fact that so many young people are now engaged and excited about politics._  
 __the golden rule__ :dart: The maxim that one should treat other people the way one would like to be treated, often expressed proverbially as “Do unto others as you would have them do unto you.” _My son wanted to steal the bike of a boy who stole his lunch money, so I told him that the only way to get along with people is to follow the golden rule._  
+__the powers that be__  
 __the upper crust__  
 __the upshot (of something)__ :dart: The final or resulting outcome, conclusion, or consequence (of something). _The upshot of this merger is that the company will now control nearly 50% of the world’s television networks._  
+__thread the needle__  
+__tit for tat__  
 __to name (but) a few__  
 __toughen up__  
 __white tie__ The most formal of all dress codes, requiring men to wear white bow ties and black tailcoats and women to wear evening or ball gowns.  
@@ -601,6 +617,7 @@ __with open arms__ Very happily and eagerly.
 __with the naked eye__ _They can be seen with the naked eye._  
 __work like a Trojan__  
 __work out__  
+__y’all__  
 __you are what you eat__ One’s overall health is linked to one’s eating habits. The phrase is often used to promote proper nutrition.  
 __you(’d) better believe it__ Absolutely, without question; rest assured.  
 __young at heart__ Behaving or thinking in a way that is more youthful than what traditionally accompanies one’s actual age.  
