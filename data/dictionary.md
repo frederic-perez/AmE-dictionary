@@ -9,6 +9,7 @@ __-itis__ _suffix_ __1__ Inflammation or disease of: _laryngitis._ __2__ Forming
 __-nik__ _suffix_ A suffix of nouns that refer, often in a derogatory way, to persons who espouse a cause, represent a cultural attitude, or are ardent enthusiasts of a thing or phenomenon: _beatnik; computernik; filmnik; peacenik._  
 __-ostomy__ _suffix_ (Surgery) Artificial or surgical opening (the surgeon made an opening). From Greek _stoma_, mouth.  
 __-pexy__ _suffix_ (Surgery) Fixation (the surgeon moved the organ to the right place). From Greek _pēxis_, fixation.  
+__-phobe__ _n_ (combining form) One fearing or averse to (something specified). _Francophobe._  
 __-plasty__ _suffix_ (Surgery) Molding or shaping of a defect to restore form and function to a body part (the surgeon changed the shape of something). From Greek _plastos_, formed, shaped.  
 __-prone__ _adj_ _combining form_ Liable or disposed to suffer: _accident-prone._ _The delay-prone airports of New York, Newark and philadelphia._  
 __-rrhaphy__ _suffix_ (Surgery) Surgical suturing (the surgeon sewed something up). From Greek _rhaphē_, suture.  
@@ -81,7 +82,7 @@ __abominable__ _adj_ Unequivocally detestable; loathsome. _Syn_ odious, execrabl
 __abomination__ _n_ :three::hammer: _I’ve written several nasty 3,000-line abominations._  
 __aboriginal__  
 __aborigine__ _n_ :two::pencil2::hammer: (Aborigine)  
-__abound__ _vi_ :seven::hammer: _Deceptive design patterns abound on shopping sites to manipulate you into buying or signing up for things._ _By foot, by rail, by trail: options abound._  
+__abound__ _vi_ :eight::hammer: _Deceptive design patterns abound on shopping sites to manipulate you into buying or signing up for things._ _By foot, by rail, by trail: options abound._  
 __about-face__  
 __aboveboard<sup>1</<up>__ _adj_ :two: Without concealment or deception; honest. _Aboveboard person._ _Their business was open and aboveboard._  
 __aboveboard<sup>2</<up>__ _adv_  
@@ -96,8 +97,9 @@ __abrogation__ _n_ :two::hammer:
 __abrupt__ _adj_ :two::hammer: /uh-BRUPT/ _An abrupt decrease._  
 __abruptly__  
 __abs__ _n_ :two::hammer: _Six-pack abs._  
+__abscess__ _n_ /ˈæbsɛs; -sɪs/ A localized collection of pus formed as the product of inflammation and usually caused by bacteria.  
 __abscission__ _n_ The act of cutting off. _Syn_ cutting off _He had surgery for the abscission of a malignancy._  
-__abscond__ _v_ :five: /ab-SKAHND/ (absconded) To leave quickly and secretly and hide oneself, often to avoid arrest or prosecution. _Syn_ go off, run off, decamp, bolt _Just as the case was about to go to trial, the lawyer panicked and absconded with his client’s money._  
+__abscond__ _v_ :six::smiling_imp: /ab-SKAHND/ To leave quickly and secretly and hide oneself, often to avoid arrest or prosecution. _Syn_ go off, run off, decamp, bolt _Just as the case was about to go to trial, the lawyer panicked and absconded with his client’s money._  
 __abseil__ _n, v_ :es: hacer rappel, bajar en la cuerda  
 __absent-minded__ _adj_  
 __absentee ballot__ _n_ A ballot marked and mailed in advance by a voter away from the place where he or she is registered.  
@@ -163,7 +165,7 @@ __achondroplasiaphobia__ _n_ Fear of little people or midgets. _Syn_ nanosophobi
 __achoo__  
 __acme__  
 __acne__ _n_ :mega::three::hammer:  
-__acolyte__ _n_ :nine::m: __1__ Any attendant, assistant, or follower. _To his acolytes, he is known simply as ‘The Boss.’_ __2__ An altar attendant in public worship; altar boy.  
+__acolyte__ _n_ :nine::m: __1__ Any attendant, assistant, or follower. _To his acolytes, he is known simply as ‘The Boss.’_ :es: acólito __2__ An altar attendant in public worship; altar boy. :es: monaguillo  
 __acorn worm__ _n_ Any of a class (Enteropneusta) of burrowing wormlike marine animals having an acorn-shaped proboscis and classified with the hemichordates.  
 __acorn__ _n_ :four::hammer: _The acorn don’t fall far from the tree._ _Mighty oaks from little acorns grow._ :es: bellota  
 __acquaintance__ _n_ :pencil2:  
@@ -172,8 +174,8 @@ __acquiescence__ _n_ :three::hammer:
 __acquiescent__ _adj_ Willing to carry out the orders or wishes of another without protest. _Syn_ biddable  
 __acquisitive__ _adj_  
 __acquisitiveness__ _n_  
-__acquit__ _vt_ :six: (acquitted) To relieve from a charge of fault or crime; declare not guilty. _If it doesn’t fit, you must acquit._  
-__acquittal__ _n_ :three::hammer:  
+__acquit__ _vt_ :six::smiling_imp: (acquitted) To relieve from a charge of fault or crime; declare not guilty. _If it doesn’t fit, you must acquit._  
+__acquittal__ _n_ :four::hammer::smiling_imp:  
 __acquittance__ _n_ A written release from an obligation, specifically a receipt indicating payment in full. _Syn_ release  
 __acreage__ _n_ :three: Area of land measured in acres. _Syn_ land area  
 __acrid__ _adj_  
@@ -190,7 +192,7 @@ __activate__ _v_ _Gonzalez was activated from the disabled list._
 __actuary__ _n_ :three: (actuaries) A person who compiles and analyses statistics and uses them to calculate insurance risks and premiums. _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
 __actuate__ _v_ To motivate or incite into action. _Syn_ incite, motivate, prompt, propel, move  
 __acuity__ _n_ :four: /əˈkjuːɪtɪ/ Sharpness; acuteness; keenness. _Acuity of mind._ _Visual acuity._ :es: agudeza  
-__acumen__ _n_ :five::reminder_ribbon: acumen/acute/agudo [:scroll: from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute] The ability to make good judgments and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
+__acumen__ _n_ :six::reminder_ribbon: acumen/acute/agudo /AK-yoo-mun/ [:scroll: from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute] The ability to make good judgments and take quick decisions. _Acumen_ refers to keenness and depth of perception, discernment, or discrimination—in other words, the ability to think clearly and make good decisions, especially in practical matters. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
 __acupunture__ _n_ :pencil2:  
 __acute__ _adj_  
 __ad hoc<sup>1</sup>__ _adv_ :three: For the specific purpose, case, or situation at hand and for no other: _a committee formed ad hoc to address the issue of salaries._  
@@ -249,6 +251,7 @@ __adroitly__ _adj_ :three: With expert or dexterous use of the hands or body; ni
 __adulate__ _v_ :mega:  
 __adulation__ _n_ :two: /aj-uh-LAY-shun/ Extreme or excessive admiration or flattery. _The movie star basked in the adulation of her many fans as she walked down the red carpet._  
 __adult__ _adj, n, v_ :mega: /ə-ˈdəlt, ˈa-ˌdəlt/  
+__adulterant__ _n_ /əˈdʌl tər ənt/  
 __adulterate__ _vt_ :two: /uh-DUHL-tuh-rayt/ To add a cheaper or inferior substance to something.  
 __adumbrate__ _vt_ /æˈdʌm breɪt, ˈæd əmˌbreɪt/  
 __advancement__ _n_  
@@ -281,7 +284,7 @@ __afar__ _adv_ :four: From, to, or at a great distance. _I’ve been watching hi
 __afebrile__  
 __affable__ _adj_ :three::hammer: /AF-uh-bul/  
 __affect<sup>1</sup>__ _n_  
-__affect<sup>2</sup>__ _v_ _He tried to affect nonchalance._  
+__affect<sup>2</sup>__ _v_ :two::hammer: __1__ To put on a false show of; simulate: _affected a British accent._ Pretend. __4__ To imitate; copy. _He tried to affect nonchalance._  
 __affectation__ _n_ A show, pretense, or display. _Syn_ pose, mannerism  
 __affectionally__  
 __affiance__ _v_ To bind in a pledge of marriage; betroth.  
@@ -388,7 +391,7 @@ __airburst__ _n_
 __aircraft hold__ _n_ :es: bodega (de avión)  
 __aircraft__ _n_ _Ejecting from aircraft._  
 __airfield__  
-__airhead__ _n_ _slang_ A stupid person.  
+__airhead__ _n_ :two::smiling_imp: _slang_ A stupid person.  
 __airscrew__ _n_ A propeller that rotates to push against air. _Syn_ prop  
 __airship__ _n_ _Tethered airships._  
 __airstrike__ _n_  
@@ -404,14 +407,14 @@ __al fresco__ _adj, adv_ :two::hammer:
 __Al-Anon__  
 __Alabama__ _n_ :mega:  
 __alabaster__  
-__alacrity__ _n_ :five: /əˈlakrɪti/ __1__ Cheerful readiness, promptness, or willingness: _to do a favor with alacrity._ _Syn_ eagerness, enthusiasm, willingness, readiness, speed, zeal, gaiety, alertness, hilarity, cheerfulness, quickness, liveliness, briskness, promptness, avidity, joyousness, sprightliness _As you can imagine, I accepted with alacrity._ __2__ Speed or quickness; celerity.  
+__alacrity__ _n_ :six: /əˈlakrɪti/ __1__ Cheerful readiness, promptness, or willingness: _to do a favor with alacrity._ _Syn_ eagerness, enthusiasm, willingness, readiness, speed, zeal, gaiety, alertness, hilarity, cheerfulness, quickness, liveliness, briskness, promptness, avidity, joyousness, sprightliness _As you can imagine, I accepted with alacrity._ __2__ Speed or quickness; celerity.  
 __alas__ _sentence connector_ Unfortunately; regrettably: _there were, alas, none left._  
 __Alaska__ _n_ :mega: /əˈlæs kə/  
 __Alaskan__  
 __alastor__ _n_ /uh-LAS-tuhr/ An avenging deity or spirit, the masculine personification of Nemesis, frequently evoked in Greek tragedy.  
 __albatross__ _n_ :pencil2::five::mega::hammer: /ˈæl bəˌtrɔs, -ˌtrɒs/  
 __alchy__ _n_ (alkie, alky) __1__ Alcohol; an alcoholic beverage. __2__ A drunkard.  
-__alcove__ _n_ :two::hammer: _Historic alcoves._ _The elevator alcove._  
+__alcove__ _n_ :three::hammer: _Historic alcoves._ _The elevator alcove._  
 __alder__ _n_ :pencil2::two::hammer:  
 __alderman__ _n_ :four::hammer: (aldermen)  
 __aleatory__ _adj_ /AY-lee-uh-tor-ee/  
@@ -446,7 +449,7 @@ __all-out__ _adj_ :three: Using all available resources. _Syn_ full-scale _Holdi
 __all-pro__ _adj_ Chosen as one of the best players within a league. Used chiefly in the National Football League. _The Browns all-pro receiver._  
 __all-round__ _adj_ __1__ Efficient in all respects, esp in sport; versatile: _an all-round player._ __2__ Comprehensive; many-sided; not narrow: _an all-round education._  
 __all-time__ _adj_ _That’s one of my favorite all-time experiments._  
-__allay__ _vt_ :six::hammer: (allayed)  
+__allay__ _vt_ :seven::hammer: /əˈleɪ/ (allayed)  
 __allegation__ _n_  
 __allege__ _v_ :two: (alleged) __1__ To assert without proof or before proving. __2__ To bring forward as a reason or excuse.  
 __alleged__ _adj_ /əˈlɛdʒd, əˈlɛdʒ ɪd/  
@@ -525,7 +528,7 @@ __ambisinister__ _adj_ Clumsy or unskillful with both hands.
 __ambit__ _n_ __1__ Sphere or scope, as of influence. _Syn_ range  
 __ambitious__ _adj_ :two::hammer:  
 __ambivalence__  
-__ambivalent__ _adj_ :three: Having mixed feelings or contradictory ideas about something or someone.  
+__ambivalent__ _adj_ :four: /am-BIV-uh-lunt/ Someone described as _ambivalent_ has or displays very different feelings (such as love and hate) about someone or something at the same time. Having mixed feelings or contradictory ideas about something or someone.  
 __ambivert__ _adj_ A person who is intermediate between an extrovert and an introvert.  
 __amble__ _v_ :seven::hammer: (ambled, ambling) _Giraffes amble along the savannah._  
 __ambulate__ _v_ :two: To walk from place to place; move about.  
@@ -631,6 +634,7 @@ __angsty__ _adj_ :three: /ˈæŋstɪ/ (angstier, angstiest) _informal_ Displayin
 __anguish<sup>1</sup>__ _n_  
 __anguish<sup>2</sup>__ _v_ :two::hammer: (anguishes)  
 __anhedonia__ _n_ The inability to feel or experience pleasure.  
+__anilingus__ _n_ Oral stimulation of the anus.  
 __animadversion__ _n_ Strong criticism. _Syn_ censure _I meant no animadversions against any one, and certainly intended no disrespectful allusions to your mother._  
 __animal__ _n_ Thing. _Standup is a whole different animal._ _A perfect job? Is there any such animal?_  
 __animalcule__ _n_ (animalculum) Microscopic organism such as an amoeba or paramecium.  
@@ -659,14 +663,16 @@ __annum__ _n_
 __annunciationç__ _n_ A formal public statement. _Syn_ proclamation, declaration, announcement  
 __annus horribilis__ _n_  
 __anodized__ _v_ :two::hammer:  
-__anodyne<sup>1</sup>__ _adj_  
+__anodyne<sup>1</sup>__ _adj_ :two: Capable of soothing or eliminating pain. _Syn_ analgesic, analgetic  
 __anodyne<sup>2</sup>__ _n_ :two: __1__ A medicine used to relieve pain. _Syn_ analgesic, pain pill, painkiller __2__ Anything that alleviates mental distress.  
 __anomic__  
 __anonym__ _n_ A pseudonym. _Syn_ nom de guerre, pseudonym _He used an anonym when posting messages on the board._  
 __Anonymous__ _n_ A decentralized international activist and hacktivist collective and movement primarily known for its various cyberattacks against several governments, government institutions and government agencies, corporations and the Church of Scientology.  
 __anorak__ _n_ :three: A warm waterproof hip-length jacket usually with a hood, originally worn in polar regions, but now worn for any outdoor activity.  
+__anorexia nervosa__ _n_ /nɜrˈvoʊ sə/ An eating disorder characterized by a fear of becoming fat, a distorted body image, and excessive dieting leading to emaciation.  
 __anoxia__  
 __anoxic__ _adj_ Relating to or marked by a severe deficiency of oxygen in tissues or organs.  
+__ansaphone__ _n_ /ˈɑːnsəˌfəʊn/ Another name for answering machine.  
 __answer for__ _phr v_ To be responsible for something bad.  
 __answer__ _n, v_ :mute:[ans~~w~~er]  
 __ant hill__ _n_  
@@ -764,7 +770,7 @@ __apothegm__ _n_ :three: A short, pithy, and instructive saying or formulation. 
 __apotheosis__ _n_ :two: /uh-pah-thee-OH-sis/ Exaltation to divine rank or stature. _Syn_ deification, exaltation  
 __appall__ _vt_ :six::pencil2: To fill with horror and amazement; dismay greatly. :es: horrorizar, espantar  
 __appalled__ _adj_ :seven: /əˈpɔːld/ Shocked or dismayedfilled with horror. _Syn_ aghast, dismayed, shocked  
-__appalling__ _adj_ :nine: Something that is appalling is awful or horrible, causing dismay or disgust. It’s definitely not appealing. :es: espantoso _(awful)_ pésimo  
+__appalling__ _adj_ :nine::m: Something that is appalling is awful or horrible, causing dismay or disgust. It’s definitely not appealing. :es: espantoso _(awful)_ pésimo  
 __appanage__ _n_ /AP-uh-nij/ (apanage) __1__ An allowance given for the maintenance of a member of a royal family. __2__ A perk associated with a job or a position.  
 __apparatchik__ _n_ :two::hammer: (apparatchiks)  
 __apparatus__ _n_ :two::hammer: _Campaign apparatus._  
@@ -812,17 +818,20 @@ __aptly__ _adj_ :two::hammer:
 __aquanaut__ _n_ :two::hammer:  
 __aquaponics__ _n_ _(used with singular verb)_  
 __aquaria__  
+__aquavit__  
 __aqueduct__ _n_ :four::hammer:  
 __aqueous__ _adj_  
 __aquifer__ _n_ :two::hammer:  
 __aquiline__ _adj_  
 __arabesque__ _adj, n_ :two::hammer: _They were heavily coated with arabesques of frost which scintillated with the silver sparks of outer sunshine._  
+__arable__ _adj_ /ˈærəbəl/ Fit for cultivation, as by plowing.  
 __Aragon__ _n_ :mega: /ˈærəɡən/  
 __Aramaic__  
 __Arapahoe__ _n_ :two::hammer:  
 __arbitrage__ _n_  
 __arbitrary__ _adj_ :two: /AHR-buh-trair-ee/ Determined, planned, or chosen seemingly at random or by chance. _People often make arbitrary decisions on where to go out to eat._ _An arbitrary number of servers._  
-__arbitration__ _n_ _Arbitration clause._  
+__arbitration__ _n_ :two::hammer: _Arbitration clause._  
+__arbitrator__  
 __arbor__ _n_ :three: A shady resting place in a garden or park, often made of rustic work or latticework on which plants, such as climbing shrubs or vines, are grown. _An arbor of live oaks._ _Syn_ bower, pergola  
 __arboreal__ _adj_ /ahr-BOR-ee-ul/  
 __arboretum__ _n_ :nine: /ˌɑːbəˈriːtəm/ A parklike area in which many different trees or shrubs are grown for study or display. _Syn_ botanical garden  
@@ -832,14 +841,14 @@ __arc__ _n_ :four::hammer: _The Dooku’s arc was exquisite._
 __arcade game__  
 __arcade__ _n_ :two::hammer: _Catering capabilities, 2 bars, billards and an arcade._ _West’s oldest amusement arcade._  
 __Arcadian<sup>1</sup>__ _n_ :two: __2__ (often arcadian) One who leads or prefers a simple, rural life. Rustic, peaceful, and simple; pastoral: _a country life of arcadian contentment._  
-__arcane__ _adj_ :six: Known or knowable only to a few people. Mysterious and secret. _This function appends arcane strings._  
+__arcane__ _adj_ :seven::astonished::smiling_imp: Known or knowable only to a few people. Mysterious and secret. _This function appends arcane strings._  
 __arch<sup>1</sup>__ _n_ (arches _n pl_)  
 __arch<sup>2</sup>__ _adj_ :two::hammer: _Her character is arch and fake._  
 __archaea__ _n_  
 __arched__ _adj_ _Arched doorway._ :camera:  
 __archenemy__ _n_ :pencil2:  
 __archeology__ _n_ :mute:[arc~~h~~eology]  
-__archetypal__  
+__archetypal__ _adj_ :two::hammer: /ˌɑːkɪˈtaɪpəl/ (archetypical)  
 __archetype__ _n_ :two::hammer: /ˈɑr kɪˌtaɪp/ /AHR-kih-type/  
 __archetypical__ _adj_ Representing or constituting an original type after which other similar things are patterned.  
 __Archimedes__ _n_ :mega:  

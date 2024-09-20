@@ -1,28 +1,3 @@
-__-phobe__ _n_ (combining form) One fearing or averse to (something specified). _Francophobe._  
-__abound__ _vi_  
-__abscess__ _n_ /ˈæbsɛs; -sɪs/ A localized collection of pus formed as the product of inflammation and usually caused by bacteria.  
-__abscond__ _v_  
-__acolyte__ _n_ :es: acólito; monaguillo  
-__acquittal__ _n_  
-__acumen__ _n_ /AK-yoo-mun/ _Acumen_ refers to keenness and depth of perception, discernment, or discrimination—in other words, the ability to think clearly and make good decisions, especially in practical matters.  
-__adulterant__ _n_ /əˈdʌl tər ənt/  
-__affect__ _v_ __1__ To put on a false show of; simulate: _affected a British accent._ Pretend. __4__ 4. To imitate; copy.  
-__airhead__  
-__alacrity__  
-__alcove__ _n_  
-__allay__ _vt_ əˈleɪ/  
-__ambivalent__ _adj_ /am-BIV-uh-lunt/ Someone described as _ambivalent_ has or displays very different feelings (such as love and hate) about someone or something at the same time.  
-__anilingus__ _n_ Oral stimulation of the anus.  
-__anodyne__ _adj_ Capable of soothing or eliminating pain. _Syn_ analgesic, analgetic  
-__anorexia nervosa__ _n_ /nɜrˈvoʊ sə/ An eating disorder characterized by a fear of becoming fat, a distorted body image, and excessive dieting leading to emaciation.  
-__ansaphone__ _n_ /ˈɑːnsəˌfəʊn/ Another name for answering machine.  
-__appalling__  
-__aquavit__  
-__arable__ _adj_ /ˈærəbəl/ Fit for cultivation, as by plowing.  
-__arbitration__  
-__arbitrator__  
-__arcane__ _adj_ :astonished:  
-__archetypal__ _adj_ /ˌɑːkɪˈtaɪpəl/ (archetypical)  
 __archway__ _n_ :es: pasaje abovedado  
 __armistice__ _n_  
 __arthralgia__ _n_ är-thrăl′jə/ Neuralgic pain in a joint or joints.  
