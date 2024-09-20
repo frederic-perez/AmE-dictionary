@@ -1,5 +1,6 @@
 __(it’s) just as well (that) (something happened)__ It is or turned out to be beneficial (that something happened). _It turned out we had a pop quiz on Monday. Just as well I was studying this weekend!_  
 __(just) for the fun of it__  
+__(someone) ain’t seen nothing yet__  
 __(stuck) in a rut__  
 __(the) top of the line__ The absolute best of a certain thing, often referring to a product that is of the utmost quality (and usually the most expensive). When used as a noun, it is preceded by “the.” _That store only sells top of the line gear. You may want to consider some lower-priced options._  
 __a (whole) host of (something)__  
@@ -12,6 +13,7 @@ __a stone’s throw__ :two: A very short distance.
 __a word of warning__ :two: Information about possible danger or trouble.  
 __according to (someone or something)__  
 __across the board__  
+__ahead of (someone or something)__  
 __Aladdin’s cave__ The idiom “Aladdin’s cave” refers to a place filled with a vast collection of valuable, interesting, or unusual objects.  
 __all the same__ :two::hammer:  
 __all too often__  
@@ -40,6 +42,7 @@ __be cocksure of (oneself)__ To be completely certain of oneself or one’s acti
 __be left to (one’s) own devices__ To be left unsupervised or uncontrolled; to be allowed to do as one pleases. _My job is really great: I know what I need to work on and am just left to my own devices._  
 __be on the safe side__ :dart:  
 __be partial to (someone or something)__ To be particularly fond of someone or something; to have someone or something as one’s favorite or preference.  
+__be real__  
 __bear (someone or something) in mind__  
 __beat about the bush__ :two: _BrE_ To speak vaguely or euphemistically so as to avoid talking directly about an unpleasant or sensitive topic. Primarily heard in UK.  
 __beef up__ To increase something, often in strength. _With all these protestors here, we definitely need to beef up security._  
@@ -69,6 +72,7 @@ __close shave__
 __coin__ _slang_ Money.  
 __come a long way__  
 __come and gone__ The idiom “come and gone” refers to something that has arrived and then passed or ended. It often implies that a particular time, opportunity, or event has occurred and is now over, suggesting a sense of finality or missed chances.  
+__come to a close__ To reach an end point.  
 __come to grips__  
 __come to terms with (someone or something)__  
 __coming-of-age__  
@@ -81,6 +85,7 @@ __dance on air__ To be extremely happy.
 __dead__ __5__ Absolutely. _You’d better be dead certain about this decision, because you can’t take it back._  
 __dearth__ _n_ /dɜːθ/  
 __dig and poke around__ The idiom “dig and poke around” generally means to search or investigate something thoroughly by looking through various items or areas, often in a somewhat casual or unstructured manner.  
+__disabuse (someone or oneself) of (something)__  
 __dodge__ :three::smiling_imp: /dɑdʒ/ A swindle; a scam; a deception. _What sort of dodge did you get flimflammed with?_  
 __don’t worry, be happy__ The phrase “Don’t worry, be happy” has its origins in the teachings of the Indian spiritual master Meher Baba. He frequently used this expression in communications with his followers, particularly in the West, as a succinct message of encouragement and positivity. Meher Baba’s teachings emphasized the importance of maintaining a positive outlook.  
 __double or quits__ A wager, undertaken after a previous wager, that stipulates two possible outcomes: if the winner of the previous wager wins again, they win twice the amount won in the previous wager; if they lose, they receive nothing. Primarily heard in UK.  
@@ -507,6 +512,7 @@ __once and for all__
 __once in a blue moon__ Very rarely.  
 __one size fits all__ :two::hammer:  
 __one-off__ :three::hammer:  
+__open the door for (someone or something)__  
 __out of print__ No longer being printed and sold by a publisher.  
 __over and out__ Said to mark the end of communication between two people. Used especially in radio communication, in which it signals that a person is done speaking and does not expect a reply from the other person. _A: “Oh, and while you’re at the store, could you please get some milk, too?” B: “Sure thing. Over and out.”_  
 __over the phone__ :two: By calling on the telephone. _You can order a pizza over the phone._  
@@ -609,6 +615,7 @@ __thread the needle__
 __tit for tat__  
 __to name (but) a few__  
 __toughen up__  
+__walk the wire__ To navigate a delicate or precarious situation. It implies taking risks and balancing between different challenges or conflicting demands.  
 __white tie__ The most formal of all dress codes, requiring men to wear white bow ties and black tailcoats and women to wear evening or ball gowns.  
 __willy-nilly__ :two::hammer: [:scroll: This expression is a shortened form of ‘willing or not willing.’]  
 __wind down__ __2__ To cause something to slow and near an ending. In this usage, a noun or pronoun can be used between “wind” and “down.” _We’ll wind down our practice with some gentle stretches._  
@@ -617,7 +624,7 @@ __with open arms__ Very happily and eagerly.
 __with the naked eye__ _They can be seen with the naked eye._  
 __work like a Trojan__  
 __work out__  
-__y’all__  
+__y’all__ :two::hammer:  
 __you are what you eat__ One’s overall health is linked to one’s eating habits. The phrase is often used to promote proper nutrition.  
 __you(’d) better believe it__ Absolutely, without question; rest assured.  
 __young at heart__ Behaving or thinking in a way that is more youthful than what traditionally accompanies one’s actual age.  

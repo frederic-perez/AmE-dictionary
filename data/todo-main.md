@@ -46,6 +46,8 @@ __birch tree__
 __bleak__ _adj_  
 __blithely__ _adv_ In a joyous manner.  
 __blood sport__ _n_ Any sport involving killing or the shedding of blood, as bullfighting, cockfighting, or hunting. Any sport involving the killing of an animal, esp hunting.  
+__blueberry cobbler__  
+__bluebird__ _n_  
 __board__ _v_ __17__ To furnish with meals, or with meals and lodging, esp. for pay.  
 __bob__ _v_  
 __bobbin__ _n_ A cylinder or cone for holding thread; a spool or reel.  
@@ -55,13 +57,16 @@ __bollock__ _vt_
 __bonnet__ _n_ :three::hammer:  
 __booby trap__ _n_  
 __bookstall__ _n_ __1__ A booth or stall at which books are sold, usu. secondhand. __2__ A stall or stand where periodicals, newspapers, or books are sold. US word: newsstand  
+__bootlace__ _n_ _BrE_ A shoelace.  
 __bow-legged__ _adj_ :three::hammer:  
 __Boxing Day__  
 __brainiac__ _n_ /BRAY-nee-ak/  
 __breakdown__ _n_  
+__breeches__ _n pl_ __1__ trousers extending to the knee or just below, worn for riding, mountaineering, etc.  
 __breeze block__ _n_ A light concrete building block made with cinder aggregate; _cinder blocks_ are called _breeze blocks_ in Britain. _Breeze blocks on the streets of Havana._  
 __bric-a-brac__ _n_  
 __brisk__ _adj_ (brisker, briskest)  
+__britches__ _n pl_ :three: /ˈbrɪtʃɪz/ (Clothing & Fashion) A variant spelling of _breeches_.  
 __Britpop__ _n_ /ˈbrɪtˌpɒp/ The characteristic pop music performed by some British bands of the mid 1990s.  
 __broach__ _v_  
 __broad__ _adj_ _In broad daylight._  
@@ -71,7 +76,9 @@ __bucket shop__ _n_
 __bulimia nervosa__ _n_  
 __buoy__ _n_  
 __bureau__ _n_ :two::hammer: (_n pl_ bureaus, bureaux)  
+__burin__ _n_  
 __burl__ _vt_  
+__burn (someone or something) to a crisp__  
 __bursary__ _n_ :two::hammer:  
 __bustle__ _n_  
 __byword__ _n_ _Syn_ adage, aphorism, maxim, motto, proverb, saw, saying  
@@ -109,6 +116,7 @@ __close-knit__ _adj_ Held tightly together, as by social or cultural ties: _a cl
 __clued up__ _adj_ _BrE_ _informal_ Knowledgeable about a topic or situation; possessing the facts. :es: al tanto (de), al corriente (de)  
 __co-op__ _n_ :three: A cooperative enterprise, building, or apartment.  
 __coach__ _n_ __1a__ A bus, especially one designed for long-distance passenger service.  
+__cockney__ _n_  
 __cocksure__ _adj_ :astonished: Marked by excessive confidence. _Syn_ overconfident, positive  
 __coda__ _n_  
 __colloquy__ _n_ :pencil2: /ˈkɒl ə kwi/  
@@ -148,6 +156,7 @@ __deaf-mute__ _adj, n_
 __dear__ _adj_ __4a__ :dart: Highly priced. _Software is dearer in the UK than in the USA._ __b__ Charging high prices.  
 __decor__ _n_  
 __degage__ _adj_ Showing lack of emotional involvement. _Syn_ detached, uninvolved  
+__deign__ _v_  
 __demob__ _v_  
 __deport__ _vt_ __1__ To expel from a country: _deported the foreigner who had entered the country illegally._  
 __deride__ _vt_ [:scroll: Latin dērīdēre : dē-, de- + rīdēre, _to laugh at_]  
@@ -233,6 +242,7 @@ __folly__ _n_ (construction)
 __foment__ _v_ /FOH-ment/  
 __foodstuff__ _n_ :two: A substance that can be used or prepared for use as food.  
 __footage__ _n_ :mega:  
+__for good__  
 __forecourt__ _n_  
 __forename__ _n_ A name before one’s surname; a first name.  
 __form factor__ _n_  
@@ -243,6 +253,7 @@ __fortnightly<sup>3</sup>__ _n_ :astonished: A publication issued once every two
 __fracas__ _n_  
 __fractious__ _adj_ Stubbornly resistant to authority or control. _Syn_ recalcitrant, refractory  
 __fraternize__ _v_ /FRAT-er-nyze/  
+__French toast__ _n_ Food prepared by dipping bread into egg batter and frying.  
 __frontier__ _n_ :mega: /frʌnˈtɪər, frɒn-; also, esp. _Brit_, ˈfrʌn tɪər/  
 __fru__  
 __fulgent__ _adj_ /FUHL-juhnt/ Shining brilliantly; radiant.  
@@ -271,6 +282,7 @@ __googolplex__ _n_ /GOO-guhl-pleks/ The number 1 followed by a googol number of 
 __grawlix__ _n_ :dart: /GRAW-liks/ A series of special characters, such as “@#$%&*,” that are used to indicate either miscellaneous text, or more commonly, swear words. The term is attributed to Mort Walker, an American cartoonist known for his Beetle Bailey comic strip.  
 __graze__ _n_ __1__ The act of brushing or scraping along a surface. __2__ A minor scratch or abrasion.  
 __grease pit__ _n_ A narrow pit or trench over which a vehicle can be driven and conveniently worked on from beneath.  
+__greenwood__ _n_  
 __gridiron__ _n_ /GRID-eye-ern/  
 __gritty__ _adj_ __1__ Courageous; hardy; resolute.  
 __grouse__ _v_  
@@ -309,6 +321,7 @@ __hookah__ _n_ (hooka) A water pipe with a long flexible tube by which the smoke
 __hoopla__ _n_ /HOO-plah/ _Hoopla_ refers to talk or writing that is designed to get people excited about or interested in something, often with the implication that the person using the word does not find the thing exciting or interesting.  
 __horse brass__ _n_ :camera: A decorative brass ornament, usually circular, originally attached to a horse’s harness.  
 __hotplate__ _n_ :two::hammer:  
+__house martin__ _n_ (housemartin)  
 __huddle__ _v_  
 __husk__ _n_ /hʌsk/  
 __idiosyncrasy__  
@@ -608,6 +621,9 @@ __rimming__ _n_ _slang_ A slang term for the act of licking and/or orally stimul
 __ring-pull__ _n_ _BrE_ A metal strip that must be pulled off the top of a can of drink or food in order to open it.  
 __roar__ _n_  
 __rundown__ _n_ :two: __1__ A point-by-point summary.  
+__scullery__ _n_ /ˈskʌl ə ri, ˈskʌl ri/  
+__shortlisted__  
+__side note__ _n_ Additional information aside main point.  
 __slightly__ _adv_ __1__ To a small degree or extent; somewhat. __2__ Slenderly; delicately: _slightly built._  
 __slop out__ _v_ :smiling_imp: (of prisoners) To empty chamber pots and collect water for washing.  
 __sludge__ _n_  
@@ -684,6 +700,8 @@ __swedes__ _n_ :two::hammer: _I helped her mash the swedes._
 __switchboard__  
 __swivel__ _v_  
 __tire iron__ _n_ A short length of steel with one end flattened to form a blade, used to remove tires from wheel rims.  
+__transient__ _adj_ _Temporary conduction block can occur as a result of transient edema._  
+__two peas in a pod__  
 __unabashed__ _adj_ :three: Not ashamed, disconcerted, or apologetic; boldly certain of one’s position. Not disconcerted or embarrassed; poised. _Syn_ unembarrassed  
 __unassailable__  
 __unassuming__ _adj_  
