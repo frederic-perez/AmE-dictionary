@@ -1,6 +1,9 @@
+__A pager__ _n_ A simple wireless communications device that receives text messages or alerts.  
+__approbation__ _n_ /ap-ruh-BAY-shun/ Approbation is a formal word that refers to praise or approval.  
 __archway__ _n_ :es: pasaje abovedado  
 __armistice__ _n_  
 __arthralgia__ _n_ är-thrăl′jə/ Neuralgic pain in a joint or joints.  
+__arthroplasty__ _n_ /AR-thruh-plas-tee/ [:scroll: From Greek arthro- (joint) + -plasty (formation, repair, molding)] The surgical repair or replacement of a joint.  
 __articulate__ _v_  
 __aspersion__ _n_ /uh-SPUHR-zhuhn/shuhn/ __1__ A damaging accusation: slander. __2__ The sprinkling with water, as in baptism.  
 __assess__ _vt_ :es: evaluar; calcular  
@@ -9,6 +12,7 @@ __attritional__ _adj_ :dart: Relating to or caused by attrition. _Attritional ba
 __au pair__ _n_ A young foreigner who provides childcare for a family in exchange for room and board, often a small stipend, and the opportunity to study.  
 __audacity__ _n_ :dart: Fearless daring; intrepidity. _Syn_ temerity  
 __ayahuasca__  
+__bait__ _v_ :smiling_imp: __2__ To entice or provoke, especially by trickery or strategy: _He baited me into selling him my bike by saying how much I deserved a better one._  
 __barbiturate__ _n_ :es: barbitúrico  
 __bardolatry__ _n_ [:scroll: Coined by George Bernard Shaw from bard (poet) + -latry (worship)] _facetious_ Idolatry or excessive admiration of William Shakespeare.  
 __batter__ _v_ :two: __1a__ To hit heavily and repeatedly with violent blows. _Syn_ beat __b__ To subject to repeated beatings or physical abuse.  
@@ -60,6 +64,7 @@ __byword__ _n_ _Syn_ adage, aphorism, maxim, motto, proverb, saw, saying
 __Byzantine__ _adj_ /BIZ-un-teen/  
 __cad__ _n informal_ _old-fashioned_ _Brit_ A man who does not behave in a gentlemanly manner towards others.  
 __calendar year__  
+__callous__ _adj_ Emotionally hardened; unfeeling. _Syn_ indurate, pachydermatous  
 __callow__ _adj_ /KAL-oh/ _Callow_ is a synonym of _immature_ used to describe someone, especially a young person, who does not have much experience and does not know how to behave like an adult. Like the word immature, callow is often used disapprovingly.  
 __camp__ _n_  
 __candlestick__ _n_ (candleholder) A holder, usually ornamental, with a spike or socket for a candle.  
@@ -126,6 +131,8 @@ __cupboard__ _n_ /ˈkʌb ərd/ A closet with shelves for dishes, cups, food, etc
 __curtly__ _adv_ _‘Congratulations,’ I said curtly._  
 __cut__ _n_ __10__ _informal_ A portion of profits or earnings; a share.  
 __cutback__  
+__cyclone__ _n_ /ˈsaɪ kloʊn/  
+__dally__ _v_ /DAL-ee/ The word _dally_ has a number of meanings. To dally can be to physically linger or dawdle, or to waste time. Dally may also mean “to act playfully,” especially in a romantic sense, or “to deal with something lightly or in a way that is not serious.”  
 __darn__  
 __deaf-mute__ _adj, n_  
 __dear__ _adj_ __4a__ :dart: Highly priced. _Software is dearer in the UK than in the USA._ __b__ Charging high prices.  
@@ -153,6 +160,7 @@ __dowsing__ _n_ The practice of prospecting for water or minerals using a divini
 __drapery__ _n_ :two::hammer: /ˈdreɪpərɪ/  
 __drollery__ _n_ A quaint and amusing jest. _Syn_ waggery  
 __drop handlebars__ _n_ Low curved handles on a bicycle.  
+__dusky__ _adj_ Characterized by little or inadequate light; shadowy. _Syn_ twilight, twilit  
 __duster__ _n_ :dart::camera: A loose coverall (coat or frock) reaching down to the ankles. _Syn_ gaberdine, smock  
 __duty solicitor__ _n_ (duty counsel, duty lawyer) A solicitor whose services are available to a person either suspected of, or charged with, a criminal offence free of charge (pro bono), if that person does not have access to a solicitor of their own and usually if it is judged by a means test that they cannot afford one. The system is operative in several Commonwealth countries, including the United Kingdom, Australia, New Zealand and Canada.  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
@@ -264,6 +272,7 @@ __grouse__ _v_
 __gruff__  
 __gruntled__ _adj_ /ˈɡrʌntəld/ _informal_ Happy or contented; satisfied.  
 __guardian__ _n_ (tutor?)  
+__gullible__ _adj_ :smiling_imp: Easily deceived or duped. _Syn_ fleeceable, green  
 __gutsy__ _adj_ Marked by courage and determination in the face of difficulties or danger; robust and uninhibited. _Syn_ plucky  
 __hammy__ _adj_ /ˈhæm i/ Characterized by a highly exaggerated theatricality: _a hammy actor; a hammy performance._  
 __hands-off__ _adj_ Characterized by nonintervention: a hands-off foreign policy.  
@@ -302,6 +311,7 @@ __husk__ _n_ /hʌsk/
 __idiosyncrasy__  
 __ignoble__ _adj_ Not of the nobility; common. _Syn_ ungentle, untitled  
 __illicit__ _adj_ /ɪˈlɪsɪt/  
+__imitative__ _adj_ (Of words) Formed in imitation of a natural sound. _Syn_ echoic, onomatopoeic  
 __immiseration__ _n_ /i-miz-uh-RAY-shuhn/ __1__ The act of making miserable or the state of being made miserable. __2__ Impoverishment.  
 __impending__ _adj_ About to happen; imminent.  
 __imprisonment__ _n_ :pencil2: Putting someone in prison or in jail as lawful punishment.  
@@ -314,6 +324,7 @@ __ingenuous__ _adj_ Lacking in cunning, guile, or worldliness. _Syn_ artless
 __injunction__  
 __innards__ _n pl_  
 __interfere__ _v_  
+__interpenetrate__ _v_ Spread or diffuse through. _Syn_ imbue, permeate, pervade, diffuse, riddle, penetrate  
 __invalid car__ _n_ _BrE_ A car specially equipped so that a disabled person can drive it.  
 __inviting__ _adj_ :two: Attractive; tempting: _an inviting dessert._  
 __iota__ _n_ /eye-OH-tuh/ An _iota_ is an infinitesimal amount of something. The word _iota_ is used synonymously with the etymologically related _jot_, and by its oldest definition refers to the 9th letter of the Greek alphabet.  
@@ -335,8 +346,10 @@ __Kitemark__ _n_ _BrE_ The official mark of quality and reliability, in the form
 __kudos__ _n_ /KOO-dahss/  
 __kung fu__ _n_ /ˈkʌŋ ˈfu, ˈkʊŋ/  
 __labyrinthine__ _adj_ Resembling a labyrinth in form or complexity. _Syn_ mazy  
+__laic__ _adj_ Of or relating to the laity. _Syn_ lay, secular  
 __lap__ _vt_ __6__ :dart: _Sports_ To get ahead of (an opponent) in a race by one or more complete circuits of the course, as in running, or by two or more lengths of a pool in swimming.  
 __lathe__ _n_  
+__leaf peeper__ _n_ (chiefly informal US) A tourist who visits New England in autumn to see the changing colours of the foliage.  
 __leisure__ _n_  
 __lemony__ _adj_ :astonished: /ˈlɛmənɪ/  
 __lentitude__ _n_ /LEN-tuh-tood/tyood/ Slowness or sluggishness.  
@@ -349,7 +362,7 @@ __lidless__ _adj_ Watchful; vigilant. _Syn_ sleepless
 __lightsaber__ _n_  
 __limerence__ _n_ The state of being obsessively infatuated with someone, usually accompanied by delusions of or a desire for an intense romantic relationship with that person.  
 __limestone__  
-__liminal__ _adj_  
+__liminal__ _adj_ :two: /LIM-uh-nul/ _Liminal_ is a formal word most often used to describe an intermediate state, phase, or condition. It can also describe something that is barely perceptible or barely capable of eliciting a response.  
 __limpid__ _adj_ /LIM-pid/ _Limpid_ describes things that are perfectly transparent or clear, or that are simple in style.  
 __lionhearted__ _adj_  
 __lip liner__ _n_ (lip liner)  
@@ -419,6 +432,8 @@ __nags__ _n_ _Riding old nags._
 __nail varnish__ _n_ (nail enamel, nail polish)  
 __natural hat trick__ _n_ _sports_ A hat trick in which three goals are scored in succession by one player in one game.  
 __naturalization__ _n_  
+__nebula__ _n_ /ˈnɛb yə lə/  
+__neophile__ _n_ NEE-uh-fyl/ One who loves new or novel things.  
 __newsagent__ _n_ A shopkeeper who sells newspapers, stationery, etc. _Syn_ newsdealer  
 __nibble__ _v_  
 __nigh__ _adj, adv, prep_ /naɪ/ An archaic, poetic, or dialect word for near.  
@@ -471,7 +486,7 @@ __pant__
 __parade__ _v_  
 __paradigm__ _n_ /PAIR-uh-dyme/  
 __Paralympics__ _n pl_  
-__paraphernalia__ _n_  
+__paraphernalia__ _n_ :two: /pair-uh-fuh-NAIL-yuh/ _Paraphernalia_ can refer to objects or items that are used to do a particular activity, as well as objects or items that are typically associated with a particular activity, subject, etc. The word can also refer generally to personal belongings.  
 __paraplegia__ _n_ [:scroll: quadri- (because all four limbs are affected ) + -plegia] Complete paralysis of the lower half of the body including both legs, usually caused by damage to the spinal cord.  
 __parapraxis__ _n_ A minor error, such as a slip of the tongue, thought to reveal a repressed motive. _Syn_ slip-up, miscue, slip  
 __parapsychology__ _n_ /ˌpær ə saɪˈkɒl ə dʒi/ The study of the evidence for psychological phenomena, such as telepathy, clairvoyance, and psychokinesis, that are inexplicable by science.  
@@ -511,6 +526,7 @@ __pillbox__
 __pillion passenger__ _n_ _Brit_ A person who travels in a seat or place behind the rider of a motorcycle, scooter, horse, etc. _As a learner rider you must not carry a pillion passenger._  
 __pillion__ _n_ A seat or place behind the rider of a motorcycle, scooter, horse, etc.  
 __pimple__ _n_ :es: espinilla  
+__pip__ _n_ __1__ (Veterinary Science) A contagious disease of poultry characterized by the secretion of thick mucus in the mouth and throat. __2__ _facetious slang_ A minor human ailment.  
 __pitch__ _n_ :es: (esp. _British_) campo, cancha  
 __plead__ _v_  
 __plebiscite__ _n_  
@@ -522,6 +538,7 @@ __plush<sup>1</sup>__ _n_
 __plush<sup>2</sup>__ _adj_  
 __poaching__ _v_  
 __poll tax__ _n_ A fixed tax levied on all persons in a certain area, especially as a condition of voting in elections.  
+__polyandry__ _n_ /POL-ee-an-dree/ The practice of having multiple husbands or male mates at the same time.  
 __polypharmacy__ _n_ The practice of prescribing multiple medications for an individual patient, especially excessively, for a single disease.  
 __polytechnic__ _adj, n_  
 __pontoon__ _n_  
@@ -559,6 +576,7 @@ __quiver<sup>1</sup>__ _vi_
 __quiver<sup>2</sup>__ _n_ __1__ A portable case for holding arrows.  
 __rabies__ _n_ /ˈreɪ biz/ _Rabies is normally fatal if untreated and it’s a horrible death._  
 __racket__ _n_ __1__ A loud distressing noise.  
+__racketeer__ _n_ :smiling_imp: One who obtains money by an illegal enterprise usually involving intimidation.  
 __ragbag__ _n_  
 __rapport__ _n_ /ræˈpɔr, -ˈpoʊr, rə-/  
 __Rastafarian__ _adj, n_  
@@ -590,6 +608,7 @@ __repose__ _n_ The act of resting or the state of being at rest. _Syn_ ease, rel
 __reprieve__ _n_  
 __reputedly__ _adv_ According to general belief or supposition: _the reputedly excellent food._ :es: según dicen  
 __reread__ _v_ :pencil2:  
+__rhetoric__ _n_ :astonished::pencil2: /ˈrɛt ər ɪk/ Insincere or grandiloquent language.  
 __riding hood__ _n_ A type of cloak or hood worn by women who rode horses. This clothing was designed specifically for riding, providing warmth and protection for the rider.  
 __rife__ _adj_ /raɪf/ (postpositive)  
 __rimming__ _n_ _slang_ A slang term for the act of licking and/or orally stimulating the anus of a sexual partner.  
@@ -611,6 +630,7 @@ __smite__ _v_
 __smitten__ _adj_  
 __smolder__ _v_ (smoulder)  
 __smother__ _v_  
+__smug__ _adj_ Exhibiting or feeling great or offensive satisfaction with oneself or with one’s situation; self-righteously complacent. _Syn_ self-satisfied  
 __snappy__ _adj_  
 __snarl__ _n_ __1__ A vicious growl, utterance, or facial expression. __2__ The act of snarling. __3__ A tangled mass, as of hair or yarn. __4__ A confused, complicated, or tangled situation: _a traffic snarl._  
 __snoop__ _vi_ To pry into the private affairs of others, especially by prowling about.  
@@ -660,6 +680,7 @@ __stub__ _n_ __1__ The usually short end remaining after something bigger has be
 __stuffy__ _adj_ :dart:  
 __subcontinent__ _n_  
 __subdural__ _adj_ Located or occurring beneath the dura mater: _subdural space; a subdural hematoma._  
+__succor__ _n_ /SUCK-er/ _Succor_ is a literary term meaning “something that you do or give to help someone who is suffering or in a difficult situation.”  
 __Sufism__ _n_ The beliefs and practices of an ascetic, retiring, and mystical sect in Islam.  
 __sumac__ _n_ :three::hammer:  
 __summit__ _v_  
@@ -668,12 +689,15 @@ __sunder__ _v_
 __superannuated__ _adj_ Retired or ineffective because of advanced age. _Syn_ over-the-hill, overaged  
 __superintendent__ _n_ :two: A rank in British police services and in most English-speaking Commonwealth nations. _A park superintendent._  
 __supersede__ _v_ /soo-per-SEED/ _Syn_ replace, displace  
+__suppliant__ _n_ One praying humbly for something. _Syn_ petitioner, requester, supplicant  
 __surety__ _n_  
 __surplice__  
 __suspicious__ _adj_ :es: desconfiado; sospechoso; suspicaz  
 __swedes__ _n_ :two::hammer: _I helped her mash the swedes._  
 __switchboard__  
 __swivel__ _v_  
+__tariff__ _n_ /ˈtær ɪf/  
+__taunt__ _vt_ /tɔːnt/ __1__ To provoke or deride with mockery, contempt, or criticism. __2__ To tease; tantalize.  
 __tire iron__ _n_ A short length of steel with one end flattened to form a blade, used to remove tires from wheel rims.  
 __transient__ _adj_ _Temporary conduction block can occur as a result of transient edema._  
 __two peas in a pod__  
@@ -681,6 +705,7 @@ __unabashed__ _adj_ :three: Not ashamed, disconcerted, or apologetic; boldly cer
 __unassailable__  
 __unassuming__ _adj_  
 __unattainable__ _adj_ _Unattainable love._  
+__unconscionable__ _adj_ :smiling_imp:  
 __vilify__ _vt_ :two::hammer: /VIL-uh-fye/  
 __virago__ _n_ /vɪˈrɑ goʊ, -ˈreɪ-/  
 __virid__ _adj_ /VIR-id/ Bright green.  
@@ -705,6 +730,7 @@ __whizz-bang__ _adj, n_
 __wholefood__ _n_ __a__ Food that has been refined or processed as little as possible and is eaten in its natural state, such as brown rice, wholemeal flour, etc. __b__ (as modifier): _a wholefood restaurant._  
 __wicked__ _adj_ :smiling_imp:  
 __windjammer__ _n_ :es: buque de vela (grande y veloz)  
+__winnow__ _v_ /WIN-oh/  
 __wispy__ _adj_ Wisplike; delicate, faint, light, etc. _Wispy hair._  
 __witchcraft__ _n_  
 __withdrawal symptom__ _n_ :dart: Any physical or psychological disturbance (as sweating or depression) experienced by a drug addict when deprived of the drug.  
