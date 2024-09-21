@@ -1,4 +1,5 @@
 __A pager__ _n_ A simple wireless communications device that receives text messages or alerts.  
+__ablutions__ _n pl_  
 __approbation__ _n_ /ap-ruh-BAY-shun/ Approbation is a formal word that refers to praise or approval.  
 __archway__ _n_ :es: pasaje abovedado  
 __armistice__ _n_  
@@ -15,9 +16,12 @@ __ayahuasca__
 __bait__ _v_ :smiling_imp: __2__ To entice or provoke, especially by trickery or strategy: _He baited me into selling him my bike by saying how much I deserved a better one._  
 __barbiturate__ _n_ :es: barbitúrico  
 __bardolatry__ _n_ [:scroll: Coined by George Bernard Shaw from bard (poet) + -latry (worship)] _facetious_ Idolatry or excessive admiration of William Shakespeare.  
+__bark__ _v_ __2__ To rub off the skin of; abrade: _barked my shin on the car door._  
 __batter__ _v_ :two: __1a__ To hit heavily and repeatedly with violent blows. _Syn_ beat __b__ To subject to repeated beatings or physical abuse.  
+__bedroll__ _n_ /ˈbɛdˌrəʊl/ A portable roll of bedding, such as a sleeping bag, used esp for sleeping in the open.  
 __bedsit__ _n_ A furnished sitting room containing sleeping accommodation and sometimes cooking and washing facilities. :es: estudio amueblado, habitación amueblada _Syn_ bedsitter, bedsitting room, bed-sitting room  
 __bell boot__ _n_  
+__beseech__ _v_ :es: suplicar  
 __biddy__ _n_ /ˈbɪdɪ/ __1__ A dialect word for chicken, hen. __2__ _informal offensive_ A woman, esp an old gossipy or interfering one.  
 __biennial__ _adj_ Happening every second year. _Syn_ biyearly  
 __big game__ _n_ __1__ Large animals or fish hunted or caught for sport.  
@@ -110,6 +114,7 @@ __comradeship__
 __concourse__ _n_ __1__ A large open space for the gathering or passage of crowds, as in an airport. :es: explanada __2__ A broad thoroughfare. __3__ A great crowd; a throng. __4__ The act of coming, moving, or flowing together.  
 __condone__ _v_  
 __conscientious objector__ _n_ (CO) One who on the basis of religious or moral principles refuses to bear arms or participate in military service.  
+__conscientious__ _adj_ :es: concienzudo  
 __conscription__ _n_  
 __convenience food__ _n_ :dart: A prepackaged food that can be prepared quickly and easily.  
 __conveyancing__ _n_ :two: (Law) The branch of legal practice dealing with the conveyance [transfer of the legal title to property] of property or real estate.  
@@ -160,12 +165,13 @@ __dowsing__ _n_ The practice of prospecting for water or minerals using a divini
 __drapery__ _n_ :two::hammer: /ˈdreɪpərɪ/  
 __drollery__ _n_ A quaint and amusing jest. _Syn_ waggery  
 __drop handlebars__ _n_ Low curved handles on a bicycle.  
+__duck-footed__ _adj_  
 __dusky__ _adj_ Characterized by little or inadequate light; shadowy. _Syn_ twilight, twilit  
 __duster__ _n_ :dart::camera: A loose coverall (coat or frock) reaching down to the ankles. _Syn_ gaberdine, smock  
 __duty solicitor__ _n_ (duty counsel, duty lawyer) A solicitor whose services are available to a person either suspected of, or charged with, a criminal offence free of charge (pro bono), if that person does not have access to a solicitor of their own and usually if it is judged by a means test that they cannot afford one. The system is operative in several Commonwealth countries, including the United Kingdom, Australia, New Zealand and Canada.  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
 __elocution__ _n_  
-__emphasis__ _n_ /ˈɛm fə sɪs/  
+__emphasis__ _n_ :two::hammer: /ˈɛm fə sɪs/ /ˈɛmfəsɪs/  
 __emphasize__ _vt_ /ˈɛm fəˌsaɪz/  
 __endure__ _v_ _I could hardly even endure my own reflection in the mirror._  
 __enlightened__ _adj_ _Enlightened despot._  
@@ -204,11 +210,13 @@ __firebomb<sup>2</sup>__ _v_ To attack with firebombs.
 __firebrand__  
 __flapper__ _n_  
 __flash flood__ _n_ (flashflood) A sudden flood of great volume, usually caused by heavy rain.  
+__flat-footed__ _adj_  
 __flaunt__ _v_  
 __fleck__ _n_  
 __fleet__ _n_ :two: The largest organized unit of naval ships grouped for tactical or other purposes.  
 __flexor__ _n_ A small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes. _Syn_ percussor, plessor  
 __flighty__ _adj_ /ˈflaɪtɪ/  
+__flinch__ _vi_ :es: estremecerse; encogerse  
 __flit__ _vi_ :two: __1__ To move about rapidly and nimbly. __2__ To move quickly from one condition or location to another.  
 __float·a·tion _- _n- /flō-tā′shən/ __1__ Variant of _flotation_.  
 __floorwalker__ _n_ An employee of a department store who supervises sales personnel and assists customers. _Syn_ shopwalker  
@@ -227,6 +235,7 @@ __foodstuff__ _n_ :two: A substance that can be used or prepared for use as food
 __footage__ _n_ :mega:  
 __for good__  
 __forecourt__ _n_  
+__forelock__ _n_ __1__ A lock of hair growing or falling over the forehead.  
 __forename__ _n_ A name before one’s surname; a first name.  
 __form factor__ _n_  
 __fortnight__ _n_ :dart::astonished::two: [:scroll: Middle English fourtenight, alteration of fourtene night, fourteen nights] A period of 14 days; two weeks.  
@@ -248,6 +257,7 @@ __gabby__ _adj_ Tending to talk excessively. _Syn_ chatty, garrulous, loquacious
 __gadabout__ _n_ /GAD-uh-bout/ A gadabout is a person who flits about in social activity, as by going to many places and social events for pleasure.  
 __galvanize__  
 __Gamblers Anonymous__ _n_ (GA) An organization that holds group meetings to help people who are addicted to gambling.  
+__gamekeeper__ _n_ /ˈgeɪmˌki pər/ A person employed, as on an estate or game preserve, to prevent poaching and provide for the conservation of game.  
 __gangrene__ _n_  
 __gasp<sup>1</sup>__ _v_  
 __gasp<sup>2</sup>__ _n_ __1__ A short convulsive intake of breath.  
@@ -325,6 +335,7 @@ __injunction__
 __innards__ _n pl_  
 __interfere__ _v_  
 __interpenetrate__ _v_ Spread or diffuse through. _Syn_ imbue, permeate, pervade, diffuse, riddle, penetrate  
+__intonation__ _n_ /ˌɪntəʊˈneɪʃən/ /ˌɪn toʊˈneɪ ʃən, -tə-/  
 __invalid car__ _n_ _BrE_ A car specially equipped so that a disabled person can drive it.  
 __inviting__ _adj_ :two: Attractive; tempting: _an inviting dessert._  
 __iota__ _n_ /eye-OH-tuh/ An _iota_ is an infinitesimal amount of something. The word _iota_ is used synonymously with the etymologically related _jot_, and by its oldest definition refers to the 9th letter of the Greek alphabet.  
@@ -373,6 +384,7 @@ __litigation__ _n_
 __Little Red Riding Hood__ _n_ A girl in a fairy tale who meets a wolf while going to visit her grandmother.  
 __livid__ _adj_ __3__ _informal_ Angry or furious.  
 __loan word__ _n_  
+__lock__ _n_ __1a__ A length or curl of hair; a tress. __b__ (often _locks_) The hair of the head.  
 __locus__ _n_  
 __lodestone__ _n_ (loadstone) /lōd′stōn′/ A piece of magnetite that has magnetic properties and attracts iron or steel. __2__ One that attracts strongly.  
 __lodge__ _v_ _He’s lodged a complaint against you._  
@@ -411,6 +423,7 @@ __microfiche__ _n_ /ˈmaɪ krəˌfiʃ/ A flat sheet of microfilm, containing rep
 __midriff__  
 __millpond__ _n_ __1__ A pool formed by damming a stream to provide water to turn a millwheel.  
 __miniscule__ _adj_ :astonished:  
+__misbegotten__ _adj_ :smiling_imp: /ˌmɪs bɪˈgɒt n/ (misbegot)  
 __mise-en-scène__ _n_ /meez-ahn-SEN/ _Mise-en-scène_ can refer to the setting of a play, movie, etc., or it can refer to the physical or social setting in which something real occurs or develops.  
 __misnomer__  
 __missus__ _n_  
@@ -700,6 +713,7 @@ __tariff__ _n_ /ˈtær ɪf/
 __taunt__ _vt_ /tɔːnt/ __1__ To provoke or deride with mockery, contempt, or criticism. __2__ To tease; tantalize.  
 __tire iron__ _n_ A short length of steel with one end flattened to form a blade, used to remove tires from wheel rims.  
 __transient__ _adj_ _Temporary conduction block can occur as a result of transient edema._  
+__trump__ _v_ /trʌmp/  
 __two peas in a pod__  
 __unabashed__ _adj_ :three: Not ashamed, disconcerted, or apologetic; boldly certain of one’s position. Not disconcerted or embarrassed; poised. _Syn_ unembarrassed  
 __unassailable__  
@@ -731,6 +745,7 @@ __wholefood__ _n_ __a__ Food that has been refined or processed as little as pos
 __wicked__ _adj_ :smiling_imp:  
 __windjammer__ _n_ :es: buque de vela (grande y veloz)  
 __winnow__ _v_ /WIN-oh/  
+__wisp__ _n_  
 __wispy__ _adj_ Wisplike; delicate, faint, light, etc. _Wispy hair._  
 __witchcraft__ _n_  
 __withdrawal symptom__ _n_ :dart: Any physical or psychological disturbance (as sweating or depression) experienced by a drug addict when deprived of the drug.  
