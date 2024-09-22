@@ -1,5 +1,6 @@
 __A pager__ _n_ A simple wireless communications device that receives text messages or alerts.  
 __ablutions__ _n pl_  
+__affect__ _v_ :three::hammer:  
 __approbation__ _n_ /ap-ruh-BAY-shun/ Approbation is a formal word that refers to praise or approval.  
 __archway__ _n_ :es: pasaje abovedado  
 __armistice__ _n_  
@@ -17,6 +18,7 @@ __bait__ _v_ :smiling_imp: __2__ To entice or provoke, especially by trickery or
 __barbiturate__ _n_ :es: barbitúrico  
 __bardolatry__ _n_ [:scroll: Coined by George Bernard Shaw from bard (poet) + -latry (worship)] _facetious_ Idolatry or excessive admiration of William Shakespeare.  
 __bark__ _v_ __2__ To rub off the skin of; abrade: _barked my shin on the car door._  
+__barrow__ _n_ __1__ A handbarrow. __2__ A wheelbarrow.  
 __batter__ _v_ :two: __1a__ To hit heavily and repeatedly with violent blows. _Syn_ beat __b__ To subject to repeated beatings or physical abuse.  
 __bedroll__ _n_ /ˈbɛdˌrəʊl/ A portable roll of bedding, such as a sleeping bag, used esp for sleeping in the open.  
 __bedsit__ _n_ A furnished sitting room containing sleeping accommodation and sometimes cooking and washing facilities. :es: estudio amueblado, habitación amueblada _Syn_ bedsitter, bedsitting room, bed-sitting room  
@@ -100,6 +102,7 @@ __close-knit__ _adj_ Held tightly together, as by social or cultural ties: _a cl
 __clued up__ _adj_ _BrE_ _informal_ Knowledgeable about a topic or situation; possessing the facts. :es: al tanto (de), al corriente (de)  
 __co-op__ _n_ :three: A cooperative enterprise, building, or apartment.  
 __coach__ _n_ __1a__ A bus, especially one designed for long-distance passenger service.  
+__cock__ _v_ :two: __3__ To tilt or turn up or to one side, usually in a jaunty or alert manner: _cocked an eyebrow in response to a silly question._  
 __cockney__ _n_  
 __cocksure__ _adj_ :astonished: Marked by excessive confidence. _Syn_ overconfident, positive  
 __coda__ _n_  
@@ -120,10 +123,12 @@ __convenience food__ _n_ :dart: A prepackaged food that can be prepared quickly 
 __conveyancing__ _n_ :two: (Law) The branch of legal practice dealing with the conveyance [transfer of the legal title to property] of property or real estate.  
 __cookhouse__ _n_  
 __copious__ _adj_ /KOH-pee-us/ _Copious_ is a synonym of abundant and plentiful. It is always used before a noun to describe something very large in amount or number.  
+__copperas__ _n_ /ˈkɒpərəs/ A less common name for ferrous sulphate.  
 __cornices__ _n_ :two::hammer:  
 __cornpone__ _n_  
 __cosmesis__ _n_  
 __cot death__ _n_ _Br E_ Sudden infant death syndrome.  
+__countenance__ _n_  
 __cowed__  
 __craft__ _n_ __5__ _crafts_ Items made by craftspeople.  
 __creche__ _n_ :three::hammer:  
@@ -138,6 +143,7 @@ __cut__ _n_ __10__ _informal_ A portion of profits or earnings; a share.
 __cutback__  
 __cyclone__ _n_ /ˈsaɪ kloʊn/  
 __dally__ _v_ /DAL-ee/ The word _dally_ has a number of meanings. To dally can be to physically linger or dawdle, or to waste time. Dally may also mean “to act playfully,” especially in a romantic sense, or “to deal with something lightly or in a way that is not serious.”  
+__damnation__ _n_ :es: perdición  
 __darn__  
 __deaf-mute__ _adj, n_  
 __dear__ _adj_ __4a__ :dart: Highly priced. _Software is dearer in the UK than in the USA._ __b__ Charging high prices.  
@@ -173,6 +179,7 @@ __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to de
 __elocution__ _n_  
 __emphasis__ _n_ :two::hammer: /ˈɛm fə sɪs/ /ˈɛmfəsɪs/  
 __emphasize__ _vt_ /ˈɛm fəˌsaɪz/  
+__end-stage__ _adj_ /ĕnd′stāj′/ Of or relating to the final phase of a terminal disease.  
 __endure__ _v_ _I could hardly even endure my own reflection in the mirror._  
 __enlightened__ _adj_ _Enlightened despot._  
 __epaulettes__ _n_  
@@ -221,7 +228,7 @@ __flit__ _vi_ :two: __1__ To move about rapidly and nimbly. __2__ To move quickl
 __float·a·tion _- _n- /flō-tā′shən/ __1__ Variant of _flotation_.  
 __floorwalker__ _n_ An employee of a department store who supervises sales personnel and assists customers. _Syn_ shopwalker  
 __flotation tank__ _n_ (flotation chamber) An enclosed ventilated tank filled with a saline solution at body temperature, in which a person floats in darkness in order to relax or meditate.  
-__flotsam__ _n_  
+__flotsam__ _n_ :two::hammer:  
 __flout__ _v_  
 __flub<sup>1</sup>__ _n_ :dart: /flʌb/ An embarrassing mistake or blunder.  
 __flub<sup>2</sup>__ _v_ :dart: To blunder or make an embarrassing mistake. Make a mess of, destroy or ruin.  
@@ -270,6 +277,7 @@ __gestalt__ _n_ _Gestalt therapy._
 __gifted__ _adj_ __1__ Endowed with great natural ability, intelligence, or talent: _a gifted child; a gifted pianist._ __2__ Revealing special talent: _a gifted rendition of the aria._  
 __giro__ _n_ __2__ _informal Brit_ An unemployment or income support payment by giro cheque, posted fortnightly.  
 __glean__ _v_ :two: /ɡliːn, glin/ To collect or pick up small amounts of news, facts, etc. :es: recoger, recopilar  
+__glower__ _v_ :smiling_imp:  
 __golden plover__ _n_  
 __googolplex__ _n_ /GOO-guhl-pleks/ The number 1 followed by a googol number of zeros.  
 __grawlix__ _n_ :dart: /GRAW-liks/ A series of special characters, such as “@#$%&*,” that are used to indicate either miscellaneous text, or more commonly, swear words. The term is attributed to Mort Walker, an American cartoonist known for his Beetle Bailey comic strip.  
@@ -320,6 +328,7 @@ __huddle__ _v_
 __husk__ _n_ /hʌsk/  
 __idiosyncrasy__  
 __ignoble__ _adj_ Not of the nobility; common. _Syn_ ungentle, untitled  
+__ignoramus__ _n_  
 __illicit__ _adj_ /ɪˈlɪsɪt/  
 __imitative__ _adj_ (Of words) Formed in imitation of a natural sound. _Syn_ echoic, onomatopoeic  
 __immiseration__ _n_ /i-miz-uh-RAY-shuhn/ __1__ The act of making miserable or the state of being made miserable. __2__ Impoverishment.  
@@ -359,6 +368,7 @@ __kung fu__ _n_ /ˈkʌŋ ˈfu, ˈkʊŋ/
 __labyrinthine__ _adj_ Resembling a labyrinth in form or complexity. _Syn_ mazy  
 __laic__ _adj_ Of or relating to the laity. _Syn_ lay, secular  
 __lap__ _vt_ __6__ :dart: _Sports_ To get ahead of (an opponent) in a race by one or more complete circuits of the course, as in running, or by two or more lengths of a pool in swimming.  
+__largesse__ _n_ :es: generosidad  
 __lathe__ _n_  
 __leaf peeper__ _n_ (chiefly informal US) A tourist who visits New England in autumn to see the changing colours of the foliage.  
 __leisure__ _n_  
@@ -419,6 +429,7 @@ __medley relay__
 __meliorism__ _n_ /MEE-lee-uh-riz-um/ _Meliorism_ refers to the belief that the world tends to improve and that humans can aid its betterment.  
 __memento__ _n_ :mega: /muh-MEN-toh/ _Memento_ is a synonym of _souvenir_; it refers to something that is kept as a reminder of a person, place, or thing.  
 __mess tin__ _n_ A portable container for cooking or serving food, originally for military use, and generally of a rounded rectangular form.  
+__miasma__ _n_  
 __microfiche__ _n_ /ˈmaɪ krəˌfiʃ/ A flat sheet of microfilm, containing reproductions of printed or graphic matter.  
 __midriff__  
 __millpond__ _n_ __1__ A pool formed by damming a stream to provide water to turn a millwheel.  
@@ -435,6 +446,7 @@ __Montserrat__ _n_ An island in the Leeward Islands, in the West Indies: British
 __moot__ _vt_  
 __moped__ _n_ _Brit_ A light motorcycle, not over 50cc.  
 __morass__  
+__morrow__ _n_  
 __mother of pearl__ _n_  
 __mountaineering__  
 __mpox__ _n_ (formerly called _monkey pox_) A zoonotic disease especially of central and western Africa that is caused by a poxvirus.  
@@ -474,7 +486,7 @@ __off-putting__ _adj_ :dart: Provoking uneasiness, dislike, annoyance, or repugn
 __offcut__ _n_ /ˈɒfˌkʌt/ A piece of paper, plywood, fabric, etc, remaining after the main pieces have been cut; remnant.  
 __offset__ _v_  
 __ogle__ _v_  
-__oilskin__ _n_  
+__oilskin__ _n_ :two::hammer:  
 __ontic__ _adj_ /ON-tik/ [:scroll: From Greek onto (being)] Having or relating to a real existence.  
 __onus__ _n_ :dart:  
 __ossify__ _v_ /AH-suh-fye/ In general contexts, something that ossifies becomes hardened or conventional and opposed to change. In medical contexts, something that ossifies (such as cartilage) forms or is transformed into bone.  
@@ -561,6 +573,7 @@ __porky__ _adj_ __1__ Of or like pork: _a porky flavor._ __2__ _Derogatory Slang
 __porter__ _n_ __1__ A person employed to carry luggage, parcels, supplies, etc, esp at a railway station or hotel.  
 __possess__ _v_  
 __precede__ _v_ Furnish with a preface or introduction. _Syn_ preface, premise, introduce _She always precedes her lectures with a joke._  
+__preen__ _v_  
 __premier__  
 __preponderance__ _n_ A superiority in numbers or amount. _Syn_ prevalence, extensiveness _The preponderance of the evidence strongly supports his guilt._  
 __preposterous__ _adj_ [:scroll: From Latin praeposterus, which translates literally to “in the wrong order”]  
@@ -626,11 +639,15 @@ __riding hood__ _n_ A type of cloak or hood worn by women who rode horses. This 
 __rife__ _adj_ /raɪf/ (postpositive)  
 __rimming__ _n_ _slang_ A slang term for the act of licking and/or orally stimulating the anus of a sexual partner.  
 __ring-pull__ _n_ _BrE_ A metal strip that must be pulled off the top of a can of drink or food in order to open it.  
+__riptide__ _n_ /ˈrɪpˌtaɪd/  
 __roar__ _n_  
 __rundown__ _n_ :two: __1__ A point-by-point summary.  
 __scullery__ _n_ /ˈskʌl ə ri, ˈskʌl ri/  
 __shortlisted__  
 __side note__ _n_ Additional information aside main point.  
+__skewer<sup>1</sup>__ _n_  
+__skewer<sup>2</sup>__ _vt_  
+__slight__ _adj_ /slaɪt/  
 __slightly__ _adv_ __1__ To a small degree or extent; somewhat. __2__ Slenderly; delicately: _slightly built._  
 __slop out__ _v_ :smiling_imp: (of prisoners) To empty chamber pots and collect water for washing.  
 __sludge__ _n_  
@@ -702,6 +719,7 @@ __sunder__ _v_
 __superannuated__ _adj_ Retired or ineffective because of advanced age. _Syn_ over-the-hill, overaged  
 __superintendent__ _n_ :two: A rank in British police services and in most English-speaking Commonwealth nations. _A park superintendent._  
 __supersede__ _v_ /soo-per-SEED/ _Syn_ replace, displace  
+__supple__ _adj_ /ˈsʌpəl/ __1__ Bending easily without damage.  
 __suppliant__ _n_ One praying humbly for something. _Syn_ petitioner, requester, supplicant  
 __surety__ _n_  
 __surplice__  
