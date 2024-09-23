@@ -59,6 +59,7 @@ __brown sugar__ :dart: _slang_ Heroine.
 __buckle up__  
 __bullshit artist__ :smiling_imp: _rude slang_ A person expert at lies, deception, and hype. Someone who is apt to lie and embellish. _Oh, you can’t trust a word that bullshit artist says._  
 __by all means__ :dart:  
+__by dint of (something)__ Due to something. The largely outdated word “dint” refers to force or effort. _By dint of hard work, I was able to get an A in my math class this semester._  
 __by no means__ Not in any way; not at all; absolutely not.  
 __call of nature__ The urge to urinate or defecate. _I have to attend to the call of nature._  
 __cash flow__  
@@ -166,6 +167,7 @@ __go to the wall__
 __go with (someone or something)__  
 __go with the flow__ To act as others are acting, conforming to common behavior patterns with an attitude of calm acceptance.  
 __golden__  
+__good grief__ An expression of surprise or frustration. _Oh, good grief—my car won’t start again._  
 __good to go__  
 __good-time Charlie__ An affable, lively, and entertaining man who is often or always seeking pleasure or a good time.  
 __goon__  
@@ -249,7 +251,7 @@ __in the bag__ :two: Achieved or won almost as a certainty.
 __in the blink of an eye__  
 __in the hope that__ With the expectation, intention, or desire that (something will happen). _He strove to be well-behaved in prison, in the hope that he would be let out early on parole._  
 __in the house__  
-__in the least__  
+__in the least__ :two::hammer:  
 __in the long run__ Over a relatively long or extended length of time in the future.  
 __in the making__  
 __in the midst of (something)__  
@@ -448,6 +450,7 @@ __near and dear to (one)__
 __neat and tidy__ (neat and clean)  
 __neck and neck__  
 __need to be done__ To be required to be completed or acted upon.  
+__needless to say__ Obviously implied, no explanation needed.  
 __Nervous Nellie__ /nuhr-vuhs NEL-ee/(nervous Nellie/Nelly) Any nervous person, male or female. Someone who is more timid, nervous, or anxious than is normal or reasonable.  
 __nice and (something)__ :five: Very something. Used to emphasize how nice something is because of the particular quality named after “and.” _I love your new house! It’s nice and bright inside!_ _Ah, this lemonade is nice and cold—just the thing for such a hot day._  
 __nip (something) in the bud__  
@@ -471,6 +474,7 @@ __now that I think about it__
 __now that you’re mentioning it__  
 __nowhere to be found__ Unable to be discovered; completely gone or vanished.  
 __nowhere to be sound__  
+__numb out__  
 __odd couple__ A particularly unlikely or mismatched pair of people.  
 __oddly enough__  
 __of (one’s) own accord__  
@@ -557,7 +561,7 @@ __rake in__
 __recoup (something) from (someone or something)__ To recover, regain, or restore something from someone or something. _You’ll have to pay for everything out of pocket, but you can recoup it all from HR after you’re back from the trip._  
 __roast__  
 __rolling stone__  
-__round and round__ (around and around)  
+__round and round__ :two::hammer: (around and around)  
 __rue the day (that something happened)__ To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
 __rule of law__  
 __rules of the road__  
@@ -566,6 +570,7 @@ __rumor has it (that)__ It is being rumored that (something is or will be the ca
 __run the gauntlet__ To be exposed to or forced to endure a series of threats, dangers, criticism, or other problems. Refers to an old military punishment in which one was forced to run between two lines of soldiers while being thrashed with rods or whips. _Medical students often feel that they have to run the gauntlet when they become residents in a hospital._  
 __same old same old__ :two::hammer:  
 __same shit, new wrapping__ Colloquial expression that conveys the idea that something has been superficially changed or repackaged but remains fundamentally the same. It suggests that despite appearances, the underlying issues or qualities have not been altered.  
+__save (one’s) bacon__  
 __scheme for (something)__ To form or contrive a secret or devious plan or conspiracy in order to obtain, achieve, or accomplish something. _We spent the afternoon scheming for a way to get into the elite Hollywood party so we could meet some celebrities._  
 __see (one) in the flesh__ To see one in person who is usually only seen at a distance, especially through a medium such as film, music, theater, etc. _After years of idolizing the singer, it was a bit anticlimactic seeing her in the flesh._  
 __seep in(to something)__  

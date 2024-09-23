@@ -15,6 +15,7 @@ __au pair__ _n_ A young foreigner who provides childcare for a family in exchang
 __audacity__ _n_ :dart: Fearless daring; intrepidity. _Syn_ temerity  
 __ayahuasca__  
 __bait__ _v_ :smiling_imp: __2__ To entice or provoke, especially by trickery or strategy: _He baited me into selling him my bike by saying how much I deserved a better one._  
+__baize__ _n_ A bright green fabric napped to resemble felt; used to cover gaming tables. _Baize table._ :es: tapete  
 __barbiturate__ _n_ :es: barbitúrico  
 __bardolatry__ _n_ [:scroll: Coined by George Bernard Shaw from bard (poet) + -latry (worship)] _facetious_ Idolatry or excessive admiration of William Shakespeare.  
 __bark__ _v_ __2__ To rub off the skin of; abrade: _barked my shin on the car door._  
@@ -24,6 +25,7 @@ __bedroll__ _n_ /ˈbɛdˌrəʊl/ A portable roll of bedding, such as a sleeping 
 __bedsit__ _n_ A furnished sitting room containing sleeping accommodation and sometimes cooking and washing facilities. :es: estudio amueblado, habitación amueblada _Syn_ bedsitter, bedsitting room, bed-sitting room  
 __bell boot__ _n_  
 __beseech__ _v_ :es: suplicar  
+__best boy__ _n_ The chief assistant to the gaffer on a movie or television set.  
 __biddy__ _n_ /ˈbɪdɪ/ __1__ A dialect word for chicken, hen. __2__ _informal offensive_ A woman, esp an old gossipy or interfering one.  
 __biennial__ _adj_ Happening every second year. _Syn_ biyearly  
 __big game__ _n_ __1__ Large animals or fish hunted or caught for sport.  
@@ -59,6 +61,7 @@ __brow__ _n_ The projecting upper edge of a steep place. _Syn_ top, summit, peak
 __brushwood__ _n_  
 __bucket shop__ _n_  
 __bulimia nervosa__ _n_  
+__bumboat__ _n_ A small boat used to peddle provisions to ships anchored offshore.  
 __buoy__ _n_  
 __bureau__ _n_ :two::hammer: (_n pl_ bureaus, bureaux)  
 __burin__ _n_  
@@ -135,6 +138,7 @@ __creche__ _n_ :three::hammer:
 __crèche__ _n_ :two: __3__ _Brit._ Say nursery.  
 __criminal offence__ _n_ An act punishable by law; usually considered an evil act. _Syn_ crime, criminal offense, law-breaking, offense, offence  
 __crisis intervention__ _n_  
+__croft__ _n_  
 __cross examine__ _v_ :two::hammer:  
 __cruise missile__ _n_  
 __cupboard__ _n_ /ˈkʌb ərd/ A closet with shelves for dishes, cups, food, etc.  
@@ -172,16 +176,20 @@ __drapery__ _n_ :two::hammer: /ˈdreɪpərɪ/
 __drollery__ _n_ A quaint and amusing jest. _Syn_ waggery  
 __drop handlebars__ _n_ Low curved handles on a bicycle.  
 __duck-footed__ _adj_  
+__duodecimo__ _n_  
 __dusky__ _adj_ Characterized by little or inadequate light; shadowy. _Syn_ twilight, twilit  
 __duster__ _n_ :dart::camera: A loose coverall (coat or frock) reaching down to the ankles. _Syn_ gaberdine, smock  
 __duty solicitor__ _n_ (duty counsel, duty lawyer) A solicitor whose services are available to a person either suspected of, or charged with, a criminal offence free of charge (pro bono), if that person does not have access to a solicitor of their own and usually if it is judged by a means test that they cannot afford one. The system is operative in several Commonwealth countries, including the United Kingdom, Australia, New Zealand and Canada.  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
+__egret__ _n_  
 __elocution__ _n_  
+__emaciated__ _adj_ A very thin especially from disease or hunger or cold.  
 __emphasis__ _n_ :two::hammer: /ˈɛm fə sɪs/ /ˈɛmfəsɪs/  
 __emphasize__ _vt_ /ˈɛm fəˌsaɪz/  
 __end-stage__ _adj_ /ĕnd′stāj′/ Of or relating to the final phase of a terminal disease.  
 __endure__ _v_ _I could hardly even endure my own reflection in the mirror._  
 __enlightened__ _adj_ _Enlightened despot._  
+__ensconce__ _v_  
 __epaulettes__ _n_  
 __Equity__ _n_ :astonished: /ˈɛkwɪtɪ/ _Theatre_ The actors’ trade union. Full name: Actors’ Equity Association  
 __equivocacy__ _n_ /i-KWIV-uh-kuh-see/ The quality of being deliberately ambiguous or vague.  
@@ -215,6 +223,7 @@ __fire grate__ _n_ (firegrate, fire-grate) A grate used to hold the fuel in dome
 __firebomb<sup>1</sup>__ _n_ A bomb used to start a fire; an incendiary bomb.  
 __firebomb<sup>2</sup>__ _v_ To attack with firebombs.  
 __firebrand__  
+__firsthand__  
 __flapper__ _n_  
 __flash flood__ _n_ (flashflood) A sudden flood of great volume, usually caused by heavy rain.  
 __flat-footed__ _adj_  
@@ -235,6 +244,7 @@ __flub<sup>2</sup>__ _v_ :dart: To blunder or make an embarrassing mistake. Make
 __flyover__ _n_  
 __flywheel__ _n_ :es: volante  
 __foist__ _v_ /FOIST/ _Foist_, which is almost always used with _on_ or _upon_, is used when someone forces another person to accept something, usually something that is not good or is not wanted. Foist can also mean “to pass off as genuine or worthy.”  
+__folio__ _n_  
 __folksy__ _adj_  
 __folly__ _n_ (construction)  
 __foment__ _v_ /FOH-ment/  
@@ -262,6 +272,7 @@ __funkhole__
 __fusty__ _adj_ /FUSS-tee/ Someone or something described as fusty is rigidly old-fashioned. Fusty is also used as a synonym of musty to describe things that are full of dust and unpleasant, stale odors.  
 __gabby__ _adj_ Tending to talk excessively. _Syn_ chatty, garrulous, loquacious, talkative, talky  
 __gadabout__ _n_ /GAD-uh-bout/ A gadabout is a person who flits about in social activity, as by going to many places and social events for pleasure.  
+__gaffer__ _n_ __1__ [:scroll: Probably alteration (influenced by _grandfather_) of _godfather_] An electrician in charge of lighting on a movie or television set.  
 __galvanize__  
 __Gamblers Anonymous__ _n_ (GA) An organization that holds group meetings to help people who are addicted to gambling.  
 __gamekeeper__ _n_ /ˈgeɪmˌki pər/ A person employed, as on an estate or game preserve, to prevent poaching and provide for the conservation of game.  
@@ -292,6 +303,7 @@ __gruntled__ _adj_ /ˈɡrʌntəld/ _informal_ Happy or contented; satisfied.
 __guardian__ _n_ (tutor?)  
 __gullible__ _adj_ :smiling_imp: Easily deceived or duped. _Syn_ fleeceable, green  
 __gutsy__ _adj_ Marked by courage and determination in the face of difficulties or danger; robust and uninhibited. _Syn_ plucky  
+__guttersnipe__ _n_  
 __hammy__ _adj_ /ˈhæm i/ Characterized by a highly exaggerated theatricality: _a hammy actor; a hammy performance._  
 __hands-off__ _adj_ Characterized by nonintervention: a hands-off foreign policy.  
 __handyman__ _n_ :es: manitas  
@@ -303,6 +315,7 @@ __hatha yoga__ _n_ A form of yogic exercise that emphasizes specific postures in
 __haversack__ _n_  
 __havoc__ _n_  
 __hay fever__ _n_ :es: alergia al polen  
+__heady__ _adj_  
 __hearth__ _n_ The floor of a fireplace, usually extending into a room and paved with brick, flagstone, or cement. _Syn_ fireside  
 __heath__ _n_  
 __heathen<sup>1</sup>__ _n_ :three: __1__ _Offensive_ __a__ An adherent of a religion that does not worship the God of Judaism, Christianity, or Islam. _Heathens like me._ __b__ Such persons considered as a group.  
@@ -318,6 +331,7 @@ __hitherto__ _adv_ :two: Until this time.
 __holdall__ _n_  
 __holidaymaker__ _n_ _Chiefly British_ One who goes on vacation. Someone who travels for pleasure. _Syn_ tourer, tourist  
 __holistic__ _adj_  
+__holystone__ _n_ A piece of soft sandstone used for scouring the wooden decks of a ship.  
 __honeybee__ _n_ /ˈhʌnɪˌbiː/  
 __hookah__ _n_ (hooka) A water pipe with a long flexible tube by which the smoke is drawn through a jar of water and thus cooled.  
 __hoopla__ _n_ /HOO-plah/ _Hoopla_ refers to talk or writing that is designed to get people excited about or interested in something, often with the implication that the person using the word does not find the thing exciting or interesting.  
@@ -362,6 +376,7 @@ __jumar__ _n_ /ˈdʒuːmə/
 __jurisprudence__ _n_ /joor-us-PROO-dunss/ _Jurisprudence_ is a formal word that typically refers to the science or philosophy of law, or to a system or body of law.  
 __justice of the peace__ _n_ (JP) A local magistrate empowered chiefly to administer summary justice in minor cases, to commit for trial, and to administer oaths and perform marriages.  
 __keen__ _adj_ (keener, keenest)  
+__keepsake__ _n_  
 __Kitemark__ _n_ _BrE_ The official mark of quality and reliability, in the form of a kite, on articles approved by the British Standards Institution.  
 __kudos__ _n_ /KOO-dahss/  
 __kung fu__ _n_ /ˈkʌŋ ˈfu, ˈkʊŋ/  
@@ -371,6 +386,7 @@ __lap__ _vt_ __6__ :dart: _Sports_ To get ahead of (an opponent) in a race by on
 __largesse__ _n_ :es: generosidad  
 __lathe__ _n_  
 __leaf peeper__ _n_ (chiefly informal US) A tourist who visits New England in autumn to see the changing colours of the foliage.  
+__leathern__ _adj_ Made of, covered with, or resembling leather.  
 __leisure__ _n_  
 __lemony__ _adj_ :astonished: /ˈlɛmənɪ/  
 __lentitude__ _n_ /LEN-tuh-tood/tyood/ Slowness or sluggishness.  
@@ -380,6 +396,7 @@ __Lewis gun__
 __liable__ _adj_  
 __liaise__ _v_ (usually foll by: _with_) To communicate and maintain contact (with). _They can put you in touch with solicitors, and liaise with police._  
 __lidless__ _adj_ Watchful; vigilant. _Syn_ sleepless  
+__lifeline__  
 __lightsaber__ _n_  
 __limerence__ _n_ The state of being obsessively infatuated with someone, usually accompanied by delusions of or a desire for an intense romantic relationship with that person.  
 __limestone__  
@@ -405,6 +422,7 @@ __lookout__ _n_ _Lookouts were posted._
 __lore__ _n_ Accumulated facts, traditions, or beliefs about a particular subject. _Syn_ traditional knowledge  
 __loss aversion__ _n_  
 __Lothario__ _n_ (lothario)  
+__lovelorn__ _adj_ /ˈlʌvˌlɔːn/ Miserable because of unrequited love or unhappiness in love.  
 __low-end__ _adj_ Cheaper and, typically, of lower quality compared to the leading products or brands. Used before a noun. _Because he’s only willing to pay for low-end supplies, we’ve had nothing but problems with all our equipment._  
 __LSD__ _n_ (acid) _(Recreational Drugs)_ Lysergic acid diethylamide; a crystalline compound prepared from lysergic acid, used in experimental medicine and taken illegally as a hallucinogenic drug. Informal name (as an illegal hallucinogen): acid.  
 __lucrative__ _adj_ :two::hammer: /LOO-kruh-tiv/  
@@ -434,6 +452,7 @@ __microfiche__ _n_ /ˈmaɪ krəˌfiʃ/ A flat sheet of microfilm, containing rep
 __midriff__  
 __millpond__ _n_ __1__ A pool formed by damming a stream to provide water to turn a millwheel.  
 __miniscule__ _adj_ :astonished:  
+__misanthrope__ _n_ (misanthropist) A person who dislikes or distrusts other people or mankind in general.  
 __misbegotten__ _adj_ :smiling_imp: /ˌmɪs bɪˈgɒt n/ (misbegot)  
 __mise-en-scène__ _n_ /meez-ahn-SEN/ _Mise-en-scène_ can refer to the setting of a play, movie, etc., or it can refer to the physical or social setting in which something real occurs or develops.  
 __misnomer__  
@@ -449,6 +468,7 @@ __morass__
 __morrow__ _n_  
 __mother of pearl__ _n_  
 __mountaineering__  
+__mourning band__  
 __mpox__ _n_ (formerly called _monkey pox_) A zoonotic disease especially of central and western Africa that is caused by a poxvirus.  
 __mundane__ _adj_  
 __mushroom__ _vi_ __1__ To multiply, grow, or expand rapidly: _The population mushroomed in the postwar decades._  
@@ -487,6 +507,7 @@ __offcut__ _n_ /ˈɒfˌkʌt/ A piece of paper, plywood, fabric, etc, remaining a
 __offset__ _v_  
 __ogle__ _v_  
 __oilskin__ _n_ :two::hammer:  
+__omnibus__ _n_ __1a__ A large horse-drawn public conveyance, especially of the late 1800s.  
 __ontic__ _adj_ /ON-tik/ [:scroll: From Greek onto (being)] Having or relating to a real existence.  
 __onus__ _n_ :dart:  
 __ossify__ _v_ /AH-suh-fye/ In general contexts, something that ossifies becomes hardened or conventional and opposed to change. In medical contexts, something that ossifies (such as cartilage) forms or is transformed into bone.  
@@ -585,6 +606,7 @@ __pressurize__ _vt_
 __pricey__ _adj_ /ˈpraɪ si/ (pricy)  
 __prioritize__ _v_ _We’ll probably go on prioritizing._  
 __prissy__ _adj_ :es: remilgado  
+__privet__ _n_ /ˈprɪv ɪt/ _Clipped privet hedges._  
 __process server__ _n_ :dart::two: A person who serves subpoenas or other legal documents, esp. those requiring appearance in court.  
 __profligate__ _adj_ :dart:  
 __proliferate__ _v_ /pruh-LIF-uh-rayt/ To increase quickly in number or amount.  
@@ -618,6 +640,8 @@ __reckless__ _adj_
 __recompense__ _n_  
 __red-hot__ _adj_ __2__ Heated, as with excitement, anger, or enthusiasm: _a red-hot speech._ _The red-hot property market._  
 __redleg__ _n_ /ˈrɛdˌlɛɡ/ _derogatory Caribbean_ A poor White person.  
+__redolent__  
+__redoubtable__ _adj_ :es: temible  
 __reef__ _n_ __3__ _Nautical_ A portion of a sail gathered in and secured to lessen the area exposed to the wind.  
 __refurbish__ _vt_  
 __refuse__ _v_ /rɪˈfjuːz/  
@@ -641,7 +665,10 @@ __rimming__ _n_ _slang_ A slang term for the act of licking and/or orally stimul
 __ring-pull__ _n_ _BrE_ A metal strip that must be pulled off the top of a can of drink or food in order to open it.  
 __riptide__ _n_ /ˈrɪpˌtaɪd/  
 __roar__ _n_  
+__rotund__ _adj_ __1__ Rounded in figure; plump. _Syn_ fat  
 __rundown__ _n_ :two: __1__ A point-by-point summary.  
+__saunter__  
+__sconce__ _n_ __1__ A small defensive earthwork or fort.  
 __scullery__ _n_ /ˈskʌl ə ri, ˈskʌl ri/  
 __shortlisted__  
 __side note__ _n_ Additional information aside main point.  
@@ -729,6 +756,7 @@ __switchboard__
 __swivel__ _v_  
 __tariff__ _n_ /ˈtær ɪf/  
 __taunt__ _vt_ /tɔːnt/ __1__ To provoke or deride with mockery, contempt, or criticism. __2__ To tease; tantalize.  
+__teetotaler__ _n_ (teetotaller)  
 __tire iron__ _n_ A short length of steel with one end flattened to form a blade, used to remove tires from wheel rims.  
 __transient__ _adj_ _Temporary conduction block can occur as a result of transient edema._  
 __trump__ _v_ /trʌmp/  
@@ -738,6 +766,8 @@ __unassailable__
 __unassuming__ _adj_  
 __unattainable__ _adj_ _Unattainable love._  
 __unconscionable__ _adj_ :smiling_imp:  
+__unduly__ _adv_  
+__unruly__ _adj_ _Unruly hair._  
 __vilify__ _vt_ :two::hammer: /VIL-uh-fye/  
 __virago__ _n_ /vɪˈrɑ goʊ, -ˈreɪ-/  
 __virid__ _adj_ /VIR-id/ Bright green.  
@@ -757,6 +787,7 @@ __weed__ _v_
 __weir__ _n_ :two::hammer:  
 __wellingtons__  
 __Wembley__ _n_ :mega:  
+__wharf__ _n_ :five: __1__ A pier where ships or boats are tied up and loaded or unloaded. :es: muelle, embarcadero  
 __white spirit__ _n_  
 __whizz-bang__ _adj, n_  
 __wholefood__ _n_ __a__ Food that has been refined or processed as little as possible and is eaten in its natural state, such as brown rice, wholemeal flour, etc. __b__ (as modifier): _a wholefood restaurant._  
