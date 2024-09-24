@@ -20929,7 +20929,8 @@ __virtually__ _adv_ :astonished::two: __1__ In fact or to all purposes; practica
 __vis-à-vis<sup>1</sup>__ _prep_ __1__ In relation to; regarding. __2__ Face to face with; opposite.  
 __vis-à-vis<sup>2</sup>__ _adv_ Face to face; opposite.  
 __vis-à-vis<sup>3</sup>__ _adj_ Face to face; opposite.  
-__visage__ _n_ :two::mega: __1__ The face or facial expression of a person; countenance. __2__ Appearance; aspect: _the bleak visage of winter._  
+__visa__ _n_ An official authorization appended to a passport, permitting entry into and travel within a particular country or region subject to certain conditions, such as length of time and purpose of the visit.  
+__visage__ _n_ :three::mega: /VIZ-ij/ __1__ The face or facial expression of a person; countenance. __2__ Appearance; aspect: _the bleak visage of winter._  
 __visceral__ _adj_ :three::hammer: /VIS-uhr-uhl/ /VISS-uh-rul/ _Visceral reaction._  
 __viscount__ _n_ :mega:  
 __viscus__ _n_ :astonished: Singular of viscera. A main organ that is situated inside the body. _Syn_ internal organ  
@@ -20938,7 +20939,7 @@ __visitation__ _n_ :five::hammer:
 __visitor__  
 __vista__ _n_ :three::hammer: (vistas)  
 __vital__ _adj_  
-__vitiate__ _v_ :two: To corrupt morally; debase. _Syn_ debauch, deprave, pervert _Ten minutes with these ruffians would vitiate the most honorable gentlemen._ _It vitiated the siege._  
+__vitiate__ _v_ :dart::three: /VISH-ee-ayt/ To _vitiate_ something is to ruin it or render it ineffective. To corrupt morally; debase. _Syn_ debauch, deprave, pervert _Ten minutes with these ruffians would vitiate the most honorable gentlemen._ _It vitiated the siege._ _A single inaccuracy in the spreadsheet that supported the data vitiated the entire proposal._  
 __viticulture__ _n_  
 __vitiligo__ _n_ :two: An acquired skin disease characterized by patches of unpigmented skin (often surrounded by a heavily pigmented border). _Syn_ leucoderma  
 __vitreous__ _adj_ Of, relating to, resembling, or having the nature of glass. _Syn_ glassy _The lake was so calm it looked vitreous in the pre-dawn light._  
@@ -20947,10 +20948,12 @@ __vitriolic__ _adj_ :four: Bitterly scathing; caustic. _Syn_ acid, blistering, v
 __vituperate__ _v_  
 __vituperation__ _n_ :four: Abusive or venomous language used to express blame or censure or bitter, deep-seated ill will. _Syn_ invective, vitriol, denunciation, abuse, insults  
 __vituperative__  
+__vituperatory__ _adj_ :smiling_imp: /vy-TOO/TYOO-pruh-tor-ee/ [:scroll: From Latin vituperare (to blame), from vitium (fault) + parare (to make or prepare)] Criticizing bitterly, scathing, abusive.  
 __vivacious__ _adj_ :two::mega: /vuh-VAY-shus/ Someone or something described as vivacious is happy and lively in an appealing way: _a charming and vivacious host._  
 __vivacity__ _n_  
 __vivarium__ _n_ A place, such as an enclosure or facility, used for keeping living animals for observation or research.  
 __vivid__ _adj_  
+__vivisection__ _n_  
 __vixen__ _n_ __2a__ A woman regarded as sexually alluring.  
 __vizier__ _n_ :two::hammer:  
 __vocab__  
@@ -20992,7 +20995,7 @@ __Vulcan<sup>1</sup>__ _n_ /VUHL-kuhn/ __1__ A blacksmith or a metalworker. __2_
 __Vulcan<sup>2</sup>__ _adj_ Extremely logical, unemotional, etc.  
 __vulcanic__ _adj_ /vuhl-KAN-ik/ __1__ Relating to volcanoes. __2__ Fiery; explosive; full of anger, energy, etc.  
 __vulcanize__ _v_ :two: /VUHL-kuh-nyz/ [:scroll: After Vulcan, the Roman god of fire, metalworking, etc.] __1__ _vt_ To harden or improve, for example, rubber by application of sulfur and heat. To improve the strength, resiliency, and freedom from stickiness and odor of (rubber, for example) by combining with sulfur or other additives in the presence of heat and pressure. __2__ _vi_ To become hardened.  
-__vulnerable__ _adj_  
+__vulnerable__ _adj_ :two::hammer: /VUL-nuh-ruh-bul/  
 __vulnerary<sup>1</sup>__ _n_ :astonished: From Latin vulnus (wound) + -ary (relating to). Something used for the healing of wounds.  
 __vulnerary<sup>2</sup>__ _adj_ :astonished: Useful in healing of wounds.  
 __vulpine__ _adj_ /VUL-pine/  
@@ -21002,7 +21005,7 @@ __wacko<sup>2</sup>__ _adj_
 __wad__ _n_  
 __wad<sup>1</sup>__ _v_ :seven::hammer: (wadded, wadding) _He wadded up the towel._  
 __wad<sup>2</sup>__ _n_ _Wads of cash._  
-__waddle__ _v_ :three::hammer: (waddling) _Two chubby guys waddling around the pool table._  
+__waddle__ _v_ :four::hammer: (waddling) _Two chubby guys waddling around the pool table._  
 __wade__ _v_ :eight::hammer: (waded) _Do not swim or wade in fresh water in developing or wherever the sanitation is poor._  
 __wader__ _n_ _usu in pl_ (waders) _Chest waders._  
 __wadi__ _n_ (in certain Arabic-speaking countries) A valley, ravine, or channel that is dry except in the rainy season.  
@@ -21030,7 +21033,7 @@ __wait up__ _phr v_ :two: To not go to sleep until someone comes home.
 __waitlist<sup>1</sup>__ _n_ :two: /ˈweɪtˌlɪst/ A waiting list.  
 __waitlist<sup>2</sup>__ _vt_ :two: To place on a waiting list; to create a waiting list for.  
 __waive__ _v_ :six::hammer: (waived)  
-__waiver__ _n_ :three::hammer: (waivers)  
+__waiver__ _n_ :four::hammer: (waivers)  
 __wakame__ _n_  
 __wake__ _n_ :six::hammer: _At wakes._ _In the wake of the pandemic._ _Irish wake._ :es: velatorio  
 __wakeboarding__  
@@ -21103,6 +21106,7 @@ __warm fuzzies__ _n pl_ _informal_ A feeling or happiness or sentimentality. _Go
 __warmer__ _n_ _Fragance warmer._  
 __warmonger__ _n_ A person who advocates war or warlike policies. _Syn_ militarist  
 __warmongering__ _n_  
+__warp speed__ _n_ :dart: [:scroll: The expression was popularized on the science-fiction show _Star Trek_ in the 1960s] __1__ (science fiction) A hypothetical, extremely rapid, speed, resulting from entering a separate dimension, termed hyperspace; much faster than the speed of light. __2__ (by extension, informal) Any very fast speed. _A brain going at warp speed._  
 __warrant<sup>1</sup>__ _n_ :three: If you watch cop shows, you know that a warrant is something police need to get into your house — a permission slip from a judge. It’s a noun! It’s a verb! It’s a word that warrants our attention! As a noun, it’s the piece of paper they show you through the keyhole during an investigation. It’s also a reason for doing something, or a promise (think of the warranty on your new car, the promise that it’ll work for a certain amount of time).  
 __warrant<sup>2</sup>__ _v_ :seven: As a verb, it means to make something seem reasonable or necessary, such when the ticking suitcase warrants bringing in the bomb squad, or when the teenager’s sneaking in late again warrants a stricter curfew. _The situation warranted it._  
 __warren__ _n_ :two::hammer: _A warren of hares._ _It was like a rabbit warren._  
@@ -21145,6 +21149,7 @@ __water flumes__ _n_
 __water main__ _n_ _Broken water mains._  
 __water pill__  
 __water seepage__  
+__water sports__ _n_ __2__ _slang_ Sexual practices that involve urination.  
 __water<sup>1</sup>__ _n_ :mega:  
 __water<sup>2</sup>__ _v_ _Water the plants._  
 __waterbed__ _n_ :two::hammer:  
@@ -21192,7 +21197,7 @@ __webbing__ _n_ _Graphics-oriented brainstorming techniques: mind mapping, clust
 __wedding anniversary__ _n_ (not “marriage anniversary”)  
 __wedding band__ _n_ :two::hammer:  
 __wedge<sup>1</sup>__ _n_ :three::hammer: _(golf) Wedge play._ _Lemon wedges._  
-__wedge<sup>2</sup>__ _v_ :three::hammer: (wedged) :es : acuñar  
+__wedge<sup>2</sup>__ _vt_ :four::hammer: (wedged) __1__ To split or force apart with or as if with a wedge: _wedged the board away from the stud; neighbors who were wedged apart by a dispute._ :es : acuñar  
 __wedgie__  
 __wedhe issue__  
 __wedlock__ _n_ :two: The state of being married; matrimony.  
@@ -21202,7 +21207,7 @@ __wee<sup>1</sup>__ _adj_ :seven: __1__ _chiefly Scot_ Very small. Little; very 
 __wee<sup>2</sup>__ _n_  
 __weed out__ _phr v_ :dart::five: To get rid of unwanted things or people from a group.  
 __weed<sup>1</sup>__ _n_ _Orcutt, 50, raises goats, which she hires out as living weed whackers._  
-__weed<sup>2</sup>__ _v_ :three::hammer: (weeding) _It’s like weeding a garden._  
+__weed<sup>2</sup>__ _v_ :four::hammer: (weeding) _It’s like weeding a garden._  
 __weedeater__  
 __weeding__ _n_ The removal of weeds. _Keep going until you get into the weeding and organizing of focus that make up the next stage._  
 __weekend__ _n_  
@@ -21215,7 +21220,7 @@ __weigh__ _v_ :two::mute:[wei~~gh~~] :es: pesar; sopesar, considerar
 __weight__ _n_ :two::mute:[wei~~gh~~t] _You took some weight off your shoulders._  
 __weightless__  
 __weighty__ _adj_ _His weighty agenda._  
-__weir__ _n_ _Crenelated weir._  
+__weir__ _n_ :three::hammer: _Crenelated weir._  
 __weirdo__  
 __welfare__ _n_ :three: The health, happiness, and fortunes of a person or group. _Syn_ well-being, health, good health, happiness _They don’t give a damn about the welfare of their families._ :es: bienestar, prosperidad  
 __well out__ _v_  
@@ -21235,6 +21240,7 @@ __wellhead__
 __welling up__  
 __welling<sup>1</sup>__ _n_ :two::hammer: _Rob felt a welling of affection._  
 __welling<sup>2</sup>__ _v_ _His breath welling into my face._  
+__wellingtons__  
 __wellspring__ _n_ :two: __1__ The source of a stream, spring, etc.; fountainhead. __2__ A source of abundant and continual supply. _A wellspring of knowledge._  
 __Welsh__ _n_ :two: __1__ The people of Wales.  
 __welsh__ _v_ _informal_ :two: (welch) __1__ To swindle a person by not paying a debt or wager: welsh on a bet. __2__ To fail to fulfill an obligation.  
@@ -21245,6 +21251,7 @@ __welted__
 __welter__ _n_ :seven: A confused multitude of things. A confused mass; a jumble. _Syn_ clutter, jumble, mare’s nest, muddle, smother _Surrounded by a welter of papers and magazines, Susan began work on her scrapbook._ _A welter of data._ _A welter of chaos._ _The welter of different versions._ _A welter of ice._ _A welter of objects._  
 __welterweight__  
 __welts__ _n_ :four::hammer: _A lot of the boys had bumpy welts of acne._  
+__Wembley__ _n_ :mega:  
 __wen__ _n_ :camera::two::hammer:  
 __wend__ _v_ :six: /wɛnd/ (wending) __1__ To direct one’s course. To move or travel slowly somewhere. _Syn_ travel _Hikers wend along the marked trails to the top of the mountain, which provides a panoramic view of the area towns._ _Leo wended his way home through the wet streets._ _She had to wend her way through the crowd._ __2__ To proceed on. To proceed or go. _Syn_ meander, make one’s way, wind one’s way _The legal battle wends its way through the federal appeals process._  
 __werewolf__ _n_ :three::hammer: /WAIR-woolf/ :es: hombre lobo  
@@ -21266,7 +21273,7 @@ __whale<sup>2</sup>__ _v_ :mute:[w~~h~~ale]
 __whammy__ _n_ _slang_ :two: An object or power that one uses to cause often evil events. _Syn_ charm, evil eye, magic, spell _A double whammy of injuries._  
 __whanged__ _v_ :two::hammer:  
 __whanging__  
-__wharf__ _n_ :nine: (wharves) __1__ A pier where ships or boats are tied up and loaded or unloaded. _Among factories and wharves._ _A slatted building perched atop a wharf._ :es: muelle, embarcadero  
+__wharf__ _n_ :nine::m: (wharves) __1__ A pier where ships or boats are tied up and loaded or unloaded. _Among factories and wharves._ _A slatted building perched atop a wharf._ :es: muelle, embarcadero  
 __wharfage__ _n_ _Syn_ pier, dock  
 __what’s the haps?__  
 __what<sup>1</sup>__ _pron_ :mute:[w~~h~~at]  
@@ -21347,6 +21354,7 @@ __white elephant__ _n_ :two: A possession that provides few benefits and is an i
 __white hole__ _n_  
 __white line__ _n_ (appliances)  
 __white paper__ _n_ :two::hammer:  
+__white spirit__ _n_  
 __white supremacist__ _n_ One who believes that white people are racially superior to others and should therefore dominate society.  
 __white tie__ _n_ (vs _black tie_)  
 __white whale__ _n_ Small northern whale that is white when adult.  
@@ -21368,6 +21376,7 @@ __whitlow__ _n_ A purulent infection at the end of a finger or toe in the area s
 __whittle__ _v_ :eight::hammer: (whittled, whittling) _The overwhelming advantage has been whittled down._  
 __whizbang<sup>1</sup>__ _n_ [:scroll: The term has its origin in the onomatopoeic representation of the sound made by a firearm or firework. It was popularized in WWI as high-speed shells were called whizbangs. It was also the name given to a rocket launcher used by the US Army during WWII.] __1__ Someone or something extraordinarily successful. __2__ Someone or something flashy, impressive, technologically innovative, etc. __3__ A firework that makes whizzing sounds and loud bangs.  
 __whizbang<sup>2</sup>__ _adj_ __1__ Highly successful or talented. __2__ Flashy, impressive, fast-paced, loud, etc.  
+__whizz-bang__ _adj, n_  
 __whizz<sup>1</sup>__ _n_ :two::hammer: (whizzes) _Asians are generally thought to be math whizzes compared to other ethnic groups._  
 __whizz<sup>2</sup>__ _v_ :two::hammer:  
 __whizzer__ _adj_ Something notable of its kind: such as an outstandingly attractive or able person.  
@@ -21380,6 +21389,7 @@ __whole number__
 __whole<sup>1</sup>__ _adj_ :mute:[~~w~~hole]  
 __whole<sup>2</sup>__ _n_ :mute:[~~w~~hole]  
 __whole<sup>3</sup>__ _adv_ :mute:[~~w~~hole] _informal_ Entirely; wholly: _a whole new idea._  
+__wholefood__ _n_ __a__ Food that has been refined or processed as little as possible and is eaten in its natural state, such as brown rice, wholemeal flour, etc. __b__ (as modifier): _a wholefood restaurant._  
 __wholeheartedly__ _adv_ :three::hammer:  
 __wholesale__ _adj, adv, n, v_ :six: Use the adjective wholesale to describe something that’s done on a big, broad scale, like wholesale changes made by a new government that affect an entire country. It’s pretty common to see the phrase “wholesale destruction,” especially when historians are talking about the overwhelming effects of war or ecological disasters. When wholesale is a verb, it has a very different meaning — to sell things in bulk, usually to someone who is going to sell it again at a higher retail price. The earliest meaning of the word was “in large quantities,” combining whole and sale into the phrase “by whole sale.” _Russia stands for wholesale orruption._ _The wholesale burning of villages._ _The largest wholesale jewelry center open to the public._  
 __wholesaler__ _n_ :two: Someone who buys large quantities of goods and resells to merchants rather than to the ultimate customers. _Syn_ jobber, middleman  
@@ -21403,7 +21413,7 @@ __why on earth__
 __Wi-Fi__  
 __wicca__ _n_ (Wicca) Witchcraft, esp. benevolent, nature-oriented practices derived from pre-Christian religions.  
 __wick__ _n_ :three::hammer: _Curiosity is the wick in the candle of learning._ _A wetted wick._  
-__wicked__ _adj_ :three::hammer: /ˈwɪkɪd/  
+__wicked__ _adj_ :four:s:smiling_imp::hammer: /ˈwɪkɪd/  
 __wickedly__  
 __wicker__ _n_ :three::hammer: _Wicker chair._ _They sat in wicker rockers._ :es: mimbre  
 __wicket__ _n_ :two: /ˈwɪkɪt/ __5__ _(Cricket)_ Equipment consisting of a set of three stumps topped by crosspieces; used in playing cricket.  
@@ -21461,6 +21471,7 @@ __wind up__ _phr v_ :three::hammer: _We eventually wind up with that code._
 __wind-up__ _adj_ _It’s a wind-up toy._  
 __windbreaker__ _n_  
 __winded__ _adj_ :two::dart: Out of breath, as from strenuous exercise. _Syn_ pursy, blown _After crossing the finish line, the winded runner fell to the ground and lay there panting._  
+__windjammer__ _n_ :es: buque de vela (grande y veloz)  
 __windlass__ _n_ :two::hammer:  
 __window dressing__  
 __window sash__ _n_  
@@ -21485,7 +21496,7 @@ __wingspan__ _n_
 __wingtips__  
 __winking__ _v_  
 __winningest__ _adj informal_ /ˈwɪn ɪŋ ɪst/ __1__ Winning most often: _the winningest coach in college basketball._ __2__ Most winning or charming: _the winningest smile in town._  
-__winnow__ _v_ :five::hammer: (winnowed, winnowing) [:scroll: Beginning as _windwian_ in Old English, winnow first referred to the removal of chaff from grain by a current of air.] _That is why we have the school, to winnow the chaff from the wheat._ _Nominations are winnowed down to 10 finalists._  
+__winnow__ _v_ :six::hammer: (winnowed, winnowing) /WIN-oh/ [:scroll: Beginning as _windwian_ in Old English, winnow first referred to the removal of chaff from grain by a current of air.] _That is why we have the school, to winnow the chaff from the wheat._ _Nominations are winnowed down to 10 finalists._  
 __winsome__ _adj_ :three: /WIN-sum/ Pleasing or cheerful. Sweetly or innocently charming; winning; engaging: _a winsome smile._ _The interviewers all remarked on the candidate’s winsome personality, which made her stand out among the other qualified job applicants._  
 __winter__ _v_ :three::hammer: (wintering) _Explorers wintered in the neighborhood in 1805._  
 __winterfest__ _n_ Any of various winter festivals.  
@@ -21518,14 +21529,14 @@ __wishful__ _adj_ _A wishful thought._
 __wishing well__ _n_ _A well or pool of water supposed to grant the wish of one who tosses a coin into it._ :es: pozo de los deseos  
 __wishy-washy__ _adj_ :four: __1__ _informal_ Irresolute, indecisive, or wavering. _Right now is not the time to be wishy-washy about this. We need to act, and now! Martha always gets so wishy-washy when I ask her to make a decision about the project._ __2__ _informal_ Spineless, weak-willed, or ineffectual; lacking courage, resilience, or strength of character. _He always talks big when we’re on our own, but he turns into a wishy-washy wimp whenever the boss calls him up on something. The senator was elected for his strength and determination, but he’s proven to be very wishy-washy in office._ __3__ _informal_ Weak, watery, or thin. _I don’t know why you drink this wishy-washy beer. Why not get something with a bit more kick to it, something you can actually taste?_  
 __wisk__ _v_  
-__wisp__ _n_ :eight: __1__ A thin, light, delicate, or fibrous piece or strand, such as a streak of smoke or a lock of hair. _A wisp of dust._ _Wisps of her hair had fallen loose from her barrette._ _Wisps of rain._ _A wisp of a mustache._ __2__ _Agriculture_ A small bundle, as of hay or straw. __3__ Anything slender and delicate: _a wisp of a girl._ __4__ A mere suggestion or hint. __5__ _Zoology_ A flock of birds, esp snipe.  
-__wispy__ _adj_ :four::hammer: _Wispy hair._  
+__wisp__ _n_ :nine: __1__ A thin, light, delicate, or fibrous piece or strand, such as a streak of smoke or a lock of hair. _A wisp of dust._ _Wisps of her hair had fallen loose from her barrette._ _Wisps of rain._ _A wisp of a mustache._ __2__ _Agriculture_ A small bundle, as of hay or straw. __3__ Anything slender and delicate: _a wisp of a girl._ __4__ A mere suggestion or hint. __5__ _Zoology_ A flock of birds, esp snipe.  
+__wispy__ _adj_ :five: Wisplike; delicate, faint, light, etc. _Wispy hair._  
 __wisteria__ _n_ :three::hammer: _(Plants)_  
 __wistful__ _adj_ :seven::dart::hammer: /WIST-ful/ _As the car pulled away, Lea cast one last wistful glance at the house where she’d spent so many happy years._  
 __wistfully__ _adv_ :four::hammer: _She gazed wistfully at the boathouse._  
 __wistfulness__  
 __wit__ _n_ :three::hammer: _He had regained his wits._ _He was at wit’s end._  
-__witchcraft__ _n_ :two::hammer: _A 1958 witchcraft comedy._  
+__witchcraft__ _n_ :three::hammer: _A 1958 witchcraft comedy._  
 __Wite-Out__ _n_  
 __with-it__ _adj_ In accord with the most fashionable ideas or style.  
 __withdraw__ _v_ _The nobility was withdrawing support._  

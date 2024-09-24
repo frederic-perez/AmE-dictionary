@@ -798,31 +798,6 @@ __vilify__ _vt_ :two::hammer: /VIL-uh-fye/
 __virago__ _n_ /vɪˈrɑ goʊ, -ˈreɪ-/  
 __virid__ _adj_ /VIR-id/ Bright green.  
 __visa national__ _n_ A person from a country whose citizens are required to obtain a visa before entering the United Kingdom, regardless of the purpose or duration of their visit.  
-__visa__ _n_ An official authorization appended to a passport, permitting entry into and travel within a particular country or region subject to certain conditions, such as length of time and purpose of the visit.  
-__visage__ _n_ /VIZ-ij/  
-__vitiate__ _v_ :dart: /VISH-ee-ayt/ To _vitiate_ something is to ruin it or render it ineffective. _A single inaccuracy in the spreadsheet that supported the data vitiated the entire proposal._  
-__vituperatory__ _adj_ :smiling_imp: /vy-TOO/TYOO-pruh-tor-ee/ [:scroll: From Latin vituperare (to blame), from vitium (fault) + parare (to make or prepare)] Criticizing bitterly, scathing, abusive.  
-__vivisection__ _n_  
-__vulnerable__ _adj_ /VUL-nuh-ruh-bul/  
-__waddle__ _v_  
-__waiver__ _n_  
-__warp speed__ _n_ [:scroll: The expression was popularized on the science-fiction show _Star Trek_ in the 1960s] __1__ (science fiction) A hypothetical, extremely rapid, speed, resulting from entering a separate dimension, termed hyperspace; much faster than the speed of light. __2__ (by extension, informal) Any very fast speed. _A brain going at warp speed._  
-__water sports__ _n_ __2__ _slang_ Sexual practices that involve urination.  
-__wedge__ _vt_ __1__ 1. To split or force apart with or as if with a wedge: _wedged the board away from the stud; neighbors who were wedged apart by a dispute._  
-__weed__ _v_  
-__weir__ _n_ :two::hammer:  
-__wellingtons__  
-__Wembley__ _n_ :mega:  
-__wharf__ _n_ :five: __1__ A pier where ships or boats are tied up and loaded or unloaded. :es: muelle, embarcadero  
-__white spirit__ _n_  
-__whizz-bang__ _adj, n_  
-__wholefood__ _n_ __a__ Food that has been refined or processed as little as possible and is eaten in its natural state, such as brown rice, wholemeal flour, etc. __b__ (as modifier): _a wholefood restaurant._  
-__wicked__ _adj_ :smiling_imp:  
-__windjammer__ _n_ :es: buque de vela (grande y veloz)  
-__winnow__ _v_ /WIN-oh/  
-__wisp__ _n_  
-__wispy__ _adj_ Wisplike; delicate, faint, light, etc. _Wispy hair._  
-__witchcraft__ _n_  
 __withdrawal symptom__ _n_ :dart: Any physical or psychological disturbance (as sweating or depression) experienced by a drug addict when deprived of the drug.  
 __withhold__ _v_ :pencil2:  
 __woe__  
