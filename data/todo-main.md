@@ -4,6 +4,7 @@ __affect__ _v_ :three::hammer:
 __approbation__ _n_ /ap-ruh-BAY-shun/ Approbation is a formal word that refers to praise or approval.  
 __archway__ _n_ :es: pasaje abovedado  
 __armistice__ _n_  
+__arrack__ _n_ (arak)  
 __arthralgia__ _n_ är-thrăl′jə/ Neuralgic pain in a joint or joints.  
 __arthroplasty__ _n_ /AR-thruh-plas-tee/ [:scroll: From Greek arthro- (joint) + -plasty (formation, repair, molding)] The surgical repair or replacement of a joint.  
 __articulate__ _v_  
@@ -23,9 +24,11 @@ __barrow__ _n_ __1__ A handbarrow. __2__ A wheelbarrow.
 __batter__ _v_ :two: __1a__ To hit heavily and repeatedly with violent blows. _Syn_ beat __b__ To subject to repeated beatings or physical abuse.  
 __bedroll__ _n_ /ˈbɛdˌrəʊl/ A portable roll of bedding, such as a sleeping bag, used esp for sleeping in the open.  
 __bedsit__ _n_ A furnished sitting room containing sleeping accommodation and sometimes cooking and washing facilities. :es: estudio amueblado, habitación amueblada _Syn_ bedsitter, bedsitting room, bed-sitting room  
+__bedstead__ _n_ The framework of a bed supporting the springs and a mattress.  
 __bell boot__ _n_  
 __beseech__ _v_ :es: suplicar  
 __best boy__ _n_ The chief assistant to the gaffer on a movie or television set.  
+__bickering__ _n_  
 __biddy__ _n_ /ˈbɪdɪ/ __1__ A dialect word for chicken, hen. __2__ _informal offensive_ A woman, esp an old gossipy or interfering one.  
 __biennial__ _adj_ Happening every second year. _Syn_ biyearly  
 __big game__ _n_ __1__ Large animals or fish hunted or caught for sport.  
@@ -43,6 +46,7 @@ __boiler suit__ _n_ _BrE_ A one-piece work garment consisting of overalls and a 
 __bollock__ _vt_  
 __bonnet__ _n_ :three::hammer:  
 __booby trap__ _n_  
+__booger__ _n_ _slang_ __1__ A gob or dried piece of nasal mucus. __2__ Any person or thing, esp. one regarded as troublesome, unpleasant, etc. often used humorously and affectionately.  
 __bookstall__ _n_ __1__ A booth or stall at which books are sold, usu. secondhand. __2__ A stall or stand where periodicals, newspapers, or books are sold. US word: newsstand  
 __bootlace__ _n_ _BrE_ A shoelace.  
 __bow-legged__ _adj_ :three::hammer:  
@@ -105,6 +109,7 @@ __close-knit__ _adj_ Held tightly together, as by social or cultural ties: _a cl
 __clued up__ _adj_ _BrE_ _informal_ Knowledgeable about a topic or situation; possessing the facts. :es: al tanto (de), al corriente (de)  
 __co-op__ _n_ :three: A cooperative enterprise, building, or apartment.  
 __coach__ _n_ __1a__ A bus, especially one designed for long-distance passenger service.  
+__cobalt blue__ _n_ __2__ A moderate to deep vivid blue or greenish blue.  
 __cock__ _v_ :two: __3__ To tilt or turn up or to one side, usually in a jaunty or alert manner: _cocked an eyebrow in response to a silly question._  
 __cockney__ _n_  
 __cocksure__ _adj_ :astonished: Marked by excessive confidence. _Syn_ overconfident, positive  
@@ -136,12 +141,14 @@ __cowed__
 __craft__ _n_ __5__ _crafts_ Items made by craftspeople.  
 __creche__ _n_ :three::hammer:  
 __crèche__ _n_ :two: __3__ _Brit._ Say nursery.  
+__crenellated__ _adj_ (crenelated) _Crenellated walls._  
 __criminal offence__ _n_ An act punishable by law; usually considered an evil act. _Syn_ crime, criminal offense, law-breaking, offense, offence  
 __crisis intervention__ _n_  
 __croft__ _n_  
 __cross examine__ _v_ :two::hammer:  
 __cruise missile__ _n_  
 __cupboard__ _n_ /ˈkʌb ərd/ A closet with shelves for dishes, cups, food, etc.  
+__cursory__  
 __curtly__ _adv_ _‘Congratulations,’ I said curtly._  
 __cut__ _n_ __10__ _informal_ A portion of profits or earnings; a share.  
 __cutback__  
@@ -152,6 +159,7 @@ __darn__
 __deaf-mute__ _adj, n_  
 __dear__ _adj_ __4a__ :dart: Highly priced. _Software is dearer in the UK than in the USA._ __b__ Charging high prices.  
 __decor__ _n_  
+__defray__ _v_  
 __degage__ _adj_ Showing lack of emotional involvement. _Syn_ detached, uninvolved  
 __deign__ _v_  
 __demob__ _v_  
@@ -165,6 +173,7 @@ __dishevelled__
 __disinformation__ _n_  
 __dispensary__ _n_  
 __dissatisfied__  
+__distress signal__ _n_  
 __divide__ _n_  
 __divots__ _n_  
 __dodger__ _n_ __1__ One that dodges or evades: _a skilled dodger of reporters’ questions._  
@@ -200,6 +209,7 @@ __exile<sup>2</sup>__ _vt_ :es: exiliar, desterrar
 __exonerate__ _v_  
 __fallacious__ _adj_ /fuh-LAY-shus/ _Fallacious_ is a formal word that typically describes something, such as an argument or assumption, that is false or inaccurate and that tends to mislead or deceive others.  
 __fanfare__ _n_ /FAN-fayr/ __1__ A showy public display. __2__ A brief, lively sounding of brass instruments, especially trumpets, in a celebration.  
+__fang__ _n_ __2__ A long, sharp, pointed tooth, especially a canine tooth of a carnivorous animal, such as a dog or wolf, with which it seizes and tears its prey.  
 __far-fetched__ _adj_ Improbable in nature; unlikely.  
 __far-flung__ _adj_  
 __farsighted__ _adj_ Planning prudently for the future. _Syn_ foresighted, long, longsighted, prospicient  
@@ -235,6 +245,7 @@ __flighty__ _adj_ /ˈflaɪtɪ/
 __flinch__ _vi_ :es: estremecerse; encogerse  
 __flit__ _vi_ :two: __1__ To move about rapidly and nimbly. __2__ To move quickly from one condition or location to another.  
 __float·a·tion _- _n- /flō-tā′shən/ __1__ Variant of _flotation_.  
+__flogging__ _n_ Beating with a whip or strap or rope as a form of punishment.  
 __floorwalker__ _n_ An employee of a department store who supervises sales personnel and assists customers. _Syn_ shopwalker  
 __flotation tank__ _n_ (flotation chamber) An enclosed ventilated tank filled with a saline solution at body temperature, in which a person floats in darkness in order to relax or meditate.  
 __flotsam__ _n_ :two::hammer:  
@@ -259,7 +270,7 @@ __fortnight__ _n_ :dart::astonished::two: [:scroll: Middle English fourtenight, 
 __fortnightly<sup>1</sup>__ _adj_ Happening or appearing once in or every two weeks.  
 __fortnightly<sup>2</sup>__ _adv_ Once in a fortnight.  
 __fortnightly<sup>3</sup>__ _n_ :astonished: A publication issued once every two weeks.  
-__fracas__ _n_  
+__fracas__ _n_ :two::hammer:  
 __fractious__ _adj_ Stubbornly resistant to authority or control. _Syn_ recalcitrant, refractory  
 __fraternize__ _v_ /FRAT-er-nyze/  
 __French toast__ _n_ Food prepared by dipping bread into egg batter and frying.  
@@ -277,6 +288,7 @@ __galvanize__
 __Gamblers Anonymous__ _n_ (GA) An organization that holds group meetings to help people who are addicted to gambling.  
 __gamekeeper__ _n_ /ˈgeɪmˌki pər/ A person employed, as on an estate or game preserve, to prevent poaching and provide for the conservation of game.  
 __gangrene__ _n_  
+__gaping__ _adj_ /ˈɡeɪpɪŋ/ Wide open; extremely wide: _a gaping hole._  
 __gasp<sup>1</sup>__ _v_  
 __gasp<sup>2</sup>__ _n_ __1__ A short convulsive intake of breath.  
 __gateway__ _n_ __2__ Something that serves as an entrance or a means of access: _a gateway to success; the gateway to the West._  
@@ -285,6 +297,7 @@ __genteelism__ _n_ /jen-TEE-liz-uhm/ The substitution of a word that is believed
 __gerbil__ _n_ :es: jerbo  
 __gestalt therapy__ _n_  
 __gestalt__ _n_ _Gestalt therapy._  
+__ghastly__ _adj_  
 __gifted__ _adj_ __1__ Endowed with great natural ability, intelligence, or talent: _a gifted child; a gifted pianist._ __2__ Revealing special talent: _a gifted rendition of the aria._  
 __giro__ _n_ __2__ _informal Brit_ An unemployment or income support payment by giro cheque, posted fortnightly.  
 __glean__ _v_ :two: /ɡliːn, glin/ To collect or pick up small amounts of news, facts, etc. :es: recoger, recopilar  
@@ -307,6 +320,7 @@ __guttersnipe__ _n_
 __hammy__ _adj_ /ˈhæm i/ Characterized by a highly exaggerated theatricality: _a hammy actor; a hammy performance._  
 __hands-off__ _adj_ Characterized by nonintervention: a hands-off foreign policy.  
 __handyman__ _n_ :es: manitas  
+__haphazardly__ _adv_ In a random manner.  
 __harass__ _v_  
 __hard-of-hearing__ _adj_ Having a hearing loss. _Syn_ hearing-impaired  
 __hard-pressed__ _adj_  
@@ -381,9 +395,11 @@ __Kitemark__ _n_ _BrE_ The official mark of quality and reliability, in the form
 __kudos__ _n_ /KOO-dahss/  
 __kung fu__ _n_ /ˈkʌŋ ˈfu, ˈkʊŋ/  
 __labyrinthine__ _adj_ Resembling a labyrinth in form or complexity. _Syn_ mazy  
+__lackey__ _n_  
 __laic__ _adj_ Of or relating to the laity. _Syn_ lay, secular  
 __lap__ _vt_ __6__ :dart: _Sports_ To get ahead of (an opponent) in a race by one or more complete circuits of the course, as in running, or by two or more lengths of a pool in swimming.  
 __largesse__ _n_ :es: generosidad  
+__latch__ _n_  
 __lathe__ _n_  
 __leaf peeper__ _n_ (chiefly informal US) A tourist who visits New England in autumn to see the changing colours of the foliage.  
 __leathern__ _adj_ Made of, covered with, or resembling leather.  
@@ -617,6 +633,7 @@ __pulse__ _n_ __1__ The edible seeds of certain pod-bearing plants, such as lent
 __pundit__ _n_ __1__ A source of opinion; a critic: a political pundit. __2__ A learned person.  
 __pustulate__ _adj_ Blemished by imperfections of the skin. _Syn_ acned, pimpled  
 __quadriplegia__ _n_ Complete paralysis of the body from the neck down. Also called tetraplegia.  
+__quail__ _v_  
 __quaver__ _vi_ __1__ To quiver, as from weakness; tremble. _I took a quavering breath._  
 __Queen’s evidence__ _n_  
 __quiff__ _n_  
@@ -626,6 +643,7 @@ __rabies__ _n_ /ˈreɪ biz/ _Rabies is normally fatal if untreated and it’s a 
 __racket__ _n_ __1__ A loud distressing noise.  
 __racketeer__ _n_ :smiling_imp: One who obtains money by an illegal enterprise usually involving intimidation.  
 __ragbag__ _n_  
+__rampage__ _n_ Violently angry and destructive behavior. _Syn_ violent disorder  
 __rapport__ _n_ /ræˈpɔr, -ˈpoʊr, rə-/  
 __Rastafarian__ _adj, n_  
 __raving<sup>1</sup>__ _n_  
@@ -664,16 +682,21 @@ __rife__ _adj_ /raɪf/ (postpositive)
 __rimming__ _n_ _slang_ A slang term for the act of licking and/or orally stimulating the anus of a sexual partner.  
 __ring-pull__ _n_ _BrE_ A metal strip that must be pulled off the top of a can of drink or food in order to open it.  
 __riptide__ _n_ /ˈrɪpˌtaɪd/  
+__road rash__ _n_ An abrasion on some area of one’s skin resulting from falling off of a non-enclosed vehicle (such as a bicycle, motorcycle, skateboard, etc.) and onto the pavement.  
 __roar__ _n_  
 __rotund__ _adj_ __1__ Rounded in figure; plump. _Syn_ fat  
 __rundown__ _n_ :two: __1__ A point-by-point summary.  
 __saunter__  
 __sconce__ _n_ __1__ A small defensive earthwork or fort.  
 __scullery__ _n_ /ˈskʌl ə ri, ˈskʌl ri/  
+__searing__ _adj_ /ˈsɪərɪŋ/  
 __shortlisted__  
+__shuttle__ _n_ __2__ The sliding container that carries the lower thread in a sewing machine.  
 __side note__ _n_ Additional information aside main point.  
+__simpleton__ _n_ :smiling_imp:  
 __skewer<sup>1</sup>__ _n_  
 __skewer<sup>2</sup>__ _vt_  
+__slag__ _v_ _Slagged by fire._  
 __slight__ _adj_ /slaɪt/  
 __slightly__ _adv_ __1__ To a small degree or extent; somewhat. __2__ Slenderly; delicately: _slightly built._  
 __slop out__ _v_ :smiling_imp: (of prisoners) To empty chamber pots and collect water for washing.  
@@ -735,8 +758,10 @@ __stringent__ _adj_
 __strong__ _n_ __18__ Having a specified number of units or members: _a military force 100,000 strong._  
 __stub__ _n_ __1__ The usually short end remaining after something bigger has been used up: _a pencil stub; a cigarette stub._  
 __stuffy__ _adj_ :dart:  
+__sturdy__ _adj_  
 __subcontinent__ _n_  
 __subdural__ _adj_ Located or occurring beneath the dura mater: _subdural space; a subdural hematoma._  
+__succinctly__ _adv_ With concise and precise brevity; to the point. _Syn_ compactly  
 __succor__ _n_ /SUCK-er/ _Succor_ is a literary term meaning “something that you do or give to help someone who is suffering or in a difficult situation.”  
 __Sufism__ _n_ The beliefs and practices of an ascetic, retiring, and mystical sect in Islam.  
 __sumac__ _n_ :three::hammer:  
@@ -755,6 +780,7 @@ __swedes__ _n_ :two::hammer: _I helped her mash the swedes._
 __switchboard__  
 __swivel__ _v_  
 __tariff__ _n_ /ˈtær ɪf/  
+__tarp__ _n_ Waterproofed canvas.  
 __taunt__ _vt_ /tɔːnt/ __1__ To provoke or deride with mockery, contempt, or criticism. __2__ To tease; tantalize.  
 __teetotaler__ _n_ (teetotaller)  
 __tire iron__ _n_ A short length of steel with one end flattened to form a blade, used to remove tires from wheel rims.  
