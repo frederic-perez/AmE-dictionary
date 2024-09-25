@@ -17483,6 +17483,7 @@ __sliding scale__ _n_ (Economics) A scale in which indicated prices, taxes, or w
 __slight<sup>1</sup>__ _adj_ :two::hammer: _A slight reason._  
 __slight<sup>2</sup>__ _vt_ :dart::four: (slighted) __1__ To show indifference or disregard for (someone); snub.To treat (someone) with discourteous reserve or inattention. __2__ To treat as unimportant or trifling. To treat as of small importance; make light of. _Slight a guest._ __3__ _US_ To devote inadequate attention to (work, duties, etc). To do negligently or thoughtlessly; scant. _Don’t slight your work._  
 __slight<sup>3</sup>__ _n_ :nine::m: A deliberate discourtesy; a snub. An act or omission indicating supercilious neglect or indifference. _Everyday slights and snubs._ _Seemingly minor slights harm student performance._ _The opera itself is slight._  
+__slightly__ _adv_ __1__ To a small degree or extent; somewhat. __2__ Slenderly; delicately: _slightly built._  
 __slim jim__ _n_ :two::hammer: (slim-jim) _Souza used a slim jim to pop the passenger door lock._  
 __slim__ _adj_ _The chances are pretty slim._  
 __slime__ _n_ :two::hammer:  
@@ -17518,6 +17519,7 @@ __slobby__
 __slog<sup>1</sup>__ _v_ :nine::m: (slogged, slogging) __1__ Work hard over a period of time. _They were slogging away to meet a deadline._ _Syn_ work hard :es: sudar tinta __2__ Hit (someone or something) forcefully and typically wildly, especially in boxing or cricket. _Batsmen careering down the pitch to slog the ball up in the air._  
 __slog<sup>2</sup>__ _n_ :seven: (slogs) __1__ A spell of difficult, tiring work or travelling. _It would be a hard slog back to the camp._ _The trail is a thrilling slog up the Virgin River._ __2__ A forceful and uncontrolled hit, especially in cricket. _A slog hit the fielder on the helmet._  
 __slogan__ _n_  
+__slop out__ _v_ :smiling_imp: (of prisoners) To empty chamber pots and collect water for washing.  
 __slop<sup>1</sup>__ _n_ :two: Residual waste, such as cafeteria food slop.  
 __slop<sup>2</sup>__ _v_ (slopped)  
 __sloppy joe__ _n informal_ :two: (sloppy joe sandwich) A hamburger in which the minced-beef filling is made into a kind of meat sauce, typically with tomatoes and spices.  
@@ -17540,7 +17542,7 @@ __slovenly__ _adj_ :three: Very messy.
 __slow-as-molases__  
 __slowdown__ _n_  
 __slubber__ _v_ :two::dart: To do in a hurried or imperfect manner.  
-__sludge__ _n_ :four: Sludge is thick, damp, almost sticky stuff. If your friend dares you to climb through an old sewer pipe, you might want to check first to see if it’s full of sludge. Any thick, viscous matter. _Sam felt the sludge of too much caffeine and fast food in his blood._ _She felt the alcohol turnto an itchy sludge in her blood._ _Oil sludge._  
+__sludge__ _n_ :five: _Sludge_ is thick, damp, almost sticky stuff. If your friend dares you to climb through an old sewer pipe, you might want to check first to see if it’s full of sludge. Any thick, viscous matter. _Sam felt the sludge of too much caffeine and fast food in his blood._ _She felt the alcohol turnto an itchy sludge in her blood._ _Oil sludge._  
 __slug down__ _v_ _He slugged down four martinis._  
 __slug<sup>1</sup>__ _n_ :two::hammer:  
 __slug<sup>2</sup>__ _vt_ :four::hammer: (slugs)  
@@ -17561,8 +17563,7 @@ __slump__ _v_ :two::hammer: (slumped) _People slumping out of chairs._
 __slur__ _n_ :two::hammer:  
 __slurp<sup>1</sup>__ _v_ :five::hammer: _Whitey sucked his soda through a straw until it slurped against the ice._  
 __slurp<sup>2</sup>__ _n_  
-__slush__ _n_ :seven::hammer: _The offshore ice and slush._ _How to Walk Safely in the Snow, Ice and Slush._  
-__slushies__ _n_ _Boozy slushies._  
+__slush__ _n_ :nine::hammer: (slushies) _The offshore ice and slush._ _How to Walk Safely in the Snow, Ice and Slush._ _Boozy slushies._  
 __slushy__  
 __sly__ _adj_ :nine::m: Having or showing a cunning and deceitful nature. _A sly smile._ _Sly humor._ _Sometimes it takes a sly fox to catch a sly fox._ :es: astuto; malicioso  
 __slyboots__ _n_ :two: A shifty, deceptive person. _Syn_ dodger, fox _I can never trust that slyboots at the office-she is polite to my face, but I always catch her belittling me to our coworkers!_  
@@ -17577,6 +17578,7 @@ __small print__
 __small__ _n_ __1__ A part that is smaller or narrower than the rest: _the small of the back._  
 __small-claims court__ _n_  
 __small-time__ _adj_ _informal_ :three: (smalltime) Insignificant; minor: _a small-time criminal._ _The small-time Philly boxer Rocky Balboa._ _Smalltime dealer._  
+__smallholding__ _n_  
 __smallpox__ _n_ :two::hammer: :es: viruela  
 __smarmy__ _adj_ :four: /SMAR-mee/ __1__ Excessively ingratiating or insincerely earnest. Hypocritically, complacently, or effusively earnest. _Syn_ fulsome, oleaginous, unctuous _His smarmy speech left no doubt that he actually felt superior to those he was meant to be praising._ _Online reviews of the resort warned of smarmy street vendors when wandering from the tourist areas._ __2__ Relating to or indulging in lewd conduct; smutty: _smarmy jokes._  
 __smart aleck__ _n informal_ A person who thinks he is very smart and demonstrates this fact to others.  
@@ -17587,6 +17589,7 @@ __smart-aleck__ _adj_
 __smart-alecky__ _adj_ _informal_ Rude and disrespectful: _Smart-alecky wit._  
 __smarten__ _v_ _He was smartening himself._ _Syn_ spruce up  
 __smarter than the average bear__  
+__smarting__ _adj_ Marked by, causing, or experiencing physical pain. _Syn_ aching, achy, afflictive, hurtful, nagging, painful, sore  
 __smarty-pants__ _n_ _informal_  
 __smash hit__  
 __smash song__ _n_ _That was a smash song._  
@@ -17594,11 +17597,11 @@ __smash<sup>1</sup>__ _adj_ _Our sixth smash year!_
 __smash<sup>2</sup>__ _n_ __5__ _informal_ A resounding success. _The picture was a smash from coast to coast._  
 __smashing__  
 __smashmouth__  
-__smattering__ _n_ :nine::m: __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ _I picked up a smattering of German while on vacation in Germany._ __2__ A small amount of something. A small, scattered amount or number. _Syn_ handful _Her skin had a healthy glow, and her nose was dotted with a smattering of freckles._ _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._ _I see just a smattering of raised hands._ _A smattering of raindrops._  
+__smattering__ _n_ :astonished::nine::m: __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ _I picked up a smattering of German while on vacation in Germany._ __2__ A small amount of something. A small, scattered amount or number. _Syn_ handful _Her skin had a healthy glow, and her nose was dotted with a smattering of freckles._ _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._ _I see just a smattering of raised hands._ _A smattering of raindrops._  
 __smear<sup>1</sup>__ _v_ :seven: (smearing) __1__ Make a smudge on; soil by smudging. __2__ Stain by smearing or daubing with a dirty substance. __3__ :dart: Charge falsely or with malicious intent; attack the good name and reputation of someone. _They use social media to smear their opponents._ _The smear campaign._  
 __smear<sup>2</sup>__ _n_ __1__ A blemish made by dirt. __2__ A thin tissue or blood sample spread on a glass slide and stained for cytologic examination and diagnosis under a microscope. __3__ :dart: An act that brings discredit to the person who does it. __4__ Slanderous defamation.  
 __smell test__  
-__smell-feast__ _n_ :three: One given to finding out and getting invited to good feasts. _Syn_ parasite, sponger  
+__smell-feast__ _n_ :four: _archaic_ One given to finding out and getting invited to good feasts. _Syn_ parasite, sponger  
 __smellfungus__ _n_ An excessively faultfinding person.  
 __smelt__ _v_ :two: (smelting) Extract (metal) from its ore by a process involving heating and melting. _A smelting factory._  
 __smelter__ _n_ :two::hammer: (smelters)  
@@ -17607,7 +17610,7 @@ __smidgen__ _n informal_ :five: /ˈsmɪdʒən/ (smidgeon or smidgin or smidge) A
 __smilet__ _n_ /ˈsmaɪlɪt/ A little smile.  
 __smirk__ _n_ :three::hammer: (smirks)  
 __smirking__  
-__smite__ _v_ :six: (smitten) To strike down, injure, or slay. _God will smite me._  
+__smite__ _v_ :seven::smiling_imp: (smitten) To strike down, injure, or slay. _God will smite me._  
 __smithereens__ _n informal_ :five: A collection of small fragments or splintered pieces considered as a whole; bits. _Berlin was bombed to smithereens._ _The fragile dish broke into smithereens._  
 __smithy__ _n_ _A working smithy._  
 __smitten<sup>1</sup>__ _adj_ :nine::m: Smitten means overwhelmed or struck by something, usually love. _The way you light up every time the waiter comes over to your table, it’s obvious you’re smitten with him._ __1__ _(used in combination)_ Affected by something overwhelming. _He was smitten by the landscape._ __2__ Marked by foolish or unreasoning fondness. _He was smitten by her red hair._  
@@ -17620,7 +17623,7 @@ __smokejumper__ _n_ A firefighter who parachutes to forest fires inaccessible to
 __smoking jacket__ _n_  
 __smoking__ _adj_  
 __smolder<sup>1</sup>__ _n_  
-__smolder<sup>2</sup>__ _vi_ :nine::m: (smolders, smoldered, smoldering) Burn slowly with smoke but no flame. _The bonfire still smouldered, the smoke drifting over the paddock._ _Syn_ burn slowly, smoke, glow :es: arder sin llama  
+__smolder<sup>2</sup>__ _vi_ :nine::m: (smoulder; smolders, smoldered, smoldering) Burn slowly with smoke but no flame. _The bonfire still smouldered, the smoke drifting over the paddock._ _Syn_ burn slowly, smoke, glow :es: arder sin llama  
 __smoldered__ _adj_  
 __smootch__  
 __smooth operator__  
@@ -17630,12 +17633,12 @@ __smooth<sup>2</sup>__ _adj_ _A smooth professional._
 __smoothie__ _n_ :two: (smothies) A thick, smooth drink of fresh fruit pureed with milk, yogurt, or ice cream.  
 __smorgasbord__ _n_ :nine::m::astonished: __1__ A buffet meal of various hot and cold hors d’oeuvres, salads, casserole dishes, meats, cheeses, etc. __2__ An extensive array or variety. A varied collection.  
 __smote__ _v_ :two::hammer: _Smote a horse with a whip._  
-__smother__ _v_ :four::hammer: (smothered, smothering) _Do not smother your true feelings._ _Smothering us._  
-__smoulder__ _v_ :three: (smouldered, smouldering) __1__ To burn slowly, producing smoke but no flames. _The wood smouldered._ __2__ To feel very strong emotions that you do not express in words, especially anger or sexual feelings.  
+__smother__ _v_ :five::hammer: (smothered, smothering) _Do not smother your true feelings._ _Smothering us._  
+__smoulder__ _v_ :nine::m: (smouldered, smouldering) __1__ To burn slowly, producing smoke but no flames. _The wood smouldered._ __2__ To feel very strong emotions that you do not express in words, especially anger or sexual feelings.  
 __smouldering__ _adj_ :two::hammer:  
 __smudge<sup>1</sup>__ _v_ :two::hammer:  
 __smudge<sup>2</sup>__ _n_  
-__smug__ _adj_ :nine::m: _(disapproving)_ Showing that you are very satisfied with how smart, lucky, or good you are: _a smug smile._ _Their smug belief in some form of American exceptionalism._ _Pour yourself a whiskey and feel smug about your incredible preparedness._ _He was sort of smug about it._ _She looks impossibly smug to me._  
+__smug__ _adj_ :nine::m: _(disapproving)_ Showing that you are very satisfied with how smart, lucky, or good you are: _a smug smile._ Exhibiting or feeling great or offensive satisfaction with oneself or with one’s situation; self-righteously complacent. _Syn_ self-satisfied _Their smug belief in some form of American exceptionalism._ _Pour yourself a whiskey and feel smug about your incredible preparedness._ _He was sort of smug about it._ _She looks impossibly smug to me._  
 __smuggling__ _v_  
 __smugly__ _adv_ :seven: In a self-satisfied manner. _To laugh smugly._  
 __smugness__ _n_ :two::hammer:  
@@ -17654,7 +17657,7 @@ __snap<sup>2</sup>__ _v_ :four::hammer: _Snap at people._
 __snap<sup>3</sup>__ _adj_ _Snapping dog._  
 __snapper__ _n_ _A red snapper._  
 __snappier__ _adj_ :two::hammer: _Everything will be snappier._  
-__snappy__ _adj_ :four::hammer: _Snappy answers._  
+__snappy__ _adj_ :five::hammer: _Snappy answers._  
 __snare drum__ _n_ :three::hammer: (snare drums) :es: tambor militar pequeño  
 __snare<sup>1</sup>__ _n_ __1__ A trapping device, often consisting of a noose, used for capturing birds and small mammals. __2__ Something that lures or entangles the unwary: _the snares of merchandisers; the snare of debt._ __3__ A surgical instrument with a wire loop controlled by a mechanism in the handle, used to remove growths, such as tumors and polyps.  
 __snare<sup>2</sup>__ _v_ :three::hammer: (snared)  
@@ -17662,7 +17665,7 @@ __snarf__ _vt_ To eat or drink rapidly or eagerly; devour: _snarfed down some co
 __snark<sup>1</sup>__ _v_  
 __snark<sup>2</sup>__ _n_ :five::dart: Combination of “snide” and “remark.” Sarcastic comment(s). _The snarky Twitter reaction._  
 __snarky__ _adj informal_ :dart::eight: Annoyed, or saying rude things in an annoyed or sarcastic way. Unpleasant and scornful. _Snarky remarks._ _Take Wasatch Brewery’s iconic beverage “Polygamy Porter” and its snarky slogan: “Why have just one?”_  
-__snarl<sup>1</sup>__ _n_ :four: __1__ An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido __2__ A tangled mass, as of hair or yarn. __3__ A confused, complicated, or tangled situation: _a traffic snarl._  
+__snarl<sup>1</sup>__ _n_ :five: __1__ A vicious growl, utterance, or facial expression. __2__ An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido __3__ A tangled mass, as of hair or yarn. __4__ A confused, complicated, or tangled situation: _a traffic snarl._  
 __snarl<sup>2</sup>__ _v_ :nine::m: (snarled, snarling) (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one’s teeth _The wolves are snarling._ :es: gruñir  
 __snarling__ _n_  
 __snatch__ _v_ :three::hammer: (snatched)  
@@ -17694,7 +17697,7 @@ __snollygoster__ _n_ :three: _slang US_ A politician who cares more for personal
 __snoodlike__  
 __snooker<sup>1</sup>__ _n_ :two: __2__ A shot in which the cue ball is left in a position such that another ball blocks the object ball. The opponent is then usually forced to play the cue ball off a cushion.  
 __snooker<sup>2</sup>__ _vt_ /SNOO-kuhr/ _slang_ To cheat, dupe, trap, stymie, etc.  
-__snoop__ _v_ :three: To try to find out about someone’s private affairs by secretly looking in their house, examining their possessions etc. _She snooped around._ _Big Brother snooping on innocent Americans._  
+__snoop__ _vi_ :four::smiling_imp: To try to find out about someone’s private affairs by secretly looking in their house, examining their possessions etc. To pry into the private affairs of others, especially by prowling about. _She snooped around._ _Big Brother snooping on innocent Americans._  
 __snoot__ _v_ :two: To behave disdainfully toward; condescend to.  
 __snootiness__  
 __snooty__ _adj_ :eight: __1__ Snobbishly aloof; haughty. _A snooty restaurant._ __2__ High-class; exclusive.  
@@ -17703,7 +17706,7 @@ __snooze<sup>2</sup>__ _vi_
 __snoring__ _n_ The act of snoring or producing a snoring sound.  
 __snorkel__ _vi_  
 __snort<sup>1</sup>__ _n_ :four: __2__ _slang_ __a__ A drink of liquor, especially when swallowed in one gulp. _Karl took a snort of vodka for courage and headed for the dance floor._ :es: (trago, chupito) Karl tomó un trago de vodka para envalentonarse y se dirigió a la pista de baile. __b__ Cocaine or heroin, especially a small amount sniffed at one time. _A lifestyle of snorting and scrapping._ __c__ The liquor or drug so taken. _Zig offered free snorts of cocaine._  
-__snort<sup>2</sup>__ _vi_ :four::hammer: (snorted, snorting) _Ada snorted in derision._  
+__snort<sup>2</sup>__ _vi_ :five::hammer: (snorted, snorting) _Ada snorted in derision._  
 __snot rag__  
 __snot__ _n_ _slang_ :five: __1__ Nasal mucus; phlegm. __2__ An annoying, arrogant, or impertinent person.  
 __snot-nosed__ _adj_ (used colloquially) Overly conceited or arrogant.  
@@ -17717,7 +17720,7 @@ __snowbank__ _n_ A pile or heap of snow. _He was driving and crashed into a snow
 __snowbird__ _n_  
 __snowcat__ _n_ :four::hammer: _Snowcat ride._  
 __snowcoach__ _n_ :two::hammer:  
-__snowdrifts__  
+__snowdrift__ _n_ :two::hammer:  
 __snowdrop__ _n_ :two::hammer: :es: campanilla de invierno  
 __snowflake__ _n_ __4__ _slang_ A person who is considered to be overly sensitive or too easily offended, especially as a result of believing himself or herself to be unique or special.  
 __snowglobe__ _n_  
@@ -17735,8 +17738,10 @@ __snub-nosed__ _adj_ :two::hammer: _Snub-nosed revolver._ _He wore a snub-nosed 
 __snub<sup>1</sup>__ _v_ :nine::m: /snʌb/ (snubs, snubbed) Rebuff, ignore, or spurn disdainfully. _Syn_ insult, slight, affront, humiliate _Putin is not just snubbing the United States and the G8._ _He snubbed faculty members and students alike._ _Snubbed nose._ :es: _desaire, repulsa_  
 __snub<sup>2</sup>__ _n_ :seven: A deliberate slight or affront.  
 __snuff out__ _v_ :two::hammer: (snuffed out) _Her life snuffed out at 41._  
-__snuff__ _v_ :four::hammer: (snuffling) _He quickly snuffed it out._  
+__snuff<sup>1</sup>__ _n_ :two: __3__ Any powdered substance, esp one for sniffing up the nostrils.  
+__snuff<sup>2</sup>__ _v_ :four::hammer: (snuffling) _He quickly snuffed it out._  
 __snuffbox__ _n_ :two::hammer:  
+__snuffle__ _v_  
 __snug<sup>1</sup>__ _adj_  
 __snug<sup>2</sup>__ _v_ :four::hammer:  
 __snuggery__ _n_ /ˈsnʌɡərɪ/ _Chiefly British_ __1__ A snug place or position. __2__ A comfortable or cozy room. _Syn_ cubby, cubbyhole  
@@ -17766,6 +17771,7 @@ __social ladder__
 __socialite__  
 __societal__  
 __sociopath__ _n_ :three: A psychopath or a person with antisocial personality disorder.  
+__socket outlet__ _n_ __1__ British term for receptacle outlet. __2__ See _outlet_.  
 __Socratic questioning__ _n_  
 __sod__ _n_  
 __soda jerk__ _n informal_ One who works at a soda fountain.  
@@ -17776,6 +17782,7 @@ __sodium amytal__
 __Sodom__ _n_ /SAHD/SOD-uhm/ (sodom) A place considered to be full of wickedness and sin.  
 __sofa bed__ _n_ :two::hammer:  
 __soffit__  
+__soft currency__ _n_ _BrE_ Money of a specific country that is liable to depreciate in value and is difficult to exchange for another currency.  
 __soft hat__ _n_ :camera:  
 __soft serve__ _n_ :camera: Any of several soft, creamy frozen desserts, such as ice cream and frozen yogurt, dispensed from a machine at the point of sale.  
 __soft skills__ _n_  
@@ -17807,7 +17814,7 @@ __solemn__ _adj_ :mute:[solem~~n~~]
 __solemnity__ _n_ A trait of dignified seriousness. _Syn_ staidness, sedateness  
 __solemnize__ _v_  
 __solicit__ _v_ :three::hammer: (solicited) _We solicited questions to our fanbase._  
-__solicitor__ _n_ /səˈlɪsɪtəʳ/  
+__solicitor__ _n_ /səˈlɪsɪtəʳ/ :two: __3__ _Chiefly British_ An attorney who advises clients on legal matters, represents clients in certain lower courts, and prepares cases for barristers to present in the higher courts.  
 __solicitous__ _adj_ :two::hammer:  
 __solicitude__ _n_ A feeling of excessive concern.  
 __solid cancer__ _n_  
@@ -17824,6 +17831,7 @@ __solvent__ _n_
 __somatic__ _adj_ Affecting or characteristic of the body as opposed to the mind or spirit. _Syn_ corporeal, bodily _Though anxiety attacks are psychological in nature, they have numerous somatic effects, including palpitations, shortness of breath, and dizziness._  
 __somber__ _adj_ /ˈsɒm bər/  
 __sombrero__ _n_ :three: (sombreros) A broad-brimmed, tall-crowned hat of straw or felt worn esp. in Mexico and the southwestern U.S.  
+__somersault__ _n_ :es: voltereta  
 __somewhat__ _adv_ :two: To some extent or degree; rather.  
 __somnambulant__ _adj_ :two::hammer:  
 __somnambulate__ _v_ :pencil2: To walk or perform another act while asleep or in a sleeplike condition. _Syn_ sleepwalk  
@@ -17909,6 +17917,7 @@ __spaceling__ _v_
 __spackle__ _n_ :two::hammer:  
 __spade__ _n_ :two::hammer:  
 __spade-bearded__  
+__spades__ _n_  
 __spaghetti__ _n_ :two::pencil2: (Cookery) Pasta in the form of long strings.  
 __span__ _v_  
 __spandex__ _n_  

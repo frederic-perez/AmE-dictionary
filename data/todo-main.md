@@ -698,31 +698,6 @@ __skewer<sup>1</sup>__ _n_
 __skewer<sup>2</sup>__ _vt_  
 __slag__ _v_ _Slagged by fire._  
 __slight__ _adj_ /slaɪt/  
-__slightly__ _adv_ __1__ To a small degree or extent; somewhat. __2__ Slenderly; delicately: _slightly built._  
-__slop out__ _v_ :smiling_imp: (of prisoners) To empty chamber pots and collect water for washing.  
-__sludge__ _n_  
-__slush__ _n_ (drink?)  
-__smallholding__ _n_  
-__smarting__ _adj_ Marked by, causing, or experiencing physical pain. _Syn_ aching, achy, afflictive, hurtful, nagging, painful, sore  
-__smattering__ _n_ :astonished:  
-__smell-feast__ _n_ _archaic_ One given to finding out and getting invited to good feasts. _Syn_ parasite, sponger  
-__smite__ _v_  
-__smitten__ _adj_  
-__smolder__ _v_ (smoulder)  
-__smother__ _v_  
-__smug__ _adj_ Exhibiting or feeling great or offensive satisfaction with oneself or with one’s situation; self-righteously complacent. _Syn_ self-satisfied  
-__snappy__ _adj_  
-__snarl__ _n_ __1__ A vicious growl, utterance, or facial expression. __2__ The act of snarling. __3__ A tangled mass, as of hair or yarn. __4__ A confused, complicated, or tangled situation: _a traffic snarl._  
-__snoop__ _vi_ To pry into the private affairs of others, especially by prowling about.  
-__snort__ _v_  
-__snowdrift__ _n_  
-__snuff__ _n_ :two: __3__ Any powdered substance, esp one for sniffing up the nostrils.  
-__snuffle__ _v_  
-__socket outlet__ _n_ __1__ British term for receptacle outlet. __2__ See _outlet_.  
-__soft currency__ _n_ _BrE_ Money of a specific country that is liable to depreciate in value and is difficult to exchange for another currency.  
-__solicitor__ _n_ __3__ _Chiefly British_ An attorney who advises clients on legal matters, represents clients in certain lower courts, and prepares cases for barristers to present in the higher courts.  
-__somersault__ _n_ :es: voltereta  
-__spades__ _n_  
 __spark plug__ _n_  
 __spearhead__ _vt_  
 __spinster__ _n_ :es: solterona  
