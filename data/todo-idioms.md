@@ -2,13 +2,15 @@ __(it’s) just as well (that) (something happened)__ It is or turned out to be 
 __(just) for the fun of it__  
 __(someone) ain’t seen nothing yet__  
 __(stuck) in a rut__  
+__(the) next thing (one) knows__ (next thing you know)  
 __(the) top of the line__ The absolute best of a certain thing, often referring to a product that is of the utmost quality (and usually the most expensive). When used as a noun, it is preceded by “the.” _That store only sells top of the line gear. You may want to consider some lower-priced options._  
 __a (whole) host of (something)__  
 __a balancing act__ :dart:  
+__a laundry list of (something)__  
 __a legend in (one’s) own lifetime__ A person who has an extraordinary level of fame or reputation while they are still alive. _The singer has made such a huge impact on the world of blues that she’s come to be a legend in her own lifetime._  
 __a legend in (one’s) own mind__ A person who affects or believes that they are of greater importance or notoriety than is actually the case. A humorous, ironic twist on the phrase “a legend in one’s own lifetime.” _The assistant manager acts as if she’s the only one keeping the company together. She’s a regular legend in her own mind._  
 __a license to print money__ An activity, business model, or company that yields very high profits but requires little or no effort to do so. _All these hefty parking fees and fines are just a license to print money for the city._  
-__a long shot__ :dart:  
+__a long shot__ :dart::two::hammer:  
 __a stone’s throw__ :two: A very short distance.  
 __a word of warning__ :two: Information about possible danger or trouble.  
 __according to (someone or something)__  
@@ -24,6 +26,7 @@ __as simple (smt?) as it gets__ :dart:
 __as we speak__ At this very moment.  
 __at (the) worst__ (at its very worst) Under the most negative circumstances, estimation, or interpretation: At worst, the storm will make us postpone the trip.  
 __at any rate__ :three::hammer:  
+__at close quarters__  
 __at every turn__  
 __at its best__  
 __at the outset__ At the beginning.  
@@ -69,6 +72,7 @@ __castles in the air__
 __Catch-22__  
 __chalk up__  
 __chase the dragon__ :dart: To smoke a controlled substance, often heroin. _I can’t chase the dragon anymore—I’m trying to get away from that stuff._  
+__chime in__  
 __clear the table__ To remove objects from a table. This phrase is often said after a meal, as one removes dishes, silverware, and leftover food from the table. _After the meal I cleared the table._  
 __close shave__  
 __coin__ _slang_ Money.  
@@ -97,6 +101,7 @@ __down the line__ In the future.
 __downed on (someone)__  
 __downer__  
 __drag (one’s) feet__  
+__dressed to the nines__  
 __dried milk__ _n_ Dehydrated milk.  
 __drop in__ To visit someone casually or unexpectedly.  
 __drum up__  
@@ -134,6 +139,8 @@ __get something out of the way__ :dart: Deal with a task or difficulty so that i
 __ghosting__ _slang_  
 __gig__  
 __give (one’s) ground__  
+__give (one) a break__  
+__give (one) some slack__  
 __give (one) the green light__ :two::hammer:  
 __give (someone) a lift__  
 __give (someone) an out__ To provide someone with an excuse or a means of escaping (from something).  
@@ -201,7 +208,7 @@ __hold my beer__
 __hold the line__  
 __holding pattern__  
 __hopeless at (something)__ Not skilled or adept at something. _Oh, I hired a maid because I know I’m hopeless at housework._  
-__hotshot__  
+__hotshot__ :two::hammer:  
 __hue and cry__ /HYOO-und-KRYE/ __1__ A large public protest. _Hue and cry_ refers to a clamor of alarm or protest in response to something. __2__ It can also be used as a synonym of hubbub to refer to general noise or uproar.  
 __hung jury__ :dart: A jury that cannot agree on a verdict.  
 __I beg your pardon__ :dart: __1__ :dart: I apologize for what I just did or said. _Oh, I beg your pardon. I wasn’t looking where I was going._ __2__ What did you just say? _Could you please repeat that? I beg your pardon, I couldn’t quite hear you._ __3__ An expression or exclamation of indignation or incredulous disbelief. _A: “I’m afraid we’re going to have to cut your funding, effective immediately.” B: “I beg your pardon? Who on earth decided that?”_ __4__ Could you please give me your attention. _I beg your pardon, everyone, but I’d like to get tonight’s proceedings underway._ __5__ :dart: I believe you are mistaken or incorrect; I beg to differ; I don’t agree with you on that. _I beg your pardon, but I believe you’ll find that our school is actually one of the best in the state._  
@@ -221,6 +228,7 @@ __in all likelihood__
 __in all seriousness__  
 __in and of itself__  
 __in arrears__ :three: Behind or overdue, often because one has not made a payment as scheduled.  
+__in cahoots (with someone)__  
 __in concert with (someone)__ Together with someone; in cooperation with someone. _You’ll need to work in concert with my file clerk to sort through all this paperwork._  
 __in full swing__ :three::hammer:  
 __in hot water__ :dart::two: Having provoked or incited anger, hostility, or punishment against oneself; in a troublesome or difficult situation, especially that which will result in punishment or reprisal. _I was in a bit of hot water with Janice last night when she found out I went to the movies instead of cleaning out the garage._  
@@ -317,6 +325,7 @@ __keep (something) straight (in one’s mind/head)__ To be able to understand so
 __keep (up) (one’s) end of the bargain__ :two::hammer:  
 __keep a cool head__ To maintain a calm demeanor and think clearly in a difficult, stressful, or troubling situation. _I know you’re anxious about this midterm exam, but just remember what we’ve gone over and try to keep a cool head._  
 __keep a lid on (something)__ :two::hammer:  
+__keep a lookout (for somebody/something)__  
 __keep a sharp lookout (for something or someone)__ To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep a sharp lookout._  
 __keep an eye peeled (for something or someone)__ To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep an eye peeled._ _Keep an eye peeled for a Christmas present we could give your mother._  
 __keep pace__  
@@ -380,6 +389,7 @@ __lie to__ __2__ (Nautical) Of a sailing vessel, to remain stationary while faci
 __life, the universe, and everything__ The question that pan-dimensional space-beings asked the computer Deep Thought in Douglas Adams’s book, _The Hitchhiker’s Guide to the Galaxy._ The computer took millions of years and came up with the answer 42. _Balancing risks is life, the universe, and everything._  
 __lift__  
 __like a fish out of water__  
+__like hell__  
 __like the back of (one’s) hand__ A common English expression used to describe something that a person knows extremely well or is very familiar with.  
 __liminal__ _adj_ /ˈlɪmɪnəl/  
 __lip to lip__ :two: The idiom “lip to lip” typically refers to a kiss that involves direct contact between the lips of two people. This expression is often associated with romantic or intimate contexts, emphasizing the closeness and emotional connection between the individuals involved.  
@@ -391,7 +401,9 @@ __living proof__
 __loaded gun__ A situation or person that is dangerous or volatile. For example, a person might be described as a “loaded gun” if they are highly emotional or prone to outbursts.  
 __long and hard__  
 __long in the tooth__  
+__long time no see__  
 __look the other way__  
+__looks like__  
 __loony bin__ _slang_ A psychiatric hospital or insane asylum. From a glib adaptation of the word “lunatic,” the phrase is now considered tactless at best, extremely insulting at worst.  
 __loop the loop__ __1__ _n_ A flight maneuver in which an aircraft flies in a complete vertical circle. (Usually hyphenated.) _I loved going to air shows as a kid, and I always dreamed of doing loop-the-loops in an airplane when I grew up._ __2__ _v_ To fly an aircraft in a complete vertical circle. _I thought I was going to throw up when the pilot looped the loop with our little biplane._  
 __loose cannon__ Someone who has the propensity to act unpredictably or to lose their temper very quickly.  
@@ -457,6 +469,7 @@ __nip (something) in the bud__
 __nip at__ __1__ To give (someone or something) little bites. _Their dog kept nipping at my heels whenever I walked through the house._ _I know some people go crazy for the treatment, but I can’t stand the feeling of fish nipping at my feet!_ __2__ To sting (a part of one’s body) with cold. _The air had just started nipping at our noses by the time we reached the house._ _There’s nothing like settling down in front of a fire with a hot drink after the cold wind has been nipping at your cheeks on a long, satisfying bike ride._ _The cold air nipped at my lungs if I breathed in too quickly._ __3__ To take small, frequent sips of (some drink, especially alcohol). _I caught my grandma nipping at a flask, which she tried to pretend had medicine inside of it._  
 __no end in sight (to something)__  
 __no holds barred__  
+__no kidding__  
 __no picnic__ _It’s no picnic walking around with a guilty conscience._  
 __no question about it__ :two: Definitely; for sure.  
 __no stranger to (something)__  
@@ -518,7 +531,7 @@ __on the verge of (doing) (something)__
 __on the verge of__  
 __on the whole__ Considering everything together; in general or for the most part.  
 __on-site__  
-__once and for all__  
+__once and for all__ :two::hammer:  
 __once in a blue moon__ Very rarely.  
 __one size fits all__ :two::hammer:  
 __one-off__ :three::hammer:  
@@ -539,6 +552,7 @@ __pitch (something) at__
 __play havoc with (someone or something)__ To cause issues or disruptions for someone or something. _The road closures have played havoc with rush-hour traffic._  
 __plunger__ _n_ /ˈplʌndʒə/ __3__ _informal_ A reckless gambler.  
 __point the finger at (one)__  
+__poke around__  
 __poppers__ Drugs of the alkyl nitrate class used recreationally as a sexual stimulant, especially among gay men. Amyl nitrite became popular in the 60s especially with the male gay community becase it relaxes the muscles, making anal intercourse easier.  
 __poppy appeal__  
 __press (something) (up)on (one)__  
@@ -550,6 +564,7 @@ __pull (one’s) weight__ To contribute to a group activity or pursuit in propor
 __puppy__ __1__ _n_ A wimp; a softie. _That silly puppy is still waiting outside your door._ __2 __ _n_ A thing; a piece or part of something. _Put this little puppy right here._  
 __push the envelope__ To expand on, exceed, or test the limits of the established norm or standard.  
 __put (someone or something) (up) on a pedestal__ To believe or behave as if someone or something is perfect, wonderful, or better than others, to the extent that one is unable to see its potential flaws or faults.  
+__put (someone or something) to the test__  
 __put off by someone or something__ Distressed or repelled by someone or something. _I was really put off by your behavior._ _We were all put off by the unfairness of the rules._  
 __put off__ __1__ _v_ To deter, annoy, or repel. A noun or pronoun can be used between “put” and “off.” _I don’t know if you realize how much you put people off with your attitude._  
 __put on a good/poor/etc. show__  
@@ -568,11 +583,13 @@ __rules of the road__
 __rummage around for (something)__  
 __rumor has it (that)__ It is being rumored that (something is or will be the case). _Rumor has it that the boss is using the company profits to pay off his own gambling debts._  
 __run the gauntlet__ To be exposed to or forced to endure a series of threats, dangers, criticism, or other problems. Refers to an old military punishment in which one was forced to run between two lines of soldiers while being thrashed with rods or whips. _Medical students often feel that they have to run the gauntlet when they become residents in a hospital._  
+__run with it__ To take the initiative to do something independently. _I got this really good idea for an ad campaign. I think I’m going to just run with it and present it to the boss when it’s done._  
 __same old same old__ :two::hammer:  
 __same shit, new wrapping__ Colloquial expression that conveys the idea that something has been superficially changed or repackaged but remains fundamentally the same. It suggests that despite appearances, the underlying issues or qualities have not been altered.  
 __save (one’s) bacon__  
 __scheme for (something)__ To form or contrive a secret or devious plan or conspiracy in order to obtain, achieve, or accomplish something. _We spent the afternoon scheming for a way to get into the elite Hollywood party so we could meet some celebrities._  
 __see (one) in the flesh__ To see one in person who is usually only seen at a distance, especially through a medium such as film, music, theater, etc. _After years of idolizing the singer, it was a bit anticlimactic seeing her in the flesh._  
+__see fit__ :dart: Deem appropriate, as in _He’s entitled to divide up his property as he sees fit_, or _If we see fit to attend, we’ll be there._  
 __seep in(to something)__  
 __serve (one’s) time__  
 __set a camp__  
@@ -593,6 +610,7 @@ __shrink from (someone or something)__ :dart: __1__ To recede or recoil from som
 __shut out__  
 __single file__ A line of things or people, one person or one thing wide. _Please get into single file._ _You have to march single file._  
 __single out__  
+__sit still (for something)__ __2__ To fail or choose not to act in response to something; to endure or tolerate something passively or submissively. _I couldn’t just sit still for condescending, hypocritical remarks, so I gathered my things and walked right out of the building._  
 __six in one, (and) half a dozen in the other__ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
 __skive off__ _BrE_ To absent oneself or leave early from school or work when one would normally be required to be there; to play truant. Primarily heard in UK.  
 __slap in the face__ Words or actions that have offended or otherwise upset someone. _It was a real slap in the face when she got promoted over me, especially after the amount of work I did on that last project._  
@@ -613,6 +631,7 @@ __soft spot__
 __something of sorts__ An inferior example of a kind of something.  
 __sort out__  
 __sounds familiar__  
+__sounds like__  
 __speak (one’s) mind__ To voice one’s thoughts plainly or bluntly.  
 __speed__ _slang_ Any illicit stimulant drug, especially amphetamine or methamphetamine. _We all used to take speed during college to help us study._  
 __spend a penny__ _euphemism_ To go to the toilet. Primarily heard in UK.  
@@ -622,6 +641,7 @@ __stands to reason__
 __start the ball rolling__ To set something, often a process, in motion; to begin.  
 __stick around__ To remain or linger in one location; to not leave or abandon (someone or something). _Hey, stick around for a minute, I need to talk to you._  
 __stone dead__ Dead; unquestionably dead; long dead. _The cat was stone dead and stiff as a board by the time we got to him._  
+__strike (one) dead__  
 __strike a (raw) nerve__  
 __take heart (from something)__ To receive courage or comfort from some fact. _I hope that you will take heart from what we told you today. Even though you did not win the race, take heart from the fact that you did your best. I told her to take heart and try again next time._  
 __take heart__ To have one’s confidence, courage, or happiness bolstered (by something). _We may have lost the election, but we take heart in the fact that so many young people are now engaged and excited about politics._  
@@ -635,9 +655,11 @@ __thread the needle__
 __tit for tat__  
 __to name (but) a few__  
 __to put it mildly__ To understate something; to say something politely. (Note the variation in the examples.) _She was angry at almost everyone—to put it mildly._ _To say she was angry is putting it mildly._ _To put it mildly, she was enraged._  
+__to this day__  
 __toughen up__  
 __twist the knife__ :smiling_imp: To add to, exacerbate, or amplify a betrayal or wrong by further malicious actions. _He said it was over, and then he twisted the knife and said he had never loved me._  
 __walk the wire__ To navigate a delicate or precarious situation. It implies taking risks and balancing between different challenges or conflicting demands.  
+__what gives?__  
 __white tie__ The most formal of all dress codes, requiring men to wear white bow ties and black tailcoats and women to wear evening or ball gowns.  
 __willy-nilly__ :two::hammer: [:scroll: This expression is a shortened form of ‘willing or not willing.’]  
 __wind down__ __2__ To cause something to slow and near an ending. In this usage, a noun or pronoun can be used between “wind” and “down.” _We’ll wind down our practice with some gentle stretches._  
