@@ -289,6 +289,7 @@ __Gamblers Anonymous__ _n_ (GA) An organization that holds group meetings to hel
 __gamekeeper__ _n_ /ˈgeɪmˌki pər/ A person employed, as on an estate or game preserve, to prevent poaching and provide for the conservation of game.  
 __gangrene__ _n_  
 __gaping__ _adj_ /ˈɡeɪpɪŋ/ Wide open; extremely wide: _a gaping hole._  
+__garrulous__ _adj_ Excessively talkative in a rambling, roundabout manner, especially about trivial matters.  
 __gasp<sup>1</sup>__ _v_  
 __gasp<sup>2</sup>__ _n_ __1__ A short convulsive intake of breath.  
 __gateway__ _n_ __2__ Something that serves as an entrance or a means of access: _a gateway to success; the gateway to the West._  
@@ -298,10 +299,13 @@ __gerbil__ _n_ :es: jerbo
 __gestalt therapy__ _n_  
 __gestalt__ _n_ _Gestalt therapy._  
 __ghastly__ _adj_  
+__gibbet__ _n_  
+__giddy__ _adj_  
 __gifted__ _adj_ __1__ Endowed with great natural ability, intelligence, or talent: _a gifted child; a gifted pianist._ __2__ Revealing special talent: _a gifted rendition of the aria._  
 __giro__ _n_ __2__ _informal Brit_ An unemployment or income support payment by giro cheque, posted fortnightly.  
 __glean__ _v_ :two: /ɡliːn, glin/ To collect or pick up small amounts of news, facts, etc. :es: recoger, recopilar  
 __glower__ _v_ :smiling_imp:  
+__godown__ _n_  
 __golden plover__ _n_  
 __googolplex__ _n_ /GOO-guhl-pleks/ The number 1 followed by a googol number of zeros.  
 __grawlix__ _n_ :dart: /GRAW-liks/ A series of special characters, such as “@#$%&*,” that are used to indicate either miscellaneous text, or more commonly, swear words. The term is attributed to Mort Walker, an American cartoonist known for his Beetle Bailey comic strip.  
@@ -342,6 +346,7 @@ __hiking__ _n_
 __hiss__ _v_ :three::hammer:  
 __history__ _n_ :mega:  
 __hitherto__ _adv_ :two: Until this time.  
+__hokey__ _adj_ _Hokey accent._  
 __holdall__ _n_  
 __holidaymaker__ _n_ _Chiefly British_ One who goes on vacation. Someone who travels for pleasure. _Syn_ tourer, tourist  
 __holistic__ _adj_  
@@ -349,6 +354,7 @@ __holystone__ _n_ A piece of soft sandstone used for scouring the wooden decks o
 __honeybee__ _n_ /ˈhʌnɪˌbiː/  
 __hookah__ _n_ (hooka) A water pipe with a long flexible tube by which the smoke is drawn through a jar of water and thus cooled.  
 __hoopla__ _n_ /HOO-plah/ _Hoopla_ refers to talk or writing that is designed to get people excited about or interested in something, often with the implication that the person using the word does not find the thing exciting or interesting.  
+__hoover__  
 __horse brass__ _n_ :camera: A decorative brass ornament, usually circular, originally attached to a horse’s harness.  
 __hotplate__ _n_ :two::hammer:  
 __house martin__ _n_ (housemartin)  
@@ -368,6 +374,7 @@ __indictment__ _n_
 __ineffable__ _adj_ Incapable of being expressed. _Syn_ indescribable, unspeakable, untellable, unutterable, indefinable  
 __inerrant__ _adj_ Incapable of erring. _Syn_ infallible  
 __ingenuous__ _adj_ Lacking in cunning, guile, or worldliness. _Syn_ artless  
+__iniquitous__ _adj_ :smiling_imp: /ɪˈnɪk wɪ təs/ Characterized by iniquity; wicked; sinful.  
 __injunction__  
 __innards__ _n pl_  
 __interfere__ _v_  
@@ -385,7 +392,7 @@ __Jerry__ _n slang_ _Chiefly British_ A German, especially a German soldier.
 __jot<sup>1</sup>__ _n_ :dart: /dʒɒt/ The smallest bit; iota. _(used with a negative)_ A little bit (in phrases such as _not to care (or give) a jot_).  
 __jot<sup>2</sup>__ _vt_  
 __jubilee__ _n_ :mega: /JOO-buh-lee/  
-__juggernaut__ _n_  
+__juggernaut__ _n_ :two::hammer: /ˈdʒʌɡəˌnɔːt/  
 __jumar__ _n_ /ˈdʒuːmə/  
 __jurisprudence__ _n_ /joor-us-PROO-dunss/ _Jurisprudence_ is a formal word that typically refers to the science or philosophy of law, or to a system or body of law.  
 __justice of the peace__ _n_ (JP) A local magistrate empowered chiefly to administer summary justice in minor cases, to commit for trial, and to administer oaths and perform marriages.  
@@ -438,6 +445,7 @@ __lookout__ _n_ _Lookouts were posted._
 __lore__ _n_ Accumulated facts, traditions, or beliefs about a particular subject. _Syn_ traditional knowledge  
 __loss aversion__ _n_  
 __Lothario__ _n_ (lothario)  
+__loup-garou__ _n_  
 __lovelorn__ _adj_ /ˈlʌvˌlɔːn/ Miserable because of unrequited love or unhappiness in love.  
 __low-end__ _adj_ Cheaper and, typically, of lower quality compared to the leading products or brands. Used before a noun. _Because he’s only willing to pay for low-end supplies, we’ve had nothing but problems with all our equipment._  
 __LSD__ _n_ (acid) _(Recreational Drugs)_ Lysergic acid diethylamide; a crystalline compound prepared from lysergic acid, used in experimental medicine and taken illegally as a hallucinogenic drug. Informal name (as an illegal hallucinogen): acid.  
@@ -448,12 +456,14 @@ __luminal__ _adj_
 __lump sum__ _n_ A single sum of money that serves as complete payment.  
 __lump__ _v_  
 __lunchtime__ _n_ :pencil2:  
+__lycanthrope__ _n_  
 __machtpolitik__ _n_ /MAHKHT-pol-ee-teek/ Power politics: policies that advocate the use of power and physical force to attain their goals.  
 __maggot__ _n_ __1__ The legless, soft-bodied, wormlike larva of any of various dipteran flies, often found in decaying matter. :es: gusano  
 __Magic Eye poster__ _n_  
 __maiden__ _adj_ _The _Titanic_ maiden voyage._  
 __mains tester__ _n_ An insulated screwdriver with a light in the handle.  
 __make__ _n_ :astonished:  
+__malevolent__ _adj_ :smiling_imp: Wishing evil or harm to another or others.  
 __mandatory__ _n_ :mega: /ˈmæn dəˌtɔr i, -ˌtoʊr i/  
 __mantra yoga__ _n_ A meditation practice that focuses on chanting sacred syllables along with conscious breathing and a meditative focus to quiet the mind, cultivate spiritual energy, and create states of enlightenment.  
 __marionette__ _n_ _Syn_ puppet  
@@ -462,6 +472,7 @@ __measly__ _adj_ :astonished:
 __medley relay__  
 __meliorism__ _n_ /MEE-lee-uh-riz-um/ _Meliorism_ refers to the belief that the world tends to improve and that humans can aid its betterment.  
 __memento__ _n_ :mega: /muh-MEN-toh/ _Memento_ is a synonym of _souvenir_; it refers to something that is kept as a reminder of a person, place, or thing.  
+__menagerie__ _n_ A collection of wild or unusual animals, especially for exhibition.  
 __mess tin__ _n_ A portable container for cooking or serving food, originally for military use, and generally of a rounded rectangular form.  
 __miasma__ _n_  
 __microfiche__ _n_ /ˈmaɪ krəˌfiʃ/ A flat sheet of microfilm, containing reproductions of printed or graphic matter.  
@@ -482,6 +493,7 @@ __moot__ _vt_
 __moped__ _n_ _Brit_ A light motorcycle, not over 50cc.  
 __morass__  
 __morrow__ _n_  
+__mothball__ _n_ Asmall sphere of camphor or naphthalene used to keep moths away from stored clothing. _Syn_ camphor ball  
 __mother of pearl__ _n_  
 __mountaineering__  
 __mourning band__  
@@ -517,6 +529,7 @@ __ocassion__
 __occasion__ _n_ :pencil2:  
 __occasionally__ _adv_ :pencil2: Now and then; from time to time.  
 __occultism__ _n_  
+__oddment__ _n_  
 __off-limits__  
 __off-putting__ _adj_ :dart: Provoking uneasiness, dislike, annoyance, or repugnance. Tending to disconcert or repel: _was rankled by the off-putting remarks._  
 __offcut__ _n_ /ˈɒfˌkʌt/ A piece of paper, plywood, fabric, etc, remaining after the main pieces have been cut; remnant.  
@@ -545,6 +558,8 @@ __palmistry__ _n_ /ˈpɑ mə stri/ The practice or art of telling fortunes from 
 __pamphlet__ _n_ :pencil2:  
 __panoply__ _n_ /PAN-uh-plee/  
 __pant__  
+__pants__ _v_ _informal_ :astonished: To yank down the pants of (someone) as a prank or joke.  
+__pantsing__ _n_ :two::astonished: The pulling down of a person’s trousers, usually as a prank or form of bullying.  
 __parade__ _v_  
 __paradigm__ _n_ /PAIR-uh-dyme/  
 __Paralympics__ _n pl_  
@@ -607,6 +622,7 @@ __pontoon__ _n_
 __pool__ _n_ __1a__ A game of chance, resembling a lottery, in which the contestants put staked money into a common fund that is later paid to the winner. __b__ A fund containing all the money bet in a game of chance or on the outcome of an event.  
 __poplar tree__  
 __porky__ _adj_ __1__ Of or like pork: _a porky flavor._ __2__ _Derogatory Slang_ Fat or corpulent.  
+__portentous__ _adj_ Marvelous.  
 __porter__ _n_ __1__ A person employed to carry luggage, parcels, supplies, etc, esp at a railway station or hotel.  
 __possess__ _v_  
 __precede__ _v_ Furnish with a preface or introduction. _Syn_ preface, premise, introduce _She always precedes her lectures with a joke._  
@@ -628,12 +644,15 @@ __profligate__ _adj_ :dart:
 __proliferate__ _v_ /pruh-LIF-uh-rayt/ To increase quickly in number or amount.  
 __propensity__ _n_ /pruh-PENN-suh-tee/ A _propensity_ is a strong natural tendency to do something.  
 __prostration__ _n_ An abrupt failure of function or complete physical exhaustion. _Syn_ collapse  
+__provender__ _n_ Dry food, as hay or oats, for livestock or other domestic animals.  
 __proximate__ _adj_  
 __pulse__ _n_ __1__ The edible seeds of certain pod-bearing plants, such as lentils and chickpeas. :es: legumbres __2__ A plant yielding these seeds.  
 __pundit__ _n_ __1__ A source of opinion; a critic: a political pundit. __2__ A learned person.  
 __pustulate__ _adj_ Blemished by imperfections of the skin. _Syn_ acned, pimpled  
 __quadriplegia__ _n_ Complete paralysis of the body from the neck down. Also called tetraplegia.  
+__quagmire__ _n_ An area of miry or boggy ground whose surface yields under the tread.  
 __quail__ _v_  
+__Quaker__ _n_ /ˈkweɪkə/  
 __quaver__ _vi_ __1__ To quiver, as from weakness; tremble. _I took a quavering breath._  
 __Queen’s evidence__ _n_  
 __quiff__ _n_  
@@ -686,16 +705,20 @@ __road rash__ _n_ An abrasion on some area of one’s skin resulting from fallin
 __roar__ _n_  
 __rotund__ _adj_ __1__ Rounded in figure; plump. _Syn_ fat  
 __rundown__ _n_ :two: __1__ A point-by-point summary.  
+__sales floor__ _n_ The part of a business devoted to retail activities, such as a showroom or selling area of a shop or department store, usually manned by sales staff and having free public access with goods on display.  
 __saunter__  
 __sconce__ _n_ __1__ A small defensive earthwork or fort.  
 __scullery__ _n_ /ˈskʌl ə ri, ˈskʌl ri/  
 __searing__ _adj_ /ˈsɪərɪŋ/  
+__seething__ _v_  
+__shapeshift__ _vi_ (biology, fantasy, mythology) To change one’s shape or form (into another) through often magical means, normally applied only to living beings.  
 __shortlisted__  
 __shuttle__ _n_ __2__ The sliding container that carries the lower thread in a sewing machine.  
 __side note__ _n_ Additional information aside main point.  
 __simpleton__ _n_ :smiling_imp:  
 __skewer<sup>1</sup>__ _n_  
 __skewer<sup>2</sup>__ _vt_  
+__skullduggery__ _n_ :smiling_imp: Dishonorable proceedings.  
 __slag__ _v_ _Slagged by fire._  
 __slight__ _adj_ /slaɪt/  
 __spark plug__ _n_  
@@ -777,7 +800,7 @@ __withdrawal symptom__ _n_ :dart: Any physical or psychological disturbance (as 
 __withhold__ _v_ :pencil2:  
 __woe__  
 __woodwork__ _n_ __1__ (Crafts) The art, craft, or skill of making things in wood; carpentry. :es: carpintería __2__ (Building) components made of wood, such as doors, staircases, etc. _Woodwork fascia._  
-__word-perfect__ _adj_  
+__word-perfect__ _adj_ :two::hammer: _I would know the book word-perfect before we were as far as Exeter._  
 __work camp__ _n_ __1__ A camp for prisoners sentenced to labor, esp. to outdoor labor. __2__ A camp where volunteers, often from religious organizations, work together on community service projects.  
 __worktop__ _n_ :two::hammer:  
 __wring__ _vt_  
