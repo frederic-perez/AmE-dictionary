@@ -298,31 +298,6 @@ __genteelism__ _n_ /jen-TEE-liz-uhm/ The substitution of a word that is believed
 __gerbil__ _n_ :es: jerbo  
 __gestalt therapy__ _n_  
 __gestalt__ _n_ _Gestalt therapy._  
-__ghastly__ _adj_  
-__gibbet__ _n_  
-__giddy__ _adj_  
-__gifted__ _adj_ __1__ Endowed with great natural ability, intelligence, or talent: _a gifted child; a gifted pianist._ __2__ Revealing special talent: _a gifted rendition of the aria._  
-__giro__ _n_ __2__ _informal Brit_ An unemployment or income support payment by giro cheque, posted fortnightly.  
-__glean__ _v_ :two: /ɡliːn, glin/ To collect or pick up small amounts of news, facts, etc. :es: recoger, recopilar  
-__glower__ _v_ :smiling_imp:  
-__godown__ _n_  
-__golden plover__ _n_  
-__googolplex__ _n_ /GOO-guhl-pleks/ The number 1 followed by a googol number of zeros.  
-__grawlix__ _n_ :dart: /GRAW-liks/ A series of special characters, such as “@#$%&*,” that are used to indicate either miscellaneous text, or more commonly, swear words. The term is attributed to Mort Walker, an American cartoonist known for his Beetle Bailey comic strip.  
-__graze__ _n_ __1__ The act of brushing or scraping along a surface. __2__ A minor scratch or abrasion.  
-__grease pit__ _n_ A narrow pit or trench over which a vehicle can be driven and conveniently worked on from beneath.  
-__greenwood__ _n_  
-__gridiron__ _n_ /GRID-eye-ern/  
-__gritty__ _adj_ __1__ Courageous; hardy; resolute.  
-__grouse__ _v_  
-__gruff__  
-__gruntled__ _adj_ /ˈɡrʌntəld/ _informal_ Happy or contented; satisfied.  
-__guardian__ _n_ (tutor?)  
-__gullible__ _adj_ :smiling_imp: Easily deceived or duped. _Syn_ fleeceable, green  
-__gutsy__ _adj_ Marked by courage and determination in the face of difficulties or danger; robust and uninhibited. _Syn_ plucky  
-__guttersnipe__ _n_  
-__hammy__ _adj_ /ˈhæm i/ Characterized by a highly exaggerated theatricality: _a hammy actor; a hammy performance._  
-__hands-off__ _adj_ Characterized by nonintervention: a hands-off foreign policy.  
 __handyman__ _n_ :es: manitas  
 __haphazardly__ _adv_ In a random manner.  
 __harass__ _v_  
