@@ -500,8 +500,7 @@ __nubbly__ _adj_ Rough or irregular; textured. _Syn_ homespun, nubby, slubbed, t
 __nursing__ _n_ __1__ The profession of a nurse. __2__ The tasks or care of a nurse.  
 __nurture__ _n, vt_  
 __obsequious__ _adj_  
-__ocassion__  
-__occasion__ _n_ :pencil2:  
+__occasion__ _n_ :three::hammer::pencil2:  
 __occasionally__ _adv_ :pencil2: Now and then; from time to time.  
 __occultism__ _n_  
 __oddment__ _n_  
@@ -629,6 +628,7 @@ __quagmire__ _n_ An area of miry or boggy ground whose surface yields under the 
 __quail__ _v_  
 __Quaker__ _n_ /ˈkweɪkə/  
 __quaver__ _vi_ __1__ To quiver, as from weakness; tremble. _I took a quavering breath._  
+__queasy__ _adj_  
 __Queen’s evidence__ _n_  
 __quiff__ _n_  
 __quiver<sup>1</sup>__ _vi_  
@@ -696,6 +696,9 @@ __skewer<sup>2</sup>__ _vt_
 __skullduggery__ _n_ :smiling_imp: Dishonorable proceedings.  
 __slag__ _v_ _Slagged by fire._  
 __slight__ _adj_ /slaɪt/  
+__smugly__ _adv_  
+__snigger__ _v_  
+__snort__ _v_  
 __spark plug__ _n_  
 __spearhead__ _vt_  
 __spinster__ _n_ :es: solterona  
@@ -710,12 +713,14 @@ __squelch__ _v_
 __squirm__ _vi_  
 __stakeout__  
 __stammer__ _v_ :two::hammer:  
+__stasis__ _n_ :two::hammer:  
 __statute of limitations__ _n phr_  
 __statutory__ _adj_  
 __steady__  
 __steeped__ _adj_ :two::hammer:  
 __sterling__ _n_ __1a__ British money: _pound sterling._ _Take cash in sterling._ __b__ (as modifier): _sterling reserves._  
-__stoop__ _v_ :smiling_imp: Debase oneself morally, act in an undignified, unworthy, or dishonorable way. _Syn_ condescend, lower oneself  
+__stiff__ _n_ :smiling_imp: __1__ _slang_ A corpse.  
+__stoop__ _v_ :dart::two::smiling_imp: Debase oneself morally, act in an undignified, unworthy, or dishonorable way. _Syn_ condescend, lower oneself  
 __stopover__ _n_  
 __store__ _n_ :dart: A mercantile establishment for the sale of goods or services.  
 __stove__ _n_  
@@ -723,6 +728,7 @@ __stovepipe__
 __stow__ _v_ __3__ _(Nautical Terms)_ To pack or put away (cargo, sails and other gear, etc). :es: estibar  
 __straddle__ _v_  
 __strafe__ _v_ :dart: /streɪf, strɑf/ __1__ To attack (ground troops, etc.) with fire from low-flying airplanes.  
+__stratagem__ _n_ :smiling_imp: A plan, scheme, or trick for surprising or deceiving an enemy.  
 __stray dog__ _n_ An ownerless dog, a roaming wild or half-wild dog.  
 __street trading__ _n_ The selling, or exposing for sale, of articles on certain streets. It is an offense in both England and Scotland although under different legislation.  
 __stridor__ _n_ :es: estridor, ruido sordo respiratorio  
@@ -737,6 +743,7 @@ __subdural__ _adj_ Located or occurring beneath the dura mater: _subdural space;
 __succinctly__ _adv_ With concise and precise brevity; to the point. _Syn_ compactly  
 __succor__ _n_ /SUCK-er/ _Succor_ is a literary term meaning “something that you do or give to help someone who is suffering or in a difficult situation.”  
 __Sufism__ _n_ The beliefs and practices of an ascetic, retiring, and mystical sect in Islam.  
+__sultry__ _adj_ __3__ Displaying or suggesting passion; sensual: _sultry eyes._  
 __sumac__ _n_ :three::hammer:  
 __summit__ _v_  
 __summons__ _n_  
@@ -752,14 +759,22 @@ __suspicious__ _adj_ :es: desconfiado; sospechoso; suspicaz
 __swedes__ _n_ :two::hammer: _I helped her mash the swedes._  
 __switchboard__  
 __swivel__ _v_  
+__tableau__ _n_ A picture, as of a scene.  
 __tariff__ _n_ /ˈtær ɪf/  
 __tarp__ _n_ Waterproofed canvas.  
+__tatty__ _adj_ Somewhat worn, shabby, or dilapidated.  
 __taunt__ _vt_ /tɔːnt/ __1__ To provoke or deride with mockery, contempt, or criticism. __2__ To tease; tantalize.  
 __teetotaler__ _n_ (teetotaller)  
+__the nuts and bolts__  
+__thunk__ _n_  
 __tire iron__ _n_ A short length of steel with one end flattened to form a blade, used to remove tires from wheel rims.  
 __transient__ _adj_ _Temporary conduction block can occur as a result of transient edema._  
+__transmogrification__ _n_  
+__transmogrify__ _v_  
 __trump__ _v_ /trʌmp/  
 __two peas in a pod__  
+__tyranny__ _n_ :pencil2:  
+__uh-huh__  
 __unabashed__ _adj_ :three: Not ashamed, disconcerted, or apologetic; boldly certain of one’s position. Not disconcerted or embarrassed; poised. _Syn_ unembarrassed  
 __unassailable__  
 __unassuming__ _adj_  
@@ -767,10 +782,17 @@ __unattainable__ _adj_ _Unattainable love._
 __unconscionable__ _adj_ :smiling_imp:  
 __unduly__ _adv_  
 __unruly__ _adj_ _Unruly hair._  
+__upturned__ _adj_ /ʌpˈtɜːnd/ __3__ Turned over or upside down: _the seat was an upturned bucket._  
 __vilify__ _vt_ :two::hammer: /VIL-uh-fye/  
 __virago__ _n_ /vɪˈrɑ goʊ, -ˈreɪ-/  
 __virid__ _adj_ /VIR-id/ Bright green.  
 __visa national__ _n_ A person from a country whose citizens are required to obtain a visa before entering the United Kingdom, regardless of the purpose or duration of their visit.  
+__vociferous__ _adj_ Crying out noisily.  
+__way to go__  
+__welsh__ _vi_ :smiling_imp:  
+__werebear__  
+__werewolf__  
+__wince__ _v_  
 __withdrawal symptom__ _n_ :dart: Any physical or psychological disturbance (as sweating or depression) experienced by a drug addict when deprived of the drug.  
 __withhold__ _v_ :pencil2:  
 __woe__  
