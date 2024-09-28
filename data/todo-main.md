@@ -57,6 +57,7 @@ __breeches__ _n pl_ __1__ trousers extending to the knee or just below, worn for
 __breeze block__ _n_ A light concrete building block made with cinder aggregate; _cinder blocks_ are called _breeze blocks_ in Britain. _Breeze blocks on the streets of Havana._  
 __bric-a-brac__ _n_  
 __brisk__ _adj_ (brisker, briskest)  
+__bristle__ _v_  
 __britches__ _n pl_ :three: /ˈbrɪtʃɪz/ (Clothing & Fashion) A variant spelling of _breeches_.  
 __Britpop__ _n_ /ˈbrɪtˌpɒp/ The characteristic pop music performed by some British bands of the mid 1990s.  
 __broach__ _v_  
@@ -94,6 +95,7 @@ __ceiling rose__ _n_ In the United Kingdom and Australia, a _ceiling rose_ is a 
 __Ceroc__ _n_ /səˈrɒk/ (Dancing) _trademark_ A form of dance combining elements of jive and salsa.  
 __char__ _v_ Burn slightly and superficially so as to affect color. _Syn_ blacken, sear, scorch.  
 __chemist__ _n_ __1__ A scientist specializing in chemistry. __2__ _Chiefly British_ A pharmacist.  
+__chide__ _v_  
 __childminder__ _n_ (Social Welfare) A person who looks after children, esp those whose parents are working. :es: niñera  
 __chockablock__ _adj_ /CHAH-kuh-blahk/ Something described as chockablock is very full or tightly packed.  
 __choosy__ _adj_  
@@ -105,6 +107,7 @@ __claimant__ _n_ :es: demandante; solicitante
 __clean-shaven__ _adj_ __1__ Having the beard or hair shaved off. __2__ Having recently shaved.  
 __cleaning agent__  
 __clearing bank__ _n_ (in Britain) Any bank that makes use of the central clearing house in London for the transfer of credits and cheques between banks.  
+__close to one’s chest__  
 __close-knit__ _adj_ Held tightly together, as by social or cultural ties: _a close-knit family._  
 __clued up__ _adj_ _BrE_ _informal_ Knowledgeable about a topic or situation; possessing the facts. :es: al tanto (de), al corriente (de)  
 __co-op__ _n_ :three: A cooperative enterprise, building, or apartment.  
@@ -127,11 +130,13 @@ __condone__ _v_
 __conscientious objector__ _n_ (CO) One who on the basis of religious or moral principles refuses to bear arms or participate in military service.  
 __conscientious__ _adj_ :es: concienzudo  
 __conscription__ _n_  
+__considering__ _adv_ _nformal_ All things considered: _We had a good trip, considering._  
 __convenience food__ _n_ :dart: A prepackaged food that can be prepared quickly and easily.  
 __conveyancing__ _n_ :two: (Law) The branch of legal practice dealing with the conveyance [transfer of the legal title to property] of property or real estate.  
 __cookhouse__ _n_  
 __copious__ _adj_ /KOH-pee-us/ _Copious_ is a synonym of abundant and plentiful. It is always used before a noun to describe something very large in amount or number.  
 __copperas__ _n_ /ˈkɒpərəs/ A less common name for ferrous sulphate.  
+__coriander__ _n_ :es: cilantro  
 __cornices__ _n_ :two::hammer:  
 __cornpone__ _n_  
 __cosmesis__ _n_  
@@ -142,6 +147,7 @@ __craft__ _n_ __5__ _crafts_ Items made by craftspeople.
 __creche__ _n_ :three::hammer:  
 __crèche__ _n_ :two: __3__ _Brit._ Say nursery.  
 __crenellated__ _adj_ (crenelated) _Crenellated walls._  
+__creosote__ _n_  
 __criminal offence__ _n_ An act punishable by law; usually considered an evil act. _Syn_ crime, criminal offense, law-breaking, offense, offence  
 __crisis intervention__ _n_  
 __croft__ _n_  
@@ -156,6 +162,7 @@ __cyclone__ _n_ /ˈsaɪ kloʊn/
 __dally__ _v_ /DAL-ee/ The word _dally_ has a number of meanings. To dally can be to physically linger or dawdle, or to waste time. Dally may also mean “to act playfully,” especially in a romantic sense, or “to deal with something lightly or in a way that is not serious.”  
 __damnation__ _n_ :es: perdición  
 __darn__  
+__deadpool__ _n_ :dart: (dead pool, death pool) A game of prediction or gambling that involves guessing when people, typically celebrities, will die. (See stiffs.com)  
 __deaf-mute__ _adj, n_  
 __dear__ _adj_ __4a__ :dart: Highly priced. _Software is dearer in the UK than in the USA._ __b__ Charging high prices.  
 __decor__ _n_  
@@ -167,11 +174,14 @@ __deport__ _vt_ __1__ To expel from a country: _deported the foreigner who had e
 __deride__ _vt_ [:scroll: Latin dērīdēre : dē-, de- + rīdēre, _to laugh at_]  
 __descant__ _n_  
 __deter__ _v_ /dɪˈtɜr/  
+__dimple__ _n_  
 __dinghy__ _n_  
+__dingy__ _adj_  
 __disarmament__ _n_  
 __dishevelled__  
 __disinformation__ _n_  
 __dispensary__ _n_  
+__disport__ _v_  
 __dissatisfied__  
 __distress signal__ _n_  
 __divide__ _n_  
@@ -200,6 +210,7 @@ __endure__ _v_ _I could hardly even endure my own reflection in the mirror._
 __enlightened__ _adj_ _Enlightened despot._  
 __ensconce__ _v_  
 __epaulettes__ _n_  
+__épée__ _n_ /ˈɛpeɪ; _French_ epe/ (epee) :es: espada de esgrima  
 __Equity__ _n_ :astonished: /ˈɛkwɪtɪ/ _Theatre_ The actors’ trade union. Full name: Actors’ Equity Association  
 __equivocacy__ _n_ /i-KWIV-uh-kuh-see/ The quality of being deliberately ambiguous or vague.  
 __ethos__ _n_ /EE-thahss/ _Ethos_ refers to the guiding beliefs of a person, group, or organization. :es: espíritu; escala de valores _The company made environmental awareness part of its business ethos._  
@@ -210,6 +221,7 @@ __exonerate__ _v_
 __fallacious__ _adj_ /fuh-LAY-shus/ _Fallacious_ is a formal word that typically describes something, such as an argument or assumption, that is false or inaccurate and that tends to mislead or deceive others.  
 __fanfare__ _n_ /FAN-fayr/ __1__ A showy public display. __2__ A brief, lively sounding of brass instruments, especially trumpets, in a celebration.  
 __fang__ _n_ __2__ A long, sharp, pointed tooth, especially a canine tooth of a carnivorous animal, such as a dog or wolf, with which it seizes and tears its prey.  
+__far__ _adv_ __3__ To a considerable degree; much: _felt far better yesterday; eyes that seemed far too close together._  
 __far-fetched__ _adj_ Improbable in nature; unlikely.  
 __far-flung__ _adj_  
 __farsighted__ _adj_ Planning prudently for the future. _Syn_ foresighted, long, longsighted, prospicient  
@@ -236,6 +248,7 @@ __firebrand__
 __firsthand__  
 __flapper__ _n_  
 __flash flood__ _n_ (flashflood) A sudden flood of great volume, usually caused by heavy rain.  
+__flat__ _adv_ :dart: __3a__ Directly; completely: _went flat against the rules; flat broke._ __b__ Exactly; precisely: _arrived in six minutes flat._  
 __flat-footed__ _adj_  
 __flaunt__ _v_  
 __fleck__ _n_  
@@ -281,6 +294,7 @@ __full board__ _n_ :dart: __a__ The provision by a hotel of a bed and all meals.
 __funfair__  
 __funkhole__  
 __fusty__ _adj_ /FUSS-tee/ Someone or something described as fusty is rigidly old-fashioned. Fusty is also used as a synonym of musty to describe things that are full of dust and unpleasant, stale odors.  
+__gabardine__ _n_ A firm, tightly woven fabric of worsted, cotton, polyester, or other fiber, with a twill weave.  
 __gabby__ _adj_ Tending to talk excessively. _Syn_ chatty, garrulous, loquacious, talkative, talky  
 __gadabout__ _n_ /GAD-uh-bout/ A gadabout is a person who flits about in social activity, as by going to many places and social events for pleasure.  
 __gaffer__ _n_ __1__ [:scroll: Probably alteration (influenced by _grandfather_) of _godfather_] An electrician in charge of lighting on a movie or television set.  
@@ -333,6 +347,7 @@ __hoover__
 __horse brass__ _n_ :camera: A decorative brass ornament, usually circular, originally attached to a horse’s harness.  
 __hotplate__ _n_ :two::hammer:  
 __house martin__ _n_ (housemartin)  
+__hovel__ _n_ __1__ A small, miserable dwelling. __2__ An open, low shed.  
 __huddle__ _v_  
 __husk__ _n_ /hʌsk/  
 __idiosyncrasy__  
@@ -379,6 +394,7 @@ __kung fu__ _n_ /ˈkʌŋ ˈfu, ˈkʊŋ/
 __labyrinthine__ _adj_ Resembling a labyrinth in form or complexity. _Syn_ mazy  
 __lackey__ _n_  
 __laic__ _adj_ Of or relating to the laity. _Syn_ lay, secular  
+__lambent__ _adj_ :two: __1__ (esp of a flame) Flickering softly over a surface.  
 __lap__ _vt_ __6__ :dart: _Sports_ To get ahead of (an opponent) in a race by one or more complete circuits of the course, as in running, or by two or more lengths of a pool in swimming.  
 __largesse__ _n_ :es: generosidad  
 __latch__ _n_  
@@ -449,6 +465,7 @@ __meliorism__ _n_ /MEE-lee-uh-riz-um/ _Meliorism_ refers to the belief that the 
 __memento__ _n_ :mega: /muh-MEN-toh/ _Memento_ is a synonym of _souvenir_; it refers to something that is kept as a reminder of a person, place, or thing.  
 __menagerie__ _n_ A collection of wild or unusual animals, especially for exhibition.  
 __mess tin__ _n_ A portable container for cooking or serving food, originally for military use, and generally of a rounded rectangular form.  
+__mewl__ _vi_ To cry, as a baby, young child, or the like; whimper.  
 __miasma__ _n_  
 __microfiche__ _n_ /ˈmaɪ krəˌfiʃ/ A flat sheet of microfilm, containing reproductions of printed or graphic matter.  
 __midriff__  
@@ -473,8 +490,11 @@ __mother of pearl__ _n_
 __mountaineering__  
 __mourning band__  
 __mpox__ _n_ (formerly called _monkey pox_) A zoonotic disease especially of central and western Africa that is caused by a poxvirus.  
+__muddle__ _n_ __1__ A disordered condition; a mess or jumble.  
 __mundane__ _adj_  
 __mushroom__ _vi_ __1__ To multiply, grow, or expand rapidly: _The population mushroomed in the postwar decades._  
+__mutter<sup>1</sup>__ _n_ A low grumble or indistinct utterance.  
+__mutter<sup>2</sup>__ _v_ :two::hammer:  
 __muttering__ _n_  
 __nags__ _n_ _Riding old nags._  
 __nail varnish__ _n_ (nail enamel, nail polish)  
@@ -592,6 +612,7 @@ __poll tax__ _n_ A fixed tax levied on all persons in a certain area, especially
 __polyandry__ _n_ /POL-ee-an-dree/ The practice of having multiple husbands or male mates at the same time.  
 __polypharmacy__ _n_ The practice of prescribing multiple medications for an individual patient, especially excessively, for a single disease.  
 __polytechnic__ _adj, n_  
+__pommel__ _n_  
 __pontoon__ _n_  
 __pool__ _n_ __1a__ A game of chance, resembling a lottery, in which the contestants put staked money into a common fund that is later paid to the winner. __b__ A fund containing all the money bet in a game of chance or on the outcome of an event.  
 __poplar tree__  
@@ -638,11 +659,16 @@ __racket__ _n_ __1__ A loud distressing noise.
 __racketeer__ _n_ :smiling_imp: One who obtains money by an illegal enterprise usually involving intimidation.  
 __ragbag__ _n_  
 __rampage__ _n_ Violently angry and destructive behavior. _Syn_ violent disorder  
+__ransack__ _vt_  
 __rapport__ _n_ /ræˈpɔr, -ˈpoʊr, rə-/  
 __Rastafarian__ _adj, n_  
 __raving<sup>1</sup>__ _n_  
 __raving<sup>2</sup>__ _adj_ Delirious, irrational speech.  
 __rear__ _vt_ :two: __1__ To care for (children or a child) during the early stages of life; bring up. __2__ To tend (growing plants or animals). __3__ To build; erect.  
+__rear<sup>1</sup>__ _n_  
+__rear<sup>2</sup>__ _adj_  
+__rear<sup>3</sup>__ _vt_  
+__rear<sup>4</sup>__ _vi_ __1__ To rise on the hind legs, as a horse. __2__ To rise high in the air; tower.  
 __rebate__ _n_ A refund of a fraction of the amount payable or paid, as for goods purchased in quantity; discount. :es: reembolso  
 __receptacle outlet__ _n_ An electrical outlet where one or more receptacles are installed.  
 __receptacle__ _n_ A device which is installed in an outlet box to receive a plug for the supply of electric current to an appliance or portable equipment.  
@@ -680,6 +706,8 @@ __road rash__ _n_ An abrasion on some area of one’s skin resulting from fallin
 __roar__ _n_  
 __rotund__ _adj_ __1__ Rounded in figure; plump. _Syn_ fat  
 __rundown__ _n_ :two: __1__ A point-by-point summary.  
+__rustle<sup>1</sup>__ _v_ /ˈrʌsəl/ __1__ To make or cause to make a low crisp whispering or rubbing sound, as of dry leaves or paper. __2__ To move with such a sound.  
+__rustle<sup>2</sup>__ _n_ The sound made by rustling.  
 __sales floor__ _n_ The part of a business devoted to retail activities, such as a showroom or selling area of a shop or department store, usually manned by sales staff and having free public access with goods on display.  
 __saunter__  
 __sconce__ _n_ __1__ A small defensive earthwork or fort.  

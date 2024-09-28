@@ -6,6 +6,7 @@ __alas__ :three::mega::hammer: /əˈlæs, əˈlɑs/
 __allegedly__ An exclamation expressing disbelief or skepticism.  
 __aw__ :dart::four: Used to express sympathy, tenderness, disapproval, or disbelief. _Aw, snap!_  
 __aye yi yi__ :two: Used to express your pain, sadness, shock, or dismay.  
+__bah__ Used to express impatient rejection or contempt.  
 __bam__ :two: __1__ Representing a loud noise or heavy impact. Used to indicate the sound of a blow or a collision. __2__ Representing a sudden or abrupt occurrence. Used to indicate a sudden or unexpected occurrence. _BAM!_  
 __bejesus__ (bejeezus) Used to express exasperation, annoyance, or surprise.  
 __big deal<sup>2</sup>__ :dart::five: Used ironically to indicate that something is unimportant or unimpressive. _Big deal._  
@@ -38,6 +39,7 @@ __hah__ A variant spelling of ha.
 __heck__ :two: Used as a mild oath.  
 __hell yeah__  
 __hell yes/no__ _mainly US informal_ :two: Used to emphasize that you strongly agree or disagree, like or dislike something, etc.  
+__hey-ho__ _interj_ (heigh-ho) /ˈheɪˈhəʊ/ An exclamation of weariness, disappointment, surprise, or happiness.  
 __hiya__ An informal term of greeting.  
 __hmm__ :dart::eight: /mm/ /hmmm/ (hmmm) [:dart: The sound _hmmm_ (or _hmm_) is used as an interjection and exclamation that can mean many things, but it’s most typically used to express consideration or puzzlement. In other words, it’s the sound you make when you’re trying to work something out.] A sound made when considering or puzzling over something.  
 __hmph__ A sound, usually made with a closed mouth, indicating annoyance or indignation.  
