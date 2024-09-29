@@ -2063,6 +2063,7 @@ __bonged__ _v_
 __bonhomie__ _n_ A pleasant and affable disposition. _Syn_ affability, affableness, amiableness, geniality, amiability  
 __bonked__ _v_ _The stadium lights bonked out._  
 __bonkers__ _adj_ _informal_ :six: Crazy. _That’s bonkers!_  
+__bonnet__ _n_ :three::hammer:  
 __bonnie blue flag__  
 __bonobo__  
 __bonus__ _n_ :mega: /bō′nəs/  
@@ -2070,10 +2071,11 @@ __boo__ _v_ :two::hammer:
 __boo-hoo__ _v_ Used to describe a kind of childish or exaggerated crying. In other words, when someone is “boo-hooing,” they’re not just shedding a couple tears, they’re wailing and bemoaning their fate in a pretty over-the-top way. It’s often used as a joke or a way to make light of a situation that’s not really that serious.  
 __boo<sup>1</sup>__ _v_ :three::hammer: (booed) :es: abuchear  
 __boo<sup>2</sup>__ _n_ _informal_ __1a__ A boyfriend or girlfriend. __b__ A spouse. __2__ Used as a term of endearment for such a person.  
-__booby trap__ _n_ :four::hammer:  
+__booby trap__ _n_ :five::hammer:  
 __booby-trapped 105’s__  
 __boocoo__ _adj, adv, n_ :two: _Chiefly Southern US_ Variant of _beaucoup_. _I’d take boocoo notes._  
 __boodle__ _n_  
+__booger__ _n_ _slang_ __1__ A gob or dried piece of nasal mucus. __2__ Any person or thing, esp. one regarded as troublesome, unpleasant, etc. often used humorously and affectionately.  
 __boogeyman__  
 __boogie__ _n_ :two: __1__ Strongly rhythmic rock music. __2__ Boogie-woogie.  
 __boohoo__ _v_ :two::hammer:  
@@ -2095,7 +2097,7 @@ __bookmobile__ _n_ :two: A truck, trailer, or van equipped to serve as a mobile 
 __bookplate__  
 __bookrunner__  
 __bookshop__ _n_ :three: A bookstore.  
-__bookstall__ _n_ :two::hammer:  
+__bookstall__ _n_ :three: __1__ A booth or stall at which books are sold, usu. secondhand. __2__ A stall or stand where periodicals, newspapers, or books are sold. US word: newsstand  
 __bookworm__ _n_ :two: Someone who enjoys reading books and spends a lot of time doing it.  
 __boolean__ _n_ :mega:  
 __boom and bust__  
@@ -2119,6 +2121,7 @@ __boot-faced__ _adj_ /BOOT-fayst/ [:scroll: From the expression “to have a sea
 __boot<sup>1</sup>__ _n_ :two: An enclosed compartment of a car for holding luggage, etc, usually at the rear. US and Canadian name: trunk. _He loaded their cases into the boot._ _The boot is a still-generous 17.7 cubic feet._  
 __boot<sup>2</sup>__ _v_ :four::hammer: _She’d keep the golden tooth to boot._ _Now the Eagles have a postseason victory to boot._ _We needed ways to boot people from the bridge._  
 __booties__ _n_ _Pick up some booties at_ Babinski’s Baby.  
+__bootlace__ _n_ _BrE_ A shoelace.  
 __bootleg__ _adj_ Produced, distributed, or sold illicitly: _bootleg whisky; bootleg tapes._  
 __bootlegger__  
 __bootstrap paradox__ _n_ A time travel paradox in which the consequences of an event in the future travel back in time and cause an event in the past or present, which in turn is among the causes of the first event, forming a causal loop in which each event is caused by the other.  
@@ -2186,6 +2189,7 @@ __bovarism__ _n_
 __bovine<sup>1</sup>__ _adj_ Relating to a cow or cattle.  
 __bovine<sup>2</sup>__ _n_ An animal belonging to the genus (Bos) of ruminant mammals that includes the cow, wild ox, and yak.  
 __bow__ _n_ :five::camera::hammer: _A gift bow._ _Lexus (Toyota’s luxury brand) put the red bows atop its cars two weeks before Thanksgiving._ _Violins, violas, cellos and bows._ _The bow of the ship._  
+__bow-legged__ _adj_ :three::hammer:  
 __bowdlerize__ _v_ :six: /BOHD-ler-ize/ In its strictest sense, to _bowdlerize_ a book, manuscript, etc. is to modify it by editing so that nothing judged to be morally harmful or offensive remains. More broadly, _bowdlerize_ means “to modify by abridging, simplifying, or distorting in style or content.” To remove the parts of a book, movie, or play that are likely to offend people, with the result that it is no longer very good. _Syn_ expurgate, sanitize _The publisher refused to bowdlerize the classic novel, so the school board voted to place it on the district’s banned books list._  
 __bowel movement__ _n_ (BM) A euphemism for defecation; _“he had a bowel movement.”_  
 __bowie knife__ _n_ :two::hammer:  
@@ -2197,7 +2201,7 @@ __bowsprit__ _n_
 __box score__  
 __box__ _n_ :four::hammer: (soccer) _Kyle fouled Ben in the box._ _The Etihad is the last empty box on his list._  
 __boxcars__ _n_ _My best thorw of the die kept coming back boxcars, deuces, and treys._  
-__Boxing Day__ _n_ :two::hammer:  
+__Boxing Day__ _n_ :three::hammer:  
 __boxwood__ _n_ :two::hammer: /ˈbɒksˌwʊd/ /BOY-kaht/  
 __boy wonder__ _n_ An extremely talented or accomplished boy or young man. _What happened to the boy wonder?_  
 __boycott<sup>1</sup>__ _n_ :astonished::three::mega::hammer: /ˈbɔɪkɒt/  
@@ -2220,7 +2224,7 @@ __brain death__ _n_ _We’re witnessing the brain death of Twitter._
 __brain drain__  
 __brain fog__ _n_ :three: A usually temporary state of diminished mental capacity marked by inability to concentrate or to think or reason clearly.  
 __brainchild__ _n_ :five::hammer:  
-__brainiac__ _n_ :three: A very intelligent person. As Superman fans know, Brainiac was the superintelligent villain in the _Action Comics_ series and its spin-offs. His name is a portmanteau of _brain_ and _maniac_.  
+__brainiac__ _n_ :four: /BRAY-nee-ak/ A very intelligent person. As Superman fans know, Brainiac was the superintelligent villain in the _Action Comics_ series and its spin-offs. His name is a portmanteau of _brain_ and _maniac_.  
 __brainpan__  
 __brainpower__ _n_  
 __brainwash<sup>1</sup>__ _vt_  
@@ -2279,7 +2283,7 @@ __break wind__ _v_
 __break-the-china__  
 __breakaway<sup>1</sup>__ _n_ :two::hammer:  
 __breakaway<sup>2</sup>__ _adj_  
-__breakdown__ _n_ :three::hammer: _Population breakdown._ _The Postal Service does not release detailed country-by-country shipping breakdowns._  
+__breakdown__ _n_ :four::hammer: _Population breakdown._ _The Postal Service does not release detailed country-by-country shipping breakdowns._  
 __breaking character__  
 __breakneck__ _adj_ :two: __1__ Dangerously fast: _a breakneck pace._ _Forcing defenses to react on the fly to a breakneck tempo._ __2__ Likely to cause an accident: _a breakneck curve._  
 __breakout<sup>1</sup>__ _n_ :four: An escape from jail.  
@@ -2295,7 +2299,9 @@ __breathing room__
 __breech birth__ _n_ The delivery of a fetus (unborn baby) hind end first.  
 __breech position__ _n_ When a child is oriented feet first in the mother’s uterus just before delivery.  
 __breech__ _n_ :six::hammer: (breeches)  
+__breeches__ _n pl_ __1__ trousers extending to the knee or just below, worn for riding, mountaineering, etc.  
 __breed__ _v_ :two::hammer: _It can breed suspicion._ _Breeding fear._  
+__breeze block__ _n_ A light concrete building block made with cinder aggregate; _cinder blocks_ are called _breeze blocks_ in Britain. _Breeze blocks on the streets of Havana._  
 __breeze__ _n_ __1__ A light current of air; a gentle wind.  
 __breezy__ _adj_ :four::hammer: _The breezy tone of the readout._ _Breezy confidence._  
 __brethren__ _n pl_ :four::hammer: _Political brethren._  
@@ -2303,7 +2309,7 @@ __breviary__ _n_ A book containing the hymns, offices, and prayers for the canon
 __brew__ _n_ :two: __1__ Coffee; occasionally, tea. _This is my kind of brew, hot, black, and arA book containing the hymns, offices, and prayers for the canonical hours.omatic._ __2__ Beer; a can, bottle, or glass of beer. _Hey, give me a cold brew, will ya?_ _They stop in after work for one or more brews._  
 __brewpub__ _n_  
 __briar__ _n_ :three::hammer: _Briar patch._  
-__bric-a-brac__ _n_ :three: Small, usually ornamental objects valued for their antiquity, rarity, originality, or sentimental associations. _Bric-a-brac stores._ _Syn_ knickknackery, whatnot  
+__bric-a-brac__ _n_ :four: Small, usually ornamental objects valued for their antiquity, rarity, originality, or sentimental associations. _Bric-a-brac stores._ _Syn_ knickknackery, whatnot  
 __brick oven__ _n_ _Brick-oven pizza._  
 __brick__ _n_ :two: _basketball_ A badly missed shot in basketball. _He threw up a brick._  
 __brick-a-brac__ _n_  
@@ -2330,22 +2336,23 @@ __briny__ _adj_
 __brio__ _n_  
 __Brisbane__ _n_ :mega: /ˈbrɪz beɪn, -bən/  
 __brise-soleil__ _n_ (Architecture) a structure used in hot climates to protect a window from the sun, usually consisting of horizontal or vertical strips of wood, concrete, etc. _Brise-soleil shading._  
-__brisk__ _adj_ :five::hammer: _Brisk pace._ _A brisk walk._  
+__brisk__ _adj_ :six::hammer: (brisker, briskest) _Brisk pace._ _A brisk walk._  
 __brisker__  
 __brisket__ _n_ :five::hammer: _BBQ beef brisket._  
 __briskly__ _adv_ :two::hammer: _Briskly walking._  
 __bristle<sup>1</sup>__ _n_ :four::mute:[bris~~t~~le]:hammer: (bristles)  
-__bristle<sup>2</sup>__ _v_ :seven::mute:[bris~~t~~le] To behave in a way that shows you are very angry or annoyed: _bristle with rage._  
+__bristle<sup>2</sup>__ _v_ :eight::mute:[bris~~t~~le] To behave in a way that shows you are very angry or annoyed: _bristle with rage._  
 __Bristolian__  
-__britches__ _pl n_ :three: _(Clothing & Fashion)_ A variant spelling of breeches (trousers extending to the knee or just below, worn for riding, mountaineering, etc.). _We think that you’re a little too big for your britches._ _He got too big for his own britches._  
+__britches__ _pl n_ :six: /ˈbrɪtʃɪz/ _(Clothing & Fashion)_ A variant spelling of _breeches_ (trousers extending to the knee or just below, worn for riding, mountaineering, etc.). _We think that you’re a little too big for your britches._ _He got too big for his own britches._  
 __Britons__  
+__Britpop__ _n_ /ˈbrɪtˌpɒp/ The characteristic pop music performed by some British bands of the mid 1990s.  
 __Brittany__ _n_ (not to be confused with _Britannia_; French name: _Bretagne_) A historical region and former province of northwest France on a peninsula between the English Channel and the Bay of Biscay. It was settled c. 500 by Britons driven out of their homeland by the Anglo-Saxons. The region was formally incorporated into France in 1532.  
 __brittle<sup>1</sup>__ _adj_ :nine::m: Something brittle is easily broken. _Do you have brittle bones? Then no football or rugby for you._ :es: frágil  
 __brittle<sup>2</sup>__ _n_ Caramelized sugar cooled in thin sheets. _Clean the peanut brittle out of your mouth._  
-__broach__ _v_ :nine: (broached) To bring up (a subject) for discussion or debate. _Syn_ initiate _To broach a conversation._ _He broached the subject._ _The King does not wish the marriage to be broached on his part._  
+__broach__ _v_ :nine::m: (broached) To bring up (a subject) for discussion or debate. _Syn_ initiate _To broach a conversation._ _He broached the subject._ _The King does not wish the marriage to be broached on his part._  
 __broad-spectrum__ _adj_ /BRAWD-SPEK-truhm/ Effective in a wide variety of uses.  
 __broad<sup>1</sup>__ _n_ :two: __2__ _offensive_ _slang_ A woman or girl.  
-__broad<sup>2</sup>__ _adj_ :two: __2__ Extending far and wide. _The nine S&P 500 stocks with the greatest exposure to Europe didn’t fall apart but still did worse than the broad market._ (vs abroad) Full; open. _In broad daylight._  
+__broad<sup>2</sup>__ _adj_ :three: __2__ Extending far and wide. _The nine S&P 500 stocks with the greatest exposure to Europe didn’t fall apart but still did worse than the broad market._ (vs abroad) Full; open. _In broad daylight._  
 __broadcast__ _v_ (broadcasted)  
 __broaden__ _v_ :two::hammer:  
 __broadloom__ _n_  
@@ -2383,7 +2390,7 @@ __broth__
 __brother-in-arms__ _n_ :two: (brothers in arms) A fellow soldier or comrade in a shared struggle. _I serve Rome, my officers, and my brothers-in-arms._  
 __Brothers Grimm__ _n_  
 __brouhaha__ _n_ :five: /BROO-hah-hah/ Brouhaha is a synonym of both uproar and hubbub, and can mean “a noisy confusion of sound” or “state of commotion.” _A brouhaha erupted over the bill, even though the opposing party stood to gain just as much from its passage._  
-__brow__ _n_ The projecting upper edge of a steep place. _On the brow of a sloping hill._  
+__brow__ _n_ :two: The projecting upper edge of a steep place. _Syn_ top, summit, peak, edge, tip, crown, verge, brink, rim, crest, brim _On the brow of a sloping hill._  
 __browbeat__ _vt_ :two: Discourage or frighten with threats or a domineering manner; intimidate. _Syn_ bully, swagger _The police attempted to browbeat me into revealing my accomplices, but I would never squeal on my friends._  
 __browbeaten__ _adj_  
 __brown shirt__ _n_ Soldiers in Hitler’s storm trooper army, SA during the Nazi regime. They were called this because of the colored shirts they wore. To call someone a brown shirt is to call them a Nazi soldier, usually hinting that they oppose human rights or freedom. This is a very serious insult, and in forums is used to Flame someone.  
@@ -2403,6 +2410,7 @@ __bruncher__ _n_ _Sunday brunchers._
 __bruschetta__ _n_ :three::hammer: /broo-SHET-uh, broo-SKET-uh/ _Ostrich bruschetta._  
 __brush fire__ _n_ _Brush fires in California._  
 __brush__ _n_ _The goats cleared brush._  
+__brushwood__ _n_  
 __brusque__ _adj_ __1__ Markedly short and abrupt. __2__ Blunt in manner or speech often to the point of ungracious harshness.  
 __brusquerie__ _n_ Curtness or bluntness of manner.  
 __brussels sprout__ _n_ :two::hammer: (Brussels sprout)  
@@ -2425,6 +2433,7 @@ __buck<sup>1</sup>__ _n_ Buck is an informal reference to $1 that may trace its 
 __buck<sup>2</sup>__ _v_ :nine::m: (bucked, bucking) __1__ To leap upward arching the back: _The horse bucked in fright._ _Most of the men have never ridden a bucking animal._ _A wagon was overturned as horses bucked and shied._ __2__ To oppose directly and stubbornly; go against: _“Los Angeles County, the most populous county in the country, is bucking the trend.”_ (American Demographics) _Twenty players have bucked the trend by staying with one high school program._ _Many officers bucked the chain of command._  
 __buckaroo__ _n_ :two: A cowboy – used especially when talking to children. The iconic figure of the cowboy has gone by many other names in American English, including buckaroo, cowhand, cowman, cowpoke, cowpuncher, vaquero, and waddy, and two of these words, buckaroo and vaquero, come from Spanish. In California, however, the Spanish word vaquero was Anglicized to buckaroo.  
 __bucket and spade__ _n_ A child’s toy, consisting of a (usually plastic) bucket and spade, used for building simple sandcastles at the beach.  
+__bucket shop__ _n_  
 __buckeyes__  
 __buckle down (to something)__ _v informal_ :seven::dart: To apply oneself with determination. To start to do something seriously: _I’d better buckle down to those reports._  
 __buckle__ _v_ :nine::m: (buckled) Bend and give way under pressure or strain. _The earth buckled under the titanic stress._ _My knees buckle with fright._ _Syn_ warp, bend  
@@ -2471,6 +2480,7 @@ __building__ _n_ _A state building._
 __built-ins__ _n_ Appliances, machinery, and other equipment installed as part of a building rather than left freestanding.  
 __bulbar__ _adj_ Of, relating to, or characteristic of a bulb, especially of the medulla oblongata: _bulbar poliomyelitis._  
 __bulbous__ _adj_ _A bulbous man._  
+__bulimia nervosa__ _n_  
 __bulk up__ _v_  
 __bulk<sup>1</sup>__ _n_ :three::hammer: _For the bulk of eight years._  
 __bulk<sup>2</sup>__ _v_  
@@ -2502,6 +2512,7 @@ __bumble<sup>1</sup>__ _vi_ :nine::m: __1__ To speak in a faltering or rambling 
 __bumble<sup>2</sup>__ _vt_ :nine::m: __1__ To say (something) in a faltering manner. __2__ To bungle; botch: _bumble one’s lines in a play._  
 __bumblebee__ _n_ :two::hammer: (bumblebees)  
 __bumbling__ _adj_ :four: Clumsily lacking in the ability to do or perform. _Syn_ awkward, clumsy, gauche, heavy-handed, inept, maladroit, unskillful  
+__bumboat__ _n_ A small boat used to peddle provisions to ships anchored offshore.  
 __bumfuzzle__ _v_ :three::hammer: _(Chiefly Southern US)_  
 __bummer__ _n_ _slang_ :four: A disappointing or unpleasant situation or experience.  
 __bump__ _n_ _A bump free flight._  
@@ -2543,7 +2554,7 @@ __bunraku__
 __bunt__ _vt_ :three: __1__ To strike or push with or as if with the head. _Syn_ butt _You’re sitting down and your cat comes sauntering up to you, purring—and then immediately head-butts you, hard. What gives? Your cat is bunting._ __2__ To push or tap (a baseball) lightly with a bat without swinging. _Hamels batted in the third inning and tried to bunt._  
 __bunting__ _n_ :three::hammer: __3__ A snug-fitting, hooded sleeping bag or one-piece garment of heavy material for infants.  
 __Bunyanesque__ _adj_  
-__buoy<sup>1</sup>__ _n_ :two: A floating signal; a life preserver.  
+__buoy<sup>1</sup>__ _n_ :three: A floating signal; a life preserver.  
 __buoy<sup>2</sup>__ _v_ :four: (buoyed) __1__ Keep (someone or something) afloat. __2__ Sustain.  
 __buoyancy__ _n_ :dart::two: __2__ Ability to recover quickly from setbacks; resilience. __3__ Lightness of spirit; cheerfulness. Irrepressible liveliness and good spirit. _Syn_ irrepressibility _With his natural buoyancy of spirits, he began to hope again._  
 __buoyant__ _adj_ :five: __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _Buoyant energy._ _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
@@ -2553,6 +2564,7 @@ __burble__ _v_ :three: (burbled) __1__ Flow in an irregular current with a bubbl
 __burden of proof__ _n_  
 __burden__ _n_  
 __burdensome__ _adj_ :two::hammer:  
+__bureau__ _n_ :two::hammer: (_n pl_ bureaus, bureaux)  
 __bureaucracy__  
 __burgeon__ _vi_ :three: /BER-jun/ To bourgeon is to grow or develop quickly—in other words to flourish, blossom or sprout.  
 __burgeoning__ _adj_ :nine::m: Rapidly developing or growing; flourishing.  

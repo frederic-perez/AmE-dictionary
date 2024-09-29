@@ -44,31 +44,6 @@ __bobbin__ _n_ A cylinder or cone for holding thread; a spool or reel.
 __bog__ _n_ _A cow grazing in a bog._  
 __boiler suit__ _n_ _BrE_ A one-piece work garment consisting of overalls and a shirt top usually worn over ordinary clothes to protect them.  
 __bollock__ _vt_  
-__bonnet__ _n_ :three::hammer:  
-__booby trap__ _n_  
-__booger__ _n_ _slang_ __1__ A gob or dried piece of nasal mucus. __2__ Any person or thing, esp. one regarded as troublesome, unpleasant, etc. often used humorously and affectionately.  
-__bookstall__ _n_ __1__ A booth or stall at which books are sold, usu. secondhand. __2__ A stall or stand where periodicals, newspapers, or books are sold. US word: newsstand  
-__bootlace__ _n_ _BrE_ A shoelace.  
-__bow-legged__ _adj_ :three::hammer:  
-__Boxing Day__  
-__brainiac__ _n_ /BRAY-nee-ak/  
-__breakdown__ _n_  
-__breeches__ _n pl_ __1__ trousers extending to the knee or just below, worn for riding, mountaineering, etc.  
-__breeze block__ _n_ A light concrete building block made with cinder aggregate; _cinder blocks_ are called _breeze blocks_ in Britain. _Breeze blocks on the streets of Havana._  
-__bric-a-brac__ _n_  
-__brisk__ _adj_ (brisker, briskest)  
-__bristle__ _v_  
-__britches__ _n pl_ :three: /ˈbrɪtʃɪz/ (Clothing & Fashion) A variant spelling of _breeches_.  
-__Britpop__ _n_ /ˈbrɪtˌpɒp/ The characteristic pop music performed by some British bands of the mid 1990s.  
-__broach__ _v_  
-__broad__ _adj_ _In broad daylight._  
-__brow__ _n_ The projecting upper edge of a steep place. _Syn_ top, summit, peak, edge, tip, crown, verge, brink, rim, crest, brim  
-__brushwood__ _n_  
-__bucket shop__ _n_  
-__bulimia nervosa__ _n_  
-__bumboat__ _n_ A small boat used to peddle provisions to ships anchored offshore.  
-__buoy__ _n_  
-__bureau__ _n_ :two::hammer: (_n pl_ bureaus, bureaux)  
 __burin__ _n_  
 __burl__ _vt_  
 __burn (someone or something) to a crisp__  
