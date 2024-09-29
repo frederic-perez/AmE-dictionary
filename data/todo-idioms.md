@@ -1,3 +1,4 @@
+__(as) good as dead__  
 __(it’s) just as well (that) (something happened)__ It is or turned out to be beneficial (that something happened). _It turned out we had a pop quiz on Monday. Just as well I was studying this weekend!_  
 __(just) for the fun of it__  
 __(someone) ain’t seen nothing yet__  
@@ -95,6 +96,7 @@ __dig and poke around__ The idiom “dig and poke around” generally means to s
 __disabuse (someone or oneself) of (something)__  
 __do the trick__ To do, accomplish, or fulfil exactly what is needed or sought after. _The recipe calls for pancetta, but I think this regular bacon should do the trick._  
 __dodge__ :three::smiling_imp: /dɑdʒ/ A swindle; a scam; a deception. _What sort of dodge did you get flimflammed with?_  
+__don’t ask__  
 __don’t worry, be happy__ The phrase “Don’t worry, be happy” has its origins in the teachings of the Indian spiritual master Meher Baba. He frequently used this expression in communications with his followers, particularly in the West, as a succinct message of encouragement and positivity. Meher Baba’s teachings emphasized the importance of maintaining a positive outlook.  
 __double or quits__ A wager, undertaken after a previous wager, that stipulates two possible outcomes: if the winner of the previous wager wins again, they win twice the amount won in the previous wager; if they lose, they receive nothing. Primarily heard in UK.  
 __down the line__ In the future.  
@@ -127,10 +129,12 @@ __for all I know__
 __for better or (for) worse__  
 __for kicks__  
 __for starters__  
+__for the most part__  
 __for which read__ :dart: _Readjustment, scaling back, for which read — redundancies._ :es: léase  
 __free of charge__  
 __full-fledged__  
 __fussbudget__ :dart: _informal_ One who tends to be fussy or particular, usually to an excessive or unnecessary degree. Primarily heard in US. _Don’t be such a fussbudget, huh? This really isn’t a big deal._ _Of course Vanessa found some miniscule issue that no one else would have noticed. She’s such a fussbudget._  
+__gain momentum__ (gather momentum) To move faster. _The wagon gathered/gained momentum as it rolled down the hill._  
 __get (one, something) out of the system__  
 __get (something) out of (one’s) system__ __2__ To do something so that one no longer has the desire to do it anymore. _I got drinking and partying out of my system during college. I’m ready for a quieter life now._  
 __get lucky__  
@@ -160,6 +164,7 @@ __go bust__ :two: To experience financial failure or ruin, often as of a busines
 __go cold__ _The bonnet beneath had gone cold._  
 __go down the rabbit hole__  
 __go down the toilet__ To fail; to be ruined or destroyed; to be squandered or wastefully discarded.  
+__go figure__  
 __go for (something)__  
 __go into overdrive__ To start working very hard or quickly.  
 __go off the rails__  
@@ -435,9 +440,10 @@ __make one’s name__ To become well-known or famous.
 __make or break__  
 __male gaze__ The rendering of art, literature, etc., from the perspective of and for the consumption of heterosexual males, especially characterized by the depiction of women as passive objects of desire and pleasure. The phrase was coined by film theorist Laura Mulvey. _The male gaze will continue to dominate media until more and more women artists challenge the paradigm._  
 __masquerade as (someone or something)__  
-__matter of fact__  
+__matter of fact__ :two::hammer: _Matter of fact, I was just going to see your boss, Jabba the Hutt._  
 __mickey mouse__ _slang_ A reference to the cartoon character Mickey Mouse. Often capitalized. __1__ _n_ Something that is trivial or insignificant. _All I ever do at this job is a lot of mickey mouse._ __2__ _n_ A police officer. _You hear those sirens? Mickey Mouse is getting closer—we need to move it._ __3__ _n_ A small piece of paper containing LSD and imprinted with an image of Mickey Mouse. _Got any mickey mouse I can buy?_ __4__ _adj_ Trivial or insignificant. _She needs to get a real job instead of wasting time with this Mickey Mouse internship._  
 __middlebrow__ [:scroll: Formed on the pattern of highbrow and lowbrow] Neither particularly intelligent and refined nor particularly uncultured or crude in style, content, or quality. _I used to pride myself on my refined tastes when I was in college, but they’ve become positively middlebrow since I settled down as an adult._  
+__mill about__ To loiter, wander about, or waste time idly (some place).  
 __miss the mark__  
 __mix and match__  
 __mixed bag__ :two::hammer:  
@@ -468,6 +474,7 @@ __nice and (something)__ :five: Very something. Used to emphasize how nice somet
 __nip (something) in the bud__  
 __nip at__ __1__ To give (someone or something) little bites. _Their dog kept nipping at my heels whenever I walked through the house._ _I know some people go crazy for the treatment, but I can’t stand the feeling of fish nipping at my feet!_ __2__ To sting (a part of one’s body) with cold. _The air had just started nipping at our noses by the time we reached the house._ _There’s nothing like settling down in front of a fire with a hot drink after the cold wind has been nipping at your cheeks on a long, satisfying bike ride._ _The cold air nipped at my lungs if I breathed in too quickly._ __3__ To take small, frequent sips of (some drink, especially alcohol). _I caught my grandma nipping at a flask, which she tried to pretend had medicine inside of it._  
 __no end in sight (to something)__  
+__no hard feelings__  
 __no holds barred__  
 __no kidding__  
 __no picnic__ _It’s no picnic walking around with a guilty conscience._  
@@ -478,6 +485,7 @@ __no-win situation__ :dart: A problem that has no ideal solution.
 __noblesse oblige__ /noh-BLESS-uh-BLEEZH/ Noblesse oblige refers to the idea that people who have high social rank or wealth should be helpful and generous to people of lower rank or to people who are poor.  
 __nose-dive__ Take a sudden downtrend.  
 __not a chance__ :dart: (There is) no possibility (that that will happen). _You? Beat me? At ping pong? Not a chance!_  
+__not half bad__ :dart::two: Somewhat satisfactory or good, especially compared to initially low expectations. _I didn’t know what to expect, but these corn dog tacos aren’t half bad!_  
 __not have all day__ To be in a rush; to not have much or any time to spare. Usually used in the present tense. _How long is this repair job going to take? I don’t have all day!_  
 __not just another pretty face__ Having distinguishing achievements, intelligence, skills, or abilities beyond what was or may have been assumed. (The assertion that someone is also very attractive is sometimes meant to be humorous rather than literal.) _Yeah, I know how to fix your computer. I’m not just another pretty face, you know!_  
 __not sleep a wink__  
@@ -534,6 +542,7 @@ __on-site__
 __once and for all__ :two::hammer:  
 __once in a blue moon__ Very rarely.  
 __one size fits all__ :two::hammer:  
+__one way or another__  
 __one-off__ :three::hammer:  
 __open the door for (someone or something)__  
 __out of print__ No longer being printed and sold by a publisher.  
@@ -543,6 +552,7 @@ __pay lip service__ :smiling_imp:
 __peeper__ peeper__ One’s eye. (That is, what one uses to peep.) Typically used in the plural and often used to refer to the eyes of children. _Your baby girl has such beautiful peepers!_  
 __photobomb__  
 __pick up on (something)__ To detect or notice something; to become alert to or aware of something.  
+__pick-me-up__ :dart:  
 __pigheaded__ :smiling_imp: Incredibly stubborn, narrow-minded, and often ignorant or foolish. _He’s a nice guy most of the time, but he can be really pigheaded when it comes to certain things._  
 __pillow talk__  
 __pinch__ _slang_ :two: __1__ _v_ To steal something.  
@@ -552,7 +562,8 @@ __pitch (something) at__
 __play havoc with (someone or something)__ To cause issues or disruptions for someone or something. _The road closures have played havoc with rush-hour traffic._  
 __plunger__ _n_ /ˈplʌndʒə/ __3__ _informal_ A reckless gambler.  
 __point the finger at (one)__  
-__poke around__  
+__poke around__ :two: To investigate, search through, or snoop around something or some place.  
+__poke into (someone or something)__  
 __poppers__ Drugs of the alkyl nitrate class used recreationally as a sexual stimulant, especially among gay men. Amyl nitrite became popular in the 60s especially with the male gay community becase it relaxes the muscles, making anal intercourse easier.  
 __poppy appeal__  
 __press (something) (up)on (one)__  
@@ -598,6 +609,7 @@ __set the bar (high/low)__
 __sexual advance__ An attempt to gain some form of sexual favor or gratification from another person.  
 __sexual advances__  
 __Shangri-la__ A utopian paradise. A reference to the fictional Tibetan paradise described in James Hilton’s 1933 novel _The Lost Horizon._  
+__shapeshift__ _vi_ To undergo a noticeable change (in character for example), to metamorphosize.  
 __shine a light__  
 __shipping and handling__ The costs associated with packaging and delivering a product to the person who bought it. _Our top line of vacuum cleaners is now only $250, plus shipping and handling._  
 __shipshape and Bristol fashion__  
@@ -616,6 +628,7 @@ __skive off__ _BrE_ To absent oneself or leave early from school or work when on
 __slap in the face__ Words or actions that have offended or otherwise upset someone. _It was a real slap in the face when she got promoted over me, especially after the amount of work I did on that last project._  
 __sleazo__  
 __sleep like a rock__ To experience a very deep and restful sleep; to sleep soundly.  
+__sleeper hit__ Something, especially a film, that achieves sudden and unexpected acclaim or success after an initial period of relative obscurity or middling results. _Thanks to a brilliantly subtle social media marketing strategy, coupled with highly relevant current events, the film has recently surged in popularity and become something of a sleeper hit._  
 __slice of the pie__  
 __slip up__ __1__ _v_ To blunder; to make a mistake or an error. _I think I slipped up and sent the check to the wrong address._  
 __slippery path__ A situation or course of action that is fraught with difficulties, risks, or potential negative consequences.  
@@ -639,6 +652,7 @@ __stamp of approval__ An indication of endorsement or authorization of something
 __stand on (one’s) own (two) feet__ To be strong and independent; to not need the help, guidance, or resources of another person.  
 __stands to reason__  
 __start the ball rolling__ To set something, often a process, in motion; to begin.  
+__step in__ To enter into some position, activity, or situation to intervene or improve it.  
 __stick around__ To remain or linger in one location; to not leave or abandon (someone or something). _Hey, stick around for a minute, I need to talk to you._  
 __stone dead__ Dead; unquestionably dead; long dead. _The cat was stone dead and stiff as a board by the time we got to him._  
 __strike (one) dead__  
@@ -657,8 +671,13 @@ __to name (but) a few__
 __to put it mildly__ To understate something; to say something politely. (Note the variation in the examples.) _She was angry at almost everyone—to put it mildly._ _To say she was angry is putting it mildly._ _To put it mildly, she was enraged._  
 __to this day__  
 __toughen up__  
+__true colors__  
+__twerp__  
 __twist the knife__ :smiling_imp: To add to, exacerbate, or amplify a betrayal or wrong by further malicious actions. _He said it was over, and then he twisted the knife and said he had never loved me._  
+__ventilate__ To kill (someone) by shooting.  
 __walk the wire__ To navigate a delicate or precarious situation. It implies taking risks and balancing between different challenges or conflicting demands.  
+__watch one’s step__ Exercise caution, as in _You’d better watch your step talking to them about a merger._ Often put as an admonition, this phrase transfers taking care in walking to other kinds of caution.  
+__what could (possibly) go wrong__  
 __what gives?__  
 __white tie__ The most formal of all dress codes, requiring men to wear white bow ties and black tailcoats and women to wear evening or ball gowns.  
 __willy-nilly__ :two::hammer: [:scroll: This expression is a shortened form of ‘willing or not willing.’]  
@@ -668,6 +687,9 @@ __with open arms__ Very happily and eagerly.
 __with the naked eye__ _They can be seen with the naked eye._  
 __work like a Trojan__  
 __work out__  
+__world without end__ :dart: For ever and ever; until the end of time. This unusual wording is taken from the King James translation of the phrase _in saecula saeculorum._ _I vowed to love him world without end._  
+__worm__ :smiling_imp: A contemptible person. _He’s such a little worm, agreeing with whatever the boss says if he thinks it will get him ahead._  
+__wrangle with (something)__ To struggle to understand, solve, or deal with something.  
 __y’all__ :two::hammer:  
 __you are what you eat__ One’s overall health is linked to one’s eating habits. The phrase is often used to promote proper nutrition.  
 __you(’d) better believe it__ Absolutely, without question; rest assured.  
