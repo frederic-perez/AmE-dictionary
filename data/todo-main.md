@@ -1,6 +1,7 @@
 __A pager__ _n_ A simple wireless communications device that receives text messages or alerts.  
 __ablutions__ _n pl_  
 __affect__ _v_ :three::hammer:  
+__alleyway__ _n_ A narrow passage between buildings.  
 __approbation__ _n_ /ap-ruh-BAY-shun/ Approbation is a formal word that refers to praise or approval.  
 __archway__ _n_ :es: pasaje abovedado  
 __armistice__ _n_  
@@ -44,11 +45,14 @@ __bobbin__ _n_ A cylinder or cone for holding thread; a spool or reel.
 __bog__ _n_ _A cow grazing in a bog._  
 __boiler suit__ _n_ _BrE_ A one-piece work garment consisting of overalls and a shirt top usually worn over ordinary clothes to protect them.  
 __bollock__ _vt_  
+__brethren__ _n_ :dart: __1__ A plural of brother.  
+__bumbling__ _adj_  
 __burin__ _n_  
 __burl__ _vt_  
 __burn (someone or something) to a crisp__  
 __bursary__ _n_ :two::hammer:  
 __bustle__ _n_  
+__buzz cut__ _n_ :dart: A closely cropped haircut.  
 __byword__ _n_ _Syn_ adage, aphorism, maxim, motto, proverb, saw, saying  
 __Byzantine__ _adj_ /BIZ-un-teen/  
 __cad__ _n informal_ _old-fashioned_ _Brit_ A man who does not behave in a gentlemanly manner towards others.  
@@ -72,6 +76,7 @@ __char__ _v_ Burn slightly and superficially so as to affect color. _Syn_ blacke
 __chemist__ _n_ __1__ A scientist specializing in chemistry. __2__ _Chiefly British_ A pharmacist.  
 __chide__ _v_  
 __childminder__ _n_ (Social Welfare) A person who looks after children, esp those whose parents are working. :es: niñera  
+__chitinous__ _adj_  
 __chockablock__ _adj_ /CHAH-kuh-blahk/ Something described as chockablock is very full or tightly packed.  
 __choosy__ _adj_  
 __chrome__ _n, v_ /kroʊm/  
@@ -145,6 +150,7 @@ __defray__ _v_
 __degage__ _adj_ Showing lack of emotional involvement. _Syn_ detached, uninvolved  
 __deign__ _v_  
 __demob__ _v_  
+__denizen__ _n_  
 __deport__ _vt_ __1__ To expel from a country: _deported the foreigner who had entered the country illegally._  
 __deride__ _vt_ [:scroll: Latin dērīdēre : dē-, de- + rīdēre, _to laugh at_]  
 __descant__ _n_  
@@ -184,6 +190,7 @@ __end-stage__ _adj_ /ĕnd′stāj′/ Of or relating to the final phase of a ter
 __endure__ _v_ _I could hardly even endure my own reflection in the mirror._  
 __enlightened__ _adj_ _Enlightened despot._  
 __ensconce__ _v_  
+__entanglement__ _n_ /ɛnˈtæŋ gəl mənt/  
 __epaulettes__ _n_  
 __épée__ _n_ /ˈɛpeɪ; _French_ epe/ (epee) :es: espada de esgrima  
 __Equity__ _n_ :astonished: /ˈɛkwɪtɪ/ _Theatre_ The actors’ trade union. Full name: Actors’ Equity Association  
@@ -240,6 +247,7 @@ __flotsam__ _n_ :two::hammer:
 __flout__ _v_  
 __flub<sup>1</sup>__ _n_ :dart: /flʌb/ An embarrassing mistake or blunder.  
 __flub<sup>2</sup>__ _v_ :dart: To blunder or make an embarrassing mistake. Make a mess of, destroy or ruin.  
+__flurry__ _n_ __3__ A sudden burst or commotion; a stir: _a flurry of interest in the new product; a flurry of activity when the plane landed._  
 __flyover__ _n_  
 __flywheel__ _n_ :es: volante  
 __foist__ _v_ /FOIST/ _Foist_, which is almost always used with _on_ or _upon_, is used when someone forces another person to accept something, usually something that is not good or is not wanted. Foist can also mean “to pass off as genuine or worthy.”  
@@ -287,6 +295,7 @@ __genteelism__ _n_ /jen-TEE-liz-uhm/ The substitution of a word that is believed
 __gerbil__ _n_ :es: jerbo  
 __gestalt therapy__ _n_  
 __gestalt__ _n_ _Gestalt therapy._  
+__handicraft__ _n_ Skill or dexterity in working with the hands.  
 __handyman__ _n_ :es: manitas  
 __haphazardly__ _adv_ In a random manner.  
 __harass__ _v_  
@@ -302,6 +311,7 @@ __hearth__ _n_ The floor of a fireplace, usually extending into a room and paved
 __heath__ _n_  
 __heathen<sup>1</sup>__ _n_ :three: __1__ _Offensive_ __a__ An adherent of a religion that does not worship the God of Judaism, Christianity, or Islam. _Heathens like me._ __b__ Such persons considered as a group.  
 __heathen<sup>2</sup>__ _adj_  
+__heavy-set__ _adj_ (of a person) Having a large build.  
 __hellion__ _n_ A mischievous, troublesome, or unruly person. _Syn_ devil, heller  
 __hemophilia__ _n_ (haemophilia) A tendency to uncontrolled bleeding.  
 __hemophiliac__ _n_ /ˌhi məˈfɪl iˌæk/ A person who has hemophilia.  
@@ -514,7 +524,7 @@ __outburst__ _n_
 __outing__ _n_  
 __outlay__ _n_  
 __outline__ _v_  
-__outrun__ _vt_ :three::hammer:  
+__outrun__ _vt_ :four::hammer:  
 __outstretched__ _adj_ Extended or expanded; stretched out.  
 __overdraft__ _n_  
 __overland__ _adj, adv_  
@@ -543,6 +553,7 @@ __parson__ _n_
 __pasquinade__ _n_ A satire or lampoon, especially one that ridicules a specific person, traditionally written and posted in a public place. _Syn_ parody, put-on, sendup, spoof, charade, lampoon, mockery, burlesque, travesty, takeoff  
 __pastime__ _n_ :pencil2:  
 __pathos__ _n_ A quality, as of an experience or a work of art, that arouses feelings of pity, sympathy, tenderness, or sorrow. _Syn_ poignancy  
+__patron__ _n_ _Look, Artoo-Detoo! Here comes a patron out of the cantina!_  
 __pauperism__ _n_ A state of extreme poverty or destitution. _Syn_ indigence, penury, need  
 __payslip__ _n_ (pay slip) A piece of paper received by an employee showing how much salary they have been paid.  
 __peal__ _n_ :two: __1__ A ringing of a set of bells, especially a change or set of changes rung on bells. __2__ A set of bells tuned to each other; a chime. __3__ A loud burst of noise: _peals of laughter._  
@@ -550,6 +561,9 @@ __peckish__
 __peculiar__ _adj, n_  
 __pedestrian__ _adj, n_  
 __pejorist__ _n_ /PEJ-uh-rist/ A person who believes that the world is getting worse.  
+__pelt<sup>1</sup>__ _vt_  
+__pelt<sup>2</sup>__ _vi_ __3__ (foll by _along_, _over_, etc) To move rapidly; hurry. _I pelted towards the Beetle._  
+__pelt<sup>n</sup>__ _n_  
 __pen test__ _n_ (penetration test) An authorized simulated cyberattack on a computer system, performed to evaluate the security of the system.  
 __pentacle__ _n_ :dart: /ˈpɛn tə kəl/ A star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon. _Syn_ pentagram, pentangle  
 __penury__ _n_ Extreme want or poverty; destitution. _Syn_ indigence, pauperism, beggary, need  
@@ -691,6 +705,7 @@ __searing__ _adj_ /ˈsɪərɪŋ/
 __seething__ _v_  
 __shapeshift__ _vi_ (biology, fantasy, mythology) To change one’s shape or form (into another) through often magical means, normally applied only to living beings.  
 __shortlisted__  
+__shuffling__ _n_ Walking with a slow dragging motion without lifting your feet.  
 __shuttle__ _n_ __2__ The sliding container that carries the lower thread in a sewing machine.  
 __side note__ _n_ Additional information aside main point.  
 __simpleton__ _n_ :smiling_imp:  
@@ -698,7 +713,9 @@ __skewer<sup>1</sup>__ _n_
 __skewer<sup>2</sup>__ _vt_  
 __skullduggery__ _n_ :smiling_imp: Dishonorable proceedings.  
 __slag__ _v_ _Slagged by fire._  
+__sleazy__ _adj_ /ˈsli zi, ˈsleɪ zi/  
 __slight__ _adj_ /slaɪt/  
+__smolder__ _vi_ __1__ To burn with little smoke and no flame. _Luke saw the smoldering piles which had once been human beings._  
 __smugly__ _adv_  
 __snigger__ _v_  
 __snort__ _v_  
@@ -721,7 +738,8 @@ __statute of limitations__ _n phr_
 __statutory__ _adj_  
 __steady__  
 __steeped__ _adj_ :two::hammer:  
-__sterling__ _n_ __1a__ British money: _pound sterling._ _Take cash in sterling._ __b__ (as modifier): _sterling reserves._  
+__sterling<sup>1</sup>__ _n_ __1a__ British money: _pound sterling._ _Take cash in sterling._ __b__ (as modifier): _sterling reserves._  
+__sterling<sup>2</sup>__ _adj_ (prenominal) Genuine and reliable; first-class: _sterling quality._  
 __stiff__ _n_ :smiling_imp: __1__ _slang_ A corpse.  
 __stoop__ _v_ :dart::two::smiling_imp: Debase oneself morally, act in an undignified, unworthy, or dishonorable way. _Syn_ condescend, lower oneself  
 __stopover__ _n_  
@@ -767,6 +785,7 @@ __tariff__ _n_ /ˈtær ɪf/
 __tarp__ _n_ Waterproofed canvas.  
 __tatty__ _adj_ Somewhat worn, shabby, or dilapidated.  
 __taunt__ _vt_ /tɔːnt/ __1__ To provoke or deride with mockery, contempt, or criticism. __2__ To tease; tantalize.  
+__teeter__ _v_ __1__ To move or sway unsteadily or unsurely; totter.  
 __teetotaler__ _n_ (teetotaller)  
 __the nuts and bolts__  
 __thunk__ _n_  
@@ -787,22 +806,27 @@ __unduly__ _adv_
 __unruly__ _adj_ _Unruly hair._  
 __upturned__ _adj_ /ʌpˈtɜːnd/ __3__ Turned over or upside down: _the seat was an upturned bucket._  
 __vilify__ _vt_ :two::hammer: /VIL-uh-fye/  
+__villainy__ _n_ _Luke, you won’t find a more wretched hive of villainy._  
 __virago__ _n_ /vɪˈrɑ goʊ, -ˈreɪ-/  
 __virid__ _adj_ /VIR-id/ Bright green.  
 __visa national__ _n_ A person from a country whose citizens are required to obtain a visa before entering the United Kingdom, regardless of the purpose or duration of their visit.  
 __vociferous__ _adj_ Crying out noisily.  
 __way to go__  
 __welsh__ _vi_ :smiling_imp:  
+__welter__ _n_  
 __werebear__  
 __werewolf__  
+__wide-eyed__ _adj_  
 __wince__ _v_  
 __withdrawal symptom__ _n_ :dart: Any physical or psychological disturbance (as sweating or depression) experienced by a drug addict when deprived of the drug.  
 __withhold__ _v_ :pencil2:  
+__wizardess__ _n_ A female wizard, sorceress, witch.  
 __woe__  
 __woodwork__ _n_ __1__ (Crafts) The art, craft, or skill of making things in wood; carpentry. :es: carpintería __2__ (Building) components made of wood, such as doors, staircases, etc. _Woodwork fascia._  
 __word-perfect__ _adj_ :two::hammer: _I would know the book word-perfect before we were as far as Exeter._  
 __work camp__ _n_ __1__ A camp for prisoners sentenced to labor, esp. to outdoor labor. __2__ A camp where volunteers, often from religious organizations, work together on community service projects.  
 __worktop__ _n_ :two::hammer:  
+__wretched__ _adj_ __3__ Despicable, contemptible, or mean: _a wretched miser._ _Luke, you won’t find a more wretched hive of villainy._  
 __wring__ _vt_  
 __wringer__ _n_ __1__ A person or thing that wrings. __2__ An apparatus for squeezing out liquid, as two rollers through which an article of wet clothing may be squeezed.  
 __writ__ _n_  
