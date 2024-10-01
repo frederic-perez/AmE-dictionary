@@ -1,7 +1,10 @@
 __A pager__ _n_ A simple wireless communications device that receives text messages or alerts.  
 __ablutions__ _n pl_  
+__acerbic__ _adj_ Sharp or biting, as in character or expression. _Syn_ blistering, caustic, acid, vitriolic, acerb, acrid, sulfurous, virulent, bitter  
 __affect__ _v_ :three::hammer:  
 __alleyway__ _n_ A narrow passage between buildings.  
+__androgenic__ _adj_ /an-druh-JEN-ik/ __1__ Relating to the development of male characteristics. __2__ Having origin in the male sex.  
+__androgyny__ _n_ [:scroll: From Greek andro- (man) + -gune (woman)] Showing characteristics of both sexes. _Syn_ bisexuality, hermaphroditism  
 __approbation__ _n_ /ap-ruh-BAY-shun/ Approbation is a formal word that refers to praise or approval.  
 __archway__ _n_ :es: pasaje abovedado  
 __armistice__ _n_  
@@ -15,6 +18,8 @@ __attractant__ _n_ A substance, such as a pheromone, that attracts insects or ot
 __attritional__ _adj_ :dart: Relating to or caused by attrition. _Attritional battles._  
 __au pair__ _n_ A young foreigner who provides childcare for a family in exchange for room and board, often a small stipend, and the opportunity to study.  
 __audacity__ _n_ :dart: Fearless daring; intrepidity. _Syn_ temerity  
+__avatar__ _n_ :mega: /AV-uh-tar/ /ˈæv əˌtɑr, ˌæv əˈtɑr/  
+__avenge__ _v_  
 __ayahuasca__  
 __bait__ _v_ :smiling_imp: __2__ To entice or provoke, especially by trickery or strategy: _He baited me into selling him my bike by saying how much I deserved a better one._  
 __baize__ _n_ A bright green fabric napped to resemble felt; used to cover gaming tables. _Baize table._ :es: tapete  
@@ -46,6 +51,7 @@ __bog__ _n_ _A cow grazing in a bog._
 __boiler suit__ _n_ _BrE_ A one-piece work garment consisting of overalls and a shirt top usually worn over ordinary clothes to protect them.  
 __bollock__ _vt_  
 __brethren__ _n_ :dart: __1__ A plural of brother.  
+__bribe__ _n_ :smiling_imp:  
 __bumbling__ _adj_  
 __burin__ _n_  
 __burl__ _vt_  
@@ -80,6 +86,7 @@ __chitinous__ _adj_
 __chockablock__ _adj_ /CHAH-kuh-blahk/ Something described as chockablock is very full or tightly packed.  
 __choosy__ _adj_  
 __chrome__ _n, v_ /kroʊm/  
+__chthonic__ _adj_ /THAH-nik/ Of or relating to the underworld. It is used as a synonym of _infernal_.  
 __chuck out__ _v_  
 __chute__ _n_  
 __civil action__  
@@ -154,11 +161,12 @@ __denizen__ _n_
 __deport__ _vt_ __1__ To expel from a country: _deported the foreigner who had entered the country illegally._  
 __deride__ _vt_ [:scroll: Latin dērīdēre : dē-, de- + rīdēre, _to laugh at_]  
 __descant__ _n_  
-__deter__ _v_ /dɪˈtɜr/  
+__deter__ _v_ :two: /dɪˈtɜr/ /dih-TER/ To _deter_ someone is to discourage or prevent them from acting. To _deter_ a thing is to stop or limit it.  
 __dimple__ _n_  
 __dinghy__ _n_  
 __dingy__ _adj_  
 __disarmament__ _n_  
+__disbar__ _vt_  
 __dishevelled__  
 __disinformation__ _n_  
 __dispensary__ _n_  
@@ -212,9 +220,11 @@ __fascism__ _n_ (sometimes capital)
 __faze__ _v_  
 __fazed__ _adj_ /feɪzd/ Disconcerted; worried; disturbed.  
 __fealty__ _n_ /FEE-ul-tee/ _Fealty_ is an old-fashioned and somewhat literary word that refers to intense loyalty or fidelity to a person, group, etc. More narrowly, _fealty_ refers to the fidelity of a vassal or feudal tenant to their lord.  
+__feckless__ _adj_ /FECK-lus/ _Feckless_ describes people or things that are weak or ineffective.  
 __feint__ _n_  
 __felon__ _n_  
 __felony__ _n_ A crime that has a greater punishment imposed by statute than that imposed on a misdemeanor.  
+__ferment__ _n_ :astonished: A state of agitation or turbulent change or development. _Syn_ agitation, fermentation, tempestuousness, unrest  
 __fervent__ _adj_ Having or showing great emotion or zeal. _Syn_ ardent, fervid, fiery, impassioned, perfervid, torrid  
 __feud__ _v_  
 __feverish__ _adj_  
@@ -335,9 +345,11 @@ __house martin__ _n_ (housemartin)
 __hovel__ _n_ __1__ A small, miserable dwelling. __2__ An open, low shed.  
 __huddle__ _v_  
 __husk__ _n_ /hʌsk/  
+__ideophone__ _n_ /ID-ee-uh-fon/ A vivid, evocative word that depicts sensory experiences. [Note: While onomatopoeia relates to sound (e.g., gnar), ideophones encompass a wider array of senses, including color, action, smell, and movement. Examples: shimmer and zig-zag.]  
 __idiosyncrasy__  
 __ignoble__ _adj_ Not of the nobility; common. _Syn_ ungentle, untitled  
 __ignoramus__ _n_  
+__ilk__ _n_ /ILK/ _Ilk_ is a noun that means “sort” or “kind.” It is usually used in short phrases with and or of, as in “and that ilk” and “of their ilk.”  
 __illicit__ _adj_ /ɪˈlɪsɪt/  
 __imitative__ _adj_ (Of words) Formed in imitation of a natural sound. _Syn_ echoic, onomatopoeic  
 __immiseration__ _n_ /i-miz-uh-RAY-shuhn/ __1__ The act of making miserable or the state of being made miserable. __2__ Impoverishment.  
@@ -363,6 +375,7 @@ __irretrievable__ _adj_ _Irretrievable breakdown of marriage._
 __itching__ _n_ An irritating cutaneous sensation that produces a desire to scratchitching - an irritating cutaneous sensation that produces a desire to scratch. _Syn_ itchiness, itch  
 __jalopy__  
 __jaundice__ _n_  
+__jerkwater__ _adj_ /JERK-waw-ter/  
 __Jerry__ _n slang_ _Chiefly British_ A German, especially a German soldier.  
 __jot<sup>1</sup>__ _n_ :dart: /dʒɒt/ The smallest bit; iota. _(used with a negative)_ A little bit (in phrases such as _not to care (or give) a jot_).  
 __jot<sup>2</sup>__ _vt_  
@@ -425,6 +438,7 @@ __loup-garou__ _n_
 __lovelorn__ _adj_ /ˈlʌvˌlɔːn/ Miserable because of unrequited love or unhappiness in love.  
 __low-end__ _adj_ Cheaper and, typically, of lower quality compared to the leading products or brands. Used before a noun. _Because he’s only willing to pay for low-end supplies, we’ve had nothing but problems with all our equipment._  
 __LSD__ _n_ (acid) _(Recreational Drugs)_ Lysergic acid diethylamide; a crystalline compound prepared from lysergic acid, used in experimental medicine and taken illegally as a hallucinogenic drug. Informal name (as an illegal hallucinogen): acid.  
+__lucid__ _adj_ /LOO-sid/  
 __lucrative__ _adj_ :two::hammer: /LOO-kruh-tiv/  
 __lucubration__ _n_  
 __luggable__ _n_ /ˈlʌɡəbəl/ (esp of computers) Portable, but with difficulty.  
@@ -486,6 +500,7 @@ __nail varnish__ _n_ (nail enamel, nail polish)
 __natural hat trick__ _n_ _sports_ A hat trick in which three goals are scored in succession by one player in one game.  
 __naturalization__ _n_  
 __nebula__ _n_ /ˈnɛb yə lə/  
+__nemorous__ _adj_ /ˈnɛmərəs/ Full of woods or groves, wooded, woody  
 __neophile__ _n_ NEE-uh-fyl/ One who loves new or novel things.  
 __newsagent__ _n_ A shopkeeper who sells newspapers, stationery, etc. _Syn_ newsdealer  
 __nibble__ _v_  
@@ -526,6 +541,7 @@ __outlay__ _n_
 __outline__ _v_  
 __outrun__ _vt_ :four::hammer:  
 __outstretched__ _adj_ Extended or expanded; stretched out.  
+__overabundance__ _n_ A going or being beyond what is needed, desired, or appropriate. _Syn_ overmuch, overmuchness, superabundance  
 __overdraft__ _n_  
 __overland__ _adj, adv_  
 __overnight__ _adj, adv, n_ _It happened almost overnight._  
@@ -631,6 +647,7 @@ __prostration__ _n_ An abrupt failure of function or complete physical exhaustio
 __provender__ _n_ Dry food, as hay or oats, for livestock or other domestic animals.  
 __proximate__ _adj_  
 __pulse__ _n_ __1__ The edible seeds of certain pod-bearing plants, such as lentils and chickpeas. :es: legumbres __2__ A plant yielding these seeds.  
+__pumpkin spice__ _n_ A mixture of usually cinnamon, nutmeg, ginger, cloves, and often allspice that is commonly used in pumpkin pie.  
 __pundit__ _n_ __1__ A source of opinion; a critic: a political pundit. __2__ A learned person.  
 __pustulate__ _adj_ Blemished by imperfections of the skin. _Syn_ acned, pimpled  
 __quadriplegia__ _n_ Complete paralysis of the body from the neck down. Also called tetraplegia.  
@@ -685,6 +702,7 @@ __repose__ _n_ The act of resting or the state of being at rest. _Syn_ ease, rel
 __reprieve__ _n_  
 __reputedly__ _adv_ According to general belief or supposition: _the reputedly excellent food._ :es: según dicen  
 __reread__ _v_ :pencil2:  
+__revenge__ _n_  
 __rhetoric__ _n_ :astonished::pencil2: /ˈrɛt ər ɪk/ Insincere or grandiloquent language.  
 __riding hood__ _n_ A type of cloak or hood worn by women who rode horses. This clothing was designed specifically for riding, providing warmth and protection for the rider.  
 __rife__ _adj_ /raɪf/ (postpositive)  
@@ -698,6 +716,7 @@ __rundown__ _n_ :two: __1__ A point-by-point summary.
 __rustle<sup>1</sup>__ _v_ /ˈrʌsəl/ __1__ To make or cause to make a low crisp whispering or rubbing sound, as of dry leaves or paper. __2__ To move with such a sound.  
 __rustle<sup>2</sup>__ _n_ The sound made by rustling.  
 __sales floor__ _n_ The part of a business devoted to retail activities, such as a showroom or selling area of a shop or department store, usually manned by sales staff and having free public access with goods on display.  
+__sanguinary__ _adj_ Accompanied by bloodshed. _Syn_ butcherly, gory, slaughterous  
 __saunter__  
 __sconce__ _n_ __1__ A small defensive earthwork or fort.  
 __scullery__ _n_ /ˈskʌl ə ri, ˈskʌl ri/  
@@ -747,7 +766,7 @@ __store__ _n_ :dart: A mercantile establishment for the sale of goods or service
 __stove__ _n_  
 __stovepipe__  
 __stow__ _v_ __3__ _(Nautical Terms)_ To pack or put away (cargo, sails and other gear, etc). :es: estibar  
-__straddle__ _v_  
+__straddle__ _v_ :two: Range or extend over; occupy a certain area. _Syn_ range  
 __strafe__ _v_ :dart: /streɪf, strɑf/ __1__ To attack (ground troops, etc.) with fire from low-flying airplanes.  
 __stratagem__ _n_ :smiling_imp: A plan, scheme, or trick for surprising or deceiving an enemy.  
 __stray dog__ _n_ An ownerless dog, a roaming wild or half-wild dog.  
@@ -788,11 +807,13 @@ __taunt__ _vt_ /tɔːnt/ __1__ To provoke or deride with mockery, contempt, or c
 __teeter__ _v_ __1__ To move or sway unsteadily or unsurely; totter.  
 __teetotaler__ _n_ (teetotaller)  
 __the nuts and bolts__  
+__thence__ _adv_ From that place; from there. _Syn_ therefrom _The train went south into Switzerland and thence on to Italy._  
 __thunk__ _n_  
 __tire iron__ _n_ A short length of steel with one end flattened to form a blade, used to remove tires from wheel rims.  
 __transient__ _adj_ _Temporary conduction block can occur as a result of transient edema._  
 __transmogrification__ _n_  
 __transmogrify__ _v_  
+__tribulation__ _n_ /trib-yuh-LAY-shun/ _Tribulation_, which is often used in the phrase “trials and tribulations,” refers to an experience that causes suffering. It can also mean “unhappiness, pain, or suffering.”  
 __trump__ _v_ /trʌmp/  
 __two peas in a pod__  
 __tyranny__ _n_ :pencil2:  
@@ -801,8 +822,10 @@ __unabashed__ _adj_ :three: Not ashamed, disconcerted, or apologetic; boldly cer
 __unassailable__  
 __unassuming__ _adj_  
 __unattainable__ _adj_ _Unattainable love._  
+__uncongenial__ _adj_ Not suitable to your tastes or needs. _Syn_ incompatible  
 __unconscionable__ _adj_ :smiling_imp:  
 __unduly__ _adv_  
+__unexampled__ _adj_ Without precedent; unparalleled. _Syn_ new  
 __unruly__ _adj_ _Unruly hair._  
 __upturned__ _adj_ /ʌpˈtɜːnd/ __3__ Turned over or upside down: _the seat was an upturned bucket._  
 __vilify__ _vt_ :two::hammer: /VIL-uh-fye/  
