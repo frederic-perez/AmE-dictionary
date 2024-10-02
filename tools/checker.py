@@ -718,7 +718,7 @@ def main(prog_name: str, argv: list[str]) -> None:
 
     valid_arguments: Final[list[str]] = [
         "abbreviations+", "dictionary", "Ellroy's-lingo", "idioms", "interjections", "todo-idioms", "todo-main",
-        "top-dictionary", "top-idioms", "wip"]
+        "top-dictionary", "top-idioms", "wip", "_wip"]
     if num_arguments > len(valid_arguments):
         print(RED + "Too many arguments. Aborting..." + END_C)
         usage_and_abort(prog_name, valid_arguments)
@@ -735,7 +735,7 @@ def main(prog_name: str, argv: list[str]) -> None:
         do_check_parts_of_speech: bool = (
             arg != "abbreviations+" and arg != 'Ellroy\'s-lingo' and arg != 'idioms'
             and arg != 'interjections' and arg != 'todo-idioms' and arg != 'top-idioms'
-            and arg != 'wip')
+            and arg != 'wip' and arg != "_wip")
         check(arg, do_check_parts_of_speech)
 
 
