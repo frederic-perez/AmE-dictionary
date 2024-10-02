@@ -13241,7 +13241,7 @@ __outrecuidance__ _n_ Excessive self-confidence or conceit.
 __outriggers__  
 __outright<sup>1</sup>__ _adv_ :seven::hammer:  
 __outright<sup>2</sup>__ _adj_ :six::hammer:  
-__outrun__ _v_ :two::hammer:  
+__outrun__ _v_ :six::hammer:  
 __outsell__ _vt_  
 __outset__ _n_ :eight::hammer: _The outset of his campaign._ _Designed at the outset._  
 __outshine__ _v_ :four: To be much better than someone or something else.  
@@ -13256,6 +13256,7 @@ __outsourcing__
 __outspend__ _v_  
 __outspoken__ _adj_ :nine::m::pencil2: Frank in stating one’s opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest  
 __outstanding__ _adj_  
+__outstretched__ _adj_ Extended or expanded; stretched out.  
 __outstrip__ _vt_ :two::hammer: (outstripped)  
 __outta__ _prep_ _informal_ :two: Used in writing to represent the spoken form “out of.” _Straight outta Tahoe._  
 __outtakes__ _n_  
@@ -13272,6 +13273,7 @@ __over-ear headphones__
 __over-the-counter__  
 __over-the-hill__ _adj_ :two: __1__ Past one’s prime. _I’m over-the-hill for Passion._ __2__ Advanced in age.  
 __over-under__  
+__overabundance__ _n_ A going or being beyond what is needed, desired, or appropriate. _Syn_ overmuch, overmuchness, superabundance  
 __overachieve__  
 __overall__ _adj, adv_ :four::hammer:  
 __overalls__ _n pl_  
@@ -13286,6 +13288,7 @@ __overcome__ _v_ _We need to overcome the current hurdles._
 __overcomplicate__ _vt_  
 __overcut__  
 __overdo__ _v_ :three::hammer: _Do not overdo caffeine._  
+__overdraft__ _n_  
 __overdrive__ _n_ :three::hammer: _Cruising overdrive._ _It’s a 1984 Volvo DL, four speed with overdrive._  
 __overdue__ _adj_ :two: Not being on time. _Syn_ behindhand, belated, late, tardy _A resurgence in social homes is long overdue._  
 __overeager__ _adj_ Excessively eager; too ardent or impatient.  
@@ -13299,6 +13302,7 @@ __overhead__ _n_ :two::hammer: (overheads) _That money just covered their overhe
 __overhype__ _vt_ To promote or publicize to excess: _Promoters grossly overhyped the movie._  
 __overjoyed__ _adj_ :two: Delighted; excessively happy.  
 __overkill__ _v_ _I’ll top the bill, I’ll overkill._  
+__overland__ _adj, adv_  
 __overlay<sup>1</sup>__ _vt_ _Overlay relevant metadata on the cellphone’s screen._  
 __overlay<sup>2</sup>__ _n_  
 __overlie__ _v_ (overlain)  
@@ -13306,7 +13310,7 @@ __overlook__ _v_ :three: To fail to see or notice something. _Unfortunately, we 
 __overlord__ _n_ :two::hammer:  
 __overly__ _adv_ :dart::nine::m: Excessively. _She was a jealous and overly possessive woman._ _Syn_ unduly, excessively, inordinately, too, to too great an extent/degree, immoderately, exceedingly _Well, not to be overly dramatic, but it’s one of the scariest unions of all time._ :es: demasiado  
 __overnight<sup>1</sup>__ _adj_ :two::hammer:  
-__overnight<sup>2</sup>__ _adv_ _The change will not happen overnight._  
+__overnight<sup>2</sup>__ _adv_ :two::hammer: _The change will not happen overnight._  
 __overnight<sup>3</sup>__ _n_  
 __overpass__ _n_  
 __overqualified__ _adj_ Having more knowledge, skill, and/or experience than is needed for a particular job.  
@@ -13368,7 +13372,7 @@ __package__ _n_ :three::hammer::mega: /păk′ĭj/
 __packtrain__ _n_ :two: A string of animals for transporting supplies and equipment.  
 __Pacu__ _n_ :astonished: A South American fresh-water fish.  
 __pad__ _vi_ :two: __1__ To go about on foot. __2__ To move or walk about almost inaudibly. _The cat was padding through the grass._  
-__padded__ _adj_ _He leaned back in his padded chair._  
+__padded__ _adj_ :two: Softened by the addition of cushions or padding. _He leaned back in his padded chair._ _Padded shorts for cycling._ _Syn_ cushioned, cushiony  
 __padding__ _v_ _Those who imagine slumber parties and members padding in their slipeers down dark hallways would be disappointed._  
 __paddle<sup>1</sup>__ _n_  
 __paddle<sup>2</sup>__ _v_ :two::hammer: (paddled) _I got paddled at school._  
@@ -13378,9 +13382,9 @@ __paddock__ _n_
 __padlock__  
 __paean<sup>1</sup>__ _n_ :nine: /PEE-uhn/ (paeans) [:scroll: From Latin paean, from Greek paian (hymn of thanksgiving to Apollo), after Paian, Paion (epithet of Apollo in the hymn).] An expression of praise, joy, or triumph, typically in the form of a song.  
 __paean<sup>2</sup>__ _vt_ /PEE-uhn/ To make such an expression.  
-__pagan<sup>1</sup>__ _n_ A follower of a polytheistic religion.  
-__pagan<sup>2</sup>__ _adj_  
-__paganism__ _n_  
+__pagan<sup>1</sup>__ _n_ :two: A follower of a polytheistic religion.  
+__pagan<sup>2</sup>__ _adj_ :two::hammer:  
+__paganism__ _n_ :two::hammer:  
 __page__ _n_ :three::hammer:  
 __pageant__  
 __pageantry__ _n_ :four: Elaborate display or ceremony. _The pageantry of George V’s jubilee._ :es: pompa, espectáculo  
@@ -13420,7 +13424,8 @@ __pallet__ _n_ :nine::m: (pallets) A portable platform used for storing or movin
 __pallholder__ _n_  
 __palliate__ _v_ Lessen or to try to lessen the seriousness or extent of. _Syn_ extenuate, mitigate  
 __palliative care__ _n_  
-__palliative__ _adj_ :two::hammer::pencil2: _Palliative care._  
+__palliative<sup>1</sup>__ _adj_ :three::hammer::pencil2: _Palliative care._  
+__palliative<sup><2/sup>__ _n_  
 __pallid__ _adj_ Having an abnormally pale or wan complexion. _Syn_ pasty, colorless, ashen  
 __pallor__ _n_ :two::hammer:  
 __palm<sup>1</sup>__ _n_ :mega::mute:[pa~~l~~m]  
@@ -13429,6 +13434,7 @@ __palmary__ _adj_ Of first-rate importance; principal; excellent: _a palmary tru
 __palmate__ _adj_ /PAL/PAHL/PA/PAH-mayt/ Shaped like a hand with the fingers spread.  
 __palmer__ _n_ :m: /ˈpɑːmə/ __1__ A pilgrim, esp. of the Middle Ages, who had returned from the Holy Land bearing a palm branch as a token. __2__ Any religious pilgrim.  
 __palmetto__ _n_ :two::hammer: (palmettos)  
+__palmistry__ _n_ /ˈpɑ mə stri/ The practice or art of telling fortunes from the lines, marks, and patterns on the palms of the hands.  
 __palmy__ _adj_ :two: /ˈpɑːmɪ/ /PAH-mee/ __1__ Prosperous, flourishing, or luxurious: _a palmy life._ _They knew her in her palmy days when she was living high._ __2__ Covered with, relating to, or resembling palms: _a palmy beach._  
 __palomas__  
 __palomino__ _n_ A horse with a golden or tan coat and a white or cream-colored mane and tail.  
@@ -13446,7 +13452,7 @@ __paltry__ _adj_ :nine::m: Very small or inadequate in amount; negligible: _was 
 __pamper__ _vt_ :nine::m: __1__ To treat with excessive indulgence: _pampered their child._ __2__ To give in to; gratify: _He pampered his ambition for wealth and fame._ _We’ll pamper you with a complimentary morning coffee service and evening wine tasting._ _The Lumbr Baron Inn will pamper you with in-room Jacuzzi tubs._  
 __pampered__ _adj_  
 __pampering__ _n_  
-__pamphlet__ _n_  
+__pamphlet__ _n_ :two::hammer::pencil2:  
 __pampling__  
 __pan out__ _v_ :four::hammer:  
 __pan__ _v_ :three::hammer: _Obama pans republicans._ _Try your hand at milking a cow, panning for gold or spinning wool._  
@@ -13470,12 +13476,12 @@ __panko__ _n_
 __panna cotta__ _n_  
 __panned out__  
 __pannier__ _n_ :two::hammer:  
-__panoply__ _n_ :five: __1__ An impressive or striking array or arrangement. _A panoply of colorful flags._  
+__panoply__ _n_ :six: /PAN-uh-plee/ __1__ An impressive or striking array or arrangement. _A panoply of colorful flags._  
 __panopticon__ _n_ __1__ A building, as a prison or library, so arranged that all parts of the interior are visible from a single point. A circular prison with a watchtower in the center so that any inmate can be observed from a single point. __2__ A place marked by constant surveillance.  
 __panorama__ _n_ :two: An unbroken view of an entire surrounding area. _Syn_ vista _The panorama from the summit, with glistening lakes and green forests in every direction, is unmatched in the east._  
 __pansexual__  
 __pansy__ _n_ (pansies) __2__ _slang_ _offensive_ An effeminate or homosexual man or boy.  
-__pant__ _v_ :eight: (panted, panting) To breathe quickly with short breaths, usually with your mouth open, because you have been doing some physical exercise, or because it is very hot: _She finished the race panting heavily._ _Breathless and panting into the microphone._ _In his pain he panted like a dog._ _Panting wisps of smoke._  
+__pant__ _v_ :nine: (panted, panting) To breathe quickly with short breaths, usually with your mouth open, because you have been doing some physical exercise, or because it is very hot: _She finished the race panting heavily._ _Breathless and panting into the microphone._ _In his pain he panted like a dog._ _Panting wisps of smoke._  
 __pantalons__ _n_  
 __pantheon__ _n_  
 __pantomime__ _v_  
@@ -13483,9 +13489,11 @@ __pantophagous__ _adj_
 __pantoscopic__ _adj_ _Pantoscopic tilt._  
 __pantothenic acid__ _n_ A vitamin belonging to the vitamin B complex that is important in the metabolism of fats and carbohydrates. It is found in liver, yeast, and many vegetables.  
 __pantry__ _n_ :three::hammer:  
-__pants__ _n_  
+__pants<sup>1</sup>__ _n_  
+__pants<sup>2</sup>__ _v_ _informal_ :astonished: To yank down the pants of (someone) as a prank or joke.  
 __pants-on-fire__  
 __pantsed__ _v_  
+__pantsing__ _n_ :two::astonished: The pulling down of a person’s trousers, usually as a prank or form of bullying.  
 __pap__ _n_ :two: __3__ _slang_ Money and favors obtained as political patronage. __4__ A paparazzo.  
 __papacy__  
 __paper cut__ _n_ (papercut) _He can’t stand the sight of blood, not even from a paper cut._  
@@ -13505,7 +13513,8 @@ __papules__ _n pl_ :three: Firm bumps on the skin.
 __parable__ _n_ /PAIR-uh-bul/ A parable is a story having an ending based on moral attitude, a standard of conduct, or a religious principle. _The priest opened his homily by relating the parable of the Good Samaritan from the Gospel of Luke._  
 __paracetamol__ _n_ :dart::mega: /ˌpærəˈsiːtəˌmɒl; -ˈsɛtə-/  
 __parade rest__ _n_ A position of rest for soldiers, in which, however, they are required to be silent and motionless. _He stood at parade rest._  
-__paradigm__ _n_ :three::mute:[paradi~~g~~m] One that serves as a pattern or model. _Syn_ epitome, prototype _Their company is a paradigm of the small high-tech firms that have recently sprung up in this area._  
+__parade__ _v_  
+__paradigm__ _n_ :four::mute:[paradi~~g~~m] /PAIR-uh-dyme/ One that serves as a pattern or model. _Syn_ epitome, prototype _Their company is a paradigm of the small high-tech firms that have recently sprung up in this area._  
 __paradigmatic__ _adj_ _A paradigmatic example._  
 __paradox__ _n_ :four: /ˈpær əˌdɒks/ __1__ In rhetoric, the word paradox refers to making a statement that seems self-contradictory or impossible but actually makes sense. Example: Youth is wasted on the young. A statement that seems to contradict itself but may nonetheless be true: _the paradox that standing is more tiring than walking._ _The statement “less is more” is a common paradox._  
 __paradoxical__ _adj_ :three::hammer:  
@@ -13516,6 +13525,7 @@ __paragon__ _n_ :eight: (paragons) Model of excellence or perfection of a kind; 
 __parakeet__ _n_ :mega: :es: periquito  
 __parallelism__ _n_ Parallelism is using grammatically similar phrases or sentences together. Example: Fool me once, shame on you. Fool me twice, shame on me.  
 __Paralympic Games__  
+__Paralympics__ _n pl_  
 __paralysis__ _n_ :two::hammer::mega: /pəˈræl ə sɪs/  
 __paralyze__ _v_ :two::pencil2::hammer: (paralyzed)  
 __parameter__ _n_ :two::hammer::mega:  
@@ -13525,13 +13535,15 @@ __paranoid__ _adj_
 __parapet wall__ _n_ That part of a wall which is entirely above the roof.  
 __parapet__ _n_ :two::hammer:  
 __paraph__ _n_ A flourish made after or below a signature, originally to prevent forgery.  
-__paraphernalia__ _n_ :six::pencil2::hammer: _Star Wars paraphernalia._  
+__paraphernalia__ _n_ :eight::pencil2: /pair-uh-fuh-NAIL-yuh/ _Paraphernalia_ can refer to objects or items that are used to do a particular activity, as well as objects or items that are typically associated with a particular activity, subject, etc. The word can also refer generally to personal belongings. _Star Wars paraphernalia._  
 __paraphilia__ _n_ :two::hammer:  
-__paraplegia__ _n_ :two: Complete paralysis of the lower half of the body including both legs, usually caused by damage to the spinal cord.  
-__parapraxis__ _n_  
+__paraplegia__ _n_ :three: Complete paralysis of the lower half of the body including both legs, usually caused by damage to the spinal cord.  
+__parapraxis__ _n_ :two: A minor error, such as a slip of the tongue, thought to reveal a repressed motive. _Syn_ slip-up, miscue, slip  
 __paraprosdokian__  
+__parapsychology__ _n_ /ˌpær ə saɪˈkɒl ə dʒi/ The study of the evidence for psychological phenomena, such as telepathy, clairvoyance, and psychokinesis, that are inexplicable by science.  
 __parasailing__  
 __paraselene__ _n_ (mock moon) A false moon, in reality a bright spot or a luminous ring surrounding the moon.  
+__parasol__ _n_ :astonished: A light, usually small umbrella carried as protection from the sun.  
 __parasternal__ _adj_ Adjacent to the sternum.  
 __parasympathetic__  
 __paratransit__ _adj_ _Paratransit services._  

@@ -539,30 +539,6 @@ __outburst__ _n_
 __outing__ _n_  
 __outlay__ _n_  
 __outline__ _v_  
-__outrun__ _vt_ :four::hammer:  
-__outstretched__ _adj_ Extended or expanded; stretched out.  
-__overabundance__ _n_ A going or being beyond what is needed, desired, or appropriate. _Syn_ overmuch, overmuchness, superabundance  
-__overdraft__ _n_  
-__overland__ _adj, adv_  
-__overnight__ _adj, adv, n_ _It happened almost overnight._  
-__padded__ _adj_ Softened by the addition of cushions or padding. _Padded shorts for cycling._ _Syn_ cushioned, cushiony  
-__pagan__ _adj, n_  
-__paganism__ _n_  
-__palliative__ _adj, n_  
-__palmistry__ _n_ /ˈpɑ mə stri/ The practice or art of telling fortunes from the lines, marks, and patterns on the palms of the hands.  
-__pamphlet__ _n_ :pencil2:  
-__panoply__ _n_ /PAN-uh-plee/  
-__pant__  
-__pants__ _v_ _informal_ :astonished: To yank down the pants of (someone) as a prank or joke.  
-__pantsing__ _n_ :two::astonished: The pulling down of a person’s trousers, usually as a prank or form of bullying.  
-__parade__ _v_  
-__paradigm__ _n_ /PAIR-uh-dyme/  
-__Paralympics__ _n pl_  
-__paraphernalia__ _n_ :two: /pair-uh-fuh-NAIL-yuh/ _Paraphernalia_ can refer to objects or items that are used to do a particular activity, as well as objects or items that are typically associated with a particular activity, subject, etc. The word can also refer generally to personal belongings.  
-__paraplegia__ _n_ [:scroll: quadri- (because all four limbs are affected ) + -plegia] Complete paralysis of the lower half of the body including both legs, usually caused by damage to the spinal cord.  
-__parapraxis__ _n_ A minor error, such as a slip of the tongue, thought to reveal a repressed motive. _Syn_ slip-up, miscue, slip  
-__parapsychology__ _n_ /ˌpær ə saɪˈkɒl ə dʒi/ The study of the evidence for psychological phenomena, such as telepathy, clairvoyance, and psychokinesis, that are inexplicable by science.  
-__parasol__ _n_ :astonished: A light, usually small umbrella carried as protection from the sun.  
 __paratrooper__  
 __Parkinson’s law__ _n_ /PAHR-kin-suhnz law/ The observation that work expands to fill the time available.  
 __parson__ _n_  
