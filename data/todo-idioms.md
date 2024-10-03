@@ -1,4 +1,5 @@
 __(as) good as dead__  
+__(it’s) (a)bout time__ :dart:  
 __(it’s) just as well (that) (something happened)__ It is or turned out to be beneficial (that something happened). _It turned out we had a pop quiz on Monday. Just as well I was studying this weekend!_  
 __(just) for the fun of it__  
 __(someone) ain’t seen nothing yet__  
@@ -26,6 +27,7 @@ __as it happens__
 __as simple (smt?) as it gets__ :dart:  
 __as we speak__ At this very moment.  
 __at (the) worst__ (at its very worst) Under the most negative circumstances, estimation, or interpretation: At worst, the storm will make us postpone the trip.  
+__at a moment’s notice__ With little time to prepare; immediately and at any time.  
 __at any rate__ :three::hammer:  
 __at close quarters__  
 __at every turn__  
@@ -119,10 +121,12 @@ __fancy__ _informal_ __2__ To have a desire for (something).
 __few and far between__  
 __fill the gap__  
 __first come, first served__ The first people present will be the first to receive something, often something that is available in limited quantities.  
+__fit the bill__  
 __flying squad__ _n_ A small group of police, soldiers, etc, ready to move into action quickly.  
 __fold__ :two: _informal_ __1__ Of a business, to fail or close; to cease to do business.  
 __follow suit__  
 __food chain__ Used in the phrases “at the top of the food chain” and “at the bottom of the food chain.” __1__ A hierarchy of organisms that transfer food energy between them. The smallest organisms are at the bottom—and they are preyed upon by the larger ones above them in the food chain. _Grizzly bears are at the top of the food chain._ _Phytoplankton are at the bottom of the food chain._ __2__ A hierarchy of people in a group or organization. _As a medical intern, I’m at the bottom of the food chain, but I’ll move up soon enough._  
+__foot the bill__  
 __for a charge__ The act of charging someone a fee or price for a service or item.  
 __for a fee__  
 __for all I know__  
@@ -215,6 +219,7 @@ __holding pattern__
 __hopeless at (something)__ Not skilled or adept at something. _Oh, I hired a maid because I know I’m hopeless at housework._  
 __hotshot__ :two::hammer:  
 __hue and cry__ /HYOO-und-KRYE/ __1__ A large public protest. _Hue and cry_ refers to a clamor of alarm or protest in response to something. __2__ It can also be used as a synonym of hubbub to refer to general noise or uproar.  
+__huff and puff__ Make noisy, empty threats; bluster. For example, _You can huff and puff about storm warnings all you like, but we’ll believe it when we see it._ This expression uses two words of 16th-century origin, _huff_, meaning “to emit puffs of breath in anger,” and _puff_, meaning “to blow in short gusts,” and figuratively, “to inflate” or “make conceited.” They were combined in the familiar nursery tale, _“The Three Little Pigs,”_ where the wicked wolf warns, _“I’ll huff and I’ll puff and I’ll blow your house down”_; rhyme has helped these idioms survive.  
 __hung jury__ :dart: A jury that cannot agree on a verdict.  
 __I beg your pardon__ :dart: __1__ :dart: I apologize for what I just did or said. _Oh, I beg your pardon. I wasn’t looking where I was going._ __2__ What did you just say? _Could you please repeat that? I beg your pardon, I couldn’t quite hear you._ __3__ An expression or exclamation of indignation or incredulous disbelief. _A: “I’m afraid we’re going to have to cut your funding, effective immediately.” B: “I beg your pardon? Who on earth decided that?”_ __4__ Could you please give me your attention. _I beg your pardon, everyone, but I’d like to get tonight’s proceedings underway._ __5__ :dart: I believe you are mistaken or incorrect; I beg to differ; I don’t agree with you on that. _I beg your pardon, but I believe you’ll find that our school is actually one of the best in the state._  
 __if it ain’t broke, don’t fix it__ :two::hammer: (if it isn’t broke, don’t fix it)  
@@ -406,7 +411,7 @@ __living proof__
 __loaded gun__ A situation or person that is dangerous or volatile. For example, a person might be described as a “loaded gun” if they are highly emotional or prone to outbursts.  
 __long and hard__  
 __long in the tooth__  
-__long time no see__  
+__long time no see__ :two::hammer:  
 __look the other way__  
 __looks like__  
 __loony bin__ _slang_ A psychiatric hospital or insane asylum. From a glib adaptation of the word “lunatic,” the phrase is now considered tactless at best, extremely insulting at worst.  
@@ -586,6 +591,7 @@ __raise eyebrows__
 __rake in__  
 __recoup (something) from (someone or something)__ To recover, regain, or restore something from someone or something. _You’ll have to pay for everything out of pocket, but you can recoup it all from HR after you’re back from the trip._  
 __roast__  
+__roll with the punches__  
 __rolling stone__  
 __round and round__ :two::hammer: (around and around)  
 __rue the day (that something happened)__ To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
@@ -625,6 +631,7 @@ __single out__
 __sit still (for something)__ __2__ To fail or choose not to act in response to something; to endure or tolerate something passively or submissively. _I couldn’t just sit still for condescending, hypocritical remarks, so I gathered my things and walked right out of the building._  
 __six in one, (and) half a dozen in the other__ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
 __skive off__ _BrE_ To absent oneself or leave early from school or work when one would normally be required to be there; to play truant. Primarily heard in UK.  
+__slam-bang__  
 __slap in the face__ Words or actions that have offended or otherwise upset someone. _It was a real slap in the face when she got promoted over me, especially after the amount of work I did on that last project._  
 __sleazo__  
 __sleep like a rock__ To experience a very deep and restful sleep; to sleep soundly.  
@@ -674,6 +681,7 @@ __toughen up__
 __true colors__  
 __twerp__  
 __twist the knife__ :smiling_imp: To add to, exacerbate, or amplify a betrayal or wrong by further malicious actions. _He said it was over, and then he twisted the knife and said he had never loved me._  
+__uh-huh__  
 __ventilate__ To kill (someone) by shooting.  
 __walk the wire__ To navigate a delicate or precarious situation. It implies taking risks and balancing between different challenges or conflicting demands.  
 __watch one’s step__ Exercise caution, as in _You’d better watch your step talking to them about a merger._ Often put as an admonition, this phrase transfers taking care in walking to other kinds of caution.  

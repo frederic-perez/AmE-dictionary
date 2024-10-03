@@ -9,6 +9,7 @@ __approbation__ _n_ /ap-ruh-BAY-shun/ Approbation is a formal word that refers t
 __archway__ _n_ :es: pasaje abovedado  
 __armistice__ _n_  
 __arrack__ _n_ (arak)  
+__array__ _vt_  
 __arthralgia__ _n_ är-thrăl′jə/ Neuralgic pain in a joint or joints.  
 __arthroplasty__ _n_ /AR-thruh-plas-tee/ [:scroll: From Greek arthro- (joint) + -plasty (formation, repair, molding)] The surgical repair or replacement of a joint.  
 __articulate__ _v_  
@@ -138,6 +139,7 @@ __creosote__ _n_
 __criminal offence__ _n_ An act punishable by law; usually considered an evil act. _Syn_ crime, criminal offense, law-breaking, offense, offence  
 __crisis intervention__ _n_  
 __croft__ _n_  
+__crony__ _n_  
 __cross examine__ _v_ :two::hammer:  
 __cruise missile__ _n_  
 __cupboard__ _n_ /ˈkʌb ərd/ A closet with shelves for dishes, cups, food, etc.  
@@ -184,6 +186,7 @@ __drapery__ _n_ :two::hammer: /ˈdreɪpərɪ/
 __drollery__ _n_ A quaint and amusing jest. _Syn_ waggery  
 __drop handlebars__ _n_ Low curved handles on a bicycle.  
 __duck-footed__ _adj_  
+__duly__ _adv_ __1__ In a proper manner: _a duly appointed official._  
 __duodecimo__ _n_  
 __dusky__ _adj_ Characterized by little or inadequate light; shadowy. _Syn_ twilight, twilit  
 __duster__ _n_ :dart::camera: A loose coverall (coat or frock) reaching down to the ankles. _Syn_ gaberdine, smock  
@@ -254,6 +257,7 @@ __flogging__ _n_ Beating with a whip or strap or rope as a form of punishment.
 __floorwalker__ _n_ An employee of a department store who supervises sales personnel and assists customers. _Syn_ shopwalker  
 __flotation tank__ _n_ (flotation chamber) An enclosed ventilated tank filled with a saline solution at body temperature, in which a person floats in darkness in order to relax or meditate.  
 __flotsam__ _n_ :two::hammer:  
+__flounder__ _v_  
 __flout__ _v_  
 __flub<sup>1</sup>__ _n_ :dart: /flʌb/ An embarrassing mistake or blunder.  
 __flub<sup>2</sup>__ _v_ :dart: To blunder or make an embarrassing mistake. Make a mess of, destroy or ruin.  
@@ -291,6 +295,7 @@ __gabardine__ _n_ A firm, tightly woven fabric of worsted, cotton, polyester, or
 __gabby__ _adj_ Tending to talk excessively. _Syn_ chatty, garrulous, loquacious, talkative, talky  
 __gadabout__ _n_ /GAD-uh-bout/ A gadabout is a person who flits about in social activity, as by going to many places and social events for pleasure.  
 __gaffer__ _n_ __1__ [:scroll: Probably alteration (influenced by _grandfather_) of _godfather_] An electrician in charge of lighting on a movie or television set.  
+__gaggle__ _n_ __2__ _informal_ A disorderly group of people.  
 __galvanize__  
 __Gamblers Anonymous__ _n_ (GA) An organization that holds group meetings to help people who are addicted to gambling.  
 __gamekeeper__ _n_ /ˈgeɪmˌki pər/ A person employed, as on an estate or game preserve, to prevent poaching and provide for the conservation of game.  
@@ -300,11 +305,14 @@ __garrulous__ _adj_ Excessively talkative in a rambling, roundabout manner, espe
 __gasp<sup>1</sup>__ _v_  
 __gasp<sup>2</sup>__ _n_ __1__ A short convulsive intake of breath.  
 __gateway__ _n_ __2__ Something that serves as an entrance or a means of access: _a gateway to success; the gateway to the West._  
+__gaunt__ _adj_  
 __general practitioner__ _n_ (GP) _Syn_ family doctor  
 __genteelism__ _n_ /jen-TEE-liz-uhm/ The substitution of a word that is believed to be more polite or refined. For example, washroom for lavatory.  
 __gerbil__ _n_ :es: jerbo  
 __gestalt therapy__ _n_  
 __gestalt__ _n_ _Gestalt therapy._  
+__ghoul__  
+__grovel__ _vi_  
 __handicraft__ _n_ Skill or dexterity in working with the hands.  
 __handyman__ _n_ :es: manitas  
 __haphazardly__ _adv_ In a random manner.  
@@ -330,6 +338,7 @@ __hiking__ _n_
 __hiss__ _v_ :three::hammer:  
 __history__ _n_ :mega:  
 __hitherto__ _adv_ :two: Until this time.  
+__hoax__ _n_  
 __hokey__ _adj_ _Hokey accent._  
 __holdall__ _n_  
 __holidaymaker__ _n_ _Chiefly British_ One who goes on vacation. Someone who travels for pleasure. _Syn_ tourer, tourist  
@@ -344,6 +353,7 @@ __hotplate__ _n_ :two::hammer:
 __house martin__ _n_ (housemartin)  
 __hovel__ _n_ __1__ A small, miserable dwelling. __2__ An open, low shed.  
 __huddle__ _v_  
+__huff__ _v_  
 __husk__ _n_ /hʌsk/  
 __ideophone__ _n_ /ID-ee-uh-fon/ A vivid, evocative word that depicts sensory experiences. [Note: While onomatopoeia relates to sound (e.g., gnar), ideophones encompass a wider array of senses, including color, action, smell, and movement. Examples: shimmer and zig-zag.]  
 __idiosyncrasy__  
@@ -470,6 +480,7 @@ __microfiche__ _n_ /ˈmaɪ krəˌfiʃ/ A flat sheet of microfilm, containing rep
 __midriff__  
 __millpond__ _n_ __1__ A pool formed by damming a stream to provide water to turn a millwheel.  
 __miniscule__ _adj_ :astonished:  
+__mirth__ _n_ Gladness and merriment, especially when expressed by laughter.  
 __misanthrope__ _n_ (misanthropist) A person who dislikes or distrusts other people or mankind in general.  
 __misbegotten__ _adj_ :smiling_imp: /ˌmɪs bɪˈgɒt n/ (misbegot)  
 __mise-en-scène__ _n_ /meez-ahn-SEN/ _Mise-en-scène_ can refer to the setting of a play, movie, etc., or it can refer to the physical or social setting in which something real occurs or develops.  
@@ -546,6 +557,7 @@ __pasquinade__ _n_ A satire or lampoon, especially one that ridicules a specific
 __pastime__ _n_ :pencil2:  
 __pathos__ _n_ A quality, as of an experience or a work of art, that arouses feelings of pity, sympathy, tenderness, or sorrow. _Syn_ poignancy  
 __patron__ _n_ _Look, Artoo-Detoo! Here comes a patron out of the cantina!_  
+__patsy__ _n_ :smiling_imp: A person easily taken advantage of, cheated, blamed, or ridiculed.  
 __pauperism__ _n_ A state of extreme poverty or destitution. _Syn_ indigence, penury, need  
 __payslip__ _n_ (pay slip) A piece of paper received by an employee showing how much salary they have been paid.  
 __peal__ _n_ :two: __1__ A ringing of a set of bells, especially a change or set of changes rung on bells. __2__ A set of bells tuned to each other; a chime. __3__ A loud burst of noise: _peals of laughter._  
@@ -611,6 +623,7 @@ __pressing__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need
 __pressing<sup>1</sup>__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._ _Syn_ urgent __2__ Very earnest or insistent: _a pressing invitation._  
 __pressing<sup>2</sup>__ _n_  
 __pressurize__ _vt_  
+__price gun__ _n_ :astonished: A portable tool used to print price tags.  
 __pricey__ _adj_ /ˈpraɪ si/ (pricy)  
 __prioritize__ _v_ _We’ll probably go on prioritizing._  
 __prissy__ _adj_ :es: remilgado  
@@ -622,6 +635,7 @@ __propensity__ _n_ /pruh-PENN-suh-tee/ A _propensity_ is a strong natural tenden
 __prostration__ _n_ An abrupt failure of function or complete physical exhaustion. _Syn_ collapse  
 __provender__ _n_ Dry food, as hay or oats, for livestock or other domestic animals.  
 __proximate__ _adj_  
+__puff__ _v_  
 __pulse__ _n_ __1__ The edible seeds of certain pod-bearing plants, such as lentils and chickpeas. :es: legumbres __2__ A plant yielding these seeds.  
 __pumpkin spice__ _n_ A mixture of usually cinnamon, nutmeg, ginger, cloves, and often allspice that is commonly used in pumpkin pie.  
 __pundit__ _n_ __1__ A source of opinion; a critic: a political pundit. __2__ A learned person.  
@@ -710,12 +724,15 @@ __skullduggery__ _n_ :smiling_imp: Dishonorable proceedings.
 __slag__ _v_ _Slagged by fire._  
 __sleazy__ _adj_ /ˈsli zi, ˈsleɪ zi/  
 __slight__ _adj_ /slaɪt/  
+__slob__ _n_  
 __smolder__ _vi_ __1__ To burn with little smoke and no flame. _Luke saw the smoldering piles which had once been human beings._  
 __smugly__ _adv_  
+__snarl__ _v_  
 __snigger__ _v_  
 __snort__ _v_  
 __spark plug__ _n_  
 __spearhead__ _vt_  
+__sperse__ _v_  
 __spinster__ _n_ :es: solterona  
 __splendiferous__ _adj_ /splɛnˈdɪfərəs/ [:scroll: From Latin splendor (brilliance) + -fer (bearing)] _facetious_ Grand; splendid: _a really splendiferous meal._  
 __splosh__ _v_  
@@ -750,6 +767,7 @@ __street trading__ _n_ The selling, or exposing for sale, of articles on certain
 __stridor__ _n_ :es: estridor, ruido sordo respiratorio  
 __string__ _n_ _The string of the tea bag._  
 __stringent__ _adj_  
+__strobing__ _n_ A brief flashing on and off, as of a stroboscopic lamp.  
 __strong__ _n_ __18__ Having a specified number of units or members: _a military force 100,000 strong._  
 __stub__ _n_ __1__ The usually short end remaining after something bigger has been used up: _a pencil stub; a cigarette stub._  
 __stuffy__ _adj_ :dart:  
@@ -780,12 +798,13 @@ __tariff__ _n_ /ˈtær ɪf/
 __tarp__ _n_ Waterproofed canvas.  
 __tatty__ _adj_ Somewhat worn, shabby, or dilapidated.  
 __taunt__ _vt_ /tɔːnt/ __1__ To provoke or deride with mockery, contempt, or criticism. __2__ To tease; tantalize.  
-__teeter__ _v_ __1__ To move or sway unsteadily or unsurely; totter.  
+__teeter__ _vi_ :two: __1__ To move or sway unsteadily or unsurely; totter.  
 __teetotaler__ _n_ (teetotaller)  
 __the nuts and bolts__  
 __thence__ _adv_ From that place; from there. _Syn_ therefrom _The train went south into Switzerland and thence on to Italy._  
 __thunk__ _n_  
 __tire iron__ _n_ A short length of steel with one end flattened to form a blade, used to remove tires from wheel rims.  
+__townhouse__ _n_  
 __transient__ _adj_ _Temporary conduction block can occur as a result of transient edema._  
 __transmogrification__ _n_  
 __transmogrify__ _v_  
