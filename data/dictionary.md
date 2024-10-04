@@ -2999,6 +2999,7 @@ __casemates__ _n_
 __casement windows__ _n_ :camera: A window with one or more casements. _A metal casement window._ :es: ventana a bisagra, ventana batiente  
 __casement__ _n_ :two::hammer: :es: ventana de bisagras _Casement window._  
 __caseous__ _adj_ :two: Resembling cheese.  
+__casework__ _n_ :three: Social work involving direct contact between the social worker and the individual or family being helped.  
 __cash bar__ _n_ A bar (as at a reception) at which drinks are sold. (compare _open bar_) _The cost is $30 per person with a cash bar._  
 __cash flow__  
 __cash rebate__  
@@ -3028,7 +3029,7 @@ __castoff__ _n_
 __castor__  
 __casual Friday__ _n_ :two: Another name for dress-down Friday. _Casual Fridays should be every day._  
 __casual__ _adj_ _He put on casual clothes._  
-__casualty__ _n_ :two::hammer:  
+__casualty__ _n_ :astonished::three: __3__ _(Medicine)_ A hospital department in which victims of accidents, violence, etc, are treated.  
 __casuist__ _n_ /KAZH-oo-ist/ One who employs deceptive or excessively subtle reasoning, especially on moral issues.  
 __cat__ _n informal_  
 __cat-and-mouse__ _adj_ :two::hammer: _A psychological cat-and-mouse thriller._  
@@ -3044,7 +3045,7 @@ __catamaran__ _n_
 __catamounts__  
 __cataplasm__ _n_ A _Syn_ poultice, plaster  
 __catapult<sup>1</sup>__ _n_ :two::hammer: __3__ A slingshot. :es: tirachinas  
-__catapult<sup>2</sup>__ _v_ :two::hammer: (catapulted)  
+__catapult<sup>2</sup>__ _v_ :three::hammer: /ˈkæt əˌpʌlt, -ˌpʊlt/  
 __cataract__ _n_ :two::hammer: :es: cataratas  
 __catarrh__ _n_ :two::astonished::pencil2: Copious discharge of mucus associated with inflammation of mucous membranes, especially of the nose and throat.  
 __catastrophe__ _n_ :three::hammer: /kuh-TASS-truh-fee/  
@@ -3058,13 +3059,14 @@ __Catch-22__ _n_ :two::hammer: _It’s a real Catch-22 situation._
 __catch-all__ _n_  
 __catch-up schedule__  
 __catchall__ _n_ _A catchall phrase._  
+__catchment__ _n_ :es: cuenca  
 __catchpenny__  
 __catchphrase__ _n_  
 __catchword__ _n_  
 __catchy__ _adj_ :two: __1__ Attractive or appealing: _a catchy idea for a new television series._ __2__ Easily remembered: _a song with a catchy tune._ __3__ Tricky; deceptive. Having concealed difficulty. _Syn_ tricky _A catchy question on an exam._ _Despite Ms. Brown’s assurances to the contrary, her exam was surprisingly catchy, and many students received a failing grade._ __4__ Fitful or spasmodic: _catchy breathing._  
 __catechism__ _n_ :three::hammer::pencil2:  
 __categorical__ _adj_  
-__cater__ _v_ :four:hammer: _Catered dinner._  
+__cater__ _v_ :five:hammer: _Catered dinner._  
 __catercorner__ _adj, adv_ /KAT-ee-kor-ner/  
 __caterpillar__ _n_  
 __caterwaul<sup>1</sup>__ _n_  
@@ -3074,6 +3076,7 @@ __catfish__ _n_ :five: A person who sets up a false personal profile on a social
 __catharsis__ _n_ :four::hammer:  
 __cathartic__ _adj_ :two::hammer:  
 __cathedral ceiling__ _n_ :camera::two: A high ceiling, especially one that rises to a peak in the center.  
+__cathexis__ _n_ Concentration of emotional energy on an object or idea. _Syn_ charge _Freud thought of cathexis as a psychic analog of an electrical charge._  
 __catnap__  
 __catnip__ _n_ :five: A plant of the mint family, with downy leaves, purple-spotted white flowers, and a pungent smell attractive to cats. _He’s catnip to women._ _Syn_ catmint :es: hierba gatera  
 __catskills__  
@@ -3112,8 +3115,9 @@ __caw<sup>2</sup>__ _v_ :two::hammer: (cawed, cawing)
 __cc__ _vt_ (cc’d _or_ cc’ed; cc’ng) _The bugs are cc’ed to me._  
 __ce__  
 __cease and desist__  
-__ceasefire__ _n_ :seven::hammer: /ˈsiːsfaiə(r)/ (cease-fire)  
+__ceasefire__ _n_ :eight::hammer: /ˈsiːsfaiə(r)/ (cease-fire)  
 __cede__  
+__ceiling rose__ _n_ In the United Kingdom and Australia, a _ceiling rose_ is a decorative element affixed to the ceiling from which a chandelier or light fitting is often suspended.  
 __ceilometer__ _n_ :four::hammer:  
 __cel__ _n_ A piece of celluloid on which has been drawn a frame of an animated film. _A Bugs Bunny production cel, by Chuck Jones._  
 __celebutante__ _n_ A celebrity who is well known in fashionable society; a blend of celebrity and debutante.  
@@ -3144,6 +3148,7 @@ __cerebral palsy__
 __cerebral__ _adj_ :two::mega: /suh-REE-brul/ __1__ Of or relating to the brain or intellect. _The study is on the cerebral functions of infants._ __2__ Primarily intellectual in nature. _The movie is a cerebral thriller that rewards the viewer’s careful attention with intricate plot turns._  
 __cerebrate__ _v_ (usually facetious) To use the mind; think; ponder; consider.  
 __cerebritis__ _n_ /ˌsɛrɪˈbraɪtɪs/ An infection or inflammation of the brain.  
+__Ceroc__ _n_ /səˈrɒk/ (Dancing) _trademark_ A form of dance combining elements of jive and salsa.  
 __certainly__ _adv_  
 __cerulean<sup>1</sup>__ _adj_ :five: /suh-ROO-lee-un/ /suh-ROO-lee-uhn/ Sky blue. Of a deep somewhat purplish blue color similar to that of a clear October sky. _Cerulean basins and Marco Polo blue lips and splash fights._ _The painting depicts autumnal trees bordering a cerulean lake._  
 __cerulean<sup>2</sup>__ _n_ :two: A light shade of blue.  
@@ -3200,10 +3205,11 @@ __chaperone<sup>1</sup>__ _n_ :four::hammer: _One adult chaperone is required fo
 __chaperone<sup>2</sup>__ _v_  
 __chapfallen__ _adj_ __1__ Having the lower jaw hanging loosely. __2__ Cast down in spirit. _Syn_ depressed  
 __chaplain__ _n_ :six::mega::hammer:  
+__chapped__ _adj_ Used of skin roughened as a result of cold or exposure; _chapped lips._  
 __chaps__ _n_  
 __chapter house__ _n_ _They met in the chapter house of the abbey._  
 __chapter__ _n_ _To the east was the chapter house._  
-__char__ _v_ (charred)  
+__char__ _v_ :two: Burn slightly and superficially so as to affect color. _Syn_ blacken, sear, scorch.  
 __character actor__  
 __character__ _n_ :mute:[c~~h~~aracter]  
 __charade__ _n_ :four::hammer:  
@@ -3273,6 +3279,7 @@ __cheeseparing<sup>1</sup>__ _n_ /CHEEZ-pair-ing/ __1__ The act of saving by usi
 __cheeseparing<sup>2</sup>__ _adj_ __1__ Meanly economical. __2__ Insignificant; spare; thin.  
 __cheesy__ _adj_ :four::hammer:  
 __chef__ _n_ A cook, especially the chief cook of a large kitchen staff. _Your dinner is cooked by your own chef in front of you._  
+__chemist__ _n_ __1__ A scientist specializing in chemistry. __2__ _Chiefly British_ A pharmacist.  
 __chemistry__ _n_ :two::mute:[c~~h~~emistry] __4__ Mutual attraction or sympathy; rapport: _The chemistry was good between the partners._  
 __chemoinformatics__  
 __chemtrail__ _n_ :camera:  
@@ -3308,7 +3315,7 @@ __chicken run__
 __chicken wire__ _n_ :two::hammer:  
 __chickenpox__ _n_ Also called varicella. An acute contagious disease, primarily of children, that is caused by the varicella-zoster virus and characterized by skin eruptions, slight fever, and malaise. _She got a case of chickenpox._  
 __chickpea__ _n_ :three::hammer: (chickpeas) _A handful of chickpeas._ :es: garbanzo  
-__chide__ _v_ :eight: (chided, chiding) __1__ To rebuke or scold. __2__ (tr) To goad into action. _We chided the Pentagon._  
+__chide__ _v_ :nine: __1__ To rebuke or scold. __2__ (tr) To goad into action. _We chided the Pentagon._  
 __chief<sup>1</sup>__ _adj_  
 __chief<sup>2</sup>__ _n_ :two::hammer: /tʃiːf/ /tʃif/ (chiefs)  
 __chieftain__ _n_  
@@ -3320,6 +3327,7 @@ __child rearing__ _n_ The process of taking care of and raising children. _Her h
 __child’s play__ _n_ _informal_ :two: Something that is easy to do. _It’s a child’s play._  
 __childbirth__  
 __childhood__ _n_  
+__childminder__ _n_ (Social Welfare) A person who looks after children, esp those whose parents are working. :es: niñera  
 __chiliad__ _n_ /KIL-ee-ad/ __1__ A period of a thousand years. __2__ A group of 1000.  
 __chillingly__ _adv_ _His prediction of mass murder of Tutsis proved chillingly accurate._  
 __chime in__ _phr v_ :four::hammer:  
@@ -3362,6 +3370,7 @@ __chit chat__
 __chit__ _n_  
 __chit-chat<sup>1</sup>__ _n_ :two: (chit chat) An informal conversation about things that are not important.  
 __chit-chat<sup>2</sup>__ _v_  
+__chitinous__ _adj_  
 __chitterlings__ _n_ The small intestines of pigs, especially when cooked and eaten as food. _Duck with roast chitterlings._  
 __Chiuaua__  
 __chivalry__ _n_ :five::hammer: /SHIV-ul-ree/  
@@ -3369,6 +3378,7 @@ __chive__ _n_ :three::hammer: _Chive sauce._ :es: cebollino, cebolleta
 __chivvy__ _v_ :three: (chivy) Annoy continually or chronically. _Syn_ beset, harass, harry, hassle, molest, plague, provoke _The senator is very demanding and is reputed to endlessly chivvy her staff to work harder._  
 __chlamydia__ _n_ :pencil2:  
 __chlorophyll__ _n_ :four::pencil2::hammer:  
+__chockablock__ _adj_ /CHAH-kuh-blahk/ Something described as chockablock is very full or tightly packed.  
 __chocolate bar__ _n_  
 __chocolate-box__ _adj_ Excessively decorative and sentimental, like the pictures on some boxes of chocolate candy.  
 __choice__ _v_ _Pick your choice._  
@@ -3383,6 +3393,7 @@ __cholecystectomy__ _n_
 __choler__ _n_ __1__ An irritable petulant feeling. _Syn_ crossness, fretfulness, fussiness, peevishness _I felt quite amused at his unwarranted choler, and while he stumped indignantly up and down I fell to dwelling upon the romance of the fog._ __2__ A strong emotion; a feeling that is oriented toward some real or supposed grievance. _Syn_ anger, ire  
 __chomp__ _v_ :two::hammer: _He chomped his cigar._  
 __chomping__ _n_ :two::hammer:  
+__choosy__ _adj_  
 __chop<sup>1</sup>__ _n_ :two: __2__ Quality; class: _first chop._ __3__ A piece that has been chopped off, especially a cut of meat, usually taken from the rib, shoulder, or loin and containing a bone. _The famous chops from Berriz._  
 __chop<sup>2</sup>__ _v_  
 __chophouse__ _n_ :three: A restaurant that specializes in serving steaks and chops of meat. _Syn_ steakhouse  
@@ -3407,10 +3418,12 @@ __Christmas fly__
 __Christmas stocking__ _n_ A stocking hung up by children on Christmas Eve for Santa Claus to fill with presents.  
 __Christmas__ _n_ :three::hammer::mute:[C~~h~~istmas] [:scroll: From the Old English Cristes mǣsse, meaning “Mass of Christ”]  
 __Christmastime__ _n_ :two: The Christmas season.  
-__chrome__ _n_  
+__chrome<sup>1</sup>__ _n_  
+__chrome<sup>2</sup>__ _v_ /kroʊm/  
 __chronic__ _adj_ __1__ Of long duration; continuing: _chronic money problems._ _Chronic use._  
 __chrysalis__ _n_ :two::hammer: /ˈkrɪs ə lɪs/ (_n pl_ chrysalises or chrysalides)  
-__chuck out__ _v_  
+__chthonic__ _adj_ /THAH-nik/ Of or relating to the underworld. It is used as a synonym of _infernal_.  
+__chuck out__ _v_ :two::hammer:  
 __chuck__ _v_ :nine: (chucked, chucking) __1__ To pat or squeeze fondly or playfully, especially under the chin. __2a__ To throw or toss: _chucked stones into the water._ _When the quarterback chucks a pass with the game on the line._ _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._ __b__ _informal_ To throw out; discard: _chucked my old sweater._ _In “Network,” viewers were persuaded to chuck their TVs out the window._ __c__ _informal_ To force out; eject: _chucking out the troublemakers._ _We couldn’t be domesticated, so they chucked us out._ __3__ _informal_ To give up; quit: _chucked her job._  
 __chuck-wagon__ _n_ :three::hammer: _Chuck-wagon supper._ _A chuck-wagon barbecue._  
 __chuckholes__ _n_  
@@ -3436,7 +3449,7 @@ __churn<sup>2</sup>__ _v_ :nine::m: (churned, churning) __1__ If your stomach ch
 __churrascaria__ _n_ A restaurant serving churrasco, often featuring all-you-can-eat service and having waiters who carry skewered meat to the diners’ tables and cut slices upon request.  
 __churrigueresque__ _adj_ Of or relating to a style of baroque architecture of Spain and its Latin-American colonies, characterized by elaborate and extravagant decoration. The name is a reference to José Churriguera, a baroque architect and sculptor. The Cathedral Basilica of Zacatecas in Mexico is just one example of a churrigueresque building.  
 __churro__ _n_ /ˈtʃuːrəʊ/  
-__chute__ _n_ :two: __2__ (Individual Sports, other than specified) A steep slope, used as a slide as for toboggans.  
+__chute__ _n_ :four: __2__ (Individual Sports, other than specified) A steep slope, used as a slide as for toboggans.  
 __Chutes and Ladders__ _n_  
 __chutney__ _n_ :two: (chutneys) A cold food made from fruit, spices, and vinegar, eaten with meat or cheese.  
 __chutzpah__ _n_ :two: (chutzpa) Shameless boldness; brazen nerve; gall.  
@@ -3487,13 +3500,14 @@ __citizenry__
 __citrine__ _adj, n_ /ˈsɪ trin, -traɪn, sɪˈtrin/  
 __City__ _n_ :two: Short for City of London.  
 __cityscape__ _n_  
+__civil action__  
 __civil__ _adj_ _Some airlines still offer a civil amount of space, even in economy class._  
 __clacks__ _n_  
 __clad__ _v_ _A scantily clad spider._  
 __claddagh__ _n_  
 __cladding__ _n_ __1__ The act or process of bonding one metal to another, usu. to protect the inner metal from corrosion. __2__ Metal bonded to an inner core of another metal. :es: revestimiento  
 __claim__ _v_ _The White Sox claimed the 2005 title._  
-__claimant__ _n_ :two::hammer: :es: demandante  
+__claimant__ _n_ :three::hammer: :es: demandante; solicitante  
 __clairvoyance__ _n_ :two: Apparent power to perceive things that are not present to the senses. _Syn_ ESP, extrasensory perception, second sight _The police officer doubted my clairvoyance until I was able to lead him to the missing woman’s remains._  
 __clairvoyant<sup>1</sup__ _adj_ :three: Having the supposed power to see objects or events that cannot be perceived by the senses. _Syn_ precognitive, second-sighted  
 __clairvoyant<sup>2</sup__ _n_ A person claiming to have the power to foretell future events.  
@@ -3541,6 +3555,8 @@ __claw<sup>2</sup>__ _v_ :two::hammer:
 __clawback__  
 __clawed__ _v_  
 __clean his clock__  
+__clean-shaven__ _adj_ __1__ Having the beard or hair shaved off. __2__ Having recently shaved.  
+__cleaning agent__  
 __cleanliness__ _n_ :two::hammer:  
 __cleanse<sup>1</sup>__ _v_  
 __cleanse<sup>2</sup>__ _n_ An act of cleansing: _a cleanse of the digestive system._  
@@ -13425,7 +13441,7 @@ __pallholder__ _n_
 __palliate__ _v_ Lessen or to try to lessen the seriousness or extent of. _Syn_ extenuate, mitigate  
 __palliative care__ _n_  
 __palliative<sup>1</sup>__ _adj_ :three::hammer::pencil2: _Palliative care._  
-__palliative<sup><2/sup>__ _n_  
+__palliative<sup>2</sup>__ _n_  
 __pallid__ _adj_ Having an abnormally pale or wan complexion. _Syn_ pasty, colorless, ashen  
 __pallor__ _n_ :two::hammer:  
 __palm<sup>1</sup>__ _n_ :mega::mute:[pa~~l~~m]  
@@ -13489,9 +13505,9 @@ __pantophagous__ _adj_
 __pantoscopic__ _adj_ _Pantoscopic tilt._  
 __pantothenic acid__ _n_ A vitamin belonging to the vitamin B complex that is important in the metabolism of fats and carbohydrates. It is found in liver, yeast, and many vegetables.  
 __pantry__ _n_ :three::hammer:  
+__pants-on-fire__  
 __pants<sup>1</sup>__ _n_  
 __pants<sup>2</sup>__ _v_ _informal_ :astonished: To yank down the pants of (someone) as a prank or joke.  
-__pants-on-fire__  
 __pantsed__ _v_  
 __pantsing__ _n_ :two::astonished: The pulling down of a person’s trousers, usually as a prank or form of bullying.  
 __pap__ _n_ :two: __3__ _slang_ Money and favors obtained as political patronage. __4__ A paparazzo.  

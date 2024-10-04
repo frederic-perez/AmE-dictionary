@@ -71,31 +71,6 @@ __camp__ _n_
 __candlestick__ _n_ (candleholder) A holder, usually ornamental, with a spike or socket for a candle.  
 __Canuck__ _n_  
 __canvasser__ _n_  
-__casework__ _n_ :three: Social work involving direct contact between the social worker and the individual or family being helped.  
-__casualty__ _n_ :astonished: __3__ _(Medicine)_ A hospital department in which victims of accidents, violence, etc, are treated.  
-__catapult__ _v_ /ˈkæt əˌpʌlt, -ˌpʊlt/  
-__catchment__ _n_ :es: cuenca  
-__cater__ _v_  
-__cathexis__ _n_ Concentration of emotional energy on an object or idea. _Syn_ charge _Freud thought of cathexis as a psychic analog of an electrical charge._  
-__ceasefire__ _n_  
-__ceiling rose__ _n_ In the United Kingdom and Australia, a _ceiling rose_ is a decorative element affixed to the ceiling from which a chandelier or light fitting is often suspended.  
-__Ceroc__ _n_ /səˈrɒk/ (Dancing) _trademark_ A form of dance combining elements of jive and salsa.  
-__chapped__ _adj_ Used of skin roughened as a result of cold or exposure; _chapped lips._  
-__char__ _v_ Burn slightly and superficially so as to affect color. _Syn_ blacken, sear, scorch.  
-__chemist__ _n_ __1__ A scientist specializing in chemistry. __2__ _Chiefly British_ A pharmacist.  
-__chide__ _v_  
-__childminder__ _n_ (Social Welfare) A person who looks after children, esp those whose parents are working. :es: niñera  
-__chitinous__ _adj_  
-__chockablock__ _adj_ /CHAH-kuh-blahk/ Something described as chockablock is very full or tightly packed.  
-__choosy__ _adj_  
-__chrome__ _n, v_ /kroʊm/  
-__chthonic__ _adj_ /THAH-nik/ Of or relating to the underworld. It is used as a synonym of _infernal_.  
-__chuck out__ _v_  
-__chute__ _n_  
-__civil action__  
-__claimant__ _n_ :es: demandante; solicitante  
-__clean-shaven__ _adj_ __1__ Having the beard or hair shaved off. __2__ Having recently shaved.  
-__cleaning agent__  
 __clearing bank__ _n_ (in Britain) Any bank that makes use of the central clearing house in London for the transfer of credits and cheques between banks.  
 __close to one’s chest__  
 __close-knit__ _adj_ Held tightly together, as by social or cultural ties: _a close-knit family._  
