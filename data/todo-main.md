@@ -33,6 +33,7 @@ __bedroll__ _n_ /ˈbɛdˌrəʊl/ A portable roll of bedding, such as a sleeping 
 __bedsit__ _n_ A furnished sitting room containing sleeping accommodation and sometimes cooking and washing facilities. :es: estudio amueblado, habitación amueblada _Syn_ bedsitter, bedsitting room, bed-sitting room  
 __bedstead__ _n_ The framework of a bed supporting the springs and a mattress.  
 __bell boot__ _n_  
+__bemoan__ _vt_ :es: lamentar  
 __beseech__ _v_ :es: suplicar  
 __best boy__ _n_ The chief assistant to the gaffer on a movie or television set.  
 __bickering__ _n_  
@@ -79,6 +80,7 @@ __cathexis__ _n_ Concentration of emotional energy on an object or idea. _Syn_ c
 __ceasefire__ _n_  
 __ceiling rose__ _n_ In the United Kingdom and Australia, a _ceiling rose_ is a decorative element affixed to the ceiling from which a chandelier or light fitting is often suspended.  
 __Ceroc__ _n_ /səˈrɒk/ (Dancing) _trademark_ A form of dance combining elements of jive and salsa.  
+__chapped__ _adj_ Used of skin roughened as a result of cold or exposure; _chapped lips._  
 __char__ _v_ Burn slightly and superficially so as to affect color. _Syn_ blacken, sear, scorch.  
 __chemist__ _n_ __1__ A scientist specializing in chemistry. __2__ _Chiefly British_ A pharmacist.  
 __chide__ _v_  
@@ -241,6 +243,7 @@ __firebomb<sup>1</sup>__ _n_ A bomb used to start a fire; an incendiary bomb.
 __firebomb<sup>2</sup>__ _v_ To attack with firebombs.  
 __firebrand__  
 __firsthand__  
+__fish__ _v_ __3__ To seek something in a sly or indirect way: _fish for compliments._  
 __flapper__ _n_  
 __flash flood__ _n_ (flashflood) A sudden flood of great volume, usually caused by heavy rain.  
 __flat__ _adv_ :dart: __3a__ Directly; completely: _went flat against the rules; flat broke._ __b__ Exactly; precisely: _arrived in six minutes flat._  
@@ -312,7 +315,10 @@ __gerbil__ _n_ :es: jerbo
 __gestalt therapy__ _n_  
 __gestalt__ _n_ _Gestalt therapy._  
 __ghoul__  
+__glower<sup>1</sup>__ _n_ To look or stare angrily or sullenly: _glowered at the rude patron._ _Syn_ scowl, glare, frown, look daggers, give a dirty look, lour, lower  
+__glower<sup>2</sup>__ _n_ An angry or sullen look or stare.  
 __grovel__ _vi_  
+__hacksaw__ _n_ :dart: A handsaw for cutting metal, with a hard-steel blade in a frame under tension.  
 __handicraft__ _n_ Skill or dexterity in working with the hands.  
 __handyman__ _n_ :es: manitas  
 __haphazardly__ _adv_ In a random manner.  
@@ -384,6 +390,9 @@ __irate__ _adj_ :dart::astonished:
 __irretrievable__ _adj_ _Irretrievable breakdown of marriage._  
 __itching__ _n_ An irritating cutaneous sensation that produces a desire to scratchitching - an irritating cutaneous sensation that produces a desire to scratch. _Syn_ itchiness, itch  
 __jalopy__  
+__jangle<sup>1</sup>__ _vi_ To make a harsh metallic sound: _The spurs jangled noisily._  
+__jangle<sup>2</sup>__ _vt_ :dart: __1__ To cause to make a harsh discordant sound. __2__ To have an irritating effect on: _The racket from the street jangled my nerves._  
+__jangle<sup>3</sup>__ _n_  
 __jaundice__ _n_  
 __jerkwater__ _adj_ /JERK-waw-ter/  
 __Jerry__ _n slang_ _Chiefly British_ A German, especially a German soldier.  
@@ -417,9 +426,12 @@ __lewd__
 __Lewis gun__  
 __liable__ _adj_  
 __liaise__ _v_ (usually foll by: _with_) To communicate and maintain contact (with). _They can put you in touch with solicitors, and liaise with police._  
+__lickspittle__ _n_ A contemptible, fawning person; a servile flatterer or toady.  
 __lidless__ _adj_ Watchful; vigilant. _Syn_ sleepless  
 __lifeline__  
 __lightsaber__ _n_  
+__likely<sup>1</sup>__ _adj_  
+__likely<sup>2</sup>__ _adv_ :dart: Probably: _They’ll likely buy a new car soon._  
 __limerence__ _n_ The state of being obsessively infatuated with someone, usually accompanied by delusions of or a desire for an intense romantic relationship with that person.  
 __limestone__  
 __liminal__ _adj_ :two: /LIM-uh-nul/ _Liminal_ is a formal word most often used to describe an intermediate state, phase, or condition. It can also describe something that is barely perceptible or barely capable of eliciting a response.  
@@ -441,6 +453,8 @@ __logodaedalus__ _n_ /log-uh-DEE-duh-luhs/ One skilled with words.
 __lonely hearts__ _adj_ :dart::two: (often capitals) Ff or for people who wish to meet a congenial companion or marriage partner: _a lonely hearts advertisement._  
 __long-standing__ _adj_ (longstanding)  
 __lookout__ _n_ _Lookouts were posted._  
+__lope<sup>1</sup>__ _vi_ __1__ (of a person) To move or run with a long swinging stride. __2__ (of four-legged animals) To run with a regular bounding movement.  
+__lope<sup>2</sup>__ _n_  
 __lore__ _n_ Accumulated facts, traditions, or beliefs about a particular subject. _Syn_ traditional knowledge  
 __loss aversion__ _n_  
 __Lothario__ _n_ (lothario)  
@@ -483,6 +497,7 @@ __miniscule__ _adj_ :astonished:
 __mirth__ _n_ Gladness and merriment, especially when expressed by laughter.  
 __misanthrope__ _n_ (misanthropist) A person who dislikes or distrusts other people or mankind in general.  
 __misbegotten__ _adj_ :smiling_imp: /ˌmɪs bɪˈgɒt n/ (misbegot)  
+__miscellany__ _n_ (_n pl_ miscellanies) __1__ A mixed assortment of items.  
 __mise-en-scène__ _n_ /meez-ahn-SEN/ _Mise-en-scène_ can refer to the setting of a play, movie, etc., or it can refer to the physical or social setting in which something real occurs or develops.  
 __misnomer__  
 __missus__ _n_  
@@ -525,6 +540,7 @@ __nominal__ _adj_ :dart: __2__ :dart: Minimal in comparison with real worth or w
 __non-profit-making__ _adj_ Not yielding a profit, esp because organized or established for some other reason: _a non-profit-making organization._  
 __nonplus__ _v_ /nahn-PLUS/ To _nonplus_ someone is to perplex them, or in other words, to cause them to be at a loss as to what to say, think, or do.  
 __nonplussed__ _adj_ :pencil2:  
+__noose__ _n_ :es: nudo corredizo, lazo, soga  
 __noticeboard__ _n_ Bulletin board.  
 __notorious__  
 __nubbly__ _adj_ Rough or irregular; textured. _Syn_ homespun, nubby, slubbed, tweedy  
@@ -541,9 +557,11 @@ __offcut__ _n_ /ˈɒfˌkʌt/ A piece of paper, plywood, fabric, etc, remaining a
 __offset__ _v_  
 __ogle__ _v_  
 __oilskin__ _n_ :two::hammer:  
+__Old Glory__ _n_ _You can always count on Dad to hang up Old Glory for the Fourth of July._  
 __omnibus__ _n_ __1a__ A large horse-drawn public conveyance, especially of the late 1800s.  
 __ontic__ _adj_ /ON-tik/ [:scroll: From Greek onto (being)] Having or relating to a real existence.  
 __onus__ _n_ :dart:  
+__originally__  
 __ossify__ _v_ /AH-suh-fye/ In general contexts, something that ossifies becomes hardened or conventional and opposed to change. In medical contexts, something that ossifies (such as cartilage) forms or is transformed into bone.  
 __outbreak__  
 __outburst__ _n_  
@@ -551,6 +569,7 @@ __outing__ _n_
 __outlay__ _n_  
 __outline__ _v_  
 __paratrooper__  
+__parched__ _adj_ :es: abrasado, reseco  
 __Parkinson’s law__ _n_ /PAHR-kin-suhnz law/ The observation that work expands to fill the time available.  
 __parson__ _n_  
 __pasquinade__ _n_ A satire or lampoon, especially one that ridicules a specific person, traditionally written and posted in a public place. _Syn_ parody, put-on, sendup, spoof, charade, lampoon, mockery, burlesque, travesty, takeoff  
@@ -586,12 +605,14 @@ __petrol station__ _n_ _Syn_ filling station, gas station, gasoline station
 __phantasmagorical__ _adj_ /fan-taz-muh-GOR-i-kuhl/ Illusory; strange; deceptive; imaginary; surreal; hallucinatory.  
 __phony__ _adj_  
 __pickeball__ _n_  
+__pig Latin__ _n_  
 __pillbox__  
 __pillion passenger__ _n_ _Brit_ A person who travels in a seat or place behind the rider of a motorcycle, scooter, horse, etc. _As a learner rider you must not carry a pillion passenger._  
 __pillion__ _n_ A seat or place behind the rider of a motorcycle, scooter, horse, etc.  
 __pimple__ _n_ :es: espinilla  
 __pip__ _n_ __1__ (Veterinary Science) A contagious disease of poultry characterized by the secretion of thick mucus in the mouth and throat. __2__ _facetious slang_ A minor human ailment.  
 __pitch__ _n_ :es: (esp. _British_) campo, cancha  
+__plaintiff__ _n_  
 __plead__ _v_  
 __plebiscite__ _n_  
 __plod__ _v_ To walk heavily or move laboriously; trudge.  
@@ -601,6 +622,7 @@ __plumb__ _adj, adv, n_ _Bruises and plumb lines._
 __plush<sup>1</sup>__ _n_  
 __plush<sup>2</sup>__ _adj_  
 __poaching__ _v_  
+__police__ _n_ (_npl_ police) _The police are looking for you._  
 __poll tax__ _n_ A fixed tax levied on all persons in a certain area, especially as a condition of voting in elections.  
 __polyandry__ _n_ /POL-ee-an-dree/ The practice of having multiple husbands or male mates at the same time.  
 __polypharmacy__ _n_ The practice of prescribing multiple medications for an individual patient, especially excessively, for a single disease.  
@@ -703,6 +725,8 @@ __road rash__ _n_ An abrasion on some area of one’s skin resulting from fallin
 __roar__ _n_  
 __rotund__ _adj_ __1__ Rounded in figure; plump. _Syn_ fat  
 __rundown__ _n_ :two: __1__ A point-by-point summary.  
+__russet<sup>1</sup>__ _n_ __1__ Yellowish brown, light brown, or reddish brown.  
+__russet<sup>2</sup>__ _adj_ Yellowish brown, light brown, or reddish brown.  
 __rustle<sup>1</sup>__ _v_ /ˈrʌsəl/ __1__ To make or cause to make a low crisp whispering or rubbing sound, as of dry leaves or paper. __2__ To move with such a sound.  
 __rustle<sup>2</sup>__ _n_ The sound made by rustling.  
 __sales floor__ _n_ The part of a business devoted to retail activities, such as a showroom or selling area of a shop or department store, usually manned by sales staff and having free public access with goods on display.  
@@ -744,6 +768,7 @@ __squeegee__
 __squelch__ _v_  
 __squirm__ _vi_  
 __stakeout__  
+__stalk__ _v_  
 __stammer__ _v_ :two::hammer:  
 __stasis__ _n_ :two::hammer:  
 __statute of limitations__ _n phr_  
