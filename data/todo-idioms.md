@@ -18,6 +18,7 @@ __a word of warning__ :two: Information about possible danger or trouble.
 __according to (someone or something)__  
 __across the board__  
 __ahead of (someone or something)__  
+__aid and abet__ To assist someone, usually in a mischievous or illegal activity.  
 __Aladdin’s cave__ The idiom “Aladdin’s cave” refers to a place filled with a vast collection of valuable, interesting, or unusual objects.  
 __all the same__ :two::hammer:  
 __all too often__  
@@ -41,6 +42,7 @@ __back to normal__
 __balderdash__ /ˈbɔːldəˌdæʃ/ Nomsense. Stupid or illogical talk; senseless rubbish.  
 __banana shot__  
 __barb__ :two: A shortening of “barbiturate,” a drug class that consists of sedatives and hypnotics. _Barbs are dangerous, man—I’d stay away from them._  
+__bare metal__ Computer hardware without an operating system. _Right now, my new computer is bare metal, and I can’t wait to build it and configure it just the way I want._  
 __bargain for (someone or something)__  
 __battered__ :dart::astonished: Drunk.  
 __be at pains__ To put forth effort toward some goal or end.  
@@ -55,8 +57,10 @@ __beat about the bush__ :two: _BrE_ To speak vaguely or euphemistically so as to
 __beef up__ To increase something, often in strength. _With all these protestors here, we definitely need to beef up security._  
 __beg to differ__  
 __behind (one’s) back__ In one’s absence. The phrase typically suggests wrongdoing or deceit. _I can’t believe you were gossiping about me behind my back!_  
+__big guns__  
 __bits and pieces__ Sundry little items, tasks, or chores.  
 __black tie__ Dress ccde (slightly less formal than _white tie_) typically allowing men to wear tuxedos or dinner jackets and women to wear cocktail dresses and long dresses.  
+__bland__ _adj_  
 __boil (something) down to (something)__ To reduce or simplify something to the most basic, essential, or fundamental element(s).  
 __bona fide__  
 __brazen out__ To face something, especially a difficult situation or an accusation, with brave or impudent self-confidence. A noun or pronoun can be used between “brazen” and “out.” _Timmy brazened out his teacher’s scolding about his bad behavior._ _I’m so impressed that you brazened out that long drive in torrential rain._  
@@ -96,6 +100,7 @@ __dead__ __5__ Absolutely. _You’d better be dead certain about this decision, 
 __dearth__ _n_ /dɜːθ/  
 __dig and poke around__ The idiom “dig and poke around” generally means to search or investigate something thoroughly by looking through various items or areas, often in a somewhat casual or unstructured manner.  
 __disabuse (someone or oneself) of (something)__  
+__discretion is the better part of valor__ _proverb_  
 __do the trick__ To do, accomplish, or fulfil exactly what is needed or sought after. _The recipe calls for pancetta, but I think this regular bacon should do the trick._  
 __dodge__ :three::smiling_imp: /dɑdʒ/ A swindle; a scam; a deception. _What sort of dodge did you get flimflammed with?_  
 __don’t ask__  
@@ -131,7 +136,8 @@ __for a charge__ The act of charging someone a fee or price for a service or ite
 __for a fee__  
 __for all I know__  
 __for better or (for) worse__  
-__for kicks__  
+__for better or worse__  
+__for kicks__ :two::hammer (just for kicks)  
 __for starters__  
 __for the most part__  
 __for which read__ :dart: _Readjustment, scaling back, for which read — redundancies._ :es: léase  
@@ -141,7 +147,7 @@ __fussbudget__ :dart: _informal_ One who tends to be fussy or particular, usuall
 __gain momentum__ (gather momentum) To move faster. _The wagon gathered/gained momentum as it rolled down the hill._  
 __get (one, something) out of the system__  
 __get (something) out of (one’s) system__ __2__ To do something so that one no longer has the desire to do it anymore. _I got drinking and partying out of my system during college. I’m ready for a quieter life now._  
-__get lucky__  
+__get lucky__ :two: __2__ _slang_ To have sex, especially with someone whom one has only just met.  
 __get on famously__ To have an exceptionally good relationship (with someone); to get along very well. _I’m glad you finally got to meet my brother—I knew you two would get on famously._  
 __get something out of the way__ :dart: Deal with a task or difficulty so that it is no longer a problem or worry. _I’m glad I’ve got that visit to the dentist out of the way._  
 __ghosting__ _slang_  
@@ -348,6 +354,7 @@ __kids will be kids__ Kids behave childishly or immaturely by nature, so it is u
 __king of the castle__ The most powerful, successful, or authoritative person in a group or organization.  
 __kitchen-sink__ Showing or pertaining to the lives of common, everyday people. (Always used before a noun.)  
 __knee-jerk reaction__ Any spontaneous, reflexive, and unthinking reaction or response.  
+__knife-edge__  
 __knock it off__  
 __knock on doors__ To speak to the people who live in an area by walking up to their houses, apartments, etc., especially to provide information or solicit votes, support, contributions, etc.  
 __know by heart__  
@@ -465,8 +472,10 @@ __move the needle__ _I am concentrating on what moves the needle most._
 __mug shot__ __1__ An official photograph taken of someone being brought into police custody, usually characterized by the person wearing a grim or blank expression on their face.  
 __mugger__ _n_ :two::smiling_imp: Someone, usually a male, who attacks and robs people. _I clobbered the mugger with a tire iron I carry just for such occasions._  
 __mumbo jumbo__  
+__mussed__ _adj_ Rumpled, tousled or untidy.  
 __nab__ _v_ To catch and arrest someone. Often used in passive constructions.  
 __nada__  
+__nail in the coffin__  
 __narrative__ The way in which a particular person or situation is being portrayed or represented.  
 __narrow the gap__  
 __near and dear to (one)__  
@@ -496,6 +505,7 @@ __not just another pretty face__ Having distinguishing achievements, intelligenc
 __not sleep a wink__  
 __not so fast__ :two::hammer:  
 __not worth the paper it’s written on__ Useless; unimportant; insignificant.  
+__note so self__  
 __now that I think about it__  
 __now that you’re mentioning it__  
 __nowhere to be found__ Unable to be discovered; completely gone or vanished.  
@@ -538,6 +548,7 @@ __on the pill__ _slang_ Currently and regularly using birth-control pills (oral 
 __on the radar (screen)__  
 __on the rocks__ _That marriage was already on the rocks._  
 __on the run__  
+__on the same page__  
 __on the sidelines__ :two: In a position in which one is not actively participating in something.  
 __on the spot__ __1__ At once in one’s exact location; right then and there. Hyphenated if used before a noun.  
 __on the verge of (doing) (something)__  
@@ -550,6 +561,7 @@ __one size fits all__ :two::hammer:
 __one way or another__  
 __one-off__ :three::hammer:  
 __open the door for (someone or something)__  
+__other than (something)__ (other than that) Besides or excluding something. _Other than having a view of the parking lot, his apartment is great._  
 __out of print__ No longer being printed and sold by a publisher.  
 __over and out__ Said to mark the end of communication between two people. Used especially in radio communication, in which it signals that a person is done speaking and does not expect a reply from the other person. _A: “Oh, and while you’re at the store, could you please get some milk, too?” B: “Sure thing. Over and out.”_  
 __over the phone__ :two: By calling on the telephone. _You can order a pizza over the phone._  
@@ -565,12 +577,14 @@ __pins and needles__
 __piss off__  
 __pitch (something) at__  
 __play havoc with (someone or something)__ To cause issues or disruptions for someone or something. _The road closures have played havoc with rush-hour traffic._  
+__plop down__ _informal_ __1__ To sit or lie down in a heavy or careless way. _He plopped himself down in the chair._ __2__ To drop or place (something or someone) in a heavy or careless way. _He plopped the tray down._ __3__ _US_ To pay or spend (money). _I can’t afford to just plop down $30 for a T-shirt._  
 __plunger__ _n_ /ˈplʌndʒə/ __3__ _informal_ A reckless gambler.  
 __point the finger at (one)__  
-__poke around__ :two: To investigate, search through, or snoop around something or some place.  
+__poke around__ :three: To investigate, search through, or snoop around something or some place.  
 __poke into (someone or something)__  
 __poppers__ Drugs of the alkyl nitrate class used recreationally as a sexual stimulant, especially among gay men. Amyl nitrite became popular in the 60s especially with the male gay community becase it relaxes the muscles, making anal intercourse easier.  
 __poppy appeal__  
+__ppl__ (people?)  
 __press (something) (up)on (one)__  
 __price to pay__  
 __prickteaser__ _slang_ A _prickteaser_ is a slang term with vulgar and derogatory connotations, typically referring to a seductive woman who uses her sex appeal to exploit or manipulate men without following through on implied sexual promises.  
@@ -647,6 +661,7 @@ __snazzy__ Particularly elegant, dazzling, classy, or fancy in appearance. _Wow,
 __sneak peek__  
 __so be it__  
 __so much so that__  
+__sock__ _informal_ __2__ _v_ To deliver a sharp, forceful blow.  
 __soft spot__  
 __something of sorts__ An inferior example of a kind of something.  
 __sort out__  
@@ -656,6 +671,7 @@ __speak (one’s) mind__ To voice one’s thoughts plainly or bluntly.
 __speed__ _slang_ Any illicit stimulant drug, especially amphetamine or methamphetamine. _We all used to take speed during college to help us study._  
 __spend a penny__ _euphemism_ To go to the toilet. Primarily heard in UK.  
 __stamp of approval__ An indication of endorsement or authorization of something.  
+__stand a chance__ To have a possibility, however remote, of succeeding; to possibly be able to do something. Often used in the negative to mean the opposite. _If that road is closed, we don’t stand a chance of making it on time._  
 __stand on (one’s) own (two) feet__ To be strong and independent; to not need the help, guidance, or resources of another person.  
 __stands to reason__  
 __start the ball rolling__ To set something, often a process, in motion; to begin.  
@@ -668,10 +684,12 @@ __take heart (from something)__ To receive courage or comfort from some fact. _I
 __take heart__ To have one’s confidence, courage, or happiness bolstered (by something). _We may have lost the election, but we take heart in the fact that so many young people are now engaged and excited about politics._  
 __that does the trick__ That is all that was remaining or required to accomplish something. _There, that does the trick. The engine should be as good as new, now!_  
 __that very thing__ Exactly that. _Why, I was just looking for that very thing!_ _You know, I was just about to say that very thing._  
+__the better part of (something)__ :dart: The majority of something. _I’m sorry I’m late—my doctor’s appointment took the better part of an hour._  
 __the golden rule__ :dart: The maxim that one should treat other people the way one would like to be treated, often expressed proverbially as “Do unto others as you would have them do unto you.” _My son wanted to steal the bike of a boy who stole his lunch money, so I told him that the only way to get along with people is to follow the golden rule._  
 __the powers that be__  
 __the upper crust__  
 __the upshot (of something)__ :dart: The final or resulting outcome, conclusion, or consequence (of something). _The upshot of this merger is that the company will now control nearly 50% of the world’s television networks._  
+__then again__  
 __thread the needle__  
 __tit for tat__  
 __to name (but) a few__  
@@ -689,10 +707,12 @@ __what could (possibly) go wrong__
 __what gives?__  
 __white tie__ The most formal of all dress codes, requiring men to wear white bow ties and black tailcoats and women to wear evening or ball gowns.  
 __willy-nilly__ :two::hammer: [:scroll: This expression is a shortened form of ‘willing or not willing.’]  
+__wimp__ _slang_ Someone who is too nervous, afraid, or reserved to do anything too intense, extreme, or risky. _We’re all doing the bungie jump. Don’t be a wimp, Bob!_ :es: debilucho; parado  
 __wind down__ __2__ To cause something to slow and near an ending. In this usage, a noun or pronoun can be used between “wind” and “down.” _We’ll wind down our practice with some gentle stretches._  
 __with a start__ The phrase “with a start” refers to a sudden, involuntary movement or reaction, typically caused by surprise or alarm. It is often used to describe the action of waking up abruptly, as in the expression “I woke up with a start.” _I dreamed about falling and I woke with a start._  
 __with open arms__ Very happily and eagerly.  
 __with the naked eye__ _They can be seen with the naked eye._  
+__woozy__ :dart:  
 __work like a Trojan__  
 __work out__  
 __world without end__ :dart: For ever and ever; until the end of time. This unusual wording is taken from the King James translation of the phrase _in saecula saeculorum._ _I vowed to love him world without end._  
