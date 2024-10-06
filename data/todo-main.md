@@ -474,6 +474,7 @@ __misanthrope__ _n_ (misanthropist) A person who dislikes or distrusts other peo
 __misbegotten__ _adj_ :smiling_imp: /ˌmɪs bɪˈgɒt n/ (misbegot)  
 __miscellany__ _n_ (_n pl_ miscellanies) __1__ A mixed assortment of items.  
 __mise-en-scène__ _n_ /meez-ahn-SEN/ _Mise-en-scène_ can refer to the setting of a play, movie, etc., or it can refer to the physical or social setting in which something real occurs or develops.  
+__mishmash__ _n_ A collection or mixture of unrelated things; a hodgepodge.  
 __misnomer__  
 __missus__ _n_  
 __misuser__ _n_ __1__ One that misuses: _a misuser of school property._  
@@ -496,6 +497,7 @@ __mushroom__ _vi_ __1__ To multiply, grow, or expand rapidly: _The population mu
 __mutter<sup>1</sup>__ _n_ A low grumble or indistinct utterance.  
 __mutter<sup>2</sup>__ _v_ :two::hammer:  
 __muttering__ _n_  
+__muzzle__ _v_  
 __nags__ _n_ _Riding old nags._  
 __nail varnish__ _n_ (nail enamel, nail polish)  
 __natural hat trick__ _n_ _sports_ A hat trick in which three goals are scored in succession by one player in one game.  
@@ -559,6 +561,7 @@ __peckish__
 __peculiar__ _adj, n_  
 __pedestrian__ _adj, n_  
 __pejorist__ _n_ /PEJ-uh-rist/ A person who believes that the world is getting worse.  
+__pelt__ _n_  
 __pelt<sup>1</sup>__ _vt_  
 __pelt<sup>2</sup>__ _vi_ __3__ (foll by _along_, _over_, etc) To move rapidly; hurry. _I pelted towards the Beetle._  
 __pelt<sup>n</sup>__ _n_  
@@ -580,6 +583,7 @@ __petrol station__ _n_ _Syn_ filling station, gas station, gasoline station
 __phantasmagorical__ _adj_ /fan-taz-muh-GOR-i-kuhl/ Illusory; strange; deceptive; imaginary; surreal; hallucinatory.  
 __phony__ _adj_  
 __pickeball__ _n_  
+__picket fence__ _n_  
 __pig Latin__ _n_  
 __pillbox__  
 __pillion passenger__ _n_ _Brit_ A person who travels in a seat or place behind the rider of a motorcycle, scooter, horse, etc. _As a learner rider you must not carry a pillion passenger._  
@@ -654,6 +658,8 @@ __ragbag__ _n_
 __rampage__ _n_ Violently angry and destructive behavior. _Syn_ violent disorder  
 __ransack__ _vt_  
 __rapport__ _n_ /ræˈpɔr, -ˈpoʊr, rə-/  
+__rasp<sup>1</sup>__ _n_ __1__ A coarse file with sharp, pointed projections. :es: raspador __2__ The act of filing with a rasp. __3__ A harsh grating sound. :es: chirrido; (of voice) tono áspero  
+__rasp<sup>2</sup>__ _v_ Utter in a grating voice.  
 __Rastafarian__ _adj, n_  
 __raving<sup>1</sup>__ _n_  
 __raving<sup>2</sup>__ _adj_ Delirious, irrational speech.  
@@ -674,6 +680,7 @@ __redleg__ _n_ /ˈrɛdˌlɛɡ/ _derogatory Caribbean_ A poor White person.
 __redolent__  
 __redoubtable__ _adj_ :es: temible  
 __reef__ _n_ __3__ _Nautical_ A portion of a sail gathered in and secured to lessen the area exposed to the wind.  
+__refrain__ _n_  
 __refurbish__ _vt_  
 __refuse__ _v_ /rɪˈfjuːz/  
 __regardless__  
@@ -698,6 +705,7 @@ __ring-pull__ _n_ _BrE_ A metal strip that must be pulled off the top of a can o
 __riptide__ _n_ /ˈrɪpˌtaɪd/  
 __road rash__ _n_ An abrasion on some area of one’s skin resulting from falling off of a non-enclosed vehicle (such as a bicycle, motorcycle, skateboard, etc.) and onto the pavement.  
 __roar__ _n_  
+__roil__ _v_  
 __rotund__ _adj_ __1__ Rounded in figure; plump. _Syn_ fat  
 __rundown__ _n_ :two: __1__ A point-by-point summary.  
 __russet<sup>1</sup>__ _n_ __1__ Yellowish brown, light brown, or reddish brown.  
@@ -707,12 +715,15 @@ __rustle<sup>2</sup>__ _n_ The sound made by rustling.
 __sales floor__ _n_ The part of a business devoted to retail activities, such as a showroom or selling area of a shop or department store, usually manned by sales staff and having free public access with goods on display.  
 __sanguinary__ _adj_ Accompanied by bloodshed. _Syn_ butcherly, gory, slaughterous  
 __saunter__  
+__scamper__ _vi_  
 __sconce__ _n_ __1__ A small defensive earthwork or fort.  
 __scullery__ _n_ /ˈskʌl ə ri, ˈskʌl ri/  
+__scuttle__ _vi_ To run or move with short hurried movements; scurry.  
 __searing__ _adj_ /ˈsɪərɪŋ/  
 __seething__ _v_  
 __shapeshift__ _vi_ (biology, fantasy, mythology) To change one’s shape or form (into another) through often magical means, normally applied only to living beings.  
 __shortlisted__  
+__shove__ _v_  
 __shuffling__ _n_ Walking with a slow dragging motion without lifting your feet.  
 __shuttle__ _n_ __2__ The sliding container that carries the lower thread in a sewing machine.  
 __side note__ _n_ Additional information aside main point.  
@@ -724,17 +735,23 @@ __slag__ _v_ _Slagged by fire._
 __sleazy__ _adj_ /ˈsli zi, ˈsleɪ zi/  
 __slight__ _adj_ /slaɪt/  
 __slob__ _n_  
+__slug__ _vt_ __3__ To strike heavily, especially with the fist or a bat. _He slugged me across the jaw._  
 __smolder__ _vi_ __1__ To burn with little smoke and no flame. _Luke saw the smoldering piles which had once been human beings._  
 __smugly__ _adv_  
 __snarl__ _v_  
+__snarl<sup>1</sup>__ _v_ :two::hammer:  
+__snarl<sup>2</sup>__ _n_  
 __snigger__ _v_  
 __snort__ _v_  
 __spark plug__ _n_  
+__spattering__ _n_ __1__ The noise of something spattering or sputtering explosively; “he heard a spatter of gunfire.’ _Syn_ spatter, splatter, splattering, splutter, sputter, sputtering __2__ The act of splashing a (liquid) substance on a surface. _Syn_ splashing, splattering, spatter, splash  
 __spearhead__ _vt_  
 __sperse__ _v_  
 __spinster__ _n_ :es: solterona  
 __splendiferous__ _adj_ /splɛnˈdɪfərəs/ [:scroll: From Latin splendor (brilliance) + -fer (bearing)] _facetious_ Grand; splendid: _a really splendiferous meal._  
 __splosh__ _v_  
+__sprain<sup>1</sup>__ _n_  
+__sprain<sup>2</sup>__ _vt_  
 __spruce__ _n_ :es: abeto  
 __spud__ _n_ _I was peeling spuds in the cookhouse._  
 __squally__ _adj_ __1__ Characterized by squalls. __2__ Stormy; threatening. _Squally showers._  
@@ -743,7 +760,7 @@ __squeegee__
 __squelch__ _v_  
 __squirm__ _vi_  
 __stakeout__  
-__stalk__ _v_  
+__stalk__ _v_ :two::hammer:  
 __stammer__ _v_ :two::hammer:  
 __stasis__ _n_ :two::hammer:  
 __statute of limitations__ _n phr_  
@@ -761,6 +778,7 @@ __stovepipe__
 __stow__ _v_ __3__ _(Nautical Terms)_ To pack or put away (cargo, sails and other gear, etc). :es: estibar  
 __straddle__ _v_ :two: Range or extend over; occupy a certain area. _Syn_ range  
 __strafe__ _v_ :dart: /streɪf, strɑf/ __1__ To attack (ground troops, etc.) with fire from low-flying airplanes.  
+__strangled__ _adj_ Held in check with difficulty.  
 __stratagem__ _n_ :smiling_imp: A plan, scheme, or trick for surprising or deceiving an enemy.  
 __stray dog__ _n_ An ownerless dog, a roaming wild or half-wild dog.  
 __street trading__ _n_ The selling, or exposing for sale, of articles on certain streets. It is an offense in both England and Scotland although under different legislation.  
@@ -800,11 +818,13 @@ __tatty__ _adj_ Somewhat worn, shabby, or dilapidated.
 __taunt__ _vt_ /tɔːnt/ __1__ To provoke or deride with mockery, contempt, or criticism. __2__ To tease; tantalize.  
 __teeter__ _vi_ :two: __1__ To move or sway unsteadily or unsurely; totter.  
 __teetotaler__ _n_ (teetotaller)  
+__tendril__ _n_ :es: zarzillo  
 __the nuts and bolts__  
 __thence__ _adv_ From that place; from there. _Syn_ therefrom _The train went south into Switzerland and thence on to Italy._  
 __thunk__ _n_  
 __tire iron__ _n_ A short length of steel with one end flattened to form a blade, used to remove tires from wheel rims.  
 __townhouse__ _n_  
+__traduce__ _vt_ :smiling_imp:  
 __transient__ _adj_ _Temporary conduction block can occur as a result of transient edema._  
 __transmogrification__ _n_  
 __transmogrify__ _v_  
@@ -831,6 +851,7 @@ __visa national__ _n_ A person from a country whose citizens are required to obt
 __vociferous__ _adj_ Crying out noisily.  
 __way to go__  
 __welsh__ _vi_ :smiling_imp:  
+__welt__ _n_  
 __welter__ _n_  
 __werebear__  
 __werewolf__  
@@ -841,9 +862,11 @@ __withhold__ _v_ :pencil2:
 __wizardess__ _n_ A female wizard, sorceress, witch.  
 __woe__  
 __woodwork__ _n_ __1__ (Crafts) The art, craft, or skill of making things in wood; carpentry. :es: carpintería __2__ (Building) components made of wood, such as doors, staircases, etc. _Woodwork fascia._  
+__woozy__ _adj_  
 __word-perfect__ _adj_ :two::hammer: _I would know the book word-perfect before we were as far as Exeter._  
 __work camp__ _n_ __1__ A camp for prisoners sentenced to labor, esp. to outdoor labor. __2__ A camp where volunteers, often from religious organizations, work together on community service projects.  
 __worktop__ _n_ :two::hammer:  
+__wrenching__ _adj_ Causing great physical or mental suffering; “a wrenching pain.” _Syn_ racking  
 __wretched__ _adj_ __3__ Despicable, contemptible, or mean: _a wretched miser._ _Luke, you won’t find a more wretched hive of villainy._  
 __wring__ _vt_  
 __wringer__ _n_ __1__ A person or thing that wrings. __2__ An apparatus for squeezing out liquid, as two rollers through which an article of wet clothing may be squeezed.  
