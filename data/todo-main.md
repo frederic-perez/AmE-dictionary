@@ -75,31 +75,6 @@ __clearing bank__ _n_ (in Britain) Any bank that makes use of the central cleari
 __close to one’s chest__  
 __close-knit__ _adj_ Held tightly together, as by social or cultural ties: _a close-knit family._  
 __clued up__ _adj_ _BrE_ _informal_ Knowledgeable about a topic or situation; possessing the facts. :es: al tanto (de), al corriente (de)  
-__co-op__ _n_ :three: A cooperative enterprise, building, or apartment.  
-__coach__ _n_ __1a__ A bus, especially one designed for long-distance passenger service.  
-__cobalt blue__ _n_ __2__ A moderate to deep vivid blue or greenish blue.  
-__cock__ _v_ :two: __3__ To tilt or turn up or to one side, usually in a jaunty or alert manner: _cocked an eyebrow in response to a silly question._  
-__cockney__ _n_  
-__cocksure__ _adj_ :astonished: Marked by excessive confidence. _Syn_ overconfident, positive  
-__coda__ _n_  
-__colloquy__ _n_ :pencil2: /ˈkɒl ə kwi/  
-__coma__ _n_  
-__commensurability__ _n_ /kuh-men-suh/shuh-ruh-BIH-lih-tee/ __1__ The quality of being in proportion or suitable in relation to something else. __2__ The quality of being measurable by a common standard; comparability.  
-__comment period__ _n_ A “comment period” is a designated timeframe during which members of the public, stakeholders, or interested parties are invited to provide feedback, opinions, or suggestions on a proposed rule, regulation, policy, or decision. This process is commonly used by government agencies, organizations, or regulatory bodies to gather input before finalizing a decision or implementing a new policy.  
-__committal__ _n_ :two::hammer:  
-__communication trench__  
-__compulsory__ _adj_ :three: _Syn_ mandatory, required  
-__comradeship__  
-__concourse__ _n_ __1__ A large open space for the gathering or passage of crowds, as in an airport. :es: explanada __2__ A broad thoroughfare. __3__ A great crowd; a throng. __4__ The act of coming, moving, or flowing together.  
-__condone__ _v_  
-__conscientious objector__ _n_ (CO) One who on the basis of religious or moral principles refuses to bear arms or participate in military service.  
-__conscientious__ _adj_ :es: concienzudo  
-__conscription__ _n_  
-__considering__ _adv_ _nformal_ All things considered: _We had a good trip, considering._  
-__convenience food__ _n_ :dart: A prepackaged food that can be prepared quickly and easily.  
-__conveyancing__ _n_ :two: (Law) The branch of legal practice dealing with the conveyance [transfer of the legal title to property] of property or real estate.  
-__cookhouse__ _n_  
-__copious__ _adj_ /KOH-pee-us/ _Copious_ is a synonym of abundant and plentiful. It is always used before a noun to describe something very large in amount or number.  
 __copperas__ _n_ /ˈkɒpərəs/ A less common name for ferrous sulphate.  
 __coriander__ _n_ :es: cilantro  
 __cornices__ _n_ :two::hammer:  

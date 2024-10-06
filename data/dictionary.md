@@ -3667,11 +3667,11 @@ __clutch player__
 __clutch<sup>1</sup>__ _n_ :five::hammer: _It fosters a clutch of promising innovations._ _The clutches of the Brussels bureaucrats._ _He was a dominant player in the clutch._ _Clutches for iPhone._ _The clutches of the Federation._  
 __clutch<sup>2</sup>__ _v_ :six::astonished::hammer: (clutching) _Butler and Wade were both clutch._ _She was clutching her hands._ _Steve was clutching notes outlining possible line-ups._  
 __clyster__ _n_ :two::hammer: (clysters)  
-__co-op__ _n_ :nine::m: Any co-operative, including housing, retail, utility, agricultural, banking or worker cooperatives. _The co-op received loans of $73 million._ _Co-op spokeswoman._  
+__co-op__ _n_ :nine::m: Any co-operative, including housing, retail, utility, agricultural, banking or worker cooperatives. A cooperative enterprise, building, or apartment. _The co-op received loans of $73 million._ _Co-op spokeswoman._  
 __co-opt__ _vt_ :three::hammer: (co-opted)  
 __co-pilot__ _n_ A relief pilot on an airplane.  
 __co-sleeping__  
-__coach__ _n_ :four: __1a__ A bus, especially one designed for long-distance passenger service. _Deluxe motor coaches._ __3__ A class of airline travel less luxurious and less expensive than first class. :es: clase turista _You’re flying coach._ _A standard coach cabin._  
+__coach__ _n_ :five: __1a__ A bus, especially one designed for long-distance passenger service. _Deluxe motor coaches._ __3__ A class of airline travel less luxurious and less expensive than first class. :es: clase turista _You’re flying coach._ _A standard coach cabin._  
 __coachee__ _n_ /ˌkəʊtʃˈiː/ A person who receives training from a coach, esp in business or office practice.  
 __coagulate__ _v_ To cause transformation of (a liquid or sol, for example) into or as if into a soft, semisolid, or solid mass. _Syn_ clot _The medical students watched blood coagulate as part of their lesson in clotting reactions._  
 __coagulum__ _n_ A lump of material formed from the content of a liquid. _Syn_ clot  
@@ -3686,6 +3686,7 @@ __coats-of-arms__ _n pl_
 __coattails__ _n_ :three::hammer: _I think we’re going to be riding his coattails a little bit._  
 __coax__ _v_ :two::hammer: /KOHKS/ /kəʊks/ /kōks/  
 __cob__ _n_ :two::hammer: _Savor corn on the cob._  
+__cobalt blue__ _n_ __2__ A moderate to deep vivid blue or greenish blue.  
 __cobble together__ _v_ Put together hastily. _I cobbled together a simple driver program that listened to the keyboard._  
 __cobble up__ _phr v_  
 __cobble__ _vt_ :three::hammer: (cobbled)  
@@ -3693,20 +3694,23 @@ __cobbler__ _n_ :two::hammer:
 __cobweb__ _n_ :six::hammer: (cobwebs)  
 __Coca-Cola pork loin__ _n_ (recipe)  
 __cochineal__ _n_  
+__cock__ _v_ :two: __3__ To tilt or turn up or to one side, usually in a jaunty or alert manner: _cocked an eyebrow in response to a silly question._  
 __cock-a-doodle-doo__  
 __cock-a-hoop__ _adj_ Exhibiting self-importance. _Syn_ boastful, braggart, crowing, self-aggrandizing, big _I didn’t mean to be cock-a-hoop about my promotion, but I couldn.t help telling everyone I encountered!_  
 __cockcrow__  
 __cockerel__  
 __cockeyed__ _adj_ _informal_ :four::hammer: _Cockeyed optimism._ _Cockeyed predictions._  
 __cockle__ _n_ :es: berberecho  
+__cockney__ _n_  
 __cockpit__ _n_ _The charged particles can enter the cabin or cockpit._  
 __cockscomb__ _n_ __1__ The comb of a rooster. :es: cresta de gallo  
+__cocksure__ _adj_ :astonished: Marked by excessive confidence. _Syn_ overconfident, positive  
 __coconspirator__ _n_ A joint conspirator.  
 __cocoon<sup>1</sup>__ _n_  
 __cocoon<sup>2</sup>__ _v_ To wrap or envelop in or as if in a cocoon.  
 __cocooned__ _adj_ _I had become lifeless again, cocooned and frozen._  
 __cod__ _n_ :es: bacalao  
-__coda__ _n_ :three::hammer: _The novel ends with a wordless coda._  
+__coda__ _n_ :four::hammer: _The novel ends with a wordless coda._  
 __coddle__ _vt_ :eight: __1__ To cook in water just below the boiling point: _coddle eggs._ __2__ To treat indulgently; baby. _Syn_ pamper Treat with excessive indulgence. _Syn_ baby, cocker, cosset, featherbed, mollycoddle, pamper, spoil, indulge _I have warned her not to spoil the children, but she chooses to coddle them anyway._  
 __code of conduct__ _n_ :two::hammer:  
 __code of ethics__  
@@ -3790,6 +3794,7 @@ __collocation__ _n_ (collocations)
 __colloquial__ _adj_  
 __colloquialism__ _n_ A colloquialism is an instance of informal language or a local expression. The act of using such language is also called colloquialism. Example: Here in Philly, we love to eat hoagies and all kinds of tasty jawns.  
 __colloquium__  
+__colloquy__ _n_ :pencil2: /ˈkɒl ə kwi/  
 __collude__ _v_ :three: Act in unison or agreement and in secret towards a deceitful or illegal purpose. _Syn_ conspire, connive _Several local officials have been jailed on charges of colluding with the Mafia._  
 __collusion__ _n_ :six: Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
 __colocate__ _v_  
@@ -3811,7 +3816,7 @@ __coltish__ _adj_ Lively and playful; frisky. _Syn_ frolicky, frolicsome, rollic
 __colum__ _n_ Someone (physician or clergyman) who substitutes temporarily for another member of the same profession. :es: interino, suplente  
 __columbine__ _n_ _Columbine and Indian paintbrush._  
 __column__ _n_ :two::hammer::mega::mute:[colum~~n~~]  
-__coma__ _n_ :four::mega::hammer: _Medically induced coma._ _Schumacher out of coma._  
+__coma__ _n_ :five::mega::hammer: _Medically induced coma._ _Schumacher out of coma._  
 __comatose__ _adj_ :two: __2__ Marked by lethargy; torpid.  
 __comb<sup>1</sup>__ _n_ :two::hammer::mega: (combs) _The hens had red combs, wattles, and earlobes._  
 __comb<sup>2</sup>__ _v_ :two::mute:[com~~b~~]:hammer:  
@@ -3852,7 +3857,9 @@ __commencement__ _n_ _The high school commencement ceremony._
 __commend__ _v_ :three::hammer: (commended) _The King commended to his brothers his twelve-year-old son._  
 __commendable__ _adj_ :seven: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
 __commendation__ _n_ :three::hammer: (commendations) _He earned two commendation medals._ _He received two commendations._  
+__commensurability__ _n_ /kuh-men-suh/shuh-ruh-BIH-lih-tee/ __1__ The quality of being in proportion or suitable in relation to something else. __2__ The quality of being measurable by a common standard; comparability.  
 __commensurate__ _adj_ :eight: /kuh-MEN-suh-rut/ __1__ Proportionate. _The job posting states that salary will be commensurate with experience._ __2__ Having the same measure.  
+__comment period__ _n_ A “comment period” is a designated timeframe during which members of the public, stakeholders, or interested parties are invited to provide feedback, opinions, or suggestions on a proposed rule, regulation, policy, or decision. This process is commonly used by government agencies, organizations, or regulatory bodies to gather input before finalizing a decision or implementing a new policy.  
 __commentary__  
 __commentator__ _n_  
 __commingled__ _v_ :three::hammer:  
@@ -3863,7 +3870,7 @@ __commission<sup>2</sup>__ _n_
 __commissioned__ _adj_  
 __commissure__ _n_  
 __commitment__ _n_ /kəˈmɪt mənt/  
-__committal__ _n_ _A committal graveside service will be held for the family._  
+__committal__ _n_ :three::hammer: _A committal graveside service will be held for the family._  
 __commix__ _v_ To bring or combine together or with something else. _Syn_ amalgamate, mingle, unify  
 __commode__  
 __commodify__ _vt_  
@@ -3881,6 +3888,7 @@ __commotion__ _n_
 __communal__ _adj_ _The communal bathroom is down the hall._  
 __commune__ _v_ __1__ To be in a state of intimate, heightened sensitivity and receptivity, as with one’s surroundings: _hikers communing with nature._ __2__ To receive the Eucharist.  
 __communicant__ _n_ _Even the Eucharist might be withheld unless the communicant produced an offering which made a mockery of the ritual._  
+__communication trench__  
 __communion wafers__  
 __communiqué__ _n_ :two: (communiqués) An official statement.  
 __commute__ _n, v_ :mega: /kəˈmyut/  
@@ -3927,7 +3935,7 @@ __Comptometer__ _n_ _trademark_ (comptometer) A desktop calculating machine used
 __comptroller__ _n_ :four: Variant of controller, used _esp_ as a title of any of various financial executives.  
 __compulsive__ _adj_ _Compulsive thoughts._  
 __compulsory school__  
-__compulsory__ _adj_ :nine::m: /kəmˈpʌl sə ri/ __1__ Required by regulations or laws; obligatory: _compulsory education._ __2__ Involving or employing compulsion; compelling; necessary; essential. _Compulsory vaccination._ _A compulsory Third World condition._ _Vaginal mesh procedures need compulsory register._ _Compulsory State writ._  
+__compulsory__ _adj_ :nine::m: /kəmˈpʌl sə ri/ __1__ Required by regulations or laws; obligatory: _compulsory education._ _Syn_ mandatory, required __2__ Involving or employing compulsion; compelling; necessary; essential. _Compulsory vaccination._ _A compulsory Third World condition._ _Vaginal mesh procedures need compulsory register._ _Compulsory State writ._  
 __compunction__ _n_ :four: A strong uneasiness caused by a sense of guilt. _Syn_ remorse, self-reproach :es: escrúpulo  
 __compurgator__ _n_  
 __compute<sup>1</sup>__ _n_  
@@ -3935,6 +3943,7 @@ __compute<sup>2</sup>__ _v_ To be reasonable, plausible, or consistent; make sen
 __computer__ _n_ :mega:  
 __comrade__  
 __comradery__ _n_ :two::hammer:  
+__comradeship__  
 __con artist__ _n informal_ :six::hammer::smiling_imp: _A pair of con artists target a noblewoman._ _Foul-mouthed con artist._  
 __con man__ _n_ :smiling_imp:  
 __con__ _vt_ _slang_ :smiling_imp: To swindle (a victim) by first winning his or her confidence; dupe.  
@@ -3969,7 +3978,7 @@ __concomitant<sup>1</sup>__ _adj_ :nine::m: Existing or occurring together; asso
 __concomitant<sup>2</sup>__ _n_ :two::hammer:  
 __concordant__ _adj_ Being in agreement: harmonious. _Syn_ accordant, agreeable, consonant, conformable  
 __concordat__ _n_ A signed written agreement between two or more parties (nations) to perform some action. _Syn_ compact, covenant  
-__concourse__ _n_ :nine: __1__ A crowd; throng. __2__ A coming together; confluence: _a concourse of events._ __3__ :dart: A large open space for the gathering of people in a public place. _Enjoy casual fare in the lower level dining concourse._ _Main concourse._ _Art works on display in the concourses and terminal._ __4__ A ground for sports, racing, athletics, etc.  
+__concourse__ _n_ :nine::m: __1__ A great crowd; a throng. __2__ The act of coming, moving, or flowing together. A coming together; confluence: _a concourse of events._ __3__ :dart: A large open space for the gathering or passage of crowds, as in an airport. :es: explanada _Enjoy casual fare in the lower level dining concourse._ _Main concourse._ _Art works on display in the concourses and terminal._ __4__ A ground for sports, racing, athletics, etc. __5__ A broad thoroughfare.  
 __concrete__ _n_ :two::hammer: _A concrete wall._  
 __concur__ _v_  
 __concussion__ _n_ :two: _He recovers from the concussion he sustained on June 15._  
@@ -3981,7 +3990,7 @@ __condition__ _n_ :two::hammer:
 __conditional discharge__ _n_ _An Urbana man has been sentenced to 30 months of conditional discharge._  
 __condo__ _n_ :four::hammer: (condos) _Luxury condos._  
 __condominium__ _n_ :two::hammer: _First-floor condominium._  
-__condone__ _v_ :two::hammer:  
+__condone__ _v_ :three::hammer:  
 __conducive__ _adj_ :eight::hammer: _The vehicle doesn’t seem conducive to passing._  
 __conduct__ _n_ _Suspended two games for violating the league’s personal conduct policy._  
 __conduit__ _n_ :seven::hammer::mega:  
@@ -4054,12 +4063,13 @@ __connotation__ _n_ :two: Connotation is using words to suggest a social or emot
 __connubial__ _adj_ :two: Relating to marriage or the married state; conjugal. _An active connubial career._  
 __consanguinity__ _n_  
 __conscience__ _n_ :pencil2:  
-__conscientious__ _adj_ :dart::two: /kahn-shee-EN-shus/ Conscientious often describes those who are concerned with doing things correctly. It can be used as a synonym for both meticulous and careful. _Although Marvin was brilliant, he was not a very conscientious student, and he frequently lost points for forgetting to turn in his homework._  
+__conscientious objector__ _n_ (CO) One who on the basis of religious or moral principles refuses to bear arms or participate in military service.  
+__conscientious__ _adj_ :dart::three: /kahn-shee-EN-shus/ Conscientious often describes those who are concerned with doing things correctly. It can be used as a synonym for both meticulous and careful. :es: concienzudo _Although Marvin was brilliant, he was not a very conscientious student, and he frequently lost points for forgetting to turn in his homework._  
 __conscious__ _adj_ /kon-shuhs/  
 __consciousness__ _n_  
 __conscript<sup>1</sup>__ _n_ :two: One compulsorily enrolled for service, especially in the armed forces; a draftee.  
 __conscript<sup>2</sup>__ _v_ :five::hammer: (conscripted) _I was conscripted into the army._  
-__conscription__ _n_ :dart::eight: __1__ Compulsory enrollment, especially for the armed forces; draft.  
+__conscription__ _n_ :dart::nine: __1__ Compulsory enrollment, especially for the armed forces; draft.  
 __consecrate__ _v_ :two::hammer: _The current church building was consecrated in 1909._  
 __consecutive__ _adj_ :two::hammer:  
 __consensual__  
@@ -4068,6 +4078,7 @@ __consequential__ _adj_ :two::hammer:
 __consequently__  
 __conservancies__  
 __conservatory__ _n_ :seven: __1__ A greenhouse, especially one in which plants are arranged aesthetically for display, as at a botanical garden; a greenhouse, esp one attached to a house. _A tropical conservatory._ :es: invernadero  
+__considering__ _adv_ _nformal_ All things considered: _We had a good trip, considering._  
 __consigliere__ _n_ :two: /kohn-sil-YEH-reh/ Consigliere refers to a trusted adviser or counselor. Originally, a consigliere specifically served the leader of a criminal organization such as the Mafia, but others likened to such an adviser are now sometimes called consiglieres too. _Our family consigliere._  
 __consign__ _v_ :three: To give over to the care of another; entrust. _Syn_ charge _Fashionable consigned clothes._  
 __consignment__ _n_ :five::hammer: _Consignment shop._ _Consignment threads._ _Consignment boutique._ _Accepting consignments daily._  
@@ -4150,6 +4161,7 @@ __convalesce__ _vi_ :six: /kahn-vuh-LESS/ (convalescing) To return to health and
 __convection__ _n_  
 __convective__ _adj_ _Convective cloud._  
 __convene__ _v_ :nine::m: (convenes, convened) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._ _A War Council was convened._  
+__convenience food__ _n_ :dart: A prepackaged food that can be prepared quickly and easily.  
 __convenience store__  
 __convenience__ _n_ _Visitor conveniences are easily accessible._  
 __conventioneer__ _n_  
@@ -4158,7 +4170,7 @@ __conversely__ _adv_ :three: _(sentence modifier)_ In a contrary or opposite way
 __convertible__  
 __convey__ _vt_ :four::hammer: (conveyed) _The traffic conveyed over connections._  
 __conveyance__ _n_  
-__conveyancing__ _n_ :three: /kənˈveɪənsɪŋ/ (Law) The branch of law dealing with the transfer of ownership of property. The branch of legal practice dealing with the conveyance of property or real estate.  
+__conveyancing__ _n_ :five: /kənˈveɪənsɪŋ/ (Law) The branch of law dealing with the transfer of ownership of property. The branch of legal practice dealing with the conveyance of property or real estate.  
 __conveyor belt__ _n_ A continuous, moving belt that transports materials or packages from one place to another.  
 __conviction__ _n_  
 __convivial__ _adj_ :six: Fond of feasting, drinking, and good company; sociable. _Syn_ jolly, merry, festive, jovial _Weston was chatty and convivial, and no friend to early separations of any sort._ _Convivial atmosphere._  
@@ -4171,6 +4183,7 @@ __coo__ _v_ :eight: (cooed) __1__ _(of a pigeon or dove)_ Make a soft murmuring 
 __cooing__ _n_  
 __cook__ _n_  
 __cook-off__ _n_ :two: A cooking competition. _Chili cook-offs._  
+__cookhouse__ _n_  
 __cookie cutter__ _n_ :camera: A device for cutting flattened cookie dough into shapes before baking.  
 __cookie__ _n_ :dart::two: [:scroll: from Dutch koekje, diminutive of koek _cake_, so it essentially means a “small cake”] __3__ _informal_ A person: _smart cookie._  
 __cookout__ _n_ :five: A social gathering at which a meal is cooked and eaten outdoors.  
@@ -4196,7 +4209,7 @@ __cope<sup>1</sup>__ _n_ _A grey cope._
 __cope<sup>2</sup>__ _v_ _Coping strategies._  
 __Copernican__ _adj_ /koh/kuh-PUHR-ni-kuhn/ __1__ Very important; radically different; paradigm shifting. __2__ Relating to Copernicus or his theory that the earth rotates on its axis and revolves around the sun.  
 __copier__ _n_ _Copier service._  
-__copious__ _adj_ :four: [It comes ultimately from Latin, from the word _copia_, meaning “abundance.”] Yielding or containing plenty; affording ample supply. _Syn_ plenteous, ample, rich  
+__copious__ _adj_ :five: /KOH-pee-us/ [It comes ultimately from Latin, from the word _copia_, meaning “abundance.”] _Copious_ is a synonym of abundant and plentiful. It is always used before a noun to describe something very large in amount or number. Yielding or containing plenty; affording ample supply. _Syn_ plenteous, ample, rich  
 __copped__ _v_ _He copped to the crime._  
 __copper-bottom hit__  
 __coppice__ _n_  
