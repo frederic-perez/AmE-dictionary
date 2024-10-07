@@ -303,6 +303,9 @@ __holystone__ _n_ A piece of soft sandstone used for scouring the wooden decks o
 __honeybee__ _n_ /ˈhʌnɪˌbiː/  
 __hookah__ _n_ (hooka) A water pipe with a long flexible tube by which the smoke is drawn through a jar of water and thus cooled.  
 __hoopla__ _n_ /HOO-plah/ _Hoopla_ refers to talk or writing that is designed to get people excited about or interested in something, often with the implication that the person using the word does not find the thing exciting or interesting.  
+__hoot<sup>1</sup>__ _vi_  
+__hoot<sup>2</sup>__ _vt_ __1__ To shout down or drive off with jeering cries: _hooted the speaker off the platform._ __2__ To express or convey by hooting: _hooted their disgust._  
+__hoot<sup>3</sup>__ _n_ __2__ A cry of scorn or derision.  
 __hoover__  
 __horse brass__ _n_ :camera: A decorative brass ornament, usually circular, originally attached to a horse’s harness.  
 __hotplate__ _n_ :two::hammer:  
@@ -310,6 +313,9 @@ __house martin__ _n_ (housemartin)
 __hovel__ _n_ __1__ A small, miserable dwelling. __2__ An open, low shed.  
 __huddle__ _v_  
 __huff__ _v_  
+__humdrum<sup>1</sup>__ _adj_ Lacking variety or excitement. _Syn_ dull  
+__humdrum<sup>2</sup>__ _n_ A monotonous routine, task, or person.  
+__hurtle__ _v_ :four::hammer:  
 __husk__ _n_ /hʌsk/  
 __ideophone__ _n_ /ID-ee-uh-fon/ A vivid, evocative word that depicts sensory experiences. [Note: While onomatopoeia relates to sound (e.g., gnar), ideophones encompass a wider array of senses, including color, action, smell, and movement. Examples: shimmer and zig-zag.]  
 __idiosyncrasy__  
@@ -341,7 +347,7 @@ __irretrievable__ _adj_ _Irretrievable breakdown of marriage._
 __itching__ _n_ An irritating cutaneous sensation that produces a desire to scratchitching - an irritating cutaneous sensation that produces a desire to scratch. _Syn_ itchiness, itch  
 __jalopy__  
 __jangle<sup>1</sup>__ _vi_ To make a harsh metallic sound: _The spurs jangled noisily._  
-__jangle<sup>2</sup>__ _vt_ :dart: __1__ To cause to make a harsh discordant sound. __2__ To have an irritating effect on: _The racket from the street jangled my nerves._  
+__jangle<sup>2</sup>__ _vt_ :dart::two: __1__ To cause to make a harsh discordant sound. __2__ To have an irritating effect on: _The racket from the street jangled my nerves._  
 __jangle<sup>3</sup>__ _n_  
 __jaundice__ _n_  
 __jerkwater__ _adj_ /JERK-waw-ter/  
@@ -364,6 +370,7 @@ __laic__ _adj_ Of or relating to the laity. _Syn_ lay, secular
 __lambent__ _adj_ :two: __1__ (esp of a flame) Flickering softly over a surface.  
 __lap__ _vt_ __6__ :dart: _Sports_ To get ahead of (an opponent) in a race by one or more complete circuits of the course, as in running, or by two or more lengths of a pool in swimming.  
 __largesse__ _n_ :es: generosidad  
+__lassitude__ _n_ :dart: A state or feeling of weariness, diminished energy, or listlessness. _Syn_ lethargy  
 __latch__ _n_  
 __lathe__ _n_  
 __leaf peeper__ _n_ (chiefly informal US) A tourist who visits New England in autumn to see the changing colours of the foliage.  
@@ -416,6 +423,9 @@ __lucid__ _adj_ /LOO-sid/
 __lucrative__ _adj_ :two::hammer: /LOO-kruh-tiv/  
 __lucubration__ _n_  
 __luggable__ _n_ /ˈlʌɡəbəl/ (esp of computers) Portable, but with difficulty.  
+__lumber<sup>1</sup>__ _n_  
+__lumber<sup>2</sup>__ _vt_  
+__lumber<sup>3</sup>__ _vi_ __1__ To move awkwardly.  
 __luminal__ _adj_  
 __lump sum__ _n_ A single sum of money that serves as complete payment.  
 __lump__ _v_  
@@ -431,7 +441,10 @@ __malevolent__ _adj_ :smiling_imp: Wishing evil or harm to another or others.
 __mandatory__ _n_ :mega: /ˈmæn dəˌtɔr i, -ˌtoʊr i/  
 __mantra yoga__ _n_ A meditation practice that focuses on chanting sacred syllables along with conscious breathing and a meditative focus to quiet the mind, cultivate spiritual energy, and create states of enlightenment.  
 __marionette__ _n_ _Syn_ puppet  
+__marksman__ _n_  
 __masseuse__  
+__matron__ _n_ :es: supervisora; enfermera jefe; matrona  
+__matte__ _n_  
 __measly__ _adj_ :astonished:  
 __medley relay__  
 __meliorism__ _n_ /MEE-lee-uh-riz-um/ _Meliorism_ refers to the belief that the world tends to improve and that humans can aid its betterment.  
@@ -472,7 +485,8 @@ __mushroom__ _vi_ __1__ To multiply, grow, or expand rapidly: _The population mu
 __mutter<sup>1</sup>__ _n_ A low grumble or indistinct utterance.  
 __mutter<sup>2</sup>__ _v_ :two::hammer:  
 __muttering__ _n_  
-__muzzle__ _v_  
+__muzzle<sup>1</sup>__ _n_  
+__muzzle<sup>2</sup>__ _v_  
 __nags__ _n_ _Riding old nags._  
 __nail varnish__ _n_ (nail enamel, nail polish)  
 __natural hat trick__ _n_ _sports_ A hat trick in which three goals are scored in succession by one player in one game.  
@@ -498,6 +512,7 @@ __notorious__
 __nubbly__ _adj_ Rough or irregular; textured. _Syn_ homespun, nubby, slubbed, tweedy  
 __nursing__ _n_ __1__ The profession of a nurse. __2__ The tasks or care of a nurse.  
 __nurture__ _n, vt_  
+__nuzzle__ _v_  
 __obsequious__ _adj_  
 __occasion__ _n_ :three::hammer::pencil2:  
 __occasionally__ _adv_ :pencil2: Now and then; from time to time.  
@@ -536,10 +551,9 @@ __peckish__
 __peculiar__ _adj, n_  
 __pedestrian__ _adj, n_  
 __pejorist__ _n_ /PEJ-uh-rist/ A person who believes that the world is getting worse.  
-__pelt__ _n_  
 __pelt<sup>1</sup>__ _vt_  
 __pelt<sup>2</sup>__ _vi_ __3__ (foll by _along_, _over_, etc) To move rapidly; hurry. _I pelted towards the Beetle._  
-__pelt<sup>n</sup>__ _n_  
+__pelt<sup>n</sup>__ _n_ :two::hammer:  
 __pen test__ _n_ (penetration test) An authorized simulated cyberattack on a computer system, performed to evaluate the security of the system.  
 __pentacle__ _n_ :dart: /ˈpɛn tə kəl/ A star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon. _Syn_ pentagram, pentangle  
 __penury__ _n_ Extreme want or poverty; destitution. _Syn_ indigence, pauperism, beggary, need  
@@ -582,6 +596,7 @@ __polyandry__ _n_ /POL-ee-an-dree/ The practice of having multiple husbands or m
 __polypharmacy__ _n_ The practice of prescribing multiple medications for an individual patient, especially excessively, for a single disease.  
 __polytechnic__ _adj, n_  
 __pommel__ _n_  
+__ponderous__ _adj_  
 __pontoon__ _n_  
 __pool__ _n_ __1a__ A game of chance, resembling a lottery, in which the contestants put staked money into a common fund that is later paid to the winner. __b__ A fund containing all the money bet in a game of chance or on the outcome of an event.  
 __poplar tree__  
@@ -589,6 +604,7 @@ __porky__ _adj_ __1__ Of or like pork: _a porky flavor._ __2__ _Derogatory Slang
 __portentous__ _adj_ Marvelous.  
 __porter__ _n_ __1__ A person employed to carry luggage, parcels, supplies, etc, esp at a railway station or hotel.  
 __possess__ _v_  
+__potbellied__ _adj_ Having a large belly.  
 __precede__ _v_ Furnish with a preface or introduction. _Syn_ preface, premise, introduce _She always precedes her lectures with a joke._  
 __preen__ _v_  
 __premier__  
@@ -634,7 +650,7 @@ __rampage__ _n_ Violently angry and destructive behavior. _Syn_ violent disorder
 __ransack__ _vt_  
 __rapport__ _n_ /ræˈpɔr, -ˈpoʊr, rə-/  
 __rasp<sup>1</sup>__ _n_ __1__ A coarse file with sharp, pointed projections. :es: raspador __2__ The act of filing with a rasp. __3__ A harsh grating sound. :es: chirrido; (of voice) tono áspero  
-__rasp<sup>2</sup>__ _v_ Utter in a grating voice.  
+__rasp<sup>2</sup>__ _v_ :two: Utter in a grating voice.  
 __Rastafarian__ _adj, n_  
 __raving<sup>1</sup>__ _n_  
 __raving<sup>2</sup>__ _adj_ Delirious, irrational speech.  
@@ -692,6 +708,7 @@ __sanguinary__ _adj_ Accompanied by bloodshed. _Syn_ butcherly, gory, slaughtero
 __saunter__  
 __scamper__ _vi_  
 __sconce__ _n_ __1__ A small defensive earthwork or fort.  
+__scuffle__ _v_  
 __scullery__ _n_ /ˈskʌl ə ri, ˈskʌl ri/  
 __scuttle__ _vi_ To run or move with short hurried movements; scurry.  
 __searing__ _adj_ /ˈsɪərɪŋ/  
@@ -705,17 +722,19 @@ __side note__ _n_ Additional information aside main point.
 __simpleton__ _n_ :smiling_imp:  
 __skewer<sup>1</sup>__ _n_  
 __skewer<sup>2</sup>__ _vt_  
+__skitter__ _v_  
 __skullduggery__ _n_ :smiling_imp: Dishonorable proceedings.  
 __slag__ _v_ _Slagged by fire._  
 __sleazy__ _adj_ /ˈsli zi, ˈsleɪ zi/  
+__slew__ _v_ _The truck slewed left and right._  
 __slight__ _adj_ /slaɪt/  
 __slob__ _n_  
 __slug__ _vt_ __3__ To strike heavily, especially with the fist or a bat. _He slugged me across the jaw._  
 __smolder__ _vi_ __1__ To burn with little smoke and no flame. _Luke saw the smoldering piles which had once been human beings._  
 __smugly__ _adv_  
 __snarl__ _v_  
-__snarl<sup>1</sup>__ _v_ :two::hammer:  
-__snarl<sup>2</sup>__ _n_  
+__snarl<sup>1</sup>__ _v_ :three::hammer:  
+__snarl<sup>2</sup>__ _n_ :two::hammer:  
 __snigger__ _v_  
 __snort__ _v_  
 __spark plug__ _n_  
@@ -797,7 +816,7 @@ __tendril__ _n_ :es: zarzillo
 __the nuts and bolts__  
 __thence__ _adv_ From that place; from there. _Syn_ therefrom _The train went south into Switzerland and thence on to Italy._  
 __thunk__ _n_  
-__tire iron__ _n_ A short length of steel with one end flattened to form a blade, used to remove tires from wheel rims.  
+__tire iron__ _n_ :two: A short length of steel with one end flattened to form a blade, used to remove tires from wheel rims.  
 __townhouse__ _n_  
 __traduce__ _vt_ :smiling_imp:  
 __transient__ _adj_ _Temporary conduction block can occur as a result of transient edema._  
@@ -834,6 +853,7 @@ __wide-eyed__ _adj_
 __wince__ _v_  
 __withdrawal symptom__ _n_ :dart: Any physical or psychological disturbance (as sweating or depression) experienced by a drug addict when deprived of the drug.  
 __withhold__ _v_ :pencil2:  
+__without__ _n_ The outside of a place, area, room, etc. _It was still raining without._ (The phrase “it was still raining without” uses an older or more literary use of the word “without,“ which means “outside.”)  
 __wizardess__ _n_ A female wizard, sorceress, witch.  
 __woe__  
 __woodwork__ _n_ __1__ (Crafts) The art, craft, or skill of making things in wood; carpentry. :es: carpintería __2__ (Building) components made of wood, such as doors, staircases, etc. _Woodwork fascia._  
@@ -846,8 +866,10 @@ __wretched__ _adj_ __3__ Despicable, contemptible, or mean: _a wretched miser._ 
 __wring__ _vt_  
 __wringer__ _n_ __1__ A person or thing that wrings. __2__ An apparatus for squeezing out liquid, as two rollers through which an article of wet clothing may be squeezed.  
 __writ__ _n_  
+__writhe__ _v_  
 __Xmas__ _n_  
 __yacht<sup>1</sup>__ _n_  
 __yacht<sup>2</sup>__ _vi_ To sail, cruise, or race in a yacht.  
 __yarrow__ _n_ :es: milenrama  
+__yelp__ _n_ :two::hammer:  
 __yoga__ _n_ [:scroll: From Hindi yoga, from Sanskrit yoga-s, literally “union, yoking” (with the Supreme Spirit)] _Hatha/Mantra/Karma/Bhakti/Raja/Jnana/Kundalini yoga._  
