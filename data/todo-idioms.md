@@ -1,6 +1,7 @@
 __(as) good as dead__  
 __(it’s) (a)bout time__ :dart:  
 __(it’s) just as well (that) (something happened)__ It is or turned out to be beneficial (that something happened). _It turned out we had a pop quiz on Monday. Just as well I was studying this weekend!_  
+__(it’s) little wonder__ It is not at all surprising (that something is the case). _I was always terrible at math in school, so it’s little wonder that I have such trouble filing my taxes._  
 __(just) for the fun of it__  
 __(someone) ain’t seen nothing yet__  
 __(stuck) in a rut__  
@@ -8,11 +9,14 @@ __(the) next thing (one) knows__ (next thing you know)
 __(the) top of the line__ The absolute best of a certain thing, often referring to a product that is of the utmost quality (and usually the most expensive). When used as a noun, it is preceded by “the.” _That store only sells top of the line gear. You may want to consider some lower-priced options._  
 __a (whole) host of (something)__  
 __a balancing act__ :dart:  
+__a joy to behold__ A thing, event, or experience that creates a profound sense of joy or elation in the spectator. _The spring flowers in this part of the country are truly a joy to behold._  
 __a laundry list of (something)__  
 __a legend in (one’s) own lifetime__ A person who has an extraordinary level of fame or reputation while they are still alive. _The singer has made such a huge impact on the world of blues that she’s come to be a legend in her own lifetime._  
 __a legend in (one’s) own mind__ A person who affects or believes that they are of greater importance or notoriety than is actually the case. A humorous, ironic twist on the phrase “a legend in one’s own lifetime.” _The assistant manager acts as if she’s the only one keeping the company together. She’s a regular legend in her own mind._  
 __a license to print money__ An activity, business model, or company that yields very high profits but requires little or no effort to do so. _All these hefty parking fees and fines are just a license to print money for the city._  
+__a little from column A, a little from column B__ Having been formed from two distinct factors, elements, or reasons. _She asked me if I drew more from real life or from my imagination when writing; in truth, it’s a little from column A and a little from column B._  
 __a long shot__ :dart::two::hammer:  
+__a shiver down (one’s) spine__ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
 __a stone’s throw__ :two: A very short distance.  
 __a word of warning__ :two: Information about possible danger or trouble.  
 __according to (someone or something)__  
@@ -45,10 +49,12 @@ __barb__ :two: A shortening of “barbiturate,” a drug class that consists of 
 __bare metal__ Computer hardware without an operating system. _Right now, my new computer is bare metal, and I can’t wait to build it and configure it just the way I want._  
 __bargain for (someone or something)__  
 __battered__ :dart::astonished: Drunk.  
+__be (as) easy as one-two-three__ To be extremely easy, simple, or intuitive; to require very little skill or effort. (Sometimes used with the numbers spelled out (“one-two-three”) or written numerically (“123” or “1-2-3”).) _After so many years as an accountant, doing taxes is as easy as one-two-three for me._  
 __be at pains__ To put forth effort toward some goal or end.  
 __be chock-a-block__ __1__ To be squeezed or jammed closely together. _So many people wanted to see the show that we were chock-a-block inside the venue._ __2__ To be very full or tightly packed. _Your office is chock-a-block with books and boxes. How do you even move around in here!_ _The restaurant has been chock-a-block with guests all day._ __3__ By extension, to be very busy; to be completely filled or engaged (with something). _Every day of our vacation was chock-a-block with fun activities._  
 __be cocksure of (oneself)__ To be completely certain of oneself or one’s actions, to the point of overconfidence. _You seem pretty cocksure of yourself—do you really know how to handle that machine?_  
 __be left to (one’s) own devices__ To be left unsupervised or uncontrolled; to be allowed to do as one pleases. _My job is really great: I know what I need to work on and am just left to my own devices._  
+__be like oil and water__ To be incompatible or unable to interact or coexist easily, as due to fundamental differences in personality, opinions, beliefs, etc. _I really wish my boyfriend could get along with my friend Tara, but the two of them are like oil and water._  
 __be on the safe side__ :dart:  
 __be partial to (someone or something)__ To be particularly fond of someone or something; to have someone or something as one’s favorite or preference.  
 __be real__  
@@ -63,12 +69,14 @@ __black tie__ Dress ccde (slightly less formal than _white tie_) typically allow
 __bland__ _adj_  
 __boil (something) down to (something)__ To reduce or simplify something to the most basic, essential, or fundamental element(s).  
 __bona fide__  
+__bottom of the ninth__ The final and critical moment or moments of a tense, important, or desperate situation. A reference to the ninth inning of baseball, the “bottom” of which is batted by the home team as their last chance to win the game. Primarily heard in US. _It came down to the bottom of the ninth, but I managed to finish my report in time for the big meeting._  
 __brazen out__ To face something, especially a difficult situation or an accusation, with brave or impudent self-confidence. A noun or pronoun can be used between “brazen” and “out.” _Timmy brazened out his teacher’s scolding about his bad behavior._ _I’m so impressed that you brazened out that long drive in torrential rain._  
 __break even__  
 __brown sugar__ :dart: _slang_ Heroine.  
 __buckle up__  
 __bullshit artist__ :smiling_imp: _rude slang_ A person expert at lies, deception, and hype. Someone who is apt to lie and embellish. _Oh, you can’t trust a word that bullshit artist says._  
 __by all means__ :dart:  
+__by and large__  
 __by dint of (something)__ Due to something. The largely outdated word “dint” refers to force or effort. _By dint of hard work, I was able to get an A in my math class this semester._  
 __by no means__ Not in any way; not at all; absolutely not.  
 __call of nature__ The urge to urinate or defecate. _I have to attend to the call of nature._  
@@ -118,6 +126,7 @@ __dry run__ A practice session or test designed to identify and correct possible
 __educated guess__ A thoughtful, well-reasoned guess; a guess with some basis in one’s knowledge.  
 __enjoy (oneself)__ To have fun.  
 __every other__ Alternating. _Every other week._  
+__exhort (one) to (do something)__ To plead with one to do something.  
 __face to face__ In direct contact, especially literally standing close together.  
 __fail to deliver__ A situation in which a buyer, or, more commonly, his/her broker does not receive delivery of the securities he/she bought by the settlement date.  
 __fair enough__  
@@ -149,6 +158,7 @@ __get (one, something) out of the system__
 __get (something) out of (one’s) system__ __2__ To do something so that one no longer has the desire to do it anymore. _I got drinking and partying out of my system during college. I’m ready for a quieter life now._  
 __get lucky__ :two: __2__ _slang_ To have sex, especially with someone whom one has only just met.  
 __get on famously__ To have an exceptionally good relationship (with someone); to get along very well. _I’m glad you finally got to meet my brother—I knew you two would get on famously._  
+__get on like a house afire__ Of two or more people, to enjoy one another’s company very much from the start and become good friends at once. (Used when people are meeting for the first time.) _I can’t wait for you to meet Mark, I just know the two of you will get on like a house afire!_  
 __get something out of the way__ :dart: Deal with a task or difficulty so that it is no longer a problem or worry. _I’m glad I’ve got that visit to the dentist out of the way._  
 __ghosting__ _slang_  
 __gig__  
@@ -223,11 +233,13 @@ __hold my beer__
 __hold the line__  
 __holding pattern__  
 __hopeless at (something)__ Not skilled or adept at something. _Oh, I hired a maid because I know I’m hopeless at housework._  
+__hothead__ A person with an excitable, fiery, or impetuous temper or disposition; one who is quick to get angry or act rashly. _That lady in the car behind me is a real hothead, honking and shouting at me every time I slow down!_  
 __hotshot__ :two::hammer:  
 __hue and cry__ /HYOO-und-KRYE/ __1__ A large public protest. _Hue and cry_ refers to a clamor of alarm or protest in response to something. __2__ It can also be used as a synonym of hubbub to refer to general noise or uproar.  
 __huff and puff__ Make noisy, empty threats; bluster. For example, _You can huff and puff about storm warnings all you like, but we’ll believe it when we see it._ This expression uses two words of 16th-century origin, _huff_, meaning “to emit puffs of breath in anger,” and _puff_, meaning “to blow in short gusts,” and figuratively, “to inflate” or “make conceited.” They were combined in the familiar nursery tale, _“The Three Little Pigs,”_ where the wicked wolf warns, _“I’ll huff and I’ll puff and I’ll blow your house down”_; rhyme has helped these idioms survive.  
 __hung jury__ :dart: A jury that cannot agree on a verdict.  
 __I beg your pardon__ :dart: __1__ :dart: I apologize for what I just did or said. _Oh, I beg your pardon. I wasn’t looking where I was going._ __2__ What did you just say? _Could you please repeat that? I beg your pardon, I couldn’t quite hear you._ __3__ An expression or exclamation of indignation or incredulous disbelief. _A: “I’m afraid we’re going to have to cut your funding, effective immediately.” B: “I beg your pardon? Who on earth decided that?”_ __4__ Could you please give me your attention. _I beg your pardon, everyone, but I’d like to get tonight’s proceedings underway._ __5__ :dart: I believe you are mistaken or incorrect; I beg to differ; I don’t agree with you on that. _I beg your pardon, but I believe you’ll find that our school is actually one of the best in the state._  
+__if (one’s) life depended on it__ Under any circumstances; no matter what. (Used almost exclusively with a negative statement regarding something that one couldn’t or wouldn’t do.) _No way am I going to karaoke night. I couldn’t sing if my life depended on it!_  
 __if it ain’t broke, don’t fix it__ :two::hammer: (if it isn’t broke, don’t fix it)  
 __if nothing else__ :dart: A phrase used to indicate that something is a priority or the most important thing. _I know you’re busy today, so if nothing else, please make sure you respond to these messages._ _If nothing else, we’ll at least get our money back._  
 __If you can’t beat ’em, join ’em__  
@@ -405,13 +417,22 @@ __lick (one’s) wounds__
 __lie to__ __2__ (Nautical) Of a sailing vessel, to remain stationary while facing the wind. _Make sure the ship lies to during the storm so as not to capsize._  
 __life, the universe, and everything__ The question that pan-dimensional space-beings asked the computer Deep Thought in Douglas Adams’s book, _The Hitchhiker’s Guide to the Galaxy._ The computer took millions of years and came up with the answer 42. _Balancing risks is life, the universe, and everything._  
 __lift__  
+__like (one’s) life depends on it__ With maximum, possibly desperate, effort or energy (i.e., as if one is at risk of losing one’s life if one fails). _The boxer started the third round throwing punches like his life depended on it._  
+__like a chicken with the pip__ In low spirits; in a weak or sickened state or manner. _Poor little Johnny’s been feeling like a chicken with the pip lately. I think he must have picked up a bug at school._  
 __like a fish out of water__  
+__like attracts like__ People tend to seek out or be attracted to those that are similar or like-minded. _I guess I shouldn’t be surprised that John wants to find other Americans to hang out with. Like attracts like, after all._  
+__like cheese at four pence__ _BrE_ In an idle, awkward, and/or out-of-place state; being ignored, abandoned, or left to wait awkwardly. Primarily heard in UK. _Well, don’t just sit there like cheese at four pence—speak up and say what’s on your mind!_  
 __like hell__  
+__like rats abandoning a sinking ship__ With great haste and having only personal well-being in mind. (Typically said of people who begin abandoning something or someone that is failing or about to fail.) _I knew the business was doomed when employees started quitting en masse, like rats abandoning a sinking ship._  
 __like the back of (one’s) hand__ A common English expression used to describe something that a person knows extremely well or is very familiar with.  
+__likely story__ ((that’s a) likely story) An exclamation of distrust or disbelief in someone’s explanation or story. _Albert: “Sorry I’m late. My car broke down half way here!” Sarah: “Yeah, likely story! I bet you just wanted to finish watching the football game on TV.”_  
 __liminal__ _adj_ /ˈlɪmɪnəl/  
+__line in the sand__ A figurative boundary that someone or some group refuses to cross or beyond which no further advance or compromise is accepted. (Used especially in the phrase “draw a line in the sand.”) _The allocation of this new tax to pay for building schools has become a line in the sand for the governor’s administration._  
 __lip to lip__ :two: The idiom “lip to lip” typically refers to a kiss that involves direct contact between the lips of two people. This expression is often associated with romantic or intimate contexts, emphasizing the closeness and emotional connection between the individuals involved.  
+__liquid courage__ _slang_ The decrease in timidity or inhibition that comes from imbibing alcoholic beverages.  
 __litmus test__  
 __little does (one) know__ One is completely unaware of something.  
+__live and kicking__ :dart: Alive, healthy, and alert. (A truncated version of “alive and kicking.”) _Sam: “How are you feeling, John? I heard you were quite sick recently.” John: “I”m still live and kicking!”_  
 __live the life of Riley__ To lead a life of great ease, comfort, or luxury. The phrase is likely of early 20th-century Irish-American origin, but to whom Riley refers is uncertain. _Pampered from a young age after his father came into sudden wealth, Jonathan lived the life of Riley compared to the hardships his older siblings faced._  
 __live up to (something)__ :three::hammer: _Live up to the hype._  
 __living proof__  
@@ -481,6 +502,7 @@ __narrow the gap__
 __near and dear to (one)__  
 __neat and tidy__ (neat and clean)  
 __neck and neck__  
+__need (something) (about) as much as (one) needs a hole in the head__ To have absolutely no need or use for something. _I’m perfectly happy having a cell phone that just makes phone calls—I need a fancy new smartphone about as much as I need a hole in the head._  
 __need to be done__ To be required to be completed or acted upon.  
 __needless to say__ Obviously implied, no explanation needed.  
 __Nervous Nellie__ /nuhr-vuhs NEL-ee/(nervous Nellie/Nelly) Any nervous person, male or female. Someone who is more timid, nervous, or anxious than is normal or reasonable.  
@@ -600,6 +622,7 @@ __put off__ __1__ _v_ To deter, annoy, or repel. A noun or pronoun can be used b
 __put on a good/poor/etc. show__  
 __put up with (someone or something)__ To abide or endure someone or something that one finds unpleasant, inconvenient, or annoying.  
 __quite a few__ (quite a lot; quite a bit; quite a number)  
+__racket__ :smiling_imp: __2__ A fraudulent scam or money-making operation. _He’s always cooking up some racket or another to get rich quick._  
 __rags to riches__ Characterized by a rise from poverty to great or exceptional wealth. Hyphenated if used as a modifier before a noun.  
 __raise eyebrows__  
 __rake in__  
@@ -608,7 +631,7 @@ __roast__
 __roll with the punches__  
 __rolling stone__  
 __round and round__ :two::hammer: (around and around)  
-__rue the day (that something happened)__ To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
+__rue the day (that something happened)__ :two: To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
 __rule of law__  
 __rules of the road__  
 __rummage around for (something)__  
@@ -686,6 +709,7 @@ __that does the trick__ That is all that was remaining or required to accomplish
 __that very thing__ Exactly that. _Why, I was just looking for that very thing!_ _You know, I was just about to say that very thing._  
 __the better part of (something)__ :dart: The majority of something. _I’m sorry I’m late—my doctor’s appointment took the better part of an hour._  
 __the golden rule__ :dart: The maxim that one should treat other people the way one would like to be treated, often expressed proverbially as “Do unto others as you would have them do unto you.” _My son wanted to steal the bike of a boy who stole his lunch money, so I told him that the only way to get along with people is to follow the golden rule._  
+__the lion’s den__  
 __the powers that be__  
 __the upper crust__  
 __the upshot (of something)__ :dart: The final or resulting outcome, conclusion, or consequence (of something). _The upshot of this merger is that the company will now control nearly 50% of the world’s television networks._  
