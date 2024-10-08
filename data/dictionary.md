@@ -4445,6 +4445,8 @@ __creaky__ _adj_ _Creaky infrastructure._
 __crease<sup>1</sup>__ _n_ :two::hammer: (creases) _There are creases in the cover._  
 __crease<sup>2</sup>__ _vt_ :five: /kriːs/ __2__ To graze or wound superficially with a bullet.  
 __creatinine__ _n_ /kriːˈætəˌniːn/ A nitrogenous waste product excreted in urine.  
+__creche__ _n_ :three::hammer:  
+__crèche__ _n_ :two: __3__ _Brit._ Say nursery.  
 __cred__ _n informal_ :seven: (creds) Short for credibility: _street cred._  
 __credence__ _n_ :eight::hammer:  
 __credenza__ _n_ :two: A buffet, sideboard, or bookcase, especially one without legs. _Syn_ credence  
@@ -4456,8 +4458,8 @@ __creek__ _n_ :four::hammer: _An older house on a creek._
 __creep<sup>1</sup>__ _n_ :four::hammer: _The upward creep._  
 __creep<sup>2</sup>__ _v_ :three::hammer: (crept) _Defeated, Urban crept back to Avignon._  
 __crème__ _n_ /krɛm, krim/ (creme) __1__ Cream. __2__ A usu. thick, sweet liqueur.  
-__crenelated__ _adj_ :three::hammer: (crenellated) _Crenelated weir._ _Crenellated walls._  
-__creosote__  
+__crenelated__ _adj_ :four::hammer: (crenellated) _Crenelated weir._ _Crenellated walls._  
+__creosote__ _n_ :two::hammer:  
 __crepe paper bells__  
 __crepe rubber__ _n_ :astonished: (crepe) Rubber with a crinkled texture, used especially for shoe soles.  
 __crepe__  
@@ -4480,6 +4482,7 @@ __crib__ _n_ :six: __2a__ A small building, usually with slatted sides, for stor
 __cribbage__ _n_ :mega: /ˈkrɪbɪdʒ/ _game_  
 __crier__ _n_ :two: __2__ (formerly) an official who made public announcements, esp in a town or court. _Public criers._  
 __crime of passion__  
+__criminal offence__ _n_ An act punishable by law; usually considered an evil act. _Syn_ crime, criminal offense, law-breaking, offense, offence  
 __crimp<sup>1</sup>__ _n_ __1__ Usually, crimps. waves or curls, especially in hair that has been crimped or that displays a crimped pattern. __2__ The waviness imparted to natural or synthetic fibers by weaving, knitting, plaiting, or other processes. __3__ A crease formed in sheet metal or plate metal to make the material less flexible or for fastening purposes.  
 __crimp<sup>2</sup>__ _v_ :nine::m: (crimped) To press or pinch into small regular folds or ridges: _crimp a pie crust._  
 __crimson__ _n_ :four::hammer: _Crimson cereal._ _Her face went crimson._ _Soar among the spectacular crimson mesas._  
@@ -4490,6 +4493,7 @@ __crinkly__ _adv_
 __crinoline__ _n_  
 __cripple__ _vt_ :dart: __2__ To disable, damage, or impair the functioning of: _a strike that crippled the factory._  
 __crippling__ _adj_ :four::hammer: _Crippling drought._ _Crippling strikes and violence._  
+__crisis intervention__ _n_  
 __crisp<sup>1</sup>__ _adj_ :nine::m: __1__ Dry and brittle. __2__ Fresh and firm: _crisp lettuce._ __3__ Invigorating or bracing: _a crisp breeze._ __4__ Clear; sharp: _crisp reasoning._ _A crisp young guy._ __5__ Lively or stimulating: _crisp conversation._ __6__ Clean and orderly; neat: _a crisp appearance._ _A crisp white tunic._ _In a crisp white dress._ __7__ Concise and pithy; terse: _a crisp reply._ __8__ Wrinkled or curly: _crisp hair._  
 __crisp<sup>2</sup>__ _v_  
 __crisp<sup>3</sup>__ _n_  
@@ -4513,12 +4517,12 @@ __crock__ _n_ :two::hammer:
 __crockery__ _n_ :two::hammer:  
 __crocodile clip__ _n_ :camera: A clasp with serrated interlocking edges used for making electrical connections.  
 __crocus__ _n_  
-__croft__ _n_ :three::hammer::pencil2:  
+__croft__ _n_ :four::hammer::pencil2:  
 __cromagnon__ _n_ :mega:  
 __crone__ _n_ :three: A witchlike old woman.  
 __cronies__ _n_ :four::hammer: _Military cronies._  
 __Cronuts__ _n_ _trademark_  
-__crony__ _n_ :four: A close friend or companion.  
+__crony__ _n_ :five: A close friend or companion.  
 __cronyism__ _n_ :dart::eight: /KROH-nee-iz-um/ _Cronyism_ is the unfair practice by a powerful person (such as a politician) of giving jobs and other favors to friends without regard for their qualifications. When someone hires a friend to do a job, whether or not she’s the best candidate, that’s cronyism. A governor appointing his inexperienced daughter to an important staff position is one example of cronyism. You’re most likely to find the word cronyism in political discussions. It’s not necessarily considered cronyism for a public figure to hire, promote, or appoint her friends or colleagues. However, if the person isn’t as qualified as other candidates but gets the job anyway, it’s a clear case of cronyism. The original meaning of cronyism was simply “friendship,” from crony, Cambridge student slang for “old friend” from the Greek khronios, “long-lasting.” :es: amiguismo  
 __crook__ _n_ :seven::hammer: (crooks) _They carried long crooks._ _The crook of her arm._  
 __crooked__ _adj_ :three::hammer: _Crooked media._  
@@ -4526,6 +4530,7 @@ __crooner__ _n_
 __crop__ _n_ _He had a riding crop in one hand._  
 __crop-duster__ _n_ :camera: _The crop-duster attack in North by Northwest._  
 __crosbar__ _n_ _soccer_  
+__cross examine__ _v_ :two::hammer:  
 __cross hairs__ _n pl_  
 __cross oneself__ _v_ Make the sign of the cross; in the Catholic religion. :es: santiguarse  
 __cross section__ _n_ :dart::two: (cross-section) A section formed by a plane cutting through an object, usually at right angles to an axis.  
@@ -4574,6 +4579,7 @@ __cruet__ _n_ :mega: A small bottle for holding a condiment, such as vinegar or 
 __cruffy__  
 __cruft__ _n_ :two::hammer:  
 __crufty__ _adj_ :three::hammer: _A crufty comment._  
+__cruise missile__ _n_  
 __crumb<sup>1</sup>__ _n_ :seven::mega::mute:[crum~~b~~] (crumbs) A very small amount of something. _Tim sighed deeply and accepted the crumb._ _Potato chip crumb._  
 __crumb<sup>2</sup>__ _v_ :two::hammer::mega:  
 __crumble<sup>1</sup>__ _vt_ :eight: To break into small fragments or pieces: _I crumbled the cheese into the salad._  
@@ -4651,7 +4657,7 @@ __cummerbund__
 __cumulonimbus__ _n_ _Syn_ thunderstorm  
 __cunctator__ _n_ Someone who postpones work (especially out of laziness or habitual carelessness).  
 __cuneiform__  
-__cupboard__ _n_ :four::hammer::camera::mega::mute:[cu~~p~~board] /ˈkʌb ərd/ /KUB-erd/ A closet with shelves for dishes, cups, food, etc. _My father rebuilt cupboards._  
+__cupboard__ _n_ :five::hammer::camera::mega::mute:[cu~~p~~board] /ˈkʌb ərd/ /KUB-erd/ A closet with shelves for dishes, cups, food, etc. _My father rebuilt cupboards._  
 __cupidity__ _n_ :dart::five: Excessive desire, especially for wealth. _Syn_ covetousness, avarice  
 __cupola__ _n_ :four::hammer: :es: cúpula  
 __cuppa__ _n_ :four: A cup of tea.  
@@ -4681,12 +4687,12 @@ __curry__ _v_ :five::hammer: (curried) _A blatant effort to curry favor._
 __curse word__ _n_ _Syn_ cussword, dirty word  
 __cursive<sup>1</sup>__ _adj_ :three: /ˈkəːsɪv/ /ˈkɜːsɪv/ [:scroll: from Latin curs, ‘run’] Written with the characters joined. _I can’t give autographs right now, ‘cause I don’t know cursive._  
 __cursive<sup>2</sup>__ _n_ /ˈkəːsɪv/ /ˈkɜːsɪv/  
-__cursory__ _adj_ :nine: Performed with haste and scant attention to detail: _a cursory glance at the headlines._  
+__cursory__ _adj_ :dart::nine::m: Performed with haste and scant attention to detail: _a cursory glance at the headlines._  
 __curt__ _adj_ :four: __1__ Rudely blunt and brief; abrupt: _a curt reply._ _His curt answer._ __2__ Short or concise.  
 __curtail__ _v_ :nine::m: (curtailed) Reduce in extent or quantity; impose a restriction on. _He must curtail the mistakes._ _The government is conspiring to curtail liberties._ :es: hacer restringir  
 __curtailment__  
 __curtained-off__ _adj_ Separated from the rest of a room or area by a curtain. _Six curtained-off beds._  
-__curtly__ _adv_ :two::hammer: _“I don’t know,” she said curtly._  
+__curtly__ _adv_ :dart::three::hammer: _“I don’t know,” she said curtly._ _‘Congratulations,’ I said curtly._  
 __curveball__ _n_ _informal_ Something which is unexpected, surprising, or disruptive. _There’s always a curveball on every mission._  
 __curving__ _adj_ Not straight; having or marked by a curve or smoothly rounded bend.  
 __cushy__ _adj_ :two::hammer: _Cushy job._ _A cushy modern life._  
@@ -4702,10 +4708,11 @@ __customer__ _n_ __2__ _informal_ An individual with whom one must deal: _That t
 __customs__ _n_ (at airport)  
 __cut me a little slack__  
 __cut shot__ _n_ A type of shot in several sports.  
-__cut__ _n_ :three: __10__ _informal_ A portion of profits or earnings; a share. _His cut of the $50,000._ __16__ _Baseball_ A swing of a bat. _He was finished taking his cuts in batting practice._  
+__cut__ _n_ :four: __10__ _informal_ A portion of profits or earnings; a share. _His cut of the $50,000._ __16__ _Baseball_ A swing of a bat. _He was finished taking his cuts in batting practice._  
 __cut-and-dried__ _adj_ (cut-and-dry)  
 __cut-and-dry task__  
 __cut-off date__ _n_  
+__cutback__  
 __cutdown__ _n_ __2__ The surgical insertion of a catheter into a vein, as for the administration of intravenous medication.  
 __cutesy__ _adj_ :three: /ˈkyut si/ _informal chiefly US_ Affectedly cute or coy. Deliberately or affectedly cute; precious: _a cutesy boutique._  
 __cutlass__ _n_ A short heavy sword with a curved single-edged blade, once used as a weapon by sailors.  
@@ -4724,7 +4731,7 @@ __Cutty Sark__ _n_
 __cwm__ _n_ :astonished: /ko͞om/ [:scroll: From Welsh cwm (valley)] _geology_ A steep bowl-shaped mountain basin, carved by glaciers. Also known as a cirque. _Often, the water gathered in the cwms before overflowing to the valley below._  
 __cyanide__ _n_ A very strong poison.  
 __Cybex__ _n_ _Cybex weights._  
-__cyclone__ _n_ :two::hammer: (cyclones)  
+__cyclone__ _n_ :three::hammer: /ˈsaɪ kloʊn/  
 __cyclopean__ _adj_ __2__ Very big; huge: _has a cyclopean ego._  
 __cynical__ _adj_ :three::pencil2: /SIN-i-kuhl/ [:scroll: From Latin cynicus, from Greek kynikos (like a dog), from kyon (dog)] __1__ Believing that people are motivated primarily by self-interest. __2__ Behaving in a selfish manner, callously violating accepted standards. __3__ Pessimistic; jaded; negative. __4__ Contemptuous; mocking.  
 __cynophilia__ _n_ /ˌsɪnəʊˈfɪlɪə/ A love of dogs.  
@@ -4760,14 +4767,14 @@ __dalai lama__ _n_ :mega:
 __Dalai Lama__ _n_ :mega: /ˈdælaɪ ˈlɑːmə/  
 __dale__ _n_ _Secluded dales._  
 __dalliance__ _n_ :three::hammer:  
-__dally__ _v_ :six::hammer: (dallied, dallying)  
+__dally__ _v_ :seven: /DAL-ee/ (dallied, dallying) The word _dally_ has a number of meanings. To dally can be to physically linger or dawdle, or to waste time. Dally may also mean “to act playfully,” especially in a romantic sense, or “to deal with something lightly or in a way that is not serious.”  
 __Dalmatian__ _n_ A dog of a large, white short-haired breed with dark spots.  
 __dam__ _n_ _The Hoover Dam._  
 __damage__ _n_ :mega:  
 __damask__ _n_ :three: /DAM-usk/ _Damask_ refers to a usually shiny, thick fabric (as of linen, cotton, silk, or rayon) made with patterns. The word can also be used as a synonym of Damascus steel, or for a grayish red color. _Apparel of fine damask._  
 __dammit__  
 __damn__ _adj, adv, n, v_ :mute:[dam~~n~~]  
-__damnation__ _n_ :two::hammer:  
+__damnation__ _n_ :three::hammer: :es: perdición  
 __damnification__ _n_  
 __damnify__ _v_ To cause loss or damage to (a person); injure.  
 __damning__ _adj_ :five::astonished: (of evidence or a report) Suggesting very strongly that someone is guilty of a crime or has made a serious mistake. Causing incrimination: _damning evidence._ _A damning independent inquiry._ _A damning veredict._  
@@ -4800,7 +4807,7 @@ __daresay__ _v_
 __daring__ _adj_ Bold or adventurous; reckless. _A daring quality._  
 __Darjeeling__ _n_  
 __darling__ _n_ /DAHR-ling/ __1__ A dearly loved person. _The youngest child is the grandparents’ little darling._ __2__ A person who is a favorite. _The actor is a darling of the entertainment industry in both film and music._  
-__darn<sup>1</sup>__ _adj, adv, n_ /dɑːn/ A euphemistic word for damn.  
+__darn<sup>1</sup>__ _adj, adv, n_ :two: /dɑːn/ A euphemistic word for damn.  
 __darn<sup>2</sup>__ _v_ :three::hammer: (darned, darning) :es: zurcir  
 __darnedest__  
 __dart__ _v_ :six::hammer: (darting)  
@@ -4865,11 +4872,13 @@ __deadname<sup>1</sup>__ _n_ (dead name) The name that a transgender person was 
 __deadname<sup>2</sup>__ _vt_ (dead name) To speak of or address (someone) by their deadname. _Please stop dead naming Caitlyn Jenner as “Bruce.”_  
 __deadpan<sup>1</sup>__ _adj_ _Deadpan delivery of nonsensical jokes._  
 __deadpan<sup>2</sup>__ _v_ :two: (deadpanned) To express in an impassive, matter-of-fact way. To behave or perform in a deadpan manner.  
+__deadpool__ _n_ :dart: (dead pool, death pool) A game of prediction or gambling that involves guessing when people, typically celebrities, will die. (See stiffs.com)  
+__deaf-mute__ _adj, n_  
 __deafblind__ _adj_ (deaf-blind) Being both deaf and blind.  
 __deafening__ _adj_  
 __dealbreaker__  
 __dean__ _n_ :four: A senior official at a college or university. _He served as dean._  
-__dear__ _adj_ __1__ Bearing a high price; high-priced; costly; expensive. __2__ Marked by scarcity or dearth, and exorbitance of price. _Though bread and cheese were available from the inhabitants, provision and other supplies were dear._ __3__ Highly valued; greatly beloved; cherished; precious.  
+__dear__ _adj_ :two: __1__ Bearing a high price; high-priced; costly; expensive. __2__ Marked by scarcity or dearth, and exorbitance of price. _Though bread and cheese were available from the inhabitants, provision and other supplies were dear._ __3__ Highly valued; greatly beloved; cherished; precious. __4a__ :dart: Highly priced. _Software is dearer in the UK than in the USA._ __b__ Charging high prices.  
 __dearth__ _n_ :dart::seven: /DERTH/ _Dearth_ refers to a lack or inadequate supply. It is usually followed by _of._ _There is no dearth of opportunities for volunteers at the fair._  
 __death toll__ _n_ The number of deaths resulting from some particular cause such as an accident or a battle or a natural disaster.  
 __deathbed__ _n_ :two::hammer:  
@@ -4928,7 +4937,7 @@ __decommits__
 __decompensation__ _n_ __1__ _Medicine_ The inability of a bodily organ or system, especially the circulatory system, to maintain adequate physiological function in the presence of disease.  
 __decongestant__ _n_ :three::pencil2: A drug that helps you breathe more easily when you have a cold. _Decongestants are also known blood pressure-raisers._  
 __deconstruct__ _v_ :two::hammer:  
-__decor__ _n_ :two::hammer: (décor)  
+__decor__ _n_ :three::hammer: (décor)  
 __decorated__ _adj_ :two::hammer: _A decorated veteran._ _He is one of Seattle’s most decorated chefs._  
 __decorous__ _adj_ /DECK-er-us/ Decorous means “marked by propriety and good taste; correct.” A person or thing that is decorous conforms to an approved or conventional standard.  
 __decouple__ _v_  
@@ -4994,7 +5003,7 @@ __deflate__ _v_ :two::hammer:
 __deflation__ _n_ :two::hammer: _After too many midnight deflations, he moved to a Coleman cot ($44) but its springs were too weak._  
 __deflect__ _v_ :three::hammer:  
 __deflection__ _n_ :two::hammer:  
-__defray__ _vt_ :three::hammer:  
+__defray__ _vt_ :four::hammer:  
 __defrock__ _vt_ :three: /dee-FROK/ [:scroll: From French défroquer (to defrock), from de- (away) + froc (frock, gown, coat), alluding to frock (habit) worn by members of the clergy.] To remove from a position of authority, privilege, etc.  
 __defrost__  
 __defry__  
@@ -5003,6 +5012,7 @@ __deftly__ _adv_ _Helen was deftly applying a poultice to his arm._
 __deftness__ _n_  
 __defund__ _v_ :four: To withdraw funding from. To stop the flow of funds to.  
 __defuse__ _vt_ :nine: __1__ To remove the fuse from (an explosive device). __2__ To make less dangerous, tense, or hostile: _a diplomatic move that defused the international crisis._  
+__degage__ _adj_ Showing lack of emotional involvement. _Syn_ detached, uninvolved  
 __degenerative__ _adj_ /dɪˈdʒɛnəˌreɪtɪv/ _(of a disease or condition)_ Getting steadily worse.  
 __deglutition__ _n_ The act or process of swallowing.  
 __dehumanize__ _vt_ :two::hammer:  

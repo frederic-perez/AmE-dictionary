@@ -84,31 +84,6 @@ __cot death__ _n_ _Br E_ Sudden infant death syndrome.
 __countenance__ _n_  
 __cowed__  
 __craft__ _n_ __5__ _crafts_ Items made by craftspeople.  
-__creche__ _n_ :three::hammer:  
-__crèche__ _n_ :two: __3__ _Brit._ Say nursery.  
-__crenellated__ _adj_ (crenelated) _Crenellated walls._  
-__creosote__ _n_  
-__criminal offence__ _n_ An act punishable by law; usually considered an evil act. _Syn_ crime, criminal offense, law-breaking, offense, offence  
-__crisis intervention__ _n_  
-__croft__ _n_  
-__crony__ _n_  
-__cross examine__ _v_ :two::hammer:  
-__cruise missile__ _n_  
-__cupboard__ _n_ /ˈkʌb ərd/ A closet with shelves for dishes, cups, food, etc.  
-__cursory__  
-__curtly__ _adv_ _‘Congratulations,’ I said curtly._  
-__cut__ _n_ __10__ _informal_ A portion of profits or earnings; a share.  
-__cutback__  
-__cyclone__ _n_ /ˈsaɪ kloʊn/  
-__dally__ _v_ /DAL-ee/ The word _dally_ has a number of meanings. To dally can be to physically linger or dawdle, or to waste time. Dally may also mean “to act playfully,” especially in a romantic sense, or “to deal with something lightly or in a way that is not serious.”  
-__damnation__ _n_ :es: perdición  
-__darn__  
-__deadpool__ _n_ :dart: (dead pool, death pool) A game of prediction or gambling that involves guessing when people, typically celebrities, will die. (See stiffs.com)  
-__deaf-mute__ _adj, n_  
-__dear__ _adj_ __4a__ :dart: Highly priced. _Software is dearer in the UK than in the USA._ __b__ Charging high prices.  
-__decor__ _n_  
-__defray__ _v_  
-__degage__ _adj_ Showing lack of emotional involvement. _Syn_ detached, uninvolved  
 __deign__ _v_  
 __demob__ _v_  
 __denizen__ _n_  
