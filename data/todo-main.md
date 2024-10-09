@@ -1,6 +1,7 @@
 __A pager__ _n_ A simple wireless communications device that receives text messages or alerts.  
 __ablutions__ _n pl_  
 __acerbic__ _adj_ Sharp or biting, as in character or expression. _Syn_ blistering, caustic, acid, vitriolic, acerb, acrid, sulfurous, virulent, bitter  
+__adversary__ _n_ :mega: /ˈæd vərˌsɛr i/ /ˈædvəsərɪ/ /AD-ver-sair-ee/ _Adversary_ is an enemy or opponent.  
 __affect__ _v_ :three::hammer:  
 __alleyway__ _n_ A narrow passage between buildings.  
 __androgenic__ _adj_ /an-druh-JEN-ik/ __1__ Relating to the development of male characteristics. __2__ Having origin in the male sex.  
@@ -34,6 +35,7 @@ __bedsit__ _n_ A furnished sitting room containing sleeping accommodation and so
 __bedstead__ _n_ The framework of a bed supporting the springs and a mattress.  
 __bell boot__ _n_  
 __bemoan__ _vt_ :es: lamentar  
+__berate__ _v_ /bih-RAYT/ To _berate_ someone is to angrily scold or criticize them, often loudly and at length.  
 __beseech__ _v_ :es: suplicar  
 __best boy__ _n_ The chief assistant to the gaffer on a movie or television set.  
 __bickering__ _n_  
@@ -79,11 +81,14 @@ __copperas__ _n_ /ˈkɒpərəs/ A less common name for ferrous sulphate.
 __coriander__ _n_ :es: cilantro  
 __cornices__ _n_ :two::hammer:  
 __cornpone__ _n_  
+__coruscate__ _v_ /KOR-uh-skayt/  
 __cosmesis__ _n_  
 __cot death__ _n_ _Br E_ Sudden infant death syndrome.  
 __countenance__ _n_  
 __cowed__  
 __craft__ _n_ __5__ _crafts_ Items made by craftspeople.  
+__czar__ _n_ __1__ The ruler of Russia until the 1917 revolution. __2__ One having great power or authority. _A banking czar._  
+__Damoclean__ _adj_ /dam-uh-KLEE-uhn/ Involving imminent danger.  
 __deign__ _v_  
 __demob__ _v_  
 __denizen__ _n_  
@@ -135,9 +140,12 @@ __Equity__ _n_ :astonished: /ˈɛkwɪtɪ/ _Theatre_ The actors’ trade union. F
 __equivocacy__ _n_ /i-KWIV-uh-kuh-see/ The quality of being deliberately ambiguous or vague.  
 __ethos__ _n_ /EE-thahss/ _Ethos_ refers to the guiding beliefs of a person, group, or organization. :es: espíritu; escala de valores _The company made environmental awareness part of its business ethos._  
 __eurythmy__ _n_  
+__exhort__ _v_ /ig-ZORT/ To urge, persuade, advise, etc. earnestly.  
 __exile<sup>1</sup>__ _n_ :es: exilio, destierro, :dart: exiliado, desterrado  
 __exile<sup>2</sup>__ _vt_ :es: exiliar, desterrar  
 __exonerate__ _v_  
+__exorbitant__ _adj_ /ig-ZOR-buh-tunt/  
+__extort__ _vt_ :smiling_imp: /ik-STORT/ [:scroll: From Latin extorquere (to wrench out), from ex- (out) + torquere (to twist)] To obtain something by psychological pressure, intimidation, force, threat, etc.  
 __fallacious__ _adj_ /fuh-LAY-shus/ _Fallacious_ is a formal word that typically describes something, such as an argument or assumption, that is false or inaccurate and that tends to mislead or deceive others.  
 __fanfare__ _n_ /FAN-fayr/ __1__ A showy public display. __2__ A brief, lively sounding of brass instruments, especially trumpets, in a celebration.  
 __fang__ _n_ __2__ A long, sharp, pointed tooth, especially a canine tooth of a carnivorous animal, such as a dog or wolf, with which it seizes and tears its prey.  
@@ -158,6 +166,7 @@ __ferment__ _n_ :astonished: A state of agitation or turbulent change or develop
 __fervent__ _adj_ Having or showing great emotion or zeal. _Syn_ ardent, fervid, fiery, impassioned, perfervid, torrid  
 __feud__ _v_  
 __feverish__ _adj_  
+__fickle__ _adj_ :dart: Marked by lack of steadfastness, constancy, or stability; given to erratic changeableness.  
 __fiddle-faddle<sup>1</aup>__ _n_ /ˈfɪdəlˌfædəl/ Nonsense.  
 __fiddle-faddle<sup>2</sup>__ _v_ To fuss or waste time, esp over trivial matters.  
 __field dressing__  
@@ -212,12 +221,14 @@ __fracas__ _n_ :two::hammer:
 __fractious__ _adj_ Stubbornly resistant to authority or control. _Syn_ recalcitrant, refractory  
 __fraternize__ _v_ /FRAT-er-nyze/  
 __French toast__ _n_ Food prepared by dipping bread into egg batter and frying.  
+__fret__ _v_ /FRET/ To _fret_ is to worry or be concerned.  
 __frontier__ _n_ :mega: /frʌnˈtɪər, frɒn-; also, esp. _Brit_, ˈfrʌn tɪər/  
 __fru__  
 __fulgent__ _adj_ /FUHL-juhnt/ Shining brilliantly; radiant.  
 __full board__ _n_ :dart: __a__ The provision by a hotel of a bed and all meals. :es: pensión completa __b__ (as modifier): _full board accommodation._  
 __funfair__  
 __funkhole__  
+__fusillade__ _n_ A discharge from a number of firearms, fired simultaneously or in rapid succession. _Syn_ burst, salvo, volley  
 __fusty__ _adj_ /FUSS-tee/ Someone or something described as fusty is rigidly old-fashioned. Fusty is also used as a synonym of musty to describe things that are full of dust and unpleasant, stale odors.  
 __gabardine__ _n_ A firm, tightly woven fabric of worsted, cotton, polyester, or other fiber, with a twill weave.  
 __gabby__ _adj_ Tending to talk excessively. _Syn_ chatty, garrulous, loquacious, talkative, talky  
@@ -242,6 +253,7 @@ __gestalt__ _n_ _Gestalt therapy._
 __ghoul__  
 __glower<sup>1</sup>__ _n_ To look or stare angrily or sullenly: _glowered at the rude patron._ _Syn_ scowl, glare, frown, look daggers, give a dirty look, lour, lower  
 __glower<sup>2</sup>__ _n_ An angry or sullen look or stare.  
+__gossamer__ _adj_ /GAH-suh-mer/ Something described as _gossamer_—such as a butterfly wing or a thin fabric—is very light or delicate.  
 __grovel__ _vi_  
 __hacksaw__ _n_ :dart: A handsaw for cutting metal, with a hard-steel blade in a frame under tension.  
 __handicraft__ _n_ Skill or dexterity in working with the hands.  
@@ -257,6 +269,7 @@ __havoc__ _n_
 __hay fever__ _n_ :es: alergia al polen  
 __heady__ _adj_  
 __hearth__ _n_ The floor of a fireplace, usually extending into a room and paved with brick, flagstone, or cement. _Syn_ fireside  
+__heat index__ _n_  
 __heath__ _n_  
 __heathen<sup>1</sup>__ _n_ :three: __1__ _Offensive_ __a__ An adherent of a religion that does not worship the God of Judaism, Christianity, or Islam. _Heathens like me._ __b__ Such persons considered as a group.  
 __heathen<sup>2</sup>__ _adj_  
@@ -292,6 +305,7 @@ __humdrum<sup>1</sup>__ _adj_ Lacking variety or excitement. _Syn_ dull
 __humdrum<sup>2</sup>__ _n_ A monotonous routine, task, or person.  
 __hurtle__ _v_ :four::hammer:  
 __husk__ _n_ /hʌsk/  
+__hypnotic__ _adj_ Attracting and holding interest as if by a spell. _Syn_ mesmeric, mesmerizing, spellbinding  
 __ideophone__ _n_ /ID-ee-uh-fon/ A vivid, evocative word that depicts sensory experiences. [Note: While onomatopoeia relates to sound (e.g., gnar), ideophones encompass a wider array of senses, including color, action, smell, and movement. Examples: shimmer and zig-zag.]  
 __idiosyncrasy__  
 __ignoble__ _adj_ Not of the nobility; common. _Syn_ ungentle, untitled  
@@ -301,6 +315,7 @@ __illicit__ _adj_ /ɪˈlɪsɪt/
 __imitative__ _adj_ (Of words) Formed in imitation of a natural sound. _Syn_ echoic, onomatopoeic  
 __immiseration__ _n_ /i-miz-uh-RAY-shuhn/ __1__ The act of making miserable or the state of being made miserable. __2__ Impoverishment.  
 __impending__ _adj_ About to happen; imminent.  
+__impish__ _adj_ Naughtily or annoyingly playful. _Syn_ arch, mischievous, pixilated, prankish, puckish, wicked  
 __imprisonment__ _n_ :pencil2: Putting someone in prison or in jail as lawful punishment.  
 __impugn__ _v_ /im-PYOON/ To impugn something, such as a person’s integrity, judgment, etc., is to attack or oppose it as false or lacking integrity.  
 __indict__ _v_  
@@ -327,6 +342,7 @@ __jangle<sup>3</sup>__ _n_
 __jaundice__ _n_  
 __jerkwater__ _adj_ /JERK-waw-ter/  
 __Jerry__ _n slang_ _Chiefly British_ A German, especially a German soldier.  
+__jiggle__ _v_ :dart: To move or rock lightly up and down or to and fro in an unsteady, jerky manner. _Syn_ joggle, wiggle _He jiggled the worn key in the lock and finally got the door open._  
 __jot<sup>1</sup>__ _n_ :dart: /dʒɒt/ The smallest bit; iota. _(used with a negative)_ A little bit (in phrases such as _not to care (or give) a jot_).  
 __jot<sup>2</sup>__ _vt_  
 __jubilee__ _n_ :mega: /JOO-buh-lee/  
@@ -425,10 +441,12 @@ __medley relay__
 __meliorism__ _n_ /MEE-lee-uh-riz-um/ _Meliorism_ refers to the belief that the world tends to improve and that humans can aid its betterment.  
 __memento__ _n_ :mega: /muh-MEN-toh/ _Memento_ is a synonym of _souvenir_; it refers to something that is kept as a reminder of a person, place, or thing.  
 __menagerie__ _n_ A collection of wild or unusual animals, especially for exhibition.  
+__mesa__ _n_ A broad, flat-topped elevation with one or more clifflike sides, common in the southwest United States. _Syn_ table  
 __mess tin__ _n_ A portable container for cooking or serving food, originally for military use, and generally of a rounded rectangular form.  
 __mewl__ _vi_ To cry, as a baby, young child, or the like; whimper.  
 __miasma__ _n_  
 __microfiche__ _n_ /ˈmaɪ krəˌfiʃ/ A flat sheet of microfilm, containing reproductions of printed or graphic matter.  
+__mid__ _adj_ _Mid_ is a slang term used to describe something or someone as mediocre or of low quality.  
 __midriff__  
 __millpond__ _n_ __1__ A pool formed by damming a stream to provide water to turn a millwheel.  
 __miniscule__ _adj_ :astonished:  
@@ -543,6 +561,7 @@ __Perseid__ _n_ /ˈpɜːsɪɪd/ (Celestial Objects) Any member of a meteor showe
 __personal column__ _n_  
 __perspicacious__ _adj_  
 __pertussis__ _n_ :two: /pəˈtʌsɪs/ _(Pathology)_ The technical name for _whooping cough_.  
+__pestilential__ _adj_ Likely to spread and cause an epidemic disease. _Syn_ pestiferous, plaguey  
 __petrol station__ _n_ _Syn_ filling station, gas station, gasoline station  
 __phantasmagorical__ _adj_ /fan-taz-muh-GOR-i-kuhl/ Illusory; strange; deceptive; imaginary; surreal; hallucinatory.  
 __phony__ _adj_  
@@ -579,6 +598,7 @@ __porky__ _adj_ __1__ Of or like pork: _a porky flavor._ __2__ _Derogatory Slang
 __portentous__ _adj_ Marvelous.  
 __porter__ _n_ __1__ A person employed to carry luggage, parcels, supplies, etc, esp at a railway station or hotel.  
 __possess__ _v_  
+__posterity__ _n_ /pɒˈstɛr ɪ ti/ /pɑˈstɛrət̮i/ /pah-STAIR-uh-tee/  
 __potbellied__ _adj_ Having a large belly.  
 __precede__ _v_ Furnish with a preface or introduction. _Syn_ preface, premise, introduce _She always precedes her lectures with a joke._  
 __preen__ _v_  
@@ -611,6 +631,7 @@ __quadriplegia__ _n_ Complete paralysis of the body from the neck down. Also cal
 __quagmire__ _n_ An area of miry or boggy ground whose surface yields under the tread.  
 __quail__ _v_  
 __Quaker__ _n_ /ˈkweɪkə/  
+__quaternary__ _adj_ Coming next after the third and just before the fifth in position or time or degree or magnitude. _Syn_ fourth  
 __quaver__ _vi_ __1__ To quiver, as from weakness; tremble. _I took a quavering breath._  
 __queasy__ _adj_  
 __Queen’s evidence__ _n_  
@@ -673,6 +694,7 @@ __road rash__ _n_ An abrasion on some area of one’s skin resulting from fallin
 __roar__ _n_  
 __roil__ _v_  
 __rotund__ _adj_ __1__ Rounded in figure; plump. _Syn_ fat  
+__rue__ _v_ /ROO/ To _rue_ something is to feel penitence, remorse, or regret for it. _Rue_ is often used in the phrase “rue the day.” _I rue the day I signed that infernal contract._  
 __rundown__ _n_ :two: __1__ A point-by-point summary.  
 __russet<sup>1</sup>__ _n_ __1__ Yellowish brown, light brown, or reddish brown.  
 __russet<sup>2</sup>__ _adj_ Yellowish brown, light brown, or reddish brown.  
@@ -719,6 +741,7 @@ __sperse__ _v_
 __spinster__ _n_ :es: solterona  
 __splendiferous__ _adj_ /splɛnˈdɪfərəs/ [:scroll: From Latin splendor (brilliance) + -fer (bearing)] _facetious_ Grand; splendid: _a really splendiferous meal._  
 __splosh__ _v_  
+__spotted lanternfly__ _n_  
 __sprain<sup>1</sup>__ _n_  
 __sprain<sup>2</sup>__ _vt_  
 __spruce__ _n_ :es: abeto  
@@ -788,6 +811,7 @@ __taunt__ _vt_ /tɔːnt/ __1__ To provoke or deride with mockery, contempt, or c
 __teeter__ _vi_ :two: __1__ To move or sway unsteadily or unsurely; totter.  
 __teetotaler__ _n_ (teetotaller)  
 __tendril__ _n_ :es: zarzillo  
+__thanatopsis__ _n_ /than-uh-TOP-sis/ [:scroll: From Greek thanatos (death) + -opsis (appearance, view)] A reflection upon death.  
 __the nuts and bolts__  
 __thence__ _adv_ From that place; from there. _Syn_ therefrom _The train went south into Switzerland and thence on to Italy._  
 __thunk__ _n_  
@@ -810,6 +834,7 @@ __uncongenial__ _adj_ Not suitable to your tastes or needs. _Syn_ incompatible
 __unconscionable__ _adj_ :smiling_imp:  
 __unduly__ _adv_  
 __unexampled__ _adj_ Without precedent; unparalleled. _Syn_ new  
+__uninitiated__ _adj_ Not knowledgeable or skilled; inexperienced. _Syn_ naive  
 __unruly__ _adj_ _Unruly hair._  
 __upturned__ _adj_ /ʌpˈtɜːnd/ __3__ Turned over or upside down: _the seat was an upturned bucket._  
 __vilify__ _vt_ :two::hammer: /VIL-uh-fye/  
