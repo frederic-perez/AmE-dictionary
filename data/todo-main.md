@@ -73,14 +73,17 @@ __camp__ _n_
 __candlestick__ _n_ (candleholder) A holder, usually ornamental, with a spike or socket for a candle.  
 __Canuck__ _n_  
 __canvasser__ _n_  
+__carburetor__ _n_ (carbureter)  
 __clearing bank__ _n_ (in Britain) Any bank that makes use of the central clearing house in London for the transfer of credits and cheques between banks.  
 __close to one’s chest__  
 __close-knit__ _adj_ Held tightly together, as by social or cultural ties: _a close-knit family._  
 __clued up__ _adj_ _BrE_ _informal_ Knowledgeable about a topic or situation; possessing the facts. :es: al tanto (de), al corriente (de)  
+__compelling__ _adj_  
 __copperas__ _n_ /ˈkɒpərəs/ A less common name for ferrous sulphate.  
 __coriander__ _n_ :es: cilantro  
 __cornices__ _n_ :two::hammer:  
 __cornpone__ _n_  
+__corrugated__ _adj_ _Syn_ furrowed, channelled, ridged, grooved, wrinkled, creased, fluted, rumpled, puckered, crinkled _The sound of rain on the corrugated roof._ :es: ondulado  
 __coruscate__ _v_ /KOR-uh-skayt/  
 __cosmesis__ _n_  
 __cot death__ _n_ _Br E_ Sudden infant death syndrome.  
@@ -96,6 +99,8 @@ __deport__ _vt_ __1__ To expel from a country: _deported the foreigner who had e
 __deride__ _vt_ [:scroll: Latin dērīdēre : dē-, de- + rīdēre, _to laugh at_]  
 __descant__ _n_  
 __deter__ _v_ :two: /dɪˈtɜr/ /dih-TER/ To _deter_ someone is to discourage or prevent them from acting. To _deter_ a thing is to stop or limit it.  
+__diffident__ _adj_  
+__dimly__ _adv_ __2__ In a manner lacking interest or vitality.  
 __dimple__ _n_  
 __dinghy__ _n_  
 __dingy__ _adj_  
@@ -115,6 +120,7 @@ __dosser__ _n_ Someone who sleeps in any convenient place. _Syn_ street person
 __dowse__ _vi_ (douse) _Dowsing with a pendulum._  
 __dowsing__ _n_ The practice of prospecting for water or minerals using a divining rod. _Syn_ dowse, rhabdomancy  
 __drapery__ _n_ :two::hammer: /ˈdreɪpərɪ/  
+__drawl__ _v_  
 __drollery__ _n_ A quaint and amusing jest. _Syn_ waggery  
 __drop handlebars__ _n_ Low curved handles on a bicycle.  
 __duck-footed__ _adj_  
@@ -125,6 +131,7 @@ __duster__ _n_ :dart::camera: A loose coverall (coat or frock) reaching down to 
 __duty solicitor__ _n_ (duty counsel, duty lawyer) A solicitor whose services are available to a person either suspected of, or charged with, a criminal offence free of charge (pro bono), if that person does not have access to a solicitor of their own and usually if it is judged by a means test that they cannot afford one. The system is operative in several Commonwealth countries, including the United Kingdom, Australia, New Zealand and Canada.  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
 __egret__ _n_  
+__electrical type__ _n_ A poorly conductive plastic tape used to insulate electrical wires. _Syn_ friction tape, insulating tape, electric tape  
 __elocution__ _n_  
 __emaciated__ _adj_ A very thin especially from disease or hunger or cold.  
 __emphasis__ _n_ :two::hammer: /ˈɛm fə sɪs/ /ˈɛmfəsɪs/  
@@ -147,6 +154,7 @@ __exonerate__ _v_
 __exorbitant__ _adj_ /ig-ZOR-buh-tunt/  
 __extort__ _vt_ :smiling_imp: /ik-STORT/ [:scroll: From Latin extorquere (to wrench out), from ex- (out) + torquere (to twist)] To obtain something by psychological pressure, intimidation, force, threat, etc.  
 __fallacious__ _adj_ /fuh-LAY-shus/ _Fallacious_ is a formal word that typically describes something, such as an argument or assumption, that is false or inaccurate and that tends to mislead or deceive others.  
+__fallow__  
 __fanfare__ _n_ /FAN-fayr/ __1__ A showy public display. __2__ A brief, lively sounding of brass instruments, especially trumpets, in a celebration.  
 __fang__ _n_ __2__ A long, sharp, pointed tooth, especially a canine tooth of a carnivorous animal, such as a dog or wolf, with which it seizes and tears its prey.  
 __far__ _adv_ __3__ To a considerable degree; much: _felt far better yesterday; eyes that seemed far too close together._  
@@ -164,6 +172,7 @@ __felon__ _n_
 __felony__ _n_ A crime that has a greater punishment imposed by statute than that imposed on a misdemeanor.  
 __ferment__ _n_ :astonished: A state of agitation or turbulent change or development. _Syn_ agitation, fermentation, tempestuousness, unrest  
 __fervent__ _adj_ Having or showing great emotion or zeal. _Syn_ ardent, fervid, fiery, impassioned, perfervid, torrid  
+__festoon__ _vt_  
 __feud__ _v_  
 __feverish__ _adj_  
 __fickle__ _adj_ :dart: Marked by lack of steadfastness, constancy, or stability; given to erratic changeableness.  
@@ -188,6 +197,7 @@ __fleet__ _n_ :two: The largest organized unit of naval ships grouped for tactic
 __flexor__ _n_ A small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes. _Syn_ percussor, plessor  
 __flighty__ _adj_ /ˈflaɪtɪ/  
 __flinch__ _vi_ :es: estremecerse; encogerse  
+__fling__ _v_ (flung)  
 __flit__ _vi_ :two: __1__ To move about rapidly and nimbly. __2__ To move quickly from one condition or location to another.  
 __float·a·tion _- _n- /flō-tā′shən/ __1__ Variant of _flotation_.  
 __flogging__ _n_ Beating with a whip or strap or rope as a form of punishment.  
@@ -226,6 +236,7 @@ __frontier__ _n_ :mega: /frʌnˈtɪər, frɒn-; also, esp. _Brit_, ˈfrʌn tɪə
 __fru__  
 __fulgent__ _adj_ /FUHL-juhnt/ Shining brilliantly; radiant.  
 __full board__ _n_ :dart: __a__ The provision by a hotel of a bed and all meals. :es: pensión completa __b__ (as modifier): _full board accommodation._  
+__fumble__ _v_  
 __funfair__  
 __funkhole__  
 __fusillade__ _n_ A discharge from a number of firearms, fired simultaneously or in rapid succession. _Syn_ burst, salvo, volley  
@@ -244,24 +255,30 @@ __garrulous__ _adj_ Excessively talkative in a rambling, roundabout manner, espe
 __gasp<sup>1</sup>__ _v_  
 __gasp<sup>2</sup>__ _n_ __1__ A short convulsive intake of breath.  
 __gateway__ _n_ __2__ Something that serves as an entrance or a means of access: _a gateway to success; the gateway to the West._  
-__gaunt__ _adj_  
+__gaunt__ _adj_ :two::hammer: _Two enormous gaunt wolves._  
 __general practitioner__ _n_ (GP) _Syn_ family doctor  
 __genteelism__ _n_ /jen-TEE-liz-uhm/ The substitution of a word that is believed to be more polite or refined. For example, washroom for lavatory.  
 __gerbil__ _n_ :es: jerbo  
 __gestalt therapy__ _n_  
 __gestalt__ _n_ _Gestalt therapy._  
 __ghoul__  
+__gibber__ _vi_ :dart: To prattle and chatter unintelligibly.  
+__giggle__ _v_  
 __glower<sup>1</sup>__ _n_ To look or stare angrily or sullenly: _glowered at the rude patron._ _Syn_ scowl, glare, frown, look daggers, give a dirty look, lour, lower  
 __glower<sup>2</sup>__ _n_ An angry or sullen look or stare.  
 __gossamer__ _adj_ /GAH-suh-mer/ Something described as _gossamer_—such as a butterfly wing or a thin fabric—is very light or delicate.  
 __grovel__ _vi_  
+__grunt__ _n_  
+__gullet__ _n_ /ˈgʌl ɪt/ __1__ A less formal name for the esophagus. __2__ The throat.  
 __hacksaw__ _n_ :dart: A handsaw for cutting metal, with a hard-steel blade in a frame under tension.  
 __handicraft__ _n_ Skill or dexterity in working with the hands.  
 __handyman__ _n_ :es: manitas  
+__haphazard__  
 __haphazardly__ _adv_ In a random manner.  
 __harass__ _v_  
 __hard-of-hearing__ _adj_ Having a hearing loss. _Syn_ hearing-impaired  
 __hard-pressed__ _adj_  
+__hare__ _v_  
 __hassle__ _n_  
 __hatha yoga__ _n_ A form of yogic exercise that emphasizes specific postures in combination with controlled breathing. It is widely practiced in the West.  
 __haversack__ _n_  
@@ -274,12 +291,14 @@ __heath__ _n_
 __heathen<sup>1</sup>__ _n_ :three: __1__ _Offensive_ __a__ An adherent of a religion that does not worship the God of Judaism, Christianity, or Islam. _Heathens like me._ __b__ Such persons considered as a group.  
 __heathen<sup>2</sup>__ _adj_  
 __heavy-set__ _adj_ (of a person) Having a large build.  
+__hefty__ _adj_  
 __hellion__ _n_ A mischievous, troublesome, or unruly person. _Syn_ devil, heller  
 __hemophilia__ _n_ (haemophilia) A tendency to uncontrolled bleeding.  
 __hemophiliac__ _n_ /ˌhi məˈfɪl iˌæk/ A person who has hemophilia.  
 __herald__ _v_ /HAIR-uld/ _Herald_ is a verb meaning “to give notice of”; it is synonymous with _announce_, _publicize_, and _foreshadow_. _Herald_ may also mean “to greet especially with enthusiasm.”  
 __hiking__ _n_  
 __hiss__ _v_ :three::hammer:  
+__hissing__ _n_ A fricative sound (especially as an expression of disapproval); _the performers could not be heard over the hissing of the audience._ _Syn_ fizzle, hiss, hushing, sibilation  
 __history__ _n_ :mega:  
 __hitherto__ _adv_ :two: Until this time.  
 __hoax__ _n_  
@@ -308,6 +327,7 @@ __husk__ _n_ /hʌsk/
 __hypnotic__ _adj_ Attracting and holding interest as if by a spell. _Syn_ mesmeric, mesmerizing, spellbinding  
 __ideophone__ _n_ /ID-ee-uh-fon/ A vivid, evocative word that depicts sensory experiences. [Note: While onomatopoeia relates to sound (e.g., gnar), ideophones encompass a wider array of senses, including color, action, smell, and movement. Examples: shimmer and zig-zag.]  
 __idiosyncrasy__  
+__idle__ _v_  
 __ignoble__ _adj_ Not of the nobility; common. _Syn_ ungentle, untitled  
 __ignoramus__ _n_  
 __ilk__ _n_ /ILK/ _Ilk_ is a noun that means “sort” or “kind.” It is usually used in short phrases with and or of, as in “and that ilk” and “of their ilk.”  
@@ -361,6 +381,7 @@ __laic__ _adj_ Of or relating to the laity. _Syn_ lay, secular
 __lambent__ _adj_ :two: __1__ (esp of a flame) Flickering softly over a surface.  
 __lap__ _vt_ __6__ :dart: _Sports_ To get ahead of (an opponent) in a race by one or more complete circuits of the course, as in running, or by two or more lengths of a pool in swimming.  
 __largesse__ _n_ :es: generosidad  
+__lass__ _n_  
 __lassitude__ _n_ :dart: A state or feeling of weariness, diminished energy, or listlessness. _Syn_ lethargy  
 __latch__ _n_  
 __lathe__ _n_  
@@ -449,6 +470,7 @@ __microfiche__ _n_ /ˈmaɪ krəˌfiʃ/ A flat sheet of microfilm, containing rep
 __mid__ _adj_ _Mid_ is a slang term used to describe something or someone as mediocre or of low quality.  
 __midriff__  
 __millpond__ _n_ __1__ A pool formed by damming a stream to provide water to turn a millwheel.  
+__mince__ _v_  
 __miniscule__ _adj_ :astonished:  
 __mirth__ _n_ Gladness and merriment, especially when expressed by laughter.  
 __misanthrope__ _n_ (misanthropist) A person who dislikes or distrusts other people or mankind in general.  
@@ -472,6 +494,7 @@ __mother of pearl__ _n_
 __mountaineering__  
 __mourning band__  
 __mpox__ _n_ (formerly called _monkey pox_) A zoonotic disease especially of central and western Africa that is caused by a poxvirus.  
+__muck__ _n_  
 __muddle__ _n_ __1__ A disordered condition; a mess or jumble.  
 __mundane__ _adj_  
 __mushroom__ _vi_ __1__ To multiply, grow, or expand rapidly: _The population mushroomed in the postwar decades._  
@@ -537,6 +560,7 @@ __pastime__ _n_ :pencil2:
 __pathos__ _n_ A quality, as of an experience or a work of art, that arouses feelings of pity, sympathy, tenderness, or sorrow. _Syn_ poignancy  
 __patron__ _n_ _Look, Artoo-Detoo! Here comes a patron out of the cantina!_  
 __patsy__ _n_ :smiling_imp: A person easily taken advantage of, cheated, blamed, or ridiculed.  
+__patty__ _n_  
 __pauperism__ _n_ A state of extreme poverty or destitution. _Syn_ indigence, penury, need  
 __payslip__ _n_ (pay slip) A piece of paper received by an employee showing how much salary they have been paid.  
 __peal__ _n_ :two: __1__ A ringing of a set of bells, especially a change or set of changes rung on bells. __2__ A set of bells tuned to each other; a chime. __3__ A loud burst of noise: _peals of laughter._  
