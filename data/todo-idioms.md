@@ -3,12 +3,14 @@ __(it’s) (a)bout time__ :dart:
 __(it’s) just as well (that) (something happened)__ It is or turned out to be beneficial (that something happened). _It turned out we had a pop quiz on Monday. Just as well I was studying this weekend!_  
 __(it’s) little wonder__ It is not at all surprising (that something is the case). _I was always terrible at math in school, so it’s little wonder that I have such trouble filing my taxes._  
 __(just) for the fun of it__  
+__(out) on a limb__  
 __(someone) ain’t seen nothing yet__  
 __(stuck) in a rut__  
 __(the) next thing (one) knows__ (next thing you know)  
 __(the) top of the line__ The absolute best of a certain thing, often referring to a product that is of the utmost quality (and usually the most expensive). When used as a noun, it is preceded by “the.” _That store only sells top of the line gear. You may want to consider some lower-priced options._  
 __a (whole) host of (something)__  
 __a balancing act__ :dart:  
+__a bum ankle/leg, etc.__ An injured ankle, leg, etc.  
 __a joy to behold__ A thing, event, or experience that creates a profound sense of joy or elation in the spectator. _The spring flowers in this part of the country are truly a joy to behold._  
 __a laundry list of (something)__  
 __a legend in (one’s) own lifetime__ A person who has an extraordinary level of fame or reputation while they are still alive. _The singer has made such a huge impact on the world of blues that she’s come to be a legend in her own lifetime._  
@@ -20,11 +22,13 @@ __a shiver down (one’s) spine__ A shudder felt down one’s back, due to eithe
 __a stone’s throw__ :two: A very short distance.  
 __a word of warning__ :two: Information about possible danger or trouble.  
 __according to (someone or something)__  
+__ace in the hole__  
 __across the board__  
 __ahead of (someone or something)__  
 __aid and abet__ To assist someone, usually in a mischievous or illegal activity.  
 __Aladdin’s cave__ The idiom “Aladdin’s cave” refers to a place filled with a vast collection of valuable, interesting, or unusual objects.  
-__all the same__ :two::hammer:  
+__all hell broke loose__ All sorts of wild or terrible things happened. _When the boss left early for the weekend, all hell broke loose._  
+__all the same__ :three::hammer:  
 __all too often__  
 __artful dodger__ :smiling_imp:  
 __as far as it goes__ As much as something accomplishes, typically with room for improvement.  
@@ -63,14 +67,18 @@ __beat about the bush__ :two: _BrE_ To speak vaguely or euphemistically so as to
 __beef up__ To increase something, often in strength. _With all these protestors here, we definitely need to beef up security._  
 __beg to differ__  
 __behind (one’s) back__ In one’s absence. The phrase typically suggests wrongdoing or deceit. _I can’t believe you were gossiping about me behind my back!_  
+__beyond belief__  
 __big guns__  
+__birthday suit__  
 __bits and pieces__ Sundry little items, tasks, or chores.  
 __black tie__ Dress ccde (slightly less formal than _white tie_) typically allowing men to wear tuxedos or dinner jackets and women to wear cocktail dresses and long dresses.  
 __bland__ _adj_  
+__blow a gasket__ To react furiously or violently, to the point of losing control of one’s behavior. _Mom totally blew a gasket when I told her I had failed math._  
 __boil (something) down to (something)__ To reduce or simplify something to the most basic, essential, or fundamental element(s).  
 __bona fide__  
 __bottom of the ninth__ The final and critical moment or moments of a tense, important, or desperate situation. A reference to the ninth inning of baseball, the “bottom” of which is batted by the home team as their last chance to win the game. Primarily heard in US. _It came down to the bottom of the ninth, but I managed to finish my report in time for the big meeting._  
 __brazen out__ To face something, especially a difficult situation or an accusation, with brave or impudent self-confidence. A noun or pronoun can be used between “brazen” and “out.” _Timmy brazened out his teacher’s scolding about his bad behavior._ _I’m so impressed that you brazened out that long drive in torrential rain._  
+__break a sweat__  
 __break even__  
 __brown sugar__ :dart: _slang_ Heroine.  
 __buckle up__  
@@ -90,6 +98,7 @@ __chase the dragon__ :dart: To smoke a controlled substance, often heroin. _I ca
 __chime in__  
 __clear the table__ To remove objects from a table. This phrase is often said after a meal, as one removes dishes, silverware, and leftover food from the table. _After the meal I cleared the table._  
 __close shave__  
+__cockamamie__ Absurd or ridiculous. _Please don’t get involved in another one of his cockamamie schemes—you know they never pan out._  
 __coin__ _slang_ Money.  
 __come a long way__  
 __come and gone__ The idiom “come and gone” refers to something that has arrived and then passed or ended. It often implies that a particular time, opportunity, or event has occurred and is now over, suggesting a sense of finality or missed chances.  
@@ -123,7 +132,9 @@ __dried milk__ _n_ Dehydrated milk.
 __drop in__ To visit someone casually or unexpectedly.  
 __drum up__  
 __dry run__ A practice session or test designed to identify and correct possible problems.  
+__dwell (up)on (someone or something)__ :dart:  
 __educated guess__ A thoughtful, well-reasoned guess; a guess with some basis in one’s knowledge.  
+__end over end__ The idiom “end over end” describes a motion where an object is rotating forward in a series of flips or somersaults, typically along its longest axis. This is often used to describe how something like a tumbler, a ball, or a vehicle moves when it is flipping through the air or over the ground.  
 __enjoy (oneself)__ To have fun.  
 __every other__ Alternating. _Every other week._  
 __exhort (one) to (do something)__ To plead with one to do something.  
@@ -132,7 +143,8 @@ __fail to deliver__ A situation in which a buyer, or, more commonly, his/her bro
 __fair enough__  
 __fall off the perch__ _BrE_ _old-fashioned, informal_ (fall off your perch) If someone falls off the perch or falls off their perch, they die. Note: A perch is a pole, branch or other place where a bird sits to rest. _He fell off the perch years ago._ Note: Other verbs such as drop or topple can be used instead of fall. _He’ll topple off his perch one morning. You know how it is._ Note: This expression is used humorously.  
 __fancy__ _informal_ __2__ To have a desire for (something).  
-__few and far between__  
+__few and far between__ :two::hammer:  
+__figure of speech__ A form of expression in language, either spoken or written, that employs nonliteral meaning, unusual construction, or a particular combination of sounds to emphasize or heighten the rhetorical effect. _Bob: “Does eating an apple a day really keep doctors away from you?” Doug: “Don’t take it so literally, Bob, it’s just a figure of speech.”_  
 __fill the gap__  
 __first come, first served__ The first people present will be the first to receive something, often something that is available in limited quantities.  
 __fit the bill__  
@@ -186,6 +198,7 @@ __go down the rabbit hole__
 __go down the toilet__ To fail; to be ruined or destroyed; to be squandered or wastefully discarded.  
 __go figure__  
 __go for (something)__  
+__go hand in hand__  
 __go into overdrive__ To start working very hard or quickly.  
 __go off the rails__  
 __go over the top__  
@@ -198,8 +211,10 @@ __go to hell in a handcart__ To be in an extremely and increasingly bad or ruino
 __go to the wall__  
 __go with (someone or something)__  
 __go with the flow__ To act as others are acting, conforming to common behavior patterns with an attitude of calm acceptance.  
+__go with the territory__ To typically accompany a certain situation; to be a usual consequence or related issue. _When you’re the boss, staying late at the office just goes with the territory._  
+__God rest someone’s soul__ May God bless a previously mentioned person who has died. _I remember what my mother, God rest her soul, used to say about that._  
 __golden__  
-__good grief__ An expression of surprise or frustration. _Oh, good grief—my car won’t start again._  
+__good grief__ :dart::two: An expression of surprise or frustration. _Oh, good grief—my car won’t start again._  
 __good to go__  
 __good-time Charlie__ An affable, lively, and entertaining man who is often or always seeking pleasure or a good time.  
 __goon__  
@@ -222,11 +237,14 @@ __have a shit__
 __hear the end of (someone or something)__  
 __heat wave__ A period of time in which the weather is unusually and persistently hot.  
 __heavy-duty__ __1__ Designed to be durable for heavy use or extreme conditions; industrial strength. My pickup has a heavy-duty lining to protect it from all the stuff I load in it. _Fritz heavy-duty workshop cleaner._  
+__heavy-handed__ Overly blunt, forceful, or tactless.  
 __hell on earth__  
 __hell-bent__ Very determined to do something, perhaps annoyingly or recklessly so.  
+__hell’s bells__ :three: An exclamation of frustration or surprise. A shortened form of the phrase “hell’s bells and buckets of blood.” _Oh, hell’s bells—the printer isn’t working, and my paper is due in five minutes!_  
 __hem and haw__  
 __hit a snag__  
 __hit and miss__ (hit or miss)  
+__hit home__ :dart:  
 __hit the ground running__  
 __hit-and-run__ :smiling_imp:  
 __hold my beer__  
@@ -317,6 +335,7 @@ __insofar as__ :two: To such an extent that; to the degree that. _Insofar as mon
 __iron grip__ __2__ Total, dominant control (over someone or something).  
 __it ain’t over till/until the fat lady sings__  
 __it goes without saying__  
+__it never rains but it pours__ When something good or bad happens, similarly good or bad things tend to follow.  
 __it remains to be seen__ Something is not yet clear, certain, or known.  
 __it wouldn’t do (someone) any harm (to do something)__ It would or may be good, pragmatic, or beneficial for someone (to do something). _You know, it wouldn’t do you any harm to comb your hair from time to time._  
 __it’s all good__ :dart: A phrase used to express general approval, unconcern, or disinterest.  
@@ -357,12 +376,15 @@ __keep a lookout (for somebody/something)__
 __keep a sharp lookout (for something or someone)__ To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep a sharp lookout._  
 __keep an eye peeled (for something or someone)__ To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep an eye peeled._ _Keep an eye peeled for a Christmas present we could give your mother._  
 __keep pace__  
+__keep tabs on (someone or something)__  
 __keep the lid on (something)__  
 __keep to (something)__ __1__ To adhere to something, such as a plan or a rule; to stick to something. _Please keep to the plan, and everything will go smoothly._  
 __keep up__  
 __keester__ _slang_ The buttocks or anus. Often used figuratively. _OK, kids, get off your keesters and go play outside!_  
+__key up__  
 __kick up__  
 __kids will be kids__ Kids behave childishly or immaturely by nature, so it is unrealistic to expect otherwise.  
+__kind of__ _informal_ Used with adjectives, adverbs and verbs when something is difficult to describe or when the word you use is not exactly what you mean. _She kind of smiled at me._  
 __king of the castle__ The most powerful, successful, or authoritative person in a group or organization.  
 __kitchen-sink__ Showing or pertaining to the lives of common, everyday people. (Always used before a noun.)  
 __knee-jerk reaction__ Any spontaneous, reflexive, and unthinking reaction or response.  
