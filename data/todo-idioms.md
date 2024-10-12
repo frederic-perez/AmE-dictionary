@@ -398,8 +398,10 @@ __Lady Luck__ The personification of fortune, whether good or bad. Sometimes spe
 __lag behind__  
 __land of plenty__ A fictional or imagined utopian place where there is an abundance of everything needed to survive and flourish.  
 __larger than life__  
+__lash around__  
 __lash out__  
 __last chance (for/at/to do something)__ The last or final opportunity to get, have, do, or achieve something. _Hurry and book your flights today—this is your last chance for the cheapest tickets in town!_  
+__last out__  
 __last-ditch attempt__ A final effort or attempt to solve a problem or avoid failure or defeat, especially after a series of failures or setbacks.  
 __last-ditch__  
 __last-minute__ :two: (used before a noun) Done at the very last possible moment or opportunity. _In an attempt to avoid a government shutdown, congress has pushed forward a last-minute spending bill._  
@@ -431,8 +433,11 @@ __let (the) perfect be the enemy of (the) good__ :dart: To allow the demand, des
 __let alone__  
 __let down (one’s) guard__ To become less guarded or vigilant; to stop being cautious about potential trouble or danger. _We’ll wait long enough for them to let down their guard before we launch our invasion._  
 __let down (one’s) hair__ To cease acting formally or conservatively; to let go of one’s inhibitions or reservations. _Come on, Jim, this is a party! Let down your hair and go a little wild!_  
+__let down__  
+__let off (some) steam__ __2__ To release strong emotions or energy by engaging in some kind of enjoyable, vigorous, or relaxing activity. _I went on a run to let off steam after our fight._ _When work gets frustrating, I like to go bowling to let off some steam._  
 __let someone down__  
 __let the good times roll__ To have as much fun or live life as richly as possible. (Often said as an imperative.) _We’ve had another successful year at the company, so everyone enjoy the party and let the good times roll!_  
+__let up (on someone or something)__  
 __letters after (one’s) name__ :dart: A series of abbreviations indicating the various levels of higher education or military honors one has received, thereby denoting a presumed level of intelligence, wisdom, or respectability. _I hate hanging out with your PhD colleagues—it seems like they’ll only take you seriously if you have letters after your name._  
 __level the playing field__ To make a situation or activity more fair and balanced by giving an extra advantage or opportunity to those who would normally be at a disadvantage, or by attempting to take away or diminish advantages, perhaps of one’s adversary or competitor.  
 __lick (one’s) wounds__  
@@ -441,7 +446,7 @@ __life, the universe, and everything__ The question that pan-dimensional space-b
 __lift__  
 __like (one’s) life depends on it__ With maximum, possibly desperate, effort or energy (i.e., as if one is at risk of losing one’s life if one fails). _The boxer started the third round throwing punches like his life depended on it._  
 __like a chicken with the pip__ In low spirits; in a weak or sickened state or manner. _Poor little Johnny’s been feeling like a chicken with the pip lately. I think he must have picked up a bug at school._  
-__like a fish out of water__  
+__like a fish out of water__ :two::hammer:  
 __like attracts like__ People tend to seek out or be attracted to those that are similar or like-minded. _I guess I shouldn’t be surprised that John wants to find other Americans to hang out with. Like attracts like, after all._  
 __like cheese at four pence__ _BrE_ In an idle, awkward, and/or out-of-place state; being ignored, abandoned, or left to wait awkwardly. Primarily heard in UK. _Well, don’t just sit there like cheese at four pence—speak up and say what’s on your mind!_  
 __like hell__  
@@ -499,6 +504,7 @@ __matter of fact__ :two::hammer: _Matter of fact, I was just going to see your b
 __mickey mouse__ _slang_ A reference to the cartoon character Mickey Mouse. Often capitalized. __1__ _n_ Something that is trivial or insignificant. _All I ever do at this job is a lot of mickey mouse._ __2__ _n_ A police officer. _You hear those sirens? Mickey Mouse is getting closer—we need to move it._ __3__ _n_ A small piece of paper containing LSD and imprinted with an image of Mickey Mouse. _Got any mickey mouse I can buy?_ __4__ _adj_ Trivial or insignificant. _She needs to get a real job instead of wasting time with this Mickey Mouse internship._  
 __middlebrow__ [:scroll: Formed on the pattern of highbrow and lowbrow] Neither particularly intelligent and refined nor particularly uncultured or crude in style, content, or quality. _I used to pride myself on my refined tastes when I was in college, but they’ve become positively middlebrow since I settled down as an adult._  
 __mill about__ To loiter, wander about, or waste time idly (some place).  
+__mish-mash__ A jumbled, disorganized mixture of several various things.  
 __miss the mark__  
 __mix and match__  
 __mixed bag__ :two::hammer:  
@@ -536,7 +542,9 @@ __no hard feelings__
 __no holds barred__  
 __no kidding__  
 __no picnic__ _It’s no picnic walking around with a guilty conscience._  
+__no pun intended__  
 __no question about it__ :two: Definitely; for sure.  
+__no questions asked__  
 __no stranger to (something)__  
 __no-no__  
 __no-win situation__ :dart: A problem that has no ideal solution.  
@@ -550,6 +558,7 @@ __not sleep a wink__
 __not so fast__ :two::hammer:  
 __not worth the paper it’s written on__ Useless; unimportant; insignificant.  
 __note so self__  
+__nothing ventured, nothing gained__ _proverb_ Risks must be taken in order to achieve anything significant or meaningful.  
 __now that I think about it__  
 __now that you’re mentioning it__  
 __nowhere to be found__ Unable to be discovered; completely gone or vanished.  
@@ -567,6 +576,7 @@ __off to the races__
 __off-kilter__  
 __oh boy__  
 __oh dear__ :dart: An expression of concern, surprise, or disappointment. _This place is on the 10th floor, and there’s no elevator? Oh dear._ _A car accident? Oh dear, is she OK?_  
+__oh my__ :dart:  
 __old school__  
 __on (one’s) (own) terms__ In the manner or timeframe that one prefers.  
 __on (one’s) feet__  
@@ -606,6 +616,7 @@ __one way or another__
 __one-off__ :three::hammer:  
 __open the door for (someone or something)__  
 __other than (something)__ (other than that) Besides or excluding something. _Other than having a view of the parking lot, his apartment is great._  
+__out of (one’s) hair__ No longer pestering or annoying to one; not one’s responsibility or burden any longer. _I’ve gotten the kids out of my hair for a few hours so I can go and get a relaxing massage by myself._  
 __out of print__ No longer being printed and sold by a publisher.  
 __over and out__ Said to mark the end of communication between two people. Used especially in radio communication, in which it signals that a person is done speaking and does not expect a reply from the other person. _A: “Oh, and while you’re at the store, could you please get some milk, too?” B: “Sure thing. Over and out.”_  
 __over the phone__ :two: By calling on the telephone. _You can order a pizza over the phone._  
@@ -616,6 +627,7 @@ __pick up on (something)__ To detect or notice something; to become alert to or 
 __pick-me-up__ :dart:  
 __pigheaded__ :smiling_imp: Incredibly stubborn, narrow-minded, and often ignorant or foolish. _He’s a nice guy most of the time, but he can be really pigheaded when it comes to certain things._  
 __pillow talk__  
+__pin down__  
 __pinch__ _slang_ :two: __1__ _v_ To steal something.  
 __pins and needles__  
 __piss off__  
@@ -660,10 +672,12 @@ __rummage around for (something)__
 __rumor has it (that)__ It is being rumored that (something is or will be the case). _Rumor has it that the boss is using the company profits to pay off his own gambling debts._  
 __run the gauntlet__ To be exposed to or forced to endure a series of threats, dangers, criticism, or other problems. Refers to an old military punishment in which one was forced to run between two lines of soldiers while being thrashed with rods or whips. _Medical students often feel that they have to run the gauntlet when they become residents in a hospital._  
 __run with it__ To take the initiative to do something independently. _I got this really good idea for an ad campaign. I think I’m going to just run with it and present it to the boss when it’s done._  
+__rush into (something)__  
 __same old same old__ :two::hammer:  
 __same shit, new wrapping__ Colloquial expression that conveys the idea that something has been superficially changed or repackaged but remains fundamentally the same. It suggests that despite appearances, the underlying issues or qualities have not been altered.  
 __save (one’s) bacon__  
 __scheme for (something)__ To form or contrive a secret or devious plan or conspiracy in order to obtain, achieve, or accomplish something. _We spent the afternoon scheming for a way to get into the elite Hollywood party so we could meet some celebrities._  
+__scrape by__  
 __see (one) in the flesh__ To see one in person who is usually only seen at a distance, especially through a medium such as film, music, theater, etc. _After years of idolizing the singer, it was a bit anticlimactic seeing her in the flesh._  
 __see fit__ :dart: Deem appropriate, as in _He’s entitled to divide up his property as he sees fit_, or _If we see fit to attend, we’ll be there._  
 __seep in(to something)__  
@@ -675,6 +689,7 @@ __sexual advance__ An attempt to gain some form of sexual favor or gratification
 __sexual advances__  
 __Shangri-la__ A utopian paradise. A reference to the fictional Tibetan paradise described in James Hilton’s 1933 novel _The Lost Horizon._  
 __shapeshift__ _vi_ To undergo a noticeable change (in character for example), to metamorphosize.  
+__shift gears__  
 __shine a light__  
 __shipping and handling__ The costs associated with packaging and delivering a product to the person who bought it. _Our top line of vacuum cleaners is now only $250, plus shipping and handling._  
 __shipshape and Bristol fashion__  
@@ -683,7 +698,9 @@ __shoot (oneself) in the foot__
 __shop around (for something)__ :dart::three: To browse different stores, vendors, or selections to find the best price or option for something one wants to buy.  
 __shortlisted__ Placed on a final list (a shortlist) of people or things that are being considered for something, such as an award or a position of employment. _I was so shocked to hear that my story was shortlisted for the fiction award!_  
 __show (one’s) hand__  
+__show time__  
 __shrink from (someone or something)__ :dart: __1__ To recede or recoil from someone or something. _The way the gums are shrinking from your teeth is a clear sign of gingivitis._ _The child shrank from the men as they approached the house._ __2__ :dart: To avoid or neglect some action, duty, or responsibility. _You wanted to lead this branch, which means you can’t shrink from the thornier aspects of the job._  
+__shuffle off__  
 __shut out__  
 __single file__ A line of things or people, one person or one thing wide. _Please get into single file._ _You have to march single file._  
 __single out__  
@@ -704,17 +721,20 @@ __smell a rat__ To suspect an instance of betrayal, deception, or corruption.
 __snatch (someone) from the jaws of death__ To rescue someone at the last moment from near or certain death.  
 __snazzy__ Particularly elegant, dazzling, classy, or fancy in appearance. _Wow, that’s a snazzy new suit you’ve got on! Big meeting today or something?_ _She runs one of the snazziest clubs in town._  
 __sneak peek__  
+__snort at (someone or something)__  
 __so be it__  
 __so much so that__  
 __sock__ _informal_ __2__ _v_ To deliver a sharp, forceful blow.  
 __soft spot__  
 __something of sorts__ An inferior example of a kind of something.  
+__sort of__ _informal_ Used with adjectives, adverbs and verbs when something is difficult to describe or when the word you use is not exactly what you mean. _My new dress is sort of green._  
 __sort out__  
 __sounds familiar__  
 __sounds like__  
 __speak (one’s) mind__ To voice one’s thoughts plainly or bluntly.  
 __speed__ _slang_ Any illicit stimulant drug, especially amphetamine or methamphetamine. _We all used to take speed during college to help us study._  
 __spend a penny__ _euphemism_ To go to the toilet. Primarily heard in UK.  
+__stalk out__ To leave (some place) in a haughty, stiff, or threatening manner.  
 __stamp of approval__ An indication of endorsement or authorization of something.  
 __stand a chance__ To have a possibility, however remote, of succeeding; to possibly be able to do something. Often used in the negative to mean the opposite. _If that road is closed, we don’t stand a chance of making it on time._  
 __stand on (one’s) own (two) feet__ To be strong and independent; to not need the help, guidance, or resources of another person.  
@@ -727,12 +747,14 @@ __strike (one) dead__
 __strike a (raw) nerve__  
 __take heart (from something)__ To receive courage or comfort from some fact. _I hope that you will take heart from what we told you today. Even though you did not win the race, take heart from the fact that you did your best. I told her to take heart and try again next time._  
 __take heart__ To have one’s confidence, courage, or happiness bolstered (by something). _We may have lost the election, but we take heart in the fact that so many young people are now engaged and excited about politics._  
+__take umbrage__  
+__tell me about it__  
 __that does the trick__ That is all that was remaining or required to accomplish something. _There, that does the trick. The engine should be as good as new, now!_  
 __that very thing__ Exactly that. _Why, I was just looking for that very thing!_ _You know, I was just about to say that very thing._  
-__the better part of (something)__ :dart: The majority of something. _I’m sorry I’m late—my doctor’s appointment took the better part of an hour._  
+__the better part of (something)__ :dart::two: The majority of something. _I’m sorry I’m late—my doctor’s appointment took the better part of an hour._  
 __the golden rule__ :dart: The maxim that one should treat other people the way one would like to be treated, often expressed proverbially as “Do unto others as you would have them do unto you.” _My son wanted to steal the bike of a boy who stole his lunch money, so I told him that the only way to get along with people is to follow the golden rule._  
 __the lion’s den__  
-__the powers that be__  
+__the powers that be__ :dart::two:  
 __the upper crust__  
 __the upshot (of something)__ :dart: The final or resulting outcome, conclusion, or consequence (of something). _The upshot of this merger is that the company will now control nearly 50% of the world’s television networks._  
 __then again__  
