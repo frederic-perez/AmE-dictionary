@@ -90,6 +90,9 @@ __cot death__ _n_ _Br E_ Sudden infant death syndrome.
 __countenance__ _n_  
 __cowed__  
 __craft__ _n_ __5__ _crafts_ Items made by craftspeople.  
+__crossly__ _adv_ :dart: In an ill-natured manner. _She looked at her husband crossly._ _Syn_ grouchily, grumpily  
+__crouch<sup>1</sup>__ _n_ The act of bending low with the limbs close to the body.  
+__crouch<sup>2</sup>__ _v_ Bend one’s back forward from the waist on down. _Syn_ stoop, bend, bow  
 __czar__ _n_ __1__ The ruler of Russia until the 1917 revolution. __2__ One having great power or authority. _A banking czar._  
 __Damoclean__ _adj_ /dam-uh-KLEE-uhn/ Involving imminent danger.  
 __deign__ _v_  
@@ -271,6 +274,7 @@ __grovel__ _vi_
 __grunt__ _n_  
 __gullet__ _n_ /ˈgʌl ɪt/ __1__ A less formal name for the esophagus. __2__ The throat.  
 __hacksaw__ _n_ :dart: A handsaw for cutting metal, with a hard-steel blade in a frame under tension.  
+__haggard__ _adj_  
 __handicraft__ _n_ Skill or dexterity in working with the hands.  
 __handyman__ _n_ :es: manitas  
 __haphazard__  
@@ -454,6 +458,7 @@ __mandatory__ _n_ :mega: /ˈmæn dəˌtɔr i, -ˌtoʊr i/
 __mantra yoga__ _n_ A meditation practice that focuses on chanting sacred syllables along with conscious breathing and a meditative focus to quiet the mind, cultivate spiritual energy, and create states of enlightenment.  
 __marionette__ _n_ _Syn_ puppet  
 __marksman__ _n_  
+__marshal__ _v_  
 __masseuse__  
 __matron__ _n_ :es: supervisora; enfermera jefe; matrona  
 __matte__ _n_  
@@ -526,6 +531,7 @@ __noose__ _n_ :es: nudo corredizo, lazo, soga
 __noticeboard__ _n_ Bulletin board.  
 __notorious__  
 __nubbly__ _adj_ Rough or irregular; textured. _Syn_ homespun, nubby, slubbed, tweedy  
+__nudge__ _vt_  
 __nursing__ _n_ __1__ The profession of a nurse. __2__ The tasks or care of a nurse.  
 __nurture__ _n, vt_  
 __nuzzle__ _v_  
@@ -551,6 +557,7 @@ __outburst__ _n_
 __outing__ _n_  
 __outlay__ _n_  
 __outline__ _v_  
+__paean__ _n_  
 __paratrooper__  
 __parched__ _adj_ :es: abrasado, reseco  
 __Parkinson’s law__ _n_ /PAHR-kin-suhnz law/ The observation that work expands to fill the time available.  
@@ -597,7 +604,8 @@ __pillion passenger__ _n_ _Brit_ A person who travels in a seat or place behind 
 __pillion__ _n_ A seat or place behind the rider of a motorcycle, scooter, horse, etc.  
 __pimple__ _n_ :es: espinilla  
 __pip__ _n_ __1__ (Veterinary Science) A contagious disease of poultry characterized by the secretion of thick mucus in the mouth and throat. __2__ _facetious slang_ A minor human ailment.  
-__pitch__ _n_ :es: (esp. _British_) campo, cancha  
+__pitch<sup>1</sup>__ _n_ :es: (esp. _British_) campo, cancha  
+__pitch<sup>2</sup>__ _vt_  
 __plaintiff__ _n_  
 __plead__ _v_  
 __plebiscite__ _n_  
@@ -666,6 +674,7 @@ __rabies__ _n_ /ˈreɪ biz/ _Rabies is normally fatal if untreated and it’s a 
 __racket__ _n_ __1__ A loud distressing noise.  
 __racketeer__ _n_ :smiling_imp: One who obtains money by an illegal enterprise usually involving intimidation.  
 __ragbag__ _n_  
+__ragweed__ _n_  
 __rampage__ _n_ Violently angry and destructive behavior. _Syn_ violent disorder  
 __ransack__ _vt_  
 __rapport__ _n_ /ræˈpɔr, -ˈpoʊr, rə-/  
@@ -701,6 +710,7 @@ __remand__ _n_ :three::hammer:
 __remand<sup>1</sup>__ _n_  
 __remand<sup>2</sup>__ _vt_  
 __remanded__ _v_  
+__rendevouz__ _v_  
 __repeat__ _n_  
 __replete__ _adj_ /rih-PLEET/ Replete is an adjective used to describe things as “fully or abundantly provided or filled,” “abundantly fed,” “stout,” or “complete.”  
 __repose__ _n_ The act of resting or the state of being at rest. _Syn_ ease, relaxation, rest _The vacationer took his repose beside the swimming pool._  
@@ -729,14 +739,17 @@ __sanguinary__ _adj_ Accompanied by bloodshed. _Syn_ butcherly, gory, slaughtero
 __saunter__  
 __scamper__ _vi_  
 __sconce__ _n_ __1__ A small defensive earthwork or fort.  
+__scowl__ _v_  
 __scuffle__ _v_  
 __scullery__ _n_ /ˈskʌl ə ri, ˈskʌl ri/  
 __scuttle__ _vi_ To run or move with short hurried movements; scurry.  
 __searing__ _adj_ /ˈsɪərɪŋ/  
 __seething__ _v_  
 __shapeshift__ _vi_ (biology, fantasy, mythology) To change one’s shape or form (into another) through often magical means, normally applied only to living beings.  
+__shinny__ _vi_ To climb by shinning.  
 __shortlisted__  
-__shove__ _v_  
+__shortsighted__ _adj_  
+__shove__ _v_ :two::hammer:  
 __shuffling__ _n_ Walking with a slow dragging motion without lifting your feet.  
 __shuttle__ _n_ __2__ The sliding container that carries the lower thread in a sewing machine.  
 __side note__ _n_ Additional information aside main point.  
@@ -758,6 +771,7 @@ __snarl<sup>1</sup>__ _v_ :three::hammer:
 __snarl<sup>2</sup>__ _n_ :two::hammer:  
 __snigger__ _v_  
 __snort__ _v_  
+__snuffling__ _n_  
 __spark plug__ _n_  
 __spattering__ _n_ __1__ The noise of something spattering or sputtering explosively; “he heard a spatter of gunfire.’ _Syn_ spatter, splatter, splattering, splutter, sputter, sputtering __2__ The act of splashing a (liquid) substance on a surface. _Syn_ splashing, splattering, spatter, splash  
 __spearhead__ _vt_  
@@ -765,6 +779,7 @@ __sperse__ _v_
 __spinster__ _n_ :es: solterona  
 __splendiferous__ _adj_ /splɛnˈdɪfərəs/ [:scroll: From Latin splendor (brilliance) + -fer (bearing)] _facetious_ Grand; splendid: _a really splendiferous meal._  
 __splosh__ _v_  
+__splotch__ _n_  
 __spotted lanternfly__ _n_  
 __sprain<sup>1</sup>__ _n_  
 __sprain<sup>2</sup>__ _vt_  
@@ -781,11 +796,12 @@ __stammer__ _v_ :two::hammer:
 __stasis__ _n_ :two::hammer:  
 __statute of limitations__ _n phr_  
 __statutory__ _adj_  
-__steady__  
+__steady__ _vi_ :two: /ˈstɛd i/ /ˈstɛdɪ/ To make or become steady.  
 __steeped__ _adj_ :two::hammer:  
 __sterling<sup>1</sup>__ _n_ __1a__ British money: _pound sterling._ _Take cash in sterling._ __b__ (as modifier): _sterling reserves._  
 __sterling<sup>2</sup>__ _adj_ (prenominal) Genuine and reliable; first-class: _sterling quality._  
 __stiff__ _n_ :smiling_imp: __1__ _slang_ A corpse.  
+__stirrup__ _n_  
 __stoop__ _v_ :dart::two::smiling_imp: Debase oneself morally, act in an undignified, unworthy, or dishonorable way. _Syn_ condescend, lower oneself  
 __stopover__ _n_  
 __store__ _n_ :dart: A mercantile establishment for the sale of goods or services.  
@@ -838,6 +854,7 @@ __tendril__ _n_ :es: zarzillo
 __thanatopsis__ _n_ /than-uh-TOP-sis/ [:scroll: From Greek thanatos (death) + -opsis (appearance, view)] A reflection upon death.  
 __the nuts and bolts__  
 __thence__ _adv_ From that place; from there. _Syn_ therefrom _The train went south into Switzerland and thence on to Italy._  
+__thrum__ _v_  
 __thunk__ _n_  
 __tire iron__ _n_ :two: A short length of steel with one end flattened to form a blade, used to remove tires from wheel rims.  
 __townhouse__ _n_  
@@ -861,6 +878,7 @@ __unexampled__ _adj_ Without precedent; unparalleled. _Syn_ new
 __uninitiated__ _adj_ Not knowledgeable or skilled; inexperienced. _Syn_ naive  
 __unruly__ _adj_ _Unruly hair._  
 __upturned__ _adj_ /ʌpˈtɜːnd/ __3__ Turned over or upside down: _the seat was an upturned bucket._  
+__vale__ _n_  
 __vilify__ _vt_ :two::hammer: /VIL-uh-fye/  
 __villainy__ _n_ _Luke, you won’t find a more wretched hive of villainy._  
 __virago__ _n_ /vɪˈrɑ goʊ, -ˈreɪ-/  
@@ -871,14 +889,20 @@ __way to go__
 __welsh__ _vi_ :smiling_imp:  
 __welt__ _n_  
 __welter__ _n_  
+__wench__ _n_  
 __werebear__  
 __werewolf__  
+__whimper<sup>1</sup>__ _v_  
+__whimper<sup>2</sup>__ _n_  
+__whuffle__ _vi_ To make a low snuffling or blowing sound.  
 __wide-eyed__ _adj_  
+__wiggle__ _v_ /ˈwɪg əl/  
 __wince__ _v_  
 __withdrawal symptom__ _n_ :dart: Any physical or psychological disturbance (as sweating or depression) experienced by a drug addict when deprived of the drug.  
 __withhold__ _v_ :pencil2:  
 __without__ _n_ The outside of a place, area, room, etc. _It was still raining without._ (The phrase “it was still raining without” uses an older or more literary use of the word “without,“ which means “outside.”)  
 __wizardess__ _n_ A female wizard, sorceress, witch.  
+__wobble__ _v_  
 __woe__  
 __woodwork__ _n_ __1__ (Crafts) The art, craft, or skill of making things in wood; carpentry. :es: carpintería __2__ (Building) components made of wood, such as doors, staircases, etc. _Woodwork fascia._  
 __woozy__ _adj_  
@@ -890,7 +914,7 @@ __wretched__ _adj_ __3__ Despicable, contemptible, or mean: _a wretched miser._ 
 __wring__ _vt_  
 __wringer__ _n_ __1__ A person or thing that wrings. __2__ An apparatus for squeezing out liquid, as two rollers through which an article of wet clothing may be squeezed.  
 __writ__ _n_  
-__writhe__ _v_  
+__writhe__ _v_ :three:::hammer: /raɪð/  
 __Xmas__ _n_  
 __yacht<sup>1</sup>__ _n_  
 __yacht<sup>2</sup>__ _vi_ To sail, cruise, or race in a yacht.  
