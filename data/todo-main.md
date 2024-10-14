@@ -200,7 +200,7 @@ __fleet__ _n_ :two: The largest organized unit of naval ships grouped for tactic
 __flexor__ _n_ A small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes. _Syn_ percussor, plessor  
 __flighty__ _adj_ /ˈflaɪtɪ/  
 __flinch__ _vi_ :es: estremecerse; encogerse  
-__fling__ _v_ (flung)  
+__fling__ _v_ :two::hammer: (flung)  
 __flit__ _vi_ :two: __1__ To move about rapidly and nimbly. __2__ To move quickly from one condition or location to another.  
 __float·a·tion _- _n- /flō-tā′shən/ __1__ Variant of _flotation_.  
 __flogging__ _n_ Beating with a whip or strap or rope as a form of punishment.  
@@ -269,9 +269,11 @@ __gibber__ _vi_ :dart: To prattle and chatter unintelligibly.
 __giggle__ _v_  
 __glower<sup>1</sup>__ _n_ To look or stare angrily or sullenly: _glowered at the rude patron._ _Syn_ scowl, glare, frown, look daggers, give a dirty look, lour, lower  
 __glower<sup>2</sup>__ _n_ An angry or sullen look or stare.  
+__goo__ _n_  
 __gossamer__ _adj_ /GAH-suh-mer/ Something described as _gossamer_—such as a butterfly wing or a thin fabric—is very light or delicate.  
 __grovel__ _vi_  
 __grunt__ _n_  
+__guffaw__ _n_  
 __gullet__ _n_ /ˈgʌl ɪt/ __1__ A less formal name for the esophagus. __2__ The throat.  
 __hacksaw__ _n_ :dart: A handsaw for cutting metal, with a hard-steel blade in a frame under tension.  
 __haggard__ _adj_  
@@ -295,7 +297,7 @@ __heath__ _n_
 __heathen<sup>1</sup>__ _n_ :three: __1__ _Offensive_ __a__ An adherent of a religion that does not worship the God of Judaism, Christianity, or Islam. _Heathens like me._ __b__ Such persons considered as a group.  
 __heathen<sup>2</sup>__ _adj_  
 __heavy-set__ _adj_ (of a person) Having a large build.  
-__hefty__ _adj_  
+__hefty__ _adj_ :two::hammer:  
 __hellion__ _n_ A mischievous, troublesome, or unruly person. _Syn_ devil, heller  
 __hemophilia__ _n_ (haemophilia) A tendency to uncontrolled bleeding.  
 __hemophiliac__ _n_ /ˌhi məˈfɪl iˌæk/ A person who has hemophilia.  
@@ -326,7 +328,7 @@ __huddle__ _v_
 __huff__ _v_  
 __humdrum<sup>1</sup>__ _adj_ Lacking variety or excitement. _Syn_ dull  
 __humdrum<sup>2</sup>__ _n_ A monotonous routine, task, or person.  
-__hurtle__ _v_ :four::hammer:  
+__hurtle__ _v_ :five::hammer:  
 __husk__ _n_ /hʌsk/  
 __hypnotic__ _adj_ Attracting and holding interest as if by a spell. _Syn_ mesmeric, mesmerizing, spellbinding  
 __ideophone__ _n_ /ID-ee-uh-fon/ A vivid, evocative word that depicts sensory experiences. [Note: While onomatopoeia relates to sound (e.g., gnar), ideophones encompass a wider array of senses, including color, action, smell, and movement. Examples: shimmer and zig-zag.]  
@@ -350,6 +352,7 @@ __ingenuous__ _adj_ Lacking in cunning, guile, or worldliness. _Syn_ artless
 __iniquitous__ _adj_ :smiling_imp: /ɪˈnɪk wɪ təs/ Characterized by iniquity; wicked; sinful.  
 __injunction__  
 __innards__ _n pl_  
+__instar__ _n_ A stage of an insect or other arthropod between one molt and the next.  
 __interfere__ _v_  
 __interpenetrate__ _v_ Spread or diffuse through. _Syn_ imbue, permeate, pervade, diffuse, riddle, penetrate  
 __intonation__ _n_ /ˌɪntəʊˈneɪʃən/ /ˌɪn toʊˈneɪ ʃən, -tə-/  
@@ -359,6 +362,7 @@ __iota__ _n_ /eye-OH-tuh/ An _iota_ is an infinitesimal amount of something. The
 __irate__ _adj_ :dart::astonished:  
 __irretrievable__ _adj_ _Irretrievable breakdown of marriage._  
 __itching__ _n_ An irritating cutaneous sensation that produces a desire to scratchitching - an irritating cutaneous sensation that produces a desire to scratch. _Syn_ itchiness, itch  
+__jaded__ _adj_ :dart:  
 __jalopy__  
 __jangle<sup>1</sup>__ _vi_ To make a harsh metallic sound: _The spurs jangled noisily._  
 __jangle<sup>2</sup>__ _vt_ :dart::two: __1__ To cause to make a harsh discordant sound. __2__ To have an irritating effect on: _The racket from the street jangled my nerves._  
@@ -448,7 +452,7 @@ __lump__ _v_
 __lunchtime__ _n_ :pencil2:  
 __lycanthrope__ _n_  
 __machtpolitik__ _n_ /MAHKHT-pol-ee-teek/ Power politics: policies that advocate the use of power and physical force to attain their goals.  
-__maggot__ _n_ __1__ The legless, soft-bodied, wormlike larva of any of various dipteran flies, often found in decaying matter. :es: gusano  
+__maggot__ _n_ :two: __1__ The legless, soft-bodied, wormlike larva of any of various dipteran flies, often found in decaying matter. :es: gusano  
 __Magic Eye poster__ _n_  
 __maiden__ _adj_ _The _Titanic_ maiden voyage._  
 __mains tester__ _n_ An insulated screwdriver with a light in the handle.  
@@ -484,6 +488,8 @@ __miscellany__ _n_ (_n pl_ miscellanies) __1__ A mixed assortment of items.
 __mise-en-scène__ _n_ /meez-ahn-SEN/ _Mise-en-scène_ can refer to the setting of a play, movie, etc., or it can refer to the physical or social setting in which something real occurs or develops.  
 __mishmash__ _n_ A collection or mixture of unrelated things; a hodgepodge.  
 __misnomer__  
+__misstep<sup>1</sup>__ _n_  
+__misstep<sup>2</sup>__ _vi_ To make a mistake.  
 __missus__ _n_  
 __misuser__ _n_ __1__ One that misuses: _a misuser of school property._  
 __miter__ _n_ (mitre) A type of headdress worn by archbishops and bishops.  
@@ -547,6 +553,7 @@ __offset__ _v_
 __ogle__ _v_  
 __oilskin__ _n_ :two::hammer:  
 __Old Glory__ _n_ _You can always count on Dad to hang up Old Glory for the Fourth of July._  
+__ominous__ _adj_  
 __omnibus__ _n_ __1a__ A large horse-drawn public conveyance, especially of the late 1800s.  
 __ontic__ _adj_ /ON-tik/ [:scroll: From Greek onto (being)] Having or relating to a real existence.  
 __onus__ _n_ :dart:  
@@ -579,6 +586,7 @@ __pelt<sup>1</sup>__ _vt_
 __pelt<sup>2</sup>__ _vi_ __3__ (foll by _along_, _over_, etc) To move rapidly; hurry. _I pelted towards the Beetle._  
 __pelt<sup>n</sup>__ _n_ :two::hammer:  
 __pen test__ _n_ (penetration test) An authorized simulated cyberattack on a computer system, performed to evaluate the security of the system.  
+__pensive__  
 __pentacle__ _n_ :dart: /ˈpɛn tə kəl/ A star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon. _Syn_ pentagram, pentangle  
 __penury__ _n_ Extreme want or poverty; destitution. _Syn_ indigence, pauperism, beggary, need  
 __peptic ulcer__ _n_ An erosion of the mucous membrane of the lower esophagus, stomach, or duodenum, caused in part by the corrosive action of the gastric juice.  
@@ -729,6 +737,7 @@ __roar__ _n_
 __roil__ _v_  
 __rotund__ _adj_ __1__ Rounded in figure; plump. _Syn_ fat  
 __rue__ _v_ /ROO/ To _rue_ something is to feel penitence, remorse, or regret for it. _Rue_ is often used in the phrase “rue the day.” _I rue the day I signed that infernal contract._  
+__ruff__ _n_ (Clothing & Fashion)  
 __rundown__ _n_ :two: __1__ A point-by-point summary.  
 __russet<sup>1</sup>__ _n_ __1__ Yellowish brown, light brown, or reddish brown.  
 __russet<sup>2</sup>__ _adj_ Yellowish brown, light brown, or reddish brown.  
@@ -762,6 +771,7 @@ __slag__ _v_ _Slagged by fire._
 __sleazy__ _adj_ /ˈsli zi, ˈsleɪ zi/  
 __slew__ _v_ _The truck slewed left and right._  
 __slight__ _adj_ /slaɪt/  
+__slither__ _vi_  
 __slob__ _n_  
 __slug__ _vt_ __3__ To strike heavily, especially with the fist or a bat. _He slugged me across the jaw._  
 __smolder__ _vi_ __1__ To burn with little smoke and no flame. _Luke saw the smoldering piles which had once been human beings._  
@@ -777,6 +787,7 @@ __spattering__ _n_ __1__ The noise of something spattering or sputtering explosi
 __spearhead__ _vt_  
 __sperse__ _v_  
 __spinster__ _n_ :es: solterona  
+__spiracle__ _n_  
 __splendiferous__ _adj_ /splɛnˈdɪfərəs/ [:scroll: From Latin splendor (brilliance) + -fer (bearing)] _facetious_ Grand; splendid: _a really splendiferous meal._  
 __splosh__ _v_  
 __splotch__ _n_  
@@ -785,17 +796,19 @@ __sprain<sup>1</sup>__ _n_
 __sprain<sup>2</sup>__ _vt_  
 __spruce__ _n_ :es: abeto  
 __spud__ _n_ _I was peeling spuds in the cookhouse._  
+__sputter__ _v_  
 __squally__ _adj_ __1__ Characterized by squalls. __2__ Stormy; threatening. _Squally showers._  
 __squealer__  
 __squeegee__  
 __squelch__ _v_  
 __squirm__ _vi_  
 __stakeout__  
-__stalk__ _v_ :two::hammer:  
+__stalk__ _v_ :three::hammer:  
 __stammer__ _v_ :two::hammer:  
 __stasis__ _n_ :two::hammer:  
 __statute of limitations__ _n phr_  
 __statutory__ _adj_  
+__steadily__  
 __steady__ _vi_ :two: /ˈstɛd i/ /ˈstɛdɪ/ To make or become steady.  
 __steeped__ _adj_ :two::hammer:  
 __sterling<sup>1</sup>__ _n_ __1a__ British money: _pound sterling._ _Take cash in sterling._ __b__ (as modifier): _sterling reserves._  
@@ -857,6 +870,7 @@ __thence__ _adv_ From that place; from there. _Syn_ therefrom _The train went so
 __thrum__ _v_  
 __thunk__ _n_  
 __tire iron__ _n_ :two: A short length of steel with one end flattened to form a blade, used to remove tires from wheel rims.  
+__toil__ _vi_  
 __townhouse__ _n_  
 __traduce__ _vt_ :smiling_imp:  
 __transient__ _adj_ _Temporary conduction block can occur as a result of transient edema._  
@@ -864,6 +878,7 @@ __transmogrification__ _n_
 __transmogrify__ _v_  
 __tribulation__ _n_ /trib-yuh-LAY-shun/ _Tribulation_, which is often used in the phrase “trials and tribulations,” refers to an experience that causes suffering. It can also mean “unhappiness, pain, or suffering.”  
 __trump__ _v_ /trʌmp/  
+__tummy__  
 __two peas in a pod__  
 __tyranny__ _n_ :pencil2:  
 __uh-huh__  
@@ -885,9 +900,10 @@ __virago__ _n_ /vɪˈrɑ goʊ, -ˈreɪ-/
 __virid__ _adj_ /VIR-id/ Bright green.  
 __visa national__ _n_ A person from a country whose citizens are required to obtain a visa before entering the United Kingdom, regardless of the purpose or duration of their visit.  
 __vociferous__ _adj_ Crying out noisily.  
+__warlock__  
 __way to go__  
 __welsh__ _vi_ :smiling_imp:  
-__welt__ _n_  
+__welt__ _n_ :two::hammer:  
 __welter__ _n_  
 __wench__ _n_  
 __werebear__  
@@ -915,9 +931,12 @@ __wring__ _vt_
 __wringer__ _n_ __1__ A person or thing that wrings. __2__ An apparatus for squeezing out liquid, as two rollers through which an article of wet clothing may be squeezed.  
 __writ__ _n_  
 __writhe__ _v_ :three:::hammer: /raɪð/  
+__writhing__ _n_ :two: A twisting struggle.  
 __Xmas__ _n_  
 __yacht<sup>1</sup>__ _n_  
 __yacht<sup>2</sup>__ _vi_ To sail, cruise, or race in a yacht.  
 __yarrow__ _n_ :es: milenrama  
 __yelp__ _n_ :two::hammer:  
+__yelp<sup>1</sup>__ _n_ :two::hammer:  
+__yelp<sup>2</sup>__ _v_  
 __yoga__ _n_ [:scroll: From Hindi yoga, from Sanskrit yoga-s, literally “union, yoking” (with the Supreme Spirit)] _Hatha/Mantra/Karma/Bhakti/Raja/Jnana/Kundalini yoga._  
