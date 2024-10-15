@@ -898,32 +898,6 @@ __vilify__ _vt_ :two::hammer: /VIL-uh-fye/
 __villainy__ _n_ _Luke, you won’t find a more wretched hive of villainy._  
 __virago__ _n_ /vɪˈrɑ goʊ, -ˈreɪ-/  
 __virid__ _adj_ /VIR-id/ Bright green.  
-__visa national__ _n_ A person from a country whose citizens are required to obtain a visa before entering the United Kingdom, regardless of the purpose or duration of their visit.  
-__vociferous__ _adj_ Crying out noisily.  
-__warlock__  
-__way to go__  
-__welsh__ _vi_ :smiling_imp:  
-__welt__ _n_ :two::hammer:  
-__welter__ _n_  
-__wench__ _n_  
-__werebear__  
-__werewolf__  
-__whimper<sup>1</sup>__ _v_  
-__whimper<sup>2</sup>__ _n_  
-__whuffle__ _vi_ To make a low snuffling or blowing sound.  
-__wide-eyed__ _adj_  
-__wiggle__ _v_ /ˈwɪg əl/  
-__wince__ _v_  
-__withdrawal symptom__ _n_ :dart: Any physical or psychological disturbance (as sweating or depression) experienced by a drug addict when deprived of the drug.  
-__withhold__ _v_ :pencil2:  
-__without__ _n_ The outside of a place, area, room, etc. _It was still raining without._ (The phrase “it was still raining without” uses an older or more literary use of the word “without,“ which means “outside.”)  
-__wizardess__ _n_ A female wizard, sorceress, witch.  
-__wobble__ _v_  
-__woe__  
-__woodwork__ _n_ __1__ (Crafts) The art, craft, or skill of making things in wood; carpentry. :es: carpintería __2__ (Building) components made of wood, such as doors, staircases, etc. _Woodwork fascia._  
-__woozy__ _adj_  
-__word-perfect__ _adj_ :two::hammer: _I would know the book word-perfect before we were as far as Exeter._  
-__work camp__ _n_ __1__ A camp for prisoners sentenced to labor, esp. to outdoor labor. __2__ A camp where volunteers, often from religious organizations, work together on community service projects.  
 __worktop__ _n_ :two::hammer:  
 __wrenching__ _adj_ Causing great physical or mental suffering; “a wrenching pain.” _Syn_ racking  
 __wretched__ _adj_ __3__ Despicable, contemptible, or mean: _a wretched miser._ _Luke, you won’t find a more wretched hive of villainy._  
