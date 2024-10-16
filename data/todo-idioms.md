@@ -11,6 +11,7 @@ __(the) top of the line__ The absolute best of a certain thing, often referring 
 __a (whole) host of (something)__  
 __a balancing act__ :dart:  
 __a bum ankle/leg, etc.__ An injured ankle, leg, etc.  
+__a far cry from (something)__  
 __a joy to behold__ A thing, event, or experience that creates a profound sense of joy or elation in the spectator. _The spring flowers in this part of the country are truly a joy to behold._  
 __a laundry list of (something)__  
 __a legend in (one’s) own lifetime__ A person who has an extraordinary level of fame or reputation while they are still alive. _The singer has made such a huge impact on the world of blues that she’s come to be a legend in her own lifetime._  
@@ -22,7 +23,7 @@ __a shiver down (one’s) spine__ A shudder felt down one’s back, due to eithe
 __a stone’s throw__ :two: A very short distance.  
 __a word of warning__ :two: Information about possible danger or trouble.  
 __according to (someone or something)__  
-__ace in the hole__  
+__ace in the hole__ :two::hammer:  
 __across the board__  
 __ahead of (someone or something)__  
 __aid and abet__ To assist someone, usually in a mischievous or illegal activity.  
@@ -35,6 +36,7 @@ __as far as it goes__ As much as something accomplishes, typically with room for
 __as it happens__  
 __as simple (smt?) as it gets__ :dart:  
 __as we speak__ At this very moment.  
+__ask (one) over__  
 __at (the) worst__ (at its very worst) Under the most negative circumstances, estimation, or interpretation: At worst, the storm will make us postpone the trip.  
 __at a moment’s notice__ With little time to prepare; immediately and at any time.  
 __at any rate__ :three::hammer:  
@@ -42,6 +44,7 @@ __at close quarters__
 __at every turn__  
 __at its best__  
 __at the outset__ At the beginning.  
+__at the ready__  
 __at the top of (one’s) voice__ As loudly as one can.  
 __aw shucks__ :dart: __1__ An expression of shyness, happiness, or embarrassment. _A: “You’re just too sweet!” B: “Aw shucks, you’re gonna make me blush.”_ _Aw shucks, it was nothing. I was happy to help._ _Aw shucks, that’s so nice of you to say! Thank you!_ __2__ An expression of disappointment. _Aw shucks, it looks like we’re going to lose the game after all._  
 __back in the saddle__  
@@ -55,6 +58,7 @@ __bargain for (someone or something)__
 __battered__ :dart::astonished: Drunk.  
 __be (as) easy as one-two-three__ To be extremely easy, simple, or intuitive; to require very little skill or effort. (Sometimes used with the numbers spelled out (“one-two-three”) or written numerically (“123” or “1-2-3”).) _After so many years as an accountant, doing taxes is as easy as one-two-three for me._  
 __be at pains__ To put forth effort toward some goal or end.  
+__be at the end of (one’s) rope__ :dart: To be completely worn out, exasperated, or exhausted; to have no more patience, endurance, or energy left.  
 __be chock-a-block__ __1__ To be squeezed or jammed closely together. _So many people wanted to see the show that we were chock-a-block inside the venue._ __2__ To be very full or tightly packed. _Your office is chock-a-block with books and boxes. How do you even move around in here!_ _The restaurant has been chock-a-block with guests all day._ __3__ By extension, to be very busy; to be completely filled or engaged (with something). _Every day of our vacation was chock-a-block with fun activities._  
 __be cocksure of (oneself)__ To be completely certain of oneself or one’s actions, to the point of overconfidence. _You seem pretty cocksure of yourself—do you really know how to handle that machine?_  
 __be left to (one’s) own devices__ To be left unsupervised or uncontrolled; to be allowed to do as one pleases. _My job is really great: I know what I need to work on and am just left to my own devices._  
@@ -68,6 +72,8 @@ __beef up__ To increase something, often in strength. _With all these protestors
 __beg to differ__  
 __behind (one’s) back__ In one’s absence. The phrase typically suggests wrongdoing or deceit. _I can’t believe you were gossiping about me behind my back!_  
 __beyond belief__  
+__beyond the realm(s) of possibility__ Impossible.  
+__beyond/within the realms of possibility__ Impossible/possible: _A successful outcome is not beyond the realms of possibility._  
 __big guns__  
 __birthday suit__  
 __bits and pieces__ Sundry little items, tasks, or chores.  
@@ -108,10 +114,12 @@ __come to terms with (someone or something)__
 __coming-of-age__  
 __contend with (someone or something)__  
 __coochie__  
+__covet__ _v_ _You shall not covet your neighbor’s house; you shall not covet your neighbor’s wife, or anything that belongs to your neighbor._  
 __cranky__ Irritable; in a foul mood.  
 __creeper__  
 __cut and dry__ The “idiom cut and dry” refers to something that is clear, straightforward, and unambiguous. It describes situations, decisions, or outcomes that are easily understood and leave little room for doubt or interpretation.  
 __cut bait__  
+__cut eyes at (someone or something)__ To look at someone or something quickly.  
 __dance on air__ To be extremely happy.  
 __dead__ __5__ Absolutely. _You’d better be dead certain about this decision, because you can’t take it back._  
 __dearth__ _n_ /dɜːθ/  
@@ -133,6 +141,7 @@ __drop in__ To visit someone casually or unexpectedly.
 __drum up__  
 __dry run__ A practice session or test designed to identify and correct possible problems.  
 __dwell (up)on (someone or something)__ :dart:  
+__dyke__  
 __educated guess__ A thoughtful, well-reasoned guess; a guess with some basis in one’s knowledge.  
 __end over end__ The idiom “end over end” describes a motion where an object is rotating forward in a series of flips or somersaults, typically along its longest axis. This is often used to describe how something like a tumbler, a ball, or a vehicle moves when it is flipping through the air or over the ground.  
 __enjoy (oneself)__ To have fun.  
@@ -142,6 +151,7 @@ __face to face__ In direct contact, especially literally standing close together
 __fail to deliver__ A situation in which a buyer, or, more commonly, his/her broker does not receive delivery of the securities he/she bought by the settlement date.  
 __fair enough__  
 __fall off the perch__ _BrE_ _old-fashioned, informal_ (fall off your perch) If someone falls off the perch or falls off their perch, they die. Note: A perch is a pole, branch or other place where a bird sits to rest. _He fell off the perch years ago._ Note: Other verbs such as drop or topple can be used instead of fall. _He’ll topple off his perch one morning. You know how it is._ Note: This expression is used humorously.  
+__famous last words__ A statement or claim that is promptly undone or disproved. This phrase is often humorously or preemptively. A reference to the final words one says before one dies. _A: “I can’t believe the ER has been so quiet today!” B: “Ugh, famous last words for sure.”_  
 __fancy__ _informal_ __2__ To have a desire for (something).  
 __few and far between__ :two::hammer:  
 __figure of speech__ A form of expression in language, either spoken or written, that employs nonliteral meaning, unusual construction, or a particular combination of sounds to emphasize or heighten the rhetorical effect. _Bob: “Does eating an apple a day really keep doctors away from you?” Doug: “Don’t take it so literally, Bob, it’s just a figure of speech.”_  
@@ -167,6 +177,7 @@ __full-fledged__
 __fussbudget__ :dart: _informal_ One who tends to be fussy or particular, usually to an excessive or unnecessary degree. Primarily heard in US. _Don’t be such a fussbudget, huh? This really isn’t a big deal._ _Of course Vanessa found some miniscule issue that no one else would have noticed. She’s such a fussbudget._  
 __gain momentum__ (gather momentum) To move faster. _The wagon gathered/gained momentum as it rolled down the hill._  
 __get (one, something) out of the system__  
+__get (one’s) bearings__  
 __get (something) out of (one’s) system__ __2__ To do something so that one no longer has the desire to do it anymore. _I got drinking and partying out of my system during college. I’m ready for a quieter life now._  
 __get lucky__ :two: __2__ _slang_ To have sex, especially with someone whom one has only just met.  
 __get on famously__ To have an exceptionally good relationship (with someone); to get along very well. _I’m glad you finally got to meet my brother—I knew you two would get on famously._  
@@ -178,6 +189,7 @@ __give (one’s) ground__
 __give (one) a break__  
 __give (one) some slack__  
 __give (one) the green light__ :two::hammer:  
+__give (one) the silent treatment__  
 __give (someone) a lift__  
 __give (someone) an out__ To provide someone with an excuse or a means of escaping (from something).  
 __give a hiding__ The idiom “give a hiding” primarily means to deliver a severe beating or punishment. This usage is particularly common in British English, where it can refer to both physical punishment and a figurative sense of defeat.  
@@ -279,6 +291,7 @@ __in concert with (someone)__ Together with someone; in cooperation with someone
 __in full swing__ :three::hammer:  
 __in hot water__ :dart::two: Having provoked or incited anger, hostility, or punishment against oneself; in a troublesome or difficult situation, especially that which will result in punishment or reprisal. _I was in a bit of hot water with Janice last night when she found out I went to the movies instead of cleaning out the garage._  
 __in its infancy__ In the early, nascent period of development or implementation. (Typically of an area of activity, interest, research, etc.)  
+__in itself__  
 __in jeopardy__ In danger or at risk; imperiled.  
 __in layman’s terms__ :three::hammer:  
 __in less than no time__ (in no time) In a very little amount of time. Very quickly.  
@@ -359,6 +372,7 @@ __jump in__
 __jump ship__ (abandon ship) _Nearly all of (chatbot) Pi’s parent company, Inflection AI, decided to jump ship just 10 months after Pi’s launch._  
 __jungle law__  
 __junkyard dog__ An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase “meaner than a junkyard dog.” _Though he’s always polite when he’s in public, Tiffany’s husband is meaner than a junkyard dog behind closed doors._  
+__just deserts__ :dart::pencil2:  
 __just like that__  
 __just the same (to one)__ Makes no difference one way or another (to one); unimportant (to one) what happens or how. _I’d actually prefer to continue working on a freelance basis, if it’s just the same to you._  
 __keel over__  
@@ -490,6 +504,7 @@ __make (something) clear (to one)__ :two:hammer:
 __make a difference__ :four::hammer:  
 __make a fuss__ :two: To be a nuisance or cause a disturbance by complaining, arguing, etc. (about something).  
 __make a run for (someone or something)__ :two: To run in order to escape something or to reach a destination quickly, perhaps before a certain time or before something happens.  
+__make amends__  
 __make headway__  
 __make inroads (in/into something)__  
 ‌__make it__  
@@ -516,6 +531,7 @@ __monkey__ :dart: __1__ _slang_ A drug addiction. _Did you hear? Pete checked hi
 __mooch off (of) (someone or something)__ To ask for or obtain (something) through the charity of someone or something; to sponge off someone or something else. _My brother has been mooching off me and my wife ever since he lost his job._  
 __more often than not__ :two: Much of the time.  
 __move mountains__ :dart: To do or achieve something that is incredibly difficult.  
+__move on__  
 __move the dial__  
 __move the needle__ _I am concentrating on what moves the needle most._  
 __mug shot__ __1__ An official photograph taken of someone being brought into police custody, usually characterized by the person wearing a grim or blank expression on their face.  
@@ -549,6 +565,7 @@ __no stranger to (something)__
 __no-no__  
 __no-win situation__ :dart: A problem that has no ideal solution.  
 __noblesse oblige__ /noh-BLESS-uh-BLEEZH/ Noblesse oblige refers to the idea that people who have high social rank or wealth should be helpful and generous to people of lower rank or to people who are poor.  
+__nod off__ :dart: To fall asleep, usually briefly or when one does not intend to.  
 __nose-dive__ Take a sudden downtrend.  
 __not a chance__ :dart: (There is) no possibility (that that will happen). _You? Beat me? At ping pong? Not a chance!_  
 __not half bad__ :dart::two: Somewhat satisfactory or good, especially compared to initially low expectations. _I didn’t know what to expect, but these corn dog tacos aren’t half bad!_  
@@ -588,6 +605,7 @@ __on a mission__ :three::hammer:
 __on a roll__  
 __on a second thought__ An idiomatic expression that means to reconsider or reevaluate something after initial consideration. It implies that one has had a change of mind or a new perspective after giving more thought to a particular issue or decision.  
 __on a whim__  
+__on and off__  
 __on paper__ __2__ Hypothetically or in theory.\_ It’s a good idea on paper, but I don’t think it would work in a real-world environment.\_  
 __on par (with someone or something)__  
 __on the back burner__ Of a low priority; given less or little thought or attention; postponed or suspended.  
@@ -665,6 +683,7 @@ __roast__
 __roll with the punches__  
 __rolling stone__  
 __round and round__ :two::hammer: (around and around)  
+__rubberneck__  
 __rue the day (that something happened)__ :two: To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
 __rule of law__  
 __rules of the road__  
@@ -676,6 +695,7 @@ __rush into (something)__
 __same old same old__ :two::hammer:  
 __same shit, new wrapping__ Colloquial expression that conveys the idea that something has been superficially changed or repackaged but remains fundamentally the same. It suggests that despite appearances, the underlying issues or qualities have not been altered.  
 __save (one’s) bacon__  
+__scare the crap out of (one)__ _rude slang_ To shock or frighten one very suddenly or severely. Hyperbolically alludes to frightening one so badly as to cause them to lose bowel control.  
 __scheme for (something)__ To form or contrive a secret or devious plan or conspiracy in order to obtain, achieve, or accomplish something. _We spent the afternoon scheming for a way to get into the elite Hollywood party so we could meet some celebrities._  
 __scrape by__  
 __see (one) in the flesh__ To see one in person who is usually only seen at a distance, especially through a medium such as film, music, theater, etc. _After years of idolizing the singer, it was a bit anticlimactic seeing her in the flesh._  
@@ -702,6 +722,7 @@ __show time__
 __shrink from (someone or something)__ :dart: __1__ To recede or recoil from someone or something. _The way the gums are shrinking from your teeth is a clear sign of gingivitis._ _The child shrank from the men as they approached the house._ __2__ :dart: To avoid or neglect some action, duty, or responsibility. _You wanted to lead this branch, which means you can’t shrink from the thornier aspects of the job._  
 __shuffle off__  
 __shut out__  
+__shy away (from someone or something)__  
 __single file__ A line of things or people, one person or one thing wide. _Please get into single file._ _You have to march single file._  
 __single out__  
 __sit still (for something)__ __2__ To fail or choose not to act in response to something; to endure or tolerate something passively or submissively. _I couldn’t just sit still for condescending, hypocritical remarks, so I gathered my things and walked right out of the building._  
@@ -717,6 +738,7 @@ __slip up__ __1__ _v_ To blunder; to make a mistake or an error. _I think I slip
 __slippery path__ A situation or course of action that is fraught with difficulties, risks, or potential negative consequences.  
 __slowly and surely__  
 __small print__ (fine print) An important part of a document that is not easily noticed because of the smallness of the printing. _You should have read the small print before signing the contract._  
+__smarty-pants__  
 __smell a rat__ To suspect an instance of betrayal, deception, or corruption.  
 __snatch (someone) from the jaws of death__ To rescue someone at the last moment from near or certain death.  
 __snazzy__ Particularly elegant, dazzling, classy, or fancy in appearance. _Wow, that’s a snazzy new suit you’ve got on! Big meeting today or something?_ _She runs one of the snazziest clubs in town._  
@@ -742,11 +764,13 @@ __stands to reason__
 __start the ball rolling__ To set something, often a process, in motion; to begin.  
 __step in__ To enter into some position, activity, or situation to intervene or improve it.  
 __stick around__ To remain or linger in one location; to not leave or abandon (someone or something). _Hey, stick around for a minute, I need to talk to you._  
+__stir-crazy__ Acutely restless, irritable, or anxious from remaining for too long in an isolated, confined, or unstimulating environment. “Stir” in this usage is a slang word for prison. _We thought taking our family vacation in a tiny cottage out in the country would be a nice break from city life, but we all went a bit stir-crazy after a few days._  
 __stone dead__ Dead; unquestionably dead; long dead. _The cat was stone dead and stiff as a board by the time we got to him._  
 __strike (one) dead__  
 __strike a (raw) nerve__  
 __take heart (from something)__ To receive courage or comfort from some fact. _I hope that you will take heart from what we told you today. Even though you did not win the race, take heart from the fact that you did your best. I told her to take heart and try again next time._  
 __take heart__ To have one’s confidence, courage, or happiness bolstered (by something). _We may have lost the election, but we take heart in the fact that so many young people are now engaged and excited about politics._  
+__take the fall (for someone or something)__  
 __take umbrage__  
 __tell me about it__  
 __that does the trick__ That is all that was remaining or required to accomplish something. _There, that does the trick. The engine should be as good as new, now!_  
