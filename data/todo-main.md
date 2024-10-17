@@ -294,31 +294,6 @@ __heady__ _adj_
 __hearth__ _n_ The floor of a fireplace, usually extending into a room and paved with brick, flagstone, or cement. _Syn_ fireside  
 __heat index__ _n_  
 __heath__ _n_  
-__heathen<sup>1</sup>__ _n_ :three: __1__ _Offensive_ __a__ An adherent of a religion that does not worship the God of Judaism, Christianity, or Islam. _Heathens like me._ __b__ Such persons considered as a group.  
-__heathen<sup>2</sup>__ _adj_  
-__heavy-set__ _adj_ (of a person) Having a large build.  
-__hefty__ _adj_ :two::hammer:  
-__hellion__ _n_ A mischievous, troublesome, or unruly person. _Syn_ devil, heller  
-__hemophilia__ _n_ (haemophilia) A tendency to uncontrolled bleeding.  
-__hemophiliac__ _n_ /ˌhi məˈfɪl iˌæk/ A person who has hemophilia.  
-__herald__ _v_ /HAIR-uld/ _Herald_ is a verb meaning “to give notice of”; it is synonymous with _announce_, _publicize_, and _foreshadow_. _Herald_ may also mean “to greet especially with enthusiasm.”  
-__hiking__ _n_  
-__hiss__ _v_ :three::hammer:  
-__hissing__ _n_ A fricative sound (especially as an expression of disapproval); _the performers could not be heard over the hissing of the audience._ _Syn_ fizzle, hiss, hushing, sibilation  
-__history__ _n_ :mega:  
-__hitherto__ _adv_ :two: Until this time.  
-__hoax__ _n_  
-__hokey__ _adj_ _Hokey accent._  
-__holdall__ _n_  
-__holidaymaker__ _n_ _Chiefly British_ One who goes on vacation. Someone who travels for pleasure. _Syn_ tourer, tourist  
-__holistic__ _adj_  
-__holystone__ _n_ A piece of soft sandstone used for scouring the wooden decks of a ship.  
-__honeybee__ _n_ /ˈhʌnɪˌbiː/  
-__hookah__ _n_ (hooka) A water pipe with a long flexible tube by which the smoke is drawn through a jar of water and thus cooled.  
-__hoopla__ _n_ /HOO-plah/ _Hoopla_ refers to talk or writing that is designed to get people excited about or interested in something, often with the implication that the person using the word does not find the thing exciting or interesting.  
-__hoot<sup>1</sup>__ _vi_  
-__hoot<sup>2</sup>__ _vt_ __1__ To shout down or drive off with jeering cries: _hooted the speaker off the platform._ __2__ To express or convey by hooting: _hooted their disgust._  
-__hoot<sup>3</sup>__ _n_ __2__ A cry of scorn or derision.  
 __hoover__  
 __horse brass__ _n_ :camera: A decorative brass ornament, usually circular, originally attached to a horse’s harness.  
 __hotplate__ _n_ :two::hammer:  

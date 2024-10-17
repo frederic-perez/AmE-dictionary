@@ -8941,8 +8941,8 @@ __heat > to catch a lot of heat__
 __heat pump__ _n_  
 __heatedly__ _adv_ _Clashed heatedly._  
 __heath__ _n_ :two::hammer: _Heath land._  
-__heathen<sup>1</sup>__ _adj_  
-__heathen<sup>2</sup>__ _n_ :five::hammer: _They were declared guilty of heathen practice._ :es: pagano  
+__heathen<sup>1</sup>__ _n_ :eight: __1__ _Offensive_ __a__ An adherent of a religion that does not worship the God of Judaism, Christianity, or Islam. _Heathens like me._ __b__ Such persons considered as a group. _They were declared guilty of heathen practice._ :es: pagano  
+__heathen<sup>2</sup>__ _adj_  
 __heathenish__  
 __heathenism__  
 __heather__ _n_ :three::hammer: _Heather-filled moors._ :es: brezo  
@@ -8956,6 +8956,7 @@ __heavy bag__ _n_ _boxing_
 __heavy water__ _n_ Water containing a substantial proportion of deuterium atoms, used in nuclear reactors.  
 __heavy-duty__ _adj_ :three::hammer: _Heavy-duty stapler._  
 __heavy-handed__  
+__heavy-set__ _adj_ (of a person) Having a large build.  
 __hebdomadal__ _adj_ /heb-DOM-uh-duhl/ [:scroll: From Latin hebdomas, from Greek hepta (seven).] Weekly. A rare word for weekly. _A hebdomadal journal._  
 __hecatombs__  
 __heckle__ _vt_ :five::hammer: (heckled)  
@@ -8981,7 +8982,7 @@ __Hefe Weizen__ _n_ :three: Wheat beer.
 __heft<sup>1</sup>__ _n_ :three::hammer:  
 __heft<sup>2</sup>__ _v_ (hefted) _He hefted the cube experimentally._  
 __hefted up__  
-__hefty__ _adj_ :two::hammer:  
+__hefty__ _adj_ :four::hammer:  
 __hegemony__ _n_ :two: /hih-JEM-uh-nee/ Hegemony refers to influence or control over another country, group of people, etc. The predominant influence, as of a state, region, or group, over another or others. _Syn_ domination _Many great works of art were created during the hegemony of Athens in Greece._  
 __hegira__ _n_  
 __heifer__ _n_ :two: A young cow that has not given birth to a calf.  
@@ -9008,7 +9009,7 @@ __hell__ _n_ :two: __7__ _informal_ __a__ An outstanding or noteworthy example: 
 __Hell’s Kitchen__ _n_  
 __hellbent__ _adj_ :four::hammer: (hell-bent)  
 __hellbound__ _adj_ Bound for Hell; damned.  
-__hellion__ _n_ A mischievous, troublesome, or unruly person.  
+__hellion__ _n_ :two: A mischievous, troublesome, or unruly person. _Syn_ devil, heller  
 __hellish__ _adj_  
 __hellscape__ _n_ An extremely unpleasant place or scene. _A war-torn hellscape._  
 __helluva__ _adj, adv_ _A helluva year._  
@@ -9033,6 +9034,8 @@ __hemming__
 __hemodynamic__ _adj_  
 __hemoglobin__ _n_ _Super hemoglobin extracted from marine arenicolous._  
 __hemolysis__ _n_ The destruction or dissolution of red blood cells, with subsequent release of hemoglobin.  
+__hemophilia__ _n_ (haemophilia) A tendency to uncontrolled bleeding.  
+__hemophiliac__ _n_ /ˌhi məˈfɪl iˌæk/ A person who has hemophilia.  
 __hemostasis__ _n_ (hemostasia, haemostasia) The stoppage of bleeding or cessation of the circulation of the blood; stagnation of the blood in a part of the body.  
 __hemp__ _n_ :five::hammer: _Hemp plant._ :es: cáñamo  
 __hence__ _adv_  
@@ -9042,7 +9045,7 @@ __henna__
 __henpeck__ _vt_ /HEN-pek/ [:scroll: The word hen has been used for a woman or a girl for a long time (1555). So has the verb peck for nagging (1641).] To criticize, nag, pester, etc. in a persistent manner. The word is often used in reference to a wife nagging her husband. A henpecked husband is one considered subservient to his wife and a chickenpecked parent is one nagged, harassed, or bullied by a child. _Syn_ carp at, fuss at, nag, peck at, pick on  
 __Henrietta Lacks__ _n_  
 __Henry__ _adj_ (urban dictionary) Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
-__herald__ _vt_ :nine::m::mega: /HAIR-uld/ (heralded) __1__ To proclaim, especially with enthusiasm; announce or acclaim: _cheers that heralded the team’s arrival._ _The community heralded his work._ _They have a heralded arrival to Coney Island on the “bus of champions.”_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
+__herald__ _vt_ :nine::m::mega: /HAIR-uld/ (heralded) __1__ _Herald_ is a verb meaning “to give notice of”; it is synonymous with _announce_, _publicize_, and _foreshadow_. _Herald_ may also mean “to greet especially with enthusiasm.” To proclaim, especially with enthusiasm; announce or acclaim: _cheers that heralded the team’s arrival._ _The community heralded his work._ _They have a heralded arrival to Coney Island on the “bus of champions.”_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
 __herd immunity__ _n_  
 __herdsman__ _n_  
 __here’s looking at you__  
@@ -9130,6 +9133,7 @@ __hijinks__ _n_ :two: Noisy and mischievous merrymaking. _Syn_ high jinks, high 
 __hike<sup>1</sup>__ _n_ :four::hammer: _A hike in base wages._  
 __hike<sup>2</sup>__ _v_ :two::hammer: _Hiked prices._  
 __hiker__ _n_ :two::hammer:  
+__hiking__ _n_  
 __hilarious__ _adj_ Very funny.  
 __hilarity__ _n_ Great merriment. _Syn_ glee, mirthfulness  
 __Hillary__ _n_ /ˈhɪl ə ri/  
@@ -9155,10 +9159,13 @@ __hires__ _n_
 __hirsute__ _adj_ :three: /ˈhɜr sut, hɜrˈsut/ /HER-soot/ Covered with hair; hairy. _Syn_ hairy _The hirsute man used to joke that he looked like a grizzly bear._  
 __hirsutism__  
 __His Majesty the Sultan__  
+__hiss__ _v_ :three::hammer:  
+__hissing__ _n_ A fricative sound (especially as an expression of disapproval); _the performers could not be heard over the hissing of the audience._ _Syn_ fizzle, hiss, hushing, sibilation  
 __hissy__ _n_ _Hissy fit._  
 __histamine__ _n_  
 __historic__ _adj_  
 __historical__ _adj_  
+__history__ _n_ :mega:  
 __histrionic__ _adj_ :two: Deliberately affected; overly dramatic or emotional.  
 __histrionics__ _n_ Theatrical arts or performances. _Syn_ theatrical performance, representation _They had lunch, then went to the theater to enjoy an hour of histrionics._  
 __hit man__  
@@ -9170,7 +9177,8 @@ __hit the sack__
 __hitch<sup>1</sup>__ _n_ :four::hammer: _There was only a little hitch in this process to get their cash._ _The whole system works without a hitch._ _I hope the day goes without a hitch._  
 __hitch<sup>2</sup>__ _v_ _Their clubs had hitched their wagons to the right horse._  
 __hither__ _adv_ :three::hammer: _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._  
-__hitherto__ _adj, adv_ :seven::hammer:  
+__hitherto<sup>1</sup>__ _adv_ :nine: Until this time.  
+__hitherto<sup>2</sup>__ _adj_  
 __hitman__ _n slang_  
 __hive__ _n_ :two::hammer: (hives) _A hive of art in the center of downtown._ _Allergic reactions include rash, hives, and swelling of the face._  
 __HMOs__  
@@ -9181,6 +9189,7 @@ __hoard__ _v_
 __hoarding__ _n_ :two::hammer:  
 __hoarsely__  
 __hoary__ _adj_ :three::hammer:  
+__hoax__ _n_  
 __hobble<sup>1</sup>__ _v_ :nine::m: (hobbled, hobbling) __1__ To fetter by tying the legs; to restrict (a horse) with hobbles. __2__ To walk lame, or unevenly. _He hobbled on a sore ankle._ __3__ _(figuratively)_ To move roughly or irregularly. _A few shops were hobbled in 2015._  
 __hobble<sup>2</sup>__ _n_  
 __hobbledehoy__ _n_ An awkward, gawky young man.  
@@ -9205,7 +9214,7 @@ __hogwash__ _n_ :four: Worthless, false, or ridiculous speech or writing; nonsen
 __hoist<sup>1</sup>__ _n_ :two::hammer: :es: montacargas  
 __hoist<sup>2</sup>__ _v_ :four::hammer: (hoisted) :es: alzar  
 __hoity-toity__ _adj_ /hoy-tee-TOY-tee/ _The guidance counselor emphasized that students do not need to go to a hoity-toity college to achieve success._  
-__hokey__ _adj_ :two::hammer: _It may sound hokey._  
+__hokey__ _adj_ :three::hammer: _It may sound hokey._ _Hokey accent._  
 __hokum__ _n_ :five: __1__ Utter nonsense; bunkum. _Starry _Love the Coopers_ is a bunch of ho-ho-hokum._  
 __hold a referendum__  
 __hold back__ _v_ :three::hammer: _Yew root would help a pregnant woman to hold back her fetus._  
@@ -9220,7 +9229,7 @@ __hold up__ _phr v_ :two: Wait or delay. _Hold up a minute. I want to check some
 __hold water__  
 __hold<sup>1</sup>__ _v_ :three::hammer: _Declare the rightful winner, or hold a new Election, now._ _They hold a particular view._ __3d__ To have in store: _Let’s see what the future holds._  
 __hold<sup>2</sup>__ _n_ _The hold has a different cargo now._  
-__holdall__ _n_  
+__holdall__ _n_ :two::hammer:  
 __holder__ _n_ :two::hammer:  
 __holding sway__  
 __holdings__ _n_  
@@ -9231,6 +9240,7 @@ __hole in one__ _n_ The driving of a golf ball from the tee into the hole in a s
 __hole up__ _v_ :two::hammer: (holed up)  
 __hole-in-the-wall__ _n_ A small unpretentious out-of-the-way place. _His office was a hole-in-the-wall._  
 __Holi__ _n_ _(Hinduism)_ A Hindu spring festival, celebrated for two to five days, commemorating Krishna’s dalliance with the cowgirls. Bonfires are lit and coloured powder and water thrown over celebrants. Named after _Holika_, legendary female demon.  
+__holidaymaker__ _n_ _Chiefly British_ One who goes on vacation. Someone who travels for pleasure. _Syn_ tourer, tourist  
 __holistay__ _n_ The British English version of _staycation_.  
 __holistic__ _adj_ :nine::m: __1__ Based on the idea that you should take care of your whole body and mind, rather than just treating a part of the body that is ill. _A holistic approach to cancer._ __2__ Thinking about the whole of something, and not just dealing with particular aspects. _A holistic approach to the region’s development._  
 __holler__ _v_ :eight: __1__ To yell or shout. _Hooting and hollering is encouraged._ __2__ _informal_ To complain. _What was he hollering about?_  
@@ -9245,6 +9255,7 @@ __Holy See__ _n_ :two: The see of the pope. :es: Santa Sede
 __Holy Sepulcher__ _n_ The sepulcher in which Christ’s body lay between burial and resurrection.  
 __Holy Week__ _n_ The week before Easter. Also called _Passion Week._  
 __Holy Writ__ _n_  
+__holystone__ _n_ A piece of soft sandstone used for scouring the wooden decks of a ship.  
 __homage__ _n_ :four: /ˈhɒm ɪdʒ, ˈɒm-/ /AH-mij/ __1__ Formal acknowledgment by a vassal of allegiance to his lord under feudal law. __2__ Respect; reverence: _to pay homage to one’s forebears._ An homage is something that is done to honor someone or something. It is often used with the word pay (as in “pay homage”) to mean “to respect or honor.”  
 __hombre__ _n_ _informal_ :two: An informal term for a youth or man. A man; a fellow.  
 __home furnishing__ _n_  
@@ -9283,6 +9294,7 @@ __honcho__ _n_ :four::hammer: (honchos)
 __hondo__ _n_ One hundred. _I got this bycicle for a hondo._  
 __hone__ _v_ _Visitors can hone their skills on classic games._  
 __honest__ _adj_ :two::mute:[~~h~~onest]:hammer: _Syn_ straight, frank, blunt, sincere, up front  
+__honeybee__ _n_ /ˈhʌnɪˌbiː/  
 __honeycomb<sup>1</sup>__ _n_ _The legs had honeycomb aluminum shock absorbers to soften the landing._  
 __honeycomb<sup>2</sup>__ _v_  
 __honeymoon__ _n_  
@@ -9305,14 +9317,14 @@ __hoodwink__ _v_ :four: /HOOD-wink/ To deceive or trick someone. _The salesperso
 __hoofer__  
 __hoofprint__ _n_ (hoofprints)  
 __hook up__  
-__hookah__ _n_  
+__hookah__ _n_ :two: (hooka) A water pipe with a long flexible tube by which the smoke is drawn through a jar of water and thus cooled.  
 __hooked__ _adj_ _slang_ Addicted; to like something so much that you need it every day.  
 __hookup__ _n_ :two::hammer: _Hookups for RVs._  
 __hooky__ _n_ _informal_ Absence without leave; truancy: _play hooky from school._ Failure to attend (especially school). _A kid playing hooky._  
 __hooly__ _adj_ Careful or gentle.  
 __hoop dress__  
 __hoop__ _v_  
-__hoopla__ _n_ :four: __2__ _slang US and Canadian_ Noise; bustle, __3__ _slang US_ Nonsense; ballyhoo (sensational or clamorous advertising or publicity). _The hype and hoopla that goes with her first All-Star game._ :es: alboroto  
+__hoopla__ _n_ :five: /HOO-plah/ __2__ _slang US and Canadian_ Noise; bustle, __3__ _slang US_ Nonsense; ballyhoo (sensational or clamorous advertising or publicity). _Hoopla_ refers to talk or writing that is designed to get people excited about or interested in something, often with the implication that the person using the word does not find the thing exciting or interesting. _The hype and hoopla that goes with her first All-Star game._ :es: alboroto  
 __hoops__ _n_ _slang_ :two: The game of basketball. _Can you play hoops?_  
 __hoopster__ _n_ A basketball player.  
 __Hooray Henry__ _n_ /hoo-ray HEN-ree/ (Hooray Henrietta) A young, upper-class man who behaves in a loud, obnoxious, and often pretentious manner.  
@@ -9320,7 +9332,7 @@ __hoosegow__ _n_ :astonished: (hoosgow) _US_ A slang word for jail. The term was
 __Hoosiers__  
 __hoot<sup>1</sup>__ _vi_ :nine::m: __1__ To utter the characteristic cry of an owl. __2__ To make a loud raucous cry, especially of derision or contempt.  
 __hoot<sup>2/sup>__ _vt_ :nine::m: __1__ To shout down or drive off with jeering cries: _hooted the speaker off the platform._ _The driver of the car behind hooted again._ _Hooting and hollering is encouraged._ _Cats hooting._ __2__ To express or convey by hooting: _hooted their disgust._  
-__hoot<sup>3</sup>__ _n_ :three: __3__ _informal_ One that is hilariously funny: _“Emmett, that skirt is a hoot!” (Bobbie Ann Mason)._ _You know, it’s a hell of a hoot._  
+__hoot<sup>3</sup>__ _n_ :four: __2__ A cry of scorn or derision. __3__ _informal_ One that is hilariously funny: _“Emmett, that skirt is a hoot!” (Bobbie Ann Mason)._ _You know, it’s a hell of a hoot._  
 __hootenanny__ _n_  
 __hoover<sup>1</sup>__ _n_ /HOO-vuhr/ [:scroll: After the industrialist William Henry Hoover (1849-1932).] A vacuum cleaner.  
 __hoover<sup>2</sup>__ _vt_ __1__ _informal_ To clean, especially with a vacuum cleaner. __2__ _slang_ To consume entirely; devour. Often used with _up_ or _down_. To consume or acquire quickly, eagerly, or in large amounts.  
