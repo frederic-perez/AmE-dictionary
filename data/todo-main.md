@@ -1,11 +1,14 @@
 __A pager__ _n_ A simple wireless communications device that receives text messages or alerts.  
 __ablutions__ _n pl_  
+__abound__ _vi_  
+__accoutrement__ _n_  
 __acerbic__ _adj_ Sharp or biting, as in character or expression. _Syn_ blistering, caustic, acid, vitriolic, acerb, acrid, sulfurous, virulent, bitter  
 __adversary__ _n_ :mega: /ˈæd vərˌsɛr i/ /ˈædvəsərɪ/ /AD-ver-sair-ee/ _Adversary_ is an enemy or opponent.  
 __affect__ _v_ :three::hammer:  
 __alleyway__ _n_ A narrow passage between buildings.  
 __androgenic__ _adj_ /an-druh-JEN-ik/ __1__ Relating to the development of male characteristics. __2__ Having origin in the male sex.  
 __androgyny__ _n_ [:scroll: From Greek andro- (man) + -gune (woman)] Showing characteristics of both sexes. _Syn_ bisexuality, hermaphroditism  
+__anguish__  
 __approbation__ _n_ /ap-ruh-BAY-shun/ Approbation is a formal word that refers to praise or approval.  
 __archway__ _n_ :es: pasaje abovedado  
 __armistice__ _n_  
@@ -19,6 +22,7 @@ __assess__ _vt_ :es: evaluar; calcular
 __attractant__ _n_ A substance, such as a pheromone, that attracts insects or other animals.  
 __attritional__ _adj_ :dart: Relating to or caused by attrition. _Attritional battles._  
 __au pair__ _n_ A young foreigner who provides childcare for a family in exchange for room and board, often a small stipend, and the opportunity to study.  
+__auburn__  
 __audacity__ _n_ :dart: Fearless daring; intrepidity. _Syn_ temerity  
 __avatar__ _n_ :mega: /AV-uh-tar/ /ˈæv əˌtɑr, ˌæv əˈtɑr/  
 __avenge__ _v_  
@@ -30,10 +34,13 @@ __bardolatry__ _n_ [:scroll: Coined by George Bernard Shaw from bard (poet) + -l
 __bark__ _v_ __2__ To rub off the skin of; abrade: _barked my shin on the car door._  
 __barrow__ _n_ __1__ A handbarrow. __2__ A wheelbarrow.  
 __batter__ _v_ :two: __1a__ To hit heavily and repeatedly with violent blows. _Syn_ beat __b__ To subject to repeated beatings or physical abuse.  
+__beady__  
+__bedraggled__ _adj_ /bɪˈdræɡəld/ __1__ 1. Wet, drenched, or messy: _bedraggled clothes._ (of hair, clothing, etc) Limp, untidy, or dirty, as with rain or mud. __2__ Being in a condition of deterioration; dilapidated: _a street of bedraggled tenements._  
 __bedroll__ _n_ /ˈbɛdˌrəʊl/ A portable roll of bedding, such as a sleeping bag, used esp for sleeping in the open.  
 __bedsit__ _n_ A furnished sitting room containing sleeping accommodation and sometimes cooking and washing facilities. :es: estudio amueblado, habitación amueblada _Syn_ bedsitter, bedsitting room, bed-sitting room  
 __bedstead__ _n_ The framework of a bed supporting the springs and a mattress.  
 __bell boot__ _n_  
+__bellow__ _n_  
 __bemoan__ _vt_ :es: lamentar  
 __berate__ _v_ /bih-RAYT/ To _berate_ someone is to angrily scold or criticize them, often loudly and at length.  
 __beseech__ _v_ :es: suplicar  
@@ -46,6 +53,7 @@ __birch tree__
 __bleak__ _adj_  
 __blithely__ _adv_ In a joyous manner.  
 __blood sport__ _n_ Any sport involving killing or the shedding of blood, as bullfighting, cockfighting, or hunting. Any sport involving the killing of an animal, esp hunting.  
+__bloodletting__ _n_  
 __blueberry cobbler__  
 __bluebird__ _n_  
 __board__ _v_ __17__ To furnish with meals, or with meals and lodging, esp. for pay.  
@@ -54,15 +62,20 @@ __bobbin__ _n_ A cylinder or cone for holding thread; a spool or reel.
 __bog__ _n_ _A cow grazing in a bog._  
 __boiler suit__ _n_ _BrE_ A one-piece work garment consisting of overalls and a shirt top usually worn over ordinary clothes to protect them.  
 __bollock__ _vt_  
+__brandish__ _v_  
 __brethren__ _n_ :dart: __1__ A plural of brother.  
 __bribe__ _n_ :smiling_imp:  
+__bub__ _n slang_ :dart:  
+__buckle__ _v_  
 __bumbling__ _adj_  
 __burin__ _n_  
 __burl__ _vt_  
 __burn (someone or something) to a crisp__  
+__burrow__ _v_  
 __bursary__ _n_ :two::hammer:  
 __bustle__ _n_  
 __buzz cut__ _n_ :dart: A closely cropped haircut.  
+__bystander__ _n_  
 __byword__ _n_ _Syn_ adage, aphorism, maxim, motto, proverb, saw, saying  
 __Byzantine__ _adj_ /BIZ-un-teen/  
 __cad__ _n informal_ _old-fashioned_ _Brit_ A man who does not behave in a gentlemanly manner towards others.  
@@ -79,6 +92,7 @@ __close to one’s chest__
 __close-knit__ _adj_ Held tightly together, as by social or cultural ties: _a close-knit family._  
 __clued up__ _adj_ _BrE_ _informal_ Knowledgeable about a topic or situation; possessing the facts. :es: al tanto (de), al corriente (de)  
 __compelling__ _adj_  
+__contemptuous__  
 __copperas__ _n_ /ˈkɒpərəs/ A less common name for ferrous sulphate.  
 __coriander__ _n_ :es: cilantro  
 __cornices__ _n_ :two::hammer:  
@@ -144,6 +158,7 @@ __endure__ _v_ _I could hardly even endure my own reflection in the mirror._
 __enlightened__ _adj_ _Enlightened despot._  
 __ensconce__ _v_  
 __entanglement__ _n_ /ɛnˈtæŋ gəl mənt/  
+__entrenched__ _adj_ __1__ Established firmly and securely. _The entrenched power of the nobility._  
 __epaulettes__ _n_  
 __épée__ _n_ /ˈɛpeɪ; _French_ epe/ (epee) :es: espada de esgrima  
 __Equity__ _n_ :astonished: /ˈɛkwɪtɪ/ _Theatre_ The actors’ trade union. Full name: Actors’ Equity Association  
@@ -393,6 +408,7 @@ __lip liner__ _n_ (lip liner)
 __lipoma__ _n_ A benign tumor composed chiefly of fat cells.  
 __lipomatous__ _adj_ Relating to a lipoma. _Lipomatous metaplasia._  
 __listless__ _adj_ Marked by low spirits; showing no enthusiasm. _Syn_ dispirited  
+__literacy__ _n_ /ˈlɪt ər ə si/  
 __litigation__ _n_  
 __Little Red Riding Hood__ _n_ A girl in a fairy tale who meets a wolf while going to visit her grandmother.  
 __livid__ _adj_ __3__ _informal_ Angry or furious.  
@@ -516,10 +532,12 @@ __nudge__ _vt_
 __nursing__ _n_ __1__ The profession of a nurse. __2__ The tasks or care of a nurse.  
 __nurture__ _n, vt_  
 __nuzzle__ _v_  
+__oblige__ _vt_  
 __obsequious__ _adj_  
 __occasion__ _n_ :three::hammer::pencil2:  
 __occasionally__ _adv_ :pencil2: Now and then; from time to time.  
 __occultism__ _n_  
+__odalisque__ _n_ (odalisk) A female slave or concubine.  
 __oddment__ _n_  
 __off-limits__  
 __off-putting__ _adj_ :dart: Provoking uneasiness, dislike, annoyance, or repugnance. Tending to disconcert or repel: _was rankled by the off-putting remarks._  
@@ -582,6 +600,7 @@ __phony__ _adj_
 __pickeball__ _n_  
 __picket fence__ _n_  
 __pig Latin__ _n_  
+__pilfer__ _v_  
 __pillbox__  
 __pillion passenger__ _n_ _Brit_ A person who travels in a seat or place behind the rider of a motorcycle, scooter, horse, etc. _As a learner rider you must not carry a pillion passenger._  
 __pillion__ _n_ A seat or place behind the rider of a motorcycle, scooter, horse, etc.  
@@ -711,6 +730,7 @@ __road rash__ _n_ An abrasion on some area of one’s skin resulting from fallin
 __roar__ _n_  
 __roil__ _v_  
 __rotund__ _adj_ __1__ Rounded in figure; plump. _Syn_ fat  
+__rotunda__ _n_ :two::hammer:  
 __rue__ _v_ /ROO/ To _rue_ something is to feel penitence, remorse, or regret for it. _Rue_ is often used in the phrase “rue the day.” _I rue the day I signed that infernal contract._  
 __ruff__ _n_ (Clothing & Fashion)  
 __rundown__ _n_ :two: __1__ A point-by-point summary.  
@@ -724,6 +744,7 @@ __saunter__
 __scamper__ _vi_  
 __sconce__ _n_ __1__ A small defensive earthwork or fort.  
 __scowl__ _v_  
+__scrub nurse__ _n_ A specially trained nurse who directly assists a surgeon during an operation.  
 __scuffle__ _v_  
 __scullery__ _n_ /ˈskʌl ə ri, ˈskʌl ri/  
 __scuttle__ _vi_ To run or move with short hurried movements; scurry.  
@@ -814,6 +835,7 @@ __subcontinent__ _n_
 __subdural__ _adj_ Located or occurring beneath the dura mater: _subdural space; a subdural hematoma._  
 __succinctly__ _adv_ With concise and precise brevity; to the point. _Syn_ compactly  
 __succor__ _n_ /SUCK-er/ _Succor_ is a literary term meaning “something that you do or give to help someone who is suffering or in a difficult situation.”  
+__suffocate__ _v_  
 __Sufism__ _n_ The beliefs and practices of an ascetic, retiring, and mystical sect in Islam.  
 __sultry__ _adj_ __3__ Displaying or suggesting passion; sensual: _sultry eyes._  
 __sumac__ _n_ :three::hammer:  
@@ -842,6 +864,8 @@ __tendril__ _n_ :es: zarzillo
 __thanatopsis__ _n_ /than-uh-TOP-sis/ [:scroll: From Greek thanatos (death) + -opsis (appearance, view)] A reflection upon death.  
 __the nuts and bolts__  
 __thence__ _adv_ From that place; from there. _Syn_ therefrom _The train went south into Switzerland and thence on to Italy._  
+__thromboembolism__ _n_  
+__thrombosis__ _n_  
 __thrum__ _v_  
 __thunk__ _n_  
 __tire iron__ _n_ :two: A short length of steel with one end flattened to form a blade, used to remove tires from wheel rims.  
