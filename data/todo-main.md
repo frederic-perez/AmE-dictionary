@@ -318,31 +318,6 @@ __huddle__ _v_
 __huff__ _v_  
 __humdrum<sup>1</sup>__ _adj_ Lacking variety or excitement. _Syn_ dull  
 __humdrum<sup>2</sup>__ _n_ A monotonous routine, task, or person.  
-__hurtle__ _v_ :five::hammer:  
-__husk__ _n_ /hʌsk/  
-__hypnotic__ _adj_ Attracting and holding interest as if by a spell. _Syn_ mesmeric, mesmerizing, spellbinding  
-__ideophone__ _n_ /ID-ee-uh-fon/ A vivid, evocative word that depicts sensory experiences. [Note: While onomatopoeia relates to sound (e.g., gnar), ideophones encompass a wider array of senses, including color, action, smell, and movement. Examples: shimmer and zig-zag.]  
-__idiosyncrasy__  
-__idle__ _v_  
-__ignoble__ _adj_ Not of the nobility; common. _Syn_ ungentle, untitled  
-__ignoramus__ _n_  
-__ilk__ _n_ /ILK/ _Ilk_ is a noun that means “sort” or “kind.” It is usually used in short phrases with and or of, as in “and that ilk” and “of their ilk.”  
-__illicit__ _adj_ /ɪˈlɪsɪt/  
-__imitative__ _adj_ (Of words) Formed in imitation of a natural sound. _Syn_ echoic, onomatopoeic  
-__immiseration__ _n_ /i-miz-uh-RAY-shuhn/ __1__ The act of making miserable or the state of being made miserable. __2__ Impoverishment.  
-__impending__ _adj_ About to happen; imminent.  
-__impish__ _adj_ Naughtily or annoyingly playful. _Syn_ arch, mischievous, pixilated, prankish, puckish, wicked  
-__imprisonment__ _n_ :pencil2: Putting someone in prison or in jail as lawful punishment.  
-__impugn__ _v_ /im-PYOON/ To impugn something, such as a person’s integrity, judgment, etc., is to attack or oppose it as false or lacking integrity.  
-__indict__ _v_  
-__indictment__ _n_  
-__ineffable__ _adj_ Incapable of being expressed. _Syn_ indescribable, unspeakable, untellable, unutterable, indefinable  
-__inerrant__ _adj_ Incapable of erring. _Syn_ infallible  
-__ingenuous__ _adj_ Lacking in cunning, guile, or worldliness. _Syn_ artless  
-__iniquitous__ _adj_ :smiling_imp: /ɪˈnɪk wɪ təs/ Characterized by iniquity; wicked; sinful.  
-__injunction__  
-__innards__ _n pl_  
-__instar__ _n_ A stage of an insect or other arthropod between one molt and the next.  
 __interfere__ _v_  
 __interpenetrate__ _v_ Spread or diffuse through. _Syn_ imbue, permeate, pervade, diffuse, riddle, penetrate  
 __intonation__ _n_ /ˌɪntəʊˈneɪʃən/ /ˌɪn toʊˈneɪ ʃən, -tə-/  

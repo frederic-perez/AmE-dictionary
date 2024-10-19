@@ -9504,7 +9504,7 @@ __hurrah__ _n_ A cheer of joy, victory, etc.
 __hurricane lamp__ _n_ :two::hammer:  
 __hurricane__  
 __hurriedly__  
-__hurtle__ _v_ :two::hammer: (hurtling)  
+__hurtle__ _v_ :seven::hammer:  
 __husbanded__ _v_ _Rob husbanded his money._  
 __husbandman__ _n_ A person who operates a farm. _Syn_ farmer, granger, sodbuster  
 __husbandry__ _n_ :three::hammer:  
@@ -9514,7 +9514,7 @@ __hush-hush__ _adj_ _informal_ Very secret. _Though these meetings were hush-hus
 __hush<sup>1</sup>__ _n_ :three::hammer:  
 __hush<sup>2</sup>__ _v_ :four::hammer: _The hushed reference desk of the Denver Public Library._ :es: hacer callar _Hushed streets._  
 __hushed__ _adj_ _A hushed hotel lounge._  
-__husk<sup>1</sup>__ _n_ :six::hammer: (husks) _Cane husks._  
+__husk<sup>1</sup>__ _n_ :seven::hammer: /hʌsk/ _Cane husks._  
 __husk<sup>2</sup>__ _v_  
 __husky__ _adj_ :three::hammer: _Husky voice._  
 __hustle__ _v_ :five::mute:[hus~~t~~le]:hammer::smiling_imp:  
@@ -9548,6 +9548,7 @@ __hypertensive__ _adj, n_ _To be hypertensive._
 __hyperthyroidism__ _n_ (Pathology) Overproduction of thyroid hormone by the thyroid gland, causing nervousness, insomnia, sweating, palpitation, and sensitivity to heat. Also called: thyrotoxicosis.  
 __hyphen__ _n_  
 __hypnopedia__ _n_ (hypnopaedia) The art or process of learning while asleep by means of lessons recorded on disk or tapes.  
+__hypnotic__ _adj_ Attracting and holding interest as if by a spell. _Syn_ mesmeric, mesmerizing, spellbinding  
 __hypochondriac__  
 __hypocorism__ _n_ :two: A pet name, esp one using a diminutive affix. A name of endearment; a pet name. _Syn_ pet name _“Billy” is a hypocorism for “William.”_ _“Sally” is a hypocorism for “Sarah”._  
 __hypocrisy__ _n_ :two::hammer::pencil2:  
@@ -9594,17 +9595,18 @@ __ID__ _vt_
 __ideation__ _n_ :two::hammer:  
 __identical twin__ _n_ :three: Either of a pair of twins who develop from a single fertilized ovum and therefore have the same genotype, are of the same sex, and usu. resemble each other closely. Compare _fraternal twin._  
 __identical__ _adj_ /aɪˈdɛntɪkəl/  
+__ideophone__ _n_ /ID-ee-uh-fon/ A vivid, evocative word that depicts sensory experiences. [Note: While onomatopoeia relates to sound (e.g., gnar), ideophones encompass a wider array of senses, including color, action, smell, and movement. Examples: shimmer and zig-zag.]  
 __Ides of March__ _n_ The 15th of March in the Ancient Roman calendar, on which day Julius Caesar was assassinated.  
 __ides__ _n_ :three: The 15th day of March, May, July, or October or the 13th day of the other months in the ancient Roman calendar.  
 __idiocracy__ _n_ (humorous) A government run by idiots. _Frank is sick and tired of how America has become a state of idiocracy._  
 __idiolatry__ _n_ /i-di-OL-uh-tree/ [:scroll: From Greek idio- (one’s own, personal) + -latry (worship)] Self worship.  
 __idiolect__ _n_ The variety or form of a language used by an individual.  
 __idiopathic__ _adj_ :three: Of, relating to, or designating a disease having no known cause.  
-__idiosyncrasy__ _n_ :two: A structural or behavioral characteristic peculiar to an individual or group. _Syn_ peculiarity _Of all her idiosyncrasies, I find her tendency to dance while cooking the most charming._  
+__idiosyncrasy__ _n_ :three: A structural or behavioral characteristic peculiar to an individual or group. _Syn_ peculiarity _Of all her idiosyncrasies, I find her tendency to dance while cooking the most charming._  
 __idiosyncratic__ _adj_ :two::hammer:  
 __idiot box__  
 __idiot__ _n_ :mega:  
-__idle__ _v_  
+__idle__ _v_ :two::hammer:  
 __idolatry__ _n_ :three::hammer:  
 __idyll__ _n_ :mega: /ˈī-dᵊl/ (just like _idle_!)  
 __idyllic__ _adj_ :six::pencil2: /ɪˈdɪlɪk; aɪ-/ Excellent and delightful in all respects. _An idyllic setting for romantic dinners._  
@@ -9613,18 +9615,19 @@ __igloo__ _n_ :two::mega::hammer:
 __ignis fatuus__ _n_ /IG-nis FATCH-uh-wus/ __1__ A light that sometimes appears in the night over marshy ground and is often attributable to the combustion of gas from decomposed organic matter. _An ignis fatuus hovered above the horizon as we made our late trek home._ __2__ A deceptive goal or hope. _The film explores how people fall victim to the ignis fatuus of religious cults._  
 __ignition interlocks__  
 __IgNobel prize__ _n_  
-__ignoble__ _adj_ :two::hammer:  
+__ignoble__ _adj_ :three: Not of the nobility; common. _Syn_ ungentle, untitled  
 __ignominious__ _adj_ :dart::two: Very embarrassing, especially because of making you seem very unsuccessful or unimportant. _An ignominious defeat_ Marked by shame or disgrace. _Syn_ inglorious, shameful, opprobrious, disgraceful, black  
 __ignominy__ _n_ :two::hammer:  
-__ignoramus__ _n_ :two::hammer: An ignorant person.  
+__ignoramus__ _n_ :three: An ignorant person.  
 __iguanodon__ _n_  
 __IKEA effect__ _n_ A cognitive bias in which consumers place a disproportionately high value on products they partially created.  
-__ilk__ _n_ :four: Type or kind: _can’t trust people of that ilk._  
+__ilk__ _n_ :five: /ILK/ _Ilk_ is a noun that means “sort” or “kind.” It is usually used in short phrases with and or of, as in “and that ilk” and “of their ilk.” Type or kind: _can’t trust people of that ilk._  
 __ill__  
 __ill-fated__ _adj_ :two::hammer:  
 __illation__  
 __illaudable__  
 __illegal__ _adj, n_ :mega:  
+__illicit__ _adj_ /ɪˈlɪsɪt/  
 __Illini__ _n_ :three::hammer:  
 __illiterate__ _adj_ :two::hammer:  
 __illusory__ _adj_ _Illusory boundaries._  
@@ -9642,6 +9645,7 @@ __imbibe__ _v_ :four: (imbibing) To take in or assimilate (ideas, facts, etc.). 
 __imbroglio__ _n_ :two: A difficult or intricate situation; an entanglement. _Syn_ embroilment _And then there’s a general imbroglio, everyone standing up and the kid hollering and the dog barking._  
 __imbrue__ _v_ __1__ To stain, esp with blood. __2__ To permeate or impregnate.  
 __imbue__ _v_ :seven: /im-BYOO/ (imbued) Imbue can be used as a synonym for endow (“to provide with something freely or naturally”) and can also mean “to permeate or influence” in a way that suggests colored dye permeating cloth fabric. __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ _The children were imbued with a passion for nature by their parents, both biologists._ __2__ To saturate, impregnate, or dye.  
+__imitative__ _adj_ (Of words) Formed in imitation of a natural sound. _Syn_ echoic, onomatopoeic  
 __immaculate__ _adj_ :two::mega::hammer: /ih-MAK-yuh-lut/ _An immaculate pharmacy._  
 __immanent__ _adj_  
 __immensity__ _n_ Unusual largeness in size or extent or number. _Syn_ vastness, enormousness, grandness, greatness, wideness _This projectile was but an atom in the immensity of the ocean._  
@@ -9650,6 +9654,7 @@ __immigrated__
 __immigration__ _n_ :mega: /ɪmɪˈɡreɪʃən/  
 __immiscible__ _adj_ That cannot undergo mixing or blending. _Syn_ unmixable _When two immiscible liquids, such as oil and water, are shaken together, an emulsion is produced._  
 __immiserate__ _vt_ /i-MIZ-uh-rayt/ To impoverish or to make miserable.  
+__immiseration__ _n_ /i-miz-uh-RAY-shuhn/ __1__ The act of making miserable or the state of being made miserable. __2__ Impoverishment.  
 __immobile__  
 __immodest__ _adj_  
 __immolate__ _v_ :mega:  
@@ -9675,7 +9680,7 @@ __impede__ _v_ :seven::mega::hammer: (impeded) Be a hindrance or obstacle to. _S
 __impediment__ _n_ :three::hammer:  
 __impedimenta__ _n pl_ :two: Objects, such as provisions or baggage, that impede or encumber.  
 __impel__ _vt_ :three: (impelled) To urge or force (a person) to an action; constrain or motivate. _Syn_ compel, drive, push, inspire, instigate, goad _I don’t consider myself an activist, but I was impelled by recent events to take a stand on this issue._  
-__impending__ _adj_ :nine::m: If something is impending, it is about to happen. If you hear thunder in the distance, you might go inside to escape the impending storm. _Impending deadline._ _(vs looming deadline)_  
+__impending__ _adj_ :nine::m: If something is impending, it is about to happen; it is imminent. If you hear thunder in the distance, you might go inside to escape the impending storm. _Impending deadline._ _(vs looming deadline)_  
 __imperil__ _v_ :five::hammer: (imperiled)  
 __imperious__ _adj_ :three: Having or showing arrogant superiority to and disdain of those one views as unworthy.  
 __imperishable__ _adj_ :astonished: Unceasing. _Syn_ abiding, enduring  
@@ -9688,7 +9693,7 @@ __impetuous__ _adj_ :three::hammer:
 __impetus__ _n_ :seven: /IM-puh-tus/ /ˈɪm pɪ təs/ A force that causes or encourages something to be done or to become more active. _The high salary and generous benefits package were impetus enough to apply for the job._  
 __impinge on/upon somebody/something__ _v_ :two: (impinging) To have a harmful effect on someone or something.  
 __impinge__ _v_ :two::hammer:  
-__impish__ _adj_ Of or befitting an imp; mischievous. _Impish sense of humor._  
+__impish__ _adj_ :two::smiling_imp: Of or befitting an imp; mischievous. Naughtily or annoyingly playful. _Syn_ arch, mischievous, pixilated, prankish, puckish, wicked _Impish sense of humor._  
 __implacable__ _adj_ /im-PLAK-uh-bul/ Not capable of being appeased, significantly changed, or mitigated; not placable.  
 __implausible__ _adj_ :two::hammer::mega: /ɪmˈplɔ zə bəl/  
 __implement__ _n_ :two: A utensil or tool, especially one with a specific purpose.  
@@ -9709,9 +9714,11 @@ __impression__ _n_ :two::hammer:
 __imprint<sup>1</sup>__ _n_ :two::hammer:  
 __imprint<sup>2</sup>__ _v_  
 __imprison__ _v_ :three::hammer: (imprisoned) _They could imprison people._ _Simpson has been imprisoned for almost nine years._  
+__imprisonment__ _n_ :pencil2: Putting someone in prison or in jail as lawful punishment.  
 __impromptu__ _adj_ :four: /im-PROMP-too/ __1__ Made, done, or formed on or as if on the spur of the moment. _When we got word of Caitlin’s good news, we threw an impromptu party to celebrate._ _The impromptu duet._ __2__ Composed or uttered without previous preparation. _He made an impromptu speech about honor and responsibility._  
 __improvidence__ _n_ :two::hammer:  
 __improvident__ _adj_  
+__impugn__ _v_ /im-PYOON/ To impugn something, such as a person’s integrity, judgment, etc., is to attack or oppose it as false or lacking integrity.  
 __impunity__ _n_ :two: Exemption or freedom from punishment, harm, or loss.  
 __imputable__ _adj_ Possible to impute or ascribe; attributable. _Syn_ ascribable, due to, referable _The oversight was not imputable to him because he was on vacation when it occurred._  
 __in a nutshell__  
@@ -9812,8 +9819,8 @@ __indenture__ _v_
 __indentured__  
 __index card__ _n_  
 __Indian paintbrush__ _n_  
-__indict__ _v_ :eight::hammer: (indicted :mega:)  
-__indictment__ _n_ :eight::hammer::mega: /ɪnˈdaɪt mənt/  
+__indict__ _v_ :nine::hammer: (indicted :mega:)  
+__indictment__ _n_ :nine::hammer::mega: /ɪnˈdaɪt mənt/  
 __indigen__ _n_ One that is native or indigenous to an area. _Syn_ aborigine, native  
 __indigence__ _n_ Poverty; neediness. _Syn_ beggary, pauperism, penury, need  
 __indigenous__ _adj_ _Indigenous people._  
@@ -9841,13 +9848,14 @@ __inebriate__ _v_ :three: (inebriated) __1__ Fill with sublime emotion. _Syn_ be
 __inebriated__ _adj_  
 __inebriety__ _n_ A temporary state resulting from excessive consumption of alcohol. _Syn_ drunkenness, tipsiness, intoxication  
 __ineffability__  
-__ineffable__ _adj_ :nine: /in-EFF-uh-bul/ Ineffable is used to describe something that is indescribable or unspeakable and that cannot be expressed in words. It is also used for things which are taboo and are not to be uttered. _Ed felt an ineffable joy at the sight of his daughter walking toward him from the plane._  
+__ineffable__ _adj_ :nine::m: /in-EFF-uh-bul/ Ineffable is used to describe something that is indescribable or unspeakable and that cannot be expressed in words. It is also used for things which are taboo and are not to be uttered. Incapable of being expressed. _Syn_ indescribable, unspeakable, untellable, unutterable, indefinable _Ed felt an ineffable joy at the sight of his daughter walking toward him from the plane._  
 __ineffectual__  
 __inefficacious__ _adj_  
 __ineligible__ _adj_ /ĭn-ĕl′ĭ-jə-bəl/ __1__ Disqualified by law, rule, or provision: _ineligible to run for office; ineligible for health benefits._ __2__ Unworthy of being chosen; unfit: _considered her ineligible for the job._ _The patient was deemed deemed ineligible for traditional transplant._  
 __ineluctable__ _adj_ :three: /in-ih-LUK-tuh-bul/ Ineluctable is a formal word meaning “unable to be avoided, changed, or resisted.” Often followed by such words as _fate_ and _conclusion_, it is a synonym of _inevitable_. Not to be avoided or escaped; inevitable. _Syn_ inescapable, unavoidable _Those war plans rested on a belief in the ineluctable superiority of the offense over the defense._ _Even the tallest mountains will one day be reduced to sand by the Earth’s slow yet ineluctable geologic forces._  
 __inequitable__  
 __inequity__ _n_ :two: (inequities) Injustice by virtue of not conforming with rules or standards. _Syn_ unfairness _Even though I am older, my brother gets more allowance money than I do, and this inequity strains my relationship with my parents._  
+__inerrant__ _adj_ Incapable of erring. _Syn_ infallible  
 __inert__ _adj_ _Helium is inert._  
 __inertia__ _n_ :mega:  
 __inescapable__ _adj_ :three: Impossible to escape or avoid; inevitable: _inescapable consequences._ _In Portland, nature is inescapable._ _Syn_ certain  
@@ -9904,7 +9912,7 @@ __infuriating__ _adj_
 __infusion__ _n_ :two::hammer: _Drug infusions._ _(vs drug injections)_  
 __ingenious__  
 __ingenuity__ _n_ :dart::two::astonished: __1__ Inventive skill or imagination; cleverness. __2__ An ingenious or imaginative contrivance. __3__ _(obsolete)_ Ingenuousness.  
-__ingenuous__ _adj_ /in-JEN-yuh-wus/ Someone who shows innocent or childlike simplicity and candidness. _The ingenuous enthusiasm shown by several of the older campers was contagious, and soon everyone was excited about the project._  
+__ingenuous__ _adj_ :two: /in-JEN-yuh-wus/ Someone who shows innocent or childlike simplicity and candidness. Lacking in cunning, guile, or worldliness. _Syn_ artless _The ingenuous enthusiasm shown by several of the older campers was contagious, and soon everyone was excited about the project._  
 __inglenook__ _n_ :two: A nook or corner beside an open fireplace. _Syn_ chimney corner  
 __ingot__ _n_ :three::hammer::pencil2: /ˈɪŋ gət/  
 __ingrain__ _v_ :three: To fix deeply or indelibly, as in the mind.  
@@ -9920,6 +9928,7 @@ __inhale__ _v_ _slang_ To eat very quickly.
 __inhibitor__ _n_  
 __inimical__ _adj_ :five: __1__ Being adverse often by reason of hostility or malevolence. __2a__ Having the disposition of an enemy. _Syn_ hostile __b__ Reflecting or indicating hostility. _Syn_ unfriendly __3__ Injurious or harmful in effect; adverse. _Syn_ hurtful, injurious _The inimical effects of smoking have been thoroughly documented._  
 __inimitable__ _adj_  
+__iniquitous__ _adj_ :smiling_imp: /ɪˈnɪk wɪ təs/ Characterized by iniquity; wicked; sinful.  
 __iniquity__ _n_ :six: __1__ Gross immorality or injustice; wickedness. _Syn_ evil, wickedness, immorality _The sons of iniquity._ __2__ A grossly immoral act; a sin.  
 __initiative__ _adj, n_ :two::hammer:  
 __injunction__ _n_ :nine::m: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ /in-JUNK-shun/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injunction._  
@@ -9933,7 +9942,7 @@ __inland<sup>2</sup>__ _adv_
 __inland<sup>3</sup>__ _n_  
 __inlay<sup>1</sup>__ _v_  
 __inlay<sup>2</sup>__ _n_ :three::hammer: _Inlay photo._ _Mother-of-pearl inlays._ _Wood inlay._  
-__innards__ _n_ _informal_ :four: __1__ Internal bodily organs; viscera. __2__ The inner parts, as of a machine. _The pictures adorn the innards of each chapter._  
+__innards__ _n pl_ _informal_ :five: __1__ Internal bodily organs; viscera. __2__ The inner parts, as of a machine. _The pictures adorn the innards of each chapter._  
 __innate__  
 __inner workings__ _n pl_ The parts (of something) that are only known by the people who work on it. _He wanted to experience the inner workings of the political campaign._  
 __innit__ _contraction_ _adv_ _slang_ A contraction of _isn’t it?_, used to invite agreement with a statement: _it’s a funny old world, innit?_  
@@ -9980,6 +9989,7 @@ __inspissate__ _v_ To undergo thickening or cause to thicken, as by boiling or e
 __instability__ _n_ :three::hammer::pencil2:  
 __installment__ _n_ :three::dart: A part of a broadcast serial. _Customers can pay monthly installments of $15._ _In final installment, celebrity chef grills up some steak frites._  
 __instant message__ _n_  
+__instar__ _n_ A stage of an insect or other arthropod between one molt and the next.  
 __instating__  
 __instigate__ _v_ :two: /IN-stuh-gayt/ To _instigate_ something is to cause it to happen or begin. Provoke or stir up. _Syn_ incite  
 __instigator__ _n_  
