@@ -9,6 +9,7 @@ __alleyway__ _n_ A narrow passage between buildings.
 __androgenic__ _adj_ /an-druh-JEN-ik/ __1__ Relating to the development of male characteristics. __2__ Having origin in the male sex.  
 __androgyny__ _n_ [:scroll: From Greek andro- (man) + -gune (woman)] Showing characteristics of both sexes. _Syn_ bisexuality, hermaphroditism  
 __anguish__  
+__appreciable__ _adj_ /uh-PREE-shuh-bul/ _Appreciable_ describes things that can be perceived or measured.  
 __approbation__ _n_ /ap-ruh-BAY-shun/ Approbation is a formal word that refers to praise or approval.  
 __archway__ _n_ :es: pasaje abovedado  
 __armistice__ _n_  
@@ -19,11 +20,13 @@ __arthroplasty__ _n_ /AR-thruh-plas-tee/ [:scroll: From Greek arthro- (joint) + 
 __articulate__ _v_  
 __aspersion__ _n_ /uh-SPUHR-zhuhn/shuhn/ __1__ A damaging accusation: slander. __2__ The sprinkling with water, as in baptism.  
 __assess__ _vt_ :es: evaluar; calcular  
+__Atlantean__ _adj_ /at-lan-TEE-uhn/ Of or like the Titan Atlas, especially in having a fundamental role or great strength.  
 __attractant__ _n_ A substance, such as a pheromone, that attracts insects or other animals.  
 __attritional__ _adj_ :dart: Relating to or caused by attrition. _Attritional battles._  
 __au pair__ _n_ A young foreigner who provides childcare for a family in exchange for room and board, often a small stipend, and the opportunity to study.  
 __auburn__  
 __audacity__ _n_ :dart: Fearless daring; intrepidity. _Syn_ temerity  
+__avarice__ _n_ /AV-uh-ris/ An extreme desire for wealth or material gain.  
 __avatar__ _n_ :mega: /AV-uh-tar/ /ˈæv əˌtɑr, ˌæv əˈtɑr/  
 __avenge__ _v_  
 __ayahuasca__  
@@ -79,6 +82,7 @@ __bystander__ _n_
 __byword__ _n_ _Syn_ adage, aphorism, maxim, motto, proverb, saw, saying  
 __Byzantine__ _adj_ /BIZ-un-teen/  
 __cad__ _n informal_ _old-fashioned_ _Brit_ A man who does not behave in a gentlemanly manner towards others.  
+__cagey__ _adj_ :dart: Showing self-interest and shrewdness in dealing with others. _Syn_ canny, clever _The jurors saw right through the cagey lawyer’s attempt to divert their attention away from the evidence._  
 __calendar year__  
 __callous__ _adj_ Emotionally hardened; unfeeling. _Syn_ indurate, pachydermatous  
 __callow__ _adj_ /KAL-oh/ _Callow_ is a synonym of _immature_ used to describe someone, especially a young person, who does not have much experience and does not know how to behave like an adult. Like the word immature, callow is often used disapprovingly.  
@@ -91,6 +95,7 @@ __clearing bank__ _n_ (in Britain) Any bank that makes use of the central cleari
 __close to one’s chest__  
 __close-knit__ _adj_ Held tightly together, as by social or cultural ties: _a close-knit family._  
 __clued up__ _adj_ _BrE_ _informal_ Knowledgeable about a topic or situation; possessing the facts. :es: al tanto (de), al corriente (de)  
+__cogitation__ _n_ Thoughtful consideration; meditation. _Syn_ study  
 __compelling__ _adj_  
 __contemptuous__  
 __copperas__ _n_ /ˈkɒpərəs/ A less common name for ferrous sulphate.  
@@ -148,9 +153,11 @@ __duster__ _n_ :dart::camera: A loose coverall (coat or frock) reaching down to 
 __duty solicitor__ _n_ (duty counsel, duty lawyer) A solicitor whose services are available to a person either suspected of, or charged with, a criminal offence free of charge (pro bono), if that person does not have access to a solicitor of their own and usually if it is judged by a means test that they cannot afford one. The system is operative in several Commonwealth countries, including the United Kingdom, Australia, New Zealand and Canada.  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
 __egret__ _n_  
+__eldritch__ _adj_ /ˈɛl drɪtʃ/ Eerie; weird; spooky.  
 __electrical type__ _n_ A poorly conductive plastic tape used to insulate electrical wires. _Syn_ friction tape, insulating tape, electric tape  
 __elocution__ _n_  
 __emaciated__ _adj_ A very thin especially from disease or hunger or cold.  
+__embodiment__ _n_ A new personification of a familiar idea. _Syn_ avatar, incarnation  
 __emphasis__ _n_ :two::hammer: /ˈɛm fə sɪs/ /ˈɛmfəsɪs/  
 __emphasize__ _vt_ /ˈɛm fəˌsaɪz/  
 __end-stage__ _adj_ /ĕnd′stāj′/ Of or relating to the final phase of a terminal disease.  
@@ -165,6 +172,7 @@ __Equity__ _n_ :astonished: /ˈɛkwɪtɪ/ _Theatre_ The actors’ trade union. F
 __equivocacy__ _n_ /i-KWIV-uh-kuh-see/ The quality of being deliberately ambiguous or vague.  
 __ethos__ _n_ /EE-thahss/ _Ethos_ refers to the guiding beliefs of a person, group, or organization. :es: espíritu; escala de valores _The company made environmental awareness part of its business ethos._  
 __eurythmy__ _n_  
+__exact__ _v_ /ig-ZAKT/ To exact something (such as payment or revenge) is to demand it and get it, especially by using force or threats. _Exact_ is also used in phrases like “exact a terrible toll” and “exact a high/heavy price” to say that something has caused a lot of suffering, loss, etc.  
 __exhort__ _v_ /ig-ZORT/ To urge, persuade, advise, etc. earnestly.  
 __exile<sup>1</sup>__ _n_ :es: exilio, destierro, :dart: exiliado, desterrado  
 __exile<sup>2</sup>__ _vt_ :es: exiliar, desterrar  
@@ -185,6 +193,7 @@ __faze__ _v_
 __fazed__ _adj_ /feɪzd/ Disconcerted; worried; disturbed.  
 __fealty__ _n_ /FEE-ul-tee/ _Fealty_ is an old-fashioned and somewhat literary word that refers to intense loyalty or fidelity to a person, group, etc. More narrowly, _fealty_ refers to the fidelity of a vassal or feudal tenant to their lord.  
 __feckless__ _adj_ /FECK-lus/ _Feckless_ describes people or things that are weak or ineffective.  
+__feeder__ _n_ A branch that flows into the main stream. _Syn_ confluent, tributary, affluent  
 __feint__ _n_  
 __felon__ _n_  
 __felony__ _n_ A crime that has a greater punishment imposed by statute than that imposed on a misdemeanor.  
@@ -252,6 +261,7 @@ __French toast__ _n_ Food prepared by dipping bread into egg batter and frying.
 __fret__ _v_ /FRET/ To _fret_ is to worry or be concerned.  
 __frontier__ _n_ :mega: /frʌnˈtɪər, frɒn-; also, esp. _Brit_, ˈfrʌn tɪər/  
 __fru__  
+__fugacious__ _adj_ /fyoo-GAY-shus/  
 __fulgent__ _adj_ /FUHL-juhnt/ Shining brilliantly; radiant.  
 __full board__ _n_ :dart: __a__ The provision by a hotel of a bed and all meals. :es: pensión completa __b__ (as modifier): _full board accommodation._  
 __fumble__ _v_  
@@ -279,6 +289,7 @@ __genteelism__ _n_ /jen-TEE-liz-uhm/ The substitution of a word that is believed
 __gerbil__ _n_ :es: jerbo  
 __gestalt therapy__ _n_  
 __gestalt__ _n_ _Gestalt therapy._  
+__ghost gun__ _n_  
 __ghoul__  
 __gibber__ _vi_ :dart: To prattle and chatter unintelligibly.  
 __giggle__ _v_  
@@ -309,6 +320,7 @@ __heady__ _adj_
 __hearth__ _n_ The floor of a fireplace, usually extending into a room and paved with brick, flagstone, or cement. _Syn_ fireside  
 __heat index__ _n_  
 __heath__ _n_  
+__heinous__ _adj_ /HAY-nus/ _Heinous_ describes things—such as acts, deeds, or crimes—that are hatefully or shockingly evil, or in other words, deserving of hate or contempt.  
 __hoover__  
 __horse brass__ _n_ :camera: A decorative brass ornament, usually circular, originally attached to a horse’s harness.  
 __hotplate__ _n_ :two::hammer:  
@@ -318,6 +330,8 @@ __huddle__ _v_
 __huff__ _v_  
 __humdrum<sup>1</sup>__ _adj_ Lacking variety or excitement. _Syn_ dull  
 __humdrum<sup>2</sup>__ _n_ A monotonous routine, task, or person.  
+__ideate__ _v_ /EYE-dee-ayt/ To ideate is to form an idea or conception of something..  
+__indigenous__ _adj_ /ɪnˈdɪdʒ ə nəs/ __1__ Originating in and characteristic of a particular region or country; native (often fol. by to): _plants indigenous to Canada; indigenous peoples of southern Africa._  
 __interfere__ _v_  
 __interpenetrate__ _v_ Spread or diffuse through. _Syn_ imbue, permeate, pervade, diffuse, riddle, penetrate  
 __intonation__ _n_ /ˌɪntəʊˈneɪʃən/ /ˌɪn toʊˈneɪ ʃən, -tə-/  
@@ -444,6 +458,7 @@ __miasma__ _n_
 __microfiche__ _n_ /ˈmaɪ krəˌfiʃ/ A flat sheet of microfilm, containing reproductions of printed or graphic matter.  
 __mid__ _adj_ _Mid_ is a slang term used to describe something or someone as mediocre or of low quality.  
 __midriff__  
+__militia__ _n_ /mɪˈlɪʃ ə/  
 __millpond__ _n_ __1__ A pool formed by damming a stream to provide water to turn a millwheel.  
 __mince__ _v_  
 __miniscule__ _adj_ :astonished:  
@@ -527,22 +542,26 @@ __ontic__ _adj_ /ON-tik/ [:scroll: From Greek onto (being)] Having or relating t
 __onus__ _n_ :dart:  
 __originally__  
 __ossify__ _v_ /AH-suh-fye/ In general contexts, something that ossifies becomes hardened or conventional and opposed to change. In medical contexts, something that ossifies (such as cartilage) forms or is transformed into bone.  
+__ostensible__ _adj_ :astonished: Appearing as such but not necessarily so. _Syn_ seeming, apparent  
 __outbreak__  
 __outburst__ _n_  
 __outing__ _n_  
 __outlay__ _n_  
 __outline__ _v_  
 __paean__ _n_  
+__panacea__ _n_ /pan-uh-SEE-uh/  
 __paratrooper__  
 __parched__ _adj_ :es: abrasado, reseco  
 __Parkinson’s law__ _n_ /PAHR-kin-suhnz law/ The observation that work expands to fill the time available.  
 __parson__ _n_  
+__parturition__ _n_ /par-chuh/too-RISH-uhn/ The act of giving birth.  
 __pasquinade__ _n_ A satire or lampoon, especially one that ridicules a specific person, traditionally written and posted in a public place. _Syn_ parody, put-on, sendup, spoof, charade, lampoon, mockery, burlesque, travesty, takeoff  
 __pastime__ _n_ :pencil2:  
 __pathos__ _n_ A quality, as of an experience or a work of art, that arouses feelings of pity, sympathy, tenderness, or sorrow. _Syn_ poignancy  
 __patron__ _n_ _Look, Artoo-Detoo! Here comes a patron out of the cantina!_  
 __patsy__ _n_ :smiling_imp: A person easily taken advantage of, cheated, blamed, or ridiculed.  
 __patty__ _n_  
+__paucity__ _n_ Smallness of number; fewness. _Syn_ dearth  
 __pauperism__ _n_ A state of extreme poverty or destitution. _Syn_ indigence, penury, need  
 __payslip__ _n_ (pay slip) A piece of paper received by an employee showing how much salary they have been paid.  
 __peal__ _n_ :two: __1__ A ringing of a set of bells, especially a change or set of changes rung on bells. __2__ A set of bells tuned to each other; a chime. __3__ A loud burst of noise: _peals of laughter._  
@@ -594,6 +613,7 @@ __plush<sup>1</sup>__ _n_
 __plush<sup>2</sup>__ _adj_  
 __poaching__ _v_  
 __police__ _n_ (_npl_ police) _The police are looking for you._  
+__politic__ _adj_ Smoothly agreeable and courteous with a degree of sophistication. _Syn_ bland, smooth, suave _He was too politic to quarrel with so important a personage._  
 __poll tax__ _n_ A fixed tax levied on all persons in a certain area, especially as a condition of voting in elections.  
 __polyandry__ _n_ /POL-ee-an-dree/ The practice of having multiple husbands or male mates at the same time.  
 __polypharmacy__ _n_ The practice of prescribing multiple medications for an individual patient, especially excessively, for a single disease.  
@@ -688,6 +708,7 @@ __remand<sup>1</sup>__ _n_
 __remand<sup>2</sup>__ _vt_  
 __remanded__ _v_  
 __rendevouz__ _v_  
+__rendition__ _n_ /ren-DISH-un/  
 __repeat__ _n_  
 __replete__ _adj_ /rih-PLEET/ Replete is an adjective used to describe things as “fully or abundantly provided or filled,” “abundantly fed,” “stout,” or “complete.”  
 __repose__ _n_ The act of resting or the state of being at rest. _Syn_ ease, relaxation, rest _The vacationer took his repose beside the swimming pool._  
@@ -717,9 +738,11 @@ __sales floor__ _n_ The part of a business devoted to retail activities, such as
 __sanguinary__ _adj_ Accompanied by bloodshed. _Syn_ butcherly, gory, slaughterous  
 __saunter__  
 __scamper__ _vi_  
+__scapegoat__ _n_ /SKAYP-goat/  
 __sconce__ _n_ __1__ A small defensive earthwork or fort.  
 __scowl__ _v_  
 __scrub nurse__ _n_ A specially trained nurse who directly assists a surgeon during an operation.  
+__scrub__ _n_ Dense vegetation consisting of stunted trees or bushes. _Syn_ chaparral, bush  
 __scuffle__ _v_  
 __scullery__ _n_ /ˈskʌl ə ri, ˈskʌl ri/  
 __scuttle__ _vi_ To run or move with short hurried movements; scurry.  
@@ -829,6 +852,7 @@ __swedes__ _n_ :two::hammer: _I helped her mash the swedes._
 __switchboard__  
 __swivel__ _v_  
 __tableau__ _n_ A picture, as of a scene.  
+__taciturn__ _adj_ /TASS-uh-tern/ _Taciturn_ is a formal word that describes someone who tends to be quiet or who tends to speak infrequently.  
 __tariff__ _n_ /ˈtær ɪf/  
 __tarp__ _n_ Waterproofed canvas.  
 __tatty__ _adj_ Somewhat worn, shabby, or dilapidated.  
@@ -868,10 +892,13 @@ __uninitiated__ _adj_ Not knowledgeable or skilled; inexperienced. _Syn_ naive
 __unruly__ _adj_ _Unruly hair._  
 __upturned__ _adj_ /ʌpˈtɜːnd/ __3__ Turned over or upside down: _the seat was an upturned bucket._  
 __vale__ _n_  
+__verbatim__ _adv_ /ver-BAY-tim/ In the exact words; word for word.  
+__verity__ _n_ /VER-i-tee/ __1__ The quality of being true. __2__ Something that is true: a universally accepted truth.  
 __vilify__ _vt_ :two::hammer: /VIL-uh-fye/  
 __villainy__ _n_ _Luke, you won’t find a more wretched hive of villainy._  
 __virago__ _n_ /vɪˈrɑ goʊ, -ˈreɪ-/  
 __virid__ _adj_ /VIR-id/ Bright green.  
+__whimsy__ _n_ The trait of acting unpredictably and more from whim or caprice than from reason or judgment. _Syn_ arbitrariness, flightiness, whimsicality, capriciousness  
 __worktop__ _n_ :two::hammer:  
 __wrenching__ _adj_ Causing great physical or mental suffering; “a wrenching pain.” _Syn_ racking  
 __wretched__ _adj_ __3__ Despicable, contemptible, or mean: _a wretched miser._ _Luke, you won’t find a more wretched hive of villainy._  
