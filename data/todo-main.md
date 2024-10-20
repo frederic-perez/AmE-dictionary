@@ -880,31 +880,6 @@ __tummy__
 __two peas in a pod__  
 __tyranny__ _n_ :pencil2:  
 __uh-huh__  
-__unabashed__ _adj_ :three: Not ashamed, disconcerted, or apologetic; boldly certain of one’s position. Not disconcerted or embarrassed; poised. _Syn_ unembarrassed  
-__unassailable__  
-__unassuming__ _adj_  
-__unattainable__ _adj_ _Unattainable love._  
-__uncongenial__ _adj_ Not suitable to your tastes or needs. _Syn_ incompatible  
-__unconscionable__ _adj_ :smiling_imp:  
-__unduly__ _adv_  
-__unexampled__ _adj_ Without precedent; unparalleled. _Syn_ new  
-__uninitiated__ _adj_ Not knowledgeable or skilled; inexperienced. _Syn_ naive  
-__unruly__ _adj_ _Unruly hair._  
-__upturned__ _adj_ /ʌpˈtɜːnd/ __3__ Turned over or upside down: _the seat was an upturned bucket._  
-__vale__ _n_  
-__verbatim__ _adv_ /ver-BAY-tim/ In the exact words; word for word.  
-__verity__ _n_ /VER-i-tee/ __1__ The quality of being true. __2__ Something that is true: a universally accepted truth.  
-__vilify__ _vt_ :two::hammer: /VIL-uh-fye/  
-__villainy__ _n_ _Luke, you won’t find a more wretched hive of villainy._  
-__virago__ _n_ /vɪˈrɑ goʊ, -ˈreɪ-/  
-__virid__ _adj_ /VIR-id/ Bright green.  
-__whimsy__ _n_ The trait of acting unpredictably and more from whim or caprice than from reason or judgment. _Syn_ arbitrariness, flightiness, whimsicality, capriciousness  
-__worktop__ _n_ :two::hammer:  
-__wrenching__ _adj_ Causing great physical or mental suffering; “a wrenching pain.” _Syn_ racking  
-__wretched__ _adj_ __3__ Despicable, contemptible, or mean: _a wretched miser._ _Luke, you won’t find a more wretched hive of villainy._  
-__wring__ _vt_  
-__wringer__ _n_ __1__ A person or thing that wrings. __2__ An apparatus for squeezing out liquid, as two rollers through which an article of wet clothing may be squeezed.  
-__writ__ _n_  
 __writhe__ _v_ :three:::hammer: /raɪð/  
 __writhing__ _n_ :two: A twisting struggle.  
 __Xmas__ _n_  

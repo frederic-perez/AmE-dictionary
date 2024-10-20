@@ -20452,7 +20452,7 @@ __umbrella__ _n_ :four::hammer: /ʌmˈbrɛl ə/ [:scroll: Etymologically, it is 
 __umpteen__ _adj, n_ :two::hammer:  
 __umpteenth__ _adj_ :three::dart: Last in an indefinitely numerous series. _Syn_ umptieth, umteenth  
 __un-American__  
-__unabashed__ _adj_ :nine::m: /un-uh-BASHT/ Not ashamed, disconcerted, or apologetic; boldly certain of one’s position. _An unabashed fan._ _Unabashed humor._  
+__unabashed__ _adj_ :nine::m: /un-uh-BASHT/ Not ashamed, disconcerted, or apologetic; boldly certain of one’s position. Not disconcerted or embarrassed; poised. _Syn_ unembarrassed _An unabashed fan._ _Unabashed humor._  
 __unabashedly__  
 __unabated__ _adj_ :four::hammer:  
 __unadulterated__ _adj_ Not mingled or diluted with extraneous matter. _Syn_ pure  
@@ -20462,8 +20462,9 @@ __unallocated__ _adj_ Not allocated or reserved; free. _He had an unallocated fe
 __unanimous__  
 __unapologetic__ _adj_ :nine::m: Not willing to apologize or to make an apology. _Pfizer has been unapologetic about its gains from the virus._  
 __unapologetically__ _adv_ :five::hammer: _Union Kitchen is unapologetically for-profit._  
-__unassailable__ _adj_ :two::hammer:  
-__unassuming__ _adj_ :seven::hammer: _Hollande, an unassuming and bespectacled Socialist._  
+__unassailable__ _adj_ :three::hammer:  
+__unassuming__ _adj_ :eight::hammer: _Hollande, an unassuming and bespectacled Socialist._  
+__unattainable__ _adj_ _Unattainable love._  
 __unavailing__ _adj_ Producing no result or effect. _Syn_ futile, ineffectual, otiose _Immediately conscious how unavailing any struggle against such an overwhelming force must prove, he submitted to his fate._  
 __unavenged__ _adj_  
 __unbecoming__ _adj_  
@@ -20480,7 +20481,8 @@ __Uncle Sam__ _n_ :four::dart: An extension of the common short form of the _Uni
 __unclear__ _adj_  
 __unclubbable__ _adj_ (unclubable) Having or showing a disinclination for social activity. _Syn_ unsociable  
 __uncompromising__ _adj_ Unwilling to grant concessions or negotiate; inflexible: _took an uncompromising stance during the peace talks._  
-__uncongenial__  
+__uncongenial__ _adj_ :two: Not suitable to your tastes or needs. _Syn_ incompatible  
+__unconscionable__ _adj_ :smiling_imp:  
 __uncontested shot__ _n_ (vs contested shot)  
 __unconvinced__  
 __uncorroborated__ _adj_ Unsupported by other evidence. _Syn_ unsubstantiated  
@@ -20551,7 +20553,7 @@ __undulant__ _adj_ /ˈʌndjʊlənt/ Resembling waves in occurrence, appearance, 
 __undulate__ _v_ :two: /UN-juh-layt/ Undulate is a formal word that means “to move or be shaped like waves.” To cause to move in a smooth wavelike motion. _Syn_ roll _The singer undulated her hips to the rhythm of the song._  
 __undulating__ _v_  
 __undulation__ _n_  
-__unduly__ _adv_ :nine::m: Excessively; immoderately: _unduly familiar with strangers._ _I wasn’t unduly worried._  
+__unduly__ _adv_ :nine::m: Excessively; immoderately: _unduly familiar with strangers._ _I wasn’t unduly worried._ :es: excesivamente; indebidamente  
 __unearth__ _v_ :five::hammer: (unearthed)  
 __uneasy calm__ _phr_ :es: calma tensa _People waited to see whether an uneasy calm would last._  
 __uneasy__ _adj_  
@@ -20563,6 +20565,7 @@ __unerring__ _adj_
 __unethically__ _adv_ _He had acted unethically and for that I could never trust him as editor._  
 __uneven__ _adj_ :two: __2__ Not consistent or uniform: _an uneven color._  
 __uneventful__ _adj_ :two: /ˌʌnɪˈvɛntfʊl/ Ordinary, routine, or quiet. Lacking in important or interesting occurrences; routine: _an uneventful day._  
+__unexampled__ _adj_ Without precedent; unparalleled. _Syn_ new  
 __unfailing__ _adj_ _Unfailing support._  
 __unfathomable__ _adj_ :six: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
 __unfazed__ _adj_ :nine::m:: /ʌnˈfeɪzd/ Not disconcerted; unperturbed. _Her criticism left him quite unfazed._ :es: Sus críticas le dejaban tan pancho. _She was completely unfazed by the extraordinary events._ _They are unfazed by all fof this._ :es: Se quedó como si nada ante unos sucesos tan extraordinarios.  
@@ -20595,6 +20598,7 @@ __uni__ _n_ /ˈjuːnɪ/ _informal_ Short for university.
 __unicorn__ _n_ Start-up valued at more than $1 billion.  
 __unimpeachable__ _adj_ Free of guilt; not subject to blame. _Syn_ blameless, inculpable, irreproachable _As is indeed not unfrequent with women of unimpeachable virtue ... at a distance she not only excused illicit love, she positively envied it._  
 __unimpeded__ _v_  
+__uninitiated__ _adj_ Not knowledgeable or skilled; inexperienced. _Syn_ naive  
 __Union Jack__ _n_ :camera:  
 __union job__ _n_ A job where employment status is guaranteed by a union; a sinecure.  
 __union__ _n_ (unions) :three::hammer: _Union construction worker._  
@@ -20633,7 +20637,7 @@ __unrepentant__ _adj_ :five: Having or exhibiting no remorse.
 __unrequited__ _adj_ :five: /ˌʌn rɪˈkwaɪ tɪd/ Not given, rewarded, or felt in return: _unrequited love._ _Her unrequited crush._  
 __unrestrained__  
 __unruffled__ _adj_ _An unruffled commander._  
-__unruly__ _adj_ :nine::m: Difficult or impossible to discipline, control, or rule. _Unruly campaign speeches._  
+__unruly__ _adj_ :nine::m: Difficult or impossible to discipline, control, or rule. _Unruly campaign speeches._ _Unruly hair._ :es: rebelde, revoltoso  
 __unsalted__ _adj_ :dart: Not seasoned, preserved, or treated with salt: _unsalted peanuts._ _Pure Irish butters salted and unsalted._  
 __unsavory__ _adj_ :five::hammer::smiling_imp: /ʌnˈseɪ və ri/ __4__ Socially or morally objectionable or offensive: _an unsavory past._  
 __unscathed__ _adj_ :eight: Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
@@ -20759,6 +20763,7 @@ __uptick__ _n_ :nine::m: __1__ A rise or improvement, esp. in business. __2__ A 
 __uptight__ _adj_ :two::dart::hammer:  
 __uptime__ _n_ :three: The time during which a device, such as a computer, is functioning or available for use.  
 __uptown__ _adj, adv, n_ :two::hammer:  
+__upturned__ _adj_ /ʌpˈtɜːnd/ __3__ Turned over or upside down: _the seat was an upturned bucket._  
 __upward__  
 __upwardly__  
 __urban legend__  
@@ -20817,7 +20822,7 @@ __vainglorious__ _adj_ :two: Characterized by or exhibiting excessive vanity; bo
 __vainglory__ _n_ :five: Boastful, unwarranted pride in one’s accomplishments or qualities. _Syn_ boastfulness  
 __Val__ _n_ (Vals)  
 __valance__ _n_ An ornamental drapery hung across a top edge, as of a bed, table, or canopy. _Syn_ cornice, pelmet, valance board _Large valances of silk, embroidered with flowers of gay colors, which were rather faded, fell from the wide windows._  
-__vale__ _n_  
+__vale__ _n_ :two::hammer:  
 __valediction__ _n_  
 __valedictorian<sup>1</sup>__ _n_ :eight: (valedictorians) A student, usu. the one ranking highest academically in a graduating class, who delivers the valedictory at graduation.  
 __valedictorian<sup>2</sup>__ _adj_ _Valedictorian speech._  
@@ -20926,7 +20931,7 @@ __Venust__ _adj_ Beautiful, graceful, elegant.
 __veracity__ _n_  
 __veranda__ _n_ :five: A roofed platform along the outside of a house, level with the ground floor. _Syn_ porch, gallery, balcony, lanai, sun porch, stoop _We’ll have our coffee on the veranda._  
 __verbally__  
-__verbatim__  
+__verbatim__ _adv_ :two: /ver-BAY-tim/ In the exact words; word for word.  
 __verberize__  
 __verbiage__ _n_ :three::hammer: _Ornamental verbiage._  
 __verbicide__ _n_ :two::astonished: _facetious_ An act or instance of destroying a word. Misuse or overuse of a word or any use of a word which is damaging to it.  
@@ -20940,6 +20945,7 @@ __verigreen__ _n_ A simple or gullible person.
 __verisimilitude__ _n_ :three: The quality of appearing to be true or real. _Syn_ vraisemblance _While recounting the preposterous tale, he threw in a few convincing details to add verisimilitude to the narrative._  
 __verismo__  
 __veritable__ _adj_ :two::hammer:  
+__verity__ _n_ /VER-i-tee/ __1__ The quality of being true. __2__ Something that is true: a universally accepted truth.  
 __verklempt__  
 __vermeil__ _adj, n_  
 __vermicelli__  
@@ -21010,11 +21016,11 @@ __vignette__ _n_ :two: /vin-YET/ A short written description or a brief scene in
 __vigorous__ _adj_ :three::hammer: /ˈvɪg ər əs/ _A vigorous intellect._  
 __Viking__ _n_ :pencil2:  
 __vile__  
-__vilify__ _vt_ :seven: (vilifies) To make vicious and defamatory statements about. _Syn_ revile, vituperate, rail _The Nazi propaganda vilified the Jews._  
+__vilify__ _vt_ :nine: /VIL-uh-fye/ To make vicious and defamatory statements about. _Syn_ revile, vituperate, rail _The Nazi propaganda vilified the Jews._  
 __vilipend__ _v_ Belittle. _Syn_ deprecate _In my culture, men commonly vilipend women and treat them as second-class citizens._  
 __villa__ _n_ :four::hammer:  
 __villager__ _adj_  
-__villainy__ _n_ :two::pencil2: _A wretched hive of scum and villainy._  
+__villainy__ _n_ :three::pencil2: _A wretched hive of scum and villainy._ _Luke, you won’t find a more wretched hive of villainy._  
 __villas__ _n_  
 __villeinage__ _n_  
 __vim__ _n informal_ Robust energy and enthusiasm.  
@@ -21026,8 +21032,9 @@ __vineyard__ _n_
 __vintner__ _n_ :two::hammer:  
 __vinyasa__ _n_ :two::hammer:  
 __viper__ _n_ :three::hammer: (vipers)  
+__virago__ _n_ /vɪˈrɑ goʊ, -ˈreɪ-/  
 __virescent__ _adj_ /vuh/vy/vi-RES-uhnt/ __1__ Greenish. __2__ Turning green.  
-__virid__ _adj_ Bright green with or as if with vegetation. _Syn_ verdant _The lake was virid with bright algae on the surface._  
+__virid__ _adj_ :two: /VIR-id/ Bright green with or as if with vegetation. _Syn_ verdant _The lake was virid with bright algae on the surface._  
 __viridity__ _n_ __1__ Youth; innocence; inexperience. __2__ The quality or condition of being green, especially as manifested in vegetation.  
 __virtually__ _adv_ :astonished::two: __1__ In fact or to all purposes; practically. _The city was virtually paralyzed by the transit strike._ __2__ Almost but not quite; early. _Virtually everyone gets a headache now and then._  
 __vis-à-vis<sup>1</sup>__ _prep_ __1__ In relation to; regarding. __2__ Face to face with; opposite.  
@@ -21427,6 +21434,7 @@ __whim__ _n_ :two::hammer:
 __whimper<sup>1</sup>__ _v_ :six: /ˈwɪmpə/ (whimpering) Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan _A child in a bed nearby began to whimper._  
 __whimper<sup>2</sup>__ _n_ :three: A low, broken, sobbing sound; a whine. _She gave a little whimper of protest._ :es: sollozo  
 __whimsical__ _adj_ :astonished::three: /WIM-zih-kul/ __1__ Characterized by, arising from, or subject to whimsy: _a whimsical decision._ __2__ Playful or fanciful, especially in a humorous way.  
+__whimsy__ _n_ The trait of acting unpredictably and more from whim or caprice than from reason or judgment. _Syn_ arbitrariness, flightiness, whimsicality, capriciousness  
 __whinge<sup>1</sup>__ _vi_ :three: /whinj/ _British English_ To keep complaining in an annoying way. To complain or protest, especially in an annoying or persistent manner.  
 __whinge<sup>2</sup>__ _n_ A whine or complaint.  
 __whinnied__ _v_  
@@ -21753,7 +21761,7 @@ __workmanlike__
 __worksheet__ _n_ _Ask for a library worksheet._  
 __workshop__ _v_ :three::astonished::hammer: (workshopped)  
 __workstation__ _n_ :two::hammer:  
-__worktop__ _n_ A surface in a kitchen, often of heat-resistant laminated plastic, that is used for food preparation. :es: encimera _The marble effect Formica worktops were burned and scarred._  
+__worktop__ _n_ :three: A surface in a kitchen, often of heat-resistant laminated plastic, that is used for food preparation. :es: encimera _The marble effect Formica worktops were burned and scarred._  
 __World Heritage sites__ _n_ :three: Designated natural and cultural sites internationally recognized as of outstanding importance.  
 __world powers__ _n_ :astonished:  
 __worldliness__ _n_ _The worldliness of friars._  
@@ -21793,20 +21801,20 @@ __wreck<sup>2</sup>__ _v_ :four::mute:[~~w~~reck]:hammer:
 __wrecking ball__  
 __wrench<sup>1</sup>__ _v_ :three::hammer: (wrenched) _My mother reached up and wrenched my ear._ _Kristof had a wrenched thumb from the fight._ _Pulling the plug was wrenching._  
 __wrench<sup>2</sup>__ _n_ (monkey wrench)  
-__wrenching__ _adj_ :two: Causing great physical or mental suffering. _ABC News went through a wrenching round of layoffs._ _A wrenching prospect._  
+__wrenching__ _adj_ :three: Causing great physical or mental suffering. _Syn_ racking _ABC News went through a wrenching round of layoffs._ _A wrenching prospect._ _A wrenching pain._  
 __wrestle with__ _phr v_ To try hard to find the solution to a difficult problem.  
 __wrestle__ _v_ :two::hammer::mute:[~~w~~restle]:mute:[wres~~t~~le] _Admiral Smith wrestled with the decision of when to enter the gulf._  
 __wretch__ _n_ :three: A person pitied for his misfortune. _Syn_ poor devil _If the poor wretch waked in the flames and perished, no one cared._ _The lowliest wretch among them._  
-__wretched__ _adj_ :two::hammer:  
+__wretched__ _adj_ :three::hammer: __3__ Despicable, contemptible, or mean: _a wretched miser._ _Luke, you won’t find a more wretched hive of villainy._  
 __wrethes__  
 __wriggle__ _v_ :two::hammer:  
 __wriggling__ _adj_ :two: Moving in a twisting or snake-like or wormlike fashion. _A snake pit of wriggling fragments._  
 __wring out__ _v_ _She finished wringing out the jeans and shut off the water._  
-__wring__ _v_ :seven::hammer: (wringing) _The Feds just keeps wringing its hands._ _It pays to wring your hands at least a little bit._  
-__wringer__ _n_ :three::hammer: _Run through the wringer._  
+__wring__ _vt_ :eight::hammer: (wringing) _The Feds just keeps wringing its hands._ _It pays to wring your hands at least a little bit._  
+__wringer__ _n_ :four: __1__ A person or thing that wrings. __2__ An apparatus for squeezing out liquid, as two rollers through which an article of wet clothing may be squeezed. _Run through the wringer._  
 __wrinkle__ _v_ :five::mute:[~~w~~rinkle]:hammer: (wrinkled, wrinkling) _His brow wrinkled in thought._  
 __wrist__ _n_ :mute:[~~w~~rist]  
-__writ__ _n_ :five::hammer: _Compulsory State writ._  
+__writ__ _n_ :six::hammer: _Compulsory State writ._  
 __write off__ _phr v_ :three: To accept that a debt or loan won’t be paid back. _Don’t write off Tiger just yet._  
 __write out__ _phr v_ To write something on paper with all the necessary details.  
 __write up__ _phr v_ :three: To write something using notes that you wrote earlier.  
