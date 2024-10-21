@@ -630,8 +630,10 @@ __possess__ _v_
 __posterity__ _n_ /pɒˈstɛr ɪ ti/ /pɑˈstɛrət̮i/ /pah-STAIR-uh-tee/  
 __potbellied__ _adj_ Having a large belly.  
 __precede__ _v_ Furnish with a preface or introduction. _Syn_ preface, premise, introduce _She always precedes her lectures with a joke._  
+__precinct__ _n_  
 __preen__ _v_  
 __premier__  
+__preoccupation__ _n_ :pencil2:  
 __preponderance__ _n_ A superiority in numbers or amount. _Syn_ prevalence, extensiveness _The preponderance of the evidence strongly supports his guilt._  
 __preposterous__ _adj_ [:scroll: From Latin praeposterus, which translates literally to “in the wrong order”]  
 __press cutting__ _n_ An excerpt cut from a newspaper or magazinepress cutting - an excerpt cut from a newspaper or magazine.  
@@ -686,6 +688,7 @@ __rear<sup>2</sup>__ _adj_
 __rear<sup>3</sup>__ _vt_  
 __rear<sup>4</sup>__ _vi_ __1__ To rise on the hind legs, as a horse. __2__ To rise high in the air; tower.  
 __rebate__ _n_ A refund of a fraction of the amount payable or paid, as for goods purchased in quantity; discount. :es: reembolso  
+__rebuttal__ _n_  
 __receptacle outlet__ _n_ An electrical outlet where one or more receptacles are installed.  
 __receptacle__ _n_ A device which is installed in an outlet box to receive a plug for the supply of electric current to an appliance or portable equipment.  
 __reck<sup>1</sup>__ _n_ /rek/ Care or concern.  
@@ -715,6 +718,7 @@ __repose__ _n_ The act of resting or the state of being at rest. _Syn_ ease, rel
 __reprieve__ _n_  
 __reputedly__ _adv_ According to general belief or supposition: _the reputedly excellent food._ :es: según dicen  
 __reread__ _v_ :pencil2:  
+__rest stop__ _n_ The US name for lay-by.  
 __revenge__ _n_  
 __rhetoric__ _n_ :astonished::pencil2: /ˈrɛt ər ɪk/ Insincere or grandiloquent language.  
 __riding hood__ _n_ A type of cloak or hood worn by women who rode horses. This clothing was designed specifically for riding, providing warmth and protection for the rider.  
@@ -729,23 +733,27 @@ __rotund__ _adj_ __1__ Rounded in figure; plump. _Syn_ fat
 __rotunda__ _n_ :two::hammer:  
 __rue__ _v_ /ROO/ To _rue_ something is to feel penitence, remorse, or regret for it. _Rue_ is often used in the phrase “rue the day.” _I rue the day I signed that infernal contract._  
 __ruff__ _n_ (Clothing & Fashion)  
+__rummage__ _v_ :two::hammer:  
 __rundown__ _n_ :two: __1__ A point-by-point summary.  
 __russet<sup>1</sup>__ _n_ __1__ Yellowish brown, light brown, or reddish brown.  
 __russet<sup>2</sup>__ _adj_ Yellowish brown, light brown, or reddish brown.  
 __rustle<sup>1</sup>__ _v_ /ˈrʌsəl/ __1__ To make or cause to make a low crisp whispering or rubbing sound, as of dry leaves or paper. __2__ To move with such a sound.  
 __rustle<sup>2</sup>__ _n_ The sound made by rustling.  
 __sales floor__ _n_ The part of a business devoted to retail activities, such as a showroom or selling area of a shop or department store, usually manned by sales staff and having free public access with goods on display.  
+__sandspur__ _n_ _(Plants)_ An American wild grass.  
 __sanguinary__ _adj_ Accompanied by bloodshed. _Syn_ butcherly, gory, slaughterous  
 __saunter__  
 __scamper__ _vi_  
 __scapegoat__ _n_ /SKAYP-goat/  
 __sconce__ _n_ __1__ A small defensive earthwork or fort.  
-__scowl__ _v_  
+__scowl__ _v_ :two::hammer:  
 __scrub nurse__ _n_ A specially trained nurse who directly assists a surgeon during an operation.  
 __scrub__ _n_ Dense vegetation consisting of stunted trees or bushes. _Syn_ chaparral, bush  
 __scuffle__ _v_  
 __scullery__ _n_ /ˈskʌl ə ri, ˈskʌl ri/  
 __scuttle__ _vi_ To run or move with short hurried movements; scurry.  
+__sea nettle__ _n_  
+__sear__ _n_ A mark or scar made by searing.  
 __searing__ _adj_ /ˈsɪərɪŋ/  
 __seething__ _v_  
 __shapeshift__ _vi_ (biology, fantasy, mythology) To change one’s shape or form (into another) through often magical means, normally applied only to living beings.  
@@ -754,6 +762,7 @@ __shortlisted__
 __shortsighted__ _adj_  
 __shove__ _v_ :two::hammer:  
 __shuffling__ _n_ Walking with a slow dragging motion without lifting your feet.  
+__shun__ _vt_ :dart: To avoid deliberately; keep away from. _He shuns suits except when he is in court._  
 __shuttle__ _n_ __2__ The sliding container that carries the lower thread in a sewing machine.  
 __side note__ _n_ Additional information aside main point.  
 __simpleton__ _n_ :smiling_imp:  
@@ -767,6 +776,8 @@ __slew__ _v_ _The truck slewed left and right._
 __slight__ _adj_ /slaɪt/  
 __slither__ _vi_  
 __slob__ _n_  
+__slovenly<sup>1</sup>__ _adj_ :astonished: _The slovenly living room._  
+__slovenly<sup>2</sup>__ _adv_  
 __slug__ _vt_ __3__ To strike heavily, especially with the fist or a bat. _He slugged me across the jaw._  
 __smolder__ _vi_ __1__ To burn with little smoke and no flame. _Luke saw the smoldering piles which had once been human beings._  
 __smugly__ _adv_  
@@ -828,6 +839,7 @@ __strobing__ _n_ A brief flashing on and off, as of a stroboscopic lamp.
 __strong__ _n_ __18__ Having a specified number of units or members: _a military force 100,000 strong._  
 __stub__ _n_ __1__ The usually short end remaining after something bigger has been used up: _a pencil stub; a cigarette stub._  
 __stuffy__ _adj_ :dart:  
+__stunted__ _adj_ Prevented from growing or developing. _Stunted genitalia._  
 __sturdy__ _adj_  
 __subcontinent__ _n_  
 __subdural__ _adj_ Located or occurring beneath the dura mater: _subdural space; a subdural hematoma._  
@@ -849,14 +861,16 @@ __surety__ _n_
 __surplice__  
 __suspicious__ _adj_ :es: desconfiado; sospechoso; suspicaz  
 __swedes__ _n_ :two::hammer: _I helped her mash the swedes._  
+__swill__ _v_ Drink large quantities of (liquid, especially alcoholic drink). _Syn_ swill down  
 __switchboard__  
 __swivel__ _v_  
 __tableau__ _n_ A picture, as of a scene.  
 __taciturn__ _adj_ /TASS-uh-tern/ _Taciturn_ is a formal word that describes someone who tends to be quiet or who tends to speak infrequently.  
 __tariff__ _n_ /ˈtær ɪf/  
-__tarp__ _n_ Waterproofed canvas.  
+__tarp__ _n_ :two: Waterproofed canvas.  
 __tatty__ _adj_ Somewhat worn, shabby, or dilapidated.  
-__taunt__ _vt_ /tɔːnt/ __1__ To provoke or deride with mockery, contempt, or criticism. __2__ To tease; tantalize.  
+__taunt<sup>1</sup>__ _n_  
+__taunt<sup>2</sup>__ _vt_ /tɔːnt/ __1__ To provoke or deride with mockery, contempt, or criticism. __2__ To tease; tantalize.  
 __teeter__ _vi_ :two: __1__ To move or sway unsteadily or unsurely; totter.  
 __teetotaler__ _n_ (teetotaller)  
 __tendril__ _n_ :es: zarzillo  
@@ -865,21 +879,28 @@ __the nuts and bolts__
 __thence__ _adv_ From that place; from there. _Syn_ therefrom _The train went south into Switzerland and thence on to Italy._  
 __thromboembolism__ _n_  
 __thrombosis__ _n_  
-__thrum__ _v_  
+__thrum__ _v_ :two::hammer:  
 __thunk__ _n_  
 __tire iron__ _n_ :two: A short length of steel with one end flattened to form a blade, used to remove tires from wheel rims.  
 __toil__ _vi_  
+__tout__ _n_ __1__ One who solicits customers brazenly or persistently. _Touts, thieves, and barrow men._  
 __townhouse__ _n_  
 __traduce__ _vt_ :smiling_imp:  
+__traipse__ _v_  
 __transient__ _adj_ _Temporary conduction block can occur as a result of transient edema._  
 __transmogrification__ _n_  
 __transmogrify__ _v_  
 __tribulation__ _n_ /trib-yuh-LAY-shun/ _Tribulation_, which is often used in the phrase “trials and tribulations,” refers to an experience that causes suffering. It can also mean “unhappiness, pain, or suffering.”  
+__trickle<sup>1</sup>__ _v_  
+__trickle<sup>2</sup>__ _n_ __1__ A thin, irregular, or slow flow of something. __2__ The act of trickling.  
 __trump__ _v_ /trʌmp/  
 __tummy__  
 __two peas in a pod__  
 __tyranny__ _n_ :pencil2:  
 __uh-huh__  
+__whitelist<sup>1</sup>__ _n_ A list of people or organizations that have been approved to receive special considerations or privileges.  
+__whitelist<sup>2</sup>__ _vt_ To place on a whitelist.  
+__worn-out__ _adj_  
 __writhe__ _v_ :three:::hammer: /raɪð/  
 __writhing__ _n_ :two: A twisting struggle.  
 __Xmas__ _n_  
@@ -890,3 +911,4 @@ __yelp__ _n_ :two::hammer:
 __yelp<sup>1</sup>__ _n_ :two::hammer:  
 __yelp<sup>2</sup>__ _v_  
 __yoga__ _n_ [:scroll: From Hindi yoga, from Sanskrit yoga-s, literally “union, yoking” (with the Supreme Spirit)] _Hatha/Mantra/Karma/Bhakti/Raja/Jnana/Kundalini yoga._  
+__zest__ _n_ /ZEST/ _Zest_ refers to an enjoyably exciting quality, or to keen enjoyment itself. In culinary use, _zest_ refers to small pieces of the peel of a lemon, lime, orange, or other citrus fruit used as flavoring.  
