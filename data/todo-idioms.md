@@ -20,6 +20,7 @@ __a license to print money__ An activity, business model, or company that yields
 __a little from column A, a little from column B__ Having been formed from two distinct factors, elements, or reasons. _She asked me if I drew more from real life or from my imagination when writing; in truth, it’s a little from column A and a little from column B._  
 __a little leery__  
 __a long shot__ :dart::two::hammer:  
+__a piece of work__ :smiling_imp: A remarkably difficult, malicious, unpleasant, or objectionable person.  
 __a shiver down (one’s) spine__ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
 __a stone’s throw__ :two: A very short distance.  
 __a word of warning__ :two: Information about possible danger or trouble.  
@@ -32,7 +33,7 @@ __ahead of (someone or something)__
 __aid and abet__ To assist someone, usually in a mischievous or illegal activity.  
 __Aladdin’s cave__ The idiom “Aladdin’s cave” refers to a place filled with a vast collection of valuable, interesting, or unusual objects.  
 __all hell broke loose__ All sorts of wild or terrible things happened. _When the boss left early for the weekend, all hell broke loose._  
-__all the same__ :three::hammer:  
+__all the same__ :four::hammer:  
 __all too often__  
 __artful dodger__ :smiling_imp:  
 __as far as it goes__ As much as something accomplishes, typically with room for improvement.  
@@ -62,6 +63,7 @@ __bargain for (someone or something)__
 __barrow man__ __1__ A boy or man who sells goods (usually fruit, vegetables, or other comestibles) from a handcart (barrow) on the streets. Primarily heard in UK. _Touts, thieves, and barrow men._  
 __battered__ :dart::astonished: Drunk.  
 __be (as) easy as one-two-three__ To be extremely easy, simple, or intuitive; to require very little skill or effort. (Sometimes used with the numbers spelled out (“one-two-three”) or written numerically (“123” or “1-2-3”).) _After so many years as an accountant, doing taxes is as easy as one-two-three for me._  
+__be at odd (with)__  
 __be at pains__ To put forth effort toward some goal or end.  
 __be at the end of (one’s) rope__ :dart: To be completely worn out, exasperated, or exhausted; to have no more patience, endurance, or energy left.  
 __be chock-a-block__ __1__ To be squeezed or jammed closely together. _So many people wanted to see the show that we were chock-a-block inside the venue._ __2__ To be very full or tightly packed. _Your office is chock-a-block with books and boxes. How do you even move around in here!_ _The restaurant has been chock-a-block with guests all day._ __3__ By extension, to be very busy; to be completely filled or engaged (with something). _Every day of our vacation was chock-a-block with fun activities._  
@@ -93,6 +95,7 @@ __bottom of the ninth__ The final and critical moment or moments of a tense, imp
 __brazen out__ To face something, especially a difficult situation or an accusation, with brave or impudent self-confidence. A noun or pronoun can be used between “brazen” and “out.” _Timmy brazened out his teacher’s scolding about his bad behavior._ _I’m so impressed that you brazened out that long drive in torrential rain._  
 __break a sweat__  
 __break even__  
+__bromance__  
 __brown sugar__ :dart: _slang_ Heroine.  
 __buckle up__  
 __bullshit artist__ :smiling_imp: _rude slang_ A person expert at lies, deception, and hype. Someone who is apt to lie and embellish. _Oh, you can’t trust a word that bullshit artist says._  
@@ -109,6 +112,7 @@ __castles in the air__
 __Catch-22__  
 __chalk up__  
 __chase the dragon__ :dart: To smoke a controlled substance, often heroin. _I can’t chase the dragon anymore—I’m trying to get away from that stuff._  
+__chicken shit__  
 __chime in__  
 __clear the table__ To remove objects from a table. This phrase is often said after a meal, as one removes dishes, silverware, and leftover food from the table. _After the meal I cleared the table._  
 __close shave__  
@@ -138,12 +142,14 @@ __discretion is the better part of valor__ _proverb_
 __do the trick__ To do, accomplish, or fulfil exactly what is needed or sought after. _The recipe calls for pancetta, but I think this regular bacon should do the trick._  
 __dodge__ :three::smiling_imp: /dɑdʒ/ A swindle; a scam; a deception. _What sort of dodge did you get flimflammed with?_  
 __don’t ask__  
+__don’t even think about it__ :two: _informal_ Used to tell someone in a forceful way that something is not allowed. _It’s illegal to park here. Don’t even think about it!_  
 __don’t worry, be happy__ The phrase “Don’t worry, be happy” has its origins in the teachings of the Indian spiritual master Meher Baba. He frequently used this expression in communications with his followers, particularly in the West, as a succinct message of encouragement and positivity. Meher Baba’s teachings emphasized the importance of maintaining a positive outlook.  
 __double or quits__ A wager, undertaken after a previous wager, that stipulates two possible outcomes: if the winner of the previous wager wins again, they win twice the amount won in the previous wager; if they lose, they receive nothing. Primarily heard in UK.  
 __down the line__ In the future.  
 __downed on (someone)__  
 __downer__  
 __drag (one’s) feet__  
+__drain from (someone or something)__ _The color has drained from him._  
 __dressed to the nines__  
 __dried milk__ _n_ Dehydrated milk.  
 __drop in__ To visit someone casually or unexpectedly.  
@@ -167,6 +173,7 @@ __figure of speech__ A form of expression in language, either spoken or written,
 __fill the gap__  
 __first come, first served__ The first people present will be the first to receive something, often something that is available in limited quantities.  
 __fit the bill__  
+__floor (one)__  
 __flying squad__ _n_ A small group of police, soldiers, etc, ready to move into action quickly.  
 __fold__ :two: _informal_ __1__ Of a business, to fail or close; to cease to do business.  
 __follow suit__  
@@ -177,6 +184,7 @@ __for a fee__
 __for all I know__  
 __for better or (for) worse__  
 __for better or worse__  
+__for crying out loud__  
 __for kicks__ :two::hammer (just for kicks)  
 __for starters__  
 __for the most part__  
@@ -202,6 +210,7 @@ __give (one) the green light__ :two::hammer:
 __give (one) the silent treatment__  
 __give (someone) a lift__  
 __give (someone) an out__ To provide someone with an excuse or a means of escaping (from something).  
+__give a flying fuck__ (usually in a negative use, vulgar) To care whatsoever.  
 __give a hiding__ The idiom “give a hiding” primarily means to deliver a severe beating or punishment. This usage is particularly common in British English, where it can refer to both physical punishment and a figurative sense of defeat.  
 __give a shit__  
 __give or take__  
@@ -241,6 +250,7 @@ __go with the territory__ To typically accompany a certain situation; to be a us
 __God rest someone’s soul__ May God bless a previously mentioned person who has died. _I remember what my mother, God rest her soul, used to say about that._  
 __golden__  
 __good grief__ :dart::two: An expression of surprise or frustration. _Oh, good grief—my car won’t start again._  
+__good riddance__ :dart: An expression used when one is pleased that someone or something is leaving or stopping. A shortened version of the phrase “good riddance to bad rubbish.” _Well, I didn’t want to talk to you anyway, so good riddance!_  
 __good to go__  
 __good-time Charlie__ An affable, lively, and entertaining man who is often or always seeking pleasure or a good time.  
 __goon__  
@@ -285,6 +295,7 @@ __huff and puff__ Make noisy, empty threats; bluster. For example, _You can huff
 __hung jury__ :dart: A jury that cannot agree on a verdict.  
 __I beg your pardon__ :dart: __1__ :dart: I apologize for what I just did or said. _Oh, I beg your pardon. I wasn’t looking where I was going._ __2__ What did you just say? _Could you please repeat that? I beg your pardon, I couldn’t quite hear you._ __3__ An expression or exclamation of indignation or incredulous disbelief. _A: “I’m afraid we’re going to have to cut your funding, effective immediately.” B: “I beg your pardon? Who on earth decided that?”_ __4__ Could you please give me your attention. _I beg your pardon, everyone, but I’d like to get tonight’s proceedings underway._ __5__ :dart: I believe you are mistaken or incorrect; I beg to differ; I don’t agree with you on that. _I beg your pardon, but I believe you’ll find that our school is actually one of the best in the state._  
 __if (one’s) life depended on it__ Under any circumstances; no matter what. (Used almost exclusively with a negative statement regarding something that one couldn’t or wouldn’t do.) _No way am I going to karaoke night. I couldn’t sing if my life depended on it!_  
+__if anything__  
 __if it ain’t broke, don’t fix it__ :two::hammer: (if it isn’t broke, don’t fix it)  
 __if nothing else__ :dart: A phrase used to indicate that something is a priority or the most important thing. _I know you’re busy today, so if nothing else, please make sure you respond to these messages._ _If nothing else, we’ll at least get our money back._  
 __If you can’t beat ’em, join ’em__  
@@ -362,7 +373,7 @@ __inner circle__
 __insofar as__ :two: To such an extent that; to the degree that. _Insofar as money is concerned, our project will be completely funded by private donations._  
 __iron grip__ __2__ Total, dominant control (over someone or something).  
 __it ain’t over till/until the fat lady sings__  
-__it goes without saying__  
+__it goes without saying__ :two::hammer:  
 __it never rains but it pours__ When something good or bad happens, similarly good or bad things tend to follow.  
 __it remains to be seen__ Something is not yet clear, certain, or known.  
 __it wouldn’t do (someone) any harm (to do something)__ It would or may be good, pragmatic, or beneficial for someone (to do something). _You know, it wouldn’t do you any harm to comb your hair from time to time._  
@@ -517,6 +528,7 @@ __make (one’s) eyes pop (out)__
 __make (one’s)/the rounds__  
 __make (something) clear (to one)__ :two:hammer:  
 __make a difference__ :four::hammer:  
+__make a fortune__  
 __make a fuss__ :two: To be a nuisance or cause a disturbance by complaining, arguing, etc. (about something).  
 __make a run for (someone or something)__ :two: To run in order to escape something or to reach a destination quickly, perhaps before a certain time or before something happens.  
 __make amends__  
@@ -573,6 +585,7 @@ __no end in sight (to something)__
 __no hard feelings__  
 __no holds barred__  
 __no kidding__  
+__no nonsense__ _ad´_ Totally serious; with no tricks or deceit. Hyphenated before a noun. _We’re going to start adopting a no-nonsense approach to the problem._ _Her demeanor is no-nonsense about asking personal questions._  
 __no picnic__ _It’s no picnic walking around with a guilty conscience._  
 __no pun intended__  
 __no question about it__ :two: Definitely; for sure.  
@@ -603,6 +616,7 @@ __oddly enough__
 __of (one’s) own accord__  
 __of all places__ Being the least expected place compared to anywhere else.  
 __of all stripes__ Of many varieties or types. _You meet people of all stripes when you live in a big city._  
+__of late__  
 __of note__  
 __off again, on again__  
 __off the hook__ :three::hammer:  
@@ -657,6 +671,7 @@ __over and out__ Said to mark the end of communication between two people. Used 
 __over the phone__ :two: By calling on the telephone. _You can order a pizza over the phone._  
 __pave the way (for someone or something)__ To create a situation in which it is easier for someone to do something or something to happen.  
 __pay lip service__ :smiling_imp:  
+__peck at__  
 __peeper__ peeper__ One’s eye. (That is, what one uses to peep.) Typically used in the plural and often used to refer to the eyes of children. _Your baby girl has such beautiful peepers!_  
 __photobomb__  
 __pick up on (something)__ To detect or notice something; to become alert to or aware of something.  
@@ -667,6 +682,8 @@ __pin down__
 __pinch__ _slang_ :two: __1__ _v_ To steal something.  
 __pins and needles__  
 __piss off__  
+__pissant<sup>1</sup>__ _n_  
+__pissant<sup>2</sup>__ _adj_  
 __pitch (something) at__  
 __play havoc with (someone or something)__ To cause issues or disruptions for someone or something. _The road closures have played havoc with rush-hour traffic._  
 __plop down__ _informal_ __1__ To sit or lie down in a heavy or careless way. _He plopped himself down in the chair._ __2__ To drop or place (something or someone) in a heavy or careless way. _He plopped the tray down._ __3__ _US_ To pay or spend (money). _I can’t afford to just plop down $30 for a T-shirt._  
@@ -699,6 +716,7 @@ __rags to riches__ Characterized by a rise from poverty to great or exceptional 
 __raise eyebrows__  
 __rake in__  
 __recoup (something) from (someone or something)__ To recover, regain, or restore something from someone or something. _You’ll have to pay for everything out of pocket, but you can recoup it all from HR after you’re back from the trip._  
+__ride or die__ _n_ One’s closest, most reliable or trustworthy friends. _Liz is my ride or die—I can totally count on her to be there for me in any situation._  
 __roast__  
 __roll with the punches__  
 __rolling stone__  
@@ -715,9 +733,11 @@ __rush into (something)__
 __same old same old__ :two::hammer:  
 __same shit, new wrapping__ Colloquial expression that conveys the idea that something has been superficially changed or repackaged but remains fundamentally the same. It suggests that despite appearances, the underlying issues or qualities have not been altered.  
 __save (one’s) bacon__  
+__says who__  
 __scare the crap out of (one)__ _rude slang_ To shock or frighten one very suddenly or severely. Hyperbolically alludes to frightening one so badly as to cause them to lose bowel control.  
 __scheme for (something)__ To form or contrive a secret or devious plan or conspiracy in order to obtain, achieve, or accomplish something. _We spent the afternoon scheming for a way to get into the elite Hollywood party so we could meet some celebrities._  
 __scrape by__  
+__scumbag__ :smiling_imp:  
 __see (one) in the flesh__ To see one in person who is usually only seen at a distance, especially through a medium such as film, music, theater, etc. _After years of idolizing the singer, it was a bit anticlimactic seeing her in the flesh._  
 __see fit__ :dart: Deem appropriate, as in _He’s entitled to divide up his property as he sees fit_, or _If we see fit to attend, we’ll be there._  
 __seep in(to something)__  
@@ -743,6 +763,7 @@ __shrink from (someone or something)__ :dart: __1__ To recede or recoil from som
 __shuffle off__  
 __shut out__  
 __shy away (from someone or something)__  
+__sick__ _slang_ Excellent; superb. _He did some sick tricks on his skateboard._  
 __single file__ A line of things or people, one person or one thing wide. _Please get into single file._ _You have to march single file._  
 __single out__  
 __sit still (for something)__ __2__ To fail or choose not to act in response to something; to endure or tolerate something passively or submissively. _I couldn’t just sit still for condescending, hypocritical remarks, so I gathered my things and walked right out of the building._  
@@ -777,6 +798,7 @@ __sounds like__
 __speak (one’s) mind__ To voice one’s thoughts plainly or bluntly.  
 __speed__ _slang_ Any illicit stimulant drug, especially amphetamine or methamphetamine. _We all used to take speed during college to help us study._  
 __spend a penny__ _euphemism_ To go to the toilet. Primarily heard in UK.  
+__square off__  
 __stalk out__ To leave (some place) in a haughty, stiff, or threatening manner.  
 __stamp of approval__ An indication of endorsement or authorization of something.  
 __stand a chance__ To have a possibility, however remote, of succeeding; to possibly be able to do something. Often used in the negative to mean the opposite. _If that road is closed, we don’t stand a chance of making it on time._  
@@ -793,6 +815,7 @@ __take heart (from something)__ To receive courage or comfort from some fact. _I
 __take heart__ To have one’s confidence, courage, or happiness bolstered (by something). _We may have lost the election, but we take heart in the fact that so many young people are now engaged and excited about politics._  
 __take the fall (for someone or something)__  
 __take umbrage__  
+__takedown__ :dart: _slang_ A taking down: the arrest of a suspect by a police officer. _She shot and killed two drug dealers in a takedown that went bad._  
 __team up (with one)__  
 __tell me about it__  
 __that does the trick__ That is all that was remaining or required to accomplish something. _There, that does the trick. The engine should be as good as new, now!_  
