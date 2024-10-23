@@ -152,6 +152,7 @@ __dusky__ _adj_ Characterized by little or inadequate light; shadowy. _Syn_ twil
 __duster__ _n_ :dart::camera: A loose coverall (coat or frock) reaching down to the ankles. _Syn_ gaberdine, smock  
 __duty solicitor__ _n_ (duty counsel, duty lawyer) A solicitor whose services are available to a person either suspected of, or charged with, a criminal offence free of charge (pro bono), if that person does not have access to a solicitor of their own and usually if it is judged by a means test that they cannot afford one. The system is operative in several Commonwealth countries, including the United Kingdom, Australia, New Zealand and Canada.  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
+__egotistical__ _adj_ Characteristic of those having an inflated idea of their own importance. _Syn_ egotistic, narcissistic, self-loving  
 __egret__ _n_  
 __eldritch__ _adj_ /ˈɛl drɪtʃ/ Eerie; weird; spooky.  
 __electrical type__ _n_ A poorly conductive plastic tape used to insulate electrical wires. _Syn_ friction tape, insulating tape, electric tape  
@@ -163,6 +164,7 @@ __emphasize__ _vt_ /ˈɛm fəˌsaɪz/
 __end-stage__ _adj_ /ĕnd′stāj′/ Of or relating to the final phase of a terminal disease.  
 __endure__ _v_ _I could hardly even endure my own reflection in the mirror._  
 __enlightened__ _adj_ _Enlightened despot._  
+__ennui__ _n_ :es: desgana  
 __ensconce__ _v_  
 __entanglement__ _n_ /ɛnˈtæŋ gəl mənt/  
 __entrenched__ _adj_ __1__ Established firmly and securely. _The entrenched power of the nobility._  
@@ -181,6 +183,7 @@ __exorbitant__ _adj_ /ig-ZOR-buh-tunt/
 __extort__ _vt_ :smiling_imp: /ik-STORT/ [:scroll: From Latin extorquere (to wrench out), from ex- (out) + torquere (to twist)] To obtain something by psychological pressure, intimidation, force, threat, etc.  
 __fallacious__ _adj_ /fuh-LAY-shus/ _Fallacious_ is a formal word that typically describes something, such as an argument or assumption, that is false or inaccurate and that tends to mislead or deceive others.  
 __fallow__  
+__falsehood__ _n_ /ˈfɔls hʊd/  
 __fanfare__ _n_ /FAN-fayr/ __1__ A showy public display. __2__ A brief, lively sounding of brass instruments, especially trumpets, in a celebration.  
 __fang__ _n_ __2__ A long, sharp, pointed tooth, especially a canine tooth of a carnivorous animal, such as a dog or wolf, with which it seizes and tears its prey.  
 __far__ _adv_ __3__ To a considerable degree; much: _felt far better yesterday; eyes that seemed far too close together._  
@@ -194,6 +197,7 @@ __fazed__ _adj_ /feɪzd/ Disconcerted; worried; disturbed.
 __fealty__ _n_ /FEE-ul-tee/ _Fealty_ is an old-fashioned and somewhat literary word that refers to intense loyalty or fidelity to a person, group, etc. More narrowly, _fealty_ refers to the fidelity of a vassal or feudal tenant to their lord.  
 __feckless__ _adj_ /FECK-lus/ _Feckless_ describes people or things that are weak or ineffective.  
 __feeder__ _n_ A branch that flows into the main stream. _Syn_ confluent, tributary, affluent  
+__feedstore__ _n_ A store selling feed for animals.  
 __feint__ _n_  
 __felon__ _n_  
 __felony__ _n_ A crime that has a greater punishment imposed by statute than that imposed on a misdemeanor.  
@@ -301,6 +305,8 @@ __grovel__ _vi_
 __grunt__ _n_  
 __guffaw__ _n_  
 __gullet__ _n_ /ˈgʌl ɪt/ __1__ A less formal name for the esophagus. __2__ The throat.  
+__gurney__ _n_ /ˈɡɜːnɪ/ _Medicine_ _US_ A wheeled stretcher for transporting hospital patients.  
+__hackneyed__ _adj_  
 __hacksaw__ _n_ :dart: A handsaw for cutting metal, with a hard-steel blade in a frame under tension.  
 __haggard__ _adj_  
 __handicraft__ _n_ Skill or dexterity in working with the hands.  
@@ -321,6 +327,7 @@ __hearth__ _n_ The floor of a fireplace, usually extending into a room and paved
 __heat index__ _n_  
 __heath__ _n_  
 __heinous__ _adj_ /HAY-nus/ _Heinous_ describes things—such as acts, deeds, or crimes—that are hatefully or shockingly evil, or in other words, deserving of hate or contempt.  
+__hobgoblin__ _n_  
 __hoover__  
 __horse brass__ _n_ :camera: A decorative brass ornament, usually circular, originally attached to a horse’s harness.  
 __hotplate__ _n_ :two::hammer:  
@@ -330,6 +337,8 @@ __huddle__ _v_
 __huff__ _v_  
 __humdrum<sup>1</sup>__ _adj_ Lacking variety or excitement. _Syn_ dull  
 __humdrum<sup>2</sup>__ _n_ A monotonous routine, task, or person.  
+__hurl__ _v_  
+__hypertrichosis__ _n_ A condition of excessive hairiness either all over the body or covering a particular part.  
 __ideate__ _v_ /EYE-dee-ayt/ To ideate is to form an idea or conception of something..  
 __indigenous__ _adj_ /ɪnˈdɪdʒ ə nəs/ __1__ Originating in and characteristic of a particular region or country; native (often fol. by to): _plants indigenous to Canada; indigenous peoples of southern Africa._  
 __interfere__ _v_  
@@ -359,6 +368,7 @@ __jurisprudence__ _n_ /joor-us-PROO-dunss/ _Jurisprudence_ is a formal word that
 __justice of the peace__ _n_ (JP) A local magistrate empowered chiefly to administer summary justice in minor cases, to commit for trial, and to administer oaths and perform marriages.  
 __keen__ _adj_ (keener, keenest)  
 __keepsake__ _n_  
+__killing field__ _n_  
 __Kitemark__ _n_ _BrE_ The official mark of quality and reliability, in the form of a kite, on articles approved by the British Standards Institution.  
 __kudos__ _n_ /KOO-dahss/  
 __kung fu__ _n_ /ˈkʌŋ ˈfu, ˈkʊŋ/  
@@ -373,12 +383,14 @@ __lassitude__ _n_ :dart: A state or feeling of weariness, diminished energy, or 
 __latch__ _n_  
 __lathe__ _n_  
 __leaf peeper__ _n_ (chiefly informal US) A tourist who visits New England in autumn to see the changing colours of the foliage.  
+__lean__ _adj_  
 __leathern__ _adj_ Made of, covered with, or resembling leather.  
+__leery__ _adj_ :dart::smiling_imp: Suspicious or distrustful; wary: _was leery of aggressive salespeople._  
 __leisure__ _n_  
 __lemony__ _adj_ :astonished: /ˈlɛmənɪ/  
 __lentitude__ _n_ /LEN-tuh-tood/tyood/ Slowness or sluggishness.  
 __lethargic__ _adj_ :two: /luh-THAHR-jik/ Of, relating to, or affected with lethargy; drowsy; sluggish; apathetic. _Lethargic_ describes people who feel a lack of energy or a lack of interest in doing things. It is sometimes used figuratively, as in “a sluggish and lethargic economy.”  
-__lewd__  
+__lewd__ _adj_ :two::hammer:  
 __Lewis gun__  
 __liable__ _adj_  
 __liaise__ _v_ (usually foll by: _with_) To communicate and maintain contact (with). _They can put you in touch with solicitors, and liaise with police._  
@@ -410,6 +422,7 @@ __logodaedalus__ _n_ /log-uh-DEE-duh-luhs/ One skilled with words.
 __lonely hearts__ _adj_ :dart::two: (often capitals) Ff or for people who wish to meet a congenial companion or marriage partner: _a lonely hearts advertisement._  
 __long-standing__ _adj_ (longstanding)  
 __lookout__ _n_ _Lookouts were posted._  
+__lope__ _vi_ __1__ To run with long steps. :es: andar/correr con paso largo :es: _to lope along_ andar a grandes zancadas, correr dando grandes zancadas  
 __lope<sup>1</sup>__ _vi_ __1__ (of a person) To move or run with a long swinging stride. __2__ (of four-legged animals) To run with a regular bounding movement.  
 __lope<sup>2</sup>__ _n_  
 __lore__ _n_ Accumulated facts, traditions, or beliefs about a particular subject. _Syn_ traditional knowledge  
@@ -430,6 +443,7 @@ __luminal__ _adj_
 __lump sum__ _n_ A single sum of money that serves as complete payment.  
 __lump__ _v_  
 __lunchtime__ _n_ :pencil2:  
+__lurch__ _v_  
 __lycanthrope__ _n_  
 __machtpolitik__ _n_ /MAHKHT-pol-ee-teek/ Power politics: policies that advocate the use of power and physical force to attain their goals.  
 __maggot__ _n_ :two: __1__ The legless, soft-bodied, wormlike larva of any of various dipteran flies, often found in decaying matter. :es: gusano  
@@ -439,6 +453,7 @@ __mains tester__ _n_ An insulated screwdriver with a light in the handle.
 __make__ _n_ :astonished:  
 __malevolent__ _adj_ :smiling_imp: Wishing evil or harm to another or others.  
 __mandatory__ _n_ :mega: /ˈmæn dəˌtɔr i, -ˌtoʊr i/  
+__mangle__ _v_ __2__ To ruin or spoil through ineptitude or ignorance: _mangle a speech._  
 __mantra yoga__ _n_ A meditation practice that focuses on chanting sacred syllables along with conscious breathing and a meditative focus to quiet the mind, cultivate spiritual energy, and create states of enlightenment.  
 __marionette__ _n_ _Syn_ puppet  
 __marksman__ _n_  
@@ -461,6 +476,7 @@ __midriff__
 __militia__ _n_ /mɪˈlɪʃ ə/  
 __millpond__ _n_ __1__ A pool formed by damming a stream to provide water to turn a millwheel.  
 __mince__ _v_  
+__Mini-Me__ _n_ _chiefly humorous_ A person who is a miniature, but otherwise identical, version of a particular person.  
 __miniscule__ _adj_ :astonished:  
 __mirth__ _n_ Gladness and merriment, especially when expressed by laughter.  
 __misanthrope__ _n_ (misanthropist) A person who dislikes or distrusts other people or mankind in general.  
@@ -483,6 +499,7 @@ __morass__
 __morrow__ _n_  
 __mothball__ _n_ Asmall sphere of camphor or naphthalene used to keep moths away from stored clothing. _Syn_ camphor ball  
 __mother of pearl__ _n_  
+__motor__ _v_  
 __mountaineering__  
 __mourning band__  
 __mpox__ _n_ (formerly called _monkey pox_) A zoonotic disease especially of central and western Africa that is caused by a poxvirus.  
@@ -505,6 +522,7 @@ __neophile__ _n_ NEE-uh-fyl/ One who loves new or novel things.
 __newsagent__ _n_ A shopkeeper who sells newspapers, stationery, etc. _Syn_ newsdealer  
 __nibble__ _v_  
 __nigh__ _adj, adv, prep_ /naɪ/ An archaic, poetic, or dialect word for near.  
+__nightcap__ _n_  
 __no-man’s-land__ _n_ :three: __1__ _Military_ Land between boundaries, esp an unoccupied zone between opposing forces.  
 __nodule__ _n_  
 __noggin__ _n_ __1__ A small mug or cup. __2__ A unit of liquid measure equal to one quarter of a pint. __3__ _slang_ The human head.  
@@ -521,6 +539,7 @@ __nubbly__ _adj_ Rough or irregular; textured. _Syn_ homespun, nubby, slubbed, t
 __nudge__ _vt_  
 __nursing__ _n_ __1__ The profession of a nurse. __2__ The tasks or care of a nurse.  
 __nurture__ _n, vt_  
+__nutmeg__ _n_  
 __nuzzle__ _v_  
 __oblige__ _vt_  
 __obsequious__ _adj_  
@@ -550,6 +569,7 @@ __outlay__ _n_
 __outline__ _v_  
 __paean__ _n_  
 __panacea__ _n_ /pan-uh-SEE-uh/  
+__pantsuit__ _n_  
 __paratrooper__  
 __parched__ _adj_ :es: abrasado, reseco  
 __Parkinson’s law__ _n_ /PAHR-kin-suhnz law/ The observation that work expands to fill the time available.  
@@ -602,12 +622,14 @@ __pimple__ _n_ :es: espinilla
 __pip__ _n_ __1__ (Veterinary Science) A contagious disease of poultry characterized by the secretion of thick mucus in the mouth and throat. __2__ _facetious slang_ A minor human ailment.  
 __pitch<sup>1</sup>__ _n_ :es: (esp. _British_) campo, cancha  
 __pitch<sup>2</sup>__ _vt_  
+__pittance__ _n_  
 __plaintiff__ _n_  
 __plead__ _v_  
 __plebiscite__ _n_  
 __plod__ _v_ To walk heavily or move laboriously; trudge.  
 __plover__ _n_ :es: chorlito  
-__pluck__ _v_  
+__pluck__ _v_ :two::hammer:  
+__plug__ _n_ __6a__ A flat cake of pressed or twisted tobacco. __b__ A piece of chewing tobacco.  
 __plumb__ _adj, adv, n_ _Bruises and plumb lines._  
 __plush<sup>1</sup>__ _n_  
 __plush<sup>2</sup>__ _adj_  
@@ -624,6 +646,7 @@ __pontoon__ _n_
 __pool__ _n_ __1a__ A game of chance, resembling a lottery, in which the contestants put staked money into a common fund that is later paid to the winner. __b__ A fund containing all the money bet in a game of chance or on the outcome of an event.  
 __poplar tree__  
 __porky__ _adj_ __1__ Of or like pork: _a porky flavor._ __2__ _Derogatory Slang_ Fat or corpulent.  
+__port-o-john__ _n_ A portable toilet.  
 __portentous__ _adj_ Marvelous.  
 __porter__ _n_ __1__ A person employed to carry luggage, parcels, supplies, etc, esp at a railway station or hotel.  
 __possess__ _v_  
