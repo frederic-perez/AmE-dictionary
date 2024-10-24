@@ -12929,13 +12929,14 @@ __obtuseness__
 __obverse__ _n_ :two: __1__ The side of a coin, medal, or badge that bears the principal stamp or design. _The obverse hub of a coin._  
 __obviate__ _vt_ :two::astonished: [:scroll: From Latin obviare (to act contrary), from ob- (against) + via (way)] To anticipate and dispose of effectively;; to render unnecessary; to remove, avoid, or prevent. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
 __Occam’s Razor__ _n_ The principle that entities should not be multiplied needlessly; the simplest of two competing theories is to be preferred.  
-__occasion__ _n_ :seven::mega::pencil2: /əˈkeɪʒən/ An event that occurs at a critical time. _It was needed only on special occasions._  
+__occasion__ _n_ :nine::m::mega::pencil2: /əˈkeɪʒən/ An event that occurs at a critical time. _It was needed only on special occasions._  
 __occasional__ _adj_ :pencil2:  
-__occasionally__ _adv_ :pencil2:  
+__occasionally__ _adv_ :two::pencil2: Now and then; from time to time.  
 __occiput__ _n_ /OK-suh-puht/ [:scroll: From Latin occipit, from oc- (against) + caput (head)] The back part of the head or skull.  
 __occlude__ _v_ To cause to become closed. _Syn_ obturate, impede, obstruct, jam, block _The excess inventory had occluded the exit, and was deemed a hazard by the safety inspector._  
 __occult__ _adj_ Of, relating to, or dealing with supernatural influences, agencies, or phenomena. _Syn_ supernatural _His superstitions led him to the study of occult subjects, much to the dismay of his highly rational parents._  
 __occultation__ _n_ /ah-kuhl-TAY-shuhn/ __1__ The state of being hidden or blocked. __2__ The passage of a celestial object in front of another, hiding it from view.  
+__occultism__ _n_  
 __occupation__ _n_ /ˌɒk yəˈpeɪ ʃən/  
 __occurr__ _vi_ :pencil2:  
 __ochlophobia__ _n_ :astonished: An abnormal fear of crowds.  
@@ -12947,10 +12948,12 @@ __octogenarians__
 __octopi__ _n pl_ A plural of octopus.  
 __octoroons__  
 __octothorpe__ _n_ :two: The symbol (#).  
+__odalisque__ _n_ (odalisk) A female slave or concubine.  
 __odd__ _adj_ :three::hammer: _Bikes are allowed in City Creek Canyon on odd days._ __2__ Being in excess of the indicated or approximate number, extent, or degree. Often used in combination: _invited 30-odd guests._ _Fifty-odd years._  
 __oddball__ _n informal_ :six: A strange or eccentric person. :es: bicho raro  
 __oddity__ _n_  
 __oddly enough__ _adv_ :two::hammer:  
+__oddment__ _n_  
 __odds__ _pl n_  
 __oddsmakers__  
 __oddyssey__ _n_ :pencil2: _A harrowing oddyssey._  
@@ -12971,9 +12974,9 @@ __off-color__ _adj_ :four: An off-color joke or remark is rude or offensive. _Of
 __off-guard__ _adj_ Not prepared or vigilant.  
 __off-hand__ _adv_  
 __off-key__ _adj, adv_ Varying in pitch from the proper tone of a melody.  
-__off-limits__ _adj_  
+__off-limits__ _adj_ :two::hammer:  
 __off-price stores__  
-__off-putting__ _adj_ :three::hammer:  
+__off-putting__ _adj_ :dart::four: Provoking uneasiness, dislike, annoyance, or repugnance. Tending to disconcert or repel: _was rankled by the off-putting remarks._  
 __off-street__ _adj_ Located away from a street. _Off-street parking._  
 __off-the-clock__ _adv_ Overtime without extra compensation. _She often has to work off-the-clock._  
 __off-the-cuff__ _adj_ :three::hammer: _It was just an off-the-cuff remark._  
@@ -12984,6 +12987,7 @@ __off<sup>3</sup>__ _prep_ :two::hammer: _She got off the train._
 __off<sup>4</sup>__ _v_ _slang_ To murder, to kill.  
 __offal__ _n_ :two: __1__ Waste parts, esp. the viscera or inedible remains of a butchered animal. __2__ Refuse or rubbish; garbage.  
 __offbeat__ _adj_ _slang_ :five: Not conforming to an ordinary type or pattern; unconventional: _offbeat humor._ _His offbet partner._ _Offbeat nature._  
+__offcut__ _n_ /ˈɒfˌkʌt/ A piece of paper, plywood, fabric, etc, remaining after the main pieces have been cut; remnant.  
 __offhand__ _adj_ :two::hammer:  
 __offhandedly__ _adj_  
 __officer__ _n_ :two::hammer:  
@@ -12993,7 +12997,7 @@ __offline__ _adj_ __3__ Conducted in private or without the knowledge of others:
 __offload__ _v_  
 __offprint__ _n_ A reproduction of or an excerpt from an article that was originally contained in a larger publication. _Syn_ separate, reprint  
 __offramp__  
-__offset<sup>1</sup>__ _v_ :five::hammer: (offsetting) __1__ To counterbalance, counteract, or compensate for: _fringe benefits designed to offset low salaries._  
+__offset<sup>1</sup>__ _v_ :six::hammer: (offsetting) __1__ To counterbalance, counteract, or compensate for: _fringe benefits designed to offset low salaries._  
 __offset<sup>2</sup>__ _n_ _Roots, cracks, offsets and bellies are common issues in Utah’s older homes._  
 __offshoot__ _n_ :three::hammer:  
 __offshore__  
@@ -13001,11 +13005,12 @@ __oft__ _adv_ :three::hammer: _The oft-hated SAT._
 __oft-shouting-sermon__  
 __often__ _adv_ :mute:[of~~t~~en]  
 __oftentimes__ _adv_ :seven: Frequently; repeatedly.  
-__ogle__ _v_ :three::hammer: (ogled)  
+__ogle__ _v_ :four::hammer:  
 __ogre__ _n_ :two::hammer:  
 __Ohioans__  
 __oil slick__ _n_ A film or layer of oil floating on an expanse of water, especially one that has leaked or been discharged from a ship. _The greasy shine of an oil slick._  
 __oilcloth__  
+__oilskin__ _n_ :two::hammer:  
 __oily__ _adj_ Too friendly and polite in a way that is not sincere.  
 __okapi__ _n_ :two::hammer:  
 __okay<sup>1</sup>__ _adj, adv, vt_ /ˈoʊˈkeɪ, ˌoʊˈkeɪ, ˈoʊˌkeɪ/  
@@ -13015,7 +13020,7 @@ __okra__ _n_ :two::hammer:
 __Oktoberfest__ _n_  
 __Old Crow__ _n_  
 __Old Dominion__ _n_ :two: A reference to the Colony of Virginia, which became the “Dominion of Virginia.”  
-__Old Glory__ _n_ The flag of the United States.  
+__Old Glory__ _n_ :two: The flag of the United States. _You can always count on Dad to hang up Old Glory for the Fourth of July._  
 __old hat__  
 __Old Hickory bat__  
 __old man__  
@@ -13041,14 +13046,14 @@ __omelet__ _n_ :two::hammer::mega: (omelette)
 __omen__ _n_ :seven::hammer:  
 __omicron__ _n_ :two: /ˈɒm ɪˌkrɒn, ˈoʊ mɪ-/ [:scroll: Middle English, from Greek o mīkron, _small o (because of its being a short vowel in Greek)_] The 15th letter of the Greek alphabet (Ο, ο).  
 __omics__ _n_  
-__ominous__ _adj_ :nine::m: /AH-muh-nus/ Something described as ominous hints or suggests that something bad is coming or is going to happen. Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
+__ominous__ _adj_ :dart::nine::m: /AH-muh-nus/ Something described as ominous hints or suggests that something bad is coming or is going to happen. Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
 __ominously__  
 __omission__  
 __omnia vincit amor__ _phr_ /ˈɒmnɪə ˈvɪnsɪt ˈæmɔː/ Love conquers all things.  
 __omnibox__ _n_ _An Omnibox is similar to the traditional web browser address bar, but you can also use it like a search engine. The Omnibox in Google Chrome can also perform mathematical calculations and even answer questions such as “how many cups are in 2 liters?”_  
 __omnibus bill__ _n_ A bill that includes a number of miscellaneous provisions or appropriations.  
 __omnibus<sup>1</sup>__ _adj_ Containing or including many items.  
-__omnibus<sup>2</sup>__ _n_ :three::hammer:  
+__omnibus<sup>2</sup>__ _n_ :four: __1a__ A large horse-drawn public conveyance, especially of the late 1800s.  
 __omnifarious__ _adj_ Of all kinds: _omnifarious knowledge._  
 __omnipresent__ _adj_  
 __omniscient__ _adj_ :two: Having complete or unlimited knowledge, awareness, or understanding; perceiving all things. Having total knowledge; knowing everything: _an omniscient deity; the omniscient narrator._  
@@ -13101,8 +13106,9 @@ __onomatopoeia__ _n_ :two: /ah-nuh-mah-tuh-PEE-uh/ Onomatopoeia means “the cre
 __onset__ _n_ :nine::mega::astonished: __1__ The beginning or start of something: _the onset of a cold._ _Early onset dementia._ __2__ An attack; assault.  
 __onside kick__ _n_ Short kick-off that travels just far enough to be recoverable by the kicking team.  
 __onslaught__ _n_ :seven: A violent attack. _The onslaught of the Jacques._  
+__ontic__ _adj_ /ON-tik/ [:scroll: From Greek onto (being)] Having or relating to a real existence.  
 __ontology__ _n_  
-__onus__ _n_ :nine::m: /OH-nuss/ __1__ A difficult or disagreeable responsibility or necessity; a burden or obligation. If the onus is on someone to do something, it is their responsibility or duty to do it. Onus is a formal word that means “a responsibility, obligation, or burden.” It is usually preceded by the word _the._ _Management has made it clear that the onus is on employees to ask for further training if they don’t understand the new procedures._ _Ward’s statement puts the onus back on us._ _The onus for change._ __2__ It can also be used in some contexts as a synonym for blame or stigma.  
+__onus__ _n_ :dart::nine::m: /OH-nuss/ __1__ A difficult or disagreeable responsibility or necessity; a burden or obligation. If the onus is on someone to do something, it is their responsibility or duty to do it. Onus is a formal word that means “a responsibility, obligation, or burden.” It is usually preceded by the word _the._ _Management has made it clear that the onus is on employees to ask for further training if they don’t understand the new procedures._ _Ward’s statement puts the onus back on us._ _The onus for change._ __2__ It can also be used in some contexts as a synonym for blame or stigma.  
 __onyx__  
 __Oobleck__ _n_ A mixture of corn starch and water that behaves like a liquid when at rest and like a solid when pressure is applied.  
 __oofs__  
@@ -13176,7 +13182,7 @@ __Oregon__ _n_ :mega: /ˈɔr ɪ gən, -ˌgɒn, ˈɒr-/
 __organization__ _n_ :mega:  
 __organized crime__  
 __orgettery__ _n_ /fuhr-GET-uh-ree/ __1__ The capacity to forget easily. __2__ A poor memory.  
-__originally__ _adv_ :dart:  
+__originally__ _adv_ :dart::two::hammer:  
 __oriole__ _n_  
 __orison__ _n_ Reverent petition to a deity. _Syn_ petition, prayer  
 __ornament__ _n_ :two::hammer:  
@@ -13203,8 +13209,8 @@ __oscillating fan__
 __osculate__ _v_  
 __osprey__ _n_  
 __ossification__ _n_  
-__ossify__ _v_ :four: (ossified) __1__ (Anatomy) To convert or be converted into bone. __2__ (of habits, attitudes, etc) To become inflexible. To become set in a rigidly conventional pattern. _Syn_ rigidify, petrify _It takes millions of years for organic remains to ossify and turn into fossils._  
-__ostensible__ _adj_ /ah-STEN-suh-bul/ Seeming or said to be true or real but very possibly not true or real. _The ostensible purpose of a filibuster is to extend debate._  
+__ossify__ _v_ :five: /AH-suh-fye/ __1__ (Anatomy) To convert or be converted into bone. In medical contexts, something that ossifies (such as cartilage) forms or is transformed into bone. __2__ (of habits, attitudes, etc) To become inflexible. To become set in a rigidly conventional pattern. In general contexts, something that ossifies becomes hardened or conventional and opposed to change. _Syn_ rigidify, petrify _It takes millions of years for organic remains to ossify and turn into fossils._  
+__ostensible__ _adj_ :astonished::two: /ah-STEN-suh-bul/ Seeming or said to be true or real but very possibly not true or real. Appearing as such but not necessarily so. _Syn_ seeming, apparent _The ostensible purpose of a filibuster is to extend debate._  
 __ostentatious__ _adj_ :three: /ah-stun-TAY-shus/ /os-ten-tey-shuhs, -tuhn-/ Characterized by or given to pretentious or conspicuous show in an attempt to impress others.  
 __osteoarthritis__ _n_ :two: A chronic disease characterized by progressive degeneration of the cartilage of the joints, occurring mainly in older persons. Also called degenerative joint disease.  
 __ostium__ _n_ _Careful attention to the ostium of the appendage also provides valuable information for catheter ablation._  
@@ -13241,8 +13247,8 @@ __outback__
 __outbid__ _vt_  
 __outbound__ _adj_ :two::hammer: _Outbound trip._ _The latest trends in Chinese outbound tourism._  
 __outbox__ _n_  
-__outbreak__ _n_ :nine::m::astonished: (outbreaks) __1__ A sudden increase: _an outbreak of influenza._ __2__ A sudden eruption; an outburst: _“an outbreak of strikes, violent agitation, and arrests” (Samuel Chew)._  
-__outburst__ _n_ :four::hammer:  
+__outbreak__ _n_ :nine::m::astonished: __1__ A sudden increase: _an outbreak of influenza._ __2__ A sudden eruption; an outburst: _“an outbreak of strikes, violent agitation, and arrests” (Samuel Chew)._  
+__outburst__ _n_ :five::hammer:  
 __outcast__ _n_  
 __outcaste__ _n_  
 __outcome__ _n_ :three::hammer::mega: (outcomes) _Blood thinners improve outcomes for hospitalized COVID-19 patients._  
@@ -13267,14 +13273,14 @@ __outgrow__ _v_ :four: To grow bigger than or too big for something.
 __outgrowth__ _n_ :two::hammer:  
 __outgunned__ _v_ :two::hammer:  
 __outhouse__ _n_ :two: A small building detached from a house, such as a garden shed or sometimes a toilet.  
-__outing__ _n_ :nine::m: (outings) __1__ A short pleasure trip. _Country club outings._ __2__ _informal_ The act of revealing somebody’s homosexuality against their will.  
+__outing__ _n_ :nine::m: __1__ A short pleasure trip. _Country club outings._ __2__ _informal_ The act of revealing somebody’s homosexuality against their will.  
 __outlander__ _n_ :two: A person from a foreign country; a foreigner. _Syn_ alien, foreigner, noncitizen _As long as the number of outlanders remained small, the natives were friendly toward them._  
 __outlandish__ _adj_ :nine::m: /out-LAN-dish/ Looking or sounding bizarre or unfamiliar. _Outlandish_ describes things that are strikingly strange or unusual; in this use, it’s a synonym of _bizarre._ _Outlandish_ can also describe things, such as claims, rumors, and accusations, that go beyond reasonable limits or standards. _Silva’s outlandish attire._ _An outlandish claim._  
 __outlast__ _v_  
 __outlaw__ _n_  
-__outlay__ _n_ :three: (outlays) An expenditure of money, effort, etc. _Budget outlays._  
+__outlay__ _n_ :four: (outlays) An expenditure of money, effort, etc. _Budget outlays._  
 __outline<sup>1</sup>__ _n_  
-__outline<sup>2</sup>__ _vt_  
+__outline<sup>2</sup>__ _vt_ :two::hammer:  
 __outlook__ _n_ :six::hammer: _What’s the long term outlook after covid?_ _Embrace a more positive outlook every single day._  
 __outlying__ _adj_ Relatively distant or remote from a center or middle: _outlying regions._ _Outlying areas._  
 __outman__ _v_ (outmanned) _Hill was espectacular against the outmanned Thunderbirds._  
@@ -13441,7 +13447,7 @@ __paddleboat__ _n_ Small recreational boat powered by pedals that turn a paddle 
 __paddlewheel__  
 __paddock__ _n_  
 __padlock__  
-__paean<sup>1</sup>__ _n_ :nine: /PEE-uhn/ (paeans) [:scroll: From Latin paean, from Greek paian (hymn of thanksgiving to Apollo), after Paian, Paion (epithet of Apollo in the hymn).] An expression of praise, joy, or triumph, typically in the form of a song.  
+__paean<sup>1</sup>__ _n_ :nine::m: /PEE-uhn/ [:scroll: From Latin paean, from Greek paian (hymn of thanksgiving to Apollo), after Paian, Paion (epithet of Apollo in the hymn).] An expression of praise, joy, or triumph, typically in the form of a song.  
 __paean<sup>2</sup>__ _vt_ /PEE-uhn/ To make such an expression.  
 __pagan<sup>1</sup>__ _n_ :two: A follower of a polytheistic religion.  
 __pagan<sup>2</sup>__ _adj_ :two::hammer:  

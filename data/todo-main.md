@@ -523,7 +523,6 @@ __newsagent__ _n_ A shopkeeper who sells newspapers, stationery, etc. _Syn_ news
 __nibble__ _v_  
 __nigh__ _adj, adv, prep_ /naɪ/ An archaic, poetic, or dialect word for near.  
 __nightcap__ _n_  
-__no-man’s-land__ _n_ :three: __1__ _Military_ Land between boundaries, esp an unoccupied zone between opposing forces.  
 __nodule__ _n_  
 __noggin__ _n_ __1__ A small mug or cup. __2__ A unit of liquid measure equal to one quarter of a pint. __3__ _slang_ The human head.  
 __nominal price__ _n_  
@@ -543,31 +542,6 @@ __nutmeg__ _n_
 __nuzzle__ _v_  
 __oblige__ _vt_  
 __obsequious__ _adj_  
-__occasion__ _n_ :three::hammer::pencil2:  
-__occasionally__ _adv_ :pencil2: Now and then; from time to time.  
-__occultism__ _n_  
-__odalisque__ _n_ (odalisk) A female slave or concubine.  
-__oddment__ _n_  
-__off-limits__  
-__off-putting__ _adj_ :dart: Provoking uneasiness, dislike, annoyance, or repugnance. Tending to disconcert or repel: _was rankled by the off-putting remarks._  
-__offcut__ _n_ /ˈɒfˌkʌt/ A piece of paper, plywood, fabric, etc, remaining after the main pieces have been cut; remnant.  
-__offset__ _v_  
-__ogle__ _v_  
-__oilskin__ _n_ :two::hammer:  
-__Old Glory__ _n_ _You can always count on Dad to hang up Old Glory for the Fourth of July._  
-__ominous__ _adj_  
-__omnibus__ _n_ __1a__ A large horse-drawn public conveyance, especially of the late 1800s.  
-__ontic__ _adj_ /ON-tik/ [:scroll: From Greek onto (being)] Having or relating to a real existence.  
-__onus__ _n_ :dart:  
-__originally__  
-__ossify__ _v_ /AH-suh-fye/ In general contexts, something that ossifies becomes hardened or conventional and opposed to change. In medical contexts, something that ossifies (such as cartilage) forms or is transformed into bone.  
-__ostensible__ _adj_ :astonished: Appearing as such but not necessarily so. _Syn_ seeming, apparent  
-__outbreak__  
-__outburst__ _n_  
-__outing__ _n_  
-__outlay__ _n_  
-__outline__ _v_  
-__paean__ _n_  
 __panacea__ _n_ /pan-uh-SEE-uh/  
 __pantsuit__ _n_  
 __paratrooper__  
