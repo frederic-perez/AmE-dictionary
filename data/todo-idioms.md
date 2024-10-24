@@ -12,6 +12,7 @@ __a (whole) host of (something)__
 __a balancing act__ :dart:  
 __a bum ankle/leg, etc.__ An injured ankle, leg, etc.  
 __a far cry from (something)__  
+__a hell of a__ _informal_ (one hell of a) Used to emphasize something very bad or great. _You’re one hell of a package!_  
 __a joy to behold__ A thing, event, or experience that creates a profound sense of joy or elation in the spectator. _The spring flowers in this part of the country are truly a joy to behold._  
 __a laundry list of (something)__  
 __a legend in (one’s) own lifetime__ A person who has an extraordinary level of fame or reputation while they are still alive. _The singer has made such a huge impact on the world of blues that she’s come to be a legend in her own lifetime._  
@@ -189,7 +190,9 @@ __for kicks__ :two::hammer (just for kicks)
 __for starters__  
 __for the most part__  
 __for which read__ :dart: _Readjustment, scaling back, for which read — redundancies._ :es: léase  
+__forge ahead__  
 __free of charge__  
+__Freudian slip__  
 __from bad to worse__  
 __full-fledged__  
 __fussbudget__ :dart: _informal_ One who tends to be fussy or particular, usually to an excessive or unnecessary degree. Primarily heard in US. _Don’t be such a fussbudget, huh? This really isn’t a big deal._ _Of course Vanessa found some miniscule issue that no one else would have noticed. She’s such a fussbudget._  
@@ -251,6 +254,7 @@ __God rest someone’s soul__ May God bless a previously mentioned person who ha
 __golden__  
 __good grief__ :dart::two: An expression of surprise or frustration. _Oh, good grief—my car won’t start again._  
 __good riddance__ :dart: An expression used when one is pleased that someone or something is leaving or stopping. A shortened version of the phrase “good riddance to bad rubbish.” _Well, I didn’t want to talk to you anyway, so good riddance!_  
+__good things come in small packages__ Often the things that have the most value or quality are small; the size of something does not always properly indicate its value.  
 __good to go__  
 __good-time Charlie__ An affable, lively, and entertaining man who is often or always seeking pleasure or a good time.  
 __goon__  
@@ -592,6 +596,7 @@ __no question about it__ :two: Definitely; for sure.
 __no questions asked__  
 __no shit__  
 __no stranger to (something)__  
+__no-man’s-land__ _n_ :three: __1__ _Military_ Land between boundaries, esp an unoccupied zone between opposing forces.  
 __no-no__  
 __no-win situation__ :dart: A problem that has no ideal solution.  
 __noblesse oblige__ /noh-BLESS-uh-BLEEZH/ Noblesse oblige refers to the idea that people who have high social rank or wealth should be helpful and generous to people of lower rank or to people who are poor.  
@@ -682,6 +687,7 @@ __pin down__
 __pinch__ _slang_ :two: __1__ _v_ To steal something.  
 __pins and needles__  
 __piss off__  
+__piss someone off__  
 __pissant<sup>1</sup>__ _n_  
 __pissant<sup>2</sup>__ _adj_  
 __pitch (something) at__  
@@ -805,6 +811,7 @@ __stand a chance__ To have a possibility, however remote, of succeeding; to poss
 __stand on (one’s) own (two) feet__ To be strong and independent; to not need the help, guidance, or resources of another person.  
 __stands to reason__  
 __start the ball rolling__ To set something, often a process, in motion; to begin.  
+__stay clear of (someone)__ :dart:  
 __step in__ To enter into some position, activity, or situation to intervene or improve it.  
 __stick around__ To remain or linger in one location; to not leave or abandon (someone or something). _Hey, stick around for a minute, I need to talk to you._  
 __stir-crazy__ Acutely restless, irritable, or anxious from remaining for too long in an isolated, confined, or unstimulating environment. “Stir” in this usage is a slang word for prison. _We thought taking our family vacation in a tiny cottage out in the country would be a nice break from city life, but we all went a bit stir-crazy after a few days._  
@@ -814,34 +821,49 @@ __strike a (raw) nerve__
 __take heart (from something)__ To receive courage or comfort from some fact. _I hope that you will take heart from what we told you today. Even though you did not win the race, take heart from the fact that you did your best. I told her to take heart and try again next time._  
 __take heart__ To have one’s confidence, courage, or happiness bolstered (by something). _We may have lost the election, but we take heart in the fact that so many young people are now engaged and excited about politics._  
 __take the fall (for someone or something)__  
-__take umbrage__  
+__take umbrage__ :two::hammer:  
 __takedown__ :dart: _slang_ A taking down: the arrest of a suspect by a police officer. _She shot and killed two drug dealers in a takedown that went bad._  
+__tangle with (someone or something)__ To fight, argue, or engage in a dispute with someone or something.  
 __team up (with one)__  
 __tell me about it__  
 __that does the trick__ That is all that was remaining or required to accomplish something. _There, that does the trick. The engine should be as good as new, now!_  
 __that very thing__ Exactly that. _Why, I was just looking for that very thing!_ _You know, I was just about to say that very thing._  
 __the better part of (something)__ :dart::two: The majority of something. _I’m sorry I’m late—my doctor’s appointment took the better part of an hour._  
 __the golden rule__ :dart: The maxim that one should treat other people the way one would like to be treated, often expressed proverbially as “Do unto others as you would have them do unto you.” _My son wanted to steal the bike of a boy who stole his lunch money, so I told him that the only way to get along with people is to follow the golden rule._  
+__the greatest thing since sliced bread__ A humorous and hyperbolic statement indicating one’s belief that something is excellent, especially something new and innovative. _These waterproof jeans are the greatest thing since sliced bread. I don’t have to worry about getting soaked!_  
 __the lion’s den__  
 __the powers that be__ :dart::two:  
 __the upper crust__  
-__the upshot (of something)__ :dart: The final or resulting outcome, conclusion, or consequence (of something). _The upshot of this merger is that the company will now control nearly 50% of the world’s television networks._  
+__the upshot (of something)__ :dart::two: The final or resulting outcome, conclusion, or consequence (of something). _The upshot of this merger is that the company will now control nearly 50% of the world’s television networks._  
+__the works__  
 __then again__  
+__thick-skulled__ Stupid, dimwitted, or obtuse.  
 __thread the needle__  
+__throw the book at (one)__ :dart: _The NY Times sure loves throwing the book at AI startups._  
 __tit for tat__  
 __to name (but) a few__  
 __to put it mildly__ To understate something; to say something politely. (Note the variation in the examples.) _She was angry at almost everyone—to put it mildly._ _To say she was angry is putting it mildly._ _To put it mildly, she was enraged._  
 __to this day__  
+__top something off__  
 __toughen up__  
+__trick of the light__  
+__trigger-happy__ __2__ Having a tendency to do something or engage in or begin some activity with even the smallest level of enticement or provocation. _Whenever I’m editing, I always get a little trigger-happy with the delete key and end up having to add some things back later._  
 __true colors__  
+__truss someone or something up__ To bind, tie, or bundle someone or something up. _The attendants trussed Walter up and took him to a padded cell._ _They trussed up Walter tightly._ _Ann trussed the bundle up and sent it off._  
+__truth is__ :three: The phrase “truth is” is often used to introduce a statement that conveys honesty or an important point that the speaker believes to be true. It serves to emphasize the authenticity or sincerity of what follows.  
 __twerp__  
 __twist the knife__ :smiling_imp: To add to, exacerbate, or amplify a betrayal or wrong by further malicious actions. _He said it was over, and then he twisted the knife and said he had never loved me._  
+__two peas in a pod__  
 __uh-huh__  
 __ventilate__ To kill (someone) by shooting.  
 __walk the wire__ To navigate a delicate or precarious situation. It implies taking risks and balancing between different challenges or conflicting demands.  
 __watch one’s step__ Exercise caution, as in _You’d better watch your step talking to them about a merger._ Often put as an admonition, this phrase transfers taking care in walking to other kinds of caution.  
+__watering hole__  
+__way to go__  
 __what could (possibly) go wrong__  
+__what could go wrong__  
 __what gives?__  
+__whatcha__ :dart: (watcha, wotcha, wotcher, what’cha, whatchya, whutcha) _colloquial_ __1__ Contraction of what are you. _Whatcha doin’?_ _Whatcha talking ’bout?_ _Whatcha sayin’?_ __2__ Contraction of what have you. _Whatcha been up to?_ __3__ Contraction of what do you. _Whatcha think?_ _Whatcha got there?_ _Whatcha wanna do now?_ __4__ Contraction of what you. _Do whatcha gotta do!_  
 __white tie__ The most formal of all dress codes, requiring men to wear white bow ties and black tailcoats and women to wear evening or ball gowns.  
 __willy-nilly__ :two::hammer: [:scroll: This expression is a shortened form of ‘willing or not willing.’]  
 __wimp__ _slang_ Someone who is too nervous, afraid, or reserved to do anything too intense, extreme, or risky. _We’re all doing the bungie jump. Don’t be a wimp, Bob!_ :es: debilucho; parado  
@@ -850,6 +872,7 @@ __with a start__ The phrase “with a start” refers to a sudden, involuntary m
 __with open arms__ Very happily and eagerly.  
 __with the naked eye__ _They can be seen with the naked eye._  
 __woozy__ :dart:  
+__work for pittance__ To work for very little money.  
 __work like a Trojan__  
 __work out__  
 __world without end__ :dart: For ever and ever; until the end of time. This unusual wording is taken from the King James translation of the phrase _in saecula saeculorum._ _I vowed to love him world without end._  
