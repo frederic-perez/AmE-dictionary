@@ -284,7 +284,7 @@ __afar__ _adv_ :four: From, to, or at a great distance. _I’ve been watching hi
 __afebrile__  
 __affable__ _adj_ :three::hammer: /AF-uh-bul/  
 __affect<sup>1</sup>__ _n_  
-__affect<sup>2</sup>__ _v_ :two::hammer: __1__ To put on a false show of; simulate: _affected a British accent._ Pretend. __4__ To imitate; copy. _He tried to affect nonchalance._  
+__affect<sup>2</sup>__ _v_ :five::hammer: __1__ To put on a false show of; simulate: _affected a British accent._ Pretend. __4__ To imitate; copy. _He tried to affect nonchalance._  
 __affectation__ _n_ A show, pretense, or display. _Syn_ pose, mannerism  
 __affectionally__  
 __affiance__ _v_ To bind in a pledge of marriage; betroth.  
@@ -459,6 +459,7 @@ __allergens__
 __alleviate__ _vt_ :four::hammer: /uh-LEE-vee-ayt/  
 __alleviative__ _adj_ Moderating pain or sorrow by making it easier to bear. _Syn_ lenitive, mitigative, palliative _After the blacksmith burned his hand, he applied an alleviative salve to lessen the searing pain._  
 __alley-oop__ _n_  
+__alleyway__ _n_ A narrow passage between buildings.  
 __allies__ _n_  
 __alliterate__ _v_ To use two or more words having the same initial sound, as in: _Sister Suzie sews shirts for sixty-six seasick sailors._  
 __alliteration__ _n_ :two: Alliteration is repeating the same or similar sounds at the beginning of words. Example: She sells seashells by the sea shore.  
@@ -610,6 +611,8 @@ __and-a-one, and-a-two...__
 __Andean condor__ _n_ A very large vulture found in the Andes Mountains.  
 __andirons__  
 __andragogy__ _n_ The art or science of teaching adults. The methods or techniques used to teach adults.  
+__androgenic__ _adj_ /an-druh-JEN-ik/ __1__ Relating to the development of male characteristics. __2__ Having origin in the male sex.  
+__androgyny__ _n_ [:scroll: From Greek andro- (man) + -gune (woman)] Showing characteristics of both sexes. _Syn_ bisexuality, hermaphroditism  
 __anecdata__ _n_ :two: An ad hoc portmanteau for anecdotal evidence that is used as data in an attempt to prove a hypothesis.  
 __anecdotage__ _n_  
 __anecdotal__ _adj_ :three::hammer::mega:  
@@ -631,8 +634,8 @@ __angling__ _v_ :four::hammer: _Giuliani seemed to be angling for secretary of s
 __angora__ _n_  
 __angst__ _n_ :nine::m: A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
 __angsty__ _adj_ :three: /ˈæŋstɪ/ (angstier, angstiest) _informal_ Displaying or feeling angst, esp in a self-conscious manner: _two angsty teenagers._  
-__anguish<sup>1</sup>__ _n_  
-__anguish<sup>2</sup>__ _v_ :two::hammer: (anguishes)  
+__anguish<sup>1</sup>__ _n_ :two::hammer:  
+__anguish<sup>2</sup>__ _v_ :three::hammer:  
 __anhedonia__ _n_ The inability to feel or experience pleasure.  
 __anilingus__ _n_ Oral stimulation of the anus.  
 __animadversion__ _n_ Strong criticism. _Syn_ censure _I meant no animadversions against any one, and certainly intended no disrespectful allusions to your mother._  
@@ -796,7 +799,7 @@ __appraisal__ _n_ :nine::m: __1__ A statement or opinion judging the worth, valu
 __appraise__ _v_ :two::hammer: (appraised) _The home was appraised in 2007._  
 __appraiser__ _n_ :es: tasador  
 __appraisingly__  
-__appreciable__ _adj_ Capable of being perceived or measured.  
+__appreciable__ _adj_ :two: /uh-PREE-shuh-bul/ _Appreciable_ describes things that can be perceived or measured.  
 __appreciate__ _v_ :pencil2: _I appreciate it._  
 __apprehend__ _v_ :pencil2::two::hammer:  
 __apprehension__ _n_ :five::pencil2::hammer:  
@@ -805,6 +808,7 @@ __apprentice<sup>1</sup>__ _n_ :three::hammer:
 __apprentice<sup>2</sup>__ _v_ :two::hammer: (apprenticed)  
 __apprenticeship__ _n_ _Apprenticeship program._  
 __apprise__ _v_ :two: To give notice to; inform. _Syn_ notify, advise _During the drive home from the airport, they had time to apprise her of everything that had changed since she had been gone._ _He was kept apprised of events by partisans in Paris._  
+__approbation__ _n_ /ap-ruh-BAY-shun/ Approbation is a formal word that refers to praise or approval.  
 __approval rating__ _n_ :dart: A rating based on a percentage of people (as voters) who think someone (as a politician) is doing a good job. _The governor’s approval rating is going up._ _Park’s approval rating has plummeted._  
 __appurtenance__ _n_ Equipment, such as clothing, tools, or instruments, used for a specific purpose or task. _Syn_ paraphernalia, gear  
 __après__ _prep_ :three: After. Often used in combination: _an après-dinner entertainment; a concert après dinner._  
@@ -859,7 +863,7 @@ __archivist__ _n_ :two::hammer: /ˈɑr kə vɪst, -kaɪ-/
 __archnemesis__  
 __archpriest__ _n_  
 __archrival__ _n_  
-__archway__ _n_  
+__archway__ _n_ :two::hammer: :es: pasaje abovedado  
 __arctophile__ _n_ :astonished: A person who collects or is very fond of teddy bears. _Tom is an arctophile._  
 __ardent__ _adj_ :two::hammer: _He was one of her most ardent suitors._  
 __ardor__ _n_ :two: Intensity of emotion, especially strong desire, enthusiasm, or devotion. _Syn_ passion Feelings of great warmth and intensity. _Syn_ fervency, fire _He spoke with great ardor at the rally, inspiring the crowd with his passionate words._  
@@ -882,7 +886,7 @@ __armagnac__
 __armful__ _n_ The amount of something that you can carry in your arms. _An armful of packages._  
 __armillary__ _adj_ Consisting of hoops or rings.  
 __armipotent__ _adj_ /ahr-MIP-uh-tuhnt/ Strong in war, battle, contest, etc.  
-__armistice__ _n_ :three::mega: A temporary cessation of fighting by mutual consent; a truce. Armistice descends from Latin _sistere_, meaning “to come to a stand” or “to cause to stand or stop,” combined with _arma_, meaning “weapons.”  
+__armistice__ _n_ :four::mega: A temporary cessation of fighting by mutual consent; a truce. Armistice descends from Latin _sistere_, meaning “to come to a stand” or “to cause to stand or stop,” combined with _arma_, meaning “weapons.”  
 __armload__  
 __armorer__ _n_  
 __armory__ _n_ :three::hammer: _His armory of weapons._  
@@ -893,12 +897,13 @@ __arose__ _v_ :two::hammer:
 __arousal__  
 __arpeggio__ _n_ :two::hammer:  
 __arpents__ _n_ :two::hammer:  
+__arrack__ _n_ (arak)  
 __arraign__ _vt_  
 __arraignment__ _n_  
 __arrange__ _v_ :two::hammer: _Let’s arrange a meeting._  
 __arrangement__ _n_  
 __array<sup>1</sup>__ _n_ :mega:  
-__array<sup>2</sup>__ _v_ (arrayed)  
+__array<sup>2</sup>__ _vt_ :two::hammer:  
 __arrears__ _n pl_ :three::pencil2::hammer: :es: atrasos _The ransom was in arrears._ _She let her servant’s wages fall into arrears._  
 __arrest__ _v_ :two::astonished::hammer: _While others are arrested by discouragement, we are not._  
 __arresting__ _adj_ :two::hammer: _The arresting Gothic mansion of Mount Stuart._  
@@ -910,9 +915,11 @@ __artefact__
 __Artemis__ _n_ :mega:  
 __artery__ _n_ :mega:  
 __artful__  
+__arthralgia__ _n_ är-thrăl′jə/ Neuralgic pain in a joint or joints.  
+__arthroplasty__ _n_ /AR-thruh-plas-tee/ [:scroll: From Greek arthro- (joint) + -plasty (formation, repair, molding)] The surgical repair or replacement of a joint.  
 __artichoke__ _n_ :three::hammer:  
 __articulate<sup>1</sup>__ _adj_ :six: __1__ Able to express oneself fluently and coherently: _an articulate lecturer._ __2__ Having the power of speech. __3__ Distinct, clear, or definite; well-constructed: _an articulate voice; an articulate document._ __4__ Possessing joints or jointed segments.  
-__articulate<sup>2</sup>__ _vt_ :nine: __1__ To pronounce clearly and distinctly. __2__ To make the movements and adjustments of the speech organs necessary to utter (a speech sound). __3__ To give clarity or coherence to: _to articulate an idea._ __4__ To unite by a joint or joints.  
+__articulate<sup>2</sup>__ _vt_ :nine::m: __1__ To pronounce clearly and distinctly. __2__ To make the movements and adjustments of the speech organs necessary to utter (a speech sound). __3__ To give clarity or coherence to: _to articulate an idea._ __4__ To unite by a joint or joints.  
 __articulate<sup>3</sup>__ _vi_ :nine: __1__ To pronounce clearly each of a succession of speech sounds, syllables, or words. __2__ To articulate a speech sound. __3__ To form a joint.  
 __articulated__ _adj_ :two::hammer: _(of a vehicle)_ Built in sections that are hinged or otherwise connected so as to allow flexibility of movement.  
 __artifact__ _n_ :four::hammer: (artifacts)  
@@ -960,7 +967,7 @@ __aspect__ _n_ __5__ A side or surface facing in a particular direction: _the ve
 __aspen__ _n_ :five::hammer: _Quaking aspen._ _Aspens turn the canyon golden by the end of September._ :es: chopo  
 __Asperger’s syndrome__ _n_ :two::hammer:  
 __asperity__ _n_ Harshness of manner; ill temper or irritability. _Syn_ sharpness  
-__aspersion__ _n_ :two::hammer::astonished:  
+__aspersion__ _n_ :three::astonished: /uh-SPUHR-zhuhn/shuhn/ __1__ A damaging accusation: slander. __2__ The sprinkling with water, as in baptism.  
 __asphalt__ _n_ _Asphalt rafts floating in the shore._ :es: chapapote  
 __aspheric__ _adj_ (aspherical) (of a reflecting surface or lens) Deviating slightly from a perfectly spherical shape and relatively free from aberrations.  
 __aspire__ _v_  
@@ -974,7 +981,7 @@ __assembly line__ _n_ :five::hammer:
 __assembly__ _n_ :mega: /əˈsɛmblɪ/  
 __assert__ _v_  
 __asses__ _n pl_ :two::hammer:  
-__assess__ _vt_ :four::hammer: (assessed)  
+__assess__ _vt_ :five::hammer: :es: evaluar; calcular  
 __assessment__ _n_ :three::pencil2::hammer:  
 __asset__ _n_ :three: __1__ A useful or valuable quality, person, or thing; _an advantage or resource: proved herself an asset to the company._  
 __assiduity__ _n_ :two::astonished: Great and constant diligence and attention. _Syn_ concentration. _Nell immediately applied herself with great assiduity to the decoration and preparation of the room._  
@@ -1029,6 +1036,7 @@ __athlete__ _n_
 __athlete’s foot__ _n_ A fungal infection causing the skin between the toes to itch, crack, and peel.  
 __athwart__ _adv, prep_ :two::hammer:  
 __athwartships__ _adv_ Across a ship from side to side.  
+__Atlantean__ _adj_ /at-lan-TEE-uhn/ Of or like the Titan Atlas, especially in having a fundamental role or great strength.  
 __atlatl__ _n_  
 __atmospheric river__  
 __atole__ _n_ A thick drink of Mexican origin that is made with cornmeal, water, raw sugar, cinnamon, and vanilla and is served warm.  
@@ -1063,25 +1071,27 @@ __Attn__
 __Attorney General__ _n_ :astonished: (Attorneys General) _He discussed with two successive Attorneys General._  
 __attorney__  
 __attract__ _v_  
+__attractant__ _n_ A substance, such as a pheromone, that attracts insects or other animals.  
 __attributable__ _adj_  
 __attribute noun__ _n_ (noun adjunct) In grammar, a noun adjunct or attributive noun or noun (pre)modifier is an optional noun that modifies another noun; it is a noun functioning as a pre-modifier in a noun phrase. For example, in the phrase “chicken soup” the noun adjunct “chicken” modifies the noun “soup.”  
 __attrite<sup>1</sup>__ _adj_ Regretting one’s wrongdoing only because of the fear of punishment.  
 __attrite<sup>2</sup>__ _vi/t_ (attrit) /uh-TRIT/ __1__ To wear down, erode, or weaken through sustained attacks, friction, etc. __2__ To reduce the size of a workforce by not replacing those who leave. __3__ To drop out from a course of study, job, training, etc.  
 __attrition__ _n_ :nine::m: /əˈtrɪʃən/ Erosion by friction. _Syn_ corrasion, detrition, abrasion _The attrition of the stone stairway had occurred by centuries of foot traffic._ __2a__ A gradual reduction in number or strength because of stress or military action. _War of attrition._  
+__attritional__ _adj_ :dart: Relating to or caused by attrition. _Attritional battles._  
 __attune__ _vt_ :three::hammer:  
 __attuned__ _adj_ :three: Familiar with something and able to deal with it in a sensitive way. __1__ Able to perceive; sensitive (to). __2__ Accustomed (to). _Syn_ accustomed, adjusted, coordinated, in tune, in harmony, in accord, harmonized, familiarized  
 __atwitter__ _adj_ Being in a state of nervous excitement; twittering: _a crowd atwitter with expectation._  
 __atypia__ _n_  
 __atypical__ _adj_ :three::hammer: _Atypical atrial flutter._  
 __au gratin__ _adj_ Covered with bread crumbs and sometimes butter and grated cheese, and then browned in an oven: _potatoes au gratin._  
-__au pair__  
+__au pair__ _n_ :two: A young foreigner who provides childcare for a family in exchange for room and board, often a small stipend, and the opportunity to study.  
 __au shops__  
-__auburn__ _n_ :three::hammer: _Auburn hair._ :es: color castaño rojizo  
+__auburn__ _n_ :four::hammer: _Auburn hair._ :es: color castaño rojizo  
 __auction > silent auction__  
 __auction off__ _phr v_ To sell something in an auction.  
 __auction__ _n_ /ˈɔːkʃən/  
 __audacious__ _adj_ :dart::four::hammer: _In size it was the most audacious._  
-__audacity__ _n_ :dart::five: /ɔˈdæs ɪ ti/ Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
+__audacity__ _n_ :dart::six: /ɔˈdæs ɪ ti/ Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions. Fearless daring; intrepidity. _Syn_ temerity  
 __audible__ _v_  
 __audit__ _n_ :two::hammer: _A tax audit._  
 __Augean__ _adj_ :astonished: __1__ Resembling the Augean stables; filthy; rotten. __2__ Difficult and unpleasant: _an Augean chore._  
@@ -1121,9 +1131,10 @@ __autumn__ _n_ :two::hammer::mute:[autum~~n~~]
 __autumnal__ _adj_ /aw-TUHM-nuhl/ __1__ Relating to the season of autumn. __2__ Past the prime of life or maturity.  
 __avail__ _v_ :three::hammer: _Nothing avails against the Death._  
 __avalanche__ _n_ :two::hammer:  
-__avarice__ _n_ Immoderate desire for wealth. _Syn_ cupidity, covetousness, avariciousness  
+__avarice__ _n_ :two: /AV-uh-ris/ An extreme desire for wealth or material gain. _Syn_ cupidity, covetousness, avariciousness  
 __avaricious__ _adj_ Immoderately desirous of wealth or gain. _Syn_ covetous, grabby, grasping, greedy, prehensile  
-__avenge__ _vt_  
+__avatar__ _n_ :mega: /AV-uh-tar/ /ˈæv əˌtɑr, ˌæv əˈtɑr/  
+__avenge__ _vt_ :two::hammer:  
 __avent__ _n_  
 __aver__ _vt_ :five::astonished: (averred) To assert formally as a fact. _Syn_ allege, say _For as my conscience does not accuse me, I aver that I am not a criminal._  
 __average citizens__  

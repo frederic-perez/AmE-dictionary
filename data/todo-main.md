@@ -4,31 +4,6 @@ __abound__ _vi_
 __accoutrement__ _n_  
 __acerbic__ _adj_ Sharp or biting, as in character or expression. _Syn_ blistering, caustic, acid, vitriolic, acerb, acrid, sulfurous, virulent, bitter  
 __adversary__ _n_ :mega: /ˈæd vərˌsɛr i/ /ˈædvəsərɪ/ /AD-ver-sair-ee/ _Adversary_ is an enemy or opponent.  
-__affect__ _v_ :three::hammer:  
-__alleyway__ _n_ A narrow passage between buildings.  
-__androgenic__ _adj_ /an-druh-JEN-ik/ __1__ Relating to the development of male characteristics. __2__ Having origin in the male sex.  
-__androgyny__ _n_ [:scroll: From Greek andro- (man) + -gune (woman)] Showing characteristics of both sexes. _Syn_ bisexuality, hermaphroditism  
-__anguish__  
-__appreciable__ _adj_ /uh-PREE-shuh-bul/ _Appreciable_ describes things that can be perceived or measured.  
-__approbation__ _n_ /ap-ruh-BAY-shun/ Approbation is a formal word that refers to praise or approval.  
-__archway__ _n_ :es: pasaje abovedado  
-__armistice__ _n_  
-__arrack__ _n_ (arak)  
-__array__ _vt_  
-__arthralgia__ _n_ är-thrăl′jə/ Neuralgic pain in a joint or joints.  
-__arthroplasty__ _n_ /AR-thruh-plas-tee/ [:scroll: From Greek arthro- (joint) + -plasty (formation, repair, molding)] The surgical repair or replacement of a joint.  
-__articulate__ _v_  
-__aspersion__ _n_ /uh-SPUHR-zhuhn/shuhn/ __1__ A damaging accusation: slander. __2__ The sprinkling with water, as in baptism.  
-__assess__ _vt_ :es: evaluar; calcular  
-__Atlantean__ _adj_ /at-lan-TEE-uhn/ Of or like the Titan Atlas, especially in having a fundamental role or great strength.  
-__attractant__ _n_ A substance, such as a pheromone, that attracts insects or other animals.  
-__attritional__ _adj_ :dart: Relating to or caused by attrition. _Attritional battles._  
-__au pair__ _n_ A young foreigner who provides childcare for a family in exchange for room and board, often a small stipend, and the opportunity to study.  
-__auburn__  
-__audacity__ _n_ :dart: Fearless daring; intrepidity. _Syn_ temerity  
-__avarice__ _n_ /AV-uh-ris/ An extreme desire for wealth or material gain.  
-__avatar__ _n_ :mega: /AV-uh-tar/ /ˈæv əˌtɑr, ˌæv əˈtɑr/  
-__avenge__ _v_  
 __ayahuasca__  
 __bait__ _v_ :smiling_imp: __2__ To entice or provoke, especially by trickery or strategy: _He baited me into selling him my bike by saying how much I deserved a better one._  
 __baize__ _n_ A bright green fabric napped to resemble felt; used to cover gaming tables. _Baize table._ :es: tapete  
