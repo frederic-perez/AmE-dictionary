@@ -582,31 +582,6 @@ __need (something) (about) as much as (one) needs a hole in the head__ To have a
 __need to be done__ To be required to be completed or acted upon.  
 __needless to say__ Obviously implied, no explanation needed.  
 __Nervous Nellie__ /nuhr-vuhs NEL-ee/(nervous Nellie/Nelly) Any nervous person, male or female. Someone who is more timid, nervous, or anxious than is normal or reasonable.  
-__nice and (something)__ :five: Very something. Used to emphasize how nice something is because of the particular quality named after “and.” _I love your new house! It’s nice and bright inside!_ _Ah, this lemonade is nice and cold—just the thing for such a hot day._  
-__nip (something) in the bud__  
-__nip at__ __1__ To give (someone or something) little bites. _Their dog kept nipping at my heels whenever I walked through the house._ _I know some people go crazy for the treatment, but I can’t stand the feeling of fish nipping at my feet!_ __2__ To sting (a part of one’s body) with cold. _The air had just started nipping at our noses by the time we reached the house._ _There’s nothing like settling down in front of a fire with a hot drink after the cold wind has been nipping at your cheeks on a long, satisfying bike ride._ _The cold air nipped at my lungs if I breathed in too quickly._ __3__ To take small, frequent sips of (some drink, especially alcohol). _I caught my grandma nipping at a flask, which she tried to pretend had medicine inside of it._  
-__no end in sight (to something)__  
-__no hard feelings__  
-__no holds barred__  
-__no kidding__  
-__no nonsense__ _ad´_ Totally serious; with no tricks or deceit. Hyphenated before a noun. _We’re going to start adopting a no-nonsense approach to the problem._ _Her demeanor is no-nonsense about asking personal questions._  
-__no picnic__ _It’s no picnic walking around with a guilty conscience._  
-__no pun intended__  
-__no question about it__ :two: Definitely; for sure.  
-__no questions asked__  
-__no shit__  
-__no stranger to (something)__  
-__no-man’s-land__ _n_ :three: __1__ _Military_ Land between boundaries, esp an unoccupied zone between opposing forces.  
-__no-no__  
-__no-win situation__ :dart: A problem that has no ideal solution.  
-__noblesse oblige__ /noh-BLESS-uh-BLEEZH/ Noblesse oblige refers to the idea that people who have high social rank or wealth should be helpful and generous to people of lower rank or to people who are poor.  
-__nod off__ :dart: To fall asleep, usually briefly or when one does not intend to.  
-__nose-dive__ Take a sudden downtrend.  
-__not a chance__ :dart: (There is) no possibility (that that will happen). _You? Beat me? At ping pong? Not a chance!_  
-__not half bad__ :dart::two: Somewhat satisfactory or good, especially compared to initially low expectations. _I didn’t know what to expect, but these corn dog tacos aren’t half bad!_  
-__not have all day__ To be in a rush; to not have much or any time to spare. Usually used in the present tense. _How long is this repair job going to take? I don’t have all day!_  
-__not just another pretty face__ Having distinguishing achievements, intelligence, skills, or abilities beyond what was or may have been assumed. (The assertion that someone is also very attractive is sometimes meant to be humorous rather than literal.) _Yeah, I know how to fix your computer. I’m not just another pretty face, you know!_  
-__not sleep a wink__  
 __not so fast__ :three::hammer:  
 __not worth the paper it’s written on__ Useless; unimportant; insignificant.  
 __note so self__  
