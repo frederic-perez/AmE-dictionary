@@ -15743,7 +15743,8 @@ __relo__ _n_ _informal_ __1__ Relocation.
 __relocate__ _v_ _They plan to relocate to Denver soon._  
 __reluctant__ _v_ :two::hammer: _Reluctant to leave._  
 __rely on__ _v_  
-__remanded__ _v_  
+__remand<sup>1</sup>__ _n_ :four::hammer:  
+__remand<sup>2</sup>__ _vt_ :three::hammer:  
 __remark__ _n_ /rɪˈmɑrk/  
 __remarkable__ _adj_ :two::hammer:  
 __remarkably__ _adv_ :three::hammer:  
@@ -15765,7 +15766,8 @@ __remuneration__ _n_ :two::hammer::mega: /rih-myoo-nuh-RAY-shun/
 __rend__ _v_ To tear or split apart or into pieces violently. _Syn_ rip, rive _The widow began to rend her clothes in grief._  
 __render__ _v_ :six::hammer::astonished: (rendered) _Electronic banking has rendered the system unnecessary for consumer goods._ __1b__ To give or make available; provide: _render assistance; render a service._ _The grand jury has rendered its decision._ __7__ To reduce, convert, or melt down (fat) by heating. _Cook bacon until about half the fat is rendered._ _Rendered fat._ :camera:  
 __rendering plant__  
-__rendition__ _n_ :six: An interpretation of a musical score or a dramatic piece.  
+__rendevouz__ _v_  
+__rendition__ _n_ :seven: /ren-DISH-un/ An interpretation of a musical score or a dramatic piece.  
 __renew__ _v_  
 __renewal__ _n_ :two::hammer:  
 __renminbi__ _n_ :three: The official currency of the People’s Republic of China.  
@@ -15782,7 +15784,7 @@ __repeal<sup>1</sup>__ _n_
 __repeal<sup>2</sup>__ _v_  
 __repealing__  
 __repeat<sup>1</sup>__ _adj_ :astonished: Of, relating to, or being something that repeats or is repeated: _a repeat offender; a repeat performance of the play._ _Providing support to existing and repeat events._  
-__repeat<sup>2</sup>__ _n_ :two::dart::hammer: _CBS is filling this spot with a_ Big Bang _repeat today._ _It was off and running, in time to prevent a repeat of the previous year’s last-minute chaos._  
+__repeat<sup>2</sup>__ _n_ :dart::three::hammer: _CBS is filling this spot with a_ Big Bang _repeat today._ _It was off and running, in time to prevent a repeat of the previous year’s last-minute chaos._  
 __repeieve__  
 __repent__ _v_ :six::hammer: (repented)  
 __repentance__ _n_ :three::hammer:  
@@ -15790,13 +15792,14 @@ __repercussion__ _n_ :dart::three::hammer:
 __repertoire__ _n_ :two::hammer:  
 __repine__ _v_ __1__ To feel or express dejection or discontent. _Syn_ complain __2__ To long for something.  
 __replenishing__ _n_  
-__replete__ _adj_  
+__replete__ _adj_ :two: /rih-PLEET/ Replete is an adjective used to describe things as “fully or abundantly provided or filled,” “abundantly fed,” “stout,” or “complete.”  
 __replica__ _n_  
 __reportedly__ _adv_ :three::hammer: /rɪˈpɔr tɪd li, -ˈpoʊr-/ _Apparently his cellphone battery reportedly died._  
+__repose__ _n_ The act of resting or the state of being at rest. _Syn_ ease, relaxation, rest _The vacationer took his repose beside the swimming pool._  
 __repossess__  
 __repote__ _n_  
 __reprehensible__ _adj_ :three: /rep-rih-HEN-suh-bul/ /ruh-pri-HEN-suh-buhl/ Deserving criticism or condemnation. Reprehensible is a formal word that means “worthy of or deserving blame or very strong criticism. Bringing or deserving severe rebuke or censure. _Syn_ condemnable, deplorable _I must apologize for my children’s reprehensible behavior, which I assure you will not go unpunished._  
-__reprieve<sup>1</sup>__ _n_ :seven: A cancellation or postponement of a punishment. _He accepted the death sentence and refused to appeal for a reprieve._ _It’s a momentary reprieve._ _Syn_ stay of execution, cancellation of punishment :es: indulto  
+__reprieve<sup>1</sup>__ _n_ :eight: A cancellation or postponement of a punishment. _He accepted the death sentence and refused to appeal for a reprieve._ _It’s a momentary reprieve._ _Syn_ stay of execution, cancellation of punishment :es: indulto  
 __reprieve<sup>2</sup>__ _v_ :three: Cancel or postpone the punishment of (someone, especially someone condemned to death). _Under the new regime, prisoners under sentence of death were reprieved._ _Syn_ grant a stay of execution to, cancel/postpone/commute/remit someone’s punishment  
 __reprimand__ _vt_  
 __reprisal__ _n_ :six::hammer: (reprisals) _A ban on federal reprisals._  
@@ -15810,9 +15813,10 @@ __reptilian__ _adj_ :dart: /rep-TIL-ee-uhn, -TIL-yuhn/ __1__ Contemptible. __2__
 __repudiate__ _v_ :two::hammer:  
 __repudiation__ _n_  
 __reputable__ _adj_ /ˈrɛp yə tə bəl/  
-__reputedly__ _adv_ :three: /rɪˈpjuːtɪdlɪ/ According to general belief or supposition: _the reputedly excellent food._ :es: se dice; según se dice  
+__reputedly__ _adv_ :four: /rɪˈpjuːtɪdlɪ/ According to general belief or supposition: _the reputedly excellent food._ :es: se dice; según se dice  
 __requiescat__ _n_ A wish or prayer for the repose of the dead.  
 __requite__ _v_  
+__reread__ _v_ :pencil2:  
 __rerun__ _n_ :two: The act or an instance of rebroadcasting a recorded movie or a recorded television performance. _A movie rerun._ _Of course I’ve seen it! It’s a rerun._  
 __reschedule__ _vt_ _Let’s reschedule the kick-off to a time when everyone has had the chance to do a little more preparation._  
 __rescind__ _v_ :three: (Not to be confused with _resend_) Countermand, repeal, veto; nullify, retract: _rescind an agreement._  
@@ -15849,6 +15853,7 @@ __responsibility__ _n_ :four::pencil2::mega::hammer: _With great power comes gre
 __responsibly__ _adv_ In a responsible manner.  
 __responsive__ _adj_ /rih-SPAHN-siv/  
 __rest home__ _n_  
+__rest stop__ _n_ The US name for lay-by.  
 __rest__ _n_ __13__ (Billiards & Snooker) Any of various special poles used as supports for the cue in shots that cannot be made using the hand as a support.  
 __restate__ _v_  
 __restaurateur__ _n_ :three: /res-tuh-ruh-TER/ A restaurateur is a person who owns or manages a restaurant.  
@@ -15919,7 +15924,7 @@ __revel__ _vi_ :nine::m: (revelled, revelling, reveling) __1__ To take great ple
 __reveler__ _n_ :nine::m: A celebrant who shares in a noisy party. _The clubs attract revelers as young as thirteen._ _St. Patrick’s day revelers._ _Mardi Gras revelers._  
 __revelry__ _n_ :six: A situation in which people celebrate or enjoy themselves in a lively and noisy way, especially by singing, dancing, and drinking alcohol.  
 __revenant__  
-__revenge__ _n_  
+__revenge__ _n_ :two::hammer:  
 __reverberate__ _v_ Ring or echo with sound. _Syn_ resound, ring, echo _The explosion reverberated through the castle._  
 __revered__  
 __reversal of fortune__  
@@ -15944,7 +15949,7 @@ __rhabdomancy__
 __rhapsodize__ _v_ :two::hammer:  
 __rhapsody__ _n_ :mute:[r~~h~~apsody] __1__ (music) A composition free in structure and highly emotional in character.  
 __rhathymia__ _n_ :two: Carefree behavior; light-heartedness. The state of being carefree. _Syn_ light-heartedness  
-__rhetoric__ _n_ :pencil2::five::hammer: _State rhetoric._ _From divisive rhetoric to civil dialogue._  
+__rhetoric__ _n_ :dart::pencil2::six: /ˈrɛt ər ɪk/ Insincere or grandiloquent language. _State rhetoric._ _From divisive rhetoric to civil dialogue._  
 __rhetorical question__ _n_ A rhetorical question is a question that isn’t intended to be answered. The point of asking the question is to make an audience think or to cause an emotional reaction. Example: Can we really know what our place in the universe is? We have asked ourselves this question for millennia.  
 __rhetorician__ _n_ A person who delivers a speech or oration. _Syn_ orator, speechifier, speechmaker  
 __rheum__ _n_ :two: A watery or thin mucous discharge from the eyes or nose. :es: legaña  
@@ -15990,7 +15995,8 @@ __ridership__ _n_ :two::hammer:
 __ridgepole__ _n_ A horizontal beam at the ridge of a roof to which the rafters are attached. _Syn_ rooftree  
 __ridicule__ _v_ :two::hammer: _They were ridiculed._  
 __ridiculous__ _adj_ :mega:  
-__rife__ _adj_ :nine::m: Use the adjective rife to mean “full of” or “widespread,” especially when you’re talking about something negative. If the lifeguard says the water is rife with jellyfish, you’re not going to want to swim in it. :es: _It is rife with mistakes._ > Está plagado de errores. _Smallpox was still rife._ > La viruela aún hacía estragos.  
+__riding hood__ _n_ A type of cloak or hood worn by women who rode horses. This clothing was designed specifically for riding, providing warmth and protection for the rider.  
+__rife__ _adj_ :nine::m: /raɪf/ (postpositive) Use the adjective rife to mean “full of” or “widespread,” especially when you’re talking about something negative. If the lifeguard says the water is rife with jellyfish, you’re not going to want to swim in it. :es: _It is rife with mistakes._ > Está plagado de errores. _Smallpox was still rife._ > La viruela aún hacía estragos.  
 __riff<sup>1</sup>__ _v_ _informal_ :eight: (rif, riffs, riffed, riffing) To speak amusingly or make (amusing comments or remarks).  
 __riff<sup>2</sup>__ _n_ :three: __1__ An ostinato melodic phrase accompanying a soloist in jazz or rock music. __2__ Any variation or improvisation, as on an idea.  
 __riffle__ _v_ :four::hammer: (riffled, riffling) _Annabeth riffled the medicine cabinet for the toothpaste._  
@@ -16012,9 +16018,11 @@ __rigors__ _n_
 __rile__ _vt_ :seven: (riles, riled, rile up) __1__ To irritate or vex. Make (someone) annoyed or irritated. _Syn_ nettle, chafe, provoke, annoy, irk _A tactic often intended to rile pitchers._ _Of all the things to get riled up about right now, Cam Newton’s touchdown dance ought to be at the bottom of the list._ :es: sacar de quicio  
 __rim__ _n_ _Utah missed shots at the rim and turned the ball over 18 times._  
 __rimless__ _adj_ _Rimless glasses._  
+__rimming__ _n_ _slang_ A slang term for the act of licking and/or orally stimulating the anus of a sexual partner.  
 __rind__ _n_ :two::hammer: _The color of rind._  
 __ring finger__ _n_ :two: The third finger, esp of the left hand, on which a wedding ring is traditionally worn.  
 __ring in__ _v_ _Do you want to ring in the new year with Babble-on?_  
+__ring-pull__ _n_ _BrE_ A metal strip that must be pulled off the top of a can of drink or food in order to open it.  
 __ring<sup>1</sup>__ _n_ _A narcotics ring._  
 __ring<sup>2</sup>__ _v_ :two::hammer: _Ring the emergency service immediately._ _He was ringed by enemies._  
 __ringed__ _adj_ __1__ Wearing or marked with a ring or rings. _A man whose ringed nose marked him a slave brought wet cloths for theis hands and faces._ __2__ Encircled or surrounded by bands or rings. __3__ (Zoology) Formed from segmented rings; annulate.  
@@ -16039,6 +16047,7 @@ __ripped__ _v_
 __ripple<sup>1</sup>__ _n_ _Can send ripples of positivity throughout your workplace?_  
 __ripple<sup>2</sup>__ _v_ :four::hammer: (rippled)  
 __rippling__ _n_ A small wave on the surface of a liquid. _Syn_ riffle, ripple, wavelet _The rippling of streams flowing._  
+__riptide__ _n_ /ˈrɪpˌtaɪd/  
 __rise__ _v_  
 __risers__  
 __risibility__ _n_ __1__ Often, risibilities. the ability or disposition to laugh; humorous awareness. __2__ Laughter.  
@@ -16059,12 +16068,14 @@ __roach motel__ _n_ In computing, a type of dark pattern deceptive user interfac
 __roach paste__  
 __roach__ _n_ :two::hammer: _Roach paste._  
 __road map__ _n_ :two::hammer::pencil2:  
+__road rash__ _n_ An abrasion on some area of one’s skin resulting from falling off of a non-enclosed vehicle (such as a bicycle, motorcycle, skateboard, etc.) and onto the pavement.  
 __road salt__ _n_  
 __roadblock__ _n_ :four::hammer: _Substantial roadblocks stand in the way._  
 __roadkill__ _n_ The remains of an animal or animals killed on the road by motor vehicles. _That coat is made of either pure possum or random roadkill. (Sara Rosinsky)_  
 __roadside__ _n_ :two: __1a__ Ahe area at the edge of a road. __b__ (as modifier): _roadside diners._ _Roadside billboards._  
 __roadster__ _n_  
 __roam__ _v_ :nine::m: (roaming) __1__ To move about without purpose or plan; wander. :es: vagar _Dinosaurs roaming the turf in Charlotte._ _To roam the country._ _Users must be able to roam between networks._ _Cuts of beef served tableside by a parade of roaming carvers._  
+__roar__ _n_  
 __roaring__ _adj_ :two::hammer: _A roaring marble fireplace._  
 __roast__ _n_  
 __roasted__ _adj_ (meat) Cooked by dry heat in an oven. _Roasted tea._ :camera:  
@@ -16098,7 +16109,7 @@ __rogue planet__ _n_
 __rogue<sup>1</sup>__ _n_  
 __rogue<sup>2</sup>__ _adj_ :two::hammer: _Rogue behavior._  
 __roguery__ _n_ Reckless or malicious behavior that causes discomfort or annoyance in others. _Syn_ mischief, devilment, rascality _Ms. Adams caught Tommy dipping Sally’s pigtail in his inkwell and gave him detention for his roguery._  
-__roil__ _v_ :nine::m: (roiled, roiling) US term for rile (make someone annoyed or irritated). _Another shocker roils _Game_ finale._ _They plunged into the roiling water._ _His stomach was roiling._ _The sky was gray and roiling with clouds._ :es: enturbiarse; agitarse  
+__roil__ _v_ :nine::m: US term for rile (make someone annoyed or irritated). _Another shocker roils _Game_ finale._ _They plunged into the roiling water._ _His stomach was roiling._ _The sky was gray and roiling with clouds._ :es: enturbiarse; agitarse  
 __roister__ _v_ :three: /ROY-ster/ Engage in boisterous, drunken merrymaking. _Syn_ carouse, riot _Grab your hats and your flasks, lads; we’re going to roister till sunup._ _Fans roistered after their team won the championship._  
 __role model__ _n_ :two::hammer: _The best role models embrace their flaws._  
 __roleplay__ _v_ :two::hammer:  
@@ -16182,8 +16193,8 @@ __Roto-Rooter__
 __rotorcraft__  
 __rototiling__  
 __Rottweiler__ _n_ :two::hammer:  
-__rotund__ _adj_  
-__rotunda__ _n_ :seven::hammer:  
+__rotund__ _adj_ :two: __1__ Rounded in figure; plump. _Syn_ fat  
+__rotunda__ _n_ :nine::hammer:  
 __rough > the rough__ _n_ __2b__ (Sports) The area of a golf hole in which the grass is left unmowed or is cut to a length longer than that of the fairway. _Tiger Woods hit a 3-iron downwind that went 295 yards and into the rough._  
 __rough__ _adj_  
 __rough-cut__ _adj_ Lacking refinement or cultivation or taste.  
@@ -16237,7 +16248,7 @@ __rudderless__
 __ruddy__ _adj_ :nine::m: Ruddy is used to describe something that is reddish—like the color of red hair, tomatoes, or your cheeks on a cold winter’s day. _Until her skin was ruddy._  
 __rude__  
 __rudiment__ _n_  
-__rue<sup>1</sup>__ _v_ :nine::astonished::pencil2: (rues, rued) To be sorry about something and wish that it had not happened. A more usual word is regret. _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
+__rue<sup>1</sup>__ _v_ :nine::m::astonished::pencil2: /ROO/ To _rue_ something is to feel penitence, remorse, or regret for it. _Rue_ is often used in the phrase “rue the day.” To be sorry about something and wish that it had not happened. A more usual word is regret. _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._ _I rue the day I signed that infernal contract._  
 __rue<sup>2</sup>__ _n_ /roo/ __1__ Sorrow; repentance; regret. __2__ Pity or compassion.  
 __rueful__ _adj_ :six::dart::hammer: _He gave a rueful smile._  
 __ruefully__ _adv_ :nine::m: In a rueful manner. _Syn_ contritely, remorsefully _Dan shook his head ruefully._  

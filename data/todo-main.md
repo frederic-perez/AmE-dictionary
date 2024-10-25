@@ -678,32 +678,6 @@ __refuse__ _v_ /rɪˈfjuːz/
 __regardless__  
 __reify__ _v_ /ˈri əˌfaɪ, ˈreɪ-/ /RAY-uh-fye/ Reifying is about considering or representing something abstract as a material or concrete thing. If you reify a concept or idea you somehow give it definite content and form.  
 __reignite__ _v_  
-__remand__ _n_ :three::hammer:  
-__remand<sup>1</sup>__ _n_  
-__remand<sup>2</sup>__ _vt_  
-__remanded__ _v_  
-__rendevouz__ _v_  
-__rendition__ _n_ /ren-DISH-un/  
-__repeat__ _n_  
-__replete__ _adj_ /rih-PLEET/ Replete is an adjective used to describe things as “fully or abundantly provided or filled,” “abundantly fed,” “stout,” or “complete.”  
-__repose__ _n_ The act of resting or the state of being at rest. _Syn_ ease, relaxation, rest _The vacationer took his repose beside the swimming pool._  
-__reprieve__ _n_  
-__reputedly__ _adv_ According to general belief or supposition: _the reputedly excellent food._ :es: según dicen  
-__reread__ _v_ :pencil2:  
-__rest stop__ _n_ The US name for lay-by.  
-__revenge__ _n_  
-__rhetoric__ _n_ :astonished::pencil2: /ˈrɛt ər ɪk/ Insincere or grandiloquent language.  
-__riding hood__ _n_ A type of cloak or hood worn by women who rode horses. This clothing was designed specifically for riding, providing warmth and protection for the rider.  
-__rife__ _adj_ /raɪf/ (postpositive)  
-__rimming__ _n_ _slang_ A slang term for the act of licking and/or orally stimulating the anus of a sexual partner.  
-__ring-pull__ _n_ _BrE_ A metal strip that must be pulled off the top of a can of drink or food in order to open it.  
-__riptide__ _n_ /ˈrɪpˌtaɪd/  
-__road rash__ _n_ An abrasion on some area of one’s skin resulting from falling off of a non-enclosed vehicle (such as a bicycle, motorcycle, skateboard, etc.) and onto the pavement.  
-__roar__ _n_  
-__roil__ _v_  
-__rotund__ _adj_ __1__ Rounded in figure; plump. _Syn_ fat  
-__rotunda__ _n_ :two::hammer:  
-__rue__ _v_ /ROO/ To _rue_ something is to feel penitence, remorse, or regret for it. _Rue_ is often used in the phrase “rue the day.” _I rue the day I signed that infernal contract._  
 __ruff__ _n_ (Clothing & Fashion)  
 __rummage__ _v_ :two::hammer:  
 __rundown__ _n_ :two: __1__ A point-by-point summary.  
