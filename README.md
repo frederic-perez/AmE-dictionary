@@ -18,8 +18,9 @@ I collect words and expressions from multiple written sources, including:
 - [Green’s Dictionary of Slang](https://greensdictofslang.com/)
   - Learning from [_American Tabloid_](https://greensdictofslang.com/sources/7759) (1995), by James Ellroy
   - Learning from [_Widespread Panic_](https://greensdictofslang.com/sources/11069) (2021), by James Ellroy
-- Posts by [Susan Rooks (The Grammar Goddess)](https://www.linkedin.com/in/susanrooks-the-grammar-goddess/)
+- Posts by [Sam Gratton](https://es.linkedin.com/in/sam-gratton-1bb97512a). Kudos to him for the best lesson ever: for a non-native English speaker, how to distinguish “I can” (which sounds something like /áikn/) from “I can’t” (which becomes /aikáhn/).
 - Posts by [Sara Rosinsky](https://www.linkedin.com/in/sararosinsky/)
+- Posts by [Susan Rooks (The Grammar Goddess)](https://www.linkedin.com/in/susanrooks-the-grammar-goddess/)
 - [The Free Dictionary](https://www.thefreedictionary.com/), which includes nice stuff like [Nominalization (Creating Nouns)](https://www.thefreedictionary.com/Nominalization-Creating-Nouns.htm)
 
 ### Audio Resources
@@ -49,3 +50,4 @@ Meaning of the emojis used in the dictionary:
 - :es: Translation into Spanish
 
 Note: For help editing with Markdown in GitHub, you can visit [writing on github pages](https://help.github.com/categories/writing-on-github/), and for emojis, visit the [emojipedia](https://emojipedia.org/) or the [emoji cheat sheet](http://www.emoji-cheat-sheet.com/). By the way, the word emoji comes from Japanese e (絵, "picture") + moji (文字, "character").
+- Kudos to [Sam Gratton](https://es.linkedin.com/in/sam-gratton-1bb97512a) for the best lesson ever: for a non-native English speaker, how to distinguish “I can” (which sounds something like /áikn/) from “I can’t” (which becomes /aikáhn/).- Kudos to [Sam Gratton](https://es.linkedin.com/in/sam-gratton-1bb97512a) for the best lesson ever: for a non-native English speaker, how to distinguish “I can” (which sounds something like /áikn/) from “I can’t” (which becomes /aikáhn/).
