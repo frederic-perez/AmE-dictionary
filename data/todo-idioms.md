@@ -34,31 +34,6 @@ __ahead of (someone or something)__
 __aid and abet__ To assist someone, usually in a mischievous or illegal activity.  
 __Aladdin’s cave__ The idiom “Aladdin’s cave” refers to a place filled with a vast collection of valuable, interesting, or unusual objects.  
 __all hell broke loose__ All sorts of wild or terrible things happened. _When the boss left early for the weekend, all hell broke loose._  
-__all the same__ :four::hammer:  
-__all too often__  
-__artful dodger__ :smiling_imp:  
-__as far as it goes__ As much as something accomplishes, typically with room for improvement.  
-__as it happens__  
-__as simple (smt?) as it gets__ :dart:  
-__as we speak__ At this very moment.  
-__ask (one) over__  
-__at (someone’s) behest__ Done according to the whims or commands of someone else. _Everything is done at our children’s behest; it’s like they’re the bosses of the family!_  
-__at (the) worst__ (at its very worst) Under the most negative circumstances, estimation, or interpretation: At worst, the storm will make us postpone the trip.  
-__at a moment’s notice__ With little time to prepare; immediately and at any time.  
-__at any rate__ :three::hammer:  
-__at close quarters__  
-__at every turn__  
-__at its best__  
-__at the outset__ At the beginning.  
-__at the ready__  
-__at the top of (one’s) voice__ As loudly as one can.  
-__aw shucks__ :dart: __1__ An expression of shyness, happiness, or embarrassment. _A: “You’re just too sweet!” B: “Aw shucks, you’re gonna make me blush.”_ _Aw shucks, it was nothing. I was happy to help._ _Aw shucks, that’s so nice of you to say! Thank you!_ __2__ An expression of disappointment. _Aw shucks, it looks like we’re going to lose the game after all._  
-__back in the saddle__  
-__back on track__  
-__back to normal__  
-__balderdash__ /ˈbɔːldəˌdæʃ/ Nomsense. Stupid or illogical talk; senseless rubbish.  
-__banana shot__  
-__barb__ :two: A shortening of “barbiturate,” a drug class that consists of sedatives and hypnotics. _Barbs are dangerous, man—I’d stay away from them._  
 __bare metal__ Computer hardware without an operating system. _Right now, my new computer is bare metal, and I can’t wait to build it and configure it just the way I want._  
 __bargain for (someone or something)__  
 __barrow man__ __1__ A boy or man who sells goods (usually fruit, vegetables, or other comestibles) from a handcart (barrow) on the streets. Primarily heard in UK. _Touts, thieves, and barrow men._  

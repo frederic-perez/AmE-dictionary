@@ -374,10 +374,11 @@ __all that jazz__ :four: All that stuff; all that nonsense.
 __all the better__ Even better.  
 __all the difference in the world__ :two: The greatest degree of difference that is possible or conceivable. Without the verbs “mean” or “make,” it is used to compare two disparate things. _There’s all the difference in the world between knowing how to play and actually performing on the field._ _I was sympathetic at first, but finding out you didn’t even study for the test makes all the difference in the world. You’re grounded!_  
 __all the rage__ :two: _slang_ Very popular. _Disco music was all the rage in the 1970s._  
+__all the same__ :four::hammer:  
 __all the way__  
 __all things considered__ :two::hammer:  
 __all together__  
-__all too often__ :three: Too frequently. _We see this problem all too often._  
+__all too often__ :four: Too frequently. _We see this problem all too often._  
 __all year round__ Lasting or happening through the entire year.  
 __all-out war__ :two: Unrestricted fighting or conflict. This phrase can be used literally or hyperbolically. _I fear that an invasion will lead to all-out war._ _It is all-out war right now for that empty corner office._  
 __all-out__ :two: Taking, requiring, or using all of one’s effort or resources toward something; complete, total, or all-encompassing. _I’ve been stuck in this cubicle for years now. I’m ready for an all-out adventure somewhere!_  
@@ -439,6 +440,7 @@ __around Robin Hood’s barn__ On a long, indirect route. _A: “What took you g
 __around the clock__ :three: Without stopping. _Syn_ for 24 hours, round the clock _Engineers work around the clock for three days trying to recover._  
 __around the corner__ :two: Going to happen soon.  
 __around the horn__ :two: [:scroll: Originally a nautical term referring to Cape Horn of South America, the long way to navigate around the continent since the creation of the Panama Canal.] __2__ A difficult route chosen despite a simpler alternative. _If traffic on the highway is too bad, we might have to go around the horn instead._  
+__artful dodger__ :smiling_imp:  
 __artsy__  
 __as a duck takes to water__ _cliché_ Easily and naturally. _She took to singing just as a duck takes to water._ _The baby adapted to the bottle as a duck takes to water._  
 __as a last resort__ As a final option, usually when preferable ones have failed.  
@@ -447,12 +449,13 @@ __as blind as a bat__ Unable to see well.
 __as easy as shooting fish in a barrel__ Of some task or activity, exceptionally easy to do or accomplish. _Like shooting fish in a barrel._  
 __as ever__ _As ever, he was right._  
 __as far as (someone or something) is concerned__ :two::hammer: _As far as I’m concerned, if you can’t do the crawl you can’t swim._  
+__as far as it goes__ As much as something accomplishes, typically with room for improvement.  
 __as good as (something)__ In every practical or functional sense; almost certainly. _If you stay out past curfew tonight, you’re as good as grounded, young lady!_  
 __as good as it gets__ :six: As good as is possible; impossible to improve upon. _This neighborhood is as good as it gets—why would we ever move?_ _Right now, Djokovic is about as good as it gets on a tennis court._ _Customer service is as good as it gets._  
 __as I see it__ From my perspective.  
 __as if (one’s) life depends on it__  
 __as if to say__  
-__as it happens,__ :dart::seven: Coincidentally; surprisingly; as a matter of fact. Often said of an unlikely or unusual fact, event, or circumstance.  
+__as it happens__ :dart::eight: (as it happens,) Coincidentally; surprisingly; as a matter of fact. Often said of an unlikely or unusual fact, event, or circumstance.  
 __as long as__  
 __as many as__ _As many as five terror plots were foiled last year._  
 __as much as__ _Inside today’s Stateman as much as $215 in coupon savings._  
@@ -460,14 +463,16 @@ __as much__ Almost the same: _I thought as much._ _She said as much._
 __as of late__ :two::hammer:  
 __as of now__ :four: Starting now. From now on; from this moment on: _As of now, smoking is forbidden in this house._  
 __as of today__  
+__as simple (smt?) as it gets__ :dart:  
 __as simple as that__ Idiom used to describe something as extremely easy to understand or not complicated at all.  
 __as the crow flies__ By the most direct way, along a straight line between two places.  
 __as the next person__ You use _as the next person_ to mean that you are no different from anyone else in the way you have mentioned.  
 __as we know it__ :three: As something is currently understood or viewed. This phrase usually implies that current conditions will change, as, for example, _“Nuclear warfare will mark the end of civilization as we know it.”_ First recorded in the late 1800s, the phrase began to be widely used from the 1940s on and has reached cliché status.  
-__as we speak__ :four: At this very moment.  
+__as we speak__ :five: At this very moment.  
 __as yet__ :two: At this time; yet. Up to the present time; up to now. _No one has responded to my email as yet, so I don’t have an answer for you._  
 __as you please__  
 __ascribe (something) to (something)__ To attribute something to a person or source. _The cause of the accident was ascribed to human error._  
+__ask (one) over__  
 __ask for the moon__ To ask for too much, to want something that is not possible.  
 __ask for trouble__  
 __at (long) last__ :three: Finally. Typically said after a long period. _My husband returns from his trip today at last—I’ve missed him so much!_  
@@ -475,25 +480,28 @@ __at (one’s) beck and call__ Completely compliant or obedient to another perso
 __at (one’s) discretion__ :dart: In accordance with one’s thoughts or judgment on a particular issue.  
 __at (one’s) leisure__ :dart::two: When one has free time; at one’s convenience: _I’ll return the call at my leisure._ _Enjoy coffee at your leisure._  
 __at (one’s) own game__  
+__at (someone’s) behest__ Done according to the whims or commands of someone else. _Everything is done at our children’s behest; it’s like they’re the bosses of the family!_  
+__at (the) worst__ (at its very worst) Under the most negative circumstances, estimation, or interpretation: At worst, the storm will make us postpone the trip.  
 __at a (single) stroke__ :two: All at once, with a single decisive or powerful action. _When the economy crashed, thousands of people lost their jobs, their homes, and their pensions at a single stroke._  
 __at a crossroads__ :dart::six::pencil2: At a point when a choice must be made; at a point of change. _After earning my degree, I’m at a crossroads. I need to figure out which direction my life should take._  
 __at a discount__ _Virtues are held at a discount._  
 __at a loss__ :two::hammer: _They sat inside the car, at a loss for what to do next._  
-__at a moment’s notice__:dart::three: With little time to prepare; immediately and at any time. _Firefighters need to be able to spring into action at a moment’s notice._  
+__at a moment’s notice__:dart::four: With little time to prepare; immediately and at any time. _Firefighters need to be able to spring into action at a moment’s notice._  
 __at a snail’s pace__ :two: (at a snail’s gallop) Very slowly (as a snail is known to move very slowly). _My research is moving at a snail’s pace—every experiment I’ve tried so far has failed._  
 __at all costs__ In any way possible, regardless of risk or expense.  
 __at any cost__ Regardless of the cost involved. _He wanted to save her life at all cost._  
-__at any rate__ :three: Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
+__at any rate__ :six: Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
 __at best__  
 __at breakneck speed/pace__ :two: Extremely and often dangerously fast. _He drove away at breakneck speed._  
-__at every turn__ :three: __1__ At every opportunity. _My opponent has tried to discredit me at every turn._ __2__ Everywhere. _I’ve been seeing my old roommate at every turn lately. Just today, I bumped into her at the mall!_  
+__at close quarters__  
+__at every turn__ :four: __1__ At every opportunity. _My opponent has tried to discredit me at every turn._ __2__ Everywhere. _I’ve been seeing my old roommate at every turn lately. Just today, I bumped into her at the mall!_  
 __at face value__  
 __at first blush__ :two: Upon first seeing or considering something. _At first blush, it sounded like a supremely dumb idea._  
 __at first__  
 __at gunpoint__  
 __at hand__ :two: __3__ Impending or imminent. _After months of planning, I’m thrilled that the event is finally at hand!_ _Victory is at hand._  
 __at heart__ :four::hammer: _Most people are crooks at heart._ _I’m a country girl at heart._  
-__at its best__ :two: Of or at the highest standard of quality possible. _You’ll love their new album; it’s simply jazz at its best._ _An excellent tribute to nature at its best._  
+__at its best__ :three: Of or at the highest standard of quality possible. _You’ll love their new album; it’s simply jazz at its best._ _An excellent tribute to nature at its best._  
 __at its worst__  
 __at large__ :three::hammer:  
 __at length__ :four::hammer: _At length a messenger entered the camp site and sought out King._ _Terms were discussed at length in open session._  
@@ -517,9 +525,10 @@ __at the forefront (of something)__ _In the clinical community, we need to be at
 __at the heart of__ The central or most important part of something.  
 __at the helm__ :two: In charge; acting as the leader of something. The phrase originated as a nautical term, meaning “in the position to steer a ship.” _Jack is at the helm, so I know they’ll get this project done on time!_  
 __at the mercy of (someone or something)__  
-__at the outset__ At the beginning. _This quest seemed Quixotic at the outset._ _Honestly, I never expected this play to be so successful at the outset._  
-__at the ready__ :four: Available for immediate use. Available for use at any time. _Soldiers with machine guns at the ready._ _Students with notebooks at the ready._  
+__at the outset__ :two: At the beginning. _This quest seemed Quixotic at the outset._ _Honestly, I never expected this play to be so successful at the outset._  
+__at the ready__ :five: Available for immediate use. Available for use at any time. _Soldiers with machine guns at the ready._ _Students with notebooks at the ready._  
 __at the top of (one’s) lungs__ As loudly as one can.  
+__at the top of (one’s) voice__ As loudly as one can.  
 __at the top of the hour__ :two: At the start of the hour (such as 12:00, 3:00, etc.). _And we’ll cover that news story at the top of the hour._  
 __at the very least__  
 __at the whim of (someone)__  
@@ -532,6 +541,7 @@ __attaboy__ :five: (atta boy) An expression of encouragement, support, or approv
 __auld lang syne__ [At many New Year’s Eve parties, the song “Auld Lang Syne” is played or sung at midnight, as a means of saying farewell to the old year and greeting the new.] Old times, especially those that are remembered fondly. In Scottish, the phrase means “old long since.” _Come on, you’re only in town for a few days—let’s go to dinner for auld lang syne._  
 __Aunt Sally__ _n_ Primarily heard in UK. /ant SAL-ee/ __1__ An object of criticism. __2__ Someone or something set up as an easy target for criticism in order to deflect it from others.  
 __avoid (someone or something) like the plague__  
+__aw shucks__ :dart: __1__ An expression of shyness, happiness, or embarrassment. _A: “You’re just too sweet!” B: “Aw shucks, you’re gonna make me blush.”_ _Aw shucks, it was nothing. I was happy to help._ _Aw shucks, that’s so nice of you to say! Thank you!_ __2__ An expression of disappointment. _Aw shucks, it looks like we’re going to lose the game after all._  
 __aw__ :dart::two::hammer: _interj_ [Sometimes elongated with multiple w’s to add emphasis.]  
 __awash__ _adj_ Drunk.  
 __awesome sauce__ _slang_ Excellent, great, or exceptionally interesting. _I couldn’t take him seriously when he described the movie as being awesome sauce._ _Awesome sauce! I got an A on my midterm!_  
@@ -552,16 +562,17 @@ __back atcha__ An exclamation used to express the same sentiment back to the ori
 __back down__  
 __back in the day__ :two: At a time in the past that is remembered with fondness or nostalgia.  
 __back in the game__  
-__back in the saddle__  
+__back in the saddle__ :two::hammer:  
 __back of (one’s) mind__  
 __back off__  
 __back on (one’s) feet__ :three: __1__ In good health again after a period of injury or illness. _Jill is happy to be back on her feet again after her hospital stay._ __2__ No longer in a precarious financial situation. _Now that I’ve paid off my credit card debt, I’m finally back on my feet._  
 __back on the horse__  
-__back on track__ Continuing as planned or expected, typically after a problem or distraction.  
+__back on track__ :two: Continuing as planned or expected, typically after a problem or distraction.  
 __back out (of something)__ :two::hammer: _If he’d had an honorable way to back out of the job, he would have._ _Medtronic backs out of $738M acquisition due to “multiple breaches.”_  
 __back out__  
 __back to back__ :four::hammer:  
 __back to basics__ :three: Returning to the fundamental aspects of something.  
+__back to normal__  
 __back to square one__ :three::hammer:  
 __back to the salt mines__ Back to one’s job or daily work, especially when it is very hard or unpleasant. (Workers in salt mines were often slaves and prisoners.) Sometimes used humorously. _I’m not excited to get back to the salt mines on Monday._  
 __back-of-the-envelope ideas__ Rough ideas.  
@@ -595,7 +606,7 @@ __bait and switch__ :two: A deceptive commercial practice in which customers are
 __balancing act__ :two::hammer:  
 __bald as a coot__ Totally bald.  
 __bald-faced lie__ A blatantly obvious or impudent untruth, one in which the liar does not attempt to disguise their mendacity. _Our son tells us nothing but bald-faced lies when we ask him where he goes at night._  
-__balderdash__ _n_ Senseless, stupid, or exaggerated talk or writing; nonsense. .  
+__balderdash__ :two: /ˈbɔːldəˌdæʃ/ Senseless, stupid, or exaggerated talk or writing; nonsense.  
 __balk at__  
 __ball and chain__ A wife.  
 __ball hog__ _sports_ A player who monopolizes the ball without including teammates in an attempt to score, move the ball, or maintain possession. Usually used for basketball and football (soccer). _Boy, you’re being a real ball hog today! Why don’t you pass it to one of your teammates for a change?_  
@@ -607,6 +618,7 @@ __ballpark figure__ :three: A rough numerical estimate.
 __ballyhoo__ _v_  
 __bamboozle__ :dart::three::smiling_imp: To cheat, deceive, or take advantage of someone by elaborate and underhanded means. _I can’t believe I let that salesmen bamboozle me like that._  
 __banana oil__ _n_ /buh-NAN-uh oyl/ [:scroll: It’s not known why the banana oil earned this sense, although “to go bananas” means to be crazy or wildly enthusiastic. Perhaps the sense arose because the liquid known as banana oil does not involve bananas at all. Instead, it’s a mixture of amyl acetate and cellulose that has a banana-like odor and is used as food flavoring and a solvent. ] __1__ Nonsense. __2__ Insincere talk or flattery.  
+__banana shot__  
 __Band E__  
 __bang for (one’s)/the buck__ :four: A lot of value for little cost. _With no sales tax, Portland gives shoppers a bigger bang for their buck._  
 __bang out__  
@@ -619,6 +631,7 @@ __banker’s hours__ A limited work schedule (as banks were once known for havin
 __bankroll__ _Remember, Microsoft bankrolls OpenAI, which basically means it just paid for their secret recipe and served it up themselves._  
 __banner year__  
 __bar star__ Someone who has or seeks a popular reputation by frequenting bars or night clubs. Primarily heard in US, South Africa. _Though he does not have a vibrant social life during the week, during the weekend he is something of a bar star._  
+__barb__ :two: A shortening of “barbiturate,” a drug class that consists of sedatives and hypnotics. _Barbs are dangerous, man—I’d stay away from them._  
 __bare (one’s) teeth__ :two: To display an angry, violent, or threatening reaction to or against something or someone, as does a dog or wolf when threatened. _I will bare my teeth to anyone who tries to take away my land._  
 __bare metal__ :two: Computer hardware without an operating system.  
 __barking up the wrong tree__ Looking in the wrong place.  
