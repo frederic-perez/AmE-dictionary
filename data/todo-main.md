@@ -727,32 +727,6 @@ __slovenly<sup>2</sup>__ _adv_
 __slug__ _vt_ __3__ To strike heavily, especially with the fist or a bat. _He slugged me across the jaw._  
 __smolder__ _vi_ __1__ To burn with little smoke and no flame. _Luke saw the smoldering piles which had once been human beings._  
 __smugly__ _adv_  
-__snarl__ _v_  
-__snarl<sup>1</sup>__ _v_ :three::hammer:  
-__snarl<sup>2</sup>__ _n_ :two::hammer:  
-__snigger__ _v_  
-__snort__ _v_  
-__snuffling__ _n_  
-__spark plug__ _n_  
-__spattering__ _n_ __1__ The noise of something spattering or sputtering explosively; “he heard a spatter of gunfire.’ _Syn_ spatter, splatter, splattering, splutter, sputter, sputtering __2__ The act of splashing a (liquid) substance on a surface. _Syn_ splashing, splattering, spatter, splash  
-__spearhead__ _vt_  
-__sperse__ _v_  
-__spinster__ _n_ :es: solterona  
-__spiracle__ _n_  
-__splendiferous__ _adj_ /splɛnˈdɪfərəs/ [:scroll: From Latin splendor (brilliance) + -fer (bearing)] _facetious_ Grand; splendid: _a really splendiferous meal._  
-__splosh__ _v_  
-__splotch__ _n_  
-__spotted lanternfly__ _n_  
-__sprain<sup>1</sup>__ _n_  
-__sprain<sup>2</sup>__ _vt_  
-__spruce__ _n_ :es: abeto  
-__spud__ _n_ _I was peeling spuds in the cookhouse._  
-__sputter__ _v_  
-__squally__ _adj_ __1__ Characterized by squalls. __2__ Stormy; threatening. _Squally showers._  
-__squealer__  
-__squeegee__  
-__squelch__ _v_  
-__squirm__ _vi_  
 __stakeout__  
 __stalk__ _v_ :three::hammer:  
 __stammer__ _v_ :two::hammer:  

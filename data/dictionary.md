@@ -17788,8 +17788,8 @@ __snarf__ _vt_ To eat or drink rapidly or eagerly; devour: _snarfed down some co
 __snark<sup>1</sup>__ _v_  
 __snark<sup>2</sup>__ _n_ :five::dart: Combination of “snide” and “remark.” Sarcastic comment(s). _The snarky Twitter reaction._  
 __snarky__ _adj informal_ :dart::eight: Annoyed, or saying rude things in an annoyed or sarcastic way. Unpleasant and scornful. _Snarky remarks._ _Take Wasatch Brewery’s iconic beverage “Polygamy Porter” and its snarky slogan: “Why have just one?”_  
-__snarl<sup>1</sup>__ _n_ :five: __1__ A vicious growl, utterance, or facial expression. __2__ An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido __3__ A tangled mass, as of hair or yarn. __4__ A confused, complicated, or tangled situation: _a traffic snarl._  
-__snarl<sup>2</sup>__ _v_ :nine::m: (snarled, snarling) (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one’s teeth _The wolves are snarling._ :es: gruñir  
+__snarl<sup>1</sup>__ _n_ :seven: __1__ A vicious growl, utterance, or facial expression. __2__ An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido __3__ A tangled mass, as of hair or yarn. __4__ A confused, complicated, or tangled situation: _a traffic snarl._  
+__snarl<sup>2</sup>__ _v_ :nine::m: (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one’s teeth _The wolves are snarling._ :es: gruñir  
 __snarling__ _n_  
 __snatch__ _v_ :three::hammer: (snatched)  
 __snazzy__ _adj informal_ :two: Stylish and attractive. _Snazzy little silk dresses._  
@@ -17806,7 +17806,7 @@ __sniffed__ _v_ :two::hammer:
 __sniffle__ _v_ (sniffles)  
 __snifter__ _n_ :two::camera::dart::hammer:  
 __snigger<sup>1</sup>__ _n_  
-__snigger<sup>2</sup>__ _vi_ :four::hammer:  
+__snigger<sup>2</sup>__ _vi_ :five::hammer:  
 __snipe__ _v_  
 __snippet__ _n_ A small piece of anything (especially a piece that has been snipped off).  
 __snippy__  
@@ -17829,7 +17829,7 @@ __snooze<sup>2</sup>__ _vi_
 __snoring__ _n_ The act of snoring or producing a snoring sound.  
 __snorkel__ _vi_  
 __snort<sup>1</sup>__ _n_ :four: __2__ _slang_ __a__ A drink of liquor, especially when swallowed in one gulp. _Karl took a snort of vodka for courage and headed for the dance floor._ :es: (trago, chupito) Karl tomó un trago de vodka para envalentonarse y se dirigió a la pista de baile. __b__ Cocaine or heroin, especially a small amount sniffed at one time. _A lifestyle of snorting and scrapping._ __c__ The liquor or drug so taken. _Zig offered free snorts of cocaine._  
-__snort<sup>2</sup>__ _vi_ :five::hammer: (snorted, snorting) _Ada snorted in derision._  
+__snort<sup>2</sup>__ _vi_ :six::hammer: (snorted, snorting) _Ada snorted in derision._  
 __snot rag__  
 __snot__ _n_ _slang_ :five: __1__ Nasal mucus; phlegm. __2__ An annoying, arrogant, or impertinent person.  
 __snot-nosed__ _adj_ (used colloquially) Overly conceited or arrogant.  
@@ -17865,6 +17865,7 @@ __snuff<sup>1</sup>__ _n_ :two: __3__ Any powdered substance, esp one for sniffi
 __snuff<sup>2</sup>__ _v_ :four::hammer: (snuffling) _He quickly snuffed it out._  
 __snuffbox__ _n_ :two::hammer:  
 __snuffle__ _v_  
+__snuffling__ _n_  
 __snug<sup>1</sup>__ _adj_  
 __snug<sup>2</sup>__ _v_ :four::hammer:  
 __snuggery__ _n_ /ˈsnʌɡərɪ/ _Chiefly British_ __1__ A snug place or position. __2__ A comfortable or cozy room. _Syn_ cubby, cubbyhole  
@@ -18057,7 +18058,7 @@ __spar<sup>1</sup>__ _n_
 __spar<sup>2</sup>__ _v_  
 __spare room__ _n_ (spare-room) Guest room, guestroom. :es: habitación de invitados, cuarto de invitados  
 __spare__ _v_  
-__spark plug__ _n_ :dart::three: (spark plugs) :es: bujía  
+__spark plug__ _n_ :dart::four: (spark plugs) :es: bujía  
 __sparklers__ _n_  
 __sparred__ _v_  
 __spars__ _n_  
@@ -18066,6 +18067,7 @@ __spat__ _n_ :nine::m: __1__ A brief quarrel. _This spat demonstrated that Rogoz
 __spate__ _n_ :nine: /speɪt/ A large number of similar things coming in quick succession. _Syn_ series, succession, run _A spate af hate speech._ _A spate of cross-border attacks._ _A warm spate of blood ran from his nostrils._  
 __spatiotemporal__ _adj_  
 __spatter__ _n_  
+__spattering__ _n_ __1__ The noise of something spattering or sputtering explosively; “he heard a spatter of gunfire.’ _Syn_ spatter, splatter, splattering, splutter, sputter, sputtering __2__ The act of splashing a (liquid) substance on a surface. _Syn_ splashing, splattering, spatter, splash  
 __spay__ _v_ :three::hammer: (spayed)  
 __spaz__  
 __spd__  
@@ -18076,7 +18078,7 @@ __spear chucker__
 __spear side__ _n_ /SPEER syd/ The male side or branch of a family (opposed to _distaff side_).  
 __speargun__  
 __spearhead<sup>1</sup>__ _n_  
-__spearhead<sup>2</sup>__ _vt_ :nine: (spearheaded, spearheading) Lead (an attack or movement). To be the leader of (a movement, for example). _He’s spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
+__spearhead<sup>2</sup>__ _vt_ :nine::m: Lead (an attack or movement). To be the leader of (a movement, for example). _He’s spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
 __Special Olympics__ _n pl_  
 __special__ _adj_ /ˈspɛʃəl/  
 __special-team__  
@@ -18122,6 +18124,7 @@ __spelunking__ _n_
 __spendolie__  
 __spendthrift__ _n_ One who spends money recklessly or wastefully. _Syn_ scattergood, spend-all, spender _You talk as if a miser on Monday were always a spendthrift on Tuesday._  
 __spent volcano__  
+__sperse__ _v_  
 __spew<sup>1</sup>__ _vt_ :nine: (spewed) __1__ To send out or force out in large amounts: _a volcano that spewed molten lava; spewed invective at his opponent._ _Carbon-spewing coal power plants._ __2__ To vomit or otherwise cast out (matter) through the mouth.  
 __spew<sup>2</sup>__ _vi_ :two: __1__ To flow or gush forth: _Water was spewing from the hydrant._ __2__ To vomit.  
 __sphinx__ _n_  
@@ -18158,8 +18161,9 @@ __spinner__ _n_ :two::hammer: _A pastoral letter declared that spinners could be
 __spinning wheel__ _n_ A small domestic hand-driven or foot-driven machine for spinning yarn or thread.  
 __spinning__ _n_ (Textiles)  
 __spinouts__  
-__spinster__ _n_ :two::hammer:  
+__spinster__ _n_ :three::hammer: :es: solterona  
 __spiny lobster__ _n_ :camera:  
+__spiracle__ _n_  
 __spiral binder__  
 __spiral<sup>1</sup>__ _n_  
 __spiral<sup>2</sup>__ _v_ :four::hammer: _It spirals out of control._  
@@ -18176,6 +18180,7 @@ __splashdown__ _n_ :two::dart: The landing of a crewed spacecraft in the ocean.
 __splay__ _v_ :six::hammer: (splahed, splaying)  
 __spleen__ _n_ _Interned-stoked spleen._  
 __splendid__ _adj_ :two::hammer:  
+__splendiferous__ _adj_ /splɛnˈdɪfərəs/ [:scroll: From Latin splendor (brilliance) + -fer (bearing)] _facetious_ Grand; splendid: _a really splendiferous meal._  
 __splendor__ _n_ :three::hammer:  
 __splendour__ _n_  
 __splenetic__ _adj_ :two: /splih-NET-ik/ Splenetic is a formal word that typically describes expressions of sharp annoyance and anger. Affected or marked by ill humor or irritability. _Syn_ bristly, prickly, waspish _The splenetic tone of the complaint letter made James dread meeting its author in person._  
@@ -18187,8 +18192,9 @@ __splint<sup>2</sup>__ _v_
 __split<sup>1</sup>__ _n_ :two::hammer: _Tom would take a $15,00 split of the money from Zig._  
 __split<sup>2</sup>__ _v_ :two: __9__ _slang_ To depart from; leave: _a mobster who suddenly split town._ _Women who have split from a relationship._  
 __splitting headache__ _n_ A very bad headache.  
+__splosh__ _v_  
+__splotch__ _n_ :two::hammer:  
 __splotched__ _v_  
-__splotches__ _n_  
 __splurge<sup>1</sup>__ _n_ :five: [:scroll: Perhaps a blend of splash + surge, or maybe imitative.] __1__ An expensive indulgence; a spree: _a splurge in a fine restaurant._ _Have a splurge-worthy meal._ __2__ An extravagant display or large amount: _a splurge of flowers._  
 __splurge<sup>2</sup>__ _vi_ :five: (splurged, splurging) To make an ostentatious display.  
 __splurge<sup>3</sup>__ _vi/t_ :six: (splurged, splurging) To spend lavishly or wastefully.  
@@ -18227,9 +18233,11 @@ __spot<sup>2</sup>__ _v_ :two::hammer: (spotted)
 __spotless__  
 __spotlight<sup>1</sup>__ _n_  
 __spotlight<sup>2</sup>__ _v_ :three::hammer:  
+__spotted lanternfly__ _n_  
 __spotted__ _v_  
 __spout__ _v_ :three::hammer: _He is more interested in spouting divisive sound bites._  
-__sprained__ _v_ :five::hammer: _A sprained thumb._  
+__sprain<sup>1</sup>__ _n_  
+__sprain<sup>2</sup>__ _vt_ :six::hammer: _A sprained thumb._  
 __sprawl__ _v_ :six::hammer: (sprawled, sprawling)  
 __sprawling__ _adj_ :six: Spreading out in different directions. _Sprawling handwriting._ _A sprawling cabin of rustic elegance._  
 __spray charts__  
@@ -18252,12 +18260,12 @@ __spritz__ _v_ _He spritzed me with a mouthful of martini._
 __sprocket__ _n_ _Sprocket holes._  
 __sprout<sup>1</sup>__ _v_ :two: (sprouting) Appear or develop suddenly and in large numbers. _Plush new hotels are sprouting up everywhere._  
 __sprout<sup>2</sup>__ _n_  
-__spruce<sup>1</sup>__ _n_ :four::hammer: :es: abeto  
+__spruce<sup>1</sup>__ _n_ :five::hammer: :es: abeto  
 __spruce<sup>2</sup>__ _v_ :two::hammer:  
 __spruce<sup>3</sup>__ _adj_  
 __spry__ _adj_ :five: Lively, active, and brisk; vigorous.  
 __spuckie__  
-__spud__ _n_ :two: __1__ _informal_ A potato. _There’s nothing quite like a hot spud covered in butter._ __2__ A sharp spadelike tool used for rooting or digging out weeds.  
+__spud__ _n_ :three: __1__ _informal_ A potato. _There’s nothing quite like a hot spud covered in butter._ _I was peeling spuds in the cookhouse._ __2__ A sharp spadelike tool used for rooting or digging out weeds.  
 __spun sugar__ _n_ a fluffy confection made from threads of hot boiled sugar. _Syn_ candyfloss, cotton candy _A landscape made of spun sugar and painted pastry._  
 __spun__ _v_ :pencil2: (see homespun)  
 __spunk__  
@@ -18270,7 +18278,7 @@ __spurred__ _adj_ _Spurred flowers._
 __spurt<sup>1</sup>__ _n_ :seven: (spurts) A sudden gushing stream. _It has been raining in spurts._ _Stanford owned a two-poin lead in the second half before putting together a 16-3 spurt._ :es: esfuerzo supremo _Growth spurts._ _A huge spurt of activity._  
 __spurt<sup>2</sup>__ _v_ :two::hammer: :es: acelerar; hacer un esfuerzo supremo  
 __sputs__  
-__sputter__ _v_ :nine::m: (sputters, sputtered, sputtering) Make a series of soft explosive sounds, typically when being heated or as a symptom of a fault. _The engine sputtered and stopped._ _The car lurched forward, sputtering, and then died._  
+__sputter__ _v_ :nine::m: Make a series of soft explosive sounds, typically when being heated or as a symptom of a fault. _The engine sputtered and stopped._ _The car lurched forward, sputtering, and then died._  
 __sputtering__ _adj_  
 __sputum__ _n_  
 __spy on__ _phr v_ _Spy on someone._  
@@ -18284,6 +18292,7 @@ __squad__ _n_ :four::hammer: _The Olympics squad._
 __squalid__ _adj_ :astonished::seven::pencil2: Dirty and wretched, as from poverty or lack of care. _Syn_ flyblown, sordid _Squalid home._  
 __squall<sup>1</sup>__ _n_ :seven: __1__ A loud, harsh cry. __2__ A brief sudden violent windstorm, often accompanied by rain or snow. _It’s just a passing squall._ __3__ _informal_ A brief commotion.  
 __squall<sup>2</sup>__ _v_ Utter a sudden loud cry. _Syn_ cry, scream, yell, shout, holler, hollo, call _The new mother breathed a sigh of relief as soon as she heard her newborn squalling._  
+__squally__ _adj_ __1__ Characterized by squalls. __2__ Stormy; threatening. _Squally showers._  
 __squalor__ _n_ :seven::astonished: __1__ A filthy and wretched condition or quality. Disgusting dirt and filth. _Syn_ sordidness, squalidness _The squalor in which the refugees lived alarmed the aid workers, who knew they had to work quickly to improve these conditions._  
 __squamous__ _adj_  
 __squander<sup>1</sup>__ _vt_ :four::hammer: _Do not squander time._  
@@ -18306,11 +18315,13 @@ __squeaker__ _n_ __2__ Something achieved (or escaped) by a narrow margin. _Syn_
 __squeaky__ _adj_ :three::hammer: _Squeaky cheese curds._  
 __squeaky-clean__ _adj informal_ __1__ Scrupulously clean. __2__ Virtuous; wholesome; above reproach.  
 __squeal__ _v_  
+__squealer__  
 __squeamish__ _adj_ :nine::m: Easily upset or disgusted by things or actions you find unpleasant: _Dad was squeamish about killing roaches._  
 __squeamishness__  
+__squeegee__  
 __squeeze<sup>1</sup>__ _n_  
 __squeeze<sup>2</sup>__ _v_ :two::hammer:  
-__squelch__ _v_ :seven::hammer: (squelched)  
+__squelch__ _v_ :eight::hammer: (squelched)  
 __squib__ _n_ :four: __2a__ A brief satirical or witty writing or speech, such as a lampoon.  
 __squiffy__  
 __squiggly__ _adj_  
