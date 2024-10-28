@@ -12,6 +12,7 @@ __(the) top of the line__ The absolute best of a certain thing, often referring 
 __a (whole) host of (something)__  
 __a balancing act__ :dart:  
 __a bum ankle/leg, etc.__ An injured ankle, leg, etc.  
+__a dab hand__ Someone who is skilled in a particular area. Primarily heard in UK, Australia.  
 __a far cry from (something)__  
 __a hell of a__ _informal_ (one hell of a) Used to emphasize something very bad or great. _You’re one hell of a package!_  
 __a joy to behold__ A thing, event, or experience that creates a profound sense of joy or elation in the spectator. _The spring flowers in this part of the country are truly a joy to behold._  
@@ -35,6 +36,7 @@ __ahead of (someone or something)__
 __aid and abet__ To assist someone, usually in a mischievous or illegal activity.  
 __Aladdin’s cave__ The idiom “Aladdin’s cave” refers to a place filled with a vast collection of valuable, interesting, or unusual objects.  
 __all hell broke loose__ All sorts of wild or terrible things happened. _When the boss left early for the weekend, all hell broke loose._  
+__as we speak__  
 __bare metal__ Computer hardware without an operating system. _Right now, my new computer is bare metal, and I can’t wait to build it and configure it just the way I want._  
 __bargain for (someone or something)__  
 __barrow man__ __1__ A boy or man who sells goods (usually fruit, vegetables, or other comestibles) from a handcart (barrow) on the streets. Primarily heard in UK. _Touts, thieves, and barrow men._  
@@ -68,6 +70,7 @@ __birthday suit__
 __bits and pieces__ Sundry little items, tasks, or chores.  
 __black tie__ Dress ccde (slightly less formal than _white tie_) typically allowing men to wear tuxedos or dinner jackets and women to wear cocktail dresses and long dresses.  
 __bland__ _adj_  
+__blast to kingdom come__ :es: hacer saltar en pedacitos  
 __blow a gasket__ To react furiously or violently, to the point of losing control of one’s behavior. _Mom totally blew a gasket when I told her I had failed math._  
 __boil (something) down to (something)__ To reduce or simplify something to the most basic, essential, or fundamental element(s).  
 __bona fide__  
@@ -111,6 +114,7 @@ __come to terms with (someone or something)__
 __coming-of-age__  
 __contend with (someone or something)__  
 __coochie__  
+__corny__ :es: cursi, sensiblero  
 __covet__ _v_ _You shall not covet your neighbor’s house; you shall not covet your neighbor’s wife, or anything that belongs to your neighbor._  
 __cranky__ Irritable; in a foul mood.  
 __creeper__  
@@ -239,7 +243,7 @@ __go with the territory__ To typically accompany a certain situation; to be a us
 __God rest someone’s soul__ May God bless a previously mentioned person who has died. _I remember what my mother, God rest her soul, used to say about that._  
 __golden__  
 __good grief__ :dart::two: An expression of surprise or frustration. _Oh, good grief—my car won’t start again._  
-__good riddance__ :dart: An expression used when one is pleased that someone or something is leaving or stopping. A shortened version of the phrase “good riddance to bad rubbish.” _Well, I didn’t want to talk to you anyway, so good riddance!_  
+__good riddance__ :dart::two: An expression used when one is pleased that someone or something is leaving or stopping. A shortened version of the phrase “good riddance to bad rubbish.” _Well, I didn’t want to talk to you anyway, so good riddance!_  
 __good things come in small packages__ Often the things that have the most value or quality are small; the size of something does not always properly indicate its value.  
 __good to go__  
 __good-time Charlie__ An affable, lively, and entertaining man who is often or always seeking pleasure or a good time.  
@@ -281,6 +285,7 @@ __hold my beer__
 __hold the line__  
 __holding pattern__  
 __hopeless at (something)__ Not skilled or adept at something. _Oh, I hired a maid because I know I’m hopeless at housework._  
+__horseshit__ :es: chorradas  
 __hothead__ A person with an excitable, fiery, or impetuous temper or disposition; one who is quick to get angry or act rashly. _That lady in the car behind me is a real hothead, honking and shouting at me every time I slow down!_  
 __hotshot__ :two::hammer:  
 __hue and cry__ /HYOO-und-KRYE/ __1__ A large public protest. _Hue and cry_ refers to a clamor of alarm or protest in response to something. __2__ It can also be used as a synonym of hubbub to refer to general noise or uproar.  
@@ -413,6 +418,7 @@ __keep a lid on (something)__ :two::hammer:
 __keep a lookout (for somebody/something)__  
 __keep a sharp lookout (for something or someone)__ To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep a sharp lookout._  
 __keep an eye peeled (for something or someone)__ To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep an eye peeled._ _Keep an eye peeled for a Christmas present we could give your mother._  
+__keep body and soul together__  
 __keep pace__  
 __keep tabs on (someone or something)__  
 __keep the lid on (something)__  
@@ -476,6 +482,7 @@ __let off (some) steam__ __2__ To release strong emotions or energy by engaging 
 __let someone down__  
 __let the good times roll__ To have as much fun or live life as richly as possible. (Often said as an imperative.) _We’ve had another successful year at the company, so everyone enjoy the party and let the good times roll!_  
 __let up (on someone or something)__  
+__let up__ :es: parar, detenerse  
 __letters after (one’s) name__ :dart: A series of abbreviations indicating the various levels of higher education or military honors one has received, thereby denoting a presumed level of intelligence, wisdom, or respectability. _I hate hanging out with your PhD colleagues—it seems like they’ll only take you seriously if you have letters after your name._  
 __level the playing field__ To make a situation or activity more fair and balanced by giving an extra advantage or opportunity to those who would normally be at a disadvantage, or by attempting to take away or diminish advantages, perhaps of one’s adversary or competitor.  
 __lick (one’s) wounds__  
@@ -536,11 +543,13 @@ __make inroads (in/into something)__
 __make matters worse__  
 __make news__ To garner attention and be the topic of conversation.  
 __make no mistake__  
+__make off with__ :es: largarse con  
 __make one’s name__ To become well-known or famous.  
 __make or break__  
 __male gaze__ The rendering of art, literature, etc., from the perspective of and for the consumption of heterosexual males, especially characterized by the depiction of women as passive objects of desire and pleasure. The phrase was coined by film theorist Laura Mulvey. _The male gaze will continue to dominate media until more and more women artists challenge the paradigm._  
 __masquerade as (someone or something)__  
 __matter of fact__ :two::hammer: _Matter of fact, I was just going to see your boss, Jabba the Hutt._  
+__mean the world to (one)__  
 __mickey mouse__ _slang_ A reference to the cartoon character Mickey Mouse. Often capitalized. __1__ _n_ Something that is trivial or insignificant. _All I ever do at this job is a lot of mickey mouse._ __2__ _n_ A police officer. _You hear those sirens? Mickey Mouse is getting closer—we need to move it._ __3__ _n_ A small piece of paper containing LSD and imprinted with an image of Mickey Mouse. _Got any mickey mouse I can buy?_ __4__ _adj_ Trivial or insignificant. _She needs to get a real job instead of wasting time with this Mickey Mouse internship._  
 __middlebrow__ [:scroll: Formed on the pattern of highbrow and lowbrow] Neither particularly intelligent and refined nor particularly uncultured or crude in style, content, or quality. _I used to pride myself on my refined tastes when I was in college, but they’ve become positively middlebrow since I settled down as an adult._  
 __mill about__ To loiter, wander about, or waste time idly (some place).  
@@ -644,6 +653,7 @@ __out of (one’s) hair__ No longer pestering or annoying to one; not one’s re
 __out of print__ No longer being printed and sold by a publisher.  
 __over and out__ Said to mark the end of communication between two people. Used especially in radio communication, in which it signals that a person is done speaking and does not expect a reply from the other person. _A: “Oh, and while you’re at the store, could you please get some milk, too?” B: “Sure thing. Over and out.”_  
 __over the phone__ :two: By calling on the telephone. _You can order a pizza over the phone._  
+__pad out__ (pad something out) To fill something with cheaper or unnecessary material in order to make it superficially fuller, larger, or longer. A noun or pronoun can be used between “pad” and “out.” :es: rellenar  
 __pave the way (for someone or something)__ To create a situation in which it is easier for someone to do something or something to happen.  
 __pay lip service__ :smiling_imp:  
 __peck at__  
@@ -699,6 +709,7 @@ __rolling stone__
 __round and round__ :two::hammer: (around and around)  
 __rubberneck__  
 __rue the day (that something happened)__ :two: To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
+__ruffle a few feathers__ To do something which annoys, irritates, or upsets other people.  
 __rule of law__  
 __rules of the road__  
 __rummage around for (something)__  
@@ -775,7 +786,9 @@ __sounds like__
 __speak (one’s) mind__ To voice one’s thoughts plainly or bluntly.  
 __speed__ _slang_ Any illicit stimulant drug, especially amphetamine or methamphetamine. _We all used to take speed during college to help us study._  
 __spend a penny__ _euphemism_ To go to the toilet. Primarily heard in UK.  
+__spoil for something__ _You are spoiling for a fight._ :es: te estás buscando pelea  
 __square off__  
+__stakeout__  
 __stalk out__ To leave (some place) in a haughty, stiff, or threatening manner.  
 __stamp of approval__ An indication of endorsement or authorization of something.  
 __stand a chance__ To have a possibility, however remote, of succeeding; to possibly be able to do something. Often used in the negative to mean the opposite. _If that road is closed, we don’t stand a chance of making it on time._  
@@ -785,6 +798,7 @@ __start the ball rolling__ To set something, often a process, in motion; to begi
 __stay clear of (someone)__ :dart:  
 __step in__ To enter into some position, activity, or situation to intervene or improve it.  
 __stick around__ To remain or linger in one location; to not leave or abandon (someone or something). _Hey, stick around for a minute, I need to talk to you._  
+__stiff upper lip__ :es: guardar la compostura  
 __stir-crazy__ Acutely restless, irritable, or anxious from remaining for too long in an isolated, confined, or unstimulating environment. “Stir” in this usage is a slang word for prison. _We thought taking our family vacation in a tiny cottage out in the country would be a nice break from city life, but we all went a bit stir-crazy after a few days._  
 __stone dead__ Dead; unquestionably dead; long dead. _The cat was stone dead and stiff as a board by the time we got to him._  
 __strike (one) dead__  
@@ -808,6 +822,7 @@ __the upper crust__
 __the upshot (of something)__ :dart::two: The final or resulting outcome, conclusion, or consequence (of something). _The upshot of this merger is that the company will now control nearly 50% of the world’s television networks._  
 __the works__  
 __then again__  
+__there is something about__  
 __thick-skulled__ Stupid, dimwitted, or obtuse.  
 __thread the needle__  
 __throw the book at (one)__ :dart: _The NY Times sure loves throwing the book at AI startups._  
@@ -828,6 +843,7 @@ __twist the knife__ :smiling_imp: To add to, exacerbate, or amplify a betrayal o
 __two peas in a pod__  
 __uh-huh__  
 __ventilate__ To kill (someone) by shooting.  
+__wait and see__  
 __walk the wire__ To navigate a delicate or precarious situation. It implies taking risks and balancing between different challenges or conflicting demands.  
 __watch one’s step__ Exercise caution, as in _You’d better watch your step talking to them about a merger._ Often put as an admonition, this phrase transfers taking care in walking to other kinds of caution.  
 __watering hole__  
@@ -839,6 +855,7 @@ __whatcha__ :dart: (watcha, wotcha, wotcher, what’cha, whatchya, whutcha) _col
 __white tie__ The most formal of all dress codes, requiring men to wear white bow ties and black tailcoats and women to wear evening or ball gowns.  
 __willy-nilly__ :two::hammer: [:scroll: This expression is a shortened form of ‘willing or not willing.’]  
 __wimp__ _slang_ Someone who is too nervous, afraid, or reserved to do anything too intense, extreme, or risky. _We’re all doing the bungie jump. Don’t be a wimp, Bob!_ :es: debilucho; parado  
+__wimpy__ Overly fearful, anxious, conservative, or reserved; unwilling or unable to do that which is brave, adventurous, or risky. :es: blandengue  
 __wind down__ __2__ To cause something to slow and near an ending. In this usage, a noun or pronoun can be used between “wind” and “down.” _We’ll wind down our practice with some gentle stretches._  
 __with a start__ The phrase “with a start” refers to a sudden, involuntary movement or reaction, typically caused by surprise or alarm. It is often used to describe the action of waking up abruptly, as in the expression “I woke up with a start.” _I dreamed about falling and I woke with a start._  
 __with open arms__ Very happily and eagerly.  
@@ -851,7 +868,9 @@ __world without end__ :dart: For ever and ever; until the end of time. This unus
 __worm__ :smiling_imp: A contemptible person. _He’s such a little worm, agreeing with whatever the boss says if he thinks it will get him ahead._  
 __wrangle with (something)__ To struggle to understand, solve, or deal with something.  
 __y’all__ :two::hammer:  
+__yada yada yada__  
 __you are what you eat__ One’s overall health is linked to one’s eating habits. The phrase is often used to promote proper nutrition.  
+__you bet__  
 __you could hear the grass grow(ing)__  
 __you(’d) better believe it__ Absolutely, without question; rest assured.  
 __young at heart__ Behaving or thinking in a way that is more youthful than what traditionally accompanies one’s actual age.  

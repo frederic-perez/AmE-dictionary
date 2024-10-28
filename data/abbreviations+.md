@@ -29,7 +29,7 @@ __BO__ :two: Body odor.
 __BPA__ Bisphenol A. _BPA free 100% recyclable plastic bottle._  
 __BS__ :three::hammer: (BSing) _One of our core values is: Open company, no BS._  
 __BYOD__ :two: Bring your own device.  
-__c/o__ Care of.  
+__c/o__ :two: Care of.  
 __CBT__  
 __CCP__ Chinese Communist Party, the ruling political party of China.  
 __CDC__ :three: Center for Disease Control. _A CDC van._  

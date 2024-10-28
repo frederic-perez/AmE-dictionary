@@ -1,6 +1,6 @@
 __aah__ Used to express pleasure, satisfaction, surprise, or great joy.  
-__aha__ Used to express surprise, pleasure, or triumph.  
-__ahem__ :dart::two: Used to attract attention or to express doubt or warning.  
+__aha__ :two: Used to express surprise, pleasure, or triumph.  
+__ahem__ :dart::three: Used to attract attention or to express doubt or warning.  
 __ahoy__ Used to hail a ship or to attract attention.  
 __alas__ :three::mega::hammer: /əˈlæs, əˈlɑs/  
 __allegedly__ An exclamation expressing disbelief or skepticism.  
@@ -17,6 +17,7 @@ __boom__ :two::hammer:
 __bosh__ :two::hammer: _Oh, bosh._  
 __brrr__ _informal_ An exclamation used to suggest shivering.  
 __d’oh__ :dart::two: Used to express sudden recognition of a foolish blunder or an ironic turn of events. Exclamation used when you realize that you did something stupid.  
+__dammit__ :dart::two: Used to express anger, irritation, contempt, or disappointment.  
 __damn__ Used to express anger, irritation, contempt, or disappointment.  
 __dang__ :three: Used to express dissatisfaction or annoyance. A euphemistic word for damn. _But, dang marketers go crazy._  
 __darn<sup>1</sup>__ _(also adjective and adverb)_ :eight: A euphemistic word for damn. _That’s pretty darn good._  
@@ -54,6 +55,7 @@ __hurrah__ _n_ A cheer of joy, victory, etc.
 __ick__ :dart::two: /ɪk/ [:scroll: The interjection _ick_ is closely related to _yuck_ in that it also expresses disgust or repugnance, as if something tastes gross. In contemporary slang, _ick_ has been turned into a noun (_the ick_) to describe the gut feeling of being turned off or disgusted by a (former) romantic interest. According to an article in _Cosmopolitan_ magazine, one of the earliest uses of ick in this way comes from the 1990s television show _Ally McBeal_, whose titular character was a girlboss with some of the worst dating luck on the planet.] Used as an expression of distaste or repugnance.  
 __jeepers__  
 __jeez__ :two: Used to express surprise or annoyance.  
+__kablooey__ :two: Used to indicate an explosion.  
 __kaboom__  
 __lordy__ _chiefly US and Canadian_ An exclamation of surprise or dismay.  
 __lulz__ _n pl_ :two: /lʌlz/ (lolz) [:scroll: _Lulz_ comes from the internet acronym LOL, meaning “laugh out loud.” When used as an interjection in speech or in writing, _lulz_ expresses humor or delight, often with an ironic or sarcastic edge. _Lulz_ is sometimes used as a noun meaning roughly “fun,” as in “I did it for the _lulz_.”] Laughs at someone else’s or one’s own expense.  
@@ -106,4 +108,5 @@ __yikes__ :five: An exclamation of surprise or alarm.
 __yo__ _slang_ :four: __1__ Used as a greeting or to attract someone’s attention. __2__ Used to express emphasis: _Today’s my birthday, yo._  
 __yoi__ :dart::two: An expression of joy and delight, as when your team scores a touchdown. If one yoi isn’t enough to express your happiness, you can always go a bit bigger and say _double yoi_ or even _triple yoi._  
 __yuck__ :three: [:scroll: Another interjection used to turn up your nose at something gross is _yuck_. It also dates to the 1960s. The variant _yuk_ is used in the name of the Poison Control mascot, Mr. Yuk, who warns you not to eat harmful substances. Developed by pediatrician Dr. Richard Moriarty, it was first used by the Pittsburgh Poison Control Center in 1971 as a replacement for the traditional skull and crossbones warning.] _slang_ Used as an expression of disgust or repugnance. _Yuck, it’s spinach again!_  
+__yum__ /jʌm/  
 __yup__ _informal_ Yes.  
