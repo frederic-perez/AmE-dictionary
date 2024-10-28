@@ -1,4 +1,5 @@
 __(as) good as dead__  
+__(as) quick as a bunny__ Incredibly quickly or speedily. _Quick as a bunny, Mary finished her exam and raced out of the classroom._  
 __(it’s) (a)bout time__ :dart:  
 __(it’s) just as well (that) (something happened)__ It is or turned out to be beneficial (that something happened). _It turned out we had a pop quiz on Monday. Just as well I was studying this weekend!_  
 __(it’s) little wonder__ It is not at all surprising (that something is the case). _I was always terrible at math in school, so it’s little wonder that I have such trouble filing my taxes._  
@@ -19,7 +20,7 @@ __a legend in (one’s) own lifetime__ A person who has an extraordinary level o
 __a legend in (one’s) own mind__ A person who affects or believes that they are of greater importance or notoriety than is actually the case. A humorous, ironic twist on the phrase “a legend in one’s own lifetime.” _The assistant manager acts as if she’s the only one keeping the company together. She’s a regular legend in her own mind._  
 __a license to print money__ An activity, business model, or company that yields very high profits but requires little or no effort to do so. _All these hefty parking fees and fines are just a license to print money for the city._  
 __a little from column A, a little from column B__ Having been formed from two distinct factors, elements, or reasons. _She asked me if I drew more from real life or from my imagination when writing; in truth, it’s a little from column A and a little from column B._  
-__a little leery__  
+__a little leery__ :two: Cautious, wary, or uncertain of a given person, place, or thing. _To be honest, I’m a little leery of signing up for this deal; it sounds too good to be true._  
 __a long shot__ :dart::two::hammer:  
 __a piece of work__ :smiling_imp: A remarkably difficult, malicious, unpleasant, or objectionable person.  
 __a shiver down (one’s) spine__ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
@@ -44,6 +45,8 @@ __be at pains__ To put forth effort toward some goal or end.
 __be at the end of (one’s) rope__ :dart: To be completely worn out, exasperated, or exhausted; to have no more patience, endurance, or energy left.  
 __be chock-a-block__ __1__ To be squeezed or jammed closely together. _So many people wanted to see the show that we were chock-a-block inside the venue._ __2__ To be very full or tightly packed. _Your office is chock-a-block with books and boxes. How do you even move around in here!_ _The restaurant has been chock-a-block with guests all day._ __3__ By extension, to be very busy; to be completely filled or engaged (with something). _Every day of our vacation was chock-a-block with fun activities._  
 __be cocksure of (oneself)__ To be completely certain of oneself or one’s actions, to the point of overconfidence. _You seem pretty cocksure of yourself—do you really know how to handle that machine?_  
+__be in bad with (someone)__ To be disliked or out of favor with someone; to be in trouble with someone.  
+__be in for a treat__ To be guaranteed to receive or experience something unexpectedly pleasant or beneficial.  
 __be left to (one’s) own devices__ To be left unsupervised or uncontrolled; to be allowed to do as one pleases. _My job is really great: I know what I need to work on and am just left to my own devices._  
 __be like oil and water__ To be incompatible or unable to interact or coexist easily, as due to fundamental differences in personality, opinions, beliefs, etc. _I really wish my boyfriend could get along with my friend Tara, but the two of them are like oil and water._  
 __be my guest__  
@@ -56,6 +59,7 @@ __beef up__ To increase something, often in strength. _With all these protestors
 __beg to differ__  
 __behind (one’s) back__ In one’s absence. The phrase typically suggests wrongdoing or deceit. _I can’t believe you were gossiping about me behind my back!_  
 __below the belt__ Unfairly targeted at one’s weakness or vulnerability. The phrase refers to boxing, in which hitting an opponent below the waist is prohibited.  
+__betwixt and between__ Conflicted and unable to decide between two options.  
 __beyond belief__  
 __beyond the realm(s) of possibility__ Impossible.  
 __beyond/within the realms of possibility__ Impossible/possible: _A successful outcome is not beyond the realms of possibility._  
@@ -68,7 +72,10 @@ __blow a gasket__ To react furiously or violently, to the point of losing contro
 __boil (something) down to (something)__ To reduce or simplify something to the most basic, essential, or fundamental element(s).  
 __bona fide__  
 __bottom of the ninth__ The final and critical moment or moments of a tense, important, or desperate situation. A reference to the ninth inning of baseball, the “bottom” of which is batted by the home team as their last chance to win the game. Primarily heard in US. _It came down to the bottom of the ninth, but I managed to finish my report in time for the big meeting._  
+__bragging rights__  
+__brain surgery__ A task requiring extreme intelligence, skill, or competence, usually used in a negative or rhetorical manner to indicate the opposite. _Just follow the directions as they’re written—it isn’t brain surgery._  
 __brazen out__ To face something, especially a difficult situation or an accusation, with brave or impudent self-confidence. A noun or pronoun can be used between “brazen” and “out.” _Timmy brazened out his teacher’s scolding about his bad behavior._ _I’m so impressed that you brazened out that long drive in torrential rain._  
+__breach of etiquette__ A violation of established social norms or expectations, especially as relates to polite society or specific professions. _In an unexpected breach of etiquette, she announced her candidacy before the governor officially resigned._  
 __break a sweat__  
 __break even__  
 __bromance__  
@@ -83,6 +90,7 @@ __by no means__ Not in any way; not at all; absolutely not.
 __call of nature__ The urge to urinate or defecate. _I have to attend to the call of nature._  
 __cash flow__  
 __cash poor__ Having very little fluid capital due to one’s financial wealth being derived from or invested in long-term assets. _I can’t afford transactions like that right now. All my wealth is tied up in real estate, so I’m a bit cash poor at the moment._  
+__cast in concrete__ Firmly or permanently established; not subject to change; unalterable.  
 __castle in the air__  
 __castles in the air__  
 __Catch-22__  
@@ -147,6 +155,7 @@ __fancy__ _informal_ __2__ To have a desire for (something).
 __few and far between__ :two::hammer:  
 __figure of speech__ A form of expression in language, either spoken or written, that employs nonliteral meaning, unusual construction, or a particular combination of sounds to emphasize or heighten the rhetorical effect. _Bob: “Does eating an apple a day really keep doctors away from you?” Doug: “Don’t take it so literally, Bob, it’s just a figure of speech.”_  
 __fill the gap__  
+__filled to the brim__  
 __first come, first served__ The first people present will be the first to receive something, often something that is available in limited quantities.  
 __fit the bill__  
 __floor (one)__  
@@ -194,6 +203,7 @@ __give a shit__
 __give or take__  
 __give something a miss__ _I’ll give coffee a miss; I’m off to bed now._  
 __glass cliff__ _n_ A situation in which a woman or minority has advanced professionally at a time when adverse circumstances or crises make it more likely for the person to fail at the job.  
+__glimmer of hope__  
 __go a long way__ :three::hammer:  
 __go after (someone or something)__  
 __go back to the well__ To return to some proven and reliable source of success, talent, good fortune, etc.  
@@ -209,6 +219,7 @@ __go down the rabbit hole__
 __go down the toilet__ To fail; to be ruined or destroyed; to be squandered or wastefully discarded.  
 __go figure__  
 __go for (something)__  
+__go Galt__  
 __go hand in hand__  
 __go into overdrive__ To start working very hard or quickly.  
 __go nuclear__  
@@ -245,19 +256,22 @@ __hairpin bend__ :two: A very sharp, approximately 180° bend in a road.
 __hanker for (something)__ To have a very strong, persistent desire or craving for something. _It is not something to hanker for._  
 __happy-go-lucky__ Always happy or in a pleasant mood; carefree. _Arya is so happy-go-lucky that I doubt any negative thing you say would bother her._  
 __hatchet man__  
+__have (one’s) heart on (one’s) sleeve__ To openly display or make known one’s emotions or sentiments.  
 __have a light heart__ To have a carefree, uplifted attitude; to be in a happy or gladdened state or condition. _Though it is, of course, bittersweet to leave my friends and family behind, I have a light heart because of the amazing opportunities that await me in Europe._  
 __have a rocky start__ To have a troubled, uncertain, or discouraging beginning.  
 __have a say (in something)__ :two: To have an active and participatory role in making or influencing a decision about something.  
 __have a shit__  
 __hear the end of (someone or something)__  
-__heat wave__ A period of time in which the weather is unusually and persistently hot.  
+__heat wave__ :two: A period of time in which the weather is unusually and persistently hot.  
 __heavy-duty__ __1__ Designed to be durable for heavy use or extreme conditions; industrial strength. My pickup has a heavy-duty lining to protect it from all the stuff I load in it. _Fritz heavy-duty workshop cleaner._  
 __heavy-handed__ Overly blunt, forceful, or tactless.  
+__Hell and half of Georgia__ A great distance or area; a huge amount of space. Primarily heard in US. _I’ve been looking across Hell and half of Georgia trying to find you!_  
 __hell no__  
 __hell on earth__  
 __hell-bent__ Very determined to do something, perhaps annoyingly or recklessly so.  
 __hell’s bells__ :three: An exclamation of frustration or surprise. A shortened form of the phrase “hell’s bells and buckets of blood.” _Oh, hell’s bells—the printer isn’t working, and my paper is due in five minutes!_  
 __hem and haw__  
+__hit a brick wall__ To come up against an immovable or insurmountable difficulty or obstacle. _Our project was going well, but we hit a brick wall when our funding was suddenly cut._  
 __hit a snag__  
 __hit and miss__ (hit or miss)  
 __hit home__ :dart:  
@@ -291,8 +305,12 @@ __in all likelihood__
 __in all seriousness__  
 __in and of itself__  
 __in arrears__ :three: Behind or overdue, often because one has not made a payment as scheduled.  
+__in bits and pieces__ In many small fragments. _Look what you’ve done! My favorite lamp is in bits and pieces on the floor!_  
 __in cahoots (with someone)__  
 __in concert with (someone)__ Together with someone; in cooperation with someone. _You’ll need to work in concert with my file clerk to sort through all this paperwork._  
+__in default of (something)__ Due to the absence or lack of something; through the failure of something. _Though it was only a speeding ticket, Janet was imprisoned in default of paying the fine._  
+__in favor (with someone)__ Highly regarded (by someone); widely accepted or enjoyed (by someone). Primarily heard in US. _John had been in favor with his boss ever since he managed to secure that lucrative client._  
+__in fee__ _Law (specifically of land)_ In absolute legal ownership or subjection.  
 __in full swing__ :three::hammer:  
 __in hot water__ :dart::two: Having provoked or incited anger, hostility, or punishment against oneself; in a troublesome or difficult situation, especially that which will result in punishment or reprisal. _I was in a bit of hot water with Janice last night when she found out I went to the movies instead of cleaning out the garage._  
 __in its infancy__ In the early, nascent period of development or implementation. (Typically of an area of activity, interest, research, etc.)  
@@ -358,6 +376,7 @@ __it remains to be seen__ Something is not yet clear, certain, or known.
 __it wouldn’t do (someone) any harm (to do something)__ It would or may be good, pragmatic, or beneficial for someone (to do something). _You know, it wouldn’t do you any harm to comb your hair from time to time._  
 __it’s all good__ :dart: A phrase used to express general approval, unconcern, or disinterest.  
 __jabber__ :two: __1__ _v_ To chat casually about someone or something. _I’ve got some free time today, so let’s sit and jabber for a bit._  
+__jack-o’-lantern__ [The _o’_ in jack-o’-lantern is short for the word _of._] A pumpkin that has a face carved into it and which is lit from within (usually by candles) so that the “face” glows. Typically used as a Halloween decoration. _We’re carving a jack-o’-lantern tonight so we can put it outside our door on Halloween._  
 __jacked up__  
 __jaw away__ To talk incessantly and/or at great length. _I became so bored while the professor jawed away at us that I nearly fell asleep in the middle of the lecture._  
 __jeer at (someone or something)__ To mock, taunt, or scoff at someone or something. _Everyone in school jeered at me for wearing a pink sweater._  
@@ -556,6 +575,7 @@ __neck and neck__
 __need (something) (about) as much as (one) needs a hole in the head__ To have absolutely no need or use for something. _I’m perfectly happy having a cell phone that just makes phone calls—I need a fancy new smartphone about as much as I need a hole in the head._  
 __need to be done__ To be required to be completed or acted upon.  
 __needless to say__ Obviously implied, no explanation needed.  
+__nepo friend__ _n_ /nep-oh frend/ (nepo-friend) The slang term nepo friend refers to a person who is thought to benefit from having a famous or influential friend. The term nepo friend is often used to imply that someone is only famous or successful because of their association with a famous person. The term may be used playfully, but it is often at least mildly negative.  
 __Nervous Nellie__ /nuhr-vuhs NEL-ee/(nervous Nellie/Nelly) Any nervous person, male or female. Someone who is more timid, nervous, or anxious than is normal or reasonable.  
 __not so fast__ :three::hammer:  
 __not worth the paper it’s written on__ Useless; unimportant; insignificant.  
@@ -700,6 +720,7 @@ __seep in(to something)__
 __serve (one’s) time__  
 __set a camp__  
 __set eyes on something__  
+__set in cement__ Firmly or permanently established; not subject to change; unalterable.  
 __set the bar (high/low)__  
 __sexual advance__ An attempt to gain some form of sexual favor or gratification from another person.  
 __sexual advances__  
@@ -795,6 +816,7 @@ __to name (but) a few__
 __to put it mildly__ To understate something; to say something politely. (Note the variation in the examples.) _She was angry at almost everyone—to put it mildly._ _To say she was angry is putting it mildly._ _To put it mildly, she was enraged._  
 __to this day__  
 __top something off__  
+__touch grass__ To participate in normal activities in the real world especially as opposed to online experiences and interactions.  
 __toughen up__  
 __trick of the light__  
 __trigger-happy__ __2__ Having a tendency to do something or engage in or begin some activity with even the smallest level of enticement or provocation. _Whenever I’m editing, I always get a little trigger-happy with the delete key and end up having to add some things back later._  
@@ -830,6 +852,7 @@ __worm__ :smiling_imp: A contemptible person. _He’s such a little worm, agreei
 __wrangle with (something)__ To struggle to understand, solve, or deal with something.  
 __y’all__ :two::hammer:  
 __you are what you eat__ One’s overall health is linked to one’s eating habits. The phrase is often used to promote proper nutrition.  
+__you could hear the grass grow(ing)__  
 __you(’d) better believe it__ Absolutely, without question; rest assured.  
 __young at heart__ Behaving or thinking in a way that is more youthful than what traditionally accompanies one’s actual age.  
 __yup__  
