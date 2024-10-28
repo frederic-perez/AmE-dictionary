@@ -2786,7 +2786,7 @@ __call out<sup>1</sup>__ _n_ :two::hammer:
 __call out<sup>2</sup>__ _v_ :nine: (call someone out) __1__ To order or request to assemble or arrive somewhere; summon: _call out the guard._ _The National Guard was called out when the governor declared a state of emergency._ __2__ Utter aloud; often with surprise, horror, or joy. _Spike Lee called out Hollywood for lacking diversity._ __3__ Challenge to a duel. _Aaron Burr called out Alexander Hamilton._ _It was real weird to have someone call you out._  
 __call the shots__  
 __call to action__  
-__call<sup>1</sup>__ _n_ :nine::hammer: _It’s your call._ _It would’ve been a difficult call to eject Landry._ _Adam made a deal with starter Anderson: Gain at least 4 yards, and he’d call another run play._ __5__ Demand: _There isn’t much call for buggy whips today._ _It was a very questionable call._  
+__call<sup>1</sup>__ _n_ :nine: __1__ A decision or judgement. _It’s your call._ _It would’ve been a difficult call to eject Landry._ _Adam made a deal with starter Anderson: Gain at least 4 yards, and he’d call another run play._ _It was a very questionable call._ __5__ Demand: _There isn’t much call for buggy whips today._  
 __call<sup>2</sup>__ _v_ :five::hammer: _Allen has called Oregon games for 29 years._ _The group calls on its members to consider the risks._ _Shi and Zhou call Dayton Flyers games in Mandarin Chinese._ _Union calls off strike in Brazil before Cup._  
 __callback__ _n_ :three: __1__ A recall of a recently sold product by the manufacturer to correct a defect. _Syn_ recall _The manufacturer was forced to issue a callback of the toy when it was declared a choking hazard._ __2__ A second or follow-up audition, especially as one of a set of such auditions for a role in a play. _That was a callback to a previous episode._  
 __calligraphy__ _n_ [:scroll: French calligraphie, from Greek kalligraphiā, beautiful writing]  
@@ -5054,7 +5054,7 @@ __delirium__ _n_
 __delisted__ _v_  
 __deliver<sup>1</sup>__ _vt_ :four::hammer: __8__ To give forth or produce. _He always promised more than he could deliver._  
 __deliver<sup>2</sup>__ _vi_ :dart::nine::m: __1__ To produce or achieve what is desired or expected; make good: _The senator delivered on her pledge._ _He is a manager who just can’t seem to deliver._ _Al was a man who could deliver._ _Republicans apparently cannot deliver._ _There is a hundred grand if you can deliver._ _Can the recovery plan for elective care in England deliver?_ __2__ To give birth: _She expects to deliver in late August._  
-__deliverance__ _n_ :nine::hammer: _Hope and deliverance._ _Deliverance center._  
+__deliverance__ _n_ :nine: /dɪˈlɪv ər əns/ __2__ Rescue from moral corruption or evil. _Syn_ salvation, redemption, liberation _Hope and deliverance._ _Deliverance center._  
 __delivery note__  
 __dell__ _n_ A small secluded wooded valley.  
 __delouse__ _v_ :two::hammer: _They’re deloused once a month._  
@@ -8432,7 +8432,7 @@ __gripe<sup>1</sup>__ _n_ :astonished::seven::hammer: __1__ _informal_ A complai
 __gripe<sup>2</sup>__ _v_ :three::hammer: (griping) _Syn_ complain  
 __gripped__ _v_ :two::hammer: _That 1995 murder trial gripped USA._ _The disappearance had gripped the city._  
 __gripping__ _adj_ :eight: /ˈgrɪp ɪŋ/ Holding the attention or interest intensely: _a gripping drama._ _A gripping contest._ _Gripping performances._  
-__grisly__ _adj_ :nine::hammer: /GRIZ-lee/ _A grisly synagogue assault._  
+__grisly__ _adj_ :nine::smiling_imp: /GRIZ-lee/ Causing a shudder or feeling of horror; gruesome; grim: _the grisly scene of a murder._ _Syn_ ghastly, gruesome, macabre, grim, sick  
 __grist__ _n_ :four::hammer: _Grist mill._ _Plastic wrapping becomes grist for composite decking._ _A water-powered grist mill._  
 __gristle__ _n_ :three::hammer:  
 __grit__ _n informal_ :nine::m: (gritty, grittier) Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
@@ -9830,8 +9830,8 @@ __indenture__ _v_
 __indentured__  
 __index card__ _n_  
 __Indian paintbrush__ _n_  
-__indict__ _v_ :nine::hammer: (indicted :mega:)  
-__indictment__ _n_ :nine::hammer::mega: /ɪnˈdaɪt mənt/  
+__indict__ _v_ :nine::smiling_imp::mega: /ɪnˈdaɪt/ _criminal law_ To charge (a person) with crime, esp formally in writing; accuse.  
+__indictment__ _n_ :nine::mega: /ɪnˈdaɪt mənt/ A written charge accusing someone of having committed a crime, presented by a grand jury.  
 __indigen__ _n_ One that is native or indigenous to an area. _Syn_ aborigine, native  
 __indigence__ _n_ Poverty; neediness. _Syn_ beggary, pauperism, penury, need  
 __indigenous__ _adj_ _Indigenous people._  
@@ -14563,7 +14563,7 @@ __portrayal__ _n_ :two::mega::hammer:
 __Portuguese__ _adj, n_  
 __pose__ _v_ :two::hammer: _That’s the question I pose to you._  
 __posh__ _adj_ :six: Things that are posh are swanky, fancy, and high-class. Posh things usually cost a lot of money, too. Elegant and fashionable.  
-__posit<sup>1</sup>__ _vt_ :nine::m::hammer::pencil2: (posited) _BYU has posited themselves well._ __2__ To lay down or assume as a fact or principle; postulate.  
+__posit<sup>1</sup>__ _vt_ :nine::m::pencil2: __1__ To lay down or assume as a fact or principle; postulate. __2__ To place, put, or set. _BYU has posited themselves well._  
 __posit<sup>2</sup>__ _n_ :astonished::two: Something that is posited; an assumption; postulate. A proposition that is accepted as true in order to provide a basis for logical reasoning. _Syn_ postulate  
 __posse__ _n_ :three: /PAH-see/ A posse is a group of friends, or a group of people who are gathered together for a particular purpose. Posse also refers to a group of people who were gathered together by a sheriff in the past to help search for a criminal. _A posse clad._  
 __possession__ _n_ :pencil2::mega: /pəˈzɛʃən/  
@@ -15265,7 +15265,7 @@ __quinquagenarian__ _n_
 __quinquennial__  
 __quinsy__  
 __quintessence__ _n_ /kwin-TESS-unss/  
-__quintessential__ _adj_ :nine::hammer: _Syn_ ultimate, essential, typical, fundamental, definitive, archetypal, prototypical _Everybody thinks of him as the quintessential New Yorker._  
+__quintessential__ _adj_ :nine: Most typically representative of a quality, state, etc; perfect. _Syn_ ultimate, essential, typical, fundamental, definitive, archetypal, prototypical _Everybody thinks of him as the quintessential New Yorker._  
 __quip__ _n, v_ :seven: (quipped, quippy) /KWIP/ A clever remark or a witty or funny observation or response. A clever or witty remark or comment. _They traded quips over a beer._ _Rapid-fire quips._ :es: pulla  
 __quire__ _n_ (Not to be confused with _choir_)  
 __quirk__ _n_ :nine::m: (quirky, quirkier) /kwəːk/ /KWERK/ _Quirk_ refers to an unusual habit or way of behaving. It can also refer to something strange that happens by chance, as in “a quirk of fate.” A peculiarity of behavior; an idiosyncrasy. _They accepted her attitude as one of her little quirks._ _A gleeful roast of Utah’s cultural quirks._  
@@ -16194,7 +16194,7 @@ __rotorcraft__
 __rototiling__  
 __Rottweiler__ _n_ :two::hammer:  
 __rotund__ _adj_ :two: __1__ Rounded in figure; plump. _Syn_ fat  
-__rotunda__ _n_ :nine::hammer:  
+__rotunda__ _n_ :nine: /roʊˈtʌn də/ A circular building or room, especially one topped with a dome.  
 __rough > the rough__ _n_ __2b__ (Sports) The area of a golf hole in which the grass is left unmowed or is cut to a length longer than that of the fairway. _Tiger Woods hit a 3-iron downwind that went 295 yards and into the rough._  
 __rough__ _adj_  
 __rough-cut__ _adj_ Lacking refinement or cultivation or taste.  
@@ -16382,7 +16382,7 @@ __saint<sup>2</sup>__ _vt_ (sainted) _The chef should be sainted._
 __sake__ _n_ /ˈsækɪ/ (saki) A Japanese alcoholic beverage made from fermented rice.  
 __sakura__  
 __salability__ _adj_ :pencil2: Offered or suitable for sale; marketable.  
-__salacious__ _adj_ :nine::hammer: _Salacious music._  
+__salacious__ _adj_ :nine: /səˈleɪ ʃəs/ __1__ Lustful or lecherous. __2__ (of writings, pictures, etc.) Grossly indecent; obscene. _Salacious music._  
 __salacities__ _n_  
 __salad spinner__ _n_  
 __salamander__ _n_  
@@ -17686,7 +17686,7 @@ __slump__ _v_ :two::hammer: (slumped) _People slumping out of chairs._
 __slur__ _n_ :two::hammer:  
 __slurp<sup>1</sup>__ _v_ :five::hammer: _Whitey sucked his soda through a straw until it slurped against the ice._  
 __slurp<sup>2</sup>__ _n_  
-__slush__ _n_ :nine::hammer: (slushies) _The offshore ice and slush._ _How to Walk Safely in the Snow, Ice and Slush._ _Boozy slushies._  
+__slush__ _n_ :nine: (slushies) __1__ Partially melted snow or ice. _The offshore ice and slush._ _How to Walk Safely in the Snow, Ice and Slush._ __6__ A drink made of flavored syrup poured over crushed ice. _Boozy slushies._  
 __slushy__  
 __sly__ _adj_ :nine::m: Having or showing a cunning and deceitful nature. _A sly smile._ _Sly humor._ _Sometimes it takes a sly fox to catch a sly fox._ :es: astuto; malicioso  
 __slyboots__ _n_ :two: A shifty, deceptive person. _Syn_ dodger, fox _I can never trust that slyboots at the office-she is polite to my face, but I always catch her belittling me to our coworkers!_  
