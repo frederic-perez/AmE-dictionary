@@ -3899,22 +3899,24 @@ __make (something) up as (one) goes (along)__ To improvise continuously as one d
 __make (the) baby Jesus cry__ To be offensive, immoral, unethical, in poor taste, etc., as might cause or provoke the displeasure or disapproval of Jesus Christ. _I try not to use vulgar language, as my mother told me at a young age that it makes baby Jesus cry._  
 __make a case for (something)__  
 __make a dent in (something)__ :four::hammer:  
+__make a difference__ :four::hammer:  
 __make a face__ To distort the features of the face; grimace.  
 __make a fool of himself__  
-__make a fuss__ :two: To be a nuisance or cause a disturbance by complaining, arguing, etc. (about something).  
+__make a fortune__  
+__make a fuss__ :four: To be a nuisance or cause a disturbance by complaining, arguing, etc. (about something).  
 __make a hole in (something)__ To take, use up, or deplete a large amount of money available in something, such as a budget, one’s wallet, etc. _The cost of repairing the car is really going to make a hole in our savings._  
 __make a living out of something__  
 __make a long arm for (something)__ To extend one’s arm fully toward something; to reach out for something. _Mary’s new boyfriend made a long arm for the bottle of wine at the end of the table, helping himself to another glass._  
 __make a mark__ To do something that makes one famous or successful; to do something that is very important or meaningful. _The actress first made a mark with her incredible performance as Lady Macbeth on Broadway._  
 __make a mint__ To earn a very large amount of money, especially by doing something very successfully. _We’ll make a mint if we can manage to secure a trading partner in China._  
-__make a run for (someone or something)__ To run in order to escape something or to reach a destination quickly, perhaps before a certain time or before something happens. _Our taxi was late picking us up, so we’re going to have to make a run for the train when we get to the station!_  
+__make a run for (someone or something)__ :three: To run in order to escape something or to reach a destination quickly, perhaps before a certain time or before something happens. _Our taxi was late picking us up, so we’re going to have to make a run for the train when we get to the station!_  
 __make a run for it__ To run in order to escape something or to reach a destination quickly, perhaps before a certain time or before something happens. _Our taxi was late picking us up, so we’re going to have to make a run for it when we get to the station._  
 __make a scene__ (create a scene) To create a loud, typically angry disturbance or display in public, such that it draws attention to those involved.  
 __make a sensation__  
 __make a splash__ :four::hammer:  
 __make a wide stride__ To make great and rapid progress or advancement. _The one-time political advisor has been making a wide stride toward absolute control of the country._  
 __make advances at (one)__ To approach one in a flirtatious, amorous, or sexual manner; to try or begin to seduce one. _Terry was fired after he began making advances at his secretary._  
-__make amends__ :five: To provide restitution or attempt to reconcile or resolve the situation after a wrong one has done. _I’m not sure I can make amends for all the times I’ve let you down, but I want to try to be better for you._  
+__make amends__ :six: To provide restitution or attempt to reconcile or resolve the situation after a wrong one has done. _I’m not sure I can make amends for all the times I’ve let you down, but I want to try to be better for you._  
 __make an end of (something)__ To stop, cease, or conclude something. _I’m going to make an end of the corruption in this department once and for all!_  
 __make an impression__  
 __make as though__ To behave as if; to pretend or make it appear that. _Samantha’s been making as though she’s writing the next great American novel, but it’s just some trashy thriller._  
@@ -3926,19 +3928,23 @@ __make fast work of (someone or something)__ __1__ To deal with, finish, or disp
 __make game of (someone or something)__ To ridicule, mock, or tease someone or something; to make fun of someone or something. _I really don’t appreciate you making game of my disability like that._  
 __make great strides__ :three::hammer:  
 __make ground__ To become more successful, popular, important, or accepted. _No one thought our fast food chain would do well in a country like India, but we’ve started making ground!_  
-__make headway__ :two: To make progress.  
+__make headway__ :three: To make progress.  
 __make heavy going of (something)__ To make something harder or more laborious to do, especially more than is usual or necessary. _The Irish rugby squad made heavy going of what should have been a relatively easy win._  
-__make inroads (in/into something)__ :five::hammer: _At universities and research institutes, workstations made inroads._  
+__make inroads (in/into something)__ :six::hammer: _At universities and research institutes, workstations made inroads._  
+‌__make it__  
 __make light of__ _Squires and servants made light of him._  
 __make light work of someone__ If you make light work of an opponent, you defeat them easily. _The 2009 champion made light work of his opponent._ _Verstappen beat Hamilton by almost 14 seconds, making light work of Leclerc and Sainz, who started ahead of him at the front of the grid, as he triumphed for the 16th time in 2023._  
 __make like a banana and split__ _humorous slang_ To depart or leave, especially at once or in a hurry. (A pun on “to split,” a slang term meaning to leave or depart, and a “banana split,” an ice-cream-based dessert featuring a banana halved lengthwise.) _This carnival turned out to be really boring. Come on, let’s make like a banana and split!_  
-__make matters worse__ :three: To make an already bad, unpleasant, or difficult situation even more so. (Sometimes used as an independent clause in the infinitive form: “to make matters worse.”) _I heard that Julie is being let go from her job, and to make matters worse, she hasn’t been there long enough to qualify for severance pay!_ _He laughed at her and then, to make matters worse, he accused her of lying!_  
+__make matters worse__ :four: To make an already bad, unpleasant, or difficult situation even more so. (Sometimes used as an independent clause in the infinitive form: “to make matters worse.”) _I heard that Julie is being let go from her job, and to make matters worse, she hasn’t been there long enough to qualify for severance pay!_ _He laughed at her and then, to make matters worse, he accused her of lying!_  
 __make mincemeat (out) of (someone or something)__ To decisively and severely punish or defeat someone. _If he doesn’t stop teasing me, I’m going to make mincemeat of him._ _You better practice for Sunday’s match, or your opponent will make mincemeat out of you._  
+__make news__ To garner attention and be the topic of conversation.  
 __make no bones about something__ :two: To say clearly what you think or feel about something.  
-__make no mistake__ :three: What I have said or am about to say is absolutely certain; do not think otherwise._ Make no mistake, I intend to take this all the way to the Supreme Court if I have to._  
+__make no mistake__ :four: What I have said or am about to say is absolutely certain; do not think otherwise. _Make no mistake, I intend to take this all the way to the Supreme Court if I have to._  
 __make noise (about something)__ To be very outspoken about something, especially that which one dislikes or disagrees with. _Consumers have begun making a lot more noise about policies of the company that they claim are manipulative._  
+__make off with__ :es: largarse con  
+__make one’s name__ To become well-known or famous.  
 __make oneself wrong__ :two::hammer: _Do not make yourself wrong._  
-__make or break__ :four::hammer: _Music can make or break a show, especially a sitcom._  
+__make or break__ :five::hammer: _Music can make or break a show, especially a sitcom._  
 __make sense (out) of (something)__ To interpret something in a way that one can understand or that reveals some purpose, reason, etc. _It will be a long time before we can begin to make sense of this tragedy._  
 __make sense__ To be understandable. _John doesn’t make sense._ _What John says makes sense to me._  
 __make some noise__ That phrase is commonly used by entertainers to get the audience to cheer or applause very loudly.  
@@ -3952,6 +3958,7 @@ __make the world go round__ :dart: To be of critical or integral importance to t
 __make up one’s mind__ :four: To make a decision. _Too much love will kill you if you can’t make up your mind._ _“The time to make up your mind about people is never.” — The Philadelphia Story_  
 __make up__ __8__ _v_ To compensate for a previous discrepancy or transgression. _I’m sorry I missed your game. How about I make it up to you with some ice cream?_ _I hope this makes up for last time._  
 __make waves__ :nine::m: (making waves) Cause a disturbance or controversy. _We’ve finally settled our differences, so please don’t make waves._ This expression alludes to causing turbulence in the water. _Make waves with an Apple computer._  
+__male gaze__ The rendering of art, literature, etc., from the perspective of and for the consumption of heterosexual males, especially characterized by the depiction of women as passive objects of desire and pleasure. The phrase was coined by film theorist Laura Mulvey. _The male gaze will continue to dominate media until more and more women artists challenge the paradigm._  
 __mama bear__  
 __man the fort__ To mind or take charge of a location during the time in which it is unattended by another. _Don’t worry, honey, I’ll man the fort at home until you get back from the grocery store._  
 __man up__ To deal with something in a more brave, stoic, or masculine way than one has done so hitherto. (Usually used imperatively.) _It’s just a tiny scratch! You need to man up and quit crying about it._  
@@ -3969,14 +3976,16 @@ __marry above (one’s) station__ To marry someone who is of a higher social cla
 __marry beneath (oneself)__ To marry someone who is of a lower social class or standing than oneself _Janet has a bright future with one of the best law firms in town, so it’s beyond me why she’s marrying beneath herself with some fast food worker._  
 __marry into money__ To become wealthy or financially secure by marrying someone who is wealthy or has a wealthy family. _Ever since he married into money, George has been flaunting all of the exotic vacations he and his new wife take._  
 __Mary Jane__ _slang_ :four: [:scroll: an Americanism for the Mexican Spanish _marihuana_ or _mariguana_, which is associated with the personal name María Juana] Marijuana. _Hey man, you know where we can score some Mary Jane around here?_  
+__masquerade as (someone or something)__  
 __match made in heaven__ :two: A very happy marriage or partnership. _When Kelly and Julie partnered up and opened their restaurant, it was a match made in heaven._ _Cindy and Mark look so happy together. That’s a match made in heaven._  
 __match up__  
 __maternity leave__  
+__matter of fact__ :two::hammer: _Matter of fact, I was just going to see your boss, Jabba the Hutt._  
 __maven__ One who is, is believed to be, or believes oneself to be an expert in some area, field, or topic. _Anyone proclaiming to be a maven when it comes to dating or hooking up is just looking to take your money._  
 __MBWA__ An initialism of “management by walking around,” the strategy of literally walking among one’s employees or subordinates to manage them more effectively.  
 __me three__ _humorous_ An expression of concurrence, agreement, or willingness to participate in addition to others. Said after someone has said “me too” (i.e., “me as well”), thus creating a pun of “too” and “two.” _Dan: “I’m going with you, Steve.” Greg: “Me too!” John: “Me three!”_  
 __mea culpa__  
-__mean the world to (one)__ :dart:  
+__mean the world to (one)__ :dart::two::hammer:  
 __meant to be__ :three::hammer: _It was meant to be made in heaven._  
 __measure the drapes__ To begin planning or preparing to replace someone in a job or position before one has actually secured the role, especially during a political election. _The senator has been criticized for measuring the drapes in the Oval Office with a month still to go before the votes will be tallied._  
 __measure up (to someone or something)__ :two::hammer:  
@@ -4002,12 +4011,14 @@ __mete out__ __1__ To distribute or dispense something. A noun or pronoun can be
 __mic drop moment__ A _mic drop moment_ is an emphatic and declarative gesture signifying the conclusion of a performance of note, often literally (or as if) dropping a microphone. It often signifies a triumphant moment or accomplishment, and conveys a sense of superiority and confidence in one’s words or actions.  
 __mic drop__ :two::hammer:  
 __Mickey (Finn)__ :three::hammer: _A mickeyed beer._  
+__mickey mouse__ _slang_ A reference to the cartoon character Mickey Mouse. Often capitalized. __1__ _n_ Something that is trivial or insignificant. _All I ever do at this job is a lot of mickey mouse._ __2__ _n_ A police officer. _You hear those sirens? Mickey Mouse is getting closer—we need to move it._ __3__ _n_ A small piece of paper containing LSD and imprinted with an image of Mickey Mouse. _Got any mickey mouse I can buy?_ __4__ _adj_ Trivial or insignificant. _She needs to get a real job instead of wasting time with this Mickey Mouse internship._  
 __microaggression__ An action that is deemed to be a subtle or indirect expression of bigoted or discriminatory views or attitudes.  
 __mid__ Mid is a slang term used to describe something or someone as mediocre or of low quality. _The first movie was good, but all the sequels are mid._  
 __middle ground__ :three: Something that people with differing opinions or views can agree upon; a compromise. _More and more, it seems like people of differing views are unwilling to attempt to find a middle ground._  
+__middlebrow__ [:scroll: Formed on the pattern of highbrow and lowbrow] Neither particularly intelligent and refined nor particularly uncultured or crude in style, content, or quality. _I used to pride myself on my refined tastes when I was in college, but they’ve become positively middlebrow since I settled down as an adult._  
 __mike drop__  
 __milk it__ :two: To take advantage of the help or kindness of others, as when one acts as if one still needs help after recovering from an illness. To try to get as much of something from someone else, especially sympathy, kindness, respect, etc.  
-__mill about__ :four: To loiter, wander about, or waste time idly (some place). _I’ll just mill about in the store across the street while you get your hair cut._  
+__mill about__ :five: To loiter, wander about, or waste time idly (some place). _I’ll just mill about in the store across the street while you get your hair cut._  
 __milquetoast__  
 __mince (one’s) words__  
 __mince no words__ :two: To speak in a very direct and honest way without worrying about offending someone. _She minces no words in stating her opinions._  
@@ -4016,6 +4027,7 @@ __mind (one’s) p’s and q’s__ To be polite and well behaved; to mind one’
 __mind you__  
 __mind-boggling__  
 __mint money__ To earn a very large amount of money, especially by doing something very successfully. _We’ll be minting money if we can manage to secure a trading partner in China._  
+__mish-mash__ A jumbled, disorganized mixture of several various things.  
 __mish-mosh__ A jumbled, disorganized mixture of several various things.  
 __miss a beat__ _Without missing a beat._  
 __miss out on (something)__ :two: To lose the chance or opportunity to do or experience something.  
@@ -4023,16 +4035,16 @@ __miss out__ :dart::three: To lose the chance or opportunity to do or experience
 __Miss Right__ The perfect or most suitable woman to be in a relationship with or to marry. _If you’re waiting for Miss Right to just appear in your life, you’re never going to find someone you’ll be happy with. You have to get out there and give people a chance!_  
 __miss the boat__  
 __miss the cut__ In golf, to fail to match or better the score necessary to remain in the final two rounds of a four-round tournament, thus resulting in elimination.  
-__miss the mark__ :two: To be slightly or somewhat mistaken, incorrect, or inaccurate. _I believe your statements about the city’s homelessness problem have rather missed the mark._  
+__miss the mark__ :three: To be slightly or somewhat mistaken, incorrect, or inaccurate. _I believe your statements about the city’s homelessness problem have rather missed the mark._  
 __miss the point__ :two::hammer:  
 __miss the window__ Miss the window is an idiomatic expression that refers to missing an opportunity, often due to a lack of preparation or timing. It can also refer to being too late or slow to take advantage of a favorable situation, such as a job offer or promotion. For example, you might say, “I missed the window to apply for that job, so I’m out of luck.”  
 __missing link__  
 __mission accomplished__ :two::hammer:  
 __mission creep__ The gradual expansion or widening in scope of a project, action, or task, especially a military operation, beyond its initial goal or objective. _Congress is wary of granting the president’s request for military authority in the region, fearing a repeat of the mission creep that plagued his last war effort._  
-__mix and match__ :two: To put certain things together in different combinations. _You can mix and match any of the items on this table, so take whatever you want._ _The pieces in my spring collection were designed to be mixed and matched._  
+__mix and match__ :three: To put certain things together in different combinations. _You can mix and match any of the items on this table, so take whatever you want._ _The pieces in my spring collection were designed to be mixed and matched._  
 __mix apples and oranges__ To combine or compare two different things.  
 __mix up__ :dart: __5__ _n_ A situation in which a mistake has been made, especially when one thing is confused for or erroneously swapped with another. As a noun, the phrase is usually hyphenated. _OK, here are your car keys. Sorry about the mix-up._  
-__mixed bag__ :seven: A diverse mixture or group.  
+__mixed bag__ :nine: A diverse mixture or group.  
 __mixed emotions__ Positive and negative emotions that are experienced simultaneously and are often in conflict with one another. _I’ve got mixed emotions about starting college this fall: on the one hand, I can’t wait to start the next chapter in my education, but, on the other, I will be so sad leaving my friends and family behind._  
 __mixed feelings__ :two::hammer:  
 __mixed signal__ :two: A signal, message, or communication that has, or is interpreted as having, multiple, ambiguous, or contradictory meanings. (Often plural.) _I keep getting these mixed signals from my ex-girlfriend. I can’t tell if she just wants to be friends, or if she’s interested in getting back together._  

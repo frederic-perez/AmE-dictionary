@@ -532,31 +532,6 @@ __make (both) ends meet__
 __make (one’s) eyes pop (out)__  
 __make (one’s)/the rounds__  
 __make (something) clear (to one)__ :two:hammer:  
-__make a difference__ :four::hammer:  
-__make a fortune__  
-__make a fuss__ :two: To be a nuisance or cause a disturbance by complaining, arguing, etc. (about something).  
-__make a run for (someone or something)__ :two: To run in order to escape something or to reach a destination quickly, perhaps before a certain time or before something happens.  
-__make amends__  
-__make headway__  
-__make inroads (in/into something)__  
-‌__make it__  
-__make matters worse__  
-__make news__ To garner attention and be the topic of conversation.  
-__make no mistake__  
-__make off with__ :es: largarse con  
-__make one’s name__ To become well-known or famous.  
-__make or break__  
-__male gaze__ The rendering of art, literature, etc., from the perspective of and for the consumption of heterosexual males, especially characterized by the depiction of women as passive objects of desire and pleasure. The phrase was coined by film theorist Laura Mulvey. _The male gaze will continue to dominate media until more and more women artists challenge the paradigm._  
-__masquerade as (someone or something)__  
-__matter of fact__ :two::hammer: _Matter of fact, I was just going to see your boss, Jabba the Hutt._  
-__mean the world to (one)__  
-__mickey mouse__ _slang_ A reference to the cartoon character Mickey Mouse. Often capitalized. __1__ _n_ Something that is trivial or insignificant. _All I ever do at this job is a lot of mickey mouse._ __2__ _n_ A police officer. _You hear those sirens? Mickey Mouse is getting closer—we need to move it._ __3__ _n_ A small piece of paper containing LSD and imprinted with an image of Mickey Mouse. _Got any mickey mouse I can buy?_ __4__ _adj_ Trivial or insignificant. _She needs to get a real job instead of wasting time with this Mickey Mouse internship._  
-__middlebrow__ [:scroll: Formed on the pattern of highbrow and lowbrow] Neither particularly intelligent and refined nor particularly uncultured or crude in style, content, or quality. _I used to pride myself on my refined tastes when I was in college, but they’ve become positively middlebrow since I settled down as an adult._  
-__mill about__ To loiter, wander about, or waste time idly (some place).  
-__mish-mash__ A jumbled, disorganized mixture of several various things.  
-__miss the mark__  
-__mix and match__  
-__mixed bag__ :two::hammer:  
 __mixed feelings__  
 __mixed message__  
 __mm-hmm__ _informal_ Yes; yeah. A verbal expression used to express agreement or acknowledgement. Formed by intoning “uh-huh” with a closed mouth.  
