@@ -4,9 +4,13 @@ __abound__ _vi_
 __accoutrement__ _n_  
 __acerbic__ _adj_ Sharp or biting, as in character or expression. _Syn_ blistering, caustic, acid, vitriolic, acerb, acrid, sulfurous, virulent, bitter  
 __adversary__ _n_ :mega: /ˈæd vərˌsɛr i/ /ˈædvəsərɪ/ /AD-ver-sair-ee/ _Adversary_ is an enemy or opponent.  
-__ayahuasca__  
+__aspersion__ _n_ :smiling_imp:  
+__at__ _prep_ [The preposition _at_ often has connotations of aggression. You _throw_ something _to_ someone if you want them to catch it; if you _throw_ it _at_ them you are trying to hit them. To _laugh at_ someone is to laugh at their expense. Usually we say _talk to_; when Ludlow says _talk at_ (in the movie _Legends of the Fall_) he is saying that his sons are shouting at them without listening to what he has to say in reply.]  
+__ayahuasca__ _n_ :two::hammer:  
+__backwoods__ _n pl_  
 __bait__ _v_ :smiling_imp: __2__ To entice or provoke, especially by trickery or strategy: _He baited me into selling him my bike by saying how much I deserved a better one._  
 __baize__ _n_ A bright green fabric napped to resemble felt; used to cover gaming tables. _Baize table._ :es: tapete  
+__baleful__ _adj_ :es: siniestro  
 __barbiturate__ _n_ :es: barbitúrico  
 __bardolatry__ _n_ [:scroll: Coined by George Bernard Shaw from bard (poet) + -latry (worship)] _facetious_ Idolatry or excessive admiration of William Shakespeare.  
 __bark__ _v_ __2__ To rub off the skin of; abrade: _barked my shin on the car door._  
@@ -17,6 +21,8 @@ __bedraggled__ _adj_ /bɪˈdræɡəld/ __1__ 1. Wet, drenched, or messy: _bedrag
 __bedroll__ _n_ /ˈbɛdˌrəʊl/ A portable roll of bedding, such as a sleeping bag, used esp for sleeping in the open.  
 __bedsit__ _n_ A furnished sitting room containing sleeping accommodation and sometimes cooking and washing facilities. :es: estudio amueblado, habitación amueblada _Syn_ bedsitter, bedsitting room, bed-sitting room  
 __bedstead__ _n_ The framework of a bed supporting the springs and a mattress.  
+__beer garden__ _n_ An outdoor tavern or an outdoor area adjoining a tavern where alcohol is served.  
+__belie__ _vt_  
 __bell boot__ _n_  
 __bellow__ _n_  
 __bemoan__ _vt_ :es: lamentar  
@@ -53,6 +59,7 @@ __burrow__ _v_
 __bursary__ _n_ :two::hammer:  
 __bustle__ _n_  
 __buzz cut__ _n_ :dart: A closely cropped haircut.  
+__byline__ _n_  
 __bystander__ _n_  
 __byword__ _n_ _Syn_ adage, aphorism, maxim, motto, proverb, saw, saying  
 __Byzantine__ _adj_ /BIZ-un-teen/  
@@ -65,7 +72,12 @@ __camp__ _n_
 __candlestick__ _n_ (candleholder) A holder, usually ornamental, with a spike or socket for a candle.  
 __Canuck__ _n_  
 __canvasser__ _n_  
+__cap__ _v_ :es: superar  
 __carburetor__ _n_ (carbureter)  
+__carouse__ _vi_  
+__chalybeate<sup>1</sup>__ _adj_ Containing dissolved salts of iron.  
+__chalybeate<sup>2</sup>__ _n_ A mineral water containing iron, a voguish general remedy during the 17th-19th century.  
+__chiseled__ _adj_ Made or shaped with or as if with a chisel: _a finely chiseled nose._  
 __clearing bank__ _n_ (in Britain) Any bank that makes use of the central clearing house in London for the transfer of credits and cheques between banks.  
 __close to one’s chest__  
 __close-knit__ _adj_ Held tightly together, as by social or cultural ties: _a close-knit family._  
@@ -81,6 +93,7 @@ __corrugated__ _adj_ _Syn_ furrowed, channelled, ridged, grooved, wrinkled, crea
 __coruscate__ _v_ /KOR-uh-skayt/  
 __cosmesis__ _n_  
 __cot death__ _n_ _Br E_ Sudden infant death syndrome.  
+__cottonmouth__ _n_ :camera: [:scroll: so called for the white streak along its mouth] A pit viper, venomous semiaquatic snake of swamps in southern United States. _Syn_ water moccasin  
 __countenance__ _n_  
 __cowed__  
 __craft__ _n_ __5__ _crafts_ Items made by craftspeople.  
@@ -89,12 +102,16 @@ __crouch<sup>1</sup>__ _n_ The act of bending low with the limbs close to the bo
 __crouch<sup>2</sup>__ _v_ Bend one’s back forward from the waist on down. _Syn_ stoop, bend, bow  
 __czar__ _n_ __1__ The ruler of Russia until the 1917 revolution. __2__ One having great power or authority. _A banking czar._  
 __Damoclean__ _adj_ /dam-uh-KLEE-uhn/ Involving imminent danger.  
+__dart__ _v_  
+__decal__ _n_  
 __deign__ _v_  
 __demob__ _v_  
+__den__ _n_ _The bear’s den._ :es: madriguera  
 __denizen__ _n_  
 __deport__ _vt_ __1__ To expel from a country: _deported the foreigner who had entered the country illegally._  
 __deride__ _vt_ [:scroll: Latin dērīdēre : dē-, de- + rīdēre, _to laugh at_]  
 __descant__ _n_  
+__despicable__  
 __deter__ _v_ :two: /dɪˈtɜr/ /dih-TER/ To _deter_ someone is to discourage or prevent them from acting. To _deter_ a thing is to stop or limit it.  
 __diffident__ _adj_  
 __dimly__ _adv_ __2__ In a manner lacking interest or vitality.  
@@ -114,10 +131,13 @@ __divots__ _n_
 __dodger__ _n_ __1__ One that dodges or evades: _a skilled dodger of reporters’ questions._  
 __dormitory__ _n_  
 __dosser__ _n_ Someone who sleeps in any convenient place. _Syn_ street person  
+__douse__  
 __dowse__ _vi_ (douse) _Dowsing with a pendulum._  
 __dowsing__ _n_ The practice of prospecting for water or minerals using a divining rod. _Syn_ dowse, rhabdomancy  
 __drapery__ _n_ :two::hammer: /ˈdreɪpərɪ/  
 __drawl__ _v_  
+__drifter__ _n_ :es: vagabundo  
+__drivel__ _n_ :dart: __1__ Saliva flowing from the mouth. __2__ :dart: Stupid or senseless talk. Nonsense; twaddle. _I’m not interested in his pornographic drivel._  
 __drollery__ _n_ A quaint and amusing jest. _Syn_ waggery  
 __drop handlebars__ _n_ Low curved handles on a bicycle.  
 __duck-footed__ _adj_  
@@ -127,6 +147,7 @@ __dusky__ _adj_ Characterized by little or inadequate light; shadowy. _Syn_ twil
 __duster__ _n_ :dart::camera: A loose coverall (coat or frock) reaching down to the ankles. _Syn_ gaberdine, smock  
 __duty solicitor__ _n_ (duty counsel, duty lawyer) A solicitor whose services are available to a person either suspected of, or charged with, a criminal offence free of charge (pro bono), if that person does not have access to a solicitor of their own and usually if it is judged by a means test that they cannot afford one. The system is operative in several Commonwealth countries, including the United Kingdom, Australia, New Zealand and Canada.  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
+__eggnog__ _n_  
 __egotistical__ _adj_ Characteristic of those having an inflated idea of their own importance. _Syn_ egotistic, narcissistic, self-loving  
 __egret__ _n_  
 __eldritch__ _adj_ /ˈɛl drɪtʃ/ Eerie; weird; spooky.  
@@ -187,6 +208,7 @@ __fiddle-faddle<sup>2</sup>__ _v_ To fuss or waste time, esp over trivial matter
 __field dressing__  
 __figuratively__ _adv_  
 __filly__ _n_  
+__finagling__ _n_ :smiling_imp: /fɪˈneɪɡlɪŋ/ The use of trickery or craftiness to achieve one’s aims.  
 __fire grate__ _n_ (firegrate, fire-grate) A grate used to hold the fuel in domestic fireplaces and in many forms of heaters and furnaces. _She prepared the fire grates._  
 __firebomb<sup>1</sup>__ _n_ A bomb used to start a fire; an incendiary bomb.  
 __firebomb<sup>2</sup>__ _v_ To attack with firebombs.  
@@ -236,6 +258,7 @@ __fortnightly<sup>3</sup>__ _n_ :astonished: A publication issued once every two
 __fracas__ _n_ :two::hammer:  
 __fractious__ _adj_ Stubbornly resistant to authority or control. _Syn_ recalcitrant, refractory  
 __fraternize__ _v_ /FRAT-er-nyze/  
+__freezer paper__ _n_ A type of white paper coated on one side with plastic to prevent air leaking out of frozen foods, thus protecting against freezer burn and loss of moisture.  
 __French toast__ _n_ Food prepared by dipping bread into egg batter and frying.  
 __fret__ _v_ /FRET/ To _fret_ is to worry or be concerned.  
 __frontier__ _n_ :mega: /frʌnˈtɪər, frɒn-; also, esp. _Brit_, ˈfrʌn tɪər/  
@@ -275,6 +298,7 @@ __giggle__ _v_
 __glower<sup>1</sup>__ _n_ To look or stare angrily or sullenly: _glowered at the rude patron._ _Syn_ scowl, glare, frown, look daggers, give a dirty look, lour, lower  
 __glower<sup>2</sup>__ _n_ An angry or sullen look or stare.  
 __goo__ _n_  
+__gopher__ _n_ :es: ardilla  
 __gossamer__ _adj_ /GAH-suh-mer/ Something described as _gossamer_—such as a butterfly wing or a thin fabric—is very light or delicate.  
 __grovel__ _vi_  
 __grunt__ _n_  
