@@ -18379,7 +18379,7 @@ __stalemate__ _n_ /ˈsteɪlˌmeɪt/
 __staler__ _adj_ _The air in the place grew staler._  
 __Stalin__ _n_ (originally Iosif Vissarionovich Dzhugashvili) Steel in Russian.  
 __stalk<sup>1</sup>__ _n_ :two::hammer:  
-__stalk<sup>2</sup>__ _v_ :four::hammer: (stalked) _Scarcity was stalking France._  
+__stalk<sup>2</sup>__ _v_ :seven::hammer: (stalked) _Scarcity was stalking France._  
 __stalking-horse__ _n_ Something serving to conceal plans; a fictitious reason that is concocted in order to conceal the real reason. _Syn_ pretext _Steve said he needed a book from the library, but that was just a stalking-horse to talk to the girl who worked behind the counter._  
 __stall__ _v_  
 __stallion__  
@@ -18388,7 +18388,7 @@ __stalwart<sup>1</sup>__ _adj_ :nine::m: Loyal, reliable, and hard-working. _He 
 __stalwart<sup>2</sup>__ _n_ :two::hammer:  
 __stamina__ _n_ :seven::mega: /stā′mə-nə, stăm′ə-, ˈstæmɪnə/ Physical or moral strength to resist or withstand illness, fatigue, or hardship; endurance.  
 __stammer<sup>1</sup>__ _n_ :three::hammer: _The consensus was shrugs and stammers._  
-__stammer<sup>2</sup>__ _v_ :two: (stammered) To speak with involuntary pauses or repetitions.  
+__stammer<sup>2</sup>__ _v_ :four: (stammered) To speak with involuntary pauses or repetitions.  
 __stamp out__ _phr v_ :two: End or extinguish by forceful means. _Leading ophthalmologist vows to stamp out “unjustified” screening for cataract surgery._ _Policemen took their own steps to stamp out smoking on the railways._  
 __stamp<sup>1</sup>__ _n_ _Additional stamp duties went into effect last year._  
 __stamp<sup>2</sup>__ _v_ :three::hammer:  
@@ -18444,7 +18444,7 @@ __startle__ _v_
 __startling__ _adj_ :six: Causing surprise or fear; striking; astonishing.  
 __stash__ _v_  
 __Stasi__  
-__stasis__ _n_ :three: A stoppage or diminution of flow, as of blood or other body fluid, or of intestinal contents.  
+__stasis__ _n_ :five: A stoppage or diminution of flow, as of blood or other body fluid, or of intestinal contents.  
 __stat sheet__ _n_ _informal_ :two: A list of statistics. _The stat sheet for him will be ugly—he missed 10 of his 15 shots._  
 __stat__ _adv_ _Med., Pharm._ Immediately. An abbreviation of the Latin _statim_, “immediately,” often used in medical contexts.  
 __State Bar__ _n_ _A State Bar judge._ :es: Colegio de Abogados del Estado  
@@ -18470,10 +18470,10 @@ __stationery__ _n_ :two::hammer:
 __statuary<sup>1</sup>__ _n_ :three::hammer: :es: estatuas  
 __statuary<sup>2</sup>__ _adj_  
 __stature__ _n_ :two: __2__ An achieved level; status. _A golf facility of world class stature._  
-__statute of limitations__ _n phr_ :four: A statute assigning a certain time after which rights cannot be enforced by legal action or offenses cannot be punished.  
+__statute of limitations__ _n phr_ :five: A statute assigning a certain time after which rights cannot be enforced by legal action or offenses cannot be punished.  
 __statute__  
 __statutory rape__  
-__statutory__ _adj_ :three::hammer:  
+__statutory__ _adj_ :four::hammer:  
 __staunch<sup>1</sup>__ _adj_ :nine::m: (staunchest) __1__ Firm and steadfast; loyal or true. _Syn_ loyal, faithful __2__ Having a strong or substantial construction or constitution. _A staunch little cabin._  
 __staunch<sup>2</sup>__ _v_ :two::hammer: _He applied pressure to staunch the flow of blood._  
 __staunchest__ _adj_ :two::hammer:  
@@ -18488,9 +18488,10 @@ __staying power__
 __stead__  
 __steadfast__ _adj_ :dart::nine::m: /STED-fast/ __1__ Fixed or unchanging; steady. _He was known for his steadfast will to live._ __2__ Firmly loyal or constant; unswerving. _Syn_ faithful  
 __steadfastly__  
-__steadily__  
+__steadily__ _adv_ :two::hammer:  
 __steadiness__  
-__steady__ _adj_ :six: __1__ Firm in position or place; fixed. __2__ Direct and unfaltering; sure. __3__ Free or almost free from change, variation, or fluctuation; uniform: a steady increase in value; a steady breeze. __4__ Not easily excited or upset: steady nerves. __5__ Unwavering, as in purpose; steadfast. __6__ Reliable; dependable. __7__ Temperate; sober.  
+__steady<sup>1</sup>__ _adj_ :six: __1__ Firm in position or place; fixed. __2__ Direct and unfaltering; sure. __3__ Free or almost free from change, variation, or fluctuation; uniform: a steady increase in value; a steady breeze. __4__ Not easily excited or upset: steady nerves. __5__ Unwavering, as in purpose; steadfast. __6__ Reliable; dependable. __7__ Temperate; sober.  
+__steady<sup>2</sup>__ _v_ :two: /ˈstɛd i/ /ˈstɛdɪ/ To make or become steady.  
 __steady-eddy__  
 __steak__ _n_ /steɪk/  
 __steakhouse__ _n_ :pencil2: /ˈsteɪkˌhaʊs/ A restaurant specializing in beefsteak.  
@@ -18508,7 +18509,7 @@ __steel__ _v_ :two::hammer: (steeled) _He steeled himself for the climb._
 __steelhead__ _n_  
 __steep<sup>1</sup>__ _adj_ :six::hammer: _He faces a steep learning curve._ _A steep increase._ _Steep decline._ _A steep battle._  
 __steep<sup>2</sup>__ _v_ :nine::m: (steeped, steeping) __1__ To soak or be soaked in a liquid, e.g. for softening, cleansing, bleaching, or extracting an essence. _Tea steeped in teapots._ _Steeped in hot water._ __2__ To imbue (somebody) thoroughly with a subject, influence, etc. _This region is steeped in history._  
-__steeped__ _adj_  
+__steeped__ _adj_ :three::hammer:  
 __steeple__ _n_ :three: A steeple is a very tall tower that gets smaller and smaller as it goes up. Many churches have steeples. Steeples are really tall so people can find the church from anywhere in town. _They took their pews and songbooks, and even their steeple._  
 __steeplechase__ _n_ :two: [:scroll: These horse races originally used churches (which are known for having steeples) to mark the end of the race or as a landmark for riders (who would “chase the steeple”).]  
 __steeplejack__ _n_ A person who climbs steeples, towers, or the like, to build or repair them.  
@@ -18542,7 +18543,8 @@ __stepping stone__ _n_ :three::hammer:
 __stepwise__ _adj_ :two::hammer: _An optimal stepwise upgrade strategy._  
 __stereophony__  
 __sterling silver__ _n_ __1__ An alloy of 92.5 percent silver with copper or another metal. __2__ Objects made of this alloy. _A sterling silver ship’s lantern, symbolizing a beacon of hope._  
-__sterling__ _adj_ :six::hammer: _A sterling job._ _A sterling example._ _Sterling stories._  
+__sterling<sup>1</sup>__ _n_ __1a__ British money: _pound sterling._ _Take cash in sterling._ __b__ (as modifier): _sterling reserves._  
+__sterling<sup>2</sup>__ _adj_ :seven: (prenominal) Genuine and reliable; first-class: _sterling quality._ _A sterling job._ _A sterling example._ _Sterling stories._  
 __stern__ _n_ :four::hammer: _The ship’s stern._ :es: popa  
 __Sterno__ _n_ _Trademark_ Flammable hydrocarbon jelly packaged in a small can for use as a portable heat source for cooking.  
 __sternutation__ _n_ :two: A symptom consisting of the involuntary expulsion of air from the nose. _Syn_ sneeze, sneezing  
@@ -18571,6 +18573,7 @@ __stickup__ _n slang_ A robbery, especially at gunpoint.
 __sticky-fingered__ _adj_ /STIK-ee fing-guhrd/ Given to stealing.  
 __stiff<sup>1</sup>__ _adj_ :seven::hammer: _Correa had a stiff challenge from shortstop Lindor._ _Working stiffs._ _Stiff political oposition._ _A stiff drink._ _Amazon faces stiff competition from Spotify._ _Stiff criticism._ _A stiff sentence._  
 __stiff<sup>2</sup>__ _v_ :two::hammer: (stiffing) _Trump is known for stiffing people he owes._ _Jay was stiffing his partners._  
+__stiff<sup>3</sup>__ _n_ :smiling_imp: __1__ _slang_ A corpse.  
 __stiffen__ _v_ :three::hammer: /ˈstɪfən/ _UN stiffens North Korea sanctions._  
 __stiffer__ _adj_ :two::hammer: _In adult court, murder, a Class M felony, carries a much stiffer penalty._ _Unleasing stiffer penalties._  
 __stiffly__  
@@ -18606,7 +18609,7 @@ __stir-crazy__ _adj_ :dart: /STER-KRAY-zee/ Distraught because of prolonged conf
 __stir<sup>1</sup>__ _n_  
 __stir<sup>2</sup>__ _v_ :three::hammer: (stirred, stirring :pencil2:)  
 __stirring__ _adj_ :three::hammer: _Stirring tales._  
-__stirrup__ _n_ :four::hammer: _Ramming your feet into the stirrups._  
+__stirrup__ _n_ :five::hammer: _Ramming your feet into the stirrups._  
 __stitch__ _n_ :three: (stitches) __1c__ c. A single loop or knot of thread used in closing a wound or incision in surgery; a suture. :es: puntos de sutura __2__ A sudden sharp pain, especially in the side. :es: punzada _To have a stitch._ :es: tener flato __6__ The least bit of anything: _They wouldn’t do a stitch of work._ _His support was a stitch higher than the combined vote for his two strongest remaining rivals._  
 __stock car__ _n_ __1__ An automobile of a standard make modified for racing. _Stock car racing._ __2__ A railroad car for carrying livestock. :es: vagón para el ganado  
 __stock footage__ _n_ Recorded material, such as film, that is kept by a television network or other media outlet to be broadcast when a subject relating to images in the material is discussed.  
@@ -18640,7 +18643,7 @@ __stoneware__ _n_
 __stonk__ _n_ A heavy concentration of artillery fire.  
 __stooges__ _n_  
 __stool pigeon__ _n_ _slang_ :two: A person acting as a decoy or as an informer, especially one who is a spy for the police. _Syn_ canary, fink, snitch _A guard’s stool pigeon._  
-__stoop<sup>1</sup>__ _v_ :nine::m: (stooped) __1__ _(also stoop down)_ To bend your body forward and down. _Jean stoops to pick cranberries for preserves._ _We had to stoop to pass through the low entrance._ _Dave stooped down to tie his shoes._ __2__ To stand with your back and shoulders bent forwards. _Although stooped by age, her eyes were sharp._  
+__stoop<sup>1</sup>__ _v_ :dart::nine::m::smiling_imp: __1__ _(also stoop down)_ To bend your body forward and down. _Jean stoops to pick cranberries for preserves._ _We had to stoop to pass through the low entrance._ _Dave stooped down to tie his shoes._ __2__ To stand with your back and shoulders bent forwards. _Although stooped by age, her eyes were sharp._ __3__ Debase oneself morally, act in an undignified, unworthy, or dishonorable way. _Syn_ condescend, lower oneself  
 __stoop<sup>2</sup>__ _n_ :two::hammer:  
 __stooped__ _adj_ :four: Hraving the back and shoulders rounded; not erect. _A little oldish misshapen stooping woman._ _Syn_ hunched, round-backed, round-shouldered, stooping, crooked _He was a stooped man._ _Stooped shoulders._ _Although stooped by age, her eyes were sharp._  
 __stop short__ _v_ :nine::m: (stop-short, stopped short) __1__ To come to a sudden and unexpected stop, particularly while speaking or driving a vehicle. __2__ Usually with of, to voluntarily cease an attempt to reach a certain point.  
@@ -18651,11 +18654,12 @@ __stope__
 __stopgap<sup>1</sup>__ _n_ :dart::nine::m: An improvised substitute for something lacking; a temporary expedient. _Syn_ make-do, makeshift _This is not an acceptable long term solution, just a stopgap._  
 __stopgap<sup>2/sup>__ _adj_ :two: Serving as a stopgap: _a stopgap solution._  
 __stoplight__ _n_ :pencil2: __1__ A taillight that lights up as the driver of a vehicle steps on the brake pedal to slow down or stop. __2__ Traffic light.  
-__stopover__ _n_ :four::hammer: _Montrose is a delightful stopover on the way to the Grand Canyon._  
+__stopover__ _n_ :five::hammer: _Montrose is a delightful stopover on the way to the Grand Canyon._  
 __stoppage__ _n_ :nine::m: __1__ An act or instance of stopping. __2__ The state of being stopped or obstructed. _A stoppage-time goal._ __3__ A cessation of activity, esp. work; strike. _Keep work stoppages to a minimum._ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
 __stopper__ _v_ To close with or as if with a stopper. _A stoppered glass bottle._  
 __stops__ _n_ :three::hammer: _The last five-six minutes of the first half, we made some stops and that was big._ _Utah pulled away at the beginning of the third quarter, stringing together consecutive stops._ _We wanted to get stops and I think that’s what we did._  
 __stopwatch__ _n_  
+__store__ _n_ :dart: A mercantile establishment for the sale of goods or services.  
 __store-bought__ _adj_ Manufactured and purchased at retail; not homemade: _store-bought cookies._  
 __storefront__ _n_ :four::hammer:  
 __storeful__  
@@ -18673,17 +18677,17 @@ __storytelling__ _n_
 __storywise__ _adv_ In terms of a story or narrative.  
 __stoup__  
 __stouthearted__ _adj_ Brave; courageous. _Syn_ stalwart _Undaunted by the storm, the stouthearted park ranger proceeded with his search for the missing hiker._  
-__stove__ _n_ :three::hammer:  
+__stove__ _n_ :four::hammer:  
 __stovepipe hat__ _n_ :two::hammer:  
+__stovepipe__  
 __stow away__  
-__stow__ _vt_ :five::hammer: (stowed)  
+__stow__ _v_ :six: __3__ _(Nautical Terms)_ To pack or put away (cargo, sails and other gear, etc). :es: estibar  
 __stowage__  
 __stowaway__  
 __strabismus__ _n_ Abnormal alignment of one or both eyes.  
-__straddle__ _v_ :eight::hammer: __1a__ To stand or sit with a leg on each side of; bestride: _straddle a horse._ _Pete straddled a chair._  
-__strafed__ _v_  
-__strafes__ _v_  
-__strafing__  
+__straddle<sup>1</sup>__ _vi_ :nine::m: __1__ To walk, stand, or sit with the legs wide apart; stand or sit astride. __2__ To be positioned wide apart, as the legs. __3__ To favor or appear to favor both of two opposite sides; equivocate.  
+__straddle<sup>2</sup>__ _vt_ :nine::m: __1__ To stand or sit astride of. To stand or sit with a leg on each side of; bestride: _straddle a horse._ _Pete straddled a chair._ __2__ To favor or appear to favor both sides of: straddle an issue. __3__ Range or extend over; occupy a certain area. _The plants straddle the entire state._ _Syn_ range  
+__strafe__ _v_ :dart::four: /streɪf, strɑf/ __1__ To attack (ground troops, etc.) with fire from low-flying airplanes.  
 __straggler__ _n_ :three: A person who walks too slowly during a march etc and gets left behind. _A car was sent to pick up the stragglers._ :es: rezagado  
 __straggly__ _adj_ :two: Spreading out in different directions. _Syn_ rambling, sprawling _The gardener’s job was to tame the yard’s few straggly bushes and make them look neat and presentable for the party that evening._  
 __straight and narrow__  
@@ -18711,6 +18715,7 @@ __strand<sup>1</sup>__ _n_ :four::hammer: _A long strand of rope._ _The strands 
 __strand<sup>2</sup>__ _v_  
 __stranded__ _adj_ :two: Left without the means to move from somewhere. _She offers a lift to a stranded commuter._  
 __strangle__ _v_ :four::hammer: (strangled, strangling) :es: estrangular  
+__strangled__ _adj_ Held in check with difficulty.  
 __stranglehold__ _n_ :five: __2__ Complete power or control over a person or situation.  
 __strap overalls__  
 __strapless__ _adj_ Having no strap or straps, as a dress or an undergarment. _Strapless black dress._  
@@ -18718,9 +18723,11 @@ __strappado__ _n_ /straˈpɑːdəʊ,straˈpeɪdəʊ/
 __strapped__  
 __strapper__ _n_ A powerfully built, robust person. _Syn_ bruiser, bull, Samson _Grandmother described everyone in larger-than-life terms. Even scrawny Bill from down the block was “a regular strapper.”_  
 __strapping__ _adj_ Having a sturdy muscular physique; robust. _Two strapping sons._  
+__stratagem__ _n_ :smiling_imp: A plan, scheme, or trick for surprising or deceiving an enemy.  
 __stratovolcano__ _n_  
 __straw__ _n_ :four::hammer: (straws) _To stir straws._  
 __strawhat__ _adj_ Of or relating to summer dramatic performances.  
+__stray dog__ _n_ An ownerless dog, a roaming wild or half-wild dog.  
 __stray<sup>1</sup>__ _v_ :nine: (strays, strayed, straying) __1__ To move away from a group, deviate from the correct course, or go beyond established limits. _Every individual who strays will be punished._ __2__ To become lost. __3__ To wander about without a destination or purpose; roam. _His thoughts strayed._  
 __stray<sup>2</sup>__ _adj_ :seven: __1__ Straying or having strayed; wandering or lost: _stray cats and dogs._ _Stray canines._ _Stray goats._ __2__ Scattered or separate: _a few stray crumbs._ _I still use this language gem in stray conversations._ _A stray word._ _Stray steeples._ _Stray friends._  
 __stray<sup>3</sup>__ _n_  
@@ -18731,6 +18738,7 @@ __streamline__ _vt_ :eight::hammer: (streamlined, streamlining) __2__ To improve
 __streamlined__ _adj_ :two::hammer: _Streamlined ship._  
 __streamside__  
 __street name__ _n_ __1__ An alternative name that a person chooses or is given (especially in inner city neighborhoods); _“her street name is Bonbon.”_  
+__street trading__ _n_ The selling, or exposing for sale, of articles on certain streets. It is an offense in both England and Scotland although under different legislation.  
 __streetcar__  
 __streetwise__  
 __Streisand effect__ _n_ A phenomenon in which attempting to suppress an item of information attracts even more unwanted attention, thus furthering its dissemination.  
@@ -18752,6 +18760,7 @@ __stricture__ _n_ :three::hammer: _The strictures on women’s behavior were eas
 __stride__ _n_ :dart: __4__ (often strides) A step of progress; an advance: _making great strides in their studies._ _He made great strides during his presidency._  
 __stridence__ _n_ :two::hammer:  
 __strident__  
+__stridor__ _n_ :es: estridor, ruido sordo respiratorio  
 __strife__ _n_ :nine::m: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
 __strike action__ _n_ Strike action, also called labor strike, labour strike, or simply strike, is a work stoppage, caused by the mass refusal of employees to work.  
 __Strike Force__ _n_ A group or team, as of law-enforcement agents, who are assigned to one special problem.  

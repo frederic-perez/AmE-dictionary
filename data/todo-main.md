@@ -752,31 +752,6 @@ __slug__ _vt_ __3__ To strike heavily, especially with the fist or a bat. _He sl
 __smolder__ _vi_ __1__ To burn with little smoke and no flame. _Luke saw the smoldering piles which had once been human beings._  
 __smugly__ _adv_  
 __stakeout__  
-__stalk__ _v_ :three::hammer:  
-__stammer__ _v_ :two::hammer:  
-__stasis__ _n_ :two::hammer:  
-__statute of limitations__ _n phr_  
-__statutory__ _adj_  
-__steadily__  
-__steady__ _vi_ :two: /ˈstɛd i/ /ˈstɛdɪ/ To make or become steady.  
-__steeped__ _adj_ :two::hammer:  
-__sterling<sup>1</sup>__ _n_ __1a__ British money: _pound sterling._ _Take cash in sterling._ __b__ (as modifier): _sterling reserves._  
-__sterling<sup>2</sup>__ _adj_ (prenominal) Genuine and reliable; first-class: _sterling quality._  
-__stiff__ _n_ :smiling_imp: __1__ _slang_ A corpse.  
-__stirrup__ _n_  
-__stoop__ _v_ :dart::two::smiling_imp: Debase oneself morally, act in an undignified, unworthy, or dishonorable way. _Syn_ condescend, lower oneself  
-__stopover__ _n_  
-__store__ _n_ :dart: A mercantile establishment for the sale of goods or services.  
-__stove__ _n_  
-__stovepipe__  
-__stow__ _v_ __3__ _(Nautical Terms)_ To pack or put away (cargo, sails and other gear, etc). :es: estibar  
-__straddle__ _v_ :two: Range or extend over; occupy a certain area. _Syn_ range  
-__strafe__ _v_ :dart: /streɪf, strɑf/ __1__ To attack (ground troops, etc.) with fire from low-flying airplanes.  
-__strangled__ _adj_ Held in check with difficulty.  
-__stratagem__ _n_ :smiling_imp: A plan, scheme, or trick for surprising or deceiving an enemy.  
-__stray dog__ _n_ An ownerless dog, a roaming wild or half-wild dog.  
-__street trading__ _n_ The selling, or exposing for sale, of articles on certain streets. It is an offense in both England and Scotland although under different legislation.  
-__stridor__ _n_ :es: estridor, ruido sordo respiratorio  
 __string__ _n_ _The string of the tea bag._  
 __stringent__ _adj_  
 __strobing__ _n_ A brief flashing on and off, as of a stroboscopic lamp.  
