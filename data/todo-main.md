@@ -40,6 +40,7 @@ __blood sport__ _n_ Any sport involving killing or the shedding of blood, as bul
 __bloodletting__ _n_  
 __blueberry cobbler__  
 __bluebird__ _n_  
+__bluff__ _n_ A steep headland, promontory, riverbank, or cliff.  
 __board__ _v_ __17__ To furnish with meals, or with meals and lodging, esp. for pay.  
 __bob__ _v_  
 __bobbin__ _n_ A cylinder or cone for holding thread; a spool or reel.  
@@ -75,6 +76,7 @@ __canvasser__ _n_
 __cap__ _v_ :es: superar  
 __carburetor__ _n_ (carbureter)  
 __carouse__ _vi_  
+__celiac__ _adj_ :astonished: Of or relating to the abdomen or abdominal cavity.  
 __chalybeate<sup>1</sup>__ _adj_ Containing dissolved salts of iron.  
 __chalybeate<sup>2</sup>__ _n_ A mineral water containing iron, a voguish general remedy during the 17th-19th century.  
 __chiseled__ _adj_ Made or shaped with or as if with a chisel: _a finely chiseled nose._  
@@ -114,6 +116,7 @@ __descant__ _n_
 __despicable__  
 __deter__ _v_ :two: /dɪˈtɜr/ /dih-TER/ To _deter_ someone is to discourage or prevent them from acting. To _deter_ a thing is to stop or limit it.  
 __diffident__ _adj_  
+__dilation__ _n_ :mega: /daɪˈleɪ ʃən, dɪ-/  
 __dimly__ _adv_ __2__ In a manner lacking interest or vitality.  
 __dimple__ _n_  
 __dinghy__ _n_  
@@ -337,9 +340,11 @@ __huff__ _v_
 __humdrum<sup>1</sup>__ _adj_ Lacking variety or excitement. _Syn_ dull  
 __humdrum<sup>2</sup>__ _n_ A monotonous routine, task, or person.  
 __hurl__ _v_  
+__husk__ _vt_ :two: To remove the husk from.  
 __hypertrichosis__ _n_ A condition of excessive hairiness either all over the body or covering a particular part.  
 __ideate__ _v_ /EYE-dee-ayt/ To ideate is to form an idea or conception of something..  
 __indigenous__ _adj_ /ɪnˈdɪdʒ ə nəs/ __1__ Originating in and characteristic of a particular region or country; native (often fol. by to): _plants indigenous to Canada; indigenous peoples of southern Africa._  
+__inkling__  
 __interfere__ _v_  
 __interpenetrate__ _v_ Spread or diffuse through. _Syn_ imbue, permeate, pervade, diffuse, riddle, penetrate  
 __intonation__ _n_ /ˌɪntəʊˈneɪʃən/ /ˌɪn toʊˈneɪ ʃən, -tə-/  
@@ -457,6 +462,7 @@ __mantra yoga__ _n_ A meditation practice that focuses on chanting sacred syllab
 __marionette__ _n_ _Syn_ puppet  
 __marksman__ _n_  
 __marshal__ _v_  
+__marshmallow__ _n_ :pencil2:  
 __masseuse__  
 __matron__ _n_ :es: supervisora; enfermera jefe; matrona  
 __matte__ _n_  
@@ -491,10 +497,12 @@ __misuser__ _n_ __1__ One that misuses: _a misuser of school property._
 __miter__ _n_ (mitre) A type of headdress worn by archbishops and bishops.  
 __mitochondrion__ _n_ :pencil2: (_npl_ mitochondria)  
 __moisten__ _v_  
+__mongoose__ _n_  
 __Montserrat__ _n_ An island in the Leeward Islands, in the West Indies: British crown colony.  
 __moot__ _vt_  
 __moped__ _n_ _Brit_ A light motorcycle, not over 50cc.  
 __morass__  
+__moratorium__ _n_  
 __morrow__ _n_  
 __mothball__ _n_ Asmall sphere of camphor or naphthalene used to keep moths away from stored clothing. _Syn_ camphor ball  
 __mother of pearl__ _n_  
@@ -538,11 +546,13 @@ __nudge__ _vt_
 __nursing__ _n_ __1__ The profession of a nurse. __2__ The tasks or care of a nurse.  
 __nurture__ _n, vt_  
 __nutmeg__ _n_  
-__nuzzle__ _v_  
+__nuzzle__ _v_ :two::hammer: _I nuzzled her neck._  
 __oblige__ _vt_  
 __obsequious__ _adj_  
+__offbeat__ _adj_ :es: poco convencional  
 __panacea__ _n_ /pan-uh-SEE-uh/  
 __pantsuit__ _n_  
+__paramour__  
 __paratrooper__  
 __parched__ _adj_ :es: abrasado, reseco  
 __Parkinson’s law__ _n_ /PAHR-kin-suhnz law/ The observation that work expands to fill the time available.  
@@ -552,6 +562,7 @@ __pasquinade__ _n_ A satire or lampoon, especially one that ridicules a specific
 __pastime__ _n_ :pencil2:  
 __pathos__ _n_ A quality, as of an experience or a work of art, that arouses feelings of pity, sympathy, tenderness, or sorrow. _Syn_ poignancy  
 __patron__ _n_ _Look, Artoo-Detoo! Here comes a patron out of the cantina!_  
+__patronymic__ _adj, n_  
 __patsy__ _n_ :smiling_imp: A person easily taken advantage of, cheated, blamed, or ridiculed.  
 __patty__ _n_  
 __paucity__ _n_ Smallness of number; fewness. _Syn_ dearth  
@@ -580,7 +591,9 @@ __Perseid__ _n_ /ˈpɜːsɪɪd/ (Celestial Objects) Any member of a meteor showe
 __personal column__ _n_  
 __perspicacious__ _adj_  
 __pertussis__ _n_ :two: /pəˈtʌsɪs/ _(Pathology)_ The technical name for _whooping cough_.  
+__pessary__ _n_ /ˈpɛs ə ri/  
 __pestilential__ _adj_ Likely to spread and cause an epidemic disease. _Syn_ pestiferous, plaguey  
+__petrichor__ _n_ :dart::astonished: /ˈpɛtrɪˌkɔː/ [:scroll: from Greek _petra_ stone + Greek myth _ichor_, the fluid said to flow in the veins of the gods]  
 __petrol station__ _n_ _Syn_ filling station, gas station, gasoline station  
 __phantasmagorical__ _adj_ /fan-taz-muh-GOR-i-kuhl/ Illusory; strange; deceptive; imaginary; surreal; hallucinatory.  
 __phony__ _adj_  
@@ -625,12 +638,14 @@ __porter__ _n_ __1__ A person employed to carry luggage, parcels, supplies, etc,
 __possess__ _v_  
 __posterity__ _n_ /pɒˈstɛr ɪ ti/ /pɑˈstɛrət̮i/ /pah-STAIR-uh-tee/  
 __potbellied__ _adj_ Having a large belly.  
+__power strip__ _n_  
 __precede__ _v_ Furnish with a preface or introduction. _Syn_ preface, premise, introduce _She always precedes her lectures with a joke._  
 __precinct__ _n_  
 __preen__ _v_  
 __premier__  
 __preoccupation__ _n_ :pencil2:  
 __preponderance__ _n_ A superiority in numbers or amount. _Syn_ prevalence, extensiveness _The preponderance of the evidence strongly supports his guilt._  
+__prepossessed__ _adj_ Exhibiting bias.  
 __preposterous__ _adj_ [:scroll: From Latin praeposterus, which translates literally to “in the wrong order”]  
 __press cutting__ _n_ An excerpt cut from a newspaper or magazinepress cutting - an excerpt cut from a newspaper or magazine.  
 __pressing__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._  
@@ -639,6 +654,7 @@ __pressing<sup>2</sup>__ _n_
 __pressurize__ _vt_  
 __price gun__ _n_ :astonished: A portable tool used to print price tags.  
 __pricey__ _adj_ /ˈpraɪ si/ (pricy)  
+__primal__  
 __prioritize__ _v_ _We’ll probably go on prioritizing._  
 __prissy__ _adj_ :es: remilgado  
 __privet__ _n_ /ˈprɪv ɪt/ _Clipped privet hedges._  
@@ -676,6 +692,7 @@ __rapport__ _n_ /ræˈpɔr, -ˈpoʊr, rə-/
 __rasp<sup>1</sup>__ _n_ __1__ A coarse file with sharp, pointed projections. :es: raspador __2__ The act of filing with a rasp. __3__ A harsh grating sound. :es: chirrido; (of voice) tono áspero  
 __rasp<sup>2</sup>__ _v_ :two: Utter in a grating voice.  
 __Rastafarian__ _adj, n_  
+__rationalize__ _v_ __1__ To justify (one’s actions, esp discreditable actions, or beliefs) with plausible reasons, esp after the event.  
 __raving<sup>1</sup>__ _n_  
 __raving<sup>2</sup>__ _adj_ Delirious, irrational speech.  
 __rear__ _vt_ :two: __1__ To care for (children or a child) during the early stages of life; bring up. __2__ To tend (growing plants or animals). __3__ To build; erect.  
@@ -702,7 +719,12 @@ __refuse__ _v_ /rɪˈfjuːz/
 __regardless__  
 __reify__ _v_ /ˈri əˌfaɪ, ˈreɪ-/ /RAY-uh-fye/ Reifying is about considering or representing something abstract as a material or concrete thing. If you reify a concept or idea you somehow give it definite content and form.  
 __reignite__ _v_  
+__retainer__ _n_ __2__ _Dentistry_ An appliance used to hold teeth in position after orthodontic treatment.  
+__rollout__ _n_ __1__ The introduction of a new product, service, or policy to the public.  
+__rooftop__ _n_  
+__rube__ _n_ _You look like a rube._  
 __ruff__ _n_ (Clothing & Fashion)  
+__ruination__ _n_  
 __rummage__ _v_ :two::hammer:  
 __rundown__ _n_ :two: __1__ A point-by-point summary.  
 __russet<sup>1</sup>__ _n_ __1__ Yellowish brown, light brown, or reddish brown.  
@@ -715,6 +737,7 @@ __sanguinary__ _adj_ Accompanied by bloodshed. _Syn_ butcherly, gory, slaughtero
 __saunter__  
 __scamper__ _vi_  
 __scapegoat__ _n_ /SKAYP-goat/  
+__scathing__ _adj_ :es: mordaz, feroz  
 __sconce__ _n_ __1__ A small defensive earthwork or fort.  
 __scowl__ _v_ :two::hammer:  
 __scrub nurse__ _n_ A specially trained nurse who directly assists a surgeon during an operation.  
@@ -752,6 +775,7 @@ __slug__ _vt_ __3__ To strike heavily, especially with the fist or a bat. _He sl
 __smolder__ _vi_ __1__ To burn with little smoke and no flame. _Luke saw the smoldering piles which had once been human beings._  
 __smugly__ _adv_  
 __stakeout__  
+__station__ _n_ :es: comisaría  
 __string__ _n_ _The string of the tea bag._  
 __stringent__ _adj_  
 __strobing__ _n_ A brief flashing on and off, as of a stroboscopic lamp.  
