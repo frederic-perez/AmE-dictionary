@@ -6,6 +6,7 @@ __acerbic__ _adj_ Sharp or biting, as in character or expression. _Syn_ blisteri
 __adversary__ _n_ :mega: /ˈæd vərˌsɛr i/ /ˈædvəsərɪ/ /AD-ver-sair-ee/ _Adversary_ is an enemy or opponent.  
 __aspersion__ _n_ :smiling_imp:  
 __at__ _prep_ [The preposition _at_ often has connotations of aggression. You _throw_ something _to_ someone if you want them to catch it; if you _throw_ it _at_ them you are trying to hit them. To _laugh at_ someone is to laugh at their expense. Usually we say _talk to_; when Ludlow says _talk at_ (in the movie _Legends of the Fall_) he is saying that his sons are shouting at them without listening to what he has to say in reply.]  
+__avuncular__ _adj_ uh-VUNG-kyuh-luhr/ Kind, friendly, and helpful, like an uncle, especially in a benevolent or indulgent way.  
 __ayahuasca__ _n_ :two::hammer:  
 __backwoods__ _n pl_  
 __bait__ _v_ :smiling_imp: __2__ To entice or provoke, especially by trickery or strategy: _He baited me into selling him my bike by saying how much I deserved a better one._  
@@ -76,6 +77,7 @@ __canvasser__ _n_
 __cap__ _v_ :es: superar  
 __carburetor__ _n_ (carbureter)  
 __carouse__ _vi_  
+__categorical__ _adj_ /kat-uh-GOR-ih-kul/ _Categorical_ is a synonym of _absolute_ and _definite_ that describes something that is said in a very strong and clear way. It can also mean “of, relating to, or constituting a category” or “involving, according with, or considered with respect to specific categories.”  
 __celiac__ _adj_ :astonished: Of or relating to the abdomen or abdominal cavity.  
 __chalybeate<sup>1</sup>__ _adj_ Containing dissolved salts of iron.  
 __chalybeate<sup>2</sup>__ _n_ A mineral water containing iron, a voguish general remedy during the 17th-19th century.  
@@ -94,6 +96,7 @@ __cornpone__ _n_
 __corrugated__ _adj_ _Syn_ furrowed, channelled, ridged, grooved, wrinkled, creased, fluted, rumpled, puckered, crinkled _The sound of rain on the corrugated roof._ :es: ondulado  
 __coruscate__ _v_ /KOR-uh-skayt/  
 __cosmesis__ _n_  
+__cosmopolitan__ _adj_ :astonished: Pertinent or common to the whole world. _Syn_ ecumenical, general, universal, worldwide  
 __cot death__ _n_ _Br E_ Sudden infant death syndrome.  
 __cottonmouth__ _n_ :camera: [:scroll: so called for the white streak along its mouth] A pit viper, venomous semiaquatic snake of swamps in southern United States. _Syn_ water moccasin  
 __countenance__ _n_  
@@ -106,6 +109,7 @@ __czar__ _n_ __1__ The ruler of Russia until the 1917 revolution. __2__ One havi
 __Damoclean__ _adj_ /dam-uh-KLEE-uhn/ Involving imminent danger.  
 __dart__ _v_  
 __decal__ _n_  
+__defenestration__ _n_ /dee-fen-uh-STRAY-shun/ _Defenestration_ is most often used to refer to a usually swift dismissal or expulsion, as from a political party or office. It is also used to refer to a throwing of a person or thing out of a window.  
 __deign__ _v_  
 __demob__ _v_  
 __den__ _n_ _The bear’s den._ :es: madriguera  
@@ -123,6 +127,7 @@ __dinghy__ _n_
 __dingy__ _adj_  
 __disarmament__ _n_  
 __disbar__ _vt_  
+__disbursement__ _n_ /diss-BERSS-munt/ A _disbursement_ is a payout of money from a fund that has been created for a special purpose. _Disbursement_ can also refer to the money that is paid out. _The company has made large disbursements for research._  
 __dishevelled__  
 __disinformation__ _n_  
 __dispensary__ _n_  
@@ -149,6 +154,7 @@ __duodecimo__ _n_
 __dusky__ _adj_ Characterized by little or inadequate light; shadowy. _Syn_ twilight, twilit  
 __duster__ _n_ :dart::camera: A loose coverall (coat or frock) reaching down to the ankles. _Syn_ gaberdine, smock  
 __duty solicitor__ _n_ (duty counsel, duty lawyer) A solicitor whose services are available to a person either suspected of, or charged with, a criminal offence free of charge (pro bono), if that person does not have access to a solicitor of their own and usually if it is judged by a means test that they cannot afford one. The system is operative in several Commonwealth countries, including the United Kingdom, Australia, New Zealand and Canada.  
+__earwitness__ _n_ /EER-wit-nis/ One who testifies or can testify to something heard.  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
 __eggnog__ _n_  
 __egotistical__ _adj_ Characteristic of those having an inflated idea of their own importance. _Syn_ egotistic, narcissistic, self-loving  
@@ -172,6 +178,7 @@ __épée__ _n_ /ˈɛpeɪ; _French_ epe/ (epee) :es: espada de esgrima
 __Equity__ _n_ :astonished: /ˈɛkwɪtɪ/ _Theatre_ The actors’ trade union. Full name: Actors’ Equity Association  
 __equivocacy__ _n_ /i-KWIV-uh-kuh-see/ The quality of being deliberately ambiguous or vague.  
 __ethos__ _n_ /EE-thahss/ _Ethos_ refers to the guiding beliefs of a person, group, or organization. :es: espíritu; escala de valores _The company made environmental awareness part of its business ethos._  
+__euphoria__ _n_ /yoo-FOR-ee-uh/ _Euphoria_ refers to a feeling of great happiness and excitement.  
 __eurythmy__ _n_  
 __exact__ _v_ /ig-ZAKT/ To exact something (such as payment or revenge) is to demand it and get it, especially by using force or threats. _Exact_ is also used in phrases like “exact a terrible toll” and “exact a high/heavy price” to say that something has caused a lot of suffering, loss, etc.  
 __exhort__ _v_ /ig-ZORT/ To urge, persuade, advise, etc. earnestly.  
@@ -180,6 +187,7 @@ __exile<sup>2</sup>__ _vt_ :es: exiliar, desterrar
 __exonerate__ _v_  
 __exorbitant__ _adj_ /ig-ZOR-buh-tunt/  
 __extort__ _vt_ :smiling_imp: /ik-STORT/ [:scroll: From Latin extorquere (to wrench out), from ex- (out) + torquere (to twist)] To obtain something by psychological pressure, intimidation, force, threat, etc.  
+__exuberant__ _adj_ :astonished: /ig-ZOO-buh-ruhnt/ __1__ Overflowing with energy, enthusiasm, and joy. __2__ Plentiful; productive; growing abundantly.  
 __fallacious__ _adj_ /fuh-LAY-shus/ _Fallacious_ is a formal word that typically describes something, such as an argument or assumption, that is false or inaccurate and that tends to mislead or deceive others.  
 __fallow__  
 __falsehood__ _n_ /ˈfɔls hʊd/  
@@ -264,6 +272,7 @@ __fraternize__ _v_ /FRAT-er-nyze/
 __freezer paper__ _n_ A type of white paper coated on one side with plastic to prevent air leaking out of frozen foods, thus protecting against freezer burn and loss of moisture.  
 __French toast__ _n_ Food prepared by dipping bread into egg batter and frying.  
 __fret__ _v_ /FRET/ To _fret_ is to worry or be concerned.  
+__fretful__ _adj_ Habitually complaining. _Syn_ querulous, whiny  
 __frontier__ _n_ :mega: /frʌnˈtɪər, frɒn-; also, esp. _Brit_, ˈfrʌn tɪər/  
 __fru__  
 __fugacious__ _adj_ /fyoo-GAY-shus/  
@@ -284,6 +293,7 @@ __Gamblers Anonymous__ _n_ (GA) An organization that holds group meetings to hel
 __gamekeeper__ _n_ /ˈgeɪmˌki pər/ A person employed, as on an estate or game preserve, to prevent poaching and provide for the conservation of game.  
 __gangrene__ _n_  
 __gaping__ _adj_ /ˈɡeɪpɪŋ/ Wide open; extremely wide: _a gaping hole._  
+__garnish__ _v_ /GAHR-nish/ To garnish food or drink is to add decorative and tasty touches to it, such as a spiral of lemon peel.  
 __garrulous__ _adj_ Excessively talkative in a rambling, roundabout manner, especially about trivial matters.  
 __gasp<sup>1</sup>__ _v_  
 __gasp<sup>2</sup>__ _n_ __1__ A short convulsive intake of breath.  
@@ -311,6 +321,7 @@ __gurney__ _n_ /ˈɡɜːnɪ/ _Medicine_ _US_ A wheeled stretcher for transportin
 __hackneyed__ _adj_  
 __hacksaw__ _n_ :dart: A handsaw for cutting metal, with a hard-steel blade in a frame under tension.  
 __haggard__ _adj_  
+__hallowed__ _adj_ :astonished: /HAL-oad/ Hallowed describes something, such as a memorial, considered holy or blessed, or something that is highly respected and revered. _The church stands on hallowed ground_  
 __handicraft__ _n_ Skill or dexterity in working with the hands.  
 __handyman__ _n_ :es: manitas  
 __haphazard__  
@@ -343,11 +354,13 @@ __hurl__ _v_
 __husk__ _vt_ :two: To remove the husk from.  
 __hypertrichosis__ _n_ A condition of excessive hairiness either all over the body or covering a particular part.  
 __ideate__ _v_ /EYE-dee-ayt/ To ideate is to form an idea or conception of something..  
+__indefatigable__ _adj_ /in-di-FAT-i-guh-buhl/ __1__ Incapable of being tired out. __2__ Persistently energetic or tireless, even in the face of challenges.  
 __indigenous__ _adj_ /ɪnˈdɪdʒ ə nəs/ __1__ Originating in and characteristic of a particular region or country; native (often fol. by to): _plants indigenous to Canada; indigenous peoples of southern Africa._  
 __inkling__  
 __interfere__ _v_  
 __interpenetrate__ _v_ Spread or diffuse through. _Syn_ imbue, permeate, pervade, diffuse, riddle, penetrate  
 __intonation__ _n_ /ˌɪntəʊˈneɪʃən/ /ˌɪn toʊˈneɪ ʃən, -tə-/  
+__intransigent__ _adj_ /in-TRAN-suh-junt/  
 __invalid car__ _n_ _BrE_ A car specially equipped so that a disabled person can drive it.  
 __inviting__ _adj_ :two: Attractive; tempting: _an inviting dessert._  
 __iota__ _n_ /eye-OH-tuh/ An _iota_ is an infinitesimal amount of something. The word _iota_ is used synonymously with the etymologically related _jot_, and by its oldest definition refers to the 9th letter of the Greek alphabet.  
@@ -436,6 +449,7 @@ __loup-garou__ _n_
 __lovelorn__ _adj_ /ˈlʌvˌlɔːn/ Miserable because of unrequited love or unhappiness in love.  
 __low-end__ _adj_ Cheaper and, typically, of lower quality compared to the leading products or brands. Used before a noun. _Because he’s only willing to pay for low-end supplies, we’ve had nothing but problems with all our equipment._  
 __LSD__ _n_ (acid) _(Recreational Drugs)_ Lysergic acid diethylamide; a crystalline compound prepared from lysergic acid, used in experimental medicine and taken illegally as a hallucinogenic drug. Informal name (as an illegal hallucinogen): acid.  
+__lubricious__ _adj_ Characterized by lust. _Syn_ lustful, prurient, salacious  
 __lucid__ _adj_ /LOO-sid/  
 __lucrative__ _adj_ :two::hammer: /LOO-kruh-tiv/  
 __lucubration__ _n_  
@@ -458,6 +472,7 @@ __make__ _n_ :astonished:
 __malevolent__ _adj_ :smiling_imp: Wishing evil or harm to another or others.  
 __mandatory__ _n_ :mega: /ˈmæn dəˌtɔr i, -ˌtoʊr i/  
 __mangle__ _v_ __2__ To ruin or spoil through ineptitude or ignorance: _mangle a speech._  
+__mantel__ _n_ The protruding shelf over a fireplace. _Syn_ chimneypiece, mantelpiece  
 __mantra yoga__ _n_ A meditation practice that focuses on chanting sacred syllables along with conscious breathing and a meditative focus to quiet the mind, cultivate spiritual energy, and create states of enlightenment.  
 __marionette__ _n_ _Syn_ puppet  
 __marksman__ _n_  
@@ -549,7 +564,10 @@ __nutmeg__ _n_
 __nuzzle__ _v_ :two::hammer: _I nuzzled her neck._  
 __oblige__ _vt_  
 __obsequious__ _adj_  
+__October surprise__ _n_ A significant revelation or event in the month prior to an election that has the potential to shift public opinion about an election candidate and that is often orchestrated to influence the election’s outcome.  
 __offbeat__ _adj_ :es: poco convencional  
+__omniscient__ _adj_ /ahm-NISH-unt/ _Omniscient_ describes someone or something with unlimited knowledge or understanding.  
+__palaver__ _n_ /puh-LAV-er/  
 __panacea__ _n_ /pan-uh-SEE-uh/  
 __pantsuit__ _n_  
 __paramour__  
@@ -647,6 +665,7 @@ __preoccupation__ _n_ :pencil2:
 __preponderance__ _n_ A superiority in numbers or amount. _Syn_ prevalence, extensiveness _The preponderance of the evidence strongly supports his guilt._  
 __prepossessed__ _adj_ Exhibiting bias.  
 __preposterous__ _adj_ [:scroll: From Latin praeposterus, which translates literally to “in the wrong order”]  
+__prerogative__ _n_ A right reserved exclusively by a particular person or group (especially a hereditary or official right). _Syn_ exclusive right, perquisite, privilege  
 __press cutting__ _n_ An excerpt cut from a newspaper or magazinepress cutting - an excerpt cut from a newspaper or magazine.  
 __pressing__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._  
 __pressing<sup>1</sup>__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._ _Syn_ urgent __2__ Very earnest or insistent: _a pressing invitation._  
@@ -749,6 +768,7 @@ __sea nettle__ _n_
 __sear__ _n_ A mark or scar made by searing.  
 __searing__ _adj_ /ˈsɪərɪŋ/  
 __seething__ _v_  
+__senescent__ _adj_ /si-NES-uhnt/ __1__ Growing old; aging. __2__ Deteriorating or decaying with the passage of time.  
 __shapeshift__ _vi_ (biology, fantasy, mythology) To change one’s shape or form (into another) through often magical means, normally applied only to living beings.  
 __shinny__ _vi_ To climb by shinning.  
 __shortlisted__  
@@ -803,10 +823,12 @@ __suppliant__ _n_ One praying humbly for something. _Syn_ petitioner, requester,
 __surety__ _n_  
 __surplice__  
 __suspicious__ _adj_ :es: desconfiado; sospechoso; suspicaz  
+__swarm__ _v_ Move in large numbers. _Syn_ pour, pullulate, teem, stream  
 __swedes__ _n_ :two::hammer: _I helped her mash the swedes._  
 __swill__ _v_ Drink large quantities of (liquid, especially alcoholic drink). _Syn_ swill down  
 __switchboard__  
 __swivel__ _v_  
+__sycophantic__ _adj_ /sik/sy-uh-FAN-tik/ Excessively flattering or fawning, especially in an attempt to win favor or gain advantage.  
 __tableau__ _n_ A picture, as of a scene.  
 __taciturn__ _adj_ /TASS-uh-tern/ _Taciturn_ is a formal word that describes someone who tends to be quiet or who tends to speak infrequently.  
 __tariff__ _n_ /ˈtær ɪf/  
@@ -841,6 +863,9 @@ __tummy__
 __two peas in a pod__  
 __tyranny__ _n_ :pencil2:  
 __uh-huh__  
+__unmindful__ _adj_ Failing to give due care or attention; inattentive. _Syn_ forgetful, mindless  
+__usurp__ _v_ /yoo-SERP/ To _usurp_ something (such as power) is to take and keep it by force and without the right to do so. _Usurp_ can also mean “to take the place of by or as if by force.”  
+__valiant__ _adj_ Having or showing valor. _Syn_ valorous  
 __whitelist<sup>1</sup>__ _n_ A list of people or organizations that have been approved to receive special considerations or privileges.  
 __whitelist<sup>2</sup>__ _vt_ To place on a whitelist.  
 __worn-out__ _adj_  
