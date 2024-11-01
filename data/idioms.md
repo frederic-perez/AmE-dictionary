@@ -1758,6 +1758,7 @@ __do-gooder__
 __do-rag__ A scarf, bandana, or similar item tied around the head as a covering. _Bob says he uses that do-rag to keep his hair out of his face while he mows the lawn._  
 __doctors make the worst patients__ :two: _proverb_ It is difficult to give people help or advice on something in which they are professionals, because they often feel as though they already know better than anyone else how to handle the situation or perform a given task. _Mary tried to convince her boss at the bank to see a credit advisor about his growing debt, but he kept insisting that he knew how to manage his money. Doctors make the worst patients._  
 __dodge a bullet__ :three: To narrowly avoid something or some situation that turns out to be undesirable, disastrous, dangerous, or otherwise harmful. _I really dodged the bullet when my exam was postponed to next week, as I hadn’t studied for it at all!_  
+__dodge__ :three::smiling_imp: /dɑdʒ/ A swindle; a scam; a deception. _What sort of dodge did you get flimflammed with?_  
 __doesn’t hold water__ Not true or not reasonable.  
 __dog and pony show__ a presentation which designed to impress an audience but has no real content.  
 __dog day afternoon__ An afternoon in the part of the summer often thought to be hottest, usually considered to be July 3 to August 11. As such, it is often related to feelings of lethargy. In ancient times, people associated the heat during this period with the concurrent rising of Sirius, nicknamed “the dog star.” _As a kid, I loved lounging in the swimming pool on dog day afternoons._  
@@ -1772,8 +1773,10 @@ __doggone__ A mild substitution for “goddamn” or “damn.” _I have so much
 __dole out__  
 __doll up__  
 __dolled up to the nines__  
+__don’t ask__  
 __don’t call us, we’ll call you__ :two: _cliché_ Do not be in further contact with us regarding your application/submission/inquiry/etc., we will contact you if we wish to proceed further (generally meaning that no such contact should be expected). _Thank you for your interesting submission to our fiction department. We’ll think it over for now—don’t call us, we’ll call you._  
 __don’t count your chickens before they hatch__ :dart::three: (don’t count your chickens before they’re hatched) Don’t make plans based on future events that might not happen. _When my mom heard that I was preparing my campaign before even being nominated, she warned me, “Don’t count your chickens before they’re hatched. Why are you begging to drive my car to school tomorrow when you still need to take your license test in the morning? Don’t count your chickens before they’re hatched, babe!_  
+__don’t even think about it__ :two: _informal_ Used to tell someone in a forceful way that something is not allowed. _It’s illegal to park here. Don’t even think about it!_  
 __don’t get (one) started__ :five::hammer:  
 __don’t get mad, get even__ :dart: Channel your anger into revenge. _When I heard that a co-worker had stolen my idea and presented it as his own, all I could think was, “Don’t get mad, get even.”_  
 __don’t get me started__ :two: An exclamation of weariness or despair regarding a topic that has just been introduced and about which the speaker feels very strongly and (usually) has a negative opinion of.  
@@ -1787,6 +1790,7 @@ __don’t rock the boat__ Don’t say or do something that could upset a stable 
 __don’t shit a shitter__ (also don’t bullshit a bullshitter) A phr. meaning one can’t fool someone who deals in fooling others.  
 __don’t shoot the messenger__ :three: Don’t get angry at or punish someone who is simply delivering bad or undesirable news, as he or she is not responsible for it.  
 __don’t sweat it__ :two: _(American English, spoken)_ Don’t worry or stress about it. Used to tell somebody to stop worrying about something: _If we’re a few minutes late he’ll wait for us, so don’t sweat it._ _Don’t sweat small stuff._  
+__don’t worry, be happy__ The phrase “Don’t worry, be happy” has its origins in the teachings of the Indian spiritual master Meher Baba. He frequently used this expression in communications with his followers, particularly in the West, as a succinct message of encouragement and positivity. Meher Baba’s teachings emphasized the importance of maintaining a positive outlook.  
 __done and done__ :dart::two: Totally, unequivocally finished or finalized.  
 __done and dusted__ (mainly BRITISH)  
 __doofus__ _slang_ One who is stupid or foolish.  
@@ -1800,13 +1804,14 @@ __dote on (someone or something)__ To give a lot of love and attention to someon
 __double back__ To return to some thing or place after moving away from it, especially by following the same path taken when leaving. _I was walking to my car when I realized I’d forgotten my lunch on the kitchen counter and doubled back to get it._  
 __double down__ :seven: To significantly increase or strengthen effort, investment, or resolve toward some goal, strategy, or action so as to maximize the potential yield as a result.  
 __double entendre__ :two::hammer:  
+__double or quits__ A wager, undertaken after a previous wager, that stipulates two possible outcomes: if the winner of the previous wager wins again, they win twice the amount won in the previous wager; if they lose, they receive nothing. Primarily heard in UK.  
 __double talk__  
 __double whammy__ A situation in which two negative things happen at the same time or in rapid succession. _Jack suffered a double whammy when his car broke down the same day he lost his job._  
 __double-edged sword__ :three: Something that can be both beneficial and problematic.  
 __down for (something)__  
 __down in the mouth__ Visibly sad or depressed. _Molly’s been moping around all week, and I have no idea why she’s so down in the mouth._  
 __down the drain__ :three: Wasted or lost. This metaphoric term alludes to water going down a drain and being carried off.  
-__down the line__ :three: In the future.  
+__down the line__ :four: In the future.  
 __down the pike__ :dart: In the future. _I do want to get married, but down the pike, not any time soon._ _You can handle whatever comes down the pike._  
 __down the road__ _informal_ :five: In the future; later on. _I do want to get married, but down the road, not any time soon._  
 __down the toilet__ :two::hammer: _Three hours down the toilet._  
@@ -1817,15 +1822,17 @@ __down under__
 __down__ __1__ _v_ To eat or drink something very quickly. _Wow, you guys really downed that dish—I guess you liked it!_ _You downed a bottle of wine after swearing off alcohol for a month!_  
 __down-to-earth__ _adj_ :five: Sensible and realistic.  
 __downbeat__ __1__ Glum or pessimistic. _Michael used to be a cheery kid, but he been pretty downbeat lately._ __2__ _mod_ Cool; easygoing. (Compare this with upbeat.) _He is sort of a downbeat character—no stress._  
-__downer__ :two::hammer:  
+__downed on (someone)__  
+__downer__ :three::hammer:  
 __downtime__  
 __doxx (one)__  
 __doxxing__ :three: The act of making someone’s personal information (such as their address, phone number, social security number, etc.) available online, especially out of vengeance. _More and more people are finding themselves victims of doxxing, in which the personal details of their lives are exposed to the world._  
 __drag (one’s) ass__  
-__drag (one’s) feet__ :dart::five: To move slowly and reluctantly because one does not want to do something. _We can’t be late for the dentist, so quit dragging your feet and get in the car!_  
+__drag (one’s) feet__ :dart::six: To move slowly and reluctantly because one does not want to do something. _We can’t be late for the dentist, so quit dragging your feet and get in the car!_  
 __drag (someone) kicking and screaming__ :two: To force someone to go somewhere or do something against their will, especially when they protest against it vehemently and/or at great length. _I really thought Mike would be perfect for that job, but I had to drag him kicking and screaming into an interview for it._ _Every summer we drag our kids kicking and screaming to their grandparents’ house in the countryside._  
 __drag out__ __1__ To continue for an excessively long time. _This case has dragged out for months. When will it finally end?_ __2__ To cause something to continue for an excessively long time. In this usage, a noun or pronoun can be used between “drag” and “out.” _I wish management would quit dragging things out and just give someone the promotion already. Please don’t drag out your story any longer—get to the point!_  
 __dragon breath__ Particularly foul-smelling breath. _I know I tend to have dragon breath when I wake up, so I usually brush my teeth before I do anything else._ _My date was really attractive and very funny, but good lord, she had horrible dragon breath._  
+__drain from (someone or something)__ _The color has drained from him._  
 __drain the swamp__ To get rid of the root causes of problems, especially to rid politics and government of evils, such as corruption and bureaucracy.  
 __draw (something) to (someone’s) attention__ To inform someone of something. _Oh, I’ll draw your misconduct to your supervisor’s attention, don’t you worry._ _Don’t forget to draw the leak to the landlord’s attention._  
 __draw a blank__ :two: To fail to find or remember something.  
@@ -1840,7 +1847,8 @@ __dreamboat__ A very attractive or appealing person.
 __dreaming too big__ Setting goals or aspirations that are excessively ambitious, to the point where they may seem unrealistic or unattainable. _Many folks (read: Nvidia investors) are dreaming too big about how soon AI will truly revolutionize things._  
 __dress to the nines__ Wearing very fashionable or expensive clothes.  
 __dressed to kill__  
-__dressed to the nines__  
+__dressed to the nines__ :two::hammer:  
+__dried milk__ _n_ Dehydrated milk.  
 __drill in(to) (someone or something)__  
 __drink like a fish__ To drink too much alcohol.  
 __drive (one’s) pigs to market__ To snore. _I can’t get any sleep with Will driving his pigs to market every night—I think it’s time for him to see a doctor about his snoring._  
@@ -1854,11 +1862,13 @@ __drop a bomb__ :three: (drop the bomb) _informal_ To do or say something that i
 __drop a bombshell__ To announce shocking news.  
 __drop by__  
 __drop in the bucket__ :two: A very small or unimportant amount.  
+__drop in__ To visit someone casually or unexpectedly.  
 __drop out__  
 __drop the ball__ :dart::seven: To make a mistake, to fail.  
 __drum roll__  
 __drum roll, please__  
-__dry run__ :two: A practice session or test designed to identify and correct possible problems. _Let’s do a couple dry runs of your speech so you feel totally comfortable with it for tomorrow’s ceremony._  
+__drum up__  
+__dry run__ :dart::three: A practice session or test designed to identify and correct possible problems. _Let’s do a couple dry runs of your speech so you feel totally comfortable with it for tomorrow’s ceremony._  
 __Drynuary__ (Dry January) _Drynuary_ is when people abstain from drinking alcohol during the month of January, especially after the excesses of the holidays.  
 __duck and cover__  
 __duck__ :dart::two: __2__ _vt_ To avoid someone or something. _Clare is ducking her responsibility._ _Investment falls short and politicians duck social care reform (again)._ _Duck the blame._  
@@ -1868,8 +1878,9 @@ __dumb bunny__ Stupid, silly, or naïve person, usually used in an affectionate 
 __dumpster fire__ _slang_ A complete and utter disaster or a completely chaotic situation, likened to a fire in a dumpster, which quickly becomes uncontrollable. The phrase can be applied to both situations and people. _As you might imagine, a 17-1 loss was a dumpster fire._  
 __dupe__ :two: _v_ __1__ To deceive or trick one. _The student tried to dupe me with a letter on which he’d forged his mom’s signature._  
 __dust off__ :four::hammer:  
+__dwell (up)on (someone or something)__ :dart:  
 __dying to (do something)__ Eager and excited to do something. _The kids were dying to go on another roller coaster._  
-__dyke__  
+__dyke__ :two::hammer:  
 __dynamic duo__ :two: _cliché_ Two people often paired together whose unique traits, when combined, usually result in success or otherwise positive results.  
 __dynamite__ __1__ _n_ Anything potentially powerful: a drug, news, a person. _The story about the scandal was dynamite and kept selling papers for a month._ __2__ :dart: _mod_ Excellent; powerful. _I want some more of your dynamite enchiladas, please._  
 __each other__ _The Regent ordered nobles and peasantry to pardon each other._  
@@ -1891,7 +1902,7 @@ __eat shit__
 __eat, drink, and be merry__ A call for others to enjoy themselves, usually in the context of a party or other festive gathering. _Come on, people, this is a party—eat, drink, and be merry!_  
 __echo chamber__ :three::hammer:  
 __edge out__ :two: __1__ To surpass, overtake, or defeat someone or something, especially by a narrow margin or degree. A noun or pronoun can be used between “edge” and “out.”  
-__educated guess__  
+__educated guess__ :two: A thoughtful, well-reasoned guess; a guess with some basis in one’s knowledge.  
 __egghead__ _slang_ A derogatory term for an intelligent, studious person.  
 __EGOT__ An abbreviation for “Emmy, Grammy, Oscar, Tony,” referring to the rare feat of winning the major awards in television, music, film, and theater. _Elton John joins elite EGOT ranks with Emmy win. John is only the 19th person to have achieved EGOT status (Whoopi Goldberg, Viola Davis, and Mel Brooks are some of the others)._  
 __elbow grease__ :four: Hard physical effort. _I tend to rely on elbow grease and hotel room sinks._  
@@ -1907,11 +1918,13 @@ __end (something) on a high note__ :four: To finish, complete, or leave (somethi
 __end game__ :two::hammer:  
 __end of one’s rope__  
 __end of story__ :two: A phrase used to end a conversation or topic of discussion, especially when one wants to discourage debate. _I didn’t do anything wrong here, OK? End of story._  
+__end over end__ The idiom “end over end” describes a motion where an object is rotating forward in a series of flips or somersaults, typically along its longest axis. This is often used to describe how something like a tumbler, a ball, or a vehicle moves when it is flipping through the air or over the ground.  
 __end run__ :two: An evasive or diversionary action or maneuver around some obstacle or difficulty. An allusion to a play in American football, in which the carrier of the ball runs wide to evade the defensive line. _Many wealthy citizens try to perform an end run around their country’s tax laws by filtering their money in offshore accounts._  
 __end to end__ __2__ From the very beginning to the very end of something. _That film was excellent end to end!_  
 __endgame__ :three: The final stages of a process, development, or activity.  
 __engine room__ :two::dart: The main source of talent, power, or ability in a team or group, likened to the room that houses a ship’s engine. _Sarah is our engine room, so with her injured, I’m not sure how we’ll be able to win on Saturday._  
 __engross in (something)__ To capture and hold someone’s interest in something. A noun or pronoun can be used between “engross” and “in.” _Dad is engrossed in fixing the car, so he can’t talk right now._  
+__enjoy (oneself)__ To have fun.  
 __enmesh in (something)__  
 __enough (something) to choke Caligula’s horse__ A lot of something. The phrase likely mentions Caligula because the Roman emperor was known for his penchant for excess. _A: “Do you think I got enough balloons?” B: “Are you kidding? There are enough balloons here to choke Caligula’s horse!”_  
 __enough is enough__ :two: This situation needs to stop.  
@@ -1931,7 +1944,7 @@ __every cloud has a silver lining__ :seven: Used to say that there is something 
 __every dog has his/its day__  
 __every last one__  
 __every man for himself__ :dart:  
-__every other__ :three: Every second one in a series, as in _I’m supposed to take this pill every other day._ When something happens “every other week,” this means that it happens about once every two weeks. _We don’t win bigger events every other week._ _A new cartoon will be published every other Sunday._  
+__every other__ :four: Every second one in a series, as in _I’m supposed to take this pill every other day._ When something happens “every other week,” this means that it happens about once every two weeks. _We don’t win bigger events every other week._ _A new cartoon will be published every other Sunday._  
 __every rose has its thorn__ Nobody is perfect and every person is riddled with flaws. Even a flower as beautiful as the rose has certain flaws but that does not take away its beauty.  
 __every single one__ :two: Every individual person or item within a group, without exception. _This is going to be the hardest game we’ve played all year, so I need every single one of you giving it everything you’ve got!_  
 __every so often__ _adv_ :dart::eight: Sometimes; occasionally. _Every so often she visits her father._ _Josh does stop by the store every so often, but I haven’t seen him lately._  
@@ -1940,6 +1953,7 @@ __everything humanly possible__ Everything that is in the range of human powers.
 __everything under the sun__  
 __excuse my French__  
 __exert (oneself)__ To make a concerted effort to do something. Put oneself to strenuous effort.  
+__exhort (one) to (do something)__ To plead with one to do something.  
 __explore every avenue__ :two: To investigate or pursue every possible means to find a solution to a given problem or to achieve a desired outcome. _Right now, we are exploring every avenue to catch the perpetrator of this heinous crime._  
 __Exterminating Angel__  
 __extra pair of hands__ :two::dart: Additional help or assistance provided by another person. _I think we need to hire an extra pair of hands to help clean the house and mind the children._ _Don’t you want to hire an extra pair of hands?_  
@@ -1950,17 +1964,18 @@ __f-bomb__
 __F-ing__  
 __face off__ __1__ _v_ To begin a competition or contest. _If you make it to the finals, you’ll have to face off against their best player._  
 __face the music__ :two::hammer:  
-__face to face__  
+__face to face__ :two: In direct contact, especially literally standing close together.  
 __face up (to someone or something)__ :dart: To confront with courage someone or something representing a threat or unpleasantness. _You are simply going to have to admit your mistake and face up to the boss._ _You must face up to the authorities if you have done something wrong._  
 __face value__ :two::hammer:  
 __factor in__  
 __fail epically__ _Fail epically_ can be used to describe a situation where someone fails in a grand or memorable way, or in modern slang, to describe a complete and utter failure.  
 __fail miserably__ To fail in a very bad or humiliating way. It is often used to describe a situation where someone has tried their best but was not able to achieve their goal.  
+__fail to deliver__ A situation in which a buyer, or, more commonly, his/her broker does not receive delivery of the securities he/she bought by the settlement date.  
 __failing to prepare is preparing to fail__ Adage attributed to Benjamin Franklin which means that one should always be prepared for any situation or task they may face. It is a reminder that being adequately prepared is key to success and that failing to do so can lead to failure.  
 __failure is not an option__  
 __faint of heart__ :three: Lacking the courage to face something difficult or dangerous—usually used in the phrase _not for the faint of heart_.  
 __fair and square__ :three: Completely fair(ly); justly; within the rules. _She won the game fair and square._ _The division of the money should be fair and square._  
-__fair enough__ _informal_ :two: __1__ Used for accepting a suggestion, etc. _I think £200 is a reasonable price. Fair enough. Can I pay you at the end of the week?_ __2__ Used for showing that you think that something is reasonable. _Letting the students work the machines on their own is fair enough, but they do need some training first._  
+__fair enough__ _informal_ :three: __1__ Used for accepting a suggestion, etc. _I think £200 is a reasonable price. Fair enough. Can I pay you at the end of the week?_ __2__ Used for showing that you think that something is reasonable. _Letting the students work the machines on their own is fair enough, but they do need some training first._  
 __fair game (for something)__  
 __fair game__ :four: Legitimately or permissibly targeted for something, such as criticism, use, or discussion. _As the youngest sibling, I’m always fair game for mockery at family events._  
 __fair-weather fan__ :two: A person who is supportive of and enthusiastic about a sports team only when that team is performing well. _I°ve been rooting for the home team in their playoff run, but I’ll admit I’m just a fair-weather fan._  

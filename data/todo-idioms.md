@@ -128,31 +128,6 @@ __dig and poke around__ The idiom “dig and poke around” generally means to s
 __disabuse (someone or oneself) of (something)__  
 __discretion is the better part of valor__ _proverb_  
 __do the trick__ To do, accomplish, or fulfil exactly what is needed or sought after. _The recipe calls for pancetta, but I think this regular bacon should do the trick._  
-__dodge__ :three::smiling_imp: /dɑdʒ/ A swindle; a scam; a deception. _What sort of dodge did you get flimflammed with?_  
-__don’t ask__  
-__don’t even think about it__ :two: _informal_ Used to tell someone in a forceful way that something is not allowed. _It’s illegal to park here. Don’t even think about it!_  
-__don’t worry, be happy__ The phrase “Don’t worry, be happy” has its origins in the teachings of the Indian spiritual master Meher Baba. He frequently used this expression in communications with his followers, particularly in the West, as a succinct message of encouragement and positivity. Meher Baba’s teachings emphasized the importance of maintaining a positive outlook.  
-__double or quits__ A wager, undertaken after a previous wager, that stipulates two possible outcomes: if the winner of the previous wager wins again, they win twice the amount won in the previous wager; if they lose, they receive nothing. Primarily heard in UK.  
-__down the line__ In the future.  
-__downed on (someone)__  
-__downer__  
-__drag (one’s) feet__  
-__drain from (someone or something)__ _The color has drained from him._  
-__dressed to the nines__  
-__dried milk__ _n_ Dehydrated milk.  
-__drop in__ To visit someone casually or unexpectedly.  
-__drum up__  
-__dry run__ A practice session or test designed to identify and correct possible problems.  
-__dwell (up)on (someone or something)__ :dart:  
-__dyke__  
-__educated guess__ A thoughtful, well-reasoned guess; a guess with some basis in one’s knowledge.  
-__end over end__ The idiom “end over end” describes a motion where an object is rotating forward in a series of flips or somersaults, typically along its longest axis. This is often used to describe how something like a tumbler, a ball, or a vehicle moves when it is flipping through the air or over the ground.  
-__enjoy (oneself)__ To have fun.  
-__every other__ Alternating. _Every other week._  
-__exhort (one) to (do something)__ To plead with one to do something.  
-__face to face__ In direct contact, especially literally standing close together.  
-__fail to deliver__ A situation in which a buyer, or, more commonly, his/her broker does not receive delivery of the securities he/she bought by the settlement date.  
-__fair enough__  
 __fall off the perch__ _BrE_ _old-fashioned, informal_ (fall off your perch) If someone falls off the perch or falls off their perch, they die. Note: A perch is a pole, branch or other place where a bird sits to rest. _He fell off the perch years ago._ Note: Other verbs such as drop or topple can be used instead of fall. _He’ll topple off his perch one morning. You know how it is._ Note: This expression is used humorously.  
 __famous last words__ A statement or claim that is promptly undone or disproved. This phrase is often humorously or preemptively. A reference to the final words one says before one dies. _A: “I can’t believe the ER has been so quiet today!” B: “Ugh, famous last words for sure.”_  
 __fancy__ _informal_ __2__ To have a desire for (something).  
