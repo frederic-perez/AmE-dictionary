@@ -811,31 +811,6 @@ __succor__ _n_ /SUCK-er/ _Succor_ is a literary term meaning “something that y
 __suffocate__ _v_  
 __Sufism__ _n_ The beliefs and practices of an ascetic, retiring, and mystical sect in Islam.  
 __sultry__ _adj_ __3__ Displaying or suggesting passion; sensual: _sultry eyes._  
-__sumac__ _n_ :three::hammer:  
-__summit__ _v_  
-__summons__ _n_  
-__sunder__ _v_  
-__superannuated__ _adj_ Retired or ineffective because of advanced age. _Syn_ over-the-hill, overaged  
-__superintendent__ _n_ :two: A rank in British police services and in most English-speaking Commonwealth nations. _A park superintendent._  
-__supersede__ _v_ /soo-per-SEED/ _Syn_ replace, displace  
-__supple__ _adj_ /ˈsʌpəl/ __1__ Bending easily without damage.  
-__suppliant__ _n_ One praying humbly for something. _Syn_ petitioner, requester, supplicant  
-__surety__ _n_  
-__surplice__  
-__suspicious__ _adj_ :es: desconfiado; sospechoso; suspicaz  
-__swarm__ _v_ Move in large numbers. _Syn_ pour, pullulate, teem, stream  
-__swedes__ _n_ :two::hammer: _I helped her mash the swedes._  
-__swill__ _v_ Drink large quantities of (liquid, especially alcoholic drink). _Syn_ swill down  
-__switchboard__  
-__swivel__ _v_  
-__sycophantic__ _adj_ /sik/sy-uh-FAN-tik/ Excessively flattering or fawning, especially in an attempt to win favor or gain advantage.  
-__tableau__ _n_ A picture, as of a scene.  
-__taciturn__ _adj_ /TASS-uh-tern/ _Taciturn_ is a formal word that describes someone who tends to be quiet or who tends to speak infrequently.  
-__tariff__ _n_ /ˈtær ɪf/  
-__tarp__ _n_ :two: Waterproofed canvas.  
-__tatty__ _adj_ Somewhat worn, shabby, or dilapidated.  
-__taunt<sup>1</sup>__ _n_  
-__taunt<sup>2</sup>__ _vt_ /tɔːnt/ __1__ To provoke or deride with mockery, contempt, or criticism. __2__ To tease; tantalize.  
 __teeter__ _vi_ :two: __1__ To move or sway unsteadily or unsurely; totter.  
 __teetotaler__ _n_ (teetotaller)  
 __tendril__ _n_ :es: zarzillo  
