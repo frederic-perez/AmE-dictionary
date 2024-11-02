@@ -11,7 +11,9 @@ __(the) next thing (one) knows__ (next thing you know)
 __(the) top of the line__ The absolute best of a certain thing, often referring to a product that is of the utmost quality (and usually the most expensive). When used as a noun, it is preceded by “the.” _That store only sells top of the line gear. You may want to consider some lower-priced options._  
 __a (whole) host of (something)__  
 __a balancing act__ :dart:  
+__a big if__  
 __a bum ankle/leg, etc.__ An injured ankle, leg, etc.  
+__a colf fish__  
 __a dab hand__ Someone who is skilled in a particular area. Primarily heard in UK, Australia.  
 __a far cry from (something)__  
 __a hell of a__ _informal_ (one hell of a) Used to emphasize something very bad or great. _You’re one hell of a package!_  
@@ -23,6 +25,7 @@ __a license to print money__ An activity, business model, or company that yields
 __a little from column A, a little from column B__ Having been formed from two distinct factors, elements, or reasons. _She asked me if I drew more from real life or from my imagination when writing; in truth, it’s a little from column A and a little from column B._  
 __a little leery__ :two: Cautious, wary, or uncertain of a given person, place, or thing. _To be honest, I’m a little leery of signing up for this deal; it sounds too good to be true._  
 __a long shot__ :dart::two::hammer:  
+__a mite__ :dart: To a small degree; somewhat: _That remark was a mite unfair._ _This sounds a mite grandiose._  
 __a piece of work__ :smiling_imp: A remarkably difficult, malicious, unpleasant, or objectionable person.  
 __a shiver down (one’s) spine__ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
 __a stone’s throw__ :two: A very short distance.  
@@ -31,7 +34,7 @@ __abound in__ To be abundant or plentiful with. _In the spring, the fields aboun
 __abound with__ To be brimming with something plentiful: _The lake by the cabin abounds with fish._  
 __according to (someone or something)__  
 __ace in the hole__ :two::hammer:  
-__across the board__  
+__across the board__ :two::hammer:  
 __ahead of (someone or something)__  
 __aid and abet__ To assist someone, usually in a mischievous or illegal activity.  
 __Aladdin’s cave__ The idiom “Aladdin’s cave” refers to a place filled with a vast collection of valuable, interesting, or unusual objects.  
@@ -81,6 +84,7 @@ __brazen out__ To face something, especially a difficult situation or an accusat
 __breach of etiquette__ A violation of established social norms or expectations, especially as relates to polite society or specific professions. _In an unexpected breach of etiquette, she announced her candidacy before the governor officially resigned._  
 __break a sweat__  
 __break even__  
+__bring to bear__  
 __bromance__  
 __brown sugar__ :dart: _slang_ Heroine.  
 __buckle up__  
@@ -91,6 +95,7 @@ __by and large__
 __by dint of (something)__ Due to something. The largely outdated word “dint” refers to force or effort. _By dint of hard work, I was able to get an A in my math class this semester._  
 __by no means__ Not in any way; not at all; absolutely not.  
 __call of nature__ The urge to urinate or defecate. _I have to attend to the call of nature._  
+__case in point__  
 __cash flow__  
 __cash poor__ Having very little fluid capital due to one’s financial wealth being derived from or invested in long-term assets. _I can’t afford transactions like that right now. All my wealth is tied up in real estate, so I’m a bit cash poor at the moment._  
 __cast in concrete__ Firmly or permanently established; not subject to change; unalterable.  
@@ -118,6 +123,7 @@ __corny__ :es: cursi, sensiblero
 __covet__ _v_ _You shall not covet your neighbor’s house; you shall not covet your neighbor’s wife, or anything that belongs to your neighbor._  
 __cranky__ Irritable; in a foul mood.  
 __creeper__  
+__crowd (one)__  
 __cut and dry__ The “idiom cut and dry” refers to something that is clear, straightforward, and unambiguous. It describes situations, decisions, or outcomes that are easily understood and leave little room for doubt or interpretation.  
 __cut bait__  
 __cut eyes at (someone or something)__ To look at someone or something quickly.  
@@ -128,6 +134,8 @@ __dig and poke around__ The idiom “dig and poke around” generally means to s
 __disabuse (someone or oneself) of (something)__  
 __discretion is the better part of valor__ _proverb_  
 __do the trick__ To do, accomplish, or fulfil exactly what is needed or sought after. _The recipe calls for pancetta, but I think this regular bacon should do the trick._  
+__draw water__  
+__drum into__ :es: hacer aprender a la fuerza; machacar  
 __fall off the perch__ _BrE_ _old-fashioned, informal_ (fall off your perch) If someone falls off the perch or falls off their perch, they die. Note: A perch is a pole, branch or other place where a bird sits to rest. _He fell off the perch years ago._ Note: Other verbs such as drop or topple can be used instead of fall. _He’ll topple off his perch one morning. You know how it is._ Note: This expression is used humorously.  
 __famous last words__ A statement or claim that is promptly undone or disproved. This phrase is often humorously or preemptively. A reference to the final words one says before one dies. _A: “I can’t believe the ER has been so quiet today!” B: “Ugh, famous last words for sure.”_  
 __fancy__ _informal_ __2__ To have a desire for (something).  
@@ -138,6 +146,7 @@ __filled to the brim__
 __first come, first served__ The first people present will be the first to receive something, often something that is available in limited quantities.  
 __fit the bill__  
 __floor (one)__  
+__flop__ _The film was a flop._  
 __flying squad__ _n_ A small group of police, soldiers, etc, ready to move into action quickly.  
 __fold__ :two: _informal_ __1__ Of a business, to fail or close; to cease to do business.  
 __follow suit__  
@@ -216,6 +225,7 @@ __go with (someone or something)__
 __go with the flow__ To act as others are acting, conforming to common behavior patterns with an attitude of calm acceptance.  
 __go with the territory__ To typically accompany a certain situation; to be a usual consequence or related issue. _When you’re the boss, staying late at the office just goes with the territory._  
 __God rest someone’s soul__ May God bless a previously mentioned person who has died. _I remember what my mother, God rest her soul, used to say about that._  
+__golden hammer__ See _Maslow’s hammer_.  
 __golden__  
 __good grief__ :dart::two: An expression of surprise or frustration. _Oh, good grief—my car won’t start again._  
 __good riddance__ :dart::two: An expression used when one is pleased that someone or something is leaving or stopping. A shortened version of the phrase “good riddance to bad rubbish.” _Well, I didn’t want to talk to you anyway, so good riddance!_  
@@ -230,6 +240,7 @@ __grass__ _slang_ __1__ Marijuana.
 __graze on (something)__ __1__ Of animals, to eat the greens or vegetables in a particular area or location. _I put up a fence to try to keep the deer from grazing on my land._  
 __grease monkey__ A mechanic, especially one who works on aircraft or automobiles.  
 __green thumb__  
+__growing pains__ __2__ By extension, the troubles or difficulties experienced by new companies or organizations as they enter into business or become established.  
 __haggle over (something)__  
 __hairpin bend__ :two: A very sharp, approximately 180° bend in a road.  
 __hanker for (something)__ To have a very strong, persistent desire or craving for something. _It is not something to hanker for._  
@@ -403,7 +414,7 @@ __keester__ _slang_ The buttocks or anus. Often used figuratively. _OK, kids, ge
 __key up__  
 __kick up__  
 __kids will be kids__ Kids behave childishly or immaturely by nature, so it is unrealistic to expect otherwise.  
-__kind of__ _informal_ Used with adjectives, adverbs and verbs when something is difficult to describe or when the word you use is not exactly what you mean. _She kind of smiled at me._  
+__kind of__ :two: _informal_ Used with adjectives, adverbs and verbs when something is difficult to describe or when the word you use is not exactly what you mean. _She kind of smiled at me._  
 __king of the castle__ The most powerful, successful, or authoritative person in a group or organization.  
 __kitchen-sink__ Showing or pertaining to the lives of common, everyday people. (Always used before a noun.)  
 __knee-jerk reaction__ Any spontaneous, reflexive, and unthinking reaction or response.  
@@ -463,7 +474,9 @@ __level the playing field__ To make a situation or activity more fair and balanc
 __lick (one’s) wounds__  
 __lie to__ __2__ (Nautical) Of a sailing vessel, to remain stationary while facing the wind. _Make sure the ship lies to during the storm so as not to capsize._  
 __life, the universe, and everything__ The question that pan-dimensional space-beings asked the computer Deep Thought in Douglas Adams’s book, _The Hitchhiker’s Guide to the Galaxy._ The computer took millions of years and came up with the answer 42. _Balancing risks is life, the universe, and everything._  
+__lift the veil (on something)__ To divulge, explain, or reveal something that was previously a secret. _Our hope is that this expedition will lift the veil on the secrets of the ancient king’s tomb._  
 __lift__  
+__lightning fast__  
 __like (one’s) life depends on it__ With maximum, possibly desperate, effort or energy (i.e., as if one is at risk of losing one’s life if one fails). _The boxer started the third round throwing punches like his life depended on it._  
 __like a chicken with the pip__ In low spirits; in a weak or sickened state or manner. _Poor little Johnny’s been feeling like a chicken with the pip lately. I think he must have picked up a bug at school._  
 __like a fish out of water__ :two::hammer:  
@@ -507,6 +520,7 @@ __make (both) ends meet__
 __make (one’s) eyes pop (out)__  
 __make (one’s)/the rounds__  
 __make (something) clear (to one)__ :two:hammer:  
+__Maslow’s hammer__ :dart: The inability to recognize other possible outcomes or solutions if one relies too much on a particular tool, method, or mindset. The term refers to 20th-century psychologist Abraham Maslow and his idea that “If all you have is a hammer, everything looks like a nail.” Also known as the “golden hammer,” and “the law of the instrument.”  
 __mixed feelings__  
 __mixed message__  
 __mm-hmm__ _informal_ Yes; yeah. A verbal expression used to express agreement or acknowledgement. Formed by intoning “uh-huh” with a closed mouth.  
@@ -536,6 +550,7 @@ __need to be done__ To be required to be completed or acted upon.
 __needless to say__ Obviously implied, no explanation needed.  
 __nepo friend__ _n_ /nep-oh frend/ (nepo-friend) The slang term nepo friend refers to a person who is thought to benefit from having a famous or influential friend. The term nepo friend is often used to imply that someone is only famous or successful because of their association with a famous person. The term may be used playfully, but it is often at least mildly negative.  
 __Nervous Nellie__ /nuhr-vuhs NEL-ee/(nervous Nellie/Nelly) Any nervous person, male or female. Someone who is more timid, nervous, or anxious than is normal or reasonable.  
+__not pay (something) any mind__  
 __not so fast__ :three::hammer:  
 __not worth the paper it’s written on__ Useless; unimportant; insignificant.  
 __note so self__  
@@ -574,6 +589,7 @@ __on and off__
 __on paper__ __2__ Hypothetically or in theory.\_ It’s a good idea on paper, but I don’t think it would work in a real-world environment.\_  
 __on par (with someone or something)__  
 __on the back burner__ Of a low priority; given less or little thought or attention; postponed or suspended.  
+__on the blink__ __1__ _slang_ Not working correctly; acting strangely; malfunctioning. _Our washer is on the blink, so I’m on my way to the laundromat._ __2__ _slang_ Drunk. _Do you remember last night at the bar at all? You were really on the blink!_  
 __on the brink of (something)__ :two::hammer:  
 __on the contrary__  
 __on the edge of (one’s) seat__  
@@ -597,6 +613,7 @@ __once in a blue moon__ Very rarely.
 __one size fits all__ :two::hammer:  
 __one way or another__  
 __one-off__ :three::hammer:  
+__oops-a-daisy__ An exclamation of surprise or apology, as after doing something clumsy. _Oops-a-daisy! Dang it, I can’t believe I broke my favorite vase!_  
 __open the door for (someone or something)__  
 __other than (something)__ (other than that) Besides or excluding something. _Other than having a view of the parking lot, his apartment is great._  
 __out of (one’s) hair__ No longer pestering or annoying to one; not one’s responsibility or burden any longer. _I’ve gotten the kids out of my hair for a few hours so I can go and get a relaxing massage by myself._  
@@ -610,6 +627,7 @@ __peck at__
 __peeper__ peeper__ One’s eye. (That is, what one uses to peep.) Typically used in the plural and often used to refer to the eyes of children. _Your baby girl has such beautiful peepers!_  
 __photobomb__  
 __pick up on (something)__ To detect or notice something; to become alert to or aware of something.  
+__pick up__  
 __pick-me-up__ :dart:  
 __pigheaded__ :smiling_imp: Incredibly stubborn, narrow-minded, and often ignorant or foolish. _He’s a nice guy most of the time, but he can be really pigheaded when it comes to certain things._  
 __pillow talk__  
@@ -622,6 +640,7 @@ __pissant<sup>1</sup>__ _n_
 __pissant<sup>2</sup>__ _adj_  
 __pitch (something) at__  
 __play havoc with (someone or something)__ To cause issues or disruptions for someone or something. _The road closures have played havoc with rush-hour traffic._  
+__play second fiddle__  
 __plop down__ _informal_ __1__ To sit or lie down in a heavy or careless way. _He plopped himself down in the chair._ __2__ To drop or place (something or someone) in a heavy or careless way. _He plopped the tray down._ __3__ _US_ To pay or spend (money). _I can’t afford to just plop down $30 for a T-shirt._  
 __plunger__ _n_ /ˈplʌndʒə/ __3__ _informal_ A reckless gambler.  
 __point the finger at (one)__  
@@ -656,6 +675,7 @@ __ride or die__ _n_ One’s closest, most reliable or trustworthy friends. _Liz 
 __roast__  
 __roll with the punches__  
 __rolling stone__  
+__rough it__ :es: vivir sin comodidades  
 __round and round__ :two::hammer: (around and around)  
 __rubberneck__  
 __rue the day (that something happened)__ :two: To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
@@ -672,12 +692,15 @@ __same shit, new wrapping__ Colloquial expression that conveys the idea that som
 __save (one’s) bacon__  
 __says who__  
 __scare the crap out of (one)__ _rude slang_ To shock or frighten one very suddenly or severely. Hyperbolically alludes to frightening one so badly as to cause them to lose bowel control.  
+__scare the shit out of (one)__ :astonished: _rude slang_ To shock or frighten one very suddenly or severely. (Hyperbolically alludes to frightening someone so badly as to cause them to lose control of their bowels.) _Don’t sneak up on me like that, you scared the shit out of me!_  
 __scheme for (something)__ To form or contrive a secret or devious plan or conspiracy in order to obtain, achieve, or accomplish something. _We spent the afternoon scheming for a way to get into the elite Hollywood party so we could meet some celebrities._  
 __scrape by__  
 __scumbag__ :smiling_imp:  
 __see (one) in the flesh__ To see one in person who is usually only seen at a distance, especially through a medium such as film, music, theater, etc. _After years of idolizing the singer, it was a bit anticlimactic seeing her in the flesh._  
 __see fit__ :dart: Deem appropriate, as in _He’s entitled to divide up his property as he sees fit_, or _If we see fit to attend, we’ll be there._  
 __seep in(to something)__  
+__seize the day__ To take the opportunity to do something at the present moment without worrying about the future. _This is our time. Let’s seize the day! We may never get a chance to do this again._  
+__seize the hour/day__ Take advantage of the moment, enjoy the here and now. This phrase is a translation of the ancient Roman adage _Carpe diem_, first stated by Horace in one of his _Odes_ (ca. 23 b.c.). Actually, the full statement added _quam minimum credula postero_, trust the future as little as possible.  
 __serve (one’s) time__  
 __set a camp__  
 __set eyes on something__  
