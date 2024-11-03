@@ -1,6 +1,6 @@
 __(as) good as dead__  
 __(as) quick as a bunny__ Incredibly quickly or speedily. _Quick as a bunny, Mary finished her exam and raced out of the classroom._  
-__(it’s) (a)bout time__ :dart:  
+__(it’s) (a)bout time__ :dart::two:  
 __(it’s) just as well (that) (something happened)__ It is or turned out to be beneficial (that something happened). _It turned out we had a pop quiz on Monday. Just as well I was studying this weekend!_  
 __(it’s) little wonder__ It is not at all surprising (that something is the case). _I was always terrible at math in school, so it’s little wonder that I have such trouble filing my taxes._  
 __(just) for the fun of it__  
@@ -15,6 +15,7 @@ __a big if__
 __a bum ankle/leg, etc.__ An injured ankle, leg, etc.  
 __a colf fish__  
 __a dab hand__ Someone who is skilled in a particular area. Primarily heard in UK, Australia.  
+__a different kettle of fish__ :dart: Any issue or matter that is entirely different in scope, description, or nature from that which was just being discussed.  
 __a far cry from (something)__  
 __a hell of a__ _informal_ (one hell of a) Used to emphasize something very bad or great. _You’re one hell of a package!_  
 __a joy to behold__ A thing, event, or experience that creates a profound sense of joy or elation in the spectator. _The spring flowers in this part of the country are truly a joy to behold._  
@@ -24,6 +25,7 @@ __a legend in (one’s) own mind__ A person who affects or believes that they ar
 __a license to print money__ An activity, business model, or company that yields very high profits but requires little or no effort to do so. _All these hefty parking fees and fines are just a license to print money for the city._  
 __a little from column A, a little from column B__ Having been formed from two distinct factors, elements, or reasons. _She asked me if I drew more from real life or from my imagination when writing; in truth, it’s a little from column A and a little from column B._  
 __a little leery__ :two: Cautious, wary, or uncertain of a given person, place, or thing. _To be honest, I’m a little leery of signing up for this deal; it sounds too good to be true._  
+__a load of bunk__ :es: tontería  
 __a long shot__ :dart::two::hammer:  
 __a mite__ :dart: To a small degree; somewhat: _That remark was a mite unfair._ _This sounds a mite grandiose._  
 __a piece of work__ :smiling_imp: A remarkably difficult, malicious, unpleasant, or objectionable person.  
@@ -39,6 +41,7 @@ __ahead of (someone or something)__
 __aid and abet__ To assist someone, usually in a mischievous or illegal activity.  
 __Aladdin’s cave__ The idiom “Aladdin’s cave” refers to a place filled with a vast collection of valuable, interesting, or unusual objects.  
 __all hell broke loose__ All sorts of wild or terrible things happened. _When the boss left early for the weekend, all hell broke loose._  
+__an eye for an eye__  
 __as we speak__  
 __bare metal__ Computer hardware without an operating system. _Right now, my new computer is bare metal, and I can’t wait to build it and configure it just the way I want._  
 __bargain for (someone or something)__  
@@ -74,6 +77,7 @@ __bits and pieces__ Sundry little items, tasks, or chores.
 __black tie__ Dress ccde (slightly less formal than _white tie_) typically allowing men to wear tuxedos or dinner jackets and women to wear cocktail dresses and long dresses.  
 __bland__ _adj_  
 __blast to kingdom come__ :es: hacer saltar en pedacitos  
+__bleeding heart__ In the USA people with right-wind or conservative opinions use this phrase to refer pejoratively to those who have liberal sympathies.  
 __blow a gasket__ To react furiously or violently, to the point of losing control of one’s behavior. _Mom totally blew a gasket when I told her I had failed math._  
 __boil (something) down to (something)__ To reduce or simplify something to the most basic, essential, or fundamental element(s).  
 __bona fide__  
@@ -94,6 +98,7 @@ __by and by__ :dart: __1__ _adv_ After a short or undetermined period of time. _
 __by and large__  
 __by dint of (something)__ Due to something. The largely outdated word “dint” refers to force or effort. _By dint of hard work, I was able to get an A in my math class this semester._  
 __by no means__ Not in any way; not at all; absolutely not.  
+__call (one) names__  
 __call of nature__ The urge to urinate or defecate. _I have to attend to the call of nature._  
 __case in point__  
 __cash flow__  
@@ -113,6 +118,7 @@ __coin__ _slang_ Money.
 __come a long way__  
 __come and gone__ The idiom “come and gone” refers to something that has arrived and then passed or ended. It often implies that a particular time, opportunity, or event has occurred and is now over, suggesting a sense of finality or missed chances.  
 __come around__ __1__ To change one’s view or opinion of someone or something.  
+__come on to (one)__ To flirt with or otherwise show romantic or sexual interest in one. :es: intentar ligarse a  
 __come to a close__ To reach an end point.  
 __come to grips__  
 __come to terms with (someone or something)__  
@@ -121,9 +127,11 @@ __contend with (someone or something)__
 __coochie__  
 __corny__ :es: cursi, sensiblero  
 __covet__ _v_ _You shall not covet your neighbor’s house; you shall not covet your neighbor’s wife, or anything that belongs to your neighbor._  
+__crackerjack__  
 __cranky__ Irritable; in a foul mood.  
 __creeper__  
 __crowd (one)__  
+__cut (one’s) teeth__ :dart: To gain experience with something, especially at a young age (when one’s teeth would be coming in). _That part-time administrative position allowed me to cut my teeth in the world of Human Resources._  
 __cut and dry__ The “idiom cut and dry” refers to something that is clear, straightforward, and unambiguous. It describes situations, decisions, or outcomes that are easily understood and leave little room for doubt or interpretation.  
 __cut bait__  
 __cut eyes at (someone or something)__ To look at someone or something quickly.  
@@ -134,15 +142,19 @@ __dig and poke around__ The idiom “dig and poke around” generally means to s
 __disabuse (someone or oneself) of (something)__  
 __discretion is the better part of valor__ _proverb_  
 __do the trick__ To do, accomplish, or fulfil exactly what is needed or sought after. _The recipe calls for pancetta, but I think this regular bacon should do the trick._  
+__downer__ :es: tranquilizante  
 __draw water__  
 __drum into__ :es: hacer aprender a la fuerza; machacar  
+__engage (one) as (something)__ To hire someone for a particular role or job. _I thought they were just going to engage me as a file clerk, but because they needed help with data entry, I wound up doing that instead._ :es: contratar  
 __fall off the perch__ _BrE_ _old-fashioned, informal_ (fall off your perch) If someone falls off the perch or falls off their perch, they die. Note: A perch is a pole, branch or other place where a bird sits to rest. _He fell off the perch years ago._ Note: Other verbs such as drop or topple can be used instead of fall. _He’ll topple off his perch one morning. You know how it is._ Note: This expression is used humorously.  
 __famous last words__ A statement or claim that is promptly undone or disproved. This phrase is often humorously or preemptively. A reference to the final words one says before one dies. _A: “I can’t believe the ER has been so quiet today!” B: “Ugh, famous last words for sure.”_  
 __fancy__ _informal_ __2__ To have a desire for (something).  
+__fat chance__ Said of something that is unlikely to happen. :es: vaga posibilidad  
 __few and far between__ :two::hammer:  
 __figure of speech__ A form of expression in language, either spoken or written, that employs nonliteral meaning, unusual construction, or a particular combination of sounds to emphasize or heighten the rhetorical effect. _Bob: “Does eating an apple a day really keep doctors away from you?” Doug: “Don’t take it so literally, Bob, it’s just a figure of speech.”_  
 __fill the gap__  
 __filled to the brim__  
+__fire and brimstone__ __1__ _n_ The misery that one faces in hell. _Unrepentant criminals better prepare themselves for fire and brimstone after death._  
 __first come, first served__ The first people present will be the first to receive something, often something that is available in limited quantities.  
 __fit the bill__  
 __floor (one)__  
@@ -169,6 +181,7 @@ __from bad to worse__
 __full-fledged__  
 __fussbudget__ :dart: _informal_ One who tends to be fussy or particular, usually to an excessive or unnecessary degree. Primarily heard in US. _Don’t be such a fussbudget, huh? This really isn’t a big deal._ _Of course Vanessa found some miniscule issue that no one else would have noticed. She’s such a fussbudget._  
 __gain momentum__ (gather momentum) To move faster. _The wagon gathered/gained momentum as it rolled down the hill._  
+__gallows humor__ :dart: Humorous treatment of a grave or dire situation. :es: humor negro  
 __get (one, something) out of the system__  
 __get (one’s) bearings__  
 __get (something) out of (one’s) system__ __2__ To do something so that one no longer has the desire to do it anymore. _I got drinking and partying out of my system during college. I’m ready for a quieter life now._  
@@ -205,6 +218,7 @@ __go bust__ :two: To experience financial failure or ruin, often as of a busines
 __go cold__ _The bonnet beneath had gone cold._  
 __go down the rabbit hole__  
 __go down the toilet__ To fail; to be ruined or destroyed; to be squandered or wastefully discarded.  
+__go down well__ To be well-received, as by a group or audience. :es: ser bien recibido; gustar  
 __go figure__  
 __go for (something)__  
 __go Galt__  
@@ -359,6 +373,7 @@ __ink__ _slang_ __4__ _v_ To sign one’s name to (something); to formalize and 
 __ink-slinger__ _slang_ A writer, especially one who produces a large amount of low-quality material for a living.  
 __inner circle__  
 __insofar as__ :two: To such an extent that; to the degree that. _Insofar as money is concerned, our project will be completely funded by private donations._  
+__inveigle (someone) into (something)__ :smiling_imp: To trick or deceive someone into doing something. _I’m just worried that she’s using the kids to inveigle you into marrying her._  
 __iron grip__ __2__ Total, dominant control (over someone or something).  
 __it ain’t over till/until the fat lady sings__  
 __it goes without saying__ :two::hammer:  
@@ -520,6 +535,7 @@ __make (both) ends meet__
 __make (one’s) eyes pop (out)__  
 __make (one’s)/the rounds__  
 __make (something) clear (to one)__ :two:hammer:  
+__make it__ __1__ To be successful.  
 __Maslow’s hammer__ :dart: The inability to recognize other possible outcomes or solutions if one relies too much on a particular tool, method, or mindset. The term refers to 20th-century psychologist Abraham Maslow and his idea that “If all you have is a hammer, everything looks like a nail.” Also known as the “golden hammer,” and “the law of the instrument.”  
 __mixed feelings__  
 __mixed message__  
@@ -574,6 +590,7 @@ __off-kilter__
 __oh boy__  
 __oh dear__ :dart: An expression of concern, surprise, or disappointment. _This place is on the 10th floor, and there’s no elevator? Oh dear._ _A car accident? Oh dear, is she OK?_  
 __oh my__ :dart:  
+__old coot__  
 __old school__  
 __on (one’s) (own) terms__ In the manner or timeframe that one prefers.  
 __on (one’s) feet__  
@@ -631,6 +648,7 @@ __pick up__
 __pick-me-up__ :dart:  
 __pigheaded__ :smiling_imp: Incredibly stubborn, narrow-minded, and often ignorant or foolish. _He’s a nice guy most of the time, but he can be really pigheaded when it comes to certain things._  
 __pillow talk__  
+__pin (one’s) hopes on (someone or something)__ To have expectations that are tied to the success, performance, etc., of a particular person or thing. _Why are we pinning our hopes on him when we know he’s not popular enough to defeat the incumbent?_ :es: tener las esperanzas puestas en  
 __pin down__  
 __pinch__ _slang_ :two: __1__ _v_ To steal something.  
 __pins and needles__  
@@ -776,6 +794,8 @@ __stir-crazy__ Acutely restless, irritable, or anxious from remaining for too lo
 __stone dead__ Dead; unquestionably dead; long dead. _The cat was stone dead and stiff as a board by the time we got to him._  
 __strike (one) dead__  
 __strike a (raw) nerve__  
+__sucker (one) in__ To con, swindle, or deceive someone.  
+__swept the board__  
 __take heart (from something)__ To receive courage or comfort from some fact. _I hope that you will take heart from what we told you today. Even though you did not win the race, take heart from the fact that you did your best. I told her to take heart and try again next time._  
 __take heart__ To have one’s confidence, courage, or happiness bolstered (by something). _We may have lost the election, but we take heart in the fact that so many young people are now engaged and excited about politics._  
 __take the fall (for someone or something)__  
@@ -789,11 +809,12 @@ __that very thing__ Exactly that. _Why, I was just looking for that very thing!_
 __the better part of (something)__ :dart::two: The majority of something. _I’m sorry I’m late—my doctor’s appointment took the better part of an hour._  
 __the golden rule__ :dart: The maxim that one should treat other people the way one would like to be treated, often expressed proverbially as “Do unto others as you would have them do unto you.” _My son wanted to steal the bike of a boy who stole his lunch money, so I told him that the only way to get along with people is to follow the golden rule._  
 __the greatest thing since sliced bread__ A humorous and hyperbolic statement indicating one’s belief that something is excellent, especially something new and innovative. _These waterproof jeans are the greatest thing since sliced bread. I don’t have to worry about getting soaked!_  
+__the law of the instrument__ See _Maslow’s hammer_.  
 __the lion’s den__  
 __the powers that be__ :dart::two:  
 __the upper crust__  
 __the upshot (of something)__ :dart::two: The final or resulting outcome, conclusion, or consequence (of something). _The upshot of this merger is that the company will now control nearly 50% of the world’s television networks._  
-__the works__  
+__the works__ :two::hammer:  
 __then again__  
 __there is something about__  
 __thick-skulled__ Stupid, dimwitted, or obtuse.  
@@ -811,6 +832,7 @@ __trigger-happy__ __2__ Having a tendency to do something or engage in or begin 
 __true colors__  
 __truss someone or something up__ To bind, tie, or bundle someone or something up. _The attendants trussed Walter up and took him to a padded cell._ _They trussed up Walter tightly._ _Ann trussed the bundle up and sent it off._  
 __truth is__ :three: The phrase “truth is” is often used to introduce a statement that conveys honesty or an important point that the speaker believes to be true. It serves to emphasize the authenticity or sincerity of what follows.  
+__try one’s hand__ _She tried her hand at journalism._ :es: probar  
 __twerp__  
 __twist the knife__ :smiling_imp: To add to, exacerbate, or amplify a betrayal or wrong by further malicious actions. _He said it was over, and then he twisted the knife and said he had never loved me._  
 __two peas in a pod__  
@@ -825,6 +847,7 @@ __what could (possibly) go wrong__
 __what could go wrong__  
 __what gives?__  
 __whatcha__ :dart: (watcha, wotcha, wotcher, what’cha, whatchya, whutcha) _colloquial_ __1__ Contraction of what are you. _Whatcha doin’?_ _Whatcha talking ’bout?_ _Whatcha sayin’?_ __2__ Contraction of what have you. _Whatcha been up to?_ __3__ Contraction of what do you. _Whatcha think?_ _Whatcha got there?_ _Whatcha wanna do now?_ __4__ Contraction of what you. _Do whatcha gotta do!_  
+__wheeler-dealer__  
 __white tie__ The most formal of all dress codes, requiring men to wear white bow ties and black tailcoats and women to wear evening or ball gowns.  
 __willy-nilly__ :two::hammer: [:scroll: This expression is a shortened form of ‘willing or not willing.’]  
 __wimp__ _slang_ Someone who is too nervous, afraid, or reserved to do anything too intense, extreme, or risky. _We’re all doing the bungie jump. Don’t be a wimp, Bob!_ :es: debilucho; parado  
