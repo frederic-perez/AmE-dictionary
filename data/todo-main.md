@@ -607,6 +607,7 @@ __perfunctory__
 __perjury__ _n_  
 __Perseid__ _n_ /ˈpɜːsɪɪd/ (Celestial Objects) Any member of a meteor shower occurring annually around August 12th and appearing to radiate from a point in the constellation Perseus.  
 __personal column__ _n_  
+__Perspex__ _n_ /ˈpɜːspɛks/ (Building) _trademark_ Any of various clear acrylic resins, used chiefly as a substitute for glass :es: pexiglás  
 __perspicacious__ _adj_  
 __pertussis__ _n_ :two: /pəˈtʌsɪs/ _(Pathology)_ The technical name for _whooping cough_.  
 __pessary__ _n_ /ˈpɛs ə ri/  
@@ -622,7 +623,9 @@ __pilfer__ _v_
 __pillbox__  
 __pillion passenger__ _n_ _Brit_ A person who travels in a seat or place behind the rider of a motorcycle, scooter, horse, etc. _As a learner rider you must not carry a pillion passenger._  
 __pillion__ _n_ A seat or place behind the rider of a motorcycle, scooter, horse, etc.  
+__pillowcase__ _n_ A removable covering for a pillow. Also called pillowslip. :es: funda de almohada  
 __pimple__ _n_ :es: espinilla  
+__pimply__ _adj_ /ˈpɪm pli/ Having many pimples.  
 __pip__ _n_ __1__ (Veterinary Science) A contagious disease of poultry characterized by the secretion of thick mucus in the mouth and throat. __2__ _facetious slang_ A minor human ailment.  
 __pitch<sup>1</sup>__ _n_ :es: (esp. _British_) campo, cancha  
 __pitch<sup>2</sup>__ _vt_  
@@ -714,6 +717,7 @@ __Rastafarian__ _adj, n_
 __rationalize__ _v_ __1__ To justify (one’s actions, esp discreditable actions, or beliefs) with plausible reasons, esp after the event.  
 __raving<sup>1</sup>__ _n_  
 __raving<sup>2</sup>__ _adj_ Delirious, irrational speech.  
+__real__ _adv_ :dart: _informal_ [In American English it is usual to drop the _-ly_ adverb ending from _really_ when used as an intensifier] Very. _I’m real sorry about that._ _Real quiet._  
 __rear__ _vt_ :two: __1__ To care for (children or a child) during the early stages of life; bring up. __2__ To tend (growing plants or animals). __3__ To build; erect.  
 __rear<sup>1</sup>__ _n_  
 __rear<sup>2</sup>__ _adj_  
@@ -726,7 +730,9 @@ __receptacle__ _n_ A device which is installed in an outlet box to receive a plu
 __reck<sup>1</sup>__ _n_ /rek/ Care or concern.  
 __reck<sup>2</sup>__ _v_ /rek/ To care or concern.  
 __reckless__ _adj_  
+__recluse__ _n_ :es: ermitaño  
 __recompense__ _n_  
+__recumbent__ _adj_  
 __red-hot__ _adj_ __2__ Heated, as with excitement, anger, or enthusiasm: _a red-hot speech._ _The red-hot property market._  
 __redleg__ _n_ /ˈrɛdˌlɛɡ/ _derogatory Caribbean_ A poor White person.  
 __redolent__  
@@ -759,6 +765,7 @@ __scapegoat__ _n_ /SKAYP-goat/
 __scathing__ _adj_ :es: mordaz, feroz  
 __sconce__ _n_ __1__ A small defensive earthwork or fort.  
 __scowl__ _v_ :two::hammer:  
+__scrapping__  
 __scrub nurse__ _n_ A specially trained nurse who directly assists a surgeon during an operation.  
 __scrub__ _n_ Dense vegetation consisting of stunted trees or bushes. _Syn_ chaparral, bush  
 __scuffle__ _v_  
@@ -784,9 +791,12 @@ __skewer<sup>2</sup>__ _vt_
 __skitter__ _v_  
 __skullduggery__ _n_ :smiling_imp: Dishonorable proceedings.  
 __slag__ _v_ _Slagged by fire._  
-__sleazy__ _adj_ /ˈsli zi, ˈsleɪ zi/  
+__sleazy__ _adj_ :two::hammer: /ˈsli zi, ˈsleɪ zi/  
 __slew__ _v_ _The truck slewed left and right._  
+__slickly__ _adv_ __1__ With superficial plausibility. _Syn_ glibly :es: hábilmente __2__ Skilfully. :es: impecablemente  
 __slight__ _adj_ /slaɪt/  
+__slipper__ _n_ :es: zapatilla  
+__slippers__ _n pl_ :es: pantuflas  
 __slither__ _vi_  
 __slob__ _n_  
 __slovenly<sup>1</sup>__ _adj_ :astonished: _The slovenly living room._  
@@ -796,12 +806,16 @@ __smolder__ _vi_ __1__ To burn with little smoke and no flame. _Luke saw the smo
 __smugly__ _adv_  
 __stakeout__  
 __station__ _n_ :es: comisaría  
+__stemware__ _n_  
+__strife__  
 __string__ _n_ _The string of the tea bag._  
 __stringent__ _adj_  
 __strobing__ _n_ A brief flashing on and off, as of a stroboscopic lamp.  
 __strong__ _n_ __18__ Having a specified number of units or members: _a military force 100,000 strong._  
 __stub__ _n_ __1__ The usually short end remaining after something bigger has been used up: _a pencil stub; a cigarette stub._  
 __stuffy__ _adj_ :dart:  
+__stump__ _v_ _Walking makes your brain work a little bit better, helping you crack problems that stumped you while sitting._  
+__stumped__ _adj_ _Syn_ baffled, perplexed, at a loss, floored (informal), at sea, stymied, nonplussed, flummoxed  
 __stunted__ _adj_ Prevented from growing or developing. _Stunted genitalia._  
 __sturdy__ _adj_  
 __subcontinent__ _n_  
@@ -810,7 +824,9 @@ __succinctly__ _adv_ With concise and precise brevity; to the point. _Syn_ compa
 __succor__ _n_ /SUCK-er/ _Succor_ is a literary term meaning “something that you do or give to help someone who is suffering or in a difficult situation.”  
 __suffocate__ _v_  
 __Sufism__ _n_ The beliefs and practices of an ascetic, retiring, and mystical sect in Islam.  
+__suit__ _n_ Lawsuit.  
 __sultry__ _adj_ __3__ Displaying or suggesting passion; sensual: _sultry eyes._  
+__taunt__ _v_  
 __teeter__ _vi_ :two: __1__ To move or sway unsteadily or unsurely; totter.  
 __teetotaler__ _n_ (teetotaller)  
 __tendril__ _n_ :es: zarzillo  
@@ -838,20 +854,27 @@ __tummy__
 __two peas in a pod__  
 __tyranny__ _n_ :pencil2:  
 __uh-huh__  
+__undertones__ _n_ :es: trasfondo  
 __unmindful__ _adj_ Failing to give due care or attention; inattentive. _Syn_ forgetful, mindless  
 __usurp__ _v_ /yoo-SERP/ To _usurp_ something (such as power) is to take and keep it by force and without the right to do so. _Usurp_ can also mean “to take the place of by or as if by force.”  
 __valiant__ _adj_ Having or showing valor. _Syn_ valorous  
+__wallow__ _n_ :es: regodeo  
 __whitelist<sup>1</sup>__ _n_ A list of people or organizations that have been approved to receive special considerations or privileges.  
 __whitelist<sup>2</sup>__ _vt_ To place on a whitelist.  
+__wiggle__ _n_ _Marylin Monroe’s wiggle down the platform in_ Some Like it Hot.  
+__wooden__ _adj_ :astonished: __1__ Made or consisting of wood. __2__ Stiff and unnatural; without spirit: _a wooden performance; a wooden smile._ __3__ Clumsy and awkward; ungainly.  
 __worn-out__ _adj_  
-__writhe__ _v_ :three:::hammer: /raɪð/  
+__wreak__ _vt_  
+__writhe__ _v_ :four:::hammer: /raɪð/  
 __writhing__ _n_ :two: A twisting struggle.  
 __Xmas__ _n_  
 __yacht<sup>1</sup>__ _n_  
 __yacht<sup>2</sup>__ _vi_ To sail, cruise, or race in a yacht.  
 __yarrow__ _n_ :es: milenrama  
+__ye__ _pron_ Obsolete form of _you._  
 __yelp__ _n_ :two::hammer:  
 __yelp<sup>1</sup>__ _n_ :two::hammer:  
 __yelp<sup>2</sup>__ _v_  
 __yoga__ _n_ [:scroll: From Hindi yoga, from Sanskrit yoga-s, literally “union, yoking” (with the Supreme Spirit)] _Hatha/Mantra/Karma/Bhakti/Raja/Jnana/Kundalini yoga._  
 __zest__ _n_ /ZEST/ _Zest_ refers to an enjoyably exciting quality, or to keen enjoyment itself. In culinary use, _zest_ refers to small pieces of the peel of a lemon, lime, orange, or other citrus fruit used as flavoring.  
+__zloty__ _n_ The basic monetary unit of Poland.  
