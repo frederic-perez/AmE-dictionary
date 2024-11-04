@@ -226,6 +226,9 @@ __firebomb<sup>2</sup>__ _v_ To attack with firebombs.
 __firebrand__  
 __firsthand__  
 __fish__ _v_ __3__ To seek something in a sly or indirect way: _fish for compliments._  
+__flag<sup>1</sup>__ _n_  
+__flag<sup>2</sup>__ _vt_  
+__flag<sup>3</sup>__ _vi_ :astonished: To lose vigor or strength; weaken or diminish: _The conversation flagged._ :es: decaer  
 __flapper__ _n_  
 __flash flood__ _n_ (flashflood) A sudden flood of great volume, usually caused by heavy rain.  
 __flat__ _adv_ :dart: __3a__ Directly; completely: _went flat against the rules; flat broke._ __b__ Exactly; precisely: _arrived in six minutes flat._  
@@ -244,14 +247,16 @@ __floorwalker__ _n_ An employee of a department store who supervises sales perso
 __flotation tank__ _n_ (flotation chamber) An enclosed ventilated tank filled with a saline solution at body temperature, in which a person floats in darkness in order to relax or meditate.  
 __flotsam__ _n_ :two::hammer:  
 __flounder__ _v_  
-__flout__ _v_  
+__flout__ _vt_ :two::hammer: :es: burlarse  
 __flub<sup>1</sup>__ _n_ :dart: /flʌb/ An embarrassing mistake or blunder.  
 __flub<sup>2</sup>__ _v_ :dart: To blunder or make an embarrassing mistake. Make a mess of, destroy or ruin.  
 __flurry__ _n_ __3__ A sudden burst or commotion; a stir: _a flurry of interest in the new product; a flurry of activity when the plane landed._  
+__flying__ _adj_ /ˈflaɪɪŋ/ (prenominal) Hurried; fleeting: _a flying visit._  
 __flyover__ _n_  
 __flywheel__ _n_ :es: volante  
 __foist__ _v_ /FOIST/ _Foist_, which is almost always used with _on_ or _upon_, is used when someone forces another person to accept something, usually something that is not good or is not wanted. Foist can also mean “to pass off as genuine or worthy.”  
 __folio__ _n_  
+__folks__ _n pl_ :astonished: [Very popular synonym to _people_ in rural areas of the US, possibly because of the large number of German, Dutch and Scandinavian immigrants in that part of the world.]  
 __folksy__ _adj_  
 __folly__ _n_ (construction)  
 __foment__ _v_ /FOH-ment/  
@@ -288,6 +293,7 @@ __gabby__ _adj_ Tending to talk excessively. _Syn_ chatty, garrulous, loquacious
 __gadabout__ _n_ /GAD-uh-bout/ A gadabout is a person who flits about in social activity, as by going to many places and social events for pleasure.  
 __gaffer__ _n_ __1__ [:scroll: Probably alteration (influenced by _grandfather_) of _godfather_] An electrician in charge of lighting on a movie or television set.  
 __gaggle__ _n_ __2__ _informal_ A disorderly group of people.  
+__gallivant__ _vi_ (galivant, galavant)  
 __galvanize__  
 __Gamblers Anonymous__ _n_ (GA) An organization that holds group meetings to help people who are addicted to gambling.  
 __gamekeeper__ _n_ /ˈgeɪmˌki pər/ A person employed, as on an estate or game preserve, to prevent poaching and provide for the conservation of game.  
@@ -304,18 +310,23 @@ __genteelism__ _n_ /jen-TEE-liz-uhm/ The substitution of a word that is believed
 __gerbil__ _n_ :es: jerbo  
 __gestalt therapy__ _n_  
 __gestalt__ _n_ _Gestalt therapy._  
+__ghastly__ _adj_  
 __ghost gun__ _n_  
 __ghoul__  
 __gibber__ _vi_ :dart: To prattle and chatter unintelligibly.  
 __giggle__ _v_  
+__glass pane__  
 __glower<sup>1</sup>__ _n_ To look or stare angrily or sullenly: _glowered at the rude patron._ _Syn_ scowl, glare, frown, look daggers, give a dirty look, lour, lower  
 __glower<sup>2</sup>__ _n_ An angry or sullen look or stare.  
 __goo__ _n_  
+__Goodwill__ _n_ A charity organization that collect old clothes for resale.  
 __gopher__ _n_ :es: ardilla  
 __gossamer__ _adj_ /GAH-suh-mer/ Something described as _gossamer_—such as a butterfly wing or a thin fabric—is very light or delicate.  
+__gripping__ _adj_ :es: con gancho  
 __grovel__ _vi_  
 __grunt__ _n_  
 __guffaw__ _n_  
+__gull__ _vt_ :smiling_imp: To deceive or cheat. :es: embaucar  
 __gullet__ _n_ /ˈgʌl ɪt/ __1__ A less formal name for the esophagus. __2__ The throat.  
 __gurney__ _n_ /ˈɡɜːnɪ/ _Medicine_ _US_ A wheeled stretcher for transporting hospital patients.  
 __hackneyed__ _adj_  
@@ -340,11 +351,13 @@ __hearth__ _n_ The floor of a fireplace, usually extending into a room and paved
 __heat index__ _n_  
 __heath__ _n_  
 __heinous__ _adj_ /HAY-nus/ _Heinous_ describes things—such as acts, deeds, or crimes—that are hatefully or shockingly evil, or in other words, deserving of hate or contempt.  
+__hem__ _n_ :es: dobladillo  
 __hobgoblin__ _n_  
 __hoover__  
 __horse brass__ _n_ :camera: A decorative brass ornament, usually circular, originally attached to a horse’s harness.  
 __hotplate__ _n_ :two::hammer:  
 __house martin__ _n_ (housemartin)  
+__housing estate__ _n_ A group of often architecturally similar buildings constructed at the same time. Primarily for residential accommodation, estates may also include commercial facilities.  
 __hovel__ _n_ __1__ A small, miserable dwelling. __2__ An open, low shed.  
 __huddle__ _v_  
 __huff__ _v_  
@@ -356,12 +369,14 @@ __hypertrichosis__ _n_ A condition of excessive hairiness either all over the bo
 __ideate__ _v_ /EYE-dee-ayt/ To ideate is to form an idea or conception of something..  
 __indefatigable__ _adj_ /in-di-FAT-i-guh-buhl/ __1__ Incapable of being tired out. __2__ Persistently energetic or tireless, even in the face of challenges.  
 __indigenous__ _adj_ /ɪnˈdɪdʒ ə nəs/ __1__ Originating in and characteristic of a particular region or country; native (often fol. by to): _plants indigenous to Canada; indigenous peoples of southern Africa._  
+__induction__ _n_ :es: incorporación  
 __inkling__  
 __interfere__ _v_  
 __interpenetrate__ _v_ Spread or diffuse through. _Syn_ imbue, permeate, pervade, diffuse, riddle, penetrate  
 __intonation__ _n_ /ˌɪntəʊˈneɪʃən/ /ˌɪn toʊˈneɪ ʃən, -tə-/  
 __intransigent__ _adj_ /in-TRAN-suh-junt/  
 __invalid car__ _n_ _BrE_ A car specially equipped so that a disabled person can drive it.  
+__invidious__ _adj_  
 __inviting__ _adj_ :two: Attractive; tempting: _an inviting dessert._  
 __iota__ _n_ /eye-OH-tuh/ An _iota_ is an infinitesimal amount of something. The word _iota_ is used synonymously with the etymologically related _jot_, and by its oldest definition refers to the 9th letter of the Greek alphabet.  
 __irate__ _adj_ :dart::astonished:  
@@ -411,12 +426,14 @@ __lewd__ _adj_ :two::hammer:
 __Lewis gun__  
 __liable__ _adj_  
 __liaise__ _v_ (usually foll by: _with_) To communicate and maintain contact (with). _They can put you in touch with solicitors, and liaise with police._  
+__Liam__ _n_ Short for William.  
 __lickspittle__ _n_ A contemptible, fawning person; a servile flatterer or toady.  
 __lidless__ _adj_ Watchful; vigilant. _Syn_ sleepless  
 __lifeline__  
 __lightsaber__ _n_  
 __likely<sup>1</sup>__ _adj_  
 __likely<sup>2</sup>__ _adv_ :dart: Probably: _They’ll likely buy a new car soon._  
+__lime__ _n_ :es: cal  
 __limerence__ _n_ The state of being obsessively infatuated with someone, usually accompanied by delusions of or a desire for an intense romantic relationship with that person.  
 __limestone__  
 __liminal__ _adj_ :two: /LIM-uh-nul/ _Liminal_ is a formal word most often used to describe an intermediate state, phase, or condition. It can also describe something that is barely perceptible or barely capable of eliciting a response.  
@@ -438,6 +455,7 @@ __lodge__ _v_ _He’s lodged a complaint against you._
 __logodaedalus__ _n_ /log-uh-DEE-duh-luhs/ One skilled with words.  
 __lonely hearts__ _adj_ :dart::two: (often capitals) Ff or for people who wish to meet a congenial companion or marriage partner: _a lonely hearts advertisement._  
 __long-standing__ _adj_ (longstanding)  
+__looking-glass__ _n_ (dated) Mirror.  
 __lookout__ _n_ _Lookouts were posted._  
 __lope__ _vi_ __1__ To run with long steps. :es: andar/correr con paso largo :es: _to lope along_ andar a grandes zancadas, correr dando grandes zancadas  
 __lope<sup>1</sup>__ _vi_ __1__ (of a person) To move or run with a long swinging stride. __2__ (of four-legged animals) To run with a regular bounding movement.  
@@ -446,6 +464,7 @@ __lore__ _n_ Accumulated facts, traditions, or beliefs about a particular subjec
 __loss aversion__ _n_  
 __Lothario__ _n_ (lothario)  
 __loup-garou__ _n_  
+__love seat__ _n_ (loveseat) A small sofa or double chair that seats two people.  
 __lovelorn__ _adj_ /ˈlʌvˌlɔːn/ Miserable because of unrequited love or unhappiness in love.  
 __low-end__ _adj_ Cheaper and, typically, of lower quality compared to the leading products or brands. Used before a noun. _Because he’s only willing to pay for low-end supplies, we’ve had nothing but problems with all our equipment._  
 __LSD__ _n_ (acid) _(Recreational Drugs)_ Lysergic acid diethylamide; a crystalline compound prepared from lysergic acid, used in experimental medicine and taken illegally as a hallucinogenic drug. Informal name (as an illegal hallucinogen): acid.  
@@ -457,6 +476,7 @@ __luggable__ _n_ /ˈlʌɡəbəl/ (esp of computers) Portable, but with difficult
 __lumber<sup>1</sup>__ _n_  
 __lumber<sup>2</sup>__ _vt_  
 __lumber<sup>3</sup>__ _vi_ __1__ To move awkwardly.  
+__lumbering__ _adj_ __1__ Awkward in movement __2__ Moving with a rumbling sound.  
 __luminal__ _adj_  
 __lump sum__ _n_ A single sum of money that serves as complete payment.  
 __lump__ _v_  
@@ -481,6 +501,7 @@ __marshmallow__ _n_ :pencil2:
 __masseuse__  
 __matron__ _n_ :es: supervisora; enfermera jefe; matrona  
 __matte__ _n_  
+__mayhem__ _n_  
 __measly__ _adj_ :astonished:  
 __medley relay__  
 __meliorism__ _n_ /MEE-lee-uh-riz-um/ _Meliorism_ refers to the belief that the world tends to improve and that humans can aid its betterment.  
@@ -493,6 +514,7 @@ __miasma__ _n_
 __microfiche__ _n_ /ˈmaɪ krəˌfiʃ/ A flat sheet of microfilm, containing reproductions of printed or graphic matter.  
 __mid__ _adj_ _Mid_ is a slang term used to describe something or someone as mediocre or of low quality.  
 __midriff__  
+__mild-mannered__ _adj_ Gentle and polite. :es: apacible  
 __militia__ _n_ /mɪˈlɪʃ ə/  
 __millpond__ _n_ __1__ A pool formed by damming a stream to provide water to turn a millwheel.  
 __mince__ _v_  
@@ -554,6 +576,7 @@ __non-profit-making__ _adj_ Not yielding a profit, esp because organized or esta
 __nonplus__ _v_ /nahn-PLUS/ To _nonplus_ someone is to perplex them, or in other words, to cause them to be at a loss as to what to say, think, or do.  
 __nonplussed__ _adj_ :pencil2:  
 __noose__ _n_ :es: nudo corredizo, lazo, soga  
+__notice__ _n_ :es: crítica  
 __noticeboard__ _n_ Bulletin board.  
 __notorious__  
 __nubbly__ _adj_ Rough or irregular; textured. _Syn_ homespun, nubby, slubbed, tweedy  
@@ -567,6 +590,7 @@ __obsequious__ _adj_
 __October surprise__ _n_ A significant revelation or event in the month prior to an election that has the potential to shift public opinion about an election candidate and that is often orchestrated to influence the election’s outcome.  
 __offbeat__ _adj_ :es: poco convencional  
 __omniscient__ _adj_ /ahm-NISH-unt/ _Omniscient_ describes someone or something with unlimited knowledge or understanding.  
+__over-the-hill__  
 __palaver__ _n_ /puh-LAV-er/  
 __panacea__ _n_ /pan-uh-SEE-uh/  
 __pantsuit__ _n_  
