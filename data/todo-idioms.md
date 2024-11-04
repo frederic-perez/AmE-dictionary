@@ -205,31 +205,6 @@ __give or take__
 __give something a miss__ _I’ll give coffee a miss; I’m off to bed now._  
 __glass cliff__ _n_ A situation in which a woman or minority has advanced professionally at a time when adverse circumstances or crises make it more likely for the person to fail at the job.  
 __glimmer of hope__  
-__go a long way__ :three::hammer:  
-__go after (someone or something)__  
-__go back to the well__ To return to some proven and reliable source of success, talent, good fortune, etc.  
-__go ballistic__ To become wildly or uncontrollably angry.  
-__go bananas__  
-__go berserk__  
-__go between__  
-__go big or go home__ _expression_ Either do something to its fullest extent or largest degree, or else don’t even bother. Often used facetiously. _A: “Do we really need to cook an entire pig for this barbecue? We’re only having a few people over.” B: “Hey, go big or go home!”_  
-__go big__  
-__go bust__ :two: To experience financial failure or ruin, often as of a business.  
-__go cold__ _The bonnet beneath had gone cold._  
-__go down the rabbit hole__  
-__go down the toilet__ To fail; to be ruined or destroyed; to be squandered or wastefully discarded.  
-__go down well__ To be well-received, as by a group or audience. :es: ser bien recibido; gustar  
-__go figure__  
-__go for (something)__  
-__go Galt__  
-__go hand in hand__  
-__go into overdrive__ To start working very hard or quickly.  
-__go nuclear__  
-__go off the rails__  
-__go over the top__  
-__go overboard__ :two::hammer:  
-__go places__  
-__go south__  
 __go strong__  
 __go through a rough patch__ To experience or be in the midst of a period of trouble, difficulty, or hardship.  
 __go to hell in a handcart__ To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin. _With this new president in office, our country is going to go to hell in a handcart!_  

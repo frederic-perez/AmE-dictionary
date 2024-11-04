@@ -2495,7 +2495,7 @@ __go (off) on a tangent__ To begin addressing or discussing a topic or topics no
 __go (one’s) (own) way__ :two: To proceed, act, or do things in a direction or manner as one so chooses or desires, especially as is distinct, separate, or different from that of others. _After meeting resistance with her partner about how the business should be run, she decided to go her way and open her own law firm._  
 __go a long way__ :dart::nine::m: __1__ To achieve much success. _You’ll go a long way if you learn to never quit._ __2__ To be very useful or helpful. _Don’t do anything rash—patience will go a long way toward bringing you allies in this situation._ _Go a long way toward minimizing damage._ _Good looks and youth went a long way._  
 __go above and beyond__ To act in a way that exceeds expectations or requirements.  
-__go after (someone or something)__  
+__go after (someone or something)__ :two::hammer:  
 __go all out__  
 __go along__  
 __go ape__  
@@ -2504,42 +2504,51 @@ __go astray__ :dart:
 __go at (something)__ :two: To engage in or undertake something with great energy, enthusiasm, or vigor. _I’d been going at the report for two days straight when my computer suddenly crashed and wiped out half my work!_  
 __go at it hammer and tongs__ :two: To do something or perform some task with tremendous fervor, determination, energy, or forcefulness. An allusion to the force with which a blacksmith strikes metal using a hammer and tongs.  
 __go back to square one__ To start from the beginning.  
-__go back to the well__ To return to some proven and reliable source of success, talent, good fortune, etc.  
-__go ballistic__ :two::hammer:  
+__go back to the well__ :two: To return to some proven and reliable source of success, talent, good fortune, etc.  
+__go ballistic__ :three: To become wildly or uncontrollably angry.  
 __go balls-out__ _I resolved to go balls-out on this retreat._  
-__go bananas__ :two::hammer:  
-__go berserk__ :four::hammer:  
-__go between__ :two: One who serves as a messenger between two people or groups. In this usage, the words are usually hyphenated. _I’m sick of being a go-between for you and Dad—can you please just talk to him directly?_  
+__go bananas__ :three::hammer:  
+__go berserk__ :five::hammer:  
+__go between__ :three: One who serves as a messenger between two people or groups. In this usage, the words are usually hyphenated. _I’m sick of being a go-between for you and Dad—can you please just talk to him directly?_  
+__go big or go home__ _expression_ Either do something to its fullest extent or largest degree, or else don’t even bother. Often used facetiously. _A: “Do we really need to cook an entire pig for this barbecue? We’re only having a few people over.” B: “Hey, go big or go home!”_  
+__go big__  
 __go blooey__ _slang_ To go completely awry; to totally fail. _Plans for the gala went blooey after our chief donor backed out and took his millions with him._  
 __go both ways__ __1__ A bisexual person who is attracted to both men and women. __2__ Something that has two functions or purposes. For example, an all-purpose cleaner can be said to “go both ways” because it can be used to clean multiple surfaces.  
+__go bust__ :two: To experience financial failure or ruin, often as of a business.  
 __go cold turkey__ :two::hammer:  
+__go cold__ _The bonnet beneath had gone cold._  
 __go commando__  
 __go deep__  
 __go down in/make history__  
-__go down the rabbit hole__ :two::hammer:  
+__go down the rabbit hole__ :three::hammer:  
+__go down the toilet__ To fail; to be ruined or destroyed; to be squandered or wastefully discarded.  
+__go down well__ To be well-received, as by a group or audience. :es: ser bien recibido; gustar  
 __go downhill__ :two::hammer:  
 __go far__  
-__go figure__ :eight: A phrase used to highlight that what has been said is unexpected, absurd, or difficult to understand or accept. Used when you tell someone a fact and you then want to say that the fact is surprising, strange or stupid: _It’s a terrible movie and it made $200 million. Go figure!_ _The one time I get to the station on time, the train is delayed—go figure!_  
+__go figure__ :nine: A phrase used to highlight that what has been said is unexpected, absurd, or difficult to understand or accept. Used when you tell someone a fact and you then want to say that the fact is surprising, strange or stupid: _It’s a terrible movie and it made $200 million. Go figure!_ _The one time I get to the station on time, the train is delayed—go figure!_  
+__go for (something)__  
 __go for a run__  
 __go for a spin (to some place)__ To go for a brief, leisurely drive (to some place). _Hey Noah, fancy going for a spin to the grocery store with me?_ _Jenny just got a new car for her birthday, so I think we’re going to go for a spin after school._  
 __go for broke__ :dart: To give something one’s full effort. _We have to go for broke with this marketing campaign if we want our product launch to be successful._  
 __go for the jugular__ _Go straight for the jugular._  
-__go Galt__ To reduce, restrict, or cease one’s work or productivity as a means of social protest against increased marginal tax rates, limits on tax deductions, or the use of tax income for purposes one finds morally objectionable. Taken from the name John Galt, a character in Ayn Rand’s novel _Atlas Shrugged_. Primarily heard in US, South Africa. _Living abroad, I only have to pay U.S. taxes if my income exceeds $95,000 a year, so I’ll just go Galt if I ever come close to earning that amount._  
+__go Galt__ :dart::two: To reduce, restrict, or cease one’s work or productivity as a means of social protest against increased marginal tax rates, limits on tax deductions, or the use of tax income for purposes one finds morally objectionable. Taken from the name John Galt, a character in Ayn Rand’s novel _Atlas Shrugged_. Primarily heard in US, South Africa. _Living abroad, I only have to pay U.S. taxes if my income exceeds $95,000 a year, so I’ll just go Galt if I ever come close to earning that amount._  
 __go granular__ To examine something in detail.  
 __go great lengths__ :two::hammer: _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
 __go Greek__  
 __go halfsies__ _slang_ To share something, especially the cost of something, in equal proportion between two people. _You wanna go halfsies on the bill?_ _I don’t feel like cooking tonight, let’s go halfsies on a pizza instead._  
-__go hand in hand__ :two::hammer:  
+__go hand in hand__ :three::hammer:  
 __go haywire__ :two: __1__ To start malfunctioning or having problems. _Well, the coffee pot has gone haywire yet again. Maybe it’s time to get a new one._ __2__ :dart: To become irrational or crazy. _I’ll end up going haywire if I have to work in this cubicle for one more day!_  
 __go head to head__  
 __go into a nosedive__  
+__go into overdrive__ To start working very hard or quickly.  
 __go into the weeds__ :dart: To become totally immersed in or preoccupied with the minute details or complexities (of something). _Before we go into the weeds, let’s give a brief overview for any of our listeners who aren’t familiar with the issue._  
 __go missing__ To disappear. _My diamond earrings have gone missing, and I want the entire staff to be interrogated!_  
 __go native__ :astonished: _You going native on me, Supercop?_  
 __go nowhere (fast)__ To ultimately yield or achieve no useful, beneficial, or successful result or outcome.  
+__go nuclear__  
 __go off in a huff__ :two: To leave in an angry, belligerent, or vexed manner. _Don’t go off in a huff like that, it was only a joke!_  
 __go off the handle__ To become uncontrollably angry; to lose control of one’s temper. _It’s a shame the candidate allowed himself to go off the handle like that during the debate, as it undermines a lot of the really solid arguments he’d been making up to that point._ _I know you’re upset, but there’s no point going off the handle like that. It was just an honest mistake._  
-__go off the rails__  
+__go off the rails__ :two::hammer:  
 __go off__ Of an alarm, to enter into an active state, typically resulting in a loud noise or other indication. _My alarm goes off at seven AM._  
 __go on a spree__  
 __go one on one__  
@@ -2551,15 +2560,15 @@ __go out with the boys__ :two: To go and socialize somewhere with a group of exc
 __go out with the girls__ To go and socialize somewhere with a group of exclusively female friends.  
 __go out__ __1__ To go on a date with someone. _Those two have such an obvious chemistry that I’m surprised they’ve never gone out._  
 __go over (one’s) head__ :two: __1__ To speak to one’s superior rather than talking to one directly. _She just wouldn’t listen to me, so I had to go over her head to her boss and complain about it._ __2__ To not be understood by one because it is too complex or subtle for their comprehension. _My jokes always seem to go over Stephanie’s head, so I’m glad you think I’m funny at least._  
-__go over the top__  
-__go overboard__ :dart::five: To do too much; to be extravagant; show excessive enthusiasm, act in an excessive way; to act without restraint in some area. _Did I go overboard with the Christmas decorations? I’m worried I bought enough Christmas lights to light up Times Square._  
+__go over the top__ :two::hammer:  
+__go overboard__ :dart::seven: To do too much; to be extravagant; show excessive enthusiasm, act in an excessive way; to act without restraint in some area. _Did I go overboard with the Christmas decorations? I’m worried I bought enough Christmas lights to light up Times Square._  
 __go pffft__ It’s basically James Ellroy-speak for something just…fizzling out or disappearing.  
-__go places__:four: To progress or find success in some area of one’s life. _Alice is definitely going to go places with that singing voice of hers._  
+__go places__:five: To progress or find success in some area of one’s life. _Alice is definitely going to go places with that singing voice of hers._  
 __go potty__ _He has to go potty._  
 __go rogue__  
 __go soft on (someone)__ :two: To treat someone delicately, gently, or leniently; to not criticize, punish, or berate someone too harshly.  
 __go soft__ :two: To become overly lenient, easily manipulated, or apathetic; to lose strength or determination. _You used to be the toughest sheriff this town has ever had, but you’ve gone soft in your old age._  
-__go south__ :nine: __1__ To escape; to vanish or disappear. _Everyone in the gang went south when they learned that the police had discovered their hideout._ __2__ To fall or drop; to depreciate; to lose quality or value. (Especially related to finances or stock exchanges.) _I used to be a big player in the stock market, but all my investments have gone south lately._ __3__ To cease working or functioning; to quit, fail, or fall apart. _That’s when things start going south._ _You’ve got a career there, if all this goes south._ _This one went south on me._ _That’s when everything went south._  
+__go south__ :nine::m: __1__ To escape; to vanish or disappear. _Everyone in the gang went south when they learned that the police had discovered their hideout._ __2__ To fall or drop; to depreciate; to lose quality or value. (Especially related to finances or stock exchanges.) _I used to be a big player in the stock market, but all my investments have gone south lately._ __3__ To cease working or functioning; to quit, fail, or fall apart. _That’s when things start going south._ _You’ve got a career there, if all this goes south._ _This one went south on me._ _That’s when everything went south._  
 __go steady (with someone)__ To date someone exclusively. _Don’t ask Jill out—she’s already going steady with Bobby._ _Are those two really going steady?_  
 __go stir-crazy__ :two: To become acutely anxious, restless, irritable, irrational, and/or depressed from remaining for too long in an unstimulating, confined, and/or isolated environment. “Stir” in this usage is a slang word for prison. _The doctor said I need to remain in bed as much as possible, but I’ll go stir-crazy if I can’t get out of the house at least once a day!_  
 __go strong__ :three: To proceed energetically or successfully. _It is still going strong._  
