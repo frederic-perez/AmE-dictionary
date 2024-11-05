@@ -866,31 +866,6 @@ __toil__ _vi_
 __tout__ _n_ __1__ One who solicits customers brazenly or persistently. _Touts, thieves, and barrow men._  
 __townhouse__ _n_  
 __traduce__ _vt_ :smiling_imp:  
-__traipse__ _v_  
-__transient__ _adj_ _Temporary conduction block can occur as a result of transient edema._  
-__transmogrification__ _n_  
-__transmogrify__ _v_  
-__tribulation__ _n_ /trib-yuh-LAY-shun/ _Tribulation_, which is often used in the phrase “trials and tribulations,” refers to an experience that causes suffering. It can also mean “unhappiness, pain, or suffering.”  
-__trickle<sup>1</sup>__ _v_  
-__trickle<sup>2</sup>__ _n_ __1__ A thin, irregular, or slow flow of something. __2__ The act of trickling.  
-__trump__ _v_ /trʌmp/  
-__tummy__  
-__two peas in a pod__  
-__tyranny__ _n_ :pencil2:  
-__uh-huh__  
-__undertones__ _n_ :es: trasfondo  
-__unmindful__ _adj_ Failing to give due care or attention; inattentive. _Syn_ forgetful, mindless  
-__usurp__ _v_ /yoo-SERP/ To _usurp_ something (such as power) is to take and keep it by force and without the right to do so. _Usurp_ can also mean “to take the place of by or as if by force.”  
-__valiant__ _adj_ Having or showing valor. _Syn_ valorous  
-__wallow__ _n_ :es: regodeo  
-__whitelist<sup>1</sup>__ _n_ A list of people or organizations that have been approved to receive special considerations or privileges.  
-__whitelist<sup>2</sup>__ _vt_ To place on a whitelist.  
-__wiggle__ _n_ _Marylin Monroe’s wiggle down the platform in_ Some Like it Hot.  
-__wooden__ _adj_ :astonished: __1__ Made or consisting of wood. __2__ Stiff and unnatural; without spirit: _a wooden performance; a wooden smile._ __3__ Clumsy and awkward; ungainly.  
-__worn-out__ _adj_  
-__wreak__ _vt_  
-__writhe__ _v_ :four:::hammer: /raɪð/  
-__writhing__ _n_ :two: A twisting struggle.  
 __Xmas__ _n_  
 __yacht<sup>1</sup>__ _n_  
 __yacht<sup>2</sup>__ _vi_ To sail, cruise, or race in a yacht.  

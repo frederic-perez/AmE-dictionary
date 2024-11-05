@@ -20113,8 +20113,7 @@ __train wreck__ _n_ :two: __2__ _slang_ A disastrous outcome or occurrence; a ca
 __train__ _v_ __5__ To point or direct (a gun or camera, for example) at something. _Syn_ aim  
 __trainee__ _n_ :two::pencil2: (trainees) One who is being trained. :es: aprendiz  
 __training wheels__ _n_  
-__traipse__ _v_ :three: Walk or tramp about. _Syn_ shlep _I spent the holiday exploring the countryside, traipsing from town to town with just a knapsack of supplies on my back._  
-__traipsing__  
+__traipse__ _v_ :five: Walk or tramp about. _Syn_ shlep _I spent the holiday exploring the countryside, traipsing from town to town with just a knapsack of supplies on my back._  
 __traitorous__  
 __tramp__ _n_ :two::hammer: (vagrant?)  
 __trample__ _v_ :nine::m: (trampled, trampling) __1__ To step heavily on something, so that you crush it with your feet. (trample on/over/through etc) _There was a small fence to stop people trampling on the flowers._ _They trample the weeds heading for the park._ _He could be seen trampling grapes in a wooden vat._ __2__ To behave in a way that shows that you do not care about someone’s rights or feelings. (trample on/over somebody/something) _Don’t let people trample all over you._ _Snow trampled down by detectives._  
@@ -20131,13 +20130,14 @@ __transfigure__ _v_ Change completely the nature or appearance of.
 __transfixed__ _adj_ Rendered motionless, esp from horror or shock. Having your attention fixated as though by a spell. _Syn_ fascinated, hypnotised, hypnotized, mesmerised, mesmerized, spellbound, spell-bound _I was transfixed by it._  
 __transgression__ _n_ :smiling_imp: /ptrans-GRESH-uhn/ A violation of legal or moral boundaries.  
 __transience__  
-__transient<sup>1</sup>__ _adj_ :seven::mega: For a short time only; temporary or transitory. _Transient lesions._ _A transient log._ _One of the more transient jobs at the paper._  
+__transient<sup>1</sup>__ _adj_ :eight::mega: For a short time only; temporary or transitory. _Transient lesions._ _A transient log._ _One of the more transient jobs at the paper._ _Temporary conduction block can occur as a result of transient edema._  
 __transient<sup>2</sup>__ _n_  
 __transition__ _vi_ (of a transgender person): To come to live in accordance with one’s gender identity through a process that involves changes to one’s appearance and presentation often with the aid of medical procedures and therapies.  
 __translate__ _v_ _That doesn’t always translate, believe me._  
 __translational__ _n_ __2__ In science, of or relating to the application of basic or theoretical discoveries to the development of practical applications: _translational research._  
 __translucent__ _adj_ :two::hammer: /trans-LOO-sunt/  
-__transmogrify__ _v_ :two: /transs-MAH-gruh-fye/ To change something significantly and often with humorous or jarring effect. Change completely the nature or appearance of. _Syn_ metamorphose, transfigure _In Franz Kafka’s story_ The Metamorphosis _, a human being transmogrifies into a bug._ _If all goes as planned, the school’s gym will be transmogrified into a spooky gallery of Halloween delights._  
+__transmogrification__ _n_  
+__transmogrify__ _v_ :three: /transs-MAH-gruh-fye/ To change something significantly and often with humorous or jarring effect. Change completely the nature or appearance of. _Syn_ metamorphose, transfigure _In Franz Kafka’s story_ The Metamorphosis _, a human being transmogrifies into a bug._ _If all goes as planned, the school’s gym will be transmogrified into a spooky gallery of Halloween delights._  
 __transom__ _n_ :two::hammer:  
 __transparent__ _adj_ :mega:  
 __transpire__ _v_ /tran-SPYRE/ __1__ To happen. _The police are still trying to determine what transpired on the night of the accident._ __2__ To become known. _After the business magnate was arrested for financial-related crimes, it transpired that he has been in insurmountable debt for years._  
@@ -20210,7 +20210,7 @@ __triathlon__ _n_ [:scroll: The Greek word âthlon means “contest.” The begi
 __tribal__  
 __tribble__ _n_  
 __Tribeca__  
-__tribulation__ _n_ :nine::m: __1__ Great affliction, trial, or distress; suffering: _a time of great tribulation._ Something hard to bear physically or emotionally. _Syn_ affliction, burden, cross, trial _The realm could not endure the great tribulation and poverty._ __2__ An experience that tests one’s endurance, patience, or faith. A state of pain or anguish that tests one’s resiliency and character. _Syn_ crucible, ordeal, trial, visitation  
+__tribulation__ _n_ :nine::m: /trib-yuh-LAY-shun/ __1__ Great affliction, trial, or distress; suffering: _a time of great tribulation._ Something hard to bear physically or emotionally. _Tribulation_, which is often used in the phrase “trials and tribulations,” refers to an experience that causes suffering. It can also mean “unhappiness, pain, or suffering.” _Syn_ affliction, burden, cross, trial _The realm could not endure the great tribulation and poverty._ __2__ An experience that tests one’s endurance, patience, or faith. A state of pain or anguish that tests one’s resiliency and character. _Syn_ crucible, ordeal, trial, visitation  
 __tributary__ _n_ :three: A stream or river that flows into a larger river. _The Minnesota River is a tributary of the Mississippi River._ _Syn_ affluent  
 __tribute__ _n_ _Her fellow tribute and her hunting buddy._  
 __trice__ _n_ A very short time; an instant.  
@@ -20220,8 +20220,8 @@ __trickery__ _n_ The practice or use of tricks; deception by stratagem.
 __trickle down__ _v_ :four: To pass from high-ranked people to lower-ranked people.  
 __trickle out__ _v_ :two::hammer: _Walmart kept a very limited supply in stock that it trickle out in online flash sales over the last two weeks._  
 __trickle-down__ _adj_ :nine: (trickle-down theory) __1__ Describing the theory that financial benefits given to the wealthy will somehow be passed down to the poor. _Trickle-down economics._ _Trickle-down tax cut._ __2__ That flows, especially in limited quantity, from the highly placed to others. _Trickle-down racism._ _A trickle-down effect._ _A trickle of sweat._  
-__trickle<sup>1</sup>__ _n_ :nine::m: __1__ A small group or number of people or things moving slowly. _A trickle of customers._ :es: goteo, reguero __2__ Come or go slowly or gradually. _She trickle out, shocking friends and connections in the sports world._ _A trickle of electricity._ _A trickle of sunlight._  
-__trickle<sup>2</sup>__ _v_ :nine: __1__ _vi_ To flow or fall by drops, or in a small, gentle stream: _Tears trickled down her cheeks._ __2__ _vi_ To come, go, or pass bit by bit, slowly, or irregularly: _The guests trickled out of the room._ _The money trickled in._ __3__ _vt_ To cause to trickle.  
+__trickle<sup>1</sup>__ _n_ :nine::m: __1__ A small group or number of people or things moving slowly. A thin, irregular, or slow flow of something. _A trickle of customers._ :es: goteo, reguero __2__ Come or go slowly or gradually. _She trickle out, shocking friends and connections in the sports world._ _A trickle of electricity._ _A trickle of sunlight._ __3__ The act of trickling.  
+__trickle<sup>2</sup>__ _v_ :nine::m: __1__ _vi_ To flow or fall by drops, or in a small, gentle stream: _Tears trickled down her cheeks._ __2__ _vi_ To come, go, or pass bit by bit, slowly, or irregularly: _The guests trickled out of the room._ _The money trickled in._ __3__ _vt_ To cause to trickle.  
 __trickster__ _n_ One that swindles or plays tricks. Someone who uses dishonest methods to get what they want. _Trickster hero._  
 __tricksy__  
 __tried-and-true__ _adj_ Tested and proved to be worthy or good.  
@@ -20305,7 +20305,6 @@ __truffle__ _n_ :four::hammer: :es: trufa
 __truism__ _n_ :two::hammer:  
 __trull__  
 __truly__ _adj_ :two::hammer: _We truly appreciate it._  
-__trump__ _v_  
 __trumpet__ _v_  
 __trumpeter__ _n_ _The trumpeters were flourishing bright pennants from their silver trumpets._  
 __truncate__ _v_ /TRUNG-kayt/ _Many statements in the court document were truncated before publication._  
@@ -20360,6 +20359,7 @@ __tumbledown__ _adj_
 __tumbler__ _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2a__ :two: A drinking glass, originally with a rounded bottom. __b__ A flat-bottomed glass having no handle, foot, or stem. __c__ :two: The contents of such a drinking glass: _a tumbler of beer_  
 __tumbleweed__ _n_  
 __tummler__ _n_  
+__tummy__  
 __tumuli__ _n pl_ Plural of tumulus (an artificial mound, esp. over a grave; barrow.).  
 __tumult__ _n_ :two: Violent and noisy commotion or disturbance of a crowd or mob. _Syn_ garboil, uproar  
 __tumultuous__ _adj_ :two::hammer:  
@@ -20476,7 +20476,7 @@ __type-A personalities__
 __typecast__ _v_ :pencil2: _Lawrence avoided the typecasting pitfalls of super-franchise stars before her._  
 __typify__ _v_ (typifies)  
 __tyrannize__ _v_ :pencil2: _Most of them are woefully unproductive, and tyrannize our offices._  
-__tyranny__ _n_ :two::pencil2::mega:  
+__tyranny__ _n_ :three::pencil2::mega:  
 __tyrant__ _n_ :four::hammer: /ˈtaɪ rənt/  
 __Tyrian purple__ _n_  
 __tyro__ _n_ :two: (tiro) A beginner in learning something. _Syn_ beginner, initiate, tiro, novice  
@@ -20590,6 +20590,7 @@ __understatement__ _n_ :three: Understatement is using language to intentionally
 __understudy__ _v_  
 __undertake__ _v_ :four::hammer: _A video of cyclists overtaking and undertaking a horse rider._ _He agreed to undertake the great riddance._  
 __undertaker__ _n_  
+__undertones__ _n_ :es: trasfondo  
 __undertow__  
 __underway__ _adj_  
 __underwhelm__ _v_ :three: /un-der-WELM/ To underwhelm someone is to fail to impress or excite them. To fail to excite, stimulate, or impress.  
@@ -20670,6 +20671,7 @@ __unleavened__ _adj_ :mega:
 __unlike<sup>1</sup>__ _adj_  
 __unlike<sup>2</sup>__ _prep_  
 __unlucky__ _adj_  
+__unmindful__ _adj_ Failing to give due care or attention; inattentive. _Syn_ forgetful, mindless  
 __unmissable__ _adj_ :three: A movie, play, etc. that is unmissable is so good that you think everyone should see it.  
 __unnerving__ _adj_ :five::hammer::astonished: /ʌnˈnɜːvɪŋ/ Making one feel worried or uncomfortable.  
 __unnoticed__ _adj_ /ʌnˈnəʊtɪst/ Not perceived or observed. _You may go unnoticed._  
@@ -20835,7 +20837,7 @@ __use__ _v_ _informal_
 __username__ _n_ :pencil2:  
 __usher__ _v_ :five::hammer: _NVIDIA ushered in a new era in the high performance computing industry._ _Usher in the global Irish holiday and watch as Chicago dyes its eponymous river green._  
 __usufruct__ _n_  
-__usurp__ _v_  
+__usurp__ _v_ :two: /yoo-SERP/ To _usurp_ something (such as power) is to take and keep it by force and without the right to do so. _Usurp_ can also mean “to take the place of by or as if by force.”  
 __usury__ _n_ :seven::dart: __1__ The practice of lending money at an exorbitant interest rate. __2__ An exorbitant amount or rate of interest.  
 __Utahn__ _n_ :two::hammer: (Utahns)  
 __ute__ _n_ _informal_ (utes) A utility vehicle.  
@@ -20886,7 +20888,7 @@ __valedictory__ _n_ :three: A closing or farewell statement or address, especial
 __valence__ _n_ :two::hammer:  
 __valentine__ _n_ :three: __1a__ A sentimental or humorous greeting card sent to a sweetheart, friend, or family member, for example, on Saint Valentine’s Day. __b__ A gift sent as a token of love to one’s sweetheart on Saint Valentine’s Day. __2__ A person singled out especially as one’s sweetheart on Saint Valentine’s Day.  
 __valet__ _n_  
-__valiant<sup>1</sup>__ _adj_  
+__valiant<sup>1</sup>__ _adj_ :two: Having or showing valor. _Syn_ valorous  
 __valiant<sup>2</sup>__ _n_ :two::hammer:  
 __validate__ _v_ :two: /VAL-uh-dayt/ To validate something means to “recognize, establish, or illustrate” its worthiness or legitimacy. _He validated his daughter’s safety concerns by covering her head to toe with protective padding for her bicycle riding lessons._  
 __valkyrie__ _n_ Any of the female attendants of Odin, figures said to guide fallen warriors from the battlefield to Valhalla.  
@@ -21231,7 +21233,7 @@ __walleye__ _n_ _Walleye fishing._
 __wallflower__ _n_ :three: /WAL-flou-uhr/ __1__ Someone who does not mingle at a social event, such as a party, dance, etc. __2__ A person or an organization that is forced to stay at the sidelines of some activity.  
 __wallop__ _v_ _informal_ :five: (walloped) To beat soundly; strike or hit very hard. _Syn_ whack, wham, whop _They walloped the back of his head with a stick._ _The storm was aimed to wallop Washington, D.C., today._ :es: golpear  
 __walloping__ _n_ A sound thrashing or defeat. _Syn_ debacle, drubbing, thrashing, trouncing, whipping, slaughter  
-__wallow__ _v_ :nine::m: __1__ _(chiefly of large mammals)_ Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ _(of a person)_ Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself) _They tend to wallow in their sorrow._ _Don’t wallow in despair._  
+__wallow__ _v_ :nine::m: __1__ _(chiefly of large mammals)_ Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ _(of a person)_ Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself) _They tend to wallow in their sorrow._ _Don’t wallow in despair._ :es: regodeo  
 __walrus mustache__ _n_ A bushy, drooping mustache.  
 __wamble__ _v_ Move unsteadily or with a weaving or rolling motion. _As John wambled into the kitchen for his morning coffee, his head pounding and stomach reeling, he made a silent vow never to get drunk again._  
 __wan__ _adj_ :four::hammer: _A wan reception._  
@@ -21536,7 +21538,8 @@ __white-knuckled__
 __white<sup>1</sup>__ _n_ :mute:[w~~h~~ite]  
 __white<sup>2</sup>__ _adj_ :mute:[w~~h~~ite]  
 __whitecap__ _n_ A wave with a crest of foam.  
-__whitelist__ _v_ To place on a whitelist.  
+__whitelist<sup>1</sup>__ _n_ A list of people or organizations that have been approved to receive special considerations or privileges.  
+__whitelist<sup>2</sup>__ _vt_ :two: To place on a whitelist.  
 __whiteout__ _n_ :three::hammer:  
 __whitewash<sup>1</sup>__ _n_ :three::hammer: __4__ _slang_ (Financial) An unexploited opportunity. _That is, whitespace is a potential source of profit, almost always associated with some level of risk._  
 __whitewash<sup>2</sup>__ _v_ :five: __1__ To paint or coat with whitewash. __2__ To conceal or gloss over (wrongdoing, for example). __3__ (Sports) To defeat (an opponent) in a game in which the opponent does not score.  
@@ -21598,7 +21601,7 @@ __wield__ _v_ :nine::m: (wields, wielded, wielding) Hold and use (a weapon or to
 __wiener dog__  
 __wiener__ _n_  
 __wigged-out__ _adj_ Mentally or emotionally discomposed. Upset, crazy.  
-__wiggle<sup>1</sup>__ _n_ :two::hammer: _The worm that lost its wiggle._ _A wiggle in Waller Creek._  
+__wiggle<sup>1</sup>__ _n_ :three::hammer: _The worm that lost its wiggle._ _A wiggle in Waller Creek._ _Marylin Monroe’s wiggle down the platform in_ Some Like it Hot.  
 __wiggle<sup>2</sup>__ _v_ :three::hammer: /ˈwɪg əl/  
 __wigglers__  
 __wild card__ _n_ :three::hammer: (wildcard) _The wild card was an expected weekend warmup with rain._  
@@ -21766,6 +21769,7 @@ __wood pellets__
 __wood rasp__ _n_  
 __wood shavings__  
 __woodchuck__ _n_ /ˈwʊdˌtʃʌk/ A North American marmot, _Marmota monax_, having coarse reddish-brown fur. Also called: _groundhog_  
+__wooden__ _adj_ :astonished: __1__ Made or consisting of wood. __2__ Stiff and unnatural; without spirit: _a wooden performance; a wooden smile._ __3__ Clumsy and awkward; ungainly.  
 __wooden-headed__ _adj_ _informal_ Stupid.  
 __woodland__ _n_  
 __woodpile__ _n_  
@@ -21823,6 +21827,7 @@ __world powers__ _n_ :astonished:
 __worldliness__ _n_ _The worldliness of friars._  
 __wormed__ _v_  
 __wormhole__ _n_ :three: /WERM-hohl/ A hypothetical structure of space-time that is envisioned as a long thin tunnel connecting points that are separated in (well) space and time. _Some science fiction writers speculate that wormholes are the intergalactic highways of the future._  
+__worn-out__ _adj_  
 __worriment__ _n_ A difficulty that causes anxiety. _Syn_ troublesomeness, inconvenience  
 __worrisome__ _adj_ :four::hammer:  
 __worrywart__ _n_ :two: One who worries excessively and needlessly.  
@@ -21847,7 +21852,7 @@ __wrap<sup>1</sup>__ _v_ :mute:[~~w~~rap]
 __wrap<sup>2</sup>__ _n_ :mute:[~~w~~rap]  
 __wraparound__ _adj_ :two::hammer: _A wraparound front porch._ _Wraparound season._  
 __wrath__ _n_ :mute:[~~w~~rath]  
-__wreak__ _v_ /REEK/ To bring about or cause (something that is harmful or damaging). It is often used in the phrase “wreak havoc.”  
+__wreak__ _vt_ :two: /REEK/ To bring about or cause (something that is harmful or damaging). It is often used in the phrase “wreak havoc.”  
 __wreak-havoc__ _v_  
 __wreath<sup>1</sup>__ _n_ :five::mega::mute:[~~w~~reath] /riːθ, riθ/ _Funeral wreath._ :es: corona  
 __wreath<sup>2</sup>__ _v_ :mute:[~~w~~reath] _A wreathed sword._  
@@ -21877,7 +21882,8 @@ __write up__ _phr v_ :three: To write something using notes that you wrote earli
 __write__ _v_ :mute:[~~w~~rite]  
 __write-in votes__  
 __write-up__ _n_ :three::hammer:  
-__writhe__ _v_ :nine: /RYTHE/ (writhed, writhing) Writhe means “to twist.” The word is often used when the body or a bodily part is twisting, and especially when it is twisting in pain. _After suffering an injury during the game, he lay on the football field, writhing in pain._ _Dirt flies as 2,500 pounds writhing animal charge across the arena._ _Like writhing red fire._ _The river came alive, writhing._ _Joe writhed in terrible pain._  
+__writhe__ _v_ :nine::m: /RYTHE/ /raɪð/ Writhe means “to twist.” The word is often used when the body or a bodily part is twisting, and especially when it is twisting in pain. _After suffering an injury during the game, he lay on the football field, writhing in pain._ _Dirt flies as 2,500 pounds writhing animal charge across the arena._ _Like writhing red fire._ _The river came alive, writhing._ _Joe writhed in terrible pain._  
+__writhing__ _n_ :two: A twisting struggle.  
 __writs__ _n_  
 __wrong<sup>1</sup>__ _adj_ :mute:[~~w~~rong]  
 __wrong<sup>2</sup>__ _adv_ :mute:[~~w~~rong]  
