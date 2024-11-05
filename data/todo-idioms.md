@@ -1,3 +1,4 @@
+__(as) cool as a cucumber__ _slang_ Calm and composed, especially in times of stress.  
 __(as) good as dead__  
 __(as) quick as a bunny__ Incredibly quickly or speedily. _Quick as a bunny, Mary finished her exam and raced out of the classroom._  
 __(it’s) (a)bout time__ :dart::two:  
@@ -43,6 +44,7 @@ __Aladdin’s cave__ The idiom “Aladdin’s cave” refers to a place filled w
 __all hell broke loose__ All sorts of wild or terrible things happened. _When the boss left early for the weekend, all hell broke loose._  
 __an eye for an eye__  
 __as we speak__  
+__at pains to do something__  
 __bare metal__ Computer hardware without an operating system. _Right now, my new computer is bare metal, and I can’t wait to build it and configure it just the way I want._  
 __bargain for (someone or something)__  
 __barrow man__ __1__ A boy or man who sells goods (usually fruit, vegetables, or other comestibles) from a handcart (barrow) on the streets. Primarily heard in UK. _Touts, thieves, and barrow men._  
@@ -61,6 +63,7 @@ __be my guest__
 __be on the safe side__ :dart:  
 __be partial to (someone or something)__ To be particularly fond of someone or something; to have someone or something as one’s favorite or preference.  
 __be real__  
+__be under a cloud__ To be viewed with suspicion, distrust, or disapproval.  
 __bear (someone or something) in mind__  
 __beat about the bush__ :two: _BrE_ To speak vaguely or euphemistically so as to avoid talking directly about an unpleasant or sensitive topic. Primarily heard in UK.  
 __beef up__ To increase something, often in strength. _With all these protestors here, we definitely need to beef up security._  
@@ -120,6 +123,7 @@ __come and gone__ The idiom “come and gone” refers to something that has arr
 __come around__ __1__ To change one’s view or opinion of someone or something.  
 __come on to (one)__ To flirt with or otherwise show romantic or sexual interest in one. :es: intentar ligarse a  
 __come to a close__ To reach an end point.  
+__come to a head__  
 __come to grips__  
 __come to terms with (someone or something)__  
 __coming-of-age__  
@@ -131,6 +135,7 @@ __crackerjack__
 __cranky__ Irritable; in a foul mood.  
 __creeper__  
 __crowd (one)__  
+__cry (one) a river__ Said sarcastically to someone whose whining, complaints, or tears fall on unsympathetic ears. Most often said as “cry me a river.”  
 __cut (one’s) teeth__ :dart: To gain experience with something, especially at a young age (when one’s teeth would be coming in). _That part-time administrative position allowed me to cut my teeth in the world of Human Resources._  
 __cut and dry__ The “idiom cut and dry” refers to something that is clear, straightforward, and unambiguous. It describes situations, decisions, or outcomes that are easily understood and leave little room for doubt or interpretation.  
 __cut bait__  
@@ -138,6 +143,7 @@ __cut eyes at (someone or something)__ To look at someone or something quickly.
 __dance on air__ To be extremely happy.  
 __dead__ __5__ Absolutely. _You’d better be dead certain about this decision, because you can’t take it back._  
 __dearth__ _n_ /dɜːθ/  
+__dig (something)__ _slang_ To understand, approve of, or enjoy something. _I really dig this music, man!_  
 __dig and poke around__ The idiom “dig and poke around” generally means to search or investigate something thoroughly by looking through various items or areas, often in a somewhat casual or unstructured manner.  
 __disabuse (someone or oneself) of (something)__  
 __discretion is the better part of valor__ _proverb_  
@@ -150,11 +156,12 @@ __fall off the perch__ _BrE_ _old-fashioned, informal_ (fall off your perch) If 
 __famous last words__ A statement or claim that is promptly undone or disproved. This phrase is often humorously or preemptively. A reference to the final words one says before one dies. _A: “I can’t believe the ER has been so quiet today!” B: “Ugh, famous last words for sure.”_  
 __fancy__ _informal_ __2__ To have a desire for (something).  
 __fat chance__ Said of something that is unlikely to happen. :es: vaga posibilidad  
+__feel like doing something__  
 __few and far between__ :two::hammer:  
 __figure of speech__ A form of expression in language, either spoken or written, that employs nonliteral meaning, unusual construction, or a particular combination of sounds to emphasize or heighten the rhetorical effect. _Bob: “Does eating an apple a day really keep doctors away from you?” Doug: “Don’t take it so literally, Bob, it’s just a figure of speech.”_  
 __fill the gap__  
 __filled to the brim__  
-__fire and brimstone__ __1__ _n_ The misery that one faces in hell. _Unrepentant criminals better prepare themselves for fire and brimstone after death._  
+__fire and brimstone__ :two: __1__ _n_ The misery that one faces in hell. The supposed torments of hell. In the Bible, fire and brimstone are the means of divine punishment for the wicked. _Unrepentant criminals better prepare themselves for fire and brimstone after death._  
 __first come, first served__ The first people present will be the first to receive something, often something that is available in limited quantities.  
 __fit the bill__  
 __floor (one)__  
@@ -205,6 +212,7 @@ __give or take__
 __give something a miss__ _I’ll give coffee a miss; I’m off to bed now._  
 __glass cliff__ _n_ A situation in which a woman or minority has advanced professionally at a time when adverse circumstances or crises make it more likely for the person to fail at the job.  
 __glimmer of hope__  
+__go overboard__ :es: pasarse  
 __go strong__  
 __go through a rough patch__ To experience or be in the midst of a period of trouble, difficulty, or hardship.  
 __go to hell in a handcart__ To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin. _With this new president in office, our country is going to go to hell in a handcart!_  
@@ -234,6 +242,8 @@ __haggle over (something)__
 __hairpin bend__ :two: A very sharp, approximately 180° bend in a road.  
 __hanker for (something)__ To have a very strong, persistent desire or craving for something. _It is not something to hanker for._  
 __happy-go-lucky__ Always happy or in a pleasant mood; carefree. _Arya is so happy-go-lucky that I doubt any negative thing you say would bother her._  
+__harp on (one) (about something)__ To nag one persistently and annoyingly about some issue. _It was one mistake—why do you keep harping on me about it?_  
+__harp on (something)__ To continue to mention or complain about some issue in a persistent and irritating manner. _It was one mistake—why do you keep harping on it?_ :es: machacar  
 __hatchet man__  
 __have (one’s) heart on (one’s) sleeve__ To openly display or make known one’s emotions or sentiments.  
 __have a light heart__ To have a carefree, uplifted attitude; to be in a happy or gladdened state or condition. _Though it is, of course, bittersweet to leave my friends and family behind, I have a light heart because of the amazing opportunities that await me in Europe._  
@@ -254,6 +264,7 @@ __hit a brick wall__ To come up against an immovable or insurmountable difficult
 __hit a snag__  
 __hit and miss__ (hit or miss)  
 __hit home__ :dart:  
+__hit pay dirt__ [:scroll: This idiom refers to a miner’s finding gold or other precious metals while sifting soil] To discover or come upon something very, particularly, or abundantly valuable or useful, especially after a long or arduous search. :es: dar con el oro  
 __hit the ground running__  
 __hit-and-run__ :smiling_imp:  
 __hold my beer__  
@@ -351,6 +362,7 @@ __insofar as__ :two: To such an extent that; to the degree that. _Insofar as mon
 __inveigle (someone) into (something)__ :smiling_imp: To trick or deceive someone into doing something. _I’m just worried that she’s using the kids to inveigle you into marrying her._  
 __iron grip__ __2__ Total, dominant control (over someone or something).  
 __it ain’t over till/until the fat lady sings__  
+__it figures__ It makes sense; it is as I expected or might have guessed. :es: es lógico  
 __it goes without saying__ :two::hammer:  
 __it never rains but it pours__ When something good or bad happens, similarly good or bad things tend to follow.  
 __it remains to be seen__ Something is not yet clear, certain, or known.  
@@ -489,8 +501,10 @@ __living proof__
 __loaded gun__ A situation or person that is dangerous or volatile. For example, a person might be described as a “loaded gun” if they are highly emotional or prone to outbursts.  
 __long and hard__  
 __long in the tooth__  
+__long past due__ “Long past due” refers to something that is significantly overdue or late. It implies that a task, payment, or obligation should have been completed or met a long time ago and has not been addressed within the expected timeframe. :es: hace tiempo que se tendría que haber llevado a cabo  
 __long time no see__ :two::hammer:  
 __look the other way__  
+__look up to (one)__ :es: admirar a alguien  
 __looks like__  
 __loony bin__ _slang_ A psychiatric hospital or insane asylum. From a glib adaptation of the word “lunatic,” the phrase is now considered tactless at best, extremely insulting at worst.  
 __loop the loop__ __1__ _n_ A flight maneuver in which an aircraft flies in a complete vertical circle. (Usually hyphenated.) _I loved going to air shows as a kid, and I always dreamed of doing loop-the-loops in an airplane when I grew up._ __2__ _v_ To fly an aircraft in a complete vertical circle. _I thought I was going to throw up when the pilot looped the loop with our little biplane._  
@@ -510,6 +524,8 @@ __make (both) ends meet__
 __make (one’s) eyes pop (out)__  
 __make (one’s)/the rounds__  
 __make (something) clear (to one)__ :two:hammer:  
+__make a pass at (one)__ :dart: To make sexual advances toward or propositions to one; to hit on one. _Do you think she was making a pass at me, or was she just being nice?_ :es: intentarse ligar a  
+__make game of (someone or something)__ To ridicule, mock, or tease someone or something; to make fun of someone or something. _I really don’t appreciate you making game of my disability like that._  
 __make it__ __1__ To be successful.  
 __Maslow’s hammer__ :dart: The inability to recognize other possible outcomes or solutions if one relies too much on a particular tool, method, or mindset. The term refers to 20th-century psychologist Abraham Maslow and his idea that “If all you have is a hammer, everything looks like a nail.” Also known as the “golden hammer,” and “the law of the instrument.”  
 __mixed feelings__  
@@ -609,6 +625,7 @@ __oops-a-daisy__ An exclamation of surprise or apology, as after doing something
 __open the door for (someone or something)__  
 __other than (something)__ (other than that) Besides or excluding something. _Other than having a view of the parking lot, his apartment is great._  
 __out of (one’s) hair__ No longer pestering or annoying to one; not one’s responsibility or burden any longer. _I’ve gotten the kids out of my hair for a few hours so I can go and get a relaxing massage by myself._  
+__out of (one’s) league__  
 __out of print__ No longer being printed and sold by a publisher.  
 __over and out__ Said to mark the end of communication between two people. Used especially in radio communication, in which it signals that a person is done speaking and does not expect a reply from the other person. _A: “Oh, and while you’re at the store, could you please get some milk, too?” B: “Sure thing. Over and out.”_  
 __over the phone__ :two: By calling on the telephone. _You can order a pizza over the phone._  
@@ -633,8 +650,10 @@ __pissant<sup>1</sup>__ _n_
 __pissant<sup>2</sup>__ _adj_  
 __pitch (something) at__  
 __play havoc with (someone or something)__ To cause issues or disruptions for someone or something. _The road closures have played havoc with rush-hour traffic._  
+__play possum__ :es: hacerse el muerto  
 __play second fiddle__  
 __plop down__ _informal_ __1__ To sit or lie down in a heavy or careless way. _He plopped himself down in the chair._ __2__ To drop or place (something or someone) in a heavy or careless way. _He plopped the tray down._ __3__ _US_ To pay or spend (money). _I can’t afford to just plop down $30 for a T-shirt._  
+__plowed over__ Being overwhelmed or completely defeated by something.  
 __plunger__ _n_ /ˈplʌndʒə/ __3__ _informal_ A reckless gambler.  
 __point the finger at (one)__  
 __poke around__ :three: To investigate, search through, or snoop around something or some place.  
@@ -665,6 +684,7 @@ __raise eyebrows__
 __rake in__  
 __recoup (something) from (someone or something)__ To recover, regain, or restore something from someone or something. _You’ll have to pay for everything out of pocket, but you can recoup it all from HR after you’re back from the trip._  
 __ride or die__ _n_ One’s closest, most reliable or trustworthy friends. _Liz is my ride or die—I can totally count on her to be there for me in any situation._  
+__rifle through (something)__ To look through something very quickly, roughly, or energetically.  
 __roast__  
 __roll with the punches__  
 __rolling stone__  
@@ -711,6 +731,7 @@ __shit (one’s) pants__ __2__ _rude slang_ By extension, to be very surprised. 
 __shoot (oneself) in the foot__  
 __shop around (for something)__ :dart::three: To browse different stores, vendors, or selections to find the best price or option for something one wants to buy.  
 __shortlisted__ Placed on a final list (a shortlist) of people or things that are being considered for something, such as an award or a position of employment. _I was so shocked to hear that my story was shortlisted for the fiction award!_  
+__shot through with (something)__ Containing something; interwoven, intermixed, or filled with something. _The rose was a lovely pink shot through with streaks of white._ _John’s comments are often shot through with sarcasm._ :es: impregnado  
 __show (one’s) hand__  
 __show time__  
 __shrink from (someone or something)__ :dart: __1__ To recede or recoil from someone or something. _The way the gums are shrinking from your teeth is a clear sign of gingivitis._ _The child shrank from the men as they approached the house._ __2__ :dart: To avoid or neglect some action, duty, or responsibility. _You wanted to lead this branch, which means you can’t shrink from the thornier aspects of the job._  
@@ -732,6 +753,7 @@ __slice of the pie__
 __slip up__ __1__ _v_ To blunder; to make a mistake or an error. _I think I slipped up and sent the check to the wrong address._  
 __slippery path__ A situation or course of action that is fraught with difficulties, risks, or potential negative consequences.  
 __slowly and surely__  
+__slowly but surely__  
 __small print__ (fine print) An important part of a document that is not easily noticed because of the smallness of the printing. _You should have read the small print before signing the contract._  
 __smarty-pants__  
 __smell a rat__ To suspect an instance of betrayal, deception, or corruption.  
@@ -742,7 +764,7 @@ __sneak peek__
 __snort at (someone or something)__  
 __so be it__  
 __so much so that__  
-__sock__ _informal_ __2__ _v_ To deliver a sharp, forceful blow.  
+__sock__ :two: _informal_ __2__ _v_ To deliver a sharp, forceful blow.  
 __soft spot__  
 __something of sorts__ An inferior example of a kind of something.  
 __sort of__ _informal_ Used with adjectives, adverbs and verbs when something is difficult to describe or when the word you use is not exactly what you mean. _My new dress is sort of green._  
