@@ -828,31 +828,6 @@ __trick of the light__
 __trigger-happy__ __2__ Having a tendency to do something or engage in or begin some activity with even the smallest level of enticement or provocation. _Whenever I’m editing, I always get a little trigger-happy with the delete key and end up having to add some things back later._  
 __true colors__  
 __truss someone or something up__ To bind, tie, or bundle someone or something up. _The attendants trussed Walter up and took him to a padded cell._ _They trussed up Walter tightly._ _Ann trussed the bundle up and sent it off._  
-__truth is__ :three: The phrase “truth is” is often used to introduce a statement that conveys honesty or an important point that the speaker believes to be true. It serves to emphasize the authenticity or sincerity of what follows.  
-__try one’s hand__ _She tried her hand at journalism._ :es: probar  
-__twerp__  
-__twist the knife__ :smiling_imp: To add to, exacerbate, or amplify a betrayal or wrong by further malicious actions. _He said it was over, and then he twisted the knife and said he had never loved me._  
-__two peas in a pod__  
-__uh-huh__  
-__ventilate__ To kill (someone) by shooting.  
-__wait and see__  
-__walk the wire__ To navigate a delicate or precarious situation. It implies taking risks and balancing between different challenges or conflicting demands.  
-__watch one’s step__ Exercise caution, as in _You’d better watch your step talking to them about a merger._ Often put as an admonition, this phrase transfers taking care in walking to other kinds of caution.  
-__watering hole__  
-__way to go__  
-__what could (possibly) go wrong__  
-__what could go wrong__  
-__what gives?__  
-__whatcha__ :dart: (watcha, wotcha, wotcher, what’cha, whatchya, whutcha) _colloquial_ __1__ Contraction of what are you. _Whatcha doin’?_ _Whatcha talking ’bout?_ _Whatcha sayin’?_ __2__ Contraction of what have you. _Whatcha been up to?_ __3__ Contraction of what do you. _Whatcha think?_ _Whatcha got there?_ _Whatcha wanna do now?_ __4__ Contraction of what you. _Do whatcha gotta do!_  
-__wheeler-dealer__  
-__white tie__ The most formal of all dress codes, requiring men to wear white bow ties and black tailcoats and women to wear evening or ball gowns.  
-__willy-nilly__ :two::hammer: [:scroll: This expression is a shortened form of ‘willing or not willing.’]  
-__wimp__ _slang_ Someone who is too nervous, afraid, or reserved to do anything too intense, extreme, or risky. _We’re all doing the bungie jump. Don’t be a wimp, Bob!_ :es: debilucho; parado  
-__wimpy__ Overly fearful, anxious, conservative, or reserved; unwilling or unable to do that which is brave, adventurous, or risky. :es: blandengue  
-__wind down__ __2__ To cause something to slow and near an ending. In this usage, a noun or pronoun can be used between “wind” and “down.” _We’ll wind down our practice with some gentle stretches._  
-__with a start__ The phrase “with a start” refers to a sudden, involuntary movement or reaction, typically caused by surprise or alarm. It is often used to describe the action of waking up abruptly, as in the expression “I woke up with a start.” _I dreamed about falling and I woke with a start._  
-__with open arms__ Very happily and eagerly.  
-__with the naked eye__ _They can be seen with the naked eye._  
 __woozy__ :dart:  
 __work for pittance__ To work for very little money.  
 __work like a Trojan__  

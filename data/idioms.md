@@ -6343,6 +6343,8 @@ __true story__
 __true to (one’s) word__ As one has promised.  
 __true to form__ :two: Exactly as expected; following the usual pattern. _Susie’s attendance has always been pretty erratic and, true to form, she didn’t come to today’s meeting._  
 __trump card__ _It was time for me to play my trump card._  
+__truth is__ :three: The phrase “truth is” is often used to introduce a statement that conveys honesty or an important point that the speaker believes to be true. It serves to emphasize the authenticity or sincerity of what follows.  
+__try one’s hand__ _She tried her hand at journalism._ :es: probar  
 __try out__ :two::hammer:  
 __tuff__ :two: In James Ellroy’s novels, the term “tuff” is often used to describe someone who is tough, gritty, and hardened. Ellroy is known for his hardboiled writing style and his focus on the seedy underbelly of society, and the term “tuff” reflects that. It’s often used to describe characters who are street-smart, tough-talking, and unafraid to engage in violent or risky behavior.  
 __tug of war__ :three: A struggle for supremacy.  
@@ -6373,17 +6375,19 @@ __turnaround jumper__ _basketball_
 __turnaround__  
 __turning point__ :two: A time when things may change; a point at which a change of course is possible or desirable.  
 __tush__ _slang_ One’s buttocks. _The _tush push_ is a play in American football in which the quarterback receives the ball and is immediately pushed from behind by other players._  
+__twerp__  
 __twiddle one’s thumbs__ :astonished: Be bored or idle, as in _There I sat for three hours, twiddling my thumbs, while he made call after call._ This expression alludes to the habit of idly turning one’s thumbs about one another during a period of inactivity.  
 __twist (one’s) arm__ To pressure or force one into doing something.  
+__twist the knife__ :smiling_imp: To add to, exacerbate, or amplify a betrayal or wrong by further malicious actions. _He said it was over, and then he twisted the knife and said he had never loved me._  
 __twisted__  
 __twists and turns__ :dart::three: Surprising changes. _It’s hard to follow all the twists and turns of the plot._  
 __two a penny__ :two: Very common, ordinary, or widespread. _At first, they were quite novel and interesting, but now these little organic cafés have become two a penny._  
-__two peas in a pod__ Two people who are very similar, typically in interests, dispositions, or beliefs.  
+__two peas in a pod__ :two: Two people who are very similar, typically in interests, dispositions, or beliefs.  
 __two-edged sword__ Something that can be at once beneficial and problematic; anything having or offering both good and bad aspects or outcomes.  
 __two-way street__ _n_ :five: An arrangement or a situation involving reciprocal obligation or mutual action. A situation in which both sides must put forth an equal amount of effort to achieve a desired result. _Respect is a two-way street—you have to give it if you expect to receive it._  
 __twofer__  
 __U-turn__ :two: __2__ By extension, any sudden and drastic reversal, as of opinion, policy, intention, fortune, trend, etc.  
-__uh-huh__ :two::hammer:  
+__uh-huh__ :three::hammer:  
 __uh-oh__ _interj_ _Uh-oh. The cops are here._  
 __uncanny valley__ :four::hammer:  
 __uncharted territory__ :four::hammer:  
@@ -6454,6 +6458,7 @@ __vamp up__
 __vanilla__ __1__ _slang_ Plain, uninteresting, unexciting, or unadventurous. A reference to vanilla being considered a plain or ordinary flavor.  
 __vanish into thin air__ To disappear completely, without leaving a trace.  
 __veep__ _n_ /vip/ A vice president. _The veep is going to preside today._  
+__ventilate__ To kill (someone) by shooting.  
 __verbal diarrhea__  
 __verbum sap__ A shortening of the Latin phrase _verbum sapienti sat est_, literally, “a word to the wise (is sufficient),” meaning a wise or prudent person does not or should not require any further explanation. Typically used to emphasize the advice implied by one’s statement. _Repeating the same weak, debunked arguments won’t make them true, you know. Verbum sap._  
 __verge (up)on something__ :two: To be almost identical to something; to be similar to or almost the same as something. (Upon is formal and less commonly used than on.) _Your actions verge upon mutiny. What you said verges on an insult._  
@@ -6467,7 +6472,7 @@ __vie for (something)__ :two::hammer:
 __vouch for (someone or something)__  
 __vroom__  
 __w/end__ :three: _informal_ Weekend.  
-__wait and see__ :four: To act with caution and patience until something happens. _I guess I just have to wait and see until the doctor calls with the test results._  
+__wait and see__ :five: To act with caution and patience until something happens. _I guess I just have to wait and see until the doctor calls with the test results._  
 __wait for it__ :two::hammer:  
 __wait for the other shoe to drop__ To wait for something bad to happen.  
 __wait-and-see__ Hesitant, skeptical, or circumspect, as of a mindset, outlook, or tactic. _With all due respect, the situation is too dire for this kind of wait-and-see approach._  
@@ -6490,6 +6495,7 @@ __walk someone through something__ :two: To lead someone through a complex probl
 __walk someone through__  
 __walk the line__ :dart::three: To remain neutral rather than committing to a particular position, view, or thing. _When my kids fight, I try to walk the line rather than siding with one of them._  
 __walk the walk__ :dart::two::hammer:  
+__walk the wire__ To navigate a delicate or precarious situation. It implies taking risks and balancing between different challenges or conflicting demands.  
 __walk through__  
 __walk your talk__ To back up one’s boastful talk with meaningful actions. (A compressed version of the largely American, “If you’re going to talk the talk, you have to walk the walk,” or, “You talk the talk, but can you walk your walk?” and other such iterations.) _This consultant has sold us on some pretty radical ideas, but it remains to be seen whether he can walk his talk._  
 __walking distance__  
@@ -6512,6 +6518,7 @@ __wassup__ _interj_ /(h)wəˈsəp/ (whassup) _coloquial US_ What’s up; what’
 __wasted__ _slang_ Very intoxicated, especially with alcohol. _Man, I was so wasted last night! I can barely remember what even happened!_  
 __watch (one’s) language__ To speak politely, without using profane, obscene, or rude language. Often used as an imperative. _You watch your language, young lady, or you’ll be grounded for the weekend!_  
 __watch (someone’s) back__  
+__watch one’s step__ Exercise caution, as in _You’d better watch your step talking to them about a merger._ Often put as an admonition, this phrase transfers taking care in walking to other kinds of caution.  
 __watch your back__  
 __watch your six__ Your intuitions are correct; the phrase ‘watch your six’ does indeed mean ‘watch your back.’ It refers to the 6 position on the face of a clock. Keep an extra set of eyes on the back of your head. _Dude, be careful man. Watch your six._  
 __watchdog__  
@@ -6519,11 +6526,12 @@ __water down__ :three::hammer:
 __water torture__  
 __water under the bridge__ :dart::two::hammer: _We’ll regard it as water under the bridge, shall we?_  
 __watered-down__  
-__watering hole__ :two::hammer: _Revelers can move around watering holes with impunity._  
+__watering hole__ :three::hammer: _Revelers can move around watering holes with impunity._  
 __watershed moment__ :five: A moment of critical importance that marks a dramatic change of course for a particular situation or activity. _The result of the lawsuit proved to be a watershed moment in the fight against censorship._  
 __wax lyrical about something__ If you _wax lyrical_ about a subject, you talk about it in an enthusiastic way. _He waxed lyrical about the skills and commitment of his employees._  
 __way back when__ A relatively long time ago, especially when recalling something that is not the case now. Primarily heard in US. _I used to really like this band way back when, but now that I’m older, they just sound silly to me._  
 __way of life__  
+__way to go__  
 __wazoo__  
 __we are coming for you__  
 __weak in the knees__ Unsteady or flustered due to a strong emotional reaction to someone or something. _Hearing the news of my father’s sudden death, I went weak in the knees and could barely remain standing._  
@@ -6557,11 +6565,13 @@ __whammo__ It’s basically a slang term for a big, dramatic, or explosive event
 __whanger__ :two: _slang_ The penis.  
 __what a drag__  
 __what are the odds__  
+__what could (possibly) go wrong__  
+__what could go wrong__  
 __what do I know__  
 __what do you know__ A phrase used to indicate one’s surprise upon discovering something. _Well, what do you know! It says here that my ancestors first came to this country in 1857!_ :es: ¡Qué sorpresa!  
 __What do you say?__ Does that sound good to you? Do you agree?  
 __what else?__ The phrase “what else?” in James Ellroy’s novels typically carries a sense of cynicism, as if the character is resigned to the fact that there is nothing new or unexpected to be found in the world. It often reflects the jaded worldview of the characters in his crime novels, who have seen the worst of humanity and are not easily surprised or impressed. The phrase is often used as a rhetorical question, implying that the speaker already knows the answer, or as a means of brushing off a situation or event as being predictable or mundane.  
-__what gives?__ :three: _informal_ Used to ask the reason for something. _You’ve been acting weird all week. What gives?_  
+__what gives?__ :four: _informal_ Used to ask the reason for something. _You’ve been acting weird all week. What gives?_  
 __what if scenario__  
 __what if__  
 __what in tarnation__ An exclamation used to emphasize surprise, shock, anger, disgust, etc. _Just what in tarnation is going on here?_ _Aw, what in tarnation! I just had this fixed, and now there’s a dent in it!_  
@@ -6576,7 +6586,9 @@ __What’s that got to do with the price of tea in China?__ :two: A rhetorical q
 __What’s the catch?__ What’s the problem, drawback, detriment, or risk that I’m not privy to or able to see? _Why are you selling this for so little? What’s the catch?_  
 __what’s the deal?__  
 __what’s up with__  
+__whatcha__ :dart: (watcha, wotcha, wotcher, what’cha, whatchya, whutcha) _colloquial_ __1__ Contraction of what are you. _Whatcha doin’?_ _Whatcha talking ’bout?_ _Whatcha sayin’?_ __2__ Contraction of what have you. _Whatcha been up to?_ __3__ Contraction of what do you. _Whatcha think?_ _Whatcha got there?_ _Whatcha wanna do now?_ __4__ Contraction of what you. _Do whatcha gotta do!_  
 __wheel man__ The driver of an escape vehicle during some kind of crime, especially a robbery. Sometimes spelled as a single word.  
+__wheeler-dealer__  
 __wheels are turning, the__ Things have begun developing, unfolding, or progressing. _That gets your wheels turning._  
 __when in Rome (do as the Romans do)__ _proverb_ One should do what is customary or typical in a particular place or setting, especially when one is a tourist. _I don’t love cotton candy, but we are at a carnival. When in Rome, right?_  
 __when it comes to (someone or something)__  
@@ -6608,6 +6620,7 @@ __white elephant__ :two::hammer:
 __white knuckle something__  
 __white lie__ :two: Lie to protect another person’s feelings.  
 __white on rice__ As close as can be. Often used in the phrase “like white on rice.”  
+__white tie__ The most formal of all dress codes, requiring men to wear white bow ties and black tailcoats and women to wear evening or ball gowns.  
 __white-collar worker__  
 __white-knuckle__  
 __whitewash__ :two::hammer:  
@@ -6633,13 +6646,15 @@ __wild ride__ :two: A _wild ride_ refers to an experience or adventure that is t
 __wild__ :two::hammer:  
 __wild-goose chase__ A worthless hunt or chase; a futile pursuit. _I wasted all afternoon on a wild-goose chase._  
 __wildest dreams__ :two: All the things that one has ever imagined or hoped. Always used in a phrase such as “in (one’s) wildest dreams” or “never in (one’s) wildest dreams.” _Never in my wildest dreams did I think that someday I’d be living in Paris!_  
-__willy-nilly__  
+__willy-nilly__ :three::hammer: [:scroll: This expression is a shortened form of ‘willing or not willing.’]  
+__wimp__ _slang_ Someone who is too nervous, afraid, or reserved to do anything too intense, extreme, or risky. _We’re all doing the bungie jump. Don’t be a wimp, Bob!_ :es: debilucho; parado  
+__wimpy__ Overly fearful, anxious, conservative, or reserved; unwilling or unable to do that which is brave, adventurous, or risky. :es: blandengue  
 __win (one) over__  
 __win (something) in a walk__ :two: To win (something) easily, handily, or without much or any effort. _Enjoying the benefit of a week off between games, the home team won this match in a walk._  
 __win out__ To defeat someone or something; to prevail.  
 __win over__  
 __win-win__ _A win-win scenario._  
-__wind down__ :four::hammer:  
+__wind down__ :five::hammer: __2__ To cause something to slow and near an ending. In this usage, a noun or pronoun can be used between “wind” and “down.” _We’ll wind down our practice with some gentle stretches._  
 __wind__ __1__ _informal_ A hint, suggestion, or rumor about something. Used especially with the verb “get.” _Don’t let the boss catch wind of what you’re doing, or you’ll be fired for sure!_ __2__ _informal_ Intestinal gas; flatulence. _It is quite rude to pass wind so openly when in the company of others!_  
 __window dressing__ :two: __2__ By extension, something that makes a person or thing look or seem better than it really is.  
 __window of opportunity__  
@@ -6670,6 +6685,7 @@ __with a bang__ :seven::hammer: _Chamber music with a bang!_
 __with a heavy hand__ :two: __1__ In an excessive, authoritarian, or oppressive way or manner. _The police dispersed the protesters with a heavy hand._  
 __with a passion__ _informal_ :two: Used to say that someone strongly dislikes someone or something. _She hated him with a passion._ _He loved her with a passion._  
 __with a record__  
+__with a start__ The phrase “with a start” refers to a sudden, involuntary movement or reaction, typically caused by surprise or alarm. It is often used to describe the action of waking up abruptly, as in the expression “I woke up with a start.” _I dreamed about falling and I woke with a start._  
 __with a twist__ :five: The phrase “with a twist” is an idiomatic expression that means something is done or presented in an unexpected or unconventional way, often with a surprise or a new spin. It can imply that something is extraordinary, not straightforward, or deviates from the usual procedure.  
 __with a vengeance__ :four: Determinedly or passionately, perhaps fueled by anger. _After my girlfriend dumped me, I started working out with a vengeance._ _We’re going to have to clean with a vengeance to get the house ready in time._ _Die Hard with a Vengeance._  
 __with a view__ _Chateau with a view._  
@@ -6679,7 +6695,9 @@ __with each passing day__ As time continues to pass, day by day.
 __with flying colors__ :three: With an overwhelming victory, triumph, or success. With distinction. _In these respects, Delta Air Lines passed with flying colors._  
 __with great (something) comes great (something else)__  
 __with no frills__ With no extraneous details or embellishments. Not fancy, decorous, or elaborate. Simple. _My history teacher is not someone who gets impressed by a beautiful cover page, so I made sure that my project was straightforward and presented the information with no frills._  
+__with open arms__ Very happily and eagerly.  
 __with reckless abandon__ With rash, unrestrained impulsiveness, enthusiasm, or zeal. _Ever since my brother got that car for his birthday, he’s been motoring around at night with reckless abandon._  
+__with the naked eye__ _They can be seen with the naked eye._  
 __wither away__  
 __within arm’s reach__ Close enough to touch, either literally or hypothetically. Easily attainable. _Can you pass me that book over there? It’s within arm’s reach of you._  
 __within reach__  
