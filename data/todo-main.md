@@ -49,11 +49,15 @@ __bog__ _n_ _A cow grazing in a bog._
 __boiler suit__ _n_ _BrE_ A one-piece work garment consisting of overalls and a shirt top usually worn over ordinary clothes to protect them.  
 __bollock__ _vt_  
 __brandish__ _v_  
+__brat__ _n_  
+__breadcrumbs__ _n pl_ Very tiny pieces of bread. _Dip the fish in egg and breadcrumbs._ :es: pan rallado  
 __brethren__ _n_ :dart: __1__ A plural of brother.  
 __bribe__ _n_ :smiling_imp:  
+__brimstone__ _n_ __1__ Sulfur, especially considered as a component of the torments of hell in Christianity. (See _fire and brimstone_.) An obsolete name for sulphur.  
 __bub__ _n slang_ :dart:  
 __buckle__ _v_  
 __bumbling__ _adj_  
+__burgeon__ _vi_ :es: florecer  
 __burin__ _n_  
 __burl__ _vt_  
 __burn (someone or something) to a crisp__  
@@ -86,9 +90,11 @@ __clearing bank__ _n_ (in Britain) Any bank that makes use of the central cleari
 __close to one’s chest__  
 __close-knit__ _adj_ Held tightly together, as by social or cultural ties: _a close-knit family._  
 __clued up__ _adj_ _BrE_ _informal_ Knowledgeable about a topic or situation; possessing the facts. :es: al tanto (de), al corriente (de)  
+__coda__ _n_  
 __cogitation__ _n_ Thoughtful consideration; meditation. _Syn_ study  
 __compelling__ _adj_  
 __contemptuous__  
+__contrive__  
 __copperas__ _n_ /ˈkɒpərəs/ A less common name for ferrous sulphate.  
 __coriander__ _n_ :es: cilantro  
 __cornices__ _n_ :two::hammer:  
@@ -114,13 +120,16 @@ __deign__ _v_
 __demob__ _v_  
 __den__ _n_ _The bear’s den._ :es: madriguera  
 __denizen__ _n_  
+__denouement__  
 __deport__ _vt_ __1__ To expel from a country: _deported the foreigner who had entered the country illegally._  
 __deride__ _vt_ [:scroll: Latin dērīdēre : dē-, de- + rīdēre, _to laugh at_]  
 __descant__ _n_  
 __despicable__  
 __deter__ _v_ :two: /dɪˈtɜr/ /dih-TER/ To _deter_ someone is to discourage or prevent them from acting. To _deter_ a thing is to stop or limit it.  
+__diction__ _n_  
 __diffident__ _adj_  
 __dilation__ _n_ :mega: /daɪˈleɪ ʃən, dɪ-/  
+__dim-witted__  
 __dimly__ _adv_ __2__ In a manner lacking interest or vitality.  
 __dimple__ _n_  
 __dinghy__ _n_  
@@ -132,13 +141,16 @@ __dishevelled__
 __disinformation__ _n_  
 __dispensary__ _n_  
 __disport__ _v_  
+__disrepute__ _n_ :es: desprestigio  
 __dissatisfied__  
 __distress signal__ _n_  
+__dither__ _v_  
 __divide__ _n_  
 __divots__ _n_  
 __dodger__ _n_ __1__ One that dodges or evades: _a skilled dodger of reporters’ questions._  
 __dormitory__ _n_  
 __dosser__ _n_ Someone who sleeps in any convenient place. _Syn_ street person  
+__doting__ _adj_  
 __douse__  
 __dowse__ _vi_ (douse) _Dowsing with a pendulum._  
 __dowsing__ _n_ The practice of prospecting for water or minerals using a divining rod. _Syn_ dowse, rhabdomancy  
@@ -153,8 +165,10 @@ __duly__ _adv_ __1__ In a proper manner: _a duly appointed official._
 __duodecimo__ _n_  
 __dusky__ _adj_ Characterized by little or inadequate light; shadowy. _Syn_ twilight, twilit  
 __duster__ _n_ :dart::camera: A loose coverall (coat or frock) reaching down to the ankles. _Syn_ gaberdine, smock  
+__dustpan__ _n_ :dart: :es: recogedor  
 __duty solicitor__ _n_ (duty counsel, duty lawyer) A solicitor whose services are available to a person either suspected of, or charged with, a criminal offence free of charge (pro bono), if that person does not have access to a solicitor of their own and usually if it is judged by a means test that they cannot afford one. The system is operative in several Commonwealth countries, including the United Kingdom, Australia, New Zealand and Canada.  
 __earwitness__ _n_ /EER-wit-nis/ One who testifies or can testify to something heard.  
+__edgeways__  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
 __eggnog__ _n_  
 __egotistical__ _adj_ Characteristic of those having an inflated idea of their own importance. _Syn_ egotistic, narcissistic, self-loving  
@@ -168,6 +182,7 @@ __emphasis__ _n_ :two::hammer: /ˈɛm fə sɪs/ /ˈɛmfəsɪs/
 __emphasize__ _vt_ /ˈɛm fəˌsaɪz/  
 __end-stage__ _adj_ /ĕnd′stāj′/ Of or relating to the final phase of a terminal disease.  
 __endure__ _v_ _I could hardly even endure my own reflection in the mirror._  
+__engage__ _v_ :astonished: [tfd.com, first definition!]  
 __enlightened__ _adj_ _Enlightened despot._  
 __ennui__ _n_ :es: desgana  
 __ensconce__ _v_  
@@ -180,12 +195,14 @@ __equivocacy__ _n_ /i-KWIV-uh-kuh-see/ The quality of being deliberately ambiguo
 __ethos__ _n_ /EE-thahss/ _Ethos_ refers to the guiding beliefs of a person, group, or organization. :es: espíritu; escala de valores _The company made environmental awareness part of its business ethos._  
 __euphoria__ _n_ /yoo-FOR-ee-uh/ _Euphoria_ refers to a feeling of great happiness and excitement.  
 __eurythmy__ _n_  
+__evertone__ _n_  
 __exact__ _v_ /ig-ZAKT/ To exact something (such as payment or revenge) is to demand it and get it, especially by using force or threats. _Exact_ is also used in phrases like “exact a terrible toll” and “exact a high/heavy price” to say that something has caused a lot of suffering, loss, etc.  
 __exhort__ _v_ /ig-ZORT/ To urge, persuade, advise, etc. earnestly.  
 __exile<sup>1</sup>__ _n_ :es: exilio, destierro, :dart: exiliado, desterrado  
 __exile<sup>2</sup>__ _vt_ :es: exiliar, desterrar  
 __exonerate__ _v_  
 __exorbitant__ _adj_ /ig-ZOR-buh-tunt/  
+__extol__ _vt_ (extoll) To praise highly; exalt.  
 __extort__ _vt_ :smiling_imp: /ik-STORT/ [:scroll: From Latin extorquere (to wrench out), from ex- (out) + torquere (to twist)] To obtain something by psychological pressure, intimidation, force, threat, etc.  
 __exuberant__ _adj_ :astonished: /ig-ZOO-buh-ruhnt/ __1__ Overflowing with energy, enthusiasm, and joy. __2__ Plentiful; productive; growing abundantly.  
 __fallacious__ _adj_ /fuh-LAY-shus/ _Fallacious_ is a formal word that typically describes something, such as an argument or assumption, that is false or inaccurate and that tends to mislead or deceive others.  
@@ -226,6 +243,7 @@ __firebomb<sup>2</sup>__ _v_ To attack with firebombs.
 __firebrand__  
 __firsthand__  
 __fish__ _v_ __3__ To seek something in a sly or indirect way: _fish for compliments._  
+__fishwife__ _n_ :es: verdulera  
 __flag<sup>1</sup>__ _n_  
 __flag<sup>2</sup>__ _vt_  
 __flag<sup>3</sup>__ _vi_ :astonished: To lose vigor or strength; weaken or diminish: _The conversation flagged._ :es: decaer  
@@ -262,6 +280,7 @@ __folly__ _n_ (construction)
 __foment__ _v_ /FOH-ment/  
 __foodstuff__ _n_ :two: A substance that can be used or prepared for use as food.  
 __footage__ _n_ :mega:  
+__footmen__ _n pl_ :es: criados  
 __for good__  
 __forecourt__ _n_  
 __forelock__ _n_ __1__ A lock of hair growing or falling over the forehead.  
@@ -293,6 +312,7 @@ __gabby__ _adj_ Tending to talk excessively. _Syn_ chatty, garrulous, loquacious
 __gadabout__ _n_ /GAD-uh-bout/ A gadabout is a person who flits about in social activity, as by going to many places and social events for pleasure.  
 __gaffer__ _n_ __1__ [:scroll: Probably alteration (influenced by _grandfather_) of _godfather_] An electrician in charge of lighting on a movie or television set.  
 __gaggle__ _n_ __2__ _informal_ A disorderly group of people.  
+__galling__ _adj_ :es: mortificante  
 __gallivant__ _vi_ (galivant, galavant)  
 __galvanize__  
 __Gamblers Anonymous__ _n_ (GA) An organization that holds group meetings to help people who are addicted to gambling.  
@@ -301,6 +321,7 @@ __gangrene__ _n_
 __gaping__ _adj_ /ˈɡeɪpɪŋ/ Wide open; extremely wide: _a gaping hole._  
 __garnish__ _v_ /GAHR-nish/ To garnish food or drink is to add decorative and tasty touches to it, such as a spiral of lemon peel.  
 __garrulous__ _adj_ Excessively talkative in a rambling, roundabout manner, especially about trivial matters.  
+__gash__ _v_  
 __gasp<sup>1</sup>__ _v_  
 __gasp<sup>2</sup>__ _n_ __1__ A short convulsive intake of breath.  
 __gateway__ _n_ __2__ Something that serves as an entrance or a means of access: _a gateway to success; the gateway to the West._  
@@ -346,12 +367,15 @@ __hatha yoga__ _n_ A form of yogic exercise that emphasizes specific postures in
 __haversack__ _n_  
 __havoc__ _n_  
 __hay fever__ _n_ :es: alergia al polen  
+__hazard__ _v_  
 __heady__ _adj_  
 __hearth__ _n_ The floor of a fireplace, usually extending into a room and paved with brick, flagstone, or cement. _Syn_ fireside  
 __heat index__ _n_  
 __heath__ _n_  
+__heathen__ _n_  
 __heinous__ _adj_ /HAY-nus/ _Heinous_ describes things—such as acts, deeds, or crimes—that are hatefully or shockingly evil, or in other words, deserving of hate or contempt.  
 __hem__ _n_ :es: dobladillo  
+__hidebound__  
 __hobgoblin__ _n_  
 __hoover__  
 __horse brass__ _n_ :camera: A decorative brass ornament, usually circular, originally attached to a horse’s harness.  
@@ -370,6 +394,7 @@ __ideate__ _v_ /EYE-dee-ayt/ To ideate is to form an idea or conception of somet
 __indefatigable__ _adj_ /in-di-FAT-i-guh-buhl/ __1__ Incapable of being tired out. __2__ Persistently energetic or tireless, even in the face of challenges.  
 __indigenous__ _adj_ /ɪnˈdɪdʒ ə nəs/ __1__ Originating in and characteristic of a particular region or country; native (often fol. by to): _plants indigenous to Canada; indigenous peoples of southern Africa._  
 __induction__ _n_ :es: incorporación  
+__infirm__ _adj_  
 __inkling__  
 __interfere__ _v_  
 __interpenetrate__ _v_ Spread or diffuse through. _Syn_ imbue, permeate, pervade, diffuse, riddle, penetrate  
