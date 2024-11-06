@@ -42,9 +42,12 @@ __ahead of (someone or something)__
 __aid and abet__ To assist someone, usually in a mischievous or illegal activity.  
 __Aladdin’s cave__ The idiom “Aladdin’s cave” refers to a place filled with a vast collection of valuable, interesting, or unusual objects.  
 __all hell broke loose__ All sorts of wild or terrible things happened. _When the boss left early for the weekend, all hell broke loose._  
+__an earful__  
 __an eye for an eye__  
 __as we speak__  
 __at pains to do something__  
+__at sixes and sevens__  
+__at the top of one’s voice__  
 __bare metal__ Computer hardware without an operating system. _Right now, my new computer is bare metal, and I can’t wait to build it and configure it just the way I want._  
 __bargain for (someone or something)__  
 __barrow man__ __1__ A boy or man who sells goods (usually fruit, vegetables, or other comestibles) from a handcart (barrow) on the streets. Primarily heard in UK. _Touts, thieves, and barrow men._  
@@ -64,6 +67,7 @@ __be on the safe side__ :dart:
 __be partial to (someone or something)__ To be particularly fond of someone or something; to have someone or something as one’s favorite or preference.  
 __be real__  
 __be under a cloud__ To be viewed with suspicion, distrust, or disapproval.  
+__be up to scratch__  
 __bear (someone or something) in mind__  
 __beat about the bush__ :two: _BrE_ To speak vaguely or euphemistically so as to avoid talking directly about an unpleasant or sensitive topic. Primarily heard in UK.  
 __beef up__ To increase something, often in strength. _With all these protestors here, we definitely need to beef up security._  
@@ -81,6 +85,7 @@ __black tie__ Dress ccde (slightly less formal than _white tie_) typically allow
 __bland__ _adj_  
 __blast to kingdom come__ :es: hacer saltar en pedacitos  
 __bleeding heart__ In the USA people with right-wind or conservative opinions use this phrase to refer pejoratively to those who have liberal sympathies.  
+__bless me Father for I have sinned__  
 __blow a gasket__ To react furiously or violently, to the point of losing control of one’s behavior. _Mom totally blew a gasket when I told her I had failed math._  
 __boil (something) down to (something)__ To reduce or simplify something to the most basic, essential, or fundamental element(s).  
 __bona fide__  
@@ -118,6 +123,7 @@ __clear the table__ To remove objects from a table. This phrase is often said af
 __close shave__  
 __cockamamie__ Absurd or ridiculous. _Please don’t get involved in another one of his cockamamie schemes—you know they never pan out._  
 __coin__ _slang_ Money.  
+__cold fish__  
 __come a long way__  
 __come and gone__ The idiom “come and gone” refers to something that has arrived and then passed or ended. It often implies that a particular time, opportunity, or event has occurred and is now over, suggesting a sense of finality or missed chances.  
 __come around__ __1__ To change one’s view or opinion of someone or something.  
@@ -136,6 +142,7 @@ __cranky__ Irritable; in a foul mood.
 __creeper__  
 __crowd (one)__  
 __cry (one) a river__ Said sarcastically to someone whose whining, complaints, or tears fall on unsympathetic ears. Most often said as “cry me a river.”  
+__cry over spilled milk__  
 __cut (one’s) teeth__ :dart: To gain experience with something, especially at a young age (when one’s teeth would be coming in). _That part-time administrative position allowed me to cut my teeth in the world of Human Resources._  
 __cut and dry__ The “idiom cut and dry” refers to something that is clear, straightforward, and unambiguous. It describes situations, decisions, or outcomes that are easily understood and leave little room for doubt or interpretation.  
 __cut bait__  
@@ -150,7 +157,9 @@ __discretion is the better part of valor__ _proverb_
 __do the trick__ To do, accomplish, or fulfil exactly what is needed or sought after. _The recipe calls for pancetta, but I think this regular bacon should do the trick._  
 __downer__ :es: tranquilizante  
 __draw water__  
+__dreamboat__ A very attractive or appealing person.  
 __drum into__ :es: hacer aprender a la fuerza; machacar  
+__easy does it__ :dart:  
 __engage (one) as (something)__ To hire someone for a particular role or job. _I thought they were just going to engage me as a file clerk, but because they needed help with data entry, I wound up doing that instead._ :es: contratar  
 __fall off the perch__ _BrE_ _old-fashioned, informal_ (fall off your perch) If someone falls off the perch or falls off their perch, they die. Note: A perch is a pole, branch or other place where a bird sits to rest. _He fell off the perch years ago._ Note: Other verbs such as drop or topple can be used instead of fall. _He’ll topple off his perch one morning. You know how it is._ Note: This expression is used humorously.  
 __famous last words__ A statement or claim that is promptly undone or disproved. This phrase is often humorously or preemptively. A reference to the final words one says before one dies. _A: “I can’t believe the ER has been so quiet today!” B: “Ugh, famous last words for sure.”_  
@@ -164,6 +173,7 @@ __filled to the brim__
 __fire and brimstone__ :two: __1__ _n_ The misery that one faces in hell. The supposed torments of hell. In the Bible, fire and brimstone are the means of divine punishment for the wicked. _Unrepentant criminals better prepare themselves for fire and brimstone after death._  
 __first come, first served__ The first people present will be the first to receive something, often something that is available in limited quantities.  
 __fit the bill__  
+__flare up__ :es: estallar  
 __floor (one)__  
 __flop__ _The film was a flop._  
 __flying squad__ _n_ A small group of police, soldiers, etc, ready to move into action quickly.  
@@ -183,6 +193,7 @@ __for the most part__
 __for which read__ :dart: _Readjustment, scaling back, for which read — redundancies._ :es: léase  
 __forge ahead__  
 __free of charge__  
+__French letter__  
 __Freudian slip__  
 __from bad to worse__  
 __full-fledged__  
@@ -192,6 +203,7 @@ __gallows humor__ :dart: Humorous treatment of a grave or dire situation. :es: h
 __get (one, something) out of the system__  
 __get (one’s) bearings__  
 __get (something) out of (one’s) system__ __2__ To do something so that one no longer has the desire to do it anymore. _I got drinking and partying out of my system during college. I’m ready for a quieter life now._  
+__get an earful__  
 __get lucky__ :two: __2__ _slang_ To have sex, especially with someone whom one has only just met.  
 __get on famously__ To have an exceptionally good relationship (with someone); to get along very well. _I’m glad you finally got to meet my brother—I knew you two would get on famously._  
 __get on like a house afire__ Of two or more people, to enjoy one another’s company very much from the start and become good friends at once. (Used when people are meeting for the first time.) _I can’t wait for you to meet Mark, I just know the two of you will get on like a house afire!_  
@@ -238,6 +250,7 @@ __graze on (something)__ __1__ Of animals, to eat the greens or vegetables in a 
 __grease monkey__ A mechanic, especially one who works on aircraft or automobiles.  
 __green thumb__  
 __growing pains__ __2__ By extension, the troubles or difficulties experienced by new companies or organizations as they enter into business or become established.  
+__guilt money__  
 __haggle over (something)__  
 __hairpin bend__ :two: A very sharp, approximately 180° bend in a road.  
 __hanker for (something)__ To have a very strong, persistent desire or craving for something. _It is not something to hanker for._  
@@ -260,6 +273,8 @@ __hell on earth__
 __hell-bent__ Very determined to do something, perhaps annoyingly or recklessly so.  
 __hell’s bells__ :three: An exclamation of frustration or surprise. A shortened form of the phrase “hell’s bells and buckets of blood.” _Oh, hell’s bells—the printer isn’t working, and my paper is due in five minutes!_  
 __hem and haw__  
+__here’s for the happy couple__  
+__hinge on__  
 __hit a brick wall__ To come up against an immovable or insurmountable difficulty or obstacle. _Our project was going well, but we hit a brick wall when our funding was suddenly cut._  
 __hit a snag__  
 __hit and miss__ (hit or miss)  
@@ -278,6 +293,7 @@ __hue and cry__ /HYOO-und-KRYE/ __1__ A large public protest. _Hue and cry_ refe
 __huff and puff__ Make noisy, empty threats; bluster. For example, _You can huff and puff about storm warnings all you like, but we’ll believe it when we see it._ This expression uses two words of 16th-century origin, _huff_, meaning “to emit puffs of breath in anger,” and _puff_, meaning “to blow in short gusts,” and figuratively, “to inflate” or “make conceited.” They were combined in the familiar nursery tale, _“The Three Little Pigs,”_ where the wicked wolf warns, _“I’ll huff and I’ll puff and I’ll blow your house down”_; rhyme has helped these idioms survive.  
 __hung jury__ :dart: A jury that cannot agree on a verdict.  
 __I beg your pardon__ :dart: __1__ :dart: I apologize for what I just did or said. _Oh, I beg your pardon. I wasn’t looking where I was going._ __2__ What did you just say? _Could you please repeat that? I beg your pardon, I couldn’t quite hear you._ __3__ An expression or exclamation of indignation or incredulous disbelief. _A: “I’m afraid we’re going to have to cut your funding, effective immediately.” B: “I beg your pardon? Who on earth decided that?”_ __4__ Could you please give me your attention. _I beg your pardon, everyone, but I’d like to get tonight’s proceedings underway._ __5__ :dart: I believe you are mistaken or incorrect; I beg to differ; I don’t agree with you on that. _I beg your pardon, but I believe you’ll find that our school is actually one of the best in the state._  
+__I say__  
 __if (one’s) life depended on it__ Under any circumstances; no matter what. (Used almost exclusively with a negative statement regarding something that one couldn’t or wouldn’t do.) _No way am I going to karaoke night. I couldn’t sing if my life depended on it!_  
 __if anything__  
 __if it ain’t broke, don’t fix it__ :two::hammer: (if it isn’t broke, don’t fix it)  
@@ -324,6 +340,7 @@ __in regard to (someone or something)__ In reference to; considering.
 __in single file__ In a line one person or one thing in width.  
 __in some sense__ Partly; in some or certain way(s).  
 __in spite of (something)__ Regardless or in defiance of; despite.  
+__in stitches__  
 __in support of__ __1__ In a way that shows approval of (something); in favor of (something). _A majority voted in support of the bill._ __2__ In order to support (something). _He presented evidence in support of his hypothesis._  
 __in tears__  
 __in the (grand) scheme of things__ In the long term; in the complete picture of something.  
@@ -523,6 +540,7 @@ __magic mushroom__ _informal_ Any mushroom-like fungus that has psychedelic effe
 __make (both) ends meet__  
 __make (one’s) eyes pop (out)__  
 __make (one’s)/the rounds__  
+__make (oneself) scarce__  
 __make (something) clear (to one)__ :two:hammer:  
 __make a pass at (one)__ :dart: To make sexual advances toward or propositions to one; to hit on one. _Do you think she was making a pass at me, or was she just being nice?_ :es: intentarse ligar a  
 __make game of (someone or something)__ To ridicule, mock, or tease someone or something; to make fun of someone or something. _I really don’t appreciate you making game of my disability like that._  
@@ -534,6 +552,7 @@ __mm-hmm__ _informal_ Yes; yeah. A verbal expression used to express agreement o
 __modus operandi__ :two::mega: A unique and habitual method of doing something. From Latin, literally “mode of operation.” Used especially in reference to criminal behavior.  
 __monkey__ :dart: __1__ _slang_ A drug addiction. _Did you hear? Pete checked himself into rehab to deal with the monkey on his back._  
 __mooch off (of) (someone or something)__ To ask for or obtain (something) through the charity of someone or something; to sponge off someone or something else. _My brother has been mooching off me and my wife ever since he lost his job._  
+__more haste, less speed__ :es: vísteme despacio que tengo prisa  
 __more often than not__ :two: Much of the time.  
 __move mountains__ :dart: To do or achieve something that is incredibly difficult.  
 __move on__  
@@ -557,8 +576,10 @@ __need to be done__ To be required to be completed or acted upon.
 __needless to say__ Obviously implied, no explanation needed.  
 __nepo friend__ _n_ /nep-oh frend/ (nepo-friend) The slang term nepo friend refers to a person who is thought to benefit from having a famous or influential friend. The term nepo friend is often used to imply that someone is only famous or successful because of their association with a famous person. The term may be used playfully, but it is often at least mildly negative.  
 __Nervous Nellie__ /nuhr-vuhs NEL-ee/(nervous Nellie/Nelly) Any nervous person, male or female. Someone who is more timid, nervous, or anxious than is normal or reasonable.  
+__no hard feelings__ :es: sin rencores  
 __not pay (something) any mind__  
 __not so fast__ :three::hammer:  
+__not turn a hair__  
 __not worth the paper it’s written on__ Useless; unimportant; insignificant.  
 __note so self__  
 __nothing ventured, nothing gained__ _proverb_ Risks must be taken in order to achieve anything significant or meaningful.  
@@ -671,6 +692,7 @@ __pucker up__ __1__ To purse one’s lips together, as when tasting something so
 __pull (one’s) weight__ To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
 __puppy__ __1__ _n_ A wimp; a softie. _That silly puppy is still waiting outside your door._ __2 __ _n_ A thing; a piece or part of something. _Put this little puppy right here._  
 __push the envelope__ To expand on, exceed, or test the limits of the established norm or standard.  
+__put (one’s) best foot forward__ :es: hacer una buena impresión  
 __put (someone or something) (up) on a pedestal__ To believe or behave as if someone or something is perfect, wonderful, or better than others, to the extent that one is unable to see its potential flaws or faults.  
 __put (someone or something) to the test__  
 __put off by someone or something__ Distressed or repelled by someone or something. _I was really put off by your behavior._ _We were all put off by the unfairness of the rules._  
@@ -682,10 +704,13 @@ __racket__ :smiling_imp: __2__ A fraudulent scam or money-making operation. _He�
 __rags to riches__ Characterized by a rise from poverty to great or exceptional wealth. Hyphenated if used as a modifier before a noun.  
 __raise eyebrows__  
 __rake in__  
+__rear its ugly head__  
 __recoup (something) from (someone or something)__ To recover, regain, or restore something from someone or something. _You’ll have to pay for everything out of pocket, but you can recoup it all from HR after you’re back from the trip._  
 __ride or die__ _n_ One’s closest, most reliable or trustworthy friends. _Liz is my ride or die—I can totally count on her to be there for me in any situation._  
 __rifle through (something)__ To look through something very quickly, roughly, or energetically.  
+__ring a bell__ ((something) ring a bell (with one))  
 __roast__  
+__rob someone blind__ :smiling_imp:  
 __roll with the punches__  
 __rolling stone__  
 __rough it__ :es: vivir sin comodidades  
