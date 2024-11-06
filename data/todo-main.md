@@ -373,6 +373,7 @@ __induction__ _n_ :es: incorporación
 __inkling__  
 __interfere__ _v_  
 __interpenetrate__ _v_ Spread or diffuse through. _Syn_ imbue, permeate, pervade, diffuse, riddle, penetrate  
+__intersperse__ _v_  
 __intonation__ _n_ /ˌɪntəʊˈneɪʃən/ /ˌɪn toʊˈneɪ ʃən, -tə-/  
 __intransigent__ _adj_ /in-TRAN-suh-junt/  
 __invalid car__ _n_ _BrE_ A car specially equipped so that a disabled person can drive it.  
@@ -408,6 +409,7 @@ __labyrinthine__ _adj_ Resembling a labyrinth in form or complexity. _Syn_ mazy
 __lackey__ _n_  
 __laic__ _adj_ Of or relating to the laity. _Syn_ lay, secular  
 __lambent__ _adj_ :two: __1__ (esp of a flame) Flickering softly over a surface.  
+__landowning__  
 __lap__ _vt_ __6__ :dart: _Sports_ To get ahead of (an opponent) in a race by one or more complete circuits of the course, as in running, or by two or more lengths of a pool in swimming.  
 __largesse__ _n_ :es: generosidad  
 __lass__ _n_  
@@ -486,6 +488,7 @@ __lycanthrope__ _n_
 __machtpolitik__ _n_ /MAHKHT-pol-ee-teek/ Power politics: policies that advocate the use of power and physical force to attain their goals.  
 __maggot__ _n_ :two: __1__ The legless, soft-bodied, wormlike larva of any of various dipteran flies, often found in decaying matter. :es: gusano  
 __Magic Eye poster__ _n_  
+__mahogany__ _n_ :es: caoba  
 __maiden__ _adj_ _The _Titanic_ maiden voyage._  
 __mains tester__ _n_ An insulated screwdriver with a light in the handle.  
 __make__ _n_ :astonished:  
@@ -556,6 +559,7 @@ __mutter<sup>2</sup>__ _v_ :two::hammer:
 __muttering__ _n_  
 __muzzle<sup>1</sup>__ _n_  
 __muzzle<sup>2</sup>__ _v_  
+__mystify__  
 __nags__ _n_ _Riding old nags._  
 __nail varnish__ _n_ (nail enamel, nail polish)  
 __natural hat trick__ _n_ _sports_ A hat trick in which three goals are scored in succession by one player in one game.  
@@ -588,9 +592,10 @@ __nuzzle__ _v_ :two::hammer: _I nuzzled her neck._
 __oblige__ _vt_  
 __obsequious__ _adj_  
 __October surprise__ _n_ A significant revelation or event in the month prior to an election that has the potential to shift public opinion about an election candidate and that is often orchestrated to influence the election’s outcome.  
-__offbeat__ _adj_ :es: poco convencional  
+__offbeat__ _adj_ :two::hammer: :es: poco convencional  
 __omniscient__ _adj_ /ahm-NISH-unt/ _Omniscient_ describes someone or something with unlimited knowledge or understanding.  
 __over-the-hill__  
+__over-the-top__ _adj_  
 __palaver__ _n_ /puh-LAV-er/  
 __panacea__ _n_ /pan-uh-SEE-uh/  
 __pantsuit__ _n_  
@@ -602,7 +607,7 @@ __parson__ _n_
 __parturition__ _n_ /par-chuh/too-RISH-uhn/ The act of giving birth.  
 __pasquinade__ _n_ A satire or lampoon, especially one that ridicules a specific person, traditionally written and posted in a public place. _Syn_ parody, put-on, sendup, spoof, charade, lampoon, mockery, burlesque, travesty, takeoff  
 __pastime__ _n_ :pencil2:  
-__pathos__ _n_ A quality, as of an experience or a work of art, that arouses feelings of pity, sympathy, tenderness, or sorrow. _Syn_ poignancy  
+__pathos__ _n_ :two: A quality, as of an experience or a work of art, that arouses feelings of pity, sympathy, tenderness, or sorrow. _Syn_ poignancy  
 __patron__ _n_ _Look, Artoo-Detoo! Here comes a patron out of the cantina!_  
 __patronymic__ _adj, n_  
 __patsy__ _n_ :smiling_imp: A person easily taken advantage of, cheated, blamed, or ridiculed.  
@@ -680,6 +685,7 @@ __porky__ _adj_ __1__ Of or like pork: _a porky flavor._ __2__ _Derogatory Slang
 __port-o-john__ _n_ A portable toilet.  
 __portentous__ _adj_ Marvelous.  
 __porter__ _n_ __1__ A person employed to carry luggage, parcels, supplies, etc, esp at a railway station or hotel.  
+__portly__ _adj_ :es: corpulento  
 __possess__ _v_  
 __posterity__ _n_ /pɒˈstɛr ɪ ti/ /pɑˈstɛrət̮i/ /pah-STAIR-uh-tee/  
 __potbellied__ _adj_ Having a large belly.  
@@ -720,6 +726,7 @@ __quadriplegia__ _n_ Complete paralysis of the body from the neck down. Also cal
 __quagmire__ _n_ An area of miry or boggy ground whose surface yields under the tread.  
 __quail__ _v_  
 __Quaker__ _n_ /ˈkweɪkə/  
+__quandary__ _n_  
 __quaternary__ _adj_ Coming next after the third and just before the fifth in position or time or degree or magnitude. _Syn_ fourth  
 __quaver__ _vi_ __1__ To quiver, as from weakness; tremble. _I took a quavering breath._  
 __queasy__ _adj_  
@@ -741,6 +748,7 @@ __Rastafarian__ _adj, n_
 __rationalize__ _v_ __1__ To justify (one’s actions, esp discreditable actions, or beliefs) with plausible reasons, esp after the event.  
 __raving<sup>1</sup>__ _n_  
 __raving<sup>2</sup>__ _adj_ Delirious, irrational speech.  
+__real estate developer__ _n_ :es: promotor immobiliario  
 __real__ _adv_ :dart: _informal_ [In American English it is usual to drop the _-ly_ adverb ending from _really_ when used as an intensifier] Very. _I’m real sorry about that._ _Real quiet._  
 __rear__ _vt_ :two: __1__ To care for (children or a child) during the early stages of life; bring up. __2__ To tend (growing plants or animals). __3__ To build; erect.  
 __rear<sup>1</sup>__ _n_  
@@ -748,6 +756,7 @@ __rear<sup>2</sup>__ _adj_
 __rear<sup>3</sup>__ _vt_  
 __rear<sup>4</sup>__ _vi_ __1__ To rise on the hind legs, as a horse. __2__ To rise high in the air; tower.  
 __rebate__ _n_ A refund of a fraction of the amount payable or paid, as for goods purchased in quantity; discount. :es: reembolso  
+__rebuff__ _v_  
 __rebuttal__ _n_  
 __receptacle outlet__ _n_ An electrical outlet where one or more receptacles are installed.  
 __receptacle__ _n_ A device which is installed in an outlet box to receive a plug for the supply of electric current to an appliance or portable equipment.  
@@ -769,6 +778,7 @@ __regardless__
 __reify__ _v_ /ˈri əˌfaɪ, ˈreɪ-/ /RAY-uh-fye/ Reifying is about considering or representing something abstract as a material or concrete thing. If you reify a concept or idea you somehow give it definite content and form.  
 __reignite__ _v_  
 __retainer__ _n_ __2__ _Dentistry_ An appliance used to hold teeth in position after orthodontic treatment.  
+__rhotic__ _adj_ :dart:  
 __rollout__ _n_ __1__ The introduction of a new product, service, or policy to the public.  
 __rooftop__ _n_  
 __rube__ _n_ _You look like a rube._  
@@ -798,6 +808,7 @@ __scuttle__ _vi_ To run or move with short hurried movements; scurry.
 __sea nettle__ _n_  
 __sear__ _n_ A mark or scar made by searing.  
 __searing__ _adj_ /ˈsɪərɪŋ/  
+__seedy__ _adj_  
 __seething__ _v_  
 __senescent__ _adj_ /si-NES-uhnt/ __1__ Growing old; aging. __2__ Deteriorating or decaying with the passage of time.  
 __shapeshift__ _vi_ (biology, fantasy, mythology) To change one’s shape or form (into another) through often magical means, normally applied only to living beings.  
@@ -810,6 +821,7 @@ __shun__ _vt_ :dart: To avoid deliberately; keep away from. _He shuns suits exce
 __shuttle__ _n_ __2__ The sliding container that carries the lower thread in a sewing machine.  
 __side note__ _n_ Additional information aside main point.  
 __simpleton__ _n_ :smiling_imp:  
+__single-minded__ _adj_  
 __skewer<sup>1</sup>__ _n_  
 __skewer<sup>2</sup>__ _vt_  
 __skitter__ _v_  
@@ -831,6 +843,7 @@ __smugly__ _adv_
 __stakeout__  
 __station__ _n_ :es: comisaría  
 __stemware__ _n_  
+__stricture__ _n_  
 __strife__  
 __string__ _n_ _The string of the tea bag._  
 __stringent__ _adj_  
@@ -850,6 +863,7 @@ __suffocate__ _v_
 __Sufism__ _n_ The beliefs and practices of an ascetic, retiring, and mystical sect in Islam.  
 __suit__ _n_ Lawsuit.  
 __sultry__ _adj_ __3__ Displaying or suggesting passion; sensual: _sultry eyes._  
+__takings__ _n pl_  
 __taunt__ _v_  
 __teeter__ _vi_ :two: __1__ To move or sway unsteadily or unsurely; totter.  
 __teetotaler__ _n_ (teetotaller)  
@@ -861,11 +875,20 @@ __thromboembolism__ _n_
 __thrombosis__ _n_  
 __thrum__ _v_ :two::hammer:  
 __thunk__ _n_  
+__till__ _n_ :es: caja registradora  
 __tire iron__ _n_ :two: A short length of steel with one end flattened to form a blade, used to remove tires from wheel rims.  
+__to-do__ _n_ :dart: :es: alboroto  
 __toil__ _vi_  
 __tout__ _n_ __1__ One who solicits customers brazenly or persistently. _Touts, thieves, and barrow men._  
 __townhouse__ _n_  
 __traduce__ _vt_ :smiling_imp:  
+__uncompromising__ _adj_  
+__unfettered__  
+__uptight__ _adj_  
+__urbane__ _adj_ :astonished:  
+__usher in__  
+__wheeddle__ _v_ :smiling_imp:  
+__woefully__  
 __Xmas__ _n_  
 __yacht<sup>1</sup>__ _n_  
 __yacht<sup>2</sup>__ _vi_ To sail, cruise, or race in a yacht.  
