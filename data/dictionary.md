@@ -1166,7 +1166,7 @@ __awl__ _n_ A pointed instrument for piercing small holes in leather, wood, etc.
 __awry__ _adj, adv_ :eight::mega: /əˈraɪ/ /uh-RYE/ __1__ Away from the correct course; amiss: _The last minute changes caused our plans to go awry._ __2__ In a position that is turned or twisted toward one side; askew.  
 __ax__  
 __axle__ _n_  
-__ayahuasca__ _n_ :three: A psychedelic brew made out of Banisteriopsis caapi vine alone or in combination with various plants.  
+__ayahuasca__ _n_ :five: A psychedelic brew made out of Banisteriopsis caapi vine alone or in combination with various plants.  
 __aye__ _adv_ __2__ (Nautical Terms) an expression of compliance, esp used by seamen.  
 __Ayurveda__ _n_  
 __azure<sup>1</sup>__ _n_ :two::hammer:  
@@ -1237,7 +1237,7 @@ __backtrack__ _n_ :two::hammer:
 __backup__ _n_ _It’s amazing the amount of backup we see from even those most minor crashes._  
 __backwash__ _n_ __3__ A result of an event; an aftermath.  
 __backwater__ _n_ :four: A place or situation regarded as isolated, stagnant, or backward. _An academic backwater._ _An economic backwater._ _A quiet backwater of the Empire._  
-__backwoods__  
+__backwoods__ _n pl_ :two::hammer:  
 __bacteriophage__ _n_ A virus that infects and lyses certain bacteria.  
 __Bactrian camel__ _n_ A two-humped camel (Camelus bactrianus), widely used as a beast of burden in desert regions of central and southwest Asia. Its emoji may be used in association with deserts, the Middle East and Central Asia, and Wednesday (Hump Day).  
 __bad actor__  
@@ -1269,7 +1269,8 @@ __bailiff__ _n_ :five::pencil2::hammer: (bailiffs) :es: alguacil
 __bailiwick__ _n_ :five: /BAY-lih-wik/ Bailiwick refers to the domain or sphere in which someone has superior knowledge or authority. _Fundraising events are his bailiwick._  
 __bailout__ _n_ :four::hammer:  
 __bait and switch__ _n_  
-__bait__ _v_ _A trap baited by a devil._  
+__bait__ _v_ :two::smiling_imp: __2__ To entice or provoke, especially by trickery or strategy: _He baited me into selling him my bike by saying how much I deserved a better one._ _A trap baited by a devil._  
+__baize__ _n_ A bright green fabric napped to resemble felt; used to cover gaming tables. _Baize table._ :es: tapete  
 __bajillion<sup>1</sup>__ _n_ :two: An extremely large but unspecified number, quantity, or amount: _They’ll sell a bajillion of these._  
 __bajillion<sup>2</sup>__ _determiner_ Amounting to a bajillion: _a bajillion dollars._  
 __bake in__ _v_  
@@ -1283,7 +1284,7 @@ __bald-faced__ _adj_
 __balderdash__  
 __bale<sup>1</sup>__ _n_ (bales) _He sat on a bale of prayer rugs._ _Bales of cotton._  
 __bale<sup>2</sup>__ _v_  
-__baleful__ _adj_ :three: Threatening or foreshadowing evil or tragic developments. _Syn_ menacing, minacious, minatory, ominous, sinister, threatening, forbidding  
+__baleful__ _adj_ :four: Threatening or foreshadowing evil or tragic developments. _Syn_ menacing, minacious, minatory, ominous, sinister, threatening, forbidding :es: siniestro  
 __balefully__  
 __baler__ _n_ An agricultural machine for making bales of hay, etc. _It required an investment of $1 million for balers, choppers, compactors, colored cans and signage._  
 __balk<sup>1</sup>__ _n_ __1__ A check or hindrance. __2__ A defeat or disappointment. __3__ A beam or rafter. __4__ A ridge; an unplowed strip of land between furrows.  
@@ -1363,10 +1364,12 @@ __barbecue<sup>2</sup>__ _v_ (barbecueing)
 __barbed__ _adj_ :two: __1__ Unkind and criticizing. _He was a targed for Jack’s barbed humor._ __2__ Having a sharp point that curves backwards.  
 __barbells__  
 __Barbershop music__ _n_ Barbershop vocal harmony, as codified during the barbershop revival era (1930s–present), is a style of a cappella close harmony, or unaccompanied vocal music, characterized by consonant four-part chords for every melody note in a primarily homorhythmic texture.  
+__barbiturate__ _n_ :es: barbitúrico  
 __barbs__ _n_ :two::hammer: _His sharp barbs._  
 __bard__  
 __barded__ _v_  
 __bardic__  
+__bardolatry__ _n_ [:scroll: Coined by George Bernard Shaw from bard (poet) + -latry (worship)] _facetious_ Idolatry or excessive admiration of William Shakespeare.  
 __bare bones__ _n pl_ _informal_ The basic elements or essentials: outlined the bare bones of the proposal.  
 __bare minimum__ _n_ The smallest possible quantity or the least fulfilling, but still adequate, condition that is required, acceptable, or suitable for some purpose.  
 __bare-bones__ _adj_ Basic or simple; no-frills. _A bare-bones lab._  
@@ -1379,7 +1382,7 @@ __bariatric surgery__ _n_ Surgery on the stomach and/or intestines to help a per
 __bariatric__ _adj_ Of or relating to the treatment of obesity.  
 __bariatrics__ _n_ The branch of medicine that deals with the causes, prevention, and treatment of obesity. From the Greek root bar- (“weight” as in barometer), suffix -iatr (“treatment,” as in pediatrics), and suffix -ic (“pertaining to”).  
 __bark<sup>1</sup>__ _n_ _Four-masted bark._  
-__bark<sup>2</sup>__ _v_ :two::hammer: (barked) _His forehead was barked._ _Barked area._  
+__bark<sup>2</sup>__ _v_ :three::astonished: __2__ To rub off the skin of; abrade: _barked my shin on the car door._ _His forehead was barked._ _Barked area._  
 __barker__ _n_ :two::astonished: __2__ An employee who stands before the entrance to a show, as at a carnival, and solicits customers with a loud sales spiel. A person who stands at a show, fair booth, etc, and loudly addresses passers-by to attract customers.  
 __Barmecidal__ _adj_ Plentiful or abundant in appearance only; illusory: _a Barmecidal feast._  
 __Barmecide__ _adj_ /BAHR-muh-syd/ [:scroll: After Barmecide, a nobleman in the story “Barber’s Sixth Brother“ from the collection _One Thousand and One Nights_ (also known as _The Arabian Nights_).] Lavish or plentiful in imagination only; illusory; sham: _a Barmecide feast._  
@@ -1404,7 +1407,7 @@ __barren__ _adj_ :four::hammer:
 __barrette__ _n_ :two: A small clasp for holding the hair in place.  
 __barring__ _v_ :two::hammer:  
 __barrister__ _n_ :two::hammer:  
-__barrow__ _n_ :three::hammer:  
+__barrow__ _n_ :four: __1__ A handbarrow. __2__ A wheelbarrow.  
 __barstool__ _n_  
 __barter<sup>1</sup>__ _n_ :es: trueque  
 __barter<sup>2</sup>__ _v_ :four::hammer: (bartered)  
@@ -1443,7 +1446,7 @@ __batik__ _n_
 __baton__ _n_ :three::hammer: :es: batuta  
 __battalion__ _n_ :pencil2:  
 __batter<sup>1</sup>__ _n_ A liquid or semiliquid mixture, as of flour, milk, and eggs, used in cooking.  
-__batter<sup>2</sup>__ _v_ :three::hammer: (battered) _His face was battered._ _Her pride remains battered but intact._  
+__batter<sup>2</sup>__ _v_ :five: __1a__ To hit heavily and repeatedly with violent blows. _Syn_ beat __b__ To subject to repeated beatings or physical abuse. _His face was battered._ _Her pride remains battered but intact._  
 __battered__ _adj_ :three: (Cookery) Coated in batter: _a battered cod._  
 __battery__ _n_ :four::hammer: _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._ _Counts of a domestic battery by strangulation._ (military) _The siege battery was complete._  
 __batting cage__ _n_ :two::hammer: _Baseball_ _The rookie suffered an injury while taking swings in the batting cage._  
@@ -1467,7 +1470,7 @@ __beachcomb__ _v_ To search for and collect objects such as seashells and driftw
 __beachhead__ _n_ :five::pencil2::hammer: __2__ A first achievement that opens the way for further developments; a foothold.  
 __bead__ _n_ __4__ :astonished: (Firearms, Gunnery, Ordnance & Artillery) A small metallic knob acting as the sight of a firearm.  
 __beadledom__ _n_ A gratuitous or officious display or exercise of authority, as by petty officials.  
-__beady__  
+__beady__ _adj_ :two::hammer:  
 __beam<sup>1</sup>__ _n_ _A wooden beam._  
 __beam<sup>2</sup>__ _v_ To smile radiantly or happily.  
 __beamish__ _adj_ :two: Smiling, as with happiness or optimism.  
@@ -1504,15 +1507,15 @@ __bedfellow__
 __bedlam__ _n_ :eight: /ˈbɛdləm/ A place or situation of noisy uproar and confusion. Scene of loud confusion. _Syn_ chaos, pandemonium, topsy-turvydom, topsy-turvyness _They quarreled and bickered more than ever among themselves, till at times the camp was a howling bedlam._  
 __Bedouin__  
 __bedpan__ _n_  
-__bedraggled__ _adj_ In deplorable condition. _Syn_ broken-down, dilapidated, ramshackle, tatterdemalion, derelict  
+__bedraggled__ _adj_ :two: /bɪˈdræɡəld/ __1__ 1. Wet, drenched, or messy: _bedraggled clothes._ (of hair, clothing, etc) Limp, untidy, or dirty, as with rain or mud. __2__ Being in a condition of deterioration; dilapidated: _a street of bedraggled tenements._ In deplorable condition. _Syn_ broken-down, dilapidated, ramshackle, tatterdemalion, derelict  
 __bedrest__ _n_ Confinement to bed continuously (as in the case of some sick or injured persons).  
 __bedridden__ _adj_ :four: Confined to bed because of illness or infirmity. _She was practically bedridden._  
 __bedrock__ _n_ :eight: Bedrock is the hard layer of rock beneath looser rocks and soil. In some places, the bedrock is exposed, while in others it lies deep underground. A geologist who’s interested in studying the bedrock in different areas might have to dig through the various layers of soil to reach that bedrock. You can also use the word in a figurative way, to mean “the heart of the matter,” or “the basic, fundamental principles.” For example, you might say that fairness and freedom is the bedrock of a good government.  
-__bedrolls__  
+__bedroll__ _n_ :two: /ˈbɛdˌrəʊl/ A portable roll of bedding, such as a sleeping bag, used esp for sleeping in the open.  
 __bedside__ _adj, n_  
-__bedsit__ _n_ :two::hammer::es: habitación amueblada; estudio amueblado  
+__bedsit__ _n_ :three: A furnished sitting room containing sleeping accommodation and sometimes cooking and washing facilities. :es: estudio amueblado, habitación amueblada _Syn_ bedsitter, bedsitting room, bed-sitting room :es: habitación amueblada; estudio amueblado  
 __bedspreads__ _n_  
-__bedstead__  
+__bedstead__ _n_ :two: The framework of a bed supporting the springs and a mattress.  
 __bee eater__ _n_ :es: abejaruco  
 __bee__ _n_ A social gathering to carry out some communal task or to hold competitions. _A quilting bee._ _Spelling bee._  
 __bee’s knees__  
@@ -1526,6 +1529,7 @@ __Beehive State__ _n_ :four: Utah.
 __beeline__  
 __Beelzebub__ _n_  
 __beep-de-beep__  
+__beer garden__ _n_ An outdoor tavern or an outdoor area adjoining a tavern where alcohol is served.  
 __beer gut__  
 __beer head__ _n_ The frothy foam on top of beer which is produced by bubbles of gas, typically carbon dioxide, rising to the surface.  
 __beer league__ _n_ A community sports league, such as for hockey, softball, or soccer, whose members are amateurs of diverse ages and walks of life and play purely for the fun and socializing involved: games are usually accompanied or followed by alcohol and food: _My dad has played hockey in a beer league for years now, along with accountants, plumbers, and students._  
@@ -1573,10 +1577,11 @@ __beleaguer__ _v_ :two::hammer: /bih-LEE-gur/
 __beleaguered__ _adj_ :nine::m: Put in a very difficult situation. _The board is supporting the beleaguered director._ _Syn_ hard-pressed, troubled  
 __belfry__ _n_ __1__ A bell tower; especially one surmounting or attached to another structure. __2__ A room or framework for enclosing a bell. __3__ The seat of the intellect: head. Someone who has “bats in the belfry” is insane or eccentric. This phrase is responsible for the use of bats for “insane” (as in “Are you completely bats?”) and the occasional use of belfry for “head” (“He’s not quite right in the belfry”).  
 __Belial__ _n_  
-__belie__ _v_ :nine::m: /bih-LYE/ (belies, belied) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar  
+__belie__ _vt_ :nine::m: /bih-LYE/ __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar  
 __believe__ _v_ :two::hammer::mega:  
 __believer__ _n_ :mega:  
 __belittle__ _vt_ :six: (belittling) Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
+__bell boot__ _n_  
 __bell pepper__ _n_ :camera: _1 yellow or red bell pepper._  
 __bell tower__ _n_  
 __bellboy__ _n_  
@@ -1585,7 +1590,7 @@ __bellicose__ _adj_ :two: Warlike in manner or temperament; pugnacious. _Syn_ ba
 __belligerence__ _n_ A hostile or warlike attitude, nature, or inclination. _Syn_ pugnacity, aggressiveness _The little lawyer glared at me a moment, and then the belligerence faded out of his face._  
 __belligerent__  
 __bellman__ _n_  
-__bellow<sup>1</sup>__ _n_  
+__bellow<sup>1</sup>__ _n_ :two::hammer:  
 __bellow<sup>2</sup>__ _v_ :seven::hammer: (bellowed)  
 __bellowing__ _n_ A very loud utterance (like the sound of an animal). _Syn_ bellow  
 __bellows__ _n_ :two: A mechanical device that blows a strong current of air; used to make a fire burn more fiercely or to sound a musical instrument. :es: fuelle _Barber’s breathing sounded like a bellows._  
@@ -1605,7 +1610,7 @@ __belter__ _n_ __1__ An event, person, quality, etc, that is admirable, outstand
 __beltway__ _n_ :dart:  
 __belvedere__ _n_ :six::hammer: [:scroll: From Italian, beautiful view] _architecture_ _Towers with belvederes and balconies._  
 __belying__ _v_  
-__bemoan__ _v_ :nine::m: /bɪˈməʊn/ /bɪˈmoʊn/ To moan or complain about; be dismayed or worried about something. _Esquith bemoans the lowering of standards._  
+__bemoan__ _v_ :nine::m: /bɪˈməʊn/ /bɪˈmoʊn/ To moan or complain about; be dismayed or worried about something. _Esquith bemoans the lowering of standards._ :es: lamentar  
 __bemuse__ _vt_ :three: /bih-MYOOZ/ (bemused) __1__ To bewilder. _The actor was bemused by all the attention she was receiving for her role in the movie._ __2__ To confuse. _The contestant seemed somewhat bemused by the question; however, she gave the correct answer._  
 __bemused__ _adj_ :four: Preoccupied; lost in thought.  
 __ben trovato__ _adj_ Appropriate even if untrue; happily invented: _a story that is ben trovato._  
@@ -1628,7 +1633,7 @@ __bent__ _n_ :two::hammer: _Apple wasn’t known for his altruistic bent._
 __bento__ _n_ Boxed meals.  
 __bequeath__ _v_ :nine::m: (bequeathed) __1__ _Law_ To leave or give (personal property) by will. _A collection of 9,000 artworks bequeathed to Glasgow by Sir William Burrell._ :es: legar __2__ To pass (something) on to another; hand down: bequeathed to their children a respect for hard work.  
 __bequest__ _n_ :nine::m: /bɪˈkwɛst/ __1__ (Law) The act of giving or leaving personal property by a will. __2__ Something that is bequeathed; a legacy. _Syn_ legacy, gift, settlement, heritage, trust, endowment, estate, inheritance, dower, bestowal _Bequests to religious institutions._ _A dark bequest of Nazism._  
-__berate__ _v_ :nine::m: /bɪˈreɪt/ Scold or criticize (someone) angrily. To scold or condemn vehemently and at length. _Syn_ chew out, chide, rebuke, reproof, scold, lambast, reprimand, remonstrate _The coach berated the players for their lackluster performance on the field._ _She started berating black and Latino nannies, who, she said, can’t even take care of their own children._ _Sam’s lawyer berated Dogan for half a day._  
+__berate__ _v_ :nine::m: /bɪˈreɪt/ /bih-RAYT/ To _berate_ someone is to angrily scold or criticize them, often loudly and at length. Scold or criticize (someone) angrily. To scold or condemn vehemently and at length. _Syn_ chew out, chide, rebuke, reproof, scold, lambast, reprimand, remonstrate _The coach berated the players for their lackluster performance on the field._ _She started berating black and Latino nannies, who, she said, can’t even take care of their own children._ _Sam’s lawyer berated Dogan for half a day._  
 __bereave__ _v_ :three::hammer: (bereaved) _Some four million people have died as a result of the pandemic, and over 35 million have been bereaved._  
 __bereaved__ _adj_ :three: A bereaved person is someone whose close friend or family member has recently died. _Bereaved families are asking the UK prime minister to allow the National Covid Memorial Wall to remain as a national commemoration._  
 __bereavement__ _n_ :nine::m: State of sorrow over the death or departure of a loved one. _Syn_ mourning  
@@ -1643,7 +1648,7 @@ __berserkers__ _n_ :two::hammer:
 __berth<sup>1</sup>__ _n_ :five::hammer: _Sho Sakai secured an Olympic berth._  
 __berth<sup>2</sup>__ _v_  
 __beryl__ _n_  
-__beseech__ _vt_ :nine: Ask for or request earnestly. _Syn_ adjure, entreat, conjure, bid, press _Daddy, I beseech you to stop smoking before it is too late._  
+__beseech__ _vt_ :nine::m: Ask for or request earnestly. _Syn_ adjure, entreat, conjure, bid, press _Daddy, I beseech you to stop smoking before it is too late._ :es: suplicar  
 __beseechingly__  
 __beseechment__  
 __beset__ _v_ :nine::m: __1__ Annoy continually or chronically. _Suyn_ chevvy, chevy, chivvy, chivy, harass, harry, hassle, molest, plague, provoke :es: plagado _The development and approval of the Novavax vaccine has been beset by delays._ __2__ To attack on all sides _Syn_ set upon _The zebra was beset by leopards._ __3__ To surround; hem in: _a village beset by dense forest._ __4__ Decorate or cover lavishly (as with gems). To stud. _Syn_ incrust, encrust _A gold bracelet beset with jewels._  
@@ -1655,6 +1660,7 @@ __bespeak__ _v_ (bespoke) :four::hammer:
 __bespectacled__ _adj_ :two: Wearing eyeglasses. _Hollande, an unassuming and bespectacled Socialist._  
 __bespoke<sup>1</sup>__ _adj_ :nine::m: /bih-SPOHK/ Custom-made. _Bespoke clothing._ _They provide bespoke forecast for London Heathrow Airport._ _Delivering bespoke professional services._  
 __bespoke<sup>2</sup>__ _v_ :three: Past tense and a past participle of bespeak.  
+__best boy__ _n_ The chief assistant to the gaffer on a movie or television set.  
 __best effort__ _n_ :two::hammer:  
 __best in show__  
 __best__ _v_ :five: (bested) To get the better of; beat. _Bivalirudin bests heparin for treating heart attack patients undergoing PCI._  
@@ -1696,13 +1702,14 @@ __bibliotherapy__ _n_ A form of supportive psychotherapy in which carefully sele
 __bicker__ _v_ :eight: (bickering) Argue about petty and trivial matters. _The time for bickering is over._  
 __bicker<sup>1</sup>__ _vi_  
 __bicker<sup>2</sup>__ _n_ An angry quarrel; a squabble. A petty squabble. A peevish quarrel. A quarrel about petty points. _Syn_ pettifoggery, spat, squabble, tiff, bickering, fuss  
-__bickering__ _n_ :two: A quarrel about petty points. _Everyday bickering._  
+__bickering__ _n_ :three: A quarrel about petty points. _Everyday bickering._  
 __bicyclist__  
 __bid farewell__  
 __bid<sup>1</sup>__ _v_ :six: __1__ Offer (a certain price) for something, especially at an auction. __2__ To utter (a greeting or salutation). _She didn’t bid him farewell._  
 __bid<sup>2</sup>__ _n_ :seven::hammer: _Bid rigging._ _The highest ranked team earns an automatic bid to one of the New Year’s six bowls._  
 __bidding war__  
 __bidding__ _n_ :three::hammer: _The bidding for the lucrative post of tax-collector was held behind closed doors in the Chatelet._  
+__biddy__ _n_ /ˈbɪdɪ/ __1__ A dialect word for chicken, hen. __2__ _informal offensive_ A woman, esp an old gossipy or interfering one.  
 __bide__ _v_  
 __biennium__ _n_ :three: Two years.  
 __bier__ _n_ :pencil2:  

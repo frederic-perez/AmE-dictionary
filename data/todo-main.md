@@ -7,31 +7,6 @@ __adversary__ _n_ :mega: /ˈæd vərˌsɛr i/ /ˈædvəsərɪ/ /AD-ver-sair-ee/ 
 __aspersion__ _n_ :smiling_imp:  
 __at__ _prep_ [The preposition _at_ often has connotations of aggression. You _throw_ something _to_ someone if you want them to catch it; if you _throw_ it _at_ them you are trying to hit them. To _laugh at_ someone is to laugh at their expense. Usually we say _talk to_; when Ludlow says _talk at_ (in the movie _Legends of the Fall_) he is saying that his sons are shouting at them without listening to what he has to say in reply.]  
 __avuncular__ _adj_ uh-VUNG-kyuh-luhr/ Kind, friendly, and helpful, like an uncle, especially in a benevolent or indulgent way.  
-__ayahuasca__ _n_ :two::hammer:  
-__backwoods__ _n pl_  
-__bait__ _v_ :smiling_imp: __2__ To entice or provoke, especially by trickery or strategy: _He baited me into selling him my bike by saying how much I deserved a better one._  
-__baize__ _n_ A bright green fabric napped to resemble felt; used to cover gaming tables. _Baize table._ :es: tapete  
-__baleful__ _adj_ :es: siniestro  
-__barbiturate__ _n_ :es: barbitúrico  
-__bardolatry__ _n_ [:scroll: Coined by George Bernard Shaw from bard (poet) + -latry (worship)] _facetious_ Idolatry or excessive admiration of William Shakespeare.  
-__bark__ _v_ __2__ To rub off the skin of; abrade: _barked my shin on the car door._  
-__barrow__ _n_ __1__ A handbarrow. __2__ A wheelbarrow.  
-__batter__ _v_ :two: __1a__ To hit heavily and repeatedly with violent blows. _Syn_ beat __b__ To subject to repeated beatings or physical abuse.  
-__beady__  
-__bedraggled__ _adj_ /bɪˈdræɡəld/ __1__ 1. Wet, drenched, or messy: _bedraggled clothes._ (of hair, clothing, etc) Limp, untidy, or dirty, as with rain or mud. __2__ Being in a condition of deterioration; dilapidated: _a street of bedraggled tenements._  
-__bedroll__ _n_ /ˈbɛdˌrəʊl/ A portable roll of bedding, such as a sleeping bag, used esp for sleeping in the open.  
-__bedsit__ _n_ A furnished sitting room containing sleeping accommodation and sometimes cooking and washing facilities. :es: estudio amueblado, habitación amueblada _Syn_ bedsitter, bedsitting room, bed-sitting room  
-__bedstead__ _n_ The framework of a bed supporting the springs and a mattress.  
-__beer garden__ _n_ An outdoor tavern or an outdoor area adjoining a tavern where alcohol is served.  
-__belie__ _vt_  
-__bell boot__ _n_  
-__bellow__ _n_  
-__bemoan__ _vt_ :es: lamentar  
-__berate__ _v_ /bih-RAYT/ To _berate_ someone is to angrily scold or criticize them, often loudly and at length.  
-__beseech__ _v_ :es: suplicar  
-__best boy__ _n_ The chief assistant to the gaffer on a movie or television set.  
-__bickering__ _n_  
-__biddy__ _n_ /ˈbɪdɪ/ __1__ A dialect word for chicken, hen. __2__ _informal offensive_ A woman, esp an old gossipy or interfering one.  
 __biennial__ _adj_ Happening every second year. _Syn_ biyearly  
 __big game__ _n_ __1__ Large animals or fish hunted or caught for sport.  
 __birch tree__  
