@@ -243,31 +243,6 @@ __good to go__
 __good-time Charlie__ An affable, lively, and entertaining man who is often or always seeking pleasure or a good time.  
 __goon__  
 __goop__  
-__grapple with (someone or something)__ :three::hammer:  
-__grass on (one)__ _slang_ :smiling_imp: _BrE_ To inform against a criminal or wrongdoer to a figure of authority. Primarily heard in UK.  
-__grass__ _slang_ __1__ Marijuana.  
-__graze on (something)__ __1__ Of animals, to eat the greens or vegetables in a particular area or location. _I put up a fence to try to keep the deer from grazing on my land._  
-__grease monkey__ A mechanic, especially one who works on aircraft or automobiles.  
-__green thumb__  
-__growing pains__ __2__ By extension, the troubles or difficulties experienced by new companies or organizations as they enter into business or become established.  
-__guilt money__  
-__haggle over (something)__  
-__hairpin bend__ :two: A very sharp, approximately 180° bend in a road.  
-__hanker for (something)__ To have a very strong, persistent desire or craving for something. _It is not something to hanker for._  
-__happy-go-lucky__ Always happy or in a pleasant mood; carefree. _Arya is so happy-go-lucky that I doubt any negative thing you say would bother her._  
-__harp on (one) (about something)__ To nag one persistently and annoyingly about some issue. _It was one mistake—why do you keep harping on me about it?_  
-__harp on (something)__ To continue to mention or complain about some issue in a persistent and irritating manner. _It was one mistake—why do you keep harping on it?_ :es: machacar  
-__hatchet man__  
-__have (one’s) heart on (one’s) sleeve__ To openly display or make known one’s emotions or sentiments.  
-__have a light heart__ To have a carefree, uplifted attitude; to be in a happy or gladdened state or condition. _Though it is, of course, bittersweet to leave my friends and family behind, I have a light heart because of the amazing opportunities that await me in Europe._  
-__have a rocky start__ To have a troubled, uncertain, or discouraging beginning.  
-__have a say (in something)__ :two: To have an active and participatory role in making or influencing a decision about something.  
-__have a shit__  
-__hear the end of (someone or something)__  
-__heat wave__ :two: A period of time in which the weather is unusually and persistently hot.  
-__heavy-duty__ __1__ Designed to be durable for heavy use or extreme conditions; industrial strength. My pickup has a heavy-duty lining to protect it from all the stuff I load in it. _Fritz heavy-duty workshop cleaner._  
-__heavy-handed__ Overly blunt, forceful, or tactless.  
-__Hell and half of Georgia__ A great distance or area; a huge amount of space. Primarily heard in US. _I’ve been looking across Hell and half of Georgia trying to find you!_  
 __hell no__  
 __hell on earth__  
 __hell-bent__ Very determined to do something, perhaps annoyingly or recklessly so.  
