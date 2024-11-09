@@ -318,8 +318,10 @@ __goo__ _n_
 __Goodwill__ _n_ A charity organization that collect old clothes for resale.  
 __gopher__ _n_ :es: ardilla  
 __gossamer__ _adj_ /GAH-suh-mer/ Something described as _gossamer_—such as a butterfly wing or a thin fabric—is very light or delicate.  
+__grill pan__ _n_ :camera: A type of frying pan with raised ridges or grooves on the cooking surface that simulate the char marks of an outdoor grill.  
 __gripping__ _adj_ :es: con gancho  
 __grovel__ _vi_  
+__grueling__ _adj_ /ˈgru ə lɪŋ, ˈgru lɪŋ/  
 __grunt__ _n_  
 __guffaw__ _n_  
 __gull__ _vt_ :smiling_imp: To deceive or cheat. :es: embaucar  
@@ -348,6 +350,8 @@ __hearth__ _n_ The floor of a fireplace, usually extending into a room and paved
 __heat index__ _n_  
 __heath__ _n_  
 __heathen__ _n_  
+__heavenward<sup>1</sup>__ _adv_ (also heav′enwards) Toward heaven.  
+__heavenward<sup>2</sup>__ _adj_ Directed towards heaven or the sky.  
 __heinous__ _adj_ /HAY-nus/ _Heinous_ describes things—such as acts, deeds, or crimes—that are hatefully or shockingly evil, or in other words, deserving of hate or contempt.  
 __hem__ _n_ :es: dobladillo  
 __hidebound__  
@@ -366,6 +370,7 @@ __hurl__ _v_
 __husk__ _vt_ :two: To remove the husk from.  
 __hypertrichosis__ _n_ A condition of excessive hairiness either all over the body or covering a particular part.  
 __ideate__ _v_ /EYE-dee-ayt/ To ideate is to form an idea or conception of something..  
+__imp__ _n_  
 __indefatigable__ _adj_ /in-di-FAT-i-guh-buhl/ __1__ Incapable of being tired out. __2__ Persistently energetic or tireless, even in the face of challenges.  
 __indigenous__ _adj_ /ɪnˈdɪdʒ ə nəs/ __1__ Originating in and characteristic of a particular region or country; native (often fol. by to): _plants indigenous to Canada; indigenous peoples of southern Africa._  
 __induction__ _n_ :es: incorporación  
@@ -448,6 +453,7 @@ __listless__ _adj_ Marked by low spirits; showing no enthusiasm. _Syn_ dispirite
 __literacy__ _n_ /ˈlɪt ər ə si/  
 __litigation__ _n_  
 __Little Red Riding Hood__ _n_ A girl in a fairy tale who meets a wolf while going to visit her grandmother.  
+__littoral__ _adj, n_ :pencil2:  
 __livid__ _adj_ __3__ _informal_ Angry or furious.  
 __loan word__ _n_  
 __lock__ _n_ __1a__ A length or curl of hair; a tress. __b__ (often _locks_) The hair of the head.  
@@ -510,6 +516,7 @@ __medley relay__
 __meliorism__ _n_ /MEE-lee-uh-riz-um/ _Meliorism_ refers to the belief that the world tends to improve and that humans can aid its betterment.  
 __memento__ _n_ :mega: /muh-MEN-toh/ _Memento_ is a synonym of _souvenir_; it refers to something that is kept as a reminder of a person, place, or thing.  
 __menagerie__ _n_ A collection of wild or unusual animals, especially for exhibition.  
+__merc__ _n_ _informal_  
 __mesa__ _n_ A broad, flat-topped elevation with one or more clifflike sides, common in the southwest United States. _Syn_ table  
 __mess tin__ _n_ A portable container for cooking or serving food, originally for military use, and generally of a rounded rectangular form.  
 __mewl__ _vi_ To cry, as a baby, young child, or the like; whimper.  
@@ -547,6 +554,7 @@ __morrow__ _n_
 __mothball__ _n_ Asmall sphere of camphor or naphthalene used to keep moths away from stored clothing. _Syn_ camphor ball  
 __mother of pearl__ _n_  
 __motor__ _v_  
+__motormouth__ _n_ :two: _slang_ A garrulous person.  
 __mountaineering__  
 __mourning band__  
 __mpox__ _n_ (formerly called _monkey pox_) A zoonotic disease especially of central and western Africa that is caused by a poxvirus.  
@@ -554,6 +562,7 @@ __muck__ _n_
 __muddle__ _n_ __1__ A disordered condition; a mess or jumble.  
 __mundane__ _adj_  
 __mushroom__ _vi_ __1__ To multiply, grow, or expand rapidly: _The population mushroomed in the postwar decades._  
+__muss__ _vt_ To make messy or untidy; rumple. :es: despeinar; arrugar  
 __mutter<sup>1</sup>__ _n_ A low grumble or indistinct utterance.  
 __mutter<sup>2</sup>__ _v_ :two::hammer:  
 __muttering__ _n_  
@@ -567,6 +576,7 @@ __naturalization__ _n_
 __nebula__ _n_ /ˈnɛb yə lə/  
 __nemorous__ _adj_ /ˈnɛmərəs/ Full of woods or groves, wooded, woody  
 __neophile__ _n_ NEE-uh-fyl/ One who loves new or novel things.  
+__newfangled__ _adj_  
 __newsagent__ _n_ A shopkeeper who sells newspapers, stationery, etc. _Syn_ newsdealer  
 __nibble__ _v_  
 __nigh__ _adj, adv, prep_ /naɪ/ An archaic, poetic, or dialect word for near.  
@@ -599,7 +609,7 @@ __over-the-top__ _adj_
 __palaver__ _n_ /puh-LAV-er/  
 __panacea__ _n_ /pan-uh-SEE-uh/  
 __pantsuit__ _n_  
-__paramour__  
+__paramour__ _n_ :two::hammer:  
 __paratrooper__  
 __parched__ _adj_ :es: abrasado, reseco  
 __Parkinson’s law__ _n_ /PAHR-kin-suhnz law/ The observation that work expands to fill the time available.  
@@ -669,6 +679,7 @@ __plug__ _n_ __6a__ A flat cake of pressed or twisted tobacco. __b__ A piece of 
 __plumb__ _adj, adv, n_ _Bruises and plumb lines._  
 __plush<sup>1</sup>__ _n_  
 __plush<sup>2</sup>__ _adj_  
+__poached__ _adj_ :two: /pəʊtʃt/ Cooked gently in boiling water, milk, or other liquid. :es: cocido a fuego lento  
 __poaching__ _v_  
 __police__ _n_ (_npl_ police) _The police are looking for you._  
 __politic__ _adj_ Smoothly agreeable and courteous with a degree of sophistication. _Syn_ bland, smooth, suave _He was too politic to quarrel with so important a personage._  
@@ -680,7 +691,7 @@ __pommel__ _n_
 __ponderous__ _adj_  
 __pontoon__ _n_  
 __pool__ _n_ __1a__ A game of chance, resembling a lottery, in which the contestants put staked money into a common fund that is later paid to the winner. __b__ A fund containing all the money bet in a game of chance or on the outcome of an event.  
-__poplar tree__  
+__poplar__ _n_ /ˈpɒp lər/ :two::hammer: (poplar tree) :es: álamo, chopo  
 __porky__ _adj_ __1__ Of or like pork: _a porky flavor._ __2__ _Derogatory Slang_ Fat or corpulent.  
 __port-o-john__ _n_ A portable toilet.  
 __portentous__ _adj_ Marvelous.  
@@ -742,6 +753,7 @@ __ragweed__ _n_
 __rampage__ _n_ Violently angry and destructive behavior. _Syn_ violent disorder  
 __ransack__ _vt_  
 __rapport__ _n_ /ræˈpɔr, -ˈpoʊr, rə-/  
+__rapture__ _n_ :es: éxtasis  
 __rasp<sup>1</sup>__ _n_ __1__ A coarse file with sharp, pointed projections. :es: raspador __2__ The act of filing with a rasp. __3__ A harsh grating sound. :es: chirrido; (of voice) tono áspero  
 __rasp<sup>2</sup>__ _v_ :two: Utter in a grating voice.  
 __Rastafarian__ _adj, n_  
@@ -793,7 +805,7 @@ __rustle<sup>2</sup>__ _n_ The sound made by rustling.
 __sales floor__ _n_ The part of a business devoted to retail activities, such as a showroom or selling area of a shop or department store, usually manned by sales staff and having free public access with goods on display.  
 __sandspur__ _n_ _(Plants)_ An American wild grass.  
 __sanguinary__ _adj_ Accompanied by bloodshed. _Syn_ butcherly, gory, slaughterous  
-__saunter__  
+__saunter__ _vi_ :two: To walk or stroll about without much purpose or hurry.  
 __scamper__ _vi_  
 __scapegoat__ _n_ /SKAYP-goat/  
 __scathing__ _adj_ :es: mordaz, feroz  
@@ -840,9 +852,15 @@ __slovenly<sup>2</sup>__ _adv_
 __slug__ _vt_ __3__ To strike heavily, especially with the fist or a bat. _He slugged me across the jaw._  
 __smolder__ _vi_ __1__ To burn with little smoke and no flame. _Luke saw the smoldering piles which had once been human beings._  
 __smugly__ _adv_  
+__sniveling__ _n_  
+__spinning jenny__ _n_ An early spinning machine having more than one spindle, enabling a person to spin a number of yarns simultaneously.  
+__sputnik__ _n_ /ˈspʊt nɪk, ˈspʌt-/ Any of a series of unmanned Soviet satellites, Sputnik 1 (launched in 1957) being the first man-made satellite to orbit the earth.  
 __stakeout__  
+__stamp__ _v_ :dart: __1__ To bring down (the foot) forcibly.  
 __station__ _n_ :es: comisaría  
 __stemware__ _n_  
+__stern<sup>1</sup>__ _adj_ :dart: __1__ Hard, harsh, or severe in manner or character: _a stern disciplinarian._ __2__ Showing or expressing displeasure or disapproval; forbidding or harsh: _a stern face; a stern voice._ __3__ Firm or unyielding; uncompromising: _stern resistance._ __4__ Difficult to endure; oppressive: _stern necessity._  
+__stern<sup>2</sup>__ _n_ __1__ _Nautical_ The rear part of a ship or boat. __2__ A rear part or section.  
 __stricture__ _n_  
 __strife__  
 __string__ _n_ _The string of the tea bag._  
@@ -863,7 +881,10 @@ __suffocate__ _v_
 __Sufism__ _n_ The beliefs and practices of an ascetic, retiring, and mystical sect in Islam.  
 __suit__ _n_ Lawsuit.  
 __sultry__ _adj_ __3__ Displaying or suggesting passion; sensual: _sultry eyes._  
+__swat<sup>1</sup>__ _vt_ To hit sharply; slap; smack: _to swat a fly._  
+__swat<sup>2</sup>__ _n_ A smart blow; slap; smack.  
 __takings__ _n pl_  
+__tap__ _v_ :dart:  
 __taunt__ _v_  
 __teeter__ _vi_ :two: __1__ To move or sway unsteadily or unsurely; totter.  
 __teetotaler__ _n_ (teetotaller)  
@@ -887,6 +908,7 @@ __unfettered__
 __uptight__ _adj_  
 __urbane__ _adj_ :astonished:  
 __usher in__  
+__wagonette__ _n_ :camera: (waggonette) A light four-wheeled horse-drawn vehicle with two lengthwise seats facing each other behind a crosswise driver’s seat.  
 __wheeddle__ _v_ :smiling_imp:  
 __woefully__  
 __Xmas__ _n_  
