@@ -8,7 +8,7 @@ __(just) for the fun of it__
 __(out) on a limb__  
 __(someone) ain’t seen nothing yet__  
 __(stuck) in a rut__  
-__(the) next thing (one) knows__ (next thing you know)  
+__(the) next thing (one) knows__ :two: (next thing you know)  
 __(the) top of the line__ The absolute best of a certain thing, often referring to a product that is of the utmost quality (and usually the most expensive). When used as a noun, it is preceded by “the.” _That store only sells top of the line gear. You may want to consider some lower-priced options._  
 __a (whole) host of (something)__  
 __a balancing act__ :dart:  
@@ -29,6 +29,7 @@ __a little leery__ :two: Cautious, wary, or uncertain of a given person, place, 
 __a load of bunk__ :es: tontería  
 __a long shot__ :dart::two::hammer:  
 __a mite__ :dart: To a small degree; somewhat: _That remark was a mite unfair._ _This sounds a mite grandiose._  
+__a motor mouth__ A person who talks incessantly or irrepressibly.  
 __a piece of work__ :smiling_imp: A remarkably difficult, malicious, unpleasant, or objectionable person.  
 __a shiver down (one’s) spine__ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
 __a stone’s throw__ :two: A very short distance.  
@@ -53,6 +54,7 @@ __bargain for (someone or something)__
 __barrow man__ __1__ A boy or man who sells goods (usually fruit, vegetables, or other comestibles) from a handcart (barrow) on the streets. Primarily heard in UK. _Touts, thieves, and barrow men._  
 __battered__ :dart::astonished: Drunk.  
 __be (as) easy as one-two-three__ To be extremely easy, simple, or intuitive; to require very little skill or effort. (Sometimes used with the numbers spelled out (“one-two-three”) or written numerically (“123” or “1-2-3”).) _After so many years as an accountant, doing taxes is as easy as one-two-three for me._  
+__be a given__ To be something that can be assumed or relied upon to occur or come to pass.  
 __be at odd (with)__  
 __be at pains__ To put forth effort toward some goal or end.  
 __be at the end of (one’s) rope__ :dart: To be completely worn out, exasperated, or exhausted; to have no more patience, endurance, or energy left.  
@@ -80,7 +82,7 @@ __beyond the realm(s) of possibility__ Impossible.
 __beyond/within the realms of possibility__ Impossible/possible: _A successful outcome is not beyond the realms of possibility._  
 __big guns__  
 __birthday suit__  
-__bits and pieces__ Sundry little items, tasks, or chores.  
+__bits and pieces__ :dart::three: Sundry little items, tasks, or chores. _I’m almost finished, I just have a few bits and pieces to do around the house before we leave._  
 __black tie__ Dress ccde (slightly less formal than _white tie_) typically allowing men to wear tuxedos or dinner jackets and women to wear cocktail dresses and long dresses.  
 __bland__ _adj_  
 __blast to kingdom come__ :es: hacer saltar en pedacitos  
@@ -88,7 +90,6 @@ __bleeding heart__ In the USA people with right-wind or conservative opinions us
 __bless me Father for I have sinned__  
 __blow a gasket__ To react furiously or violently, to the point of losing control of one’s behavior. _Mom totally blew a gasket when I told her I had failed math._  
 __boil (something) down to (something)__ To reduce or simplify something to the most basic, essential, or fundamental element(s).  
-__bona fide__  
 __bottom of the ninth__ The final and critical moment or moments of a tense, important, or desperate situation. A reference to the ninth inning of baseball, the “bottom” of which is batted by the home team as their last chance to win the game. Primarily heard in US. _It came down to the bottom of the ninth, but I managed to finish my report in time for the big meeting._  
 __bragging rights__  
 __brain surgery__ A task requiring extreme intelligence, skill, or competence, usually used in a negative or rhetorical manner to indicate the opposite. _Just follow the directions as they’re written—it isn’t brain surgery._  
@@ -156,6 +157,8 @@ __disabuse (someone or oneself) of (something)__
 __discretion is the better part of valor__ _proverb_  
 __do the trick__ To do, accomplish, or fulfil exactly what is needed or sought after. _The recipe calls for pancetta, but I think this regular bacon should do the trick._  
 __downer__ :es: tranquilizante  
+__drape (something or oneself) over (someone or something)__ __1__ To lay on a piece of furniture, usually with one’s limbs splayed. In this usage, a reflexive pronoun is used between “drape” and “over.” _John came in and draped himself over the sofa while moaning about his ex-girlfriend._ __2__ To loosely place something over someone or something. In this usage, a noun or pronoun is used between “drape” and “over.” _It wasn’t as cold out when I left the theater, so I just draped my coat over my shoulders._  
+__drape over (something)__ [for cloth] To cover something and hang down. _The robe draped over her knees, but she was still cold._ _The tablecloth draped over and reached down to the floor._  
 __draw water__  
 __dreamboat__ A very attractive or appealing person.  
 __drum into__ :es: hacer aprender a la fuerza; machacar  
@@ -164,6 +167,7 @@ __engage (one) as (something)__ To hire someone for a particular role or job. _I
 __fall off the perch__ _BrE_ _old-fashioned, informal_ (fall off your perch) If someone falls off the perch or falls off their perch, they die. Note: A perch is a pole, branch or other place where a bird sits to rest. _He fell off the perch years ago._ Note: Other verbs such as drop or topple can be used instead of fall. _He’ll topple off his perch one morning. You know how it is._ Note: This expression is used humorously.  
 __famous last words__ A statement or claim that is promptly undone or disproved. This phrase is often humorously or preemptively. A reference to the final words one says before one dies. _A: “I can’t believe the ER has been so quiet today!” B: “Ugh, famous last words for sure.”_  
 __fancy__ _informal_ __2__ To have a desire for (something).  
+__fast and furious__  
 __fat chance__ Said of something that is unlikely to happen. :es: vaga posibilidad  
 __feel like doing something__  
 __few and far between__ :two::hammer:  
@@ -174,6 +178,7 @@ __fire and brimstone__ :two: __1__ _n_ The misery that one faces in hell. The su
 __first come, first served__ The first people present will be the first to receive something, often something that is available in limited quantities.  
 __fit the bill__  
 __flare up__ :es: estallar  
+__flit about__ To move in a quick, deft manner. _The kids are outside, trying to catch the lightning bugs that are flitting about._  
 __floor (one)__  
 __flop__ _The film was a flop._  
 __flying squad__ _n_ A small group of police, soldiers, etc, ready to move into action quickly.  
@@ -196,6 +201,7 @@ __free of charge__
 __French letter__  
 __Freudian slip__  
 __from bad to worse__  
+__full of (oneself)__  
 __full-fledged__  
 __fussbudget__ :dart: _informal_ One who tends to be fussy or particular, usually to an excessive or unnecessary degree. Primarily heard in US. _Don’t be such a fussbudget, huh? This really isn’t a big deal._ _Of course Vanessa found some miniscule issue that no one else would have noticed. She’s such a fussbudget._  
 __gain momentum__ (gather momentum) To move faster. _The wagon gathered/gained momentum as it rolled down the hill._  
@@ -415,6 +421,7 @@ __knee-jerk reaction__ Any spontaneous, reflexive, and unthinking reaction or re
 __knife-edge__  
 __knock it off__  
 __knock on doors__ To speak to the people who live in an area by walking up to their houses, apartments, etc., especially to provide information or solicit votes, support, contributions, etc.  
+__know better (than to do something)__ :two:  
 __know by heart__  
 __know the ropes__  
 __l’esprit de l’escalier__  
@@ -520,6 +527,7 @@ __make (something) clear (to one)__ :two:hammer:
 __make a pass at (one)__ :dart: To make sexual advances toward or propositions to one; to hit on one. _Do you think she was making a pass at me, or was she just being nice?_ :es: intentarse ligar a  
 __make game of (someone or something)__ To ridicule, mock, or tease someone or something; to make fun of someone or something. _I really don’t appreciate you making game of my disability like that._  
 __make it__ __1__ To be successful.  
+__make light of (something)__  
 __Maslow’s hammer__ :dart: The inability to recognize other possible outcomes or solutions if one relies too much on a particular tool, method, or mindset. The term refers to 20th-century psychologist Abraham Maslow and his idea that “If all you have is a hammer, everything looks like a nail.” Also known as the “golden hammer,” and “the law of the instrument.”  
 __mixed feelings__  
 __mixed message__  
@@ -626,6 +634,7 @@ __out of print__ No longer being printed and sold by a publisher.
 __over and out__ Said to mark the end of communication between two people. Used especially in radio communication, in which it signals that a person is done speaking and does not expect a reply from the other person. _A: “Oh, and while you’re at the store, could you please get some milk, too?” B: “Sure thing. Over and out.”_  
 __over the phone__ :two: By calling on the telephone. _You can order a pizza over the phone._  
 __pad out__ (pad something out) To fill something with cheaper or unnecessary material in order to make it superficially fuller, larger, or longer. A noun or pronoun can be used between “pad” and “out.” :es: rellenar  
+__part and parcel__ :two: An essential or fundamental part or aspect (of something). _Dealing with tantrums is part and parcel of raising a toddler._  
 __pave the way (for someone or something)__ To create a situation in which it is easier for someone to do something or something to happen.  
 __pay lip service__ :smiling_imp:  
 __peck at__  
@@ -679,6 +688,8 @@ __racket__ :smiling_imp: __2__ A fraudulent scam or money-making operation. _He�
 __rags to riches__ Characterized by a rise from poverty to great or exceptional wealth. Hyphenated if used as a modifier before a noun.  
 __raise eyebrows__  
 __rake in__  
+__rat (one) out__ To inform an authority figure of one’s bad or illegal behavior.  
+__rat out__ :smiling_imp: __1__ To expose or reveal incriminating or embarrassing information about someone: _The newspapers ratted out the people who were involved with the scam._ __2__ To quit; to fink out (on someone/something). _He tried to rat out at the last minute._  
 __rear its ugly head__  
 __recoup (something) from (someone or something)__ To recover, regain, or restore something from someone or something. _You’ll have to pay for everything out of pocket, but you can recoup it all from HR after you’re back from the trip._  
 __ride or die__ _n_ One’s closest, most reliable or trustworthy friends. _Liz is my ride or die—I can totally count on her to be there for me in any situation._  
@@ -690,6 +701,7 @@ __roll with the punches__
 __rolling stone__  
 __rough it__ :es: vivir sin comodidades  
 __round and round__ :two::hammer: (around and around)  
+__rub off__ :hammer: __1__ To come off (of something else) after being rubbed. _Don’t worry, if you use a warm, damp towel, the makeup will just rub right off._ __2__ To remove some substance off of a surface by rubbing. In this usage, a noun or pronoun can be used between “rub” and “off.” _You’d better rub that paint off before it has a chance to dry!_ __5__ _vulgar slang_ To masturbate. Used especially in the form “rub one off.” __6__ _vulgar slang_ To bring someone to orgasm with one’s hands.  
 __rubberneck__  
 __rue the day (that something happened)__ :two: To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
 __ruffle a few feathers__ To do something which annoys, irritates, or upsets other people.  
@@ -709,6 +721,7 @@ __scare the shit out of (one)__ :astonished: _rude slang_ To shock or frighten o
 __scheme for (something)__ To form or contrive a secret or devious plan or conspiracy in order to obtain, achieve, or accomplish something. _We spent the afternoon scheming for a way to get into the elite Hollywood party so we could meet some celebrities._  
 __scrape by__  
 __scumbag__ :smiling_imp:  
+__scupper up__  
 __see (one) in the flesh__ To see one in person who is usually only seen at a distance, especially through a medium such as film, music, theater, etc. _After years of idolizing the singer, it was a bit anticlimactic seeing her in the flesh._  
 __see fit__ :dart: Deem appropriate, as in _He’s entitled to divide up his property as he sees fit_, or _If we see fit to attend, we’ll be there._  
 __seep in(to something)__  
@@ -730,6 +743,7 @@ __shipshape and Bristol fashion__
 __shit (one’s) pants__ __2__ _rude slang_ By extension, to be very surprised. _When I saw that the magazine had published my letter to the editor, I practically shit my pants!_ _Shit-your-pants scared._  
 __shoot (oneself) in the foot__  
 __shop around (for something)__ :dart::three: To browse different stores, vendors, or selections to find the best price or option for something one wants to buy.  
+__short-handed__ :es: falto de personal  
 __shortlisted__ Placed on a final list (a shortlist) of people or things that are being considered for something, such as an award or a position of employment. _I was so shocked to hear that my story was shortlisted for the fiction award!_  
 __shot through with (something)__ Containing something; interwoven, intermixed, or filled with something. _The rose was a lovely pink shot through with streaks of white._ _John’s comments are often shot through with sarcasm._ :es: impregnado  
 __show (one’s) hand__  
@@ -767,6 +781,7 @@ __so much so that__
 __sock__ :two: _informal_ __2__ _v_ To deliver a sharp, forceful blow.  
 __soft spot__  
 __something of sorts__ An inferior example of a kind of something.  
+__son of a gun__  
 __sort of__ _informal_ Used with adjectives, adverbs and verbs when something is difficult to describe or when the word you use is not exactly what you mean. _My new dress is sort of green._  
 __sort out__  
 __sounds familiar__  
@@ -784,22 +799,27 @@ __stand on (one’s) own (two) feet__ To be strong and independent; to not need 
 __stands to reason__  
 __start the ball rolling__ To set something, often a process, in motion; to begin.  
 __stay clear of (someone)__ :dart:  
+__stay strong__ :es: mantente fuerte  
+__steely-spined__ :dart: __2__ Determined and resolved. _You’ll never be able to talk Louise out of this—she’s as steely-spined as they come._ __3__ :dart: Calm and unflappable under pressure. _I asked my brother to come to court with me because he is always steely-spined in stressful situations._ _Gina needs to be steely-spined to deal with all the rejection that comes with being an actress._  
 __step in__ To enter into some position, activity, or situation to intervene or improve it.  
 __stick around__ To remain or linger in one location; to not leave or abandon (someone or something). _Hey, stick around for a minute, I need to talk to you._  
-__stiff upper lip__ :es: guardar la compostura  
+__stiff upper lip__ :two: :es: guardar la compostura  
 __stir-crazy__ Acutely restless, irritable, or anxious from remaining for too long in an isolated, confined, or unstimulating environment. “Stir” in this usage is a slang word for prison. _We thought taking our family vacation in a tiny cottage out in the country would be a nice break from city life, but we all went a bit stir-crazy after a few days._  
 __stone dead__ Dead; unquestionably dead; long dead. _The cat was stone dead and stiff as a board by the time we got to him._  
 __strike (one) dead__  
 __strike a (raw) nerve__  
 __sucker (one) in__ To con, swindle, or deceive someone.  
+__suicide by cop__  
 __swept the board__  
 __take heart (from something)__ To receive courage or comfort from some fact. _I hope that you will take heart from what we told you today. Even though you did not win the race, take heart from the fact that you did your best. I told her to take heart and try again next time._  
 __take heart__ To have one’s confidence, courage, or happiness bolstered (by something). _We may have lost the election, but we take heart in the fact that so many young people are now engaged and excited about politics._  
+__take on trust__  
 __take the fall (for someone or something)__  
 __take umbrage__ :two::hammer:  
 __takedown__ :dart: _slang_ A taking down: the arrest of a suspect by a police officer. _She shot and killed two drug dealers in a takedown that went bad._  
 __tangle with (someone or something)__ To fight, argue, or engage in a dispute with someone or something.  
 __team up (with one)__  
+__tear up__ __1__ To violently rip or pull someone or something into pieces. In this usage, a noun or pronoun can be used between “tear” and “up.” :es: destrozar  
 __tell me about it__  
 __that does the trick__ That is all that was remaining or required to accomplish something. _There, that does the trick. The engine should be as good as new, now!_  
 __that very thing__ Exactly that. _Why, I was just looking for that very thing!_ _You know, I was just about to say that very thing._  
