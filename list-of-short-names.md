@@ -25,6 +25,7 @@
 - __Eve__ Derived from the Latin name Eva.
 - __Hal__ A masculine given name, often a diminutive form (hypocorism) of Harold or Henry or Harvey, and a nickname.
 - __Han__ A Dutch masculine given name. It can be a short form of Johannes or of Hendrik/Henricus.
+- __Ike__ Diminutive of Isaac. This was the nickname of the American president Dwight D. Eisenhower (1890-1969), based on the initial sound of his surname.
 - __Jay__ A common given name and nickname. It may be a nickname for Japhet, Jaymond, Jane, James, Javonne, Jamie, Jacob, Jared, Joaquin, Javad, Jeremy, Jeffrey, John, Jules, Jonathan, Joseph, Jason, Jamin, Jaylin, Jordan, Justin, Joel, Jayakumar, etc.
 - __Jeb__ A masculine given name or nickname. It can be derived from the initials “J.E.B.,” or from “Jebediah,” a variant of the biblical name “Jedediah.”
 - __Jed__ A masculine given name or nickname, usually of Jedediah.
@@ -45,6 +46,7 @@
 - __Meg__ Often a short form of Margaret, Megan, Megumi (Japanese), etc.
 - __Mel__ Abbreviated version of the given names Melvyn, Melvin, Melanie, Melika, Melhem, Melina, Melinda, Melody, Melissa, Melitta, Melchior, Melindro.
 - __Mia__ Mia is a female given name, originating as a hypocoristic of various unrelated names. It is usually derived from the name Maria and its variants (Miriam, Maryam, Mary), but it is reportedly also used as a hypocoristic of names such as Amalia, Amelia, Emilia, Emily or Maya.
+- __Nic__ Short form of Nicholas, or sometimes Dominic. Variants: Dom, Nick, Nicky, Nik. Diminutives: Colin, Collin.
 - __Pam__ Often a diminutive form of Pamela.
 - __Pat__ Pat is originally a nickname for Patrick or Patrica, though it can be used for any name beginning with “Pat.” Occasionally Pat is used as a given name.
 - __Ray__ Ray is a masculine given name and short form (hypocorism) of Raymond.
