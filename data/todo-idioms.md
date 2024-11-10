@@ -33,6 +33,7 @@ __a motor mouth__ A person who talks incessantly or irrepressibly.
 __a piece of work__ :smiling_imp: A remarkably difficult, malicious, unpleasant, or objectionable person.  
 __a shiver down (one’s) spine__ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
 __a stone’s throw__ :two: A very short distance.  
+__a stranger to (someone or something)__ Someone who experience or knowledge of something. Often used in negative constructions. _She’s rather much a stranger to cosmetics._  
 __a word of warning__ :two: Information about possible danger or trouble.  
 __abound in__ To be abundant or plentiful with. _In the spring, the fields abound in blooming tulips._  
 __abound with__ To be brimming with something plentiful: _The lake by the cabin abounds with fish._  
@@ -118,6 +119,7 @@ __castles in the air__
 __Catch-22__  
 __chalk up__  
 __chase the dragon__ :dart: To smoke a controlled substance, often heroin. _I can’t chase the dragon anymore—I’m trying to get away from that stuff._  
+__check someone or something out__  
 __chicken shit__  
 __chime in__  
 __clear the table__ To remove objects from a table. This phrase is often said after a meal, as one removes dishes, silverware, and leftover food from the table. _After the meal I cleared the table._  
@@ -149,13 +151,19 @@ __cut and dry__ The “idiom cut and dry” refers to something that is clear, s
 __cut bait__  
 __cut eyes at (someone or something)__ To look at someone or something quickly.  
 __dance on air__ To be extremely happy.  
+__day in and day out__  
 __dead__ __5__ Absolutely. _You’d better be dead certain about this decision, because you can’t take it back._  
 __dearth__ _n_ /dɜːθ/  
 __dig (something)__ _slang_ To understand, approve of, or enjoy something. _I really dig this music, man!_  
 __dig and poke around__ The idiom “dig and poke around” generally means to search or investigate something thoroughly by looking through various items or areas, often in a somewhat casual or unstructured manner.  
 __disabuse (someone or oneself) of (something)__  
 __discretion is the better part of valor__ _proverb_  
+__dispose of (someone or something)__  
+__do an about-face__  
+__do shit__ (don’t do shit) _The cops that worked the case didn’t do shit and sure as hell aren’t going to do shit now._  
 __do the trick__ To do, accomplish, or fulfil exactly what is needed or sought after. _The recipe calls for pancetta, but I think this regular bacon should do the trick._  
+__do-rag__ A scarf, bandana, or similar item tied around the head as a covering. A headcap that covers and protects a hairdo. _Bob says he uses that do-rag to keep his hair out of his face while he mows the lawn._  
+__don’t get me started__  
 __downer__ :es: tranquilizante  
 __drape (something or oneself) over (someone or something)__ __1__ To lay on a piece of furniture, usually with one’s limbs splayed. In this usage, a reflexive pronoun is used between “drape” and “over.” _John came in and draped himself over the sofa while moaning about his ex-girlfriend._ __2__ To loosely place something over someone or something. In this usage, a noun or pronoun is used between “drape” and “over.” _It wasn’t as cold out when I left the theater, so I just draped my coat over my shoulders._  
 __drape over (something)__ [for cloth] To cover something and hang down. _The robe draped over her knees, but she was still cold._ _The tablecloth draped over and reached down to the floor._  
@@ -194,13 +202,14 @@ __for better or worse__
 __for crying out loud__  
 __for kicks__ :two::hammer (just for kicks)  
 __for starters__  
+__for the hell of it__ Simply to satisfy a whim; for no reason other than one’s desire to do it. _Oh, let’s just go on a drive for the hell of it. Why do we need to have a destination in mind?_  
 __for the most part__  
 __for which read__ :dart: _Readjustment, scaling back, for which read — redundancies._ :es: léase  
 __forge ahead__  
 __free of charge__  
 __French letter__  
 __Freudian slip__  
-__from bad to worse__  
+__from bad to worse__ :two::hammer: _Everything you’re telling me goes from bad to worse._  
 __full of (oneself)__  
 __full-fledged__  
 __fussbudget__ :dart: _informal_ One who tends to be fussy or particular, usually to an excessive or unnecessary degree. Primarily heard in US. _Don’t be such a fussbudget, huh? This really isn’t a big deal._ _Of course Vanessa found some miniscule issue that no one else would have noticed. She’s such a fussbudget._  
@@ -210,7 +219,9 @@ __get (one, something) out of the system__
 __get (one’s) bearings__  
 __get (something) out of (one’s) system__ __2__ To do something so that one no longer has the desire to do it anymore. _I got drinking and partying out of my system during college. I’m ready for a quieter life now._  
 __get an earful__  
+__get down to business__  
 __get lucky__ :two: __2__ _slang_ To have sex, especially with someone whom one has only just met.  
+__get my drift__ ((do you) get my drift?) Do you understand the meaning, insinuation, or implication of what I’m saying? _All I’m saying is that I won’t be very sad if she breaks up with her boyfriend—get my drift?_ _I haven’t seen Ike and don’t care for the likes of him, if you get my drift._  
 __get on famously__ To have an exceptionally good relationship (with someone); to get along very well. _I’m glad you finally got to meet my brother—I knew you two would get on famously._  
 __get on like a house afire__ Of two or more people, to enjoy one another’s company very much from the start and become good friends at once. (Used when people are meeting for the first time.) _I can’t wait for you to meet Mark, I just know the two of you will get on like a house afire!_  
 __get something out of the way__ :dart: Deal with a task or difficulty so that it is no longer a problem or worry. _I’m glad I’ve got that visit to the dentist out of the way._  
@@ -226,6 +237,7 @@ __give (someone) an out__ To provide someone with an excuse or a means of escapi
 __give a flying fuck__ (usually in a negative use, vulgar) To care whatsoever.  
 __give a hiding__ The idiom “give a hiding” primarily means to deliver a severe beating or punishment. This usage is particularly common in British English, where it can refer to both physical punishment and a figurative sense of defeat.  
 __give a shit__  
+__give in to (someone or something)__ _No competent investigator can give in to emotions._  
 __give or take__  
 __give something a miss__ _I’ll give coffee a miss; I’m off to bed now._  
 __glass cliff__ _n_ A situation in which a woman or minority has advanced professionally at a time when adverse circumstances or crises make it more likely for the person to fail at the job.  
@@ -278,11 +290,12 @@ __I say__
 __if (one’s) life depended on it__ Under any circumstances; no matter what. (Used almost exclusively with a negative statement regarding something that one couldn’t or wouldn’t do.) _No way am I going to karaoke night. I couldn’t sing if my life depended on it!_  
 __if anything__  
 __if it ain’t broke, don’t fix it__ :two::hammer: (if it isn’t broke, don’t fix it)  
-__if nothing else__ :dart: A phrase used to indicate that something is a priority or the most important thing. _I know you’re busy today, so if nothing else, please make sure you respond to these messages._ _If nothing else, we’ll at least get our money back._  
+__if nothing else__ :dart::two: A phrase used to indicate that something is a priority or the most important thing. _I know you’re busy today, so if nothing else, please make sure you respond to these messages._ _If nothing else, we’ll at least get our money back._  
 __If you can’t beat ’em, join ’em__  
 __iffy__  
 __in a bit__  
 __in a flutter__ In a nervous, confused, or agitated state.  
+__in a huff__ :smiling_imp: In an angry, belligerent, or vexed manner. _Don’t go off in a huff like that, it was only a joke!_  
 __in a measure__ To a certain degree or extent; somewhat.  
 __in a month’s time__ The idiom “in a month’s time” refers to a period of one month from the present moment. It is used to indicate when something will happen or be completed. Essentially, it means “one month from now.”  
 __in a pinch__ When something ideal or preferred is not available; as a substitute. _I don’t have any cooking oil. Is there anything else I can add to the recipe in a pinch?_  
@@ -330,7 +343,7 @@ __in the bag__ :two: Achieved or won almost as a certainty.
 __in the blink of an eye__  
 __in the hope that__ With the expectation, intention, or desire that (something will happen). _He strove to be well-behaved in prison, in the hope that he would be let out early on parole._  
 __in the house__  
-__in the least__ :two::hammer:  
+__in the least__ :three::hammer:  
 __in the long run__ Over a relatively long or extended length of time in the future.  
 __in the making__  
 __in the midst of (something)__  
@@ -371,6 +384,7 @@ __jack-o’-lantern__ [The _o’_ in jack-o’-lantern is short for the word _of
 __jacked up__  
 __jaw away__ To talk incessantly and/or at great length. _I became so bored while the professor jawed away at us that I nearly fell asleep in the middle of the lecture._  
 __jeer at (someone or something)__ To mock, taunt, or scoff at someone or something. _Everyone in school jeered at me for wearing a pink sweater._  
+__jerk (someone or something) out of (something)__ To pull, yank, or lift someone or something out of some place or thing. _Please tell me you didn’t jerk that loose tooth out of your little brother’s mouth._  
 __jigaboo__ _n_ (ethnic slur) Extremely offensive name for a Black person.  
 __Jill of all trades(, master of none)__ :dart:  
 __JK__ An initialism of “just kidding,” used especially in text messages and online communications to express that one was not being serious about their previous statement. Variously written as “JK,” “J.K.,” or “J/K,” in either uppercase or lowercase letters. _Yeah, def considering working on my uncle’s farm 4 the summer. haha jk lol_  
@@ -421,7 +435,7 @@ __knee-jerk reaction__ Any spontaneous, reflexive, and unthinking reaction or re
 __knife-edge__  
 __knock it off__  
 __knock on doors__ To speak to the people who live in an area by walking up to their houses, apartments, etc., especially to provide information or solicit votes, support, contributions, etc.  
-__know better (than to do something)__ :two:  
+__know better (than to do something)__ :three::hammer: _The woman is dirty, maybe mentally ill, and Nic knows better than to tangle with that type._  
 __know by heart__  
 __know the ropes__  
 __l’esprit de l’escalier__  
@@ -537,6 +551,7 @@ __monkey__ :dart: __1__ _slang_ A drug addiction. _Did you hear? Pete checked hi
 __mooch off (of) (someone or something)__ To ask for or obtain (something) through the charity of someone or something; to sponge off someone or something else. _My brother has been mooching off me and my wife ever since he lost his job._  
 __more haste, less speed__ :es: vísteme despacio que tengo prisa  
 __more often than not__ :two: Much of the time.  
+__more than anything__ Very much; very badly. _I wanted to believe her more than anything, but I couldn’t._  
 __move mountains__ :dart: To do or achieve something that is incredibly difficult.  
 __move on__  
 __move the dial__  
@@ -630,12 +645,14 @@ __open the door for (someone or something)__
 __other than (something)__ (other than that) Besides or excluding something. _Other than having a view of the parking lot, his apartment is great._  
 __out of (one’s) hair__ No longer pestering or annoying to one; not one’s responsibility or burden any longer. _I’ve gotten the kids out of my hair for a few hours so I can go and get a relaxing massage by myself._  
 __out of (one’s) league__  
+__out of nowhere__  
 __out of print__ No longer being printed and sold by a publisher.  
 __over and out__ Said to mark the end of communication between two people. Used especially in radio communication, in which it signals that a person is done speaking and does not expect a reply from the other person. _A: “Oh, and while you’re at the store, could you please get some milk, too?” B: “Sure thing. Over and out.”_  
 __over the phone__ :two: By calling on the telephone. _You can order a pizza over the phone._  
 __pad out__ (pad something out) To fill something with cheaper or unnecessary material in order to make it superficially fuller, larger, or longer. A noun or pronoun can be used between “pad” and “out.” :es: rellenar  
 __part and parcel__ :two: An essential or fundamental part or aspect (of something). _Dealing with tantrums is part and parcel of raising a toddler._  
 __pave the way (for someone or something)__ To create a situation in which it is easier for someone to do something or something to happen.  
+__pay heaven and earth__ _I’ve got a a particular clerk I’d pay heaven and earth to get rid of._  
 __pay lip service__ :smiling_imp:  
 __peck at__  
 __peeper__ peeper__ One’s eye. (That is, what one uses to peep.) Typically used in the plural and often used to refer to the eyes of children. _Your baby girl has such beautiful peepers!_  
@@ -643,6 +660,7 @@ __photobomb__
 __pick up on (something)__ To detect or notice something; to become alert to or aware of something.  
 __pick up__  
 __pick-me-up__ :dart:  
+__piece of cake__ :dart: (a piece of cake) A very easy task or accomplishment. _I thought I was going to fail the test, but it turned out to be a piece of cake!_ Piece of cake, _Tom said to himself as he got ready to open the safe._  
 __pigheaded__ :smiling_imp: Incredibly stubborn, narrow-minded, and often ignorant or foolish. _He’s a nice guy most of the time, but he can be really pigheaded when it comes to certain things._  
 __pillow talk__  
 __pin (one’s) hopes on (someone or something)__ To have expectations that are tied to the success, performance, etc., of a particular person or thing. _Why are we pinning our hopes on him when we know he’s not popular enough to defeat the incumbent?_ :es: tener las esperanzas puestas en  
@@ -671,6 +689,7 @@ __press (something) (up)on (one)__
 __price to pay__  
 __prickteaser__ _slang_ A _prickteaser_ is a slang term with vulgar and derogatory connotations, typically referring to a seductive woman who uses her sex appeal to exploit or manipulate men without following through on implied sexual promises.  
 __prim and proper__ Having very traditional, morally conservative beliefs and behavior.  
+__prop up__  
 __public eye__ Attention from the general public. Typically used in the phrase “in the public eye.”  
 __pucker up__ __1__ To purse one’s lips together, as when tasting something sour or preparing for a kiss.  
 __pull (one’s) weight__ To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
@@ -690,6 +709,7 @@ __raise eyebrows__
 __rake in__  
 __rat (one) out__ To inform an authority figure of one’s bad or illegal behavior.  
 __rat out__ :smiling_imp: __1__ To expose or reveal incriminating or embarrassing information about someone: _The newspapers ratted out the people who were involved with the scam._ __2__ To quit; to fink out (on someone/something). _He tried to rat out at the last minute._  
+__ream ream someone out__  
 __rear its ugly head__  
 __recoup (something) from (someone or something)__ To recover, regain, or restore something from someone or something. _You’ll have to pay for everything out of pocket, but you can recoup it all from HR after you’re back from the trip._  
 __ride or die__ _n_ One’s closest, most reliable or trustworthy friends. _Liz is my ride or die—I can totally count on her to be there for me in any situation._  
@@ -699,6 +719,7 @@ __roast__
 __rob someone blind__ :smiling_imp:  
 __roll with the punches__  
 __rolling stone__  
+__root around__ To dig or rummage aimlessly (in or through some cluttered location). Usually used in the continuous tense. _Tom rooted around the attic for a while, but he couldn’t find his old comic book location._ _She was rooting around for bargains._  
 __rough it__ :es: vivir sin comodidades  
 __round and round__ :two::hammer: (around and around)  
 __rub off__ :hammer: __1__ To come off (of something else) after being rubbed. _Don’t worry, if you use a warm, damp towel, the makeup will just rub right off._ __2__ To remove some substance off of a surface by rubbing. In this usage, a noun or pronoun can be used between “rub” and “off.” _You’d better rub that paint off before it has a chance to dry!_ __5__ _vulgar slang_ To masturbate. Used especially in the form “rub one off.” __6__ _vulgar slang_ To bring someone to orgasm with one’s hands.  
