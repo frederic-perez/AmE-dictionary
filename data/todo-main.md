@@ -670,6 +670,7 @@ __pitch<sup>1</sup>__ _n_ :es: (esp. _British_) campo, cancha
 __pitch<sup>2</sup>__ _vt_  
 __pittance__ _n_  
 __plaintiff__ _n_  
+__planter__ _n_  
 __plead__ _v_  
 __plebiscite__ _n_  
 __plod__ _v_ To walk heavily or move laboriously; trudge.  
@@ -694,6 +695,7 @@ __pool__ _n_ __1a__ A game of chance, resembling a lottery, in which the contest
 __poplar__ _n_ /ˈpɒp lər/ :two::hammer: (poplar tree) :es: álamo, chopo  
 __porky__ _adj_ __1__ Of or like pork: _a porky flavor._ __2__ _Derogatory Slang_ Fat or corpulent.  
 __port-o-john__ _n_ A portable toilet.  
+__portent__ _n_  
 __portentous__ _adj_ Marvelous.  
 __porter__ _n_ __1__ A person employed to carry luggage, parcels, supplies, etc, esp at a railway station or hotel.  
 __portly__ _adj_ :es: corpulento  
@@ -701,6 +703,7 @@ __possess__ _v_
 __posterity__ _n_ /pɒˈstɛr ɪ ti/ /pɑˈstɛrət̮i/ /pah-STAIR-uh-tee/  
 __potbellied__ _adj_ Having a large belly.  
 __power strip__ _n_  
+__power suit__ _n_  
 __precede__ _v_ Furnish with a preface or introduction. _Syn_ preface, premise, introduce _She always precedes her lectures with a joke._  
 __precinct__ _n_  
 __preen__ _v_  
@@ -723,6 +726,7 @@ __prissy__ _adj_ :es: remilgado
 __privet__ _n_ /ˈprɪv ɪt/ _Clipped privet hedges._  
 __process server__ _n_ :dart::two: A person who serves subpoenas or other legal documents, esp. those requiring appearance in court.  
 __profligate__ _adj_ :dart:  
+__profusion__ _n_ :dart::astonished:  
 __proliferate__ _v_ /pruh-LIF-uh-rayt/ To increase quickly in number or amount.  
 __propensity__ _n_ /pruh-PENN-suh-tee/ A _propensity_ is a strong natural tendency to do something.  
 __prostration__ _n_ An abrupt failure of function or complete physical exhaustion. _Syn_ collapse  
@@ -746,10 +750,11 @@ __quiff__ _n_
 __quiver<sup>1</sup>__ _vi_  
 __quiver<sup>2</sup>__ _n_ __1__ A portable case for holding arrows.  
 __rabies__ _n_ /ˈreɪ biz/ _Rabies is normally fatal if untreated and it’s a horrible death._  
-__racket__ _n_ __1__ A loud distressing noise.  
+__racket__ _n_ :two: __1__ A loud distressing noise.  
 __racketeer__ _n_ :smiling_imp: One who obtains money by an illegal enterprise usually involving intimidation.  
 __ragbag__ _n_  
 __ragweed__ _n_  
+__rain slicker__ _n_ A type of waterproof coat designed to protect the wearer from rain and wet conditions.  
 __rampage__ _n_ Violently angry and destructive behavior. _Syn_ violent disorder  
 __ransack__ _vt_  
 __rapport__ _n_ /ræˈpɔr, -ˈpoʊr, rə-/  
@@ -760,6 +765,7 @@ __Rastafarian__ _adj, n_
 __rationalize__ _v_ __1__ To justify (one’s actions, esp discreditable actions, or beliefs) with plausible reasons, esp after the event.  
 __raving<sup>1</sup>__ _n_  
 __raving<sup>2</sup>__ _adj_ Delirious, irrational speech.  
+__ravish__ _v_  
 __real estate developer__ _n_ :es: promotor immobiliario  
 __real__ _adv_ :dart: _informal_ [In American English it is usual to drop the _-ly_ adverb ending from _really_ when used as an intensifier] Very. _I’m real sorry about that._ _Real quiet._  
 __rear__ _vt_ :two: __1__ To care for (children or a child) during the early stages of life; bring up. __2__ To tend (growing plants or animals). __3__ To build; erect.  
@@ -789,6 +795,7 @@ __refuse__ _v_ /rɪˈfjuːz/
 __regardless__  
 __reify__ _v_ /ˈri əˌfaɪ, ˈreɪ-/ /RAY-uh-fye/ Reifying is about considering or representing something abstract as a material or concrete thing. If you reify a concept or idea you somehow give it definite content and form.  
 __reignite__ _v_  
+__restraint__ _n_  
 __retainer__ _n_ __2__ _Dentistry_ An appliance used to hold teeth in position after orthodontic treatment.  
 __rhotic__ _adj_ :dart:  
 __rollout__ _n_ __1__ The introduction of a new product, service, or policy to the public.  
@@ -814,12 +821,13 @@ __scowl__ _v_ :two::hammer:
 __scrapping__  
 __scrub nurse__ _n_ A specially trained nurse who directly assists a surgeon during an operation.  
 __scrub__ _n_ Dense vegetation consisting of stunted trees or bushes. _Syn_ chaparral, bush  
+__scruffy__  
 __scuffle__ _v_  
 __scullery__ _n_ /ˈskʌl ə ri, ˈskʌl ri/  
 __scuttle__ _vi_ To run or move with short hurried movements; scurry.  
 __sea nettle__ _n_  
 __sear__ _n_ A mark or scar made by searing.  
-__searing__ _adj_ /ˈsɪərɪŋ/  
+__searing__ _adj_ :two::hammer: /ˈsɪərɪŋ/  
 __seedy__ _adj_  
 __seething__ _v_  
 __senescent__ _adj_ /si-NES-uhnt/ __1__ Growing old; aging. __2__ Deteriorating or decaying with the passage of time.  
@@ -828,6 +836,7 @@ __shinny__ _vi_ To climb by shinning.
 __shortlisted__  
 __shortsighted__ _adj_  
 __shove__ _v_ :two::hammer:  
+__shuck__ _v_  
 __shuffling__ _n_ Walking with a slow dragging motion without lifting your feet.  
 __shun__ _vt_ :dart: To avoid deliberately; keep away from. _He shuns suits except when he is in court._  
 __shuttle__ _n_ __2__ The sliding container that carries the lower thread in a sewing machine.  
@@ -852,15 +861,20 @@ __slovenly<sup>2</sup>__ _adv_
 __slug__ _vt_ __3__ To strike heavily, especially with the fist or a bat. _He slugged me across the jaw._  
 __smolder__ _vi_ __1__ To burn with little smoke and no flame. _Luke saw the smoldering piles which had once been human beings._  
 __smugly__ _adv_  
+__snafu__ _n_  
 __sniveling__ _n_  
+__snuffbox__ _n_ A small, often decorated box with a hinged lid, used for carrying snuff.  
 __spinning jenny__ _n_ An early spinning machine having more than one spindle, enabling a person to spin a number of yarns simultaneously.  
+__spliced__ _v_  
 __sputnik__ _n_ /ˈspʊt nɪk, ˈspʌt-/ Any of a series of unmanned Soviet satellites, Sputnik 1 (launched in 1957) being the first man-made satellite to orbit the earth.  
 __stakeout__  
+__stamp out__ _v_ To extinguish a spark or fire by stamping on it with one’s feet. A noun or pronoun can be used between “stamp” and “out.” _An ember popped out of the fireplace and onto the rug, so I stamped it out before it set the place alight._ _He tossed his cigarette, not bothering to stamp it out._ __2__ To crush or suppress by force: _to stamp out a rebellion._  
 __stamp__ _v_ :dart: __1__ To bring down (the foot) forcibly.  
 __station__ _n_ :es: comisaría  
 __stemware__ _n_  
 __stern<sup>1</sup>__ _adj_ :dart: __1__ Hard, harsh, or severe in manner or character: _a stern disciplinarian._ __2__ Showing or expressing displeasure or disapproval; forbidding or harsh: _a stern face; a stern voice._ __3__ Firm or unyielding; uncompromising: _stern resistance._ __4__ Difficult to endure; oppressive: _stern necessity._  
 __stern<sup>2</sup>__ _n_ __1__ _Nautical_ The rear part of a ship or boat. __2__ A rear part or section.  
+__stigmata__  
 __stricture__ _n_  
 __strife__  
 __string__ _n_ _The string of the tea bag._  
@@ -875,14 +889,17 @@ __stunted__ _adj_ Prevented from growing or developing. _Stunted genitalia._
 __sturdy__ _adj_  
 __subcontinent__ _n_  
 __subdural__ _adj_ Located or occurring beneath the dura mater: _subdural space; a subdural hematoma._  
+__subletting__ _n_ _(property law, real estate)_ Synonym of sublease.  
 __succinctly__ _adv_ With concise and precise brevity; to the point. _Syn_ compactly  
 __succor__ _n_ /SUCK-er/ _Succor_ is a literary term meaning “something that you do or give to help someone who is suffering or in a difficult situation.”  
 __suffocate__ _v_  
 __Sufism__ _n_ The beliefs and practices of an ascetic, retiring, and mystical sect in Islam.  
 __suit__ _n_ Lawsuit.  
 __sultry__ _adj_ __3__ Displaying or suggesting passion; sensual: _sultry eyes._  
+__surreptitious__  
 __swat<sup>1</sup>__ _vt_ To hit sharply; slap; smack: _to swat a fly._  
 __swat<sup>2</sup>__ _n_ A smart blow; slap; smack.  
+__swoop__ _v_  
 __takings__ _n pl_  
 __tap__ _v_ :dart:  
 __taunt__ _v_  
@@ -892,6 +909,7 @@ __tendril__ _n_ :es: zarzillo
 __thanatopsis__ _n_ /than-uh-TOP-sis/ [:scroll: From Greek thanatos (death) + -opsis (appearance, view)] A reflection upon death.  
 __the nuts and bolts__  
 __thence__ _adv_ From that place; from there. _Syn_ therefrom _The train went south into Switzerland and thence on to Italy._  
+__throb__ _v_ _He made me throb with joy._ :es: latir con fuerza; sentir pinchazos  
 __thromboembolism__ _n_  
 __thrombosis__ _n_  
 __thrum__ _v_ :two::hammer:  
@@ -899,16 +917,21 @@ __thunk__ _n_
 __till__ _n_ :es: caja registradora  
 __tire iron__ _n_ :two: A short length of steel with one end flattened to form a blade, used to remove tires from wheel rims.  
 __to-do__ _n_ :dart: :es: alboroto  
+__toadstool__ _n_ Common name for an inedible or poisonous agaric (contrasting with the edible mushroom). :es: hongo venenoso  
 __toil__ _vi_  
 __tout__ _n_ __1__ One who solicits customers brazenly or persistently. _Touts, thieves, and barrow men._  
 __townhouse__ _n_  
 __traduce__ _vt_ :smiling_imp:  
 __uncompromising__ _adj_  
 __unfettered__  
+__unthinkable__  
 __uptight__ _adj_  
 __urbane__ _adj_ :astonished:  
 __usher in__  
+__wad__ _v_  
 __wagonette__ _n_ :camera: (waggonette) A light four-wheeled horse-drawn vehicle with two lengthwise seats facing each other behind a crosswise driver’s seat.  
+__weak coffee__ _n_ :dart: _Weak coffee_ generally refers to a brew that has a lower concentration of coffee grounds relative to the amount of water used during brewing. This results in a drink that is often perceived as watery or lacking in robust flavor.  
+__wharf__ _n_ A platform built out from the shore into the water and supported by piles; provides access to ships and boats. _Syn_ pier, wharfage, dock  
 __wheeddle__ _v_ :smiling_imp:  
 __woefully__  
 __Xmas__ _n_  
