@@ -421,6 +421,7 @@ __lass__ _n_
 __lassitude__ _n_ :dart: A state or feeling of weariness, diminished energy, or listlessness. _Syn_ lethargy  
 __latch__ _n_  
 __lathe__ _n_  
+__laughing fit__ _n_  
 __leaf peeper__ _n_ (chiefly informal US) A tourist who visits New England in autumn to see the changing colours of the foliage.  
 __lean__ _adj_  
 __leathern__ _adj_ Made of, covered with, or resembling leather.  
@@ -440,6 +441,7 @@ __lifeline__
 __lightsaber__ _n_  
 __likely<sup>1</sup>__ _adj_  
 __likely<sup>2</sup>__ _adv_ :dart: Probably: _They’ll likely buy a new car soon._  
+__lilt__ _n_  
 __lime__ _n_ :es: cal  
 __limerence__ _n_ The state of being obsessively infatuated with someone, usually accompanied by delusions of or a desire for an intense romantic relationship with that person.  
 __limestone__  
@@ -471,6 +473,7 @@ __lope<sup>2</sup>__ _n_
 __lore__ _n_ Accumulated facts, traditions, or beliefs about a particular subject. _Syn_ traditional knowledge  
 __loss aversion__ _n_  
 __Lothario__ _n_ (lothario)  
+__lounger__ _n_  
 __loup-garou__ _n_  
 __love seat__ _n_ (loveseat) A small sofa or double chair that seats two people.  
 __lovelorn__ _adj_ /ˈlʌvˌlɔːn/ Miserable because of unrequited love or unhappiness in love.  
@@ -490,6 +493,7 @@ __lump sum__ _n_ A single sum of money that serves as complete payment.
 __lump__ _v_  
 __lunchtime__ _n_ :pencil2:  
 __lurch__ _v_  
+__luxuriate__ _vi_ To take luxurious pleasure; indulge oneself.  
 __lycanthrope__ _n_  
 __machtpolitik__ _n_ /MAHKHT-pol-ee-teek/ Power politics: policies that advocate the use of power and physical force to attain their goals.  
 __maggot__ _n_ :two: __1__ The legless, soft-bodied, wormlike larva of any of various dipteran flies, often found in decaying matter. :es: gusano  
@@ -503,10 +507,12 @@ __mandatory__ _n_ :mega: /ˈmæn dəˌtɔr i, -ˌtoʊr i/
 __mangle__ _v_ __2__ To ruin or spoil through ineptitude or ignorance: _mangle a speech._  
 __mantel__ _n_ The protruding shelf over a fireplace. _Syn_ chimneypiece, mantelpiece  
 __mantra yoga__ _n_ A meditation practice that focuses on chanting sacred syllables along with conscious breathing and a meditative focus to quiet the mind, cultivate spiritual energy, and create states of enlightenment.  
+__marauding__ _adj_  
 __marionette__ _n_ _Syn_ puppet  
 __marksman__ _n_  
 __marshal__ _v_  
 __marshmallow__ _n_ :pencil2:  
+__mascara__ _n_ _A residue of mascara was sticky on her eyelashes._  
 __masseuse__  
 __matron__ _n_ :es: supervisora; enfermera jefe; matrona  
 __matte__ _n_  
@@ -535,6 +541,7 @@ __misanthrope__ _n_ (misanthropist) A person who dislikes or distrusts other peo
 __misbegotten__ _adj_ :smiling_imp: /ˌmɪs bɪˈgɒt n/ (misbegot)  
 __miscellany__ _n_ (_n pl_ miscellanies) __1__ A mixed assortment of items.  
 __mise-en-scène__ _n_ /meez-ahn-SEN/ _Mise-en-scène_ can refer to the setting of a play, movie, etc., or it can refer to the physical or social setting in which something real occurs or develops.  
+__miserably__ _adv_  
 __mishmash__ _n_ A collection or mixture of unrelated things; a hodgepodge.  
 __misnomer__  
 __misstep<sup>1</sup>__ _n_  
@@ -593,6 +600,7 @@ __noose__ _n_ :es: nudo corredizo, lazo, soga
 __notice__ _n_ :es: crítica  
 __noticeboard__ _n_ Bulletin board.  
 __notorious__  
+__nuance__ _n_ :mega: /ˈnu ɑns, ˈnyu-, nuˈɑns, nyu-/  
 __nubbly__ _adj_ Rough or irregular; textured. _Syn_ homespun, nubby, slubbed, tweedy  
 __nudge__ _vt_  
 __nursing__ _n_ __1__ The profession of a nurse. __2__ The tasks or care of a nurse.  
@@ -602,12 +610,15 @@ __nuzzle__ _v_ :two::hammer: _I nuzzled her neck._
 __oblige__ _vt_  
 __obsequious__ _adj_  
 __October surprise__ _n_ A significant revelation or event in the month prior to an election that has the potential to shift public opinion about an election candidate and that is often orchestrated to influence the election’s outcome.  
+__odd-job man__ _n_ A man skilled in various odd jobs and other small tasks.  
 __offbeat__ _adj_ :two::hammer: :es: poco convencional  
 __omniscient__ _adj_ /ahm-NISH-unt/ _Omniscient_ describes someone or something with unlimited knowledge or understanding.  
 __over-the-hill__  
 __over-the-top__ _adj_  
 __palaver__ _n_ /puh-LAV-er/  
+__pallor__ _n_ A pale condition, esp when unnatural: _fear gave his face a deathly pallor._  
 __panacea__ _n_ /pan-uh-SEE-uh/  
+__pander__ _v_  
 __pantsuit__ _n_  
 __paramour__ _n_ :two::hammer:  
 __paratrooper__  
@@ -619,6 +630,7 @@ __pasquinade__ _n_ A satire or lampoon, especially one that ridicules a specific
 __pastime__ _n_ :pencil2:  
 __pathos__ _n_ :two: A quality, as of an experience or a work of art, that arouses feelings of pity, sympathy, tenderness, or sorrow. _Syn_ poignancy  
 __patron__ _n_ _Look, Artoo-Detoo! Here comes a patron out of the cantina!_  
+__patronize__ _v_ _She patronized that kiosk for years._  
 __patronymic__ _adj, n_  
 __patsy__ _n_ :smiling_imp: A person easily taken advantage of, cheated, blamed, or ridiculed.  
 __patty__ _n_  
@@ -651,7 +663,7 @@ __perspicacious__ _adj_
 __pertussis__ _n_ :two: /pəˈtʌsɪs/ _(Pathology)_ The technical name for _whooping cough_.  
 __pessary__ _n_ /ˈpɛs ə ri/  
 __pestilential__ _adj_ Likely to spread and cause an epidemic disease. _Syn_ pestiferous, plaguey  
-__petrichor__ _n_ :dart::astonished: /ˈpɛtrɪˌkɔː/ [:scroll: from Greek _petra_ stone + Greek myth _ichor_, the fluid said to flow in the veins of the gods]  
+__petrichor__ _n_ :dart::astonished::two: /ˈpɛtrɪˌkɔː/ [:scroll: from Greek _petra_ stone + Greek myth _ichor_, the fluid said to flow in the veins of the gods]  
 __petrol station__ _n_ _Syn_ filling station, gas station, gasoline station  
 __phantasmagorical__ _adj_ /fan-taz-muh-GOR-i-kuhl/ Illusory; strange; deceptive; imaginary; surreal; hallucinatory.  
 __phony__ _adj_  
@@ -682,6 +694,7 @@ __plush<sup>1</sup>__ _n_
 __plush<sup>2</sup>__ _adj_  
 __poached__ _adj_ :two: /pəʊtʃt/ Cooked gently in boiling water, milk, or other liquid. :es: cocido a fuego lento  
 __poaching__ _v_  
+__pocket protector__ _n_ :camera: A thin plastic sheath that fits into the breast pocket of one’s shirt to hold pens and other small instruments and protect the pocket from stains or tears.  
 __police__ _n_ (_npl_ police) _The police are looking for you._  
 __politic__ _adj_ Smoothly agreeable and courteous with a degree of sophistication. _Syn_ bland, smooth, suave _He was too politic to quarrel with so important a personage._  
 __poll tax__ _n_ A fixed tax levied on all persons in a certain area, especially as a condition of voting in elections.  
@@ -776,6 +789,7 @@ __rear<sup>4</sup>__ _vi_ __1__ To rise on the hind legs, as a horse. __2__ To r
 __rebate__ _n_ A refund of a fraction of the amount payable or paid, as for goods purchased in quantity; discount. :es: reembolso  
 __rebuff__ _v_  
 __rebuttal__ _n_  
+__recapitulation__ _n_ __2__ A summary or concise review.  
 __receptacle outlet__ _n_ An electrical outlet where one or more receptacles are installed.  
 __receptacle__ _n_ A device which is installed in an outlet box to receive a plug for the supply of electric current to an appliance or portable equipment.  
 __reck<sup>1</sup>__ _n_ /rek/ Care or concern.  
@@ -784,6 +798,7 @@ __reckless__ _adj_
 __recluse__ _n_ :es: ermitaño  
 __recompense__ _n_  
 __recumbent__ _adj_  
+__recurring__ _adj_ Coming back. _Syn_ revenant  
 __red-hot__ _adj_ __2__ Heated, as with excitement, anger, or enthusiasm: _a red-hot speech._ _The red-hot property market._  
 __redleg__ _n_ /ˈrɛdˌlɛɡ/ _derogatory Caribbean_ A poor White person.  
 __redolent__  
@@ -847,6 +862,7 @@ __skewer<sup>1</sup>__ _n_
 __skewer<sup>2</sup>__ _vt_  
 __skitter__ _v_  
 __skullduggery__ _n_ :smiling_imp: Dishonorable proceedings.  
+__skylark__ _n_ A common passerine with brownish plumage that is recognized by its call while flying. :es: alondra  
 __slag__ _v_ _Slagged by fire._  
 __sleazy__ _adj_ :two::hammer: /ˈsli zi, ˈsleɪ zi/  
 __slew__ _v_ _The truck slewed left and right._  
@@ -859,6 +875,7 @@ __slob__ _n_
 __slovenly<sup>1</sup>__ _adj_ :astonished: _The slovenly living room._  
 __slovenly<sup>2</sup>__ _adv_  
 __slug__ _vt_ __3__ To strike heavily, especially with the fist or a bat. _He slugged me across the jaw._  
+__slumbering__ _adj_ __1__ Temporarily inactive. __2__ Sleeping peacefully; quiescent or dormant.  
 __smolder__ _vi_ __1__ To burn with little smoke and no flame. _Luke saw the smoldering piles which had once been human beings._  
 __smugly__ _adv_  
 __snafu__ _n_  
@@ -866,14 +883,18 @@ __sniveling__ _n_
 __snuffbox__ _n_ A small, often decorated box with a hinged lid, used for carrying snuff.  
 __spinning jenny__ _n_ An early spinning machine having more than one spindle, enabling a person to spin a number of yarns simultaneously.  
 __spliced__ _v_  
+__spouting<sup>1</sup>__ _n_ __1a__ A rainwater downpipe on the exterior of a building. __b__ Such pipes collectively.  
+__spouting<sup>2</sup>__ _adj_ Propelled violently in a usually narrow stream. _Syn_ jetting, spurting, squirting  
 __sputnik__ _n_ /ˈspʊt nɪk, ˈspʌt-/ Any of a series of unmanned Soviet satellites, Sputnik 1 (launched in 1957) being the first man-made satellite to orbit the earth.  
 __stakeout__  
 __stamp out__ _v_ To extinguish a spark or fire by stamping on it with one’s feet. A noun or pronoun can be used between “stamp” and “out.” _An ember popped out of the fireplace and onto the rug, so I stamped it out before it set the place alight._ _He tossed his cigarette, not bothering to stamp it out._ __2__ To crush or suppress by force: _to stamp out a rebellion._  
 __stamp__ _v_ :dart: __1__ To bring down (the foot) forcibly.  
+__stasis__ _n_ [:scroll: Greek, _stationariness_] __1__ The state of equilibrium or inactivity caused by opposing equal forces. __2__ Stagnation in the flow of any of the fluids of the body.  
 __station__ _n_ :es: comisaría  
 __stemware__ _n_  
 __stern<sup>1</sup>__ _adj_ :dart: __1__ Hard, harsh, or severe in manner or character: _a stern disciplinarian._ __2__ Showing or expressing displeasure or disapproval; forbidding or harsh: _a stern face; a stern voice._ __3__ Firm or unyielding; uncompromising: _stern resistance._ __4__ Difficult to endure; oppressive: _stern necessity._  
 __stern<sup>2</sup>__ _n_ __1__ _Nautical_ The rear part of a ship or boat. __2__ A rear part or section.  
+__stewardship__ _n_ The position of steward.  
 __stigmata__  
 __stricture__ _n_  
 __strife__  
@@ -893,6 +914,7 @@ __subletting__ _n_ _(property law, real estate)_ Synonym of sublease.
 __succinctly__ _adv_ With concise and precise brevity; to the point. _Syn_ compactly  
 __succor__ _n_ /SUCK-er/ _Succor_ is a literary term meaning “something that you do or give to help someone who is suffering or in a difficult situation.”  
 __suffocate__ _v_  
+__suffuse__ _vt_  
 __Sufism__ _n_ The beliefs and practices of an ascetic, retiring, and mystical sect in Islam.  
 __suit__ _n_ Lawsuit.  
 __sultry__ _adj_ __3__ Displaying or suggesting passion; sensual: _sultry eyes._  
@@ -913,6 +935,7 @@ __throb__ _v_ _He made me throb with joy._ :es: latir con fuerza; sentir pinchaz
 __thromboembolism__ _n_  
 __thrombosis__ _n_  
 __thrum__ _v_ :two::hammer:  
+__thug__ _n_  
 __thunk__ _n_  
 __till__ _n_ :es: caja registradora  
 __tire iron__ _n_ :two: A short length of steel with one end flattened to form a blade, used to remove tires from wheel rims.  
@@ -923,6 +946,7 @@ __tout__ _n_ __1__ One who solicits customers brazenly or persistently. _Touts, 
 __townhouse__ _n_  
 __traduce__ _vt_ :smiling_imp:  
 __uncompromising__ _adj_  
+__unfathomable__ _adj_  
 __unfettered__  
 __unthinkable__  
 __uptight__ _adj_  
