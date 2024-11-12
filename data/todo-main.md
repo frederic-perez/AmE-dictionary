@@ -133,6 +133,7 @@ __dither__ _v_
 __divide__ _n_  
 __divots__ _n_  
 __dodger__ _n_ __1__ One that dodges or evades: _a skilled dodger of reporters’ questions._  
+__doe__ _n_ _I was dispatched like a wounded doe, killed with a fast hard cracking of the neck._  
 __dormitory__ _n_  
 __dosser__ _n_ Someone who sleeps in any convenient place. _Syn_ street person  
 __doting__ _adj_  
@@ -140,9 +141,11 @@ __douse__
 __dowse__ _vi_ (douse) _Dowsing with a pendulum._  
 __dowsing__ _n_ The practice of prospecting for water or minerals using a divining rod. _Syn_ dowse, rhabdomancy  
 __drapery__ _n_ :two::hammer: /ˈdreɪpərɪ/  
+__draw up__ _v_  
 __drawl__ _v_  
 __drifter__ _n_ :es: vagabundo  
 __drivel__ _n_ :dart: __1__ Saliva flowing from the mouth. __2__ :dart: Stupid or senseless talk. Nonsense; twaddle. _I’m not interested in his pornographic drivel._  
+__droll__ _adj_  
 __drollery__ _n_ A quaint and amusing jest. _Syn_ waggery  
 __drop handlebars__ _n_ Low curved handles on a bicycle.  
 __duck-footed__ _adj_  
@@ -153,10 +156,13 @@ __duster__ _n_ :dart::camera: A loose coverall (coat or frock) reaching down to 
 __dustpan__ _n_ :dart: :es: recogedor  
 __duty solicitor__ _n_ (duty counsel, duty lawyer) A solicitor whose services are available to a person either suspected of, or charged with, a criminal offence free of charge (pro bono), if that person does not have access to a solicitor of their own and usually if it is judged by a means test that they cannot afford one. The system is operative in several Commonwealth countries, including the United Kingdom, Australia, New Zealand and Canada.  
 __earwitness__ _n_ /EER-wit-nis/ One who testifies or can testify to something heard.  
+__ebon<sup>1</sup>__ _adj_ /ˈɛb ən/ __1__ Made of ebony. __2__ Black in color.  
+__ebon<sup>2</sup>__ _n_ /ˈɛb ən/ Ebony.  
 __edgeways__  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
 __eggnog__ _n_  
 __egotistical__ _adj_ Characteristic of those having an inflated idea of their own importance. _Syn_ egotistic, narcissistic, self-loving  
+__egregious__  
 __egret__ _n_  
 __eldritch__ _adj_ /ˈɛl drɪtʃ/ Eerie; weird; spooky.  
 __electrical type__ _n_ A poorly conductive plastic tape used to insulate electrical wires. _Syn_ friction tape, insulating tape, electric tape  
@@ -192,6 +198,7 @@ __extol__ _vt_ (extoll) To praise highly; exalt.
 __extort__ _vt_ :smiling_imp: /ik-STORT/ [:scroll: From Latin extorquere (to wrench out), from ex- (out) + torquere (to twist)] To obtain something by psychological pressure, intimidation, force, threat, etc.  
 __extricate__ _v_ /EK-struh-kayt/ To _extricate_ someone or something is to free or remove that person or thing from an entanglement or difficulty, such as a trap or a difficult conversation. _She hasn’t been able to extricate herself from her legal problems._  
 __exuberant__ _adj_ :astonished: /ig-ZOO-buh-ruhnt/ __1__ Overflowing with energy, enthusiasm, and joy. __2__ Plentiful; productive; growing abundantly.  
+__eyebolt__ _n_ A bolt having a ring-shaped head.  
 __fallacious__ _adj_ /fuh-LAY-shus/ _Fallacious_ is a formal word that typically describes something, such as an argument or assumption, that is false or inaccurate and that tends to mislead or deceive others.  
 __fallow__  
 __falsehood__ _n_ /ˈfɔls hʊd/  
@@ -231,6 +238,7 @@ __firebrand__
 __firsthand__  
 __fish__ _v_ __3__ To seek something in a sly or indirect way: _fish for compliments._  
 __fishwife__ _n_ :es: verdulera  
+__flabby__ _adj_ __1__ Lacking firmness; loose or yielding: _flabby muscles._ __2__ Having flabby flesh, esp through being overweight. __3__ Lacking vitality; weak; ineffectual.  
 __flag<sup>1</sup>__ _n_  
 __flag<sup>2</sup>__ _vt_  
 __flag<sup>3</sup>__ _vi_ :astonished: To lose vigor or strength; weaken or diminish: _The conversation flagged._ :es: decaer  
@@ -269,9 +277,12 @@ __foodstuff__ _n_ :two: A substance that can be used or prepared for use as food
 __footage__ _n_ :mega:  
 __footmen__ _n pl_ :es: criados  
 __for good__  
+__foreboding<sup>1</sup>__ _n_ __1__ A prediction; portent. __2__ A strong inner feeling or notion of a future misfortune, evil, etc.; presentiment.  
+__foreboding<sup>2</sup>__ _adj_ Of or indicating foreboding, esp. of evil.  
 __forecourt__ _n_  
 __forelock__ _n_ __1__ A lock of hair growing or falling over the forehead.  
 __forename__ _n_ A name before one’s surname; a first name.  
+__forge__ _v_ _A container ship forges south._  
 __form factor__ _n_  
 __fortnight__ _n_ :dart::astonished::two: [:scroll: Middle English fourtenight, alteration of fourtene night, fourteen nights] A period of 14 days; two weeks.  
 __fortnightly<sup>1</sup>__ _adj_ Happening or appearing once in or every two weeks.  
@@ -304,6 +315,7 @@ __galling__ _adj_ :es: mortificante
 __gallivant__ _vi_ (galivant, galavant)  
 __galvanize__  
 __Gamblers Anonymous__ _n_ (GA) An organization that holds group meetings to help people who are addicted to gambling.  
+__game warden__ _n_ An officer in charge of managing game animals or wildlife, especially by the enforcement of game laws.  
 __gamekeeper__ _n_ /ˈgeɪmˌki pər/ A person employed, as on an estate or game preserve, to prevent poaching and provide for the conservation of game.  
 __gangrene__ _n_  
 __gaping__ _adj_ /ˈɡeɪpɪŋ/ Wide open; extremely wide: _a gaping hole._  
@@ -348,6 +360,7 @@ __handicraft__ _n_ Skill or dexterity in working with the hands.
 __handyman__ _n_ :es: manitas  
 __haphazard__  
 __haphazardly__ _adv_ In a random manner.  
+__hapless__  
 __harass__ _v_  
 __hard-of-hearing__ _adj_ Having a hearing loss. _Syn_ hearing-impaired  
 __hard-pressed__ _adj_  
@@ -370,12 +383,14 @@ __heinous__ _adj_ /HAY-nus/ _Heinous_ describes things—such as acts, deeds, or
 __hem__ _n_ :es: dobladillo  
 __hidebound__  
 __hobgoblin__ _n_  
+__hollow-point bullet__ _n_  
 __hoover__  
 __horse brass__ _n_ :camera: A decorative brass ornament, usually circular, originally attached to a horse’s harness.  
 __hotplate__ _n_ :two::hammer:  
 __house martin__ _n_ (housemartin)  
 __housing estate__ _n_ A group of often architecturally similar buildings constructed at the same time. Primarily for residential accommodation, estates may also include commercial facilities.  
 __hovel__ _n_ __1__ A small, miserable dwelling. __2__ An open, low shed.  
+__hubbly__ _adj_ Having an uneven surface; rough; bumpy; choppy.  
 __huddle__ _v_  
 __huff__ _v_  
 __humdrum<sup>1</sup>__ _adj_ Lacking variety or excitement. _Syn_ dull  
@@ -386,10 +401,13 @@ __hypertrichosis__ _n_ A condition of excessive hairiness either all over the bo
 __ideate__ _v_ /EYE-dee-ayt/ To ideate is to form an idea or conception of something..  
 __imp__ _n_  
 __impasse__ _n_ A situation that is so difficult that no progress can be made. _Syn_ dead end, deadlock, stalemate, standstill  
+__impeccable__  
+__imperviousness__ _n_  
 __inchoate__ _adj_ /in-KOH-ut/ _Inchoate_ is a formal adjective and synonym of _vague_ that describes something that is not completely formed or developed yet.  
 __indefatigable__ _adj_ /in-di-FAT-i-guh-buhl/ __1__ Incapable of being tired out. __2__ Persistently energetic or tireless, even in the face of challenges.  
 __indigenous__ _adj_ /ɪnˈdɪdʒ ə nəs/ __1__ Originating in and characteristic of a particular region or country; native (often fol. by to): _plants indigenous to Canada; indigenous peoples of southern Africa._  
 __induction__ _n_ :es: incorporación  
+__infamous__ _n_ _The Louisiana legal system is infamous for corruption._  
 __infirm__ _adj_  
 __inkling__  
 __interfere__ _v_  
@@ -397,6 +415,7 @@ __interpenetrate__ _v_ Spread or diffuse through. _Syn_ imbue, permeate, pervade
 __intersperse__ _v_  
 __intonation__ _n_ /ˌɪntəʊˈneɪʃən/ /ˌɪn toʊˈneɪ ʃən, -tə-/  
 __intransigent__ _adj_ /in-TRAN-suh-junt/  
+__intuit__ _v_  
 __invalid car__ _n_ _BrE_ A car specially equipped so that a disabled person can drive it.  
 __invidious__ _adj_  
 __inviting__ _adj_ :two: Attractive; tempting: _an inviting dessert._  
@@ -406,12 +425,14 @@ __irretrievable__ _adj_ _Irretrievable breakdown of marriage._
 __itching__ _n_ An irritating cutaneous sensation that produces a desire to scratchitching - an irritating cutaneous sensation that produces a desire to scratch. _Syn_ itchiness, itch  
 __jaded__ _adj_ :dart:  
 __jalopy__  
+__jangle__ _v_  
 __jangle<sup>1</sup>__ _vi_ To make a harsh metallic sound: _The spurs jangled noisily._  
 __jangle<sup>2</sup>__ _vt_ :dart::two: __1__ To cause to make a harsh discordant sound. __2__ To have an irritating effect on: _The racket from the street jangled my nerves._  
 __jangle<sup>3</sup>__ _n_  
 __jaundice__ _n_  
 __jerkwater__ _adj_ /JERK-waw-ter/  
 __Jerry__ _n slang_ _Chiefly British_ A German, especially a German soldier.  
+__jibe__ _v_  
 __jiggle__ _v_ :dart: To move or rock lightly up and down or to and fro in an unsteady, jerky manner. _Syn_ joggle, wiggle _He jiggled the worn key in the lock and finally got the door open._  
 __jot<sup>1</sup>__ _n_ :dart: /dʒɒt/ The smallest bit; iota. _(used with a negative)_ A little bit (in phrases such as _not to care (or give) a jot_).  
 __jot<sup>2</sup>__ _vt_  
@@ -420,14 +441,18 @@ __juggernaut__ _n_ :two::hammer: /ˈdʒʌɡəˌnɔːt/
 __jumar__ _n_ /ˈdʒuːmə/  
 __jurisprudence__ _n_ /joor-us-PROO-dunss/ _Jurisprudence_ is a formal word that typically refers to the science or philosophy of law, or to a system or body of law.  
 __justice of the peace__ _n_ (JP) A local magistrate empowered chiefly to administer summary justice in minor cases, to commit for trial, and to administer oaths and perform marriages.  
+__kaboom__ _n_  
 __keen__ _adj_ (keener, keenest)  
 __keepsake__ _n_  
+__kettledrum__ _n_ :camera: A large hemispherical drum, often made of copper or brass with a parchment head. _Thunder sounds like kettledrums in the distance._  
 __killing field__ _n_  
 __Kitemark__ _n_ _BrE_ The official mark of quality and reliability, in the form of a kite, on articles approved by the British Standards Institution.  
 __kudos__ _n_ /KOO-dahss/  
 __kung fu__ _n_ /ˈkʌŋ ˈfu, ˈkʊŋ/  
 __labile__ _adj_ /LAY-byle/  
 __labyrinthine__ _adj_ Resembling a labyrinth in form or complexity. _Syn_ mazy  
+__lacerate__ _v_  
+__laceration__ _n_  
 __lackey__ _n_  
 __laic__ _adj_ Of or relating to the laity. _Syn_ lay, secular  
 __lambent__ _adj_ :two: __1__ (esp of a flame) Flickering softly over a surface.  
