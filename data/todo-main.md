@@ -4,9 +4,14 @@ __abound__ _vi_
 __accoutrement__ _n_  
 __acerbic__ _adj_ Sharp or biting, as in character or expression. _Syn_ blistering, caustic, acid, vitriolic, acerb, acrid, sulfurous, virulent, bitter  
 __adversary__ _n_ :mega: /ˈæd vərˌsɛr i/ /ˈædvəsərɪ/ /AD-ver-sair-ee/ _Adversary_ is an enemy or opponent.  
+__amalgamate__ _v_ /uh-MAL-guh-mayt/ _Amalgamate_ is a formal verb meaning “to unite (two or more things) into one thing.”  
+__arbiter__ _n_ One chosen or appointed to judge or decide a disputed issue. _Syn_ arbitrator, umpire  
+__armistice__ _n_ /AHR-muh-stus/  
 __aspersion__ _n_ :smiling_imp:  
 __at__ _prep_ [The preposition _at_ often has connotations of aggression. You _throw_ something _to_ someone if you want them to catch it; if you _throw_ it _at_ them you are trying to hit them. To _laugh at_ someone is to laugh at their expense. Usually we say _talk to_; when Ludlow says _talk at_ (in the movie _Legends of the Fall_) he is saying that his sons are shouting at them without listening to what he has to say in reply.]  
 __avuncular__ _adj_ uh-VUNG-kyuh-luhr/ Kind, friendly, and helpful, like an uncle, especially in a benevolent or indulgent way.  
+__ballot__ _n_ /ˈbæl ət/ [:scroll: from _ballotta_, the Italian word for “little ball”: when voting was done by the people of Venice during the Renaissance, secrecy was assured by the use of little colored or marked balls] A slip of paper on which a voter marks his or her choice; voting in general.  
+__bellwether__ _n_ :dart: __1__ [:scroll: Since long ago, it has been common practice for shepherds to hang a bell around the neck of one sheep in their flock, thereby designating it the lead sheep. (Wether is a male sheep, esp a castrated one.)] Sheep that leads the herd often wearing a bell.  
 __biennial__ _adj_ Happening every second year. _Syn_ biyearly  
 __big game__ _n_ __1__ Large animals or fish hunted or caught for sport.  
 __birch tree__  
@@ -28,6 +33,7 @@ __brat__ _n_
 __breadcrumbs__ _n pl_ Very tiny pieces of bread. _Dip the fish in egg and breadcrumbs._ :es: pan rallado  
 __brethren__ _n_ :dart: __1__ A plural of brother.  
 __bribe__ _n_ :smiling_imp:  
+__bridle__ _n_ The act of restraining power or action or limiting excess. _Syn_ check, curb _His common sense is a bridle to his quick temper._  
 __brimstone__ _n_ __1__ Sulfur, especially considered as a component of the torments of hell in Christianity. (See _fire and brimstone_.) An obsolete name for sulphur.  
 __bub__ _n slang_ :dart:  
 __buckle__ _v_  
@@ -49,6 +55,7 @@ __cagey__ _adj_ :dart: Showing self-interest and shrewdness in dealing with othe
 __calendar year__  
 __callous__ _adj_ Emotionally hardened; unfeeling. _Syn_ indurate, pachydermatous  
 __callow__ _adj_ /KAL-oh/ _Callow_ is a synonym of _immature_ used to describe someone, especially a young person, who does not have much experience and does not know how to behave like an adult. Like the word immature, callow is often used disapprovingly.  
+__calve__ _v_ To set loose (a mass of ice). Used of a glacier or iceberg. _Syn_ break up  
 __camp__ _n_  
 __candlestick__ _n_ (candleholder) A holder, usually ornamental, with a spike or socket for a candle.  
 __Canuck__ _n_  
@@ -86,8 +93,10 @@ __craft__ _n_ __5__ _crafts_ Items made by craftspeople.
 __crossly__ _adv_ :dart: In an ill-natured manner. _She looked at her husband crossly._ _Syn_ grouchily, grumpily  
 __crouch<sup>1</sup>__ _n_ The act of bending low with the limbs close to the body.  
 __crouch<sup>2</sup>__ _v_ Bend one’s back forward from the waist on down. _Syn_ stoop, bend, bow  
+__cursory__ _adj_ /KER-suh-ree/ Something described as cursory has been done or made quickly.  
 __czar__ _n_ __1__ The ruler of Russia until the 1917 revolution. __2__ One having great power or authority. _A banking czar._  
 __Damoclean__ _adj_ /dam-uh-KLEE-uhn/ Involving imminent danger.  
+__dander__ _n_ Temper or anger. _Syn_ hackles _He ’pears to know just how long he can torment me before I get my dander up._  
 __dart__ _v_  
 __decal__ _n_  
 __defenestration__ _n_ /dee-fen-uh-STRAY-shun/ _Defenestration_ is most often used to refer to a usually swift dismissal or expulsion, as from a political party or office. It is also used to refer to a throwing of a person or thing out of a window.  
@@ -112,6 +121,7 @@ __dingy__ _adj_
 __disarmament__ _n_  
 __disbar__ _vt_  
 __disbursement__ _n_ /diss-BERSS-munt/ A _disbursement_ is a payout of money from a fund that has been created for a special purpose. _Disbursement_ can also refer to the money that is paid out. _The company has made large disbursements for research._  
+__disengage__ _v_ To release from something that holds fast, connects, or entangles. _Syn_ withdraw  
 __dishevelled__  
 __disinformation__ _n_  
 __dispensary__ _n_  
@@ -175,10 +185,12 @@ __exact__ _v_ /ig-ZAKT/ To exact something (such as payment or revenge) is to de
 __exhort__ _v_ /ig-ZORT/ To urge, persuade, advise, etc. earnestly.  
 __exile<sup>1</sup>__ _n_ :es: exilio, destierro, :dart: exiliado, desterrado  
 __exile<sup>2</sup>__ _vt_ :es: exiliar, desterrar  
+__exit poll__ _n_ A poll taken (as by news media) of voters leaving the voting place that is usually used for predicting the winners.  
 __exonerate__ _v_  
 __exorbitant__ _adj_ /ig-ZOR-buh-tunt/  
 __extol__ _vt_ (extoll) To praise highly; exalt.  
 __extort__ _vt_ :smiling_imp: /ik-STORT/ [:scroll: From Latin extorquere (to wrench out), from ex- (out) + torquere (to twist)] To obtain something by psychological pressure, intimidation, force, threat, etc.  
+__extricate__ _v_ /EK-struh-kayt/ To _extricate_ someone or something is to free or remove that person or thing from an entanglement or difficulty, such as a trap or a difficult conversation. _She hasn’t been able to extricate herself from her legal problems._  
 __exuberant__ _adj_ :astonished: /ig-ZOO-buh-ruhnt/ __1__ Overflowing with energy, enthusiasm, and joy. __2__ Plentiful; productive; growing abundantly.  
 __fallacious__ _adj_ /fuh-LAY-shus/ _Fallacious_ is a formal word that typically describes something, such as an argument or assumption, that is false or inaccurate and that tends to mislead or deceive others.  
 __fallow__  
@@ -272,6 +284,7 @@ __freezer paper__ _n_ A type of white paper coated on one side with plastic to p
 __French toast__ _n_ Food prepared by dipping bread into egg batter and frying.  
 __fret__ _v_ /FRET/ To _fret_ is to worry or be concerned.  
 __fretful__ _adj_ Habitually complaining. _Syn_ querulous, whiny  
+__frisson__ _n_ A moment of intense excitement. _Syn_ chill, quiver, shiver, shudder, thrill, tingle _The story’s ending arouses a frisson of terror._  
 __frontier__ _n_ :mega: /frʌnˈtɪər, frɒn-; also, esp. _Brit_, ˈfrʌn tɪər/  
 __fru__  
 __fugacious__ _adj_ /fyoo-GAY-shus/  
@@ -340,6 +353,7 @@ __hard-of-hearing__ _adj_ Having a hearing loss. _Syn_ hearing-impaired
 __hard-pressed__ _adj_  
 __hare__ _v_  
 __hassle__ _n_  
+__hatching__ _n_ /HATCH-ing/ _Hatching_ refers to the drawing or engraving of lines close together as a method of shading, or to a pattern so created. _The artist uses hatching to breathe life into her comics._  
 __hatha yoga__ _n_ A form of yogic exercise that emphasizes specific postures in combination with controlled breathing. It is widely practiced in the West.  
 __haversack__ _n_  
 __havoc__ _n_  
@@ -371,6 +385,8 @@ __husk__ _vt_ :two: To remove the husk from.
 __hypertrichosis__ _n_ A condition of excessive hairiness either all over the body or covering a particular part.  
 __ideate__ _v_ /EYE-dee-ayt/ To ideate is to form an idea or conception of something..  
 __imp__ _n_  
+__impasse__ _n_ A situation that is so difficult that no progress can be made. _Syn_ dead end, deadlock, stalemate, standstill  
+__inchoate__ _adj_ /in-KOH-ut/ _Inchoate_ is a formal adjective and synonym of _vague_ that describes something that is not completely formed or developed yet.  
 __indefatigable__ _adj_ /in-di-FAT-i-guh-buhl/ __1__ Incapable of being tired out. __2__ Persistently energetic or tireless, even in the face of challenges.  
 __indigenous__ _adj_ /ɪnˈdɪdʒ ə nəs/ __1__ Originating in and characteristic of a particular region or country; native (often fol. by to): _plants indigenous to Canada; indigenous peoples of southern Africa._  
 __induction__ _n_ :es: incorporación  
@@ -410,6 +426,7 @@ __killing field__ _n_
 __Kitemark__ _n_ _BrE_ The official mark of quality and reliability, in the form of a kite, on articles approved by the British Standards Institution.  
 __kudos__ _n_ /KOO-dahss/  
 __kung fu__ _n_ /ˈkʌŋ ˈfu, ˈkʊŋ/  
+__labile__ _adj_ /LAY-byle/  
 __labyrinthine__ _adj_ Resembling a labyrinth in form or complexity. _Syn_ mazy  
 __lackey__ _n_  
 __laic__ _adj_ Of or relating to the laity. _Syn_ lay, secular  
@@ -442,6 +459,7 @@ __lightsaber__ _n_
 __likely<sup>1</sup>__ _adj_  
 __likely<sup>2</sup>__ _adv_ :dart: Probably: _They’ll likely buy a new car soon._  
 __lilt__ _n_  
+__lily-handed__ _adj_ /LIL-ee-han-did/ __1__ Having delicate, pale hands, unaccustomed to manual labor. __2__ Dandy; foppish; overly refined.  
 __lime__ _n_ :es: cal  
 __limerence__ _n_ The state of being obsessively infatuated with someone, usually accompanied by delusions of or a desire for an intense romantic relationship with that person.  
 __limestone__  
@@ -495,6 +513,8 @@ __lunchtime__ _n_ :pencil2:
 __lurch__ _v_  
 __luxuriate__ _vi_ To take luxurious pleasure; indulge oneself.  
 __lycanthrope__ _n_  
+__macabre__ _adj_  
+__macaronic__ _adj_ :astonished: __1__ Characterized by Latin words mixed with non-Latin words often given Latin endings. __2__ Composed of a mixture of languages.  
 __machtpolitik__ _n_ /MAHKHT-pol-ee-teek/ Power politics: policies that advocate the use of power and physical force to attain their goals.  
 __maggot__ _n_ :two: __1__ The legless, soft-bodied, wormlike larva of any of various dipteran flies, often found in decaying matter. :es: gusano  
 __Magic Eye poster__ _n_  
@@ -544,6 +564,7 @@ __mise-en-scène__ _n_ /meez-ahn-SEN/ _Mise-en-scène_ can refer to the setting 
 __miserably__ _adv_  
 __mishmash__ _n_ A collection or mixture of unrelated things; a hodgepodge.  
 __misnomer__  
+__misogynoir__ _n_ Hatred of, aversion to, or prejudice against Black women.  
 __misstep<sup>1</sup>__ _n_  
 __misstep<sup>2</sup>__ _vi_ To make a mistake.  
 __missus__ _n_  
@@ -797,6 +818,7 @@ __reck<sup>2</sup>__ _v_ /rek/ To care or concern.
 __reckless__ _adj_  
 __recluse__ _n_ :es: ermitaño  
 __recompense__ _n_  
+__recrudescence__ _n_  
 __recumbent__ _adj_  
 __recurring__ _adj_ Coming back. _Syn_ revenant  
 __red-hot__ _adj_ __2__ Heated, as with excitement, anger, or enthusiasm: _a red-hot speech._ _The red-hot property market._  
@@ -924,6 +946,8 @@ __swat<sup>2</sup>__ _n_ A smart blow; slap; smack.
 __swoop__ _v_  
 __takings__ _n pl_  
 __tap__ _v_ :dart:  
+__tapu<sup>1</sup>__ _n_ /TAH-poo/ A restriction or prohibition; taboo.  
+__tapu<sup>2</sup>__ _adj_ /TAH-poo/ Sacred, restricted, or forbidden.  
 __taunt__ _v_  
 __teeter__ _vi_ :two: __1__ To move or sway unsteadily or unsurely; totter.  
 __teetotaler__ _n_ (teetotaller)  
@@ -948,6 +972,7 @@ __traduce__ _vt_ :smiling_imp:
 __uncompromising__ _adj_  
 __unfathomable__ _adj_  
 __unfettered__  
+__unfledged__ _adj_ Not having the feathers necessary to fly. Used of a young bird. _Syn_ immature  
 __unthinkable__  
 __uptight__ _adj_  
 __urbane__ _adj_ :astonished:  
