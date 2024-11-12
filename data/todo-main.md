@@ -43,31 +43,6 @@ __burin__ _n_
 __burl__ _vt_  
 __burn (someone or something) to a crisp__  
 __burrow__ _v_  
-__bursary__ _n_ :two::hammer:  
-__bustle__ _n_  
-__buzz cut__ _n_ :dart: A closely cropped haircut.  
-__byline__ _n_  
-__bystander__ _n_  
-__byword__ _n_ _Syn_ adage, aphorism, maxim, motto, proverb, saw, saying  
-__Byzantine__ _adj_ /BIZ-un-teen/  
-__cad__ _n informal_ _old-fashioned_ _Brit_ A man who does not behave in a gentlemanly manner towards others.  
-__cagey__ _adj_ :dart: Showing self-interest and shrewdness in dealing with others. _Syn_ canny, clever _The jurors saw right through the cagey lawyer’s attempt to divert their attention away from the evidence._  
-__calendar year__  
-__callous__ _adj_ Emotionally hardened; unfeeling. _Syn_ indurate, pachydermatous  
-__callow__ _adj_ /KAL-oh/ _Callow_ is a synonym of _immature_ used to describe someone, especially a young person, who does not have much experience and does not know how to behave like an adult. Like the word immature, callow is often used disapprovingly.  
-__calve__ _v_ To set loose (a mass of ice). Used of a glacier or iceberg. _Syn_ break up  
-__camp__ _n_  
-__candlestick__ _n_ (candleholder) A holder, usually ornamental, with a spike or socket for a candle.  
-__Canuck__ _n_  
-__canvasser__ _n_  
-__cap__ _v_ :es: superar  
-__carburetor__ _n_ (carbureter)  
-__carouse__ _vi_  
-__categorical__ _adj_ /kat-uh-GOR-ih-kul/ _Categorical_ is a synonym of _absolute_ and _definite_ that describes something that is said in a very strong and clear way. It can also mean “of, relating to, or constituting a category” or “involving, according with, or considered with respect to specific categories.”  
-__celiac__ _adj_ :astonished: Of or relating to the abdomen or abdominal cavity.  
-__chalybeate<sup>1</sup>__ _adj_ Containing dissolved salts of iron.  
-__chalybeate<sup>2</sup>__ _n_ A mineral water containing iron, a voguish general remedy during the 17th-19th century.  
-__chiseled__ _adj_ Made or shaped with or as if with a chisel: _a finely chiseled nose._  
 __clearing bank__ _n_ (in Britain) Any bank that makes use of the central clearing house in London for the transfer of credits and cheques between banks.  
 __close to one’s chest__  
 __close-knit__ _adj_ Held tightly together, as by social or cultural ties: _a close-knit family._  

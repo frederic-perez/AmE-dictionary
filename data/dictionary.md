@@ -2613,7 +2613,7 @@ __burrito__ _n_ :mega:
 __burrow<sup>1</sup>__ _n_ :six::hammer:  
 __burrow<sup>2</sup>__ _vi_ :six::hammer: (with adverbial of direction) To move underneath or press up against in search of safety or comfort. _He collapsed on the bed and burrowed under the covers._  
 __burrs__ _n_  
-__bursary__ _n_ :two::hammer: (bursaries)  
+__bursary__ _n_ :four::hammer: (bursaries)  
 __bursitis__ _n_  
 __burst<sup>1</sup>__ _n_ _Quick bursts of positive emotions._  
 __burst<sup>2</sup>__ _v_ :three::hammer: (bursting)  
@@ -2634,7 +2634,7 @@ __bust<sup>2</sup>__ _v_ :three::hammer: (busting) _Busting out ideas._ _All I c
 __busticate__ _v_ _informal US_ To break.  
 __bustiers__ _n_  
 __bustle<sup>1</sup>__ _v_ :two::hammer:  
-__bustle<sup>2</sup>__ _n_ :seven::mute:[bus~~t~~le]:hammer: _The bustle of daily life._ _She still wore a bustle._  
+__bustle<sup>2</sup>__ _n_ :eight::mute:[bus~~t~~le]:hammer: _The bustle of daily life._ _She still wore a bustle._  
 __bustling__ _adj_ :nine::m::dart: __1__ Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._ __2__ Very crowded. _The sidewalks are bustling with people._  
 __busy bee__ _n_ An alert and energetic person.  
 __busy__ _adj_ :mega: /ˈbɪzɪ/  
@@ -2680,6 +2680,7 @@ __buy__ _v_ __5__ _informal_ To accept the truth or feasibility of: _The officer
 __buy-in__ _n_ :three: Acceptance of and willingness to actively support and participate in something (such as a proposed new plan or policy). _Without buy-in from his troops, Gruden’s just another tuned-out coach._ _He has tried different tactics to accelerate the buy-in._  
 __buybacks__  
 __buyout__ _n_ :eight: (buyouts) The purchase of a controlling share in a company, especially by its own managers (also _management buyout_). _Offering buyouts in an effort to cut 750 civilian workers from its payroll._ _He worked until he took one of the early buyouts._  
+__buzz cut__ _n_ :dart: A closely cropped haircut.  
 __buzz<sup>1</sup>__ _n_ :three::hammer: _The buzz is really high now._  
 __buzz<sup>2</sup>__ _v_ :three::hammer: _Sending submarines to buzz Europe._ _For 12 years the spacecraft has been buzzing about Saturn._  
 __buzzard__ _n_ :camera::five::hammer: (buzzards)  
@@ -2701,13 +2702,13 @@ __bye__ _n_ __2__ _Sports_ The position of one who draws no opponent for a round
 __bygone__  
 __bylaw__  
 __bylaws__  
-__byline__ _n_ :six: (bylines) A line at the head of a newspaper or magazine article carrying the writer’s name.  
+__byline__ _n_ :seven: (bylines) A line at the head of a newspaper or magazine article carrying the writer’s name.  
 __bypast__ _adj_ Well in the past; former. _Syn_ bygone, departed, foregone, gone  
 __byproduct__ _n_ :two::hammer:  
 __bystander effect__ _n_ A social psychological theory that states that individuals are less likely to offer help to a victim when there are other people present.  
-__bystander__ _n_  
-__byword__ _n_ :two: A condensed but memorable saying embodying some important fact of experience that is taken as true by many people. _Syn_ adage, proverb, saw  
-__byzantine__ _adj_ :three::pencil2: /BIZ-uhn-teen/tyn, bi/buh/by-ZAN/zuhn-tin/teen/ __1__ (of a system or situation) Highly complex or intricate. Excessively complicated, and typically involving a great deal of administrative detail. _The byzantine nature of health care pricing._ __2__ Involving scheming or intrigue. __3__ Relating to the architectural or decorative style developed in the Byzantine Empire. __4__ Relating to the ancient city of Byzantium or the Byzantine Empire.  
+__bystander__ _n_ :two::hammer:  
+__byword__ _n_ :three: A condensed but memorable saying embodying some important fact of experience that is taken as true by many people. _Syn_ adage, aphorism, maxim, motto, proverb, saw, saying  
+__byzantine__ _adj_ :four::pencil2: /BIZ-uhn-teen/tyn, bi/buh/by-ZAN/zuhn-tin/teen/ __1__ (of a system or situation) Highly complex or intricate. Excessively complicated, and typically involving a great deal of administrative detail. _The byzantine nature of health care pricing._ __2__ Involving scheming or intrigue. __3__ Relating to the architectural or decorative style developed in the Byzantine Empire. __4__ Relating to the ancient city of Byzantium or the Byzantine Empire.  
 __C-rations__  
 __C-section__ _n_  
 __C-suite__ _n_ The executive suite in an organization. It refers to all the “C” titles of top level managers such as CEO, CFO, CTO, CIO, etc. _C-suite staff._  
@@ -2743,7 +2744,7 @@ __cacophonous__ _adj_ :two: Having a harsh, unpleasant sound; discordant. _Syn_ 
 __cacophony__ _n_ :six: /kəˈkɒf ə ni/ /ka-KAH-fuh-nee/ A cacophony is a mixture of loud and usually harsh unpleasant sounds. Cacophony can also refer to an incongruous or chaotic mixture. Jarring, discordant sound; dissonance. Cacophony is the act of purposefully using harsh sounds. Example: The gnashing of teeth and screeching of bats kept me awake. _Syn_ blare, blaring, clamor, din _I heard a cacophony of horns during the traffic jam._  
 __cacti__ _n_ :two::hammer:  
 __cactus__ _n_ :two::hammer::mega: (_n pl_ cacti, cactuses)  
-__cad__ _n_  
+__cad__ _n informal_ :two: _old-fashioned_ _Brit_ A man who does not behave in a gentlemanly manner towards others.  
 __cadaver__ _n_ :four::mega:  
 __caddish__ _adj_ :two::hammer:  
 __Caddy__ _n_ A Cadillac car.  
@@ -2758,7 +2759,7 @@ __caffè Americano__ _n_ (often just an Americano) A shot of espresso with two s
 __caffè macchiato__ _n_ The name macchiato comes from the Italian word _macchiare_, which means “to stain or spot.” So essentially, a caffè macchiato is a stained (or spotted) coffee.  
 __caffeine__ _n_ (caffein) _The command center houses very smart people with short attention spans who are low on sleep and high on caffeine._  
 __caftan__ _n_ :four::hammer: (caftans)  
-__cagey__ _adj_ :four: __1__ Wary; careful: _a cagey avoidance of a definite answer._ _Pam tried to play it cagey._ __2__ Crafty; shrewd: _a cagey lawyer._  
+__cagey__ _adj_ :dart::five: __1__ Wary; careful: _a cagey avoidance of a definite answer._ _Pam tried to play it cagey._ __2__ Crafty; shrewd: _a cagey lawyer._ Showing self-interest and shrewdness in dealing with others. _Syn_ canny, clever _The jurors saw right through the cagey lawyer’s attempt to divert their attention away from the evidence._  
 __cagily__ _adv_  
 __cagy__ _adj_ :two: Variant of cagey.  
 __cahoots__  
@@ -2776,6 +2777,7 @@ __calamity__ _n_ :two::mega::hammer:
 __calcareous__ _adj_ Of, containing, or resembling calcium carbonate. _Syn_ chalky  
 __caldera__ _n_  
 __calendar girl__  
+__calendar year__  
 __calendared__ _v_ _Get the meeting calendared._  
 __calf__ _n_ :three::mute:[ca~~l~~f] __2__ (Zoology) The young of certain other mammals, such as the buffalo, elephant, giraffe, and whale.  
 __caliber__ _n_  
@@ -2801,15 +2803,16 @@ __calling card__
 __calling hours__  
 __calling__ _n_ :six: (callings) __1__ A strong inner urge to follow an occupation, etc; vocation. _She served in many callings._ _She did it in response to an inner calling._ __2__ An occupation, profession, or trade. _He served in many callings for the LDS Church._  
 __calliope__ _n_ :two::mega: (calliopes) A musical instrument fitted with steam whistles, played from a keyboard.  
-__callous__ _adj_ /KAL-us/  
+__callous__ _adj_ :two: /KAL-us/ Emotionally hardened; unfeeling. _Syn_ indurate, pachydermatous  
 __callous<sup>1</sup>__ _adj_ :nine::m::dart: /ˈkæl əs/ __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ _A callous remark._ :es: insensible, cruel  
 __callous<sup>2</sup>__ _v_ To make or become callous.  
 __callousness__  
-__callow__ _adj_ :five: Lacking adult maturity or experience; immature. It is used to describe a young person who does not have much experience and does not know how to behave like an adult. _The drill sergeant’s task is to train the callow recruits._  
+__callow__ _adj_ :six: /KAL-oh/ _Callow_ is a synonym of _immature_ used to describe someone, especially a young person, who does not have much experience and does not know how to behave like an adult. Like the word immature, callow is often used disapprovingly. _The drill sergeant’s task is to train the callow recruits._  
 __calm__ _adj, n, v_ :two::hammer::mega :mute:[ca~~l~~m]  
 __caltrops__ _n_  
 __calumniate__ _v_ To make maliciously or knowingly false statements about. _Syn_ asperse, besmirch, defame, slander, smirch, denigrate, sully, smear  
 __calumny__ _n_ :two: __1__ A false statement maliciously made to injure another’s reputation. _Syn_ aspersion, defamation, denigration, slander __2__ The utterance of maliciously false statements; slander.  
+__calve__ _v_ To set loose (a mass of ice). Used of a glacier or iceberg. _Syn_ break up  
 __calves__  
 __Calvinism__ _n_  
 __calypso__ _n_ :three::hammer: (music)  
@@ -2822,7 +2825,7 @@ __camellia__
 __cameo__ _n_ __1__ A small sculpture carved in relief on a background of another color. __2__ A short description, literary sketch, etc., that effectively presents the subject. __3__ A very brief appearance by a well-known actor or celebrity in a film, typically in a non-speaking role. __4__ A brief appearance or a minor role.  
 __camo__  
 __camouflage__  
-__camp<sup>1</sup>__ _n_ :four::hammer: _The Pacquiao camp did not object._ _Available May-August for groups, camps, and conferences._  
+__camp<sup>1</sup>__ _n_ :five::hammer: _The Pacquiao camp did not object._ _Available May-August for groups, camps, and conferences._  
 __camp<sup>2</sup>__ _adj_ :two::hammer: _A classic camp comedy._  
 __campaign__ _n, v_ :mute:[campai~~g~~n]  
 __campanile__ _n_ :two: A bell tower, especially one near but not attached to a church or other public building. _Syn_ belfry  
@@ -2847,6 +2850,7 @@ __Canberra__ _n_ :mega: /ˈkæn bɛr ə, -bər ə/
 __candelabra__ _n_ :astonished: A branched candlestick or lamp with several lights. _Syn_ candelabrum  
 __candelabrum__ _n_  
 __candidate__ _n_ :mega: (kăn′dĭ-dāt′, -dĭt)  
+__candlestick__ _n_ (candleholder) A holder, usually ornamental, with a spike or socket for a candle.  
 __candor__ _n_ :three: /KAN-der/ Unreserved, honest, or sincere expression. The quality of being honest and straightforward in attitude and speech. _Syn_ forthrightness, frankness, directness _While I appreciate candor, sometimes a little white lie is necessary to protect a person’s feelings._ _During the interview, the comedian spoke with candor about the nervousness she feels every time she takes the stage._  
 __candy cane__ _n_ :two: (candy canes) A stick of red and white candy with a curve at one end. _Candy canes on the Christmas tree._  
 __candy corn__ _n_  
@@ -2885,7 +2889,9 @@ __canthus__ _n_
 __cantilever__ _v_ :four::hammer: (cantilevered)  
 __cantillation__  
 __cantina__ _n_  
+__Canuck__ _n_  
 __canvass__ _v_ :three::hammer::astonished: (canvassing)  
+__canvasser__ _n_  
 __canyoned__ _adj_ _Canyoned city streets._  
 __cap gun__ _n_ :dart::camera: A toy pistol with a hammer action that detonates a mildly explosive cap.  
 __cap<sup>1</sup>__ _n informal_ :five: __1__ Capital: _venture cap._ _NASA’s AEGIS has a four-megabyte cap of available RAM._ __2__ A capital letter—usually plural. Capitalization: _market cap._  
@@ -2937,7 +2943,7 @@ __carbon footprint__ _n_ _Pills have a lesser carbon footprint than equivalent l
 __carbon paper__ _n_  
 __carboy__ _n_ :camera: A large glass bottle encased in a basket or box, used esp. for holding corrosive liquids. :es: garrafón  
 __carbuncle__ _n_  
-__carburettor__ _n_ (carburetter, carburetor)  
+__carburettor__ _n_ :two: (carburetter, carburetor)  
 __carcass__ _n_ :three: (carcase) Remains from which the substance or character is gone. _Syn_ remains, remnants _At one end of the camp lies the carcass of an aircraft which crashed in the mountains._ _A whale carcass._  
 __carceral__ _adj_ /KAHR-suh-rul/ Of, relating to, or suggesting a jail or prison. _The room was eerily quiet and had a carceral aesthetic._ _Her article stressed the importance of rehabilitative measures in carceral institutions, such as career preparation and mental health support._  
 __card reader__ _n_  
@@ -2973,7 +2979,7 @@ __carol__ _v_ :two::hammer: (caroling) (vs Christmas carol) _Join others carolin
 __carolers__ _n_  
 __carom<sup>1</sup>__ _v_ :five::hammer: (caromed, caroming)  
 __carom<sup>2</sup>__ _n_ (caroms)  
-__carouse__ _v_ :eight: /kuh-ROWZ/ (“OW” as in ‘cow’) (caroused, carousing) To drink large amounts of alcohol, especially in boisterous merrymaking. To drink alcohol, make noise, and have fun with other people. _Syn_ roister _After a long night of carousing around Puerto Vallarta, the travelers settled into their hotel room._ _They were so happy to be finished with exams that they continued to carouse until morning, when the bartender finally asked them to leave._  
+__carouse__ _vi_ :nine: /kuh-ROWZ/ (“OW” as in ‘cow’) (caroused, carousing) To drink large amounts of alcohol, especially in boisterous merrymaking. To drink alcohol, make noise, and have fun with other people. _Syn_ roister _After a long night of carousing around Puerto Vallarta, the travelers settled into their hotel room._ _They were so happy to be finished with exams that they continued to carouse until morning, when the bartender finally asked them to leave._  
 __carousel__ _n_ :two::hammer:  
 __carp__ _v_ /KAHRP/ To carp means “to complain in an annoying way,” and often suggests that such complaining is habitual. _He carps too much about the umpire’s bad calls when he should be focused on improving his swing._  
 __carpal tunnel syndrome__ _n_  
@@ -3083,7 +3089,7 @@ __catchphrase__ _n_
 __catchword__ _n_  
 __catchy__ _adj_ :two: __1__ Attractive or appealing: _a catchy idea for a new television series._ __2__ Easily remembered: _a song with a catchy tune._ __3__ Tricky; deceptive. Having concealed difficulty. _Syn_ tricky _A catchy question on an exam._ _Despite Ms. Brown’s assurances to the contrary, her exam was surprisingly catchy, and many students received a failing grade._ __4__ Fitful or spasmodic: _catchy breathing._  
 __catechism__ _n_ :three::hammer::pencil2:  
-__categorical__ _adj_  
+__categorical__ _adj_ :two: /kat-uh-GOR-ih-kul/ _Categorical_ is a synonym of _absolute_ and _definite_ that describes something that is said in a very strong and clear way. It can also mean “of, relating to, or constituting a category” or “involving, according with, or considered with respect to specific categories.”  
 __cater__ _v_ :five:hammer: _Catered dinner._  
 __catercorner__ _adj, adv_ /KAT-ee-kor-ner/  
 __caterpillar__ _n_  
@@ -3142,6 +3148,7 @@ __celebutante__ _n_ A celebrity who is well known in fashionable society; a blen
 __celeriac__ _n_  
 __celerity__ _n_ /suh-LAIR-uh-tee/ Celerity is a formal word that means “swiftness of motion or action.” _When the developers’ intentions became clear, the community came together with celerity to preserve the town’s beloved wetlands for future generations._  
 __celery__ _n_ :eight: /ˈselərɪ/ A biennial European plant _(Apium graveolens var. dulce)_ in the parsley family, having edible roots, leafstalks, leaves, and fruits. _Celery roots._ _Celery stalk._ :es: apio  
+__celiac__ _adj_ :astonished: Of or relating to the abdomen or abdominal cavity.  
 __celibacy__ _n_  
 __cell__ _n_ :two: __5__ The smallest organizational unit of a clandestine group or movement, such as a banned political movement or a terrorist group. A cell’s leader is often the only person who knows members of the organization outside the cell. _A Communist cell._  
 __cellblock__ _n_ A group of cells that make up a section or unit of a prison. _Syn_ ward  
@@ -3194,6 +3201,8 @@ __chalk__ _v_ :four::hammer::mute:[cha~~l~~k] (chalked) _Chalk it up._
 __chalkboard__ _n_ :four: (Education) _US and Canadian_ A hard or rigid surface made of a smooth usually dark substance, used for writing or drawing on with chalk, esp in teaching. Also called (in Britain and certain other countries): blackboard. _Check the chalkboard for daily specials._ _Chalkboards did not require much upkeep._  
 __chalkstone__ _n_ A deposit of urates around a joint or in the external ear; diagnostic of advanced or chronic gout. _Syn_ tophus _Once the doctor saw the chalkstone, he knew his patient was suffering from gout._  
 __chalky__ _adj_ _Chalky skin._  
+__chalybeate<sup>1</sup>__ _adj_ Containing dissolved salts of iron.  
+__chalybeate<sup>2</sup>__ _n_ A mineral water containing iron, a voguish general remedy during the 17th-19th century.  
 __chamber of horrors__ _n_ [:scroll: After the Chamber of Horrors, a room in Madame Tussaud’s waxwork exhibition in London. It displayed waxworks of notorious criminals and other infamous historical figures.] A collection of horrifying things, ideas, people, etc.  
 __chamber pot__ _n_ :two::dart::astonished: A portable container for urine and defecation, used in bedrooms.  
 __chamomille__  
@@ -3383,7 +3392,7 @@ __chiropractor__ _n_
 __chirp away__ _v_  
 __chirping__ _n_ High pitched, repeated noises. _There’s a lot of chirping in hockey, and it can be pretty nasty at times._  
 __chisel__ _n_  
-__chiseled__  
+__chiseled__ _adj_ :two: Made or shaped with or as if with a chisel: _a finely chiseled nose._  
 __chit chat__  
 __chit__ _n_  
 __chit-chat<sup>1</sup>__ _n_ :two: (chit chat) An informal conversation about things that are not important.  
