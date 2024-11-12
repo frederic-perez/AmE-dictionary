@@ -83,32 +83,6 @@ __beyond the realm(s) of possibility__ Impossible.
 __beyond/within the realms of possibility__ Impossible/possible: _A successful outcome is not beyond the realms of possibility._  
 __big guns__  
 __birthday suit__  
-__bits and pieces__ :dart::three: Sundry little items, tasks, or chores. _I’m almost finished, I just have a few bits and pieces to do around the house before we leave._  
-__black tie__ Dress ccde (slightly less formal than _white tie_) typically allowing men to wear tuxedos or dinner jackets and women to wear cocktail dresses and long dresses.  
-__bland__ _adj_  
-__blast to kingdom come__ :es: hacer saltar en pedacitos  
-__bleeding heart__ In the USA people with right-wind or conservative opinions use this phrase to refer pejoratively to those who have liberal sympathies.  
-__bless me Father for I have sinned__  
-__blow a gasket__ To react furiously or violently, to the point of losing control of one’s behavior. _Mom totally blew a gasket when I told her I had failed math._  
-__boil (something) down to (something)__ To reduce or simplify something to the most basic, essential, or fundamental element(s).  
-__bottom of the ninth__ The final and critical moment or moments of a tense, important, or desperate situation. A reference to the ninth inning of baseball, the “bottom” of which is batted by the home team as their last chance to win the game. Primarily heard in US. _It came down to the bottom of the ninth, but I managed to finish my report in time for the big meeting._  
-__bragging rights__  
-__brain surgery__ A task requiring extreme intelligence, skill, or competence, usually used in a negative or rhetorical manner to indicate the opposite. _Just follow the directions as they’re written—it isn’t brain surgery._  
-__brazen out__ To face something, especially a difficult situation or an accusation, with brave or impudent self-confidence. A noun or pronoun can be used between “brazen” and “out.” _Timmy brazened out his teacher’s scolding about his bad behavior._ _I’m so impressed that you brazened out that long drive in torrential rain._  
-__breach of etiquette__ A violation of established social norms or expectations, especially as relates to polite society or specific professions. _In an unexpected breach of etiquette, she announced her candidacy before the governor officially resigned._  
-__break a sweat__  
-__break even__  
-__bring to bear__  
-__bromance__  
-__brown sugar__ :dart: _slang_ Heroine.  
-__buckle up__  
-__bullshit artist__ :smiling_imp: _rude slang_ A person expert at lies, deception, and hype. Someone who is apt to lie and embellish. _Oh, you can’t trust a word that bullshit artist says._  
-__by all means__ :dart:  
-__by and by__ :dart: __1__ _adv_ After a short or undetermined period of time. _The rain poured down in a torrent, but by and by, the clouds thinned and the sun eventually came out again._ _I know it feels heavy now, but try not to worry—the sadness will lift by and by._  
-__by and large__  
-__by dint of (something)__ Due to something. The largely outdated word “dint” refers to force or effort. _By dint of hard work, I was able to get an A in my math class this semester._  
-__by no means__ Not in any way; not at all; absolutely not.  
-__call (one) names__  
 __call of nature__ The urge to urinate or defecate. _I have to attend to the call of nature._  
 __case in point__  
 __cash flow__  

@@ -909,13 +909,14 @@ __bite off more than one can chew__ To attempt to take on a task that is too muc
 __bite the bullet__ :two::hammer:  
 __bite the dust__ :three::hammer: _In 1945, what was left of the old Science Fiction League finally bit the dust._ _Bite the dust, asteroid!_  
 __bite the hand that feeds (you)__ :two: To scorn or poorly treat those on whom you depend or derive benefit.  
-__bits and pieces__ :three::hammer:  
+__bits and pieces__ :dart::six: Sundry little items, tasks, or chores. _I’m almost finished, I just have a few bits and pieces to do around the house before we leave._  
 __bitter pill to swallow__ An unpleasant fact that you must accept.  
 __black and white__ _n_ The police; a black and white police patrol car; any police car. _Call the black and whites. We got trouble here._  
 __black bag job__  
 __black eye__  
 __black magic__  
 __black sheep__  
+__black tie__ Dress ccde (slightly less formal than _white tie_) typically allowing men to wear tuxedos or dinner jackets and women to wear cocktail dresses and long dresses.  
 __Black Twitter__ A collective name for the black users on the social media site Twitter.  
 __black__ _n_ _You take sugar, cream? No, thanks, just black._  
 __blah__ __2__ _adj_ Displeased, dissatisfied, or dejected. _I’m just feeling kind of blah after reading that negative review of my play._  
@@ -923,8 +924,10 @@ __blank canvas__
 __blank slate__  
 __blanket (someone or something) with (something)__ To cover with something.  
 __blanket term__ A word or phrase used to describe a broad range of similarly related things, usually resulting in diluting the specific meaning of individual items. _“Idiom” is often used as a blanket term for any element of language that is used strangely or uniquely by its users._  
+__blast to kingdom come__ :es: hacer saltar en pedacitos  
 __blaze a trail__  
-__bleeding heart__  
+__bleeding heart__ :two: In the USA people with right-wind or conservative opinions use this phrase to refer pejoratively to those who have liberal sympathies.  
+__bless me Father for I have sinned__  
 __bless your pointy little head__ A condescending phrase used to patronize someone for being foolish or not very bright. _You failed the exam because you thought the sun was a planet? Aw, bless your pointy little head._  
 __blind date__ A date between two people who have not previously met. _Blind dates are terrifying because you don’t know what the person will be like, but that’s also part of the excitement._  
 __blind spot__  
@@ -942,6 +945,7 @@ __blooper__ __2__ _n_ An error. _That was a real blooper. Did you get fired?_
 __blow (one’s) mind__ :four::hammer:  
 __blow (someone or something) out of the water__  
 __blow a fuse__ :dart: To react furiously, to the point of losing control of one’s behavior. _Mom totally blew a fuse when I told her I had failed math._ _Don’t blow a fuse—it’s just a tiny scratch on the car._  
+__blow a gasket__ To react furiously or violently, to the point of losing control of one’s behavior. _Mom totally blew a gasket when I told her I had failed math._  
 __blow me down__ An expression of shock or surprise at something. Often used jocosely and usually preceded by the word “well.” _Well, blow me down! I never thought I’d see you around these parts again!_  
 __blow one’s top at someone__  
 __blow someone away__  
@@ -962,7 +966,7 @@ __bog down__ :dart: __1__ To slow down or burden someone or something. (A bog is
 __bog__ _n_ (i?)  
 __bogart__ :astonished::two: To take an unfair share of something.  
 __boggle the/(one’s) mind__ To thoroughly overwhelm, confuse, or surprise one. _The show of support from everyone just boggled my mind._  
-__boil (something) down to (something)__ :two: To reduce or simplify (something) to the most basic, essential, or fundamental element(s).  
+__boil (something) down to (something)__ :three: To reduce or simplify (something) to the most basic, essential, or fundamental element(s).  
 __boil down__  
 __boiling frog__  
 __boiling point__  
@@ -994,7 +998,7 @@ __bossyboots__ Someone who is bossy or controlling. _Josh is such a bossyboots, 
 __bottle up__ :two::hammer: _Find a balance between bottling up feelings and overreacting._  
 __bottom line__  
 __bottom of the barrel__ :two::hammer: _That’s the tip of the iceberg, or, better, the bottom of the barrel._  
-__bottom of the ninth__ The final and critical moment or moments of a tense, important, or desperate situation. It refers to the ninth inning of baseball, the “bottom” of which is batted by the home team as their last chance to win the game. Primarily heard in US, South Africa. _It came down to the bottom of the ninth, but I managed to finish my report in time for the big meeting._  
+__bottom of the ninth__ :two: The final and critical moment or moments of a tense, important, or desperate situation. A reference to the ninth inning of baseball, the “bottom” of which is batted by the home team as their last chance to win the game. Primarily heard in US. _It came down to the bottom of the ninth, but I managed to finish my report in time for the big meeting._  
 __bottom out__ _Europe is bottomed out._  
 __bounce back__ :dart::three: __2__ Of a person, to recover from a setback. _The doctors expect her to bounce back and make a full recovery._  
 __bounce into (someone or something)__  
@@ -1005,25 +1009,27 @@ __boy oh boy__ :six: An expression said when one is excited, pleased, or pleasan
 __brace (oneself) for (something)__  
 __brace of shakes__ Instantly, quickly, or in an extremely short amount of time, as of a task or event. “Brace,” taken from the old French for the arms’ breadth from hand to hand, means twice; the phrase as a whole refers either to an old nautical term, meaning the time it takes the sail to shake twice as it takes up the wind, or else the short time it takes to shake a dice-box twice. Often used in the phrase “in a brace of shakes.” _I’ll have that ready for you in a brace of shakes._ _We’ll be there in a brace of shakes._  
 __brace yourself__ Prepare yourself mentally or emotionally for hearing something unpleasant, out of place or inappropriate.  
-__bragging rights__ The authority and freedom to boast or brag of one’s achievements that comes from having won a contest or succeeded in some way, especially against a close rival. _The game matters little to either team’s statistics, but it will ensure bragging rights for the rest of the year._  
+__bragging rights__ :two: The authority and freedom to boast or brag of one’s achievements that comes from having won a contest or succeeded in some way, especially against a close rival. _The game matters little to either team’s statistics, but it will ensure bragging rights for the rest of the year._  
 __brain box__ Someone who is regarded as highly intelligent. _Kevin is such a brain box that he memorized pi to a hundred decimal places._  
 __brain dead__ :dart::two: __2__ _slang_ So mentally exhausted or lacking focus that one does something poorly and/or makes easily avoidable mistakes. _Did I just say that two plus two equals five? Wow, I’m really brain dead today._  
 __brain fog__  
-__brain surgery__ :three: A task requiring extreme intelligence, skill, or competence, usually used in a negative or rhetorical manner to indicate the opposite. _Just follow the directions as they’re written—it isn’t brain surgery._  
+__brain surgery__ :four: A task requiring extreme intelligence, skill, or competence, usually used in a negative or rhetorical manner to indicate the opposite. _Just follow the directions as they’re written—it isn’t brain surgery._  
 __brainchild__ :two::hammer:  
 __brainwave__ :two: A sudden idea or moment of inspiration; a brainstorm. _I had a brilliant brainwave last night about how we could end world hunger._  
 __brass monkeys__ Very cold weather.  
 __brazen it out__ To face a difficult, uncertain, or intimidating situation with brave or impudent self-confidence. _I’m terrified to give this presentation, but I just have to brazen it out and hope for the best._  
+__brazen out__ To face something, especially a difficult situation or an accusation, with brave or impudent self-confidence. A noun or pronoun can be used between “brazen” and “out.” _Timmy brazened out his teacher’s scolding about his bad behavior._ _I’m so impressed that you brazened out that long drive in torrential rain._  
 __BRB__ (be right back)  
-__breach of etiquette__ A violation of established social norms or expectations, especially as relates to polite society or specific professions. _In an unexpected breach of etiquette, she announced her candidacy before the governor officially resigned._  
+__breach of etiquette__ :two: A violation of established social norms or expectations, especially as relates to polite society or specific professions. _In an unexpected breach of etiquette, she announced her candidacy before the governor officially resigned._  
 __bread and butter__  
 __bread__ _slang_ Money.  
 __break (one’s) heart__  
 __break a leg__ _interj_ :four: Good luck! (A special theatrical way of wishing a performer good luck. Saying “good luck” is considered by actors to be a jinx.) _“Break a leg!” shouted the stage manager to the heroine. Let’s all go and do our best. Break a leg!_  
-__break a sweat__ :three: To put forth a large amount of energy or effort into or toward a task. (Likened to perspiring due to strenuous physical activity.) Usually used in negative constructions to indicate the opposite. Use a lot of physical effort: _He hardly needed to break sweat to reach the final._ _That test was so easy, I aced it without even breaking a sweat._  
+__break a sweat__ :dart::four: To put forth a large amount of energy or effort into or toward a task. (Likened to perspiring due to strenuous physical activity.) Usually used in negative constructions to indicate the opposite. Use a lot of physical effort: _He hardly needed to break sweat to reach the final._ _That test was so easy, I aced it without even breaking a sweat._  
 __break bread__ To eat. _We should break bread before the meal gets cold._  
 __break character__  
 __break cover__ To suddenly and quickly emerge from a place of hiding or protection.  
+__break even__  
 __break free__ :three: __2__ To move away or separate from someone or something. _I’m starting to break free from the religious tradition I was raised in._  
 __break ground__ __2__ Take the first steps for a new venture; advance beyond previous achievements. For example, _Jeff is breaking new ground in intellectual property law._  
 __break into a smile__ To start smiling. _Even though she scolded me for disrupting class, I’m pretty sure I saw Ms. Miller break into a smile for a second._  
@@ -1066,17 +1072,19 @@ __bring home the bacon__ To earn money to live on.
 __bring it on__ To begin a fight or competition.  
 __bring the house down__ :two: __1__ Literally, to raze or demolish a house so that nothing is left standing. __2__ :dart: To perform or entertain so successfully as to cause the audience to erupt in applause, laughter, or cheers for a long stretch of time.  
 __bring to an end__  
+__bring to bear__  
 __bring to light__  
 __bristle at something__ :dart: [:scroll: Alludes to a dog or cat raising the hair on its back in anger or as a threat] To show sudden anger or other negative response to something. _She bristled at the suggestion._  
 __bristle with something__ _phr v_ :nine::m: [:sound: bristled with] (bristled, bristling) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
 __broad (brush) strokes__  
 __broken record__ :dart::five: A person or thing that repeats itself over and over again. Likened to vinyl records that when severely scratched (i.e., “broken”) can loop over the same recorded segment endlessly. _I feel like a broken record having to tell you this each day, but please clean your room!_  
-__bromance__ _slang_ A very close friendship between two men. The word is a portmanteau of “bro” and “romance.” _My brother has quite a bromance with his best friend—they do everything together._  
+__bromance__ :two: _slang_ A very close friendship between two men. The word is a portmanteau of “bro” and “romance.” _My brother has quite a bromance with his best friend—they do everything together._  
 __brood about (someone or something)__ To worry, fret, or obsess over someone or something.  
 __brood over__ :two: To worry anxiously or be despondent about something or someone, especially at great length and in isolation. _I know you’re upset about failing your exam, but don’t brood over it all weekend._  
 __browbeat (one) into (something)__ To thoroughly and continually dominate, intimidate, or bully one into some state or action.  
 __brown eye__  
 __brown noser__ _n idiom_ (brown-noser) Someone who pleases an important or powerful person in order to get a benefit.  
+__brown sugar__ :dart: _slang_ Heroine.  
 __brush up__  
 __brutal__ :two: __1__ :astonished: _informal_ Cringe-inducingly unpleasant. __2__ _mod_ Excellent; powerful. _Man, what a brutal tune!_  
 __bubble over__ Of an emotion, to be too strong for one to contain or refrain from expressing. _Her enthusiasm for the subject she teaches just bubbles over in the classroom._  
@@ -1084,7 +1092,7 @@ __bubble up__
 __buck the trend__  
 __bucket list__ :three::hammer: _That’s one of my bucket list items._  
 __buckle down__ _Buckle down and work harder._  
-__buckle up__ :eight::hammer: _Bucking up a seat belt._ _Oregon law calls for drivers and passengers to buckle up for safety in both the front and back seats._ __4__ _slang_ Prepare for what is about to happen, such as danger, excitement, trouble, etc. _The boss is in a terrible mood today, so buckle up!_ _Buckle up, folks. This game is going down to the wire!_  
+__buckle up__ :nine::hammer: _Bucking up a seat belt._ _Oregon law calls for drivers and passengers to buckle up for safety in both the front and back seats._ __4__ _slang_ Prepare for what is about to happen, such as danger, excitement, trouble, etc. _The boss is in a terrible mood today, so buckle up!_ _Buckle up, folks. This game is going down to the wire!_  
 __buff up__  
 __bug off__ _slang_  
 __bug__ __7__ _v_ To annoy, pester, or irritate someone. _I don’t know what it is about Tom, but he just bugs me whenever I’m around him._ _Your kids will be too busy bugging you to buy them cotton candy at the concession._  
@@ -1097,6 +1105,7 @@ __built like a tank__ Having a physique or structure that is strong and physical
 __built to last__ Used to describe something that is durable, of high quality, and expected to serve for a long time.  
 __bull in a china shop__ :two: A clumsy person.  
 __bulletproof__  
+__bullshit artist__ :smiling_imp: _rude slang_ A person expert at lies, deception, and hype. Someone who is apt to lie and embellish. _Oh, you can’t trust a word that bullshit artist says._  
 __bullshitter__  
 __bully pulpit__  
 __bum pump__ Buttpump.  
@@ -1150,16 +1159,17 @@ __buzz__ :two::hammer: _Buzzed the fuzz._
 __by (oneself)__ :two::hammer:  
 __by a mile__ :two: By a large amount; by a lot. _We won that game by a mile! I think the final score was 10-1._  
 __by all accounts__ :dart::seven: From all the reports (that are available); according to what everyone is saying. _According to all accounts, the police were on the scene immediately._ _By all accounts, it was a very poor performance._  
-__by all means__  
-__by and by__  
-__by and large__ :seven::hammer:  
+__by all means__ :dart::two::hammer:  
+__by and by__ :dart::two: __1__ _adv_ After a short or undetermined period of time. _The rain poured down in a torrent, but by and by, the clouds thinned and the sun eventually came out again._ _I know it feels heavy now, but try not to worry—the sadness will lift by and by._  
+__by and large__ :eight::hammer:  
 __by any chance__ :dart::two: Used as a polite emphasis to a request or question. Used especially in questions, to ask whether something is true, possible, etc: _Are you in love with him, by any chance?_ _Would you by any chance happen to know where the subway is from here?_  
 __by any means__  
 __by design__ :dart: Deliberately and purposefully; as one planned or intended. _I assure you that everything you saw has happened by design._  
+__by dint of (something)__ Due to something. The largely outdated word “dint” refers to force or effort. _By dint of hard work, I was able to get an A in my math class this semester._  
 __by far__ By a large amount; by a lot.  
 __by hell or high water__ :two: By any means necessary; regardless of any difficulty, problem, or obstacle. _By hell or high water, I am going to make it to your wedding!_  
 __by his own admission__ “By his own admission” refers to a situation where an individual acknowledges or confesses to something themselves, without being prompted or coerced by others. In other words, it means that the person is taking responsibility for their actions or statements without any external influence.  
-__by no means__ :three: Not in any way; not at all; absolutely not.  
+__by no means__ :four: Not in any way; not at all; absolutely not.  
 __by popular demand__ Due to a lot of requests or interest (in something).  
 __by the balls__  
 __by the book__ :three: In a way that strictly adheres to the established rules (as recorded in writing).  
@@ -1181,7 +1191,7 @@ __cake-eater__ :two: __1__ _slang_ A winsome, often effeminate young man who is 
 __cakewalk__  
 __calaboose__ _slang_ Jail. The word comes from “calabozo,” the Spanish word for “dungeon.” _They’ll throw you in the calaboose if they find out that you were involved in the robbery!_  
 __call (all) the shots__ :three::hammer:  
-__call (one) names__  
+__call (one) names__ :two::hammer:  
 __call (one) on (something)__  
 __call ahead__ _Travelers can also call ahead for a door to door shuttle._  
 __call bullshit__ State that some given information is incorrect. _A: “The first president of the U.S.A. was Thomas Jefferson.” B: “I’m gonna have to call bullshit on that.”_  
