@@ -295,6 +295,7 @@ __gamekeeper__ _n_ /ˈgeɪmˌki pər/ A person employed, as on an estate or game
 __gangrene__ _n_  
 __gaping__ _adj_ /ˈɡeɪpɪŋ/ Wide open; extremely wide: _a gaping hole._  
 __garnish__ _v_ /GAHR-nish/ To garnish food or drink is to add decorative and tasty touches to it, such as a spiral of lemon peel.  
+__garret__ _n_  
 __garrulous__ _adj_ Excessively talkative in a rambling, roundabout manner, especially about trivial matters.  
 __gash__ _v_  
 __gasp<sup>1</sup>__ _v_  
@@ -314,12 +315,14 @@ __giggle__ _v_
 __glass pane__  
 __glower<sup>1</sup>__ _n_ To look or stare angrily or sullenly: _glowered at the rude patron._ _Syn_ scowl, glare, frown, look daggers, give a dirty look, lour, lower  
 __glower<sup>2</sup>__ _n_ An angry or sullen look or stare.  
+__goblin__ _n_  
 __goo__ _n_  
 __Goodwill__ _n_ A charity organization that collect old clothes for resale.  
 __gopher__ _n_ :es: ardilla  
 __gossamer__ _adj_ /GAH-suh-mer/ Something described as _gossamer_—such as a butterfly wing or a thin fabric—is very light or delicate.  
 __grill pan__ _n_ :camera: A type of frying pan with raised ridges or grooves on the cooking surface that simulate the char marks of an outdoor grill.  
 __gripping__ _adj_ :es: con gancho  
+__groan__ _n_  
 __grovel__ _vi_  
 __grueling__ _adj_ /ˈgru ə lɪŋ, ˈgru lɪŋ/  
 __grunt__ _n_  
@@ -357,6 +360,7 @@ __heavenward<sup>2</sup>__ _adj_ Directed towards heaven or the sky.
 __heinous__ _adj_ /HAY-nus/ _Heinous_ describes things—such as acts, deeds, or crimes—that are hatefully or shockingly evil, or in other words, deserving of hate or contempt.  
 __hem__ _n_ :es: dobladillo  
 __hidebound__  
+__hitherto__  
 __hobgoblin__ _n_  
 __hollow-point bullet__ _n_  
 __hoover__  
@@ -374,6 +378,7 @@ __hurl__ _v_
 __husk__ _vt_ :two: To remove the husk from.  
 __hypertrichosis__ _n_ A condition of excessive hairiness either all over the body or covering a particular part.  
 __ideate__ _v_ /EYE-dee-ayt/ To ideate is to form an idea or conception of something..  
+__ignoramus__  
 __imp__ _n_  
 __impasse__ _n_ A situation that is so difficult that no progress can be made. _Syn_ dead end, deadlock, stalemate, standstill  
 __impeccable__  
@@ -384,6 +389,7 @@ __indigenous__ _adj_ /ɪnˈdɪdʒ ə nəs/ __1__ Originating in and characterist
 __induction__ _n_ :es: incorporación  
 __infamous__ _n_ _The Louisiana legal system is infamous for corruption._  
 __infirm__ _adj_  
+__ingratiate__ _v_  
 __inkling__  
 __interfere__ _v_  
 __interpenetrate__ _v_ Spread or diffuse through. _Syn_ imbue, permeate, pervade, diffuse, riddle, penetrate  
@@ -439,6 +445,7 @@ __lassitude__ _n_ :dart: A state or feeling of weariness, diminished energy, or 
 __latch__ _n_  
 __lathe__ _n_  
 __laughing fit__ _n_  
+__Lawrence__ _n_ (Larry)  
 __leaf peeper__ _n_ (chiefly informal US) A tourist who visits New England in autumn to see the changing colours of the foliage.  
 __lean__ _adj_  
 __leathern__ _adj_ Made of, covered with, or resembling leather.  
@@ -502,6 +509,7 @@ __lucid__ _adj_ /LOO-sid/
 __lucrative__ _adj_ :two::hammer: /LOO-kruh-tiv/  
 __lucubration__ _n_  
 __luggable__ _n_ /ˈlʌɡəbəl/ (esp of computers) Portable, but with difficulty.  
+__lugubrious__ _adj_  
 __lumber<sup>1</sup>__ _n_  
 __lumber<sup>2</sup>__ _vt_  
 __lumber<sup>3</sup>__ _vi_ __1__ To move awkwardly.  
@@ -574,6 +582,7 @@ __mitochondrion__ _n_ :pencil2: (_npl_ mitochondria)
 __moisten__ _v_  
 __mongoose__ _n_  
 __Montserrat__ _n_ An island in the Leeward Islands, in the West Indies: British crown colony.  
+__Moor__  
 __moot__ _vt_  
 __moped__ _n_ _Brit_ A light motorcycle, not over 50cc.  
 __morass__  
@@ -590,6 +599,7 @@ __muck__ _n_
 __muddle__ _n_ __1__ A disordered condition; a mess or jumble.  
 __mundane__ _adj_  
 __mushroom__ _vi_ __1__ To multiply, grow, or expand rapidly: _The population mushroomed in the postwar decades._  
+__muslin__ _n_  
 __muss__ _vt_ To make messy or untidy; rumple. :es: despeinar; arrugar  
 __mutter<sup>1</sup>__ _n_ A low grumble or indistinct utterance.  
 __mutter<sup>2</sup>__ _v_ :two::hammer:  
@@ -645,7 +655,7 @@ __paramour__ _n_ :two::hammer:
 __paratrooper__  
 __parched__ _adj_ :es: abrasado, reseco  
 __Parkinson’s law__ _n_ /PAHR-kin-suhnz law/ The observation that work expands to fill the time available.  
-__parson__ _n_  
+__parson__ _n_ :two::hammer:  
 __parturition__ _n_ /par-chuh/too-RISH-uhn/ The act of giving birth.  
 __pasquinade__ _n_ A satire or lampoon, especially one that ridicules a specific person, traditionally written and posted in a public place. _Syn_ parody, put-on, sendup, spoof, charade, lampoon, mockery, burlesque, travesty, takeoff  
 __pastime__ _n_ :pencil2:  
@@ -766,6 +776,8 @@ __propensity__ _n_ /pruh-PENN-suh-tee/ A _propensity_ is a strong natural tenden
 __prostration__ _n_ An abrupt failure of function or complete physical exhaustion. _Syn_ collapse  
 __provender__ _n_ Dry food, as hay or oats, for livestock or other domestic animals.  
 __proximate__ _adj_  
+__public house__ _n_ _BrE_ Pub.  
+__publican__ _n_ _BrE_ :astonished:  
 __puff__ _v_  
 __pulse__ _n_ __1__ The edible seeds of certain pod-bearing plants, such as lentils and chickpeas. :es: legumbres __2__ A plant yielding these seeds.  
 __pumpkin spice__ _n_ A mixture of usually cinnamon, nutmeg, ginger, cloves, and often allspice that is commonly used in pumpkin pie.  
@@ -773,7 +785,8 @@ __pundit__ _n_ __1__ A source of opinion; a critic: a political pundit. __2__ A 
 __pustulate__ _adj_ Blemished by imperfections of the skin. _Syn_ acned, pimpled  
 __quadriplegia__ _n_ Complete paralysis of the body from the neck down. Also called tetraplegia.  
 __quagmire__ _n_ An area of miry or boggy ground whose surface yields under the tread.  
-__quail__ _v_  
+__quail<sup>1</sup>__ _n_ :es: codorniz  
+__quail<sup>2</sup>__ _vi_  
 __Quaker__ _n_ /ˈkweɪkə/  
 __quandary__ _n_  
 __quaternary__ _adj_ Coming next after the third and just before the fifth in position or time or degree or magnitude. _Syn_ fourth  
@@ -832,11 +845,15 @@ __refuse__ _v_ /rɪˈfjuːz/
 __regardless__  
 __reify__ _v_ /ˈri əˌfaɪ, ˈreɪ-/ /RAY-uh-fye/ Reifying is about considering or representing something abstract as a material or concrete thing. If you reify a concept or idea you somehow give it definite content and form.  
 __reignite__ _v_  
+__relate__ _v_ _I wish to relate the story in his own words._  
+__repent__ _v_ _He would repent and confess his sins._  
 __restraint__ _n_  
 __retainer__ _n_ __2__ _Dentistry_ An appliance used to hold teeth in position after orthodontic treatment.  
+__revelry__ _n_  
 __rhotic__ _adj_ :dart:  
 __rollout__ _n_ __1__ The introduction of a new product, service, or policy to the public.  
 __rooftop__ _n_  
+__rover__ _n_ __1__ A pirate. __2__ A pirate vessel.  
 __rube__ _n_ _You look like a rube._  
 __ruff__ _n_ (Clothing & Fashion)  
 __ruination__ _n_  
@@ -879,6 +896,7 @@ __shun__ _vt_ :dart: To avoid deliberately; keep away from. _He shuns suits exce
 __shuttle__ _n_ __2__ The sliding container that carries the lower thread in a sewing machine.  
 __side note__ _n_ Additional information aside main point.  
 __simpleton__ _n_ :smiling_imp:  
+__single-handed__ _adj, adv_ :dart:  
 __single-minded__ _adj_  
 __skewer<sup>1</sup>__ _n_  
 __skewer<sup>2</sup>__ _vt_  
@@ -928,7 +946,9 @@ __stub__ _n_ __1__ The usually short end remaining after something bigger has be
 __stuffy__ _adj_ :dart:  
 __stump__ _v_ _Walking makes your brain work a little bit better, helping you crack problems that stumped you while sitting._  
 __stumped__ _adj_ _Syn_ baffled, perplexed, at a loss, floored (informal), at sea, stymied, nonplussed, flummoxed  
+__stunned__  
 __stunted__ _adj_ Prevented from growing or developing. _Stunted genitalia._  
+__stupefaction__ _n_  
 __sturdy__ _adj_  
 __subcontinent__ _n_  
 __subdural__ _adj_ Located or occurring beneath the dura mater: _subdural space; a subdural hematoma._  
@@ -952,6 +972,8 @@ __taunt__ _v_
 __teeter__ _vi_ :two: __1__ To move or sway unsteadily or unsurely; totter.  
 __teetotaler__ _n_ (teetotaller)  
 __tendril__ _n_ :es: zarzillo  
+__tenement__ _n_  
+__Terence__ _n_ (Terry)  
 __thanatopsis__ _n_ /than-uh-TOP-sis/ [:scroll: From Greek thanatos (death) + -opsis (appearance, view)] A reflection upon death.  
 __the nuts and bolts__  
 __thence__ _adv_ From that place; from there. _Syn_ therefrom _The train went south into Switzerland and thence on to Italy._  
@@ -980,8 +1002,10 @@ __usher in__
 __wad__ _v_  
 __wagonette__ _n_ :camera: (waggonette) A light four-wheeled horse-drawn vehicle with two lengthwise seats facing each other behind a crosswise driver’s seat.  
 __weak coffee__ _n_ :dart: _Weak coffee_ generally refers to a brew that has a lower concentration of coffee grounds relative to the amount of water used during brewing. This results in a drink that is often perceived as watery or lacking in robust flavor.  
+__weathervane__ _n_  
 __wharf__ _n_ A platform built out from the shore into the water and supported by piles; provides access to ships and boats. _Syn_ pier, wharfage, dock  
 __wheeddle__ _v_ :smiling_imp:  
+__William__ _n_ (Shortened familiar versions in English include Will, Wills, Willy, Willie, Liam, Bill, and Billy)  
 __woefully__  
 __Xmas__ _n_  
 __yacht<sup>1</sup>__ _n_  
