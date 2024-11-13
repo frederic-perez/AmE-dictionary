@@ -1,3 +1,4 @@
+__(Are) you kidding (me)?__  
 __(as) cool as a cucumber__ _slang_ Calm and composed, especially in times of stress.  
 __(as) good as dead__  
 __(as) quick as a bunny__ Incredibly quickly or speedily. _Quick as a bunny, Mary finished her exam and raced out of the classroom._  
@@ -5,6 +6,7 @@ __(it’s) (a)bout time__ :dart::two:
 __(it’s) just as well (that) (something happened)__ It is or turned out to be beneficial (that something happened). _It turned out we had a pop quiz on Monday. Just as well I was studying this weekend!_  
 __(it’s) little wonder__ It is not at all surprising (that something is the case). _I was always terrible at math in school, so it’s little wonder that I have such trouble filing my taxes._  
 __(just) for the fun of it__  
+__(one’s) heart bleeds for (someone)__ One feels sorrow or sadness for someone who is experiencing hardships. The phrase can also be said sarcastically to mean the opposite.  
 __(out) on a limb__  
 __(someone) ain’t seen nothing yet__  
 __(stuck) in a rut__  
@@ -40,16 +42,22 @@ __abound with__ To be brimming with something plentiful: _The lake by the cabin 
 __according to (someone or something)__  
 __ace in the hole__ :two::hammer:  
 __across the board__ :two::hammer:  
+__again and again__ Constantly or repeatedly. _The phone rang again and again until I finally answered it._  
 __ahead of (someone or something)__  
 __aid and abet__ To assist someone, usually in a mischievous or illegal activity.  
 __Aladdin’s cave__ The idiom “Aladdin’s cave” refers to a place filled with a vast collection of valuable, interesting, or unusual objects.  
+__all hands on deck__  
 __all hell broke loose__ All sorts of wild or terrible things happened. _When the boss left early for the weekend, all hell broke loose._  
+__all of a sudden__  
+__all things considered__  
 __an earful__  
 __an eye for an eye__  
 __as we speak__  
 __at pains to do something__  
 __at sixes and sevens__  
 __at the top of one’s voice__  
+__at times__  
+__backbiting__  
 __bare metal__ Computer hardware without an operating system. _Right now, my new computer is bare metal, and I can’t wait to build it and configure it just the way I want._  
 __bargain for (someone or something)__  
 __barrow man__ __1__ A boy or man who sells goods (usually fruit, vegetables, or other comestibles) from a handcart (barrow) on the streets. Primarily heard in UK. _Touts, thieves, and barrow men._  
@@ -83,6 +91,7 @@ __beyond the realm(s) of possibility__ Impossible.
 __beyond/within the realms of possibility__ Impossible/possible: _A successful outcome is not beyond the realms of possibility._  
 __big guns__  
 __birthday suit__  
+__brimstone__ _n_  
 __call of nature__ The urge to urinate or defecate. _I have to attend to the call of nature._  
 __case in point__  
 __cash flow__  
@@ -144,8 +153,10 @@ __drape over (something)__ [for cloth] To cover something and hang down. _The ro
 __draw water__  
 __dreamboat__ A very attractive or appealing person.  
 __drum into__ :es: hacer aprender a la fuerza; machacar  
+__dry as a bone__  
 __easy does it__ :dart:  
 __engage (one) as (something)__ To hire someone for a particular role or job. _I thought they were just going to engage me as a file clerk, but because they needed help with data entry, I wound up doing that instead._ :es: contratar  
+__enough is enough__  
 __fall off the perch__ _BrE_ _old-fashioned, informal_ (fall off your perch) If someone falls off the perch or falls off their perch, they die. Note: A perch is a pole, branch or other place where a bird sits to rest. _He fell off the perch years ago._ Note: Other verbs such as drop or topple can be used instead of fall. _He’ll topple off his perch one morning. You know how it is._ Note: This expression is used humorously.  
 __famous last words__ A statement or claim that is promptly undone or disproved. This phrase is often humorously or preemptively. A reference to the final words one says before one dies. _A: “I can’t believe the ER has been so quiet today!” B: “Ugh, famous last words for sure.”_  
 __fancy__ _informal_ __2__ To have a desire for (something).  
@@ -160,6 +171,7 @@ __fire and brimstone__ :two: __1__ _n_ The misery that one faces in hell. The su
 __first come, first served__ The first people present will be the first to receive something, often something that is available in limited quantities.  
 __fit the bill__  
 __flare up__ :es: estallar  
+__flesh and blood__  
 __flit about__ To move in a quick, deft manner. _The kids are outside, trying to catch the lightning bugs that are flitting about._  
 __floor (one)__  
 __flop__ _The film was a flop._  
@@ -193,6 +205,7 @@ __get (one, something) out of the system__
 __get (one’s) bearings__  
 __get (something) out of (one’s) system__ __2__ To do something so that one no longer has the desire to do it anymore. _I got drinking and partying out of my system during college. I’m ready for a quieter life now._  
 __get an earful__  
+__get away with you__  
 __get down to business__  
 __get lucky__ :two: __2__ _slang_ To have sex, especially with someone whom one has only just met.  
 __get my drift__ ((do you) get my drift?) Do you understand the meaning, insinuation, or implication of what I’m saying? _All I’m saying is that I won’t be very sad if she breaks up with her boyfriend—get my drift?_ _I haven’t seen Ike and don’t care for the likes of him, if you get my drift._  
@@ -228,6 +241,7 @@ __go with the territory__ To typically accompany a certain situation; to be a us
 __God rest someone’s soul__ May God bless a previously mentioned person who has died. _I remember what my mother, God rest her soul, used to say about that._  
 __golden hammer__ See _Maslow’s hammer_.  
 __golden__  
+__good gracious__  
 __good grief__ :dart::two: An expression of surprise or frustration. _Oh, good grief—my car won’t start again._  
 __good riddance__ :dart::two: An expression used when one is pleased that someone or something is leaving or stopping. A shortened version of the phrase “good riddance to bad rubbish.” _Well, I didn’t want to talk to you anyway, so good riddance!_  
 __good things come in small packages__ Often the things that have the most value or quality are small; the size of something does not always properly indicate its value.  
@@ -235,6 +249,9 @@ __good to go__
 __good-time Charlie__ An affable, lively, and entertaining man who is often or always seeking pleasure or a good time.  
 __goon__  
 __goop__  
+__grow cold__ To wane or diminish; to lessen in strength over time, especially a feeling, sentiment, or interest. _We had an intense relationship initially, but lately it seems like his affection has grown cold._  
+__half bad__ _The decor didn’t look half bad._  
+__have had a drop too much__  
 __hell no__  
 __hell on earth__  
 __hell-bent__ Very determined to do something, perhaps annoyingly or recklessly so.  
@@ -347,7 +364,7 @@ __insofar as__ :two: To such an extent that; to the degree that. _Insofar as mon
 __inveigle (someone) into (something)__ :smiling_imp: To trick or deceive someone into doing something. _I’m just worried that she’s using the kids to inveigle you into marrying her._  
 __iron grip__ __2__ Total, dominant control (over someone or something).  
 __it ain’t over till/until the fat lady sings__  
-__it figures__ It makes sense; it is as I expected or might have guessed. :es: es lógico  
+__it figures__ :two: It makes sense; it is as I expected or might have guessed. :es: es lógico  
 __it goes without saying__ :two::hammer:  
 __it never rains but it pours__ When something good or bad happens, similarly good or bad things tend to follow.  
 __it remains to be seen__ Something is not yet clear, certain, or known.  
@@ -371,12 +388,14 @@ __jughead__ _slang_ A stupid or foolish person (as if their head is as empty as 
 __juice head__  
 __juicer__ _n_ (juicehead) A heavy drinker; a drunkard. _The tavern is always filled with juicers on Friday night._  
 __jump before (one) is pushed__ To take action willingly or proactively before being forced to do it.  
+__jump in feet first__ To begin or undertake something quickly, enthusiastically, and without trepidation. _I know you’re nervous about starting school, but you just need to jump in feet first and do your best!_  
 __jump in__  
 __jump ship__ (abandon ship) _Nearly all of (chatbot) Pi’s parent company, Inflection AI, decided to jump ship just 10 months after Pi’s launch._  
 __jungle law__  
 __junkyard dog__ An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase “meaner than a junkyard dog.” _Though he’s always polite when he’s in public, Tiffany’s husband is meaner than a junkyard dog behind closed doors._  
 __just deserts__ :dart::pencil2:  
 __just like that__ :two::hammer:  
+__just saying__  
 __just the same (to one)__ Makes no difference one way or another (to one); unimportant (to one) what happens or how. _I’d actually prefer to continue working on a freelance basis, if it’s just the same to you._  
 __keel over__  
 __keen on (someone or something)__  
@@ -438,6 +457,7 @@ __lay (something) at the feet of (someone)__ To make or hold someone, especially
 __lay bare (something)__ To divulge, explain, or reveal something not previously known publicly.  
 __lay the groundwork (for something)__ :two: To create or prepare the basics or essential foundation (for something); to pave the way (for something). _Our success with this healthcare bill wouldn’t be possible, had the previous administration not laid the groundwork already._  
 __laze about__ To relax or spend time idly; to do nothing or very little. _It’s a gorgeous day outside, so you kids get off your butts and quit lazing about!_  
+__leach away__ __1__ To become dissolved, eroded, or carried away, by or as by some percolating liquid. _Nutrients in the soil have continued leaching away as the groundwater become more acidic._ _All emotion had been leached away._ __2__ To dissolve, erode, or carry something away due to percolation. In this usage, a noun or pronoun can be used between “leach” and “away.” _Over time, the saltwater leached the limestone away all along the coastline._  
 __leapfrog over (someone or something)__ :two::hammer:  
 __leaps and bounds__ :dart:  
 __leave (something) out of account__ To ignore something; to pay little or no heed to something. _If you leave the constituents’ opinions out of account on this issue, you can kiss their votes goodbye in the election next fall._  
@@ -454,6 +474,7 @@ __let down (one’s) guard__ To become less guarded or vigilant; to stop being c
 __let down (one’s) hair__ To cease acting formally or conservatively; to let go of one’s inhibitions or reservations. _Come on, Jim, this is a party! Let down your hair and go a little wild!_  
 __let down__  
 __let off (some) steam__ __2__ To release strong emotions or energy by engaging in some kind of enjoyable, vigorous, or relaxing activity. _I went on a run to let off steam after our fight._ _When work gets frustrating, I like to go bowling to let off some steam._  
+__let on__ :es: divulgar  
 __let someone down__  
 __let the good times roll__ To have as much fun or live life as richly as possible. (Often said as an imperative.) _We’ve had another successful year at the company, so everyone enjoy the party and let the good times roll!_  
 __let up (on someone or something)__  
@@ -502,7 +523,7 @@ __lose (one’s) shit__
 __lose steam__ To begin to wane in energy, enthusiasm, or potency.  
 __loss leader__ A product or service offered at or below cost in order to attract customers to a store in the hopes that they will then purchase other items.  
 __lost for words__ (at a loss for words)  
-__loud and clear__  
+__loud and clear__ :two::hammer:  
 __lucky monkey__ The concept of a “lucky monkey” is often associated with good fortune, playfulness, and positive energy.  
 __lurk__  
 __lust for life__  
@@ -513,10 +534,12 @@ __make (one’s)/the rounds__
 __make (oneself) scarce__  
 __make (something) clear (to one)__ :two:hammer:  
 __make a pass at (one)__ :dart: To make sexual advances toward or propositions to one; to hit on one. _Do you think she was making a pass at me, or was she just being nice?_ :es: intentarse ligar a  
+__make advances__ :dart:  
 __make game of (someone or something)__ To ridicule, mock, or tease someone or something; to make fun of someone or something. _I really don’t appreciate you making game of my disability like that._  
 __make it__ __1__ To be successful.  
 __make light of (something)__  
 __Maslow’s hammer__ :dart: The inability to recognize other possible outcomes or solutions if one relies too much on a particular tool, method, or mindset. The term refers to 20th-century psychologist Abraham Maslow and his idea that “If all you have is a hammer, everything looks like a nail.” Also known as the “golden hammer,” and “the law of the instrument.”  
+__mince words__  
 __mixed feelings__  
 __mixed message__  
 __mm-hmm__ _informal_ Yes; yeah. A verbal expression used to express agreement or acknowledgement. Formed by intoning “uh-huh” with a closed mouth.  
