@@ -1,3 +1,4 @@
+__(all) riled up__ Particularly angry, agitated, or in a frenzied state. _Grandpa got all riled up as soon as Uncle Ned mentioned the local election._  
 __(Are) you kidding (me)?__  
 __(as) cool as a cucumber__ _slang_ Calm and composed, especially in times of stress.  
 __(as) good as dead__  
@@ -15,6 +16,7 @@ __(the) top of the line__ The absolute best of a certain thing, often referring 
 __a (whole) host of (something)__  
 __a balancing act__ :dart:  
 __a big if__  
+__a bit dicey__ :two: Carrying a certain degree of risk or danger; uncertain of a favorable outcome.  
 __a bum ankle/leg, etc.__ An injured ankle, leg, etc.  
 __a colf fish__  
 __a dab hand__ Someone who is skilled in a particular area. Primarily heard in UK, Australia.  
@@ -53,6 +55,7 @@ __all things considered__
 __an earful__  
 __an eye for an eye__  
 __as we speak__  
+__at odds__  
 __at pains to do something__  
 __at sixes and sevens__  
 __at the top of one’s voice__  
@@ -93,6 +96,7 @@ __big guns__
 __birthday suit__  
 __brimstone__ _n_  
 __call of nature__ The urge to urinate or defecate. _I have to attend to the call of nature._  
+__call out__  
 __case in point__  
 __cash flow__  
 __cash poor__ Having very little fluid capital due to one’s financial wealth being derived from or invested in long-term assets. _I can’t afford transactions like that right now. All my wealth is tied up in real estate, so I’m a bit cash poor at the moment._  
@@ -155,6 +159,7 @@ __dreamboat__ A very attractive or appealing person.
 __drum into__ :es: hacer aprender a la fuerza; machacar  
 __dry as a bone__  
 __easy does it__ :dart:  
+__eat (one’s) gun__ To commit suicide by shooting oneself in the head through the roof of one’s mouth.  
 __engage (one) as (something)__ To hire someone for a particular role or job. _I thought they were just going to engage me as a file clerk, but because they needed help with data entry, I wound up doing that instead._ :es: contratar  
 __enough is enough__  
 __fall off the perch__ _BrE_ _old-fashioned, informal_ (fall off your perch) If someone falls off the perch or falls off their perch, they die. Note: A perch is a pole, branch or other place where a bird sits to rest. _He fell off the perch years ago._ Note: Other verbs such as drop or topple can be used instead of fall. _He’ll topple off his perch one morning. You know how it is._ Note: This expression is used humorously.  
@@ -165,6 +170,7 @@ __fat chance__ Said of something that is unlikely to happen. :es: vaga posibilid
 __feel like doing something__  
 __few and far between__ :two::hammer:  
 __figure of speech__ A form of expression in language, either spoken or written, that employs nonliteral meaning, unusual construction, or a particular combination of sounds to emphasize or heighten the rhetorical effect. _Bob: “Does eating an apple a day really keep doctors away from you?” Doug: “Don’t take it so literally, Bob, it’s just a figure of speech.”_  
+__fill in__ __4__ To inform one of something. In this usage, a noun or pronoun can be used between “fill” and “in.” _Fill me in—what happened at the party last night?_  
 __fill the gap__  
 __filled to the brim__  
 __fire and brimstone__ :two: __1__ _n_ The misery that one faces in hell. The supposed torments of hell. In the Bible, fire and brimstone are the means of divine punishment for the wicked. _Unrepentant criminals better prepare themselves for fire and brimstone after death._  
@@ -249,6 +255,7 @@ __good to go__
 __good-time Charlie__ An affable, lively, and entertaining man who is often or always seeking pleasure or a good time.  
 __goon__  
 __goop__  
+__grooving__ __2__ Having a good time. _We’re just hanging out and grooving—come join us!_  
 __grow cold__ To wane or diminish; to lessen in strength over time, especially a feeling, sentiment, or interest. _We had an intense relationship initially, but lately it seems like his affection has grown cold._  
 __half bad__ _The decor didn’t look half bad._  
 __have had a drop too much__  
@@ -339,7 +346,7 @@ __in the long run__ Over a relatively long or extended length of time in the fut
 __in the making__  
 __in the midst of (something)__  
 __in the mix__  
-__in the next breath__ (especially when speaking) In or at the very next moment or opportunity; in a very short space of time. _The boss spent nearly an hour talking about how we had to cut spending in the office, but in the next breath, he was telling his secretary to upgrade his company car._  
+__in the next breath__ :two: (especially when speaking) In or at the very next moment or opportunity; in a very short space of time. _The boss spent nearly an hour talking about how we had to cut spending in the office, but in the next breath, he was telling his secretary to upgrade his company car._  
 __in the nick of time__  
 __in the pipeline__ In progress or about to be started or implemented.  
 __in the pocket of (someone)__ Under the direct control or influence of someone or some group, especially through illegal or unscrupulous financial means. _It’s pretty obvious that the country’s legislators are all in the pocket of corporations._  
@@ -555,7 +562,7 @@ __move the dial__
 __move the needle__ _I am concentrating on what moves the needle most._  
 __much obliged__ :dart: __1__ Indebted to someone for their generosity, kindness, or favor. _We are much obliged for all you have done on behalf of our father._ __2__ Thank you very much. _A: “Here’s your jacket, sir.” B: “Much obliged, son.”_  
 __mug shot__ __1__ An official photograph taken of someone being brought into police custody, usually characterized by the person wearing a grim or blank expression on their face.  
-__mugger__ _n_ :two::smiling_imp: Someone, usually a male, who attacks and robs people. _I clobbered the mugger with a tire iron I carry just for such occasions._  
+__mugger__ _n_ :three::smiling_imp: Someone, usually a male, who attacks and robs people. _I clobbered the mugger with a tire iron I carry just for such occasions._  
 __mumbo jumbo__  
 __mussed__ _adj_ Rumpled, tousled or untidy.  
 __nab__ _v_ To catch and arrest someone. Often used in passive constructions.  
@@ -572,12 +579,14 @@ __needless to say__ Obviously implied, no explanation needed.
 __nepo friend__ _n_ /nep-oh frend/ (nepo-friend) The slang term nepo friend refers to a person who is thought to benefit from having a famous or influential friend. The term nepo friend is often used to imply that someone is only famous or successful because of their association with a famous person. The term may be used playfully, but it is often at least mildly negative.  
 __Nervous Nellie__ /nuhr-vuhs NEL-ee/(nervous Nellie/Nelly) Any nervous person, male or female. Someone who is more timid, nervous, or anxious than is normal or reasonable.  
 __no hard feelings__ :es: sin rencores  
+__not know someone from Adam__  
 __not pay (something) any mind__  
 __not so fast__ :three::hammer:  
 __not turn a hair__  
 __not worth the paper it’s written on__ Useless; unimportant; insignificant.  
 __note so self__  
 __nothing ventured, nothing gained__ _proverb_ Risks must be taken in order to achieve anything significant or meaningful.  
+__now and then__  
 __now that I think about it__  
 __now that you’re mentioning it__  
 __nowhere to be found__ Unable to be discovered; completely gone or vanished.  
@@ -645,6 +654,7 @@ __out of (one’s) league__
 __out of nowhere__  
 __out of print__ No longer being printed and sold by a publisher.  
 __over and out__ Said to mark the end of communication between two people. Used especially in radio communication, in which it signals that a person is done speaking and does not expect a reply from the other person. _A: “Oh, and while you’re at the store, could you please get some milk, too?” B: “Sure thing. Over and out.”_  
+__over the edge__  
 __over the phone__ :two: By calling on the telephone. _You can order a pizza over the phone._  
 __pad out__ (pad something out) To fill something with cheaper or unnecessary material in order to make it superficially fuller, larger, or longer. A noun or pronoun can be used between “pad” and “out.” :es: rellenar  
 __part and parcel__ :two: An essential or fundamental part or aspect (of something). _Dealing with tantrums is part and parcel of raising a toddler._  
@@ -686,6 +696,7 @@ __press (something) (up)on (one)__
 __price to pay__  
 __prickteaser__ _slang_ A _prickteaser_ is a slang term with vulgar and derogatory connotations, typically referring to a seductive woman who uses her sex appeal to exploit or manipulate men without following through on implied sexual promises.  
 __prim and proper__ Having very traditional, morally conservative beliefs and behavior.  
+__Prince Charming__ The (hypothetical) perfect man who has all of the traits that one (usually a woman) wants in a romantic partner. _I’d almost given up hope of ever finding my own Prince Charming before I met you!_  
 __prop up__  
 __public eye__ Attention from the general public. Typically used in the phrase “in the public eye.”  
 __pucker up__ __1__ To purse one’s lips together, as when tasting something sour or preparing for a kiss.  
@@ -738,10 +749,13 @@ __scare the crap out of (one)__ _rude slang_ To shock or frighten one very sudde
 __scare the shit out of (one)__ :astonished: _rude slang_ To shock or frighten one very suddenly or severely. (Hyperbolically alludes to frightening someone so badly as to cause them to lose control of their bowels.) _Don’t sneak up on me like that, you scared the shit out of me!_  
 __scheme for (something)__ To form or contrive a secret or devious plan or conspiracy in order to obtain, achieve, or accomplish something. _We spent the afternoon scheming for a way to get into the elite Hollywood party so we could meet some celebrities._  
 __scrape by__  
+__screwup__ _n_ _slang_ _She does not forgive sloppy work on technical screwups._  
 __scumbag__ :smiling_imp:  
 __scupper up__  
 __see (one) in the flesh__ To see one in person who is usually only seen at a distance, especially through a medium such as film, music, theater, etc. _After years of idolizing the singer, it was a bit anticlimactic seeing her in the flesh._  
 __see fit__ :dart: Deem appropriate, as in _He’s entitled to divide up his property as he sees fit_, or _If we see fit to attend, we’ll be there._  
+__see the last of (someone or something)__ To no longer encounter a certain person or thing. Often used in the negative.  
+__seems too good to be true__  
 __seep in(to something)__  
 __seize the day__ To take the opportunity to do something at the present moment without worrying about the future. _This is our time. Let’s seize the day! We may never get a chance to do this again._  
 __seize the hour/day__ Take advantage of the moment, enjoy the here and now. This phrase is a translation of the ancient Roman adage _Carpe diem_, first stated by Horace in one of his _Odes_ (ca. 23 b.c.). Actually, the full statement added _quam minimum credula postero_, trust the future as little as possible.  
@@ -770,15 +784,18 @@ __shrink from (someone or something)__ :dart: __1__ To recede or recoil from som
 __shuffle off__  
 __shut out__  
 __shy away (from someone or something)__  
+__shyster__ :smiling_imp::three: __1__ A practitioner of law who is unethical or immoral. [Think Saul Goodman from _Better call Saul_] _After the accident, I got calls from all sorts of shysters saying I could get rich if I let them sue the company on my behalf._ _Everyone knows she’s a total shyster who’ll go to any length to win her case._ __2__ By extension, someone of a dubious moral or legal standard; a suspected swindler, cheat, or fraud. _The shysters said the car was brand new, but it’s been having all sorts of problems ever since I bought it._  
 __sick__ _slang_ Excellent; superb. _He did some sick tricks on his skateboard._  
 __single file__ A line of things or people, one person or one thing wide. _Please get into single file._ _You have to march single file._  
 __single out__  
 __sit still (for something)__ __2__ To fail or choose not to act in response to something; to endure or tolerate something passively or submissively. _I couldn’t just sit still for condescending, hypocritical remarks, so I gathered my things and walked right out of the building._  
+__sit up__  
 __six in one, (and) half a dozen in the other__ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
 __skive off__ _BrE_ To absent oneself or leave early from school or work when one would normally be required to be there; to play truant. Primarily heard in UK.  
 __slam-bang__  
 __slap in the face__ Words or actions that have offended or otherwise upset someone. _It was a real slap in the face when she got promoted over me, especially after the amount of work I did on that last project._  
-__sleazo__  
+__sleazo__ :two::smiling_imp: An unpleasant, detestable, repellent person, especially one who makes lecherous advances or lewd remarks; a sleazy person. _My last manager was a total sleazo, always implying that he and I should hook up sometime._  
+__sleep in__  
 __sleep like a rock__ To experience a very deep and restful sleep; to sleep soundly.  
 __sleeper hit__ Something, especially a film, that achieves sudden and unexpected acclaim or success after an initial period of relative obscurity or middling results. _Thanks to a brilliantly subtle social media marketing strategy, coupled with highly relevant current events, the film has recently surged in popularity and become something of a sleeper hit._  
 __slice of the pie__  
@@ -798,12 +815,14 @@ __so be it__
 __so much so that__  
 __sock__ :two: _informal_ __2__ _v_ To deliver a sharp, forceful blow.  
 __soft spot__  
+__some people__ :dart: (some people!) Expresses disapproval at the actions of a person; a disapproving response to a person doing something. An expression of disgust over the way certain people act, behave, or function in society.  
 __something of sorts__ An inferior example of a kind of something.  
 __son of a gun__  
 __sort of__ _informal_ Used with adjectives, adverbs and verbs when something is difficult to describe or when the word you use is not exactly what you mean. _My new dress is sort of green._  
 __sort out__  
 __sounds familiar__  
 __sounds like__  
+__spare the rod and spoil the child__  
 __speak (one’s) mind__ To voice one’s thoughts plainly or bluntly.  
 __speed__ _slang_ Any illicit stimulant drug, especially amphetamine or methamphetamine. _We all used to take speed during college to help us study._  
 __spend a penny__ _euphemism_ To go to the toilet. Primarily heard in UK.  
@@ -812,7 +831,7 @@ __square off__
 __stakeout__  
 __stalk out__ To leave (some place) in a haughty, stiff, or threatening manner.  
 __stamp of approval__ An indication of endorsement or authorization of something.  
-__stand a chance__ To have a possibility, however remote, of succeeding; to possibly be able to do something. Often used in the negative to mean the opposite. _If that road is closed, we don’t stand a chance of making it on time._  
+__stand a chance__ :two: To have a possibility, however remote, of succeeding; to possibly be able to do something. Often used in the negative to mean the opposite. _If that road is closed, we don’t stand a chance of making it on time._  
 __stand on (one’s) own (two) feet__ To be strong and independent; to not need the help, guidance, or resources of another person.  
 __stands to reason__  
 __start the ball rolling__ To set something, often a process, in motion; to begin.  
@@ -828,6 +847,7 @@ __strike (one) dead__
 __strike a (raw) nerve__  
 __sucker (one) in__ To con, swindle, or deceive someone.  
 __suicide by cop__  
+__sure as hell__ ((as) sure as hell) _The cops that worked the case didn’t do shit and sure as hell aren’t going to do shit now._  
 __swept the board__  
 __take heart (from something)__ To receive courage or comfort from some fact. _I hope that you will take heart from what we told you today. Even though you did not win the race, take heart from the fact that you did your best. I told her to take heart and try again next time._  
 __take heart__ To have one’s confidence, courage, or happiness bolstered (by something). _We may have lost the election, but we take heart in the fact that so many young people are now engaged and excited about politics._  
@@ -835,6 +855,7 @@ __take on trust__
 __take the fall (for someone or something)__  
 __take umbrage__ :two::hammer:  
 __takedown__ :dart: _slang_ A taking down: the arrest of a suspect by a police officer. _She shot and killed two drug dealers in a takedown that went bad._  
+__talk (one’s) way out of (something)__ To use charming or persuasive speech in order to avoid something, especially punishment. _I still can’t believe you were able to talk your way out of that drunk-driving ticket._  
 __tangle with (someone or something)__ To fight, argue, or engage in a dispute with someone or something.  
 __team up (with one)__  
 __tear up__ __1__ To violently rip or pull someone or something into pieces. In this usage, a noun or pronoun can be used between “tear” and “up.” :es: destrozar  
