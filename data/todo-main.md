@@ -4,13 +4,17 @@ __abound__ _vi_
 __accoutrement__ _n_  
 __acerbic__ _adj_ Sharp or biting, as in character or expression. _Syn_ blistering, caustic, acid, vitriolic, acerb, acrid, sulfurous, virulent, bitter  
 __adversary__ _n_ :mega: /ˈæd vərˌsɛr i/ /ˈædvəsərɪ/ /AD-ver-sair-ee/ _Adversary_ is an enemy or opponent.  
+__affidavit__ _n_  
 __amalgamate__ _v_ /uh-MAL-guh-mayt/ _Amalgamate_ is a formal verb meaning “to unite (two or more things) into one thing.”  
+__apoplexy__ _n_  
 __arbiter__ _n_ One chosen or appointed to judge or decide a disputed issue. _Syn_ arbitrator, umpire  
 __armistice__ _n_ /AHR-muh-stus/  
 __aspersion__ _n_ :smiling_imp:  
 __at__ _prep_ [The preposition _at_ often has connotations of aggression. You _throw_ something _to_ someone if you want them to catch it; if you _throw_ it _at_ them you are trying to hit them. To _laugh at_ someone is to laugh at their expense. Usually we say _talk to_; when Ludlow says _talk at_ (in the movie _Legends of the Fall_) he is saying that his sons are shouting at them without listening to what he has to say in reply.]  
+__audacity__ _n_ :es: osadía  
 __avuncular__ _adj_ uh-VUNG-kyuh-luhr/ Kind, friendly, and helpful, like an uncle, especially in a benevolent or indulgent way.  
 __ballot__ _n_ /ˈbæl ət/ [:scroll: from _ballotta_, the Italian word for “little ball”: when voting was done by the people of Venice during the Renaissance, secrecy was assured by the use of little colored or marked balls] A slip of paper on which a voter marks his or her choice; voting in general.  
+__bay window__ _n_ :two::hammer::camera:  
 __bellwether__ _n_ :dart: __1__ [:scroll: Since long ago, it has been common practice for shepherds to hang a bell around the neck of one sheep in their flock, thereby designating it the lead sheep. (Wether is a male sheep, esp a castrated one.)] Sheep that leads the herd often wearing a bell.  
 __biennial__ _adj_ Happening every second year. _Syn_ biyearly  
 __big game__ _n_ __1__ Large animals or fish hunted or caught for sport.  
@@ -28,6 +32,7 @@ __bobbin__ _n_ A cylinder or cone for holding thread; a spool or reel.
 __bog__ _n_ _A cow grazing in a bog._  
 __boiler suit__ _n_ _BrE_ A one-piece work garment consisting of overalls and a shirt top usually worn over ordinary clothes to protect them.  
 __bollock__ _vt_  
+__bran__ _n_  
 __brandish__ _v_  
 __brat__ _n_  
 __breadcrumbs__ _n pl_ Very tiny pieces of bread. _Dip the fish in egg and breadcrumbs._ :es: pan rallado  
@@ -43,6 +48,7 @@ __burin__ _n_
 __burl__ _vt_  
 __burn (someone or something) to a crisp__  
 __burrow__ _v_  
+__calico__ _n_  
 __clearing bank__ _n_ (in Britain) Any bank that makes use of the central clearing house in London for the transfer of credits and cheques between banks.  
 __close to one’s chest__  
 __close-knit__ _adj_ Held tightly together, as by social or cultural ties: _a close-knit family._  
@@ -50,6 +56,7 @@ __clued up__ _adj_ _BrE_ _informal_ Knowledgeable about a topic or situation; po
 __coda__ _n_  
 __cogitation__ _n_ Thoughtful consideration; meditation. _Syn_ study  
 __compelling__ _adj_  
+__conscientious__ _adj_  
 __contemptuous__  
 __contrive__  
 __copperas__ _n_ /ˈkɒpərəs/ A less common name for ferrous sulphate.  
@@ -63,6 +70,7 @@ __cosmopolitan__ _adj_ :astonished: Pertinent or common to the whole world. _Syn
 __cot death__ _n_ _Br E_ Sudden infant death syndrome.  
 __cottonmouth__ _n_ :camera: [:scroll: so called for the white streak along its mouth] A pit viper, venomous semiaquatic snake of swamps in southern United States. _Syn_ water moccasin  
 __countenance__ _n_  
+__cove__ _n_ :astonished:  
 __cowed__  
 __craft__ _n_ __5__ _crafts_ Items made by craftspeople.  
 __crossly__ _adv_ :dart: In an ill-natured manner. _She looked at her husband crossly._ _Syn_ grouchily, grumpily  
@@ -71,11 +79,14 @@ __crouch<sup>2</sup>__ _v_ Bend one’s back forward from the waist on down. _Sy
 __cursory__ _adj_ /KER-suh-ree/ Something described as cursory has been done or made quickly.  
 __czar__ _n_ __1__ The ruler of Russia until the 1917 revolution. __2__ One having great power or authority. _A banking czar._  
 __Damoclean__ _adj_ /dam-uh-KLEE-uhn/ Involving imminent danger.  
+__damp__ _adj_  
 __dander__ _n_ Temper or anger. _Syn_ hackles _He ’pears to know just how long he can torment me before I get my dander up._  
+__daredevil__ _adj, n_ :es: temerario, atrevido  
 __dart__ _v_  
 __decal__ _n_  
 __defenestration__ _n_ /dee-fen-uh-STRAY-shun/ _Defenestration_ is most often used to refer to a usually swift dismissal or expulsion, as from a political party or office. It is also used to refer to a throwing of a person or thing out of a window.  
 __deign__ _v_  
+__deliverance__ _n_  
 __demob__ _v_  
 __den__ _n_ _The bear’s den._ :es: madriguera  
 __denizen__ _n_  
@@ -105,6 +116,7 @@ __disrepute__ _n_ :es: desprestigio
 __dissatisfied__  
 __distress signal__ _n_  
 __dither__ _v_  
+__divest__ _vt_ :dart:  
 __divide__ _n_  
 __divots__ _n_  
 __dodger__ _n_ __1__ One that dodges or evades: _a skilled dodger of reporters’ questions._  
@@ -118,6 +130,7 @@ __dowsing__ _n_ The practice of prospecting for water or minerals using a divini
 __drapery__ _n_ :two::hammer: /ˈdreɪpərɪ/  
 __draw up__ _v_  
 __drawl__ _v_  
+__dreary__ _adj_  
 __drifter__ _n_ :es: vagabundo  
 __drivel__ _n_ :dart: __1__ Saliva flowing from the mouth. __2__ :dart: Stupid or senseless talk. Nonsense; twaddle. _I’m not interested in his pornographic drivel._  
 __droll__ _adj_  
@@ -153,6 +166,7 @@ __enlightened__ _adj_ _Enlightened despot._
 __ennui__ _n_ :es: desgana  
 __ensconce__ _v_  
 __entanglement__ _n_ /ɛnˈtæŋ gəl mənt/  
+__entreaty__ _n_  
 __entrenched__ _adj_ __1__ Established firmly and securely. _The entrenched power of the nobility._  
 __epaulettes__ _n_  
 __épée__ _n_ /ˈɛpeɪ; _French_ epe/ (epee) :es: espada de esgrima  
@@ -197,7 +211,8 @@ __felony__ _n_ A crime that has a greater punishment imposed by statute than tha
 __ferment__ _n_ :astonished: A state of agitation or turbulent change or development. _Syn_ agitation, fermentation, tempestuousness, unrest  
 __fervent__ _adj_ Having or showing great emotion or zeal. _Syn_ ardent, fervid, fiery, impassioned, perfervid, torrid  
 __festoon__ _vt_  
-__feud__ _v_  
+__feud<sup>1</sup>__ _n_ :dart:  
+__feud<sup>2</sup>__ _v_  
 __feverish__ _adj_  
 __fickle__ _adj_ :dart: Marked by lack of steadfastness, constancy, or stability; given to erratic changeableness.  
 __fiddle-faddle<sup>1</aup>__ _n_ /ˈfɪdəlˌfædəl/ Nonsense.  
@@ -259,7 +274,7 @@ __forelock__ _n_ __1__ A lock of hair growing or falling over the forehead.
 __forename__ _n_ A name before one’s surname; a first name.  
 __forge__ _v_ _A container ship forges south._  
 __form factor__ _n_  
-__fortnight__ _n_ :dart::astonished::two: [:scroll: Middle English fourtenight, alteration of fourtene night, fourteen nights] A period of 14 days; two weeks.  
+__fortnight__ _n_ :dart::astonished::three: [:scroll: Middle English fourtenight, alteration of fourtene night, fourteen nights] A period of 14 days; two weeks.  
 __fortnightly<sup>1</sup>__ _adj_ Happening or appearing once in or every two weeks.  
 __fortnightly<sup>2</sup>__ _adv_ Once in a fortnight.  
 __fortnightly<sup>3</sup>__ _n_ :astonished: A publication issued once every two weeks.  
@@ -340,6 +355,7 @@ __haphazard__
 __haphazardly__ _adv_ In a random manner.  
 __hapless__  
 __harass__ _v_  
+__hard-ass__ _n_ _vulgar slang_ (hardass) One who inflexibly follows or enforces rules.  
 __hard-of-hearing__ _adj_ Having a hearing loss. _Syn_ hearing-impaired  
 __hard-pressed__ _adj_  
 __hare__ _v_  
@@ -383,6 +399,7 @@ __imp__ _n_
 __impasse__ _n_ A situation that is so difficult that no progress can be made. _Syn_ dead end, deadlock, stalemate, standstill  
 __impeccable__  
 __imperviousness__ _n_  
+__impish__ _adj_ :es: pícaro, travieso  
 __inchoate__ _adj_ /in-KOH-ut/ _Inchoate_ is a formal adjective and synonym of _vague_ that describes something that is not completely formed or developed yet.  
 __indefatigable__ _adj_ /in-di-FAT-i-guh-buhl/ __1__ Incapable of being tired out. __2__ Persistently energetic or tireless, even in the face of challenges.  
 __indigenous__ _adj_ /ɪnˈdɪdʒ ə nəs/ __1__ Originating in and characteristic of a particular region or country; native (often fol. by to): _plants indigenous to Canada; indigenous peoples of southern Africa._  
@@ -579,6 +596,7 @@ __missus__ _n_
 __misuser__ _n_ __1__ One that misuses: _a misuser of school property._  
 __miter__ _n_ (mitre) A type of headdress worn by archbishops and bishops.  
 __mitochondrion__ _n_ :pencil2: (_npl_ mitochondria)  
+__moil__ _vi_  
 __moisten__ _v_  
 __mongoose__ _n_  
 __Montserrat__ _n_ An island in the Leeward Islands, in the West Indies: British crown colony.  
@@ -743,6 +761,7 @@ __portent__ _n_
 __portentous__ _adj_ Marvelous.  
 __porter__ _n_ __1__ A person employed to carry luggage, parcels, supplies, etc, esp at a railway station or hotel.  
 __portly__ _adj_ :es: corpulento  
+__posse__ _n_ __2__ A search party.  
 __possess__ _v_  
 __posterity__ _n_ /pɒˈstɛr ɪ ti/ /pɑˈstɛrət̮i/ /pah-STAIR-uh-tee/  
 __potbellied__ _adj_ Having a large belly.  
@@ -768,6 +787,7 @@ __primal__
 __prioritize__ _v_ _We’ll probably go on prioritizing._  
 __prissy__ _adj_ :es: remilgado  
 __privet__ _n_ /ˈprɪv ɪt/ _Clipped privet hedges._  
+__probable cause__ _n_  
 __process server__ _n_ :dart::two: A person who serves subpoenas or other legal documents, esp. those requiring appearance in court.  
 __profligate__ _adj_ :dart:  
 __profusion__ _n_ :dart::astonished:  
@@ -853,6 +873,7 @@ __revelry__ _n_
 __rhotic__ _adj_ :dart:  
 __rollout__ _n_ __1__ The introduction of a new product, service, or policy to the public.  
 __rooftop__ _n_  
+__Rorschach inkblot test__ _n_  
 __rover__ _n_ __1__ A pirate. __2__ A pirate vessel.  
 __rube__ _n_ _You look like a rube._  
 __ruff__ _n_ (Clothing & Fashion)  
@@ -926,6 +947,7 @@ __spliced__ _v_
 __spouting<sup>1</sup>__ _n_ __1a__ A rainwater downpipe on the exterior of a building. __b__ Such pipes collectively.  
 __spouting<sup>2</sup>__ _adj_ Propelled violently in a usually narrow stream. _Syn_ jetting, spurting, squirting  
 __sputnik__ _n_ /ˈspʊt nɪk, ˈspʌt-/ Any of a series of unmanned Soviet satellites, Sputnik 1 (launched in 1957) being the first man-made satellite to orbit the earth.  
+__squabble__ _vi_ /ˈskwɒb əl/  
 __stakeout__  
 __stamp out__ _v_ To extinguish a spark or fire by stamping on it with one’s feet. A noun or pronoun can be used between “stamp” and “out.” _An ember popped out of the fireplace and onto the rug, so I stamped it out before it set the place alight._ _He tossed his cigarette, not bothering to stamp it out._ __2__ To crush or suppress by force: _to stamp out a rebellion._  
 __stamp__ _v_ :dart: __1__ To bring down (the foot) forcibly.  
@@ -991,6 +1013,8 @@ __toil__ _vi_
 __tout__ _n_ __1__ One who solicits customers brazenly or persistently. _Touts, thieves, and barrow men._  
 __townhouse__ _n_  
 __traduce__ _vt_ :smiling_imp:  
+__trifle<sup>1</sup>__ _n_ __1__ A thing of little or no value or significance. __2__ A small amount; bit: _a trifle more enthusiasm._  
+__trifle<sup>2</sup>__ _v_ __1__ _vi_ (usually foll by: _with_) To deal (with) as if worthless; dally. To deal (with) as if worthless; dally: _to trifle with a person’s affections._ __2__ _vt_ To waste (time or money, for example).  
 __uncompromising__ _adj_  
 __unfathomable__ _adj_  
 __unfettered__  
