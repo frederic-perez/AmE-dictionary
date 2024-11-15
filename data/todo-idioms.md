@@ -92,6 +92,7 @@ __betwixt and between__ Conflicted and unable to decide between two options.
 __beyond belief__  
 __beyond the realm(s) of possibility__ Impossible.  
 __beyond/within the realms of possibility__ Impossible/possible: _A successful outcome is not beyond the realms of possibility._  
+__big fat__ _adj_ :dart: __1__ (idiomatic, derogatory) Complete, utter, total. __2__ (idiomatic, colloquial) Huge, colossal. _A big fat lie._  
 __big guns__  
 __birthday suit__  
 __brimstone__ _n_  
@@ -230,7 +231,7 @@ __give (someone) an out__ To provide someone with an excuse or a means of escapi
 __give a flying fuck__ (usually in a negative use, vulgar) To care whatsoever.  
 __give a hiding__ The idiom “give a hiding” primarily means to deliver a severe beating or punishment. This usage is particularly common in British English, where it can refer to both physical punishment and a figurative sense of defeat.  
 __give a shit__  
-__give in to (someone or something)__ _No competent investigator can give in to emotions._  
+__give in to (someone or something)__ :two::hammer: _No competent investigator can give in to emotions._  
 __give or take__  
 __give something a miss__ _I’ll give coffee a miss; I’m off to bed now._  
 __glass cliff__ _n_ A situation in which a woman or minority has advanced professionally at a time when adverse circumstances or crises make it more likely for the person to fail at the job.  
@@ -540,6 +541,7 @@ __make (one’s) eyes pop (out)__
 __make (one’s)/the rounds__  
 __make (oneself) scarce__  
 __make (something) clear (to one)__ :two:hammer:  
+__make a fool of (someone)__  
 __make a pass at (one)__ :dart: To make sexual advances toward or propositions to one; to hit on one. _Do you think she was making a pass at me, or was she just being nice?_ :es: intentarse ligar a  
 __make advances__ :dart:  
 __make game of (someone or something)__ To ridicule, mock, or tease someone or something; to make fun of someone or something. _I really don’t appreciate you making game of my disability like that._  
@@ -597,7 +599,7 @@ __oddly enough__
 __of (one’s) own accord__  
 __of all places__ Being the least expected place compared to anywhere else.  
 __of all stripes__ Of many varieties or types. _You meet people of all stripes when you live in a big city._  
-__of late__  
+__of late__ :two::hammer:  
 __of note__  
 __off again, on again__  
 __off the hook__ :three::hammer:  
@@ -859,13 +861,18 @@ __talk (one’s) way out of (something)__ To use charming or persuasive speech i
 __tangle with (someone or something)__ To fight, argue, or engage in a dispute with someone or something.  
 __team up (with one)__  
 __tear up__ __1__ To violently rip or pull someone or something into pieces. In this usage, a noun or pronoun can be used between “tear” and “up.” :es: destrozar  
-__tell me about it__  
+__tell me about it__ :two::hammer:  
+__thank goodness__  
 __that does the trick__ That is all that was remaining or required to accomplish something. _There, that does the trick. The engine should be as good as new, now!_  
 __that very thing__ Exactly that. _Why, I was just looking for that very thing!_ _You know, I was just about to say that very thing._  
+__the belle of the ball__  
 __the better part of (something)__ :dart::two: The majority of something. _I’m sorry I’m late—my doctor’s appointment took the better part of an hour._  
+__the facts of life__  
 __the golden rule__ :dart: The maxim that one should treat other people the way one would like to be treated, often expressed proverbially as “Do unto others as you would have them do unto you.” _My son wanted to steal the bike of a boy who stole his lunch money, so I told him that the only way to get along with people is to follow the golden rule._  
 __the greatest thing since sliced bread__ A humorous and hyperbolic statement indicating one’s belief that something is excellent, especially something new and innovative. _These waterproof jeans are the greatest thing since sliced bread. I don’t have to worry about getting soaked!_  
 __the law of the instrument__ See _Maslow’s hammer_.  
+__the light at the end of the tunnel__  
+__the likes of you__  
 __the lion’s den__  
 __the powers that be__ :dart::two:  
 __the upper crust__  
@@ -875,18 +882,33 @@ __then again__
 __there is something about__  
 __thick-skulled__ Stupid, dimwitted, or obtuse.  
 __thread the needle__  
+__throw in__ _He is going to throw in every dirty trick he can think of._  
 __throw the book at (one)__ :dart: _The NY Times sure loves throwing the book at AI startups._  
+__thumb one’s nose__  
 __tit for tat__  
+__to hell and back__ Through a difficult, trying, or perilous situation and having overcome it.  
 __to name (but) a few__  
 __to put it mildly__ To understate something; to say something politely. (Note the variation in the examples.) _She was angry at almost everyone—to put it mildly._ _To say she was angry is putting it mildly._ _To put it mildly, she was enraged._  
+__to the contrary__  
 __to this day__  
 __top something off__  
 __touch grass__ To participate in normal activities in the real world especially as opposed to online experiences and interactions.  
 __toughen up__  
+__trials and tribulations__  
 __trick of the light__  
+__trickle down__ :five: __1__ Of a liquid, to flow or seep downward in drops or a thin stream. _As the ice cream melted, it began tricking down Billy’s arm._ _Beer trickled down his bare chest._  
 __trigger-happy__ __2__ Having a tendency to do something or engage in or begin some activity with even the smallest level of enticement or provocation. _Whenever I’m editing, I always get a little trigger-happy with the delete key and end up having to add some things back later._  
 __true colors__  
 __truss someone or something up__ To bind, tie, or bundle someone or something up. _The attendants trussed Walter up and took him to a padded cell._ _They trussed up Walter tightly._ _Ann trussed the bundle up and sent it off._  
+__try one’s hand at something__  
+__turn heads__  
+__turn of phrase__ :dart:  
+__two peas in a pod__  
+__under (ne’s) thumb__ Under another’s authoritarian control; continually forced to submit to another’s will.  
+__under a cloud__ Viewed with suspicion, distrust, or disapproval.  
+__until death us do part__ :dart: A common phrase used in wedding ceremonies indicating that the marriage bond shall be intended to last until death. :es: hasta que la muerte nos separe  
+__walk on water__  
+__wax and wane__  
 __woozy__ :dart:  
 __work for pittance__ To work for very little money.  
 __work like a Trojan__  

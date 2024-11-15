@@ -48,14 +48,21 @@ __burin__ _n_
 __burl__ _vt_  
 __burn (someone or something) to a crisp__  
 __burrow__ _v_  
+__cadge__ _v_  
 __calico__ _n_  
+__carrion__ _n_ :two: :es: carroña  
+__causeway__ _n_  
+__chapped__ _adj_ Used of skin roughened as a result of cold or exposure. _Chapped lips._ _Syn_ cracked, roughened  
 __clearing bank__ _n_ (in Britain) Any bank that makes use of the central clearing house in London for the transfer of credits and cheques between banks.  
 __close to one’s chest__  
 __close-knit__ _adj_ Held tightly together, as by social or cultural ties: _a close-knit family._  
+__clothespin__ _n_ :dart: A device used for hanging wet clothes on a clothesline to dry. :es: pinza  
 __clued up__ _adj_ _BrE_ _informal_ Knowledgeable about a topic or situation; possessing the facts. :es: al tanto (de), al corriente (de)  
 __coda__ _n_  
 __cogitation__ _n_ Thoughtful consideration; meditation. _Syn_ study  
 __compelling__ _adj_  
+__comptroller__ _n_ :es: interventor  
+__conformal__ _adj_ _Math_ Of or designating a map or transformation in which angles and scale are preserved.  
 __conscientious__ _adj_  
 __contemptuous__  
 __contrive__  
@@ -67,12 +74,15 @@ __corrugated__ _adj_ _Syn_ furrowed, channelled, ridged, grooved, wrinkled, crea
 __coruscate__ _v_ /KOR-uh-skayt/  
 __cosmesis__ _n_  
 __cosmopolitan__ _adj_ :astonished: Pertinent or common to the whole world. _Syn_ ecumenical, general, universal, worldwide  
+__cosseted__ _adj_ :dart: (cossetted) /ˈkɒsɪtɪ/ Pampered; spoilt.  
 __cot death__ _n_ _Br E_ Sudden infant death syndrome.  
-__cottonmouth__ _n_ :camera: [:scroll: so called for the white streak along its mouth] A pit viper, venomous semiaquatic snake of swamps in southern United States. _Syn_ water moccasin  
+__cottonmouth__ _n_ :two::camera: [:scroll: so called for the white streak along its mouth] A pit viper, venomous semiaquatic snake of swamps in southern United States. _Syn_ water moccasin  
 __countenance__ _n_  
 __cove__ _n_ :astonished:  
 __cowed__  
 __craft__ _n_ __5__ _crafts_ Items made by craftspeople.  
+__craftsman__ _n_ :pencil2:  
+__crockety__ _n_ Dishes, plates, and similar tableware collectively, usually made of some ceramic material, used for serving food on and eating from.  
 __crossly__ _adv_ :dart: In an ill-natured manner. _She looked at her husband crossly._ _Syn_ grouchily, grumpily  
 __crouch<sup>1</sup>__ _n_ The act of bending low with the limbs close to the body.  
 __crouch<sup>2</sup>__ _v_ Bend one’s back forward from the waist on down. _Syn_ stoop, bend, bow  
@@ -82,7 +92,10 @@ __Damoclean__ _adj_ /dam-uh-KLEE-uhn/ Involving imminent danger.
 __damp__ _adj_  
 __dander__ _n_ Temper or anger. _Syn_ hackles _He ’pears to know just how long he can torment me before I get my dander up._  
 __daredevil__ _adj, n_ :es: temerario, atrevido  
+__darned__  
 __dart__ _v_  
+__dead bolt__ _n_ (deadbolt, dead lock) A locking mechanism distinct from a spring bolt lock because a deadbolt cannot be moved to the open position except by rotating the key.  
+__deadpool__  
 __decal__ _n_  
 __defenestration__ _n_ /dee-fen-uh-STRAY-shun/ _Defenestration_ is most often used to refer to a usually swift dismissal or expulsion, as from a political party or office. It is also used to refer to a throwing of a person or thing out of a window.  
 __deign__ _v_  
@@ -92,9 +105,11 @@ __den__ _n_ _The bear’s den._ :es: madriguera
 __denizen__ _n_  
 __denouement__  
 __deport__ _vt_ __1__ To expel from a country: _deported the foreigner who had entered the country illegally._  
+__deranged__ _adj_ :smiling_imp: Driven insane. _Syn_ crazed, half-crazed  
 __deride__ _vt_ [:scroll: Latin dērīdēre : dē-, de- + rīdēre, _to laugh at_]  
 __descant__ _n_  
 __despicable__  
+__despondent__ _adj_ :two::hammer:  
 __deter__ _v_ :two: /dɪˈtɜr/ /dih-TER/ To _deter_ someone is to discourage or prevent them from acting. To _deter_ a thing is to stop or limit it.  
 __diction__ _n_  
 __diffident__ _adj_  
@@ -108,12 +123,14 @@ __disarmament__ _n_
 __disbar__ _vt_  
 __disbursement__ _n_ /diss-BERSS-munt/ A _disbursement_ is a payout of money from a fund that has been created for a special purpose. _Disbursement_ can also refer to the money that is paid out. _The company has made large disbursements for research._  
 __disengage__ _v_ To release from something that holds fast, connects, or entangles. _Syn_ withdraw  
+__disheveled__ _adj_ :two::hammer:  
 __dishevelled__  
 __disinformation__ _n_  
+__dispel__ _vt_ :es: disipar; desvanecer  
 __dispensary__ _n_  
 __disport__ _v_  
 __disrepute__ _n_ :es: desprestigio  
-__dissatisfied__  
+__dissatisfied__ _adj_ :two: Feeling or exhibiting a lack of contentment or satisfaction.  
 __distress signal__ _n_  
 __dither__ _v_  
 __divest__ _vt_ :dart:  
@@ -616,6 +633,7 @@ __mpox__ _n_ (formerly called _monkey pox_) A zoonotic disease especially of cen
 __muck__ _n_  
 __muddle__ _n_ __1__ A disordered condition; a mess or jumble.  
 __mundane__ _adj_  
+__mush__ _n_  
 __mushroom__ _vi_ __1__ To multiply, grow, or expand rapidly: _The population mushroomed in the postwar decades._  
 __muslin__ _n_  
 __muss__ _vt_ To make messy or untidy; rumple. :es: despeinar; arrugar  
@@ -802,6 +820,7 @@ __puff__ _v_
 __pulse__ _n_ __1__ The edible seeds of certain pod-bearing plants, such as lentils and chickpeas. :es: legumbres __2__ A plant yielding these seeds.  
 __pumpkin spice__ _n_ A mixture of usually cinnamon, nutmeg, ginger, cloves, and often allspice that is commonly used in pumpkin pie.  
 __pundit__ _n_ __1__ A source of opinion; a critic: a political pundit. __2__ A learned person.  
+__pup__ _n_  
 __pustulate__ _adj_ Blemished by imperfections of the skin. _Syn_ acned, pimpled  
 __quadriplegia__ _n_ Complete paralysis of the body from the neck down. Also called tetraplegia.  
 __quagmire__ _n_ An area of miry or boggy ground whose surface yields under the tread.  
@@ -867,6 +886,7 @@ __reify__ _v_ /ˈri əˌfaɪ, ˈreɪ-/ /RAY-uh-fye/ Reifying is about considerin
 __reignite__ _v_  
 __relate__ _v_ _I wish to relate the story in his own words._  
 __repent__ _v_ _He would repent and confess his sins._  
+__reprieve__ _n_  
 __restraint__ _n_  
 __retainer__ _n_ __2__ _Dentistry_ An appliance used to hold teeth in position after orthodontic treatment.  
 __revelry__ _n_  
@@ -940,9 +960,11 @@ __slumbering__ _adj_ __1__ Temporarily inactive. __2__ Sleeping peacefully; quie
 __smolder__ _vi_ __1__ To burn with little smoke and no flame. _Luke saw the smoldering piles which had once been human beings._  
 __smugly__ _adv_  
 __snafu__ _n_  
+__snide__ _adj_ :smiling_imp:  
 __sniveling__ _n_  
 __snuffbox__ _n_ A small, often decorated box with a hinged lid, used for carrying snuff.  
 __spinning jenny__ _n_ An early spinning machine having more than one spindle, enabling a person to spin a number of yarns simultaneously.  
+__splayed__ _adj_ :four::hammer:  
 __spliced__ _v_  
 __spouting<sup>1</sup>__ _n_ __1a__ A rainwater downpipe on the exterior of a building. __b__ Such pipes collectively.  
 __spouting<sup>2</sup>__ _adj_ Propelled violently in a usually narrow stream. _Syn_ jetting, spurting, squirting  
@@ -973,6 +995,7 @@ __stunted__ _adj_ Prevented from growing or developing. _Stunted genitalia._
 __stupefaction__ _n_  
 __sturdy__ _adj_  
 __subcontinent__ _n_  
+__subdued__ _adj_  
 __subdural__ _adj_ Located or occurring beneath the dura mater: _subdural space; a subdural hematoma._  
 __subletting__ _n_ _(property law, real estate)_ Synonym of sublease.  
 __succinctly__ _adv_ With concise and precise brevity; to the point. _Syn_ compactly  
