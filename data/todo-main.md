@@ -964,56 +964,6 @@ __snide__ _adj_ :smiling_imp:
 __sniveling__ _n_  
 __snuffbox__ _n_ A small, often decorated box with a hinged lid, used for carrying snuff.  
 __spinning jenny__ _n_ An early spinning machine having more than one spindle, enabling a person to spin a number of yarns simultaneously.  
-__splayed__ _adj_ :four::hammer:  
-__spliced__ _v_  
-__spouting<sup>1</sup>__ _n_ __1a__ A rainwater downpipe on the exterior of a building. __b__ Such pipes collectively.  
-__spouting<sup>2</sup>__ _adj_ Propelled violently in a usually narrow stream. _Syn_ jetting, spurting, squirting  
-__sputnik__ _n_ /ˈspʊt nɪk, ˈspʌt-/ Any of a series of unmanned Soviet satellites, Sputnik 1 (launched in 1957) being the first man-made satellite to orbit the earth.  
-__squabble__ _vi_ /ˈskwɒb əl/  
-__stakeout__  
-__stamp out__ _v_ To extinguish a spark or fire by stamping on it with one’s feet. A noun or pronoun can be used between “stamp” and “out.” _An ember popped out of the fireplace and onto the rug, so I stamped it out before it set the place alight._ _He tossed his cigarette, not bothering to stamp it out._ __2__ To crush or suppress by force: _to stamp out a rebellion._  
-__stamp__ _v_ :dart: __1__ To bring down (the foot) forcibly.  
-__stasis__ _n_ [:scroll: Greek, _stationariness_] __1__ The state of equilibrium or inactivity caused by opposing equal forces. __2__ Stagnation in the flow of any of the fluids of the body.  
-__station__ _n_ :es: comisaría  
-__stemware__ _n_  
-__stern<sup>1</sup>__ _adj_ :dart: __1__ Hard, harsh, or severe in manner or character: _a stern disciplinarian._ __2__ Showing or expressing displeasure or disapproval; forbidding or harsh: _a stern face; a stern voice._ __3__ Firm or unyielding; uncompromising: _stern resistance._ __4__ Difficult to endure; oppressive: _stern necessity._  
-__stern<sup>2</sup>__ _n_ __1__ _Nautical_ The rear part of a ship or boat. __2__ A rear part or section.  
-__stewardship__ _n_ The position of steward.  
-__stigmata__  
-__stricture__ _n_  
-__strife__  
-__string__ _n_ _The string of the tea bag._  
-__stringent__ _adj_  
-__strobing__ _n_ A brief flashing on and off, as of a stroboscopic lamp.  
-__strong__ _n_ __18__ Having a specified number of units or members: _a military force 100,000 strong._  
-__stub__ _n_ __1__ The usually short end remaining after something bigger has been used up: _a pencil stub; a cigarette stub._  
-__stuffy__ _adj_ :dart:  
-__stump__ _v_ _Walking makes your brain work a little bit better, helping you crack problems that stumped you while sitting._  
-__stumped__ _adj_ _Syn_ baffled, perplexed, at a loss, floored (informal), at sea, stymied, nonplussed, flummoxed  
-__stunned__  
-__stunted__ _adj_ Prevented from growing or developing. _Stunted genitalia._  
-__stupefaction__ _n_  
-__sturdy__ _adj_  
-__subcontinent__ _n_  
-__subdued__ _adj_  
-__subdural__ _adj_ Located or occurring beneath the dura mater: _subdural space; a subdural hematoma._  
-__subletting__ _n_ _(property law, real estate)_ Synonym of sublease.  
-__succinctly__ _adv_ With concise and precise brevity; to the point. _Syn_ compactly  
-__succor__ _n_ /SUCK-er/ _Succor_ is a literary term meaning “something that you do or give to help someone who is suffering or in a difficult situation.”  
-__suffocate__ _v_  
-__suffuse__ _vt_  
-__Sufism__ _n_ The beliefs and practices of an ascetic, retiring, and mystical sect in Islam.  
-__suit__ _n_ Lawsuit.  
-__sultry__ _adj_ __3__ Displaying or suggesting passion; sensual: _sultry eyes._  
-__surreptitious__  
-__swat<sup>1</sup>__ _vt_ To hit sharply; slap; smack: _to swat a fly._  
-__swat<sup>2</sup>__ _n_ A smart blow; slap; smack.  
-__swoop__ _v_  
-__takings__ _n pl_  
-__tap__ _v_ :dart:  
-__tapu<sup>1</sup>__ _n_ /TAH-poo/ A restriction or prohibition; taboo.  
-__tapu<sup>2</sup>__ _adj_ /TAH-poo/ Sacred, restricted, or forbidden.  
-__taunt__ _v_  
 __teeter__ _vi_ :two: __1__ To move or sway unsteadily or unsurely; totter.  
 __teetotaler__ _n_ (teetotaller)  
 __tendril__ _n_ :es: zarzillo  
