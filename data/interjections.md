@@ -49,7 +49,7 @@ __holy guacamole__ An exclamation said when surprised, used when in shock or dis
 __holy moley__ An exclamation of surprise, shock, or astonishment.  
 __Holy Moses__ :two: Used as an exclamation of surprise or amazement.  
 __hosanna__ _n_  
-__huh__  
+__huh__ :three: Used to express interrogation, surprise, contempt, or indifference.  
 __humph__ /hʌmf/ An exclamation of annoyance, dissatisfaction, scepticism, etc.  
 __hurrah__ _n_ A cheer of joy, victory, etc.  
 __ick__ :dart::two: /ɪk/ [:scroll: The interjection _ick_ is closely related to _yuck_ in that it also expresses disgust or repugnance, as if something tastes gross. In contemporary slang, _ick_ has been turned into a noun (_the ick_) to describe the gut feeling of being turned off or disgusted by a (former) romantic interest. According to an article in _Cosmopolitan_ magazine, one of the earliest uses of ick in this way comes from the 1990s television show _Ally McBeal_, whose titular character was a girlboss with some of the worst dating luck on the planet.] Used as an expression of distaste or repugnance.  

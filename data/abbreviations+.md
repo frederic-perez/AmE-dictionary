@@ -204,6 +204,7 @@ __PVC__ Polyvinyl Chloride.
 __PX__ Physical Examination. _You run the PX for these characters?_  
 __Q__ _n_ Character in James Bond films, a quiet genius who understands technology and creates the tools that help Bond do his work.  
 __QCT__ Quantitative CT. A type of CT scan used to measure density of bone in the vertebrae or in the extremities (peripheral QCT), usually the wrist. QCT is rarely used because it is expensive, results in higher radiation exposure, and is less accurate than DEXA, P-DEXA or DPA.  
+__QED__ The initials of the Latin expression _quod erat demonstrandum_, meaning _which was to be shown_ or _proved_. Used in mathematics.  
 __QoE__ Quality of experience.  
 __R/O__ Rule out.  
 __RAF__ _Royal Air Force._  
