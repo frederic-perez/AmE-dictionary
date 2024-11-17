@@ -54,7 +54,7 @@ __all of a sudden__
 __all things considered__  
 __an earful__  
 __an eye for an eye__  
-__as we speak__  
+__as we speak__ :three::hammer:  
 __at odds__  
 __at pains to do something__  
 __at sixes and sevens__  
@@ -77,6 +77,7 @@ __be in for a treat__ To be guaranteed to receive or experience something unexpe
 __be left to (one’s) own devices__ To be left unsupervised or uncontrolled; to be allowed to do as one pleases. _My job is really great: I know what I need to work on and am just left to my own devices._  
 __be like oil and water__ To be incompatible or unable to interact or coexist easily, as due to fundamental differences in personality, opinions, beliefs, etc. _I really wish my boyfriend could get along with my friend Tara, but the two of them are like oil and water._  
 __be my guest__  
+__be on the mend__  
 __be on the safe side__ :dart:  
 __be partial to (someone or something)__ To be particularly fond of someone or something; to have someone or something as one’s favorite or preference.  
 __be real__  
@@ -84,10 +85,12 @@ __be under a cloud__ To be viewed with suspicion, distrust, or disapproval.
 __be up to scratch__  
 __bear (someone or something) in mind__  
 __beat about the bush__ :two: _BrE_ To speak vaguely or euphemistically so as to avoid talking directly about an unpleasant or sensitive topic. Primarily heard in UK.  
+__beauty sleep__  
 __beef up__ To increase something, often in strength. _With all these protestors here, we definitely need to beef up security._  
 __beg to differ__  
 __behind (one’s) back__ In one’s absence. The phrase typically suggests wrongdoing or deceit. _I can’t believe you were gossiping about me behind my back!_  
 __below the belt__ Unfairly targeted at one’s weakness or vulnerability. The phrase refers to boxing, in which hitting an opponent below the waist is prohibited.  
+__better off__  
 __betwixt and between__ Conflicted and unable to decide between two options.  
 __beyond belief__  
 __beyond the realm(s) of possibility__ Impossible.  
@@ -96,6 +99,7 @@ __big fat__ _adj_ :dart: __1__ (idiomatic, derogatory) Complete, utter, total. _
 __big guns__  
 __birthday suit__  
 __brimstone__ _n_  
+__buzzard__ _n_ An old man; a mean old man. (Especially with old.) _Some old buzzard is at the door asking for Mary Wilson._  
 __call of nature__ The urge to urinate or defecate. _I have to attend to the call of nature._  
 __call out__  
 __case in point__  
@@ -110,6 +114,7 @@ __chase the dragon__ :dart: To smoke a controlled substance, often heroin. _I ca
 __check someone or something out__  
 __chicken shit__  
 __chime in__  
+__clean as a whistle__ ((as) clean as a whistle)  
 __clear the table__ To remove objects from a table. This phrase is often said after a meal, as one removes dishes, silverware, and leftover food from the table. _After the meal I cleared the table._  
 __close shave__  
 __cockamamie__ Absurd or ridiculous. _Please don’t get involved in another one of his cockamamie schemes—you know they never pan out._  
@@ -152,17 +157,23 @@ __do shit__ (don’t do shit) _The cops that worked the case didn’t do shit an
 __do the trick__ To do, accomplish, or fulfil exactly what is needed or sought after. _The recipe calls for pancetta, but I think this regular bacon should do the trick._  
 __do-rag__ A scarf, bandana, or similar item tied around the head as a covering. A headcap that covers and protects a hairdo. _Bob says he uses that do-rag to keep his hair out of his face while he mows the lawn._  
 __don’t get me started__  
+__don’t give a rat’s ass__  
 __downer__ :es: tranquilizante  
 __drape (something or oneself) over (someone or something)__ __1__ To lay on a piece of furniture, usually with one’s limbs splayed. In this usage, a reflexive pronoun is used between “drape” and “over.” _John came in and draped himself over the sofa while moaning about his ex-girlfriend._ __2__ To loosely place something over someone or something. In this usage, a noun or pronoun is used between “drape” and “over.” _It wasn’t as cold out when I left the theater, so I just draped my coat over my shoulders._  
 __drape over (something)__ [for cloth] To cover something and hang down. _The robe draped over her knees, but she was still cold._ _The tablecloth draped over and reached down to the floor._  
 __draw water__  
 __dreamboat__ A very attractive or appealing person.  
+__drop dead__  
 __drum into__ :es: hacer aprender a la fuerza; machacar  
+__drum up__  
 __dry as a bone__  
 __easy does it__ :dart:  
 __eat (one’s) gun__ To commit suicide by shooting oneself in the head through the roof of one’s mouth.  
 __engage (one) as (something)__ To hire someone for a particular role or job. _I thought they were just going to engage me as a file clerk, but because they needed help with data entry, I wound up doing that instead._ :es: contratar  
 __enough is enough__  
+__entreat (one’s) to (do something)__  
+__every now and then__  
+__factor in__  
 __fall off the perch__ _BrE_ _old-fashioned, informal_ (fall off your perch) If someone falls off the perch or falls off their perch, they die. Note: A perch is a pole, branch or other place where a bird sits to rest. _He fell off the perch years ago._ Note: Other verbs such as drop or topple can be used instead of fall. _He’ll topple off his perch one morning. You know how it is._ Note: This expression is used humorously.  
 __famous last words__ A statement or claim that is promptly undone or disproved. This phrase is often humorously or preemptively. A reference to the final words one says before one dies. _A: “I can’t believe the ER has been so quiet today!” B: “Ugh, famous last words for sure.”_  
 __fancy__ _informal_ __2__ To have a desire for (something).  
@@ -175,7 +186,9 @@ __fill in__ __4__ To inform one of something. In this usage, a noun or pronoun c
 __fill the gap__  
 __filled to the brim__  
 __fire and brimstone__ :two: __1__ _n_ The misery that one faces in hell. The supposed torments of hell. In the Bible, fire and brimstone are the means of divine punishment for the wicked. _Unrepentant criminals better prepare themselves for fire and brimstone after death._  
+__fire-breathing__  
 __first come, first served__ The first people present will be the first to receive something, often something that is available in limited quantities.  
+__first thing__  
 __fit the bill__  
 __flare up__ :es: estallar  
 __flesh and blood__  
@@ -187,18 +200,22 @@ __fold__ :two: _informal_ __1__ Of a business, to fail or close; to cease to do 
 __follow suit__  
 __food chain__ Used in the phrases “at the top of the food chain” and “at the bottom of the food chain.” __1__ A hierarchy of organisms that transfer food energy between them. The smallest organisms are at the bottom—and they are preyed upon by the larger ones above them in the food chain. _Grizzly bears are at the top of the food chain._ _Phytoplankton are at the bottom of the food chain._ __2__ A hierarchy of people in a group or organization. _As a medical intern, I’m at the bottom of the food chain, but I’ll move up soon enough._  
 __foot the bill__  
+__for (one’s) benefit__ (for somebody’s benefit) Largely (or solely) to help one.  
 __for a charge__ The act of charging someone a fee or price for a service or item.  
 __for a fee__  
 __for all I know__  
 __for better or (for) worse__  
 __for better or worse__  
 __for crying out loud__  
+__for good__  
 __for kicks__ :two::hammer (just for kicks)  
 __for starters__  
 __for the hell of it__ Simply to satisfy a whim; for no reason other than one’s desire to do it. _Oh, let’s just go on a drive for the hell of it. Why do we need to have a destination in mind?_  
 __for the most part__  
+__for the nonce__  
 __for which read__ :dart: _Readjustment, scaling back, for which read — redundancies._ :es: léase  
 __forge ahead__  
+__foul play__  
 __free of charge__  
 __French letter__  
 __Freudian slip__  
@@ -236,6 +253,7 @@ __give or take__
 __give something a miss__ _I’ll give coffee a miss; I’m off to bed now._  
 __glass cliff__ _n_ A situation in which a woman or minority has advanced professionally at a time when adverse circumstances or crises make it more likely for the person to fail at the job.  
 __glimmer of hope__  
+__go an eye out for (someone or something)__ To remain vigilant or carefully watchful for something or someone.  
 __go overboard__ :es: pasarse  
 __go strong__  
 __go through a rough patch__ To experience or be in the midst of a period of trouble, difficulty, or hardship.  
@@ -246,6 +264,8 @@ __go with (someone or something)__
 __go with the flow__ To act as others are acting, conforming to common behavior patterns with an attitude of calm acceptance.  
 __go with the territory__ To typically accompany a certain situation; to be a usual consequence or related issue. _When you’re the boss, staying late at the office just goes with the territory._  
 __God rest someone’s soul__ May God bless a previously mentioned person who has died. _I remember what my mother, God rest her soul, used to say about that._  
+__God’s honest truth__ The absolute, sincere, unequivocal truth.  
+__goes with the job__ The idiom “goes with the job” means that something is an inherent or expected part of a particular job, profession, or role. It implies that certain responsibilities, challenges, or benefits are naturally associated with the job in question.  
 __golden hammer__ See _Maslow’s hammer_.  
 __golden__  
 __good gracious__  
@@ -259,7 +279,9 @@ __goop__
 __grooving__ __2__ Having a good time. _We’re just hanging out and grooving—come join us!_  
 __grow cold__ To wane or diminish; to lessen in strength over time, especially a feeling, sentiment, or interest. _We had an intense relationship initially, but lately it seems like his affection has grown cold._  
 __half bad__ _The decor didn’t look half bad._  
+__harp on (something)__  
 __have had a drop too much__  
+__have it your way__  
 __hell no__  
 __hell on earth__  
 __hell-bent__ Very determined to do something, perhaps annoyingly or recklessly so.  
@@ -371,6 +393,7 @@ __inner circle__
 __insofar as__ :two: To such an extent that; to the degree that. _Insofar as money is concerned, our project will be completely funded by private donations._  
 __inveigle (someone) into (something)__ :smiling_imp: To trick or deceive someone into doing something. _I’m just worried that she’s using the kids to inveigle you into marrying her._  
 __iron grip__ __2__ Total, dominant control (over someone or something).  
+__isn’t that something__ The idiom “isn’t that something” is used to express surprise, amazement, or astonishment at a particular event, situation, or piece of information.  
 __it ain’t over till/until the fat lady sings__  
 __it figures__ :two: It makes sense; it is as I expected or might have guessed. :es: es lógico  
 __it goes without saying__ :two::hammer:  
@@ -455,6 +478,7 @@ __latch onto (someone or something)__
 __latchkey kid__ A child who is home alone after school or in general because their parents or guardians are at work. _I know it makes me sound horrible, but I just don’t want Tommy hanging out with those latchkey kids from down the road._  
 __late model__ Especially regarding an automobile, of a relatively recent design or model. _After I got my promotion, I decided to trade in my clunky old Volkswagen for a snazzy, late model sedan._  
 __laugh in (one’s) sleeve__ To rejoice or be amused secretly and contemptuously, as at another’s mistakes or misfortunes. _Though feigning sympathy, my colleagues are all laughing in their sleeves at me for being stood up at the altar by my fiancée._ _I know it’s mean-spirited, but I can’t help but laugh in my sleeve when I see someone slip on the icy streets._  
+__laugh it off__  
 __laugh something off__ :dart: To treat a serious problem lightly by laughing at it. _Although his feelings were hurt, he just laughed the incident off as if nothing had happened._ _He laughed off the incident._  
 __laughing in the aisles__ Laughing uproariously or hysterically. (Used especially in the phrase “have someone laughing in the aisles.”) _Your jokes are perfect for your speech tonight. You’ll have them laughing in the aisles!_  
 __launder__  
@@ -543,6 +567,7 @@ __make (oneself) scarce__
 __make (something) clear (to one)__ :two:hammer:  
 __make a fool of (someone)__  
 __make a pass at (one)__ :dart: To make sexual advances toward or propositions to one; to hit on one. _Do you think she was making a pass at me, or was she just being nice?_ :es: intentarse ligar a  
+__make a run for (someone or something)__  
 __make advances__ :dart:  
 __make game of (someone or something)__ To ridicule, mock, or tease someone or something; to make fun of someone or something. _I really don’t appreciate you making game of my disability like that._  
 __make it__ __1__ To be successful.  
@@ -557,7 +582,7 @@ __monkey__ :dart: __1__ _slang_ A drug addiction. _Did you hear? Pete checked hi
 __mooch off (of) (someone or something)__ To ask for or obtain (something) through the charity of someone or something; to sponge off someone or something else. _My brother has been mooching off me and my wife ever since he lost his job._  
 __more haste, less speed__ :es: vísteme despacio que tengo prisa  
 __more often than not__ :two: Much of the time.  
-__more than anything__ Very much; very badly. _I wanted to believe her more than anything, but I couldn’t._  
+__more than anything__ :two: Very much; very badly. _I wanted to believe her more than anything, but I couldn’t._  
 __move mountains__ :dart: To do or achieve something that is incredibly difficult.  
 __move on__  
 __move the dial__  
@@ -567,6 +592,7 @@ __mug shot__ __1__ An official photograph taken of someone being brought into po
 __mugger__ _n_ :three::smiling_imp: Someone, usually a male, who attacks and robs people. _I clobbered the mugger with a tire iron I carry just for such occasions._  
 __mumbo jumbo__  
 __mussed__ _adj_ Rumpled, tousled or untidy.  
+__my ass__  
 __nab__ _v_ To catch and arrest someone. Often used in passive constructions.  
 __nada__  
 __nail in the coffin__  
@@ -581,6 +607,7 @@ __needless to say__ Obviously implied, no explanation needed.
 __nepo friend__ _n_ /nep-oh frend/ (nepo-friend) The slang term nepo friend refers to a person who is thought to benefit from having a famous or influential friend. The term nepo friend is often used to imply that someone is only famous or successful because of their association with a famous person. The term may be used playfully, but it is often at least mildly negative.  
 __Nervous Nellie__ /nuhr-vuhs NEL-ee/(nervous Nellie/Nelly) Any nervous person, male or female. Someone who is more timid, nervous, or anxious than is normal or reasonable.  
 __no hard feelings__ :es: sin rencores  
+__no question about it__  
 __not know someone from Adam__  
 __not pay (something) any mind__  
 __not so fast__ :three::hammer:  
@@ -594,6 +621,7 @@ __now that you’re mentioning it__
 __nowhere to be found__ Unable to be discovered; completely gone or vanished.  
 __nowhere to be sound__  
 __numb out__  
+__occur to (one)__ To be (suddenly) realized by one; to come into one’s mind.  
 __odd couple__ A particularly unlikely or mismatched pair of people.  
 __oddly enough__  
 __of (one’s) own accord__  
@@ -621,6 +649,8 @@ __on a roll__
 __on a second thought__ An idiomatic expression that means to reconsider or reevaluate something after initial consideration. It implies that one has had a change of mind or a new perspective after giving more thought to a particular issue or decision.  
 __on a whim__  
 __on and off__  
+__on another subject__  
+__on edge__ Anxious and tense.  
 __on paper__ __2__ Hypothetically or in theory.\_ It’s a good idea on paper, but I don’t think it would work in a real-world environment.\_  
 __on par (with someone or something)__  
 __on the back burner__ Of a low priority; given less or little thought or attention; postponed or suspended.  
@@ -628,6 +658,7 @@ __on the blink__ __1__ _slang_ Not working correctly; acting strangely; malfunct
 __on the brink of (something)__ :two::hammer:  
 __on the contrary__  
 __on the edge of (one’s) seat__  
+__on the go__  
 __on the grounds of__ The phrase “on the grounds of” is primarily used in legal and formal contexts to mean “based on” or “justified by.”  
 __on the line__ __1__ In a state of jeopardy or uncertainty.  
 __on the lookout__ :three: Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
@@ -681,6 +712,7 @@ __piss someone off__
 __pissant<sup>1</sup>__ _n_  
 __pissant<sup>2</sup>__ _adj_  
 __pitch (something) at__  
+__play God__ To have a huge affect on or great power over someone’s life, livelihood, health, or happiness. Behave as if all-powerful or supremely important.  
 __play havoc with (someone or something)__ To cause issues or disruptions for someone or something. _The road closures have played havoc with rush-hour traffic._  
 __play possum__ :es: hacerse el muerto  
 __play second fiddle__  
@@ -688,7 +720,7 @@ __plop down__ _informal_ __1__ To sit or lie down in a heavy or careless way. _H
 __plowed over__ Being overwhelmed or completely defeated by something.  
 __plunger__ _n_ /ˈplʌndʒə/ __3__ _informal_ A reckless gambler.  
 __point the finger at (one)__  
-__poke around__ :three: To investigate, search through, or snoop around something or some place.  
+__poke around__ :four: To investigate, search through, or snoop around something or some place.  
 __poke into (someone or something)__  
 __pop up (some place)__ To appear suddenly and unexpectedly some place. _I never know where Henry is going to pop up next._ _A new problem has popped up._  
 __poppers__ Drugs of the alkyl nitrate class used recreationally as a sexual stimulant, especially among gay men. Amyl nitrite became popular in the 60s especially with the male gay community becase it relaxes the muscles, making anal intercourse easier.  
@@ -712,6 +744,7 @@ __put off by someone or something__ Distressed or repelled by someone or somethi
 __put off__ __1__ _v_ To deter, annoy, or repel. A noun or pronoun can be used between “put” and “off.” _I don’t know if you realize how much you put people off with your attitude._  
 __put on a good/poor/etc. show__  
 __put up with (someone or something)__ To abide or endure someone or something that one finds unpleasant, inconvenient, or annoying.  
+__put up with__  
 __quite a few__ (quite a lot; quite a bit; quite a number)  
 __racket__ :smiling_imp: __2__ A fraudulent scam or money-making operation. _He’s always cooking up some racket or another to get rich quick._  
 __rags to riches__ Characterized by a rise from poverty to great or exceptional wealth. Hyphenated if used as a modifier before a noun.  
@@ -748,6 +781,7 @@ __same shit, new wrapping__ Colloquial expression that conveys the idea that som
 __save (one’s) bacon__  
 __says who__  
 __scare the crap out of (one)__ _rude slang_ To shock or frighten one very suddenly or severely. Hyperbolically alludes to frightening one so badly as to cause them to lose bowel control.  
+__scare the hell out of someone__  
 __scare the shit out of (one)__ :astonished: _rude slang_ To shock or frighten one very suddenly or severely. (Hyperbolically alludes to frightening someone so badly as to cause them to lose control of their bowels.) _Don’t sneak up on me like that, you scared the shit out of me!_  
 __scheme for (something)__ To form or contrive a secret or devious plan or conspiracy in order to obtain, achieve, or accomplish something. _We spent the afternoon scheming for a way to get into the elite Hollywood party so we could meet some celebrities._  
 __scrape by__  
@@ -775,6 +809,7 @@ __shine a light__
 __shipping and handling__ The costs associated with packaging and delivering a product to the person who bought it. _Our top line of vacuum cleaners is now only $250, plus shipping and handling._  
 __shipshape and Bristol fashion__  
 __shit (one’s) pants__ __2__ _rude slang_ By extension, to be very surprised. _When I saw that the magazine had published my letter to the editor, I practically shit my pants!_ _Shit-your-pants scared._  
+__shit__ __3__ _v_ _vulgar_ _slang_ To fool, deceive, or trick (someone). Usually used to express disbelief. _We have to come in and work on Saturday, too? You’ve got to be shitting me!_ _I promise I’m not shitting you—these figures are very real._  
 __shoot (oneself) in the foot__  
 __shop around (for something)__ :dart::three: To browse different stores, vendors, or selections to find the best price or option for something one wants to buy.  
 __short-handed__ :es: falto de personal  
@@ -787,6 +822,7 @@ __shuffle off__
 __shut out__  
 __shy away (from someone or something)__  
 __shyster__ :smiling_imp::three: __1__ A practitioner of law who is unethical or immoral. [Think Saul Goodman from _Better call Saul_] _After the accident, I got calls from all sorts of shysters saying I could get rich if I let them sue the company on my behalf._ _Everyone knows she’s a total shyster who’ll go to any length to win her case._ __2__ By extension, someone of a dubious moral or legal standard; a suspected swindler, cheat, or fraud. _The shysters said the car was brand new, but it’s been having all sorts of problems ever since I bought it._  
+__sick at heart__  
 __sick__ _slang_ Excellent; superb. _He did some sick tricks on his skateboard._  
 __single file__ A line of things or people, one person or one thing wide. _Please get into single file._ _You have to march single file._  
 __single out__  
@@ -815,6 +851,7 @@ __sneak peek__
 __snort at (someone or something)__  
 __so be it__  
 __so much so that__  
+__soaking wet__ Completely drenched.  
 __sock__ :two: _informal_ __2__ _v_ To deliver a sharp, forceful blow.  
 __soft spot__  
 __some people__ :dart: (some people!) Expresses disapproval at the actions of a person; a disapproving response to a person doing something. An expression of disgust over the way certain people act, behave, or function in society.  
@@ -843,8 +880,10 @@ __steely-spined__ :dart: __2__ Determined and resolved. _You’ll never be able 
 __step in__ To enter into some position, activity, or situation to intervene or improve it.  
 __stick around__ To remain or linger in one location; to not leave or abandon (someone or something). _Hey, stick around for a minute, I need to talk to you._  
 __stiff upper lip__ :two: :es: guardar la compostura  
+__sting operation__ :dart::smiling_imp:  
 __stir-crazy__ Acutely restless, irritable, or anxious from remaining for too long in an isolated, confined, or unstimulating environment. “Stir” in this usage is a slang word for prison. _We thought taking our family vacation in a tiny cottage out in the country would be a nice break from city life, but we all went a bit stir-crazy after a few days._  
 __stone dead__ Dead; unquestionably dead; long dead. _The cat was stone dead and stiff as a board by the time we got to him._  
+__stonewall__ To be evasive, noncompliant, or uncooperative; to employ delaying or obstructive tactics. Can be used either transitively or intransitively.  
 __strike (one) dead__  
 __strike a (raw) nerve__  
 __sucker (one) in__ To con, swindle, or deceive someone.  
@@ -874,7 +913,7 @@ __the law of the instrument__ See _Maslow’s hammer_.
 __the light at the end of the tunnel__  
 __the likes of you__  
 __the lion’s den__  
-__the powers that be__ :dart::two:  
+__the powers that be__ :dart::three:  
 __the upper crust__  
 __the upshot (of something)__ :dart::two: The final or resulting outcome, conclusion, or consequence (of something). _The upshot of this merger is that the company will now control nearly 50% of the world’s television networks._  
 __the works__ :two::hammer:  
@@ -904,12 +943,16 @@ __try one’s hand at something__
 __turn heads__  
 __turn of phrase__ :dart:  
 __two peas in a pod__  
+__uh-huh__  
 __under (ne’s) thumb__ Under another’s authoritarian control; continually forced to submit to another’s will.  
 __under a cloud__ Viewed with suspicion, distrust, or disapproval.  
 __until death us do part__ :dart: A common phrase used in wedding ceremonies indicating that the marriage bond shall be intended to last until death. :es: hasta que la muerte nos separe  
+__uppity__ _adj_ _informal_ Haughtily arrogant, conceited, or self-important.  
 __walk on water__  
 __wax and wane__  
+__with each passing day__ (with each passing moment) As time continues to pass, day by day.  
 __woozy__ :dart:  
+__word is__ ((the) word is)  
 __work for pittance__ To work for very little money.  
 __work like a Trojan__  
 __work out__  
@@ -917,7 +960,8 @@ __world without end__ :dart: For ever and ever; until the end of time. This unus
 __worm__ :smiling_imp: A contemptible person. _He’s such a little worm, agreeing with whatever the boss says if he thinks it will get him ahead._  
 __wrangle with (something)__ To struggle to understand, solve, or deal with something.  
 __y’all__ :two::hammer:  
-__yada yada yada__  
+__yada yada yada__ :two::hammer:  
+__yellow__ _mod_ Cowardly. _A: Mooshoo says you’re yellow. B: Wanna make something of it?_ :es: miedica  
 __you are what you eat__ One’s overall health is linked to one’s eating habits. The phrase is often used to promote proper nutrition.  
 __you bet__  
 __you could hear the grass grow(ing)__  

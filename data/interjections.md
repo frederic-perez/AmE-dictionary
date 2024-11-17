@@ -57,7 +57,7 @@ __jeepers__
 __jeez__ :two: Used to express surprise or annoyance.  
 __kablooey__ :two: Used to indicate an explosion.  
 __kaboom__  
-__lordy__ _chiefly US and Canadian_ An exclamation of surprise or dismay.  
+__lordy__ :two: /ˈlɔːdɪ/ _chiefly US and Canadian_ An exclamation of surprise or dismay.  
 __lulz__ _n pl_ :two: /lʌlz/ (lolz) [:scroll: _Lulz_ comes from the internet acronym LOL, meaning “laugh out loud.” When used as an interjection in speech or in writing, _lulz_ expresses humor or delight, often with an ironic or sarcastic edge. _Lulz_ is sometimes used as a noun meaning roughly “fun,” as in “I did it for the _lulz_.”] Laughs at someone else’s or one’s own expense.  
 __meep__ :two: [:scroll: The sound is closely associated with two classic pop culture icons: Warner Bros. cartoon character Road Runner and Beaker, the lab assistant in the Muppets.] Used to express cute surprise or cutesy awkwardness.  
 __meh__ :four: [:scroll: It was popularized by _The Simpsons_ in the 1990s and later evolved into an adjective meaning “mediocre” or “of middling quality,” particularly in online contexts, as in “I thought the chicken soup was a bit _meh_.”] Used to express indifference, apathy, boredom, indifference, depression, or blandness.  

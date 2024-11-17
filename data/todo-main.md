@@ -25,6 +25,7 @@ __aura__ _n_ /ˈɔr ə/
 __avionics__  
 __avouch__ _vt_  
 __avuncular__ _adj_ uh-VUNG-kyuh-luhr/ Kind, friendly, and helpful, like an uncle, especially in a benevolent or indulgent way.  
+__awry__ _adj, adv_  
 __ballot__ _n_ /ˈbæl ət/ [:scroll: from _ballotta_, the Italian word for “little ball”: when voting was done by the people of Venice during the Renaissance, secrecy was assured by the use of little colored or marked balls] A slip of paper on which a voter marks his or her choice; voting in general.  
 __bawling__ _n_ _Now you quit your bawling, honey._  
 __bay window__ _n_ :two::hammer::camera:  
@@ -44,6 +45,7 @@ __blithely__ _adv_ In a joyous manner.
 __block printing__ _n_ _(Art Terms)_ Printing from hand engraved or carved blocks of wood or linoleum.  
 __blood sport__ _n_ Any sport involving killing or the shedding of blood, as bullfighting, cockfighting, or hunting. Any sport involving the killing of an animal, esp hunting.  
 __bloodletting__ _n_  
+__bloodshot__ _adj_  
 __blubbering__  
 __blueberry cobbler__  
 __bluebird__ _n_  
@@ -59,6 +61,7 @@ __Bondo__ _n_ A trademark for a variety of materials used to repair automobile b
 __bookend__ _n_ :camera:  
 __booker__ _n_  
 __boom__ _n_  
+__boxwood__ _n_  
 __bran__ _n_  
 __brandish__ _v_  
 __brat__ _n_  
@@ -234,6 +237,7 @@ __epaulettes__ _n_
 __épée__ _n_ /ˈɛpeɪ; _French_ epe/ (epee) :es: espada de esgrima  
 __Equity__ _n_ :astonished: /ˈɛkwɪtɪ/ _Theatre_ The actors’ trade union. Full name: Actors’ Equity Association  
 __equivocacy__ _n_ /i-KWIV-uh-kuh-see/ The quality of being deliberately ambiguous or vague.  
+__equivocal__ _adj_  
 __ethos__ _n_ /EE-thahss/ _Ethos_ refers to the guiding beliefs of a person, group, or organization. :es: espíritu; escala de valores _The company made environmental awareness part of its business ethos._  
 __euphoria__ _n_ /yoo-FOR-ee-uh/ _Euphoria_ refers to a feeling of great happiness and excitement.  
 __eurythmy__ _n_  
@@ -262,6 +266,7 @@ __far-flung__ _adj_
 __farsighted__ _adj_ Planning prudently for the future. _Syn_ foresighted, long, longsighted, prospicient  
 __fascia__  
 __fascism__ _n_ (sometimes capital)  
+__fastidious__  
 __faze__ _v_  
 __fazed__ _adj_ /feɪzd/ Disconcerted; worried; disturbed.  
 __fealty__ _n_ /FEE-ul-tee/ _Fealty_ is an old-fashioned and somewhat literary word that refers to intense loyalty or fidelity to a person, group, etc. More narrowly, _fealty_ refers to the fidelity of a vassal or feudal tenant to their lord.  
@@ -401,9 +406,11 @@ __goo__ _n_
 __Goodwill__ _n_ A charity organization that collect old clothes for resale.  
 __gopher__ _n_ :es: ardilla  
 __gossamer__ _adj_ /GAH-suh-mer/ Something described as _gossamer_—such as a butterfly wing or a thin fabric—is very light or delicate.  
+__gouge__ _vt_  
 __grill pan__ _n_ :camera: A type of frying pan with raised ridges or grooves on the cooking surface that simulate the char marks of an outdoor grill.  
 __gripping__ _adj_ :es: con gancho  
 __groan__ _n_  
+__ground effect__ _n_ Apparent increase in aerodynamic lift experienced by an aircraft flying close to the ground.  
 __grovel__ _vi_  
 __grueling__ _adj_ /ˈgru ə lɪŋ, ˈgru lɪŋ/  
 __grunt__ _n_  
@@ -652,6 +659,7 @@ __microfiche__ _n_ /ˈmaɪ krəˌfiʃ/ A flat sheet of microfilm, containing rep
 __mid__ _adj_ _Mid_ is a slang term used to describe something or someone as mediocre or of low quality.  
 __midriff__  
 __mild-mannered__ _adj_ Gentle and polite. :es: apacible  
+__mildew__  
 __militia__ _n_ /mɪˈlɪʃ ə/  
 __millpond__ _n_ __1__ A pool formed by damming a stream to provide water to turn a millwheel.  
 __mince__ _v_  
@@ -739,6 +747,7 @@ __obsequious__ _adj_
 __occasional__ _adj_ :three::hammer:  
 __October surprise__ _n_ A significant revelation or event in the month prior to an election that has the potential to shift public opinion about an election candidate and that is often orchestrated to influence the election’s outcome.  
 __odd-job man__ _n_ A man skilled in various odd jobs and other small tasks.  
+__off-key__ _adj_  
 __offbeat__ _adj_ :two::hammer: :es: poco convencional  
 __omniscient__ _adj_ /ahm-NISH-unt/ _Omniscient_ describes someone or something with unlimited knowledge or understanding.  
 __over-the-hill__  
@@ -764,6 +773,7 @@ __patsy__ _n_ :smiling_imp: A person easily taken advantage of, cheated, blamed,
 __patty__ _n_  
 __paucity__ _n_ Smallness of number; fewness. _Syn_ dearth  
 __pauperism__ _n_ A state of extreme poverty or destitution. _Syn_ indigence, penury, need  
+__payload__ _n_  
 __payslip__ _n_ (pay slip) A piece of paper received by an employee showing how much salary they have been paid.  
 __peal__ _n_ :two: __1__ A ringing of a set of bells, especially a change or set of changes rung on bells. __2__ A set of bells tuned to each other; a chime. __3__ A loud burst of noise: _peals of laughter._  
 __peanut brittle__ _n_ A hard toffee containing peanuts.  
@@ -967,12 +977,14 @@ __rummage__ _v_ :two::hammer:
 __rundown__ _n_ :two: __1__ A point-by-point summary.  
 __russet<sup>1</sup>__ _n_ __1__ Yellowish brown, light brown, or reddish brown.  
 __russet<sup>2</sup>__ _adj_ Yellowish brown, light brown, or reddish brown.  
+__rustle__ _v_  
 __rustle<sup>1</sup>__ _v_ /ˈrʌsəl/ __1__ To make or cause to make a low crisp whispering or rubbing sound, as of dry leaves or paper. __2__ To move with such a sound.  
 __rustle<sup>2</sup>__ _n_ The sound made by rustling.  
 __sales floor__ _n_ The part of a business devoted to retail activities, such as a showroom or selling area of a shop or department store, usually manned by sales staff and having free public access with goods on display.  
 __sandspur__ _n_ _(Plants)_ An American wild grass.  
 __sanguinary__ _adj_ Accompanied by bloodshed. _Syn_ butcherly, gory, slaughterous  
 __saunter__ _vi_ :two: To walk or stroll about without much purpose or hurry.  
+__savaged__ _adj_  
 __scamper__ _vi_  
 __scapegoat__ _n_ /SKAYP-goat/  
 __scathing__ _adj_ :es: mordaz, feroz  
@@ -994,8 +1006,8 @@ __seedy__ _adj_
 __seething__ _v_  
 __senescent__ _adj_ /si-NES-uhnt/ __1__ Growing old; aging. __2__ Deteriorating or decaying with the passage of time.  
 __shapeshift__ _vi_ (biology, fantasy, mythology) To change one’s shape or form (into another) through often magical means, normally applied only to living beings.  
-__shinny__ _vi_ To climb by shinning.  
 __shear__ _v_ (shorn)  
+__shinny__ _vi_ To climb by shinning.  
 __shortlisted__  
 __shortsighted__ _adj_  
 __shove__ _v_ :two::hammer:  
@@ -1035,8 +1047,10 @@ __snuffbox__ _n_ A small, often decorated box with a hinged lid, used for carryi
 __spinning jenny__ _n_ An early spinning machine having more than one spindle, enabling a person to spin a number of yarns simultaneously.  
 __stilted__ _adj_  
 __stray__ _v_  
+__strobe__ _n_ __3__ A spot of higher than normal intensity in the sweep of an indicator, as on a radar screen, used as a reference mark for determining distance.  
 __swashbuckler__ _n_ :es: espadachín; intrépido  
 __swat__ _v_ _He swats a fly._  
+__swoop__ _v_  
 __taunt__ _n_  
 __teeter__ _vi_ :two: __1__ To move or sway unsteadily or unsurely; totter.  
 __teetotaler__ _n_ (teetotaller)  
@@ -1050,6 +1064,7 @@ __throb__ _v_ _He made me throb with joy._ :es: latir con fuerza; sentir pinchaz
 __thromboembolism__ _n_  
 __thrombosis__ _n_  
 __thrum__ _v_ :two::hammer:  
+__thrumming__ _n_  
 __thug__ _n_  
 __thunk__ _n_  
 __till__ _n_ :es: caja registradora  
@@ -1064,6 +1079,7 @@ __traduce__ _vt_ :smiling_imp:
 __trifle<sup>1</sup>__ _n_ __1__ A thing of little or no value or significance. __2__ A small amount; bit: _a trifle more enthusiasm._  
 __trifle<sup>2</sup>__ _v_ __1__ _vi_ (usually foll by: _with_) To deal (with) as if worthless; dally. To deal (with) as if worthless; dally: _to trifle with a person’s affections._ __2__ _vt_ To waste (time or money, for example).  
 __trot__ _v_  
+__tuck__ _v_  
 __uncompromising__ _adj_  
 __unfathomable__ _adj_  
 __unfettered__  
@@ -1075,6 +1091,7 @@ __urbane__ _adj_ :astonished:
 __usher in__  
 __wad__ _v_  
 __wagonette__ _n_ :camera: (waggonette) A light four-wheeled horse-drawn vehicle with two lengthwise seats facing each other behind a crosswise driver’s seat.  
+__waylaid__  
 __weak coffee__ _n_ :dart: _Weak coffee_ generally refers to a brew that has a lower concentration of coffee grounds relative to the amount of water used during brewing. This results in a drink that is often perceived as watery or lacking in robust flavor.  
 __weathervane__ _n_  
 __wharf__ _n_ A platform built out from the shore into the water and supported by piles; provides access to ships and boats. _Syn_ pier, wharfage, dock  
