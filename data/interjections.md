@@ -49,7 +49,7 @@ __holy guacamole__ An exclamation said when surprised, used when in shock or dis
 __holy moley__ An exclamation of surprise, shock, or astonishment.  
 __Holy Moses__ :two: Used as an exclamation of surprise or amazement.  
 __hosanna__ _n_  
-__huh__ :three: Used to express interrogation, surprise, contempt, or indifference.  
+__huh__ :five: Used to express interrogation, surprise, contempt, or indifference.  
 __humph__ /hʌmf/ An exclamation of annoyance, dissatisfaction, scepticism, etc.  
 __hurrah__ _n_ A cheer of joy, victory, etc.  
 __ick__ :dart::two: /ɪk/ [:scroll: The interjection _ick_ is closely related to _yuck_ in that it also expresses disgust or repugnance, as if something tastes gross. In contemporary slang, _ick_ has been turned into a noun (_the ick_) to describe the gut feeling of being turned off or disgusted by a (former) romantic interest. According to an article in _Cosmopolitan_ magazine, one of the earliest uses of ick in this way comes from the 1990s television show _Ally McBeal_, whose titular character was a girlboss with some of the worst dating luck on the planet.] Used as an expression of distaste or repugnance.  
@@ -91,15 +91,16 @@ __tsk__ Used to express disappointment or sympathy. Used, often in quick repetit
 __uff da__ :dart::two: (oof-da, oofda, oof-dah, oofdah, huffda, uff-da, uffda, uff-dah, ufda, ufdah, uf daa) [:scroll: You may have heard the interjection _uff da_ in the classic Coen brothers film _Fargo_ (1996), which is set in North Dakota. In fact, actor Kirsten Dunst described it to the Hollywood Reporter as “one of [her] favorite phrases” in Upper Midwestern English.] An exclamation or interjection used to express dismay, often when hearing about bad things or when something bad happens. _Uff da_ frequently translates to: “I am overwhelmed.”  
 __ugh__ :four: Used to express disgust, aversion, horror, or other related emotions.  
 __uh__ A representation of a common sound made when hesitating in speech.  
-__uh-oh__ :two: Used to express alarm, foreboding, or dismay. _My “uh-oh” bell rings._ _Uh-oh, we can’t seem to find the page you’re looking for._  
+__uh-oh__ :three: Used to express alarm, foreboding, or dismay. _Uh-oh! The boys in white [stormtroopers] are back._ _My “uh-oh” bell rings._ _Uh-oh, we can’t seem to find the page you’re looking for._  
 __whammo__ _slang_ Used to indicate the startling abruptness of a sound, action, or event: _“The alarm goes off and—whammo!—we’re all at our assigned stations.” (Meg Greenfield)._  
 __what<sup>5</sup>__ :mute:[w~~h~~at]  
 __whee__ :two: Used to express extreme pleasure or enthusiasm.  
-__whew__ :two: Used to express strong emotion, such as relief or amazement.  
+__whew__ :three: Used to express strong emotion, such as relief or amazement.  
 __whoa__ :dart::three: __1__ Used as a command to stop, as to a horse. __2__ Used to express surprise, amazement, or great pleasure.  
 __why__  
 __wilco__ Used especially in radio communications to indicate agreement or compliance.  
 __woohoo__ _informal_ :three: /wʊˈhuː/ (woo hoo, woo-hoo) An exclamation of joy, approval, etc.  
+__yahoo__  
 __yahoo<sup>2</sup>__ Expressing excitement, delight, or triumph.  
 __yay__ :seven: Used as an exclamation of pleasure, approval, elation, or victory. _Yay, Giants!_ _Syn_ hooray, hurrah  
 __yeet__ _informal, slang, humorous_ Used to express excitement or approval.  

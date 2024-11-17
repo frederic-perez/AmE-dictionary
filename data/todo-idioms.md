@@ -204,6 +204,7 @@ __for (one’s) benefit__ (for somebody’s benefit) Largely (or solely) to help
 __for a charge__ The act of charging someone a fee or price for a service or item.  
 __for a fee__  
 __for all I know__  
+__for all practical purposes__ (for (all) practical purposes) In reality; basically. As might be reasonably expected; essentially. _For all practical purposes, this is simply a matter of right and wrong._ _For all practical purposes, I might as well have not handed in this proposal at all, with how swiftly the board rejected it._  
 __for better or (for) worse__  
 __for better or worse__  
 __for crying out loud__  
@@ -225,6 +226,7 @@ __full-fledged__
 __fussbudget__ :dart: _informal_ One who tends to be fussy or particular, usually to an excessive or unnecessary degree. Primarily heard in US. _Don’t be such a fussbudget, huh? This really isn’t a big deal._ _Of course Vanessa found some miniscule issue that no one else would have noticed. She’s such a fussbudget._  
 __gain momentum__ (gather momentum) To move faster. _The wagon gathered/gained momentum as it rolled down the hill._  
 __gallows humor__ :dart: Humorous treatment of a grave or dire situation. :es: humor negro  
+__gantry officer__ In the Star Wars universe, a _Gantry Officer_ is a specific Imperial military role, typically associated with the Death Star. These officers wear distinctive black uniforms and are part of the ship’s crew.  
 __get (one, something) out of the system__  
 __get (one’s) bearings__  
 __get (something) out of (one’s) system__ __2__ To do something so that one no longer has the desire to do it anymore. _I got drinking and partying out of my system during college. I’m ready for a quieter life now._  
@@ -235,6 +237,7 @@ __get lucky__ :two: __2__ _slang_ To have sex, especially with someone whom one 
 __get my drift__ ((do you) get my drift?) Do you understand the meaning, insinuation, or implication of what I’m saying? _All I’m saying is that I won’t be very sad if she breaks up with her boyfriend—get my drift?_ _I haven’t seen Ike and don’t care for the likes of him, if you get my drift._  
 __get on famously__ To have an exceptionally good relationship (with someone); to get along very well. _I’m glad you finally got to meet my brother—I knew you two would get on famously._  
 __get on like a house afire__ Of two or more people, to enjoy one another’s company very much from the start and become good friends at once. (Used when people are meeting for the first time.) _I can’t wait for you to meet Mark, I just know the two of you will get on like a house afire!_  
+__get set__ (get (all) set) To become prepared or excited (for or to do something). _Well, gest set, Chewie. We’re going to have company._  
 __get something out of the way__ :dart: Deal with a task or difficulty so that it is no longer a problem or worry. _I’m glad I’ve got that visit to the dentist out of the way._  
 __ghosting__ _slang_  
 __gig__  
@@ -276,8 +279,10 @@ __good to go__
 __good-time Charlie__ An affable, lively, and entertaining man who is often or always seeking pleasure or a good time.  
 __goon__  
 __goop__  
+__grab hold of (someone)__ (grab (a)hold of (someone))  
 __grooving__ __2__ Having a good time. _We’re just hanging out and grooving—come join us!_  
 __grow cold__ To wane or diminish; to lessen in strength over time, especially a feeling, sentiment, or interest. _We had an intense relationship initially, but lately it seems like his affection has grown cold._  
+__gunk__  
 __half bad__ _The decor didn’t look half bad._  
 __harp on (something)__  
 __have had a drop too much__  
@@ -524,6 +529,7 @@ __like a chicken with the pip__ In low spirits; in a weak or sickened state or m
 __like a fish out of water__ :two::hammer:  
 __like attracts like__ People tend to seek out or be attracted to those that are similar or like-minded. _I guess I shouldn’t be surprised that John wants to find other Americans to hang out with. Like attracts like, after all._  
 __like cheese at four pence__ _BrE_ In an idle, awkward, and/or out-of-place state; being ignored, abandoned, or left to wait awkwardly. Primarily heard in UK. _Well, don’t just sit there like cheese at four pence—speak up and say what’s on your mind!_  
+__like crazy__ With great intensity or speed. _Ugh, these mosquito bites are itching like crazy!_ _Run like crazy._  
 __like hell__  
 __like rats abandoning a sinking ship__ With great haste and having only personal well-being in mind. (Typically said of people who begin abandoning something or someone that is failing or about to fail.) _I knew the business was doomed when employees started quitting en masse, like rats abandoning a sinking ship._  
 __like the back of (one’s) hand__ A common English expression used to describe something that a person knows extremely well or is very familiar with.  
@@ -684,6 +690,7 @@ __open the door for (someone or something)__
 __other than (something)__ (other than that) Besides or excluding something. _Other than having a view of the parking lot, his apartment is great._  
 __out of (one’s) hair__ No longer pestering or annoying to one; not one’s responsibility or burden any longer. _I’ve gotten the kids out of my hair for a few hours so I can go and get a relaxing massage by myself._  
 __out of (one’s) league__  
+__out of commission__  
 __out of nowhere__  
 __out of print__ No longer being printed and sold by a publisher.  
 __over and out__ Said to mark the end of communication between two people. Used especially in radio communication, in which it signals that a person is done speaking and does not expect a reply from the other person. _A: “Oh, and while you’re at the store, could you please get some milk, too?” B: “Sure thing. Over and out.”_  
@@ -743,6 +750,7 @@ __put (someone or something) to the test__
 __put off by someone or something__ Distressed or repelled by someone or something. _I was really put off by your behavior._ _We were all put off by the unfairness of the rules._  
 __put off__ __1__ _v_ To deter, annoy, or repel. A noun or pronoun can be used between “put” and “off.” _I don’t know if you realize how much you put people off with your attitude._  
 __put on a good/poor/etc. show__  
+__put up a fight__  
 __put up with (someone or something)__ To abide or endure someone or something that one finds unpleasant, inconvenient, or annoying.  
 __put up with__  
 __quite a few__ (quite a lot; quite a bit; quite a number)  
@@ -829,6 +837,7 @@ __single out__
 __sit still (for something)__ __2__ To fail or choose not to act in response to something; to endure or tolerate something passively or submissively. _I couldn’t just sit still for condescending, hypocritical remarks, so I gathered my things and walked right out of the building._  
 __sit up__  
 __six in one, (and) half a dozen in the other__ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
+__size up__ To make an estimate, opinion, or judgment of someone or something. _Vader and Kenobi were sizing each other up._ _She sized up her opponent._ _He sized the location up._  
 __skive off__ _BrE_ To absent oneself or leave early from school or work when one would normally be required to be there; to play truant. Primarily heard in UK.  
 __slam-bang__  
 __slap in the face__ Words or actions that have offended or otherwise upset someone. _It was a real slap in the face when she got promoted over me, especially after the amount of work I did on that last project._  
@@ -889,6 +898,7 @@ __strike a (raw) nerve__
 __sucker (one) in__ To con, swindle, or deceive someone.  
 __suicide by cop__  
 __sure as hell__ ((as) sure as hell) _The cops that worked the case didn’t do shit and sure as hell aren’t going to do shit now._  
+__sure thing__  
 __swept the board__  
 __take heart (from something)__ To receive courage or comfort from some fact. _I hope that you will take heart from what we told you today. Even though you did not win the race, take heart from the fact that you did your best. I told her to take heart and try again next time._  
 __take heart__ To have one’s confidence, courage, or happiness bolstered (by something). _We may have lost the election, but we take heart in the fact that so many young people are now engaged and excited about politics._  
@@ -901,6 +911,7 @@ __tangle with (someone or something)__ To fight, argue, or engage in a dispute w
 __team up (with one)__  
 __tear up__ __1__ To violently rip or pull someone or something into pieces. In this usage, a noun or pronoun can be used between “tear” and “up.” :es: destrozar  
 __tell me about it__ :two::hammer:  
+__tell me something I don’t know__  
 __thank goodness__  
 __that does the trick__ That is all that was remaining or required to accomplish something. _There, that does the trick. The engine should be as good as new, now!_  
 __that very thing__ Exactly that. _Why, I was just looking for that very thing!_ _You know, I was just about to say that very thing._  
@@ -930,6 +941,7 @@ __to name (but) a few__
 __to put it mildly__ To understate something; to say something politely. (Note the variation in the examples.) _She was angry at almost everyone—to put it mildly._ _To say she was angry is putting it mildly._ _To put it mildly, she was enraged._  
 __to the contrary__  
 __to this day__  
+__tongue-tied__  
 __top something off__  
 __touch grass__ To participate in normal activities in the real world especially as opposed to online experiences and interactions.  
 __toughen up__  
@@ -942,6 +954,7 @@ __truss someone or something up__ To bind, tie, or bundle someone or something u
 __try one’s hand at something__  
 __turn heads__  
 __turn of phrase__ :dart:  
+__turn tail__ To run away or flee, usually in fear. _The burglars turned tail at the sound of our security alarm._  
 __two peas in a pod__  
 __uh-huh__  
 __under (ne’s) thumb__ Under another’s authoritarian control; continually forced to submit to another’s will.  
@@ -965,6 +978,7 @@ __yellow__ _mod_ Cowardly. _A: Mooshoo says you’re yellow. B: Wanna make somet
 __you are what you eat__ One’s overall health is linked to one’s eating habits. The phrase is often used to promote proper nutrition.  
 __you bet__  
 __you could hear the grass grow(ing)__  
+__you’re telling me__ I know.  
 __you(’d) better believe it__ Absolutely, without question; rest assured.  
 __young at heart__ Behaving or thinking in a way that is more youthful than what traditionally accompanies one’s actual age.  
 __yup__  
@@ -974,3 +988,4 @@ __zero in__ :two::hammer:
 __zig when (one) should zag__  
 __zippy__  
 __zoom along__ __1__ To progress forward at a very quick pace. _The ambulance zoomed along to get the victim to the hospital in time._  
+__zoom out__ __3__ To exit rapidly: _We got dressed and zoomed out to the party._ _With the tractor beam off, we can zoom out of here._  

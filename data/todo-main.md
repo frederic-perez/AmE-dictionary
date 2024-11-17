@@ -27,6 +27,8 @@ __avouch__ _vt_
 __avuncular__ _adj_ uh-VUNG-kyuh-luhr/ Kind, friendly, and helpful, like an uncle, especially in a benevolent or indulgent way.  
 __awry__ _adj, adv_  
 __ballot__ _n_ /ˈbæl ət/ [:scroll: from _ballotta_, the Italian word for “little ball”: when voting was done by the people of Venice during the Renaissance, secrecy was assured by the use of little colored or marked balls] A slip of paper on which a voter marks his or her choice; voting in general.  
+__bargain__ _v_  
+__bargainer__ _n_  
 __bawling__ _n_ _Now you quit your bawling, honey._  
 __bay window__ _n_ :two::hammer::camera:  
 __beastly<sup>1</sup>__ _adj_ :dart: __1__ _informal_ Unpleasant; disagreeable; nasty: _beastly weather._  
@@ -208,6 +210,7 @@ __duster__ _n_ :dart::camera: A loose coverall (coat or frock) reaching down to 
 __dustpan__ _n_ :dart: :es: recogedor  
 __duty solicitor__ _n_ (duty counsel, duty lawyer) A solicitor whose services are available to a person either suspected of, or charged with, a criminal offence free of charge (pro bono), if that person does not have access to a solicitor of their own and usually if it is judged by a means test that they cannot afford one. The system is operative in several Commonwealth countries, including the United Kingdom, Australia, New Zealand and Canada.  
 __earwitness__ _n_ /EER-wit-nis/ One who testifies or can testify to something heard.  
+__ebbing__ _n_ A gradual decline (in size or strength or power or number). _Syn_ ebb, wane _I felt a sudden great ebbing in the force, Luke._  
 __ebon<sup>1</sup>__ _adj_ /ˈɛb ən/ __1__ Made of ebony. __2__ Black in color.  
 __ebon<sup>2</sup>__ _n_ /ˈɛb ən/ Ebony.  
 __ecchymosis__ _n_ (_n pl_ ecchymoses) The medical term for a bruise.  
@@ -243,6 +246,7 @@ __euphoria__ _n_ /yoo-FOR-ee-uh/ _Euphoria_ refers to a feeling of great happine
 __eurythmy__ _n_  
 __evertone__ _n_  
 __exact__ _v_ /ig-ZAKT/ To exact something (such as payment or revenge) is to demand it and get it, especially by using force or threats. _Exact_ is also used in phrases like “exact a terrible toll” and “exact a high/heavy price” to say that something has caused a lot of suffering, loss, etc.  
+__execrable__ _adj_  
 __exhort__ _v_ /ig-ZORT/ To urge, persuade, advise, etc. earnestly.  
 __exile<sup>1</sup>__ _n_ :es: exilio, destierro, :dart: exiliado, desterrado  
 __exile<sup>2</sup>__ _vt_ :es: exiliar, desterrar  
@@ -262,7 +266,7 @@ __fanfare__ _n_ /FAN-fayr/ __1__ A showy public display. __2__ A brief, lively s
 __fang__ _n_ __2__ A long, sharp, pointed tooth, especially a canine tooth of a carnivorous animal, such as a dog or wolf, with which it seizes and tears its prey.  
 __far__ _adv_ __3__ To a considerable degree; much: _felt far better yesterday; eyes that seemed far too close together._  
 __far-fetched__ _adj_ Improbable in nature; unlikely.  
-__far-flung__ _adj_  
+__far-flung__ _adj_ :two::hammer:  
 __farsighted__ _adj_ Planning prudently for the future. _Syn_ foresighted, long, longsighted, prospicient  
 __fascia__  
 __fascism__ _n_ (sometimes capital)  
@@ -448,6 +452,7 @@ __heathen__ _n_
 __heavenward<sup>1</sup>__ _adv_ (also heav′enwards) Toward heaven.  
 __heavenward<sup>2</sup>__ _adj_ Directed towards heaven or the sky.  
 __heinous__ _adj_ /HAY-nus/ _Heinous_ describes things—such as acts, deeds, or crimes—that are hatefully or shockingly evil, or in other words, deserving of hate or contempt.  
+__helpless__ _adj_  
 __hem__ _n_ :es: dobladillo  
 __hemothorax__  
 __hidebound__  
@@ -959,6 +964,7 @@ __regardless__
 __reify__ _v_ /ˈri əˌfaɪ, ˈreɪ-/ /RAY-uh-fye/ Reifying is about considering or representing something abstract as a material or concrete thing. If you reify a concept or idea you somehow give it definite content and form.  
 __reignite__ _v_  
 __relate__ _v_ _I wish to relate the story in his own words._  
+__render__ _vt_ __2__ To cause to become; make: _The news rendered her speechless._ _Grief had rendered him simple-minded._  
 __repent__ _v_ _He would repent and confess his sins._  
 __reprieve__ _n_  
 __restrain__ _v_  
@@ -1044,10 +1050,13 @@ __snafu__ _n_
 __snide__ _adj_ :smiling_imp:  
 __sniveling__ _n_  
 __snuffbox__ _n_ A small, often decorated box with a hinged lid, used for carrying snuff.  
+__soon enough__ _adv_ :dart::astonished:  
 __spinning jenny__ _n_ An early spinning machine having more than one spindle, enabling a person to spin a number of yarns simultaneously.  
+__sprawling__ _adj_ :two::hammer:  
 __stilted__ _adj_  
 __stray__ _v_  
 __strobe__ _n_ __3__ A spot of higher than normal intensity in the sweep of an indicator, as on a radar screen, used as a reference mark for determining distance.  
+__sturdy__ _adj_ _The sturdy Millennium Falcon._  
 __swashbuckler__ _n_ :es: espadachín; intrépido  
 __swat__ _v_ _He swats a fly._  
 __swoop__ _v_  
@@ -1060,6 +1069,7 @@ __Terence__ _n_ (Terry)
 __thanatopsis__ _n_ /than-uh-TOP-sis/ [:scroll: From Greek thanatos (death) + -opsis (appearance, view)] A reflection upon death.  
 __the nuts and bolts__  
 __thence__ _adv_ From that place; from there. _Syn_ therefrom _The train went south into Switzerland and thence on to Italy._  
+__thrall__ _n_ :astonished:  
 __throb__ _v_ _He made me throb with joy._ :es: latir con fuerza; sentir pinchazos  
 __thromboembolism__ _n_  
 __thrombosis__ _n_  
