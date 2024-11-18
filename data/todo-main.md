@@ -71,13 +71,14 @@ __brazenly__
 __breadcrumbs__ _n pl_ Very tiny pieces of bread. _Dip the fish in egg and breadcrumbs._ :es: pan rallado  
 __break room__ _n_ A room in a public building or worksite set aside for coffee breaks, lunch breaks, snacking, etc.  
 __breakroom__ _n_ Alternative spelling of break room.  
-__brethren__ _n_ :dart: __1__ A plural of brother.  
+__brethren__ _n pl_ :dart::two: __1__ A plural of brother.  
 __bribe__ _n_ :smiling_imp:  
 __bridle__ _n_ The act of restraining power or action or limiting excess. _Syn_ check, curb _His common sense is a bridle to his quick temper._  
 __brimstone__ _n_ __1__ Sulfur, especially considered as a component of the torments of hell in Christianity. (See _fire and brimstone_.) An obsolete name for sulphur.  
 __bub__ _n slang_ :dart:  
 __buckle__ _v_  
 __bud vase__ _n_ A small narrow vase for holding a single flower or small bouquet.  
+__Bullpen Bulletins__ _n_ “Bullpen Bulletins” (originally titled “Marvel Bullpen Bulletins”) was the news and information page that appeared in most regular monthly comic books from Marvel Comics.  
 __bumbling__ _adj_  
 __burgeon__ _vi_ :es: florecer  
 __burin__ _n_  
@@ -101,6 +102,7 @@ __clued up__ _adj_ _BrE_ _informal_ Knowledgeable about a topic or situation; po
 __coda__ _n_ :two::hammer:  
 __cogitation__ _n_ Thoughtful consideration; meditation. _Syn_ study  
 __comminuted__ _adj_ Pulverized; ground.  
+__compass__ _v_  
 __compelling__ _adj_  
 __comptroller__ _n_ :es: interventor  
 __conformal__ _adj_ _Math_ Of or designating a map or transformation in which angles and scale are preserved.  
@@ -122,6 +124,7 @@ __cottonmouth__ _n_ :three::camera: [:scroll: so called for the white streak alo
 __countenance__ _n_  
 __cove__ _n_ :astonished:  
 __cowed__  
+__cowl__ _n_  
 __craft__ _n_ __5__ _crafts_ Items made by craftspeople.  
 __craftsman__ _n_ :pencil2:  
 __crockety__ _n_ Dishes, plates, and similar tableware collectively, usually made of some ceramic material, used for serving food on and eating from.  
@@ -130,7 +133,10 @@ __crouch<sup>1</sup>__ _n_ The act of bending low with the limbs close to the bo
 __crouch<sup>2</sup>__ _v_ Bend one’s back forward from the waist on down. _Syn_ stoop, bend, bow  
 __crowbar__ _n_  
 __cursory__ _adj_ /KER-suh-ree/ Something described as cursory has been done or made quickly.  
+__cutlass__ _n_  
 __czar__ _n_ __1__ The ruler of Russia until the 1917 revolution. __2__ One having great power or authority. _A banking czar._  
+__dainty__ _adj_  
+__dais__ _n_  
 __Damoclean__ _adj_ /dam-uh-KLEE-uhn/ Involving imminent danger.  
 __damp__ _adj_  
 __dander__ _n_ Temper or anger. _Syn_ hackles _He ’pears to know just how long he can torment me before I get my dander up._  
@@ -153,6 +159,7 @@ __deranged__ _adj_ :smiling_imp: Driven insane. _Syn_ crazed, half-crazed
 __deride__ _vt_ [:scroll: Latin dērīdēre : dē-, de- + rīdēre, _to laugh at_]  
 __descant__ _n_  
 __despicable__  
+__despoil__ _v_ :two::hammer:  
 __despondent__ _adj_ :two::hammer:  
 __deter__ _v_ :two: /dɪˈtɜr/ /dih-TER/ To _deter_ someone is to discourage or prevent them from acting. To _deter_ a thing is to stop or limit it.  
 __diction__ _n_  
@@ -241,11 +248,13 @@ __épée__ _n_ /ˈɛpeɪ; _French_ epe/ (epee) :es: espada de esgrima
 __Equity__ _n_ :astonished: /ˈɛkwɪtɪ/ _Theatre_ The actors’ trade union. Full name: Actors’ Equity Association  
 __equivocacy__ _n_ /i-KWIV-uh-kuh-see/ The quality of being deliberately ambiguous or vague.  
 __equivocal__ _adj_  
+__erstwhile__ _adj_ Former; of times past: _erstwhile friends._  
 __ethos__ _n_ /EE-thahss/ _Ethos_ refers to the guiding beliefs of a person, group, or organization. :es: espíritu; escala de valores _The company made environmental awareness part of its business ethos._  
 __euphoria__ _n_ /yoo-FOR-ee-uh/ _Euphoria_ refers to a feeling of great happiness and excitement.  
 __eurythmy__ _n_  
 __evertone__ _n_  
 __exact__ _v_ /ig-ZAKT/ To exact something (such as payment or revenge) is to demand it and get it, especially by using force or threats. _Exact_ is also used in phrases like “exact a terrible toll” and “exact a high/heavy price” to say that something has caused a lot of suffering, loss, etc.  
+__excelsior__ _adj_ Ever upward: motto of New York State.  
 __execrable__ _adj_  
 __exhort__ _v_ /ig-ZORT/ To urge, persuade, advise, etc. earnestly.  
 __exile<sup>1</sup>__ _n_ :es: exilio, destierro, :dart: exiliado, desterrado  
@@ -345,6 +354,7 @@ __foreboding<sup>2</sup>__ _adj_ Of or indicating foreboding, esp. of evil.
 __forecourt__ _n_  
 __forelock__ _n_ __1__ A lock of hair growing or falling over the forehead.  
 __forename__ _n_ A name before one’s surname; a first name.  
+__forester__ _n_  
 __forge__ _v_ _A container ship forges south._  
 __forgo__ _v_  
 __form factor__ _n_  
@@ -359,6 +369,7 @@ __freezer paper__ _n_ A type of white paper coated on one side with plastic to p
 __French toast__ _n_ Food prepared by dipping bread into egg batter and frying.  
 __fret__ _v_ /FRET/ To _fret_ is to worry or be concerned.  
 __fretful__ _adj_ Habitually complaining. _Syn_ querulous, whiny  
+__friar__ _n_  
 __frisson__ _n_ A moment of intense excitement. _Syn_ chill, quiver, shiver, shudder, thrill, tingle _The story’s ending arouses a frisson of terror._  
 __frontier__ _n_ :mega: /frʌnˈtɪər, frɒn-; also, esp. _Brit_, ˈfrʌn tɪər/  
 __fru__  
@@ -384,6 +395,8 @@ __game warden__ _n_ An officer in charge of managing game animals or wildlife, e
 __gamekeeper__ _n_ /ˈgeɪmˌki pər/ A person employed, as on an estate or game preserve, to prevent poaching and provide for the conservation of game.  
 __gangrene__ _n_  
 __gaping__ _adj_ /ˈɡeɪpɪŋ/ Wide open; extremely wide: _a gaping hole._  
+__garb__ _n_  
+__gargantuan__ _adj_  
 __garnish__ _v_ /GAHR-nish/ To garnish food or drink is to add decorative and tasty touches to it, such as a spiral of lemon peel.  
 __garret__ _n_  
 __garrulous__ _adj_ Excessively talkative in a rambling, roundabout manner, especially about trivial matters.  
@@ -473,10 +486,12 @@ __humdrum<sup>1</sup>__ _adj_ Lacking variety or excitement. _Syn_ dull
 __humdrum<sup>2</sup>__ _n_ A monotonous routine, task, or person.  
 __hunch__ _v_ _He hunches a shoulder to wipe his face._  
 __hurl__ _v_  
+__hurtle__ _v_ _Vader’s hit sent the ship hurtling downward._  
 __husk__ _vt_ :two: To remove the husk from.  
 __hypertrichosis__ _n_ A condition of excessive hairiness either all over the body or covering a particular part.  
 __ideate__ _v_ /EYE-dee-ayt/ To ideate is to form an idea or conception of something..  
 __ignoramus__  
+__illustrious__ _adj_  
 __imp__ _n_  
 __impasse__ _n_ A situation that is so difficult that no progress can be made. _Syn_ dead end, deadlock, stalemate, standstill  
 __impeccable__  
@@ -520,7 +535,7 @@ __jiggle__ _v_ :dart: To move or rock lightly up and down or to and fro in an un
 __jot<sup>1</sup>__ _n_ :dart: /dʒɒt/ The smallest bit; iota. _(used with a negative)_ A little bit (in phrases such as _not to care (or give) a jot_).  
 __jot<sup>2</sup>__ _vt_  
 __jubilee__ _n_ :mega: /JOO-buh-lee/  
-__juggernaut__ _n_ :two::hammer: /ˈdʒʌɡəˌnɔːt/  
+__juggernaut__ _n_ :three::hammer: /ˈdʒʌɡəˌnɔːt/ _The imperial juggernaut._  
 __jumar__ _n_ /ˈdʒuːmə/  
 __jurisprudence__ _n_ /joor-us-PROO-dunss/ _Jurisprudence_ is a formal word that typically refers to the science or philosophy of law, or to a system or body of law.  
 __justice of the peace__ _n_ (JP) A local magistrate empowered chiefly to administer summary justice in minor cases, to commit for trial, and to administer oaths and perform marriages.  
@@ -544,7 +559,7 @@ __lambent__ _adj_ :two: __1__ (esp of a flame) Flickering softly over a surface.
 __landowning__  
 __lap__ _vt_ __6__ :dart: _Sports_ To get ahead of (an opponent) in a race by one or more complete circuits of the course, as in running, or by two or more lengths of a pool in swimming.  
 __largesse__ _n_ :es: generosidad  
-__lass__ _n_  
+__lass__ _n_ :two::hammer:  
 __lassitude__ _n_ :dart: A state or feeling of weariness, diminished energy, or listlessness. _Syn_ lethargy  
 __latch__ _n_  
 __lathe__ _n_  
@@ -582,6 +597,7 @@ __lipoma__ _n_ A benign tumor composed chiefly of fat cells.
 __lipomatous__ _adj_ Relating to a lipoma. _Lipomatous metaplasia._  
 __listless__ _adj_ Marked by low spirits; showing no enthusiasm. _Syn_ dispirited  
 __literacy__ _n_ /ˈlɪt ər ə si/  
+__lithe__  
 __litigation__ _n_  
 __Little Red Riding Hood__ _n_ A girl in a fairy tale who meets a wolf while going to visit her grandmother.  
 __littoral__ _adj, n_ :pencil2:  
@@ -635,6 +651,7 @@ __maiden__ _adj_ _The _Titanic_ maiden voyage._
 __mains tester__ _n_ An insulated screwdriver with a light in the handle.  
 __make__ _n_ :astonished:  
 __malevolent__ _adj_ :smiling_imp: Wishing evil or harm to another or others.  
+__man__ _v_ _Man your ships!_  
 __mandatory__ _n_ :mega: /ˈmæn dəˌtɔr i, -ˌtoʊr i/  
 __mangle__ _v_ __2__ To ruin or spoil through ineptitude or ignorance: _mangle a speech._  
 __mangy__ _adj_  
@@ -757,6 +774,7 @@ __offbeat__ _adj_ :two::hammer: :es: poco convencional
 __omniscient__ _adj_ /ahm-NISH-unt/ _Omniscient_ describes someone or something with unlimited knowledge or understanding.  
 __over-the-hill__  
 __over-the-top__ _adj_  
+__overeager__ _adj_ Excessively eager; too ardent or impatient.  
 __palaver__ _n_ /puh-LAV-er/  
 __pallor__ _n_ A pale condition, esp when unnatural: _fear gave his face a deathly pallor._  
 __panacea__ _n_ /pan-uh-SEE-uh/  
@@ -836,6 +854,7 @@ __plug__ _n_ __6a__ A flat cake of pressed or twisted tobacco. __b__ A piece of 
 __plumb__ _adj, adv, n_ _Bruises and plumb lines._  
 __plush<sup>1</sup>__ _n_  
 __plush<sup>2</sup>__ _adj_  
+__poach__ _v_ :smiling_imp:  
 __poached__ _adj_ :two: /pəʊtʃt/ Cooked gently in boiling water, milk, or other liquid. :es: cocido a fuego lento  
 __poaching__ _v_  
 __pocket protector__ _n_ :camera: A thin plastic sheath that fits into the breast pocket of one’s shirt to hold pens and other small instruments and protect the pocket from stains or tears.  
@@ -876,6 +895,7 @@ __pressing__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need
 __pressing<sup>1</sup>__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._ _Syn_ urgent __2__ Very earnest or insistent: _a pressing invitation._  
 __pressing<sup>2</sup>__ _n_  
 __pressurize__ _vt_  
+__prevail__ _v_ _We shall prevail in the name of the Galactic Empire!_  
 __price gun__ _n_ :astonished: A portable tool used to print price tags.  
 __pricey__ _adj_ /ˈpraɪ si/ (pricy)  
 __prick__ _v_ _She is pricked by anxiety._  
@@ -899,6 +919,7 @@ __puff__ _v_
 __pulse__ _n_ __1__ The edible seeds of certain pod-bearing plants, such as lentils and chickpeas. :es: legumbres __2__ A plant yielding these seeds.  
 __pumpkin spice__ _n_ A mixture of usually cinnamon, nutmeg, ginger, cloves, and often allspice that is commonly used in pumpkin pie.  
 __pundit__ _n_ __1__ A source of opinion; a critic: a political pundit. __2__ A learned person.  
+__puny__ _adj_ __1__ Of less than normal size and strength; weak. __2__ Unimportant; insignificant: _a puny excuse._  
 __pup__ _n_  
 __pustulate__ _adj_ Blemished by imperfections of the skin. _Syn_ acned, pimpled  
 __quadriplegia__ _n_ Complete paralysis of the body from the neck down. Also called tetraplegia.  
@@ -977,6 +998,8 @@ __rooftop__ _n_
 __Rorschach inkblot test__ _n_  
 __rover__ _n_ __1__ A pirate. __2__ A pirate vessel.  
 __rube__ _n_ _You look like a rube._  
+__ruddy__ _adj_  
+__rue__ _v_  
 __ruff__ _n_ (Clothing & Fashion)  
 __ruination__ _n_  
 __rummage__ _v_ :two::hammer:  
@@ -1049,12 +1072,16 @@ __smugly__ _adv_
 __snafu__ _n_  
 __snide__ _adj_ :smiling_imp:  
 __sniveling__ _n_  
+__snub-fighter__ _n_ (snub fighter)  
 __snuffbox__ _n_ A small, often decorated box with a hinged lid, used for carrying snuff.  
+__soapbox__ _n_ _Stan Lee’s soapbox._  
 __soon enough__ _adv_ :dart::astonished:  
 __spinning jenny__ _n_ An early spinning machine having more than one spindle, enabling a person to spin a number of yarns simultaneously.  
 __sprawling__ _adj_ :two::hammer:  
+__squire__ _n_ :astonished:  
 __stilted__ _adj_  
 __stray__ _v_  
+__streak__ _v_ __4__ To run naked in public, especially as a prank.  
 __strobe__ _n_ __3__ A spot of higher than normal intensity in the sweep of an indicator, as on a radar screen, used as a reference mark for determining distance.  
 __sturdy__ _adj_ _The sturdy Millennium Falcon._  
 __swashbuckler__ _n_ :es: espadachín; intrépido  

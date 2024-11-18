@@ -84,6 +84,7 @@ __be real__
 __be under a cloud__ To be viewed with suspicion, distrust, or disapproval.  
 __be up to scratch__  
 __bear (someone or something) in mind__  
+__bear down__  
 __beat about the bush__ :two: _BrE_ To speak vaguely or euphemistically so as to avoid talking directly about an unpleasant or sensitive topic. Primarily heard in UK.  
 __beauty sleep__  
 __beef up__ To increase something, often in strength. _With all these protestors here, we definitely need to beef up security._  
@@ -99,6 +100,7 @@ __big fat__ _adj_ :dart: __1__ (idiomatic, derogatory) Complete, utter, total. _
 __big guns__  
 __birthday suit__  
 __brimstone__ _n_  
+__bustle about__  
 __buzzard__ _n_ An old man; a mean old man. (Especially with old.) _Some old buzzard is at the door asking for Mary Wilson._  
 __call of nature__ The urge to urinate or defecate. _I have to attend to the call of nature._  
 __call out__  
@@ -117,6 +119,7 @@ __chime in__
 __clean as a whistle__ ((as) clean as a whistle)  
 __clear the table__ To remove objects from a table. This phrase is often said after a meal, as one removes dishes, silverware, and leftover food from the table. _After the meal I cleared the table._  
 __close shave__  
+__close up__ _Close it up, Wedge! Check!_  
 __cockamamie__ Absurd or ridiculous. _Please don’t get involved in another one of his cockamamie schemes—you know they never pan out._  
 __coin__ _slang_ Money.  
 __cold fish__  
@@ -161,6 +164,7 @@ __don’t give a rat’s ass__
 __downer__ :es: tranquilizante  
 __drape (something or oneself) over (someone or something)__ __1__ To lay on a piece of furniture, usually with one’s limbs splayed. In this usage, a reflexive pronoun is used between “drape” and “over.” _John came in and draped himself over the sofa while moaning about his ex-girlfriend._ __2__ To loosely place something over someone or something. In this usage, a noun or pronoun is used between “drape” and “over.” _It wasn’t as cold out when I left the theater, so I just draped my coat over my shoulders._  
 __drape over (something)__ [for cloth] To cover something and hang down. _The robe draped over her knees, but she was still cold._ _The tablecloth draped over and reached down to the floor._  
+__draw to a close__  
 __draw water__  
 __dreamboat__ A very attractive or appealing person.  
 __drop dead__  
@@ -180,6 +184,7 @@ __fancy__ _informal_ __2__ To have a desire for (something).
 __fast and furious__  
 __fat chance__ Said of something that is unlikely to happen. :es: vaga posibilidad  
 __feel like doing something__  
+__feel puny__ To feel sick. _I woke up feeling puny, so I just stayed in bed all day._  
 __few and far between__ :two::hammer:  
 __figure of speech__ A form of expression in language, either spoken or written, that employs nonliteral meaning, unusual construction, or a particular combination of sounds to emphasize or heighten the rhetorical effect. _Bob: “Does eating an apple a day really keep doctors away from you?” Doug: “Don’t take it so literally, Bob, it’s just a figure of speech.”_  
 __fill in__ __4__ To inform one of something. In this usage, a noun or pronoun can be used between “fill” and “in.” _Fill me in—what happened at the party last night?_  
@@ -232,6 +237,7 @@ __get (one’s) bearings__
 __get (something) out of (one’s) system__ __2__ To do something so that one no longer has the desire to do it anymore. _I got drinking and partying out of my system during college. I’m ready for a quieter life now._  
 __get an earful__  
 __get away with you__  
+__get cracking__ To start working on something. Often used as an imperative. _Get cracking, or you’ll be up all night working on your book report!_  
 __get down to business__  
 __get lucky__ :two: __2__ _slang_ To have sex, especially with someone whom one has only just met.  
 __get my drift__ ((do you) get my drift?) Do you understand the meaning, insinuation, or implication of what I’m saying? _All I’m saying is that I won’t be very sad if she breaks up with her boyfriend—get my drift?_ _I haven’t seen Ike and don’t care for the likes of him, if you get my drift._  
@@ -239,6 +245,7 @@ __get on famously__ To have an exceptionally good relationship (with someone); t
 __get on like a house afire__ Of two or more people, to enjoy one another’s company very much from the start and become good friends at once. (Used when people are meeting for the first time.) _I can’t wait for you to meet Mark, I just know the two of you will get on like a house afire!_  
 __get set__ (get (all) set) To become prepared or excited (for or to do something). _Well, gest set, Chewie. We’re going to have company._  
 __get something out of the way__ :dart: Deal with a task or difficulty so that it is no longer a problem or worry. _I’m glad I’ve got that visit to the dentist out of the way._  
+__get the hang of (something)__  
 __ghosting__ _slang_  
 __gig__  
 __give (one’s) ground__  
@@ -287,10 +294,12 @@ __half bad__ _The decor didn’t look half bad._
 __harp on (something)__  
 __have had a drop too much__  
 __have it your way__  
+__heads up__  
 __hell no__  
 __hell on earth__  
 __hell-bent__ Very determined to do something, perhaps annoyingly or recklessly so.  
 __hell’s bells__ :three: An exclamation of frustration or surprise. A shortened form of the phrase “hell’s bells and buckets of blood.” _Oh, hell’s bells—the printer isn’t working, and my paper is due in five minutes!_  
+__helluva__  
 __hem and haw__  
 __here’s for the happy couple__  
 __hinge on__  
@@ -303,6 +312,7 @@ __hit the ground running__
 __hit-and-run__ :smiling_imp:  
 __hold my beer__  
 __hold the line__  
+__hold tight__ __2__ To wait patiently without taking any immediate action.  
 __holding pattern__  
 __hopeless at (something)__ Not skilled or adept at something. _Oh, I hired a maid because I know I’m hopeless at housework._  
 __horseshit__ :es: chorradas  
@@ -453,6 +463,7 @@ __keep tabs on (someone or something)__
 __keep the lid on (something)__  
 __keep to (something)__ __1__ To adhere to something, such as a plan or a rule; to stick to something. _Please keep to the plan, and everything will go smoothly._  
 __keep up__  
+__keep your eyes peeled__ _Keep your eyes peeled for imperial fighters!_  
 __keester__ _slang_ The buttocks or anus. Often used figuratively. _OK, kids, get off your keesters and go play outside!_  
 __key up__  
 __kick up__  
@@ -548,7 +559,7 @@ __loaded gun__ A situation or person that is dangerous or volatile. For example,
 __long and hard__  
 __long in the tooth__  
 __long past due__ “Long past due” refers to something that is significantly overdue or late. It implies that a task, payment, or obligation should have been completed or met a long time ago and has not been addressed within the expected timeframe. :es: hace tiempo que se tendría que haber llevado a cabo  
-__long time no see__ :two::hammer:  
+__long time no see__ :three::hammer:  
 __look the other way__  
 __look up to (one)__ :es: admirar a alguien  
 __looks like__  
@@ -563,6 +574,7 @@ __loss leader__ A product or service offered at or below cost in order to attrac
 __lost for words__ (at a loss for words)  
 __loud and clear__ :two::hammer:  
 __lucky monkey__ The concept of a “lucky monkey” is often associated with good fortune, playfulness, and positive energy.  
+__lunge at (someone or something)__ To leap toward someone or something, especially with the intent of grabbing, attacking, or striking them or it. _The criminal lunged at the police officer with a knife, but the cop was able to subdue him without difficulty._  
 __lurk__  
 __lust for life__  
 __magic mushroom__ _informal_ Any mushroom-like fungus that has psychedelic effects.  
@@ -573,12 +585,13 @@ __make (oneself) scarce__
 __make (something) clear (to one)__ :two:hammer:  
 __make a fool of (someone)__  
 __make a pass at (one)__ :dart: To make sexual advances toward or propositions to one; to hit on one. _Do you think she was making a pass at me, or was she just being nice?_ :es: intentarse ligar a  
-__make a run for (someone or something)__  
+__make a run for (someone or something)__ :two::hammer:  
 __make advances__ :dart:  
 __make game of (someone or something)__ To ridicule, mock, or tease someone or something; to make fun of someone or something. _I really don’t appreciate you making game of my disability like that._  
 __make it__ __1__ To be successful.  
 __make light of (something)__  
 __Maslow’s hammer__ :dart: The inability to recognize other possible outcomes or solutions if one relies too much on a particular tool, method, or mindset. The term refers to 20th-century psychologist Abraham Maslow and his idea that “If all you have is a hammer, everything looks like a nail.” Also known as the “golden hammer,” and “the law of the instrument.”  
+__mill about__  
 __mince words__  
 __mixed feelings__  
 __mixed message__  
@@ -641,8 +654,8 @@ __off to the races__
 __off-kilter__  
 __oh boy__  
 __oh dear__ :dart: An expression of concern, surprise, or disappointment. _This place is on the 10th floor, and there’s no elevator? Oh dear._ _A car accident? Oh dear, is she OK?_  
-__oh my__ :dart:  
-__old coot__  
+__oh, my__ :dart::three::hammer: (oh my)  
+__old coot__ :two::hammer: (coot)  
 __old school__  
 __on (one’s) (own) terms__ In the manner or timeframe that one prefers.  
 __on (one’s) feet__  
@@ -693,6 +706,7 @@ __out of (one’s) league__
 __out of commission__  
 __out of nowhere__  
 __out of print__ No longer being printed and sold by a publisher.  
+__out of the wood(s)__  
 __over and out__ Said to mark the end of communication between two people. Used especially in radio communication, in which it signals that a person is done speaking and does not expect a reply from the other person. _A: “Oh, and while you’re at the store, could you please get some milk, too?” B: “Sure thing. Over and out.”_  
 __over the edge__  
 __over the phone__ :two: By calling on the telephone. _You can order a pizza over the phone._  
@@ -742,6 +756,7 @@ __prop up__
 __public eye__ Attention from the general public. Typically used in the phrase “in the public eye.”  
 __pucker up__ __1__ To purse one’s lips together, as when tasting something sour or preparing for a kiss.  
 __pull (one’s) weight__ To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
+__pull something off__  
 __puppy__ __1__ _n_ A wimp; a softie. _That silly puppy is still waiting outside your door._ __2 __ _n_ A thing; a piece or part of something. _Put this little puppy right here._  
 __push the envelope__ To expand on, exceed, or test the limits of the established norm or standard.  
 __put (one’s) best foot forward__ :es: hacer una buena impresión  
@@ -799,6 +814,7 @@ __scupper up__
 __see (one) in the flesh__ To see one in person who is usually only seen at a distance, especially through a medium such as film, music, theater, etc. _After years of idolizing the singer, it was a bit anticlimactic seeing her in the flesh._  
 __see fit__ :dart: Deem appropriate, as in _He’s entitled to divide up his property as he sees fit_, or _If we see fit to attend, we’ll be there._  
 __see the last of (someone or something)__ To no longer encounter a certain person or thing. Often used in the negative.  
+__see to (someone or something)__  
 __seems too good to be true__  
 __seep in(to something)__  
 __seize the day__ To take the opportunity to do something at the present moment without worrying about the future. _This is our time. Let’s seize the day! We may never get a chance to do this again._  
@@ -895,6 +911,7 @@ __stone dead__ Dead; unquestionably dead; long dead. _The cat was stone dead and
 __stonewall__ To be evasive, noncompliant, or uncooperative; to employ delaying or obstructive tactics. Can be used either transitively or intransitively.  
 __strike (one) dead__  
 __strike a (raw) nerve__  
+__strong water__  
 __sucker (one) in__ To con, swindle, or deceive someone.  
 __suicide by cop__  
 __sure as hell__ ((as) sure as hell) _The cops that worked the case didn’t do shit and sure as hell aren’t going to do shit now._  
@@ -902,6 +919,7 @@ __sure thing__
 __swept the board__  
 __take heart (from something)__ To receive courage or comfort from some fact. _I hope that you will take heart from what we told you today. Even though you did not win the race, take heart from the fact that you did your best. I told her to take heart and try again next time._  
 __take heart__ To have one’s confidence, courage, or happiness bolstered (by something). _We may have lost the election, but we take heart in the fact that so many young people are now engaged and excited about politics._  
+__take heed (of someone or something)__  
 __take on trust__  
 __take the fall (for someone or something)__  
 __take umbrage__ :two::hammer:  
@@ -943,6 +961,7 @@ __to the contrary__
 __to this day__  
 __tongue-tied__  
 __top something off__  
+__touch down__  
 __touch grass__ To participate in normal activities in the real world especially as opposed to online experiences and interactions.  
 __toughen up__  
 __trials and tribulations__  
@@ -957,12 +976,16 @@ __turn of phrase__ :dart:
 __turn tail__ To run away or flee, usually in fear. _The burglars turned tail at the sound of our security alarm._  
 __two peas in a pod__  
 __uh-huh__  
+__uh-oh__  
 __under (ne’s) thumb__ Under another’s authoritarian control; continually forced to submit to another’s will.  
 __under a cloud__ Viewed with suspicion, distrust, or disapproval.  
 __until death us do part__ :dart: A common phrase used in wedding ceremonies indicating that the marriage bond shall be intended to last until death. :es: hasta que la muerte nos separe  
 __uppity__ _adj_ _informal_ Haughtily arrogant, conceited, or self-important.  
+__vouch for (someone or something)__  
 __walk on water__  
+__war chest__  
 __wax and wane__  
+__wisecrack__  
 __with each passing day__ (with each passing moment) As time continues to pass, day by day.  
 __woozy__ :dart:  
 __word is__ ((the) word is)  
@@ -984,7 +1007,7 @@ __young at heart__ Behaving or thinking in a way that is more youthful than what
 __yup__  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
 __zero hour__  
-__zero in__ :two::hammer:  
+__zero in__ :three::hammer:  
 __zig when (one) should zag__  
 __zippy__  
 __zoom along__ __1__ To progress forward at a very quick pace. _The ambulance zoomed along to get the victim to the hospital in time._  
