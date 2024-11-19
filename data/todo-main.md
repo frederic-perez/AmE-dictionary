@@ -34,6 +34,7 @@ __bay window__ _n_ :two::hammer::camera:
 __beastly<sup>1</sup>__ _adj_ :dart: __1__ _informal_ Unpleasant; disagreeable; nasty: _beastly weather._  
 __beastly<sup>2</sup>__ _adv_ _informal_ (intensifier): _the weather is so beastly hot._  
 __belie__ _v_ :two::hammer:  
+__bellows__ _n_ _n pl_ __1__ The lungs. __2__ :camera: A mechanical device that blows a strong current of air; used to make a fire burn more fiercely or to sound a musical instrument.  
 __bellwether__ _n_ :dart: __1__ [:scroll: Since long ago, it has been common practice for shepherds to hang a bell around the neck of one sheep in their flock, thereby designating it the lead sheep. (Wether is a male sheep, esp a castrated one.)] Sheep that leads the herd often wearing a bell.  
 __besotted__ _adj_ __1__ Stupefied with drink; intoxicated. __2__ Infatuated; doting. __3__ Foolish; muddled.  
 __biennial__ _adj_ Happening every second year. _Syn_ biyearly  
@@ -78,6 +79,7 @@ __brimstone__ _n_ __1__ Sulfur, especially considered as a component of the torm
 __bub__ _n slang_ :dart:  
 __buckle__ _v_  
 __bud vase__ _n_ A small narrow vase for holding a single flower or small bouquet.  
+__bullock__ _n_ __1__ A castrated bull; a steer. __2__ A young bull.  
 __Bullpen Bulletins__ _n_ “Bullpen Bulletins” (originally titled “Marvel Bullpen Bulletins”) was the news and information page that appeared in most regular monthly comic books from Marvel Comics.  
 __bumbling__ _adj_  
 __burgeon__ _vi_ :es: florecer  
@@ -108,6 +110,7 @@ __comptroller__ _n_ :es: interventor
 __conformal__ _adj_ _Math_ Of or designating a map or transformation in which angles and scale are preserved.  
 __connoisseur__  
 __conscientious__ _adj_  
+__construe__ _v_  
 __contemptuous__  
 __contrive__  
 __copperas__ _n_ /ˈkɒpərəs/ A less common name for ferrous sulphate.  
@@ -146,6 +149,7 @@ __dart__ _v_
 __dead bolt__ _n_ (deadbolt, dead lock) A locking mechanism distinct from a spring bolt lock because a deadbolt cannot be moved to the open position except by rotating the key.  
 __deadpool__  
 __decal__ _n_  
+__decision making__ _n_  
 __defenestration__ _n_ /dee-fen-uh-STRAY-shun/ _Defenestration_ is most often used to refer to a usually swift dismissal or expulsion, as from a political party or office. It is also used to refer to a throwing of a person or thing out of a window.  
 __deign__ _v_  
 __deliverance__ _n_  
@@ -324,6 +328,7 @@ __flexor__ _n_ A small hammer with a rubber head used in percussive examinations
 __flighty__ _adj_ /ˈflaɪtɪ/  
 __flinch__ _vi_ :es: estremecerse; encogerse  
 __fling__ _v_ :two::hammer: (flung)  
+__flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
 __flit__ _vi_ :two: __1__ To move about rapidly and nimbly. __2__ To move quickly from one condition or location to another.  
 __float·a·tion _- _n- /flō-tā′shən/ __1__ Variant of _flotation_.  
 __flogging__ _n_ Beating with a whip or strap or rope as a form of punishment.  
@@ -353,6 +358,7 @@ __foreboding<sup>1</sup>__ _n_ __1__ A prediction; portent. __2__ A strong inner
 __foreboding<sup>2</sup>__ _adj_ Of or indicating foreboding, esp. of evil.  
 __forecourt__ _n_  
 __forelock__ _n_ __1__ A lock of hair growing or falling over the forehead.  
+__foreman__ _n_  
 __forename__ _n_ A name before one’s surname; a first name.  
 __forester__ _n_  
 __forge__ _v_ _A container ship forges south._  
@@ -397,6 +403,7 @@ __gangrene__ _n_
 __gaping__ _adj_ /ˈɡeɪpɪŋ/ Wide open; extremely wide: _a gaping hole._  
 __garb__ _n_  
 __gargantuan__ _adj_  
+__gargle__ _v_  
 __garnish__ _v_ /GAHR-nish/ To garnish food or drink is to add decorative and tasty touches to it, such as a spiral of lemon peel.  
 __garret__ _n_  
 __garrulous__ _adj_ Excessively talkative in a rambling, roundabout manner, especially about trivial matters.  
@@ -424,6 +431,7 @@ __Goodwill__ _n_ A charity organization that collect old clothes for resale.
 __gopher__ _n_ :es: ardilla  
 __gossamer__ _adj_ /GAH-suh-mer/ Something described as _gossamer_—such as a butterfly wing or a thin fabric—is very light or delicate.  
 __gouge__ _vt_  
+__gravitas__ _n_ Seriousness or sobriety, as of conduct or speech.  
 __grill pan__ _n_ :camera: A type of frying pan with raised ridges or grooves on the cooking surface that simulate the char marks of an outdoor grill.  
 __gripping__ _adj_ :es: con gancho  
 __groan__ _n_  
@@ -491,6 +499,7 @@ __husk__ _vt_ :two: To remove the husk from.
 __hypertrichosis__ _n_ A condition of excessive hairiness either all over the body or covering a particular part.  
 __ideate__ _v_ /EYE-dee-ayt/ To ideate is to form an idea or conception of something..  
 __ignoramus__  
+__ill temper__ _n_ Bad temper; irritability.  
 __illustrious__ _adj_  
 __imp__ _n_  
 __impasse__ _n_ A situation that is so difficult that no progress can be made. _Syn_ dead end, deadlock, stalemate, standstill  
@@ -707,7 +716,8 @@ __moisten__ _v_
 __mongoose__ _n_  
 __Montserrat__ _n_ An island in the Leeward Islands, in the West Indies: British crown colony.  
 __Moor__  
-__moot__ _vt_  
+__moot<sup>1</sup>__ _adj_ /MOOT/ _Moot_ typically describes something that is no longer important or worth discussing. It can also describe something that is argued about but not possible for people to prove.  
+__moot<sup>2</sup>__ _vt_  
 __moped__ _n_ _Brit_ A light motorcycle, not over 50cc.  
 __morass__  
 __moratorium__ _n_  
@@ -719,8 +729,7 @@ __motormouth__ _n_ :two: _slang_ A garrulous person.
 __mountaineering__  
 __mourning band__  
 __mpox__ _n_ (formerly called _monkey pox_) A zoonotic disease especially of central and western Africa that is caused by a poxvirus.  
-__muck__ _n_  
-__mucky__  
+__mucky__ _adj_ :two: /ˈmʌkɪ/ __1__ Dirty. __2__ Of or like muck.  
 __muddle__ _n_ __1__ A disordered condition; a mess or jumble.  
 __mundane__ _adj_  
 __mush__ _n_  
@@ -740,6 +749,7 @@ __naturalization__ _n_
 __nebula__ _n_ /ˈnɛb yə lə/  
 __nemorous__ _adj_ /ˈnɛmərəs/ Full of woods or groves, wooded, woody  
 __neophile__ _n_ NEE-uh-fyl/ One who loves new or novel things.  
+__nether__ _adj_ Located beneath or below; lower or under: _the nether regions of the earth._  
 __newfangled__ _adj_  
 __newsagent__ _n_ A shopkeeper who sells newspapers, stationery, etc. _Syn_ newsdealer  
 __nibble__ _v_  
@@ -750,6 +760,7 @@ __noggin__ _n_ __1__ A small mug or cup. __2__ A unit of liquid measure equal to
 __nominal price__ _n_  
 __nominal wages__ _n_ (money wages) Wages measured in terms of money and not by their actual purchasing ability.  
 __nominal__ _adj_ :dart: __2__ :dart: Minimal in comparison with real worth or what is expected; token: _a nominal fee._  
+__non-negotiable__ _adj_ Not open to negotiation or discussion: the policy is non-negotiable.  
 __non-profit-making__ _adj_ Not yielding a profit, esp because organized or established for some other reason: _a non-profit-making organization._  
 __nonplus__ _v_ /nahn-PLUS/ To _nonplus_ someone is to perplex them, or in other words, to cause them to be at a loss as to what to say, think, or do.  
 __nonplussed__ _adj_ :pencil2:  
@@ -760,6 +771,7 @@ __notorious__
 __nuance__ _n_ :mega: /ˈnu ɑns, ˈnyu-, nuˈɑns, nyu-/  
 __nubbly__ _adj_ Rough or irregular; textured. _Syn_ homespun, nubby, slubbed, tweedy  
 __nudge__ _vt_  
+__nullifier__ _n_  
 __nursing__ _n_ __1__ The profession of a nurse. __2__ The tasks or care of a nurse.  
 __nurture__ _n, vt_  
 __nutmeg__ _n_  
@@ -1009,6 +1021,7 @@ __russet<sup>2</sup>__ _adj_ Yellowish brown, light brown, or reddish brown.
 __rustle__ _v_  
 __rustle<sup>1</sup>__ _v_ /ˈrʌsəl/ __1__ To make or cause to make a low crisp whispering or rubbing sound, as of dry leaves or paper. __2__ To move with such a sound.  
 __rustle<sup>2</sup>__ _n_ The sound made by rustling.  
+__sac__ _n_ A baglike structure in an animal, plant, or fungus, esp. one containing fluid.  
 __sales floor__ _n_ The part of a business devoted to retail activities, such as a showroom or selling area of a shop or department store, usually manned by sales staff and having free public access with goods on display.  
 __sandspur__ _n_ _(Plants)_ An American wild grass.  
 __sanguinary__ _adj_ Accompanied by bloodshed. _Syn_ butcherly, gory, slaughterous  
@@ -1076,8 +1089,11 @@ __snub-fighter__ _n_ (snub fighter)
 __snuffbox__ _n_ A small, often decorated box with a hinged lid, used for carrying snuff.  
 __soapbox__ _n_ _Stan Lee’s soapbox._  
 __soon enough__ _adv_ :dart::astonished:  
+__sou__ _n_ One of several coins formerly used in France, worth a small amount.  
 __spinning jenny__ _n_ An early spinning machine having more than one spindle, enabling a person to spin a number of yarns simultaneously.  
 __sprawling__ _adj_ :two::hammer:  
+__squawk<sup>1</sup>__ _v_ _A squawking sparrow in a nest._  
+__squawk<sup>2</sup>__ _n_  
 __squire__ _n_ :astonished:  
 __stilted__ _adj_  
 __stray__ _v_  

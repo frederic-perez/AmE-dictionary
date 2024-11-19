@@ -22,6 +22,7 @@ __a colf fish__
 __a dab hand__ Someone who is skilled in a particular area. Primarily heard in UK, Australia.  
 __a different kettle of fish__ :dart: Any issue or matter that is entirely different in scope, description, or nature from that which was just being discussed.  
 __a far cry from (something)__  
+__a great deal__ _adv_ Very much; to a great extent; a lot; lots.  
 __a hell of a__ _informal_ (one hell of a) Used to emphasize something very bad or great. _You’re one hell of a package!_  
 __a joy to behold__ A thing, event, or experience that creates a profound sense of joy or elation in the spectator. _The spring flowers in this part of the country are truly a joy to behold._  
 __a laundry list of (something)__  
@@ -99,7 +100,9 @@ __beyond/within the realms of possibility__ Impossible/possible: _A successful o
 __big fat__ _adj_ :dart: __1__ (idiomatic, derogatory) Complete, utter, total. __2__ (idiomatic, colloquial) Huge, colossal. _A big fat lie._  
 __big guns__  
 __birthday suit__  
+__break character__ To fail to act as a certain character; to be or act out of character.  
 __brimstone__ _n_  
+__brush up (on something)__ :dart: To improve one’s knowledge of something or one’s ability to do something. _I need to brush up on my German. My German is weak. I had better brush up._  
 __bustle about__  
 __buzzard__ _n_ An old man; a mean old man. (Especially with old.) _Some old buzzard is at the door asking for Mary Wilson._  
 __call of nature__ The urge to urinate or defecate. _I have to attend to the call of nature._  
@@ -129,9 +132,11 @@ __come around__ __1__ To change one’s view or opinion of someone or something.
 __come on to (one)__ To flirt with or otherwise show romantic or sexual interest in one. :es: intentar ligarse a  
 __come to a close__ To reach an end point.  
 __come to a head__  
+__come to an end__ To wind down to an ending or conclusion. _Festivities came to an end well after the sun had risen the next morning._  
 __come to grips__  
 __come to terms with (someone or something)__  
 __coming-of-age__  
+__construe (something) as (something)__ :dart: To view or interpret something in a particular way. _Although I believe that he’s innocent, I can see how one could easily construe his actions as a crime._  
 __contend with (someone or something)__  
 __coochie__  
 __corny__ :es: cursi, sensiblero  
@@ -181,7 +186,7 @@ __factor in__
 __fall off the perch__ _BrE_ _old-fashioned, informal_ (fall off your perch) If someone falls off the perch or falls off their perch, they die. Note: A perch is a pole, branch or other place where a bird sits to rest. _He fell off the perch years ago._ Note: Other verbs such as drop or topple can be used instead of fall. _He’ll topple off his perch one morning. You know how it is._ Note: This expression is used humorously.  
 __famous last words__ A statement or claim that is promptly undone or disproved. This phrase is often humorously or preemptively. A reference to the final words one says before one dies. _A: “I can’t believe the ER has been so quiet today!” B: “Ugh, famous last words for sure.”_  
 __fancy__ _informal_ __2__ To have a desire for (something).  
-__fast and furious__  
+__fast and furious__ :two::hammer:  
 __fat chance__ Said of something that is unlikely to happen. :es: vaga posibilidad  
 __feel like doing something__  
 __feel puny__ To feel sick. _I woke up feeling puny, so I just stayed in bed all day._  
@@ -314,6 +319,7 @@ __hold my beer__
 __hold the line__  
 __hold tight__ __2__ To wait patiently without taking any immediate action.  
 __holding pattern__  
+__hoo boy__ An interjection usually used to express a negative emotion, such as dismay or displeasure. _Hoo boy, I’ve got 24 pages of legal jargon to get through—lucky me._  
 __hopeless at (something)__ Not skilled or adept at something. _Oh, I hired a maid because I know I’m hopeless at housework._  
 __horseshit__ :es: chorradas  
 __hothead__ A person with an excitable, fiery, or impetuous temper or disposition; one who is quick to get angry or act rashly. _That lady in the car behind me is a real hothead, honking and shouting at me every time I slow down!_  
@@ -355,6 +361,7 @@ __in itself__
 __in jeopardy__ In danger or at risk; imperiled.  
 __in layman’s terms__ :three::hammer:  
 __in less than no time__ (in no time) In a very little amount of time. Very quickly.  
+__in living memory__ (within living memory) In a recent enough time as to be remembered by people who are alive today. (Usually used in negative statements.) _There hasn’t been a blizzard like this in living memory!_  
 __in more ways than one__ In a number of ways. _I’m telling you, this idea of yours is a mistake in more ways than one._  
 __in no time (at all)__ (in less than no time) In a very little amount of time. Very quickly.  
 __in no way__ Not at all; not by any means.  
@@ -466,6 +473,7 @@ __keep up__
 __keep your eyes peeled__ _Keep your eyes peeled for imperial fighters!_  
 __keester__ _slang_ The buttocks or anus. Often used figuratively. _OK, kids, get off your keesters and go play outside!_  
 __key up__  
+__kick in__  
 __kick up__  
 __kids will be kids__ Kids behave childishly or immaturely by nature, so it is unrealistic to expect otherwise.  
 __kind of__ :two: _informal_ Used with adjectives, adverbs and verbs when something is difficult to describe or when the word you use is not exactly what you mean. _She kind of smiled at me._  
@@ -670,6 +678,7 @@ __on a whim__
 __on and off__  
 __on another subject__  
 __on edge__ Anxious and tense.  
+__on occasion__ :pencil2: Once in a while; occasionally.  
 __on paper__ __2__ Hypothetically or in theory.\_ It’s a good idea on paper, but I don’t think it would work in a real-world environment.\_  
 __on par (with someone or something)__  
 __on the back burner__ Of a low priority; given less or little thought or attention; postponed or suspended.  
@@ -693,7 +702,7 @@ __on the verge of (doing) (something)__
 __on the verge of__  
 __on the whole__ Considering everything together; in general or for the most part.  
 __on-site__  
-__once and for all__ :two::hammer:  
+__once and for all__ :three::hammer:  
 __once in a blue moon__ Very rarely.  
 __one size fits all__ :two::hammer:  
 __one way or another__  
@@ -720,6 +729,7 @@ __peeper__ peeper__ One’s eye. (That is, what one uses to peep.) Typically use
 __photobomb__  
 __pick up on (something)__ To detect or notice something; to become alert to or aware of something.  
 __pick up__  
+__pick your poison__  
 __pick-me-up__ :dart:  
 __piece of cake__ :dart: (a piece of cake) A very easy task or accomplishment. _I thought I was going to fail the test, but it turned out to be a piece of cake!_ Piece of cake, _Tom said to himself as he got ready to open the safe._  
 __pigheaded__ :smiling_imp: Incredibly stubborn, narrow-minded, and often ignorant or foolish. _He’s a nice guy most of the time, but he can be really pigheaded when it comes to certain things._  
@@ -903,6 +913,7 @@ __stay clear of (someone)__ :dart:
 __stay strong__ :es: mantente fuerte  
 __steely-spined__ :dart: __2__ Determined and resolved. _You’ll never be able to talk Louise out of this—she’s as steely-spined as they come._ __3__ :dart: Calm and unflappable under pressure. _I asked my brother to come to court with me because he is always steely-spined in stressful situations._ _Gina needs to be steely-spined to deal with all the rejection that comes with being an actress._  
 __step in__ To enter into some position, activity, or situation to intervene or improve it.  
+__step up (one’s) game__ To improve in some way, usually so that one can perform as well as others. _Man, I really need to step up my game if I’m going to play basketball with all these young guys._  
 __stick around__ To remain or linger in one location; to not leave or abandon (someone or something). _Hey, stick around for a minute, I need to talk to you._  
 __stiff upper lip__ :two: :es: guardar la compostura  
 __sting operation__ :dart::smiling_imp:  
@@ -921,6 +932,7 @@ __take heart (from something)__ To receive courage or comfort from some fact. _I
 __take heart__ To have one’s confidence, courage, or happiness bolstered (by something). _We may have lost the election, but we take heart in the fact that so many young people are now engaged and excited about politics._  
 __take heed (of someone or something)__  
 __take on trust__  
+__take stock (of something)__  
 __take the fall (for someone or something)__  
 __take umbrage__ :two::hammer:  
 __takedown__ :dart: _slang_ A taking down: the arrest of a suspect by a police officer. _She shot and killed two drug dealers in a takedown that went bad._  
@@ -961,6 +973,7 @@ __to the contrary__
 __to this day__  
 __tongue-tied__  
 __top something off__  
+__topsy-turvy__ [:scroll: It likely comes from the combination of “top” and “turvy,” with “turvy” being related to the Old English word “terve,” which means to turn or to overturn.]  
 __touch down__  
 __touch grass__ To participate in normal activities in the real world especially as opposed to online experiences and interactions.  
 __toughen up__  
@@ -975,6 +988,7 @@ __turn heads__
 __turn of phrase__ :dart:  
 __turn tail__ To run away or flee, usually in fear. _The burglars turned tail at the sound of our security alarm._  
 __two peas in a pod__  
+__two sheets to the wind__ [:scroll: The origins of this expression are nautical. _Sheets_ here are the ropes attached to the corners of a ship’s sail, used for controlling the extent and direction of the sail; if they are hanging loose in the wind, the vessel is likely to be out of control or taking an erratic course.]  
 __uh-huh__  
 __uh-oh__  
 __under (ne’s) thumb__ Under another’s authoritarian control; continually forced to submit to another’s will.  
@@ -983,9 +997,11 @@ __until death us do part__ :dart: A common phrase used in wedding ceremonies ind
 __uppity__ _adj_ _informal_ Haughtily arrogant, conceited, or self-important.  
 __vouch for (someone or something)__  
 __walk on water__  
+__wampum__ _n_ /ˈwɑmpəm/ _n_ Money. (From an American Indian word.) _I don’t have enough wampum to swing the deal._  
 __war chest__  
 __wax and wane__  
 __wisecrack__  
+__wishy-washy__  
 __with each passing day__ (with each passing moment) As time continues to pass, day by day.  
 __woozy__ :dart:  
 __word is__ ((the) word is)  
