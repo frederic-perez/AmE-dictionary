@@ -93,47 +93,6 @@ __butcher<sup>2</sup>__ _v_ __1__ To slaughter or prepare (animals) for market. 
 __cadge__ _v_  
 __calico__ _n_  
 __carouse__ _v_  
-__carrion__ _n_ :three: :es: carroña  
-__causeway__ _n_  
-__chapped__ _adj_ Used of skin roughened as a result of cold or exposure. _Chapped lips._ _Syn_ cracked, roughened  
-__clearing bank__ _n_ (in Britain) Any bank that makes use of the central clearing house in London for the transfer of credits and cheques between banks.  
-__close to one’s chest__  
-__close-knit__ _adj_ Held tightly together, as by social or cultural ties: _a close-knit family._  
-__clothespin__ _n_ :dart: A device used for hanging wet clothes on a clothesline to dry. :es: pinza  
-__clued up__ _adj_ _BrE_ _informal_ Knowledgeable about a topic or situation; possessing the facts. :es: al tanto (de), al corriente (de)  
-__coda__ _n_ :two::hammer:  
-__cogitation__ _n_ Thoughtful consideration; meditation. _Syn_ study  
-__comminuted__ _adj_ Pulverized; ground.  
-__compass__ _v_  
-__compelling__ _adj_  
-__comptroller__ _n_ :es: interventor  
-__conformal__ _adj_ _Math_ Of or designating a map or transformation in which angles and scale are preserved.  
-__connoisseur__  
-__conscientious__ _adj_  
-__construe__ _v_  
-__contemptuous__  
-__contrive__  
-__copperas__ _n_ /ˈkɒpərəs/ A less common name for ferrous sulphate.  
-__coriander__ _n_ :es: cilantro  
-__cornices__ _n_ :two::hammer:  
-__cornpone__ _n_  
-__corrugated__ _adj_ _Syn_ furrowed, channelled, ridged, grooved, wrinkled, creased, fluted, rumpled, puckered, crinkled _The sound of rain on the corrugated roof._ :es: ondulado  
-__coruscate__ _v_ /KOR-uh-skayt/  
-__cosmesis__ _n_  
-__cosmopolitan__ _adj_ :astonished: Pertinent or common to the whole world. _Syn_ ecumenical, general, universal, worldwide  
-__cosseted__ _adj_ :dart: (cossetted) /ˈkɒsɪtɪ/ Pampered; spoilt.  
-__cot death__ _n_ _Br E_ Sudden infant death syndrome.  
-__cottonmouth__ _n_ :three::camera: [:scroll: so called for the white streak along its mouth] A pit viper, venomous semiaquatic snake of swamps in southern United States. _Syn_ water moccasin  
-__countenance__ _n_  
-__cove__ _n_ :astonished:  
-__cowed__  
-__cowl__ _n_  
-__craft__ _n_ __5__ _crafts_ Items made by craftspeople.  
-__craftsman__ _n_ :pencil2:  
-__crockety__ _n_ Dishes, plates, and similar tableware collectively, usually made of some ceramic material, used for serving food on and eating from.  
-__crossly__ _adv_ :dart: In an ill-natured manner. _She looked at her husband crossly._ _Syn_ grouchily, grumpily  
-__crouch<sup>1</sup>__ _n_ The act of bending low with the limbs close to the body.  
-__crouch<sup>2</sup>__ _v_ Bend one’s back forward from the waist on down. _Syn_ stoop, bend, bow  
 __crowbar__ _n_  
 __cursory__ _adj_ /KER-suh-ree/ Something described as cursory has been done or made quickly.  
 __cutlass__ _n_  
