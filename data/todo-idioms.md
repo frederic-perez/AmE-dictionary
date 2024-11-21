@@ -979,46 +979,6 @@ __touch grass__ To participate in normal activities in the real world especially
 __toughen up__  
 __trials and tribulations__  
 __trick of the light__  
-__trickle down__ :five: __1__ Of a liquid, to flow or seep downward in drops or a thin stream. _As the ice cream melted, it began tricking down Billy’s arm._ _Beer trickled down his bare chest._  
-__trigger-happy__ __2__ Having a tendency to do something or engage in or begin some activity with even the smallest level of enticement or provocation. _Whenever I’m editing, I always get a little trigger-happy with the delete key and end up having to add some things back later._  
-__true colors__  
-__truss someone or something up__ To bind, tie, or bundle someone or something up. _The attendants trussed Walter up and took him to a padded cell._ _They trussed up Walter tightly._ _Ann trussed the bundle up and sent it off._  
-__try one’s hand at something__  
-__turn heads__  
-__turn of phrase__ :dart:  
-__turn tail__ To run away or flee, usually in fear. _The burglars turned tail at the sound of our security alarm._  
-__two peas in a pod__  
-__two sheets to the wind__ [:scroll: The origins of this expression are nautical. _Sheets_ here are the ropes attached to the corners of a ship’s sail, used for controlling the extent and direction of the sail; if they are hanging loose in the wind, the vessel is likely to be out of control or taking an erratic course.]  
-__uh-huh__  
-__uh-oh__  
-__under (ne’s) thumb__ Under another’s authoritarian control; continually forced to submit to another’s will.  
-__under a cloud__ Viewed with suspicion, distrust, or disapproval.  
-__until death us do part__ :dart: A common phrase used in wedding ceremonies indicating that the marriage bond shall be intended to last until death. :es: hasta que la muerte nos separe  
-__uppity__ _adj_ _informal_ Haughtily arrogant, conceited, or self-important.  
-__vouch for (someone or something)__  
-__walk on water__  
-__wampum__ _n_ /ˈwɑmpəm/ _n_ Money. (From an American Indian word.) _I don’t have enough wampum to swing the deal._  
-__war chest__  
-__wax and wane__  
-__wisecrack__  
-__wishy-washy__  
-__with each passing day__ (with each passing moment) As time continues to pass, day by day.  
-__woozy__ :dart:  
-__word is__ ((the) word is)  
-__work for pittance__ To work for very little money.  
-__work like a Trojan__  
-__work out__  
-__world without end__ :dart: For ever and ever; until the end of time. This unusual wording is taken from the King James translation of the phrase _in saecula saeculorum._ _I vowed to love him world without end._  
-__worm__ :smiling_imp: A contemptible person. _He’s such a little worm, agreeing with whatever the boss says if he thinks it will get him ahead._  
-__wrangle with (something)__ To struggle to understand, solve, or deal with something.  
-__y’all__ :two::hammer:  
-__yada yada yada__ :two::hammer:  
-__yellow__ _mod_ Cowardly. _A: Mooshoo says you’re yellow. B: Wanna make something of it?_ :es: miedica  
-__you are what you eat__ One’s overall health is linked to one’s eating habits. The phrase is often used to promote proper nutrition.  
-__you bet__  
-__you could hear the grass grow(ing)__  
-__you’re telling me__ I know.  
-__you(’d) better believe it__ Absolutely, without question; rest assured.  
 __young at heart__ Behaving or thinking in a way that is more youthful than what traditionally accompanies one’s actual age.  
 __yup__  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
