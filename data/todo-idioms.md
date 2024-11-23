@@ -13,6 +13,7 @@ __(someone) ain’t seen nothing yet__
 __(stuck) in a rut__  
 __(the) next thing (one) knows__ :two: (next thing you know)  
 __(the) top of the line__ The absolute best of a certain thing, often referring to a product that is of the utmost quality (and usually the most expensive). When used as a noun, it is preceded by “the.” _That store only sells top of the line gear. You may want to consider some lower-priced options._  
+__(with) kind regards__ A common, semi-formal valediction used at the end of a letter or other written message to express well wishes to the recipient. _Please send a financial report for your company for the previous year at your earliest convenience. With kind regards, Alex Goodman._  
 __a (whole) host of (something)__  
 __a balancing act__ :dart:  
 __a big if__  
@@ -25,6 +26,7 @@ __a far cry from (something)__
 __a great deal__ _adv_ Very much; to a great extent; a lot; lots.  
 __a hell of a__ _informal_ (one hell of a) Used to emphasize something very bad or great. _You’re one hell of a package!_  
 __a joy to behold__ A thing, event, or experience that creates a profound sense of joy or elation in the spectator. _The spring flowers in this part of the country are truly a joy to behold._  
+__a kindred spirit__ (kindred spirit)  
 __a laundry list of (something)__  
 __a legend in (one’s) own lifetime__ A person who has an extraordinary level of fame or reputation while they are still alive. _The singer has made such a huge impact on the world of blues that she’s come to be a legend in her own lifetime._  
 __a legend in (one’s) own mind__ A person who affects or believes that they are of greater importance or notoriety than is actually the case. A humorous, ironic twist on the phrase “a legend in one’s own lifetime.” _The assistant manager acts as if she’s the only one keeping the company together. She’s a regular legend in her own mind._  
@@ -37,6 +39,7 @@ __a mite__ :dart: To a small degree; somewhat: _That remark was a mite unfair._ 
 __a motor mouth__ A person who talks incessantly or irrepressibly.  
 __a piece of work__ :smiling_imp: A remarkably difficult, malicious, unpleasant, or objectionable person.  
 __a shiver down (one’s) spine__ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
+__a stab in the back__ A betrayal; an act of treachery.  
 __a stone’s throw__ :two: A very short distance.  
 __a stranger to (someone or something)__ Someone who experience or knowledge of something. Often used in negative constructions. _She’s rather much a stranger to cosmetics._  
 __a word of warning__ :two: Information about possible danger or trouble.  
@@ -102,6 +105,7 @@ __big guns__
 __birthday suit__  
 __break character__ To fail to act as a certain character; to be or act out of character.  
 __brimstone__ _n_  
+__bring (something) into effect__ To cause (something) to apply, begin operating, or take effect; to begin implementing or enforcing (something).  
 __brush up (on something)__ :dart: To improve one’s knowledge of something or one’s ability to do something. _I need to brush up on my German. My German is weak. I had better brush up._  
 __bustle about__  
 __buzzard__ _n_ An old man; a mean old man. (Especially with old.) _Some old buzzard is at the door asking for Mary Wilson._  
@@ -117,6 +121,7 @@ __Catch-22__
 __chalk up__  
 __chase the dragon__ :dart: To smoke a controlled substance, often heroin. _I can’t chase the dragon anymore—I’m trying to get away from that stuff._  
 __check someone or something out__  
+__cheddar__ _slang_ Money. _I’m all out of cheddar—can I borrow a few bucks?_  
 __chicken shit__  
 __chime in__  
 __clean as a whistle__ ((as) clean as a whistle)  
@@ -154,6 +159,7 @@ __cut eyes at (someone or something)__ To look at someone or something quickly.
 __dance on air__ To be extremely happy.  
 __day in and day out__  
 __dead__ __5__ Absolutely. _You’d better be dead certain about this decision, because you can’t take it back._  
+__deadhead__ __3__ _n_ _slang_ One who is regarded as dumb, dull, or stupid.  
 __dearth__ _n_ /dɜːθ/  
 __dig (something)__ _slang_ To understand, approve of, or enjoy something. _I really dig this music, man!_  
 __dig and poke around__ The idiom “dig and poke around” generally means to search or investigate something thoroughly by looking through various items or areas, often in a somewhat casual or unstructured manner.  
@@ -308,6 +314,7 @@ __helluva__
 __hem and haw__  
 __here’s for the happy couple__  
 __hinge on__  
+__hit (one) when (one) is down__ To criticize, exploit, insult, or otherwise treat badly one who has already suffered a setback or is in a vulnerable position. _Can Jeff’s employee review wait until next week? His girlfriend just left him, and I don’t want to hit him while he’s down._  
 __hit a brick wall__ To come up against an immovable or insurmountable difficulty or obstacle. _Our project was going well, but we hit a brick wall when our funding was suddenly cut._  
 __hit a snag__  
 __hit and miss__ (hit or miss)  
@@ -363,6 +370,7 @@ __in layman’s terms__ :three::hammer:
 __in less than no time__ (in no time) In a very little amount of time. Very quickly.  
 __in living memory__ (within living memory) In a recent enough time as to be remembered by people who are alive today. (Usually used in negative statements.) _There hasn’t been a blizzard like this in living memory!_  
 __in more ways than one__ In a number of ways. _I’m telling you, this idea of yours is a mistake in more ways than one._  
+__in no circumstances__ Never; in no case or situation; irrespective of events or conditions.  
 __in no time (at all)__ (in less than no time) In a very little amount of time. Very quickly.  
 __in no way__ Not at all; not by any means.  
 __in no way, shape, or form__ In no possible manner; under no circumstances; not by any means. _In no way, shape, or form is this kind of behavior acceptable!_  
@@ -384,6 +392,7 @@ __in the (grand) scheme of things__ In the long term; in the complete picture of
 __in the back of beyond__  
 __in the bag__ :two: Achieved or won almost as a certainty.  
 __in the blink of an eye__  
+__in the bud__ (in bud) In an undeveloped, immature, or incipient state. _Tommy has become quite a little painter in bud recently._  
 __in the hope that__ With the expectation, intention, or desire that (something will happen). _He strove to be well-behaved in prison, in the hope that he would be let out early on parole._  
 __in the house__  
 __in the least__ :three::hammer:  
@@ -413,6 +422,7 @@ __ink__ _slang_ __4__ _v_ To sign one’s name to (something); to formalize and 
 __ink-slinger__ _slang_ A writer, especially one who produces a large amount of low-quality material for a living.  
 __inner circle__  
 __insofar as__ :two: To such an extent that; to the degree that. _Insofar as money is concerned, our project will be completely funded by private donations._  
+__intestinal fortitude__ Strong courage, conviction, or determination; gumption; guts. _Not everyone has the intestinal fortitude necessary to survive in the world of politics._  
 __inveigle (someone) into (something)__ :smiling_imp: To trick or deceive someone into doing something. _I’m just worried that she’s using the kids to inveigle you into marrying her._  
 __iron grip__ __2__ Total, dominant control (over someone or something).  
 __isn’t that something__ The idiom “isn’t that something” is used to express surprise, amazement, or astonishment at a particular event, situation, or piece of information.  
@@ -473,11 +483,17 @@ __keep up__
 __keep your eyes peeled__ _Keep your eyes peeled for imperial fighters!_  
 __keester__ _slang_ The buttocks or anus. Often used figuratively. _OK, kids, get off your keesters and go play outside!_  
 __key up__  
+__kick (someone or something) to the curb__  
 __kick in__  
+__kick the can down the road__ Especially in politics, to postpone or defer a definitive action, decision, or solution, usually by effecting a short-term one instead.  
+__kick the tires__ To inspect or test something or someone to ensure that he, she, or it meets the required or expected standard of quality. Primarily heard in US, Canada. _You should always kick the tires of anything you plan to buy from someone online, or else you might end up buying a piece of junk!_  
 __kick up__  
 __kids will be kids__ Kids behave childishly or immaturely by nature, so it is unrealistic to expect otherwise.  
 __kind of__ :two: _informal_ Used with adjectives, adverbs and verbs when something is difficult to describe or when the word you use is not exactly what you mean. _She kind of smiled at me._  
 __king of the castle__ The most powerful, successful, or authoritative person in a group or organization.  
+__king of the hill__ The most powerful, successful, or authoritative person in a group or organization.  
+__king of the jungle__ The lion, especially in cultural or artistic depictions. (Usually a misnomer, as lions typically inhabit deserts or dry forests, as opposed to jungles.)  
+__kiss and cry__ An area in an ice skating rink where figure skaters rest while awaiting their results after a competitive performance. So named because competitors typically celebrate or commiserate (depending on their performance) with coaches, friends, or family in this location. _After a terrific performance, Katy is heading to the kiss and cry to wait with her coach while the judges tally their marks._  
 __kitchen-sink__ Showing or pertaining to the lives of common, everyday people. (Always used before a noun.)  
 __knee-jerk reaction__ Any spontaneous, reflexive, and unthinking reaction or response.  
 __knife-edge__  
@@ -493,6 +509,7 @@ __land of plenty__ A fictional or imagined utopian place where there is an abund
 __larger than life__  
 __lash around__  
 __lash out__  
+__last burst of fire__ A final effort or attempt, especially as before failure or defeat. _The home team has unleashed one last burst of fire in the final seconds of the game to try and force an overtime showdown._  
 __last chance (for/at/to do something)__ The last or final opportunity to get, have, do, or achieve something. _Hurry and book your flights today—this is your last chance for the cheapest tickets in town!_  
 __last out__  
 __last-ditch attempt__ A final effort or attempt to solve a problem or avoid failure or defeat, especially after a series of failures or setbacks.  
@@ -511,13 +528,17 @@ __lay (oneself) out__ To put in a great deal of effort; to inconvenience oneself
 __lay (someone) to rest__  
 __lay (something) at the feet of (someone)__ To make or hold someone, especially a group of people, responsible for something. _With every other department losing money each year, the managers have laid the company’s success at the feet of our team._  
 __lay bare (something)__ To divulge, explain, or reveal something not previously known publicly.  
+__lay down and die__ To quit; to give up hope or ambition. _We might have had an unexpected loss in the playoffs, but that doesn’t mean this team is ready to lay down and die!_  
 __lay the groundwork (for something)__ :two: To create or prepare the basics or essential foundation (for something); to pave the way (for something). _Our success with this healthcare bill wouldn’t be possible, had the previous administration not laid the groundwork already._  
 __laze about__ To relax or spend time idly; to do nothing or very little. _It’s a gorgeous day outside, so you kids get off your butts and quit lazing about!_  
+__lazy-bones__ A particularly lazy or indolent person. _Come on, lazy-bones, you’ve spent half the day in bed. Time to get up and be productive!_  
 __leach away__ __1__ To become dissolved, eroded, or carried away, by or as by some percolating liquid. _Nutrients in the soil have continued leaching away as the groundwater become more acidic._ _All emotion had been leached away._ __2__ To dissolve, erode, or carry something away due to percolation. In this usage, a noun or pronoun can be used between “leach” and “away.” _Over time, the saltwater leached the limestone away all along the coastline._  
+__lead nowhere__ To ultimately yield or achieve no useful, beneficial, or successful result or outcome. _This meeting is leading nowhere. We’ve been here for over two hours now and haven’t even been able to come up with a name for our product!_  
 __leapfrog over (someone or something)__ :two::hammer:  
 __leaps and bounds__ :dart:  
 __leave (something) out of account__ To ignore something; to pay little or no heed to something. _If you leave the constituents’ opinions out of account on this issue, you can kiss their votes goodbye in the election next fall._  
 __leave a lot to be desired__ To be very inadequate or unsatisfactory; to lack a large amount of what is desired or required.  
+__leave home__ To cease living with one’s parents; to strike out on one’s own. _I regret leaving home at such a young age, but it did teach me some good lessons about self-reliance._  
 __legal eagle__ An especially clever, aggressive, or skillful attorney. _I might be considered something of a legal eagle now, but I had to work for years to get enough experience to build my reputation._  
 __lemon law__ A law requiring an automobile manufacturer or dealer to replace, repair, or refund the cost of an automobile that proves to be defective after purchase.  
 __let (one) off the hook__ To pardon, release, or allow one to escape from blame, responsibility, obligation, or difficulty. _At first, Sam was suspected of stealing money from the safe, but he was let off the hook after security camera footage showed it was someone else._  
@@ -688,6 +709,7 @@ __on the contrary__
 __on the edge of (one’s) seat__  
 __on the go__  
 __on the grounds of__ The phrase “on the grounds of” is primarily used in legal and formal contexts to mean “based on” or “justified by.”  
+__on the leading edge__ Having or knowledgeable of the most advanced technology in a given area, activity, or endeavor. _The local university’s laboratory is on the leading edge when it comes to cancer research._  
 __on the line__ __1__ In a state of jeopardy or uncertainty.  
 __on the lookout__ :three: Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
 __on the move__  
@@ -717,6 +739,7 @@ __out of nowhere__
 __out of print__ No longer being printed and sold by a publisher.  
 __out of the wood(s)__  
 __over and out__ Said to mark the end of communication between two people. Used especially in radio communication, in which it signals that a person is done speaking and does not expect a reply from the other person. _A: “Oh, and while you’re at the store, could you please get some milk, too?” B: “Sure thing. Over and out.”_  
+__over the course of__ In or during the process of.  
 __over the edge__  
 __over the phone__ :two: By calling on the telephone. _You can order a pizza over the phone._  
 __pad out__ (pad something out) To fill something with cheaper or unnecessary material in order to make it superficially fuller, larger, or longer. A noun or pronoun can be used between “pad” and “out.” :es: rellenar  
@@ -821,6 +844,7 @@ __scrape by__
 __screwup__ _n_ _slang_ _She does not forgive sloppy work on technical screwups._  
 __scumbag__ :smiling_imp:  
 __scupper up__  
+__security blanket__ Something that dispels anxiety, as in _I always carry my appointments calendar; it’s my security blanket._ This colloquial term, dating from about 1960, was at first (and still is) used for the blanket or toy or other object held by a young child to reduce anxiety.  
 __see (one) in the flesh__ To see one in person who is usually only seen at a distance, especially through a medium such as film, music, theater, etc. _After years of idolizing the singer, it was a bit anticlimactic seeing her in the flesh._  
 __see fit__ :dart: Deem appropriate, as in _He’s entitled to divide up his property as he sees fit_, or _If we see fit to attend, we’ll be there._  
 __see the last of (someone or something)__ To no longer encounter a certain person or thing. Often used in the negative.  
@@ -950,6 +974,8 @@ __the better part of (something)__ :dart::two: The majority of something. _I’m
 __the facts of life__  
 __the golden rule__ :dart: The maxim that one should treat other people the way one would like to be treated, often expressed proverbially as “Do unto others as you would have them do unto you.” _My son wanted to steal the bike of a boy who stole his lunch money, so I told him that the only way to get along with people is to follow the golden rule._  
 __the greatest thing since sliced bread__ A humorous and hyperbolic statement indicating one’s belief that something is excellent, especially something new and innovative. _These waterproof jeans are the greatest thing since sliced bread. I don’t have to worry about getting soaked!_  
+__the keys to the kingdom__  
+__the L-bomb__ An expression of romantic love for another, especially when said unexpectedly and/or for the first time. Usually used in the phrase “drop the L-bomb.” _We’d only been dating for a couple of months when he dropped the L-bomb on me. I was so shocked that all I could think to say back was, “Thank you!”_  
 __the law of the instrument__ See _Maslow’s hammer_.  
 __the light at the end of the tunnel__  
 __the likes of you__  
