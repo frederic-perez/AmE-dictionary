@@ -774,46 +774,6 @@ __plop down__ _informal_ __1__ To sit or lie down in a heavy or careless way. _H
 __plowed over__ Being overwhelmed or completely defeated by something.  
 __plunger__ _n_ /ˈplʌndʒə/ __3__ _informal_ A reckless gambler.  
 __point the finger at (one)__  
-__poke around__ :four: To investigate, search through, or snoop around something or some place.  
-__poke into (someone or something)__  
-__pop up (some place)__ To appear suddenly and unexpectedly some place. _I never know where Henry is going to pop up next._ _A new problem has popped up._  
-__poppers__ Drugs of the alkyl nitrate class used recreationally as a sexual stimulant, especially among gay men. Amyl nitrite became popular in the 60s especially with the male gay community becase it relaxes the muscles, making anal intercourse easier.  
-__poppy appeal__  
-__ppl__ (people?)  
-__press (something) (up)on (one)__  
-__price to pay__  
-__prickteaser__ _slang_ A _prickteaser_ is a slang term with vulgar and derogatory connotations, typically referring to a seductive woman who uses her sex appeal to exploit or manipulate men without following through on implied sexual promises.  
-__prim and proper__ Having very traditional, morally conservative beliefs and behavior.  
-__Prince Charming__ The (hypothetical) perfect man who has all of the traits that one (usually a woman) wants in a romantic partner. _I’d almost given up hope of ever finding my own Prince Charming before I met you!_  
-__prop up__  
-__public eye__ Attention from the general public. Typically used in the phrase “in the public eye.”  
-__pucker up__ __1__ To purse one’s lips together, as when tasting something sour or preparing for a kiss.  
-__pull (one’s) weight__ To contribute to a group activity or pursuit in proportion to one’s ability or responsibility. _If you don’t pull your weight, our presentation will never be finished on time._  
-__pull something off__  
-__puppy__ __1__ _n_ A wimp; a softie. _That silly puppy is still waiting outside your door._ __2 __ _n_ A thing; a piece or part of something. _Put this little puppy right here._  
-__push the envelope__ To expand on, exceed, or test the limits of the established norm or standard.  
-__put (one’s) best foot forward__ :es: hacer una buena impresión  
-__put (someone or something) (up) on a pedestal__ To believe or behave as if someone or something is perfect, wonderful, or better than others, to the extent that one is unable to see its potential flaws or faults.  
-__put (someone or something) to the test__  
-__put off by someone or something__ Distressed or repelled by someone or something. _I was really put off by your behavior._ _We were all put off by the unfairness of the rules._  
-__put off__ __1__ _v_ To deter, annoy, or repel. A noun or pronoun can be used between “put” and “off.” _I don’t know if you realize how much you put people off with your attitude._  
-__put on a good/poor/etc. show__  
-__put up a fight__  
-__put up with (someone or something)__ To abide or endure someone or something that one finds unpleasant, inconvenient, or annoying.  
-__put up with__  
-__quite a few__ (quite a lot; quite a bit; quite a number)  
-__racket__ :smiling_imp: __2__ A fraudulent scam or money-making operation. _He’s always cooking up some racket or another to get rich quick._  
-__rags to riches__ Characterized by a rise from poverty to great or exceptional wealth. Hyphenated if used as a modifier before a noun.  
-__raise eyebrows__  
-__rake in__  
-__rat (one) out__ To inform an authority figure of one’s bad or illegal behavior.  
-__rat out__ :smiling_imp: __1__ To expose or reveal incriminating or embarrassing information about someone: _The newspapers ratted out the people who were involved with the scam._ __2__ To quit; to fink out (on someone/something). _He tried to rat out at the last minute._  
-__ream ream someone out__  
-__rear its ugly head__  
-__recoup (something) from (someone or something)__ To recover, regain, or restore something from someone or something. _You’ll have to pay for everything out of pocket, but you can recoup it all from HR after you’re back from the trip._  
-__ride or die__ _n_ One’s closest, most reliable or trustworthy friends. _Liz is my ride or die—I can totally count on her to be there for me in any situation._  
-__rifle through (something)__ To look through something very quickly, roughly, or energetically.  
-__ring a bell__ ((something) ring a bell (with one))  
 __roast__  
 __rob someone blind__ :smiling_imp:  
 __roll with the punches__  
