@@ -111,6 +111,7 @@ __bustle about__
 __buzzard__ _n_ An old man; a mean old man. (Especially with old.) _Some old buzzard is at the door asking for Mary Wilson._  
 __call of nature__ The urge to urinate or defecate. _I have to attend to the call of nature._  
 __call out__  
+__call the shots__ (call (all) the shots)  
 __case in point__  
 __cash flow__  
 __cash poor__ Having very little fluid capital due to one’s financial wealth being derived from or invested in long-term assets. _I can’t afford transactions like that right now. All my wealth is tied up in real estate, so I’m a bit cash poor at the moment._  
@@ -120,6 +121,7 @@ __castles in the air__
 __Catch-22__  
 __chalk up__  
 __chase the dragon__ :dart: To smoke a controlled substance, often heroin. _I can’t chase the dragon anymore—I’m trying to get away from that stuff._  
+__check on (someone or something)__ To check the status, condition, or well-being of someone or something through an inspection or visit. _We need to check on Grandma and see how she is coping with all this snow._  
 __check someone or something out__  
 __cheddar__ _slang_ Money. _I’m all out of cheddar—can I borrow a few bucks?_  
 __chicken shit__  
@@ -127,14 +129,17 @@ __chime in__
 __clean as a whistle__ ((as) clean as a whistle)  
 __clear the table__ To remove objects from a table. This phrase is often said after a meal, as one removes dishes, silverware, and leftover food from the table. _After the meal I cleared the table._  
 __close shave__  
+__close to one’s chest__  
 __close up__ _Close it up, Wedge! Check!_  
 __cockamamie__ Absurd or ridiculous. _Please don’t get involved in another one of his cockamamie schemes—you know they never pan out._  
 __coin__ _slang_ Money.  
 __cold fish__  
 __come a long way__  
+__come and go__ To occur, exist, enter, or appear and then subside or disappear quickly or suddenly. _Ill effects of the medication come and go, but they’re still better than the disease it’s treating._  
 __come and gone__ The idiom “come and gone” refers to something that has arrived and then passed or ended. It often implies that a particular time, opportunity, or event has occurred and is now over, suggesting a sense of finality or missed chances.  
 __come around__ __1__ To change one’s view or opinion of someone or something.  
 __come on to (one)__ To flirt with or otherwise show romantic or sexual interest in one. :es: intentar ligarse a  
+__come through__  
 __come to a close__ To reach an end point.  
 __come to a head__  
 __come to an end__ To wind down to an ending or conclusion. _Festivities came to an end well after the sun had risen the next morning._  
@@ -149,7 +154,9 @@ __covet__ _v_ _You shall not covet your neighbor’s house; you shall not covet 
 __crackerjack__  
 __cranky__ Irritable; in a foul mood.  
 __creeper__  
+__cross oneself__ To make the sign of the cross on one’s head and chest. _I crossed myself as I entered the church._  
 __crowd (one)__  
+__crummy__ _informal_ __1__ Bad or unpleasant. _I’m feeling pretty crummy—I hope I’m not coming down with something._ __2__ Of poor quality. _Darn it, my crummy suitcase fell apart as I was trying to pack it._  
 __cry (one) a river__ Said sarcastically to someone whose whining, complaints, or tears fall on unsympathetic ears. Most often said as “cry me a river.”  
 __cry over spilled milk__  
 __cut (one’s) teeth__ :dart: To gain experience with something, especially at a young age (when one’s teeth would be coming in). _That part-time administrative position allowed me to cut my teeth in the world of Human Resources._  
@@ -192,6 +199,7 @@ __factor in__
 __fall off the perch__ _BrE_ _old-fashioned, informal_ (fall off your perch) If someone falls off the perch or falls off their perch, they die. Note: A perch is a pole, branch or other place where a bird sits to rest. _He fell off the perch years ago._ Note: Other verbs such as drop or topple can be used instead of fall. _He’ll topple off his perch one morning. You know how it is._ Note: This expression is used humorously.  
 __famous last words__ A statement or claim that is promptly undone or disproved. This phrase is often humorously or preemptively. A reference to the final words one says before one dies. _A: “I can’t believe the ER has been so quiet today!” B: “Ugh, famous last words for sure.”_  
 __fancy__ _informal_ __2__ To have a desire for (something).  
+__fantabulous__  
 __fast and furious__ :two::hammer:  
 __fat chance__ Said of something that is unlikely to happen. :es: vaga posibilidad  
 __feel like doing something__  
@@ -215,6 +223,7 @@ __flying squad__ _n_ A small group of police, soldiers, etc, ready to move into 
 __fold__ :two: _informal_ __1__ Of a business, to fail or close; to cease to do business.  
 __follow suit__  
 __food chain__ Used in the phrases “at the top of the food chain” and “at the bottom of the food chain.” __1__ A hierarchy of organisms that transfer food energy between them. The smallest organisms are at the bottom—and they are preyed upon by the larger ones above them in the food chain. _Grizzly bears are at the top of the food chain._ _Phytoplankton are at the bottom of the food chain._ __2__ A hierarchy of people in a group or organization. _As a medical intern, I’m at the bottom of the food chain, but I’ll move up soon enough._  
+__fool around__  
 __foot the bill__  
 __for (one’s) benefit__ (for somebody’s benefit) Largely (or solely) to help one.  
 __for a charge__ The act of charging someone a fee or price for a service or item.  
@@ -254,6 +263,7 @@ __get lucky__ :two: __2__ _slang_ To have sex, especially with someone whom one 
 __get my drift__ ((do you) get my drift?) Do you understand the meaning, insinuation, or implication of what I’m saying? _All I’m saying is that I won’t be very sad if she breaks up with her boyfriend—get my drift?_ _I haven’t seen Ike and don’t care for the likes of him, if you get my drift._  
 __get on famously__ To have an exceptionally good relationship (with someone); to get along very well. _I’m glad you finally got to meet my brother—I knew you two would get on famously._  
 __get on like a house afire__ Of two or more people, to enjoy one another’s company very much from the start and become good friends at once. (Used when people are meeting for the first time.) _I can’t wait for you to meet Mark, I just know the two of you will get on like a house afire!_  
+__get played__ :smiling_imp: To be misled, deceived, or manipulated for someone else’s needs, ends, or benefits. _You paid $150 for this? Man, this piece of junk is barely worth 20 bucks! You got played, dude._  
 __get set__ (get (all) set) To become prepared or excited (for or to do something). _Well, gest set, Chewie. We’re going to have company._  
 __get something out of the way__ :dart: Deal with a task or difficulty so that it is no longer a problem or worry. _I’m glad I’ve got that visit to the dentist out of the way._  
 __get the hang of (something)__  
@@ -270,6 +280,7 @@ __give a flying fuck__ (usually in a negative use, vulgar) To care whatsoever.
 __give a hiding__ The idiom “give a hiding” primarily means to deliver a severe beating or punishment. This usage is particularly common in British English, where it can refer to both physical punishment and a figurative sense of defeat.  
 __give a shit__  
 __give in to (someone or something)__ :two::hammer: _No competent investigator can give in to emotions._  
+__give in__  
 __give or take__  
 __give something a miss__ _I’ll give coffee a miss; I’m off to bed now._  
 __glass cliff__ _n_ A situation in which a woman or minority has advanced professionally at a time when adverse circumstances or crises make it more likely for the person to fail at the job.  
@@ -286,6 +297,7 @@ __go with the flow__ To act as others are acting, conforming to common behavior 
 __go with the territory__ To typically accompany a certain situation; to be a usual consequence or related issue. _When you’re the boss, staying late at the office just goes with the territory._  
 __God rest someone’s soul__ May God bless a previously mentioned person who has died. _I remember what my mother, God rest her soul, used to say about that._  
 __God’s honest truth__ The absolute, sincere, unequivocal truth.  
+__God’s will be done__ The idiom “God’s will be done” expresses a sense of acceptance regarding circumstances that are beyond human control. It reflects a belief in a higher power’s plan or purpose, suggesting that whatever happens is ultimately part of a divine design.  
 __goes with the job__ The idiom “goes with the job” means that something is an inherent or expected part of a particular job, profession, or role. It implies that certain responsibilities, challenges, or benefits are naturally associated with the job in question.  
 __golden hammer__ See _Maslow’s hammer_.  
 __golden__  
@@ -359,9 +371,11 @@ __in bits and pieces__ In many small fragments. _Look what you’ve done! My fav
 __in cahoots (with someone)__  
 __in concert with (someone)__ Together with someone; in cooperation with someone. _You’ll need to work in concert with my file clerk to sort through all this paperwork._  
 __in default of (something)__ Due to the absence or lack of something; through the failure of something. _Though it was only a speeding ticket, Janet was imprisoned in default of paying the fine._  
+__in distress__ :three: __1__ Very upset. _He was clearly in distress upon hearing the news._ __2__ In a very difficult situation in which one does not have enough money, food, etc. _She’s chosen to devote her life to helping those in distress._ __3__ (of a boat, airplane, etc.) In a state of danger or desperate need. _The ship was in distress._  
 __in favor (with someone)__ Highly regarded (by someone); widely accepted or enjoyed (by someone). Primarily heard in US. _John had been in favor with his boss ever since he managed to secure that lucrative client._  
 __in fee__ _Law (specifically of land)_ In absolute legal ownership or subjection.  
 __in full swing__ :three::hammer:  
+__in hock__ __1__ In debt. _I picked a smaller, more affordable school so I didn’t have to be deep in hock with student loans for years after I graduated._ __2__ Having been pawned. _I really needed cash, so my guitars are in hock, unfortunately._  
 __in hot water__ :dart::two: Having provoked or incited anger, hostility, or punishment against oneself; in a troublesome or difficult situation, especially that which will result in punishment or reprisal. _I was in a bit of hot water with Janice last night when she found out I went to the movies instead of cleaning out the garage._  
 __in its infancy__ In the early, nascent period of development or implementation. (Typically of an area of activity, interest, research, etc.)  
 __in itself__  
@@ -432,6 +446,7 @@ __it goes without saying__ :two::hammer:
 __it never rains but it pours__ When something good or bad happens, similarly good or bad things tend to follow.  
 __it remains to be seen__ Something is not yet clear, certain, or known.  
 __it wouldn’t do (someone) any harm (to do something)__ It would or may be good, pragmatic, or beneficial for someone (to do something). _You know, it wouldn’t do you any harm to comb your hair from time to time._  
+__it’s about time__ ((it’s) (a)bout time)  
 __it’s all good__ :dart: A phrase used to express general approval, unconcern, or disinterest.  
 __jabber__ :two: __1__ _v_ To chat casually about someone or something. _I’ve got some free time today, so let’s sit and jabber for a bit._  
 __jack-o’-lantern__ [The _o’_ in jack-o’-lantern is short for the word _of._] A pumpkin that has a face carved into it and which is lit from within (usually by candles) so that the “face” glows. Typically used as a Halloween decoration. _We’re carving a jack-o’-lantern tonight so we can put it outside our door on Halloween._  
@@ -534,6 +549,7 @@ __laze about__ To relax or spend time idly; to do nothing or very little. _It’
 __lazy-bones__ A particularly lazy or indolent person. _Come on, lazy-bones, you’ve spent half the day in bed. Time to get up and be productive!_  
 __leach away__ __1__ To become dissolved, eroded, or carried away, by or as by some percolating liquid. _Nutrients in the soil have continued leaching away as the groundwater become more acidic._ _All emotion had been leached away._ __2__ To dissolve, erode, or carry something away due to percolation. In this usage, a noun or pronoun can be used between “leach” and “away.” _Over time, the saltwater leached the limestone away all along the coastline._  
 __lead nowhere__ To ultimately yield or achieve no useful, beneficial, or successful result or outcome. _This meeting is leading nowhere. We’ve been here for over two hours now and haven’t even been able to come up with a name for our product!_  
+__lead the pack__ To be at the forefront of a particular group, either literally or figuratively. _We had Bill lead the pack on our tour through Rome._  
 __leapfrog over (someone or something)__ :two::hammer:  
 __leaps and bounds__ :dart:  
 __leave (something) out of account__ To ignore something; to pay little or no heed to something. _If you leave the constituents’ opinions out of account on this issue, you can kiss their votes goodbye in the election next fall._  
@@ -605,6 +621,7 @@ __loud and clear__ :two::hammer:
 __lucky monkey__ The concept of a “lucky monkey” is often associated with good fortune, playfulness, and positive energy.  
 __lunge at (someone or something)__ To leap toward someone or something, especially with the intent of grabbing, attacking, or striking them or it. _The criminal lunged at the police officer with a knife, but the cop was able to subdue him without difficulty._  
 __lurk__  
+__lush__ A person who drinks alcohol habitually or excessively; a drunkard.  
 __lust for life__  
 __magic mushroom__ _informal_ Any mushroom-like fungus that has psychedelic effects.  
 __make (both) ends meet__  
@@ -639,6 +656,7 @@ __much obliged__ :dart: __1__ Indebted to someone for their generosity, kindness
 __mug shot__ __1__ An official photograph taken of someone being brought into police custody, usually characterized by the person wearing a grim or blank expression on their face.  
 __mugger__ _n_ :three::smiling_imp: Someone, usually a male, who attacks and robs people. _I clobbered the mugger with a tire iron I carry just for such occasions._  
 __mumbo jumbo__  
+__muss up__ To cause something to become disheveled or untidy, especially one’s hair. A noun or pronoun can be used between “muss” and “up.” _I just spent an hour getting my hair exactly how I want it, so don’t go mussing it up like that!_  
 __mussed__ _adj_ Rumpled, tousled or untidy.  
 __my ass__  
 __nab__ _v_ To catch and arrest someone. Often used in passive constructions.  
@@ -774,6 +792,7 @@ __plop down__ _informal_ __1__ To sit or lie down in a heavy or careless way. _H
 __plowed over__ Being overwhelmed or completely defeated by something.  
 __plunger__ _n_ /ˈplʌndʒə/ __3__ _informal_ A reckless gambler.  
 __point the finger at (one)__  
+__riled up__ ((all) riled up) Particularly angry, agitated, or in a frenzied state.  
 __roast__  
 __rob someone blind__ :smiling_imp:  
 __roll with the punches__  
@@ -908,6 +927,7 @@ __strike (one) dead__
 __strike a (raw) nerve__  
 __strong water__  
 __sucker (one) in__ To con, swindle, or deceive someone.  
+__suffice it to say__ (suffice (it) to say)  
 __suicide by cop__  
 __sure as hell__ ((as) sure as hell) _The cops that worked the case didn’t do shit and sure as hell aren’t going to do shit now._  
 __sure thing__  
@@ -965,6 +985,8 @@ __touch grass__ To participate in normal activities in the real world especially
 __toughen up__  
 __trials and tribulations__  
 __trick of the light__  
+__wait and see__  
+__wind up__ __1__ To come or bring to a finish; end: _when the meeting wound up; wind up a project._  
 __young at heart__ Behaving or thinking in a way that is more youthful than what traditionally accompanies one’s actual age.  
 __yup__  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  

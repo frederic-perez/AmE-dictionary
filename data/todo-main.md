@@ -17,8 +17,10 @@ __anemone__ _n_ :mega: /əˈnɛm əˌni/ /uh–nem–uh-nee/
 __apoplexy__ _n_  
 __appalling__ _adj_  
 __approach__ _n_ :es: actitud  
+__aquiline__ _adj_  
 __arbiter__ _n_ One chosen or appointed to judge or decide a disputed issue. _Syn_ arbitrator, umpire  
 __armistice__ _n_ /AHR-muh-stus/  
+__arrest__ _v_ :dart:  
 __Aryan Brotherhood__ _n_ (the Brand, the AB)  
 __aspersion__ _n_ :smiling_imp:  
 __asthma__ _n_ :mega: /ˈæz mə, ˈæs-/ /az-muh/  
@@ -37,6 +39,7 @@ __bawling__ _n_ _Now you quit your bawling, honey._
 __bay window__ _n_ :two::hammer::camera:  
 __beastly<sup>1</sup>__ _adj_ :dart: __1__ _informal_ Unpleasant; disagreeable; nasty: _beastly weather._  
 __beastly<sup>2</sup>__ _adv_ _informal_ (intensifier): _the weather is so beastly hot._  
+__behemoth__ _n_  
 __belie__ _v_ :two::hammer:  
 __bellows__ _n_ _n pl_ __1__ The lungs. __2__ :camera: A mechanical device that blows a strong current of air; used to make a fire burn more fiercely or to sound a musical instrument.  
 __bellwether__ _n_ :dart: __1__ [:scroll: Since long ago, it has been common practice for shepherds to hang a bell around the neck of one sheep in their flock, thereby designating it the lead sheep. (Wether is a male sheep, esp a castrated one.)] Sheep that leads the herd often wearing a bell.  
@@ -70,6 +73,7 @@ __bookend__ _n_ :camera:
 __booker__ _n_  
 __boom__ _n_  
 __boxwood__ _n_  
+__Bram__ _n_ Short for Abraham, Abram, Bertram.  
 __bran__ _n_  
 __brandish__ _v_  
 __brat__ _n_  
@@ -98,12 +102,14 @@ __butcher<sup>2</sup>__ _v_ __1__ To slaughter or prepare (animals) for market. 
 __cachet__ _n_ /ka-SHAY/  
 __cadge__ _v_  
 __calico__ _n_  
+__canine tooth__ _n_ One of the four pointed conical teeth (two in each jaw) located between the incisors and the premolars. _Syn_ canine, cuspid, eye tooth, eyetooth, dogtooth  
 __carouse__ _v_  
 __choir__ _n_ :mega: /kwaɪər/ /kwahyuhr/  
 __chunky__ _adj_ Short and thick; stocky. _Syn_ low-set, squat, squatty, stumpy, dumpy  
 __colander__ _n_ /KUH/KAH-luhn-duhr/ (cullender) A utensil with perforations, used for straining or draining foods.  
 __colonel__ _n_ :mega: /ˈkɜr nl/ /kur-nl/  
 __coup__ _n_ :mega: /kuː/ /koo/  
+__crow__ _n_ The cry of the cock.  
 __crowbar__ _n_  
 __cursory__ _adj_ /KER-suh-ree/ Something described as cursory has been done or made quickly.  
 __cutlass__ _n_  
@@ -131,12 +137,14 @@ __denouement__
 __deport__ _vt_ __1__ To expel from a country: _deported the foreigner who had entered the country illegally._  
 __depose__ _v_  
 __deranged__ _adj_ :smiling_imp: Driven insane. _Syn_ crazed, half-crazed  
+__derelict__ _adj, n_  
 __deride__ _vt_ [:scroll: Latin dērīdēre : dē-, de- + rīdēre, _to laugh at_]  
 __descant__ _n_  
 __despicable__  
 __despoil__ _v_ :two::hammer:  
 __despondent__ _adj_ :two::hammer:  
 __deter__ _v_ :two: /dɪˈtɜr/ /dih-TER/ To _deter_ someone is to discourage or prevent them from acting. To _deter_ a thing is to stop or limit it.  
+__diary__ _n_  
 __diction__ _n_  
 __diffident__ _adj_  
 __dilation__ _n_ :mega: /daɪˈleɪ ʃən, dɪ-/  
@@ -175,6 +183,7 @@ __dowsing__ _n_ The practice of prospecting for water or minerals using a divini
 __drapery__ _n_ :two::hammer: /ˈdreɪpərɪ/  
 __draw up__ _v_  
 __drawl__ _v_  
+__dreadful__ _adj_  
 __dreary__ _adj_  
 __drifter__ _n_ :es: vagabundo  
 __drivel__ _n_ :dart: __1__ Saliva flowing from the mouth. __2__ :dart: Stupid or senseless talk. Nonsense; twaddle. _I’m not interested in his pornographic drivel._  
@@ -304,7 +313,7 @@ __flighty__ _adj_ /ˈflaɪtɪ/
 __flinch__ _vi_ :es: estremecerse; encogerse  
 __fling__ _v_ :two::hammer: (flung)  
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
-__flit__ _vi_ :two: __1__ To move about rapidly and nimbly. __2__ To move quickly from one condition or location to another.  
+__flit__ _vi_ :three: __1__ To move about rapidly and nimbly. __2__ To move quickly from one condition or location to another.  
 __float·a·tion _- _n- /flō-tā′shən/ __1__ Variant of _flotation_.  
 __flogging__ _n_ Beating with a whip or strap or rope as a form of punishment.  
 __floorwalker__ _n_ An employee of a department store who supervises sales personnel and assists customers. _Syn_ shopwalker  
@@ -393,7 +402,7 @@ __genteelism__ _n_ /jen-TEE-liz-uhm/ The substitution of a word that is believed
 __gerbil__ _n_ :es: jerbo  
 __gestalt therapy__ _n_  
 __gestalt__ _n_ _Gestalt therapy._  
-__ghastly__ _adj_  
+__ghastly__ _adj_ :two::hammer:  
 __ghost gun__ _n_  
 __ghoul__  
 __gibber__ _vi_ :dart: To prattle and chatter unintelligibly.  
@@ -428,7 +437,7 @@ __hallowed__ _adj_ :astonished: /HAL-oad/ Hallowed describes something, such as 
 __handicraft__ _n_ Skill or dexterity in working with the hands.  
 __handlebar mustache__ _n_ A long curved mustache resembling the curved ends of a handlebar.  
 __handyman__ _n_ :es: manitas  
-__haphazard__  
+__haphazard__ _adj, adv, n_ :two::hammer:  
 __haphazardly__ _adv_ In a random manner.  
 __hapless__  
 __harass__ _v_  
@@ -472,7 +481,7 @@ __huff__ _v_
 __humdrum<sup>1</sup>__ _adj_ Lacking variety or excitement. _Syn_ dull  
 __humdrum<sup>2</sup>__ _n_ A monotonous routine, task, or person.  
 __hunch__ _v_ _He hunches a shoulder to wipe his face._  
-__hurl__ _v_  
+__hurl__ _v_ :two::hammer:  
 __hurtle__ _v_ _Vader’s hit sent the ship hurtling downward._  
 __husk__ _vt_ :two: To remove the husk from.  
 __hyperbole__ _n_ :mega: /hahy-pur-buh-lee/  
@@ -547,6 +556,7 @@ __lacerate__ _v_
 __laceration__ _n_  
 __lackey__ _n_  
 __laic__ _adj_ Of or relating to the laity. _Syn_ lay, secular  
+__lair__ _n_  
 __lambent__ _adj_ :two: __1__ (esp of a flame) Flickering softly over a surface.  
 __landowning__  
 __lap__ _vt_ __6__ :dart: _Sports_ To get ahead of (an opponent) in a race by one or more complete circuits of the course, as in running, or by two or more lengths of a pool in swimming.  
@@ -556,6 +566,7 @@ __lassitude__ _n_ :dart: A state or feeling of weariness, diminished energy, or 
 __latch__ _n_  
 __lathe__ _n_  
 __laughing fit__ _n_  
+__launch__ _n_ __1__ A large boat that operates from a ship. __2__ A small motorboat that is open or that has the forepart of the hull covered.  
 __Lawrence__ _n_ (Larry)  
 __leaf peeper__ _n_ (chiefly informal US) A tourist who visits New England in autumn to see the changing colours of the foliage.  
 __lean__ _adj_  
@@ -692,6 +703,7 @@ __miserably__ _adv_
 __mishmash__ _n_ A collection or mixture of unrelated things; a hodgepodge.  
 __misnomer__  
 __misogynoir__ _n_ Hatred of, aversion to, or prejudice against Black women.  
+__missal__ _n_ A book containing all that is said or sung at mass during the entire year.  
 __misstep<sup>1</sup>__ _n_  
 __misstep<sup>2</sup>__ _vi_ To make a mistake.  
 __missus__ _n_  
@@ -737,6 +749,7 @@ __nail varnish__ _n_ (nail enamel, nail polish)
 __natural hat trick__ _n_ _sports_ A hat trick in which three goals are scored in succession by one player in one game.  
 __naturalization__ _n_  
 __nebula__ _n_ /ˈnɛb yə lə/  
+__necromancy__ _n_  
 __nemorous__ _adj_ /ˈnɛmərəs/ Full of woods or groves, wooded, woody  
 __neophile__ _n_ NEE-uh-fyl/ One who loves new or novel things.  
 __nether__ _adj_ Located beneath or below; lower or under: _the nether regions of the earth._  
@@ -816,6 +829,7 @@ __pen test__ _n_ (penetration test) An authorized simulated cyberattack on a com
 __pensive__  
 __pentacle__ _n_ :dart: /ˈpɛn tə kəl/ A star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon. _Syn_ pentagram, pentangle  
 __penury__ _n_ Extreme want or poverty; destitution. _Syn_ indigence, pauperism, beggary, need  
+__peppermint__ _n_ __1__ Herb with downy leaves and small purple or white flowers that yields a pungent oil used as a flavoring. :es: menta __2__ Red gum tree of Tasmania. __3__ a candy flavored with peppermint oil. _Syn_ peppermint candy  
 __peptic ulcer__ _n_ An erosion of the mucous membrane of the lower esophagus, stomach, or duodenum, caused in part by the corrosive action of the gastric juice.  
 __peradventure__ _n_ Chance, doubt, or uncertainty.  
 __perdition__ _n_ The abode of Satan and the forces of evil; where sinners suffer eternal punishment. _Syn_ Hell, infernal region, nether region, Inferno  
@@ -1003,6 +1017,7 @@ __rhotic__ _adj_ :dart:
 __rollout__ _n_ __1__ The introduction of a new product, service, or policy to the public.  
 __rooftop__ _n_  
 __Rorschach inkblot test__ _n_  
+__rose-cut__ _adj_ :camera: (rose cut) _(Jewellery) (of a gemstone)_ Cut with a hemispherical faceted crown and a flat base.  
 __rover__ _n_ __1__ A pirate. __2__ A pirate vessel.  
 __rube__ _n_ _You look like a rube._  
 __ruddy__ _adj_  
@@ -1060,6 +1075,7 @@ __side note__ _n_ Additional information aside main point.
 __simpleton__ _n_ :smiling_imp:  
 __single-handed__ _adj, adv_ :dart:  
 __single-minded__ _adj_  
+__skeleton key__ _n_ :astonished:  
 __skewer<sup>1</sup>__ _n_  
 __skewer<sup>2</sup>__ _vt_  
 __skitter__ _v_  
@@ -1085,6 +1101,7 @@ __snicker__ _v_
 __snide__ _adj_ :smiling_imp:  
 __snivel__ _v_ /SNIV-ul/  
 __sniveling__ _n_  
+__snow flurry__ _n_ A light brief snowfall and gust of wind (or something resembling that).  
 __snub-fighter__ _n_ (snub fighter)  
 __snuffbox__ _n_ A small, often decorated box with a hinged lid, used for carrying snuff.  
 __soapbox__ _n_ _Stan Lee’s soapbox._  
@@ -1097,8 +1114,11 @@ __squawk<sup>1</sup>__ _v_ _A squawking sparrow in a nest._
 __squawk<sup>2</sup>__ _n_  
 __squire__ _n_ :astonished:  
 __squirrel__ _n_ :mega: /skwur–uhl/  
+__start__ _v_ :dart::three: To move suddenly and sharply (as in surprise or alarm). _I started from my chair when I heard the sudden scream._ _Syn_ jump, startle  
+__startle__ _v_ :dart::three: Move or jump suddenly, as if in surprise or alarm. _She started when I walked into the room._ _Syn_ jump, start  
 __steadfast__ _adj_ /STED-fast/ Someone described as _steadfast_ is very devoted or loyal to a person, belief, or cause. _Steadfast_ is also used to describe something, such as support, that remains unchanging.  
 __stilted__ _adj_  
+__stoker__ _n_ A person employed to tend a furnace, as on a steamship.  
 __stray__ _v_  
 __streak__ _v_ __4__ To run naked in public, especially as a prank.  
 __strobe__ _n_ __3__ A spot of higher than normal intensity in the sweep of an indicator, as on a radar screen, used as a reference mark for determining distance.  
@@ -1135,6 +1155,7 @@ __toil__ _vi_
 __tout__ _n_ __1__ One who solicits customers brazenly or persistently. _Touts, thieves, and barrow men._  
 __townhouse__ _n_  
 __traduce__ _vt_ :smiling_imp:  
+__trickle__ _vi_  
 __trifle<sup>1</sup>__ _n_ __1__ A thing of little or no value or significance. __2__ A small amount; bit: _a trifle more enthusiasm._  
 __trifle<sup>2</sup>__ _v_ __1__ _vi_ (usually foll by: _with_) To deal (with) as if worthless; dally. To deal (with) as if worthless; dally: _to trifle with a person’s affections._ __2__ _vt_ To waste (time or money, for example).  
 __trot__ _v_  
@@ -1162,8 +1183,10 @@ __weak coffee__ _n_ :dart: _Weak coffee_ generally refers to a brew that has a l
 __weathervane__ _n_  
 __wharf__ _n_ A platform built out from the shore into the water and supported by piles; provides access to ships and boats. _Syn_ pier, wharfage, dock  
 __wheeddle__ _v_ :smiling_imp:  
+__white-hot__ _adj_  
 __William__ _n_ (Shortened familiar versions in English include Will, Wills, Willy, Willie, Liam, Bill, and Billy)  
 __woefully__  
+__wondrous__ _adj_  
 __Worcestershire__ _n_ (sauce) /woos-ter-sheer/  
 __wrought-iron__  
 __Xmas__ _n_  
