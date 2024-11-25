@@ -226,19 +226,23 @@ __food chain__ Used in the phrases “at the top of the food chain” and “at 
 __fool around__  
 __foot the bill__  
 __for (one’s) benefit__ (for somebody’s benefit) Largely (or solely) to help one.  
+__for a bit__  
 __for a charge__ The act of charging someone a fee or price for a service or item.  
 __for a fee__  
 __for all I know__  
+__for all intents and purposes__ _adv_ :two: In every practical sense. _To all intents and purposes the case is closed._ _The rest are for all practical purposes useless._ _Syn_ for all practical purposes, to all intents and purposes  
 __for all practical purposes__ (for (all) practical purposes) In reality; basically. As might be reasonably expected; essentially. _For all practical purposes, this is simply a matter of right and wrong._ _For all practical purposes, I might as well have not handed in this proposal at all, with how swiftly the board rejected it._  
-__for better or (for) worse__  
-__for better or worse__  
+__for better or worse__ :three::hammer: (for better or (for) worse)  
 __for crying out loud__  
-__for good__  
+__for good measure__  
+__for good__ :two::hammer:  
 __for kicks__ :two::hammer (just for kicks)  
 __for starters__  
+__For starters__ _phr informal_ :five: You use for starters when you mention something to indicate that it is the first item or point in a series. _These prizes are just for starters. Other exciting offers are flooding in._ _Her manager said, “It will cost her 1.5 million pounds for starters if she loses.”_  
 __for the hell of it__ Simply to satisfy a whim; for no reason other than one’s desire to do it. _Oh, let’s just go on a drive for the hell of it. Why do we need to have a destination in mind?_  
 __for the most part__  
 __for the nonce__  
+__for the sake of__  
 __for which read__ :dart: _Readjustment, scaling back, for which read — redundancies._ :es: léase  
 __forge ahead__  
 __foul play__  
@@ -246,6 +250,7 @@ __free of charge__
 __French letter__  
 __Freudian slip__  
 __from bad to worse__ :two::hammer: _Everything you’re telling me goes from bad to worse._  
+__from the ground up__ From the first step through to completion; entirely. _This place is a real dump—we’ll have to rebuild it from the ground up._  
 __full of (oneself)__  
 __full-fledged__  
 __fussbudget__ :dart: _informal_ One who tends to be fussy or particular, usually to an excessive or unnecessary degree. Primarily heard in US. _Don’t be such a fussbudget, huh? This really isn’t a big deal._ _Of course Vanessa found some miniscule issue that no one else would have noticed. She’s such a fussbudget._  
@@ -639,7 +644,8 @@ __make light of (something)__
 __Maslow’s hammer__ :dart: The inability to recognize other possible outcomes or solutions if one relies too much on a particular tool, method, or mindset. The term refers to 20th-century psychologist Abraham Maslow and his idea that “If all you have is a hammer, everything looks like a nail.” Also known as the “golden hammer,” and “the law of the instrument.”  
 __mill about__  
 __mince words__  
-__mixed feelings__  
+__mix and match__  
+__mixed feelings__ :two::hammer:  
 __mixed message__  
 __mm-hmm__ _informal_ Yes; yeah. A verbal expression used to express agreement or acknowledgement. Formed by intoning “uh-huh” with a closed mouth.  
 __modus operandi__ :two::mega: A unique and habitual method of doing something. From Latin, literally “mode of operation.” Used especially in reference to criminal behavior.  
@@ -672,6 +678,7 @@ __need to be done__ To be required to be completed or acted upon.
 __needless to say__ Obviously implied, no explanation needed.  
 __nepo friend__ _n_ /nep-oh frend/ (nepo-friend) The slang term nepo friend refers to a person who is thought to benefit from having a famous or influential friend. The term nepo friend is often used to imply that someone is only famous or successful because of their association with a famous person. The term may be used playfully, but it is often at least mildly negative.  
 __Nervous Nellie__ /nuhr-vuhs NEL-ee/(nervous Nellie/Nelly) Any nervous person, male or female. Someone who is more timid, nervous, or anxious than is normal or reasonable.  
+__nice and (something)__ :two::hammer:  
 __no hard feelings__ :es: sin rencores  
 __no question about it__  
 __not know someone from Adam__  
@@ -767,6 +774,7 @@ __pay heaven and earth__ _I’ve got a a particular clerk I’d pay heaven and e
 __pay lip service__ :smiling_imp:  
 __peck at__  
 __peeper__ peeper__ One’s eye. (That is, what one uses to peep.) Typically used in the plural and often used to refer to the eyes of children. _Your baby girl has such beautiful peepers!_  
+__phase out__  
 __photobomb__  
 __pick up on (something)__ To detect or notice something; to become alert to or aware of something.  
 __pick up__  
@@ -784,6 +792,7 @@ __piss someone off__
 __pissant<sup>1</sup>__ _n_  
 __pissant<sup>2</sup>__ _adj_  
 __pitch (something) at__  
+__pizzazz__  
 __play God__ To have a huge affect on or great power over someone’s life, livelihood, health, or happiness. Behave as if all-powerful or supremely important.  
 __play havoc with (someone or something)__ To cause issues or disruptions for someone or something. _The road closures have played havoc with rush-hour traffic._  
 __play possum__ :es: hacerse el muerto  

@@ -109,6 +109,7 @@ __chunky__ _adj_ Short and thick; stocky. _Syn_ low-set, squat, squatty, stumpy,
 __colander__ _n_ /KUH/KAH-luhn-duhr/ (cullender) A utensil with perforations, used for straining or draining foods.  
 __colonel__ _n_ :mega: /ˈkɜr nl/ /kur-nl/  
 __coup__ _n_ :mega: /kuː/ /koo/  
+__cross__ _adj_ :dart: Annoyed and irritable. _Syn_ bad-tempered, crabbed, crabby, fussy, grouchy, grumpy, ill-tempered  
 __crow__ _n_ The cry of the cock.  
 __crowbar__ _n_  
 __cursory__ _adj_ /KER-suh-ree/ Something described as cursory has been done or made quickly.  
@@ -214,7 +215,7 @@ __egret__ _n_
 __eldritch__ _adj_ /ˈɛl drɪtʃ/ Eerie; weird; spooky.  
 __electrical type__ _n_ A poorly conductive plastic tape used to insulate electrical wires. _Syn_ friction tape, insulating tape, electric tape  
 __elocution__ _n_  
-__emaciated__ _adj_ A very thin especially from disease or hunger or cold.  
+__emaciated__ _adj_ :two: /ɪˈmeɪsɪˌeɪtɪd/ A very thin especially from disease or hunger or cold.  
 __embodiment__ _n_ A new personification of a familiar idea. _Syn_ avatar, incarnation  
 __emphasis__ _n_ :two::hammer: /ˈɛm fə sɪs/ /ˈɛmfəsɪs/  
 __emphasize__ _vt_ /ˈɛm fəˌsaɪz/  
@@ -266,6 +267,7 @@ __farsighted__ _adj_ Planning prudently for the future. _Syn_ foresighted, long,
 __fascia__  
 __fascism__ _n_ (sometimes capital)  
 __fastidious__  
+__fathomless__ _adj_ _I stared at her fathomless eyes for a second._  
 __faze__ _v_  
 __fazed__ _adj_ /feɪzd/ Disconcerted; worried; disturbed.  
 __fealty__ _n_ /FEE-ul-tee/ _Fealty_ is an old-fashioned and somewhat literary word that refers to intense loyalty or fidelity to a person, group, etc. More narrowly, _fealty_ refers to the fidelity of a vassal or feudal tenant to their lord.  
@@ -313,56 +315,6 @@ __flighty__ _adj_ /ˈflaɪtɪ/
 __flinch__ _vi_ :es: estremecerse; encogerse  
 __fling__ _v_ :two::hammer: (flung)  
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
-__flit__ _vi_ :three: __1__ To move about rapidly and nimbly. __2__ To move quickly from one condition or location to another.  
-__float·a·tion _- _n- /flō-tā′shən/ __1__ Variant of _flotation_.  
-__flogging__ _n_ Beating with a whip or strap or rope as a form of punishment.  
-__floorwalker__ _n_ An employee of a department store who supervises sales personnel and assists customers. _Syn_ shopwalker  
-__flotation tank__ _n_ (flotation chamber) An enclosed ventilated tank filled with a saline solution at body temperature, in which a person floats in darkness in order to relax or meditate.  
-__flotsam__ _n_ :two::hammer:  
-__flounder__ _v_  
-__flout__ _vt_ :two::hammer: :es: burlarse  
-__flub<sup>1</sup>__ _n_ :dart: /flʌb/ An embarrassing mistake or blunder.  
-__flub<sup>2</sup>__ _v_ :dart: To blunder or make an embarrassing mistake. Make a mess of, destroy or ruin.  
-__flurry__ _n_ __3__ A sudden burst or commotion; a stir: _a flurry of interest in the new product; a flurry of activity when the plane landed._  
-__flying__ _adj_ /ˈflaɪɪŋ/ (prenominal) Hurried; fleeting: _a flying visit._  
-__flyover__ _n_  
-__flywheel__ _n_ :es: volante  
-__foil__ _v_  
-__foist__ _v_ /FOIST/ _Foist_, which is almost always used with _on_ or _upon_, is used when someone forces another person to accept something, usually something that is not good or is not wanted. Foist can also mean “to pass off as genuine or worthy.”  
-__folio__ _n_  
-__folks__ _n pl_ :astonished: [Very popular synonym to _people_ in rural areas of the US, possibly because of the large number of German, Dutch and Scandinavian immigrants in that part of the world.]  
-__folksy__ _adj_  
-__folly__ _n_ (construction)  
-__foment__ _v_ /FOH-ment/  
-__foodstuff__ _n_ :two: A substance that can be used or prepared for use as food.  
-__footage__ _n_ :mega:  
-__footmen__ _n pl_ :es: criados  
-__for good__  
-__foreboding<sup>1</sup>__ _n_ __1__ A prediction; portent. __2__ A strong inner feeling or notion of a future misfortune, evil, etc.; presentiment.  
-__foreboding<sup>2</sup>__ _adj_ Of or indicating foreboding, esp. of evil.  
-__forecourt__ _n_  
-__forelock__ _n_ __1__ A lock of hair growing or falling over the forehead.  
-__foreman__ _n_  
-__forename__ _n_ A name before one’s surname; a first name.  
-__forester__ _n_  
-__forge__ _v_ _A container ship forges south._  
-__forgo__ _v_  
-__form factor__ _n_  
-__fortnight__ _n_ :dart::astonished::three: [:scroll: Middle English fourtenight, alteration of fourtene night, fourteen nights] A period of 14 days; two weeks.  
-__fortnightly<sup>1</sup>__ _adj_ Happening or appearing once in or every two weeks.  
-__fortnightly<sup>2</sup>__ _adv_ Once in a fortnight.  
-__fortnightly<sup>3</sup>__ _n_ :astonished: A publication issued once every two weeks.  
-__fracas__ _n_ :two::hammer:  
-__fractious__ _adj_ Stubbornly resistant to authority or control. _Syn_ recalcitrant, refractory  
-__fraternize__ _v_ /FRAT-er-nyze/  
-__freezer paper__ _n_ A type of white paper coated on one side with plastic to prevent air leaking out of frozen foods, thus protecting against freezer burn and loss of moisture.  
-__French toast__ _n_ Food prepared by dipping bread into egg batter and frying.  
-__fret__ _v_ /FRET/ To _fret_ is to worry or be concerned.  
-__fretful__ _adj_ Habitually complaining. _Syn_ querulous, whiny  
-__friar__ _n_  
-__frisson__ _n_ A moment of intense excitement. _Syn_ chill, quiver, shiver, shudder, thrill, tingle _The story’s ending arouses a frisson of terror._  
-__frontier__ _n_ :mega: /frʌnˈtɪər, frɒn-; also, esp. _Brit_, ˈfrʌn tɪər/  
-__fru__  
 __frugal__  
 __Fu Manchu mustache__ _n_ A mustache with ends that hang downward toward or below the chin.  
 __fugacious__ _adj_ /fyoo-GAY-shus/  
@@ -518,6 +470,7 @@ __inviting__ _adj_ :two: Attractive; tempting: _an inviting dessert._
 __iota__ _n_ /eye-OH-tuh/ An _iota_ is an infinitesimal amount of something. The word _iota_ is used synonymously with the etymologically related _jot_, and by its oldest definition refers to the 9th letter of the Greek alphabet.  
 __irate__ _adj_ :dart::astonished:  
 __irretrievable__ _adj_ _Irretrievable breakdown of marriage._  
+__island__ _n_ /ˈaɪ lənd/  
 __isthmus__ _n_ :mega: /is-muhs/  
 __itching__ _n_ An irritating cutaneous sensation that produces a desire to scratchitching - an irritating cutaneous sensation that produces a desire to scratch. _Syn_ itchiness, itch  
 __jaded__ _adj_ :dart:  
@@ -573,6 +526,7 @@ __lean__ _adj_
 __leathern__ _adj_ Made of, covered with, or resembling leather.  
 __leery__ _adj_ :dart::smiling_imp: Suspicious or distrustful; wary: _was leery of aggressive salespeople._  
 __leisure__ _n_  
+__lemongrass__ _n_  
 __lemony__ _adj_ :astonished: /ˈlɛmənɪ/  
 __lentitude__ _n_ /LEN-tuh-tood/tyood/ Slowness or sluggishness.  
 __lethargic__ _adj_ :two: /luh-THAHR-jik/ Of, relating to, or affected with lethargy; drowsy; sluggish; apathetic. _Lethargic_ describes people who feel a lack of energy or a lack of interest in doing things. It is sometimes used figuratively, as in “a sluggish and lethargic economy.”  
@@ -801,6 +755,8 @@ __paramour__ _n_ :two::hammer:
 __paratrooper__  
 __parched__ _adj_ :es: abrasado, reseco  
 __Parkinson’s law__ _n_ /PAHR-kin-suhnz law/ The observation that work expands to fill the time available.  
+__parkour<sup>1</sup>__ _n_ The sport of traversing environmental obstacles by running, climbing, or leaping rapidly and efficiently.  
+__parkour<sup>2</sup>__ _v_ To freerun; to use parkour (to move over).  
 __paroxysm__ _n_ /PAIR-uk-sih-zum/ _Paroxysm_ is a formal word that refers to a sudden strong feeling or uncontrollable expression of emotion. In medical use, _paroxysm_ refers to a sudden attack or increase of symptoms of a disease that often occurs repeatedly. _The comedy special sent us into paroxysms of laughter._  
 __parson__ _n_ :two::hammer:  
 __parturition__ _n_ /par-chuh/too-RISH-uhn/ The act of giving birth.  
@@ -837,7 +793,9 @@ __peremptorily__ _adv_ :dart::astonished: In an imperative and commanding manner
 __peremptory__  
 __perfunctory__  
 __perjury__ _n_  
+__pernicious__ _adj_  
 __Perseid__ _n_ /ˈpɜːsɪɪd/ (Celestial Objects) Any member of a meteor shower occurring annually around August 12th and appearing to radiate from a point in the constellation Perseus.  
+__persimon__ _n_ /pərˈsɪm ən/ :es: caqui  
 __personal column__ _n_  
 __Perspex__ _n_ /ˈpɜːspɛks/ (Building) _trademark_ Any of various clear acrylic resins, used chiefly as a substitute for glass :es: pexiglás  
 __perspicacious__ _adj_  
@@ -919,6 +877,8 @@ __price gun__ _n_ :astonished: A portable tool used to print price tags.
 __pricey__ _adj_ /ˈpraɪ si/ (pricy)  
 __prick__ _v_ _She is pricked by anxiety._  
 __primal__  
+__primeval__ _adj_ Of or pertaining to the first age or ages, esp. of the world; primordial.  
+__primigravida__ _n_ A woman who is pregnant for the first time. Also called _primipara._  
 __prioritize__ _v_ _We’ll probably go on prioritizing._  
 __prissy__ _adj_ :es: remilgado  
 __privet__ _n_ /ˈprɪv ɪt/ _Clipped privet hedges._  
@@ -1173,9 +1133,11 @@ __Uranus__ _n_ :mega: /jʊˈreɪnəs; ˈjʊrənəs/
 __urbane__ _adj_ :astonished:  
 __usher in__  
 __Vandyke beard__ _n_ A short, pointed beard, especially one worn with the cheeks shaven and a mustache.  
+__veld__ _n_ (veldt) Any of the open grazing areas of southern Africa.  
 __vocabulary__ _n_ :mega: /voh-kab-yuh-ler-ee/  
 __volition__ _n_ The act or an instance of making a conscious choice or decision. _Syn_ willing  
 __wad__ _v_  
+__waddle__ _v_  
 __wagonette__ _n_ :camera: (waggonette) A light four-wheeled horse-drawn vehicle with two lengthwise seats facing each other behind a crosswise driver’s seat.  
 __walrus mustache__ _n_ A bushy, drooping mustache.  
 __waylaid__  
