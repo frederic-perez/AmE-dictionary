@@ -238,56 +238,6 @@ __for good measure__
 __for good__ :two::hammer:  
 __for kicks__ :two::hammer (just for kicks)  
 __for starters__  
-__For starters__ _phr informal_ :five: You use for starters when you mention something to indicate that it is the first item or point in a series. _These prizes are just for starters. Other exciting offers are flooding in._ _Her manager said, “It will cost her 1.5 million pounds for starters if she loses.”_  
-__for the hell of it__ Simply to satisfy a whim; for no reason other than one’s desire to do it. _Oh, let’s just go on a drive for the hell of it. Why do we need to have a destination in mind?_  
-__for the most part__  
-__for the nonce__  
-__for the sake of__  
-__for which read__ :dart: _Readjustment, scaling back, for which read — redundancies._ :es: léase  
-__forge ahead__  
-__foul play__  
-__free of charge__  
-__French letter__  
-__Freudian slip__  
-__from bad to worse__ :two::hammer: _Everything you’re telling me goes from bad to worse._  
-__from the ground up__ From the first step through to completion; entirely. _This place is a real dump—we’ll have to rebuild it from the ground up._  
-__full of (oneself)__  
-__full-fledged__  
-__fussbudget__ :dart: _informal_ One who tends to be fussy or particular, usually to an excessive or unnecessary degree. Primarily heard in US. _Don’t be such a fussbudget, huh? This really isn’t a big deal._ _Of course Vanessa found some miniscule issue that no one else would have noticed. She’s such a fussbudget._  
-__gain momentum__ (gather momentum) To move faster. _The wagon gathered/gained momentum as it rolled down the hill._  
-__gallows humor__ :dart: Humorous treatment of a grave or dire situation. :es: humor negro  
-__gantry officer__ In the Star Wars universe, a _Gantry Officer_ is a specific Imperial military role, typically associated with the Death Star. These officers wear distinctive black uniforms and are part of the ship’s crew.  
-__get (one, something) out of the system__  
-__get (one’s) bearings__  
-__get (something) out of (one’s) system__ __2__ To do something so that one no longer has the desire to do it anymore. _I got drinking and partying out of my system during college. I’m ready for a quieter life now._  
-__get an earful__  
-__get away with you__  
-__get cracking__ To start working on something. Often used as an imperative. _Get cracking, or you’ll be up all night working on your book report!_  
-__get down to business__  
-__get lucky__ :two: __2__ _slang_ To have sex, especially with someone whom one has only just met.  
-__get my drift__ ((do you) get my drift?) Do you understand the meaning, insinuation, or implication of what I’m saying? _All I’m saying is that I won’t be very sad if she breaks up with her boyfriend—get my drift?_ _I haven’t seen Ike and don’t care for the likes of him, if you get my drift._  
-__get on famously__ To have an exceptionally good relationship (with someone); to get along very well. _I’m glad you finally got to meet my brother—I knew you two would get on famously._  
-__get on like a house afire__ Of two or more people, to enjoy one another’s company very much from the start and become good friends at once. (Used when people are meeting for the first time.) _I can’t wait for you to meet Mark, I just know the two of you will get on like a house afire!_  
-__get played__ :smiling_imp: To be misled, deceived, or manipulated for someone else’s needs, ends, or benefits. _You paid $150 for this? Man, this piece of junk is barely worth 20 bucks! You got played, dude._  
-__get set__ (get (all) set) To become prepared or excited (for or to do something). _Well, gest set, Chewie. We’re going to have company._  
-__get something out of the way__ :dart: Deal with a task or difficulty so that it is no longer a problem or worry. _I’m glad I’ve got that visit to the dentist out of the way._  
-__get the hang of (something)__  
-__ghosting__ _slang_  
-__gig__  
-__give (one’s) ground__  
-__give (one) a break__  
-__give (one) some slack__  
-__give (one) the green light__ :two::hammer:  
-__give (one) the silent treatment__  
-__give (someone) a lift__  
-__give (someone) an out__ To provide someone with an excuse or a means of escaping (from something).  
-__give a flying fuck__ (usually in a negative use, vulgar) To care whatsoever.  
-__give a hiding__ The idiom “give a hiding” primarily means to deliver a severe beating or punishment. This usage is particularly common in British English, where it can refer to both physical punishment and a figurative sense of defeat.  
-__give a shit__  
-__give in to (someone or something)__ :two::hammer: _No competent investigator can give in to emotions._  
-__give in__  
-__give or take__  
-__give something a miss__ _I’ll give coffee a miss; I’m off to bed now._  
 __glass cliff__ _n_ A situation in which a woman or minority has advanced professionally at a time when adverse circumstances or crises make it more likely for the person to fail at the job.  
 __glimmer of hope__  
 __go an eye out for (someone or something)__ To remain vigilant or carefully watchful for something or someone.  
