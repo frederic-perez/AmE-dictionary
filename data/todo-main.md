@@ -11,10 +11,12 @@ __acquiesce__
 __adversary__ _n_ :mega: /ˈæd vərˌsɛr i/ /ˈædvəsərɪ/ /AD-ver-sair-ee/ _Adversary_ is an enemy or opponent.  
 __affidavit__ _n_  
 __afoot__ _adj, adv_  
+__airlock__ _n_ A chamber that provides access to space where air is under pressure. _Syn_ air lock  
 __amalgamate__ _v_ /uh-MAL-guh-mayt/ _Amalgamate_ is a formal verb meaning “to unite (two or more things) into one thing.”  
 __andirons__ _n_  
 __anemone__ _n_ :mega: /əˈnɛm əˌni/ /uh–nem–uh-nee/  
 __apoplexy__ _n_  
+__appalled__ _adj_  
 __appalling__ _adj_  
 __approach__ _n_ :es: actitud  
 __aquiline__ _adj_  
@@ -83,6 +85,8 @@ __break room__ _n_ A room in a public building or worksite set aside for coffee 
 __breakroom__ _n_ Alternative spelling of break room.  
 __brethren__ _n pl_ :dart::two: __1__ A plural of brother.  
 __bribe__ _n_ :smiling_imp:  
+__bridge<sup>1</sup>__ _n_  
+__bridge<sup>2</sup>__ _vt_ __1__ To build or provide a bridge over something; span: _to bridge a river._ __2__ To connect or reduce the distance between: _let us bridge our differences._  
 __bridle__ _n_ The act of restraining power or action or limiting excess. _Syn_ check, curb _His common sense is a bridle to his quick temper._  
 __brimstone__ _n_ __1__ Sulfur, especially considered as a component of the torments of hell in Christianity. (See _fire and brimstone_.) An obsolete name for sulphur.  
 __bub__ _n slang_ :dart:  
@@ -104,11 +108,12 @@ __cadge__ _v_
 __calico__ _n_  
 __canine tooth__ _n_ One of the four pointed conical teeth (two in each jaw) located between the incisors and the premolars. _Syn_ canine, cuspid, eye tooth, eyetooth, dogtooth  
 __carouse__ _v_  
+__chide__ _v_  
 __choir__ _n_ :mega: /kwaɪər/ /kwahyuhr/  
 __chunky__ _adj_ Short and thick; stocky. _Syn_ low-set, squat, squatty, stumpy, dumpy  
 __colander__ _n_ /KUH/KAH-luhn-duhr/ (cullender) A utensil with perforations, used for straining or draining foods.  
 __colonel__ _n_ :mega: /ˈkɜr nl/ /kur-nl/  
-__coup__ _n_ :mega: /kuː/ /koo/  
+__coup__ _n_ :two::hammer::mega: /kuː/ /koo/ _A coup attempt._  
 __cross__ _adj_ :dart: Annoyed and irritable. _Syn_ bad-tempered, crabbed, crabby, fussy, grouchy, grumpy, ill-tempered  
 __crow__ _n_ The cry of the cock.  
 __crowbar__ _n_  
@@ -178,6 +183,7 @@ __dormitory__ _n_
 __dosser__ _n_ Someone who sleeps in any convenient place. _Syn_ street person  
 __doting__ _adj_  
 __douse__  
+__dovetail__ _v_  
 __downy__  
 __dowse__ _vi_ (douse) _Dowsing with a pendulum._  
 __dowsing__ _n_ The practice of prospecting for water or minerals using a divining rod. _Syn_ dowse, rhabdomancy  
@@ -197,14 +203,14 @@ __duckblinds__
 __duffel bag__ _n_  
 __duly__ _adv_ __1__ In a proper manner: _a duly appointed official._  
 __duodecimo__ _n_  
-__dusky__ _adj_ Characterized by little or inadequate light; shadowy. _Syn_ twilight, twilit  
+__dusky__ _adj_ :two: Characterized by little or inadequate light; shadowy. _Syn_ twilight, twilit  
 __duster__ _n_ :dart::camera: A loose coverall (coat or frock) reaching down to the ankles. _Syn_ gaberdine, smock  
 __dustpan__ _n_ :dart: :es: recogedor  
 __duty solicitor__ _n_ (duty counsel, duty lawyer) A solicitor whose services are available to a person either suspected of, or charged with, a criminal offence free of charge (pro bono), if that person does not have access to a solicitor of their own and usually if it is judged by a means test that they cannot afford one. The system is operative in several Commonwealth countries, including the United Kingdom, Australia, New Zealand and Canada.  
 __earwitness__ _n_ /EER-wit-nis/ One who testifies or can testify to something heard.  
 __ebbing__ _n_ A gradual decline (in size or strength or power or number). _Syn_ ebb, wane _I felt a sudden great ebbing in the force, Luke._  
-__ebon<sup>1</sup>__ _adj_ /ˈɛb ən/ __1__ Made of ebony. __2__ Black in color.  
-__ebon<sup>2</sup>__ _n_ /ˈɛb ən/ Ebony.  
+__ebon<sup>1</sup>__ _adj_ :two: /ˈɛb ən/ __1__ Made of ebony. __2__ Black in color.  
+__ebon<sup>2</sup>__ _n_ :two: /ˈɛb ən/ Ebony.  
 __ecchymosis__ _n_ (_n pl_ ecchymoses) The medical term for a bruise.  
 __edgeways__  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
@@ -284,6 +290,7 @@ __festoon__ _vt_
 __feud<sup>1</sup>__ _n_ :dart:  
 __feud<sup>2</sup>__ _v_  
 __feverish__ _adj_  
+__fiat__ _n_  
 __fickle__ _adj_ :dart: Marked by lack of steadfastness, constancy, or stability; given to erratic changeableness.  
 __fiddle-faddle<sup>1</aup>__ _n_ /ˈfɪdəlˌfædəl/ Nonsense.  
 __fiddle-faddle<sup>2</sup>__ _v_ To fuss or waste time, esp over trivial matters.  
@@ -315,6 +322,7 @@ __flighty__ _adj_ /ˈflaɪtɪ/
 __flinch__ _vi_ :es: estremecerse; encogerse  
 __fling__ _v_ :two::hammer: (flung)  
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
+__friable__ _adj_ /ˈfraɪ ə bəl/ Easily crumbled or reduced to powder.  
 __frugal__  
 __Fu Manchu mustache__ _n_ A mustache with ends that hang downward toward or below the chin.  
 __fugacious__ _adj_ /fyoo-GAY-shus/  
@@ -358,6 +366,9 @@ __ghastly__ _adj_ :two::hammer:
 __ghost gun__ _n_  
 __ghoul__  
 __gibber__ _vi_ :dart: To prattle and chatter unintelligibly.  
+__gibber<sup>1</sup>__ _vi_ To prattle and chatter unintelligibly.  
+__gibber<sup>2</sup>__ _n_  
+__gibbous__ _adj_  
 __giggle__ _v_  
 __glass pane__  
 __glower<sup>1</sup>__ _n_ To look or stare angrily or sullenly: _glowered at the rude patron._ _Syn_ scowl, glare, frown, look daggers, give a dirty look, lour, lower  
@@ -396,6 +407,7 @@ __harass__ _v_
 __hard-ass__ _n_ _vulgar slang_ (hardass) One who inflexibly follows or enforces rules.  
 __hard-of-hearing__ _adj_ Having a hearing loss. _Syn_ hearing-impaired  
 __hard-pressed__ _adj_  
+__hardened__ _adj_ __3__ (Military) (of a nuclear missile site) Constructed to withstand a nuclear attack. _A hardened missile site._  
 __hare__ _v_  
 __hassle__ _n_  
 __hatching__ _n_ /HATCH-ing/ _Hatching_ refers to the drawing or engraving of lines close together as a method of shading, or to a pattern so created. _The artist uses hatching to breathe life into her comics._  
@@ -418,6 +430,7 @@ __hem__ _n_ :es: dobladillo
 __hemothorax__  
 __hidebound__  
 __high-rise__  
+__hirsute__ _adj_  
 __hitherto__  
 __hobgoblin__ _n_  
 __hollow-point bullet__ _n_  
@@ -482,6 +495,7 @@ __jangle<sup>3</sup>__ _n_
 __jaundice__ _n_  
 __jerkwater__ _adj_ /JERK-waw-ter/  
 __Jerry__ _n slang_ _Chiefly British_ A German, especially a German soldier.  
+__jest__ _n_ :two: __2__ A playful remark; a witticism or joke.  
 __jibe__ _v_  
 __jiggle__ _v_ :dart: To move or rock lightly up and down or to and fro in an unsteady, jerky manner. _Syn_ joggle, wiggle _He jiggled the worn key in the lock and finally got the door open._  
 __jot<sup>1</sup>__ _n_ :dart: /dʒɒt/ The smallest bit; iota. _(used with a negative)_ A little bit (in phrases such as _not to care (or give) a jot_).  
@@ -549,13 +563,14 @@ __limerence__ _n_ The state of being obsessively infatuated with someone, usuall
 __limestone__  
 __liminal__ _adj_ :two: /LIM-uh-nul/ _Liminal_ is a formal word most often used to describe an intermediate state, phase, or condition. It can also describe something that is barely perceptible or barely capable of eliciting a response.  
 __limpid__ _adj_ /LIM-pid/ _Limpid_ describes things that are perfectly transparent or clear, or that are simple in style.  
+__linchpin__ _n_  
 __lionhearted__ _adj_  
 __lip liner__ _n_ (lip liner)  
 __lipoma__ _n_ A benign tumor composed chiefly of fat cells.  
 __lipomatous__ _adj_ Relating to a lipoma. _Lipomatous metaplasia._  
 __listless__ _adj_ Marked by low spirits; showing no enthusiasm. _Syn_ dispirited  
 __literacy__ _n_ /ˈlɪt ər ə si/  
-__lithe__  
+__lithe__ _adj_ :two::hammer:  
 __litigation__ _n_  
 __Little Red Riding Hood__ _n_ A girl in a fairy tale who meets a wolf while going to visit her grandmother.  
 __littoral__ _adj, n_ :pencil2:  
@@ -616,6 +631,7 @@ __mangle__ _v_ __2__ To ruin or spoil through ineptitude or ignorance: _mangle a
 __mangy__ _adj_  
 __mantel__ _n_ The protruding shelf over a fireplace. _Syn_ chimneypiece, mantelpiece  
 __mantra yoga__ _n_ A meditation practice that focuses on chanting sacred syllables along with conscious breathing and a meditative focus to quiet the mind, cultivate spiritual energy, and create states of enlightenment.  
+__mar__ _vt_  
 __marauding__ _adj_  
 __marionette__ _n_ _Syn_ puppet  
 __marksman__ _n_  
@@ -738,14 +754,17 @@ __oblige__ _vt_
 __obsequious__ _adj_  
 __occasional__ _adj_ :three::hammer:  
 __October surprise__ _n_ A significant revelation or event in the month prior to an election that has the potential to shift public opinion about an election candidate and that is often orchestrated to influence the election’s outcome.  
+__octothorpe__ _n_  
 __odd-job man__ _n_ A man skilled in various odd jobs and other small tasks.  
 __off-key__ _adj_  
 __offbeat__ _adj_ :two::hammer: :es: poco convencional  
 __omniscient__ _adj_ /ahm-NISH-unt/ _Omniscient_ describes someone or something with unlimited knowledge or understanding.  
 __onomatopoeia__ _n_ :mega: /on-uh-mat-uh–pee–uh/  
+__outcrop__ _n_  
 __over-the-hill__  
 __over-the-top__ _adj_  
 __overeager__ _adj_ Excessively eager; too ardent or impatient.  
+__overlord__ _n_  
 __palaver__ _n_ /puh-LAV-er/  
 __pallor__ _n_ A pale condition, esp when unnatural: _fear gave his face a deathly pallor._  
 __panacea__ _n_ /pan-uh-SEE-uh/  
@@ -753,6 +772,7 @@ __pander__ _v_
 __pantsuit__ _n_  
 __paramour__ _n_ :two::hammer:  
 __paratrooper__  
+__parcel__ _n_  
 __parched__ _adj_ :es: abrasado, reseco  
 __Parkinson’s law__ _n_ /PAHR-kin-suhnz law/ The observation that work expands to fill the time available.  
 __parkour<sup>1</sup>__ _n_ The sport of traversing environmental obstacles by running, climbing, or leaping rapidly and efficiently.  
@@ -922,6 +942,7 @@ __ragbag__ _n_
 __ragweed__ _n_  
 __rain slicker__ _n_ A type of waterproof coat designed to protect the wearer from rain and wet conditions.  
 __rampage__ _n_ Violently angry and destructive behavior. _Syn_ violent disorder  
+__rampart__ _n_  
 __ransack__ _vt_  
 __rapport__ _n_ /ræˈpɔr, -ˈpoʊr, rə-/  
 __rapture__ _n_ :es: éxtasis  
@@ -1022,11 +1043,13 @@ __seething__ _v_
 __senescent__ _adj_ /si-NES-uhnt/ __1__ Growing old; aging. __2__ Deteriorating or decaying with the passage of time.  
 __shapeshift__ _vi_ (biology, fantasy, mythology) To change one’s shape or form (into another) through often magical means, normally applied only to living beings.  
 __shear__ _v_ (shorn)  
+__shell-shocked__ _adj_ :dart: (shell shocked) __1__ Suffering from shell shock. __2__ Stunned, distressed, or exhausted from a prolonged trauma or an unexpected difficulty.  
 __shinny__ _vi_ To climb by shinning.  
 __shortlisted__  
 __shortsighted__ _adj_  
 __shove__ _v_ :two::hammer:  
 __shriek__  
+__shriveled__ _adj_  
 __shuck__ _v_  
 __shuffling__ _n_ Walking with a slow dragging motion without lifting your feet.  
 __shun__ _vt_ :dart: To avoid deliberately; keep away from. _He shuns suits except when he is in court._  
@@ -1054,6 +1077,7 @@ __slovenly<sup>1</sup>__ _adj_ :astonished::two: _The slovenly living room._
 __slovenly<sup>2</sup>__ _adv_ :two::hammer:  
 __slug__ _vt_ __3__ To strike heavily, especially with the fist or a bat. _He slugged me across the jaw._  
 __slumbering__ _adj_ __1__ Temporarily inactive. __2__ Sleeping peacefully; quiescent or dormant.  
+__smite__ _v_  
 __smolder__ _vi_ :two: __1__ To burn with little smoke and no flame. _Luke saw the smoldering piles which had once been human beings._  
 __smugly__ _adv_  
 __snafu__ _n_  
@@ -1069,11 +1093,14 @@ __soon enough__ _adv_ :dart::astonished:
 __sou__ _n_ One of several coins formerly used in France, worth a small amount.  
 __specific__ _adj, n_ :mega: /spi-sif-ik/  
 __spinning jenny__ _n_ An early spinning machine having more than one spindle, enabling a person to spin a number of yarns simultaneously.  
+__spoor<sup>1</sup>__ _n_ (Hunting) The trail of an animal or person, esp as discernible to the human eye. _The spoor of blood._  
+__spoor<sup>2</sup>__ _v_ (Hunting) To track (an animal) by following its trail.  
 __sprawling__ _adj_ :two::hammer:  
 __squawk<sup>1</sup>__ _v_ _A squawking sparrow in a nest._  
 __squawk<sup>2</sup>__ _n_  
 __squire__ _n_ :astonished:  
 __squirrel__ _n_ :mega: /skwur–uhl/  
+__standoff__  
 __start__ _v_ :dart::three: To move suddenly and sharply (as in surprise or alarm). _I started from my chair when I heard the sudden scream._ _Syn_ jump, startle  
 __startle__ _v_ :dart::three: Move or jump suddenly, as if in surprise or alarm. _She started when I walked into the room._ _Syn_ jump, start  
 __steadfast__ _adj_ /STED-fast/ Someone described as _steadfast_ is very devoted or loyal to a person, belief, or cause. _Steadfast_ is also used to describe something, such as support, that remains unchanging.  
@@ -1083,12 +1110,15 @@ __stray__ _v_
 __streak__ _v_ __4__ To run naked in public, especially as a prank.  
 __strobe__ _n_ __3__ A spot of higher than normal intensity in the sweep of an indicator, as on a radar screen, used as a reference mark for determining distance.  
 __sturdy__ _adj_ _The sturdy Millennium Falcon._  
+__sundry__ _adj_ /ˈsʌn dri/ [:scroll: From _sundor_ “separately, apart, asunder” (see _sunder_) + _-y_]  
 __supposedly__ _adv_ :mega: /suh–poh-zid-lee/ Believed or reputed to be the case.  
 __swashbuckler__ _n_ :es: espadachín; intrépido  
 __swat__ _v_ _He swats a fly._  
+__switch__ _n_  
 __swoop__ _v_  
 __synecdoche__ _n_ :mega: /səˈnɛkdəki/ /sɪnˈɛkdəkɪ/  
 __taunt__ _n_  
+__tawdry__ _adj_  
 __teeter__ _vi_ :two: __1__ To move or sway unsteadily or unsurely; totter.  
 __teetotaler__ _n_ (teetotaller)  
 __tenacious__ _adj_ /tuh-NAY-shus/ Something described as tenacious cannot easily be stopped or pulled part; in other words, it is firm or strong. _Tenacious_ can also describe something—such as a myth—that continues or persists for a long time, or someone who is determined to do something. _Caleb was surprised by the crab’s tenacious grip._  
@@ -1112,6 +1142,7 @@ __tire iron__ _n_ :two: A short length of steel with one end flattened to form a
 __to-do__ _n_ :dart: :es: alboroto  
 __toadstool__ _n_ Common name for an inedible or poisonous agaric (contrasting with the edible mushroom). :es: hongo venenoso  
 __toil__ _vi_  
+__torpedo__ _vt_ __2__ To render ineffective; destroy or wreck: _to torpedo the administration’s plan._  
 __tout__ _n_ __1__ One who solicits customers brazenly or persistently. _Touts, thieves, and barrow men._  
 __townhouse__ _n_  
 __traduce__ _vt_ :smiling_imp:  
@@ -1119,6 +1150,7 @@ __trickle__ _vi_
 __trifle<sup>1</sup>__ _n_ __1__ A thing of little or no value or significance. __2__ A small amount; bit: _a trifle more enthusiasm._  
 __trifle<sup>2</sup>__ _v_ __1__ _vi_ (usually foll by: _with_) To deal (with) as if worthless; dally. To deal (with) as if worthless; dally: _to trifle with a person’s affections._ __2__ _vt_ To waste (time or money, for example).  
 __trot__ _v_  
+__trundle__ _v_  
 __tuck__ _v_  
 __uncompromising__ _adj_  
 __unfathomable__ _adj_  
@@ -1140,14 +1172,21 @@ __wad__ _v_
 __waddle__ _v_  
 __wagonette__ _n_ :camera: (waggonette) A light four-wheeled horse-drawn vehicle with two lengthwise seats facing each other behind a crosswise driver’s seat.  
 __walrus mustache__ _n_ A bushy, drooping mustache.  
+__warthog__ _n_ :astonished: African wild swine with warty protuberances on the face and large protruding tusks.  
 __waylaid__  
 __weak coffee__ _n_ :dart: _Weak coffee_ generally refers to a brew that has a lower concentration of coffee grounds relative to the amount of water used during brewing. This results in a drink that is often perceived as watery or lacking in robust flavor.  
 __weathervane__ _n_  
+__well<sup>1</sup>__ _n_  
+__well<sup>2</sup>__ _vi_ __1__ To rise to the surface, ready to flow: _Tears welled in my eyes._ __2__ To rise or surge from an inner source: _Anger welled up in me._ Flow or rise up, often gradually and steadily. _There was music welling from a speaker._  
+__well<sup>3</sup>__ _vt_  
 __wharf__ _n_ A platform built out from the shore into the water and supported by piles; provides access to ships and boats. _Syn_ pier, wharfage, dock  
 __wheeddle__ _v_ :smiling_imp:  
+__whimper__ _v_  
 __white-hot__ _adj_  
 __William__ _n_ (Shortened familiar versions in English include Will, Wills, Willy, Willie, Liam, Bill, and Billy)  
+__wisp__ _n_  
 __woefully__  
+__wonderful__ _adj_ :mega::astonished: /ˈwʌn dər fəl/  
 __wondrous__ _adj_  
 __Worcestershire__ _n_ (sauce) /woos-ter-sheer/  
 __wrought-iron__  

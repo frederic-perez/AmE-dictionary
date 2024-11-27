@@ -37,8 +37,10 @@ __a load of bunk__ :es: tontería
 __a long shot__ :dart::two::hammer:  
 __a mite__ :dart: To a small degree; somewhat: _That remark was a mite unfair._ _This sounds a mite grandiose._  
 __a motor mouth__ A person who talks incessantly or irrepressibly.  
+__a necessary evil__ (necessary evil)  
 __a piece of work__ :smiling_imp: A remarkably difficult, malicious, unpleasant, or objectionable person.  
 __a shiver down (one’s) spine__ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
+__a small fortune__ (small fortune)  
 __a stab in the back__ A betrayal; an act of treachery.  
 __a stone’s throw__ :two: A very short distance.  
 __a stranger to (someone or something)__ Someone who experience or knowledge of something. Often used in negative constructions. _She’s rather much a stranger to cosmetics._  
@@ -106,9 +108,11 @@ __birthday suit__
 __break character__ To fail to act as a certain character; to be or act out of character.  
 __brimstone__ _n_  
 __bring (something) into effect__ To cause (something) to apply, begin operating, or take effect; to begin implementing or enforcing (something).  
+__bring to one’s knees__ Make one submit; reduce to a position of subservience.  
 __brush up (on something)__ :dart: To improve one’s knowledge of something or one’s ability to do something. _I need to brush up on my German. My German is weak. I had better brush up._  
 __bustle about__  
 __buzzard__ _n_ An old man; a mean old man. (Especially with old.) _Some old buzzard is at the door asking for Mary Wilson._  
+__calculated risk__ A risky action that has been carefully considered beforehand, in which the chance or likelihood of a beneficial outcome outweighs the risk or cost of failure. _We decided to take the calculated risk of going to trial, rather than settling out of court._  
 __call of nature__ The urge to urinate or defecate. _I have to attend to the call of nature._  
 __call out__  
 __call the shots__ (call (all) the shots)  
@@ -131,6 +135,7 @@ __clear the table__ To remove objects from a table. This phrase is often said af
 __close shave__  
 __close to one’s chest__  
 __close up__ _Close it up, Wedge! Check!_  
+__cobble together__  
 __cockamamie__ Absurd or ridiculous. _Please don’t get involved in another one of his cockamamie schemes—you know they never pan out._  
 __coin__ _slang_ Money.  
 __cold fish__  
@@ -179,7 +184,10 @@ __do the trick__ To do, accomplish, or fulfil exactly what is needed or sought a
 __do-rag__ A scarf, bandana, or similar item tied around the head as a covering. A headcap that covers and protects a hairdo. _Bob says he uses that do-rag to keep his hair out of his face while he mows the lawn._  
 __don’t get me started__  
 __don’t give a rat’s ass__  
+__double whammy__ A situation in which two negative things happen at the same time or in rapid succession. _Jack suffered a double whammy when his car broke down the same day he lost his job._  
+__down the line__ In the future.  
 __downer__ :es: tranquilizante  
+__doze off__  
 __drape (something or oneself) over (someone or something)__ __1__ To lay on a piece of furniture, usually with one’s limbs splayed. In this usage, a reflexive pronoun is used between “drape” and “over.” _John came in and draped himself over the sofa while moaning about his ex-girlfriend._ __2__ To loosely place something over someone or something. In this usage, a noun or pronoun is used between “drape” and “over.” _It wasn’t as cold out when I left the theater, so I just draped my coat over my shoulders._  
 __drape over (something)__ [for cloth] To cover something and hang down. _The robe draped over her knees, but she was still cold._ _The tablecloth draped over and reached down to the floor._  
 __draw to a close__  
@@ -196,6 +204,7 @@ __enough is enough__
 __entreat (one’s) to (do something)__  
 __every now and then__  
 __factor in__  
+__fall flat__ __1__ To fail or be ineffective. _Good luck—the last time management tried to implement a new dress code, that measure fell flat._ __2__ To fail to be humorous, as of a joke. _A: “Unfortunately, my first stand-up routine really fell flat.” B: “Well, maybe you just had the wrong audience.”_  
 __fall off the perch__ _BrE_ _old-fashioned, informal_ (fall off your perch) If someone falls off the perch or falls off their perch, they die. Note: A perch is a pole, branch or other place where a bird sits to rest. _He fell off the perch years ago._ Note: Other verbs such as drop or topple can be used instead of fall. _He’ll topple off his perch one morning. You know how it is._ Note: This expression is used humorously.  
 __famous last words__ A statement or claim that is promptly undone or disproved. This phrase is often humorously or preemptively. A reference to the final words one says before one dies. _A: “I can’t believe the ER has been so quiet today!” B: “Ugh, famous last words for sure.”_  
 __fancy__ _informal_ __2__ To have a desire for (something).  
@@ -273,6 +282,7 @@ __harp on (something)__
 __have had a drop too much__  
 __have it your way__  
 __heads up__  
+__heaven knows__  
 __hell no__  
 __hell on earth__  
 __hell-bent__ Very determined to do something, perhaps annoyingly or recklessly so.  
@@ -310,6 +320,7 @@ __if nothing else__ :dart::two: A phrase used to indicate that something is a pr
 __If you can’t beat ’em, join ’em__  
 __iffy__  
 __in a bit__  
+__in a flash__ Immediately; very quickly; at once. _Just call us on this number if you have any problems, and we’ll be back in a flash._  
 __in a flutter__ In a nervous, confused, or agitated state.  
 __in a huff__ :smiling_imp: In an angry, belligerent, or vexed manner. _Don’t go off in a huff like that, it was only a joke!_  
 __in a measure__ To a certain degree or extent; somewhat.  
@@ -427,7 +438,7 @@ __jump ship__ (abandon ship) _Nearly all of (chatbot) Pi’s parent company, Inf
 __jungle law__  
 __junkyard dog__ An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase “meaner than a junkyard dog.” _Though he’s always polite when he’s in public, Tiffany’s husband is meaner than a junkyard dog behind closed doors._  
 __just deserts__ :dart::pencil2:  
-__just like that__ :two::hammer:  
+__just like that__ :three::hammer: ((just) like this/that)  
 __just saying__  
 __just the same (to one)__ Makes no difference one way or another (to one); unimportant (to one) what happens or how. _I’d actually prefer to continue working on a freelance basis, if it’s just the same to you._  
 __keel over__  
@@ -552,6 +563,7 @@ __liquid courage__ _slang_ The decrease in timidity or inhibition that comes fro
 __litmus test__  
 __little does (one) know__ One is completely unaware of something.  
 __live and kicking__ :dart: Alive, healthy, and alert. (A truncated version of “alive and kicking.”) _Sam: “How are you feeling, John? I heard you were quite sick recently.” John: “I”m still live and kicking!”_  
+__live on borrowed time__  
 __live the life of Riley__ To lead a life of great ease, comfort, or luxury. The phrase is likely of early 20th-century Irish-American origin, but to whom Riley refers is uncertain. _Pampered from a young age after his father came into sudden wealth, Jonathan lived the life of Riley compared to the hardships his older siblings faced._  
 __live up to (something)__ :three::hammer: _Live up to the hype._  
 __living proof__  
@@ -800,6 +812,7 @@ __sexual advance__ An attempt to gain some form of sexual favor or gratification
 __sexual advances__  
 __Shangri-la__ A utopian paradise. A reference to the fictional Tibetan paradise described in James Hilton’s 1933 novel _The Lost Horizon._  
 __shapeshift__ _vi_ To undergo a noticeable change (in character for example), to metamorphosize.  
+__shell-shocked__ :dart: __1__ In a state of intense psychological strain, distress, or trauma as a result of prolonged engagement in combat warfare. The term was popularized during the First World War in reference to soldiers returning from combat; it is more commonly known in modern times as posttraumatic stress disorder (PTSD), and has expanded to cover the psychological damage caused by any kind of traumatic event. _My brother was lucky enough to come home from the war alive, but he was shell-shocked for the rest of his life._ __2__ In a state of utter disbelief, confusion, grief, or shock caused by a powerful and upsetting event. _The family has been shell shocked after finding out their father had gambled away their life savings._  
 __shift gears__  
 __shine a light__  
 __shipping and handling__ The costs associated with packaging and delivering a product to the person who bought it. _Our top line of vacuum cleaners is now only $250, plus shipping and handling._  
@@ -850,6 +863,7 @@ __so be it__
 __so much so that__  
 __soaking wet__ Completely drenched.  
 __sock__ :two: _informal_ __2__ _v_ To deliver a sharp, forceful blow.  
+__soft shoulder__ :astonished: An unpaved lane or area on the side of a road, often a highway, where drivers can stop their vehicles in emergency situations. _I think you’ve got a flat tire. You’d better pull over on to the soft shoulder._  
 __soft spot__  
 __some people__ :dart: (some people!) Expresses disapproval at the actions of a person; a disapproving response to a person doing something. An expression of disgust over the way certain people act, behave, or function in society.  
 __something of sorts__ An inferior example of a kind of something.  
@@ -872,6 +886,7 @@ __stand on (one’s) own (two) feet__ To be strong and independent; to not need 
 __stands to reason__  
 __start the ball rolling__ To set something, often a process, in motion; to begin.  
 __stay clear of (someone)__ :dart:  
+__stay put__ To not move or leave; to remain in same location or position.  
 __stay strong__ :es: mantente fuerte  
 __steely-spined__ :dart: __2__ Determined and resolved. _You’ll never be able to talk Louise out of this—she’s as steely-spined as they come._ __3__ :dart: Calm and unflappable under pressure. _I asked my brother to come to court with me because he is always steely-spined in stressful situations._ _Gina needs to be steely-spined to deal with all the rejection that comes with being an actress._  
 __step in__ To enter into some position, activity, or situation to intervene or improve it.  
@@ -889,8 +904,12 @@ __sucker (one) in__ To con, swindle, or deceive someone.
 __suffice it to say__ (suffice (it) to say)  
 __suicide by cop__  
 __sure as hell__ ((as) sure as hell) _The cops that worked the case didn’t do shit and sure as hell aren’t going to do shit now._  
+__sure enough__ As expected or anticipated.  
 __sure thing__  
+__swat__ _slang_ To contact emergency services, such as the police, with a fraudulent report of an emergency so that they respond in large numbers to a certain location, often done as a prank. The name refers to SWAT (“Special Weapons and Tactics”) teams, specialized police units that respond to especially dangerous situations. _Kids keep swatting celebrities’ houses, and police are coming down hard when they catch the person who did it._  
+__swatting__ _slang_ The act of contacting emergency services, such as the police, with a fraudulent report of an emergency so that they respond in large numbers to a certain location, often done as a prank. The name refers to SWAT (“Special Weapons and Tactics”) teams, specialized police units that respond to especially dangerous situations. _Swatting is much more dangerous than a simple prank—it diverts first responders who may be needed elsewhere._  
 __swept the board__  
+__sworn enemy__ A person, group, or organization for whom one holds a particularly intense, deep-seated hatred. _Our environmentalist lobby group is heading out to protest against Big Oil, our sworn enemy._  
 __take heart (from something)__ To receive courage or comfort from some fact. _I hope that you will take heart from what we told you today. Even though you did not win the race, take heart from the fact that you did your best. I told her to take heart and try again next time._  
 __take heart__ To have one’s confidence, courage, or happiness bolstered (by something). _We may have lost the election, but we take heart in the fact that so many young people are now engaged and excited about politics._  
 __take heed (of someone or something)__  
@@ -901,15 +920,17 @@ __take umbrage__ :two::hammer:
 __takedown__ :dart: _slang_ A taking down: the arrest of a suspect by a police officer. _She shot and killed two drug dealers in a takedown that went bad._  
 __talk (one’s) way out of (something)__ To use charming or persuasive speech in order to avoid something, especially punishment. _I still can’t believe you were able to talk your way out of that drunk-driving ticket._  
 __tangle with (someone or something)__ To fight, argue, or engage in a dispute with someone or something.  
+__tap our__  
 __team up (with one)__  
 __tear up__ __1__ To violently rip or pull someone or something into pieces. In this usage, a noun or pronoun can be used between “tear” and “up.” :es: destrozar  
 __tell me about it__ :two::hammer:  
 __tell me something I don’t know__  
 __thank goodness__  
+__that being said__  
 __that does the trick__ That is all that was remaining or required to accomplish something. _There, that does the trick. The engine should be as good as new, now!_  
 __that very thing__ Exactly that. _Why, I was just looking for that very thing!_ _You know, I was just about to say that very thing._  
 __the belle of the ball__  
-__the better part of (something)__ :dart::two: The majority of something. _I’m sorry I’m late—my doctor’s appointment took the better part of an hour._  
+__the better part of (something)__ :dart::three: The majority of something. _I’m sorry I’m late—my doctor’s appointment took the better part of an hour._  
 __the facts of life__  
 __the golden rule__ :dart: The maxim that one should treat other people the way one would like to be treated, often expressed proverbially as “Do unto others as you would have them do unto you.” _My son wanted to steal the bike of a boy who stole his lunch money, so I told him that the only way to get along with people is to follow the golden rule._  
 __the greatest thing since sliced bread__ A humorous and hyperbolic statement indicating one’s belief that something is excellent, especially something new and innovative. _These waterproof jeans are the greatest thing since sliced bread. I don’t have to worry about getting soaked!_  
@@ -944,8 +965,11 @@ __touch grass__ To participate in normal activities in the real world especially
 __toughen up__  
 __trials and tribulations__  
 __trick of the light__  
-__wait and see__  
+__triple whammy__ A combination of three different elements, circumstances, or actions that results in a particularly powerful force, outcome, or effect. _Deregulation of the financial sector, securitization of huge amounts of various debt, and fluctuating national interest rates formed a triple whammy that sent the stock market crashing._  
+__trundle along__ To proceed along (something) in a slow, heavy, or ungainly manner.  
+__wait and see__ :two::hammer:  
 __wind up__ __1__ To come or bring to a finish; end: _when the meeting wound up; wind up a project._  
+__winnow out__  
 __young at heart__ Behaving or thinking in a way that is more youthful than what traditionally accompanies one’s actual age.  
 __yup__  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
