@@ -72,6 +72,7 @@ __ENDR__ Early Neonatal Death Rate (prenatal care evaluation factor).
 __ENT__ :three: Ear, nose and throat doctors, often called ENT doctors, specialize in problems around your head and neck.  
 __EOL__  
 __ESP__ Extrasensory perception. _ESP powers._  
+__ET__  
 __ETA__ Estimated time of arrival. _I believe we have an ETA of six days._  
 __exe__ :mega: /eksˈee/ or /eekˈsee/ or /E-X-E/  
 __FCC__ Federal communications commission (USA) _I must abide by FCC decency standards._  
@@ -136,6 +137,7 @@ __MC__
 __MDMA__ Methylene dioxymethamphetamine: an amphetamine derivative, that was used in psychotherapy until it was banned in the U.S. in 1985: now used illicitly as a hallucinogen and mood-enhancer. Also called (informal): ecstasy.  
 __ME__ _n_ :three: Medical Examiner. _The ME said there was a look frozen in their eyes._ _The ME dug him out of the ashes and opened him up._  
 __MIA__ :two: Missing in action.  
+__MITM__ Man in the middle.  
 __MLK__  
 __MO__ :six: Modus operandi. _With the same MOs._  
 __MOS__ :two: Mom over shoulder.  

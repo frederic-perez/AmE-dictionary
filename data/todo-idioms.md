@@ -109,6 +109,7 @@ __break character__ To fail to act as a certain character; to be or act out of c
 __brimstone__ _n_  
 __bring (something) into effect__ To cause (something) to apply, begin operating, or take effect; to begin implementing or enforcing (something).  
 __bring to one’s knees__ Make one submit; reduce to a position of subservience.  
+__brood over__  
 __brush up (on something)__ :dart: To improve one’s knowledge of something or one’s ability to do something. _I need to brush up on my German. My German is weak. I had better brush up._  
 __bustle about__  
 __buzzard__ _n_ An old man; a mean old man. (Especially with old.) _Some old buzzard is at the door asking for Mary Wilson._  
@@ -199,6 +200,7 @@ __drum up__
 __dry as a bone__  
 __easy does it__ :dart:  
 __eat (one’s) gun__ To commit suicide by shooting oneself in the head through the roof of one’s mouth.  
+__ebb and flow__  
 __engage (one) as (something)__ To hire someone for a particular role or job. _I thought they were just going to engage me as a file clerk, but because they needed help with data entry, I wound up doing that instead._ :es: contratar  
 __enough is enough__  
 __entreat (one’s) to (do something)__  
@@ -250,6 +252,7 @@ __for starters__
 __glass cliff__ _n_ A situation in which a woman or minority has advanced professionally at a time when adverse circumstances or crises make it more likely for the person to fail at the job.  
 __glimmer of hope__  
 __go an eye out for (someone or something)__ To remain vigilant or carefully watchful for something or someone.  
+__go haywire__  
 __go overboard__ :es: pasarse  
 __go strong__  
 __go through a rough patch__ To experience or be in the midst of a period of trouble, difficulty, or hardship.  
@@ -279,9 +282,12 @@ __grow cold__ To wane or diminish; to lessen in strength over time, especially a
 __gunk__  
 __half bad__ _The decor didn’t look half bad._  
 __harp on (something)__  
+__hatchet man__ [Note: a _hatchet_ is a small axe]  
 __have had a drop too much__  
 __have it your way__  
 __heads up__  
+__hear out__ (hear someone out)  
+__heart of gold__  
 __heaven knows__  
 __hell no__  
 __hell on earth__  
@@ -308,6 +314,7 @@ __hopeless at (something)__ Not skilled or adept at something. _Oh, I hired a ma
 __horseshit__ :es: chorradas  
 __hothead__ A person with an excitable, fiery, or impetuous temper or disposition; one who is quick to get angry or act rashly. _That lady in the car behind me is a real hothead, honking and shouting at me every time I slow down!_  
 __hotshot__ :two::hammer:  
+__hubby__  
 __hue and cry__ /HYOO-und-KRYE/ __1__ A large public protest. _Hue and cry_ refers to a clamor of alarm or protest in response to something. __2__ It can also be used as a synonym of hubbub to refer to general noise or uproar.  
 __huff and puff__ Make noisy, empty threats; bluster. For example, _You can huff and puff about storm warnings all you like, but we’ll believe it when we see it._ This expression uses two words of 16th-century origin, _huff_, meaning “to emit puffs of breath in anger,” and _puff_, meaning “to blow in short gusts,” and figuratively, “to inflate” or “make conceited.” They were combined in the familiar nursery tale, _“The Three Little Pigs,”_ where the wicked wolf warns, _“I’ll huff and I’ll puff and I’ll blow your house down”_; rhyme has helped these idioms survive.  
 __hung jury__ :dart: A jury that cannot agree on a verdict.  
@@ -332,6 +339,7 @@ __in all honesty__
 __in all likelihood__  
 __in all seriousness__  
 __in and of itself__  
+__in any event__  
 __in arrears__ :three: Behind or overdue, often because one has not made a payment as scheduled.  
 __in bits and pieces__ In many small fragments. _Look what you’ve done! My favorite lamp is in bits and pieces on the floor!_  
 __in cahoots (with someone)__  
@@ -423,6 +431,7 @@ __jerk (someone or something) out of (something)__ To pull, yank, or lift someon
 __jigaboo__ _n_ (ethnic slur) Extremely offensive name for a Black person.  
 __Jill of all trades(, master of none)__ :dart:  
 __JK__ An initialism of “just kidding,” used especially in text messages and online communications to express that one was not being serious about their previous statement. Variously written as “JK,” “J.K.,” or “J/K,” in either uppercase or lowercase letters. _Yeah, def considering working on my uncle’s farm 4 the summer. haha jk lol_  
+__John Does__  
 __join hands__ __2__ By extension, to work together to achieve some goal.  
 __join the fray__ __1__ To enter into some competitive endeavor.  
 __join the ranks (of something)__ To become a part or member of a large group or organization.  
@@ -689,6 +698,7 @@ __on edge__ Anxious and tense.
 __on occasion__ :pencil2: Once in a while; occasionally.  
 __on paper__ __2__ Hypothetically or in theory.\_ It’s a good idea on paper, but I don’t think it would work in a real-world environment.\_  
 __on par (with someone or something)__  
+__on speaking terms__  
 __on the back burner__ Of a low priority; given less or little thought or attention; postponed or suspended.  
 __on the blink__ __1__ _slang_ Not working correctly; acting strangely; malfunctioning. _Our washer is on the blink, so I’m on my way to the laundromat._ __2__ _slang_ Drunk. _Do you remember last night at the bar at all? You were really on the blink!_  
 __on the brink of (something)__ :two::hammer:  
@@ -724,6 +734,7 @@ __out of (one’s) league__
 __out of commission__  
 __out of nowhere__  
 __out of print__ No longer being printed and sold by a publisher.  
+__out of sight, out of mind__  
 __out of the wood(s)__  
 __over and out__ Said to mark the end of communication between two people. Used especially in radio communication, in which it signals that a person is done speaking and does not expect a reply from the other person. _A: “Oh, and while you’re at the store, could you please get some milk, too?” B: “Sure thing. Over and out.”_  
 __over the course of__ In or during the process of.  
@@ -763,6 +774,7 @@ __plop down__ _informal_ __1__ To sit or lie down in a heavy or careless way. _H
 __plowed over__ Being overwhelmed or completely defeated by something.  
 __plunger__ _n_ /ˈplʌndʒə/ __3__ _informal_ A reckless gambler.  
 __point the finger at (one)__  
+__poke around__  
 __riled up__ ((all) riled up) Particularly angry, agitated, or in a frenzied state.  
 __roast__  
 __rob someone blind__ :smiling_imp:  
@@ -913,6 +925,7 @@ __sworn enemy__ A person, group, or organization for whom one holds a particular
 __take heart (from something)__ To receive courage or comfort from some fact. _I hope that you will take heart from what we told you today. Even though you did not win the race, take heart from the fact that you did your best. I told her to take heart and try again next time._  
 __take heart__ To have one’s confidence, courage, or happiness bolstered (by something). _We may have lost the election, but we take heart in the fact that so many young people are now engaged and excited about politics._  
 __take heed (of someone or something)__  
+__take no notice of (something or someone)__  
 __take on trust__  
 __take stock (of something)__  
 __take the fall (for someone or something)__  
@@ -951,6 +964,7 @@ __thread the needle__
 __throw in__ _He is going to throw in every dirty trick he can think of._  
 __throw the book at (one)__ :dart: _The NY Times sure loves throwing the book at AI startups._  
 __thumb one’s nose__  
+__tick away__  
 __tit for tat__  
 __to hell and back__ Through a difficult, trying, or perilous situation and having overcome it.  
 __to name (but) a few__  
@@ -963,13 +977,18 @@ __topsy-turvy__ [:scroll: It likely comes from the combination of “top” and 
 __touch down__  
 __touch grass__ To participate in normal activities in the real world especially as opposed to online experiences and interactions.  
 __toughen up__  
+__trash__ __1__ _slang_ To discard or throw away something. _I’ve always regretted trashing my old collection of toys._ _I trashed the envelope._  
 __trials and tribulations__  
 __trick of the light__  
 __triple whammy__ A combination of three different elements, circumstances, or actions that results in a particularly powerful force, outcome, or effect. _Deregulation of the financial sector, securitization of huge amounts of various debt, and fluctuating national interest rates formed a triple whammy that sent the stock market crashing._  
 __trundle along__ To proceed along (something) in a slow, heavy, or ungainly manner.  
 __wait and see__ :two::hammer:  
+__walk on eggs__  
+__water under the bridge__  
 __wind up__ __1__ To come or bring to a finish; end: _when the meeting wound up; wind up a project._  
 __winnow out__  
+__worry (something) out of (someone or something)__  
+__yellow__  
 __young at heart__ Behaving or thinking in a way that is more youthful than what traditionally accompanies one’s actual age.  
 __yup__  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
