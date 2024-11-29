@@ -80,6 +80,7 @@ __be chock-a-block__ __1__ To be squeezed or jammed closely together. _So many p
 __be cocksure of (oneself)__ To be completely certain of oneself or one’s actions, to the point of overconfidence. _You seem pretty cocksure of yourself—do you really know how to handle that machine?_  
 __be in bad with (someone)__ To be disliked or out of favor with someone; to be in trouble with someone.  
 __be in for a treat__ To be guaranteed to receive or experience something unexpectedly pleasant or beneficial.  
+__be kept in the dark (about something)__ To be kept uninformed (about something); to be excluded from full knowledge or disclosure (of something).  
 __be left to (one’s) own devices__ To be left unsupervised or uncontrolled; to be allowed to do as one pleases. _My job is really great: I know what I need to work on and am just left to my own devices._  
 __be like oil and water__ To be incompatible or unable to interact or coexist easily, as due to fundamental differences in personality, opinions, beliefs, etc. _I really wish my boyfriend could get along with my friend Tara, but the two of them are like oil and water._  
 __be my guest__  
@@ -89,6 +90,7 @@ __be partial to (someone or something)__ To be particularly fond of someone or s
 __be real__  
 __be under a cloud__ To be viewed with suspicion, distrust, or disapproval.  
 __be up to scratch__  
+__be-all and end-all__ _Cliché_ Something that is the very best or most important; something so good that it will end the search for something better. _Finishing the building of his boat became the be-all and end-all of Roger’s existence._ _Sally is the be-all and the end-all of Don’s life._ _Being a professor was never his be-all and end-all._  
 __bear (someone or something) in mind__  
 __bear down__  
 __beat about the bush__ :two: _BrE_ To speak vaguely or euphemistically so as to avoid talking directly about an unpleasant or sensitive topic. Primarily heard in UK.  
@@ -105,6 +107,7 @@ __beyond/within the realms of possibility__ Impossible/possible: _A successful o
 __big fat__ _adj_ :dart: __1__ (idiomatic, derogatory) Complete, utter, total. __2__ (idiomatic, colloquial) Huge, colossal. _A big fat lie._  
 __big guns__  
 __birthday suit__  
+__brat__ :dart: The new usage of _brat_ redefines the word, using it to refer to someone who is confidently rebellious, unapologetically bold, and playfully defiant. _In 2024, a new usage of brat exploded into the mainstream after a three-word tweet by musician Charli XCX: “kamala IS brat.”_  
 __break character__ To fail to act as a certain character; to be or act out of character.  
 __brimstone__ _n_  
 __bring (something) into effect__ To cause (something) to apply, begin operating, or take effect; to begin implementing or enforcing (something).  
@@ -262,6 +265,7 @@ __go to war (over someone or something)__
 __go with (someone or something)__  
 __go with the flow__ To act as others are acting, conforming to common behavior patterns with an attitude of calm acceptance.  
 __go with the territory__ To typically accompany a certain situation; to be a usual consequence or related issue. _When you’re the boss, staying late at the office just goes with the territory._  
+__gobble up__  
 __God rest someone’s soul__ May God bless a previously mentioned person who has died. _I remember what my mother, God rest her soul, used to say about that._  
 __God’s honest truth__ The absolute, sincere, unequivocal truth.  
 __God’s will be done__ The idiom “God’s will be done” expresses a sense of acceptance regarding circumstances that are beyond human control. It reflects a belief in a higher power’s plan or purpose, suggesting that whatever happens is ultimately part of a divine design.  
@@ -283,11 +287,14 @@ __gunk__
 __half bad__ _The decor didn’t look half bad._  
 __harp on (something)__  
 __hatchet man__ [Note: a _hatchet_ is a small axe]  
+__have a heavy heart__ To have a dejected or miserable attitude or disposition; to be in a depressed or grievous state. _I’ve had a terribly heavy heart since my dog passed away._  
 __have had a drop too much__  
 __have it your way__  
 __heads up__  
 __hear out__ (hear someone out)  
 __heart of gold__  
+__heart to heart__ Candidly, sincerely, as in _We need to talk heart to heart about her coming marriage._ This expression is nearly always applied to a conversation of some kind.  
+__heart-to-heart__  
 __heaven knows__  
 __hell no__  
 __hell on earth__  
@@ -541,12 +548,17 @@ __let alone__
 __let down (one’s) guard__ To become less guarded or vigilant; to stop being cautious about potential trouble or danger. _We’ll wait long enough for them to let down their guard before we launch our invasion._  
 __let down (one’s) hair__ To cease acting formally or conservatively; to let go of one’s inhibitions or reservations. _Come on, Jim, this is a party! Let down your hair and go a little wild!_  
 __let down__  
+__let go and let God__ To give up one’s self-determination and yield to the teachings, designs, or instructions of God or the church. _One day, I decided to just let go and let God, and I’ve been a happier person for it ever since._  
+__let it rest__ To cease discussing or dwelling upon a given subject. _Look, we can’t afford a new car right now, so just let it rest already!_  
 __let off (some) steam__ __2__ To release strong emotions or energy by engaging in some kind of enjoyable, vigorous, or relaxing activity. _I went on a run to let off steam after our fight._ _When work gets frustrating, I like to go bowling to let off some steam._  
 __let on__ :es: divulgar  
 __let someone down__  
 __let the good times roll__ To have as much fun or live life as richly as possible. (Often said as an imperative.) _We’ve had another successful year at the company, so everyone enjoy the party and let the good times roll!_  
 __let up (on someone or something)__  
 __let up__ :es: parar, detenerse  
+__let’s get something straight__ (expression) Let’s clear up any possible confusion, misunderstanding, or uncertainty (about something); let me make this perfectly clear.  
+__let’s not and say (that) we did__ A sarcastic expression indicating that one would really rather not do what has been proposed. _Joe: “Why don’t we go to the farmers’ market today?” Sarah: “Ugh, in this weather? Let’s not and say we did.”_  
+__let’s roll__ Let’s get out of here; let’s get moving. _I think I’ve had enough of this party. Let’s roll, Sarah._  
 __letters after (one’s) name__ :dart: A series of abbreviations indicating the various levels of higher education or military honors one has received, thereby denoting a presumed level of intelligence, wisdom, or respectability. _I hate hanging out with your PhD colleagues—it seems like they’ll only take you seriously if you have letters after your name._  
 __level the playing field__ To make a situation or activity more fair and balanced by giving an extra advantage or opportunity to those who would normally be at a disadvantage, or by attempting to take away or diminish advantages, perhaps of one’s adversary or competitor.  
 __lick (one’s) wounds__  
@@ -613,6 +625,7 @@ __make game of (someone or something)__ To ridicule, mock, or tease someone or s
 __make it__ __1__ To be successful.  
 __make light of (something)__  
 __Maslow’s hammer__ :dart: The inability to recognize other possible outcomes or solutions if one relies too much on a particular tool, method, or mindset. The term refers to 20th-century psychologist Abraham Maslow and his idea that “If all you have is a hammer, everything looks like a nail.” Also known as the “golden hammer,” and “the law of the instrument.”  
+__Midwest nice__ _Midwest nice_ refers to the characteristic politeness, friendliness, and hospitality often associated with people from the Midwestern United States.  
 __mill about__  
 __mince words__  
 __mix and match__  
@@ -797,6 +810,7 @@ __rush into (something)__
 __same old same old__ :two::hammer:  
 __same shit, new wrapping__ Colloquial expression that conveys the idea that something has been superficially changed or repackaged but remains fundamentally the same. It suggests that despite appearances, the underlying issues or qualities have not been altered.  
 __save (one’s) bacon__  
+__say again?__  
 __says who__  
 __scare the crap out of (one)__ _rude slang_ To shock or frighten one very suddenly or severely. Hyperbolically alludes to frightening one so badly as to cause them to lose bowel control.  
 __scare the hell out of someone__  
@@ -943,6 +957,7 @@ __that being said__
 __that does the trick__ That is all that was remaining or required to accomplish something. _There, that does the trick. The engine should be as good as new, now!_  
 __that very thing__ Exactly that. _Why, I was just looking for that very thing!_ _You know, I was just about to say that very thing._  
 __the belle of the ball__  
+__the best thing since sliced bread__  
 __the better part of (something)__ :dart::three: The majority of something. _I’m sorry I’m late—my doctor’s appointment took the better part of an hour._  
 __the facts of life__  
 __the golden rule__ :dart: The maxim that one should treat other people the way one would like to be treated, often expressed proverbially as “Do unto others as you would have them do unto you.” _My son wanted to steal the bike of a boy who stole his lunch money, so I told him that the only way to get along with people is to follow the golden rule._  
