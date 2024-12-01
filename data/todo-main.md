@@ -534,56 +534,6 @@ __jot<sup>1</sup>__ _n_ :dart: /dʒɒt/ The smallest bit; iota. _(used with a ne
 __jot<sup>2</sup>__ _vt_  
 __Jovian__ _adj_  
 __jubilee__ _n_ :mega: /JOO-buh-lee/  
-__juggernaut__ _n_ :three::hammer: /ˈdʒʌɡəˌnɔːt/ _The imperial juggernaut._  
-__jumar__ _n_ /ˈdʒuːmə/  
-__jurisprudence__ _n_ /joor-us-PROO-dunss/ _Jurisprudence_ is a formal word that typically refers to the science or philosophy of law, or to a system or body of law.  
-__juror__ _n_ :mega: /joor-er/joor-awr/  
-__jury-rigged__ _adj_ :dart: Done or made using whatever is available. _Syn_ improvised, makeshift  
-__justice of the peace__ _n_ (JP) A local magistrate empowered chiefly to administer summary justice in minor cases, to commit for trial, and to administer oaths and perform marriages.  
-__kaboom__ _n_  
-__kakistocracy__ _n_ /ˌkækɪˈstɒkrəsɪ/ Government by the least qualified or most unprincipled citizens.  
-__keen__ _adj_ (keener, keenest)  
-__keepsake__ _n_  
-__kettledrum__ _n_ :camera: A large hemispherical drum, often made of copper or brass with a parchment head. _Thunder sounds like kettledrums in the distance._  
-__killing field__ _n_  
-__Kitemark__ _n_ _BrE_ The official mark of quality and reliability, in the form of a kite, on articles approved by the British Standards Institution.  
-__knothole__ _n_  
-__kowtow__  
-__kudos__ _n_ /KOO-dahss/  
-__kung fu__ _n_ /ˈkʌŋ ˈfu, ˈkʊŋ/  
-__labile__ _adj_ /LAY-byle/  
-__labyrinthine__ _adj_ Resembling a labyrinth in form or complexity. _Syn_ mazy  
-__lacerate__ _v_  
-__laceration__ _n_  
-__lackey__ _n_  
-__laic__ _adj_ Of or relating to the laity. _Syn_ lay, secular  
-__lair__ _n_  
-__lambent__ _adj_ :two: __1__ (esp of a flame) Flickering softly over a surface.  
-__landowning__  
-__lap__ _vt_ __6__ :dart: _Sports_ To get ahead of (an opponent) in a race by one or more complete circuits of the course, as in running, or by two or more lengths of a pool in swimming.  
-__largesse__ _n_ :es: generosidad  
-__lass__ _n_ :two::hammer:  
-__lassitude__ _n_ :dart: A state or feeling of weariness, diminished energy, or listlessness. _Syn_ lethargy  
-__latch__ _n_  
-__lathe__ _n_  
-__laughing fit__ _n_  
-__launch__ _n_ __1__ A large boat that operates from a ship. __2__ A small motorboat that is open or that has the forepart of the hull covered.  
-__Lawrence__ _n_ (Larry)  
-__leaf peeper__ _n_ (chiefly informal US) A tourist who visits New England in autumn to see the changing colours of the foliage.  
-__lean__ _adj_  
-__leathern__ _adj_ Made of, covered with, or resembling leather.  
-__leery__ _adj_ :dart::smiling_imp: Suspicious or distrustful; wary: _was leery of aggressive salespeople._  
-__leisure__ _n_  
-__lemongrass__ _n_  
-__lemony__ _adj_ :astonished: /ˈlɛmənɪ/  
-__lenient__ _adj_ /LEEN-yunt/  
-__lentitude__ _n_ /LEN-tuh-tood/tyood/ Slowness or sluggishness.  
-__lethargic__ _adj_ :two: /luh-THAHR-jik/ Of, relating to, or affected with lethargy; drowsy; sluggish; apathetic. _Lethargic_ describes people who feel a lack of energy or a lack of interest in doing things. It is sometimes used figuratively, as in “a sluggish and lethargic economy.”  
-__lewd__ _adj_ :two::hammer:  
-__Lewis gun__  
-__liable__ _adj_  
-__liaise__ _v_ (usually foll by: _with_) To communicate and maintain contact (with). _They can put you in touch with solicitors, and liaise with police._  
-__Liam__ _n_ Short for William.  
 __library__ _n_ :mega: /lahy-brer-ee/  
 __lickspittle__ _n_ A contemptible, fawning person; a servile flatterer or toady.  
 __lidless__ _adj_ Watchful; vigilant. _Syn_ sleepless  
