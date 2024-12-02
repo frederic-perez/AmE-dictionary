@@ -23,6 +23,7 @@ __appalling__ _adj_
 __approach__ _n_ :es: actitud  
 __aquiline__ _adj_  
 __arbiter__ _n_ One chosen or appointed to judge or decide a disputed issue. _Syn_ arbitrator, umpire  
+__armamentarium__ _n_ :astonished: _(Medicine)_ The items that comprise the material and equipment used by a physician in his professional practice.  
 __armistice__ _n_ /AHR-muh-stus/  
 __arrest__ _v_ :dart::two::mega: Cause to stop.  
 __Aryan Brotherhood__ _n_ (the Brand, the AB)  
@@ -37,6 +38,7 @@ __avouch__ _vt_
 __avuncular__ _adj_ uh-VUNG-kyuh-luhr/ Kind, friendly, and helpful, like an uncle, especially in a benevolent or indulgent way.  
 __awry__ _adj, adv_  
 __ballot__ _n_ /ˈbæl ət/ [:scroll: from _ballotta_, the Italian word for “little ball”: when voting was done by the people of Venice during the Renaissance, secrecy was assured by the use of little colored or marked balls] A slip of paper on which a voter marks his or her choice; voting in general.  
+__Barbie__ _n_ A brand of doll representing a slim, shapely young woman, especially one with blond hair, blue eyes, and fair skin.  
 __bargain__ _v_  
 __bargainer__ _n_  
 __bawling__ _n_ _Now you quit your bawling, honey._  
@@ -128,6 +130,8 @@ __choir__ _n_ :mega: /kwaɪər/ /kwahyuhr/
 __chunky__ _adj_ Short and thick; stocky. _Syn_ low-set, squat, squatty, stumpy, dumpy  
 __colander__ _n_ /KUH/KAH-luhn-duhr/ (cullender) A utensil with perforations, used for straining or draining foods.  
 __colonel__ _n_ :mega: /ˈkɜr nl/ /kur-nl/  
+__complaisant__ _adj_ /kum-PLAY-sunt/ Someone described as complaisant is willing or eager to please other people, or is easily convinced to do what other people want.  
+__condescension__ _n_ A communication that indicates lack of respect by patronizing the recipient. _Syn_ disdain, patronage  
 __congeal__ _v_ Become gelatinous. _Syn_ jell, set  
 __contrite__  
 __coup__ _n_ :two::hammer::mega: /kuː/ /koo/ _A coup attempt._  
@@ -236,7 +240,7 @@ __ecchymosis__ _n_ (_n pl_ ecchymoses) The medical term for a bruise.
 __eddy__ _n_ /EDD-ee/ An eddy is a current of water or air running contrary to the main current, especially as a whirlpool. In figurative use, _eddy_ may also refer to a contrary or circular current of thought or policy.  
 __edgeways__  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
-__eggnog__ _n_  
+__eggnog__ _n_ :two::hammer:  
 __egotistical__ _adj_ Characteristic of those having an inflated idea of their own importance. _Syn_ egotistic, narcissistic, self-loving  
 __egregious__  
 __egret__ _n_  
@@ -269,6 +273,7 @@ __euphoria__ _n_ /yoo-FOR-ee-uh/ _Euphoria_ refers to a feeling of great happine
 __eurythmy__ _n_  
 __evertone__ _n_  
 __exact__ _v_ /ig-ZAKT/ To exact something (such as payment or revenge) is to demand it and get it, especially by using force or threats. _Exact_ is also used in phrases like “exact a terrible toll” and “exact a high/heavy price” to say that something has caused a lot of suffering, loss, etc.  
+__excavate__ _v_ Remove the inner part or the core of. _Syn_ dig, hollow _The mining company wants to excavate the hillside and build a tunnel._  
 __excelsior__ _adj_ Ever upward: motto of New York State.  
 __execrable__ _adj_  
 __exhort__ _v_ /ig-ZORT/ To urge, persuade, advise, etc. earnestly.  
@@ -349,7 +354,8 @@ __fling__ _v_ :two::hammer: (flung)
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
 __flyblown__ _adj_ Foul and run-down and repulsive. _Syn_ sordid, squalid _The gang met at a flyblown, grimy little bar on the edge of town to plan its next heist._  
 __friable__ _adj_ /ˈfraɪ ə bəl/ Easily crumbled or reduced to powder.  
-__frugal__  
+__Frisbee__ _n_ A trademark for a plastic disk-shaped toy that players throw and catch.  
+__frugal__ _adj_ :two: /FROO-gul/ Someone described as frugal is careful about spending money or using things unnecessarily. _Frugal_ can also describe something that is simple and plain in a way that reflects such carefulness with money and resources. _Sometimes a frugal meal of bread, cheese, and grapes can be just as satisfying as a lavish feast._  
 __Fu Manchu mustache__ _n_ A mustache with ends that hang downward toward or below the chin.  
 __fugacious__ _adj_ /fyoo-GAY-shus/  
 __fulgent__ _adj_ /FUHL-juhnt/ Shining brilliantly; radiant.  
@@ -518,6 +524,7 @@ __irretrievable__ _adj_ _Irretrievable breakdown of marriage._
 __island__ _n_ /ˈaɪ lənd/  
 __isthmus__ _n_ :mega: /is-muhs/  
 __itching__ _n_ An irritating cutaneous sensation that produces a desire to scratchitching - an irritating cutaneous sensation that produces a desire to scratch. _Syn_ itchiness, itch  
+__jack-in-the-box__ _n_ A toy consisting of a clownlike doll or other figure that is attached to the inside of a box and springs up when the lid is opened.  
 __jaded__ _adj_ :dart:  
 __jalopy__  
 __jangle__ _v_  
@@ -525,6 +532,7 @@ __jangle<sup>1</sup>__ _vi_ To make a harsh metallic sound: _The spurs jangled n
 __jangle<sup>2</sup>__ _vt_ :dart::two: __1__ To cause to make a harsh discordant sound. __2__ To have an irritating effect on: _The racket from the street jangled my nerves._  
 __jangle<sup>3</sup>__ _n_  
 __jaundice__ _n_  
+__Jenga__ _n_  
 __jerkwater__ _adj_ /JERK-waw-ter/  
 __Jerry__ _n slang_ _Chiefly British_ A German, especially a German soldier.  
 __jest__ _n_ :two: __2__ A playful remark; a witticism or joke.  
@@ -534,6 +542,8 @@ __jot<sup>1</sup>__ _n_ :dart: /dʒɒt/ The smallest bit; iota. _(used with a ne
 __jot<sup>2</sup>__ _vt_  
 __Jovian__ _adj_  
 __jubilee__ _n_ :mega: /JOO-buh-lee/  
+__legion<sup>1</sup>__ _n_  
+__legion<sup>2</sup>__ _adj_ :dart: Constituting a large number; multitudinous: _Her admirers were legion._ _His mistakes were legion._  
 __library__ _n_ :mega: /lahy-brer-ee/  
 __lickspittle__ _n_ A contemptible, fawning person; a servile flatterer or toady.  
 __lidless__ _adj_ Watchful; vigilant. _Syn_ sleepless  
@@ -684,36 +694,6 @@ __mothball__ _n_ Asmall sphere of camphor or naphthalene used to keep moths away
 __mother of pearl__ _n_  
 __motor__ _v_  
 __motormouth__ _n_ :two: _slang_ A garrulous person.  
-__mottled__ _adj_ :three::hammer:  
-__mountaineering__  
-__mourning band__  
-__mpox__ _n_ (formerly called _monkey pox_) A zoonotic disease especially of central and western Africa that is caused by a poxvirus.  
-__mucky__ _adj_ :two: /ˈmʌkɪ/ __1__ Dirty. __2__ Of or like muck.  
-__muddle__ _n_ __1__ A disordered condition; a mess or jumble.  
-__mundane__ _adj_  
-__murderer__ _n_ :mega: /mur-der-er/  
-__mush__ _n_  
-__mushroom__ _vi_ __1__ To multiply, grow, or expand rapidly: _The population mushroomed in the postwar decades._  
-__muslin__ _n_  
-__muss__ _vt_ To make messy or untidy; rumple. :es: despeinar; arrugar  
-__mutter<sup>1</sup>__ _n_ A low grumble or indistinct utterance.  
-__mutter<sup>2</sup>__ _v_ :two::hammer:  
-__muttering__ _n_  
-__muttonchops__ _n pl_ Side whiskers that are narrow at the temple, broad along the lower cheek or jawline, and separated by a shaven chin.  
-__muzzle<sup>1</sup>__ _n_  
-__muzzle<sup>2</sup>__ _v_  
-__mystify__  
-__nags__ _n_ _Riding old nags._  
-__nail varnish__ _n_ (nail enamel, nail polish)  
-__natural hat trick__ _n_ _sports_ A hat trick in which three goals are scored in succession by one player in one game.  
-__naturalization__ _n_  
-__nebula__ _n_ /ˈnɛb yə lə/  
-__necromancy__ _n_  
-__negotiate__ _v_ /nih-GOH-shee-ayt/  
-__nemorous__ _adj_ /ˈnɛmərəs/ Full of woods or groves, wooded, woody  
-__neophile__ _n_ NEE-uh-fyl/ One who loves new or novel things.  
-__nether__ _adj_ Located beneath or below; lower or under: _the nether regions of the earth._  
-__newfangled__ _adj_  
 __newsagent__ _n_ A shopkeeper who sells newspapers, stationery, etc. _Syn_ newsdealer  
 __nibble__ _v_  
 __nigh__ _adj, adv, prep_ /naɪ/ An archaic, poetic, or dialect word for near.  
@@ -743,41 +723,6 @@ __nuzzle__ _v_ :two::hammer: _I nuzzled her neck._
 __obfuscate__ _v_ /AHB-fuh-skayt/ To obfuscate something is to make it more difficult to understand. Obfuscate can also mean “to be evasive, unclear, or confusing.”  
 __oblige__ _vt_  
 __obsequious__ _adj_  
-__occasional__ _adj_ :three::hammer:  
-__October surprise__ _n_ A significant revelation or event in the month prior to an election that has the potential to shift public opinion about an election candidate and that is often orchestrated to influence the election’s outcome.  
-__octothorpe__ _n_  
-__odd-job man__ _n_ A man skilled in various odd jobs and other small tasks.  
-__off-key__ _adj_  
-__offbeat__ _adj_ :two::hammer: :es: poco convencional  
-__omniscient__ _adj_ /ahm-NISH-unt/ _Omniscient_ describes someone or something with unlimited knowledge or understanding.  
-__onomatopoeia__ _n_ :mega: /on-uh-mat-uh–pee–uh/  
-__outcrop__ _n_  
-__over-the-hill__  
-__over-the-top__ _adj_  
-__overeager__ _adj_ Excessively eager; too ardent or impatient.  
-__overlord__ _n_  
-__palaver__ _n_ /puh-LAV-er/  
-__pallor__ _n_ A pale condition, esp when unnatural: _fear gave his face a deathly pallor._  
-__panacea__ _n_ /pan-uh-SEE-uh/  
-__pander__ _v_  
-__pantsuit__ _n_  
-__paramour__ _n_ :two::hammer:  
-__paratrooper__  
-__parcel__ _n_  
-__parched__ _adj_ :es: abrasado, reseco  
-__Parkinson’s law__ _n_ /PAHR-kin-suhnz law/ The observation that work expands to fill the time available.  
-__parkour<sup>1</sup>__ _n_ The sport of traversing environmental obstacles by running, climbing, or leaping rapidly and efficiently.  
-__parkour<sup>2</sup>__ _v_ To freerun; to use parkour (to move over).  
-__paroxysm__ _n_ /PAIR-uk-sih-zum/ _Paroxysm_ is a formal word that refers to a sudden strong feeling or uncontrollable expression of emotion. In medical use, _paroxysm_ refers to a sudden attack or increase of symptoms of a disease that often occurs repeatedly. _The comedy special sent us into paroxysms of laughter._  
-__parson__ _n_ :two::hammer:  
-__parturition__ _n_ /par-chuh/too-RISH-uhn/ The act of giving birth.  
-__pasquinade__ _n_ A satire or lampoon, especially one that ridicules a specific person, traditionally written and posted in a public place. _Syn_ parody, put-on, sendup, spoof, charade, lampoon, mockery, burlesque, travesty, takeoff  
-__pastime__ _n_ :pencil2:  
-__pathos__ _n_ :two: A quality, as of an experience or a work of art, that arouses feelings of pity, sympathy, tenderness, or sorrow. _Syn_ poignancy  
-__patron__ _n_ _Look, Artoo-Detoo! Here comes a patron out of the cantina!_  
-__patronize__ _v_ _She patronized that kiosk for years._  
-__patronymic__ _adj, n_  
-__patsy__ _n_ :smiling_imp: A person easily taken advantage of, cheated, blamed, or ridiculed.  
 __patty__ _n_  
 __paucity__ _n_ Smallness of number; fewness. _Syn_ dearth  
 __pauperism__ _n_ A state of extreme poverty or destitution. _Syn_ indigence, penury, need  
@@ -847,6 +792,7 @@ __poach__ _v_ :smiling_imp:
 __poached__ _adj_ :two: /pəʊtʃt/ Cooked gently in boiling water, milk, or other liquid. :es: cocido a fuego lento  
 __poaching__ _v_  
 __pocket protector__ _n_ :camera: A thin plastic sheath that fits into the breast pocket of one’s shirt to hold pens and other small instruments and protect the pocket from stains or tears.  
+__pogo stick__ _n_  
 __pogrom__ _n_  
 __police__ _n_ (_npl_ police) _The police are looking for you._  
 __politic__ _adj_ Smoothly agreeable and courteous with a degree of sophistication. _Syn_ bland, smooth, suave _He was too politic to quarrel with so important a personage._  
@@ -933,6 +879,7 @@ __rabies__ _n_ /ˈreɪ biz/ _Rabies is normally fatal if untreated and it’s a 
 __racket__ _n_ :two: __1__ A loud distressing noise.  
 __racketeer__ _n_ :smiling_imp: One who obtains money by an illegal enterprise usually involving intimidation.  
 __raddled__ _adj_ :dart: /RAD-uld/ Someone described as raddled is in a confused or befuddled state (as from drinking). _Raddled_ can also describe things that are broken-down or worn.  
+__Radio Flyer__ _n_ :dart: Radio Flyer is an American toy company best known for their popular red toy wagon.  
 __ragbag__ _n_  
 __ragweed__ _n_  
 __rain slicker__ _n_ A type of waterproof coat designed to protect the wearer from rain and wet conditions.  
@@ -978,6 +925,7 @@ __refrain__ _n_
 __refurbish__ _vt_  
 __refuse__ _v_ /rɪˈfjuːz/  
 __regardless__  
+__regurgitate__ _v_ Repeat after memorization. _Syn_ reproduce  
 __reify__ _v_ /ˈri əˌfaɪ, ˈreɪ-/ /RAY-uh-fye/ Reifying is about considering or representing something abstract as a material or concrete thing. If you reify a concept or idea you somehow give it definite content and form.  
 __reignite__ _v_  
 __relate__ _v_ _I wish to relate the story in his own words._  
@@ -1018,6 +966,7 @@ __scamper__ _vi_
 __scapegoat__ _n_ /SKAYP-goat/  
 __scathing__ _adj_ :es: mordaz, feroz  
 __schadenfreude__ _n_ :mega: /shahd-n-froi-duh/ Pleasure derived from the misfortunes of others.  
+__scintilla__ _n_ /sin-TIL-uh/ A scintilla is a very small amount of something. _Scintilla_ is usually used in negative statements, as in “not even/nary a scintilla.”  
 __scissors__ _n_ :mega: /siz-erz/  
 __sconce__ _n_ __1__ A small defensive earthwork or fort.  
 __scowl__ _v_ :two::hammer:  
@@ -1065,6 +1014,7 @@ __sleazy__ _adj_ :two::hammer: /ˈsli zi, ˈsleɪ zi/
 __slew__ _v_ _The truck slewed left and right._  
 __slickly__ _adv_ __1__ With superficial plausibility. _Syn_ glibly :es: hábilmente __2__ Skilfully. :es: impecablemente  
 __slight__ _adj_ /slaɪt/  
+__slinky__ _adj_ Graceful, sinuous, and sleek: wore a slinky outfit to the party.  
 __slipper__ _n_ :es: zapatilla  
 __slippers__ _n pl_ :es: pantuflas  
 __slither__ _vi_  
@@ -1135,12 +1085,14 @@ __thrum__ _v_ :two::hammer:
 __thrumming__ _n_  
 __thug__ _n_  
 __thunk__ _n_  
+__tiddlywinks__ _n_ A game played on a flat surface, in which players attempt to snap small plastic disks into a cup by pressing the edges of the disks with larger ones.  
 __till__ _n_ :es: caja registradora  
 __tipsy__  
 __tire iron__ _n_ :two: A short length of steel with one end flattened to form a blade, used to remove tires from wheel rims.  
 __to-do__ _n_ :dart: :es: alboroto  
 __toadstool__ _n_ Common name for an inedible or poisonous agaric (contrasting with the edible mushroom). :es: hongo venenoso  
 __toil__ _vi_  
+__Tonka__ _n_  
 __torpedo__ _vt_ __2__ To render ineffective; destroy or wreck: _to torpedo the administration’s plan._  
 __tout__ _n_ __1__ One who solicits customers brazenly or persistently. _Touts, thieves, and barrow men._  
 __townhouse__ _n_  
@@ -1190,6 +1142,7 @@ __wharf__ _n_ A platform built out from the shore into the water and supported b
 __wheeddle__ _v_ :smiling_imp:  
 __whimper__ _v_  
 __white-hot__ _adj_  
+__Wiffle ball__ _n_  
 __William__ _n_ (Shortened familiar versions in English include Will, Wills, Willy, Willie, Liam, Bill, and Billy)  
 __wisp__ _n_  
 __woefully__  
@@ -1201,11 +1154,13 @@ __wry__
 __Xmas__ _n_  
 __yacht<sup>1</sup>__ _n_  
 __yacht<sup>2</sup>__ _vi_ To sail, cruise, or race in a yacht.  
+__Yahtzee__ _n_  
 __yarrow__ _n_ :es: milenrama  
 __ye__ _pron_ Obsolete form of _you._  
 __yelp__ _n_ :two::hammer:  
 __yelp<sup>1</sup>__ _n_ :two::hammer:  
 __yelp<sup>2</sup>__ _v_  
+__yo-yo__ _n_  
 __yoga__ _n_ [:scroll: From Hindi yoga, from Sanskrit yoga-s, literally “union, yoking” (with the Supreme Spirit)] _Hatha/Mantra/Karma/Bhakti/Raja/Jnana/Kundalini yoga._  
 __zest__ _n_ /ZEST/ _Zest_ refers to an enjoyably exciting quality, or to keen enjoyment itself. In culinary use, _zest_ refers to small pieces of the peel of a lemon, lime, orange, or other citrus fruit used as flavoring.  
 __zloty__ _n_ The basic monetary unit of Poland.  

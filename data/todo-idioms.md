@@ -201,6 +201,7 @@ __drop dead__
 __drum into__ :es: hacer aprender a la fuerza; machacar  
 __drum up__  
 __dry as a bone__  
+__easier than falling off a log__ Extremely easy; very intuitive; requiring little or no skill or effort. _After so many years as an accountant, doing taxes is easier than falling off a log for me._  
 __easy does it__ :dart:  
 __eat (one’s) gun__ To commit suicide by shooting oneself in the head through the roof of one’s mouth.  
 __ebb and flow__  
@@ -212,6 +213,7 @@ __factor in__
 __fall flat__ __1__ To fail or be ineffective. _Good luck—the last time management tried to implement a new dress code, that measure fell flat._ __2__ To fail to be humorous, as of a joke. _A: “Unfortunately, my first stand-up routine really fell flat.” B: “Well, maybe you just had the wrong audience.”_  
 __fall off the perch__ _BrE_ _old-fashioned, informal_ (fall off your perch) If someone falls off the perch or falls off their perch, they die. Note: A perch is a pole, branch or other place where a bird sits to rest. _He fell off the perch years ago._ Note: Other verbs such as drop or topple can be used instead of fall. _He’ll topple off his perch one morning. You know how it is._ Note: This expression is used humorously.  
 __famous last words__ A statement or claim that is promptly undone or disproved. This phrase is often humorously or preemptively. A reference to the final words one says before one dies. _A: “I can’t believe the ER has been so quiet today!” B: “Ugh, famous last words for sure.”_  
+__fancy that__ Used to comment on something that is hard to imagine. _The baby she brought home was the wrong one. Fancy that!_  
 __fancy__ _informal_ __2__ To have a desire for (something).  
 __fantabulous__  
 __fast and furious__ :two::hammer:  
@@ -281,6 +283,7 @@ __good-time Charlie__ An affable, lively, and entertaining man who is often or a
 __goon__  
 __goop__  
 __grab hold of (someone)__ (grab (a)hold of (someone))  
+__grit (one’s) teeth__ __2__ To become resolved to do or accept something particularly difficult or unpleasant. _If you hate this class so much, you better grit your teeth and get a passing grade so that you don’t have to take it again next year._  
 __grooving__ __2__ Having a good time. _We’re just hanging out and grooving—come join us!_  
 __grow cold__ To wane or diminish; to lessen in strength over time, especially a feeling, sentiment, or interest. _We had an intense relationship initially, but lately it seems like his affection has grown cold._  
 __gunk__  
@@ -402,6 +405,7 @@ __in the pocket of (someone)__ Under the direct control or influence of someone 
 __in the same mold__ Of or in the same or similar style, fashion, or manner.  
 __in the short/medium/long term__  
 __in the sticks__ In the countryside, especially in a rustic or particularly unsophisticated area. _Jane was sick of living in the sticks and dreamed of spending her life in New York City._  
+__in the throes of (something)__ Suffering from or struggling with something. _I’m sorry I never called you back—I’ve been in the throes of illness for days._  
 __in the unlikely event (that) (something) happens__ If a very improbable outcome turns out to be the case.  
 __in the view of (someone)__  
 __in the wake of (something)__ :dart:  
@@ -567,6 +571,8 @@ __life, the universe, and everything__ The question that pan-dimensional space-b
 __lift the veil (on something)__ To divulge, explain, or reveal something that was previously a secret. _Our hope is that this expedition will lift the veil on the secrets of the ancient king’s tomb._  
 __lift__  
 __lightning fast__  
+__lightning in a bottle__ An incredibly difficult, unlikely, and/or elusive achievement or period of success. (Usually used with “catch” or “capture.”) Primarily heard in US. _The playwright caught lightning in a bottle with his first play, taking the world by storm and thrusting him into the spotlight of fame._  
+__lightning quick__ :dart: Incredibly fast; too quick to keep up with. Hyphenated if used before a noun. _Did you see that martial arts expert? His kicks were lightning quick!_  
 __like (one’s) life depends on it__ With maximum, possibly desperate, effort or energy (i.e., as if one is at risk of losing one’s life if one fails). _The boxer started the third round throwing punches like his life depended on it._  
 __like a chicken with the pip__ In low spirits; in a weak or sickened state or manner. _Poor little Johnny’s been feeling like a chicken with the pip lately. I think he must have picked up a bug at school._  
 __like a fish out of water__ :two::hammer:  
@@ -574,6 +580,7 @@ __like attracts like__ People tend to seek out or be attracted to those that are
 __like cheese at four pence__ _BrE_ In an idle, awkward, and/or out-of-place state; being ignored, abandoned, or left to wait awkwardly. Primarily heard in UK. _Well, don’t just sit there like cheese at four pence—speak up and say what’s on your mind!_  
 __like crazy__ With great intensity or speed. _Ugh, these mosquito bites are itching like crazy!_ _Run like crazy._  
 __like hell__  
+__like no other__ Like nothing or no one else, as to highlight someone’s or something’s unique and important qualities. _Performing in front of an audience gives me an adrenaline rush like no other, man._  
 __like rats abandoning a sinking ship__ With great haste and having only personal well-being in mind. (Typically said of people who begin abandoning something or someone that is failing or about to fail.) _I knew the business was doomed when employees started quitting en masse, like rats abandoning a sinking ship._  
 __like the back of (one’s) hand__ A common English expression used to describe something that a person knows extremely well or is very familiar with.  
 __likely story__ ((that’s a) likely story) An exclamation of distrust or disbelief in someone’s explanation or story. _Albert: “Sorry I’m late. My car broke down half way here!” Sarah: “Yeah, likely story! I bet you just wanted to finish watching the football game on TV.”_  
@@ -997,6 +1004,7 @@ __trials and tribulations__
 __trick of the light__  
 __triple whammy__ A combination of three different elements, circumstances, or actions that results in a particularly powerful force, outcome, or effect. _Deregulation of the financial sector, securitization of huge amounts of various debt, and fluctuating national interest rates formed a triple whammy that sent the stock market crashing._  
 __trundle along__ To proceed along (something) in a slow, heavy, or ungainly manner.  
+__up a notch__ To an increased or extreme degree of intensity or quality.  
 __wait and see__ :two::hammer:  
 __walk on eggs__  
 __water under the bridge__  
