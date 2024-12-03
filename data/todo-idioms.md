@@ -60,56 +60,6 @@ __all of a sudden__
 __all things considered__  
 __an earful__  
 __an eye for an eye__  
-__as we speak__ :three::hammer:  
-__at odds__  
-__at pains to do something__  
-__at sixes and sevens__  
-__at the top of one’s voice__  
-__at times__  
-__backbiting__  
-__bare metal__ Computer hardware without an operating system. _Right now, my new computer is bare metal, and I can’t wait to build it and configure it just the way I want._  
-__bargain for (someone or something)__  
-__barrow man__ __1__ A boy or man who sells goods (usually fruit, vegetables, or other comestibles) from a handcart (barrow) on the streets. Primarily heard in UK. _Touts, thieves, and barrow men._  
-__battered__ :dart::astonished: Drunk.  
-__be (as) easy as one-two-three__ To be extremely easy, simple, or intuitive; to require very little skill or effort. (Sometimes used with the numbers spelled out (“one-two-three”) or written numerically (“123” or “1-2-3”).) _After so many years as an accountant, doing taxes is as easy as one-two-three for me._  
-__be a given__ To be something that can be assumed or relied upon to occur or come to pass.  
-__be at odd (with)__  
-__be at pains__ To put forth effort toward some goal or end.  
-__be at the end of (one’s) rope__ :dart: To be completely worn out, exasperated, or exhausted; to have no more patience, endurance, or energy left.  
-__be chock-a-block__ __1__ To be squeezed or jammed closely together. _So many people wanted to see the show that we were chock-a-block inside the venue._ __2__ To be very full or tightly packed. _Your office is chock-a-block with books and boxes. How do you even move around in here!_ _The restaurant has been chock-a-block with guests all day._ __3__ By extension, to be very busy; to be completely filled or engaged (with something). _Every day of our vacation was chock-a-block with fun activities._  
-__be cocksure of (oneself)__ To be completely certain of oneself or one’s actions, to the point of overconfidence. _You seem pretty cocksure of yourself—do you really know how to handle that machine?_  
-__be in bad with (someone)__ To be disliked or out of favor with someone; to be in trouble with someone.  
-__be in for a treat__ To be guaranteed to receive or experience something unexpectedly pleasant or beneficial.  
-__be kept in the dark (about something)__ To be kept uninformed (about something); to be excluded from full knowledge or disclosure (of something).  
-__be left to (one’s) own devices__ To be left unsupervised or uncontrolled; to be allowed to do as one pleases. _My job is really great: I know what I need to work on and am just left to my own devices._  
-__be like oil and water__ To be incompatible or unable to interact or coexist easily, as due to fundamental differences in personality, opinions, beliefs, etc. _I really wish my boyfriend could get along with my friend Tara, but the two of them are like oil and water._  
-__be my guest__  
-__be on the mend__  
-__be on the safe side__ :dart:  
-__be partial to (someone or something)__ To be particularly fond of someone or something; to have someone or something as one’s favorite or preference.  
-__be real__  
-__be under a cloud__ To be viewed with suspicion, distrust, or disapproval.  
-__be up to scratch__  
-__be-all and end-all__ _Cliché_ Something that is the very best or most important; something so good that it will end the search for something better. _Finishing the building of his boat became the be-all and end-all of Roger’s existence._ _Sally is the be-all and the end-all of Don’s life._ _Being a professor was never his be-all and end-all._  
-__bear (someone or something) in mind__  
-__bear down__  
-__beat about the bush__ :two: _BrE_ To speak vaguely or euphemistically so as to avoid talking directly about an unpleasant or sensitive topic. Primarily heard in UK.  
-__beauty sleep__  
-__beef up__ To increase something, often in strength. _With all these protestors here, we definitely need to beef up security._  
-__beg to differ__  
-__behind (one’s) back__ In one’s absence. The phrase typically suggests wrongdoing or deceit. _I can’t believe you were gossiping about me behind my back!_  
-__below the belt__ Unfairly targeted at one’s weakness or vulnerability. The phrase refers to boxing, in which hitting an opponent below the waist is prohibited.  
-__better off__  
-__betwixt and between__ Conflicted and unable to decide between two options.  
-__beyond belief__  
-__beyond the realm(s) of possibility__ Impossible.  
-__beyond/within the realms of possibility__ Impossible/possible: _A successful outcome is not beyond the realms of possibility._  
-__big fat__ _adj_ :dart: __1__ (idiomatic, derogatory) Complete, utter, total. __2__ (idiomatic, colloquial) Huge, colossal. _A big fat lie._  
-__big guns__  
-__birthday suit__  
-__brat__ :dart: The new usage of _brat_ redefines the word, using it to refer to someone who is confidently rebellious, unapologetically bold, and playfully defiant. _In 2024, a new usage of brat exploded into the mainstream after a three-word tweet by musician Charli XCX: “kamala IS brat.”_  
-__break character__ To fail to act as a certain character; to be or act out of character.  
-__brimstone__ _n_  
 __bring (something) into effect__ To cause (something) to apply, begin operating, or take effect; to begin implementing or enforcing (something).  
 __bring to one’s knees__ Make one submit; reduce to a position of subservience.  
 __brood over__  
