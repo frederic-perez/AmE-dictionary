@@ -935,56 +935,6 @@ __repent__ _v_ _He would repent and confess his sins._
 __reprieve__ _n_  
 __restrain__ _v_  
 __restraint__ _n_  
-__retainer__ _n_ :three::hammer: (fee) __2__ _Dentistry_ An appliance used to hold teeth in position after orthodontic treatment.  
-__revelry__ _n_  
-__rhotic__ _adj_ :dart:  
-__rollout__ _n_ __1__ The introduction of a new product, service, or policy to the public.  
-__rooftop__ _n_  
-__Rorschach inkblot test__ _n_  
-__rose-cut__ _adj_ :camera: (rose cut) _(Jewellery) (of a gemstone)_ Cut with a hemispherical faceted crown and a flat base.  
-__rover__ _n_ __1__ A pirate. __2__ A pirate vessel.  
-__rube__ _n_ _You look like a rube._  
-__ruddy__ _adj_  
-__rue__ _v_  
-__ruff__ _n_ (Clothing & Fashion)  
-__ruination__ _n_  
-__rummage__ _v_ :two::hammer:  
-__rundown__ _n_ :two: __1__ A point-by-point summary.  
-__rural__ _adj, n_ :mega: /roor–uhl/  
-__russet<sup>1</sup>__ _n_ __1__ Yellowish brown, light brown, or reddish brown.  
-__russet<sup>2</sup>__ _adj_ Yellowish brown, light brown, or reddish brown.  
-__rustle__ _v_  
-__rustle<sup>1</sup>__ _v_ /ˈrʌsəl/ __1__ To make or cause to make a low crisp whispering or rubbing sound, as of dry leaves or paper. __2__ To move with such a sound.  
-__rustle<sup>2</sup>__ _n_ The sound made by rustling.  
-__sac__ _n_ A baglike structure in an animal, plant, or fungus, esp. one containing fluid.  
-__sales floor__ _n_ The part of a business devoted to retail activities, such as a showroom or selling area of a shop or department store, usually manned by sales staff and having free public access with goods on display.  
-__sandspur__ _n_ _(Plants)_ An American wild grass.  
-__sanguinary__ _adj_ Accompanied by bloodshed. _Syn_ butcherly, gory, slaughterous  
-__saunter__ _vi_ :two: To walk or stroll about without much purpose or hurry.  
-__savaged__ _adj_  
-__scamper__ _vi_  
-__scapegoat__ _n_ /SKAYP-goat/  
-__scathing__ _adj_ :es: mordaz, feroz  
-__schadenfreude__ _n_ :mega: /shahd-n-froi-duh/ Pleasure derived from the misfortunes of others.  
-__scintilla__ _n_ /sin-TIL-uh/ A scintilla is a very small amount of something. _Scintilla_ is usually used in negative statements, as in “not even/nary a scintilla.”  
-__scissors__ _n_ :mega: /siz-erz/  
-__sconce__ _n_ __1__ A small defensive earthwork or fort.  
-__scowl__ _v_ :two::hammer:  
-__scrapping__  
-__scrub nurse__ _n_ A specially trained nurse who directly assists a surgeon during an operation.  
-__scrub__ _n_ Dense vegetation consisting of stunted trees or bushes. _Syn_ chaparral, bush  
-__scruffy__  
-__scuff__ _v_  
-__scuffle<sup>1</sup>__ _vi_  
-__scuffle<sup>2</sup>__ _n_ __1__ A rough disorderly struggle at close quarters. _Syn_ brawl __2__ A hoe that is designed to work soil by being pushed and pulled.  
-__scullery__ _n_ /ˈskʌl ə ri, ˈskʌl ri/  
-__scuttle__ _vi_ To run or move with short hurried movements; scurry.  
-__sea nettle__ _n_  
-__sear__ _n_ A mark or scar made by searing.  
-__searing__ _adj_ :two::hammer: /ˈsɪərɪŋ/  
-__seedy__ _adj_  
-__seething__ _v_  
-__senescent__ _adj_ /si-NES-uhnt/ __1__ Growing old; aging. __2__ Deteriorating or decaying with the passage of time.  
 __shapeshift__ _vi_ (biology, fantasy, mythology) To change one’s shape or form (into another) through often magical means, normally applied only to living beings.  
 __shear__ _v_ (shorn)  
 __shell-shocked__ _adj_ :dart: (shell shocked) __1__ Suffering from shell shock. __2__ Stunned, distressed, or exhausted from a prolonged trauma or an unexpected difficulty.  
