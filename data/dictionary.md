@@ -19290,7 +19290,7 @@ __swivel<sup>2</sup>__ _v_ :two::hammer:
 __swivet__ _n_ _informal US_ A state of anxiety, confusion, or excitement: _don’t get yourself in a swivet._  
 __swizzle stir__ _n_  
 __swoon__ _v_ :nine::m: /swo͞on/ (swoons, swooned, swooning) __1__ _literary_ Faint, especially from extreme emotion. _Frankie’s mother swooned and had to be helped to the headmaster’s office._ __2__ Be overcome with admiration, adoration, or other strong emotion. _Women swoon over his manly, unaffected ways._  
-__swoop<sup>1</sup>__ _n_ :nine: __1__ The act of swooping. _He swiftly adds a blue swoop of acrylic to his brick wall canvas._ __2__ Aswift descent.  
+__swoop<sup>1</sup>__ _n_ :nine: __1__ The act of swooping. _He swiftly adds a blue swoop of acrylic to his brick wall canvas._ __2__ A swift descent.  
 __swoop<sup>2</sup>__ _v_ :nine::m: __1__ If a bird or aircraft swoops, it moves suddenly down through the air, especially in order to attack something. _Swooped down._ __2__ If the police, army etc swoop on a place, they go there without any warning in order to look for someone or something.  
 __swoopy__  
 __swoosh__ _n_ The noise produced by the sudden rush of a fluid (a gas or liquid). _Syn_ whoosh  

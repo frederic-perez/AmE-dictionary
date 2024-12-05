@@ -12,6 +12,7 @@ __acquiesce__
 __adversary__ _n_ :mega: /ˈæd vərˌsɛr i/ /ˈædvəsərɪ/ /AD-ver-sair-ee/ _Adversary_ is an enemy or opponent.  
 __affidavit__ _n_  
 __afoot__ _adj, adv_  
+__agency__ _n_  
 __airlock__ _n_ A chamber that provides access to space where air is under pressure. _Syn_ air lock  
 __amalgamate__ _v_ /uh-MAL-guh-mayt/ _Amalgamate_ is a formal verb meaning “to unite (two or more things) into one thing.”  
 __andirons__ _n_  
@@ -28,6 +29,7 @@ __armistice__ _n_ /AHR-muh-stus/
 __arrest__ _v_ :dart::two::mega: Cause to stop.  
 __Aryan Brotherhood__ _n_ (the Brand, the AB)  
 __aspersion__ _n_ :smiling_imp:  
+__assembly__ _n_ :two::hammer:  
 __asthma__ _n_ :mega: /ˈæz mə, ˈæs-/ /az-muh/  
 __at__ _prep_ [The preposition _at_ often has connotations of aggression. You _throw_ something _to_ someone if you want them to catch it; if you _throw_ it _at_ them you are trying to hit them. To _laugh at_ someone is to laugh at their expense. Usually we say _talk to_; when Ludlow says _talk at_ (in the movie _Legends of the Fall_) he is saying that his sons are shouting at them without listening to what he has to say in reply.]  
 __attestation__ _n_ __1__ The action of bearing witness. __2__ The evidence by which something is attested.  
@@ -72,6 +74,7 @@ __bluebird__ _n_
 __bluff__ _n_ A steep headland, promontory, riverbank, or cliff.  
 __board__ _v_ __17__ To furnish with meals, or with meals and lodging, esp. for pay.  
 __boarding house__ _n_ :two::hammer: :es: pensión  
+__boardroom__ _n_ A room where a committee meets (such as the board of directors of a company).  
 __bob__ _v_  
 __bobbin__ _n_ A cylinder or cone for holding thread; a spool or reel.  
 __bog__ _n_ _A cow grazing in a bog._  
@@ -128,13 +131,16 @@ __checkout line__ _n_ A queue of people waiting to pay for purchases.
 __chide__ _v_  
 __choir__ _n_ :mega: /kwaɪər/ /kwahyuhr/  
 __chunky__ _adj_ Short and thick; stocky. _Syn_ low-set, squat, squatty, stumpy, dumpy  
+__claimant__ _n_ :dart: /ˈkleɪmənt/ __1__ A person who makes a claim. __2__ _(Law)_ A person who brings a civil action in a court of law. Formerly called: plaintiff  
+__closehanded__ _adj_ Covetous; penurious; stingy; closefisted.  
 __colander__ _n_ /KUH/KAH-luhn-duhr/ (cullender) A utensil with perforations, used for straining or draining foods.  
 __colonel__ _n_ :mega: /ˈkɜr nl/ /kur-nl/  
 __complaisant__ _adj_ /kum-PLAY-sunt/ Someone described as complaisant is willing or eager to please other people, or is easily convinced to do what other people want.  
 __condescension__ _n_ A communication that indicates lack of respect by patronizing the recipient. _Syn_ disdain, patronage  
 __congeal__ _v_ Become gelatinous. _Syn_ jell, set  
 __contrite__  
-__coup__ _n_ :two::hammer::mega: /kuː/ /koo/ _A coup attempt._  
+__coup__ _n_ :three::mega: /kuː/ /koo/ __1__ A brilliant and successful stroke or action. __2__ Short for coup d’état. _A coup attempt._  
+__crack down__ _v_  
 __crass__ _adj_  
 __crescent__ _adj, n_  
 __cross__ _adj_ :dart: Annoyed and irritable. _Syn_ bad-tempered, crabbed, crabby, fussy, grouchy, grumpy, ill-tempered  
@@ -205,6 +211,7 @@ __divots__ _n_
 __dodger__ _n_ __1__ One that dodges or evades: _a skilled dodger of reporters’ questions._  
 __doe__ _n_ _I was dispatched like a wounded doe, killed with a fast hard cracking of the neck._  
 __dormitory__ _n_  
+__dorsum__ _n_ /ˈdɔːsəm/ (dorsa _n pl_ /-sə/) __1__ _(Anatomy)_ A technical name for the back. __2__ _(Anatomy)_ Any analogous surface: _the dorsum of the hand._  
 __dosser__ _n_ Someone who sleeps in any convenient place. _Syn_ street person  
 __doting__ _adj_  
 __douse__  
@@ -223,6 +230,9 @@ __droll__ _adj_
 __drollery__ _n_ A quaint and amusing jest. _Syn_ waggery  
 __drolly__  
 __drop handlebars__ _n_ Low curved handles on a bicycle.  
+__drub<sup>1</sup>__ _vt_ /drʌb/ __1__ To beat with a stick or the like; flog; thrash. __2__ To defeat decisively, as in a game or contest. __3__ To instil with force or repetition: _the master drubbed Latin into the boys._ To drive as if by flogging: _Grammar was drubbed into our heads._  
+__drub<sup>2</sup>__ _vi_ /drʌb/ To pound or drum.  
+__drub<sup>3</sup>__ _n_ /drʌb/ A blow with a heavy instrument, such as a stick.  
 __duck-footed__ _adj_  
 __duckblinds__  
 __duffel bag__ _n_  
@@ -267,6 +277,7 @@ __Equity__ _n_ :astonished: /ˈɛkwɪtɪ/ _Theatre_ The actors’ trade union. F
 __equivocacy__ _n_ /i-KWIV-uh-kuh-see/ The quality of being deliberately ambiguous or vague.  
 __equivocal__ _adj_  
 __erstwhile__ _adj_ Former; of times past: _erstwhile friends._  
+__eschew__ _v_ :dart: /ess-CHOO/ To eschew something is to avoid it, especially because you do not think it is right, proper, or practical. _Their teacher was known as a Luddite because he eschewed the use of smartphones and tablets in the classroom._  
 __espresso__ _n_ :mega: /ɛˈsprɛsəʊ/ /ɛˈsprɛs oʊ/ /e-spres-oh/  
 __ethos__ _n_ /EE-thahss/ _Ethos_ refers to the guiding beliefs of a person, group, or organization. :es: espíritu; escala de valores _The company made environmental awareness part of its business ethos._  
 __euphoria__ _n_ /yoo-FOR-ee-uh/ _Euphoria_ refers to a feeling of great happiness and excitement.  
@@ -289,6 +300,7 @@ __extreme weather__ _n_
 __extricate__ _v_ /EK-struh-kayt/ To _extricate_ someone or something is to free or remove that person or thing from an entanglement or difficulty, such as a trap or a difficult conversation. _She hasn’t been able to extricate herself from her legal problems._  
 __exuberant__ _adj_ :astonished: /ig-ZOO-buh-ruhnt/ __1__ Overflowing with energy, enthusiasm, and joy. __2__ Plentiful; productive; growing abundantly.  
 __eyebolt__ _n_ A bolt having a ring-shaped head.  
+__fae__ _prep_ :two: /feɪ/ A Scot word for _from._  
 __faerie__ _n_ (faery) A small being, human in form, playful and having magical powers.  
 __fallacious__ _adj_ /fuh-LAY-shus/ _Fallacious_ is a formal word that typically describes something, such as an argument or assumption, that is false or inaccurate and that tends to mislead or deceive others.  
 __fallow__  
@@ -353,6 +365,7 @@ __flinch__ _vi_ :es: estremecerse; encogerse
 __fling__ _v_ :two::hammer: (flung)  
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
 __flyblown__ _adj_ Foul and run-down and repulsive. _Syn_ sordid, squalid _The gang met at a flyblown, grimy little bar on the edge of town to plan its next heist._  
+__frank__ _adj_ __2__ Clearly manifest; evident: _frank enjoyment._  
 __friable__ _adj_ /ˈfraɪ ə bəl/ Easily crumbled or reduced to powder.  
 __Frisbee__ _n_ A trademark for a plastic disk-shaped toy that players throw and catch.  
 __frugal__ _adj_ :two: /FROO-gul/ Someone described as frugal is careful about spending money or using things unnecessarily. _Frugal_ can also describe something that is simple and plain in a way that reflects such carefulness with money and resources. _Sometimes a frugal meal of bread, cheese, and grapes can be just as satisfying as a lavish feast._  
@@ -381,7 +394,7 @@ __gangrene__ _n_
 __gaping__ _adj_ /ˈɡeɪpɪŋ/ Wide open; extremely wide: _a gaping hole._  
 __garb__ _n_  
 __gargantuan__ _adj_  
-__gargle__ _v_  
+__gargle__ _v_  gran
 __garnish__ _v_ /GAHR-nish/ To garnish food or drink is to add decorative and tasty touches to it, such as a spiral of lemon peel.  
 __garret__ _n_  
 __garrulous__ _adj_ Excessively talkative in a rambling, roundabout manner, especially about trivial matters.  
@@ -422,6 +435,7 @@ __ground effect__ _n_ Apparent increase in aerodynamic lift experienced by an ai
 __grovel__ _vi_  
 __grueling__ _adj_ /ˈgru ə lɪŋ, ˈgru lɪŋ/  
 __grunt__ _n_  
+__guarded__ _adj_ /ˈgɑr dɪd/ __2__ Cautious; careful; prudent: _guarded comments._  
 __guffaw__ _n_  
 __gull__ _vt_ :smiling_imp: To deceive or cheat. :es: embaucar  
 __gullet__ _n_ /ˈgʌl ɪt/ __1__ A less formal name for the esophagus. __2__ The throat.  
@@ -434,6 +448,7 @@ __hallowed__ _adj_ :astonished: /HAL-oad/ Hallowed describes something, such as 
 __handicraft__ _n_ Skill or dexterity in working with the hands.  
 __handlebar mustache__ _n_ A long curved mustache resembling the curved ends of a handlebar.  
 __handyman__ _n_ :es: manitas  
+__hangnail__ _n_ :es: padrastro  
 __haphazard__ _adj, adv, n_ :two::hammer:  
 __haphazardly__ _adv_ In a random manner.  
 __hapless__  
@@ -468,6 +483,7 @@ __high-rise__
 __hirsute__ _adj_  
 __hitherto__  
 __hobgoblin__ _n_  
+__hoity-toity__ _adj_ /ˌhɔɪtɪˈtɔɪtɪ/ _informal_ Arrogant or haughty: _we have had enough of her hoity-toity manner._  
 __hollow-point bullet__ _n_  
 __honors__  
 __hoover__  
@@ -558,7 +574,7 @@ __limerence__ _n_ The state of being obsessively infatuated with someone, usuall
 __limestone__  
 __liminal__ _adj_ :two: /LIM-uh-nul/ _Liminal_ is a formal word most often used to describe an intermediate state, phase, or condition. It can also describe something that is barely perceptible or barely capable of eliciting a response.  
 __limpid__ _adj_ /LIM-pid/ _Limpid_ describes things that are perfectly transparent or clear, or that are simple in style.  
-__linchpin__ _n_  
+__linchpin__ _n_ :two::hammer:  
 __lionhearted__ _adj_  
 __lip liner__ _n_ (lip liner)  
 __lipoma__ _n_ A benign tumor composed chiefly of fat cells.  
@@ -694,6 +710,8 @@ __mothball__ _n_ Asmall sphere of camphor or naphthalene used to keep moths away
 __mother of pearl__ _n_  
 __motor__ _v_  
 __motormouth__ _n_ :two: _slang_ A garrulous person.  
+__nail clipper__ _n_ (also called nail clippers, a nail trimmer, a nail cutter or nipper type) A hand tool used to trim fingernails, toenails and hangnails.  
+__nappy__ _n_ _Chiefly British_ A diaper.  
 __newsagent__ _n_ A shopkeeper who sells newspapers, stationery, etc. _Syn_ newsdealer  
 __nibble__ _v_  
 __nigh__ _adj, adv, prep_ /naɪ/ An archaic, poetic, or dialect word for near.  
@@ -723,6 +741,7 @@ __nuzzle__ _v_ :two::hammer: _I nuzzled her neck._
 __obfuscate__ _v_ /AHB-fuh-skayt/ To obfuscate something is to make it more difficult to understand. Obfuscate can also mean “to be evasive, unclear, or confusing.”  
 __oblige__ _vt_  
 __obsequious__ _adj_  
+__patter__ _v_ Plausible glib talk (especially useful to a salesperson). _Syn_ line of gab, spiel  
 __patty__ _n_  
 __paucity__ _n_ Smallness of number; fewness. _Syn_ dearth  
 __pauperism__ _n_ A state of extreme poverty or destitution. _Syn_ indigence, penury, need  
@@ -804,6 +823,7 @@ __pommel__ _n_
 __ponderous__ _adj_  
 __pontoon__ _n_  
 __pool__ _n_ __1a__ A game of chance, resembling a lottery, in which the contestants put staked money into a common fund that is later paid to the winner. __b__ A fund containing all the money bet in a game of chance or on the outcome of an event.  
+__popeye__ _n_ /ˈpɒpˌaɪ/  
 __poplar__ _n_ /ˈpɒp lər/ :two::hammer: (poplar tree) :es: álamo, chopo  
 __porky__ _adj_ __1__ Of or like pork: _a porky flavor._ __2__ _Derogatory Slang_ Fat or corpulent.  
 __port-o-john__ _n_ A portable toilet.  
@@ -826,6 +846,7 @@ __preponderance__ _n_ A superiority in numbers or amount. _Syn_ prevalence, exte
 __prepossessed__ _adj_ Exhibiting bias.  
 __preposterous__ _adj_ [:scroll: From Latin praeposterus, which translates literally to “in the wrong order”]  
 __prerogative__ _n_ A right reserved exclusively by a particular person or group (especially a hereditary or official right). _Syn_ exclusive right, perquisite, privilege  
+__president-elect__ _n_ A president after election but before induction into office.  
 __press cutting__ _n_ An excerpt cut from a newspaper or magazinepress cutting - an excerpt cut from a newspaper or magazine.  
 __pressing__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._  
 __pressing<sup>1</sup>__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._ _Syn_ urgent __2__ Very earnest or insistent: _a pressing invitation._  
@@ -892,6 +913,7 @@ __rasp<sup>1</sup>__ _n_ __1__ A coarse file with sharp, pointed projections. :e
 __rasp<sup>2</sup>__ _v_ :two: Utter in a grating voice.  
 __Rastafarian__ _adj, n_  
 __rationalize__ _v_ :two: __1__ To justify (one’s actions, esp discreditable actions, or beliefs) with plausible reasons, esp after the event.  
+__rattlebrained__ _adj_ Giddy and talkative; foolish. _Syn_ rattlepated, scatterbrained, scatty  
 __raving<sup>1</sup>__ _n_  
 __raving<sup>2</sup>__ _adj_ Delirious, irrational speech.  
 __ravish__ _v_  
@@ -933,6 +955,7 @@ __remuneration__ _n_ :mega: /ri-myoo-nuh–rey-shuhn/
 __render__ _vt_ __2__ To cause to become; make: _The news rendered her speechless._ _Grief had rendered him simple-minded._  
 __repent__ _v_ _He would repent and confess his sins._  
 __reprieve__ _n_  
+__reputedly__ _adv_ /rɪˈpjuːtɪdlɪ/ According to general belief or supposition: _the reputedly excellent food._  
 __restrain__ _v_  
 __restraint__ _n_  
 __shapeshift__ _vi_ (biology, fantasy, mythology) To change one’s shape or form (into another) through often magical means, normally applied only to living beings.  
@@ -1015,6 +1038,7 @@ __swat__ _v_ _He swats a fly._
 __switch__ _n_  
 __swoop__ _v_  
 __synecdoche__ _n_ :mega: /səˈnɛkdəki/ /sɪnˈɛkdəkɪ/  
+__table__ _vt_  
 __tarot__ _n_ :mega:  
 __taunt__ _n_  
 __tawdry__ _adj_  
@@ -1028,6 +1052,7 @@ __thanatopsis__ _n_ /than-uh-TOP-sis/ [:scroll: From Greek thanatos (death) + -o
 __the nuts and bolts__  
 __thence__ _adv_ From that place; from there. _Syn_ therefrom _The train went south into Switzerland and thence on to Italy._  
 __thrall__ _n_ :astonished:  
+__thresh__ _v_  
 __throb__ _v_ _He made me throb with joy._ :es: latir con fuerza; sentir pinchazos  
 __thromboembolism__ _n_  
 __thrombosis__ _n_  
@@ -1057,6 +1082,7 @@ __turducken__ _n_
 __twitch__ _n_ _A twitch of motion._  
 __uncompromising__ _adj_  
 __underfoot__  
+__underpin__ _vt_  
 __unfathomable__ _adj_  
 __unfettered__  
 __unfledged__ _adj_ Not having the feathers necessary to fly. Used of a young bird. _Syn_ immature  
@@ -1074,6 +1100,7 @@ __vernier__ _n_ (vernier scale)
 __victuals__ _n pl_ /VIT-ulz/ _Victuals_ is a word with an old-fashioned feel that refers to food, and sometimes to both food and drink.  
 __vocabulary__ _n_ :mega: /voh-kab-yuh-ler-ee/  
 __volition__ _n_ The act or an instance of making a conscious choice or decision. _Syn_ willing  
+__wabi-sabi__ _n_  
 __wad__ _v_  
 __waddle__ _v_  
 __wagonette__ _n_ :camera: (waggonette) A light four-wheeled horse-drawn vehicle with two lengthwise seats facing each other behind a crosswise driver’s seat.  
@@ -1085,6 +1112,7 @@ __weak coffee__ _n_ :dart: _Weak coffee_ generally refers to a brew that has a l
 __wean__ _vt_  
 __weathervane__ _n_  
 __weed__ _v_  
+__well-versed__ _adj_ Highly experienced, practiced, or skilled; very knowledgeable; learned.  
 __well<sup>1</sup>__ _n_  
 __well<sup>2</sup>__ _vi_ __1__ To rise to the surface, ready to flow: _Tears welled in my eyes._ __2__ To rise or surge from an inner source: _Anger welled up in me._ Flow or rise up, often gradually and steadily. _There was music welling from a speaker._  
 __well<sup>3</sup>__ _vt_  

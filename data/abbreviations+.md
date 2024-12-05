@@ -81,7 +81,7 @@ __FFP__ Filtering face piece (a filtering half mask).
 __FOMO__  
 __Fr__ Freshman (Fr) vs Sophomore (So) vs Junior (Jr) vs Senior (Sr)  
 __FT__ _Sports_ __1__ Full-time. __2__ Free throw.  
-__FTW__ _abbr_ _slang_ For the win —used especially to express approval or support. _Night out with the girls? Thigh high boots FTW!_  
+__FTW__ _slang_ For the win —used especially to express approval or support. _Night out with the girls? Thigh high boots FTW!_  
 __GA__ Gamblers Anonymous.  
 __GDP__ Gross domestic product.  
 __GDR__ German Democratic Republic.  
@@ -195,7 +195,7 @@ __PPD__ Postponed. _(sporting events)_
 __PPE__ :two: Personal protective equipment: clothing and equipment used to ensure personal safety in the workplace.  
 __PPG__ (ppg) Points per game. _Sanders is averaging 13.3 ppg._  
 __ppl__ _informal_ People.  
-__pppn__ _abbr_ Per person per night.  
+__pppn__ Per person per night.  
 __PR__ :three: Public relations. _The best-kept secret in PR._ _The PR version of my life._  
 __PSA__ __1__ Prostate-specific antigen. __2__ Public service announcement.  
 __pt__ Patient.  
@@ -257,8 +257,8 @@ __VC__ :two::hammer: _A blindfolded VC suspect._
 __viz__ Videlicet.  
 __VTOL__ Vertical Take-Off & Landing. A vertical take-off and landing aircraft.  
 __w/__ :two: With. On drawings, abbr. for “with.”  
-__w/o__ _abbr_ Without.  
-__WFH__  
+__w/o__ Without.  
+__WFH__ :two: Working from home.  
 __WHO__ World Health Organization.  
 __whoops__ _interj_ Oops.  
 __WMO__ :three: World Meteorological Organization.  

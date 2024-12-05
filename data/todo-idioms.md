@@ -60,6 +60,9 @@ __all of a sudden__
 __all things considered__  
 __an earful__  
 __an eye for an eye__  
+__as we speak__  
+__be well versed in (something)__ To be very knowledgeable about, skillful in, or competent at something.  
+__bless your pointy little head__ A condescending phrase used to patronize someone for being foolish or not very bright. _You failed the exam because you thought the sun was a planet? Aw, bless your pointy little head._  
 __bring (something) into effect__ To cause (something) to apply, begin operating, or take effect; to begin implementing or enforcing (something).  
 __bring to one’s knees__ Make one submit; reduce to a position of subservience.  
 __brood over__  
@@ -236,6 +239,7 @@ __grab hold of (someone)__ (grab (a)hold of (someone))
 __grit (one’s) teeth__ __2__ To become resolved to do or accept something particularly difficult or unpleasant. _If you hate this class so much, you better grit your teeth and get a passing grade so that you don’t have to take it again next year._  
 __grooving__ __2__ Having a good time. _We’re just hanging out and grooving—come join us!_  
 __grow cold__ To wane or diminish; to lessen in strength over time, especially a feeling, sentiment, or interest. _We had an intense relationship initially, but lately it seems like his affection has grown cold._  
+__grow tired__ The phrase “grow tired” refers to the process of becoming weary or fatigued over time. It can be used in both a physical and emotional context.  
 __gunk__  
 __half bad__ _The decor didn’t look half bad._  
 __harp on (something)__  
@@ -265,6 +269,7 @@ __hit home__ :dart:
 __hit pay dirt__ [:scroll: This idiom refers to a miner’s finding gold or other precious metals while sifting soil] To discover or come upon something very, particularly, or abundantly valuable or useful, especially after a long or arduous search. :es: dar con el oro  
 __hit the ground running__  
 __hit-and-run__ :smiling_imp:  
+__hoity-toity__ Pretentiously arrogant, haughty, or self-important. _We don’t need some hoity-toity academic coming in and telling us how to run our business!_  
 __hold my beer__  
 __hold the line__  
 __hold tight__ __2__ To wait patiently without taking any immediate action.  
@@ -533,14 +538,16 @@ __like hell__
 __like no other__ Like nothing or no one else, as to highlight someone’s or something’s unique and important qualities. _Performing in front of an audience gives me an adrenaline rush like no other, man._  
 __like rats abandoning a sinking ship__ With great haste and having only personal well-being in mind. (Typically said of people who begin abandoning something or someone that is failing or about to fail.) _I knew the business was doomed when employees started quitting en masse, like rats abandoning a sinking ship._  
 __like the back of (one’s) hand__ A common English expression used to describe something that a person knows extremely well or is very familiar with.  
+__like there were no tomorrow__ Very rapidly and eagerly; without restraint or thought (i.e., as if there won’t be another opportunity, so one must do something as much or as quickly as possible). _He must have been starving, because Jonathan started wolfing down his food like there were no tomorrow!_  
 __likely story__ ((that’s a) likely story) An exclamation of distrust or disbelief in someone’s explanation or story. _Albert: “Sorry I’m late. My car broke down half way here!” Sarah: “Yeah, likely story! I bet you just wanted to finish watching the football game on TV.”_  
 __liminal__ _adj_ /ˈlɪmɪnəl/  
 __line in the sand__ A figurative boundary that someone or some group refuses to cross or beyond which no further advance or compromise is accepted. (Used especially in the phrase “draw a line in the sand.”) _The allocation of this new tax to pay for building schools has become a line in the sand for the governor’s administration._  
 __lip to lip__ :two: The idiom “lip to lip” typically refers to a kiss that involves direct contact between the lips of two people. This expression is often associated with romantic or intimate contexts, emphasizing the closeness and emotional connection between the individuals involved.  
 __liquid courage__ _slang_ The decrease in timidity or inhibition that comes from imbibing alcoholic beverages.  
-__litmus test__  
+__litmus test__ :two: __3__ A test used to determine someone’s true intentions or beliefs. _I used his reaction to my favorite movie as a litmus test to determine if he was worth dating._  
 __little does (one) know__ One is completely unaware of something.  
 __live and kicking__ :dart: Alive, healthy, and alert. (A truncated version of “alive and kicking.”) _Sam: “How are you feeling, John? I heard you were quite sick recently.” John: “I”m still live and kicking!”_  
+__live in an/(one’s) ivory tower__  
 __live on borrowed time__  
 __live the life of Riley__ To lead a life of great ease, comfort, or luxury. The phrase is likely of early 20th-century Irish-American origin, but to whom Riley refers is uncertain. _Pampered from a young age after his father came into sudden wealth, Jonathan lived the life of Riley compared to the hardships his older siblings faced._  
 __live up to (something)__ :three::hammer: _Live up to the hype._  
@@ -698,6 +705,7 @@ __one way or another__
 __one-off__ :three::hammer:  
 __oops-a-daisy__ An exclamation of surprise or apology, as after doing something clumsy. _Oops-a-daisy! Dang it, I can’t believe I broke my favorite vase!_  
 __open the door for (someone or something)__  
+__or so__ :dart:  
 __other than (something)__ (other than that) Besides or excluding something. _Other than having a view of the parking lot, his apartment is great._  
 __out of (one’s) hair__ No longer pestering or annoying to one; not one’s responsibility or burden any longer. _I’ve gotten the kids out of my hair for a few hours so I can go and get a relaxing massage by myself._  
 __out of (one’s) league__  
@@ -735,6 +743,7 @@ __piss someone off__
 __pissant<sup>1</sup>__ _n_  
 __pissant<sup>2</sup>__ _adj_  
 __pitch (something) at__  
+__pitch-perfect__  
 __pizzazz__  
 __play God__ To have a huge affect on or great power over someone’s life, livelihood, health, or happiness. Behave as if all-powerful or supremely important.  
 __play havoc with (someone or something)__ To cause issues or disruptions for someone or something. _The road closures have played havoc with rush-hour traffic._  
@@ -745,10 +754,11 @@ __plowed over__ Being overwhelmed or completely defeated by something.
 __plunger__ _n_ /ˈplʌndʒə/ __3__ _informal_ A reckless gambler.  
 __point the finger at (one)__  
 __poke around__  
+__put heart and soul into something__ (put (one’s) heart and soul into (something)) To do something with the utmost of one’s energy, enthusiasm, and determination.  
 __riled up__ ((all) riled up) Particularly angry, agitated, or in a frenzied state.  
 __roast__  
 __rob someone blind__ :smiling_imp:  
-__roll with the punches__  
+__roll with the punches__ :dart::two: __2__ By extension, to adapt to setbacks, difficulties, or adversity so as to better manage or cope with their impact on one’s life. _Losing my job was really tough, but I’ve just been trying to roll with the punches until I get back on my feet._  
 __rolling stone__  
 __root around__ To dig or rummage aimlessly (in or through some cluttered location). Usually used in the continuous tense. _Tom rooted around the attic for a while, but he couldn’t find his old comic book location._ _She was rooting around for bargains._  
 __rough it__ :es: vivir sin comodidades  
@@ -790,6 +800,7 @@ __serve (one’s) time__
 __set a camp__  
 __set eyes on something__  
 __set in cement__ Firmly or permanently established; not subject to change; unalterable.  
+__set in stone__  
 __set the bar (high/low)__  
 __sexual advance__ An attempt to gain some form of sexual favor or gratification from another person.  
 __sexual advances__  
@@ -954,10 +965,12 @@ __trials and tribulations__
 __trick of the light__  
 __triple whammy__ A combination of three different elements, circumstances, or actions that results in a particularly powerful force, outcome, or effect. _Deregulation of the financial sector, securitization of huge amounts of various debt, and fluctuating national interest rates formed a triple whammy that sent the stock market crashing._  
 __trundle along__ To proceed along (something) in a slow, heavy, or ungainly manner.  
+__unfamiliar territory__  
 __up a notch__ To an increased or extreme degree of intensity or quality.  
 __wait and see__ :two::hammer:  
 __walk on eggs__  
 __water under the bridge__  
+__well up__  
 __wind up__ __1__ To come or bring to a finish; end: _when the meeting wound up; wind up a project._  
 __winnow out__  
 __worry (something) out of (someone or something)__  
