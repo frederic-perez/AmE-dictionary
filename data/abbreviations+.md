@@ -1,7 +1,7 @@
 __’tis__ _’Tis the season for word lists._  
 __#s__ :two: Numbers. _Card for driving car over 10,000#s._ _Ability to lift up to 25#s of newspaper bundles._  
 __1:1__ One-To-One Relationship.  
-__A/C__ :two: __1.__ Account. __2__ Account current. __3__ Air conditioning.  
+__A/C__ :two: __1__ Account. __2__ Account current. __3__ Air conditioning.  
 __AA__ __1__ Alcoholics Anonymous. __2__ Antiaircraft.  
 __AAA__ (Automotive Engineering) Automobile Association of America.  
 __AAPI__ Asian Americans and Pacific Islanders.  
@@ -126,7 +126,7 @@ __K9__ _gramo_ :two: (K-9) Canine. _A K-9 van._
 __KOL__ Key opinion leader.  
 __KPI__ Key performance indicator.  
 __LASIK__ Laser-assisted in situ keratomileusis. _Lasik surgery._  
-__lbs.__ Plural abbreviation for the pound unit of mass._Sold in pkgs. of 3 lbs. or more._  
+__lbs.__ Plural abbreviation for the pound unit of mass. _Sold in pkgs. of 3 lbs. or more._  
 __LDS__ (LDS Church) :two: Latter-day Saint, an adherent of The Church of Jesus Christ of Latter-day Saints, also known as the LDS Church.  
 __LEGO__ _n_ [:scroll: From Danish leg godt _play well_]  
 __LGBTQ__ :three: (LGBT+, LGBTQ+) Lesbian, gay, bisexual, transgender, queer.  

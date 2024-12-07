@@ -119,6 +119,7 @@ __cachet__ _n_ /ka-SHAY/
 __cadge__ _v_  
 __calico__ _n_  
 __canine tooth__ _n_ One of the four pointed conical teeth (two in each jaw) located between the incisors and the premolars. _Syn_ canine, cuspid, eye tooth, eyetooth, dogtooth  
+__canister__ _n_ _A film canister._  
 __carouse__ _v_  
 __catnap<sup>1</sup>__ _n_  
 __catnap<sup>2</sup>__ _vi_  
@@ -128,7 +129,7 @@ __check<sup>1</sup>__ _n_
 __check<sup>2</sup>__ _vt_ :dart: __2a__ To arrest or slow the motion or progress of: _checked the flow by shutting a valve._ __b__ To hold in restraint; curb: _check an impulse to laugh._ _Syn_ restrain  
 __check<sup>3</sup>__ _vi_  
 __checkout line__ _n_ A queue of people waiting to pay for purchases.  
-__chide__ _v_  
+__chide__ _v_ :two::hammer:  
 __choir__ _n_ :mega: /kwaɪər/ /kwahyuhr/  
 __chunky__ _adj_ Short and thick; stocky. _Syn_ low-set, squat, squatty, stumpy, dumpy  
 __claimant__ _n_ :dart: /ˈkleɪmənt/ __1__ A person who makes a claim. __2__ _(Law)_ A person who brings a civil action in a court of law. Formerly called: plaintiff  
@@ -148,7 +149,7 @@ __crow__ _n_ The cry of the cock.
 __crowbar__ _n_  
 __cursory__ _adj_ /KER-suh-ree/ Something described as cursory has been done or made quickly.  
 __cutlass__ _n_  
-__czar__ _n_ __1__ The ruler of Russia until the 1917 revolution. __2__ One having great power or authority. _A banking czar._  
+__czar__ _n_ :two: __1__ The ruler of Russia until the 1917 revolution. __2__ One having great power or authority. _A banking czar._  
 __dainty__ _adj_  
 __dais__ _n_  
 __Damoclean__ _adj_ /dam-uh-KLEE-uhn/ Involving imminent danger.  
@@ -157,6 +158,7 @@ __dander__ _n_ Temper or anger. _Syn_ hackles _He ’pears to know just how long
 __daredevil__ _adj, n_ :es: temerario, atrevido  
 __darned__  
 __dart__ _v_  
+__daub__ _v_  
 __dead bolt__ _n_ (deadbolt, dead lock) A locking mechanism distinct from a spring bolt lock because a deadbolt cannot be moved to the open position except by rotating the key.  
 __deadpool__  
 __decal__ _n_  
@@ -365,6 +367,7 @@ __flinch__ _vi_ :es: estremecerse; encogerse
 __fling__ _v_ :two::hammer: (flung)  
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
 __flyblown__ _adj_ Foul and run-down and repulsive. _Syn_ sordid, squalid _The gang met at a flyblown, grimy little bar on the edge of town to plan its next heist._  
+__footing__ _n_  
 __frank__ _adj_ __2__ Clearly manifest; evident: _frank enjoyment._  
 __friable__ _adj_ /ˈfraɪ ə bəl/ Easily crumbled or reduced to powder.  
 __Frisbee__ _n_ A trademark for a plastic disk-shaped toy that players throw and catch.  
@@ -390,11 +393,12 @@ __galvanize__
 __Gamblers Anonymous__ _n_ (GA) An organization that holds group meetings to help people who are addicted to gambling.  
 __game warden__ _n_ An officer in charge of managing game animals or wildlife, especially by the enforcement of game laws.  
 __gamekeeper__ _n_ /ˈgeɪmˌki pər/ A person employed, as on an estate or game preserve, to prevent poaching and provide for the conservation of game.  
+__gangly__ _adj_ (gangling) Awkwardly tall and spindly; lank and loosely built.  
 __gangrene__ _n_  
 __gaping__ _adj_ /ˈɡeɪpɪŋ/ Wide open; extremely wide: _a gaping hole._  
 __garb__ _n_  
 __gargantuan__ _adj_  
-__gargle__ _v_  gran
+__gargle__ _v_  
 __garnish__ _v_ /GAHR-nish/ To garnish food or drink is to add decorative and tasty touches to it, such as a spiral of lemon peel.  
 __garret__ _n_  
 __garrulous__ _adj_ Excessively talkative in a rambling, roundabout manner, especially about trivial matters.  
@@ -453,6 +457,7 @@ __haphazard__ _adj, adv, n_ :two::hammer:
 __haphazardly__ _adv_ In a random manner.  
 __hapless__  
 __harass__ _v_  
+__harbinger__ _n_  
 __hard-ass__ _n_ _vulgar slang_ (hardass) One who inflexibly follows or enforces rules.  
 __hard-of-hearing__ _adj_ Having a hearing loss. _Syn_ hearing-impaired  
 __hard-pressed__ _adj_  
@@ -488,6 +493,7 @@ __hollow-point bullet__ _n_
 __honors__  
 __hoover__  
 __horse brass__ _n_ :camera: A decorative brass ornament, usually circular, originally attached to a horse’s harness.  
+__hose__ _n_ :dart: __1__ (Clothing & Fashion) Stockings, socks, and tights collectively.  
 __hotplate__ _n_ :two::hammer:  
 __house martin__ _n_ (housemartin)  
 __housing estate__ _n_ A group of often architecturally similar buildings constructed at the same time. Primarily for residential accommodation, estates may also include commercial facilities.  
@@ -516,6 +522,7 @@ __impervious__
 __imperviousness__ _n_  
 __impish__ _adj_ :es: pícaro, travieso  
 __importunate__ _adj_ :astonished: Troublesomely urgent or persistent in requesting; pressingly entreating: _an importunate job seeker._  
+__inane__  
 __inanely__  
 __inchoate__ _adj_ /in-KOH-ut/ _Inchoate_ is a formal adjective and synonym of _vague_ that describes something that is not completely formed or developed yet.  
 __indefatigable__ _adj_ /in-di-FAT-i-guh-buhl/ __1__ Incapable of being tired out. __2__ Persistently energetic or tireless, even in the face of challenges.  
@@ -574,7 +581,7 @@ __limerence__ _n_ The state of being obsessively infatuated with someone, usuall
 __limestone__  
 __liminal__ _adj_ :two: /LIM-uh-nul/ _Liminal_ is a formal word most often used to describe an intermediate state, phase, or condition. It can also describe something that is barely perceptible or barely capable of eliciting a response.  
 __limpid__ _adj_ /LIM-pid/ _Limpid_ describes things that are perfectly transparent or clear, or that are simple in style.  
-__linchpin__ _n_ :two::hammer:  
+__linchpin__ _n_ :three::hammer: /ˈlɪntʃˌpɪn/ (lynchpin)  
 __lionhearted__ _adj_  
 __lip liner__ _n_ (lip liner)  
 __lipoma__ _n_ A benign tumor composed chiefly of fat cells.  
@@ -696,6 +703,7 @@ __mitochondrion__ _n_ :pencil2: (_npl_ mitochondria)
 __moil__ _vi_  
 __moisten__ _v_  
 __mold__ _vt_  
+__mollify__ _v_  
 __mongoose__ _n_  
 __monitory__ _adj_ Conveying an admonition or a warning. _Syn_ admonitory, cautionary, exemplary, warning _She shot him a monitory glance and he quickly changed the subject to one less controversial._  
 __Montserrat__ _n_ An island in the Leeward Islands, in the West Indies: British crown colony.  
@@ -711,6 +719,7 @@ __mother of pearl__ _n_
 __motor__ _v_  
 __motormouth__ _n_ :two: _slang_ A garrulous person.  
 __nail clipper__ _n_ (also called nail clippers, a nail trimmer, a nail cutter or nipper type) A hand tool used to trim fingernails, toenails and hangnails.  
+__nape__ _n_  
 __nappy__ _n_ _Chiefly British_ A diaper.  
 __newsagent__ _n_ A shopkeeper who sells newspapers, stationery, etc. _Syn_ newsdealer  
 __nibble__ _v_  
@@ -877,6 +886,7 @@ __publican__ _n_ _BrE_ :astonished:
 __puff__ _v_  
 __pulse__ _n_ __1__ The edible seeds of certain pod-bearing plants, such as lentils and chickpeas. :es: legumbres __2__ A plant yielding these seeds.  
 __pumpkin spice__ _n_ A mixture of usually cinnamon, nutmeg, ginger, cloves, and often allspice that is commonly used in pumpkin pie.  
+__pumps__ _n pl_ The shoes are so named for the sound they make.  
 __pundit__ _n_ __1__ A source of opinion; a critic: a political pundit. __2__ A learned person.  
 __puny__ _adj_ __1__ Of less than normal size and strength; weak. __2__ Unimportant; insignificant: _a puny excuse._  
 __pup__ _n_  
@@ -958,6 +968,7 @@ __reprieve__ _n_
 __reputedly__ _adv_ /rɪˈpjuːtɪdlɪ/ According to general belief or supposition: _the reputedly excellent food._  
 __restrain__ _v_  
 __restraint__ _n_  
+__rod__ _n_  
 __shapeshift__ _vi_ (biology, fantasy, mythology) To change one’s shape or form (into another) through often magical means, normally applied only to living beings.  
 __shear__ _v_ (shorn)  
 __shell-shocked__ _adj_ :dart: (shell shocked) __1__ Suffering from shell shock. __2__ Stunned, distressed, or exhausted from a prolonged trauma or an unexpected difficulty.  
@@ -1012,10 +1023,11 @@ __soapbox__ _n_ _Stan Lee’s soapbox._
 __soon enough__ _adv_ :dart::astonished:  
 __sou__ _n_ One of several coins formerly used in France, worth a small amount.  
 __specific__ _adj, n_ :mega: /spi-sif-ik/  
+__spindle__ _n_  
 __spinning jenny__ _n_ An early spinning machine having more than one spindle, enabling a person to spin a number of yarns simultaneously.  
 __spoor<sup>1</sup>__ _n_ (Hunting) The trail of an animal or person, esp as discernible to the human eye. _The spoor of blood._  
 __spoor<sup>2</sup>__ _v_ (Hunting) To track (an animal) by following its trail.  
-__sprawling__ _adj_ :two::hammer:  
+__sprawling__ _adj_ :three::hammer: /ˈsprɔːlɪŋ/  
 __squawk<sup>1</sup>__ _v_ _A squawking sparrow in a nest._  
 __squawk<sup>2</sup>__ _n_  
 __squire__ _n_ :astonished:  
@@ -1023,6 +1035,7 @@ __squirrel__ _n_ :mega: /skwur–uhl/
 __standoff__  
 __start__ _v_ :dart::three: To move suddenly and sharply (as in surprise or alarm). _I started from my chair when I heard the sudden scream._ _Syn_ jump, startle  
 __startle__ _v_ :dart::three: Move or jump suddenly, as if in surprise or alarm. _She started when I walked into the room._ _Syn_ jump, start  
+__statutory__ _adj_  
 __steadfast__ _adj_ /STED-fast/ Someone described as _steadfast_ is very devoted or loyal to a person, belief, or cause. _Steadfast_ is also used to describe something, such as support, that remains unchanging.  
 __stilted__ _adj_  
 __stoker__ _n_ A person employed to tend a furnace, as on a steamship.  
@@ -1048,9 +1061,12 @@ __tenacious__ _adj_ /tuh-NAY-shus/ Something described as tenacious cannot easil
 __tendril__ _n_ :es: zarzillo  
 __tenement__ _n_  
 __Terence__ _n_ (Terry)  
+__thalamotomy__ _n_ Surgical excision of a portion of the thalamus, usually to relieve tremor, as in Parkinson’s disease.  
 __thanatopsis__ _n_ /than-uh-TOP-sis/ [:scroll: From Greek thanatos (death) + -opsis (appearance, view)] A reflection upon death.  
 __the nuts and bolts__  
 __thence__ _adv_ From that place; from there. _Syn_ therefrom _The train went south into Switzerland and thence on to Italy._  
+__thimble__ _n_ :es: dedal  
+__thraldom__ _n_  
 __thrall__ _n_ :astonished:  
 __thresh__ _v_  
 __throb__ _v_ _He made me throb with joy._ :es: latir con fuerza; sentir pinchazos  
@@ -1079,6 +1095,7 @@ __trot__ _v_
 __trundle__ _v_  
 __tuck__ _v_  
 __turducken__ _n_  
+__twinge__ _n_ __1__ A sharp, sudden physical pain. _Syn_ pain __2__ A mental or emotional pain: a twinge of guilt.  
 __twitch__ _n_ _A twitch of motion._  
 __uncompromising__ _adj_  
 __underfoot__  

@@ -60,8 +60,13 @@ __all of a sudden__
 __all things considered__  
 __an earful__  
 __an eye for an eye__  
+__and then some__  
 __as we speak__  
+__back to square one__  
+__bad juju__ A colloquial expression that refers to negative energy, bad luck, or a sense of foreboding.  
 __be well versed in (something)__ To be very knowledgeable about, skillful in, or competent at something.  
+__beat (one) to the punch__ To do or obtain something before someone else does. The phrase is thought to have originated from boxing. Primarily heard in US.  
+__behind closed doors__  
 __bless your pointy little head__ A condescending phrase used to patronize someone for being foolish or not very bright. _You failed the exam because you thought the sun was a planet? Aw, bless your pointy little head._  
 __bring (something) into effect__ To cause (something) to apply, begin operating, or take effect; to begin implementing or enforcing (something).  
 __bring to one’s knees__ Make one submit; reduce to a position of subservience.  
@@ -183,6 +188,7 @@ __fire-breathing__
 __first come, first served__ The first people present will be the first to receive something, often something that is available in limited quantities.  
 __first thing__  
 __fit the bill__  
+__five-on-five__ “Five-on-five” typically refers to a format in team sports where each team has five players on the field or court at the same time. _A five-on-five game of basketball._  
 __flare up__ :es: estallar  
 __flesh and blood__  
 __flit about__ To move in a quick, deft manner. _The kids are outside, trying to catch the lightning bugs that are flitting about._  
@@ -210,6 +216,7 @@ __for starters__
 __glass cliff__ _n_ A situation in which a woman or minority has advanced professionally at a time when adverse circumstances or crises make it more likely for the person to fail at the job.  
 __glimmer of hope__  
 __go an eye out for (someone or something)__ To remain vigilant or carefully watchful for something or someone.  
+__go big__  
 __go haywire__  
 __go overboard__ :es: pasarse  
 __go strong__  
@@ -363,10 +370,11 @@ __in the sticks__ In the countryside, especially in a rustic or particularly uns
 __in the throes of (something)__ Suffering from or struggling with something. _I’m sorry I never called you back—I’ve been in the throes of illness for days._  
 __in the unlikely event (that) (something) happens__ If a very improbable outcome turns out to be the case.  
 __in the view of (someone)__  
-__in the wake of (something)__ :dart:  
+__in the wake of (something)__ :dart:two::hammer::  
 __in the wild__ In naturally occurring conditions or environments.  
 __in the woods__ __1__ Being in a forest or a natural woodland area. _We went camping in the woods._ __2__ It can also mean being in critical condition, near death’s door.  
 __in the works__  
+__in thrall to somebody/something__ Controlled or strongly influenced by somebody/something: _The country’s economy is still largely in thrall to the big companies._  
 __in twos__ In groups of two. _You will be working in twos._  
 __in virtue of (something)__ Due to something; because of something; by reason of something. _In virtue of your years of hard work and experience in the company, we think you would be well-suited to a managerial role within the company._  
 __in working order__  
@@ -491,6 +499,7 @@ __lazy-bones__ A particularly lazy or indolent person. _Come on, lazy-bones, you
 __leach away__ __1__ To become dissolved, eroded, or carried away, by or as by some percolating liquid. _Nutrients in the soil have continued leaching away as the groundwater become more acidic._ _All emotion had been leached away._ __2__ To dissolve, erode, or carry something away due to percolation. In this usage, a noun or pronoun can be used between “leach” and “away.” _Over time, the saltwater leached the limestone away all along the coastline._  
 __lead nowhere__ To ultimately yield or achieve no useful, beneficial, or successful result or outcome. _This meeting is leading nowhere. We’ve been here for over two hours now and haven’t even been able to come up with a name for our product!_  
 __lead the pack__ To be at the forefront of a particular group, either literally or figuratively. _We had Bill lead the pack on our tour through Rome._  
+__leap to (someone’s) mind__ To suddenly or immediately materialize in someone’s mind.  
 __leapfrog over (someone or something)__ :two::hammer:  
 __leaps and bounds__ :dart:  
 __leave (something) out of account__ To ignore something; to pay little or no heed to something. _If you leave the constituents’ opinions out of account on this issue, you can kiss their votes goodbye in the election next fall._  
@@ -544,7 +553,7 @@ __liminal__ _adj_ /ˈlɪmɪnəl/
 __line in the sand__ A figurative boundary that someone or some group refuses to cross or beyond which no further advance or compromise is accepted. (Used especially in the phrase “draw a line in the sand.”) _The allocation of this new tax to pay for building schools has become a line in the sand for the governor’s administration._  
 __lip to lip__ :two: The idiom “lip to lip” typically refers to a kiss that involves direct contact between the lips of two people. This expression is often associated with romantic or intimate contexts, emphasizing the closeness and emotional connection between the individuals involved.  
 __liquid courage__ _slang_ The decrease in timidity or inhibition that comes from imbibing alcoholic beverages.  
-__litmus test__ :two: __3__ A test used to determine someone’s true intentions or beliefs. _I used his reaction to my favorite movie as a litmus test to determine if he was worth dating._  
+__litmus test__ :four: __3__ A test used to determine someone’s true intentions or beliefs. _I used his reaction to my favorite movie as a litmus test to determine if he was worth dating._  
 __little does (one) know__ One is completely unaware of something.  
 __live and kicking__ :dart: Alive, healthy, and alert. (A truncated version of “alive and kicking.”) _Sam: “How are you feeling, John? I heard you were quite sick recently.” John: “I”m still live and kicking!”_  
 __live in an/(one’s) ivory tower__  
@@ -589,6 +598,7 @@ __make game of (someone or something)__ To ridicule, mock, or tease someone or s
 __make it__ __1__ To be successful.  
 __make light of (something)__  
 __Maslow’s hammer__ :dart: The inability to recognize other possible outcomes or solutions if one relies too much on a particular tool, method, or mindset. The term refers to 20th-century psychologist Abraham Maslow and his idea that “If all you have is a hammer, everything looks like a nail.” Also known as the “golden hammer,” and “the law of the instrument.”  
+__meet the eye__  
 __Midwest nice__ _Midwest nice_ refers to the characteristic politeness, friendliness, and hospitality often associated with people from the Midwestern United States.  
 __mill about__  
 __mince words__  
@@ -703,6 +713,7 @@ __once in a blue moon__ Very rarely.
 __one size fits all__ :two::hammer:  
 __one way or another__  
 __one-off__ :three::hammer:  
+__one-on-one__  
 __oops-a-daisy__ An exclamation of surprise or apology, as after doing something clumsy. _Oops-a-daisy! Dang it, I can’t believe I broke my favorite vase!_  
 __open the door for (someone or something)__  
 __or so__ :dart:  
@@ -909,6 +920,7 @@ __take heart__ To have one’s confidence, courage, or happiness bolstered (by s
 __take heed (of someone or something)__  
 __take no notice of (something or someone)__  
 __take on trust__  
+__take sides__ To choose a person or party whom one supports, defends, or agrees with in an argument.  
 __take stock (of something)__  
 __take the fall (for someone or something)__  
 __take umbrage__ :two::hammer:  
@@ -943,6 +955,7 @@ __the works__ :two::hammer:
 __then again__  
 __there is something about__  
 __thick-skulled__ Stupid, dimwitted, or obtuse.  
+__this time around__  
 __thread the needle__  
 __throw in__ _He is going to throw in every dirty trick he can think of._  
 __throw the book at (one)__ :dart: _The NY Times sure loves throwing the book at AI startups._  
