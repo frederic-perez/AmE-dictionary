@@ -18,6 +18,7 @@ __amalgamate__ _v_ /uh-MAL-guh-mayt/ _Amalgamate_ is a formal verb meaning “to
 __andirons__ _n_  
 __anemone__ _n_ :mega: /əˈnɛm əˌni/ /uh–nem–uh-nee/  
 __anoxia__ _n_  
+__antler__ _n_ A horny growth on the head of a deer, moose, elk, or other related animal, usually having one or more branches. Antlers typically grow only on males and are shed and grown again each year.  
 __apoplexy__ _n_  
 __appalled__ _adj_  
 __appalling__ _adj_  
@@ -63,6 +64,7 @@ __birch tree__
 __bland__ _adj_  
 __bleak__ _adj_  
 __bleary__ _adj_  
+__blithe__ _adj_  
 __blithely__ _adv_ In a joyous manner.  
 __block printing__ _n_ _(Art Terms)_ Printing from hand engraved or carved blocks of wood or linoleum.  
 __blood sport__ _n_ Any sport involving killing or the shedding of blood, as bullfighting, cockfighting, or hunting. Any sport involving the killing of an animal, esp hunting.  
@@ -129,8 +131,11 @@ __check<sup>1</sup>__ _n_
 __check<sup>2</sup>__ _vt_ :dart: __2a__ To arrest or slow the motion or progress of: _checked the flow by shutting a valve._ __b__ To hold in restraint; curb: _check an impulse to laugh._ _Syn_ restrain  
 __check<sup>3</sup>__ _vi_  
 __checkout line__ _n_ A queue of people waiting to pay for purchases.  
+__chemistry set__ _n_ An educational toy allowing the user (typically a teenager) to perform simple chemistry experiments.  
 __chide__ _v_ :two::hammer:  
 __choir__ _n_ :mega: /kwaɪər/ /kwahyuhr/  
+__chortle<sup>1</sup>__ _n_ A snorting, joyful laugh or chuckle.  
+__chortle<sup>2</sup>__ _v_ To utter a chortle or express with a chortle.  
 __chunky__ _adj_ Short and thick; stocky. _Syn_ low-set, squat, squatty, stumpy, dumpy  
 __claimant__ _n_ :dart: /ˈkleɪmənt/ __1__ A person who makes a claim. __2__ _(Law)_ A person who brings a civil action in a court of law. Formerly called: plaintiff  
 __closehanded__ _adj_ Covetous; penurious; stingy; closefisted.  
@@ -173,6 +178,7 @@ __denizen__ _n_
 __denouement__  
 __deport__ _vt_ __1__ To expel from a country: _deported the foreigner who had entered the country illegally._  
 __depose__ _v_  
+__derailleur__ _n_ A device for shifting gears on a bicycle by moving the chain between sprocket wheels of different sizes.  
 __deranged__ _adj_ :smiling_imp: Driven insane. _Syn_ crazed, half-crazed  
 __derelict__ _adj, n_  
 __deride__ _vt_ [:scroll: Latin dērīdēre : dē-, de- + rīdēre, _to laugh at_]  
@@ -483,7 +489,7 @@ __heinous__ _adj_ /HAY-nus/ _Heinous_ describes things—such as acts, deeds, or
 __helpless__ _adj_  
 __hem__ _n_ :es: dobladillo  
 __hemothorax__  
-__hidebound__  
+__hidebound__ _adj_ :two::hammer:  
 __high-rise__  
 __hirsute__ _adj_  
 __hitherto__  
@@ -561,6 +567,7 @@ __Jerry__ _n slang_ _Chiefly British_ A German, especially a German soldier.
 __jest__ _n_ :two: __2__ A playful remark; a witticism or joke.  
 __jibe__ _v_  
 __jiggle__ _v_ :dart: To move or rock lightly up and down or to and fro in an unsteady, jerky manner. _Syn_ joggle, wiggle _He jiggled the worn key in the lock and finally got the door open._  
+__Jolt Cola__ _n_ Jolt Cola was a carbonated soft drink targeted towards students and young professionals, stressing its use as a stimulant in a similar manner as energy drinks. Its slogan reads “All the sugar and twice the caffeine!’  
 __jot<sup>1</sup>__ _n_ :dart: /dʒɒt/ The smallest bit; iota. _(used with a negative)_ A little bit (in phrases such as _not to care (or give) a jot_).  
 __jot<sup>2</sup>__ _vt_  
 __Jovian__ _adj_  
@@ -586,7 +593,7 @@ __lionhearted__ _adj_
 __lip liner__ _n_ (lip liner)  
 __lipoma__ _n_ A benign tumor composed chiefly of fat cells.  
 __lipomatous__ _adj_ Relating to a lipoma. _Lipomatous metaplasia._  
-__listless__ _adj_ Marked by low spirits; showing no enthusiasm. _Syn_ dispirited  
+__listless__ _adj_ :dart::two: Marked by low spirits; showing no enthusiasm. _Syn_ dispirited  
 __literacy__ _n_ /ˈlɪt ər ə si/  
 __lithe__ _adj_ :two::hammer:  
 __litigation__ _n_  
@@ -643,6 +650,7 @@ __maiden__ _adj_ _The _Titanic_ maiden voyage._
 __mains tester__ _n_ An insulated screwdriver with a light in the handle.  
 __make__ _n_ :astonished:  
 __malevolent__ _adj_ :smiling_imp: Wishing evil or harm to another or others.  
+__mammoth__ _n_  
 __man__ _v_ _Man your ships!_  
 __mana__ _n_ /MAH-nuh/ Power, energy, force, or prestige. _A leader of great mana and influence._  
 __mandatory__ _n_ :mega: /ˈmæn dəˌtɔr i, -ˌtoʊr i/  
@@ -685,7 +693,7 @@ __Mini-Me__ _n_ _chiefly humorous_ A person who is a miniature, but otherwise id
 __miniscule__ _adj_ :astonished:  
 __mirth__ _n_ :two: Gladness and merriment, especially when expressed by laughter.  
 __misanthrope__ _n_ (misanthropist) A person who dislikes or distrusts other people or mankind in general.  
-__misbegotten__ _adj_ :smiling_imp: /ˌmɪs bɪˈgɒt n/ (misbegot)  
+__misbegotten__ _adj_ :two::smiling_imp: /ˌmɪs bɪˈgɒt n/ /miss-bih-GAH-tun/ (misbegot) _Misbegotten_ describes things that are badly planned or thought out. _They were sent on a misbegotten diplomatic mission that was sure to fail._  
 __miscellany__ _n_ (_n pl_ miscellanies) __1__ A mixed assortment of items.  
 __mischievous__ _adj_ :mega: /mis-chuh-vuhs/  
 __mise-en-scène__ _n_ /meez-ahn-SEN/ _Mise-en-scène_ can refer to the setting of a play, movie, etc., or it can refer to the physical or social setting in which something real occurs or develops.  
@@ -750,6 +758,7 @@ __nuzzle__ _v_ :two::hammer: _I nuzzled her neck._
 __obfuscate__ _v_ /AHB-fuh-skayt/ To obfuscate something is to make it more difficult to understand. Obfuscate can also mean “to be evasive, unclear, or confusing.”  
 __oblige__ _vt_  
 __obsequious__ _adj_  
+__pad__ _v_  
 __patter__ _v_ Plausible glib talk (especially useful to a salesperson). _Syn_ line of gab, spiel  
 __patty__ _n_  
 __paucity__ _n_ Smallness of number; fewness. _Syn_ dearth  
@@ -804,6 +813,7 @@ __pimply__ _adj_ /ˈpɪm pli/ Having many pimples.
 __pip__ _n_ __1__ (Veterinary Science) A contagious disease of poultry characterized by the secretion of thick mucus in the mouth and throat. __2__ _facetious slang_ A minor human ailment.  
 __pitch<sup>1</sup>__ _n_ :es: (esp. _British_) campo, cancha  
 __pitch<sup>2</sup>__ _vt_  
+__pithy__ _adj_ :two: __1__ Precisely meaningful; forceful and brief: _a pithy comment._ __2__ Consisting of or resembling pith.  
 __pittance__ _n_  
 __plaintiff__ _n_  
 __planter__ _n_  
@@ -829,7 +839,7 @@ __polyandry__ _n_ /POL-ee-an-dree/ The practice of having multiple husbands or m
 __polypharmacy__ _n_ The practice of prescribing multiple medications for an individual patient, especially excessively, for a single disease.  
 __polytechnic__ _adj, n_  
 __pommel__ _n_  
-__ponderous__ _adj_  
+__ponderous__ _adj_ :two::hammer:  
 __pontoon__ _n_  
 __pool__ _n_ __1a__ A game of chance, resembling a lottery, in which the contestants put staked money into a common fund that is later paid to the winner. __b__ A fund containing all the money bet in a game of chance or on the outcome of an event.  
 __popeye__ _n_ /ˈpɒpˌaɪ/  
@@ -969,6 +979,8 @@ __reputedly__ _adv_ /rɪˈpjuːtɪdlɪ/ According to general belief or suppositi
 __restrain__ _v_  
 __restraint__ _n_  
 __rod__ _n_  
+__saunter__  
+__scamper__ _n_  
 __shapeshift__ _vi_ (biology, fantasy, mythology) To change one’s shape or form (into another) through often magical means, normally applied only to living beings.  
 __shear__ _v_ (shorn)  
 __shell-shocked__ _adj_ :dart: (shell shocked) __1__ Suffering from shell shock. __2__ Stunned, distressed, or exhausted from a prolonged trauma or an unexpected difficulty.  
@@ -1093,6 +1105,7 @@ __trifle<sup>1</sup>__ _n_ __1__ A thing of little or no value or significance. 
 __trifle<sup>2</sup>__ _v_ __1__ _vi_ (usually foll by: _with_) To deal (with) as if worthless; dally. To deal (with) as if worthless; dally: _to trifle with a person’s affections._ __2__ _vt_ To waste (time or money, for example).  
 __trot__ _v_  
 __trundle__ _v_  
+__tsunami__ _n_ [:scroll: From the Japanese _tsunami_, a combination of _tsu_, meaning “harbor” and _nami_, meaning “wave.”]  
 __tuck__ _v_  
 __turducken__ _n_  
 __twinge__ _n_ __1__ A sharp, sudden physical pain. _Syn_ pain __2__ A mental or emotional pain: a twinge of guilt.  
@@ -1114,6 +1127,7 @@ __usher in__
 __Vandyke beard__ _n_ A short, pointed beard, especially one worn with the cheeks shaven and a mustache.  
 __veld__ _n_ (veldt) Any of the open grazing areas of southern Africa.  
 __vernier__ _n_ (vernier scale)  
+__vicarious__ _adj_  
 __victuals__ _n pl_ /VIT-ulz/ _Victuals_ is a word with an old-fashioned feel that refers to food, and sometimes to both food and drink.  
 __vocabulary__ _n_ :mega: /voh-kab-yuh-ler-ee/  
 __volition__ _n_ The act or an instance of making a conscious choice or decision. _Syn_ willing  

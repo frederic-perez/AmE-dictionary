@@ -209,7 +209,8 @@ __QCT__ Quantitative CT. A type of CT scan used to measure density of bone in th
 __QED__ The initials of the Latin expression _quod erat demonstrandum_, meaning _which was to be shown_ or _proved_. Used in mathematics.  
 __QoE__ Quality of experience.  
 __R/O__ Rule out.  
-__RAF__ _Royal Air Force._  
+__RAF__ Royal Air Force.  
+__RAVR__ Robotic aortic valve replacement.  
 __RCT__ Randomized controlled trial.  
 __rep__ :three::hammer: _You have to do thousands of reps to reach such level._  
 __RGA__ Republican Governors Association. _RGA chairman._  

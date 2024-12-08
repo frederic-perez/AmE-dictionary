@@ -18,6 +18,7 @@ __a (whole) host of (something)__
 __a balancing act__ :dart:  
 __a big if__  
 __a bit dicey__ :two: Carrying a certain degree of risk or danger; uncertain of a favorable outcome.  
+__a blessing in disguise__ :dart: An unfortunate event or situation that results in an unforeseen positive outcome.  
 __a bum ankle/leg, etc.__ An injured ankle, leg, etc.  
 __a colf fish__  
 __a dab hand__ Someone who is skilled in a particular area. Primarily heard in UK, Australia.  
@@ -38,6 +39,7 @@ __a long shot__ :dart::two::hammer:
 __a mite__ :dart: To a small degree; somewhat: _That remark was a mite unfair._ _This sounds a mite grandiose._  
 __a motor mouth__ A person who talks incessantly or irrepressibly.  
 __a necessary evil__ (necessary evil)  
+__a piece of cake__  
 __a piece of work__ :smiling_imp: A remarkably difficult, malicious, unpleasant, or objectionable person.  
 __a shiver down (one’s) spine__ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
 __a small fortune__ (small fortune)  
@@ -61,13 +63,17 @@ __all things considered__
 __an earful__  
 __an eye for an eye__  
 __and then some__  
+__apples and oranges__ Two unlike things or people. Two entities that are not similar. (Used especially in reference to comparisons of unlike things.)  
 __as we speak__  
 __back to square one__  
 __bad juju__ A colloquial expression that refers to negative energy, bad luck, or a sense of foreboding.  
 __be well versed in (something)__ To be very knowledgeable about, skillful in, or competent at something.  
 __beat (one) to the punch__ To do or obtain something before someone else does. The phrase is thought to have originated from boxing. Primarily heard in US.  
+__beat about the bush__  
 __behind closed doors__  
+__bejesus__ _n_ _slang_ Used euphemistically for intensive effect in idioms such as _scare the bejesus out of (someone)_ for scare (someone) very much.  
 __bless your pointy little head__ A condescending phrase used to patronize someone for being foolish or not very bright. _You failed the exam because you thought the sun was a planet? Aw, bless your pointy little head._  
+__break the ice__  
 __bring (something) into effect__ To cause (something) to apply, begin operating, or take effect; to begin implementing or enforcing (something).  
 __bring to one’s knees__ Make one submit; reduce to a position of subservience.  
 __brood over__  
@@ -117,6 +123,7 @@ __construe (something) as (something)__ :dart: To view or interpret something in
 __contend with (someone or something)__  
 __coochie__  
 __corny__ :es: cursi, sensiblero  
+__cough up__  
 __covet__ _v_ _You shall not covet your neighbor’s house; you shall not covet your neighbor’s wife, or anything that belongs to your neighbor._  
 __crackerjack__  
 __cranky__ Irritable; in a foul mood.  
@@ -125,7 +132,7 @@ __cross oneself__ To make the sign of the cross on one’s head and chest. _I cr
 __crowd (one)__  
 __crummy__ _informal_ __1__ Bad or unpleasant. _I’m feeling pretty crummy—I hope I’m not coming down with something._ __2__ Of poor quality. _Darn it, my crummy suitcase fell apart as I was trying to pack it._  
 __cry (one) a river__ Said sarcastically to someone whose whining, complaints, or tears fall on unsympathetic ears. Most often said as “cry me a river.”  
-__cry over spilled milk__  
+__cry over spilled milk__ :two::hammer: _It’s no use crying over spilled milk._  
 __cut (one’s) teeth__ :dart: To gain experience with something, especially at a young age (when one’s teeth would be coming in). _That part-time administrative position allowed me to cut my teeth in the world of Human Resources._  
 __cut and dry__ The “idiom cut and dry” refers to something that is clear, straightforward, and unambiguous. It describes situations, decisions, or outcomes that are easily understood and leave little room for doubt or interpretation.  
 __cut bait__  
@@ -142,7 +149,7 @@ __discretion is the better part of valor__ _proverb_
 __dispose of (someone or something)__  
 __do an about-face__  
 __do shit__ (don’t do shit) _The cops that worked the case didn’t do shit and sure as hell aren’t going to do shit now._  
-__do the trick__ To do, accomplish, or fulfil exactly what is needed or sought after. _The recipe calls for pancetta, but I think this regular bacon should do the trick._  
+__do the trick__ :two: To do, accomplish, or fulfil exactly what is needed or sought after. _The recipe calls for pancetta, but I think this regular bacon should do the trick._  
 __do-rag__ A scarf, bandana, or similar item tied around the head as a covering. A headcap that covers and protects a hairdo. _Bob says he uses that do-rag to keep his hair out of his face while he mows the lawn._  
 __don’t get me started__  
 __don’t give a rat’s ass__  
@@ -209,10 +216,12 @@ __for all intents and purposes__ _adv_ :two: In every practical sense. _To all i
 __for all practical purposes__ (for (all) practical purposes) In reality; basically. As might be reasonably expected; essentially. _For all practical purposes, this is simply a matter of right and wrong._ _For all practical purposes, I might as well have not handed in this proposal at all, with how swiftly the board rejected it._  
 __for better or worse__ :three::hammer: (for better or (for) worse)  
 __for crying out loud__  
+__for each and every (something)__ The phrase “for each and every (something)” is an emphatic expression used to emphasize the inclusivity or thoroughness of a statement. It means that every single item or individual within a specified group is being considered or affected. The repetition of “each” and “every” serves to reinforce the idea that no exceptions are made.  
 __for good measure__  
 __for good__ :two::hammer:  
 __for kicks__ :two::hammer (just for kicks)  
 __for starters__  
+__get set for (something)__ To become prepared or excited for something.  
 __glass cliff__ _n_ A situation in which a woman or minority has advanced professionally at a time when adverse circumstances or crises make it more likely for the person to fail at the job.  
 __glimmer of hope__  
 __go an eye out for (someone or something)__ To remain vigilant or carefully watchful for something or someone.  
@@ -275,6 +284,7 @@ __hit and miss__ (hit or miss)
 __hit home__ :dart:  
 __hit pay dirt__ [:scroll: This idiom refers to a miner’s finding gold or other precious metals while sifting soil] To discover or come upon something very, particularly, or abundantly valuable or useful, especially after a long or arduous search. :es: dar con el oro  
 __hit the ground running__  
+__hit the sack__  
 __hit-and-run__ :smiling_imp:  
 __hoity-toity__ Pretentiously arrogant, haughty, or self-important. _We don’t need some hoity-toity academic coming in and telling us how to run our business!_  
 __hold my beer__  
@@ -296,6 +306,7 @@ __if (one’s) life depended on it__ Under any circumstances; no matter what. (U
 __if anything__  
 __if it ain’t broke, don’t fix it__ :two::hammer: (if it isn’t broke, don’t fix it)  
 __if nothing else__ :dart::two: A phrase used to indicate that something is a priority or the most important thing. _I know you’re busy today, so if nothing else, please make sure you respond to these messages._ _If nothing else, we’ll at least get our money back._  
+__if worst comes to worst__ (if (the) worst comes to (the) worst) If the least ideal or preferred outcome happens.  
 __If you can’t beat ’em, join ’em__  
 __iffy__  
 __in a bit__  
@@ -463,6 +474,7 @@ __knee-jerk reaction__ Any spontaneous, reflexive, and unthinking reaction or re
 __knife-edge__  
 __knock it off__  
 __knock on doors__ To speak to the people who live in an area by walking up to their houses, apartments, etc., especially to provide information or solicit votes, support, contributions, etc.  
+__know best__ To have more knowledge and experience about something than anyone else. _You should listen to her advice—after all, Mother knows best._  
 __know better (than to do something)__ :three::hammer: _The woman is dirty, maybe mentally ill, and Nic knows better than to tangle with that type._  
 __know by heart__  
 __know the ropes__  
@@ -496,6 +508,7 @@ __lay down and die__ To quit; to give up hope or ambition. _We might have had an
 __lay the groundwork (for something)__ :two: To create or prepare the basics or essential foundation (for something); to pave the way (for something). _Our success with this healthcare bill wouldn’t be possible, had the previous administration not laid the groundwork already._  
 __laze about__ To relax or spend time idly; to do nothing or very little. _It’s a gorgeous day outside, so you kids get off your butts and quit lazing about!_  
 __lazy-bones__ A particularly lazy or indolent person. _Come on, lazy-bones, you’ve spent half the day in bed. Time to get up and be productive!_  
+__lazybones__ A lazy person.  
 __leach away__ __1__ To become dissolved, eroded, or carried away, by or as by some percolating liquid. _Nutrients in the soil have continued leaching away as the groundwater become more acidic._ _All emotion had been leached away._ __2__ To dissolve, erode, or carry something away due to percolation. In this usage, a noun or pronoun can be used between “leach” and “away.” _Over time, the saltwater leached the limestone away all along the coastline._  
 __lead nowhere__ To ultimately yield or achieve no useful, beneficial, or successful result or outcome. _This meeting is leading nowhere. We’ve been here for over two hours now and haven’t even been able to come up with a name for our product!_  
 __lead the pack__ To be at the forefront of a particular group, either literally or figuratively. _We had Bill lead the pack on our tour through Rome._  
@@ -542,8 +555,10 @@ __like a chicken with the pip__ In low spirits; in a weak or sickened state or m
 __like a fish out of water__ :two::hammer:  
 __like attracts like__ People tend to seek out or be attracted to those that are similar or like-minded. _I guess I shouldn’t be surprised that John wants to find other Americans to hang out with. Like attracts like, after all._  
 __like cheese at four pence__ _BrE_ In an idle, awkward, and/or out-of-place state; being ignored, abandoned, or left to wait awkwardly. Primarily heard in UK. _Well, don’t just sit there like cheese at four pence—speak up and say what’s on your mind!_  
+__like comparing apples and oranges__ Highlighting the similarities and differences between two people or things that are not really comparable at all.  
 __like crazy__ With great intensity or speed. _Ugh, these mosquito bites are itching like crazy!_ _Run like crazy._  
 __like hell__  
+__like I have a choice__ The idiom “like I have a choice” is typically used to express a sense of resignation or frustration about a situation where the speaker feels they have no real options or alternatives. It often conveys sarcasm, suggesting that the speaker is being forced into a decision or action without any genuine freedom to choose differently.  
 __like no other__ Like nothing or no one else, as to highlight someone’s or something’s unique and important qualities. _Performing in front of an audience gives me an adrenaline rush like no other, man._  
 __like rats abandoning a sinking ship__ With great haste and having only personal well-being in mind. (Typically said of people who begin abandoning something or someone that is failing or about to fail.) _I knew the business was doomed when employees started quitting en masse, like rats abandoning a sinking ship._  
 __like the back of (one’s) hand__ A common English expression used to describe something that a person knows extremely well or is very familiar with.  
@@ -558,9 +573,11 @@ __little does (one) know__ One is completely unaware of something.
 __live and kicking__ :dart: Alive, healthy, and alert. (A truncated version of “alive and kicking.”) _Sam: “How are you feeling, John? I heard you were quite sick recently.” John: “I”m still live and kicking!”_  
 __live in an/(one’s) ivory tower__  
 __live on borrowed time__  
+__live paycheck to paycheck__ To spend all of the money one earns by or before the next time one is paid, thus saving none or very little in the process. Primarily heard in US. _We’re already living paycheck to paycheck, so I don’t know how we’ll manage this sudden increase in our rent._  
 __live the life of Riley__ To lead a life of great ease, comfort, or luxury. The phrase is likely of early 20th-century Irish-American origin, but to whom Riley refers is uncertain. _Pampered from a young age after his father came into sudden wealth, Jonathan lived the life of Riley compared to the hardships his older siblings faced._  
 __live up to (something)__ :three::hammer: _Live up to the hype._  
 __living proof__  
+__living the dream__ Leading an extremely ideal life, especially in relation to one’s career. (Sometimes said ironically to mean the opposite.)  
 __loaded gun__ A situation or person that is dangerous or volatile. For example, a person might be described as a “loaded gun” if they are highly emotional or prone to outbursts.  
 __long and hard__  
 __long in the tooth__  
@@ -602,6 +619,7 @@ __meet the eye__
 __Midwest nice__ _Midwest nice_ refers to the characteristic politeness, friendliness, and hospitality often associated with people from the Midwestern United States.  
 __mill about__  
 __mince words__  
+__miss the boat__  
 __mix and match__  
 __mixed feelings__ :two::hammer:  
 __mixed message__  
@@ -637,6 +655,7 @@ __needless to say__ Obviously implied, no explanation needed.
 __nepo friend__ _n_ /nep-oh frend/ (nepo-friend) The slang term nepo friend refers to a person who is thought to benefit from having a famous or influential friend. The term nepo friend is often used to imply that someone is only famous or successful because of their association with a famous person. The term may be used playfully, but it is often at least mildly negative.  
 __Nervous Nellie__ /nuhr-vuhs NEL-ee/(nervous Nellie/Nelly) Any nervous person, male or female. Someone who is more timid, nervous, or anxious than is normal or reasonable.  
 __nice and (something)__ :two::hammer:  
+__nice to hav__  
 __no hard feelings__ :es: sin rencores  
 __no question about it__  
 __not know someone from Adam__  
@@ -723,7 +742,7 @@ __out of (one’s) league__
 __out of commission__  
 __out of nowhere__  
 __out of print__ No longer being printed and sold by a publisher.  
-__out of sight, out of mind__  
+__out of sight, out of mind__ :two::hammer:  
 __out of the wood(s)__  
 __over and out__ Said to mark the end of communication between two people. Used especially in radio communication, in which it signals that a person is done speaking and does not expect a reply from the other person. _A: “Oh, and while you’re at the store, could you please get some milk, too?” B: “Sure thing. Over and out.”_  
 __over the course of__ In or during the process of.  
@@ -766,6 +785,10 @@ __plunger__ _n_ /ˈplʌndʒə/ __3__ _informal_ A reckless gambler.
 __point the finger at (one)__  
 __poke around__  
 __put heart and soul into something__ (put (one’s) heart and soul into (something)) To do something with the utmost of one’s energy, enthusiasm, and determination.  
+__put up with someone or something__  
+__revenge is a dish best eaten cold__ Revenge that takes place far in the future, after the offending party has forgotten how they wronged someone, is much more satisfying.  
+__revenge is a dish best served cold__ Revenge that takes place far in the future, after the offending party has forgotten how they wronged someone, is much more satisfying.  
+__revenge is sweet__ Revenge is a potent source of satisfaction and pleasure.  
 __riled up__ ((all) riled up) Particularly angry, agitated, or in a frenzied state.  
 __roast__  
 __rob someone blind__ :smiling_imp:  
@@ -774,6 +797,7 @@ __rolling stone__
 __root around__ To dig or rummage aimlessly (in or through some cluttered location). Usually used in the continuous tense. _Tom rooted around the attic for a while, but he couldn’t find his old comic book location._ _She was rooting around for bargains._  
 __rough it__ :es: vivir sin comodidades  
 __round and round__ :two::hammer: (around and around)  
+__rub it in__ :dart: __1__ To make someone feel worse about an already bad, unpleasant, or undesirable situation or outcome. _A: “You know that this means you won’t get to qualify for the state championships, right?” B: “Sheesh, no need to rub it in, Dave.”_ __2__ To flaunt one’s success or good fortune in order to make someone jealous. _Yes, I know you’re going to Japan with the money you won in the lottery—you don’t need to rub it in!_  
 __rub off__ :hammer: __1__ To come off (of something else) after being rubbed. _Don’t worry, if you use a warm, damp towel, the makeup will just rub right off._ __2__ To remove some substance off of a surface by rubbing. In this usage, a noun or pronoun can be used between “rub” and “off.” _You’d better rub that paint off before it has a chance to dry!_ __5__ _vulgar slang_ To masturbate. Used especially in the form “rub one off.” __6__ _vulgar slang_ To bring someone to orgasm with one’s hands.  
 __rubberneck__  
 __rue the day (that something happened)__ :two: To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
@@ -817,6 +841,7 @@ __sexual advance__ An attempt to gain some form of sexual favor or gratification
 __sexual advances__  
 __Shangri-la__ A utopian paradise. A reference to the fictional Tibetan paradise described in James Hilton’s 1933 novel _The Lost Horizon._  
 __shapeshift__ _vi_ To undergo a noticeable change (in character for example), to metamorphosize.  
+__sheesh__ :dart::two: An exclamation of exasperation, vexation, or annoyance. _A: “Tom? The boss wants to see you for a minute.” B: “Sheesh, what does he want now?”_  
 __shell-shocked__ :dart: __1__ In a state of intense psychological strain, distress, or trauma as a result of prolonged engagement in combat warfare. The term was popularized during the First World War in reference to soldiers returning from combat; it is more commonly known in modern times as posttraumatic stress disorder (PTSD), and has expanded to cover the psychological damage caused by any kind of traumatic event. _My brother was lucky enough to come home from the war alive, but he was shell-shocked for the rest of his life._ __2__ In a state of utter disbelief, confusion, grief, or shock caused by a powerful and upsetting event. _The family has been shell shocked after finding out their father had gambled away their life savings._  
 __shift gears__  
 __shine a light__  
@@ -840,6 +865,7 @@ __sick at heart__
 __sick__ _slang_ Excellent; superb. _He did some sick tricks on his skateboard._  
 __single file__ A line of things or people, one person or one thing wide. _Please get into single file._ _You have to march single file._  
 __single out__  
+__sinking feeling__ :dart: A feeling of dread indicating that something bad has happened or is about to happen. _As soon as I met him, I got a sinking feeling that he had bad intentions._  
 __sit still (for something)__ __2__ To fail or choose not to act in response to something; to endure or tolerate something passively or submissively. _I couldn’t just sit still for condescending, hypocritical remarks, so I gathered my things and walked right out of the building._  
 __sit up__  
 __six in one, (and) half a dozen in the other__ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
@@ -881,6 +907,7 @@ __spare the rod and spoil the child__
 __speak (one’s) mind__ To voice one’s thoughts plainly or bluntly.  
 __speed__ _slang_ Any illicit stimulant drug, especially amphetamine or methamphetamine. _We all used to take speed during college to help us study._  
 __spend a penny__ _euphemism_ To go to the toilet. Primarily heard in UK.  
+__spill the beans__  
 __spoil for something__ _You are spoiling for a fight._ :es: te estás buscando pelea  
 __square off__  
 __stakeout__  
@@ -936,6 +963,7 @@ __thank goodness__
 __that being said__  
 __that does the trick__ That is all that was remaining or required to accomplish something. _There, that does the trick. The engine should be as good as new, now!_  
 __that very thing__ Exactly that. _Why, I was just looking for that very thing!_ _You know, I was just about to say that very thing._  
+__that’s pretty much it__ :dart::two: The idiom “that’s pretty much it” is commonly used in English to indicate that there is nothing more to add or to signal the conclusion of a discussion or explanation. It serves as a way to summarize what has been said, implying that the speaker has covered all relevant points and that no further elaboration is necessary.  
 __the belle of the ball__  
 __the best thing since sliced bread__  
 __the better part of (something)__ :dart::three: The majority of something. _I’m sorry I’m late—my doctor’s appointment took the better part of an hour._  
@@ -961,6 +989,7 @@ __throw in__ _He is going to throw in every dirty trick he can think of._
 __throw the book at (one)__ :dart: _The NY Times sure loves throwing the book at AI startups._  
 __thumb one’s nose__  
 __tick away__  
+__tinder__ _n_ :dart: Readily combustible material, such as dry twigs, used to kindle fires. _This love potion is tinder for the proverbial fire._  
 __tit for tat__  
 __to hell and back__ Through a difficult, trying, or perilous situation and having overcome it.  
 __to name (but) a few__  
@@ -984,6 +1013,7 @@ __wait and see__ :two::hammer:
 __walk on eggs__  
 __water under the bridge__  
 __well up__  
+__what’s the occasion?__ The idiom “what’s the occasion?” is typically used to inquire about the reason for a special event, celebration, or unusual behavior that seems out of the ordinary. It’s a friendly way to express curiosity about something that appears more formal or festive than usual.  
 __wind up__ __1__ To come or bring to a finish; end: _when the meeting wound up; wind up a project._  
 __winnow out__  
 __worry (something) out of (someone or something)__  
