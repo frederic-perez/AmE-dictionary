@@ -13,6 +13,7 @@ __adversary__ _n_ :mega: /ˈæd vərˌsɛr i/ /ˈædvəsərɪ/ /AD-ver-sair-ee/ 
 __affidavit__ _n_  
 __afoot__ _adj, adv_  
 __agency__ _n_  
+__agonistic__ _adj_ Striving to overcome in argument. _Syn_ combative _The incumbent’s aggressive, agonistic approach to the debate alienated many of his supporters._  
 __airlock__ _n_ A chamber that provides access to space where air is under pressure. _Syn_ air lock  
 __amalgamate__ _v_ /uh-MAL-guh-mayt/ _Amalgamate_ is a formal verb meaning “to unite (two or more things) into one thing.”  
 __andirons__ _n_  
@@ -145,56 +146,6 @@ __complaisant__ _adj_ /kum-PLAY-sunt/ Someone described as complaisant is willin
 __condescension__ _n_ A communication that indicates lack of respect by patronizing the recipient. _Syn_ disdain, patronage  
 __congeal__ _v_ Become gelatinous. _Syn_ jell, set  
 __contrite__  
-__coup__ _n_ :three::mega: /kuː/ /koo/ __1__ A brilliant and successful stroke or action. __2__ Short for coup d’état. _A coup attempt._  
-__crack down__ _v_  
-__crass__ _adj_  
-__crescent__ _adj, n_  
-__cross__ _adj_ :dart: Annoyed and irritable. _Syn_ bad-tempered, crabbed, crabby, fussy, grouchy, grumpy, ill-tempered  
-__crow__ _n_ The cry of the cock.  
-__crowbar__ _n_  
-__cursory__ _adj_ /KER-suh-ree/ Something described as cursory has been done or made quickly.  
-__cutlass__ _n_  
-__czar__ _n_ :two: __1__ The ruler of Russia until the 1917 revolution. __2__ One having great power or authority. _A banking czar._  
-__dainty__ _adj_  
-__dais__ _n_  
-__Damoclean__ _adj_ /dam-uh-KLEE-uhn/ Involving imminent danger.  
-__damp__ _adj_  
-__dander__ _n_ Temper or anger. _Syn_ hackles _He ’pears to know just how long he can torment me before I get my dander up._  
-__daredevil__ _adj, n_ :es: temerario, atrevido  
-__darned__  
-__dart__ _v_  
-__daub__ _v_  
-__dead bolt__ _n_ (deadbolt, dead lock) A locking mechanism distinct from a spring bolt lock because a deadbolt cannot be moved to the open position except by rotating the key.  
-__deadpool__  
-__decal__ _n_  
-__decision making__ _n_  
-__defenestration__ _n_ /dee-fen-uh-STRAY-shun/ _Defenestration_ is most often used to refer to a usually swift dismissal or expulsion, as from a political party or office. It is also used to refer to a throwing of a person or thing out of a window.  
-__deign__ _v_  
-__deliverance__ _n_  
-__demob__ _v_  
-__den__ _n_ _The bear’s den._ :es: madriguera  
-__denigrate__ _v_ /DEN-ih-grayt/ To _denigrate_ someone is to criticize them heavily and often unfairly. _Denigrate_ can also mean “to make something seem less important or valuable.”  
-__denizen__ _n_  
-__denouement__  
-__deport__ _vt_ __1__ To expel from a country: _deported the foreigner who had entered the country illegally._  
-__depose__ _v_  
-__derailleur__ _n_ A device for shifting gears on a bicycle by moving the chain between sprocket wheels of different sizes.  
-__deranged__ _adj_ :smiling_imp: Driven insane. _Syn_ crazed, half-crazed  
-__derelict__ _adj, n_  
-__deride__ _vt_ [:scroll: Latin dērīdēre : dē-, de- + rīdēre, _to laugh at_]  
-__descant__ _n_  
-__despairing__ _adj_ Characterized by or resulting from despair; hopeless. _Syn_ desperate  
-__despicable__  
-__despoil__ _v_ :two::hammer:  
-__despondent__ _adj_ :two::hammer:  
-__deter__ _v_ :two: /dɪˈtɜr/ /dih-TER/ To _deter_ someone is to discourage or prevent them from acting. To _deter_ a thing is to stop or limit it.  
-__device__ _n_ /dɪˈvaɪs/  
-__diary__ _n_  
-__diction__ _n_  
-__diffident__ _adj_  
-__dilation__ _n_ :mega: /daɪˈleɪ ʃən, dɪ-/  
-__dim-witted__  
-__dimly__ _adv_ __2__ In a manner lacking interest or vitality.  
 __dimple__ _n_  
 __ding__ _v_  
 __dinghy__ _n_  
@@ -395,7 +346,7 @@ __gaffer__ _n_ __1__ [:scroll: Probably alteration (influenced by _grandfather_)
 __gaggle__ _n_ __2__ _informal_ A disorderly group of people.  
 __galling__ _adj_ :es: mortificante  
 __gallivant__ _vi_ (galivant, galavant)  
-__galvanize__  
+__galvanize__ _v_ :two: /GAL-vuh-nyze/ To galvanize people is to cause them to be so excited or concerned about something that they are driven to action. _The council’s proposal to close the library has galvanized the town’s residents._  
 __Gamblers Anonymous__ _n_ (GA) An organization that holds group meetings to help people who are addicted to gambling.  
 __game warden__ _n_ An officer in charge of managing game animals or wildlife, especially by the enforcement of game laws.  
 __gamekeeper__ _n_ /ˈgeɪmˌki pər/ A person employed, as on an estate or game preserve, to prevent poaching and provide for the conservation of game.  
@@ -496,6 +447,7 @@ __hitherto__
 __hobgoblin__ _n_  
 __hoity-toity__ _adj_ /ˌhɔɪtɪˈtɔɪtɪ/ _informal_ Arrogant or haughty: _we have had enough of her hoity-toity manner._  
 __hollow-point bullet__ _n_  
+__hometown__ _n_ The town or city of one’s birth, rearing, or main residence.  
 __honors__  
 __hoover__  
 __horse brass__ _n_ :camera: A decorative brass ornament, usually circular, originally attached to a horse’s harness.  
@@ -554,7 +506,7 @@ __island__ _n_ /ˈaɪ lənd/
 __isthmus__ _n_ :mega: /is-muhs/  
 __itching__ _n_ An irritating cutaneous sensation that produces a desire to scratchitching - an irritating cutaneous sensation that produces a desire to scratch. _Syn_ itchiness, itch  
 __jack-in-the-box__ _n_ A toy consisting of a clownlike doll or other figure that is attached to the inside of a box and springs up when the lid is opened.  
-__jaded__ _adj_ :dart:  
+__jaded__ _adj_ :dart::two: Dulled or satiated by overindulgence.  
 __jalopy__  
 __jangle__ _v_  
 __jangle<sup>1</sup>__ _vi_ To make a harsh metallic sound: _The spurs jangled noisily._  
@@ -758,6 +710,7 @@ __nuzzle__ _v_ :two::hammer: _I nuzzled her neck._
 __obfuscate__ _v_ /AHB-fuh-skayt/ To obfuscate something is to make it more difficult to understand. Obfuscate can also mean “to be evasive, unclear, or confusing.”  
 __oblige__ _vt_  
 __obsequious__ _adj_  
+__overworked__ _adj_ :dart:  
 __pad__ _v_  
 __patter__ _v_ Plausible glib talk (especially useful to a salesperson). _Syn_ line of gab, spiel  
 __patty__ _n_  

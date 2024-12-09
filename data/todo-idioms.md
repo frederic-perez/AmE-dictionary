@@ -41,6 +41,7 @@ __a motor mouth__ A person who talks incessantly or irrepressibly.
 __a necessary evil__ (necessary evil)  
 __a piece of cake__  
 __a piece of work__ :smiling_imp: A remarkably difficult, malicious, unpleasant, or objectionable person.  
+__a royal pain__ :dart: Someone or something that causes a large or severe amount of frustration, annoyance, or aggravation. “Royal” is used as an intensifier. _Of course the client has more demands. Ugh, he is a royal pain._  
 __a shiver down (one’s) spine__ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
 __a small fortune__ (small fortune)  
 __a stab in the back__ A betrayal; an act of treachery.  
@@ -687,6 +688,7 @@ __oh boy__
 __oh dear__ :dart: An expression of concern, surprise, or disappointment. _This place is on the 10th floor, and there’s no elevator? Oh dear._ _A car accident? Oh dear, is she OK?_  
 __oh, my__ :dart::three::hammer: (oh my)  
 __old coot__ :two::hammer: (coot)  
+__old flame__ (an/(one’s) old flame) One’s former lover. _How am I supposed to forget about my old flame if I keep seeing her around town?_  
 __old school__  
 __on (one’s) (own) terms__ In the manner or timeframe that one prefers.  
 __on (one’s) feet__  
@@ -777,6 +779,7 @@ __pitch-perfect__
 __pizzazz__  
 __play God__ To have a huge affect on or great power over someone’s life, livelihood, health, or happiness. Behave as if all-powerful or supremely important.  
 __play havoc with (someone or something)__ To cause issues or disruptions for someone or something. _The road closures have played havoc with rush-hour traffic._  
+__play matchmaker__ To pair two people to foster a romantic relationship between them. _Mom, please stop playing matchmaker for me, will ya? I don’t want to date your best friend’s cousin’s nephew or someone you met at the market!_  
 __play possum__ :es: hacerse el muerto  
 __play second fiddle__  
 __plop down__ _informal_ __1__ To sit or lie down in a heavy or careless way. _He plopped himself down in the chair._ __2__ To drop or place (something or someone) in a heavy or careless way. _He plopped the tray down._ __3__ _US_ To pay or spend (money). _I can’t afford to just plop down $30 for a T-shirt._  
@@ -814,6 +817,7 @@ __same shit, new wrapping__ Colloquial expression that conveys the idea that som
 __save (one’s) bacon__  
 __say again?__  
 __says who__  
+__scare the (living) daylights out of (one)__ To shock or frighten one very suddenly or severely. _Don’t sneak up on me like that—you scared the living daylights out of me!_  
 __scare the crap out of (one)__ _rude slang_ To shock or frighten one very suddenly or severely. Hyperbolically alludes to frightening one so badly as to cause them to lose bowel control.  
 __scare the hell out of someone__  
 __scare the shit out of (one)__ :astonished: _rude slang_ To shock or frighten one very suddenly or severely. (Hyperbolically alludes to frightening someone so badly as to cause them to lose control of their bowels.) _Don’t sneak up on me like that, you scared the shit out of me!_  

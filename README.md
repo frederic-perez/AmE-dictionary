@@ -34,6 +34,11 @@ I collect words and expressions from multiple written sources, including:
 - stuff from [non-comedy YouTube channels](list-of-non-comedy-YouTube-channels.md), and
 - [other video resources](list-of-other-video-resources.md).
 
+### Games
+
+- [Merriam-Webster’s Games & Quizzes](https://merriam-webster.com/games)
+  - [Name That Thing](https://www.merriam-webster.com/games/name-that-thing)
+
 ## Emojis
 
 Meaning of the emojis used in the dictionary:
