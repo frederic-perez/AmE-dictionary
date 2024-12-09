@@ -569,56 +569,6 @@ __liminal__ _adj_ /ˈlɪmɪnəl/
 __line in the sand__ A figurative boundary that someone or some group refuses to cross or beyond which no further advance or compromise is accepted. (Used especially in the phrase “draw a line in the sand.”) _The allocation of this new tax to pay for building schools has become a line in the sand for the governor’s administration._  
 __lip to lip__ :two: The idiom “lip to lip” typically refers to a kiss that involves direct contact between the lips of two people. This expression is often associated with romantic or intimate contexts, emphasizing the closeness and emotional connection between the individuals involved.  
 __liquid courage__ _slang_ The decrease in timidity or inhibition that comes from imbibing alcoholic beverages.  
-__litmus test__ :four: __3__ A test used to determine someone’s true intentions or beliefs. _I used his reaction to my favorite movie as a litmus test to determine if he was worth dating._  
-__little does (one) know__ One is completely unaware of something.  
-__live and kicking__ :dart: Alive, healthy, and alert. (A truncated version of “alive and kicking.”) _Sam: “How are you feeling, John? I heard you were quite sick recently.” John: “I”m still live and kicking!”_  
-__live in an/(one’s) ivory tower__  
-__live on borrowed time__  
-__live paycheck to paycheck__ To spend all of the money one earns by or before the next time one is paid, thus saving none or very little in the process. Primarily heard in US. _We’re already living paycheck to paycheck, so I don’t know how we’ll manage this sudden increase in our rent._  
-__live the life of Riley__ To lead a life of great ease, comfort, or luxury. The phrase is likely of early 20th-century Irish-American origin, but to whom Riley refers is uncertain. _Pampered from a young age after his father came into sudden wealth, Jonathan lived the life of Riley compared to the hardships his older siblings faced._  
-__live up to (something)__ :three::hammer: _Live up to the hype._  
-__living proof__  
-__living the dream__ Leading an extremely ideal life, especially in relation to one’s career. (Sometimes said ironically to mean the opposite.)  
-__loaded gun__ A situation or person that is dangerous or volatile. For example, a person might be described as a “loaded gun” if they are highly emotional or prone to outbursts.  
-__long and hard__  
-__long in the tooth__  
-__long past due__ “Long past due” refers to something that is significantly overdue or late. It implies that a task, payment, or obligation should have been completed or met a long time ago and has not been addressed within the expected timeframe. :es: hace tiempo que se tendría que haber llevado a cabo  
-__long time no see__ :three::hammer:  
-__look the other way__  
-__look up to (one)__ :es: admirar a alguien  
-__looks like__  
-__loony bin__ _slang_ A psychiatric hospital or insane asylum. From a glib adaptation of the word “lunatic,” the phrase is now considered tactless at best, extremely insulting at worst.  
-__loop the loop__ __1__ _n_ A flight maneuver in which an aircraft flies in a complete vertical circle. (Usually hyphenated.) _I loved going to air shows as a kid, and I always dreamed of doing loop-the-loops in an airplane when I grew up._ __2__ _v_ To fly an aircraft in a complete vertical circle. _I thought I was going to throw up when the pilot looped the loop with our little biplane._  
-__loose cannon__ Someone who has the propensity to act unpredictably or to lose their temper very quickly.  
-__loosen up__  
-__loosey-goosey__  
-__lose (one’s) shit__  
-__lose steam__ To begin to wane in energy, enthusiasm, or potency.  
-__loss leader__ A product or service offered at or below cost in order to attract customers to a store in the hopes that they will then purchase other items.  
-__lost for words__ (at a loss for words)  
-__loud and clear__ :two::hammer:  
-__lucky monkey__ The concept of a “lucky monkey” is often associated with good fortune, playfulness, and positive energy.  
-__lunge at (someone or something)__ To leap toward someone or something, especially with the intent of grabbing, attacking, or striking them or it. _The criminal lunged at the police officer with a knife, but the cop was able to subdue him without difficulty._  
-__lurk__  
-__lush__ A person who drinks alcohol habitually or excessively; a drunkard.  
-__lust for life__  
-__magic mushroom__ _informal_ Any mushroom-like fungus that has psychedelic effects.  
-__make (both) ends meet__  
-__make (one’s) eyes pop (out)__  
-__make (one’s)/the rounds__  
-__make (oneself) scarce__  
-__make (something) clear (to one)__ :two:hammer:  
-__make a fool of (someone)__  
-__make a pass at (one)__ :dart: To make sexual advances toward or propositions to one; to hit on one. _Do you think she was making a pass at me, or was she just being nice?_ :es: intentarse ligar a  
-__make a run for (someone or something)__ :two::hammer:  
-__make advances__ :dart:  
-__make game of (someone or something)__ To ridicule, mock, or tease someone or something; to make fun of someone or something. _I really don’t appreciate you making game of my disability like that._  
-__make it__ __1__ To be successful.  
-__make light of (something)__  
-__Maslow’s hammer__ :dart: The inability to recognize other possible outcomes or solutions if one relies too much on a particular tool, method, or mindset. The term refers to 20th-century psychologist Abraham Maslow and his idea that “If all you have is a hammer, everything looks like a nail.” Also known as the “golden hammer,” and “the law of the instrument.”  
-__meet the eye__  
-__Midwest nice__ _Midwest nice_ refers to the characteristic politeness, friendliness, and hospitality often associated with people from the Midwestern United States.  
-__mill about__  
 __mince words__  
 __miss the boat__  
 __mix and match__  

@@ -3873,24 +3873,27 @@ __lionhearted__ _adj_
 __lip service__ :four: The insincere verbal expression of something, especially friendship, loyalty, respect, support, etc. Used especially in the phrase “give/pay lip service to something.” _All of the grand promises the president made in her campaign speeches turned out to be nothing but lip service._  
 __lipstick on a pig__ Some superficial or cosmetic change to something so that it seems more attractive, appealing, or successful than it really is. _This new operating system is just lipstick on a pig, if you ask me. It’s still just as buggy and unintuitive as the last one they released._  
 __liquid courage__ _slang_ The decrease in timidity or inhibition that comes from imbibing alcoholic beverages. _I’m planning on proposing to Mary tonight, but I think I need a little liquid courage first!_  
-__litmus test__  
-__live and kicking__ Alive, healthy, and alert. (A truncated version of “alive and kicking.”) _Sam: “How are you feeling, John? I heard you were quite sick recently.” John: “I’m still live and kicking!”_  
-__live in an/(one’s) ivory tower__ To reside or exist in a place or among a social circle that is characterized by effete academic intelligence and thus is out of touch with or aloof from the realities of life. _I don’t put much weight in the advice of a bunch of economists living in their ivory towers who’ve never worked a real job in their lives._  
+__litmus test__ :five: __3__ A test used to determine someone’s true intentions or beliefs. _I used his reaction to my favorite movie as a litmus test to determine if he was worth dating._  
+__little does (one) know__ One is completely unaware of something.  
+__live and kicking__ :dart::two: Alive, healthy, and alert. (A truncated version of “alive and kicking.”) _Sam: “How are you feeling, John? I heard you were quite sick recently.” John: “I”m still live and kicking!”_  
+__live in an/(one’s) ivory tower__ :two: To reside or exist in a place or among a social circle that is characterized by effete academic intelligence and thus is out of touch with or aloof from the realities of life. _I don’t put much weight in the advice of a bunch of economists living in their ivory towers who’ve never worked a real job in their lives._  
 __live large__ (living large) To have a luxurious lifestyle. The term sometimes implies that such a lifestyle will be temporary.  
 __live like a king__ (living like kings) To have a luxurious lifestyle, in which one’s every need or desire is satisfied. Typically said of or by a man. _The cost of living is so much lower in Spain that we could live like kings there._  
 __live on a shoestring__ To live within a very tight or limited financial budget. _We were living on a shoestring for a while after our baby was born, but, luckily, I got a promotion, and our situation has improved a bit._  
-__live paycheck to paycheck__ To spend all of the money one earns by or before the next time one is paid, thus saving none or very little in the process. _We’re already living paycheck to paycheck, so I don’t know how we’ll manage this sudden increase in our rent._  
-__live the life of Riley__ If someone lives the life of Riley, they have a very enjoyable life because they have plenty of money and no problems. _He was living the life of Riley while we had barely enough to eat. It was like paradise._ Note: People sometimes use the verbs _lead_ or _have_ instead of _live_. _These people moan about their lives when in reality they’re having the life of Riley._ Note: This expression often shows disapproval or envy.  
+__live on borrowed time__  
+__live paycheck to paycheck__ :two: To spend all of the money one earns by or before the next time one is paid, thus saving none or very little in the process. Primarily heard in US. _We’re already living paycheck to paycheck, so I don’t know how we’ll manage this sudden increase in our rent._  
+__live the life of Riley__ :two: To lead a life of great ease, comfort, or luxury. The phrase is likely of early 20th-century Irish-American origin, but to whom Riley refers is uncertain. If someone lives the life of Riley, they have a very enjoyable life because they have plenty of money and no problems. Note: This expression often shows disapproval or envy. Note: People sometimes use the verbs _lead_ or _have_ instead of _live_. _He was living the life of Riley while we had barely enough to eat. It was like paradise._ _These people moan about their lives when in reality they’re having the life of Riley._ _Pampered from a young age after his father came into sudden wealth, Jonathan lived the life of Riley compared to the hardships his older siblings faced._  
 __live under a rock__ To be oblivious to or ignorant of something that is very widely known, often related to pop culture.  
 __live up to (someone’s) expectations__ :two: To be as good as or have the qualities that someone predicted, expected, or hoped for. _I’m so excited for the latest movie in the series—I hope it lives up to my expectations!_  
-__live up to (something)__ :two::hammer:  
+__live up to (something)__ :five::hammer: _Live up to the hype._  
 __live up to__ _Classroom technology failed to live up to its promise._  
 __living hell__ _Your life will be living hell._  
 __living impaired__ Dead. (Pseudo-politically correct slang used for humorous effect.) _The boss has ordered a hit on the stool pigeon, so make sure he’s living impaired by the end of the day._  
 __living large__  
-__living proof__ :three: A person who serves as an example for why a particular statement or concept is true. _As a former slacker, I’m living proof that anyone can turn their life around with some hard work and dedication._  
-__living the dream__ :three: Leading an extremely ideal life, especially in relation to one’s career. (Sometimes said ironically to mean the opposite.) _The only job I could get with my bachelor’s degree was some mind-numbing data entry work. I’m really living the dream these days._  
+__living proof__ :four: A person who serves as an example for why a particular statement or concept is true. _As a former slacker, I’m living proof that anyone can turn their life around with some hard work and dedication._  
+__living the dream__ :four: Leading an extremely ideal life, especially in relation to one’s career. (Sometimes said ironically to mean the opposite.) _The only job I could get with my bachelor’s degree was some mind-numbing data entry work. I’m really living the dream these days._  
 __lo and behold__ :astonished::nine::m::pencil2: _spoken_ A phrase used to indicate something surprising or unexpected. _I’d been searching for my glasses all over the house when, lo and behold, they were on my head the whole time._  
+__loaded gun__ A situation or person that is dangerous or volatile. For example, a person might be described as a “loaded gun” if they are highly emotional or prone to outbursts.  
 __loaded word__ A word that carries additional emotional weight or significance—whether positive or negative—beyond its literal meaning. _If you want to get into politics, you should always avoid using loaded words that might offend someone unintentionally._  
 __loaf about__ :two: To waste time idly; to spend time doing little or nothing. _Chris, quit loafing about and help me take out the trash!_  
 __lock (someone) up and throw away the key__ To incarcerate someone in prison forever or indefinitely. _That crazy drunk driver nearly hit me! I hope they lock him up and throw away the key!_  
@@ -3900,17 +3903,18 @@ __lock out__ __2__ To prevent employees from coming to work or performing their 
 __lock, stock, and barrel__ To the greatest or most complete extent; wholly: _an estate that was auctioned off lock, stock, and barrel._ _Mr. Doe owns lock, stock and barrel._  
 __locker-room humor__ Especially crude, vulgar, or bawdy humor. _I’m no prude by any means, but I hate the locker-room humor my boyfriend partakes in when his buddies are around._  
 __lone it__ To go somewhere or do something alone; to be by oneself. _No one else wanted to leave the party, so I had to lone it back home._  
-__long and hard__ :two: The phrase “long and hard” is an idiom that generally means something that requires a lot of time, effort, or energy to accomplish. It’s often used to describe a task or project that is difficult or challenging, but also requires patience and perseverance to complete. _I thought long and hard about it._  
+__long and hard__ :three: The phrase “long and hard” is an idiom that generally means something that requires a lot of time, effort, or energy to accomplish. It’s often used to describe a task or project that is difficult or challenging, but also requires patience and perseverance to complete. _I thought long and hard about it._  
 __long arm__ Broad, far-reaching power or influence. (Usually paired with a noun, as in “the long arm of the law.”) _The long arm of justice finally put the murderer in jail, where he belongs._  
 __long haul__ _We are ready to go long haul._  
 __long hours__ :four: A period of time doing something, especially work, that is longer than is usual or customary. _I’ll be working long hours in the restaurant the lead up to Christmas, but the tips and pay checks will be worth it._ _The long hours you’re putting in may not help._  
-__long in the tooth__ Old. Animals’ teeth, especially those of horses, are thought to be an indicator of age. As animals age, their gums recede, and their teeth look longer. _Our poor cat is so long in the tooth that he struggles just walking around the house these days._  
+__long in the tooth__ :two: Old. Animals’ teeth, especially those of horses, are thought to be an indicator of age. As animals age, their gums recede, and their teeth look longer. _Our poor cat is so long in the tooth that he struggles just walking around the house these days._  
 __long memory__ A clear memory of events that happened long ago. _I always have a long memory for people who disrespect me. Once you’re in my bad books, you’re there forever!_  
 __long overdue__  
+__long past due__ “Long past due” refers to something that is significantly overdue or late. It implies that a task, payment, or obligation should have been completed or met a long time ago and has not been addressed within the expected timeframe. :es: hace tiempo que se tendría que haber llevado a cabo  
 __long shot__ _Defense attorney Mickey Haller is back, taking the long shot cases._  
 __long since__ Long ago; of the (relatively) distant past. _I came back to my hometown after college, eager to reconnect with old friends, but they had long since moved away._  
 __long story short__ :five: An expression indicating that one is skipping extraneous or unnecessary details and getting to the point. _Anyway, long story short, I got expelled for writing graffiti on bathroom stalls._  
-__long time no see__ A phrase used when one encounters someone after having not seen them for a long period of time. _Hey, Al, long time no see! How have you been?_  
+__long time no see__ :four: A phrase used when one encounters someone after having not seen them for a long period of time. _Hey, Al, long time no see! How have you been?_  
 __long-run__ Involving, maturing after, or lasting for a long period of time. Used before a noun. _If you’re thinking of starting a savings account, it’s good to have some long-run goals for how much you want to put aside each month._  
 __long-winded__  
 __look (at something) through rose-colored glasses__ To assume a generally optimistic and cheerful attitude (toward something); to focus on the positive aspects (of something). Primarily heard in US. _I know nostalgia can be misleading, but I really look at my childhood through rose-colored glasses._  
@@ -3922,20 +3926,26 @@ __look for a dog to kick__ To seek out someone to blame or castigate, especially
 __look off__ In sports, especially American football, to mislead an opponent with one’s eyes as to one’s intentions in a given play. A noun or pronoun can be used between “look” and “off.” _Looking off the free safety, the quarterback made an incredible pass to his wide receiver down the center of the field._ _I looked the defender off and hucked it to the end zone._  
 __look on the sunny side (of life/things)__ To view one’s life, situation, or circumstances with a generally optimistic and cheerful attitude; to focus on what is positive in life. _Life’s too short to worry about every little detail; I say, just look on the sunny side and have a bit of fun!_  
 __look out for number one__ To put one’s own needs, concerns, or responsibilities before those of anyone else. _The only way you’re going to get ahead in this business is if you look out for number one._  
-__look up to (one)__ :dart: To admire or view one as a role model. _Of course I look up to you—you’re my big sister!_  
+__look the other way__  
+__look up to (one)__ :dart::two: To admire or view one as a role model. _Of course I look up to you—you’re my big sister!_ :es: admirar a alguien  
 __looking up__ Appearing as if improvement will begin or continue into the future. _Now that businesses have started returning, the country’s economy is finally looking up._  
+__looks like__  
 __loom large__ :dart::six: To seem imminent and cause worry or unease. _We all started working much faster once the deadline loomed large on the horizon._  
+__loony bin__ _slang_ A psychiatric hospital or insane asylum. From a glib adaptation of the word “lunatic,” the phrase is now considered tactless at best, extremely insulting at worst.  
+__loop the loop__ __1__ _n_ A flight maneuver in which an aircraft flies in a complete vertical circle. (Usually hyphenated.) _I loved going to air shows as a kid, and I always dreamed of doing loop-the-loops in an airplane when I grew up._ __2__ _v_ To fly an aircraft in a complete vertical circle. _I thought I was going to throw up when the pilot looped the loop with our little biplane._  
 __loopy__ _slang_ Feeling or showing the effects of taking drugs or alcohol. _I only had a couple glasses of wine with my lunch, but I was a bit loopy by the time we left the restaurant._  
-__loose cannon__ :two::hammer:  
+__loose cannon__ :three: Someone who has the propensity to act unpredictably or to lose their temper very quickly.  
 __loose change__ A small, usually insignificant amount of money, typically consisting of coins. _My wife and I put our loose change in a big jar at the end of the day._  
 __loose ends__ :two::hammer:  
 __loose lip(s)__ The practice, habit, or manner of speaking too frequently and/or without discretion, especially as might unintentionally lead to revealing private or sensitive information to others. _You’ve got a very loose lip, son. You’d do well to learn to keep it shut!_  
 __loose talk__ Uninhibited, indiscreet talk or conversation, especially as might unintentionally lead to revealing private or sensitive information to others. _The details of this project are extremely confidential, so there can’t be any loose talk about it whatsoever._  
-__loosey-goosey__ :two::hammer:  
+__loosen up__  
+__loosey-goosey__ :three::hammer:  
 __lose (one’s) bearings__ To lose sight of or become unable to determine one’s orientation, position, or abilities relative to one’s surroundings or situation. _I feel like I’ve been losing my bearings in life ever since I lost my job._  
 __lose (one’s) buttons__ To be or become mentally deficient, incompetent, or deranged; to become of unsound mind. _My poor grandmother started losing her buttons after she had a stroke on her 84th birthday._  
 __lose (one’s) faith (in something or someone)__ To stop believing (in someone or something); to become disillusioned, embittered, or doubtful (about something or someone). _The staff have started losing faith in John’s ability to manage the restaurant properly._  
 __lose (one’s) marbles__ (lose one’s mind) To be or become mentally deficient, incompetent, or deranged; to become of unsound mind. _My poor grandmother started losing her marbles after she had a stroke._  
+__lose (one’s) shit__  
 __lose (one’s) spirit__ To lose one’s vigor, energy, hope, or resolve; to become resigned or complacent. _The underdog team had a shot at winning the game early on, but they seem to have lost their spirit at this point._  
 __lose (one’s)/the way__ To become lost; to become unable to find the correct course forward. _I feel like I’ve been losing my way in life ever since I lost my job._  
 __lose count (of something)__ To fail to remember or keep an accurate tally of how many of something there is, often due to there being a great amount. _At this point, I’ve lost count of the number of times they’ve yelled at me!_  
@@ -3943,19 +3953,21 @@ __lose face__ :two: To lose prestige or respect.
 __lose it__ :three::hammer:  
 __lose no time (in) (doing something)__ To do something immediately or as expediently as possible. _Wow, Sarah lost no time finding a new boyfriend after she and Rob split up._  
 __lose out__ :two: __1__ To miss the chance or opportunity to do something. _Because I was so sick last week, I lost out on the chance to see my sister while she was in town._  
+__lose steam__ To begin to wane in energy, enthusiasm, or potency.  
 __lose to (someone or something)__ To be defeated by someone or something. What was lost can be stated between “lose” and “to.” _Samsung takes a big bet on AI after losing top spot to Apple._  
 __lose track of (someone or something)__  
 __lose your train of thought__ To forget what you were talking or thinking about.  
+__loss leader__ A product or service offered at or below cost in order to attract customers to a store in the hopes that they will then purchase other items.  
 __loss of face__ The state or circumstance of having lost the respect of other people, as due to having done something improper or unacceptable. _After my terrible loss of face in front of the in-laws, I knew I couldn’t return to their home for the foreseeable future._  
 __loss one’s marbles__ To be or become mentally deficient, incompetent, or deranged; to become of unsound mind. _They were losing their marbles._  
 __lost cause__  
-__lost for words__ (at a loss for words)  
+__lost for words__ :two::hammer: (at a loss for words)  
 __lost in the shuffle__  
 __lost in translation__ :two: Of a word or words, having lost or lacking the full subtlety of meaning or significance when translated from the original language to another, especially when done literally. (Usually formulated as “be/get lost in translation.”) _My friend tried explaining a few French idioms to me, but I’m afraid they were lost in translation._ _Evidence for preventing covid-19 is lost in translation._  
 __lost on (one)__ Unappreciated or not understood, as of an idea.  
 __lost on me__ _It is not lost on me._  
 __lot of give-and-take__  
-__loud and clear__  
+__loud and clear__ :three::hammer:  
 __love (someone) to the moon (and back)__  
 __love handles__ _slang_ An accumulation of fat around one’s midsection. _I need to go back to the gym and start working out again if I want to lose these love handles in time for the wedding._  
 __lovebirds__  
@@ -3973,38 +3985,44 @@ __Lucky 13__ “Lucky 13” in Elmore Leonard’s novels refers to the 13th Stre
 __lucky break__ :two: A very fortunate or beneficial chance or happenstance.  
 __lucky devil__ Someone who has just experienced particularly good fortune, generally of whom the speaker is envious to some degree. _You just won an all-expenses-paid trip to the Bahamas? You lucky devil!_  
 __lucky loser__ :two: A sports competitor (player or team) who loses a match in a knockout tournament or loses in qualifying, but who then enters the main draw, usually when another competitor withdraws during the tournament because of illness, injury, or other reasons.  
+__lucky monkey__ The concept of a “lucky monkey” is often associated with good fortune, playfulness, and positive energy.  
 __lug<sup>1</sup>__ _n_ In James Ellroy’s novels, “lug” is a term used to refer to a person, usually a man, who is tough, strong, and maybe a little slow-witted. It’s often used in a slightly derogatory way to describe someone who’s not very sophisticated or intelligent, but is still physically imposing and intimidating.  
 __lug<sup>2</sup>__ _v_ In James Ellroy’s novels, “lug” can also be used as a verb, and it means to carry or move something heavy or cumbersome with effort. It’s often used to describe a character physically dragging or hauling something, like a body or a heavy bag of evidence.  
 __lump in (one’s) throat__ :two::hammer:  
-__lust for life__ :two: Intense eagerness to experience all that life has to offer. _I don’t mind growing old, but I sometimes miss that boundless lust for life I had when I was younger._  
+__lunge at (someone or something)__ To leap toward someone or something, especially with the intent of grabbing, attacking, or striking them or it. _The criminal lunged at the police officer with a knife, but the cop was able to subdue him without difficulty._  
+__lurk__  
+__lush__ A person who drinks alcohol habitually or excessively; a drunkard.  
+__lust for life__ :three: Intense eagerness to experience all that life has to offer. _I don’t mind growing old, but I sometimes miss that boundless lust for life I had when I was younger._  
 __lust for power__ Intense, insatiable desire to attain power and control. _My brother’s lust for power in our company has created some deep and bitter divisions between him and the rest of the family._  
 __mad (at someone or something)__  
 __made of money__ To be very rich.  
 __made to order__ :three::hammer: _Everything on our menu is fresh, made from scratch, and made to order._  
 __MAGA__ An abbreviation for “Make America Great Again,” Donald Trump’s presidential campaign slogan. _President Trump is known to include #MAGA in his tweets._  
-__magic mushrooms__  
+__magic mushroom__ :two: _informal_ Any mushroom-like fungus that has psychedelic effects.  
 __magick thinking__  
 __magpie__  
 __mainline__ _n_ __2__ _slang_ An accessible vein that can be used to inject a narcotic.  
-__make (both) ends meet__ :two::hammer:  
+__make (both) ends meet__ :three::hammer:  
 __make (one’s) bones__  
 __make (one’s) day__ :two: To cause one to feel very happy; to be a very positive highlight of one’s day. _When my neighbors surprised me with homemade chocolate chip cookies, it really made my day._  
+__make (one’s) eyes pop (out)__  
 __make (one’s) mouth water__  
 __make (one’s) own way__ To advance or progress, especially through life, according to one’s own efforts, inclinations, or designs. _This country prides itself on letting people make their own way, relying on no one else’s work but their own._  
 __make (one’s) skin crawl__ To cause one to feel disgusted, frightened, or unnerved. _Having to look at all those surgical photos made my skin crawl._  
-__make (one’s)/the rounds__ :three::hammer:  
+__make (one’s)/the rounds__ :four::hammer:  
 __make (oneself or something) ready (for someone or something)__ To become or make something prepared for something or someone. _I don’t think I’ll have enough time to make myself ready for the gala this evening!_  
+__make (oneself) scarce__  
 __make (oneself) useful__ To do something that is actively helpful or of assistance to others. _You know, instead of just sitting there watching TV, you could make yourself useful and take out the garbage._  
 __make (perfect) sense__ _It makes perfect sense._  
 __make (someone’s) ears burn__ To make someone uncomfortable, embarrassed, or disconcerted by what is being said. Alludes to the ears growing red from blushing. _Listening to my aunts and uncles coo over me at my high school graduation really made my ears burn._  
-__make (something) clear (to one)__  
+__make (something) clear (to one)__ :three:hammer:  
 __make (something) up as (one) goes (along)__ To improvise continuously as one does something; to do something without formal guidelines, structure, rules, etc. _None of us really knew how to play the game, so we just made it up as we went along._  
 __make (the) baby Jesus cry__ To be offensive, immoral, unethical, in poor taste, etc., as might cause or provoke the displeasure or disapproval of Jesus Christ. _I try not to use vulgar language, as my mother told me at a young age that it makes baby Jesus cry._  
 __make a case for (something)__  
 __make a dent in (something)__ :four::hammer:  
 __make a difference__ :four::hammer:  
 __make a face__ To distort the features of the face; grimace.  
-__make a fool of himself__  
+__make a fool of (someone)__ :two::hammer: (make a fool of himself)  
 __make a fortune__  
 __make a fuss__ :four: To be a nuisance or cause a disturbance by complaining, arguing, etc. (about something).  
 __make a hole in (something)__ To take, use up, or deplete a large amount of money available in something, such as a budget, one’s wallet, etc. _The cost of repairing the car is really going to make a hole in our savings._  
@@ -4012,13 +4030,15 @@ __make a living out of something__
 __make a long arm for (something)__ To extend one’s arm fully toward something; to reach out for something. _Mary’s new boyfriend made a long arm for the bottle of wine at the end of the table, helping himself to another glass._  
 __make a mark__ To do something that makes one famous or successful; to do something that is very important or meaningful. _The actress first made a mark with her incredible performance as Lady Macbeth on Broadway._  
 __make a mint__ To earn a very large amount of money, especially by doing something very successfully. _We’ll make a mint if we can manage to secure a trading partner in China._  
-__make a run for (someone or something)__ :three: To run in order to escape something or to reach a destination quickly, perhaps before a certain time or before something happens. _Our taxi was late picking us up, so we’re going to have to make a run for the train when we get to the station!_  
+__make a pass at (one)__ :dart: To make sexual advances toward or propositions to one; to hit on one. _Do you think she was making a pass at me, or was she just being nice?_ :es: intentarse ligar a  
+__make a run for (someone or something)__ :five: To run in order to escape something or to reach a destination quickly, perhaps before a certain time or before something happens. _Our taxi was late picking us up, so we’re going to have to make a run for the train when we get to the station!_  
 __make a run for it__ To run in order to escape something or to reach a destination quickly, perhaps before a certain time or before something happens. _Our taxi was late picking us up, so we’re going to have to make a run for it when we get to the station._  
 __make a scene__ (create a scene) To create a loud, typically angry disturbance or display in public, such that it draws attention to those involved.  
 __make a sensation__  
 __make a splash__ :four::hammer:  
 __make a wide stride__ To make great and rapid progress or advancement. _The one-time political advisor has been making a wide stride toward absolute control of the country._  
 __make advances at (one)__ To approach one in a flirtatious, amorous, or sexual manner; to try or begin to seduce one. _Terry was fired after he began making advances at his secretary._  
+__make advances__ :dart:  
 __make amends__ :six: To provide restitution or attempt to reconcile or resolve the situation after a wrong one has done. _I’m not sure I can make amends for all the times I’ve let you down, but I want to try to be better for you._  
 __make an end of (something)__ To stop, cease, or conclude something. _I’m going to make an end of the corruption in this department once and for all!_  
 __make an impression__  
@@ -4028,13 +4048,14 @@ __make believe__ _The land of Make Believe [possibly a NJ park]._
 __make capital (out) of (something)__ To use something to one’s advantage or profit.  
 __make faces (at someone)__ To make distorted, silly, or humorous facial expressions (at someone), usually for one’s own or someone else’s amusement, or as a show of disgust.  
 __make fast work of (someone or something)__ __1__ To deal with, finish, or dispose of someone or something very quickly or handily. _We’ll make fast work of this project now that you’ve joined the team._ __2__ To consume something quickly. _I was so hungry that I made fast work of that steak._  
-__make game of (someone or something)__ To ridicule, mock, or tease someone or something; to make fun of someone or something. _I really don’t appreciate you making game of my disability like that._  
+__make game of (someone or something)__ :two: To ridicule, mock, or tease someone or something; to make fun of someone or something. _I really don’t appreciate you making game of my disability like that._  
 __make great strides__ :three::hammer:  
 __make ground__ To become more successful, popular, important, or accepted. _No one thought our fast food chain would do well in a country like India, but we’ve started making ground!_  
 __make headway__ :three: To make progress.  
 __make heavy going of (something)__ To make something harder or more laborious to do, especially more than is usual or necessary. _The Irish rugby squad made heavy going of what should have been a relatively easy win._  
 __make inroads (in/into something)__ :six::hammer: _At universities and research institutes, workstations made inroads._  
-‌__make it__  
+__make it__ :two::hammer: __1__ To be successful.  
+__make light of (something)__  
 __make light of__ _Squires and servants made light of him._  
 __make light work of someone__ If you make light work of an opponent, you defeat them easily. _The 2009 champion made light work of his opponent._ _Verstappen beat Hamilton by almost 14 seconds, making light work of Leclerc and Sainz, who started ahead of him at the front of the grid, as he triumphed for the 16th time in 2023._  
 __make like a banana and split__ _humorous slang_ To depart or leave, especially at once or in a hurry. (A pun on “to split,” a slang term meaning to leave or depart, and a “banana split,” an ice-cream-based dessert featuring a banana halved lengthwise.) _This carnival turned out to be really boring. Come on, let’s make like a banana and split!_  
@@ -4079,6 +4100,7 @@ __marry above (one’s) station__ To marry someone who is of a higher social cla
 __marry beneath (oneself)__ To marry someone who is of a lower social class or standing than oneself _Janet has a bright future with one of the best law firms in town, so it’s beyond me why she’s marrying beneath herself with some fast food worker._  
 __marry into money__ To become wealthy or financially secure by marrying someone who is wealthy or has a wealthy family. _Ever since he married into money, George has been flaunting all of the exotic vacations he and his new wife take._  
 __Mary Jane__ _slang_ :four: [:scroll: an Americanism for the Mexican Spanish _marihuana_ or _mariguana_, which is associated with the personal name María Juana] Marijuana. _Hey man, you know where we can score some Mary Jane around here?_  
+__Maslow’s hammer__ :dart: The inability to recognize other possible outcomes or solutions if one relies too much on a particular tool, method, or mindset. The term refers to 20th-century psychologist Abraham Maslow and his idea that “If all you have is a hammer, everything looks like a nail.” Also known as the “golden hammer,” and “the law of the instrument.”  
 __masquerade as (someone or something)__  
 __match made in heaven__ :two: A very happy marriage or partnership. _When Kelly and Julie partnered up and opened their restaurant, it was a match made in heaven._ _Cindy and Mark look so happy together. That’s a match made in heaven._  
 __match up__  
@@ -4095,6 +4117,7 @@ __measure up (to someone or something)__ :two::hammer:
 __meatball surgery__ Battlefield surgery that is performed hastily so as to quickly stabilize a patient and prevent imminent death. Popularized (and possibly coined) by H. Richard Hornberger in his semi-autobiographical novel _M\*A\*S\*H_, which focused on doctors serving in a fictional mobile army surgical hospital during the Korean War. Primarily heard in US. _At the height of the conflict, our surgeons were primarily concerned with meatball surgery, getting wounded soldiers patched up long enough to receive more specialized treatment down the line._  
 __media darling__ A very famous and popular person who receives exceptionally positive media coverage or attention. _Ever since the election season began, the presidential hopeful has become quite the liberal media darling._  
 __meet (someone’s) expectations__ To be as good as or have the qualities that someone predicted, expected, or hoped for. _We’d heard so many good things about the new restaurant, but the food didn’t meet our expectations at all._  
+__meet the eye__  
 __meet trouble halfway__ :dart: To worry, grow anxious, or distress oneself unnecessarily over something that has yet to happen. _You can’t go through life meeting trouble halfway, or you’ll end up paralyzed with indecision and anxiety._  
 __meet-and-greet__ A session where a celebrity, etc, is introduced to or questioned by members of the public or journalists.  
 __megillah__ /məˈgɪlə/ _n_ A long and complicated story.  
@@ -4119,9 +4142,10 @@ __microaggression__ An action that is deemed to be a subtle or indirect expressi
 __mid__ Mid is a slang term used to describe something or someone as mediocre or of low quality. _The first movie was good, but all the sequels are mid._  
 __middle ground__ :three: Something that people with differing opinions or views can agree upon; a compromise. _More and more, it seems like people of differing views are unwilling to attempt to find a middle ground._  
 __middlebrow__ [:scroll: Formed on the pattern of highbrow and lowbrow] Neither particularly intelligent and refined nor particularly uncultured or crude in style, content, or quality. _I used to pride myself on my refined tastes when I was in college, but they’ve become positively middlebrow since I settled down as an adult._  
+__Midwest nice__ _Midwest nice_ refers to the characteristic politeness, friendliness, and hospitality often associated with people from the Midwestern United States.  
 __mike drop__  
 __milk it__ :two: To take advantage of the help or kindness of others, as when one acts as if one still needs help after recovering from an illness. To try to get as much of something from someone else, especially sympathy, kindness, respect, etc.  
-__mill about__ :five: To loiter, wander about, or waste time idly (some place). _I’ll just mill about in the store across the street while you get your hair cut._  
+__mill about__ :six: To loiter, wander about, or waste time idly (some place). _I’ll just mill about in the store across the street while you get your hair cut._  
 __milquetoast__  
 __mince (one’s) words__  
 __mince no words__ :two: To speak in a very direct and honest way without worrying about offending someone. _She minces no words in stating her opinions._  
