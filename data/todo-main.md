@@ -540,56 +540,6 @@ __limerence__ _n_ The state of being obsessively infatuated with someone, usuall
 __limestone__  
 __liminal__ _adj_ :two: /LIM-uh-nul/ _Liminal_ is a formal word most often used to describe an intermediate state, phase, or condition. It can also describe something that is barely perceptible or barely capable of eliciting a response.  
 __limpid__ _adj_ /LIM-pid/ _Limpid_ describes things that are perfectly transparent or clear, or that are simple in style.  
-__linchpin__ _n_ :three::hammer: /ˈlɪntʃˌpɪn/ (lynchpin)  
-__lionhearted__ _adj_  
-__lip liner__ _n_ (lip liner)  
-__lipoma__ _n_ A benign tumor composed chiefly of fat cells.  
-__lipomatous__ _adj_ Relating to a lipoma. _Lipomatous metaplasia._  
-__listless__ _adj_ :dart::two: Marked by low spirits; showing no enthusiasm. _Syn_ dispirited  
-__literacy__ _n_ /ˈlɪt ər ə si/  
-__lithe__ _adj_ :two::hammer:  
-__litigation__ _n_  
-__Little Red Riding Hood__ _n_ A girl in a fairy tale who meets a wolf while going to visit her grandmother.  
-__littoral__ _adj, n_ :pencil2:  
-__livid__ _adj_ __3__ _informal_ Angry or furious.  
-__loan word__ _n_  
-__lock__ _n_ __1a__ A length or curl of hair; a tress. __b__ (often _locks_) The hair of the head.  
-__locus__ _n_  
-__lodestone__ _n_ (loadstone) /lōd′stōn′/ A piece of magnetite that has magnetic properties and attracts iron or steel. __2__ One that attracts strongly.  
-__lodge__ _v_ _He’s lodged a complaint against you._  
-__logodaedalus__ _n_ /log-uh-DEE-duh-luhs/ One skilled with words.  
-__lonely hearts__ _adj_ :dart::two: (often capitals) Ff or for people who wish to meet a congenial companion or marriage partner: _a lonely hearts advertisement._  
-__long-standing__ _adj_ (longstanding)  
-__looking-glass__ _n_ (dated) Mirror.  
-__lookout__ _n_ _Lookouts were posted._  
-__lope__ _vi_ __1__ To run with long steps. :es: andar/correr con paso largo :es: _to lope along_ andar a grandes zancadas, correr dando grandes zancadas  
-__lope<sup>1</sup>__ _vi_ __1__ (of a person) To move or run with a long swinging stride. __2__ (of four-legged animals) To run with a regular bounding movement.  
-__lope<sup>2</sup>__ _n_  
-__lore__ _n_ Accumulated facts, traditions, or beliefs about a particular subject. _Syn_ traditional knowledge  
-__loss aversion__ _n_  
-__Lothario__ _n_ (lothario)  
-__lounger__ _n_  
-__loup-garou__ _n_  
-__love seat__ _n_ (loveseat) A small sofa or double chair that seats two people.  
-__lovelorn__ _adj_ /ˈlʌvˌlɔːn/ Miserable because of unrequited love or unhappiness in love.  
-__low-end__ _adj_ Cheaper and, typically, of lower quality compared to the leading products or brands. Used before a noun. _Because he’s only willing to pay for low-end supplies, we’ve had nothing but problems with all our equipment._  
-__LSD__ _n_ (acid) _(Recreational Drugs)_ Lysergic acid diethylamide; a crystalline compound prepared from lysergic acid, used in experimental medicine and taken illegally as a hallucinogenic drug. Informal name (as an illegal hallucinogen): acid.  
-__lubricious__ _adj_ Characterized by lust. _Syn_ lustful, prurient, salacious  
-__lucid__ _adj_ /LOO-sid/  
-__lucrative__ _adj_ :two::hammer: /LOO-kruh-tiv/  
-__lucubration__ _n_  
-__luggable__ _n_ /ˈlʌɡəbəl/ (esp of computers) Portable, but with difficulty.  
-__lugubrious__ _adj_  
-__lumber<sup>1</sup>__ _n_  
-__lumber<sup>2</sup>__ _vt_  
-__lumber<sup>3</sup>__ _vi_ __1__ To move awkwardly.  
-__lumbering__ _adj_ __1__ Awkward in movement __2__ Moving with a rumbling sound.  
-__luminal__ _adj_  
-__lump sum__ _n_ A single sum of money that serves as complete payment.  
-__lump__ _v_  
-__lunchtime__ _n_ :pencil2:  
-__lurch__ _v_  
-__luxuriate__ _vi_ To take luxurious pleasure; indulge oneself.  
 __lycanthrope__ _n_  
 __macabre__ _adj_  
 __macaronic__ _adj_ :astonished: __1__ Characterized by Latin words mixed with non-Latin words often given Latin endings. __2__ Composed of a mixture of languages.  

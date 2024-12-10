@@ -11139,7 +11139,7 @@ __limpet__ _n_ _He had fixed a homing limpet to the snowmobile._ :es: lapa
 __limpid__ _adj_  
 __limpidity__ _n_ _The frigid blue limpidity of the sky._  
 __limply__ _adv_  
-__linchpin__ _n_ :eight: A central cohesive source of support and stability. _Syn_ backbone, keystone, mainstay, anchor _Reduced spending is the linchpin of their economic program._  
+__linchpin__ _n_ :nine::m: /ˈlɪntʃˌpɪn/ (lynchpin) A central cohesive source of support and stability. _Syn_ backbone, keystone, mainstay, anchor _Reduced spending is the linchpin of their economic program._  
 __line up__ _v_ :three::hammer: _Huge crowds are lining up._  
 __line__ _v_ :two::hammer: _The tank was lined to keep it from rusting out._ _The steel-lined tank stored 20,000 gallons of diesel fuel._  
 __line-up__ _n_ _From time to time it is necessary to change (TV) channel line-ups._  
@@ -11158,13 +11158,16 @@ __lining__ _n_ :two::hammer: _My stomach lining._
 __links__ _n_ :two: __1__ A golf course. _The links course._  
 __lint__ _n_ :three::hammer: _He had this gift for attaching himself to Jimmy like lint._ _Methods to prevent lint fires in your dryer._ _With lint in his navel._  
 __lintel__ _n_ :four::hammer: _Stone lintels._ :es: dintel  
-__lionhearted__ _adj_ :two::hammer:  
+__lionhearted__ _adj_ :three::hammer:  
 __lionize__ _v_ :three: /LYE-uh-nyze/ To lionize someone is to treat them as a person of great interest or importance. To look on or treat (a person) as a celebrity. _Syn_ celebrate _She lionized her older brother and was always proud to be seen with him._  
+__lip liner__ _n_ (lip liner)  
 __lip out__ _vi_ _golf_ (of a ball) To reach the edge of the hole and spin away without dropping in.  
 __lip service__ _n_ :three::dart: Insincere profession of friendship, admiration, support, etc.; service by words only. _We often only pay lip service._  
 __lip-smacking__ _adj_ (of food or drink) Tasty displaying or expressing enjoyment or pleasure, esp at the taste of food or drink.  
 __lip-worshiper__ _n_  
 __lipography__ _n_ /li-POG-ruh-fee, ly-/ [:scroll: From Greek lipo- (lacking) + -graphy (writing)] The omission of a letter or syllable in writing.  
+__lipoma__ _n_ A benign tumor composed chiefly of fat cells.  
+__lipomatous__ _adj_ Relating to a lipoma. _Lipomatous metaplasia._  
 __lipped__ _v_  
 __lippy__ _adj_ :two: __1__ Speaking or responding in a rude or disrespectful way.  
 __lipsalve__ _n_ (lip salve) An ointment which comes in a stick or small tub and which is applied to the lips to soothe dryness, chapping, etc.  
@@ -11184,33 +11187,34 @@ __listening session__
 __Listerine__ _n_  
 __listicle__ _n_ :two: /LIS-ti-kuhl/ An article or other piece of writing structured in the form of a list. The word is a portmanteau of “list” and “article.”  
 __listing__ _n_ :five::hammer: _One current listing is a $30 million property._ _Consider the code in Listing 3-1._ _Lodging listings._  
-__listless__ _adj_ :dart::five::hammer: :es: lánguido; apático, indiferente  
+__listless__ _adj_ :dart::seven: Marked by low spirits; showing no enthusiasm. _Syn_ dispirited :es: lánguido; apático, indiferente  
 __listlessly__  
 __listserv__ _n_ A piece of software that automatically sends a copy of every e-mail received to all members of a group.  
 __lit crit__ _n_ _informal_ Literary criticism.  
 __lit__ _n_ __3__ _informal_ Literature, especially as an academic subject: _enjoyed my course in French lit._  
 __litany__ _n_ :nine::m::mega: /LIT-uh-nee/ __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
-__literacy__  
+__literacy__ _n_ :two::hammer: /ˈlɪt ər ə si/  
 __literate<sup>1</sup>__ _adj_ :two: __1b__ Knowledgeable or educated in a particular field or fields.  
 __literate<sup>2</sup>__ _n_ :two::hammer:  
-__lithe__ _adj_ :six::hammer: _A lithe cat._  
+__lithe__ _adj_ :eight::hammer: _A lithe cat._  
 __lithotripsy__ _n_ :three: A medical procedure involving the physical destruction of hardened masses like kidney stones, bezoars or gallstones. The term is derived from the Greek words meaning “breaking stones.”  
 __lithotripter__ _n_  
-__litigation__  
+__litigation__ _n_ :two::hammer:  
 __litigator__ _n_ :two::hammer:  
 __litmus test__ _n_  
 __litter__ _n_ :three::camera::pencil2: __4__ An enclosed or curtained couch mounted on shafts and used to carry a single passenger.  
 __litterbug__ _n_ _informal_ One who litters public areas with trash.  
 __Little Boy__ _n_  
-__littoral<sup>1</sup>__ _adj_ :two: /LIT-uhr-uhl/ Relating to or situated at the shore.  
-__littoral<sup>2</sup>__ _n_ :two: A shore, especially the area between high tide and low tide levels.  
+__Little Red Riding Hood__ _n_ A girl in a fairy tale who meets a wolf while going to visit her grandmother.  
+__littoral<sup>1</sup>__ _adj_ :three::pencil2: /LIT-uhr-uhl/ Relating to or situated at the shore.  
+__littoral<sup>2</sup>__ _n_ :three::pencil2: A shore, especially the area between high tide and low tide levels.  
 __live wire__  
 __livelihood__ _n_ :dart::five: (livelihoods) Occupation or employment.  
 __liverwurst__  
 __livery driver__  
 __livery__ _n_ :three::astonished: (liveries) __1__ The identifying uniform, badge, etc, of a member of a guild or one of the servants of a feudal lord. __4a__ The boarding and care of horses for a fee. _Six servants in livery._  
 __livestock__ _n_  
-__livid__ _adj_ :three::astonished: /LIV-id/ Livid means “very angry, enraged, or furious.” _The child’s parents were livid when they discovered she had lied about her whereabouts._  
+__livid__ _adj_ :dart::four::astonished: /LIV-id/ __3__ _informal_ Angry or furious. Livid means “very angry, enraged, or furious.” _The child’s parents were livid when they discovered she had lied about her whereabouts._  
 __living quarters__ _n_ _Precatious makeshoft living quarters._  
 __living room__ _n_  
 __living space__  
@@ -11224,6 +11228,7 @@ __loadmouth__ _n_
 __loaf<sup>1</sup>__ _n_ :two::hammer: (loaves) _You sell bread for $4 a loaf. Today, you sold 90 loaves for $360 in revenue._  
 __loaf<sup>2</sup>__ _v_ :two: (loafed) To pass time at leisure; idle.  
 __loafer__ _n_ :three: (loafers) One who is habitually idle. _Disliked loafers on the job._  
+__loan word__ _n_  
 __loan__ _n_ :two::hammer: (loans)  
 __loanword__ _n_ :three: A word taken from another language and at least partly naturalized.  
 __loath__ _adj_ :two: Very unwilling to do something.  
@@ -11236,7 +11241,8 @@ __locale__ _n_ :three::hammer: _We want to recruit nationally, but in our locale
 __locavore__ _n_ One who mainly eats locally produced food, especially within a specified radius of one’s home.  
 __loch__ _n_  
 __lock horns__  
-__lock__ _v_  
+__lock<sup>1</sup>__ _n_ __1a__ A length or curl of hair; a tress. __b__ (often _locks_) The hair of the head.  
+__lock<sup>2</sup>__ _v_  
 __lockdown__ _n_ :three::hammer: _Paris remained in a state of lockdown._ _The school was under lockdown for about two hours after the episode._  
 __locker-room__ _n_ (locker room)  
 __locking pliers__ _n_ :camera: _(used with a sing. or pl. v.)_ Pliers that can be locked in place. Pliers whose jaws are connected at a sliding pivot, permitting them to be temporarily locked in a fixed position. _Syn_ mole grips, mole wrench. :es: alicates de presión  
@@ -11249,14 +11255,14 @@ __lockstep<sup>2</sup>__ _adj_
 __locomote__ _v_ To move from one place to another. _Syn_ go, travel _Unlike most other fish, seahorses maintain an upright position when they locomote._  
 __locomotive__ _n_  
 __locum__ _n_ Someone (physician or clergyman) who substitutes temporarily for another member of the same profession.  
-__locus__ _n_ :three: __2__ A center or source, as of activities or power: _locus of control._  
+__locus__ _n_ :four: __2__ A center or source, as of activities or power: _locus of control._  
 __locust__ _n_ :five::hammer: (locusts)  
 __locution__ _n_  
 __lode__ _n_ :two::hammer:  
 __lodestar__ _n_ (loadstar) __1__ A star, such as Polaris, that is used as a point of navigational reference. __2__ A principle, interest, or person that serves as a guide. _The new arts district became a lodestar for the city’s bright future._  
-__lodestone__ _n_ :two: [:scroll: from Middle English _lode_ (way) + stone (from its use by sailors to show the way)] __1__ A piece of magnetite that has magnetic properties and attracts iron or steel. __2__ One that attracts strongly.  
+__lodestone__ _n_ :three: (loadstone) /lōd′stōn′/ [:scroll: from Middle English _lode_ (way) + stone (from its use by sailors to show the way)] __1__ A piece of magnetite that has magnetic properties and attracts iron or steel. __2__ One that attracts strongly.  
 __lodge<sup>1</sup>__ _n_ :three::hammer: _Sit on the lodge’s back patio._ _Fishing lodges._  
-__lodge<sup>2</sup>__ _v_ :two::hammer: (lodged) _The cardinal rented 51 houses to lodge all his retainers._ _He lodged his will with a lawyer in Rome._  
+__lodge<sup>2</sup>__ _v_ :three::hammer: (lodged) _The cardinal rented 51 houses to lodge all his retainers._ _He lodged his will with a lawyer in Rome._ _He’s lodged a complaint against you._  
 __lodging__ _n_ :three::hammer: (lodgings)  
 __loft__ _v_ :two::hammer: (lofted) _The men lofted the shields over their heads._  
 __loftily__  
@@ -11265,6 +11271,7 @@ __logfile__ _n_
 __loggerhead__ _n_ :four: A stupid person; these words are used to express a low opinion of someone’s intelligence. __1__ A thick-headed or stupid person; blockhead.  
 __logjam__ _n_  
 __logodaedalist__ _n_ /log-uh-DEE-duh-list/ One skilled in using or coining words.  
+__logodaedalus__ _n_ /log-uh-DEE-duh-luhs/ One skilled with words.  
 __logomachist__  
 __logomachy__ _n_  
 __logorrhea__ _n_  
@@ -11278,7 +11285,7 @@ __lollipop__ _n_ (lollypop)
 __lollygag__ _vi_ :three: _informal_ To waste time by puttering aimlessly; dawdle. To fool around and waste time. _Syn_ dawdle _Stop lollygagging and get to work._ _The player was kicked off the team for lollygagging during practice._  
 __London__ _n_ :mega: /ˈlʌndən/  
 __lone wolf__ _n_ _They are lone wolf attacks._  
-__lonely-hearts__ _adj_ Of or for people seeking counseling or companionship to bring love or romance into their lives.  
+__lonely hearts__ _adj_ :dart::two: (often capitals) Of or for people seeking counseling or companionship to bring love or romance into their lives. Of or for people who wish to meet a congenial companion or marriage partner: _a lonely hearts advertisement._  
 __loner__ _n_ :two: Someone who likes being alone.  
 __long haul__ _n_ _She’s in for the long haul._  
 __long shot__  
@@ -11288,6 +11295,7 @@ __long-drawn-out__ _adj_ Lasting a very long time; protracted; drawn-out: _a lon
 __long-haul__ _adj_ _Researchers examined a small group of long-haul COVID-19 patients._  
 __long-hauler__ _n_ A long-hauler is a person who suffers from symptoms of COVID-19 for longer than two weeks, and generally for several months. The experience of such persistent symptoms of COVID-19 are sometimes referred to as long COVID.  
 __long-lasting__ _adj_  
+__long-standing__ _adj_ (longstanding)  
 __longan__ _n_ __1__ The small, one-seeded, greenish brown fruit of a large evergreen tree, Euphoria longana, of the soapberry family, native to China and related to the litchi. __2__ The tree itself.  
 __longanimity__ _n_ A disposition to bear injuries patiently. _Syn_ forbearance _The fans continue to show their longanimity by coming back year after year to cheer on the perpetually losing team._  
 __longboat__ _n_ A large oared boat usually carried by a merchant sailing ship. A long low boat, used especially in the past for traveling on the ocean. _A Viking longboat._  
@@ -11305,8 +11313,8 @@ __look out__ _v_ :two::hammer: _Look out for those beauties._
 __look up__ _phr v_ _Look up to your belongings._  
 __lookalike__ _n_ One that closely resembles another; a double. _These lookalike domains are used for scams._  
 __looker__ _n_ :three::hammer:  
-__looking glass__ _n_  
-__lookout__ _n_  
+__looking-glass__ _n_ :two: (dated) Mirror.  
+__lookout__ _n_ :two::hammer: _Lookouts were posted._  
 __lookup__ _n_ :two::hammer:  
 __loony bin__ _n_ _often offensive_ _slang_ An institution for the mentally ill. _The Count’s plot to drive her straight to the loony bin._  
 __loony__ _adj_ :three::hammer: _Every family includes someone who’s a little loony._  
@@ -11324,43 +11332,48 @@ __Loot__
 __loot__ _v_ :two::hammer:  
 __looting__ _n_ /ˈluːtɪŋ/ Stealing from shops or houses during a war or riot.  
 __lop off__ _v_ _The bastard started lopping off the prisoners’ heads._  
-__lope__ _v_  
+__lope<sup>1</sup>__ _vi_ :three: __1__ (of a person) To move or run with a long swinging stride. To run with long steps. :es: andar/correr con paso largo :es: _to lope along_ andar a grandes zancadas, correr dando grandes zancadas __2__ (of four-legged animals) To run with a regular bounding movement.  
+__lope<sup>2</sup>__ _n_  
 __loped__ _v_  
 __lopsided__ _adj_ :six: __1__ Heavier, larger, or higher on one side than on the other. __2__ Sagging or leaning to one side. __3__ Characterized by the domination of one competitor over another. _A lopsided 100-38 victory._ _Lopsided losses._  
 __loquacious__ _adj_ :three::astonished: /loh-KWAY-shus/ Very talkative; garrulous. _Syn_ chatty, gabby, garrulous, talkative, talky _The loquacious woman was often mocked by neighborhood children for her incessant talking._  
 __loquat__ _n_  
 __lordship__ _n_ :es: señoría  
-__lore__ _n_ :nine::m: A body of traditions and knowledge on a subject or held by a particular group, typically passed from person to person by word of mouth. _Crazy folk lore._ :es: saber popular  
+__lore__ _n_ :nine::m: A body of traditions and knowledge on a subject or held by a particular group, typically passed from person to person by word of mouth. Accumulated facts, traditions, or beliefs about a particular subject. _Syn_ traditional knowledge _Crazy folk lore._ :es: saber popular  
 __lorgnettte__ _n_ A pair of eyeglasses or opera glasses with a short handle.  
 __Los Angelino__  
 __lose control__ _v_ Lose one’s nerve.  
+__loss aversion__ _n_  
 __loss__ _n_  
 __lost and found__ _n_  
 __lost count__ _v_ Simple past tense and past participle of lose count.  
 __lot__ _n_ :two::hammer: _Every choice of lot is imaginable._  
-__Lothario__ _n_ _The second verse of_ You’re So Vain _is about one-time Hollywood Lothario Warren Beatty._  
+__Lothario__ _n_ :two::hammer: (lothario) _The second verse of_ You’re So Vain _is about one-time Hollywood Lothario Warren Beatty._  
 __lotto scratcher__ _n_  
 __lotto__ _n_ Lottery.  
 __louche__ _adj_ Of questionable taste or morality. _Syn_ shady _It did not surprise me that the owner of that louche nightclub downtown was arrested for selling illegal drugs to the patrons._  
 __loudmouth__ _n_ :two::hammer: _informal_ _I was a loudmouth._ _He is a loudmouth, but there is nothing personal._ :es: bocazas  
 __Louisiana Purchase__ _n_ Territory in the western United States purchased from France in 1803 for $15 million; extends from the Mississippi River to the Rocky Mountains and from the Gulf of Mexico to Canada.  
 __Louisville, Kentucky__ _n_ :mega: [Common popular pronunciation: /loo-is-vil/ among others. Prevailing local pronunciations: /loo-ee-vil, loo–uh-vuhl/ :scroll: The “Louis” that gave his name to Louisville was King Louis XVI of France. The city was named after the French king out of appreciation for his support of the Americans during the American Revolution.]  
-__loup-garou__ _n_ A monster able to change appearance from human to wolf and back again. _Syn_ lycanthrope, werewolf, wolfman  
+__lounger__ _n_  
+__loup-garou__ _n_ :two: A monster able to change appearance from human to wolf and back again. _Syn_ lycanthrope, werewolf, wolfman  
 __louse__ _n_ :two::hammer: :es: piojo  
 __lousy__ _adj_ :three::hammer: _A lousy trip._ _Lousy advice._  
 __lout__ _n_ :six: /LOUT/ A lout is a person who is both awkward and brutish. A clumsy, boorish person; oaf. _To get away from the obnoxious louts they’d been seated near, Jared and Fiona asked the waiter if they could be moved to another table._  
 __louver__ _n_ :four::camera: One of a set of parallel slats in a door or window to admit air and reject rain. _Louver shutters._ _Louver window._ _Double-wall louver baffles._  
 __lovacore__  
 __love bombing__ _n_ /luhv __bom__-ing/ The practice of showing a person excessive affection and attention as a way of manipulating them in a relationship. A technique used in cult recruiting, in which membership in the cult is intimately linked to love and attachment which engender complete loyalty to the cause.  
+__love seat__ _n_ (loveseat) A small sofa or double chair that seats two people.  
 __love-in__  
 __lovebird__ _n_ __2__ (lovebirds) _informal_ A couple who are openly affectionate or demonstrative with each other, especially in public.  
-__lovelorn__ _adj_ Sad because of an unrequited love.  
+__lovelorn__ _adj_ :two: /ˈlʌvˌlɔːn/ Miserable because of unrequited love or unhappiness in love. Sad because of an unrequited love.  
 __lovesick__ _adj_  
 __lovesome__ _adj_  
 __low and slow__ _n_ Low and slow is a term used when discussing food cooked over a fairly long period of time at a low temperature, often used in grilling or barbecuing that involves smoking meat.  
 __Low Countries__ _n_ :three::hammer:  
 __Low Mass__ _n_ A Mass of simple ceremony that was recited rather than sung by the priest. No longer in official use. _He celebrated high mass in his chapel and low mass afterward in his private oratory._  
 __low profile__ _n_ Behavior or activity carried out with deliberate restraint or modesty so as not to attract attention: _keep a low profile._  
+__low-end__ _adj_ Cheaper and, typically, of lower quality compared to the leading products or brands. Used before a noun. _Because he’s only willing to pay for low-end supplies, we’ve had nothing but problems with all our equipment._  
 __low-key__ _adj_ :six::hammer: (low key) _A low-key peddler._  
 __low-res__ _adj_ _informal_ Low-resolution.  
 __low-slung__ _adj_ _Low-slung school._  
@@ -11377,16 +11390,17 @@ __lowlight__ _n_ :two::hammer:
 __lowly__ _adj_ :four::hammer: _A lowly subsection of the Ministry of Interior._ _The lowly news reporter._ _He was a lowly graduate student._  
 __lox__ _n_ _(Cookery)_ A kind of smoked salmon.  
 __lozenge__ _n_ :two: Medicine shaped like a sweet that you suck if you have a cough or sore throat.  
-__LSD__ _n_ Lysergic acid diethylamide. Also called _acid_.  
-__lucid__ _adj_ :three: /LOO-sid/ Mentally sound; sane or rational. Expressed clearly; easily understood; comprehensible; rational or sane. _Syn_ coherent, logical _He’s a muddled fool, full of lucid intervals._  
+__LSD__ _n_ (acid) :two: _(Recreational Drugs)_ Lysergic acid diethylamide; a crystalline compound prepared from lysergic acid, used in experimental medicine and taken illegally as a hallucinogenic drug. Informal name (as an illegal hallucinogen): acid.  
+__lubricious__ _adj_ Characterized by lust. _Syn_ lustful, prurient, salacious  
+__lucid__ _adj_ :four: /LOO-sid/ Mentally sound; sane or rational. Expressed clearly; easily understood; comprehensible; rational or sane. _Syn_ coherent, logical _He’s a muddled fool, full of lucid intervals._  
 __lucida__ _n_ The brightest star in a constellation: _Rigel is the lucida of the constellation Orion._  
 __lucifer match__  
 __Lucite__ _n_ A trademark for a thermoplastic acrylic resin used as a substitute for glass and in paints and enamels.  
 __luck__ _vi_ To gain success or something desirable by chance: _lucked into a good apartment._  
 __lucky charm__  
 __lucky day__ _n_ A day when something good happens to someone. _This is your lucky day—there’s one ticket left._  
-__lucrative__ _adj_ :two: /ˈluːkrətɪv/ Producing a profit; profitable; remunerative: _a lucrative income; a lucrative marketing strategy._  
-__lucubration__ _n_  
+__lucrative__ _adj_ :four: /ˈluːkrətɪv/ /LOO-kruh-tiv/ Producing a profit; profitable; remunerative: _a lucrative income; a lucrative marketing strategy._  
+__lucubration__ _n_ :two::hammer:  
 __luculent__ _adj_ _(of language)_ Transparently clear; easily understandable. _A luculent oration._ _Syn_ lucid, perspicuous, pellucid, crystal clear, limpid  
 __Luddite__ _n_ _slang_ :four: /LUH-dyte/ Luddite refers to someone who is opposed to change, and especially to technological change. One who fears technology (or new technology, as they seem pleased with how things currently are) _Call me a Luddite, but I enjoy the sense of privacy that comes with not owning a smartphone._  
 __ludicrous__ _adj_ :pencil2::nine::m: /ˈlu dɪ krəs/ /LOO-di-kruhs/ So absurd as to provoke laughter. Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say “That’s ludicrous!” :es: ridículo  
@@ -11396,16 +11410,21 @@ __lug wrench__ _n_ :two::hammer:
 __lug__ _v_ :nine: (lugs, lugging) __1__ To carry or drag (something heavy) with great effort. _A passenger lugs an injured swan onto the train._ _The assistant was lugging two heavy suitcases._ __2__ _vt_ To introduce (an irrelevant topic) into a conversation or discussion. __3__ (Nautical Terms) _vt_ (of a sailing vessel) To carry too much (sail) for the amount of wind blowing.  
 __luge__ _n_ :two::hammer: _Olimpic luge team._  
 __luger__ _n_ _Team USA’s best lugers._  
-__lugubrious__ _adj_ :three: Lugubrious means “mournful” or “dismal.” It can also mean “very sad in an exaggerated or insincere way.” Excessively mournful; doleful. Mournful, dismal, or gloomy, especially to an exaggerated or ludicrous degree. _Syn_ dreary, woeful, morose, funereal, doleful _He was so lugubrious that he could find melancholy in a child’s birthday party._ _The lugubrious musical passages made audience members teary-eyed._ _The actor is well-known for her lugubrious facial expressions and mannerisms._  
+__luggable__ _n_ /ˈlʌɡəbəl/ (esp of computers) Portable, but with difficulty.  
+__lugubrious__ _adj_ :four: Lugubrious means “mournful” or “dismal.” It can also mean “very sad in an exaggerated or insincere way.” Excessively mournful; doleful. Mournful, dismal, or gloomy, especially to an exaggerated or ludicrous degree. _Syn_ dreary, woeful, morose, funereal, doleful _He was so lugubrious that he could find melancholy in a child’s birthday party._ _The lugubrious musical passages made audience members teary-eyed._ _The actor is well-known for her lugubrious facial expressions and mannerisms._  
 __lull<sup>1</sup>__ _n_ :five::hammer: /lʌl/ (lulls) _Save meetings for the lulls._  
 __lull<sup>2</sup>__ _v_ :six::hammer: /lʌl/ (lulled) _Camping under the stars with the sound of the river lulling you to sleep is hard to beat._  
-__lumber<sup>1</sup>__ _v_ :four::hammer: (lumbering) _Two elephants lumber out of the bush to drink._  
-__lumber<sup>2</sup>__ _n_ :three::hammer: _The lumber mill._ _A shopper checks out with her lumber._ _Lumber & home improvement._  
+__lumber<sup>1</sup>__ _n_ :four::hammer: _The lumber mill._ _A shopper checks out with her lumber._ _Lumber & home improvement._  
+__lumber<sup>2</sup>__ _vt_ :four::hammer: (lumbering) _Two elephants lumber out of the bush to drink._  
+__lumber<sup>3</sup>__ _vi_ __1__ To move awkwardly.  
+__lumbering__ _adj_ __1__ Awkward in movement __2__ Moving with a rumbling sound.  
 __lumberjack__ _n_ :five::hammer:  
+__luminal__ _adj_  
 __luminaria__ _n_ :two: A traditional Mexican Christmas lantern originally consisting of a candle set in sand inside a paper bag.  
 __luminary__ _n_ :seven: A person who is an inspiration to others. _Syn_ notable, guiding light, leading light, notability _He is considered a luminary in his field, due to the groundbreaking research he has published._ _The luminary Charles Darwin._ _Hollywood luminaries._  
 __lummox__ _n informal_ A clumsy or stupid person.  
-__lump sum__ _n_ A single sum of money that serves as complete payment.  
+__lump sum__ _n_ :two: A single sum of money that serves as complete payment.  
+__lump__ _v_  
 __lump<sup>1</sup>__ _n_ :two: __1__ A compact mass. __2__ An abnormal protuberance or localized enlargement. __3__ A large piece of something without definite shape. _A lump sum for a report._  
 __lump<sup>2</sup>__ _v_ __1__ Put together indiscriminately. __2__ Group or chunk together in a certain order or place side by side.  
 __lumpy__ _adj_ :two::hammer: _Lumpy headlights._  
@@ -11417,14 +11436,14 @@ __lunch meats__ _n pl_ (cold cuts, luncheon meats, cooked meats, sliced meats, c
 __lunch room__ _n_  
 __luncheon__ _n_ :nine::m: Lunch, especially a formal lunch for a lot of people.  
 __lunchpail__  
-__lunchtime__  
+__lunchtime__ _n_ :two::hammer::pencil2:  
 __lunge<sup>1</sup>__ _v_ :seven::hammer: (lunges, lunged, lunging) _A bull lunges into the pen._ _A police dog lunging at a child._ _The dog snarled and lunged._  
 __lunge<sup>2</sup>__ _n_ :three::hammer: _A reckless lunge at Gerrard._ _An amputee did lunges with Mr. Obama._  
 __lunisolar__ _adj_  
 __lupine<sup>1</sup>__ _n_ :two: (lupin) :es: altramuz  
 __lupine<sup>2</sup>__ _adj_ __1__ Characteristic of or resembling a wolf. __2__ Rapacious; ravenous.  
 __lupus__  
-__lurch<sup>1</sup>__ _v_ :nine::m: (lurched, lurching) __1__ Walk as if unable to control one’s movements. _Syn_ careen, keel, reel, stagger, swag __1__ (of a ship) To roll or pitch suddenly. Move abruptly. _The ship suddenly lurched to the left._ _Syn_ pitch, shift _We lurched around a bend._ _The cart rumbled and lurched._ __5__ To stagger or sway. _The clock was lurching and stopping._  
+__lurch<sup>1</sup>__ _v_ :nine::m: __1__ Walk as if unable to control one’s movements. _Syn_ careen, keel, reel, stagger, swag __1__ (of a ship) To roll or pitch suddenly. Move abruptly. _The ship suddenly lurched to the left._ _Syn_ pitch, shift _We lurched around a bend._ _The cart rumbled and lurched._ __5__ To stagger or sway. _The clock was lurching and stopping._  
 __lurch<sup>2</sup>__ _n_  
 __lure<sup>1</sup>__ _n_ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond’s surface._  
 __lure<sup>2</sup>__ _v_ (lured)  
@@ -11443,7 +11462,7 @@ __lustrum__ _n_ :three: Five years.
 __luxe<sup>1</sup>__ _n_  
 __luxe<sup>2</sup>__ _adj_ _People were accustomed to creating luxe interiors._  
 __luxuriant__ _adj_ Produced or growing in extreme abundance. _Syn_ lush, profuse, riotous, exuberant _The rivulet was hidden by the luxuriant vegetation of the banks save at one point, where I caught a triangular patch of its glittering water._  
-__luxuriate__ _v_ :two::hammer: _Luxuriate and pamper yourself._  
+__luxuriate__ _vi_ :three: To take luxurious pleasure; indulge oneself. _Luxuriate and pamper yourself._  
 __luxurious__ _adj_ _Luxurious furs._  
 __lycanthrope__ _n_ A monster able to change appearance from human to wolf. _Syn_ werewolf, wolfman, loup-garou  
 __lycanthropy__ _n_ /lye-KAN-thruh-pee/ Lycanthropy refers to the power or ability to take the shape and characteristics of a wolf through witchcraft or magic. It can also mean “a delusion that one has become a wolf.” _The 1941 film _The Wolf Man_ starred Lon Chaney, Jr., as a man cursed with lycanthropy._  
