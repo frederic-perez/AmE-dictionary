@@ -2198,17 +2198,19 @@ __for a living__ In order to earn one’s primary income. _Roy runs a deli for a
 __for a song__ For a very (and perhaps surprisingly) low price. _Wow, I can’t believe they let so many things at their yard sale go for a song. I would have marked up the prices a bit._  
 __for all intends and purposes__ :three::hammer:  
 __for all seasons__ :two: __1__ Suitable in or appropriate for every kind of weather. _A coat for all seasons._ __2__ Adaptable to any circumstance. _A singer for all seasons._  
-__for better or (for) worse__ :nine::m: Under good or bad circumstances, with good or bad effect. Whether something is good or bad.  
+__for better or worse__ :nine::m: (for better or (for) worse) Under good or bad circumstances, with good or bad effect. Whether something is good or bad.  
 __for certain__ Definitely.  
 __for Chrissake__ An exclamation of shock, annoyance, frustration, or anger (an informal pronunciation of “for Christ’s sake”) _Would you let me finish my story, for Chrissake?_  
-__for crying out loud__ :four: A expression of frustration or surprise.  
+__for crying out loud__ :five: A expression of frustration or surprise.  
 __for days on end__ :eight: (for hours on end; for weeks on end; for years on end) For a long time, specifically many days.  
+__for each and every (something)__ The phrase “for each and every (something)” is an emphatic expression used to emphasize the inclusivity or thoroughness of a statement. It means that every single item or individual within a specified group is being considered or affected. The repetition of “each” and “every” serves to reinforce the idea that no exceptions are made.  
+__for good measure__  
 __for good reason__ :two::hammer:  
-__for good__ :five::hammer: __1__ Permanently; indefinitely; forever. _Leadville’s only hospital is preparing to close for good in March._ _The magazine was gone for good._ _She left him for good this time._  
+__for good__ :seven::hammer: __1__ Permanently; indefinitely; forever. _Leadville’s only hospital is preparing to close for good in March._ _The magazine was gone for good._ _She left him for good this time._  
 __for hours on end__ For a long time, specifically many hours. _When do you think the doctor will call with my test results? I’ve been waiting for hours on end._  
 __for its own sake__  
 __for keeps__ :three: __1__ For a very long period of time, possibly forever. _I’m sorry, but you’re stuck with me. As my husband, you have me for keeps._ __2__ For one to maintain or take ownership of. _I would have returned the mug to you sooner, but I thought you gave it to me for keeps._ __3__ With determination to do or complete something. _This is it, girls, the last game of the season. So go out there and play for keeps._  
-__for kicks__ :two: Only for the sake of fun, excitement, or distraction.  
+__for kicks__ :four: (just for kicks) Only for the sake of fun, excitement, or distraction.  
 __for lack of a better word__  
 __for no good reason__ With no acceptable explanation. _She left for no good reason._  
 __for one__ :four: As one example or reason (out of several potential ones). Often used after a name or personal pronoun to count someone or oneself as an example of something. _Why don’t I like musicals? Well, for one, I just can’t take a story seriously when it’s set to music._ _Rhode Island, for one, is well on the way to meeting the goals._  
@@ -2217,7 +2219,7 @@ __for Pete’s sake__
 __for real__ :three: _North American informal_ Used to assert that something is genuine or is actually the case.  
 __for show__ Done merely for the sake of appearance; not genuine or sincere.  
 __for someone (or something’s) sake__ _For comparison’s sake, it hit 90 twice here all of last July._  
-__for starters__ :six: _phr informal_ You use for starters when you mention something to indicate that it is the first item or point in a series. _These prizes are just for starters. Other exciting offers are flooding in._ _Her manager said, “It will cost her 1.5 million pounds for starters if she loses.”_  
+__for starters__ :seven: _phr informal_ You use for starters when you mention something to indicate that it is the first item or point in a series. _These prizes are just for starters. Other exciting offers are flooding in._ _Her manager said, “It will cost her 1.5 million pounds for starters if she loses.”_  
 __for that matter__ :three: Besides; in addition. _If you’re hungry, take one of my doughnuts. For that matter, take two._  
 __for the ages__ :four: That will stand the test of time; that will be remembered or regarded for years to come. _A comeback for the ages._ _A year for the ages._ _He put together a run for the ages._  
 __for the better__ _My luck did not change for the better upon arrival at the bank._  
@@ -2441,6 +2443,7 @@ __get over someone or something__ _They’re getting over their heads._
 __get past (someone or something)__ :two::hammer:  
 __get played__ :smiling_imp: To be misled, deceived, or manipulated for someone else’s needs, ends, or benefits. _You paid $150 for this? Man, this piece of junk is barely worth 20 bucks! You got played, dude._  
 __get real__ :dart::three: To realize or accept the truth; to be realistic or practical. Often used as an imperative.  
+__get set for (something)__ To become prepared or excited for something.  
 __get set__ (get (all) set) To become prepared or excited (for or to do something). _Well, gest set, Chewie. We’re going to have company._  
 __get shut-eye__ _I’ll get some shut-eye._  
 __get smart (with one)__ To make disrespectful comments to one; to sass one. _Just take out the trash like I asked you to, and don’t get smart with me._  
@@ -2546,9 +2549,9 @@ __give something/it a shot__ :two::hammer:
 __give up on (someone or something)__ :two::hammer: _I am not going to give up on you. I am not going to let you give up on yourself._  
 __glad tidings__ :dart::two: Favorable, beneficial, or happy news. Usually used with the verbs “give” or “bring.” _The union leader brought glad tidings to the striking workers that their demands for pay increases had been accepted by the company’s management._  
 __glass ceiling__ :two: A glass ceiling is a metaphor used to represent an invisible barrier that keeps a given demographic (typically applied to minorities) from rising beyond a certain level in a hierarchy. The metaphor was first coined by feminists in reference to barriers in the careers of high-achieving women.  
-__glass cliff__ _n_ A situation in which a woman or minority has advanced professionally at a time when adverse circumstances or crises make it more likely for the person to fail at the job.  
+__glass cliff__ _n_ :two: A situation in which a woman or minority has advanced professionally at a time when adverse circumstances or crises make it more likely for the person to fail at the job.  
 __glass over__ _Glassed-over eyes._  
-__glimmer of hope__ :four: A minute indication that something may improve, succeed, or turn out for the best in the end. _Fans clung to a glimmer of hope that their team might score a last-minute touchdown to tie the game._  
+__glimmer of hope__ :five: A minute indication that something may improve, succeed, or turn out for the best in the end. _Fans clung to a glimmer of hope that their team might score a last-minute touchdown to tie the game._  
 __glitch__ _A phone glitch._  
 __glom__ __1__ _vt_ To steal something. (Underworld.) _He gloms just about everything he needs._ __2__ _vt_ To take a look at someone or something. (Underworld.) _Come over here and glom the view of the bank from this window._ __3__ _vt_ To arrest someone. _The copper glommed Fred on Tuesday._  
 __glommed__ _slang_ Arrested. _Dude, I hear sirens—we’re gonna get glommed if we stay here any longer!_  
@@ -2563,6 +2566,7 @@ __go above and beyond__ To act in a way that exceeds expectations or requirement
 __go after (someone or something)__ :two::hammer:  
 __go all out__  
 __go along__  
+__go an eye out for (someone or something)__ To remain vigilant or carefully watchful for something or someone.  
 __go ape__  
 __go apeshit__  
 __go astray__ :dart:  
@@ -2576,7 +2580,7 @@ __go bananas__ :three::hammer:
 __go berserk__ :five::hammer:  
 __go between__ :three: One who serves as a messenger between two people or groups. In this usage, the words are usually hyphenated. _I’m sick of being a go-between for you and Dad—can you please just talk to him directly?_  
 __go big or go home__ _expression_ Either do something to its fullest extent or largest degree, or else don’t even bother. Often used facetiously. _A: “Do we really need to cook an entire pig for this barbecue? We’re only having a few people over.” B: “Hey, go big or go home!”_  
-__go big__  
+__go big__ :two::hammer:  
 __go blooey__ _slang_ To go completely awry; to totally fail. _Plans for the gala went blooey after our chief donor backed out and took his millions with him._  
 __go both ways__ __1__ A bisexual person who is attracted to both men and women. __2__ Something that has two functions or purposes. For example, an all-purpose cleaner can be said to “go both ways” because it can be used to clean multiple surfaces.  
 __go bust__ :two: To experience financial failure or ruin, often as of a business.  
@@ -2602,7 +2606,7 @@ __go great lengths__ :two::hammer: _Emotionally intelligent leaders go to great 
 __go Greek__  
 __go halfsies__ _slang_ To share something, especially the cost of something, in equal proportion between two people. _You wanna go halfsies on the bill?_ _I don’t feel like cooking tonight, let’s go halfsies on a pizza instead._  
 __go hand in hand__ :three::hammer:  
-__go haywire__ :two: __1__ To start malfunctioning or having problems. _Well, the coffee pot has gone haywire yet again. Maybe it’s time to get a new one._ __2__ :dart: To become irrational or crazy. _I’ll end up going haywire if I have to work in this cubicle for one more day!_  
+__go haywire__ :three: __1__ To start malfunctioning or having problems. _Well, the coffee pot has gone haywire yet again. Maybe it’s time to get a new one._ __2__ :dart: To become irrational or crazy. _I’ll end up going haywire if I have to work in this cubicle for one more day!_  
 __go head to head__  
 __go into a nosedive__  
 __go into overdrive__ To start working very hard or quickly.  
@@ -2626,7 +2630,7 @@ __go out with the girls__ To go and socialize somewhere with a group of exclusiv
 __go out__ __1__ To go on a date with someone. _Those two have such an obvious chemistry that I’m surprised they’ve never gone out._  
 __go over (one’s) head__ :two: __1__ To speak to one’s superior rather than talking to one directly. _She just wouldn’t listen to me, so I had to go over her head to her boss and complain about it._ __2__ To not be understood by one because it is too complex or subtle for their comprehension. _My jokes always seem to go over Stephanie’s head, so I’m glad you think I’m funny at least._  
 __go over the top__ :two::hammer:  
-__go overboard__ :dart::seven: To do too much; to be extravagant; show excessive enthusiasm, act in an excessive way; to act without restraint in some area. _Did I go overboard with the Christmas decorations? I’m worried I bought enough Christmas lights to light up Times Square._  
+__go overboard__ :dart::eight: To do too much; to be extravagant; show excessive enthusiasm, act in an excessive way; to act without restraint in some area. _Did I go overboard with the Christmas decorations? I’m worried I bought enough Christmas lights to light up Times Square._ :es: pasarse  
 __go pffft__ It’s basically James Ellroy-speak for something just…fizzling out or disappearing.  
 __go places__:five: To progress or find success in some area of one’s life. _Alice is definitely going to go places with that singing voice of hers._  
 __go potty__ _He has to go potty._  
@@ -2636,11 +2640,12 @@ __go soft__ :two: To become overly lenient, easily manipulated, or apathetic; to
 __go south__ :nine::m: __1__ To escape; to vanish or disappear. _Everyone in the gang went south when they learned that the police had discovered their hideout._ __2__ To fall or drop; to depreciate; to lose quality or value. (Especially related to finances or stock exchanges.) _I used to be a big player in the stock market, but all my investments have gone south lately._ __3__ To cease working or functioning; to quit, fail, or fall apart. _That’s when things start going south._ _You’ve got a career there, if all this goes south._ _This one went south on me._ _That’s when everything went south._  
 __go steady (with someone)__ To date someone exclusively. _Don’t ask Jill out—she’s already going steady with Bobby._ _Are those two really going steady?_  
 __go stir-crazy__ :two: To become acutely anxious, restless, irritable, irrational, and/or depressed from remaining for too long in an unstimulating, confined, and/or isolated environment. “Stir” in this usage is a slang word for prison. _The doctor said I need to remain in bed as much as possible, but I’ll go stir-crazy if I can’t get out of the house at least once a day!_  
-__go strong__ :three: To proceed energetically or successfully. _It is still going strong._  
+__go strong__ :four: To proceed energetically or successfully. _It is still going strong._  
 __go the distance__ :dart::six: To persist with some activity or goal until its completion. _I think this team is good enough to go the distance and win the championship, don’t you?_  
 __go the extra mile__  
 __go the way of the dinosaur(s)__ :two: To become extinct, obsolete, old-fashioned, or no longer in common use.  
 __go through a phase__ To experience or be in the midst of a temporary period of change, development, or fluctuation. _I went through a phase of being obsessed with superhero movies this summer._  
+__go through a rough patch__ To experience or be in the midst of a period of trouble, difficulty, or hardship.  
 __go through the roof__  
 __go tits up__ :dart: __1__ _rude slang_ To break or malfunction; to die, fall apart, or cease to work. (A play on the phrase “go belly up.” “Tits up” is sometimes hyphenated.) _Sorry, Mark, I’d love to give you a lift to the airport but my car’s gone tits up on me again._ _Jimmy Dean went tits-up in a car wreck._  
 __go to (someone or something)__  
@@ -2648,16 +2653,21 @@ __go to bed with the chickens__ To go to bed very early.
 __go to Canossa__ :two: To become or make oneself humble; to do a penance or seek absolution for some wrong.  
 __go to great lengths (to do something)__ :seven: To put in a lot of effort, energy, or work to achieve something. _We went to great lengths to ensure that this film was historically accurate._  
 __go to hell and back__  
-__go to hell in a handcart__ To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin.  
+__go to hell in a handcart__ :two: To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin. _With this new president in office, our country is going to go to hell in a handcart!_  
 __go to shit__  
 __go to show__ To prove, demonstrate, or indicate that something is true. Used especially in the phrase “just goes to show.” _Their success just goes to show that you can’t underestimate the power of good marketing._  
 __go to the mat for (someone or something)__ To give someone or something one’s full support; to fight for someone or something until the very end. _We firmly believe that she is in the right on this matter, and we’re ready to go to the mat for her in court if necessary._ _I’m not going to the mat for her._  
 __go to the mat__ [:scroll: This expression refers to a wrestler who fights fiercely and is willing to risk a fall.] If someone goes to the mat, they fight very fiercely about something. _Erickson said he will go to the mat to save parks in the city._  
 __go to the mattresses__ :two: To enter into or prepare for a lengthy war, battle, or conflict; to adopt a combative or warlike position. While the true origin is uncertain, the phrase was popularized in English by _The Godfather_ novel and films, where it referred to warring mafia families housing their soldiers in small, secure apartments to await orders. _While the political party has shown some flexibility over other contentious issues, it looks as though they’re ready to go to the mattresses over this one._  
+__go to the wall__  
+__go to war (over someone or something)__  
 __go to wrack and ruin__ _cliché_ To fall into severe or total decay, degradation, or ruination, as from disuse or lack of upkeep. (“Wrack,” a now-archaic word meaning wreckage or destruction, is also often spelled “rack.”) _It greatly pains me that my grandfather’s estate has been left to go to wrack and ruin. If only we’d been able to afford for someone to look after it all these years._  
 __go toe by toe__  
 __go under the hammer__ :three: To be put up for or sold at auction. _The bankers family estate had to go under the hammer to cover some of his mounting debt._  
 __go vacant__ _Her eyes went vacant again._  
+__go with (someone or something)__  
+__go with the flow__ To act as others are acting, conforming to common behavior patterns with an attitude of calm acceptance.  
+__go with the territory__ To typically accompany a certain situation; to be a usual consequence or related issue. _When you’re the boss, staying late at the office just goes with the territory._  
 __go without saying__ _It goes without saying: thinking in more effective ways about projects can make things happen more successfully._  
 __go wrong__ :two::hammer:  
 __go-round__ _The fourth go-round in the_ Madagascar _franchise._  
@@ -2665,24 +2675,29 @@ __go-to girl__
 __go-to guy__  
 __go-to__  
 __gobble down__ :three::hammer:  
-__gobble up__  
+__gobble up__ :two::hammer:  
 __God bless you__  
 __God forbid__ :two::hammer:  
 __God is in the detail(s)__ :two: _proverb_ Any action or plan one undertakes should be done carefully and pragmatically; attention to small details will ultimately yield the greatest results. _Remember that God is in the detail, so make sure everything is in order before you begin._  
+__God rest someone’s soul__ May God bless a previously mentioned person who has died. _I remember what my mother, God rest her soul, used to say about that._  
 __God willing__ If all goes as it should; if everything goes well.  
 __God’s green earth__ :two: The entire planet; anywhere and everywhere.  
-__God’s honest truth__ The absolute, unequivocal truth. (I.e., as if spoken by God Himself.)  
+__God’s honest truth__ :two: The absolute, sincere, unequivocal truth. (I.e., as if spoken by God Himself.)  
+__God’s will be done__ The idiom “God’s will be done” expresses a sense of acceptance regarding circumstances that are beyond human control. It reflects a belief in a higher power’s plan or purpose, suggesting that whatever happens is ultimately part of a divine design.  
 __Godwin’s law__ A maxim stating that the longer an online debate continues, the higher the likelihood that a comparison will be made to Adolf Hitler or the Nazis. The concept is credited to American lawyer and author Mike Godwin. _Someone in this thread will be compared to Hitler soon enough—it’s just Godwin’s law._  
+__goes with the job__ The idiom “goes with the job” means that something is an inherent or expected part of a particular job, profession, or role. It implies that certain responsibilities, challenges, or benefits are naturally associated with the job in question.  
 __goes without saying__  
 __gold rush__ :four: __2__ By extension, a situation in which many people or groups enter a market due to a sudden abundance of or surge in demand for something. _The sudden ubiquity of smartphones led to a gold rush for app developers._ _VCs scramble to cash in on AI gold rush._  
 __golden boy__  
 __golden child__  
 __golden duck__ In cricket, a batter’s score of zero after being dismissed on the very first ball they face. _It’s an embarrassing start for Egley, who leaves the pitch with a golden duck._  
 __golden goose__ :four: A person, thing, or organization that is or has the potential to earn a lot of money for a long period of time. Taken from a folk tale of a goose that would lay a golden egg once a day, but was killed by its owner because he wanted all of its gold at once.  
+__golden hammer__ See _Maslow’s hammer_.  
 __golden handcuffs__ :two: /GOL-den hand-kuhfs/ A situation that is undesirable, unenjoyable, or unfulfilling but that provides enough financial security as to make one unwilling or unable to leave. Lucrative incentives (financial benefits) given to an employee under certain conditions to discourage them from leaving.  
 __golden ticket__ :two: A person, thing, quality, ability, or accomplishment that provides a reliable opportunity for great financial or personal success. _My programming experience is going to be my golden ticket out of this one-horse town._  
 __golden touch__ The ability to earn a large amount of money or be very successful in any endeavor. From the Greek myth of King Midas, who was granted the ability to turn anything he touched into solid gold. _During the ’80s, he owned half of Las Vegas, but in recent years, he seems to have lost his golden touch._  
 __golden years__ :two::hammer: The years following one’s retirement (generally after the age of 65). _After such a hectic career, I plan to spend my golden years gardening, reading, and living as tranquilly as possible._  
+__golden__  
 __golf widow__ A woman whose husband frequently absents himself from home so as to go and play golf.  
 __gomer__  
 __gone jacket__ _A gone jacket._  
@@ -2699,15 +2714,19 @@ __good for__ __4__ Equivalent in value; also, valid for. _These coupons are good
 __good God!__ An oath expressing surprise, shock, frustration, anger, or annoyance.  
 __good going__ :two: _informal_ An expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.) _Good going, Frank, now we’re going to have to rebuild this entire model from scratch._  
 __good graces__ Favorable, kindly, or approving regard or treatment. Usually used in the phrase “in someone’s good graces” or some variation thereof. _John’s been in my good graces ever since he helped get me out of debt._  
-__good gracious__ :two: A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Good gracious, look at the time! How is it nearly midnight already?_  
+__good gracious__ :three: A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Good gracious, look at the time! How is it nearly midnight already?_  
+__good grief__ :dart::two: An expression of surprise or frustration. _Oh, good grief—my car won’t start again._  
 __good job__ :two: _informal_ An expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.) _Good job, Frank, now we’re going to have to rebuild this entire model from scratch._  
 __good Lord__  
 __good old__ :three::dart: Used before a noun to describe a familiar person or thing with affection or approval. _Good old John: you can always count on him to help._ _I don’t need fancy shoes. I prefer good old sneakers._ _They were talking about the good old days._  
 __good omen__ :two: A sign, either real or imagined, of good fortune or a propitious outcome. _I saw a dove on my windowsill this morning; I’d say it’s a good omen for the rest of my day._  
-__good riddance__ :three: An expression used when one is pleased that someone or something is leaving or stopping. A shortened version of the phrase “good riddance to bad rubbish.” _Well, I didn’t want to talk to you anyway, so good riddance!_ _A lot of voters are prepared to say “good riddance” to her at the end of her term._  
+__good riddance__ :dart::five: An expression used when one is pleased that someone or something is leaving or stopping. A shortened version of the phrase “good riddance to bad rubbish.” _Well, I didn’t want to talk to you anyway, so good riddance!_ _A lot of voters are prepared to say “good riddance” to her at the end of her term._  
 __good sport__ :three: (good sports) A person who takes a bad situation well.  
+__good things come in small packages__ Often the things that have the most value or quality are small; the size of something does not always properly indicate its value.  
+__good to go__  
 __good to know__  
 __good-natured__ :three: Of or having a kindly, affable, beneficent, and/or obliging propensity, inclination, or personality. _Mark is so good-natured, always willing to lend a hand no matter what the task._  
+__good-time Charlie__ An affable, lively, and entertaining man who is often or always seeking pleasure or a good time.  
 __goodbye, cruel world__ :two: _cliché_ An exclamation, note, or statement made immediately prior to one’s death, especially by suicide.  
 __goodness gracious me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness gracious me, I’ll never get this report finished on time!_  
 __goodness gracious__ :two: A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness gracious, look at the time! How is it nearly midnight already?_  
@@ -2717,11 +2736,13 @@ __goody-goody__
 __goof up__ :two::hammer:  
 __goof__  
 __goofball__ :three: _slang_ __1__ Someone prone to behaving in a silly manner. _Jimmy’s such a goofball—of course he’s the class clown._ __2__ Someone deemed stupid and silly. __3__ A pill with a tranquilizing effect (often because it contains barbiturates), taken recreationally. _Tad took a goofball last night and passed out, man._  
-__goon__ _n_ :four::hammer:  
+__goon__ _n_ :five::hammer:  
+__goop__  
 __gosh darn__ Euphemistic form of _goddamn._  
 __got them covered__  
 __grab a bite__  
 __grab and go__  
+__grab hold of (someone)__ (grab (a)hold of (someone))  
 __grace period__ _The doctor had already moved on to their next appointment because they have a five-minute grace period._  
 __grand poobah__ :two: The most important or powerful person in a group, organization, business, or movement (e.g., the boss, leader, etc.). _I think it sounds like a great idea, but you’ll have to ask the grand poobah first._  
 __grand scheme__ :two: The long term; the complete picture of something. Typically used in the phrase “in the grand scheme of things.” _I know you’re worried about getting a bad grade on this test, but you’re such a great student that I doubt it will matter in the grand scheme of things._  
@@ -2762,15 +2783,19 @@ __grínd one’s teeth__
 __grind to a halt__ To halt progression very abruptly, especially in an ultimately detrimental or undesirable manner. Likened to a machine or automobile that stops functioning due to the grinding of gears. _Our project will grind to a halt if the CEO pulls his approval._  
 __grind__ __3__ _n informal_ A tedious or laborious routine, especially of work or study. _I’m lucky to have a job in today’s economy, but this daily grind is starting to get me down._  
 __gripe about (someone or something)__ :dart::two: To complain, often continually and in an irritating manner, about someone or something. _I turned the thermostat up, so you all can stop griping about how cold it is in here, thanks._  
+__grit (one’s) teeth__ __2__ To become resolved to do or accept something particularly difficult or unpleasant. _If you hate this class so much, you better grit your teeth and get a passing grade so that you don’t have to take it again next year._  
 __grody__ _slang_ Disgusting or repulsive. The term possibly derives from the word “grotesque.” _Ugh, that smell is seriously grody—I’m practically gagging._  
 __grok__ :two::hammer:  
 __groom (someone) for (something)__  
+__grooving__ __2__ Having a good time. _We’re just hanging out and grooving—come join us!_  
 __groovy__ __1__ _slang_ Cool or appealing. Popular in the 1960s and ’70s, the term is considered dated and thus is often used humorously, sarcastically, or specifically in reference to something that is (or looks like it could be) from that era. _A: “Yikes Mom, those are some, um, groovy drapes!” B: “What, you don’t like them?”_  
 __ground zero__ :two: __4__ :dart: The earliest possible starting point; the most basic, fundamental, or preliminary level. _The folder with my outline and notes got deleted, so now I have to start the whole project again from ground zero._  
 __ground-breaking__  
 __grounded__ __3__ Feeling calm, safe, and present in one’s body and environment.  
 __grouse__ To complain or gripe.  
 __grovel__ To interact with someone in an overtly agreeable or deferential manner. _Well, if your mother’s mad at me, I guess I’m going to have to grovel—we want this family dinner to be pleasant, after all._  
+__grow cold__ To wane or diminish; to lessen in strength over time, especially a feeling, sentiment, or interest. _We had an intense relationship initially, but lately it seems like his affection has grown cold._  
+__grow tired__ The phrase “grow tired” refers to the process of becoming weary or fatigued over time. It can be used in both a physical and emotional context.  
 __growing pains__ __2__ By extension, the troubles or difficulties experienced by new companies or organizations as they enter into business or become established.  
 __grunt work__ Work that is menial and often tedious.  
 __GTFO__ _abbr_ :two: __1__ _rude slang_ An abbreviation for “get the fuck out,” an angry imperative for someone to leave, leave one alone, or stop what they are doing. _If she’s going to make snarky comments about my food, then she can just GTFO._ __2__ _rude slang_ An abbreviation for “get the fuck out” used to express surprise at what one has just been told. Although the use of “fuck” can be offensive, this usage of the phrase is not intended to be rude. _You got the job? GTFO!_  
@@ -2790,7 +2815,7 @@ __gun it__ :two: To accelerate or increase speed suddenly or rapidly; to travel 
 __gun-shy__  
 __gung ho__  
 __gung-ho__ Exceptionally enthusiastic, eager, or zealous, sometimes overly so.  
-__gunk__ :two: __1__ _slang_ Any unpleasant residue or matter. The word originated as a trademark name for a degreasing solution. _You’re gonna need a more powerful cleaner to get that gunk off the sides of the tub._ __2__ _slang_ A glue or aerosol that one inhales in order to become high. _Gunk is dangerous stuff, you know._ __3__ Nonsense. __4__ A fool, a dullard. __5__ Anything worthless, unpleasant, undesired.  
+__gunk__ :three: __1__ _slang_ Any unpleasant residue or matter. The word originated as a trademark name for a degreasing solution. _You’re gonna need a more powerful cleaner to get that gunk off the sides of the tub._ __2__ _slang_ A glue or aerosol that one inhales in order to become high. _Gunk is dangerous stuff, you know._ __3__ Nonsense. __4__ A fool, a dullard. __5__ Anything worthless, unpleasant, undesired.  
 __gush over (someone or something)__  
 __gush over__ _v_ To speak or write about something or someone with wild enthusiasm: _They returned from the new store and gushed over the great shoes they had bought._  
 __gut bomb__ Any greasy, filling junk food.  
@@ -2812,6 +2837,7 @@ __hair-splittingly__ With extremely minute, unimportant, or imperceptible differ
 __hairpin bend__ :two: A very sharp, approximately 180° bend in a road.  
 __hale and hearty__ Healthy. _It’s true that she was in the hospital a few weeks ago, but she’s hale and hearty now._  
 __half a brain__ Common sense. _If he had half a brain, he would have left a long time ago._  
+__half bad__ _The decor didn’t look half bad._  
 __half-ass__ :dart::four: __1__ _v_ _rude slang_ To do something halfheartedly or without one’s full effort. _Did you half-ass these posters? There’s a bunch of misspellings, and the ink is all smudged._ __2__ _adj_ _rude slang_ Done halfheartedly or without one’s full effort. Also seen as “half-assed.” _It was just a half-ass attempt, so naturally it didn’t work._ _Look at these half-assed posters—there’s a bunch of misspellings, and the ink is all smudged._  
 __half-baked__  
 __half-pint__ Any small, weak, and/or insignificant person. Alludes to a pint, a unit of liquid measurement. _Don’t go picking a fight with me, half-pint, or I’ll knock you into next Tuesday!_  
@@ -2870,7 +2896,7 @@ __hark back__ _Harking back to the past._
 __hark(en) back to (something)__ __1__ To cause one to think of or recall something. (The spelling “harken” is actually a variant of the archaic word “hearken,” which originally meant “to listen” but is more commonly used in place of “hark” in this idiomatic phrase.) _That song harkens back to an earlier time in my life._ __2__ To have originated or begun as something. To go back to something as an origin or source. _You know, our modern cell phones hark back to those old rotary phones you like to make fun of._ _The diner’s interior harks back to the 1950s._ __3__ To revisit or recall something mentioned earlier. _Before we get too upset, let’s all harken back to the real reason we’re here today._  
 __harp away at (someone or something)__ :dart: To complain about or dwell upon someone or something repeatedly and to the point of tediousness. _You need to stop harping away at your boss and just quit already!_  
 __harp on (one) (about something)__ To nag one persistently and annoyingly about some issue. _It was one mistake—why do you keep harping on me about it?_  
-__harp on (something)__ :two: To continue to mention or complain about some issue in a persistent and irritating manner. _It was one mistake—why do you keep harping on it?_ :es: machacar  
+__harp on (something)__ :three: To continue to mention or complain about some issue in a persistent and irritating manner. _It was one mistake—why do you keep harping on it?_ :es: machacar  
 __harp on the same string__ :two: To dwell tediously and repeatedly upon a single subject or topic, especially in complaint. Likened to playing the same note over and over again on a harp.  
 __harrowing experience__ :two: An experience that is frightening, chilling, or disturbing, either due to an implied or actual element of danger, or from being physically or emotionally unpleasant. _With so much traffic, cycling in this city can be a harrowing experience._  
 __hash out__ :dart::three: To discuss something in detail. A noun or pronoun can be used between “hash” and “out.” _I’m calling Mom right now to hash out the details for Thanksgiving dinner._  
@@ -2880,7 +2906,7 @@ __hassle (someone) about (something)__ To bother or nag someone about something.
 __haste makes waste__ _proverb_ Rushing through a task often creates problems or extra work. _Haste makes waste, so please double-check your measurements before cutting the fabric._  
 __hat trick__ :mega:  
 __hatch out__  
-__hatchet man__  
+__hatchet man__ :two::hammer: [Note: a _hatchet_ is a small axe]  
 __hate someone’s guts__ Thoroughly despise someone, as in _I hate Peter’s guts._ The _guts_ here refers to a person’s inner essence.  
 __haters gonna hate__ (haters will be heater) People who dislike something or someone are going to continue to do so no matter what. It’s used to suggest that it’s impossible to please everyone and that it’s better to focus on what makes you happy than to worry about those who don’t approve.  
 __hats and bats__ _n_ _(US police)_ Equipped with helmets and nightsticks.  
@@ -2934,7 +2960,7 @@ __have a hankering for (something)__ :two: To have a very strong, persistent des
 __have a hard time with (someone or something)__  
 __have a heart of glass__ To have or be in a state of extreme emotional fragility or susceptibility, one that is easily influenced or affected by others. _Poor Mary has a heart of glass; I don’t know how she’ll recover from Tom’s refusal to go to the prom with her._  
 __have a heart of gold__ :two: To be very kind and generous.  
-__have a heavy heart__ :dart: To have a dejected or miserable attitude or disposition; to be in a depressed or grievous state. _I’ve had a terribly heavy heart since my dog passed away._  
+__have a heavy heart__ :dart::two: To have a dejected or miserable attitude or disposition; to be in a depressed or grievous state. _I’ve had a terribly heavy heart since my dog passed away._  
 __have a leg up__ :two: To be in a position of advantage (over someone else). _One must always be looking for ways to have a leg up if one wants to succeed in this business._  
 __have a light heart__ :two: To have a carefree, uplifted attitude; to be in a happy or gladdened state or condition. _Though it is, of course, bittersweet to leave my friends and family behind, I have a light heart because of the amazing opportunities that await me in Europe._  
 __have a look-see__ :dart::two: To have a very quick look or brief examination. _A: “Is there any more of that cake left in the fridge?” B: “I’ll go have a look-see!”_  
@@ -2967,10 +2993,12 @@ __have good antennae__ :two: To be very sensitive (to something); to have a keen
 __have got it made__ To be in a comfortable situation or to be very likely to have success. _Living in that big house, earning a nice passive income from their investments—they’ve got it made._  
 __have got to (do something)__ To be obligated, obliged, or required to (do something). _I don’t want to go to the family reunion, but I’m afraid I’ve got to._  
 __have had (one’s) chips__ :two: To be defeated; to fail completely; to die or be killed. A reference to chips (small plastic disks) used to make wagers when gambling. _We tried to keep our business open through this recession, but we’ve had our chips at this point._  
+__have had a drop too much__  
 __have hot pants (for someone)__  
 __have it easy__ :two: To have or be in a particularly comfortable or relaxed position, status, or condition, such that makes for an easier life. _I get over a month of paid time off each year, so I feel like I have it pretty easy compared to other people I know._  
 __have it made__  
 __have it out (with someone)__ :two: To have an argument, verbal fight, or frank discussion (with someone), especially to settle something that has caused anger, frustration, or annoyance. _I had to have it out with my roommate because he never does his share of cleaning in the house._ _Tom and his boyfriend are always having it out._  
+__have it your way__  
 __have its/(one’s) day__ :four: To be at the height of or experience success or prosperity. _The smartphone is really having its day it seems._ _Any of you who is determined and willing to put in hard work will have her day eventually._  
 __have more than one string to (one’s) bow__ To have multiple viable options or alternatives available in the event that the current course of action, circumstance, opportunity, etc., does not work out. _With all this varied job experience under my belt, I have more than one string to my bow if this particular career path isn’t to my liking._  
 __have nine lives__ To endure, continue, or survive despite a near encounter with death or disaster. From the common myth that cats have nine lives. _I can’t believe he survived after his bungee cord snapped! He must have nine lives or something._  
@@ -3020,7 +3048,7 @@ __head-scratching__ (head scratching) Very confusing or perplexing. Usually used
 __head-spinning__ :two: Incredible, overwhelming.  
 __head-to-head__ :two: Describing a one-on-one matchup or comparison.  
 __head-to-toe__  
-__heads up__ :four: __2__ _n_ A preliminary notice, especially of future difficulty, trouble, or danger; a warning. Often hyphenated. _Make sure everyone gets the heads-up about the inspection tomorrow morning. We don’t want anyone coming in unprepared._ _Thanks for giving me the heads up._  
+__heads up__ :five: __2__ _n_ A preliminary notice, especially of future difficulty, trouble, or danger; a warning. Often hyphenated. _Make sure everyone gets the heads-up about the inspection tomorrow morning. We don’t want anyone coming in unprepared._ _Thanks for giving me the heads up._  
 __headspinning__ :two: (head-spinning) Incredible, overwhelming.  
 __hear a pin drop, one/you could__ :two: Complete silence.  
 __hear crickets__ To receive no response or reaction at all from someone else, typically indicating displeasure or disapproval. _I thought my book was going to be a huge hit, but I heard crickets when I showed it to my publisher._  

@@ -215,56 +215,6 @@ __for a fee__
 __for all I know__  
 __for all intents and purposes__ _adv_ :two: In every practical sense. _To all intents and purposes the case is closed._ _The rest are for all practical purposes useless._ _Syn_ for all practical purposes, to all intents and purposes  
 __for all practical purposes__ (for (all) practical purposes) In reality; basically. As might be reasonably expected; essentially. _For all practical purposes, this is simply a matter of right and wrong._ _For all practical purposes, I might as well have not handed in this proposal at all, with how swiftly the board rejected it._  
-__for better or worse__ :three::hammer: (for better or (for) worse)  
-__for crying out loud__  
-__for each and every (something)__ The phrase “for each and every (something)” is an emphatic expression used to emphasize the inclusivity or thoroughness of a statement. It means that every single item or individual within a specified group is being considered or affected. The repetition of “each” and “every” serves to reinforce the idea that no exceptions are made.  
-__for good measure__  
-__for good__ :two::hammer:  
-__for kicks__ :two::hammer (just for kicks)  
-__for starters__  
-__get set for (something)__ To become prepared or excited for something.  
-__glass cliff__ _n_ A situation in which a woman or minority has advanced professionally at a time when adverse circumstances or crises make it more likely for the person to fail at the job.  
-__glimmer of hope__  
-__go an eye out for (someone or something)__ To remain vigilant or carefully watchful for something or someone.  
-__go big__  
-__go haywire__  
-__go overboard__ :es: pasarse  
-__go strong__  
-__go through a rough patch__ To experience or be in the midst of a period of trouble, difficulty, or hardship.  
-__go to hell in a handcart__ To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin. _With this new president in office, our country is going to go to hell in a handcart!_  
-__go to the wall__  
-__go to war (over someone or something)__  
-__go with (someone or something)__  
-__go with the flow__ To act as others are acting, conforming to common behavior patterns with an attitude of calm acceptance.  
-__go with the territory__ To typically accompany a certain situation; to be a usual consequence or related issue. _When you’re the boss, staying late at the office just goes with the territory._  
-__gobble up__  
-__God rest someone’s soul__ May God bless a previously mentioned person who has died. _I remember what my mother, God rest her soul, used to say about that._  
-__God’s honest truth__ The absolute, sincere, unequivocal truth.  
-__God’s will be done__ The idiom “God’s will be done” expresses a sense of acceptance regarding circumstances that are beyond human control. It reflects a belief in a higher power’s plan or purpose, suggesting that whatever happens is ultimately part of a divine design.  
-__goes with the job__ The idiom “goes with the job” means that something is an inherent or expected part of a particular job, profession, or role. It implies that certain responsibilities, challenges, or benefits are naturally associated with the job in question.  
-__golden hammer__ See _Maslow’s hammer_.  
-__golden__  
-__good gracious__  
-__good grief__ :dart::two: An expression of surprise or frustration. _Oh, good grief—my car won’t start again._  
-__good riddance__ :dart::two: An expression used when one is pleased that someone or something is leaving or stopping. A shortened version of the phrase “good riddance to bad rubbish.” _Well, I didn’t want to talk to you anyway, so good riddance!_  
-__good things come in small packages__ Often the things that have the most value or quality are small; the size of something does not always properly indicate its value.  
-__good to go__  
-__good-time Charlie__ An affable, lively, and entertaining man who is often or always seeking pleasure or a good time.  
-__goon__  
-__goop__  
-__grab hold of (someone)__ (grab (a)hold of (someone))  
-__grit (one’s) teeth__ __2__ To become resolved to do or accept something particularly difficult or unpleasant. _If you hate this class so much, you better grit your teeth and get a passing grade so that you don’t have to take it again next year._  
-__grooving__ __2__ Having a good time. _We’re just hanging out and grooving—come join us!_  
-__grow cold__ To wane or diminish; to lessen in strength over time, especially a feeling, sentiment, or interest. _We had an intense relationship initially, but lately it seems like his affection has grown cold._  
-__grow tired__ The phrase “grow tired” refers to the process of becoming weary or fatigued over time. It can be used in both a physical and emotional context.  
-__gunk__  
-__half bad__ _The decor didn’t look half bad._  
-__harp on (something)__  
-__hatchet man__ [Note: a _hatchet_ is a small axe]  
-__have a heavy heart__ To have a dejected or miserable attitude or disposition; to be in a depressed or grievous state. _I’ve had a terribly heavy heart since my dog passed away._  
-__have had a drop too much__  
-__have it your way__  
-__heads up__  
 __hear out__ (hear someone out)  
 __heart of gold__  
 __heart to heart__ Candidly, sincerely, as in _We need to talk heart to heart about her coming marriage._ This expression is nearly always applied to a conversation of some kind.  
