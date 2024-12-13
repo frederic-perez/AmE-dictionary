@@ -34,6 +34,8 @@ __a legend in (one’s) own mind__ A person who affects or believes that they ar
 __a license to print money__ An activity, business model, or company that yields very high profits but requires little or no effort to do so. _All these hefty parking fees and fines are just a license to print money for the city._  
 __a little from column A, a little from column B__ Having been formed from two distinct factors, elements, or reasons. _She asked me if I drew more from real life or from my imagination when writing; in truth, it’s a little from column A and a little from column B._  
 __a little leery__ :two: Cautious, wary, or uncertain of a given person, place, or thing. _To be honest, I’m a little leery of signing up for this deal; it sounds too good to be true._  
+__a living legend__ A person who has an extraordinary reputation or level of fame while they are still alive. _The singer has made such a huge impact on the world of blues that she’s come to be a living legend._  
+__a living soul__ A person (who is alive). (Often used in the negative to mean “nobody.”) _Each living soul one meets is a chance to gain a new perspective on life._  
 __a load of bunk__ :es: tontería  
 __a long shot__ :dart::two::hammer:  
 __a mite__ :dart: To a small degree; somewhat: _That remark was a mite unfair._ _This sounds a mite grandiose._  
@@ -47,6 +49,7 @@ __a small fortune__ (small fortune)
 __a stab in the back__ A betrayal; an act of treachery.  
 __a stone’s throw__ :two: A very short distance.  
 __a stranger to (someone or something)__ Someone who experience or knowledge of something. Often used in negative constructions. _She’s rather much a stranger to cosmetics._  
+__a tough pill to swallow__ A difficult or unpleasant truth to accept. Ellroy’s characters often face harsh, uncomfortable realities, and this idiom is perfect for moments when they come to grips with painful truths.  
 __a word of warning__ :two: Information about possible danger or trouble.  
 __abound in__ To be abundant or plentiful with. _In the spring, the fields abound in blooming tulips._  
 __abound with__ To be brimming with something plentiful: _The lake by the cabin abounds with fish._  
@@ -63,7 +66,8 @@ __all of a sudden__
 __all things considered__  
 __an earful__  
 __an eye for an eye__  
-__and then some__  
+__and so on and so forth__  
+__and then some__ :two::hammer:  
 __apples and oranges__ Two unlike things or people. Two entities that are not similar. (Used especially in reference to comparisons of unlike things.)  
 __as we speak__  
 __back to square one__  
@@ -72,15 +76,21 @@ __be well versed in (something)__ To be very knowledgeable about, skillful in, o
 __beat (one) to the punch__ To do or obtain something before someone else does. The phrase is thought to have originated from boxing. Primarily heard in US.  
 __beat about the bush__  
 __behind closed doors__  
+__behind the eight ball__ In a difficult or unfavorable situation. Ellroy’s characters frequently find themselves “behind the eight ball,” caught in moral compromises or dangerous situations where escape is unlikely.  
 __bejesus__ _n_ _slang_ Used euphemistically for intensive effect in idioms such as _scare the bejesus out of (someone)_ for scare (someone) very much.  
+__big shot__ An important or influential person. This expression might be used to describe powerful figures in the criminal underworld or law enforcement, both of whom populate Ellroy’s novels.  
+__bite the bullet__ To endure something painful or difficult with courage. In Ellroy’s novels, characters often face situations that require them to bite the bullet, whether it’s enduring physical pain or confronting emotional or moral dilemmas.  
 __bless your pointy little head__ A condescending phrase used to patronize someone for being foolish or not very bright. _You failed the exam because you thought the sun was a planet? Aw, bless your pointy little head._  
+__brand new__ [:scroll: The word “brand” here comes from Old English for fire or flame; thus, something that is brand new is likened to that which is forged in—and fresh out of—fire.] Completely new and unused. _I bought Jim a brand-new computer for his birthday._ _That car is brand new, so be extra careful when you drive it._  
 __break the ice__  
 __bring (something) into effect__ To cause (something) to apply, begin operating, or take effect; to begin implementing or enforcing (something).  
 __bring to one’s knees__ Make one submit; reduce to a position of subservience.  
+__British Invasion__ :two: The British Invasion was a cultural phenomenon of the mid-1960s, when rock and pop music acts from the United Kingdom[2] and other aspects of British culture became popular in the United States with significant influence on the rising “counterculture” on both sides of the Atlantic Ocean. The arrival of the Beatles in the US in 1964 marked the start of the British Invasion.  
 __brood over__  
 __brush up (on something)__ :dart: To improve one’s knowledge of something or one’s ability to do something. _I need to brush up on my German. My German is weak. I had better brush up._  
 __bustle about__  
 __buzzard__ _n_ An old man; a mean old man. (Especially with old.) _Some old buzzard is at the door asking for Mary Wilson._  
+__by the book__ To do something according to the rules or standard procedures. This phrase could be used ironically, as many of Ellroy’s characters operate outside the law, or it could refer to more straight-laced characters like police officers trying to maintain a sense of order in a corrupt world.  
 __calculated risk__ A risky action that has been carefully considered beforehand, in which the chance or likelihood of a beneficial outcome outweighs the risk or cost of failure. _We decided to take the calculated risk of going to trial, rather than settling out of court._  
 __call of nature__ The urge to urinate or defecate. _I have to attend to the call of nature._  
 __call out__  
@@ -119,6 +129,8 @@ __come to a head__
 __come to an end__ To wind down to an ending or conclusion. _Festivities came to an end well after the sun had risen the next morning._  
 __come to grips__  
 __come to terms with (someone or something)__  
+__come to terms with__  
+__come to terms__  
 __coming-of-age__  
 __construe (something) as (something)__ :dart: To view or interpret something in a particular way. _Although I believe that he’s innocent, I can see how one could easily construe his actions as a crime._  
 __contend with (someone or something)__  
@@ -138,6 +150,7 @@ __cut (one’s) teeth__ :dart: To gain experience with something, especially at 
 __cut and dry__ The “idiom cut and dry” refers to something that is clear, straightforward, and unambiguous. It describes situations, decisions, or outcomes that are easily understood and leave little room for doubt or interpretation.  
 __cut bait__  
 __cut eyes at (someone or something)__ To look at someone or something quickly.  
+__cut to the chase__ Get to the point; skip unnecessary details. Ellroy’s characters, often hard-nosed detectives or criminals, use this phrase to cut through the layers of deception and get straight to the core of a matter.  
 __dance on air__ To be extremely happy.  
 __day in and day out__  
 __dead__ __5__ Absolutely. _You’d better be dead certain about this decision, because you can’t take it back._  
@@ -160,6 +173,7 @@ __downer__ :es: tranquilizante
 __doze off__  
 __drape (something or oneself) over (someone or something)__ __1__ To lay on a piece of furniture, usually with one’s limbs splayed. In this usage, a reflexive pronoun is used between “drape” and “over.” _John came in and draped himself over the sofa while moaning about his ex-girlfriend._ __2__ To loosely place something over someone or something. In this usage, a noun or pronoun is used between “drape” and “over.” _It wasn’t as cold out when I left the theater, so I just draped my coat over my shoulders._  
 __drape over (something)__ [for cloth] To cover something and hang down. _The robe draped over her knees, but she was still cold._ _The tablecloth draped over and reached down to the floor._  
+__draw a bead on (someone or something)__  
 __draw to a close__  
 __draw water__  
 __dreamboat__ A very attractive or appealing person.  
@@ -183,10 +197,11 @@ __fancy that__ Used to comment on something that is hard to imagine. _The baby s
 __fancy__ _informal_ __2__ To have a desire for (something).  
 __fantabulous__  
 __fast and furious__ :two::hammer:  
+__fast-forward__  
 __fat chance__ Said of something that is unlikely to happen. :es: vaga posibilidad  
 __feel like doing something__  
 __feel puny__ To feel sick. _I woke up feeling puny, so I just stayed in bed all day._  
-__few and far between__ :two::hammer:  
+__few and far between__ :three::hammer:  
 __figure of speech__ A form of expression in language, either spoken or written, that employs nonliteral meaning, unusual construction, or a particular combination of sounds to emphasize or heighten the rhetorical effect. _Bob: “Does eating an apple a day really keep doctors away from you?” Doug: “Don’t take it so literally, Bob, it’s just a figure of speech.”_  
 __fill in__ __4__ To inform one of something. In this usage, a noun or pronoun can be used between “fill” and “in.” _Fill me in—what happened at the party last night?_  
 __fill the gap__  
@@ -215,6 +230,7 @@ __for a fee__
 __for all I know__  
 __for all intents and purposes__ _adv_ :two: In every practical sense. _To all intents and purposes the case is closed._ _The rest are for all practical purposes useless._ _Syn_ for all practical purposes, to all intents and purposes  
 __for all practical purposes__ (for (all) practical purposes) In reality; basically. As might be reasonably expected; essentially. _For all practical purposes, this is simply a matter of right and wrong._ _For all practical purposes, I might as well have not handed in this proposal at all, with how swiftly the board rejected it._  
+__gun for hire__  
 __hear out__ (hear someone out)  
 __heart of gold__  
 __heart to heart__ Candidly, sincerely, as in _We need to talk heart to heart about her coming marriage._ This expression is nearly always applied to a conversation of some kind.  
@@ -235,6 +251,7 @@ __hit and miss__ (hit or miss)
 __hit home__ :dart:  
 __hit pay dirt__ [:scroll: This idiom refers to a miner’s finding gold or other precious metals while sifting soil] To discover or come upon something very, particularly, or abundantly valuable or useful, especially after a long or arduous search. :es: dar con el oro  
 __hit the ground running__  
+__hit the nail on the head__  
 __hit the sack__  
 __hit-and-run__ :smiling_imp:  
 __hoity-toity__ Pretentiously arrogant, haughty, or self-important. _We don’t need some hoity-toity academic coming in and telling us how to run our business!_  
@@ -284,7 +301,7 @@ __in favor (with someone)__ Highly regarded (by someone); widely accepted or enj
 __in fee__ _Law (specifically of land)_ In absolute legal ownership or subjection.  
 __in full swing__ :three::hammer:  
 __in hock__ __1__ In debt. _I picked a smaller, more affordable school so I didn’t have to be deep in hock with student loans for years after I graduated._ __2__ Having been pawned. _I really needed cash, so my guitars are in hock, unfortunately._  
-__in hot water__ :dart::two: Having provoked or incited anger, hostility, or punishment against oneself; in a troublesome or difficult situation, especially that which will result in punishment or reprisal. _I was in a bit of hot water with Janice last night when she found out I went to the movies instead of cleaning out the garage._  
+__in hot water__ :dart::three: In trouble or facing a difficult situation. This idiom is common in Ellroy’s novels, especially when characters find themselves caught in compromising positions or facing consequences for their actions. Having provoked or incited anger, hostility, or punishment against oneself; in a troublesome or difficult situation, especially that which will result in punishment or reprisal. _I was in a bit of hot water with Janice last night when she found out I went to the movies instead of cleaning out the garage._  
 __in its infancy__ In the early, nascent period of development or implementation. (Typically of an area of activity, interest, research, etc.)  
 __in itself__  
 __in jeopardy__ In danger or at risk; imperiled.  
@@ -312,9 +329,10 @@ __in support of__ __1__ In a way that shows approval of (something); in favor of
 __in tears__  
 __in the (grand) scheme of things__ In the long term; in the complete picture of something.  
 __in the back of beyond__  
-__in the bag__ :two: Achieved or won almost as a certainty.  
+__in the bag__ :three: Achieved or won almost as a certainty. A situation or outcome that is certain or guaranteed. In Ellroy’s novels, this could refer to a case that’s all but solved or a deal that’s as good as done.  
 __in the blink of an eye__  
 __in the bud__ (in bud) In an undeveloped, immature, or incipient state. _Tommy has become quite a little painter in bud recently._  
+__in the dark__ To be unaware or uninformed about something. Ellroy’s protagonists often operate in a world of secrecy, and this idiom reflects their struggle to uncover the truth while others keep them in the dark.  
 __in the hope that__ With the expectation, intention, or desire that (something will happen). _He strove to be well-behaved in prison, in the hope that he would be let out early on parole._  
 __in the house__  
 __in the least__ :three::hammer:  
@@ -384,7 +402,7 @@ __jungle law__
 __junkyard dog__ An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase “meaner than a junkyard dog.” _Though he’s always polite when he’s in public, Tiffany’s husband is meaner than a junkyard dog behind closed doors._  
 __just deserts__ :dart::pencil2:  
 __just like that__ :three::hammer: ((just) like this/that)  
-__just saying__  
+__just saying__ :two::hammer:  
 __just the same (to one)__ Makes no difference one way or another (to one); unimportant (to one) what happens or how. _I’d actually prefer to continue working on a freelance basis, if it’s just the same to you._  
 __keel over__  
 __keen on (someone or something)__  
@@ -434,6 +452,8 @@ __Lady Luck__ The personification of fortune, whether good or bad. Sometimes spe
 __lag behind__  
 __land of plenty__ A fictional or imagined utopian place where there is an abundance of everything needed to survive and flourish.  
 __larger than life__  
+__laser focus__  
+__laser focused__  
 __lash around__  
 __lash out__  
 __last burst of fire__ A final effort or attempt, especially as before failure or defeat. _The home team has unleashed one last burst of fire in the final seconds of the game to try and force an overtime showdown._  
@@ -457,6 +477,7 @@ __lay (something) at the feet of (someone)__ To make or hold someone, especially
 __lay bare (something)__ To divulge, explain, or reveal something not previously known publicly.  
 __lay down and die__ To quit; to give up hope or ambition. _We might have had an unexpected loss in the playoffs, but that doesn’t mean this team is ready to lay down and die!_  
 __lay the groundwork (for something)__ :two: To create or prepare the basics or essential foundation (for something); to pave the way (for something). _Our success with this healthcare bill wouldn’t be possible, had the previous administration not laid the groundwork already._  
+__lay to rest__ (lay (someone) to rest)  
 __laze about__ To relax or spend time idly; to do nothing or very little. _It’s a gorgeous day outside, so you kids get off your butts and quit lazing about!_  
 __lazy-bones__ A particularly lazy or indolent person. _Come on, lazy-bones, you’ve spent half the day in bed. Time to get up and be productive!_  
 __lazybones__ A lazy person.  
@@ -519,6 +540,8 @@ __liminal__ _adj_ /ˈlɪmɪnəl/
 __line in the sand__ A figurative boundary that someone or some group refuses to cross or beyond which no further advance or compromise is accepted. (Used especially in the phrase “draw a line in the sand.”) _The allocation of this new tax to pay for building schools has become a line in the sand for the governor’s administration._  
 __lip to lip__ :two: The idiom “lip to lip” typically refers to a kiss that involves direct contact between the lips of two people. This expression is often associated with romantic or intimate contexts, emphasizing the closeness and emotional connection between the individuals involved.  
 __liquid courage__ _slang_ The decrease in timidity or inhibition that comes from imbibing alcoholic beverages.  
+__live on a shoestring__ To live within a very tight or limited financial budget.  
+__living impaired__ Dead. (Pseudo-politically correct slang used for humorous effect.) _The boss has ordered a hit on the stool pigeon, so make sure he’s living impaired by the end of the day._  
 __mince words__  
 __miss the boat__  
 __mix and match__  
@@ -557,6 +580,7 @@ __nepo friend__ _n_ /nep-oh frend/ (nepo-friend) The slang term nepo friend refe
 __Nervous Nellie__ /nuhr-vuhs NEL-ee/(nervous Nellie/Nelly) Any nervous person, male or female. Someone who is more timid, nervous, or anxious than is normal or reasonable.  
 __nice and (something)__ :two::hammer:  
 __nice to hav__  
+__no accident__ Something done deliberately. _It is no accident that the assistant he hired is so good-looking._  
 __no hard feelings__ :es: sin rencores  
 __no question about it__  
 __not know someone from Adam__  
@@ -592,13 +616,14 @@ __old flame__ (an/(one’s) old flame) One’s former lover. _How am I supposed 
 __old school__  
 __on (one’s) (own) terms__ In the manner or timeframe that one prefers.  
 __on (one’s) feet__  
-__on (one’s) watch__  
+__on (one’s) watch__ :two::hammer:  
 __on (someone’s) behalf__  
 __on a daily basis__ Once or more each day.  
 __on a lark__ On a whim or fancy; for fun or as a joke.  
 __on a mission__ :three::hammer:  
 __on a roll__  
 __on a second thought__ An idiomatic expression that means to reconsider or reevaluate something after initial consideration. It implies that one has had a change of mind or a new perspective after giving more thought to a particular issue or decision.  
+__on a tear__  
 __on a whim__  
 __on and off__  
 __on another subject__  
@@ -614,7 +639,9 @@ __on the contrary__
 __on the edge of (one’s) seat__  
 __on the go__  
 __on the grounds of__ The phrase “on the grounds of” is primarily used in legal and formal contexts to mean “based on” or “justified by.”  
+__on the hook__ __1__ Held responsible (for something); obliged or committed (to something). _I would think very carefully signing your name to those documents. If something goes wrong in the company, it could be you on the hook._  
 __on the leading edge__ Having or knowledgeable of the most advanced technology in a given area, activity, or endeavor. _The local university’s laboratory is on the leading edge when it comes to cancer research._  
+__on the level__ Honest, truthful, or sincere. Given the corrupt environments Ellroy often writes about, this phrase could be used to emphasize a character’s rare honesty amidst widespread deception.  
 __on the line__ __1__ In a state of jeopardy or uncertainty.  
 __on the lookout__ :three: Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
 __on the move__  
@@ -652,7 +679,7 @@ __over the edge__
 __over the phone__ :two: By calling on the telephone. _You can order a pizza over the phone._  
 __pad out__ (pad something out) To fill something with cheaper or unnecessary material in order to make it superficially fuller, larger, or longer. A noun or pronoun can be used between “pad” and “out.” :es: rellenar  
 __part and parcel__ :two: An essential or fundamental part or aspect (of something). _Dealing with tantrums is part and parcel of raising a toddler._  
-__pave the way (for someone or something)__ To create a situation in which it is easier for someone to do something or something to happen.  
+__pave the way (for someone or something)__ :two: To create a situation in which it is easier for someone to do something or something to happen.  
 __pay heaven and earth__ _I’ve got a a particular clerk I’d pay heaven and earth to get rid of._  
 __pay lip service__ :smiling_imp:  
 __peck at__  
@@ -682,12 +709,16 @@ __play havoc with (someone or something)__ To cause issues or disruptions for so
 __play matchmaker__ To pair two people to foster a romantic relationship between them. _Mom, please stop playing matchmaker for me, will ya? I don’t want to date your best friend’s cousin’s nephew or someone you met at the market!_  
 __play possum__ :es: hacerse el muerto  
 __play second fiddle__  
+__playing both sides__ To work for or support two opposing parties, often for personal advantage. Many of Ellroy’s characters are morally ambiguous, and this idiom fits well in describing those who manipulate situations for personal gain, often without loyalty to any side.  
 __plop down__ _informal_ __1__ To sit or lie down in a heavy or careless way. _He plopped himself down in the chair._ __2__ To drop or place (something or someone) in a heavy or careless way. _He plopped the tray down._ __3__ _US_ To pay or spend (money). _I can’t afford to just plop down $30 for a T-shirt._  
 __plowed over__ Being overwhelmed or completely defeated by something.  
 __plunger__ _n_ /ˈplʌndʒə/ __3__ _informal_ A reckless gambler.  
 __point the finger at (one)__  
 __poke around__  
+__put (something) to rest__  
 __put heart and soul into something__ (put (one’s) heart and soul into (something)) To do something with the utmost of one’s energy, enthusiasm, and determination.  
+__put on (one’s) thinking cap__ To begin thinking or considering very carefully and seriously (about something).  
+__put on a brave face__  
 __put up with someone or something__  
 __revenge is a dish best eaten cold__ Revenge that takes place far in the future, after the offending party has forgotten how they wronged someone, is much more satisfying.  
 __revenge is a dish best served cold__ Revenge that takes place far in the future, after the offending party has forgotten how they wronged someone, is much more satisfying.  
@@ -754,6 +785,7 @@ __shipshape and Bristol fashion__
 __shit (one’s) pants__ __2__ _rude slang_ By extension, to be very surprised. _When I saw that the magazine had published my letter to the editor, I practically shit my pants!_ _Shit-your-pants scared._  
 __shit__ __3__ _v_ _vulgar_ _slang_ To fool, deceive, or trick (someone). Usually used to express disbelief. _We have to come in and work on Saturday, too? You’ve got to be shitting me!_ _I promise I’m not shitting you—these figures are very real._  
 __shoot (oneself) in the foot__  
+__shoot from the hip__ To speak or act without careful thought or preparation. Many of Ellroy’s characters, particularly his hard-edged protagonists, do this in their dealings, whether in dialogue or action.  
 __shop around (for something)__ :dart::three: To browse different stores, vendors, or selections to find the best price or option for something one wants to buy.  
 __short-handed__ :es: falto de personal  
 __shortlisted__ Placed on a final list (a shortlist) of people or things that are being considered for something, such as an award or a position of employment. _I was so shocked to hear that my story was shortlisted for the fiction award!_  
@@ -796,6 +828,7 @@ __sneak peek__
 __snort at (someone or something)__  
 __so be it__  
 __so much so that__  
+__so-called__  
 __soaking wet__ Completely drenched.  
 __sock__ :two: _informal_ __2__ _v_ To deliver a sharp, forceful blow.  
 __soft shoulder__ :astonished: An unpaved lane or area on the side of a road, often a highway, where drivers can stop their vehicles in emergency situations. _I think you’ve got a flat tire. You’d better pull over on to the soft shoulder._  
@@ -812,6 +845,7 @@ __speak (one’s) mind__ To voice one’s thoughts plainly or bluntly.
 __speed__ _slang_ Any illicit stimulant drug, especially amphetamine or methamphetamine. _We all used to take speed during college to help us study._  
 __spend a penny__ _euphemism_ To go to the toilet. Primarily heard in UK.  
 __spill the beans__  
+__spill your guts__ To confess or reveal all, often under pressure or coercion. Ellroy often has characters facing moral dilemmas, and this idiom fits the theme of characters who must decide whether to reveal their secrets or keep them buried.  
 __spoil for something__ _You are spoiling for a fight._ :es: te estás buscando pelea  
 __square off__  
 __stakeout__  
@@ -846,6 +880,7 @@ __swat__ _slang_ To contact emergency services, such as the police, with a fraud
 __swatting__ _slang_ The act of contacting emergency services, such as the police, with a fraudulent report of an emergency so that they respond in large numbers to a certain location, often done as a prank. The name refers to SWAT (“Special Weapons and Tactics”) teams, specialized police units that respond to especially dangerous situations. _Swatting is much more dangerous than a simple prank—it diverts first responders who may be needed elsewhere._  
 __swept the board__  
 __sworn enemy__ A person, group, or organization for whom one holds a particularly intense, deep-seated hatred. _Our environmentalist lobby group is heading out to protest against Big Oil, our sworn enemy._  
+__take a load off (one’s feet)__ To sit down and rest one’s feet; to relax. (Usually said as a suggestion.) _Why don’t you go take a load off for a while, and I’ll fix dinner for tonight?_  
 __take heart (from something)__ To receive courage or comfort from some fact. _I hope that you will take heart from what we told you today. Even though you did not win the race, take heart from the fact that you did your best. I told her to take heart and try again next time._  
 __take heart__ To have one’s confidence, courage, or happiness bolstered (by something). _We may have lost the election, but we take heart in the fact that so many young people are now engaged and excited about politics._  
 __take heed (of someone or something)__  
@@ -883,6 +918,7 @@ __the lion’s den__
 __the powers that be__ :dart::three:  
 __the upper crust__  
 __the upshot (of something)__ :dart::two: The final or resulting outcome, conclusion, or consequence (of something). _The upshot of this merger is that the company will now control nearly 50% of the world’s television networks._  
+__the whole nine yards__ Everything; the full extent of something. This could be used when a character has gone all-in or is fully committed to an action, no matter the risk.  
 __the works__ :two::hammer:  
 __then again__  
 __there is something about__  
@@ -890,6 +926,7 @@ __thick-skulled__ Stupid, dimwitted, or obtuse.
 __this time around__  
 __thread the needle__  
 __throw in__ _He is going to throw in every dirty trick he can think of._  
+__throw someone under the bus__ To betray or sacrifice someone for personal gain. Given the dark, double-crossing nature of Ellroy’s world, this idiom might appear when characters betray others to protect themselves or advance their interests.  
 __throw the book at (one)__ :dart: _The NY Times sure loves throwing the book at AI startups._  
 __thumb one’s nose__  
 __tick away__  
@@ -911,6 +948,7 @@ __trials and tribulations__
 __trick of the light__  
 __triple whammy__ A combination of three different elements, circumstances, or actions that results in a particularly powerful force, outcome, or effect. _Deregulation of the financial sector, securitization of huge amounts of various debt, and fluctuating national interest rates formed a triple whammy that sent the stock market crashing._  
 __trundle along__ To proceed along (something) in a slow, heavy, or ungainly manner.  
+__under the hood__  
 __unfamiliar territory__  
 __up a notch__ To an increased or extreme degree of intensity or quality.  
 __wait and see__ :two::hammer:  

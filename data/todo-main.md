@@ -15,6 +15,7 @@ __afoot__ _adj, adv_
 __agency__ _n_  
 __agonistic__ _adj_ Striving to overcome in argument. _Syn_ combative _The incumbent’s aggressive, agonistic approach to the debate alienated many of his supporters._  
 __airlock__ _n_ A chamber that provides access to space where air is under pressure. _Syn_ air lock  
+__allision__ _n_ (_vs_ collision)  
 __amalgamate__ _v_ /uh-MAL-guh-mayt/ _Amalgamate_ is a formal verb meaning “to unite (two or more things) into one thing.”  
 __andirons__ _n_  
 __anemone__ _n_ :mega: /əˈnɛm əˌni/ /uh–nem–uh-nee/  
@@ -102,6 +103,7 @@ __bridge<sup>1</sup>__ _n_
 __bridge<sup>2</sup>__ _vt_ __1__ To build or provide a bridge over something; span: _to bridge a river._ __2__ To connect or reduce the distance between: _let us bridge our differences._  
 __bridle__ _n_ The act of restraining power or action or limiting excess. _Syn_ check, curb _His common sense is a bridle to his quick temper._  
 __brimstone__ _n_ __1__ Sulfur, especially considered as a component of the torments of hell in Christianity. (See _fire and brimstone_.) An obsolete name for sulphur.  
+__brogue__ _n_ /BROHG/ A _brogue_ is a low shoe, usually made of leather, that is decorated with small holes along the sides at the toe, and that usually features a wing tip.  
 __bub__ _n slang_ :dart:  
 __buckle__ _v_  
 __bud vase__ _n_ A small narrow vase for holding a single flower or small bouquet.  
@@ -133,6 +135,7 @@ __check<sup>2</sup>__ _vt_ :dart: __2a__ To arrest or slow the motion or progres
 __check<sup>3</sup>__ _vi_  
 __checkout line__ _n_ A queue of people waiting to pay for purchases.  
 __chemistry set__ _n_ An educational toy allowing the user (typically a teenager) to perform simple chemistry experiments.  
+__cherub__ _n_ /ˈtʃɛr əb/  
 __chide__ _v_ :two::hammer:  
 __choir__ _n_ :mega: /kwaɪər/ /kwahyuhr/  
 __chortle<sup>1</sup>__ _n_ A snorting, joyful laugh or chuckle.  
@@ -145,7 +148,9 @@ __colonel__ _n_ :mega: /ˈkɜr nl/ /kur-nl/
 __complaisant__ _adj_ /kum-PLAY-sunt/ Someone described as complaisant is willing or eager to please other people, or is easily convinced to do what other people want.  
 __condescension__ _n_ A communication that indicates lack of respect by patronizing the recipient. _Syn_ disdain, patronage  
 __congeal__ _v_ Become gelatinous. _Syn_ jell, set  
+__conscript__ _n_ A conscripted person (such as a military recruit).  
 __contrite__  
+__demure__ _adj_  
 __dimple__ _n_  
 __ding__ _v_  
 __dinghy__ _n_  
@@ -157,11 +162,13 @@ __disengage__ _v_ To release from something that holds fast, connects, or entang
 __disheveled__ _adj_ :two::hammer:  
 __dishevelled__  
 __disinformation__ _n_  
+__dismissive__ _adj_ __2__ Showing indifference or disregard: _a dismissive shrug._  
 __dispel__ _vt_ :es: disipar; desvanecer  
 __dispensary__ _n_  
 __disport__ _v_  
 __disrepute__ _n_ :es: desprestigio  
 __dissatisfied__ _adj_ :two: Feeling or exhibiting a lack of contentment or satisfaction.  
+__dissonance__ _n_ The auditory experience of sound that lacks musical quality; sound that is a disagreeable auditory experience. _Syn_ noise, racket  
 __distress signal__ _n_  
 __dither__ _v_  
 __divest__ _vt_ :dart:  
@@ -250,7 +257,7 @@ __exhort__ _v_ /ig-ZORT/ To urge, persuade, advise, etc. earnestly.
 __exile<sup>1</sup>__ _n_ :es: exilio, destierro, :dart: exiliado, desterrado  
 __exile<sup>2</sup>__ _vt_ :es: exiliar, desterrar  
 __exit poll__ _n_ A poll taken (as by news media) of voters leaving the voting place that is usually used for predicting the winners.  
-__exonerate__ _v_  
+__exonerate__ _vt_ :two::hammer:  
 __exorbitant__ _adj_ /ig-ZOR-buh-tunt/  
 __expansive__ _adj_  
 __extol__ _vt_ (extoll) To praise highly; exalt.  
@@ -331,7 +338,7 @@ __Frisbee__ _n_ A trademark for a plastic disk-shaped toy that players throw and
 __frugal__ _adj_ :two: /FROO-gul/ Someone described as frugal is careful about spending money or using things unnecessarily. _Frugal_ can also describe something that is simple and plain in a way that reflects such carefulness with money and resources. _Sometimes a frugal meal of bread, cheese, and grapes can be just as satisfying as a lavish feast._  
 __Fu Manchu mustache__ _n_ A mustache with ends that hang downward toward or below the chin.  
 __fugacious__ _adj_ /fyoo-GAY-shus/  
-__fulgent__ _adj_ /FUHL-juhnt/ Shining brilliantly; radiant.  
+__fulgent__ _adj_ :two: /ˈfʌl dʒənt/ /FUHL-juhnt/ /FULL-jint/ _Fulgent_ is a formal, often poetic word used to describe something that is dazzlingly bright. Shining brilliantly; radiant. _Syn_ radiant  
 __full board__ _n_ :dart: __a__ The provision by a hotel of a bed and all meals. :es: pensión completa __b__ (as modifier): _full board accommodation._  
 __fumble__ _v_  
 __funfair__  
@@ -471,6 +478,7 @@ __ideate__ _v_ /EYE-dee-ayt/ To ideate is to form an idea or conception of somet
 __ignoramus__  
 __ill temper__ _n_ Bad temper; irritability.  
 __illustrious__ _adj_  
+__immense__ _adj_ :mega: /ɪˈmɛns/ Something described as immense is very great in size, degree, or amount.  
 __imp__ _n_  
 __impasse__ _n_ A situation that is so difficult that no progress can be made. _Syn_ dead end, deadlock, stalemate, standstill  
 __impeccable__  
@@ -524,6 +532,7 @@ __jot<sup>1</sup>__ _n_ :dart: /dʒɒt/ The smallest bit; iota. _(used with a ne
 __jot<sup>2</sup>__ _vt_  
 __Jovian__ _adj_  
 __jubilee__ _n_ :mega: /JOO-buh-lee/  
+__Latin cross__ _n_ A cross with a shorter horizontal bar intersecting a longer vertical bar above the midpoint.  
 __legion<sup>1</sup>__ _n_  
 __legion<sup>2</sup>__ _adj_ :dart: Constituting a large number; multitudinous: _Her admirers were legion._ _His mistakes were legion._  
 __library__ _n_ :mega: /lahy-brer-ee/  
@@ -558,6 +567,7 @@ __mana__ _n_ /MAH-nuh/ Power, energy, force, or prestige. _A leader of great man
 __mandatory__ _n_ :mega: /ˈmæn dəˌtɔr i, -ˌtoʊr i/  
 __mangle__ _v_ __2__ To ruin or spoil through ineptitude or ignorance: _mangle a speech._  
 __mangy__ _adj_  
+__mannequin__ _n_ :astonished: A woman who wears clothes to display fashions. _Syn_ model  
 __mantel__ _n_ The protruding shelf over a fireplace. _Syn_ chimneypiece, mantelpiece  
 __mantra yoga__ _n_ A meditation practice that focuses on chanting sacred syllables along with conscious breathing and a meditative focus to quiet the mind, cultivate spiritual energy, and create states of enlightenment.  
 __mar__ _vt_  
@@ -617,6 +627,7 @@ __mollify__ _v_
 __mongoose__ _n_  
 __monitory__ _adj_ Conveying an admonition or a warning. _Syn_ admonitory, cautionary, exemplary, warning _She shot him a monitory glance and he quickly changed the subject to one less controversial._  
 __Montserrat__ _n_ An island in the Leeward Islands, in the West Indies: British crown colony.  
+__monumental__ _adj_  
 __Moor__  
 __moot<sup>1</sup>__ _adj_ /MOOT/ _Moot_ typically describes something that is no longer important or worth discussing. It can also describe something that is argued about but not possible for people to prove.  
 __moot<sup>2</sup>__ _vt_  
@@ -662,6 +673,8 @@ __oblige__ _vt_
 __obsequious__ _adj_  
 __overworked__ _adj_ :dart:  
 __pad__ _v_  
+__pander__ _v_ To say, do, or provide what someone wants or demands even though it is not proper, good, or reasonable.  
+__pastiche__ _n_ /pass-TEESH/ _Pastiche_ refers to something (such as a piece of writing, music, etc.) that imitates the style of someone or something else. It can also refer to a work that is made up of selections from multiple other works, or it can be used as a synonym of _hodgepodge._  
 __patter__ _v_ Plausible glib talk (especially useful to a salesperson). _Syn_ line of gab, spiel  
 __patty__ _n_  
 __paucity__ _n_ Smallness of number; fewness. _Syn_ dearth  
@@ -881,7 +894,9 @@ __reprieve__ _n_
 __reputedly__ _adv_ /rɪˈpjuːtɪdlɪ/ According to general belief or supposition: _the reputedly excellent food._  
 __restrain__ _v_  
 __restraint__ _n_  
+__retention__ _n_  
 __rod__ _n_  
+__row__ _n_ :astonished: __1__ A noisy or quarrel or disturbance.  
 __saunter__  
 __scamper__ _n_  
 __shapeshift__ _vi_ (biology, fantasy, mythology) To change one’s shape or form (into another) through often magical means, normally applied only to living beings.  
@@ -924,7 +939,7 @@ __slug__ _vt_ __3__ To strike heavily, especially with the fist or a bat. _He sl
 __slumbering__ _adj_ __1__ Temporarily inactive. __2__ Sleeping peacefully; quiescent or dormant.  
 __smite__ _v_  
 __smolder__ _vi_ :two: __1__ To burn with little smoke and no flame. _Luke saw the smoldering piles which had once been human beings._  
-__smorgasbord__ _n_  
+__smorgasbord__ _n_ :two: A varied collection. _Syn_ assortment, miscellanea, miscellany, mixed bag, mixture, motley, potpourri, salmagundi, variety  
 __smugly__ _adv_  
 __snafu__ _n_  
 __snicker__ _v_  
@@ -952,6 +967,7 @@ __start__ _v_ :dart::three: To move suddenly and sharply (as in surprise or alar
 __startle__ _v_ :dart::three: Move or jump suddenly, as if in surprise or alarm. _She started when I walked into the room._ _Syn_ jump, start  
 __statutory__ _adj_  
 __steadfast__ _adj_ /STED-fast/ Someone described as _steadfast_ is very devoted or loyal to a person, belief, or cause. _Steadfast_ is also used to describe something, such as support, that remains unchanging.  
+__steward__ _n_  
 __stilted__ _adj_  
 __stoker__ _n_ A person employed to tend a furnace, as on a steamship.  
 __straddle__ _v_  
@@ -959,6 +975,7 @@ __stray__ _v_
 __streak__ _v_ __4__ To run naked in public, especially as a prank.  
 __strobe__ _n_ __3__ A spot of higher than normal intensity in the sweep of an indicator, as on a radar screen, used as a reference mark for determining distance.  
 __sturdy__ _adj_ _The sturdy Millennium Falcon._  
+__sublimate__ _v_ :astonished: /SUB-luh-mayt/ To sublimate something—such as an impulse, desire, or feeling—is to express it in a changed form that is socially acceptable. _Sublimate_ can also mean “to pass directly from the solid to the vapor state.”  
 __sundry__ _adj_ /ˈsʌn dri/ [:scroll: From _sundor_ “separately, apart, asunder” (see _sunder_) + _-y_]  
 __supposedly__ _adv_ :mega: /suh–poh-zid-lee/ Believed or reputed to be the case.  
 __swashbuckler__ _n_ :es: espadachín; intrépido  
@@ -1000,6 +1017,7 @@ __toadstool__ _n_ Common name for an inedible or poisonous agaric (contrasting w
 __toil__ _vi_  
 __Tonka__ _n_  
 __torpedo__ _vt_ __2__ To render ineffective; destroy or wreck: _to torpedo the administration’s plan._  
+__totality__ _n_ The phase of an eclipse during which it is total; the state of total eclipse.  
 __tout__ _n_ __1__ One who solicits customers brazenly or persistently. _Touts, thieves, and barrow men._  
 __townhouse__ _n_  
 __traduce__ _vt_ :smiling_imp:  
@@ -1054,6 +1072,7 @@ __wharf__ _n_ A platform built out from the shore into the water and supported b
 __wheeddle__ _v_ :smiling_imp:  
 __whimper__ _v_  
 __white-hot__ _adj_  
+__whuff__ _v_ (whuffle) To blow noisily.  
 __Wiffle ball__ _n_  
 __William__ _n_ (Shortened familiar versions in English include Will, Wills, Willy, Willie, Liam, Bill, and Billy)  
 __wisp__ _n_  
