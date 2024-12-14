@@ -36,6 +36,8 @@ I collect words and expressions from multiple written sources, including:
 
 ### Games
 
+- [Britannica’s Games & Quizzes](https://www.britannica.com/quiz/browse)
+  - [Tightrope](https://www.britannica.com/quiz/tightrope)
 - [Merriam-Webster’s Games & Quizzes](https://merriam-webster.com/games)
   - [See All](https://www.merriam-webster.com/games/see-all)
   - [Name That Thing](https://www.merriam-webster.com/games/name-that-thing)

@@ -18381,7 +18381,7 @@ __spouting<sup>2</sup>__ _adj_ Propelled violently in a usually narrow stream. _
 __sprain<sup>1</sup>__ _n_  
 __sprain<sup>2</sup>__ _vt_ :six::hammer: _A sprained thumb._  
 __sprawl__ _v_ :six::hammer: (sprawled, sprawling)  
-__sprawling__ _adj_ :six: Spreading out in different directions. _Sprawling handwriting._ _A sprawling cabin of rustic elegance._  
+__sprawling__ _adj_ :nine: /ˈsprɔːlɪŋ/ Spreading out in different directions. _Sprawling handwriting._ _A sprawling cabin of rustic elegance._  
 __spray charts__  
 __spray paint__ _n_ Paint in an aerosol container for spraying onto surfaces.  
 __spree<sup>1</sup>__ _n_ :four::hammer: _A killing spree._  
@@ -18452,7 +18452,8 @@ __squat<sup>1</sup>__ _v_ :six: (squatted, squatting) Crouch or sit with one’s
 __squat<sup>2</sup>__ _adj_ :seven: Short and thickset; disproportionately broad or wide. _He was muscular and squat._ _She kept her squat rotary phone by her bed._ _Syn_ stocky, dumpy, stubby, stumpy, short, thickset, heavily built, sturdy _A squat gray clinic._  
 __squat<sup>3</sup>__ _n_ :two::hammer: (squats) _Didn’t know squat aboit what went on over there._  
 __squatter__ _n_ :smiling_imp:  
-__squawk__ _v_ :six::hammer: (squawked, squawking) _The walkie-talkie squawked._  
+__squawk<sup>1</sup>__ _v_ :seven::hammer: _The walkie-talkie squawked._ _A squawking sparrow in a nest._  
+__squawk<sup>2</sup>__ _n_  
 __squeak__ _vi_ :five: __2__ _slang_ To turn informer.  
 __squeaker__ _n_ __2__ Something achieved (or escaped) by a narrow margin. _Syn_ close call, close shave, narrow escape, squeak _Clippers keep up hot start in squeaker over Thunder._  
 __squeaky__ _adj_ :three::hammer: _Squeaky cheese curds._  
@@ -18469,12 +18470,12 @@ __squib__ _n_ :four: __2a__ A brief satirical or witty writing or speech, such a
 __squiffy__  
 __squiggly__ _adj_  
 __squinch__ _vt_ To squeeze, twist, or draw together: _squinched her eyes shut._  
-__squire<sup>1</sup>__ _n_ :five::hammer: (squires) _Is he her consort or her squire?_  
-__squire<sup>2</sup>__ _v_ :pencil2::two::hammer: (squiring)  
+__squire<sup>1</sup>__ _n_ :astonished::six::hammer: _Is he her consort or her squire?_  
+__squire<sup>2</sup>__ _v_ :pencil2::two::hammer:  
 __squirm<sup>1</sup>__ _vi_ :nine::m: (squirming) __1__ To move with a wriggling motion; writhe. To move in a twisting or contorted motion, (especially when struggling). _Syn_ twist, worm, wriggle, writhe, wrestle _He tried to squirm free, but the police officer had a firm grip on the man’s wrists._ _Squirming like a toad._ _Five-year-old Katie squirmed in her lap._ __2__ :dart: To feel deep mental discomfort, guilt, embarrassment, etc.  
 __squirm<sup>2</sup>__ _n_ _But his mother was holding him tight, ignoring his squirms._  
 __squirmy__  
-__squirrel__ _n_ /ˈskwɪrəl; _US_ ˈskwɜːrəl; ˈskwʌr-/  
+__squirrel__ _n_ :two::hammer::mega: /ˈskwɪrəl; _US_ ˈskwɜːrəl; ˈskwʌr-/ /skwur–uhl/  
 __squirt gun__ _n_ :two: A water pistol. _Syn_ squirter, water gun, water pistol _Super-soaker squirt guns._  
 __squishing__  
 __squishy__ _adj_  
@@ -18553,7 +18554,7 @@ __standby<sup>2</sup>__ _adj_
 __standby<sup>3</sup>__ _adv_  
 __standee__ _n_ A person who stands, as in a public conveyance, usu. because all seats are occupied.  
 __standings__ _n_ :four: (Sports) A listing of individual competitors or of teams in a league according to their record of performance. _31 points in the overall standings._ _Pac-12 Standings_ _Harvick is third in the standings._ :es: clasificación  
-__standoff__ _n_ :six::hammer:  
+__standoff__ _n_ :seven::hammer:  
 __standoffish__  
 __standout<sup>1</sup>__ _adj informal_ :eight: Exceptionally good. Outstanding; superior. _He became a standout quarterback in the NFL._  
 __standout<sup>2</sup>__ _n_ :five: A person, performance, etc., that is clearly superior to others. _PGA tour standout._  
@@ -18582,8 +18583,9 @@ __stargazer__ _n_
 __stargazing__  
 __stark__ _adj_ :seven: __1__ Clearly distinguished or delineated: _a stark contrast._ _A stark reminder._  
 __starlings__ _n_  
+__start__ _v_ :dart::three: To move suddenly and sharply (as in surprise or alarm). _I started from my chair when I heard the sudden scream._ _Syn_ jump, startle  
 __starter__ _n_ __4__ _Sports_ __a__ One who signals the start of a race. __b__ A participant that starts in a game or race. :es: titular  
-__startle__ _v_  
+__startle__ _v_ :dart::four: Move or jump suddenly, as if in surprise or alarm. _She started when I walked into the room._ _Syn_ jump, start  
 __startling__ _adj_ :six: Causing surprise or fear; striking; astonishing.  
 __stash__ _v_  
 __Stasi__  
@@ -18616,7 +18618,7 @@ __stature__ _n_ :two: __2__ An achieved level; status. _A golf facility of world
 __statute of limitations__ _n phr_ :five: A statute assigning a certain time after which rights cannot be enforced by legal action or offenses cannot be punished.  
 __statute__  
 __statutory rape__  
-__statutory__ _adj_ :four::hammer:  
+__statutory__ _adj_ :six::hammer:  
 __staunch<sup>1</sup>__ _adj_ :nine::m: (staunchest) __1__ Firm and steadfast; loyal or true. _Syn_ loyal, faithful __2__ Having a strong or substantial construction or constitution. _A staunch little cabin._  
 __staunch<sup>2</sup>__ _v_ :two::hammer: _He applied pressure to staunch the flow of blood._  
 __staunchest__ _adj_ :two::hammer:  
@@ -18629,7 +18631,7 @@ __staycation<sup>1</sup>__ _n_ :two: /STAY-kay-shuhn/ A vacation spent at home o
 __staycation<sup>2</sup>__ _vi_ /STAY-kay-shuhn/ To vacation at or close to home.  
 __staying power__  
 __stead__  
-__steadfast__ _adj_ :dart::nine::m: /STED-fast/ __1__ Fixed or unchanging; steady. _He was known for his steadfast will to live._ __2__ Firmly loyal or constant; unswerving. _Syn_ faithful  
+__steadfast__ _adj_ :dart::nine::m: /STED-fast/ __1__ Fixed or unchanging; steady. Used to describe something, such as support, that remains unchanging. _He was known for his steadfast will to live._ __2__ Firmly loyal or constant; unswerving. Someone described as _steadfast_ is very devoted or loyal to a person, belief, or cause. _Syn_ faithful  
 __steadfastly__  
 __steadily__ _adv_ :two::hammer:  
 __steadiness__  
@@ -18700,7 +18702,7 @@ __stevedore__ _n_
 __stew-bums__ _n_  
 __stew<sup>1</sup>__ _n_ :four::hammer: _A stew of drugs and gang crime._ _It captures the stew of hate._  
 __stew<sup>2</sup>__ _v_ :two::hammer: _I have no desire to stew in politics._  
-__steward__ _n_ :four::hammer: (stewards) _Concerned stewards of the Earth._  
+__steward__ _n_ :five::hammer: (stewards) _Concerned stewards of the Earth._  
 __stewardship__ _n_ :four: The position of steward.  
 __stewed tomatoes__  
 __stick > turnaround stick__  
@@ -18734,7 +18736,7 @@ __still life__ _n_ _Still life painting._
 __stillbirth__ _n_ :five::hammer:  
 __stillborn__ _adj_  
 __stilt__ _n_ :eight: (stilts) Stilts are poles, posts or pillars used to allow a person or structure to stand at a height above the ground. _Stilt house._ _Stilt walkers._ _Wooden houses on stilts._  
-__stilted__ _adj_ :two: __1__ (of speech, writing, etc) Formal, pompous, or bombastic. __2__ Not flowing continuously or naturally: _Stilted conversation._ __3__ Standing on stilts. _Villages of stilted houses._  
+__stilted__ _adj_ :three: __1__ (of speech, writing, etc) Formal, pompous, or bombastic. __2__ Not flowing continuously or naturally: _Stilted conversation._ __3__ Standing on stilts. _Villages of stilted houses._  
 __stimulus__  
 __sting operation__ _n_  
 __sting<sup>1</sup>__ _n_ :three::hammer:  
@@ -18774,6 +18776,7 @@ __stodgy__ _adj_ :two::hammer: _The mainstream may sound too stodgy._
 __stoic__ _adj_ /STOH-ik/ Stoic describes someone who shows very little emotion especially in response to a painful or distressing situation.  
 __stoke__ _v_ :nine::m: (stoked, stoking, stoke up) __1__ To add more coal or wood to a fire. _I stoked the furnace for the night._ __2__ To cause something to increase. _Rising oil prices stoked inflation._ _Stoking tensions._  
 __stokehold__ _n_ The area or compartment into which a ship’s furnaces or boilers open. _Syn_ fireroom, stokehole _When the ship was sinking, many passengers were able to escape, but the stokehold crew was trapped below deck._  
+__stoker__ _n_ A person employed to tend a furnace, as on a steamship.  
 __stoking__ _n_  
 __stola__ _n_ /STOH-luh/ A long, draped robe worn by women of ancient Rome. _The traditional garment worn by women in ancient Rome was the stola; men wore the corresponding toga._  
 __stolid__ _adj_ :four: Having or revealing little emotion or sensibility; not easily aroused or excited. _Syn_ impassive _Her face showed nothing but stolid indifference._  
@@ -18874,10 +18877,11 @@ __stratovolcano__ _n_
 __straw__ _n_ :four::hammer: (straws) _To stir straws._  
 __strawhat__ _adj_ Of or relating to summer dramatic performances.  
 __stray dog__ _n_ An ownerless dog, a roaming wild or half-wild dog.  
-__stray<sup>1</sup>__ _v_ :nine: (strays, strayed, straying) __1__ To move away from a group, deviate from the correct course, or go beyond established limits. _Every individual who strays will be punished._ __2__ To become lost. __3__ To wander about without a destination or purpose; roam. _His thoughts strayed._  
+__stray<sup>1</sup>__ _v_ :nine::m: (strays, strayed, straying) __1__ To move away from a group, deviate from the correct course, or go beyond established limits. _Every individual who strays will be punished._ __2__ To become lost. __3__ To wander about without a destination or purpose; roam. _His thoughts strayed._  
 __stray<sup>2</sup>__ _adj_ :seven: __1__ Straying or having strayed; wandering or lost: _stray cats and dogs._ _Stray canines._ _Stray goats._ __2__ Scattered or separate: _a few stray crumbs._ _I still use this language gem in stray conversations._ _A stray word._ _Stray steeples._ _Stray friends._  
 __stray<sup>3</sup>__ _n_  
-__streak__ _n_ :three::hammer: _A cold streak._ _A hot streak._  
+__streak<sup>1</sup>__ _n_ :three::hammer: _A cold streak._ _A hot streak._  
+__streak<sup>2</sup>__ _v_ __4__ To run naked in public, especially as a prank.  
 __streamer__ _n_ :two: A long, narrow strip of material used as a decoration or symbol. _Plastic party streamers._  
 __streaming__ _adj_ Exuding a bodily fluid in profuse amounts. _Streaming eyes._  
 __streamline__ _vt_ :eight::hammer: (streamlined, streamlining) __2__ To improve the efficiency of, often by simplification: _streamline a factory process._ _Streamlining regulations._  
@@ -18928,7 +18932,7 @@ __stripy__ _adj_ Marked with or suggestive of stripes; striped.
 __strive__ _v_ :nine::m: __1__ To exert much effort or energy; endeavor. __2__ To struggle or fight forcefully; contend: _strive against injustice._ _We strive for peace._ _The Buddha never said it was un-kosher to strive._  
 __striver__ _n_ :two: (strivers) One who is industrious and diligent in carrying out tasks or duties. _Syn_ hard worker  
 __strobe light__ _n_ :two::hammer: _The Cubs packed up their fog machine and strobe lights._  
-__strobe__ _n_ :two::hammer: _Strobe lighting._ _Writhing in the strobe lights after dark._  
+__strobe__ _n_ :three::hammer: __3__ A spot of higher than normal intensity in the sweep of an indicator, as on a radar screen, used as a reference mark for determining distance. _Strobe lighting._ _Writhing in the strobe lights after dark._  
 __strobing__ _n_ :two: __1__ A brief flashing on and off, as of a stroboscopic lamp. __2__ (Computer science) The technique required to time-synchronize data appearing as pulses at the output of a computer memory. _Strobing flash._  
 __stroganoff__  
 __stroke<sup>1</sup>__ _n_ _Stroke of good fortune._  
@@ -18988,7 +18992,7 @@ __stupas__
 __stupefaction__ _n_  
 __stupefy__  
 __stupendous__ _adj_ _A stupendous twelve-hour sermon._  
-__sturdy__ _adj_ :seven::hammer:  
+__sturdy__ _adj_ :eight::hammer: _The sturdy Millennium Falcon._  
 __sturgeon__ _n_ :three::hammer: :es: esturión  
 __stutter__ _v_ :two::hammer:  
 __style__ _v_  
@@ -19020,7 +19024,7 @@ __subjugate__ _v_ M:two: ake subservient; force to submit or subdue. _Syn_ subje
 __subjugation__ _n_ Forced submission to control by others.  
 __sublet__ _v_ :three::hammer: (subletting) :es: subarrendar  
 __subletting__ _n_ _(property law, real estate)_ Synonym of sublease.  
-__sublimate__ _v_  
+__sublimate__ _v_ :astonished::two: /SUB-luh-mayt/ To sublimate something—such as an impulse, desire, or feeling—is to express it in a changed form that is socially acceptable. _Sublimate_ can also mean “to pass directly from the solid to the vapor state.”  
 __submachine gun__  
 __submarine__ _v_  
 __submersible__ _adj, n_  
@@ -19132,8 +19136,8 @@ __sundered__ _v_
 __sundown, sunup__ _n_ :four: Sunset, sunrise. _He works sunup to sundown._  
 __sundowner__ _n_ _Sundowner socials._  
 __sundries__ _n pl_ Articles too small or numerous to be specified; miscellaneous items. Small, miscellaneous items of little value.  
-__sundry<sup>1</sup>__ _adj_ :four: Various; miscellaneous: _a purse containing sundry items._ _Sundry blandishments._  
-__sundry<sup>2</sup>__ _n_ _Unique selection of sundries and cosmetics._  
+__sundry<sup>1</sup>__ _adj_ :five: /ˈsʌn dri/ [:scroll: From _sundor_ “separately, apart, asunder” (see _sunder_) + _-y_] Various; miscellaneous: _a purse containing sundry items._ _Sundry blandishments._  
+__sundry<sup>2</sup>__ _n_ :two::hammer: _Unique selection of sundries and cosmetics._  
 __sunken__  
 __sunset<sup>1</sup>__ _n_  
 __sunset<sup>2</sup>__ _v_ _30-Day Notice: Sunsetting Old Portfolio._  
@@ -19175,7 +19179,7 @@ __suppliant__ _n_ One praying humbly for something. _Syn_ petitioner, requester,
 __supplier__ _n_  
 __supply and demand__  
 __support__ _v_  
-__supposably__ _adv_ A may be assumed, imagined, or supposed. _In our modern and supposably transparent era, the government’s motives for war have come into question._  
+__supposably__ _adv_ :two::mega: /suh–poh-zid-lee/ Believed or reputed to be the case. A may be assumed, imagined, or supposed. _In our modern and supposably transparent era, the government’s motives for war have come into question._  
 __suppository__ _n_ :two::hammer:  
 __suppurate__ _v_ :two: To form or discharge pus.  
 __suppurative__ _adj_ _Chronic suppurative skin lesions in a young woman._  
@@ -19259,9 +19263,9 @@ __swarthiness__
 __swarthy__ _adj_ :four: Having a dark complexion or color. _Syn_ dusky, swart, dark-skinned _Swarthy skin._ :es: moreno  
 __swash__ _n_ :two::hammer: _The susurous swash of the sea._  
 __swashbuckle__ _v_  
-__swashbuckler__ _n_  
+__swashbuckler__ _n_ :two::hammer: :es: espadachín; intrépido  
 __swashbuckling__ _adj_ :three::hammer:  
-__swat<sup>1</sup>__ _vt_ :two: To hit sharply; slap; smack: _to swat a fly._  
+__swat<sup>1</sup>__ _vt_ :three: To hit sharply; slap; smack: _to swat a fly._  
 __swat<sup>2</sup>__ _n_ :two: A smart blow; slap; smack.  
 __swatches__  
 __swath__ _n_ :nine::m: (swathe, swathes) __1__ A row or line of grass, corn, or other crop as it falls or lies when mown or reaped. _If the day is windy, the swathes should be high and narrow._ __2__ Strip left clear by the passage of a mowing machine or scythe. _The combine had cut a deep swathe around the border of the fields._ __3__ A broad strip or area of something. _Vast swathes of countryside._ __4__ A strip, belt, or long and relatively narrow extent of anything.  
@@ -19315,7 +19319,7 @@ __swipe<sup>2</sup>__ _v_ Swipe is a comics term for the intentional copying of 
 __swish<sup>1</sup>__ _v_ :four::astonished::hammer: (swishing) _Swishing the liquid._ _To swish a three-pointer._ _Swishing sound._  
 __swish<sup>2</sup>__ _n_ _He felt a slight swish of air._  
 __swish<sup>3</sup>__ _adj_  
-__switch<sup>1</sup>__ _n_  
+__switch<sup>1</sup>__ _n_ :two::hammer:  
 __switch<sup>2</sup>__ _v_  
 __switchback__ _n_ :two::hammer:  
 __switchblade__ _n_ _Switchblade artists._  
@@ -19359,7 +19363,7 @@ __syncope__ _n_ :two: A brief loss of consciousness caused by a temporary defici
 __syndicate__ _n_ :pencil2: _The national gambling syndicate._  
 __syndicated__ _adj_ :two::hammer:  
 __syndrome__ _n_  
-__synecdoche__ _n_ :four: /sɪnˈɛkdəkɪ/ Synecdoche is when a part of something is used to refer to a whole. Example: The commander had an army of 10,000 swords. (The people holding the swords were there, too.)  
+__synecdoche__ _n_ :five::mega: /səˈnɛkdəki/ /sɪnˈɛkdəkɪ/ Synecdoche is when a part of something is used to refer to a whole. Example: The commander had an army of 10,000 swords. (The people holding the swords were there, too.)  
 __synesthesia__ _n_ :three::hammer:  
 __synesthete__ _n_ :two::hammer: _Every synesthete has his own color correspondences._  
 __synod__ _n_ :pencil2:  
@@ -19382,7 +19386,7 @@ __tabbouleh__ _n_ :two::hammer:
 __tabby__ _adj, n_ :two::hammer: /ˈtæbɪ/  
 __table tennis__  
 __table tennos__  
-__table__ _vt_ :dart::four: __2__ To postpone consideration of (a piece of legislation, for example); shelve. Hold back to a later time. _Let’s table that idea._  
+__table__ _vt_ :dart::five: __2__ To postpone consideration of (a piece of legislation, for example); shelve. Hold back to a later time. _Let’s table that idea._  
 __tableau__ _n_ :astonished::three: A picture, as of a scene.  
 __tableaux__  
 __tableland__ _n_ A flat, elevated region; a plateau or mesa. _Syn_ plateau _The hikers climbed all morning, planning to stop for lunch when they reached the tableland._  
@@ -19527,6 +19531,7 @@ __tarmac__ _n_ :four: __1__ Material used for surfacing roads or other outdoor a
 __tarn__ _n_ /tɑːn/ /tɑrn/ A small mountain lake.  
 __tarnation__ _n_ :two: A euphemism for damnation.  
 __tarnish__ _v_ :nine::m::camera: (tarnished) Lose or cause to lose lustre, especially as a result of exposure to air or moisture. _Silver tarnishes too easily._ _Syn_ become discoloured, discolour, stain, rust, oxidize :es: deslustrar  
+__tarot__ _n_ :mega:  
 __tarp__ _n_ :eight: Waterproofed canvas.  
 __tarpaulin__ _n_ :dart::four: Material, such as waterproofed canvas, used to cover and protect things from moisture. _Syn_ tarp :es: lona  
 __tarpon__  
@@ -19561,7 +19566,7 @@ __tattle<sup>2</sup>__ _v_ :dart::three::hammer: (tattling)
 __tattletale<sup>1</sup>__ _adj_  
 __tattletale<sup>2</sup>__ _n_ :two::hammer:  
 __tatty__ _adj_ :two: Somewhat worn, shabby, or dilapidated.  
-__taunt<sup>1</sup>__ _n_ :four::hammer: (taunts) _Song has heard his share of slurs and taunts._  
+__taunt<sup>1</sup>__ _n_ :five::hammer: _Song has heard his share of slurs and taunts._  
 __taunt<sup>2</sup>__ _vt_ :nine::m::smiling_imp: /tɔːnt/ __1__ To reproach in a mocking, insulting, or contemptuous manner: _taunted her for wearing hand-me-down clothes._ _Syn_ ridicule __2a__ To provoke or deride with mockery, contempt, or criticism. To drive or incite (a person) by taunting: _His friends taunted him into asking for a raise._ __b__ To tease and excite sexually: _taunted him with glimpses of skin._  
 __taupe__  
 __Taurus__ _n_ :mega:  
@@ -19574,7 +19579,7 @@ __tavern__ _n_
 __taw<sup>1</sup>__ _vi_ To shoot a marble.  
 __taw<sup>2</sup>__ _vt_ __1__ To prepare raw material for use. __2__ To tan animal skin with alum and salt.  
 __taw<sup>3</sup>__ _n_ __1__ A large marble used as a shooter. __2__ A line from which the players shoot marbles.  
-__tawdry__ _adj_ :six: [:scroll: Short for tawdry lace, a contraction of St Audrey lace. The story goes that Æthelthryth (c. 636-679 CE), also known as Etheldreda and Audrey, loved fine silk laces in her youth. She died of a throat tumor which she considered a punishment for her fondness of necklaces. She was a queen, but later became a nun, and eventually a saint. Cheap laces sold in St Audrey’s Fair in Ely, England, came to be known as St Audrey lace, and eventually shrank to tawdry lace.] Cheap, showy, and gaudy. Poor, cheap quality. Tastelessly showy. _Syn_ flashy, garish, gaudy, gimcrack, loud, meretricious, tacky, tatty, trashy, brassy, cheap  
+__tawdry__ _adj_ :seven: [:scroll: Short for tawdry lace, a contraction of St Audrey lace. The story goes that Æthelthryth (c. 636-679 CE), also known as Etheldreda and Audrey, loved fine silk laces in her youth. She died of a throat tumor which she considered a punishment for her fondness of necklaces. She was a queen, but later became a nun, and eventually a saint. Cheap laces sold in St Audrey’s Fair in Ely, England, came to be known as St Audrey lace, and eventually shrank to tawdry lace.] Cheap, showy, and gaudy. Poor, cheap quality. Tastelessly showy. _Syn_ flashy, garish, gaudy, gimcrack, loud, meretricious, tacky, tatty, trashy, brassy, cheap  
 __tawny__ _n_ :three: A light brown to brownish orange.  
 __tax break__ _n_ :two::hammer: (tax breaks)  
 __tax levy__  
@@ -19613,12 +19618,12 @@ __teeing up__ _v_
 __teem__ _v_ :five: To be full of things; abound or swarm. _Syn_ pullulate, swarm _The street teemed with hundreds of policemen who questioned every potential witness._ _A jungle river teeming with crocodiles._ _A pond teeming with frogs and newts._  
 __teeming__ _adj_ :six::hammer: _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
 __teeny__ _adj_ Tiny.  
-__teeter__ _v_ :nine::m: (teeters, teetered, teetering) __1__ To walk or move unsteadily or unsurely; totter. _Iran is teetering on the brink of a civil war._ _The year teetered on the edge of peace._ __2__ To alternate, as between opposing attitudes or positions; vacillate. __3__ To seesaw.  
+__teeter__ _v_ :nine::m: /ˈti tər/ __1__ To walk or move unsteadily or unsurely; totter. _Iran is teetering on the brink of a civil war._ _The year teetered on the edge of peace._ __2__ To alternate, as between opposing attitudes or positions; vacillate. __3__ To seesaw.  
 __teeter-totter__ _n_ _Upper Northern & Western US_ A plaything consisting of a board balanced on a fulcrum; the board is ridden up and down by children at either end. _Syn_ dandle board, seesaw, teeter, teeterboard, teetertotter, tilting board  
 __teeterboard__ _n_ _Northeastern US_ __1__ A seesaw; teetertotter. __2__ A similar board used by acrobats that propels a person into the air when another person jumps onto the opposite end.  
 __teethe__ _v_  
 __teetotal__ _adj_ Practicing complete abstinence from alcoholic beverages. _Syn_ dry _I happen to be teetotal, so I will forgo the wine being served with dinner._  
-__teetotaler__ _n_ :four: One who abstains completely from alcoholic beverages. _Everybody knew Tod was a teetotaler._  
+__teetotaler__ _n_ :five: (teetotaller) One who abstains completely from alcoholic beverages. _Everybody knew Tod was a teetotaler._  
 __teetotaling__ _n_  
 __teetotum__ _n_ A top, usually having four lettered sides, that is used to play various games of chance. _Syn_ spinning top, whirligig, top _The boy was thrilled to get a bright red teetotum for his birthday and spent all summer watching it spin._  
 __Teflon__ _n_ :three::mega::hammer:  
@@ -19665,7 +19670,7 @@ __temporizer__ _n_ /TEM-puh-ry-zuhr/ :astonished: One who delays, waiting for a 
 __Tempranillo__  
 __ten-year__ _adj_ _A ten-year prison sentence._  
 __tenable__ _adj_  
-__tenacious__ _adj_  
+__tenacious__ _adj_ :two: /tuh-NAY-shus/ Something described as tenacious cannot easily be stopped or pulled part; in other words, it is firm or strong. _Tenacious_ can also describe something—such as a myth—that continues or persists for a long time, or someone who is determined to do something. _Caleb was surprised by the crab’s tenacious grip._  
 __tenacity__ _n_  
 __tenant__ _n_ :two::hammer: (tenants)  
 __tench__ _n_  
@@ -19673,7 +19678,7 @@ __tendentious__ _adj_ /ten-DEN-shus/ _Tendentious_ is a formal word used disappr
 __tender__ _n_ _The company won the tender._  
 __tenderize__ _v_ :two: To make (meat) tender, as by marinating, pounding, or applying a tenderizer.  
 __tendinitis__  
-__tendrils__ _n_  
+__tendril__ _n_ :two::hammer: :es: zarzillo  
 __tenebrific__ _adj_ /ˌtɛnɪˈbrɪfɪk/  
 __tenebrous__ _adj_ /TEN-uh-brus/ _Syn_ gloomy  
 __tenement__ _n_ :three: __1__ A building for human habitation, especially one that is rented to tenants. __2__ A rundown, low-rental apartment building whose facilities and maintenance barely meet minimum standards. _Kids from the tenements._  

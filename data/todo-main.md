@@ -957,40 +957,6 @@ __spindle__ _n_
 __spinning jenny__ _n_ An early spinning machine having more than one spindle, enabling a person to spin a number of yarns simultaneously.  
 __spoor<sup>1</sup>__ _n_ (Hunting) The trail of an animal or person, esp as discernible to the human eye. _The spoor of blood._  
 __spoor<sup>2</sup>__ _v_ (Hunting) To track (an animal) by following its trail.  
-__sprawling__ _adj_ :three::hammer: /ˈsprɔːlɪŋ/  
-__squawk<sup>1</sup>__ _v_ _A squawking sparrow in a nest._  
-__squawk<sup>2</sup>__ _n_  
-__squire__ _n_ :astonished:  
-__squirrel__ _n_ :mega: /skwur–uhl/  
-__standoff__  
-__start__ _v_ :dart::three: To move suddenly and sharply (as in surprise or alarm). _I started from my chair when I heard the sudden scream._ _Syn_ jump, startle  
-__startle__ _v_ :dart::three: Move or jump suddenly, as if in surprise or alarm. _She started when I walked into the room._ _Syn_ jump, start  
-__statutory__ _adj_  
-__steadfast__ _adj_ /STED-fast/ Someone described as _steadfast_ is very devoted or loyal to a person, belief, or cause. _Steadfast_ is also used to describe something, such as support, that remains unchanging.  
-__steward__ _n_  
-__stilted__ _adj_  
-__stoker__ _n_ A person employed to tend a furnace, as on a steamship.  
-__straddle__ _v_  
-__stray__ _v_  
-__streak__ _v_ __4__ To run naked in public, especially as a prank.  
-__strobe__ _n_ __3__ A spot of higher than normal intensity in the sweep of an indicator, as on a radar screen, used as a reference mark for determining distance.  
-__sturdy__ _adj_ _The sturdy Millennium Falcon._  
-__sublimate__ _v_ :astonished: /SUB-luh-mayt/ To sublimate something—such as an impulse, desire, or feeling—is to express it in a changed form that is socially acceptable. _Sublimate_ can also mean “to pass directly from the solid to the vapor state.”  
-__sundry__ _adj_ /ˈsʌn dri/ [:scroll: From _sundor_ “separately, apart, asunder” (see _sunder_) + _-y_]  
-__supposedly__ _adv_ :mega: /suh–poh-zid-lee/ Believed or reputed to be the case.  
-__swashbuckler__ _n_ :es: espadachín; intrépido  
-__swat__ _v_ _He swats a fly._  
-__switch__ _n_  
-__swoop__ _v_  
-__synecdoche__ _n_ :mega: /səˈnɛkdəki/ /sɪnˈɛkdəkɪ/  
-__table__ _vt_  
-__tarot__ _n_ :mega:  
-__taunt__ _n_  
-__tawdry__ _adj_  
-__teeter__ _vi_ :two: __1__ To move or sway unsteadily or unsurely; totter.  
-__teetotaler__ _n_ (teetotaller)  
-__tenacious__ _adj_ /tuh-NAY-shus/ Something described as tenacious cannot easily be stopped or pulled part; in other words, it is firm or strong. _Tenacious_ can also describe something—such as a myth—that continues or persists for a long time, or someone who is determined to do something. _Caleb was surprised by the crab’s tenacious grip._  
-__tendril__ _n_ :es: zarzillo  
 __tenement__ _n_  
 __Terence__ _n_ (Terry)  
 __thalamotomy__ _n_ Surgical excision of a portion of the thalamus, usually to relieve tremor, as in Parkinson’s disease.  
