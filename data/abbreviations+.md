@@ -139,7 +139,7 @@ __ME__ _n_ :three: Medical Examiner. _The ME said there was a look frozen in the
 __MIA__ :two: Missing in action.  
 __MITM__ Man in the middle.  
 __MLK__  
-__MO__ :six: Modus operandi. _With the same MOs._  
+__MO__ :seven: Modus operandi. _With the same MOs._  
 __MOS__ :two: Mom over shoulder.  
 __mos.__ Months.  
 __MP__ __1__ Member of Parliament. __2__ Military police.  

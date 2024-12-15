@@ -31,6 +31,7 @@ __armamentarium__ _n_ :astonished: _(Medicine)_ The items that comprise the mate
 __armistice__ _n_ /AHR-muh-stus/  
 __arrest__ _v_ :dart::two::mega: Cause to stop.  
 __Aryan Brotherhood__ _n_ (the Brand, the AB)  
+__askance__ _adv_  
 __aspersion__ _n_ :smiling_imp:  
 __assembly__ _n_ :two::hammer:  
 __asthma__ _n_ :mega: /ˈæz mə, ˈæs-/ /az-muh/  
@@ -63,6 +64,7 @@ __biennial__ _adj_ Happening every second year. _Syn_ biyearly
 __big game__ _n_ __1__ Large animals or fish hunted or caught for sport.  
 __bilious__ _adj_ __4__ _informal_ Bad-tempered; irritable.  
 __birch tree__  
+__blackmail__ _v_  
 __bland__ _adj_  
 __bleak__ _adj_  
 __bleary__ _adj_  
@@ -123,6 +125,7 @@ __buzzcut__
 __cachet__ _n_ /ka-SHAY/  
 __cadge__ _v_  
 __calico__ _n_  
+__canasta__ _n_ A card game similar to rummy and played using two packs, where the object is to meld groups of the same rank.  
 __canine tooth__ _n_ One of the four pointed conical teeth (two in each jaw) located between the incisors and the premolars. _Syn_ canine, cuspid, eye tooth, eyetooth, dogtooth  
 __canister__ _n_ _A film canister._  
 __carouse__ _v_  
@@ -150,6 +153,9 @@ __condescension__ _n_ A communication that indicates lack of respect by patroniz
 __congeal__ _v_ Become gelatinous. _Syn_ jell, set  
 __conscript__ _n_ A conscripted person (such as a military recruit).  
 __contrite__  
+__cutesy__ _adj_ Deliberately or affectedly cute; precious: _a cutesy boutique._ _A cutesy cheerleader._  
+__darn__ _adj_  
+__dealing__ _n_  
 __demure__ _adj_  
 __dimple__ _n_  
 __ding__ _v_  
@@ -331,8 +337,11 @@ __flinch__ _vi_ :es: estremecerse; encogerse
 __fling__ _v_ :two::hammer: (flung)  
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
 __flyblown__ _adj_ Foul and run-down and repulsive. _Syn_ sordid, squalid _The gang met at a flyblown, grimy little bar on the edge of town to plan its next heist._  
+__fold<sup>1</sup>__ _vt_ __8a__ _informal_ To discontinue operating; close: They had to fold the company a year after they started it. __b__ Games To withdraw (one’s hand) in defeat, as by laying cards face down on a table.  
+__fold<sup>2</sup>__ _vi_  
 __footing__ _n_  
 __frank__ _adj_ __2__ Clearly manifest; evident: _frank enjoyment._  
+__Frederick’s of Hollywood__ _n_ An American lingerie brand formerly with stores in shopping malls across the United States.  
 __friable__ _adj_ /ˈfraɪ ə bəl/ Easily crumbled or reduced to powder.  
 __Frisbee__ _n_ A trademark for a plastic disk-shaped toy that players throw and catch.  
 __frugal__ _adj_ :two: /FROO-gul/ Someone described as frugal is careful about spending money or using things unnecessarily. _Frugal_ can also describe something that is simple and plain in a way that reflects such carefulness with money and resources. _Sometimes a frugal meal of bread, cheese, and grapes can be just as satisfying as a lavish feast._  
@@ -438,6 +447,7 @@ __hazard__ _v_
 __hazel__  
 __heady__ _adj_  
 __hearth__ _n_ The floor of a fireplace, usually extending into a room and paved with brick, flagstone, or cement. _Syn_ fireside  
+__heartrending__ _adj_  
 __heat index__ _n_  
 __heath__ _n_  
 __heathen__ _n_  
@@ -553,6 +563,7 @@ __lycanthrope__ _n_
 __macabre__ _adj_  
 __macaronic__ _adj_ :astonished: __1__ Characterized by Latin words mixed with non-Latin words often given Latin endings. __2__ Composed of a mixture of languages.  
 __machtpolitik__ _n_ /MAHKHT-pol-ee-teek/ Power politics: policies that advocate the use of power and physical force to attain their goals.  
+__mage__ _n_  
 __maggot__ _n_ :two: __1__ The legless, soft-bodied, wormlike larva of any of various dipteran flies, often found in decaying matter. :es: gusano  
 __Magic Eye poster__ _n_  
 __magpie__ _n_ :es: urraca  
@@ -644,8 +655,10 @@ __nape__ _n_
 __nappy__ _n_ _Chiefly British_ A diaper.  
 __newsagent__ _n_ A shopkeeper who sells newspapers, stationery, etc. _Syn_ newsdealer  
 __nibble__ _v_  
+__nifty__ _adj_  
 __nigh__ _adj, adv, prep_ /naɪ/ An archaic, poetic, or dialect word for near.  
 __nightcap__ _n_  
+__ninepins__ _n_  
 __nodule__ _n_  
 __noggin__ _n_ __1__ A small mug or cup. __2__ A unit of liquid measure equal to one quarter of a pint. __3__ _slang_ The human head.  
 __nominal price__ _n_  
@@ -668,6 +681,7 @@ __nursing__ _n_ __1__ The profession of a nurse. __2__ The tasks or care of a nu
 __nurture__ _n, vt_  
 __nutmeg__ _n_  
 __nuzzle__ _v_ :two::hammer: _I nuzzled her neck._  
+__oath__ _n_  
 __obfuscate__ _v_ /AHB-fuh-skayt/ To obfuscate something is to make it more difficult to understand. Obfuscate can also mean “to be evasive, unclear, or confusing.”  
 __oblige__ _vt_  
 __obsequious__ _adj_  
@@ -692,6 +706,7 @@ __pelt<sup>2</sup>__ _vi_ __3__ (foll by _along_, _over_, etc) To move rapidly; 
 __pelt<sup>n</sup>__ _n_ :two::hammer:  
 __pen test__ _n_ (penetration test) An authorized simulated cyberattack on a computer system, performed to evaluate the security of the system.  
 __pensive__  
+__pent-up__ _adj_ (pent up _when postpositive_) __1__ Not given expression; repressed: _pent-up emotions._ __2__ Kept unwillingly: _I’ve been pent up in this office for over a year._  
 __pentacle__ _n_ :dart: /ˈpɛn tə kəl/ A star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon. _Syn_ pentagram, pentangle  
 __penury__ _n_ Extreme want or poverty; destitution. _Syn_ indigence, pauperism, beggary, need  
 __people pleaser__ _n_ (people-pleaser) _As a recovering people-pleaser, saying no is particularly hard to me._  
@@ -714,6 +729,7 @@ __pessary__ _n_ /ˈpɛs ə ri/
 __pestilential__ _adj_ Likely to spread and cause an epidemic disease. _Syn_ pestiferous, plaguey  
 __petrichor__ _n_ :dart::astonished::two: /ˈpɛtrɪˌkɔː/ [:scroll: from Greek _petra_ stone + Greek myth _ichor_, the fluid said to flow in the veins of the gods]  
 __petrol station__ _n_ _Syn_ filling station, gas station, gasoline station  
+__petulant__  
 __phantasmagorical__ _adj_ /fan-taz-muh-GOR-i-kuhl/ Illusory; strange; deceptive; imaginary; surreal; hallucinatory.  
 __phony__ _adj_  
 __pickeball__ _n_  
@@ -895,10 +911,12 @@ __reputedly__ _adv_ /rɪˈpjuːtɪdlɪ/ According to general belief or suppositi
 __restrain__ _v_  
 __restraint__ _n_  
 __retention__ _n_  
+__ristretto__ _n_ A “short shot” of a more highly concentrated espresso coffee. It is made with the same amount of ground coffee, but extracted with a finer grind (also in from 20 to 30 seconds) using half as much water.  
 __rod__ _n_  
 __row__ _n_ :astonished: __1__ A noisy or quarrel or disturbance.  
 __saunter__  
 __scamper__ _n_  
+__scowl__ _v_  
 __shapeshift__ _vi_ (biology, fantasy, mythology) To change one’s shape or form (into another) through often magical means, normally applied only to living beings.  
 __shear__ _v_ (shorn)  
 __shell-shocked__ _adj_ :dart: (shell shocked) __1__ Suffering from shell shock. __2__ Stunned, distressed, or exhausted from a prolonged trauma or an unexpected difficulty.  
@@ -946,6 +964,7 @@ __snicker__ _v_
 __snide__ _adj_ :smiling_imp:  
 __snivel__ _v_ /SNIV-ul/  
 __sniveling__ _n_  
+__snort__ _v_ _She snorts really well for someone with such a cute nose._  
 __snow flurry__ _n_ A light brief snowfall and gust of wind (or something resembling that).  
 __snub-fighter__ _n_ (snub fighter)  
 __snuffbox__ _n_ A small, often decorated box with a hinged lid, used for carrying snuff.  
@@ -957,6 +976,9 @@ __spindle__ _n_
 __spinning jenny__ _n_ An early spinning machine having more than one spindle, enabling a person to spin a number of yarns simultaneously.  
 __spoor<sup>1</sup>__ _n_ (Hunting) The trail of an animal or person, esp as discernible to the human eye. _The spoor of blood._  
 __spoor<sup>2</sup>__ _v_ (Hunting) To track (an animal) by following its trail.  
+__stale__ _adj_ :two::hammer: _Stale coffee._  
+__startled__ _adj_  
+__tee-hee__ _n_ (te-hee) /ˈtiːˈhiː/ __1__ A sound made in imitation of a giggle or titter. __2__ An instance of giggling or tittering. A chuckle.  
 __tenement__ _n_  
 __Terence__ _n_ (Terry)  
 __thalamotomy__ _n_ Surgical excision of a portion of the thalamus, usually to relieve tremor, as in Parkinson’s disease.  
@@ -1012,10 +1034,14 @@ __Uranus__ _n_ :mega: /jʊˈreɪnəs; ˈjʊrənəs/
 __urbane__ _adj_ :astonished:  
 __usher in__  
 __Vandyke beard__ _n_ A short, pointed beard, especially one worn with the cheeks shaven and a mustache.  
+__veil<sup>1</sup>__ _n_  
+__veil<sup>2</sup>__ _vt_ __2__ To conceal or disguise: _a smile that veiled his anger._  
+__veil<sup>3</sup>__ _vi_ To wear a veil.  
 __veld__ _n_ (veldt) Any of the open grazing areas of southern Africa.  
 __vernier__ _n_ (vernier scale)  
 __vicarious__ _adj_  
 __victuals__ _n pl_ /VIT-ulz/ _Victuals_ is a word with an old-fashioned feel that refers to food, and sometimes to both food and drink.  
+__vindictive__ _adj_ :smiling_imp:  
 __vocabulary__ _n_ :mega: /voh-kab-yuh-ler-ee/  
 __volition__ _n_ The act or an instance of making a conscious choice or decision. _Syn_ willing  
 __wabi-sabi__ _n_  
