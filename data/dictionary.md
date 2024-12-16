@@ -6252,7 +6252,7 @@ __elute__ _vt_ :two::hammer: /ee/i-LOOT/ To wash out or extract, especially with
 __elysian__ _adj_ Blissful, delightful. Resembling paradise; causing happiness: _Elysian peace._ Of such surpassing excellence as to suggest divine inspiration: _An elysian meal._  
 __Elysium__ _n_ /i-LIZH-ee-uhm/ A place of perfect happiness.  
 __emaciate__ _v_ :seven: To make or become extremely thin, especially as a result of starvation. _Half of the prison building had enlarged photos of the emaciated prisoners._ _Emaciated cancer patient._  
-__emaciated__ _adj_ Abnormally thin.  
+__emaciated__ _adj_ :four: /ɪˈmeɪsɪˌeɪtɪd/ A very thin especially from disease or hunger or cold. Abnormally thin. _Syn_ bony, cadaverous, gaunt, haggard, pinched, skeletal, wasted  
 __emancipate__ _v_ :two: Free from slavery or servitude.  
 __Emancipation Proclamation__  
 __emancipation__ _n_ :two: /ih-man-suh-PAY-shun/ Emancipation is the act of freeing someone from the restraint, control, or power of another. It is especially used for the act of freeing someone from slavery. _Jomo Kenyatta played a key role in the emancipation of Kenya from European rule in the 1960s and became the first president of the newly independent nation._  
@@ -6271,7 +6271,7 @@ __embezzlement__ _n_
 __embezzler__ _n_ _Embezzlers are heading to Delaware._  
 __embitterment__  
 __emblazon__ _v_ /im-BLAY-zun/ To emblazon something is to decorate its surface, usually with a name, slogan, or picture. _Her favorite souvenir from her trip to the Grand Canyon was a t-shirt emblazoned with a rosy sunset over the famous chasm._  
-__embodiment__  
+__embodiment__ _n_ :two: A new personification of a familiar idea. _Syn_ avatar, incarnation  
 __embody__ _v_ :three::hammer:  
 __embolden__ _vt_ :four::hammer:  
 __embolic__ _adj_ :two: __1__ Of, relating to, or caused by an embolus or an embolism. __2__ Of or relating to emboly.  
@@ -6305,8 +6305,8 @@ __emolument__ _n_ /ih-MAHL-yuh-munt/ An emolument refers to money, gifts, or per
 __emote__ _vi_ :six: /ih-MOHT/ To emote is to express emotion in a very dramatic or obvious way. _He stood on the stage, emoting and gesturing wildly._  
 __empathetic__ _adj_ :two::hammer:  
 __empennage__ _n_ The rear part of an airplane or airship, usu. comprising the stabilizer, elevator, vertical fin, and rudder. _Syn_ tail _The pop superstar is so vain that she had her likeness plastered across her private jet’s empennage._  
-__emphasis__  
-__emphasize__ _v_ :four::pencil2::hammer:  
+__emphasis__ _n_ :three::hammer: /ˈɛm fə sɪs/ /ˈɛmfəsɪs/  
+__emphasize__ _vt_ :five::pencil2::hammer: /ˈɛm fəˌsaɪz/  
 __emphysema__ _n_ :three::mega: /ˌɛmfɪˈsiːmə/ /ĕm′fĭ-sē′mə, -zē′-/ A condition characterized by air-filled expansions of body tissues. _Subcutaneous emphysema._  
 __Empire State__ _n_ The U.S. State of New York.  
 __empirical__ _adj_ :two: /im-PEER-uh-kul/ Relying on or derived from observation or experiment. _Syn_ objective _Scientists insist on empirical results, not mere speculation, to support their theories._  
@@ -6350,6 +6350,7 @@ __end product__
 __end result__  
 __end stage__ _adj_ (end-stage, endstage) The late, fully developed phase of a disease.  
 __end user__ _n_  
+__end-stage__ _adj_ /ĕnd′stāj′/ Of or relating to the final phase of a terminal disease.  
 __endangered__ _adj_ :mega:  
 __endangerment__  
 __endarken__ _vt_ /en-DARK-uhn/ To make dark, less clear, or gloomy.  
@@ -6371,7 +6372,7 @@ __endpiece__ _n_
 __endpoint__ _n_ :two: In clinical trials, a variable linked to the efficacy (e.g., prolongation of survival) or safety issue of the trial. _Surrogate endpoints._  
 __ends__ _n_ __1__ _slang_ Money. __2__ The plural of end. _Until the ends of the earth._ :es: extremos, confines  
 __endurance__ _n_ _Endurance race._  
-__endure__ _v_ :four: Last for a long time.  
+__endure__ _v_ :four: __1__ To undergo (hardship, strain, privation, etc) without yielding; bear. __2__ _vt_ To permit or tolerate. _I could hardly even endure my own reflection in the mirror._ __3__ _vi_ To last or continue to exist.  
 __Energizer Bunny__  
 __energy harvesting__ _n_  
 __energy poverty__ _n_  
@@ -6381,7 +6382,7 @@ __enfeeble__ _v_ To make weak; deprive of strength. _Syn_ debilitate, drain _Alt
 __enfeoffed__ _v_ :three::hammer:  
 __enforcer__ _n_ :three::hammer:  
 __enfranchisement__ _n_ _Enfranchisement of the serfs._  
-__engage__ _v_ :five::hammer: _I’m engaged with my work._  
+__engage__ _v_ :astonished::six::hammer: __1__ To obtain or contract for the services of; employ: _engage a carpenter._ __11__ To involve oneself or become occupied; participate: _engage in conversation._ _I’m engaged with my work._  
 __engaged__ _adj_ :two::hammer: (to marry) __1__ Employed, occupied, or busy. _First time I rang his room his phone was engaged._  
 __engagement__  
 __engender__ _v_ :three: /in-JEN-der/ Engender is a formal word that means “to produce; to cause to exist or to develop.” It is used especially when feelings and ideas are generated.  
@@ -6394,10 +6395,11 @@ __Enigma code__
 __enigma__ _n_ /ih-NIG-muh/ _The formation of the craters on the planet is an enigma to astrophysicists._  
 __enjambments__  
 __enjoin__ _vt_ :two: (enjoined) __1a__ To direct (a person) to do something; order or urge: _The doctor enjoined the patient to walk daily._ __b__ To require or impose (an action or behavior, for example) with authority and emphasis; prescribe. __2__ To prohibit or forbid: _The judge enjoined the merger of the firms._ _The court enjoined the company from merging with its competitor._  
+__enlightened__ _adj_ _Enlightened despot._  
 __enliven__ _v_  
 __enlivened__  
 __enmity__ _n_ :eight: A feeling or condition of hostility; hatred; ill will; animosity. _Syn_ hostility, antagonism  
-__ennui__ _n_ :six::mega: Listlessness and dissatisfaction resulting from lack of interest; boredom. _Syn_ boredom, tedium  
+__ennui__ _n_ :dart::seven::mega: Listlessness and dissatisfaction resulting from lack of interest; boredom. _Syn_ boredom, tedium :es: desgana  
 __enormous__ _adj_ :two::hammer::mega: /ɪˈnɔːməs/  
 __enoteca__ _n_  
 __enough__ _adj, adv, pron_ :mega:  
@@ -6419,6 +6421,7 @@ __ensuite<sup>1</sup>__ _n_ :two: A bathroom connected to a bedroom; a private b
 __ensuite<sup>2</sup>__ _adj_ Connected to a bedroom.  
 __entail<sup>1</sup>__ _v_ :nine::m: /ɪnˈteɪl/ __1__ To have, impose, or require as a necessary accompaniment or consequence: _The investment entailed a high risk._  
 __entail<sup>2</sup>__ _n_  
+__entanglement__ _n_ /ɛnˈtæŋ gəl mənt/  
 __entertain__ _vt_ __3a__ To consider; contemplate: _entertain an idea._  
 __enthrall__ _v_ :six: (enthralled, enthralling) /in-THRAWL/ Enthrall means “to hold the attention of someone by being very exciting, interesting, or beautiful,” or in other words, “to charm.” It is often used in its past participle form, as in _“I was enthralled by the beauty of the landscape.”_ To hold spellbound; captivate: _The magic show enthralled us._  
 __enthralling__ _adj_ :two::hammer:  
@@ -6438,10 +6441,10 @@ __entrance<sup>1</sup>__ _n_
 __entrance<sup>2</sup>__ _v_  
 __entrant__ _n_ :three::dart::astonished: __1__ A person who takes part in a competition or contest. _Syn_ competitor, player, candidate, entry, participant, applicant, contender, contestant _All items submitted for the competition must be the entrant’s own work._ __2__ A new member, as of an association or school. __3__ A person who enters.  
 __entreat__ _v_ _Syn_ beg, plead  
-__entreaty__ _n_ :two: An earnest request or petition; a plea. _Syn_ appeal, prayer  
+__entreaty__ _n_ :dart::four: An earnest request or petition; a plea. _Syn_ appeal, prayer  
 __entrée__  
 __entrench__ _v_ :nine::m: (entrenched) Establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. _Ageism is entrenched in our society._ _Syn_ establish, settle  
-__entrenched__ _adj_ :nine: (of an attitude, habit, or belief) Firmly established and difficult or unlikely to change; ingrained. _An entrenched resistance to change._ __2__ Established firmly and securely. _The entrenched power of the nobility._  
+__entrenched__ _adj_ :nine::m: __1__ (of an attitude, habit, or belief) Firmly established and difficult or unlikely to change; ingrained. Established firmly and securely. _The entrenched power of the nobility._ _An entrenched resistance to change._ __2__ Established firmly and securely. _The entrenched power of the nobility._  
 __entrenchment__  
 __entrepot__ _n_ A place where goods are stored or deposited and from which they are distributed. _Syn_ transshipment center  
 __entrepreneur__ _n_ :pencil2:  
@@ -6458,7 +6461,8 @@ __envisage__ _v_ :four: __1__ To view or regard in a certain way. __2__ To have 
 __envision__ _vt_ :seven::hammer:  
 __eolian__ _adj_ :two: /ee-O-lee-uhn/ (aeolian) [:scroll: After Aeolus, god of the winds in Greek mythology. As keeper of the winds, he gave a bag containing winds to help with Odysseus’s sailing.] Relating to or caused by the wind. Borne, deposited, produced, or eroded by the wind.  
 __epaulets__ _n_ :two::hammer: _The spiffy waiters wear sharp formal jackets with gold epaulets._  
-__epee__  
+__epaulettes__ _n_  
+__épée__ _n_ :two::hammer: /ˈɛpeɪ; _French_ epe/ (epee) :es: espada de esgrima  
 __epenthesis__ _n_ The insertion of a vowel or consonant into a word to make its pronunciation easier.  
 __ephemera__ _n_ :two::hammer: /i-FEM-uhr-uh/  
 __ephemeral<sup>1</sup>__ _adj_ :six: /ɪˈfɛmərəl/ /ih-FEM-uh-rul/ /ih-fem-er-uhl/ [:scroll: From Greek ephemeros (short-lived), from epi- (upon) + hemera (day).] Lasting a very short time; short-lived; transitory. _Syn_ fugacious, passing, short-lived, transitory, transient _Spare me in my ephemeral happiness, leave it to me for a few days, for a few minutes._  
@@ -6478,7 +6482,7 @@ __Episcopalian__
 __epistaxis__ _n_ A nosebleed.  
 __epistolary__ _adj_ Relating to the writing of letters.  
 __epithet__ _n_ :nine: /EP-uh-thet/ (epithets) __1__ A characterizing word or phrase that accompanies, or occurs in place of, the name of a person or thing. _Richard the First is frequently referred to by the epithet “Lionheart.”_ An epithet is a nickname or descriptive term used to refer to someone. _You need to listen to me and not Clueless Kevin over there._ _Walmart removed the racial epithet from the headline._ __2__ A disparaging or abusive word or phrase. _The school’s policy makes it clear that derogatory epithets will not be tolerated._  
-__epitome__ _n_ :nine::m::mega: /ih-PIT-uh-mee/ A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
+__epitome__ _n_ :nine::m::mega: /ɪˈpɪt ə mi/ /ih-PIT-uh-mee/ A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
 __epoch__ _n_ :two: /ˈɛp ək; _esp. Brit._ ˈi pɒk/ /EP-uhk, EE-pok/ A distinctive time period in history.  
 __eponym__ _n_ :three: An eponym can refer to “a word based on or derived from a person’s name,” such as the Gallup poll, named after statistician G.H. Gallup, or Reagonomics (a combination of the last name Reagan and economics). As a rhetorical device, an eponym can be an allusion to a famous person. Example: He is the LeBron James of chess.  
@@ -6502,8 +6506,10 @@ __equipment__ _n_ _The equipment was out of date._
 __equipped__ _adj_ :two::hammer:  
 __equitable__ _adj_ :two: Characterized by fairness; just and right; impartial; unbiased.  
 __equitably__ _adv_ :es: de forma equitativa  
+__Equity__ _n_ :astonished: /ˈɛkwɪtɪ/ _Theatre_ The actors’ trade union. Full name: Actors’ Equity Association  
 __equity__ _n_ :three::hammer:  
-__equivocal__ _adj_ :two: /ih-KWIV-uh-kul/ __1__ Having two or more possible meanings. _Syn_ ambiguous, confusing __2__ Difficult to understand or explain. __3__ Uncertain. _The most recent clinical trial produced equivocal results._  
+__equivocacy__ _n_ /i-KWIV-uh-kuh-see/ The quality of being deliberately ambiguous or vague.  
+__equivocal__ _adj_ :three: /ih-KWIV-uh-kul/ __1__ Having two or more possible meanings. _Syn_ ambiguous, confusing __2__ Difficult to understand or explain. __3__ Uncertain. _The most recent clinical trial produced equivocal results._  
 __equivocate__ _v_ To be deliberately ambiguous or unclear in order to mislead or withhold information. _Syn_ prevaricate, beat around the bush, palter, tergiversate  
 __equivocation__ _n_  
 __era__ _n_  
@@ -6516,7 +6522,7 @@ __errand__ _n_ _He had an errand to run._
 __errata__  
 __erratum__ _n_ An error in printing or writing, especially such an error noted in a list of corrections and bound into a book. _Syn_ misprint, typo, literal error  
 __ersatz__ _adj_ :five: /AIR-sahts/ __1__ Being a usually inferior imitation or substitute; artificial. Ersatz describes a usually artificial and inferior substitute or imitation. _Syn_ imitation _He was fairly sure that no coffee beans had been involved in its production, but he was tired enough to drink the ersatz coffee anyway._ _Ersatz coffee made of chicory._ _Her snootier peers never forgave her for attending the gala in an ersatz mink coat._ __2__ Not genuine; fake.  
-__erstwhile__ _adj_ :seven::hammer:  
+__erstwhile__ _adj_ :eight: Former; of times past: _erstwhile friends._  
 __eruct__ _v_ /ɪˈrʌkt/ (eructate)  
 __erudite__ _adj_ Having or showing knowledge that is gained by studying.  
 __erupt__ _vi_ :four::hammer: (erupted)  
@@ -6531,7 +6537,7 @@ __escape velocity__ _n_
 __escapism__ _n_ :three::mega: The tendency to escape from daily reality or routine by indulging in daydreaming, fantasy, or entertainment.  
 __escarpment__ _n_ :two: A steep slope or long cliff that results from erosion or faulting and separates two relatively level areas of differing elevations. _Syn_ scarp  
 __eschatology__ _n_ :astonished: /es-kuh-TOL-uh-jee/ [:scroll: From Greek eschatos (last) + -logy (study).] The doctrine or the study of final or ultimate matters, such as, death, judgment, end of the world, etc. _He wished to learn the eschatology of the world; he dared to contemplate the Mind of God._  
-__eschew__ _vt_ :five: /ɪsˈtʃuː/ (Formal) To keep clear of or abstain from (something disliked, injurious, etc); shun; avoid. To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._ _Eschewing commas._  
+__eschew__ _vt_ :dart::six: /ɪsˈtʃuː/ /ess-CHOO/ (Formal) To keep clear of or abstain from (something disliked, injurious, etc); shun; avoid. To eschew something is to avoid it, especially because you do not think it is right, proper, or practical. To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._ _Eschewing commas._ _Their teacher was known as a Luddite because he eschewed the use of smartphones and tablets in the classroom._  
 __escritoire__ _n_ A writing table; a desk. _Syn_ secretaire, writing table, secretary  
 __escrow<sup>1</sup>__ _n_ :seven: __1__ A deposit or fund held in trust or as a security. _An escrow account._ _Money to be held in escrow._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
 __escrow<sup>2</sup>__ _v_  
@@ -6544,7 +6550,7 @@ __espadrilles__ _n_
 __espalier__ _n_ _Espalier fruit trees._  
 __esplanade__ _n_ :two: A flat open stretch of pavement or grass, especially one designed as a promenade along a shore.  
 __espouse__ _v_ :five: /ih-SPOWZ/ __1__ Espouse is a formal word that means “to take up and support as a cause.” To adhere to or advocate: _espoused a contrarian viewpoint._ _The new theory has been espoused by many leading physicists._ _Espousing warm ties with Russia._ __2__ It can also mean “to marry someone.”  
-__espresso__ _n_ :two::pencil2: A strong coffee prepared by forcing live steam under pressure, or boiling water, through ground dark-roast coffee beans. The word itself comes from the Italian _caffè espresso_, which roughly means pressed coffee. Though espresso is also known for its bold, bitter flavor, it actually has less caffeine than a cup of drip coffee, contrary to popular belief.  
+__espresso__ _n_ :three::pencil2::mega: /ɛˈsprɛsəʊ/ /ɛˈsprɛs oʊ/ /e-spres-oh/ A strong coffee prepared by forcing live steam under pressure, or boiling water, through ground dark-roast coffee beans. The word itself comes from the Italian _caffè espresso_, which roughly means pressed coffee. Though espresso is also known for its bold, bitter flavor, it actually has less caffeine than a cup of drip coffee, contrary to popular belief.  
 __esprit de corps__ _n_ A common spirit of comradeship, enthusiasm, and devotion to a cause among the members of a group.  
 __essence__ _n_ :two::hammer::pencil2: /ˈɛs əns/  
 __essential hypertension__ _n_ :dart: Persistent and pathological high blood pressure for which no specific cause can be found.  
@@ -6578,7 +6584,7 @@ __ethanol__ _n_
 __ether__ _n_ The element believed in ancient and medieval civilizations to fill all space above the sphere of the moon and to compose the stars and planets. _Syn_ quintessence _The stars, the ancients believed, both inhabited and were composed of the ether._  
 __ethereal__ _adj_ :two::hammer: /ih-THEER-ee-ul/  
 __ethereality__ _n_  
-__ethos__ _n_ :dart::nine::m: /ˈi θɒs, ˈi θoʊs, ˈɛθ ɒs, -oʊs/ The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement. _They cultivated a subversive alternative ethos._ _The ethos of employees helping one another has stayed strong._ _The D.I.Y. ethos._ _The militaristic ethos of SWAT._ :es: espíritu, escala de valores  
+__ethos__ _n_ :dart::nine::m: /ˈi θɒs, ˈi θoʊs, ˈɛθ ɒs, -oʊs/ /EE-thahss/ _Ethos_ refers to the guiding beliefs of a person, group, or organization. The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement. :es: espíritu; escala de valores _The company made environmental awareness part of its business ethos._ _They cultivated a subversive alternative ethos._ _The ethos of employees helping one another has stayed strong._ _The D.I.Y. ethos._ _The militaristic ethos of SWAT._ :es: espíritu, escala de valores  
 __etiology__  
 __etiquette__ _n_ :two: /ET-ih-kut/ Etiquette refers to the rules of proper and polite behavior that are expected in social or official life.  
 __etymological__ _adj_ _Etymological dictionaries show how languages borrow words from each other._  
@@ -6592,10 +6598,11 @@ __eunoia__ _n_ /yoo-NOY-uh/ [:scroll: From Greek eunoia (well mind), from eu (we
 __eunuch__ _n_  
 __euphemism__ _n_ :four: /YOO-fuh-miz-um/ [:scroll: Derived from the Greek words “eu” (meaning “good”) and “pheme” (meaning “speech”)] An agreeable or inoffensive word or phrase that is used instead of one that may offend or suggest something unpleasant. Euphemism is using alternative language to refer to explicit or unpleasant things. Example: The baseball struck him in a sensitive area. _The euphemism “passed on” is often used to communicate the unpleasant news that someone has “died.”_  
 __euphonium__ _n_  
-__euphoria__ _n_ [:scroll: New Latin, from Greek, from euphoros, _healthy_ : eu-, eu- + pherein, _to bear_] A feeling of great happiness or well-being.  
+__euphoria__ _n_ :two: /yoo-FOR-ee-uh/ [:scroll: New Latin, from Greek, from euphoros, _healthy_ : eu-, eu- + pherein, _to bear_] A feeling of great happiness or well-being. _Euphoria_ refers to a feeling of great happiness and excitement.  
 __eupnea__ _n_ /yoop-NEE-uh/ [:scroll: From Greek eu- (good) + pnein (to breathe).] Normal breathing.  
 __eurythmic__ _adj_  
 __eurythmics__ _n_ :three::astonished: The art of harmonious bodily movement especially through expressive timed movements in response to improvised music. The interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding. _Syn_ eurhythmics, eurhythmy, eurythmy  
+__eurythmy__ _n_  
 __euryvocalic<sup>1</sup>__ _adj_ :dart: Containing each of the six vowels once. “Euryvocalic” is coined here to refer to these words; “eury-” meaning “broad”, referring to the broad range of vowels. Euryvocalics are a subset of panvocalics (which can have repeated vowels) and of euvocalics (which need not have a “y”).  
 __euryvocalic<sup>2</sup>__ _n_ A word that contains each of the six vowels once.  
 __Euskara__ _n_ :astonished: The Basque language.  
@@ -6610,6 +6617,7 @@ __evening star__ _n_ A planet, especially Venus or Mercury, that is prominent ne
 __evensong__ _n_  
 __eventual__ _adj_  
 __evergreen__ _adj_ :two: __2__ Perennially fresh or interesting; enduring.  
+__evertone__ _n_  
 __everyday__ _adj_ :three::pencil2: Very common or completely normal, and often not very interesting.  
 __everywhen__ _adv_ /ˈɛvrɪˌwɛn/ Always, at all times.  
 __evict<sup>1</sup>__ _n_ :es: desahucio  
@@ -6629,7 +6637,7 @@ __ex__ _n_
 __ex-con__ _n informal_ :two: A former prisoner.  
 __exacerbate__ _v_ :nine::m: /ig-ZASS-er-bayt/ (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
 __exacerbation__ _n_  
-__exact__ _vt_ :nine::m: (exacted, exacting) __1__ To force or compel (payment or performance); extort: _to exact tribute._ __2__ To demand and obtain by force or authority. To demand as a right; insist upon: _to exact respect from one’s employees._ _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._ _They exacted all the spare parts from him._ __3__ To call for or require: _this work exacts careful effort._ _It serves fine local produce, cooked to chef Jane’s exacting standards._  
+__exact__ _vt_ :nine::m: /ig-ZAKT/ __1__ To force or compel (payment or performance); extort: _to exact tribute._ __2__ To exact something (such as payment or revenge) is to demand it and get it, especially by using force or threats. To demand and obtain by force or authority. To demand as a right; insist upon: _to exact respect from one’s employees._ _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._ _They exacted all the spare parts from him._ __3__ To call for or require: _this work exacts careful effort._ _Exact_ is also used in phrases like “exact a terrible toll” and “exact a high/heavy price” to say that something has caused a lot of suffering, loss, etc. _It serves fine local produce, cooked to chef Jane’s exacting standards._  
 __exacting__ _adj_ :dart: _An exacting editor._  
 __exaction__ _n_ :two::hammer:  
 __exaggerate__  
@@ -6638,9 +6646,10 @@ __exalt__ _v_
 __exam__ _n_ :mega:  
 __exasperate__ _v_ /ig-ZASS-puh-rayt/ _The flight delays began to exasperate people in the airport._  
 __exasperation__ _n_ :two::hammer:  
+__excavate__ _v_ Remove the inner part or the core of. _Syn_ dig, hollow _The mining company wants to excavate the hillside and build a tunnel._  
 __exceed__ _v_  
 __exceedingly__  
-__excelsior__  
+__excelsior__ _adj_ :two: Ever upward: motto of New York State.  
 __exceptionable__ _adj_ Open or liable to objection or debate; debatable. _Syn_ objectionable  
 __excess__ _adj_ :six::hammer: _Excess mortality._ _He’s raised or spent in excess of $5,000 on political activity._  
 __exchequer__ _n_ /ɪksˈtʃɛkə/  
@@ -6661,7 +6670,7 @@ __exculpatory__ _adj_ Tending to clear someone, especially a suspect, of guilt o
 __excursionist__ _n_ A tourist who is visiting sights of interest. _Syn_ rubberneck, sightseer, tripper _The city’s economy depends on tourism, and an influx of enthusiastic excursionists is always welcome._  
 __excursus__ _n_ A message that departs from the main subject. _Syn_ digression, divagation, parenthesis, aside _After yet another long excursus on the subject of housecats, the absent-minded professor finally returned to his main point._  
 __exec__ _n informal_ :six: (execs) __1__ An executive. _I’m a retired tech exec._ __2__ The executive officer of a unit of the armed forces. _He has fallen short as an exec._  
-__execrable__ _adj_ Of very poor quality; unequivocally detestable. _Syn_ hateful, odious, deplorable _The meal they were served was execrable from beginning to end, but they were too hungry to care._  
+__execrable__ _adj_ :two: Of very poor quality; unequivocally detestable. _Syn_ hateful, odious, deplorable _The meal they were served was execrable from beginning to end, but they were too hungry to care._  
 __execrate__ _v_ Find repugnant. _Syn_ abhor, abominate, loathe  
 __executive suite__ _n_  
 __exemplary__ _adj_ :three::hammer: _Less-than-exemplary antifouling efforts._  
@@ -6679,19 +6688,22 @@ __exhibit__ _n_
 __exhilarate__ _v_ :three::mute:[ex~~h~~ilarate] /ig-ZIL-uh-rayt/ To make (someone) very happy and excited or elated. Fill with sublime emotion. _Syn_ beatify, inebriate, tickle pink, exalt, thrill _The beauty of the art exhibit exhilarated me so much that I could not wait to get home and paint._  
 __exhilarated__ _adj_ Very happy and excited.  
 __exhilarating__ _adj_ :nine::m: /ɪɡˈzɪləˌreɪtɪŋ/ Causing strong feelings of excitement and happiness: _an exhilarating helicopter trip._ _It is an exhilarating thought._ _Exhilarating adventure._  
-__exhilaration__ _n_  
-__exhort__ _v_ :two: /ig-ZORT/__1__ To incite by argument or advice; urge strongly to do something. __2__ To give warnings or advice; make urgent appeals.  
+__exhilaration__ _n_ :two: The state of being stimulated, refreshed, or elated. _Syn_ excitement  
+__exhort__ _v_ :three: /ig-ZORT/__1__ To incite by argument or advice; urge strongly to do something. To urge, persuade, advise, etc. earnestly. __2__ To give warnings or advice; make urgent appeals.  
 __exhortation__ _n_  
 __exigency__ _n_ Urgent requirements; pressing needs. Often used in the plural. _Syn_ need, demand, requirement, necessity, constraint, wont  
 __exigent__ _adj_ /EK-suh-junt/  
 __exiguous__ _adj_ :two::hammer:  
+__exile<sup>1</sup>__ _n_ :es: exilio, destierro, :dart: exiliado, desterrado  
+__exile<sup>2</sup>__ _vt_ :es: exiliar, desterrar  
 __existential__ _n_ :pencil2:  
+__exit poll__ _n_ A poll taken (as by news media) of voters leaving the voting place that is usually used for predicting the winners.  
 __exodus__ _n_ :four: /EK-suh-duhs/ __1__ _capitalized_ The mainly narrative second book of canonical Jewish and Christian Scripture. __2__ A mass departure. A large scale departure or emigration.  
-__exonerate__ _vt_ :seven: (exonerating) __1__ To clear from accusation, guilt, or blame. Pronounce not guilty of criminal charges. _Syn_ acquit, exculpate, discharge, clear _After the long trial, the suspect was exonerated of the murder charges, much to his relief._ __2__ To relieve from an obligation, duty, or task.  
-__exorbitant__ _adj_ /ig-ZOR-bi-tuhnt/ [:scroll: From Latin exorbitare (to go out of the track), from ex- (out) + orbita (wheel track), from orbis (circle, disk).] Greatly exceeding what’s considered reasonable, especially in cost or price.  
+__exonerate__ _vt_ :nine: __1__ To clear from accusation, guilt, or blame. Pronounce not guilty of criminal charges. _Syn_ acquit, exculpate, discharge, clear _After the long trial, the suspect was exonerated of the murder charges, much to his relief._ __2__ To relieve from an obligation, duty, or task.  
+__exorbitant__ _adj_ :two: /ig-ZOR-bi-tuhnt/ /ig-ZOR-buh-tunt/ [:scroll: From Latin exorbitare (to go out of the track), from ex- (out) + orbita (wheel track), from orbis (circle, disk).] Greatly exceeding what’s considered reasonable, especially in cost or price.  
 __exoteric__ _adj_ :three: __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning “designed for or understood by the specially initiated alone.”  
 __exothermic__ _adj_ Releasing heat. _Syn_ heat-releasing, exothermal  
-__expansive__ _adj_ :five::hammer: _An expansive craft beer list._ _He became expansive and revealed some facts._  
+__expansive__ _adj_ :six::hammer: _An expansive craft beer list._ _He became expansive and revealed some facts._  
 __expansively__ _adv_ _He sucked expansively on his cigar._  
 __expat__ _n_ :seven: _Chiefly British_ An expatriate. _Baroque debut for Moscow expat choir._  
 __expatiate__ _v_ :two::hammer:  
@@ -6736,7 +6748,7 @@ __extent__ _n_
 __extenuate__ _v_ :astonished::two: /ik-STEN-yuh-wayt/ _Extenuate_ is a formal word that is most often used to mean “to lessen the strength or effect of something, such as a risk.” In legal use, to extenuate a crime, offense, etc., is to lessen or to try to lessen its seriousness or extent by making partial excuses.  
 __extirpate__ _v_ :two: /EK-ster-payt/ To destroy totally. _Syn_ eradicate, exterminate, uproot _The district attorney is vowing to extirpate political corruption from City Hall if she is elected mayor._  
 __extol__ _vt_ :nine::m: (extol, extolled, extolling) To praise highly; exalt. _But he extols running as what helps him stay clean._  
-__extort__ _v_  
+__extort__ _vt_ :two::smiling_imp: /ik-STORT/ [:scroll: From Latin extorquere (to wrench out), from ex- (out) + torquere (to twist)] To obtain something by psychological pressure, intimidation, force, threat, etc.  
 __extortion__ _n_  
 __extradite__ _v_ :two: /EK-struh-dyte/ To extradite someone who has been accused of a crime is to send that person to the state or country that has jurisdiction to try them for that crime. _The U.S. has rejected the country’s request to extradite the journalist because of concerns that she will be subjected to an unfair trial there._  
 __extralegal__ _adj_ Not permitted or governed by law. _Syn_ nonlegal  

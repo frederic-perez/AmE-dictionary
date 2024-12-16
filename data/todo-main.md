@@ -16,6 +16,7 @@ __agency__ _n_
 __agonistic__ _adj_ Striving to overcome in argument. _Syn_ combative _The incumbent’s aggressive, agonistic approach to the debate alienated many of his supporters._  
 __airlock__ _n_ A chamber that provides access to space where air is under pressure. _Syn_ air lock  
 __allision__ _n_ (_vs_ collision)  
+__allusion__ _n_ /uh-LOO-zhun/  
 __amalgamate__ _v_ /uh-MAL-guh-mayt/ _Amalgamate_ is a formal verb meaning “to unite (two or more things) into one thing.”  
 __andirons__ _n_  
 __anemone__ _n_ :mega: /əˈnɛm əˌni/ /uh–nem–uh-nee/  
@@ -64,6 +65,7 @@ __biennial__ _adj_ Happening every second year. _Syn_ biyearly
 __big game__ _n_ __1__ Large animals or fish hunted or caught for sport.  
 __bilious__ _adj_ __4__ _informal_ Bad-tempered; irritable.  
 __birch tree__  
+__Black Russian__ _n_ A cocktail made of vodka and a coffee liqueur.  
 __blackmail__ _v_  
 __bland__ _adj_  
 __bleak__ _adj_  
@@ -131,6 +133,7 @@ __canister__ _n_ _A film canister._
 __carouse__ _v_  
 __catnap<sup>1</sup>__ _n_  
 __catnap<sup>2</sup>__ _vi_  
+__cavalier__ _adj_ :dart::astonished: /ˌkæv əˈlɪər, ˈkæv əˌlɪər/ /kav-uh-LEER/ Someone described as _cavalier_ shows no concern for important or serious matters. Cavalier also describes attitudes, manners, etc., that show the same lack of concern. _The company provides regular training about the dangers of being cavalier in sharing privileged information._  
 __chastening__ _adj_ Humbling.  
 __chastise__ _v_ /chass-TYZE/ To chastise someone is to criticize them harshly for doing something wrong. _The waiter was chastised for forgetting the customer’s order._  
 __check<sup>1</sup>__ _n_  
@@ -145,6 +148,7 @@ __chortle<sup>1</sup>__ _n_ A snorting, joyful laugh or chuckle.
 __chortle<sup>2</sup>__ _v_ To utter a chortle or express with a chortle.  
 __chunky__ _adj_ Short and thick; stocky. _Syn_ low-set, squat, squatty, stumpy, dumpy  
 __claimant__ _n_ :dart: /ˈkleɪmənt/ __1__ A person who makes a claim. __2__ _(Law)_ A person who brings a civil action in a court of law. Formerly called: plaintiff  
+__clemency__ _n_  
 __closehanded__ _adj_ Covetous; penurious; stingy; closefisted.  
 __colander__ _n_ /KUH/KAH-luhn-duhr/ (cullender) A utensil with perforations, used for straining or draining foods.  
 __colonel__ _n_ :mega: /ˈkɜr nl/ /kur-nl/  
@@ -156,6 +160,7 @@ __contrite__
 __cutesy__ _adj_ Deliberately or affectedly cute; precious: _a cutesy boutique._ _A cutesy cheerleader._  
 __darn__ _adj_  
 __dealing__ _n_  
+__decadent__ _adj_ :astonished: __2__ Marked by or providing unrestrained gratification; self-indulgent.  
 __demure__ _adj_  
 __dimple__ _n_  
 __ding__ _v_  
@@ -209,6 +214,8 @@ __duck-footed__ _adj_
 __duckblinds__  
 __duffel bag__ _n_  
 __duly__ _adv_ __1__ In a proper manner: _a duly appointed official._  
+__dumbstruck__ _adj_ So shocked or astonished as to be rendered speechless. _Syn_ dumbfounded, flabbergasted, stupefied, thunderstruck  
+__dunlin__ _n_ /ˈdʌnlɪn/ A small bird with a long beak that lives near water.  
 __duodecimo__ _n_  
 __dusky__ _adj_ :two: Characterized by little or inadequate light; shadowy. _Syn_ twilight, twilit  
 __duster__ _n_ :dart::camera: A loose coverall (coat or frock) reaching down to the ankles. _Syn_ gaberdine, smock  
@@ -229,45 +236,6 @@ __egret__ _n_
 __eldritch__ _adj_ /ˈɛl drɪtʃ/ Eerie; weird; spooky.  
 __electrical type__ _n_ A poorly conductive plastic tape used to insulate electrical wires. _Syn_ friction tape, insulating tape, electric tape  
 __elocution__ _n_  
-__emaciated__ _adj_ :two: /ɪˈmeɪsɪˌeɪtɪd/ A very thin especially from disease or hunger or cold.  
-__embodiment__ _n_ A new personification of a familiar idea. _Syn_ avatar, incarnation  
-__emphasis__ _n_ :two::hammer: /ˈɛm fə sɪs/ /ˈɛmfəsɪs/  
-__emphasize__ _vt_ /ˈɛm fəˌsaɪz/  
-__end-stage__ _adj_ /ĕnd′stāj′/ Of or relating to the final phase of a terminal disease.  
-__endure__ _v_ _I could hardly even endure my own reflection in the mirror._  
-__engage__ _v_ :astonished: [tfd.com, first definition!]  
-__enlightened__ _adj_ _Enlightened despot._  
-__ennui__ _n_ :es: desgana  
-__ensconce__ _v_  
-__entanglement__ _n_ /ɛnˈtæŋ gəl mənt/  
-__entreaty__ _n_ :dart::two: An earnest request or petition.  
-__entrenched__ _adj_ __1__ Established firmly and securely. _The entrenched power of the nobility._  
-__epaulettes__ _n_  
-__épée__ _n_ /ˈɛpeɪ; _French_ epe/ (epee) :es: espada de esgrima  
-__epitome__ _n_ :mega: /ɪˈpɪt ə mi/ /ih-pit–uh-mee/  
-__Equity__ _n_ :astonished: /ˈɛkwɪtɪ/ _Theatre_ The actors’ trade union. Full name: Actors’ Equity Association  
-__equivocacy__ _n_ /i-KWIV-uh-kuh-see/ The quality of being deliberately ambiguous or vague.  
-__equivocal__ _adj_  
-__erstwhile__ _adj_ Former; of times past: _erstwhile friends._  
-__eschew__ _v_ :dart: /ess-CHOO/ To eschew something is to avoid it, especially because you do not think it is right, proper, or practical. _Their teacher was known as a Luddite because he eschewed the use of smartphones and tablets in the classroom._  
-__espresso__ _n_ :mega: /ɛˈsprɛsəʊ/ /ɛˈsprɛs oʊ/ /e-spres-oh/  
-__ethos__ _n_ /EE-thahss/ _Ethos_ refers to the guiding beliefs of a person, group, or organization. :es: espíritu; escala de valores _The company made environmental awareness part of its business ethos._  
-__euphoria__ _n_ /yoo-FOR-ee-uh/ _Euphoria_ refers to a feeling of great happiness and excitement.  
-__eurythmy__ _n_  
-__evertone__ _n_  
-__exact__ _v_ /ig-ZAKT/ To exact something (such as payment or revenge) is to demand it and get it, especially by using force or threats. _Exact_ is also used in phrases like “exact a terrible toll” and “exact a high/heavy price” to say that something has caused a lot of suffering, loss, etc.  
-__excavate__ _v_ Remove the inner part or the core of. _Syn_ dig, hollow _The mining company wants to excavate the hillside and build a tunnel._  
-__excelsior__ _adj_ Ever upward: motto of New York State.  
-__execrable__ _adj_  
-__exhort__ _v_ /ig-ZORT/ To urge, persuade, advise, etc. earnestly.  
-__exile<sup>1</sup>__ _n_ :es: exilio, destierro, :dart: exiliado, desterrado  
-__exile<sup>2</sup>__ _vt_ :es: exiliar, desterrar  
-__exit poll__ _n_ A poll taken (as by news media) of voters leaving the voting place that is usually used for predicting the winners.  
-__exonerate__ _vt_ :two::hammer:  
-__exorbitant__ _adj_ /ig-ZOR-buh-tunt/  
-__expansive__ _adj_  
-__extol__ _vt_ (extoll) To praise highly; exalt.  
-__extort__ _vt_ :smiling_imp: /ik-STORT/ [:scroll: From Latin extorquere (to wrench out), from ex- (out) + torquere (to twist)] To obtain something by psychological pressure, intimidation, force, threat, etc.  
 __extreme weather__ _n_  
 __extricate__ _v_ /EK-struh-kayt/ To _extricate_ someone or something is to free or remove that person or thing from an entanglement or difficulty, such as a trap or a difficult conversation. _She hasn’t been able to extricate herself from her legal problems._  
 __exuberant__ _adj_ :astonished: /ig-ZOO-buh-ruhnt/ __1__ Overflowing with energy, enthusiasm, and joy. __2__ Plentiful; productive; growing abundantly.  
@@ -469,6 +437,7 @@ __honors__
 __hoover__  
 __horse brass__ _n_ :camera: A decorative brass ornament, usually circular, originally attached to a horse’s harness.  
 __hose__ _n_ :dart: __1__ (Clothing & Fashion) Stockings, socks, and tights collectively.  
+__hostel__ _n_ an inexpensive lodging facility for usually young travelers that typically has dormitory-style sleeping arrangements and sometimes offers meals and planned activities.  
 __hotplate__ _n_ :two::hammer:  
 __house martin__ _n_ (housemartin)  
 __housing estate__ _n_ A group of often architecturally similar buildings constructed at the same time. Primarily for residential accommodation, estates may also include commercial facilities.  
@@ -578,6 +547,7 @@ __mana__ _n_ /MAH-nuh/ Power, energy, force, or prestige. _A leader of great man
 __mandatory__ _n_ :mega: /ˈmæn dəˌtɔr i, -ˌtoʊr i/  
 __mangle__ _v_ __2__ To ruin or spoil through ineptitude or ignorance: _mangle a speech._  
 __mangy__ _adj_  
+__manifesto__ _n_ A written statement declaring publicly the intentions, motives, or views of its issuer.  
 __mannequin__ _n_ :astonished: A woman who wears clothes to display fashions. _Syn_ model  
 __mantel__ _n_ The protruding shelf over a fireplace. _Syn_ chimneypiece, mantelpiece  
 __mantra yoga__ _n_ A meditation practice that focuses on chanting sacred syllables along with conscious breathing and a meditative focus to quiet the mind, cultivate spiritual energy, and create states of enlightenment.  
@@ -917,6 +887,7 @@ __row__ _n_ :astonished: __1__ A noisy or quarrel or disturbance.
 __saunter__  
 __scamper__ _n_  
 __scowl__ _v_  
+__scuttle__ _vi_ To run or move with short hurried movements; scurry. :es: _to scuttle away or off_ → escabullirse, _to scuttle along_ → correr, ir a toda prisa, _we must scuttle_ → tenemos que marchar  
 __shapeshift__ _vi_ (biology, fantasy, mythology) To change one’s shape or form (into another) through often magical means, normally applied only to living beings.  
 __shear__ _v_ (shorn)  
 __shell-shocked__ _adj_ :dart: (shell shocked) __1__ Suffering from shell shock. __2__ Stunned, distressed, or exhausted from a prolonged trauma or an unexpected difficulty.  
@@ -960,6 +931,7 @@ __smolder__ _vi_ :two: __1__ To burn with little smoke and no flame. _Luke saw t
 __smorgasbord__ _n_ :two: A varied collection. _Syn_ assortment, miscellanea, miscellany, mixed bag, mixture, motley, potpourri, salmagundi, variety  
 __smugly__ _adv_  
 __snafu__ _n_  
+__sneeze__ _vi_  
 __snicker__ _v_  
 __snide__ _adj_ :smiling_imp:  
 __snivel__ _v_ /SNIV-ul/  
@@ -1026,6 +998,7 @@ __unfathomable__ _adj_
 __unfettered__  
 __unfledged__ _adj_ Not having the feathers necessary to fly. Used of a young bird. _Syn_ immature  
 __unlettered__ _adj_ Uneducated in general; lacking knowledge or sophistication. _Syn_ ignorant, nescient, unlearned  
+__unperturbed__ _adj_ Free from emotional agitation or nervous tension. _Sun_ unflurried, unflustered, unruffled  
 __unstudied__ _adj_ Not contrived for effect; natural. _Sun_ uncontrived  
 __unthinkable__  
 __uppity__ _adj_ _informal_ Haughtily arrogant, conceited, or self-important.  
@@ -1038,6 +1011,7 @@ __veil<sup>1</sup>__ _n_
 __veil<sup>2</sup>__ _vt_ __2__ To conceal or disguise: _a smile that veiled his anger._  
 __veil<sup>3</sup>__ _vi_ To wear a veil.  
 __veld__ _n_ (veldt) Any of the open grazing areas of southern Africa.  
+__venerate__ _v_ /VEN-uh-rayt/ To venerate someone or something is to feel or show deep respect for them because they are considered great, holy, etc.  
 __vernier__ _n_ (vernier scale)  
 __vicarious__ _adj_  
 __victuals__ _n pl_ /VIT-ulz/ _Victuals_ is a word with an old-fashioned feel that refers to food, and sometimes to both food and drink.  
@@ -1063,6 +1037,7 @@ __well<sup>3</sup>__ _vt_
 __wharf__ _n_ A platform built out from the shore into the water and supported by piles; provides access to ships and boats. _Syn_ pier, wharfage, dock  
 __wheeddle__ _v_ :smiling_imp:  
 __whimper__ _v_  
+__White Russian__ _n_ A decadent and easy-to-make drink with vodka, Kahlúa and cream.  
 __white-hot__ _adj_  
 __whuff__ _v_ (whuffle) To blow noisily.  
 __Wiffle ball__ _n_  
