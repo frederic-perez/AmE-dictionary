@@ -30,56 +30,6 @@ __aquiline__ _adj_
 __arbiter__ _n_ One chosen or appointed to judge or decide a disputed issue. _Syn_ arbitrator, umpire  
 __armamentarium__ _n_ :astonished: _(Medicine)_ The items that comprise the material and equipment used by a physician in his professional practice.  
 __armistice__ _n_ /AHR-muh-stus/  
-__arrest__ _v_ :dart::two::mega: Cause to stop.  
-__Aryan Brotherhood__ _n_ (the Brand, the AB)  
-__askance__ _adv_  
-__aspersion__ _n_ :smiling_imp:  
-__assembly__ _n_ :two::hammer:  
-__asthma__ _n_ :mega: /ˈæz mə, ˈæs-/ /az-muh/  
-__at__ _prep_ [The preposition _at_ often has connotations of aggression. You _throw_ something _to_ someone if you want them to catch it; if you _throw_ it _at_ them you are trying to hit them. To _laugh at_ someone is to laugh at their expense. Usually we say _talk to_; when Ludlow says _talk at_ (in the movie _Legends of the Fall_) he is saying that his sons are shouting at them without listening to what he has to say in reply.]  
-__attestation__ _n_ __1__ The action of bearing witness. __2__ The evidence by which something is attested.  
-__audacity__ _n_ :es: osadía  
-__aura__ _n_ /ˈɔr ə/  
-__avionics__  
-__avouch__ _vt_  
-__avuncular__ _adj_ uh-VUNG-kyuh-luhr/ Kind, friendly, and helpful, like an uncle, especially in a benevolent or indulgent way.  
-__awry__ _adj, adv_  
-__ballot__ _n_ /ˈbæl ət/ [:scroll: from _ballotta_, the Italian word for “little ball”: when voting was done by the people of Venice during the Renaissance, secrecy was assured by the use of little colored or marked balls] A slip of paper on which a voter marks his or her choice; voting in general.  
-__Barbie__ _n_ A brand of doll representing a slim, shapely young woman, especially one with blond hair, blue eyes, and fair skin.  
-__bargain__ _v_  
-__bargainer__ _n_  
-__bawling__ _n_ _Now you quit your bawling, honey._  
-__bay window__ _n_ :two::hammer::camera:  
-__beachcomber__ _n_  
-__beaker__ _n_ _A beaker of coffee._  
-__beastly<sup>1</sup>__ _adj_ :dart: __1__ _informal_ Unpleasant; disagreeable; nasty: _beastly weather._  
-__beastly<sup>2</sup>__ _adv_ _informal_ (intensifier): _the weather is so beastly hot._  
-__beech__ _n_ (beech tree) :es: haya  
-__behemoth__ _n_  
-__belie__ _v_ :two::hammer:  
-__bellows__ _n_ _n pl_ __1__ The lungs. __2__ :camera: A mechanical device that blows a strong current of air; used to make a fire burn more fiercely or to sound a musical instrument.  
-__bellwether__ _n_ :dart: __1__ [:scroll: Since long ago, it has been common practice for shepherds to hang a bell around the neck of one sheep in their flock, thereby designating it the lead sheep. (Wether is a male sheep, esp a castrated one.)] Sheep that leads the herd often wearing a bell.  
-__besotted__ _adj_ __1__ Stupefied with drink; intoxicated. __2__ Infatuated; doting. __3__ Foolish; muddled.  
-__bevy__ _n_ /BEV-ee/ A _bevy_ is a large group of people or things. _Bevy_ is usually used in the singular form and accompanied by the word _of_.  
-__biennial__ _adj_ Happening every second year. _Syn_ biyearly  
-__big game__ _n_ __1__ Large animals or fish hunted or caught for sport.  
-__bilious__ _adj_ __4__ _informal_ Bad-tempered; irritable.  
-__birch tree__  
-__Black Russian__ _n_ A cocktail made of vodka and a coffee liqueur.  
-__blackmail__ _v_  
-__bland__ _adj_  
-__bleak__ _adj_  
-__bleary__ _adj_  
-__blithe__ _adj_  
-__blithely__ _adv_ In a joyous manner.  
-__block printing__ _n_ _(Art Terms)_ Printing from hand engraved or carved blocks of wood or linoleum.  
-__blood sport__ _n_ Any sport involving killing or the shedding of blood, as bullfighting, cockfighting, or hunting. Any sport involving the killing of an animal, esp hunting.  
-__bloodletting__ _n_  
-__bloodshot__ _adj_  
-__blubbering__  
-__blueberry cobbler__  
-__bluebird__ _n_  
-__bluff__ _n_ A steep headland, promontory, riverbank, or cliff.  
 __board__ _v_ __17__ To furnish with meals, or with meals and lodging, esp. for pay.  
 __boarding house__ _n_ :two::hammer: :es: pensión  
 __boardroom__ _n_ A room where a committee meets (such as the board of directors of a company).  
