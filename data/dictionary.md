@@ -6201,17 +6201,17 @@ __egg white__
 __egg__ _v_  
 __eggcorn__ _n_ :five: A new word or phrase that emerges from mistakenly hearing or interpreting another. Although resulting from a mistake, an eggcorn often still seems to make logical sense. Eggcorn examples: all intensive purposes (“All intents and purposes”), duck tape (duct tape), wet one’s appetite (“whet one’s appetite”)  
 __egghead__ _n informal_ :three: An overly intellectual person.  
-__eggnog__ _n_ :three: A drink made of milk or cream, sugar, eggs, and flavorings that are beaten together and often mixed with a liquor such as rum or brandy. _A big eggnog party._  
+__eggnog__ _n_ :six: /ˈɛgˌnɒg/ A drink made of milk or cream, sugar, eggs, and flavorings that are beaten together and often mixed with a liquor such as rum or brandy. :es: ponche de huevo _A big eggnog party._  
 __eggs benedict__  
 __egoist__ _n_ A conceited and self-centered person. _Syn_ swellhead _There is nothing in this world that the egoist loves more than himself._  
 __egomaniac__  
 __egotism__ _n_  
-__egotistical__ _adj_ :four: Characteristic of those having an inflated idea of their own importance.  
+__egotistical__ _adj_ :five: Characteristic of those having an inflated idea of their own importance. _Syn_ egotistic, narcissistic, self-loving  
 __egotists__  
 __egregious__ _adj_ :dart::nine::m: /ih-GREE-juss/ /ih-gree-juhs, -jee-uhs/ Something that is egregious stands out, but not in a good way — it means “really bad or offensive.” If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game. Extraordinary in some bad way; glaring; flagrant: _an egregious mistake; an egregious liar._  
 __egress<sup>1</sup>__ _n_ :four::hammer:  
 __egress<sup>2</sup>__ _vi_ :two: To go out; emerge.  
-__egret__ _n_ :seven: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
+__egret__ _n_ :eight: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
 __egrote__ _vi_ /EE-groht/ To feign sickness.  
 __Egyptian eye__ _n_ The term _Egyptian eye_ most frequently refers to the Eye of Horus, which is usually depicted as the left eye and represents healing, protection, and wisdom.  
 __Eid al-Fitr__ _n_ An Islamic festival that begins the day after Ramadan ends.  
@@ -6238,12 +6238,13 @@ __elderberry__
 __elderflower__  
 __elderly__ _adj, n_ :two::hammer: :es: tercera edad  
 __eldest__ _adj_  
-__eldritch__ _adj_ :three: /EL-dritch/ Eerie; weird; spooky. Suggesting the operation of supernatural influences. _Syn_ uncanny, weird, unearthly  
+__eldritch__ _adj_ :four: /ˈɛl drɪtʃ/ /EL-dritch/ Eerie; weird; spooky. Suggesting the operation of supernatural influences. _Syn_ uncanny, weird, unearthly  
 __Election Day__  
 __elective__ _n_ _Other students can take up to four fine arts electives._  
 __electric shock__ _n_  
 __electrical flex__ _n_  
 __electrical outlet__ _n_ (outlet, electrical socket, plug, wall plug)  
+__electrical type__ _n_ A poorly conductive plastic tape used to insulate electrical wires. _Syn_ friction tape, insulating tape, electric tape  
 __electrocute__ _vt_  
 __electrolysis__ _n_ :two::pencil2::hammer:  
 __electronics__ _n pl_ (plurale tantum)  
@@ -6266,6 +6267,7 @@ __elk__ _n_ :three::hammer: /ɛlk/ (_n pl_ elk or elks) :es: alce
 __ellipsis__ _n_ /ɪˈlɪp sɪs/ An ellipsis is a series of three consecutive periods known as ellipsis points (...) used to indicate where words have been omitted from quoted text, or (informally) to represent a pause, hesitation, or trailing-off in thought or speech.  
 __elliptic__ _adj_ /i-LIP-tik/ __1__ Marked by extreme economy of expression in speech or writing. __2__ Cryptic, ambiguous, or obscure. __3__ Marked by ellipsis: the omission of one or more words from a sentence. __4__ Relating to or shaped like an ellipse.  
 __elliptical machine__ _n_ _He was working out on an elliptical machine._  
+__elocution__ _n_  
 __elope__ _vi_ :nine::m::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
 __eloquence__ _n_ Powerful and effective language. _Syn_ fluency, smoothness  
 __eloquent__ _adj_ :two::hammer: /EL-uh-kwunt/  
@@ -6782,8 +6784,10 @@ __extravagance__ _n_
 __extravaganza__ _n_ :six::hammer:  
 __extravert__ _adj, n_ /ɛkstrəˌvɜːt/ A variant spelling of extrovert.  
 __extreme unction__ _n_ _The King received extreme unction._  
+__extreme weather__ _n_  
 __extremes__  
-__extricate__ _vt_ :nine::m: (extricated) To remove or free from complication, hindrance, or difficulty. To free or remove someone or something from an entanglement or difficulty. _Syn_ disencumber, disentangle _It will take quite a hefty sum to extricate me from my financial difficulties._ _Rescue crews extricated him from the car._ _Firefighters extricated the passengers from the wreckage._  
+__extricate__ _vt_ :nine::m: /EK-struh-kayt/ To remove or free from complication, hindrance, or difficulty. To free or remove someone or something from an entanglement or difficulty. To _extricate_ someone or something is to free or remove that person or thing from an entanglement or difficulty, such as a trap or a difficult conversation. _Syn_ disencumber, disentangle _It will take quite a hefty sum to extricate me from my financial difficulties._ _She hasn’t been able to extricate herself from her legal problems._ _Rescue crews extricated him from the car._ _Firefighters extricated the passengers from the wreckage._  
+__exuberant__ _adj_ :astonished: /ig-ZOO-buh-ruhnt/ __1__ Overflowing with energy, enthusiasm, and joy. __2__ Plentiful; productive; growing abundantly.  
 __exudate<sup>1</sup>__ _n_ :astonished: An exuded substance.  
 __exudate<sup>2</sup>__ _v_ Release (a liquid) in drops or small quantities. _Exude sweat through the pores._  
 __exude__ _v_ :four::hammer:  
@@ -6804,6 +6808,7 @@ __eye-watering__ _adj_ :three: Painful or extremely unpleasant: _eye-watering el
 __eyeball<sup>1</sup>__ _n_ :three::hammer:  
 __eyeball<sup>2</sup>__ _v_ _slang_ To stare at.  
 __eyeblack__ _n_ :two: Any of various dark pigments applied under the eyes especially by athletes to reduce solar glare. _He displayed a homophobic slur on his eyeblack._  
+__eyebolt__ _n_ A bolt having a ring-shaped head.  
 __eyed__ _v_ :two::hammer: _Pay hikes eyed nonregular workers._  
 __eyedrop__ _n_ _A natural lubricating eyedrop._  
 __eyeglasses__ _n_  
@@ -6852,7 +6857,9 @@ __factual__ _adj_ :two::hammer:
 __faculty__ _n_ :three::astonished: __1__ A group of similarly trained or educated individuals.  
 __fad__ _n_  
 __fadeaway__ _n_ /ˈfeɪdəˌweɪ/ __2__ _Basketball_ A basketball shot made while jumping back from the direction of the basket in order to evade an opponent.  
+__fae__ _prep_ :two: /feɪ/ A Scot word for _from._  
 __faeces__ _n_  
+__faerie__ _n_ (faery) A small being, human in form, playful and having magical powers.  
 __faggot__ _n_ :two: (fagot) __1__ A bundle of twigs, sticks, or branches bound together. _The faggots flamed._ __2__ A bundle of pieces of iron or steel to be welded or hammered into bars.  
 __fail__ _v_ _I’m trying—and failing—to work out the logic of this._  
 __fail-safe__  
@@ -6879,7 +6886,7 @@ __fall into place__
 __fall out of love__  
 __fall over__ _v_  
 __fall__ _n_ [:scroll: The name _fall_ is thought to originate in the phrase _the fall of the leaf_, in reference to the time of year when deciduous trees shed their leaves. The name of its inverse season, _spring_, is thought to come from the phrase _spring of the leaf_—the time when everything is blossoming. The multiple senses of the word _fall_ come in handy for the helpful reminder “Spring Forward, Fall Back,” which serves as a mnemonic about how to set our clocks for daylight-saving time.]  
-__fallacious__ _adj_ Intended to deceive. _Syn_ deceitful, fraudulent _In his closing argument, the prosecutor entreated the jurors not to fall for the defendant’s fallacious testimony._  
+__fallacious__ _adj_ :dart::two::smiling_imp: /fuh-LAY-shus/ _Fallacious_ is a formal word that typically describes something, such as an argument or assumption, that is false or inaccurate and that tends to mislead or deceive others. Intended to deceive. _Syn_ deceitful, fraudulent _In his closing argument, the prosecutor entreated the jurors not to fall for the defendant’s fallacious testimony._  
 __fallacy__ _n_ :six::hammer: _The lump of coding fallacy._  
 __fallback<sup>1</sup>__ _n_ :two::hammer:  
 __fallback<sup>2</sup>__ _adj_ :two: (fall-back) Of or designating something kept in reserve or as an alternative. _The fallback option._  
@@ -6890,11 +6897,11 @@ __Fallon, NV__ _n_
 __fallout__ _n informal_ :nine::m::dart: Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie’s carefully cultivated image._ _The Fukushima fallout._  
 __fallow ground__  
 __fallow land__ _n_  
-__fallow<sup>1</sup>__ _adj_ :two: marked by inactivity; plowed unseeded land: _They let the land go fallow for a season._  
-__fallow<sup>2</sup>__ _n_ _We camped out in fallow fields._  
+__fallow<sup>1</sup>__ _adj_ :four: Marked by inactivity; plowed unseeded land: _They let the land go fallow for a season._ _We camped out in fallow fields._  
+__fallow<sup>2</sup>__ _n_  
 __false flag operation__ _n_ An act committed with the intent of disguising the actual source of responsibility and pinning blame on another party.  
 __false friend__  
-__falsehood__ _n_ :es: falsedad _AI chatbots often present falsehoods as facts and have inconsistent logic, and that can be hard to spot._  
+__falsehood__ _n_ :two::hammer: /ˈfɔls hʊd/ :es: falsedad _AI chatbots often present falsehoods as facts and have inconsistent logic, and that can be hard to spot._  
 __falsetto__  
 __falsify__ _v_ Tamper, with the purpose of deception. _Syn_ fudge, fake, misrepresent, wangle, manipulate, cook _The researcher was tempted to falsify his data in order to secure funding for his study._  
 __falter__ _v_  
@@ -6922,9 +6929,9 @@ __fancy-schmancy__
 __fancy<sup>1</sup>__ _n_  
 __fancy<sup>2</sup>__ _v_ :five: __1a__ To have a liking or enthusiasm for: _He fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
 __fandom__ _n_ :two::hammer:  
-__fanfare__ _n_ :three: A spectacular public display. _Syn_ ostentation _Because they were considered hometown heroes, the returning astronauts were greeted with much fanfare._  
+__fanfare__ _n_ :four: /FAN-fayr/ __1__ A showy public display. A spectacular public display. _Syn_ ostentation _Because they were considered hometown heroes, the returning astronauts were greeted with much fanfare._ __2__ A brief, lively sounding of brass instruments, especially trumpets, in a celebration.  
 __fanfic__ _n_  
-__fang__ _n_ :pencil2::three::hammer: (fangs)  
+__fang__ _n_ :pencil2::four::hammer: __2__ A long, sharp, pointed tooth, especially a canine tooth of a carnivorous animal, such as a dog or wolf, with which it seizes and tears its prey.  
 __fannies__  
 __fanny pack__ _n_ :two: A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name “fanny pack” is derived from the way they were traditionally worn facing the rear above the buttocks, for which “fanny” is a slang term in the United States (a person’s buttocks). :es: riñonera  
 __fantabulous__ _adj_ _informal_ Very good; excellent.  
@@ -6936,7 +6943,9 @@ __fantod__ _n_ :astonished: __1__ fantods __a__ A state of nervous irritability.
 __fanzine__ _n_ :two::mega::hammer:  
 __far fetched__ _adj_ :seven: (far-fetched) Something that is hard to believe. _Syn_ unlikely, unbelievable, doubtful _That isn’t as far-fetched as it sounds._  
 __Far Rockaway__ _n_ A neighborhood on the eastern part of the Rockaway peninsula in the New York City borough of Queens.  
-__far-flung__ _adj_ :seven::hammer: _A far-flung town._ _He represented a far-flung roster of clients in bribery and corruption cases._ _Far-flung operations and profits._  
+__far__ _adv_ __3__ To a considerable degree; much: _felt far better yesterday; eyes that seemed far too close together._  
+__far-fetched__ _adj_ Improbable in nature; unlikely.  
+__far-flung__ _adj_ :nine: __1__ Remote; distant. _A far-flung town._ __2__ Widely distributed; wide-ranging. _He represented a far-flung roster of clients in bribery and corruption cases._ _Far-flung operations and profits._  
 __far-reaching__ _adj_ :two::hammer:  
 __faradization__ _n_  
 __farce__ _n_ :four::hammer: /FAHRSS/ _The award-winning actor has a talent for farce._  
@@ -6950,11 +6959,13 @@ __farouche__ _adj_ :three::hammer:
 __farraginous__ _adj_ Composed of a variety of substances. Heterogeneous; mixed.  
 __farrago__ _n_ :two: A confused mixture; hodgepodge; medley. A motley assortment of things. _Syn_ gallimaufry, hodgepodge, hotchpotch, melange, mingle-mangle, mishmash, oddments, odds and ends, omnium-gatherum, ragbag  
 __farrier__ _n_ A person who shoes horses. _Syn_ horseshoer  
+__farsighted__ _adj_ Planning prudently for the future. _Syn_ foresighted, long, longsighted, prospicient  
 __farther__ _adv_ :two::hammer:  
 __farthing__  
 __fartlek__ _n_ A training technique, used esp. among runners, consisting of bursts of intense effort loosely alternating with less strenuous exertion.  
-__fascia__ _n_ :two::hammer: _The car dashboard fascias._  
+__fascia__ _n_ :three::hammer: _The car dashboard fascias._  
 __fascinate__ _v_ :mute:[fas~~c~~inate]  
+__fascism__ _n_ (sometimes capital)  
 __fashion__ _vt_  
 __fashionista__ _n_  
 __fast and furious__ _adj_ :four: _Cliché_ Very rapidly and with unrestrained energy. _Her work in the kitchen was fast and furious, and it looked lovely when she finished. Everything was going so fast and furious at the store during the Christmas rush that we never had time to eat lunch._  
@@ -6969,7 +6980,7 @@ __fast<sup>2</sup>__ _vi_ __1__ To abstain from food. __2__ To eat very little o
 __fast<sup>3</sup>__ _adj_ :astonished: __9__ Firmly fixed or fastened. Fixed, unmoving. _Holding fast._ _A fast grip._  
 __fasten__ _v_ :mute:[fas~~t~~en]  
 __fastening__ _n_  
-__fastidious__ _adj_ :eight::astonished: /fass-TID-ee-us/ __1__ Showing extreme care when doing something. _The handbags have clearly been made with fastidious attention to detail._ __2__ Less commonly, it may be used to describe a person who is difficult to please. _The quality of food and service at the restaurant should appeal to even the most fastidious diner._  
+__fastidious__ _adj_ :nine::astonished: /fass-TID-ee-us/ __1__ Showing extreme care when doing something. _The handbags have clearly been made with fastidious attention to detail._ __2__ Less commonly, it may be used to describe a person who is difficult to please. _The quality of food and service at the restaurant should appeal to even the most fastidious diner._  
 __fastidiously__ _adv_ :es: meticulosamente _I was fastidiously watching the clock._  
 __fastness__  
 __fat cat__ _n slang_ A person who has great wealth and power.  
@@ -6982,7 +6993,7 @@ __fatherland__ _n_ :astonished:
 __fathom<sup>1</sup>__ _v_ :five::hammer:  
 __fathom<sup>2</sup>__ _n_ (fathoms)  
 __fathometer__ _n_ :astonished: Depth finder for determining depth of water or a submerged object by means of ultrasound waves.  
-__fathomless__ _adj_ __1__ Too deep to be fathomed or measured. :es: insondable __2__ Too obscure or complicated to be understood.  
+__fathomless__ _adj_ :two: __1__ Too deep to be fathomed or measured. :es: insondable _I stared at her fathomless eyes for a second._ __2__ Too obscure or complicated to be understood.  
 __fatigue__ _n_ :three::hammer::mega:  
 __fatigues__ _n_ :four: Clothing worn by military personnel for labor or for field duty.  
 __fatiguing__ _adj_ Causing physical or mental weariness or exhaustion.  
@@ -7011,8 +7022,9 @@ __favoritism__ _n_
 __fawn<sup>1</sup>__ _n_ :five: __1__ A young deer in its first year. _A six-month-old roe fawn._ :es: cervato __2__ A light brown colour. _Soft shades of pale green and fawn._ _Syn_ beige, yellowish-brown, pale brown :es: color beige  
 __fawn<sup>2</sup>__ _v_ :five: /FAWN/ (fawning) __1__ To fawn over someone is to court their favor by groveling or by flattering the person. Attempting to win favor from influential people by flattery. _Syn_ bootlicking, obsequious, sycophantic, toadyish _Still new to celebrity, the musician seemed a bit baffled by those fawning over her during her recent visit to her hometown._ __2__ Fawn is also sometimes used of dogs to mean “to show affection.” _I’d only been gone five minutes but the puppy fawned on me like I’d been away for hours._  
 __fawningly__  
-__faze__ _vt_ :eight: /FAYZ/ To faze someone is to disturb their composure. _Syn_ disconcert, daunt  
-__fealty__ _n_ :three::hammer: :es: lealtad (feudal)  
+__faze__ _vt_ :nine: /FAYZ/ To faze someone is to disturb their composure. _Syn_ disconcert, daunt  
+__fazed__ _adj_ /feɪzd/ Disconcerted; worried; disturbed.  
+__fealty__ _n_ :four: /FEE-ul-tee/ _Fealty_ is an old-fashioned and somewhat literary word that refers to intense loyalty or fidelity to a person, group, etc. More narrowly, _fealty_ refers to the fidelity of a vassal or feudal tenant to their lord. :es: lealtad (feudal)  
 __fear mongering__ _n_ Fear mongering or scaremongering is the deliberate use of fear based tactics including exaggeration and usually repetition to influence the public in order to achieve a desired outcome.  
 __fearless__ _adj_  
 __feasible__ _adj_  
@@ -7025,17 +7037,19 @@ __feature<sup>1</sup>__ _n_ __1__ A distinctive attribute or aspect of something
 __feature<sup>2</sup>__ _v_ :three::hammer: (featuring)  
 __febricity__ _n_ The condition of having a fever. _Syn_ feverishness, pyrexia _His febricity was an indication that his wound had become infected._  
 __febrifuge__ _n_ Any medicine that lowers body temperature to prevent or alleviate fever. _Syn_ antipyretic _The doctor gave me a febrifuge to take if my temperature spiked._  
-__febrile__ _adj_ Of, relating to, or characterized by fever; feverish.  
-__February__ _n_ :mega: (fĕb′ro͞o-ĕr′ē, fĕb′yo͞o-)  
-__feckless__ _adj_ :seven: /ˈfɛk lɪs/ __1__ Ineffective; incompetent; futile. Weak, ineffective. _Syn_ inept _A feckless campaign._ __2__ Having no sense of responsibility; indifferent; lazy. Worthless, irresponsible.  
+__febrile__ _adj_ :two: Of, relating to, or characterized by fever. _Syn_ feverish  
+__February__ _n_ :two::hammer::mega: /fĕb′ro͞o-ĕr′ē, fĕb′yo͞o-/ /feb-roo-er-ee/  
+__feckless__ _adj_ :eight: /ˈfɛk lɪs/ /FECK-lus/ __1__ Ineffective; incompetent; futile. Weak, ineffective. _Feckless_ describes people or things that are weak or ineffective. _Syn_ inept _A feckless campaign._ __2__ Having no sense of responsibility; indifferent; lazy. Worthless, irresponsible.  
 __fecklessness__  
 __Federal lands__ _n_  
 __federate__ _v_ :two::hammer: (federating)  
+__feeder__ _n_ A branch that flows into the main stream. _Syn_ confluent, tributary, affluent  
+__feedstore__ _n_ A store selling feed for animals.  
 __feel for__  
 __feel out__  
 __feign__ _v_ :four::mute:[fei~~g~~n] /FAYN/ To give a false appearance of. _Syn_ sham, simulate, assume _When confronted about the crime, the suspect feigned ignorance of even the most general details._  
 __feijoada__ _n_ :astonished: A Brazilian or Portuguese stew made with beans, pork, and beef, typically served with rice and orange slices.  
-__feint__  
+__feint__ _n_ :two::hammer:  
 __feirie__ _adj_ /ˈfɪərɪ/ Active, vigorous, nimble.  
 __feisty__ _adj_ :eight: Full of energy and lively determination. _The feisty man gloated._  
 __felicitate__ _v_ To offer congratulations to. _Syn_ congratulate _I felicitate you on your memory, sir._  
@@ -7046,7 +7060,7 @@ __fella__ _n informal_ (fellas)
 __felled__ _v_ _He felled a giant._  
 __fellow__ _adj, n_ :two::hammer: _Fellow autistics._ _I am a fellow student._  
 __felon__ _n_ :nine::m: A person who has committed a felony. _Hairston has been tied to a felon through rental cars._  
-__felony__ _n_ A crime regarded in the US and many other judicial systems as more serious than a misdemeanor. _He pleaded guilty to six felonies._  
+__felony__ _n_ :two: A crime regarded in the US and many other judicial systems as more serious than a misdemeanor. _He pleaded guilty to six felonies._  
 __felt pen__  
 __felt__ _n_ :two::hammer: _A black felt pouch from a jewelry store._  
 __feminine__ _adj_ :pencil2:  
@@ -7063,6 +7077,7 @@ __fenugreek__
 __feral__ _adj_ :eight: Of or suggestive of a wild animal. _Syn_ savage _The mugger’s feral scowl was terrifying enough to make me empty my pockets without hesitation._ _Feral hogs._ _Feral cats._ _Three baby feral pigs._  
 __Ferberization__  
 __Ferberizing__  
+__ferment__ _n_ :astonished: A state of agitation or turbulent change or development. _Syn_ agitation, fermentation, tempestuousness, unrest  
 __fern__ _n_ :four::hammer: (ferns) _Fern garden._ :es: helecho  
 __fernery__ _n_  
 __ferns__  
@@ -7078,7 +7093,7 @@ __ferrule__ _n_ :four: (ferule) __1__ A metal ring or cap placed around a pole o
 __ferryboat__ _n_  
 __fertigation__ _n_ /fuhr-ti-GAY-shuhn/ [:scroll: A blend of fertilizer + irrigation] The application of fertilizer by adding it to the water in an irrigation system.  
 __fertile__ _adj_ :mega:  
-__fervent__  
+__fervent__ _adj_ :two: Having or showing great emotion or zeal. _Syn_ ardent, fervid, fiery, impassioned, perfervid, torrid  
 __fervid__ _adj_ /FER-vid/ _Fervid_ is a somewhat formal word describing people or things that express, or are expressive of, strong feelings.  
 __fester<sup>1</sup>__ _n_ A small ulcer or sore containing pus.  
 __fester<sup>2</sup>__ _vt_ :nine: /FESS-ter/ (festered, festering) __1__ To form pus; generate purulent matter; suppurate: _a festering wound._ _Without treatment, the wound began to fester._ __2__ To cause ulceration, as a foreign body in the flesh. :es: ulcerarse __3__ To putrefy or rot. __4__ To rankle, as resentment or bitterness: _The desire for revenge festered in her heart._ _VA’s challenges will only fester if they are kept shrouded in secrecy._ __5__ To become worse as time passes. _The resentment between the knights festered and lead to a battle._  
@@ -7095,17 +7110,17 @@ __fetor__ _n_ An offensive odor; a stench. _Syn_ malodor, reek, stench, stink, m
 __fetter__ _n_ __1__ A chain or shackle for the feet. __2__ Something that confines or restrains someone in some way. _John keeps his smartphone with him when he goes hiking, but Linda leaves hers at home, preferring to free herself temporarily of the fetters of technology._  
 __fettered__ _v_  
 __fetus__ _n_  
-__feud<sup>1</sup>__ _n_ :four::hammer:  
-__feud<sup>2</sup>__ _v_  
+__feud<sup>1</sup>__ _n_ :dart::five::hammer:  
+__feud<sup>2</sup>__ _v_ :two::hammer:  
 __feuded__  
-__feverish__ _adj_ :two::hammer: _Feverish fantasies._  
+__feverish__ _adj_ :three::hammer: _Feverish fantasies._  
 __fewer__ _adj_ (_vs_ less)  
 __fey__ _adj_ :two::hammer:  
 __fez__ _n_  
 __fiancé__ _n_ A man who is engaged to be married.  
 __fiancée__ _n_ A woman who is engaged to be married.  
 __fiasco__ _n_ :three::hammer:  
-__fiat__ _n_ A legally binding command or decision entered on the court record (as if issued by a court or judge). _Syn_ decree, edict, rescript, order  
+__fiat__ _n_ :two: A legally binding command or decision entered on the court record (as if issued by a court or judge). _Syn_ decree, edict, rescript, order  
 __fib<sup>1</sup>__ _n_ :two: A trivial and harmless lie.  
 __fib<sup>2</sup>__ _vi_ :five: (fibbed, fibbing) To tell a trivial and harmless lie.  
 __Fibbies__  
@@ -7115,12 +7130,13 @@ __fibril__ _n_ __2__ _Anatomy_ A threadlike fiber or filament, such as a myofibr
 __fibrillation__ _n_  
 __fibromyalgia__ _n_ :dart::pencil2:  
 __fibroplasia__ _n_  
-__fickle__ _adj_ :two::hammer: _A fickle ally._  
+__fickle__ _adj_ :dart::three: Marked by lack of steadfastness, constancy, or stability; given to erratic changeableness. _A fickle ally._  
 __fictitious__  
 __fictive__ _adj_  
 __ficus__ _n_ :mega:  
 __fiddle__ _v_ :two::hammer: _Fiddling with a handheld device._  
-__fiddle-faddle__  
+__fiddle-faddle<sup>1</aup>__ _n_ :two: /ˈfɪdəlˌfædəl/ Nonsense.  
+__fiddle-faddle<sup>2</sup>__ _v_ :two: To fuss or waste time, esp over trivial matters.  
 __fiddle-footed__ _adj_ __1__ Excitable or nervous: _fiddle-footed ponies._ __2__ Inclined to roam or wander.  
 __fiddled__ _v_  
 __fiddlestick__ _n_  
@@ -7133,6 +7149,7 @@ __fiduciary<sup>2</sup>__ _n_ A trustee.
 __fief__ _n_ :five: A piece of land held under the feudal system. :es: feudo _His personal fief._  
 __fiefdom__ _n_ :three::hammer:  
 __field day__  
+__field dressing__  
 __field trip__ _n_  
 __field__ _v_ :nine::m: (fielded, fielding) __1__ _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ Send out (a team or individual) to play in a game. __3__ Answer adequately or successfully. _To field questions._ _Fielding emails._ _Fielding offers._ _The press office fielded numerous calls from the media._  
 __fiend__ _n_ :three::hammer:  
@@ -7149,7 +7166,7 @@ __fight tooth and nail__
 __fight__ _n, v_ :mute:[fi~~gh~~t]  
 __fighter__ _n_ __2__ A fast, maneuverable combat aircraft used to engage enemy aircraft.  
 __figments__  
-__figuratively__ _adv_  
+__figuratively__ _adv_ :two::hammer:  
 __figure out__ _phr v_ :two::hammer:  
 __figure skates__ _n_  
 __figure skating__  
@@ -7173,7 +7190,7 @@ __fill out__
 __filler__ _n_ _Some pills use fillers made up of rice, or worse, black walnut._  
 __filling__  
 __fillip__ _n_ :three::hammer:  
-__filly__ _n_ :two: /ˈfɪlɪ/ A young female horse, especially one less than four years old. _The filly had to be euthanized when she suffered an unspecified fracture._ :es: potra  
+__filly__ _n_ :three: /ˈfɪlɪ/ A young female horse, especially one less than four years old. _The filly had to be euthanized when she suffered an unspecified fracture._ :es: potra  
 __film noir__ _n_  
 __filmmaker__ _n_ :two: One who directs or produces movies.  
 __filthy__ _adj_  

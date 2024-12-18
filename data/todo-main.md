@@ -141,6 +141,7 @@ __dormitory__ _n_
 __dorsum__ _n_ /ˈdɔːsəm/ (dorsa _n pl_ /-sə/) __1__ _(Anatomy)_ A technical name for the back. __2__ _(Anatomy)_ Any analogous surface: _the dorsum of the hand._  
 __dosser__ _n_ Someone who sleeps in any convenient place. _Syn_ street person  
 __doting__ _adj_  
+__double-check__ _v_  
 __douse__  
 __dovetail__ _v_  
 __downy__  
@@ -179,56 +180,6 @@ __ecchymosis__ _n_ (_n pl_ ecchymoses) The medical term for a bruise.
 __eddy__ _n_ /EDD-ee/ An eddy is a current of water or air running contrary to the main current, especially as a whirlpool. In figurative use, _eddy_ may also refer to a contrary or circular current of thought or policy.  
 __edgeways__  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
-__eggnog__ _n_ :two::hammer:  
-__egotistical__ _adj_ Characteristic of those having an inflated idea of their own importance. _Syn_ egotistic, narcissistic, self-loving  
-__egregious__  
-__egret__ _n_  
-__eldritch__ _adj_ /ˈɛl drɪtʃ/ Eerie; weird; spooky.  
-__electrical type__ _n_ A poorly conductive plastic tape used to insulate electrical wires. _Syn_ friction tape, insulating tape, electric tape  
-__elocution__ _n_  
-__extreme weather__ _n_  
-__extricate__ _v_ /EK-struh-kayt/ To _extricate_ someone or something is to free or remove that person or thing from an entanglement or difficulty, such as a trap or a difficult conversation. _She hasn’t been able to extricate herself from her legal problems._  
-__exuberant__ _adj_ :astonished: /ig-ZOO-buh-ruhnt/ __1__ Overflowing with energy, enthusiasm, and joy. __2__ Plentiful; productive; growing abundantly.  
-__eyebolt__ _n_ A bolt having a ring-shaped head.  
-__fae__ _prep_ :two: /feɪ/ A Scot word for _from._  
-__faerie__ _n_ (faery) A small being, human in form, playful and having magical powers.  
-__fallacious__ _adj_ /fuh-LAY-shus/ _Fallacious_ is a formal word that typically describes something, such as an argument or assumption, that is false or inaccurate and that tends to mislead or deceive others.  
-__fallow__  
-__falsehood__ _n_ /ˈfɔls hʊd/  
-__fanfare__ _n_ /FAN-fayr/ __1__ A showy public display. __2__ A brief, lively sounding of brass instruments, especially trumpets, in a celebration.  
-__fang__ _n_ __2__ A long, sharp, pointed tooth, especially a canine tooth of a carnivorous animal, such as a dog or wolf, with which it seizes and tears its prey.  
-__far__ _adv_ __3__ To a considerable degree; much: _felt far better yesterday; eyes that seemed far too close together._  
-__far-fetched__ _adj_ Improbable in nature; unlikely.  
-__far-flung__ _adj_ :two::hammer:  
-__farsighted__ _adj_ Planning prudently for the future. _Syn_ foresighted, long, longsighted, prospicient  
-__fascia__  
-__fascism__ _n_ (sometimes capital)  
-__fastidious__  
-__fathomless__ _adj_ _I stared at her fathomless eyes for a second._  
-__faze__ _v_  
-__fazed__ _adj_ /feɪzd/ Disconcerted; worried; disturbed.  
-__fealty__ _n_ /FEE-ul-tee/ _Fealty_ is an old-fashioned and somewhat literary word that refers to intense loyalty or fidelity to a person, group, etc. More narrowly, _fealty_ refers to the fidelity of a vassal or feudal tenant to their lord.  
-__febrile__ _adj_ Of, relating to, or characterized by fever. _Syn_ feverish  
-__February__ _n_ :mega: /feb-roo-er-ee/  
-__feckless__ _adj_ /FECK-lus/ _Feckless_ describes people or things that are weak or ineffective.  
-__feeder__ _n_ A branch that flows into the main stream. _Syn_ confluent, tributary, affluent  
-__feedstore__ _n_ A store selling feed for animals.  
-__feint__ _n_  
-__felon__ _n_  
-__felony__ _n_ A crime that has a greater punishment imposed by statute than that imposed on a misdemeanor.  
-__ferment__ _n_ :astonished: A state of agitation or turbulent change or development. _Syn_ agitation, fermentation, tempestuousness, unrest  
-__fervent__ _adj_ Having or showing great emotion or zeal. _Syn_ ardent, fervid, fiery, impassioned, perfervid, torrid  
-__festoon__ _vt_  
-__feud<sup>1</sup>__ _n_ :dart:  
-__feud<sup>2</sup>__ _v_  
-__feverish__ _adj_  
-__fiat__ _n_  
-__fickle__ _adj_ :dart: Marked by lack of steadfastness, constancy, or stability; given to erratic changeableness.  
-__fiddle-faddle<sup>1</aup>__ _n_ /ˈfɪdəlˌfædəl/ Nonsense.  
-__fiddle-faddle<sup>2</sup>__ _v_ To fuss or waste time, esp over trivial matters.  
-__field dressing__  
-__figuratively__ _adv_  
-__filly__ _n_  
 __finagling__ _n_ :smiling_imp: /fɪˈneɪɡlɪŋ/ The use of trickery or craftiness to achieve one’s aims.  
 __fire grate__ _n_ (firegrate, fire-grate) A grate used to hold the fuel in domestic fireplaces and in many forms of heaters and furnaces. _She prepared the fire grates._  
 __firebomb<sup>1</sup>__ _n_ A bomb used to start a fire; an incendiary bomb.  
@@ -382,6 +333,7 @@ __hitherto__
 __hobgoblin__ _n_  
 __hoity-toity__ _adj_ /ˌhɔɪtɪˈtɔɪtɪ/ _informal_ Arrogant or haughty: _we have had enough of her hoity-toity manner._  
 __hollow-point bullet__ _n_  
+__holly__ _n_ _Holly plants are still common during Christmas today, and it is hard to miss their bright green leaves and red berries._ :es: acebo  
 __hometown__ _n_ The town or city of one’s birth, rearing, or main residence.  
 __honors__  
 __hoover__  
@@ -464,6 +416,7 @@ __jubilee__ _n_ :mega: /JOO-buh-lee/
 __Latin cross__ _n_ A cross with a shorter horizontal bar intersecting a longer vertical bar above the midpoint.  
 __legion<sup>1</sup>__ _n_  
 __legion<sup>2</sup>__ _adj_ :dart: Constituting a large number; multitudinous: _Her admirers were legion._ _His mistakes were legion._  
+__lexical__ _adj_ /LEK-sih-kul/ To describe something as _lexical_ is to say that it is related to words or vocabulary.  
 __library__ _n_ :mega: /lahy-brer-ee/  
 __lickspittle__ _n_ A contemptible, fawning person; a servile flatterer or toady.  
 __lidless__ _adj_ Watchful; vigilant. _Syn_ sleepless  
@@ -684,6 +637,7 @@ __poaching__ _v_
 __pocket protector__ _n_ :camera: A thin plastic sheath that fits into the breast pocket of one’s shirt to hold pens and other small instruments and protect the pocket from stains or tears.  
 __pogo stick__ _n_  
 __pogrom__ _n_  
+__poinsettia__ _n_  
 __police__ _n_ (_npl_ police) _The police are looking for you._  
 __politic__ _adj_ Smoothly agreeable and courteous with a degree of sophistication. _Syn_ bland, smooth, suave _He was too politic to quarrel with so important a personage._  
 __poll tax__ _n_ A fixed tax levied on all persons in a certain area, especially as a condition of voting in elections.  
@@ -813,7 +767,7 @@ __recurring__ _adj_ Coming back. _Syn_ revenant
 __red-hot__ _adj_ __2__ Heated, as with excitement, anger, or enthusiasm: _a red-hot speech._ _The red-hot property market._  
 __redleg__ _n_ /ˈrɛdˌlɛɡ/ _derogatory Caribbean_ A poor White person.  
 __redolent__  
-__redoubtable__ _adj_ :es: temible  
+__redoubtable__ _adj_ :two::astonished: Arousing fear or awe. _Syn_ formidable, unnerving :es: temible  
 __reef__ _n_ __3__ _Nautical_ A portion of a sail gathered in and secured to lessen the area exposed to the wind.  
 __refrain__ _n_  
 __refurbish__ _vt_  
@@ -822,6 +776,7 @@ __regardless__
 __regurgitate__ _v_ Repeat after memorization. _Syn_ reproduce  
 __reify__ _v_ /ˈri əˌfaɪ, ˈreɪ-/ /RAY-uh-fye/ Reifying is about considering or representing something abstract as a material or concrete thing. If you reify a concept or idea you somehow give it definite content and form.  
 __reignite__ _v_  
+__reindeer__ _n_ /ˈreɪnˌdɪər/ Arctic deer with large antlers in both sexes.  
 __relate__ _v_ _I wish to relate the story in his own words._  
 __remuneration__ _n_ :mega: /ri-myoo-nuh–rey-shuhn/  
 __render__ _vt_ __2__ To cause to become; make: _The news rendered her speechless._ _Grief had rendered him simple-minded._  
@@ -881,6 +836,7 @@ __smolder__ _vi_ :two: __1__ To burn with little smoke and no flame. _Luke saw t
 __smorgasbord__ _n_ :two: A varied collection. _Syn_ assortment, miscellanea, miscellany, mixed bag, mixture, motley, potpourri, salmagundi, variety  
 __smugly__ _adv_  
 __snafu__ _n_  
+__sneak__ _v_ /snik/ /sniːk/  
 __sneeze__ _vi_  
 __snicker__ _v_  
 __snide__ _adj_ :smiling_imp:  
@@ -900,6 +856,7 @@ __spoor<sup>1</sup>__ _n_ (Hunting) The trail of an animal or person, esp as dis
 __spoor<sup>2</sup>__ _v_ (Hunting) To track (an animal) by following its trail.  
 __stale__ _adj_ :two::hammer: _Stale coffee._  
 __startled__ _adj_  
+__sundry__ _adj_ Consisting of a haphazard assortment of different kinds. _Syn_ assorted, miscellaneous, mixed, motley  
 __tee-hee__ _n_ (te-hee) /ˈtiːˈhiː/ __1__ A sound made in imitation of a giggle or titter. __2__ An instance of giggling or tittering. A chuckle.  
 __tenement__ _n_  
 __Terence__ _n_ (Terry)  
@@ -1010,5 +967,6 @@ __yelp<sup>1</sup>__ _n_ :two::hammer:
 __yelp<sup>2</sup>__ _v_  
 __yo-yo__ _n_  
 __yoga__ _n_ [:scroll: From Hindi yoga, from Sanskrit yoga-s, literally “union, yoking” (with the Supreme Spirit)] _Hatha/Mantra/Karma/Bhakti/Raja/Jnana/Kundalini yoga._  
+__yule log__ _n_  
 __zest__ _n_ /ZEST/ _Zest_ refers to an enjoyably exciting quality, or to keen enjoyment itself. In culinary use, _zest_ refers to small pieces of the peel of a lemon, lime, orange, or other citrus fruit used as flavoring.  
 __zloty__ _n_ The basic monetary unit of Poland.  

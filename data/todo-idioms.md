@@ -60,8 +60,10 @@ __again and again__ Constantly or repeatedly. _The phone rang again and again un
 __ahead of (someone or something)__  
 __aid and abet__ To assist someone, usually in a mischievous or illegal activity.  
 __Aladdin’s cave__ The idiom “Aladdin’s cave” refers to a place filled with a vast collection of valuable, interesting, or unusual objects.  
+__all and sundry__ Everyone; one and all. _Cold drinks were served to all and sundry._  
 __all hands on deck__  
 __all hell broke loose__ All sorts of wild or terrible things happened. _When the boss left early for the weekend, all hell broke loose._  
+__all in all__  
 __all of a sudden__  
 __all things considered__  
 __an earful__  
@@ -82,6 +84,7 @@ __beg pardon__ :dart: __2__ What did you just say? Could you please repeat that?
 __behind closed doors__  
 __behind the eight ball__ In a difficult or unfavorable situation. Ellroy’s characters frequently find themselves “behind the eight ball,” caught in moral compromises or dangerous situations where escape is unlikely.  
 __bejesus__ _n_ _slang_ Used euphemistically for intensive effect in idioms such as _scare the bejesus out of (someone)_ for scare (someone) very much.  
+__bend the rules__ _It’s always fascinating to see how songwriters use language to create a specific mood or character, even if it means bending the rules of grammar a bit, like in the sentence “you’re in trouble plenty” in the song_ Come a Little Bit Closer.  
 __beyond the realm(s) of possibility__ Impossible.  
 __big shot__ An important or influential person. This expression might be used to describe powerful figures in the criminal underworld or law enforcement, both of whom populate Ellroy’s novels.  
 __bite the bullet__ To endure something painful or difficult with courage. In Ellroy’s novels, characters often face situations that require them to bite the bullet, whether it’s enduring physical pain or confronting emotional or moral dilemmas.  
@@ -286,6 +289,7 @@ __huff and puff__ Make noisy, empty threats; bluster. For example, _You can huff
 __hung jury__ :dart: A jury that cannot agree on a verdict.  
 __I beg your pardon__ :dart: __1__ :dart: I apologize for what I just did or said. _Oh, I beg your pardon. I wasn’t looking where I was going._ __2__ What did you just say? _Could you please repeat that? I beg your pardon, I couldn’t quite hear you._ __3__ An expression or exclamation of indignation or incredulous disbelief. _A: “I’m afraid we’re going to have to cut your funding, effective immediately.” B: “I beg your pardon? Who on earth decided that?”_ __4__ Could you please give me your attention. _I beg your pardon, everyone, but I’d like to get tonight’s proceedings underway._ __5__ :dart: I believe you are mistaken or incorrect; I beg to differ; I don’t agree with you on that. _I beg your pardon, but I believe you’ll find that our school is actually one of the best in the state._  
 __I say__  
+__I’ll believe it when I see it__ I highly doubt that could happen or is the case. The phrase implies that one would need to witness or see proof of such a thing to believe it. _The kids said they’re finished cleaning the garage, but I’ll believe it when I see it._  
 __if (one’s) life depended on it__ Under any circumstances; no matter what. (Used almost exclusively with a negative statement regarding something that one couldn’t or wouldn’t do.) _No way am I going to karaoke night. I couldn’t sing if my life depended on it!_  
 __if anything__  
 __if it ain’t broke, don’t fix it__ :two::hammer: (if it isn’t broke, don’t fix it)  
@@ -561,7 +565,9 @@ __live on a shoestring__ To live within a very tight or limited financial budget
 __living impaired__ Dead. (Pseudo-politically correct slang used for humorous effect.) _The boss has ordered a hit on the stool pigeon, so make sure he’s living impaired by the end of the day._  
 __loaded word__ A word that carries additional emotional weight or significance—whether positive or negative—beyond its literal meaning. _If you want to get into politics, you should always avoid using loaded words that might offend someone unintentionally._  
 __loaf about__ To waste time idly; to spend time doing little or nothing. _Chris, quit loafing about and help me take out the trash!_  
+__lock (someone) up and throw away the key__ To incarcerate someone in prison forever or indefinitely. _That crazy drunk driver nearly hit me! I hope they lock him up and throw away the key!_  
 __lock lips (with someone)__ To kiss (someone) passionately and at length. _I’ll never forget locking lips with my wife for the very first time._  
+__locker-room humor__ Especially crude, vulgar, or bawdy humor. _I’m no prude by any means, but I hate the locker-room humor my boyfriend partakes in when his buddies are around._  
 __make a fuss__  
 __mince words__  
 __miss the boat__  
@@ -752,6 +758,7 @@ __revenge is a dish best served cold__ Revenge that takes place far in the futur
 __revenge is sweet__ Revenge is a potent source of satisfaction and pleasure.  
 __rifle through something__ To look through something very quickly, roughly, or energetically. _I rifled through the filing cabinet, but I couldn’t find our tax return anywhere._  
 __rifle through__ To search through something quickly and vigorously: _I rifled through the drawer looking for my car keys._  
+__right up (one’s) alley__ _If you’re a fan of idiomatic language and wordplay, the _Dresden Files_ series (by Jim Butcher) might be right up your alley!_  
 __riled up__ ((all) riled up) Particularly angry, agitated, or in a frenzied state.  
 __roast__  
 __rob someone blind__ :smiling_imp:  
@@ -956,6 +963,7 @@ __the works__ :two::hammer:
 __then again__  
 __there is something about__  
 __thick-skulled__ Stupid, dimwitted, or obtuse.  
+__this is it__  
 __this time around__  
 __thread the needle__  
 __throw in__ _He is going to throw in every dirty trick he can think of._  
