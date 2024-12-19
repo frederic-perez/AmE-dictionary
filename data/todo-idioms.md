@@ -696,57 +696,6 @@ __oops-a-daisy__ An exclamation of surprise or apology, as after doing something
 __open the door for (someone or something)__  
 __or so__ :dart:  
 __other than (something)__ (other than that) Besides or excluding something. _Other than having a view of the parking lot, his apartment is great._  
-__out of (one’s) hair__ No longer pestering or annoying to one; not one’s responsibility or burden any longer. _I’ve gotten the kids out of my hair for a few hours so I can go and get a relaxing massage by myself._  
-__out of (one’s) league__  
-__out of commission__  
-__out of nowhere__  
-__out of print__ No longer being printed and sold by a publisher.  
-__out of sight, out of mind__ :two::hammer:  
-__out of the wood(s)__  
-__over and out__ Said to mark the end of communication between two people. Used especially in radio communication, in which it signals that a person is done speaking and does not expect a reply from the other person. _A: “Oh, and while you’re at the store, could you please get some milk, too?” B: “Sure thing. Over and out.”_  
-__over the course of__ In or during the process of.  
-__over the edge__  
-__over the phone__ :two: By calling on the telephone. _You can order a pizza over the phone._  
-__pad out__ (pad something out) To fill something with cheaper or unnecessary material in order to make it superficially fuller, larger, or longer. A noun or pronoun can be used between “pad” and “out.” :es: rellenar  
-__part and parcel__ :two: An essential or fundamental part or aspect (of something). _Dealing with tantrums is part and parcel of raising a toddler._  
-__pave the way (for someone or something)__ :two: To create a situation in which it is easier for someone to do something or something to happen.  
-__pay heaven and earth__ _I’ve got a a particular clerk I’d pay heaven and earth to get rid of._  
-__pay lip service__ :smiling_imp:  
-__peck at__  
-__peeper__ peeper__ One’s eye. (That is, what one uses to peep.) Typically used in the plural and often used to refer to the eyes of children. _Your baby girl has such beautiful peepers!_  
-__phase out__  
-__photobomb__  
-__pick up on (something)__ To detect or notice something; to become alert to or aware of something.  
-__pick up__  
-__pick your poison__  
-__pick-me-up__ :dart:  
-__picture this__  
-__piece of cake__ :dart: (a piece of cake) A very easy task or accomplishment. _I thought I was going to fail the test, but it turned out to be a piece of cake!_ Piece of cake, _Tom said to himself as he got ready to open the safe._  
-__pigheaded__ :smiling_imp: Incredibly stubborn, narrow-minded, and often ignorant or foolish. _He’s a nice guy most of the time, but he can be really pigheaded when it comes to certain things._  
-__pillow talk__  
-__pin (one’s) hopes on (someone or something)__ To have expectations that are tied to the success, performance, etc., of a particular person or thing. _Why are we pinning our hopes on him when we know he’s not popular enough to defeat the incumbent?_ :es: tener las esperanzas puestas en  
-__pin down__  
-__pinch__ _slang_ :two: __1__ _v_ To steal something.  
-__pins and needles__  
-__piss off__  
-__piss someone off__  
-__pissant<sup>1</sup>__ _n_  
-__pissant<sup>2</sup>__ _adj_  
-__pitch (something) at__  
-__pitch-perfect__  
-__pizzazz__  
-__play God__ To have a huge affect on or great power over someone’s life, livelihood, health, or happiness. Behave as if all-powerful or supremely important.  
-__play havoc with (someone or something)__ To cause issues or disruptions for someone or something. _The road closures have played havoc with rush-hour traffic._  
-__play matchmaker__ To pair two people to foster a romantic relationship between them. _Mom, please stop playing matchmaker for me, will ya? I don’t want to date your best friend’s cousin’s nephew or someone you met at the market!_  
-__play possum__ :es: hacerse el muerto  
-__play second fiddle__  
-__play two sides of the street__ The idiom “play two sides of the street” refers to a person trying to manipulate or take advantage of two opposing sides in a situation to their own benefit. It often implies a lack of loyalty or honesty, as the individual is playing both sides against each other.  
-__playing both sides__ To work for or support two opposing parties, often for personal advantage. Many of Ellroy’s characters are morally ambiguous, and this idiom fits well in describing those who manipulate situations for personal gain, often without loyalty to any side.  
-__plop down__ _informal_ __1__ To sit or lie down in a heavy or careless way. _He plopped himself down in the chair._ __2__ To drop or place (something or someone) in a heavy or careless way. _He plopped the tray down._ __3__ _US_ To pay or spend (money). _I can’t afford to just plop down $30 for a T-shirt._  
-__plowed over__ Being overwhelmed or completely defeated by something.  
-__plunger__ _n_ /ˈplʌndʒə/ __3__ _informal_ A reckless gambler.  
-__point the finger at (one)__  
-__poke around__  
 __promises, promises__ A sarcastic reply to a promise or assurance that one does not believe.  
 __put (something) to rest__  
 __put heart and soul into something__ (put (one’s) heart and soul into (something)) To do something with the utmost of one’s energy, enthusiasm, and determination.  

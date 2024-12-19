@@ -4666,10 +4666,11 @@ __ouch__ :dart::two: __2__ An acknowledgement of some disappointment or unpleasa
 __out (of) the (starting) gate__ :two: At or from the very starting position. _Out the gate, the company’s latest video game console has proven wildly popular._  
 __out and about__ :two::hammer:  
 __out of (one’s) gourd__  
-__out of (one’s) hair__ No longer pestering or annoying to one; not one’s responsibility or burden any longer. _I’ve gotten the kids out of my hair for a few hours so I can go and get a relaxing massage by myself._ _Once these auditors from the IRS are out of our hair, we can get back to business as usual._  
+__out of (one’s) hair__ :two: No longer pestering or annoying to one; not one’s responsibility or burden any longer. _I’ve gotten the kids out of my hair for a few hours so I can go and get a relaxing massage by myself._ _Once these auditors from the IRS are out of our hair, we can get back to business as usual._  
+__out of (one’s) league__  
 __out of (one’s) shell__ :two: Less shy, reserved, or reticent and in a more sociable, outgoing, or enthusiastic state. _Samantha was quite a quiet girl growing up, but she really started coming out of her shell in college._ _Jack is actually a very funny, engaging guy once he’s out of his shell._  
 __out of character__ :two::hammer:  
-__out of commission__  
+__out of commission__ :two::hammer:  
 __out of curiosity__ :two: A phrase that is used to indicate that a person is asking a question or seeking information out of a genuine desire to know more about something, rather than for any specific or practical purpose.  
 __out of date__  
 __out of harm’s way__  
@@ -4677,17 +4678,18 @@ __out of here__ _informal_ (outta here) Used to say that one is leaving. _It’s
 __out of house and home__ Evicted; no longer having a place to live. _If my wife loses her job like so many of her co-workers, we’ll be out of house and home for sure._  
 __out of kilter__ :two: _Out of kilter with the times._  
 __out of left field__ Uncommon, unpopular, or otherwise strange. _Well, that suggestion is certainly out of left field! How did you come up with that one?_  
-__out of nowhere__  
+__out of nowhere__ :two::hammer:  
 __out of one’s hair__  
 __out of place__  
 __out of pocket__ :four::hammer: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
-__out of sight, out of mind__ :two::hammer:  
+__out of print__ No longer being printed and sold by a publisher.  
+__out of sight, out of mind__ :four::hammer:  
 __out of spite__  
 __out of steam__ :dart::two: Completely exhausted, fatigued, or without energy or motivation. _I’m all out of steam, I can’t walk another step._  
 __out of the blue__ :two::hammer: _Tragedy came out of the blue._  
 __out of the box__ __2__ Outside of or beyond what is considered usual, traditional, or conventional. (A less common shortening of “outside (of) the box.”)  
 __out of the frying pan (and) into the fire__ From a bad, stressful, or dangerous situation into one that is even worse.  
-__out of the wood(s)__ :three: No longer in danger or dealing with a particular difficulty, though not entirely resolved. Usually used in the negative. _Her surgery went as well as we could have hoped, but she’s not out of the woods yet._  
+__out of the wood(s)__ :four: No longer in danger or dealing with a particular difficulty, though not entirely resolved. Usually used in the negative. _Her surgery went as well as we could have hoped, but she’s not out of the woods yet._  
 __out of thin air__ :four: From nothing, as of something that has suddenly materialized. Appearing suddenly and unexpectedly. _The great ones create ideas out of thin air._  
 __out of this world__ Extremely good.  
 __out of touch__  
@@ -4707,14 +4709,17 @@ __outsmart (oneself)__
 __outtro__ In a sense, “outtro” is a pun on “intro,” and it’s a creative way to refer to the closing or concluding section of a creative work.  
 __ouy (of) the (starting) gate__  
 __over (one’s) head__ :three: __1__ Too complicated to be understood by one. _My jokes always seem to go over Stephanie’s head, so I’m glad you think I’m funny at least. A lot of this technical stuff is way over my head._ __2__ Bypassing one’s authority. _She just wouldn’t listen to me, so I had to go over her head to her boss and complain about it._ __3__ Lingering as a source of concern or worry for one. _All these bills are hanging over my head, and I don’t get paid for another week. I’m so glad that exam is over—it’s been over my head for months._  
+__over and out__ Said to mark the end of communication between two people. Used especially in radio communication, in which it signals that a person is done speaking and does not expect a reply from the other person. _A: “Oh, and while you’re at the store, could you please get some milk, too?” B: “Sure thing. Over and out.”_  
 __over and over (again)__  
-__over the course of__ In or during the process of. _I learned over the course of the meeting that our department was being downsized by over 50 percent._  
+__over the course of__ :two: In or during the process of. _I learned over the course of the meeting that our department was being downsized by over 50 percent._  
+__over the edge__  
 __over the hill__ Past the peak of one’s life or career; too old. (Hyphenated if used before a noun.)  
 __over the hills and far away__ To or at some distant, remote point or location. _Rather than focusing on the here and now, John’s ideas for the future are always over the hills and far away._  
 __over the hump__ Past the worst, most difficult, or most stressful part (of something); more than halfway done (with something). _I know this project has been trying, but we’re finally over the hump. Everything should go smoothly now._ _We must get over the hump._  
 __over the line__  
 __over the long haul__  
 __over the moon__ Extremely happy. _I’ve been over the moon ever since I got engaged—I just can’t stop looking at my ring!_  
+__over the phone__ :two: By calling on the telephone. _You can order a pizza over the phone._  
 __over the top__ :two::hammer:  
 __overarching__ The idiom “overarching” refers to something that is all-encompassing, overarching, or overarching in nature. It is often used to describe a concept, idea, or principle that is broad and comprehensive, covering or influencing many different aspects or elements within a particular context. _An overarching plan._  
 __owing to__ :dart::three: Because of; as a result of; due to. _Owing to construction on the highway, please anticipate higher levels of traffic than usual._ _Cancer plans are essential owing to the complexity of care._  
@@ -4725,6 +4730,7 @@ __pace around__ To walk around nervously or anxiously. _He was pacing around mak
 __pachuco__  
 __package deal__ :two: A group of many or various things sold together at a single, often reduced price. _They’re offering a package deal where you buy three DVDs and get a fourth for free._  
 __packed to the gills__ :two::hammer:  
+__pad out__ (pad something out) To fill something with cheaper or unnecessary material in order to make it superficially fuller, larger, or longer. A noun or pronoun can be used between “pad” and “out.” :es: rellenar  
 __pad__ _n_ _I’m at my pad._  
 __paint a (some kind of) picture of (something)__ :three: To give an elaborate or detailed description of something that portrays it in a specific way. _The board meeting painted a pretty grim picture of the company’s future._  
 __paint the town red__ :dart::two: Have a good time.  
@@ -4738,6 +4744,7 @@ __paper tiger__
 __paper trail__ Physical or digital documentation of a person’s activities.  
 __pardon my French__ :two: Excuse me for swearing.  
 __park the bus__ In football (soccer), to employ all (or nearly all) of a team’s active players in defending its own side of the pitch. _Protecting a narrow one-point lead, it looks like the home team has parked the bus for the remaining minutes of the match._  
+__part and parcel__ :two: An essential or fundamental part or aspect (of something). _Dealing with tantrums is part and parcel of raising a toddler._  
 __part company (with/from somebody/something)__  
 __part ways (with one)__ :dart::six: To separate or depart (from one); to stop associating (with one).  
 __party crasher__ :two: One who attends a party without having been invited. _I don’t mind party crashers coming to my parties, so long as they behave themselves._  
@@ -4750,14 +4757,15 @@ __pass up__
 __pass with flying colors__ :two::hammer:  
 __pat (one) on the back__ To praise one. _The only reason he stays late at work is so the boss will pat him on the back._  
 __patch up__ :three::dart: __1__ To mend, repair, or service something to the point of being functional or whole again, especially temporarily, typically by adding material to cover or connect broken or missing parts. A noun or pronoun can be used between “patch” and “up.” To fix something quickly so it can be used until it’s repaired properly or replaced. _John patched up the hose with an old bike tube._ __2__ To restore a relationship damaged by a disagreement or dispute. A noun or pronoun can be used between “patch” and “up.” _I tried to patch up my dispute with Marcy, but she isn’t ready to forgive me._ __3__ To treat someone’s wound, injury, or illness. A noun or pronoun can be used between “patch” and “up.” _I know you’re hurting, but the doctors here will patch you up._  
-__pave the way (for someone or something)__ :dart::five::hammer:  
-__pave the way__ :two::hammer:  
+__pave the way (for someone or something)__ :dart::nine: To create a situation in which it is easier for someone to do something or something to happen.  
 __pay (for something) out of pocket__  
 __pay (for something) up front__  
 __pay (one’s) last respects__ To show or express one’s respect for someone who has died, especially by attending their funeral, wake, memorial service, etc. _Anyone who wishes to pay their last respects to my husband is welcome to do so at the viewing this Saturday, from 10 AM to 4 PM._  
 __pay dirt__ Something very, particularly, or abundantly valuable or useful, especially that which has been discovered after a long or arduous search. Used especially in the phrase “hit/strike pay dirt.” _I was combing through books in the library for hours trying to find material for my thesis, when finally I hit pay dirt with an old collection of literary criticisms from the 1970s._  
+__pay heaven and earth__ _I’ve got a a particular clerk I’d pay heaven and earth to get rid of._  
 __pay homage (to someone or something)__ :two::hammer:  
 __pay it forward__ :two: To perform some act of kindness for someone else after being the recipient of such an act oneself. _Treat people with generosity and kindness. Chances are, they’ll pay it forward and be kind to others, too._  
+__pay lip service__ :smiling_imp:  
 __pay off__ _Netflix’s crackdown on password sharing pays off with almost 6 million new subscribers._  
 __pay out__ _It pays out in the long run._  
 __pay thanks__ To pay thanks to someone is an expression of gratitude and appreciation. It can be used in a variety of situations, such as when expressing gratitude after receiving a gift or help from another person, or simply thanking them for being part of your life.  
@@ -4771,10 +4779,12 @@ __peaks and troughs__ :dart: __1__ High points and low points, as in a graph, st
 __peanut gallery__  
 __pearl jam__ _Syn_ man batter, semen, come, man juice  
 __pearly whites__ A person’s set of teeth. _Be sure to brush your pearly whites twice a day, or you might end up getting a cavity!_  
+__peck at__  
 __pecking order__ :four:::hammer: _Regardless of how good you are at your job, whether you’re a consultant, [...,] physician’s associate, or GP, qualifications still puts you in a pecking order._  
 __pedal to the metal__ __1__ Drive as fast as you can; push the accelerator down. _We’re going to be late—pedal to the metal!_ __2__ Do something with maximum speed or effort. _Pedal to the metal, boys—we need to get these packages shipped by the end of the day._ _OpenAI has been going pedal to the metal for months now._  
 __peek out__  
 __peel off__ __3__ To deviate or depart from a group’s course or direction of movement. _When he saw his parents approaching, Tom peeled off from his friends and ducked down a side alley._  
+__peeper__ One’s eye. (That is, what one uses to peep.) Typically used in the plural and often used to refer to the eyes of children. _Your baby girl has such beautiful peepers!_  
 __peeping Tom__ A person who secretly watches others, especially for sexual gratification; a voyeur.  
 __peeps__  
 __peg it__ To leave or depart very quickly or suddenly. _You’d better peg it, or you’re going to be late for school!_ _After a really long day at the office, I pegged it out of there as soon as the clock struck 5!_  
@@ -4790,9 +4800,10 @@ __perp__ _n_ /pɚp/ [:scroll: Short for perpetrator, from perpetrare (to carry o
 __pester (someone) for (something)__ To continually annoy someone with requests for something. _I wish you would stop pestering me for a new bicycle; your birthday will be here soon enough!_  
 __pet hate__ A source of annoyance for one; a pet peeve. _Ugh, my pet hate is people who chew with their mouths open._  
 __Peter Pan syndrome__ A psychological state or condition in which a grown person cannot or refuses to act like an adult; a stubborn and persistent immaturity found in an adult person. _I seem cursed to only find men who have some damned Peter Pan syndrome. I’m tired of going out with guys who act like children!_  
-__phase out__ :three::hammer:  
+__phase out__ :four::hammer:  
 __phish__ To attempt to steal personal information that can be used to defraud someone by pretending to be person or website that legitimately requires such information.  
 __phooey__  
+__photobomb__  
 __phub__ :two::hammer:  
 __pick (one’s) brain(s)__  
 __pick (one’s) nose__ :two::dart: __1__ Literally, to remove nasal mucus (i.e., “boogers”) with one’s finger. _Tommy! Quit picking your nose, that’s a filthy habit!_ __2__ By extension, to dawdle, fool around, or waste time idly. _No wonder we’re losing so much money—half our staff just stands around picking their noses for most of the day!_  
@@ -4802,50 +4813,57 @@ __pick on (someone or something)__ :four::hammer:
 __pick someone or something apart__ :dart: To analyze and criticize someone or something negatively. _You didn’t review her performance; you just picked her apart._ _Stop picking yourself apart._  
 __pick someone up__ :two::hammer: _I learned about picking ourselves up when we fall._  
 __pick up after (someone or oneself)__ :dart::two: To collect and put away a mess that someone or oneself has left around. _You really need to pick up after yourself if you’re going to use my workshop._  
-__pick up on (something)__ :dart::two: To detect or notice something; to become alert to or aware of something. _There are a lot of mature jokes in this cartoon that I never picked up on as a kid._  
+__pick up on (something)__ :dart::three: To detect or notice something; to become alert to or aware of something. _There are a lot of mature jokes in this cartoon that I never picked up on as a kid._  
 __pick up steam__  
-__pick up__ :three::hammer: _Mindset change is not about picking up a few tricks._ _He will pick up the tool?_  
-__pick your poison__  
+__pick up__ :four::hammer: _Mindset change is not about picking up a few tricks._ _He will pick up the tool?_  
+__pick your poison__ :two::hammer:  
 __pick-and-shovel work__  
-__pick-me-up__ Something used to improve a person’s mood or level of energy. _After a long week, I needed a pick-me-up, so I stopped by the salon to get a pedicure._ _I was so drowsy on the way to work, so I stopped by the coffee shop for a little pick-me-up._  
+__pick-me-up__ :dart::two: Something used to improve a person’s mood or level of energy. _After a long week, I needed a pick-me-up, so I stopped by the salon to get a pedicure._ _I was so drowsy on the way to work, so I stopped by the coffee shop for a little pick-me-up._  
 __pick-up line__ A conversation opener with the intent of engaging an un familiar person for romance or dating.  
 __pickle__ _informal_ A particularly troublesome or difficult predicament. _Boy, am I in a pickle—I accidentally made plans to meet with two different clients at the same time today._  
 __picture perfect__ :three: Exactly as desired in every detail. Often hyphenated. _My goodness, what a party. Everything was picture perfect._  
 __picture postcard__  
-__picture this__  
+__picture this__ :two::hammer:  
 __pie in the sky__ :six: An impossible, unlikely, or fanciful idea or plan. Often hyphenated.  
 __piece by piece__ Incrementally; slowly; one piece at a time. In stages, gradually. _Let’s go over your exam paper, piece by piece._ _It took years, but piece by piece we turned this ramshackle old house into a real home._  
 __piece of ass__  
-__piece of cake__  
+__piece of cake__ :dart::two: (a piece of cake) A very easy task or accomplishment. _I thought I was going to fail the test, but it turned out to be a piece of cake!_ Piece of cake, _Tom said to himself as he got ready to open the safe._  
 __piece of shit__  
 __piece of work__ :three: A remarkable person, achievement, or product: _“He’s a very tough piece of work” (Ted Koppel)._ _You’re a piece of work, Bertrand._  
 __piece out__  
 __piece something out__  
 __pig in a poke__ _n_ Something purchased, accepted, or acquired without a preliminary examination.  
 __piggyback on(to) (something)__ To use something said or done by someone else as the foundation for one’s own actions.  
+__pigheaded__ :smiling_imp: Incredibly stubborn, narrow-minded, and often ignorant or foolish. _He’s a nice guy most of the time, but he can be really pigheaded when it comes to certain things._  
 __pile up__ :two::hammer: _The bad news keeps piling up for Elon Musk._  
 __pilfer from (someone or something)__  
 __pill__ __1__ _slang_ An unsavory, unpleasant, or difficult person. _Tom is such a pill, but I have to work with him to get this project finished, unfortunately._  
-__pillow talk__ Intimate conversations between two people in a romantic relationship when they are in bed together.  
+__pillow talk__ :two: Intimate conversations between two people in a romantic relationship when they are in bed together.  
+__pin (one’s) hopes on (someone or something)__ To have expectations that are tied to the success, performance, etc., of a particular person or thing. _Why are we pinning our hopes on him when we know he’s not popular enough to defeat the incumbent?_ :es: tener las esperanzas puestas en  
 __pin (something) down__ _Pinned it down to two locations._  
-__pin down__ :two: __2__ By extension, to try to force someone into a position where they must commit to a single, precise answer or piece of information. In this usage, a noun or pronoun can be used between “pin” and “down.” _The president never let reporters question him long enough for them to pin him down on any issue they brought up._  
+__pin down__ :three: __2__ By extension, to try to force someone into a position where they must commit to a single, precise answer or piece of information. In this usage, a noun or pronoun can be used between “pin” and “down.” _The president never let reporters question him long enough for them to pin him down on any issue they brought up._  
 __pin-drop silence__  
-__pinch__  
+__pinch__ :three::smiling_imp: _slang_ __1__ _v_ To steal something.  
 __pink elephants__ This term refers to hallucinations or strange imaginary things seen by people as a result of heavy drinking or the use of narcotics.  
 __pinko__ :two: (commie) __1__ _n_ A communist. (Popular during the 1950s.) _Get out of here, you pinko!_ __2__ _mod_ Having communist tendencies; in the manner of a communist. _Get that pinko jerk out of here!_  
+__pins and needles__  
 __pipe down__ :two: _informal_ To become quiet and calm; to stop being loud or boisterous. Often said as a command. _OK, class, pipe down! Let’s begin our lesson, shall we?_ _Pipe down, will you, I’m on the phone._ _Syn_ be quiet, quieten down, be silent, fall silent, hush  
 __pipe dream__  
 __pipe up__ :two: To make oneself heard; to interrupt or interject.  
 __piping hot__ :two: Very hot. Usually said of food that has just been taken out of the oven and has steam “piping” out of it. _Cook the casserole in the oven for 40 minutes or until it is golden brown and piping hot._ _The coffee was still piping hot._  
 __piss and vinegar__  
-__piss off__ :two::hammer:  
+__piss off__ :three::hammer:  
+__piss someone off__  
+__pissant<sup>1</sup>__ _n_  
+__pissant<sup>2</sup>__ _adj_  
 __pisser__  
 __pit stop__ :two: __2__ A pause in a journey (usually by car) to urinate, eat, rest, and/or refuel. (From the name of a service stop in automobile racing.) _I think we’ll pull in at the next rest area. I need a pit stop._  
+__pitch (something) at__  
 __pitch a fit__ To become very or unreasonably angry or upset; to have an outburst of rage, frustration, or ill temper. _My mom’s going to pitch a fit when she sees what happened to the car!_ _I was so embarrassed when Danny started pitching a fit in the grocery store._  
 __pitch in__ :dart:  
-__pitch-perfect__ Reaching or conveying the exactly right note or tone. The phrase refers to music but it is often applied to writing and other things.  
+__pitch-perfect__ :two: Reaching or conveying the exactly right note or tone. The phrase refers to music but it is often applied to writing and other things.  
 __pitch/throw (someone) a curve ball__ _slang_ __1__ To mislead; deceive. __2__ To cause to be surprised, especially unpleasantly so.  
-__pizzazz__ :three: Dazzling, flamboyant style, energy, or vitality. Punch; glitter and excitement. Energy; power. _Your performance was a little bit dull, truthfully. It was technically sound, but it needed more pizzazz.__Listen to the way she put pizzazz into that song!_  
+__pizzazz__ :four: Dazzling, flamboyant style, energy, or vitality. Punch; glitter and excitement. Energy; power. _Your performance was a little bit dull, truthfully. It was technically sound, but it needed more pizzazz.__Listen to the way she put pizzazz into that song!_  
 __place an order__  
 __place your bets__  
 __plain and simple__ :two::hammer::astonished: _This was our mistake, plain and simple._  
@@ -4870,38 +4888,47 @@ __play down__ :three: To make something seem less important or remarkable. _The 
 __play dumb__ :three: To pretend that one has no or little knowledge (of something); to act ignorant or uninformed (about something). _I don’t think I’m supposed to know that Rick is getting fired, so I’m just going to play dumb the next time I see him._  
 __play footsie__ To flirt with someone by secretly touching feet.  
 __play games (with one)__ :dart::two: To deliberately attempt to evade, deceive, or misinform one (about something) in order to manipulate them or achieve some desired outcome. _Quit playing games, Karen—I know that you’re involved in this deal!_  
+__play God__ To have a huge affect on or great power over someone’s life, livelihood, health, or happiness. Behave as if all-powerful or supremely important.  
 __play hardball (with one)__ :dart:  
 __play hardball__ If someone plays hardball, they will do anything that is necessary to achieve or obtain what they want, even if this involves being harsh or unfair. This term originated in baseball, where it alludes to using the standard ball as opposed to the slightly larger and minimally softer ball of softball. It was transferred to describe aggressive behavior only in the 1970s. _Defense lawyers began playing hardball._  
+__play havoc with (someone or something)__ To cause issues or disruptions for someone or something. _The road closures have played havoc with rush-hour traffic._  
 __play it cool__  
 __play it safe__ :three::hammer:  
 __play it straight__  
+__play matchmaker__ To pair two people to foster a romantic relationship between them. _Mom, please stop playing matchmaker for me, will ya? I don’t want to date your best friend’s cousin’s nephew or someone you met at the market!_  
 __play off__  
 __play out__  
 __play phone tag__ To engage in a series of telephone calls with another person in which each time one party calls, the other is not available to answer. _Hi Mary, just leaving you another message. We’ve been playing a bit of phone tag today, huh? Just give me a call back whenever you get this, thanks!_  
+__play possum__ :es: hacerse el muerto  
 __play safe__  
-__play second fiddle__  
+__play second fiddle__ :two::hammer:  
 __play smart__  
 __play tag__ A long distance phone call made.  
 __play the field__  
 __play tricks__ :two::hammer:  
+__play two sides of the street__ The idiom “play two sides of the street” refers to a person trying to manipulate or take advantage of two opposing sides in a situation to their own benefit. It often implies a lack of loyalty or honesty, as the individual is playing both sides against each other.  
 __play with fire__ :two::hammer:  
 __played out__  
+__playing both sides__ To work for or support two opposing parties, often for personal advantage. Many of Ellroy’s characters are morally ambiguous, and this idiom fits well in describing those who manipulate situations for personal gain, often without loyalty to any side.  
 __plea bargain__ To agree to plead guilty, especially to a lesser criminal offense, in exchange for some concession from the prosecution, such as dismissal of more serious charges.  
 __plea deal__ Plea bargain.  
 __plead ignorance__ _It was best for me to plead ignorance._  
 __plead the Fifth (Amendment)__ :three: (plead the 5th) __1__ To refuse to testify against oneself in court, in accordance with the rights guaranteed by the Fifth Amendment to the United States Constitution. _The alleged kingpin of the east coast drug cartel simply pled the Fifth after every question the prosecution put to him._ __2__ By extension, to refuse to answer a question or provide information, especially if doing so may incriminate or embarrass oneself. _Just plead the Fifth if your mom asks where you’ve been all night!_  
 __plenty of (something)__ An abundant amount of; more than is needed.  
 __plod on__ To move, progress, or develop at a slow but constant and deliberate pace.  
+__plop down__ _informal_ __1__ To sit or lie down in a heavy or careless way. _He plopped himself down in the chair._ __2__ To drop or place (something or someone) in a heavy or careless way. _He plopped the tray down._ __3__ _US_ To pay or spend (money). _I can’t afford to just plop down $30 for a T-shirt._  
 __plow ahead__  
+__plowed over__ Being overwhelmed or completely defeated by something.  
+__plunger__ _n_ /ˈplʌndʒə/ __3__ _informal_ A reckless gambler.  
 __pocket protector__ A thin plastic sheath that fits into the breast pocket of one’s shirt to hold pens and other small instruments and protect the pocket from stains or tears. _A techno-nerd with a pocket protector who turns out to be a hero._  
 __poetry in motion__ Something that is very elegant, graceful, and/or beautiful to observe, especially dance or the performing arts. _The ballet was sublime to watch, truly poetry in motion._  
 __point being__ The phrase _point being_ is used to refer to the conclusion or main idea of an argument or discussion. It is used to indicate that the speaker is summarizing their argument or bringing the discussion to a close.  
 __point fingers (at someone or something)__  
 __point of contact__ A person or entity one can seek to access information or services.  
 __point taken__ :two::hammer:  
-__point the finger at (one)__  
+__point the finger at (one)__ :two::hammer:  
 __poised to (do something)__  
-__poke around__ :four: To investigate, search through, or snoop around something or some place.  
+__poke around__ :five: To investigate, search through, or snoop around something or some place.  
 __poke fun at (someone or something)__  
 __poke fun__ To mildly taunt or mock someone or something; to make light fun of someone or something.  
 __poke into (someone or something)__  
