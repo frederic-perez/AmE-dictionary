@@ -18,6 +18,7 @@ __a (whole) host of (something)__
 __a balancing act__ :dart:  
 __a big if__  
 __a bit dicey__ :two: Carrying a certain degree of risk or danger; uncertain of a favorable outcome.  
+__a blast from the past__ Someone or something that evokes a sense of nostalgia. _Bumping into my old high school sweetheart in the grocery store was a real blast from the past._  
 __a blessing in disguise__ :dart: An unfortunate event or situation that results in an unforeseen positive outcome.  
 __a bum ankle/leg, etc.__ An injured ankle, leg, etc.  
 __a colf fish__  
@@ -70,6 +71,8 @@ __an earful__
 __an eye for an eye__  
 __and so on and so forth__  
 __and then some__ :two::hammer:  
+__any moment__ Sometime very soon; imminently. _The mail should arrive any moment._  
+__any second__ Sometime very soon; imminently. _It looks like it could rain any second._  
 __apples and oranges__ Two unlike things or people. Two entities that are not similar. (Used especially in reference to comparisons of unlike things.)  
 __as good as dead__ ((as) good as dead= In a position of great and irreversible danger or trouble, with the outcome of death being either figurative or literal.) _I’m as good as dead after crashing my parents’ car!_  
 __as we speak__  
@@ -86,6 +89,7 @@ __behind the eight ball__ In a difficult or unfavorable situation. Ellroy’s ch
 __bejesus__ _n_ _slang_ Used euphemistically for intensive effect in idioms such as _scare the bejesus out of (someone)_ for scare (someone) very much.  
 __bend the rules__ _It’s always fascinating to see how songwriters use language to create a specific mood or character, even if it means bending the rules of grammar a bit, like in the sentence “you’re in trouble plenty” in the song_ Come a Little Bit Closer.  
 __beyond the realm(s) of possibility__ Impossible.  
+__big picture__  
 __big shot__ An important or influential person. This expression might be used to describe powerful figures in the criminal underworld or law enforcement, both of whom populate Ellroy’s novels.  
 __bite the bullet__ To endure something painful or difficult with courage. In Ellroy’s novels, characters often face situations that require them to bite the bullet, whether it’s enduring physical pain or confronting emotional or moral dilemmas.  
 __bless your pointy little head__ A condescending phrase used to patronize someone for being foolish or not very bright. _You failed the exam because you thought the sun was a planet? Aw, bless your pointy little head._  
@@ -98,8 +102,10 @@ __bring to one’s knees__ Make one submit; reduce to a position of subservience
 __British Invasion__ :two: The British Invasion was a cultural phenomenon of the mid-1960s, when rock and pop music acts from the United Kingdom[2] and other aspects of British culture became popular in the United States with significant influence on the rising “counterculture” on both sides of the Atlantic Ocean. The arrival of the Beatles in the US in 1964 marked the start of the British Invasion.  
 __brood over__  
 __brush up (on something)__ :dart: To improve one’s knowledge of something or one’s ability to do something. _I need to brush up on my German. My German is weak. I had better brush up._  
+__bundle of nerves__ (a bundle of nerves) Someone who is very nervous, anxious, or uneasy. _I was a bundle of nerves before the driving test started._  
 __bustle about__  
 __buzzard__ _n_ An old man; a mean old man. (Especially with old.) _Some old buzzard is at the door asking for Mary Wilson._  
+__by and large__  
 __by the book__ To do something according to the rules or standard procedures. This phrase could be used ironically, as many of Ellroy’s characters operate outside the law, or it could refer to more straight-laced characters like police officers trying to maintain a sense of order in a corrupt world.  
 __calculated risk__ A risky action that has been carefully considered beforehand, in which the chance or likelihood of a beneficial outcome outweighs the risk or cost of failure. _We decided to take the calculated risk of going to trial, rather than settling out of court._  
 __call it even__ To acknowledge or consider a situation or exchange as being equal or equitable, as regarding debt, status, ability, a contest, etc. _I’ll pay the Internet bill if you’ll pay the electricity bill, and then we’ll just call it even._  
@@ -170,18 +176,21 @@ __day in and day out__
 __dead__ __5__ Absolutely. _You’d better be dead certain about this decision, because you can’t take it back._  
 __deadhead__ __3__ _n_ _slang_ One who is regarded as dumb, dull, or stupid.  
 __dearth__ _n_ /dɜːθ/  
+__dibs on something__ (first dibs on something)  
 __dig (something)__ _slang_ To understand, approve of, or enjoy something. _I really dig this music, man!_  
 __dig and poke around__ The idiom “dig and poke around” generally means to search or investigate something thoroughly by looking through various items or areas, often in a somewhat casual or unstructured manner.  
 __disabuse (someone or oneself) of (something)__  
 __discretion is the better part of valor__ _proverb_  
 __dispose of (someone or something)__  
 __do an about-face__  
+__do double duty__  
 __do shit__ (don’t do shit) _The cops that worked the case didn’t do shit and sure as hell aren’t going to do shit now._  
 __do the trick__ :two: To do, accomplish, or fulfil exactly what is needed or sought after. _The recipe calls for pancetta, but I think this regular bacon should do the trick._  
 __do-rag__ A scarf, bandana, or similar item tied around the head as a covering. A headcap that covers and protects a hairdo. _Bob says he uses that do-rag to keep his hair out of his face while he mows the lawn._  
 __don’t get me started__  
 __don’t give a rat’s ass__  
 __doom and gloom__  
+__double duty__  
 __double whammy__ A situation in which two negative things happen at the same time or in rapid succession. _Jack suffered a double whammy when his car broke down the same day he lost his job._  
 __down the line__ In the future.  
 __downer__ :es: tranquilizante  
@@ -240,11 +249,13 @@ __fool around__
 __foot the bill__  
 __for (one’s) benefit__ (for somebody’s benefit) Largely (or solely) to help one.  
 __for a bit__  
+__for a change__ For the sake of contrast or variety; as something novel or different. _It’s nice to see you here on time, for a change._  
 __for a charge__ The act of charging someone a fee or price for a service or item.  
 __for a fee__  
 __for all I know__  
 __for all intents and purposes__ _adv_ :two: In every practical sense. _To all intents and purposes the case is closed._ _The rest are for all practical purposes useless._ _Syn_ for all practical purposes, to all intents and purposes  
 __for all practical purposes__ (for (all) practical purposes) In reality; basically. As might be reasonably expected; essentially. _For all practical purposes, this is simply a matter of right and wrong._ _For all practical purposes, I might as well have not handed in this proposal at all, with how swiftly the board rejected it._  
+__foul play__ Unspecified criminal or unscrupulous actions, especially violence when stated as the potential cause of a death or disappearance. _That actor actually died of a heart attack—there was no foul play after all._  
 __freaking__ _mod._ Damned. (Euphemistic for fucking. Usually objectionable.) _Get your freaking socks off my bed!_  
 __ghost gun__ A gun without serial numbers that cannot be easily tracked, especially a home-made gun built with non-registered, partially finished or 3D printed components.  
 __go berserk__  
@@ -287,8 +298,10 @@ __hubby__
 __hue and cry__ /HYOO-und-KRYE/ __1__ A large public protest. _Hue and cry_ refers to a clamor of alarm or protest in response to something. __2__ It can also be used as a synonym of hubbub to refer to general noise or uproar.  
 __huff and puff__ Make noisy, empty threats; bluster. For example, _You can huff and puff about storm warnings all you like, but we’ll believe it when we see it._ This expression uses two words of 16th-century origin, _huff_, meaning “to emit puffs of breath in anger,” and _puff_, meaning “to blow in short gusts,” and figuratively, “to inflate” or “make conceited.” They were combined in the familiar nursery tale, _“The Three Little Pigs,”_ where the wicked wolf warns, _“I’ll huff and I’ll puff and I’ll blow your house down”_; rhyme has helped these idioms survive.  
 __hung jury__ :dart: A jury that cannot agree on a verdict.  
+__hunky-dory__  
 __I beg your pardon__ :dart: __1__ :dart: I apologize for what I just did or said. _Oh, I beg your pardon. I wasn’t looking where I was going._ __2__ What did you just say? _Could you please repeat that? I beg your pardon, I couldn’t quite hear you._ __3__ An expression or exclamation of indignation or incredulous disbelief. _A: “I’m afraid we’re going to have to cut your funding, effective immediately.” B: “I beg your pardon? Who on earth decided that?”_ __4__ Could you please give me your attention. _I beg your pardon, everyone, but I’d like to get tonight’s proceedings underway._ __5__ :dart: I believe you are mistaken or incorrect; I beg to differ; I don’t agree with you on that. _I beg your pardon, but I believe you’ll find that our school is actually one of the best in the state._  
 __I say__  
+__I wouldn’t recommend it__ The idiom “I wouldn’t recommend it” means that the speaker does not think something is a good idea or that it would be a positive experience. It’s a way of politely discouraging someone from doing something, suggesting that it might be unpleasant, risky, or simply not worth the effort.  
 __I’ll believe it when I see it__ I highly doubt that could happen or is the case. The phrase implies that one would need to witness or see proof of such a thing to believe it. _The kids said they’re finished cleaning the garage, but I’ll believe it when I see it._  
 __if (one’s) life depended on it__ Under any circumstances; no matter what. (Used almost exclusively with a negative statement regarding something that one couldn’t or wouldn’t do.) _No way am I going to karaoke night. I couldn’t sing if my life depended on it!_  
 __if anything__  
@@ -345,6 +358,7 @@ __in single file__ In a line one person or one thing in width.
 __in some sense__ Partly; in some or certain way(s).  
 __in spite of (something)__ Regardless or in defiance of; despite.  
 __in stitches__  
+__in store__ :dart::astonished: Awaiting (one); prepared (for one). _No one knows what the future has in store. But we can try to prepare accordingly._  
 __in support of__ __1__ In a way that shows approval of (something); in favor of (something). _A majority voted in support of the bill._ __2__ In order to support (something). _He presented evidence in support of his hypothesis._  
 __in tears__  
 __in the (grand) scheme of things__ In the long term; in the complete picture of something.  
@@ -384,15 +398,18 @@ __ink__ _slang_ __4__ _v_ To sign one’s name to (something); to formalize and 
 __ink-slinger__ _slang_ A writer, especially one who produces a large amount of low-quality material for a living.  
 __inner circle__  
 __insofar as__ :two: To such an extent that; to the degree that. _Insofar as money is concerned, our project will be completely funded by private donations._  
+__instant karma__  
 __intestinal fortitude__ Strong courage, conviction, or determination; gumption; guts. _Not everyone has the intestinal fortitude necessary to survive in the world of politics._  
 __inveigle (someone) into (something)__ :smiling_imp: To trick or deceive someone into doing something. _I’m just worried that she’s using the kids to inveigle you into marrying her._  
 __iron grip__ __2__ Total, dominant control (over someone or something).  
 __isn’t that something__ The idiom “isn’t that something” is used to express surprise, amazement, or astonishment at a particular event, situation, or piece of information.  
 __it ain’t over till/until the fat lady sings__  
+__it changes the equation__ The idiom “it changes the equation” means that a new factor or circumstance has been introduced that significantly alters the situation or problem. It suggests that the previous understanding or approach to the situation is no longer valid, and a new perspective or strategy is required.  
 __it figures__ :two: It makes sense; it is as I expected or might have guessed. :es: es lógico  
 __it goes without saying__ :two::hammer:  
 __it never rains but it pours__ When something good or bad happens, similarly good or bad things tend to follow.  
 __it remains to be seen__ Something is not yet clear, certain, or known.  
+__it takes a village__  
 __it wouldn’t do (someone) any harm (to do something)__ It would or may be good, pragmatic, or beneficial for someone (to do something). _You know, it wouldn’t do you any harm to comb your hair from time to time._  
 __it’s about time__ ((it’s) (a)bout time)  
 __it’s all good__ :dart: A phrase used to express general approval, unconcern, or disinterest.  
@@ -443,6 +460,7 @@ __keep pace__
 __keep tabs on (someone or something)__  
 __keep the lid on (something)__  
 __keep to (something)__ __1__ To adhere to something, such as a plan or a rule; to stick to something. _Please keep to the plan, and everything will go smoothly._  
+__keep track__  
 __keep up__  
 __keep your eyes peeled__ _Keep your eyes peeled for imperial fighters!_  
 __keester__ _slang_ The buttocks or anus. Often used figuratively. _OK, kids, get off your keesters and go play outside!_  
@@ -696,7 +714,11 @@ __oops-a-daisy__ An exclamation of surprise or apology, as after doing something
 __open the door for (someone or something)__  
 __or so__ :dart:  
 __other than (something)__ (other than that) Besides or excluding something. _Other than having a view of the parking lot, his apartment is great._  
+__party’s over__ A happy or fortunate time has come to an end. _We go back to school tomorrow. The party’s over._  
+__pepper with__  
+__pick momentum__  
 __promises, promises__ A sarcastic reply to a promise or assurance that one does not believe.  
+__push the boundaries of (something)__ To act in a way that challenges established, expected, or accepted norms. _The most famous and influential performers tend to push the boundaries in everything from their lyrics to their clothing._  
 __put (something) to rest__  
 __put heart and soul into something__ (put (one’s) heart and soul into (something)) To do something with the utmost of one’s energy, enthusiasm, and determination.  
 __put on (one’s) thinking cap__ To begin thinking or considering very carefully and seriously (about something).  
@@ -705,6 +727,8 @@ __put up with someone or something__
 __revenge is a dish best eaten cold__ Revenge that takes place far in the future, after the offending party has forgotten how they wronged someone, is much more satisfying.  
 __revenge is a dish best served cold__ Revenge that takes place far in the future, after the offending party has forgotten how they wronged someone, is much more satisfying.  
 __revenge is sweet__ Revenge is a potent source of satisfaction and pleasure.  
+__reverse course__  
+__revolving door__  
 __rifle through something__ To look through something very quickly, roughly, or energetically. _I rifled through the filing cabinet, but I couldn’t find our tax return anywhere._  
 __rifle through__ To search through something quickly and vigorously: _I rifled through the drawer looking for my car keys._  
 __right up (one’s) alley__ _If you’re a fan of idiomatic language and wordplay, the _Dresden Files_ series (by Jim Butcher) might be right up your alley!_  
@@ -725,12 +749,14 @@ __rule of law__
 __rules of the road__  
 __rummage around for (something)__  
 __rumor has it (that)__ :two: It is being rumored that (something is or will be the case). _Rumor has it that the boss is using the company profits to pay off his own gambling debts._  
+__run afoul of (someone or something)__  
 __run the gauntlet__ To be exposed to or forced to endure a series of threats, dangers, criticism, or other problems. Refers to an old military punishment in which one was forced to run between two lines of soldiers while being thrashed with rods or whips. _Medical students often feel that they have to run the gauntlet when they become residents in a hospital._  
 __run with it__ To take the initiative to do something independently. _I got this really good idea for an ad campaign. I think I’m going to just run with it and present it to the boss when it’s done._  
 __rush into (something)__  
 __same old same old__ :two::hammer:  
 __same shit, new wrapping__ Colloquial expression that conveys the idea that something has been superficially changed or repackaged but remains fundamentally the same. It suggests that despite appearances, the underlying issues or qualities have not been altered.  
 __save (one’s) bacon__  
+__save the day__  
 __say again?__  
 __says who__  
 __scare the (living) daylights out of (one)__ To shock or frighten one very suddenly or severely. _Don’t sneak up on me like that—you scared the living daylights out of me!_  
@@ -746,6 +772,7 @@ __security blanket__ Something that dispels anxiety, as in _I always carry my ap
 __see (one) in the flesh__ To see one in person who is usually only seen at a distance, especially through a medium such as film, music, theater, etc. _After years of idolizing the singer, it was a bit anticlimactic seeing her in the flesh._  
 __see fit__ :dart: Deem appropriate, as in _He’s entitled to divide up his property as he sees fit_, or _If we see fit to attend, we’ll be there._  
 __see the last of (someone or something)__ To no longer encounter a certain person or thing. Often used in the negative.  
+__see the light of day__  
 __see to (someone or something)__  
 __seems too good to be true__  
 __seep in(to something)__  
@@ -790,6 +817,7 @@ __single out__
 __sinking feeling__ :dart: A feeling of dread indicating that something bad has happened or is about to happen. _As soon as I met him, I got a sinking feeling that he had bad intentions._  
 __sit still (for something)__ __2__ To fail or choose not to act in response to something; to endure or tolerate something passively or submissively. _I couldn’t just sit still for condescending, hypocritical remarks, so I gathered my things and walked right out of the building._  
 __sit up__  
+__situation__  
 __six in one, (and) half a dozen in the other__ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
 __size up__ To make an estimate, opinion, or judgment of someone or something. _Vader and Kenobi were sizing each other up._ _She sized up her opponent._ _He sized the location up._  
 __skive off__ _BrE_ To absent oneself or leave early from school or work when one would normally be required to be there; to play truant. Primarily heard in UK.  
@@ -843,12 +871,14 @@ __stand on (one’s) own (two) feet__ To be strong and independent; to not need 
 __stands to reason__  
 __start the ball rolling__ To set something, often a process, in motion; to begin.  
 __stay clear of (someone)__ :dart:  
+__stay on top of (someone or something)__  
 __stay put__ To not move or leave; to remain in same location or position.  
 __stay strong__ :es: mantente fuerte  
 __steely-spined__ :dart: __2__ Determined and resolved. _You’ll never be able to talk Louise out of this—she’s as steely-spined as they come._ __3__ :dart: Calm and unflappable under pressure. _I asked my brother to come to court with me because he is always steely-spined in stressful situations._ _Gina needs to be steely-spined to deal with all the rejection that comes with being an actress._  
 __step in__ To enter into some position, activity, or situation to intervene or improve it.  
 __step up (one’s) game__ To improve in some way, usually so that one can perform as well as others. _Man, I really need to step up my game if I’m going to play basketball with all these young guys._  
 __stick around__ To remain or linger in one location; to not leave or abandon (someone or something). _Hey, stick around for a minute, I need to talk to you._  
+__sticking point__ A topic of discussion or debate that results in disagreement. _The subject of curfew is often a real sticking point between teenagers and their parents._  
 __stiff upper lip__ :two: :es: guardar la compostura  
 __sting operation__ :dart::smiling_imp:  
 __stir-crazy__ Acutely restless, irritable, or anxious from remaining for too long in an isolated, confined, or unstimulating environment. “Stir” in this usage is a slang word for prison. _We thought taking our family vacation in a tiny cottage out in the country would be a nice break from city life, but we all went a bit stir-crazy after a few days._  
@@ -866,12 +896,14 @@ __sure thing__
 __swat__ _slang_ To contact emergency services, such as the police, with a fraudulent report of an emergency so that they respond in large numbers to a certain location, often done as a prank. The name refers to SWAT (“Special Weapons and Tactics”) teams, specialized police units that respond to especially dangerous situations. _Kids keep swatting celebrities’ houses, and police are coming down hard when they catch the person who did it._  
 __swatting__ _slang_ The act of contacting emergency services, such as the police, with a fraudulent report of an emergency so that they respond in large numbers to a certain location, often done as a prank. The name refers to SWAT (“Special Weapons and Tactics”) teams, specialized police units that respond to especially dangerous situations. _Swatting is much more dangerous than a simple prank—it diverts first responders who may be needed elsewhere._  
 __swept the board__  
+__switch gears__  
 __sworn enemy__ A person, group, or organization for whom one holds a particularly intense, deep-seated hatred. _Our environmentalist lobby group is heading out to protest against Big Oil, our sworn enemy._  
 __tacky__ Cheap, crude, and unrefined; indicating or characteristic of a lack of class, elegance, or sophistication. _He showed up in a really tacky suit._ _The office looked tacky._ _Tacky birthday present._ :es: cutre  
 __take a load off (one’s feet)__ To sit down and rest one’s feet; to relax. (Usually said as a suggestion.) _Why don’t you go take a load off for a while, and I’ll fix dinner for tonight?_  
 __take heart (from something)__ To receive courage or comfort from some fact. _I hope that you will take heart from what we told you today. Even though you did not win the race, take heart from the fact that you did your best. I told her to take heart and try again next time._  
 __take heart__ To have one’s confidence, courage, or happiness bolstered (by something). _We may have lost the election, but we take heart in the fact that so many young people are now engaged and excited about politics._  
 __take heed (of someone or something)__  
+__take into one’s hands__ (take (something) into one’s hands)  
 __take matters into (one”s) own hands__  
 __take no notice of (something or someone)__  
 __take on trust__  
@@ -904,7 +936,9 @@ __the law of the instrument__ See _Maslow’s hammer_.
 __the light at the end of the tunnel__  
 __the likes of you__  
 __the lion’s den__  
+__the party is over__ A period of excitement, success, jubilation, or opulence has changed to a period of sobriety, calm, reflection, or regret.  
 __the powers that be__ :dart::three:  
+__the short and the long of it__ The essential or most important point being made; the plain truth of the matter. _There are a lot of reasons I don’t want to go, but the short and the long of it is that I don’t want to see my ex-boyfriend there._  
 __the upper crust__  
 __the upshot (of something)__ :dart::two: The final or resulting outcome, conclusion, or consequence (of something). _The upshot of this merger is that the company will now control nearly 50% of the world’s television networks._  
 __the whole nine yards__ Everything; the full extent of something. This could be used when a character has gone all-in or is fully committed to an action, no matter the risk.  
@@ -939,12 +973,14 @@ __trials and tribulations__
 __trick of the light__  
 __triple whammy__ A combination of three different elements, circumstances, or actions that results in a particularly powerful force, outcome, or effect. _Deregulation of the financial sector, securitization of huge amounts of various debt, and fluctuating national interest rates formed a triple whammy that sent the stock market crashing._  
 __trundle along__ To proceed along (something) in a slow, heavy, or ungainly manner.  
+__under the gun__ :dart: In a stressful situation that requires quick action, often to meet a deadline; under pressure.  
 __under the hood__  
 __unfamiliar territory__  
 __up a notch__ To an increased or extreme degree of intensity or quality.  
 __up against a brick wall__ Stymied by difficulties or obstacles that seem unlikely to change.  
 __wait and see__ :three::hammer: _It profits me best to wait and see._  
 __walk on eggs__  
+__war chest__  
 __water under the bridge__  
 __well up__  
 __what’s the occasion?__ The idiom “what’s the occasion?” is typically used to inquire about the reason for a special event, celebration, or unusual behavior that seems out of the ordinary. It’s a friendly way to express curiosity about something that appears more formal or festive than usual.  

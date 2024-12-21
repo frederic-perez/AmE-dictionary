@@ -9,6 +9,7 @@ __accessory__ _adj, n_ :mega: /ækˈsɛs ə ri/ /ak-ses–uh-ree/
 __accoutrement__ _n_  
 __acerbic__ _adj_ Sharp or biting, as in character or expression. _Syn_ blistering, caustic, acid, vitriolic, acerb, acrid, sulfurous, virulent, bitter  
 __acquiesce__  
+__actor__ _n_ :two: __2__ One who takes part; a participant.  
 __adversary__ _n_ :mega: /ˈæd vərˌsɛr i/ /ˈædvəsərɪ/ /AD-ver-sair-ee/ _Adversary_ is an enemy or opponent.  
 __affidavit__ _n_  
 __afoot__ _adj, adv_  
@@ -26,10 +27,13 @@ __apoplexy__ _n_
 __appalled__ _adj_  
 __appalling__ _adj_  
 __approach__ _n_ :es: actitud  
+__aquaplaning__ _n_ :pencil2:  
 __aquiline__ _adj_  
 __arbiter__ _n_ One chosen or appointed to judge or decide a disputed issue. _Syn_ arbitrator, umpire  
 __armamentarium__ _n_ :astonished: _(Medicine)_ The items that comprise the material and equipment used by a physician in his professional practice.  
 __armistice__ _n_ /AHR-muh-stus/  
+__austere__ _adj_ :mega:  
+__beatific__ _adj_ /bee-uh-TIFF-ik/ _Beatific_ is a formal word that describes something or someone having a blissful appearance or showing complete happiness. _As the pair danced, beatific smiles on their faces, the audience sat hushed and almost reverential._  
 __board__ _v_ __17__ To furnish with meals, or with meals and lodging, esp. for pay.  
 __boarding house__ _n_ :two::hammer: :es: pensión  
 __boardroom__ _n_ A room where a committee meets (such as the board of directors of a company).  
@@ -80,6 +84,7 @@ __calico__ _n_
 __canasta__ _n_ A card game similar to rummy and played using two packs, where the object is to meld groups of the same rank.  
 __canine tooth__ _n_ One of the four pointed conical teeth (two in each jaw) located between the incisors and the premolars. _Syn_ canine, cuspid, eye tooth, eyetooth, dogtooth  
 __canister__ _n_ _A film canister._  
+__Capitol Hill__ _n_  
 __carouse__ _v_  
 __catnap<sup>1</sup>__ _n_  
 __catnap<sup>2</sup>__ _vi_  
@@ -107,11 +112,15 @@ __condescension__ _n_ A communication that indicates lack of respect by patroniz
 __congeal__ _v_ Become gelatinous. _Syn_ jell, set  
 __conscript__ _n_ A conscripted person (such as a military recruit).  
 __contrite__  
+__crease<sup>1</sup>__ _n_ __1__ A line or mark produced by folding, pressing, or wrinkling. __2__ A wrinkle or furrow, esp on the face.  
+__crease<sup>2</sup>__ _vt_  
+__crease<sup>3</sup>__ _vi_  
 __cutesy__ _adj_ Deliberately or affectedly cute; precious: _a cutesy boutique._ _A cutesy cheerleader._  
 __darn__ _adj_  
 __dealing__ _n_  
 __decadent__ _adj_ :astonished: __2__ Marked by or providing unrestrained gratification; self-indulgent.  
 __demure__ _adj_  
+__dilemma__ _n_ :pencil2: /dɪˈlɛmə; daɪ-/  
 __dimple__ _n_  
 __ding__ _v_  
 __dinghy__ _n_  
@@ -137,6 +146,9 @@ __divide__ _n_
 __divots__ _n_  
 __dodger__ _n_ __1__ One that dodges or evades: _a skilled dodger of reporters’ questions._  
 __doe__ _n_ _I was dispatched like a wounded doe, killed with a fast hard cracking of the neck._  
+__dog__ _n_ :astonished: __5a__ _informal_ A person: _You won, you lucky dog._ __b__ A person regarded as contemptible: _You stole my watch, you dog._  
+__domestic<sup>1</sup>__ _adj_ :mega: /dəˈmɛs tɪk/  
+__domestic<sup>2</sup>__ _n_  
 __dormitory__ _n_  
 __dorsum__ _n_ /ˈdɔːsəm/ (dorsa _n pl_ /-sə/) __1__ _(Anatomy)_ A technical name for the back. __2__ _(Anatomy)_ Any analogous surface: _the dorsum of the hand._  
 __dosser__ _n_ Someone who sleeps in any convenient place. _Syn_ street person  
@@ -180,6 +192,8 @@ __ecchymosis__ _n_ (_n pl_ ecchymoses) The medical term for a bruise.
 __eddy__ _n_ /EDD-ee/ An eddy is a current of water or air running contrary to the main current, especially as a whirlpool. In figurative use, _eddy_ may also refer to a contrary or circular current of thought or policy.  
 __edgeways__  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
+__fault line__ _n_  
+__fetishist__ _n_ One who engages in fetishism (especially of a sexual nature).  
 __finagling__ _n_ :smiling_imp: /fɪˈneɪɡlɪŋ/ The use of trickery or craftiness to achieve one’s aims.  
 __fire grate__ _n_ (firegrate, fire-grate) A grate used to hold the fuel in domestic fireplaces and in many forms of heaters and furnaces. _She prepared the fire grates._  
 __firebomb<sup>1</sup>__ _n_ A bomb used to start a fire; an incendiary bomb.  
@@ -262,6 +276,7 @@ __gibber<sup>1</sup>__ _vi_ To prattle and chatter unintelligibly.
 __gibber<sup>2</sup>__ _n_  
 __gibbous__ _adj_  
 __giggle__ _v_  
+__gladden__ _vt_ To make glad: _The good news gladdened our hearts._  
 __glass pane__  
 __glower<sup>1</sup>__ _n_ To look or stare angrily or sullenly: _glowered at the rude patron._ _Syn_ scowl, glare, frown, look daggers, give a dirty look, lour, lower  
 __glower<sup>2</sup>__ _n_ An angry or sullen look or stare.  
@@ -353,6 +368,7 @@ __hunch__ _v_ _He hunches a shoulder to wipe his face._
 __hurl__ _v_ :two::hammer:  
 __hurtle__ _v_ _Vader’s hit sent the ship hurtling downward._  
 __husk__ _vt_ :two: To remove the husk from.  
+__hydroplaning__ _n_ :pencil2:  
 __hyperbole__ _n_ :mega: /hahy-pur-buh-lee/  
 __hypertrichosis__ _n_ A condition of excessive hairiness either all over the body or covering a particular part.  
 __ideate__ _v_ /EYE-dee-ayt/ To ideate is to form an idea or conception of something..  
@@ -526,6 +542,8 @@ __motormouth__ _n_ :two: _slang_ A garrulous person.
 __nail clipper__ _n_ (also called nail clippers, a nail trimmer, a nail cutter or nipper type) A hand tool used to trim fingernails, toenails and hangnails.  
 __nape__ _n_  
 __nappy__ _n_ _Chiefly British_ A diaper.  
+__nefarious__  
+__nematode__ _n_ (nematode worm, roundworm) A type of worm belonging to the phylum Nematoda. Several nematodes are parasites on animals and humans and cause disease.  
 __newsagent__ _n_ A shopkeeper who sells newspapers, stationery, etc. _Syn_ newsdealer  
 __nibble__ _v_  
 __nifty__ _adj_  
@@ -583,6 +601,7 @@ __pent-up__ _adj_ (pent up _when postpositive_) __1__ Not given expression; repr
 __pentacle__ _n_ :dart: /ˈpɛn tə kəl/ A star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon. _Syn_ pentagram, pentangle  
 __penury__ _n_ Extreme want or poverty; destitution. _Syn_ indigence, pauperism, beggary, need  
 __people pleaser__ _n_ (people-pleaser) _As a recovering people-pleaser, saying no is particularly hard to me._  
+__pepper__ _vt_  
 __peppermint__ _n_ __1__ Herb with downy leaves and small purple or white flowers that yields a pungent oil used as a flavoring. :es: menta __2__ Red gum tree of Tasmania. __3__ a candy flavored with peppermint oil. _Syn_ peppermint candy  
 __peptic ulcer__ _n_ An erosion of the mucous membrane of the lower esophagus, stomach, or duodenum, caused in part by the corrosive action of the gastric juice.  
 __peradventure__ _n_ Chance, doubt, or uncertainty.  
@@ -798,6 +817,7 @@ __shear__ _v_ (shorn)
 __shell-shocked__ _adj_ :dart: (shell shocked) __1__ Suffering from shell shock. __2__ Stunned, distressed, or exhausted from a prolonged trauma or an unexpected difficulty.  
 __shinny__ _vi_ To climb by shinning.  
 __shoal__ _n_  
+__shooting range__ _n_ An enclosed firing range with targets for rifle or handgun practice. _Syn_ shooting gallery  
 __shortlisted__  
 __shortsighted__ _adj_  
 __shove__ _v_ :two::hammer:  
@@ -856,6 +876,7 @@ __spoor<sup>1</sup>__ _n_ (Hunting) The trail of an animal or person, esp as dis
 __spoor<sup>2</sup>__ _v_ (Hunting) To track (an animal) by following its trail.  
 __stale__ _adj_ :two::hammer: _Stale coffee._  
 __startled__ _adj_  
+__suboptimal__ _adj_  
 __sundry__ _adj_ Consisting of a haphazard assortment of different kinds. _Syn_ assorted, miscellaneous, mixed, motley  
 __tee-hee__ _n_ (te-hee) /ˈtiːˈhiː/ __1__ A sound made in imitation of a giggle or titter. __2__ An instance of giggling or tittering. A chuckle.  
 __tenement__ _n_  
@@ -906,6 +927,7 @@ __unfettered__
 __unfledged__ _adj_ Not having the feathers necessary to fly. Used of a young bird. _Syn_ immature  
 __unlettered__ _adj_ Uneducated in general; lacking knowledge or sophistication. _Syn_ ignorant, nescient, unlearned  
 __unperturbed__ _adj_ Free from emotional agitation or nervous tension. _Sun_ unflurried, unflustered, unruffled  
+__unseat__ _vt_ __2__ To dislodge from a location or position, especially to remove from office.  
 __unstudied__ _adj_ Not contrived for effect; natural. _Sun_ uncontrived  
 __unthinkable__  
 __uppity__ _adj_ _informal_ Haughtily arrogant, conceited, or self-important.  
@@ -951,6 +973,7 @@ __Wiffle ball__ _n_
 __William__ _n_ (Shortened familiar versions in English include Will, Wills, Willy, Willie, Liam, Bill, and Billy)  
 __wisp__ _n_  
 __woefully__  
+__womanize__ _v_ (womanise)  
 __wonderful__ _adj_ :mega::astonished: /ˈwʌn dər fəl/  
 __wondrous__ _adj_  
 __Worcestershire__ _n_ (sauce) /woos-ter-sheer/  

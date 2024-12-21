@@ -74,6 +74,7 @@ __EOL__
 __ESP__ Extrasensory perception. _ESP powers._  
 __ET__  
 __ETA__ Estimated time of arrival. _I believe we have an ETA of six days._  
+__EULA__ End-user license agreement  
 __exe__ :mega: /eksˈee/ or /eekˈsee/ or /E-X-E/  
 __FCC__ Federal communications commission (USA) _I must abide by FCC decency standards._  
 __FDR__ Franklin Delano Roosevelt  

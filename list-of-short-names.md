@@ -21,6 +21,7 @@
 - __Dan__ An old Scandinavian given name with disputed meaning. Dan is also a Hebrew given name, after Dan, the fifth son of Jacob with Bilhah and founder of the Israelite Tribe of Dan. It is also (along with the variant Danny) a given name or a nickname for people name Daniel.
 - __Deb__ A given name, usually feminine and often a shortened version (hypocorism) of Deborah or Debra.
 - __Dee__ A female given name, short for names beginning with “d.”
+- __Edd__ A short form or nickname for names like Edward or Edmund.
 - __Emy__ Emy’s language of origin is Germanic,Gothic, Germanic, Latin, and Latin. Emy is a derivative of the Dutch and English Emmy. Emy is a short form of Emilie and Emma. Emy means “universal”, “whole” and “eager”, “industrious” or “ambitious”.
 - __Eve__ Derived from the Latin name Eva.
 - __Hal__ A masculine given name, often a diminutive form (hypocorism) of Harold or Henry or Harvey, and a nickname.
