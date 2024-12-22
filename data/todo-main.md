@@ -18,6 +18,7 @@ __agonistic__ _adj_ Striving to overcome in argument. _Syn_ combative _The incum
 __airlock__ _n_ A chamber that provides access to space where air is under pressure. _Syn_ air lock  
 __allision__ _n_ (_vs_ collision)  
 __allusion__ _n_ /uh-LOO-zhun/  
+__alum__ _n_  
 __amalgamate__ _v_ /uh-MAL-guh-mayt/ _Amalgamate_ is a formal verb meaning “to unite (two or more things) into one thing.”  
 __andirons__ _n_  
 __anemone__ _n_ :mega: /əˈnɛm əˌni/ /uh–nem–uh-nee/  
@@ -32,8 +33,10 @@ __aquiline__ _adj_
 __arbiter__ _n_ One chosen or appointed to judge or decide a disputed issue. _Syn_ arbitrator, umpire  
 __armamentarium__ _n_ :astonished: _(Medicine)_ The items that comprise the material and equipment used by a physician in his professional practice.  
 __armistice__ _n_ /AHR-muh-stus/  
+__Arthur__ _n_ A legendary king of the Britons whose story is based on traditions of a sixth century military leader.  
 __austere__ _adj_ :mega:  
 __beatific__ _adj_ /bee-uh-TIFF-ik/ _Beatific_ is a formal word that describes something or someone having a blissful appearance or showing complete happiness. _As the pair danced, beatific smiles on their faces, the audience sat hushed and almost reverential._  
+__better__ _v_  
 __board__ _v_ __17__ To furnish with meals, or with meals and lodging, esp. for pay.  
 __boarding house__ _n_ :two::hammer: :es: pensión  
 __boardroom__ _n_ A room where a committee meets (such as the board of directors of a company).  
@@ -101,6 +104,7 @@ __chide__ _v_ :two::hammer:
 __choir__ _n_ :mega: /kwaɪər/ /kwahyuhr/  
 __chortle<sup>1</sup>__ _n_ A snorting, joyful laugh or chuckle.  
 __chortle<sup>2</sup>__ _v_ To utter a chortle or express with a chortle.  
+__Christmastide__ _n_  
 __chunky__ _adj_ Short and thick; stocky. _Syn_ low-set, squat, squatty, stumpy, dumpy  
 __claimant__ _n_ :dart: /ˈkleɪmənt/ __1__ A person who makes a claim. __2__ _(Law)_ A person who brings a civil action in a court of law. Formerly called: plaintiff  
 __clemency__ _n_  
@@ -112,6 +116,7 @@ __condescension__ _n_ A communication that indicates lack of respect by patroniz
 __congeal__ _v_ Become gelatinous. _Syn_ jell, set  
 __conscript__ _n_ A conscripted person (such as a military recruit).  
 __contrite__  
+__convene__ _v_  
 __crease<sup>1</sup>__ _n_ __1__ A line or mark produced by folding, pressing, or wrinkling. __2__ A wrinkle or furrow, esp on the face.  
 __crease<sup>2</sup>__ _vt_  
 __crease<sup>3</sup>__ _vi_  
@@ -192,8 +197,10 @@ __ecchymosis__ _n_ (_n pl_ ecchymoses) The medical term for a bruise.
 __eddy__ _n_ /EDD-ee/ An eddy is a current of water or air running contrary to the main current, especially as a whirlpool. In figurative use, _eddy_ may also refer to a contrary or circular current of thought or policy.  
 __edgeways__  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
+__exacerbate__ _vt_  
 __fault line__ _n_  
 __fetishist__ _n_ One who engages in fetishism (especially of a sexual nature).  
+__fiasco__ _n_ :dart: A complete failure, esp one that is ignominious or humiliating.  
 __finagling__ _n_ :smiling_imp: /fɪˈneɪɡlɪŋ/ The use of trickery or craftiness to achieve one’s aims.  
 __fire grate__ _n_ (firegrate, fire-grate) A grate used to hold the fuel in domestic fireplaces and in many forms of heaters and furnaces. _She prepared the fire grates._  
 __firebomb<sup>1</sup>__ _n_ A bomb used to start a fire; an incendiary bomb.  
@@ -429,6 +436,8 @@ __jot<sup>1</sup>__ _n_ :dart: /dʒɒt/ The smallest bit; iota. _(used with a ne
 __jot<sup>2</sup>__ _vt_  
 __Jovian__ _adj_  
 __jubilee__ _n_ :mega: /JOO-buh-lee/  
+__juvenile<sup>1</sup>__ _adj_  
+__juvenile<sup>2</sup>__ _n_  
 __Latin cross__ _n_ A cross with a shorter horizontal bar intersecting a longer vertical bar above the midpoint.  
 __legion<sup>1</sup>__ _n_  
 __legion<sup>2</sup>__ _adj_ :dart: Constituting a large number; multitudinous: _Her admirers were legion._ _His mistakes were legion._  
@@ -447,6 +456,7 @@ __limerence__ _n_ The state of being obsessively infatuated with someone, usuall
 __limestone__  
 __liminal__ _adj_ :two: /LIM-uh-nul/ _Liminal_ is a formal word most often used to describe an intermediate state, phase, or condition. It can also describe something that is barely perceptible or barely capable of eliciting a response.  
 __limpid__ _adj_ /LIM-pid/ _Limpid_ describes things that are perfectly transparent or clear, or that are simple in style.  
+__lockdown__ _n_ /ˈlɒkˌdəʊn/  
 __lycanthrope__ _n_  
 __macabre__ _adj_  
 __macaronic__ _adj_ :astonished: __1__ Characterized by Latin words mixed with non-Latin words often given Latin endings. __2__ Composed of a mixture of languages.  
@@ -555,7 +565,7 @@ __noggin__ _n_ __1__ A small mug or cup. __2__ A unit of liquid measure equal to
 __nominal price__ _n_  
 __nominal wages__ _n_ (money wages) Wages measured in terms of money and not by their actual purchasing ability.  
 __nominal__ _adj_ :dart: __2__ :dart: Minimal in comparison with real worth or what is expected; token: _a nominal fee._  
-__non-negotiable__ _adj_ Not open to negotiation or discussion: the policy is non-negotiable.  
+__non-negotiable__ _adj_ :two: Not open to negotiation or discussion: _the policy is non-negotiable._  
 __non-profit-making__ _adj_ Not yielding a profit, esp because organized or established for some other reason: _a non-profit-making organization._  
 __nonplus__ _v_ /nahn-PLUS/ To _nonplus_ someone is to perplex them, or in other words, to cause them to be at a loss as to what to say, think, or do.  
 __nonplussed__ _adj_ :pencil2:  
@@ -576,6 +586,8 @@ __oath__ _n_
 __obfuscate__ _v_ /AHB-fuh-skayt/ To obfuscate something is to make it more difficult to understand. Obfuscate can also mean “to be evasive, unclear, or confusing.”  
 __oblige__ _vt_  
 __obsequious__ _adj_  
+__oligarchy__ _n_ _Oligarchy_ can refer to a government in which a small group exercises control especially for corrupt and selfish purposes, as well as to the group exercising such control.  
+__outskirts__ _n pl_  
 __overworked__ _adj_ :dart:  
 __pad__ _v_  
 __pander__ _v_ To say, do, or provide what someone wants or demands even though it is not proper, good, or reasonable.  
@@ -634,6 +646,7 @@ __pillion__ _n_ A seat or place behind the rider of a motorcycle, scooter, horse
 __pillowcase__ _n_ A removable covering for a pillow. Also called pillowslip. :es: funda de almohada  
 __pimple__ _n_ :es: espinilla  
 __pimply__ _adj_ /ˈpɪm pli/ Having many pimples.  
+__pinafore__ _n_  
 __pip__ _n_ __1__ (Veterinary Science) A contagious disease of poultry characterized by the secretion of thick mucus in the mouth and throat. __2__ _facetious slang_ A minor human ailment.  
 __pitch<sup>1</sup>__ _n_ :es: (esp. _British_) campo, cancha  
 __pitch<sup>2</sup>__ _vt_  
@@ -808,16 +821,19 @@ __retention__ _n_
 __ristretto__ _n_ A “short shot” of a more highly concentrated espresso coffee. It is made with the same amount of ground coffee, but extracted with a finer grind (also in from 20 to 30 seconds) using half as much water.  
 __rod__ _n_  
 __row__ _n_ :astonished: __1__ A noisy or quarrel or disturbance.  
+__sanguineous__ _adj_ Relating to or involving blood or bloodshed. _Syn_ butcherly, gory, slaughterous  
 __saunter__  
 __scamper__ _n_  
 __scowl__ _v_  
 __scuttle__ _vi_ To run or move with short hurried movements; scurry. :es: _to scuttle away or off_ → escabullirse, _to scuttle along_ → correr, ir a toda prisa, _we must scuttle_ → tenemos que marchar  
+__Seoul__ _n_ :mega: /səʊl/ /soʊl/  
 __shapeshift__ _vi_ (biology, fantasy, mythology) To change one’s shape or form (into another) through often magical means, normally applied only to living beings.  
 __shear__ _v_ (shorn)  
 __shell-shocked__ _adj_ :dart: (shell shocked) __1__ Suffering from shell shock. __2__ Stunned, distressed, or exhausted from a prolonged trauma or an unexpected difficulty.  
 __shinny__ _vi_ To climb by shinning.  
 __shoal__ _n_  
 __shooting range__ _n_ An enclosed firing range with targets for rifle or handgun practice. _Syn_ shooting gallery  
+__shortage__ _n_ :mega: /ˈʃɔr tɪdʒ/  
 __shortlisted__  
 __shortsighted__ _adj_  
 __shove__ _v_ :two::hammer:  
@@ -831,6 +847,7 @@ __side note__ _n_ Additional information aside main point.
 __simpleton__ _n_ :smiling_imp:  
 __single-handed__ _adj, adv_ :dart:  
 __single-minded__ _adj_  
+__sitzmark__ _n_ /ˈsits-ˌmärk/ /ˈzits-/ It refers explicitly to the dent or hole left in the snow by a skier’s rump. A depression left in the snow by a skier falling backward.  
 __skeleton key__ _n_ :astonished:  
 __skewer<sup>1</sup>__ _n_  
 __skewer<sup>2</sup>__ _vt_  
@@ -867,6 +884,7 @@ __snow flurry__ _n_ A light brief snowfall and gust of wind (or something resemb
 __snub-fighter__ _n_ (snub fighter)  
 __snuffbox__ _n_ A small, often decorated box with a hinged lid, used for carrying snuff.  
 __soapbox__ _n_ _Stan Lee’s soapbox._  
+__solstice__ _n_ One of the two times during the year when the sun is farthest north or south of the equator.  
 __soon enough__ _adv_ :dart::astonished:  
 __sou__ _n_ One of several coins formerly used in France, worth a small amount.  
 __specific__ _adj, n_ :mega: /spi-sif-ik/  
@@ -881,6 +899,7 @@ __sundry__ _adj_ Consisting of a haphazard assortment of different kinds. _Syn_ 
 __tee-hee__ _n_ (te-hee) /ˈtiːˈhiː/ __1__ A sound made in imitation of a giggle or titter. __2__ An instance of giggling or tittering. A chuckle.  
 __tenement__ _n_  
 __Terence__ _n_ (Terry)  
+__testimonial__ _n_ /tess-tuh-MOH-nee-ul/ A testimonial is a written or spoken statement in which a person says they used a product or service and liked it, or that they appreciate someone’s work, skill, character, etc. Testimonial is also used as a synonym of evidence and testimony.  
 __thalamotomy__ _n_ Surgical excision of a portion of the thalamus, usually to relieve tremor, as in Parkinson’s disease.  
 __thanatopsis__ _n_ /than-uh-TOP-sis/ [:scroll: From Greek thanatos (death) + -opsis (appearance, view)] A reflection upon death.  
 __the nuts and bolts__  
@@ -917,6 +936,7 @@ __trundle__ _v_
 __tsunami__ _n_ [:scroll: From the Japanese _tsunami_, a combination of _tsu_, meaning “harbor” and _nami_, meaning “wave.”]  
 __tuck__ _v_  
 __turducken__ _n_  
+__Twelvetide__ _n_  
 __twinge__ _n_ __1__ A sharp, sudden physical pain. _Syn_ pain __2__ A mental or emotional pain: a twinge of guilt.  
 __twitch__ _n_ _A twitch of motion._  
 __uncompromising__ _adj_  
@@ -971,6 +991,7 @@ __white-hot__ _adj_
 __whuff__ _v_ (whuffle) To blow noisily.  
 __Wiffle ball__ _n_  
 __William__ _n_ (Shortened familiar versions in English include Will, Wills, Willy, Willie, Liam, Bill, and Billy)  
+__Wisconsin__ _n_ :mega: /wɪsˈkɒnsɪn/ /wɪsˈkɒn sən/  
 __wisp__ _n_  
 __woefully__  
 __womanize__ _v_ (womanise)  

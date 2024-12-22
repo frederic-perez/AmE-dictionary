@@ -46,6 +46,7 @@ __a piece of cake__
 __a piece of work__ :smiling_imp: A remarkably difficult, malicious, unpleasant, or objectionable person.  
 __a royal pain__ :dart: Someone or something that causes a large or severe amount of frustration, annoyance, or aggravation. “Royal” is used as an intensifier. _Of course the client has more demands. Ugh, he is a royal pain._  
 __a shiver down (one’s) spine__ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
+__a shot in the dark__ __1__ A guess or estimate with very little or no assurance as to its accuracy. _Well, this is just a shot in the dark, but I’m going to say that the answer to the question is 52._ __2__ An attempt that is not expected to succeed or has very little chance of working. _It was really just a shot in the dark when I tried to fix our washing machine, but I was actually able to get it working again on my first try!_  
 __a small fortune__ (small fortune)  
 __a stab in the back__ A betrayal; an act of treachery.  
 __a stone’s throw__ :two: A very short distance.  
@@ -75,6 +76,7 @@ __any moment__ Sometime very soon; imminently. _The mail should arrive any momen
 __any second__ Sometime very soon; imminently. _It looks like it could rain any second._  
 __apples and oranges__ Two unlike things or people. Two entities that are not similar. (Used especially in reference to comparisons of unlike things.)  
 __as good as dead__ ((as) good as dead= In a position of great and irreversible danger or trouble, with the outcome of death being either figurative or literal.) _I’m as good as dead after crashing my parents’ car!_  
+__as of yet__ _adv_ (perhaps nonstandard) Alternative form of _as yet._  
 __as we speak__  
 __at length__  
 __at the end of (one’s) rope__  
@@ -98,6 +100,7 @@ __brand new__ [:scroll: The word “brand” here comes from Old English for fir
 __break even__  
 __break the ice__  
 __bring (something) into effect__ To cause (something) to apply, begin operating, or take effect; to begin implementing or enforcing (something).  
+__bring to light__ To reveal something, often something inappropriate or illegal. A noun or pronoun can be used between “bring” and “to.” _Discrepancies in the yearly budget report brought to light corruption in the company._  
 __bring to one’s knees__ Make one submit; reduce to a position of subservience.  
 __British Invasion__ :two: The British Invasion was a cultural phenomenon of the mid-1960s, when rock and pop music acts from the United Kingdom[2] and other aspects of British culture became popular in the United States with significant influence on the rising “counterculture” on both sides of the Atlantic Ocean. The arrival of the Beatles in the US in 1964 marked the start of the British Invasion.  
 __brood over__  
@@ -112,12 +115,14 @@ __call it even__ To acknowledge or consider a situation or exchange as being equ
 __call of nature__ The urge to urinate or defecate. _I have to attend to the call of nature._  
 __call out__  
 __call the shots__ (call (all) the shots)  
+__candy stripper__ [:scroll: First appears in the US c. 1944, due to the red-and-white striped jumpers worn by hospital volunteers, which resembled stick candy (being candy-striped); originally worn by a group of high-school girls who volunteered as hospital workers at East Orange General Hospital in New Jersey.] A volunteer worker in a hospital or hospice.  
 __case in point__  
 __cash flow__  
 __cash poor__ Having very little fluid capital due to one’s financial wealth being derived from or invested in long-term assets. _I can’t afford transactions like that right now. All my wealth is tied up in real estate, so I’m a bit cash poor at the moment._  
 __cast in concrete__ Firmly or permanently established; not subject to change; unalterable.  
 __castle in the air__  
 __castles in the air__  
+__catch one’s breath__ (catch (one’s) breath)  
 __Catch-22__  
 __cavalry__ _figurative_ Source of rescue, especially in an emergency.  
 __chalk up__  
@@ -176,7 +181,6 @@ __day in and day out__
 __dead__ __5__ Absolutely. _You’d better be dead certain about this decision, because you can’t take it back._  
 __deadhead__ __3__ _n_ _slang_ One who is regarded as dumb, dull, or stupid.  
 __dearth__ _n_ /dɜːθ/  
-__dibs on something__ (first dibs on something)  
 __dig (something)__ _slang_ To understand, approve of, or enjoy something. _I really dig this music, man!_  
 __dig and poke around__ The idiom “dig and poke around” generally means to search or investigate something thoroughly by looking through various items or areas, often in a somewhat casual or unstructured manner.  
 __disabuse (someone or oneself) of (something)__  
@@ -187,6 +191,7 @@ __do double duty__
 __do shit__ (don’t do shit) _The cops that worked the case didn’t do shit and sure as hell aren’t going to do shit now._  
 __do the trick__ :two: To do, accomplish, or fulfil exactly what is needed or sought after. _The recipe calls for pancetta, but I think this regular bacon should do the trick._  
 __do-rag__ A scarf, bandana, or similar item tied around the head as a covering. A headcap that covers and protects a hairdo. _Bob says he uses that do-rag to keep his hair out of his face while he mows the lawn._  
+__don’t ask me__  
 __don’t get me started__  
 __don’t give a rat’s ass__  
 __doom and gloom__  
@@ -233,7 +238,9 @@ __filled to the brim__
 __fire and brimstone__ :two: __1__ _n_ The misery that one faces in hell. The supposed torments of hell. In the Bible, fire and brimstone are the means of divine punishment for the wicked. _Unrepentant criminals better prepare themselves for fire and brimstone after death._  
 __fire-breathing__  
 __first come, first served__ The first people present will be the first to receive something, often something that is available in limited quantities.  
+__first dibs on__ :three: (dibs on something) (first dibs on something) Choice of (something) before anyone else gets to pick. _The boss insisted on having first dibs on the best parking space._ _The farm always gives first dibs on its vegetables to local families._  
 __first thing__  
+__first-in-human trial__ “First-in-human” refers to the initial clinical trial where a new drug, medical procedure, or treatment is tested in humans for the very first time.  
 __fit the bill__  
 __five-on-five__ “Five-on-five” typically refers to a format in team sports where each team has five players on the field or court at the same time. _A five-on-five game of basketball._  
 __flare up__ :es: estallar  
@@ -258,6 +265,7 @@ __for all practical purposes__ (for (all) practical purposes) In reality; basica
 __foul play__ Unspecified criminal or unscrupulous actions, especially violence when stated as the potential cause of a death or disappearance. _That actor actually died of a heart attack—there was no foul play after all._  
 __freaking__ _mod._ Damned. (Euphemistic for fucking. Usually objectionable.) _Get your freaking socks off my bed!_  
 __ghost gun__ A gun without serial numbers that cannot be easily tracked, especially a home-made gun built with non-registered, partially finished or 3D printed components.  
+__give someone or something away__ To reveal a secret about someone or something. _I thought no one knew where I was, but my loud breathing gave me away._ _We know that Billy ate the cherry pie. The cherry juice on his shirt gave him away._  
 __go berserk__  
 __gun for hire__  
 __hear out__ (hear someone out)  
@@ -299,6 +307,7 @@ __hue and cry__ /HYOO-und-KRYE/ __1__ A large public protest. _Hue and cry_ refe
 __huff and puff__ Make noisy, empty threats; bluster. For example, _You can huff and puff about storm warnings all you like, but we’ll believe it when we see it._ This expression uses two words of 16th-century origin, _huff_, meaning “to emit puffs of breath in anger,” and _puff_, meaning “to blow in short gusts,” and figuratively, “to inflate” or “make conceited.” They were combined in the familiar nursery tale, _“The Three Little Pigs,”_ where the wicked wolf warns, _“I’ll huff and I’ll puff and I’ll blow your house down”_; rhyme has helped these idioms survive.  
 __hung jury__ :dart: A jury that cannot agree on a verdict.  
 __hunky-dory__  
+__hush money__ :three: _n informal_ A bribe paid to keep something secret. _A hush money case._  
 __I beg your pardon__ :dart: __1__ :dart: I apologize for what I just did or said. _Oh, I beg your pardon. I wasn’t looking where I was going._ __2__ What did you just say? _Could you please repeat that? I beg your pardon, I couldn’t quite hear you._ __3__ An expression or exclamation of indignation or incredulous disbelief. _A: “I’m afraid we’re going to have to cut your funding, effective immediately.” B: “I beg your pardon? Who on earth decided that?”_ __4__ Could you please give me your attention. _I beg your pardon, everyone, but I’d like to get tonight’s proceedings underway._ __5__ :dart: I believe you are mistaken or incorrect; I beg to differ; I don’t agree with you on that. _I beg your pardon, but I believe you’ll find that our school is actually one of the best in the state._  
 __I say__  
 __I wouldn’t recommend it__ The idiom “I wouldn’t recommend it” means that the speaker does not think something is a good idea or that it would be a positive experience. It’s a way of politely discouraging someone from doing something, suggesting that it might be unpleasant, risky, or simply not worth the effort.  
@@ -367,6 +376,7 @@ __in the bag__ :three: Achieved or won almost as a certainty. A situation or out
 __in the blink of an eye__  
 __in the bud__ (in bud) In an undeveloped, immature, or incipient state. _Tommy has become quite a little painter in bud recently._  
 __in the dark__ To be unaware or uninformed about something. Ellroy’s protagonists often operate in a world of secrecy, and this idiom reflects their struggle to uncover the truth while others keep them in the dark.  
+__in the days ahead__ (in the weeks ahead)  
 __in the hope that__ With the expectation, intention, or desire that (something will happen). _He strove to be well-behaved in prison, in the hope that he would be let out early on parole._  
 __in the house__  
 __in the least__ :three::hammer:  
@@ -374,6 +384,7 @@ __in the long run__ Over a relatively long or extended length of time in the fut
 __in the making__  
 __in the midst of (something)__  
 __in the mix__  
+__in the name of__ __2__ With someone or something as a basis, reason, or motivation. _They’re releasing the documents in the name of transparency, but I don’t think anyone is really interested in them._ _How many people have been killed in the name of religion?_  
 __in the next breath__ :two: (especially when speaking) In or at the very next moment or opportunity; in a very short space of time. _The boss spent nearly an hour talking about how we had to cut spending in the office, but in the next breath, he was telling his secretary to upgrade his company car._  
 __in the nick of time__  
 __in the pipeline__ In progress or about to be started or implemented.  
@@ -438,6 +449,7 @@ __jump ship__ (abandon ship) _Nearly all of (chatbot) Pi’s parent company, Inf
 __jungle law__  
 __junkyard dog__ An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase “meaner than a junkyard dog.” _Though he’s always polite when he’s in public, Tiffany’s husband is meaner than a junkyard dog behind closed doors._  
 __just deserts__ :dart::pencil2:  
+__just desserts__ :dart::astonished:  
 __just like that__ :three::hammer: ((just) like this/that)  
 __just saying__ :two::hammer:  
 __just the same (to one)__ Makes no difference one way or another (to one); unimportant (to one) what happens or how. _I’d actually prefer to continue working on a freelance basis, if it’s just the same to you._  
@@ -508,6 +520,7 @@ __laugh in (one’s) sleeve__ To rejoice or be amused secretly and contemptuousl
 __laugh it off__  
 __laugh something off__ :dart: To treat a serious problem lightly by laughing at it. _Although his feelings were hurt, he just laughed the incident off as if nothing had happened._ _He laughed off the incident._  
 __laughing in the aisles__ Laughing uproariously or hysterically. (Used especially in the phrase “have someone laughing in the aisles.”) _Your jokes are perfect for your speech tonight. You’ll have them laughing in the aisles!_  
+__laughter lines__ _euphemism_ [Especially visible when smiling or laughing. ] Wrinkles at the outer corners of the eye. _Syn_ crow’s feet  
 __launder__  
 __lay (one’s) life on the line__ To put oneself in harm’s way (to achieve something), especially at the risk of losing one’s life. (Sometimes used hyperbolically.) _It’s important to honor the men and women in the military, who lay their lives on the line every day defending our country._  
 __lay (oneself) out__ To put in a great deal of effort; to inconvenience oneself or go through a lot of trouble. _I don’t know why I always lay myself out to impress your parents—they never appreciate what I do anyway._  
@@ -586,7 +599,9 @@ __loaf about__ To waste time idly; to spend time doing little or nothing. _Chris
 __lock (someone) up and throw away the key__ To incarcerate someone in prison forever or indefinitely. _That crazy drunk driver nearly hit me! I hope they lock him up and throw away the key!_  
 __lock lips (with someone)__ To kiss (someone) passionately and at length. _I’ll never forget locking lips with my wife for the very first time._  
 __locker-room humor__ Especially crude, vulgar, or bawdy humor. _I’m no prude by any means, but I hate the locker-room humor my boyfriend partakes in when his buddies are around._  
+__love handles__ ((love) handles, spare tyres, Dunlops disease, Dunlop Syndrome) _euphemism_ [So called because supposed to be grabbed by a partner in sexual intercourse.]  
 __make a fuss__  
+__make a long arm for (something)__ To extend one’s arm fully toward something; to reach out for something. _Mary’s new boyfriend made a long arm for the bottle of wine at the end of the table, helping himself to another glass._  
 __mince words__  
 __miss the boat__  
 __mix and match__  
@@ -655,6 +670,7 @@ __off again, on again__
 __off the hook__ :three::hammer:  
 __off to the races__  
 __off-kilter__  
+__OG__ (original gangster) In contemporary usage, calling someone an OG can be a compliment that acknowledges their status as a pioneer or leader in a specific area, whether it be music, sports, or any other field. It reflects admiration for their contributions and the respect they command from others.  
 __oh boy__  
 __oh dear__ :dart: An expression of concern, surprise, or disappointment. _This place is on the 10th floor, and there’s no elevator? Oh dear._ _A car accident? Oh dear, is she OK?_  
 __oh, my__ :dart::three::hammer: (oh my)  
@@ -718,12 +734,16 @@ __party’s over__ A happy or fortunate time has come to an end. _We go back to 
 __pepper with__  
 __pick momentum__  
 __promises, promises__ A sarcastic reply to a promise or assurance that one does not believe.  
+__pull ahead (of someone or something)__  
 __push the boundaries of (something)__ To act in a way that challenges established, expected, or accepted norms. _The most famous and influential performers tend to push the boundaries in everything from their lyrics to their clothing._  
 __put (something) to rest__  
 __put heart and soul into something__ (put (one’s) heart and soul into (something)) To do something with the utmost of one’s energy, enthusiasm, and determination.  
 __put on (one’s) thinking cap__ To begin thinking or considering very carefully and seriously (about something).  
 __put on a brave face__  
+__put out a/the fire__  
 __put up with someone or something__  
+__raise a glass__ (raise a/(one’s) glass (to someone)) To wish someone happiness, success, good fortune, etc., by raising one’s drink.  
+__red flag__  
 __revenge is a dish best eaten cold__ Revenge that takes place far in the future, after the offending party has forgotten how they wronged someone, is much more satisfying.  
 __revenge is a dish best served cold__ Revenge that takes place far in the future, after the offending party has forgotten how they wronged someone, is much more satisfying.  
 __revenge is sweet__ Revenge is a potent source of satisfaction and pleasure.  
@@ -735,6 +755,7 @@ __right up (one’s) alley__ _If you’re a fan of idiomatic language and wordpl
 __riled up__ ((all) riled up) Particularly angry, agitated, or in a frenzied state.  
 __roast__  
 __rob someone blind__ :smiling_imp:  
+__rock solid__  
 __roll with the punches__ :dart::two: __2__ By extension, to adapt to setbacks, difficulties, or adversity so as to better manage or cope with their impact on one’s life. _Losing my job was really tough, but I’ve just been trying to roll with the punches until I get back on my feet._  
 __rolling stone__  
 __root around__ To dig or rummage aimlessly (in or through some cluttered location). Usually used in the continuous tense. _Tom rooted around the attic for a while, but he couldn’t find his old comic book location._ _She was rooting around for bargains._  
@@ -878,6 +899,7 @@ __steely-spined__ :dart: __2__ Determined and resolved. _You’ll never be able 
 __step in__ To enter into some position, activity, or situation to intervene or improve it.  
 __step up (one’s) game__ To improve in some way, usually so that one can perform as well as others. _Man, I really need to step up my game if I’m going to play basketball with all these young guys._  
 __stick around__ To remain or linger in one location; to not leave or abandon (someone or something). _Hey, stick around for a minute, I need to talk to you._  
+__stick to your guns__ (stick to (one’s) guns) To remain determined, resolute, or steadfast in one’s opinion, belief, or perspective; to refuse to be persuaded by someone else into believing or doing something one does not agree with. Alludes to a soldier remaining and firing their gun(s) at an enemy, even when the situation might be dangerous or hopeless. _The prosecution is going to try to trip you up with your statement and your alibi, but so long as you stick to your guns, there’s nothing to worry about._  
 __sticking point__ A topic of discussion or debate that results in disagreement. _The subject of curfew is often a real sticking point between teenagers and their parents._  
 __stiff upper lip__ :two: :es: guardar la compostura  
 __sting operation__ :dart::smiling_imp:  
@@ -893,6 +915,7 @@ __suicide by cop__
 __sure as hell__ ((as) sure as hell) _The cops that worked the case didn’t do shit and sure as hell aren’t going to do shit now._  
 __sure enough__ As expected or anticipated.  
 __sure thing__  
+__surprise, surprise__  
 __swat__ _slang_ To contact emergency services, such as the police, with a fraudulent report of an emergency so that they respond in large numbers to a certain location, often done as a prank. The name refers to SWAT (“Special Weapons and Tactics”) teams, specialized police units that respond to especially dangerous situations. _Kids keep swatting celebrities’ houses, and police are coming down hard when they catch the person who did it._  
 __swatting__ _slang_ The act of contacting emergency services, such as the police, with a fraudulent report of an emergency so that they respond in large numbers to a certain location, often done as a prank. The name refers to SWAT (“Special Weapons and Tactics”) teams, specialized police units that respond to especially dangerous situations. _Swatting is much more dangerous than a simple prank—it diverts first responders who may be needed elsewhere._  
 __swept the board__  
@@ -988,6 +1011,7 @@ __wind up__ __1__ To come or bring to a finish; end: _when the meeting wound up;
 __winnow out__  
 __with heavy asterisk__ (with a heavy asterisk) The phrase “with (a) heavy asterisk” is typically used in conversation, writing, or discourse to imply that there’s a major caveat, condition, or important exception that should be noted. The asterisk metaphorically represents the idea that there’s a footnote or clarification to consider, but it’s emphasized as significant or notable—hence “heavy.”  
 __word has it (that)__ According to rumor or gossip (something is the case).  
+__work (one0146s) butt off__ To work really hard (on or at something). _I know you thought it was just a silly New Year’s resolution, but I’4ve been working my butt off at the gym!_  
 __worry (something) out of (someone or something)__  
 __yellow__  
 __young at heart__ Behaving or thinking in a way that is more youthful than what traditionally accompanies one’s actual age.  

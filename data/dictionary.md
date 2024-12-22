@@ -9636,7 +9636,6 @@ __hurtle__ _v_ :seven::hammer:
 __husbanded__ _v_ _Rob husbanded his money._  
 __husbandman__ _n_ A person who operates a farm. _Syn_ farmer, granger, sodbuster  
 __husbandry__ _n_ :three::hammer:  
-__hush money__ _n informal_ :two: A bribe paid to keep something secret. _A hush money case._  
 __hush up__ _phr v_ :three: To not let something become known. _The matter had been hushed up._  
 __hush-hush__ _adj_ _informal_ Very secret. _Though these meetings were hush-hush there were sometimes leaks._  
 __hush<sup>1</sup>__ _n_ :three::hammer:  
