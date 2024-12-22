@@ -4614,8 +4614,8 @@ __on track__ :dart::two: Progressing or developing as planned, scheduled, or exp
 __On your mark(s), get set, go!__  
 __on your toes__ Ready to deal with anything that might happen: _We were all on our toes, waiting for the game to begin._  
 __once a snipe, always a snipe__  
-__once and for all__ :six: [:scroll: This expression is in effect an abbreviation for “one time and for all time.”] Exceptionally uncommon or unusually excellent. Hyphenated if used before a noun. FAs a settled matter, finally, permanently, as in _Once and for all, we’re not hiring that organist again_, or _We’ve settled that question once and for all._ _This is a one-in-a-million opportunity for us—we’d be fools not to seize it while we have the chance!_ _Great shot, kid—that was one in a million!_  
-__once in a blue moom__ Very rarely.  
+__once and for all__ :nine::m: [:scroll: This expression is in effect an abbreviation for “one time and for all time.”] Exceptionally uncommon or unusually excellent. Hyphenated if used before a noun. FAs a settled matter, finally, permanently, as in _Once and for all, we’re not hiring that organist again_, or _We’ve settled that question once and for all._ _This is a one-in-a-million opportunity for us—we’d be fools not to seize it while we have the chance!_ _Great shot, kid—that was one in a million!_  
+__once in a blue moom__ :two: Very rarely.  
 __one after another__ Consecutively and in quick succession, with one person or thing rapidly following another in order (and usually indicating a large amount altogether). (Often formulated as “one (noun) after another.”) _The children walked silently, one after another, into the schoolhouse to begin their lesson._ _When I was cooped up in the house after my surgery, I started reading one book after another._  
 __one and done__ :two::hammer:  
 __one and only__ :two::hammer:  
@@ -4627,18 +4627,18 @@ __one man’s trash is another man’s treasure__
 __one of a kind__  
 __one on one__  
 __one side__ Move aside! Get out of the way! (Short for “move to one side.”) _One side, little man! I’m in a rush, and you’re getting in my way!_  
-__one size fits all__ :two: Supposedly well-suited to any situation, as of a product, method, solution, etc. Often hyphenated. _We must move away from a “one size fits all” approach._  
+__one size fits all__ :four: Supposedly well-suited to any situation, as of a product, method, solution, etc. Often hyphenated. _We must move away from a “one size fits all” approach._  
 __one step at a time__  
 __one too many__ :two::hammer: _We drank one too many._  
-__one way or another__ :four::hammer: _If I fail then it will cost me my head one way or another._  
+__one way or another__ :five::hammer: _If I fail then it will cost me my head one way or another._  
 __one way or the other__  
 __one-hit wonder__ A musician or band that only has one successful song during their music career. _I’m surprised that band was a one-hit wonder. I enjoyed several songs on their album, but only the one big single ever got radio play._  
 __one-horse town__ A very small and unremarkable town that is typically regarded as dull or boring. _I can’t wait to graduate high school and get out of this boring, one-horse town!_  
 __one-liner__ _informal_ A very short, witty joke, remark, or riposte.  
 __one-night stand__ A sexual relationship that lasts for only one night. It’s a play on words, because a nightstand is a small low bedside table, typically having drawers.  
 __one-of-a-kind__ :three::hammer: _One-of-a-kind experience._  
-__one-off__ :four::hammer:  
-__one-on-one__ :three::hammer:  
+__one-off__ :seven::hammer:  
+__one-on-one__ :four::hammer:  
 __one-stop shop__ A physical or online location at which one can obtain everything one needs or wants all at once.  
 __one-trick pony__ _n_ A person or thing considered as being limited to only one single talent, capability, quality, etc.  
 __one-up (someone)__ :four: To make a point of outdoing, outperforming, outclassing, etc., someone. _I hate telling stories around Jack because he always tries to one-up you with some fabulous anecdote of his own._  
@@ -4646,6 +4646,7 @@ __one’s other half__ :two::hammer:
 __only fair__ The right thing. _It’s only fair to tell him the truth._  
 __oodles__ :dart::two: _slang_ A lot; a large amount or volume. _I’ll have oodles of time during my retirement, so I’m planning on taking up a hobby._  
 __oomph__ :two: _slang_ Power, vigor, or energy.  
+__oops-a-daisy__ An exclamation of surprise or apology, as after doing something clumsy. _Oops-a-daisy! Dang it, I can’t believe I broke my favorite vase!_  
 __open (one’s) big mouth__ To say something that is meant to be a secret; to say something in an indiscreet, noisy, or boorish manner. _Why did you have to open your big mouth about my crush on Tommy? Why couldn’t you just keep it between us?_  
 __open (one’s) eyes__ __1__ To see or realize the truth about something. __2__ To cause one to see or realize the truth about something.  
 __open a can of worms__ :two: To create a situation that will cause a lot of problems.  
@@ -4654,12 +4655,14 @@ __open mike__
 __open question__  
 __open season (on someone or something)__  
 __open sesame__ :two::hammer:  
+__open the door for (someone or something)__  
 __open the floodgates__  
 __open to question__  
 __open-minded__ Interested in and willing to accept new ideas, thoughts, opinions, etc.  
+__or so__ :dart:  
 __orbiter__ In James Ellroy’s novels, “orbiter” is a term used to describe someone who is on the periphery or fringes of a criminal organization or network. It’s someone who is not a central player or a key decision-maker, but who is still involved in the criminal activity in some way, perhaps as a lookout, a messenger, or a low-level enforcer.  
 __org__ __2__ _n_ An organization.  
-__other than (something)__ :six: (other than that) Besides or excluding something. _Other than having a view of the parking lot, his apartment is great._ _Other than that, blah blah blah._  
+__other than (something)__ :seven: (other than that) Besides or excluding something. _Other than having a view of the parking lot, his apartment is great._ _Other than that, blah blah blah._  
 __otherwise known as__ Used to indicate a different name that people know or that a person uses. _France’s King Louis XIV, otherwise known as the Sun King._  
 __otherworldly__  
 __ouch__ :dart::two: __2__ An acknowledgement of some disappointment or unpleasantness. _A: “I’m pretty bummed—I studied all weekend, and I only got a C.” B: “Ooh, ouch.”_  
@@ -4749,6 +4752,7 @@ __part company (with/from somebody/something)__
 __part ways (with one)__ :dart::six: To separate or depart (from one); to stop associating (with one).  
 __party crasher__ :two: One who attends a party without having been invited. _I don’t mind party crashers coming to my parties, so long as they behave themselves._  
 __party pooper__ :two: (party poopers) A person who dislikes or refuses to participate in social events, often with the result of detracting from others’ enjoyment of such events. _Amy is such a party pooper. She thinks our company’s social functions are stupid and just stands around pouting the whole time._  
+__party’s over__ A happy or fortunate time has come to an end. _We go back to school tomorrow. The party’s over._  
 __pass along__  
 __pass away__ _euphemism_ To die. _When I pass away, I don’t want an elaborate funeral._  
 __pass on__  
@@ -4791,7 +4795,7 @@ __peg it__ To leave or depart very quickly or suddenly. _You’d better peg it, 
 __peg someone as something__ (have someone pegged as something) To think of someone in a certain way. _Susan pegged the new employee as a lazy worker._ _She had him pegged as a fortune hunger._  
 __penguin suit__ _slang_ A man’s formal evening wear, i.e., a tuxedo. _I need to find somewhere I can rent a penguin suit for my brother’s wedding this summer._  
 __people pleaser__ (_less commonly_ people-pleaser)  
-__pepper with (something)__  
+__pepper with (something)__ :two::hammer:  
 __percolate__ In the context of James Ellroy’s novels, “percolate” means to spread or become known gradually or by word of mouth. It’s often used to describe the way information or rumors circulate in the criminal underworld, or how news of a crime or scandal might slowly reach the public.  
 __perfect storm__ :seven: A critical or disastrous situation created by a powerful concurrence of factors.  
 __period__  
@@ -4808,6 +4812,7 @@ __phub__ :two::hammer:
 __pick (one’s) brain(s)__  
 __pick (one’s) nose__ :two::dart: __1__ Literally, to remove nasal mucus (i.e., “boogers”) with one’s finger. _Tommy! Quit picking your nose, that’s a filthy habit!_ __2__ By extension, to dawdle, fool around, or waste time idly. _No wonder we’re losing so much money—half our staff just stands around picking their noses for most of the day!_  
 __pick a fight__ :two: To act aggressively or in a certain way toward someone in order to provoke them into a fight.  
+__pick momentum__  
 __pick on (one)__ :two: To harass, bully, or tease one. _I like to pick on people that I love._  
 __pick on (someone or something)__ :four::hammer:  
 __pick someone or something apart__ :dart: To analyze and criticize someone or something negatively. _You didn’t review her performance; you just picked her apart._ _Stop picking yourself apart._  
@@ -4984,7 +4989,7 @@ __Prince Charming__ :two: The (hypothetical) perfect man who has all of the trai
 __prior to__ _prep_ Before. _Prior to this episode._  
 __prise open__  
 __pro bono__  
-__promises, promises__ A sarcastic reply to a promise or assurance that one does not believe. _A: “I swear, as soon as I have a bit more free time, we will go on a proper date together.” B: “Promises, promises! I won’t hold my breath.”_  
+__promises, promises__ :two: A sarcastic reply to a promise or assurance that one does not believe. _A: “I swear, as soon as I have a bit more free time, we will go on a proper date together.” B: “Promises, promises! I won’t hold my breath.”_  
 __prone to__  
 __prop up__ :three::hammer: _But with her leg propped up._  
 __psyched__ Extremely surprised, excited, or nervous. Feeling a very strong emotion.  
@@ -4997,6 +5002,7 @@ __pull (oneself) together__ :two: Calm down.
 __pull a face (at someone)__ To make a grimacing or humorously distorted facial expression (at someone). _Young lady, don’t you pull a face at me! You will eat your broccoli or you won’t have any dessert._ _The teacher scolded Jimmy for pulling faces at her from the back of class._  
 __pull a prank (on someone)__ To carry out a trick, deception, or practical joke (against someone). _It turns out that the supposed alien visitors that people had been seeing were just a bunch of teenagers pulling a prank on the town._ _I’ve got a great plan to pull a prank on the school for April Fools’ Day._  
 __pull a U-ie__ :two: To make a U-turn. Primarily heard in US, Australia.  
+__pull ahead (of someone or something)__  
 __pull an all-nighter__ :two: To remain awake all night long, especially so as to study or to complete something. _I was a bit of a procrastinator in college, so I tended to pull a lot of all-nighters._  
 __pull away__  
 __pull it out__ In general, the phrase “pull it out” is often used to describe a situation where someone is able to find or discover something, or find an answer, solution, or idea that they had not previously thought of.  
@@ -5026,6 +5032,7 @@ __puppy__ __1__ _n_ A wimp; a softie. _That silly puppy is still waiting outside
 __pure and simple__ :two: Essentially or fundamentally so, without exaggeration or elaboration. _I was a political casualty, pure and simple._  
 __push (one’s) buttons__  
 __push back__ :three::hammer:  
+__push the boundaries of (something)__ To act in a way that challenges established, expected, or accepted norms. _The most famous and influential performers tend to push the boundaries in everything from their lyrics to their clothing._  
 __push the envelope__ :six: To expand on, exceed, or test the limits of the established norm or standard. _It’s a natural stage for most teenagers to push the envelope of their parents’ rules._ _Pushing the envelope of contemporary Japanese cuisine._  
 __push up the daisies__  
 __push your buttons__  
@@ -5056,6 +5063,7 @@ __put (something or someone) on the map__ To make (a place, a person, etc.) famo
 __put (something) on hold__ :two::hammer:  
 __put (something) on ice__ __2__ To postpone or delay acting on or dealing with something.  
 __put (something) on the back burner__ :two::dart: To establish something as being a low priority; to give something less or little thought or attention; to postpone, suspend, or hold off on doing something. _It has put the needs of farmers on the back burner in favor of its own interests._  
+__put (something) to rest__  
 __put a foot on my mouth__  
 __put a gun to (someone’s) head__ To force someone to do something he or she does not want to do, especially by the use of threats or intimidation (not necessarily with an actual gun).  
 __put a spoke in (one’s) wheel__  
@@ -5066,12 +5074,14 @@ __put down__ __2__ _v_ To insult, mock, belittle, or disparage one.
 __put food on the table__ :three: To earn enough money to provide the basic necessities for oneself and (often) one’s family. _With my hours at work being cut so dramatically, I just don’t know how I’ll be able to put food on the table._  
 __put forth__  
 __put forward__ To suggest, offer, or propose someone or something for consideration. A noun or pronoun can be used between “put” and “forward.”  
+__put heart and soul into something__ (put (one’s) heart and soul into (something)) To do something with the utmost of one’s energy, enthusiasm, and determination.  
 __put in (one’) two cents’ worth__ To share one’s opinion or point of view for whatever it may be worth, generally when it is unasked for. _I find Jeff’s husband a bit trying at times. He always insists on putting in his two cents’ worth whether we want his opinion or not!_  
 __put in a good word for someone__  
 __put it there__ :astonished: Shake my hand. As in greeting or in agreement to a deal. _A: “50 dollars is my final offer for the computer.” B: “I wish I could get more for it, but you win. Put it there!”_ _Hey, John, put it there! I haven’t seen you in a donkey’s age!_  
 __put off by someone or something__ :five: Distressed or repelled by someone or something. _I was really put off by your behavior. We were all put off by the unfairness of the rules._  
 __put off__ __1__ _v_ To deter, annoy, or repel. A noun or pronoun can be used between “put” and “off.” _I don’t know if you realize how much you put people off with your attitude._  
-__put on (one’s) thinking cap__ To begin thinking or considering very carefully and seriously (about something).  
+__put on (one’s) thinking cap__ :two: To begin thinking or considering very carefully and seriously (about something).  
+__put on a brave face__  
 __put on a clinic__  
 __put on a good/poor/etc. show__  
 __put on a happy face__ To begin to smile and act cheerful.  
@@ -5080,7 +5090,7 @@ __put on pause__
 __put on the brakes__ :two: To slow down, impede, or stop one’s activity or progress. _We had to put on the brakes when we found out investors were pulling out of the company._  
 __put on weight__ To become heavier by gaining muscle mass or fat tissue. _I keep putting on weight, even though I’ve been cutting back on the junk food._  
 __put our heads together__ To discuss or plan something together with other people.  
-__put out fires__ :three::hammer:  
+__put out a/the fire__ :four::hammer: (put out fires)  
 __put out__ :three::hammer: _Put out the fires._ __2__ _v_ To generate or create. _This computer is powerful, but it puts out an absurd amount of heat._ _Since then, he’s put out 18 albums._  
 __put pressure on (one)__  
 __put someone or something down__  
@@ -5098,7 +5108,6 @@ __put to the test__ :three::hammer:
 __put two and two together__  
 __put up a fight__ :five::hammer:  
 __put up with (someone or something)__ :dart::nine::m: [:sound: put up with] To abide or endure someone or something that one finds unpleasant, inconvenient, or annoying. To endure without complaint: _We had to put up with the inconvenience._ _They don’t put up with bullshit._ _We’re not going to put up with this anymore._ _People put up with it._ _I can put up with the injury._ _She put up with the men in her life because she had to._ _I don’t know how you put up with John—he’s such a loudmouth!_  
-__put up with__  
 __put up__  
 __put upon__  
 __putz__ __1__ _n_ _slang_ A stupid, incompetent, or unpleasant person. From Yiddish. _How on earth did those putzes in Washington screw this up so badly?_ __2__ _n_ _vulgar slang_ The penis. From Yiddish. _If he had made decisions with his brain instead of with his putz, maybe his marriage would have survived._  
@@ -5140,6 +5149,7 @@ __rain or shine__ :three::hammer: _Market open rain or shine._
 __rainbows and unicorns__ :dart::three: Innocent, carefree happiness. Often used in negative constructions to indicate the opposite. _I know it’s ugly having to see someone you cared about betray you like that, but life isn’t all rainbows and unicorns._  
 __raise (one’s) eyebrows__ :two::hammer:  
 __raise (ones) voice__ To speak or shout loudly, especially out of anger. _I know you’re upset, but there’s no need to raise your voice._  
+__raise a glass__ (raise a/(one’s) glass (to someone)) To wish someone happiness, success, good fortune, etc., by raising one’s drink.  
 __raise a red flag__  
 __raise eyebrows__  
 __raise the alarm__ __2__ To alert other people about something dangerous, risky, or troublesome.  
@@ -5179,7 +5189,7 @@ __reclaim (someone or something) from (someone or something else)__ To regain or
 __recount (something) to (one)__ To narrate or share the facts or details of some experience or story to one.  
 __recoup (something) from (someone or something)__ To recover, regain, or restore something from someone or something. _You’ll have to pay for everything out of pocket, but you can recoup it all from HR after you’re back from the trip._  
 __red balloon__ The slang term “red balloon” is commonly used to refer to a small container for illicit drugs made from a condom or the finger of a latex glove, which is often filled with heroin, cocaine, or other substances. The balloon is often red in color, which is thought to be a reference to the _Roger Rabbit_ cartoon, in which the character carries a red balloon filled with illegal substances.  
-__red flag__ :five::hammer:  
+__red flag__ :six::hammer:  
 __red herring__  
 __red hot__ :two::hammer: _Now the market is red hot._  
 __red line__ :three::hammer:  
@@ -5214,7 +5224,11 @@ __retail for (something)__
 __revamp<sup>1</sup>__ _vt_ To renovate, refurnish, revise, etc.  
 __revamp<sup>2</sup>__ _n_ An instance of renovation, refurnishing, etc.  
 __revel in__  
-__revolving door__ :two::hammer:  
+__revenge is a dish best eaten cold__ Revenge that takes place far in the future, after the offending party has forgotten how they wronged someone, is much more satisfying.  
+__revenge is a dish best served cold__ Revenge that takes place far in the future, after the offending party has forgotten how they wronged someone, is much more satisfying.  
+__revenge is sweet__ Revenge is a potent source of satisfaction and pleasure.  
+__reverse course__  
+__revolving door__ :three::hammer:  
 __rid out__ _(chiefly Midwestern United States)_ To clean, empty, or clear out (something or some space). Primarily heard in US. _You’ve got to learn to rid out some of these negative thoughts you’ve been having, and make room for some positive emotions._ _I’ll be spending this weekend ridding out the garage._  
 __riddled with__ :six::hammer: _v_ __3__ To be permeated in many places by something, especially by flaws. Used in the passive: _That report was riddled with errors._ _Dating sites are riddled with catfish._ _Neuralink’s oversights board is riddled with potential conflicts._ _CNET published AI-generated articles riddled with errors._ _The guy had been riddled with bullets right there._  
 __ride (on) a wave of (something)__ :two: To enjoy the advantage of or continue to benefit from a situation that is successful, fortunate, trendy, etc. _Jonathan has been riding a wave of celebrity ever since he was cast in the leading role for the new blockbuster._  
@@ -5225,15 +5239,15 @@ __ride__ _n_ One’s vehicle, especially an automobile. _You can park your ride 
 __riding high__  
 __riffle__ :two: In James Ellroy’s novels, “riffle” is a verb that means to search quickly through something, usually a pile of papers or documents. It implies a sense of urgency and impatience, as if the person doing the riffling is searching for something important and doesn’t have time to waste.  
 __riffraff__ :two: Undesirable, disreputable, or vulgar people, often used in a condescending manner. _I wouldn’t be seen in a place like that, there’s a lot of riffraff that hang out around there._  
-__rifle through (something)__ To look through something very quickly, roughly, or energetically.  
+__rifle through (something)__ :three: To look through something very quickly, roughly, or energetically. To search through something quickly and vigorously: _I rifled through the drawer looking for my car keys._ _I rifled through the filing cabinet, but I couldn’t find our tax return anywhere._  
 __rig__ __1__ _vt_ To arrange or tamper with the results of something. _Somebody rigged the contest so no one got first prize._  
 __right away__ Immediately; at once; without delay. _Right away, I could tell that the plan had no chance of success._ _Sarah’s parents took to her new girlfriend right away._  
 __right mess__ A _right mess_ is a situation or thing that is in complete chaos or disarray. It can be used to describe a situation that is confusing, chaotic, and difficult to manage. _This project has become a right mess!_  
 __right off the bat__ :two: Immediately; at once; without delay.  
 __right on__ :two::hammer: _The description of the bomb was right on._  
 __right the wrong__ _Don Quixote believes he’s destined to right the wrongs of the world._  
-__right up (one’s) alley__ Ideally suited to one’s interests. _This course seemed right up my alley when I signed up for it, but it ended up being dreadfully boring._  
-__rile up__ :three: To cause someone or some group to become particularly excited and animated, especially in an angry or irritated manner. A noun or pronoun can be used between “rile” and “up.” _Seeing that kind of injustice on the news always riles me up to no end._  
+__right up (one’s) alley__ :dart::two: Ideally suited to one’s interests. _If you’re a fan of idiomatic language and wordplay, the _Dresden Files_ series (by Jim Butcher) might be right up your alley!_ _This course seemed right up my alley when I signed up for it, but it ended up being dreadfully boring._  
+__rile up__ :four: ((all) riled up) To cause someone or some group to become particularly excited and animated, especially in an angry or irritated manner. A noun or pronoun can be used between “rile” and “up.” Particularly angry, agitated, or in a frenzied state. _Seeing that kind of injustice on the news always riles me up to no end._  
 __ring a bell__ :four::hammer: ((something) ring a bell (with one)) _Does that ring a bell with you?_  
 __ring false__  
 __ring hollow__ To sound or give the sense of being false, insincere, or not genuine. _The statements that followed made her apology ring hollow._  
@@ -5256,10 +5270,12 @@ __rizz<sup>1</sup>__ _n_ Romantic appeal or charm. _A bro who has rizz._
 __rizz<sup>2</sup>__ _v_ (typically used with _up_, as in _rizz up that cutie._) To charm or seduce.  
 __road ahead__  
 __road to nowhere__  
+__roast__  
+__rob someone blind__ :smiling_imp:  
 __rob the till__ To steal the earnings of a shop or restaurant from out of its cash register. _Just remember, this place has insurance, so if anyone comes in with a gun looking to rob the till, you don’t offer up any resistance, OK?_ _I hear Janet was fired from her last job for robbing the till._  
 __rock (one’s) world__  
 __rock bottom__ :three: The absolute lowest or worst point.  
-__rock solid__  
+__rock solid__ :two::hammer:  
 __rock the boat__ :nine::m: To do or say something that might endanger a stable situation or upset the status quo. _None of my family members are fighting with each other right now, so please don’t rock the boat by bringing up politics or any other controversial topics._  
 __rocket science__ :three: A pursuit, activity, or endeavor that requires extraordinary skill or intelligence. Most often used in the negative to imply the opposite. _Look, all you need to do is reformat the hard drive on your computer. It isn’t rocket science!_  
 __rocky road__ A difficult period of time. _Bob’s been going down quite a rocky road since his divorce._  
@@ -5270,19 +5286,22 @@ __roll off the tongue__ To be very easy or enjoyable to say. Sometimes used sarc
 __roll out__ :three::hammer: __4__ _v_ To get out of bed, especially lazily or late in the morning or day. _My teenage son doesn’t roll out of bed until nearly 1 in the afternoon on the weekends._  
 __roll the dice__ :two: To take some risk on the hope or chance of a fortunate outcome. _He rolled the dice again in movie production._  
 __roll with it__ :three: To adapt to a situation despite unexpected circumstances or challenges.  
-__roll with the punches__ :dart::three: Cope with and withstand adversity, especially by being flexible. For example, _She’d had three different editors for her book, each with a different style, but she’d learned to roll with the punches._ This term alludes to the boxer’s ability to deflect the full force of an opponent’s blow by adroitly moving his body.  
+__roll with the punches__ :dart::five: __2__ By extension, to adapt to setbacks, difficulties, or adversity so as to better manage or cope with their impact on one’s life. _Losing my job was really tough, but I’ve just been trying to roll with the punches until I get back on my feet._ Cope with and withstand adversity, especially by being flexible. For example, _She’d had three different editors for her book, each with a different style, but she’d learned to roll with the punches._ This term alludes to the boxer’s ability to deflect the full force of an opponent’s blow by adroitly moving his body.  
 __roller coaster__ _Emotional roller coaster._  
 __rolling in dough__ Exceptionally wealthy; having large amounts of money to spend. _I hear her father is rolling in dough, so I wouldn’t be too worried about her future._  
+__rolling stone__  
 __roly-poly__ _A roly-poly hustler._  
 __room to grow__ A phrase used to describe the potential for something to improve or expand in the future. _There is always room to grow._  
+__root around__ To dig or rummage aimlessly (in or through some cluttered location). Usually used in the continuous tense. _Tom rooted around the attic for a while, but he couldn’t find his old comic book location._ _She was rooting around for bargains._  
 __root cause__ The most fundamental, central, or basic causal element of something.  
 __root out__  
 __rope (one) into (doing) (something)__ To persuade, entice, or enlist one to do or participate in something. _I really didn’t want to sing in the talent show, but Janet roped me into it._  
 __rosy__ :two: _mod_ Good; satisfactory. (As a life that is seen through rose-colored glasses.) _Things are looking rosy now that the economy is improving._  
+__rough it__ :es: vivir sin comodidades  
 __rough sleeper__ Someone who sleeps outside at night (i.e., “sleeps rough”), usually because they have no home. Primarily heard in UK, Australia.  
 __rough-and-tumble__ _The rough-and-tumble days the wild west._  
 __roughly speaking__ Approximately. _I think we can plan on having 20 volunteers, roughly speaking._  
-__round and round__ :two: (around and around) In circles.  
+__round and round__ :four: (around and around) In circles.  
 __round on__ To suddenly attack, berate, or show hostility toward someone, especially verbally. _I know he seems friendly, but he’ll round on you in an instant if you disagree with him._  
 __round something out__  
 __round the bend__ :two: Crazy, insane.  
@@ -5290,25 +5309,30 @@ __round the clock__ (around the clock) Nonstop. _There are sirens round the cloc
 __roundhouse__  
 __roust sheets__ “Roust sheets” is a term used in James Ellroy’s novels to refer to arrest records. It’s basically a list of people who have been arrested and charged with a crime.  
 __rub elbows__ :two::hammer:  
-__rub it in__  
+__rub it in__ :dart::two: __1__ To make someone feel worse about an already bad, unpleasant, or undesirable situation or outcome. _A: “You know that this means you won’t get to qualify for the state championships, right?” B: “Sheesh, no need to rub it in, Dave.”_ __2__ To flaunt one’s success or good fortune in order to make someone jealous. _Yes, I know you’re going to Japan with the money you won in the lottery—you don’t need to rub it in!_  
 __rub off on (someone)__ :two: To have one’s characteristics, mannerisms, or behavior be adopted by someone with whom one has spent a lot of time. _Peter’s been very unruly lately. I think that new kid is rubbing off on him._ _I’m trying hard to not let his stress rub off on me._  
+__rub off__ :hammer: __1__ To come off (of something else) after being rubbed. _Don’t worry, if you use a warm, damp towel, the makeup will just rub right off._ __2__ To remove some substance off of a surface by rubbing. In this usage, a noun or pronoun can be used between “rub” and “off.” _You’d better rub that paint off before it has a chance to dry!_ __5__ _vulgar slang_ To masturbate. Used especially in the form “rub one off.” __6__ _vulgar slang_ To bring someone to orgasm with one’s hands.  
 __rub out__  
 __rub someone wrong__  
 __rubber chichen dinner__ A dinner served at a large catered event, especially a political or corporate fundraising event, in which many people must be served simultaneously and the quality of food suffers as a result. (“Rubber chicken” is sometimes hyphenated.) _I’ll tell you, though: more than the long hours on the road, the repetitive speeches, or the manic workload, I cannot stand the rubber chicken dinners when I’m on the campaign trail._  
 __rubber jungle__ An aviation term among pilots and airline crew for the effect created when the rubber oxygen masks in a commercial aircraft deploy from its ceiling. _Everyone started to panic when the rubber jungle appeared, so I had to reassure them that it was just a minor hiccup and that we were all perfectly safe._  
 __rubber match__ _sports_ The final, tie-breaking game that determines the victor of a series. _The Astros have won their rubber match against the Titans, meaning they will advance to the next round of the playoffs. If they can win four more matches there, they will be in the running for the championship title._  
 __rubber stamp__  
+__rubberneck__  
 __ruckus__ A large, uproarious commotion.  
-__rue the day (that something happened)__ To curse or bitterly regret a point in time (in which something happened or one did something).  
+__rue the day (that something happened)__ :three: To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
 __ruffle (one’s) feathers__  
+__ruffle a few feathers__ To do something which annoys, irritates, or upsets other people.  
 __rug rat__ :two: (rugrat, ankle biter) A baby or young child, especially one that is not walking fully or at all (i.e. one that is still crawling on the rug). _How are your two rugrats doing, Tom?_  
-__rule of law__  
+__rule of law__ :two::hammer:  
 __rule of thumb__ A general principle developed through experiential rather than scientific means. An approximation; a suggested method or guideline. _A good rule of thumb is to plant your seedlings around the end of May._  
 __rule out__ :four: To eliminate, prevent, preclude, or cancel someone or something as a possibility. _They ruled Jim out when they were considering a replacement manager due to his tendency to show up late._  
 __rule the roost__ :two: To be the real boss; to be the person in charge. To have the most control or authority in a group. _Both of our parents were tough, but Mama was as tough as an old shoe, who ruled the roost without saying a word._ _For all intents and purposes, it’s the assistant manager who rules the roost._  
+__rules of the road__  
 __rumble on__ :two: To continue at a low but consistent level or degree, especially when no clear conclusion or resolution seems imminent or likely. Said especially of some argument, complaint, debate, discussion, etc. _The issue has been rumbling on in the background of our industry for nearly 10 years now, but we’re still no closer to figuring out a solution to it._  
 __rumble__  
-__rumor has it (that)__ :four: People say rumour has it when they are telling you something that they have heard, but do not necessarily think is true. _Rumour has it that tickets were being sold for £300._  
+__rummage around for (something)__  
+__rumor has it (that)__ :six: People say rumour has it when they are telling you something that they have heard, but do not necessarily think is true. It is being rumored that (something is or will be the case). _Rumor has it that the boss is using the company profits to pay off his own gambling debts._ _Rumour has it that tickets were being sold for £300._  
 __rumor mill__ :eight: The source from, or process by, which rumors are generated, spread, and perpetuated among a group of people. Primarily heard in US. _Listen, Barry, you can’t believe everything that comes out of the rumor mill. I can guarantee you that there will be no layoffs this year._  
 __run (one’s) mouth (off)__  
 __run a bath__ To fill a bathtub with water before bathing. _After this crazy week at work, I can’t wait to get home, run a bath, and just relax._  

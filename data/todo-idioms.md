@@ -599,6 +599,7 @@ __loaf about__ To waste time idly; to spend time doing little or nothing. _Chris
 __lock (someone) up and throw away the key__ To incarcerate someone in prison forever or indefinitely. _That crazy drunk driver nearly hit me! I hope they lock him up and throw away the key!_  
 __lock lips (with someone)__ To kiss (someone) passionately and at length. _I’ll never forget locking lips with my wife for the very first time._  
 __locker-room humor__ Especially crude, vulgar, or bawdy humor. _I’m no prude by any means, but I hate the locker-room humor my boyfriend partakes in when his buddies are around._  
+__long arm__ Broad, far-reaching power or influence. (Usually paired with a noun, as in “the long arm of the law.”) _The long arm of justice finally put the murderer in jail, where he belongs._  
 __love handles__ ((love) handles, spare tyres, Dunlops disease, Dunlop Syndrome) _euphemism_ [So called because supposed to be grabbed by a partner in sexual intercourse.]  
 __make a fuss__  
 __make a long arm for (something)__ To extend one’s arm fully toward something; to reach out for something. _Mary’s new boyfriend made a long arm for the bottle of wine at the end of the table, helping himself to another glass._  
@@ -720,56 +721,6 @@ __on the verge of (doing) (something)__
 __on the verge of__  
 __on the whole__ Considering everything together; in general or for the most part.  
 __on-site__  
-__once and for all__ :four::hammer:  
-__once in a blue moon__ Very rarely.  
-__one size fits all__ :two::hammer:  
-__one way or another__  
-__one-off__ :three::hammer:  
-__one-on-one__  
-__oops-a-daisy__ An exclamation of surprise or apology, as after doing something clumsy. _Oops-a-daisy! Dang it, I can’t believe I broke my favorite vase!_  
-__open the door for (someone or something)__  
-__or so__ :dart:  
-__other than (something)__ (other than that) Besides or excluding something. _Other than having a view of the parking lot, his apartment is great._  
-__party’s over__ A happy or fortunate time has come to an end. _We go back to school tomorrow. The party’s over._  
-__pepper with__  
-__pick momentum__  
-__promises, promises__ A sarcastic reply to a promise or assurance that one does not believe.  
-__pull ahead (of someone or something)__  
-__push the boundaries of (something)__ To act in a way that challenges established, expected, or accepted norms. _The most famous and influential performers tend to push the boundaries in everything from their lyrics to their clothing._  
-__put (something) to rest__  
-__put heart and soul into something__ (put (one’s) heart and soul into (something)) To do something with the utmost of one’s energy, enthusiasm, and determination.  
-__put on (one’s) thinking cap__ To begin thinking or considering very carefully and seriously (about something).  
-__put on a brave face__  
-__put out a/the fire__  
-__put up with someone or something__  
-__raise a glass__ (raise a/(one’s) glass (to someone)) To wish someone happiness, success, good fortune, etc., by raising one’s drink.  
-__red flag__  
-__revenge is a dish best eaten cold__ Revenge that takes place far in the future, after the offending party has forgotten how they wronged someone, is much more satisfying.  
-__revenge is a dish best served cold__ Revenge that takes place far in the future, after the offending party has forgotten how they wronged someone, is much more satisfying.  
-__revenge is sweet__ Revenge is a potent source of satisfaction and pleasure.  
-__reverse course__  
-__revolving door__  
-__rifle through something__ To look through something very quickly, roughly, or energetically. _I rifled through the filing cabinet, but I couldn’t find our tax return anywhere._  
-__rifle through__ To search through something quickly and vigorously: _I rifled through the drawer looking for my car keys._  
-__right up (one’s) alley__ _If you’re a fan of idiomatic language and wordplay, the _Dresden Files_ series (by Jim Butcher) might be right up your alley!_  
-__riled up__ ((all) riled up) Particularly angry, agitated, or in a frenzied state.  
-__roast__  
-__rob someone blind__ :smiling_imp:  
-__rock solid__  
-__roll with the punches__ :dart::two: __2__ By extension, to adapt to setbacks, difficulties, or adversity so as to better manage or cope with their impact on one’s life. _Losing my job was really tough, but I’ve just been trying to roll with the punches until I get back on my feet._  
-__rolling stone__  
-__root around__ To dig or rummage aimlessly (in or through some cluttered location). Usually used in the continuous tense. _Tom rooted around the attic for a while, but he couldn’t find his old comic book location._ _She was rooting around for bargains._  
-__rough it__ :es: vivir sin comodidades  
-__round and round__ :two::hammer: (around and around)  
-__rub it in__ :dart: __1__ To make someone feel worse about an already bad, unpleasant, or undesirable situation or outcome. _A: “You know that this means you won’t get to qualify for the state championships, right?” B: “Sheesh, no need to rub it in, Dave.”_ __2__ To flaunt one’s success or good fortune in order to make someone jealous. _Yes, I know you’re going to Japan with the money you won in the lottery—you don’t need to rub it in!_  
-__rub off__ :hammer: __1__ To come off (of something else) after being rubbed. _Don’t worry, if you use a warm, damp towel, the makeup will just rub right off._ __2__ To remove some substance off of a surface by rubbing. In this usage, a noun or pronoun can be used between “rub” and “off.” _You’d better rub that paint off before it has a chance to dry!_ __5__ _vulgar slang_ To masturbate. Used especially in the form “rub one off.” __6__ _vulgar slang_ To bring someone to orgasm with one’s hands.  
-__rubberneck__  
-__rue the day (that something happened)__ :two: To curse or bitterly regret a point in time (in which something happened or one did something). _I swear to you now, you will rue the day you ever crossed me!_  
-__ruffle a few feathers__ To do something which annoys, irritates, or upsets other people.  
-__rule of law__  
-__rules of the road__  
-__rummage around for (something)__  
-__rumor has it (that)__ :two: It is being rumored that (something is or will be the case). _Rumor has it that the boss is using the company profits to pay off his own gambling debts._  
 __run afoul of (someone or something)__  
 __run the gauntlet__ To be exposed to or forced to endure a series of threats, dangers, criticism, or other problems. Refers to an old military punishment in which one was forced to run between two lines of soldiers while being thrashed with rods or whips. _Medical students often feel that they have to run the gauntlet when they become residents in a hospital._  
 __run with it__ To take the initiative to do something independently. _I got this really good idea for an ad campaign. I think I’m going to just run with it and present it to the boss when it’s done._  
