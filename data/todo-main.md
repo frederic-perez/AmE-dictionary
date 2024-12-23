@@ -20,6 +20,7 @@ __allision__ _n_ (_vs_ collision)
 __allusion__ _n_ /uh-LOO-zhun/  
 __alum__ _n_  
 __amalgamate__ _v_ /uh-MAL-guh-mayt/ _Amalgamate_ is a formal verb meaning “to unite (two or more things) into one thing.”  
+__amulet__ _n_ :two: An object worn, especially around the neck, as a charm against evil or injury.  
 __andirons__ _n_  
 __anemone__ _n_ :mega: /əˈnɛm əˌni/ /uh–nem–uh-nee/  
 __anoxia__ _n_  
@@ -35,8 +36,10 @@ __armamentarium__ _n_ :astonished: _(Medicine)_ The items that comprise the mate
 __armistice__ _n_ /AHR-muh-stus/  
 __Arthur__ _n_ A legendary king of the Britons whose story is based on traditions of a sixth century military leader.  
 __austere__ _adj_ :mega:  
+__badger__ _v_  
 __beatific__ _adj_ /bee-uh-TIFF-ik/ _Beatific_ is a formal word that describes something or someone having a blissful appearance or showing complete happiness. _As the pair danced, beatific smiles on their faces, the audience sat hushed and almost reverential._  
 __better__ _v_  
+__biology__ _n_ :mega: /baɪˈɒl ə dʒi/  
 __board__ _v_ __17__ To furnish with meals, or with meals and lodging, esp. for pay.  
 __boarding house__ _n_ :two::hammer: :es: pensión  
 __boardroom__ _n_ A room where a committee meets (such as the board of directors of a company).  
@@ -64,6 +67,7 @@ __bridge<sup>1</sup>__ _n_
 __bridge<sup>2</sup>__ _vt_ __1__ To build or provide a bridge over something; span: _to bridge a river._ __2__ To connect or reduce the distance between: _let us bridge our differences._  
 __bridle__ _n_ The act of restraining power or action or limiting excess. _Syn_ check, curb _His common sense is a bridle to his quick temper._  
 __brimstone__ _n_ __1__ Sulfur, especially considered as a component of the torments of hell in Christianity. (See _fire and brimstone_.) An obsolete name for sulphur.  
+__broadsword__ _n_ A sword with a wide, usually two-edged blade that is designed for slashing rather than thrusting.  
 __brogue__ _n_ /BROHG/ A _brogue_ is a low shoe, usually made of leather, that is decorated with small holes along the sides at the toe, and that usually features a wing tip.  
 __bub__ _n slang_ :dart:  
 __buckle__ _v_  
@@ -101,12 +105,14 @@ __checkout line__ _n_ A queue of people waiting to pay for purchases.
 __chemistry set__ _n_ An educational toy allowing the user (typically a teenager) to perform simple chemistry experiments.  
 __cherub__ _n_ /ˈtʃɛr əb/  
 __chide__ _v_ :two::hammer:  
+__chitinous__ _adj_ Of or resembling chitin.  
 __choir__ _n_ :mega: /kwaɪər/ /kwahyuhr/  
 __chortle<sup>1</sup>__ _n_ A snorting, joyful laugh or chuckle.  
 __chortle<sup>2</sup>__ _v_ To utter a chortle or express with a chortle.  
 __Christmastide__ _n_  
 __chunky__ _adj_ Short and thick; stocky. _Syn_ low-set, squat, squatty, stumpy, dumpy  
 __claimant__ _n_ :dart: /ˈkleɪmənt/ __1__ A person who makes a claim. __2__ _(Law)_ A person who brings a civil action in a court of law. Formerly called: plaintiff  
+__clatter__ _v_  
 __clemency__ _n_  
 __closehanded__ _adj_ Covetous; penurious; stingy; closefisted.  
 __colander__ _n_ /KUH/KAH-luhn-duhr/ (cullender) A utensil with perforations, used for straining or draining foods.  
@@ -117,13 +123,18 @@ __congeal__ _v_ Become gelatinous. _Syn_ jell, set
 __conscript__ _n_ A conscripted person (such as a military recruit).  
 __contrite__  
 __convene__ _v_  
+__convivial__ _adj_ /kənˈvɪv i əl/  
+__cower__ _v_  
 __crease<sup>1</sup>__ _n_ __1__ A line or mark produced by folding, pressing, or wrinkling. __2__ A wrinkle or furrow, esp on the face.  
 __crease<sup>2</sup>__ _vt_  
 __crease<sup>3</sup>__ _vi_  
+__croft__ _n_ :three::hammer:  
+__crofter__ _n_  
 __cutesy__ _adj_ Deliberately or affectedly cute; precious: _a cutesy boutique._ _A cutesy cheerleader._  
 __darn__ _adj_  
 __dealing__ _n_  
 __decadent__ _adj_ :astonished: __2__ Marked by or providing unrestrained gratification; self-indulgent.  
+__delectation__ _n_ /dee-lek-TAY-shun/ _Delectation_ is a formal word for a feeling of delight or enjoyment. It can also be used to refer to the source of such feelings.  
 __demure__ _adj_  
 __dilemma__ _n_ :pencil2: /dɪˈlɛmə; daɪ-/  
 __dimple__ _n_  
@@ -164,6 +175,7 @@ __dovetail__ _v_
 __downy__  
 __dowse__ _vi_ (douse) _Dowsing with a pendulum._  
 __dowsing__ _n_ The practice of prospecting for water or minerals using a divining rod. _Syn_ dowse, rhabdomancy  
+__doyen__ _n_ The senior member, as in age or experience, of a group, profession, etc.  
 __drapery__ _n_ :two::hammer: /ˈdreɪpərɪ/  
 __draw up__ _v_  
 __drawl__ _v_  
@@ -230,7 +242,9 @@ __flyblown__ _adj_ Foul and run-down and repulsive. _Syn_ sordid, squalid _The g
 __fold<sup>1</sup>__ _vt_ __8a__ _informal_ To discontinue operating; close: They had to fold the company a year after they started it. __b__ Games To withdraw (one’s hand) in defeat, as by laying cards face down on a table.  
 __fold<sup>2</sup>__ _vi_  
 __footing__ _n_  
+__foresee__ _vt_ /fɔrˈsi, foʊr-/ To imagine or know as a probable occurrence; anticipate or predict: _foresaw economic decline._  
 __frank__ _adj_ __2__ Clearly manifest; evident: _frank enjoyment._  
+__fray__ _n_ :dart: :es: combate, lucha, pelea  
 __Frederick’s of Hollywood__ _n_ An American lingerie brand formerly with stores in shopping malls across the United States.  
 __friable__ _adj_ /ˈfraɪ ə bəl/ Easily crumbled or reduced to powder.  
 __Frisbee__ _n_ A trademark for a plastic disk-shaped toy that players throw and catch.  
@@ -304,9 +318,11 @@ __grovel__ _vi_
 __grueling__ _adj_ /ˈgru ə lɪŋ, ˈgru lɪŋ/  
 __grunt__ _n_  
 __guarded__ _adj_ /ˈgɑr dɪd/ __2__ Cautious; careful; prudent: _guarded comments._  
+__guardrail__ _n_ :two: A protective railing, as on a staircase or along a highway.  
 __guffaw__ _n_  
 __gull__ _vt_ :smiling_imp: To deceive or cheat. :es: embaucar  
 __gullet__ _n_ /ˈgʌl ɪt/ __1__ A less formal name for the esophagus. __2__ The throat.  
+__gunpowder__ _n_ :two: /ˈgʌnˌpaʊ dər/ __2__ A fine variety of green China tea, each leaf of which is rolled into a little ball. _Syn_ gunpowder tea  
 __gurney__ _n_ /ˈɡɜːnɪ/ _Medicine_ _US_ A wheeled stretcher for transporting hospital patients.  
 __guttural__ _adj_ /GUTT-uh-rul/ A guttural sound—such as speech, laughter, or a grunt—is formed or pronounced in the throat.  
 __hackneyed__ _adj_  
@@ -329,6 +345,7 @@ __hardened__ _adj_ __3__ (Military) (of a nuclear missile site) Constructed to w
 __hare__ _v_  
 __harpsichord__ _n_  
 __hassle__ _n_  
+__hatchet__ _n_  
 __hatching__ _n_ /HATCH-ing/ _Hatching_ refers to the drawing or engraving of lines close together as a method of shading, or to a pattern so created. _The artist uses hatching to breathe life into her comics._  
 __hatha yoga__ _n_ A form of yogic exercise that emphasizes specific postures in combination with controlled breathing. It is widely practiced in the West.  
 __haversack__ _n_  
@@ -418,6 +435,8 @@ __island__ _n_ /ˈaɪ lənd/
 __isthmus__ _n_ :mega: /is-muhs/  
 __itching__ _n_ An irritating cutaneous sensation that produces a desire to scratchitching - an irritating cutaneous sensation that produces a desire to scratch. _Syn_ itchiness, itch  
 __jack-in-the-box__ _n_ A toy consisting of a clownlike doll or other figure that is attached to the inside of a box and springs up when the lid is opened.  
+__jackal__ _n_ /ˈdʒæk əl, -ɔl/  
+__jackfruit__ _n_ :two: East Indian tree cultivated for its immense edible fruit and seeds.  
 __jaded__ _adj_ :dart::two: Dulled or satiated by overindulgence.  
 __jalopy__  
 __jangle__ _v_  
@@ -438,6 +457,7 @@ __Jovian__ _adj_
 __jubilee__ _n_ :mega: /JOO-buh-lee/  
 __juvenile<sup>1</sup>__ _adj_  
 __juvenile<sup>2</sup>__ _n_  
+__lambent__ _adj_ :two::hammer:  
 __Latin cross__ _n_ A cross with a shorter horizontal bar intersecting a longer vertical bar above the midpoint.  
 __legion<sup>1</sup>__ _n_  
 __legion<sup>2</sup>__ _adj_ :dart: Constituting a large number; multitudinous: _Her admirers were legion._ _His mistakes were legion._  
@@ -545,10 +565,12 @@ __moped__ _n_ _Brit_ A light motorcycle, not over 50cc.
 __morass__  
 __moratorium__ _n_  
 __morrow__ _n_  
+__mote__ _n_  
 __mothball__ _n_ Asmall sphere of camphor or naphthalene used to keep moths away from stored clothing. _Syn_ camphor ball  
 __mother of pearl__ _n_  
 __motor__ _v_  
 __motormouth__ _n_ :two: _slang_ A garrulous person.  
+__multilateralism__ _n_ The practice of promoting trade among several countries through agreements concerning quantity and price of commodities, as the Common Market, and, sometimes, restrictive tariffs on goods from outsiders.  
 __nail clipper__ _n_ (also called nail clippers, a nail trimmer, a nail cutter or nipper type) A hand tool used to trim fingernails, toenails and hangnails.  
 __nape__ _n_  
 __nappy__ _n_ _Chiefly British_ A diaper.  
@@ -587,6 +609,8 @@ __obfuscate__ _v_ /AHB-fuh-skayt/ To obfuscate something is to make it more diff
 __oblige__ _vt_  
 __obsequious__ _adj_  
 __oligarchy__ _n_ _Oligarchy_ can refer to a government in which a small group exercises control especially for corrupt and selfish purposes, as well as to the group exercising such control.  
+__onerous__ _adj_ :dart:astonished: Troublesome or oppressive. _Syn_ burdensome, taxing  
+__orderly__ _n_ __1__ An attendant who does routine, nonmedical work in a hospital. __2__ A soldier assigned to attend and perform various tasks for a superior officer.  
 __outskirts__ _n pl_  
 __overworked__ _adj_ :dart:  
 __pad__ _v_  
@@ -604,6 +628,7 @@ __peckish__
 __peculiar__ _adj, n_  
 __pedestrian__ _adj, n_  
 __pejorist__ _n_ /PEJ-uh-rist/ A person who believes that the world is getting worse.  
+__pelt__ _v_  
 __pelt<sup>1</sup>__ _vt_  
 __pelt<sup>2</sup>__ _vi_ __3__ (foll by _along_, _over_, etc) To move rapidly; hurry. _I pelted towards the Beetle._  
 __pelt<sup>n</sup>__ _n_ :two::hammer:  
@@ -761,6 +786,7 @@ __raddled__ _adj_ :dart: /RAD-uld/ Someone described as raddled is in a confused
 __Radio Flyer__ _n_ :dart: Radio Flyer is an American toy company best known for their popular red toy wagon.  
 __ragbag__ _n_  
 __ragweed__ _n_  
+__railing__ _n_ __1__ (Building) (often plural) A fence, balustrade, or barrier that consists of rails supported by posts. _Balcony railing._  
 __rain slicker__ _n_ A type of waterproof coat designed to protect the wearer from rain and wet conditions.  
 __rampage__ _n_ Violently angry and destructive behavior. _Syn_ violent disorder  
 __rampart__ _n_  
@@ -821,11 +847,12 @@ __retention__ _n_
 __ristretto__ _n_ A “short shot” of a more highly concentrated espresso coffee. It is made with the same amount of ground coffee, but extracted with a finer grind (also in from 20 to 30 seconds) using half as much water.  
 __rod__ _n_  
 __row__ _n_ :astonished: __1__ A noisy or quarrel or disturbance.  
+__rush__ _v_  
 __sanguineous__ _adj_ Relating to or involving blood or bloodshed. _Syn_ butcherly, gory, slaughterous  
 __saunter__  
 __scamper__ _n_  
 __scowl__ _v_  
-__scuttle__ _vi_ To run or move with short hurried movements; scurry. :es: _to scuttle away or off_ → escabullirse, _to scuttle along_ → correr, ir a toda prisa, _we must scuttle_ → tenemos que marchar  
+__scuttle__ _vi_ :four: To run or move with short hurried movements; scurry. :es: _to scuttle away or off_ → escabullirse, _to scuttle along_ → correr, ir a toda prisa, _we must scuttle_ → tenemos que marchar  
 __Seoul__ _n_ :mega: /səʊl/ /soʊl/  
 __shapeshift__ _vi_ (biology, fantasy, mythology) To change one’s shape or form (into another) through often magical means, normally applied only to living beings.  
 __shear__ _v_ (shorn)  
@@ -876,6 +903,7 @@ __snafu__ _n_
 __sneak__ _v_ /snik/ /sniːk/  
 __sneeze__ _vi_  
 __snicker__ _v_  
+__snicker-snack__ _n_ [:scroll: Coined by Lewis Carroll in his poem Jabberwocky, probably relating to snickersnee] An onomatopoeia of unclear meaning, possibly referring to sharpness, or the sound of a blade cutting through something.  
 __snide__ _adj_ :smiling_imp:  
 __snivel__ _v_ /SNIV-ul/  
 __sniveling__ _n_  
@@ -890,11 +918,14 @@ __sou__ _n_ One of several coins formerly used in France, worth a small amount.
 __specific__ _adj, n_ :mega: /spi-sif-ik/  
 __spindle__ _n_  
 __spinning jenny__ _n_ An early spinning machine having more than one spindle, enabling a person to spin a number of yarns simultaneously.  
+__splutter__ _v_ _I coughed and spluttered._  
 __spoor<sup>1</sup>__ _n_ (Hunting) The trail of an animal or person, esp as discernible to the human eye. _The spoor of blood._  
 __spoor<sup>2</sup>__ _v_ (Hunting) To track (an animal) by following its trail.  
 __stale__ _adj_ :two::hammer: _Stale coffee._  
 __startled__ _adj_  
+__stronghold__ _n_  
 __suboptimal__ _adj_  
+__succumb__ _vi_ :pencil2: /səˈkʌm/  
 __sundry__ _adj_ Consisting of a haphazard assortment of different kinds. _Syn_ assorted, miscellaneous, mixed, motley  
 __tee-hee__ _n_ (te-hee) /ˈtiːˈhiː/ __1__ A sound made in imitation of a giggle or titter. __2__ An instance of giggling or tittering. A chuckle.  
 __tenement__ _n_  
@@ -925,6 +956,7 @@ __toil__ _vi_
 __Tonka__ _n_  
 __torpedo__ _vt_ __2__ To render ineffective; destroy or wreck: _to torpedo the administration’s plan._  
 __totality__ _n_ The phase of an eclipse during which it is total; the state of total eclipse.  
+__Tottenham__ _n_ :mega: /ˈtɒt n əm, ˈtɒt nəm/ A former borough, now part of Haringey, in SE England, N of London.  
 __tout__ _n_ __1__ One who solicits customers brazenly or persistently. _Touts, thieves, and barrow men._  
 __townhouse__ _n_  
 __traduce__ _vt_ :smiling_imp:  
@@ -948,6 +980,7 @@ __unfledged__ _adj_ Not having the feathers necessary to fly. Used of a young bi
 __unlettered__ _adj_ Uneducated in general; lacking knowledge or sophistication. _Syn_ ignorant, nescient, unlearned  
 __unperturbed__ _adj_ Free from emotional agitation or nervous tension. _Sun_ unflurried, unflustered, unruffled  
 __unseat__ _vt_ __2__ To dislodge from a location or position, especially to remove from office.  
+__unstinting__ _adj_ Bestowed liberally. _Syn_ lavish, munificent, overgenerous, too-generous, unsparing _Her suitor’s unstinting devotion was flattering yet slightly unsettling._  
 __unstudied__ _adj_ Not contrived for effect; natural. _Sun_ uncontrived  
 __unthinkable__  
 __uppity__ _adj_ _informal_ Haughtily arrogant, conceited, or self-important.  
@@ -993,11 +1026,14 @@ __Wiffle ball__ _n_
 __William__ _n_ (Shortened familiar versions in English include Will, Wills, Willy, Willie, Liam, Bill, and Billy)  
 __Wisconsin__ _n_ :mega: /wɪsˈkɒnsɪn/ /wɪsˈkɒn sən/  
 __wisp__ _n_  
+__withering__ _adj_ :dart: Tending to overwhelm or destroy; devastating: _withering sarcasm._ _I shot him a withering glance._  
+__Witness protection__ _n_  
 __woefully__  
 __womanize__ _v_ (womanise)  
 __wonderful__ _adj_ :mega::astonished: /ˈwʌn dər fəl/  
 __wondrous__ _adj_  
 __Worcestershire__ _n_ (sauce) /woos-ter-sheer/  
+__writhing__ _adj_ Moving in a twisting or snake-like or wormlike fashion.  
 __wrought-iron__  
 __wry__  
 __Xmas__ _n_  

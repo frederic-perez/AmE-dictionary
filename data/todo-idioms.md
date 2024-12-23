@@ -55,6 +55,7 @@ __a tough pill to swallow__ A difficult or unpleasant truth to accept. Ellroy’
 __a word of warning__ :two: Information about possible danger or trouble.  
 __abound in__ To be abundant or plentiful with. _In the spring, the fields abound in blooming tulips._  
 __abound with__ To be brimming with something plentiful: _The lake by the cabin abounds with fish._  
+__above and beyond__ _Valorous actions above and beyond the call of duty._  
 __according to (someone or something)__  
 __ace in the hole__ :two::hammer:  
 __across the board__ :two::hammer:  
@@ -80,6 +81,7 @@ __as of yet__ _adv_ (perhaps nonstandard) Alternative form of _as yet._
 __as we speak__  
 __at length__  
 __at the end of (one’s) rope__  
+__at the ready__  
 __back to square one__  
 __bad juju__ A colloquial expression that refers to negative energy, bad luck, or a sense of foreboding.  
 __be well versed in (something)__ To be very knowledgeable about, skillful in, or competent at something.  
@@ -90,6 +92,7 @@ __behind closed doors__
 __behind the eight ball__ In a difficult or unfavorable situation. Ellroy’s characters frequently find themselves “behind the eight ball,” caught in moral compromises or dangerous situations where escape is unlikely.  
 __bejesus__ _n_ _slang_ Used euphemistically for intensive effect in idioms such as _scare the bejesus out of (someone)_ for scare (someone) very much.  
 __bend the rules__ _It’s always fascinating to see how songwriters use language to create a specific mood or character, even if it means bending the rules of grammar a bit, like in the sentence “you’re in trouble plenty” in the song_ Come a Little Bit Closer.  
+__better and better__ Continually improving.  
 __beyond the realm(s) of possibility__ Impossible.  
 __big picture__  
 __big shot__ An important or influential person. This expression might be used to describe powerful figures in the criminal underworld or law enforcement, both of whom populate Ellroy’s novels.  
@@ -267,6 +270,7 @@ __freaking__ _mod._ Damned. (Euphemistic for fucking. Usually objectionable.) _G
 __ghost gun__ A gun without serial numbers that cannot be easily tracked, especially a home-made gun built with non-registered, partially finished or 3D printed components.  
 __give someone or something away__ To reveal a secret about someone or something. _I thought no one knew where I was, but my loud breathing gave me away._ _We know that Billy ate the cherry pie. The cherry juice on his shirt gave him away._  
 __go berserk__  
+__go postal__ :dart: _US informal_ [:scroll: This expression arose as a result of several recorded cases in the USA in which postal-service employees ran amok and shot colleagues] Go mad, especially from stress. Become extremely angry or start behaving in a violent and angry way. _According to one eye witness, the man ‘went postal, and started hitting his computer’_  
 __gun for hire__  
 __hear out__ (hear someone out)  
 __heart of gold__  
@@ -304,7 +308,7 @@ __hothead__ A person with an excitable, fiery, or impetuous temper or dispositio
 __hotshot__ :two::hammer:  
 __hubby__  
 __hue and cry__ /HYOO-und-KRYE/ __1__ A large public protest. _Hue and cry_ refers to a clamor of alarm or protest in response to something. __2__ It can also be used as a synonym of hubbub to refer to general noise or uproar.  
-__huff and puff__ Make noisy, empty threats; bluster. For example, _You can huff and puff about storm warnings all you like, but we’ll believe it when we see it._ This expression uses two words of 16th-century origin, _huff_, meaning “to emit puffs of breath in anger,” and _puff_, meaning “to blow in short gusts,” and figuratively, “to inflate” or “make conceited.” They were combined in the familiar nursery tale, _“The Three Little Pigs,”_ where the wicked wolf warns, _“I’ll huff and I’ll puff and I’ll blow your house down”_; rhyme has helped these idioms survive.  
+__huff and puff__ :two: Make noisy, empty threats; bluster. For example, _You can huff and puff about storm warnings all you like, but we’ll believe it when we see it._ This expression uses two words of 16th-century origin, _huff_, meaning “to emit puffs of breath in anger,” and _puff_, meaning “to blow in short gusts,” and figuratively, “to inflate” or “make conceited.” They were combined in the familiar nursery tale, _“The Three Little Pigs,”_ where the wicked wolf warns, _“I’ll huff and I’ll puff and I’ll blow your house down”_; rhyme has helped these idioms survive.  
 __hung jury__ :dart: A jury that cannot agree on a verdict.  
 __hunky-dory__  
 __hush money__ :three: _n informal_ A bribe paid to keep something secret. _A hush money case._  
@@ -603,7 +607,9 @@ __long arm__ Broad, far-reaching power or influence. (Usually paired with a noun
 __love handles__ ((love) handles, spare tyres, Dunlops disease, Dunlop Syndrome) _euphemism_ [So called because supposed to be grabbed by a partner in sexual intercourse.]  
 __make a fuss__  
 __make a long arm for (something)__ To extend one’s arm fully toward something; to reach out for something. _Mary’s new boyfriend made a long arm for the bottle of wine at the end of the table, helping himself to another glass._  
+__make good on (something)__ To fulfill an obligation, such as keeping a promise or paying a debt. _Tom made good on his pledge to donate $1,000. Bill refused to make good on his promise._  
 __mince words__  
+__mind (one’s) p’s and q’s__  
 __miss the boat__  
 __mix and match__  
 __mixed feelings__ :two::hammer:  
@@ -859,6 +865,7 @@ __stone dead__ Dead; unquestionably dead; long dead. _The cat was stone dead and
 __stonewall__ To be evasive, noncompliant, or uncooperative; to employ delaying or obstructive tactics. Can be used either transitively or intransitively.  
 __strike (one) dead__  
 __strike a (raw) nerve__  
+__strike a chord__  
 __strong water__  
 __sucker (one) in__ To con, swindle, or deceive someone.  
 __suffice it to say__ (suffice (it) to say)  
@@ -947,6 +954,7 @@ __trials and tribulations__
 __trick of the light__  
 __triple whammy__ A combination of three different elements, circumstances, or actions that results in a particularly powerful force, outcome, or effect. _Deregulation of the financial sector, securitization of huge amounts of various debt, and fluctuating national interest rates formed a triple whammy that sent the stock market crashing._  
 __trundle along__ To proceed along (something) in a slow, heavy, or ungainly manner.  
+__turn a deaf ear (to someone or something)__ To ignore or refuse to listen to someone or something; to fail to pay attention to something someone says. _Turn a deaf ear to rumors._  
 __under the gun__ :dart: In a stressful situation that requires quick action, often to meet a deadline; under pressure.  
 __under the hood__  
 __unfamiliar territory__  
@@ -956,6 +964,7 @@ __wait and see__ :three::hammer: _It profits me best to wait and see._
 __walk on eggs__  
 __war chest__  
 __water under the bridge__  
+__weather the storm__ To endure a period of hardship or disorder. To experience something and survive it. _That was the hardest year of my life, but in the end I was able to weather the storm with the support of my family._  
 __well up__  
 __what’s the occasion?__ The idiom “what’s the occasion?” is typically used to inquire about the reason for a special event, celebration, or unusual behavior that seems out of the ordinary. It’s a friendly way to express curiosity about something that appears more formal or festive than usual.  
 __wind up__ __1__ To come or bring to a finish; end: _when the meeting wound up; wind up a project._  
