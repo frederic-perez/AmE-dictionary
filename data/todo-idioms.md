@@ -72,7 +72,7 @@ __all things considered__
 __an earful__  
 __an eye for an eye__  
 __and so on and so forth__  
-__and then some__ :two::hammer:  
+__and then some__ :three::hammer:  
 __any moment__ Sometime very soon; imminently. _The mail should arrive any moment._  
 __any second__ Sometime very soon; imminently. _It looks like it could rain any second._  
 __apples and oranges__ Two unlike things or people. Two entities that are not similar. (Used especially in reference to comparisons of unlike things.)  
@@ -111,6 +111,7 @@ __brush up (on something)__ :dart: To improve one’s knowledge of something or 
 __bundle of nerves__ (a bundle of nerves) Someone who is very nervous, anxious, or uneasy. _I was a bundle of nerves before the driving test started._  
 __bustle about__  
 __buzzard__ _n_ An old man; a mean old man. (Especially with old.) _Some old buzzard is at the door asking for Mary Wilson._  
+__by a mile__  
 __by and large__  
 __by the book__ To do something according to the rules or standard procedures. This phrase could be used ironically, as many of Ellroy’s characters operate outside the law, or it could refer to more straight-laced characters like police officers trying to maintain a sense of order in a corrupt world.  
 __calculated risk__ A risky action that has been carefully considered beforehand, in which the chance or likelihood of a beneficial outcome outweighs the risk or cost of failure. _We decided to take the calculated risk of going to trial, rather than settling out of court._  
@@ -144,7 +145,7 @@ __cobble together__
 __cockamamie__ Absurd or ridiculous. _Please don’t get involved in another one of his cockamamie schemes—you know they never pan out._  
 __coin__ _slang_ Money.  
 __cold fish__  
-__come a long way__  
+__come a long way__ :two::hammer:  
 __come and go__ To occur, exist, enter, or appear and then subside or disappear quickly or suddenly. _Ill effects of the medication come and go, but they’re still better than the disease it’s treating._  
 __come and gone__ The idiom “come and gone” refers to something that has arrived and then passed or ended. It often implies that a particular time, opportunity, or event has occurred and is now over, suggesting a sense of finality or missed chances.  
 __come around__ __1__ To change one’s view or opinion of someone or something.  
@@ -180,6 +181,7 @@ __cut eyes at (someone or something)__ To look at someone or something quickly.
 __cut loose__  
 __cut to the chase__ Get to the point; skip unnecessary details. Ellroy’s characters, often hard-nosed detectives or criminals, use this phrase to cut through the layers of deception and get straight to the core of a matter.  
 __dance on air__ To be extremely happy.  
+__dang it__  
 __day in and day out__  
 __dead__ __5__ Absolutely. _You’d better be dead certain about this decision, because you can’t take it back._  
 __deadhead__ __3__ _n_ _slang_ One who is regarded as dumb, dull, or stupid.  
@@ -239,6 +241,7 @@ __fill in__ __4__ To inform one of something. In this usage, a noun or pronoun c
 __fill the gap__  
 __filled to the brim__  
 __fire and brimstone__ :two: __1__ _n_ The misery that one faces in hell. The supposed torments of hell. In the Bible, fire and brimstone are the means of divine punishment for the wicked. _Unrepentant criminals better prepare themselves for fire and brimstone after death._  
+__fire on all cylinders__ :dart:  
 __fire-breathing__  
 __first come, first served__ The first people present will be the first to receive something, often something that is available in limited quantities.  
 __first dibs on__ :three: (dibs on something) (first dibs on something) Choice of (something) before anyone else gets to pick. _The boss insisted on having first dibs on the best parking space._ _The farm always gives first dibs on its vegetables to local families._  
@@ -271,6 +274,7 @@ __ghost gun__ A gun without serial numbers that cannot be easily tracked, especi
 __give someone or something away__ To reveal a secret about someone or something. _I thought no one knew where I was, but my loud breathing gave me away._ _We know that Billy ate the cherry pie. The cherry juice on his shirt gave him away._  
 __go berserk__  
 __go postal__ :dart: _US informal_ [:scroll: This expression arose as a result of several recorded cases in the USA in which postal-service employees ran amok and shot colleagues] Go mad, especially from stress. Become extremely angry or start behaving in a violent and angry way. _According to one eye witness, the man ‘went postal, and started hitting his computer’_  
+__green folding__ Paper money, especially in large amounts. _Boy, I bet you had to lay down some serious green folding for that new sports car, huh?_  
 __gun for hire__  
 __hear out__ (hear someone out)  
 __heart of gold__  
@@ -924,6 +928,7 @@ __the upper crust__
 __the upshot (of something)__ :dart::two: The final or resulting outcome, conclusion, or consequence (of something). _The upshot of this merger is that the company will now control nearly 50% of the world’s television networks._  
 __the whole nine yards__ Everything; the full extent of something. This could be used when a character has gone all-in or is fully committed to an action, no matter the risk.  
 __the works__ :two::hammer:  
+__the writing on the wall__ (the (hand)writing on the wall)  
 __then again__  
 __there is something about__  
 __thick-skulled__ Stupid, dimwitted, or obtuse.  
@@ -936,6 +941,8 @@ __throw the book at (one)__ :dart: _The NY Times sure loves throwing the book at
 __thumb one’s nose__  
 __tick away__  
 __tinder__ _n_ :dart: Readily combustible material, such as dry twigs, used to kindle fires. _This love potion is tinder for the proverbial fire._  
+__tipflation__  
+__tips and tricks__ The idiom “tips and tricks” refers to helpful and practical advice, shortcuts, or techniques that can be used to improve efficiency, productivity, or performance in a specific task, activity, or field.  
 __tit for tat__  
 __to hell and back__ Through a difficult, trying, or perilous situation and having overcome it.  
 __to hell with (someone or something)__  
@@ -960,6 +967,7 @@ __under the hood__
 __unfamiliar territory__  
 __up a notch__ To an increased or extreme degree of intensity or quality.  
 __up against a brick wall__ Stymied by difficulties or obstacles that seem unlikely to change.  
+__up fpr grabs__  
 __wait and see__ :three::hammer: _It profits me best to wait and see._  
 __walk on eggs__  
 __war chest__  

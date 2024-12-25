@@ -210,6 +210,7 @@ __eddy__ _n_ /EDD-ee/ An eddy is a current of water or air running contrary to t
 __edgeways__  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
 __exacerbate__ _vt_  
+__expiration date__ _n_ _A sad song about a relationship that probably has reached its expiration date._  
 __fault line__ _n_  
 __fetishist__ _n_ One who engages in fetishism (especially of a sexual nature).  
 __fiasco__ _n_ :dart: A complete failure, esp one that is ignominious or humiliating.  
@@ -316,7 +317,7 @@ __groan__ _n_
 __ground effect__ _n_ Apparent increase in aerodynamic lift experienced by an aircraft flying close to the ground.  
 __grovel__ _vi_  
 __grueling__ _adj_ /ˈgru ə lɪŋ, ˈgru lɪŋ/  
-__grunt__ _n_  
+__grunt__ _n_ :two::hammer: _Grunt work._  
 __guarded__ _adj_ /ˈgɑr dɪd/ __2__ Cautious; careful; prudent: _guarded comments._  
 __guardrail__ _n_ :two: A protective railing, as on a staircase or along a highway.  
 __guffaw__ _n_  
@@ -570,6 +571,9 @@ __mothball__ _n_ Asmall sphere of camphor or naphthalene used to keep moths away
 __mother of pearl__ _n_  
 __motor__ _v_  
 __motormouth__ _n_ :two: _slang_ A garrulous person.  
+__mull<sup>1</sup>__ _vt_ /mŭl/ To think about extensively; ponder. __1__ __2__ To heat and spice (wine, for example).  
+__mull<sup>2</sup>__ _vi_ /mŭl/ To ruminate; ponder: _mull over a plan._  
+__mulled wine__ _n_ Wine heated with sugar and spices and often citrus fruit.  
 __multilateralism__ _n_ The practice of promoting trade among several countries through agreements concerning quantity and price of commodities, as the Common Market, and, sometimes, restrictive tariffs on goods from outsiders.  
 __nail clipper__ _n_ (also called nail clippers, a nail trimmer, a nail cutter or nipper type) A hand tool used to trim fingernails, toenails and hangnails.  
 __nape__ _n_  
@@ -844,6 +848,7 @@ __reputedly__ _adv_ /rɪˈpjuːtɪdlɪ/ According to general belief or suppositi
 __restrain__ _v_  
 __restraint__ _n_  
 __retention__ _n_  
+__riposte__ _n_ A quick reply to a question or remark (especially a witty or critical one). _Syn_ comeback, counter, rejoinder, replication, retort, return  
 __ristretto__ _n_ A “short shot” of a more highly concentrated espresso coffee. It is made with the same amount of ground coffee, but extracted with a finer grind (also in from 20 to 30 seconds) using half as much water.  
 __rod__ _n_  
 __row__ _n_ :astonished: __1__ A noisy or quarrel or disturbance.  
@@ -852,57 +857,6 @@ __sanguineous__ _adj_ Relating to or involving blood or bloodshed. _Syn_ butcher
 __saunter__  
 __scamper__ _n_  
 __scowl__ _v_  
-__scuttle__ _vi_ :four: To run or move with short hurried movements; scurry. :es: _to scuttle away or off_ → escabullirse, _to scuttle along_ → correr, ir a toda prisa, _we must scuttle_ → tenemos que marchar  
-__Seoul__ _n_ :mega: /səʊl/ /soʊl/  
-__shapeshift__ _vi_ (biology, fantasy, mythology) To change one’s shape or form (into another) through often magical means, normally applied only to living beings.  
-__shear__ _v_ (shorn)  
-__shell-shocked__ _adj_ :dart: (shell shocked) __1__ Suffering from shell shock. __2__ Stunned, distressed, or exhausted from a prolonged trauma or an unexpected difficulty.  
-__shinny__ _vi_ To climb by shinning.  
-__shoal__ _n_  
-__shooting range__ _n_ An enclosed firing range with targets for rifle or handgun practice. _Syn_ shooting gallery  
-__shortage__ _n_ :mega: /ˈʃɔr tɪdʒ/  
-__shortlisted__  
-__shortsighted__ _adj_  
-__shove__ _v_ :two::hammer:  
-__shriek__  
-__shriveled__ _adj_  
-__shuck__ _v_  
-__shuffling__ _n_ Walking with a slow dragging motion without lifting your feet.  
-__shun__ _vt_ :dart: To avoid deliberately; keep away from. _He shuns suits except when he is in court._  
-__shuttle__ _n_ __2__ The sliding container that carries the lower thread in a sewing machine.  
-__side note__ _n_ Additional information aside main point.  
-__simpleton__ _n_ :smiling_imp:  
-__single-handed__ _adj, adv_ :dart:  
-__single-minded__ _adj_  
-__sitzmark__ _n_ /ˈsits-ˌmärk/ /ˈzits-/ It refers explicitly to the dent or hole left in the snow by a skier’s rump. A depression left in the snow by a skier falling backward.  
-__skeleton key__ _n_ :astonished:  
-__skewer<sup>1</sup>__ _n_  
-__skewer<sup>2</sup>__ _vt_  
-__skitter__ _v_  
-__skullduggery__ _n_ :smiling_imp: Dishonorable proceedings.  
-__skylark__ _n_ A common passerine with brownish plumage that is recognized by its call while flying. :es: alondra  
-__slag__ _v_ _Slagged by fire._  
-__sleazy__ _adj_ :two::hammer: /ˈsli zi, ˈsleɪ zi/  
-__slew__ _v_ _The truck slewed left and right._  
-__slickly__ _adv_ __1__ With superficial plausibility. _Syn_ glibly :es: hábilmente __2__ Skilfully. :es: impecablemente  
-__slight__ _adj_ /slaɪt/  
-__slinky__ _adj_ Graceful, sinuous, and sleek: wore a slinky outfit to the party.  
-__slipper__ _n_ :es: zapatilla  
-__slippers__ _n pl_ :es: pantuflas  
-__slither__ _vi_  
-__slob__ _n_ :two::hammer:  
-__slovenly<sup>1</sup>__ _adj_ :astonished::two: _The slovenly living room._  
-__slovenly<sup>2</sup>__ _adv_ :two::hammer:  
-__slug__ _vt_ __3__ To strike heavily, especially with the fist or a bat. _He slugged me across the jaw._  
-__slumbering__ _adj_ __1__ Temporarily inactive. __2__ Sleeping peacefully; quiescent or dormant.  
-__smite__ _v_  
-__smolder__ _vi_ :two: __1__ To burn with little smoke and no flame. _Luke saw the smoldering piles which had once been human beings._  
-__smorgasbord__ _n_ :two: A varied collection. _Syn_ assortment, miscellanea, miscellany, mixed bag, mixture, motley, potpourri, salmagundi, variety  
-__smugly__ _adv_  
-__snafu__ _n_  
-__sneak__ _v_ /snik/ /sniːk/  
-__sneeze__ _vi_  
-__snicker__ _v_  
 __snicker-snack__ _n_ [:scroll: Coined by Lewis Carroll in his poem Jabberwocky, probably relating to snickersnee] An onomatopoeia of unclear meaning, possibly referring to sharpness, or the sound of a blade cutting through something.  
 __snide__ _adj_ :smiling_imp:  
 __snivel__ _v_ /SNIV-ul/  
@@ -1007,6 +961,8 @@ __wagonette__ _n_ :camera: (waggonette) A light four-wheeled horse-drawn vehicle
 __waldo__  
 __walrus mustache__ _n_ A bushy, drooping mustache.  
 __warthog__ _n_ :astonished: African wild swine with warty protuberances on the face and large protruding tusks.  
+__wassail<sup>1</sup>__ _n_ /ˈwɒseɪl/ /WAH-sul/ __1__ (Brewing) (formerly) A toast or salutation made to a person at festivities. __2__ (Brewing) A festivity when much drinking takes place. __3__ (Brewing) Alcoholic drink drunk at such a festivity, esp spiced beer or mulled wine. __4__ (Anglicanism) The singing of Christmas carols, going from house to house.  
+__wassail<sup>2</sup>__ _v_ /ˈwɒseɪl/ /WAH-sul/ __1__ (Brewing) To drink the health of (a person) at a wassail. __2__ _vi_ (Anglicanism) To go from house to house singing carols at Christmas.  
 __waylaid__  
 __weak coffee__ _n_ :dart: _Weak coffee_ generally refers to a brew that has a lower concentration of coffee grounds relative to the amount of water used during brewing. This results in a drink that is often perceived as watery or lacking in robust flavor.  
 __wean__ _vt_  
