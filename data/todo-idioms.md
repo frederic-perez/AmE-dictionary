@@ -72,56 +72,6 @@ __all things considered__
 __an earful__  
 __an eye for an eye__  
 __and so on and so forth__  
-__and then some__ :three::hammer:  
-__any moment__ Sometime very soon; imminently. _The mail should arrive any moment._  
-__any second__ Sometime very soon; imminently. _It looks like it could rain any second._  
-__apples and oranges__ Two unlike things or people. Two entities that are not similar. (Used especially in reference to comparisons of unlike things.)  
-__as good as dead__ ((as) good as dead= In a position of great and irreversible danger or trouble, with the outcome of death being either figurative or literal.) _I’m as good as dead after crashing my parents’ car!_  
-__as of yet__ _adv_ (perhaps nonstandard) Alternative form of _as yet._  
-__as we speak__  
-__at length__  
-__at the end of (one’s) rope__  
-__at the ready__  
-__back to square one__  
-__bad juju__ A colloquial expression that refers to negative energy, bad luck, or a sense of foreboding.  
-__be well versed in (something)__ To be very knowledgeable about, skillful in, or competent at something.  
-__beat (one) to the punch__ To do or obtain something before someone else does. The phrase is thought to have originated from boxing. Primarily heard in US.  
-__beat about the bush__  
-__beg pardon__ :dart: __2__ What did you just say? Could you please repeat that? _Beg pardon? I couldn’t quite hear you over the sound of traffic._  
-__behind closed doors__  
-__behind the eight ball__ In a difficult or unfavorable situation. Ellroy’s characters frequently find themselves “behind the eight ball,” caught in moral compromises or dangerous situations where escape is unlikely.  
-__bejesus__ _n_ _slang_ Used euphemistically for intensive effect in idioms such as _scare the bejesus out of (someone)_ for scare (someone) very much.  
-__bend the rules__ _It’s always fascinating to see how songwriters use language to create a specific mood or character, even if it means bending the rules of grammar a bit, like in the sentence “you’re in trouble plenty” in the song_ Come a Little Bit Closer.  
-__better and better__ Continually improving.  
-__beyond the realm(s) of possibility__ Impossible.  
-__big picture__  
-__big shot__ An important or influential person. This expression might be used to describe powerful figures in the criminal underworld or law enforcement, both of whom populate Ellroy’s novels.  
-__bite the bullet__ To endure something painful or difficult with courage. In Ellroy’s novels, characters often face situations that require them to bite the bullet, whether it’s enduring physical pain or confronting emotional or moral dilemmas.  
-__bless your pointy little head__ A condescending phrase used to patronize someone for being foolish or not very bright. _You failed the exam because you thought the sun was a planet? Aw, bless your pointy little head._  
-__blood money__ :smiling_imp:  
-__brand new__ [:scroll: The word “brand” here comes from Old English for fire or flame; thus, something that is brand new is likened to that which is forged in—and fresh out of—fire.] Completely new and unused. _I bought Jim a brand-new computer for his birthday._ _That car is brand new, so be extra careful when you drive it._  
-__break even__  
-__break the ice__  
-__bring (something) into effect__ To cause (something) to apply, begin operating, or take effect; to begin implementing or enforcing (something).  
-__bring to light__ To reveal something, often something inappropriate or illegal. A noun or pronoun can be used between “bring” and “to.” _Discrepancies in the yearly budget report brought to light corruption in the company._  
-__bring to one’s knees__ Make one submit; reduce to a position of subservience.  
-__British Invasion__ :two: The British Invasion was a cultural phenomenon of the mid-1960s, when rock and pop music acts from the United Kingdom[2] and other aspects of British culture became popular in the United States with significant influence on the rising “counterculture” on both sides of the Atlantic Ocean. The arrival of the Beatles in the US in 1964 marked the start of the British Invasion.  
-__brood over__  
-__brush up (on something)__ :dart: To improve one’s knowledge of something or one’s ability to do something. _I need to brush up on my German. My German is weak. I had better brush up._  
-__bundle of nerves__ (a bundle of nerves) Someone who is very nervous, anxious, or uneasy. _I was a bundle of nerves before the driving test started._  
-__bustle about__  
-__buzzard__ _n_ An old man; a mean old man. (Especially with old.) _Some old buzzard is at the door asking for Mary Wilson._  
-__by a mile__  
-__by and large__  
-__by the book__ To do something according to the rules or standard procedures. This phrase could be used ironically, as many of Ellroy’s characters operate outside the law, or it could refer to more straight-laced characters like police officers trying to maintain a sense of order in a corrupt world.  
-__calculated risk__ A risky action that has been carefully considered beforehand, in which the chance or likelihood of a beneficial outcome outweighs the risk or cost of failure. _We decided to take the calculated risk of going to trial, rather than settling out of court._  
-__call it even__ To acknowledge or consider a situation or exchange as being equal or equitable, as regarding debt, status, ability, a contest, etc. _I’ll pay the Internet bill if you’ll pay the electricity bill, and then we’ll just call it even._  
-__call of nature__ The urge to urinate or defecate. _I have to attend to the call of nature._  
-__call out__  
-__call the shots__ (call (all) the shots)  
-__candy stripper__ [:scroll: First appears in the US c. 1944, due to the red-and-white striped jumpers worn by hospital volunteers, which resembled stick candy (being candy-striped); originally worn by a group of high-school girls who volunteered as hospital workers at East Orange General Hospital in New Jersey.] A volunteer worker in a hospital or hospice.  
-__case in point__  
-__cash flow__  
 __cash poor__ Having very little fluid capital due to one’s financial wealth being derived from or invested in long-term assets. _I can’t afford transactions like that right now. All my wealth is tied up in real estate, so I’m a bit cash poor at the moment._  
 __cast in concrete__ Firmly or permanently established; not subject to change; unalterable.  
 __castle in the air__  
@@ -608,6 +558,7 @@ __lock (someone) up and throw away the key__ To incarcerate someone in prison fo
 __lock lips (with someone)__ To kiss (someone) passionately and at length. _I’ll never forget locking lips with my wife for the very first time._  
 __locker-room humor__ Especially crude, vulgar, or bawdy humor. _I’m no prude by any means, but I hate the locker-room humor my boyfriend partakes in when his buddies are around._  
 __long arm__ Broad, far-reaching power or influence. (Usually paired with a noun, as in “the long arm of the law.”) _The long arm of justice finally put the murderer in jail, where he belongs._  
+__long memory__ A clear memory of events that happened long ago. _My grandma has a long memory of her childhood in Russia. It’s astonishing hearing how things were when she was young!_  
 __love handles__ ((love) handles, spare tyres, Dunlops disease, Dunlop Syndrome) _euphemism_ [So called because supposed to be grabbed by a partner in sexual intercourse.]  
 __make a fuss__  
 __make a long arm for (something)__ To extend one’s arm fully toward something; to reach out for something. _Mary’s new boyfriend made a long arm for the bottle of wine at the end of the table, helping himself to another glass._  
