@@ -128,56 +128,6 @@ __cower__ _v_
 __crease<sup>1</sup>__ _n_ __1__ A line or mark produced by folding, pressing, or wrinkling. __2__ A wrinkle or furrow, esp on the face.  
 __crease<sup>2</sup>__ _vt_  
 __crease<sup>3</sup>__ _vi_  
-__croft__ _n_ :three::hammer:  
-__crofter__ _n_  
-__cutesy__ _adj_ Deliberately or affectedly cute; precious: _a cutesy boutique._ _A cutesy cheerleader._  
-__darn__ _adj_  
-__dealing__ _n_  
-__decadent__ _adj_ :astonished: __2__ Marked by or providing unrestrained gratification; self-indulgent.  
-__delectation__ _n_ /dee-lek-TAY-shun/ _Delectation_ is a formal word for a feeling of delight or enjoyment. It can also be used to refer to the source of such feelings.  
-__demure__ _adj_  
-__dilemma__ _n_ :pencil2: /dɪˈlɛmə; daɪ-/  
-__dimple__ _n_  
-__ding__ _v_  
-__dinghy__ _n_  
-__dingy__ _adj_  
-__disarmament__ _n_  
-__disbar__ _vt_  
-__disbursement__ _n_ /diss-BERSS-munt/ A _disbursement_ is a payout of money from a fund that has been created for a special purpose. _Disbursement_ can also refer to the money that is paid out. _The company has made large disbursements for research._  
-__disengage__ _v_ To release from something that holds fast, connects, or entangles. _Syn_ withdraw  
-__disheveled__ _adj_ :two::hammer:  
-__dishevelled__  
-__disinformation__ _n_  
-__dismissive__ _adj_ __2__ Showing indifference or disregard: _a dismissive shrug._  
-__dispel__ _vt_ :es: disipar; desvanecer  
-__dispensary__ _n_  
-__disport__ _v_  
-__disrepute__ _n_ :es: desprestigio  
-__dissatisfied__ _adj_ :two: Feeling or exhibiting a lack of contentment or satisfaction.  
-__dissonance__ _n_ The auditory experience of sound that lacks musical quality; sound that is a disagreeable auditory experience. _Syn_ noise, racket  
-__distress signal__ _n_  
-__dither__ _v_  
-__divest__ _vt_ :dart:  
-__divide__ _n_  
-__divots__ _n_  
-__dodger__ _n_ __1__ One that dodges or evades: _a skilled dodger of reporters’ questions._  
-__doe__ _n_ _I was dispatched like a wounded doe, killed with a fast hard cracking of the neck._  
-__dog__ _n_ :astonished: __5a__ _informal_ A person: _You won, you lucky dog._ __b__ A person regarded as contemptible: _You stole my watch, you dog._  
-__domestic<sup>1</sup>__ _adj_ :mega: /dəˈmɛs tɪk/  
-__domestic<sup>2</sup>__ _n_  
-__dormitory__ _n_  
-__dorsum__ _n_ /ˈdɔːsəm/ (dorsa _n pl_ /-sə/) __1__ _(Anatomy)_ A technical name for the back. __2__ _(Anatomy)_ Any analogous surface: _the dorsum of the hand._  
-__dosser__ _n_ Someone who sleeps in any convenient place. _Syn_ street person  
-__doting__ _adj_  
-__double-check__ _v_  
-__douse__  
-__dovetail__ _v_  
-__downy__  
-__dowse__ _vi_ (douse) _Dowsing with a pendulum._  
-__dowsing__ _n_ The practice of prospecting for water or minerals using a divining rod. _Syn_ dowse, rhabdomancy  
-__doyen__ _n_ The senior member, as in age or experience, of a group, profession, etc.  
-__drapery__ _n_ :two::hammer: /ˈdreɪpərɪ/  
-__draw up__ _v_  
 __drawl__ _v_  
 __dreadful__ _adj_  
 __dreary__ _adj_  
@@ -209,6 +159,7 @@ __ecchymosis__ _n_ (_n pl_ ecchymoses) The medical term for a bruise.
 __eddy__ _n_ /EDD-ee/ An eddy is a current of water or air running contrary to the main current, especially as a whirlpool. In figurative use, _eddy_ may also refer to a contrary or circular current of thought or policy.  
 __edgeways__  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
+__evergreen__ _adj_ /EV-er-green/ _Evergreen_ in its figurative uses describes something, such as a plot, that retains its freshness or interest over a long period of time, or something, such as an issue or concern, that is universally and continually relevant. In botany, _evergreen_ describes foliage that remains green and functional through more than one growing season.  
 __exacerbate__ _vt_  
 __expiration date__ _n_ _A sad song about a relationship that probably has reached its expiration date._  
 __fault line__ _n_  
@@ -455,6 +406,7 @@ __Jolt Cola__ _n_ Jolt Cola was a carbonated soft drink targeted towards student
 __jot<sup>1</sup>__ _n_ :dart: /dʒɒt/ The smallest bit; iota. _(used with a negative)_ A little bit (in phrases such as _not to care (or give) a jot_).  
 __jot<sup>2</sup>__ _vt_  
 __Jovian__ _adj_  
+__jubilate__ _v_ To express great joy. _Syn_ exuberate, exult, rejoice, triumph  
 __jubilee__ _n_ :mega: /JOO-buh-lee/  
 __juvenile<sup>1</sup>__ _adj_  
 __juvenile<sup>2</sup>__ _n_  
@@ -518,6 +470,7 @@ __medley relay__
 __meliorism__ _n_ /MEE-lee-uh-riz-um/ _Meliorism_ refers to the belief that the world tends to improve and that humans can aid its betterment.  
 __memento__ _n_ :mega: /muh-MEN-toh/ _Memento_ is a synonym of _souvenir_; it refers to something that is kept as a reminder of a person, place, or thing.  
 __menagerie__ _n_ A collection of wild or unusual animals, especially for exhibition.  
+__menorah__ _n_ /muh-NOR-uh/ A candelabra with seven or nine lights that is used in Jewish worship.  
 __merc__ _n_ _informal_  
 __mesa__ _n_ A broad, flat-topped elevation with one or more clifflike sides, common in the southwest United States. _Syn_ table  
 __mesh__ _v_ _The orbits of ship and satellite meshed for a second time._  
@@ -877,6 +830,7 @@ __spoor<sup>1</sup>__ _n_ (Hunting) The trail of an animal or person, esp as dis
 __spoor<sup>2</sup>__ _v_ (Hunting) To track (an animal) by following its trail.  
 __stale__ _adj_ :two::hammer: _Stale coffee._  
 __startled__ _adj_  
+__striper__ _n_  
 __stronghold__ _n_  
 __suboptimal__ _adj_  
 __succumb__ _vi_ :pencil2: /səˈkʌm/  

@@ -127,15 +127,11 @@ def entry_has_tag_hammer(entry: str) -> bool:
     """Self-explanatory"""
     return entry.find(':hammer:') > -1
 
-
 def print_colored(label: str, number: int) -> None:
     """Self-explanatory"""
     message: Final[str] = label + ' = ' + str(number)
-    if number == 0:
-        print('✅ ' + OK_GREEN + message + END_C)
-    else:
-        print('🐞 ' + FAIL + message + END_C)
-
+    emoji, color = (lambda: ('✅', OK_GREEN) if number == 0 else ('🐞', FAIL))()
+    print(emoji + ' ' + color + message + END_C)
 
 def print_colored_if_positive(label: str, number: int) -> None:
     """Self-explanatory"""
