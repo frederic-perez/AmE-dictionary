@@ -39,6 +39,7 @@
 - __Kay__ In English-speaking countries, it is usually a feminine name, often a short form of Katherine or one of its variants; but it is also used as a first name in its own right, and also as a masculine name (for example in India, the Netherlands, and Sweden).
 - __Ken__ A masculine given name of Scottish / Scottish Gaelic origin. It is used either as a given name or as a short form of names with the letters “Ken” (like Kenneth, Kenan, Kendrick, Kendall, Kennedy, Mackenzie or Kenson). Ken is also a Japanese name which can have many different meanings depending on the kanji used.
 - __Kev__ A diminutive of the male given name Kevin.
+- __Lea__ The name Lea is a feminine given name with rich historical and cultural significance, primarily derived from the Hebrew name Leah.
 - __Lee__ Lee is a given name derived from the English surname Lee. Lee is also a hypocoristic form of the given names Ashley, Beverly, Kimberley, Leona, and Leslie.
 - __Len__ Len is a masculine given name, usually a short form (hypocorism) of Leonard.
 - __Leo__ Leo is a Latin given name. It is usually a masculine given name and it comes from the Latin word leo which in turns comes from the Greek word λέων meaning “lion.” It can also refer to the name Leonard or Leopold.

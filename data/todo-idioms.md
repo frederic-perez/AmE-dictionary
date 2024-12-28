@@ -72,6 +72,8 @@ __all things considered__
 __an earful__  
 __an eye for an eye__  
 __and so on and so forth__  
+__at odds with (oneself)__  
+__be partial to (someone or something)__ _I’ve always been partial to the good news._  
 __cash poor__ Having very little fluid capital due to one’s financial wealth being derived from or invested in long-term assets. _I can’t afford transactions like that right now. All my wealth is tied up in real estate, so I’m a bit cash poor at the moment._  
 __cast in concrete__ Firmly or permanently established; not subject to change; unalterable.  
 __castle in the air__  
@@ -176,6 +178,7 @@ __every now and then__
 __factor in__  
 __fall flat__ __1__ To fail or be ineffective. _Good luck—the last time management tried to implement a new dress code, that measure fell flat._ __2__ To fail to be humorous, as of a joke. _A: “Unfortunately, my first stand-up routine really fell flat.” B: “Well, maybe you just had the wrong audience.”_  
 __fall off the perch__ _BrE_ _old-fashioned, informal_ (fall off your perch) If someone falls off the perch or falls off their perch, they die. Note: A perch is a pole, branch or other place where a bird sits to rest. _He fell off the perch years ago._ Note: Other verbs such as drop or topple can be used instead of fall. _He’ll topple off his perch one morning. You know how it is._ Note: This expression is used humorously.  
+__fall to pieces__ __3__ To deteriorate or go awry.  
 __famous last words__ A statement or claim that is promptly undone or disproved. This phrase is often humorously or preemptively. A reference to the final words one says before one dies. _A: “I can’t believe the ER has been so quiet today!” B: “Ugh, famous last words for sure.”_  
 __fancy that__ Used to comment on something that is hard to imagine. _The baby she brought home was the wrong one. Fancy that!_  
 __fancy__ _informal_ __2__ To have a desire for (something).  
@@ -226,6 +229,7 @@ __go berserk__
 __go postal__ :dart: _US informal_ [:scroll: This expression arose as a result of several recorded cases in the USA in which postal-service employees ran amok and shot colleagues] Go mad, especially from stress. Become extremely angry or start behaving in a violent and angry way. _According to one eye witness, the man ‘went postal, and started hitting his computer’_  
 __green folding__ Paper money, especially in large amounts. _Boy, I bet you had to lay down some serious green folding for that new sports car, huh?_  
 __gun for hire__  
+__have someone’s number__ (have (got) (one’s) number)  
 __hear out__ (hear someone out)  
 __heart of gold__  
 __heart to heart__ Candidly, sincerely, as in _We need to talk heart to heart about her coming marriage._ This expression is nearly always applied to a conversation of some kind.  
@@ -585,7 +589,7 @@ __much obliged__ :dart: __1__ Indebted to someone for their generosity, kindness
 __mug shot__ __1__ An official photograph taken of someone being brought into police custody, usually characterized by the person wearing a grim or blank expression on their face.  
 __mugger__ _n_ :three::smiling_imp: Someone, usually a male, who attacks and robs people. _I clobbered the mugger with a tire iron I carry just for such occasions._  
 __mumbo jumbo__  
-__muss up__ To cause something to become disheveled or untidy, especially one’s hair. A noun or pronoun can be used between “muss” and “up.” _I just spent an hour getting my hair exactly how I want it, so don’t go mussing it up like that!_  
+__muss up__ :two: To cause something to become disheveled or untidy, especially one’s hair. A noun or pronoun can be used between “muss” and “up.” _I just spent an hour getting my hair exactly how I want it, so don’t go mussing it up like that!_  
 __mussed__ _adj_ Rumpled, tousled or untidy.  
 __my ass__  
 __nab__ _v_ To catch and arrest someone. Often used in passive constructions.  
@@ -657,6 +661,7 @@ __on occasion__ :pencil2: Once in a while; occasionally.
 __on paper__ __2__ Hypothetically or in theory.\_ It’s a good idea on paper, but I don’t think it would work in a real-world environment.\_  
 __on par (with someone or something)__  
 __on speaking terms__  
+__on steroids__  
 __on the back burner__ Of a low priority; given less or little thought or attention; postponed or suspended.  
 __on the blink__ __1__ _slang_ Not working correctly; acting strangely; malfunctioning. _Our washer is on the blink, so I’m on my way to the laundromat._ __2__ _slang_ Drunk. _Do you remember last night at the bar at all? You were really on the blink!_  
 __on the brink of (something)__ :two::hammer:  
@@ -682,6 +687,7 @@ __on the verge of (doing) (something)__
 __on the verge of__  
 __on the whole__ Considering everything together; in general or for the most part.  
 __on-site__  
+__ruffle a few feathers__ To do something which annoys, irritates, or upsets other people. _I know my presentation about the effects of climate change is going to ruffle a few feathers, but I have got to raise awareness about this issue!_  
 __run afoul of (someone or something)__  
 __run the gauntlet__ To be exposed to or forced to endure a series of threats, dangers, criticism, or other problems. Refers to an old military punishment in which one was forced to run between two lines of soldiers while being thrashed with rods or whips. _Medical students often feel that they have to run the gauntlet when they become residents in a hospital._  
 __run with it__ To take the initiative to do something independently. _I got this really good idea for an ad campaign. I think I’m going to just run with it and present it to the boss when it’s done._  
@@ -747,7 +753,7 @@ __sick at heart__
 __sick__ _slang_ Excellent; superb. _He did some sick tricks on his skateboard._  
 __single file__ A line of things or people, one person or one thing wide. _Please get into single file._ _You have to march single file._  
 __single out__  
-__sinking feeling__ :dart: A feeling of dread indicating that something bad has happened or is about to happen. _As soon as I met him, I got a sinking feeling that he had bad intentions._  
+__sinking feeling__ :dart::two: A feeling of dread indicating that something bad has happened or is about to happen. _As soon as I met him, I got a sinking feeling that he had bad intentions._  
 __sit still (for something)__ __2__ To fail or choose not to act in response to something; to endure or tolerate something passively or submissively. _I couldn’t just sit still for condescending, hypocritical remarks, so I gathered my things and walked right out of the building._  
 __sit up__  
 __situation__  
@@ -821,6 +827,7 @@ __stonewall__ To be evasive, noncompliant, or uncooperative; to employ delaying 
 __strike (one) dead__  
 __strike a (raw) nerve__  
 __strike a chord__  
+__strike that__ Forget what I just said. _In the brief time it took me to write this paragraph, three more emails arrived. Now I have 115 unanswered emails. Strike that: 116._ :es: tacha eso  
 __strong water__  
 __sucker (one) in__ To con, swindle, or deceive someone.  
 __suffice it to say__ (suffice (it) to say)  
@@ -874,6 +881,7 @@ __the likes of you__
 __the lion’s den__  
 __the party is over__ A period of excitement, success, jubilation, or opulence has changed to a period of sobriety, calm, reflection, or regret.  
 __the powers that be__ :dart::three:  
+__the rundown__ (give (someone) (a/the) rundown) To tell someone details about or a brief summary of a given event or situation.  
 __the short and the long of it__ The essential or most important point being made; the plain truth of the matter. _There are a lot of reasons I don’t want to go, but the short and the long of it is that I don’t want to see my ex-boyfriend there._  
 __the upper crust__  
 __the upshot (of something)__ :dart::two: The final or resulting outcome, conclusion, or consequence (of something). _The upshot of this merger is that the company will now control nearly 50% of the world’s television networks._  
@@ -928,6 +936,7 @@ __well up__
 __what’s the occasion?__ The idiom “what’s the occasion?” is typically used to inquire about the reason for a special event, celebration, or unusual behavior that seems out of the ordinary. It’s a friendly way to express curiosity about something that appears more formal or festive than usual.  
 __wind up__ __1__ To come or bring to a finish; end: _when the meeting wound up; wind up a project._  
 __winnow out__  
+__wipe the slate clean__ (wipe (one’s) slate clean)  
 __with heavy asterisk__ (with a heavy asterisk) The phrase “with (a) heavy asterisk” is typically used in conversation, writing, or discourse to imply that there’s a major caveat, condition, or important exception that should be noted. The asterisk metaphorically represents the idea that there’s a footnote or clarification to consider, but it’s emphasized as significant or notable—hence “heavy.”  
 __word has it (that)__ According to rumor or gossip (something is the case).  
 __work (one0146s) butt off__ To work really hard (on or at something). _I know you thought it was just a silly New Year’s resolution, but I’4ve been working my butt off at the gym!_  

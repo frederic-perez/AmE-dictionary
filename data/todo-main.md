@@ -37,8 +37,12 @@ __armistice__ _n_ /AHR-muh-stus/
 __Arthur__ _n_ A legendary king of the Britons whose story is based on traditions of a sixth century military leader.  
 __austere__ _adj_ :mega:  
 __badger__ _v_  
+__bay<sup>1</sup>__ _n_ :two::hammer:  
+__bay<sup>2</sup>__ _vi_ :two: To howl, esp. with a deep, prolonged sound: _a hound baying at the moon._  
+__bay<sup>3</sup>__ _vt_ __1__ To utter in a loud prolonged tone. __2__ To drive to or hold at bay.  
 __beatific__ _adj_ /bee-uh-TIFF-ik/ _Beatific_ is a formal word that describes something or someone having a blissful appearance or showing complete happiness. _As the pair danced, beatific smiles on their faces, the audience sat hushed and almost reverential._  
 __better__ _v_  
+__biddy__ _n_ __2__ A woman, especially an older one who is extremely talkative.  
 __biology__ _n_ :mega: /baɪˈɒl ə dʒi/  
 __board__ _v_ __17__ To furnish with meals, or with meals and lodging, esp. for pay.  
 __boarding house__ _n_ :two::hammer: :es: pensión  
@@ -117,6 +121,7 @@ __clemency__ _n_
 __closehanded__ _adj_ Covetous; penurious; stingy; closefisted.  
 __colander__ _n_ /KUH/KAH-luhn-duhr/ (cullender) A utensil with perforations, used for straining or draining foods.  
 __colonel__ _n_ :mega: /ˈkɜr nl/ /kur-nl/  
+__compact__ _n_ :astonished: An agreement or a covenant. _He has made a compact with me._  
 __complaisant__ _adj_ /kum-PLAY-sunt/ Someone described as complaisant is willing or eager to please other people, or is easily convinced to do what other people want.  
 __condescension__ _n_ A communication that indicates lack of respect by patronizing the recipient. _Syn_ disdain, patronage  
 __congeal__ _v_ Become gelatinous. _Syn_ jell, set  
@@ -124,10 +129,12 @@ __conscript__ _n_ A conscripted person (such as a military recruit).
 __contrite__  
 __convene__ _v_  
 __convivial__ _adj_ /kənˈvɪv i əl/  
+__covenant__  
 __cower__ _v_  
 __crease<sup>1</sup>__ _n_ __1__ A line or mark produced by folding, pressing, or wrinkling. __2__ A wrinkle or furrow, esp on the face.  
 __crease<sup>2</sup>__ _vt_  
 __crease<sup>3</sup>__ _vi_  
+__demesne__ _n_  
 __drawl__ _v_  
 __dreadful__ _adj_  
 __dreary__ _adj_  
@@ -194,6 +201,7 @@ __flyblown__ _adj_ Foul and run-down and repulsive. _Syn_ sordid, squalid _The g
 __fold<sup>1</sup>__ _vt_ __8a__ _informal_ To discontinue operating; close: They had to fold the company a year after they started it. __b__ Games To withdraw (one’s hand) in defeat, as by laying cards face down on a table.  
 __fold<sup>2</sup>__ _vi_  
 __footing__ _n_  
+__forearm__ _n_ :es: antebrazo  
 __foresee__ _vt_ /fɔrˈsi, foʊr-/ To imagine or know as a probable occurrence; anticipate or predict: _foresaw economic decline._  
 __frank__ _adj_ __2__ Clearly manifest; evident: _frank enjoyment._  
 __fray__ _n_ :dart: :es: combate, lucha, pelea  
@@ -255,6 +263,7 @@ __glower<sup>1</sup>__ _n_ To look or stare angrily or sullenly: _glowered at th
 __glower<sup>2</sup>__ _n_ An angry or sullen look or stare.  
 __goatee__ _n_  
 __goblin__ _n_  
+__godson__ _n_ A male godchild.  
 __goo__ _n_  
 __Goodwill__ _n_ A charity organization that collect old clothes for resale.  
 __gopher__ _n_ :es: ardilla  
@@ -314,6 +323,7 @@ __heathen__ _n_
 __heavenward<sup>1</sup>__ _adv_ (also heav′enwards) Toward heaven.  
 __heavenward<sup>2</sup>__ _adj_ Directed towards heaven or the sky.  
 __heinous__ _adj_ /HAY-nus/ _Heinous_ describes things—such as acts, deeds, or crimes—that are hatefully or shockingly evil, or in other words, deserving of hate or contempt.  
+__hellhound__ _n_ :three: A devilish person; a fiend. A very evil man.  
 __helpless__ _adj_  
 __hem__ _n_ :es: dobladillo  
 __hemothorax__  
@@ -325,6 +335,7 @@ __hobgoblin__ _n_
 __hoity-toity__ _adj_ /ˌhɔɪtɪˈtɔɪtɪ/ _informal_ Arrogant or haughty: _we have had enough of her hoity-toity manner._  
 __hollow-point bullet__ _n_  
 __holly__ _n_ _Holly plants are still common during Christmas today, and it is hard to miss their bright green leaves and red berries._ :es: acebo  
+__home turf__ _n_ _informal_ One’s familiar surroundings or habitat.  
 __hometown__ _n_ The town or city of one’s birth, rearing, or main residence.  
 __honors__  
 __hoover__  
@@ -461,6 +472,7 @@ __marshal__ _v_
 __marshmallow__ _n_ :pencil2:  
 __mascara__ _n_ _A residue of mascara was sticky on her eyelashes._  
 __masseuse__  
+__mastiff__ _n_ An old breed of powerful deep-chested smooth-coated dog used chiefly as a watchdog and guard dog. :es: mastín  
 __matron__ _n_ :es: supervisora; enfermera jefe; matrona  
 __matte__ _n_  
 __mayhem__ _n_  
@@ -494,7 +506,7 @@ __miscellany__ _n_ (_n pl_ miscellanies) __1__ A mixed assortment of items.
 __mischievous__ _adj_ :mega: /mis-chuh-vuhs/  
 __mise-en-scène__ _n_ /meez-ahn-SEN/ _Mise-en-scène_ can refer to the setting of a play, movie, etc., or it can refer to the physical or social setting in which something real occurs or develops.  
 __miserably__ _adv_  
-__mishmash__ _n_ A collection or mixture of unrelated things; a hodgepodge.  
+__mishmash__ _n_ :two: A collection or mixture of unrelated things; a hodgepodge.  
 __misnomer__  
 __misogynoir__ _n_ Hatred of, aversion to, or prejudice against Black women.  
 __missal__ _n_ A book containing all that is said or sung at mass during the entire year.  
@@ -504,6 +516,7 @@ __missus__ _n_
 __misuser__ _n_ __1__ One that misuses: _a misuser of school property._  
 __miter__ _n_ (mitre) A type of headdress worn by archbishops and bishops.  
 __mitochondrion__ _n_ :pencil2: (_npl_ mitochondria)  
+__mocktail__ _n_  
 __moil__ _vi_  
 __moisten__ _v_  
 __mold__ _vt_  
@@ -663,7 +676,7 @@ __ponderous__ _adj_ :two::hammer:
 __pontoon__ _n_  
 __pool__ _n_ __1a__ A game of chance, resembling a lottery, in which the contestants put staked money into a common fund that is later paid to the winner. __b__ A fund containing all the money bet in a game of chance or on the outcome of an event.  
 __popeye__ _n_ /ˈpɒpˌaɪ/  
-__poplar__ _n_ /ˈpɒp lər/ :two::hammer: (poplar tree) :es: álamo, chopo  
+__poplar__ _n_ /ˈpɒp lər/ :three::hammer: (poplar tree) :es: álamo, chopo  
 __porky__ _adj_ __1__ Of or like pork: _a porky flavor._ __2__ _Derogatory Slang_ Fat or corpulent.  
 __port-o-john__ _n_ A portable toilet.  
 __portent__ _n_  
@@ -810,6 +823,7 @@ __sanguineous__ _adj_ Relating to or involving blood or bloodshed. _Syn_ butcher
 __saunter__  
 __scamper__ _n_  
 __scowl__ _v_  
+__skin-crawling__ _adj_ :dart: Horrifying or nauseating, so as to cause a creeping sensation in a person’s skin.  
 __snicker-snack__ _n_ [:scroll: Coined by Lewis Carroll in his poem Jabberwocky, probably relating to snickersnee] An onomatopoeia of unclear meaning, possibly referring to sharpness, or the sound of a blade cutting through something.  
 __snide__ _adj_ :smiling_imp:  
 __snivel__ _v_ /SNIV-ul/  
@@ -828,8 +842,10 @@ __spinning jenny__ _n_ An early spinning machine having more than one spindle, e
 __splutter__ _v_ _I coughed and spluttered._  
 __spoor<sup>1</sup>__ _n_ (Hunting) The trail of an animal or person, esp as discernible to the human eye. _The spoor of blood._  
 __spoor<sup>2</sup>__ _v_ (Hunting) To track (an animal) by following its trail.  
+__sprawl__ _v_ _The hit sent me sprawling to the ground._  
 __stale__ _adj_ :two::hammer: _Stale coffee._  
 __startled__ _adj_  
+__stirred up__ _adj_ Emotionally aroused. _Syn_ stimulated, stirred, aroused  
 __striper__ _n_  
 __stronghold__ _n_  
 __suboptimal__ _adj_  
@@ -856,6 +872,10 @@ __thug__ _n_
 __thunk__ _n_  
 __tiddlywinks__ _n_ A game played on a flat surface, in which players attempt to snap small plastic disks into a cup by pressing the edges of the disks with larger ones.  
 __till__ _n_ :es: caja registradora  
+__tinderbox__ _n_ :dart: __1__ A metal box for holding tinder. __2__ :dart: A person or thing that is highly volatile; any potential source of violence. A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
+__tingling__ _adj_ _Blood stained my tingling fingers._  
+__tingling<sup>1</sup>__ _n_ :es: hormigueo  
+__tingling<sup>2</sup>__ _adj_ :es: a tingling sensation → _una sensación de hormigueo_  
 __tipsy__  
 __tire iron__ _n_ :two: A short length of steel with one end flattened to form a blade, used to remove tires from wheel rims.  
 __to-do__ _n_ :dart: :es: alboroto  
