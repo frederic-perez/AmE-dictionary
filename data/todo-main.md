@@ -16,6 +16,7 @@ __afoot__ _adj, adv_
 __agency__ _n_  
 __agonistic__ _adj_ Striving to overcome in argument. _Syn_ combative _The incumbent’s aggressive, agonistic approach to the debate alienated many of his supporters._  
 __airlock__ _n_ A chamber that provides access to space where air is under pressure. _Syn_ air lock  
+__all-encompassing__ _adj_ Including everything or everyone. _We’re unlikely to find an all-encompassing solution._  
 __allision__ _n_ (_vs_ collision)  
 __allusion__ _n_ /uh-LOO-zhun/  
 __alum__ _n_  
@@ -56,6 +57,7 @@ __Bondo__ _n_ A trademark for a variety of materials used to repair automobile b
 __bookend__ _n_ :camera:  
 __booker__ _n_  
 __boom__ _n_  
+__bosom__ _n_ :two::hammer:  
 __boxwood__ _n_  
 __Bram__ _n_ Short for Abraham, Abram, Bertram.  
 __bran__ _n_  
@@ -169,6 +171,7 @@ __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to de
 __evergreen__ _adj_ /EV-er-green/ _Evergreen_ in its figurative uses describes something, such as a plot, that retains its freshness or interest over a long period of time, or something, such as an issue or concern, that is universally and continually relevant. In botany, _evergreen_ describes foliage that remains green and functional through more than one growing season.  
 __exacerbate__ _vt_  
 __expiration date__ _n_ _A sad song about a relationship that probably has reached its expiration date._  
+__fang__ _n_  
 __fault line__ _n_  
 __fetishist__ _n_ One who engages in fetishism (especially of a sexual nature).  
 __fiasco__ _n_ :dart: A complete failure, esp one that is ignominious or humiliating.  
@@ -197,6 +200,7 @@ __flighty__ _adj_ /ˈflaɪtɪ/
 __flinch__ _vi_ :es: estremecerse; encogerse  
 __fling__ _v_ :two::hammer: (flung)  
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
+__flounder__ _vi_  
 __flyblown__ _adj_ Foul and run-down and repulsive. _Syn_ sordid, squalid _The gang met at a flyblown, grimy little bar on the edge of town to plan its next heist._  
 __fold<sup>1</sup>__ _vt_ __8a__ _informal_ To discontinue operating; close: They had to fold the company a year after they started it. __b__ Games To withdraw (one’s hand) in defeat, as by laying cards face down on a table.  
 __fold<sup>2</sup>__ _vi_  
@@ -224,6 +228,9 @@ __gabby__ _adj_ Tending to talk excessively. _Syn_ chatty, garrulous, loquacious
 __gadabout__ _n_ /GAD-uh-bout/ A gadabout is a person who flits about in social activity, as by going to many places and social events for pleasure.  
 __gaffer__ _n_ __1__ [:scroll: Probably alteration (influenced by _grandfather_) of _godfather_] An electrician in charge of lighting on a movie or television set.  
 __gaggle__ _n_ __2__ _informal_ A disorderly group of people.  
+__gall<sup>1</sup>__ _n_  
+__gall<sup>2</sup>__ _vt_ __1__ To irk or exasperate; vex: _It galled me to have to wait outside._ __2__ To wear away or make sore by abrasion; chafe.  
+__gall<sup>3</sup>__ _vi_ To become worn or sore by abrasion.  
 __galling__ _adj_ :es: mortificante  
 __gallivant__ _vi_ (galivant, galavant)  
 __galvanize__ _v_ :two: /GAL-vuh-nyze/ To galvanize people is to cause them to be so excited or concerned about something that they are driven to action. _The council’s proposal to close the library has galvanized the town’s residents._  
@@ -343,6 +350,8 @@ __horse brass__ _n_ :camera: A decorative brass ornament, usually circular, orig
 __hose__ _n_ :dart: __1__ (Clothing & Fashion) Stockings, socks, and tights collectively.  
 __hostel__ _n_ an inexpensive lodging facility for usually young travelers that typically has dormitory-style sleeping arrangements and sometimes offers meals and planned activities.  
 __hotplate__ _n_ :two::hammer:  
+__hound<sup>1</aup>__ _n_ :es: perro de caza  
+__hound<sup>2</sup>__ _v_ :es: acosar; perseguir  
 __house martin__ _n_ (housemartin)  
 __housing estate__ _n_ A group of often architecturally similar buildings constructed at the same time. Primarily for residential accommodation, estates may also include commercial facilities.  
 __hovel__ _n_ __1__ A small, miserable dwelling. __2__ An open, low shed.  
@@ -419,6 +428,7 @@ __jot<sup>2</sup>__ _vt_
 __Jovian__ _adj_  
 __jubilate__ _v_ To express great joy. _Syn_ exuberate, exult, rejoice, triumph  
 __jubilee__ _n_ :mega: /JOO-buh-lee/  
+__jumpy__ _adj_ __1__ Nervous or apprehensive. __2__ Moving jerkily or fitfully.  
 __juvenile<sup>1</sup>__ _adj_  
 __juvenile<sup>2</sup>__ _n_  
 __lambent__ _adj_ :two::hammer:  
@@ -491,7 +501,7 @@ __mewl__ _vi_ To cry, as a baby, young child, or the like; whimper.
 __miasma__ _n_  
 __microfiche__ _n_ /ˈmaɪ krəˌfiʃ/ A flat sheet of microfilm, containing reproductions of printed or graphic matter.  
 __mid__ _adj_ _Mid_ is a slang term used to describe something or someone as mediocre or of low quality.  
-__midriff__  
+__midriff__ _n_ :two::hammer: /ˈmɪd rɪf/  
 __mild-mannered__ _adj_ Gentle and polite. :es: apacible  
 __mildew__  
 __militia__ _n_ /mɪˈlɪʃ ə/  
@@ -816,6 +826,7 @@ __restraint__ _n_
 __retention__ _n_  
 __riposte__ _n_ A quick reply to a question or remark (especially a witty or critical one). _Syn_ comeback, counter, rejoinder, replication, retort, return  
 __ristretto__ _n_ A “short shot” of a more highly concentrated espresso coffee. It is made with the same amount of ground coffee, but extracted with a finer grind (also in from 20 to 30 seconds) using half as much water.  
+__riven__ _adj_ Torn apart; damaged. _The party was riven with factional fighting._ _Syn_ torn apart, split, rent, ruptured, ripped apart, torn asunder  
 __rod__ _n_  
 __row__ _n_ :astonished: __1__ A noisy or quarrel or disturbance.  
 __rush__ _v_  
@@ -845,6 +856,7 @@ __spoor<sup>2</sup>__ _v_ (Hunting) To track (an animal) by following its trail.
 __sprawl__ _v_ _The hit sent me sprawling to the ground._  
 __stale__ _adj_ :two::hammer: _Stale coffee._  
 __startled__ _adj_  
+__station__ _n_ __1a__ A place or position where a person or thing stands or is assigned to stand; a post: _a sentry station._ _Duty station._ __b__ An area where a person is assigned to work.  
 __stirred up__ _adj_ Emotionally aroused. _Syn_ stimulated, stirred, aroused  
 __striper__ _n_  
 __stronghold__ _n_  
@@ -951,7 +963,7 @@ __wheeddle__ _v_ :smiling_imp:
 __whimper__ _v_  
 __White Russian__ _n_ A decadent and easy-to-make drink with vodka, Kahlúa and cream.  
 __white-hot__ _adj_  
-__whuff__ _v_ (whuffle) To blow noisily.  
+__whuff__ _v_ :two: (whuffle) To blow noisily.  
 __Wiffle ball__ _n_  
 __William__ _n_ (Shortened familiar versions in English include Will, Wills, Willy, Willie, Liam, Bill, and Billy)  
 __Wisconsin__ _n_ :mega: /wɪsˈkɒnsɪn/ /wɪsˈkɒn sən/  

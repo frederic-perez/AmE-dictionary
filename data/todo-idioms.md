@@ -45,6 +45,7 @@ __a necessary evil__ (necessary evil)
 __a piece of cake__  
 __a piece of work__ :smiling_imp: A remarkably difficult, malicious, unpleasant, or objectionable person.  
 __a royal pain__ :dart: Someone or something that causes a large or severe amount of frustration, annoyance, or aggravation. “Royal” is used as an intensifier. _Of course the client has more demands. Ugh, he is a royal pain._  
+__a shade__ A bit; a small amount. _It was just a shade out of tune._  
 __a shiver down (one’s) spine__ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
 __a shot in the dark__ __1__ A guess or estimate with very little or no assurance as to its accuracy. _Well, this is just a shot in the dark, but I’m going to say that the answer to the question is 52._ __2__ An attempt that is not expected to succeed or has very little chance of working. _It was really just a shot in the dark when I tried to fix our washing machine, but I was actually able to get it working again on my first try!_  
 __a small fortune__ (small fortune)  
@@ -227,6 +228,7 @@ __ghost gun__ A gun without serial numbers that cannot be easily tracked, especi
 __give someone or something away__ To reveal a secret about someone or something. _I thought no one knew where I was, but my loud breathing gave me away._ _We know that Billy ate the cherry pie. The cherry juice on his shirt gave him away._  
 __go berserk__  
 __go postal__ :dart: _US informal_ [:scroll: This expression arose as a result of several recorded cases in the USA in which postal-service employees ran amok and shot colleagues] Go mad, especially from stress. Become extremely angry or start behaving in a violent and angry way. _According to one eye witness, the man ‘went postal, and started hitting his computer’_  
+__goob__  
 __green folding__ Paper money, especially in large amounts. _Boy, I bet you had to lay down some serious green folding for that new sports car, huh?_  
 __gun for hire__  
 __have someone’s number__ (have (got) (one’s) number)  
@@ -687,6 +689,7 @@ __on the verge of (doing) (something)__
 __on the verge of__  
 __on the whole__ Considering everything together; in general or for the most part.  
 __on-site__  
+__pin down__  
 __ruffle a few feathers__ To do something which annoys, irritates, or upsets other people. _I know my presentation about the effects of climate change is going to ruffle a few feathers, but I have got to raise awareness about this issue!_  
 __run afoul of (someone or something)__  
 __run the gauntlet__ To be exposed to or forced to endure a series of threats, dangers, criticism, or other problems. Refers to an old military punishment in which one was forced to run between two lines of soldiers while being thrashed with rods or whips. _Medical students often feel that they have to run the gauntlet when they become residents in a hospital._  
@@ -881,6 +884,7 @@ __the likes of you__
 __the lion’s den__  
 __the party is over__ A period of excitement, success, jubilation, or opulence has changed to a period of sobriety, calm, reflection, or regret.  
 __the powers that be__ :dart::three:  
+__the real deal__  
 __the rundown__ (give (someone) (a/the) rundown) To tell someone details about or a brief summary of a given event or situation.  
 __the short and the long of it__ The essential or most important point being made; the plain truth of the matter. _There are a lot of reasons I don’t want to go, but the short and the long of it is that I don’t want to see my ex-boyfriend there._  
 __the upper crust__  

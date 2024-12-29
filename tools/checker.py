@@ -288,6 +288,7 @@ class Checker(object):
         self.filename = filename
         self.num_composite_headwords: int = 0
         self.num_displaced_part_of_speech: int = 0
+        self.num_empty_entries: int = 0
         self.num_entries_with_triple_spaces: int = 0
         self.num_entries_with_wrong_type_of_space_character: int = 0
         self.num_entries_with_tab_character: int = 0
@@ -309,6 +310,12 @@ class Checker(object):
         self.num_wrong_part_of_speech: int = 0
 
     # TODO: Refactor methods below to reduce code duplication
+    def treat_empty_entry(self) -> None:
+        """Self-explanatory"""
+        self.num_empty_entries += 1
+        print(OK_BLUE + BOLD + '(empty)' + END_C + FAIL + ' « Empty entry #'
+              + str(self.num_empty_entries) + END_C)
+
     def treat_invalid_entry_ending(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_invalid_endings += 1
@@ -448,6 +455,9 @@ class Checker(object):
 
     def check_entry(self, entry: str, do_check_parts_of_speech: bool) -> None:
         """Looking and tallying mistakes in a particular entry of the dictionary"""
+        if not entry:
+            self.treat_empty_entry()
+            return  # No need to check further
         if not valid_entry_ending(entry):
             self.treat_invalid_entry_ending(entry)
         if not valid_use_of_underscores(entry):
@@ -519,7 +529,8 @@ class Checker(object):
 
         input_file.close()
         num_failures: Final[int] = (
-            self.num_displaced_part_of_speech
+            self.num_empty_entries
+            + self.num_displaced_part_of_speech
             + self.num_invalid_endings
             + self.num_invalid_tags
             + self.num_invalid_use_of_underscores
@@ -546,6 +557,7 @@ class Checker(object):
         else:
             print('\n' + HEADER + 'Summary of issues found' + END_C)
             print(HEADER + '-----------------------' + END_C)
+            print_colored_if_positive("Empty entries", self.num_empty_entries)
             print_colored_if_positive("Entries with displaced part of speech",
                                       self.num_displaced_part_of_speech)
             print_colored_if_positive('Entries with invalid ending', self.num_invalid_endings)
@@ -695,9 +707,10 @@ def check(arg, do_check_parts_of_speech: bool) -> None:
         '🔵 ' + OK_BLUE + "Checking " + UNDERLINE + filename + END_C + OK_BLUE + " with do_check_parts_of_speech = "
         + str(do_check_parts_of_speech) + END_C)
     checker: Final = Checker(filename)
-    checker.check_entries(do_check_parts_of_speech)
-    checker.check_duplicated_headwords()
-    checker.check_undef_high_freq_keywords()
+    succeeded = checker.check_entries(do_check_parts_of_speech)
+    succeeded = succeeded and checker.num_empty_entries == 0
+    succeeded = checker.check_duplicated_headwords() if succeeded else False
+    checker.check_undef_high_freq_keywords() if succeeded else False
 
 
 def usage_and_abort(prog_name: str, valid_arguments: list[str]) -> None:

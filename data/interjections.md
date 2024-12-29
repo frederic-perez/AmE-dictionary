@@ -73,6 +73,7 @@ __ooh__ _intej_ :mega: /uː/ An exclamation of surprise, pleasure, pain, etc.
 __oops__ :two: Used to express mild dismay, chagrin, surprise, etc., as at one’s own mistake, a clumsy act, or social blunder.  
 __ouch__  
 __over__ Used in two-way radio to indicate that a transmission is complete and a reply is awaited.  
+__ow__ /aʊ/ /ou/ Used especially in response to sudden pain.  
 __oy__ :three: Used especially to express irritation, dismay, sorrow, or self-pity. _Oy. Way to ruin a great talk._  
 __pfft__ (phfft) Used to express or indicate a dying or fizzling out. Used to express or indicate a usually sudden disappearance or ending.  
 __phew__ :two: Used to express relief, fatigue, surprise, or disgust.  
