@@ -286,6 +286,7 @@ class Checker(object):
 
     def __init__(self, filename: str) -> None:
         self.filename = filename
+        self.line_number: int = 0
         self.num_composite_headwords: int = 0
         self.num_displaced_part_of_speech: int = 0
         self.num_empty_entries: int = 0
@@ -313,8 +314,8 @@ class Checker(object):
     def treat_empty_entry(self) -> None:
         """Self-explanatory"""
         self.num_empty_entries += 1
-        print(OK_BLUE + BOLD + '(empty)' + END_C + FAIL + ' « Empty entry #'
-              + str(self.num_empty_entries) + END_C)
+        print(FAIL + 'Empty entry #'
+              + str(self.num_empty_entries) + ' (line ' + str(self.line_number) + ')' + END_C)
 
     def treat_invalid_entry_ending(self, entry: str) -> None:
         """Self-explanatory"""
@@ -455,7 +456,8 @@ class Checker(object):
 
     def check_entry(self, entry: str, do_check_parts_of_speech: bool) -> None:
         """Looking and tallying mistakes in a particular entry of the dictionary"""
-        if not entry:
+        self.line_number += 1
+        if not entry or entry.isspace():
             self.treat_empty_entry()
             return  # No need to check further
         if not valid_entry_ending(entry):
@@ -702,7 +704,8 @@ def format_to_print(entry: str) -> str:
 
 
 def check(arg, do_check_parts_of_speech: bool) -> None:
-    filename: Final[str] = '../data/' + arg + ".md"
+    home_directory: Final[str] = os.path.expanduser("~").replace("\\", "/")
+    filename: Final[str] = home_directory + '/hats/fpcx-GitHub/AmE-dictionary/data/' + arg + ".md"
     print(
         '🔵 ' + OK_BLUE + "Checking " + UNDERLINE + filename + END_C + OK_BLUE + " with do_check_parts_of_speech = "
         + str(do_check_parts_of_speech) + END_C)

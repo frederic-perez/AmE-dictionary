@@ -34,56 +34,6 @@ __a legend in (one’s) own lifetime__ A person who has an extraordinary level o
 __a legend in (one’s) own mind__ A person who affects or believes that they are of greater importance or notoriety than is actually the case. A humorous, ironic twist on the phrase “a legend in one’s own lifetime.” _The assistant manager acts as if she’s the only one keeping the company together. She’s a regular legend in her own mind._  
 __a license to print money__ An activity, business model, or company that yields very high profits but requires little or no effort to do so. _All these hefty parking fees and fines are just a license to print money for the city._  
 __a little from column A, a little from column B__ Having been formed from two distinct factors, elements, or reasons. _She asked me if I drew more from real life or from my imagination when writing; in truth, it’s a little from column A and a little from column B._  
-__a little leery__ :two: Cautious, wary, or uncertain of a given person, place, or thing. _To be honest, I’m a little leery of signing up for this deal; it sounds too good to be true._  
-__a living legend__ A person who has an extraordinary reputation or level of fame while they are still alive. _The singer has made such a huge impact on the world of blues that she’s come to be a living legend._  
-__a living soul__ A person (who is alive). (Often used in the negative to mean “nobody.”) _Each living soul one meets is a chance to gain a new perspective on life._  
-__a load of bunk__ :es: tontería  
-__a long shot__ :dart::two::hammer:  
-__a mite__ :dart: To a small degree; somewhat: _That remark was a mite unfair._ _This sounds a mite grandiose._  
-__a motor mouth__ A person who talks incessantly or irrepressibly.  
-__a necessary evil__ (necessary evil)  
-__a piece of cake__  
-__a piece of work__ :smiling_imp: A remarkably difficult, malicious, unpleasant, or objectionable person.  
-__a royal pain__ :dart: Someone or something that causes a large or severe amount of frustration, annoyance, or aggravation. “Royal” is used as an intensifier. _Of course the client has more demands. Ugh, he is a royal pain._  
-__a shade__ A bit; a small amount. _It was just a shade out of tune._  
-__a shiver down (one’s) spine__ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
-__a shot in the dark__ __1__ A guess or estimate with very little or no assurance as to its accuracy. _Well, this is just a shot in the dark, but I’m going to say that the answer to the question is 52._ __2__ An attempt that is not expected to succeed or has very little chance of working. _It was really just a shot in the dark when I tried to fix our washing machine, but I was actually able to get it working again on my first try!_  
-__a small fortune__ (small fortune)  
-__a stab in the back__ A betrayal; an act of treachery.  
-__a stone’s throw__ :two: A very short distance.  
-__a stranger to (someone or something)__ Someone who experience or knowledge of something. Often used in negative constructions. _She’s rather much a stranger to cosmetics._  
-__a tough pill to swallow__ A difficult or unpleasant truth to accept. Ellroy’s characters often face harsh, uncomfortable realities, and this idiom is perfect for moments when they come to grips with painful truths.  
-__a word of warning__ :two: Information about possible danger or trouble.  
-__abound in__ To be abundant or plentiful with. _In the spring, the fields abound in blooming tulips._  
-__abound with__ To be brimming with something plentiful: _The lake by the cabin abounds with fish._  
-__above and beyond__ _Valorous actions above and beyond the call of duty._  
-__according to (someone or something)__  
-__ace in the hole__ :two::hammer:  
-__across the board__ :two::hammer:  
-__again and again__ Constantly or repeatedly. _The phone rang again and again until I finally answered it._  
-__ahead of (someone or something)__  
-__aid and abet__ To assist someone, usually in a mischievous or illegal activity.  
-__Aladdin’s cave__ The idiom “Aladdin’s cave” refers to a place filled with a vast collection of valuable, interesting, or unusual objects.  
-__all and sundry__ Everyone; one and all. _Cold drinks were served to all and sundry._  
-__all hands on deck__  
-__all hell broke loose__ All sorts of wild or terrible things happened. _When the boss left early for the weekend, all hell broke loose._  
-__all in all__  
-__all of a sudden__  
-__all things considered__  
-__an earful__  
-__an eye for an eye__  
-__and so on and so forth__  
-__at odds with (oneself)__  
-__be partial to (someone or something)__ _I’ve always been partial to the good news._  
-__cash poor__ Having very little fluid capital due to one’s financial wealth being derived from or invested in long-term assets. _I can’t afford transactions like that right now. All my wealth is tied up in real estate, so I’m a bit cash poor at the moment._  
-__cast in concrete__ Firmly or permanently established; not subject to change; unalterable.  
-__castle in the air__  
-__castles in the air__  
-__catch one’s breath__ (catch (one’s) breath)  
-__Catch-22__  
-__cavalry__ _figurative_ Source of rescue, especially in an emergency.  
-__chalk up__  
-__chase the dragon__ :dart: To smoke a controlled substance, often heroin. _I can’t chase the dragon anymore—I’m trying to get away from that stuff._  
 __check on (someone or something)__ To check the status, condition, or well-being of someone or something through an inspection or visit. _We need to check on Grandma and see how she is coping with all this snow._  
 __check someone or something out__  
 __cheddar__ _slang_ Money. _I’m all out of cheddar—can I borrow a few bucks?_  
