@@ -273,19 +273,26 @@ def entry_has_displaced_part_of_speech(entry: str) -> bool:
     return False
 
 
+def overwrite_previous_line(message: str) -> None:
+    # Move the cursor up one line
+    print("\033[F", end="")
+    # Overwrite the line with the new message
+    print(message)
+
+
 class Checker(object):
     """The class Checker encapsulates all functionalities to check the dictionary"""
-    filename: Final[str]
+    full_path: Final[str]
 
-    def __new__(cls, filename: str) -> 'Checker':
-        if not filename:
-            raise ValueError('Filename should not be empty')
-        if not os.path.exists(filename):
+    def __new__(cls, full_path: str) -> 'Checker':
+        if not full_path:
+            raise ValueError('full_path should not be empty')
+        if not os.path.exists(full_path):
             raise IOError('File does not exist')
         return object.__new__(cls)
 
-    def __init__(self, filename: str) -> None:
-        self.filename = filename
+    def __init__(self, full_path: str) -> None:
+        self.full_path = full_path
         self.line_number: int = 0
         self.num_composite_headwords: int = 0
         self.num_displaced_part_of_speech: int = 0
@@ -521,9 +528,9 @@ class Checker(object):
     def check_entries(self, do_check_parts_of_speech: bool) -> bool:
         """Looking for mistakes in the entries of the dictionary
 
-        Reads the contents of self's filename checking every single entry
+        Reads the contents of self's full_path checking every single entry
         """
-        input_file: Final = open(self.filename, 'r', encoding='utf-8')
+        input_file: Final = open(self.full_path, 'r', encoding='utf-8')
 
         for line in input_file:
             entry: str = line.replace('\n', '')
@@ -553,10 +560,7 @@ class Checker(object):
             + self.num_wrong_part_of_speech
             + self.num_wrong_nine_m)
         succeeded: Final[bool] = num_failures == 0
-        if succeeded:
-            print('✅ ' + OK_GREEN + 'No entries-related problems were found in file \''
-                  + self.filename + '\'' + END_C)
-        else:
+        if not succeeded:
             print('\n' + HEADER + 'Summary of issues found' + END_C)
             print(HEADER + '-----------------------' + END_C)
             print_colored_if_positive("Empty entries", self.num_empty_entries)
@@ -592,7 +596,7 @@ class Checker(object):
 
     def check_duplicated_headwords(self) -> bool:
         """Self-explanatory"""
-        input_file: Final = open(self.filename, 'r', encoding='utf-8')
+        input_file: Final = open(self.full_path, 'r', encoding='utf-8')
 
         repeated: dict[str, str] = {}
         dictionary: dict[str, int] = {}
@@ -618,13 +622,11 @@ class Checker(object):
                 i += 1
                 if i == 10:
                     break  # exit loop
-        else:
-            print('✅ ' + OK_GREEN + 'No duplicated headwords were found' + END_C)
         return size == 0
 
     def check_undef_high_freq_keywords(self) -> bool:
         """Self-explanatory"""
-        input_file: Final = open(self.filename, 'r', encoding='utf-8')
+        input_file: Final = open(self.full_path, 'r', encoding='utf-8')
 
         undefined: dict[str, str] = {}
 
@@ -655,8 +657,6 @@ class Checker(object):
                 i += 1
                 if i == max_high_frequency_headwords_shown:
                     break
-        else:
-            print('✅ ' + OK_GREEN + 'No undefined high frequency headwords were found' + END_C)
 
         return size == 0
 
@@ -705,15 +705,16 @@ def format_to_print(entry: str) -> str:
 
 def check(arg, do_check_parts_of_speech: bool) -> None:
     home_directory: Final[str] = os.path.expanduser("~").replace("\\", "/")
-    filename: Final[str] = home_directory + '/hats/fpcx-GitHub/AmE-dictionary/data/' + arg + ".md"
+    full_path: Final[str] = home_directory + '/hats/fpcx-GitHub/AmE-dictionary/data/' + arg + ".md"
+    filename: Final[str] = os.path.basename(full_path)
     print(
         '🔵 ' + OK_BLUE + "Checking " + UNDERLINE + filename + END_C + OK_BLUE + " with do_check_parts_of_speech = "
-        + str(do_check_parts_of_speech) + END_C)
-    checker: Final = Checker(filename)
+        + str(do_check_parts_of_speech) + END_C, flush=False)
+    checker: Final = Checker(full_path)
     succeeded = checker.check_entries(do_check_parts_of_speech)
-    succeeded = succeeded and checker.num_empty_entries == 0
-    succeeded = checker.check_duplicated_headwords() if succeeded else False
-    checker.check_undef_high_freq_keywords() if succeeded else False
+    succeeded = succeeded and checker.check_duplicated_headwords()
+    succeeded = succeeded and checker.check_undef_high_freq_keywords()
+    overwrite_previous_line('✅') if succeeded else None
 
 
 def usage_and_abort(prog_name: str, valid_arguments: list[str]) -> None:
@@ -724,10 +725,7 @@ def usage_and_abort(prog_name: str, valid_arguments: list[str]) -> None:
 
 def main(prog_name: str, argv: list[str]) -> None:
     num_arguments: Final[int] = len(argv)
-    print('🔵 ' + OK_BLUE + prog_name + ': Number of arguments: ' + str(num_arguments) + END_C)
-    if num_arguments > 0:
-        print('🔵 ' + OK_BLUE + prog_name + ': Argument list: ' + str(argv) + END_C)
-
+    print(OK_CYAN + 'ℹ️ #arguments: ' + str(num_arguments) + ' ' + str(argv) + END_C)
     valid_arguments: Final[list[str]] = [
         "abbreviations+", "dictionary", "Ellroy's-lingo", "idioms", "interjections", "todo-idioms", "todo-main",
         "top-dictionary", "top-idioms", "wip", "_wip"]

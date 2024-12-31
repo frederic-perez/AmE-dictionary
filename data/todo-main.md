@@ -2,7 +2,7 @@ __A pager__ _n_ A simple wireless communications device that receives text messa
 __abhor__ _v_  
 __abhorrent__ _adj_  
 __ablutions__ _n pl_  
-__abode__ _n_  
+__abode__ _n_ :two: __1__ A dwelling place; a home. __2__ The act of abiding; a sojourn.  
 __abound__ _vi_  
 __abstruse__ _adj_ Difficult to understand. _Syn_ deep, recondite  
 __accessory__ _adj, n_ :mega: /ækˈsɛs ə ri/ /ak-ses–uh-ree/  
@@ -42,6 +42,7 @@ __bay<sup>1</sup>__ _n_ :two::hammer:
 __bay<sup>2</sup>__ _vi_ :two: To howl, esp. with a deep, prolonged sound: _a hound baying at the moon._  
 __bay<sup>3</sup>__ _vt_ __1__ To utter in a loud prolonged tone. __2__ To drive to or hold at bay.  
 __beatific__ _adj_ /bee-uh-TIFF-ik/ _Beatific_ is a formal word that describes something or someone having a blissful appearance or showing complete happiness. _As the pair danced, beatific smiles on their faces, the audience sat hushed and almost reverential._  
+__bereaved__ _adj_  
 __better__ _v_  
 __biddy__ _n_ __2__ A woman, especially an older one who is extremely talkative.  
 __biology__ _n_ :mega: /baɪˈɒl ə dʒi/  
@@ -124,20 +125,26 @@ __closehanded__ _adj_ Covetous; penurious; stingy; closefisted.
 __colander__ _n_ /KUH/KAH-luhn-duhr/ (cullender) A utensil with perforations, used for straining or draining foods.  
 __colonel__ _n_ :mega: /ˈkɜr nl/ /kur-nl/  
 __compact__ _n_ :astonished: An agreement or a covenant. _He has made a compact with me._  
+__compel__ _vt_ _I began to compel it by the Holy Word._  
 __complaisant__ _adj_ /kum-PLAY-sunt/ Someone described as complaisant is willing or eager to please other people, or is easily convinced to do what other people want.  
 __condescension__ _n_ A communication that indicates lack of respect by patronizing the recipient. _Syn_ disdain, patronage  
+__condone__ _v_ /kun-DOHN/ To condone something that is considered wrong is to forgive or approve it, or to allow it to continue. _We cannot condone that kind of behavior._  
 __congeal__ _v_ Become gelatinous. _Syn_ jell, set  
 __conscript__ _n_ A conscripted person (such as a military recruit).  
 __contrite__  
 __convene__ _v_  
 __convivial__ _adj_ /kənˈvɪv i əl/  
+__countervail__ _v_ Oppose and mitigate the effects of by contrary actions. _Syn_ counteract, counterbalance, neutralize  
 __covenant__  
 __cower__ _v_  
 __crease<sup>1</sup>__ _n_ __1__ A line or mark produced by folding, pressing, or wrinkling. __2__ A wrinkle or furrow, esp on the face.  
 __crease<sup>2</sup>__ _vt_  
 __crease<sup>3</sup>__ _vi_  
+__deceit__  
 __demesne__ _n_  
+__doyen__ _n_ :two: (doyenne) The senior member of a group, profession, or society. _Syn_ dean  
 __drawl__ _v_  
+__dreaded__ _adj_  
 __dreadful__ _adj_  
 __dreary__ _adj_  
 __drifter__ _n_ :es: vagabundo  
@@ -173,6 +180,7 @@ __exacerbate__ _vt_
 __expiration date__ _n_ _A sad song about a relationship that probably has reached its expiration date._  
 __fang__ _n_  
 __fault line__ _n_  
+__feisty__ _adj_ :astonished: /FYE-stee/ _Feisty_ describes someone who has or shows a lively aggressiveness especially in being unafraid to fight or argue. In some regions of the US, _feisty_ may also be used as a synonym of _fidgety_, _quarrelsome_, or _frisky_. _Even her opponents admire her feisty spirit._  
 __fetishist__ _n_ One who engages in fetishism (especially of a sexual nature).  
 __fiasco__ _n_ :dart: A complete failure, esp one that is ignominious or humiliating.  
 __finagling__ _n_ :smiling_imp: /fɪˈneɪɡlɪŋ/ The use of trickery or craftiness to achieve one’s aims.  
@@ -200,6 +208,7 @@ __flighty__ _adj_ /ˈflaɪtɪ/
 __flinch__ _vi_ :es: estremecerse; encogerse  
 __fling__ _v_ :two::hammer: (flung)  
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
+__florid__ _adj_ :two: __1__ Flushed with rosy color; ruddy. _A florid face._  
 __flounder__ _vi_  
 __flyblown__ _adj_ Foul and run-down and repulsive. _Syn_ sordid, squalid _The gang met at a flyblown, grimy little bar on the edge of town to plan its next heist._  
 __fold<sup>1</sup>__ _vt_ __8a__ _informal_ To discontinue operating; close: They had to fold the company a year after they started it. __b__ Games To withdraw (one’s hand) in defeat, as by laying cards face down on a table.  
@@ -345,6 +354,7 @@ __holly__ _n_ _Holly plants are still common during Christmas today, and it is h
 __home turf__ _n_ _informal_ One’s familiar surroundings or habitat.  
 __hometown__ _n_ The town or city of one’s birth, rearing, or main residence.  
 __honors__  
+__hoodwink__ _v_ :smiling_imp: To deceive or swindle by deception. _Syn_ trick, fool, cheat, con _You don’t understand that what imposes on common folk would never hoodwink an editor._  
 __hoover__  
 __horse brass__ _n_ :camera: A decorative brass ornament, usually circular, originally attached to a horse’s harness.  
 __hose__ _n_ :dart: __1__ (Clothing & Fashion) Stockings, socks, and tights collectively.  
@@ -431,6 +441,7 @@ __jubilee__ _n_ :mega: /JOO-buh-lee/
 __jumpy__ _adj_ __1__ Nervous or apprehensive. __2__ Moving jerkily or fitfully.  
 __juvenile<sup>1</sup>__ _adj_  
 __juvenile<sup>2</sup>__ _n_  
+__lair__ _n_  
 __lambent__ _adj_ :two::hammer:  
 __Latin cross__ _n_ A cross with a shorter horizontal bar intersecting a longer vertical bar above the midpoint.  
 __legion<sup>1</sup>__ _n_  
@@ -450,10 +461,13 @@ __limerence__ _n_ The state of being obsessively infatuated with someone, usuall
 __limestone__  
 __liminal__ _adj_ :two: /LIM-uh-nul/ _Liminal_ is a formal word most often used to describe an intermediate state, phase, or condition. It can also describe something that is barely perceptible or barely capable of eliciting a response.  
 __limpid__ _adj_ /LIM-pid/ _Limpid_ describes things that are perfectly transparent or clear, or that are simple in style.  
+__linchpin__ _n_ /LINCH-pin/  
 __lockdown__ _n_ /ˈlɒkˌdəʊn/  
+__lug__ _v_  
 __lycanthrope__ _n_  
 __macabre__ _adj_  
 __macaronic__ _adj_ :astonished: __1__ Characterized by Latin words mixed with non-Latin words often given Latin endings. __2__ Composed of a mixture of languages.  
+__machine learning__ _n_ :mega: /məˈʃiːn ˈlɜːrnɪŋ/  
 __machtpolitik__ _n_ /MAHKHT-pol-ee-teek/ Power politics: policies that advocate the use of power and physical force to attain their goals.  
 __mage__ _n_  
 __maggot__ _n_ :two: __1__ The legless, soft-bodied, wormlike larva of any of various dipteran flies, often found in decaying matter. :es: gusano  
@@ -473,6 +487,7 @@ __mangy__ _adj_
 __manifesto__ _n_ A written statement declaring publicly the intentions, motives, or views of its issuer.  
 __mannequin__ _n_ :astonished: A woman who wears clothes to display fashions. _Syn_ model  
 __mantel__ _n_ The protruding shelf over a fireplace. _Syn_ chimneypiece, mantelpiece  
+__mantic__ _adj_ Of, relating to, or having the power of divination; prophetic. _Syn_ divinatory, sibyllic, sibylline, vatic  
 __mantra yoga__ _n_ A meditation practice that focuses on chanting sacred syllables along with conscious breathing and a meditative focus to quiet the mind, cultivate spiritual energy, and create states of enlightenment.  
 __mar__ _vt_  
 __marauding__ _adj_  
@@ -550,6 +565,7 @@ __motormouth__ _n_ :two: _slang_ A garrulous person.
 __mull<sup>1</sup>__ _vt_ /mŭl/ To think about extensively; ponder. __1__ __2__ To heat and spice (wine, for example).  
 __mull<sup>2</sup>__ _vi_ /mŭl/ To ruminate; ponder: _mull over a plan._  
 __mulled wine__ _n_ Wine heated with sugar and spices and often citrus fruit.  
+__mullet__ _n_ /ˈmʌlɪt/ __1__ An edible fish found in coastal waters. :es: salmonete __2__ A hairstyle in which the hair is short at the top and long at the back.  
 __multilateralism__ _n_ The practice of promoting trade among several countries through agreements concerning quantity and price of commodities, as the Common Market, and, sometimes, restrictive tariffs on goods from outsiders.  
 __nail clipper__ _n_ (also called nail clippers, a nail trimmer, a nail cutter or nipper type) A hand tool used to trim fingernails, toenails and hangnails.  
 __nape__ _n_  
@@ -800,6 +816,7 @@ __reckless__ _adj_
 __recluse__ _n_ :es: ermitaño  
 __recompense__ _n_  
 __recrudescence__ _n_  
+__rectory__ _n_  
 __recumbent__ _adj_  
 __recurring__ _adj_ Coming back. _Syn_ revenant  
 __red-hot__ _adj_ __2__ Heated, as with excitement, anger, or enthusiasm: _a red-hot speech._ _The red-hot property market._  
@@ -821,6 +838,7 @@ __render__ _vt_ __2__ To cause to become; make: _The news rendered her speechles
 __repent__ _v_ _He would repent and confess his sins._  
 __reprieve__ _n_  
 __reputedly__ _adv_ /rɪˈpjuːtɪdlɪ/ According to general belief or supposition: _the reputedly excellent food._  
+__requite__ _v_ /rih-KWYTE/ To requite is to give or do something in return for something that another person has given or done, or for a benefit or service that has been provided.  
 __restrain__ _v_  
 __restraint__ _n_  
 __retention__ _n_  
@@ -830,6 +848,7 @@ __riven__ _adj_ Torn apart; damaged. _The party was riven with factional fightin
 __rod__ _n_  
 __row__ _n_ :astonished: __1__ A noisy or quarrel or disturbance.  
 __rush__ _v_  
+__sacrilegious__ _adj_ Grossly irreverent toward what is or is held to be sacred. _Syn_ blasphemous, profane  
 __sanguineous__ _adj_ Relating to or involving blood or bloodshed. _Syn_ butcherly, gory, slaughterous  
 __saunter__  
 __scamper__ _n_  
@@ -857,6 +876,7 @@ __sprawl__ _v_ _The hit sent me sprawling to the ground._
 __stale__ _adj_ :two::hammer: _Stale coffee._  
 __startled__ _adj_  
 __station__ _n_ __1a__ A place or position where a person or thing stands or is assigned to stand; a post: _a sentry station._ _Duty station._ __b__ An area where a person is assigned to work.  
+__statuary__ _n_  
 __stirred up__ _adj_ Emotionally aroused. _Syn_ stimulated, stirred, aroused  
 __striper__ _n_  
 __stronghold__ _n_  
@@ -885,9 +905,8 @@ __thunk__ _n_
 __tiddlywinks__ _n_ A game played on a flat surface, in which players attempt to snap small plastic disks into a cup by pressing the edges of the disks with larger ones.  
 __till__ _n_ :es: caja registradora  
 __tinderbox__ _n_ :dart: __1__ A metal box for holding tinder. __2__ :dart: A person or thing that is highly volatile; any potential source of violence. A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
-__tingling__ _adj_ _Blood stained my tingling fingers._  
 __tingling<sup>1</sup>__ _n_ :es: hormigueo  
-__tingling<sup>2</sup>__ _adj_ :es: a tingling sensation → _una sensación de hormigueo_  
+__tingling<sup>2</sup>__ _adj_ :three::hammer: _Blood stained my tingling fingers._ _A tingling sensation._ :es: a tingling sensation → _una sensación de hormigueo_  
 __tipsy__  
 __tire iron__ _n_ :two: A short length of steel with one end flattened to form a blade, used to remove tires from wheel rims.  
 __to-do__ _n_ :dart: :es: alboroto  
@@ -926,7 +945,7 @@ __unthinkable__
 __uppity__ _adj_ _informal_ Haughtily arrogant, conceited, or self-important.  
 __uptight__ _adj_  
 __Uranus__ _n_ :mega: /jʊˈreɪnəs; ˈjʊrənəs/  
-__urbane__ _adj_ :astonished:  
+__urbane__ _adj_ :astonished::two: /er-BAYN/ Someone described as urbane is notably polite, confident, or polished in manner. _Urbane_ is also used to describe things that are fashionable and somewhat formal.  
 __usher in__  
 __Vandyke beard__ _n_ A short, pointed beard, especially one worn with the cheeks shaven and a mustache.  
 __veil<sup>1</sup>__ _n_  
@@ -960,7 +979,7 @@ __well<sup>2</sup>__ _vi_ __1__ To rise to the surface, ready to flow: _Tears we
 __well<sup>3</sup>__ _vt_  
 __wharf__ _n_ A platform built out from the shore into the water and supported by piles; provides access to ships and boats. _Syn_ pier, wharfage, dock  
 __wheeddle__ _v_ :smiling_imp:  
-__whimper__ _v_  
+__whimper__ _v_ :two::hammer:  
 __White Russian__ _n_ A decadent and easy-to-make drink with vodka, Kahlúa and cream.  
 __white-hot__ _adj_  
 __whuff__ _v_ :two: (whuffle) To blow noisily.  
@@ -975,6 +994,7 @@ __womanize__ _v_ (womanise)
 __wonderful__ _adj_ :mega::astonished: /ˈwʌn dər fəl/  
 __wondrous__ _adj_  
 __Worcestershire__ _n_ (sauce) /woos-ter-sheer/  
+__write__ _v_  
 __writhing__ _adj_ Moving in a twisting or snake-like or wormlike fashion.  
 __wrought-iron__  
 __wry__  
