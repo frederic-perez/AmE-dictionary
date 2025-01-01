@@ -35,11 +35,13 @@ __a legend in (one’s) own mind__ A person who affects or believes that they ar
 __a license to print money__ An activity, business model, or company that yields very high profits but requires little or no effort to do so. _All these hefty parking fees and fines are just a license to print money for the city._  
 __a little from column A, a little from column B__ Having been formed from two distinct factors, elements, or reasons. _She asked me if I drew more from real life or from my imagination when writing; in truth, it’s a little from column A and a little from column B._  
 __a long row to hoe__ [:scroll: This metaphor comes from nineteenth-century America, when most people lived in rural areas and cultivated at least some land.] A difficult course to follow; hard work to accomplish. A particularly difficult or problematic task, situation, or set of circumstances to contend with or confront. _Immigration reform was one of the new president’s primary campaign promises, but it will likely prove a long row to hoe, given the deep divisions in Congress._  
+__ace__  
 __all too soon__ The idiom “all too soon” means that something happened much earlier than expected or desired, often with a sense of regret or disappointment. It conveys the idea that an event occurred prematurely or that a positive experience ended quickly. “The holidays were over all too soon,” implies that the speaker wished the holidays had lasted longer. “Graduation came all too soon,” suggests that the speaker felt unprepared for the end of their schooling.  
 __at length__  
 __baby blues__ __1__ A usually brief period of sadness, anxiety, and mood swings experienced by a large percentage of women after giving birth. _When I had the baby blues after having my first child, I would find myself crying without knowing why._ __2__ Blue eyes, especially those that are light blue. _I just had to ask for Sean’s number after I got a glimpse of his baby blues—I’d never seen such striking eyes before!_  
 __bagel bender__  
 __be a long shot__ To be very risky, uncertain, or unlikely to succeed, as of an attempt, proposition, or guess. _I know this is a long shot, but would you like to go out on a date with me sometime?_  
+__beanpole__ One who is very skinny. _Susie is such a beanpole now that she’s had her growth spurt._  
 __check on (someone or something)__ To check the status, condition, or well-being of someone or something through an inspection or visit. _We need to check on Grandma and see how she is coping with all this snow._  
 __check someone or something out__  
 __cheddar__ _slang_ Money. _I’m all out of cheddar—can I borrow a few bucks?_  
@@ -68,6 +70,7 @@ __come to terms with (someone or something)__
 __come to terms with__  
 __come to terms__  
 __coming-of-age__  
+__compounded interest__  
 __construe (something) as (something)__ :dart: To view or interpret something in a particular way. _Although I believe that he’s innocent, I can see how one could easily construe his actions as a crime._  
 __contend with (someone or something)__  
 __coochie__  
@@ -109,6 +112,7 @@ __do-rag__ A scarf, bandana, or similar item tied around the head as a covering.
 __don’t ask me__  
 __don’t get me started__  
 __don’t give a rat’s ass__  
+__don’t mention it__  
 __doom and gloom__  
 __double duty__  
 __double whammy__ A situation in which two negative things happen at the same time or in rapid succession. _Jack suffered a double whammy when his car broke down the same day he lost his job._  
@@ -185,6 +189,7 @@ __for all practical purposes__ (for (all) practical purposes) In reality; basica
 __foul play__ Unspecified criminal or unscrupulous actions, especially violence when stated as the potential cause of a death or disappearance. _That actor actually died of a heart attack—there was no foul play after all._  
 __freaking__ _mod._ Damned. (Euphemistic for fucking. Usually objectionable.) _Get your freaking socks off my bed!_  
 __full stop__  
+__get a handle on (something)__ To have a firm, clear understanding or determination of something.  
 __ghost gun__ A gun without serial numbers that cannot be easily tracked, especially a home-made gun built with non-registered, partially finished or 3D printed components.  
 __give someone or something away__ To reveal a secret about someone or something. _I thought no one knew where I was, but my loud breathing gave me away._ _We know that Billy ate the cherry pie. The cherry juice on his shirt gave him away._  
 __go berserk__  
@@ -194,6 +199,7 @@ __green folding__ Paper money, especially in large amounts. _Boy, I bet you had 
 __gun for hire__  
 __have someone’s number__ (have (got) (one’s) number)  
 __hear out__ (hear someone out)  
+__hear the end of (someone or something)__  
 __heart of gold__  
 __heart to heart__ Candidly, sincerely, as in _We need to talk heart to heart about her coming marriage._ This expression is nearly always applied to a conversation of some kind.  
 __heart-to-heart__  
@@ -216,6 +222,8 @@ __hit the ground running__
 __hit the nail on the head__  
 __hit the sack__  
 __hit-and-run__ :smiling_imp:  
+__hiya doin’__ A colloquial pronunciation and spelling of “How (are) you doing?” Used as a friendly and informal greeting. Primarily heard in US.  
+__hiya__ An informal term of greeting.  
 __hoity-toity__ Pretentiously arrogant, haughty, or self-important. _We don’t need some hoity-toity academic coming in and telling us how to run our business!_  
 __hold my beer__  
 __hold the line__  
@@ -546,6 +554,7 @@ __mooch off (of) (someone or something)__ To ask for or obtain (something) throu
 __more haste, less speed__ :es: vísteme despacio que tengo prisa  
 __more often than not__ :two: Much of the time.  
 __more than anything__ :two: Very much; very badly. _I wanted to believe her more than anything, but I couldn’t._  
+__Mother of God__ ((Holy) Mother of God) An exclamation of alarm, amazement, or exasperation. (Could be considered blasphemous to some.)  
 __move mountains__ :dart: To do or achieve something that is incredibly difficult.  
 __move on__  
 __move the dial__  
@@ -555,6 +564,7 @@ __much obliged__ :dart: __1__ Indebted to someone for their generosity, kindness
 __mug shot__ __1__ An official photograph taken of someone being brought into police custody, usually characterized by the person wearing a grim or blank expression on their face.  
 __mugger__ _n_ :three::smiling_imp: Someone, usually a male, who attacks and robs people. _I clobbered the mugger with a tire iron I carry just for such occasions._  
 __mumbo jumbo__  
+__mush out__ _He dropped his cigarette and mushed it out with his foot._  
 __muss up__ :two: To cause something to become disheveled or untidy, especially one’s hair. A noun or pronoun can be used between “muss” and “up.” _I just spent an hour getting my hair exactly how I want it, so don’t go mussing it up like that!_  
 __mussed__ _adj_ Rumpled, tousled or untidy.  
 __my ass__  
@@ -571,6 +581,7 @@ __need to be done__ To be required to be completed or acted upon.
 __needless to say__ Obviously implied, no explanation needed.  
 __nepo friend__ _n_ /nep-oh frend/ (nepo-friend) The slang term nepo friend refers to a person who is thought to benefit from having a famous or influential friend. The term nepo friend is often used to imply that someone is only famous or successful because of their association with a famous person. The term may be used playfully, but it is often at least mildly negative.  
 __Nervous Nellie__ /nuhr-vuhs NEL-ee/(nervous Nellie/Nelly) Any nervous person, male or female. Someone who is more timid, nervous, or anxious than is normal or reasonable.  
+__next thing you know__  
 __nice and (something)__ :two::hammer:  
 __nice to hav__  
 __no accident__ Something done deliberately. _It is no accident that the assistant he hired is so good-looking._  
@@ -596,7 +607,7 @@ __oddly enough__
 __of (one’s) own accord__  
 __of all places__ Being the least expected place compared to anywhere else.  
 __of all stripes__ Of many varieties or types. _You meet people of all stripes when you live in a big city._  
-__of late__ :two::hammer:  
+__of late__ :three::hammer:  
 __of note__  
 __off again, on again__  
 __off the hook__ :three::hammer:  
@@ -818,6 +829,7 @@ __take heart (from something)__ To receive courage or comfort from some fact. _I
 __take heart__ To have one’s confidence, courage, or happiness bolstered (by something). _We may have lost the election, but we take heart in the fact that so many young people are now engaged and excited about politics._  
 __take heed (of someone or something)__  
 __take into one’s hands__ (take (something) into one’s hands)  
+__take issue__ To strongly disagree with or take offense at something.  
 __take matters into (one”s) own hands__  
 __take no notice of (something or someone)__  
 __take on trust__  

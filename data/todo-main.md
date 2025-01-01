@@ -45,6 +45,7 @@ __beatific__ _adj_ /bee-uh-TIFF-ik/ _Beatific_ is a formal word that describes s
 __bereaved__ _adj_  
 __better__ _v_  
 __biddy__ _n_ __2__ A woman, especially an older one who is extremely talkative.  
+__bigotry__ _n_  
 __biology__ _n_ :mega: /baɪˈɒl ə dʒi/  
 __board__ _v_ __17__ To furnish with meals, or with meals and lodging, esp. for pay.  
 __boarding house__ _n_ :two::hammer: :es: pensión  
@@ -210,6 +211,7 @@ __fling__ _v_ :two::hammer: (flung)
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
 __florid__ _adj_ :two: __1__ Flushed with rosy color; ruddy. _A florid face._  
 __flounder__ _vi_  
+__flunky__ _n_  
 __flyblown__ _adj_ Foul and run-down and repulsive. _Syn_ sordid, squalid _The gang met at a flyblown, grimy little bar on the edge of town to plan its next heist._  
 __fold<sup>1</sup>__ _vt_ __8a__ _informal_ To discontinue operating; close: They had to fold the company a year after they started it. __b__ Games To withdraw (one’s hand) in defeat, as by laying cards face down on a table.  
 __fold<sup>2</sup>__ _vi_  
@@ -272,7 +274,8 @@ __gibber__ _vi_ :dart: To prattle and chatter unintelligibly.
 __gibber<sup>1</sup>__ _vi_ To prattle and chatter unintelligibly.  
 __gibber<sup>2</sup>__ _n_  
 __gibbous__ _adj_  
-__giggle__ _v_  
+__giggle<sup>1</sup>__ _n_ :two::hammer:  
+__giggle<sup>2</sup>__ _v_ :two::hammer:  
 __gladden__ _vt_ To make glad: _The good news gladdened our hearts._  
 __glass pane__  
 __glower<sup>1</sup>__ _n_ To look or stare angrily or sullenly: _glowered at the rude patron._ _Syn_ scowl, glare, frown, look daggers, give a dirty look, lour, lower  
@@ -317,7 +320,7 @@ __harass__ _v_
 __harbinger__ _n_  
 __hard-ass__ _n_ _vulgar slang_ (hardass) One who inflexibly follows or enforces rules.  
 __hard-of-hearing__ _adj_ Having a hearing loss. _Syn_ hearing-impaired  
-__hard-pressed__ _adj_  
+__hard-pressed__ _adj_ :two::hammer:  
 __hardened__ _adj_ __3__ (Military) (of a nuclear missile site) Constructed to withstand a nuclear attack. _A hardened missile site._  
 __hare__ _v_  
 __harpsichord__ _n_  
@@ -344,6 +347,7 @@ __helpless__ _adj_
 __hem__ _n_ :es: dobladillo  
 __hemothorax__  
 __hidebound__ _adj_ :two::hammer:  
+__hideous__ _adj_  
 __high-rise__  
 __hirsute__ _adj_  
 __hitherto__  
@@ -441,6 +445,7 @@ __jubilee__ _n_ :mega: /JOO-buh-lee/
 __jumpy__ _adj_ __1__ Nervous or apprehensive. __2__ Moving jerkily or fitfully.  
 __juvenile<sup>1</sup>__ _adj_  
 __juvenile<sup>2</sup>__ _n_  
+__kickstand__ _n_ __1__ A swiveling metal bar for holding a bicycle, motorcycle, or other two-wheeled vehicle upright when it is not being ridden.  
 __lair__ _n_  
 __lambent__ _adj_ :two::hammer:  
 __Latin cross__ _n_ A cross with a shorter horizontal bar intersecting a longer vertical bar above the midpoint.  
@@ -730,6 +735,7 @@ __pressing__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need
 __pressing<sup>1</sup>__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._ _Syn_ urgent __2__ Very earnest or insistent: _a pressing invitation._  
 __pressing<sup>2</sup>__ _n_  
 __pressurize__ _vt_  
+__preternatural__ _adj_  
 __prevail__ _v_ _We shall prevail in the name of the Galactic Empire!_  
 __price gun__ _n_ :astonished: A portable tool used to print price tags.  
 __pricey__ _adj_ /ˈpraɪ si/ (pricy)  
@@ -853,7 +859,10 @@ __sanguineous__ _adj_ Relating to or involving blood or bloodshed. _Syn_ butcher
 __saunter__  
 __scamper__ _n_  
 __scowl__ _v_  
+__sic__ _vt_ :dart: __1__ To turn on or attack: used only in commands, as to a dog. __2__ To urge (a dog) to attack. To urge or incite to hostile action; set: _sicced the dogs on the intruders._  
+__situation__ _n_ :three::hammer;  
 __skin-crawling__ _adj_ :dart: Horrifying or nauseating, so as to cause a creeping sensation in a person’s skin.  
+__slither__ _v_  
 __snicker-snack__ _n_ [:scroll: Coined by Lewis Carroll in his poem Jabberwocky, probably relating to snickersnee] An onomatopoeia of unclear meaning, possibly referring to sharpness, or the sound of a blade cutting through something.  
 __snide__ _adj_ :smiling_imp:  
 __snivel__ _v_ /SNIV-ul/  
@@ -905,6 +914,7 @@ __thunk__ _n_
 __tiddlywinks__ _n_ A game played on a flat surface, in which players attempt to snap small plastic disks into a cup by pressing the edges of the disks with larger ones.  
 __till__ _n_ :es: caja registradora  
 __tinderbox__ _n_ :dart: __1__ A metal box for holding tinder. __2__ :dart: A person or thing that is highly volatile; any potential source of violence. A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
+__tingling__ _adj_  
 __tingling<sup>1</sup>__ _n_ :es: hormigueo  
 __tingling<sup>2</sup>__ _adj_ :three::hammer: _Blood stained my tingling fingers._ _A tingling sensation._ :es: a tingling sensation → _una sensación de hormigueo_  
 __tipsy__  
@@ -913,6 +923,7 @@ __to-do__ _n_ :dart: :es: alboroto
 __toadstool__ _n_ Common name for an inedible or poisonous agaric (contrasting with the edible mushroom). :es: hongo venenoso  
 __toil__ _vi_  
 __Tonka__ _n_  
+__toot__ _v_  
 __torpedo__ _vt_ __2__ To render ineffective; destroy or wreck: _to torpedo the administration’s plan._  
 __totality__ _n_ The phase of an eclipse during which it is total; the state of total eclipse.  
 __Tottenham__ _n_ :mega: /ˈtɒt n əm, ˈtɒt nəm/ A former borough, now part of Haringey, in SE England, N of London.  
@@ -980,8 +991,10 @@ __well<sup>3</sup>__ _vt_
 __wharf__ _n_ A platform built out from the shore into the water and supported by piles; provides access to ships and boats. _Syn_ pier, wharfage, dock  
 __wheeddle__ _v_ :smiling_imp:  
 __whimper__ _v_ :two::hammer:  
+__whimpering__ _adj_ :es: que gime, que gimotea  
 __White Russian__ _n_ A decadent and easy-to-make drink with vodka, Kahlúa and cream.  
 __white-hot__ _adj_  
+__whoop__ _v_ :astonished: _Several car alarms were whooping._  
 __whuff__ _v_ :two: (whuffle) To blow noisily.  
 __Wiffle ball__ _n_  
 __William__ _n_ (Shortened familiar versions in English include Will, Wills, Willy, Willie, Liam, Bill, and Billy)  

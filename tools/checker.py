@@ -282,17 +282,17 @@ def overwrite_previous_line(message: str) -> None:
 
 class Checker(object):
     """The class Checker encapsulates all functionalities to check the dictionary"""
-    full_path: Final[str]
+    file_path: Final[str]
 
-    def __new__(cls, full_path: str) -> 'Checker':
-        if not full_path:
-            raise ValueError('full_path should not be empty')
-        if not os.path.exists(full_path):
+    def __new__(cls, file_path: str) -> 'Checker':
+        if not file_path:
+            raise ValueError('file_path should not be empty')
+        if not os.path.exists(file_path):
             raise IOError('File does not exist')
         return object.__new__(cls)
 
-    def __init__(self, full_path: str) -> None:
-        self.full_path = full_path
+    def __init__(self, file_path: str) -> None:
+        self.file_path = file_path
         self.line_number: int = 0
         self.num_composite_headwords: int = 0
         self.num_displaced_part_of_speech: int = 0
@@ -528,9 +528,9 @@ class Checker(object):
     def check_entries(self, do_check_parts_of_speech: bool) -> bool:
         """Looking for mistakes in the entries of the dictionary
 
-        Reads the contents of self's full_path checking every single entry
+        Reads the contents of self's file_path checking every single entry
         """
-        input_file: Final = open(self.full_path, 'r', encoding='utf-8')
+        input_file: Final = open(self.file_path, 'r', encoding='utf-8')
 
         for line in input_file:
             entry: str = line.replace('\n', '')
@@ -561,7 +561,7 @@ class Checker(object):
             + self.num_wrong_nine_m)
         succeeded: Final[bool] = num_failures == 0
         if not succeeded:
-            print('\n' + HEADER + 'Summary of issues found' + END_C)
+            print('\n' + HEADER + f'Summary of issues found ({num_failures})' + END_C)
             print(HEADER + '-----------------------' + END_C)
             print_colored_if_positive("Empty entries", self.num_empty_entries)
             print_colored_if_positive("Entries with displaced part of speech",
@@ -596,7 +596,7 @@ class Checker(object):
 
     def check_duplicated_headwords(self) -> bool:
         """Self-explanatory"""
-        input_file: Final = open(self.full_path, 'r', encoding='utf-8')
+        input_file: Final = open(self.file_path, 'r', encoding='utf-8')
 
         repeated: dict[str, str] = {}
         dictionary: dict[str, int] = {}
@@ -626,7 +626,7 @@ class Checker(object):
 
     def check_undef_high_freq_keywords(self) -> bool:
         """Self-explanatory"""
-        input_file: Final = open(self.full_path, 'r', encoding='utf-8')
+        input_file: Final = open(self.file_path, 'r', encoding='utf-8')
 
         undefined: dict[str, str] = {}
 
@@ -705,16 +705,16 @@ def format_to_print(entry: str) -> str:
 
 def check(arg, do_check_parts_of_speech: bool) -> None:
     home_directory: Final[str] = os.path.expanduser("~").replace("\\", "/")
-    full_path: Final[str] = home_directory + '/hats/fpcx-GitHub/AmE-dictionary/data/' + arg + ".md"
-    filename: Final[str] = os.path.basename(full_path)
-    print(
-        '🔵 ' + OK_BLUE + "Checking " + UNDERLINE + filename + END_C + OK_BLUE + " with do_check_parts_of_speech = "
-        + str(do_check_parts_of_speech) + END_C, flush=False)
-    checker: Final = Checker(full_path)
-    succeeded = checker.check_entries(do_check_parts_of_speech)
-    succeeded = succeeded and checker.check_duplicated_headwords()
-    succeeded = succeeded and checker.check_undef_high_freq_keywords()
-    overwrite_previous_line('✅') if succeeded else None
+    file_path: Final[str] = home_directory + '/hats/fpcx-GitHub/AmE-dictionary/data/' + arg + ".md"
+    file_basename: Final[str] = os.path.basename(file_path)
+    end_of_message: Final[str] = BOLD + CYAN + file_basename + END_C + OK_BLUE + ' with do_check_parts_of_speech = ' + str(do_check_parts_of_speech)
+    print('🔵 ' + OK_BLUE + "Checking " + end_of_message, flush=False)
+    checker: Final = Checker(file_path)
+    succeeded_a: Final[bool] = checker.check_entries(do_check_parts_of_speech)
+    succeeded_b: Final[bool] = checker.check_duplicated_headwords()
+    succeeded_c: Final[bool] = checker.check_undef_high_freq_keywords()
+    succeeded: Final[bool] = succeeded_a and succeeded_b and succeeded_c
+    overwrite_previous_line('✅ ' + OK_GREEN + 'Checked ' + end_of_message) if succeeded else None
 
 
 def usage_and_abort(prog_name: str, valid_arguments: list[str]) -> None:
@@ -725,7 +725,9 @@ def usage_and_abort(prog_name: str, valid_arguments: list[str]) -> None:
 
 def main(prog_name: str, argv: list[str]) -> None:
     num_arguments: Final[int] = len(argv)
-    print(OK_CYAN + 'ℹ️ #arguments: ' + str(num_arguments) + ' ' + str(argv) + END_C)
+    spy: Final[bool] = False
+    if spy:
+        print(OK_CYAN + 'ℹ️ #arguments: ' + str(num_arguments) + ' ' + str(argv) + END_C)
     valid_arguments: Final[list[str]] = [
         "abbreviations+", "dictionary", "Ellroy's-lingo", "idioms", "interjections", "todo-idioms", "todo-main",
         "top-dictionary", "top-idioms", "wip", "_wip"]
