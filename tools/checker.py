@@ -9,17 +9,22 @@ from typing import Final
 # From https://stackoverflow.com/questions/287871/print-in-terminal-with-colors
 # (see also https://en.wikipedia.org/wiki/ANSI_escape_code)
 #
-HEADER: Final[str] = '\033[95m'
-OK_BLUE: Final[str] = '\033[94m'
+# Note: The 8-bit format (38;5) provides 256 color options, while the standard
+#       format (32m) is limited to 8 basic colors
+#
+HEADER: Final[str] = '\033[95m'  # bright magenta
+OK_BLUE: Final[str] = '\033[94m'  # bright blue
 OK_CYAN: Final[str] = '\033[96m'
 OK_GREEN: Final[str] = '\033[92m'
 WARNING: Final[str] = '\033[93m'
 RED: Final[str] = '\033[31m'
-GREEN: Final[str] = '\033[32m'
+GREEN: Final[str] = '\033[32m'  # standard green
 YELLOW: Final[str] = '\033[33m'
-BLUE: Final[str] = '\033[34m'
+BLUE: Final[str] = '\033[34m'  # dark blue
 MAGENTA: Final[str] = '\033[35m'
 CYAN: Final[str] = '\033[36m'
+DARK_ORANGE: Final[str] = '\033[38;5;208m'
+LIGHT_ORANGE: Final[str] = '\033[38;5;216m'
 WHITE: Final[str] = '\033[37m'
 GRAY: Final[str] = '\033[90m'
 FAIL: Final[str] = '\033[91m'
@@ -49,10 +54,10 @@ def valid_use_of_underscores(entry: str) -> bool:
     if num_headwords > 1:
         return False
 
-    num_reminder_ribbons: Final[int] = 1 if entry.find('reminder_ribbon') > -1 else 0
-    num_smiling_imps: Final[int] = 1 if entry.find('smiling_imp') > -1 else 0
+    reminder_ribbon_flag: Final[int] = int('reminder_ribbon' in entry)
+    smiling_imp_flag: Final[int] = int('smiling_imp' in entry)
 
-    if entry.count('___') > 0 or (entry.count('_') - num_reminder_ribbons - num_smiling_imps) % 2 != 0 or entry.count('_:es:') > 0:
+    if entry.count('___') > 0 or (entry.count('_') - reminder_ribbon_flag - smiling_imp_flag) % 2 != 0 or entry.count('_:es:') > 0:
         return False
     return True
 
@@ -707,14 +712,14 @@ def check(arg, do_check_parts_of_speech: bool) -> None:
     home_directory: Final[str] = os.path.expanduser("~").replace("\\", "/")
     file_path: Final[str] = home_directory + '/hats/fpcx-GitHub/AmE-dictionary/data/' + arg + ".md"
     file_basename: Final[str] = os.path.basename(file_path)
-    end_of_message: Final[str] = BOLD + CYAN + file_basename + END_C + OK_BLUE + ' with do_check_parts_of_speech = ' + str(do_check_parts_of_speech)
-    print('🔵 ' + OK_BLUE + "Checking " + end_of_message, flush=False)
+    end_of_message: Final[str] = f'{BOLD}{DARK_ORANGE}{file_basename}{END_C}{OK_BLUE} with do_check_parts_of_speech = {do_check_parts_of_speech} '
+    print(f'🔵 {OK_BLUE}Checking {end_of_message}', flush=False)
     checker: Final = Checker(file_path)
     succeeded_a: Final[bool] = checker.check_entries(do_check_parts_of_speech)
     succeeded_b: Final[bool] = checker.check_duplicated_headwords()
     succeeded_c: Final[bool] = checker.check_undef_high_freq_keywords()
     succeeded: Final[bool] = succeeded_a and succeeded_b and succeeded_c
-    overwrite_previous_line('✅ ' + OK_GREEN + 'Checked ' + end_of_message) if succeeded else None
+    succeeded and overwrite_previous_line(f'✅ {OK_GREEN}Checked {end_of_message}')
 
 
 def usage_and_abort(prog_name: str, valid_arguments: list[str]) -> None:
@@ -741,7 +746,7 @@ def main(prog_name: str, argv: list[str]) -> None:
 
     if num_arguments == 0:
         argv = valid_arguments
-        print('🔵 ' + OK_BLUE + prog_name + ': Argument list after adding default arguments: ' + str(argv) + END_C)
+        spy and print(f'🔵 {OK_BLUE}{prog_name}: Argument list after adding default arguments: {str(argv)}{END_C}')
 
     for arg in argv:
         do_check_parts_of_speech: bool = (

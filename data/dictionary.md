@@ -13159,7 +13159,6 @@ __oeuvre__ _n_ The total output of a writer or artist (or a substantial part of 
 __of sorts__ _phr_ :four: Having inferior, mediocre, or incomplete characteristics of something. _“The 13 clocks” is a poem of sorts._ _A contest of sorts._ _He wanted to make the scene a lesson of sorts._ _A celebrity of sorts._  
 __of__ _prep_ _The gas smells of roggen eggs._  
 __off duty__  
-__off kilter__  
 __off label__  
 __off-color__ _adj_ :four: An off-color joke or remark is rude or offensive. _Off-color stories._  
 __off-guard__ _adj_ Not prepared or vigilant.  
@@ -17018,7 +17017,6 @@ __second<sup>2</sup>__ _vt_ _I second you._
 __secondhand<sup>1</sup>__ _adj_ :four::hammer: (second-hand)  
 __secondhand<sup>2</sup>__ _adv_ :two::hammer: (second-hand)  
 __secret police__ _n_ A police force that operates secretly, esp. to suppress dissent against the government.  
-__secret weapon__ _n_ :six: Something that will help you gain a big advantage over your competitors, that they do not know about.  
 __secret__ _v_  
 __secretariat__ _n_  
 __secretary__ _n_ :mega: /ˈsɛk rɪˌtɛr i/  
@@ -17350,7 +17348,6 @@ __shin splints__ _n_ (shinsplints) A painful condition of the shins caused by in
 __shinbones__  
 __shindig__ _n_ :two: A large and noisy party of people. _Syn_ shindy  
 __shinding__  
-__shine a light__  
 __shiner bucket__  
 __shiner__ _n_ _He answered the door with a shiner on one eye from a wrestling match._  
 __shingle<sup>1</sup>__ _n_ :nine::m: __1__ _(Building)_ A thin rectangular tile, esp one made of wood, that is laid with others in overlapping rows to cover a roof or a wall. __2__ _(Hairdressing & Grooming)_ A woman’s short-cropped hairstyle. __3__ _US and Canadian_ A small signboard or nameplate fixed outside the office of a doctor, lawyer, etc.  

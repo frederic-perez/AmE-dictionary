@@ -194,7 +194,7 @@ __a kick in the teeth__ A humiliating disappointment or setback. _Losing my job 
 __a kind of (something)__ A replacement or alternative to (the real thing).  
 __a knee-slapper__ A hilarious joke, especially one that evokes loud and prolonged laughter.  
 __a knife in the back__ A grievous or supreme act of treachery or betrayal. (Usually preceding “of/for (someone).”)  
-__a laundry list of (something)__ :dart::three: A very lengthy, thorough list of items. A long list of things, especially things you need or want. _The president then went through a laundry list of proposals._ _I have a laundry list of projects I need to get done before Friday._  
+__a laundry list of (something)__ :dart::five: A very lengthy, thorough list of items. A long list of things, especially things you need or want. _The president then went through a laundry list of proposals._ _I have a laundry list of projects I need to get done before Friday._  
 __a lean patch__ :two: A period of failure, decline, or poor performance or results. _Almost every new business experiences a lean patch at some point or another._  
 __a legend in (one’s) own lifetime__ A person who has an extraordinary level of fame or reputation while he or she is still alive.  
 __a legend in (one’s) own mind__ A person who affects or believes him- or herself to be of greater importance or notoriety than is actually the case. A humorous, ironic twist on the phrase “a legend in one’s own lifetime.”  
@@ -3829,7 +3829,7 @@ __laugh off__ :two::hammer:
 __laugh something off__ To treat a serious problem lightly by laughing at it. _Although his feelings were hurt, he just laughed the incident off as if nothing had happened._ _He laughed off the incident._  
 __laugh until you cry__ To laugh so intensely that tears come out of one’s eyes. _That comedian was really in rare form last night. I’m not his biggest fan, but he made me laugh until I cried._  
 __laughing in the aisles__ Laughing uproariously or hysterically. (Used especially in the phrase “have someone laughing in the aisles.”)  
-__laundry list__  
+__laundry list__ (See _a laundry list_.)  
 __lavish (someone or something) with (something)__  
 __law and order__  
 __lay (one’s) life on the line__ To put oneself in harm’s way (to achieve something), especially at the risk of losing one’s life. (Sometimes used hyperbolically.)  
@@ -6370,7 +6370,7 @@ __the tip of the iceberg__
 __the toast of (the town)__ Someone who is especially well-liked, regarded, or admired in a certain place. _The young entrepreneur’s new tech innovation has made him the toast of the town in Silicon Valley._  
 __the unwashed masses__ The broader general public, especially those of the lower and lower-middle classes. _The film didn’t cause too great a stir with the unwashed masses, but it has been considered a milestone in cinematic achievement among film critics._  
 __the upshot (of something)__ The final or resulting outcome, conclusion, or consequence (of something).  
-__the usual suspects__ :four: The people one would expect to be involved in something. _Let’s have a game night! Call the usual suspects and I’ll order pizza._ _Side vegetables contain all the usual suspects._  
+__the usual suspects__ :six: The people one would expect to be involved in something. _Let’s have a game night! Call the usual suspects and I’ll order pizza._ _Side vegetables contain all the usual suspects._  
 __the very thing__ Exactly what is most ideal, desired, or useful in a particular moment or situation. _I’m telling you, when you’re hungover, a big basket of French fries is the very thing!_ _I have the very thing to wear with a dress that color._ _Harvard students complained about the very thing the Soweto students saw as a privilege: shoolwork._  
 __the W__ _slang_ The win. Can refer to an actual win, as in sports (recorded in a box score as “W”), or to a success. Often used in the phrase “get the W.” _We played sloppy, but all that matters is that we got the W._  
 __the wee small hours (of the night/morning)__ The very early hours after midnight. _I was studying for the exam until the wee small hours of the morning, and now I can barely keep my eyes open!_  
@@ -6704,7 +6704,6 @@ __ups and downs__ :two: Positive and negative events or experiences, considered 
 __urban legend__ A myth or piece of folklore that is totally false. _That story about the rats in the sewer being as big as dogs is an urban legend. It’s just not so._  
 __user base__ :two: (business jargon) The number units of a particular product or service that are currently in use, especially software or an internet or computing platform. (Also referred to as “install(ed) user base” or simply “install(ed) base.”)  
 __usher in__  
-__usual suspects__  
 __utterly__  
 __vac__  
 __vacillate between (one person or thing) and (another)__  

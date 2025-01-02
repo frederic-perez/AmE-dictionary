@@ -129,6 +129,7 @@ __drop dead__
 __drum into__ :es: hacer aprender a la fuerza; machacar  
 __drum up__  
 __dry as a bone__  
+__easier said than done__  
 __easier than falling off a log__ Extremely easy; very intuitive; requiring little or no skill or effort. _After so many years as an accountant, doing taxes is easier than falling off a log for me._  
 __easy as one-two-three__ ((as) easy as one-two-three; easy as one, two, three) Extremely easy, simple, or straightforward.  
 __easy does it__ :dart:  
@@ -197,6 +198,7 @@ __go postal__ :dart: _US informal_ [:scroll: This expression arose as a result o
 __goob__  
 __green folding__ Paper money, especially in large amounts. _Boy, I bet you had to lay down some serious green folding for that new sports car, huh?_  
 __gun for hire__  
+__have (something) in store (for one)__ To have something awaiting (one) or prepared (for one).  
 __have someone’s number__ (have (got) (one’s) number)  
 __hear out__ (hear someone out)  
 __hear the end of (someone or something)__  
@@ -283,7 +285,7 @@ __in jeopardy__ In danger or at risk; imperiled.
 __in layman’s terms__ :three::hammer:  
 __in less than no time__ (in no time) In a very little amount of time. Very quickly.  
 __in living memory__ (within living memory) In a recent enough time as to be remembered by people who are alive today. (Usually used in negative statements.) _There hasn’t been a blizzard like this in living memory!_  
-__in more ways than one__ In a number of ways. _I’m telling you, this idea of yours is a mistake in more ways than one._  
+__in more ways than one__ :two: In a number of ways. _I’m telling you, this idea of yours is a mistake in more ways than one._  
 __in no circumstances__ Never; in no case or situation; irrespective of events or conditions.  
 __in no time (at all)__ (in less than no time) In a very little amount of time. Very quickly.  
 __in no way__ Not at all; not by any means.  
@@ -331,7 +333,7 @@ __in the view of (someone)__
 __in the wake of (something)__ :dart:two::hammer::  
 __in the wild__ In naturally occurring conditions or environments.  
 __in the woods__ __1__ Being in a forest or a natural woodland area. _We went camping in the woods._ __2__ It can also mean being in critical condition, near death’s door.  
-__in the works__  
+__in the works__ :two::hammer:  
 __in thrall to somebody/something__ Controlled or strongly influenced by somebody/something: _The country’s economy is still largely in thrall to the big companies._  
 __in twos__ In groups of two. _You will be working in twos._  
 __in virtue of (something)__ Due to something; because of something; by reason of something. _In virtue of your years of hard work and experience in the company, we think you would be well-suited to a managerial role within the company._  
@@ -353,7 +355,7 @@ __it figures__ :two: It makes sense; it is as I expected or might have guessed. 
 __it goes without saying__ :two::hammer:  
 __it never rains but it pours__ When something good or bad happens, similarly good or bad things tend to follow.  
 __it remains to be seen__ Something is not yet clear, certain, or known.  
-__it takes a village__  
+__it takes a village__ :two::hammer:  
 __it wouldn’t do (someone) any harm (to do something)__ It would or may be good, pragmatic, or beneficial for someone (to do something). _You know, it wouldn’t do you any harm to comb your hair from time to time._  
 __it’s about time__ ((it’s) (a)bout time)  
 __it’s all good__ :dart: A phrase used to express general approval, unconcern, or disinterest.  
@@ -612,7 +614,7 @@ __of note__
 __off again, on again__  
 __off the hook__ :three::hammer:  
 __off to the races__  
-__off-kilter__  
+__off-kilter__ :three::hammer:  
 __OG__ (original gangster) In contemporary usage, calling someone an OG can be a compliment that acknowledges their status as a pioneer or leader in a specific area, whether it be music, sports, or any other field. It reflects admiration for their contributions and the respect they command from others.  
 __oh boy__  
 __oh dear__ :dart: An expression of concern, surprise, or disappointment. _This place is on the 10th floor, and there’s no elevator? Oh dear._ _A car accident? Oh dear, is she OK?_  
@@ -664,6 +666,7 @@ __on the verge of (doing) (something)__
 __on the verge of__  
 __on the whole__ Considering everything together; in general or for the most part.  
 __on-site__  
+__pay tribute to (someone or something)__ To do something as a way of publicly showing respect or admiration for a particular person, group, or thing. _The movie pays tribute to an old adventure serial that ran on television in the mid-1930s._  
 __pin down__  
 __rise to the occasion__ To increase one’s effort in response to a challenging situation.  
 __ruffle a few feathers__ To do something which annoys, irritates, or upsets other people. _I know my presentation about the effects of climate change is going to ruffle a few feathers, but I have got to raise awareness about this issue!_  
@@ -686,6 +689,7 @@ __scrape by__
 __screwup__ _n_ _slang_ _She does not forgive sloppy work on technical screwups._  
 __scumbag__ :smiling_imp:  
 __scupper up__  
+__secret weapon__ _n_ :seven: Something that will help you gain a big advantage over your competitors, that they do not know about.  
 __security blanket__ Something that dispels anxiety, as in _I always carry my appointments calendar; it’s my security blanket._ This colloquial term, dating from about 1960, was at first (and still is) used for the blanket or toy or other object held by a young child to reduce anxiety.  
 __see (one) in the flesh__ To see one in person who is usually only seen at a distance, especially through a medium such as film, music, theater, etc. _After years of idolizing the singer, it was a bit anticlimactic seeing her in the flesh._  
 __see fit__ :dart: Deem appropriate, as in _He’s entitled to divide up his property as he sees fit_, or _If we see fit to attend, we’ll be there._  
@@ -709,7 +713,7 @@ __shapeshift__ _vi_ To undergo a noticeable change (in character for example), t
 __sheesh__ :dart::two: An exclamation of exasperation, vexation, or annoyance. _A: “Tom? The boss wants to see you for a minute.” B: “Sheesh, what does he want now?”_  
 __shell-shocked__ :dart: __1__ In a state of intense psychological strain, distress, or trauma as a result of prolonged engagement in combat warfare. The term was popularized during the First World War in reference to soldiers returning from combat; it is more commonly known in modern times as posttraumatic stress disorder (PTSD), and has expanded to cover the psychological damage caused by any kind of traumatic event. _My brother was lucky enough to come home from the war alive, but he was shell-shocked for the rest of his life._ __2__ In a state of utter disbelief, confusion, grief, or shock caused by a powerful and upsetting event. _The family has been shell shocked after finding out their father had gambled away their life savings._  
 __shift gears__  
-__shine a light__  
+__shine a light__ :three: When someone says they want to “shine a light on” an issue, they are expressing a desire to draw attention to it, often to raise awareness about important topics or problems.  
 __shipmas__  
 __shipping and handling__ The costs associated with packaging and delivering a product to the person who bought it. _Our top line of vacuum cleaners is now only $250, plus shipping and handling._  
 __shipshape and Bristol fashion__  
@@ -760,7 +764,7 @@ __snazzy__ Particularly elegant, dazzling, classy, or fancy in appearance. _Wow,
 __sneak peek__  
 __snort at (someone or something)__  
 __so be it__  
-__so much so that__  
+__so much so that__ :three::hammer:  
 __so-called__  
 __soaking wet__ Completely drenched.  
 __sock__ :two: _informal_ __2__ _v_ To deliver a sharp, forceful blow.  
@@ -894,7 +898,7 @@ __to hell with (someone or something)__
 __to name (but) a few__  
 __to put it mildly__ To understate something; to say something politely. (Note the variation in the examples.) _She was angry at almost everyone—to put it mildly._ _To say she was angry is putting it mildly._ _To put it mildly, she was enraged._  
 __to the contrary__  
-__to this day__  
+__to this day__ :two::hammer:  
 __tongue-tied__  
 __top something off__  
 __topsy-turvy__ [:scroll: It likely comes from the combination of “top” and “turvy,” with “turvy” being related to the Old English word “terve,” which means to turn or to overturn.]  
@@ -921,6 +925,7 @@ __weather the storm__ To endure a period of hardship or disorder. To experience 
 __well up__  
 __what’s the occasion?__ The idiom “what’s the occasion?” is typically used to inquire about the reason for a special event, celebration, or unusual behavior that seems out of the ordinary. It’s a friendly way to express curiosity about something that appears more formal or festive than usual.  
 __whoops__ _informal_ An exclamation of surprise used in response to a mistake or moment of clumsiness.  
+__why on earth__  
 __wind up__ __1__ To come or bring to a finish; end: _when the meeting wound up; wind up a project._  
 __winnow out__  
 __wipe the slate clean__ (wipe (one’s) slate clean)  

@@ -14,6 +14,7 @@ __ACT__ _n_ A trademark for a standardized college entrance examination. A colle
 __ADD__ Attention deficit disorder.  
 __ADHD__ :four: Attention deficit hyperactivity disorder. _College students hopped up on ADHD drugs._  
 __AED__ Automated external defibrillator.  
+__AG__ Attorney general.  
 __ASMR__ Autonomous sensory meridian response. This term refers to a tingling sensation often accompanied by a calming, pleasurable feeling.  
 __assoc.__ __1__ Associate. __2__ Associated. __3__ Association. _Housing assoc._  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
@@ -166,6 +167,7 @@ __NLP__ Natural language processing.
 __nos__ Numbers: _nos. 9 and 10._  
 __NPO__ _Latin_ Nil per os (nothing by mouth).  
 __NSFW__ Not safe for work.  
+__NYE__ New Year’s Eve. _Under the NYE Ball._  
 __obo__ :two: Or best offer.  
 __OCD__ :two::hammer:  
 __OD__ _v_  

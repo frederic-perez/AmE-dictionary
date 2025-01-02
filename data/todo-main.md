@@ -16,6 +16,7 @@ __afoot__ _adj, adv_
 __agency__ _n_  
 __agonistic__ _adj_ Striving to overcome in argument. _Syn_ combative _The incumbent’s aggressive, agonistic approach to the debate alienated many of his supporters._  
 __airlock__ _n_ A chamber that provides access to space where air is under pressure. _Syn_ air lock  
+__Alanis__ _n_ /əˈlænɪs/  
 __all-encompassing__ _adj_ Including everything or everyone. _We’re unlikely to find an all-encompassing solution._  
 __allision__ _n_ (_vs_ collision)  
 __allusion__ _n_ /uh-LOO-zhun/  
@@ -64,6 +65,7 @@ __boxwood__ _n_
 __Bram__ _n_ Short for Abraham, Abram, Bertram.  
 __bran__ _n_  
 __brandish__ _v_  
+__brassery__ _n_  
 __brat__ _n_  
 __brazenly__  
 __breadcrumbs__ _n pl_ Very tiny pieces of bread. _Dip the fish in egg and breadcrumbs._ :es: pan rallado  
@@ -84,6 +86,7 @@ __bullock__ _n_ __1__ A castrated bull; a steer. __2__ A young bull.
 __Bullpen Bulletins__ _n_ “Bullpen Bulletins” (originally titled “Marvel Bullpen Bulletins”) was the news and information page that appeared in most regular monthly comic books from Marvel Comics.  
 __bumbling__ _adj_  
 __burgeon__ _vi_ :es: florecer  
+__burglarize__ _v_  
 __burin__ _n_  
 __burl__ _vt_  
 __burn (someone or something) to a crisp__  
@@ -132,6 +135,9 @@ __condescension__ _n_ A communication that indicates lack of respect by patroniz
 __condone__ _v_ /kun-DOHN/ To condone something that is considered wrong is to forgive or approve it, or to allow it to continue. _We cannot condone that kind of behavior._  
 __congeal__ _v_ Become gelatinous. _Syn_ jell, set  
 __conscript__ _n_ A conscripted person (such as a military recruit).  
+__consequent__ _adj, n_ :pencil2:  
+__consequential__ _adj_ :pencil2:  
+__consummate__ _vt_  
 __contrite__  
 __convene__ _v_  
 __convivial__ _adj_ /kənˈvɪv i əl/  
@@ -141,8 +147,10 @@ __cower__ _v_
 __crease<sup>1</sup>__ _n_ __1__ A line or mark produced by folding, pressing, or wrinkling. __2__ A wrinkle or furrow, esp on the face.  
 __crease<sup>2</sup>__ _vt_  
 __crease<sup>3</sup>__ _vi_  
+__daffovil__ _n_  
 __deceit__  
 __demesne__ _n_  
+__disbarment__ _n_  
 __doyen__ _n_ :two: (doyenne) The senior member of a group, profession, or society. _Syn_ dean  
 __drawl__ _v_  
 __dreaded__ _adj_  
@@ -176,9 +184,11 @@ __ecchymosis__ _n_ (_n pl_ ecchymoses) The medical term for a bruise.
 __eddy__ _n_ /EDD-ee/ An eddy is a current of water or air running contrary to the main current, especially as a whirlpool. In figurative use, _eddy_ may also refer to a contrary or circular current of thought or policy.  
 __edgeways__  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
+__elusive__ _adj_ :mega: /ɪˈlu sɪv/  
 __evergreen__ _adj_ /EV-er-green/ _Evergreen_ in its figurative uses describes something, such as a plot, that retains its freshness or interest over a long period of time, or something, such as an issue or concern, that is universally and continually relevant. In botany, _evergreen_ describes foliage that remains green and functional through more than one growing season.  
 __exacerbate__ _vt_  
 __expiration date__ _n_ _A sad song about a relationship that probably has reached its expiration date._  
+__extravaganza__ _n_ /ɪkˌstræv əˈgæn zə/  
 __fang__ _n_  
 __fault line__ _n_  
 __feisty__ _adj_ :astonished: /FYE-stee/ _Feisty_ describes someone who has or shows a lively aggressiveness especially in being unafraid to fight or argue. In some regions of the US, _feisty_ may also be used as a synonym of _fidgety_, _quarrelsome_, or _frisky_. _Even her opponents admire her feisty spirit._  
@@ -305,6 +315,7 @@ __gullet__ _n_ /ˈgʌl ɪt/ __1__ A less formal name for the esophagus. __2__ Th
 __gunpowder__ _n_ :two: /ˈgʌnˌpaʊ dər/ __2__ A fine variety of green China tea, each leaf of which is rolled into a little ball. _Syn_ gunpowder tea  
 __gurney__ _n_ /ˈɡɜːnɪ/ _Medicine_ _US_ A wheeled stretcher for transporting hospital patients.  
 __guttural__ _adj_ /GUTT-uh-rul/ A guttural sound—such as speech, laughter, or a grunt—is formed or pronounced in the throat.  
+__habeas corpus__  
 __hackneyed__ _adj_  
 __hacksaw__ _n_ :dart: A handsaw for cutting metal, with a hard-steel blade in a frame under tension.  
 __haggard__ _adj_  
@@ -502,6 +513,7 @@ __marshal__ _v_
 __marshmallow__ _n_ :pencil2:  
 __mascara__ _n_ _A residue of mascara was sticky on her eyelashes._  
 __masseuse__  
+__master class__ _n_  
 __mastiff__ _n_ An old breed of powerful deep-chested smooth-coated dog used chiefly as a watchdog and guard dog. :es: mastín  
 __matron__ _n_ :es: supervisora; enfermera jefe; matrona  
 __matte__ _n_  
@@ -816,6 +828,7 @@ __rebuttal__ _n_
 __recapitulation__ _n_ __2__ A summary or concise review.  
 __receptacle outlet__ _n_ An electrical outlet where one or more receptacles are installed.  
 __receptacle__ _n_ A device which is installed in an outlet box to receive a plug for the supply of electric current to an appliance or portable equipment.  
+__recipe__ _n_ :mega: /ˈrɛs ə pi/ /ˈrɛsɪpɪ/  
 __reck<sup>1</sup>__ _n_ /rek/ Care or concern.  
 __reck<sup>2</sup>__ _v_ /rek/ To care or concern.  
 __reckless__ _adj_  
@@ -886,6 +899,7 @@ __stale__ _adj_ :two::hammer: _Stale coffee._
 __startled__ _adj_  
 __station__ _n_ __1a__ A place or position where a person or thing stands or is assigned to stand; a post: _a sentry station._ _Duty station._ __b__ An area where a person is assigned to work.  
 __statuary__ _n_  
+__steak frites__  
 __stirred up__ _adj_ Emotionally aroused. _Syn_ stimulated, stirred, aroused  
 __striper__ _n_  
 __stronghold__ _n_  
@@ -944,6 +958,7 @@ __twitch__ _n_ _A twitch of motion._
 __uncompromising__ _adj_  
 __underfoot__  
 __underpin__ _vt_  
+__undoing__ _n_ /ʌnˈdu ɪŋ/  
 __unfathomable__ _adj_  
 __unfettered__  
 __unfledged__ _adj_ Not having the feathers necessary to fly. Used of a young bird. _Syn_ immature  
