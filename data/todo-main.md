@@ -1,4 +1,5 @@
 __A pager__ _n_ A simple wireless communications device that receives text messages or alerts.  
+__ab ovo__ _adv_ From the beginning.  
 __abhor__ _v_  
 __abhorrent__ _adj_  
 __ablutions__ _n pl_  
@@ -10,6 +11,7 @@ __accoutrement__ _n_
 __acerbic__ _adj_ Sharp or biting, as in character or expression. _Syn_ blistering, caustic, acid, vitriolic, acerb, acrid, sulfurous, virulent, bitter  
 __acquiesce__  
 __actor__ _n_ :two: __2__ One who takes part; a participant.  
+__addlepated__ _adj_ /AD-ul-pay-tud/ Someone described as addlepated is mixed-up or confused. _Addlepated_ can also be used as synonym of eccentric.  
 __adversary__ _n_ :mega: /ˈæd vərˌsɛr i/ /ˈædvəsərɪ/ /AD-ver-sair-ee/ _Adversary_ is an enemy or opponent.  
 __affidavit__ _n_  
 __afoot__ _adj, adv_  
@@ -128,6 +130,7 @@ __clemency__ _n_
 __closehanded__ _adj_ Covetous; penurious; stingy; closefisted.  
 __colander__ _n_ /KUH/KAH-luhn-duhr/ (cullender) A utensil with perforations, used for straining or draining foods.  
 __colonel__ _n_ :mega: /ˈkɜr nl/ /kur-nl/  
+__commence__ _v_  
 __compact__ _n_ :astonished: An agreement or a covenant. _He has made a compact with me._  
 __compel__ _vt_ _I began to compel it by the Holy Word._  
 __complaisant__ _adj_ /kum-PLAY-sunt/ Someone described as complaisant is willing or eager to please other people, or is easily convinced to do what other people want.  
@@ -153,6 +156,7 @@ __demesne__ _n_
 __disbarment__ _n_  
 __doyen__ _n_ :two: (doyenne) The senior member of a group, profession, or society. _Syn_ dean  
 __drawl__ _v_  
+__dread__ _v_ :two::hammer:  
 __dreaded__ _adj_  
 __dreadful__ _adj_  
 __dreary__ _adj_  
@@ -185,6 +189,7 @@ __eddy__ _n_ /EDD-ee/ An eddy is a current of water or air running contrary to t
 __edgeways__  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
 __elusive__ _adj_ :mega: /ɪˈlu sɪv/  
+__emaciated__  
 __evergreen__ _adj_ /EV-er-green/ _Evergreen_ in its figurative uses describes something, such as a plot, that retains its freshness or interest over a long period of time, or something, such as an issue or concern, that is universally and continually relevant. In botany, _evergreen_ describes foliage that remains green and functional through more than one growing season.  
 __exacerbate__ _vt_  
 __expiration date__ _n_ _A sad song about a relationship that probably has reached its expiration date._  
@@ -207,8 +212,10 @@ __flabby__ _adj_ __1__ Lacking firmness; loose or yielding: _flabby muscles._ __
 __flag<sup>1</sup>__ _n_  
 __flag<sup>2</sup>__ _vt_  
 __flag<sup>3</sup>__ _vi_ :astonished: To lose vigor or strength; weaken or diminish: _The conversation flagged._ :es: decaer  
+__flak vest__ _n_ A jacket containing metal plates for protection against flak. _Syn_ bulletproof vest  
 __flapper__ _n_  
 __flash flood__ _n_ (flashflood) A sudden flood of great volume, usually caused by heavy rain.  
+__flashy__ _adj_  
 __flat__ _adv_ :dart: __3a__ Directly; completely: _went flat against the rules; flat broke._ __b__ Exactly; precisely: _arrived in six minutes flat._  
 __flat-footed__ _adj_  
 __flaunt__ _v_  
@@ -221,7 +228,7 @@ __fling__ _v_ :two::hammer: (flung)
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
 __florid__ _adj_ :two: __1__ Flushed with rosy color; ruddy. _A florid face._  
 __flounder__ _vi_  
-__flunky__ _n_  
+__flunky__ _n_ :two::hammer:  
 __flyblown__ _adj_ Foul and run-down and repulsive. _Syn_ sordid, squalid _The gang met at a flyblown, grimy little bar on the edge of town to plan its next heist._  
 __fold<sup>1</sup>__ _vt_ __8a__ _informal_ To discontinue operating; close: They had to fold the company a year after they started it. __b__ Games To withdraw (one’s hand) in defeat, as by laying cards face down on a table.  
 __fold<sup>2</sup>__ _vi_  
@@ -284,6 +291,7 @@ __gibber__ _vi_ :dart: To prattle and chatter unintelligibly.
 __gibber<sup>1</sup>__ _vi_ To prattle and chatter unintelligibly.  
 __gibber<sup>2</sup>__ _n_  
 __gibbous__ _adj_  
+__giddy__ _adj_  
 __giggle<sup>1</sup>__ _n_ :two::hammer:  
 __giggle<sup>2</sup>__ _v_ :two::hammer:  
 __gladden__ _vt_ To make glad: _The good news gladdened our hearts._  
@@ -406,9 +414,10 @@ __impervious__
 __imperviousness__ _n_  
 __impish__ _adj_ :es: pícaro, travieso  
 __importunate__ _adj_ :astonished: Troublesomely urgent or persistent in requesting; pressingly entreating: _an importunate job seeker._  
+__imprimatur__ _n_ Formal and explicit approval. _Syn_ countenance, endorsement, sanction, warrant  
 __inane__  
 __inanely__  
-__inchoate__ _adj_ /in-KOH-ut/ _Inchoate_ is a formal adjective and synonym of _vague_ that describes something that is not completely formed or developed yet.  
+__inchoate__ _adj_ :two: /in-KOH-ut/ _Inchoate_ is a formal adjective and synonym of _vague_ that describes something that is not completely formed or developed yet.  
 __indefatigable__ _adj_ /in-di-FAT-i-guh-buhl/ __1__ Incapable of being tired out. __2__ Persistently energetic or tireless, even in the face of challenges.  
 __indigenous__ _adj_ /ɪnˈdɪdʒ ə nəs/ __1__ Originating in and characteristic of a particular region or country; native (often fol. by to): _plants indigenous to Canada; indigenous peoples of southern Africa._  
 __induction__ _n_ :es: incorporación  
@@ -479,6 +488,7 @@ __liminal__ _adj_ :two: /LIM-uh-nul/ _Liminal_ is a formal word most often used 
 __limpid__ _adj_ /LIM-pid/ _Limpid_ describes things that are perfectly transparent or clear, or that are simple in style.  
 __linchpin__ _n_ /LINCH-pin/  
 __lockdown__ _n_ /ˈlɒkˌdəʊn/  
+__loopy__ _adj_ _Loopy appellation._  
 __lug__ _v_  
 __lycanthrope__ _n_  
 __macabre__ _adj_  
@@ -587,6 +597,7 @@ __multilateralism__ _n_ The practice of promoting trade among several countries 
 __nail clipper__ _n_ (also called nail clippers, a nail trimmer, a nail cutter or nipper type) A hand tool used to trim fingernails, toenails and hangnails.  
 __nape__ _n_  
 __nappy__ _n_ _Chiefly British_ A diaper.  
+__nascent__  
 __nefarious__  
 __nematode__ _n_ (nematode worm, roundworm) A type of worm belonging to the phylum Nematoda. Several nematodes are parasites on animals and humans and cause disease.  
 __newsagent__ _n_ A shopkeeper who sells newspapers, stationery, etc. _Syn_ newsdealer  
@@ -623,6 +634,7 @@ __oblige__ _vt_
 __obsequious__ _adj_  
 __oligarchy__ _n_ _Oligarchy_ can refer to a government in which a small group exercises control especially for corrupt and selfish purposes, as well as to the group exercising such control.  
 __onerous__ _adj_ :dart:astonished: Troublesome or oppressive. _Syn_ burdensome, taxing  
+__opine__ _v_ Express one’s opinion openly and without fear or hesitation. _Syn_ animadvert, sound off, speak out, speak up  
 __orderly__ _n_ __1__ An attendant who does routine, nonmedical work in a hospital. __2__ A soldier assigned to attend and perform various tasks for a superior officer.  
 __outskirts__ _n pl_  
 __overworked__ _adj_ :dart:  
@@ -730,6 +742,8 @@ __posse__ _n_ __2__ A search party.
 __possess__ _v_  
 __posterity__ _n_ /pɒˈstɛr ɪ ti/ /pɑˈstɛrət̮i/ /pah-STAIR-uh-tee/  
 __potbellied__ _adj_ Having a large belly.  
+__potluck__ _n_  
+__potpourri__ _n_ /poh-pur-REE/ Potpourri is a mixture of dried flower petals, leaves, and spices that is used to make a room smell pleasant. When used figuratively _potpourri_ refers to a collection of various different things.  
 __power strip__ _n_  
 __power suit__ _n_  
 __precede__ _v_ Furnish with a preface or introduction. _Syn_ preface, premise, introduce _She always precedes her lectures with a joke._  
@@ -762,6 +776,7 @@ __probable cause__ _n_
 __process server__ _n_ :dart::two: A person who serves subpoenas or other legal documents, esp. those requiring appearance in court.  
 __profligate__ _adj_ :dart:  
 __profusion__ _n_ :dart::astonished:  
+__progeny__ _n_ One born of, begotten by, or derived from another. _Syn_ issue, offspring  
 __proliferate__ _v_ /pruh-LIF-uh-rayt/ To increase quickly in number or amount.  
 __propensity__ _n_ /pruh-PENN-suh-tee/ A _propensity_ is a strong natural tendency to do something.  
 __prostration__ _n_ An abrupt failure of function or complete physical exhaustion. _Syn_ collapse  
@@ -778,6 +793,7 @@ __pundit__ _n_ __1__ A source of opinion; a critic: a political pundit. __2__ A 
 __puny__ _adj_ __1__ Of less than normal size and strength; weak. __2__ Unimportant; insignificant: _a puny excuse._  
 __pup__ _n_  
 __pustulate__ _adj_ Blemished by imperfections of the skin. _Syn_ acned, pimpled  
+__putrefaction__ _n_ :astonished: Moral perversion; impairment of virtue and moral principles. _Syn_ depravation, depravity, degeneracy, corruption  
 __quadriplegia__ _n_ Complete paralysis of the body from the neck down. Also called tetraplegia.  
 __quagmire__ _n_ An area of miry or boggy ground whose surface yields under the tread.  
 __quahog__ _n_  
@@ -817,6 +833,7 @@ __raving<sup>2</sup>__ _adj_ Delirious, irrational speech.
 __ravish__ _v_  
 __real estate developer__ _n_ :es: promotor immobiliario  
 __real__ _adv_ :dart: _informal_ [In American English it is usual to drop the _-ly_ adverb ending from _really_ when used as an intensifier] Very. _I’m real sorry about that._ _Real quiet._  
+__ream__ _n_ __2__ (often _reams_) A very large amount: _reams of work to do._  
 __rear__ _vt_ :two: __1__ To care for (children or a child) during the early stages of life; bring up. __2__ To tend (growing plants or animals). __3__ To build; erect.  
 __rear<sup>1</sup>__ _n_  
 __rear<sup>2</sup>__ _adj_  
@@ -834,7 +851,7 @@ __reck<sup>2</sup>__ _v_ /rek/ To care or concern.
 __reckless__ _adj_  
 __recluse__ _n_ :es: ermitaño  
 __recompense__ _n_  
-__recrudescence__ _n_  
+__recrudescence__ _n_ :two: Breaking out afresh or into renewed activity; revival or reappearance in active existence.  
 __rectory__ _n_  
 __recumbent__ _adj_  
 __recurring__ _adj_ Coming back. _Syn_ revenant  
@@ -851,6 +868,7 @@ __regurgitate__ _v_ Repeat after memorization. _Syn_ reproduce
 __reify__ _v_ /ˈri əˌfaɪ, ˈreɪ-/ /RAY-uh-fye/ Reifying is about considering or representing something abstract as a material or concrete thing. If you reify a concept or idea you somehow give it definite content and form.  
 __reignite__ _v_  
 __reindeer__ _n_ /ˈreɪnˌdɪər/ Arctic deer with large antlers in both sexes.  
+__rejuvenate__ _v_ /rih-JOO-vuh-nayt/ To rejuvenate a person, parts of the body, etc., is to make them feel young, healthy, or energetic again. To rejuvenate something abstract, such as an economy or career, is to give it new strength or energy.  
 __relate__ _v_ _I wish to relate the story in his own words._  
 __remuneration__ _n_ :mega: /ri-myoo-nuh–rey-shuhn/  
 __render__ _vt_ __2__ To cause to become; make: _The news rendered her speechless._ _Grief had rendered him simple-minded._  
@@ -858,24 +876,31 @@ __repent__ _v_ _He would repent and confess his sins._
 __reprieve__ _n_  
 __reputedly__ _adv_ /rɪˈpjuːtɪdlɪ/ According to general belief or supposition: _the reputedly excellent food._  
 __requite__ _v_ /rih-KWYTE/ To requite is to give or do something in return for something that another person has given or done, or for a benefit or service that has been provided.  
+__resealable__ _adj, n_  
 __restrain__ _v_  
 __restraint__ _n_  
 __retention__ _n_  
+__ridealong__ _n_ __1__ The act of accompanying, or volunteering with, a police, paramedic, or firefighting group, usually by a student seeking hands-on experience. __2__ One who participates in this.  
 __riposte__ _n_ A quick reply to a question or remark (especially a witty or critical one). _Syn_ comeback, counter, rejoinder, replication, retort, return  
+__ripple__ _v_ :two::hammer:  
 __ristretto__ _n_ A “short shot” of a more highly concentrated espresso coffee. It is made with the same amount of ground coffee, but extracted with a finer grind (also in from 20 to 30 seconds) using half as much water.  
 __riven__ _adj_ Torn apart; damaged. _The party was riven with factional fighting._ _Syn_ torn apart, split, rent, ruptured, ripped apart, torn asunder  
 __rod__ _n_  
 __row__ _n_ :astonished: __1__ A noisy or quarrel or disturbance.  
+__runnel__ _n_  
 __rush__ _v_  
 __sacrilegious__ _adj_ Grossly irreverent toward what is or is held to be sacred. _Syn_ blasphemous, profane  
 __sanguineous__ _adj_ Relating to or involving blood or bloodshed. _Syn_ butcherly, gory, slaughterous  
 __saunter__  
 __scamper__ _n_  
+__Scotch-tape__ _vt_ To fasten or mend with Scotch tape.  
 __scowl__ _v_  
+__sentient__ _adj_  
 __sic__ _vt_ :dart: __1__ To turn on or attack: used only in commands, as to a dog. __2__ To urge (a dog) to attack. To urge or incite to hostile action; set: _sicced the dogs on the intruders._  
 __situation__ _n_ :three::hammer;  
 __skin-crawling__ _adj_ :dart: Horrifying or nauseating, so as to cause a creeping sensation in a person’s skin.  
 __slither__ _v_  
+__slobber__ _v_  
 __snicker-snack__ _n_ [:scroll: Coined by Lewis Carroll in his poem Jabberwocky, probably relating to snickersnee] An onomatopoeia of unclear meaning, possibly referring to sharpness, or the sound of a blade cutting through something.  
 __snide__ _adj_ :smiling_imp:  
 __snivel__ _v_ /SNIV-ul/  
@@ -906,6 +931,7 @@ __stronghold__ _n_
 __suboptimal__ _adj_  
 __succumb__ _vi_ :pencil2: /səˈkʌm/  
 __sundry__ _adj_ Consisting of a haphazard assortment of different kinds. _Syn_ assorted, miscellaneous, mixed, motley  
+__surcoat__ _n_  
 __tee-hee__ _n_ (te-hee) /ˈtiːˈhiː/ __1__ A sound made in imitation of a giggle or titter. __2__ An instance of giggling or tittering. A chuckle.  
 __tenement__ _n_  
 __Terence__ _n_ (Terry)  
@@ -919,6 +945,7 @@ __thraldom__ _n_
 __thrall__ _n_ :astonished:  
 __thresh__ _v_  
 __throb__ _v_ _He made me throb with joy._ :es: latir con fuerza; sentir pinchazos  
+__throbbing__ _adj_ :two::hammer:  
 __thromboembolism__ _n_  
 __thrombosis__ _n_  
 __thrum__ _v_ :two::hammer:  
@@ -928,6 +955,7 @@ __thunk__ _n_
 __tiddlywinks__ _n_ A game played on a flat surface, in which players attempt to snap small plastic disks into a cup by pressing the edges of the disks with larger ones.  
 __till__ _n_ :es: caja registradora  
 __tinderbox__ _n_ :dart: __1__ A metal box for holding tinder. __2__ :dart: A person or thing that is highly volatile; any potential source of violence. A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
+__tingle__ _n_  
 __tingling__ _adj_  
 __tingling<sup>1</sup>__ _n_ :es: hormigueo  
 __tingling<sup>2</sup>__ _adj_ :three::hammer: _Blood stained my tingling fingers._ _A tingling sensation._ :es: a tingling sensation → _una sensación de hormigueo_  
@@ -972,6 +1000,7 @@ __uppity__ _adj_ _informal_ Haughtily arrogant, conceited, or self-important.
 __uptight__ _adj_  
 __Uranus__ _n_ :mega: /jʊˈreɪnəs; ˈjʊrənəs/  
 __urbane__ _adj_ :astonished::two: /er-BAYN/ Someone described as urbane is notably polite, confident, or polished in manner. _Urbane_ is also used to describe things that are fashionable and somewhat formal.  
+__urinal__ _n_  
 __usher in__  
 __Vandyke beard__ _n_ A short, pointed beard, especially one worn with the cheeks shaven and a mustache.  
 __veil<sup>1</sup>__ _n_  
@@ -1011,6 +1040,7 @@ __White Russian__ _n_ A decadent and easy-to-make drink with vodka, Kahlúa and 
 __white-hot__ _adj_  
 __whoop__ _v_ :astonished: _Several car alarms were whooping._  
 __whuff__ _v_ :two: (whuffle) To blow noisily.  
+__wick__ _n_ _I dialed the wick up to a bright flame._  
 __Wiffle ball__ _n_  
 __William__ _n_ (Shortened familiar versions in English include Will, Wills, Willy, Willie, Liam, Bill, and Billy)  
 __Wisconsin__ _n_ :mega: /wɪsˈkɒnsɪn/ /wɪsˈkɒn sən/  
@@ -1038,5 +1068,6 @@ __yelp<sup>2</sup>__ _v_
 __yo-yo__ _n_  
 __yoga__ _n_ [:scroll: From Hindi yoga, from Sanskrit yoga-s, literally “union, yoking” (with the Supreme Spirit)] _Hatha/Mantra/Karma/Bhakti/Raja/Jnana/Kundalini yoga._  
 __yule log__ _n_  
+__zeitgeist__ _n_ /TSYTE-gyste/ Zeitgeist refers to the general beliefs, ideas, and spirit of a time and place. _The artist’s songs perfectly captured the zeitgeist of 1990s America._  
 __zest__ _n_ /ZEST/ _Zest_ refers to an enjoyably exciting quality, or to keen enjoyment itself. In culinary use, _zest_ refers to small pieces of the peel of a lemon, lime, orange, or other citrus fruit used as flavoring.  
 __zloty__ _n_ The basic monetary unit of Poland.  

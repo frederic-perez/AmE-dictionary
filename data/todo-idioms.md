@@ -38,6 +38,7 @@ __a long row to hoe__ [:scroll: This metaphor comes from nineteenth-century Amer
 __ace__  
 __all too soon__ The idiom “all too soon” means that something happened much earlier than expected or desired, often with a sense of regret or disappointment. It conveys the idea that an event occurred prematurely or that a positive experience ended quickly. “The holidays were over all too soon,” implies that the speaker wished the holidays had lasted longer. “Graduation came all too soon,” suggests that the speaker felt unprepared for the end of their schooling.  
 __at length__  
+__at the end of the day__  
 __baby blues__ __1__ A usually brief period of sadness, anxiety, and mood swings experienced by a large percentage of women after giving birth. _When I had the baby blues after having my first child, I would find myself crying without knowing why._ __2__ Blue eyes, especially those that are light blue. _I just had to ask for Sean’s number after I got a glimpse of his baby blues—I’d never seen such striking eyes before!_  
 __bagel bender__  
 __be a long shot__ To be very risky, uncertain, or unlikely to succeed, as of an attempt, proposition, or guess. _I know this is a long shot, but would you like to go out on a date with me sometime?_  
@@ -113,6 +114,7 @@ __don’t ask me__
 __don’t get me started__  
 __don’t give a rat’s ass__  
 __don’t mention it__  
+__doodad__ A name for a gadget or thing whose actual name is unknown or has been forgotten. _Where’s that doodad? I need it to finish this repair._  
 __doom and gloom__  
 __double duty__  
 __double whammy__ A situation in which two negative things happen at the same time or in rapid succession. _Jack suffered a double whammy when his car broke down the same day he lost his job._  
@@ -152,6 +154,7 @@ __fantabulous__
 __fast and furious__ :two::hammer:  
 __fast-forward__  
 __fat chance__ Said of something that is unlikely to happen. :es: vaga posibilidad  
+__feel like a million bucks__ :astonished: To feel exceptionally attractive or in very robust health. _Wow, I feel like a million bucks in this new suit!_  
 __feel like doing something__  
 __feel puny__ To feel sick. _I woke up feeling puny, so I just stayed in bed all day._  
 __few and far between__ :three::hammer:  
@@ -196,10 +199,12 @@ __give someone or something away__ To reveal a secret about someone or something
 __go berserk__  
 __go postal__ :dart: _US informal_ [:scroll: This expression arose as a result of several recorded cases in the USA in which postal-service employees ran amok and shot colleagues] Go mad, especially from stress. Become extremely angry or start behaving in a violent and angry way. _According to one eye witness, the man ‘went postal, and started hitting his computer’_  
 __goob__  
+__goon__  
 __green folding__ Paper money, especially in large amounts. _Boy, I bet you had to lay down some serious green folding for that new sports car, huh?_  
 __gun for hire__  
 __have (something) in store (for one)__ To have something awaiting (one) or prepared (for one).  
 __have someone’s number__ (have (got) (one’s) number)  
+__head over heels__  
 __hear out__ (hear someone out)  
 __hear the end of (someone or something)__  
 __heart of gold__  
@@ -298,6 +303,7 @@ __in overdrive__
 __in place of (someone or something)__  
 __in plain view__ In full, unrestricted view; visibly, openly, or publicly.  
 __in regard to (someone or something)__ In reference to; considering.  
+__in short order__  
 __in single file__ In a line one person or one thing in width.  
 __in some sense__ Partly; in some or certain way(s).  
 __in spite of (something)__ Regardless or in defiance of; despite.  
@@ -474,6 +480,7 @@ __lead the pack__ To be at the forefront of a particular group, either literally
 __leap to (someone’s) mind__ To suddenly or immediately materialize in someone’s mind.  
 __leapfrog over (someone or something)__ :two::hammer:  
 __leaps and bounds__ :dart:  
+__learn (something) the hard way__ _Starting your own business is really tough. I had to learn that the hard way._  
 __leave (something) out of account__ To ignore something; to pay little or no heed to something. _If you leave the constituents’ opinions out of account on this issue, you can kiss their votes goodbye in the election next fall._  
 __leave a lot to be desired__ To be very inadequate or unsatisfactory; to lack a large amount of what is desired or required.  
 __leave home__ To cease living with one’s parents; to strike out on one’s own. _I regret leaving home at such a young age, but it did teach me some good lessons about self-reliance._  
@@ -539,10 +546,14 @@ __long arm__ Broad, far-reaching power or influence. (Usually paired with a noun
 __long memory__ A clear memory of events that happened long ago. _My grandma has a long memory of her childhood in Russia. It’s astonishing hearing how things were when she was young!_  
 __long since__ Long ago; of the (relatively) distant past. _Though Sarah had long since moved on from their relationship, Jonathan still hoped they would one day get back together._  
 __long-run__ Involving, maturing after, or lasting for a long period of time. Used before a noun. _Our team has come up with a number of long-run solutions to our financial problems, but we’ll have to make some sacrifices for them to be effective._  
+__look askance upon (someone or something)__ To view or regard someone or something in a disapproving or distrustful manner. _Such is the state of politics these days that even the most patriotic citizens tend to look askance upon the manner in which congress conducts business._  
+__look for a dog to kick__ To seek out someone to blame or castigate, especially someone who is not at fault. (Usually said in the continuous tense.) _My dad had a famously short fuse when we were growing up, so we soon learned to get out of his way when he was looking for a dog to kick._  
+__look out for number one__ To put one’s own needs, concerns, or responsibilities before those of anyone else. _The only way you’re going to get ahead in this business is if you look out for number one._  
 __love handles__ ((love) handles, spare tyres, Dunlops disease, Dunlop Syndrome) _euphemism_ [So called because supposed to be grabbed by a partner in sexual intercourse.]  
 __make a fuss__  
 __make a long arm for (something)__ To extend one’s arm fully toward something; to reach out for something. _Mary’s new boyfriend made a long arm for the bottle of wine at the end of the table, helping himself to another glass._  
 __make good on (something)__ To fulfill an obligation, such as keeping a promise or paying a debt. _Tom made good on his pledge to donate $1,000. Bill refused to make good on his promise._  
+__meant to be__  
 __mince words__  
 __mind (one’s) p’s and q’s__  
 __miss the boat__  
@@ -570,7 +581,7 @@ __mush out__ _He dropped his cigarette and mushed it out with his foot._
 __muss up__ :two: To cause something to become disheveled or untidy, especially one’s hair. A noun or pronoun can be used between “muss” and “up.” _I just spent an hour getting my hair exactly how I want it, so don’t go mussing it up like that!_  
 __mussed__ _adj_ Rumpled, tousled or untidy.  
 __my ass__  
-__nab__ _v_ To catch and arrest someone. Often used in passive constructions.  
+__nab__ _v_ :two: To catch and arrest someone. Often used in passive constructions.  
 __nada__  
 __nail in the coffin__  
 __narrative__ The way in which a particular person or situation is being portrayed or represented.  
@@ -631,6 +642,7 @@ __on a lark__ On a whim or fancy; for fun or as a joke.
 __on a mission__ :three::hammer:  
 __on a roll__  
 __on a second thought__ An idiomatic expression that means to reconsider or reevaluate something after initial consideration. It implies that one has had a change of mind or a new perspective after giving more thought to a particular issue or decision.  
+__on a string__  
 __on a tear__  
 __on a whim__  
 __on and off__  
@@ -837,6 +849,7 @@ __take issue__ To strongly disagree with or take offense at something.
 __take matters into (one”s) own hands__  
 __take no notice of (something or someone)__  
 __take on trust__  
+__take pot luck__ (take potluck)  
 __take sides__ To choose a person or party whom one supports, defends, or agrees with in an argument.  
 __take stock (of something)__  
 __take the fall (for someone or something)__  
@@ -881,6 +894,7 @@ __the writing on the wall__ (the (hand)writing on the wall)
 __then again__  
 __there is something about__  
 __thick-skulled__ Stupid, dimwitted, or obtuse.  
+__things that go bump in the night__ Frightful, deadly, and usually supernatural things or events that one imagines in the dark of night.  
 __this is it__  
 __this time around__  
 __thread the needle__  
@@ -933,6 +947,7 @@ __with heavy asterisk__ (with a heavy asterisk) The phrase “with (a) heavy ast
 __word has it (that)__ According to rumor or gossip (something is the case).  
 __work (one0146s) butt off__ To work really hard (on or at something). _I know you thought it was just a silly New Year’s resolution, but I’4ve been working my butt off at the gym!_  
 __worry (something) out of (someone or something)__  
+__yada, yada__ _Don’t yadda, yadda the Lord. It’s disrespectful._  
 __yellow__  
 __young at heart__ Behaving or thinking in a way that is more youthful than what traditionally accompanies one’s actual age.  
 __your mileage may vary__  
