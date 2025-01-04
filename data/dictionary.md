@@ -5382,8 +5382,8 @@ __diminution__ _n_ Change toward something smaller or lower. _Syn_ decline _The 
 __diminutive<sup>1</sup>__ _n_  
 __diminutive<sup>2</sup>__ _adj_  
 __dimly__ _adv_ :three::hammer: _He was dimly aware of it._ __2__ In a manner lacking interest or vitality.  
-__dimpled__ _v_ :five::hammer:  
-__dimple__ _n_ :four::hammer: _They look like dimples in oatmeal now._  
+__dimple<sup>1</sup>__ _n_ :four::hammer: _They look like dimples in oatmeal now._ :es: hoyuelo  
+__dimple<sup>2</sup>__ _v_ :five::hammer:  
 __dimply__  
 __dimwit__ _n_ :four::hammer: (dimwits)  
 __dimwitted__ _adj_ _slang_ Lacking in intelligence.  
@@ -5669,12 +5669,12 @@ __dog fight__ _n_
 __dog sledding__  
 __dog tag__  
 __dog whistle__ _adj_  
-__dog<sup>1</sup>__ _n_ :astonished: __5a__ _informal_ A person: _You won, you lucky dog._ __b__ A person regarded as contemptible: _You stole my watch, you dog._  
-__dog<sup>2</sup>__ _v_ :five::hammer::astonished: _Injury concerns still dog Clowney._ _The demons dogging Mardy Fish won’t be any quieter as he resumes his career in the Paribas Open._  
 __dog-ear__  
 __dog-eared__ _adj_ :two: __1__ Having dog-ears. __2__ Shabby or worn. _Ryan Holiday takes dog-eared copies of his books as praise._  
 __dog-eat-dog__ _adj_ Marked by ruthless self-interest.  
 __dog-tired__ _adj_ :two: Drained of energy or effectiveness; extremely tired; completely exhausted. _Syn_ fagged, fatigued, played out, washed-out, worn out, spent _I can see myself now, worn out and dog-tired after the long day, lying on the mats of the palace veranda._  
+__dog<sup>1</sup>__ _n_ :astonished: __5a__ _informal_ A person: _You won, you lucky dog._ __b__ A person regarded as contemptible: _You stole my watch, you dog._  
+__dog<sup>2</sup>__ _v_ :five::hammer::astonished: _Injury concerns still dog Clowney._ _The demons dogging Mardy Fish won’t be any quieter as he resumes his career in the Paribas Open._  
 __dogfight__ _n_ __2__ _An aerial battle between fighter planes._  
 __dogged__ _adj_ :five::dart: Obstinately determined; wilful or tenacious. Marked by stubborn determination: _a dogged competitor; dogged devotion._ _Dogged persistence._  
 __doggedly__ _adv_ :two::hammer:  
@@ -9151,7 +9151,8 @@ __heliskiing__ _n_
 __hell__ _n_ :two: __7__ _informal_ __a__ An outstanding or noteworthy example: _You are one hell of a good cook._ __b__ Used as an intensive: _How the hell should I know?_ _Hell yes!_  
 __Hell’s Kitchen__ _n_  
 __hellbent__ _adj_ :four::hammer: (hell-bent)  
-__hellbound__ _adj_ Bound for Hell; damned.  
+__hellbound<sup>1</sup>__ _adj_ Bound for Hell; damned.  
+__hellhound<sup>2</sup>__ _n_ :three: A devilish person; a fiend. A very evil man. Someone who is destined for Hell.  
 __hellion__ _n_ :two: A mischievous, troublesome, or unruly person. _Syn_ devil, heller  
 __hellish__ _adj_  
 __hellscape__ _n_ An extremely unpleasant place or scene. _A war-torn hellscape._  
@@ -9161,9 +9162,9 @@ __helo__ _n informal_ A helicopter.
 __help out__  
 __helpdesk__ _n_ Alternative spelling of help desk.  
 __helping__ _n_ (helpings) _Second helpings._  
-__helpless__  
+__helpless__ _adj_ :two::hammer:  
 __helter-skelter__ _adv_ :three: In headlong and disorderly haste. _Syn_ wildly, rashly, recklessly, pell-mell _Montgomery cracked his whip at them, and forthwith they all turned and fled helter-skelter into the trees._  
-__hem<sup>1</sup>__ _n_ :three: __1__ An edge or border on a piece of cloth, especially a finished edge, as for a garment or curtain, made by folding an edge under and stitching it down. :es: dobladillo  
+__hem<sup>1</sup>__ _n_ :five: __1__ An edge or border on a piece of cloth, especially a finished edge, as for a garment or curtain, made by folding an edge under and stitching it down. :es: dobladillo  
 __hem<sup>2</sup>__ _v_  
 __hemangioma__ _n_ Benign angioma consisting of a mass of blood vessels; some appear as birthmarks.  
 __hematology__ _n_ The branch of medicine that deals with the diagnosis and treatment of diseases of the blood and bone marrow.  
@@ -9180,6 +9181,7 @@ __hemolysis__ _n_ The destruction or dissolution of red blood cells, with subseq
 __hemophilia__ _n_ (haemophilia) A tendency to uncontrolled bleeding.  
 __hemophiliac__ _n_ /ˌhi məˈfɪl iˌæk/ A person who has hemophilia.  
 __hemostasis__ _n_ (hemostasia, haemostasia) The stoppage of bleeding or cessation of the circulation of the blood; stagnation of the blood in a part of the body.  
+__hemothorax__  
 __hemp__ _n_ :five::hammer: _Hemp plant._ :es: cáñamo  
 __hence__ _adv_  
 __henchman__ _n_ :nine::m: (henchmen) /HENCH-mun/ A trusted follower who may perform unpleasant, wrong, or illegal tasks for a powerful person (such as a politician or criminal). Someone who assists in a plot. _Syn_ collaborator, partner in crime, confederate _The chuckling henchman showed that feeding alligators had its downfalls._ _The play opens with the main character, a gangster, onstage surrounded by his henchmen._  
@@ -9234,8 +9236,8 @@ __hickory shaft__
 __hickory__ _n_ :four::hammer: _Hickory charcoal-grilled steaks._ _The steaks are grilled over a hickory flame._ _Hickory smoked pork._  
 __hidalgo__ _n_  
 __hideaway__ _n_ :three: An area where you can be alone. _Syn_ retreat  
-__hidebound__ _adj_ :four: Stubbornly conservative and narrow-minded. _Syn_ traditionalist _It is no use trying to reason with your grandfather, he is a hidebound old man who will never understand your position on the matter._  
-__hideous__ _adj_ :four: Very ugly. _A hideous practice._  
+__hidebound__ _adj_ :six: Stubbornly conservative and narrow-minded. _Syn_ traditionalist _It is no use trying to reason with your grandfather, he is a hidebound old man who will never understand your position on the matter._  
+__hideous__ _adj_ :five: Very ugly. _A hideous practice._  
 __hideout__ _n_ :two::hammer:  
 __hieratic__ _adj_ Of or associated with sacred persons or offices. _Syn_ priestly, sacerdotal _The laws did not apply to the hieratic class, whose members were held as nearly gods._  
 __higgledy-piggledy__  
@@ -9257,8 +9259,8 @@ __high-end__ _adj_
 __high-fly__ _v_  
 __high-octane__ _adj_ /hy-AWK-tayn/ __1__ High-energy; powerful; dynamic. __2__ In relation to engine fuels, having a high octane number resulting in anti-knock properties and higher efficiency.  
 __high-pressure__ _adj_ Aggressively and persistently persuasive.  
-__high-rise<sup>1</sup>__ _adj_  
-__high-rise<sup>2</sup>__ _n_ :two::hammer: (high rise) _The building was a showy high-rise._  
+__high-rise<sup>1</sup>__ _adj_ :two::hammer:  
+__high-rise<sup>2</sup>__ _n_ :three::hammer: (high rise) _The building was a showy high-rise._  
 __high-spirited__ _adj_ Joyously unrestrained. _Syn_ ebullient, exuberant  
 __high-tail__ _v_  
 __highball<sup>1</sup>__ _n_ :astonished::two: An alcoholic drink made by mixing whiskey with water or soda, usually served in a tall glass. _The passengers were sipping highballs at the bar._  
@@ -9299,10 +9301,10 @@ __hippocras__ _n_ (in the Middle Ages) A medicinal cordial of spiced wine.
 __hipster__ _n_ /HIP-stuh/ One whose interests in clothing, music, etc., tend to be outside the mainstream, especially in a self-conscious way.  
 __hireling__ _n_ _derogatory_ A person who works only for pay, esp. in a menial or boring job, with little or no concern for the value of the work. _The hireling said he would be willing to clean out the cesspool-for the right price._  
 __hires__ _n_  
-__hirsute__ _adj_ :three: /ˈhɜr sut, hɜrˈsut/ /HER-soot/ Covered with hair; hairy. _Syn_ hairy _The hirsute man used to joke that he looked like a grizzly bear._  
+__hirsute__ _adj_ :four: /ˈhɜr sut, hɜrˈsut/ /HER-soot/ Covered with hair; hairy. _Syn_ hairy _The hirsute man used to joke that he looked like a grizzly bear._ :es: velludo, peludo  
 __hirsutism__  
 __His Majesty the Sultan__  
-__hiss__ _v_ :three::hammer:  
+__hiss__ _v_ :seven::hammer:  
 __hissing__ _n_ A fricative sound (especially as an expression of disapproval); _the performers could not be heard over the hissing of the audience._ _Syn_ fizzle, hiss, hushing, sibilation  
 __hissy__ _n_ _Hissy fit._  
 __histamine__ _n_  
@@ -9320,7 +9322,7 @@ __hit the sack__
 __hitch<sup>1</sup>__ _n_ :four::hammer: _There was only a little hitch in this process to get their cash._ _The whole system works without a hitch._ _I hope the day goes without a hitch._  
 __hitch<sup>2</sup>__ _v_ _Their clubs had hitched their wagons to the right horse._  
 __hither__ _adv_ :three::hammer: _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._  
-__hitherto<sup>1</sup>__ _adv_ :nine: Until this time.  
+__hitherto<sup>1</sup>__ _adv_ :nine::m: Until this time.  
 __hitherto<sup>2</sup>__ _adj_  
 __hitman__ _n slang_  
 __hive__ _n_ :two::hammer: (hives) _A hive of art in the center of downtown._ _Allergic reactions include rash, hives, and swelling of the face._  
@@ -9337,7 +9339,7 @@ __hobble<sup>1</sup>__ _v_ :nine::m: (hobbled, hobbling) __1__ To fetter by tyin
 __hobble<sup>2</sup>__ _n_  
 __hobbledehoy__ _n_ An awkward, gawky young man.  
 __hobbyhorse__ _n_ /HAH-bee-horss/ __3a__ A favorite hobby. __b__ A topic that one frequently brings up or dwells on; a fixation. Hobbyhorse usually refers to a topic that someone dwells on, returning to again and again, especially in conversation. _Don’t get him started on his hobbyhorse._  
-__hobgoblin__ _n_  
+__hobgoblin__ _n_ :two::hammer:  
 __hobnailed__ _v_ :two::hammer: _Hobnailed boots._  
 __hobnails__  
 __hobnob__ _v_ :three::hammer: /HAHB-nahb/ _The entertainment columnist learns about the latest gossip by hobnobbing with celebrities._  
@@ -9356,7 +9358,7 @@ __hogslop__
 __hogwash__ _n_ :four: Worthless, false, or ridiculous speech or writing; nonsense. _Syn_ bunkum, guff, rot _The entire article is hogwash, and I demand that you print a retraction posthaste!_  
 __hoist<sup>1</sup>__ _n_ :two::hammer: :es: montacargas  
 __hoist<sup>2</sup>__ _v_ :four::hammer: (hoisted) :es: alzar  
-__hoity-toity__ _adj_ /hoy-tee-TOY-tee/ _The guidance counselor emphasized that students do not need to go to a hoity-toity college to achieve success._  
+__hoity-toity__ _adj_ :two: /hoy-tee-TOY-tee/ /ˌhɔɪtɪˈtɔɪtɪ/ _informal_ Arrogant or haughty: _we have had enough of her hoity-toity manner._ _The guidance counselor emphasized that students do not need to go to a hoity-toity college to achieve success._  
 __hokey__ _adj_ :three::hammer: _It may sound hokey._ _Hokey accent._  
 __hokum__ _n_ :five: __1__ Utter nonsense; bunkum. _Starry _Love the Coopers_ is a bunch of ho-ho-hokum._  
 __hold a referendum__  
@@ -9388,8 +9390,9 @@ __holistay__ _n_ The British English version of _staycation_.
 __holistic__ _adj_ :nine::m: __1__ Based on the idea that you should take care of your whole body and mind, rather than just treating a part of the body that is ill. _A holistic approach to cancer._ __2__ Thinking about the whole of something, and not just dealing with particular aspects. _A holistic approach to the region’s development._  
 __holler__ _v_ :eight: __1__ To yell or shout. _Hooting and hollering is encouraged._ __2__ _informal_ To complain. _What was he hollering about?_  
 __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
+__hollow-point bullet__ _n_  
 __holloware bullion__  
-__holly__ _n_ :three::astonished::pencil2: /ˈhɒlɪ/ [The plant that is thought to be responsible for the association of the colors red and green with Christmas] Evergreen shrub especially used for decoration at Christmas, mid-15c., earlier _holin_ (mid-12c.). :es: acebo  
+__holly__ _n_ :four::astonished::pencil2: /ˈhɒlɪ/ [The plant that is thought to be responsible for the association of the colors red and green with Christmas] Evergreen shrub especially used for decoration at Christmas, mid-15c., earlier _holin_ (mid-12c.). _Holly plants are still common during Christmas today, and it is hard to miss their bright green leaves and red berries._ :es: acebo  
 __Hollywood__ _n_ :mega: /ˈhɒlɪˌwʊd/  
 __holm__ _n_ __1__ Short for holm oak. _Holm-oak stands._  
 __Holy Ghost__ _n_ :two::hammer:  
@@ -9405,6 +9408,7 @@ __home furnishing__ _n_
 __home ground__ _n_ _Syn_ habitat  
 __home run__ _n_  
 __home school__ _v_  
+__home turf__ _n_ _informal_ One’s familiar surroundings or habitat.  
 __home__ _vi_ To go or return to one’s residence or base of operations.  
 __home-delivery__  
 __homebody__ _n_ :two: A person who prefers staying at home.  
@@ -9424,6 +9428,7 @@ __homestand__ _n_ :six: A series of games played at a team’s home field.
 __homestead<sup>1</sup>__ _n_ :eight: __1__ A dwelling with its land and buildings occupied by the owner as a home and exempted by a homestead law from seizure or sale for debt. __2__ Any dwelling with its land and buildings where a family makes its home. __3__ A tract of land acquired under the Homestead Act.  
 __homestead<sup>2</sup>__ _v_  
 __homestretch__ _n_ :three::hammer: (In horse racing, the _homestretch_ is the straight part of a racetrack from the last turn to the finish line. It’s often the most exciting part of the race, and excitement or anxiety can sometimes make the _homestretch_ feel like it’s the longest despite it being no longer than any other stretches.)  
+__hometown__ _n_ The town or city of one’s birth, rearing, or main residence.  
 __homicide__  
 __homie__ _n_ _slang_ _chiefly US_ Short for homeboy or homegirl. _Homies for life._  
 __homily__ _n_ /HAH-muh-lee/ A homily is a usually short talk on a religious or moral topic. Homily may also refer to an inspirational catchphrase, or to a trite or stale remark.  
@@ -9451,12 +9456,13 @@ __honor<sup>1</sup>__ _n_ _The magazine saw seven issues and then was interred w
 __honor<sup>2</sup>__ _v_ :three::hammer::mute:[~~h~~onor]  
 __honorary__ _adj_ _Honorary consul._  
 __honorees__  
+__honors__  
 __hoo-ha__ _n_ :two: A disorderly outburst or tumult. _Syn_ commotion, disturbance :es: _There was a great hoo-ha about it > Se armó la marimorena_ _Marketing hoo-ha._  
 __hooch__ _n_ _slang_ :two::hammer: _Take it easy on the hooch._  
 __hood fan__  
 __hood__ _n_ _slang_ :seven: (hoods) Criminal, a member of a criminal gang. _Too many hoods had visited his home._  
 __hoodlum__ _n_ _slang_ :five: (hoodlums) A criminal or gangster.  
-__hoodwink__ _v_ :four: /HOOD-wink/ To deceive or trick someone. _The salesperson hoodwinked us into buying items that weren’t on our shopping list._  
+__hoodwink__ _v_ :five::smiling_imp: /HOOD-wink/ To deceive or trick someone. To deceive or swindle by deception. _Syn_ trick, fool, cheat, con _You don’t understand that what imposes on common folk would never hoodwink an editor._ _The salesperson hoodwinked us into buying items that weren’t on our shopping list._  
 __hoofer__  
 __hoofprint__ _n_ (hoofprints)  
 __hook up__  
@@ -9477,8 +9483,8 @@ __hoot<sup>1</sup>__ _vi_ :nine::m: __1__ To utter the characteristic cry of an 
 __hoot<sup>2/sup>__ _vt_ :nine::m: __1__ To shout down or drive off with jeering cries: _hooted the speaker off the platform._ _The driver of the car behind hooted again._ _Hooting and hollering is encouraged._ _Cats hooting._ __2__ To express or convey by hooting: _hooted their disgust._  
 __hoot<sup>3</sup>__ _n_ :four: __2__ A cry of scorn or derision. __3__ _informal_ One that is hilariously funny: _“Emmett, that skirt is a hoot!” (Bobbie Ann Mason)._ _You know, it’s a hell of a hoot._  
 __hootenanny__ _n_  
-__hoover<sup>1</sup>__ _n_ /HOO-vuhr/ [:scroll: After the industrialist William Henry Hoover (1849-1932).] A vacuum cleaner.  
-__hoover<sup>2</sup>__ _vt_ __1__ _informal_ To clean, especially with a vacuum cleaner. __2__ _slang_ To consume entirely; devour. Often used with _up_ or _down_. To consume or acquire quickly, eagerly, or in large amounts.  
+__hoover<sup>1</sup>__ _n_ :two: /HOO-vuhr/ [:scroll: After the industrialist William Henry Hoover (1849-1932).] A vacuum cleaner.  
+__hoover<sup>2</sup>__ _vt_ :two: __1__ _informal_ To clean, especially with a vacuum cleaner. __2__ _slang_ To consume entirely; devour. Often used with _up_ or _down_. To consume or acquire quickly, eagerly, or in large amounts.  
 __hoover<sup>3</sup>__ _vi_ _informal_ To use a vacuum cleaner: _needs to hoover before the guests arrive._  
 __hop__ _n_ :two: Climbing plant used for giving taste to beer. _Hop gardens._  
 __hopeful__ _n_ :two::hammer: (hopefuls) _Shanice Williams beat outhundreds of hopefuls to take lead role in_ _The Wiz Live!_  
@@ -9495,6 +9501,7 @@ __horologist__ _n_ Someone who makes or repairs watches.
 __horrendous__  
 __horripilation__ _n_ :four::astonished: __1__ A technical name for gooseflesh. Goose bumps. __2__ The erection of any short bodily hairs. A bristling of the hair on the skin from cold, fear, etc.  
 __hors d’oeuvres__  
+__horse brass__ _n_ :camera: A decorative brass ornament, usually circular, originally attached to a horse’s harness.  
 __horse race__  
 __horse__ _n_ (H-O-R-S-E) A game in which players take turns attempting to duplicate successful basketball shots, a letter of the word “horse” is awarded for each missed attempt, and the first player to receive all five letters loses.  
 __horsefly__ _n_ Any bloodsucking, usually large fly of the family Tabanidae, especially of the genus Tabanus, a serious pest of horses, cattle, etc. :es: tábano  
@@ -9512,12 +9519,14 @@ __horticulture__
 __horticulturist__ _n_ :mega:  
 __hosanna__ _n_ _A thousand hosannas._  
 __hose clamp__ _n_  
+__hose__ _n_ :dart: __1__ (Clothing & Fashion) Stockings, socks, and tights collectively.  
 __hospice care__ _n_  
 __hospice__ _n_ :two::hammer:  
 __hoss__ _n_ (Animals) _dialect informal US_ A horse.  
 __host__ _n_ :dart::seven::astonished: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._ _A host of data._ _A host of techniques._ _A whole host of consequences._  
 __hostage__ _n_ :three::mega::hammer: /ˈhɒs tɪdʒ/ :es: rehén  
 __hostas__ _n_  
+__hostel__ _n_ An inexpensive lodging facility for usually young travelers that typically has dormitory-style sleeping arrangements and sometimes offers meals and planned activities.  
 __hostelry__ _n_ A hotel providing overnight lodging for travelers. _Syn_ auberge, inn, lodge _Three large rooms were assigned to them in the monastery hostelry._  
 __hostler__ _n_ Someone employed in a stable to take care of the horses. _Syn_ stableboy, groom  
 __hot air__ _n_ Loud and confused and empty talk.  
@@ -9542,6 +9551,7 @@ __hothead__ _n_ :four::hammer:
 __hotheaded__ _adj_ /HOT-hed-id/ __1__ Easily angered. __2__ Very angry. __3__ Rash.  
 __hothouse__ _n_ A heated greenhouse for plants that require an even, relatively warm temperature. _Syn_ conservatory, indoor garden _When those young ladies left your hothouse door open, with a frosty east wind blowing right in, it killed a good many of your plants._  
 __hotly__ _adv_ In an intense or fiery way: _a hotly contested will._ _The hotly debated opening line of Tolstoy’s_ Anna Karenina.  
+__hotplate__ _n_ :two::hammer:  
 __hots d’oeuvres__ _n_ /or-DERVEs/  
 __hotspot__ _n_ :three::hammer:  
 __hotspur<sup>1</sup>__ _n_ /HOT-spuhr/ A rash, hotheaded person.  
@@ -9551,12 +9561,13 @@ __Houdini<sup>1</sup>__ _n_ An escape artist.
 __Houdini<sup>2</sup>__ _vi_ To escape.  
 __hough<sup></sup>__ _vt_ :mega: /hok/ To cripple, disable, or to make ineffective.  
 __hough<sup>2</sup>__ _n_ :mega: /hok/ The joint in the hind leg of a quadruped animal such as a horse, equivalent to the ankle in a human.  
-__hound<sup>1</sup>__ _n_ :two::hammer: _A technology hound’s paradise._  
-__hound<sup>2</sup>__ _v_ :three::hammer: (hounding) _She was hounded by the media and online trolls until she could take no more._  
+__hound<sup>1</sup>__ _n_ :three::hammer: _A technology hound’s paradise._ :es: perro de caza  
+__hound<sup>2</sup>__ _v_ :four::hammer: (hounding) _She was hounded by the media and online trolls until she could take no more._ :es: acosar; perseguir  
 __hour__ _n_ :mute:[~~h~~our]  
 __hourlong__ _adj_ :two: Lasting an hour: _an hourlong television episode._ _The hourlong meeting._  
 __house > take it to the house__  
 __house husband__ _n_ A man who stays at home cleaning the house, taking care of children, etc. while his wife, husband or partner goes out to work. _Karl is a house hisband._  
+__house martin__ _n_ (housemartin)  
 __house of cards__ _n_ __1__ An unstable construction with playing cards. __2__ A speculative scheme that depends on unstable factors that the planner cannot control. _His proposal was nothing but a house of cards._  
 __House Speaker__  
 __house trailer__ _n_ A mobile home.  
@@ -9575,17 +9586,19 @@ __household<sup>2</sup>__ _adj_ :two::hammer: _Household chores to keep your hou
 __housekeeping__ _n_ _Call housekeeping before 9:00 AM._  
 __housemother__ _n_  
 __housing equity__  
+__housing estate__ _n_ A group of often architecturally similar buildings constructed at the same time. Primarily for residential accommodation, estates may also include commercial facilities.  
 __housing starts__  
 __housing unit__  
 __housing__ _n_ :five::hammer: _A waterproof housing._  
 __HOV lane__ _n_ An expressway lane restricted to vehicles with at least a set minimum of occupants, usually two.  
-__hovel__ _n_ :three: A small, miserable dwelling. _Syn_ shack, shanty, hut, hutch _Compared to the manor house, their own modest home seemed like a hovel._  
+__hovel__ _n_ :four: A small, miserable dwelling. _Syn_ shack, shanty, hut, hutch _Compared to the manor house, their own modest home seemed like a hovel._ __2__ An open, low shed.  
 __hover__ _v_  
 __hoverboard__ _n_ :two::hammer:  
 __hovercraft__ _n_ A craft capable of moving over water or land on a cushion of air created by jet engines. _Syn_ ground-effect machine  
 __howl__ _v_ :two::hammer:  
 __Hoyle__ _n_ [:scroll: After Edmond Hoyle, British writer on games.] A reference book of rules for card games and other indoor games.  
 __hub__ _n_ _The wagon’s wheels sank to the hubs._  
+__hubbly__ _adj_ Having an uneven surface; rough; bumpy; choppy.  
 __hubbub__ _n_ :seven::hammer:  
 __hubcap__ _n_ :two::hammer: (hubcaps) :es: tapacubos  
 __hubhub__  
@@ -9593,11 +9606,11 @@ __hubris__ _n_ :dart::nine::m: Excessive pride or self-confidence; arrogance. _S
 __huckster__ _n_ :seven: /HUCK-ster/A huckster is someone who tries to sell you something that’s not very well made, or isn’t worth the price. If someone tries to sell you a bottle of Love Potion \#9, call him a huckster. A person who is aggressive or dishonest in selling. _The jewelry that the huckster was peddling was obviously imitation._  
 __huckterism__  
 __huddle<sup>1</sup>__ _n_ :six: __1__ A densely packed group or crowd, as of people or animals. __2__ _Football_ A brief gathering of a team’s players behind the line of scrimmage to receive instructions for the next play. __3__ A small private conference or meeting.  
-__huddle<sup>2</sup>__ _vt_ :five: (huddled) __1__ To crowd together, as from cold or fear. __2__ To draw or curl one’s limbs close to one’s body: huddled under the blanket while watching television. __3__ _Football_ To gather in a huddle. __4__ _informal_ To gather together for conference or consultation.  
+__huddle<sup>2</sup>__ _vt_ :six: __1__ To crowd together, as from cold or fear. __2__ To draw or curl one’s limbs close to one’s body: huddled under the blanket while watching television. __3__ _Football_ To gather in a huddle. __4__ _informal_ To gather together for conference or consultation.  
 __huddle<sup>3</sup>__ _vi_  
 __Huey__  
 __huff<sup>1</sup>__ _n_  
-__huff<sup>2</sup>__ _v_ :nine: (huffed, huffing) To say something in a way that shows you are annoyed, often because someone has offended you.  
+__huff<sup>2</sup>__ _v_ :nine::m: To say something in a way that shows you are annoyed, often because someone has offended you.  
 __huffy__ _adj_ :two: Quick to take offense. _Syn_ touchy _I tried to give my coworker some advice after the meeting, but she perceived it as criticism, got all huffy, and stormed away._  
 __hugger-mugger__ _adj, adv, n, v_ :two::hammer:  
 __huh__  
@@ -9613,8 +9626,8 @@ __humbug<sup>1</sup>__ _n_ :dart::five: __1__ Something intended to deceive; a h
 __humbug<sup>2</sup>__ _vt_ :dart::four: To deceive or trick. To cheat or deceive (someone).  
 __humbug<sup>3</sup>__ _vi_ To practice deception or trickery.  
 __humdinger__ _n_ _informal_ :two: A person or thing of remarkable excellence or effect.  
-__humdrum<sup>1</sup>__ _adj_ :six::hammer: _A humdrum office building._  
-__humdrum<sup>2</sup>__ _n_ _It will be a respite from the humdrum of life._  
+__humdrum<sup>1</sup>__ _adj_ :dart::seven: Lacking variety or excitement. _Syn_ dull _A humdrum office building._  
+__humdrum<sup>2</sup>__ _n_ :two: A monotonous routine, task, or person. _It will be a respite from the humdrum of life._  
 __humidor__ _n_ :two::hammer: _(cigars, pipes)_  
 __humiliating__ _adj_ Causing awareness of your shortcomings.  
 __hummed__ _v_  
@@ -9629,7 +9642,7 @@ __hump<sup>2</sup>__ _n_ :two::hammer: (humps) _Two green humps in the mist._
 __humpback whale__  
 __Humpty Dumpty__ _n_ :five: (humpty dumpty, humpty-dumpty) [:scroll: After Humpty Dumpty, a character in a nursery rhyme, who is irreparably broken after a fall. He’s typically shown as an anthropomorphic egg.] __1__ A short, rotund person. __2__ Something or someone broken beyond repair.  
 __Humvee__ _n_ :two::hammer:  
-__hunched__ _v_ :two::hammer: _This poor guy was hunched over 12 hours a day._  
+__hunch__ _v_ :three::hammer: _He hunches a shoulder to wipe his face._ _This poor guy was hunched over 12 hours a day._  
 __hundo__ _n_ _slang_ :two: __1__ A hundred. _I one hundo per cent agree._ __2__ A hundred dollars, especially a 100 dollar note. _Paul pulled a fat stack of hundos out of his pocket._  
 __hunger strike__ _n_ :two: A voluntary fast undertaken as a means of political protest, as by a prisoner.  
 __hungover__ _adj_ (hung over) _You look hung over._  
@@ -9640,14 +9653,14 @@ __hunky-dory__ _adj_ _slang_ :five: Fine, going well. _Aside from that unfortuna
 __huramaki__ _n_  
 __hurdle__ _n_ :three::hammer: _They slew them like sheep in the hurdles._  
 __hurdy-gurdy__  
-__hurl__ _v_ :nine::m: (hurled, hurling) Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _An ethnic slur hurled at her._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
+__hurl__ _v_ :nine::m: Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _An ethnic slur hurled at her._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
 __hurler__ _n_ :three::hammer: _(baseball)_  
 __hurly-burly__ _adj, n_ _A hurly-burly of writers._  
 __hurrah__ _n_ A cheer of joy, victory, etc.  
 __hurricane lamp__ _n_ :two::hammer:  
 __hurricane__  
 __hurriedly__  
-__hurtle__ _v_ :seven::hammer:  
+__hurtle__ _v_ :eight::hammer: _Vader’s hit sent the ship hurtling downward._  
 __husbanded__ _v_ _Rob husbanded his money._  
 __husbandman__ _n_ A person who operates a farm. _Syn_ farmer, granger, sodbuster  
 __husbandry__ _n_ :three::hammer:  
@@ -9657,7 +9670,7 @@ __hush<sup>1</sup>__ _n_ :three::hammer:
 __hush<sup>2</sup>__ _v_ :four::hammer: _The hushed reference desk of the Denver Public Library._ :es: hacer callar _Hushed streets._  
 __hushed__ _adj_ _A hushed hotel lounge._  
 __husk<sup>1</sup>__ _n_ :seven::hammer: /hʌsk/ _Cane husks._  
-__husk<sup>2</sup>__ _v_  
+__husk<sup>2</sup>__ _vt_ :three: To remove the husk from.  
 __husky__ _adj_ :three::hammer: _Husky voice._  
 __hustle__ _v_ :five::mute:[hus~~t~~le]:hammer::smiling_imp:  
 __hustler__ _n_ _slang_ :three::hammer::smiling_imp: A person, usually male, who has sex for money. _An elderly mortgage hustler._  
@@ -9671,6 +9684,7 @@ __hydrology__
 __hydrometeors__ _n_  
 __hydrophilic__ _adj_  
 __hydrophyte__ _n_ A plant adapted to grow in water. _Syn_ aquatic plant  
+__hydroplaning__ _n_ :pencil2:  
 __hydroponic__ _adj_ :two::hammer:  
 __hydroponics__ _n_ A technique of growing plants (without soil) in water containing dissolved nutrients. _Syn_ aquiculture, tank farming  
 __hyetal__ _adj_ Of or relating to rain or rainy regions.  
@@ -9680,7 +9694,7 @@ __hymn__ _n, v_ :mute:[hym~~n~~]
 __hymnal__ _n_ :pencil2: (hymnals) A book or a collection of church hymns. _The party hymnal._  
 __hymnals__  
 __hyperacusis__ _n_ [:scroll: From Greek hyper- (over) + acousis (hearing)] Abnormal acuteness of hearing due to increased irritability of the sensory neural mechanism; characterized by intolerance for ordinary sound levels.  
-__hyperbole__ _n_ :four::mega: /hye-PER-buh-lee/ A hyperbole is an intentional exaggeration. Example: The plate exploded into a million pieces. Hyperbole refers to language that describes something as much better or worse than it really is. _The customer’s letter of complaint included a number of outrageous claims and was generally full of hyperbole._ _The children were disappointed to learn that while the ice cream cones were very large, describing them as “foot-high” was pure hyperbole._  
+__hyperbole__ _n_ :five::mega: /hahy-pur-buh-lee/ /hye-PER-buh-lee/ A hyperbole is an intentional exaggeration. Example: The plate exploded into a million pieces. Hyperbole refers to language that describes something as much better or worse than it really is. _The customer’s letter of complaint included a number of outrageous claims and was generally full of hyperbole._ _The children were disappointed to learn that while the ice cream cones were very large, describing them as “foot-high” was pure hyperbole._  
 __hyperbolic__ _adj_ :six: Exaggerated.  
 __hyperkalemia__ _n_ An abnormally high concentration of potassium ions in the blood.  
 __hypermnesia__ _n_ Exceptionally exact or vivid memory, especially as associated with certain mental illnesses.  
@@ -9688,6 +9702,7 @@ __hyperopia__ _n_
 __hyperpnea__ _n_ Abnormally deep breathing.  
 __hypertensive__ _adj, n_ _To be hypertensive._  
 __hyperthyroidism__ _n_ (Pathology) Overproduction of thyroid hormone by the thyroid gland, causing nervousness, insomnia, sweating, palpitation, and sensitivity to heat. Also called: thyrotoxicosis.  
+__hypertrichosis__ _n_ A condition of excessive hairiness either all over the body or covering a particular part.  
 __hyphen__ _n_  
 __hypnopedia__ _n_ (hypnopaedia) The art or process of learning while asleep by means of lessons recorded on disk or tapes.  
 __hypnotic__ _adj_ Attracting and holding interest as if by a spell. _Syn_ mesmeric, mesmerizing, spellbinding  
@@ -9734,6 +9749,7 @@ __iconoclastic__
 __ID window__  
 __id__ _n_  
 __ID__ _vt_  
+__ideate__ _v_ /EYE-dee-ayt/ To ideate is to form an idea or conception of something..  
 __ideation__ _n_ :two::hammer:  
 __identical twin__ _n_ :three: Either of a pair of twins who develop from a single fertilized ovum and therefore have the same genotype, are of the same sex, and usu. resemble each other closely. Compare _fraternal twin._  
 __identical__ _adj_ /aɪˈdɛntɪkəl/  
@@ -9760,10 +9776,11 @@ __IgNobel prize__ _n_
 __ignoble__ _adj_ :three: Not of the nobility; common. _Syn_ ungentle, untitled  
 __ignominious__ _adj_ :dart::two: Very embarrassing, especially because of making you seem very unsuccessful or unimportant. _An ignominious defeat_ Marked by shame or disgrace. _Syn_ inglorious, shameful, opprobrious, disgraceful, black  
 __ignominy__ _n_ :two::hammer:  
-__ignoramus__ _n_ :three: An ignorant person.  
+__ignoramus__ _n_ :four: An ignorant person.  
 __iguanodon__ _n_  
 __IKEA effect__ _n_ A cognitive bias in which consumers place a disproportionately high value on products they partially created.  
 __ilk__ _n_ :five: /ILK/ _Ilk_ is a noun that means “sort” or “kind.” It is usually used in short phrases with and or of, as in “and that ilk” and “of their ilk.” Type or kind: _can’t trust people of that ilk._  
+__ill temper__ _n_ Bad temper; irritability.  
 __ill__  
 __ill-fated__ _adj_ :two::hammer:  
 __illation__  
@@ -9774,7 +9791,7 @@ __Illini__ _n_ :three::hammer:
 __illiterate__ _adj_ :two::hammer:  
 __illusory__ _adj_ _Illusory boundaries._  
 __illustrate__ _v_  
-__illustrious__ _adj_ :eight::hammer::pencil2: /ih-LUSS-tree-us/ _Illustrious_ describes a person or deed that is highly admired and respected. _An illustrious career._ _The illustrious Count of Savoy._  
+__illustrious__ _adj_ :nine::pencil2: /ih-LUSS-tree-us/ _Illustrious_ describes a person or deed that is highly admired and respected. _An illustrious career._ _The illustrious Count of Savoy._  
 __imagery__ _n_ :mega: /ˈɪm ɪdʒ ri, -ɪ dʒə ri/  
 __imagination__ _n_ :mega:  
 __imagine__ _v_  
@@ -9790,6 +9807,7 @@ __imbue__ _v_ :seven: /im-BYOO/ (imbued) Imbue can be used as a synonym for endo
 __imitative__ _adj_ (Of words) Formed in imitation of a natural sound. _Syn_ echoic, onomatopoeic  
 __immaculate__ _adj_ :two::mega::hammer: /ih-MAK-yuh-lut/ _An immaculate pharmacy._  
 __immanent__ _adj_  
+__immense__ _adj_ :mega: /ɪˈmɛns/ Something described as immense is very great in size, degree, or amount.  
 __immensity__ _n_ Unusual largeness in size or extent or number. _Syn_ vastness, enormousness, grandness, greatness, wideness _This projectile was but an atom in the immensity of the ocean._  
 __immerse__ _v_  
 __immigrated__  
@@ -9802,7 +9820,7 @@ __immodest__ _adj_
 __immolate__ _v_ :mega:  
 __immortalize__ _v_ Make famous forever.  
 __immutable__ _adj_ /ih-MYOO-tuh-bul/  
-__imp__ _n_ :two::hammer: _Its imp genius._  
+__imp__ _n_ :three::hammer: _Its imp genius._  
 __impact__ _n_ _Sterling struggled to make an impact in the second half._  
 __impaction__ _n_ _Oesophageal food bolus impaction is a common medical emergency._  
 __impairment__ _n_ :two::hammer:  
@@ -9810,12 +9828,12 @@ __impale__ _v_ Pierce with a sharp stake or point. _Syn_ spike, transfix _My mot
 __impaneled__ _v_  
 __impart__ _v_  
 __impartible__  
-__impasse__ _n_ :nine::pencil2: Deadlock or stalemate. _At impasse._  
+__impasse__ _n_ :nine::m::pencil2: Deadlock or stalemate. A situation that is so difficult that no progress can be made. _Syn_ dead end, deadlock, stalemate, standstill _At impasse._  
 __impassioned__ _adj_ :three: /ɪmˈpæʃ ənd/ Filled with passion; fervent: _an impassioned plea for justice._  
 __impassively__  
 __impeach__ _v_ :four: To charge (a public official) before a competent tribunal with misconduct in office.  
 __impeachment__ _n_ :three::hammer:  
-__impeccable__ _adj_ :nine::pencil2: __1__ Free from fault or blame. _Syn_ flawless __2__ Not capable of sinning or liable to sin.  
+__impeccable__ _adj_ :nine::m::pencil2: __1__ Free from fault or blame. _Syn_ flawless __2__ Not capable of sinning or liable to sin.  
 __impeccably__ _adv_ :two::hammer:  
 __impecunious__ _adj_ :two: Lacking money; penniless. _Syn_ penniless, indigent, penurious  
 __impede__ _v_ :seven::mega::hammer: (impeded) Be a hindrance or obstacle to. _Syn_ hinder _By questioning every proposal, she is impeding the progress of our project._  
@@ -9823,8 +9841,8 @@ __impediment__ _n_ :three::hammer:
 __impedimenta__ _n pl_ :two: Objects, such as provisions or baggage, that impede or encumber.  
 __impel__ _vt_ :three: (impelled) To urge or force (a person) to an action; constrain or motivate. _Syn_ compel, drive, push, inspire, instigate, goad _I don’t consider myself an activist, but I was impelled by recent events to take a stand on this issue._  
 __impending__ _adj_ :nine::m: If something is impending, it is about to happen; it is imminent. If you hear thunder in the distance, you might go inside to escape the impending storm. _Impending deadline._ _(vs looming deadline)_  
-__imperil__ _v_ :five::hammer: (imperiled)  
-__imperious__ _adj_ :three: Having or showing arrogant superiority to and disdain of those one views as unworthy.  
+__imperil__ _vt_ :six: To place in danger or jeopardy; endanger.  
+__imperious__ _adj_ :four: Having or showing arrogant superiority to and disdain of those one views as unworthy.  
 __imperishable__ _adj_ :astonished: Unceasing. _Syn_ abiding, enduring  
 __impermanence__ _n_ :three: The property of not existing for indefinitely long durations. _Syn_ impermanency  
 __impermanent__ _adj_ Not lasting or durable; not permanent. _Syn_ temporary  

@@ -361,56 +361,6 @@ __heathen__ _n_
 __heavenward<sup>1</sup>__ _adv_ (also heav′enwards) Toward heaven.  
 __heavenward<sup>2</sup>__ _adj_ Directed towards heaven or the sky.  
 __heinous__ _adj_ /HAY-nus/ _Heinous_ describes things—such as acts, deeds, or crimes—that are hatefully or shockingly evil, or in other words, deserving of hate or contempt.  
-__hellhound__ _n_ :three: A devilish person; a fiend. A very evil man.  
-__helpless__ _adj_  
-__hem__ _n_ :es: dobladillo  
-__hemothorax__  
-__hidebound__ _adj_ :two::hammer:  
-__hideous__ _adj_  
-__high-rise__  
-__hirsute__ _adj_  
-__hitherto__  
-__hobgoblin__ _n_  
-__hoity-toity__ _adj_ /ˌhɔɪtɪˈtɔɪtɪ/ _informal_ Arrogant or haughty: _we have had enough of her hoity-toity manner._  
-__hollow-point bullet__ _n_  
-__holly__ _n_ _Holly plants are still common during Christmas today, and it is hard to miss their bright green leaves and red berries._ :es: acebo  
-__home turf__ _n_ _informal_ One’s familiar surroundings or habitat.  
-__hometown__ _n_ The town or city of one’s birth, rearing, or main residence.  
-__honors__  
-__hoodwink__ _v_ :smiling_imp: To deceive or swindle by deception. _Syn_ trick, fool, cheat, con _You don’t understand that what imposes on common folk would never hoodwink an editor._  
-__hoover__  
-__horse brass__ _n_ :camera: A decorative brass ornament, usually circular, originally attached to a horse’s harness.  
-__hose__ _n_ :dart: __1__ (Clothing & Fashion) Stockings, socks, and tights collectively.  
-__hostel__ _n_ an inexpensive lodging facility for usually young travelers that typically has dormitory-style sleeping arrangements and sometimes offers meals and planned activities.  
-__hotplate__ _n_ :two::hammer:  
-__hound<sup>1</aup>__ _n_ :es: perro de caza  
-__hound<sup>2</sup>__ _v_ :es: acosar; perseguir  
-__house martin__ _n_ (housemartin)  
-__housing estate__ _n_ A group of often architecturally similar buildings constructed at the same time. Primarily for residential accommodation, estates may also include commercial facilities.  
-__hovel__ _n_ __1__ A small, miserable dwelling. __2__ An open, low shed.  
-__hubbly__ _adj_ Having an uneven surface; rough; bumpy; choppy.  
-__huddle__ _v_  
-__huff__ _v_  
-__humdrum<sup>1</sup>__ _adj_ Lacking variety or excitement. _Syn_ dull  
-__humdrum<sup>2</sup>__ _n_ A monotonous routine, task, or person.  
-__hunch__ _v_ _He hunches a shoulder to wipe his face._  
-__hurl__ _v_ :two::hammer:  
-__hurtle__ _v_ _Vader’s hit sent the ship hurtling downward._  
-__husk__ _vt_ :two: To remove the husk from.  
-__hydroplaning__ _n_ :pencil2:  
-__hyperbole__ _n_ :mega: /hahy-pur-buh-lee/  
-__hypertrichosis__ _n_ A condition of excessive hairiness either all over the body or covering a particular part.  
-__ideate__ _v_ /EYE-dee-ayt/ To ideate is to form an idea or conception of something..  
-__ignoramus__  
-__ill temper__ _n_ Bad temper; irritability.  
-__illustrious__ _adj_  
-__immense__ _adj_ :mega: /ɪˈmɛns/ Something described as immense is very great in size, degree, or amount.  
-__imp__ _n_  
-__impasse__ _n_ A situation that is so difficult that no progress can be made. _Syn_ dead end, deadlock, stalemate, standstill  
-__impeccable__  
-__imperil__ _vt_ To place in danger or jeopardy; endanger.  
-__imperious__ _adj_  
-__impervious__  
 __imperviousness__ _n_  
 __impish__ _adj_ :es: pícaro, travieso  
 __importunate__ _adj_ :astonished: Troublesomely urgent or persistent in requesting; pressingly entreating: _an importunate job seeker._  
