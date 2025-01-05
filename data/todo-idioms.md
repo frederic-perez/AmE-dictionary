@@ -43,6 +43,7 @@ __baby blues__ __1__ A usually brief period of sadness, anxiety, and mood swings
 __bagel bender__  
 __be a long shot__ To be very risky, uncertain, or unlikely to succeed, as of an attempt, proposition, or guess. _I know this is a long shot, but would you like to go out on a date with me sometime?_  
 __beanpole__ One who is very skinny. _Susie is such a beanpole now that she’s had her growth spurt._  
+__break faith with (someone or something)__ :dart::three: To fail to act as one has promised.  
 __check on (someone or something)__ To check the status, condition, or well-being of someone or something through an inspection or visit. _We need to check on Grandma and see how she is coping with all this snow._  
 __check someone or something out__  
 __cheddar__ _slang_ Money. _I’m all out of cheddar—can I borrow a few bucks?_  
@@ -100,6 +101,7 @@ __day in and day out__
 __dead__ __5__ Absolutely. _You’d better be dead certain about this decision, because you can’t take it back._  
 __deadhead__ __3__ _n_ _slang_ One who is regarded as dumb, dull, or stupid.  
 __dearth__ _n_ /dɜːθ/  
+__diddly__ _n_ :dart: __1__ Nothing; anything at all (when used in negative statements). _I have to admit that I know diddly when it comes to computers._ __2__ A small or worthless amount: _His advice wasn’t worth diddly to me._  
 __dig (something)__ _slang_ To understand, approve of, or enjoy something. _I really dig this music, man!_  
 __dig and poke around__ The idiom “dig and poke around” generally means to search or investigate something thoroughly by looking through various items or areas, often in a somewhat casual or unstructured manner.  
 __disabuse (someone or oneself) of (something)__  
@@ -255,7 +257,7 @@ __I’ll believe it when I see it__ I highly doubt that could happen or is the c
 __if (one’s) life depended on it__ Under any circumstances; no matter what. (Used almost exclusively with a negative statement regarding something that one couldn’t or wouldn’t do.) _No way am I going to karaoke night. I couldn’t sing if my life depended on it!_  
 __if anything__  
 __if it ain’t broke, don’t fix it__ :two::hammer: (if it isn’t broke, don’t fix it)  
-__if nothing else__ :dart::two: A phrase used to indicate that something is a priority or the most important thing. _I know you’re busy today, so if nothing else, please make sure you respond to these messages._ _If nothing else, we’ll at least get our money back._  
+__if nothing else__ :dart::three: A phrase used to indicate that something is a priority or the most important thing. _I know you’re busy today, so if nothing else, please make sure you respond to these messages._ _If nothing else, we’ll at least get our money back._  
 __if worst comes to worst__ (if (the) worst comes to (the) worst) If the least ideal or preferred outcome happens.  
 __If you can’t beat ’em, join ’em__  
 __iffy__  
@@ -594,7 +596,7 @@ __need to be done__ To be required to be completed or acted upon.
 __needless to say__ Obviously implied, no explanation needed.  
 __nepo friend__ _n_ /nep-oh frend/ (nepo-friend) The slang term nepo friend refers to a person who is thought to benefit from having a famous or influential friend. The term nepo friend is often used to imply that someone is only famous or successful because of their association with a famous person. The term may be used playfully, but it is often at least mildly negative.  
 __Nervous Nellie__ /nuhr-vuhs NEL-ee/(nervous Nellie/Nelly) Any nervous person, male or female. Someone who is more timid, nervous, or anxious than is normal or reasonable.  
-__next thing you know__  
+__next thing you know__ :two::hammer: ((the) next thing (one) knows)  
 __nice and (something)__ :two::hammer:  
 __nice to hav__  
 __no accident__ Something done deliberately. _It is no accident that the assistant he hired is so good-looking._  
@@ -670,7 +672,7 @@ __on the move__
 __on the pill__ _slang_ Currently and regularly using birth-control pills (oral contraceptives that inhibit ovulation to prevent conception).  
 __on the radar (screen)__  
 __on the rocks__ _That marriage was already on the rocks._  
-__on the run__  
+__on the run__ :two: __1__ Attempting to avoid capture, typically as a fugitive from law enforcement; on the lam. _The escaped convicts have been on the run for a week, with no leads as to their whereabouts._ __2__ In a vulnerable position, as of a competitor close to defeat. _You’ve got ’em on the run now, boys! Go out there and finish it!_  
 __on the same page__  
 __on the sidelines__ :two: In a position in which one is not actively participating in something.  
 __on the spot__ __1__ At once in one’s exact location; right then and there. Hyphenated if used before a noun.  
@@ -678,6 +680,7 @@ __on the verge of (doing) (something)__
 __on the verge of__  
 __on the whole__ Considering everything together; in general or for the most part.  
 __on-site__  
+__out and about__ :dart: __1__ Away from one’s home or normal environment, especially to socialize, run errands, visit various places, etc. _I’m just out and about with Mary if you would like to come join us._ __2__ Well enough to come and go, especially after an illness. For example, _I’m glad to see you’re out and about again._  
 __pay tribute to (someone or something)__ To do something as a way of publicly showing respect or admiration for a particular person, group, or thing. _The movie pays tribute to an old adventure serial that ran on television in the mid-1930s._  
 __pin down__  
 __rise to the occasion__ To increase one’s effort in response to a challenging situation.  
@@ -751,6 +754,7 @@ __single out__
 __sinking feeling__ :dart::two: A feeling of dread indicating that something bad has happened or is about to happen. _As soon as I met him, I got a sinking feeling that he had bad intentions._  
 __sit still (for something)__ __2__ To fail or choose not to act in response to something; to endure or tolerate something passively or submissively. _I couldn’t just sit still for condescending, hypocritical remarks, so I gathered my things and walked right out of the building._  
 __sit up__  
+__sit well with someone__ To be acceptable to someone. _Your explanation of your absence doesn’t sit well with the president._ _The whole affair didn’t sit well with the manager._  
 __situation__  
 __six in one, (and) half a dozen in the other__ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
 __size up__ To make an estimate, opinion, or judgment of someone or something. _Vader and Kenobi were sizing each other up._ _She sized up her opponent._ _He sized the location up._  
@@ -928,6 +932,7 @@ __turn a deaf ear (to someone or something)__ To ignore or refuse to listen to s
 __under the gun__ :dart: In a stressful situation that requires quick action, often to meet a deadline; under pressure.  
 __under the hood__  
 __unfamiliar territory__  
+__up (one’s) alley__ :dart: See _right up (one’s) alley._  
 __up a notch__ To an increased or extreme degree of intensity or quality.  
 __up against a brick wall__ Stymied by difficulties or obstacles that seem unlikely to change.  
 __up fpr grabs__  
@@ -937,6 +942,7 @@ __war chest__
 __water under the bridge__  
 __weather the storm__ To endure a period of hardship or disorder. To experience something and survive it. _That was the hardest year of my life, but in the end I was able to weather the storm with the support of my family._  
 __well up__  
+__what’s done is done__ :dart: There’s no use worrying or stressing about something that has already happened or come to pass. _I know this isn’t the outcome we wanted, but what’s done is done, so let’s just try to make the most of a bad situation._  
 __what’s the occasion?__ The idiom “what’s the occasion?” is typically used to inquire about the reason for a special event, celebration, or unusual behavior that seems out of the ordinary. It’s a friendly way to express curiosity about something that appears more formal or festive than usual.  
 __whoops__ _informal_ An exclamation of surprise used in response to a mistake or moment of clumsiness.  
 __why on earth__  
@@ -949,6 +955,7 @@ __work (one0146s) butt off__ To work really hard (on or at something). _I know y
 __worry (something) out of (someone or something)__  
 __yada, yada__ _Don’t yadda, yadda the Lord. It’s disrespectful._  
 __yellow__  
+__you have to be cruel to be kind__  
 __young at heart__ Behaving or thinking in a way that is more youthful than what traditionally accompanies one’s actual age.  
 __your mileage may vary__  
 __yup__  

@@ -45,9 +45,13 @@ __bay<sup>1</sup>__ _n_ :two::hammer:
 __bay<sup>2</sup>__ _vi_ :two: To howl, esp. with a deep, prolonged sound: _a hound baying at the moon._  
 __bay<sup>3</sup>__ _vt_ __1__ To utter in a loud prolonged tone. __2__ To drive to or hold at bay.  
 __beatific__ _adj_ /bee-uh-TIFF-ik/ _Beatific_ is a formal word that describes something or someone having a blissful appearance or showing complete happiness. _As the pair danced, beatific smiles on their faces, the audience sat hushed and almost reverential._  
+__beetle<sup>1</sup>__ _n_  
+__beetle<sup>2</sup>__ _adj_ Projecting; overhanging: _beetle brows._  
+__beetle<sup>3</sup>__ _v_ To project or overhang. _His brow beetled._  
 __bereaved__ _adj_  
 __better__ _v_  
 __biddy__ _n_ __2__ A woman, especially an older one who is extremely talkative.  
+__bier__ _n_ :three: A platform or stand on which a corpse or a coffin containing a corpse rests before burial. A funeral litter: _They placed the coffin on the bier._  
 __bigotry__ _n_  
 __biology__ _n_ :mega: /baɪˈɒl ə dʒi/  
 __board__ _v_ __17__ To furnish with meals, or with meals and lodging, esp. for pay.  
@@ -55,6 +59,9 @@ __boarding house__ _n_ :two::hammer: :es: pensión
 __boardroom__ _n_ A room where a committee meets (such as the board of directors of a company).  
 __bob__ _v_  
 __bobbin__ _n_ A cylinder or cone for holding thread; a spool or reel.  
+__bobtail<sup>1</sup>__ _n_ __1__ A short or docked tail. __2__ An animal with such a tail.  
+__bobtail<sup>2</sup>__ _adj_ __1__ Having a bobtail. __2__ Cut short; abbreviated.  
+__bobtail<sup>3</sup>__ _vt_ To cut short the tail of; dock.  
 __bog__ _n_ _A cow grazing in a bog._  
 __boiler suit__ _n_ _BrE_ A one-piece work garment consisting of overalls and a shirt top usually worn over ordinary clothes to protect them.  
 __bollock__ _vt_  
@@ -124,6 +131,7 @@ __chortle<sup>1</sup>__ _n_ A snorting, joyful laugh or chuckle.
 __chortle<sup>2</sup>__ _v_ To utter a chortle or express with a chortle.  
 __Christmastide__ _n_  
 __chunky__ _adj_ Short and thick; stocky. _Syn_ low-set, squat, squatty, stumpy, dumpy  
+__chutney__ _n_ :es: salsa picante de frutas y especias  
 __claimant__ _n_ :dart: /ˈkleɪmənt/ __1__ A person who makes a claim. __2__ _(Law)_ A person who brings a civil action in a court of law. Formerly called: plaintiff  
 __clatter__ _v_  
 __clemency__ _n_  
@@ -150,9 +158,10 @@ __cower__ _v_
 __crease<sup>1</sup>__ _n_ __1__ A line or mark produced by folding, pressing, or wrinkling. __2__ A wrinkle or furrow, esp on the face.  
 __crease<sup>2</sup>__ _vt_  
 __crease<sup>3</sup>__ _vi_  
+__cruelly__ _adv_ __1__ Excessively: _a cruelly bitter winter._ __2__ With cruelty: _he treated his students cruelly._  
 __daffovil__ _n_  
 __deceit__  
-__demesne__ _n_  
+__demesne__ _n_ :two::hammer: :es: tierras; heredad  
 __disbarment__ _n_  
 __doyen__ _n_ :two: (doyenne) The senior member of a group, profession, or society. _Syn_ dean  
 __drawl__ _v_  
@@ -207,6 +216,7 @@ __firebrand__
 __firsthand__  
 __fish__ _v_ __3__ To seek something in a sly or indirect way: _fish for compliments._  
 __fishwife__ _n_ :es: verdulera  
+__fitful__ _adj_ :astonished: Characterized by or occurring in irregular spells: _fitful sleep._ :es: irregular  
 __fixity__ _n_ The quality of being incapable of mutation. _Syn_ immutability _Darwin challenged the fixity of species with his theory of evolution._  
 __flabby__ _adj_ __1__ Lacking firmness; loose or yielding: _flabby muscles._ __2__ Having flabby flesh, esp through being overweight. __3__ Lacking vitality; weak; ineffectual.  
 __flag<sup>1</sup>__ _n_  
@@ -416,8 +426,11 @@ __jumpy__ _adj_ __1__ Nervous or apprehensive. __2__ Moving jerkily or fitfully.
 __juvenile<sup>1</sup>__ _adj_  
 __juvenile<sup>2</sup>__ _n_  
 __kickstand__ _n_ __1__ A swiveling metal bar for holding a bicycle, motorcycle, or other two-wheeled vehicle upright when it is not being ridden.  
+__kraken__ _n_ (often cap.) A huge sea monster in Norwegian legend.  
+__lackey__ _n_ /ˈlækɪ/  
 __lair__ _n_  
 __lambent__ _adj_ :two::hammer:  
+__lariat__ _n_  
 __Latin cross__ _n_ A cross with a shorter horizontal bar intersecting a longer vertical bar above the midpoint.  
 __legion<sup>1</sup>__ _n_  
 __legion<sup>2</sup>__ _adj_ :dart: Constituting a large number; multitudinous: _Her admirers were legion._ _His mistakes were legion._  
@@ -530,6 +543,7 @@ __monumental__ _adj_
 __Moor__  
 __moot<sup>1</sup>__ _adj_ /MOOT/ _Moot_ typically describes something that is no longer important or worth discussing. It can also describe something that is argued about but not possible for people to prove.  
 __moot<sup>2</sup>__ _vt_  
+__mop__ _v_ _I moped at my face with one hand._  
 __moped__ _n_ _Brit_ A light motorcycle, not over 50cc.  
 __morass__  
 __moratorium__ _n_  
@@ -545,6 +559,7 @@ __mulled wine__ _n_ Wine heated with sugar and spices and often citrus fruit.
 __mullet__ _n_ /ˈmʌlɪt/ __1__ An edible fish found in coastal waters. :es: salmonete __2__ A hairstyle in which the hair is short at the top and long at the back.  
 __multilateralism__ _n_ The practice of promoting trade among several countries through agreements concerning quantity and price of commodities, as the Common Market, and, sometimes, restrictive tariffs on goods from outsiders.  
 __nail clipper__ _n_ (also called nail clippers, a nail trimmer, a nail cutter or nipper type) A hand tool used to trim fingernails, toenails and hangnails.  
+__nameplate__ _n_ __1__ A plate or plaque, as on an office door, inscribed with a name.  
 __nape__ _n_  
 __nappy__ _n_ _Chiefly British_ A diaper.  
 __nascent__  
@@ -556,6 +571,7 @@ __nifty__ _adj_
 __nigh__ _adj, adv, prep_ /naɪ/ An archaic, poetic, or dialect word for near.  
 __nightcap__ _n_  
 __ninepins__ _n_  
+__nitrous__ _adj_  
 __nodule__ _n_  
 __noggin__ _n_ __1__ A small mug or cup. __2__ A unit of liquid measure equal to one quarter of a pint. __3__ _slang_ The human head.  
 __nominal price__ _n_  
@@ -829,6 +845,9 @@ __requite__ _v_ /rih-KWYTE/ To requite is to give or do something in return for 
 __resealable__ _adj, n_  
 __restrain__ _v_  
 __restraint__ _n_  
+__retch<sup>1</sup>__ _vi_ To try to vomit.  
+__retch<sup>2</sup>__ _vt_ To vomit.  
+__retching__ _n_ /ˈrɛtʃɪŋ/ A series of spasms; heaving. :es: esfuerzo por vomitar  
 __retention__ _n_  
 __ridealong__ _n_ __1__ The act of accompanying, or volunteering with, a police, paramedic, or firefighting group, usually by a student seeking hands-on experience. __2__ One who participates in this.  
 __riposte__ _n_ A quick reply to a question or remark (especially a witty or critical one). _Syn_ comeback, counter, rejoinder, replication, retort, return  
@@ -846,11 +865,14 @@ __scamper__ _n_
 __Scotch-tape__ _vt_ To fasten or mend with Scotch tape.  
 __scowl__ _v_  
 __sentient__ _adj_  
+__shamble<sup>1</sup>__ _vi_ :dart: To walk or move along in an awkward or unsteady way.  
+__shamble<sup>2</sup>__ _n_ An awkward or unsteady walk.  
 __sic__ _vt_ :dart: __1__ To turn on or attack: used only in commands, as to a dog. __2__ To urge (a dog) to attack. To urge or incite to hostile action; set: _sicced the dogs on the intruders._  
 __situation__ _n_ :three::hammer;  
 __skin-crawling__ _adj_ :dart: Horrifying or nauseating, so as to cause a creeping sensation in a person’s skin.  
 __slither__ _v_  
 __slobber__ _v_  
+__sloth__ _n_ _Sid the Sloth._ :es: pereza; perezoso  
 __snicker-snack__ _n_ [:scroll: Coined by Lewis Carroll in his poem Jabberwocky, probably relating to snickersnee] An onomatopoeia of unclear meaning, possibly referring to sharpness, or the sound of a blade cutting through something.  
 __snide__ _adj_ :smiling_imp:  
 __snivel__ _v_ /SNIV-ul/  
@@ -882,6 +904,8 @@ __suboptimal__ _adj_
 __succumb__ _vi_ :pencil2: /səˈkʌm/  
 __sundry__ _adj_ Consisting of a haphazard assortment of different kinds. _Syn_ assorted, miscellaneous, mixed, motley  
 __surcoat__ _n_  
+__tabby<sup>1</sup>__ _adj_  
+__tabby<sup>2</sup>__ _n_  
 __tee-hee__ _n_ (te-hee) /ˈtiːˈhiː/ __1__ A sound made in imitation of a giggle or titter. __2__ An instance of giggling or tittering. A chuckle.  
 __tenement__ _n_  
 __Terence__ _n_ (Terry)  
@@ -906,9 +930,8 @@ __tiddlywinks__ _n_ A game played on a flat surface, in which players attempt to
 __till__ _n_ :es: caja registradora  
 __tinderbox__ _n_ :dart: __1__ A metal box for holding tinder. __2__ :dart: A person or thing that is highly volatile; any potential source of violence. A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
 __tingle__ _n_  
-__tingling__ _adj_  
 __tingling<sup>1</sup>__ _n_ :es: hormigueo  
-__tingling<sup>2</sup>__ _adj_ :three::hammer: _Blood stained my tingling fingers._ _A tingling sensation._ :es: a tingling sensation → _una sensación de hormigueo_  
+__tingling<sup>2</sup>__ _adj_ :five::hammer: _Blood stained my tingling fingers._ _A tingling sensation._ :es: a tingling sensation → _una sensación de hormigueo_  
 __tipsy__  
 __tire iron__ _n_ :two: A short length of steel with one end flattened to form a blade, used to remove tires from wheel rims.  
 __to-do__ _n_ :dart: :es: alboroto  
@@ -1003,7 +1026,8 @@ __wonderful__ _adj_ :mega::astonished: /ˈwʌn dər fəl/
 __wondrous__ _adj_  
 __Worcestershire__ _n_ (sauce) /woos-ter-sheer/  
 __write__ _v_  
-__writhing__ _adj_ Moving in a twisting or snake-like or wormlike fashion.  
+__writhing__ _adj_ :four: Moving in a twisting or snake-like or wormlike fashion. _Syn_ wriggling, wriggly, wiggly  
+__wrought__ _adj_ :two::hammer:  
 __wrought-iron__  
 __wry__  
 __Xmas__ _n_  

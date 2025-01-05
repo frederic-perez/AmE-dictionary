@@ -333,28 +333,28 @@ class Checker(object):
         """Self-explanatory"""
         self.num_invalid_endings += 1
         headword: Final[str] = get_headword(entry)
-        print(OK_BLUE + BOLD + headword + END_C + FAIL + ' « Incorrect entry ending #'
+        print(DARK_ORANGE + BOLD + headword + END_C + FAIL + ' « Incorrect entry ending #'
               + str(self.num_invalid_endings) + END_C)
 
     def treat_invalid_underscores_use(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_invalid_use_of_underscores += 1
         headword: Final[str] = get_headword(entry)
-        print(OK_BLUE + BOLD + headword + END_C + FAIL + ' « Incorrect use of underscores #'
+        print(DARK_ORANGE + BOLD + headword + END_C + FAIL + ' « Incorrect use of underscores #'
               + str(self.num_invalid_use_of_underscores) + END_C)
 
     def treat_invalid_parentheses_or_brackets_use(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_invalid_use_of_parentheses_or_brackets += 1
         headword: Final[str] = get_headword(entry)
-        print(OK_BLUE + BOLD + headword + END_C + FAIL + ' « Incorrect use of parentheses or brackets #'
+        print(DARK_ORANGE + BOLD + headword + END_C + FAIL + ' « Incorrect use of parentheses or brackets #'
               + str(self.num_invalid_use_of_parentheses_or_brackets) + END_C)
 
     def treat_invalid_syn(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_invalid_syn += 1
         headword: Final[str] = get_headword(entry)
-        print(OK_BLUE + BOLD + headword + END_C + FAIL + ' « Incorrect use of syn #'
+        print(DARK_ORANGE + BOLD + headword + END_C + FAIL + ' « Incorrect use of syn #'
               + str(self.num_invalid_syn) + END_C)
 
     def treat_invalid_entry_tags(self, entry: str, tag: str) -> None:
@@ -368,7 +368,7 @@ class Checker(object):
         """Self-explanatory"""
         self.num_too_many_double_spaces += 1
         headword: Final[str] = get_headword(entry)
-        print(OK_BLUE + BOLD + headword + END_C + FAIL
+        print(DARK_ORANGE + BOLD + headword + END_C + FAIL
               + ' « Too many double spaces #'
               + str(self.num_too_many_double_spaces) + END_C)
 
@@ -376,63 +376,63 @@ class Checker(object):
         """Self-explanatory"""
         self.num_entries_with_triple_spaces += 1
         headword: Final[str] = get_headword(entry)
-        print(OK_BLUE + BOLD + headword + END_C + FAIL + ' « Triple spaces #'
+        print(DARK_ORANGE + BOLD + headword + END_C + FAIL + ' « Triple spaces #'
               + str(self.num_entries_with_triple_spaces) + END_C)
 
     def treat_wrong_type_of_space_character(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_entries_with_wrong_type_of_space_character += 1
         headword: Final[str] = get_headword(entry)
-        print(OK_BLUE + BOLD + headword + END_C + FAIL + ' « Wrong type of space character #'
+        print(DARK_ORANGE + BOLD + headword + END_C + FAIL + ' « Wrong type of space character #'
               + str(self.num_entries_with_wrong_type_of_space_character) + END_C)
 
     def treat_tab_character(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_entries_with_tab_character += 1
         headword: Final[str] = get_headword(entry)
-        print(OK_BLUE + BOLD + headword + END_C + FAIL + ' « Tab character(s) #'
+        print(DARK_ORANGE + BOLD + headword + END_C + FAIL + ' « Tab character(s) #'
               + str(self.num_entries_with_tab_character) + END_C)
 
     def treat_straight_single_quote(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_entries_with_straight_single_quote += 1
         headword: Final[str] = get_headword(entry)
-        print(OK_BLUE + BOLD + headword + END_C + FAIL + ' « Straight single quote #'
+        print(DARK_ORANGE + BOLD + headword + END_C + FAIL + ' « Straight single quote #'
               + str(self.num_entries_with_straight_single_quote) + END_C)
 
     def treat_straight_double_quote(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_entries_with_straight_double_quote += 1
         headword: Final[str] = get_headword(entry)
-        print(OK_BLUE + BOLD + headword + END_C + FAIL + ' « Straight double quote #'
+        print(DARK_ORANGE + BOLD + headword + END_C + FAIL + ' « Straight double quote #'
               + str(self.num_entries_with_straight_double_quote) + END_C)
 
     def treat_double_dash(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_entries_with_double_dash += 1
         headword: Final[str] = get_headword(entry)
-        print(OK_BLUE + BOLD + headword + END_C + FAIL + ' « Double dash #'
+        print(DARK_ORANGE + BOLD + headword + END_C + FAIL + ' « Double dash #'
               + str(self.num_entries_with_double_dash) + END_C)
 
     def treat_colon_underscore(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_entries_with_colon_underscore += 1
         headword: Final[str] = get_headword(entry)
-        print(OK_BLUE + BOLD + headword + END_C + FAIL + ' « Colon followed by underscore #'
+        print(DARK_ORANGE + BOLD + headword + END_C + FAIL + ' « Colon followed by underscore #'
               + str(self.num_entries_with_colon_underscore) + END_C)
 
     def treat_rogue_underscore(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_entries_with_rogue_underscore += 1
         headword: Final[str] = get_headword(entry)
-        print(OK_BLUE + BOLD + headword + END_C + FAIL + ' « Rogue underscore #'
+        print(DARK_ORANGE + BOLD + headword + END_C + FAIL + ' « Rogue underscore #'
               + str(self.num_entries_with_rogue_underscore) + END_C)
 
     def treat_question_mark(self, entry: str) -> None:
         """Self-explanatory"""
         self.num_entries_with_question_mark += 1
         headword: Final[str] = get_headword(entry)
-        print(OK_BLUE + BOLD + headword + END_C + FAIL + ' « Question mark (?) #'
+        print(DARK_ORANGE + BOLD + headword + END_C + FAIL + ' « Question mark (?) #'
               + str(self.num_entries_with_question_mark) + END_C)
 
     def treat_shit_tag(self, entry: str) -> None:
@@ -441,7 +441,7 @@ class Checker(object):
         tokens: Final[list[str]] = entry.split()
         headword: Final[str] = tokens[0]
         part_of_speech: Final[str] = tokens[1]
-        print(OK_BLUE + BOLD + headword + END_C + ' ' + part_of_speech + FAIL
+        print(DARK_ORANGE + BOLD + headword + END_C + ' ' + part_of_speech + FAIL
               + ' « :shit: found; use :hammer: instead' + END_C)
 
     def treat_wrong_nine_m(self, entry: str) -> None:
@@ -450,20 +450,20 @@ class Checker(object):
         tokens: Final[list[str]] = entry.split()
         headword: Final[str] = tokens[0]
         part_of_speech: Final[str] = tokens[1]
-        print(OK_BLUE + BOLD + headword + END_C + ' ' + part_of_speech + FAIL
+        print(DARK_ORANGE + BOLD + headword + END_C + ' ' + part_of_speech + FAIL
               + ' « :nine:m: found; add missing colon' + END_C)
 
     def treat_missing_part_of_speech(self, headword: str, part_of_speech: str) -> None:
         """Self-explanatory"""
         self.num_missing_part_of_speech += 1
         if part_of_speech != '':
-            print(OK_BLUE + BOLD + headword + END_C + ' ' + part_of_speech + FAIL
+            print(DARK_ORANGE + BOLD + headword + END_C + ' ' + part_of_speech + FAIL
                   + ' « Missing part of speech found' + END_C)
 
     def treat_displaced_part_of_speech(self, headword: str, part_of_speech: str) -> None:
         """Self-explanatory"""
         self.num_displaced_part_of_speech += 1
-        print(OK_BLUE + BOLD + headword + END_C + ' ' + part_of_speech + FAIL
+        print(DARK_ORANGE + BOLD + headword + END_C + ' ' + part_of_speech + FAIL
               + ' « Displaced part of speech found' + END_C)
 
     def check_entry(self, entry: str, do_check_parts_of_speech: bool) -> None:
@@ -620,10 +620,10 @@ class Checker(object):
         size: Final[int] = len(repeated)
         if size > 0:
             repeated_sorted: Final[list[str]] = sorted(repeated)
-            print('Found ' + str(size) + ' duplicated headwords, the very first being:')
+            print(f'{DARK_ORANGE}Found {FAIL}{size} duplicated headwords{DARK_ORANGE}, the very first being:')
             i: int = 0
             for headword in repeated_sorted:
-                print('  ' + FAIL + headword + ' ' + repeated[headword] + END_C)
+                print(f'{i+1:02} {FAIL}{BOLD}{headword}{END_C} {CYAN}{repeated[headword]}{END_C}')
                 i += 1
                 if i == 10:
                     break  # exit loop
