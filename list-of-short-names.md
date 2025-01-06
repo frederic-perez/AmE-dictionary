@@ -2,11 +2,12 @@
 
 ## Two characters
 
-- __Al__ Often short for Alfred, Albert, Alphonse, Alphons, Allen, Allan, Alan, Alyson, Alysson, Allyson, Alistair, Alister, Alex, Alexander, Alvin, Alyssa, Alsha, Aldrin, Alden, Aldwin, or Alwin.
-- __Cy__ A masculine given name, often a short form (hypocorism) of Cyril, Cyrus or Seymour, and a nickname.
-- __Ed__ Usually a short form (hypocorism) of Edward, Edgar, Edmund, Edwin, Edith, etc.
-- __Sy__ Sy is a given name, nickname/hypocorism (often of Seymour) and surname.
-- __Ty__ The name Ty developed as an independently given name from the short form of any one of the following male names: Tyler, Tyson, Tyrone, Tyrell, and Tyrese.
+- __Al__ /æl/ Often short for Alfred, Albert, Alphonse, Alphons, Allen, Allan, Alan, Alyson, Alysson, Allyson, Alistair, Alister, Alex, Alexander, Alvin, Alyssa, Alsha, Aldrin, Alden, Aldwin, or Alwin.
+- __Cy__ /saɪ/ A masculine given name, often a short form (hypocorism) of Cyril, Cyrus or Seymour, and a nickname.
+- __Ed__ /ɛd/ Usually a short form (hypocorism) of Edward, Edgar, Edmund, Edwin, Edith, etc.
+- __Sy__ /saɪ/ Sy is a given name, nickname/hypocorism (often of Seymour) and surname.
+- __Ty__ /taɪ/ The name Ty developed as an independently given name from the short form of any one of the following male names: Tyler, Tyson, Tyrone, Tyrell, and Tyrese.
+- __Vi__ /vaɪ/ The name Vi is relatively uncommon as a standalone name, but it is still recognized and used by some individuals.It is often a short form or nickname for names like Violet, Victoria, or Vivian.
 
 ## Three characters
 

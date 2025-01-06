@@ -548,8 +548,10 @@ __long arm__ Broad, far-reaching power or influence. (Usually paired with a noun
 __long memory__ A clear memory of events that happened long ago. _My grandma has a long memory of her childhood in Russia. It’s astonishing hearing how things were when she was young!_  
 __long since__ Long ago; of the (relatively) distant past. _Though Sarah had long since moved on from their relationship, Jonathan still hoped they would one day get back together._  
 __long-run__ Involving, maturing after, or lasting for a long period of time. Used before a noun. _Our team has come up with a number of long-run solutions to our financial problems, but we’ll have to make some sacrifices for them to be effective._  
+__look (a little/bit) off__  
 __look askance upon (someone or something)__ To view or regard someone or something in a disapproving or distrustful manner. _Such is the state of politics these days that even the most patriotic citizens tend to look askance upon the manner in which congress conducts business._  
 __look for a dog to kick__ To seek out someone to blame or castigate, especially someone who is not at fault. (Usually said in the continuous tense.) _My dad had a famously short fuse when we were growing up, so we soon learned to get out of his way when he was looking for a dog to kick._  
+__look on the sunny side (of life/things)__ :dart: To view one’s life, situation, or circumstances with a generally optimistic and cheerful attitude; to focus on what is positive in life. _My mother always told me to look on the sunny side of life, and I have to admit, it helps when I’m having a rough day._  
 __look out for number one__ To put one’s own needs, concerns, or responsibilities before those of anyone else. _The only way you’re going to get ahead in this business is if you look out for number one._  
 __love handles__ ((love) handles, spare tyres, Dunlops disease, Dunlop Syndrome) _euphemism_ [So called because supposed to be grabbed by a partner in sexual intercourse.]  
 __make a fuss__  
@@ -800,6 +802,7 @@ __speed__ _slang_ Any illicit stimulant drug, especially amphetamine or methamph
 __spend a penny__ _euphemism_ To go to the toilet. Primarily heard in UK.  
 __spill the beans__  
 __spill your guts__ To confess or reveal all, often under pressure or coercion. Ellroy often has characters facing moral dilemmas, and this idiom fits the theme of characters who must decide whether to reveal their secrets or keep them buried.  
+__spin doctor__ :smiling_imp: Someone who gives a twisted or deviously deceptive version of an event. (Usually in the context of manipulating the news for political reasons.) _Things were going bad for the candidate, so he got himself a new spin doctor._ _A good spin doctor could have made the incident appear far less damaging._  
 __spoil for something__ _You are spoiling for a fight._ :es: te estás buscando pelea  
 __square off__  
 __stakeout__  
@@ -889,7 +892,9 @@ __the powers that be__ :dart::three:
 __the real deal__  
 __the rundown__ (give (someone) (a/the) rundown) To tell someone details about or a brief summary of a given event or situation.  
 __the short and the long of it__ The essential or most important point being made; the plain truth of the matter. _There are a lot of reasons I don’t want to go, but the short and the long of it is that I don’t want to see my ex-boyfriend there._  
+__the sky’s the limit__ Anything is possible.  
 __the small of (one’s)/the back__ One’s lower back.  
+__the tail wagging the dog__ People talk about _the tail wagging the dog_ to describe a situation where an unimportant part of something or an unimportant person or group involved in something has too much influence over it. The smallest or least important part of something in control of the larger or more important elements; a reversal of typical roles or dynamics of power. _They reorganized their entire weekly schedule just because their son likes to sleep in late. Talk about the tail wagging the dog._ _Their group is small but very vocal, so be sure that management doesn’t give in to their demands. We don’t want the tail wagging the dog, after all._  
 __the upper crust__  
 __the upshot (of something)__ :dart::two: The final or resulting outcome, conclusion, or consequence (of something). _The upshot of this merger is that the company will now control nearly 50% of the world’s television networks._  
 __the whole nine yards__ Everything; the full extent of something. This could be used when a character has gone all-in or is fully committed to an action, no matter the risk.  
@@ -936,6 +941,7 @@ __up (one’s) alley__ :dart: See _right up (one’s) alley._
 __up a notch__ To an increased or extreme degree of intensity or quality.  
 __up against a brick wall__ Stymied by difficulties or obstacles that seem unlikely to change.  
 __up fpr grabs__  
+__very much so__ To a significant extent; yes, very much.  
 __wait and see__ :three::hammer: _It profits me best to wait and see._  
 __walk on eggs__  
 __war chest__  

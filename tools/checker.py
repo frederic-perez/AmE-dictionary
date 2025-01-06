@@ -132,17 +132,15 @@ def entry_has_tag_hammer(entry: str) -> bool:
     """Self-explanatory"""
     return entry.find(':hammer:') > -1
 
-def print_colored(label: str, number: int) -> None:
+def print_colored(text: str, number: int) -> None:
     """Self-explanatory"""
-    message: Final[str] = label + ' = ' + str(number)
+    message: Final[str] = text + ' = ' + str(number)
     emoji, color = (lambda: ('✅', OK_GREEN) if number == 0 else ('🐞', FAIL))()
     print(emoji + ' ' + color + message + END_C)
 
-def print_colored_if_positive(label: str, number: int) -> None:
+def print_colored_if_positive(text: str, number: int) -> None:
     """Self-explanatory"""
-    if number > 0:
-        message: Final[str] = label + ' = ' + str(number)
-        print('🐞 ' + FAIL + message + END_C)
+    number > 0 and print(f'🐞 {FAIL}{text} = {number}{END_C}')
 
 
 def get_headword(entry: str) -> str:
@@ -704,8 +702,7 @@ def format_to_print(entry: str) -> str:
         clean_rest = clean_rest.replace(tag, number_str_xt)
     clean_rest = clean_rest.replace(':m:', MAGENTA + '(+)' + END_C)
 
-    return CYAN + BOLD + clean_headword + ' ' \
-        + END_C + CYAN + ITALIC + clean_part_of_speech + END_C + ' ' + clean_rest
+    return f"{CYAN}{BOLD}{clean_headword}{END_C} {CYAN}{ITALIC}{clean_part_of_speech}{END_C} {clean_rest}"
 
 
 def check(arg, do_check_parts_of_speech: bool) -> None:

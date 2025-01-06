@@ -88,6 +88,7 @@ __bridle__ _n_ The act of restraining power or action or limiting excess. _Syn_ 
 __brimstone__ _n_ __1__ Sulfur, especially considered as a component of the torments of hell in Christianity. (See _fire and brimstone_.) An obsolete name for sulphur.  
 __broadsword__ _n_ A sword with a wide, usually two-edged blade that is designed for slashing rather than thrusting.  
 __brogue__ _n_ /BROHG/ A _brogue_ is a low shoe, usually made of leather, that is decorated with small holes along the sides at the toe, and that usually features a wing tip.  
+__brownstone__ _n_  
 __bub__ _n slang_ :dart:  
 __buckle__ _v_  
 __bud vase__ _n_ A small narrow vase for holding a single flower or small bouquet.  
@@ -112,10 +113,12 @@ __canasta__ _n_ A card game similar to rummy and played using two packs, where t
 __canine tooth__ _n_ One of the four pointed conical teeth (two in each jaw) located between the incisors and the premolars. _Syn_ canine, cuspid, eye tooth, eyetooth, dogtooth  
 __canister__ _n_ _A film canister._  
 __Capitol Hill__ _n_  
+__careen__ _v_ Move sideways or in an unsteady way. _Syn_ wobble, tilt, shift _The ship careened out of control in the storm._  
 __carouse__ _v_  
 __catnap<sup>1</sup>__ _n_  
 __catnap<sup>2</sup>__ _vi_  
 __cavalier__ _adj_ :dart::astonished: /ˌkæv əˈlɪər, ˈkæv əˌlɪər/ /kav-uh-LEER/ Someone described as _cavalier_ shows no concern for important or serious matters. Cavalier also describes attitudes, manners, etc., that show the same lack of concern. _The company provides regular training about the dangers of being cavalier in sharing privileged information._  
+__cerulean__ _adj_ /suh-ROO-lee-un/ Cerulean describes things whose blue color resembles the blue of a clear sky.  
 __chastening__ _adj_ Humbling.  
 __chastise__ _v_ /chass-TYZE/ To chastise someone is to criticize them harshly for doing something wrong. _The waiter was chastised for forgetting the customer’s order._  
 __check<sup>1</sup>__ _n_  
@@ -255,6 +258,7 @@ __Fu Manchu mustache__ _n_ A mustache with ends that hang downward toward or bel
 __fugacious__ _adj_ /fyoo-GAY-shus/  
 __fulgent__ _adj_ :two: /ˈfʌl dʒənt/ /FUHL-juhnt/ /FULL-jint/ _Fulgent_ is a formal, often poetic word used to describe something that is dazzlingly bright. Shining brilliantly; radiant. _Syn_ radiant  
 __full board__ _n_ :dart: __a__ The provision by a hotel of a bed and all meals. :es: pensión completa __b__ (as modifier): _full board accommodation._  
+__fulminate__ _v_ :astonished: /FULL-muh-nayt/ To fulminate is to complain loudly or angrily about something. _The editorial fulminated against the corruption in the state government that has been recently uncovered._  
 __fumble__ _v_  
 __funfair__  
 __funkhole__  
@@ -318,6 +322,7 @@ __gossamer__ _adj_ /GAH-suh-mer/ Something described as _gossamer_—such as a b
 __gouge__ _vt_  
 __grandiloquence__ _n_ /gran-DIH-luh-kwunss/ _Grandiloquence_ is a formal word that refers to the use of extravagantly colorful or pompous language often in order to sound impressive and important.  
 __gravitas__ _n_ Seriousness or sobriety, as of conduct or speech.  
+__greasepaint__ _n_ Theatrical makeup, especially a preparation of grease mixed with colorings. _Groucho applied greasepaint to enhance his comedic disguise for the show._  
 __grill pan__ _n_ :camera: A type of frying pan with raised ridges or grooves on the cooking surface that simulate the char marks of an outdoor grill.  
 __gripping__ _adj_ :es: con gancho  
 __groan__ _n_  
@@ -332,6 +337,7 @@ __gull__ _vt_ :smiling_imp: To deceive or cheat. :es: embaucar
 __gullet__ _n_ /ˈgʌl ɪt/ __1__ A less formal name for the esophagus. __2__ The throat.  
 __gunpowder__ _n_ :two: /ˈgʌnˌpaʊ dər/ __2__ A fine variety of green China tea, each leaf of which is rolled into a little ball. _Syn_ gunpowder tea  
 __gurney__ _n_ /ˈɡɜːnɪ/ _Medicine_ _US_ A wheeled stretcher for transporting hospital patients.  
+__gustation__ _n_ The faculty of distinguishing sweet, sour, bitter, and salty properties in the mouth. _Syn_ taste _Her cold had muted all sense of gustation, and she had no appetite for food._  
 __guttural__ _adj_ /GUTT-uh-rul/ A guttural sound—such as speech, laughter, or a grunt—is formed or pronounced in the throat.  
 __habeas corpus__  
 __hackneyed__ _adj_  
@@ -371,6 +377,7 @@ __heathen__ _n_
 __heavenward<sup>1</sup>__ _adv_ (also heav′enwards) Toward heaven.  
 __heavenward<sup>2</sup>__ _adj_ Directed towards heaven or the sky.  
 __heinous__ _adj_ /HAY-nus/ _Heinous_ describes things—such as acts, deeds, or crimes—that are hatefully or shockingly evil, or in other words, deserving of hate or contempt.  
+__honorable discharge__ _n_ :two: Discharge from the armed forces with a commendable record.  
 __imperviousness__ _n_  
 __impish__ _adj_ :es: pícaro, travieso  
 __importunate__ _adj_ :astonished: Troublesomely urgent or persistent in requesting; pressingly entreating: _an importunate job seeker._  
@@ -432,6 +439,7 @@ __lair__ _n_
 __lambent__ _adj_ :two::hammer:  
 __lariat__ _n_  
 __Latin cross__ _n_ A cross with a shorter horizontal bar intersecting a longer vertical bar above the midpoint.  
+__Leavenworth__ _n_ A city in NE Kansas: site of federal prison.  
 __legion<sup>1</sup>__ _n_  
 __legion<sup>2</sup>__ _adj_ :dart: Constituting a large number; multitudinous: _Her admirers were legion._ _His mistakes were legion._  
 __lexical__ _adj_ /LEK-sih-kul/ To describe something as _lexical_ is to say that it is related to words or vocabulary.  
@@ -849,6 +857,7 @@ __retch<sup>1</sup>__ _vi_ To try to vomit.
 __retch<sup>2</sup>__ _vt_ To vomit.  
 __retching__ _n_ /ˈrɛtʃɪŋ/ A series of spasms; heaving. :es: esfuerzo por vomitar  
 __retention__ _n_  
+__reveler__ _n_  
 __ridealong__ _n_ __1__ The act of accompanying, or volunteering with, a police, paramedic, or firefighting group, usually by a student seeking hands-on experience. __2__ One who participates in this.  
 __riposte__ _n_ A quick reply to a question or remark (especially a witty or critical one). _Syn_ comeback, counter, rejoinder, replication, retort, return  
 __ripple__ _v_ :two::hammer:  
@@ -864,6 +873,9 @@ __saunter__
 __scamper__ _n_  
 __Scotch-tape__ _vt_ To fasten or mend with Scotch tape.  
 __scowl__ _v_  
+__scrap<sup>1</sup>__ _n_ __5__ :smiling_imp: A fight or scuffle. _Syn_ brawl  
+__scrap<sup>2</sup>__ _vt_  
+__scrap<sup>3</sup>__ _vi_ :smiling_imp: To fight, usually with the fists.  
 __sentient__ _adj_  
 __shamble<sup>1</sup>__ _vi_ :dart: To walk or move along in an awkward or unsteady way.  
 __shamble<sup>2</sup>__ _n_ An awkward or unsteady walk.  
@@ -886,6 +898,7 @@ __solstice__ _n_ One of the two times during the year when the sun is farthest n
 __soon enough__ _adv_ :dart::astonished:  
 __sou__ _n_ One of several coins formerly used in France, worth a small amount.  
 __specific__ _adj, n_ :mega: /spi-sif-ik/  
+__spin__ _n_ :smiling_imp: __23__ _informal_ The practice of presenting news or information in a way that creates a favourable impression. _Put one’s own spin on a news story._  
 __spindle__ _n_  
 __spinning jenny__ _n_ An early spinning machine having more than one spindle, enabling a person to spin a number of yarns simultaneously.  
 __splutter__ _v_ _I coughed and spluttered._  
