@@ -51,56 +51,6 @@ __beetle<sup>3</sup>__ _v_ To project or overhang. _His brow beetled._
 __bereaved__ _adj_  
 __better__ _v_  
 __biddy__ _n_ __2__ A woman, especially an older one who is extremely talkative.  
-__bier__ _n_ :three: A platform or stand on which a corpse or a coffin containing a corpse rests before burial. A funeral litter: _They placed the coffin on the bier._  
-__bigotry__ _n_  
-__biology__ _n_ :mega: /baɪˈɒl ə dʒi/  
-__board__ _v_ __17__ To furnish with meals, or with meals and lodging, esp. for pay.  
-__boarding house__ _n_ :two::hammer: :es: pensión  
-__boardroom__ _n_ A room where a committee meets (such as the board of directors of a company).  
-__bob__ _v_  
-__bobbin__ _n_ A cylinder or cone for holding thread; a spool or reel.  
-__bobtail<sup>1</sup>__ _n_ __1__ A short or docked tail. __2__ An animal with such a tail.  
-__bobtail<sup>2</sup>__ _adj_ __1__ Having a bobtail. __2__ Cut short; abbreviated.  
-__bobtail<sup>3</sup>__ _vt_ To cut short the tail of; dock.  
-__bog__ _n_ _A cow grazing in a bog._  
-__boiler suit__ _n_ _BrE_ A one-piece work garment consisting of overalls and a shirt top usually worn over ordinary clothes to protect them.  
-__bollock__ _vt_  
-__Bondo__ _n_ A trademark for a variety of materials used to repair automobile bodies.  
-__bookend__ _n_ :camera:  
-__booker__ _n_  
-__boom__ _n_  
-__bosom__ _n_ :two::hammer:  
-__boxwood__ _n_  
-__Bram__ _n_ Short for Abraham, Abram, Bertram.  
-__bran__ _n_  
-__brandish__ _v_  
-__brassery__ _n_  
-__brat__ _n_  
-__brazenly__  
-__breadcrumbs__ _n pl_ Very tiny pieces of bread. _Dip the fish in egg and breadcrumbs._ :es: pan rallado  
-__break room__ _n_ A room in a public building or worksite set aside for coffee breaks, lunch breaks, snacking, etc.  
-__breakroom__ _n_ Alternative spelling of break room.  
-__brethren__ _n pl_ :dart::two: __1__ A plural of brother.  
-__bribe__ _n_ :smiling_imp:  
-__bridge<sup>1</sup>__ _n_  
-__bridge<sup>2</sup>__ _vt_ __1__ To build or provide a bridge over something; span: _to bridge a river._ __2__ To connect or reduce the distance between: _let us bridge our differences._  
-__bridle__ _n_ The act of restraining power or action or limiting excess. _Syn_ check, curb _His common sense is a bridle to his quick temper._  
-__brimstone__ _n_ __1__ Sulfur, especially considered as a component of the torments of hell in Christianity. (See _fire and brimstone_.) An obsolete name for sulphur.  
-__broadsword__ _n_ A sword with a wide, usually two-edged blade that is designed for slashing rather than thrusting.  
-__brogue__ _n_ /BROHG/ A _brogue_ is a low shoe, usually made of leather, that is decorated with small holes along the sides at the toe, and that usually features a wing tip.  
-__brownstone__ _n_  
-__bub__ _n slang_ :dart:  
-__buckle__ _v_  
-__bud vase__ _n_ A small narrow vase for holding a single flower or small bouquet.  
-__bullock__ _n_ __1__ A castrated bull; a steer. __2__ A young bull.  
-__Bullpen Bulletins__ _n_ “Bullpen Bulletins” (originally titled “Marvel Bullpen Bulletins”) was the news and information page that appeared in most regular monthly comic books from Marvel Comics.  
-__bumbling__ _adj_  
-__burgeon__ _vi_ :es: florecer  
-__burglarize__ _v_  
-__burin__ _n_  
-__burl__ _vt_  
-__burn (someone or something) to a crisp__  
-__burp__ _v_  
 __burrow__ _v_  
 __busybody__ _n_  
 __butcher<sup>1</sup>__ _n_  

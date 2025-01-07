@@ -621,7 +621,7 @@ class Checker(object):
             print(f'{DARK_ORANGE}Found {FAIL}{size} duplicated headwords{DARK_ORANGE}, the very first being:')
             i: int = 0
             for headword in repeated_sorted:
-                print(f'{i+1:02} {FAIL}{BOLD}{headword}{END_C} {CYAN}{repeated[headword]}{END_C}')
+                print(f'{DARK_ORANGE}{i+1:02} {FAIL}{BOLD}{headword}{END_C} {CYAN}{repeated[headword]}{END_C}')
                 i += 1
                 if i == 10:
                     break  # exit loop
