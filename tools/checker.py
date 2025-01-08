@@ -36,8 +36,7 @@ UNDERLINE: Final[str] = '\033[4m'
 
 def valid_entry_ending(entry: str) -> bool:
     """Self-explanatory"""
-    valid: Final[bool] = entry.endswith('  ')
-    return valid
+    return entry.endswith('  ')
 
 
 def valid_use_of_underscores(entry: str) -> bool:
@@ -57,9 +56,11 @@ def valid_use_of_underscores(entry: str) -> bool:
     reminder_ribbon_flag: Final[int] = int('reminder_ribbon' in entry)
     smiling_imp_flag: Final[int] = int('smiling_imp' in entry)
 
-    if entry.count('___') > 0 or (entry.count('_') - reminder_ribbon_flag - smiling_imp_flag) % 2 != 0 or entry.count('_:es:') > 0:
-        return False
-    return True
+    invalid: Final[bool] = (
+        entry.count('___') > 0
+        or (entry.count('_') - reminder_ribbon_flag - smiling_imp_flag) % 2 != 0
+        or entry.count('_:es:') > 0)
+    return not invalid
 
 
 def valid_use_of_parentheses_or_brackets(entry: str) -> bool:

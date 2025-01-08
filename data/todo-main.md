@@ -39,6 +39,7 @@ __arbiter__ _n_ One chosen or appointed to judge or decide a disputed issue. _Sy
 __armamentarium__ _n_ :astonished: _(Medicine)_ The items that comprise the material and equipment used by a physician in his professional practice.  
 __armistice__ _n_ /AHR-muh-stus/  
 __Arthur__ _n_ A legendary king of the Britons whose story is based on traditions of a sixth century military leader.  
+__ataractic__ _adj_ Of or relating to a drug or other agent that has a tranquilizing effect. _Syn_ sedative, tranquilizing _Valium has an ataractic effect that is useful in treating tension and anxiety._  
 __austere__ _adj_ :mega:  
 __badger__ _v_  
 __bay<sup>1</sup>__ _n_ :two::hammer:  
@@ -48,6 +49,7 @@ __beatific__ _adj_ /bee-uh-TIFF-ik/ _Beatific_ is a formal word that describes s
 __beetle<sup>1</sup>__ _n_  
 __beetle<sup>2</sup>__ _adj_ Projecting; overhanging: _beetle brows._  
 __beetle<sup>3</sup>__ _v_ To project or overhang. _His brow beetled._  
+__beleaguer__ _v_ /bih-LEE-gur/ To beleaguer a person, business, etc. is to cause them constant or repeated trouble. _Beleaguer_ is also sometimes used as a synonym of besiege.  
 __bereaved__ _adj_  
 __better__ _v_  
 __biddy__ _n_ __2__ A woman, especially an older one who is extremely talkative.  
@@ -108,6 +110,7 @@ __convivial__ _adj_ /kənˈvɪv i əl/
 __countervail__ _v_ Oppose and mitigate the effects of by contrary actions. _Syn_ counteract, counterbalance, neutralize  
 __covenant__  
 __cower__ _v_  
+__cram__ _v_ Study intensively, as before an exam. _Syn_ bone up, drum, get up, grind away, mug up, swot _I spent the week before my Latin final exam cramming, a strategy that paid off when I aced the class._  
 __crease<sup>1</sup>__ _n_ __1__ A line or mark produced by folding, pressing, or wrinkling. __2__ A wrinkle or furrow, esp on the face.  
 __crease<sup>2</sup>__ _vt_  
 __crease<sup>3</sup>__ _vi_  
@@ -243,6 +246,7 @@ __gasp<sup>1</sup>__ _v_
 __gasp<sup>2</sup>__ _n_ __1__ A short convulsive intake of breath.  
 __gateway__ _n_ __2__ Something that serves as an entrance or a means of access: _a gateway to success; the gateway to the West._  
 __gaunt__ _adj_ :two::hammer: _Two enormous gaunt wolves._  
+__gelid__ _adj_ /JELL-id/ Something described as gelid, such as the weather or a person’s demeanor, is literally or figuratively extremely cold or icy.  
 __general practitioner__ _n_ (GP) _Syn_ family doctor  
 __genteelism__ _n_ /jen-TEE-liz-uhm/ The substitution of a word that is believed to be more polite or refined. For example, washroom for lavatory.  
 __gerbil__ _n_ :es: jerbo  
@@ -328,6 +332,7 @@ __heavenward<sup>1</sup>__ _adv_ (also heav′enwards) Toward heaven.
 __heavenward<sup>2</sup>__ _adj_ Directed towards heaven or the sky.  
 __heinous__ _adj_ /HAY-nus/ _Heinous_ describes things—such as acts, deeds, or crimes—that are hatefully or shockingly evil, or in other words, deserving of hate or contempt.  
 __honorable discharge__ _n_ :two: Discharge from the armed forces with a commendable record.  
+__humdrum__ _adj_ Lacking variety or excitement; dull. _Syn_ unglamorous, commonplace, prosaic  
 __imperviousness__ _n_  
 __impish__ _adj_ :es: pícaro, travieso  
 __importunate__ _adj_ :astonished: Troublesomely urgent or persistent in requesting; pressingly entreating: _an importunate job seeker._  
@@ -366,6 +371,7 @@ __jangle__ _v_
 __jangle<sup>1</sup>__ _vi_ To make a harsh metallic sound: _The spurs jangled noisily._  
 __jangle<sup>2</sup>__ _vt_ :dart::two: __1__ To cause to make a harsh discordant sound. __2__ To have an irritating effect on: _The racket from the street jangled my nerves._  
 __jangle<sup>3</sup>__ _n_  
+__Janus word__ _n_ /ˈdʒeɪnəs wɜrd/ A word that has opposite or nearly opposite meanings, such as cleave and dust. (These are also called contronyms.) To cleave something can mean to adhere closely to that thing, but it can also mean its opposite: to split, divide, or cut off. As a verb, dust can refer to the removal of dust, or the addition of it. (Think dust the cookies with confectioners’ sugar.)  
 __jaundice__ _n_  
 __Jenga__ _n_  
 __jerkwater__ _adj_ /JERK-waw-ter/  
@@ -900,6 +906,7 @@ __tire iron__ _n_ :two: A short length of steel with one end flattened to form a
 __to-do__ _n_ :dart: :es: alboroto  
 __toadstool__ _n_ Common name for an inedible or poisonous agaric (contrasting with the edible mushroom). :es: hongo venenoso  
 __toil__ _vi_  
+__tome__ _n_ /TOHM/ _Tome_ is a formal word for a book, and especially a very large, thick, often scholarly book.  
 __Tonka__ _n_  
 __toot__ _v_  
 __torpedo__ _vt_ __2__ To render ineffective; destroy or wreck: _to torpedo the administration’s plan._  
@@ -939,57 +946,6 @@ __urbane__ _adj_ :astonished::two: /er-BAYN/ Someone described as urbane is nota
 __urinal__ _n_  
 __usher in__  
 __Vandyke beard__ _n_ A short, pointed beard, especially one worn with the cheeks shaven and a mustache.  
-__veil<sup>1</sup>__ _n_  
-__veil<sup>2</sup>__ _vt_ __2__ To conceal or disguise: _a smile that veiled his anger._  
-__veil<sup>3</sup>__ _vi_ To wear a veil.  
-__veld__ _n_ (veldt) Any of the open grazing areas of southern Africa.  
-__venerate__ _v_ /VEN-uh-rayt/ To venerate someone or something is to feel or show deep respect for them because they are considered great, holy, etc.  
-__vernier__ _n_ (vernier scale)  
-__vicarious__ _adj_  
-__victuals__ _n pl_ /VIT-ulz/ _Victuals_ is a word with an old-fashioned feel that refers to food, and sometimes to both food and drink.  
-__vindictive__ _adj_ :smiling_imp:  
-__vocabulary__ _n_ :mega: /voh-kab-yuh-ler-ee/  
-__volition__ _n_ The act or an instance of making a conscious choice or decision. _Syn_ willing  
-__wabi-sabi__ _n_  
-__wad__ _v_  
-__waddle__ _v_  
-__wagonette__ _n_ :camera: (waggonette) A light four-wheeled horse-drawn vehicle with two lengthwise seats facing each other behind a crosswise driver’s seat.  
-__waldo__  
-__walrus mustache__ _n_ A bushy, drooping mustache.  
-__warthog__ _n_ :astonished: African wild swine with warty protuberances on the face and large protruding tusks.  
-__wassail<sup>1</sup>__ _n_ /ˈwɒseɪl/ /WAH-sul/ __1__ (Brewing) (formerly) A toast or salutation made to a person at festivities. __2__ (Brewing) A festivity when much drinking takes place. __3__ (Brewing) Alcoholic drink drunk at such a festivity, esp spiced beer or mulled wine. __4__ (Anglicanism) The singing of Christmas carols, going from house to house.  
-__wassail<sup>2</sup>__ _v_ /ˈwɒseɪl/ /WAH-sul/ __1__ (Brewing) To drink the health of (a person) at a wassail. __2__ _vi_ (Anglicanism) To go from house to house singing carols at Christmas.  
-__waylaid__  
-__weak coffee__ _n_ :dart: _Weak coffee_ generally refers to a brew that has a lower concentration of coffee grounds relative to the amount of water used during brewing. This results in a drink that is often perceived as watery or lacking in robust flavor.  
-__wean__ _vt_  
-__weathervane__ _n_  
-__weed__ _v_  
-__well-versed__ _adj_ Highly experienced, practiced, or skilled; very knowledgeable; learned.  
-__well<sup>1</sup>__ _n_  
-__well<sup>2</sup>__ _vi_ __1__ To rise to the surface, ready to flow: _Tears welled in my eyes._ __2__ To rise or surge from an inner source: _Anger welled up in me._ Flow or rise up, often gradually and steadily. _There was music welling from a speaker._  
-__well<sup>3</sup>__ _vt_  
-__wharf__ _n_ A platform built out from the shore into the water and supported by piles; provides access to ships and boats. _Syn_ pier, wharfage, dock  
-__wheeddle__ _v_ :smiling_imp:  
-__whimper__ _v_ :two::hammer:  
-__whimpering__ _adj_ :es: que gime, que gimotea  
-__White Russian__ _n_ A decadent and easy-to-make drink with vodka, Kahlúa and cream.  
-__white-hot__ _adj_  
-__whoop__ _v_ :astonished: _Several car alarms were whooping._  
-__whuff__ _v_ :two: (whuffle) To blow noisily.  
-__wick__ _n_ _I dialed the wick up to a bright flame._  
-__Wiffle ball__ _n_  
-__William__ _n_ (Shortened familiar versions in English include Will, Wills, Willy, Willie, Liam, Bill, and Billy)  
-__Wisconsin__ _n_ :mega: /wɪsˈkɒnsɪn/ /wɪsˈkɒn sən/  
-__wisp__ _n_  
-__withering__ _adj_ :dart: Tending to overwhelm or destroy; devastating: _withering sarcasm._ _I shot him a withering glance._  
-__Witness protection__ _n_  
-__woefully__  
-__womanize__ _v_ (womanise)  
-__wonderful__ _adj_ :mega::astonished: /ˈwʌn dər fəl/  
-__wondrous__ _adj_  
-__Worcestershire__ _n_ (sauce) /woos-ter-sheer/  
-__write__ _v_  
-__writhing__ _adj_ :four: Moving in a twisting or snake-like or wormlike fashion. _Syn_ wriggling, wriggly, wiggly  
 __wrought__ _adj_ :two::hammer:  
 __wrought-iron__  
 __wry__  
