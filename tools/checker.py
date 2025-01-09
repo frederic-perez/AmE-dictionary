@@ -651,13 +651,10 @@ class Checker(object):
         if size > 0:
             undefined_sorted: Final[list[str]] = sorted(undefined)
             max_high_frequency_headwords_shown: Final[int] = 10
-            print('Found ' + str(size)
-                  + ' undefined high frequency headwords, the very first '
-                  + str(max_high_frequency_headwords_shown)
-                  + ' being:')
+            print(f'{DARK_ORANGE}Found {FAIL}{size} undefined high frequency headwords{DARK_ORANGE}, the very first being:')
             i: int = 0
             for headword in undefined_sorted:
-                print('  ' + FAIL + headword + ' ' + OK_CYAN + undefined[headword] + END_C)
+                print(f'{DARK_ORANGE}{i+1:02} {FAIL}{BOLD}{headword}{END_C} {CYAN}{undefined[headword]}{END_C}')
                 i += 1
                 if i == max_high_frequency_headwords_shown:
                     break

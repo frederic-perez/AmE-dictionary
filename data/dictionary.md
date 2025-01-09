@@ -20118,8 +20118,9 @@ __ting<sup>2</sup>__ _vi_ To give forth a light metallic sound.
 __tinge<sup>1</sup>__ _n_ :two::hammer:  
 __tinge<sup>2</sup>__ _v_  
 __tingle<sup>1</sup>__ _v_ :six: (tingled, tingling) Cause a stinging or tingling sensation. _He had been duped by her._  
-__tingle<sup>2</sup>__ _n_ A sensation of tingling. _I’m all tingles and shakes._  
-__tingling__ _n_ A somatic sensation as from many tiny prickles. _Syn_ prickling, tingle  
+__tingle<sup>2</sup>__ _n_ :two: A sensation of tingling. _I’m all tingles and shakes._  
+__tingling<sup>1</sup>__ _n_ :two: A somatic sensation as from many tiny prickles. _Syn_ prickling, tingle :es: hormigueo  
+__tingling<sup>2</sup>__ _adj_ :six::hammer: _Blood stained my tingling fingers._ _A tingling sensation._ :es: a tingling sensation → _una sensación de hormigueo_  
 __tink__ _v_  
 __tinker<sup>1</sup>__ _n_  
 __tinker<sup>2</sup>__ _v_ :four::hammer:  
@@ -20137,12 +20138,13 @@ __tipple<sup>2</sup>__ _vt_ To drink (liquor), esp. repeatedly and in small quan
 __tipple<sup>3</sup>__ _n_ Liquor; alcohol.  
 __tipsily__  
 __tipster__ _n_ :three::hammer: (tipsters)  
-__tipsy__ _adj_ __1__ Slightly drunk. _I was too tipsy to drive._ __2__ Slightly tilted or tipped; askew.  
+__tipsy__ _adj_ :two: __1__ Slightly drunk. _I was too tipsy to drive._ __2__ Slightly tilted or tipped; askew.  
 __tiptoe<sup>1</sup>__ _adj_  
 __tiptoe<sup>2</sup>__ _adv_  
 __tiptoe<sup>3</sup>__ _n_  
 __tiptoe<sup>4</sup>__ _v_ :three: To walk or move quietly on one’s toes.  
 __tirade__ _n_ :nine: A long angry or violent speech, usually of a censorious or denunciatory nature; a diatribe. _Syn_ philippic, broadside _Milady had listened to all this menacing tirade with a smile of disdain on her lips, but rage in her heart._  
+__tire iron__ _n_ :two: A short length of steel with one end flattened to form a blade, used to remove tires from wheel rims.  
 __tire__ _v_ :two::hammer: _I use a revolving ball to tire the conscious mind into a simple hypnosis._ _To break up the peloton and make teams chase and tire._  
 __tiresome__ _adj_ _Please stop being so tiresome!_ :es: ¡Deja de ser tan pesada, por favor!  
 __Tirolean__  
@@ -20176,8 +20178,9 @@ __to taste (to one’s taste)__ _adj_ :three: Agreeable or pleasing to one. _Add
 __to that effect__  
 __to that extent__ _adv_ :two: To the degree or extent that. _Syn_ in so far, insofar, to that degree, so far _To that extent the Black Death may have been the unrecognized beginning of modern man._  
 __to-do list__  
+__to-do__ _n_ :dart: :es: alboroto  
 __toad bag__ _n_  
-__toadstool__ _n_ The spore-bearing fruiting body of a fungus, typically in the form of a rounded cap on a stalk, especially one that is believed to be inedible or poisonous.  
+__toadstool__ _n_ :two: The spore-bearing fruiting body of a fungus, typically in the form of a rounded cap on a stalk, especially one that is believed to be inedible or poisonous. Common name for an inedible or poisonous agaric (contrasting with the edible mushroom). :es: hongo venenoso  
 __toady<sup>1</sup>__ _n_ One who flatters in the hope of gaining favors. _Syn_ sycophant  
 __toady<sup>2</sup>__ _v_  
 __toast > French toast__  
@@ -20201,7 +20204,8 @@ __toeing__ _v_
 __toffee__  
 __tohubohu__ _n_ Chaos, confusion. _Bringing order out of the tohubohu of human relations._  
 __toil<sup>1</sup>__ _n_ :three: Hard unpleasant work done over a long period. _A lifetime of toil._  
-__toil<sup>2</sup>__ _vt_ :eight::hammer: (toiled) _Each toiled for at least four years in the minors._ _Artisans toil in fascinating foundries._  
+__toil<sup>2</sup>__ _vi_ :nine::hammer: _Each toiled for at least four years in the minors._ _Artisans toil in fascinating foundries._  
+__toil<sup>3</sup>__ _vt_ To accomplish by unremitting labor.  
 __toilet bowl__ _n_ :two: The bowl of a toilet that can be flushed with water.  
 __toilet stool__  
 __toilet training__ _n_ The training of a very young child to control bowel and bladder movements and use the toilet.  
@@ -20224,7 +20228,7 @@ __tomboy__ _n_ :two: A girl who behaves in a way that is perceived to be stereot
 __tombstone__ _n_  
 __tomcat<sup>1</sup>__ _n_ :two: /TOM-kat/ __1__ A male domestic cat. __2__ A womanizer.  
 __tomcat<sup>2</sup>__ _vi_ To pursue women promiscuously.  
-__tome__ _n_ :two: /TOHM/ A large heavy book, usually about a serious subject. A tome is a large or scholarly book. _The book is a literary tome set during the French Revolution._  
+__tome__ _n_ :three: /TOHM/ A large heavy book, usually about a serious subject. A tome is a large or scholarly book. _The book is a literary tome set during the French Revolution._  
 __tomfoolery__ _n_ :four: /tahm-FOO-luh-ree/ _Tomfoolery_ is a word with an old-fashioned sound to it that refers to playful or silly behavior. Foolish or senseless behavior. _Syn_ lunacy, craziness, folly, indulgence  
 __tommyrot__ _n informal_ :two: Utter foolishness; nonsense. Pretentious or silly talk or writing. _Syn_ baloney, bilgewater, bosh, drool, humbug, twaddle, tarradiddle _Spare me the tommyrot and just get to the point!_  
 __ton__ _n_ _A metric ton._  
@@ -20237,6 +20241,7 @@ __tongue__ _n_ :mute:[tong~~u~~e]
 __tongue-lashing__ _n_ A scolding. _Syn_ chiding, objurgation _My mother gave me a tongue-lashing for staying out past my curfew and grounded me for a week._  
 __tonic<sup>1</sup>__ _adj_ _A 25 year old man presented to the emergency department with pain and reduced movement in his left shoulder following a generalised tonic clonic seizure._  
 __tonic<sup>2</sup>__ _n_ _The perfect tonic to the excesses of the night before._  
+__Tonka__ _n_  
 __tonne__ _n_  
 __tonnes__ _n pl_  
 __tonsil__ _n_ :two::hammer: _A tonsil infection._  
@@ -20249,7 +20254,7 @@ __toodles__ _v_
 __toodling__  
 __toom__  
 __toot<sup>1</sup>__ _n_ :two::hammer:  
-__toot<sup>2</sup>__ _v_  
+__toot<sup>2</sup>__ _v_ :two::hammer:  
 __toote__ _v_ :two::hammer: _Tooting the horn at their friends._ _The drivers were tooting their horns._  
 __tooth and nail__ _adv_ With every available resource; with unrelenting effort. _She fought tooth and nail._  
 __tooth decay__ _n_ Soft decayed area in a tooth; progressive decay can lead to the death of a tooth. (cavity, cavities) :es: caries  
@@ -20300,7 +20305,7 @@ __toric__ _adj_ _Toric lens._
 __torment__ _v_  
 __tormentor__ _n_ :two::hammer:  
 __torn__ _v_ :three: Past participle of tear. _You feel so torn about what to do._  
-__torpedo__ _vt_ :two: __2__ To destroy decisively; wreck: _torpedo efforts at reform._  
+__torpedo__ _vt_ :three: __2__ To destroy decisively; wreck: _torpedo efforts at reform._ To render ineffective; destroy or wreck: _to torpedo the administration’s plan._  
 __torpid__ _adj_ :three: Lethargic; apathetic. _Syn_ inert, sluggish _They are always in a torpid state, and are apt to yawn and go to sleep over any intellectual toil._  
 __torpor__ _n_ :six: A state of physical or mental inactivity; lethargy. _They veered between apathetic torpor and hysterical fanaticism._ _The economy is in a torpor._ _Syn_ lethargy  
 __torrid__ _adj_ :four: /TOR-id/ Torrid can be used to describe something that is literally hot (such as a region near the Earth’s equator) or figuratively hot (such as a romance). Scorching; burning. _Syn_ fervent, fiery, ardent, burning _The torrid noonday sun shone down on the travelers in the desert._ _A torrid affair._  
@@ -20316,6 +20321,7 @@ __tossup__ _n_ :four::hammer::pencil2: _Diabetes study is a tossup._
 __tot lot__ _n_ An outdoor playground for very young children. _There are tot lots, but there is no place for us._  
 __tot__ _n_  
 __total__ _v_ (totaling)  
+__totality__ _n_ The phase of an eclipse during which it is total; the state of total eclipse.  
 __totally<sup>1</sup>__ _adv_ :three: Entirely; wholly; completely.  
 __totally<sup>2</sup>__ _n_ :astonished: /toh-TAL-i/uh-tee/ __3__ The phase of an eclipse when an obscuring body completely blocks the light source, e.g., when the moon completely blocks the view of the sun.  
 __tote bag__ _n_  
@@ -20324,6 +20330,7 @@ __tote__ _n_ Totes are standardized containers that warehouses use to store and 
 __totem pole__ _n_ _slang_ :two: A hierarchy: _low on the totem pole._ _You’re at the bottom of the totem pole._  
 __totemic__ _adj_  
 __tots__  
+__Tottenham__ _n_ :mega: /ˈtɒt n əm, ˈtɒt nəm/ A former borough, now part of Haringey, in SE England, N of London.  
 __totter__ _v_  
 __tottered__  
 __touch and go__ _n_ :two: A precarious or delicate state of affairs.  
@@ -20344,7 +20351,8 @@ __tourney__
 __tourniquet__ _n_ :two::pencil2: _He was tying a rubber tourniquet around the top of his arm._  
 __tousle__ _v_ :two: To make untidy (especially someone’s hair). _Vic stood in front of the mirror and tousled his hair, trying to get a cool, disheveled look._  
 __tousled__ _adj_ :three: Disordered or disheveled: _tousled hair; tousled clothes._  
-__tout__ _vt_ :dart::five::hammer: (touted)  
+__tout<sup>1</sup>__ _n_ __1__ One who solicits customers brazenly or persistently. _Touts, thieves, and barrow men._  
+__tout<sup>2</sup>__ _vt_ :dart::five::hammer: (touted)  
 __touting__ _v_  
 __tow hitch__ _n_ See _towbar._ _The tow hitch of the car._  
 __tow truck__ _n_  
@@ -20356,7 +20364,7 @@ __tower__ _v_ _Towering over our heads._
 __towheaded__ _adj_  
 __town crier__ _n_  
 __town hall__ _n_  
-__townhouse__ _n_ :five: (townhouses) A house that shares walls with houses on either side of it.  
+__townhouse__ _n_ :dart::six::camera: A house that shares walls with houses on either side of it.  
 __towpath__  
 __toxaemia__ _n_ (toxemia)  
 __toy dog__ _n_ Any of several breeds of very small dogs kept purely as pets.  
@@ -20383,7 +20391,7 @@ __trade-off__ _n_ :five::hammer: (tradeoff, trade-offs) _She has to make trade-o
 __trademarked__ _adj_ (of goods and merchandise) Labeled with proprietary (and legally registered) identification guaranteeing exclusive use. _Trademarked goods._  
 __tradeoff__ _n_ :pencil2:  
 __trading card__ _n_ A card with a picture or design printed on it, often one of a set collected and traded by children.  
-__traduce__ _v_ :two::astonished: Speak badly of or tell lies about (someone) so as to damage their reputation. _Syn_ defame, slander  
+__traduce__ _v_ :three::astonished::smiling_imp: Speak badly of or tell lies about (someone) so as to damage their reputation. _Syn_ defame, slander  
 __traffic warden__ _n_ _Brit_ A person who is appointed to supervise road traffic and report traffic offenses.  
 __traffickers__  
 __tragicomedy__ _n_  
@@ -20513,8 +20521,8 @@ __trickster__ _n_ One that swindles or plays tricks. Someone who uses dishonest 
 __tricksy__  
 __tried-and-true__ _adj_ Tested and proved to be worthy or good.  
 __trifecta__ _n_ :seven::mega: /trʌɪˈfɛktə/ (1970s: from tri- ‘three’ + perfecta.) (Before it was a broad term for three, _trifecta_ referred specifically to bets on horse races. A _trifecta_ is a bet when a bettor chooses the first, second, and third finishers in the correct order. The odds of making the correct ordered picks are low, but the payout is often much higher than basic bets like picking an overall winner. It’s a bet that isn’t typically applied to other sports.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
-__trifle<sup>1</sup>__ _n_ :three::hammer:  
-__trifle<sup>2</sup>__ _v_ :three::hammer: (trifled) _Never to be trifled with._  
+__trifle<sup>1</sup>__ _n_ :four: __1__ A thing of little or no value or significance. __2__ A small amount; bit: _a trifle more enthusiasm._  
+__trifle<sup>2</sup>__ _v_ :four: __1__ _vi_ (usually foll by: _with_) To deal (with) as if worthless; dally. To deal (with) as if worthless; dally: _to trifle with a person’s affections._ _Never to be trifled with._ __2__ _vt_ To waste (time or money, for example).  
 __trigger__ _v_ _The avalanche was triggered by skiers._  
 __trilby__ _n_ :three: A hat made of felt with a creased crown. _Syn_ fedora, felt hat, homburg, Stetson  
 __trill__ _n_ :eight::hammer: (trills, trilled, trilling) _I felt a trill of excitement._ _Monroe pronounced the guttural deep in his throat and trilled the “r.”_ _Melodic trill._  
@@ -20563,7 +20571,7 @@ __trophy wife__
 __troposphere__  
 __trot line__  
 __trot out__  
-__trot__  
+__trot__ _v_ :two::hammer:  
 __trotter__ _n_ __1__ A horse that trots, especially one trained for harness racing. __2__ _informal_ A foot, especially the foot of a pig or sheep prepared as food. _Sheep’s trotters._  
 __troublemaker__ _n_ /ˈtrʌbəlˌmeɪkə/  
 __troubleshoot__ _v_ :four::hammer:  
@@ -20595,7 +20603,7 @@ __truly__ _adj_ :two::hammer: _We truly appreciate it._
 __trumpet__ _v_  
 __trumpeter__ _n_ _The trumpeters were flourishing bright pennants from their silver trumpets._  
 __truncate__ _v_ /TRUNG-kayt/ _Many statements in the court document were truncated before publication._  
-__trundle__ _v_  
+__trundle__ _v_ :two::hammer:  
 __trundling__ _v_ _Some employees are trundling in._  
 __trunk__ _n_ _Leatherbound Tibetan trunks._  
 __truss__ _n_ :five::hammer: _Trusses of grapes._  
@@ -20617,14 +20625,14 @@ __trying__ _adj_ :two::dart::astonished: /ˈtraɪɪŋ/ Extremely difficult and a
 __tryptophan__ _n_ :mega: (tryptophane)  
 __tryst__ _n_ :four: An agreement, as between lovers, to meet at a certain time and place. _Syn_ assignation, rendezvous _They tried to keep their weekly meetings a secret, but soon neighbors began to whisper about their trysts._  
 __tsuifuku__  
-__tsunami__ _n_ [:scroll: The Japanese word tsunami is formed from _tsu_ (harbor) and _nami_ (wave).]  
+__tsunami__ _n_ :two::hammer: [:scroll: From the Japanese _tsunami_, a combination of _tsu_, meaning “harbor” and _nami_, meaning “wave.”]  
 __tub__ _n_ :eight: __1__ A low wide open container, typically round, originally one made of wood and used _esp_ for washing: now made of wood, plastic, metal, etc, and used in a variety of domestic and industrial situations. _Family tub corn._ _Bring a tub of wet wipes._ :camera: __2__ A small plastic or cardboard container of similar shape for ice cream, margarine, etc. _A tub of Ben & Jerry’s._ __3__ Also called: bathtub another word (_esp_ US and Canadian) for bath.  
 __tube sock__ _n_ :camera: (tube socks) A long sock that is shaped like a tube without a specific place for the heel and that is often worn while playing sports. A type of knee-high sports sock; usually white with two stripes at the top, which can be in one of various different colours. Generally worn by both guys and girls. Gives off a very retro ’70s-’80s look. _Nothing brings out a good pair of legs like a pair of tube socks._  
 __tubing<sup>1</sup>__ _adj_ _A lift-served, lighted tubing hill._  
 __tubing<sup>2</sup>__ _n_ :two::hammer: _River tubing._  
 __tubthumping__  
 __tuck away__ _v_ :three::hammer:  
-__tuck<sup>1</sup>__ _v_ :seven: (tucks, tucked) To put something in a particular place, especially in order to keep it safe or hidden. _The money was neatly tucked in his wallet._ _The violin was tucked under his arm._ _The quarterback tucks the ball._  
+__tuck<sup>1</sup>__ _v_ :eight: (tucks, tucked) To put something in a particular place, especially in order to keep it safe or hidden. _The money was neatly tucked in his wallet._ _The violin was tucked under his arm._ _The quarterback tucks the ball._  
 __tuck<sup>2</sup>__ _n_  
 __tucket__ _n_ Short lively tune played on brass instruments. _Syn_ fanfare, flourish  
 __Tucson, Arizona__ _n_ :mega: [Common popular pronunciation: /tuhk-son/ Prevailing local pronunciation: /too-son/]  
@@ -20663,7 +20671,7 @@ __tuple__ _n_ :mega:
 __tuppence__  
 __turbid__ _adj_ :three: /TER-bid/ Having sediment or foreign particles stirred up or suspended. _Syn_ murky, cloudy, muddy  
 __turbocharge__ _vt_ :dart::three: __1__ To equip with a turbocharger. __2__ _informal_ To improve dramatically the performance or quality of. To speed up; accelerate.  
-__turducken__ _n_ :three: [:scroll: from tur(key) + du(ck) + (chi)cken] A dish consisting of a deboned chicken stuffed into a deboned duck, further stuffed into a deboned turkey. Outside of the United States and Canada, it is known as a three-bird roast.  
+__turducken__ _n_ :four: [:scroll: from tur(key) + du(ck) + (chi)cken] A dish consisting of a deboned chicken stuffed into a deboned duck, further stuffed into a deboned turkey. Outside of the United States and Canada, it is known as a three-bird roast.  
 __tureen__ _n_ :es: sopera _Soup tureens._  
 __turgid__ _adj_ :four: Excessively ornate or complex in style or language. _Syn_ bombastic, declamatory, orotund, tumid, large _Growing impatient with the politician’s turgid prose, she turned off her television._  
 __Turkey day__  
@@ -20729,6 +20737,7 @@ __tween__ _n_ :two: A child between middle childhood and adolescence, usually be
 __tweener__ _n_ (sports, chiefly tennis) A shot that is hit between the legs.  
 __tweeny-weeny__  
 __twelvemonth__ _n_ A year. _Syn_ year _But wilt thou not give me another twelvemonth to pay my debt?_  
+__Twelvetide__ _n_  
 __twerp__ _n_ _slang_ A person regarded as insignificant and contemptible. _That malfunctioning little twerp. This is all his fault!_  
 __twiddle__ _v_ :three::hammer: (twiddling) _Twiddle their tootsies._  
 __twilight sleep__ _n_ A state of partial anaesthesia in which the patient retains a slight degree of consciousness.  
@@ -20737,14 +20746,14 @@ __twin__ _v_ _Twinned files._
 __twindemic__ _n_ Twindemic refers to the dual threat of a severe flu outbreak on top of the COVID-19 pandemic in the fall and winter of 2020.  
 __twine<sup>1</sup>__ _n_ :three::hammer: _Tie the legs of the turkey together with twine._  
 __twine<sup>2</sup>__ _v_ _Imaginary beasts twine through the pages._  
-__twinge__ _n_ :three::hammer: _A painful twinge._  
+__twinge__ _n_ :four: __1__ A sharp, sudden physical pain. _A painful twinge._ _Syn_ pain __2__ A mental or emotional pain: a twinge of guilt.  
 __twinkle__  
 __twinned towns__  
 __twirl__ _v_ _Goodman twirled is spectacles._  
 __twist__ _n_ :four::hammer: _An innovative twist._ _I’ll have my vodka martini with a twist of lemon._  
 __twister__ _n_ :two::hammer: __2__ _informal_ A whirlwind or tornado. A tornado or cyclone.  
 __twit__ _n_ _The damned last boy was a twit._  
-__twitch<sup>1</sup>__ _n_ :two::hammer: _That wad a beautiful last twitch._  
+__twitch<sup>1</sup>__ _n_ :three::hammer: _That wad a beautiful last twitch._ _A twitch of motion._  
 __twitch<sup>2</sup>__ _v_ :nine: __1__ _vt_ To draw, pull, or move suddenly and sharply; jerk: _I twitched my fishing line._ _The curtain was twitched._ __2__ _vi_ To move jerkily or spasmodically. _A curtain twitched in the house next door._ __3__ _vi_ To ache sharply from time to time; twinge.  
 __twitchy__ _adj_ :two: __1__ Nervous, worried, and ill-at-ease: _he was twitchy with anticipation._ _Syn_ edgy, fidgety, jittery, jumpy, nervous, restive, restless, skittish, tense, uptight, a bundle of nerves, all wound up, on edge __2__ Characterized by jerky or spasmodic motion: _a cat’s twitchy whiskers._  
 __twitterpated__ _adj_ _informal_ Excited or overcome by romantic feelings; smitten.  
@@ -20823,7 +20832,7 @@ __Unchurched Belt__ _n_ The Unchurched Belt is the antithesis of the Bible Belt 
 __Uncle Sam__ _n_ :four::dart: An extension of the common short form of the _United States_ (of America), _US_. A personification of the United States government.  
 __unclear__ _adj_  
 __unclubbable__ _adj_ (unclubable) Having or showing a disinclination for social activity. _Syn_ unsociable  
-__uncompromising__ _adj_ Unwilling to grant concessions or negotiate; inflexible: _took an uncompromising stance during the peace talks._  
+__uncompromising__ _adj_ :two: Unwilling to grant concessions or negotiate; inflexible: _took an uncompromising stance during the peace talks._  
 __uncongenial__ _adj_ :two: Not suitable to your tastes or needs. _Syn_ incompatible  
 __unconscionable__ _adj_ :smiling_imp:  
 __uncontested shot__ _n_ (vs contested shot)  
@@ -20855,7 +20864,7 @@ __undercut<sup>2</sup>__ _vi_ To engage in undercutting.
 __underdog__ _n_ :four::hammer: _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __underdone__ _adj_ (Cookery) Insufficiently or lightly cooked. _The potatoes were underdone._  
 __underemployed__  
-__underfoot__ _adv_ :four::hammer: _They were reluctant to recognize crisis until it was underfoot._  
+__underfoot__ _adv_ :five::hammer: _They were reluctant to recognize crisis until it was underfoot._  
 __undergarments__ _n_ :two::hammer:  
 __undergird__ _v_ /un-der-GHERD/ Undergird means “to strengthen or support (something) from below” or “to form the basis or foundation of.” _Their way of life is undergirded by religious faith._  
 __undergo__ _v_  
@@ -20890,7 +20899,7 @@ __undies__
 __undimpled__  
 __undisturbed__ _v_  
 __undog__ _v_ To loose from a fastening dog or catch. _Sailors undogged hatches._  
-__undoing__ _n_ :three::hammer: /ʌnˈdu ɪŋ/  
+__undoing__ _n_ :four::hammer: /ʌnˈdu ɪŋ/  
 __undoubtedly__  
 __undue__  
 __undulant__ _adj_ /ˈʌndjʊlənt/ Resembling waves in occurrence, appearance, or motion.  
@@ -20911,12 +20920,13 @@ __uneven__ _adj_ :two: __2__ Not consistent or uniform: _an uneven color._
 __uneventful__ _adj_ :two: /ˌʌnɪˈvɛntfʊl/ Ordinary, routine, or quiet. Lacking in important or interesting occurrences; routine: _an uneventful day._  
 __unexampled__ _adj_ Without precedent; unparalleled. _Syn_ new  
 __unfailing__ _adj_ _Unfailing support._  
-__unfathomable__ _adj_ :six: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
+__unfathomable__ _adj_ :seven: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
 __unfazed__ _adj_ :nine::m: /ʌnˈfeɪzd/ Not disconcerted; unperturbed. _Her criticism left him quite unfazed._ :es: Sus críticas le dejaban tan pancho. _She was completely unfazed by the extraordinary events._ _They are unfazed by all fof this._ :es: Se quedó como si nada ante unos sucesos tan extraordinarios.  
 __unfeasible__ _adj_ _Syn_ infeasible  
 __unfettered__ _adj_ :nine::m: /ʌnˈfɛtəd/ /un-FET-erd/ Not kept under retraint; uninhibited. _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
 __unflagging__ _adj_ :two::hammer:  
 __unflappable__ _adj_ :seven::hammer: _Jim was unflappable._ _Unflappable team._  
+__unfledged__ _adj_ Not having the feathers necessary to fly. Used of a young bird. _Syn_ immature  
 __unflinching__ _adj_ :three: Showing neither fear nor indecision; resolute. _Syn_ unintimidated, unshrinking, unblinking  
 __unfold__ _v_ :nine::m: __1__ To open or spread out or be opened or spread out from a folded state. __2__ To reveal or be revealed: _the truth unfolds._ _Mysteries unfold._ __3__ To develop or expand or be developed or expanded.  
 __unfolding__ _n_ A developmental process.  
@@ -20955,6 +20965,7 @@ __unkosher__ _adj_ _The Buddha never said it was un-kosher to strive._
 __unlatched__ _adj_ Not firmly fastened or secured.  
 __unleash__ _v_  
 __unleavened__ _adj_ :mega:  
+__unlettered__ _adj_ Uneducated in general; lacking knowledge or sophistication. _Syn_ ignorant, nescient, unlearned  
 __unlike<sup>1</sup>__ _adj_  
 __unlike<sup>2</sup>__ _prep_  
 __unlucky__ _adj_  
@@ -20965,6 +20976,7 @@ __unnoticed__ _adj_ /ʌnˈnəʊtɪst/ Not perceived or observed. _You may go unn
 __unobstrusive__  
 __unpack__  
 __unparalleled__ _adj_ :two::hammer:  
+__unperturbed__ _adj_ Free from emotional agitation or nervous tension. _Sun_ unflurried, unflustered, unruffled  
 __unpleasant__ _adj_ _Unpleasant surprise._  
 __unplugged__ _adj_ /un-PLUHGD/ [:scroll: From un- (not) + plug, from Dutch plug.] __1__ Authentic; unadorned. __2__ Refraining from the constant use of electronic communication and entertainment devices. __3__ Relating to music performed with acoustic rather than electric instruments. __4__ Not connected to an electrical outlet. __5__ Without a plug or stopper (of a container of liquid). __6__ Low-key; intimate.  
 __unprecedented__ _adj_ :three: Having no previous example: _unprecedented economic growth._  
@@ -20987,6 +20999,7 @@ __unsalted__ _adj_ :dart: Not seasoned, preserved, or treated with salt: _unsalt
 __unsavory__ _adj_ :five::hammer::smiling_imp: /ʌnˈseɪ və ri/ __4__ Socially or morally objectionable or offensive: _an unsavory past._  
 __unscathed__ _adj_ :eight: Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
 __unschooled__ _adj_ __2__ Spontaneous; natural: _unschooled talent._  
+__unseat__ _vt_ __2__ To dislodge from a location or position, especially to remove from office.  
 __unseemly<sup>1</sup>__ _adj_ _Syn_ indecorous  
 __unseemly<sup>2</sup>__ _adv_ :two::hammer:  
 __unsettle__ _v_ _Team Sky riders tried to unsettle their oponents by setting an frenetic tempo._  
@@ -21002,9 +21015,11 @@ __unspoken__ _adj_
 __unspool__ _v_ (unspooling) _Unspooling microphone cables._  
 __unsteady__ _adj_ Not firm, solid, or securely in place; unstable. _Syn_ unfirm  
 __unstiking__ _v_  
+__unstinting__ _adj_ Bestowed liberally. _Syn_ lavish, munificent, overgenerous, too-generous, unsparing _Her suitor’s unstinting devotion was flattering yet slightly unsettling._  
 __unstintingly__ _adv_ In an unstinting fashion; without stinting; generously; lavishly.  
 __unstoppable__ _adj_ :two::hammer: _She is our unstoppable force of nature._  
 __unstreamed__ _adj_ /ʌnˈstriːmd/ (Education) _Brit_ (of children) Not divided into groups or streams according to ability.  
+__unstudied__ _adj_ Not contrived for effect; natural. _Sun_ uncontrived  
 __unsubstantiated__ _adj_  
 __unsung__  
 __unsurmountable__ _adj_  
@@ -21015,7 +21030,7 @@ __untapped__ _adj_ :eight: /ŭn-tăpt′/ __1__ Not having been tapped: _an unta
 __untenable__ _adj_ :three: __1__ Not able to be defended. __2__ Not able to be occupied.  
 __untethered__ _adj_ Not tied or limited with or as if with a tether.  
 __unthawed__ _adj_ Not thawed; still frozen. _Unthawed croissant._  
-__unthinkable__ _adj_ _The unthinkable has befallen President._  
+__unthinkable__ _adj_ :two::hammer: _The unthinkable has befallen President._  
 __unticked__ _adj_ :dart: Not ticked; unchecked. _Checking an unticked box on my to-do list._  
 __untidy__  
 __untilled__ _adj_ _Untilled fields._  
@@ -21073,6 +21088,7 @@ __uppercut__
 __uppermost__  
 __uppers__  
 __upping__ _v_ :two::hammer:  
+__uppity__ _adj_ _informal_ Haughtily arrogant, conceited, or self-important.  
 __upright bass__ _n_  
 __upright piano__ _n_  
 __upright__ _n_ _The 34 yard field goal hit the left upright._  
@@ -21105,23 +21121,25 @@ __upswing__ _n_ :five: __1__ An upward swing or trend. __2__ An increase, as in 
 __uptake__ _n_ :eight::hammer: _Other applications have had limited uptake._ __4__ The act of accepting or taking up something on offer or available.  
 __uptalk__ _v_  
 __uptick__ _n_ :nine::m: __1__ A rise or improvement, esp. in business. __2__ A slight rise or rising trend in the stock market.  
-__uptight__ _adj_ :two::dart::hammer:  
+__uptight__ _adj_ :three::dart::hammer:  
 __uptime__ _n_ :three: The time during which a device, such as a computer, is functioning or available for use.  
 __uptown__ _adj, adv, n_ :two::hammer:  
 __upturned__ _adj_ /ʌpˈtɜːnd/ __3__ Turned over or upside down: _the seat was an upturned bucket._  
 __upward__  
 __upwardly__  
+__Uranus__ _n_ :mega: /jʊˈreɪnəs; ˈjʊrənəs/  
 __urban legend__  
-__urbane__ _adj_ :three: Showing a high degree of refinement and the assurance that comes from wide social experience. Notably polite or polished in manner. _Syn_ svelte, polished, refined _In his mind, he was suave and urbane, but in real life, he was just the opposite._ _Urbane customer._  
+__urbane__ _adj_ :astonished::five: /er-BAYN/ Someone described as urbane is notably polite, confident, or polished in manner. _Urbane_ is also used to describe things that are fashionable and somewhat formal. Showing a high degree of refinement and the assurance that comes from wide social experience. Notably polite or polished in manner. _Syn_ svelte, polished, refined _In his mind, he was suave and urbane, but in real life, he was just the opposite._ _Urbane customer._  
 __urbanite__ _n_ :two::hammer:  
 __urchin__ _n_ _An underprivileged urchin._  
 __urge on__ _phr v_ :two: To encourage.  
 __urge__ _v_ :two: __2__ _(tr; may take a clause as object)_ To advocate or recommend earnestly and persistently; plead or insist on: _to urge the need for safety._  
-__urinal__ _n_ __1__ A fixture, typically one attached upright to a wall, used by men for urinating. __2__ A portable receptacle for urine.  
+__urinal__ _n_ :two: __1__ A fixture, typically one attached upright to a wall, used by men for urinating. __2__ A portable receptacle for urine.  
 __urination trough__ _n_  
 __use case__ _n_  
 __use__ _v_ _informal_  
 __username__ _n_ :pencil2:  
+__usher in__  
 __usher__ _v_ :five::hammer: _NVIDIA ushered in a new era in the high performance computing industry._ _Usher in the global Irish holiday and watch as Chicago dyes its eponymous river green._  
 __usufruct__ _n_  
 __usurp__ _v_ :two: /yoo-SERP/ To _usurp_ something (such as power) is to take and keep it by force and without the right to do so. _Usurp_ can also mean “to take the place of by or as if by force.”  
@@ -21193,6 +21211,7 @@ __vampire squid__
 __van__ _n_ :two::hammer: _The knight was in command of the van._  
 __vandalize__ _v_ :three: /VAN-duh-lyze/ [:scroll: After Vandals, a Germanic tribe who overran Gaul, Spain, and northern Africa, and in 455 CE sacked Rome] Vandalize means “to deliberately damage or destroy public or private property.” _The impulse of many graffiti artists is not to vandalize infrastructure but to beautify city environments that are often monotone and nondescript._  
 __vandals__  
+__Vandyke beard__ _n_ A short, pointed beard, especially one worn with the cheeks shaven and a mustache.  
 __vane__ _n_ :nine: (not to be confused with vain, vein) __1__ (Mechanical Engineering) A flat plate or blade of metal mounted on a vertical axis in an exposed position to indicate wind direction. _Syn_ weather vane, wind vane _A smooth metal weather vane._ _Wind vane._ __2__ (Mechanical Engineering) Any one of the flat blades or sails forming part of the wheel of a windmill. __3__ (Mechanical Engineering) Any flat or shaped plate used to direct fluid flow, esp a stator blade in a turbine, etc. __4__ (Mechanical Engineering) A fin or plate fitted to a projectile or missile to provide stabilization or guidance. _Propeller vane._ __5__ (Zoology) _ornithol_ The flat part of a feather, consisting of two rows of barbs on either side of the shaft.  
 __vanguard__ _n_  
 __vanilla__ _n_ :dart::two: __1__ Flavored with the extract of the vanilla bean. __2__ Lacking distinction. _Syn_ plain, ordinary, conventional  
@@ -22202,7 +22221,8 @@ __wrong<sup>4</sup>__ _v_ :mute:[~~w~~rong]
 __wrongdoer__ _n_ One who does wrong, especially morally or ethically.  
 __wrongdoing__ _n_ :three::hammer:  
 __wrongous__ _adj_ /ˈrɒŋəs/ [:scroll: From wrong, from Old English wrang + wise (manner)] __1__ (of a person) Unfair, unjust. __2__ Characterized by unfairness or injustice. __3__ Not lawful, unjust. __4__ Not fitting or suitable.  
-__wrought-iron__  
+__wrought__ _adj_ :two::hammer:  
+__wrought iron__ _n_ :two::hammer:  
 __wrought<sup>1</sup>__ _v_ :four: A past tense and a past participle of work. _Syn_ worked  
 __wrought<sup>2</sup>__ _adj_ __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
 __wrung__ _v_ _They have wrung their hands._  

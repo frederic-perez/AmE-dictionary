@@ -898,56 +898,6 @@ __thunk__ _n_
 __tiddlywinks__ _n_ A game played on a flat surface, in which players attempt to snap small plastic disks into a cup by pressing the edges of the disks with larger ones.  
 __till__ _n_ :es: caja registradora  
 __tinderbox__ _n_ :dart: __1__ A metal box for holding tinder. __2__ :dart: A person or thing that is highly volatile; any potential source of violence. A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
-__tingle__ _n_  
-__tingling<sup>1</sup>__ _n_ :es: hormigueo  
-__tingling<sup>2</sup>__ _adj_ :five::hammer: _Blood stained my tingling fingers._ _A tingling sensation._ :es: a tingling sensation → _una sensación de hormigueo_  
-__tipsy__  
-__tire iron__ _n_ :two: A short length of steel with one end flattened to form a blade, used to remove tires from wheel rims.  
-__to-do__ _n_ :dart: :es: alboroto  
-__toadstool__ _n_ Common name for an inedible or poisonous agaric (contrasting with the edible mushroom). :es: hongo venenoso  
-__toil__ _vi_  
-__tome__ _n_ /TOHM/ _Tome_ is a formal word for a book, and especially a very large, thick, often scholarly book.  
-__Tonka__ _n_  
-__toot__ _v_  
-__torpedo__ _vt_ __2__ To render ineffective; destroy or wreck: _to torpedo the administration’s plan._  
-__totality__ _n_ The phase of an eclipse during which it is total; the state of total eclipse.  
-__Tottenham__ _n_ :mega: /ˈtɒt n əm, ˈtɒt nəm/ A former borough, now part of Haringey, in SE England, N of London.  
-__tout__ _n_ __1__ One who solicits customers brazenly or persistently. _Touts, thieves, and barrow men._  
-__townhouse__ _n_  
-__traduce__ _vt_ :smiling_imp:  
-__trickle__ _vi_  
-__trifle<sup>1</sup>__ _n_ __1__ A thing of little or no value or significance. __2__ A small amount; bit: _a trifle more enthusiasm._  
-__trifle<sup>2</sup>__ _v_ __1__ _vi_ (usually foll by: _with_) To deal (with) as if worthless; dally. To deal (with) as if worthless; dally: _to trifle with a person’s affections._ __2__ _vt_ To waste (time or money, for example).  
-__trot__ _v_  
-__trundle__ _v_  
-__tsunami__ _n_ [:scroll: From the Japanese _tsunami_, a combination of _tsu_, meaning “harbor” and _nami_, meaning “wave.”]  
-__tuck__ _v_  
-__turducken__ _n_  
-__Twelvetide__ _n_  
-__twinge__ _n_ __1__ A sharp, sudden physical pain. _Syn_ pain __2__ A mental or emotional pain: a twinge of guilt.  
-__twitch__ _n_ _A twitch of motion._  
-__uncompromising__ _adj_  
-__underfoot__  
-__underpin__ _vt_  
-__undoing__ _n_ /ʌnˈdu ɪŋ/  
-__unfathomable__ _adj_  
-__unfettered__  
-__unfledged__ _adj_ Not having the feathers necessary to fly. Used of a young bird. _Syn_ immature  
-__unlettered__ _adj_ Uneducated in general; lacking knowledge or sophistication. _Syn_ ignorant, nescient, unlearned  
-__unperturbed__ _adj_ Free from emotional agitation or nervous tension. _Sun_ unflurried, unflustered, unruffled  
-__unseat__ _vt_ __2__ To dislodge from a location or position, especially to remove from office.  
-__unstinting__ _adj_ Bestowed liberally. _Syn_ lavish, munificent, overgenerous, too-generous, unsparing _Her suitor’s unstinting devotion was flattering yet slightly unsettling._  
-__unstudied__ _adj_ Not contrived for effect; natural. _Sun_ uncontrived  
-__unthinkable__  
-__uppity__ _adj_ _informal_ Haughtily arrogant, conceited, or self-important.  
-__uptight__ _adj_  
-__Uranus__ _n_ :mega: /jʊˈreɪnəs; ˈjʊrənəs/  
-__urbane__ _adj_ :astonished::two: /er-BAYN/ Someone described as urbane is notably polite, confident, or polished in manner. _Urbane_ is also used to describe things that are fashionable and somewhat formal.  
-__urinal__ _n_  
-__usher in__  
-__Vandyke beard__ _n_ A short, pointed beard, especially one worn with the cheeks shaven and a mustache.  
-__wrought__ _adj_ :two::hammer:  
-__wrought-iron__  
 __wry__  
 __Xmas__ _n_  
 __yacht<sup>1</sup>__ _n_  
