@@ -37,6 +37,7 @@ __a little from column A, a little from column B__ Having been formed from two d
 __a long row to hoe__ [:scroll: This metaphor comes from nineteenth-century America, when most people lived in rural areas and cultivated at least some land.] A difficult course to follow; hard work to accomplish. A particularly difficult or problematic task, situation, or set of circumstances to contend with or confront. _Immigration reform was one of the new president’s primary campaign promises, but it will likely prove a long row to hoe, given the deep divisions in Congress._  
 __ace__  
 __ahead of the curve__  
+__all the same__  
 __all too soon__ The idiom “all too soon” means that something happened much earlier than expected or desired, often with a sense of regret or disappointment. It conveys the idea that an event occurred prematurely or that a positive experience ended quickly. “The holidays were over all too soon,” implies that the speaker wished the holidays had lasted longer. “Graduation came all too soon,” suggests that the speaker felt unprepared for the end of their schooling.  
 __at length__  
 __at the end of the day__  
@@ -47,11 +48,14 @@ __be looking for trouble__ To be doing something or acting in a manner that will
 __beanpole__ One who is very skinny. _Susie is such a beanpole now that she’s had her growth spurt._  
 __break faith with (someone or something)__ :dart::three: To fail to act as one has promised.  
 __burn (someone or something) to a crisp__  
+__chalk it up__  
+__chalk up__  
 __check on (someone or something)__ To check the status, condition, or well-being of someone or something through an inspection or visit. _We need to check on Grandma and see how she is coping with all this snow._  
 __check someone or something out__  
 __cheddar__ _slang_ Money. _I’m all out of cheddar—can I borrow a few bucks?_  
 __chicken shit__  
 __chime in__  
+__chuck__ __2__ _v_ _informal_ To eject or force out from some place. _The bouncer chucked the man for being belligerent._ _You have no grounds to chuck us out of here! Hey, watch the hair!_  
 __clean as a whistle__ ((as) clean as a whistle)  
 __clear the table__ To remove objects from a table. This phrase is often said after a meal, as one removes dishes, silverware, and leftover food from the table. _After the meal I cleared the table._  
 __close shave__  
@@ -133,10 +137,13 @@ __draw a bead on (someone or something)__
 __draw to a close__  
 __draw water__  
 __dreamboat__ A very attractive or appealing person.  
+__dribs and drabs__  
 __drop dead__  
+__drop the ball__ (See also _fumble the ball_)  
 __drum into__ :es: hacer aprender a la fuerza; machacar  
 __drum up__  
 __dry as a bone__  
+__duke it out__  
 __easier said than done__  
 __easier than falling off a log__ Extremely easy; very intuitive; requiring little or no skill or effort. _After so many years as an accountant, doing taxes is easier than falling off a log for me._  
 __easy as one-two-three__ ((as) easy as one-two-three; easy as one, two, three) Extremely easy, simple, or straightforward.  
@@ -175,10 +182,12 @@ __first come, first served__ The first people present will be the first to recei
 __first dibs on__ :three: (dibs on something) (first dibs on something) Choice of (something) before anyone else gets to pick. _The boss insisted on having first dibs on the best parking space._ _The farm always gives first dibs on its vegetables to local families._  
 __first thing__  
 __first-in-human trial__ “First-in-human” refers to the initial clinical trial where a new drug, medical procedure, or treatment is tested in humans for the very first time.  
+__Fist of God__ The idiom “Fist of God” typically refers to an overwhelming or destructive force, often of a divine or uncontrollable nature. It may be used figuratively to describe a powerful, often sudden event or action that seems beyond human control, such as a natural disaster, a sudden strike of fate, or a decisive, forceful intervention.  
 __fit the bill__  
 __five-on-five__ “Five-on-five” typically refers to a format in team sports where each team has five players on the field or court at the same time. _A five-on-five game of basketball._  
 __flare up__ :es: estallar  
 __flesh and blood__  
+__flip the script__  
 __flit about__ To move in a quick, deft manner. _The kids are outside, trying to catch the lightning bugs that are flitting about._  
 __floor (one)__  
 __flop__ _The film was a flop._  
@@ -200,6 +209,7 @@ __foul play__ Unspecified criminal or unscrupulous actions, especially violence 
 __freaking__ _mod._ Damned. (Euphemistic for fucking. Usually objectionable.) _Get your freaking socks off my bed!_  
 __front and center__  
 __full stop__  
+__fumble the ball__ “Fumble the ball” and “drop the ball” are similar in meaning and can often be used interchangeably. Both idioms refer to making a mistake or failing to perform a task properly, especially when it’s important or when someone misses an opportunity. However, “fumble the ball” may sometimes carry a slightly more connotative idea of clumsiness or mishandling, while “drop the ball” is more commonly used to emphasize failing to follow through or neglecting responsibility. Despite these subtle differences, they are generally understood in the same way.  
 __get a handle on (something)__ To have a firm, clear understanding or determination of something.  
 __ghost gun__ A gun without serial numbers that cannot be easily tracked, especially a home-made gun built with non-registered, partially finished or 3D printed components.  
 __give someone or something away__ To reveal a secret about someone or something. _I thought no one knew where I was, but my loud breathing gave me away._ _We know that Billy ate the cherry pie. The cherry juice on his shirt gave him away._  
@@ -209,6 +219,7 @@ __goob__
 __goon__  
 __green folding__ Paper money, especially in large amounts. _Boy, I bet you had to lay down some serious green folding for that new sports car, huh?_  
 __gun for hire__  
+__ham-handed__ In a clumsy manner; lacking care and skill.  
 __have (something) in store (for one)__ To have something awaiting (one) or prepared (for one).  
 __have someone’s number__ (have (got) (one’s) number)  
 __head over heels__  
@@ -285,6 +296,7 @@ __in arrears__ :three: Behind or overdue, often because one has not made a payme
 __in bits and pieces__ In many small fragments. _Look what you’ve done! My favorite lamp is in bits and pieces on the floor!_  
 __in cahoots (with someone)__  
 __in concert with (someone)__ Together with someone; in cooperation with someone. _You’ll need to work in concert with my file clerk to sort through all this paperwork._  
+__in deep water(s)__ In a dangerous, vulnerable, or troublesome situation or position, especially that which could be beyond one’s abilities to resolve.  
 __in default of (something)__ Due to the absence or lack of something; through the failure of something. _Though it was only a speeding ticket, Janet was imprisoned in default of paying the fine._  
 __in distress__ :three: __1__ Very upset. _He was clearly in distress upon hearing the news._ __2__ In a very difficult situation in which one does not have enough money, food, etc. _She’s chosen to devote her life to helping those in distress._ __3__ (of a boat, airplane, etc.) In a state of danger or desperate need. _The ship was in distress._  
 __in favor (with someone)__ Highly regarded (by someone); widely accepted or enjoyed (by someone). Primarily heard in US. _John had been in favor with his boss ever since he managed to secure that lucrative client._  
@@ -514,6 +526,7 @@ __let up (on someone or something)__
 __let up__ :es: parar, detenerse  
 __let’s get something straight__ (expression) Let’s clear up any possible confusion, misunderstanding, or uncertainty (about something); let me make this perfectly clear.  
 __let’s not and say (that) we did__ A sarcastic expression indicating that one would really rather not do what has been proposed. _Joe: “Why don’t we go to the farmers’ market today?” Sarah: “Ugh, in this weather? Let’s not and say we did.”_  
+__let’s party__ The idiom “let’s party” is an informal expression that means to celebrate, have fun, or enjoy oneself, often in the context of socializing with others.  
 __let’s roll__ Let’s get out of here; let’s get moving. _I think I’ve had enough of this party. Let’s roll, Sarah._  
 __letters after (one’s) name__ :dart: A series of abbreviations indicating the various levels of higher education or military honors one has received, thereby denoting a presumed level of intelligence, wisdom, or respectability. _I hate hanging out with your PhD colleagues—it seems like they’ll only take you seriously if you have letters after your name._  
 __level the playing field__ To make a situation or activity more fair and balanced by giving an extra advantage or opportunity to those who would normally be at a disadvantage, or by attempting to take away or diminish advantages, perhaps of one’s adversary or competitor.  
@@ -547,6 +560,7 @@ __live on a shoestring__ To live within a very tight or limited financial budget
 __living impaired__ Dead. (Pseudo-politically correct slang used for humorous effect.) _The boss has ordered a hit on the stool pigeon, so make sure he’s living impaired by the end of the day._  
 __loaded word__ A word that carries additional emotional weight or significance—whether positive or negative—beyond its literal meaning. _If you want to get into politics, you should always avoid using loaded words that might offend someone unintentionally._  
 __loaf about__ To waste time idly; to spend time doing little or nothing. _Chris, quit loafing about and help me take out the trash!_  
+__local yokel__  
 __lock (someone) up and throw away the key__ To incarcerate someone in prison forever or indefinitely. _That crazy drunk driver nearly hit me! I hope they lock him up and throw away the key!_  
 __lock lips (with someone)__ To kiss (someone) passionately and at length. _I’ll never forget locking lips with my wife for the very first time._  
 __locker-room humor__ Especially crude, vulgar, or bawdy humor. _I’m no prude by any means, but I hate the locker-room humor my boyfriend partakes in when his buddies are around._  
@@ -561,6 +575,8 @@ __look for a dog to kick__ To seek out someone to blame or castigate, especially
 __look on the sunny side (of life/things)__ :dart: To view one’s life, situation, or circumstances with a generally optimistic and cheerful attitude; to focus on what is positive in life. _My mother always told me to look on the sunny side of life, and I have to admit, it helps when I’m having a rough day._  
 __look out for number one__ To put one’s own needs, concerns, or responsibilities before those of anyone else. _The only way you’re going to get ahead in this business is if you look out for number one._  
 __loose change__ A small, usually insignificant amount of money, typically consisting of coins.  
+__loose lip(s)__ The practice, habit, or manner of speaking too frequently and/or without discretion, especially as might unintentionally lead to revealing private or sensitive information to others. _You’ve got a very loose lip, son. You’d do well to learn to keep it shut!_  
+__loose talk__ Uninhibited, indiscreet talk or conversation, especially as might unintentionally lead to revealing private or sensitive information to others. _The details of this project are extremely confidential, so there can’t be any loose talk about it whatsoever._  
 __love handles__ ((love) handles, spare tyres, Dunlops disease, Dunlop Syndrome) _euphemism_ [So called because supposed to be grabbed by a partner in sexual intercourse.]  
 __make a fuss__  
 __make a long arm for (something)__ To extend one’s arm fully toward something; to reach out for something. _Mary’s new boyfriend made a long arm for the bottle of wine at the end of the table, helping himself to another glass._  
@@ -629,6 +645,7 @@ __nowhere to be sound__
 __numb out__  
 __occur to (one)__ To be (suddenly) realized by one; to come into one’s mind.  
 __odd couple__ A particularly unlikely or mismatched pair of people.  
+__odd duck__  
 __oddly enough__  
 __of (one’s) own accord__  
 __of all places__ Being the least expected place compared to anywhere else.  
@@ -691,10 +708,14 @@ __on the verge of (doing) (something)__
 __on the verge of__  
 __on the whole__ Considering everything together; in general or for the most part.  
 __on-site__  
+__open game__ Being vulnerable or exposed to attack, criticism, or other negative consequences. _If we break the truce first, we are open game._  
 __out and about__ :dart: __1__ Away from one’s home or normal environment, especially to socialize, run errands, visit various places, etc. _I’m just out and about with Mary if you would like to come join us._ __2__ Well enough to come and go, especially after an illness. For example, _I’m glad to see you’re out and about again._  
 __pay tribute to (someone or something)__ To do something as a way of publicly showing respect or admiration for a particular person, group, or thing. _The movie pays tribute to an old adventure serial that ran on television in the mid-1930s._  
 __pin down__  
+__pot shot__  
 __practice makes perfect__  
+__ring false__  
+__ring true__  
 __rise to the occasion__ To increase one’s effort in response to a challenging situation.  
 __ruffle a few feathers__ To do something which annoys, irritates, or upsets other people. _I know my presentation about the effects of climate change is going to ruffle a few feathers, but I have got to raise awareness about this issue!_  
 __run afoul of (someone or something)__  
@@ -810,6 +831,7 @@ __spare the rod and spoil the child__
 __speak (one’s) mind__ To voice one’s thoughts plainly or bluntly.  
 __speed__ _slang_ Any illicit stimulant drug, especially amphetamine or methamphetamine. _We all used to take speed during college to help us study._  
 __spend a penny__ _euphemism_ To go to the toilet. Primarily heard in UK.  
+__spending spree__  
 __spill the beans__  
 __spill your guts__ To confess or reveal all, often under pressure or coercion. Ellroy often has characters facing moral dilemmas, and this idiom fits the theme of characters who must decide whether to reveal their secrets or keep them buried.  
 __spin doctor__ :smiling_imp: Someone who gives a twisted or deviously deceptive version of an event. (Usually in the context of manipulating the news for political reasons.) _Things were going bad for the candidate, so he got himself a new spin doctor._ _A good spin doctor could have made the incident appear far less damaging._  
@@ -844,6 +866,7 @@ __strike a chord__
 __strike that__ Forget what I just said. _In the brief time it took me to write this paragraph, three more emails arrived. Now I have 115 unanswered emails. Strike that: 116._ :es: tacha eso  
 __strong water__  
 __sucker (one) in__ To con, swindle, or deceive someone.  
+__suffice (it) to say__  
 __suffice it to say__ (suffice (it) to say)  
 __suicide by cop__  
 __sure as hell__ ((as) sure as hell) _The cops that worked the case didn’t do shit and sure as hell aren’t going to do shit now._  
@@ -945,6 +968,7 @@ __trick of the light__
 __triple whammy__ A combination of three different elements, circumstances, or actions that results in a particularly powerful force, outcome, or effect. _Deregulation of the financial sector, securitization of huge amounts of various debt, and fluctuating national interest rates formed a triple whammy that sent the stock market crashing._  
 __trundle along__ To proceed along (something) in a slow, heavy, or ungainly manner.  
 __turn a deaf ear (to someone or something)__ To ignore or refuse to listen to someone or something; to fail to pay attention to something someone says. _Turn a deaf ear to rumors._  
+__turn heads__  
 __under the gun__ :dart: In a stressful situation that requires quick action, often to meet a deadline; under pressure.  
 __under the hood__  
 __unfamiliar territory__  
@@ -958,6 +982,7 @@ __walk on eggs__
 __war chest__  
 __water under the bridge__  
 __weather the storm__ To endure a period of hardship or disorder. To experience something and survive it. _That was the hardest year of my life, but in the end I was able to weather the storm with the support of my family._  
+__well put__ The expression “well put” is used to praise someone’s way of expressing something. It means that what the person said was clear, well-articulated, or expressed in a thoughtful or effective manner. It’s a compliment acknowledging that their words were well-chosen or accurately conveyed the intended message.  
 __well up__  
 __what’s done is done__ :dart: There’s no use worrying or stressing about something that has already happened or come to pass. _I know this isn’t the outcome we wanted, but what’s done is done, so let’s just try to make the most of a bad situation._  
 __what’s the occasion?__ The idiom “what’s the occasion?” is typically used to inquire about the reason for a special event, celebration, or unusual behavior that seems out of the ordinary. It’s a friendly way to express curiosity about something that appears more formal or festive than usual.  

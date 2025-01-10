@@ -41,6 +41,7 @@ __armistice__ _n_ /AHR-muh-stus/
 __Arthur__ _n_ A legendary king of the Britons whose story is based on traditions of a sixth century military leader.  
 __ataractic__ _adj_ Of or relating to a drug or other agent that has a tranquilizing effect. _Syn_ sedative, tranquilizing _Valium has an ataractic effect that is useful in treating tension and anxiety._  
 __austere__ _adj_ :mega:  
+__backstab__ _vt_ :smiling_imp:  
 __badger__ _v_  
 __bay<sup>1</sup>__ _n_ :two::hammer:  
 __bay<sup>2</sup>__ _vi_ :two: To howl, esp. with a deep, prolonged sound: _a hound baying at the moon._  
@@ -51,7 +52,8 @@ __beetle<sup>2</sup>__ _adj_ Projecting; overhanging: _beetle brows._
 __beetle<sup>3</sup>__ _v_ To project or overhang. _His brow beetled._  
 __beleaguer__ _v_ /bih-LEE-gur/ To beleaguer a person, business, etc. is to cause them constant or repeated trouble. _Beleaguer_ is also sometimes used as a synonym of besiege.  
 __bereaved__ _adj_  
-__better__ _v_  
+__better<sup>3</sup>__ _n_ (bettor) A person who bets.  
+__better<sup>4</sup>__ _v_  
 __biddy__ _n_ __2__ A woman, especially an older one who is extremely talkative.  
 __burrow__ _v_  
 __busybody__ _n_  
@@ -82,6 +84,7 @@ __cherub__ _n_ /ˈtʃɛr əb/
 __chide__ _v_ :two::hammer:  
 __chitinous__ _adj_ Of or resembling chitin.  
 __choir__ _n_ :mega: /kwaɪər/ /kwahyuhr/  
+__choker__ _n_  
 __chortle<sup>1</sup>__ _n_ A snorting, joyful laugh or chuckle.  
 __chortle<sup>2</sup>__ _v_ To utter a chortle or express with a chortle.  
 __Christmastide__ _n_  
@@ -91,6 +94,7 @@ __claimant__ _n_ :dart: /ˈkleɪmənt/ __1__ A person who makes a claim. __2__ _
 __clatter__ _v_  
 __clemency__ _n_  
 __closehanded__ _adj_ Covetous; penurious; stingy; closefisted.  
+__coerce__ _v_  
 __colander__ _n_ /KUH/KAH-luhn-duhr/ (cullender) A utensil with perforations, used for straining or draining foods.  
 __colonel__ _n_ :mega: /ˈkɜr nl/ /kur-nl/  
 __commence__ _v_  
@@ -109,6 +113,7 @@ __convene__ _v_
 __convivial__ _adj_ /kənˈvɪv i əl/  
 __countervail__ _v_ Oppose and mitigate the effects of by contrary actions. _Syn_ counteract, counterbalance, neutralize  
 __covenant__  
+__cow__ _vt_ To frighten or subdue with threats or a show of force. _Syn_ intimidate  
 __cower__ _v_  
 __cram__ _v_ Study intensively, as before an exam. _Syn_ bone up, drum, get up, grind away, mug up, swot _I spent the week before my Latin final exam cramming, a strategy that paid off when I aced the class._  
 __crease<sup>1</sup>__ _n_ __1__ A line or mark produced by folding, pressing, or wrinkling. __2__ A wrinkle or furrow, esp on the face.  
@@ -116,14 +121,20 @@ __crease<sup>2</sup>__ _vt_
 __crease<sup>3</sup>__ _vi_  
 __cruelly__ _adv_ __1__ Excessively: _a cruelly bitter winter._ __2__ With cruelty: _he treated his students cruelly._  
 __daffovil__ _n_  
+__dais__ _n_  
+__dazzling__ _adj_  
 __deceit__  
+__defer__ _v_  
 __demesne__ _n_ :two::hammer: :es: tierras; heredad  
+__dilatation__ _n_ The state of being stretched beyond normal dimensions. _Syn_ distention _He suffered from severe dilatation of the stomach, an abdominal swelling that left him writhing in pain._  
 __disbarment__ _n_  
+__doublet__ _n_  
 __doyen__ _n_ :two: (doyenne) The senior member of a group, profession, or society. _Syn_ dean  
 __drawl__ _v_  
 __dread__ _v_ :two::hammer:  
 __dreaded__ _adj_  
 __dreadful__ _adj_  
+__dreadnought__ _n_ (dreadnaught)  
 __dreary__ _adj_  
 __drifter__ _n_ :es: vagabundo  
 __drivel__ _n_ :dart: __1__ Saliva flowing from the mouth. __2__ :dart: Stupid or senseless talk. Nonsense; twaddle. _I’m not interested in his pornographic drivel._  
@@ -157,6 +168,7 @@ __elusive__ _adj_ :mega: /ɪˈlu sɪv/
 __emaciated__  
 __evergreen__ _adj_ /EV-er-green/ _Evergreen_ in its figurative uses describes something, such as a plot, that retains its freshness or interest over a long period of time, or something, such as an issue or concern, that is universally and continually relevant. In botany, _evergreen_ describes foliage that remains green and functional through more than one growing season.  
 __exacerbate__ _vt_  
+__excursion__ _n_ /ik-SKER-zhun/ _Excursion_ refers to a trip, and especially to a short one made for pleasure. _Excursion_ is also often used figuratively to refer to a deviation from a direct, definite, or proper course, and often in particular to a digression.  
 __expiration date__ _n_ _A sad song about a relationship that probably has reached its expiration date._  
 __extravaganza__ _n_ /ɪkˌstræv əˈgæn zə/  
 __fang__ _n_  
@@ -198,6 +210,7 @@ __flunky__ _n_ :two::hammer:
 __flyblown__ _adj_ Foul and run-down and repulsive. _Syn_ sordid, squalid _The gang met at a flyblown, grimy little bar on the edge of town to plan its next heist._  
 __fold<sup>1</sup>__ _vt_ __8a__ _informal_ To discontinue operating; close: They had to fold the company a year after they started it. __b__ Games To withdraw (one’s hand) in defeat, as by laying cards face down on a table.  
 __fold<sup>2</sup>__ _vi_  
+__folk__  
 __footing__ _n_  
 __forearm__ _n_ :es: antebrazo  
 __foresee__ _vt_ /fɔrˈsi, foʊr-/ To imagine or know as a probable occurrence; anticipate or predict: _foresaw economic decline._  
@@ -264,6 +277,7 @@ __giggle<sup>1</sup>__ _n_ :two::hammer:
 __giggle<sup>2</sup>__ _v_ :two::hammer:  
 __gladden__ _vt_ To make glad: _The good news gladdened our hearts._  
 __glass pane__  
+__glower__ _v_  
 __glower<sup>1</sup>__ _n_ To look or stare angrily or sullenly: _glowered at the rude patron._ _Syn_ scowl, glare, frown, look daggers, give a dirty look, lour, lower  
 __glower<sup>2</sup>__ _n_ An angry or sullen look or stare.  
 __goatee__ _n_  
@@ -311,6 +325,7 @@ __hard-ass__ _n_ _vulgar slang_ (hardass) One who inflexibly follows or enforces
 __hard-of-hearing__ _adj_ Having a hearing loss. _Syn_ hearing-impaired  
 __hard-pressed__ _adj_ :two::hammer:  
 __hardened__ _adj_ __3__ (Military) (of a nuclear missile site) Constructed to withstand a nuclear attack. _A hardened missile site._  
+__hardwood__ _n_  
 __hare__ _v_  
 __harpsichord__ _n_  
 __hassle__ _n_  
@@ -389,6 +404,7 @@ __jumpy__ _adj_ __1__ Nervous or apprehensive. __2__ Moving jerkily or fitfully.
 __juvenile<sup>1</sup>__ _adj_  
 __juvenile<sup>2</sup>__ _n_  
 __kickstand__ _n_ __1__ A swiveling metal bar for holding a bicycle, motorcycle, or other two-wheeled vehicle upright when it is not being ridden.  
+__Knight Templar__ _n_  
 __kraken__ _n_ (often cap.) A huge sea monster in Norwegian legend.  
 __lackey__ _n_ /ˈlækɪ/  
 __lair__ _n_  
@@ -449,6 +465,7 @@ __marksman__ _n_
 __marshal__ _v_  
 __marshmallow__ _n_ :pencil2:  
 __mascara__ _n_ _A residue of mascara was sticky on her eyelashes._  
+__masquerade__ _n_  
 __masseuse__  
 __master class__ _n_  
 __mastiff__ _n_ An old breed of powerful deep-chested smooth-coated dog used chiefly as a watchdog and guard dog. :es: mastín  
@@ -645,6 +662,7 @@ __plush<sup>1</sup>__ _n_
 __plush<sup>2</sup>__ _adj_  
 __poach__ _v_ :smiling_imp:  
 __poached__ _adj_ :two: /pəʊtʃt/ Cooked gently in boiling water, milk, or other liquid. :es: cocido a fuego lento  
+__poacher__ _n_ :smiling_imp:  
 __poaching__ _v_  
 __pocket protector__ _n_ :camera: A thin plastic sheath that fits into the breast pocket of one’s shirt to hold pens and other small instruments and protect the pocket from stains or tears.  
 __pogo stick__ _n_  
@@ -662,6 +680,7 @@ __pontoon__ _n_
 __pool__ _n_ __1a__ A game of chance, resembling a lottery, in which the contestants put staked money into a common fund that is later paid to the winner. __b__ A fund containing all the money bet in a game of chance or on the outcome of an event.  
 __popeye__ _n_ /ˈpɒpˌaɪ/  
 __poplar__ _n_ /ˈpɒp lər/ :three::hammer: (poplar tree) :es: álamo, chopo  
+__poppet__ _n_ :three::hammer:  
 __porky__ _adj_ __1__ Of or like pork: _a porky flavor._ __2__ _Derogatory Slang_ Fat or corpulent.  
 __port-o-john__ _n_ A portable toilet.  
 __portent__ _n_  
@@ -715,6 +734,7 @@ __proximate__ _adj_
 __pry__ _v_  
 __public house__ _n_ _BrE_ Pub.  
 __publican__ _n_ _BrE_ :astonished:  
+__puckering__ _n_ Corrugations in metal parts resulting from pressing or drawing.  
 __puff__ _v_  
 __pulse__ _n_ __1__ The edible seeds of certain pod-bearing plants, such as lentils and chickpeas. :es: legumbres __2__ A plant yielding these seeds.  
 __pumpkin spice__ _n_ A mixture of usually cinnamon, nutmeg, ginger, cloves, and often allspice that is commonly used in pumpkin pie.  
@@ -790,6 +810,7 @@ __redleg__ _n_ /ˈrɛdˌlɛɡ/ _derogatory Caribbean_ A poor White person.
 __redolent__  
 __redoubtable__ _adj_ :two::astonished: Arousing fear or awe. _Syn_ formidable, unnerving :es: temible  
 __reef__ _n_ __3__ _Nautical_ A portion of a sail gathered in and secured to lessen the area exposed to the wind.  
+__reek__ _v_ :astonished: To be pervaded by something unpleasant. _Syn_ smack, smell _His speeches reek of sarcasm._  
 __refrain__ _n_  
 __refurbish__ _vt_  
 __refuse__ _v_ /rɪˈfjuːz/  
@@ -867,12 +888,15 @@ __station__ _n_ __1a__ A place or position where a person or thing stands or is 
 __statuary__ _n_  
 __steak frites__  
 __stirred up__ _adj_ Emotionally aroused. _Syn_ stimulated, stirred, aroused  
+__stolid__ _adj_ :dart:  
+__strangle__ _v_  
 __striper__ _n_  
 __stronghold__ _n_  
 __suboptimal__ _adj_  
 __succumb__ _vi_ :pencil2: /səˈkʌm/  
 __sundry__ _adj_ Consisting of a haphazard assortment of different kinds. _Syn_ assorted, miscellaneous, mixed, motley  
 __surcoat__ _n_  
+__Surgeon General__ _n_  
 __tabby<sup>1</sup>__ _adj_  
 __tabby<sup>2</sup>__ _n_  
 __tee-hee__ _n_ (te-hee) /ˈtiːˈhiː/ __1__ A sound made in imitation of a giggle or titter. __2__ An instance of giggling or tittering. A chuckle.  
@@ -898,6 +922,7 @@ __thunk__ _n_
 __tiddlywinks__ _n_ A game played on a flat surface, in which players attempt to snap small plastic disks into a cup by pressing the edges of the disks with larger ones.  
 __till__ _n_ :es: caja registradora  
 __tinderbox__ _n_ :dart: __1__ A metal box for holding tinder. __2__ :dart: A person or thing that is highly volatile; any potential source of violence. A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
+__untenable__ _adj_ /un-TEN-uh-bul/ Something, such as a position, excuse, or situation, that is described as untenable cannot be defended against attack or criticism. _The scientists considered their colleague’s theory to be bold but ultimately untenable._  
 __wry__  
 __Xmas__ _n_  
 __yacht<sup>1</sup>__ _n_  
@@ -910,6 +935,7 @@ __yelp<sup>1</sup>__ _n_ :two::hammer:
 __yelp<sup>2</sup>__ _v_  
 __yo-yo__ _n_  
 __yoga__ _n_ [:scroll: From Hindi yoga, from Sanskrit yoga-s, literally “union, yoking” (with the Supreme Spirit)] _Hatha/Mantra/Karma/Bhakti/Raja/Jnana/Kundalini yoga._  
+__yokel__ _n_  
 __yule log__ _n_  
 __zeitgeist__ _n_ /TSYTE-gyste/ Zeitgeist refers to the general beliefs, ideas, and spirit of a time and place. _The artist’s songs perfectly captured the zeitgeist of 1990s America._  
 __zest__ _n_ /ZEST/ _Zest_ refers to an enjoyably exciting quality, or to keen enjoyment itself. In culinary use, _zest_ refers to small pieces of the peel of a lemon, lime, orange, or other citrus fruit used as flavoring.  
