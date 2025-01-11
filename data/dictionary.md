@@ -14749,8 +14749,9 @@ __pop<sup>2</sup>__ _v_ :five::hammer: _The deep price cut made a first day pop 
 __popcorn__ _n_  
 __popeyed__ _adj_ __1__ Having bulging eyes. __2__ Amazed; astonished: _popeyed with wonder._  
 __Popeyes Louisiana Kitchen__ _n_ an American multinational chain of fried chicken fast food restaurants founded in 1972 in New Orleans, Louisiana. Often referred to as Popeyes. _The restaurant wasn’t a Popeyes._  
-__poplar__ _n_ :es: álamo, chopo _Massive poplar trees lined the parkways._  
+__poplar__ _n_ :four::hammer: /ˈpɒp lər/ (poplar tree) :es: álamo, chopo _Massive poplar trees lined the parkways._  
 __popo__ _n_ (Streets.) The police. _The popo just picked up that stewed dude._  
+__poppet__ _n_ :three::hammer:  
 __popple__ _v_ To move in a tumbling, irregular manner, as boiling water.  
 __poppycock__ _n_ :two: /pŏp′ē-kŏk′/ Senseless talk; nonsense. _Syn_ hooey, stuff and nonsense  
 __pops__ _n informal_ :two: Father.  
@@ -14763,25 +14764,26 @@ __pork pie__ _n_
 __pork rind__ _n_ :two::dart::hammer: (pork rinds) :es: cortezas de cerdo  
 __porkpie hat__ _n_ :two: (pork pie hat, porkpie) A pork pie hat is one of several different styles of hat that have been popular since the mid-19th century, all of which bear superficial resemblance to a pork pie.  
 __porkpie__ _n_ :two: A hat having a low flat crown and a flexible, narrow brim. Also called _porkpie hat_.  
-__porky__ _adj_ :two: _derogatory_ _slang_ Fat or corpulent. _The porky swindler._  
+__porky__ _adj_ :three: __1__ Of or like pork: _a porky flavor._ __2__ _Derogatory Slang_ Fat or corpulent. _The porky swindler._  
 __porphyry__ _n_ :pencil2: Any igneous rock with crystals embedded in a finer groundmass of minerals.  
 __porpoise__ _n_ :two: A type of blunt-nosed sea animal of the dolphin family.  
 __porridge__  
 __porringer__  
 __port__ _n_ [See also _starboard_]  
+__port-o-john__ _n_ A portable toilet.  
 __porta-potty__ _n_ :three: A toilet that is in a small plastic building that can be moved.  
 __portable building__ _n_ A portable, demountable or transportable building is a building designed and built to be movable rather than permanently located. :es: barracones  
 __portal__  
 __portcullis__ _n_ :two::camera: A grating of iron or wooden bars or slats, suspended in the gateway of a fortified place and lowered to block passage.  
 __portend__ _vt_ :nine::m: /por-TEND/ Foreshadow as an omen; signify; foretell; forecast; forebode. _...may portend a disruption._  
-__portent__ _n_ :five::hammer: (portents)  
-__portentous__ _adj_ :two::hammer: /por-TEN-tuss/  
-__porter__ _n_  
+__portent__ _n_ :six::hammer:  
+__portentous__ _adj_ :three: /por-TEN-tuss/ Marvelous.  
+__porter__ _n_ :two: __1__ A person employed to carry luggage, parcels, supplies, etc, esp at a railway station or hotel.  
 __porterhouse__ _n_ :six::hammer: :es: bistec de filete _Its tender dry-aged porterhouse is unmatched._  
 __porthole__ _n_ :three: __1__ _Nautical_ A small, usually circular window in a ship’s side. __2__ An opening in a fortified wall; an embrasure.  
 __portico__ _n_  
 __Portlander__ _n_  
-__portly__  
+__portly__ _adj_ :two::hammer: :es: corpulento  
 __portmanteau__ _n_ :two: A large leather suitcase that opens into two hinged compartments. _Syn_ Gladstone _With both sides stuffed to capacity, he needed to sit on top of the portmanteau in order to close it._  
 __portrait__  
 __portray__ _v_  
@@ -14791,7 +14793,8 @@ __pose__ _v_ :two::hammer: _That’s the question I pose to you._
 __posh__ _adj_ :six: Things that are posh are swanky, fancy, and high-class. Posh things usually cost a lot of money, too. Elegant and fashionable.  
 __posit<sup>1</sup>__ _vt_ :nine::m::pencil2: __1__ To lay down or assume as a fact or principle; postulate. __2__ To place, put, or set. _BYU has posited themselves well._  
 __posit<sup>2</sup>__ _n_ :astonished::two: Something that is posited; an assumption; postulate. A proposition that is accepted as true in order to provide a basis for logical reasoning. _Syn_ postulate  
-__posse__ _n_ :three: /PAH-see/ A posse is a group of friends, or a group of people who are gathered together for a particular purpose. Posse also refers to a group of people who were gathered together by a sheriff in the past to help search for a criminal. _A posse clad._  
+__posse__ _n_ :three: /PAH-see/ __1__ A posse is a group of friends, or a group of people who are gathered together for a particular purpose. __2__ Posse also refers to a group of people who were gathered together by a sheriff in the past to help search for a criminal. A search party. _A posse clad._  
+__possess__ _v_  
 __possession__ _n_ :pencil2::mega: /pəˈzɛʃən/  
 __possum > play possum__ _v informal_ :seven: To pretend to be ignorant, asleep, or deal in order to deceive somebody. _To play possum._ _He’d been playing possum._  
 __possum__ _n_ :five::hammer: _Possums in New Zealand are known to destroy plants, birds’ nests, and eat birds’ eggs and invertebrates, posing a serious threat to forests and native wildlife._ :es: zarigüeya  
@@ -14803,6 +14806,7 @@ __postcode lottery__ _n_ :two::hammer:
 __poster boy__ _n_ :two::hammer:  
 __poster child__ _n_ :four::hammer: _Carl Levin called Kaveladze the “poster child” of using hidden ownership of American shell corporations to launder money._ _The building had been called a poster child for gentrification._  
 __poster girl__ _n_ _Anne Frank became a kind of poster girl for hope and inspiration, when in fact her story was very tragic._  
+__posterity__ _n_ /pɒˈstɛr ɪ ti/ /pɑˈstɛrət̮i/ /pah-STAIR-uh-tee/  
 __posthumous__ _adj_ __1__ Born after the death of the father. __2__ Published after the death of the author. __3__ Following or occurring after death.  
 __postiche__ _n_ __1__ Something false; a sham. __2__ A small hairpiece; a toupee.  
 __postmark<sup>1</sup>__ _n_ _The envelope had an Italian stamp and a postmark._  
@@ -14819,6 +14823,7 @@ __pot-bellied__ _adj_ _Pot-bellied seahorses._
 __pot-valiant<sup>1</sup>__ _n_ /POT-val-yuhnt/ [:scroll: From pot, alluding to a drinking pot + valor (boldness), from Latin valor (worth), from valere (to be well, be of worth). Earliest documented use: 1647.] Someone pot-valiant is also said to display liquid courage or Dutch courage. A person displaying boldness or courage while drunk.  
 __pot-valiant<sup>2</sup>__ _adj_ /POT-val-yuhnt/ Displaying bravado under the influence of alcohol.  
 __potatoes__ _n_ :pencil2::mega:  
+__potbellied__ _adj_ Having a large belly.  
 __potbelly__ _n_  
 __Potemkin village__ _n_ Something that appears elaborate and impressive but in actual fact lacks substance: _“the Potemkin village of this country’s borrowed prosperity” (Lewis H. Lapham)._  
 __potent__ _adj_ :two::hammer:  
@@ -14829,7 +14834,8 @@ __pother__ _n_ __1__ Commotion; uproar. __2__ A heated discussion, debate, or ar
 __pothole__ _n_ :five: (potholes) A pit or hole produced by wear or weathering (especially in a road surface).  
 __potholed__ _adj_ Used of paved surfaces having holes or pits. _The island’s potholed highways._  
 __potion__ _n_  
-__potluck__ _n_ :three: Comes from the practice of throwing leftovers in a pot—with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
+__potluck__ _n_ :four: Comes from the practice of throwing leftovers in a pot—with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
+__potpourri__ _n_ /poh-pur-REE/ Potpourri is a mixture of dried flower petals, leaves, and spices that is used to make a room smell pleasant. When used figuratively _potpourri_ refers to a collection of various different things.  
 __potshot__ _n_  
 __potsticker__ _n_  
 __potter__ _v_ :two::hammer: _She is pottering around the house._  
@@ -14856,7 +14862,8 @@ __powder__ _n_ :two: __4__ Light dry snow. _Powder skiing._
 __power bar__  
 __power play__  
 __power storm__  
-__power strip__ _n_ :two: A portable device consisting of a plug, wire, and one or more rows of electrical outlets, usually activated by a power switch.  
+__power strip__ _n_ :three::camera: A portable device consisting of a plug, wire, and one or more rows of electrical outlets, usually activated by a power switch.  
+__power suit__ _n_  
 __power tool__ _n_  
 __power trip__ _n slang_ An action undertaken chiefly for the gratification associated with the exercise of power over another or others: _“He was giving orders, and people were taking them. He was on a power trip”._ (Nelson DeMille)  
 __power-cycle__ _v_  
@@ -14893,12 +14900,12 @@ __preachment__ _n_ A tiresome or unwelcome moral lecture or discourse; tedious s
 __prebiotic__ _n_  
 __Precambrian__ _adj, n_  
 __precarious__ _adj_ :two: /prih-KAIR-ee-us/ Precarious means “characterized by uncertainty, insecurity, or instability that threatens with danger.” _College debt leaves many students in a precarious financial situation after graduation._ _The books were stacked high in a precarious tower._  
-__preceded__ _v_  
+__precede__ _v_ :two: Furnish with a preface or introduction. _Syn_ preface, premise, introduce _She always precedes her lectures with a joke._  
 __precedent<sup>1</sup>__ _n_  
 __precedent<sup>2</sup>__ _adj_  
 __precept__ _n_ A rule, instruction, or principle that teaches correct behavior.  
 __preceptor__ _n_ :three::hammer:  
-__precint__  
+__precinct__ _n_ :two::hammer:  
 __precipice__ _n_  
 __precipitancy__ _n_ The quality of happening with headlong haste or without warning. _Syn_ suddenness, abruptness  
 __precisely__ _adv_ :two::hammer: _Keeping it real, or more precisely keeping it fair, has proved a challenge._  
@@ -14925,20 +14932,22 @@ __prehension__ _n_ The act of gripping something firmly with the hands (or the t
 __prejudicious__ _adj_ :astonished: Causing harm or injury. _Syn_ damaging, detrimental, prejudicial  
 __prelate__ _n_ :three: A high-ranking member of the clergy, especially a bishop.  
 __preliminary__  
-__premier__ _adj_ :four::hammer: _Chicago is one of the premier dining destinations in the country._ _Premier opportunities for advertisers._  
+__premier__ _adj_ :five::hammer: _Chicago is one of the premier dining destinations in the country._ _Premier opportunities for advertisers._  
 __premium__ _n_ :six::hammer: (premiums) _To pay a premium for a larger-but-lighter vehicle._ _People would spend hundreds of dollars a month in premiums._ _Health premiums._ _Individuals have paid their premiums._ _The insurance company can charge you a premium._  
 __premortem__  
 __prenup__ _n_ _informal_ :two: A prenuptial agreement.  
-__preoccupation__  
+__preoccupation__ _n_ :three::hammer::pencil2:  
 __preordained__  
 __prep schools__  
 __prep<sup>1</sup>__ _adj_  
 __prep<sup>2</sup>__ _n_ :three: __2__ Preparation.  
 __prep<sup>3</sup>__ _v_ :eight::hammer: (prepped, prepping) _I was prepping for the show._  
 __preparedness__ _n_ /prɪˈpɛər ɪd nɪs, -ˈpɛərd nɪs/ The state of being prepared or ready, esp militarily ready for war.  
+__preponderance__ _n_ A superiority in numbers or amount. _Syn_ prevalence, extensiveness _The preponderance of the evidence strongly supports his guilt._  
 __preponderate__ _v_  
 __prepone__ _v_ To bring forward to an earlier time.  
-__preposterous__ _adj_ :nine::m: Contrary to nature, reason, or common sense; absurd. _Pre- means before. Post- means after. To use both prefixes together, ...would be preposterous._ _Syn_ foolish  
+__prepossessed__ _adj_ Exhibiting bias.  
+__preposterous__ _adj_ :nine::m: [:scroll: From Latin praeposterus, which translates literally to “in the wrong order”] Contrary to nature, reason, or common sense; absurd. _Pre- means before. Post- means after. To use both prefixes together, ...would be preposterous._ _Syn_ foolish  
 __preposterously__ _adv_ :two: _Syn_ laughably, ludicrously, ridiculously  
 __preposterousness__  
 __preppers__  
@@ -14946,7 +14955,7 @@ __preprandial__ _adj_ _Preprandial drinkers._
 __prepsters__  
 __prequel__  
 __prerequisite__  
-__prerogative__ _n_ :nine: /prih-RAH-guh-tiv/ __1__ An exclusive privilege or right exercised by a person or group of people holding a particular office or hereditary rank. __2__ Any privilege or right. _If you’d rather sell the tickets than use them, that’s your prerogative._ __3__ (Government, Politics & Diplomacy) A power, privilege, or immunity restricted to a sovereign or sovereign government.  
+__prerogative__ _n_ :nine::m: /prih-RAH-guh-tiv/ __1__ An exclusive privilege or right exercised by a person or group of people holding a particular office or hereditary rank. A right reserved exclusively by a particular person or group (especially a hereditary or official right). _Syn_ exclusive right, perquisite, privilege __2__ Any privilege or right. _If you’d rather sell the tickets than use them, that’s your prerogative._ __3__ (Government, Politics & Diplomacy) A power, privilege, or immunity restricted to a sovereign or sovereign government.  
 __presage__ _v_ :mega:  
 __presbyopia__ _n_  
 __presbyterian__ _adj_  
@@ -14963,28 +14972,31 @@ __presently__ _adv_ /PREZ-uhnt-lee/ __1__ In a short while: soon. _She will arri
 __preserve__ _n_ __3__ An area maintained for the protection of wildlife or natural resources. _A comedy about gorillas in a preserve._  
 __preserves__ _n pl_ :two: Fruit cooked with sugar to protect against decay or fermentation. _A jar of fig preserves._  
 __president-elect__ _n_ :four::hammer:  
-__President-elect__ _n_ :six::hammer: (also president-elect)  
+__President-elect__ _n_ :seven: (also president-elect) A president after election but before induction into office.  
 __presidential bid__ _n_ A _presidential bid_ refers to a person’s attempt to become the president of a country by running for election. It involves a candidate putting their name forward as a contender for the highest office in the country.  
 __presidential suite__ _n_  
 __Presley__ _n_ /ˈprɛs li, ˈprɛz-/  
 __press box__ _n_  
+__press cutting__ _n_ An excerpt cut from a newspaper or magazinepress cutting - an excerpt cut from a newspaper or magazine.  
 __press on__  
 __press release__ _n_  
 __press the pocket__  
 __pressed__ _adj_ __1__ Compacted by ironing. _Pressed pants._ _A young man with neatly pressed khakis._ :es: planchados __2__ Having very little of something, esp time or money.  
 __pressie__ _n informal_ /ˈprɛzɪ/ (pressy, prezzie) An informal word for present.  
-__pressing__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._ _Syn_ urgent __2__ Very earnest or insistent: _a pressing invitation._ _Pressing questions._  
+__pressing<sup>1</sup>__ _adj_ :three: __1__ Demanding immediate attention; urgent: _a pressing need._ _Syn_ urgent __2__ Very earnest or insistent: _a pressing invitation._ _Pressing questions._  
+__pressing<sup>2</sup>__ _n_  
 __pressure cooker__ _n_  
+__pressurize__ _vt_  
 __presumptive__ _adj_ /pre-ZUHMP-tiv/ __1__ Assumed; expected; inferred. __2__ Giving a reasonable basis for belief.  
 __presumptuous__ _adj_ Excessively forward. _Syn_ assumptive _You might think it presumptuous of me to offer you relationship advice when we barely even know each other, but please hear me out._  
 __presure cooker__ _n_ __2__ A situation that subjects one to urgent demands, a hectic pace, or other stressful conditions. _It’s a pandemic breakup. Presure cooking._ __3__ A volatile situation.  
 __pretense__ _n_ :two::hammer:  
 __pretentious__ _adj_ :pencil2:  
 __preterm birth__ _n_ :two: Preterm birth (PTB), also known as premature birth, is the birth of a baby at fewer than 37 weeks’ gestational age, as opposed to full term delivery at approximately 40 weeks.  
-__preternatural__ _n_  
+__preternatural__ _adj_ :two::hammer:  
 __pretty penny__ _n_ _informal_ A considerable sum of money: _I paid a pretty penny for that ring._  
 __pretzel__ _v_ Twist, bend, or contort. _He found the snake pretzeled into a tangle of knots._  
-__prevail__ _vi_ :six::hammer: (prevails)  
+__prevail__ _vi_ :seven::hammer: _We shall prevail in the name of the Galactic Empire!_  
 __prevalence__ _n_ :three: The total number of cases of a disease in a given population at a specific time.  
 __prevalent__ _adj_ :two::hammer:  
 __prevaricate__ _v_ :five::dart: To speak falsely, misleadingly, or so as to avoid the truth; deliberately misstate or create an incorrect impression; equivocate; lie. _Syn_ beat around the bush, palter, tergiversate  
@@ -14996,10 +15008,12 @@ __preview__ _n, v_ /ˈpriˌvyu/ /prē′vyo͞o′/
 __prey__ _v_ :two::hammer: (preyed) _A sniper who prays on victims in broad daylight._  
 __prez__ _n informal_ (Prez) President.  
 __priapic__ _adj_ :three: __1__ Of, relating to, or resembling a phallus; phallic. A less common word for _phallic_. __2__ Characterized by or exhibiting unrestrained or excessive male sexual activity.  
+__price gun__ _n_ :astonished: A portable tool used to print price tags.  
 __price point__ _n_ :two::hammer: _The best in price point._  
 __price tag__ _n_ :four::hammer: _Success always comes with a price tag._  
 __price__ _vt_ __1__ To fix or establish a price for: _shoes that are priced at sixty dollars._  
-__pricey__ _adj_ :two: Expensive. _Syn_ costly, dear  
+__pricey__ _adj_ :three: /ˈpraɪ si/ (pricy) Expensive. _Syn_ costly, dear  
+__prick__ _v_ _She is pricked by anxiety._  
 __prick-tease__ _n_ :dart: (prick-teaser) A woman who is sexually provocative but refuses to engage in sexual activity. _She was a first-class prick-tease._  
 __prick<sup>1</sup>__ _n_ :two::hammer: _He already had the prick for it._ __2b__ A small, sharp, local pain, such as that made by a needle or bee sting.  
 __prick<sup>2</sup>__ _v_ :eight::hammer: (pricked, pricking) _Pricked by a needle._ __3__ To affect with a mental or emotional pang, as of sorrow or remorse: _criticism that pricked his conscience._ _To prick consciences._ _Horse pricked up her ears and pranced._ _Pricking their finger to do a blood test._  
@@ -15018,7 +15032,7 @@ __prig__ _n_
 __prim__ _adj_ _Prim respect._  
 __prima facie__  
 __primacy__ _n_  
-__primal__ _adj_ :two::hammer: _He let out a primal scream._ _Primal feelings._  
+__primal__ _adj_ :three::hammer: _He let out a primal scream._ _Primal feelings._  
 __primary school__ _n_ A school for young children; usually the first 6 or 8 grades.  
 __primary__ _n_ An election in which qualified voters nominate or express a preference for a particular candidate or group of candidates for political office, choose party officials, or select delegates for a party convention.  
 __Prime Minister__  
@@ -15028,7 +15042,8 @@ __prime<sup>1</sup>__ _adj_ :five::hammer: _Their master bedroom has a prime vie
 __prime<sup>2</sup>__ _n_ :two::hammer:  
 __prime<sup>3</sup>__ _v_ :seven::astonished::hammer: (primed, priming) _The children who were primed to be happy significantly outperformed the others._  
 __primer__ _n_ :six:hammer::mega: /PRIMM-er/  
-__primeval__ _adj_  
+__primeval__ _adj_ :two: Of or pertaining to the first age or ages, esp. of the world; primordial.  
+__primigravida__ _n_ A woman who is pregnant for the first time. Also called _primipara._  
 __primitive__ _n_ __4b__ An artist having or affecting a simple, direct, unschooled style, as of painting. __c__ A work of art created by a primitive artist. _Primitives, collectibles and gifts for all._  
 __primly__ _adv_ :two::hammer:  
 __primo__ _adj, adv, n_  
@@ -15041,15 +15056,16 @@ __prink__
 __prior<sup>1</sup>__ _adj_ :four::hammer: _Continued from the prior page._ _His data show 30% fewer arrest citations compared to the 15 months prior._ _Make sure that flight controls move prior to flight._ _The only relevant hx is WPW ablation 20 years prior._  
 __prior<sup>2</sup>__ _adv_  
 __prior<sup>3</sup>__ _n_ :two::hammer: _They deblur the captured images using the motion path as a prior._  
-__prioritize__ _v_ :two::hammer:  
+__prioritize__ _v_ :three::hammer: _We’ll probably go on prioritizing._  
 __prise<sup>1</sup>__ _n_  
 __prise<sup>2</sup>__ _v_ (prised) _The window had been prised open._  
 __prised out__ _v_  
-__prissy__ _adj_ :five::astonished::hammer: _A prissy mustache._  
+__prissy__ _adj_ :six::astonished::hammer: _A prissy mustache._ :es: remilgado  
 __pristine__ _adj_ :two::hammer: _They were in pristine condition._  
 __privacy lock__  
 __private dancer__ _n_ A dancer who performs a striptease.  
 __privation__ _n_ Lack of the basic necessities or comforts of life. _Syn_ neediness, want _They endured years of privation during the war and were used to going without._  
+__privet__ _n_ /ˈprɪv ɪt/ _Clipped privet hedges._  
 __privies__ _n pl_ :two: __1a__ An outdoor toilet; an outhouse. __b__ A toilet.  
 __privy<sup>1</sup>__ _adj_ :two: __1__ (foll by: to) Participating in the knowledge of something secret. _Few people are privy to this information._  
 __privy<sup>2</sup>__ _n_ :six::hammer:  
@@ -15066,6 +15082,7 @@ __pro tem<sup>2</sup>__ _adj_
 __pro<sup>1</sup>__ _n_ __1__ An argument or consideration in favor of something: _weighing the pros and cons._ _The pro column, not the con column._ __2__ One who supports a proposal or takes the affirmative side in a debate.  
 __pro<sup>2</sup>__ _adj_ __1__ Affirmative; supporting: _a pro vote._ __2__ Professional: _pro football._  
 __proactive__ _adj_ Acting in advance to deal with an expected difficulty; anticipatory: _proactive steps to prevent terrorism._  
+__probable cause__ _n_  
 __probate__ _adj_ _Probate records._  
 __probation__ _n_ _A person has ben sentenced to probation._  
 __probative__ _adj_ Providing proof or evidence.  
@@ -15073,6 +15090,7 @@ __probity__ _n_ :two: Complete and confirmed integrity; having strong moral prin
 __proboscis__ _n_  
 __proceedings__ _n_ :two::hammer: _The bishops held the proceedings against Wyclif in abeyance._ _They’re sitting, with legs crossed and eyes closed, waiting for the proceedings to begin._  
 __proceeds__ _n_ :nine: The money that has been gained from doing something or selling something. _Proceeds from the sale._ _Operating funds come from rodeo proceeds._ _Proceeds of refreshments to the British Red Cross._ :es: ganancias; ingresos  
+__process server__ _n_ :dart::two: A person who serves subpoenas or other legal documents, esp. those requiring appearance in court.  
 __proclamation__ _n_ __1__ Something that is proclaimed; a public and official announcement. __2__ The act of proclaiming.  
 __proclivity__ _n_ :two: A natural propensity or inclination; a predisposition: _a proclivity for exaggeration; a proclivity to complain._ _Syn_ leaning, propensity  
 __procrastinate__ _v_ /pruh-KRASS-tuh-nayt/  
@@ -15104,14 +15122,14 @@ __profiteer<sup>2</sup>__ _v_ To make excessive profits on goods in short supply
 __profiteering__  
 __profligacy<sup>1</sup>__ _adj_  
 __profligacy<sup>2</sup>__ _n_ :three: The trait of spending extravagantly. _Syn_ prodigality, extravagance  
-__profligate<sup>1</sup>__ _adj_ :seven: __1__ Shamelessly immoral or debauched. _Syn_ degenerate, degraded, dissipated, dissolute, libertine, riotous, fast _We both know that he has been profligate in every sense of the word; that he has neither integrity nor honor; that he is as false and deceitful as he is insinuating._ __2__ Given to or characterized by reckless waste; wildly extravagant: _a profligate spender; the profligate use of water._  
+__profligate<sup>1</sup>__ _adj_ :dart::eight: __1__ Shamelessly immoral or debauched. _Syn_ degenerate, degraded, dissipated, dissolute, libertine, riotous, fast _We both know that he has been profligate in every sense of the word; that he has neither integrity nor honor; that he is as false and deceitful as he is insinuating._ __2__ Given to or characterized by reckless waste; wildly extravagant: _a profligate spender; the profligate use of water._  
 __profligate<sup>2</sup>__ _n_ :three::hammer:  
 __profound__ _adj_ :mega:  
 __profoundly__ _adv_ :two::hammer:  
 __profuse__ _adj_ Plentiful; copious. _Syn_ lush, riotous, luxuriant, exuberant  
 __profusely__ _adv_ :two::hammer:  
-__profusion__  
-__progeny__ _n_ :three::hammer:  
+__profusion__ _n_ :dart::two::hammer::astonished:  
+__progeny__ _n_ :four: One born of, begotten by, or derived from another. _Syn_ issue, offspring  
 __prognosticate__ _v_ :two: /prahg-NAHSS-tuh-kayt/ Indicate by signs. _Syn_ augur, auspicate, bode, omen, portend, foreshadow, presage, predict, prefigure, betoken, forecast, foretell _This neighborhood has seen an urban renewal that prognosticates a social and cultural renaissance._  
 __prohibit__  
 __prohibitionist__ _n_ A reformer who opposes the use of intoxicating beverages. _Syn_ dry _She was a tireless prohibitionist who raided saloons and destroyed bottles of liquor with a hatchet._  
@@ -15119,7 +15137,7 @@ __Prohibitionists__
 __prolapse<sup>1</sup>__ _v_  
 __prolapse<sup>2</sup>__ _n_  
 __prolegomenon__ _n_ :two: A preliminary or introductory commentary, esp. a scholarly preface or introduction to a book.  
-__proliferate__ _v_ _Digest science-fiction magazines had begun to proliferate._  
+__proliferate__ _v_ :two: /pruh-LIF-uh-rayt/ To increase quickly in number or amount. _Digest science-fiction magazines had begun to proliferate._  
 __proliferation__ _n_  
 __prolix__ _adj_ :four: Using too many words and therefore boring. Tediously prolonged; tending to speak or write at excessive length. _Syn_ voluble, wordy _She was engaged in editing a prolix manuscript, trying to cut the length by at least a third._  
 __prolixity__ _n_ :two: Excessive wordiness in speech or writing; longwindedness.  
@@ -15153,6 +15171,7 @@ __prop__ _v_ :two::hammer: (propped) _His chin was propped in his hands._
 __propaganda__ _n_ :astonished:  
 __propagate__ _v_ /PRAH-puh-gayt/ __1__ To produce offspring. _The tree is readily propagated by grafting._ __2__ To make (something, such as an idea or belief) known to or accepted by many people. _The group’s members increasingly rely on social media to propagate their ideas._  
 __propel__ _v_ :two::hammer:  
+__propensity__ _n_ /pruh-PENN-suh-tee/ A _propensity_ is a strong natural tendency to do something.  
 __proper__ _adv_ :two: Thoroughly. _Beat the eggs good and proper._ _They have pushed into the city proper._  
 __property owner__ _n_ A holder or proprietor of land. _Syn_ landholder, landowner _Watch out for scammers trying to exploit property owners._  
 __prophecy__ _n_ :pencil2: _A self-fulfilling prophesy._  
@@ -15180,7 +15199,7 @@ __prospectus__
 __prosthetic__ _adj_  
 __prostrate<sup>1</sup>__ _adj_  
 __prostrate<sup>2</sup>__ _v_  
-__prostration__ _n_ __2__ Total exhaustion or weakness; collapse.  
+__prostration__ _n_ :dart::astonished::two: __2__ Total exhaustion or weakness; collapse. An abrupt failure of function or complete physical exhaustion. _Syn_ collapse  
 __prosty__  
 __protean__ _adj_ :five::hammer:  
 __protectionism__ _n_  
@@ -20204,7 +20223,7 @@ __toeing__ _v_
 __toffee__  
 __tohubohu__ _n_ Chaos, confusion. _Bringing order out of the tohubohu of human relations._  
 __toil<sup>1</sup>__ _n_ :three: Hard unpleasant work done over a long period. _A lifetime of toil._  
-__toil<sup>2</sup>__ _vi_ :nine::hammer: _Each toiled for at least four years in the minors._ _Artisans toil in fascinating foundries._  
+__toil<sup>2</sup>__ _vi_ :dart::nine: __1__ To labor continuously; work strenuously. _Artisans toil in fascinating foundries._ __2__ To proceed with difficulty: _“The old woman ... proceeded to toil up the narrow staircase before us” (James Joyce)._ _Each toiled for at least four years in the minors._  
 __toil<sup>3</sup>__ _vt_ To accomplish by unremitting labor.  
 __toilet bowl__ _n_ :two: The bowl of a toilet that can be flushed with water.  
 __toilet stool__  
@@ -22221,10 +22240,9 @@ __wrong<sup>4</sup>__ _v_ :mute:[~~w~~rong]
 __wrongdoer__ _n_ One who does wrong, especially morally or ethically.  
 __wrongdoing__ _n_ :three::hammer:  
 __wrongous__ _adj_ /ˈrɒŋəs/ [:scroll: From wrong, from Old English wrang + wise (manner)] __1__ (of a person) Unfair, unjust. __2__ Characterized by unfairness or injustice. __3__ Not lawful, unjust. __4__ Not fitting or suitable.  
-__wrought__ _adj_ :two::hammer:  
 __wrought iron__ _n_ :two::hammer:  
 __wrought<sup>1</sup>__ _v_ :four: A past tense and a past participle of work. _Syn_ worked  
-__wrought<sup>2</sup>__ _adj_ __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
+__wrought<sup>2</sup>__ _adj_ :three: __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
 __wrung__ _v_ _They have wrung their hands._  
 __wry__ _adj_ :six: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He has a wry ear and a knack for poignance._ _Wry moments._ :es: humor seco y burlesco:  
 __wryly__ _adv_ :four::pencil2::hammer: :es: irónicamente, con ironía _A few people laughed wryly._  

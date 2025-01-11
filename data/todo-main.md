@@ -679,56 +679,6 @@ __ponderous__ _adj_ :two::hammer:
 __pontoon__ _n_  
 __pool__ _n_ __1a__ A game of chance, resembling a lottery, in which the contestants put staked money into a common fund that is later paid to the winner. __b__ A fund containing all the money bet in a game of chance or on the outcome of an event.  
 __popeye__ _n_ /ˈpɒpˌaɪ/  
-__poplar__ _n_ /ˈpɒp lər/ :three::hammer: (poplar tree) :es: álamo, chopo  
-__poppet__ _n_ :three::hammer:  
-__porky__ _adj_ __1__ Of or like pork: _a porky flavor._ __2__ _Derogatory Slang_ Fat or corpulent.  
-__port-o-john__ _n_ A portable toilet.  
-__portent__ _n_  
-__portentous__ _adj_ Marvelous.  
-__porter__ _n_ __1__ A person employed to carry luggage, parcels, supplies, etc, esp at a railway station or hotel.  
-__portly__ _adj_ :es: corpulento  
-__posse__ _n_ __2__ A search party.  
-__possess__ _v_  
-__posterity__ _n_ /pɒˈstɛr ɪ ti/ /pɑˈstɛrət̮i/ /pah-STAIR-uh-tee/  
-__potbellied__ _adj_ Having a large belly.  
-__potluck__ _n_  
-__potpourri__ _n_ /poh-pur-REE/ Potpourri is a mixture of dried flower petals, leaves, and spices that is used to make a room smell pleasant. When used figuratively _potpourri_ refers to a collection of various different things.  
-__power strip__ _n_  
-__power suit__ _n_  
-__precede__ _v_ Furnish with a preface or introduction. _Syn_ preface, premise, introduce _She always precedes her lectures with a joke._  
-__precinct__ _n_  
-__preen__ _v_  
-__premier__  
-__preoccupation__ _n_ :two::hammer::pencil2:  
-__preponderance__ _n_ A superiority in numbers or amount. _Syn_ prevalence, extensiveness _The preponderance of the evidence strongly supports his guilt._  
-__prepossessed__ _adj_ Exhibiting bias.  
-__preposterous__ _adj_ [:scroll: From Latin praeposterus, which translates literally to “in the wrong order”]  
-__prerogative__ _n_ A right reserved exclusively by a particular person or group (especially a hereditary or official right). _Syn_ exclusive right, perquisite, privilege  
-__president-elect__ _n_ A president after election but before induction into office.  
-__press cutting__ _n_ An excerpt cut from a newspaper or magazinepress cutting - an excerpt cut from a newspaper or magazine.  
-__pressing__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._  
-__pressing<sup>1</sup>__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._ _Syn_ urgent __2__ Very earnest or insistent: _a pressing invitation._  
-__pressing<sup>2</sup>__ _n_  
-__pressurize__ _vt_  
-__preternatural__ _adj_  
-__prevail__ _v_ _We shall prevail in the name of the Galactic Empire!_  
-__price gun__ _n_ :astonished: A portable tool used to print price tags.  
-__pricey__ _adj_ /ˈpraɪ si/ (pricy)  
-__prick__ _v_ _She is pricked by anxiety._  
-__primal__  
-__primeval__ _adj_ Of or pertaining to the first age or ages, esp. of the world; primordial.  
-__primigravida__ _n_ A woman who is pregnant for the first time. Also called _primipara._  
-__prioritize__ _v_ _We’ll probably go on prioritizing._  
-__prissy__ _adj_ :es: remilgado  
-__privet__ _n_ /ˈprɪv ɪt/ _Clipped privet hedges._  
-__probable cause__ _n_  
-__process server__ _n_ :dart::two: A person who serves subpoenas or other legal documents, esp. those requiring appearance in court.  
-__profligate__ _adj_ :dart:  
-__profusion__ _n_ :dart::astonished:  
-__progeny__ _n_ One born of, begotten by, or derived from another. _Syn_ issue, offspring  
-__proliferate__ _v_ /pruh-LIF-uh-rayt/ To increase quickly in number or amount.  
-__propensity__ _n_ /pruh-PENN-suh-tee/ A _propensity_ is a strong natural tendency to do something.  
-__prostration__ _n_ An abrupt failure of function or complete physical exhaustion. _Syn_ collapse  
 __provender__ _n_ Dry food, as hay or oats, for livestock or other domestic animals.  
 __proximate__ _adj_  
 __pry__ _v_  
