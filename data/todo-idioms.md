@@ -921,6 +921,9 @@ __the law of the instrument__ See _Maslow’s hammer_.
 __the light at the end of the tunnel__  
 __the likes of you__  
 __the lion’s den__  
+__the name of the game__  
+__the nuts and bolts__  
+__the order of the day__  
 __the party is over__ A period of excitement, success, jubilation, or opulence has changed to a period of sobriety, calm, reflection, or regret.  
 __the powers that be__ :dart::three:  
 __the real deal__  
@@ -933,7 +936,7 @@ __the upper crust__
 __the upshot (of something)__ :dart::two: The final or resulting outcome, conclusion, or consequence (of something). _The upshot of this merger is that the company will now control nearly 50% of the world’s television networks._  
 __the whole nine yards__ Everything; the full extent of something. This could be used when a character has gone all-in or is fully committed to an action, no matter the risk.  
 __the works__ :two::hammer:  
-__the writing on the wall__ (the (hand)writing on the wall)  
+__the writing on the wall__ :two::hammer: (the (hand)writing on the wall)  
 __then again__  
 __there is something about__  
 __thick-skulled__ Stupid, dimwitted, or obtuse.  

@@ -807,56 +807,6 @@ __sentient__ _adj_
 __shamble<sup>1</sup>__ _vi_ :dart: To walk or move along in an awkward or unsteady way.  
 __shamble<sup>2</sup>__ _n_ An awkward or unsteady walk.  
 __sic__ _vt_ :dart: __1__ To turn on or attack: used only in commands, as to a dog. __2__ To urge (a dog) to attack. To urge or incite to hostile action; set: _sicced the dogs on the intruders._  
-__situation__ _n_ :three::hammer;  
-__skin-crawling__ _adj_ :dart: Horrifying or nauseating, so as to cause a creeping sensation in a person’s skin.  
-__slither__ _v_  
-__slobber__ _v_  
-__sloth__ _n_ _Sid the Sloth._ :es: pereza; perezoso  
-__snicker-snack__ _n_ [:scroll: Coined by Lewis Carroll in his poem Jabberwocky, probably relating to snickersnee] An onomatopoeia of unclear meaning, possibly referring to sharpness, or the sound of a blade cutting through something.  
-__snide__ _adj_ :smiling_imp:  
-__snivel__ _v_ /SNIV-ul/  
-__sniveling__ _n_  
-__snort__ _v_ _She snorts really well for someone with such a cute nose._  
-__snow flurry__ _n_ A light brief snowfall and gust of wind (or something resembling that).  
-__snub-fighter__ _n_ (snub fighter)  
-__snuffbox__ _n_ A small, often decorated box with a hinged lid, used for carrying snuff.  
-__soapbox__ _n_ _Stan Lee’s soapbox._  
-__solstice__ _n_ One of the two times during the year when the sun is farthest north or south of the equator.  
-__soon enough__ _adv_ :dart::astonished:  
-__sou__ _n_ One of several coins formerly used in France, worth a small amount.  
-__specific__ _adj, n_ :mega: /spi-sif-ik/  
-__spin__ _n_ :smiling_imp: __23__ _informal_ The practice of presenting news or information in a way that creates a favourable impression. _Put one’s own spin on a news story._  
-__spindle__ _n_  
-__spinning jenny__ _n_ An early spinning machine having more than one spindle, enabling a person to spin a number of yarns simultaneously.  
-__splutter__ _v_ _I coughed and spluttered._  
-__spoor<sup>1</sup>__ _n_ (Hunting) The trail of an animal or person, esp as discernible to the human eye. _The spoor of blood._  
-__spoor<sup>2</sup>__ _v_ (Hunting) To track (an animal) by following its trail.  
-__sprawl__ _v_ _The hit sent me sprawling to the ground._  
-__stale__ _adj_ :two::hammer: _Stale coffee._  
-__startled__ _adj_  
-__station__ _n_ __1a__ A place or position where a person or thing stands or is assigned to stand; a post: _a sentry station._ _Duty station._ __b__ An area where a person is assigned to work.  
-__statuary__ _n_  
-__steak frites__  
-__stirred up__ _adj_ Emotionally aroused. _Syn_ stimulated, stirred, aroused  
-__stolid__ _adj_ :dart:  
-__strangle__ _v_  
-__striper__ _n_  
-__stronghold__ _n_  
-__suboptimal__ _adj_  
-__succumb__ _vi_ :pencil2: /səˈkʌm/  
-__sundry__ _adj_ Consisting of a haphazard assortment of different kinds. _Syn_ assorted, miscellaneous, mixed, motley  
-__surcoat__ _n_  
-__Surgeon General__ _n_  
-__tabby<sup>1</sup>__ _adj_  
-__tabby<sup>2</sup>__ _n_  
-__tee-hee__ _n_ (te-hee) /ˈtiːˈhiː/ __1__ A sound made in imitation of a giggle or titter. __2__ An instance of giggling or tittering. A chuckle.  
-__tenement__ _n_  
-__Terence__ _n_ (Terry)  
-__testimonial__ _n_ /tess-tuh-MOH-nee-ul/ A testimonial is a written or spoken statement in which a person says they used a product or service and liked it, or that they appreciate someone’s work, skill, character, etc. Testimonial is also used as a synonym of evidence and testimony.  
-__thalamotomy__ _n_ Surgical excision of a portion of the thalamus, usually to relieve tremor, as in Parkinson’s disease.  
-__thanatopsis__ _n_ /than-uh-TOP-sis/ [:scroll: From Greek thanatos (death) + -opsis (appearance, view)] A reflection upon death.  
-__the nuts and bolts__  
-__thence__ _adv_ From that place; from there. _Syn_ therefrom _The train went south into Switzerland and thence on to Italy._  
 __thimble__ _n_ :es: dedal  
 __thraldom__ _n_  
 __thrall__ _n_ :astonished:  
