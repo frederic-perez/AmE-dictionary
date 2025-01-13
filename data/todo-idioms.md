@@ -11,6 +11,7 @@ __(one’s) heart bleeds for (someone)__ One feels sorrow or sadness for someone
 __(out) on a limb__  
 __(someone) ain’t seen nothing yet__  
 __(stuck) in a rut__  
+__(the good) Lord willing and the creek don’t rise__ _rural_ If all goes as it should; if everything goes well. _We’ve had a lot of delays, but Lord willing and the creek don’t rise, we should have the house finished before winter._  
 __(the) next thing (one) knows__ :two: (next thing you know)  
 __(the) top of the line__ The absolute best of a certain thing, often referring to a product that is of the utmost quality (and usually the most expensive). When used as a noun, it is preceded by “the.” _That store only sells top of the line gear. You may want to consider some lower-priced options._  
 __(with) kind regards__ A common, semi-formal valediction used at the end of a letter or other written message to express well wishes to the recipient. _Please send a financial report for your company for the previous year at your earliest convenience. With kind regards, Alex Goodman._  
@@ -47,6 +48,7 @@ __be a long shot__ To be very risky, uncertain, or unlikely to succeed, as of an
 __be looking for trouble__ To be doing something or acting in a manner that will very likely result in trouble, difficulty, or danger. _I’d keep your mouth shut if you want to keep your job—arguing with the boss like that is just looking for trouble!_  
 __beanpole__ One who is very skinny. _Susie is such a beanpole now that she’s had her growth spurt._  
 __break faith with (someone or something)__ :dart::three: To fail to act as one has promised.  
+__bring (something) to a close__  
 __burn (someone or something) to a crisp__  
 __chalk it up__  
 __chalk up__  
@@ -120,6 +122,7 @@ __do double duty__
 __do shit__ (don’t do shit) _The cops that worked the case didn’t do shit and sure as hell aren’t going to do shit now._  
 __do the trick__ :two: To do, accomplish, or fulfil exactly what is needed or sought after. _The recipe calls for pancetta, but I think this regular bacon should do the trick._  
 __do-rag__ A scarf, bandana, or similar item tied around the head as a covering. A headcap that covers and protects a hairdo. _Bob says he uses that do-rag to keep his hair out of his face while he mows the lawn._  
+__dollars to doughnuts__ (dollars to donuts)  
 __don’t ask me__  
 __don’t get me started__  
 __don’t give a rat’s ass__  
@@ -149,6 +152,7 @@ __easier than falling off a log__ Extremely easy; very intuitive; requiring litt
 __easy as one-two-three__ ((as) easy as one-two-three; easy as one, two, three) Extremely easy, simple, or straightforward.  
 __easy does it__ :dart:  
 __eat (one’s) gun__ To commit suicide by shooting oneself in the head through the roof of one’s mouth.  
+__eat your heart out__ (eat (one’s) heart out)  
 __ebb and flow__  
 __engage (one) as (something)__ To hire someone for a particular role or job. _I thought they were just going to engage me as a file clerk, but because they needed help with data entry, I wound up doing that instead._ :es: contratar  
 __enough is enough__  
@@ -220,6 +224,7 @@ __goon__
 __green folding__ Paper money, especially in large amounts. _Boy, I bet you had to lay down some serious green folding for that new sports car, huh?_  
 __gun for hire__  
 __ham-handed__ In a clumsy manner; lacking care and skill.  
+__hard-pressed__ Struggling to do or accomplish something, especially because it seems impossible. _You’ll be hard-pressed to find a better guy than Bill._  
 __have (something) in store (for one)__ To have something awaiting (one) or prepared (for one).  
 __have someone’s number__ (have (got) (one’s) number)  
 __head over heels__  
@@ -236,6 +241,7 @@ __hell’s bells__ :three: An exclamation of frustration or surprise. A shortene
 __helluva__  
 __hem and haw__  
 __here’s for the happy couple__  
+__high note__ The most successful, impressive, or climactic point (of something).  
 __hinge on__  
 __hit (one) when (one) is down__ To criticize, exploit, insult, or otherwise treat badly one who has already suffered a setback or is in a vulnerable position. _Can Jeff’s employee review wait until next week? His girlfriend just left him, and I don’t want to hit him while he’s down._  
 __hit a brick wall__ To come up against an immovable or insurmountable difficulty or obstacle. _Our project was going well, but we hit a brick wall when our funding was suddenly cut._  
@@ -456,6 +462,7 @@ __knee-jerk reaction__ Any spontaneous, reflexive, and unthinking reaction or re
 __knife-edge__  
 __knock it off__  
 __knock on doors__ To speak to the people who live in an area by walking up to their houses, apartments, etc., especially to provide information or solicit votes, support, contributions, etc.  
+__knock-off__  
 __know best__ To have more knowledge and experience about something than anyone else. _You should listen to her advice—after all, Mother knows best._  
 __know better (than to do something)__ :three::hammer: _The woman is dirty, maybe mentally ill, and Nic knows better than to tangle with that type._  
 __know by heart__  
@@ -843,6 +850,8 @@ __stamp of approval__ An indication of endorsement or authorization of something
 __stand a chance__ :two: To have a possibility, however remote, of succeeding; to possibly be able to do something. Often used in the negative to mean the opposite. _If that road is closed, we don’t stand a chance of making it on time._  
 __stand on (one’s) own (two) feet__ To be strong and independent; to not need the help, guidance, or resources of another person.  
 __stands to reason__  
+__start off on a high note__ To begin something (such as an event, project, or experience) in a positive, successful, or impressive way. It implies setting a strong, optimistic tone right from the beginning.  
+__start off__  
 __start the ball rolling__ To set something, often a process, in motion; to begin.  
 __stay clear of (someone)__ :dart:  
 __stay on top of (someone or something)__  
@@ -881,10 +890,12 @@ __sworn enemy__ A person, group, or organization for whom one holds a particular
 __tacky__ Cheap, crude, and unrefined; indicating or characteristic of a lack of class, elegance, or sophistication. _He showed up in a really tacky suit._ _The office looked tacky._ _Tacky birthday present._ :es: cutre  
 __taco bender__  
 __take a load off (one’s feet)__ To sit down and rest one’s feet; to relax. (Usually said as a suggestion.) _Why don’t you go take a load off for a while, and I’ll fix dinner for tonight?_  
+__take a shot (at someone or something)__  
 __take heart (from something)__ To receive courage or comfort from some fact. _I hope that you will take heart from what we told you today. Even though you did not win the race, take heart from the fact that you did your best. I told her to take heart and try again next time._  
 __take heart__ To have one’s confidence, courage, or happiness bolstered (by something). _We may have lost the election, but we take heart in the fact that so many young people are now engaged and excited about politics._  
 __take heed (of someone or something)__  
 __take into one’s hands__ (take (something) into one’s hands)  
+__take inventory__  
 __take issue__ To strongly disagree with or take offense at something.  
 __take matters into (one”s) own hands__  
 __take no notice of (something or someone)__  
@@ -983,6 +994,7 @@ __very much so__ To a significant extent; yes, very much.
 __wait and see__ :three::hammer: _It profits me best to wait and see._  
 __walk on eggs__  
 __war chest__  
+__warhorse__ ((old) warhorse) __1__ A veteran of some activity or profession (not necessarily the military) who has a wealth of experience going through various trials and tribulations. _I know she’s a little eccentric, but Janet is a warhorse in this firm—she’s been through more trying court cases than anyone else here._  
 __water under the bridge__  
 __weather the storm__ To endure a period of hardship or disorder. To experience something and survive it. _That was the hardest year of my life, but in the end I was able to weather the storm with the support of my family._  
 __well put__ The expression “well put” is used to praise someone’s way of expressing something. It means that what the person said was clear, well-articulated, or expressed in a thoughtful or effective manner. It’s a compliment acknowledging that their words were well-chosen or accurately conveyed the intended message.  
@@ -1008,6 +1020,7 @@ __zap__ __1__ To give someone or something an electrical shock. _Zapping injured
 __zero hour__  
 __zero in__ :three::hammer:  
 __zig when (one) should zag__  
+__zing__ __1__ _n_ _informal_ A particularly witty or cutting remark. _She fired back with a zing that put Tom in his place._  
 __zippy__  
 __zoom along__ __1__ To progress forward at a very quick pace. _The ambulance zoomed along to get the victim to the hospital in time._  
 __zoom out__ __3__ To exit rapidly: _We got dressed and zoomed out to the party._ _With the tractor beam off, we can zoom out of here._  
