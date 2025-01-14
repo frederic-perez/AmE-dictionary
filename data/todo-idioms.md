@@ -16,6 +16,7 @@ __(the) next thing (one) knows__ :two: (next thing you know)
 __(the) top of the line__ The absolute best of a certain thing, often referring to a product that is of the utmost quality (and usually the most expensive). When used as a noun, it is preceded by “the.” _That store only sells top of the line gear. You may want to consider some lower-priced options._  
 __(with) kind regards__ A common, semi-formal valediction used at the end of a letter or other written message to express well wishes to the recipient. _Please send a financial report for your company for the previous year at your earliest convenience. With kind regards, Alex Goodman._  
 __a (whole) host of (something)__  
+__a bad egg__ :smiling_imp:  
 __a balancing act__ :dart:  
 __a big if__  
 __a bit dicey__ :two: Carrying a certain degree of risk or danger; uncertain of a favorable outcome.  
@@ -43,6 +44,7 @@ __all too soon__ The idiom “all too soon” means that something happened much
 __at length__  
 __at the end of the day__  
 __baby blues__ __1__ A usually brief period of sadness, anxiety, and mood swings experienced by a large percentage of women after giving birth. _When I had the baby blues after having my first child, I would find myself crying without knowing why._ __2__ Blue eyes, especially those that are light blue. _I just had to ask for Sean’s number after I got a glimpse of his baby blues—I’d never seen such striking eyes before!_  
+__backwater__ :dart: A place that is extremely remote or isolated, such that it is removed from the reach and influence of the outside world and thus is often regarded as socially stagnant or backward. _He grew up in a bit of a backwater, so his manners aren’t exactly refined._ _The backwater of the Empire._  
 __bagel bender__  
 __be a long shot__ To be very risky, uncertain, or unlikely to succeed, as of an attempt, proposition, or guess. _I know this is a long shot, but would you like to go out on a date with me sometime?_  
 __be looking for trouble__ To be doing something or acting in a manner that will very likely result in trouble, difficulty, or danger. _I’d keep your mouth shut if you want to keep your job—arguing with the boss like that is just looking for trouble!_  
@@ -209,6 +211,7 @@ __for a fee__
 __for all I know__  
 __for all intents and purposes__ _adv_ :two: In every practical sense. _To all intents and purposes the case is closed._ _The rest are for all practical purposes useless._ _Syn_ for all practical purposes, to all intents and purposes  
 __for all practical purposes__ (for (all) practical purposes) In reality; basically. As might be reasonably expected; essentially. _For all practical purposes, this is simply a matter of right and wrong._ _For all practical purposes, I might as well have not handed in this proposal at all, with how swiftly the board rejected it._  
+__for good__  
 __foul play__ Unspecified criminal or unscrupulous actions, especially violence when stated as the potential cause of a death or disappearance. _That actor actually died of a heart attack—there was no foul play after all._  
 __freaking__ _mod._ Damned. (Euphemistic for fucking. Usually objectionable.) _Get your freaking socks off my bed!_  
 __front and center__  
@@ -217,6 +220,7 @@ __fumble the ball__ “Fumble the ball” and “drop the ball” are similar in
 __get a handle on (something)__ To have a firm, clear understanding or determination of something.  
 __ghost gun__ A gun without serial numbers that cannot be easily tracked, especially a home-made gun built with non-registered, partially finished or 3D printed components.  
 __give someone or something away__ To reveal a secret about someone or something. _I thought no one knew where I was, but my loud breathing gave me away._ _We know that Billy ate the cherry pie. The cherry juice on his shirt gave him away._  
+__glower at (someone or something)__ To look at someone or something with anger or disapproval.  
 __go berserk__  
 __go postal__ :dart: _US informal_ [:scroll: This expression arose as a result of several recorded cases in the USA in which postal-service employees ran amok and shot colleagues] Go mad, especially from stress. Become extremely angry or start behaving in a violent and angry way. _According to one eye witness, the man ‘went postal, and started hitting his computer’_  
 __goob__  
@@ -315,7 +319,7 @@ __in itself__
 __in jeopardy__ In danger or at risk; imperiled.  
 __in layman’s terms__ :three::hammer:  
 __in less than no time__ (in no time) In a very little amount of time. Very quickly.  
-__in living memory__ (within living memory) In a recent enough time as to be remembered by people who are alive today. (Usually used in negative statements.) _There hasn’t been a blizzard like this in living memory!_  
+__in living memory__ :two: (within living memory) In a recent enough time as to be remembered by people who are alive today. (Usually used in negative statements.) _There hasn’t been a blizzard like this in living memory!_  
 __in more ways than one__ :four: In a number of ways. _I’m telling you, this idea of yours is a mistake in more ways than one._  
 __in no circumstances__ Never; in no case or situation; irrespective of events or conditions.  
 __in no time (at all)__ (in less than no time) In a very little amount of time. Very quickly.  
@@ -416,11 +420,13 @@ __jump into (something)__ __2__ To enter something quickly, especially a vehicle
 __jump ship__ (abandon ship) _Nearly all of (chatbot) Pi’s parent company, Inflection AI, decided to jump ship just 10 months after Pi’s launch._  
 __jungle law__  
 __junkyard dog__ An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase “meaner than a junkyard dog.” _Though he’s always polite when he’s in public, Tiffany’s husband is meaner than a junkyard dog behind closed doors._  
+__just as well__ The idiom “just as well” is used to express that something is actually a good outcome or a fortunate situation, often implying that the result is acceptable or perhaps even better than expected. It can also suggest that something is not bad, given the circumstances. _It’s just as well I didn’t bring an umbrella—it didn’t rain at all._  
 __just deserts__ :dart::pencil2:  
 __just desserts__ :dart::astonished:  
 __just like that__ :three::hammer: ((just) like this/that)  
 __just saying__ :two::hammer:  
 __just the same (to one)__ Makes no difference one way or another (to one); unimportant (to one) what happens or how. _I’d actually prefer to continue working on a freelance basis, if it’s just the same to you._  
+__Ke-mo sah-bee__ /ˌkiːmoʊˈsɑːbiː/ (kemo sabe, kemosabe, kimosabe) Term used by the fictional Native American sidekick Tonto as the Indian name for The Lone Ranger in the American television and radio programs _The Lone Ranger._ It has become a common catchphrase. Iit is sometimes translated as “trusty scout” (the first _Lone Ranger_ TV episode, 1941) or “faithful friend.”  
 __keel over__  
 __keen on (someone or something)__  
 __keep (one’s) slate clean__ To maintain an impeccable record; to refrain from committing any mistakes or wrongdoings.  
@@ -452,6 +458,7 @@ __kick the tires__ To inspect or test something or someone to ensure that he, sh
 __kick up__  
 __kid gloves__ A metaphor for very gentle care, often to the point of coddling. Kid gloves are very soft leather gloves, typically made from the skin of a young goat (a “kid”). Used in the phrase “treat (someone) with kid gloves” and similar variations. _I can’t stand the way my family always treats my younger brother with kid gloves, trying to protect him from every little thing!_  
 __kids will be kids__ Kids behave childishly or immaturely by nature, so it is unrealistic to expect otherwise.  
+__kimosabe__ See _Ke-mo sah-bee_.  
 __kind of__ :two: _informal_ Used with adjectives, adverbs and verbs when something is difficult to describe or when the word you use is not exactly what you mean. _She kind of smiled at me._  
 __king of the castle__ The most powerful, successful, or authoritative person in a group or organization.  
 __king of the hill__ The most powerful, successful, or authoritative person in a group or organization.  
@@ -584,6 +591,7 @@ __look out for number one__ To put one’s own needs, concerns, or responsibilit
 __loose change__ A small, usually insignificant amount of money, typically consisting of coins.  
 __loose lip(s)__ The practice, habit, or manner of speaking too frequently and/or without discretion, especially as might unintentionally lead to revealing private or sensitive information to others. _You’ve got a very loose lip, son. You’d do well to learn to keep it shut!_  
 __loose talk__ Uninhibited, indiscreet talk or conversation, especially as might unintentionally lead to revealing private or sensitive information to others. _The details of this project are extremely confidential, so there can’t be any loose talk about it whatsoever._  
+__lose (one’s) faith (in something or someone)__ To stop believing (in someone or something); to become disillusioned, embittered, or doubtful (about something or someone). (When said simply as “lose faith,” it is often in reference to losing religious faith in God.) _The staff have started losing faith in John’s ability to manage the restaurant properly._  
 __love handles__ ((love) handles, spare tyres, Dunlops disease, Dunlop Syndrome) _euphemism_ [So called because supposed to be grabbed by a partner in sexual intercourse.]  
 __make a fuss__  
 __make a long arm for (something)__ To extend one’s arm fully toward something; to reach out for something. _Mary’s new boyfriend made a long arm for the bottle of wine at the end of the table, helping himself to another glass._  
@@ -721,6 +729,7 @@ __pay tribute to (someone or something)__ To do something as a way of publicly s
 __pin down__  
 __pot shot__  
 __practice makes perfect__  
+__push (one’s) buttons__  
 __ring false__  
 __ring true__  
 __rise to the occasion__ To increase one’s effort in response to a challenging situation.  
@@ -753,6 +762,7 @@ __see the light of day__
 __see to (someone or something)__  
 __seems too good to be true__  
 __seep in(to something)__  
+__seethe with (something)__  
 __seize the day__ To take the opportunity to do something at the present moment without worrying about the future. _This is our time. Let’s seize the day! We may never get a chance to do this again._  
 __seize the hour/day__ Take advantage of the moment, enjoy the here and now. This phrase is a translation of the ancient Roman adage _Carpe diem_, first stated by Horace in one of his _Odes_ (ca. 23 b.c.). Actually, the full statement added _quam minimum credula postero_, trust the future as little as possible.  
 __serve (one’s) time__  
@@ -808,6 +818,7 @@ __sleeper hit__ Something, especially a film, that achieves sudden and unexpecte
 __slice of the pie__  
 __slip up__ __1__ _v_ To blunder; to make a mistake or an error. _I think I slipped up and sent the check to the wrong address._  
 __slippery path__ A situation or course of action that is fraught with difficulties, risks, or potential negative consequences.  
+__slow on the uptake__ Stupid or dimwitted; slow or unable to understand something. _Jim’s a little slow on the uptake, so you might want to check that he’s following your instructions._  
 __slowly and surely__  
 __slowly but surely__  
 __small print__ (fine print) An important part of a document that is not easily noticed because of the smallness of the printing. _You should have read the small print before signing the contract._  
@@ -891,6 +902,7 @@ __tacky__ Cheap, crude, and unrefined; indicating or characteristic of a lack of
 __taco bender__  
 __take a load off (one’s feet)__ To sit down and rest one’s feet; to relax. (Usually said as a suggestion.) _Why don’t you go take a load off for a while, and I’ll fix dinner for tonight?_  
 __take a shot (at someone or something)__  
+__take exception to (something)__ To strongly disagree with or take offense at something.  
 __take heart (from something)__ To receive courage or comfort from some fact. _I hope that you will take heart from what we told you today. Even though you did not win the race, take heart from the fact that you did your best. I told her to take heart and try again next time._  
 __take heart__ To have one’s confidence, courage, or happiness bolstered (by something). _We may have lost the election, but we take heart in the fact that so many young people are now engaged and excited about politics._  
 __take heed (of someone or something)__  
@@ -908,7 +920,7 @@ __take umbrage__ :two::hammer:
 __takedown__ :dart: _slang_ A taking down: the arrest of a suspect by a police officer. _She shot and killed two drug dealers in a takedown that went bad._  
 __talk (one’s) way out of (something)__ To use charming or persuasive speech in order to avoid something, especially punishment. _I still can’t believe you were able to talk your way out of that drunk-driving ticket._  
 __tangle with (someone or something)__ To fight, argue, or engage in a dispute with someone or something.  
-__tap into__  
+__tap into__ :two::hammer:  
 __tap our__  
 __team up (with one)__  
 __tear up__ __1__ To violently rip or pull someone or something into pieces. In this usage, a noun or pronoun can be used between “tear” and “up.” :es: destrozar  
@@ -953,6 +965,7 @@ __there is something about__
 __thick-skulled__ Stupid, dimwitted, or obtuse.  
 __things that go bump in the night__ Frightful, deadly, and usually supernatural things or events that one imagines in the dark of night.  
 __this is it__  
+__this is not happening__ The phrase “this is not happening” is commonly used to express disbelief, denial, or a refusal to accept a situation or reality. It can be said when something unexpected or unwanted occurs, and the speaker is in denial about it or is rejecting the idea.  
 __this time around__  
 __thread the needle__  
 __throw in__ _He is going to throw in every dirty trick he can think of._  
