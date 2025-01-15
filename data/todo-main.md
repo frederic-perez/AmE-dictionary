@@ -40,6 +40,7 @@ __armamentarium__ _n_ :astonished: _(Medicine)_ The items that comprise the mate
 __armistice__ _n_ /AHR-muh-stus/  
 __Arthur__ _n_ A legendary king of the Britons whose story is based on traditions of a sixth century military leader.  
 __ataractic__ _adj_ Of or relating to a drug or other agent that has a tranquilizing effect. _Syn_ sedative, tranquilizing _Valium has an ataractic effect that is useful in treating tension and anxiety._  
+__atonement__ _n_ Amends or reparation made for an injury or wrong. _Syn_ expiation, satisfaction  
 __austere__ _adj_ :mega:  
 __backstab__ _vt_ :smiling_imp:  
 __badger__ _v_  
@@ -56,6 +57,8 @@ __bereaved__ _adj_
 __better<sup>3</sup>__ _n_ (bettor) A person who bets.  
 __better<sup>4</sup>__ _v_  
 __biddy__ _n_ __2__ A woman, especially an older one who is extremely talkative.  
+__blizzard__ _n_  
+__blooper__ _n_  
 __bob__ _v_ _I bobbed my eyebrows at them._  
 __burrow__ _v_  
 __busybody__ _n_  
@@ -142,6 +145,7 @@ __demesne__ _n_ :two::hammer: :es: tierras; heredad
 __deus ex machina__ _n_ /DAY-us-eks-MAH-kih-nuh/ A deus ex machina is a character or thing that suddenly enters the story in a novel, play, movie, etc., and solves a problem that had previously seemed impossible to solve. _The introduction of a new love interest in the final act was the perfect deus ex machina for the main character’s happy ending._  
 __dilatation__ _n_ The state of being stretched beyond normal dimensions. _Syn_ distention _He suffered from severe dilatation of the stomach, an abdominal swelling that left him writhing in pain._  
 __disbarment__ _n_  
+__dobro__ _n_ /doʊbroʊ/  
 __doublet__ _n_  
 __doyen__ _n_ :two: (doyenne) The senior member of a group, profession, or society. _Syn_ dean  
 __drawl__ _v_  
@@ -235,6 +239,8 @@ __fray__ _n_ :dart: :es: combate, lucha, pelea
 __Frederick’s of Hollywood__ _n_ An American lingerie brand formerly with stores in shopping malls across the United States.  
 __friable__ _adj_ /ˈfraɪ ə bəl/ Easily crumbled or reduced to powder.  
 __Frisbee__ _n_ A trademark for a plastic disk-shaped toy that players throw and catch.  
+__frontrunner__ _n_  
+__frostbite__ _n_  
 __frugal__ _adj_ :two: /FROO-gul/ Someone described as frugal is careful about spending money or using things unnecessarily. _Frugal_ can also describe something that is simple and plain in a way that reflects such carefulness with money and resources. _Sometimes a frugal meal of bread, cheese, and grapes can be just as satisfying as a lavish feast._  
 __Fu Manchu mustache__ _n_ A mustache with ends that hang downward toward or below the chin.  
 __fugacious__ _adj_ /fyoo-GAY-shus/  
@@ -365,9 +371,11 @@ __heavenward<sup>1</sup>__ _adv_ (also heav′enwards) Toward heaven.
 __heavenward<sup>2</sup>__ _adj_ Directed towards heaven or the sky.  
 __heinous__ _adj_ /HAY-nus/ _Heinous_ describes things—such as acts, deeds, or crimes—that are hatefully or shockingly evil, or in other words, deserving of hate or contempt.  
 __hexenwolf__ _n_ [:scroll: _Hexen_ comes from the German word for “witches” (plural form of Hexe), often associated with magic, the occult, or witchcraft] A witch that transforms into a wolf or have wolf-like traits.  
+__homily__ _n_  
 __honorable discharge__ _n_ :two: Discharge from the armed forces with a commendable record.  
+__hospital radio__ _n_ A form of audio broadcasting produced specifically for the in-patients of hospitals, primarily in the United Kingdom. Hospital radio has been found to be beneficial to patients, lifting their mood and aiding recovery.  
 __humdrum__ _adj_ Lacking variety or excitement; dull. _Syn_ unglamorous, commonplace, prosaic  
-__hydrant__ _n_  
+__hydrant__ _n_ :two::hammer:  
 __imperviousness__ _n_  
 __impish__ _adj_ :es: pícaro, travieso  
 __importunate__ _adj_ :astonished: Troublesomely urgent or persistent in requesting; pressingly entreating: _an importunate job seeker._  
@@ -394,6 +402,7 @@ __invalid car__ _n_ _BrE_ A car specially equipped so that a disabled person can
 __invidious__ _adj_  
 __inviting__ _adj_ :two: Attractive; tempting: _an inviting dessert._  
 __iota__ _n_ /eye-OH-tuh/ An _iota_ is an infinitesimal amount of something. The word _iota_ is used synonymously with the etymologically related _jot_, and by its oldest definition refers to the 9th letter of the Greek alphabet.  
+__Iran__ _n_ /ɪˈræn, ɪˈrɑn, aɪˈræn/  
 __irate__ _adj_ :dart::astonished:  
 __irretrievable__ _adj_ _Irretrievable breakdown of marriage._  
 __island__ _n_ /ˈaɪ lənd/  
@@ -419,6 +428,7 @@ __Jerry__ _n slang_ _Chiefly British_ A German, especially a German soldier.
 __jest__ _n_ :two: __2__ A playful remark; a witticism or joke.  
 __jibe__ _v_  
 __jiggle__ _v_ :dart: To move or rock lightly up and down or to and fro in an unsteady, jerky manner. _Syn_ joggle, wiggle _He jiggled the worn key in the lock and finally got the door open._  
+__jobless claims__  
 __Jolt Cola__ _n_ Jolt Cola was a carbonated soft drink targeted towards students and young professionals, stressing its use as a stimulant in a similar manner as energy drinks. Its slogan reads “All the sugar and twice the caffeine!’  
 __jostle__ _v_  
 __jot<sup>1</sup>__ _n_ :dart: /dʒɒt/ The smallest bit; iota. _(used with a negative)_ A little bit (in phrases such as _not to care (or give) a jot_).  
@@ -427,6 +437,7 @@ __Jovian__ _adj_
 __jubilate__ _v_ To express great joy. _Syn_ exuberate, exult, rejoice, triumph  
 __jubilee__ _n_ :mega: /JOO-buh-lee/  
 __jumpy__ _adj_ __1__ Nervous or apprehensive. __2__ Moving jerkily or fitfully.  
+__just-in-time__ _adj_  
 __juvenile<sup>1</sup>__ _adj_  
 __juvenile<sup>2</sup>__ _n_  
 __kickstand__ _n_ __1__ A swiveling metal bar for holding a bicycle, motorcycle, or other two-wheeled vehicle upright when it is not being ridden.  
@@ -437,8 +448,10 @@ __kraken__ _n_ (often cap.) A huge sea monster in Norwegian legend.
 __lackey__ _n_ /ˈlækɪ/  
 __lair__ _n_  
 __lambent__ _adj_ :two::hammer:  
+__largess__ _n_  
 __lariat__ _n_ :two::hammer:  
 __Latin cross__ _n_ A cross with a shorter horizontal bar intersecting a longer vertical bar above the midpoint.  
+__leap year__ _n_ /liːp jɪər/  
 __Leavenworth__ _n_ A city in NE Kansas: site of federal prison.  
 __legion<sup>1</sup>__ _n_  
 __legion<sup>2</sup>__ _adj_ :dart: Constituting a large number; multitudinous: _Her admirers were legion._ _His mistakes were legion._  
@@ -506,6 +519,7 @@ __matte__ _n_
 __mayhem__ _n_  
 __meanly__ _adv_ In a miserly manner. _Syn_ humbly _They lived meanly and without ostentation._  
 __measly__ _adj_ :astonished:  
+__meatspace__ _n_ _slang_ :dart: /ˈmiːtˌspeɪs/ The real physical world, as contrasted with the world of cyberspace.  
 __medley relay__  
 __meliorism__ _n_ /MEE-lee-uh-riz-um/ _Meliorism_ refers to the belief that the world tends to improve and that humans can aid its betterment.  
 __memento__ _n_ :mega: /muh-MEN-toh/ _Memento_ is a synonym of _souvenir_; it refers to something that is kept as a reminder of a person, place, or thing.  
@@ -551,6 +565,7 @@ __moisten__ _v_
 __mold__ _vt_  
 __mollify__ _v_  
 __mongoose__ _n_  
+__monition__ _n_ A warning or an intimation of something imminent, especially of impending danger. _Syn_ admonition, warning, word of advice  
 __monitory__ _adj_ Conveying an admonition or a warning. _Syn_ admonitory, cautionary, exemplary, warning _She shot him a monitory glance and he quickly changed the subject to one less controversial._  
 __Montserrat__ _n_ An island in the Leeward Islands, in the West Indies: British crown colony.  
 __monumental__ _adj_  
@@ -572,7 +587,7 @@ __mull<sup>2</sup>__ _vi_ /mŭl/ To ruminate; ponder: _mull over a plan._
 __mulled wine__ _n_ Wine heated with sugar and spices and often citrus fruit.  
 __mullet__ _n_ /ˈmʌlɪt/ __1__ An edible fish found in coastal waters. :es: salmonete __2__ A hairstyle in which the hair is short at the top and long at the back.  
 __multilateralism__ _n_ The practice of promoting trade among several countries through agreements concerning quantity and price of commodities, as the Common Market, and, sometimes, restrictive tariffs on goods from outsiders.  
-__multimeter__ _n_ :mega: /ˈmʌltɪˌmiːtə/ An instrument that combines an ammeter, an ohmmeter, a voltmeter, and occasionally other measurement or testing devices into one unit. :es: multímetro  
+__multimeter__ _n_ :two::camera::mega: /ˈmʌltɪˌmiːtə/ An instrument that combines an ammeter, an ohmmeter, a voltmeter, and occasionally other measurement or testing devices into one unit. :es: multímetro  
 __nail clipper__ _n_ (also called nail clippers, a nail trimmer, a nail cutter or nipper type) A hand tool used to trim fingernails, toenails and hangnails.  
 __nameplate__ _n_ __1__ A plate or plaque, as on an office door, inscribed with a name.  
 __nape__ _n_  
@@ -621,6 +636,7 @@ __orderly__ _n_ __1__ An attendant who does routine, nonmedical work in a hospit
 __outskirts__ _n pl_  
 __overworked__ _adj_ :dart:  
 __pad__ _v_  
+__palisade__ _n_  
 __pallor__ _n_ A pale condition, esp when unnatural: _fear gave his face a deathly pallor._  
 __pander__ _v_ To say, do, or provide what someone wants or demands even though it is not proper, good, or reasonable.  
 __parry__ _v_  
@@ -765,9 +781,13 @@ __rapport__ _n_ /ræˈpɔr, -ˈpoʊr, rə-/
 __rapture__ _n_ :es: éxtasis  
 __rasp<sup>1</sup>__ _n_ __1__ A coarse file with sharp, pointed projections. :es: raspador __2__ The act of filing with a rasp. __3__ A harsh grating sound. :es: chirrido; (of voice) tono áspero  
 __rasp<sup>2</sup>__ _v_ :two: Utter in a grating voice.  
+__raspy__ _adj_ __1__ Harsh or grating; rasping. _A raspy voice._ :es: ronco, áspero __2__ Easily annoyed; irritable.  
 __Rastafarian__ _adj, n_  
 __rationalize__ _v_ :two: __1__ To justify (one’s actions, esp discreditable actions, or beliefs) with plausible reasons, esp after the event.  
 __rattlebrained__ _adj_ Giddy and talkative; foolish. _Syn_ rattlepated, scatterbrained, scatty  
+__ravage<sup>1</sup>__ _vt_  
+__ravage<sup>2</sup>__ _vi_ To wreak destruction.  
+__ravage<sup>3</sup>__ _n_  
 __raving<sup>1</sup>__ _n_  
 __raving<sup>2</sup>__ _adj_ Delirious, irrational speech.  
 __ravish__ _v_  
@@ -849,6 +869,7 @@ __scowl__ _v_
 __scrap<sup>1</sup>__ _n_ __5__ :smiling_imp: A fight or scuffle. _Syn_ brawl  
 __scrap<sup>2</sup>__ _vt_  
 __scrap<sup>3</sup>__ _vi_ :smiling_imp: To fight, usually with the fists.  
+__secular__ _adj_ /SEK-yuh-ler/ _Secular_ describes things that are not spiritual; that is, they relate more to the physical world than the spiritual world. The word also carries the closely related meaning of “not religious.”  
 __sentient__ _adj_  
 __shamble<sup>1</sup>__ _vi_ :dart: To walk or move along in an awkward or unsteady way.  
 __shamble<sup>2</sup>__ _n_ An awkward or unsteady walk.  
@@ -858,6 +879,7 @@ __slaver__ _n_ __1__ Saliva drooling from the mouth. _Syn_ drivel, slabber, slob
 __smote__ _v_ Past tense and a past participle of smite.  
 __standoff__ _n_  
 __steed__ _n_ __1__ A horse, especially a spirited one. __2__ An animal used for riding: _the use of camels as steeds._  
+__stiff-person syndrome__ _n_ (SPS)  
 __swat__ _n_  
 __tangential__ _adj_ Only superficially relevant; divergent. _Syn_ digressive  
 __thimble__ _n_ :es: dedal  
@@ -878,10 +900,12 @@ __tinderbox__ _n_ :dart: __1__ A metal box for holding tinder. __2__ :dart: A pe
 __tsk__ _vi_ :two::pencil2: To utter the exclamation “tsk.”  
 __uncontested__ _adj_ /ˌʌn kənˈtɛs tɪd/ Not contested; unchallenged: _an uncontested victory._  
 __untenable__ _adj_ /un-TEN-uh-bul/ Something, such as a position, excuse, or situation, that is described as untenable cannot be defended against attack or criticism. _The scientists considered their colleague’s theory to be bold but ultimately untenable._  
+__upheaval__  
 __voltmeter__ _n_ /ˈvoʊltˌmi tər/ A calibrated instrument for measuring the potential difference between two points in volts. :es: voltímetro  
 __warhorse__ _n_ (war horse)  
 __whimper__ _v_  
 __whirl__ _v_  
+__woe__ _n_  
 __wry__  
 __Xmas__ _n_  
 __yacht<sup>1</sup>__ _n_  

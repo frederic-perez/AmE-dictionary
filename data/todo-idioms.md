@@ -15,6 +15,7 @@ __(the good) Lord willing and the creek don’t rise__ _rural_ If all goes as it
 __(the) next thing (one) knows__ :two: (next thing you know)  
 __(the) top of the line__ The absolute best of a certain thing, often referring to a product that is of the utmost quality (and usually the most expensive). When used as a noun, it is preceded by “the.” _That store only sells top of the line gear. You may want to consider some lower-priced options._  
 __(with) kind regards__ A common, semi-formal valediction used at the end of a letter or other written message to express well wishes to the recipient. _Please send a financial report for your company for the previous year at your earliest convenience. With kind regards, Alex Goodman._  
+__a (good) run for your money__ (a run for your money, a run for one’s money)  
 __a (whole) host of (something)__  
 __a bad egg__ :smiling_imp:  
 __a balancing act__ :dart:  
@@ -37,10 +38,12 @@ __a legend in (one’s) own mind__ A person who affects or believes that they ar
 __a license to print money__ An activity, business model, or company that yields very high profits but requires little or no effort to do so. _All these hefty parking fees and fines are just a license to print money for the city._  
 __a little from column A, a little from column B__ Having been formed from two distinct factors, elements, or reasons. _She asked me if I drew more from real life or from my imagination when writing; in truth, it’s a little from column A and a little from column B._  
 __a long row to hoe__ [:scroll: This metaphor comes from nineteenth-century America, when most people lived in rural areas and cultivated at least some land.] A difficult course to follow; hard work to accomplish. A particularly difficult or problematic task, situation, or set of circumstances to contend with or confront. _Immigration reform was one of the new president’s primary campaign promises, but it will likely prove a long row to hoe, given the deep divisions in Congress._  
+__a losing game__ A failing or hopeless effort; a situation or activity that is ultimately futile or cannot be won. (Most often used in the phrase “play a losing game.”) _I’d give up trying to get your brother to agree to this deal if I were you. It looks like a losing game at this point._  
 __ace__  
 __ahead of the curve__  
 __all the same__  
 __all too soon__ The idiom “all too soon” means that something happened much earlier than expected or desired, often with a sense of regret or disappointment. It conveys the idea that an event occurred prematurely or that a positive experience ended quickly. “The holidays were over all too soon,” implies that the speaker wished the holidays had lasted longer. “Graduation came all too soon,” suggests that the speaker felt unprepared for the end of their schooling.  
+__at any rate__  
 __at length__  
 __at the end of the day__  
 __baby blues__ __1__ A usually brief period of sadness, anxiety, and mood swings experienced by a large percentage of women after giving birth. _When I had the baby blues after having my first child, I would find myself crying without knowing why._ __2__ Blue eyes, especially those that are light blue. _I just had to ask for Sean’s number after I got a glimpse of his baby blues—I’d never seen such striking eyes before!_  
@@ -49,6 +52,7 @@ __bagel bender__
 __be a long shot__ To be very risky, uncertain, or unlikely to succeed, as of an attempt, proposition, or guess. _I know this is a long shot, but would you like to go out on a date with me sometime?_  
 __be looking for trouble__ To be doing something or acting in a manner that will very likely result in trouble, difficulty, or danger. _I’d keep your mouth shut if you want to keep your job—arguing with the boss like that is just looking for trouble!_  
 __beanpole__ One who is very skinny. _Susie is such a beanpole now that she’s had her growth spurt._  
+__big fish in a small pond__ (a big fish in a small pond)  
 __break faith with (someone or something)__ :dart::three: To fail to act as one has promised.  
 __bring (something) to a close__  
 __burn (someone or something) to a crisp__  
@@ -223,6 +227,7 @@ __give someone or something away__ To reveal a secret about someone or something
 __glower at (someone or something)__ To look at someone or something with anger or disapproval.  
 __go berserk__  
 __go postal__ :dart: _US informal_ [:scroll: This expression arose as a result of several recorded cases in the USA in which postal-service employees ran amok and shot colleagues] Go mad, especially from stress. Become extremely angry or start behaving in a violent and angry way. _According to one eye witness, the man ‘went postal, and started hitting his computer’_  
+__go through the roof__  
 __goob__  
 __goon__  
 __green folding__ Paper money, especially in large amounts. _Boy, I bet you had to lay down some serious green folding for that new sports car, huh?_  
@@ -346,6 +351,7 @@ __in the back of beyond__
 __in the bag__ :three: Achieved or won almost as a certainty. A situation or outcome that is certain or guaranteed. In Ellroy’s novels, this could refer to a case that’s all but solved or a deal that’s as good as done.  
 __in the blink of an eye__  
 __in the bud__ (in bud) In an undeveloped, immature, or incipient state. _Tommy has become quite a little painter in bud recently._  
+__in the clear__  
 __in the dark__ To be unaware or uninformed about something. Ellroy’s protagonists often operate in a world of secrecy, and this idiom reflects their struggle to uncover the truth while others keep them in the dark.  
 __in the days ahead__ (in the weeks ahead)  
 __in the hope that__ With the expectation, intention, or desire that (something will happen). _He strove to be well-behaved in prison, in the hope that he would be let out early on parole._  
@@ -467,13 +473,15 @@ __kiss and cry__ An area in an ice skating rink where figure skaters rest while 
 __kitchen-sink__ Showing or pertaining to the lives of common, everyday people. (Always used before a noun.)  
 __knee-jerk reaction__ Any spontaneous, reflexive, and unthinking reaction or response.  
 __knife-edge__  
+__knock (someone or something) on the head__ (Primarily heard in UK.)  
 __knock it off__  
 __knock on doors__ To speak to the people who live in an area by walking up to their houses, apartments, etc., especially to provide information or solicit votes, support, contributions, etc.  
 __knock-off__  
-__know best__ To have more knowledge and experience about something than anyone else. _You should listen to her advice—after all, Mother knows best._  
+__know best__ :two: (knows best) To have more knowledge and experience about something than anyone else. _You should listen to her advice—after all, Mother knows best._  
 __know better (than to do something)__ :three::hammer: _The woman is dirty, maybe mentally ill, and Nic knows better than to tangle with that type._  
 __know by heart__  
 __know the ropes__  
+__knows best__ See _know best._  
 __l’esprit de l’escalier__  
 __Lady Luck__ The personification of fortune, whether good or bad. Sometimes spelled in lower case.  
 __lag behind__  
@@ -592,6 +600,7 @@ __loose change__ A small, usually insignificant amount of money, typically consi
 __loose lip(s)__ The practice, habit, or manner of speaking too frequently and/or without discretion, especially as might unintentionally lead to revealing private or sensitive information to others. _You’ve got a very loose lip, son. You’d do well to learn to keep it shut!_  
 __loose talk__ Uninhibited, indiscreet talk or conversation, especially as might unintentionally lead to revealing private or sensitive information to others. _The details of this project are extremely confidential, so there can’t be any loose talk about it whatsoever._  
 __lose (one’s) faith (in something or someone)__ To stop believing (in someone or something); to become disillusioned, embittered, or doubtful (about something or someone). (When said simply as “lose faith,” it is often in reference to losing religious faith in God.) _The staff have started losing faith in John’s ability to manage the restaurant properly._  
+__lose no time (in) (doing something)__ To do something immediately or as expediently as possible. _Wow, Sarah lost no time finding a new boyfriend after she and Rob split up._  
 __love handles__ ((love) handles, spare tyres, Dunlops disease, Dunlop Syndrome) _euphemism_ [So called because supposed to be grabbed by a partner in sexual intercourse.]  
 __make a fuss__  
 __make a long arm for (something)__ To extend one’s arm fully toward something; to reach out for something. _Mary’s new boyfriend made a long arm for the bottle of wine at the end of the table, helping himself to another glass._  
@@ -644,6 +653,7 @@ __nice to hav__
 __no accident__ Something done deliberately. _It is no accident that the assistant he hired is so good-looking._  
 __no hard feelings__ :es: sin rencores  
 __no question about it__  
+__not a snowball’s chance in hell__ Not any possibility, chance, or likelihood whatsoever. _There isn’t a snowball’s chance in hell that he would win an election in this part of the state._  
 __not by a long shot__  
 __not know someone from Adam__  
 __not pay (something) any mind__  
@@ -722,6 +732,7 @@ __on the spot__ __1__ At once in one’s exact location; right then and there. H
 __on the verge of (doing) (something)__  
 __on the verge of__  
 __on the whole__ Considering everything together; in general or for the most part.  
+__on top of that__  
 __on-site__  
 __open game__ Being vulnerable or exposed to attack, criticism, or other negative consequences. _If we break the truce first, we are open game._  
 __out and about__ :dart: __1__ Away from one’s home or normal environment, especially to socialize, run errands, visit various places, etc. _I’m just out and about with Mary if you would like to come join us._ __2__ Well enough to come and go, especially after an illness. For example, _I’m glad to see you’re out and about again._  
@@ -730,9 +741,11 @@ __pin down__
 __pot shot__  
 __practice makes perfect__  
 __push (one’s) buttons__  
+__ring a bell__  
 __ring false__  
 __ring true__  
-__rise to the occasion__ To increase one’s effort in response to a challenging situation.  
+__rise to the occasion__ :two: To increase one’s effort in response to a challenging situation.  
+__road to recovery__  
 __ruffle a few feathers__ To do something which annoys, irritates, or upsets other people. _I know my presentation about the effects of climate change is going to ruffle a few feathers, but I have got to raise awareness about this issue!_  
 __run afoul of (someone or something)__  
 __run the gauntlet__ To be exposed to or forced to endure a series of threats, dangers, criticism, or other problems. Refers to an old military punishment in which one was forced to run between two lines of soldiers while being thrashed with rods or whips. _Medical students often feel that they have to run the gauntlet when they become residents in a hospital._  
@@ -853,6 +866,7 @@ __spending spree__
 __spill the beans__  
 __spill your guts__ To confess or reveal all, often under pressure or coercion. Ellroy often has characters facing moral dilemmas, and this idiom fits the theme of characters who must decide whether to reveal their secrets or keep them buried.  
 __spin doctor__ :smiling_imp: Someone who gives a twisted or deviously deceptive version of an event. (Usually in the context of manipulating the news for political reasons.) _Things were going bad for the candidate, so he got himself a new spin doctor._ _A good spin doctor could have made the incident appear far less damaging._  
+__split hairs__  
 __spoil for something__ _You are spoiling for a fight._ :es: te estás buscando pelea  
 __square off__  
 __stakeout__  
@@ -889,6 +903,7 @@ __sucker (one) in__ To con, swindle, or deceive someone.
 __suffice (it) to say__  
 __suffice it to say__ (suffice (it) to say)  
 __suicide by cop__  
+__suit yourself__ (suit (oneself))  
 __sure as hell__ ((as) sure as hell) _The cops that worked the case didn’t do shit and sure as hell aren’t going to do shit now._  
 __sure enough__ As expected or anticipated.  
 __sure thing__  
@@ -900,6 +915,7 @@ __switch gears__
 __sworn enemy__ A person, group, or organization for whom one holds a particularly intense, deep-seated hatred. _Our environmentalist lobby group is heading out to protest against Big Oil, our sworn enemy._  
 __tacky__ Cheap, crude, and unrefined; indicating or characteristic of a lack of class, elegance, or sophistication. _He showed up in a really tacky suit._ _The office looked tacky._ _Tacky birthday present._ :es: cutre  
 __taco bender__  
+__take (one) up on (something)__ To agree to an offer one has made, especially one made at an earlier point in time. _I’m coming to town this weekend, so can I take you up on that spare bedroom you’ve offered me in the past?_  
 __take a load off (one’s feet)__ To sit down and rest one’s feet; to relax. (Usually said as a suggestion.) _Why don’t you go take a load off for a while, and I’ll fix dinner for tonight?_  
 __take a shot (at someone or something)__  
 __take exception to (something)__ To strongly disagree with or take offense at something.  
@@ -917,6 +933,7 @@ __take sides__ To choose a person or party whom one supports, defends, or agrees
 __take stock (of something)__  
 __take the fall (for someone or something)__  
 __take umbrage__ :two::hammer:  
+__take you up on something__ See _take (one) up on (something)._  
 __takedown__ :dart: _slang_ A taking down: the arrest of a suspect by a police officer. _She shot and killed two drug dealers in a takedown that went bad._  
 __talk (one’s) way out of (something)__ To use charming or persuasive speech in order to avoid something, especially punishment. _I still can’t believe you were able to talk your way out of that drunk-driving ticket._  
 __tangle with (someone or something)__ To fight, argue, or engage in a dispute with someone or something.  
@@ -949,6 +966,7 @@ __the nuts and bolts__
 __the order of the day__  
 __the party is over__ A period of excitement, success, jubilation, or opulence has changed to a period of sobriety, calm, reflection, or regret.  
 __the powers that be__ :dart::three:  
+__the price (one) has to pay__ The physical, emotional, or psychological difficulty one must endure (as a result of something); the unpleasant, difficult aspects (of something) that one must face. _Working extremely long hours is just the price you have to pay to work in this industry._  
 __the real deal__  
 __the rundown__ (give (someone) (a/the) rundown) To tell someone details about or a brief summary of a given event or situation.  
 __the short and the long of it__ The essential or most important point being made; the plain truth of the matter. _There are a lot of reasons I don’t want to go, but the short and the long of it is that I don’t want to see my ex-boyfriend there._  
@@ -973,6 +991,7 @@ __throw someone under the bus__ To betray or sacrifice someone for personal gain
 __throw the book at (one)__ :dart: _The NY Times sure loves throwing the book at AI startups._  
 __thumb one’s nose__  
 __tick away__  
+__tighten the purse strings__ To become less liberal with or more controlling of one’s expenditures; to decrease the availability of money for spending purposes. _After losing my job, I’ve had to tighten the purse strings quite a bit._  
 __tinder__ _n_ :dart: Readily combustible material, such as dry twigs, used to kindle fires. _This love potion is tinder for the proverbial fire._  
 __tipflation__  
 __tips and tricks__ The idiom “tips and tricks” refers to helpful and practical advice, shortcuts, or techniques that can be used to improve efficiency, productivity, or performance in a specific task, activity, or field.  
@@ -1010,6 +1029,7 @@ __war chest__
 __warhorse__ ((old) warhorse) __1__ A veteran of some activity or profession (not necessarily the military) who has a wealth of experience going through various trials and tribulations. _I know she’s a little eccentric, but Janet is a warhorse in this firm—she’s been through more trying court cases than anyone else here._  
 __water under the bridge__  
 __weather the storm__ To endure a period of hardship or disorder. To experience something and survive it. _That was the hardest year of my life, but in the end I was able to weather the storm with the support of my family._  
+__weirdo__ /ˈwɪrdo/ /ˈwɪər doʊ/ /ˈwɪədəʊ/ _slang_ slang A particularly odd, bizarre, awkward, or eccentric person. _I know a lot of kids at school think I’m a weirdo just because I like anime so much, but I don’t care._  
 __well put__ The expression “well put” is used to praise someone’s way of expressing something. It means that what the person said was clear, well-articulated, or expressed in a thoughtful or effective manner. It’s a compliment acknowledging that their words were well-chosen or accurately conveyed the intended message.  
 __well up__  
 __what’s done is done__ :dart: There’s no use worrying or stressing about something that has already happened or come to pass. _I know this isn’t the outcome we wanted, but what’s done is done, so let’s just try to make the most of a bad situation._  
