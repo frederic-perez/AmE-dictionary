@@ -3450,49 +3450,63 @@ __in layman’s terms__ In words that can be understood by people outside of a g
 __in leaps and bounds__ By very large degrees; rapidly or in quick progress forward. _What was once a tiny local choir club has expanded in leaps and bounds over the years._  
 __in less than no time__ (in no time (at all)) In a very little amount of time. Very quickly. _That test was so easy, I was done in less than no time._  
 __in lieu of (something)__ :two::hammer: _In lieu of actual payments._ _In lieu of flowers._  
-__in no circumstances__ Never; in no case or situation; irrespective of events or conditions. _In no circumstances are you allowed to drive home after you’ve had more than one drink!_  
-__in no time (at all)__ :five: (in less than no time) In a very little amount of time. Very quickly. _That test was so easy, I was done in no time._  
-__in no way__ Not at all; not by any means. _We are in no way blaming you for what happened, but you still have to cooperate with the police investigation._  
-__in no way, shape, or form__ In no possible manner; under no circumstances; not by any means.  
-__in one blow__ All at once, with a single decisive or powerful action.  
+__in more ways than one__ :four: In a number of ways. _I’m telling you, this idea of yours is a mistake in more ways than one._  
+__in no circumstances__ :two: Never; in no case or situation; irrespective of events or conditions. _In no circumstances are you allowed to drive home after you’ve had more than one drink!_  
+__in no time (at all)__ :six: (in less than no time) In a very little amount of time. Very quickly. _That test was so easy, I was done in no time._  
+__in no way__ :two: Not at all; not by any means. _We are in no way blaming you for what happened, but you still have to cooperate with the police investigation._  
+__in no way, shape, or form__ :two: In no possible manner; under no circumstances; not by any means. _In no way, shape, or form is this kind of behavior acceptable!_  
+__in one blow__ :two: All at once, with a single decisive or powerful action.  
 __in one breath__ Very quickly, as of someone who is speaking (usually while very excited).  
+__in one go__ All at one time or in one attempt. _We’ll never be able to carry all these boxes out in one go—we’ll have to make several trips._  
 __in one sitting__ In a single session; finishing a task in the same period when one sets out to do so. _The bookworm devoured her book in one sitting._  
-__in order that__ So that; with the particular aim or purpose of.  
-__in other news__ :two: A segue into another topic. Used when you want to move on to a new subject, but have no real way to connect it to what you were talking about before.  
+__in order that__ :two: So that; with the particular aim or purpose of.  
+__in other news__ :three: A segue into another topic. Used when you want to move on to a new subject, but have no real way to connect it to what you were talking about before.  
 __in over (one’s) head__ Too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer.  
+__in overdrive__  
 __in park__ Of a vehicle, having the gear stick set to “park,” which keeps the vehicle in place in a manner similar to a parking brake. _Put yourself in park, and think._ _Oh yeah, you’re close enough to the curb. Go ahead, put the car in park._  
 __in passing__ Casually or as an aside during a conversation. _Karen mentioned the party in passing the other day, but she didn’t go into detail._ _As we discussed why, he mentioned in passing that he committed a crime._  
 __in perfect harmony__  
+__in place of (someone or something)__  
 __in place__ :three: __2__ _adj_ Ready to be put into action. _I think everything is in place for us to begin the acquisition deal._  
-__in plain view__ In full, unrestricted view; visibly, openly, or publicly.  
+__in plain view__ :two: In full, unrestricted view; visibly, openly, or publicly.  
 __in principle__ Generally, without regard to the specific details.  
 __in question__ Currently being discussed or under consideration. _I just don’t see how that is pertinent to the topic in question._ _The item in question is this scarf, which was discovered at the scene of the crime._  
-__in regard to (someone or something)__  
+__in regard to (someone or something)__ :two: In reference to; considering.  
 __in remission__ Of a disease, fully or partially ceasing to cause symptoms.  
 __in retrospect__ :two: Considering or analyzing the past, with the knowledge that one has now.  
 __in round numbers__  
 __in secrecy__  
 __in session__ Currently gathered and in the process of conferring about or working on some thing. _Hey, no one is allowed in there while the meeting is in session!_  
-__in short order__ :dart::five: With no delay; quickly. Quickly, efficiently, and without any delays. _The repair shouldn’t take long at all. We’ll get you on the road in short order._ _Bob is the best trainer. He’ll whip you into shape in short order._  
+__in short order__ :dart::six: With no delay; quickly. Quickly, efficiently, and without any delays. _The repair shouldn’t take long at all. We’ll get you on the road in short order._ _Bob is the best trainer. He’ll whip you into shape in short order._  
 __in short supply__ :two: Scarce.  
 __in sight__ Close to happening or being achieved. A noun or pronoun can be used between “in” and “sight.”  
+__in single file__ In a line one person or one thing in width.  
 __in so many words__  
+__in some sense__ Partly; in some or certain way(s).  
 __in someone else’s shoes__ Imagining oneself in the situation or circumstances of another person so as to understand or empathize with their perspective, opinion, or point of view. _If you haven’t spent time in someone else’s shoes, how can you judge them?_  
 __in someone’s shoes__ If you talk about being in someone’s shoes, you are describing how you would feel or act if you were in the same situation as them. _Stop and think how you would feel if you were in his shoes._ _If I were in her shoes, I’d probably want an explanation._ _If you were in his shoes what would you do?_  
 __in spades__ :two::dart: In large quantity or to an extreme degree. _A con artist needs charm, and she had it in spades._ _No carrier has ever blocked or discriminated in spades._ _Cultural savvy. Portland’s got it in spades._  
-__in spite of__  
-__in stitches__  
+__in spite of (something)__ :two: Regardless or in defiance of; despite.  
+__in stitches__ :two::hammer:  
+__in store__ :dart::astonished: Awaiting (one); prepared (for one). _No one knows what the future has in store. But we can try to prepare accordingly._  
 __in sum__ As a final brief, concluding point.  
+__in support of__ __1__ In a way that shows approval of (something); in favor of (something). _A majority voted in support of the bill._ __2__ In order to support (something). _He presented evidence in support of his hypothesis._  
 __in tall cotton__ In a time or period of great success or wellbeing; doing very well.  
+__in tears__  
 __in that vein__ _Text-to-image AI models are a lot of fun. Enter any random text prompt, and they will generate an image in that vein._  
-__in the (grand) scheme of things__ :two: In the long term; in the complete picture of something.  
+__in the (grand) scheme of things__ :three: In the long term; in the complete picture of something.  
 __in the (very) nick of time__ :two::hammer:  
+__in the back of beyond__  
 __in the back__ In the back part of a building; in the back room of a building. _He’s not in the shop right now. I’ll see if he’s in the back._  
+__in the bag__ :three: Achieved or won almost as a certainty. A situation or outcome that is certain or guaranteed. In Ellroy’s novels, this could refer to a case that’s all but solved or a deal that’s as good as done.  
 __in the black__ :two: Not in debt, profitable.  
-__in the blink of an eye__  
+__in the blink of an eye__ :two:  
+__in the bud__ (in bud) In an undeveloped, immature, or incipient state. _Tommy has become quite a little painter in bud recently._  
 __in the cards__  
 __in the circumstances__ Due to the conditions or particular situation; such as the case is.  
-__in the clear__ :two::hammer: _She is in the clear._  
+__in the clear__ :three::hammer: _She is in the clear._  
+__in the dark__ To be unaware or uninformed about something. Ellroy’s protagonists often operate in a world of secrecy, and this idiom reflects their struggle to uncover the truth while others keep them in the dark.  
+__in the days ahead__ (in the weeks ahead)  
 __in the doghouse__ :three: _slang_ In trouble with someone due to one’s misdeeds or blunders.  
 __in the doldrums__ _The casino’s profits were in the doldrums._  
 __in the event of (something)__ :two::hammer: _Non-replaceable in the event of loss._ _In the event no quantity has been specified, the hotel count will be accepted as correct._  
@@ -3505,44 +3519,47 @@ __in the guise of (something)__
 __in the gutter__  
 __in the heat of (something)__ During a time of extreme action, emotion, or agitation. _Soldiers have to train themselves not to feel fear in the heat of battle._  
 __in the hope of__ :two: With the expectation, intention, or desire of (something or something happening).  
-__in the hope that__ With the expectation, intention, or desire that (something will happen).  
+__in the hope that__ :two: With the expectation, intention, or desire that (something will happen). _He strove to be well-behaved in prison, in the hope that he would be let out early on parole._  
 __in the hot seat__  
-__in the house__ Present before an audience. Used as an announcement, especially to generate excitement. _We’ve got DJ Kaleem in the house, ready to throw down some sick beats for y’all!_  
+__in the house__ :two: Present before an audience. Used as an announcement, especially to generate excitement. _We’ve got DJ Kaleem in the house, ready to throw down some sick beats for y’all!_  
 __in the hunt__ In a group of people who are all in pursuit of specific achievement, award, or goal._ Our team is only a few wins shy of securing a playoff spot, and then we’ll be in the hunt for the championship title!_  
 __in the interim__ In the time before something happens; in the meantime.  
 __in the know__ :seven::hammer:  
 __in the lap of the gods__ Decided upon or controlled by luck, chance, or fate; outside of one’s control or influence.  
 __in the last analysis__ When everything has been considered; when all the facts are known or the truth has come to light.  
 __in the last week__ “In the last week” refers to the period of time that began seven days ago and ended today. (“Last week” refers to the period of time from the previous Sunday to the current Saturday.)  
-__in the least__ :two::hammer: _Apparently you didn’t understand me in the least._  
-__in the long run__ :three: Over a relatively long or extended length of time in the future.  
+__in the least__ :five::hammer: _Apparently you didn’t understand me in the least._  
+__in the long run__ :four: Over a relatively long or extended length of time in the future.  
 __in the long term__  
 __in the loop__ :three::hammer:  
 __in the lurch__ In a particularly awkward, difficult, or troublesome situation. _I’ll really be left in the lurch if the manager decides to quit before this project is finished._ _The TV series was left in the lurch._  
-__in the making__ :four::hammer:  
+__in the making__ :five::hammer:  
 __in the middle of nowhere__ :three: In a place that is far away from other people, houses, or cities. _We got lost in the middle of nowhere._  
-__in the midst of (something)__ :three::hammer:  
+__in the midst of (something)__ :four::hammer:  
 __in the midst__  
+__in the mix__  
 __in the money__  
-__in the next breath__ _(especially when speaking)_ In or at the very next moment or opportunity; in a very short space of time.  
-__in the nick of time__ :two: Just at the critical moment; just in time. _I got to the drugstore just in the nick of time. It’s a good thing, because I really need this medicine!_  
+__in the name of__ __2__ With someone or something as a basis, reason, or motivation. _They’re releasing the documents in the name of transparency, but I don’t think anyone is really interested in them._ _How many people have been killed in the name of religion?_  
+__in the next breath__ :three: (especially when speaking) In or at the very next moment or opportunity; in a very short space of time. _The boss spent nearly an hour talking about how we had to cut spending in the office, but in the next breath, he was telling his secretary to upgrade his company car._  
+__in the nick of time__ :three: Just at the critical moment; just in time. _I got to the drugstore just in the nick of time. It’s a good thing, because I really need this medicine!_  
 __in the nude__ _Sleeping in the nude._  
 __in the offing__ :dart::two: __1__ In the near or immediate future; soon to come: _with exams finished and graduation in the offing._ _A budding rivalry could be in the offing._ __2__ Nearby; at hand.  
-__in the pipeline__ :dart: In progress or about to be started or implemented. _Don’t worry, your raise is in the pipeline for next quarter._  
-__in the pocket of (someone)__ Under the direct control or influence of someone or some group.  
+__in the pipeline__ :dart::two: In progress or about to be started or implemented. _Don’t worry, your raise is in the pipeline for next quarter._  
+__in the pocket of (someone)__ :two: Under the direct control or influence of someone or some group, especially through illegal or unscrupulous financial means. _It’s pretty obvious that the country’s legislators are all in the pocket of corporations._  
 __in the public eye__  
-__in the same mold__ Of or in the same or similar style, fashion, or manner.  
+__in the same mold__ :two: Of or in the same or similar style, fashion, or manner.  
 __in the short run__ :two: Over a relatively brief period of time; in, during, or for the immediate future. Usually used in contrast with the long term or the far future. _While their latest product saw lots of buyers in the short run, they failed to create enough buzz to generate long-term sales._  
-__in the short/medium/long term__ During a short/medium/long period of time in the future.  
-__in the sticks__ In the countryside, especially in a rustic or particularly unsophisticated area.  
+__in the short/medium/long term__ :two: During a short/medium/long period of time in the future.  
+__in the sticks__ :two: In the countryside, especially in a rustic or particularly unsophisticated area. _Jane was sick of living in the sticks and dreamed of spending her life in New York City._  
 __in the thick of it/(something)__ :nine::m: [:sound: in the thick of it] Very busy; in the middle of or preoccupied with something or several things. _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
 __in the thick of things__ Very busy; in the middle of or preoccupied with something or several things. _Sorry I couldn’t make it to your birthday lunch on Wednesday—I’m afraid I’m really in the thick of things at the moment._  
-__in the throes of (something)__ Suffering from or struggling with something. _I’m sorry I never called you back—I’ve been in the throes of illness for days._ _Amazon’s AI chatbot, Q, might be in the throes of a mental health crisis._  
-__in the unlikely event (that) (something) happens__ If a very improbable outcome turns out to be the case.  
-__in the view of (someone)__ In someone’s or some group’s opinion.  
-__in the wake of (something)__ __1__ In the aftermath of something, often as a consequence. _In the wake of the scandal, several committee members resigned._ __2__ Coming immediately after something. _In the wake of the final scene, the audience burst into applause._  
-__in the wild__ :two: In naturally occurring conditions or environments.  
+__in the throes of (something)__ :two: Suffering from or struggling with something. _I’m sorry I never called you back—I’ve been in the throes of illness for days._ _Amazon’s AI chatbot, Q, might be in the throes of a mental health crisis._  
+__in the unlikely event (that) (something) happens__ :two: If a very improbable outcome turns out to be the case.  
+__in the view of (someone)__ :two: In someone’s or some group’s opinion.  
+__in the wake of (something)__ :dart::three: __1__ In the aftermath of something, often as a consequence. _In the wake of the scandal, several committee members resigned._ __2__ Coming immediately after something. _In the wake of the final scene, the audience burst into applause._  
+__in the wild__ :three: In naturally occurring conditions or environments.  
 __in the wind__  
+__in the woods__ __1__ Being in a forest or a natural woodland area. _We went camping in the woods._ __2__ It can also mean being in critical condition, near death’s door.  
 __in the works__ :five: In progress; being completed or implemented. Being prepared; being planned; being done. _We’ve got a couple life tapings in the works._  
 __in the zone__ :two::hammer:  
 __in their own right__  

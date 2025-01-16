@@ -325,56 +325,6 @@ __in jeopardy__ In danger or at risk; imperiled.
 __in layman’s terms__ :three::hammer:  
 __in less than no time__ (in no time) In a very little amount of time. Very quickly.  
 __in living memory__ :two: (within living memory) In a recent enough time as to be remembered by people who are alive today. (Usually used in negative statements.) _There hasn’t been a blizzard like this in living memory!_  
-__in more ways than one__ :four: In a number of ways. _I’m telling you, this idea of yours is a mistake in more ways than one._  
-__in no circumstances__ Never; in no case or situation; irrespective of events or conditions.  
-__in no time (at all)__ (in less than no time) In a very little amount of time. Very quickly.  
-__in no way__ Not at all; not by any means.  
-__in no way, shape, or form__ In no possible manner; under no circumstances; not by any means. _In no way, shape, or form is this kind of behavior acceptable!_  
-__in one blow__ All at once, with a single decisive or powerful action.  
-__in one go__ All at one time or in one attempt. _We’ll never be able to carry all these boxes out in one go—we’ll have to make several trips._  
-__in order that__ So that; with the particular aim or purpose of.  
-__in other news__  
-__in overdrive__  
-__in place of (someone or something)__  
-__in plain view__ In full, unrestricted view; visibly, openly, or publicly.  
-__in regard to (someone or something)__ In reference to; considering.  
-__in short order__  
-__in single file__ In a line one person or one thing in width.  
-__in some sense__ Partly; in some or certain way(s).  
-__in spite of (something)__ Regardless or in defiance of; despite.  
-__in stitches__  
-__in store__ :dart::astonished: Awaiting (one); prepared (for one). _No one knows what the future has in store. But we can try to prepare accordingly._  
-__in support of__ __1__ In a way that shows approval of (something); in favor of (something). _A majority voted in support of the bill._ __2__ In order to support (something). _He presented evidence in support of his hypothesis._  
-__in tears__  
-__in the (grand) scheme of things__ In the long term; in the complete picture of something.  
-__in the back of beyond__  
-__in the bag__ :three: Achieved or won almost as a certainty. A situation or outcome that is certain or guaranteed. In Ellroy’s novels, this could refer to a case that’s all but solved or a deal that’s as good as done.  
-__in the blink of an eye__  
-__in the bud__ (in bud) In an undeveloped, immature, or incipient state. _Tommy has become quite a little painter in bud recently._  
-__in the clear__  
-__in the dark__ To be unaware or uninformed about something. Ellroy’s protagonists often operate in a world of secrecy, and this idiom reflects their struggle to uncover the truth while others keep them in the dark.  
-__in the days ahead__ (in the weeks ahead)  
-__in the hope that__ With the expectation, intention, or desire that (something will happen). _He strove to be well-behaved in prison, in the hope that he would be let out early on parole._  
-__in the house__  
-__in the least__ :three::hammer:  
-__in the long run__ Over a relatively long or extended length of time in the future.  
-__in the making__  
-__in the midst of (something)__  
-__in the mix__  
-__in the name of__ __2__ With someone or something as a basis, reason, or motivation. _They’re releasing the documents in the name of transparency, but I don’t think anyone is really interested in them._ _How many people have been killed in the name of religion?_  
-__in the next breath__ :two: (especially when speaking) In or at the very next moment or opportunity; in a very short space of time. _The boss spent nearly an hour talking about how we had to cut spending in the office, but in the next breath, he was telling his secretary to upgrade his company car._  
-__in the nick of time__  
-__in the pipeline__ In progress or about to be started or implemented.  
-__in the pocket of (someone)__ Under the direct control or influence of someone or some group, especially through illegal or unscrupulous financial means. _It’s pretty obvious that the country’s legislators are all in the pocket of corporations._  
-__in the same mold__ Of or in the same or similar style, fashion, or manner.  
-__in the short/medium/long term__  
-__in the sticks__ In the countryside, especially in a rustic or particularly unsophisticated area. _Jane was sick of living in the sticks and dreamed of spending her life in New York City._  
-__in the throes of (something)__ Suffering from or struggling with something. _I’m sorry I never called you back—I’ve been in the throes of illness for days._  
-__in the unlikely event (that) (something) happens__ If a very improbable outcome turns out to be the case.  
-__in the view of (someone)__  
-__in the wake of (something)__ :dart:two::hammer::  
-__in the wild__ In naturally occurring conditions or environments.  
-__in the woods__ __1__ Being in a forest or a natural woodland area. _We went camping in the woods._ __2__ It can also mean being in critical condition, near death’s door.  
 __in the works__ :two::hammer:  
 __in thrall to somebody/something__ Controlled or strongly influenced by somebody/something: _The country’s economy is still largely in thrall to the big companies._  
 __in twos__ In groups of two. _You will be working in twos._  
