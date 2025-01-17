@@ -32,6 +32,7 @@ __antler__ _n_ A horny growth on the head of a deer, moose, elk, or other relate
 __apoplexy__ _n_  
 __appalled__ _adj_  
 __appalling__ _adj_  
+__apprehension__ _n_ /ap-rih-HEN-shun/ _Apprehension_ most often refers to the fear that something bad or unpleasant is going to happen; it’s a feeling of being worried about the future. The word can also refer to seizure by legal process. _There is growing apprehension that next quarter’s profits will be lower than expected._  
 __approach__ _n_ :es: actitud  
 __aquaplaning__ _n_ :pencil2:  
 __aquiline__ _adj_  
@@ -58,12 +59,13 @@ __better<sup>3</sup>__ _n_ (bettor) A person who bets.
 __better<sup>4</sup>__ _v_  
 __biddy__ _n_ __2__ A woman, especially an older one who is extremely talkative.  
 __blizzard__ _n_  
+__bloodletting__ _n_  
 __blooper__ _n_  
 __bob__ _v_ _I bobbed my eyebrows at them._  
 __burrow__ _v_  
 __busybody__ _n_  
 __butcher<sup>1</sup>__ _n_  
-__butcher<sup>2</sup>__ _v_ __1__ To slaughter or prepare (animals) for market. __2__ To kill brutally or indiscriminately. __3__ To botch; bungle: _butcher a project; butchered the language._  
+__butcher<sup>2</sup>__ _v_ :dart::two: __1__ To slaughter or prepare (animals) for market. __2__ To kill brutally or indiscriminately. __3__ :dart: To botch; bungle: _butcher a project; butchered the language._  
 __buzzcut__  
 __cachet__ _n_ /ka-SHAY/  
 __cadge__ _v_  
@@ -96,6 +98,7 @@ __chortle<sup>2</sup>__ _v_ To utter a chortle or express with a chortle.
 __Christmastide__ _n_  
 __chunky__ _adj_ Short and thick; stocky. _Syn_ low-set, squat, squatty, stumpy, dumpy  
 __chutney__ _n_ :es: salsa picante de frutas y especias  
+__citizen__ _n_ /ˈsɪt ə zən, -sən/  
 __claimant__ _n_ :dart: /ˈkleɪmənt/ __1__ A person who makes a claim. __2__ _(Law)_ A person who brings a civil action in a court of law. Formerly called: plaintiff  
 __clatter__ _v_  
 __clemency__ _n_  
@@ -185,11 +188,13 @@ __edgeways__
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
 __elusive__ _adj_ :mega: /ɪˈlu sɪv/  
 __emaciated__  
+__embolden__ _vt_ To foster boldness or courage in. _Syn_ encourage  
 __evergreen__ _adj_ /EV-er-green/ _Evergreen_ in its figurative uses describes something, such as a plot, that retains its freshness or interest over a long period of time, or something, such as an issue or concern, that is universally and continually relevant. In botany, _evergreen_ describes foliage that remains green and functional through more than one growing season.  
 __exacerbate__ _vt_  
 __excursion__ _n_ /ik-SKER-zhun/ _Excursion_ refers to a trip, and especially to a short one made for pleasure. _Excursion_ is also often used figuratively to refer to a deviation from a direct, definite, or proper course, and often in particular to a digression.  
 __expiration date__ _n_ _A sad song about a relationship that probably has reached its expiration date._  
 __extravaganza__ _n_ /ɪkˌstræv əˈgæn zə/  
+__face__ _n_ :mega: /feɪs/ (_vs_ phase /feɪz/)  
 __fang__ _n_  
 __fault line__ _n_  
 __feisty__ _adj_ :astonished: /FYE-stee/ _Feisty_ describes someone who has or shows a lively aggressiveness especially in being unafraid to fight or argue. In some regions of the US, _feisty_ may also be used as a synonym of _fidgety_, _quarrelsome_, or _frisky_. _Even her opponents admire her feisty spirit._  
@@ -226,6 +231,7 @@ __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ 
 __flit__ _vi_ __1__ To move about rapidly and nimbly. __2__ To move quickly from one condition or location to another.  
 __florid__ _adj_ :two: __1__ Flushed with rosy color; ruddy. _A florid face._  
 __flounder__ _vi_  
+__fluke__ _n_  
 __flunky__ _n_ :two::hammer:  
 __flyblown__ _adj_ Foul and run-down and repulsive. _Syn_ sordid, squalid _The gang met at a flyblown, grimy little bar on the edge of town to plan its next heist._  
 __fold<sup>1</sup>__ _vt_ __8a__ _informal_ To discontinue operating; close: They had to fold the company a year after they started it. __b__ Games To withdraw (one’s hand) in defeat, as by laying cards face down on a table.  
@@ -335,6 +341,7 @@ __hackneyed__ _adj_
 __hacksaw__ _n_ :dart: A handsaw for cutting metal, with a hard-steel blade in a frame under tension.  
 __haft__ _n_ :dart: __1__ A handle, esp. of a knife, sword, or dagger.  
 __haggard__ _adj_  
+__haggle__ _v_  
 __hallowed__ _adj_ :astonished: /HAL-oad/ Hallowed describes something, such as a memorial, considered holy or blessed, or something that is highly respected and revered. _The church stands on hallowed ground_  
 __handicraft__ _n_ Skill or dexterity in working with the hands.  
 __handlebar mustache__ _n_ A long curved mustache resembling the curved ends of a handlebar.  
@@ -353,6 +360,7 @@ __hardwood__ _n_
 __hare__ _v_  
 __harpsichord__ _n_  
 __hassle__ _n_  
+__hassle-free__ _adj_ _informal_ Without problems or bother.  
 __hatchet__ _n_  
 __hatching__ _n_ /HATCH-ing/ _Hatching_ refers to the drawing or engraving of lines close together as a method of shading, or to a pattern so created. _The artist uses hatching to breathe life into her comics._  
 __hatha yoga__ _n_ A form of yogic exercise that emphasizes specific postures in combination with controlled breathing. It is widely practiced in the West.  
@@ -595,6 +603,7 @@ __nappy__ _n_ _Chiefly British_ A diaper.
 __nascent__  
 __nefarious__  
 __nematode__ _n_ (nematode worm, roundworm) A type of worm belonging to the phylum Nematoda. Several nematodes are parasites on animals and humans and cause disease.  
+__nerve-racking__ _adj_ (nerve-wracking)  
 __neurovascular__ _adj_ :two: /ˌnʊərəʊˈvæskjʊlə/ Of, relating to, or affecting both the nerves and the blood vessels.  
 __newsagent__ _n_ A shopkeeper who sells newspapers, stationery, etc. _Syn_ newsdealer  
 __nibble__ _v_  
@@ -685,6 +694,7 @@ __petrichor__ _n_ :dart::astonished::two: /ˈpɛtrɪˌkɔː/ [:scroll: from Gree
 __petrol station__ _n_ _Syn_ filling station, gas station, gasoline station  
 __petulant__  
 __phantasmagorical__ _adj_ /fan-taz-muh-GOR-i-kuhl/ Illusory; strange; deceptive; imaginary; surreal; hallucinatory.  
+__phase__ _n_ :mega: /feɪz/ (_vs_ face /feɪs/)  
 __phony__ _adj_  
 __pickeball__ _n_  
 __picket fence__ _n_  
@@ -701,7 +711,7 @@ __pip__ _n_ __1__ (Veterinary Science) A contagious disease of poultry character
 __pitch<sup>1</sup>__ _n_ :es: (esp. _British_) campo, cancha  
 __pitch<sup>2</sup>__ _vt_  
 __pithy__ _adj_ :two: __1__ Precisely meaningful; forceful and brief: _a pithy comment._ __2__ Consisting of or resembling pith.  
-__pittance__ _n_  
+__pittance__ _n_ :two::hammer:  
 __plaintiff__ _n_  
 __planter__ _n_  
 __plead__ _v_  
@@ -875,6 +885,7 @@ __shamble<sup>1</sup>__ _vi_ :dart: To walk or move along in an awkward or unste
 __shamble<sup>2</sup>__ _n_ An awkward or unsteady walk.  
 __sic__ _vt_ :dart: __1__ To turn on or attack: used only in commands, as to a dog. __2__ To urge (a dog) to attack. To urge or incite to hostile action; set: _sicced the dogs on the intruders._  
 __singe__ _vt_ __1__ To burn superficially or slightly; scorch. _To singe one’s clothes._ __2__ To burn the ends, nap, or the like, of (hair, cloth, etc.). __3__ To subject (a carcass) to flame in order to remove hair, bristles, feathers, etc.  
+__skirmish__  
 __slaver__ _n_ __1__ Saliva drooling from the mouth. _Syn_ drivel, slabber, slobber, drool, dribble __2__ Senseless and effusive talk; drivel.  
 __smote__ _v_ Past tense and a past participle of smite.  
 __standoff__ _n_  
@@ -899,6 +910,8 @@ __till__ _n_ :es: caja registradora
 __tinderbox__ _n_ :dart: __1__ A metal box for holding tinder. __2__ :dart: A person or thing that is highly volatile; any potential source of violence. A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
 __tsk__ _vi_ :two::pencil2: To utter the exclamation “tsk.”  
 __uncontested__ _adj_ /ˌʌn kənˈtɛs tɪd/ Not contested; unchallenged: _an uncontested victory._  
+__unhinged__ _adj_ /ʌnˈhɪndʒd/ __1__ Deranged or unbalanced. __2__ Affected with madness or insanity.  
+__unsurgency__ _n_ /ɪnˈsɜr dʒən si/  
 __untenable__ _adj_ /un-TEN-uh-bul/ Something, such as a position, excuse, or situation, that is described as untenable cannot be defended against attack or criticism. _The scientists considered their colleague’s theory to be bold but ultimately untenable._  
 __upheaval__  
 __voltmeter__ _n_ /ˈvoʊltˌmi tər/ A calibrated instrument for measuring the potential difference between two points in volts. :es: voltímetro  
