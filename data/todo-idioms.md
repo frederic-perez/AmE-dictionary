@@ -478,56 +478,6 @@ __lay (someone) to rest__
 __lay (something) at the feet of (someone)__ To make or hold someone, especially a group of people, responsible for something. _With every other department losing money each year, the managers have laid the company’s success at the feet of our team._  
 __lay bare (something)__ To divulge, explain, or reveal something not previously known publicly.  
 __lay down and die__ To quit; to give up hope or ambition. _We might have had an unexpected loss in the playoffs, but that doesn’t mean this team is ready to lay down and die!_  
-__lay the groundwork (for something)__ :four: To create or prepare the basics or essential foundation (for something); to pave the way (for something). _Our success with this healthcare bill wouldn’t be possible, had the previous administration not laid the groundwork already._  
-__lay to rest__ (lay (someone) to rest)  
-__laze about__ To relax or spend time idly; to do nothing or very little. _It’s a gorgeous day outside, so you kids get off your butts and quit lazing about!_  
-__lazy-bones__ A particularly lazy or indolent person. _Come on, lazy-bones, you’ve spent half the day in bed. Time to get up and be productive!_  
-__lazybones__ A lazy person.  
-__leach away__ __1__ To become dissolved, eroded, or carried away, by or as by some percolating liquid. _Nutrients in the soil have continued leaching away as the groundwater become more acidic._ _All emotion had been leached away._ __2__ To dissolve, erode, or carry something away due to percolation. In this usage, a noun or pronoun can be used between “leach” and “away.” _Over time, the saltwater leached the limestone away all along the coastline._  
-__lead nowhere__ To ultimately yield or achieve no useful, beneficial, or successful result or outcome. _This meeting is leading nowhere. We’ve been here for over two hours now and haven’t even been able to come up with a name for our product!_  
-__lead the pack__ To be at the forefront of a particular group, either literally or figuratively. _We had Bill lead the pack on our tour through Rome._  
-__leap to (someone’s) mind__ To suddenly or immediately materialize in someone’s mind.  
-__leapfrog over (someone or something)__ :two::hammer:  
-__leaps and bounds__ :dart:  
-__learn (something) the hard way__ _Starting your own business is really tough. I had to learn that the hard way._  
-__leave (something) out of account__ To ignore something; to pay little or no heed to something. _If you leave the constituents’ opinions out of account on this issue, you can kiss their votes goodbye in the election next fall._  
-__leave a lot to be desired__ To be very inadequate or unsatisfactory; to lack a large amount of what is desired or required.  
-__leave home__ To cease living with one’s parents; to strike out on one’s own. _I regret leaving home at such a young age, but it did teach me some good lessons about self-reliance._  
-__legal eagle__ An especially clever, aggressive, or skillful attorney. _I might be considered something of a legal eagle now, but I had to work for years to get enough experience to build my reputation._  
-__lemon law__ A law requiring an automobile manufacturer or dealer to replace, repair, or refund the cost of an automobile that proves to be defective after purchase.  
-__let (one) off the hook__ To pardon, release, or allow one to escape from blame, responsibility, obligation, or difficulty. _At first, Sam was suspected of stealing money from the safe, but he was let off the hook after security camera footage showed it was someone else._  
-__let (oneself) go__  
-__let (someone) loose (on something)__ To allow someone to do something as they please, without supervision or control. _It’s so nice to go to the park and let the kids loose for a while._  
-__let (something) slip__ To accidentally or inadvertently reveal some secret or important piece of information. _I can’t believe your sister let news of our engagement slip in front of your parents!_  
-__let (the) perfect be the enemy of (the) good__ :dart: To allow the demand, desire, or insistence for perfection to decrease the chances of obtaining a good or favorable result in the end. (Usually used in the negative as an imperative.) _I know you want your research paper to be flawless, but don’t let perfect be the enemy of good, or you won’t even finish it in time!_  
-__let alone__  
-__let down (one’s) guard__ To become less guarded or vigilant; to stop being cautious about potential trouble or danger. _We’ll wait long enough for them to let down their guard before we launch our invasion._  
-__let down (one’s) hair__ To cease acting formally or conservatively; to let go of one’s inhibitions or reservations. _Come on, Jim, this is a party! Let down your hair and go a little wild!_  
-__let down__  
-__let go and let God__ To give up one’s self-determination and yield to the teachings, designs, or instructions of God or the church. _One day, I decided to just let go and let God, and I’ve been a happier person for it ever since._  
-__let it rest__ To cease discussing or dwelling upon a given subject. _Look, we can’t afford a new car right now, so just let it rest already!_  
-__let off (some) steam__ __2__ To release strong emotions or energy by engaging in some kind of enjoyable, vigorous, or relaxing activity. _I went on a run to let off steam after our fight._ _When work gets frustrating, I like to go bowling to let off some steam._  
-__let on__ :es: divulgar  
-__let someone down__  
-__let the good times roll__ To have as much fun or live life as richly as possible. (Often said as an imperative.) _We’ve had another successful year at the company, so everyone enjoy the party and let the good times roll!_  
-__let up (on someone or something)__  
-__let up__ :es: parar, detenerse  
-__let’s get something straight__ (expression) Let’s clear up any possible confusion, misunderstanding, or uncertainty (about something); let me make this perfectly clear.  
-__let’s not and say (that) we did__ A sarcastic expression indicating that one would really rather not do what has been proposed. _Joe: “Why don’t we go to the farmers’ market today?” Sarah: “Ugh, in this weather? Let’s not and say we did.”_  
-__let’s party__ The idiom “let’s party” is an informal expression that means to celebrate, have fun, or enjoy oneself, often in the context of socializing with others.  
-__let’s roll__ Let’s get out of here; let’s get moving. _I think I’ve had enough of this party. Let’s roll, Sarah._  
-__letters after (one’s) name__ :dart: A series of abbreviations indicating the various levels of higher education or military honors one has received, thereby denoting a presumed level of intelligence, wisdom, or respectability. _I hate hanging out with your PhD colleagues—it seems like they’ll only take you seriously if you have letters after your name._  
-__level the playing field__ To make a situation or activity more fair and balanced by giving an extra advantage or opportunity to those who would normally be at a disadvantage, or by attempting to take away or diminish advantages, perhaps of one’s adversary or competitor.  
-__lick (one’s) wounds__  
-__lie to__ __2__ (Nautical) Of a sailing vessel, to remain stationary while facing the wind. _Make sure the ship lies to during the storm so as not to capsize._  
-__life, the universe, and everything__ The question that pan-dimensional space-beings asked the computer Deep Thought in Douglas Adams’s book, _The Hitchhiker’s Guide to the Galaxy._ The computer took millions of years and came up with the answer 42. _Balancing risks is life, the universe, and everything._  
-__lift the veil (on something)__ To divulge, explain, or reveal something that was previously a secret. _Our hope is that this expedition will lift the veil on the secrets of the ancient king’s tomb._  
-__lift__  
-__lightning fast__  
-__lightning in a bottle__ An incredibly difficult, unlikely, and/or elusive achievement or period of success. (Usually used with “catch” or “capture.”) Primarily heard in US. _The playwright caught lightning in a bottle with his first play, taking the world by storm and thrusting him into the spotlight of fame._  
-__lightning quick__ :dart: Incredibly fast; too quick to keep up with. Hyphenated if used before a noun. _Did you see that martial arts expert? His kicks were lightning quick!_  
-__like (one’s) life depends on it__ With maximum, possibly desperate, effort or energy (i.e., as if one is at risk of losing one’s life if one fails). _The boxer started the third round throwing punches like his life depended on it._  
-__like a chicken with the pip__ In low spirits; in a weak or sickened state or manner. _Poor little Johnny’s been feeling like a chicken with the pip lately. I think he must have picked up a bug at school._  
 __like a fish out of water__ :two::hammer:  
 __like attracts like__ People tend to seek out or be attracted to those that are similar or like-minded. _I guess I shouldn’t be surprised that John wants to find other Americans to hang out with. Like attracts like, after all._  
 __like cheese at four pence__ _BrE_ In an idle, awkward, and/or out-of-place state; being ignored, abandoned, or left to wait awkwardly. Primarily heard in UK. _Well, don’t just sit there like cheese at four pence—speak up and say what’s on your mind!_  
