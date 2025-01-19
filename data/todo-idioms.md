@@ -76,6 +76,7 @@ __close shave__
 __close to one’s chest__  
 __close up__ _Close it up, Wedge! Check!_  
 __cobble together__  
+__cock (one’s) ear__ To listen intently.  
 __cockamamie__ Absurd or ridiculous. _Please don’t get involved in another one of his cockamamie schemes—you know they never pan out._  
 __coin__ _slang_ Money.  
 __cold fish__  
@@ -122,9 +123,11 @@ __dabble in (something)__ To do something sporadically or as a hobby.
 __dance on air__ To be extremely happy.  
 __dang it__  
 __day in and day out__  
+__day of reckoning__ The day on which something must be confronted or becomes unavoidable. This term originated in the Bible. _Well, it’s the day of reckoning now—whether you studied or not, you have to take the test._  
 __dead__ __5__ Absolutely. _You’d better be dead certain about this decision, because you can’t take it back._  
 __deadhead__ __3__ _n_ _slang_ One who is regarded as dumb, dull, or stupid.  
 __dearth__ _n_ /dɜːθ/  
+__denial of care__ “Denial of care” refers to a situation where a healthcare provider or facility refuses to provide medical treatment or services to a patient, even though the patient requires care.  
 __diddly__ _n_ :dart: __1__ Nothing; anything at all (when used in negative statements). _I have to admit that I know diddly when it comes to computers._ __2__ A small or worthless amount: _His advice wasn’t worth diddly to me._  
 __dig (something)__ _slang_ To understand, approve of, or enjoy something. _I really dig this music, man!_  
 __dig and poke around__ The idiom “dig and poke around” generally means to search or investigate something thoroughly by looking through various items or areas, often in a somewhat casual or unstructured manner.  
@@ -142,6 +145,7 @@ __don’t get me started__
 __don’t give a rat’s ass__  
 __don’t mention it__  
 __doodad__ A name for a gadget or thing whose actual name is unknown or has been forgotten. _Where’s that doodad? I need it to finish this repair._  
+__doom amd gloom__  
 __doom and gloom__  
 __double duty__  
 __double whammy__ A situation in which two negative things happen at the same time or in rapid succession. _Jack suffered a double whammy when his car broke down the same day he lost his job._  
@@ -243,11 +247,13 @@ __go postal__ :dart: _US informal_ [:scroll: This expression arose as a result o
 __go through the roof__  
 __goob__  
 __goon__  
+__grapple with (someone or something)__  
 __green folding__ Paper money, especially in large amounts. _Boy, I bet you had to lay down some serious green folding for that new sports car, huh?_  
 __gun for hire__  
 __haggle over (something)__  
 __ham-handed__ In a clumsy manner; lacking care and skill.  
 __hard-pressed__ Struggling to do or accomplish something, especially because it seems impossible. _You’ll be hard-pressed to find a better guy than Bill._  
+__have (got) a knack for (something)__  
 __have (something) in store (for one)__ To have something awaiting (one) or prepared (for one).  
 __have someone’s number__ (have (got) (one’s) number)  
 __head over heels__  
@@ -506,6 +512,7 @@ __lone it__ To go somewhere or do something alone; to be by oneself. _A: “Do y
 __long arm__ Broad, far-reaching power or influence. (Usually paired with a noun, as in “the long arm of the law.”) _The long arm of justice finally put the murderer in jail, where he belongs._  
 __long memory__ A clear memory of events that happened long ago. _My grandma has a long memory of her childhood in Russia. It’s astonishing hearing how things were when she was young!_  
 __long since__ Long ago; of the (relatively) distant past. _Though Sarah had long since moved on from their relationship, Jonathan still hoped they would one day get back together._  
+__long time no see__  
 __long-run__ Involving, maturing after, or lasting for a long period of time. Used before a noun. _Our team has come up with a number of long-run solutions to our financial problems, but we’ll have to make some sacrifices for them to be effective._  
 __look (a little/bit) off__  
 __look askance upon (someone or something)__ To view or regard someone or something in a disapproving or distrustful manner. _Such is the state of politics these days that even the most patriotic citizens tend to look askance upon the manner in which congress conducts business._  
@@ -517,13 +524,19 @@ __loose ends__ (loose end)
 __loose lip(s)__ The practice, habit, or manner of speaking too frequently and/or without discretion, especially as might unintentionally lead to revealing private or sensitive information to others. _You’ve got a very loose lip, son. You’d do well to learn to keep it shut!_  
 __loose talk__ Uninhibited, indiscreet talk or conversation, especially as might unintentionally lead to revealing private or sensitive information to others. _The details of this project are extremely confidential, so there can’t be any loose talk about it whatsoever._  
 __lose (one’s) faith (in something or someone)__ To stop believing (in someone or something); to become disillusioned, embittered, or doubtful (about something or someone). (When said simply as “lose faith,” it is often in reference to losing religious faith in God.) _The staff have started losing faith in John’s ability to manage the restaurant properly._  
+__lose (one’s) spirit__ To lose one’s vigor, energy, hope, or resolve; to become resigned or complacent. _The underdog team had a shot at winning the game early on, but they seem to have lost their spirit at this point._ _You’ve come so far with your law degree. Don’t lose spirit now!_  
+__lose (one’s)/the way__ To become lost; to become unable to find the correct course forward. _Sarah lost her way home walking through the woods in the dead of night when the clouds obscured the stars overhead._  
 __lose no time (in) (doing something)__ To do something immediately or as expediently as possible. _Wow, Sarah lost no time finding a new boyfriend after she and Rob split up._  
+__lose track of (someone or something)__  
 __loud and clear__  
 __love handles__ ((love) handles, spare tyres, Dunlops disease, Dunlop Syndrome) _euphemism_ [So called because supposed to be grabbed by a partner in sexual intercourse.]  
+__lucky for you__  
+__make a face__ :two::hammer:  
 __make a fuss__  
 __make a long arm for (something)__ To extend one’s arm fully toward something; to reach out for something. _Mary’s new boyfriend made a long arm for the bottle of wine at the end of the table, helping himself to another glass._  
 __make good on (something)__ To fulfill an obligation, such as keeping a promise or paying a debt. _Tom made good on his pledge to donate $1,000. Bill refused to make good on his promise._  
-__make no mistake__  
+__make it up__  
+__make no mistake__ :two::hammer:  
 __make the most of it__  
 __make waves__  
 __meant to be__  
@@ -547,6 +560,8 @@ __move the dial__
 __move the needle__ _I am concentrating on what moves the needle most._  
 __moxie__ :dart: Bravery, determination, energy, or resolve.  
 __much obliged__ :dart: __1__ Indebted to someone for their generosity, kindness, or favor. _We are much obliged for all you have done on behalf of our father._ __2__ Thank you very much. _A: “Here’s your jacket, sir.” B: “Much obliged, son.”_  
+__muck something up__ [:scroll: This idiom alludes to the verb muck in the sense of “spread manure on.” (Early 1900s)] To ruin something. Bungle, damage, make a mess of, as in _Don’t let him write the review; he’s sure to muck it up._ _I should never have trusted Jim with the repair work. He was bound to muck it up._ _I asked her to take over for me while I was gone, and she really mucked it up._ _She mucked up the whole deal._ _Syn_ foul up  
+__muck up__ To ruin or mess something up. A noun or pronoun can be used between “muck” and “up.” _Boy, you really mucked up this report, and I don’t have time to fix it right now._  
 __mug shot__ __1__ An official photograph taken of someone being brought into police custody, usually characterized by the person wearing a grim or blank expression on their face.  
 __mugger__ _n_ :three::smiling_imp: Someone, usually a male, who attacks and robs people. _I clobbered the mugger with a tire iron I carry just for such occasions._  
 __mumbo jumbo__  
@@ -838,12 +853,14 @@ __sure thing__
 __surprise, surprise__  
 __swat__ _slang_ To contact emergency services, such as the police, with a fraudulent report of an emergency so that they respond in large numbers to a certain location, often done as a prank. The name refers to SWAT (“Special Weapons and Tactics”) teams, specialized police units that respond to especially dangerous situations. _Kids keep swatting celebrities’ houses, and police are coming down hard when they catch the person who did it._  
 __swatting__ _slang_ The act of contacting emergency services, such as the police, with a fraudulent report of an emergency so that they respond in large numbers to a certain location, often done as a prank. The name refers to SWAT (“Special Weapons and Tactics”) teams, specialized police units that respond to especially dangerous situations. _Swatting is much more dangerous than a simple prank—it diverts first responders who may be needed elsewhere._  
+__sweep (something) under the carpet__ __(sweep (something) under the rug)__  
 __swept the board__  
 __switch gears__  
 __sword of Damocles__ Any imminent, impending, or eventual trouble, danger, or disaster.  
 __sworn enemy__ A person, group, or organization for whom one holds a particularly intense, deep-seated hatred. _Our environmentalist lobby group is heading out to protest against Big Oil, our sworn enemy._  
 __tacky__ Cheap, crude, and unrefined; indicating or characteristic of a lack of class, elegance, or sophistication. _He showed up in a really tacky suit._ _The office looked tacky._ _Tacky birthday present._ :es: cutre  
 __taco bender__  
+__take (one’s) pick__  
 __take (one) up on (something)__ To agree to an offer one has made, especially one made at an earlier point in time. _I’m coming to town this weekend, so can I take you up on that spare bedroom you’ve offered me in the past?_  
 __take a load off (one’s feet)__ To sit down and rest one’s feet; to relax. (Usually said as a suggestion.) _Why don’t you go take a load off for a while, and I’ll fix dinner for tonight?_  
 __take a shot (at someone or something)__  
@@ -871,7 +888,7 @@ __tap our__
 __team up (with one)__  
 __tear up__ __1__ To violently rip or pull someone or something into pieces. In this usage, a noun or pronoun can be used between “tear” and “up.” :es: destrozar  
 __tear your hair out__ (tear (one’s) hair out) _informal_ Act with or show extreme desperation. To be extremely anxious, worried, frustrated, or stressed out about something. _We’ve been tearing our hair out trying to figure out what’s causing the server outages._  
-__tell me about it__ :two::hammer:  
+__tell me about it__ :three::hammer:  
 __tell me something I don’t know__  
 __tennis whites__ “Tennis whites” refers to the traditional all-white attire worn by tennis players, particularly at prestigious tournaments like Wimbledon.  
 __thank goodness__  
@@ -883,6 +900,7 @@ __the belle of the ball__
 __the best thing since sliced bread__  
 __the better part of (something)__ :dart::three: The majority of something. _I’m sorry I’m late—my doctor’s appointment took the better part of an hour._  
 __the facts of life__  
+__the faint of heart__  
 __the golden rule__ :dart: The maxim that one should treat other people the way one would like to be treated, often expressed proverbially as “Do unto others as you would have them do unto you.” _My son wanted to steal the bike of a boy who stole his lunch money, so I told him that the only way to get along with people is to follow the golden rule._  
 __the greatest thing since sliced bread__ A humorous and hyperbolic statement indicating one’s belief that something is excellent, especially something new and innovative. _These waterproof jeans are the greatest thing since sliced bread. I don’t have to worry about getting soaked!_  
 __the keys to the kingdom__  
@@ -963,6 +981,7 @@ __warhorse__ ((old) warhorse) __1__ A veteran of some activity or profession (no
 __water under the bridge__  
 __weather the storm__ To endure a period of hardship or disorder. To experience something and survive it. _That was the hardest year of my life, but in the end I was able to weather the storm with the support of my family._  
 __weirdo__ /ˈwɪrdo/ /ˈwɪər doʊ/ /ˈwɪədəʊ/ _slang_ slang A particularly odd, bizarre, awkward, or eccentric person. _I know a lot of kids at school think I’m a weirdo just because I like anime so much, but I don’t care._  
+__welcome to the jungle__ “Welcome to the jungle” is not an idiom in the traditional sense. However, in a figurative sense, it can be used to describe a chaotic or wild environment, often in a new or unfamiliar situation—something like a “tough” or “dangerous” place where one has to adapt quickly. In that context, people may use it in a more idiomatic way, but the phrase itself originated as a title and lyrics for the song by Guns N’ Roses.  
 __well put__ The expression “well put” is used to praise someone’s way of expressing something. It means that what the person said was clear, well-articulated, or expressed in a thoughtful or effective manner. It’s a compliment acknowledging that their words were well-chosen or accurately conveyed the intended message.  
 __well up__  
 __what it takes__  

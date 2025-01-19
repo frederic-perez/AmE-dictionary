@@ -24,11 +24,13 @@ __allision__ _n_ (_vs_ collision)
 __allusion__ _n_ /uh-LOO-zhun/  
 __alum__ _n_  
 __amalgamate__ _v_ /uh-MAL-guh-mayt/ _Amalgamate_ is a formal verb meaning “to unite (two or more things) into one thing.”  
+__amplify__ _vt_ :astonished: __2__ To add to, as by illustrations; make complete.  
 __amulet__ _n_ :two: An object worn, especially around the neck, as a charm against evil or injury.  
 __andirons__ _n_  
 __anemone__ _n_ :mega: /əˈnɛm əˌni/ /uh–nem–uh-nee/  
 __anoxia__ _n_  
 __antler__ _n_ A horny growth on the head of a deer, moose, elk, or other related animal, usually having one or more branches. Antlers typically grow only on males and are shed and grown again each year.  
+__antsy__ _adj_ Nervous and unable to relax. _Syn_ fidgety, fretful, itchy _The long wait made the children antsy._  
 __apoplexy__ _n_  
 __appalled__ _adj_  
 __appalling__ _adj_  
@@ -53,6 +55,7 @@ __beatific__ _adj_ /bee-uh-TIFF-ik/ _Beatific_ is a formal word that describes s
 __beetle<sup>1</sup>__ _n_  
 __beetle<sup>2</sup>__ _adj_ Projecting; overhanging: _beetle brows._  
 __beetle<sup>3</sup>__ _v_ To project or overhang. _His brow beetled._  
+__belatedly__ _adv_ Later than usual or than expected.  
 __beleaguer__ _v_ /bih-LEE-gur/ To beleaguer a person, business, etc. is to cause them constant or repeated trouble. _Beleaguer_ is also sometimes used as a synonym of besiege.  
 __bereaved__ _adj_  
 __better<sup>3</sup>__ _n_ (bettor) A person who bets.  
@@ -105,6 +108,7 @@ __clemency__ _n_
 __closehanded__ _adj_ Covetous; penurious; stingy; closefisted.  
 __clover__ _n_  
 __coalesce__ _v_  
+__cock__ _vt_ :dart::three: __3__ :dart: To tilt or turn up or to one side, usually in a jaunty or alert manner: _cocked an eyebrow in response to a silly question._  
 __coerce__ _v_  
 __colander__ _n_ /KUH/KAH-luhn-duhr/ (cullender) A utensil with perforations, used for straining or draining foods.  
 __colonel__ _n_ :mega: /ˈkɜr nl/ /kur-nl/  
@@ -129,6 +133,7 @@ __cow__ _vt_ To frighten or subdue with threats or a show of force. _Syn_ intimi
 __cower__ _v_  
 __coy__ _adj_  
 __cozen__ _v_ :smiling_imp: /KUZ-un/ To cozen someone is to deceive, win over, or induce them to do something by coaxing or trickery. _The organization cozened scores of people by persuading them to participate in a fraudulent investment scheme._  
+__cradle__ _vt_ :pencil2: __1c__ To hold or support protectively: _cradled the cat in his arms._  
 __cram__ _v_ Study intensively, as before an exam. _Syn_ bone up, drum, get up, grind away, mug up, swot _I spent the week before my Latin final exam cramming, a strategy that paid off when I aced the class._  
 __crease<sup>1</sup>__ _n_ __1__ A line or mark produced by folding, pressing, or wrinkling. __2__ A wrinkle or furrow, esp on the face.  
 __crease<sup>2</sup>__ _vt_  
@@ -193,6 +198,7 @@ __evergreen__ _adj_ /EV-er-green/ _Evergreen_ in its figurative uses describes s
 __exacerbate__ _vt_  
 __excursion__ _n_ /ik-SKER-zhun/ _Excursion_ refers to a trip, and especially to a short one made for pleasure. _Excursion_ is also often used figuratively to refer to a deviation from a direct, definite, or proper course, and often in particular to a digression.  
 __expiration date__ _n_ _A sad song about a relationship that probably has reached its expiration date._  
+__extempore__ _adj_ Spoken, carried out, or composed with little or no preparation or forethought. _Syn_ ad-lib, extemporaneous, impromptu, off-the-cuff, offhand, offhanded, unrehearsed  
 __extravaganza__ _n_ /ɪkˌstræv əˈgæn zə/  
 __face__ _n_ :mega: /feɪs/ (_vs_ phase /feɪz/)  
 __fang__ _n_  
@@ -240,6 +246,7 @@ __folk__
 __footing__ _n_  
 __forearm__ _n_ :es: antebrazo  
 __foresee__ _vt_ /fɔrˈsi, foʊr-/ To imagine or know as a probable occurrence; anticipate or predict: _foresaw economic decline._  
+__foster parent__ _n_ (foster-parent) A person who acts as parent and guardian for a child in place of the child’s natural parents but without legally adopting the child.  
 __frank__ _adj_ __2__ Clearly manifest; evident: _frank enjoyment._  
 __fray__ _n_ :dart: :es: combate, lucha, pelea  
 __Frederick’s of Hollywood__ _n_ An American lingerie brand formerly with stores in shopping malls across the United States.  
@@ -306,7 +313,7 @@ __giggle<sup>1</sup>__ _n_ :two::hammer:
 __giggle<sup>2</sup>__ _v_ :two::hammer:  
 __gladden__ _vt_ To make glad: _The good news gladdened our hearts._  
 __glass pane__  
-__glower__ _v_  
+__glower__ _v_ :two::hammer:  
 __glower<sup>1</sup>__ _n_ To look or stare angrily or sullenly: _glowered at the rude patron._ _Syn_ scowl, glare, frown, look daggers, give a dirty look, lour, lower  
 __glower<sup>2</sup>__ _n_ An angry or sullen look or stare.  
 __goatee__ _n_  
@@ -384,6 +391,7 @@ __honorable discharge__ _n_ :two: Discharge from the armed forces with a commend
 __hospital radio__ _n_ A form of audio broadcasting produced specifically for the in-patients of hospitals, primarily in the United Kingdom. Hospital radio has been found to be beneficial to patients, lifting their mood and aiding recovery.  
 __humdrum__ _adj_ Lacking variety or excitement; dull. _Syn_ unglamorous, commonplace, prosaic  
 __hydrant__ _n_ :two::hammer:  
+__impermanence__ _n_ The property of not existing for indefinitely long durations.  
 __imperviousness__ _n_  
 __impish__ _adj_ :es: pícaro, travieso  
 __importunate__ _adj_ :astonished: Troublesomely urgent or persistent in requesting; pressingly entreating: _an importunate job seeker._  
@@ -485,6 +493,7 @@ __livid__ _adj_ :astonished:
 __lockdown__ _n_ /ˈlɒkˌdəʊn/  
 __loopy__ _adj_ _Loopy appellation._  
 __lug__ _v_  
+__lunge__ _v_  
 __lycanthrope__ _n_  
 __macabre__ _adj_  
 __macaronic__ _adj_ :astonished: __1__ Characterized by Latin words mixed with non-Latin words often given Latin endings. __2__ Composed of a mixture of languages.  
@@ -528,6 +537,7 @@ __mayhem__ _n_
 __meanly__ _adv_ In a miserly manner. _Syn_ humbly _They lived meanly and without ostentation._  
 __measly__ _adj_ :astonished:  
 __meatspace__ _n_ _slang_ :dart: /ˈmiːtˌspeɪs/ The real physical world, as contrasted with the world of cyberspace.  
+__medlar__ _n_ :es: níspero  
 __medley relay__  
 __meliorism__ _n_ /MEE-lee-uh-riz-um/ _Meliorism_ refers to the belief that the world tends to improve and that humans can aid its betterment.  
 __memento__ _n_ :mega: /muh-MEN-toh/ _Memento_ is a synonym of _souvenir_; it refers to something that is kept as a reminder of a person, place, or thing.  
@@ -550,6 +560,7 @@ __millpond__ _n_ __1__ A pool formed by damming a stream to provide water to tur
 __mince__ _v_  
 __Mini-Me__ _n_ _chiefly humorous_ A person who is a miniature, but otherwise identical, version of a particular person.  
 __miniscule__ _adj_ :astonished:  
+__minuscule__ _adj_ /-uh-skyool/ __1__ Something described as minuscule is very small. _The number of bugs in the latest version of the video game is minuscule compared to the number that surfaced in the beta version._ __2__ _Minuscule_ can also mean “written in, or in the size or style of, lowercase letters,” in which case it can be contrasted with majuscular. _The ancient manuscripts on display are all in minuscule script._  
 __mirth__ _n_ :two: Gladness and merriment, especially when expressed by laughter.  
 __misanthrope__ _n_ (misanthropist) A person who dislikes or distrusts other people or mankind in general.  
 __misbegotten__ _adj_ :two::smiling_imp: /ˌmɪs bɪˈgɒt n/ /miss-bih-GAH-tun/ (misbegot) _Misbegotten_ describes things that are badly planned or thought out. _They were sent on a misbegotten diplomatic mission that was sure to fail._  
@@ -577,6 +588,7 @@ __monition__ _n_ A warning or an intimation of something imminent, especially of
 __monitory__ _adj_ Conveying an admonition or a warning. _Syn_ admonitory, cautionary, exemplary, warning _She shot him a monitory glance and he quickly changed the subject to one less controversial._  
 __Montserrat__ _n_ An island in the Leeward Islands, in the West Indies: British crown colony.  
 __monumental__ _adj_  
+__moon shot__ _n_ (moonshot)  
 __Moor__  
 __moot<sup>1</sup>__ _adj_ /MOOT/ _Moot_ typically describes something that is no longer important or worth discussing. It can also describe something that is argued about but not possible for people to prove.  
 __moot<sup>2</sup>__ _vt_  
@@ -638,9 +650,10 @@ __oath__ _n_
 __obfuscate__ _v_ /AHB-fuh-skayt/ To obfuscate something is to make it more difficult to understand. Obfuscate can also mean “to be evasive, unclear, or confusing.”  
 __oblige__ _vt_  
 __obsequious__ _adj_  
-__oligarchy__ _n_ _Oligarchy_ can refer to a government in which a small group exercises control especially for corrupt and selfish purposes, as well as to the group exercising such control.  
+__oligarchy__ _n_ :two: _Oligarchy_ can refer to a government in which a small group exercises control especially for corrupt and selfish purposes, as well as to the group exercising such control.  
 __onerous__ _adj_ :dart:astonished: Troublesome or oppressive. _Syn_ burdensome, taxing  
 __opine__ _v_ Express one’s opinion openly and without fear or hesitation. _Syn_ animadvert, sound off, speak out, speak up  
+__opinionated__  
 __orderly__ _n_ __1__ An attendant who does routine, nonmedical work in a hospital. __2__ A soldier assigned to attend and perform various tasks for a superior officer.  
 __outskirts__ _n pl_  
 __overworked__ _adj_ :dart:  
@@ -692,7 +705,7 @@ __pessary__ _n_ /ˈpɛs ə ri/
 __pestilential__ _adj_ Likely to spread and cause an epidemic disease. _Syn_ pestiferous, plaguey  
 __petrichor__ _n_ :dart::astonished::two: /ˈpɛtrɪˌkɔː/ [:scroll: from Greek _petra_ stone + Greek myth _ichor_, the fluid said to flow in the veins of the gods]  
 __petrol station__ _n_ _Syn_ filling station, gas station, gasoline station  
-__petulant__  
+__petulant__ _adj_ :two::hammer:  
 __phantasmagorical__ _adj_ /fan-taz-muh-GOR-i-kuhl/ Illusory; strange; deceptive; imaginary; surreal; hallucinatory.  
 __phase__ _n_ :mega: /feɪz/ (_vs_ face /feɪs/)  
 __phony__ _adj_  
@@ -742,9 +755,12 @@ __ponderous__ _adj_ :two::hammer:
 __pontoon__ _n_  
 __pool__ _n_ __1a__ A game of chance, resembling a lottery, in which the contestants put staked money into a common fund that is later paid to the winner. __b__ A fund containing all the money bet in a game of chance or on the outcome of an event.  
 __popeye__ _n_ /ˈpɒpˌaɪ/  
+__pounce__ _v_  
+__profiteer__ _n_ :astonished: One who makes excessive profits on goods in short supply.  
+__profiteering__ _n_ :astonished: _Syn_ extortion, exploitation, racketeering _There has been a wave of profiteering and corruption._  
 __provender__ _n_ Dry food, as hay or oats, for livestock or other domestic animals.  
 __proximate__ _adj_  
-__pry__ _v_  
+__pry__ _vi_ :two::hammer:  
 __public house__ _n_ _BrE_ Pub.  
 __publican__ _n_ _BrE_ :astonished:  
 __puckering__ _n_ Corrugations in metal parts resulting from pressing or drawing.  
@@ -819,6 +835,7 @@ __recipe__ _n_ :mega: /ˈrɛs ə pi/ /ˈrɛsɪpɪ/
 __reck<sup>1</sup>__ _n_ /rek/ Care or concern.  
 __reck<sup>2</sup>__ _v_ /rek/ To care or concern.  
 __reckless__ _adj_  
+__reckoning__ _n_  
 __recluse__ _n_ :es: ermitaño  
 __recompense__ _n_  
 __recrudescence__ _n_ :two: Breaking out afresh or into renewed activity; revival or reappearance in active existence.  
@@ -868,10 +885,12 @@ __rudder__ _n_
 __runes__ _n_ __1__ Symbols of an ancient alphabet, used for divination.  
 __runnel__ _n_  
 __rush__ _v_  
+__ruthless__  
 __sacrilegious__ _adj_ Grossly irreverent toward what is or is held to be sacred. _Syn_ blasphemous, profane  
 __saltation__ _n_ A light, self-propelled movement upwards or forwards. _Syn_ leaping, bounce, bound, spring _The kangaroo’s effortless saltation was balletic and graceful._  
 __sanctum__ _n_ __2__ A room or place of total privacy or inviolability.  
 __sanguineous__ _adj_ Relating to or involving blood or bloodshed. _Syn_ butcherly, gory, slaughterous  
+__Santa Ana__ _n_ __2__ A strong dry hot wind blowing from the desert regions of southern California toward the Pacific coast, usually in winter.  
 __saunter__  
 __scamper__ _n_  
 __Scotch-tape__ _vt_ To fasten or mend with Scotch tape.  
@@ -883,11 +902,13 @@ __secular__ _adj_ /SEK-yuh-ler/ _Secular_ describes things that are not spiritua
 __sentient__ _adj_  
 __shamble<sup>1</sup>__ _vi_ :dart: To walk or move along in an awkward or unsteady way.  
 __shamble<sup>2</sup>__ _n_ An awkward or unsteady walk.  
+__shuffle__ _v_ __6__ (when _vi_, often foll by _into_ or _out of_) to move or cause to move clumsily: _he shuffled out of the door._ _He shuffled his way out of the room._  
 __sic__ _vt_ :dart: __1__ To turn on or attack: used only in commands, as to a dog. __2__ To urge (a dog) to attack. To urge or incite to hostile action; set: _sicced the dogs on the intruders._  
 __singe__ _vt_ __1__ To burn superficially or slightly; scorch. _To singe one’s clothes._ __2__ To burn the ends, nap, or the like, of (hair, cloth, etc.). __3__ To subject (a carcass) to flame in order to remove hair, bristles, feathers, etc.  
 __skirmish__  
 __slaver__ _n_ __1__ Saliva drooling from the mouth. _Syn_ drivel, slabber, slobber, drool, dribble __2__ Senseless and effusive talk; drivel.  
 __smote__ _v_ Past tense and a past participle of smite.  
+__snicker__ _v_  
 __standoff__ _n_  
 __steed__ _n_ __1__ A horse, especially a spirited one. __2__ An animal used for riding: _the use of camels as steeds._  
 __stiff-person syndrome__ _n_ (SPS)  
@@ -914,11 +935,15 @@ __unhinged__ _adj_ /ʌnˈhɪndʒd/ __1__ Deranged or unbalanced. __2__ Affected 
 __unsurgency__ _n_ /ɪnˈsɜr dʒən si/  
 __untenable__ _adj_ /un-TEN-uh-bul/ Something, such as a position, excuse, or situation, that is described as untenable cannot be defended against attack or criticism. _The scientists considered their colleague’s theory to be bold but ultimately untenable._  
 __upheaval__  
+__virtuoso__ _n_ /ver-choo-OH-soh/ _Virtuoso_ is used broadly to refer to a person who does something very skillfully, and is often used specifically to refer to a very skillful musician.  
 __voltmeter__ _n_ /ˈvoʊltˌmi tər/ A calibrated instrument for measuring the potential difference between two points in volts. :es: voltímetro  
+__warble__ _v_  
 __warhorse__ _n_ (war horse)  
+__waterboarding__ _n_ __1__ An interrogation technique, widely considered a form of torture, in which a person is restrained, usually by being strapped to a board with the feet higher than the head, and immersed in or doused with water to the point of drowning.  
 __whimper__ _v_  
 __whirl__ _v_  
 __woe__ _n_  
+__woke__ _adj_  
 __wry__  
 __Xmas__ _n_  
 __yacht<sup>1</sup>__ _n_  
