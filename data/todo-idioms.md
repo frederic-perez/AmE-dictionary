@@ -59,56 +59,6 @@ __beanpole__ One who is very skinny. _Susie is such a beanpole now that she’s 
 __big fish in a small pond__ (a big fish in a small pond)  
 __bite (one’s) nails__ To nervously await something. _I’ve been biting my nails ever since I submitted my application for my first-choice college._  
 __brace (oneself) for (something)__  
-__break faith with (someone or something)__ :dart::three: To fail to act as one has promised.  
-__bring (something) to a close__  
-__burn (someone or something) to a crisp__  
-__chalk it up__  
-__chalk up__  
-__check on (someone or something)__ To check the status, condition, or well-being of someone or something through an inspection or visit. _We need to check on Grandma and see how she is coping with all this snow._  
-__check someone or something out__  
-__cheddar__ _slang_ Money. _I’m all out of cheddar—can I borrow a few bucks?_  
-__chicken shit__  
-__chime in__  
-__chuck__ __2__ _v_ _informal_ To eject or force out from some place. _The bouncer chucked the man for being belligerent._ _You have no grounds to chuck us out of here! Hey, watch the hair!_  
-__clean as a whistle__ ((as) clean as a whistle)  
-__clear the table__ To remove objects from a table. This phrase is often said after a meal, as one removes dishes, silverware, and leftover food from the table. _After the meal I cleared the table._  
-__close shave__  
-__close to one’s chest__  
-__close up__ _Close it up, Wedge! Check!_  
-__cobble together__  
-__cock (one’s) ear__ To listen intently.  
-__cockamamie__ Absurd or ridiculous. _Please don’t get involved in another one of his cockamamie schemes—you know they never pan out._  
-__coin__ _slang_ Money.  
-__cold fish__  
-__come a long way__ :two::hammer:  
-__come and go__ To occur, exist, enter, or appear and then subside or disappear quickly or suddenly. _Ill effects of the medication come and go, but they’re still better than the disease it’s treating._  
-__come and gone__ The idiom “come and gone” refers to something that has arrived and then passed or ended. It often implies that a particular time, opportunity, or event has occurred and is now over, suggesting a sense of finality or missed chances.  
-__come around__ __1__ To change one’s view or opinion of someone or something.  
-__come on to (one)__ To flirt with or otherwise show romantic or sexual interest in one. :es: intentar ligarse a  
-__come through__  
-__come to a close__ To reach an end point.  
-__come to a head__  
-__come to an end__ To wind down to an ending or conclusion. _Festivities came to an end well after the sun had risen the next morning._  
-__come to grips__  
-__come to pass__ To happen. The phrase often indicates that what is happening is the result of a course of events. _Our only hope now is that these dire predictions will not come to pass, but can be avoided somehow._  
-__come to terms with (someone or something)__  
-__come to terms with__  
-__come to terms__  
-__coming-of-age__  
-__compounded interest__  
-__construe (something) as (something)__ :dart: To view or interpret something in a particular way. _Although I believe that he’s innocent, I can see how one could easily construe his actions as a crime._  
-__contend with (someone or something)__  
-__coochie__  
-__corny__ :es: cursi, sensiblero  
-__cough up__  
-__covet__ _v_ _You shall not covet your neighbor’s house; you shall not covet your neighbor’s wife, or anything that belongs to your neighbor._  
-__crack the code__ __2__ To discover a solution to a particularly difficult or complicated problem. _The media company seems to have cracked the code of what consumers want from a streaming service._  
-__crackerjack__  
-__cranky__ Irritable; in a foul mood.  
-__creeper__  
-__crème de la crème__  
-__cross oneself__ To make the sign of the cross on one’s head and chest. _I crossed myself as I entered the church._  
-__crowd (one)__  
 __crummy__ _informal_ __1__ Bad or unpleasant. _I’m feeling pretty crummy—I hope I’m not coming down with something._ __2__ Of poor quality. _Darn it, my crummy suitcase fell apart as I was trying to pack it._  
 __cry (one) a river__ Said sarcastically to someone whose whining, complaints, or tears fall on unsympathetic ears. Most often said as “cry me a river.”  
 __cry over spilled milk__ :two::hammer: _It’s no use crying over spilled milk._  
