@@ -44,6 +44,7 @@ __ahead of the curve__
 __all eyes are on (someone or something)__ Everyone is paying close attention to someone or something.  
 __all the same__  
 __all too soon__ The idiom “all too soon” means that something happened much earlier than expected or desired, often with a sense of regret or disappointment. It conveys the idea that an event occurred prematurely or that a positive experience ended quickly. “The holidays were over all too soon,” implies that the speaker wished the holidays had lasted longer. “Graduation came all too soon,” suggests that the speaker felt unprepared for the end of their schooling.  
+__and everything in between__ Including all the possibilities or varieties within a range. _The store sells clothes for men, women, and children, and everything in between._ _Life has its ups and downs, and everything in between._  
 __anyone’s guess__  
 __around the clock__ ((a)round the clock)  
 __at any rate__  
@@ -53,12 +54,16 @@ __baby blues__ __1__ A usually brief period of sadness, anxiety, and mood swings
 __backer__ One who supports a business or enterprise, usually financially. _This guy is a billionaire, so we definitely need to secure him as a backer._  
 __backwater__ :dart: A place that is extremely remote or isolated, such that it is removed from the reach and influence of the outside world and thus is often regarded as socially stagnant or backward. _He grew up in a bit of a backwater, so his manners aren’t exactly refined._ _The backwater of the Empire._  
 __bagel bender__  
+__battle-tested__ Which has been successfully put to the test in a real-life situation, in conditions of real use. _Syn_ tried and tested, proven  
 __be a long shot__ To be very risky, uncertain, or unlikely to succeed, as of an attempt, proposition, or guess. _I know this is a long shot, but would you like to go out on a date with me sometime?_  
 __be looking for trouble__ To be doing something or acting in a manner that will very likely result in trouble, difficulty, or danger. _I’d keep your mouth shut if you want to keep your job—arguing with the boss like that is just looking for trouble!_  
 __beanpole__ One who is very skinny. _Susie is such a beanpole now that she’s had her growth spurt._  
 __big fish in a small pond__ (a big fish in a small pond)  
 __bite (one’s) nails__ To nervously await something. _I’ve been biting my nails ever since I submitted my application for my first-choice college._  
 __brace (oneself) for (something)__  
+__by all rights__ (less common than _by rights_) With reason or justice. _Syn_ properly  
+__by rights__ With reason or justice. _Syn_ properly  
+__closed-door__ (used as a modifier before a noun) Not open to or in view of the public; private or secret. _There have been a lot of closed-door meetings recently to discuss the sale of the company._  
 __crummy__ _informal_ __1__ Bad or unpleasant. _I’m feeling pretty crummy—I hope I’m not coming down with something._ __2__ Of poor quality. _Darn it, my crummy suitcase fell apart as I was trying to pack it._  
 __cry (one) a river__ Said sarcastically to someone whose whining, complaints, or tears fall on unsympathetic ears. Most often said as “cry me a river.”  
 __cry over spilled milk__ :two::hammer: _It’s no use crying over spilled milk._  
@@ -140,6 +145,7 @@ __fantabulous__
 __fast and furious__ :two::hammer:  
 __fast-forward__  
 __fat chance__ Said of something that is unlikely to happen. :es: vaga posibilidad  
+__fawn (all) over (one)__ To flatter and fuss over one to an excessive degree, especially in a sycophantic or obsequious manner.  
 __feel like a million bucks__ :astonished: To feel exceptionally attractive or in very robust health. _Wow, I feel like a million bucks in this new suit!_  
 __feel like doing something__  
 __feel puny__ To feel sick. _I woke up feeling puny, so I just stayed in bed all day._  
@@ -194,6 +200,7 @@ __give someone or something away__ To reveal a secret about someone or something
 __glower at (someone or something)__ To look at someone or something with anger or disapproval.  
 __go berserk__  
 __go postal__ :dart: _US informal_ [:scroll: This expression arose as a result of several recorded cases in the USA in which postal-service employees ran amok and shot colleagues] Go mad, especially from stress. Become extremely angry or start behaving in a violent and angry way. _According to one eye witness, the man ‘went postal, and started hitting his computer’_  
+__go through hoops__ :astonished: To face or have to complete many challenges in pursuit of something that one wants, especially challenges that seem arbitrary or excessive. _The boss made me go through a lot of hoops to earn this corner office, believe me. I was doing everything from leading presentations to getting him coffee for months._  
 __go through the roof__  
 __goob__  
 __goon__  
@@ -255,6 +262,7 @@ __hush money__ :three: _n informal_ A bribe paid to keep something secret. _A hu
 __hustle and bustle__  
 __I beg your pardon__ :dart: __1__ :dart: I apologize for what I just did or said. _Oh, I beg your pardon. I wasn’t looking where I was going._ __2__ What did you just say? _Could you please repeat that? I beg your pardon, I couldn’t quite hear you._ __3__ An expression or exclamation of indignation or incredulous disbelief. _A: “I’m afraid we’re going to have to cut your funding, effective immediately.” B: “I beg your pardon? Who on earth decided that?”_ __4__ Could you please give me your attention. _I beg your pardon, everyone, but I’d like to get tonight’s proceedings underway._ __5__ :dart: I believe you are mistaken or incorrect; I beg to differ; I don’t agree with you on that. _I beg your pardon, but I believe you’ll find that our school is actually one of the best in the state._  
 __I say__  
+__I see you__  
 __I wouldn’t recommend it__ The idiom “I wouldn’t recommend it” means that the speaker does not think something is a good idea or that it would be a positive experience. It’s a way of politely discouraging someone from doing something, suggesting that it might be unpleasant, risky, or simply not worth the effort.  
 __I’ll believe it when I see it__ I highly doubt that could happen or is the case. The phrase implies that one would need to witness or see proof of such a thing to believe it. _The kids said they’re finished cleaning the garage, but I’ll believe it when I see it._  
 __if (one’s) life depended on it__ Under any circumstances; no matter what. (Used almost exclusively with a negative statement regarding something that one couldn’t or wouldn’t do.) _No way am I going to karaoke night. I couldn’t sing if my life depended on it!_  
@@ -278,7 +286,7 @@ __in all likelihood__
 __in all seriousness__  
 __in and of itself__  
 __in any event__  
-__in arrears__ :three: Behind or overdue, often because one has not made a payment as scheduled.  
+__in arrears__ :four: Behind or overdue, often because one has not made a payment as scheduled.  
 __in bits and pieces__ In many small fragments. _Look what you’ve done! My favorite lamp is in bits and pieces on the floor!_  
 __in cahoots (with someone)__  
 __in concert with (someone)__ Together with someone; in cooperation with someone. _You’ll need to work in concert with my file clerk to sort through all this paperwork._  
@@ -287,7 +295,7 @@ __in default of (something)__ Due to the absence or lack of something; through t
 __in distress__ :three: __1__ Very upset. _He was clearly in distress upon hearing the news._ __2__ In a very difficult situation in which one does not have enough money, food, etc. _She’s chosen to devote her life to helping those in distress._ __3__ (of a boat, airplane, etc.) In a state of danger or desperate need. _The ship was in distress._  
 __in favor (with someone)__ Highly regarded (by someone); widely accepted or enjoyed (by someone). Primarily heard in US. _John had been in favor with his boss ever since he managed to secure that lucrative client._  
 __in fee__ _Law (specifically of land)_ In absolute legal ownership or subjection.  
-__in full swing__ :three::hammer:  
+__in full swing__ :four::hammer:  
 __in hock__ __1__ In debt. _I picked a smaller, more affordable school so I didn’t have to be deep in hock with student loans for years after I graduated._ __2__ Having been pawned. _I really needed cash, so my guitars are in hock, unfortunately._  
 __in hot water__ :dart::three: In trouble or facing a difficult situation. This idiom is common in Ellroy’s novels, especially when characters find themselves caught in compromising positions or facing consequences for their actions. Having provoked or incited anger, hostility, or punishment against oneself; in a troublesome or difficult situation, especially that which will result in punishment or reprisal. _I was in a bit of hot water with Janice last night when she found out I went to the movies instead of cleaning out the garage._  
 __in its infancy__ In the early, nascent period of development or implementation. (Typically of an area of activity, interest, research, etc.)  
@@ -434,6 +442,7 @@ __lay (someone) to rest__
 __lay (something) at the feet of (someone)__ To make or hold someone, especially a group of people, responsible for something. _With every other department losing money each year, the managers have laid the company’s success at the feet of our team._  
 __lay bare (something)__ To divulge, explain, or reveal something not previously known publicly.  
 __lay down and die__ To quit; to give up hope or ambition. _We might have had an unexpected loss in the playoffs, but that doesn’t mean this team is ready to lay down and die!_  
+__lightning speed__ An extremely high speed; great rapidity.  
 __like a fish out of water__ :two::hammer:  
 __like attracts like__ People tend to seek out or be attracted to those that are similar or like-minded. _I guess I shouldn’t be surprised that John wants to find other Americans to hang out with. Like attracts like, after all._  
 __like cheese at four pence__ _BrE_ In an idle, awkward, and/or out-of-place state; being ignored, abandoned, or left to wait awkwardly. Primarily heard in UK. _Well, don’t just sit there like cheese at four pence—speak up and say what’s on your mind!_  
@@ -478,6 +487,7 @@ __lose (one’s) spirit__ To lose one’s vigor, energy, hope, or resolve; to be
 __lose (one’s)/the way__ To become lost; to become unable to find the correct course forward. _Sarah lost her way home walking through the woods in the dead of night when the clouds obscured the stars overhead._  
 __lose no time (in) (doing something)__ To do something immediately or as expediently as possible. _Wow, Sarah lost no time finding a new boyfriend after she and Rob split up._  
 __lose track of (someone or something)__  
+__loss of face__ The state or circumstance of having lost the respect of other people, as due to having done something improper or unacceptable. _After my terrible loss of face in front of the in-laws, I knew I couldn’t return to their home for the foreseeable future._  
 __loud and clear__  
 __love handles__ ((love) handles, spare tyres, Dunlops disease, Dunlop Syndrome) _euphemism_ [So called because supposed to be grabbed by a partner in sexual intercourse.]  
 __lucky for you__  
@@ -485,6 +495,7 @@ __make a face__ :two::hammer:
 __make a fuss__  
 __make a long arm for (something)__ To extend one’s arm fully toward something; to reach out for something. _Mary’s new boyfriend made a long arm for the bottle of wine at the end of the table, helping himself to another glass._  
 __make good on (something)__ To fulfill an obligation, such as keeping a promise or paying a debt. _Tom made good on his pledge to donate $1,000. Bill refused to make good on his promise._  
+__make inroads__  
 __make it up__  
 __make no mistake__ :two::hammer:  
 __make the most of it__  
@@ -625,6 +636,8 @@ __on-site__
 __open game__ Being vulnerable or exposed to attack, criticism, or other negative consequences. _If we break the truce first, we are open game._  
 __out and about__ :dart: __1__ Away from one’s home or normal environment, especially to socialize, run errands, visit various places, etc. _I’m just out and about with Mary if you would like to come join us._ __2__ Well enough to come and go, especially after an illness. For example, _I’m glad to see you’re out and about again._  
 __over the finish line__ :three: To a state of completion or fulfillment, as at the end of some process, development, endeavor, etc. _We’ve been working 80-hour weeks to get this project over the finish line before December._  
+__pat on the back__ (pat (one) on the back) Praise given to a person for an achievement or a job well done. _Treating his daughter to ice cream was Joe’s way of giving patting her on the back after she won first place in the science fair._  
+__pay top dollar__  
 __pay tribute to (someone or something)__ To do something as a way of publicly showing respect or admiration for a particular person, group, or thing. _The movie pays tribute to an old adventure serial that ran on television in the mid-1930s._  
 __pin down__  
 __point the finger at (one)__  
@@ -636,6 +649,7 @@ __ring false__
 __ring true__  
 __rise to the occasion__ :two: To increase one’s effort in response to a challenging situation.  
 __road to recovery__  
+__ROFL__ _slang_ An initialism of “rolling on the floor laughing,” used in text messages and online communications to indicate that one thinks that something is very funny or ridiculous. Often lower case. _I just saw a monkey riding on the back of a pig! rofl_  
 __ruffle a few feathers__ To do something which annoys, irritates, or upsets other people. _I know my presentation about the effects of climate change is going to ruffle a few feathers, but I have got to raise awareness about this issue!_  
 __rumor mill__  
 __run afoul of (someone or something)__  
@@ -704,12 +718,14 @@ __shy away (from someone or something)__
 __shyster__ :smiling_imp::three: __1__ A practitioner of law who is unethical or immoral. [Think Saul Goodman from _Better call Saul_] _After the accident, I got calls from all sorts of shysters saying I could get rich if I let them sue the company on my behalf._ _Everyone knows she’s a total shyster who’ll go to any length to win her case._ __2__ By extension, someone of a dubious moral or legal standard; a suspected swindler, cheat, or fraud. _The shysters said the car was brand new, but it’s been having all sorts of problems ever since I bought it._  
 __sick at heart__  
 __sick__ _slang_ Excellent; superb. _He did some sick tricks on his skateboard._  
+__singe (one’s) wings__  
 __single file__ A line of things or people, one person or one thing wide. _Please get into single file._ _You have to march single file._  
 __single out__  
 __sinking feeling__ :dart::two: A feeling of dread indicating that something bad has happened or is about to happen. _As soon as I met him, I got a sinking feeling that he had bad intentions._  
 __sit still (for something)__ __2__ To fail or choose not to act in response to something; to endure or tolerate something passively or submissively. _I couldn’t just sit still for condescending, hypocritical remarks, so I gathered my things and walked right out of the building._  
 __sit up__  
 __sit well with someone__ To be acceptable to someone. _Your explanation of your absence doesn’t sit well with the president._ _The whole affair didn’t sit well with the manager._  
+__sitting pretty__  
 __situation__  
 __six in one, (and) half a dozen in the other__ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
 __size up__ To make an estimate, opinion, or judgment of someone or something. _Vader and Kenobi were sizing each other up._ _She sized up her opponent._ _He sized the location up._  
@@ -762,6 +778,7 @@ __spin doctor__ :smiling_imp: Someone who gives a twisted or deviously deceptive
 __split hairs__  
 __spoil for something__ _You are spoiling for a fight._ :es: te estás buscando pelea  
 __square off__  
+__squiggle__ :dart: Any writing that is sloppy to the point of illegibility. _I’d share my notes with you, but I don’t think you’d understand my squiggles._  
 __stakeout__  
 __stalk out__ To leave (some place) in a haughty, stiff, or threatening manner.  
 __stamp of approval__ An indication of endorsement or authorization of something.  
@@ -858,6 +875,7 @@ __the L-bomb__ An expression of romantic love for another, especially when said 
 __the law of the instrument__ See _Maslow’s hammer_.  
 __the light at the end of the tunnel__  
 __the likes of you__  
+__the likes of__  
 __the lion’s den__  
 __the name of the game__  
 __the nuts and bolts__  

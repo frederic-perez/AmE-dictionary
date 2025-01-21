@@ -65,12 +65,17 @@ __blizzard__ _n_
 __bloodletting__ _n_  
 __blooper__ _n_  
 __bob__ _v_ _I bobbed my eyebrows at them._  
+__breakout__ _n_  
+__buck__ _v_  
 __burrow__ _v_  
 __busybody__ _n_  
 __butcher<sup>1</sup>__ _n_  
 __butcher<sup>2</sup>__ _v_ :dart::two: __1__ To slaughter or prepare (animals) for market. __2__ To kill brutally or indiscriminately. __3__ :dart: To botch; bungle: _butcher a project; butchered the language._  
 __buzzcut__  
 __cachet__ _n_ /ka-SHAY/  
+__cackle<sup>1</sup>__ _vi_  
+__cackle<sup>2</sup>__ _vt_  
+__cackle<sup>3</sup>__ _n_  
 __cadge__ _v_  
 __calico__ _n_  
 __canasta__ _n_ A card game similar to rummy and played using two packs, where the object is to meld groups of the same rank.  
@@ -109,6 +114,7 @@ __closehanded__ _adj_ Covetous; penurious; stingy; closefisted.
 __clover__ _n_  
 __coalesce__ _v_  
 __cock__ _vt_ :dart::three: __3__ :dart: To tilt or turn up or to one side, usually in a jaunty or alert manner: _cocked an eyebrow in response to a silly question._  
+__cockeyed__ _adj_ Turned or twisted toward one side. _Syn_ askew, awry, lopsided, skew-whiff, wonky _He noticed that his tie was cockeyed and made sure to straighten it before meeting with the company executives._  
 __coerce__ _v_  
 __colander__ _n_ /KUH/KAH-luhn-duhr/ (cullender) A utensil with perforations, used for straining or draining foods.  
 __colonel__ _n_ :mega: /ˈkɜr nl/ /kur-nl/  
@@ -129,6 +135,7 @@ __converse__ _n_ :astonished: __1__ Something that is opposite or contrary. :es:
 __convivial__ _adj_ /kənˈvɪv i əl/  
 __countervail__ _v_ Oppose and mitigate the effects of by contrary actions. _Syn_ counteract, counterbalance, neutralize  
 __covenant__  
+__covet__ _v_ _You shall not covet your neighbor’s house; you shall not covet your neighbor’s wife, or anything that belongs to your neighbor._  
 __cow__ _vt_ To frighten or subdue with threats or a show of force. _Syn_ intimidate  
 __cower__ _v_  
 __coy__ _adj_  
@@ -151,9 +158,13 @@ __deceit__
 __defer__ _v_  
 __demesne__ _n_ :two::hammer: :es: tierras; heredad  
 __deus ex machina__ _n_ /DAY-us-eks-MAH-kih-nuh/ A deus ex machina is a character or thing that suddenly enters the story in a novel, play, movie, etc., and solves a problem that had previously seemed impossible to solve. _The introduction of a new love interest in the final act was the perfect deus ex machina for the main character’s happy ending._  
+__diffident__ _adj_ :dart: Lacking or marked by a lack of self-confidence; shy and timid: _He was too diffident to express his opinion._ :es: inseguro, cohibido  
 __dilatation__ _n_ The state of being stretched beyond normal dimensions. _Syn_ distention _He suffered from severe dilatation of the stomach, an abdominal swelling that left him writhing in pain._  
 __disbarment__ _n_  
 __dobro__ _n_ /doʊbroʊ/  
+__dogfight<sup>1</sup>__ _n_  
+__dogfight<sup>2</sup>__ _vi_  
+__dogfight<sup>3</sup>__ _vt_  
 __doublet__ _n_  
 __doyen__ _n_ :two: (doyenne) The senior member of a group, profession, or society. _Syn_ dean  
 __drawl__ _v_  
@@ -179,6 +190,7 @@ __duly__ _adv_ __1__ In a proper manner: _a duly appointed official._
 __dumbstruck__ _adj_ So shocked or astonished as to be rendered speechless. _Syn_ dumbfounded, flabbergasted, stupefied, thunderstruck  
 __dunlin__ _n_ /ˈdʌnlɪn/ A small bird with a long beak that lives near water.  
 __duodecimo__ _n_  
+__duplicity__ _n_ :dart::smiling_imp:  
 __dusky__ _adj_ :two: Characterized by little or inadequate light; shadowy. _Syn_ twilight, twilit  
 __duster__ _n_ :dart::camera: A loose coverall (coat or frock) reaching down to the ankles. _Syn_ gaberdine, smock  
 __dustpan__ _n_ :dart: :es: recogedor  
@@ -224,7 +236,7 @@ __flak vest__ _n_ A jacket containing metal plates for protection against flak. 
 __flapper__ _n_  
 __flash flood__ _n_ (flashflood) A sudden flood of great volume, usually caused by heavy rain.  
 __flashy__ _adj_  
-__flat__ _adv_ :dart: __3a__ Directly; completely: _went flat against the rules; flat broke._ __b__ Exactly; precisely: _arrived in six minutes flat._  
+__flat__ _adv_ :dart::two: __3a__ Directly; completely: _went flat against the rules; flat broke._ __b__ Exactly; precisely: _arrived in six minutes flat._  
 __flat-footed__ _adj_  
 __flaunt__ _v_  
 __fleck__ _n_  
@@ -240,6 +252,7 @@ __flounder__ _vi_
 __fluke__ _n_  
 __flunky__ _n_ :two::hammer:  
 __flyblown__ _adj_ Foul and run-down and repulsive. _Syn_ sordid, squalid _The gang met at a flyblown, grimy little bar on the edge of town to plan its next heist._  
+__foist__ _vt_  
 __fold<sup>1</sup>__ _vt_ __8a__ _informal_ To discontinue operating; close: They had to fold the company a year after they started it. __b__ Games To withdraw (one’s hand) in defeat, as by laying cards face down on a table.  
 __fold<sup>2</sup>__ _vi_  
 __folk__  
@@ -324,9 +337,11 @@ __Goodwill__ _n_ A charity organization that collect old clothes for resale.
 __gopher__ _n_ :es: ardilla  
 __gossamer__ _adj_ /GAH-suh-mer/ Something described as _gossamer_—such as a butterfly wing or a thin fabric—is very light or delicate.  
 __gouge__ _vt_  
+__gourmand__ _n_ /GOOR-mahnd/  
 __grandiloquence__ _n_ /gran-DIH-luh-kwunss/ _Grandiloquence_ is a formal word that refers to the use of extravagantly colorful or pompous language often in order to sound impressive and important.  
 __gravitas__ _n_ Seriousness or sobriety, as of conduct or speech.  
 __greasepaint__ _n_ Theatrical makeup, especially a preparation of grease mixed with colorings. _Groucho applied greasepaint to enhance his comedic disguise for the show._  
+__Greenland__ _n_ /ˈgrin lənd, -ˌlænd/ :es: Groenlandia  
 __grill pan__ _n_ :camera: A type of frying pan with raised ridges or grooves on the cooking surface that simulate the char marks of an outdoor grill.  
 __gripping__ _adj_ :es: con gancho  
 __groan__ _n_  
@@ -407,6 +422,7 @@ __infamous__ _n_ :two::hammer: _The Louisiana legal system is infamous for corru
 __inferno__ _n_  
 __infirm__ _adj_  
 __ingratiate__ _v_  
+__inimitable__ _adj_ /in-IM-it-uh-bul/ _Inimitable_ describes someone or something that is impossible to copy or imitate.  
 __inkling__  
 __interfere__ _v_  
 __interpenetrate__ _v_ Spread or diffuse through. _Syn_ imbue, permeate, pervade, diffuse, riddle, penetrate  
@@ -437,6 +453,7 @@ __jangle<sup>2</sup>__ _vt_ :dart::two: __1__ To cause to make a harsh discordan
 __jangle<sup>3</sup>__ _n_  
 __Janus word__ _n_ /ˈdʒeɪnəs wɜrd/ A word that has opposite or nearly opposite meanings, such as cleave and dust. (These are also called contronyms.) To cleave something can mean to adhere closely to that thing, but it can also mean its opposite: to split, divide, or cut off. As a verb, dust can refer to the removal of dust, or the addition of it. (Think dust the cookies with confectioners’ sugar.)  
 __jaundice__ _n_  
+__jaunty__  
 __Jenga__ _n_  
 __jerk__ _v_  
 __jerkwater__ _adj_ /JERK-waw-ter/  
@@ -456,6 +473,7 @@ __jumpy__ _adj_ __1__ Nervous or apprehensive. __2__ Moving jerkily or fitfully.
 __just-in-time__ _adj_  
 __juvenile<sup>1</sup>__ _adj_  
 __juvenile<sup>2</sup>__ _n_  
+__karen__ _n_ (derogatory) Any person, especially female, exhibiting an exaggerated sense of entitlement.  
 __kickstand__ _n_ __1__ A swiveling metal bar for holding a bicycle, motorcycle, or other two-wheeled vehicle upright when it is not being ridden.  
 __klaxon__ _n_ (claxon) [:scroll: From Klaxon, a trademark for a loud electric horn] A type of loud horn formerly used on motor vehicles.  
 __Knight Templar__ _n_  
@@ -622,6 +640,7 @@ __nibble__ _v_
 __nifty__ _adj_  
 __nigh__ _adj, adv, prep_ /naɪ/ An archaic, poetic, or dialect word for near.  
 __nightcap__ _n_  
+__nimble__ _adj_  
 __ninepins__ _n_  
 __nitrous__ _adj_  
 __nodule__ _n_  
@@ -634,6 +653,8 @@ __non-profit-making__ _adj_ Not yielding a profit, esp because organized or esta
 __nonplus__ _v_ /nahn-PLUS/ To _nonplus_ someone is to perplex them, or in other words, to cause them to be at a loss as to what to say, think, or do.  
 __nonplussed__ _adj_ :pencil2:  
 __noose__ _n_ :es: nudo corredizo, lazo, soga  
+__noose<sup>1</sup>__ _n_ :es: nudo corredizo; lazo; soga  
+__noose<sup>2</sup>__ _vt_ :es: coger con lazo  
 __notice__ _n_ :es: crítica  
 __noticeboard__ _n_ Bulletin board.  
 __notorious__  
@@ -656,11 +677,14 @@ __opine__ _v_ Express one’s opinion openly and without fear or hesitation. _Sy
 __opinionated__  
 __orderly__ _n_ __1__ An attendant who does routine, nonmedical work in a hospital. __2__ A soldier assigned to attend and perform various tasks for a superior officer.  
 __outskirts__ _n pl_  
+__outweigh__ _vt_  
 __overworked__ _adj_ :dart:  
 __pad__ _v_  
 __palisade__ _n_  
 __pallor__ _n_ A pale condition, esp when unnatural: _fear gave his face a deathly pallor._  
 __pander__ _v_ To say, do, or provide what someone wants or demands even though it is not proper, good, or reasonable.  
+__pantheon__ _n_  
+__parlay__ _vt_  
 __parry__ _v_  
 __pastiche__ _n_ /pass-TEESH/ _Pastiche_ refers to something (such as a piece of writing, music, etc.) that imitates the style of someone or something else. It can also refer to a work that is made up of selections from multiple other works, or it can be used as a synonym of _hodgepodge._  
 __patter__ _v_ Plausible glib talk (especially useful to a salesperson). _Syn_ line of gab, spiel  
@@ -703,6 +727,7 @@ __perspicacious__ _adj_
 __pertussis__ _n_ :two: /pəˈtʌsɪs/ _(Pathology)_ The technical name for _whooping cough_.  
 __pessary__ _n_ /ˈpɛs ə ri/  
 __pestilential__ _adj_ Likely to spread and cause an epidemic disease. _Syn_ pestiferous, plaguey  
+__pet parent__ _n_ A person who looks after a pet animal.  
 __petrichor__ _n_ :dart::astonished::two: /ˈpɛtrɪˌkɔː/ [:scroll: from Greek _petra_ stone + Greek myth _ichor_, the fluid said to flow in the veins of the gods]  
 __petrol station__ _n_ _Syn_ filling station, gas station, gasoline station  
 __petulant__ _adj_ :two::hammer:  
@@ -755,6 +780,7 @@ __ponderous__ _adj_ :two::hammer:
 __pontoon__ _n_  
 __pool__ _n_ __1a__ A game of chance, resembling a lottery, in which the contestants put staked money into a common fund that is later paid to the winner. __b__ A fund containing all the money bet in a game of chance or on the outcome of an event.  
 __popeye__ _n_ /ˈpɒpˌaɪ/  
+__portentous__ _adj_ Marked by pompousness; pretentiously weighty. _Syn_ overblown, pompous, grandiloquent, pontifical  
 __pounce__ _v_  
 __profiteer__ _n_ :astonished: One who makes excessive profits on goods in short supply.  
 __profiteering__ _n_ :astonished: _Syn_ extortion, exploitation, racketeering _There has been a wave of profiteering and corruption._  
@@ -898,6 +924,8 @@ __scowl__ _v_
 __scrap<sup>1</sup>__ _n_ __5__ :smiling_imp: A fight or scuffle. _Syn_ brawl  
 __scrap<sup>2</sup>__ _vt_  
 __scrap<sup>3</sup>__ _vi_ :smiling_imp: To fight, usually with the fists.  
+__scuffling<sup>1</sup>__ _adj_ Of or relating to fighting in a disorderly manner. _Scuffling sounds._  
+__scuffling<sup>2</sup>__ _n_ The act of fighting in a disorderly manner.  
 __secular__ _adj_ /SEK-yuh-ler/ _Secular_ describes things that are not spiritual; that is, they relate more to the physical world than the spiritual world. The word also carries the closely related meaning of “not religious.”  
 __sentient__ _adj_  
 __shamble<sup>1</sup>__ _vi_ :dart: To walk or move along in an awkward or unsteady way.  
@@ -905,10 +933,13 @@ __shamble<sup>2</sup>__ _n_ An awkward or unsteady walk.
 __shuffle__ _v_ __6__ (when _vi_, often foll by _into_ or _out of_) to move or cause to move clumsily: _he shuffled out of the door._ _He shuffled his way out of the room._  
 __sic__ _vt_ :dart: __1__ To turn on or attack: used only in commands, as to a dog. __2__ To urge (a dog) to attack. To urge or incite to hostile action; set: _sicced the dogs on the intruders._  
 __singe__ _vt_ __1__ To burn superficially or slightly; scorch. _To singe one’s clothes._ __2__ To burn the ends, nap, or the like, of (hair, cloth, etc.). __3__ To subject (a carcass) to flame in order to remove hair, bristles, feathers, etc.  
+__singeing__ _n_  
+__skiff__ _n_ :two: A flatbottom open boat of shallow draft, having a pointed bow and a square stern and propelled by oars, sail, or motor.  
 __skirmish__  
 __slaver__ _n_ __1__ Saliva drooling from the mouth. _Syn_ drivel, slabber, slobber, drool, dribble __2__ Senseless and effusive talk; drivel.  
 __smote__ _v_ Past tense and a past participle of smite.  
 __snicker__ _v_  
+__splurge__  
 __standoff__ _n_  
 __steed__ _n_ __1__ A horse, especially a spirited one. __2__ An animal used for riding: _the use of camels as steeds._  
 __stiff-person syndrome__ _n_ (SPS)  
