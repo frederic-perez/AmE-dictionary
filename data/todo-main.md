@@ -151,56 +151,6 @@ __cruelly__ _adv_ __1__ Excessively: _a cruelly bitter winter._ __2__ With cruel
 __cynicism__ _n_ /ˈsɪn əˌsɪz əm/  
 __daffovil__ _n_  
 __dainty__  
-__dais__ _n_ :four::hammer:  
-__dawdle__ _v_ :dart:  
-__dazzling__ _adj_  
-__deceit__  
-__defer__ _v_  
-__demesne__ _n_ :two::hammer: :es: tierras; heredad  
-__deus ex machina__ _n_ /DAY-us-eks-MAH-kih-nuh/ A deus ex machina is a character or thing that suddenly enters the story in a novel, play, movie, etc., and solves a problem that had previously seemed impossible to solve. _The introduction of a new love interest in the final act was the perfect deus ex machina for the main character’s happy ending._  
-__diffident__ _adj_ :dart: Lacking or marked by a lack of self-confidence; shy and timid: _He was too diffident to express his opinion._ :es: inseguro, cohibido  
-__dilatation__ _n_ The state of being stretched beyond normal dimensions. _Syn_ distention _He suffered from severe dilatation of the stomach, an abdominal swelling that left him writhing in pain._  
-__disbarment__ _n_  
-__dobro__ _n_ /doʊbroʊ/  
-__dogfight<sup>1</sup>__ _n_  
-__dogfight<sup>2</sup>__ _vi_  
-__dogfight<sup>3</sup>__ _vt_  
-__doublet__ _n_  
-__doyen__ _n_ :two: (doyenne) The senior member of a group, profession, or society. _Syn_ dean  
-__drawl__ _v_  
-__dread__ _v_ :two::hammer:  
-__dreaded__ _adj_  
-__dreadful__ _adj_  
-__dreadnought__ _n_ (dreadnaught)  
-__dreary__ _adj_  
-__dreg__ _n_ /drɛg/  
-__drifter__ _n_ :es: vagabundo  
-__drivel__ _n_ :dart: __1__ Saliva flowing from the mouth. __2__ :dart: Stupid or senseless talk. Nonsense; twaddle. _I’m not interested in his pornographic drivel._  
-__droll__ _adj_  
-__drollery__ _n_ A quaint and amusing jest. _Syn_ waggery  
-__drolly__  
-__drop handlebars__ _n_ Low curved handles on a bicycle.  
-__drub<sup>1</sup>__ _vt_ /drʌb/ __1__ To beat with a stick or the like; flog; thrash. __2__ To defeat decisively, as in a game or contest. __3__ To instil with force or repetition: _the master drubbed Latin into the boys._ To drive as if by flogging: _Grammar was drubbed into our heads._  
-__drub<sup>2</sup>__ _vi_ /drʌb/ To pound or drum.  
-__drub<sup>3</sup>__ _n_ /drʌb/ A blow with a heavy instrument, such as a stick.  
-__duck-footed__ _adj_  
-__duckblinds__  
-__duffel bag__ _n_  
-__duly__ _adv_ __1__ In a proper manner: _a duly appointed official._  
-__dumbstruck__ _adj_ So shocked or astonished as to be rendered speechless. _Syn_ dumbfounded, flabbergasted, stupefied, thunderstruck  
-__dunlin__ _n_ /ˈdʌnlɪn/ A small bird with a long beak that lives near water.  
-__duodecimo__ _n_  
-__duplicity__ _n_ :dart::smiling_imp:  
-__dusky__ _adj_ :two: Characterized by little or inadequate light; shadowy. _Syn_ twilight, twilit  
-__duster__ _n_ :dart::camera: A loose coverall (coat or frock) reaching down to the ankles. _Syn_ gaberdine, smock  
-__dustpan__ _n_ :dart: :es: recogedor  
-__duty solicitor__ _n_ (duty counsel, duty lawyer) A solicitor whose services are available to a person either suspected of, or charged with, a criminal offence free of charge (pro bono), if that person does not have access to a solicitor of their own and usually if it is judged by a means test that they cannot afford one. The system is operative in several Commonwealth countries, including the United Kingdom, Australia, New Zealand and Canada.  
-__earwitness__ _n_ /EER-wit-nis/ One who testifies or can testify to something heard.  
-__ebbing__ _n_ A gradual decline (in size or strength or power or number). _Syn_ ebb, wane _I felt a sudden great ebbing in the force, Luke._  
-__ebon<sup>1</sup>__ _adj_ :two: /ˈɛb ən/ __1__ Made of ebony. __2__ Black in color.  
-__ebon<sup>2</sup>__ _n_ :two: /ˈɛb ən/ Ebony.  
-__ecchymosis__ _n_ (_n pl_ ecchymoses) The medical term for a bruise.  
-__eddy__ _n_ /EDD-ee/ An eddy is a current of water or air running contrary to the main current, especially as a whirlpool. In figurative use, _eddy_ may also refer to a contrary or circular current of thought or policy.  
 __edgeways__  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
 __elusive__ _adj_ :mega: /ɪˈlu sɪv/  

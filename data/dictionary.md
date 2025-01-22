@@ -4856,7 +4856,7 @@ __daintily__ _adv_ _The little person broke one off and nibbled at it daintily._
 __dainty<sup>1</sup>__ _adj_ :four::hammer: _Dainty eyebrows._  
 __dainty<sup>2</sup>__ _n_  
 __daiquiri__ _n_ :mega:  
-__dais__ _n_ :six: A low platform for a lectern or throne. _Syn_ platform, stage, podium, stand _It is full of unusual plants surrounding a central stone dais._  
+__dais__ _n_ :nine::m: A low platform for a lectern or throne. _Syn_ platform, stage, podium, stand _It is full of unusual plants surrounding a central stone dais._  
 __daisy-chain<sup>1</sup>__ _v_ [:scroll: From allusion to a string of daisies tied together in a garland] /DAY-zee chayn/ To connect in a sequence, especially in a way such that one element latches on to the next (instead of being connected by another medium, such as a piece of thread).  
 __daisy-chain<sup>2</sup>__ _n_ An interlinked sequence of things, events, people, etc.  
 __dalai lama__ _n_ :mega:  
@@ -4934,7 +4934,7 @@ __Dauphin__ _n_ :three: Formerly, the eldest son of the King of France and direc
 __daven__ _vi_ To recite Jewish liturgical prayers.  
 __davenport__ _n_ :mega: /dăv′ən-pôrt′/ __2__ (Furniture) _US and Canadian_ A large sofa, esp one convertible into a bed.  
 __davit__ _n_ :two::hammer:  
-__dawdle__ _v_ :dart::four::hammer:  
+__dawdle__ _v_ :dart::five::hammer:  
 __dawn__ _v_  
 __day and age__  
 __day job__  
@@ -5010,7 +5010,7 @@ __decamp__ _v_ :two::hammer:
 __decant__ _v_ :two::hammer:  
 __decanter__ _n_ :three: A vessel used for decanting, especially a decorative bottle used for serving wine. _Syn_ carafe _Sir Percival was sitting at the table with a decanter of wine before him._  
 __decathlon__  
-__deceit__ _n_ :three::mega::hammer: /dɪˈsiːt/  
+__deceit__ _n_ :four::mega::hammer: /dɪˈsiːt/  
 __decelerate__ _v_  
 __December__ _n_ /dɪˈsɛm bər/  
 __decennary__ _n_ A period of 10 years. _Syn_ decade  
@@ -5086,7 +5086,7 @@ __defective__ _adj_
 __defector__ _n_ :five::hammer: _Army defectors._  
 __defenestration__ _n_ :three: /dee-fen-uh-STRAY-shun/ _Defenestration_ is most often used to refer to a usually swift dismissal or expulsion, as from a political party or office. It is also used to refer to a throwing of a person or thing out of a window. Defenestration originally meant “a throwing of a person or thing out of a window.” Today, it’s more often used for “a usually swift dismissal or expulsion (as from a political party or office).” _Michael’s annoyance at his alarm clock’s persistent drone led to its sudden defenestration from his eighth-floor bedroom._  
 __defensive__ _adj_ :two::hammer: _You seem defensive now._  
-__defer__ _v_ :seven: /dih-FER/ (deferred) To delay or cause to be delayed until a future time; postpone. To choose to do (something) at a later time. _She deferred her master’s program for a year so that she could travel the world._  
+__defer__ _v_ :eight: /dih-FER/ (deferred) To delay or cause to be delayed until a future time; postpone. To choose to do (something) at a later time. _She deferred her master’s program for a year so that she could travel the world._  
 __deference__ _n_ :seven::hammer: /DEF-uh-runss/  
 __deferential__  
 __deferentially__  
@@ -5162,6 +5162,7 @@ __démarche__ _n_ :two: /day-MARSH/ The word démarche refers to a course of act
 __demean__ _v_ :six: /dih-MEEN/ To demean someone or something is to cause that person or thing to seem less important or worthy of respect.  
 __demeaning__ _adj_ :two::hammer: _This job is demeaning._  
 __demeanor__ _n_ :four::mega: /dih-MEE-ner/ Demeanor refers to a person’s behavior toward other people. It is usually used in the singular. _The teacher’s quiet demeanor had a calming effect on the children._  
+__demesne__ _n_ :two::hammer: :es: tierras; heredad  
 __demigod__ _n_ :two: A person with great powers and abilities. _Syn_ superman, Ubermensch  
 __demilitarize__ _vt_  
 __demo__ _v_ :two: Short for demonstrate. _Google demoed its AI-powered search engine._ _We’ve just demoed Riffusion, an incredible AI song-creation tool!_  
@@ -5297,6 +5298,7 @@ __detractor__ _n_ :two::astonished: One who disparages or belittles the worth of
 __detriment__ _n_ A damage or loss. _Syn_ hurt _Her employers were understanding, and she was able to take a long leave of absence without detriment to her career._  
 __detrimental__ _adj_ :three::hammer:  
 __detritus__ _n_ :two: The remains of something that has been destroyed or broken up. _Syn_ debris, rubble _The streets of the new town were built over the detritus of past habitations._  
+__deus ex machina__ _n_ /DAY-us-eks-MAH-kih-nuh/ A deus ex machina is a character or thing that suddenly enters the story in a novel, play, movie, etc., and solves a problem that had previously seemed impossible to solve. _The introduction of a new love interest in the final act was the perfect deus ex machina for the main character’s happy ending._  
 __devastate__ _v_  
 __devastated__ _adj_ Very shocked and upset by something.  
 __develop__ _v_ :mega:  
@@ -5367,7 +5369,7 @@ __dieresis__ _n_ /daɪˈɛrɪsɪs/ _Syn_ umlaut
 __differ__ _v_ :three::mega::hammer:  
 __different animal__ _n_ Something different.  
 __diffidence__ _n_ :four: The quality or state of being diffident; timidity or shyness. _Syn_ self-distrust, self-doubt _The youth sat down as directed, but reluctantly and with diffidence._ _He spoke with a certain diffidence._  
-__diffident__ _adj_ :five::dart: Lacking or marked by a lack of self-confidence; shy and timid. _Syn_ unsure _He was too diffident to express his opinion._ _Because she was only a first-year student, she was diffident when offering a comment on the professor’s lecture._  
+__diffident__ _adj_ :dart::six: Lacking or marked by a lack of self-confidence; shy and timid. _Syn_ unsure :es: inseguro, cohibido _He was too diffident to express his opinion._ _Because she was only a first-year student, she was diffident when offering a comment on the professor’s lecture._  
 __diffidently__  
 __dig<sup>1</sup>__ _n_ _volleyball_ _The Trailblazers got 14 kills and 20 digs from Delayne Daniel._  
 __dig<sup>2</sup>__ _v_ _We dug into the research._  
@@ -5383,6 +5385,7 @@ __digs__ _n_ _Sherman took digs at the NFL during a news conference._
 __dike__ _n_ :pencil2: (dyke)  
 __dilapidate__ _v_ :four::hammer:  
 __dilapidated__ _adj_ Decayed, deteriorated, or fallen into partial ruin especially through neglect or misuse. Falling to pieces or in a state of disrepair; shabby. _Dilapidated house._ _Dilapidated yatch._  
+__dilatation__ _n_ The state of being stretched beyond normal dimensions. _Syn_ distention _He suffered from severe dilatation of the stomach, an abdominal swelling that left him writhing in pain._  
 __dilation__ _n_ :mega: /daɪˈleɪ ʃən, dɪ-/  
 __dilatory__ _adj_ /DILL-uh-tor-ee/ __1__ Tending or intended to cause delay. _The councilor’s seemingly endless motions to adjourn were clearly dilatory._ _She tends to be dilatory in answering letters._ __2__ Tending to procrastinate or be late.  
 __dilemma__ _n_ :two::hammer::pencil2: /dɪˈlɛmə; daɪ-/  
@@ -5467,6 +5470,7 @@ __disastrous__ _adj_ :two::hammer:
 __disavow__ _v_ :four: /dis-uh-VOW/ __1__ To deny responsibility for; repudiate. __2__ To refuse to acknowledge or accept; disclaim.  
 __disbar<sup>1</sup>__ _n_ _Disbar attorney._  
 __disbar<sup>2</sup>__ _vt_ :four::hammer: (disbarred)  
+__disbarment__ _n_  
 __disbelief__ _n_  
 __disbeliever__ _n_ Someone who refuses to believe (as in a divinity).  
 __disbursement__ _n_ /diss-BERSS-munt/ A _disbursement_ is a payout of money from a fund that has been created for a special purpose. _Disbursement_ can also refer to the money that is paid out. _The company has made large disbursements for research._  
@@ -5664,6 +5668,7 @@ __do__ _v_ _5_ _vt_ To make tidy, elegant, ready, etc, as by arranging or adorni
 __do-gooder__  
 __doable__ _adj_ :two::hammer: _It was not a lot of time but it was doable._  
 __Doberman__ _n_ A large dog of a German breed with powerful jaws and a smooth coat, typically black with tan markings.  
+__dobro__ _n_ /doʊbroʊ/  
 __doc__ _n_ _informal_ :two::hammer: (doc)  
 __docent__ _n_ :five: (docents)__2__ A knowledgeable guide, esp. one who conducts visitors through a museum, cathedral, art gallery, etc. _Special docent-guided tours can be arranged in advance._  
 __docile__ _adj_ :three: /DAH-sul/ __1__ Easily taught. __2__ Easily led or managed.  
@@ -5698,7 +5703,9 @@ __dog-eat-dog__ _adj_ Marked by ruthless self-interest.
 __dog-tired__ _adj_ :two: Drained of energy or effectiveness; extremely tired; completely exhausted. _Syn_ fagged, fatigued, played out, washed-out, worn out, spent _I can see myself now, worn out and dog-tired after the long day, lying on the mats of the palace veranda._  
 __dog<sup>1</sup>__ _n_ :astonished: __5a__ _informal_ A person: _You won, you lucky dog._ __b__ A person regarded as contemptible: _You stole my watch, you dog._  
 __dog<sup>2</sup>__ _v_ :five::hammer::astonished: _Injury concerns still dog Clowney._ _The demons dogging Mardy Fish won’t be any quieter as he resumes his career in the Paribas Open._  
-__dogfight__ _n_ __2__ _An aerial battle between fighter planes._  
+__dogfight<sup>1</sup>__ _n_ :two: __2__ _An aerial battle between fighter planes._  
+__dogfight<sup>2</sup>__ _vi_  
+__dogfight<sup>3</sup>__ _vt_  
 __dogged__ _adj_ :five::dart: Obstinately determined; wilful or tenacious. Marked by stubborn determination: _a dogged competitor; dogged devotion._ _Dogged persistence._  
 __doggedly__ _adv_ :two::hammer:  
 __doggerel__ _n_ :three: Crudely or irregularly fashioned verse, often of a humorous or burlesque nature. _Syn_ jingle _I want the man I love and honor to be something finer and higher than a perpetrator of jokes and doggerel._  
@@ -5801,7 +5808,7 @@ __double-decker__ _n_ :two::hammer: _Double-decker bus._
 __double-dip__ _v_ _He double dips._  
 __double-edged__ _adj_ _Double-edged sword._  
 __double-take__ _n_ :five::hammer: _I’m sure you’ve done a double-take on an argument that was actually an output rather than an input._ _Output arguments often cause us to do a double-take._  
-__doublet__ _n_ :camera:  
+__doublet__ _n_ :two::hammer::camera:  
 __doubly__  
 __doubt__ _n, v_ :three::hammer::mega::mute:[dou~~b~~t] /daʊt/  
 __doubting Thomas__ _n_  
@@ -5859,8 +5866,8 @@ __dowry__ _n_ :six::hammer: (dowries) :es: dote
 __dowse__ _vi_ (douse) _Dowsing with a pendulum._  
 __dowsing__ _n_ The practice of prospecting for water or minerals using a divining rod. _Syn_ dowse, rhabdomancy  
 __doxing__ _n_ (doxxing) [:scroll: From the word _docs_ (short for _documents_)] The act of publishing someone’s personal information or revealing their identity without their consent. Doxing is often done in an attempt to intimidate someone by invading their privacy and causing them to fear for their safety, especially due to the threats they often receive after having been doxed.  
-__doyen__ _n_ The senior member, as in age or experience, of a group, profession, etc.  
-__doyenne__  
+__doyen__ _n_ :four: (doyenne) The senior member, as in age or experience, of a group, profession, etc. _Syn_ den  
+__doyenne__ _n_ See _doyen_.  
 __doze<sup>1</sup>__ _n_  
 __doze<sup>2</sup>__ _v_ :two::hammer:  
 __dozy__  
@@ -5905,23 +5912,28 @@ __draw<sup>1</sup>__ _n_ :two::hammer: _Homeless camps are a draw._ _The main dr
 __draw<sup>2</sup>__ _v_ :three::hammer: _The large dataset is helping to draw global comparisons._ _I’ll draw some blood to be sure._ _We win, lose and draw together._  
 __drawbridge__ _n_ :three::hammer:  
 __drawingrooms__  
-__drawl<sup>1</sup>__ _v_ :three::hammer: (drawled)  
+__drawl<sup>1</sup>__ _v_ :four::hammer:  
 __drawl<sup>2</sup>__ _n_ :seven: The way of speech of someone who drawls. _A slow Southern drawl._ _He was from Texas and spoke with a slight drawl._  
 __drawn-out__ _adj_ :three: Relatively long in duration; tediously protracted. Protracted. _Are you tired of long and drawn-out meetings that seem to go nowhere?_  
 __drawstring__ _n_  
 __dray<sup>1</sup>__ _n_ :three::hammer: (drays) _Dray horse._  
 __dray<sup>2</sup>__ _v_ :two::hammer:  
 __drayman__  
+__dread__ _v_ :two::hammer:  
 __dread<sup>1</sup>__ _n_  
 __dread<sup>2</sup>__ _v_ :five::hammer: _Do you dread giving presentations in English?_  
 __dread<sup>3</sup>__ _adj_  
+__dreaded__ _adj_  
+__dreadful__ _adj_  
+__dreadnought__ _n_ (dreadnaught)  
 __dreamboat__ _n_  
 __dreamy__ _adj_ :four: __4__ _informal_ Inspiring delight; wonderful.  
+__dreary__ _adj_  
 __dredge up__ _phr v_ :five: __1__ Mention something unpleasant from the past. __2__ To unearth or bring to notice. _We dredged up some old toys from the bottom of the trunk._ __3__ To locate and reveal by painstaking investigation or search. _Biographers excel at dredging up little known facts._  
 __dredge<sup>1</sup>__ _v_ :four::hammer: (dredged) _They dredged mud._  
 __dredge<sup>2</sup>__ _n_ :two: (dredges) An apparatus for bringing up objects or mud from a river or seabed by scooping or dragging. :es: draga  
 __dredger__  
-__dreg__ _n_ :eight: (often dregs) __1__ The sediment in a liquid, such as wine or coffee. _Retrieve dregs from the cup._ __2__ The basest or least desirable portion: _the dregs of humanity._ _Away from the dregs and junkies._ _The whole mass of scum and dregs of society._ __3__ A small amount; a residue.  
+__dreg__ _n_ :nine: /drɛg/ (often dregs) __1__ The sediment in a liquid, such as wine or coffee. _Retrieve dregs from the cup._ __2__ The basest or least desirable portion: _the dregs of humanity._ _Away from the dregs and junkies._ _The whole mass of scum and dregs of society._ __3__ A small amount; a residue.  
 __dreidel__ _n_ __1__ A 4-sided toy marked with Hebrew letters and spun like a top in a game of chance. __2__ A children’s game of chance played especially at Hanukkah with a dreidel.  
 __drench__ _v_ :four::hammer: (drenched)  
 __drenched__ _adj_  
@@ -5936,7 +5948,7 @@ __dressing__ _n_ :two::hammer: _It’s going to take longer to get to that turke
 __dribble__ _v_ :three::hammer: :es: regatear  
 __driblet__ _n_ A small quantity (especially of a liquid). _Syn_ drop _A driblet of water escaped from the corner of her mouth._  
 __drift__ _n_ :two::hammer: _You get the drift._  
-__drifter__ _n_ :seven::hammer:  
+__drifter__ _n_ :eight::hammer: :es: vagabundo  
 __drifting__  
 __driftwood__ _n_ :two::hammer: _Driftwood logs._  
 __drill down__ _v_  
@@ -5949,7 +5961,7 @@ __drive__ _n_ :four::hammer: _Inner drive._ _The drive by Senate Democrats to ch
 __drive-by<sup>1</sup>__ _adj_  
 __drive-by<sup>2</sup>__ _n_  
 __drive-up__ _adj_ Designed to permit customers to remain in their motor vehicles while being accommodated: _a drive-up window at the bank._ _Drive-up motels._  
-__drivel__ _n_ :dart::four: /ˈdrɪvəl/ __1__ Foolish or senseless talk. _Syn_ nonsense, rubbish, garbage _I was hoping my teacher would not actually listen to my presentation, because I knew it was absolute drivel, but the “F” on my transcript was proof that I had not fooled anyone._ __2__ Saliva spilling from the mouth. _Syn_ slobber, dribble, drool  
+__drivel__ _n_ :dart::five: /ˈdrɪvəl/ __1__ Foolish or senseless talk. Stupid or senseless talk. Nonsense; twaddle. _Syn_ nonsense, rubbish, garbage _I was hoping my teacher would not actually listen to my presentation, because I knew it was absolute drivel, but the “F” on my transcript was proof that I had not fooled anyone._ _I’m not interested in his pornographic drivel._ __2__ Saliva spilling from the mouth. Saliva flowing from the mouth. _Syn_ slobber, dribble, drool  
 __driven snow__ _n_ Snow which has been moved by wind and collected into snowdrifts. _His nephew was pure as the driven snow._  
 __driver__ _n_ _(golf)_  
 __driver’s seat__ _n_ :dart: A position of control or authority.  
@@ -5961,7 +5973,9 @@ __drizzle<sup>2</sup>__ _n_
 __drizzly__ _adj_ :two::hammer:  
 __drogue parachute__ _n_  
 __droit du seigneur__  
-__droll__ _adj_ :six: Curious or unusual in a way that provokes dry amusement. _There is room for droll comedy._ _Droll comic moments._ _A droll sense of humor._  
+__droll__ _adj_ :dart::seven: Curious or unusual in a way that provokes dry amusement. _There is room for droll comedy._ _Droll comic moments._ _A droll sense of humor._ :es: gracioso, divertido  
+__drollery__ _n_ A quaint and amusing jest. _Syn_ waggery  
+__drolly__  
 __drone<sup>1</sup>__ _n_ _The drone of an outboard motor reverberated._  
 __drone<sup>2</sup>__ _v_  
 __drool__ _vi_ __1__ To water at the mouth, as in anticipation of food; salivate; drivel. __2__ To show excessive pleasure or anticipation of pleasure. __3__ To talk foolishly.  
@@ -5969,6 +5983,7 @@ __droolworthy__ _adj_ _Droolworthy shawarna._
 __droop__ _n_ /dro͞op/ A fleshy fruit, such as a peach, plum, or cherry, usually having a single hard stone that encloses a seed. Also called stone fruit.  
 __drop by__ _phr v_ :two: To stop in for a short visit.  
 __drop dead__  
+__drop handlebars__ _n_ Low curved handles on a bicycle.  
 __drop out__  
 __drop shot__ _n_ (dropshot) __1a__ _tennis_ A softly-played return that drops abruptly after clearing the net, intended to give an opponent no chance of reaching the ball and usually achieved by imparting backspin.  
 __drop__ _n_  
@@ -5984,7 +5999,9 @@ __drown out__
 __drown__ _v_ (drowns)  
 __drowse__ _v_ To be or cause to be sleepy, dull, or sluggish.  
 __drowsy__  
-__drub__ _v_ :two::hammer:  
+__drub<sup>1</sup>__ _vt_ /drʌb/ :three: __1__ To beat with a stick or the like; flog; thrash. __2__ To defeat decisively, as in a game or contest. __3__ To instil with force or repetition: _the master drubbed Latin into the boys._ To drive as if by flogging: _Grammar was drubbed into our heads._  
+__drub<sup>2</sup>__ _vi_ /drʌb/ :three: To pound or drum.  
+__drub<sup>3</sup>__ _n_ /drʌb/ A blow with a heavy instrument, such as a stick.  
 __drubbing__ _n_ :three::dart: (drubbings) __1__ A beating; a sound thrashing. __2__ A decisive, humiliating defeat, as in a game or contest. _The Knights have improved since receiving a drubbing from the Miners._  
 __drudge<sup>1</sup>__ _n_ :two: A person who does tedious, menial, or unpleasant work. _Syn_ navvy, peon, galley slave _Picking up after my ungrateful kids every day makes me feel like little more than a household drudge._  
 __drudge<sup>2</sup>__ _v_ To do hard, menial, or monotonous work.  
@@ -6020,6 +6037,8 @@ __duchy__ _n_ :three::hammer:
 __duck down__ _n_ Down of the duck. _The pillow contains 30 percent duck down and 70 percent duck feathers._  
 __duck reuben sandwich__  
 __duck__ _v_ __1__ Lower the head or the body quickly to avoid a blow or missile or so as not to be seen. _Spectators ducked for cover._ _Syn_ bob down, bend (down) __2__ _informal_ Evade or avoid (an unwelcome duty or undertaking). _A responsibility which a less courageous man might well have ducked._ _Syn_ shirk, dodge, evade, avoid __3__ :dart: Push or plunge (someone) under water, either playfully or as a punishment. _Rufus grabbed him from behind to duck him under the surface._ _Syn_ dip, dunk, plunge, immerse, submerge, lower, sink :es: hacer ahogadillas  
+__duck-footed__ _adj_  
+__duckblinds__  
 __duckboard__ _n_ :three: (duckboards) A board or boards laid so as to form a floor or path over wet or muddy ground.  
 __duckling__ _n_ (ducklings) A young duck.  
 __duckweed__  
@@ -6040,7 +6059,7 @@ __due<sup>2</sup>__ _n_
 __due<sup>3</sup>__ _adv_ :two: Straight; directly. _Go due west._ _They travelled due south._  
 __duel__ _n_ :mega:  
 __duende__  
-__duffel bag__ _n_ :four::dart::camera: (duffle bag) A large cylindrical cloth bag of canvas or duck for carrying personal belongings.  
+__duffel bag__ _n_ :dart::five::camera: (duffle bag) A large cylindrical cloth bag of canvas or duck for carrying personal belongings.  
 __duffer__ _n informal_ :six: An incompetent or stupid person. _A complete duffer at languages._ _Syn_ bungler, blunderer, incompetent, fool, idiot _Wealthy duffers._  
 __duffle bag__ _n_ :dart: A large cylindrical cloth bag of canvas or duck for carrying personal belongings.  
 __duffle coat__  
@@ -6052,12 +6071,12 @@ __dull<sup>1</sup>__ _adj_ :three::hammer: /dʌl/ _Never a dull moment._
 __dull<sup>2</sup>__ _v_ :two::hammer: _It dulls thinking._ _Spend less time with people who dull you._  
 __dullard__ _n_ :two: A person regarded as mentally dull. _Syn_ dolt, pillock, poor fish, pudding head  
 __dully__ _adv_  
-__duly__ _adv_ :five::hammer: _Couples duly married._ _Duly noted._ (:es: correctly or appropriately recorded)  
+__duly__ _adv_ :six: __1__ In a proper manner: _a duly appointed official._ _Couples duly married._ _Duly noted._ (:es: correctly or appropriately recorded)  
 __Dum Dums__ _n_ Spherical lollipops, invented in 1924.  
 __dumb__ _adj_ :four::hammer::mega::mute:[dum~~b~~] _Dumb jokes._  
 __dumbbells__ _n_ :two: (dumbbell, dumb-bell) A short bar with a weight at each end, used typically in pairs for exercise or muscle-building. :es: mancuernas  
 __dumbfound__ _v_ :four::hammer: (dumbfounded) _This swaggering gesture by a petty German prince, ruler of a narrow territory, dumbfounded the court._  
-__dumbstruck__ _adj_ :two::hammer:  
+__dumbstruck__ _adj_ :three: So shocked or astonished as to be rendered speechless. _Syn_ dumbfounded, flabbergasted, stupefied, thunderstruck  
 __dumbwaiter__ _n_ A small elevator used to convey food (or other goods) from one floor of a building to another. _Syn_ food elevator  
 __dummy__ _n_  
 __dump<sup>1</sup>__ _n_ :two::hammer: __3__ An unordered accumulation; a pile. _A munitions dump._  
@@ -6071,27 +6090,31 @@ __dung fork__ _n_
 __dung__ _n, v_  
 __dungaree__ _n_ :eight: (dungarees) A sturdy, often blue denim fabric. _Syn_ jean, denim _The men in black dungarees stood motionless._  
 __dunk tanks__  
+__dunlin__ _n_ /ˈdʌnlɪn/ A small bird with a long beak that lives near water.  
 __Dunning-Kruger effect__ _n_ A hypothetical cognitive bias stating that people with low ability at a task overestimate their ability.  
 __dunno__  
 __duo__  
+__duodecimo__ _n_  
 __dupe__ _n_ _A dupe of a president._  
 __duped__ _v_ :six::hammer: _He had been duped by her._ _Putin feels that the West duped Russia into de facto sanctioning international intervention in Libya._ _Settlers duped, children abandoned, Indians deported._  
 __duplex__ _n_ :two::hammer: (duplexes)  
 __duplicitous__ _adj_ :four::smiling_imp: Given to or marked by deliberate deceptiveness in behavior or speech. _A duplicitous cigarette industry._  
-__duplicity__ _n_ :dart::smiling_imp: /doo-PLISS-uh-tee/ Duplicity is a formal word that refers to dishonest behavior meant to trick or deceive someone.  
+__duplicity__ _n_ :dart::two::smiling_imp: /doo-PLISS-uh-tee/ Duplicity is a formal word that refers to dishonest behavior meant to trick or deceive someone.  
 __durable<sup>1</sup>__ _adj_ :four: /DUR-uh-bul/ _Durable_ describes people or things that last, or remain strong and in good condition over a long period of time. It is often used figuratively, as in “a durable athlete.” _The end of durable Red John story line is a new beginning._  
 __durable<sup>2</sup>__ _n_  
 __duration__  
 __duress__ _n_ :nine::m: /dur-RESS/ __1__ Compulsion by use of force or threat; constraint; coercion (often in the phrase _under duress_). _The ability to think under duress._ _The defense asserts that the defendant’s confession was made under duress._ __2__ (Law) The illegal exercise of coercion. __3__ Confinement; imprisonment.  
+__dusky__ _adj_ :two: Characterized by little or inadequate light; shadowy. _Syn_ twilight, twilit  
 __dust devils__  
 __dust jacket__ _n_ (dust cover, book jacket, jacket) A removable paper cover used to protect the binding of a book. _A wraparound dust jacket._  
-__dusters__ _n_ _My grandad sold dusters._  
+__duster__ _n_ :dart::two::camera: A loose coverall (coat or frock) reaching down to the ankles. _Syn_ gaberdine, smock _My grandad sold dusters._  
 __dustman__  
-__dustpan__ _n_ :two::hammer: :es: recogedor  
+__dustpan__ _n_ :dart::three::hammer::camera: :es: recogedor  
 __dustup__ _n_ An angry dispute. _Syn_ quarrel, run-in, wrangle, row, words _The teacher put a stop to the boys’ dustup before it could come to blows._  
 __dusty__ _adj_ _A dusty brand._  
 __Dutch oven__ _n_ :two::hammer:  
 __Dutch__ _adj_ _Dutch licorice._  
+__duty solicitor__ _n_ (duty counsel, duty lawyer) A solicitor whose services are available to a person either suspected of, or charged with, a criminal offence free of charge (pro bono), if that person does not have access to a solicitor of their own and usually if it is judged by a means test that they cannot afford one. The system is operative in several Commonwealth countries, including the United Kingdom, Australia, New Zealand and Canada.  
 __duty__ _n_ :three::hammer: __3__ A tax charged by a government, especially on imports. _Freeze on alcohol duty extended to February, 2025._ _Characteristic Roman inventions were concrete for building and the import duty, the last having originated as a piece of emergency taxation during the Second Punic War._  
 __dwadle__ _v_ __1__ Walk slowly, lag behind. __2__ To spend time idly.  
 __dwell__ _v_ :three::hammer:  
@@ -6152,6 +6175,7 @@ __earthshine__ _n_ :two: The sunlight reflected from the earth’s surface that 
 __earthworks__ _n_  
 __earthy__ _adj_  
 __earwig__  
+__earwitness__ _n_ /EER-wit-nis/ One who testifies or can testify to something heard.  
 __earworm__ _n_ :three: _informal_ /ˈɪəˌwɜːm/ A song that gets stuck in your head; also called sticky tune.  
 __ease__ _v_ :astonished: _He started easing a set of levers._  
 __easement__  
@@ -6170,11 +6194,15 @@ __ebb and floor__
 __ebb and flow__ _n_ :seven: (ebbed and flowed, ebbs and flows) Used to describe something that changes in a regular and repeated way. _The ebbs and flows of life._  
 __ebb<sup>1</sup>__ _n_ _A noticeable ebb of despair._  
 __ebb<sup>2</sup>__ _v_ :two::hammer: _My confidence was ebbing._  
+__ebbing__ _n_ A gradual decline (in size or strength or power or number). _Syn_ ebb, wane _I felt a sudden great ebbing in the force, Luke._  
+__ebon<sup>1</sup>__ _adj_ :two: /ˈɛb ən/ __1__ Made of ebony. __2__ Black in color.  
+__ebon<sup>2</sup>__ _n_ :two: /ˈɛb ən/ Ebony.  
 __ebullience__ _n_  
 __ebullient__ _adj_ :seven: /ih-BULL-yunt/ Overflowing with fervor, enthusiasm, or excitement; high-spirited. Very happy and enthusiastic. Zestfully enthusiastic. _Syn_ exuberant, high-spirited _The ebullient young scientist couldn’t wait to share their latest discovery._  
 __ebullition__ _n_ An unrestrained expression of emotion. _Syn_ effusion, outburst, blowup, gush  
 __eccentric__ _adj_ /ik-SEN-trik/ __1__ People and things that deviate from conventional or accepted usage or behavior, especially in odd or whimsical ways. _Down the road from us lives an eccentric old man who claims that he can communicate with the birds that roost in his yard._ __2__ Deviating from a circular path. _The dwarf planet Pluto has a particularly eccentric orbit._ __3__ Located elsewhere than at the geometric center.  
 __eccentricity__ _n_  
+__ecchymosis__ _n_ (_n pl_ ecchymoses) The medical term for a bruise.  
 __echelon__ _n_ :two::hammer: /ESH-uh-lahn/ _The upper echelons of the State Security force._  
 __echo chamber__ _n_ :four: __2__ An institution or environment in which one set of views predominates and dissenting viewpoints are squelched, ridiculed, or ignored. __3__ A group of bloggers that repeat and reinforce each others opinions.  
 __echo__ _n, v_ :mute:[ec~~h~~o]  
@@ -6197,7 +6225,7 @@ __eczema__ _n_ A noncontagious inflammation of the skin, characterized chiefly b
 __ED prescription__  
 __edacious__ _adj_ Characterized by voracity; devouring. _Syn_ ravenous, voracious, wolfish, esurient, rapacious, ravening _The edacious vultures soon devoured the animal’s remains._  
 __edamame__ _n_  
-__eddy__ _v_ _Water eddies and cascades._  
+__eddy__ _n_ :two: /EDD-ee/ An eddy is a current of water or air running contrary to the main current, especially as a whirlpool. In figurative use, _eddy_ may also refer to a contrary or circular current of thought or policy. _Water eddies and cascades._  
 __edema__ _n_ An excessive accumulation of serous fluid in tissue spaces or a body cavity.  
 __edge__ _v_ :dart::five: Advance slowly, as if by inches. _He edged closer to the door._ _A Swiss startup is edging closer to collecting space trash._  
 __edgy__ _adj_ :five::hammer: _Aaron has got a style that’s humble but edgy._  
