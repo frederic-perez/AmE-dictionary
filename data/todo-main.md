@@ -39,6 +39,8 @@ __approach__ _n_ :es: actitud
 __aquaplaning__ _n_ :pencil2:  
 __aquiline__ _adj_  
 __arbiter__ _n_ One chosen or appointed to judge or decide a disputed issue. _Syn_ arbitrator, umpire  
+__arctic<sup>1</sup>__ _adj_ __1__ Of or relating to the Arctic: _arctic temperatures._ __2__ _informal_ Cold; freezing: _the weather at Christmas was arctic._  
+__arctic<sup>2</sup>__ _n_  
 __armamentarium__ _n_ :astonished: _(Medicine)_ The items that comprise the material and equipment used by a physician in his professional practice.  
 __armistice__ _n_ /AHR-muh-stus/  
 __Arthur__ _n_ A legendary king of the Britons whose story is based on traditions of a sixth century military leader.  
@@ -56,6 +58,7 @@ __beetle<sup>1</sup>__ _n_
 __beetle<sup>2</sup>__ _adj_ Projecting; overhanging: _beetle brows._  
 __beetle<sup>3</sup>__ _v_ To project or overhang. _His brow beetled._  
 __belatedly__ _adv_ Later than usual or than expected.  
+__belay__ _v_ :es: amarrar  
 __beleaguer__ _v_ /bih-LEE-gur/ To beleaguer a person, business, etc. is to cause them constant or repeated trouble. _Beleaguer_ is also sometimes used as a synonym of besiege.  
 __bereaved__ _adj_  
 __better<sup>3</sup>__ _n_ (bettor) A person who bets.  
@@ -66,6 +69,7 @@ __bloodletting__ _n_
 __blooper__ _n_  
 __bob__ _v_ _I bobbed my eyebrows at them._  
 __breakout__ _n_  
+__brumal__ _adj_ :astonished: Of, characteristic of, or relating to winter; wintry.  
 __buck__ _v_  
 __burrow__ _v_  
 __busybody__ _n_  
@@ -257,6 +261,7 @@ __gasp<sup>1</sup>__ _v_
 __gasp<sup>2</sup>__ _n_ __1__ A short convulsive intake of breath.  
 __gateway__ _n_ __2__ Something that serves as an entrance or a means of access: _a gateway to success; the gateway to the West._  
 __gaunt__ _adj_ :two::hammer: _Two enormous gaunt wolves._  
+__gelation__ _n_ __1__ Solidification by cooling or freezing. __2__ The process of forming a gel.  
 __gelid__ _adj_ /JELL-id/ Something described as gelid, such as the weather or a person’s demeanor, is literally or figuratively extremely cold or icy.  
 __general practitioner__ _n_ (GP) _Syn_ family doctor  
 __genteelism__ _n_ /jen-TEE-liz-uhm/ The substitution of a word that is believed to be more polite or refined. For example, washroom for lavatory.  
@@ -351,6 +356,7 @@ __heavenward<sup>1</sup>__ _adv_ (also heav′enwards) Toward heaven.
 __heavenward<sup>2</sup>__ _adj_ Directed towards heaven or the sky.  
 __heinous__ _adj_ /HAY-nus/ _Heinous_ describes things—such as acts, deeds, or crimes—that are hatefully or shockingly evil, or in other words, deserving of hate or contempt.  
 __hexenwolf__ _n_ [:scroll: _Hexen_ comes from the German word for “witches” (plural form of Hexe), often associated with magic, the occult, or witchcraft] A witch that transforms into a wolf or have wolf-like traits.  
+__hoarfrost__ _n_ A layer of white frost.  
 __homily__ _n_  
 __honorable discharge__ _n_ :two: Discharge from the armed forces with a commendable record.  
 __hospital radio__ _n_ A form of audio broadcasting produced specifically for the in-patients of hospitals, primarily in the United Kingdom. Hospital radio has been found to be beneficial to patients, lifting their mood and aiding recovery.  
@@ -602,6 +608,7 @@ __non-negotiable__ _adj_ :two: Not open to negotiation or discussion: _the polic
 __non-profit-making__ _adj_ Not yielding a profit, esp because organized or established for some other reason: _a non-profit-making organization._  
 __nonplus__ _v_ /nahn-PLUS/ To _nonplus_ someone is to perplex them, or in other words, to cause them to be at a loss as to what to say, think, or do.  
 __nonplussed__ _adj_ :pencil2:  
+__nontrivial__ _adj_  
 __noose__ _n_ :es: nudo corredizo, lazo, soga  
 __noose<sup>1</sup>__ _n_ :es: nudo corredizo; lazo; soga  
 __noose<sup>2</sup>__ _vt_ :es: coger con lazo  
@@ -616,14 +623,14 @@ __nullifier__ _n_
 __nursing__ _n_ __1__ The profession of a nurse. __2__ The tasks or care of a nurse.  
 __nurture__ _n, vt_  
 __nutmeg__ _n_  
-__nuzzle__ _v_ :three::hammer: _I nuzzled her neck._  
+__nuzzle__ _v_ :dart::four: Move or arrange oneself in a comfortable and cozy position. _Syn_ cuddle, draw close, nest, nestle, snuggle _We nuzzled against each other to keep warm and quickly fell asleep._ _I nuzzled her neck._  
 __oath__ _n_  
 __obfuscate__ _v_ /AHB-fuh-skayt/ To obfuscate something is to make it more difficult to understand. Obfuscate can also mean “to be evasive, unclear, or confusing.”  
 __oblige__ _vt_  
 __obsequious__ _adj_  
 __oligarchy__ _n_ :two: _Oligarchy_ can refer to a government in which a small group exercises control especially for corrupt and selfish purposes, as well as to the group exercising such control.  
 __onerous__ _adj_ :dart:astonished: Troublesome or oppressive. _Syn_ burdensome, taxing  
-__opine__ _v_ Express one’s opinion openly and without fear or hesitation. _Syn_ animadvert, sound off, speak out, speak up  
+__opine__ _v_ /oh-PYNE/ :two: To opine is to express an opinion about something. Express one’s opinion openly and without fear or hesitation. _Syn_ animadvert, sound off, speak out, speak up  
 __opinionated__  
 __orderly__ _n_ __1__ An attendant who does routine, nonmedical work in a hospital. __2__ A soldier assigned to attend and perform various tasks for a superior officer.  
 __outskirts__ _n pl_  
@@ -683,6 +690,7 @@ __petrol station__ _n_ _Syn_ filling station, gas station, gasoline station
 __petulant__ _adj_ :two::hammer:  
 __phantasmagorical__ _adj_ /fan-taz-muh-GOR-i-kuhl/ Illusory; strange; deceptive; imaginary; surreal; hallucinatory.  
 __phase__ _n_ :mega: /feɪz/ (_vs_ face /feɪs/)  
+__phlegmatic__ _adj_ :dart:  
 __phony__ _adj_  
 __pickeball__ _n_  
 __picket fence__ _n_  
@@ -731,6 +739,7 @@ __pontoon__ _n_
 __pool__ _n_ __1a__ A game of chance, resembling a lottery, in which the contestants put staked money into a common fund that is later paid to the winner. __b__ A fund containing all the money bet in a game of chance or on the outcome of an event.  
 __popeye__ _n_ /ˈpɒpˌaɪ/  
 __portentous__ _adj_ Marked by pompousness; pretentiously weighty. _Syn_ overblown, pompous, grandiloquent, pontifical  
+__pot__ _n_ __12__ _billiards snooker_ A shot by which a ball is pocketed.  
 __pounce__ _v_  
 __profiteer__ _n_ :astonished: One who makes excessive profits on goods in short supply.  
 __profiteering__ _n_ :astonished: _Syn_ extortion, exploitation, racketeering _There has been a wave of profiteering and corruption._  
@@ -884,6 +893,7 @@ __shuffle__ _v_ __6__ (when _vi_, often foll by _into_ or _out of_) to move or c
 __sic__ _vt_ :dart: __1__ To turn on or attack: used only in commands, as to a dog. __2__ To urge (a dog) to attack. To urge or incite to hostile action; set: _sicced the dogs on the intruders._  
 __singe__ _vt_ __1__ To burn superficially or slightly; scorch. _To singe one’s clothes._ __2__ To burn the ends, nap, or the like, of (hair, cloth, etc.). __3__ To subject (a carcass) to flame in order to remove hair, bristles, feathers, etc.  
 __singeing__ _n_  
+__skid__ _v_ _The car skidded to a halt._ → :es: _El coche patinó y paró._  
 __skiff__ _n_ :two: A flatbottom open boat of shallow draft, having a pointed bow and a square stern and propelled by oars, sail, or motor.  
 __skirmish__  
 __slaver__ _n_ __1__ Saliva drooling from the mouth. _Syn_ drivel, slabber, slobber, drool, dribble __2__ Senseless and effusive talk; drivel.  
@@ -891,10 +901,14 @@ __smote__ _v_ Past tense and a past participle of smite.
 __snicker__ _v_  
 __splurge__  
 __standoff__ _n_  
+__stark<sup>1</sup>__ _adj_  
+__stark<sup>2</sup>__ _adv_ completely: _stark mad; stark dead._ Utterly; entirely: _stark raving mad._  
 __steed__ _n_ __1__ A horse, especially a spirited one. __2__ An animal used for riding: _the use of camels as steeds._  
 __stiff-person syndrome__ _n_ (SPS)  
+__sulfurous__ _adj_ Harsh or corrosive in tone. _Syn_ acid, blistering, caustic, vitriolic, acrid, acerbic, bitter, virulent _Her sulfurous denunciation of the governor was aired on the news that evening._  
 __swat__ _n_  
 __tangential__ _adj_ Only superficially relevant; divergent. _Syn_ digressive  
+__tendril__ _n_ /ˈtɛndrɪl/  
 __thimble__ _n_ :es: dedal  
 __thraldom__ _n_  
 __thrall__ _n_ :astonished:  
@@ -910,14 +924,20 @@ __thunk__ _n_
 __tiddlywinks__ _n_ A game played on a flat surface, in which players attempt to snap small plastic disks into a cup by pressing the edges of the disks with larger ones.  
 __till__ _n_ :es: caja registradora  
 __tinderbox__ _n_ :dart: __1__ A metal box for holding tinder. __2__ :dart: A person or thing that is highly volatile; any potential source of violence. A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
+__tingling<sup>2</sup>__ _adj_ :two::hammer:  
 __tsk__ _vi_ :two::pencil2: To utter the exclamation “tsk.”  
+__twitch__ _v_  
 __uncontested__ _adj_ /ˌʌn kənˈtɛs tɪd/ Not contested; unchallenged: _an uncontested victory._  
 __unhinged__ _adj_ /ʌnˈhɪndʒd/ __1__ Deranged or unbalanced. __2__ Affected with madness or insanity.  
 __unsurgency__ _n_ /ɪnˈsɜr dʒən si/  
 __untenable__ _adj_ /un-TEN-uh-bul/ Something, such as a position, excuse, or situation, that is described as untenable cannot be defended against attack or criticism. _The scientists considered their colleague’s theory to be bold but ultimately untenable._  
 __upheaval__  
+__upskill__ _vt_ /ˈʌpˌskɪl/  
 __virtuoso__ _n_ /ver-choo-OH-soh/ _Virtuoso_ is used broadly to refer to a person who does something very skillfully, and is often used specifically to refer to a very skillful musician.  
 __voltmeter__ _n_ /ˈvoʊltˌmi tər/ A calibrated instrument for measuring the potential difference between two points in volts. :es: voltímetro  
+__wan__ _adj_  
+__wanderlust__ _n_ /WAHN-der-lust/  
+__wanly__ _adv_ In a weak or pale or languid manner. _She was smiling wanly._  
 __warble__ _v_  
 __warhorse__ _n_ (war horse)  
 __waterboarding__ _n_ __1__ An interrogation technique, widely considered a form of torture, in which a person is restrained, usually by being strapped to a board with the feet higher than the head, and immersed in or doused with water to the point of drowning.  
