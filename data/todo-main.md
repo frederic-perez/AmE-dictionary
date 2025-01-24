@@ -47,6 +47,7 @@ __Arthur__ _n_ A legendary king of the Britons whose story is based on tradition
 __ataractic__ _adj_ Of or relating to a drug or other agent that has a tranquilizing effect. _Syn_ sedative, tranquilizing _Valium has an ataractic effect that is useful in treating tension and anxiety._  
 __atonement__ _n_ Amends or reparation made for an injury or wrong. _Syn_ expiation, satisfaction  
 __austere__ _adj_ :mega:  
+__back seat__ _n_ __2__ _informal_ A subordinate or inconspicuous position (esp in the phrase _take a back seat_).  
 __backstab__ _vt_ :smiling_imp:  
 __badger__ _v_  
 __bare__ _vt_ __1__ To make bare; uncover or reveal: _bared their heads; baring secrets._ __2__ To expose: _The dog bared its teeth._  
@@ -57,6 +58,7 @@ __beatific__ _adj_ /bee-uh-TIFF-ik/ _Beatific_ is a formal word that describes s
 __beetle<sup>1</sup>__ _n_  
 __beetle<sup>2</sup>__ _adj_ Projecting; overhanging: _beetle brows._  
 __beetle<sup>3</sup>__ _v_ To project or overhang. _His brow beetled._  
+__befuddle__ _vt_ _Luke used the Force to befuddle the Gamorrean guards._  
 __belatedly__ _adv_ Later than usual or than expected.  
 __belay__ _v_ :es: amarrar  
 __beleaguer__ _v_ /bih-LEE-gur/ To beleaguer a person, business, etc. is to cause them constant or repeated trouble. _Beleaguer_ is also sometimes used as a synonym of besiege.  
@@ -110,17 +112,20 @@ __chortle<sup>2</sup>__ _v_ To utter a chortle or express with a chortle.
 __Christmastide__ _n_  
 __chunky__ _adj_ Short and thick; stocky. _Syn_ low-set, squat, squatty, stumpy, dumpy  
 __chutney__ _n_ :es: salsa picante de frutas y especias  
+__cipher__ _n_ __3__ One having no influence or value; a nonentity. A person of no influence. _Syn_ nobody, nonentity _He was a cipher in the estimation of the public, and nobody attached any importance to what he thought or did._  
 __citizen__ _n_ /ˈsɪt ə zən, -sən/  
 __claimant__ _n_ :dart: /ˈkleɪmənt/ __1__ A person who makes a claim. __2__ _(Law)_ A person who brings a civil action in a court of law. Formerly called: plaintiff  
 __clatter__ _v_  
 __clemency__ _n_  
+__cloakroom__ _n_  
 __closehanded__ _adj_ Covetous; penurious; stingy; closefisted.  
 __clover__ _n_  
 __coalesce__ _v_  
-__cock__ _vt_ :dart::three: __3__ :dart: To tilt or turn up or to one side, usually in a jaunty or alert manner: _cocked an eyebrow in response to a silly question._  
+__cock__ _vt_ :dart::four: __3__ :dart: To tilt or turn up or to one side, usually in a jaunty or alert manner: _cocked an eyebrow in response to a silly question._  
 __cockeyed__ _adj_ Turned or twisted toward one side. _Syn_ askew, awry, lopsided, skew-whiff, wonky _He noticed that his tie was cockeyed and made sure to straighten it before meeting with the company executives._  
 __coerce__ _v_  
 __colander__ _n_ /KUH/KAH-luhn-duhr/ (cullender) A utensil with perforations, used for straining or draining foods.  
+__collapse__ _v_ :mega: /kəˈlæps/  
 __colonel__ _n_ :mega: /ˈkɜr nl/ /kur-nl/  
 __commence__ _v_  
 __compact__ _n_ :astonished: An agreement or a covenant. _He has made a compact with me._  
@@ -144,17 +149,24 @@ __cow__ _vt_ To frighten or subdue with threats or a show of force. _Syn_ intimi
 __cower__ _v_  
 __coy__ _adj_  
 __cozen__ _v_ :smiling_imp: /KUZ-un/ To cozen someone is to deceive, win over, or induce them to do something by coaxing or trickery. _The organization cozened scores of people by persuading them to participate in a fraudulent investment scheme._  
+__crackle__ _v_  
 __cradle__ _vt_ :pencil2: __1c__ To hold or support protectively: _cradled the cat in his arms._  
 __cram__ _v_ Study intensively, as before an exam. _Syn_ bone up, drum, get up, grind away, mug up, swot _I spent the week before my Latin final exam cramming, a strategy that paid off when I aced the class._  
 __crease<sup>1</sup>__ _n_ __1__ A line or mark produced by folding, pressing, or wrinkling. __2__ A wrinkle or furrow, esp on the face.  
 __crease<sup>2</sup>__ _vt_  
 __crease<sup>3</sup>__ _vi_  
 __crenelated__ _adj_  
+__crisp<sup>1</sup>__ _adj_ __1__ Firm but easily broken or crumbled; brittle: _crisp potato chips._  
+__crisp<sup>2</sup>__ _vt_ To make or keep crisp.  
+__crisp<sup>3</sup>__ _vi_ To become or remain crisp.  
+__crisp<sup>4</sup>__ _n_  
 __crony__ _n_  
 __cruelly__ _adv_ __1__ Excessively: _a cruelly bitter winter._ __2__ With cruelty: _he treated his students cruelly._  
 __cynicism__ _n_ /ˈsɪn əˌsɪz əm/  
 __daffovil__ _n_  
 __dainty__  
+__Davos__ _n_ /ˈdɑːvɔs/ /ˈdævɒs/ A town of southeast Switzerland north of Saint Moritz. A fashionable resort, it is noted as the site of an annual international economic summit.  
+__divers__ _adj_ /DYE-verz/ Numbering more than one. _The tri-county fair offers divers amusements for the whole family._  
 __edgeways__  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
 __elusive__ _adj_ :mega: /ɪˈlu sɪv/  
@@ -251,6 +263,7 @@ __gangly__ _adj_ :two: Awkwardly tall and spindly; lank and loosely built. _Syn_
 __gangrene__ _n_  
 __gaping__ _adj_ /ˈɡeɪpɪŋ/ Wide open; extremely wide: _a gaping hole._  
 __garb__ _n_  
+__garbled__ _adj_ Jumbled or unclear because of distortion or omissions. :es: confuso  
 __gargantuan__ _adj_  
 __gargle__ _v_  
 __garnish__ _v_ /GAHR-nish/ To garnish food or drink is to add decorative and tasty touches to it, such as a spiral of lemon peel.  
@@ -294,6 +307,8 @@ __gossamer__ _adj_ /GAH-suh-mer/ Something described as _gossamer_—such as a b
 __gouge__ _vt_  
 __gourmand__ _n_ /GOOR-mahnd/  
 __grandiloquence__ _n_ /gran-DIH-luh-kwunss/ _Grandiloquence_ is a formal word that refers to the use of extravagantly colorful or pompous language often in order to sound impressive and important.  
+__grating<sup>1</sup>__ _n_  
+__grating<sup>2</sup>__ _adj_ /ˈɡreɪtɪŋ/ __1__ (of sounds) Harsh and rasping. __2__ Annoying; irritating.  
 __gravitas__ _n_ Seriousness or sobriety, as of conduct or speech.  
 __greasepaint__ _n_ Theatrical makeup, especially a preparation of grease mixed with colorings. _Groucho applied greasepaint to enhance his comedic disguise for the show._  
 __Greenland__ _n_ /ˈgrin lənd, -ˌlænd/ :es: Groenlandia  
@@ -347,6 +362,8 @@ __hay fever__ _n_ :es: alergia al polen
 __hazard__ _v_  
 __hazel__  
 __heady__ _adj_  
+__hearken<sup>1</sup>__ _vi_ /ˈhɑr kən/ (harken) To give heed or attention to what is said; listen.  
+__hearken<sup>2</sup>__ _vt_ /ˈhɑr kən/ (harken) _Archaic_ To listen to; hear.  
 __hearth__ _n_ The floor of a fireplace, usually extending into a room and paved with brick, flagstone, or cement. _Syn_ fireside  
 __heartrending__ _adj_  
 __heat index__ _n_  
@@ -357,6 +374,7 @@ __heavenward<sup>2</sup>__ _adj_ Directed towards heaven or the sky.
 __heinous__ _adj_ /HAY-nus/ _Heinous_ describes things—such as acts, deeds, or crimes—that are hatefully or shockingly evil, or in other words, deserving of hate or contempt.  
 __hexenwolf__ _n_ [:scroll: _Hexen_ comes from the German word for “witches” (plural form of Hexe), often associated with magic, the occult, or witchcraft] A witch that transforms into a wolf or have wolf-like traits.  
 __hoarfrost__ _n_ A layer of white frost.  
+__hoarse__ _adj_ :mega: /hɔrs, hoʊrs/ /hɔːs/  
 __homily__ _n_  
 __honorable discharge__ _n_ :two: Discharge from the armed forces with a commendable record.  
 __hospital radio__ _n_ A form of audio broadcasting produced specifically for the in-patients of hospitals, primarily in the United Kingdom. Hospital radio has been found to be beneficial to patients, lifting their mood and aiding recovery.  
@@ -462,6 +480,7 @@ __limestone__
 __liminal__ _adj_ :two: /LIM-uh-nul/ _Liminal_ is a formal word most often used to describe an intermediate state, phase, or condition. It can also describe something that is barely perceptible or barely capable of eliciting a response.  
 __limpid__ _adj_ /LIM-pid/ _Limpid_ describes things that are perfectly transparent or clear, or that are simple in style.  
 __linchpin__ _n_ /LINCH-pin/  
+__linguine__ _n_ (linguini)  
 __listless__ _adj_ :mega: /ˈlɪst lɪs/  
 __livid__ _adj_ :astonished:  
 __lockdown__ _n_ /ˈlɒkˌdəʊn/  
@@ -527,6 +546,7 @@ __miasma__ _n_
 __microfiche__ _n_ /ˈmaɪ krəˌfiʃ/ A flat sheet of microfilm, containing reproductions of printed or graphic matter.  
 __mid__ _adj_ _Mid_ is a slang term used to describe something or someone as mediocre or of low quality.  
 __midriff__ _n_ :two::hammer: /ˈmɪd rɪf/  
+__miffed__ _adj_ /mɪft/ Annoyed or upset.  
 __mild-mannered__ _adj_ Gentle and polite. :es: apacible  
 __mildew__  
 __militia__ _n_ /mɪˈlɪʃ ə/  
@@ -741,6 +761,7 @@ __popeye__ _n_ /ˈpɒpˌaɪ/
 __portentous__ _adj_ Marked by pompousness; pretentiously weighty. _Syn_ overblown, pompous, grandiloquent, pontifical  
 __pot__ _n_ __12__ _billiards snooker_ A shot by which a ball is pocketed.  
 __pounce__ _v_  
+__prissy__ _adj_  
 __profiteer__ _n_ :astonished: One who makes excessive profits on goods in short supply.  
 __profiteering__ _n_ :astonished: _Syn_ extortion, exploitation, racketeering _There has been a wave of profiteering and corruption._  
 __provender__ _n_ Dry food, as hay or oats, for livestock or other domestic animals.  
@@ -748,6 +769,8 @@ __proximate__ _adj_
 __pry__ _vi_ :two::hammer:  
 __public house__ _n_ _BrE_ Pub.  
 __publican__ _n_ _BrE_ :astonished:  
+__pucker<sup>1</sup>__ _v_ To draw or gather into wrinkles or irregular folds; constrict.  
+__pucker<sup>2</sup>__ _n_ A wrinkle, crease, or irregular fold.  
 __puckering__ _n_ Corrugations in metal parts resulting from pressing or drawing.  
 __puff__ _v_  
 __pulse__ _n_ __1__ The edible seeds of certain pod-bearing plants, such as lentils and chickpeas. :es: legumbres __2__ A plant yielding these seeds.  
@@ -889,6 +912,8 @@ __secular__ _adj_ /SEK-yuh-ler/ _Secular_ describes things that are not spiritua
 __sentient__ _adj_  
 __shamble<sup>1</sup>__ _vi_ :dart: To walk or move along in an awkward or unsteady way.  
 __shamble<sup>2</sup>__ _n_ An awkward or unsteady walk.  
+__sharp__ _adj_ __6__ Vigilant; alert: _kept a sharp lookout for shoplifters._ _Stay sharp._  
+__shoulder__ _v_  
 __shuffle__ _v_ __6__ (when _vi_, often foll by _into_ or _out of_) to move or cause to move clumsily: _he shuffled out of the door._ _He shuffled his way out of the room._  
 __sic__ _vt_ :dart: __1__ To turn on or attack: used only in commands, as to a dog. __2__ To urge (a dog) to attack. To urge or incite to hostile action; set: _sicced the dogs on the intruders._  
 __singe__ _vt_ __1__ To burn superficially or slightly; scorch. _To singe one’s clothes._ __2__ To burn the ends, nap, or the like, of (hair, cloth, etc.). __3__ To subject (a carcass) to flame in order to remove hair, bristles, feathers, etc.  
@@ -905,9 +930,13 @@ __stark<sup>1</sup>__ _adj_
 __stark<sup>2</sup>__ _adv_ completely: _stark mad; stark dead._ Utterly; entirely: _stark raving mad._  
 __steed__ _n_ __1__ A horse, especially a spirited one. __2__ An animal used for riding: _the use of camels as steeds._  
 __stiff-person syndrome__ _n_ (SPS)  
+__stud__ _n_ _The lightsaber control stud._  
+__succinct__ _adj_ :pencil2:  
 __sulfurous__ _adj_ Harsh or corrosive in tone. _Syn_ acid, blistering, caustic, vitriolic, acrid, acerbic, bitter, virulent _Her sulfurous denunciation of the governor was aired on the news that evening._  
+__surreptitiously__ _adv_  
 __swat__ _n_  
 __tangential__ _adj_ Only superficially relevant; divergent. _Syn_ digressive  
+__tattoo__ _n_ /tæˈtuː/  
 __tendril__ _n_ /ˈtɛndrɪl/  
 __thimble__ _n_ :es: dedal  
 __thraldom__ _n_  
@@ -930,6 +959,7 @@ __twitch__ _v_
 __uncontested__ _adj_ /ˌʌn kənˈtɛs tɪd/ Not contested; unchallenged: _an uncontested victory._  
 __unhinged__ _adj_ /ʌnˈhɪndʒd/ __1__ Deranged or unbalanced. __2__ Affected with madness or insanity.  
 __unsurgency__ _n_ /ɪnˈsɜr dʒən si/  
+__unsurmountable__ _n_ /ˌʌnsɜːˈmaʊntəbəl/ (of a problem, etc) Not capable of being solved or overcome. _Syn_ insurmountable  
 __untenable__ _adj_ /un-TEN-uh-bul/ Something, such as a position, excuse, or situation, that is described as untenable cannot be defended against attack or criticism. _The scientists considered their colleague’s theory to be bold but ultimately untenable._  
 __upheaval__  
 __upskill__ _vt_ /ˈʌpˌskɪl/  
@@ -946,6 +976,7 @@ __whirl__ _v_
 __woe__ _n_  
 __woke__ _adj_  
 __wry__  
+__wryly__ _adv_ :dart::two: In a wry manner. :es: irónicamente  
 __Xmas__ _n_  
 __yacht<sup>1</sup>__ _n_  
 __yacht<sup>2</sup>__ _vi_ To sail, cruise, or race in a yacht.  

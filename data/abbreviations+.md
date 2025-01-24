@@ -28,6 +28,7 @@ __BMX__ :two::hammer: _BMX bike._
 __bn__ Billion. _US $30bn._  
 __BO__ :two: Body odor.  
 __BPA__ Bisphenol A. _BPA free 100% recyclable plastic bottle._  
+__BRICS__ /brɪks/ Brazil, Russia, India, and China: seen collectively as the most important emerging economies with large potential markets.  
 __BS__ :three::hammer: (BSing) _One of our core values is: Open company, no BS._  
 __BYOD__ :two: Bring your own device.  
 __c/o__ :three: Care of.  

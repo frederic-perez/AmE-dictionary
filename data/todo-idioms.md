@@ -40,6 +40,7 @@ __a little from column A, a little from column B__ Having been formed from two d
 __a long row to hoe__ [:scroll: This metaphor comes from nineteenth-century America, when most people lived in rural areas and cultivated at least some land.] A difficult course to follow; hard work to accomplish. A particularly difficult or problematic task, situation, or set of circumstances to contend with or confront. _Immigration reform was one of the new president’s primary campaign promises, but it will likely prove a long row to hoe, given the deep divisions in Congress._  
 __a long shot__  
 __a losing game__ A failing or hopeless effort; a situation or activity that is ultimately futile or cannot be won. (Most often used in the phrase “play a losing game.”) _I’d give up trying to get your brother to agree to this deal if I were you. It looks like a losing game at this point._  
+__about time__ ((it’s) (a)bout time)  
 __ace__  
 __ahead of the curve__  
 __all eyes are on (someone or something)__ Everyone is paying close attention to someone or something.  
@@ -49,7 +50,7 @@ __all too soon__ The idiom “all too soon” means that something happened much
 __and everything in between__ Including all the possibilities or varieties within a range. _The store sells clothes for men, women, and children, and everything in between._ _Life has its ups and downs, and everything in between._  
 __anyone’s guess__  
 __around the clock__ ((a)round the clock)  
-__at any rate__  
+__at any rate__ :two::hammer:  
 __at length__  
 __at the end of the day__  
 __baby blues__ __1__ A usually brief period of sadness, anxiety, and mood swings experienced by a large percentage of women after giving birth. _When I had the baby blues after having my first child, I would find myself crying without knowing why._ __2__ Blue eyes, especially those that are light blue. _I just had to ask for Sean’s number after I got a glimpse of his baby blues—I’d never seen such striking eyes before!_  
@@ -58,13 +59,18 @@ __backwater__ :dart: A place that is extremely remote or isolated, such that it 
 __bagel bender__  
 __battle-tested__ Which has been successfully put to the test in a real-life situation, in conditions of real use. _Syn_ tried and tested, proven  
 __be a long shot__ To be very risky, uncertain, or unlikely to succeed, as of an attempt, proposition, or guess. _I know this is a long shot, but would you like to go out on a date with me sometime?_  
+__be a loudmouth__ To have a tendency or habit of speaking incessantly, indiscreetly, or in a noisy, boastful manner. _I can’t stand Terry’s new husband—he’s such a loudmouth when he drinks!_  
 __be looking for trouble__ To be doing something or acting in a manner that will very likely result in trouble, difficulty, or danger. _I’d keep your mouth shut if you want to keep your job—arguing with the boss like that is just looking for trouble!_  
 __beanpole__ One who is very skinny. _Susie is such a beanpole now that she’s had her growth spurt._  
 __big fish in a small pond__ (a big fish in a small pond)  
 __bite (one’s) nails__ To nervously await something. _I’ve been biting my nails ever since I submitted my application for my first-choice college._  
 __brace (oneself) for (something)__  
+__burn (someone or something) to a cinder__  
+__burn (someone or something) to a crisp__  
+__by all means__ :two::hammer:  
 __by all rights__ (less common than _by rights_) With reason or justice. _Syn_ properly  
 __by rights__ With reason or justice. _Syn_ properly  
+__call for (someone or something)__  
 __catch (someone’s) fancy__ To be appealing or pleasant to someone; to be intriguing or of interest to someone.  
 __closed-door__ (used as a modifier before a noun) Not open to or in view of the public; private or secret. _There have been a lot of closed-door meetings recently to discuss the sale of the company._  
 __crummy__ _informal_ __1__ Bad or unpleasant. _I’m feeling pretty crummy—I hope I’m not coming down with something._ __2__ Of poor quality. _Darn it, my crummy suitcase fell apart as I was trying to pack it._  
@@ -75,6 +81,7 @@ __cut (someone or something) loose__
 __cut and dry__ The “idiom cut and dry” refers to something that is clear, straightforward, and unambiguous. It describes situations, decisions, or outcomes that are easily understood and leave little room for doubt or interpretation.  
 __cut bait__  
 __cut eyes at (someone or something)__ To look at someone or something quickly.  
+__cut it__  
 __cut loose__  
 __cut to the chase__ Get to the point; skip unnecessary details. Ellroy’s characters, often hard-nosed detectives or criminals, use this phrase to cut through the layers of deception and get straight to the core of a matter.  
 __dabble in (something)__ To do something sporadically or as a hobby.  
@@ -497,6 +504,7 @@ __lose (one’s) faith (in something or someone)__ To stop believing (in someone
 __lose (one’s) spirit__ To lose one’s vigor, energy, hope, or resolve; to become resigned or complacent. _The underdog team had a shot at winning the game early on, but they seem to have lost their spirit at this point._ _You’ve come so far with your law degree. Don’t lose spirit now!_  
 __lose (one’s)/the way__ To become lost; to become unable to find the correct course forward. _Sarah lost her way home walking through the woods in the dead of night when the clouds obscured the stars overhead._  
 __lose no time (in) (doing something)__ To do something immediately or as expediently as possible. _Wow, Sarah lost no time finding a new boyfriend after she and Rob split up._  
+__lose touch__  
 __lose track of (someone or something)__  
 __loss of face__ The state or circumstance of having lost the respect of other people, as due to having done something improper or unacceptable. _After my terrible loss of face in front of the in-laws, I knew I couldn’t return to their home for the foreseeable future._  
 __lost in translation__  
@@ -651,10 +659,12 @@ __on-site__
 __open game__ Being vulnerable or exposed to attack, criticism, or other negative consequences. _If we break the truce first, we are open game._  
 __out and about__ :dart: __1__ Away from one’s home or normal environment, especially to socialize, run errands, visit various places, etc. _I’m just out and about with Mary if you would like to come join us._ __2__ Well enough to come and go, especially after an illness. For example, _I’m glad to see you’re out and about again._  
 __over the finish line__ :three: To a state of completion or fulfillment, as at the end of some process, development, endeavor, etc. _We’ve been working 80-hour weeks to get this project over the finish line before December._  
+__owing to__ Because of; as a result of; due to _Owing to construction on the highway, please anticipate higher levels of traffic than usual._  
 __pat on the back__ (pat (one) on the back) Praise given to a person for an achievement or a job well done. _Treating his daughter to ice cream was Joe’s way of giving patting her on the back after she won first place in the science fair._  
 __pay top dollar__  
 __pay tribute to (someone or something)__ To do something as a way of publicly showing respect or admiration for a particular person, group, or thing. _The movie pays tribute to an old adventure serial that ran on television in the mid-1930s._  
 __pin down__  
+__play tag__  
 __point the finger at (one)__  
 __pot shot__  
 __pour fuel on the fire__  
@@ -683,6 +693,7 @@ __says who__
 __scare the (living) daylights out of (one)__ To shock or frighten one very suddenly or severely. _Don’t sneak up on me like that—you scared the living daylights out of me!_  
 __scare the crap out of (one)__ _rude slang_ To shock or frighten one very suddenly or severely. Hyperbolically alludes to frightening one so badly as to cause them to lose bowel control.  
 __scare the hell out of someone__  
+__scare the pants off (of) (one)__ To shock, frighten, or terrify one. _The sound of the fire alarm scared the pants off of me this morning._  
 __scare the shit out of (one)__ :astonished: _rude slang_ To shock or frighten one very suddenly or severely. (Hyperbolically alludes to frightening someone so badly as to cause them to lose control of their bowels.) _Don’t sneak up on me like that, you scared the shit out of me!_  
 __scheme for (something)__ To form or contrive a secret or devious plan or conspiracy in order to obtain, achieve, or accomplish something. _We spent the afternoon scheming for a way to get into the elite Hollywood party so we could meet some celebrities._  
 __scoff at (someone or something)__ To dismiss something with scorn, ridicule, or derision.  
@@ -833,6 +844,7 @@ __strike a chord__
 __strike that__ Forget what I just said. _In the brief time it took me to write this paragraph, three more emails arrived. Now I have 115 unanswered emails. Strike that: 116._ :es: tacha eso  
 __strong water__  
 __sucker (one) in__ To con, swindle, or deceive someone.  
+__sucker__ __5__ _v_ _slang_ To trick, dupe, or con (someone); to make a sucker out of (someone). Usually followed by “into something.” _I can’t believe they suckered me into investing my life savings!_  
 __suffice (it) to say__  
 __suffice it to say__ (suffice (it) to say)  
 __suicide by cop__  
@@ -852,6 +864,7 @@ __tacky__ Cheap, crude, and unrefined; indicating or characteristic of a lack of
 __taco bender__  
 __take (one’s) pick__  
 __take (one) up on (something)__ To agree to an offer one has made, especially one made at an earlier point in time. _I’m coming to town this weekend, so can I take you up on that spare bedroom you’ve offered me in the past?_  
+__take a crack at (something)__ To attempt (to do) something; to take a turn trying (to do) something. _Well, I haven’t fixed a motor in nearly 10 years, but I’ll certainly take a crack at it._  
 __take a load off (one’s feet)__ To sit down and rest one’s feet; to relax. (Usually said as a suggestion.) _Why don’t you go take a load off for a while, and I’ll fix dinner for tonight?_  
 __take a shot (at someone or something)__  
 __take exception to (something)__ To strongly disagree with or take offense at something.  
