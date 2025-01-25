@@ -303,56 +303,6 @@ __in all likelihood__
 __in all seriousness__  
 __in and of itself__  
 __in any event__  
-__in arrears__ :four: Behind or overdue, often because one has not made a payment as scheduled.  
-__in bits and pieces__ In many small fragments. _Look what you’ve done! My favorite lamp is in bits and pieces on the floor!_  
-__in cahoots (with someone)__  
-__in concert with (someone)__ Together with someone; in cooperation with someone. _You’ll need to work in concert with my file clerk to sort through all this paperwork._  
-__in deep water(s)__ In a dangerous, vulnerable, or troublesome situation or position, especially that which could be beyond one’s abilities to resolve.  
-__in default of (something)__ Due to the absence or lack of something; through the failure of something. _Though it was only a speeding ticket, Janet was imprisoned in default of paying the fine._  
-__in distress__ :three: __1__ Very upset. _He was clearly in distress upon hearing the news._ __2__ In a very difficult situation in which one does not have enough money, food, etc. _She’s chosen to devote her life to helping those in distress._ __3__ (of a boat, airplane, etc.) In a state of danger or desperate need. _The ship was in distress._  
-__in earnest__ :dart: With sincere intentions. _If the two sides can’t sit down and negotiate in earnest, they’re never going to come to an agreement._  
-__in favor (with someone)__ Highly regarded (by someone); widely accepted or enjoyed (by someone). Primarily heard in US. _John had been in favor with his boss ever since he managed to secure that lucrative client._  
-__in fee__ _Law (specifically of land)_ In absolute legal ownership or subjection.  
-__in full swing__ :four::hammer:  
-__in hock__ __1__ In debt. _I picked a smaller, more affordable school so I didn’t have to be deep in hock with student loans for years after I graduated._ __2__ Having been pawned. _I really needed cash, so my guitars are in hock, unfortunately._  
-__in hot water__ :dart::three: In trouble or facing a difficult situation. This idiom is common in Ellroy’s novels, especially when characters find themselves caught in compromising positions or facing consequences for their actions. Having provoked or incited anger, hostility, or punishment against oneself; in a troublesome or difficult situation, especially that which will result in punishment or reprisal. _I was in a bit of hot water with Janice last night when she found out I went to the movies instead of cleaning out the garage._  
-__in its infancy__ In the early, nascent period of development or implementation. (Typically of an area of activity, interest, research, etc.)  
-__in itself__  
-__in jeopardy__ In danger or at risk; imperiled.  
-__in layman’s terms__ :three::hammer:  
-__in less than no time__ (in no time) In a very little amount of time. Very quickly.  
-__in living memory__ :two: (within living memory) In a recent enough time as to be remembered by people who are alive today. (Usually used in negative statements.) _There hasn’t been a blizzard like this in living memory!_  
-__in the works__ :three::hammer:  
-__in thrall to somebody/something__ Controlled or strongly influenced by somebody/something: _The country’s economy is still largely in thrall to the big companies._  
-__in twos__ In groups of two. _You will be working in twos._  
-__in virtue of (something)__ Due to something; because of something; by reason of something. _In virtue of your years of hard work and experience in the company, we think you would be well-suited to a managerial role within the company._  
-__in working order__  
-__in(to) shape__ In good, robust health; strong or fit. _Boy, I really need to get into shape. Ten years working behind a desk have given me quite a belly!_  
-__incumbent (up)on (someone)__ Imposed or expected as an obligation, duty, or requirement on someone.  
-__ink__ _slang_ __4__ _v_ To sign one’s name to (something); to formalize and seal something, as a deal or contract. _Before we ink the contract, I want my lawyer to have a look at the details._  
-__ink-slinger__ _slang_ A writer, especially one who produces a large amount of low-quality material for a living.  
-__inner circle__  
-__insofar as__ :two: To such an extent that; to the degree that. _Insofar as money is concerned, our project will be completely funded by private donations._  
-__instant karma__  
-__intestinal fortitude__ Strong courage, conviction, or determination; gumption; guts. _Not everyone has the intestinal fortitude necessary to survive in the world of politics._  
-__inveigle (someone) into (something)__ :smiling_imp: To trick or deceive someone into doing something. _I’m just worried that she’s using the kids to inveigle you into marrying her._  
-__iron grip__ __2__ Total, dominant control (over someone or something).  
-__iron out__  
-__isn’t that something__ The idiom “isn’t that something” is used to express surprise, amazement, or astonishment at a particular event, situation, or piece of information.  
-__it ain’t over till/until the fat lady sings__  
-__it changes the equation__ The idiom “it changes the equation” means that a new factor or circumstance has been introduced that significantly alters the situation or problem. It suggests that the previous understanding or approach to the situation is no longer valid, and a new perspective or strategy is required.  
-__it figures__ :two: It makes sense; it is as I expected or might have guessed. :es: es lógico  
-__it goes without saying__ :two::hammer:  
-__it never rains but it pours__ When something good or bad happens, similarly good or bad things tend to follow.  
-__it remains to be seen__ Something is not yet clear, certain, or known.  
-__it takes a village__ :two::hammer:  
-__it wouldn’t do (someone) any harm (to do something)__ It would or may be good, pragmatic, or beneficial for someone (to do something). _You know, it wouldn’t do you any harm to comb your hair from time to time._  
-__it’s about time__ ((it’s) (a)bout time)  
-__it’s all good__ :dart: A phrase used to express general approval, unconcern, or disinterest.  
-__jabber__ :two: __1__ _v_ To chat casually about someone or something. _I’ve got some free time today, so let’s sit and jabber for a bit._  
-__jack-o’-lantern__ [The _o’_ in jack-o’-lantern is short for the word _of._] A pumpkin that has a face carved into it and which is lit from within (usually by candles) so that the “face” glows. Typically used as a Halloween decoration. _We’re carving a jack-o’-lantern tonight so we can put it outside our door on Halloween._  
-__jacked up__  
-__jaw away__ To talk incessantly and/or at great length. _I became so bored while the professor jawed away at us that I nearly fell asleep in the middle of the lecture._  
 __jeer at (someone or something)__ To mock, taunt, or scoff at someone or something. _Everyone in school jeered at me for wearing a pink sweater._  
 __jerk (someone or something) out of (something)__ To pull, yank, or lift someone or something out of some place or thing. _Please tell me you didn’t jerk that loose tooth out of your little brother’s mouth._  
 __jigaboo__ _n_ (ethnic slur) Extremely offensive name for a Black person.  

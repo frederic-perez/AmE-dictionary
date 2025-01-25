@@ -3438,49 +3438,54 @@ __in all__ :two::hammer: _I need five sailors in all._
 __in and of itself__ :four: By itself, without considering any other factors. Considering it alone. _Yes, in and of itself, your statement isn’t a problem. But you have to understand how it sounded in the context of the conversation._ _Reading is wonderful in and of itself._  
 __in any event__ :five: In any case. :es: en cualquier caso, en todo caso _In any event, the audience seemed pleased with your performance._  
 __in any way, shape, or form__  
-__in arrears__ Behind or overdue, often because one has not made a payment as scheduled.  
+__in arrears__ :five: Behind or overdue, often because one has not made a payment as scheduled.  
 __in awe (of someone or something)__  
 __in behalf of (someone)__  
-__in bits and pieces__ :two: In many small fragments. _Look what you.ve done! My favorite lamp is in bits and pieces on the floor!_  
+__in bits and pieces__ :three: In many small fragments. _Look what you.ve done! My favorite lamp is in bits and pieces on the floor!_  
 __in black and white__  
 __in broad (brush) strokes__  
 __in broad daylight__ Out in the open during the daytime, when anyone can see what’s happening. _The gangland feud is getting so bad that people are being shot in broad daylight._ _A sniper who prays on victims in broad daylight._  
 __in bulk__  
-__in cahoots (with someone)__ In close, often secretive or conspiratorial cooperation with someone. A partnership or alliance for making or implementing secret plans. _Though five years apart in age, the two siblings are often in cahoots when it comes to making mischief._ _We’ve been in cahoots with a company overseas who can produce the product for half the price._  
+__in cahoots (with someone)__ :two: In close, often secretive or conspiratorial cooperation with someone. A partnership or alliance for making or implementing secret plans. _Though five years apart in age, the two siblings are often in cahoots when it comes to making mischief._ _We’ve been in cahoots with a company overseas who can produce the product for half the price._  
 __in check__ Under control; contained or restrained. _Keep those emotions in check._  
+__in concert with (someone)__ Together with someone; in cooperation with someone. _You’ll need to work in concert with my file clerk to sort through all this paperwork._  
 __in deep shit__ _rude_ _slang_ In a huge amount of trouble; drawing someone’s anger and/or a severe punishment. _If we get caught breaking into school, we’ll be in deep shit!_ _I knew I was in deep shit when I dented my mom’s brand-new car._  
 __in deep trouble__  
-__in deep water__ To be in a difficult situation.  
-__in default of (something)__ Due to the absence or lack of something; through the failure of something. _Though it was only a speeding ticket, Janet was imprisoned in default of paying the fine._ _In default of concrete evidence, the jury was obligated to acquit the defendant of murder._  
+__in deep water(s)__ :two: In a dangerous, vulnerable, or troublesome situation or position, especially that which could be beyond one’s abilities to resolve.  
+__in default of (something)__ :two: Due to the absence or lack of something; through the failure of something. _Though it was only a speeding ticket, Janet was imprisoned in default of paying the fine._ _In default of concrete evidence, the jury was obligated to acquit the defendant of murder._  
 __in denial__ :three: Unable or unwilling to believe or acknowledge something as true.  
 __in detention__ In a prison or similar place. _Dozens of protesters were held/kept in detention for six hours._  
+__in distress__ :three: __1__ Very upset. _He was clearly in distress upon hearing the news._ __2__ In a very difficult situation in which one does not have enough money, food, etc. _She’s chosen to devote her life to helping those in distress._ __3__ (of a boat, airplane, etc.) In a state of danger or desperate need. _The ship was in distress._  
 __in donkey’s years__ _I haven’t thought about it in donkey’s years._  
 __in donkeys__ :two: In an exceptionally long period of time. The phrase likely originated as the rhyming slang, shortened to simply “donkeys,” of “donkey’s ears”—where “ears” rhymes with “years” and alludes to the length of a donkey’s ears. _I haven’t seen Jim in donkeys! How’s he doing these days?_  
 __in droves__ :two: In large numbers. _It was a beautiful day, but the bees were out in droves._ _They will come in droves._ _They buy tickets in droves._  
 __in due time__ :dart::three: Eventually; in an expected or reasonable duration of time. _You’ll get a promotion in due time. Just keep working hard._  
-__in earnest__ With sincere intentions.  
+__in earnest__ :dart::astonished::two: With sincere intentions. _If the two sides can’t sit down and negotiate in earnest, they’re never going to come to an agreement._  
 __in excess of__ :six: Over; greater or more than. _Infrasound can be detected in excess of 100 miles._ _It has been tested to wind speeds in excess of 100m/s._ _Roper hadn’t slept for a period in excess of 24 hours._ _The retail giant predicts earnings for the past year in excess of $4 million._  
-__in favor (with someone)__ Highly regarded (by someone); widely accepted or enjoyed (by someone). Primarily heard in US. _John had been in favor with his boss ever since he managed to secure that lucrative client._  
-__in fee__ _law_ (specifically of land) In absolute legal ownership or subjection. _The courts have found that as the estate is in fee by Mrs. Williams, as arranged in the prenuptial agreement, Mr. Williams has no legal claim to the grounds or anything built thereon._  
+__in favor (with someone)__ :two: Highly regarded (by someone); widely accepted or enjoyed (by someone). Primarily heard in US. _John had been in favor with his boss ever since he managed to secure that lucrative client._  
+__in fee__ :two: _law_ (specifically of land) In absolute legal ownership or subjection. _The courts have found that as the estate is in fee by Mrs. Williams, as arranged in the prenuptial agreement, Mr. Williams has no legal claim to the grounds or anything built thereon._  
 __in front of (one’s) nose__ Immediately obvious or clearly apparent.  
 __in front of (one’s) very eyes__ Right in plain sight or while one is watching. _Someone smashed into my parked car in front of my very eyes._  
 __in full gear__ At the highest or maximum level of function, operation, or performance.  
-__in full swing__ :seven: Well underway and operating at the highest possible level or pace. _The conference was in full swing when I arrived._  
+__in full swing__ :nine::m: Well underway and operating at the highest possible level or pace. _The conference was in full swing when I arrived._  
 __in full__  
 __in harm’s way__  
 __in high dudgeon__  
 __in hindsight__ :three::hammer:  
 __in his own right__ :two: By reason of one’s own ability or ownership etc. _She’s a rich woman in her own right rather than by inheritance._ _An excellent novel in its own right._  
-__in hot water__ :two: In trouble, and likely to be reprimanded.  
+__in hock__ __1__ In debt. _I picked a smaller, more affordable school so I didn’t have to be deep in hock with student loans for years after I graduated._ __2__ Having been pawned. _I really needed cash, so my guitars are in hock, unfortunately._  
+__in hot water__ :dart::four: In trouble or facing a difficult situation. This idiom is common in Ellroy’s novels, especially when characters find themselves caught in compromising positions or facing consequences for their actions. Having provoked or incited anger, hostility, or punishment against oneself; in a troublesome or difficult situation, especially that which will result in punishment or reprisal. In trouble, and likely to be reprimanded. _I was in a bit of hot water with Janice last night when she found out I went to the movies instead of cleaning out the garage._  
 __in its entirety__  
-__in its infancy__ In the early, nascent period of development or implementation. (Typically of an area of activity, interest, research, etc.)  
+__in its infancy__ :two: In the early, nascent period of development or implementation. (Typically of an area of activity, interest, research, etc.)  
 __in its/their own right__ :three: Because of its own special qualities and not because of a connection with something else. _Though it’s based on a best-selling novel, the movie is great in its own right._  
-__in itself__ Without the consideration of anything else. (A shortening of the full phrase “in and of itself.”)  
+__in itself__ :two: Without the consideration of anything else. (A shortening of the full phrase “in and of itself.”)  
+__in jeopardy__ In danger or at risk; imperiled.  
 __in jest__ As a joke; not seriously. _Speaking in jest._ :es: en broma  
-__in layman’s terms__ In words that can be understood by people outside of a given profession or field of expertise, i.e., without the use of jargon or highly technical terms.  
+__in layman’s terms__ :four: In words that can be understood by people outside of a given profession or field of expertise, i.e., without the use of jargon or highly technical terms.  
 __in leaps and bounds__ By very large degrees; rapidly or in quick progress forward. _What was once a tiny local choir club has expanded in leaps and bounds over the years._  
-__in less than no time__ (in no time (at all)) In a very little amount of time. Very quickly. _That test was so easy, I was done in less than no time._  
+__in less than no time__ :two: (in no time (at all)) In a very little amount of time. Very quickly. _That test was so easy, I was done in less than no time._  
 __in lieu of (something)__ :two::hammer: _In lieu of actual payments._ _In lieu of flowers._  
+__in living memory__ :two: (within living memory) In a recent enough time as to be remembered by people who are alive today. (Usually used in negative statements.) _There hasn’t been a blizzard like this in living memory!_  
 __in more ways than one__ :four: In a number of ways. _I’m telling you, this idea of yours is a mistake in more ways than one._  
 __in no circumstances__ :two: Never; in no case or situation; irrespective of events or conditions. _In no circumstances are you allowed to drive home after you’ve had more than one drink!_  
 __in no time (at all)__ :six: (in less than no time) In a very little amount of time. Very quickly. _That test was so easy, I was done in no time._  
@@ -3591,59 +3596,73 @@ __in the wake of (something)__ :dart::three: __1__ In the aftermath of something
 __in the wild__ :three: In naturally occurring conditions or environments.  
 __in the wind__  
 __in the woods__ __1__ Being in a forest or a natural woodland area. _We went camping in the woods._ __2__ It can also mean being in critical condition, near death’s door.  
-__in the works__ :five: In progress; being completed or implemented. Being prepared; being planned; being done. _We’ve got a couple life tapings in the works._  
+__in the works__ :dart::eight: In progress; being completed or implemented. Being prepared; being planned; being done. _We’ve got a couple life tapings in the works._  
 __in the zone__ :two::hammer:  
 __in their own right__  
 __in theory__ Hypothetically; as a possibility. As opposed to in reality or in practice.  
 __in this day and age__ :three::hammer:  
+__in thrall to somebody/something__ Controlled or strongly influenced by somebody/something: _The country’s economy is still largely in thrall to the big companies._  
 __in tow__ :five: __1__ In a condition of being towed: _a car with a trailer in tow._ __2__ Under close guidance; in one’s charge: _The new student was taken in tow by a peer counselor._ __3__ As a companion or follower: _came to dinner with a friend in tow._ _The senator arrived to the press conference with her aides in tow._  
 __in training__ :two: Actively engaged in something in a way that helps hone or strengthen one’s skills, abilities, physical fitness, etc.  
+__in twos__ In groups of two. _You will be working in twos._  
 __in vain__  
-__in virtue of (something)__ Due to something; because of something; by reason of something.  
+__in virtue of (something)__ :two: Due to something; because of something; by reason of something. _In virtue of your years of hard work and experience in the company, we think you would be well-suited to a managerial role within the company._  
 __in voice__ In an ideal state or condition for speaking or singing.  
-__in working order__ Of a machine, functional; not broken.  
+__in working order__ :two: Of a machine, functional; not broken.  
 __in your birthday suit__ Naked.  
 __in your face__ :two::hammer:  
 __in-between__ :two::hammer:  
 __in-the-know__  
-__in(to) shape__ In good, robust health; strong or fit.  
+__in(to) shape__ :two: In good, robust health; strong or fit. _Boy, I really need to get into shape. Ten years working behind a desk have given me quite a belly!_  
 __in/within living memory__ In a recent enough time as to be remembered by people who are alive today. (Usually used in negative statements.) _There hasn’t been a blizzard like this in living memory!_ _The worst heart care crisis in living memory._  
-__incumbent (up)on (someone)__ Imposed or expected as an obligation, duty, or requirement on someone.  
-__inner circle__ A small, exclusive, and intimate group of like-minded people sharing a common goal, pursuit, or purpose.  
+__incumbent (up)on (someone)__ :two: Imposed or expected as an obligation, duty, or requirement on someone.  
+__ink__ _slang_ __4__ _v_ To sign one’s name to (something); to formalize and seal something, as a deal or contract. _Before we ink the contract, I want my lawyer to have a look at the details._  
+__ink-slinger__ _slang_ A writer, especially one who produces a large amount of low-quality material for a living.  
+__inner circle__ :two: A small, exclusive, and intimate group of like-minded people sharing a common goal, pursuit, or purpose.  
 __inopportune moment__ An unfortunate or inconvenient moment in time. _I’m afraid you’ve caught me at an inopportune moment, as I’m just about to leave for the airport._  
 __inside and out__ Thoroughly; down to the last detail.  
 __inside out__ __3__ _adverb_ Thoroughly; down to the last detail. _I’ve read this book inside out again and again, but I still enjoy it every time._  
-__insofar as__ To such an extent that; to the degree that.  
+__insofar as__ :three: To such an extent that; to the degree that. _Insofar as money is concerned, our project will be completely funded by private donations._  
+__instant karma__  
 __intellectually challenged__ Of low intelligence; stupid.  
-__intestinal fortitude__ Strong courage, conviction, or determination; gumption; guts. _Not everyone has the intestinal fortitude necessary to survive in the world of politics._  
+__intestinal fortitude__ :two: Strong courage, conviction, or determination; gumption; guts. _Not everyone has the intestinal fortitude necessary to survive in the world of politics._  
 __into overdrive__  
-__iron out__ :five: To ease, solve, or remove minor difficulties, troubles, or problematic details (of or in something).  
+__inveigle (someone) into (something)__ :smiling_imp: To trick or deceive someone into doing something. _I’m just worried that she’s using the kids to inveigle you into marrying her._  
+__iron grip__ __2__ Total, dominant control (over someone or something).  
+__iron out__ :six: To ease, solve, or remove minor difficulties, troubles, or problematic details (of or in something).  
 __ironclad__  
 __Is the glass half empty or half full?__  
 __isn’t that funny?__  
+__isn’t that something__ The idiom “isn’t that something” is used to express surprise, amazement, or astonishment at a particular event, situation, or piece of information.  
 __it (all) depends__ The possibility or likelihood of some outcome depends on one or more unspecified factors.  
 __it (always) pays to (do something)__  
-__it ain’t over till/until the fat lady sings__ The final outcome cannot be assumed or determined until a given situation, event, etc., is completely finished. It is often used in reference to organized competitions, such as sporting events, political elections, or the like.  
+__it ain’t over till/until the fat lady sings__ :two: The final outcome cannot be assumed or determined until a given situation, event, etc., is completely finished. It is often used in reference to organized competitions, such as sporting events, political elections, or the like.  
+__it changes the equation__ The idiom “it changes the equation” means that a new factor or circumstance has been introduced that significantly alters the situation or problem. It suggests that the previous understanding or approach to the situation is no longer valid, and a new perspective or strategy is required.  
 __it factor__  
-__it figures__ :three: It makes sense; it is as I expected or might have guessed. _A: “Sally already broke up with that new boyfriend of hers.” B: “Yeah, it figures. The dude looked like a total creep!”_  
-__it goes without saying__ :five: It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
+__it figures__ :five: It makes sense; it is as I expected or might have guessed. _A: “Sally already broke up with that new boyfriend of hers.” B: “Yeah, it figures. The dude looked like a total creep!”_ :es: es lógico  
+__it goes without saying__ :seven: It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
 __it is not a competition__  
 __it is what it is__ :dart::nine: The situation, circumstance, or outcome has already happened or been decided or established, so it must be accepted even if it is undesirable. _Look, we lost the game, but it is what it is. All we can do is work even harder for the next one._  
-__it remains to be seen__ :five: Something is not yet clear, certain, or known. _It remains to be seen if and when this feature will be released._  
+__it never rains but it pours__ When something good or bad happens, similarly good or bad things tend to follow.  
+__it remains to be seen__ :six: Something is not yet clear, certain, or known. _It remains to be seen if and when this feature will be released._  
 __it speaks for itself__  
-__it takes a village__ :four: _proverb_ Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.”  
+__it takes a village__ :seven: _proverb_ Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.”  
 __it takes two to tango__ :three::hammer:  
-__it wouldn’t do (someone) any harm (to do something)__ It would or may be good, pragmatic, or beneficial for someone (to do something).  
+__it wouldn’t do (someone) any harm (to do something)__ :two: It would or may be good, pragmatic, or beneficial for someone (to do something). _You know, it wouldn’t do you any harm to comb your hair from time to time._  
 __it’s a dog’s life__ :dart::astonished:  
-__it’s all good__ :three: A common expression used to indicate that everything is going well or that there’s nothing to worry about. It can be used as a response to someone who is concerned about a situation or a problem, to reassure them that things are under control or to acknowledge that everything is fine. A phrase used to express general approval, unconcern, or disinterest.  
+__it’s about time__ ((it’s) (a)bout time)  
+__it’s all good__ :dart::four: A phrase used to express general approval, unconcern, or disinterest. A common expression used to indicate that everything is going well or that there’s nothing to worry about. It can be used as a response to someone who is concerned about a situation or a problem, to reassure them that things are under control or to acknowledge that everything is fine. A phrase used to express general approval, unconcern, or disinterest.  
 __it’s not you, it’s me__ _cliché_ You are not the reason our romantic relationship is ending, the problem is with me. Typically assumed to be a disingenuous, trite, or patronizing explanation for a romantic breakup, the phrase is often used sarcastically or humorously as a result. _A: “But I thought you were happy with me. I don’t want to end things!” B: “Oh, sweet Tom, it’s not you, it’s me! I’m just not emotionally ready for a committed relationship.”_  
 __it’s one of those things__  
 __ivory tower__ :three: An imaginary location where aloof academics are said to reside and work. _Why don’t you come out of your ivory tower and see what the world is really like?_  
+__jabber__ :two: __1__ _v_ To chat casually about someone or something. _I’ve got some free time today, so let’s sit and jabber for a bit._  
 __jack someone up__ _It jacks me up._  
 __jack up__ _Amazon reportedly used a secret algorithm to jack up prices._  
+__jack-o’-lantern__ [The _o’_ in jack-o’-lantern is short for the word _of._] A pumpkin that has a face carved into it and which is lit from within (usually by candles) so that the “face” glows. Typically used as a Halloween decoration. _We’re carving a jack-o’-lantern tonight so we can put it outside our door on Halloween._  
 __jack-off__ :two::hammer: _Harry made the jack-off sign._  
 __jacked chad__  
 __jacked to the gills__  
+__jacked up__  
 __jailbait__ Someone who is attractive but younger than the legal age of consent. _Tom hates hopheads and jailbait jumpers._  
 __jailbreak__  
 __jam-packed__ :three::hammer: (jampacked)  
@@ -3651,7 +3670,7 @@ __jamming__ _slang_ Awesome; really exciting. _Man, that was an absolutely jammi
 __jamoke__ :two: The term “jamoke” is a slang word that is used in James Ellroy’s novels to refer to someone who is foolish, inept, or incompetent. It’s a derogatory term that is often used to describe a person who is not very intelligent or capable. The word “jamoke” is derived from the term “java,” which is a slang word for coffee, and “mocha,” which is a type of coffee drink. The combination of these two words created the term “jamoke,” which is used to describe someone who is as weak and insipid as a cup of watered-down coffee. In Ellroy’s novels, the term “jamoke” is often used by the characters to describe someone who is a nuisance or a hindrance, or someone who is not to be taken seriously. It’s a derogatory term that is meant to belittle or mock the person being described.  
 __Jane Doe__ An unidentified woman.  
 __jarring experience__ An experience that creates an acute sense of shock, confusion, or bewilderment. _That car accident was such a jarring experience, I don’t know if I’ll be able to sleep for days._  
-__jaw away__ :dart: To talk incessantly and/or at great length. _Whenever I meet up with Tammy, our “conversation” is always just her jawing away while I listen patiently on._  
+__jaw away__ :dart::two: To talk incessantly and/or at great length. _Whenever I meet up with Tammy, our “conversation” is always just her jawing away while I listen patiently on._ _I became so bored while the professor jawed away at us that I nearly fell asleep in the middle of the lecture._  
 __jaw__  
 __jaw-dropping__ :three: Astonishing or astounding; causing an overwhelming amount of surprise, wonder, or amazement.  
 __Jaysus__ Jaysus is an informal, colloquial form of the name Jesus, often used as an exclamation of surprise or frustration in Irish English. _For jaysus sake!_  
