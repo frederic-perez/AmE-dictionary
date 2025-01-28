@@ -60,13 +60,16 @@ __bagel bender__
 __battle-tested__ Which has been successfully put to the test in a real-life situation, in conditions of real use. _Syn_ tried and tested, proven  
 __be a long shot__ To be very risky, uncertain, or unlikely to succeed, as of an attempt, proposition, or guess. _I know this is a long shot, but would you like to go out on a date with me sometime?_  
 __be a loudmouth__ To have a tendency or habit of speaking incessantly, indiscreetly, or in a noisy, boastful manner. _I can’t stand Terry’s new husband—he’s such a loudmouth when he drinks!_  
+__be here to stay__  
 __be looking for trouble__ To be doing something or acting in a manner that will very likely result in trouble, difficulty, or danger. _I’d keep your mouth shut if you want to keep your job—arguing with the boss like that is just looking for trouble!_  
 __beanpole__ One who is very skinny. _Susie is such a beanpole now that she’s had her growth spurt._  
 __big fish in a small pond__ (a big fish in a small pond)  
+__big splash__ a significant or dramatic impact or impression, often created by a public or notable event or action. It implies something that attracts a lot of attention and generates a strong reaction.  
 __bite (one’s) nails__ To nervously await something. _I’ve been biting my nails ever since I submitted my application for my first-choice college._  
 __brace (oneself) for (something)__  
 __burn (someone or something) to a cinder__  
 __burn (someone or something) to a crisp__  
+__buzzword__  
 __by all means__ :two::hammer:  
 __by all rights__ (less common than _by rights_) With reason or justice. _Syn_ properly  
 __by rights__ With reason or justice. _Syn_ properly  
@@ -207,10 +210,12 @@ __fumble the ball__ “Fumble the ball” and “drop the ball” are similar in
 __gee__ __2__ _exclam._ Wow! (An abbreviation of Jesus!, although not always recognized as such. Usually Gee!) _Golly gee, do I have to?_  
 __geek out__  
 __get a handle on (something)__ To have a firm, clear understanding or determination of something.  
+__get to know__  
 __ghost gun__ A gun without serial numbers that cannot be easily tracked, especially a home-made gun built with non-registered, partially finished or 3D printed components.  
 __give someone or something away__ To reveal a secret about someone or something. _I thought no one knew where I was, but my loud breathing gave me away._ _We know that Billy ate the cherry pie. The cherry juice on his shirt gave him away._  
 __glower at (someone or something)__ To look at someone or something with anger or disapproval.  
 __go berserk__  
+__go missing__  
 __go postal__ :dart: _US informal_ [:scroll: This expression arose as a result of several recorded cases in the USA in which postal-service employees ran amok and shot colleagues] Go mad, especially from stress. Become extremely angry or start behaving in a violent and angry way. _According to one eye witness, the man ‘went postal, and started hitting his computer’_  
 __go through hoops__ :astonished: To face or have to complete many challenges in pursuit of something that one wants, especially challenges that seem arbitrary or excessive. _The boss made me go through a lot of hoops to earn this corner office, believe me. I was doing everything from leading presentations to getting him coffee for months._  
 __go through the roof__  
@@ -303,6 +308,7 @@ __in all likelihood__
 __in all seriousness__  
 __in and of itself__  
 __in any event__  
+__in so doing__ “In so doing” is a phrase used to refer to the action someone is taking or has taken, often implying that something happens as a result of that action. It essentially means “by doing this” or “in this act.”  
 __jeer at (someone or something)__ To mock, taunt, or scoff at someone or something. _Everyone in school jeered at me for wearing a pink sweater._  
 __jerk (someone or something) out of (something)__ To pull, yank, or lift someone or something out of some place or thing. _Please tell me you didn’t jerk that loose tooth out of your little brother’s mouth._  
 __jigaboo__ _n_ (ethnic slur) Extremely offensive name for a Black person.  
@@ -346,7 +352,7 @@ __keep a lookout (for somebody/something)__
 __keep a sharp lookout (for something or someone)__ To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep a sharp lookout._  
 __keep an eye peeled (for something or someone)__ To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep an eye peeled._ _Keep an eye peeled for a Christmas present we could give your mother._  
 __keep body and soul together__  
-__keep pace__  
+__keep pace__ :two::hammer:  
 __keep tabs on (someone or something)__  
 __keep the lid on (something)__  
 __keep to (something)__ __1__ To adhere to something, such as a plan or a rule; to stick to something. _Please keep to the plan, and everything will go smoothly._  
@@ -384,6 +390,7 @@ __l’esprit de l’escalier__
 __Lady Luck__ The personification of fortune, whether good or bad. Sometimes spelled in lower case.  
 __lag behind__  
 __land of plenty__ A fictional or imagined utopian place where there is an abundance of everything needed to survive and flourish.  
+__languish in__  
 __larger than life__  
 __laser focus__  
 __laser focused__  
@@ -460,12 +467,15 @@ __loss of face__ The state or circumstance of having lost the respect of other p
 __lost in translation__  
 __loud and clear__  
 __love handles__ ((love) handles, spare tyres, Dunlops disease, Dunlop Syndrome) _euphemism_ [So called because supposed to be grabbed by a partner in sexual intercourse.]  
+__low man on the ladder__ The person (not necessarily male) with the least amount of experience, authority, and/or influence in a social or corporate hierarchy. _It can be a little daunting going from being a senior in high school to low man on the ladder again as a college freshman._  
+__lower the bar__  
+__lubrication payment__ :smiling_imp: A small sum of money or other gifts or services to be paid or given to government officials to expedite business operations in countries that do not prohibit such activity. _Whenever I start up a new factory overseas, I make sure to bring along enough cash on hand for any lubrication payments I may need to make._  
 __lucky for you__  
 __make a face__ :two::hammer:  
 __make a fuss__  
 __make a long arm for (something)__ To extend one’s arm fully toward something; to reach out for something. _Mary’s new boyfriend made a long arm for the bottle of wine at the end of the table, helping himself to another glass._  
 __make good on (something)__ To fulfill an obligation, such as keeping a promise or paying a debt. _Tom made good on his pledge to donate $1,000. Bill refused to make good on his promise._  
-__make inroads__  
+__make inroads__ :two::hammer:  
 __make it up__  
 __make no mistake__ :three::hammer:  
 __make the most of it__  
@@ -512,6 +522,7 @@ __need (something) (about) as much as (one) needs a hole in the head__ To have a
 __need to be done__ To be required to be completed or acted upon.  
 __needless to say__ Obviously implied, no explanation needed.  
 __nepo friend__ _n_ /nep-oh frend/ (nepo-friend) The slang term nepo friend refers to a person who is thought to benefit from having a famous or influential friend. The term nepo friend is often used to imply that someone is only famous or successful because of their association with a famous person. The term may be used playfully, but it is often at least mildly negative.  
+__nerve-racking__  
 __Nervous Nellie__ /nuhr-vuhs NEL-ee/(nervous Nellie/Nelly) Any nervous person, male or female. Someone who is more timid, nervous, or anxious than is normal or reasonable.  
 __next thing you know__ :two::hammer: ((the) next thing (one) knows)  
 __nice and (something)__ :two::hammer:  
@@ -527,6 +538,7 @@ __not just yet__ :two: Not now but probably quite soon: _I can’t give you the 
 __not know someone from Adam__  
 __not pay (something) any mind__  
 __not so fast__ :three::hammer:  
+__not to be missed__ So worthwhile that one should experience it.  
 __not turn a hair__  
 __not worth the paper it’s written on__ Useless; unimportant; insignificant.  
 __note so self__  
@@ -616,6 +628,7 @@ __pay tribute to (someone or something)__ To do something as a way of publicly s
 __pin down__  
 __play tag__  
 __point the finger at (one)__  
+__pomp and circumstance__ Celebration accompanied by traditional formalities and ceremony. _Please, there’s no need for all this pomp and circumstance. I’m just an ordinary guest who has come to enjoy the performance like everyone else._  
 __pot shot__  
 __pour fuel on the fire__  
 __pour gas/gasoline on the fire__  
@@ -674,6 +687,7 @@ __sexual advance__ An attempt to gain some form of sexual favor or gratification
 __sexual advances__  
 __Shangri-la__ A utopian paradise. A reference to the fictional Tibetan paradise described in James Hilton’s 1933 novel _The Lost Horizon._  
 __shapeshift__ _vi_ To undergo a noticeable change (in character for example), to metamorphosize.  
+__shed (some) light on (something)__  
 __sheesh__ :dart::two: An exclamation of exasperation, vexation, or annoyance. _A: “Tom? The boss wants to see you for a minute.” B: “Sheesh, what does he want now?”_  
 __shell-shocked__ :dart: __1__ In a state of intense psychological strain, distress, or trauma as a result of prolonged engagement in combat warfare. The term was popularized during the First World War in reference to soldiers returning from combat; it is more commonly known in modern times as posttraumatic stress disorder (PTSD), and has expanded to cover the psychological damage caused by any kind of traumatic event. _My brother was lucky enough to come home from the war alive, but he was shell-shocked for the rest of his life._ __2__ In a state of utter disbelief, confusion, grief, or shock caused by a powerful and upsetting event. _The family has been shell shocked after finding out their father had gambled away their life savings._  
 __shift gears__ :two::hammer:  
@@ -734,6 +748,7 @@ __snatch (someone) from the jaws of death__ To rescue someone at the last moment
 __snazzy__ Particularly elegant, dazzling, classy, or fancy in appearance. _Wow, that’s a snazzy new suit you’ve got on! Big meeting today or something?_ _She runs one of the snazziest clubs in town._  
 __sneak peek__  
 __snort at (someone or something)__  
+__snowball effect__ A situation in which the results or consequences of an action grow at an increasingly faster rate over time.  
 __so be it__  
 __so much so that__ :three::hammer:  
 __so-called__  
@@ -775,6 +790,7 @@ __stay clear of (someone)__ :dart:
 __stay on top of (someone or something)__  
 __stay put__ To not move or leave; to remain in same location or position.  
 __stay strong__ :es: mantente fuerte  
+__staying power__  
 __steal the show__  
 __steely-spined__ :dart: __2__ Determined and resolved. _You’ll never be able to talk Louise out of this—she’s as steely-spined as they come._ __3__ :dart: Calm and unflappable under pressure. _I asked my brother to come to court with me because he is always steely-spined in stressful situations._ _Gina needs to be steely-spined to deal with all the rejection that comes with being an actress._  
 __step in__ To enter into some position, activity, or situation to intervene or improve it.  
@@ -838,6 +854,7 @@ __talk (one’s) way out of (something)__ To use charming or persuasive speech i
 __tangle with (someone or something)__ To fight, argue, or engage in a dispute with someone or something.  
 __tap into__ :two::hammer:  
 __tap our__  
+__tape out__  
 __team up (with one)__  
 __tear up__ __1__ To violently rip or pull someone or something into pieces. In this usage, a noun or pronoun can be used between “tear” and “up.” :es: destrozar  
 __tear your hair out__ (tear (one’s) hair out) _informal_ Act with or show extreme desperation. To be extremely anxious, worried, frustrated, or stressed out about something. _We’ve been tearing our hair out trying to figure out what’s causing the server outages._  
@@ -860,9 +877,9 @@ __the keys to the kingdom__
 __the L-bomb__ An expression of romantic love for another, especially when said unexpectedly and/or for the first time. Usually used in the phrase “drop the L-bomb.” _We’d only been dating for a couple of months when he dropped the L-bomb on me. I was so shocked that all I could think to say back was, “Thank you!”_  
 __the law of the instrument__ See _Maslow’s hammer_.  
 __the light at the end of the tunnel__  
-__the likes of you__  
-__the likes of__  
+__the likes of__ :three::hammer:  
 __the lion’s den__  
+__the low road__ :dart::smiling_imp: Any method, practice, or course of action that is unethical, unscrupulous, underhanded, or otherwise base or vile. Most often used in the phrase “take the low road.” _It’s unfair that those who work the hardest will be undermined by those who choose to take the low road to success._ _I didn’t raise my son to be the type of person who would choose the low road in life!_  
 __the name of the game__  
 __the nuts and bolts__  
 __the order of the day__  
@@ -906,6 +923,7 @@ __to hell with (someone or something)__
 __to name (but) a few__  
 __to put it mildly__ To understate something; to say something politely. (Note the variation in the examples.) _She was angry at almost everyone—to put it mildly._ _To say she was angry is putting it mildly._ _To put it mildly, she was enraged._  
 __to the contrary__  
+__to the rescue__ Used to express when someone or something has saved the day, or provided valuable help.  
 __to this day__ :two::hammer:  
 __tongue-tied__  
 __top something off__  
