@@ -133,56 +133,6 @@ __cloakroom__ _n_
 __closehanded__ _adj_ Covetous; penurious; stingy; closefisted.  
 __clover__ _n_  
 __coalesce__ _v_  
-__cock__ _vt_ :dart::four: __3__ :dart: To tilt or turn up or to one side, usually in a jaunty or alert manner: _cocked an eyebrow in response to a silly question._  
-__cockeyed__ _adj_ Turned or twisted toward one side. _Syn_ askew, awry, lopsided, skew-whiff, wonky _He noticed that his tie was cockeyed and made sure to straighten it before meeting with the company executives._  
-__coerce__ _v_  
-__cohort__ _n_  
-__colander__ _n_ /KUH/KAH-luhn-duhr/ (cullender) A utensil with perforations, used for straining or draining foods.  
-__collapse__ _v_ :mega: /kəˈlæps/  
-__colonel__ _n_ :mega: /ˈkɜr nl/ /kur-nl/  
-__commence__ _v_  
-__commute<sup>1</sup>__ _vi_  
-__commute<sup>2</sup>__ _vt_ __1__ To substitute (one thing for another); exchange. __2__ To change (a penalty, debt, or payment) to a less severe one.  
-__commute<sup>3</sup>__ _n_  
-__compact__ _n_ :astonished: An agreement or a covenant. _He has made a compact with me._  
-__compel__ _vt_ _I began to compel it by the Holy Word._  
-__complaisant__ _adj_ /kum-PLAY-sunt/ Someone described as complaisant is willing or eager to please other people, or is easily convinced to do what other people want.  
-__condescension__ _n_ A communication that indicates lack of respect by patronizing the recipient. _Syn_ disdain, patronage  
-__condone__ _v_ /kun-DOHN/ To condone something that is considered wrong is to forgive or approve it, or to allow it to continue. _We cannot condone that kind of behavior._  
-__congeal__ _v_ Become gelatinous. _Syn_ jell, set  
-__conscript__ _n_ A conscripted person (such as a military recruit).  
-__consequent__ _adj, n_ :pencil2:  
-__consequential__ _adj_ :pencil2:  
-__consummate__ _vt_  
-__contrite__  
-__convene__ _v_  
-__converse__ _n_ :astonished: __1__ Something that is opposite or contrary. :es: opuesto; inversa  
-__convivial__ _adj_ /kənˈvɪv i əl/  
-__countervail__ _v_ Oppose and mitigate the effects of by contrary actions. _Syn_ counteract, counterbalance, neutralize  
-__covenant__  
-__covet__ _v_ _You shall not covet your neighbor’s house; you shall not covet your neighbor’s wife, or anything that belongs to your neighbor._  
-__cow__ _vt_ To frighten or subdue with threats or a show of force. _Syn_ intimidate  
-__cower__ _v_  
-__coy__ _adj_  
-__cozen__ _v_ :smiling_imp: /KUZ-un/ To cozen someone is to deceive, win over, or induce them to do something by coaxing or trickery. _The organization cozened scores of people by persuading them to participate in a fraudulent investment scheme._  
-__crackle__ _v_  
-__cradle__ _vt_ :pencil2: __1c__ To hold or support protectively: _cradled the cat in his arms._  
-__cram__ _v_ Study intensively, as before an exam. _Syn_ bone up, drum, get up, grind away, mug up, swot _I spent the week before my Latin final exam cramming, a strategy that paid off when I aced the class._  
-__crease<sup>1</sup>__ _n_ __1__ A line or mark produced by folding, pressing, or wrinkling. __2__ A wrinkle or furrow, esp on the face.  
-__crease<sup>2</sup>__ _vt_  
-__crease<sup>3</sup>__ _vi_  
-__crenelated__ _adj_  
-__crisp<sup>1</sup>__ _adj_ __1__ Firm but easily broken or crumbled; brittle: _crisp potato chips._  
-__crisp<sup>2</sup>__ _vt_ To make or keep crisp.  
-__crisp<sup>3</sup>__ _vi_ To become or remain crisp.  
-__crisp<sup>4</sup>__ _n_  
-__crony__ _n_  
-__crossbar__ _n_  
-__cruelly__ _adv_ __1__ Excessively: _a cruelly bitter winter._ __2__ With cruelty: _he treated his students cruelly._  
-__cynicism__ _n_ /ˈsɪn əˌsɪz əm/  
-__daffovil__ _n_  
-__dainty__  
-__Davos__ _n_ /ˈdɑːvɔs/ /ˈdævɒs/ A town of southeast Switzerland north of Saint Moritz. A fashionable resort, it is noted as the site of an annual international economic summit.  
 __dissipation__ _n_ _Heat dissipation._  
 __distil__ _v_  
 __divers__ _adj_ /DYE-verz/ Numbering more than one. _The tri-county fair offers divers amusements for the whole family._  
