@@ -12,11 +12,13 @@ __acerbic__ _adj_ Sharp or biting, as in character or expression. _Syn_ blisteri
 __acquiesce__  
 __actor__ _n_ :two: __2__ One who takes part; a participant.  
 __addlepated__ _adj_ /AD-ul-pay-tud/ Someone described as addlepated is mixed-up or confused. _Addlepated_ can also be used as synonym of eccentric.  
+__adorbs__ _adj_ /ə-ˈdȯrbz/ _informal_ Extremely charming or appealing. _Syn_ adorable  
 __adversary__ _n_ :mega: /ˈæd vərˌsɛr i/ /ˈædvəsərɪ/ /AD-ver-sair-ee/ _Adversary_ is an enemy or opponent.  
 __affidavit__ _n_  
 __afoot__ _adj, adv_  
 __agency__ _n_  
 __agonistic__ _adj_ Striving to overcome in argument. _Syn_ combative _The incumbent’s aggressive, agonistic approach to the debate alienated many of his supporters._  
+__airily__ _adv_ _Syn_ flippantly  
 __airlock__ _n_ A chamber that provides access to space where air is under pressure. _Syn_ air lock  
 __Alanis__ _n_ /əˈlænɪs/  
 __all-encompassing__ _adj_ Including everything or everyone. _We’re unlikely to find an all-encompassing solution._  
@@ -46,6 +48,7 @@ __armistice__ _n_ /AHR-muh-stus/
 __Arthur__ _n_ A legendary king of the Britons whose story is based on traditions of a sixth century military leader.  
 __ataractic__ _adj_ Of or relating to a drug or other agent that has a tranquilizing effect. _Syn_ sedative, tranquilizing _Valium has an ataractic effect that is useful in treating tension and anxiety._  
 __atonement__ _n_ Amends or reparation made for an injury or wrong. _Syn_ expiation, satisfaction  
+__audition__ _n_ /aw-DISH-un/ An audition is a short performance to show the talents of someone (such as an actor or a musician) who is being considered for a role in a play, a position in an orchestra, etc. _Auditions will be held next week for the spring musical._  
 __austere__ _adj_ :mega:  
 __back seat__ _n_ __2__ _informal_ A subordinate or inconspicuous position (esp in the phrase _take a back seat_).  
 __backstab__ _vt_ :smiling_imp:  
@@ -133,6 +136,7 @@ __cloakroom__ _n_
 __closehanded__ _adj_ Covetous; penurious; stingy; closefisted.  
 __clover__ _n_  
 __coalesce__ _v_  
+__detail__ _n_ __7a__ A group of military personnel assigned to a particular duty, usually a fatigue duty. __b__ The duty assigned: _garbage detail._  
 __dissipation__ _n_ _Heat dissipation._  
 __distil__ _v_  
 __divers__ _adj_ /DYE-verz/ Numbering more than one. _The tri-county fair offers divers amusements for the whole family._  
@@ -153,6 +157,7 @@ __fab<sup>1</sup>__ _n_ _informal_ Fabrication: _building a shed of metal fab._
 __fab<sup>2</sup>__ _adj_ _slang_ Fabulous; wonderful.  
 __fabless__ _n_  
 __face__ _n_ :mega: /feɪs/ (_vs_ phase /feɪz/)  
+__facetious__ _adj_ /fuh-SEE-shuss/ _Facetious_ is used to describe something, such as a remark or behavior, that is meant to be humorous or funny but is sometimes instead annoying, silly, or improper. It can also be used to describe someone who is joking, often implying that they are doing so inappropriately.  
 __fang__ _n_  
 __fault line__ _n_  
 __feisty__ _adj_ :astonished: /FYE-stee/ _Feisty_ describes someone who has or shows a lively aggressiveness especially in being unafraid to fight or argue. In some regions of the US, _feisty_ may also be used as a synonym of _fidgety_, _quarrelsome_, or _frisky_. _Even her opponents admire her feisty spirit._  
@@ -186,7 +191,7 @@ __flighty__ _adj_ /ˈflaɪtɪ/
 __flinch__ _vi_ :es: estremecerse; encogerse  
 __fling__ _v_ :two::hammer: (flung)  
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
-__flit__ _vi_ __1__ To move about rapidly and nimbly. __2__ To move quickly from one condition or location to another.  
+__flit__ _vi_ :two: __1__ To move about rapidly and nimbly. __2__ To move quickly from one condition or location to another.  
 __florid__ _adj_ :two: __1__ Flushed with rosy color; ruddy. _A florid face._  
 __flounder__ _vi_  
 __fluke__ _n_  
@@ -295,6 +300,7 @@ __grovel__ _vi_
 __grueling__ _adj_ /ˈgru ə lɪŋ, ˈgru lɪŋ/  
 __grunt__ _n_ :two::hammer: _Grunt work._  
 __guarded__ _adj_ /ˈgɑr dɪd/ __2__ Cautious; careful; prudent: _guarded comments._  
+__guardedly__ _adv_ In a conservative manner.  
 __guardrail__ _n_ :two: A protective railing, as on a staircase or along a highway.  
 __guffaw__ _n_  
 __gull__ _vt_ :smiling_imp: To deceive or cheat. :es: embaucar  
@@ -438,6 +444,7 @@ __kraken__ _n_ (often cap.) A huge sea monster in Norwegian legend.
 __lackey__ _n_ /ˈlækɪ/  
 __lair__ _n_  
 __lambent__ _adj_ :two::hammer:  
+__lament__ _n_ A song or hymn of mourning composed or performed as a memorial to a dead person. _Syn_ coronach, dirge, requiem, threnody  
 __largess__ _n_  
 __lariat__ _n_ :two::hammer:  
 __Latin cross__ _n_ A cross with a shorter horizontal bar intersecting a longer vertical bar above the midpoint.  
@@ -639,6 +646,7 @@ __off-the-shelf__ _adj_
 __oligarchy__ _n_ :two: _Oligarchy_ can refer to a government in which a small group exercises control especially for corrupt and selfish purposes, as well as to the group exercising such control.  
 __one-time__ _adj_  
 __onerous__ _adj_ :dart:astonished: Troublesome or oppressive. _Syn_ burdensome, taxing  
+__onlooker__  
 __opine__ _v_ /oh-PYNE/ :two: To opine is to express an opinion about something. Express one’s opinion openly and without fear or hesitation. _Syn_ animadvert, sound off, speak out, speak up  
 __opinionated__  
 __orderly__ _n_ __1__ An attendant who does routine, nonmedical work in a hospital. __2__ A soldier assigned to attend and perform various tasks for a superior officer.  
@@ -721,6 +729,8 @@ __pitch<sup>2</sup>__ _vt_
 __pithy__ _adj_ :two: __1__ Precisely meaningful; forceful and brief: _a pithy comment._ __2__ Consisting of or resembling pith.  
 __pittance__ _n_ :two::hammer:  
 __plaintiff__ _n_  
+__plaintive__ _adj_ :dart: Expressing sorrow; mournful or melancholy.  
+__plaintively__ _adv_ :dart: :es: lastimeramente, con dolor  
 __planter__ _n_  
 __plead__ _v_  
 __plebiscite__ _n_  
@@ -768,6 +778,7 @@ __publican__ _n_ _BrE_ :astonished:
 __pucker<sup>1</sup>__ _v_ To draw or gather into wrinkles or irregular folds; constrict.  
 __pucker<sup>2</sup>__ _n_ A wrinkle, crease, or irregular fold.  
 __puckering__ _n_ Corrugations in metal parts resulting from pressing or drawing.  
+__pudgy__ _adj_  
 __puff__ _v_  
 __pulse__ _n_ __1__ The edible seeds of certain pod-bearing plants, such as lentils and chickpeas. :es: legumbres __2__ A plant yielding these seeds.  
 __pumpkin spice__ _n_ A mixture of usually cinnamon, nutmeg, ginger, cloves, and often allspice that is commonly used in pumpkin pie.  
@@ -909,6 +920,7 @@ __scuffling<sup>1</sup>__ _adj_ Of or relating to fighting in a disorderly manne
 __scuffling<sup>2</sup>__ _n_ The act of fighting in a disorderly manner.  
 __secular__ _adj_ /SEK-yuh-ler/ _Secular_ describes things that are not spiritual; that is, they relate more to the physical world than the spiritual world. The word also carries the closely related meaning of “not religious.”  
 __sentient__ _adj_  
+__settle__ _v_ /ˈsɛtəl/ __12__ (Banking & Finance) (sometimes foll by _up_) To pay off or account for (a bill, debt, etc). _He settled the bill before leaving._  
 __shamble<sup>1</sup>__ _vi_ :dart: To walk or move along in an awkward or unsteady way.  
 __shamble<sup>2</sup>__ _n_ An awkward or unsteady walk.  
 __sharp__ _adj_ __6__ Vigilant; alert: _kept a sharp lookout for shoplifters._ _Stay sharp._  
@@ -920,6 +932,8 @@ __singeing__ _n_
 __skid__ _v_ _The car skidded to a halt._ → :es: _El coche patinó y paró._  
 __skiff__ _n_ :two: A flatbottom open boat of shallow draft, having a pointed bow and a square stern and propelled by oars, sail, or motor.  
 __skirmish__  
+__skulk__ _vi_  
+__skulking__ _n_ Evading duty or work by pretending to be incapacitated.  
 __slaver__ _n_ __1__ Saliva drooling from the mouth. _Syn_ drivel, slabber, slobber, drool, dribble __2__ Senseless and effusive talk; drivel.  
 __smote__ _v_ Past tense and a past participle of smite.  
 __snicker__ _v_  
@@ -929,12 +943,16 @@ __stammer__ _v_ To speak with involuntary pauses or repetitions. _Syn_ bumble, f
 __standoff__ _n_  
 __stark<sup>1</sup>__ _adj_  
 __stark<sup>2</sup>__ _adv_ completely: _stark mad; stark dead._ Utterly; entirely: _stark raving mad._  
+__startled__ _adj_  
 __steed__ _n_ __1__ A horse, especially a spirited one. __2__ An animal used for riding: _the use of camels as steeds._  
 __stiff-person syndrome__ _n_ (SPS)  
 __stud__ _n_ _The lightsaber control stud._  
+__subterfuge__ _n_ :smiling_imp: A stratagem employed to conceal something, evade an argument, etc.  
 __succinct__ _adj_ :pencil2:  
 __sulfurous__ _adj_ Harsh or corrosive in tone. _Syn_ acid, blistering, caustic, vitriolic, acrid, acerbic, bitter, virulent _Her sulfurous denunciation of the governor was aired on the news that evening._  
 __sunny__ _adj_  
+__surly__ _adj_  
+__surreptitious__ _adj_  
 __surreptitiously__ _adv_  
 __sward__ _n_ /SWORD/ _Sward_ is a literary word that refers to an area of land covered with grass.  
 __swat__ _n_  
@@ -954,15 +972,19 @@ __thrombosis__ _n_
 __thrum__ _v_ :three::hammer:  
 __thrumming__ _n_  
 __thug__ _n_  
+__thundercloud__ _n_  
 __thunk__ _n_  
 __tiddlywinks__ _n_ A game played on a flat surface, in which players attempt to snap small plastic disks into a cup by pressing the edges of the disks with larger ones.  
 __till__ _n_ :es: caja registradora  
 __tinderbox__ _n_ :dart: __1__ A metal box for holding tinder. __2__ :dart: A person or thing that is highly volatile; any potential source of violence. A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
 __tingling<sup>2</sup>__ _adj_ :two::hammer:  
+__toss up<sup>1</sup>__ _v_  
+__toss up<sup>2</sup>__ _n_  
 __transient__ _adj, n_  
 __tried-and-tested__ _adj_ Recognized as reliable; found to be successful.  
 __trilling__ _n_ The production of a trill sound.  
 __tsk__ _vi_ :two::pencil2: To utter the exclamation “tsk.”  
+__tuft__ _n_ _Tufts of hair._ :es: mechón  
 __turnkey__ _adj_  
 __twitch__ _v_  
 __uncontested__ _adj_ /ˌʌn kənˈtɛs tɪd/ Not contested; unchallenged: _an uncontested victory._  
@@ -976,6 +998,7 @@ __upskill__ _vt_ /ˈʌpˌskɪl/
 __uptake__ _n_  
 __virtuoso__ _n_ /ver-choo-OH-soh/ _Virtuoso_ is used broadly to refer to a person who does something very skillfully, and is often used specifically to refer to a very skillful musician.  
 __voltmeter__ _n_ /ˈvoʊltˌmi tər/ A calibrated instrument for measuring the potential difference between two points in volts. :es: voltímetro  
+__voluminous__ _adj_ Large in number or quantity (especially of discourse). _Syn_ copious _She took voluminous notes during the lecture, and her classmates begged for copies._  
 __wan__ _adj_  
 __wanderlust__ _n_ /WAHN-der-lust/  
 __wanly__ _adv_ In a weak or pale or languid manner. _She was smiling wanly._  
