@@ -637,56 +637,6 @@ __nullifier__ _n_
 __nursing__ _n_ __1__ The profession of a nurse. __2__ The tasks or care of a nurse.  
 __nurture__ _n, vt_  
 __nutmeg__ _n_  
-__nuzzle__ _v_ :dart::four: Move or arrange oneself in a comfortable and cozy position. _Syn_ cuddle, draw close, nest, nestle, snuggle _We nuzzled against each other to keep warm and quickly fell asleep._ _I nuzzled her neck._  
-__oath__ _n_  
-__obfuscate__ _v_ /AHB-fuh-skayt/ To obfuscate something is to make it more difficult to understand. Obfuscate can also mean “to be evasive, unclear, or confusing.”  
-__oblige__ _vt_  
-__obsequious__ _adj_  
-__off-the-shelf__ _adj_  
-__oligarchy__ _n_ :two: _Oligarchy_ can refer to a government in which a small group exercises control especially for corrupt and selfish purposes, as well as to the group exercising such control.  
-__one-time__ _adj_  
-__onerous__ _adj_ :dart:astonished: Troublesome or oppressive. _Syn_ burdensome, taxing  
-__onlooker__  
-__opine__ _v_ /oh-PYNE/ :two: To opine is to express an opinion about something. Express one’s opinion openly and without fear or hesitation. _Syn_ animadvert, sound off, speak out, speak up  
-__opinionated__  
-__orderly__ _n_ __1__ An attendant who does routine, nonmedical work in a hospital. __2__ A soldier assigned to attend and perform various tasks for a superior officer.  
-__out-of-order execution__ _n_ :two: In computer engineering, _out-of-order execution_ (or more formally dynamic execution) is a paradigm used in most high-performance central processing units to make use of instruction cycles that would otherwise be wasted.  
-__outskirts__ _n pl_  
-__outweigh__ _vt_  
-__overworked__ _adj_ :dart:  
-__pad__ _v_  
-__palisade__ _n_  
-__pallor__ _n_ A pale condition, esp when unnatural: _fear gave his face a deathly pallor._  
-__pander__ _v_ To say, do, or provide what someone wants or demands even though it is not proper, good, or reasonable.  
-__pantheon__ _n_  
-__pardon<sup>1</sup>__ _vt_  
-__pardon<sup>2</sup>__ _n_  
-__parlay__ _vt_  
-__parry__ _v_  
-__pastiche__ _n_ /pass-TEESH/ _Pastiche_ refers to something (such as a piece of writing, music, etc.) that imitates the style of someone or something else. It can also refer to a work that is made up of selections from multiple other works, or it can be used as a synonym of _hodgepodge._  
-__patter__ _v_ Plausible glib talk (especially useful to a salesperson). _Syn_ line of gab, spiel  
-__patty__ _n_  
-__paucity__ _n_ Smallness of number; fewness. _Syn_ dearth  
-__pauperism__ _n_ A state of extreme poverty or destitution. _Syn_ indigence, penury, need  
-__payload__ _n_  
-__payslip__ _n_ (pay slip) A piece of paper received by an employee showing how much salary they have been paid.  
-__peal__ _n_ :two: __1__ A ringing of a set of bells, especially a change or set of changes rung on bells. __2__ A set of bells tuned to each other; a chime. __3__ A loud burst of noise: _peals of laughter._  
-__peanut brittle__ _n_ A hard toffee containing peanuts.  
-__peckish__  
-__peculiar__ _adj, n_  
-__pedestrian__ _adj, n_  
-__pejorist__ _n_ /PEJ-uh-rist/ A person who believes that the world is getting worse.  
-__pelt__ _v_  
-__pelt<sup>1</sup>__ _vt_  
-__pelt<sup>2</sup>__ _vi_ __3__ (foll by _along_, _over_, etc) To move rapidly; hurry. _I pelted towards the Beetle._  
-__pelt<sup>n</sup>__ _n_ :two::hammer:  
-__pen test__ _n_ (penetration test) An authorized simulated cyberattack on a computer system, performed to evaluate the security of the system.  
-__pensive__  
-__pent-up__ _adj_ (pent up _when postpositive_) __1__ Not given expression; repressed: _pent-up emotions._ __2__ Kept unwillingly: _I’ve been pent up in this office for over a year._  
-__pentacle__ _n_ :dart: /ˈpɛn tə kəl/ A star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon. _Syn_ pentagram, pentangle  
-__penury__ _n_ Extreme want or poverty; destitution. _Syn_ indigence, pauperism, beggary, need  
-__people pleaser__ _n_ (people-pleaser) _As a recovering people-pleaser, saying no is particularly hard to me._  
-__pepper__ _vt_  
 __peppermint__ _n_ __1__ Herb with downy leaves and small purple or white flowers that yields a pungent oil used as a flavoring. :es: menta __2__ Red gum tree of Tasmania. __3__ a candy flavored with peppermint oil. _Syn_ peppermint candy  
 __peptic ulcer__ _n_ An erosion of the mucous membrane of the lower esophagus, stomach, or duodenum, caused in part by the corrosive action of the gastric juice.  
 __peradventure__ _n_ Chance, doubt, or uncertainty.  
