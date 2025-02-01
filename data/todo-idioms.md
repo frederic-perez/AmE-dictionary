@@ -52,56 +52,6 @@ __all too soon__ The idiom “all too soon” means that something happened much
 __and everything in between__ Including all the possibilities or varieties within a range. _The store sells clothes for men, women, and children, and everything in between._ _Life has its ups and downs, and everything in between._  
 __anyone’s guess__  
 __around the clock__ ((a)round the clock)  
-__at any rate__ :four::hammer:  
-__at length__  
-__at the end of the day__  
-__baby blues__ __1__ A usually brief period of sadness, anxiety, and mood swings experienced by a large percentage of women after giving birth. _When I had the baby blues after having my first child, I would find myself crying without knowing why._ __2__ Blue eyes, especially those that are light blue. _I just had to ask for Sean’s number after I got a glimpse of his baby blues—I’d never seen such striking eyes before!_  
-__backer__ One who supports a business or enterprise, usually financially. _This guy is a billionaire, so we definitely need to secure him as a backer._  
-__backwater__ :dart: A place that is extremely remote or isolated, such that it is removed from the reach and influence of the outside world and thus is often regarded as socially stagnant or backward. _He grew up in a bit of a backwater, so his manners aren’t exactly refined._ _The backwater of the Empire._  
-__bae__ _slang_ One’s romantic partner. Often used as a term of endearment. _Syn_ boo _I don’t have any plans tonight—just staying home with bae._  
-__bagel bender__  
-__battle-tested__ Which has been successfully put to the test in a real-life situation, in conditions of real use. _Syn_ tried and tested, proven  
-__be a long shot__ To be very risky, uncertain, or unlikely to succeed, as of an attempt, proposition, or guess. _I know this is a long shot, but would you like to go out on a date with me sometime?_  
-__be a loudmouth__ To have a tendency or habit of speaking incessantly, indiscreetly, or in a noisy, boastful manner. _I can’t stand Terry’s new husband—he’s such a loudmouth when he drinks!_  
-__be here to stay__  
-__be looking for trouble__ To be doing something or acting in a manner that will very likely result in trouble, difficulty, or danger. _I’d keep your mouth shut if you want to keep your job—arguing with the boss like that is just looking for trouble!_  
-__beanpole__ One who is very skinny. _Susie is such a beanpole now that she’s had her growth spurt._  
-__bestie__ :two: _slang_ One’s closest friend.  
-__big fish in a small pond__ (a big fish in a small pond)  
-__big splash__ :two: A significant or dramatic impact or impression, often created by a public or notable event or action. It implies something that attracts a lot of attention and generates a strong reaction.  
-__bite (one’s) nails__ To nervously await something. _I’ve been biting my nails ever since I submitted my application for my first-choice college._  
-__boo__ _slang_ One’s romantic partner. Often used as a term of endearment. _Syn_ bae _I don’t have any plans tonight—just staying home with my boo._  
-__brace (oneself) for (something)__  
-__burn (someone or something) to a cinder__  
-__burn (someone or something) to a crisp__  
-__buzzword__  
-__by all means__ :two::hammer:  
-__by all rights__ (less common than _by rights_) With reason or justice. _Syn_ properly  
-__by rights__ With reason or justice. _Syn_ properly  
-__call for (someone or something)__  
-__catch (someone’s) fancy__ To be appealing or pleasant to someone; to be intriguing or of interest to someone.  
-__closed-door__ (used as a modifier before a noun) Not open to or in view of the public; private or secret. _There have been a lot of closed-door meetings recently to discuss the sale of the company._  
-__crummy__ _informal_ __1__ Bad or unpleasant. _I’m feeling pretty crummy—I hope I’m not coming down with something._ __2__ Of poor quality. _Darn it, my crummy suitcase fell apart as I was trying to pack it._  
-__cry (one) a river__ Said sarcastically to someone whose whining, complaints, or tears fall on unsympathetic ears. Most often said as “cry me a river.”  
-__cry over spilled milk__ :two::hammer: _It’s no use crying over spilled milk._  
-__cut (one’s) teeth__ :dart: To gain experience with something, especially at a young age (when one’s teeth would be coming in). _That part-time administrative position allowed me to cut my teeth in the world of Human Resources._  
-__cut (someone or something) loose__  
-__cut and dry__ The “idiom cut and dry” refers to something that is clear, straightforward, and unambiguous. It describes situations, decisions, or outcomes that are easily understood and leave little room for doubt or interpretation.  
-__cut bait__  
-__cut eyes at (someone or something)__ To look at someone or something quickly.  
-__cut it__  
-__cut loose__  
-__cut to the chase__ Get to the point; skip unnecessary details. Ellroy’s characters, often hard-nosed detectives or criminals, use this phrase to cut through the layers of deception and get straight to the core of a matter.  
-__dabble in (something)__ To do something sporadically or as a hobby.  
-__dance on air__ To be extremely happy.  
-__dang it__  
-__day in and day out__  
-__day of reckoning__ The day on which something must be confronted or becomes unavoidable. This term originated in the Bible. _Well, it’s the day of reckoning now—whether you studied or not, you have to take the test._  
-__dead run__ Coming as fast as one can, often in a harried state.  
-__dead__ __5__ Absolutely. _You’d better be dead certain about this decision, because you can’t take it back._  
-__deadhead__ __3__ _n_ _slang_ One who is regarded as dumb, dull, or stupid.  
-__dearth__ _n_ /dɜːθ/  
-__denial of care__ “Denial of care” refers to a situation where a healthcare provider or facility refuses to provide medical treatment or services to a patient, even though the patient requires care.  
 __diddly__ _n_ :dart: __1__ Nothing; anything at all (when used in negative statements). _I have to admit that I know diddly when it comes to computers._ __2__ A small or worthless amount: _His advice wasn’t worth diddly to me._  
 __dig (something)__ _slang_ To understand, approve of, or enjoy something. _I really dig this music, man!_  
 __dig and poke around__ The idiom “dig and poke around” generally means to search or investigate something thoroughly by looking through various items or areas, often in a somewhat casual or unstructured manner.  
