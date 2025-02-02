@@ -57,56 +57,6 @@ __baldric__ _n_ :camera: A belt, usually of ornamented leather, worn crossbody t
 __bare__ _vt_ __1__ To make bare; uncover or reveal: _bared their heads; baring secrets._ __2__ To expose: _The dog bared its teeth._  
 __barracks__ _n pl_ :two: /ˈbærəks/ __1__ A building or group of buildings used to accommodate military personnel.  
 __baseline__ _n_  
-__bay<sup>1</sup>__ _n_ :two::hammer:  
-__bay<sup>2</sup>__ _vi_ :three: To howl, esp. with a deep, prolonged sound: _a hound baying at the moon._  
-__bay<sup>3</sup>__ _vt_ __1__ To utter in a loud prolonged tone. __2__ To drive to or hold at bay.  
-__beatific__ _adj_ /bee-uh-TIFF-ik/ _Beatific_ is a formal word that describes something or someone having a blissful appearance or showing complete happiness. _As the pair danced, beatific smiles on their faces, the audience sat hushed and almost reverential._  
-__beetle<sup>1</sup>__ _n_  
-__beetle<sup>2</sup>__ _adj_ Projecting; overhanging: _beetle brows._  
-__beetle<sup>3</sup>__ _v_ To project or overhang. _His brow beetled._  
-__befuddle__ _vt_ _Luke used the Force to befuddle the Gamorrean guards._  
-__belatedly__ _adv_ Later than usual or than expected.  
-__belay__ _v_ :es: amarrar  
-__beleaguer__ _v_ /bih-LEE-gur/ To beleaguer a person, business, etc. is to cause them constant or repeated trouble. _Beleaguer_ is also sometimes used as a synonym of besiege.  
-__bereaved__ _adj_  
-__best-in-class__  
-__better<sup>3</sup>__ _n_ (bettor) A person who bets.  
-__better<sup>4</sup>__ _v_  
-__biddy__ _n_ __2__ A woman, especially an older one who is extremely talkative.  
-__blamable__ _adj_ Deserving blame or censure as being wrong or evil or injurious. _Syn_ blameworthy, censurable, culpable _You are aware that I am no way blamable in this matter._  
-__blizzard__ _n_  
-__bloodletting__ _n_  
-__blooper__ _n_  
-__bob__ _v_ _I bobbed my eyebrows at them._  
-__bole__ _n_ __1__ The trunk of a tree.  
-__breakout__ _n_  
-__bridge__ _vt_  
-__brumal__ _adj_ :astonished: Of, characteristic of, or relating to winter; wintry.  
-__buck__ _v_  
-__Budapest__ _n_ The capital and largest city of Hungary, in the north-central part of the country on the Danube River. It was formed in 1873 by the union of Buda on the right bank of the river with Pest on the left bank.  
-__burrow__ _v_  
-__busybody__ _n_  
-__butcher<sup>1</sup>__ _n_  
-__butcher<sup>2</sup>__ _v_ :dart::two: __1__ To slaughter or prepare (animals) for market. __2__ To kill brutally or indiscriminately. __3__ :dart: To botch; bungle: _butcher a project; butchered the language._  
-__buyout__ _n_  
-__buzzcut__  
-__cachet__ _n_ /ka-SHAY/  
-__cackle<sup>1</sup>__ _vi_  
-__cackle<sup>2</sup>__ _vt_  
-__cackle<sup>3</sup>__ _n_  
-__cadge__ _v_  
-__calico__ _n_  
-__canasta__ _n_ A card game similar to rummy and played using two packs, where the object is to meld groups of the same rank.  
-__canine tooth__ _n_ One of the four pointed conical teeth (two in each jaw) located between the incisors and the premolars. _Syn_ canine, cuspid, eye tooth, eyetooth, dogtooth  
-__canister__ _n_ _A film canister._  
-__Capitol Hill__ _n_  
-__carbon footprint__ _n_  
-__careen__ _v_ Move sideways or in an unsteady way. _Syn_ wobble, tilt, shift _The ship careened out of control in the storm._  
-__carouse__ _v_  
-__castoff__ _n_ _After the fashion show, the designer donated all the castoffs—clothes that were no longer needed—to a local charity._  
-__cater__  
-__catnap<sup>1</sup>__ _n_  
-__catnap<sup>2</sup>__ _vi_  
 __cavalier__ _adj_ :dart::astonished: /ˌkæv əˈlɪər, ˈkæv əˌlɪər/ /kav-uh-LEER/ Someone described as _cavalier_ shows no concern for important or serious matters. Cavalier also describes attitudes, manners, etc., that show the same lack of concern. _The company provides regular training about the dangers of being cavalier in sharing privileged information._  
 __cerulean__ _adj_ /suh-ROO-lee-un/ Cerulean describes things whose blue color resembles the blue of a clear sky.  
 __chastening__ _adj_ Humbling.  
