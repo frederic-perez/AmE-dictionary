@@ -50,6 +50,7 @@ __ataractic__ _adj_ Of or relating to a drug or other agent that has a tranquili
 __atonement__ _n_ Amends or reparation made for an injury or wrong. _Syn_ expiation, satisfaction  
 __audition__ _n_ /aw-DISH-un/ An audition is a short performance to show the talents of someone (such as an actor or a musician) who is being considered for a role in a play, a position in an orchestra, etc. _Auditions will be held next week for the spring musical._  
 __austere__ _adj_ :mega:  
+__Ayurveda__ _n_ The conventional Hindu system of medicine, founded chiefly on naturopathy and homeopathy.  
 __back seat__ _n_ __2__ _informal_ A subordinate or inconspicuous position (esp in the phrase _take a back seat_).  
 __backstab__ _vt_ :smiling_imp:  
 __badger__ _v_  
@@ -57,6 +58,7 @@ __baldric__ _n_ :camera: A belt, usually of ornamented leather, worn crossbody t
 __bare__ _vt_ __1__ To make bare; uncover or reveal: _bared their heads; baring secrets._ __2__ To expose: _The dog bared its teeth._  
 __barracks__ _n pl_ :two: /ˈbærəks/ __1__ A building or group of buildings used to accommodate military personnel.  
 __baseline__ _n_  
+__blueprint__  
 __cavalier__ _adj_ :dart::astonished: /ˌkæv əˈlɪər, ˈkæv əˌlɪər/ /kav-uh-LEER/ Someone described as _cavalier_ shows no concern for important or serious matters. Cavalier also describes attitudes, manners, etc., that show the same lack of concern. _The company provides regular training about the dangers of being cavalier in sharing privileged information._  
 __cerulean__ _adj_ /suh-ROO-lee-un/ Cerulean describes things whose blue color resembles the blue of a clear sky.  
 __chastening__ _adj_ Humbling.  
@@ -86,6 +88,7 @@ __cloakroom__ _n_
 __closehanded__ _adj_ Covetous; penurious; stingy; closefisted.  
 __clover__ _n_  
 __coalesce__ _v_  
+__countless__  
 __detail__ _n_ __7a__ A group of military personnel assigned to a particular duty, usually a fatigue duty. __b__ The duty assigned: _garbage detail._  
 __dissipation__ _n_ _Heat dissipation._  
 __distil__ _v_  
@@ -395,6 +398,7 @@ __lackey__ _n_ /ˈlækɪ/
 __lair__ _n_  
 __lambent__ _adj_ :two::hammer:  
 __lament__ _n_ A song or hymn of mourning composed or performed as a memorial to a dead person. _Syn_ coronach, dirge, requiem, threnody  
+__landlocked country__ _n_ (landlocked state) A sovereign state that does not have territory connected to an ocean or whose coastlines lie on endorheic basins.  
 __largess__ _n_  
 __lariat__ _n_ :two::hammer:  
 __Latin cross__ _n_ A cross with a shorter horizontal bar intersecting a longer vertical bar above the midpoint.  
@@ -479,6 +483,7 @@ __memento__ _n_ :mega: /muh-MEN-toh/ _Memento_ is a synonym of _souvenir_; it re
 __memsahib__ _n_  
 __menagerie__ _n_ A collection of wild or unusual animals, especially for exhibition.  
 __menorah__ _n_ /muh-NOR-uh/ A candelabra with seven or nine lights that is used in Jewish worship.  
+__mentorship__  
 __merc__ _n_ _informal_  
 __meritocracy__ _n_  
 __mesa__ _n_ A broad, flat-topped elevation with one or more clifflike sides, common in the southwest United States. _Syn_ table  
@@ -576,6 +581,7 @@ __nontrivial__ _adj_
 __noose__ _n_ :es: nudo corredizo, lazo, soga  
 __noose<sup>1</sup>__ _n_ :es: nudo corredizo; lazo; soga  
 __noose<sup>2</sup>__ _vt_ :es: coger con lazo  
+__not-for-profit__  
 __notice__ _n_ :es: crítica  
 __noticeboard__ _n_ Bulletin board.  
 __notorious__  
@@ -714,6 +720,7 @@ __ragbag__ _n_
 __ragweed__ _n_  
 __railing__ _n_ __1__ (Building) (often plural) A fence, balustrade, or barrier that consists of rails supported by posts. _Balcony railing._  
 __rain slicker__ _n_ A type of waterproof coat designed to protect the wearer from rain and wet conditions.  
+__ramification__  
 __rampage<sup>1</sup>__ _n_ Violently angry and destructive behavior. _Syn_ violent disorder  
 __rampage<sup>2</sup>__ _v_ Act violently, recklessly, or destructively.  
 __rampart__ _n_  
@@ -801,6 +808,7 @@ __row__ _n_ :astonished: __1__ A noisy or quarrel or disturbance.
 __rudder__ _n_  
 __runes__ _n_ __1__ Symbols of an ancient alphabet, used for divination.  
 __runnel__ _n_  
+__runway__ _n_  
 __rush__ _v_  
 __ruthless__  
 __sacrilege__ _n_ Desecration, profanation, misuse, or theft of something sacred. _Syn_ blasphemy, desecration, profanation  
@@ -910,7 +918,7 @@ __whirl__ _v_
 __woe__ _n_  
 __woke__ _adj_  
 __wry__  
-__wryly__ _adv_ :dart::two: In a wry manner. :es: irónicamente  
+__wryly__ _adv_ :dart::three: In a wry manner. :es: irónicamente  
 __Xmas__ _n_  
 __yacht<sup>1</sup>__ _n_  
 __yacht<sup>2</sup>__ _vi_ To sail, cruise, or race in a yacht.  
@@ -920,6 +928,7 @@ __ye__ _pron_ Obsolete form of _you._
 __yelp__ _n_ :two::hammer:  
 __yelp<sup>1</sup>__ _n_ :two::hammer:  
 __yelp<sup>2</sup>__ _v_  
+__yield__ _n_  
 __yo-yo__ _n_  
 __yoga__ _n_ [:scroll: From Hindi yoga, from Sanskrit yoga-s, literally “union, yoking” (with the Supreme Spirit)] _Hatha/Mantra/Karma/Bhakti/Raja/Jnana/Kundalini yoga._  
 __yokel__ _n_  

@@ -44,14 +44,26 @@ __a losing game__ A failing or hopeless effort; a situation or activity that is 
 __abandon ship__  
 __about time__ ((it’s) (a)bout time)  
 __ace__  
+__against all odds__  
 __ahead of the curve__  
 __all eyes are on (someone or something)__ Everyone is paying close attention to someone or something.  
+__all shapes and sizes__  
 __all the more reason for (doing something)__ (all the more reason to (do something)) What has just been stated is an added reason or motivation to do something. With even better reason or cause for doing something. _If your crush likes basketball, that’s all the more reason for coming with me to the game tonight!_  
 __all the same__  
 __all too soon__ The idiom “all too soon” means that something happened much earlier than expected or desired, often with a sense of regret or disappointment. It conveys the idea that an event occurred prematurely or that a positive experience ended quickly. “The holidays were over all too soon,” implies that the speaker wished the holidays had lasted longer. “Graduation came all too soon,” suggests that the speaker felt unprepared for the end of their schooling.  
 __and everything in between__ Including all the possibilities or varieties within a range. _The store sells clothes for men, women, and children, and everything in between._ _Life has its ups and downs, and everything in between._  
 __anyone’s guess__  
 __around the clock__ ((a)round the clock)  
+__badass__  
+__battle-hardened__  
+__be up to (something)__  
+__big player__ A “big player” typically refers to a person or entity that has significant influence, power, or importance in a particular field or industry. It can be used to describe someone with a lot of resources, experience, or market share, making them a key figure in a given situation or environment.  
+__bring about__  
+__brood over__ To worry anxiously or be despondent about something or someone, especially at great length and in isolation. _I know you’re upset about failing your exam, but don’t brood over it all weekend._  
+__bump in the road__ A problem that arises and interferes with forward progress (usually only temporarily).  
+__catch up with (someone)__  
+__close to one’s chest__  
+__conspiracy theory__ _n_ The belief that the government or a covert organization is responsible for an event that is unusual or unexplained, esp when any such involvement is denied.  
 __diddly__ _n_ :dart: __1__ Nothing; anything at all (when used in negative statements). _I have to admit that I know diddly when it comes to computers._ __2__ A small or worthless amount: _His advice wasn’t worth diddly to me._  
 __dig (something)__ _slang_ To understand, approve of, or enjoy something. _I really dig this music, man!_  
 __dig and poke around__ The idiom “dig and poke around” generally means to search or investigate something thoroughly by looking through various items or areas, often in a somewhat casual or unstructured manner.  
@@ -68,6 +80,7 @@ __don’t ask me__
 __don’t get me started__  
 __don’t give a rat’s ass__  
 __don’t mention it__  
+__done and dusted__ Successfully finished. Primarily heard in UK.  
 __doodad__ A name for a gadget or thing whose actual name is unknown or has been forgotten. _Where’s that doodad? I need it to finish this repair._  
 __doom amd gloom__  
 __doom and gloom__  
@@ -79,6 +92,7 @@ __doze off__
 __drape (something or oneself) over (someone or something)__ __1__ To lay on a piece of furniture, usually with one’s limbs splayed. In this usage, a reflexive pronoun is used between “drape” and “over.” _John came in and draped himself over the sofa while moaning about his ex-girlfriend._ __2__ To loosely place something over someone or something. In this usage, a noun or pronoun is used between “drape” and “over.” _It wasn’t as cold out when I left the theater, so I just draped my coat over my shoulders._  
 __drape over (something)__ [for cloth] To cover something and hang down. _The robe draped over her knees, but she was still cold._ _The tablecloth draped over and reached down to the floor._  
 __draw a bead on (someone or something)__  
+__draw on__  
 __draw to a close__  
 __draw water__  
 __dreamboat__ A very attractive or appealing person.  
@@ -167,9 +181,11 @@ __full circle__ Back to an original state or position. Often used in the phrase 
 __full stop__  
 __fumble the ball__ “Fumble the ball” and “drop the ball” are similar in meaning and can often be used interchangeably. Both idioms refer to making a mistake or failing to perform a task properly, especially when it’s important or when someone misses an opportunity. However, “fumble the ball” may sometimes carry a slightly more connotative idea of clumsiness or mishandling, while “drop the ball” is more commonly used to emphasize failing to follow through or neglecting responsibility. Despite these subtle differences, they are generally understood in the same way.  
 __Galentine’s Day__ _informal_ [:scroll: Blend of _gal_ + _Valentine’s Day_, originally the title and subject of the 16th episode of the second season of the American comedy television series _Parks and Recreation_, first broadcast in 2010.] A day on which women hold a party around the time of Saint Valentine’s Day, typically on February 13.  
+__galvanize (one) into action__ To induce or cause one to start doing something.  
 __gee__ __2__ _exclam._ Wow! (An abbreviation of Jesus!, although not always recognized as such. Usually Gee!) _Golly gee, do I have to?_  
 __geek out__  
 __get a handle on (something)__ To have a firm, clear understanding or determination of something.  
+__get hell__ To receive the brunt of another’s anger, often through scolding.  
 __get to know__  
 __ghost gun__ A gun without serial numbers that cannot be easily tracked, especially a home-made gun built with non-registered, partially finished or 3D printed components.  
 __give someone or something away__ To reveal a secret about someone or something. _I thought no one knew where I was, but my loud breathing gave me away._ _We know that Billy ate the cherry pie. The cherry juice on his shirt gave him away._  
@@ -187,12 +203,15 @@ __green folding__ Paper money, especially in large amounts. _Boy, I bet you had 
 __grit (one’s) teeth__ :three: __1__ To clench one’s teeth, as from anger, pain, or displeasure. _The doctor didn’t have any anesthetic, so all I could do was grit my teeth while he stitched the wound in my leg._  
 __gun for hire__  
 __haggle over (something)__  
+__hair-raising__ Frightening, chilling, or disturbing. _With so much traffic, cycling in this city can be a hair-raising experience._  
 __ham-handed__ In a clumsy manner; lacking care and skill.  
 __hard-pressed__ Struggling to do or accomplish something, especially because it seems impossible. _You’ll be hard-pressed to find a better guy than Bill._  
 __have (got) a knack for (something)__  
 __have (something) in store (for one)__ To have something awaiting (one) or prepared (for one).  
+__have a lump in (one’s) throat__ To have difficulty speaking as a result of feeling that one is about to cry due to an intense emotional response to something.  
 __have someone’s number__ (have (got) (one’s) number)  
 __head over heels__  
+__head-spinningly__ Unbelievably; incredibly. _Did you watch that head-spinningly spectacular play? I could hardly believe what I was seeing!_  
 __hear out__ (hear someone out)  
 __hear the end of (someone or something)__  
 __heart of gold__  
@@ -269,6 +288,7 @@ __in all seriousness__
 __in and of itself__  
 __in any event__  
 __in so doing__ “In so doing” is a phrase used to refer to the action someone is taking or has taken, often implying that something happens as a result of that action. It essentially means “by doing this” or “in this act.”  
+__in the middle of nowhere__  
 __in the nick of time__  
 __jeer at (someone or something)__ To mock, taunt, or scoff at someone or something. _Everyone in school jeered at me for wearing a pink sweater._  
 __jerk (someone or something) out of (something)__ To pull, yank, or lift someone or something out of some place or thing. _Please tell me you didn’t jerk that loose tooth out of your little brother’s mouth._  
@@ -318,6 +338,7 @@ __keep tabs on (someone or something)__
 __keep the lid on (something)__  
 __keep to (something)__ __1__ To adhere to something, such as a plan or a rule; to stick to something. _Please keep to the plan, and everything will go smoothly._  
 __keep track__  
+__keep up with (someone or something)__  
 __keep up__  
 __keep your eyes peeled__ _Keep your eyes peeled for imperial fighters!_  
 __keester__ _slang_ The buttocks or anus. Often used figuratively. _OK, kids, get off your keesters and go play outside!_  
@@ -376,7 +397,7 @@ __lay (one’s) life on the line__ To put oneself in harm’s way (to achieve so
 __lay (oneself) out__ To put in a great deal of effort; to inconvenience oneself or go through a lot of trouble. _I don’t know why I always lay myself out to impress your parents—they never appreciate what I do anyway._  
 __lay (someone) to rest__  
 __lay (something) at the feet of (someone)__ To make or hold someone, especially a group of people, responsible for something. _With every other department losing money each year, the managers have laid the company’s success at the feet of our team._  
-__lay bare (something)__ To divulge, explain, or reveal something not previously known publicly.  
+__lay bare (something)__ :two: To divulge, explain, or reveal something not previously known publicly.  
 __lay down and die__ To quit; to give up hope or ambition. _We might have had an unexpected loss in the playoffs, but that doesn’t mean this team is ready to lay down and die!_  
 __lightning speed__ An extremely high speed; great rapidity.  
 __like a fish out of water__ :two::hammer:  
@@ -426,6 +447,7 @@ __lose no time (in) (doing something)__ To do something immediately or as expedi
 __lose touch__  
 __lose track of (someone or something)__  
 __loss of face__ The state or circumstance of having lost the respect of other people, as due to having done something improper or unacceptable. _After my terrible loss of face in front of the in-laws, I knew I couldn’t return to their home for the foreseeable future._  
+__lost cause__  
 __lost in translation__  
 __loud and clear__  
 __love handles__ ((love) handles, spare tyres, Dunlops disease, Dunlop Syndrome) _euphemism_ [So called because supposed to be grabbed by a partner in sexual intercourse.]  
@@ -433,7 +455,9 @@ __low man on the ladder__ The person (not necessarily male) with the least amoun
 __lower the bar__  
 __lubrication payment__ :smiling_imp: A small sum of money or other gifts or services to be paid or given to government officials to expedite business operations in countries that do not prohibit such activity. _Whenever I start up a new factory overseas, I make sure to bring along enough cash on hand for any lubrication payments I may need to make._  
 __luck in__ To be very lucky or fortunate; to experience particularly good luck. (A nonstandard variant of “luck out.”) _I really lucked in with my graduate school program. I have the most amazing group of professors and peers!_  
+__lucky devil__ Someone who has just experienced particularly good fortune, generally of whom the speaker is envious to some degree. _You just won an all-expenses-paid trip to the Bahamas? You lucky devil!_  
 __lucky for you__  
+__lust for life__ Intense eagerness to experience all that life has to offer.  
 __make a face__ :two::hammer:  
 __make a fuss__  
 __make a long arm for (something)__ To extend one’s arm fully toward something; to reach out for something. _Mary’s new boyfriend made a long arm for the bottle of wine at the end of the table, helping himself to another glass._  
@@ -447,6 +471,7 @@ __meant to be__
 __mince words__  
 __mind (one’s) p’s and q’s__  
 __miss the boat__  
+__missing number on the dice__ The phrase “missing number on the dice” isn’t a common idiom in English. However, it could be interpreted metaphorically to mean something that is expected but absent, or an element that is crucial but missing in a situation.  
 __mix and match__  
 __mixed feelings__ :two::hammer:  
 __mixed message__  
@@ -564,6 +589,7 @@ __on the fly__
 __on the go__  
 __on the grounds of__ The phrase “on the grounds of” is primarily used in legal and formal contexts to mean “based on” or “justified by.”  
 __on the hook__ __1__ Held responsible (for something); obliged or committed (to something). _I would think very carefully signing your name to those documents. If something goes wrong in the company, it could be you on the hook._  
+__on the hunt__  
 __on the leading edge__ Having or knowledgeable of the most advanced technology in a given area, activity, or endeavor. _The local university’s laboratory is on the leading edge when it comes to cancer research._  
 __on the level__ Honest, truthful, or sincere. Given the corrupt environments Ellroy often writes about, this phrase could be used to emphasize a character’s rare honesty amidst widespread deception.  
 __on the line__ __1__ In a state of jeopardy or uncertainty.  
@@ -585,9 +611,11 @@ __on your radar__ See _on (one’s) radar (screen)._
 __on-site__  
 __open game__ Being vulnerable or exposed to attack, criticism, or other negative consequences. _If we break the truce first, we are open game._  
 __out and about__ :dart: __1__ Away from one’s home or normal environment, especially to socialize, run errands, visit various places, etc. _I’m just out and about with Mary if you would like to come join us._ __2__ Well enough to come and go, especially after an illness. For example, _I’m glad to see you’re out and about again._  
+__out of curiosity__ A phrase used to express that someone is asking a question or seeking information simply because they are interested or want to know more, without any specific agenda or need.  
 __over the finish line__ :three: To a state of completion or fulfillment, as at the end of some process, development, endeavor, etc. _We’ve been working 80-hour weeks to get this project over the finish line before December._  
 __owing to__ Because of; as a result of; due to _Owing to construction on the highway, please anticipate higher levels of traffic than usual._  
 __pat on the back__ (pat (one) on the back) Praise given to a person for an achievement or a job well done. _Treating his daughter to ice cream was Joe’s way of giving patting her on the back after she won first place in the science fair._  
+__pave the way (for someone or something)__  
 __pay top dollar__  
 __pay tribute to (someone or something)__ To do something as a way of publicly showing respect or admiration for a particular person, group, or thing. _The movie pays tribute to an old adventure serial that ran on television in the mid-1930s._  
 __pin down__  
@@ -600,6 +628,7 @@ __pour gas/gasoline on the fire__
 __practice makes perfect__  
 __pull rank (on one)__  
 __push (one’s) buttons__  
+__put to good use__ (put (something) to good use) To use something in a way that will be beneficial or have significant results. Employ to the best advantage, as in _I’m sure this dictionary will be put to good use._  
 __raise the ante__  
 __ring a bell__  
 __ring false__  
@@ -607,6 +636,7 @@ __ring true__
 __rise to the occasion__ :two: To increase one’s effort in response to a challenging situation.  
 __road to recovery__  
 __ROFL__ _slang_ An initialism of “rolling on the floor laughing,” used in text messages and online communications to indicate that one thinks that something is very funny or ridiculous. Often lower case. _I just saw a monkey riding on the back of a pig! rofl_  
+__roid rage__ _n_ /rɔɪd/ _informal_ [:scroll: From _steroid_, on the pattern of _road rage_] Angry and aggressive behavior caused by the use of anabolic steroids.  
 __ruffle a few feathers__ To do something which annoys, irritates, or upsets other people. _I know my presentation about the effects of climate change is going to ruffle a few feathers, but I have got to raise awareness about this issue!_  
 __rumor mill__  
 __run afoul of (someone or something)__  
@@ -645,6 +675,7 @@ __seize the hour/day__ Take advantage of the moment, enjoy the here and now. Thi
 __sell (someone, something, or oneself) short__  
 __serve (one’s) time__  
 __set a camp__  
+__set a high/low bar__  
 __set eyes on something__  
 __set in cement__ Firmly or permanently established; not subject to change; unalterable.  
 __set in stone__  
@@ -708,7 +739,9 @@ __slowly but surely__
 __small print__ (fine print) An important part of a document that is not easily noticed because of the smallness of the printing. _You should have read the small print before signing the contract._  
 __smarty-pants__  
 __smell a rat__ To suspect an instance of betrayal, deception, or corruption.  
+__smoldering intensity__ “Smoldering intensity” refers to a charismatic and intense gaze or expression, often associated with romantic or dramatic scenes in movies or literature. It is not a factual term or power in the real world. When Dwayne “The Rock” Johnson raises his right eyebrow in concern, curiosity or just to flex. Sometime done by Dwayne in the event of something serious or catastrophical about to happen.  
 __smoldering look__ [Note: In the context of The Smoldering Dr. Bravestone from the _Jumanji_ movie franchise, “smoldering” refers to the character Dr. Bravestone (played by Dwayne “The Rock” Johnson) having a strong, intense, and often brooding expression that conveys both charm and a kind of silent, smoldering intensity. It’s a playful reference to a facial expression where someone looks serious, cool, and maybe a little mysterious or attractive, as if they are “smoldering” with inner heat or passion.] :es: mirada ardiente, con mirada intensa, con una expresión intensa  
+__smoldering__ The act of accessing your deep, inner, and molten sexuality and shooting it through your eyes into an undeniably sexy stare. Smoldering bridges both gender and orientation, so anyone can fall victim to it’s arousing and lustful nature. One may be able to command the masses with one glance if mastered.  
 __smooth over__  
 __snaffle up__ :dart: __1__ To quickly snatch or steal something, especially furtively or surreptitiously. (In each usage, a noun or pronoun can be used between “snaffle” and “up.”) _He snaffled up the note that fell out of her school bag and slipped it into his papers as inconspicuously as possible._ __2__ By extension, to take possession of something for oneself very eagerly or greedily. _The antique dealer snaffled up the rare vintage car that had been sitting in the farmer’s barn for three decades._ __3__ To devour something greedily or ravenously; to gobble something up. _I threw a piece of bread to the birds on the grass, and they snaffled it up in the blink of an eye._ __4__ By extension, to consume some form of media very eagerly or avidly. _I was obsessed with science fiction as a kid, and I snaffled up anything and everything to do with it that I could find._  
 __snatch (someone) from the jaws of death__ To rescue someone at the last moment from near or certain death.  
@@ -843,6 +876,7 @@ __the faint of heart__
 __the golden rule__ :dart: The maxim that one should treat other people the way one would like to be treated, often expressed proverbially as “Do unto others as you would have them do unto you.” _My son wanted to steal the bike of a boy who stole his lunch money, so I told him that the only way to get along with people is to follow the golden rule._  
 __the greatest thing since sliced bread__ A humorous and hyperbolic statement indicating one’s belief that something is excellent, especially something new and innovative. _These waterproof jeans are the greatest thing since sliced bread. I don’t have to worry about getting soaked!_  
 __the heavy end of the hammer__ The part of a situation, task, or responsibility that is the most difficult or burdensome.  
+__the inmates are running the asylum__ The people least capable of running a group or organization are now in charge. Said especially when the result is total chaos or calamity.  
 __the keys to the kingdom__  
 __the L-bomb__ An expression of romantic love for another, especially when said unexpectedly and/or for the first time. Usually used in the phrase “drop the L-bomb.” _We’d only been dating for a couple of months when he dropped the L-bomb on me. I was so shocked that all I could think to say back was, “Thank you!”_  
 __the law of the instrument__ See _Maslow’s hammer_.  
@@ -854,12 +888,13 @@ __the name of the game__
 __the nuts and bolts__  
 __the order of the day__  
 __the party is over__ A period of excitement, success, jubilation, or opulence has changed to a period of sobriety, calm, reflection, or regret.  
+__the planets aligned__ Everything has come together perfectly or that circumstances have worked out in an ideal way, often by chance or luck.  
 __the powers that be__ :dart::three:  
 __the price (one) has to pay__ The physical, emotional, or psychological difficulty one must endure (as a result of something); the unpleasant, difficult aspects (of something) that one must face. _Working extremely long hours is just the price you have to pay to work in this industry._  
 __the real deal__  
 __the rundown__ (give (someone) (a/the) rundown) To tell someone details about or a brief summary of a given event or situation.  
 __the short and the long of it__ The essential or most important point being made; the plain truth of the matter. _There are a lot of reasons I don’t want to go, but the short and the long of it is that I don’t want to see my ex-boyfriend there._  
-__the sky’s the limit__ Anything is possible.  
+__the sky’s the limit__ :two: Anything is possible. Used to say that there are no limits and that anything is possible.  
 __the small of (one’s)/the back__ One’s lower back.  
 __the tail wagging the dog__ People talk about _the tail wagging the dog_ to describe a situation where an unimportant part of something or an unimportant person or group involved in something has too much influence over it. The smallest or least important part of something in control of the larger or more important elements; a reversal of typical roles or dynamics of power. _They reorganized their entire weekly schedule just because their son likes to sleep in late. Talk about the tail wagging the dog._ _Their group is small but very vocal, so be sure that management doesn’t give in to their demands. We don’t want the tail wagging the dog, after all._  
 __the upper crust__  
@@ -883,7 +918,9 @@ __throw someone under the bus__ To betray or sacrifice someone for personal gain
 __throw the book at (one)__ :dart: _The NY Times sure loves throwing the book at AI startups._  
 __thumb one’s nose__  
 __tick away__  
+__tie in__  
 __tighten the purse strings__ To become less liberal with or more controlling of one’s expenditures; to decrease the availability of money for spending purposes. _After losing my job, I’ve had to tighten the purse strings quite a bit._  
+__till the cows come home__ See _until the cows come home._  
 __tinder__ _n_ :dart: Readily combustible material, such as dry twigs, used to kindle fires. _This love potion is tinder for the proverbial fire._  
 __tipflation__  
 __tips and tricks__ The idiom “tips and tricks” refers to helpful and practical advice, shortcuts, or techniques that can be used to improve efficiency, productivity, or performance in a specific task, activity, or field.  
@@ -913,6 +950,7 @@ __under the gun__ :dart: In a stressful situation that requires quick action, of
 __under the hood__  
 __unfamiliar territory__  
 __unpack__  
+__until the cows come home__ (till the cows come home) For a very long, indefinite amount of time; forever. _You can wait until the cows come home, but you’ll never see that law passed in this country!_  
 __up (one’s) alley__ :dart: See _right up (one’s) alley._  
 __up a notch__ To an increased or extreme degree of intensity or quality.  
 __up against a brick wall__ Stymied by difficulties or obstacles that seem unlikely to change.  
@@ -920,6 +958,7 @@ __up fpr grabs__
 __up in arms__  
 __up the ante__  
 __very much so__ To a significant extent; yes, very much.  
+__vindicate (someone or oneself) of (something)__ To clear someone or oneself of some guilt, accusation, blame, suspicion, etc.; to affirm or uphold someone’s or one’s own innocence or justification regarding something.  
 __wait and see__ :three::hammer: _It profits me best to wait and see._  
 __walk on eggs__  
 __walk on eggshells__  
