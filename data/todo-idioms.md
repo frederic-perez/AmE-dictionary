@@ -54,15 +54,19 @@ __all too soon__ The idiom “all too soon” means that something happened much
 __and everything in between__ Including all the possibilities or varieties within a range. _The store sells clothes for men, women, and children, and everything in between._ _Life has its ups and downs, and everything in between._  
 __anyone’s guess__  
 __around the clock__ ((a)round the clock)  
+__at (one’s) convenience__ _At your convenience, Captain._  
 __badass__  
 __battle-hardened__  
 __be up to (something)__  
 __big player__ A “big player” typically refers to a person or entity that has significant influence, power, or importance in a particular field or industry. It can be used to describe someone with a lot of resources, experience, or market share, making them a key figure in a given situation or environment.  
+__boon or bane__ Something that be may either good or bad, depending on context.  
 __bring about__  
 __brood over__ To worry anxiously or be despondent about something or someone, especially at great length and in isolation. _I know you’re upset about failing your exam, but don’t brood over it all weekend._  
 __bump in the road__ A problem that arises and interferes with forward progress (usually only temporarily).  
 __catch up with (someone)__  
 __close to one’s chest__  
+__come to a head__ To reach a point of intensity at which action must be taken.  
+__come to think of it__ :dart: _set phrase_ Used when one has had a sudden realization. _Yeah, come to think of it, Dave was at the party, too._  
 __conspiracy theory__ _n_ The belief that the government or a covert organization is responsible for an event that is unusual or unexplained, esp when any such involvement is denied.  
 __diddly__ _n_ :dart: __1__ Nothing; anything at all (when used in negative statements). _I have to admit that I know diddly when it comes to computers._ __2__ A small or worthless amount: _His advice wasn’t worth diddly to me._  
 __dig (something)__ _slang_ To understand, approve of, or enjoy something. _I really dig this music, man!_  
@@ -87,6 +91,7 @@ __doom and gloom__
 __double duty__  
 __double whammy__ A situation in which two negative things happen at the same time or in rapid succession. _Jack suffered a double whammy when his car broke down the same day he lost his job._  
 __down the line__ In the future.  
+__down the toilet__  
 __downer__ :es: tranquilizante  
 __doze off__  
 __drape (something or oneself) over (someone or something)__ __1__ To lay on a piece of furniture, usually with one’s limbs splayed. In this usage, a reflexive pronoun is used between “drape” and “over.” _John came in and draped himself over the sofa while moaning about his ex-girlfriend._ __2__ To loosely place something over someone or something. In this usage, a noun or pronoun is used between “drape” and “over.” _It wasn’t as cold out when I left the theater, so I just draped my coat over my shoulders._  
@@ -173,6 +178,7 @@ __for all intents and purposes__ _adv_ :two: In every practical sense. _To all i
 __for all practical purposes__ (for (all) practical purposes) In reality; basically. As might be reasonably expected; essentially. _For all practical purposes, this is simply a matter of right and wrong._ _For all practical purposes, I might as well have not handed in this proposal at all, with how swiftly the board rejected it._  
 __for good__  
 __for starters__  
+__for the life of (one)__ Despite one’s best efforts; to any degree whatsoever. Often used in negative constructions. _For the life of me, I can’t remember where I left my keys!_  
 __foul play__ Unspecified criminal or unscrupulous actions, especially violence when stated as the potential cause of a death or disappearance. _That actor actually died of a heart attack—there was no foul play after all._  
 __freaking__ _mod._ Damned. (Euphemistic for fucking. Usually objectionable.) _Get your freaking socks off my bed!_  
 __from afar__ From a (sometimes great) distance.  
@@ -193,6 +199,7 @@ __glower at (someone or something)__ :three: To look at someone or something wit
 __go berserk__  
 __go missing__  
 __go postal__ :dart: _US informal_ [:scroll: This expression arose as a result of several recorded cases in the USA in which postal-service employees ran amok and shot colleagues] Go mad, especially from stress. Become extremely angry or start behaving in a violent and angry way. _According to one eye witness, the man ‘went postal, and started hitting his computer’_  
+__go south__  
 __go through hoops__ :astonished: To face or have to complete many challenges in pursuit of something that one wants, especially challenges that seem arbitrary or excessive. _The boss made me go through a lot of hoops to earn this corner office, believe me. I was doing everything from leading presentations to getting him coffee for months._  
 __go through the roof__  
 __goob__  
@@ -255,7 +262,7 @@ __hot-button__ Highly politicized or emotionally charged. Often used in the phra
 __hothead__ A person with an excitable, fiery, or impetuous temper or disposition; one who is quick to get angry or act rashly. _That lady in the car behind me is a real hothead, honking and shouting at me every time I slow down!_  
 __hotshot__ :two::hammer:  
 __hubby__  
-__hue and cry__ /HYOO-und-KRYE/ __1__ A large public protest. _Hue and cry_ refers to a clamor of alarm or protest in response to something. __2__ It can also be used as a synonym of hubbub to refer to general noise or uproar.  
+__hue and cry__ :two: /HYOO-und-KRYE/ [:scroll: The term comes from the Anglo-Norman French “huer,” which means to shout, and the Old French “cri,” which means to cry out. This redundant expression (_hue_ and _cry_ both mean “an outcry”), dating from the 1200s, originally meant “an outcry calling for the pursuit of a criminal.”] __1__ A large public protest. _Hue and cry_ refers to a clamor of alarm or protest in response to something. A public clamor, as of protest or demand. For example, _The reformers raised a hue and cry about political corruption._ __2__ It can also be used as a synonym of hubbub to refer to general noise or uproar.  
 __huff and puff__ :two: Make noisy, empty threats; bluster. For example, _You can huff and puff about storm warnings all you like, but we’ll believe it when we see it._ This expression uses two words of 16th-century origin, _huff_, meaning “to emit puffs of breath in anger,” and _puff_, meaning “to blow in short gusts,” and figuratively, “to inflate” or “make conceited.” They were combined in the familiar nursery tale, _“The Three Little Pigs,”_ where the wicked wolf warns, _“I’ll huff and I’ll puff and I’ll blow your house down”_; rhyme has helped these idioms survive.  
 __hung jury__ :dart: A jury that cannot agree on a verdict.  
 __hunky-dory__  
@@ -458,6 +465,7 @@ __luck in__ To be very lucky or fortunate; to experience particularly good luck.
 __lucky devil__ Someone who has just experienced particularly good fortune, generally of whom the speaker is envious to some degree. _You just won an all-expenses-paid trip to the Bahamas? You lucky devil!_  
 __lucky for you__  
 __lust for life__ Intense eagerness to experience all that life has to offer.  
+__lust for power__ Intense, insatiable desire to attain power and control.  
 __make a face__ :two::hammer:  
 __make a fuss__  
 __make a long arm for (something)__ To extend one’s arm fully toward something; to reach out for something. _Mary’s new boyfriend made a long arm for the bottle of wine at the end of the table, helping himself to another glass._  
@@ -781,6 +789,7 @@ __squiggle__ :dart: Any writing that is sloppy to the point of illegibility. _I�
 __stakeout__  
 __stalk out__ To leave (some place) in a haughty, stiff, or threatening manner.  
 __stamp of approval__ An indication of endorsement or authorization of something.  
+__stamp out__  
 __stand a chance__ :two: To have a possibility, however remote, of succeeding; to possibly be able to do something. Often used in the negative to mean the opposite. _If that road is closed, we don’t stand a chance of making it on time._  
 __stand on (one’s) own (two) feet__ To be strong and independent; to not need the help, guidance, or resources of another person.  
 __stands to reason__  
