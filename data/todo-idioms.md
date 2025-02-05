@@ -869,56 +869,6 @@ __tape out__
 __team up (with one)__  
 __tear up__ __1__ To violently rip or pull someone or something into pieces. In this usage, a noun or pronoun can be used between “tear” and “up.” :es: destrozar  
 __tear your hair out__ (tear (one’s) hair out) _informal_ Act with or show extreme desperation. To be extremely anxious, worried, frustrated, or stressed out about something. _We’ve been tearing our hair out trying to figure out what’s causing the server outages._  
-__tell me about it__ :four::hammer:  
-__tell me something I don’t know__  
-__tennis whites__ “Tennis whites” refers to the traditional all-white attire worn by tennis players, particularly at prestigious tournaments like Wimbledon.  
-__thank goodness__  
-__that being said__  
-__that does the trick__ That is all that was remaining or required to accomplish something. _There, that does the trick. The engine should be as good as new, now!_  
-__that very thing__ Exactly that. _Why, I was just looking for that very thing!_ _You know, I was just about to say that very thing._  
-__that’s pretty much it__ :dart::two: The idiom “that’s pretty much it” is commonly used in English to indicate that there is nothing more to add or to signal the conclusion of a discussion or explanation. It serves as a way to summarize what has been said, implying that the speaker has covered all relevant points and that no further elaboration is necessary.  
-__the belle of the ball__  
-__the best thing since sliced bread__  
-__the better part of (something)__ :dart::three: The majority of something. _I’m sorry I’m late—my doctor’s appointment took the better part of an hour._  
-__the facts of life__  
-__the faint of heart__  
-__the golden rule__ :dart: The maxim that one should treat other people the way one would like to be treated, often expressed proverbially as “Do unto others as you would have them do unto you.” _My son wanted to steal the bike of a boy who stole his lunch money, so I told him that the only way to get along with people is to follow the golden rule._  
-__the greatest thing since sliced bread__ A humorous and hyperbolic statement indicating one’s belief that something is excellent, especially something new and innovative. _These waterproof jeans are the greatest thing since sliced bread. I don’t have to worry about getting soaked!_  
-__the heavy end of the hammer__ The part of a situation, task, or responsibility that is the most difficult or burdensome.  
-__the inmates are running the asylum__ The people least capable of running a group or organization are now in charge. Said especially when the result is total chaos or calamity.  
-__the keys to the kingdom__  
-__the L-bomb__ An expression of romantic love for another, especially when said unexpectedly and/or for the first time. Usually used in the phrase “drop the L-bomb.” _We’d only been dating for a couple of months when he dropped the L-bomb on me. I was so shocked that all I could think to say back was, “Thank you!”_  
-__the law of the instrument__ See _Maslow’s hammer_.  
-__the light at the end of the tunnel__  
-__the likes of__ :three::hammer:  
-__the lion’s den__  
-__the low road__ :dart::smiling_imp: Any method, practice, or course of action that is unethical, unscrupulous, underhanded, or otherwise base or vile. Most often used in the phrase “take the low road.” _It’s unfair that those who work the hardest will be undermined by those who choose to take the low road to success._ _I didn’t raise my son to be the type of person who would choose the low road in life!_  
-__the name of the game__  
-__the nuts and bolts__  
-__the order of the day__  
-__the party is over__ A period of excitement, success, jubilation, or opulence has changed to a period of sobriety, calm, reflection, or regret.  
-__the planets aligned__ Everything has come together perfectly or that circumstances have worked out in an ideal way, often by chance or luck.  
-__the powers that be__ :dart::three:  
-__the price (one) has to pay__ The physical, emotional, or psychological difficulty one must endure (as a result of something); the unpleasant, difficult aspects (of something) that one must face. _Working extremely long hours is just the price you have to pay to work in this industry._  
-__the real deal__  
-__the rundown__ (give (someone) (a/the) rundown) To tell someone details about or a brief summary of a given event or situation.  
-__the short and the long of it__ The essential or most important point being made; the plain truth of the matter. _There are a lot of reasons I don’t want to go, but the short and the long of it is that I don’t want to see my ex-boyfriend there._  
-__the sky’s the limit__ :two: Anything is possible. Used to say that there are no limits and that anything is possible.  
-__the small of (one’s)/the back__ One’s lower back.  
-__the tail wagging the dog__ People talk about _the tail wagging the dog_ to describe a situation where an unimportant part of something or an unimportant person or group involved in something has too much influence over it. The smallest or least important part of something in control of the larger or more important elements; a reversal of typical roles or dynamics of power. _They reorganized their entire weekly schedule just because their son likes to sleep in late. Talk about the tail wagging the dog._ _Their group is small but very vocal, so be sure that management doesn’t give in to their demands. We don’t want the tail wagging the dog, after all._  
-__the upper crust__  
-__the upshot (of something)__ :dart::two: The final or resulting outcome, conclusion, or consequence (of something). _The upshot of this merger is that the company will now control nearly 50% of the world’s television networks._  
-__the whole nine yards__ Everything; the full extent of something. This could be used when a character has gone all-in or is fully committed to an action, no matter the risk.  
-__the works__ :two::hammer:  
-__the writing on the wall__ :two::hammer: (the (hand)writing on the wall)  
-__then again__  
-__there is more to (someone or something) than meets the eye__ Something or someone has more merit, import, or facets than is initially perceived. _Don’t discount Fred as a candidate for this job—there’s more to him than meets the eye._  
-__there is something about__  
-__thick-skulled__ Stupid, dimwitted, or obtuse.  
-__things that go bump in the night__ Frightful, deadly, and usually supernatural things or events that one imagines in the dark of night.  
-__this is it__  
-__this is not happening__ The phrase “this is not happening” is commonly used to express disbelief, denial, or a refusal to accept a situation or reality. It can be said when something unexpected or unwanted occurs, and the speaker is in denial about it or is rejecting the idea.  
-__this time around__  
 __thread the needle__  
 __throw a tantrum__ (throw a (temper) tantrum) To have an outburst of childish or unreasonable anger, frustration, or ill temper. _I was so embarrassed when Danny started throwing a tantrum in the grocery store._  
 __throw a wrench into the works__ (throw a (monkey) wrench in(to) the works) To disrupt, foil, or cause problems to a plan, activity, or project. _We had everything in line for the party, but having the caterer cancel on us at the last minute really threw a wrench in the works!_  
