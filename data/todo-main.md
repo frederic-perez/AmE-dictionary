@@ -875,56 +875,6 @@ __slaver__ _n_ __1__ Saliva drooling from the mouth. _Syn_ drivel, slabber, slob
 __sleep apnea__ _n_ (compare vs _apnea_) Apnea caused by upper airway obstruction during sleep, associated with frequent awakening and often with daytime sleepiness.  
 __smote__ _v_ Past tense and a past participle of smite.  
 __snicker__ _v_  
-__sovereignty__ _n_ :four::hammer: :es: soberanía  
-__splurge__  
-__stammer__ _v_ To speak with involuntary pauses or repetitions. _Syn_ bumble, falter, stutter  
-__standoff__ _n_  
-__stark<sup>1</sup>__ _adj_  
-__stark<sup>2</sup>__ _adv_ completely: _stark mad; stark dead._ Utterly; entirely: _stark raving mad._  
-__startled__ _adj_  
-__steed__ _n_ __1__ A horse, especially a spirited one. __2__ An animal used for riding: _the use of camels as steeds._  
-__stiff-person syndrome__ _n_ (SPS)  
-__stud__ _n_ _The lightsaber control stud._  
-__subterfuge__ _n_ :smiling_imp: A stratagem employed to conceal something, evade an argument, etc.  
-__succinct__ _adj_ :pencil2:  
-__sulfurous__ _adj_ Harsh or corrosive in tone. _Syn_ acid, blistering, caustic, vitriolic, acrid, acerbic, bitter, virulent _Her sulfurous denunciation of the governor was aired on the news that evening._  
-__sunny__ _adj_  
-__suppositious__ _adj_ Based primarily on surmise rather than adequate evidence. _Syn_ conjectural, divinatory, hypothetical, suppositional  
-__surly__ _adj_  
-__surreptitious__ _adj_  
-__surreptitiously__ _adv_  
-__sward__ _n_ /SWORD/ _Sward_ is a literary word that refers to an area of land covered with grass.  
-__swat__ _n_  
-__tailor__ _v_  
-__tangential__ _adj_ Only superficially relevant; divergent. _Syn_ digressive  
-__task force__ _n_  
-__tattoo__ _n_ /tæˈtuː/  
-__tendril__ _n_ /ˈtɛndrɪl/  
-__testbed__ _n_ (test bed) Any platform used for testing a scientific theory, computational tool or new technology.  
-__thimble__ _n_ :es: dedal  
-__thraldom__ _n_  
-__thrall__ _n_ :astonished:  
-__thresh__ _v_  
-__throb__ _v_ _He made me throb with joy._ :es: latir con fuerza; sentir pinchazos  
-__throbbing__ _adj_ :two::hammer:  
-__thromboembolism__ _n_  
-__thrombosis__ _n_  
-__thrum__ _v_ :three::hammer:  
-__thrumming__ _n_  
-__thug__ _n_  
-__thundercloud__ _n_  
-__thunk__ _n_  
-__tiddlywinks__ _n_ A game played on a flat surface, in which players attempt to snap small plastic disks into a cup by pressing the edges of the disks with larger ones.  
-__till__ _n_ :es: caja registradora  
-__tinderbox__ _n_ :dart: __1__ A metal box for holding tinder. __2__ :dart: A person or thing that is highly volatile; any potential source of violence. A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
-__tingling<sup>2</sup>__ _adj_ :two::hammer:  
-__toss up<sup>1</sup>__ _v_  
-__toss up<sup>2</sup>__ _n_  
-__transient__ _adj, n_  
-__tried-and-tested__ _adj_ Recognized as reliable; found to be successful.  
-__trilling__ _n_ The production of a trill sound.  
-__triple__ _adj, n, v_ :mega: /ˈtrɪpəl/  
-__tsk__ _vi_ :two::pencil2: To utter the exclamation “tsk.”  
 __tuft__ _n_ _Tufts of hair._ :es: mechón  
 __turnkey__ _adj_  
 __twitch__ _v_  

@@ -18392,7 +18392,7 @@ __southpaw__ _n_ :three: A left-handed boxer who leads with the right hand. A le
 __souvenir__ _n_ _Souvenir items._  
 __sovereign state__ _n_ A state which administers its own government, and is not dependent upon, or subject to, another power.  
 __sovereign__ _n_ :two::mute:[soverei~~g~~n]:hammer:  
-__sovereignty__ _n_ :pencil2:  
+__sovereignty__ _n_ :five::hammer::pencil2: :es: soberanía  
 __sow__ _n_ :five::hammer: _A drunk sow._  
 __soybean__ _n_  
 __space cadet__ _n_ _slang_ Someone who seems unable to respond appropriately to reality (as if under the influence of some narcotic drug).  
@@ -18560,9 +18560,9 @@ __splitting headache__ _n_ A very bad headache.
 __splosh__ _v_  
 __splotch__ _n_ :two::hammer:  
 __splotched__ _v_  
-__splurge<sup>1</sup>__ _n_ :five: [:scroll: Perhaps a blend of splash + surge, or maybe imitative.] __1__ An expensive indulgence; a spree: _a splurge in a fine restaurant._ _Have a splurge-worthy meal._ __2__ An extravagant display or large amount: _a splurge of flowers._  
-__splurge<sup>2</sup>__ _vi_ :five: (splurged, splurging) To make an ostentatious display.  
-__splurge<sup>3</sup>__ _vi/t_ :six: (splurged, splurging) To spend lavishly or wastefully.  
+__splurge<sup>1</sup>__ _n_ :six: [:scroll: Perhaps a blend of splash + surge, or maybe imitative.] __1__ An expensive indulgence; a spree: _a splurge in a fine restaurant._ _Have a splurge-worthy meal._ __2__ An extravagant display or large amount: _a splurge of flowers._  
+__splurge<sup>2</sup>__ _vi_ :six: To make an ostentatious display.  
+__splurge<sup>3</sup>__ _vi/t_ :seven: To spend lavishly or wastefully.  
 __splutter__ _v_ :seven::hammer: (splutters, spluttered) _He spluttered back into consciousness._ _I coughed and spluttered._  
 __spluttering__ _n_ _A baby’s spluttering._  
 __splying out__ _v_ _In the front, three men occupied the passenger seat, limbs splaying out of the open door._  
@@ -18759,7 +18759,7 @@ __stalwart<sup>1</sup>__ _adj_ :nine::m: Loyal, reliable, and hard-working. _He 
 __stalwart<sup>2</sup>__ _n_ :two::hammer:  
 __stamina__ _n_ :seven::mega: /stā′mə-nə, stăm′ə-, ˈstæmɪnə/ Physical or moral strength to resist or withstand illness, fatigue, or hardship; endurance.  
 __stammer<sup>1</sup>__ _n_ :three::hammer: _The consensus was shrugs and stammers._  
-__stammer<sup>2</sup>__ _v_ :four: (stammered) To speak with involuntary pauses or repetitions.  
+__stammer<sup>2</sup>__ _v_ :five: To speak with involuntary pauses or repetitions. _Syn_ bumble, falter, stutter  
 __stamp out__ _phr v_ :three: To extinguish a spark or fire by stamping on it with one’s feet. A noun or pronoun can be used between “stamp” and “out.” _An ember popped out of the fireplace and onto the rug, so I stamped it out before it set the place alight._ _He tossed his cigarette, not bothering to stamp it out._ __2__ To crush or suppress by force: _to stamp out a rebellion._ End or extinguish by forceful means. _Leading ophthalmologist vows to stamp out “unjustified” screening for cataract surgery._ _Policemen took their own steps to stamp out smoking on the railways._  
 __stamp<sup>1</sup>__ _n_ _Additional stamp duties went into effect last year._  
 __stamp<sup>2</sup>__ _v_ :dart::four: __1__ To bring down (the foot) forcibly.  
@@ -18781,7 +18781,7 @@ __standby<sup>2</sup>__ _adj_
 __standby<sup>3</sup>__ _adv_  
 __standee__ _n_ A person who stands, as in a public conveyance, usu. because all seats are occupied.  
 __standings__ _n_ :four: (Sports) A listing of individual competitors or of teams in a league according to their record of performance. _31 points in the overall standings._ _Pac-12 Standings_ _Harvick is third in the standings._ :es: clasificación  
-__standoff__ _n_ :seven::hammer:  
+__standoff__ _n_ :eight::hammer:  
 __standoffish__  
 __standout<sup>1</sup>__ _adj informal_ :eight: Exceptionally good. Outstanding; superior. _He became a standout quarterback in the NFL._  
 __standout<sup>2</sup>__ _n_ :five: A person, performance, etc., that is clearly superior to others. _PGA tour standout._  
@@ -18808,12 +18808,13 @@ __starfish__
 __stargaze__ _v_  
 __stargazer__ _n_  
 __stargazing__  
-__stark__ _adj_ :seven: __1__ Clearly distinguished or delineated: _a stark contrast._ _A stark reminder._  
+__stark<sup>1</sup>__ _adj_ :eight: __1__ Clearly distinguished or delineated: _a stark contrast._ _A stark reminder._  
+__stark<sup>2</sup>__ _adv_ :eight: Completely: _stark mad; stark dead._ Utterly; entirely: _stark raving mad._  
 __starlings__ _n_  
 __start__ _v_ :dart::three: To move suddenly and sharply (as in surprise or alarm). _I started from my chair when I heard the sudden scream._ _Syn_ jump, startle  
 __starter__ _n_ __4__ _Sports_ __a__ One who signals the start of a race. __b__ A participant that starts in a game or race. :es: titular  
 __startle__ _v_ :dart::four: Move or jump suddenly, as if in surprise or alarm. _She started when I walked into the room._ _Syn_ jump, start  
-__startled__ _adj_  
+__startled__ _adj_ :two::hammer:  
 __startling__ _adj_ :six: Causing surprise or fear; striking; astonishing.  
 __stash__ _v_  
 __Stasi__  
@@ -18877,7 +18878,7 @@ __steam-pop phenomenon__
 __steamer trunk__ _n_ A small trunk originally designed to fit under the bunk of a steamship cabin. _A steamer trunk lay opened by the couch._  
 __steampunk__ _n_  
 __steamroll__ _v_ :two::hammer: _I tended to steamroll other people in meetings._  
-__steed__ _n_ :three::hammer: (steeds) _Epic battles of steel and steed._  
+__steed__ _n_ :four: __1__ A horse, especially a spirited one. __2__ An animal used for riding: _the use of camels as steeds._ _Epic battles of steel and steed._  
 __steel drum__ _n_ :two::hammer:  
 __steel__ _v_ :two::hammer: (steeled) _He steeled himself for the climb._  
 __steelhead__ _n_  
@@ -18947,6 +18948,7 @@ __stickler__ _n_ :three::hammer:
 __stickpin__ _n_ An ornamental pin especially for a necktie.  
 __stickup__ _n slang_ A robbery, especially at gunpoint.  
 __sticky-fingered__ _adj_ /STIK-ee fing-guhrd/ Given to stealing.  
+__stiff-person syndrome__ _n_ (SPS)  
 __stiff<sup>1</sup>__ _adj_ :seven::hammer: _Correa had a stiff challenge from shortstop Lindor._ _Working stiffs._ _Stiff political oposition._ _A stiff drink._ _Amazon faces stiff competition from Spotify._ _Stiff criticism._ _A stiff sentence._  
 __stiff<sup>2</sup>__ _v_ :two::hammer: (stiffing) _Trump is known for stiffing people he owes._ _Jay was stiffing his partners._  
 __stiff<sup>3</sup>__ _n_ :smiling_imp: __1__ _slang_ A corpse.  
@@ -19196,7 +19198,7 @@ __stuck a chord__
 __stuck-up__ _adj_ :two: _informal_ Conceited, arrogant, or snobbish. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __stuck<sup>1</sup>__ _v_ Past tense and past participle of stick.  
 __stuck<sup>2</sup>__ _adj_  
-__stud<sup>1</sup>__ _n_ :four::hammer: _Tires with studs._  
+__stud<sup>1</sup>__ _n_ :five::hammer: _The lightsaber control stud._ _Tires with studs._  
 __stud<sup>2</sup>__ _v_ :four::hammer: (studded) _Freddie Mercury’s studded armband._  
 __studded__ _adj_ :two::hammer: _Customers gathered for his star-studded celebration in Manila._  
 __stuff sacks__ _n_  
@@ -19278,8 +19280,8 @@ __substantial__
 __substantive__ _adj_ :mega: /SUB-stun-tiv/  
 __substation__  
 __subsume__ _vt_ :four::hammer:  
-__subterfuge__ _n_ :five: Subterfuge contains the Latin prefix _subter-_, meaning “secretly,” which derives from the adverb _subter_, meaning “underneath.” The _-fuge_ portion comes from the Latin verb _fugere_, which means “to flee.” __1__ Deception by artifice or stratagem in order to conceal, escape, or evade. __2__ A deceptive device or stratagem.  
-__subtle__ _adj_ :five::hammer::mega::mute:[su~~b~~tle] :es: sutil  
+__subterfuge__ _n_ :six::smiling_imp: Subterfuge contains the Latin prefix _subter-_, meaning “secretly,” which derives from the adverb _subter_, meaning “underneath.” The _-fuge_ portion comes from the Latin verb _fugere_, which means “to flee.” __1__ Deception by artifice or stratagem in order to conceal, escape, or evade. __2__ A deceptive device or stratagem.  
+__subtle__ _adj_ :five::hammer::mega:mute:[su~~b~~tle] :es: sutil  
 __subtleties__ _n_  
 __subtract__ _v_ :pencil2: __1__ _Mathematics_ To calculate the difference between (two numbers or quantities) by subtraction. __2__ To remove (a part of a thing, quantity, etc) from the whole.  
 __subtraction__ _n_ :pencil2:  
@@ -19290,7 +19292,7 @@ __suburbs__
 __subvert__ _vt_  
 __subvocalize__  
 __success story__ _n_  
-__succinct__ _adj_ :five::pencil2::mega::hammer: _My advice is to get your posts succinct._  
+__succinct__ _adj_ :six::pencil2::mega::hammer: _My advice is to get your posts succinct._  
 __succinctly__ _adv_ :two::pencil2: With concise and precise brevity; to the point. _Syn_ compactly  
 __succint__ _adj_ :three::hammer:  
 __succor__ _n_ :four: /SUCK-er/ _Succor_ is a literary term meaning “something that you do or give to help someone who is suffering or in a difficult situation.”  
@@ -19328,6 +19330,7 @@ __suit__ _n_ Lawsuit.
 __suited__ _adj_  
 __suitor__ _n_ :five: /ˈsu tər/ __1__ A man who courts a woman; wooer. _Syn_ suer, wooer _The princess had many suitors, but the only man she was interested in was a poor farmhand._ :es: pretendiente __2__ A person who makes a petition or request.  
 __sukey__ _n_ /SOO-kee/ [:scroll: After Suki, a girl in the nursery rhyme “Polly Put the Kettle On”. From _Sukey_, nickname for _Susanna_.] A tea-kettle.  
+__sulfurous__ _adj_ Harsh or corrosive in tone. _Syn_ acid, blistering, caustic, vitriolic, acrid, acerbic, bitter, virulent _Her sulfurous denunciation of the governor was aired on the news that evening._  
 __sulk<sup>1</sup>__ _n_ :two: A mood or display of sullen aloofness or withdrawal: _stayed home in a sulk; a case of the sulks._  
 __sulk<sup>2</sup>__ _v_ :three: (sulking) To be silent and resentful because of a wrong done to one, esp in order to gain sympathy; brood sullenly: _the child sulked in a corner after being slapped._  
 __sulky__ _adj_ :three::hammer: _Sulky-looking unshaven men._  
@@ -19371,6 +19374,7 @@ __sundries__ _n pl_ Articles too small or numerous to be specified; miscellaneou
 __sundry<sup>1</sup>__ _adj_ :six: /ˈsʌn dri/ [:scroll: From _sundor_ “separately, apart, asunder” (see _sunder_) + _-y_] Various; miscellaneous. Consisting of a haphazard assortment of different kinds. _Syn_ assorted, miscellaneous, mixed, motley _A purse containing sundry items._ _Sundry blandishments._  
 __sundry<sup>2</sup>__ _n_ :two::hammer: _Unique selection of sundries and cosmetics._  
 __sunken__  
+__sunny__ _adj_  
 __sunset<sup>1</sup>__ _n_  
 __sunset<sup>2</sup>__ _v_ _30-Day Notice: Sunsetting Old Portfolio._  
 __sunshower__ _n_ A localized rain shower in which rain falls while the sun is shining.  
@@ -19412,6 +19416,7 @@ __supplier__ _n_
 __supply and demand__  
 __support__ _v_  
 __supposably__ _adv_ :two::mega: /suh–poh-zid-lee/ Believed or reputed to be the case. A may be assumed, imagined, or supposed. _In our modern and supposably transparent era, the government’s motives for war have come into question._  
+__suppositious__ _adj_ Based primarily on surmise rather than adequate evidence. _Syn_ conjectural, divinatory, hypothetical, suppositional  
 __suppository__ _n_ :two::hammer:  
 __suppurate__ _v_ :two: To form or discharge pus.  
 __suppurative__ _adj_ _Chronic suppurative skin lesions in a young woman._  
@@ -19434,7 +19439,7 @@ __Surgeon General__ _n_
 __surgery__ _n_ _The doctor’s surgery was his own home._  
 __suricate__ _n_  
 __surliness__  
-__surly__ _adj_ :seven: /SUHR-lee/ __1__ Rude; sullen; unfriendly. Unfriendly and rude. _A waiter with a surly attitude._ __2__ Ominous or dismal (used for weather, clouds, sky, ocean, etc.).  
+__surly__ _adj_ :eight: /SUHR-lee/ __1__ Rude; sullen; unfriendly. Unfriendly and rude. _A waiter with a surly attitude._ __2__ Ominous or dismal (used for weather, clouds, sky, ocean, etc.).  
 __surmise<sup>1</sup>__ _n_  
 __surmise<sup>2</sup>__ _v_ :dart::nine::m: (surmised, surmising) To infer (something) from incomplete or uncertain evidence.  
 __surmount__ _v_ :four::hammer: (surmounted) _Surmount obstacles._  
@@ -19444,8 +19449,8 @@ __surpass__ _v_
 __surplice__ _n_ :three: A loose-fitting, white ecclesiastical gown with wide sleeves, worn over a cassock.  
 __surprise__ _n, v_ /səˈpraɪz/  
 __surreal__ _adj_  
-__surreptitious__ _adj_ :three: Marked by quiet and caution and secrecy; taking pains to avoid being observed. _Syn_ furtive, stealthy, sneaky  
-__surreptitiously__ _adv_ :six: Obtained, done, or made by clandestine or stealthy means. _Syn_ sneakily  
+__surreptitious__ _adj_ :four: Marked by quiet and caution and secrecy; taking pains to avoid being observed. _Syn_ furtive, stealthy, sneaky  
+__surreptitiously__ _adv_ :seven: Obtained, done, or made by clandestine or stealthy means. _Syn_ sneakily  
 __surrey__ _n_  
 __surrogate__ _n_ :three::hammer:  
 __surveyor__ _n_ :two::hammer:  
@@ -19490,7 +19495,7 @@ __swank<sup>1</sup>__ _adj_ :two::hammer: _A swank condominium complex._
 __swank<sup>2</sup>__ _v_ :four::astonished::hammer:  
 __swanky__ _adj_ :six: /SWANG-kee/ __1__ Stylish; fashionable; luxurious. _Swanky steakhouses._ _Swanky gifts._ _Swanky dinner._ __2__ Pretentious; ostentatious.  
 __swap__ _n_  
-__sward__ _n_ :two::hammer:  
+__sward__ _n_ :three: /SWORD/ _Sward_ is a literary word that refers to an area of land covered with grass.  
 __swarm<sup>1</sup>__ _n_  
 __swarm<sup>2</sup>__ _v_ :two: Move in large numbers. _Syn_ pour, pullulate, teem, stream  
 __swarthiness__  
@@ -19500,7 +19505,7 @@ __swashbuckle__ _v_
 __swashbuckler__ _n_ :two::hammer: :es: espadachín; intrépido  
 __swashbuckling__ _adj_ :three::hammer:  
 __swat<sup>1</sup>__ _vt_ :three: To hit sharply; slap; smack: _to swat a fly._  
-__swat<sup>2</sup>__ _n_ :two: A smart blow; slap; smack.  
+__swat<sup>2</sup>__ _n_ :three: A smart blow; slap; smack.  
 __swatches__  
 __swath__ _n_ :nine::m: (swathe, swathes) __1__ A row or line of grass, corn, or other crop as it falls or lies when mown or reaped. _If the day is windy, the swathes should be high and narrow._ __2__ Strip left clear by the passage of a mowing machine or scythe. _The combine had cut a deep swathe around the border of the fields._ __3__ A broad strip or area of something. _Vast swathes of countryside._ __4__ A strip, belt, or long and relatively narrow extent of anything.  
 __swathe<sup>1</sup>__ _n_  
@@ -19661,7 +19666,7 @@ __Tahiti__ _n_ :mega: /təˈhi ti, tɑ-/
 __Tahitian__  
 __tai chi__ _n_ (tai chi chuan) A Chinese martial art whose system of physical exercises is often practiced as a way of meditating or improving well-being.  
 __tailgate__ _v_ :two::hammer:  
-__tailor__ _v_ :seven::hammer: (tailored) _All patients with asthma should have their risk of having a future attack assessed and have their monitoring, treatment, and care tailored accordingly._  
+__tailor__ _v_ :eight::hammer: (tailored) _All patients with asthma should have their risk of having a future attack assessed and have their monitoring, treatment, and care tailored accordingly._  
 __tailspin<sup>1</sup>__ _n_ :five::hammer:  
 __tailspin<sup>2</sup>__ _v_  
 __taint__ _n_ _vulgar slang_ :two: The perineum.  
@@ -19721,6 +19726,7 @@ __tandem__ _n_
 __tang__ _n_ :five: __4__ A projection by which a tool, such as a chisel or knife, is attached to its handle or stock. _Syn_ shank :es: espiga _Dory, the little blue tang fish._  
 __Tang__ _n_ An artificially flavored drink mix that was formulated in 1957, and first marketed in powdered form in 1959. Sales of Tang were poor until NASA used it on John Glenn’s Mercury flight in February 1962, and on subsequent Gemini missions. Since then it has been closely associated with the U.S. manned spaceflight program, and created the misconception that Tang was invented for the space program.  
 __tangent__ _adj, n_ /TAN-juhnt/ [:scroll: From Latin tangere (to touch)]  
+__tangential__ _adj_ Only superficially relevant; divergent. _Syn_ digressive  
 __tangerine__ _n_  
 __tangible__ _adj_  
 __tangle<sup>1</sup>__ _n_ (tangles)  
@@ -19782,6 +19788,7 @@ __tarts__ _n_ (whore)
 __Tartuffe__ _n_ :smiling_imp: (Tartufe) [:scroll: after the title character in a Molière play (1664)] A person who hypocritically pretends to be deeply pious.  
 __tase__ _v_  
 __Taser__ _n_ A trademark for a brand of conducted electrical weapons that cause neuromuscular incapacitation, used widely in law enforcement. _A Taser stun gun._  
+__task force__ _n_  
 __task__ _vt_ :six: __1__ To assign a task to or impose a task on. _The agency was tasked with creating an advertising campaign._ _They have been tasked._  
 __Tassel Loafers__ _n_ In the construction sector, a slang term for a corporate manager when he/she visits a worksite in person. The term derives from the fact that executives on construction sites can be identified by their fancy shoes.  
 __tassel<sup>1</sup>__ _n_ :four::hammer: _A thong with tassels._ _Six little palfreys caparisoned in green velvet with crimson tassels._  
@@ -19800,6 +19807,7 @@ __tattle<sup>1</sup>__ _n_
 __tattle<sup>2</sup>__ _v_ :dart::three::hammer: (tattling)  
 __tattletale<sup>1</sup>__ _adj_  
 __tattletale<sup>2</sup>__ _n_ :two::hammer:  
+__tattoo__ _n_ /tæˈtuː/  
 __tatty__ _adj_ :two: Somewhat worn, shabby, or dilapidated.  
 __taunt<sup>1</sup>__ _n_ :five::hammer: _Song has heard his share of slurs and taunts._  
 __taunt<sup>2</sup>__ _vt_ :nine::m::smiling_imp: /tɔːnt/ __1__ To reproach in a mocking, insulting, or contemptuous manner: _taunted her for wearing hand-me-down clothes._ _Syn_ ridicule __2a__ To provoke or deride with mockery, contempt, or criticism. To drive or incite (a person) by taunting: _His friends taunted him into asking for a raise._ __b__ To tease and excite sexually: _taunted him with glimpses of skin._  
@@ -19914,7 +19922,7 @@ __tendentious__ _adj_ /ten-DEN-shus/ _Tendentious_ is a formal word used disappr
 __tender__ _n_ _The company won the tender._  
 __tenderize__ _v_ :two: To make (meat) tender, as by marinating, pounding, or applying a tenderizer.  
 __tendinitis__  
-__tendril__ _n_ :two::hammer: :es: zarzillo  
+__tendril__ _n_ :three::hammer: /ˈtɛndrɪl/ :es: zarzillo  
 __tenebrific__ _adj_ /ˌtɛnɪˈbrɪfɪk/  
 __tenebrous__ _adj_ /TEN-uh-brus/ _Syn_ gloomy  
 __tenement__ _n_ :four: __1__ A building for human habitation, especially one that is rented to tenants. __2__ A rundown, low-rental apartment building whose facilities and maintenance barely meet minimum standards. _Kids from the tenements._  
@@ -19956,7 +19964,7 @@ __terse__ _adj_ :three: Brief and to the point; effectively concise. _Syn_ lacon
 __tesseract__ _n_ (Mathematics) A cube inside another cube.  
 __test-driven__  
 __testament__ _n_  
-__testbed__ _n_ :four::hammer:  
+__testbed__ _n_ :five: (test bed) Any platform used for testing a scientific theory, computational tool or new technology.  
 __tester bed__ _n_ :two::hammer:  
 __testimonial__ _n_ :two: /tess-tuh-MOH-nee-ul/ A testimonial is a written or spoken statement in which a person says they used a product or service and liked it, or that they appreciate someone’s work, skill, character, etc. Testimonial is also used as a synonym of evidence and testimony.  
 __testosterone__ _n_  
@@ -20033,7 +20041,7 @@ __thick accent__ _n_ Heavy foreign or regional pronunciation. _Arnold’s accent
 __thicket__ _n_ :eight::hammer: (thickets) _The thicket of racist laws._  
 __thieve__ _v_ :astonished: To steal.  
 __thigh__ _n_ :mute:[thi~~gh~~]  
-__thimble__ _n_ :three: __1__ (Knitting & Sewing) A cap of metal, plastic, etc, used to protect the end of the finger when sewing. :es: dedal  
+__thimble__ _n_ :four::camera: __1__ (Knitting & Sewing) A cap of metal, plastic, etc, used to protect the end of the finger when sewing. :es: dedal  
 __thimblerig<sup>1</sup>__ _n_ (Gambling, except Cards) A game in which the operator rapidly moves about three inverted small cups, often with sleight of hand, one of which conceals a token, the other player betting on which thimble the token is under.  
 __thimblerig<sup>2</sup>__ _v_ __1__ To cheat by trickery. __2__ To swindle by a trick in which a small ball or pea is quickly shifted from under one to another of three small cups to fool the spectator guessing its location.  
 __thin skin__  
@@ -20068,7 +20076,8 @@ __thought-provoking__ _adj_ :three: Challenging or causing someone to think, esp
 __thoughtful__ _adj_  
 __thoughtless__ _adj_  
 __thousandth__  
-__thrall__ _n_ :six::hammer:  
+__thraldom__ _n_  
+__thrall__ _n_ :astonished::seven::hammer:  
 __thrash out__  
 __thrash__ _v_ :nine::m: (thrashed, thrashing) __1__ To move or make something move from side to side in a violent or uncontrolled way. __2__ To beat someone violently, especially in order to punish them. _Thrash talk._ __3__ To defeat someone very easily in a game. _Toronto thrashed New York City F.C._  
 __thrawn__ _adj_  
@@ -20077,7 +20086,7 @@ __three ring circus__
 __three-hour__ _adj_ :pencil2: _A three-hour drive._  
 __three-wheeler__ _n_  
 __threequel__ _n_ _There’s the original, the sequel, and the threequel._  
-__thresh__ _v_  
+__thresh__ _v_ :two::hammer: :es: trillar  
 __thresher__ _n_ _A mental thresher for separating wheat from chaff._  
 __threshold__ _n_ /THRESH-hohld/ A threshold is a piece of wood, metal, or stone that lies across the base of a doorway. In figurative use, threshold refers to the point or level at which something begins or changes.  
 __thrift shop__ _n_ A shop which sells used goods (especially clothes) at low prices. A shop that sells secondhand articles and especially clothes and is often run for charitable purposes.  
@@ -20086,15 +20095,15 @@ __thrift__ _n_ _Thrift store._
 __thrifty__ _adj_ :five::hammer: _Thrifty car rental._  
 __thrilling__ _adj_  
 __throat__ _n_ _Throat clearing._  
-__throb__ _v_ :seven::hammer: (throbs, throbbing) _My hand/head is throbbing._  
-__throbbing__ _adj_ _A throbbing dance club atmosphere._  
+__throb__ _v_ :dart::eight::hammer: _My hand/head is throbbing._ _He made me throb with joy._ :es: latir con fuerza; sentir pinchazos  
+__throbbing__ _adj_ :three::hammer: _A throbbing dance club atmosphere._  
 __throbbingly__  
 __throes__ _n pl_ :six: A condition of extreme difficulty or trouble: _a country in the throes of economic collapse._  
 __thrombectomy__ _n_ Surgery to remove a blood clot.  
 __thrombocytopenia__ _n_  
-__thromboembolism__ _n_  
+__thromboembolism__ _n_ :two::hammer:  
 __thrombolysis__  
-__thrombosis__  
+__thrombosis__ _n_ :two::hammer:  
 __throng__ _n_ :eight: A large gathering of people. _A throng of news media members._  
 __throttle__ _v_ :four::hammer: _Most work has focused on throttling throughput._ __3__ To strangle (a person); choke. (throttling) _Throttling the Philadelphia Eagles._  
 __through__ _adj, adv, prep_ :seven::mute:[throu~~gh~~] As an adjective, through means finished or done. As an adverb it can mean backward and forward, completely, up to and including, or all the way to the end. The preposition through means in and out of. _Its current show runs through July 9._ _An exhibition works on display through July 8._ _“The Rat Pack” musical, through July 14._ _“Macbeth.” July 5 through 15._ _Extreme heat and humidity will scorch parts of the central U.S. through the weekend._ _Listing 2 through Listing 5 show the result of splitting the code in Listing 1 into smaller classes and functions._ __4__ _prep_ _chiefly US_ Up to and including: _Monday through Friday._ _The meeting takes place from today through Thursday._  
@@ -20112,13 +20121,14 @@ __throwback__ _n_ :five::hammer: _Throwback uniform._ _A distinct throwback to t
 __throwers__ _n_  
 __throws__ _n_ :two: __2__ _informal_ A chance, venture, or try. __3__ _(Games, other than specified)_ An act or result of throwing dice.  
 __thru__  
-__thrum__ _v_ :three::hammer:  
+__thrum__ _v_ :six::hammer:  
+__thrumming__ _n_  
 __thrush__ _n_ :dart: :es: afta  
 __thrust<sup>1</sup>__ _v_ :three::hammer:  
 __thrust<sup>2</sup>__ _n_ :four::hammer: _A thrust of cognitive effort._  
 __thud<sup>1</sup>__ _n_ :two::hammer:  
 __thud<sup>2</sup>__ _v_ (thudding)  
-__thug__ _n_ :three: A tough and violent man, esp a criminal.  
+__thug__ _n_ :four::smiling_imp: A tough and violent man, esp a criminal.  
 __thumb tacks__  
 __thumb war__  
 __thumb<sup>1</sup>__ _n_ :two::hammer::mega::mute:[thum~~b~~]  
@@ -20128,12 +20138,13 @@ __thumbsucker__ _n_ /THUHM-suhk-uhr/ __1__ Someone who likes to suck their thumb
 __thump__ _v_ :three::hammer: _Liverpool thumps United 3-0._ _The Hawks thumped the Maroons._ _He thumped the cigarette gently on the table._  
 __thumping__ _adj_ _informal_ _A thumping majority._  
 __thunder__ _v_ :two: (thundered) To express violently, commandingly, or angrily; roar.  
+__thundercloud__ _n_  
 __thunderheads__  
 __thundering__ _adj_ _informal_ Very great, remarkable, or unusual. _A thundering water sculpture._  
 __thunderous__ _adj_  
 __thunderstone__ _n_  
 __thunderstruck__ _adj_ :two: As if struck dumb with astonishment and surprise. _I was thunderstruck._  
-__thunk<sup>1</sup>__ _n_  
+__thunk<sup>1</sup>__ _n_ :two::hammer:  
 __thunk<sup>2</sup>__ _v_ _A thunking sound._  
 __thunked__ _v_  
 __Thursday__ _n_ :mega: /’θøzdi, -deI/  
@@ -20162,7 +20173,7 @@ __ticklish__ _adj_ :four: If you are ticklish, you quickly feel uncomfortable wh
 __ticky-tacky__ _adj_ _The ticky-tacky plan._  
 __Tico__ _n_ A native or inhabitant of Costa Rica.  
 __tidbit__ _n_ :dart::nine::m::pencil2: /ˈtɪdˌbɪt/ (titbit) __1__ A delicate bit or morsel of food. _He fed the cat tidbits._ __2__ A choice or pleasing bit of anything, as gossip.  
-__tiddlywinks__ _n_ /ˈtɪdlɪˌwɪŋks/ (functioning as singular) A game in which players try to flick discs of plastic into a cup by pressing them sharply on the side with other larger discs.  
+__tiddlywinks__ _n_ :two::camera: /ˈtɪdlɪˌwɪŋks/ (functioning as singular) A game in which players try to flick discs of plastic into a cup by pressing them sharply on the side with other larger discs.  
 __tidy up__ _phr v_ :three: To put something in order; to clean something. _I need to tidy the place up._  
 __tidy<sup>1</sup>__ _adj_ _A tidy plan._  
 __tidy<sup>2</sup>__ _v_ _She tidied her desk._  
@@ -20189,7 +20200,7 @@ __tiki<sup>2</sup>__ _n_
 __tikkamassala__ _n_  
 __til__ _conj, prep_  
 __tilapia__  
-__till<sup>1</sup>__ _n_ :three::hammer:  
+__till<sup>1</sup>__ _n_ :four::hammer: :es: caja registradora  
 __till<sup>2</sup>__ _v_ (tilled)  
 __tiller__ _n_ :three: One that tills land: _a tiller of soil._  
 __Tilt-A-Whirl__ _n_  
@@ -20221,7 +20232,7 @@ __timid__
 __timing bag__  
 __timorous__ _adj_ :three: Full of fear; timid. _Syn_ trepid, fearful  
 __tin ear__ _n_ _Hillary has a political tin ear._  
-__tinderbox__ _n_ :two: __1__ A metal box for holding tinder. __2__ A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
+__tinderbox__ _n_ :dart::three: __1__ A metal box for holding tinder. __2__ :dart: A person or thing that is highly volatile; any potential source of violence. A potentially explosive place or situation: _referred to the crowded prison as a tinderbox of suppressed violence._  
 __tinderdry__  
 __tine__ _n_ :three::hammer: (tines)  
 __tinfoil hat__  
@@ -20232,7 +20243,7 @@ __tinge<sup>2</sup>__ _v_
 __tingle<sup>1</sup>__ _v_ :six: (tingled, tingling) Cause a stinging or tingling sensation. _He had been duped by her._  
 __tingle<sup>2</sup>__ _n_ :two: A sensation of tingling. _I’m all tingles and shakes._  
 __tingling<sup>1</sup>__ _n_ :two: A somatic sensation as from many tiny prickles. _Syn_ prickling, tingle :es: hormigueo  
-__tingling<sup>2</sup>__ _adj_ :six::hammer: _Blood stained my tingling fingers._ _A tingling sensation._ :es: a tingling sensation → _una sensación de hormigueo_  
+__tingling<sup>2</sup>__ _adj_ :eight::hammer: _Blood stained my tingling fingers._ _A tingling sensation._ :es: a tingling sensation → _una sensación de hormigueo_  
 __tink__ _v_  
 __tinker<sup>1</sup>__ _n_  
 __tinker<sup>2</sup>__ _v_ :four::hammer:  
@@ -20425,7 +20436,9 @@ __torte__ _n_ _A torte was named after her._
 __torticollis__ _n_  
 __tortuous__ _adj_ :two: /TOR-chuh-wus/ __1__ Tortuous means “having many twists and turns” or “winding.” _They took a tortuous mountain road marked by numerous hairpin turns._ __2__ It can also mean “marked by devious or indirect tactics” or “complicated, long, and confusing.” _He delivered a tortuous explanation when questioned by press._ _The contract’s tortuous language made it a maddening read._  
 __torturous__ _adj_ :two: (Not to be confused with: tortuous – circuitous; devious; full of twists, turns, or bends) Extremely painful. _Syn_ agonizing, excruciating, harrowing _Losing someone you love is a torturous experience._ Pertains to suffering: _We toil in the torturous heat._  
-__toss__ _v_ :three::hammer: (tossing)  
+__toss up<sup>1</sup>__ _v_  
+__toss up<sup>2</sup>__ _n_  
+__toss__ _v_ :three::hammer:  
 __toss-up__ _n_ :two::hammer: (toss-ups)  
 __toss<sup>1</sup>__ _v_ :two::hammer: _Create your own salad to be freshly tossed._ _The prisoner lay tossing and moaning._  
 __toss<sup>2</sup>__ _n_ _Great fruitcase toss._  
@@ -20537,8 +20550,8 @@ __transfigure__ _v_ Change completely the nature or appearance of.
 __transfixed__ _adj_ Rendered motionless, esp from horror or shock. Having your attention fixated as though by a spell. _Syn_ fascinated, hypnotised, hypnotized, mesmerised, mesmerized, spellbound, spell-bound _I was transfixed by it._  
 __transgression__ _n_ :smiling_imp: /ptrans-GRESH-uhn/ A violation of legal or moral boundaries.  
 __transience__  
-__transient<sup>1</sup>__ _adj_ :eight::mega: For a short time only; temporary or transitory. _Transient lesions._ _A transient log._ _One of the more transient jobs at the paper._ _Temporary conduction block can occur as a result of transient edema._  
-__transient<sup>2</sup>__ _n_  
+__transient<sup>1</sup>__ _adj_ :nine::mega: For a short time only; temporary or transitory. _Transient lesions._ _A transient log._ _One of the more transient jobs at the paper._ _Temporary conduction block can occur as a result of transient edema._  
+__transient<sup>2</sup>__ _n_ :two::hammer:  
 __transition__ _vi_ (of a transgender person): To come to live in accordance with one’s gender identity through a process that involves changes to one’s appearance and presentation often with the aid of medical procedures and therapies.  
 __translate__ _v_ _That doesn’t always translate, believe me._  
 __translational__ _n_ __2__ In science, of or relating to the application of basic or theoretical discoveries to the development of practical applications: _translational research._  
@@ -20631,6 +20644,7 @@ __trickle<sup>1</sup>__ _n_ :nine::m: __1__ A small group or number of people or
 __trickle<sup>2</sup>__ _v_ :nine::m: __1__ _vi_ To flow or fall by drops, or in a small, gentle stream: _Tears trickled down her cheeks._ __2__ _vi_ To come, go, or pass bit by bit, slowly, or irregularly: _The guests trickled out of the room._ _The money trickled in._ __3__ _vt_ To cause to trickle.  
 __trickster__ _n_ One that swindles or plays tricks. Someone who uses dishonest methods to get what they want. _Trickster hero._  
 __tricksy__  
+__tried-and-tested__ _adj_ Recognized as reliable; found to be successful.  
 __tried-and-true__ _adj_ Tested and proved to be worthy or good.  
 __trifecta__ _n_ :seven::mega: /trʌɪˈfɛktə/ (1970s: from tri- ‘three’ + perfecta.) (Before it was a broad term for three, _trifecta_ referred specifically to bets on horse races. A _trifecta_ is a bet when a bettor chooses the first, second, and third finishers in the correct order. The odds of making the correct ordered picks are low, but the payout is often much higher than basic bets like picking an overall winner. It’s a bet that isn’t typically applied to other sports.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
 __trifle<sup>1</sup>__ _n_ :four: __1__ A thing of little or no value or significance. __2__ A small amount; bit: _a trifle more enthusiasm._  
@@ -20638,6 +20652,7 @@ __trifle<sup>2</sup>__ _v_ :four: __1__ _vi_ (usually foll by: _with_) To deal (
 __trigger__ _v_ _The avalanche was triggered by skiers._  
 __trilby__ _n_ :three: A hat made of felt with a creased crown. _Syn_ fedora, felt hat, homburg, Stetson  
 __trill__ _n_ :eight::hammer: (trills, trilled, trilling) _I felt a trill of excitement._ _Monroe pronounced the guttural deep in his throat and trilled the “r.”_ _Melodic trill._  
+__trilling__ _n_ The production of a trill sound.  
 __trillion__ _n_ _There are trillions of microbes living in and on our bodies—and we might be able to modify them to help us treat diseases._  
 __trilobite__ _n_ :two::mega::hammer:  
 __trim__ _n_ :four::hammer: _Stainless interior trim._ _They rattled their swords against the trim of their shields._ _The built-in microwave can be built into cabinetry with a trim kit._ _Metallic trim._  
@@ -20648,7 +20663,7 @@ __trip wire__ _n_ _You hit a trip wire._
 __trip__ _v_ _Tripping the fuses._  
 __trip-hammer<sup>1</sup>__ _n_  
 __trip-hammer<sup>2</sup>__ _adj_ Suggesting a trip-hammer in loud pounding or persistent action. _No trip-hammer questions._  
-__triple__  
+__triple__ _adj, n, v_ :two::hammer::mega: /ˈtrɪpəl/  
 __triple-check__ _v_  
 __tripledemic__ _n_ :two: The simultaneous outbreaks of three infectious diseases: COVID-19, influenza, and respiratory syncytial virus (RSV).  
 __triplex__ _adj_ _A triplex penthouse._  
@@ -20736,6 +20751,7 @@ __try on__ _phr v_ :four::mega: To put clothes or shoes on to see if they fit.
 __trying__ _adj_ :two::dart::astonished: /ˈtraɪɪŋ/ Extremely difficult and annoying, straining one’s patience and goodwill to the limit. Straining one’s patience and goodwill; annoying, difficult, or irritating. Causing strain, hardship, or distress. Upsetting, difficult, or annoying: _a trying day at the office._  
 __tryptophan__ _n_ :mega: (tryptophane)  
 __tryst__ _n_ :four: An agreement, as between lovers, to meet at a certain time and place. _Syn_ assignation, rendezvous _They tried to keep their weekly meetings a secret, but soon neighbors began to whisper about their trysts._  
+__tsk__ _vi_ :two::pencil2: To utter the exclamation “tsk.”  
 __tsuifuku__  
 __tsunami__ _n_ :two::hammer: [:scroll: From the Japanese _tsunami_, a combination of _tsu_, meaning “harbor” and _nami_, meaning “wave.”]  
 __tub__ _n_ :eight: __1__ A low wide open container, typically round, originally one made of wood and used _esp_ for washing: now made of wood, plastic, metal, etc, and used in a variety of domestic and industrial situations. _Family tub corn._ _Bring a tub of wet wipes._ :camera: __2__ A small plastic or cardboard container of similar shape for ice cream, margarine, etc. _A tub of Ben & Jerry’s._ __3__ Also called: bathtub another word (_esp_ US and Canadian) for bath.  
