@@ -2,6 +2,8 @@ __(all) riled up__ Particularly angry, agitated, or in a frenzied state. _Grandp
 __(Are) you kidding (me)?__  
 __(as) cool as a cucumber__ _slang_ Calm and composed, especially in times of stress.  
 __(as) good as dead__  
+__(as) mad as a wet hen__ Enraged; extremely or inconsolably angry. _My dad was mad as a wet hen after I crashed his car._  
+__(as) mad as hops__ Enraged; extremely or inconsolably angry. _My dad was mad as hops after I crashed his car._  
 __(as) quick as a bunny__ Incredibly quickly or speedily. _Quick as a bunny, Mary finished her exam and raced out of the classroom._  
 __(it’s) (a)bout time__ :dart::two:  
 __(it’s) just as well (that) (something happened)__ It is or turned out to be beneficial (that something happened). _It turned out we had a pop quiz on Monday. Just as well I was studying this weekend!_  
@@ -57,17 +59,22 @@ __around the clock__ ((a)round the clock)
 __at (one’s) convenience__ _At your convenience, Captain._  
 __badass__  
 __battle-hardened__  
+__be made of sterner stuff__ To be very strong, determined, or of uncompromising character, especially in comparison to others. _Having to take care of both of us growing up, my brother George was made of sterner stuff as a kid than anyone else I knew._  
+__be on the lookout__ To be watching for something or someone. _Be on the lookout for my email! It will have all the instructions you need for the project._  
 __be up to (something)__  
 __big player__ A “big player” typically refers to a person or entity that has significant influence, power, or importance in a particular field or industry. It can be used to describe someone with a lot of resources, experience, or market share, making them a key figure in a given situation or environment.  
 __boon or bane__ Something that be may either good or bad, depending on context.  
+__break a sweat__ :dart:  
 __bring about__  
 __brood over__ To worry anxiously or be despondent about something or someone, especially at great length and in isolation. _I know you’re upset about failing your exam, but don’t brood over it all weekend._  
 __bump in the road__ A problem that arises and interferes with forward progress (usually only temporarily).  
 __catch up with (someone)__  
 __close to one’s chest__  
+__cold email__ An unsolicited email sent to someone with whom the sender has no prior relationship, usually for professional or business purposes.  
 __come to a head__ To reach a point of intensity at which action must be taken.  
 __come to think of it__ :dart: _set phrase_ Used when one has had a sudden realization. _Yeah, come to think of it, Dave was at the party, too._  
 __conspiracy theory__ _n_ The belief that the government or a covert organization is responsible for an event that is unusual or unexplained, esp when any such involvement is denied.  
+__corny__  
 __diddly__ _n_ :dart: __1__ Nothing; anything at all (when used in negative statements). _I have to admit that I know diddly when it comes to computers._ __2__ A small or worthless amount: _His advice wasn’t worth diddly to me._  
 __dig (something)__ _slang_ To understand, approve of, or enjoy something. _I really dig this music, man!_  
 __dig and poke around__ The idiom “dig and poke around” generally means to search or investigate something thoroughly by looking through various items or areas, often in a somewhat casual or unstructured manner.  
@@ -86,6 +93,7 @@ __don’t give a rat’s ass__
 __don’t mention it__  
 __done and dusted__ Successfully finished. Primarily heard in UK.  
 __doodad__ A name for a gadget or thing whose actual name is unknown or has been forgotten. _Where’s that doodad? I need it to finish this repair._  
+__dooge__ _n_ Internet slang for dog; a meme about a Shiba Inu; a cryptocurrency; a proposed ‘government efficiency’ task force.  
 __doom amd gloom__  
 __doom and gloom__  
 __double duty__  
@@ -119,9 +127,11 @@ __elephant in the room__
 __engage (one) as (something)__ To hire someone for a particular role or job. _I thought they were just going to engage me as a file clerk, but because they needed help with data entry, I wound up doing that instead._ :es: contratar  
 __enough is enough__  
 __entreat (one’s) to (do something)__  
+__ethnic cleansing__ The elimination of a particular ethnic group from a population, as through forced emigration or genocide. The expulsion, imprisonment, or killing of an ethnic minority by a dominant majority in order to achieve ethnic homogeneity. It is considered a war crime.  
 __every now and then__  
 __every so often__ Sometimes; occasionally.  
 __factor in__ :two::hammer:  
+__fair and square__  
 __fall flat__ __1__ To fail or be ineffective. _Good luck—the last time management tried to implement a new dress code, that measure fell flat._ __2__ To fail to be humorous, as of a joke. _A: “Unfortunately, my first stand-up routine really fell flat.” B: “Well, maybe you just had the wrong audience.”_  
 __fall into place__  
 __fall into step__ :astonished: To begin walking at the same pace as someone else. _If you don’t fall into step with us, you’ll get left behind._  
@@ -159,6 +169,7 @@ __five-on-five__ “Five-on-five” typically refers to a format in team sports 
 __flare up__ :es: estallar  
 __flesh and blood__  
 __flip the script__  
+‌__flip the script__ To change or reverse something dramatically.  
 __flit about__ To move in a quick, deft manner. _The kids are outside, trying to catch the lightning bugs that are flitting about._  
 __floor (one)__  
 __flop__ _The film was a flop._  
@@ -315,6 +326,7 @@ __jump before (one) is pushed__ To take action willingly or proactively before b
 __jump in feet first__ To begin or undertake something quickly, enthusiastically, and without trepidation. _I know you’re nervous about starting school, but you just need to jump in feet first and do your best!_  
 __jump in__  
 __jump into (something)__ __2__ To enter something quickly, especially a vehicle. _The bank robber jumped into the getaway car and sped off before the police arrived._ __3__ To begin or undertake something quickly, enthusiastically, and without trepidation. _I think we should take a bit more time to develop our business strategy before we jump right into anything._  
+__jump scare__ In a film, television show, or video game, a moment in which something shocking or frightening happens or appears very abruptly, especially in conjunction with a loud, frightening sound. Sometimes spelled as a single word.  
 __jump ship__ (abandon ship) _Nearly all of (chatbot) Pi’s parent company, Inflection AI, decided to jump ship just 10 months after Pi’s launch._  
 __jungle law__  
 __junkyard dog__ An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase “meaner than a junkyard dog.” _Though he’s always polite when he’s in public, Tiffany’s husband is meaner than a junkyard dog behind closed doors._  
@@ -352,6 +364,7 @@ __keester__ _slang_ The buttocks or anus. Often used figuratively. _OK, kids, ge
 __key up__  
 __kick (someone or something) to the curb__  
 __kick in__  
+__kick into high gear__ (kick into full gear)  
 __kick the can down the road__ Especially in politics, to postpone or defer a definitive action, decision, or solution, usually by effecting a short-term one instead.  
 __kick the tires__ To inspect or test something or someone to ensure that he, she, or it meets the required or expected standard of quality. Primarily heard in US, Canada. _You should always kick the tires of anything you plan to buy from someone online, or else you might end up buying a piece of junk!_  
 __kick up__  
@@ -406,6 +419,7 @@ __lay (someone) to rest__
 __lay (something) at the feet of (someone)__ To make or hold someone, especially a group of people, responsible for something. _With every other department losing money each year, the managers have laid the company’s success at the feet of our team._  
 __lay bare (something)__ :two: To divulge, explain, or reveal something not previously known publicly.  
 __lay down and die__ To quit; to give up hope or ambition. _We might have had an unexpected loss in the playoffs, but that doesn’t mean this team is ready to lay down and die!_  
+__let alone__  
 __lightning speed__ An extremely high speed; great rapidity.  
 __like a fish out of water__ :two::hammer:  
 __like attracts like__ People tend to seek out or be attracted to those that are similar or like-minded. _I guess I shouldn’t be surprised that John wants to find other Americans to hang out with. Like attracts like, after all._  
@@ -466,8 +480,11 @@ __lucky devil__ Someone who has just experienced particularly good fortune, gene
 __lucky for you__  
 __lust for life__ Intense eagerness to experience all that life has to offer.  
 __lust for power__ Intense, insatiable desire to attain power and control.  
+__mad as a hornet__ (mad as hell, mad as hops, mad as a wet hen) Enraged; extremely or inconsolably angry. _My dad was mad as a hornet after I crashed his car._  
+__mad as a wet hen__ Extremely angry.  
 __make a face__ :two::hammer:  
 __make a fuss__  
+__make a hole in (something)__ To take, use up, or deplete a large amount of money available in something, such as a budget, one’s wallet, etc. _The cost of repairing the car is really going to make a hole in our savings._  
 __make a long arm for (something)__ To extend one’s arm fully toward something; to reach out for something. _Mary’s new boyfriend made a long arm for the bottle of wine at the end of the table, helping himself to another glass._  
 __make good on (something)__ To fulfill an obligation, such as keeping a promise or paying a debt. _Tom made good on his pledge to donate $1,000. Bill refused to make good on his promise._  
 __make inroads__ :two::hammer:  
@@ -618,6 +635,7 @@ __on top of that__
 __on your radar__ See _on (one’s) radar (screen)._  
 __on-site__  
 __open game__ Being vulnerable or exposed to attack, criticism, or other negative consequences. _If we break the truce first, we are open game._  
+__open the floodgates__ To allow for an expanding number of (typically negative) consequences as the result of another related action.  
 __out and about__ :dart: __1__ Away from one’s home or normal environment, especially to socialize, run errands, visit various places, etc. _I’m just out and about with Mary if you would like to come join us._ __2__ Well enough to come and go, especially after an illness. For example, _I’m glad to see you’re out and about again._  
 __out of curiosity__ A phrase used to express that someone is asking a question or seeking information simply because they are interested or want to know more, without any specific agenda or need.  
 __over the finish line__ :three: To a state of completion or fulfillment, as at the end of some process, development, endeavor, etc. _We’ve been working 80-hour weeks to get this project over the finish line before December._  
@@ -637,6 +655,7 @@ __practice makes perfect__
 __pull rank (on one)__  
 __push (one’s) buttons__  
 __put to good use__ (put (something) to good use) To use something in a way that will be beneficial or have significant results. Employ to the best advantage, as in _I’m sure this dictionary will be put to good use._  
+__race to (someone or something)__ To move, run, drive, etc., in a very hurried or frantic manner to some person, thing, or destination. _I have to race to the bank so I can deposit this check before they close._  
 __raise the ante__  
 __ring a bell__  
 __ring false__  
@@ -651,6 +670,7 @@ __run afoul of (someone or something)__
 __run the gauntlet__ To be exposed to or forced to endure a series of threats, dangers, criticism, or other problems. Refers to an old military punishment in which one was forced to run between two lines of soldiers while being thrashed with rods or whips. _Medical students often feel that they have to run the gauntlet when they become residents in a hospital._  
 __run with it__ To take the initiative to do something independently. _I got this really good idea for an ad campaign. I think I’m going to just run with it and present it to the boss when it’s done._  
 __rush into (something)__  
+__safeguard against (someone or something)__  
 __same old same old__ :two::hammer:  
 __same shit, new wrapping__ Colloquial expression that conveys the idea that something has been superficially changed or repackaged but remains fundamentally the same. It suggests that despite appearances, the underlying issues or qualities have not been altered.  
 __save (one’s) bacon__  
@@ -909,6 +929,7 @@ __under the gun__ :dart: In a stressful situation that requires quick action, of
 __under the hood__  
 __unfamiliar territory__  
 __unpack__  
+__unsung hero__  
 __until the cows come home__ (till the cows come home) For a very long, indefinite amount of time; forever. _You can wait until the cows come home, but you’ll never see that law passed in this country!_  
 __up (one’s) alley__ :dart: See _right up (one’s) alley._  
 __up a notch__ To an increased or extreme degree of intensity or quality.  

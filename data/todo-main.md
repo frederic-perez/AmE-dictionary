@@ -11,6 +11,7 @@ __accoutrement__ _n_
 __acerbic__ _adj_ Sharp or biting, as in character or expression. _Syn_ blistering, caustic, acid, vitriolic, acerb, acrid, sulfurous, virulent, bitter  
 __acquiesce__  
 __actor__ _n_ :two: __2__ One who takes part; a participant.  
+__ad-lib__ _v_ /AD-LIB/ To ad-lib something, such as a performance or part of a performance, is to improvise it—that is, to make up words or music instead of saying, singing, or playing something that has been planned. _The actor forgot his lines, so he ad-libbed._  
 __addlepated__ _adj_ /AD-ul-pay-tud/ Someone described as addlepated is mixed-up or confused. _Addlepated_ can also be used as synonym of eccentric.  
 __adorbs__ _adj_ /ə-ˈdȯrbz/ _informal_ Extremely charming or appealing. _Syn_ adorable  
 __adversary__ _n_ :mega: /ˈæd vərˌsɛr i/ /ˈædvəsərɪ/ /AD-ver-sair-ee/ _Adversary_ is an enemy or opponent.  
@@ -20,6 +21,7 @@ __afoot__ _adj, adv_
 __agency__ _n_ :two::hammer:  
 __agonist__ _n_  
 __agonistic__ _adj_ Striving to overcome in argument. _Syn_ combative _The incumbent’s aggressive, agonistic approach to the debate alienated many of his supporters._  
+__Ahabian__ _adj_  
 __airily__ _adv_ _Syn_ flippantly  
 __airlock__ _n_ A chamber that provides access to space where air is under pressure. _Syn_ air lock  
 __Alanis__ _n_ /əˈlænɪs/  
@@ -56,6 +58,7 @@ __audition__ _n_ /aw-DISH-un/ An audition is a short performance to show the tal
 __austere__ _adj_ :mega:  
 __Ayurveda__ _n_ The conventional Hindu system of medicine, founded chiefly on naturopathy and homeopathy.  
 __back seat__ _n_ __2__ _informal_ A subordinate or inconspicuous position (esp in the phrase _take a back seat_).  
+__backlash__ _n_  
 __backstab__ _vt_ :smiling_imp:  
 __badger__ _v_  
 __baldric__ _n_ :camera: A belt, usually of ornamented leather, worn crossbody to support a sword or bugle. _Baldrics were very important to Wookiee culture; a Wookiee earned the right to wear a baldric after completing a hrrtayyk ceremony._  
@@ -65,6 +68,7 @@ __baseline__ _n_
 __belay__ _v_ :two::hammer::camera:  
 __best-in-class__ _adj_ Something that is considered the best or highest quality within its category or field. It’s often used to describe products, services, or performance that set the standard for excellence, outperforming others in terms of features, quality, or effectiveness.  
 __blueprint__  
+__canard__ _n_ :smiling_imp: /kuh-NARD/ __1__ An unfounded or false, deliberately misleading story. _Canard_ refers to a false report or story, or to a belief or rumor that isn’t true. __2__ It can also refer to a kind of airplane as well as to a kind of small airfoil. _The book unfortunately repeats some of history’s oldest canards._  
 __cavalier__ _adj_ :dart::astonished: /ˌkæv əˈlɪər, ˈkæv əˌlɪər/ /kav-uh-LEER/ Someone described as _cavalier_ shows no concern for important or serious matters. Cavalier also describes attitudes, manners, etc., that show the same lack of concern. _The company provides regular training about the dangers of being cavalier in sharing privileged information._  
 __cerulean__ _adj_ /suh-ROO-lee-un/ Cerulean describes things whose blue color resembles the blue of a clear sky.  
 __chastening__ _adj_ Humbling.  
@@ -95,8 +99,10 @@ __closehanded__ _adj_ Covetous; penurious; stingy; closefisted.
 __clover__ _n_  
 __coalesce__ _v_  
 __countless__  
+__coup__ _n_  
 __demagogue__ _n_ (demagog)  
 __detail__ _n_ __7a__ A group of military personnel assigned to a particular duty, usually a fatigue duty. __b__ The duty assigned: _garbage detail._  
+__didactics__ _n_ The activities of educating or instructing; activities that impart knowledge or skill. _Syn_ education, instruction, pedagogy, teaching  
 __disputatious__ _adj_ /dis-pyuh-TAY-shus/ _Disputatious_ is a formal word used to describe someone who often disagrees and argues with other people (in other words, someone inclined to dispute). It can also describe something marked or characterized by arguments or controversies, or something that provokes debate or controversy. _The podcast is hosted by a disputatious pair whose sparring has drawn legions of listeners._  
 __dissipation__ _n_ _Heat dissipation._  
 __distil__ _v_  
@@ -107,6 +113,7 @@ __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to de
 __elusive__ _adj_ :mega: /ɪˈlu sɪv/  
 __emaciated__  
 __embolden__ _vt_ To foster boldness or courage in. _Syn_ encourage  
+__encroach__ _v_ /in-KROHCH/ To encroach is to gradually move or go into an area that is beyond the usual or desired limits, or to gradually take or begin to use or affect something that belongs to, or is being used by, someone else. _Encroach_ is often followed by _on_ or _upon._ _Conflicts between people and bears increase as humans continue to encroach on bear territory._  
 __encroachment__ _n_ :es: intromisión  
 __evergreen__ _adj_ /EV-er-green/ _Evergreen_ in its figurative uses describes something, such as a plot, that retains its freshness or interest over a long period of time, or something, such as an issue or concern, that is universally and continually relevant. In botany, _evergreen_ describes foliage that remains green and functional through more than one growing season.  
 __exacerbate__ _vt_  
@@ -125,6 +132,7 @@ __feisty__ _adj_ :astonished: /FYE-stee/ _Feisty_ describes someone who has or s
 __fetishist__ _n_ One who engages in fetishism (especially of a sexual nature).  
 __fiasco__ _n_ :dart: A complete failure, esp one that is ignominious or humiliating.  
 __finagling__ _n_ :smiling_imp: /fɪˈneɪɡlɪŋ/ The use of trickery or craftiness to achieve one’s aims.  
+__finesse__ _v_ /fuh-NESS/ To finesse something is to bring it about, direct it, or manage it by skillful maneuvering. _We managed to finesse a favorable deal on some Beatles LPs at the flea market through subtle bargaining._  
 __fire grate__ _n_ (firegrate, fire-grate) A grate used to hold the fuel in domestic fireplaces and in many forms of heaters and furnaces. _She prepared the fire grates._  
 __firebomb<sup>1</sup>__ _n_ A bomb used to start a fire; an incendiary bomb.  
 __firebomb<sup>2</sup>__ _v_ To attack with firebombs.  
@@ -193,6 +201,7 @@ __gaggle__ _n_ __2__ _informal_ A disorderly group of people.
 __gall<sup>1</sup>__ _n_  
 __gall<sup>2</sup>__ _vt_ __1__ To irk or exasperate; vex: _It galled me to have to wait outside._ __2__ To wear away or make sore by abrasion; chafe.  
 __gall<sup>3</sup>__ _vi_ To become worn or sore by abrasion.  
+__gallantry__ _n_ Nobility of spirit or action; courage. _Syn_ heroism, valor  
 __galling__ _adj_ :es: mortificante  
 __gallivant__ _vi_ (galivant, galavant)  
 __galvanize__ _vt_ :three: /GAL-vuh-nyze/ __1__ To stimulate by an electric current: _to galvanize muscles or nerves._ __2__ To galvanize people is to cause them to be so excited or concerned about something that they are driven to action. _The council’s proposal to close the library has galvanized the town’s residents._ __3__ To coat (metal, esp. iron or steel) with zinc.  
@@ -217,6 +226,7 @@ __gaunt__ _adj_ :two::hammer: _Two enormous gaunt wolves._
 __gelation__ _n_ __1__ Solidification by cooling or freezing. __2__ The process of forming a gel.  
 __gelid__ _adj_ /JELL-id/ Something described as gelid, such as the weather or a person’s demeanor, is literally or figuratively extremely cold or icy.  
 __general practitioner__ _n_ (GP) _Syn_ family doctor  
+__genre__ _adj, n_ /ˈʒɑn rə;/  
 __genteelism__ _n_ /jen-TEE-liz-uhm/ The substitution of a word that is believed to be more polite or refined. For example, washroom for lavatory.  
 __gerbil__ _n_ :es: jerbo  
 __gestalt therapy__ _n_  
@@ -384,6 +394,7 @@ __jangle<sup>3</sup>__ _n_
 __Janus word__ _n_ /ˈdʒeɪnəs wɜrd/ A word that has opposite or nearly opposite meanings, such as cleave and dust. (These are also called contronyms.) To cleave something can mean to adhere closely to that thing, but it can also mean its opposite: to split, divide, or cut off. As a verb, dust can refer to the removal of dust, or the addition of it. (Think dust the cookies with confectioners’ sugar.)  
 __jaundice__ _n_  
 __jaunty__  
+__jeer__ _v_ To speak or shout derisively; mock. _Syn_ scoff, flout, gibe, barrack _The crowd jeered at the speaker, and she ran offstage in tears._  
 __Jenga__ _n_  
 __jerk__ _v_  
 __jerkwater__ _adj_ /JERK-waw-ter/  
@@ -461,6 +472,7 @@ __mahogany__ _n_ :es: caoba
 __maiden__ _adj_ _The _Titanic_ maiden voyage._  
 __mains tester__ _n_ An insulated screwdriver with a light in the handle.  
 __make__ _n_ :astonished:  
+__malapropism__ _n_ /MAL-uh-prah-piz-um/ A malapropism is an amusing error that occurs when a person mistakenly uses a word that sounds like another word but that has a very different meaning.  
 __malcontent__ _adj, n_  
 __malevolent__ _adj_ :smiling_imp: Wishing evil or harm to another or others.  
 __mammoth__ _n_  
@@ -559,6 +571,7 @@ __mothball__ _n_ Asmall sphere of camphor or naphthalene used to keep moths away
 __mother of pearl__ _n_  
 __motor__ _v_  
 __motormouth__ _n_ :two: _slang_ A garrulous person.  
+__muffled__ _adj_  
 __mull<sup>1</sup>__ _vt_ /mŭl/ To think about extensively; ponder. __1__ __2__ To heat and spice (wine, for example).  
 __mull<sup>2</sup>__ _vi_ /mŭl/ To ruminate; ponder: _mull over a plan._  
 __mulled wine__ _n_ Wine heated with sugar and spices and often citrus fruit.  
@@ -660,6 +673,7 @@ __plaintively__ _adv_ :dart: :es: lastimeramente, con dolor
 __planter__ _n_  
 __plead__ _v_  
 __plebiscite__ _n_  
+__plenitude__ _n_ A full supply. _Syn_ plenteousness _They lived in a region blessed with a plenitude of natural resources._  
 __plod__ _v_ To walk heavily or move laboriously; trudge.  
 __plover__ _n_ :es: chorlito  
 __pluck__ _v_ :two::hammer:  
@@ -780,6 +794,7 @@ __rebuttal__ _n_
 __recapitulation__ _n_ __2__ A summary or concise review.  
 __receptacle outlet__ _n_ An electrical outlet where one or more receptacles are installed.  
 __receptacle__ _n_ A device which is installed in an outlet box to receive a plug for the supply of electric current to an appliance or portable equipment.  
+__recidivism__ _n_  
 __recipe__ _n_ :mega: /ˈrɛs ə pi/ /ˈrɛsɪpɪ/  
 __reck<sup>1</sup>__ _n_ /rek/ Care or concern.  
 __reck<sup>2</sup>__ _v_ /rek/ To care or concern.  
@@ -857,6 +872,7 @@ __scuffling<sup>1</sup>__ _adj_ Of or relating to fighting in a disorderly manne
 __scuffling<sup>2</sup>__ _n_ The act of fighting in a disorderly manner.  
 __secular__ _adj_ /SEK-yuh-ler/ _Secular_ describes things that are not spiritual; that is, they relate more to the physical world than the spiritual world. The word also carries the closely related meaning of “not religious.”  
 __sentient__ _adj_  
+__sepulchral__ _adj_ Gruesomely indicative of death or the dead. _Syn_ charnel, ghastly  
 __settle__ _v_ /ˈsɛtəl/ __12__ (Banking & Finance) (sometimes foll by _up_) To pay off or account for (a bill, debt, etc). _He settled the bill before leaving._  
 __shamble<sup>1</sup>__ _vi_ :dart: To walk or move along in an awkward or unsteady way.  
 __shamble<sup>2</sup>__ _n_ An awkward or unsteady walk.  
@@ -873,8 +889,13 @@ __skulk__ _vi_
 __skulking__ _n_ Evading duty or work by pretending to be incapacitated.  
 __slaver__ _n_ __1__ Saliva drooling from the mouth. _Syn_ drivel, slabber, slobber, drool, dribble __2__ Senseless and effusive talk; drivel.  
 __sleep apnea__ _n_ (compare vs _apnea_) Apnea caused by upper airway obstruction during sleep, associated with frequent awakening and often with daytime sleepiness.  
+__slop__ _n_  
 __smote__ _v_ Past tense and a past participle of smite.  
 __snicker__ _v_  
+__tariff__ _n_ [:scroll: Tariff came into English at the end of the 16th century, borrowed from the Italian _tariffa_, which itself came from the Arabic word _taʽrīf_, meaning “notification.”]  
+__tattoo__ _n_ :mega: /tæˈtu/  
+__teamster__ _n_ /ˈtim stər/  
+__travois__ _n_ A frame slung between trailing poles and pulled by a dog or horse, formerly used by Plains Indians as a conveyance for goods and belongings.  
 __tuft__ _n_ _Tufts of hair._ :es: mechón  
 __turnkey__ _adj_  
 __twitch__ _v_  
