@@ -29,6 +29,7 @@ __a blessing in disguise__ :dart: An unfortunate event or situation that results
 __a bum ankle/leg, etc.__ An injured ankle, leg, etc.  
 __a colf fish__  
 __a dab hand__ Someone who is skilled in a particular area. Primarily heard in UK, Australia.  
+__a different ball game__ See _a whole new ball game._  
 __a different kettle of fish__ :dart: Any issue or matter that is entirely different in scope, description, or nature from that which was just being discussed.  
 __a far cry from (something)__  
 __a great deal__ _adv_ Very much; to a great extent; a lot; lots.  
@@ -43,12 +44,15 @@ __a little from column A, a little from column B__ Having been formed from two d
 __a long row to hoe__ [:scroll: This metaphor comes from nineteenth-century America, when most people lived in rural areas and cultivated at least some land.] A difficult course to follow; hard work to accomplish. A particularly difficult or problematic task, situation, or set of circumstances to contend with or confront. _Immigration reform was one of the new president’s primary campaign promises, but it will likely prove a long row to hoe, given the deep divisions in Congress._  
 __a long shot__  
 __a losing game__ A failing or hopeless effort; a situation or activity that is ultimately futile or cannot be won. (Most often used in the phrase “play a losing game.”) _I’d give up trying to get your brother to agree to this deal if I were you. It looks like a losing game at this point._  
+__a new coat of paint__ The phrase “a new coat of paint” is an idiom that means giving something a fresh appearance or updating it, often to make it look more appealing or modern. It can refer to physically painting an object or structure, but it’s also used metaphorically to describe revitalizing or improving something, like a project, idea, or even a person’s style. It’s about making something look new again without necessarily changing its core essence.  
+__a whole new ball game__ (a different ball game)  
 __abandon ship__  
 __about time__ ((it’s) (a)bout time)  
 __ace__  
 __against all odds__  
 __ahead of the curve__  
 __all eyes are on (someone or something)__ Everyone is paying close attention to someone or something.  
+__all in all__  
 __all shapes and sizes__  
 __all the more reason for (doing something)__ (all the more reason to (do something)) What has just been stated is an added reason or motivation to do something. With even better reason or cause for doing something. _If your crush likes basketball, that’s all the more reason for coming with me to the game tonight!_  
 __all the same__  
@@ -57,17 +61,25 @@ __and everything in between__ Including all the possibilities or varieties withi
 __anyone’s guess__  
 __around the clock__ ((a)round the clock)  
 __at (one’s) convenience__ _At your convenience, Captain._  
+__at large__  
+__at lightning speed__  
 __badass__  
 __battle-hardened__  
+__be hell-bent on (something)__ To be very determined to do something, perhaps to an excessive degree. _She’s hell-bent on coming here for Thanksgiving, so we better clean the guest room._  
+__be larded with (something)__  
 __be made of sterner stuff__ To be very strong, determined, or of uncompromising character, especially in comparison to others. _Having to take care of both of us growing up, my brother George was made of sterner stuff as a kid than anyone else I knew._  
 __be on the lookout__ To be watching for something or someone. _Be on the lookout for my email! It will have all the instructions you need for the project._  
 __be up to (something)__  
 __big player__ A “big player” typically refers to a person or entity that has significant influence, power, or importance in a particular field or industry. It can be used to describe someone with a lot of resources, experience, or market share, making them a key figure in a given situation or environment.  
+__bits and pieces__  
+__blah__ __1__ _mod._ Bland; dull. _After a blah day like this I need something really exciting like a hot bath._ __2__ _mod._ Depressed; worn out. _I’m really blah. Would you mind awfully if I just went home?_ __3__ _mod._ Alcohol intoxicated; very drunk. _We are going to get totally blah tonight._  
 __boon or bane__ Something that be may either good or bad, depending on context.  
 __break a sweat__ :dart:  
 __bring about__  
 __brood over__ To worry anxiously or be despondent about something or someone, especially at great length and in isolation. _I know you’re upset about failing your exam, but don’t brood over it all weekend._  
 __bump in the road__ A problem that arises and interferes with forward progress (usually only temporarily).  
+__by agency of__ The phrase “by agency of” means “through the action or help of” or “by means of.” It’s used to indicate that something happens because of the intervention or work of a particular person, force, or process. For example, if you say, “The decision was made by agency of the manager,” it means that the manager’s actions or influence were responsible for the decision being made.  
+__Canadian tuxedo__ (US, fashion, derogatory) An outfit consisting of denimwear for tops and bottoms, such as a jean jacket and jeans (pants).  
 __catch up with (someone)__  
 __close to one’s chest__  
 __cold email__ An unsolicited email sent to someone with whom the sender has no prior relationship, usually for professional or business purposes.  
@@ -84,6 +96,7 @@ __dispose of (someone or something)__
 __do an about-face__  
 __do double duty__  
 __do shit__ (don’t do shit) _The cops that worked the case didn’t do shit and sure as hell aren’t going to do shit now._  
+__do the right thing__  
 __do the trick__ :two: To do, accomplish, or fulfil exactly what is needed or sought after. _The recipe calls for pancetta, but I think this regular bacon should do the trick._  
 __do-rag__ A scarf, bandana, or similar item tied around the head as a covering. A headcap that covers and protects a hairdo. _Bob says he uses that do-rag to keep his hair out of his face while he mows the lawn._  
 __dollars to doughnuts__ (dollars to donuts)  
@@ -98,7 +111,7 @@ __doom amd gloom__
 __doom and gloom__  
 __double duty__  
 __double whammy__ A situation in which two negative things happen at the same time or in rapid succession. _Jack suffered a double whammy when his car broke down the same day he lost his job._  
-__down the line__ In the future.  
+__down the line__ :two: In the future.  
 __down the toilet__  
 __downer__ :es: tranquilizante  
 __doze off__  
@@ -131,7 +144,7 @@ __ethnic cleansing__ The elimination of a particular ethnic group from a populat
 __every now and then__  
 __every so often__ Sometimes; occasionally.  
 __factor in__ :two::hammer:  
-__fair and square__  
+__fair and square__ :two::hammer:  
 __fall flat__ __1__ To fail or be ineffective. _Good luck—the last time management tried to implement a new dress code, that measure fell flat._ __2__ To fail to be humorous, as of a joke. _A: “Unfortunately, my first stand-up routine really fell flat.” B: “Well, maybe you just had the wrong audience.”_  
 __fall into place__  
 __fall into step__ :astonished: To begin walking at the same pace as someone else. _If you don’t fall into step with us, you’ll get left behind._  
@@ -151,9 +164,11 @@ __feel out__
 __feel puny__ To feel sick. _I woke up feeling puny, so I just stayed in bed all day._  
 __few and far between__ :three::hammer:  
 __figure of speech__ A form of expression in language, either spoken or written, that employs nonliteral meaning, unusual construction, or a particular combination of sounds to emphasize or heighten the rhetorical effect. _Bob: “Does eating an apple a day really keep doctors away from you?” Doug: “Don’t take it so literally, Bob, it’s just a figure of speech.”_  
+__figure out__  
 __fill in__ __4__ To inform one of something. In this usage, a noun or pronoun can be used between “fill” and “in.” _Fill me in—what happened at the party last night?_  
 __fill the gap__  
 __filled to the brim__  
+__fine with me__  
 __fire and brimstone__ :two: __1__ _n_ The misery that one faces in hell. The supposed torments of hell. In the Bible, fire and brimstone are the means of divine punishment for the wicked. _Unrepentant criminals better prepare themselves for fire and brimstone after death._  
 __fire on all cylinders__ :dart:  
 __fire-breathing__  
@@ -190,6 +205,7 @@ __for all practical purposes__ (for (all) practical purposes) In reality; basica
 __for good__  
 __for starters__  
 __for the life of (one)__ Despite one’s best efforts; to any degree whatsoever. Often used in negative constructions. _For the life of me, I can’t remember where I left my keys!_  
+__fortunes of war__ (the fortunes of war)  
 __foul play__ Unspecified criminal or unscrupulous actions, especially violence when stated as the potential cause of a death or disappearance. _That actor actually died of a heart attack—there was no foul play after all._  
 __freaking__ _mod._ Damned. (Euphemistic for fucking. Usually objectionable.) _Get your freaking socks off my bed!_  
 __from afar__ From a (sometimes great) distance.  
@@ -223,6 +239,7 @@ __gun for hire__
 __haggle over (something)__  
 __hair-raising__ Frightening, chilling, or disturbing. _With so much traffic, cycling in this city can be a hair-raising experience._  
 __ham-handed__ In a clumsy manner; lacking care and skill.  
+__happy-go-lucky__ :dart: Always happy or in a pleasant mood; carefree. _Arya is so happy-go-lucky that I doubt any negative thing you say would bother her._  
 __hard-pressed__ Struggling to do or accomplish something, especially because it seems impossible. _You’ll be hard-pressed to find a better guy than Bill._  
 __have (got) a knack for (something)__  
 __have (something) in store (for one)__ To have something awaiting (one) or prepared (for one).  
@@ -291,6 +308,7 @@ __if nothing else__ :dart::three: A phrase used to indicate that something is a 
 __if worst comes to worst__ (if (the) worst comes to (the) worst) If the least ideal or preferred outcome happens.  
 __If you can’t beat ’em, join ’em__  
 __iffy__  
+__in (one’s) book__  
 __in a bit__  
 __in a flash__ Immediately; very quickly; at once. _Just call us on this number if you have any problems, and we’ll be back in a flash._  
 __in a flutter__ In a nervous, confused, or agitated state.  
@@ -485,11 +503,14 @@ __mad as a wet hen__ Extremely angry.
 __make a face__ :two::hammer:  
 __make a fuss__  
 __make a hole in (something)__ To take, use up, or deplete a large amount of money available in something, such as a budget, one’s wallet, etc. _The cost of repairing the car is really going to make a hole in our savings._  
+__make a leg__ _obsolete_ To make a show of obeisance or fealty by bowing deeply (drawing one’s right leg back in the process).  
 __make a long arm for (something)__ To extend one’s arm fully toward something; to reach out for something. _Mary’s new boyfriend made a long arm for the bottle of wine at the end of the table, helping himself to another glass._  
-__make good on (something)__ To fulfill an obligation, such as keeping a promise or paying a debt. _Tom made good on his pledge to donate $1,000. Bill refused to make good on his promise._  
+__make a run for (someone or something)__ To run in order to escape something or to reach a destination quickly, perhaps before a certain time or before something happens. _Our taxi was late picking us up, so we’re going to have to make a run for the train when we get to the station!_  
+__make good on (something)__ :two: To fulfill an obligation, such as keeping a promise or paying a debt. _Tom made good on his pledge to donate $1,000. Bill refused to make good on his promise._  
 __make inroads__ :two::hammer:  
 __make it up__  
 __make no mistake__ :three::hammer:  
+__make or break__  
 __make the most of it__  
 __make waves__  
 __meant to be__  
@@ -563,6 +584,7 @@ __now that you’re mentioning it__
 __nowhere to be found__ Unable to be discovered; completely gone or vanished.  
 __nowhere to be sound__  
 __numb out__  
+__number cruncher__  
 __occur to (one)__ To be (suddenly) realized by one; to come into one’s mind.  
 __odd couple__ A particularly unlikely or mismatched pair of people.  
 __odd duck__  
@@ -637,26 +659,37 @@ __on-site__
 __open game__ Being vulnerable or exposed to attack, criticism, or other negative consequences. _If we break the truce first, we are open game._  
 __open the floodgates__ To allow for an expanding number of (typically negative) consequences as the result of another related action.  
 __out and about__ :dart: __1__ Away from one’s home or normal environment, especially to socialize, run errands, visit various places, etc. _I’m just out and about with Mary if you would like to come join us._ __2__ Well enough to come and go, especially after an illness. For example, _I’m glad to see you’re out and about again._  
+__out of aces__ Figuratively, it’s often used to describe someone who has exhausted all their resources, tricks, or ways to handle a problem.  
 __out of curiosity__ A phrase used to express that someone is asking a question or seeking information simply because they are interested or want to know more, without any specific agenda or need.  
+__out of line__  
 __over the finish line__ :three: To a state of completion or fulfillment, as at the end of some process, development, endeavor, etc. _We’ve been working 80-hour weeks to get this project over the finish line before December._  
 __owing to__ Because of; as a result of; due to _Owing to construction on the highway, please anticipate higher levels of traffic than usual._  
 __pat on the back__ (pat (one) on the back) Praise given to a person for an achievement or a job well done. _Treating his daughter to ice cream was Joe’s way of giving patting her on the back after she won first place in the science fair._  
+__patch up__  
 __pave the way (for someone or something)__  
 __pay top dollar__  
 __pay tribute to (someone or something)__ To do something as a way of publicly showing respect or admiration for a particular person, group, or thing. _The movie pays tribute to an old adventure serial that ran on television in the mid-1930s._  
+__penguin tuxedo__ The term “penguin tuxedo“ is often used humorously or figuratively to describe a penguin’s natural appearance, as their black-and-white plumage resembles the look of a tuxedo—a formal suit with a black jacket and white shirt.  
 __pin down__  
 __play tag__  
 __point the finger at (one)__  
 __pomp and circumstance__ Celebration accompanied by traditional formalities and ceremony. _Please, there’s no need for all this pomp and circumstance. I’m just an ordinary guest who has come to enjoy the performance like everyone else._  
 __pot shot__  
+__pour cold water on (something)__  
 __pour fuel on the fire__  
 __pour gas/gasoline on the fire__  
 __practice makes perfect__  
+__pray to the enamel god__  
+__pray to the porcelain god__  
 __pull rank (on one)__  
 __push (one’s) buttons__  
+__put the brakes on (someone or something)__  
 __put to good use__ (put (something) to good use) To use something in a way that will be beneficial or have significant results. Employ to the best advantage, as in _I’m sure this dictionary will be put to good use._  
+__quid pro quo__  
 __race to (someone or something)__ To move, run, drive, etc., in a very hurried or frantic manner to some person, thing, or destination. _I have to race to the bank so I can deposit this check before they close._  
 __raise the ante__  
+__read between the lines__  
+__recipe for disaster__ The phrase “recipe for disaster” refers to a situation or combination of actions that is likely to result in failure, trouble, or a negative outcome.  
 __ring a bell__  
 __ring false__  
 __ring true__  
@@ -670,8 +703,10 @@ __run afoul of (someone or something)__
 __run the gauntlet__ To be exposed to or forced to endure a series of threats, dangers, criticism, or other problems. Refers to an old military punishment in which one was forced to run between two lines of soldiers while being thrashed with rods or whips. _Medical students often feel that they have to run the gauntlet when they become residents in a hospital._  
 __run with it__ To take the initiative to do something independently. _I got this really good idea for an ad campaign. I think I’m going to just run with it and present it to the boss when it’s done._  
 __rush into (something)__  
+__safe to say__ The idiom “safe to say” means that something can be confidently stated or assumed to be true without much doubt or risk. It’s often used to express certainty or a high degree of likelihood about a statement or situation. For example, “It’s safe to say that everyone enjoyed the party’ means that it’s very likely or certain that everyone had a good time. _It is safe to say that the goals of the meeting were successfully met._  
 __safeguard against (someone or something)__  
 __same old same old__ :two::hammer:  
+__same old, same old__  
 __same shit, new wrapping__ Colloquial expression that conveys the idea that something has been superficially changed or repackaged but remains fundamentally the same. It suggests that despite appearances, the underlying issues or qualities have not been altered.  
 __save (one’s) bacon__  
 __save the day__  
@@ -723,6 +758,7 @@ __shipping and handling__ The costs associated with packaging and delivering a p
 __shipshape and Bristol fashion__  
 __shit (one’s) pants__ __2__ _rude slang_ By extension, to be very surprised. _When I saw that the magazine had published my letter to the editor, I practically shit my pants!_ _Shit-your-pants scared._  
 __shit__ __3__ _v_ _vulgar_ _slang_ To fool, deceive, or trick (someone). Usually used to express disbelief. _We have to come in and work on Saturday, too? You’ve got to be shitting me!_ _I promise I’m not shitting you—these figures are very real._  
+__shocker__ :dart: Something that is especially startling, shocking, or surprising. Often used sarcastically. _The ending was a shocker. I did not see that coming!_  
 __shoot (oneself) in the foot__  
 __shoot for the stars__ To set one’s goals or ambitions very high; to try to attain or achieve something particularly difficult.  
 __shoot from the hip__ To speak or act without careful thought or preparation. Many of Ellroy’s characters, particularly his hard-edged protagonists, do this in their dealings, whether in dialogue or action.  
@@ -782,6 +818,7 @@ __so much so that__ :three::hammer:
 __so-called__  
 __soaking wet__ Completely drenched.  
 __sock__ :two: _informal_ __2__ _v_ To deliver a sharp, forceful blow.  
+__soft power__ The ability of a nation or other political entity to reach a desired outcome by non-violent methods (such as diplomacy, negotiation, foreign aid, etc.) and without the use or threat of force (i.e. military action). (The opposite of hard power.)  
 __soft shoulder__ :astonished: An unpaved lane or area on the side of a road, often a highway, where drivers can stop their vehicles in emergency situations. _I think you’ve got a flat tire. You’d better pull over on to the soft shoulder._  
 __soft spot__  
 __some people__ :dart: (some people!) Expresses disapproval at the actions of a person; a disapproving response to a person doing something. An expression of disgust over the way certain people act, behave, or function in society.  
@@ -803,6 +840,7 @@ __spill your guts__ To confess or reveal all, often under pressure or coercion. 
 __spin doctor__ :smiling_imp: Someone who gives a twisted or deviously deceptive version of an event. (Usually in the context of manipulating the news for political reasons.) _Things were going bad for the candidate, so he got himself a new spin doctor._ _A good spin doctor could have made the incident appear far less damaging._  
 __split hairs__  
 __spoil for something__ _You are spoiling for a fight._ :es: te estás buscando pelea  
+__spoofing__ :smiling_imp: The practice of stealing, or attempting to steal, personal information over the phone or on the internet by pretending to be someone or something that legitimately requires such details.  
 __spur of the moment__  
 __square off__  
 __squiggle__ :dart: Any writing that is sloppy to the point of illegibility. _I’d share my notes with you, but I don’t think you’d understand my squiggles._  
@@ -939,12 +977,14 @@ __up in arms__
 __up the ante__  
 __very much so__ To a significant extent; yes, very much.  
 __vindicate (someone or oneself) of (something)__ To clear someone or oneself of some guilt, accusation, blame, suspicion, etc.; to affirm or uphold someone’s or one’s own innocence or justification regarding something.  
-__wait and see__ :three::hammer: _It profits me best to wait and see._  
+__wait and see__ :four::hammer: _It profits me best to wait and see._  
 __walk on eggs__  
 __walk on eggshells__  
+__walk through__  
 __war chest__  
 __warhorse__ ((old) warhorse) __1__ A veteran of some activity or profession (not necessarily the military) who has a wealth of experience going through various trials and tribulations. _I know she’s a little eccentric, but Janet is a warhorse in this firm—she’s been through more trying court cases than anyone else here._  
 __water under the bridge__  
+__weasel__ :smiling_imp: __1__ _n_ Someone who is sneaky, devious, or deceitful.  
 __weather the storm__ To endure a period of hardship or disorder. To experience something and survive it. _That was the hardest year of my life, but in the end I was able to weather the storm with the support of my family._  
 __weirdo__ /ˈwɪrdo/ /ˈwɪər doʊ/ /ˈwɪədəʊ/ _slang_ slang A particularly odd, bizarre, awkward, or eccentric person. _I know a lot of kids at school think I’m a weirdo just because I like anime so much, but I don’t care._  
 __welcome to the jungle__ “Welcome to the jungle” is not an idiom in the traditional sense. However, in a figurative sense, it can be used to describe a chaotic or wild environment, often in a new or unfamiliar situation—something like a “tough” or “dangerous” place where one has to adapt quickly. In that context, people may use it in a more idiomatic way, but the phrase itself originated as a title and lyrics for the song by Guns N’ Roses.  
@@ -963,6 +1003,7 @@ __with heavy asterisk__ (with a heavy asterisk) The phrase “with (a) heavy ast
 __word has it (that)__ According to rumor or gossip (something is the case).  
 __work (one0146s) butt off__ To work really hard (on or at something). _I know you thought it was just a silly New Year’s resolution, but I’4ve been working my butt off at the gym!_  
 __worry (something) out of (someone or something)__  
+__worth (one’s) while__ Beneficial and not a waste of one’s time.  
 __yada, yada__ _Don’t yadda, yadda the Lord. It’s disrespectful._  
 __yellow__  
 __you have to be cruel to be kind__  

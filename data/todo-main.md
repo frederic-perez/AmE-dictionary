@@ -18,7 +18,7 @@ __adversary__ _n_ :mega: /ˈæd vərˌsɛr i/ /ˈædvəsərɪ/ /AD-ver-sair-ee/ 
 __affidavit__ _n_  
 __affordable__ _adj_ :pencil2:  
 __afoot__ _adj, adv_  
-__agency__ _n_ :two::hammer:  
+__agency__ _n_ :three::hammer:  
 __agonist__ _n_  
 __agonistic__ _adj_ Striving to overcome in argument. _Syn_ combative _The incumbent’s aggressive, agonistic approach to the debate alienated many of his supporters._  
 __Ahabian__ _adj_  
@@ -115,6 +115,7 @@ __emaciated__
 __embolden__ _vt_ To foster boldness or courage in. _Syn_ encourage  
 __encroach__ _v_ /in-KROHCH/ To encroach is to gradually move or go into an area that is beyond the usual or desired limits, or to gradually take or begin to use or affect something that belongs to, or is being used by, someone else. _Encroach_ is often followed by _on_ or _upon._ _Conflicts between people and bears increase as humans continue to encroach on bear territory._  
 __encroachment__ _n_ :es: intromisión  
+__entrenched__ _adj_ Established firmly and securely. _The entrenched power of the nobility._  
 __evergreen__ _adj_ /EV-er-green/ _Evergreen_ in its figurative uses describes something, such as a plot, that retains its freshness or interest over a long period of time, or something, such as an issue or concern, that is universally and continually relevant. In botany, _evergreen_ describes foliage that remains green and functional through more than one growing season.  
 __exacerbate__ _vt_  
 __excursion__ _n_ /ik-SKER-zhun/ _Excursion_ refers to a trip, and especially to a short one made for pleasure. _Excursion_ is also often used figuratively to refer to a deviation from a direct, definite, or proper course, and often in particular to a digression.  
@@ -329,6 +330,7 @@ __heavenward<sup>2</sup>__ _adj_ Directed towards heaven or the sky.
 __heinous__ _adj_ /HAY-nus/ _Heinous_ describes things—such as acts, deeds, or crimes—that are hatefully or shockingly evil, or in other words, deserving of hate or contempt.  
 __hemolysis__ _n_ The destruction or dissolution of red blood cells, with subsequent release of hemoglobin.  
 __hexenwolf__ _n_ [:scroll: _Hexen_ comes from the German word for “witches” (plural form of Hexe), often associated with magic, the occult, or witchcraft] A witch that transforms into a wolf or have wolf-like traits.  
+__hiss__ _v_  
 __hoarfrost__ _n_ A layer of white frost.  
 __hoarse__ _adj_ :mega: /hɔrs, hoʊrs/ /hɔːs/  
 __hobgoblin__ _n_ An object or a source of fear, dread, or harassment. _Syn_ bugbear  
@@ -879,6 +881,7 @@ __shamble<sup>2</sup>__ _n_ An awkward or unsteady walk.
 __sharp__ _adj_ __6__ Vigilant; alert: _kept a sharp lookout for shoplifters._ _Stay sharp._  
 __shoulder__ _v_  
 __shuffle__ _v_ __6__ (when _vi_, often foll by _into_ or _out of_) to move or cause to move clumsily: _he shuffled out of the door._ _He shuffled his way out of the room._  
+__sibylline__ _adj_ Resembling or characteristic of a prophet or prophecy. _Syn_ divinatory, mantic, vatic  
 __sic__ _vt_ :dart: __1__ To turn on or attack: used only in commands, as to a dog. __2__ To urge (a dog) to attack. To urge or incite to hostile action; set: _sicced the dogs on the intruders._  
 __singe__ _vt_ __1__ To burn superficially or slightly; scorch. _To singe one’s clothes._ __2__ To burn the ends, nap, or the like, of (hair, cloth, etc.). __3__ To subject (a carcass) to flame in order to remove hair, bristles, feathers, etc.  
 __singeing__ _n_  
@@ -909,6 +912,7 @@ __upheaval__
 __uplift__ _n_  
 __upskill__ _vt_ /ˈʌpˌskɪl/  
 __uptake__ _n_  
+__vestige__ _n_ /VESS-tij/ A vestige is a trace, mark, or visible sign left by something lost or vanished.  
 __virtuoso__ _n_ /ver-choo-OH-soh/ _Virtuoso_ is used broadly to refer to a person who does something very skillfully, and is often used specifically to refer to a very skillful musician.  
 __voltmeter__ _n_ /ˈvoʊltˌmi tər/ A calibrated instrument for measuring the potential difference between two points in volts. :es: voltímetro  
 __voluminous__ _adj_ Large in number or quantity (especially of discourse). _Syn_ copious _She took voluminous notes during the lecture, and her classmates begged for copies._  
