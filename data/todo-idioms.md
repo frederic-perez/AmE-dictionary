@@ -44,6 +44,7 @@ __a little from column A, a little from column B__ Having been formed from two d
 __a long row to hoe__ [:scroll: This metaphor comes from nineteenth-century America, when most people lived in rural areas and cultivated at least some land.] A difficult course to follow; hard work to accomplish. A particularly difficult or problematic task, situation, or set of circumstances to contend with or confront. _Immigration reform was one of the new president’s primary campaign promises, but it will likely prove a long row to hoe, given the deep divisions in Congress._  
 __a long shot__  
 __a losing game__ A failing or hopeless effort; a situation or activity that is ultimately futile or cannot be won. (Most often used in the phrase “play a losing game.”) _I’d give up trying to get your brother to agree to this deal if I were you. It looks like a losing game at this point._  
+__a matter of time__ An inevitability or eventuality; something that is or seems sure to happen at some point in the future. _With your reckless spending behavior, it’s just a matter of time before you go broke._  
 __a new coat of paint__ The phrase “a new coat of paint” is an idiom that means giving something a fresh appearance or updating it, often to make it look more appealing or modern. It can refer to physically painting an object or structure, but it’s also used metaphorically to describe revitalizing or improving something, like a project, idea, or even a person’s style. It’s about making something look new again without necessarily changing its core essence.  
 __a whole new ball game__ (a different ball game)  
 __abandon ship__  
@@ -56,6 +57,7 @@ __all in all__
 __all shapes and sizes__  
 __all the more reason for (doing something)__ (all the more reason to (do something)) What has just been stated is an added reason or motivation to do something. With even better reason or cause for doing something. _If your crush likes basketball, that’s all the more reason for coming with me to the game tonight!_  
 __all the same__  
+__all too easy__  
 __all too soon__ The idiom “all too soon” means that something happened much earlier than expected or desired, often with a sense of regret or disappointment. It conveys the idea that an event occurred prematurely or that a positive experience ended quickly. “The holidays were over all too soon,” implies that the speaker wished the holidays had lasted longer. “Graduation came all too soon,” suggests that the speaker felt unprepared for the end of their schooling.  
 __and everything in between__ Including all the possibilities or varieties within a range. _The store sells clothes for men, women, and children, and everything in between._ _Life has its ups and downs, and everything in between._  
 __anyone’s guess__  
@@ -80,13 +82,16 @@ __brood over__ To worry anxiously or be despondent about something or someone, e
 __bump in the road__ A problem that arises and interferes with forward progress (usually only temporarily).  
 __by agency of__ The phrase “by agency of” means “through the action or help of” or “by means of.” It’s used to indicate that something happens because of the intervention or work of a particular person, force, or process. For example, if you say, “The decision was made by agency of the manager,” it means that the manager’s actions or influence were responsible for the decision being made.  
 __Canadian tuxedo__ (US, fashion, derogatory) An outfit consisting of denimwear for tops and bottoms, such as a jean jacket and jeans (pants).  
+__catch a break__  
 __catch up with (someone)__  
 __close to one’s chest__  
 __cold email__ An unsolicited email sent to someone with whom the sender has no prior relationship, usually for professional or business purposes.  
 __come to a head__ To reach a point of intensity at which action must be taken.  
 __come to think of it__ :dart: _set phrase_ Used when one has had a sudden realization. _Yeah, come to think of it, Dave was at the party, too._  
 __conspiracy theory__ _n_ The belief that the government or a covert organization is responsible for an event that is unusual or unexplained, esp when any such involvement is denied.  
+__cook up__  
 __corny__  
+__cut ties with (someone)__  
 __diddly__ _n_ :dart: __1__ Nothing; anything at all (when used in negative statements). _I have to admit that I know diddly when it comes to computers._ __2__ A small or worthless amount: _His advice wasn’t worth diddly to me._  
 __dig (something)__ _slang_ To understand, approve of, or enjoy something. _I really dig this music, man!_  
 __dig and poke around__ The idiom “dig and poke around” generally means to search or investigate something thoroughly by looking through various items or areas, often in a somewhat casual or unstructured manner.  
@@ -151,6 +156,7 @@ __fall into step__ :astonished: To begin walking at the same pace as someone els
 __fall off the perch__ _BrE_ _old-fashioned, informal_ (fall off your perch) If someone falls off the perch or falls off their perch, they die. Note: A perch is a pole, branch or other place where a bird sits to rest. _He fell off the perch years ago._ Note: Other verbs such as drop or topple can be used instead of fall. _He’ll topple off his perch one morning. You know how it is._ Note: This expression is used humorously.  
 __fall to pieces__ __3__ To deteriorate or go awry.  
 __famous last words__ A statement or claim that is promptly undone or disproved. This phrase is often humorously or preemptively. A reference to the final words one says before one dies. _A: “I can’t believe the ER has been so quiet today!” B: “Ugh, famous last words for sure.”_  
+__fan the flames__  
 __fancy that__ Used to comment on something that is hard to imagine. _The baby she brought home was the wrong one. Fancy that!_  
 __fancy__ _informal_ __2__ To have a desire for (something).  
 __fantabulous__  
