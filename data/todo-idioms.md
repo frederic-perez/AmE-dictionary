@@ -168,56 +168,6 @@ __feel like a million bucks__ :astonished: To feel exceptionally attractive or i
 __feel like doing something__  
 __feel out__  
 __feel puny__ To feel sick. _I woke up feeling puny, so I just stayed in bed all day._  
-__few and far between__ :three::hammer:  
-__figure of speech__ A form of expression in language, either spoken or written, that employs nonliteral meaning, unusual construction, or a particular combination of sounds to emphasize or heighten the rhetorical effect. _Bob: “Does eating an apple a day really keep doctors away from you?” Doug: “Don’t take it so literally, Bob, it’s just a figure of speech.”_  
-__figure out__  
-__fill in__ __4__ To inform one of something. In this usage, a noun or pronoun can be used between “fill” and “in.” _Fill me in—what happened at the party last night?_  
-__fill the gap__  
-__filled to the brim__  
-__fine with me__  
-__fire and brimstone__ :two: __1__ _n_ The misery that one faces in hell. The supposed torments of hell. In the Bible, fire and brimstone are the means of divine punishment for the wicked. _Unrepentant criminals better prepare themselves for fire and brimstone after death._  
-__fire on all cylinders__ :dart:  
-__fire-breathing__  
-__first and foremost__  
-__first come, first served__ The first people present will be the first to receive something, often something that is available in limited quantities.  
-__first dibs on__ :three: (dibs on something) (first dibs on something) Choice of (something) before anyone else gets to pick. _The boss insisted on having first dibs on the best parking space._ _The farm always gives first dibs on its vegetables to local families._  
-__first off__  
-__first thing__  
-__first-in-human trial__ “First-in-human” refers to the initial clinical trial where a new drug, medical procedure, or treatment is tested in humans for the very first time.  
-__Fist of God__ The idiom “Fist of God” typically refers to an overwhelming or destructive force, often of a divine or uncontrollable nature. It may be used figuratively to describe a powerful, often sudden event or action that seems beyond human control, such as a natural disaster, a sudden strike of fate, or a decisive, forceful intervention.  
-__fit the bill__  
-__five-on-five__ “Five-on-five” typically refers to a format in team sports where each team has five players on the field or court at the same time. _A five-on-five game of basketball._  
-__flare up__ :es: estallar  
-__flesh and blood__  
-__flip the script__  
-‌__flip the script__ To change or reverse something dramatically.  
-__flit about__ To move in a quick, deft manner. _The kids are outside, trying to catch the lightning bugs that are flitting about._  
-__floor (one)__  
-__flop__ _The film was a flop._  
-__flying squad__ _n_ A small group of police, soldiers, etc, ready to move into action quickly.  
-__fold__ :two: _informal_ __1__ Of a business, to fail or close; to cease to do business.  
-__follow suit__  
-__food chain__ Used in the phrases “at the top of the food chain” and “at the bottom of the food chain.” __1__ A hierarchy of organisms that transfer food energy between them. The smallest organisms are at the bottom—and they are preyed upon by the larger ones above them in the food chain. _Grizzly bears are at the top of the food chain._ _Phytoplankton are at the bottom of the food chain._ __2__ A hierarchy of people in a group or organization. _As a medical intern, I’m at the bottom of the food chain, but I’ll move up soon enough._  
-__fool around__  
-__foot the bill__  
-__for (one’s) benefit__ (for somebody’s benefit) Largely (or solely) to help one.  
-__for a bit__  
-__for a change__ For the sake of contrast or variety; as something novel or different. _It’s nice to see you here on time, for a change._  
-__for a charge__ The act of charging someone a fee or price for a service or item.  
-__for a fee__  
-__for all I know__  
-__for all intents and purposes__ _adv_ :two: In every practical sense. _To all intents and purposes the case is closed._ _The rest are for all practical purposes useless._ _Syn_ for all practical purposes, to all intents and purposes  
-__for all practical purposes__ (for (all) practical purposes) In reality; basically. As might be reasonably expected; essentially. _For all practical purposes, this is simply a matter of right and wrong._ _For all practical purposes, I might as well have not handed in this proposal at all, with how swiftly the board rejected it._  
-__for good__  
-__for starters__  
-__for the life of (one)__ Despite one’s best efforts; to any degree whatsoever. Often used in negative constructions. _For the life of me, I can’t remember where I left my keys!_  
-__fortunes of war__ (the fortunes of war)  
-__foul play__ Unspecified criminal or unscrupulous actions, especially violence when stated as the potential cause of a death or disappearance. _That actor actually died of a heart attack—there was no foul play after all._  
-__freaking__ _mod._ Damned. (Euphemistic for fucking. Usually objectionable.) _Get your freaking socks off my bed!_  
-__from afar__ From a (sometimes great) distance.  
-__front and center__  
-__full circle__ Back to an original state or position. Often used in the phrase “come/go full circle.”  
-__full stop__  
 __fumble the ball__ “Fumble the ball” and “drop the ball” are similar in meaning and can often be used interchangeably. Both idioms refer to making a mistake or failing to perform a task properly, especially when it’s important or when someone misses an opportunity. However, “fumble the ball” may sometimes carry a slightly more connotative idea of clumsiness or mishandling, while “drop the ball” is more commonly used to emphasize failing to follow through or neglecting responsibility. Despite these subtle differences, they are generally understood in the same way.  
 __Galentine’s Day__ _informal_ [:scroll: Blend of _gal_ + _Valentine’s Day_, originally the title and subject of the 16th episode of the second season of the American comedy television series _Parks and Recreation_, first broadcast in 2010.] A day on which women hold a party around the time of Saint Valentine’s Day, typically on February 13.  
 __galvanize (one) into action__ To induce or cause one to start doing something.  

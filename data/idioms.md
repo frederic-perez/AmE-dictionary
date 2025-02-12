@@ -2185,7 +2185,7 @@ __fend off__ :two: __2__ To try to prevent something. A noun or pronoun can be u
 __fender bender__ :three: A little car accident. _Stranded by a fender bender._  
 __ferret out__ To discover or retrieve something, usually with careful effort. A noun or pronoun can be used between “ferret” and “out.” _Now that I’m a successful actress, I’m worried about what the media will ferret out about my tawdry past._  
 __fever pitch__ A state of great excitement or turmoil.  
-__few and far between__ :four: Rare or seldom-seen. _Warm days have been few and far between this winter._ _Strangely enough, the Hugo awards for_ Galaxy _were relatively few and far between._  
+__few and far between__ :eight: Rare or seldom-seen. _Warm days have been few and far between this winter._ _Strangely enough, the Hugo awards for_ Galaxy _were relatively few and far between._  
 __fiddle with (something)__ :dart::two: To play or tinker with something. _Hey, don’t fiddle with the thermostat—it needs to stay at 68 degrees._ _A growing number of enterprises are looking for new ways to fiddle with industrial thermostats._  
 __fifth column__ :astonished: A clandestine group of people who work subversively within a group, organization, or country in order to betray it to an allied outside force. _In the US during the Cold War, there was constant fear and suspicion of people supposedly working in a fifth column to spread the influence of communism from within._ _A fifth column preparing to rise up and join the security forces._  
 __fight a losing battle__  
@@ -2194,13 +2194,15 @@ __fight the good fight__ :three::hammer:
 __fight tooth and nail__  
 __fighting the good fight__  
 __figure it out__  
-__figure out__  
+__figure of speech__ A form of expression in language, either spoken or written, that employs nonliteral meaning, unusual construction, or a particular combination of sounds to emphasize or heighten the rhetorical effect. _Bob: “Does eating an apple a day really keep doctors away from you?” Doug: “Don’t take it so literally, Bob, it’s just a figure of speech.”_  
+__figure out__ :two::hammer:  
 __figure someone or something out__ To begin to comprehend someone or something; to come to understand someone or something better. _I just can’t figure you out._  
 __filch (something)__ To steal something.  
 __file 13__ (file thirteen) A wastepaper basket. _We don’t need those reports anyway—you can put them in file 13._ _I’m afraid that the papers you want went into file thirteen two days ago._  
-__fill in__ :two: __4__ To inform one of something. In this usage, a noun or pronoun can be used between “fill” and “in.” _Fill me in—what happened at the party last night?_ _The weekly newsletter is intended to fill in everyone about company policy, but no one reads it._ _Thank you for filling us in._  
+__fill in__ :three: __4__ To inform one of something. In this usage, a noun or pronoun can be used between “fill” and “in.” _Fill me in—what happened at the party last night?_ _The weekly newsletter is intended to fill in everyone about company policy, but no one reads it._ _Thank you for filling us in._  
+__fill the gap__  
 __fill up__ :four::hammer: __4__ To put fuel in a vehicle’s gas tank. _Let me just stop and fill up before we get on the highway._  
-__filled to the brim__ :two: __1__ Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is filled to the brim!_ _A city practically filled to the brim with entertainment._ __2__ Intensely experiencing a particular feeling or emotion. _She is filled to the brim with nervous energy now that her performance is just a week away._  
+__filled to the brim__ :three: __1__ Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is filled to the brim!_ _A city practically filled to the brim with entertainment._ __2__ Intensely experiencing a particular feeling or emotion. _She is filled to the brim with nervous energy now that her performance is just a week away._  
 __finagle__ :two::hammer::smiling_imp:  
 __final cut__ :two: The completed and finalized edited version of a film, as authorized by its director and producer. _We finished shooting last week, but it will likely be another several months before we’re ready with the final cut._  
 __final nail in the coffin__  
@@ -2209,6 +2211,7 @@ __find (something) out the hard way__ :two: To learn or discover something throu
 __find for__  
 __find/take shelter__ To go somewhere for cover and protection from danger, bad weather, etc. _They found/took shelter in a cave during the storm._  
 __finders keepers(, losers weepers)__  
+__fine with me__  
 __fine-tune__ :three::hammer::pencil2:  
 __finger on the pulse__  
 __finger-licking good__ Very tasty.  
@@ -2217,24 +2220,31 @@ __finish line__
 __finish off__  
 __finish the job__  
 __fink on (someone)__ To report someone’s misdeeds to an authority figure. _The gang was determined to find the traitor who finked on them to the police._  
-__fire and brimstone__ _n_  
+__fire and brimstone__ :three: __1__ _n_ The misery that one faces in hell. The supposed torments of hell. In the Bible, fire and brimstone are the means of divine punishment for the wicked. _Unrepentant criminals better prepare themselves for fire and brimstone after death._  
 __fire hose__ :two: A strong, heavy stream of something. _When I defended my dissertation, it felt like the questions were coming at me like a fire hose._  
+__fire on all cylinders__ :dart:  
 __fire up__ :two: __1__ To cause someone to feel more passionate or excited about someone or something. In this usage, a noun or pronoun can be used between “fire” and “up.” _I know our players are nervous about the big game, but it’s our job as coaches to fire them up._ _I have to fire up the electorate if I want them to vote for me._  
-__fire-breathing__ :two: (used as a modifier before a noun) Particularly ardent, vehement, or excoriating in speech or behavior. Likened to a dragon or other creature able to shoot streams of fire from its mouth. _Their fire-breathing boss had all the employees constantly on edge._  
+__fire-breathing__ :three: (used as a modifier before a noun) Particularly ardent, vehement, or excoriating in speech or behavior. Likened to a dragon or other creature able to shoot streams of fire from its mouth. _Their fire-breathing boss had all the employees constantly on edge._  
 __fired up__ Excited; enthusiastic. _How can you be so fired up at this time of the morning?_  
 __firing both barrels all the time__ _You know your father: firing both barrels all the time._  
-__first and foremost__ :four::hammer:  
+__first and foremost__ :five::hammer:  
+__first come, first served__ The first people present will be the first to receive something, often something that is available in limited quantities.  
+__first dibs on__ :three: (dibs on something) (first dibs on something) Choice of (something) before anyone else gets to pick. _The boss insisted on having first dibs on the best parking space._ _The farm always gives first dibs on its vegetables to local families._  
 __first dibs__ _It is something we want first dibs on._  
 __first hand__ :two: Direct(ly) (as opposed to second hand, or from a source other than oneself). Often hyphenated if used as a modifier before a noun. _As a teacher, I’ve seen first hand how reading can change children’s lives._ _We were finally about to hear some first-hand accounts of what happened._  
 __first impression__ The initial, introductory evaluation upon meeting a person, encountering something, or experiencing a situation for the first time. _I had a bad first impression of the job when, on my very first day, the boss humiliated me in front of everyone in the office._  
-__first off__ :dart::three::hammer:  
+__first off__ :dart::four::hammer:  
 __first port of call__ :two: The first place where one stops to visit, accomplish something, or begin a process. Taken from nautical terminology, referring to the first port that a seafaring vessel calls in to at the beginning of a voyage. _The president’s first port of call on his re-election campaign will be his hometown._  
+__first thing__  
 __first things first__ :three::hammer:  
+__first-in-human trial__ “First-in-human” refers to the initial clinical trial where a new drug, medical procedure, or treatment is tested in humans for the very first time.  
 __fish eye__ _Nobody on the bus would give you the fish eye if you were a grown man and happened to be reading it._  
 __fishing expedition__  
+__Fist of God__ The idiom “Fist of God” typically refers to an overwhelming or destructive force, often of a divine or uncontrollable nature. It may be used figuratively to describe a powerful, often sudden event or action that seems beyond human control, such as a natural disaster, a sudden strike of fate, or a decisive, forceful intervention.  
 __fit like a glove__ To fit perfectly.  
-__fit the bill__ :five::hammer: (fill the bill) _His appearance fitted the bill._  
+__fit the bill__ :six::hammer: (fill the bill) _His appearance fitted the bill._  
 __five o’clock shadow__ :three: A short beard on a man’s face that has grown since the morning shave.  
+__five-on-five__ “Five-on-five” typically refers to a format in team sports where each team has five players on the field or court at the same time. _A five-on-five game of basketball._  
 __fix up__  
 __fixer__ _slang_ One tasked with handling and alleviating problems for someone, often illicitly.  
 __fizzle out__ :two::hammer:  
@@ -2245,7 +2255,7 @@ __flake out__
 __flaky__  
 __flap (one’s) gums__ To chatter or blather. _Quit flapping your gums—I need some quiet so I can think!_  
 __flapdoodle__ Nonsense or foolishness. _His explanation is total flapdoodle and doesn’t answer the question at all._  
-__flare up__  
+__flare up__ :two::hammer: :es: estallar  
 __flash Harry__ _n_ /flash HAR-ee/ A man who dresses and behaves in a vulgar, showy, or pretentious manner.  
 __flash__ :two: __1__ _v_ _slang_ To expose one’s nudity indecently. _She flashed me anyway._  
 __flat out__  
@@ -2253,19 +2263,21 @@ __flat-earther__
 __flat-footed__ :dart::three: __1__ Slow to react. Unprepared. Often used in the phrase “caught flat footed.” _That goal was my fault, guys. I got caught flat-footed on the play._  
 __flat-out__  
 __flatline__ :three: _slang_ To die or come very close to death. The “flat line” in question is a straight, horizontal line on an electrocardiogram or electroencephalogram indicating a lack of heart or brain activity. _The patient flatlined and we were unable to resuscitate. Time of death was 18:56._  
+__flesh and blood__  
 __flesh out__ :two::hammer:  
 __flick off__ :dart: _He flicked off the light._  
 __flimflam__ :smiling_imp:  
 __flip (one) the bird__ To raise the middle finger (a rude gesture of anger or displeasure) at one.  
 __flip on__ :dart: To turn something on, typically a switch. A noun or pronoun can be used between “flip” and “on.” _As soon as I flipped on the light, I could see that the house had been robbed._ _He flipped on the radio._  
+‌__flip the script__ :two: To change or reverse something dramatically.  
 __flip-flop__ __1__ _v_ To completely change one’s opinion or stance. Primarily heard in US.  
-__flit about__ To move in a quick, deft manner.  
+__flit about__ :two: To move in a quick, deft manner. _The kids are outside, trying to catch the lightning bugs that are flitting about._  
 __float (one’s) boat__ To make someone happy. Often used in the phrase “whatever floats (one’s) boat.” _A: “What do you want for dinner?” B: “Whatever floats your boat, I’m not even hungry.”_ _I think this new job in the lab will really float Isabel’s boat._  
 __float an idea__ To suggest something in order to gauge interest in it or others’ perception of it.  
 __flog a dead horse__  
-__floor (one)__ To cause one a great deal of shock, surprise, or disbelief.  
+__floor (one)__ :two: To cause one a great deal of shock, surprise, or disbelief.  
 __floored__ :four: __1__ Shocked or flabbergasted. _I was completely floored by Rob’s declaration of love—I had no idea he felt that way about me!_ __2__ _slang_ Struck and knocked to the floor. _Can you believe that bully got floored by such a scrawny kid?_ __3__ _slang_ Drunk. _Do you remember last night at the bar at all? You were really floored!_  
-__flop__ :two: __1__ A failure. _The play was a flop. The entire audience left during the second act._  
+__flop__ :three: __1__ A failure. _The play/film was a flop. The entire audience left during the second act._  
 __flophouse__ _slang_ An inexpensive, shabby place of lodging. _Ew, we can’t stay in a flophouse like that, no matter how cheap it is. It’s probably infested with bedbugs!_  
 __flotsam and jetsam__  
 __flub up__ __1__ _v_ To make a mistake, often an embarrassing one. A noun or pronoun can be used between “flub” and “up.”  
@@ -2279,27 +2291,37 @@ __fly on the wall__ :four::hammer:
 __fly the coop__  
 __fly under (the/someone’s) radar__ :three: To go without being noticed, detected, or addressed. _A: “Have you heard this band’s latest album?” B: “I didn’t even know it was out, it must have flown under my radar.”_  
 __flyboy__ _slang_ A pilot or other member of an air force.  
+__flying squad__ _n_ A small group of police, soldiers, etc, ready to move into action quickly.  
 __foam at the mouth__ :two: To be extraordinarily angry. _She was almost foaming at the mouth when she heard about the cost of the car repairs._  
+__fold__ :two: _informal_ __1__ Of a business, to fail or close; to cease to do business.  
 __folderol__ Nonsense or foolishness. _His explanation is total folderol and doesn’t answer the question at all._  
 __follow (someone or something) in stride__ To follow the direction, lead, or guidance (of someone or something); to act in accordance (with someone or something); to follow suit.  
 __follow in someone’s footsteps__ To do the same thing as someone else did previously.  
 __follow someone’s lead__ To do as someone else does; to accept someone’s guidance; to follow someone’s direction.  
-__follow suit__ :dart::nine: To do the same thing as others, especially by following their example. The phrase comes from card games, where there are four “suits” (diamonds, hearts, spades, and clubs). _The people in front of us began to file out of the auditorium, and we followed suit._  
+__follow suit__ :dart::nine::m: To do the same thing as others, especially by following their example. The phrase comes from card games, where there are four “suits” (diamonds, hearts, spades, and clubs). _The people in front of us began to file out of the auditorium, and we followed suit._  
 __FOMO__ _slang_  
 __fond of (someone or something)__ Having an affinity for someone or something. _I’m not too fond of Mike—he really annoys me sometimes._  
 __food baby__ :four: A large amount of food in one’s stomach from having just eaten a big meal, especially when it is protruding (and thus resembles the belly of one who is pregnant). _Don’t take any pictures right now, my stomach is huge! I totally have a food baby!_  
+__food chain__ Used in the phrases “at the top of the food chain” and “at the bottom of the food chain.” __1__ A hierarchy of organisms that transfer food energy between them. The smallest organisms are at the bottom—and they are preyed upon by the larger ones above them in the food chain. _Grizzly bears are at the top of the food chain._ _Phytoplankton are at the bottom of the food chain._ __2__ A hierarchy of people in a group or organization. _As a medical intern, I’m at the bottom of the food chain, but I’ll move up soon enough._  
 __food coma__ :four::hammer:  
 __food for thought__ :three: An event, a remark, a fact, etc. which should be considered very carefully because it is interesting, important, etc: _The lectures were very interesting and gave much food for thought._ _That meeting really gave me food for thought—I might invest in their company after all._  
-__fool around__  
+__fool around__ :two::hammer:  
 __fool with (someone or something)__  
 __fool’s errand__ :three: A task that has little to no chance of being successful or beneficial. _Giving the baby a bath before he eats spaghetti is a fool’s errand._ _It would be a fool’s errand for anyone inside the party to primary him._  
 __foot and mouth__ _Gardens in 2001 were unfortunately cancelled due to the outbreak of foot and mouth._  
 __foot the bill (for something)__ To pay for something; to pay for a bill. _My boss took me out for lunch and the company footed the bill._ _You paid for dinner last time. Let me foot the bill for lunch today._  
-__foot the bill__ To pay for something. _I hope the production company is footing the bill for all of this air travel._  
+__foot the bill__ :two: To pay for something. _I hope the production company is footing the bill for all of this air travel._  
 __for (one’s) (own) good__ :two: For one’s benefit, even though it may not be enjoyable or desirable. _I know you’re mad that I won’t let you eat candy for dinner, sweetheart, but it’s for your own good._  
+__for (one’s) benefit__ (for somebody’s benefit) Largely (or solely) to help one.  
+__for a bit__  
+__for a change__ For the sake of contrast or variety; as something novel or different. _It’s nice to see you here on time, for a change._  
+__for a charge__ The act of charging someone a fee or price for a service or item.  
+__for a fee__  
 __for a living__ In order to earn one’s primary income. _Roy runs a deli for a living._  
 __for a song__ For a very (and perhaps surprisingly) low price. _Wow, I can’t believe they let so many things at their yard sale go for a song. I would have marked up the prices a bit._  
-__for all intends and purposes__ :three::hammer:  
+__for all I know__  
+__for all intents and purposes__ _adv_ :five::pencil2: In every practical sense. _To all intents and purposes the case is closed._ _The rest are for all practical purposes useless._ _Syn_ for all practical purposes, to all intents and purposes  
+__for all practical purposes__ (for (all) practical purposes) In reality; basically. As might be reasonably expected; essentially. _For all practical purposes, this is simply a matter of right and wrong._ _For all practical purposes, I might as well have not handed in this proposal at all, with how swiftly the board rejected it._  
 __for all seasons__ :two: __1__ Suitable in or appropriate for every kind of weather. _A coat for all seasons._ __2__ Adaptable to any circumstance. _A singer for all seasons._  
 __for better or worse__ :nine::m: (for better or (for) worse) Under good or bad circumstances, with good or bad effect. Whether something is good or bad.  
 __for certain__ Definitely.  
@@ -2309,7 +2331,7 @@ __for days on end__ :eight: (for hours on end; for weeks on end; for years on en
 __for each and every (something)__ The phrase “for each and every (something)” is an emphatic expression used to emphasize the inclusivity or thoroughness of a statement. It means that every single item or individual within a specified group is being considered or affected. The repetition of “each” and “every” serves to reinforce the idea that no exceptions are made.  
 __for good measure__  
 __for good reason__ :two::hammer:  
-__for good__ :seven::hammer: __1__ Permanently; indefinitely; forever. _Leadville’s only hospital is preparing to close for good in March._ _The magazine was gone for good._ _She left him for good this time._  
+__for good__ :eight::hammer: __1__ Permanently; indefinitely; forever. _Leadville’s only hospital is preparing to close for good in March._ _The magazine was gone for good._ _She left him for good this time._  
 __for hours on end__ For a long time, specifically many hours. _When do you think the doctor will call with my test results? I’ve been waiting for hours on end._  
 __for its own sake__  
 __for keeps__ :three: __1__ For a very long period of time, possibly forever. _I’m sorry, but you’re stuck with me. As my husband, you have me for keeps._ __2__ For one to maintain or take ownership of. _I would have returned the mug to you sooner, but I thought you gave it to me for keeps._ __3__ With determination to do or complete something. _This is it, girls, the last game of the season. So go out there and play for keeps._  
@@ -2322,14 +2344,14 @@ __for Pete’s sake__
 __for real__ :three: _North American informal_ Used to assert that something is genuine or is actually the case.  
 __for show__ Done merely for the sake of appearance; not genuine or sincere.  
 __for someone (or something’s) sake__ _For comparison’s sake, it hit 90 twice here all of last July._  
-__for starters__ :seven: _phr informal_ You use for starters when you mention something to indicate that it is the first item or point in a series. _These prizes are just for starters. Other exciting offers are flooding in._ _Her manager said, “It will cost her 1.5 million pounds for starters if she loses.”_  
+__for starters__ :eight: _phr informal_ You use for starters when you mention something to indicate that it is the first item or point in a series. _These prizes are just for starters. Other exciting offers are flooding in._ _Her manager said, “It will cost her 1.5 million pounds for starters if she loses.”_  
 __for that matter__ :three: Besides; in addition. _If you’re hungry, take one of my doughnuts. For that matter, take two._  
 __for the ages__ :four: That will stand the test of time; that will be remembered or regarded for years to come. _A comeback for the ages._ _A year for the ages._ _He put together a run for the ages._  
 __for the better__ _My luck did not change for the better upon arrival at the bank._  
 __for the birds__ :three::hammer:  
 __for the greater good__  
 __for the hell of it__ Simply to satisfy a whim; for no reason other than one’s desire to do it. _Oh, let’s just go on a drive for the hell of it. Why do we need to have a destination in mind?_  
-__for the life of me__  
+__for the life of (one)__ :two: (for the life of me) Despite one’s best efforts; to any degree whatsoever. Often used in negative constructions. _For the life of me, I can’t remember where I left my keys!_  
 __for the long haul__  
 __for the most part__ :five::hammer:  
 __for the nonce__  
@@ -2347,9 +2369,10 @@ __forever and a day__ :two: __1__ Eternally; always; ceaselessly. __2__ An excep
 __forge ahead__  
 __fork over the dough__ :two: To pay, generally unwillingly, a certain amount of money. _If you want the most cutting edge technology, you’d better be prepared to fork over the dough for it._  
 __fork over__  
+__fortunes of war__ (the fortunes of war)  
 __forty winks__ :three: A short sleep during the day. A short nap.  
 __fotostat__ “Fotostat” is a term that James Ellroy uses in his novels to refer to a type of photocopying machine that was popular in the mid-20th century. It’s short for “photo-stat,” which is a combination of the words “photo” and “stat,” short for “statistical.”  
-__foul play__ :two::hammer:  
+__foul play__ :dart::three: Unspecified criminal or unscrupulous actions, especially violence when stated as the potential cause of a death or disappearance. _That actor actually died of a heart attack—there was no foul play after all._  
 __fountain of youth__ Anything reputed or promising to restore one’s youth, vitality, or health, or at least the appearance thereof. _At the age of 60, your grandmother looks fantastic! She must have discovered the fountain of youth._  
 __four-letter word__  
 __fourth wall__ :three: The imaginary barrier separating performers in a TV show, film, or play from the audience. _I hate those shows that break the fourth wall—I don’t want to feel like the characters are having a conversation with me!_  
@@ -2361,6 +2384,7 @@ __fraught with danger__
 __freak flag__ :two: Any unconventional, nonconformist, or uninhibited behavior, convictions, opinions, or lifestyle choices that are unique to an individual. _My high school literature teacher taught me to always be true to myself and to wear my freak flag proudly._  
 __freak of nature__ Something or someone that is unusual, rare, or abnormal in some way; beyond or outside the natural world. _He can lift over 500 pounds in the gym, he’s like some freak of nature._  
 __freak out__ :four::hammer: (freak someone out)  
+__freaking__ _mod._ Damned. (Euphemistic for fucking. Usually objectionable.) _Get your freaking socks off my bed!_  
 __free bit of advice__ A suggestion, opinion, or piece of advice that was unrequested or unsolicited by the recipient.  
 __free compute__  
 __free fall__  
@@ -2386,6 +2410,7 @@ __Friendsgiving__ :two: A Thanksgiving celebration among friends. It often takes
 __frigging__ :dart::four: _rude slang_ (friggin’) An intensifier used as a milder alternative to “fucking.” “Friggin’” is also commonly used. _Why are you so frigging late? You’d better have a good excuse._  
 __from a mile away__ :three: Well or far in advance; exceptionally easily. _That movie was so corny, you could tell what was going to happen from a mile away!_  
 __from A to Z__  
+__from afar__ From a (sometimes great) distance.  
 __from bad to worse__ :four::hammer: _Everything you’re telling me goes from bad to worse._  
 __from here on out__ From this moment and continuing into the future. _We need to follow the directions from here on out—otherwise, we’re liable to get lost._  
 __from jump street__  
@@ -2395,7 +2420,7 @@ __from the ground up__ :three: [:scroll: This expression alludes to the construc
 __from the outset__ From the beginning. _Honestly, I never expected this play to be so successful from the outset._  
 __from the river to the sea__ (antisemitic) A political phrase that refers geographically to the area between the Jordan River and the Mediterranean Sea, an area described as Palestine, which today includes Israel and the Israeli-occupied Palestinian territories, including the West Bank, East Jerusalem, and the Gaza Strip.  
 __from time to time__ :two::hammer:  
-__front and center__ :nine: In a very conspicuous or notable place; at the forefront of some space. _I can’t believe that my daughter is on stage, front and center!_  
+__front and center__ :nine::m: In a very conspicuous or notable place; at the forefront of some space. _I can’t believe that my daughter is on stage, front and center!_  
 __frost the cake__  
 __frosty__ __2__ _mod_ Cool; really cool and mellow. _That music is really frosty._  
 __fruit loop__  
@@ -2404,12 +2429,13 @@ __fuck (one’s) brains out__
 __fuck a duck__ _slang_ Exclaiming _fuck a duck_ conveys surprise, frustration, anger, or other such heightened emotions. Telling someone to _go fuck a duck_ is a more colorful way of telling them to go screw themselves.  
 __full as a tick__ Having consumed large quantities of food or drink. A reference to a tick that is engorged with blood.  
 __full blast__ (At) the maximum level.  
+__full circle__ Back to an original state or position. Often used in the phrase “come/go full circle.”  
 __full of (oneself)__ :three::hammer:  
 __full of beans__ :two: To have a lot of energy.  
 __full of hot air__ :dart: Full of lies, exaggerations, or nonsense. _Oh, you can’t believe a word that guy says—he’s full of hot air._  
 __full of shit__ :two: _slang_ _rude_ Unreliable or ridiculous; saying unfounded, incorrect, or nonsensical things. _You can’t listen to Sean, he’s full of shit! He doesn’t know any more about robotics than we do. All these new touchy-feely parenting books are full of shit, if you ask me._  
 __full package__  
-__full stop__ :five::hammer:  
+__full stop__ :six::hammer:  
 __full-fledged__  
 __fun and games__  
 __fun fact__ An interesting but trifling or irrelevant piece of miscellaneous information; a factoid. Often used as an interjection to introduce such a piece of information. _Fun fact: we love anything with Hawaiian flair except pizza…_  
