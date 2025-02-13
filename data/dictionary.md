@@ -352,8 +352,8 @@ __aglow__ _adj, adv_
 __agnostic__ _adj_ :two::hammer:  
 __agog__ _adj_ :two: Highly excited by eagerness, curiosity, anticipation, etc.  
 __agonal__ _adj_ Relating to agony, especially before death. _Agonal breathing._  
-__agonist__ _n_ :astonished::four: /ˈæg ə nɪst/ __3__ One involved in a struggle or competition.  
-__agonistic__ _adj_ :pencil2: Striving to overcome in argument.  
+__agonist__ _n_ :astonished::five::hammer: /ˈæg ə nɪst/ __3__ One involved in a struggle or competition.  
+__agonistic__ _adj_ :two::pencil2: Striving to overcome in argument. _Syn_ combative _The incumbent’s aggressive, agonistic approach to the debate alienated many of his supporters._  
 __Agpar__ _n_ (Agpar score) A method of assessing a newborn’s health. Also known as Apgar score. After anesthesiologist Virginia Apgar (1909-1974) who devised it.  
 __agrarian__ _adj_ :two: /uh-GRAIR-ee-un/ Something described as agrarian has to do with farms and farming.  
 __agribusiness__ _n_  
@@ -366,6 +366,7 @@ __ague__ _n_ :two::hammer: (agues)
 __ah__  
 __aha__  
 __Aha! moment__  
+__Ahabian__ _adj_  
 __ahem__  
 __ahistorical__ _adj_ :two: /ˌeɪhɪsˈtɒrɪkəl/ (ahistoric) Unconcerned with or unrelated to history or to historical development or to tradition.  
 __ahold__  
@@ -392,6 +393,8 @@ __aircraft hold__ _n_ :es: bodega (de avión)
 __aircraft__ _n_ _Ejecting from aircraft._  
 __airfield__  
 __airhead__ _n_ :two::smiling_imp: _slang_ A stupid person.  
+__airily__ _adv_ _Syn_ flippantly  
+__airlock__ _n_ A chamber that provides access to space where air is under pressure. _Syn_ air lock  
 __airscrew__ _n_ A propeller that rotates to push against air. _Syn_ prop  
 __airship__ _n_ _Tethered airships._  
 __airstrike__ _n_  
@@ -408,6 +411,7 @@ __Al-Anon__
 __Alabama__ _n_ :mega:  
 __alabaster__  
 __alacrity__ _n_ :six: /əˈlakrɪti/ __1__ Cheerful readiness, promptness, or willingness: _to do a favor with alacrity._ _Syn_ eagerness, enthusiasm, willingness, readiness, speed, zeal, gaiety, alertness, hilarity, cheerfulness, quickness, liveliness, briskness, promptness, avidity, joyousness, sprightliness _As you can imagine, I accepted with alacrity._ __2__ Speed or quickness; celerity.  
+__Alanis__ _n_ /əˈlænɪs/  
 __alas__ _sentence connector_ Unfortunately; regrettably: _there were, alas, none left._  
 __Alaska__ _n_ :mega: /əˈlæs kə/  
 __Alaskan__  
@@ -434,12 +438,13 @@ __alighted__ _v_ :two::hammer:
 __align__ _v_ :mute:[ali~~g~~n]  
 __alike__  
 __aliquot__ _adj, n_ /ˈælɪˌkwɒt/  
+__alkali__ _n_ Any of various water-soluble compounds capable of turning litmus blue and reacting with an acid to form a salt and water. _Syn_ base  
 __all caps__  
 __all in all,__ _phr_ :five: __1__ Generally; taking everything into account. __2__ Supremely important.  
 __all of a sudden__ _adv_ Without warning.  
 __all righty__  
 __all that said,__  
-__all-encompassing__ _adj_ _An all-encompassing experience._  
+__all-encompassing__ _adj_ :two: Including everything or everyone. _We’re unlikely to find an all-encompassing solution._ _An all-encompassing experience._  
 __all-hands meeting__ _n_ :dart: A meeting that every employee in a company or department is required to attend. An all-hands meeting may be used to make special announcements.  
 __all-inclusive__ _adj_ _All-inclusive package._  
 __all-knowing__ _adj_ _Not even the all-knowing Google has a definitive answer to my question._  
@@ -461,6 +466,7 @@ __alleviative__ _adj_ Moderating pain or sorrow by making it easier to bear. _Sy
 __alley-oop__ _n_  
 __alleyway__ _n_ A narrow passage between buildings.  
 __allies__ _n_  
+__allision__ _n_ (_vs_ collision)  
 __alliterate__ _v_ To use two or more words having the same initial sound, as in: _Sister Suzie sews shirts for sixty-six seasick sailors._  
 __alliteration__ _n_ :two: Alliteration is repeating the same or similar sounds at the beginning of words. Example: She sells seashells by the sea shore.  
 __allocation__ _n_ :two::hammer: _Allocation of resources._  
@@ -473,7 +479,7 @@ __allowance__ _n_ :three::hammer:
 __alloy<sup>1</sup>__ _n_  
 __alloy<sup>2</sup>__ _v_ :two::dart: (alloyed) __2__ To combine; mix. _These signs of hope are real but alloyed with the hard realities of dark days ahead._  
 __allude__ _v_  
-__allusion__ _n_ :two: Allusion is the act of casually referencing something, usually a work of popular culture. Example: Finishing his memoir was his white whale.  
+__allusion__ _n_ :three: /uh-LOO-zhun/ Allusion is the act of casually referencing something, usually a work of popular culture. Example: Finishing his memoir was his white whale.  
 __ally<sup>1</sup>__ _n_ /ˈæl aɪ, əˈlaɪ/  
 __ally<sup>2</sup>__ _v_ /əˈlaɪ/  
 __alma mater__ _n_ A school, college, or university at which one has studied and, usu., from which one has graduated.  
@@ -510,11 +516,11 @@ __altitude sickness__
 __alto voice__  
 __altogether__ _adv_ :three::hammer: _Coach Rose was not altogether pleased with the effort._  
 __altruism__ _n_  
-__alum__ _n informal_ :four: An alumna or alumnus. _A Vanderbilt alum._  
+__alum__ _n informal_ :five: An alumna or alumnus. _A Vanderbilt alum._  
 __aluminum__ _n_ :four::pencil2::hammer:  
 __alumni__ _n pl_ :three::hammer:  
 __amalgam__  
-__amalgamate__ _v_  
+__amalgamate__ _v_ :two: /uh-MAL-guh-mayt/ _Amalgamate_ is a formal verb meaning “to unite (two or more things) into one thing.”  
 __amaranth__ _n_ __2__ An imaginary flower that never fades.  
 __amass__ _v_ :six::hammer::pencil2: (amassed, amassing) :es: amontonar, acumular  
 __amatory__ _adj_ Of, relating to, or expressive of love, especially sexual love. _Syn_ amorous, romantic _She showed her friends the stack of old love letters and read them excerpts from the couple’s amatory correspondence._  
@@ -572,9 +578,10 @@ __amphibian__ _n_ :pencil2:
 __amphitheater__ _n_ :two::hammer: _Wind and water are responsible for the natural amphitheater._  
 __ample__ _adj_ :nine::m: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare _Ample outdoor seating._ _Ample public seating areas._  
 __amplification__ _n_ __2__ Material added to a statement, story, etc, in order to expand or clarify it. _Corrections & Amplifications (newspaper section)._  
+__amplify__ _vt_ :astonished: __2__ To add to, as by illustrations; make complete.  
 __amply__  
 __ampoule__ _n_ :two: (ampul, ampule) A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped. A small glass vial that is sealed after filling and used chiefly as a container for a hypodermic injection solution. _Syn_ phial, vial _Because of his medical condition, he was obligated to carry an ampoule of medicine and a hypodermic needle with him at all times._  
-__amulet__ _n_ :two: An object worn, especially around the neck, as a charm against evil or injury. _Syn_ charm, fetish, talisman, juju  
+__amulet__ _n_ :four: An object worn, especially around the neck, as a charm against evil or injury. _Syn_ charm, fetish, talisman, juju  
 __amusement park__ _n_ :four::hammer:  
 __amusia__ _n_ :four: /ay-MYOO-zee-uh/ The inability to recognize, reproduce, or appreciate music. _Cochlear amusia._  
 __amygdala__ _n_ :two::hammer:  
@@ -609,7 +616,7 @@ __and how!__
 __and so it goes__  
 __and-a-one, and-a-two...__  
 __Andean condor__ _n_ A very large vulture found in the Andes Mountains.  
-__andirons__  
+__andirons__ _n_ :two::hammer:  
 __andragogy__ _n_ The art or science of teaching adults. The methods or techniques used to teach adults.  
 __androgenic__ _adj_ /an-druh-JEN-ik/ __1__ Relating to the development of male characteristics. __2__ Having origin in the male sex.  
 __androgyny__ _n_ [:scroll: From Greek andro- (man) + -gune (woman)] Showing characteristics of both sexes. _Syn_ bisexuality, hermaphroditism  
@@ -621,6 +628,7 @@ __anecdote__ _n_ :two: An anecdote is a brief story about something that happene
 __anemia__ _n_ [:scroll: C19: from New Latin, from Greek _anaimia_ lack of blood] (Pathology) The usual US spelling of anaemia.  
 __anemomes__ _n_  
 __anemometer__ _n_ :two::hammer:  
+__anemone__ _n_ :mega: /əˈnɛm əˌni/ /uh–nem–uh-nee/  
 __anergy__ _n_ /AN-uhr-jee/ [:scroll: From an- (not) + ergon (work). The opposite of sense 1 is energy and the opposite of sense 2, allergy.] __1__ Lack of energy. __2__ The lack of an immune response to a foreign substance.  
 __anew__ _adv_ :four::hammer:  
 __anfractuous__ _adj_ :three: /an-FRAK-choo-uhs/ Full of twists and turns; tortuous. _An anfractuous path._ _Anfractuous cliffs._  
@@ -673,7 +681,7 @@ __anonym__ _n_ A pseudonym. _Syn_ nom de guerre, pseudonym _He used an anonym wh
 __Anonymous__ _n_ A decentralized international activist and hacktivist collective and movement primarily known for its various cyberattacks against several governments, government institutions and government agencies, corporations and the Church of Scientology.  
 __anorak__ _n_ :three: A warm waterproof hip-length jacket usually with a hood, originally worn in polar regions, but now worn for any outdoor activity.  
 __anorexia nervosa__ _n_ /nɜrˈvoʊ sə/ An eating disorder characterized by a fear of becoming fat, a distorted body image, and excessive dieting leading to emaciation.  
-__anoxia__  
+__anoxia__ _n_ :two::hammer:  
 __anoxic__ _adj_ Relating to or marked by a severe deficiency of oxygen in tissues or organs.  
 __ansaphone__ _n_ /ˈɑːnsəˌfəʊn/ Another name for answering machine.  
 __answer for__ _phr v_ To be responsible for something bad.  
@@ -723,10 +731,10 @@ __antique__ _n_ :five::mute:[antiq~~u~~e]:hammer: (antiques) _Antiques dealer._
 __antiquity__ _n_ _The wise men of antiquity._  
 __antithesis__ _n_ Antithesis is using parallel sentences or clauses to make a contrast. Example: No pain, no gain.  
 __antithetical__ _adj_ /an-tuh-THET-ih-kul/  
-__antler__ _n_ :three::hammer: _Antler chandelier._  
+__antler__ _n_ :four: A horny growth on the head of a deer, moose, elk, or other related animal, usually having one or more branches. Antlers typically grow only on males and are shed and grown again each year. _Antler chandelier._  
 __antral__ _adj_ :two::hammer:  
 __antre__ _n_ /AN-tuhr/ A cave, cavern, cavity, etc.  
-__antsy__ _adj_ :three: Restless, impatient.  
+__antsy__ _adj_ :four: Restless, impatient. Nervous and unable to relax. _Syn_ fidgety, fretful, itchy _The long wait made the children antsy._  
 __anvil__ _n_ :six: (anvils) A heavy block of iron or steel on which hot metals are shaped by hammering. :es: yunque  
 __any longer__  
 __anybody’s guess__  
@@ -752,7 +760,7 @@ __apiece__ _adv_ /əˈpiːs/
 __aping__  
 __aplenty__ _adj, adv_ :three::hammer:  
 __aplomb__ _n_ :dart::nine: /əˈplɒm, əˈplʌm/ /uh-PLAHM/ Self-confidence or assurance, especially when in a demanding situation. Self-confident assurance; poise. _Syn_ assuredness, sang-froid, cool _Diana passed the test with aplomb._ _The defense attorney smiled with an air of aplomb, knowing that his client’s acquittal was all but assured._ :es: aplomo  
-__apnea__ _n_ :five::mega: /ˈæp ni ə, æpˈni ə/ Temporary cessation of breathing. _Sleep apnea._  
+__apnea__ _n_ :six::mega: /ˈæp ni ə, æpˈni ə/ (compare vs _sleep apnea_) Temporary cessation of breathing.  
 __apocalypse__ _n_ /uh-POK-uh-lips/ __1__ The destruction of the world. __2__ Any widespread destruction or disaster. __3__ A massive, decisive conflict. __4__ A prophecy.  
 __apocryphal__ _adj_ :four::pencil2::mega: /uh-PAH-kruh-ful/ /uh-PAH-kri-fuhl/ [:scroll: From Latin apocryphus (secret), from Greek apokruphos (secret, hidden), from apokruptein (to hide away), from apo- (away) + kruptein (to hide).] __1__ Of dubious authorship or authenticity. Of doubtful authenticity: spurious. __2__ False; erroneous; fictitious.  
 __apodal__ _adj_ Having no limbs, feet, or footlike appendages. _Syn_ apodous _Eels are apodal and well adapted for wriggling in the mud, through the crevices of reefs, and along rocky shores._  
@@ -761,7 +769,7 @@ __apologetic__ _adj_ :seven: Very sorry. _That’s what I call apologetic hand r
 __apologist__ _n_ :two::hammer:  
 __apologue__ _n_ A moral fable, especially one having animals or inanimate objects as characters. _Syn_ allegory, parable, fable  
 __apoplectic__ _adj_ :three::hammer:  
-__apoplexy__ _n_ :three: __1__ Sudden impairment of neurological function, especially that resulting from a cerebral hemorrhage; a stroke. _Syn_ stroke, cerebrovascular accident _The medical evidence showed conclusively that death was due to apoplexy._ __2__ A sudden effusion of blood into an organ or tissue. __3__ A fit of extreme anger; rage.  
+__apoplexy__ _n_ :four: __1__ Sudden impairment of neurological function, especially that resulting from a cerebral hemorrhage; a stroke. _Syn_ stroke, cerebrovascular accident _The medical evidence showed conclusively that death was due to apoplexy._ __2__ A sudden effusion of blood into an organ or tissue. __3__ A fit of extreme anger; rage.  
 __apoptosis__ _n_  
 __aposematic__ _adj_  
 __apostasy__ _n_ :three: Abandonment of one’s religious faith, a political party, one’s principles, or a cause. _Syn_ defection, renunciation  
@@ -772,7 +780,7 @@ __apostrophe__ _n_ :two: In rhetoric, apostrophe occurs when a writer or speaker
 __apothegm__ _n_ :three: A short, pithy, and instructive saying or formulation. A terse, witty, instructive saying. _Syn_ aphorism _Her mother endlessly repeated the apothegm “cleanliness is next to godliness.”_  
 __apotheosis__ _n_ :two: /uh-pah-thee-OH-sis/ Exaltation to divine rank or stature. _Syn_ deification, exaltation  
 __appall__ _vt_ :six::pencil2: To fill with horror and amazement; dismay greatly. :es: horrorizar, espantar  
-__appalled__ _adj_ :seven: /əˈpɔːld/ Shocked or dismayedfilled with horror. _Syn_ aghast, dismayed, shocked  
+__appalled__ _adj_ :eight: /əˈpɔːld/ Shocked or dismayedfilled with horror. _Syn_ aghast, dismayed, shocked  
 __appalling__ _adj_ :nine::m: Something that is appalling is awful or horrible, causing dismay or disgust. It’s definitely not appealing. :es: espantoso _(awful)_ pésimo  
 __appanage__ _n_ /AP-uh-nij/ (apanage) __1__ An allowance given for the maintenance of a member of a royal family. __2__ A perk associated with a job or a position.  
 __apparatchik__ _n_ :two::hammer: (apparatchiks)  
@@ -802,12 +810,13 @@ __appraisingly__
 __appreciable__ _adj_ :two: /uh-PREE-shuh-bul/ _Appreciable_ describes things that can be perceived or measured.  
 __appreciate__ _v_ :pencil2: _I appreciate it._  
 __apprehend__ _v_ :pencil2::two::hammer:  
-__apprehension__ _n_ :five::pencil2::hammer:  
+__apprehension__ _n_ :six::pencil2: /ap-rih-HEN-shun/ _Apprehension_ most often refers to the fear that something bad or unpleasant is going to happen; it’s a feeling of being worried about the future. The word can also refer to seizure by legal process. _There is growing apprehension that next quarter’s profits will be lower than expected._  
 __apprehensive__ _adj_ :two::dart: Very nervous.  
 __apprentice<sup>1</sup>__ _n_ :three::hammer:  
 __apprentice<sup>2</sup>__ _v_ :two::hammer: (apprenticed)  
 __apprenticeship__ _n_ _Apprenticeship program._  
 __apprise__ _v_ :two: To give notice to; inform. _Syn_ notify, advise _During the drive home from the airport, they had time to apprise her of everything that had changed since she had been gone._ _He was kept apprised of events by partisans in Paris._  
+__approach__ _n_ :es: actitud  
 __approbation__ _n_ /ap-ruh-BAY-shun/ Approbation is a formal word that refers to praise or approval.  
 __approval rating__ _n_ :dart: A rating based on a percentage of people (as voters) who think someone (as a politician) is doing a good job. _The governor’s approval rating is going up._ _Park’s approval rating has plummeted._  
 __appurtenance__ _n_ Equipment, such as clothing, tools, or instruments, used for a specific purpose or task. _Syn_ paraphernalia, gear  
@@ -820,18 +829,20 @@ __apse__ _n_ :es: ápside
 __apt__  
 __aptly__ _adj_ :two::hammer:  
 __aquanaut__ _n_ :two::hammer:  
+__aquaplaning__ _n_ :pencil2:  
 __aquaponics__ _n_ _(used with singular verb)_  
 __aquaria__  
 __aquavit__  
 __aqueduct__ _n_ :four::hammer:  
 __aqueous__ _adj_  
 __aquifer__ _n_ :two::hammer:  
-__aquiline__ _adj_  
+__aquiline__ _adj_ :two::hammer:  
 __arabesque__ _adj, n_ :two::hammer: _They were heavily coated with arabesques of frost which scintillated with the silver sparks of outer sunshine._  
 __arable__ _adj_ /ˈærəbəl/ Fit for cultivation, as by plowing.  
 __Aragon__ _n_ :mega: /ˈærəɡən/  
 __Aramaic__  
 __Arapahoe__ _n_ :two::hammer:  
+__arbiter__ _n_ One chosen or appointed to judge or decide a disputed issue. _Syn_ arbitrator, umpire  
 __arbitrage__ _n_  
 __arbitrary__ _adj_ :two: /AHR-buh-trair-ee/ Determined, planned, or chosen seemingly at random or by chance. _People often make arbitrary decisions on where to go out to eat._ _An arbitrary number of servers._  
 __arbitration__ _n_ :two::hammer: _Arbitration clause._  
@@ -864,6 +875,8 @@ __archnemesis__
 __archpriest__ _n_  
 __archrival__ _n_  
 __archway__ _n_ :two::hammer: :es: pasaje abovedado  
+__arctic<sup>1</sup>__ _adj_ __1__ Of or relating to the Arctic: _arctic temperatures._ __2__ _informal_ Cold; freezing: _the weather at Christmas was arctic._  
+__arctic<sup>2</sup>__ _n_  
 __arctophile__ _n_ :astonished: A person who collects or is very fond of teddy bears. _Tom is an arctophile._  
 __ardent__ _adj_ :two::hammer: _He was one of her most ardent suitors._  
 __ardor__ _n_ :two: Intensity of emotion, especially strong desire, enthusiasm, or devotion. _Syn_ passion Feelings of great warmth and intensity. _Syn_ fervency, fire _He spoke with great ardor at the rally, inspiring the crowd with his passionate words._  
@@ -883,10 +896,11 @@ __Arkansas__ _n_ :three::mega::hammer:
 __arm bands__ _n_ :es: manguitos  
 __armageddon__  
 __armagnac__  
+__armamentarium__ _n_ :astonished: _(Medicine)_ The items that comprise the material and equipment used by a physician in his professional practice.  
 __armful__ _n_ The amount of something that you can carry in your arms. _An armful of packages._  
 __armillary__ _adj_ Consisting of hoops or rings.  
 __armipotent__ _adj_ /ahr-MIP-uh-tuhnt/ Strong in war, battle, contest, etc.  
-__armistice__ _n_ :four::mega: A temporary cessation of fighting by mutual consent; a truce. Armistice descends from Latin _sistere_, meaning “to come to a stand” or “to cause to stand or stop,” combined with _arma_, meaning “weapons.”  
+__armistice__ _n_ :five::mega: /AHR-muh-stus/ A temporary cessation of fighting by mutual consent; a truce. Armistice descends from Latin _sistere_, meaning “to come to a stand” or “to cause to stand or stop,” combined with _arma_, meaning “weapons.”  
 __armload__  
 __armorer__ _n_  
 __armory__ _n_ :three::hammer: _His armory of weapons._  
@@ -917,10 +931,11 @@ __artery__ _n_ :mega:
 __artful__  
 __arthralgia__ _n_ är-thrăl′jə/ Neuralgic pain in a joint or joints.  
 __arthroplasty__ _n_ /AR-thruh-plas-tee/ [:scroll: From Greek arthro- (joint) + -plasty (formation, repair, molding)] The surgical repair or replacement of a joint.  
+__Arthur__ _n_ A legendary king of the Britons whose story is based on traditions of a sixth century military leader.  
 __artichoke__ _n_ :three::hammer:  
 __articulate<sup>1</sup>__ _adj_ :six: __1__ Able to express oneself fluently and coherently: _an articulate lecturer._ __2__ Having the power of speech. __3__ Distinct, clear, or definite; well-constructed: _an articulate voice; an articulate document._ __4__ Possessing joints or jointed segments.  
 __articulate<sup>2</sup>__ _vt_ :nine::m: __1__ To pronounce clearly and distinctly. __2__ To make the movements and adjustments of the speech organs necessary to utter (a speech sound). __3__ To give clarity or coherence to: _to articulate an idea._ __4__ To unite by a joint or joints.  
-__articulate<sup>3</sup>__ _vi_ :nine: __1__ To pronounce clearly each of a succession of speech sounds, syllables, or words. __2__ To articulate a speech sound. __3__ To form a joint.  
+__articulate<sup>3</sup>__ _vi_ :nine::m: __1__ To pronounce clearly each of a succession of speech sounds, syllables, or words. __2__ To articulate a speech sound. __3__ To form a joint.  
 __articulated__ _adj_ :two::hammer: _(of a vehicle)_ Built in sections that are hinged or otherwise connected so as to allow flexibility of movement.  
 __artifact__ _n_ :four::hammer: (artifacts)  
 __artifice__ _n_ :two: /AHR-tuh-fus/ _Artifice_ refers to dishonest or insincere behavior or speech that is meant to deceive someone. It can also be used to mean “clever or artful skill.” A deceptive maneuver, especially to avoid capture. _Syn_ ruse _What could the bewildered scouts do, masters as they were of every war-like artifice save this one, but trot helplessly after him, exposing themselves fatally to view._  
@@ -1025,6 +1040,7 @@ __at the earliest__
 __at the very least__  
 __at__ _prep_ [The preposition _at_ often has connotations of aggression. You _throw_ something _to_ someone if you want them to catch it; if you _throw_ it _at_ them you are trying to hit them. To _laugh at_ someone is to laugh at their expense. Usually we say _talk to_; when Ludlow says _talk at_ (in the movie _Legends of the Fall_) he is saying that his sons are shouting at them without listening to what he has to say in reply.]  
 __at-risk__ _adj_  
+__ataractic__ _adj_ Of or relating to a drug or other agent that has a tranquilizing effect. _Syn_ sedative, tranquilizing _Valium has an ataractic effect that is useful in treating tension and anxiety._  
 __ataraxia__ _n_ :two: (ataraxy) (Medicine) Calmness or peace of mind; emotional tranquillity. A state of freedom from emotional disturbance and anxiety; tranquillity.  
 __atavism__ _n_ :two: A reappearance of an earlier characteristic. _Syn_ throwback, reversion  
 __atavistic__ _adj_ :four: Are you scared of the dark? It’s okay. That is quite a natural atavistic fear — that is, a fear related to an ancient way of thinking or behaving. Something atavistic doesn’t have to be a feeling; it can be anything that’s a throwback to an earlier form of life or way of looking at things. For example, a new building can be atavistic if it contains strong elements of ancient architectural styles. A physical genealogical trait handed down from many generations is also atavistic. For example, the pointed canine teeth in humans, originally used to tear meat apart when hunting, is an atavistic trait in mankind.  
@@ -1045,7 +1061,7 @@ __atole__ _n_ A thick drink of Mexican origin that is made with cornmeal, water,
 __atoll__ _n_ :es: atolón  
 __atolls__ _n_  
 __atone__ _v_ :four: /uh-TOHN/ Atone is usually used with for to mean “to make amends; to provide or serve as reparation or compensation.” _James tried to atone for the wrongdoings of his youth by devoting his life to helping others._  
-__atonement__ _n_ :two::hammer:  
+__atonement__ _n_ :three: Amends or reparation made for an injury or wrong. _Syn_ expiation, satisfaction  
 __atop<sup>1</sup>__ _adv_  
 __atop<sup>2</sup>__ _prep_  
 __atopic__ _adj_ :two::astonished: /əˈtɒpɪk/ Of or relating to hereditary hypersensitivity to certain allergens.  
@@ -1097,6 +1113,7 @@ __audacious__ _adj_ :dart::four::hammer: _In size it was the most audacious._
 __audacity__ _n_ :dart::seven: /ɔˈdæs ɪ ti/ Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions. Fearless daring; intrepidity. _Syn_ temerity :es: osadía  
 __audible__ _v_  
 __audit__ _n_ :two::hammer: _A tax audit._  
+__audition__ _n_ /aw-DISH-un/ An audition is a short performance to show the talents of someone (such as an actor or a musician) who is being considered for a role in a play, a position in an orchestra, etc. _Auditions will be held next week for the spring musical._  
 __Augean__ _adj_ :astonished: __1__ Resembling the Augean stables; filthy; rotten. __2__ Difficult and unpleasant: _an Augean chore._  
 __augur__ _v_ :two::hammer: /AW-gur/  
 __augury__ _n_ A sign of something coming; an omen. _Syn_ foretoken, preindication  
@@ -1111,7 +1128,7 @@ __auscultation__ _n_
 __auspices__  
 __auspicious__ _adj_ /aw-SPISH-us/  
 __Aussie__ _n_ _informal_  
-__austere__  
+__austere__ _adj_ :two::hammer::mega:  
 __austerity__ _n_ /ɔˈstɛr ɪ ti/  
 __Austinite__ _n_ :two: (Austinites) A person Who lives in the city of Austin, Texas and some of the close surrounding citys.  
 __Australia__ _n_ :mega:  
@@ -1173,7 +1190,7 @@ __ax__
 __axle__ _n_  
 __ayahuasca__ _n_ :five: A psychedelic brew made out of Banisteriopsis caapi vine alone or in combination with various plants.  
 __aye__ _adv_ __2__ (Nautical Terms) an expression of compliance, esp used by seamen.  
-__Ayurveda__ _n_  
+__Ayurveda__ _n_ :two: The conventional Hindu system of medicine, founded chiefly on naturopathy and homeopathy.  
 __azure<sup>1</sup>__ _n_ :two::hammer:  
 __azure<sup>2</sup>__ _adj_ A light purplish blue. _Syn_ cerulean, lazuline, sapphire, sky-blue _The large silver kite gleamed against the azure expanse of sky._  
 __b-boy__ _n_ /ˈbiːˌbɔɪ/ (b-girl) A male rap-music fan, who typically can be identified by his casual style of dress.  
@@ -1206,6 +1223,7 @@ __back end__ _n_ _Dante Exi, started two games at the back end of the trip._
 __back off__ _phr v_ :five: To retreat or draw away.  
 __back out__ _v_ :three::hammer:  
 __back road__ _n_ :two: A little-used, often unpaved country road. _Cycle low-traffic back roads._  
+__back seat__ _n_ __2__ _informal_ A subordinate or inconspicuous position (esp in the phrase _take a back seat_).  
 __back up__ _v_ :four: __1__ To move backwards. This phrase is commonly used to refer to maneuvering a car in reverse. _Back up, you’re standing too close to me!_ _If you back up a little, then your car will be completely in that parking space._ _Traffic will back up as if two lanes were blocked._  
 __back-number__ _n_ Someone who is no longer popular. _Syn_ has-been  
 __back-office__ _adj_ Of or relating to the inner workings of a business or institution. _Syn_ internal _Back-office analytics._  
@@ -1222,7 +1240,7 @@ __backhanded__ _adj_
 __backhander__ _n_ /ˈbækˌhændə/  
 __backhaul__ _n, v_ :three::hammer: _Backhaul areas._  
 __backhoe__ _n_ :three: A mechanical excavator whose bucket is attached by a hinge to a two-part arm and is drawn backward to the machine when in operation.  
-__backlash<sup>1</sup>__ _n_ :seven::hammer: /ˈbækˌlæʃ/ _It leads to backlash._  
+__backlash<sup>1</sup>__ _n_ :eight::hammer: /ˈbækˌlæʃ/ _It leads to backlash._  
 __backlash<sup>2</sup>__ _v_ :two::hammer:  
 __backlit__  
 __backlog<sup>1</sup>__ _n_ :nine: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._ _Thousands of doctors feel under pressure to work extra shifts to help tackle the backlog of care caused by the covid pandemic._ _The NHS has made some progress on reducing the care backlog._  
@@ -1235,6 +1253,7 @@ __backslash__ _n_
 __backslid__ _v_  
 __backslide__ _v_ :two: To relapse into bad habits, sinful behavior, or undesirable activities.  
 __backsplash__ _n_ An upright surface or border, as of tile, that protects the wall behind a sink or stove. _A new tile backsplash._  
+__backstab__ _vt_ :smiling_imp:  
 __backstop__ _n_ (baseball)  
 __backstory__ _n_  
 __backstreet__ _adj_  
@@ -1252,7 +1271,8 @@ __badass<sup>1</sup>__ _n_
 __badass<sup>2</sup>__ _adj_ __1__ Tough or aggressive: _a badass rock band._ __2__ Excellent: _a real badass watch._  
 __baddie__ _n_ _It’s just what Bond fans want in a baddie._  
 __bade__ _v_ :five::hammer: _Bade farewell._ _She bade me bring you here._ _He bade them goodnight._ _The brothers bade him welcome._  
-__badger__ _n_ :three::hammer: _Felix was thrown when his horse shied a a badger._  
+__badger<sup>1</sup>__ _n_ :three::hammer: _Felix was thrown when his horse shied a a badger._  
+__badger<sup>2</sup>__ _v_  
 __badinage__ _n_ :three::hammer:  
 __badlands__ _n pl_ :two: /ˈbædˌlændz/ A barren area in which soft rock strata are eroded into varied, fantastic forms. Barren land characterized by roughly eroded ridges, peaks, and mesas.  
 __badly__ _adv_ :three::hammer: _When done badly it’s very painful._ _She wants him so badly!_  
@@ -1287,6 +1307,7 @@ __bakeware__ _n_ (Cookery) Dishes and other cooking utensils used for baking.
 __baking soda__ _n_ Sodium bicarbonate.  
 __bald-faced__ _adj_  
 __balderdash__  
+__baldric__ _n_ :camera: A belt, usually of ornamented leather, worn crossbody to support a sword or bugle. _Baldrics were very important to Wookiee culture; a Wookiee earned the right to wear a baldric after completing a hrrtayyk ceremony._  
 __bale<sup>1</sup>__ _n_ (bales) _He sat on a bale of prayer rugs._ _Bales of cotton._  
 __bale<sup>2</sup>__ _v_  
 __baleful__ _adj_ :four: Threatening or foreshadowing evil or tragic developments. _Syn_ menacing, minacious, minatory, ominous, sinister, threatening, forbidding :es: siniestro  
@@ -1378,6 +1399,7 @@ __bardic__
 __bardolatry__ _n_ [:scroll: Coined by George Bernard Shaw from bard (poet) + -latry (worship)] _facetious_ Idolatry or excessive admiration of William Shakespeare.  
 __bare bones__ _n pl_ _informal_ The basic elements or essentials: outlined the bare bones of the proposal.  
 __bare minimum__ _n_ The smallest possible quantity or the least fulfilling, but still adequate, condition that is required, acceptable, or suitable for some purpose.  
+__bare__ _vt_ __1__ To make bare; uncover or reveal: _bared their heads; baring secrets._ __2__ To expose: _The dog bared its teeth._  
 __bare-bones__ _adj_ Basic or simple; no-frills. _A bare-bones lab._  
 __barefaced__ _adj_ With no effort to conceal. _Syn_ bald _They attacked him in various ways-with barefaced questions, ingenious suppositions, and distant surmises; but he eluded the skill of them all._  
 __barf__ _v_ :four: To vomit. _Barf bag._ _Barf bucket._  
@@ -1403,6 +1425,7 @@ __barnyard__ _n_ :two::pencil2: The area surrounding a barn, often enclosed by a
 __baron__  
 __baronial__ _adj_ Impressive in appearance. _Syn_ imposing, noble, stately  
 __barrack__ _n_ :two::astonished: _(often barracks)_ __1__ A building or group of buildings used to house military personnel. :es: cuartel __2__ A large, unadorned building used for temporary occupancy.  
+__barracks__ _n pl_ :two: /ˈbærəks/ __1__ A building or group of buildings used to accommodate military personnel.  
 __barrage<sup>1</sup>__ _n_ :eight::mega: __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
 __barrage<sup>2</sup>__ _v_  
 __barranca__ _n_ (barranco)  
@@ -1424,7 +1447,7 @@ __barware__
 __bas-relief__ _n_  
 __basal state__ _n_ A resting metabolic state early in the morning after a minimum of 12 hours of fasting. Used for laboratory tests.  
 __base__ _adj_ __1__ Having or showing a lack of decency; contemptible, mean-spirited, or selfish. _This film is base, moronic, insulting, and vulgar._ __2a__ Being a metal that is of little value. __b__ Containing such metals: _base coins._  
-__baseline__ _n_ _We can permanently raise our happiness baseline._  
+__baseline__ _n_ :two::hammer: _We can permanently raise our happiness baseline._  
 __basement__  
 __bash<sup>1</sup>__ _n_ :two::hammer: _A company anniversary bash._ _A pre-movie bash of magical proportions._  
 __bash<sup>2</sup>__ _v_ :two::hammer:  
@@ -1590,7 +1613,7 @@ __belaboring__
 __belate__ _v_ :five::hammer: (belated)  
 __belated__ _adj_ :six: /bih-LAY-tud/ /bɪˈleɪtɪd/ Happening or coming very late or too late. _Olivia called her friend on his birthday to let him know that a belated gift from her was on its way._ _A belated shoutout to Dave for his recent contribution to the museum._  
 __belatedly__ _adv_ :seven: Later than usual or than expected.  
-__belay__ _v_ :es: amarrar  
+__belay__ _v_ :three::hammer::camera: :es: amarrar  
 __belch<sup>1</sup>__ _v_ :three::hammer: _Smoke belched._ _Steam belches from the nuclear power plant._  
 __belch<sup>2</sup>__ _n_  
 __beleaguer__ _v_ :three: /bih-LEE-gur/ To beleaguer a person, business, etc. is to cause them constant or repeated trouble. _Beleaguer_ is also sometimes used as a synonym of besiege.  
@@ -1684,7 +1707,7 @@ __best boy__ _n_ The chief assistant to the gaffer on a movie or television set.
 __best effort__ _n_ :two::hammer:  
 __best in show__  
 __best__ _v_ :five: (bested) To get the better of; beat. _Bivalirudin bests heparin for treating heart attack patients undergoing PCI._  
-__best-in-class__  
+__best-in-class__ _adj_ :two: Something that is considered the best or highest quality within its category or field. It’s often used to describe products, services, or performance that set the standard for excellence, outperforming others in terms of features, quality, or effectiveness.  
 __best-of-breed__ _adj_  
 __bestest__ _adj_ _informal + humorous_ Best.  
 __bestiary__ _n_ A book consisting of a collection of descriptions of real and fabulous animals, often including a moral or allegorical interpretation of each animal’s behavior. Bestiaries were particularly popular in medieval Europe.  

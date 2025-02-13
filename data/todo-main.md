@@ -18,56 +18,6 @@ __adversary__ _n_ :mega: /ˈæd vərˌsɛr i/ /ˈædvəsərɪ/ /AD-ver-sair-ee/ 
 __affidavit__ _n_  
 __affordable__ _adj_ :pencil2:  
 __afoot__ _adj, adv_  
-__agency__ _n_ :three::hammer:  
-__agonist__ _n_  
-__agonistic__ _adj_ Striving to overcome in argument. _Syn_ combative _The incumbent’s aggressive, agonistic approach to the debate alienated many of his supporters._  
-__Ahabian__ _adj_  
-__airily__ _adv_ _Syn_ flippantly  
-__airlock__ _n_ A chamber that provides access to space where air is under pressure. _Syn_ air lock  
-__Alanis__ _n_ /əˈlænɪs/  
-__alkali__ _n_ Any of various water-soluble compounds capable of turning litmus blue and reacting with an acid to form a salt and water. _Syn_ base  
-__all-encompassing__ _adj_ Including everything or everyone. _We’re unlikely to find an all-encompassing solution._  
-__allision__ _n_ (_vs_ collision)  
-__allusion__ _n_ /uh-LOO-zhun/  
-__alum__ _n_  
-__amalgamate__ _v_ /uh-MAL-guh-mayt/ _Amalgamate_ is a formal verb meaning “to unite (two or more things) into one thing.”  
-__amplify__ _vt_ :astonished: __2__ To add to, as by illustrations; make complete.  
-__amulet__ _n_ :two: An object worn, especially around the neck, as a charm against evil or injury.  
-__andirons__ _n_  
-__anemone__ _n_ :mega: /əˈnɛm əˌni/ /uh–nem–uh-nee/  
-__anoxia__ _n_  
-__antler__ _n_ A horny growth on the head of a deer, moose, elk, or other related animal, usually having one or more branches. Antlers typically grow only on males and are shed and grown again each year.  
-__antsy__ _adj_ Nervous and unable to relax. _Syn_ fidgety, fretful, itchy _The long wait made the children antsy._  
-__apnea__ _n_ :mega: /ˈæp ni ə, æpˈni ə/ (compare vs _sleep apnea_)  
-__apoplexy__ _n_  
-__appalled__ _adj_  
-__appalling__ _adj_  
-__apprehension__ _n_ /ap-rih-HEN-shun/ _Apprehension_ most often refers to the fear that something bad or unpleasant is going to happen; it’s a feeling of being worried about the future. The word can also refer to seizure by legal process. _There is growing apprehension that next quarter’s profits will be lower than expected._  
-__approach__ _n_ :es: actitud  
-__aquaplaning__ _n_ :pencil2:  
-__aquiline__ _adj_  
-__arbiter__ _n_ One chosen or appointed to judge or decide a disputed issue. _Syn_ arbitrator, umpire  
-__arctic<sup>1</sup>__ _adj_ __1__ Of or relating to the Arctic: _arctic temperatures._ __2__ _informal_ Cold; freezing: _the weather at Christmas was arctic._  
-__arctic<sup>2</sup>__ _n_  
-__armamentarium__ _n_ :astonished: _(Medicine)_ The items that comprise the material and equipment used by a physician in his professional practice.  
-__armistice__ _n_ /AHR-muh-stus/  
-__Arthur__ _n_ A legendary king of the Britons whose story is based on traditions of a sixth century military leader.  
-__articulate__ _v_  
-__ataractic__ _adj_ Of or relating to a drug or other agent that has a tranquilizing effect. _Syn_ sedative, tranquilizing _Valium has an ataractic effect that is useful in treating tension and anxiety._  
-__atonement__ _n_ Amends or reparation made for an injury or wrong. _Syn_ expiation, satisfaction  
-__audition__ _n_ /aw-DISH-un/ An audition is a short performance to show the talents of someone (such as an actor or a musician) who is being considered for a role in a play, a position in an orchestra, etc. _Auditions will be held next week for the spring musical._  
-__austere__ _adj_ :mega:  
-__Ayurveda__ _n_ The conventional Hindu system of medicine, founded chiefly on naturopathy and homeopathy.  
-__back seat__ _n_ __2__ _informal_ A subordinate or inconspicuous position (esp in the phrase _take a back seat_).  
-__backlash__ _n_  
-__backstab__ _vt_ :smiling_imp:  
-__badger__ _v_  
-__baldric__ _n_ :camera: A belt, usually of ornamented leather, worn crossbody to support a sword or bugle. _Baldrics were very important to Wookiee culture; a Wookiee earned the right to wear a baldric after completing a hrrtayyk ceremony._  
-__bare__ _vt_ __1__ To make bare; uncover or reveal: _bared their heads; baring secrets._ __2__ To expose: _The dog bared its teeth._  
-__barracks__ _n pl_ :two: /ˈbærəks/ __1__ A building or group of buildings used to accommodate military personnel.  
-__baseline__ _n_  
-__belay__ _v_ :two::hammer::camera:  
-__best-in-class__ _adj_ Something that is considered the best or highest quality within its category or field. It’s often used to describe products, services, or performance that set the standard for excellence, outperforming others in terms of features, quality, or effectiveness.  
 __bidding__ _n_  
 __blueprint__  
 __bulldozer__ _n_ __1__ A powerful tractor fitted with caterpillar tracks and a blade at the front, used for moving earth, rocks, etc. __2__ _informal_ A person who bulldozes. An overbearing person; a bully. _Syn_ browbeater, bully, hector, intimidator  
