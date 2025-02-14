@@ -18,6 +18,7 @@ __adversary__ _n_ :mega: /ˈæd vərˌsɛr i/ /ˈædvəsərɪ/ /AD-ver-sair-ee/ 
 __affidavit__ _n_  
 __affordable__ _adj_ :pencil2:  
 __afoot__ _adj, adv_  
+__apprehend__ _v_ :two::hammer:  
 __bidding__ _n_  
 __blueprint__  
 __bulldozer__ _n_ __1__ A powerful tractor fitted with caterpillar tracks and a blade at the front, used for moving earth, rocks, etc. __2__ _informal_ A person who bulldozes. An overbearing person; a bully. _Syn_ browbeater, bully, hector, intimidator  
@@ -35,6 +36,7 @@ __checkout line__ _n_ A queue of people waiting to pay for purchases.
 __chemistry set__ _n_ An educational toy allowing the user (typically a teenager) to perform simple chemistry experiments.  
 __cherub__ _n_ /ˈtʃɛr əb/  
 __chide__ _v_ :two::hammer:  
+__chimera__ _n_ :mega:  
 __chitinous__ _adj_ Of or resembling chitin.  
 __choir__ _n_ :mega: /kwaɪər/ /kwahyuhr/  
 __choker__ _n_  
@@ -56,18 +58,26 @@ __coalesce__ _v_
 __code__ _n_ [Note: _Code_ is usually uncountable in programming contexts, but it can be countable when referring to different kinds of code (like various coding systems, encryption codes, or different pieces of code), like _The software uses multiple codes to encrypt data._]  
 __colorful__ _adj_ :astonished:  
 __conformal__ _adj_ [:scroll: from Late Latin _conformālis_ having the same shape, from Latin _com-_ same + _forma_ shape]  
+__counterfeit<sup>1</sup>__ _vt_  
+__counterfeit<sup>2</sup>__ _vi_  
+__counterfeit<sup>3</sup>__ _adj_  
+__counterfeit<sup>4</sup>__ _n_  
 __countless__  
 __coup__ _n_  
 __crisis__ _n_ :mega: /ˈkraɪ sɪs/ (_n pl_ crises /ˈkraɪ siːz/)  
 __deliver__ _v_  
 __demagogue__ _n_ (demagog)  
+__demonstrator__  
 __detail__ _n_ __7a__ A group of military personnel assigned to a particular duty, usually a fatigue duty. __b__ The duty assigned: _garbage detail._  
+__detainment__  
 __didactics__ _n_ The activities of educating or instructing; activities that impart knowledge or skill. _Syn_ education, instruction, pedagogy, teaching  
+__diorama__ _n_  
 __dismantle__ _vt_  
 __disputatious__ _adj_ /dis-pyuh-TAY-shus/ _Disputatious_ is a formal word used to describe someone who often disagrees and argues with other people (in other words, someone inclined to dispute). It can also describe something marked or characterized by arguments or controversies, or something that provokes debate or controversy. _The podcast is hosted by a disputatious pair whose sparring has drawn legions of listeners._  
 __dissipation__ _n_ _Heat dissipation._  
 __distil__ _v_  
 __divers__ _adj_ /DYE-verz/ Numbering more than one. _The tri-county fair offers divers amusements for the whole family._  
+__dreadnought__ _n_  
 __ecstatic__ _adj_ /ek-STAT-ik/ Someone described as ecstatic is very happy or excited; the person feels or shows ecstasy—that is, rapturous delight.  
 __edgeways__  
 __edify__ _v_ /ED-uh-fye/ To edify someone is to teach them in a way that improves their mind or character.  
@@ -75,6 +85,7 @@ __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to de
 __elusive__ _adj_ :mega: /ɪˈlu sɪv/  
 __emaciated__  
 __embolden__ _vt_ To foster boldness or courage in. _Syn_ encourage  
+__emo__ _adj_ (often derogatory) Emotional; sensitive.  
 __enamel__ _n_ :mega: /ɪˈnæm əl/  
 __encroach__ _v_ /in-KROHCH/ To encroach is to gradually move or go into an area that is beyond the usual or desired limits, or to gradually take or begin to use or affect something that belongs to, or is being used by, someone else. _Encroach_ is often followed by _on_ or _upon._ _Conflicts between people and bears increase as humans continue to encroach on bear territory._  
 __encroachment__ _n_ :es: intromisión  
@@ -89,6 +100,7 @@ __fab<sup>1</sup>__ _n_ _informal_ Fabrication: _building a shed of metal fab._
 __fab<sup>2</sup>__ _adj_ _slang_ Fabulous; wonderful.  
 __fabless__ _n_  
 __face__ _n_ :mega: /feɪs/ (_vs_ phase /feɪz/)  
+__face-lift__ _n, vt_  
 __facetious__ _adj_ /fuh-SEE-shuss/ _Facetious_ is used to describe something, such as a remark or behavior, that is meant to be humorous or funny but is sometimes instead annoying, silly, or improper. It can also be used to describe someone who is joking, often implying that they are doing so inappropriately.  
 __fang__ _n_  
 __fault line__ _n_  

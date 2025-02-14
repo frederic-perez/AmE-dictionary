@@ -57,6 +57,7 @@ __DILF__ Dad I’d like to f*ck.
 __DJ__ Dear John _(break up letter)_  
 __DMV__ :two: Department of Motor Vehicles.  
 __DNF__ Did not finish.  
+__DNI__ Director of National Intelligence. _DNI nominee._  
 __DOJ__ Department of Justice.  
 __DoS__ Denial of service. _We ended up DoS’ing our cafes._  
 __DOT__ Department of Transportation.  
@@ -110,6 +111,7 @@ __HSIA__ High speed Internet access.
 __HTN__ Hypertension.  
 __HVAC__  
 __hx__ Medical history. _The only relevant hx is WPW ablation 20 years prior._  
+__ICE__ Immigration and Customs Enforcement.  
 __ICU__ Intensive care unit.  
 __ICYMI__ An abbreviation for “in case you missed it,” alerting someone to something that they might not have seen or heard about. _ICYMI, these are the five biggest fashion trends for summer._  
 __IDF__ Israel Defense Forces.  
@@ -163,6 +165,7 @@ __NCO__
 __NDA__  
 __NG__ Not guilty. _The NG celebration at the bar._  
 __NGO__ Nongovernmental organization.  
+__NHS__ Department of Health and Human Services.  
 __NICE__ National Institute for Health and Care Excellence.  
 __NLP__ Natural language processing.  
 __nos__ Numbers: _nos. 9 and 10._  
@@ -264,6 +267,7 @@ __VTOL__ Vertical Take-Off & Landing. A vertical take-off and landing aircraft.
 __w/__ :two: With. On drawings, abbr. for “with.”  
 __w/o__ Without.  
 __WFH__ :two: Working from home.  
+__WH__ White House.  
 __WHO__ World Health Organization.  
 __whoops__ _interj_ Oops.  
 __WMO__ :three: World Meteorological Organization.  

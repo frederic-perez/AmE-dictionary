@@ -12,6 +12,7 @@ __(just) for the fun of it__
 __(one’s) heart bleeds for (someone)__ One feels sorrow or sadness for someone who is experiencing hardships. The phrase can also be said sarcastically to mean the opposite.  
 __(one’s) lucky day__ /ˈsʌb tərˌfyudʒ/ A particular day or moment in one’s life when one experiences extremely good luck, fortune, or favor. _Wow, that’s the third hand of poker I’ve won in a row—it must be my lucky day!_  
 __(out) on a limb__  
+__(someone’s) take on (something)__  
 __(someone) ain’t seen nothing yet__  
 __(stuck) in a rut__  
 __(the good) Lord willing and the creek don’t rise__ _rural_ If all goes as it should; if everything goes well. _We’ve had a lot of delays, but Lord willing and the creek don’t rise, we should have the house finished before winter._  
@@ -65,6 +66,7 @@ __around the clock__ ((a)round the clock)
 __at (one’s) convenience__ _At your convenience, Captain._  
 __at large__  
 __at lightning speed__  
+__at the end of the day__  
 __badass__  
 __battle-hardened__  
 __be hell-bent on (something)__ To be very determined to do something, perhaps to an excessive degree. _She’s hell-bent on coming here for Thanksgiving, so we better clean the guest room._  
@@ -82,12 +84,15 @@ __brood over__ To worry anxiously or be despondent about something or someone, e
 __bump in the road__ A problem that arises and interferes with forward progress (usually only temporarily).  
 __by agency of__ The phrase “by agency of” means “through the action or help of” or “by means of.” It’s used to indicate that something happens because of the intervention or work of a particular person, force, or process. For example, if you say, “The decision was made by agency of the manager,” it means that the manager’s actions or influence were responsible for the decision being made.  
 __Canadian tuxedo__ (US, fashion, derogatory) An outfit consisting of denimwear for tops and bottoms, such as a jean jacket and jeans (pants).  
+__case in point__  
 __catch a break__  
 __catch up with (someone)__  
 __close to one’s chest__  
 __cold email__ An unsolicited email sent to someone with whom the sender has no prior relationship, usually for professional or business purposes.  
 __come to a head__ To reach a point of intensity at which action must be taken.  
+__come to terms__  
 __come to think of it__ :dart: _set phrase_ Used when one has had a sudden realization. _Yeah, come to think of it, Dave was at the party, too._  
+__comes with the job__  
 __conspiracy theory__ _n_ The belief that the government or a covert organization is responsible for an event that is unusual or unexplained, esp when any such involvement is denied.  
 __cook up__  
 __corny__  
@@ -168,6 +173,7 @@ __feel like a million bucks__ :astonished: To feel exceptionally attractive or i
 __feel like doing something__  
 __feel out__  
 __feel puny__ To feel sick. _I woke up feeling puny, so I just stayed in bed all day._  
+__first off__  
 __fumble the ball__ “Fumble the ball” and “drop the ball” are similar in meaning and can often be used interchangeably. Both idioms refer to making a mistake or failing to perform a task properly, especially when it’s important or when someone misses an opportunity. However, “fumble the ball” may sometimes carry a slightly more connotative idea of clumsiness or mishandling, while “drop the ball” is more commonly used to emphasize failing to follow through or neglecting responsibility. Despite these subtle differences, they are generally understood in the same way.  
 __Galentine’s Day__ _informal_ [:scroll: Blend of _gal_ + _Valentine’s Day_, originally the title and subject of the 16th episode of the second season of the American comedy television series _Parks and Recreation_, first broadcast in 2010.] A day on which women hold a party around the time of Saint Valentine’s Day, typically on February 13.  
 __galvanize (one) into action__ To induce or cause one to start doing something.  
@@ -266,7 +272,8 @@ __If you can’t beat ’em, join ’em__
 __iffy__  
 __in (one’s) book__  
 __in a bit__  
-__in a flash__ Immediately; very quickly; at once. _Just call us on this number if you have any problems, and we’ll be back in a flash._  
+__in a few days time__ “In a few days’ time” refers to a point in the near future, typically within a few days (usually around 2 to 5 days). It suggests something that will happen or be expected to occur shortly, but not immediately.  
+__in a flash__ :two: Immediately; very quickly; at once. _Just call us on this number if you have any problems, and we’ll be back in a flash._  
 __in a flutter__ In a nervous, confused, or agitated state.  
 __in a huff__ :smiling_imp: In an angry, belligerent, or vexed manner. _Don’t go off in a huff like that, it was only a joke!_  
 __in a measure__ To a certain degree or extent; somewhat.  
@@ -279,6 +286,9 @@ __in all likelihood__
 __in all seriousness__  
 __in and of itself__  
 __in any event__  
+__in big trouble__ “In big trouble” means being in a difficult or problematic situation, often with serious consequences or challenges. It suggests that someone is facing significant issues or risks that could lead to negative outcomes.  
+__in fairness__  
+__in one’s book__  
 __in so doing__ “In so doing” is a phrase used to refer to the action someone is taking or has taken, often implying that something happens as a result of that action. It essentially means “by doing this” or “in this act.”  
 __in the middle of nowhere__  
 __in the nick of time__  
@@ -326,6 +336,7 @@ __keep a lookout (for somebody/something)__
 __keep a sharp lookout (for something or someone)__ To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep a sharp lookout._  
 __keep an eye peeled (for something or someone)__ To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep an eye peeled._ _Keep an eye peeled for a Christmas present we could give your mother._  
 __keep body and soul together__  
+__keep faith__  
 __keep pace__ :two::hammer:  
 __keep tabs on (someone or something)__  
 __keep the lid on (something)__  
@@ -444,7 +455,7 @@ __lose track of (someone or something)__
 __loss of face__ The state or circumstance of having lost the respect of other people, as due to having done something improper or unacceptable. _After my terrible loss of face in front of the in-laws, I knew I couldn’t return to their home for the foreseeable future._  
 __lost cause__  
 __lost in translation__  
-__loud and clear__  
+__loud and clear__ :two::hammer:  
 __love handles__ ((love) handles, spare tyres, Dunlops disease, Dunlop Syndrome) _euphemism_ [So called because supposed to be grabbed by a partner in sexual intercourse.]  
 __low man on the ladder__ The person (not necessarily male) with the least amount of experience, authority, and/or influence in a social or corporate hierarchy. _It can be a little daunting going from being a senior in high school to low man on the ladder again as a college freshman._  
 __lower the bar__  
@@ -462,14 +473,20 @@ __make a hole in (something)__ To take, use up, or deplete a large amount of mon
 __make a leg__ _obsolete_ To make a show of obeisance or fealty by bowing deeply (drawing one’s right leg back in the process).  
 __make a long arm for (something)__ To extend one’s arm fully toward something; to reach out for something. _Mary’s new boyfriend made a long arm for the bottle of wine at the end of the table, helping himself to another glass._  
 __make a run for (someone or something)__ To run in order to escape something or to reach a destination quickly, perhaps before a certain time or before something happens. _Our taxi was late picking us up, so we’re going to have to make a run for the train when we get to the station!_  
+__make a wide stride__ To make great and rapid progress or advancement. _The one-time political advisor has been making a wide stride toward absolute control of the country._  
+__make advances at (one)__ To approach one in a flirtatious, amorous, or sexual manner; to try or begin to seduce one. _Terry was fired after he began making advances at his secretary._  
+__make an end of (something)__ To stop, cease, or conclude something. _I’m going to make an end of the corruption in this department once and for all!_  
+__make as though__ To behave as if; to pretend or make it appear that. _Mark’s boyfriend always makes as though he cares deeply about other people’s problems, but he’s never willing to actually help._  
 __make good on (something)__ :two: To fulfill an obligation, such as keeping a promise or paying a debt. _Tom made good on his pledge to donate $1,000. Bill refused to make good on his promise._  
 __make inroads__ :two::hammer:  
 __make it up__  
 __make no mistake__ :three::hammer:  
-__make or break__  
+__make or break__ :two::hammer:  
 __make the most of it__  
-__make waves__  
+__make waves__ :three::hammer:  
 __meant to be__  
+__memento mori__  
+__memento vivere fac vitam incredibilis__ A Latin phrase that translates to “Remember to live, make an incredible life.”  
 __mince words__  
 __mind (one’s) p’s and q’s__  
 __miss the boat__  
@@ -521,6 +538,7 @@ __no accident__ Something done deliberately. _It is no accident that the assista
 __no big deal__ :two::hammer:  
 __no hard feelings__ :es: sin rencores  
 __no question about it__  
+__normie__ (slang, usually derogatory, sometimes Internet) A normal person; one with commonly held, normative beliefs, tastes or interests.  
 __north star__ Something or someone that serves as a guiding principle, source of direction, or inspiration in one’s life.  
 __not a snowball’s chance in hell__ Not any possibility, chance, or likelihood whatsoever. _There isn’t a snowball’s chance in hell that he would win an election in this part of the state._  
 __not be lost on (someone)__ To have a significant or noticeable impact or effect on someone; to be valued, appreciated, or understood by someone. _I assure you, Senator, the implications and possible consequences of the proposed law have not been lost on me._ _I hope all our efforts to help your career have not been lost on you, John._  
@@ -579,6 +597,7 @@ __on another subject__
 __on autopilot__ (Functioning) automatically, without thinking about one’s actions, generally because one has done something many times in the past. _By the second week of data entry, I could fill in the spreadsheets on autopilot._  
 __on edge__ Anxious and tense.  
 __on occasion__ :two::pencil2: Once in a while; occasionally.  
+__on one’s feet__  
 __on paper__ __2__ Hypothetically or in theory.\_ It’s a good idea on paper, but I don’t think it would work in a real-world environment.\_  
 __on par (with someone or something)__  
 __on speaking terms__  
@@ -606,6 +625,7 @@ __on the same page__
 __on the short end__ To receive the less favorable or less advantageous part of a deal or situation. _Syn_ get the short end of the stick  
 __on the sidelines__ :two: In a position in which one is not actively participating in something.  
 __on the spot__ __1__ At once in one’s exact location; right then and there. Hyphenated if used before a noun.  
+__on the table__  
 __on the verge of (doing) (something)__  
 __on the verge of__  
 __on the whole__ Considering everything together; in general or for the most part.  
@@ -628,24 +648,27 @@ __pay tribute to (someone or something)__ To do something as a way of publicly s
 __penguin tuxedo__ The term “penguin tuxedo“ is often used humorously or figuratively to describe a penguin’s natural appearance, as their black-and-white plumage resembles the look of a tuxedo—a formal suit with a black jacket and white shirt.  
 __pin down__  
 __play tag__  
+__point being__  
 __point the finger at (one)__  
 __pomp and circumstance__ Celebration accompanied by traditional formalities and ceremony. _Please, there’s no need for all this pomp and circumstance. I’m just an ordinary guest who has come to enjoy the performance like everyone else._  
 __pot shot__  
 __pour cold water on (something)__  
 __pour fuel on the fire__  
 __pour gas/gasoline on the fire__  
-__practice makes perfect__  
+__practice makes perfect__ :two::hammer:  
 __pray to the enamel god__  
 __pray to the porcelain god__  
 __pull rank (on one)__  
 __push (one’s) buttons__  
 __put the brakes on (someone or something)__  
+__put the jinx on (something or someone)__ To invoke a curse upon someone or something that brings bad luck or failure.  
 __put to good use__ (put (something) to good use) To use something in a way that will be beneficial or have significant results. Employ to the best advantage, as in _I’m sure this dictionary will be put to good use._  
 __quid pro quo__  
 __race to (someone or something)__ To move, run, drive, etc., in a very hurried or frantic manner to some person, thing, or destination. _I have to race to the bank so I can deposit this check before they close._  
 __raise the ante__  
 __read between the lines__  
 __recipe for disaster__ The phrase “recipe for disaster” refers to a situation or combination of actions that is likely to result in failure, trouble, or a negative outcome.  
+__repro__ :dart: __1__ _n_ (informal, computing) A method for reproducing a bug or problem. _Repro steps._ __2__ _v_ (informal, computing) To reproduce (a bug or problem).  
 __ring a bell__  
 __ring false__  
 __ring true__  
@@ -699,7 +722,9 @@ __set eyes on something__
 __set in cement__ Firmly or permanently established; not subject to change; unalterable.  
 __set in stone__  
 __set the bar (high/low)__  
+__set the tone__ To establish the mood of something, or the manner in which something will be conducted.  
 __set up shop__ :two::hammer:  
+__sex trafficking__ Human trafficking for the purpose of sexual exploitation.  
 __sexual advance__ An attempt to gain some form of sexual favor or gratification from another person.  
 __sexual advances__  
 __Shangri-la__ A utopian paradise. A reference to the fictional Tibetan paradise described in James Hilton’s 1933 novel _The Lost Horizon._  
@@ -719,6 +744,7 @@ __shoot (oneself) in the foot__
 __shoot for the stars__ To set one’s goals or ambitions very high; to try to attain or achieve something particularly difficult.  
 __shoot from the hip__ To speak or act without careful thought or preparation. Many of Ellroy’s characters, particularly his hard-edged protagonists, do this in their dealings, whether in dialogue or action.  
 __shop around (for something)__ :dart::three: To browse different stores, vendors, or selections to find the best price or option for something one wants to buy.  
+__short call__  
 __short-handed__ :es: falto de personal  
 __shortlisted__ Placed on a final list (a shortlist) of people or things that are being considered for something, such as an award or a position of employment. _I was so shocked to hear that my story was shortlisted for the fiction award!_  
 __shot through with (something)__ Containing something; interwoven, intermixed, or filled with something. _The rose was a lovely pink shot through with streaks of white._ _John’s comments are often shot through with sarcasm._ :es: impregnado  
@@ -782,6 +808,7 @@ __something of sorts__ An inferior example of a kind of something.
 __son of a gun__  
 __sort of__ _informal_ Used with adjectives, adverbs and verbs when something is difficult to describe or when the word you use is not exactly what you mean. _My new dress is sort of green._  
 __sort out__  
+__sound the alarm__ :two::hammer:  
 __sounds familiar__  
 __sounds like__  
 __spaghetti bender__  
@@ -795,8 +822,9 @@ __spill the beans__
 __spill your guts__ To confess or reveal all, often under pressure or coercion. Ellroy often has characters facing moral dilemmas, and this idiom fits the theme of characters who must decide whether to reveal their secrets or keep them buried.  
 __spin doctor__ :smiling_imp: Someone who gives a twisted or deviously deceptive version of an event. (Usually in the context of manipulating the news for political reasons.) _Things were going bad for the candidate, so he got himself a new spin doctor._ _A good spin doctor could have made the incident appear far less damaging._  
 __split hairs__  
+__splurge (on someone or something)__ To spend a lot of money (on someone or something) in an indulgent or self-gratifying manner.  
 __spoil for something__ _You are spoiling for a fight._ :es: te estás buscando pelea  
-__spoofing__ :smiling_imp: The practice of stealing, or attempting to steal, personal information over the phone or on the internet by pretending to be someone or something that legitimately requires such details.  
+__spoofing__ :two::smiling_imp: The practice of stealing, or attempting to steal, personal information over the phone or on the internet by pretending to be someone or something that legitimately requires such details.  
 __spur of the moment__  
 __square off__  
 __squiggle__ :dart: Any writing that is sloppy to the point of illegibility. _I’d share my notes with you, but I don’t think you’d understand my squiggles._  
@@ -847,6 +875,7 @@ __surprise, surprise__
 __swat__ _slang_ To contact emergency services, such as the police, with a fraudulent report of an emergency so that they respond in large numbers to a certain location, often done as a prank. The name refers to SWAT (“Special Weapons and Tactics”) teams, specialized police units that respond to especially dangerous situations. _Kids keep swatting celebrities’ houses, and police are coming down hard when they catch the person who did it._  
 __swatting__ _slang_ The act of contacting emergency services, such as the police, with a fraudulent report of an emergency so that they respond in large numbers to a certain location, often done as a prank. The name refers to SWAT (“Special Weapons and Tactics”) teams, specialized police units that respond to especially dangerous situations. _Swatting is much more dangerous than a simple prank—it diverts first responders who may be needed elsewhere._  
 __sweep (something) under the carpet__ __(sweep (something) under the rug)__  
+__sweet sixteen__  
 __swept the board__  
 __switch gears__  
 __sword of Damocles__ Any imminent, impending, or eventual trouble, danger, or disaster.  
