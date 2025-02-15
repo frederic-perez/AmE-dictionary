@@ -64,6 +64,7 @@ __and everything in between__ Including all the possibilities or varieties withi
 __anyone’s guess__  
 __around the clock__ ((a)round the clock)  
 __at (one’s) convenience__ _At your convenience, Captain._  
+__at any rate__  
 __at large__  
 __at lightning speed__  
 __at the end of the day__  
@@ -74,6 +75,7 @@ __be larded with (something)__
 __be made of sterner stuff__ To be very strong, determined, or of uncompromising character, especially in comparison to others. _Having to take care of both of us growing up, my brother George was made of sterner stuff as a kid than anyone else I knew._  
 __be on the lookout__ To be watching for something or someone. _Be on the lookout for my email! It will have all the instructions you need for the project._  
 __be up to (something)__  
+__bear hug__  
 __big player__ A “big player” typically refers to a person or entity that has significant influence, power, or importance in a particular field or industry. It can be used to describe someone with a lot of resources, experience, or market share, making them a key figure in a given situation or environment.  
 __bits and pieces__  
 __blah__ __1__ _mod._ Bland; dull. _After a blah day like this I need something really exciting like a hot bath._ __2__ _mod._ Depressed; worn out. _I’m really blah. Would you mind awfully if I just went home?_ __3__ _mod._ Alcohol intoxicated; very drunk. _We are going to get totally blah tonight._  
@@ -133,6 +135,7 @@ __draw to a close__
 __draw water__  
 __dreamboat__ A very attractive or appealing person.  
 __dribs and drabs__  
+__drop a bombshell__ To reveal something that is very surprising or unexpected.  
 __drop dead__  
 __drop the ball__ (See also _fumble the ball_)  
 __drum into__ :es: hacer aprender a la fuerza; machacar  
@@ -754,6 +757,7 @@ __shrink from (someone or something)__ :dart: __1__ To recede or recoil from som
 __shuffle off__  
 __shut out__  
 __shy away (from someone or something)__  
+__shy of (something)__  
 __shyster__ :smiling_imp::three: __1__ A practitioner of law who is unethical or immoral. [Think Saul Goodman from _Better call Saul_] _After the accident, I got calls from all sorts of shysters saying I could get rich if I let them sue the company on my behalf._ _Everyone knows she’s a total shyster who’ll go to any length to win her case._ __2__ By extension, someone of a dubious moral or legal standard; a suspected swindler, cheat, or fraud. _The shysters said the car was brand new, but it’s been having all sorts of problems ever since I bought it._  
 __sick at heart__  
 __sick__ _slang_ Excellent; superb. _He did some sick tricks on his skateboard._  
@@ -899,6 +903,7 @@ __take no notice of (something or someone)__
 __take on trust__  
 __take pot luck__ (take potluck)  
 __take sides__ :two: To choose a person or party whom one supports, defends, or agrees with in an argument.  
+__take something with a grain of salt__ (_BrE_ take something with a pinch of salt)  
 __take stock (of something)__  
 __take the fall (for someone or something)__  
 __take umbrage__ :two::hammer:  
@@ -912,6 +917,11 @@ __tape out__
 __team up (with one)__  
 __tear up__ __1__ To violently rip or pull someone or something into pieces. In this usage, a noun or pronoun can be used between “tear” and “up.” :es: destrozar  
 __tear your hair out__ (tear (one’s) hair out) _informal_ Act with or show extreme desperation. To be extremely anxious, worried, frustrated, or stressed out about something. _We’ve been tearing our hair out trying to figure out what’s causing the server outages._  
+__tee up__ __3__ To put someone or something into a position of readiness for some imminent action. In this usage, a noun or pronoun can be used between “tee” and “up.”  
+__the campaign trail__ :two: The schedule of traveling through various cities in which one stops and campaign for the election of a specific political candidate, possibly oneself. _You’d be a fine senator, so I’ll certainly endorse you on the campaign trail._  
+__the likes of (someone or something)__ :two: Anything comparable to someone or something. Typically used in a negative construction to indicate that something is unique or rare.  
+__the likes of__  
+__this time around__ A phrase often used to refer to the current occasion or situation in comparison to previous ones. It implies that there have been similar instances in the past, and it suggests a sense of awareness or reflection on how things might be different now.  
 __thread the needle__  
 __throw a tantrum__ (throw a (temper) tantrum) To have an outburst of childish or unreasonable anger, frustration, or ill temper. _I was so embarrassed when Danny started throwing a tantrum in the grocery store._  
 __throw a wrench into the works__ (throw a (monkey) wrench in(to) the works) To disrupt, foil, or cause problems to a plan, activity, or project. _We had everything in line for the party, but having the caterer cancel on us at the last minute really threw a wrench in the works!_  
@@ -935,21 +945,24 @@ __to the contrary__
 __to the rescue__ Used to express when someone or something has saved the day, or provided valuable help.  
 __to this day__ :two::hammer:  
 __tongue-tied__  
+__too good to be true__ (be too good to be true)  
 __top something off__  
 __topsy-turvy__ [:scroll: It likely comes from the combination of “top” and “turvy,” with “turvy” being related to the Old English word “terve,” which means to turn or to overturn.]  
+__touch and go__  
 __touch down__  
 __touch grass__ To participate in normal activities in the real world especially as opposed to online experiences and interactions.  
 __toughen up__  
 __trash__ __1__ _slang_ To discard or throw away something. _I’ve always regretted trashing my old collection of toys._ _I trashed the envelope._  
 __trials and tribulations__  
 __trick of the light__  
+__trickle in__ _Information trickling in._  
 __triple whammy__ A combination of three different elements, circumstances, or actions that results in a particularly powerful force, outcome, or effect. _Deregulation of the financial sector, securitization of huge amounts of various debt, and fluctuating national interest rates formed a triple whammy that sent the stock market crashing._  
 __trundle along__ To proceed along (something) in a slow, heavy, or ungainly manner.  
 __turn a deaf ear (to someone or something)__ To ignore or refuse to listen to someone or something; to fail to pay attention to something someone says. _Turn a deaf ear to rumors._  
 __turn heads__  
 __turn up the heat__  
 __under the gun__ :dart: In a stressful situation that requires quick action, often to meet a deadline; under pressure.  
-__under the hood__  
+__under the hood__ :two::hammer:  
 __unfamiliar territory__  
 __unpack__  
 __unsung hero__  
