@@ -3436,14 +3436,16 @@ __idiot mittens__ :two: Mittens or gloves that are attached to one’s sleeves b
 __if (one’s) life depended on it__ Under any circumstances; no matter what. (Used almost exclusively with a negative statement regarding something that one couldn’t or wouldn’t do.) _No way am I going to karaoke night. I couldn’t sing if my life depended on it!_  
 __if it ain’t broke, don’t fix it__  
 __if my memory serves me well, correctly, etc.__  
-__if nothing else__ :dart::two: A phrase used to indicate that something is a priority or the most important thing. _I know you’re busy today, so if nothing else, please make sure you respond to these messages._ _And if nothing else, Selig will be watching._  
+__if nothing else__ :dart::five: A phrase used to indicate that something is a priority or the most important thing. _I know you’re busy today, so if nothing else, please make sure you respond to these messages._ _If nothing else, we’ll at least get our money back._ _And if nothing else, Selig will be watching._  
 __if only__ :two::hammer:  
 __if the shoe fits, wear it__ If a description applies to you, then accept it.  
+__if worst comes to worst__ (if (the) worst comes to (the) worst) If the least ideal or preferred outcome happens.  
 __if you ask me__ :two::hammer:  
+__If you can’t beat ’em, join ’em__  
 __if you know what I mean__  
 __if you like__  
 __if you will__ :seven: If you wish to call it that. A phrase used to indicate that what one has just said is an uncommon, metaphorical, or original way of saying something. Similar to the phrases “so to speak” and “in a manner of speaking.” _A kind of preoccupation, or obsession if you will._ _This arrangement will allow us to eliminate our debt and get back to solid ground, if you will._  
-__iffy__ :two: _informal_ Questionable or uncertain.  
+__iffy__ :three: _informal_ Questionable or uncertain.  
 __imprint (something) in(to) (someone or something)__ To retain something in one’s memory.  
 __in (a) shambles__ :two::hammer:  
 __in (all good) conscience__ In all fairness; by any reasonable standard. _I cannot in conscience endorse Donald Trump._  
@@ -3451,7 +3453,7 @@ __in (all) fairness (to one)__
 __in (high) hopes of (something)__ :four::hammer:  
 __in (high) hopes that__  
 __in (one’s) best interest__  
-__in (one’s) book__  
+__in (one’s) book__ :two::hammer:  
 __in (one’s) day__ :dart: When one was younger; in one’s younger days. _Back in my day, the only thing we had to do for fun was stickball, and we were grateful for it!_  
 __in (one’s) dotage__ :dart::two: In a state of senility or mental decline due to old age. _My grandfather in his dotage has lately had trouble remembering our names._  
 __in (one’s) heart__  
@@ -3466,35 +3468,42 @@ __in (the) light of (something)__ :four: Considering (something); given (somethi
 __in a bad light__ :two: Negatively; under unfavorable circumstances. (Typically used with the verbs “see” or “show,” or some similar variation.) _I’m flattered that he based a character in his novel on me, but I think I was shown in a bad light._  
 __in a big bad way__  
 __in a big way__ :two: In a significant way or to a marked extent. Very much; badly- _She wanted to go in a big way._ _He wants to win in a big way._  
-__in a flutter__ In a nervous, confused, or agitated state.  
+__in a bit__  
+__in a few days time__ “In a few days’ time” refers to a point in the near future, typically within a few days (usually around 2 to 5 days). It suggests something that will happen or be expected to occur shortly, but not immediately.  
+__in a flash__ :two: Immediately; very quickly; at once. _Just call us on this number if you have any problems, and we’ll be back in a flash._  
+__in a flutter__ :two: In a nervous, confused, or agitated state.  
 __in a heartbeat__  
-__in a huff__ In an angry, belligerent, or vexed manner. _Don’t go off in a huff like that, it was only a joke!_ _Mary went off in a huff after her wife criticized her cooking._  
+__in a huff__ :smiling_imp::two: In an angry, belligerent, or vexed manner. _Don’t go off in a huff like that, it was only a joke!_ _Mary went off in a huff after her wife criticized her cooking._  
 __in a jam__ In a troublesome situation.  
 __ín a jiffy__ Immediately or very quickly; at once.  
 __in a lifetime__  
 __in a manner of speaking__ :dart: In a way; in a sense; so to speak. _He was a fixer, in a manner of speaking. A man who could get things done._  
-__in a measure__ To a certain degree or extent; somewhat.  
+__in a measure__ :two: To a certain degree or extent; somewhat.  
 __in a million years__  
+__in a month’s time__ The idiom “in a month’s time” refers to a period of one month from the present moment. It is used to indicate when something will happen or be completed. Essentially, it means “one month from now.”  
 __in a new light__  
 __in a nutshell__ :two::hammer:  
+__in a pinch__ When something ideal or preferred is not available; as a substitute. _I don’t have any cooking oil. Is there anything else I can add to the recipe in a pinch?_  
 __in a rut__  
 __in a similar vein__ :two::hammer:  
-__in a sorry state__ In a pitiful or abject condition.  
+__in a sorry state__ :two: In a pitiful, dysfunctional, or abject condition. _My business was in a sorry state after I left it under the control of my brother._ _John’s been in a sorry state lately—I think he’s taken up drinking again._  
 __in a tiff__ In a state of disagreement, often over something minor or petty.  
 __in a tizz(y)__ In a nervous, confused, agitated, or excited state.  
 __in a/the flash of an/the eye__ So quickly as to seem almost imperceptible (i.e., in the space of time it takes a person to blink).  
 __in abeyance__ :two: A phrase used to describe something as pending or suspended. _How long do you think they will hold the decision in abeyance? I’m eager to know what they think._ _The bishops held the proceedings against Wyclif in abeyance._ _You capture the inventory into containers that hold items in abeyance._  
-__in all honesty__ In one’s sincere opinion; without any disingenuousness.  
-__in all likelihood__  
-__in all seriousness__ :dart::two: In one’s sincere opinion; without any disingenuousness. _In all seriousness, I think this project plan is severely flawed._  
+__in all good faith__  
+__in all honesty__ :two: In one’s sincere opinion; without any disingenuousness.  
+__in all likelihood__ :two::hammer:  
+__in all seriousness__ :dart::three: In one’s sincere opinion; without any disingenuousness. _In all seriousness, I think this project plan is severely flawed._  
 __in all truthfulness__ In one’s sincere opinion; without any disingenuousness.  
 __in all__ :two::hammer: _I need five sailors in all._  
-__in and of itself__ :four: By itself, without considering any other factors. Considering it alone. _Yes, in and of itself, your statement isn’t a problem. But you have to understand how it sounded in the context of the conversation._ _Reading is wonderful in and of itself._  
-__in any event__ :five: In any case. :es: en cualquier caso, en todo caso _In any event, the audience seemed pleased with your performance._  
+__in and of itself__ :dart::five: By itself, without considering any other factors. Considering it alone. _Yes, in and of itself, your statement isn’t a problem. But you have to understand how it sounded in the context of the conversation._ _Reading is wonderful in and of itself._  
+__in any event__ :six: In any case. :es: en cualquier caso, en todo caso _In any event, the audience seemed pleased with your performance._  
 __in any way, shape, or form__  
 __in arrears__ :five: Behind or overdue, often because one has not made a payment as scheduled.  
 __in awe (of someone or something)__  
 __in behalf of (someone)__  
+__in big trouble__ “In big trouble” means being in a difficult or problematic situation, often with serious consequences or challenges. It suggests that someone is facing significant issues or risks that could lead to negative outcomes.  
 __in bits and pieces__ :three: In many small fragments. _Look what you.ve done! My favorite lamp is in bits and pieces on the floor!_  
 __in black and white__  
 __in broad (brush) strokes__  
@@ -3516,6 +3525,7 @@ __in droves__ :two: In large numbers. _It was a beautiful day, but the bees were
 __in due time__ :dart::three: Eventually; in an expected or reasonable duration of time. _You’ll get a promotion in due time. Just keep working hard._  
 __in earnest__ :dart::astonished::two: With sincere intentions. _If the two sides can’t sit down and negotiate in earnest, they’re never going to come to an agreement._  
 __in excess of__ :six: Over; greater or more than. _Infrasound can be detected in excess of 100 miles._ _It has been tested to wind speeds in excess of 100m/s._ _Roper hadn’t slept for a period in excess of 24 hours._ _The retail giant predicts earnings for the past year in excess of $4 million._  
+__in fairness__  
 __in favor (with someone)__ :two: Highly regarded (by someone); widely accepted or enjoyed (by someone). Primarily heard in US. _John had been in favor with his boss ever since he managed to secure that lucrative client._  
 __in fee__ :two: _law_ (specifically of land) In absolute legal ownership or subjection. _The courts have found that as the estate is in fee by Mrs. Williams, as arranged in the prenuptial agreement, Mr. Williams has no legal claim to the grounds or anything built thereon._  
 __in front of (one’s) nose__ Immediately obvious or clearly apparent.  
@@ -3549,6 +3559,7 @@ __in one blow__ :two: All at once, with a single decisive or powerful action.
 __in one breath__ Very quickly, as of someone who is speaking (usually while very excited).  
 __in one go__ All at one time or in one attempt. _We’ll never be able to carry all these boxes out in one go—we’ll have to make several trips._  
 __in one sitting__ In a single session; finishing a task in the same period when one sets out to do so. _The bookworm devoured her book in one sitting._  
+__in one’s book__  
 __in order that__ :two: So that; with the particular aim or purpose of.  
 __in other news__ :three: A segue into another topic. Used when you want to move on to a new subject, but have no real way to connect it to what you were talking about before.  
 __in over (one’s) head__ Too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer.  
@@ -3571,6 +3582,7 @@ __in short order__ :dart::six: With no delay; quickly. Quickly, efficiently, and
 __in short supply__ :two: Scarce.  
 __in sight__ Close to happening or being achieved. A noun or pronoun can be used between “in” and “sight.”  
 __in single file__ In a line one person or one thing in width.  
+__in so doing__ “In so doing” is a phrase used to refer to the action someone is taking or has taken, often implying that something happens as a result of that action. It essentially means “by doing this” or “in this act.”  
 __in so many words__  
 __in some sense__ Partly; in some or certain way(s).  
 __in someone else’s shoes__ Imagining oneself in the situation or circumstances of another person so as to understand or empathize with their perspective, opinion, or point of view. _If you haven’t spent time in someone else’s shoes, how can you judge them?_  
@@ -3624,14 +3636,14 @@ __in the long term__
 __in the loop__ :three::hammer:  
 __in the lurch__ In a particularly awkward, difficult, or troublesome situation. _I’ll really be left in the lurch if the manager decides to quit before this project is finished._ _The TV series was left in the lurch._  
 __in the making__ :five::hammer:  
-__in the middle of nowhere__ :three: In a place that is far away from other people, houses, or cities. _We got lost in the middle of nowhere._  
+__in the middle of nowhere__ :four: In a place that is far away from other people, houses, or cities. _We got lost in the middle of nowhere._  
 __in the midst of (something)__ :four::hammer:  
 __in the midst__  
 __in the mix__  
 __in the money__  
 __in the name of__ __2__ With someone or something as a basis, reason, or motivation. _They’re releasing the documents in the name of transparency, but I don’t think anyone is really interested in them._ _How many people have been killed in the name of religion?_  
 __in the next breath__ :three: (especially when speaking) In or at the very next moment or opportunity; in a very short space of time. _The boss spent nearly an hour talking about how we had to cut spending in the office, but in the next breath, he was telling his secretary to upgrade his company car._  
-__in the nick of time__ :three: Just at the critical moment; just in time. _I got to the drugstore just in the nick of time. It’s a good thing, because I really need this medicine!_  
+__in the nick of time__ :four: Just at the critical moment; just in time. _I got to the drugstore just in the nick of time. It’s a good thing, because I really need this medicine!_  
 __in the nude__ _Sleeping in the nude._  
 __in the offing__ :dart::two: __1__ In the near or immediate future; soon to come: _with exams finished and graduation in the offing._ _A budding rivalry could be in the offing._ __2__ Nearby; at hand.  
 __in the pipeline__ :dart::two: In progress or about to be started or implemented. _Don’t worry, your raise is in the pipeline for next quarter._  
@@ -3731,34 +3743,50 @@ __Jaysus__ Jaysus is an informal, colloquial form of the name Jesus, often used 
 __jazz up__ :two: To make something fancier, more festive, more exciting, etc., often through some form of adornment. _I’ve decided to jazz up my wardrobe with some statement shoes and other funky accessories._ _You need to add some excitement your story—jazz it up a bit._  
 __jazzed__  
 __jazzy__  
+__jeer at (someone or something)__ To mock, taunt, or scoff at someone or something. _Everyone in school jeered at me for wearing a pink sweater._  
 __Jekyll and Hyde__  
+__jerk (someone or something) out of (something)__ To pull, yank, or lift someone or something out of some place or thing. _Please tell me you didn’t jerk that loose tooth out of your little brother’s mouth._  
 __jerry-built__ _mod._ Carelessly and awkwardly built. _The lawyer’s case was jerry-built, but the jury bought it anyway._  
 __jet-setter__ A wealthy individual who travels globally, especially by private jet, to frequent fashionable resorts, social events, and the like.  
 __jibed (at something/at doing something)__ _old-fashioned, informal_ To be unwilling to do or accept something: _she agreed to attend but jibbed at making a speech._  
-__Jill of all trades(, master of none)__ A woman who is skilled in or adept at a wide variety of tasks or abilities (i.e., the female equivalent of “Jack of all trades”). If used with “master of none,” it implies that while competent in a variety of things, she is not highly skilled in a particular one.  
+__jigaboo__ _n_ (ethnic slur) Extremely offensive name for a Black person.  
+__Jill of all trades(, master of none)__ :dart::two: A woman who is skilled in or adept at a wide variety of tasks or abilities (i.e., the female equivalent of “Jack of all trades”). If used with “master of none,” it implies that while competent in a variety of things, she is not highly skilled in a particular one.  
 __jill__ (gill, Gillian) A young woman. _A jailbait jill._  
-__JK__ An initialism of “just kidding,” used especially in text messages and online communications to express that one was not being serious about their previous statement. Variously written as “JK,” “J.K.,” or “J/K,” in either uppercase or lowercase letters. _Yeah, def considering working on my uncle’s farm 4 the summer. haha jk lol_  
+__JK__ :two: An initialism of “just kidding,” used especially in text messages and online communications to express that one was not being serious about their previous statement. Variously written as “JK,” “J.K.,” or “J/K,” in either uppercase or lowercase letters. _Yeah, def considering working on my uncle’s farm 4 the summer. haha jk lol_  
 __Job’s comforter__ Someone who makes a person feel worse about a situation when trying to offer sympathy. A reference to the Biblical story of Job, who showed great faith amid difficult circumstances. _Larry is a real Job’s comforter. I know he was just trying to offer comforting words, but he made Maggie feel worse about her financial situation._  
 __jock__  
+__John Does__  
 __john__ _slang_ Toilet. The term is thought to derive from Sir John Harrington (1560 – 1612), he was an English courtier, author and translator popularly known as the inventor of the flush toilet.  
 __Johnnie-come-lately__ _n_ :three: (Johnny-come-lately) Someone new to a situation or status. _We were a Johnny-came-lately._  
 __Johnny One-Note__ Someone who repeatedly expresses or maintains a strong opinion on a single or a few particular subjects.  
+__join hands__ __2__ By extension, to work together to achieve some goal.  
+__join the fray__ __1__ To enter into some competitive endeavor.  
+__join the ranks (of something)__ To become a part or member of a large group or organization.  
 __joined at the hip__ :two: To be exceptionally close to someone.  
 __joking aside__ Used to introduce a serious statement that follows a humorous statement. _It looks like this is a job for Superman! But joking aside, this is a serious problem and we’re going to need help._  
 __jollies__ _slang_ Gun, thrills, enjoyment.  
+__jolly (one) along__ :dart: To encourage one (to do something), especially in a positive, cheerful manner. _I was getting disheartened writing my first novel, but my husband jollied me along to finish it._  
 __jolly (someone) along__ To encourage someone (to do something), especially in a positive, cheerful manner.  
 __jolly (someone) up__ To make (someone) happier or more cheerful; to cheer (someone) up.  
+__joy ride__ :smiling_imp:  
 __joy-joy feelings__  
 __jug-eared__ :astonished: Having ears that stick out markedly from the side of the head, thus resembling the handles of a jug.  
 __juggling act__  
+__jughead__ _slang_ A stupid or foolish person (as if their head is as empty as a jug). _He’s sweet, but he can be a real jughead sometimes._  
+__juice head__  
+__juicer__ _n_ (juicehead) A heavy drinker; a drunkard. _The tavern is always filled with juicers on Friday night._  
 __jump at the chance (to do something)__ To accept or seize with alacrity an opportunity (to do something).  
+__jump before (one) is pushed__ To take action willingly or proactively before being forced to do it.  
 __jump for joy__ To be very happy about something.  
 __jump in (one’s) skin__ To start or recoil, as from shock, surprise, or fear.  
+__jump in feet first__ To begin or undertake something quickly, enthusiastically, and without trepidation. _I know you’re nervous about starting school, but you just need to jump in feet first and do your best!_  
 __jump in line__  
-__jump in__  
+__jump in__ :two::hammer:  
+__jump into (something)__ __2__ To enter something quickly, especially a vehicle. _The bank robber jumped into the getaway car and sped off before the police arrived._ __3__ To begin or undertake something quickly, enthusiastically, and without trepidation. _I think we should take a bit more time to develop our business strategy before we jump right into anything._  
 __jump off__  
 __jump on (someone or something)__ _Amazon is jumping on the generative AI hype train._  
-__jump ship__ To leave a job or activity.  
+__jump scare__ In a film, television show, or video game, a moment in which something shocking or frightening happens or appears very abruptly, especially in conjunction with a loud, frightening sound. Sometimes spelled as a single word.  
+__jump ship__ :two: (abandon ship) To leave a job or activity. _Nearly all of (chatbot) Pi’s parent company, Inflection AI, decided to jump ship just 10 months after Pi’s launch._  
 __Jump Street__ Jump Street in the novels written by Elmore Leonard refers to a street in Detroit, Michigan. It is a significant location in Leonard’s crime fiction, particularly in his Raylan Givens series. Jump Street is often portrayed as a rough and dangerous area, reflecting the gritty and realistic portrayal of urban life that is characteristic of Leonard’s writing.  
 __jump the gun__ :dart::four: To start something before it is permissible, appropriate, or advisable. The phrase alludes to starting to run in a foot race before the starting gun goes off. In James Ellroy’s novels, it usually means to act prematurely or hastily, without waiting for the right moment. _Henry jumped the gun and sent the proofs to the printer before the boss approved them, and she was not happy._ _I probably jumped the gun with announcing our engagement before everyone was there, but I was just too excited._  
 __jump through hoops__ To do a lot of difficult things before you are allowed to have or do something you want.  
@@ -3766,12 +3794,15 @@ __jump to conclusions__ To make decisions or form opinions before one has all th
 __jump up and down__  
 __jump-start__ :two::hammer:  
 __jungle juice__ _slang_ Any improvised mixture of large amounts various hard liquors combined with small amounts of fruit juice.  
+__jungle law__  
 __juniper juice__  
 __junk in junk out__ (Computers) Expression used to express the relationship between input and output: erroneous input causes erroneous output.  
 __junkie__ __1__ _slang_ A drug addict, especially of heroin. __2__ _slang_ Anyone with an obsession over or excessive preoccupation with something, akin to an addiction. _I was a Howard Stern junkie._  
-__junkyard dog__ An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase “meaner than a junkyard dog.”  
+__junkyard dog__ :two: An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase “meaner than a junkyard dog.” _Though he’s always polite when he’s in public, Tiffany’s husband is meaner than a junkyard dog behind closed doors._  
 __just another day at the office__  
+__just as well__ The idiom “just as well” is used to express that something is actually a good outcome or a fortunate situation, often implying that the result is acceptable or perhaps even better than expected. It can also suggest that something is not bad, given the circumstances. _It’s just as well I didn’t bring an umbrella—it didn’t rain at all._  
 __just because__ _informal_ :three: For no specific or meaningful reason.  
+__just deserts__ :dart::pencil2:  
 __just out of curiosity__ A phrase used to express a sense of interest or a desire to know something without any particular reason or purpose.  
 __just saying__ :two: (I’m just saying) Used when you are making a criticism or complaint, to make it less likely to offend someone. _I’m just saying I think it could have been done a little more carefully, that’s all._ _Isn’t it a bit small for you? Just saying._  
 __just the same (to one)__  

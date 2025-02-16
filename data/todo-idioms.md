@@ -269,56 +269,6 @@ __I’ll believe it when I see it__ I highly doubt that could happen or is the c
 __if (one’s) life depended on it__ Under any circumstances; no matter what. (Used almost exclusively with a negative statement regarding something that one couldn’t or wouldn’t do.) _No way am I going to karaoke night. I couldn’t sing if my life depended on it!_  
 __if anything__  
 __if it ain’t broke, don’t fix it__ :two::hammer: (if it isn’t broke, don’t fix it)  
-__if nothing else__ :dart::three: A phrase used to indicate that something is a priority or the most important thing. _I know you’re busy today, so if nothing else, please make sure you respond to these messages._ _If nothing else, we’ll at least get our money back._  
-__if worst comes to worst__ (if (the) worst comes to (the) worst) If the least ideal or preferred outcome happens.  
-__If you can’t beat ’em, join ’em__  
-__iffy__  
-__in (one’s) book__  
-__in a bit__  
-__in a few days time__ “In a few days’ time” refers to a point in the near future, typically within a few days (usually around 2 to 5 days). It suggests something that will happen or be expected to occur shortly, but not immediately.  
-__in a flash__ :two: Immediately; very quickly; at once. _Just call us on this number if you have any problems, and we’ll be back in a flash._  
-__in a flutter__ In a nervous, confused, or agitated state.  
-__in a huff__ :smiling_imp: In an angry, belligerent, or vexed manner. _Don’t go off in a huff like that, it was only a joke!_  
-__in a measure__ To a certain degree or extent; somewhat.  
-__in a month’s time__ The idiom “in a month’s time” refers to a period of one month from the present moment. It is used to indicate when something will happen or be completed. Essentially, it means “one month from now.”  
-__in a pinch__ When something ideal or preferred is not available; as a substitute. _I don’t have any cooking oil. Is there anything else I can add to the recipe in a pinch?_  
-__in a sorry state__ In a pitiful, dysfunctional, or abject condition. _My business was in a sorry state after I left it under the control of my brother._ _John’s been in a sorry state lately—I think he’s taken up drinking again._  
-__in all good faith__  
-__in all honesty__  
-__in all likelihood__  
-__in all seriousness__  
-__in and of itself__  
-__in any event__  
-__in big trouble__ “In big trouble” means being in a difficult or problematic situation, often with serious consequences or challenges. It suggests that someone is facing significant issues or risks that could lead to negative outcomes.  
-__in fairness__  
-__in one’s book__  
-__in so doing__ “In so doing” is a phrase used to refer to the action someone is taking or has taken, often implying that something happens as a result of that action. It essentially means “by doing this” or “in this act.”  
-__in the middle of nowhere__  
-__in the nick of time__  
-__jeer at (someone or something)__ To mock, taunt, or scoff at someone or something. _Everyone in school jeered at me for wearing a pink sweater._  
-__jerk (someone or something) out of (something)__ To pull, yank, or lift someone or something out of some place or thing. _Please tell me you didn’t jerk that loose tooth out of your little brother’s mouth._  
-__jigaboo__ _n_ (ethnic slur) Extremely offensive name for a Black person.  
-__Jill of all trades(, master of none)__ :dart:  
-__JK__ An initialism of “just kidding,” used especially in text messages and online communications to express that one was not being serious about their previous statement. Variously written as “JK,” “J.K.,” or “J/K,” in either uppercase or lowercase letters. _Yeah, def considering working on my uncle’s farm 4 the summer. haha jk lol_  
-__John Does__  
-__join hands__ __2__ By extension, to work together to achieve some goal.  
-__join the fray__ __1__ To enter into some competitive endeavor.  
-__join the ranks (of something)__ To become a part or member of a large group or organization.  
-__jolly (one) along__ :dart: To encourage one (to do something), especially in a positive, cheerful manner. _I was getting disheartened writing my first novel, but my husband jollied me along to finish it._  
-__joy ride__ :smiling_imp:  
-__jughead__ _slang_ A stupid or foolish person (as if their head is as empty as a jug). _He’s sweet, but he can be a real jughead sometimes._  
-__juice head__  
-__juicer__ _n_ (juicehead) A heavy drinker; a drunkard. _The tavern is always filled with juicers on Friday night._  
-__jump before (one) is pushed__ To take action willingly or proactively before being forced to do it.  
-__jump in feet first__ To begin or undertake something quickly, enthusiastically, and without trepidation. _I know you’re nervous about starting school, but you just need to jump in feet first and do your best!_  
-__jump in__  
-__jump into (something)__ __2__ To enter something quickly, especially a vehicle. _The bank robber jumped into the getaway car and sped off before the police arrived._ __3__ To begin or undertake something quickly, enthusiastically, and without trepidation. _I think we should take a bit more time to develop our business strategy before we jump right into anything._  
-__jump scare__ In a film, television show, or video game, a moment in which something shocking or frightening happens or appears very abruptly, especially in conjunction with a loud, frightening sound. Sometimes spelled as a single word.  
-__jump ship__ (abandon ship) _Nearly all of (chatbot) Pi’s parent company, Inflection AI, decided to jump ship just 10 months after Pi’s launch._  
-__jungle law__  
-__junkyard dog__ An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase “meaner than a junkyard dog.” _Though he’s always polite when he’s in public, Tiffany’s husband is meaner than a junkyard dog behind closed doors._  
-__just as well__ The idiom “just as well” is used to express that something is actually a good outcome or a fortunate situation, often implying that the result is acceptable or perhaps even better than expected. It can also suggest that something is not bad, given the circumstances. _It’s just as well I didn’t bring an umbrella—it didn’t rain at all._  
-__just deserts__ :dart::pencil2:  
 __just desserts__ :dart::astonished:  
 __just like that__ :three::hammer: ((just) like this/that)  
 __just saying__ :two::hammer:  
