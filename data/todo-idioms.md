@@ -5,6 +5,7 @@ __(as) good as dead__
 __(as) mad as a wet hen__ Enraged; extremely or inconsolably angry. _My dad was mad as a wet hen after I crashed his car._  
 __(as) mad as hops__ Enraged; extremely or inconsolably angry. _My dad was mad as hops after I crashed his car._  
 __(as) quick as a bunny__ Incredibly quickly or speedily. _Quick as a bunny, Mary finished her exam and raced out of the classroom._  
+__(be) on hand__  
 __(it’s) (a)bout time__ :dart::two:  
 __(it’s) just as well (that) (something happened)__ It is or turned out to be beneficial (that something happened). _It turned out we had a pop quiz on Monday. Just as well I was studying this weekend!_  
 __(it’s) little wonder__ It is not at all surprising (that something is the case). _I was always terrible at math in school, so it’s little wonder that I have such trouble filing my taxes._  
@@ -62,6 +63,7 @@ __all too easy__
 __all too soon__ The idiom “all too soon” means that something happened much earlier than expected or desired, often with a sense of regret or disappointment. It conveys the idea that an event occurred prematurely or that a positive experience ended quickly. “The holidays were over all too soon,” implies that the speaker wished the holidays had lasted longer. “Graduation came all too soon,” suggests that the speaker felt unprepared for the end of their schooling.  
 __and everything in between__ Including all the possibilities or varieties within a range. _The store sells clothes for men, women, and children, and everything in between._ _Life has its ups and downs, and everything in between._  
 __anyone’s guess__  
+__anything goes__  
 __around the clock__ ((a)round the clock)  
 __at (one’s) convenience__ _At your convenience, Captain._  
 __at any rate__  
@@ -74,6 +76,7 @@ __be hell-bent on (something)__ To be very determined to do something, perhaps t
 __be larded with (something)__  
 __be made of sterner stuff__ To be very strong, determined, or of uncompromising character, especially in comparison to others. _Having to take care of both of us growing up, my brother George was made of sterner stuff as a kid than anyone else I knew._  
 __be on the lookout__ To be watching for something or someone. _Be on the lookout for my email! It will have all the instructions you need for the project._  
+__be up in the air__ To be uncertain or subject to change.  
 __be up to (something)__  
 __bear hug__  
 __big player__ A “big player” typically refers to a person or entity that has significant influence, power, or importance in a particular field or industry. It can be used to describe someone with a lot of resources, experience, or market share, making them a key figure in a given situation or environment.  
@@ -85,19 +88,22 @@ __bring about__
 __brood over__ To worry anxiously or be despondent about something or someone, especially at great length and in isolation. _I know you’re upset about failing your exam, but don’t brood over it all weekend._  
 __bump in the road__ A problem that arises and interferes with forward progress (usually only temporarily).  
 __by agency of__ The phrase “by agency of” means “through the action or help of” or “by means of.” It’s used to indicate that something happens because of the intervention or work of a particular person, force, or process. For example, if you say, “The decision was made by agency of the manager,” it means that the manager’s actions or influence were responsible for the decision being made.  
+__by any means__  
 __Canadian tuxedo__ (US, fashion, derogatory) An outfit consisting of denimwear for tops and bottoms, such as a jean jacket and jeans (pants).  
 __case in point__  
 __catch a break__  
 __catch up with (someone)__  
+__checks and balances__ :dart: Rules within a power structure that keep one person or section from becoming excessively powerful. _The founders created three separate branches of government to act as a system of checks and balances._  
 __close to one’s chest__  
 __cold email__ An unsolicited email sent to someone with whom the sender has no prior relationship, usually for professional or business purposes.  
 __come to a head__ To reach a point of intensity at which action must be taken.  
+__come to pass__  
 __come to terms__  
 __come to think of it__ :dart: _set phrase_ Used when one has had a sudden realization. _Yeah, come to think of it, Dave was at the party, too._  
 __comes with the job__  
 __conspiracy theory__ _n_ The belief that the government or a covert organization is responsible for an event that is unusual or unexplained, esp when any such involvement is denied.  
 __cook up__  
-__corny__  
+__corny__ :two::hammer:  
 __cut ties with (someone)__  
 __diddly__ _n_ :dart: __1__ Nothing; anything at all (when used in negative statements). _I have to admit that I know diddly when it comes to computers._ __2__ A small or worthless amount: _His advice wasn’t worth diddly to me._  
 __dig (something)__ _slang_ To understand, approve of, or enjoy something. _I really dig this music, man!_  
@@ -124,6 +130,7 @@ __doom and gloom__
 __double duty__  
 __double whammy__ A situation in which two negative things happen at the same time or in rapid succession. _Jack suffered a double whammy when his car broke down the same day he lost his job._  
 __down the line__ :two: In the future.  
+__down the road__  
 __down the toilet__  
 __downer__ :es: tranquilizante  
 __doze off__  
@@ -189,12 +196,14 @@ __ghost gun__ A gun without serial numbers that cannot be easily tracked, especi
 __give someone or something away__ To reveal a secret about someone or something. _I thought no one knew where I was, but my loud breathing gave me away._ _We know that Billy ate the cherry pie. The cherry juice on his shirt gave him away._  
 __glower at (someone or something)__ :three: To look at someone or something with anger or disapproval.  
 __go berserk__  
+__go for broke__ To give something one’s full effort. :es: y a por todas  
 __go missing__  
 __go postal__ :dart: _US informal_ [:scroll: This expression arose as a result of several recorded cases in the USA in which postal-service employees ran amok and shot colleagues] Go mad, especially from stress. Become extremely angry or start behaving in a violent and angry way. _According to one eye witness, the man ‘went postal, and started hitting his computer’_  
 __go south__  
 __go through hoops__ :astonished: To face or have to complete many challenges in pursuit of something that one wants, especially challenges that seem arbitrary or excessive. _The boss made me go through a lot of hoops to earn this corner office, believe me. I was doing everything from leading presentations to getting him coffee for months._  
 __go through the roof__  
 __goob__  
+__good for you__  
 __goon__  
 __grapple with (someone or something)__  
 __grasp (at straws)__ To search in desperation for a solution to a difficulty.  
@@ -204,6 +213,7 @@ __gun for hire__
 __haggle over (something)__  
 __hair-raising__ Frightening, chilling, or disturbing. _With so much traffic, cycling in this city can be a hair-raising experience._  
 __ham-handed__ In a clumsy manner; lacking care and skill.  
+__hang by a thread__  
 __happy-go-lucky__ :dart: Always happy or in a pleasant mood; carefree. _Arya is so happy-go-lucky that I doubt any negative thing you say would bother her._  
 __hard-pressed__ Struggling to do or accomplish something, especially because it seems impossible. _You’ll be hard-pressed to find a better guy than Bill._  
 __have (got) a knack for (something)__  
@@ -269,6 +279,8 @@ __I’ll believe it when I see it__ I highly doubt that could happen or is the c
 __if (one’s) life depended on it__ Under any circumstances; no matter what. (Used almost exclusively with a negative statement regarding something that one couldn’t or wouldn’t do.) _No way am I going to karaoke night. I couldn’t sing if my life depended on it!_  
 __if anything__  
 __if it ain’t broke, don’t fix it__ :two::hammer: (if it isn’t broke, don’t fix it)  
+__in a moment’s notice__  
+__in any way, shape, or form__ :two::hammer:  
 __just desserts__ :dart::astonished:  
 __just like that__ :three::hammer: ((just) like this/that)  
 __just saying__ :two::hammer:  
@@ -276,6 +288,7 @@ __just the same (to one)__ Makes no difference one way or another (to one); unim
 __Ke-mo sah-bee__ /ˌkiːmoʊˈsɑːbiː/ (kemo sabe, kemosabe, kimosabe) Term used by the fictional Native American sidekick Tonto as the Indian name for The Lone Ranger in the American television and radio programs _The Lone Ranger._ It has become a common catchphrase. Iit is sometimes translated as “trusty scout” (the first _Lone Ranger_ TV episode, 1941) or “faithful friend.”  
 __keel over__  
 __keen on (someone or something)__  
+__keep (one’s) cards close to (one’s) chest__ (See _play (one’s) cards close to (one’s) chest_) To keep one’s plans, intentions, or tactics secret from everyone else. Refers to holding one’s playing cards close to one’s chest in a card game, so as not to allow other players to see one’s hand. _We’re all curious about what the boss has been discussing in those meetings with the lawyers, but she’s keeping her cards close to her chest._  
 __keep (one’s) slate clean__ To maintain an impeccable record; to refrain from committing any mistakes or wrongdoings.  
 __keep (one’s) socks on__ :dart: To remain patient and calm, especially when beginning to become angry or upset with impatience. Usually said as an imperative. _Yeah, yeah, keep your socks on! I’ll have the report finished by the end of the day!_  
 __keep (one’s)/an eye on (someone or something)__ :two::hammer:  
@@ -321,6 +334,7 @@ __knock (someone or something) on the head__ (Primarily heard in UK.)
 __knock it off__  
 __knock on doors__ To speak to the people who live in an area by walking up to their houses, apartments, etc., especially to provide information or solicit votes, support, contributions, etc.  
 __knock-off__  
+__knock, knock__  
 __know best__ :two: (knows best) To have more knowledge and experience about something than anyone else. _You should listen to her advice—after all, Mother knows best._  
 __know better (than to do something)__ :three::hammer: _The woman is dirty, maybe mentally ill, and Nic knows better than to tangle with that type._  
 __know by heart__  
@@ -395,6 +409,7 @@ __look askance upon (someone or something)__ To view or regard someone or someth
 __look for a dog to kick__ To seek out someone to blame or castigate, especially someone who is not at fault. (Usually said in the continuous tense.) _My dad had a famously short fuse when we were growing up, so we soon learned to get out of his way when he was looking for a dog to kick._  
 __look on the sunny side (of life/things)__ :dart: To view one’s life, situation, or circumstances with a generally optimistic and cheerful attitude; to focus on what is positive in life. _My mother always told me to look on the sunny side of life, and I have to admit, it helps when I’m having a rough day._  
 __look out for number one__ To put one’s own needs, concerns, or responsibilities before those of anyone else. _The only way you’re going to get ahead in this business is if you look out for number one._  
+__loom large__  
 __loose change__ A small, usually insignificant amount of money, typically consisting of coins.  
 __loose ends__ (loose end)  
 __loose lip(s)__ The practice, habit, or manner of speaking too frequently and/or without discretion, especially as might unintentionally lead to revealing private or sensitive information to others. _You’ve got a very loose lip, son. You’d do well to learn to keep it shut!_  
@@ -430,6 +445,8 @@ __make a wide stride__ To make great and rapid progress or advancement. _The one
 __make advances at (one)__ To approach one in a flirtatious, amorous, or sexual manner; to try or begin to seduce one. _Terry was fired after he began making advances at his secretary._  
 __make an end of (something)__ To stop, cease, or conclude something. _I’m going to make an end of the corruption in this department once and for all!_  
 __make as though__ To behave as if; to pretend or make it appear that. _Mark’s boyfriend always makes as though he cares deeply about other people’s problems, but he’s never willing to actually help._  
+__make fast work of (someone or something)__ __1__ To deal with, finish, or dispose of someone or something very quickly or handily. _We’ll make fast work of this project now that you’ve joined the team._ __2__ To consume something quickly. _I was so hungry that I made fast work of that steak._  
+__make game of (someone or something)__ To ridicule, mock, or tease someone or something; to make fun of someone or something. _I really don’t appreciate you making game of my disability like that._  
 __make good on (something)__ :two: To fulfill an obligation, such as keeping a promise or paying a debt. _Tom made good on his pledge to donate $1,000. Bill refused to make good on his promise._  
 __make inroads__ :two::hammer:  
 __make it up__  
@@ -454,6 +471,7 @@ __mooch off (of) (someone or something)__ To ask for or obtain (something) throu
 __more haste, less speed__ :es: vísteme despacio que tengo prisa  
 __more often than not__ :two: Much of the time.  
 __more than anything__ :two: Very much; very badly. _I wanted to believe her more than anything, but I couldn’t._  
+__more than happy to__  
 __Mother of God__ ((Holy) Mother of God) An exclamation of alarm, amazement, or exasperation. (Could be considered blasphemous to some.)  
 __move mountains__ :dart: To do or achieve something that is incredibly difficult.  
 __move on__  
@@ -467,6 +485,7 @@ __mug shot__ __1__ An official photograph taken of someone being brought into po
 __mugger__ _n_ :three::smiling_imp: Someone, usually a male, who attacks and robs people. _I clobbered the mugger with a tire iron I carry just for such occasions._  
 __mumbo jumbo__  
 __mush out__ _He dropped his cigarette and mushed it out with his foot._  
+__music to (one’s) ears__  
 __muss up__ :two: To cause something to become disheveled or untidy, especially one’s hair. A noun or pronoun can be used between “muss” and “up.” _I just spent an hour getting my hair exactly how I want it, so don’t go mussing it up like that!_  
 __mussed__ _adj_ Rumpled, tousled or untidy.  
 __my ass__  
@@ -600,6 +619,7 @@ __pay top dollar__
 __pay tribute to (someone or something)__ To do something as a way of publicly showing respect or admiration for a particular person, group, or thing. _The movie pays tribute to an old adventure serial that ran on television in the mid-1930s._  
 __penguin tuxedo__ The term “penguin tuxedo“ is often used humorously or figuratively to describe a penguin’s natural appearance, as their black-and-white plumage resembles the look of a tuxedo—a formal suit with a black jacket and white shirt.  
 __pin down__  
+__play (one’s) cards close to (one’s) chest__  
 __play tag__  
 __point being__  
 __point the finger at (one)__  
@@ -616,7 +636,7 @@ __push (one’s) buttons__
 __put the brakes on (someone or something)__  
 __put the jinx on (something or someone)__ To invoke a curse upon someone or something that brings bad luck or failure.  
 __put to good use__ (put (something) to good use) To use something in a way that will be beneficial or have significant results. Employ to the best advantage, as in _I’m sure this dictionary will be put to good use._  
-__quid pro quo__  
+__quid pro quo__ :three: [:scroll: This Latin phrase means “something for something.”] A favor done for someone in exchange for a favor in return. _You wash my car, and I”ll drop off your dry cleaning—quid pro quo._  
 __race to (someone or something)__ To move, run, drive, etc., in a very hurried or frantic manner to some person, thing, or destination. _I have to race to the bank so I can deposit this check before they close._  
 __raise the ante__  
 __read between the lines__  
@@ -637,8 +657,7 @@ __run with it__ To take the initiative to do something independently. _I got thi
 __rush into (something)__  
 __safe to say__ The idiom “safe to say” means that something can be confidently stated or assumed to be true without much doubt or risk. It’s often used to express certainty or a high degree of likelihood about a statement or situation. For example, “It’s safe to say that everyone enjoyed the party’ means that it’s very likely or certain that everyone had a good time. _It is safe to say that the goals of the meeting were successfully met._  
 __safeguard against (someone or something)__  
-__same old same old__ :two::hammer:  
-__same old, same old__  
+__same old same old__ :four::hammer:  
 __same shit, new wrapping__ Colloquial expression that conveys the idea that something has been superficially changed or repackaged but remains fundamentally the same. It suggests that despite appearances, the underlying issues or qualities have not been altered.  
 __save (one’s) bacon__  
 __save the day__  
@@ -685,6 +704,7 @@ __shapeshift__ _vi_ To undergo a noticeable change (in character for example), t
 __shed (some) light on (something)__  
 __sheesh__ :dart::two: An exclamation of exasperation, vexation, or annoyance. _A: “Tom? The boss wants to see you for a minute.” B: “Sheesh, what does he want now?”_  
 __shell-shocked__ :dart: __1__ In a state of intense psychological strain, distress, or trauma as a result of prolonged engagement in combat warfare. The term was popularized during the First World War in reference to soldiers returning from combat; it is more commonly known in modern times as posttraumatic stress disorder (PTSD), and has expanded to cover the psychological damage caused by any kind of traumatic event. _My brother was lucky enough to come home from the war alive, but he was shell-shocked for the rest of his life._ __2__ In a state of utter disbelief, confusion, grief, or shock caused by a powerful and upsetting event. _The family has been shell shocked after finding out their father had gambled away their life savings._  
+__shellacking__ __1__ _slang_ A severe physical beating or thrashing. _The school bullies gave Tom a shellacking after he insulted them in the hallway._ __2__ _slang_ A decisive defeat or domination, as in sports. _We knew we didn’t have any chance of winning the game, so our goal was just to avoid a complete shellacking._ _A 40-22 shellacking._  
 __shift gears__ :two::hammer:  
 __shine a light__ :three: When someone says they want to “shine a light on” an issue, they are expressing a desire to draw attention to it, often to raise awareness about important topics or problems.  
 __shipmas__  
@@ -922,6 +942,7 @@ __up a notch__ To an increased or extreme degree of intensity or quality.
 __up against a brick wall__ Stymied by difficulties or obstacles that seem unlikely to change.  
 __up fpr grabs__  
 __up in arms__  
+__up in the air__ Uncertain; subject to change.  
 __up the ante__  
 __very much so__ To a significant extent; yes, very much.  
 __vindicate (someone or oneself) of (something)__ To clear someone or oneself of some guilt, accusation, blame, suspicion, etc.; to affirm or uphold someone’s or one’s own innocence or justification regarding something.  

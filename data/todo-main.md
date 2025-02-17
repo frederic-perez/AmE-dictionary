@@ -19,10 +19,17 @@ __affidavit__ _n_
 __affordable__ _adj_ :pencil2:  
 __afoot__ _adj, adv_  
 __apprehend__ _v_ :two::hammer:  
+__bearing__ _n_  
 __bidding__ _n_  
 __billet-doux__ _n_ (_n pl_ billets-doux) A love letter.  
-__blueprint__  
+__blueprint__ _n_ :two::hammer:  
+__bonsai__ _n_ :two::hammer::mega:  
+__brachiate__ _vi_ To progress by swinging from hold to hold by the arms. _A brachiating gibbon._  
+__brushfire__ _n_  
 __bulldozer__ _n_ __1__ A powerful tractor fitted with caterpillar tracks and a blade at the front, used for moving earth, rocks, etc. __2__ _informal_ A person who bulldozes. An overbearing person; a bully. _Syn_ browbeater, bully, hector, intimidator  
+__buyout__ _n_ :two::hammer:  
+__caffeine__ _n_ :mega:  
+__call-up__ _n_ The act or an instance of summoning reserve military personnel to active service. _A new military call-up._  
 __canard__ _n_ :smiling_imp: /kuh-NARD/ __1__ An unfounded or false, deliberately misleading story. _Canard_ refers to a false report or story, or to a belief or rumor that isn’t true. __2__ It can also refer to a kind of airplane as well as to a kind of small airfoil. _The book unfortunately repeats some of history’s oldest canards._  
 __cavalier__ _adj_ :dart::astonished: /ˌkæv əˈlɪər, ˈkæv əˌlɪər/ /kav-uh-LEER/ Someone described as _cavalier_ shows no concern for important or serious matters. Cavalier also describes attitudes, manners, etc., that show the same lack of concern. _The company provides regular training about the dangers of being cavalier in sharing privileged information._  
 __cavitate__ _vi_ /ˈkævɪteɪt/ To form cavities or bubbles.  
@@ -54,17 +61,21 @@ __clatter__ _v_
 __clemency__ _n_  
 __cloakroom__ _n_  
 __closehanded__ _adj_ Covetous; penurious; stingy; closefisted.  
+__closen__ _v_  
 __clover__ _n_  
 __coalesce__ _v_  
 __code__ _n_ [Note: _Code_ is usually uncountable in programming contexts, but it can be countable when referring to different kinds of code (like various coding systems, encryption codes, or different pieces of code), like _The software uses multiple codes to encrypt data._]  
+__collected__ _adj_  
 __colorful__ _adj_ :astonished:  
 __conformal__ _adj_ [:scroll: from Late Latin _conformālis_ having the same shape, from Latin _com-_ same + _forma_ shape]  
 __counterfeit<sup>1</sup>__ _vt_  
 __counterfeit<sup>2</sup>__ _vi_  
 __counterfeit<sup>3</sup>__ _adj_  
 __counterfeit<sup>4</sup>__ _n_  
+__countermand__ _v_  
 __countless__  
 __coup__ _n_  
+__coy__  
 __crisis__ _n_ :mega: /ˈkraɪ sɪs/ (_n pl_ crises /ˈkraɪ siːz/)  
 __deliver__ _v_  
 __demagogue__ _n_ (demagog)  
@@ -108,6 +119,7 @@ __fang__ _n_
 __fault line__ _n_  
 __feisty__ _adj_ :astonished: /FYE-stee/ _Feisty_ describes someone who has or shows a lively aggressiveness especially in being unafraid to fight or argue. In some regions of the US, _feisty_ may also be used as a synonym of _fidgety_, _quarrelsome_, or _frisky_. _Even her opponents admire her feisty spirit._  
 __fetishist__ _n_ One who engages in fetishism (especially of a sexual nature).  
+__feud__ _n_ :mega:  
 __fiasco__ _n_ :dart: A complete failure, esp one that is ignominious or humiliating.  
 __finagling__ _n_ :smiling_imp: /fɪˈneɪɡlɪŋ/ The use of trickery or craftiness to achieve one’s aims.  
 __finesse__ _v_ /fuh-NESS/ To finesse something is to bring it about, direct it, or manage it by skillful maneuvering. _We managed to finesse a favorable deal on some Beatles LPs at the flea market through subtle bargaining._  
@@ -141,14 +153,14 @@ __fling__ _v_ :two::hammer: (flung)
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
 __flit__ _vi_ :two: __1__ To move about rapidly and nimbly. __2__ To move quickly from one condition or location to another.  
 __florid__ _adj_ :two: __1__ Flushed with rosy color; ruddy. _A florid face._  
-__flounder__ _vi_  
+__flounder__ _vi_ :two::hammer:  
 __fluke__ _n_  
 __flunky__ _n_ :two::hammer:  
 __flyblown__ _adj_ Foul and run-down and repulsive. _Syn_ sordid, squalid _The gang met at a flyblown, grimy little bar on the edge of town to plan its next heist._  
 __foist__ _vt_  
 __fold<sup>1</sup>__ _vt_ __8a__ _informal_ To discontinue operating; close: They had to fold the company a year after they started it. __b__ Games To withdraw (one’s hand) in defeat, as by laying cards face down on a table.  
 __fold<sup>2</sup>__ _vi_  
-__folk__  
+__folk__ _n_ :two::hammer:  
 __footing__ _n_  
 __forearm__ _n_ :es: antebrazo  
 __foresee__ _vt_ /fɔrˈsi, foʊr-/ To imagine or know as a probable occurrence; anticipate or predict: _foresaw economic decline._  
@@ -272,6 +284,8 @@ __haggard__ _adj_
 __haggle__ _v_  
 __hagiography__ _n_ /hag-ee-AH-gruh-fee/ _Hagiography_ is biography that idealizes or idolizes a person and their life.  
 __hallowed__ _adj_ :astonished: /HAL-oad/ Hallowed describes something, such as a memorial, considered holy or blessed, or something that is highly respected and revered. _The church stands on hallowed ground_  
+__hamstring<sup>1</sup>__ _n_ One of the tendons at the back of the knee.  
+__hamstring<sup>2</sup>__ _vt_ __1__ To cripple by cutting the hamstring of. __2__ To ruin or thwart.  
 __handicraft__ _n_ Skill or dexterity in working with the hands.  
 __handlebar mustache__ _n_ A long curved mustache resembling the curved ends of a handlebar.  
 __handyman__ _n_ :es: manitas  
@@ -315,6 +329,7 @@ __helm<sup>1</sup>__ _n_
 __helm<sup>2</sup>__ _vt_ To take the helm of; steer or direct.  
 __hemolysis__ _n_ The destruction or dissolution of red blood cells, with subsequent release of hemoglobin.  
 __hexenwolf__ _n_ [:scroll: _Hexen_ comes from the German word for “witches” (plural form of Hexe), often associated with magic, the occult, or witchcraft] A witch that transforms into a wolf or have wolf-like traits.  
+__hippocampus__  
 __hiss__ _v_  
 __hoarfrost__ _n_ A layer of white frost.  
 __hoarse__ _adj_ :mega: /hɔrs, hoʊrs/ /hɔːs/  
@@ -326,6 +341,7 @@ __hospital radio__ _n_ A form of audio broadcasting produced specifically for th
 __hubris__ _n_  
 __humdrum__ _adj_ Lacking variety or excitement; dull. _Syn_ unglamorous, commonplace, prosaic  
 __hydrant__ _n_ :two::hammer:  
+__hypocrisy__ _n_ :pencil2:  
 __impermanence__ _n_ The property of not existing for indefinitely long durations.  
 __imperviousness__ _n_  
 __impish__ _adj_ :es: pícaro, travieso  
@@ -379,6 +395,7 @@ __jangle__ _v_
 __jangle<sup>1</sup>__ _vi_ To make a harsh metallic sound: _The spurs jangled noisily._  
 __jangle<sup>2</sup>__ _vt_ :dart::two: __1__ To cause to make a harsh discordant sound. __2__ To have an irritating effect on: _The racket from the street jangled my nerves._  
 __jangle<sup>3</sup>__ _n_  
+__janitor__ _n_ [:scroll: from Latin: doorkeeper, from _jānua_ door, entrance, from _jānus_ covered way; related to Latin _īre_ to go]  
 __Janus word__ _n_ /ˈdʒeɪnəs wɜrd/ A word that has opposite or nearly opposite meanings, such as cleave and dust. (These are also called contronyms.) To cleave something can mean to adhere closely to that thing, but it can also mean its opposite: to split, divide, or cut off. As a verb, dust can refer to the removal of dust, or the addition of it. (Think dust the cookies with confectioners’ sugar.)  
 __jaundice__ _n_  
 __jaunty__  
@@ -406,11 +423,13 @@ __juvenile<sup>1</sup>__ _adj_
 __juvenile<sup>2</sup>__ _n_  
 __karen__ _n_ (derogatory) Any person, especially female, exhibiting an exaggerated sense of entitlement.  
 __kickstand__ _n_ __1__ A swiveling metal bar for holding a bicycle, motorcycle, or other two-wheeled vehicle upright when it is not being ridden.  
+__kingpin__  
 __klaxon__ _n_ (claxon) [:scroll: From Klaxon, a trademark for a loud electric horn] A type of loud horn formerly used on motor vehicles.  
 __Knight Templar__ _n_  
 __knockoff__ _n_ An unauthorized copy or imitation, as of designer clothing.  
 __kraken__ _n_ (often cap.) A huge sea monster in Norwegian legend.  
 __lackey__ _n_ /ˈlækɪ/  
+__laden__ _adj_ /ˈleɪd n/ __1__ Weighed down with a load; loaded. __2__ Encumbered; burdened. :es: abrumado  
 __lair__ _n_  
 __lambent__ _adj_ :two::hammer:  
 __lament__ _n_ A song or hymn of mourning composed or performed as a memorial to a dead person. _Syn_ coronach, dirge, requiem, threnody  
@@ -442,11 +461,12 @@ __limpid__ _adj_ /LIM-pid/ _Limpid_ describes things that are perfectly transpar
 __linchpin__ _n_ /LINCH-pin/  
 __linguine__ _n_ (linguini)  
 __listless__ _adj_ :mega: /ˈlɪst lɪs/  
-__livid__ _adj_ :astonished:  
+__livid__ _adj_ :astonished::two: /LIV-id/ Livid means “very angry, enraged, or furious.” It may also describe things having a dark purplish or reddish color.  
 __lock stepping__  
 __lock-in__  
 __lockdown__ _n_ /ˈlɒkˌdəʊn/  
 __loopy__ _adj_ _Loopy appellation._  
+__lowdown__ _n_  
 __lug__ _v_  
 __lunacy__ _n_  
 __lunge__ _v_  
@@ -503,6 +523,7 @@ __memento__ _n_ :mega: /muh-MEN-toh/ _Memento_ is a synonym of _souvenir_; it re
 __memsahib__ _n_  
 __menagerie__ _n_ A collection of wild or unusual animals, especially for exhibition.  
 __menorah__ _n_ /muh-NOR-uh/ A candelabra with seven or nine lights that is used in Jewish worship.  
+__mensuration__ _n_ The act or process of assigning numbers to phenomena according to a rule. _Syn_ measuring  
 __mentorship__  
 __merc__ _n_ _informal_  
 __meritocracy__ _n_  
@@ -599,6 +620,7 @@ __nomenclature__ _n_ /NOH-mun-klay-cher/ _Nomenclature_ is a formal word that re
 __nominal price__ _n_  
 __nominal wages__ _n_ (money wages) Wages measured in terms of money and not by their actual purchasing ability.  
 __nominal__ _adj_ :dart: __2__ :dart: Minimal in comparison with real worth or what is expected; token: _a nominal fee._  
+__non sequitur__ _n_ /NAHN-SEK-wuh-ter/ _We were talking about the new restaurant when she threw in some non sequitur about her dog._  
 __non-negotiable__ _adj_ :two: Not open to negotiation or discussion: _the policy is non-negotiable._  
 __non-profit-making__ _adj_ Not yielding a profit, esp because organized or established for some other reason: _a non-profit-making organization._  
 __nondescript__  
