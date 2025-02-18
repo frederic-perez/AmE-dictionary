@@ -79,11 +79,13 @@ __be on the lookout__ To be watching for something or someone. _Be on the lookou
 __be up in the air__ To be uncertain or subject to change.  
 __be up to (something)__  
 __bear hug__  
+__bend the rules__  
 __big player__ A “big player” typically refers to a person or entity that has significant influence, power, or importance in a particular field or industry. It can be used to describe someone with a lot of resources, experience, or market share, making them a key figure in a given situation or environment.  
 __bits and pieces__  
 __blah__ __1__ _mod._ Bland; dull. _After a blah day like this I need something really exciting like a hot bath._ __2__ _mod._ Depressed; worn out. _I’m really blah. Would you mind awfully if I just went home?_ __3__ _mod._ Alcohol intoxicated; very drunk. _We are going to get totally blah tonight._  
 __boon or bane__ Something that be may either good or bad, depending on context.  
 __break a sweat__ :dart:  
+__breathing space__  
 __bring about__  
 __brood over__ To worry anxiously or be despondent about something or someone, especially at great length and in isolation. _I know you’re upset about failing your exam, but don’t brood over it all weekend._  
 __bump in the road__ A problem that arises and interferes with forward progress (usually only temporarily).  
@@ -105,6 +107,7 @@ __conspiracy theory__ _n_ The belief that the government or a covert organizatio
 __cook up__  
 __corny__ :two::hammer:  
 __cut ties with (someone)__  
+__dang__  
 __diddly__ _n_ :dart: __1__ Nothing; anything at all (when used in negative statements). _I have to admit that I know diddly when it comes to computers._ __2__ A small or worthless amount: _His advice wasn’t worth diddly to me._  
 __dig (something)__ _slang_ To understand, approve of, or enjoy something. _I really dig this music, man!_  
 __dig and poke around__ The idiom “dig and poke around” generally means to search or investigate something thoroughly by looking through various items or areas, often in a somewhat casual or unstructured manner.  
@@ -184,6 +187,7 @@ __feel like doing something__
 __feel out__  
 __feel puny__ To feel sick. _I woke up feeling puny, so I just stayed in bed all day._  
 __first off__  
+__for the fun of it__ ((just) for the fun of it)  
 __fumble the ball__ “Fumble the ball” and “drop the ball” are similar in meaning and can often be used interchangeably. Both idioms refer to making a mistake or failing to perform a task properly, especially when it’s important or when someone misses an opportunity. However, “fumble the ball” may sometimes carry a slightly more connotative idea of clumsiness or mishandling, while “drop the ball” is more commonly used to emphasize failing to follow through or neglecting responsibility. Despite these subtle differences, they are generally understood in the same way.  
 __Galentine’s Day__ _informal_ [:scroll: Blend of _gal_ + _Valentine’s Day_, originally the title and subject of the 16th episode of the second season of the American comedy television series _Parks and Recreation_, first broadcast in 2010.] A day on which women hold a party around the time of Saint Valentine’s Day, typically on February 13.  
 __galvanize (one) into action__ To induce or cause one to start doing something.  
@@ -350,6 +354,7 @@ __laser focus__
 __laser focused__  
 __lash around__  
 __lash out__  
+__last (one) heard__ ((the) last (one) heard) According to the most recent knowledge one has about someone or something. _Last we heard, she had moved up to Calgary to be closer to her family._  
 __last burst of fire__ A final effort or attempt, especially as before failure or defeat. _The home team has unleashed one last burst of fire in the final seconds of the game to try and force an overtime showdown._  
 __last chance (for/at/to do something)__ The last or final opportunity to get, have, do, or achieve something. _Hurry and book your flights today—this is your last chance for the cheapest tickets in town!_  
 __last out__  
@@ -448,6 +453,7 @@ __make as though__ To behave as if; to pretend or make it appear that. _Mark’s
 __make fast work of (someone or something)__ __1__ To deal with, finish, or dispose of someone or something very quickly or handily. _We’ll make fast work of this project now that you’ve joined the team._ __2__ To consume something quickly. _I was so hungry that I made fast work of that steak._  
 __make game of (someone or something)__ To ridicule, mock, or tease someone or something; to make fun of someone or something. _I really don’t appreciate you making game of my disability like that._  
 __make good on (something)__ :two: To fulfill an obligation, such as keeping a promise or paying a debt. _Tom made good on his pledge to donate $1,000. Bill refused to make good on his promise._  
+__make ground__ To become more successful, popular, important, or accepted. _The opposition to vaccinating children, while still a definite minority, has been making ground in recent years._  
 __make inroads__ :two::hammer:  
 __make it up__  
 __make no mistake__ :three::hammer:  
@@ -531,6 +537,7 @@ __nowhere to be found__ Unable to be discovered; completely gone or vanished.
 __nowhere to be sound__  
 __numb out__  
 __number cruncher__  
+__nurse (one’s) drink__ To consume one’s beverage, especially alcohol, rather slowly, either as a means of conserving it or to avoid getting drunk.  
 __occur to (one)__ To be (suddenly) realized by one; to come into one’s mind.  
 __odd couple__ A particularly unlikely or mismatched pair of people.  
 __odd duck__  
@@ -625,6 +632,7 @@ __point being__
 __point the finger at (one)__  
 __pomp and circumstance__ Celebration accompanied by traditional formalities and ceremony. _Please, there’s no need for all this pomp and circumstance. I’m just an ordinary guest who has come to enjoy the performance like everyone else._  
 __pot shot__  
+__potshot__ A sharp criticism; a wild shot of criticism. (Usually with _take_.) _Please stop taking potshots at me!_  
 __pour cold water on (something)__  
 __pour fuel on the fire__  
 __pour gas/gasoline on the fire__  
@@ -650,6 +658,7 @@ __road to recovery__
 __ROFL__ _slang_ An initialism of “rolling on the floor laughing,” used in text messages and online communications to indicate that one thinks that something is very funny or ridiculous. Often lower case. _I just saw a monkey riding on the back of a pig! rofl_  
 __roid rage__ _n_ /rɔɪd/ _informal_ [:scroll: From _steroid_, on the pattern of _road rage_] Angry and aggressive behavior caused by the use of anabolic steroids.  
 __ruffle a few feathers__ To do something which annoys, irritates, or upsets other people. _I know my presentation about the effects of climate change is going to ruffle a few feathers, but I have got to raise awareness about this issue!_  
+__ruffle feathers__ (ruffle (one’s) feathers) To annoy, irritate, or upset someone.  
 __rumor mill__  
 __run afoul of (someone or something)__  
 __run the gauntlet__ To be exposed to or forced to endure a series of threats, dangers, criticism, or other problems. Refers to an old military punishment in which one was forced to run between two lines of soldiers while being thrashed with rods or whips. _Medical students often feel that they have to run the gauntlet when they become residents in a hospital._  
@@ -715,7 +724,7 @@ __shit__ __3__ _v_ _vulgar_ _slang_ To fool, deceive, or trick (someone). Usuall
 __shocker__ :dart: Something that is especially startling, shocking, or surprising. Often used sarcastically. _The ending was a shocker. I did not see that coming!_  
 __shoot (oneself) in the foot__  
 __shoot for the stars__ To set one’s goals or ambitions very high; to try to attain or achieve something particularly difficult.  
-__shoot from the hip__ To speak or act without careful thought or preparation. Many of Ellroy’s characters, particularly his hard-edged protagonists, do this in their dealings, whether in dialogue or action.  
+__shoot from the hip__ :two: To speak or act without careful thought or preparation. Many of Ellroy’s characters, particularly his hard-edged protagonists, do this in their dealings, whether in dialogue or action.  
 __shop around (for something)__ :dart::three: To browse different stores, vendors, or selections to find the best price or option for something one wants to buy.  
 __short call__  
 __short-handed__ :es: falto de personal  
@@ -771,6 +780,7 @@ __snort at (someone or something)__
 __snowball effect__ A situation in which the results or consequences of an action grow at an increasingly faster rate over time.  
 __so be it__  
 __so much so that__ :three::hammer:  
+__so the story goes__ It is being said or rumored that this is the case, whether or not it is true.  
 __so-called__  
 __soaking wet__ Completely drenched.  
 __sock__ :two: _informal_ __2__ _v_ To deliver a sharp, forceful blow.  
@@ -808,6 +818,7 @@ __stamp of approval__ An indication of endorsement or authorization of something
 __stamp out__  
 __stand a chance__ :two: To have a possibility, however remote, of succeeding; to possibly be able to do something. Often used in the negative to mean the opposite. _If that road is closed, we don’t stand a chance of making it on time._  
 __stand on (one’s) own (two) feet__ To be strong and independent; to not need the help, guidance, or resources of another person.  
+__stand tall__  
 __stands to reason__  
 __start off on a high note__ To begin something (such as an event, project, or experience) in a positive, successful, or impressive way. It implies setting a strong, optimistic tone right from the beginning.  
 __start off__  
@@ -830,6 +841,7 @@ __stir up__
 __stir-crazy__ Acutely restless, irritable, or anxious from remaining for too long in an isolated, confined, or unstimulating environment. “Stir” in this usage is a slang word for prison. _We thought taking our family vacation in a tiny cottage out in the country would be a nice break from city life, but we all went a bit stir-crazy after a few days._  
 __stone dead__ Dead; unquestionably dead; long dead. _The cat was stone dead and stiff as a board by the time we got to him._  
 __stonewall__ To be evasive, noncompliant, or uncooperative; to employ delaying or obstructive tactics. Can be used either transitively or intransitively.  
+__storm in__  
 __stranger things have happened__ _cliché_ Used to indicate that some outcome, however unlikely, is not impossible. _I doubt we’ll ever move back to the US, but you never know—stranger things have happened!_  
 __strike (one) dead__  
 __strike a (raw) nerve__  
@@ -859,6 +871,7 @@ __taco bender__
 __take (one’s) pick__  
 __take (one) up on (something)__ To agree to an offer one has made, especially one made at an earlier point in time. _I’m coming to town this weekend, so can I take you up on that spare bedroom you’ve offered me in the past?_  
 __take a crack at (something)__ To attempt (to do) something; to take a turn trying (to do) something. _Well, I haven’t fixed a motor in nearly 10 years, but I’ll certainly take a crack at it._  
+__take a deep breath__  
 __take a load off (one’s feet)__ To sit down and rest one’s feet; to relax. (Usually said as a suggestion.) _Why don’t you go take a load off for a while, and I’ll fix dinner for tonight?_  
 __take a shot (at someone or something)__  
 __take exception to (something)__ To strongly disagree with or take offense at something.  
@@ -872,6 +885,7 @@ __take matters into (one”s) own hands__
 __take no notice of (something or someone)__  
 __take on trust__  
 __take pot luck__ (take potluck)  
+__take potshots at (someone)__ A sharp criticism; a wild shot of criticism. _Please stop taking potshots at me!_  
 __take sides__ :two: To choose a person or party whom one supports, defends, or agrees with in an argument.  
 __take something with a grain of salt__ (_BrE_ take something with a pinch of salt)  
 __take stock (of something)__  
@@ -880,6 +894,7 @@ __take umbrage__ :two::hammer:
 __take you up on something__ See _take (one) up on (something)._  
 __takedown__ :dart: _slang_ A taking down: the arrest of a suspect by a police officer. _She shot and killed two drug dealers in a takedown that went bad._  
 __talk (one’s) way out of (something)__ To use charming or persuasive speech in order to avoid something, especially punishment. _I still can’t believe you were able to talk your way out of that drunk-driving ticket._  
+__talk the talk__  
 __tangle with (someone or something)__ To fight, argue, or engage in a dispute with someone or something.  
 __tap into__ :two::hammer:  
 __tap our__  
@@ -888,9 +903,12 @@ __team up (with one)__
 __tear up__ __1__ To violently rip or pull someone or something into pieces. In this usage, a noun or pronoun can be used between “tear” and “up.” :es: destrozar  
 __tear your hair out__ (tear (one’s) hair out) _informal_ Act with or show extreme desperation. To be extremely anxious, worried, frustrated, or stressed out about something. _We’ve been tearing our hair out trying to figure out what’s causing the server outages._  
 __tee up__ __3__ To put someone or something into a position of readiness for some imminent action. In this usage, a noun or pronoun can be used between “tee” and “up.”  
+__that being said__  
 __the campaign trail__ :two: The schedule of traveling through various cities in which one stops and campaign for the election of a specific political candidate, possibly oneself. _You’d be a fine senator, so I’ll certainly endorse you on the campaign trail._  
 __the likes of (someone or something)__ :two: Anything comparable to someone or something. Typically used in a negative construction to indicate that something is unique or rare.  
 __the likes of__  
+__the lowdown__ Important information or facts about something. _He gave me the lowdown about the company’s vice president._ _Reporters are trying to get the lowdown on what caused the accident._  
+__the story goes (that)__  
 __this time around__ A phrase often used to refer to the current occasion or situation in comparison to previous ones. It implies that there have been similar instances in the past, and it suggests a sense of awareness or reflection on how things might be different now.  
 __thread the needle__  
 __throw a tantrum__ (throw a (temper) tantrum) To have an outburst of childish or unreasonable anger, frustration, or ill temper. _I was so embarrassed when Danny started throwing a tantrum in the grocery store._  
@@ -903,6 +921,7 @@ __tick away__
 __tie in__  
 __tighten the purse strings__ To become less liberal with or more controlling of one’s expenditures; to decrease the availability of money for spending purposes. _After losing my job, I’ve had to tighten the purse strings quite a bit._  
 __till the cows come home__ See _until the cows come home._  
+__time capsule__  
 __tinder__ _n_ :dart: Readily combustible material, such as dry twigs, used to kindle fires. _This love potion is tinder for the proverbial fire._  
 __tipflation__  
 __tips and tricks__ The idiom “tips and tricks” refers to helpful and practical advice, shortcuts, or techniques that can be used to improve efficiency, productivity, or performance in a specific task, activity, or field.  

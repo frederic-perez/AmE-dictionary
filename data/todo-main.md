@@ -6,6 +6,7 @@ __ablutions__ _n pl_
 __abode__ _n_ :two: __1__ A dwelling place; a home. __2__ The act of abiding; a sojourn.  
 __abound__ _vi_  
 __abstruse__ _adj_ Difficult to understand. _Syn_ deep, recondite  
+__abut__ _v_  
 __accessory__ _adj, n_ :mega: /ækˈsɛs ə ri/ /ak-ses–uh-ree/  
 __accoutrement__ _n_  
 __acerbic__ _adj_ Sharp or biting, as in character or expression. _Syn_ blistering, caustic, acid, vitriolic, acerb, acrid, sulfurous, virulent, bitter  
@@ -19,6 +20,7 @@ __affidavit__ _n_
 __affordable__ _adj_ :pencil2:  
 __afoot__ _adj, adv_  
 __apprehend__ _v_ :two::hammer:  
+__awash__ _adj, adv_  
 __bearing__ _n_  
 __bidding__ _n_  
 __billet-doux__ _n_ (_n pl_ billets-doux) A love letter.  
@@ -76,6 +78,7 @@ __countermand__ _v_
 __countless__  
 __coup__ _n_  
 __coy__  
+__crawlway__ _n_ /ˈkrɔːlˌweɪ/ (Mining & Quarrying) A low passageway in a cave or mine that can only be negotiated by crawling.  
 __crisis__ _n_ :mega: /ˈkraɪ sɪs/ (_n pl_ crises /ˈkraɪ siːz/)  
 __deliver__ _v_  
 __demagogue__ _n_ (demagog)  
@@ -83,6 +86,7 @@ __demonstrator__
 __detail__ _n_ __7a__ A group of military personnel assigned to a particular duty, usually a fatigue duty. __b__ The duty assigned: _garbage detail._  
 __detainment__  
 __didactics__ _n_ The activities of educating or instructing; activities that impart knowledge or skill. _Syn_ education, instruction, pedagogy, teaching  
+__diffident__  
 __diorama__ _n_  
 __dismantle__ _vt_  
 __disputatious__ _adj_ /dis-pyuh-TAY-shus/ _Disputatious_ is a formal word used to describe someone who often disagrees and argues with other people (in other words, someone inclined to dispute). It can also describe something marked or characterized by arguments or controversies, or something that provokes debate or controversy. _The podcast is hosted by a disputatious pair whose sparring has drawn legions of listeners._  
@@ -303,6 +307,7 @@ __hardwood__ _n_
 __hare__ _v_  
 __harness__ _vt_  
 __harpsichord__ _n_  
+__harrumph__ _vi_ :dart: (harumph) /həˈrʌmf/ To clear or make the noise of clearing the throat.  
 __hassle__ _n_  
 __hassle-free__ _adj_ _informal_ Without problems or bother.  
 __hatchet__ _n_  
@@ -623,6 +628,7 @@ __nominal__ _adj_ :dart: __2__ :dart: Minimal in comparison with real worth or w
 __non sequitur__ _n_ /NAHN-SEK-wuh-ter/ _We were talking about the new restaurant when she threw in some non sequitur about her dog._  
 __non-negotiable__ _adj_ :two: Not open to negotiation or discussion: _the policy is non-negotiable._  
 __non-profit-making__ _adj_ Not yielding a profit, esp because organized or established for some other reason: _a non-profit-making organization._  
+__noncommittal__ _adj_ :dart:  
 __nondescript__  
 __nonplus__ _v_ /nahn-PLUS/ To _nonplus_ someone is to perplex them, or in other words, to cause them to be at a loss as to what to say, think, or do.  
 __nonplussed__ _adj_ :pencil2:  
@@ -650,6 +656,8 @@ __oxycodone__ _n_
 __panacea__  
 __paramount__  
 __Pareto-efficient__ _adj_ (Pareto efficient) Describing a situation in which the profit of one party cannot be increased without reducing the profit of another.  
+__parlay__ _v_  
+__pensive__ _adj_ Deeply or seriously thoughtful. _Syn_ contemplative, meditative, musing, pondering, reflective, ruminative, brooding, broody  
 __peppermint__ _n_ __1__ Herb with downy leaves and small purple or white flowers that yields a pungent oil used as a flavoring. :es: menta __2__ Red gum tree of Tasmania. __3__ a candy flavored with peppermint oil. _Syn_ peppermint candy  
 __peptic ulcer__ _n_ An erosion of the mucous membrane of the lower esophagus, stomach, or duodenum, caused in part by the corrosive action of the gastric juice.  
 __peradventure__ _n_ Chance, doubt, or uncertainty.  
@@ -664,6 +672,7 @@ __persimon__ _n_ /pərˈsɪm ən/ :es: caqui
 __personal column__ _n_  
 __Perspex__ _n_ /ˈpɜːspɛks/ (Building) _trademark_ Any of various clear acrylic resins, used chiefly as a substitute for glass :es: pexiglás  
 __perspicacious__ _adj_  
+__pertain__ _v_ /per-TAYN/ To pertain to someone or something is to relate, refer, or have a connection to that person or thing. _That law pertains only to people who live in this state._  
 __pertussis__ _n_ :two: /pəˈtʌsɪs/ _(Pathology)_ The technical name for _whooping cough_.  
 __pessary__ _n_ /ˈpɛs ə ri/  
 __pestilential__ _adj_ Likely to spread and cause an epidemic disease. _Syn_ pestiferous, plaguey  
@@ -740,6 +749,7 @@ __probity__ _n_ :dart:
 __procedural__ _adj, n_  
 __profiteer__ _n_ :astonished: One who makes excessive profits on goods in short supply.  
 __profiteering__ _n_ :astonished: _Syn_ extortion, exploitation, racketeering _There has been a wave of profiteering and corruption._  
+__proper__  
 __provender__ _n_ Dry food, as hay or oats, for livestock or other domestic animals.  
 __proximate__ _adj_  
 __pry__ _vi_ :two::hammer:  
@@ -766,6 +776,7 @@ __quail<sup>1</sup>__ _n_ :es: codorniz
 __quail<sup>2</sup>__ _vi_  
 __Quaker__ _n_ /ˈkweɪkə/  
 __quandary__ _n_  
+__quarry__ _n_ :two::hammer:  
 __quaternary__ _adj_ Coming next after the third and just before the fifth in position or time or degree or magnitude. _Syn_ fourth  
 __quaver__ _vi_ __1__ To quiver, as from weakness; tremble. _I took a quavering breath._  
 __queasy__ _adj_  
@@ -850,6 +861,7 @@ __reignite__ _v_
 __reindeer__ _n_ /ˈreɪnˌdɪər/ Arctic deer with large antlers in both sexes.  
 __rejuvenate__ _v_ /rih-JOO-vuh-nayt/ To rejuvenate a person, parts of the body, etc., is to make them feel young, healthy, or energetic again. To rejuvenate something abstract, such as an economy or career, is to give it new strength or energy.  
 __relate__ _v_ _I wish to relate the story in his own words._  
+__relay__ _n, vt_  
 __remuneration__ _n_ :mega: /ri-myoo-nuh–rey-shuhn/  
 __render__ _vt_ __2__ To cause to become; make: _The news rendered her speechless._ _Grief had rendered him simple-minded._  
 __repent__ _v_ _He would repent and confess his sins._  
@@ -859,6 +871,7 @@ __reputed__ _adj_ /rɪˈpyu tɪd/ Reported or supposed to be such: _the reputed 
 __reputedly__ _adv_ /rɪˈpjuːtɪdlɪ/ According to general belief or supposition: _the reputedly excellent food._  
 __requite__ _v_ /rih-KWYTE/ To requite is to give or do something in return for something that another person has given or done, or for a benefit or service that has been provided.  
 __resealable__ _adj, n_  
+__resounding__ _adj_  
 __restrain__ _v_  
 __restraint__ _n_  
 __resume__ _v_ :mega: /rɪˈzum/  
@@ -867,6 +880,7 @@ __retch<sup>2</sup>__ _vt_ To vomit.
 __retching__ _n_ /ˈrɛtʃɪŋ/ A series of spasms; heaving. :es: esfuerzo por vomitar  
 __retention__ _n_  
 __reveler__ _n_  
+__rhetoric__ _n_ :pencil2:  
 __rheumy__ _adj_ :mega: /ˈru mi/  
 __Richter scale__ _n_ :mega: /ˈrɪk.tər skeɪl/ /rĭk′tər/ A logarithmic scale used to express the amount of energy released by an earthquake. Its values typically fall between 0 and 9, with each increase of 1 representing a 10-fold increase in energy.  
 __ridealong__ _n_ __1__ The act of accompanying, or volunteering with, a police, paramedic, or firefighting group, usually by a student seeking hands-on experience. __2__ One who participates in this.  
@@ -879,6 +893,7 @@ __rod__ _n_
 __roster__ _n_  
 __row__ _n_ :astonished: __1__ A noisy or quarrel or disturbance.  
 __rudder__ _n_  
+__ruefully__ _adv_  
 __ruminate__ _v_ /ROO-muh-nayt/ To ruminate is to think carefully and deeply about something.  
 __runes__ _n_ __1__ Symbols of an ancient alphabet, used for divination.  
 __runnel__ _n_  
@@ -893,6 +908,7 @@ __sanguineous__ _adj_ Relating to or involving blood or bloodshed. _Syn_ butcher
 __Santa Ana__ _n_ __2__ A strong dry hot wind blowing from the desert regions of southern California toward the Pacific coast, usually in winter.  
 __sarcophagus__ _n_ /sahr-KAH-fuh-gus/ Sarcophagus refers to a coffin, and specifically a stone coffin.  
 __saunter__  
+__saying__ _n_  
 __scam__ _n_  
 __scamper__ _n_  
 __scant__ _adj_  
@@ -908,9 +924,11 @@ __secular__ _adj_ /SEK-yuh-ler/ _Secular_ describes things that are not spiritua
 __sentient__ _adj_ :two::hammer:  
 __sepulchral__ _adj_ Gruesomely indicative of death or the dead. _Syn_ charnel, ghastly  
 __settle__ _v_ /ˈsɛtəl/ __12__ (Banking & Finance) (sometimes foll by _up_) To pay off or account for (a bill, debt, etc). _He settled the bill before leaving._  
+__severance pay__ _n_  
 __shamble<sup>1</sup>__ _vi_ :dart: To walk or move along in an awkward or unsteady way.  
 __shamble<sup>2</sup>__ _n_ An awkward or unsteady walk.  
 __sharp__ _adj_ __6__ Vigilant; alert: _kept a sharp lookout for shoplifters._ _Stay sharp._  
+__shopkeeper__ _n_  
 __shoulder__ _v_  
 __shuffle__ _v_ __6__ (when _vi_, often foll by _into_ or _out of_) to move or cause to move clumsily: _he shuffled out of the door._ _He shuffled his way out of the room._  
 __sibylline__ _adj_ Resembling or characteristic of a prophet or prophecy. _Syn_ divinatory, mantic, vatic  
@@ -929,8 +947,12 @@ __smitten__ _adj_
 __smote__ _v_ Past tense and a past participle of smite.  
 __snare drum__ _n_ _Syn_ side drum, snare  
 __snicker__ _v_  
-__sovereign__  
+__solace__ _v_ To give comfort or cheer to (a person) in time of sorrow or distress. _Syn_ comfort, console, soothe  
+__soprano__ _n_ :mega:  
+__sovereign<sup>1</sup>__ _n_  
+__sovereign<sup>2</sup>__ _adj_  
 __soverreignty__ _n_ :two::hammer:  
+__spearhead__ _v_  
 __specious__ _adj_ :smiling_imp: Based on pretense; deceptively pleasing. _Syn_ gilded, meretricious  
 __splurge__  
 __staff<sup>1</sup>__ _n_  
@@ -941,11 +963,14 @@ __star-crossed__ _adj_ Opposed by fate; ill-fated: _star-crossed lovers._
 __statutory__  
 __stowage__  
 __stubborn__ _adj_ :pencil2::mega:  
+__suave__ _adj_ /swɑːv/  
 __substantive__ _adj_ __1__ Substantial; considerable. __4__ 4. Of or relating to the essence or substance; essential: _substantive information._  
-__swivel__ _v_ :two::hammer:  
+__swivel__ _v_ :three::hammer:  
 __swoon__ _vi_  
+__table__ _v_  
 __tariff__ _n_ [:scroll: Tariff came into English at the end of the 16th century, borrowed from the Italian _tariffa_, which itself came from the Arabic word _taʽrīf_, meaning “notification.”]  
 __tattoo__ _n_ :mega: /tæˈtu/  
+__tax brackets__  
 __teamster__ _n_ /ˈtim stər/  
 __thunderclap__ _n_  
 __tokamak__ _n_ :camera: A doughnut-shaped chamber used in fusion research in which a plasma is heated and confined by magnetic fields.  
@@ -955,7 +980,7 @@ __travois__ _n_ A frame slung between trailing poles and pulled by a dog or hors
 __tuft__ _n_ _Tufts of hair._ :es: mechón  
 __turmeric__ _n_ :es: cúrcuma  
 __turnkey__ _adj_  
-__twitch__ _v_  
+__twitch__ _v_ :two::hammer:  
 __typosquat__ _v_ To register a domain name that is a common misspelling of a popular domain name (or the domain name of a well-known brand) in order to capture Internet traffic from users who mistype domain names.  
 __uncontested__ _adj_ /ˌʌn kənˈtɛs tɪd/ Not contested; unchallenged: _an uncontested victory._  
 __underpin__ _vt_  
@@ -973,9 +998,10 @@ __vestige__ _n_ /VESS-tij/ A vestige is a trace, mark, or visible sign left by s
 __virtuoso__ _n_ /ver-choo-OH-soh/ _Virtuoso_ is used broadly to refer to a person who does something very skillfully, and is often used specifically to refer to a very skillful musician.  
 __voltmeter__ _n_ /ˈvoʊltˌmi tər/ A calibrated instrument for measuring the potential difference between two points in volts. :es: voltímetro  
 __voluminous__ _adj_ Large in number or quantity (especially of discourse). _Syn_ copious _She took voluminous notes during the lecture, and her classmates begged for copies._  
+__voracious__ _adj_ Having or marked by an insatiable appetite for an activity or pursuit; greedy. _Syn_ rapacious, ravening  
 __wan__ _adj_  
 __wanderlust__ _n_ /WAHN-der-lust/  
-__wanly__ _adv_ In a weak or pale or languid manner. _She was smiling wanly._  
+__wanly__ _adv_ :two: In a weak or pale or languid manner. _She was smiling wanly._  
 __warble__ _v_  
 __warhorse__ _n_ (war horse)  
 __waterboarding__ _n_ __1__ An interrogation technique, widely considered a form of torture, in which a person is restrained, usually by being strapped to a board with the feet higher than the head, and immersed in or doused with water to the point of drowning.  
