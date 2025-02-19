@@ -8099,14 +8099,17 @@ __galore<sup>2</sup>__ _adv_
 __galoshes__ _n_  
 __galumph__ _vi_ :two: /ɡəˈlʌmpf; -ˈlʌmf/ _informal_ [:scroll: C19 (coined by Lewis Carroll): probably a blend of gallop + triumph] To leap or move about clumsily or joyfully.  
 __galvanic__ _adj_ /gal-VAN-ik/ __1__ Stimulating; energizing; shocking. __2__ Relating to electric current, especially direct current.  
-__galvanize__ _v_ :nine::m: (galvanized) /GAL-vuh-nyze/ To startle into sudden activity; stimulate. To cause (people) to take action on something that they are excited or concerned about. _The council’s proposal to close the library has galvanized the town’s residents._  
+__galvanize__ _v_ :nine::m: /GAL-vuh-nyze/ __1__ To startle into sudden activity; stimulate. To stimulate by an electric current: _to galvanize muscles or nerves._ __2__ To galvanize people is to cause them to be so excited or concerned about something that they are driven to action. To cause (people) to take action on something that they are excited or concerned about. _The council’s proposal to close the library has galvanized the town’s residents._ __3__ To coat (metal, esp. iron or steel) with zinc.  
 __gambit__ _n_ :six: /GAM-bit/ A maneuver, stratagem, or ploy, especially one used at an initial stage. A gambit is something done or said in order to gain an advantage or to produce a desired effect. _Syn_ tactic, move, policy, scheme, strategy, trick, device, manoeuvre, ploy, stratagem _They said the plan was no more than a clever political gambit._ _The workers’ opening gambit in the negotiations was to demand a wage hike._  
+__Gamblers Anonymous__ _n_ (GA) An organization that holds group meetings to help people who are addicted to gambling.  
 __gamboge__ _n_ :two: __2__ Yellow or yellow-orange.  
 __gambol__ _v_ :two: To leap about playfully. _Syn_ frisk, frolic, lark, rollick, romp, cavort _Then he ran back to the shed pulling the playful young horse, who wanted to gambol all over the yard, by the rein._  
 __Game of the Goose__ _n_ (Goose game) :es: el juego de la oca  
 __game plan__ _n_ :six::hammer: _My game plan is “failure is not an option.”_  
+__game warden__ _n_ An officer in charge of managing game animals or wildlife, especially by the enforcement of game laws.  
 __game__ _adj_ :two: __1__ _informal_ Full of fighting spirit; plucky; brave. __2__ _(usually foll by for)_ _informal_ Having the required spirit or will (often fol. by for or an infinitive). Prepared or ready; willing: _I’m game for a try._ _Who’s game for a hike through the woods?_ __3__ Pertaining to or composed of animals hunted or taken as game or to their flesh.  
 __game-changer__ _n_ :three: (game changer) An idea or event that significantly changes the way something is done or thought about.  
+__gamekeeper__ _n_ /ˈgeɪmˌki pər/ A person employed, as on an estate or game preserve, to prevent poaching and provide for the conservation of game.  
 __gamely__  
 __gamesmanship__ _n_ /GAYMZ-muhn-ship/ __1__ The use of aggressive or dubious tactics, such as psychological intimidation or disruption of concentration, to gain an advantage over one’s opponent while still observing the rules in a sport or game. __2__ The use of expedients or morally questionable acts to gain an advantage, as in politics.  
 __gamine__  
@@ -8114,43 +8117,42 @@ __gamut__ _n_ :three: /GAM-ut/ /ˈɡæmət/ A gamut is a range or series of rela
 __ganache__ _n_ :two: A smooth mixture of chocolate and cream, used in cakes, truffles, and chocolates.  
 __gander__ _n_ _Take a gander at the college girls._  
 __gangbangers__  
-__gangly__ _adj_ :two: Tall and thin and having long slender limbs. _Syn_ lanky, rangy _The gangly man’s suit sleeves and pant legs flapped like empty fire hoses as he walked._  
-__gangrene__ _n_ :two::pencil2::hammer:  
+__gangly__ _adj_ :four: Awkwardly tall and spindly; lank and loosely built. Tall and thin and having long slender limbs. _Syn_ lanky, rangy, gangling _The gangly man’s suit sleeves and pant legs flapped like empty fire hoses as he walked._  
+__gangrene__ _n_ :three::pencil2::hammer:  
 __gangway__ _n_ :five::hammer:  
 __Ganjapreneur__  
 __gantlet__ _n_ :two::hammer: _A media gantlet._  
 __gantry__ _n_  
 __Ganymede__ _n_ __2__ One of the four brightest satellites of Jupiter. Originally sighted by Galileo, it is the largest satellite in the solar system.  
-__gaping__ _adj_ :three: Deep and wide open. _A gaping psychological hole._  
+__gaping__ _adj_ :four: /ˈɡeɪpɪŋ/ Deep and wide open. Wide open; extremely wide: _a gaping hole._ _A gaping psychological hole._  
 __gar__ _n_  
 __garage sale__ _n_  
-__garb__ _n_ :five::hammer: _They wore medical garb of some variety._ _In a prison garb._ :es: atuendo  
+__garb__ _n_ :six::hammer: _They wore medical garb of some variety._ _In a prison garb._ :es: atuendo  
 __garbage chute__ _n_ :camera:  
 __garbage island__  
 __garbage__ _n_ :mega:  
 __garbed__ _v_ :two::hammer:  
 __garble__ _vt_ /GAR-bul/ To so alter or distort as to create a wrong impression or change the meaning. _The text on the television was garbled, but viewers could still decipher what was being said._  
-__garbled__  
+__garbled__ _adj_ :two: Jumbled or unclear because of distortion or omissions. :es: confuso  
 __garboil__ _n_ A state of commotion and noise and confusion. _Syn_ tumult, uproar  
 __Garden of Eden__  
 __Garden of Gethsemane__  
 __Garden State__ _n_ New Jersey.  
-__gargantuan__ _adj_ :seven: /gahr-GAN-chuh-wuhn/ Very large in size or amount. Of immense size, volume, or capacity; gigantic. _Syn_ elephantine, giant, jumbo _He was full to capacity after polishing off a gargantuan, five-course meal._ _Bigfoot is said to be a creature of gargantuan proportions._ _A gargantuan breakfast._ _Gargantuan ego._  
-__gargle__ _n_  
-__gargle<sup>1</sup>__ _n_  
-__gargle<sup>2</sup>__ _v_ _My stomach was gargling._  
+__gargantuan__ _adj_ :eight: /gahr-GAN-chuh-wuhn/ Very large in size or amount. Of immense size, volume, or capacity; gigantic. _Syn_ elephantine, giant, jumbo _He was full to capacity after polishing off a gargantuan, five-course meal._ _Bigfoot is said to be a creature of gargantuan proportions._ _A gargantuan breakfast._ _Gargantuan ego._  
+__gargle<sup>1</sup>__ _n_ :two::hammer:  
+__gargle<sup>2</sup>__ _v_ :two::hammer: _My stomach was gargling._  
 __gargoyle__ _n_ :three::hammer: /GAR-goy-ul/  
 __garish__ _adj_ :seven::hammer::astonished: _They are charming and garish at the same time._  
 __garland__ _n_ :five::camera::hammer: _Garland motifs on carved oak paneling._ _Evergreen garlands._ _A garland of flowers._  
 __garment__  
 __garner__ _vt_ :nine::m: /GAHR-ner/ (garnered, garnering) __1__ To collect or gather something. _The researchers garnered more evidence to support their theory._ Gather or collect (something, especially information or approval). _The police struggled to garner sufficient evidence._ _Syn_ gather, collect, accumulate, amass, assemble __2__ To get or receive something wanted or valued. _The author’s novel has garnered much praise and several awards._  
 __garnet__ _n_ :two::hammer: :es: granate  
-__garnish__ _v_ :four: __1a__ Decorate, embellish. __b__ To add decorative or savory touches to (food or drink). __2__ To equip with accessories. _Syn_ furnish __3__ Garnishee.  
-__garret__ _n_  
+__garnish__ _v_ :five: /GAHR-nish/ __1a__ Decorate, embellish. __b__ To garnish food or drink is to add decorative and tasty touches to it, such as a spiral of lemon peel. To add decorative or savory touches to (food or drink). __2__ To equip with accessories. _Syn_ furnish __3__ Garnishee.  
+__garret__ _n_ :two::hammer:  
 __garrison cap__ _n_ :three::hammer: _He removed his garrison cap._  
 __garrison__ _n_ :two::hammer: _A small garrison of 100 lances._  
 __garroted__ _v_  
-__garrulous__ _adj_ :five: /GAIR-uh-lus/ Given to excessive and often trivial or rambling talk. _Syn_ chatty, gabby, loquacious, talkative, talky _One day the elder Pokrovski came to see us, and chattered in a brisk, cheerful, garrulous sort of way._  
+__garrulous__ _adj_ :six: /GAIR-uh-lus/ Given to excessive and often trivial or rambling talk. _Syn_ chatty, gabby, loquacious, talkative, talky _One day the elder Pokrovski came to see us, and chattered in a brisk, cheerful, garrulous sort of way._  
 __gars__ _n_ :three::hammer: _Alligator gars._  
 __garter__ _n_ :three: (garters) __1a__ An elasticized band worn around the leg to hold up a stocking or sock. :es: liguero __b__ A suspender strap with a fastener attached to a girdle or belt to hold up a stocking or sock. __c__ An elasticized band worn around the arm to keep the sleeve pushed up.  
 __gas gauge__  
@@ -8159,10 +8161,11 @@ __gas station attendant__ _n_ :camera:
 __gas-guzzler__ _n_ :three: (gas guzzler) A car with relatively low fuel efficiency.  
 __gasconade__ _n_ :two: Boastful talk, bragging, or bluster. _After all his gasconade, the contestant couldn’t manage to complete the obstacle race._  
 __gash<sup>1</sup>__ _n_ :six::hammer: _The gash wasn’t closing._ _There was a huge gash in the front tire of the limousine._  
-__gash<sup>2</sup>__ _v_ :five::hammer: (gashed, gashing) _He gashed the Hokies’ defense._ _The Lions gashed the Owls._  
+__gash<sup>2</sup>__ _v_ :six::hammer: (gashed, gashing) _He gashed the Hokies’ defense._ _The Lions gashed the Owls._  
 __gasket__ _n_ :three::hammer: :es: junta  
 __gasolene__ _n_ :two::hammer::pencil2: _Syn_ gasoline, petrol, gas  
-__gasp__ _v_ :four::hammer: (gasped) _The audience gasped._  
+__gasp<sup>1</sup>__ _v_ :five::hammer: _The audience gasped._  
+__gasp<sup>2</sup>__ _n_ __1__ A short convulsive intake of breath.  
 __gastronome__ _n_ :two: A connoisseur of good food and drink. _Syn_ epicure, epicurean, foodie, gourmet, bon vivant  
 __gastropod__ _n_ _Syn_ univalve  
 __gat__  
@@ -8170,14 +8173,14 @@ __gated community__ _n_ :two::hammer:
 __gatehouse__ _n_ _They were lobbing rocks at the gatehouse and the wall._  
 __gatekeep__ _v_  
 __gatekeeper__ _n_ :five::hammer:  
-__gateway__ _n_ :two::hammer:  
+__gateway__ _n_ :three::hammer: __2__ Something that serves as an entrance or a means of access: _a gateway to success; the gateway to the West._  
 __gathering__ _n_ :two::hammer: _Family gathering._  
 __Gatling gun__ _n_  
 __gator__ _n_ (gater)  
 __gauche__ _adj_ :two: /GOHSH/ Lacking grace or social polish; awkward or tactless. _Syn_ unpolished, graceless _Wendy was quite friendly, but her lack of manners made her seem gauche in formal settings._  
 __gaudy__ _adj_ :five: Gay, bright, or colourful in a crude or vulgar manner; garish. _A gaudy G-string._ :es: hortera, chillón  
 __gauge__ _vt_ :three::hammer:  
-__gaunt__ _adj_ :nine::m: Very thin especially from disease or hunger or cold. Thin and bony; angular. _Syn_ cadaverous, haggard, pinched, skeletal, wasted _Gaunt eyes._ _Gaunt drifter._ :es: demacrado  
+__gaunt__ _adj_ :nine::m: Very thin especially from disease or hunger or cold. Thin and bony; angular. _Syn_ cadaverous, haggard, pinched, skeletal, wasted _Gaunt eyes._ _Gaunt drifter._ _Two enormous gaunt wolves._ :es: demacrado  
 __gauntlet__ _n_ :three::hammer: /GAWNT-lut/  
 __gauntness__  
 __gauze__ _n_ :three::hammer: :es: gasa  
@@ -8195,15 +8198,17 @@ __geezer__ _n_ :three::hammer: (geezers) _derogatory_ _A lightsaber battle where
 __gegenschein__ _n_ A faint glowing spot in the sky, exactly opposite the position of the sun. _Syn_ counterglow _The gegenschein is so faint that it cannot be seen if there is any moonlight or if it falls in the vicinity of the Milky Way._  
 __Geiger counter__ _n_ An instrument for detecting ionizing radiations.  
 __gel__ _v_ (gelled) _His hair was neatly gelled._  
+__gelation__ _n_ __1__ Solidification by cooling or freezing. __2__ The process of forming a gel.  
 __geld__ _v_ :two::hammer: (gelded)  
 __gelding__ _n_ :three:hammer:  
-__gelid__ _adj_ :two: Extremely cold; icy. _Syn_ arctic, frigid, glacial, polar _After only a few minutes in the gelid wind, they were shivering too hard to speak._ _Gelid water._ _A man of gelid reserve._  
+__gelid__ _adj_ :three: /JELL-id/ Something described as gelid, such as the weather or a person’s demeanor, is literally or figuratively extremely cold or icy. _Syn_ arctic, frigid, glacial, polar _After only a few minutes in the gelid wind, they were shivering too hard to speak._ _Gelid water._ _A man of gelid reserve._  
 __gelt__ _n_ :two: _slang chiefly US_ Cash or funds; money.  
 __gemini__ _n_ :mega:  
 __gemstone__ _n_ :es: piedra preciosa  
 __gender dysphoria__ _n_ :dart::two::hammer:  
 __gender gap__  
 __genealogist__  
+__general practitioner__ _n_ (GP) _Syn_ family doctor  
 __Generalissimo Stalin__  
 __Generation Xers__  
 __Generation Yers__  
@@ -8217,8 +8222,9 @@ __genie__ _n_ :two::mega:/jē′nē/:hammer:
 __genius__ _n_ /JEEN-yus/ __1__ A genius is a person who is exceptionally smart or talented. _She’s a genius at riddles._ __2__ Genius also refers to great natural ability, or to a part of something that makes it unusually good or valuable. _The sheer genius of their theory was not immediately recognized._ _He’s widely admired for his comedic genius._  
 __genocide__ _n_ /ˈdʒɛn əˌsaɪd/  
 __genoise__ _n_ A light, buttery cake with a texture similar to sponge cake.  
-__genre__ _n_  
+__genre__ _adj, n_ :two::hammer: /ˈʒɑn rə;/  
 __genteel__ _adj_ :three::hammer: /jen-TEEL/  
+__genteelism__ _n_ /jen-TEE-liz-uhm/ The substitution of a word that is believed to be more polite or refined. For example, washroom for lavatory.  
 __gentile__ _n_ (often Gentile) __1__ A person who is not Jewish.  
 __gentility__  
 __gentrification__ _n_ :four: Gentrification is a process of renovation of deteriorated urban neighborhoods by means of the influx of more affluent residents.  
@@ -8229,7 +8235,7 @@ __genuine__ _adj_ :two::hammer::mega:
 __genus__ _n_ /ˈdʒi nəs/  
 __geomancy__ _n_ Prophecy from the pattern made when a handful of earth is cast down or dots are drawn at random and connected with lines.  
 __geotag__ _n, v_  
-__gerbil__ _n_ /ˈdʒɜːbɪl/ (gerbille) :es: jerbo  
+__gerbil__ _n_ :two::hammer: /ˈdʒɜːbɪl/ (gerbille) :es: jerbo  
 __German shepherd__ _n_ An Alsatian.  
 __germane__ _adj_ /jer-MAYN/ _Germane_ is a formal synonym of relevant that describes something related to a subject in an appropriate way. _Her comments were not germane to the discussion._  
 __Geronimo line__ _n_ :two: In the context of a rig, a geronimo line is a safety slide or a line from the derrickman’s platform to the ground, used in an emergency.  
@@ -8237,7 +8243,8 @@ __gerontocracy__ _n_ /jer-uhn-TOK-ruh-see/ [:scroll: From Greek geronto- (old) +
 __gerrymander<sup>1</sup>__ _v_ :eight: /JAIR-ee-man-der/ (gerrymandering) Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
 __gerrymander<sup>2</sup>__ _n_  
 __gest__ _n_ (geste) A great or heroic deed. _Syn_ achievement, exploit, feat, masterstroke, stunt, tour de force  
-__gestalt__ _n_ :nine: A physical, biological, psychological, or symbolic configuration or pattern of elements so unified as a whole that its properties cannot be derived from a simple summation of its parts.  
+__gestalt therapy__ _n_  
+__gestalt__ _n_ :nine::m: A physical, biological, psychological, or symbolic configuration or pattern of elements so unified as a whole that its properties cannot be derived from a simple summation of its parts. _Gestalt therapy._  
 __get ahold__  
 __get away with__  
 __get enough__  
@@ -8261,22 +8268,22 @@ __ghee__ _n_ Butter which has been clarified by boiling and is totally free of m
 __gherkin__ _n_ :es: pepinillo  
 __ghetto__ _n_ :mute:[g~~h~~etto]  
 __ghibli__ _n_ :astonished: (gibli) (Physical Geography) A fiercely hot wind of North Africa.  
-__ghost gun__ _n_ :two: A gun that lacks a serial number by which it can be identified and that is typically assembled by the user (as from purchased or homemade components).  
+__ghost gun__ _n_ :three: A gun that lacks a serial number by which it can be identified and that is typically assembled by the user (as from purchased or homemade components).  
 __ghost kitchen__ _n_ (delivery-only restaurant, virtual kitchen, shadow kitchen, commissary kitchen, cloud kitchen, dark kitchen) A professional food preparation and cooking facility set up for the preparation of delivery-only meals.  
 __ghost word__ _n_ :dart::two: A word form that has entered the language through the perpetuation of an error.  
 __ghost__ _v_ :two::mute:[g~~h~~ost] __1__ To ignore someone until they go away, rather than directly expressing one’s disinterest, especially in virtual communications. This phrase is often applied to failed love connections. _That guy I went out with last week kept texting me, but I just wasn’t interested, so I had to ghost him._ __2__ To kill someone. _The boss told Ray to ghost the informant._  
 __ghosting__ _n_ Ending a relationship without any explanation, typically a romantic relationship.  
-__ghoul__ _n_ :seven::mute:[g~~h~~oul]::mega::hammer: (ghouls)  
+__ghoul__ _n_ :eight::mute:[g~~h~~oul]::mega::hammer:  
 __ghoulish__ _adj_ :six: Strangely diabolical or cruel; monstrous. Of or relating to ghouls; morbid or disgusting; unhealthily interested in death.  
 __giant salamander__ _n_  
+__gibber<sup>1</sup>__ _vi_ :dart::two: To prattle and chatter unintelligibly.  
+__gibber<sup>2</sup>__ _n_  
 __gibberish__ _n_  
 __gibbet__ _n_ :three::hammer: :es: horca  
 __gibblets__ _n_  
-__gibbous__ _adj_ /JIB-us/ Gibbous is most often used to describe a moon or planet that is seen with more than half, but not all, of the apparent disk illuminated. _The lake’s calm surface glistened under the light of the waxing gibbous moon._  
-__gibe<sup>1</sup>__ _n_ :three: A derisive or provoking remark. _Syn_ barb, dig, shot _The referee heard the gibes from the crowd, but, ever the professional, ignored them._ _Many seigneurs returned to face gibes or sudden hostility._  
-__gibe<sup>2</sup>__ _v_ (jibe)  
-__gibed__ _v_  
-__gibes__  
+__gibbous__ _adj_ :two: /JIB-us/ Gibbous is most often used to describe a moon or planet that is seen with more than half, but not all, of the apparent disk illuminated. _The lake’s calm surface glistened under the light of the waxing gibbous moon._  
+__gibe<sup>1</sup>__ _n_ :dart::five: A derisive or provoking remark. _Syn_ barb, dig, shot _The referee heard the gibes from the crowd, but, ever the professional, ignored them._ _Many seigneurs returned to face gibes or sudden hostility._  
+__gibe<sup>2</sup>__ _v_ :two::hammer:  
 __giblets__ _n_ The edible heart, liver, neck, and gizzard of a fowl.  
 __Gibson glass__  
 __giddily__  
@@ -8287,15 +8294,15 @@ __gifted__ _adj_ __1__ Endowed with great natural ability, intelligence, or tale
 __gig economy__ _n_ :three: Also called the “on-demand economy,” “sharing economy” or “instant gratification economy,” the gig economy refers to temporary jobs that normally would be full-time occupations.  
 __gig<sup>1</sup>__ _n_ :two::hammer: _We did a ton of stadium gigs._  
 __gig<sup>2</sup>__ _v_ :two::hammer: (gigging)  
-__giggle<sup>1</sup>__ _v_ :four::hammer: (giggling) :es: reirse tontamente  
-__giggle<sup>2</sup>__ _n_ :two::hammer:  
+__giggle<sup>1</sup>__ _n_ :four::hammer:  
+__giggle<sup>2</sup>__ _v_ :six::hammer: :es: reirse tontamente  
 __gills__ _n_ __1__ The paired respiratory organ of fish and some amphibians, by which oxygen is extracted from water flowing over surfaces within or attached to the walls of the pharynx. :es: branquias __2__ The vertical plates arranged radially on the underside of mushrooms and many toadstools.  
 __gilt-framed__  
 __gimbal__ _n_ _A sensor on a pivoting gimbal._  
 __gimcrackery__  
 __gimmick__ _n_ :four::hammer: (gimmicks) _No “get in the door” gimmicks._  
 __gimmicky__ _adj_ :two::hammer:  
-__gimpy__ _adj_ :two::hammer: _A gimpy angle._ _Gimpy gait._  
+__gimpy__ _adj_ :two::hammer: _A gimpy angle._ _Gimpy gaixt._  
 __gin and tonic__ _n_ :pencil2:  
 __gin palace__ _n_ (gin house, gin shop) An English name originally for a lavish bar selling gin, later transferred by association to late Victorian pubs designed in a similar style. _It is a former Victorian gin palace._  
 __gin rummy__ _n_ :two: _(Card Games)_ A version of rummy in which a player may go out if the odd cards outside his sequences total less than ten points. Often shortened to: gin. _The two men sat in the back of the bar and played gin rummy and kept their score in pencil on the back of a napkin._  
@@ -8330,13 +8337,14 @@ __glabella__ _n_ The smooth area between the eyebrows just above the nose.
 __glaciologist__  
 __glacis__ _n_  
 __glad-hand__ _v_  
-__gladdened__  
+__gladden__ _vt_ :two: To make glad: _The good news gladdened our hearts._  
 __glades__ _n_ _Heathy glades._  
 __gladiola__ _n_  
 __glamazon__ _n informal_ /GLA-muh-zon/ [:scroll: A blend of glamor + amazon.] An exceptionally glamorous, tall, and self-assured woman.  
 __glamping__ _n informal_ [:scroll: Back-formation from glamping, a blend of glamorous + camping] Camping in glamorous or luxurious conditions. Outdoor camping with amenities and comforts (such as beds, electricity, and access to indoor plumbing) not usually used when camping.  
 __glaring__ _adj_  
 __glass cliff__ _n_ The glass cliff is the supposed phenomenon of women in leadership roles, such as executives in the corporate world and female political election candidates, being likelier than men to achieve leadership roles during periods of crisis or downturn, when the chance of failure is highest.  
+__glass pane__  
 __glass slipper__ _n_ An imaginary ladies’ shoe made of glass, as worn by Cinderella in the fairy tale of that name.  
 __glasses__ _n pl_ (plurale tantum)  
 __glasshouse__ _n_ :two: __2__ _Chiefly British_ A greenhouse. :es: invernadero  
@@ -8379,8 +8387,8 @@ __gloss<sup>2</sup>__ _v_ :four::hammer: /GLAHSS/ (glossing) _We mustn’t gloss
 __glossiness__  
 __glossolalia__ _n_ /glos-uh-LAY-lee-uh/ [:scroll: From Greek glosso- (tongue, language) + -lalia (chatter, babbling), from lalein (to babble).] Unintelligible utterances occurring during religious excitation, schizophrenia, etc. Also known as speaking in tongues.  
 __glossophobia__ _n_ The fear of public speaking. From Greek glosso- (tongue, language) + -phobia (fear).  
-__glower<sup>1</sup>__ _n_ A sullen or angry stare. _Syn_ glare _His frown deepened into a glower of resentment._  
-__glower<sup>2</sup>__ _v_ :six::hammer::smiling_imp: (glowered, glowering)  
+__glower<sup>1</sup>__ _n_ :three: An angry or sullen look or stare. To look or stare angrily or sullenly: _glowered at the rude patron._ _Syn_ scowl, glare, frown, look daggers, give a dirty look, lour, lower _His frown deepened into a glower of resentment._  
+__glower<sup>2</sup>__ _v_ :eight::hammer::smiling_imp:  
 __glue > a glue-type player__  
 __glum__ _adj_ :six: To be glum is to be sad. Glum is a word for being depressed, bummed out, or down in the dumps. People who are glum are sometimes said to be sullen, brooding, morose, and moody. Glum folks don’t smile, giggle, or laugh — and they’re rarely seen holding balloons. Being glum is a little more outward-directed than just being sad. To be glum is to act sad in front of other people, almost like you want them to ask, “Why so glum?” _Dell and H.P. Might not be joyful, but should be they be glum?_ _Glum news._ _He sounded glum._  
 __glut<sup>1</sup>__ _n_ :seven: A glut is too much of something. A glut of gas in the marketplace can lower its price. A glut of heavy metal T-shirts in your dresser, however, has nothing to do with the economy but might be a signal that it’s time to clean your room.  
@@ -8424,18 +8432,19 @@ __goalie__
 __goalkeeper__ _n_ :two::hammer:  
 __goalpost__ _n_  
 __goaltender__  
-__goatee__ _n_ :two::hammer: _Sagging goatee._  
+__goatee__ _n_ :three::hammer: _Sagging goatee._  
 __gobble up__ _v_ :four::hammer: _Money-losing Pandora is gobbling up a former competitor on the cheap after huge rivals Apple and Google have entered the market._  
 __gobble<sup>1</sup>__ _v_ :six::hammer: _Gobbling a plate of spaguetti and meatballs._ _Do you savor or gobble?_  
 __gobble<sup>2</sup>__ _n_  
 __gobbledygook__ _n_ :two::hammer:  
-__goblin__ _n_ :four::hammer: (goblins)  
+__goblin__ _n_ :five::hammer: (goblins)  
 __gobs__ _n_ _He vomited gobs of saliva._  
 __gobsmacked__ _adj_ _Chiefly British Slang_ Extremely surprised or shocked.  
 __godfather__ _n_ __3__ _Slang_ [:scroll: From the movie _The Godfather_, 1972] The leader of an organized crime family.  
 __godmother__ _n_ :two::hammer: _A fairy godmother._  
 __godown__ _n_ A warehouse, especially one in South or Southeast Asia or East Africa.  
 __godsend__ _n_ :six: An unexpected thing or event that is particularly welcome and timely, as if sent by God.  
+__godson__ _n_ A male godchild.  
 __Godspeed__ _n_ _And Godspeed to you all._  
 __Godzilla__ _n_ /GOD/guhd-zil-uh/ __1__ Someone or something of enormous size. __2__ Someone or something fierce, frightening, monstrous, etc.  
 __gofer__ _n_ _slang_  
@@ -8464,7 +8473,7 @@ __gonads__ _n_
 __gondola__ _n_ :three::hammer::astonished: _A 10-person rescue gondola can be attached to a helicopter._ _The gondola carries visitors from the base to the top station._ _Walking distance to Aspen Mountain gondola._  
 __gonorrhea__  
 __gonzo__ _adj_ :three: Conspicuously or grossly unconventional or unusual. _Syn_ bizarre, eccentric, flakey, flaky, freakish, freaky  
-__goo__ _n informal_ :two: Sticky substance.  
+__goo__ _n informal_ :three: Sticky substance.  
 __Good Book__ _n_  
 __good egg__ _n informal_ :two: An agreeable or trustworthy person. _A heel who learns how to be a good egg._  
 __good for you__  
@@ -8473,6 +8482,7 @@ __good Samaritan__
 __goodies__ _n pl_ Any objects, rewards, prizes, etc, considered particularly desirable, attractive, or pleasurable.  
 __goodliest__ _adj_ :two::hammer:  
 __goodly__ _adj_ :three: __1__ Large in amount or extent or degree. _I was ravenous, so I heaped a goodly portion of mashed potatoes onto my plate and started eating._ __2__ Of fine appearance. _Goodly castles._  
+__Goodwill__ _n_ A charity organization that collect old clothes for resale.  
 __goody-goody__ _adj, n_ _Goody-goody expressions._  
 __Goodyear, Charles__  
 __gooey__ _adj_ :five: __1__ Sticky, soft, and often sweet. _Gooey butter cake._ __2__ Oversweet and sentimental.  
@@ -8486,10 +8496,11 @@ __goop__ _n_
 __goose__ _v_ :three::hammer: (goosing) _Goosing the economy._  
 __gooseberry__ _n_ :es: grosella espinosa  
 __goosebump__ _n_  
+__gopher__ _n_ :es: ardilla  
 __Gordian knot__ _n_ :three::hammer: _Gordian legal knot._  
 __gore__ _n_ :two: __3__ Blood, especially coagulated blood from a wound. _Spittle and gore clogged his throat._  
 __gorge<sup>1</sup>__ _n_ :three::hammer:  
-__gorge<sup>2</sup>__ _v_ :three::hammer: (gorged, gorging)  
+__gorge<sup>2</sup>__ _v_ :four::hammer: (gorged, gorging)  
 __gorgeous__  
 __gorget__ _n_ __1__ A piece of armor protecting the throat.  
 __gorgonize__ _vt_ :three: /GOR-guh-nyz/ [:scroll: After Gorgon, any of the three monstrous sisters in Greek mythology: Stheno, Euryale, and Medusa. They had snakes for hair and turned into stone anyone who looked into their eyes (apparently it was OK to objectify people in those days).] To paralyze, petrify, or hypnotize. To affect as a Gorgon might; hypnotize; petrify.  

@@ -201,56 +201,6 @@ __gallant__ _adj_ /GAL-unt/ Someone or something described as gallant is very co
 __gallantry__ _n_ Nobility of spirit or action; courage. _Syn_ heroism, valor  
 __galling__ _adj_ :es: mortificante  
 __gallivant__ _vi_ (galivant, galavant)  
-__galvanize__ _vt_ :three: /GAL-vuh-nyze/ __1__ To stimulate by an electric current: _to galvanize muscles or nerves._ __2__ To galvanize people is to cause them to be so excited or concerned about something that they are driven to action. _The council’s proposal to close the library has galvanized the town’s residents._ __3__ To coat (metal, esp. iron or steel) with zinc.  
-__Gamblers Anonymous__ _n_ (GA) An organization that holds group meetings to help people who are addicted to gambling.  
-__game warden__ _n_ An officer in charge of managing game animals or wildlife, especially by the enforcement of game laws.  
-__gamekeeper__ _n_ /ˈgeɪmˌki pər/ A person employed, as on an estate or game preserve, to prevent poaching and provide for the conservation of game.  
-__gangly__ _adj_ :two: Awkwardly tall and spindly; lank and loosely built. _Syn_ gangling  
-__gangrene__ _n_  
-__gaping__ _adj_ /ˈɡeɪpɪŋ/ Wide open; extremely wide: _a gaping hole._  
-__garb__ _n_  
-__garbled__ _adj_ Jumbled or unclear because of distortion or omissions. :es: confuso  
-__gargantuan__ _adj_  
-__gargle__ _v_  
-__garnish__ _v_ /GAHR-nish/ To garnish food or drink is to add decorative and tasty touches to it, such as a spiral of lemon peel.  
-__garret__ _n_  
-__garrulous__ _adj_ Excessively talkative in a rambling, roundabout manner, especially about trivial matters.  
-__gash__ _v_  
-__gasp<sup>1</sup>__ _v_  
-__gasp<sup>2</sup>__ _n_ __1__ A short convulsive intake of breath.  
-__gateway__ _n_ __2__ Something that serves as an entrance or a means of access: _a gateway to success; the gateway to the West._  
-__gaunt__ _adj_ :two::hammer: _Two enormous gaunt wolves._  
-__gelation__ _n_ __1__ Solidification by cooling or freezing. __2__ The process of forming a gel.  
-__gelid__ _adj_ /JELL-id/ Something described as gelid, such as the weather or a person’s demeanor, is literally or figuratively extremely cold or icy.  
-__general practitioner__ _n_ (GP) _Syn_ family doctor  
-__genre__ _adj, n_ /ˈʒɑn rə;/  
-__genteelism__ _n_ /jen-TEE-liz-uhm/ The substitution of a word that is believed to be more polite or refined. For example, washroom for lavatory.  
-__gerbil__ _n_ :es: jerbo  
-__gestalt therapy__ _n_  
-__gestalt__ _n_ _Gestalt therapy._  
-__ghastly__ _adj_ :two::hammer:  
-__ghost gun__ _n_  
-__ghoul__  
-__gibber__ _vi_ :dart: To prattle and chatter unintelligibly.  
-__gibber<sup>1</sup>__ _vi_ To prattle and chatter unintelligibly.  
-__gibber<sup>2</sup>__ _n_  
-__gibbous__ _adj_  
-__gibe__ _n_  
-__giddy__ _adj_  
-__giggle<sup>1</sup>__ _n_ :two::hammer:  
-__giggle<sup>2</sup>__ _v_ :two::hammer:  
-__gladden__ _vt_ To make glad: _The good news gladdened our hearts._  
-__glass pane__  
-__glower__ _v_ :two::hammer:  
-__glower<sup>1</sup>__ _n_ To look or stare angrily or sullenly: _glowered at the rude patron._ _Syn_ scowl, glare, frown, look daggers, give a dirty look, lour, lower  
-__glower<sup>2</sup>__ _n_ An angry or sullen look or stare.  
-__goatee__ _n_  
-__goblin__ _n_  
-__godson__ _n_ A male godchild.  
-__goo__ _n_  
-__Goodwill__ _n_ A charity organization that collect old clothes for resale.  
-__gopher__ _n_ :es: ardilla  
-__gorge__ _v_  
 __gossamer__ _adj_ /GAH-suh-mer/ Something described as _gossamer_—such as a butterfly wing or a thin fabric—is very light or delicate.  
 __gouge__ _vt_  
 __gourmand__ _n_ /GOOR-mahnd/  
