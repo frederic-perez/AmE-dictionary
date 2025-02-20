@@ -666,56 +666,6 @@ __run with it__ To take the initiative to do something independently. _I got thi
 __rush into (something)__  
 __safe to say__ The idiom “safe to say” means that something can be confidently stated or assumed to be true without much doubt or risk. It’s often used to express certainty or a high degree of likelihood about a statement or situation. For example, “It’s safe to say that everyone enjoyed the party’ means that it’s very likely or certain that everyone had a good time. _It is safe to say that the goals of the meeting were successfully met._  
 __safeguard against (someone or something)__  
-__same old same old__ :four::hammer:  
-__same shit, new wrapping__ Colloquial expression that conveys the idea that something has been superficially changed or repackaged but remains fundamentally the same. It suggests that despite appearances, the underlying issues or qualities have not been altered.  
-__save (one’s) bacon__  
-__save the day__  
-__say again?__  
-__says who__  
-__scare the (living) daylights out of (one)__ To shock or frighten one very suddenly or severely. _Don’t sneak up on me like that—you scared the living daylights out of me!_  
-__scare the crap out of (one)__ _rude slang_ To shock or frighten one very suddenly or severely. Hyperbolically alludes to frightening one so badly as to cause them to lose bowel control.  
-__scare the hell out of someone__  
-__scare the pants off (of) (one)__ To shock, frighten, or terrify one. _The sound of the fire alarm scared the pants off of me this morning._  
-__scare the shit out of (one)__ :astonished: _rude slang_ To shock or frighten one very suddenly or severely. (Hyperbolically alludes to frightening someone so badly as to cause them to lose control of their bowels.) _Don’t sneak up on me like that, you scared the shit out of me!_  
-__scheme for (something)__ To form or contrive a secret or devious plan or conspiracy in order to obtain, achieve, or accomplish something. _We spent the afternoon scheming for a way to get into the elite Hollywood party so we could meet some celebrities._  
-__scoff at (someone or something)__ To dismiss something with scorn, ridicule, or derision.  
-__scrape by__  
-__screwup__ _n_ _slang_ _She does not forgive sloppy work on technical screwups._  
-__scumbag__ :smiling_imp:  
-__scupper up__  
-__secret weapon__ _n_ :seven: Something that will help you gain a big advantage over your competitors, that they do not know about.  
-__security blanket__ Something that dispels anxiety, as in _I always carry my appointments calendar; it’s my security blanket._ This colloquial term, dating from about 1960, was at first (and still is) used for the blanket or toy or other object held by a young child to reduce anxiety.  
-__see (one) in the flesh__ To see one in person who is usually only seen at a distance, especially through a medium such as film, music, theater, etc. _After years of idolizing the singer, it was a bit anticlimactic seeing her in the flesh._  
-__see fit__ :dart: Deem appropriate, as in _He’s entitled to divide up his property as he sees fit_, or _If we see fit to attend, we’ll be there._  
-__see the last of (someone or something)__ To no longer encounter a certain person or thing. Often used in the negative.  
-__see the light of day__  
-__see to (someone or something)__  
-__seems too good to be true__  
-__seep in(to something)__  
-__seethe with (something)__  
-__seize the day__ To take the opportunity to do something at the present moment without worrying about the future. _This is our time. Let’s seize the day! We may never get a chance to do this again._  
-__seize the hour/day__ Take advantage of the moment, enjoy the here and now. This phrase is a translation of the ancient Roman adage _Carpe diem_, first stated by Horace in one of his _Odes_ (ca. 23 b.c.). Actually, the full statement added _quam minimum credula postero_, trust the future as little as possible.  
-__sell (someone, something, or oneself) short__  
-__serve (one’s) time__  
-__set a camp__  
-__set a high/low bar__  
-__set eyes on something__  
-__set in cement__ Firmly or permanently established; not subject to change; unalterable.  
-__set in stone__  
-__set the bar (high/low)__  
-__set the tone__ To establish the mood of something, or the manner in which something will be conducted.  
-__set up shop__ :two::hammer:  
-__sex trafficking__ Human trafficking for the purpose of sexual exploitation.  
-__sexual advance__ An attempt to gain some form of sexual favor or gratification from another person.  
-__sexual advances__  
-__Shangri-la__ A utopian paradise. A reference to the fictional Tibetan paradise described in James Hilton’s 1933 novel _The Lost Horizon._  
-__shapeshift__ _vi_ To undergo a noticeable change (in character for example), to metamorphosize.  
-__shed (some) light on (something)__  
-__sheesh__ :dart::two: An exclamation of exasperation, vexation, or annoyance. _A: “Tom? The boss wants to see you for a minute.” B: “Sheesh, what does he want now?”_  
-__shell-shocked__ :dart: __1__ In a state of intense psychological strain, distress, or trauma as a result of prolonged engagement in combat warfare. The term was popularized during the First World War in reference to soldiers returning from combat; it is more commonly known in modern times as posttraumatic stress disorder (PTSD), and has expanded to cover the psychological damage caused by any kind of traumatic event. _My brother was lucky enough to come home from the war alive, but he was shell-shocked for the rest of his life._ __2__ In a state of utter disbelief, confusion, grief, or shock caused by a powerful and upsetting event. _The family has been shell shocked after finding out their father had gambled away their life savings._  
-__shellacking__ __1__ _slang_ A severe physical beating or thrashing. _The school bullies gave Tom a shellacking after he insulted them in the hallway._ __2__ _slang_ A decisive defeat or domination, as in sports. _We knew we didn’t have any chance of winning the game, so our goal was just to avoid a complete shellacking._ _A 40-22 shellacking._  
-__shift gears__ :two::hammer:  
-__shine a light__ :three: When someone says they want to “shine a light on” an issue, they are expressing a desire to draw attention to it, often to raise awareness about important topics or problems.  
 __shipmas__  
 __shipping and handling__ The costs associated with packaging and delivering a product to the person who bought it. _Our top line of vacuum cleaners is now only $250, plus shipping and handling._  
 __shipshape and Bristol fashion__  
