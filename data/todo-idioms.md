@@ -48,6 +48,7 @@ __a long shot__
 __a losing game__ A failing or hopeless effort; a situation or activity that is ultimately futile or cannot be won. (Most often used in the phrase “play a losing game.”) _I’d give up trying to get your brother to agree to this deal if I were you. It looks like a losing game at this point._  
 __a matter of time__ An inevitability or eventuality; something that is or seems sure to happen at some point in the future. _With your reckless spending behavior, it’s just a matter of time before you go broke._  
 __a new coat of paint__ The phrase “a new coat of paint” is an idiom that means giving something a fresh appearance or updating it, often to make it look more appealing or modern. It can refer to physically painting an object or structure, but it’s also used metaphorically to describe revitalizing or improving something, like a project, idea, or even a person’s style. It’s about making something look new again without necessarily changing its core essence.  
+__a stiff upper lip__ The ability to remain stoic during difficult situations.  
 __a whole new ball game__ (a different ball game)  
 __abandon ship__  
 __about time__ ((it’s) (a)bout time)  
@@ -61,16 +62,20 @@ __all the more reason for (doing something)__ (all the more reason to (do someth
 __all the same__  
 __all too easy__  
 __all too soon__ The idiom “all too soon” means that something happened much earlier than expected or desired, often with a sense of regret or disappointment. It conveys the idea that an event occurred prematurely or that a positive experience ended quickly. “The holidays were over all too soon,” implies that the speaker wished the holidays had lasted longer. “Graduation came all too soon,” suggests that the speaker felt unprepared for the end of their schooling.  
+__all well and good__ :two::hammer: ((all) well and good)  
+__an uphill battle__  
 __and everything in between__ Including all the possibilities or varieties within a range. _The store sells clothes for men, women, and children, and everything in between._ _Life has its ups and downs, and everything in between._  
 __anyone’s guess__  
 __anything goes__  
 __around the clock__ ((a)round the clock)  
 __at (one’s) convenience__ _At your convenience, Captain._  
 __at any rate__  
+__at its core__ The idiom “at its core” refers to the essential or fundamental nature of something, the most basic or important part of it. When you say something is “at its core,” you’re highlighting the central aspect that defines its true nature, beyond any surface-level characteristics or additional details.  
 __at large__  
 __at lightning speed__  
 __at the end of the day__  
 __badass__  
+__balancing act__  
 __battle-hardened__  
 __be hell-bent on (something)__ To be very determined to do something, perhaps to an excessive degree. _She’s hell-bent on coming here for Thanksgiving, so we better clean the guest room._  
 __be larded with (something)__  
@@ -79,6 +84,7 @@ __be on the lookout__ To be watching for something or someone. _Be on the lookou
 __be up in the air__ To be uncertain or subject to change.  
 __be up to (something)__  
 __bear hug__  
+__before (one) know it__ (before we know it)  
 __bend the rules__  
 __big player__ A “big player” typically refers to a person or entity that has significant influence, power, or importance in a particular field or industry. It can be used to describe someone with a lot of resources, experience, or market share, making them a key figure in a given situation or environment.  
 __bits and pieces__  
@@ -90,7 +96,9 @@ __bring about__
 __brood over__ To worry anxiously or be despondent about something or someone, especially at great length and in isolation. _I know you’re upset about failing your exam, but don’t brood over it all weekend._  
 __bump in the road__ A problem that arises and interferes with forward progress (usually only temporarily).  
 __by agency of__ The phrase “by agency of” means “through the action or help of” or “by means of.” It’s used to indicate that something happens because of the intervention or work of a particular person, force, or process. For example, if you say, “The decision was made by agency of the manager,” it means that the manager’s actions or influence were responsible for the decision being made.  
+__by and large__  
 __by any means__  
+__by force__  
 __Canadian tuxedo__ (US, fashion, derogatory) An outfit consisting of denimwear for tops and bottoms, such as a jean jacket and jeans (pants).  
 __case in point__  
 __catch a break__  
@@ -111,9 +119,11 @@ __dang__
 __diddly__ _n_ :dart: __1__ Nothing; anything at all (when used in negative statements). _I have to admit that I know diddly when it comes to computers._ __2__ A small or worthless amount: _His advice wasn’t worth diddly to me._  
 __dig (something)__ _slang_ To understand, approve of, or enjoy something. _I really dig this music, man!_  
 __dig and poke around__ The idiom “dig and poke around” generally means to search or investigate something thoroughly by looking through various items or areas, often in a somewhat casual or unstructured manner.  
+__dis__ See _diss_.  
 __disabuse (someone or oneself) of (something)__  
 __discretion is the better part of valor__ _proverb_  
 __dispose of (someone or something)__  
+__diss__ :dart: (dis(s) (on someone)) To belittle [someone]; to show disrespect [for someone].  
 __do an about-face__  
 __do double duty__  
 __do shit__ (don’t do shit) _The cops that worked the case didn’t do shit and sure as hell aren’t going to do shit now._  
@@ -182,11 +192,13 @@ __fast and furious__ :two::hammer:
 __fast-forward__  
 __fat chance__ Said of something that is unlikely to happen. :es: vaga posibilidad  
 __fawn (all) over (one)__ To flatter and fuss over one to an excessive degree, especially in a sycophantic or obsequious manner.  
+__feel for someone__ To feel the emotional pain that someone else is feeling; to empathize or sympathize with someone.  
 __feel like a million bucks__ :astonished: To feel exceptionally attractive or in very robust health. _Wow, I feel like a million bucks in this new suit!_  
 __feel like doing something__  
 __feel out__  
 __feel puny__ To feel sick. _I woke up feeling puny, so I just stayed in bed all day._  
 __first off__  
+__flip the switch__ (flip a switch) __1__ To cause a sudden and complete change: This can refer to a change in behavior, attitude, or even a situation. _He flipped the switch and suddenly became very angry._ __2__ To make something happen quickly and easily: This meaning emphasizes the ease with which the change occurs. _We just need to flip the switch to activate the new system._ __3__ To turn something on or off: This is the most literal meaning, referring to the action of physically flipping a switch. However, it can also be used metaphorically to describe starting or stopping something. _The company flipped the switch on their new marketing campaign._  
 __for the fun of it__ ((just) for the fun of it)  
 __fumble the ball__ “Fumble the ball” and “drop the ball” are similar in meaning and can often be used interchangeably. Both idioms refer to making a mistake or failing to perform a task properly, especially when it’s important or when someone misses an opportunity. However, “fumble the ball” may sometimes carry a slightly more connotative idea of clumsiness or mishandling, while “drop the ball” is more commonly used to emphasize failing to follow through or neglecting responsibility. Despite these subtle differences, they are generally understood in the same way.  
 __Galentine’s Day__ _informal_ [:scroll: Blend of _gal_ + _Valentine’s Day_, originally the title and subject of the 16th episode of the second season of the American comedy television series _Parks and Recreation_, first broadcast in 2010.] A day on which women hold a party around the time of Saint Valentine’s Day, typically on February 13.  
@@ -203,6 +215,7 @@ __go berserk__
 __go for broke__ To give something one’s full effort. :es: y a por todas  
 __go missing__  
 __go postal__ :dart: _US informal_ [:scroll: This expression arose as a result of several recorded cases in the USA in which postal-service employees ran amok and shot colleagues] Go mad, especially from stress. Become extremely angry or start behaving in a violent and angry way. _According to one eye witness, the man ‘went postal, and started hitting his computer’_  
+__go sour__ To become unpleasant or troubling.  
 __go south__  
 __go through hoops__ :astonished: To face or have to complete many challenges in pursuit of something that one wants, especially challenges that seem arbitrary or excessive. _The boss made me go through a lot of hoops to earn this corner office, believe me. I was doing everything from leading presentations to getting him coffee for months._  
 __go through the roof__  
@@ -212,6 +225,7 @@ __goon__
 __grapple with (someone or something)__  
 __grasp (at straws)__ To search in desperation for a solution to a difficulty.  
 __green folding__ Paper money, especially in large amounts. _Boy, I bet you had to lay down some serious green folding for that new sports car, huh?_  
+__green light__  
 __grit (one’s) teeth__ :three: __1__ To clench one’s teeth, as from anger, pain, or displeasure. _The doctor didn’t have any anesthetic, so all I could do was grit my teeth while he stitched the wound in my leg._  
 __gun for hire__  
 __haggle over (something)__  
@@ -219,7 +233,7 @@ __hair-raising__ Frightening, chilling, or disturbing. _With so much traffic, cy
 __ham-handed__ In a clumsy manner; lacking care and skill.  
 __hang by a thread__  
 __happy-go-lucky__ :dart: Always happy or in a pleasant mood; carefree. _Arya is so happy-go-lucky that I doubt any negative thing you say would bother her._  
-__hard-pressed__ Struggling to do or accomplish something, especially because it seems impossible. _You’ll be hard-pressed to find a better guy than Bill._  
+__hard-pressed__ :two: Struggling to do or accomplish something, especially because it seems impossible. _You’ll be hard-pressed to find a better guy than Bill._  
 __have (got) a knack for (something)__  
 __have (something) in store (for one)__ To have something awaiting (one) or prepared (for one).  
 __have a lump in (one’s) throat__ To have difficulty speaking as a result of feeling that one is about to cry due to an intense emotional response to something.  
@@ -285,6 +299,7 @@ __if anything__
 __if it ain’t broke, don’t fix it__ :two::hammer: (if it isn’t broke, don’t fix it)  
 __in a moment’s notice__  
 __in any way, shape, or form__ :two::hammer:  
+__in the works__  
 __just desserts__ :dart::astonished:  
 __just like that__ :three::hammer: ((just) like this/that)  
 __just saying__ :two::hammer:  
@@ -310,6 +325,7 @@ __keep faith__
 __keep pace__ :two::hammer:  
 __keep tabs on (someone or something)__  
 __keep the lid on (something)__  
+__keep to (oneself)__  
 __keep to (something)__ __1__ To adhere to something, such as a plan or a rule; to stick to something. _Please keep to the plan, and everything will go smoothly._  
 __keep track__  
 __keep up with (someone or something)__  
@@ -440,6 +456,7 @@ __lust for life__ Intense eagerness to experience all that life has to offer.
 __lust for power__ Intense, insatiable desire to attain power and control.  
 __mad as a hornet__ (mad as hell, mad as hops, mad as a wet hen) Enraged; extremely or inconsolably angry. _My dad was mad as a hornet after I crashed his car._  
 __mad as a wet hen__ Extremely angry.  
+__make (something) up as (one) goes (along)__ To improvise continuously as one does something; to do something without formal guidelines, structure, rules, etc. _None of us really knew how to play the game, so we just made it up as we went along._  
 __make a face__ :two::hammer:  
 __make a fuss__  
 __make a hole in (something)__ To take, use up, or deplete a large amount of money available in something, such as a budget, one’s wallet, etc. _The cost of repairing the car is really going to make a hole in our savings._  
@@ -454,8 +471,10 @@ __make fast work of (someone or something)__ __1__ To deal with, finish, or disp
 __make game of (someone or something)__ To ridicule, mock, or tease someone or something; to make fun of someone or something. _I really don’t appreciate you making game of my disability like that._  
 __make good on (something)__ :two: To fulfill an obligation, such as keeping a promise or paying a debt. _Tom made good on his pledge to donate $1,000. Bill refused to make good on his promise._  
 __make ground__ To become more successful, popular, important, or accepted. _The opposition to vaccinating children, while still a definite minority, has been making ground in recent years._  
+__make heavy going of (something)__ To make something harder or more laborious to do, especially more than is usual or necessary. _The bill was passed two years ago, but the government has made heavy going of implementing the law at a local level._  
 __make inroads__ :two::hammer:  
 __make it up__  
+__make like a banana and split__ _humorous_ To depart or leave, especially at once or in a hurry. (A pun on “to split,” a slang term meaning to leave or depart, and a “banana split,” an ice-cream-based dessert featuring a banana halved lengthwise.) _This carnival turned out to be really boring. Come on, let’s make like a banana and split!_  
 __make no mistake__ :three::hammer:  
 __make or break__ :two::hammer:  
 __make the most of it__  
@@ -649,6 +668,7 @@ __race to (someone or something)__ To move, run, drive, etc., in a very hurried 
 __raise the ante__  
 __read between the lines__  
 __recipe for disaster__ The phrase “recipe for disaster” refers to a situation or combination of actions that is likely to result in failure, trouble, or a negative outcome.  
+__refrain from__  
 __repro__ :dart: __1__ _n_ (informal, computing) A method for reproducing a bug or problem. _Repro steps._ __2__ _v_ (informal, computing) To reproduce (a bug or problem).  
 __ring a bell__  
 __ring false__  
@@ -666,6 +686,7 @@ __run with it__ To take the initiative to do something independently. _I got thi
 __rush into (something)__  
 __safe to say__ The idiom “safe to say” means that something can be confidently stated or assumed to be true without much doubt or risk. It’s often used to express certainty or a high degree of likelihood about a statement or situation. For example, “It’s safe to say that everyone enjoyed the party’ means that it’s very likely or certain that everyone had a good time. _It is safe to say that the goals of the meeting were successfully met._  
 __safeguard against (someone or something)__  
+__scat__ __4__ _v_ _slang_ To leave or depart very quickly; to hustle away. Often used as an imperative. _I think I hear the police coming. Let’s scat!_ _Go on, scat!_  
 __shipmas__  
 __shipping and handling__ The costs associated with packaging and delivering a product to the person who bought it. _Our top line of vacuum cleaners is now only $250, plus shipping and handling._  
 __shipshape and Bristol fashion__  
@@ -755,6 +776,7 @@ __spending spree__
 __spill the beans__  
 __spill your guts__ To confess or reveal all, often under pressure or coercion. Ellroy often has characters facing moral dilemmas, and this idiom fits the theme of characters who must decide whether to reveal their secrets or keep them buried.  
 __spin doctor__ :smiling_imp: Someone who gives a twisted or deviously deceptive version of an event. (Usually in the context of manipulating the news for political reasons.) _Things were going bad for the candidate, so he got himself a new spin doctor._ _A good spin doctor could have made the incident appear far less damaging._  
+__spite coefficient__ It tries to quantify how much someone is willing to harm themselves (or incur a cost) to inflict harm on another. A high “Spite Coefficient” implies a greater willingness to self-sacrifice for the sake of harming someone else. It’s often used in discussions about online behavior, particularly in situations involving trolling, flaming, or other forms of antagonistic interaction.  
 __split hairs__  
 __splurge (on someone or something)__ To spend a lot of money (on someone or something) in an indulgent or self-gratifying manner.  
 __spoil for something__ _You are spoiling for a fight._ :es: te estás buscando pelea  
@@ -849,6 +871,7 @@ __tangle with (someone or something)__ To fight, argue, or engage in a dispute w
 __tap into__ :two::hammer:  
 __tap our__  
 __tape out__  
+__tax dodge__ _n informal_ A way of avoiding having to pay the full amount of tax owed; it may be legal or illegal.  
 __team up (with one)__  
 __tear up__ __1__ To violently rip or pull someone or something into pieces. In this usage, a noun or pronoun can be used between “tear” and “up.” :es: destrozar  
 __tear your hair out__ (tear (one’s) hair out) _informal_ Act with or show extreme desperation. To be extremely anxious, worried, frustrated, or stressed out about something. _We’ve been tearing our hair out trying to figure out what’s causing the server outages._  
@@ -871,6 +894,7 @@ __tick away__
 __tie in__  
 __tighten the purse strings__ To become less liberal with or more controlling of one’s expenditures; to decrease the availability of money for spending purposes. _After losing my job, I’ve had to tighten the purse strings quite a bit._  
 __till the cows come home__ See _until the cows come home._  
+__time and time again__  
 __time capsule__  
 __tinder__ _n_ :dart: Readily combustible material, such as dry twigs, used to kindle fires. _This love potion is tinder for the proverbial fire._  
 __tipflation__  

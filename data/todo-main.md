@@ -7,6 +7,7 @@ __abode__ _n_ :two: __1__ A dwelling place; a home. __2__ The act of abiding; a 
 __abound__ _vi_  
 __abstruse__ _adj_ Difficult to understand. _Syn_ deep, recondite  
 __abut__ _v_  
+__abutting__ _v_ :two::hammer:  
 __accessory__ _adj, n_ :mega: /ækˈsɛs ə ri/ /ak-ses–uh-ree/  
 __accoutrement__ _n_  
 __acerbic__ _adj_ Sharp or biting, as in character or expression. _Syn_ blistering, caustic, acid, vitriolic, acerb, acrid, sulfurous, virulent, bitter  
@@ -19,6 +20,7 @@ __adversary__ _n_ :mega: /ˈæd vərˌsɛr i/ /ˈædvəsərɪ/ /AD-ver-sair-ee/ 
 __affidavit__ _n_  
 __affordable__ _adj_ :pencil2:  
 __afoot__ _adj, adv_  
+__aft__  
 __apprehend__ _v_ :two::hammer:  
 __awash__ _adj, adv_  
 __bearing__ _n_  
@@ -32,7 +34,9 @@ __bulldozer__ _n_ __1__ A powerful tractor fitted with caterpillar tracks and a 
 __buyout__ _n_ :two::hammer:  
 __caffeine__ _n_ :mega:  
 __call-up__ _n_ The act or an instance of summoning reserve military personnel to active service. _A new military call-up._  
+__calligraphy__ _n_  
 __canard__ _n_ :smiling_imp: /kuh-NARD/ __1__ An unfounded or false, deliberately misleading story. _Canard_ refers to a false report or story, or to a belief or rumor that isn’t true. __2__ It can also refer to a kind of airplane as well as to a kind of small airfoil. _The book unfortunately repeats some of history’s oldest canards._  
+__caretaker__ _n_ _A school caretaker._  
 __cavalier__ _adj_ :dart::astonished: /ˌkæv əˈlɪər, ˈkæv əˌlɪər/ /kav-uh-LEER/ Someone described as _cavalier_ shows no concern for important or serious matters. Cavalier also describes attitudes, manners, etc., that show the same lack of concern. _The company provides regular training about the dangers of being cavalier in sharing privileged information._  
 __cavitate__ _vi_ /ˈkævɪteɪt/ To form cavities or bubbles.  
 __cavitation__ _n_  
@@ -43,9 +47,11 @@ __check<sup>1</sup>__ _n_
 __check<sup>2</sup>__ _vt_ :dart: __2a__ To arrest or slow the motion or progress of: _checked the flow by shutting a valve._ __b__ To hold in restraint; curb: _check an impulse to laugh._ _Syn_ restrain  
 __check<sup>3</sup>__ _vi_  
 __checkout line__ _n_ A queue of people waiting to pay for purchases.  
+‌__cheekily__  
 __chemistry set__ _n_ An educational toy allowing the user (typically a teenager) to perform simple chemistry experiments.  
 __cherub__ _n_ /ˈtʃɛr əb/  
 __chide__ _v_ :two::hammer:  
+__chided__ _v_  
 __chimera__ _n_ :mega:  
 __chitinous__ _adj_ Of or resembling chitin.  
 __choir__ _n_ :mega: /kwaɪər/ /kwahyuhr/  
@@ -55,12 +61,15 @@ __chortle<sup>2</sup>__ _v_ To utter a chortle or express with a chortle.
 __Christmastide__ _n_  
 __chunky__ _adj_ Short and thick; stocky. _Syn_ low-set, squat, squatty, stumpy, dumpy  
 __chutney__ _n_ :es: salsa picante de frutas y especias  
+__chutzpah__ _n_ /KHOOTS-puh/ _Chutzpah_ is shameless or disrespectful boldness often paired with reckless self-confidence. Someone with chutzpah dares to do or say things that seem shocking to others. _It took a lot of chutzpah to stand up to her boss the way she did._  
 __cipher__ _n_ __3__ One having no influence or value; a nonentity. A person of no influence. _Syn_ nobody, nonentity _He was a cipher in the estimation of the public, and nobody attached any importance to what he thought or did._  
 __circuitous__ _adj_ /ser-KYOO-uh-tus/  
 __citizen__ _n_ /ˈsɪt ə zən, -sən/  
 __claimant__ _n_ :dart: /ˈkleɪmənt/ __1__ A person who makes a claim. __2__ _(Law)_ A person who brings a civil action in a court of law. Formerly called: plaintiff  
+__clampdown__  
 __clatter__ _v_  
 __clemency__ _n_  
+__cling__ _v_  
 __cloakroom__ _n_  
 __closehanded__ _adj_ Covetous; penurious; stingy; closefisted.  
 __closen__ _v_  
@@ -69,6 +78,8 @@ __coalesce__ _v_
 __code__ _n_ [Note: _Code_ is usually uncountable in programming contexts, but it can be countable when referring to different kinds of code (like various coding systems, encryption codes, or different pieces of code), like _The software uses multiple codes to encrypt data._]  
 __collected__ _adj_  
 __colorful__ _adj_ :astonished:  
+__commutation__ _n_ :astonished: The reduction in severity of a punishment imposed by law. _Syn_ re-sentencing  
+__conducive__ _adj_  
 __conformal__ _adj_ [:scroll: from Late Latin _conformālis_ having the same shape, from Latin _com-_ same + _forma_ shape]  
 __counterfeit<sup>1</sup>__ _vt_  
 __counterfeit<sup>2</sup>__ _vi_  
@@ -157,7 +168,7 @@ __fling__ _v_ :two::hammer: (flung)
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
 __flit__ _vi_ :two: __1__ To move about rapidly and nimbly. __2__ To move quickly from one condition or location to another.  
 __florid__ _adj_ :two: __1__ Flushed with rosy color; ruddy. _A florid face._  
-__flounder__ _vi_ :two::hammer:  
+__flounder__ _vi_ :three: /FLOUN-der/ To flounder is to struggle, whether that struggle is about moving or obtaining footing (as in “horses floundering through deep snow”) or about knowing what to do or say.  
 __fluke__ _n_  
 __flunky__ _n_ :two::hammer:  
 __flyblown__ _adj_ Foul and run-down and repulsive. _Syn_ sordid, squalid _The gang met at a flyblown, grimy little bar on the edge of town to plan its next heist._  
@@ -255,7 +266,8 @@ __hard-pressed__ _adj_ :two::hammer:
 __hardened__ _adj_ __3__ (Military) (of a nuclear missile site) Constructed to withstand a nuclear attack. _A hardened missile site._  
 __hardwood__ _n_  
 __hare__ _v_  
-__harness__ _vt_  
+__harness<sup>1</sup>__ _n_ /ˈhɑr nɪs/  
+__harness<sup>2</sup>__ _vt_  
 __harpsichord__ _n_  
 __harrumph__ _vi_ :dart: (harumph) /həˈrʌmf/ To clear or make the noise of clearing the throat.  
 __hassle__ _n_  
@@ -320,6 +332,7 @@ __ingratiate__ _v_
 __inimitable__ _adj_ /in-IM-it-uh-bul/ _Inimitable_ describes someone or something that is impossible to copy or imitate.  
 __inkling__  
 __inner workings__  
+__insidious__  
 __interfere__ _v_  
 __interpenetrate__ _v_ Spread or diffuse through. _Syn_ imbue, permeate, pervade, diffuse, riddle, penetrate  
 __intersperse__ _v_  
@@ -420,8 +433,10 @@ __livid__ _adj_ :astonished::two: /LIV-id/ Livid means “very angry, enraged, o
 __lock stepping__  
 __lock-in__  
 __lockdown__ _n_ /ˈlɒkˌdəʊn/  
+__lode__  
 __loopy__ _adj_ _Loopy appellation._  
 __lowdown__ _n_  
+__ludicrous__  
 __lug__ _v_  
 __lunacy__ _n_  
 __lunge__ _v_  
@@ -467,6 +482,7 @@ __master class__ _n_
 __mastiff__ _n_ An old breed of powerful deep-chested smooth-coated dog used chiefly as a watchdog and guard dog. :es: mastín  
 __matron__ _n_ :es: supervisora; enfermera jefe; matrona  
 __matte__ _n_  
+__maw__ _n_  
 __mayhem__ _n_  
 __meanly__ _adv_ In a miserly manner. _Syn_ humbly _They lived meanly and without ostentation._  
 __measly__ _adj_ :astonished:  
@@ -550,6 +566,7 @@ __mulled wine__ _n_ Wine heated with sugar and spices and often citrus fruit.
 __mullet__ _n_ /ˈmʌlɪt/ __1__ An edible fish found in coastal waters. :es: salmonete __2__ A hairstyle in which the hair is short at the top and long at the back.  
 __multilateralism__ _n_ The practice of promoting trade among several countries through agreements concerning quantity and price of commodities, as the Common Market, and, sometimes, restrictive tariffs on goods from outsiders.  
 __multimeter__ _n_ :two::camera::mega: /ˈmʌltɪˌmiːtə/ An instrument that combines an ammeter, an ohmmeter, a voltmeter, and occasionally other measurement or testing devices into one unit. :es: multímetro  
+__muttered__ _v_  
 __mythbuster__ _n_ A person who debunks misconceptions.  
 __nail clipper__ _n_ (also called nail clippers, a nail trimmer, a nail cutter or nipper type) A hand tool used to trim fingernails, toenails and hangnails.  
 __nameplate__ _n_ __1__ A plate or plaque, as on an office door, inscribed with a name.  
@@ -598,6 +615,7 @@ __nullifier__ _n_
 __nursing__ _n_ __1__ The profession of a nurse. __2__ The tasks or care of a nurse.  
 __nurture__ _n, vt_  
 __nutmeg__ _n_  
+__obtuse__ _adj_ /ahb-TOOSS/  
 __occasion__  
 __oligopoly__  
 __one-stop__ _adj_  
@@ -607,6 +625,7 @@ __panacea__
 __paramount__  
 __Pareto-efficient__ _adj_ (Pareto efficient) Describing a situation in which the profit of one party cannot be increased without reducing the profit of another.  
 __parlay__ _v_  
+__pecking order__  
 __pensive__ _adj_ Deeply or seriously thoughtful. _Syn_ contemplative, meditative, musing, pondering, reflective, ruminative, brooding, broody  
 __peppermint__ _n_ __1__ Herb with downy leaves and small purple or white flowers that yields a pungent oil used as a flavoring. :es: menta __2__ Red gum tree of Tasmania. __3__ a candy flavored with peppermint oil. _Syn_ peppermint candy  
 __peptic ulcer__ _n_ An erosion of the mucous membrane of the lower esophagus, stomach, or duodenum, caused in part by the corrosive action of the gastric juice.  
@@ -687,6 +706,7 @@ __pool<sup>1</sup>>__ _n_
 __pool<sup>2</sup>>__ _vi_  
 __pool<sup>3</sup>>__ _vt_  
 __popeye__ _n_ /ˈpɒpˌaɪ/  
+__populace__  
 __portentous__ _adj_ Marked by pompousness; pretentiously weighty. _Syn_ overblown, pompous, grandiloquent, pontifical  
 __portfolio__  
 __pot__ _n_ __12__ _billiards snooker_ A shot by which a ball is pocketed.  
@@ -836,6 +856,7 @@ __Richter scale__ _n_ :mega: /ˈrɪk.tər skeɪl/ /rĭk′tər/ A logarithmic sc
 __ridealong__ _n_ __1__ The act of accompanying, or volunteering with, a police, paramedic, or firefighting group, usually by a student seeking hands-on experience. __2__ One who participates in this.  
 __riposte__ _n_ A quick reply to a question or remark (especially a witty or critical one). _Syn_ comeback, counter, rejoinder, replication, retort, return  
 __ripple__ _v_ :two::hammer:  
+__risible__ _adj_ Arousing or provoking laughter. _Syn_ amusing, comic, comical, funny, laughable, mirthful  
 __ristretto__ _n_ A “short shot” of a more highly concentrated espresso coffee. It is made with the same amount of ground coffee, but extracted with a finer grind (also in from 20 to 30 seconds) using half as much water.  
 __rive__ _v_ Tear or be torn violently. _Syn_ pull, rend, rip  
 __riven__ _adj_ Torn apart; damaged. _The party was riven with factional fighting._ _Syn_ torn apart, split, rent, ruptured, ripped apart, torn asunder  
@@ -889,7 +910,7 @@ __skid__ _v_ _The car skidded to a halt._ → :es: _El coche patinó y paró._
 __skiff__ _n_ :two: A flatbottom open boat of shallow draft, having a pointed bow and a square stern and propelled by oars, sail, or motor.  
 __skirmish__  
 __skulk__ _vi_  
-__skulking__ _n_ Evading duty or work by pretending to be incapacitated.  
+__skulking__ _n_ :smiling_imp::two: Evading duty or work by pretending to be incapacitated.  
 __slaver__ _n_ __1__ Saliva drooling from the mouth. _Syn_ drivel, slabber, slobber, drool, dribble __2__ Senseless and effusive talk; drivel.  
 __sleep apnea__ _n_ (compare vs _apnea_) Apnea caused by upper airway obstruction during sleep, associated with frequent awakening and often with daytime sleepiness.  
 __slop__ _n_  
@@ -918,7 +939,9 @@ __substantive__ _adj_ __1__ Substantial; considerable. __4__ 4. Of or relating t
 __swivel__ _v_ :three::hammer:  
 __swoon__ _vi_  
 __table__ _v_  
+__tapcafe__ _n_ :three::hammer:  
 __tariff__ _n_ [:scroll: Tariff came into English at the end of the 16th century, borrowed from the Italian _tariffa_, which itself came from the Arabic word _taʽrīf_, meaning “notification.”]  
+__tartly__ _adv_ :es: ásperamente  
 __tattoo__ _n_ :mega: /tæˈtu/  
 __tax brackets__  
 __teamster__ _n_ /ˈtim stər/  
