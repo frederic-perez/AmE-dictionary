@@ -168,56 +168,6 @@ __fling__ _v_ :two::hammer: (flung)
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
 __flit__ _vi_ :two: __1__ To move about rapidly and nimbly. __2__ To move quickly from one condition or location to another.  
 __florid__ _adj_ :two: __1__ Flushed with rosy color; ruddy. _A florid face._  
-__flounder__ _vi_ :three: /FLOUN-der/ To flounder is to struggle, whether that struggle is about moving or obtaining footing (as in “horses floundering through deep snow”) or about knowing what to do or say.  
-__fluke__ _n_  
-__flunky__ _n_ :two::hammer:  
-__flyblown__ _adj_ Foul and run-down and repulsive. _Syn_ sordid, squalid _The gang met at a flyblown, grimy little bar on the edge of town to plan its next heist._  
-__foist__ _vt_  
-__fold<sup>1</sup>__ _vt_ __8a__ _informal_ To discontinue operating; close: They had to fold the company a year after they started it. __b__ Games To withdraw (one’s hand) in defeat, as by laying cards face down on a table.  
-__fold<sup>2</sup>__ _vi_  
-__folk__ _n_ :two::hammer:  
-__footing__ _n_  
-__forearm__ _n_ :es: antebrazo  
-__foresee__ _vt_ /fɔrˈsi, foʊr-/ To imagine or know as a probable occurrence; anticipate or predict: _foresaw economic decline._  
-__foster parent__ _n_ (foster-parent) A person who acts as parent and guardian for a child in place of the child’s natural parents but without legally adopting the child.  
-__frank__ _adj_ __2__ Clearly manifest; evident: _frank enjoyment._  
-__fray__ _n_ :dart: :es: combate, lucha, pelea  
-__Frederick’s of Hollywood__ _n_ An American lingerie brand formerly with stores in shopping malls across the United States.  
-__friable__ _adj_ /ˈfraɪ ə bəl/ Easily crumbled or reduced to powder.  
-__Frisbee__ _n_ A trademark for a plastic disk-shaped toy that players throw and catch.  
-__frontrunner__ _n_  
-__frostbite__ _n_  
-__frugal__ _adj_ :two: /FROO-gul/ Someone described as frugal is careful about spending money or using things unnecessarily. _Frugal_ can also describe something that is simple and plain in a way that reflects such carefulness with money and resources. _Sometimes a frugal meal of bread, cheese, and grapes can be just as satisfying as a lavish feast._  
-__Fu Manchu mustache__ _n_ A mustache with ends that hang downward toward or below the chin.  
-__fugacious__ _adj_ /fyoo-GAY-shus/  
-__fulgent__ _adj_ :two: /ˈfʌl dʒənt/ /FUHL-juhnt/ /FULL-jint/ _Fulgent_ is a formal, often poetic word used to describe something that is dazzlingly bright. Shining brilliantly; radiant. _Syn_ radiant  
-__full board__ _n_ :dart: __a__ The provision by a hotel of a bed and all meals. :es: pensión completa __b__ (as modifier): _full board accommodation._  
-__fulminate__ _v_ :astonished: /FULL-muh-nayt/ To fulminate is to complain loudly or angrily about something. _The editorial fulminated against the corruption in the state government that has been recently uncovered._  
-__fumble__ _v_  
-__funfair__  
-__funkhole__  
-__furcula__ _n_  
-__fusillade__ _n_ A discharge from a number of firearms, fired simultaneously or in rapid succession. _Syn_ burst, salvo, volley  
-__fusty__ _adj_ /FUSS-tee/ Someone or something described as fusty is rigidly old-fashioned. Fusty is also used as a synonym of musty to describe things that are full of dust and unpleasant, stale odors.  
-__gabardine__ _n_ A firm, tightly woven fabric of worsted, cotton, polyester, or other fiber, with a twill weave.  
-__gabby__ _adj_ Tending to talk excessively. _Syn_ chatty, garrulous, loquacious, talkative, talky  
-__gadabout__ _n_ /GAD-uh-bout/ A gadabout is a person who flits about in social activity, as by going to many places and social events for pleasure.  
-__gaffer__ _n_ __1__ [:scroll: Probably alteration (influenced by _grandfather_) of _godfather_] An electrician in charge of lighting on a movie or television set.  
-__gag rule__ _n_  
-__gaggle__ _n_ __2__ _informal_ A disorderly group of people.  
-__gall<sup>1</sup>__ _n_  
-__gall<sup>2</sup>__ _vt_ __1__ To irk or exasperate; vex: _It galled me to have to wait outside._ __2__ To wear away or make sore by abrasion; chafe.  
-__gall<sup>3</sup>__ _vi_ To become worn or sore by abrasion.  
-__gallant__ _adj_ /GAL-unt/ Someone or something described as gallant is very courageous and brave. Gallant is also sometimes used to mean “large and impressive” (as in “a gallant ship”), or to describe someone who has or shows politeness and respect for women.  
-__gallantry__ _n_ Nobility of spirit or action; courage. _Syn_ heroism, valor  
-__galling__ _adj_ :es: mortificante  
-__gallivant__ _vi_ (galivant, galavant)  
-__gossamer__ _adj_ /GAH-suh-mer/ Something described as _gossamer_—such as a butterfly wing or a thin fabric—is very light or delicate.  
-__gouge__ _vt_  
-__gourmand__ _n_ /GOOR-mahnd/  
-__grandiloquence__ _n_ /gran-DIH-luh-kwunss/ _Grandiloquence_ is a formal word that refers to the use of extravagantly colorful or pompous language often in order to sound impressive and important.  
-__grating<sup>1</sup>__ _n_  
-__grating<sup>2</sup>__ _adj_ /ˈɡreɪtɪŋ/ __1__ (of sounds) Harsh and rasping. __2__ Annoying; irritating.  
 __gravitas__ _n_ Seriousness or sobriety, as of conduct or speech.  
 __greasepaint__ _n_ Theatrical makeup, especially a preparation of grease mixed with colorings. _Groucho applied greasepaint to enhance his comedic disguise for the show._  
 __Greenland__ _n_ /ˈgrin lənd, -ˌlænd/ :es: Groenlandia  

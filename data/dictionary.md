@@ -7572,7 +7572,7 @@ __flotation tank__ _n_ :three: (flotation chamber) _(Pseudomedicine)_ An enclose
 __flotilla__ _n_ :three::mega: __1__ A fleet of ships or boats, esp. a navy organizational unit consisting of two or more squadrons of small warships. __2__ An indefinite large number: _a flotilla of changes._ _A flotilla of rather mature-looking male models._ __3__ _informal_ A group of vehicles owned or operated as a unit: _a flotilla of limousines._  
 __flotsam__ _n_ :six: __1__ _(Nautical Terms)_ Wreckage from a ship found floating. __2__ Useless or discarded objects; odds and ends (esp in the phrase flotsam and jetsam). __3__ Vagrants.  
 __flounce__ _n_  
-__flounder__ _vi_ :nine::m: /floun′dər, ˈflaʊndə/ (floundered, floundering) __1__ To stagger or thrash about ineffectually in soft mud or water. _Floundering in and out of deep pools._ :es: andar dificultosamente __2__ To behave or speak in a blundering or incompetent way, as a result of being at a loss. :es: perder el hilo  
+__flounder__ _vi_ :nine::m: /floun′dər, ˈflaʊndə/ /FLOUN-der/ To flounder is to struggle, whether that struggle is about moving or obtaining footing (as in “horses floundering through deep snow”) or about knowing what to do or say. __1__ To stagger or thrash about ineffectually in soft mud or water. _Floundering in and out of deep pools._ :es: andar dificultosamente __2__ To behave or speak in a blundering or incompetent way, as a result of being at a loss. :es: perder el hilo  
 __flourish<sup>1</sup>__ _n_ :four::hammer::astonished::camera: _A flourish of drums and cymbals._ _A flourish of proposals._  
 __flourish<sup>2</sup>__ _v_ _The trumpeters were flourishing bright pennants from their silver trumpets._  
 __flout__ _v_ :nine::m: (flouts, flouted, flouting) /flaʊt/ __1__ To ignore or disregard (a rule or convention, for example) in an open or defiant way. _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._ _Illegal campers who persist in flouting the law._ _Public flouting of ordinances was to blame._ :es: no prestar atención a; ignorar; incumplir __2__ To show disdain or scorn; scoff, mock, or gibe. Laugh at with contempt and derision. :es: burlarse de  
@@ -7588,13 +7588,13 @@ __flue__ _n_ __1__ (Building) A shaft, tube, or pipe, esp as used in a chimney, 
 __fluff__ _n_ :four::hammer: __4__ _informal_ A mistake, esp in speaking or reading lines or performing music. _I am talking about the tools in my real-life, absolutely ZERO-fluff kinda way._  
 __fluffy slippers__ _n_ :camera:  
 __fluffy__ _adj_ :three::hammer: _Fluffy omelets and giant salads._  
-__fluke__ _n_ :nine::mega: /fluːk/ An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
+__fluke__ _n_ :nine::m::mega: /fluːk/ An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
 __fluky__ _adj_  
 __flummox__ _vt_ :nine::m::dart: /FLUM-uks/ (flummoxed) To confuse; perplex. _Syn_ baffle, bewilder, nonplus, puzzle _The game was designed to flummox its players, presenting them with a series of complex riddles._ _Why the error message kept popping up flummoxed the computer tech._  
 __flummoxed__ _adj_ :three: /ˈflʌməkst/ Perplexed or bewildered. _He became flummoxed and speechless._  
 __flung__ _v_ :two::hammer:  
 __flunk__ _v_ :three: To fail an exam or a course of study. _John flunked maths._  
-__flunky__ _n_ :five: (flunkie) __1a__ A liveried servant. A person of unquestioning obedience. _Syn_ stooge, yes-man _I liked the play, but I felt that the character of Joe was too much of a flunky, always trying to please Roger and never standing up for himself._ __b__ One performing menial or miscellaneous duties. _You’re just another flunkie for the state._  
+__flunky__ _n_ :seven: (flunkie) __1a__ A liveried servant. A person of unquestioning obedience. _Syn_ stooge, yes-man _I liked the play, but I felt that the character of Joe was too much of a flunky, always trying to please Roger and never standing up for himself._ __b__ One performing menial or miscellaneous duties. _You’re just another flunkie for the state._  
 __fluorescent__ _adj, n_ :mute:[fluores~~c~~ent]  
 __fluoridation__ _n_ The addition of a fluoride to the water supply (to prevent dental decay). _Syn_ fluoridization  
 __flurry > in a flurry__  
@@ -7611,6 +7611,7 @@ __fluttering__ _n_
 __fly high__  
 __fly-by-night__  
 __flyaway__ _adj_ __2__ Guided by whim and fancy. _Syn_ flighty, head-in-the-clouds, scatterbrained _The flyaway young girl came to the formal dinner covered in dirt, as she had opted to roll down the hill instead of going around it like her sisters._  
+__flyblown__ _adj_ Foul and run-down and repulsive. _Syn_ sordid, squalid _The gang met at a flyblown, grimy little bar on the edge of town to plan its next heist._  
 __flyboard__  
 __flybys__ _n_  
 __flyer__ _n_ :three::hammer: [:scroll: For a while in the 19th century, flier and flyer were neck-in-neck in terms of popularity, but these days flyer is by far the more common spelling.] _He caught such a flyer leaving the gate I had to take advantage of it._ _He took a flyer occasionally._  
@@ -7629,9 +7630,10 @@ __fogy__ _n_ An extremely old-fashioned or conservative person (usu. prec. by ol
 __foible__ _n_ :nine::m: /ˈfɔɪbəl/ /FOY-bul/ A minor weakness or failing of character. A behavioral attribute that is distinctive and peculiar to an individual. Foibles are minor flaws or shortcomings in character or behavior. In fencing, foible refers to the part of a sword’s blade between the middle and point, which is considered the weakest part. _He was amused daily by the foibles of his eccentric neighbor._ :es: manía _Syn_ fault, defect, imperfection _His father’s foibles did not prevent his son from loving and honoring him._  
 __foil<sup>1</sup>__ _n_ :four::hammer: _He lost in the round of 32 in individual foil._ _Blister packs are pre-formed plastic/paper/foil packaging used for formed solid drugs._  
 __foil<sup>2</sup>__ _vt_ :eight::hammer: (foiled) _The story’s comic foils along with King’s mother._ _As many as five terror plots were foiled last year._ _A foiled attack._  
-__foist__ _v_ :seven::smiling_imp: /FOIST/ __1__ To pass off as genuine, valuable, or worthy: _“I can usually tell whether a poet ... is foisting off on us what he’d like to think is pure invention” (J.D. Salinger)._ __2__ _Foist_, which is almost always used with _on_ or _upon_, is used when someone forces another person to accept something, usually something that is not good or is not wanted. To impose (something or someone unwanted) upon another by coercion or trickery: _They had extra work foisted on them because they couldn’t say no to the boss._ __3__ To insert fraudulently or deceitfully: _foisted unfair provisions into the contract._  
-__fold<sup>1</sup>__ _v_ :five: __8a__ _Informal_ To discontinue operating; close: _They had to fold the company a year after they started it._ _By the end of 1953 all his digest magazines had folded._ _The newspaper subsequently folded._ _The American Soccer League folded in 1931._ __b__ _Games_ To withdraw (one’s hand) in defeat, as by laying cards face down on a table.  
-__fold<sup>2</sup>__ _n_ _n_ :three::hammer: __1__ A fenced enclosure for livestock, especially sheep. _They kept the devious students in the fold._ _It brought many viewers into the fold._ _Mowcow organized rallies to welcome Crimea into the fold._  
+__foist__ _vt_ :eight::smiling_imp: /FOIST/ __1__ To pass off as genuine, valuable, or worthy: _“I can usually tell whether a poet ... is foisting off on us what he’d like to think is pure invention” (J.D. Salinger)._ __2__ _Foist_, which is almost always used with _on_ or _upon_, is used when someone forces another person to accept something, usually something that is not good or is not wanted. To impose (something or someone unwanted) upon another by coercion or trickery: _They had extra work foisted on them because they couldn’t say no to the boss._ __3__ To insert fraudulently or deceitfully: _foisted unfair provisions into the contract._  
+__fold<sup>1</sup>__ _vt_ :six: __8a__ _Informal_ To discontinue operating; close: _They had to fold the company a year after they started it._ _By the end of 1953 all his digest magazines had folded._ _The newspaper subsequently folded._ _The American Soccer League folded in 1931._ __b__ _Games_ To withdraw (one’s hand) in defeat, as by laying cards face down on a table.  
+__fold<sup>2</sup>__ _vi_  
+__fold<sup>3</sup>__ _n_ _n_ :three::hammer: __1__ A fenced enclosure for livestock, especially sheep. _They kept the devious students in the fold._ _It brought many viewers into the fold._ _Mowcow organized rallies to welcome Crimea into the fold._  
 __foldaway__ _adj_ :dart::two: Designed to be folded up for easy storage: _a foldaway bed._ _Foldaway cot._  
 __folderol__  
 __foldout chair__ _n_  
@@ -7640,7 +7642,7 @@ __foliage__ _n_ :mega: /FOH-lee-ij/ /ˈfoʊ li ɪdʒ/ Foliage refers to the leav
 __foliaged__ _adj_  
 __folie à deux__ _n_ Mental illness occurring simultaneously in two intimately related persons who share some of the elements of the illness, such as delusions.  
 __folio__ _n_  
-__folk__ _n_ _n pl_ :five::hammer::mute:[fo~~l~~k]  
+__folk__ _n_ _n pl_ :seven::hammer::mute:[fo~~l~~k]  
 __folks__ _n pl_ :astonished: [Very popular synonym to _people_ in rural areas of the US, possibly because of the large number of German, Dutch and Scandinavian immigrants in that part of the world.]  
 __folksy__ _adj_  
 __follow the leader__ _n_ (game) _Playing a delicate game of follow the leader._  
@@ -7675,7 +7677,7 @@ __footage__ _n_ :six::mega::hammer: /ˈfʊt ɪdʒ/
 __footbullets__  
 __foothill__ _n_ :four: A low hill at the base of a mountain or mountain range.  
 __foothold__ _n_ :four::hammer: _A foothold._  
-__footing__ _n_ :three::hammer: _I found my footing._ _Last year a student died after losing her footing here._ _Competing on an equal footing._  
+__footing__ _n_ :four::hammer: _I found my footing._ _Last year a student died after losing her footing here._ _Competing on an equal footing._  
 __footling__ _adj_ _informal_ Small and of little importance. _Syn_ fiddling, niggling, picayune, piddling, piffling, trivial, petty, lilliputian, little _His footling gestures were insufficient to win back my favor._  
 __footloose<sup>1</sup>__ _adj_ :five::pencil2: /FUUT-loos/ Free to go or do as one pleases without concerns or commitments. _Footloose knights._  
 __footloose<sup>2</sup>__ _n_ _Travel clothes for the footloose._  
@@ -7703,6 +7705,7 @@ __forceps__ _n_
 __forcible__ _adj_ :four::hammer:  
 __fore and aft__ _adv_ :two::hammer: _Printed on book paper with sixteen pages of slick stock fore and aft._  
 __fore__ _n_ :four::hammer:  
+__forearm__ _n_ :es: antebrazo  
 __forebear__ _n_ :three: A person from whom one is descended. _Syn_ ancestor, predecessor, progenitor _I am hoping that a visit to the land of my forebears will help me get in touch with my roots._  
 __forebode__ _v_ :six: (foreboding) __1__ (of a situation or occurrence) Act as an advance warning of (something bad). _This lull foreboded some new assault upon him._ _Syn_ presage, augur, portend, forecast, predict __2__ Have a presentiment of (something bad). _I foreboded mischief the moment I heard._ :es: presagiar, presentir  
 __foreboding<sup>1</sup>__ _n_ :two: __1__ A prediction; portent. __2__ A strong inner feeling or notion of a future misfortune, evil, etc.; presentiment.  
@@ -7727,7 +7730,7 @@ __forenoon__ _n_ :two::astonished::hammer: _We had a real gully washer in the fo
 __forensics__ _n_ :two::hammer:  
 __foreplay__  
 __forerunner__ _n_ :two::hammer:  
-__foresee__ _v_ (foreseen)  
+__foresee__ _vt_ :two: /fɔrˈsi, foʊr-/ To imagine or know as a probable occurrence; anticipate or predict: _foresaw economic decline._  
 __foreseeable__ _adj_ :four::hammer: _The foreseeable future._  
 __foreshadow__ _v_ :five::hammer:  
 __Forest Recreation Park__  
@@ -7788,6 +7791,7 @@ __fortuitous__ _adj_ :two::pencil2: /for-TOO-uh-tus/ __1__ Happening by chance. 
 __fortune telling__ _n_  
 __forward-thinking__ _adj_ Thinking about and planning for the future. _Syn_ forward-looking  
 __foster care__ _n_ :four::hammer:  
+__foster parent__ _n_ (foster-parent) A person who acts as parent and guardian for a child in place of the child’s natural parents but without legally adopting the child.  
 __foster__ _v_ :four::hammer: _It will foster further technology development._  
 __foul language__  
 __foul play__ _n_ :eight::dart: Violence, _esp_ murder.  
@@ -7831,7 +7835,8 @@ __franchise__ _n_ :two: __2a__ The right of membership in a professional sports 
 __franchisee__ _n_  
 __franchiser__ _n_  
 __frangible__ _adj_ :two: Capable of being broken; breakable.  
-__frank__ _v_ (franked)  
+__frank<sup>1</sup>__ _adj_ __2__ Clearly manifest; evident: _frank enjoyment._  
+__frank<sup>2</sup>__ _v_ (franked)  
 __frankincense__ _n_ :two::astonished: :es: incienso  
 __frantic__ _adj_ :two::hammer:  
 __Frappuccino__  
@@ -7843,7 +7848,7 @@ __frats__ _n_
 __fraudster__ _n_ /ˈfrɔːdstə/ A swindler.  
 __fraudulent__ _adj_ :two::hammer:  
 __fraught__ _adj_ :nine::m: /FRAWT/ __1__ (of a situation or course of action) Filled with (something undesirable). When fraught is used in the phrase “fraught with,” it means “full of something bad or unwanted.” _Ever since their cat went missing, the atmosphere in their apartment has been fraught._ _The paper was poorly researched and fraught with errors._ _Marketing any new product is fraught with danger._ _Predicting the future is fraught with danger._ __2__ Causing or having a lot of emotional stress or worry. Causing or affected by anxiety or stress. _One of the most fraught jobs in government._  
-__fray<sup>1</sup>__ _n_ :three::hammer: _A bitter partisan fray._  
+__fray<sup>1</sup>__ _n_ :dart::four::hammer: :es: combate, lucha, pelea _A bitter partisan fray._  
 __fray<sup>2</sup>__ _v_ :nine::m: (frayed) _(of a person’s nerves or temper)_ Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge _The alliance between the groups frayed._  
 __frayed__ _adj_ :two: __1__ (of fabrics or clothing) Unravelling at the edges from damage or wear. _A frayed suit._ __2__ (of temper, nerves, patience, etc) Under great strain. _Frayed nerves._  
 __frazzle<sup>1</sup>__ _v_ :four: (frazzled) __1__ To wear away along the edges; fray. __2__ To exhaust physically or emotionally.  
@@ -7852,6 +7857,7 @@ __frazzled__ _adj_ :five::hammer: _Sexist ads banned: No fumbling dads, frazzled
 __freak out<sup>1</sup>__ _n_ :three::hammer: (freak-out)  
 __freak out<sup>2</sup>__ _v_ :three::hammer:  
 __freak__ _adj_ _A freak chemistry lab experiment._  
+__Frederick’s of Hollywood__ _n_ An American lingerie brand formerly with stores in shopping malls across the United States.  
 __free commune__ _n_ :es: municipio libre  
 __free estimate__ _n_ :three::hammer: _Call now for your free estimate._  
 __free fall__ _n_  
@@ -7890,6 +7896,7 @@ __fretful__ _adj_ :dart::three: Habitually complaining. _Syn_ querulous, whiny
 __frets__ _n_ _He pressed the bottle neck down on the frets of the guitar._  
 __fretted__ _adj_  
 __fretwork__  
+__friable__ _adj_ /ˈfraɪ ə bəl/ Easily crumbled or reduced to powder.  
 __friar__ _n_ :two: A member of any of various chiefly mendicant religious orders of the Roman Catholic Church, the main orders being Black Friars (Dominicans), Grey Friars (Franciscans), White Friars (Carmelites), and Austin Friars (Augustinians).  
 __friction__ _n_ :two::hammer: _The coefficient of friction._  
 __Friday__ _n_ :mega: /’fraIdi, -deI/  
@@ -7904,7 +7911,7 @@ __frill<sup>2</sup>__ _v_
 __frilled__ _adj_ Having decorative ruffles or frills. _Frilled apron._  
 __frilly__  
 __fringe__  
-__Frisbee__ _n_ :two: /ˈfrɪz bi/ A trademark for a plastic disk-shaped toy that players throw and catch.  
+__Frisbee__ _n_ :three: /ˈfrɪz bi/ A trademark for a plastic disk-shaped toy that players throw and catch.  
 __frisk__ _v_ :six::hammer: (frisked, frisking) _I have to frisk you._  
 __frisky__ _adj_  
 __frisson__ _n_ :nine: /free-SOHN (the second vowel is pronounced nasally)/ Frisson refers to a brief moment of emotional excitement. A sudden strong feeling of excitement, fear, or pleasure. A French word meaning a shiver, used to mean a thrill or sensation of excitement or fear. _Syn_ chill, quiver, shiver, shudder, thrill, tingle _The story’s ending arouses a frisson of terror._ _A frisson of excitement._  
@@ -7937,11 +7944,11 @@ __frontispiece__ _n_ :two::hammer:
 __frontline<sup>1</sup>__ _n_ :two::hammer: (front line)  
 __frontline<sup>2</sup>__ _adj_ :two: (front-line) __1__ Located or designed to be used at a military front line: _a frontline ambulance helicopter._ __2__ Of, relating to, or involving the forefront in any action, activity, or field: _a frontline TV reporter._ __3__ Highly experienced or proficient in the performance of one’s duties. __4__ Of or relating to essential work that depends on in-person interactions and may involve some risk, especially policing, healthcare, emergency services, public transit, grocery, warehouse, and delivery work: _Congress is taking up a bill that would guarantee sick leave and hazard pay to frontline workers._  
 __frontliner__ _n_ A frontliner is a frontline worker, especially in healthcare and other essential, often public-facing jobs.  
-__frontrunner__ _n_  
+__frontrunner__ _n_ :three::hammer:  
 __frosh__  
 __Frost Belt__ _n_ (Frostbelt) The north-central and northeast United States.  
 __frost__ _n_  
-__frostbite__ _n_ :eight::hammer: :es: congelación  
+__frostbite__ _n_ :nine::hammer: :es: congelación  
 __frosted glass__ _n_ _Illuminated by domes of frosted glass._  
 __frosted silver__  
 __frosting__ _n_  
@@ -7954,7 +7961,7 @@ __frozen custard__ _n_ Dessert resembling ice cream but with a boiled custard ba
 __frozen shoulder__  
 __frozen yogurt__ _n_ :two::hammer: _Non-fat frozen yogurt._  
 __fructify__ _v_ /FRUK-tuh-fye/ __1__ To make fruitful or productive. __2__ To bear fruit or profit. _Her parents are in a comfortable financial position, thanks to some investments that have recently begun to fructify._  
-__frugal__ _adj_ :eight: __1__ Practicing or marked by economy, as in the expenditure of money or the use of material resources. __2__ Simple or costing little; meager or inexpensive: _a frugal lunch._  
+__frugal__ _adj_ :nine::m: /FROO-gul/ Someone described as frugal is careful about spending money or using things unnecessarily. _Frugal_ can also describe something that is simple and plain in a way that reflects such carefulness with money and resources. __1__ Practicing or marked by economy, as in the expenditure of money or the use of material resources. __2__ Simple or costing little; meager or inexpensive: _a frugal lunch._ _Sometimes a frugal meal of bread, cheese, and grapes can be just as satisfying as a lavish feast._  
 __frugivorous__ _adj_ Feeding on fruit.  
 __fruit basket__ _n_ A basket containing a variety of fruits sent as a gift. _California’s Central Valley, fruit basket to the nation._  
 __Fruit Belt__ _n_ Fruit Belt is a term in the United States for an area where the microclimate provides good conditions for fruit growing. Fruit Belts are prominent around the North American Great Lakes region.  
@@ -7962,6 +7969,7 @@ __fruit juice__ _n_ _Items available on the buffet include assorted pastries, fr
 __fruitful__  
 __fruition__ _n_ :three: /froo-ISH-un/ Fruition refers to a state of being complete or fully realized. It’s usually used in the phrases “come to fruition” or “bring to fruition.” Fruition can also refer to the state of bearing fruit. The realization or fulfilment of a plan or project. _The plans have come to fruition rather sooner than expected._ _Syn_ fulfilment, realization  
 __frumpy__ _adj_ :four::hammer:  
+__Fu Manchu mustache__ _n_ A mustache with ends that hang downward toward or below the chin.  
 __fubar__ _adj_  
 __fuchsia__ _n_ :three::mega::pencil2::hammer:  
 __fucko__ _n_ A jackass, dumbshit sort of person, who although tries to be smart about things ends up with their head up their ass.  
@@ -7970,12 +7978,13 @@ __fudge<sup>1</sup>__ _n_ :three::hammer:
 __fudge<sup>2</sup>__ _adj_  
 __fudge<sup>3</sup>__ _v_ :five::hammer: /fʌdʒ/ _You can’t fudge this thinking._ _Fudging statistics._  
 __fuel__ _v_ :two::hammer::mega:  
-__fugacious__ _adj_ Passing away quickly; evanescent. _Syn_ ephemeral, passing, short-lived, transitory, transient  
+__fugacious__ _adj_ :two: /fyoo-GAY-shus/ Passing away quickly; evanescent. _Syn_ ephemeral, passing, short-lived, transitory, transient  
 __fulcrum__ _n_ :five: /FULL-krum/ In technical use, fulcrum refers to the support on which a lever moves when it is used to lift something. In figurative use, fulcrum refers to a person or thing that makes it possible for something to function or develop, or in other words, one who plays an essential role in something. _Although the lead actor was phenomenal, critics believe that the supporting cast was the real fulcrum of the show._  
 __fulfill__ _v_ :two::hammer: _Fulfill the requirements._  
 __fulfillment__ _n_ :pencil2:  
-__fulgent__ _adj_ Shining brilliantly; radiant.  
+__fulgent__ _adj_ :three: /ˈfʌl dʒənt/ /FUHL-juhnt/ /FULL-jint/ _Fulgent_ is a formal, often poetic word used to describe something that is dazzlingly bright. Shining brilliantly; radiant. _Syn_ radiant  
 __fulgurant__ _adj_ /FUHL/FULL-guh-ruhnt/ __1__ Flashing like lightning. __2__ Brilliant.  
+__full board__ _n_ :dart: __a__ The provision by a hotel of a bed and all meals. :es: pensión completa __b__ (as modifier): _full board accommodation._  
 __full circle__ _adv_ Back to an original state or position. Often used in the phrase “come/go full circle.” _I started out as an excellent student, and now that my grades are starting to improve again, I feel like I’ve come full circle._  
 __full disclosure__  
 __full nelson__ _n_ A wrestling hold in which the holder puts both arms under the opponent’s arms and exerts pressure on the back of the neck (illegal in amateur wrestling).  
@@ -7988,11 +7997,11 @@ __fullback__ _n_ _football_ :two::hammer: (fullbacks)
 __fuller__ _n_ _A crowd of fullers and weavers._  
 __fulling mill__ _n_ A mill for fulling cloth as by means of pesties or stampers, which alternately fall into and rise from troughs where the cloth is placed with hot water and fuller’s earth, or other cleansing materials.  
 __fullness__  
-__fulminate__ _v_ /ˈfʌlmɪˌneɪt; ˈfʊl-/ __1__ (often foll by: against) To make criticisms or denunciations; rail. __2__ To explode with noise and violence.  
+__fulminate__ _v_ :astonished::two: /FULL-muh-nayt/ /ˈfʌlmɪˌneɪt; ˈfʊl-/ __1__ (often foll by: against) To make criticisms or denunciations; rail. To fulminate is to complain loudly or angrily about something. _The editorial fulminated against the corruption in the state government that has been recently uncovered._ __2__ To explode with noise and violence.  
 __fulsome__ _adj_ :dart::four: /ˈfʊl səm, ˈfʌl-/ __1__ Offensive to good taste, esp. as being excessive; overdone: _fulsome décor._ Unpleasantly and excessively suave or ingratiating in manner or speech. _Syn_ unctuous, buttery, oleaginous, smarmy, oily _His introduction contained such fulsome flattery that I began to wonder whether anything else he said could be trusted._ __2__ Disgusting; sickening; repulsive: _fulsome mounds of greasy foods._ __3__ Expressing a lot of admiration or praise for someone, often too much, in a way that does not sound sincere. Excessively or insincerely lavish: _fulsome admiration._ _Our guests were fulsome in their compliments about the food._ _While most of the speeches expressed sincere appreciation for the outgoing CEO’s leadership, some were dense with fulsome and cringeworthy accolades._ __4__ Encompassing all aspects; comprehensive. __5__ Abundant or copious. _The photographs celebrate the island’s fulsome biodiversity._  
 __fumarole__ _n_ A hole in a volcanic area from which hot smoke and gases escape.  
 __fumble<sup>1</sup>__ _n_ _Cole returned a fumble 52 yards for a touchdown._  
-__fumble<sup>2</sup>__ _v_ :four::hammer: _She fumbled a Lucky Strike from a pack and worked at a book of matches._ _I fumbled for two years._  
+__fumble<sup>2</sup>__ _v_ :five::hammer: _She fumbled a Lucky Strike from a pack and worked at a book of matches._ _I fumbled for two years._  
 __fumbling__ _adj_ Showing lack of skill or aptitude. _Sexist ads banned: No fumbling dads, frazzled wives._  
 __fume<sup>1</sup>__ _n_  
 __fume<sup>2</sup>__ _v_ :three::hammer: _My father was fuming._  
@@ -8005,9 +8014,11 @@ __funambulist__ _n_ An acrobat who performs on a tightrope or slack rope. _Syn_ 
 __fundraiser__ _n_ _They were at a fundraiser._  
 __funeral potatoes__ _n_ A casserole of hash browns or cubed potatoes, cheese, and onions, in a creamy soup or sauce, often served at large family gatherings in the Midwest and especially in the Mormon Church. _Syn_ Mormon funeral potatoes, Mormon potatoes, party potatoes  
 __funereal__ _adj_ :pencil2: _Funereal tone._  
+__funfair__  
 __fungible__ _adj_ :two::hammer: /FUN-juh-bul/  
 __funhouse__ _n_ (fun house) _Funhouse-like reflections._  
 __funk__ _n informal_ :eight: __1__ A state of paralysing fear. __2__ A fit or inability to face difficulty. _She breathed the funk that rose from her armpits._ _I started to emerge from my Catholic funk._ _The Packers offense are in full-fledged funk._  
+__funkhole__  
 __funky__ _adj_ :two::hammer: _A funky dining room._ _Funky shoes._  
 __funnel cake__ _n_ :two::hammer:  
 __funnel__ _v_ :two::hammer:  
@@ -8018,6 +8029,7 @@ __funny stomach__
 __fur-ternity leave__  
 __furbelow__ _n_ A strip of pleated material used as a decoration or a trim. _Syn_ ruffle, flounce, frill  
 __furbish__ _v_  
+__furcula__ _n_  
 __furled__ _v_ :two::hammer:  
 __furlong__ _n_ :three: An eighth of a mile, 220 yards, 201.168 meters. _The colt went to the track for a 5-furlong workout._  
 __furlough<sup>1</sup>__ _n_ :five: Leave of absence, especially that granted to a member of the services or a missionary. _A civil servant home on furlough._ :es: permiso (militar, por ejemplo)  
@@ -8036,7 +8048,7 @@ __furuncle__ _n_ A painful sore with a hard pus-filled core. _Syn_ boil _His doc
 __fuschia__ _n_ (fuschias)  
 __fuse__ _n_ _Diabetes is like a time bomb with a long fuse._  
 __fuselage__  
-__fusillade__ _n_ :three::hammer: _A fusillade of shots._  
+__fusillade__ _n_ :four: A discharge from a number of firearms, fired simultaneously or in rapid succession. _Syn_ burst, salvo, volley _A fusillade of shots._  
 __fusion cooking__ _n_ Cooking that combines ingredients and techniques and seasonings from different cuisines.  
 __fuss-budget__ _n_ A person who fusses over trifles. _Syn_ fusspot, worrier, worrywart _Stop being such a fuss-budget, and just relax and have fun!_  
 __fuss<sup>1</sup>__ _n_ :three::hammer:  
@@ -8046,6 +8058,7 @@ __fussy__ _adj_ :dart:three::astonished: __1__ Inclined to fuss over minor point
 __fustian<sup>1</sup>__ _n_  
 __fustian<sup>2</sup>__ _adj_ :two: __1__ Cheap; worthless. __2__ Pompous; bombastic.  
 __fustigate__ _v_ /FUSS-tuh-gayt/ Fustigate means “to criticize severely.” Its older, less common meaning is “to beat with or as if with a short heavy club.” _The singer’s awards show performance was fustigated by several prominent media outlets._  
+__fusty__ _adj_ /FUSS-tee/ Someone or something described as fusty is rigidly old-fashioned. Fusty is also used as a synonym of musty to describe things that are full of dust and unpleasant, stale odors.  
 __futile__ _adj_ :six::hammer::mega: /ˈfyut l, ˈfyu taɪl/ /FYOO-tul/  
 __futility__ _n_ :six::hammer:  
 __fuzz__ _n_ _slang_ :two::hammer: The police. _He’d love her with bad skin and no breasts and thick fuzz on her upper lip._  
@@ -8053,22 +8066,24 @@ __G-Man__
 __gab away__ _v_ _The gang was gabbing away._  
 __gab<sup>1</sup>__ _v_ :two::hammer:  
 __gab<sup>2</sup>__ _n_ :two::hammer: _The gift of gab._  
-__gabardine__ _n_ :two: (gaberdine) A firm, tightly woven fabric of worsted, cotton, or other fiber, with a twill weave.  
+__gabardine__ _n_ :three: (gaberdine) A firm, tightly woven fabric of worsted, cotton, or other fiber, with a twill weave.  
 __gabbing__  
+__gabby__ _adj_ Tending to talk excessively. _Syn_ chatty, garrulous, loquacious, talkative, talky  
 __gabelle__ _n_ A tax, especially the salt tax imposed in France before 1790.  
 __gaberdine__ _n_ A loose coverall (coat or frock) reaching down to the ankles. _Syn_ dust coat, smock, duster _He was an unshaven little man in a threadbare coat like a gaberdine, with his feet in slippers, and I thought him a harmless fool._  
 __gabfest__  
 __gable__ _n_ :three::hammer:  
 __gabled__ _adj_ :two::hammer: _Gabled roofs._  
 __Gabor__ _n_ :mega:  
-__gadabout__ _n_ A person who goes from place to place in social activity.  
+__gadabout__ _n_ :two: /GAD-uh-bout/ A gadabout is a person who flits about in social activity, as by going to many places and social events for pleasure. A person who goes from place to place in social activity.  
 __gadfly__ _n_ :three: /GAD-flye/ In literal use, gadfly refers to any of various flies (such as a horsefly, botfly, or warble fly) that bite or annoy livestock. Any of various flies, as a horsefly or warble fly, that bite or annoy livestock. __2__ Gadfly is most popular in figurative use, however, where it refers to someone who provokes or annoys other people especially by persistent criticism. _The journalist was known as a gadfly for exposing hypocrisy in politics._ A person who persistently annoys or stirs up others, esp. with provocative criticism.  
 __gaff__ _n_  
 __gaffe__ _n_ :nine: /ɡæf/ __1__ A clumsy social error, esp a tactless remark; a faux pas. _Syn_ slip, solecism, gaucherie _He knew by the silence that greeted his speech that he had made some kind of gaffe._ __2__ A blatant mistake or misjudgment.  
-__gaffer__ _n_ _Br_ :two: Boss.  
+__gaffer__ _n_ :three::hammer: __1__ [:scroll: Probably alteration (influenced by _grandfather_) of _godfather_] An electrician in charge of lighting on a movie or television set. __2__ _Br_ Boss.  
 __gag order__ _n_  
+__gag rule__ _n_  
 __gag__ _n_ _The cases’s gag order._  
-__gaggle__ _n informal_ :nine::m: A disorderly group of people. _A gaggle of Phillies fans taunted him._ _The media gaggle._ _A gaggle of students._ _A gaggle of geese._ _A gaggle of businessmen._ _A gaggle of mystery digests._ _A gaggle of tourists._  
+__gaggle__ _n informal_ :dart::nine::m: A disorderly group of people. _A gaggle of Phillies fans taunted him._ _The media gaggle._ _A gaggle of students._ _A gaggle of geese._ _A gaggle of businessmen._ _A gaggle of mystery digests._ _A gaggle of tourists._  
 __gaiety__ _n_ _Frenetic gaiety._  
 __gainsay__ _v_ :two: /gayn-SAY/ Gainsay is a formal word that means “to deny or disagree with something,” or “to show or say that (something) is not true.” To oppose, especially by contradiction. _Syn_ challenge, dispute _Although the defendant initially denied involvement in the incident, there was no gainsaying the evidence that the prosecutor presented at the trial._  
 __gait__ _n_ :two::hammer: _A pretty boy with a swing in his gait._  
@@ -8080,17 +8095,20 @@ __galboy__ _n_
 __gale__ _n_ :six: An extremely strong wind: _the gale blew down hundreds of trees._  
 __galimatias__ _n_ _rare_ Confused talk; gibberish.  
 __gall__ _v_ (galled)  
-__gallant__ _adj_  
-__gallantry__ _n_ _He was awarded the Silver Star Medal for Gallantry in Action._  
+__gall<sup>1</sup>__ _n_  
+__gall<sup>2</sup>__ _vt_ __1__ To irk or exasperate; vex: _It galled me to have to wait outside._ __2__ To wear away or make sore by abrasion; chafe.  
+__gall<sup>3</sup>__ _vi_ To become worn or sore by abrasion.  
+__gallant__ _adj_ :two: /GAL-unt/ Someone or something described as gallant is very courageous and brave. Gallant is also sometimes used to mean “large and impressive” (as in “a gallant ship”), or to describe someone who has or shows politeness and respect for women.  
+__gallantry__ _n_ :two: Nobility of spirit or action; courage. _Syn_ heroism, valor _He was awarded the Silver Star Medal for Gallantry in Action._  
 __gallbladder__  
 __galleon__ _n_  
 __galleria__ _n_ _Cafe galleria._  
 __galley__ _n_ :four::hammer: :es: galera  
 __Gallicism__ _n_  
 __gallimaufry__ _n_ :two: A jumble; a hodgepodge. _Syn_ patchwork, melange, ragbag _Inside the chest, he found a gaudy gallimaufry of old dresses, feathers, and sequins._  
-__galling__ _adj_ :five: Irritating, exasperating, or bitterly humiliating. Causing extreme irritation or chagrin; vexing: _a galling delay; a galling setback to their plans._ _A galling loss._  
+__galling__ _adj_ :six: Irritating, exasperating, or bitterly humiliating. Causing extreme irritation or chagrin; vexing: _a galling delay; a galling setback to their plans._ _A galling loss._ :es: mortificante  
 __Gallionic__ _adj_ Indifferent or uncaring. After Gallio, a Roman senator, who refused to take action in a dispute.  
-__gallivant__ _vi_ :two: /GAL-uh-vant/ To go or travel to many different places for pleasure. _She spent her gap year gallivanting around Europe with her best friend._  
+__gallivant__ _vi_ :three: (galivant, galavant) /GAL-uh-vant/ To go or travel to many different places for pleasure. _She spent her gap year gallivanting around Europe with her best friend._  
 __gallons__ _n pl_ Great quantities. _Things get interesting at feeding time, when gallons of minnows are tossed in the pool._  
 __galloping__  
 __gallows__ _n_ :two::hammer:  
@@ -8511,18 +8529,18 @@ __gorse__
 __gory__ _adj_ :two::hammer:  
 __gosling__ _n_ :two: __1__ A young goose. __2__ A naive or inexperienced young person.  
 __gospel__ _n_ :two::hammer: /GOS-puhl/ :es: evangelio  
-__gossamer<sup>1</sup>__ _adj_ :two: /GAH-suh-mer/ Sheer, light, delicate, or tenuous. _Syn_ ethereal _Tasting cotton candy for the first time, the child was thrilled by the gossamer treat._  
+__gossamer<sup>1</sup>__ _adj_ :three: /GAH-suh-mer/ Something described as _gossamer_—such as a butterfly wing or a thin fabric—is very light or delicate. Sheer, light, delicate, or tenuous. _Syn_ ethereal _Tasting cotton candy for the first time, the child was thrilled by the gossamer treat._  
 __gossamer<sup>2</sup>__ _n_ :four::hammer: /GAH-suh-mer/ __2__ Any thin, light fabric, esp. one used for veils.  
 __gossip__ _v_ /GAH-sup/ To gossip is to talk about the personal lives of other people.  
 __gossipy__ _adj_  
 __gotcha__  
 __Goth__ _n_  
-__gouge<sup>1</sup>__ _v_ :nine::m: (gouged) __1__ To cut or scoop out with or as if with a gouge: _“He began to gouge a small pattern in the sand with his cane” (Vladimir Nabokov)._ _The doctors gouged the brains._ __2a__ To force out the eye of (a person) with one’s thumb. __b__ To thrust one’s thumb into the eye of. _Gouging of eyes._ __3__ _Informal_ To extort from. __4__ _Slang_ To swindle. _Consumers gouged by tricks and traps._  
+__gouge<sup>1</sup>__ _v_ :nine::m: __1__ To cut or scoop out with or as if with a gouge: _“He began to gouge a small pattern in the sand with his cane” (Vladimir Nabokov)._ _The doctors gouged the brains._ __2a__ To force out the eye of (a person) with one’s thumb. __b__ To thrust one’s thumb into the eye of. _Gouging of eyes._ __3__ _Informal_ To extort from. __4__ _Slang_ To swindle. _Consumers gouged by tricks and traps._  
 __gouge<sup>2</sup>__ _n_  
 __gouger__ _n_ (gougers) _Transparency helps patients and exposes gougers._  
 __goulash__  
 __gourd__ _n_ Decorative varieties of squash that aren’t eaten.  
-__gourmand__ _n_ :three: __1__ One who is excessively fond of eating and drinking. __2__ One who is heartily interested in good food and drink. A lover of good food. _Syn_ trencherman, glutton  
+__gourmand__ _n_ :four: /GOOR-mahnd/ __1__ One who is excessively fond of eating and drinking. __2__ One who is heartily interested in good food and drink. A lover of good food. _Syn_ trencherman, glutton  
 __gout__ _n_ :two::hammer:  
 __governance__ _n_  
 __goy__ _n_ :two: (Often Offensive) A person who is not Jewish.  
@@ -8557,7 +8575,7 @@ __grand<sup>2</sup>__ _n_ :three: __2__ _n pl_ _slang_ A thousand dollars: _sold
 __granddaddy__ _n_ :pencil2:  
 __grandest__ _adj_ _The grandest mile of scenery in Colorado._  
 __grandeur__ _n_  
-__grandiloquence__ _n_ A lofty, extravagantly colorful, pompous, or bombastic style, manner, or quality especially in language.  
+__grandiloquence__ _n_ :two: /gran-DIH-luh-kwunss/ _Grandiloquence_ is a formal word that refers to the use of extravagantly colorful or pompous language often in order to sound impressive and important. A lofty, extravagantly colorful, pompous, or bombastic style, manner, or quality especially in language.  
 __grandiloquent__ _adj_ /gran-DIL-uh-kwuhnt/ [:scroll: From Latin grandis (grand) + loqui (to speak).] High-flown or pompous.  
 __grandiose__ _adj_ :five: /gran-dee-OHSS/ Grandiose is most often used disapprovingly to describe something that seems impressive or is intended to be impressive, but is either not possible or practical. _The committee eventually scaled back the most outlandish parts of its plans for the festival, including a grandiose scheme to bring in live peacocks for the event._  
 __Grandma Moses__ _n_ The nickname of (Anna Mary Robertson) Moses.  
@@ -8583,8 +8601,8 @@ __grate<sup>2</sup>__ _v_ :eight: (grates, grated, grating) __1__ To reduce to f
 __grateful__  
 __gratify__ _v_ Yield (to); give satisfaction to. _Syn_ pander, indulge _No ruler should put troops into the field merely to gratify his own spleen; no general should fight a battle simply out of pique._  
 __gratin__ _n_ _Sweet potato gratin._  
-__grating<sup>1</sup>__ _n_ :five::hammer: _A bright green screen of thick metal grating sat solidly on the counter._ _A piece of old iron grating._ _The bridge is not paved but rather is an open grating._  
-__grating<sup>2</sup>__ _adj_ _A grating sound._  
+__grating<sup>1</sup>__ _n_ :six::hammer: _A bright green screen of thick metal grating sat solidly on the counter._ _A piece of old iron grating._ _The bridge is not paved but rather is an open grating._  
+__grating<sup>2</sup>__ _adj_ :two: /ˈɡreɪtɪŋ/ __1__ (of sounds) Harsh and rasping. __2__ Annoying; irritating.  
 __gratis__ _adj, adv_ /GRAT-is, GRA/GRAY-tis/ Without payment; free.  
 __gratuitous__ _adj_ :two::hammer: /gruh-TOO-uh-tuss/  
 __gratuity__ _n_ :two::hammer: (gratuities)  
