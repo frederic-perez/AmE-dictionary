@@ -23,7 +23,7 @@ __(with) kind regards__ A common, semi-formal valediction used at the end of a l
 __a (good) run for your money__ (a run for your money, a run for one’s money)  
 __a (whole) host of (something)__  
 __a bad egg__ :smiling_imp:  
-__a balancing act__ :dart:  
+__a balancing act__ :dart::two::hammer:  
 __a big if__  
 __a bit dicey__ :two: Carrying a certain degree of risk or danger; uncertain of a favorable outcome.  
 __a blast from the past__ Someone or something that evokes a sense of nostalgia. _Bumping into my old high school sweetheart in the grocery store was a real blast from the past._  
@@ -89,6 +89,7 @@ __bend the rules__
 __big player__ A “big player” typically refers to a person or entity that has significant influence, power, or importance in a particular field or industry. It can be used to describe someone with a lot of resources, experience, or market share, making them a key figure in a given situation or environment.  
 __bits and pieces__  
 __blah__ __1__ _mod._ Bland; dull. _After a blah day like this I need something really exciting like a hot bath._ __2__ _mod._ Depressed; worn out. _I’m really blah. Would you mind awfully if I just went home?_ __3__ _mod._ Alcohol intoxicated; very drunk. _We are going to get totally blah tonight._  
+__boo hiss__ _interjection, informal_ An expression of displeasure, disagreement, or disappointment. The comma is often omitted. _Aw, we’re not having pizza for dinner? Boo hiss._  
 __boon or bane__ Something that be may either good or bad, depending on context.  
 __break a sweat__ :dart:  
 __breathing space__  
@@ -116,6 +117,8 @@ __cook up__
 __corny__ :two::hammer:  
 __cut ties with (someone)__  
 __dang__  
+__deadpan__  
+__Debbie Downer__  
 __diddly__ _n_ :dart: __1__ Nothing; anything at all (when used in negative statements). _I have to admit that I know diddly when it comes to computers._ __2__ A small or worthless amount: _His advice wasn’t worth diddly to me._  
 __dig (something)__ _slang_ To understand, approve of, or enjoy something. _I really dig this music, man!_  
 __dig and poke around__ The idiom “dig and poke around” generally means to search or investigate something thoroughly by looking through various items or areas, often in a somewhat casual or unstructured manner.  
@@ -238,6 +241,7 @@ __have (got) a knack for (something)__
 __have (something) in store (for one)__ To have something awaiting (one) or prepared (for one).  
 __have a lump in (one’s) throat__ To have difficulty speaking as a result of feeling that one is about to cry due to an intense emotional response to something.  
 __have someone’s number__ (have (got) (one’s) number)  
+__have the final word__  
 __head over heels__  
 __head-spinningly__ Unbelievably; incredibly. _Did you watch that head-spinningly spectacular play? I could hardly believe what I was seeing!_  
 __hear out__ (hear someone out)  
@@ -299,7 +303,9 @@ __if anything__
 __if it ain’t broke, don’t fix it__ :two::hammer: (if it isn’t broke, don’t fix it)  
 __in a moment’s notice__  
 __in any way, shape, or form__ :two::hammer:  
+__in brief__ In summary; to say it briefly. _The film was, in brief, dull._ _If you can, please explain it in brief._ _Medical news in brief: ..._  
 __in the works__  
+__Jack and Jill suite__ (Jack and Jill bedroom suite) A bedroom suite composed of two bedrooms of similar size and a bathroom, where the bathroom is accessed through both bedrooms, and both bedrooms access the rest of the establishment/house/hallway.  
 __just desserts__ :dart::astonished:  
 __just like that__ :three::hammer: ((just) like this/that)  
 __just saying__ :two::hammer:  
@@ -456,6 +462,8 @@ __lust for life__ Intense eagerness to experience all that life has to offer.
 __lust for power__ Intense, insatiable desire to attain power and control.  
 __mad as a hornet__ (mad as hell, mad as hops, mad as a wet hen) Enraged; extremely or inconsolably angry. _My dad was mad as a hornet after I crashed his car._  
 __mad as a wet hen__ Extremely angry.  
+__make (one’s) own way__ To advance or progress, especially through life, according to one’s own efforts, inclinations, or designs. _This country prides itself on letting people make their own way, relying on no one else’s work but their own._  
+__make (someone’s) ears burn__ To make someone uncomfortable, embarrassed, or disconcerted by what is being said. Alludes to the ears growing red from blushing. _Listening to my aunts and uncles coo over me at my high school graduation really made my ears burn._  
 __make (something) up as (one) goes (along)__ To improvise continuously as one does something; to do something without formal guidelines, structure, rules, etc. _None of us really knew how to play the game, so we just made it up as we went along._  
 __make a face__ :two::hammer:  
 __make a fuss__  
@@ -475,8 +483,10 @@ __make heavy going of (something)__ To make something harder or more laborious t
 __make inroads__ :two::hammer:  
 __make it up__  
 __make like a banana and split__ _humorous_ To depart or leave, especially at once or in a hurry. (A pun on “to split,” a slang term meaning to leave or depart, and a “banana split,” an ice-cream-based dessert featuring a banana halved lengthwise.) _This carnival turned out to be really boring. Come on, let’s make like a banana and split!_  
+__make matters worse__ To make an already bad, unpleasant, or difficult situation even more so. (Sometimes used as an independent clause in the infinitive form: “to make matters worse.”) _I heard that Julie is being let go from her job, and to make matters worse, she hasn’t been there long enough to qualify for severance pay!_  
 __make no mistake__ :three::hammer:  
 __make or break__ :two::hammer:  
+__make some noise__ (informal, usually as a command) To cheer or holler loudly and enthusiastically. _Everybody make some noise for Jodeci!_  
 __make the most of it__  
 __make waves__ :three::hammer:  
 __meant to be__  
@@ -630,6 +640,7 @@ __on the whole__ Considering everything together; in general or for the most par
 __on top of that__  
 __on your radar__ See _on (one’s) radar (screen)._  
 __on-site__  
+__one-up (someone)__ To make a point of outdoing, outperforming, outclassing, etc., someone. _I hate telling stories around Jack because he always tries to one-up you with some fabulous anecdote of his own._  
 __open game__ Being vulnerable or exposed to attack, criticism, or other negative consequences. _If we break the truce first, we are open game._  
 __open the floodgates__ To allow for an expanding number of (typically negative) consequences as the result of another related action.  
 __out and about__ :dart: __1__ Away from one’s home or normal environment, especially to socialize, run errands, visit various places, etc. _I’m just out and about with Mary if you would like to come join us._ __2__ Well enough to come and go, especially after an illness. For example, _I’m glad to see you’re out and about again._  
@@ -696,6 +707,7 @@ __shocker__ :dart: Something that is especially startling, shocking, or surprisi
 __shoot (oneself) in the foot__  
 __shoot for the stars__ To set one’s goals or ambitions very high; to try to attain or achieve something particularly difficult.  
 __shoot from the hip__ :two: To speak or act without careful thought or preparation. Many of Ellroy’s characters, particularly his hard-edged protagonists, do this in their dealings, whether in dialogue or action.  
+__shoots of hope__ “Shoots of hope’ is a metaphorical phrase often used to describe early signs or small indications of improvement, progress, or positive change in a situation that was previously challenging or uncertain.  
 __shop around (for something)__ :dart::three: To browse different stores, vendors, or selections to find the best price or option for something one wants to buy.  
 __short call__  
 __short-handed__ :es: falto de personal  
@@ -900,17 +912,20 @@ __tinder__ _n_ :dart: Readily combustible material, such as dry twigs, used to k
 __tipflation__  
 __tips and tricks__ The idiom “tips and tricks” refers to helpful and practical advice, shortcuts, or techniques that can be used to improve efficiency, productivity, or performance in a specific task, activity, or field.  
 __tit for tat__  
+__to a degree__  
 __to hell and back__ Through a difficult, trying, or perilous situation and having overcome it.  
 __to hell with (someone or something)__  
 __to name (but) a few__  
 __to put it mildly__ To understate something; to say something politely. (Note the variation in the examples.) _She was angry at almost everyone—to put it mildly._ _To say she was angry is putting it mildly._ _To put it mildly, she was enraged._  
 __to the contrary__  
+__to the count of (three)__  
 __to the rescue__ Used to express when someone or something has saved the day, or provided valuable help.  
 __to this day__ :two::hammer:  
 __tongue-tied__  
 __too good to be true__ (be too good to be true)  
 __top something off__  
 __topsy-turvy__ [:scroll: It likely comes from the combination of “top” and “turvy,” with “turvy” being related to the Old English word “terve,” which means to turn or to overturn.]  
+__torn to ribbons__ Tattered or ragged strips: _a dress torn to ribbons._  
 __touch and go__  
 __touch down__  
 __touch grass__ To participate in normal activities in the real world especially as opposed to online experiences and interactions.  
@@ -924,6 +939,7 @@ __trundle along__ To proceed along (something) in a slow, heavy, or ungainly man
 __turn a deaf ear (to someone or something)__ To ignore or refuse to listen to someone or something; to fail to pay attention to something someone says. _Turn a deaf ear to rumors._  
 __turn heads__  
 __turn up the heat__  
+__twist the knife__ :dart::smiling_imp: To add to, exacerbate, or amplify a betrayal or wrong by further malicious actions. _He said it was over, and then he twisted the knife and said he had never loved me._  
 __under the gun__ :dart: In a stressful situation that requires quick action, often to meet a deadline; under pressure.  
 __under the hood__ :two::hammer:  
 __unfamiliar territory__  
@@ -936,12 +952,15 @@ __up against a brick wall__ Stymied by difficulties or obstacles that seem unlik
 __up fpr grabs__  
 __up in arms__  
 __up in the air__ Uncertain; subject to change.  
-__up the ante__  
+__up the ante__ :two::hammer:  
 __very much so__ To a significant extent; yes, very much.  
+__vested interest__  
 __vindicate (someone or oneself) of (something)__ To clear someone or oneself of some guilt, accusation, blame, suspicion, etc.; to affirm or uphold someone’s or one’s own innocence or justification regarding something.  
-__wait and see__ :four::hammer: _It profits me best to wait and see._  
+__wait and see__ :five::hammer: _It profits me best to wait and see._  
 __walk on eggs__  
 __walk on eggshells__  
+__walk the line__  
+__walk the wak__  
 __walk through__  
 __war chest__  
 __warhorse__ ((old) warhorse) __1__ A veteran of some activity or profession (not necessarily the military) who has a wealth of experience going through various trials and tribulations. _I know she’s a little eccentric, but Janet is a warhorse in this firm—she’s been through more trying court cases than anyone else here._  
@@ -955,6 +974,8 @@ __well up__
 __what it takes__  
 __what’s done is done__ :dart: There’s no use worrying or stressing about something that has already happened or come to pass. _I know this isn’t the outcome we wanted, but what’s done is done, so let’s just try to make the most of a bad situation._  
 __what’s the occasion?__ The idiom “what’s the occasion?” is typically used to inquire about the reason for a special event, celebration, or unusual behavior that seems out of the ordinary. It’s a friendly way to express curiosity about something that appears more formal or festive than usual.  
+__whitewash__  
+__who’s who__ _A who’s who guide._  
 __whoops__ _informal_ An exclamation of surprise used in response to a mistake or moment of clumsiness.  
 __why on earth__  
 __wind up__ __1__ To come or bring to a finish; end: _when the meeting wound up; wind up a project._  
@@ -962,6 +983,7 @@ __winnow out__
 __wipe the slate clean__ (wipe (one’s) slate clean)  
 __with flying colors__  
 __with heavy asterisk__ (with a heavy asterisk) The phrase “with (a) heavy asterisk” is typically used in conversation, writing, or discourse to imply that there’s a major caveat, condition, or important exception that should be noted. The asterisk metaphorically represents the idea that there’s a footnote or clarification to consider, but it’s emphasized as significant or notable—hence “heavy.”  
+__wonky__  
 __word has it (that)__ According to rumor or gossip (something is the case).  
 __work (one0146s) butt off__ To work really hard (on or at something). _I know you thought it was just a silly New Year’s resolution, but I’4ve been working my butt off at the gym!_  
 __worry (something) out of (someone or something)__  

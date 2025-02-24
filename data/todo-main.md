@@ -22,6 +22,7 @@ __affordable__ _adj_ :pencil2:
 __afoot__ _adj, adv_  
 __aft__  
 __apprehend__ _v_ :two::hammer:  
+__astute__ _adj_ /uh-STOOT/ Someone or something described as astute has or shows an ability to notice and understand things clearly. In other words, they are mentally sharp or clever. _Astute_ can also describe someone who is crafty or wily.  
 __awash__ _adj, adv_  
 __bearing__ _n_  
 __bidding__ _n_  
@@ -31,10 +32,12 @@ __bonsai__ _n_ :two::hammer::mega:
 __brachiate__ _vi_ To progress by swinging from hold to hold by the arms. _A brachiating gibbon._  
 __brushfire__ _n_  
 __bulldozer__ _n_ __1__ A powerful tractor fitted with caterpillar tracks and a blade at the front, used for moving earth, rocks, etc. __2__ _informal_ A person who bulldozes. An overbearing person; a bully. _Syn_ browbeater, bully, hector, intimidator  
+__bunker__ _n_ /ˈbʌŋ kər/ __1__ A large bin or receptacle; a fixed chest or box: a coal bunker.  
 __buyout__ _n_ :two::hammer:  
 __caffeine__ _n_ :mega:  
 __call-up__ _n_ The act or an instance of summoning reserve military personnel to active service. _A new military call-up._  
 __calligraphy__ _n_  
+__campout__ _n_ /ˈkæmpˌaʊt/ A camping trip.  
 __canard__ _n_ :smiling_imp: /kuh-NARD/ __1__ An unfounded or false, deliberately misleading story. _Canard_ refers to a false report or story, or to a belief or rumor that isn’t true. __2__ It can also refer to a kind of airplane as well as to a kind of small airfoil. _The book unfortunately repeats some of history’s oldest canards._  
 __caretaker__ _n_ _A school caretaker._  
 __cavalier__ _adj_ :dart::astonished: /ˌkæv əˈlɪər, ˈkæv əˌlɪər/ /kav-uh-LEER/ Someone described as _cavalier_ shows no concern for important or serious matters. Cavalier also describes attitudes, manners, etc., that show the same lack of concern. _The company provides regular training about the dangers of being cavalier in sharing privileged information._  
@@ -244,6 +247,7 @@ __heavenward<sup>2</sup>__ _adj_ Directed towards heaven or the sky.
 __heinous__ _adj_ /HAY-nus/ _Heinous_ describes things—such as acts, deeds, or crimes—that are hatefully or shockingly evil, or in other words, deserving of hate or contempt.  
 __helm<sup>1</sup>__ _n_  
 __helm<sup>2</sup>__ _vt_ To take the helm of; steer or direct.  
+__hemianopia__ _n_ Blindness in one half of the visual field of one or both eyes.  
 __hemolysis__ _n_ The destruction or dissolution of red blood cells, with subsequent release of hemoglobin.  
 __hexenwolf__ _n_ [:scroll: _Hexen_ comes from the German word for “witches” (plural form of Hexe), often associated with magic, the occult, or witchcraft] A witch that transforms into a wolf or have wolf-like traits.  
 __hippocampus__  
@@ -303,6 +307,7 @@ __isthmus__ _n_ :mega: /is-muhs/
 __itching__ _n_ An irritating cutaneous sensation that produces a desire to scratchitching - an irritating cutaneous sensation that produces a desire to scratch. _Syn_ itchiness, itch  
 __ixnay<sup>1</sup>__ _vt_ :dart: _informal_ To reject or put a stop to (something). _Syn_ nix; no, cancel, stop _Though President Bush ixnayed that idea, Wilkinson is still optimistic._ _We’re not going to do the plan, ixnay on the idea._  
 __ixnay<sup>2</sup>__ _adv_ :dart: _informal_ Used to express disagreement or the withholding of permission. _Syn_ no, nix _He said ixnay on talking about the surprise party._  
+__jabberwocky__ _n_ /JAB-er-wah-kee/ _Jabberwocky_ refers to meaningless speech or writing.  
 __jack-in-the-box__ _n_ A toy consisting of a clownlike doll or other figure that is attached to the inside of a box and springs up when the lid is opened.  
 __jackal__ _n_ /ˈdʒæk əl, -ɔl/  
 __jackfruit__ _n_ :two: East Indian tree cultivated for its immense edible fruit and seeds.  
@@ -466,6 +471,7 @@ __Mini-Me__ _n_ _chiefly humorous_ A person who is a miniature, but otherwise id
 __miniscule__ _adj_ :astonished:  
 __minuscule__ _adj_ /-uh-skyool/ __1__ Something described as minuscule is very small. _The number of bugs in the latest version of the video game is minuscule compared to the number that surfaced in the beta version._ __2__ _Minuscule_ can also mean “written in, or in the size or style of, lowercase letters,” in which case it can be contrasted with majuscular. _The ancient manuscripts on display are all in minuscule script._  
 __mirth__ _n_ :two: Gladness and merriment, especially when expressed by laughter.  
+__miry__ _adj_ (Of soil) soft and watery. _Syn_ boggy, marshy, mucky, muddy, quaggy, sloppy, sloughy, soggy, squashy, swampy, waterlogged _Right across the lower part of the bog lay a miry path._  
 __misanthrope__ _n_ (misanthropist) A person who dislikes or distrusts other people or mankind in general.  
 __misbegotten__ _adj_ :two::smiling_imp: /ˌmɪs bɪˈgɒt n/ /miss-bih-GAH-tun/ (misbegot) _Misbegotten_ describes things that are badly planned or thought out. _They were sent on a misbegotten diplomatic mission that was sure to fail._  
 __miscellany__ _n_ (_n pl_ miscellanies) __1__ A mixed assortment of items.  
@@ -509,6 +515,7 @@ __mothball__ _n_ Asmall sphere of camphor or naphthalene used to keep moths away
 __mother of pearl__ _n_  
 __motor__ _v_  
 __motormouth__ _n_ :two: _slang_ A garrulous person.  
+__mound__ _n_ A collection of objects laid on top of each other. _Syn_ cumulation, heap, pile, cumulus, agglomerate  
 __muffled__ _adj_  
 __mull<sup>1</sup>__ _vt_ /mŭl/ To think about extensively; ponder. __1__ __2__ To heat and spice (wine, for example).  
 __mull<sup>2</sup>__ _vi_ /mŭl/ To ruminate; ponder: _mull over a plan._  
@@ -533,6 +540,7 @@ __nibble__ _v_
 __nifty__ _adj_  
 __nigh__ _adj, adv, prep_ /naɪ/ An archaic, poetic, or dialect word for near.  
 __nightcap__ _n_  
+__nil by mouth__ _n_ See _nothing by mouth._  
 __nimble__ _adj_  
 __ninepins__ _n_  
 __nitrous__ _adj_  
@@ -554,6 +562,7 @@ __noose__ _n_ :es: nudo corredizo, lazo, soga
 __noose<sup>1</sup>__ _n_ :es: nudo corredizo; lazo; soga  
 __noose<sup>2</sup>__ _vt_ :es: coger con lazo  
 __not-for-profit__  
+__nothing by mouth__ _n_ An American medical instruction meaning to withhold food and fluids. It is also known as nil per os (npo or NPO), a Latin phrase that translates to English as “nothing through the mouth.” Nil by mouth is the term used in the UK (NBM), nihil/non/nulla per os, or complete bowel rest.  
 __notice__ _n_ :es: crítica  
 __noticeboard__ _n_ Bulletin board.  
 __notorious__  
@@ -565,6 +574,7 @@ __nullifier__ _n_
 __nursing__ _n_ __1__ The profession of a nurse. __2__ The tasks or care of a nurse.  
 __nurture__ _n, vt_  
 __nutmeg__ _n_  
+__nutso__  
 __obtuse__ _adj_ /ahb-TOOSS/  
 __occasion__  
 __oligopoly__  
@@ -584,6 +594,7 @@ __perdition__ _n_ The abode of Satan and the forces of evil; where sinners suffe
 __peremptorily__ _adv_ :dart::astonished: In an imperative and commanding manner. In a way that leaves no opportunity for denial or refusal.  
 __peremptory__  
 __perfunctory__  
+__periodontal__ _adj_ Of, denoting, or affecting the gums and other tissues surrounding the teeth: periodontal disease.  
 __perjury__ _n_  
 __pernicious__ _adj_  
 __Perseid__ _n_ /ˈpɜːsɪɪd/ (Celestial Objects) Any member of a meteor shower occurring annually around August 12th and appearing to radiate from a point in the constellation Perseus.  
@@ -804,6 +815,7 @@ __rhetoric__ _n_ :pencil2:
 __rheumy__ _adj_ :mega: /ˈru mi/  
 __Richter scale__ _n_ :mega: /ˈrɪk.tər skeɪl/ /rĭk′tər/ A logarithmic scale used to express the amount of energy released by an earthquake. Its values typically fall between 0 and 9, with each increase of 1 representing a 10-fold increase in energy.  
 __ridealong__ _n_ __1__ The act of accompanying, or volunteering with, a police, paramedic, or firefighting group, usually by a student seeking hands-on experience. __2__ One who participates in this.  
+__ringfenced surgery__ _n_ A set of procedures or surgeries that are prioritized and protected within a healthcare system, often to ensure that they are not delayed or cut due to budget constraints or competing demand.  
 __riposte__ _n_ A quick reply to a question or remark (especially a witty or critical one). _Syn_ comeback, counter, rejoinder, replication, retort, return  
 __ripple__ _v_ :two::hammer:  
 __risible__ _adj_ Arousing or provoking laughter. _Syn_ amusing, comic, comical, funny, laughable, mirthful  
@@ -845,7 +857,7 @@ __secular__ _adj_ /SEK-yuh-ler/ _Secular_ describes things that are not spiritua
 __sentient__ _adj_ :two::hammer:  
 __sepulchral__ _adj_ Gruesomely indicative of death or the dead. _Syn_ charnel, ghastly  
 __settle__ _v_ /ˈsɛtəl/ __12__ (Banking & Finance) (sometimes foll by _up_) To pay off or account for (a bill, debt, etc). _He settled the bill before leaving._  
-__severance pay__ _n_  
+__severance pay__ _n_ :two::hammer:  
 __shamble<sup>1</sup>__ _vi_ :dart: To walk or move along in an awkward or unsteady way.  
 __shamble<sup>2</sup>__ _n_ An awkward or unsteady walk.  
 __sharp__ _adj_ __6__ Vigilant; alert: _kept a sharp lookout for shoplifters._ _Stay sharp._  
@@ -868,6 +880,7 @@ __smitten__ _adj_
 __smote__ _v_ Past tense and a past participle of smite.  
 __snare drum__ _n_ _Syn_ side drum, snare  
 __snicker__ _v_  
+__soft skills__ _n pl_ (Industrial Relations & HR Terms) Desirable qualities for certain forms of employment that do not depend on acquired knowledge: they include common sense, the ability to deal with people, and a positive flexible attitude.  
 __solace__ _v_ To give comfort or cheer to (a person) in time of sorrow or distress. _Syn_ comfort, console, soothe  
 __soprano__ _n_ :mega:  
 __sovereign<sup>1</sup>__ _n_  
@@ -895,12 +908,16 @@ __tartly__ _adv_ :es: ásperamente
 __tattoo__ _n_ :mega: /tæˈtu/  
 __tax brackets__  
 __teamster__ _n_ /ˈtim stər/  
+__thistle__ _n_ /ˈθɪs əl/ [Note: the national flower of Scotland.]  
 __thunderclap__ _n_  
 __tokamak__ _n_ :camera: A doughnut-shaped chamber used in fusion research in which a plasma is heated and confined by magnetic fields.  
 __torrent__ _n_ A heavy, uncontrolled outpouring. _Syn_ deluge, flood, inundation  
+__tousle__ _v_ /TOW-zul/ To tousle something is to dishevel it—that is, to make it untidy or unkempt. _Tousle_ is usually, though not always, used specifically when a person’s hair is being so treated.  
+__tractor trailer__ _n_ A truck consisting of a tractor and trailer together. _Syn_ articulated lorry, trailer truck, trucking rig, rig, semi  
 __translate__ _v_ :mega:  
 __travois__ _n_ A frame slung between trailing poles and pulled by a dog or horse, formerly used by Plains Indians as a conveyance for goods and belongings.  
 __tuft__ _n_ _Tufts of hair._ :es: mechón  
+__turf war__  
 __turmeric__ _n_ :es: cúrcuma  
 __turnkey__ _adj_  
 __twitch__ _v_ :two::hammer:  
@@ -917,7 +934,13 @@ __upheaval__
 __uplift__ _n_  
 __upskill__ _vt_ /ˈʌpˌskɪl/  
 __uptake__ _n_  
+__value system__ _n_ The system of established values, norms, or goals existing in a society.  
+__variegated__  
+__vasovagal__ _n_ Relating to or involving blood vessels and the vagus nerve. _Vasovagal syncope._  
+__vengeful__ _adj_ Disposed to seek revenge or intended for revenge. _Syn_ revengeful, vindictive  
+__verklempt__ _adj_ /fär-klĕmpt′/ Variant of _farklempt_. Overcome with emotion; choked up. _Hunched over my tiny screens lately, I’ve found myself … verklempt over an old video I posted of my son blowing bubbles in the bathtub._  
 __vestige__ _n_ /VESS-tij/ A vestige is a trace, mark, or visible sign left by something lost or vanished.  
+__virago__ _n_  
 __virtuoso__ _n_ /ver-choo-OH-soh/ _Virtuoso_ is used broadly to refer to a person who does something very skillfully, and is often used specifically to refer to a very skillful musician.  
 __voltmeter__ _n_ /ˈvoʊltˌmi tər/ A calibrated instrument for measuring the potential difference between two points in volts. :es: voltímetro  
 __voluminous__ _adj_ Large in number or quantity (especially of discourse). _Syn_ copious _She took voluminous notes during the lecture, and her classmates begged for copies._  
@@ -930,7 +953,9 @@ __warhorse__ _n_ (war horse)
 __waterboarding__ _n_ __1__ An interrogation technique, widely considered a form of torture, in which a person is restrained, usually by being strapped to a board with the feet higher than the head, and immersed in or doused with water to the point of drowning.  
 __whimper__ _v_  
 __whirl__ _v_  
+__wince__ _v_ :three::hammer:  
 __wingmate__ _n_  
+__wizardry__ _n_ /ˈwɪz ər dri/ The art, skill, or accomplishments of a wizard. :es: hechicería; brujería  
 __woe__ _n_  
 __woke__ _adj_  
 __world-class__ _adj_ Being among the best or foremost in the world; of an international standard of excellence: _a world-class figure skater._  
