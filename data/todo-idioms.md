@@ -907,56 +907,6 @@ __tie in__
 __tighten the purse strings__ To become less liberal with or more controlling of one’s expenditures; to decrease the availability of money for spending purposes. _After losing my job, I’ve had to tighten the purse strings quite a bit._  
 __till the cows come home__ See _until the cows come home._  
 __time and time again__  
-__time capsule__  
-__tinder__ _n_ :dart: Readily combustible material, such as dry twigs, used to kindle fires. _This love potion is tinder for the proverbial fire._  
-__tipflation__  
-__tips and tricks__ The idiom “tips and tricks” refers to helpful and practical advice, shortcuts, or techniques that can be used to improve efficiency, productivity, or performance in a specific task, activity, or field.  
-__tit for tat__  
-__to a degree__  
-__to hell and back__ Through a difficult, trying, or perilous situation and having overcome it.  
-__to hell with (someone or something)__  
-__to name (but) a few__  
-__to put it mildly__ To understate something; to say something politely. (Note the variation in the examples.) _She was angry at almost everyone—to put it mildly._ _To say she was angry is putting it mildly._ _To put it mildly, she was enraged._  
-__to the contrary__  
-__to the count of (three)__  
-__to the rescue__ Used to express when someone or something has saved the day, or provided valuable help.  
-__to this day__ :two::hammer:  
-__tongue-tied__  
-__too good to be true__ (be too good to be true)  
-__top something off__  
-__topsy-turvy__ [:scroll: It likely comes from the combination of “top” and “turvy,” with “turvy” being related to the Old English word “terve,” which means to turn or to overturn.]  
-__torn to ribbons__ Tattered or ragged strips: _a dress torn to ribbons._  
-__touch and go__  
-__touch down__  
-__touch grass__ To participate in normal activities in the real world especially as opposed to online experiences and interactions.  
-__toughen up__  
-__trash__ __1__ _slang_ To discard or throw away something. _I’ve always regretted trashing my old collection of toys._ _I trashed the envelope._  
-__trials and tribulations__  
-__trick of the light__  
-__trickle in__ _Information trickling in._  
-__triple whammy__ A combination of three different elements, circumstances, or actions that results in a particularly powerful force, outcome, or effect. _Deregulation of the financial sector, securitization of huge amounts of various debt, and fluctuating national interest rates formed a triple whammy that sent the stock market crashing._  
-__trundle along__ To proceed along (something) in a slow, heavy, or ungainly manner.  
-__turn a deaf ear (to someone or something)__ To ignore or refuse to listen to someone or something; to fail to pay attention to something someone says. _Turn a deaf ear to rumors._  
-__turn heads__  
-__turn up the heat__  
-__twist the knife__ :dart::smiling_imp: To add to, exacerbate, or amplify a betrayal or wrong by further malicious actions. _He said it was over, and then he twisted the knife and said he had never loved me._  
-__under the gun__ :dart: In a stressful situation that requires quick action, often to meet a deadline; under pressure.  
-__under the hood__ :two::hammer:  
-__unfamiliar territory__  
-__unpack__  
-__unsung hero__  
-__until the cows come home__ (till the cows come home) For a very long, indefinite amount of time; forever. _You can wait until the cows come home, but you’ll never see that law passed in this country!_  
-__up (one’s) alley__ :dart: See _right up (one’s) alley._  
-__up a notch__ To an increased or extreme degree of intensity or quality.  
-__up against a brick wall__ Stymied by difficulties or obstacles that seem unlikely to change.  
-__up fpr grabs__  
-__up in arms__  
-__up in the air__ Uncertain; subject to change.  
-__up the ante__ :two::hammer:  
-__very much so__ To a significant extent; yes, very much.  
-__vested interest__  
-__vindicate (someone or oneself) of (something)__ To clear someone or oneself of some guilt, accusation, blame, suspicion, etc.; to affirm or uphold someone’s or one’s own innocence or justification regarding something.  
-__wait and see__ :five::hammer: _It profits me best to wait and see._  
 __walk on eggs__  
 __walk on eggshells__  
 __walk the line__  

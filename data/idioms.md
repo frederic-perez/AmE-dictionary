@@ -6696,20 +6696,24 @@ __til you drop__
 __tilt at windmills__ To waste time fighting enemies or trying to resolve issues that are imaginary, unimportant, or impossible to overcome.  
 __time after time__  
 __time and (time) again__ :nine::m::dart: Repeatedly; on multiple occasions. Again and again; repeatedly. _Why do you continue to trust John when he has lied to you time and again?_  
-__time capsule__  
+__time capsule__ :three::hammer:  
 __time flies__ :three::hammer: _Time flies when you’re having fun._  
+__tinder__ _n_ :dart: Readily combustible material, such as dry twigs, used to kindle fires. _This love potion is tinder for the proverbial fire._  
 __tinker with__  
 __Tinseltown__  
 __tip (one’s) hat__  
 __tip off__ :three: (tip-off) To secretly inform the police or authorities.  
 __tip over__  
 __tip theˈbalance/scales__  
+__tipflation__  
 __tipping point__ :three::hammer:  
-__tit for tat__ :six: (_n pl_ tit for tats) Describing an act of retaliation. The phrase is most likely an alteration of the Dutch phrase “tip for tap,” which means “blow for blow.” Note: Tit for tat is also used before nouns. _A tit for tat dispute has led to the virtual closure of the border between the two countries._ _She’s mad at me, so she refuses to help me plan this event—typical tit for tat._  
+__tips and tricks__ The idiom “tips and tricks” refers to helpful and practical advice, shortcuts, or techniques that can be used to improve efficiency, productivity, or performance in a specific task, activity, or field.  
+__tit for tat__ :seven: (_n pl_ tit for tats) Describing an act of retaliation. The phrase is most likely an alteration of the Dutch phrase “tip for tap,” which means “blow for blow.” Note: Tit for tat is also used before nouns. _A tit for tat dispute has led to the virtual closure of the border between the two countries._ _She’s mad at me, so she refuses to help me plan this event—typical tit for tat._  
 __TMI__ :two: An abbreviation for “too much information,” a phrase used to indicate that someone has discussed something, often something personal, that makes the recipient uncomfortable, or that the recipient would prefer not to know. _Ugh, they still haven’t gotten the results of my stool sample back. Sorry, TMI?_ _Whoa, TMI! I don’t need to hear every detail about your dates, you know._  
 __to (one’s) heart’s desire__ :two: As much as or to the point that one wants; to the point of contentment, satiety, or surfeit. _I’ve made plenty of food for everyone, so please eat to your heart’s desire._  
 __to (one’s) name__ :three: In one’s possession; owned by one. _Without a penny to his name._ _Bernie died with $1.09 to his name._  
 __to a certain extent__  
+__to a degree__  
 __to a T__ :six: Perfectly; completely; exactly. _You look beautiful. That color really suits you to a T._  
 __to a turn__ For exactly the right amount of time necessary or desired. (Used almost exclusively in reference to how well meat is cooked). _My goodness, these steaks are so flavorful and have been cooked to a turn!_ _Jeff is always the one manning the grill, because he makes sure everything on there is done to a turn!_  
 __to an extent__ Somewhat; partly; in a limited way or to a limited degree.  
@@ -6723,24 +6727,27 @@ __to come__ (used after a noun) In the future: _They may well regret the decisio
 __to date__ :three: Until now. _To date, no winners have attended._  
 __to death__ __1__ Literally, fatally. _The autopsy shows that the victim was stabbed to death._ __2__ To an excessive, extreme, or intolerable degree. _I feel like we’ve discussed this topic to death—let’s move on._  
 __to have someone pegged__ _Ed had him pegged as a skinflint._  
-__to hell and back__ :three: Through a difficult, trying, or perilous situation and having overcome it. _I’d go to hell and back for him._  
+__to hell and back__ :four: Through a difficult, trying, or perilous situation and having overcome it. _I’d go to hell and back for him._  
+__to hell with (someone or something)__  
 __to his name__  
 __to let (one’s) guard down__ To stop being cautious; to relax and stop being so aware of one’s behavior and other people’s reactions to oneself.  
 __to make a long story short__ To skip boring, extraneous, or unnecessary details; to get to the point. _Anyway, to make a long story short, I got expelled for writing graffiti on the bathroom stalls._  
-__to name (but) a few__ :eight::hammer:  
+__to name a few__ :nine: (to name (but) a few) To provide only a few examples, though there are copious amounts from which to choose.  
 __to no end__ Greatly; very much. _I was pleased to no end when you wrote of making several new friends at the university._ _I’m an editor, so it irritates me to no end when people use “their” or “there” when they should be using “they’re.”_  
 __to perfection__ In a way or to a degree that is exactly right. _Cooked to perfection._  
-__to put it mildly__ (put it mildly)  
+__to put it mildly__ :two: (put it mildly) To understate something; to say something politely. (Note the variation in the examples.) _She was angry at almost everyone—to put it mildly._ _To say she was angry is putting it mildly._ _To put it mildly, she was enraged._  
 __to say the least__ :two::hammer:  
 __to see red__ Very angry.  
 __to some extent__ :two::hammer:  
 __to that end__ :four::hammer: (to that end,)  
-__to the contrary__ Opposite to what has just been said.  
+__to the contrary__ :two: Opposite to what has just been said.  
 __to the core__ :two: Fully or completely; in the most essential or inherent way. _Charming to the core._  
+__to the count of (three)__  
 __to the fore__  
 __to the fullest__  
 __to the hilt__ :two: As much or to the greatest degree possible; completely or utterly. _They’ve had to borrow to the hilt to get the company off the ground._  
-__to this day__ :nine: Up to and including the present time or date. _My neighbor owned a 1975 Corvette Stingray, and to this day I’ve never seen a car I thought looked cooler._ _I don’t know if they still do it to this day._  
+__to the rescue__ Used to express when someone or something has saved the day, or provided valuable help.  
+__to this day__ :nine::m: Up to and including the present time or date. _My neighbor owned a 1975 Corvette Stingray, and to this day I’ve never seen a car I thought looked cooler._ _I don’t know if they still do it to this day._  
 __to this end__ _To this end he wanted to use the Pope as intermediary._  
 __toe the line__ :four: To adhere to the rules of something. _I expect you to toe the line at all times if you want to remain at this firm, Jonathan._  
 __toe-to-toe__  
@@ -6751,7 +6758,8 @@ __tone deaf__
 __tongue in cheek__  
 __tongue twister__ :two: A word or phrase that is hard to say clearly due to difficult alliteration or pronunciation.  
 __tongue-in-cheek__ :two: Jocular or humorous, though seeming or appearing to be serious.  
-__tongue-tied__  
+__tongue-tied__ :two::hammer:  
+__too good to be true__ (be too good to be true)  
 __too hot to handle__  
 __too little too late__  
 __too many irons in the fire__ :dart: An excessive number of simultaneous activities or potential undertakings or opportunities underway. _I have too many irons in the fire at work right now, and it’s going to be tricky to balance all of them over the next few weeks._  
@@ -6762,20 +6770,23 @@ __top banana__ The person with the most authority, power, or influence in a grou
 __top dog__ :three::hammer: _ChatGPT-4 is still the top dog._ _Llama 3 is now the top dog in open-source AI models._  
 __top of mind__ :dart::two: Occupying one’s foremost attention or concern. Often hyphenated when used before a noun. _I assure you that privacy issues are a top-of-mind priority for our company._ _His top-of-mind interest._  
 __top off__ _L.A. is topping off pools, watering lawns, washing cars._  
+__top something off__  
 __top something up__ To add a bit of something to replenish the amount that was used. _Let me top your drink up. Can I top up your glass?_ _Topping up testosterone doesn’t reduce fractures._  
 __top the bill__ Be the most important item or performer in a show, play, etc: _Topping the bill tonight will be Robbie Williams._ _I’ll top the bill, I’ll overkill._  
 __top-flight__ Stellar; excellent; of the highest level of quality or worth. Can be used with or without the hyphen when used after a noun.  
 __top-heavy__ __1__ _slang_ Of a woman, having very large breasts. __2__ _slang_ Of a man, having large upper-body muscles with relatively small lower-body muscles.  
-__topsy-turvy__ :two::hammer: _There’s an old Zen saying: “The world is topsy-turvy.”_ _Welcome back to another topsy-turvy day in AI._  
+__topsy-turvy__ :three::hammer: [:scroll: It likely comes from the combination of “top” and “turvy,” with “turvy” being related to the Old English word “terve,” which means to turn or to overturn.] _There’s an old Zen saying: “The world is topsy-turvy.”_ _Welcome back to another topsy-turvy day in AI._  
+__torn to ribbons__ Tattered or ragged strips: _a dress torn to ribbons._  
 __torqued off__ Particularly irritated, frustrated, or exasperated. _It’s no use getting torqued off just because you don’t like your professor’s style of teaching._  
 __toss (one’s) hat in(to) the ring__  
 __toss (something)__ __1__ To dispose of something as trash. _Let’s toss these leftovers—they’ve been in here for days._ __2__ To search something or some place, especially in a rough, haphazard, or disorderly manner. _The cops came by and tossed our office in their search for incriminating evidence._  
 __toss and turn__ Sleep badly.  
 __toss out__ _v_ :two::hammer: _One student tossed out expletives._  
+__touch and go__  
 __touch base (with someone)__ :five: To contact someone to update them or receive an update from them. _I was just calling to touch base since it’s been a few weeks since we last spoke._ _Syn_ get in touch, connect  
 __touch base__ :two::hammer:  
-__touch down__  
-__touch grass__ Go outside. It’s usually used in an insulting way to imply that someone spends too much time online, perhaps posting on social media or losing at video games, and that they should go outside for once—or at least away from other people!  
+__touch down__ :two::hammer:  
+__touch grass__ :dart::two: Go outside. It’s usually used in an insulting way to imply that someone spends too much time online, perhaps posting on social media or losing at video games, and that they should go outside for once—or at least away from other people! To participate in normal activities in the real world especially as opposed to online experiences and interactions.  
 __touch on (something)__ :two: To discuss or deal with some topic informally or in passing.  
 __touch up__ :dart::four: __1__ _v_ To fix minor flaws in or make minor changes to something. A noun or pronoun can be used between “touch” and “up.” _I’d just like to touch up my makeup before we leave._ _All you need to do is touch the wall up with a bit of spackle and paint, and it will be as good as new!_ _You need to touch up your hair color._ __2__ _n_ A minor change or fix. As a noun, the phrase is usually hyphenated. _The cover is almost ready, it just needs a few touch-ups before we send it to the printer._ _A paint touch-up._  
 __touch wood__  
@@ -6784,22 +6795,26 @@ __tough customer__ Someone who is difficult to deal with. _Walt is a tough custo
 __tough it out__ :dart: To persist through a difficult situation. _I’m amazed you toughed it out and went to school with such a high fever._  
 __tough love__ :four: The use of strict disciplinary measures and limitations on freedoms or privileges, as by a parent or guardian, as a means of fostering responsibility and expressing care or concern.  
 __tough talk__  
+__toughen up__  
 __tour de force__ :four::hammer:  
 __town-gown__ Relating to the two coexisting communities of a university town, i.e., the university (primarily the students) and the residents of the town where it is located, used especially in reference to tensions between the two. “Gown” is a reference to the traditional academic gown once worn by university students, now typically reserved for graduation ceremonies. _The periodic town-gown riots._  
 __trace back__  
 __train of thought__  
 __train wreck__ :dart::two::hammer:  
 __trash talk__ :two::hammer: _I won’t trash talk._  
-__trash__ __1__ _slang_ To discard or throw away something. _I’ve always regretted trashing my old collection of toys._  
+__trash__ :two: __1__ _slang_ To discard or throw away something. _I’ve always regretted trashing my old collection of toys._ _I trashed the envelope._  
 __travel light__ To bring very few things with you when you go on a trip.  
 __tread carefully__ :dart::two: To delicately handle or approach a situation in order not to upset or worsen the current circumstances, which may be precarious. _Tread carefully when you ask Mom whether she’s going to the party. She’s been acting weird about it._ _There are good reasons why Google should be tread carefully._  
 __tread lightly__ _Companies that use AI in hiring need to tread lightly._  
 __tread water__ :three::dart: This term refers to doing the minimum amount of work to not get fired. To be active but without making progress or falling farther behind. _Sales are about the same as last year, and the company is pretty much treading water._ Etymology: Based on the literal meaning of tread water (to stay in one place in water by moving your legs quickly). Expend effort that maintains one’s status but does not make much progress toward a goal, as in _He was just treading water from paycheck to paycheck._ This idiom alludes to the term’s literal meaning, that is, “keep one’s head above water by remaining upright and pumping the legs.”  
 __treasure hunt__  
 __treasure trove__  
+__trials and tribulations__  
+__trick of the light__  
 __trick<sup>1</sup>__ _n_ __1__ Sexual intercourse, occas. other forms of sexual encounter, esp. a prostitute’s intercourse (or other activity) with a client.  
 __trick<sup>2</sup>__ _v_  
 __trickle down__ :seven: __1__ Of a liquid, to flow or seep downward in drops or a thin stream. _As the ice cream melted, it began tricking down Billy’s arm._ _Beer trickled down his bare chest._ __2__ To distribute, pass, or diffuse to people lower on a hierarchical structure.  
+__trickle in__ _Information trickling in._  
 __tricks up one’s sleeve__ _Chicago has a few tricks up its sleeve._  
 __trifle with (someone or something)__ To treat or deal with someone or something in a frivolous or disrespectful manner. Often used in passive constructions.  
 __trigger__ :five: __1__ _n_ Something that causes one psychological distress, typically because it reminds them of a past trauma. _The graphic descriptions in that article were a trigger for me._ __2__ :dart: _v_ To cause psychological distress in someone, typically by reminding them of a past trauma. _This article might be triggering for child abuse survivors._  
@@ -6807,6 +6822,7 @@ __trigger-happy__ __2__ Having a tendency to do something or engage in or begin 
 __trim the fat__ :dart: To excise or discard elements that are seen as superfluous or unnecessary.  
 __trip along__  
 __trip__ _We were tripping on acid when we broke._  
+__triple whammy__ A combination of three different elements, circumstances, or actions that results in a particularly powerful force, outcome, or effect. _Deregulation of the financial sector, securitization of huge amounts of various debt, and fluctuating national interest rates formed a triple whammy that sent the stock market crashing._  
 __Trojan horse__ :two::hammer:  
 __trot out__  
 __trouble is__ _Trouble is, that man is my last hope._  
@@ -6818,6 +6834,7 @@ __true story__
 __true to (one’s) word__ As one has promised.  
 __true to form__ :two: Exactly as expected; following the usual pattern. _Susie’s attendance has always been pretty erratic and, true to form, she didn’t come to today’s meeting._  
 __trump card__ _It was time for me to play my trump card._  
+__trundle along__ To proceed along (something) in a slow, heavy, or ungainly manner.  
 __truss someone or something up__ To bind, tie, or bundle someone or something up. _The attendants trussed Walter up and took him to a padded cell._ _They trussed up Walter tightly._ _Ann trussed the bundle up and sent it off._  
 __truth is__ :three: The phrase “truth is” is often used to introduce a statement that conveys honesty or an important point that the speaker believes to be true. It serves to emphasize the authenticity or sincerity of what follows.  
 __try one’s hand at something__ :two::hammer: _She tried her hand at journalism._ :es: probar  
@@ -6832,10 +6849,10 @@ __turn (one’s) back on (someone or something)__ :two: To ignore, disregard, or
 __turn (someone or something) upside down__  
 __turn (something) on its head__ :four::hammer:  
 __turn a blind eye to something__  
-__turn a deaf ear (to someone or something)__  
+__turn a deaf ear (to someone or something)__ :two: To ignore or refuse to listen to someone or something; to fail to pay attention to something someone says. _Turn a deaf ear to rumors._  
 __turn around__ :three: __7__ To improve in some way, especially after a poor performance. To change something unsuccessful into something successful. _The playoffs start in a month—that doesn’t leave much time for things to turn around._  
 __turn away__ To refuse to let someone come into a place.  
-__turn heads__ :four: To capture people’s attention due to being exceptionally interesting, beautiful, unusual, or novel. The image is of people literally turning to stare at something as it passes by.  
+__turn heads__ :five: To capture people’s attention due to being exceptionally interesting, beautiful, unusual, or novel. The image is of people literally turning to stare at something as it passes by.  
 __turn of phrase__ :dart::three::hammer:  
 __turn on someone__ To attack someone. _I thought the strange dog was friendly, but suddenly it turned on me and bit me._  
 __turn out all right__  
@@ -6847,7 +6864,7 @@ __turn tail__ To run away or flee, usually in fear. _The burglars turned tail at
 __turn the corner__  
 __turn the tables__ :six: To change or reverse something dramatically. _Wow, they really turned the tables on their opponents after the intermission. The score went from 0-3 to 5-3!_ _Feds turning the tables on sexual predators._  
 __turn turtle__ To turn upside down; to flip over. This phrase is often used to describe overturned boats or ships. _You need to wear a life jacket because there’s always a chance that the boat could turn turtle._  
-__turn up the heat (on someone or something)__ To put pressure on someone or something; apply additional pressure to someone or something. _The FBI turned the heat up on the gang. The police turned up the heat on the people who park illegally every day._  
+__turn up the heat (on someone or something)__ :two: To put pressure on someone or something; apply additional pressure to someone or something. _The FBI turned the heat up on the gang. The police turned up the heat on the people who park illegally every day._  
 __turnaround jumper__ _basketball_  
 __turnaround__  
 __turning point__ :two: A time when things may change; a point at which a change of course is possible or desirable.  
@@ -6855,7 +6872,7 @@ __tush__ _slang_ One’s buttocks. _The _tush push_ is a play in American footba
 __twerp__  
 __twiddle one’s thumbs__ :astonished: Be bored or idle, as in _There I sat for three hours, twiddling my thumbs, while he made call after call._ This expression alludes to the habit of idly turning one’s thumbs about one another during a period of inactivity.  
 __twist (one’s) arm__ To pressure or force one into doing something.  
-__twist the knife__ :smiling_imp: To add to, exacerbate, or amplify a betrayal or wrong by further malicious actions. _He said it was over, and then he twisted the knife and said he had never loved me._  
+__twist the knife__ :dart::smiling_imp::two: To add to, exacerbate, or amplify a betrayal or wrong by further malicious actions. _He said it was over, and then he twisted the knife and said he had never loved me._  
 __twisted__  
 __twists and turns__ :dart::three: Surprising changes. _It’s hard to follow all the twists and turns of the plot._  
 __two a penny__ :two: Very common, ordinary, or widespread. _At first, they were quite novel and interesting, but now these little organic cafés have become two a penny._  
@@ -6885,8 +6902,8 @@ __under pressure__ Facing or enduring something such as pressure or a deadline.
 __under scrutiny__ :two::hammer:  
 __under the aegis of__ Under the protection, sponsorship, or patronage of; under the supervision, control, or management of. _This course will be offered under the aegis of the English Department._  
 __under the guise of (something)__ :two::hammer::smiling_imp:  
-__under the gun__  
-__under the hood__ :two::hammer:  
+__under the gun__ :dart::two: In a stressful situation that requires quick action, often to meet a deadline; under pressure.  
+__under the hood__ :four::hammer:  
 __under the radar__ Doing something without other people noticing.  
 __under the sun__ :three: It’s used for emphasizing that something includes a very wide range of things. _Doctors did everything under the sun, but they couldn’t save her life._  
 __under the weather__ :two: To feel ill.  
@@ -6894,24 +6911,28 @@ __under the yolk__
 __under-promise and over-deliver__ :two: To avoid raising expectations in order to subsequently exceed them. Used as a strategy to ensure the satisfaction of one’s client, customer, boss, etc. Also spelled without hyphens. _I want all of our customer service representatives to under-promise and over-deliver, so that all experiences with our company are positive ones._  
 __undivided/full/complete attention__ Concentration on what someone is doing or saying. _Please give the speaker your undivided/full/complete attention._  
 __unf*ckwithable__ :dart: A Definition: “When you’re truly at peace and in touch with yourself. Nothing anyone says or does bothers you and no negativity can touch you.” —Vishen Lakhiani, _The Code of the Extraordinary Mind_  
+__unfamiliar territory__  
 __unheard of__ :seven: Extremely uncommon or unusual; beyond belief. Hyphenated if used as a modifier before a noun. _His prowess on the balance beam is unheard of._ _Investors began making unheard-of amounts of money on these risky investments._ _It’s not unheard of for individual contributors to question their superiors’ decisions._  
 __unmet need__ An “unmet need” refers to a gap between an individual’s desired condition or goal and their current situation. It implies that there is a necessity or requirement that has not been satisfied or addressed. Unmet needs can occur in various aspects of life, including physical, emotional, social, and psychological dimensions.  
-__unpack__ :six: To try to understand and explicate a complex, and possibly controversial, statement, passage, etc. _Who can unpack what the author is saying in this paragraph?_  
-__unsung hero__  
+__unpack__ :seven: To try to understand and explicate a complex, and possibly controversial, statement, passage, etc. _Who can unpack what the author is saying in this paragraph?_  
+__unsung hero__ :two::hammer:  
 __until all hours (of the day and night)__ Until a very late hour of the night or early hour of the morning. _Johnny keeps taking the car and staying out until all hours, and I just don’t know what to do anymore!_ _She sat up till all hours trying to finish her essay._  
 __until death us do part__ :dart: A common phrase used in wedding ceremonies indicating that the marriage bond shall be intended to last until death. :es: hasta que la muerte nos separe  
 __until kingdom come__ For a very long, indefinite amount of time; forever.  
 __until next time__ :two::hammer:  
-__up (one’s) alley__ Well suited to one’s interests. _I really like Romantic poetry, so this class on John Keats should be up my alley._  
-__up a notch__ To an increased or extreme degree of intensity or quality.  
+__until the cows come home__ (till the cows come home) For a very long, indefinite amount of time; forever. _You can wait until the cows come home, but you’ll never see that law passed in this country!_  
+__up (one’s) alley__ :dart::two: See _right up (one’s) alley._ Well suited to one’s interests. _I really like Romantic poetry, so this class on John Keats should be up my alley._  
+__up a notch__ :two: To an increased or extreme degree of intensity or quality.  
 __up a tree__ In a difficult situation.  
+__up against a brick wall__ Stymied by difficulties or obstacles that seem unlikely to change.  
 __up and coming__ :two: (up-and-coming) An _up and coming_ person is someone who is likely to be successful in the future. On a trajectory to become established or successful, especially in a career or as a business. Sometimes hyphenated. _She’s an up and coming star in the marketing department._ _I like to catch up-and-coming bands at small venues, before they hit it big._ _Check out NFX’s list of the top 75 up-and-coming generative AI startups._  
 __up and down__ __2__ Going between success and failure.  
 __up and running__ :seven::hammer: _The cluster is up and running within a very small timescale._  
-__up for grabs__ :seven: Available for anyone.  
+__up for grabs__ :eight: Available for anyone.  
 __up front__  
-__up in arms__ :dart::three::hammer:  
-__up in the air__ Uncertain; subject to change.  
+__up in arms__ :dart::four::hammer:  
+__up in the air__ :two: Uncertain; subject to change.  
+__up the ante__ :two::hammer:  
 __up to (one’s) eyeballs (in something)__ :astonished: Extremely busy (with something); deeply or overly involved (in something); possessing, filled up with, or overwhelmed by an excessive amount (of something). _There’s no way I can take a vacation right now, I’m up to my eyeballs in work at the moment!_  
 __up to (one’s) neck in alligators__ :two: _business adage_ So overcome or preoccupied by various tangential worries, problems, or tasks that one loses sight of the ultimate goal or objective. The full expression is some variation of “When you are up to your neck in alligators, it’s easy to forget that the goal was to drain the swamp.” _I’ve spent so much time dealing with various infrastructure problems for my new business that I’ve had no time to actually develop our product properly. I guess it’s easy to forget that when up to your neck in alligators, the mission was to drain the swamp._  
 __up to no good__  
@@ -6945,15 +6966,17 @@ __verbum sap__ A shortening of the Latin phrase _verbum sapienti sat est_, liter
 __verge (up)on something__ :two: To be almost identical to something; to be similar to or almost the same as something. (Upon is formal and less commonly used than on.) _Your actions verge upon mutiny. What you said verges on an insult._  
 __verse (someone or oneself) in (something)__  
 __vertically challenged__ Short; not tall in stature. (Pseudo-politically correct slang used for humorous effect.) _Whenever anyone teases me about my height, I just tell them that I’m vertically challenged!_  
-__very much so__ :three: Used to say “yes” or to say that one agrees with something. _“Were you surprised?” “Oh, very much so.”_  
+__very much so__ :four: To a significant extent; yes, very much. Used to say “yes” or to say that one agrees with something. _“Were you surprised?” “Oh, very much so.”_  
+__vested interest__  
 __vette__ A colloquial shortening of “Corvette,” a sports car manufactured by Chevrolet. The abbreviation can also be capitalized or spelled with an apostrophe.  
 __vibe__ A distinct but unquantifiable emotional feeling, quality, or atmosphere that can exist within some place or be exuded by someone. Often pluralized. _I got a weird vibe from the boss during the meeting._  
 __victory lap__ An act of pride or celebration that follows a great achievement or success.  
 __vie for (something)__ :two::hammer:  
+__vindicate (someone or oneself) of (something)__ To clear someone or oneself of some guilt, accusation, blame, suspicion, etc.; to affirm or uphold someone’s or one’s own innocence or justification regarding something.  
 __vouch for (someone or something)__ :two::hammer:  
 __vroom__  
 __w/end__ :three: _informal_ Weekend.  
-__wait and see__ :five: To act with caution and patience until something happens. _I guess I just have to wait and see until the doctor calls with the test results._  
+__wait and see__ :nine::m: To act with caution and patience until something happens. _I guess I just have to wait and see until the doctor calls with the test results._ _It profits me best to wait and see._  
 __wait for it__ :two::hammer:  
 __wait for the other shoe to drop__ To wait for something bad to happen.  
 __wait-and-see__ Hesitant, skeptical, or circumspect, as of a mindset, outlook, or tactic. _With all due respect, the situation is too dire for this kind of wait-and-see approach._  
