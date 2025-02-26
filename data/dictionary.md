@@ -7948,7 +7948,7 @@ __frontrunner__ _n_ :three::hammer:
 __frosh__  
 __Frost Belt__ _n_ (Frostbelt) The north-central and northeast United States.  
 __frost__ _n_  
-__frostbite__ _n_ :nine::hammer: :es: congelación  
+__frostbite__ _n_ :nine: Injury to any part of the body after excessive exposure to extreme cold. :es: congelación  
 __frosted glass__ _n_ _Illuminated by domes of frosted glass._  
 __frosted silver__  
 __frosting__ _n_  
@@ -19615,12 +19615,11 @@ __switch<sup>2</sup>__ _v_
 __switchback__ _n_ :two::hammer:  
 __switchblade__ _n_ _Switchblade artists._  
 __switchboard__  
-__swive__ _v_  
 __swivel<sup>1</sup>__ _n_  
-__swivel<sup>2</sup>__ _v_ :two::hammer:  
+__swivel<sup>2</sup>__ _v_ :six::hammer:  
 __swivet__ _n_ _informal US_ A state of anxiety, confusion, or excitement: _don’t get yourself in a swivet._  
 __swizzle stir__ _n_  
-__swoon__ _v_ :nine::m: /swo͞on/ (swoons, swooned, swooning) __1__ _literary_ Faint, especially from extreme emotion. _Frankie’s mother swooned and had to be helped to the headmaster’s office._ __2__ Be overcome with admiration, adoration, or other strong emotion. _Women swoon over his manly, unaffected ways._  
+__swoon__ _vi_ :nine::m: /swo͞on/ (swoons, swooned, swooning) __1__ _literary_ Faint, especially from extreme emotion. _Frankie’s mother swooned and had to be helped to the headmaster’s office._ __2__ Be overcome with admiration, adoration, or other strong emotion. _Women swoon over his manly, unaffected ways._  
 __swoop<sup>1</sup>__ _n_ :nine: __1__ The act of swooping. _He swiftly adds a blue swoop of acrylic to his brick wall canvas._ __2__ A swift descent.  
 __swoop<sup>2</sup>__ _v_ :nine::m: __1__ If a bird or aircraft swoops, it moves suddenly down through the air, especially in order to attack something. _Swooped down._ __2__ If the police, army etc swoop on a place, they go there without any warning in order to look for someone or something.  
 __swoopy__  
@@ -19678,7 +19677,7 @@ __tabby<sup>1</sup>__ _adj_ :three::hammer: /ˈtæbɪ/
 __tabby<sup>2</sup>__ _n_ :three::hammer: /ˈtæbɪ/  
 __table tennis__  
 __table tennos__  
-__table__ _vt_ :dart::five: __2__ To postpone consideration of (a piece of legislation, for example); shelve. Hold back to a later time. _Let’s table that idea._  
+__table__ _vt_ :dart::six: __2__ To postpone consideration of (a piece of legislation, for example); shelve. Hold back to a later time. _Let’s table that idea._  
 __tableau__ _n_ :astonished::three: A picture, as of a scene.  
 __tableaux__  
 __tableland__ _n_ A flat, elevated region; a plateau or mesa. _Syn_ plateau _The hikers climbed all morning, planning to stop for lunch when they reached the tableland._  
@@ -19804,6 +19803,7 @@ __tantamount__ _adj_ :dart::eight: /TAN-tuh-mount/ Equivalent in seriousness to;
 __tanzanite__  
 __tap into__  
 __tap__ _v_ :dart::nine::m: (tapped) __1__ To strike gently with a light blow or blows: _I tapped you on the shoulder to get your attention._ _Then he raised his cup and tapped Cato’s._ __2__ To give a light rap with: _tap a pencil._ __3__ To produce with a succession of light blows: _tap out a rhythm._ __4__ To select, as for membership in an organization; designate. __5__ _informal_ To ask (a person) for money. _Entrepreneurs tap neighbors for funding._  
+__tapcafe__ _n_ :three::hammer:  
 __tape dispenser__  
 __taper off__ _v_ :two::hammer: (tapering off) _The celebration began to taper off._  
 __taper<sup>1</sup>__ _n_ :five: (tapers) __1__ A convex shape that narrows toward a point. __2__ The property possessed by a shape that narrows toward a point (as a wedge or cone). __3__ _She said the blessing over the tapers._ :es: vela  
@@ -19819,7 +19819,7 @@ __taradiddle__ _n_
 __tardy__ _adj_ :three::hammer:  
 __target ball__  
 __target__ _v_ _Liftoff is targeted for 7:50 a.m. EDT, Thursday, July 30._  
-__tariff__ _n_ :eight::hammer: /ˈtær ɪf/ :es: arancel  
+__tariff__ _n_ :nine::hammer: /ˈtær ɪf/ [:scroll: Tariff came into English at the end of the 16th century, borrowed from the Italian _tariffa_, which itself came from the Arabic word _taʽrīf_, meaning “notification.”] :es: arancel  
 __tarmac__ _n_ :four: __1__ Material used for surfacing roads or other outdoor areas, consisting of broken stone mixed with tar. __2__ A runway or other area surfaced with tarmac or a similar material. _A rule allowing passengers on such flights to disembark after a four-hour tarmac delay._ :es: pista; alquitranado  
 __tarn__ _n_ /tɑːn/ /tɑrn/ A small mountain lake.  
 __tarnation__ _n_ :two: A euphemism for damnation.  
@@ -19835,7 +19835,7 @@ __tart__ _adj_ :six: __1__ (of a flavour, food, etc) Sour, acid, or astringent. 
 __tartan__ _n_ :five::hammer: _Tartan trousers._ _Tartan upholstery._ _Trinket and tartan shops._  
 __tartar__ _n_  
 __tartare__ _adj_ (of food) Served raw: _salmon tartare._  
-__tartly__ _adv_ In a tart manner. _The teacher replied tartly._  
+__tartly__ _adv_ :two: In a tart manner. :es: ásperamente _The teacher replied tartly._  
 __tarts__ _n_ (whore)  
 __Tartuffe__ _n_ :smiling_imp: (Tartufe) [:scroll: after the title character in a Molière play (1664)] A person who hypocritically pretends to be deeply pious.  
 __tase__ _v_  
@@ -19859,7 +19859,7 @@ __tattle<sup>1</sup>__ _n_
 __tattle<sup>2</sup>__ _v_ :dart::three::hammer: (tattling)  
 __tattletale<sup>1</sup>__ _adj_  
 __tattletale<sup>2</sup>__ _n_ :two::hammer:  
-__tattoo__ _n_ /tæˈtuː/  
+__tattoo__ _n_ :two::hammer::mega: /tæˈtu/  
 __tatty__ _adj_ :two: Somewhat worn, shabby, or dilapidated.  
 __taunt<sup>1</sup>__ _n_ :five::hammer: _Song has heard his share of slurs and taunts._  
 __taunt<sup>2</sup>__ _vt_ :nine::m::smiling_imp: /tɔːnt/ __1__ To reproach in a mocking, insulting, or contemptuous manner: _taunted her for wearing hand-me-down clothes._ _Syn_ ridicule __2a__ To provoke or deride with mockery, contempt, or criticism. To drive or incite (a person) by taunting: _His friends taunted him into asking for a raise._ __b__ To tease and excite sexually: _taunted him with glimpses of skin._  
@@ -19876,6 +19876,7 @@ __taw<sup>2</sup>__ _vt_ __1__ To prepare raw material for use. __2__ To tan ani
 __taw<sup>3</sup>__ _n_ __1__ A large marble used as a shooter. __2__ A line from which the players shoot marbles.  
 __tawdry__ _adj_ :seven: [:scroll: Short for tawdry lace, a contraction of St Audrey lace. The story goes that Æthelthryth (c. 636-679 CE), also known as Etheldreda and Audrey, loved fine silk laces in her youth. She died of a throat tumor which she considered a punishment for her fondness of necklaces. She was a queen, but later became a nun, and eventually a saint. Cheap laces sold in St Audrey’s Fair in Ely, England, came to be known as St Audrey lace, and eventually shrank to tawdry lace.] Cheap, showy, and gaudy. Poor, cheap quality. Tastelessly showy. _Syn_ flashy, garish, gaudy, gimcrack, loud, meretricious, tacky, tatty, trashy, brassy, cheap  
 __tawny__ _n_ :three: A light brown to brownish orange.  
+__tax brackets__  
 __tax break__ _n_ :two::hammer: (tax breaks)  
 __tax levy__  
 __taxa__  
@@ -19896,8 +19897,7 @@ __team effort__ _n_ Something done by a group of people.
 __team player__  
 __team up__ _v_  
 __teammate__ _n_ :pencil2:  
-__teamster__ _n_ :astonished: __1__ One who drives a truck for hauling loads, especially as an occupation. __2__ One who drives a team.  
-__Teamster__ _n_ :two::hammer:  
+__teamster__ _n_ :astonished::four: /ˈtim stər/ __1__ One who drives a truck for hauling loads, especially as an occupation. __2__ One who drives a team.  
 __tear gas__ _n_ :two::hammer:  
 __teardown__ _n_  
 __tearjerker__ _n_ _informal_  
@@ -20108,7 +20108,7 @@ __third rail__ _n_ :two: /thurd rayl/ __1__ A topic believed to be too controver
 __third state__ _n_ The third of the traditional social classes; the common people. _Syn_ commons  
 __this and that__  
 __this time around__ _phr_ :dart::hammer: :es: esta vez  
-__thistle__ _n_ :two::hammer::mute:[this~~t~~le] :es: cardo  
+__thistle__ _n_ :three::hammer::mute:[this~~t~~le] /ˈθɪs əl/ [Note: the national flower of Scotland.] :es: cardo  
 __thistledown__ _n_ The mature, silky pappus of a thistle.  
 __thither__ _adv_ To or toward that place; in that direction. _Syn_ there _Let us stroll thither, and examine the matter nearer._  
 __thobbing__  
@@ -20190,6 +20190,7 @@ __thumbsucker__ _n_ /THUHM-suhk-uhr/ __1__ Someone who likes to suck their thumb
 __thump__ _v_ :three::hammer: _Liverpool thumps United 3-0._ _The Hawks thumped the Maroons._ _He thumped the cigarette gently on the table._  
 __thumping__ _adj_ _informal_ _A thumping majority._  
 __thunder__ _v_ :two: (thundered) To express violently, commandingly, or angrily; roar.  
+__thunderclap__ _n_  
 __thundercloud__ _n_  
 __thunderheads__  
 __thundering__ _adj_ _informal_ Very great, remarkable, or unusual. _A thundering water sculpture._  
@@ -20385,7 +20386,7 @@ __toilet bowl__ _n_ :two: The bowl of a toilet that can be flushed with water.
 __toilet stool__  
 __toilet training__ _n_ The training of a very young child to control bowel and bladder movements and use the toilet.  
 __toiletries__  
-__tokamak__ _n_  
+__tokamak__ _n_ :two::hammer::camera: A doughnut-shaped chamber used in fusion research in which a plasma is heated and confined by magnetic fields.  
 __Tokyoites__  
 __tolerant__  
 __tolerate__ _v_  
@@ -20483,6 +20484,7 @@ __torn__ _v_ :three: Past participle of tear. _You feel so torn about what to do
 __torpedo__ _vt_ :three: __2__ To destroy decisively; wreck: _torpedo efforts at reform._ To render ineffective; destroy or wreck: _to torpedo the administration’s plan._  
 __torpid__ _adj_ :three: Lethargic; apathetic. _Syn_ inert, sluggish _They are always in a torpid state, and are apt to yawn and go to sleep over any intellectual toil._  
 __torpor__ _n_ :six: A state of physical or mental inactivity; lethargy. _They veered between apathetic torpor and hysterical fanaticism._ _The economy is in a torpor._ _Syn_ lethargy  
+__torrent__ _n_ A heavy, uncontrolled outpouring. _Syn_ deluge, flood, inundation  
 __torrid__ _adj_ :four: /TOR-id/ Torrid can be used to describe something that is literally hot (such as a region near the Earth’s equator) or figuratively hot (such as a romance). Scorching; burning. _Syn_ fervent, fiery, ardent, burning _The torrid noonday sun shone down on the travelers in the desert._ _A torrid affair._  
 __torte__ _n_ _A torte was named after her._  
 __torticollis__ _n_  
@@ -20526,7 +20528,7 @@ __tour__ _v_ _Tour a real submarine._
 __tournament__ _n_ :four::hammer:  
 __tourney__  
 __tourniquet__ _n_ :two::pencil2: _He was tying a rubber tourniquet around the top of his arm._  
-__tousle__ _v_ :two: To make untidy (especially someone’s hair). _Vic stood in front of the mirror and tousled his hair, trying to get a cool, disheveled look._  
+__tousle__ _v_ :three: /TOW-zul/ To tousle something is to dishevel it—that is, to make it untidy or unkempt. _Tousle_ is usually, though not always, used specifically when a person’s hair is being so treated. To make untidy (especially someone’s hair). _Vic stood in front of the mirror and tousled his hair, trying to get a cool, disheveled look._  
 __tousled__ _adj_ :three: Disordered or disheveled: _tousled hair; tousled clothes._  
 __tout<sup>1</sup>__ _n_ __1__ One who solicits customers brazenly or persistently. _Touts, thieves, and barrow men._  
 __tout<sup>2</sup>__ _vt_ :dart::five::hammer: (touted)  
@@ -20558,7 +20560,7 @@ __tracksuit__ _n_ :three: A loose-fitting jacket and pants worn by athletes and 
 __tract__ _v_  
 __tractable__ _adj_ :two: /TRAK-tuh-bul/ _Tractable_ is used to describe someone or something that is easily led, managed, taught, or controlled. Easily managed or controlled; governable. _Syn_ manipulable  
 __tractography__ _n_  
-__tractor trailer__ _n_ :two::hammer::camera: (tractor-trailer)  
+__tractor trailer__ _n_ :three::camera: (tractor-trailer) A truck consisting of a tractor and trailer together. _Syn_ articulated lorry, trailer truck, trucking rig, rig, semi  
 __tractor__ _n_  
 __trade paperback__  
 __trade union__ _n_ :dart::two::hammer: :es: sindicato  
@@ -20605,7 +20607,7 @@ __transience__
 __transient<sup>1</sup>__ _adj_ :nine::mega: For a short time only; temporary or transitory. _Transient lesions._ _A transient log._ _One of the more transient jobs at the paper._ _Temporary conduction block can occur as a result of transient edema._  
 __transient<sup>2</sup>__ _n_ :two::hammer:  
 __transition__ _vi_ (of a transgender person): To come to live in accordance with one’s gender identity through a process that involves changes to one’s appearance and presentation often with the aid of medical procedures and therapies.  
-__translate__ _v_ _That doesn’t always translate, believe me._  
+__translate__ _v_ :two::hammer::mega: _That doesn’t always translate, believe me._  
 __translational__ _n_ __2__ In science, of or relating to the application of basic or theoretical discoveries to the development of practical applications: _translational research._  
 __translucent__ _adj_ :two::hammer: /trans-LOO-sunt/  
 __transmogrification__ _n_  
@@ -20634,6 +20636,7 @@ __travelogue__ _n_ :three::hammer:
 __travertine__ _n_ Calcium carbonate deposited by water, as in stalactites.  
 __travesty<sup>1</sup>__ _n_ :six: /TRAV-uh-stee/ __1__ Mockery. __2__ A debased or grotesque imitation.  
 __travesty<sup>2</sup>__ _vt_ /TRAV-uh-stee/ __1__ To represent in a false or absurd manner. __2__ To caricature or parody.  
+__travois__ _n_ A frame slung between trailing poles and pulled by a dog or horse, formerly used by Plains Indians as a conveyance for goods and belongings.  
 __trawl__ _v_ :five::hammer:  
 __trawler__  
 __treacherous__ _adj_ :four: /ˈtrɛtʃ ər əs/ __1__ Betraying or likely to betray faith or confidence.  
@@ -20820,7 +20823,7 @@ __Tudor__
 __Tuesday__ _n_ :mega: /’tuzdi, -deI/  
 __tuff rock__  
 __tuffet__ _n_ :two: __1__ A clump or tuft of grass. __2__ A low seat, such as a stool. A low seat or a stool to rest the feet of a seated person. _Syn_ footrest, footstool, ottoman _He reclined in his chair with a contented sigh and put his feet up on the nearest tuffet._  
-__tuft__ _n_  
+__tuft__ _n_ :two::hammer: _Tufts of hair._ :es: mechón  
 __tufted__  
 __tug of war__ _n_ :four::hammer:  
 __tuition__ _n_ :three::hammer: _The tuition for the workshops is on a sliding scale._  
@@ -20853,12 +20856,13 @@ __turbid__ _adj_ :three: /TER-bid/ Having sediment or foreign particles stirred 
 __turbocharge__ _vt_ :dart::three: __1__ To equip with a turbocharger. __2__ _informal_ To improve dramatically the performance or quality of. To speed up; accelerate.  
 __turducken__ _n_ :four: [:scroll: from tur(key) + du(ck) + (chi)cken] A dish consisting of a deboned chicken stuffed into a deboned duck, further stuffed into a deboned turkey. Outside of the United States and Canada, it is known as a three-bird roast.  
 __tureen__ _n_ :es: sopera _Soup tureens._  
+__turf war__  
 __turgid__ _adj_ :four: Excessively ornate or complex in style or language. _Syn_ bombastic, declamatory, orotund, tumid, large _Growing impatient with the politician’s turgid prose, she turned off her television._  
 __Turkey day__  
 __turkey drumstick__ _n_  
 __turkey trot__ _n_ _(Dancing)_ An early ragtime one-step, popular in the period of World War I.  
 __Turkey__ _n_ /ˈtɜr ki/  
-__turmeric__ _n_ :five::hammer: :es: cúrcuma  
+__turmeric__ _n_ :six::hammer: :es: cúrcuma  
 __turmoil__  
 __turn a profit__  
 __turn on__ _phr v_  
@@ -20872,7 +20876,7 @@ __turndown__ _n_ The act of refusing an offer.
 __turnip greens__  
 __turnip__ _n_ :five::hammer: [:scroll: The word turnip is a compound of turn as in turned/rounded on a lathe and neep, derived from Latin napus, the word for the plant.]  
 __turnkey<sup>1</sup>__ _n_ :two: /TUHRN-kee/ One in charge of the keys in a prison; jailer.  
-__turnkey<sup>2</sup>__ _adj_ :six: Relating to a product or service that is supplied ready for immediate use. _Turnkey property._ _Turnkey solutions._  
+__turnkey<sup>2</sup>__ _adj_ :seven: Relating to a product or service that is supplied ready for immediate use. _Turnkey property._ _Turnkey solutions._  
 __turnoff__ _n_ One that causes loss of interest or enthusiasm. _The music was a turnoff._  
 __turnout__ _n_ :three::hammer: _The turnout rate._  
 __turnover__ _n_ :six: __1__ The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield _The small retailers made more than 50 percent of their turnover from selling cigarettes._ :es: facturación, volumen de ventas __2__ _football_ In American football, the two events that are officially classified as “turnovers” are fumbles (accidental physical loss of a live ball a player has possession of) or interceptions (passes intended for a member of the passing team, but caught by a member of the opposing team).  
@@ -20933,8 +20937,8 @@ __twirl__ _v_ _Goodman twirled is spectacles._
 __twist__ _n_ :four::hammer: _An innovative twist._ _I’ll have my vodka martini with a twist of lemon._  
 __twister__ _n_ :two::hammer: __2__ _informal_ A whirlwind or tornado. A tornado or cyclone.  
 __twit__ _n_ _The damned last boy was a twit._  
-__twitch<sup>1</sup>__ _n_ :three::hammer: _That wad a beautiful last twitch._ _A twitch of motion._  
-__twitch<sup>2</sup>__ _v_ :nine: __1__ _vt_ To draw, pull, or move suddenly and sharply; jerk: _I twitched my fishing line._ _The curtain was twitched._ __2__ _vi_ To move jerkily or spasmodically. _A curtain twitched in the house next door._ __3__ _vi_ To ache sharply from time to time; twinge.  
+__twitch<sup>1</sup>__ _n_ :four::hammer: _That wad a beautiful last twitch._ _A twitch of motion._  
+__twitch<sup>2</sup>__ _v_ :nine::m: __1__ _vt_ To draw, pull, or move suddenly and sharply; jerk: _I twitched my fishing line._ _The curtain was twitched._ __2__ _vi_ To move jerkily or spasmodically. _A curtain twitched in the house next door._ __3__ _vi_ To ache sharply from time to time; twinge.  
 __twitchy__ _adj_ :two: __1__ Nervous, worried, and ill-at-ease: _he was twitchy with anticipation._ _Syn_ edgy, fidgety, jittery, jumpy, nervous, restive, restless, skittish, tense, uptight, a bundle of nerves, all wound up, on edge __2__ Characterized by jerky or spasmodic motion: _a cat’s twitchy whiskers._  
 __twitterpated__ _adj_ _informal_ Excited or overcome by romantic feelings; smitten.  
 __two__ _adj, n_ :mute:[t~~w~~o]  
@@ -20951,6 +20955,7 @@ __tympanum__ _n_ :two::hammer: _Architecture_ _A colored ceramic tympanum._
 __type-A personalities__  
 __typecast__ _v_ :pencil2: _Lawrence avoided the typecasting pitfalls of super-franchise stars before her._  
 __typify__ _v_ (typifies)  
+__typosquat__ _v_ To register a domain name that is a common misspelling of a popular domain name (or the domain name of a well-known brand) in order to capture Internet traffic from users who mistype domain names.  
 __tyrannize__ _v_ :pencil2: _Most of them are woefully unproductive, and tyrannize our offices._  
 __tyranny__ _n_ :three::pencil2::mega:  
 __tyrant__ _n_ :four::hammer: /ˈtaɪ rənt/  
@@ -21016,6 +21021,7 @@ __uncompromising__ _adj_ :two: Unwilling to grant concessions or negotiate; infl
 __uncongenial__ _adj_ :two: Not suitable to your tastes or needs. _Syn_ incompatible  
 __unconscionable__ _adj_ :smiling_imp:  
 __uncontested shot__ _n_ (vs contested shot)  
+__uncontested__ _adj_ /ˌʌn kənˈtɛs tɪd/ Not contested; unchallenged: _an uncontested victory._  
 __unconvinced__  
 __uncorroborated__ _adj_ Unsupported by other evidence. _Syn_ unsubstantiated  
 __uncouth__ _adj_ :seven: /un-KOOTH/ Uncouth means “behaving in a rude way” or “not polite or socially acceptable.” Lacking refinement or cultivation or taste. _Syn_ rough-cut, vulgar, coarse, common _He was an uncouth fellow, ragged and dirty and unshaven._ _Stacy realized it would be uncouth to show up to the party without a gift, so she picked up a bottle of wine on the way._  
@@ -21125,7 +21131,7 @@ __unharness__ _v_
 __unheeded__ _adj_ :dart::two: /ʌnˈhiːdɪd/ Noticed or heard but disregarded.  
 __unheralded__ _adj_ :two::hammer:  
 __unhindered__ _adj_ :two: without hindrance. _He could proceed unhindered._  
-__unhinged__ _adj_ :three: Deranged or unbalanced. _Alex Jones is the most prolific and unhinged conspiracy theorist in America._  
+__unhinged__ _adj_ :four: /ʌnˈhɪndʒd/ __1__ Deranged or unbalanced. _Alex Jones is the most prolific and unhinged conspiracy theorist in America._ __2__ Affected with madness or insanity.  
 __unhook__ _vt_  
 __unhoped-for__ _adj_ So unexpected as to have not been imagined. _Syn_ unthought-of  
 __uni__ _n_ /ˈjuːnɪ/ _informal_ Short for university.  
@@ -21202,12 +21208,13 @@ __unstreamed__ _adj_ /ʌnˈstriːmd/ (Education) _Brit_ (of children) Not divide
 __unstudied__ _adj_ Not contrived for effect; natural. _Sun_ uncontrived  
 __unsubstantiated__ _adj_  
 __unsung__  
-__unsurmountable__ _adj_  
+__unsurgency__ _n_ /ɪnˈsɜr dʒən si/  
+__unsurmountable__ _adj_ :two: /ˌʌnsɜːˈmaʊntəbəl/ (of a problem, etc) Not capable of being solved or overcome. _Syn_ insurmountable  
 __unswerving__ _adj_ :two::hammer: _Unswerving confidence._ _Unswerving attention._  
 __unswervingly__  
 __unsympathetic__  
-__untapped__ _adj_ :eight: /ŭn-tăpt′/ __1__ Not having been tapped: _an untapped cask of wine._ __2__ Not utilized: _untapped resources._ _Untapped talent._ :es: sin explotar  
-__untenable__ _adj_ :three: __1__ Not able to be defended. __2__ Not able to be occupied.  
+__untapped__ _adj_ :nine: /ŭn-tăpt′/ __1__ Not having been tapped: _an untapped cask of wine._ __2__ Not utilized: _untapped resources._ _Untapped talent._ :es: sin explotar  
+__untenable__ _adj_ :four: /un-TEN-uh-bul/ __1__ Something, such as a position, excuse, or situation, that is described as untenable cannot be defended against attack or criticism. Not able to be defended. _The scientists considered their colleague’s theory to be bold but ultimately untenable._ __2__ Not able to be occupied.  
 __untethered__ _adj_ Not tied or limited with or as if with a tether.  
 __unthawed__ _adj_ Not thawed; still frozen. _Unthawed croissant._  
 __unthinkable__ _adj_ :two::hammer: _The unthinkable has befallen President._  
@@ -21245,9 +21252,8 @@ __upchuck__ _v_ _You know, Freddo, Frank Borman was upchucking most of the way t
 __upcoming__ _adj_ :dart::two: In the relatively near future. _Syn_ approaching, coming, forthcoming  
 __upcycle__ _v_ To recycle a disposable product into an object of greater value or use.  
 __updraft__ _n_ The movement upward of air or other gas.  
-__upend__ _v_  
 __upend<sup>1</sup>__ _vt_ :nine::m: __1__ To stand, set, or turn on one end: _upend an oblong box._ __2__ To affect drastically or radically, as tastes, opinions, or reputations. To invalidate, destroy, or change completely; overthrow: _upended a popular legend_. _The earthquake upended the nation last week._ __3__ To win victory over; defeat. To defeat in competition.  
-__upend<sup>2</sup>__ _vi_ __1__ To become upended. __2__ To place the body back-end up, as a dabbling duck.  
+__upend<sup>2</sup>__ _vi_ :three: __1__ To become upended. __2__ To place the body back-end up, as a dabbling duck.  
 __upended__ _adj_ :five: Turned up on end. _Syn_ perpendicular, vertical  
 __upfield__  
 __upfront__ _adj_ :dart::four: __1__ Straightforward; frank. __2__ Paid or due in advance: _upfront cash._  
@@ -21257,6 +21263,7 @@ __uphill<sup>2</sup>__ _adv_ _I didn’t have to fight uphill._
 __uphold__ _vt_ :nine::m: __3__ To maintain or affirm: _uphold a standard of behavior._ _Syn_ support When you uphold something, you stick up for or support it. _Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he’s still alive out there somewhere._ [If you reverse the two parts of this word, you get hold up. And that’s exactly what upholding is: holding up or supporting an idea or practice.]  
 __upholder__ _n_  
 __upkeep__ _n_ :six: __1__ Maintenance in proper operation, condition, and repair. _Chalkboards did not require much upkeep._ __2__ The cost of such maintenance.  
+__uplift__ _n_  
 __uplifted__ _adj_  
 __uplifting__ _adj_ :two::hammer: /ʌpˈlɪftɪŋ/  
 __upmarket__  
@@ -21288,7 +21295,7 @@ __upsetting__
 __upshot__ _n_ :dart::nine::m: The final outcome. _Syn_ conclusion, result _The upshot of the disagreement was that they broke up the partnership._  
 __upside__ _n_ :five: __1__ The upper side or portion. __2__ An advantageous aspect: _the upsides and downsides of home ownership._ _Working from home has its upsides as well as downsides._ _The gig did have some upsides._ _I like his speed, and I like his upside._ _The aging Knicks could use upside._ __3__ An upward tendency, as in business profitability or in the prices of a stock.  
 __upside-down__ _adj_ _An upside-down case._  
-__upskill__ _vt_ :dart: To improve the aptitude for work of (a person) by additional training.  
+__upskill__ _vt_ :dart::two: /ˈʌpˌskɪl/ To improve the aptitude for work of (a person) by additional training.  
 __upskilling__ _n_ :dart::three: Teaching or learning additional skills.  
 __upskirt__ _v_ (upskirted)  
 __upskirting__ _n_  
@@ -21298,7 +21305,7 @@ __upstart__ _n_ :five::hammer: (upstarts) _The digital upstarts are shifting foc
 __upstate__  
 __upstream__  
 __upswing__ _n_ :five: __1__ An upward swing or trend. __2__ An increase, as in movement or business activity.  
-__uptake__ _n_ :eight::hammer: _Other applications have had limited uptake._ __4__ The act of accepting or taking up something on offer or available.  
+__uptake__ _n_ :nine::hammer: _Other applications have had limited uptake._ __4__ The act of accepting or taking up something on offer or available.  
 __uptalk__ _v_  
 __uptick__ _n_ :nine::m: __1__ A rise or improvement, esp. in business. __2__ A slight rise or rising trend in the stock market.  
 __uptight__ _adj_ :three::dart::hammer:  
@@ -21381,6 +21388,7 @@ __vallecula__ _n_ Any furrow or channel on a bodily structure or part. _Syn_ gro
 __valorous__ _adj_ /VAL-uh-russ/  
 __valuable__ _n_ :astonished:  
 __valuate__ _v_ Evaluate or estimate the nature, quality, ability, extent, or significance of. _Syn_ appraise, assess, measure _The jewelry must be valuated by a professional before the marital assets can be divided._  
+__value system__ _n_ The system of established values, norms, or goals existing in a society.  
 __valued-added__  
 __valvuloplasty__ _n_ Plastic surgery to repair a valve, especially a heart valve.  
 __vamoose__ _vi_ :three: /vuh-MOOSS/ [:scroll: from Spanish _vamos_ let’s go, from Latin _vādere_ to go, walk rapidly] To leave a place hurriedly; decamp. Vamoose is an informal word that means “to depart quickly.” _With the sheriff and his posse hot on their tails, the bank robbers knew they had better vamoose._  
@@ -21407,7 +21415,7 @@ __vaping__ _v_ _Smokers are switching to vaping._
 __vaporous__ _adj_ So thin as to transmit light. _Syn_ cobwebby, diaphanous, filmy, gauzy, see-through, transparent, gossamer, sheer _She was draped in vaporous silks that in the moonlight gave her the appearance of an unearthly apparition._  
 __variable__ _n_ :mega:  
 __variegate__ _v_ Make something more diverse and varied. _Syn_ vary  
-__variegated__ _adj_ __1__ Marked with patches or spots of different colors. __2__ Varied; diverse.  
+__variegated__ _adj_ :two: __1__ Marked with patches or spots of different colors. __2__ Varied; diverse.  
 __variety store__  
 __variola__ _n_ An acute, highly infectious, often fatal disease caused by a poxvirus and characterized by high fever and aches with subsequent widespread eruption of pimples that blister, produce pus, and form pockmarks. _Syn_ smallpox  
 __varix__ _n_ /ˈvɛər ɪks/ (_n pl_ varices) __1__ An abnormally dilated or swollen vein, artery, or lymph vessel.  
@@ -21417,6 +21425,7 @@ __varnish__ _n_
 __varsity__ _n_ :nine::m: The principal team representing a university, college, or school in sports, games, or other competitions. The word varsity identifies the starting team in a sport at a college or university. You have to be good to make varsity. At many schools, sports are a big deal. Thousands of people flock to college football and basketball games, plus other sports. The members of the starting team are varsity players. Varsity players are the best players: that’s why they start, and they usually finish the game too. It can take a while for a player to make varsity status. _Syn_ first team _He started dating another varsity athlete._ _The junior varsity squad._ _He was on the junior varsity team._ _She was determined to make the varsity basketball team and practiced her game all summer._  
 __vasculitis__ _n_ Inflammation of the blood vessels.  
 __vasospasm__ _n_  
+__vasovagal__ _n_ Relating to or involving blood vessels and the vagus nerve. _Vasovagal syncope._  
 __vassal__ _n_ :two::hammer:  
 __vast__ _adj_ :three::hammer: _The vast array of resources._ _A vast number._  
 __vastly__ _adv_ :two::hammer:  
@@ -21459,7 +21468,7 @@ __vendor__ _n_ :two::hammer:
 __veneer__ _n_ :nine::m: (veneers) __1__ A thin surface layer, as of finely grained wood, glued to a base of inferior material. __2__ Any of the thin layers glued together to make plywood. __3__ A decorative facing, as of brick. __4__ :dart: A deceptive, superficial show; a façade: _a veneer of friendliness._ _A veneer of quality._  
 __venerable__ _adj_ :two::hammer: _Venerable institution._  
 __venerate__ _v_ :three: /VEN-uh-rayt/ To venerate someone or something is to feel or show deep respect for them because they are considered great, holy, etc. To feel or show deep respect and honor for someone or something. To hold in deep respect. _Syn_ revere _In our culture, we venerate the elderly and pay heed to their wisdom._ _Volunteers of the Peace Corps are venerated for their selfless dedication and contributions._  
-__vengeful__ _adj_  
+__vengeful__ _adj_ :two: Disposed to seek revenge or intended for revenge. _Syn_ revengeful, vindictive  
 __venial__ _adj_  
 __venison__ _n_ :five::hammer:  
 __Venn__ _n_ (John Venn) English logician who introduced Venn diagrams. (1834-1923)  
@@ -21493,7 +21502,7 @@ __verisimilitude__ _n_ :three: The quality of appearing to be true or real. _Syn
 __verismo__  
 __veritable__ _adj_ :two::hammer:  
 __verity__ _n_ /VER-i-tee/ __1__ The quality of being true. __2__ Something that is true: a universally accepted truth.  
-__verklempt__  
+__verklempt__ _adj_ :two: /fär-klĕmpt′/ Variant of _farklempt_. Overcome with emotion; choked up. _Hunched over my tiny screens lately, I’ve found myself … verklempt over an old video I posted of my son blowing bubbles in the bathtub._  
 __vermeil__ _adj, n_  
 __vermicelli__  
 __vermillion__  
@@ -21519,7 +21528,7 @@ __vesta__ _n_ /VES-tuh/ [:scroll: After Vesta, the goddess of hearth and househo
 __vested interest__ _n_ :two: A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
 __vested__ _adj_ _Vested hostilities._  
 __vestibule__ _n_ :two::mega::hammer:  
-__vestige__ _n_ :four: /VESS-tij/ (vestiges) A trace, mark, or visible sign left by something lost or vanished. _Syn_ tincture, trace, shadow _The seconds ticked by, but the team still had a vestige of hope._ _The ruins remain as vestiges of the Roman occupation of Britain._  
+__vestige__ _n_ :five: /VESS-tij/ A vestige is a trace, mark, or visible sign left by something lost or vanished. A trace, mark, or visible sign left by something lost or vanished. _Syn_ tincture, trace, shadow _The seconds ticked by, but the team still had a vestige of hope._ _The ruins remain as vestiges of the Roman occupation of Britain._  
 __vesting__ _n_ The granting to an employee of the right to pension benefits despite retirement before the usual time or age. _The vesting date._  
 __vet<sup>1</sup>__ _vt_ :dart::six::astonished: (vetted, vetting) __1__ To subject to veterinary evaluation, examination, medication, or surgery. __2__ :dart: To appraise, verify, or check for accuracy, authenticity, etc. To subject to thorough examination or evaluation: _An expert vetted the manuscript before publication._  
 __vet<sup>2</sup>__ _vi_ To work as a veterinarian.  
@@ -21580,11 +21589,12 @@ __vineyard__ _n_
 __vintner__ _n_ :two::hammer:  
 __vinyasa__ _n_ :two::hammer:  
 __viper__ _n_ :three::hammer: (vipers)  
-__virago__ _n_ /vɪˈrɑ goʊ, -ˈreɪ-/  
+__virago__ _n_ :two::hammer: /vɪˈrɑ goʊ, -ˈreɪ-/  
 __virescent__ _adj_ /vuh/vy/vi-RES-uhnt/ __1__ Greenish. __2__ Turning green.  
 __virid__ _adj_ :two: /VIR-id/ Bright green with or as if with vegetation. _Syn_ verdant _The lake was virid with bright algae on the surface._  
 __viridity__ _n_ __1__ Youth; innocence; inexperience. __2__ The quality or condition of being green, especially as manifested in vegetation.  
 __virtually__ _adv_ :astonished::two: __1__ In fact or to all purposes; practically. _The city was virtually paralyzed by the transit strike._ __2__ Almost but not quite; early. _Virtually everyone gets a headache now and then._  
+__virtuoso__ _n_ /ver-choo-OH-soh/ _Virtuoso_ is used broadly to refer to a person who does something very skillfully, and is often used specifically to refer to a very skillful musician.  
 __vis-à-vis<sup>1</sup>__ _prep_ __1__ In relation to; regarding. __2__ Face to face with; opposite.  
 __vis-à-vis<sup>2</sup>__ _adv_ Face to face; opposite.  
 __vis-à-vis<sup>3</sup>__ _adj_ Face to face; opposite.  
@@ -21637,10 +21647,12 @@ __vole__ _n_ :two: A small animal similar to a mouse but with a short tail. _Syn
 __volition__ _n_ :six: /voh-LISH-un/ Volition is a formal word that means “the power of choosing or determining.” Usually, though not always, _volition_ follows _own_, as in “left the company of her own volition.” The act or an instance of making a conscious choice or decision. _Syn_ willing _Every choice I made was of my own volition and not subject to outside influence._  
 __volley__ _n_ :two::hammer: _A volley of invective._  
 __voltage__ _n_ :two::mega::hammer:  
+__voltmeter__ _n_ /ˈvoʊltˌmi tər/ A calibrated instrument for measuring the potential difference between two points in volts. :es: voltímetro  
 __voltron__  
 __voluble__ _adj_ :two: /VAHL-yuh-bul/ Characterized by ready or rapid speech.  
 __volubly__ _adv_ In a chatty manner. _They were speaking volubly into their mobiles._  
-__voracious__ _adj_ :two::hammer: /vaw-RAY-shus/  
+__voluminous__ _adj_ Large in number or quantity (especially of discourse). _Syn_ copious _She took voluminous notes during the lecture, and her classmates begged for copies._  
+__voracious__ _adj_ :three: /vaw-RAY-shus/ Having or marked by an insatiable appetite for an activity or pursuit; greedy. _Syn_ rapacious, ravening  
 __voracity__ _n_ /vuh-RASS-uh-tee/  
 __vorpal__ _adj_ /VUHR-puhl/ [:scroll: Coined by Lewis Carroll (1832-1898) in his novel _Through the Looking-Glass._] __1__ Sharp. __2__ Deadly.  
 __votaries__  
@@ -21728,17 +21740,17 @@ __walloping__ _n_ A sound thrashing or defeat. _Syn_ debacle, drubbing, thrashin
 __wallow__ _v_ :nine::m: __1__ _(chiefly of large mammals)_ Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ _(of a person)_ Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself) _They tend to wallow in their sorrow._ _Don’t wallow in despair._ :es: regodeo  
 __walrus mustache__ _n_ :two: A bushy, drooping mustache.  
 __wamble__ _v_ Move unsteadily or with a weaving or rolling motion. _As John wambled into the kitchen for his morning coffee, his head pounding and stomach reeling, he made a silent vow never to get drunk again._  
-__wan__ _adj_ :four::hammer: _A wan reception._  
+__wan__ _adj_ :five::hammer: _A wan reception._  
 __wand__ _n_  
 __wander<sup>1</sup>__ _n_ The act or an instance of wandering.  
 __wander<sup>2</sup>__ _v_ :two::hammer: _Let’s wander slowly through the fields, the fields of joy._  
 __wanderer__  
-__wanderlust__ _n_ :five: Very strong or irresistible impulse to travel. _Syn_ itchy feet _His wanderlust would not allow him to stay long in one spot._  
+__wanderlust__ _n_ :six: /WAHN-der-lust/ Very strong or irresistible impulse to travel. _Syn_ itchy feet _His wanderlust would not allow him to stay long in one spot._  
 __wanderwort__ _n_ A loanword that has spread to many different languages, often through trade or the adoption of foreign cultural practices.  
 __wane__ _v_ :seven::hammer: /WAYN/ To _wane_ is to become smaller or less, or in other words, to decrease in size, extent, or degree. _The national scandal caused her popularity to wane._ _The waning hours._ _Protection from two doses of vaccine wanes within six months._ _Covid-19 vaccination: evidence of waning immunity is overstated._  
 __wangle__ _v_ /WANG-gul/ __1__ To get (something) by trickery or persuasion. _He managed to wangle his way into the party._ __2__ To adjust or manipulate for personal or fraudulent ends. _They wangled me into pleading guilty._  
 __wanker__ _n_  
-__wanly__ _adv_ :three: In a weak or pale or languid manner. _He nodded a little wanly._ _She droppedand egg on the floor and looked at it wanly._  
+__wanly__ _adv_ :five: In a weak or pale or languid manner. _He nodded a little wanly._ _She droppedand egg on the floor and looked at it wanly._ _She was smiling wanly._  
 __wannabe__ _adj, n_  
 __want__ _n_ _A time of deep social anger and want._  
 __wanting<sup>1</sup>__ _adj_ __1__ Absent; lacking: _What is wanting is a real understanding of the issue._ __2__ Not measuring up to standards or expectations: _found his performance wanting._  
@@ -21751,7 +21763,7 @@ __war criminal__ _n_
 __war hawk__ _n_ /WAR hawk/ One who advocates war, military intervention, or other aggressive measures.  
 __War of Attrition__ _n_  
 __war stories__  
-__warble__ _v_ :three::hammer:  
+__warble__ _v_ :five::hammer:  
 __warblers__  
 __ward off__ _phr v_ :two: o prevent.  
 __warden__ _n_ :two: __1__ The chief administrative official of a prison.  

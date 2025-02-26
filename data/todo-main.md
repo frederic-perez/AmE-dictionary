@@ -899,56 +899,6 @@ __stowage__
 __stubborn__ _adj_ :pencil2::mega:  
 __suave__ _adj_ /swɑːv/  
 __substantive__ _adj_ __1__ Substantial; considerable. __4__ 4. Of or relating to the essence or substance; essential: _substantive information._  
-__swivel__ _v_ :three::hammer:  
-__swoon__ _vi_  
-__table__ _v_  
-__tapcafe__ _n_ :three::hammer:  
-__tariff__ _n_ [:scroll: Tariff came into English at the end of the 16th century, borrowed from the Italian _tariffa_, which itself came from the Arabic word _taʽrīf_, meaning “notification.”]  
-__tartly__ _adv_ :es: ásperamente  
-__tattoo__ _n_ :mega: /tæˈtu/  
-__tax brackets__  
-__teamster__ _n_ /ˈtim stər/  
-__thistle__ _n_ /ˈθɪs əl/ [Note: the national flower of Scotland.]  
-__thunderclap__ _n_  
-__tokamak__ _n_ :camera: A doughnut-shaped chamber used in fusion research in which a plasma is heated and confined by magnetic fields.  
-__torrent__ _n_ A heavy, uncontrolled outpouring. _Syn_ deluge, flood, inundation  
-__tousle__ _v_ /TOW-zul/ To tousle something is to dishevel it—that is, to make it untidy or unkempt. _Tousle_ is usually, though not always, used specifically when a person’s hair is being so treated.  
-__tractor trailer__ _n_ A truck consisting of a tractor and trailer together. _Syn_ articulated lorry, trailer truck, trucking rig, rig, semi  
-__translate__ _v_ :mega:  
-__travois__ _n_ A frame slung between trailing poles and pulled by a dog or horse, formerly used by Plains Indians as a conveyance for goods and belongings.  
-__tuft__ _n_ _Tufts of hair._ :es: mechón  
-__turf war__  
-__turmeric__ _n_ :es: cúrcuma  
-__turnkey__ _adj_  
-__twitch__ _v_ :two::hammer:  
-__typosquat__ _v_ To register a domain name that is a common misspelling of a popular domain name (or the domain name of a well-known brand) in order to capture Internet traffic from users who mistype domain names.  
-__uncontested__ _adj_ /ˌʌn kənˈtɛs tɪd/ Not contested; unchallenged: _an uncontested victory._  
-__underpin__ _vt_  
-__unhinged__ _adj_ /ʌnˈhɪndʒd/ __1__ Deranged or unbalanced. __2__ Affected with madness or insanity.  
-__unsurgency__ _n_ /ɪnˈsɜr dʒən si/  
-__unsurmountable__ _n_ /ˌʌnsɜːˈmaʊntəbəl/ (of a problem, etc) Not capable of being solved or overcome. _Syn_ insurmountable  
-__untapped__ _adj_  
-__untenable__ _adj_ /un-TEN-uh-bul/ Something, such as a position, excuse, or situation, that is described as untenable cannot be defended against attack or criticism. _The scientists considered their colleague’s theory to be bold but ultimately untenable._  
-__upend__  
-__upheaval__  
-__uplift__ _n_  
-__upskill__ _vt_ /ˈʌpˌskɪl/  
-__uptake__ _n_  
-__value system__ _n_ The system of established values, norms, or goals existing in a society.  
-__variegated__  
-__vasovagal__ _n_ Relating to or involving blood vessels and the vagus nerve. _Vasovagal syncope._  
-__vengeful__ _adj_ Disposed to seek revenge or intended for revenge. _Syn_ revengeful, vindictive  
-__verklempt__ _adj_ /fär-klĕmpt′/ Variant of _farklempt_. Overcome with emotion; choked up. _Hunched over my tiny screens lately, I’ve found myself … verklempt over an old video I posted of my son blowing bubbles in the bathtub._  
-__vestige__ _n_ /VESS-tij/ A vestige is a trace, mark, or visible sign left by something lost or vanished.  
-__virago__ _n_  
-__virtuoso__ _n_ /ver-choo-OH-soh/ _Virtuoso_ is used broadly to refer to a person who does something very skillfully, and is often used specifically to refer to a very skillful musician.  
-__voltmeter__ _n_ /ˈvoʊltˌmi tər/ A calibrated instrument for measuring the potential difference between two points in volts. :es: voltímetro  
-__voluminous__ _adj_ Large in number or quantity (especially of discourse). _Syn_ copious _She took voluminous notes during the lecture, and her classmates begged for copies._  
-__voracious__ _adj_ Having or marked by an insatiable appetite for an activity or pursuit; greedy. _Syn_ rapacious, ravening  
-__wan__ _adj_  
-__wanderlust__ _n_ /WAHN-der-lust/  
-__wanly__ _adv_ :two: In a weak or pale or languid manner. _She was smiling wanly._  
-__warble__ _v_  
 __warhorse__ _n_ (war horse)  
 __waterboarding__ _n_ __1__ An interrogation technique, widely considered a form of torture, in which a person is restrained, usually by being strapped to a board with the feet higher than the head, and immersed in or doused with water to the point of drowning.  
 __whimper__ _v_  
