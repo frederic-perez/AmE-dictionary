@@ -60,9 +60,10 @@ __all in all__
 __all shapes and sizes__  
 __all the more reason for (doing something)__ (all the more reason to (do something)) What has just been stated is an added reason or motivation to do something. With even better reason or cause for doing something. _If your crush likes basketball, that’s all the more reason for coming with me to the game tonight!_  
 __all the same__  
+__all told__ In total. This phrase can be applied to numerical sums or to the collective aspects of something. _I made a lot in tips this week—$300 all told._ _Yeah, it rained a lot during our vacation, but all told we had a great time._  
 __all too easy__  
 __all too soon__ The idiom “all too soon” means that something happened much earlier than expected or desired, often with a sense of regret or disappointment. It conveys the idea that an event occurred prematurely or that a positive experience ended quickly. “The holidays were over all too soon,” implies that the speaker wished the holidays had lasted longer. “Graduation came all too soon,” suggests that the speaker felt unprepared for the end of their schooling.  
-__all well and good__ :two::hammer: ((all) well and good)  
+__all well and good__ :three::hammer: ((all) well and good)  
 __an uphill battle__  
 __and everything in between__ Including all the possibilities or varieties within a range. _The store sells clothes for men, women, and children, and everything in between._ _Life has its ups and downs, and everything in between._  
 __anyone’s guess__  
@@ -94,6 +95,7 @@ __boon or bane__ Something that be may either good or bad, depending on context.
 __break a sweat__ :dart:  
 __breathing space__  
 __bring about__  
+__bring to mind__  
 __brood over__ To worry anxiously or be despondent about something or someone, especially at great length and in isolation. _I know you’re upset about failing your exam, but don’t brood over it all weekend._  
 __bump in the road__ A problem that arises and interferes with forward progress (usually only temporarily).  
 __by agency of__ The phrase “by agency of” means “through the action or help of” or “by means of.” It’s used to indicate that something happens because of the intervention or work of a particular person, force, or process. For example, if you say, “The decision was made by agency of the manager,” it means that the manager’s actions or influence were responsible for the decision being made.  
@@ -115,7 +117,7 @@ __comes with the job__
 __conspiracy theory__ _n_ The belief that the government or a covert organization is responsible for an event that is unusual or unexplained, esp when any such involvement is denied.  
 __cook up__  
 __corny__ :two::hammer:  
-__cut ties with (someone)__  
+__cut ties with (someone)__ :dart::two: To end or discontinue a relationship—romantic or otherwise—with someone or some group. _Mary cut all ties with her family when she moved to New York City._  
 __dang__  
 __deadpan__  
 __Debbie Downer__  
@@ -161,6 +163,7 @@ __dribs and drabs__
 __drop a bombshell__ To reveal something that is very surprising or unexpected.  
 __drop dead__  
 __drop the ball__ (See also _fumble the ball_)  
+__drum into (one)__ To teach someone something through intense and frequent repetition. A noun or pronoun can be used between “drum” and “into.”  
 __drum into__ :es: hacer aprender a la fuerza; machacar  
 __drum up__  
 __dry as a bone__  
@@ -218,7 +221,7 @@ __go berserk__
 __go for broke__ To give something one’s full effort. :es: y a por todas  
 __go missing__  
 __go postal__ :dart: _US informal_ [:scroll: This expression arose as a result of several recorded cases in the USA in which postal-service employees ran amok and shot colleagues] Go mad, especially from stress. Become extremely angry or start behaving in a violent and angry way. _According to one eye witness, the man ‘went postal, and started hitting his computer’_  
-__go sour__ To become unpleasant or troubling.  
+__go sour__ :five: To become unpleasant or troubling. _Those two are bickering all the time now—I hope their relationship hasn’t gone sour._  
 __go south__  
 __go through hoops__ :astonished: To face or have to complete many challenges in pursuit of something that one wants, especially challenges that seem arbitrary or excessive. _The boss made me go through a lot of hoops to earn this corner office, believe me. I was doing everything from leading presentations to getting him coffee for months._  
 __go through the roof__  
@@ -230,6 +233,7 @@ __grasp (at straws)__ To search in desperation for a solution to a difficulty.
 __green folding__ Paper money, especially in large amounts. _Boy, I bet you had to lay down some serious green folding for that new sports car, huh?_  
 __green light__  
 __grit (one’s) teeth__ :three: __1__ To clench one’s teeth, as from anger, pain, or displeasure. _The doctor didn’t have any anesthetic, so all I could do was grit my teeth while he stitched the wound in my leg._  
+__guardrail__ _n_ (figurative, by extension) Any barrier designed to prevent accidents or mistakes.  
 __gun for hire__  
 __haggle over (something)__  
 __hair-raising__ Frightening, chilling, or disturbing. _With so much traffic, cycling in this city can be a hair-raising experience._  
@@ -274,7 +278,7 @@ __hit-and-run__ :smiling_imp:
 __hiya doin’__ A colloquial pronunciation and spelling of “How (are) you doing?” Used as a friendly and informal greeting. Primarily heard in US.  
 __hiya__ An informal term of greeting.  
 __hoity-toity__ Pretentiously arrogant, haughty, or self-important. _We don’t need some hoity-toity academic coming in and telling us how to run our business!_  
-__hold my beer__  
+__hold my beer__ :two::hammer:  
 __hold the line__  
 __hold tight__ __2__ To wait patiently without taking any immediate action.  
 __hold__ _You got to know when to hold ’em, know when to fold ’em..._ Here, “hold” means to keep your cards and not play them yet, indicating the importance of patience and knowing when to continue a certain action or strategy. It implies waiting for the right moment to act or make a decision. In a broader sense, this advice applies to life — knowing when to stay committed to a situation and when to let go or change course.  
@@ -453,6 +457,7 @@ __lost in translation__
 __loud and clear__ :two::hammer:  
 __love handles__ ((love) handles, spare tyres, Dunlops disease, Dunlop Syndrome) _euphemism_ [So called because supposed to be grabbed by a partner in sexual intercourse.]  
 __low man on the ladder__ The person (not necessarily male) with the least amount of experience, authority, and/or influence in a social or corporate hierarchy. _It can be a little daunting going from being a senior in high school to low man on the ladder again as a college freshman._  
+__low-hanging fruit__ :dart::smiling_imp:  
 __lower the bar__  
 __lubrication payment__ :smiling_imp: A small sum of money or other gifts or services to be paid or given to government officials to expedite business operations in countries that do not prohibit such activity. _Whenever I start up a new factory overseas, I make sure to bring along enough cash on hand for any lubrication payments I may need to make._  
 __luck in__ To be very lucky or fortunate; to experience particularly good luck. (A nonstandard variant of “luck out.”) _I really lucked in with my graduate school program. I have the most amazing group of professors and peers!_  
@@ -463,7 +468,9 @@ __lust for power__ Intense, insatiable desire to attain power and control.
 __mad as a hornet__ (mad as hell, mad as hops, mad as a wet hen) Enraged; extremely or inconsolably angry. _My dad was mad as a hornet after I crashed his car._  
 __mad as a wet hen__ Extremely angry.  
 __make (one’s) own way__ To advance or progress, especially through life, according to one’s own efforts, inclinations, or designs. _This country prides itself on letting people make their own way, relying on no one else’s work but their own._  
+__make (oneself or something) ready (for someone or something)__ To become or make something prepared for something or someone. _I don’t think I’ll have enough time to make myself ready for the gala this evening!_  
 __make (someone’s) ears burn__ To make someone uncomfortable, embarrassed, or disconcerted by what is being said. Alludes to the ears growing red from blushing. _Listening to my aunts and uncles coo over me at my high school graduation really made my ears burn._  
+__make (someone’s) jaw drop__ To cause someone to pause in astonishment, awe, or disbelief, especially with their mouth left open. _Did you see Kathy’s new dress? It’s so gorgeous it made my jaw drop!_  
 __make (something) up as (one) goes (along)__ To improvise continuously as one does something; to do something without formal guidelines, structure, rules, etc. _None of us really knew how to play the game, so we just made it up as we went along._  
 __make a face__ :two::hammer:  
 __make a fuss__  
@@ -487,6 +494,7 @@ __make matters worse__ To make an already bad, unpleasant, or difficult situatio
 __make no mistake__ :three::hammer:  
 __make or break__ :two::hammer:  
 __make some noise__ (informal, usually as a command) To cheer or holler loudly and enthusiastically. _Everybody make some noise for Jodeci!_  
+__make the best of a bad bargain__ To deal with and create the best possible outcome of a bad, unfortunate, or unpleasant situation or set of circumstances. _I know this data entry job isn’t what you wanted for a career, but for the time being, try and make the best of a bad bargain._  
 __make the most of it__  
 __make waves__ :three::hammer:  
 __meant to be__  
@@ -633,6 +641,7 @@ __on the same page__
 __on the short end__ To receive the less favorable or less advantageous part of a deal or situation. _Syn_ get the short end of the stick  
 __on the sidelines__ :two: In a position in which one is not actively participating in something.  
 __on the spot__ __1__ At once in one’s exact location; right then and there. Hyphenated if used before a noun.  
+__on the spur of the moment__ Suddenly; spontaneously. _We decided to go on the spur of the moment._ _I had to leave town on the spur of the moment._  
 __on the table__  
 __on the verge of (doing) (something)__  
 __on the verge of__  
@@ -675,6 +684,7 @@ __put the brakes on (someone or something)__
 __put the jinx on (something or someone)__ To invoke a curse upon someone or something that brings bad luck or failure.  
 __put to good use__ (put (something) to good use) To use something in a way that will be beneficial or have significant results. Employ to the best advantage, as in _I’m sure this dictionary will be put to good use._  
 __quid pro quo__ :three: [:scroll: This Latin phrase means “something for something.”] A favor done for someone in exchange for a favor in return. _You wash my car, and I”ll drop off your dry cleaning—quid pro quo._  
+__race against time__  
 __race to (someone or something)__ To move, run, drive, etc., in a very hurried or frantic manner to some person, thing, or destination. _I have to race to the bank so I can deposit this check before they close._  
 __raise the ante__  
 __read between the lines__  
@@ -890,10 +900,12 @@ __tear your hair out__ (tear (one’s) hair out) _informal_ Act with or show ext
 __tee up__ __3__ To put someone or something into a position of readiness for some imminent action. In this usage, a noun or pronoun can be used between “tee” and “up.”  
 __that being said__  
 __the campaign trail__ :two: The schedule of traveling through various cities in which one stops and campaign for the election of a specific political candidate, possibly oneself. _You’d be a fine senator, so I’ll certainly endorse you on the campaign trail._  
+__the final curtain__ The end or the final part, especially after a lengthy existence. _I’m afraid that after 50 years in business, this is the final curtain._  
 __the likes of (someone or something)__ :two: Anything comparable to someone or something. Typically used in a negative construction to indicate that something is unique or rare.  
 __the likes of__  
 __the lowdown__ Important information or facts about something. _He gave me the lowdown about the company’s vice president._ _Reporters are trying to get the lowdown on what caused the accident._  
 __the story goes (that)__  
+__this hour__ The phrase “this hour” typically refers to the current hour in which we are presently. It can be used to describe the time frame of the hour that is currently happening or the events occurring within it.  
 __this time around__ A phrase often used to refer to the current occasion or situation in comparison to previous ones. It implies that there have been similar instances in the past, and it suggests a sense of awareness or reflection on how things might be different now.  
 __thread the needle__  
 __throw a tantrum__ (throw a (temper) tantrum) To have an outburst of childish or unreasonable anger, frustration, or ill temper. _I was so embarrassed when Danny started throwing a tantrum in the grocery store._  
@@ -929,6 +941,7 @@ __who’s who__ _A who’s who guide._
 __whoops__ _informal_ An exclamation of surprise used in response to a mistake or moment of clumsiness.  
 __why on earth__  
 __wind up__ __1__ To come or bring to a finish; end: _when the meeting wound up; wind up a project._  
+__winner take all__ A competition in which the victor is granted all possible benefits, accolades, prizes, etc. Hyphenated if used before a noun as a modifier. _How about one last round of darts, winner take all?_  
 __winnow out__  
 __wipe the slate clean__ (wipe (one’s) slate clean)  
 __with flying colors__  
@@ -937,6 +950,7 @@ __wonky__
 __word has it (that)__ According to rumor or gossip (something is the case).  
 __work (one0146s) butt off__ To work really hard (on or at something). _I know you thought it was just a silly New Year’s resolution, but I’4ve been working my butt off at the gym!_  
 __worry (something) out of (someone or something)__  
+__worst-case scenario__ The worst possible thing that could happen.  
 __worth (one’s) while__ Beneficial and not a waste of one’s time.  
 __yada, yada__ _Don’t yadda, yadda the Lord. It’s disrespectful._  
 __yellow__  

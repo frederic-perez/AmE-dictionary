@@ -14,6 +14,7 @@ __acerbic__ _adj_ Sharp or biting, as in character or expression. _Syn_ blisteri
 __acquiesce__  
 __actor__ _n_ :two: __2__ One who takes part; a participant.  
 __ad-lib__ _v_ /AD-LIB/ To ad-lib something, such as a performance or part of a performance, is to improvise it—that is, to make up words or music instead of saying, singing, or playing something that has been planned. _The actor forgot his lines, so he ad-libbed._  
+__adamant__ _adj, n_  
 __addlepated__ _adj_ /AD-ul-pay-tud/ Someone described as addlepated is mixed-up or confused. _Addlepated_ can also be used as synonym of eccentric.  
 __adorbs__ _adj_ /ə-ˈdȯrbz/ _informal_ Extremely charming or appealing. _Syn_ adorable  
 __adversary__ _n_ :mega: /ˈæd vərˌsɛr i/ /ˈædvəsərɪ/ /AD-ver-sair-ee/ _Adversary_ is an enemy or opponent.  
@@ -22,17 +23,20 @@ __affordable__ _adj_ :pencil2:
 __afoot__ _adj, adv_  
 __aft__  
 __apprehend__ _v_ :two::hammer:  
+__assorted__ _adj_  
 __astute__ _adj_ /uh-STOOT/ Someone or something described as astute has or shows an ability to notice and understand things clearly. In other words, they are mentally sharp or clever. _Astute_ can also describe someone who is crafty or wily.  
 __awash__ _adj, adv_  
 __bearing__ _n_  
 __bidding__ _n_  
 __billet-doux__ _n_ (_n pl_ billets-doux) A love letter.  
 __blueprint__ _n_ :two::hammer:  
+__bobbin__ _n_ A winder around which thread or tape or film or other flexible materials can be wound. _Syn_spool, reel  
 __bonsai__ _n_ :two::hammer::mega:  
 __brachiate__ _vi_ To progress by swinging from hold to hold by the arms. _A brachiating gibbon._  
 __brushfire__ _n_  
 __bulldozer__ _n_ __1__ A powerful tractor fitted with caterpillar tracks and a blade at the front, used for moving earth, rocks, etc. __2__ _informal_ A person who bulldozes. An overbearing person; a bully. _Syn_ browbeater, bully, hector, intimidator  
 __bunker__ _n_ /ˈbʌŋ kər/ __1__ A large bin or receptacle; a fixed chest or box: a coal bunker.  
+__buy out__  
 __buyout__ _n_ :two::hammer:  
 __caffeine__ _n_ :mega:  
 __call-up__ _n_ The act or an instance of summoning reserve military personnel to active service. _A new military call-up._  
@@ -49,12 +53,14 @@ __chastise__ _v_ /chass-TYZE/ To chastise someone is to criticize them harshly f
 __check<sup>1</sup>__ _n_  
 __check<sup>2</sup>__ _vt_ :dart: __2a__ To arrest or slow the motion or progress of: _checked the flow by shutting a valve._ __b__ To hold in restraint; curb: _check an impulse to laugh._ _Syn_ restrain  
 __check<sup>3</sup>__ _vi_  
+__checklist__ _n, vt_ /ˈtʃɛkˌlɪst/  
 __checkout line__ _n_ A queue of people waiting to pay for purchases.  
 ‌__cheekily__  
 __chemistry set__ _n_ An educational toy allowing the user (typically a teenager) to perform simple chemistry experiments.  
 __cherub__ _n_ /ˈtʃɛr əb/  
 __chide__ _v_ :two::hammer:  
 __chided__ _v_  
+__chilblain__ _n_ :mega: /ˈtʃɪl bleɪn/  
 __chimera__ _n_ :mega:  
 __chitinous__ _adj_ Of or resembling chitin.  
 __choir__ _n_ :mega: /kwaɪər/ /kwahyuhr/  
@@ -84,6 +90,8 @@ __colorful__ _adj_ :astonished:
 __commutation__ _n_ :astonished: The reduction in severity of a punishment imposed by law. _Syn_ re-sentencing  
 __conducive__ _adj_  
 __conformal__ _adj_ [:scroll: from Late Latin _conformālis_ having the same shape, from Latin _com-_ same + _forma_ shape]  
+__consumer sentiment__ _n_ Another word for _consumer confidence_.  
+__corn__ _n_ :mega:  
 __counterfeit<sup>1</sup>__ _vt_  
 __counterfeit<sup>2</sup>__ _vi_  
 __counterfeit<sup>3</sup>__ _adj_  
@@ -107,6 +115,7 @@ __disputatious__ _adj_ /dis-pyuh-TAY-shus/ _Disputatious_ is a formal word used 
 __dissipation__ _n_ _Heat dissipation._  
 __distil__ _v_  
 __divers__ _adj_ /DYE-verz/ Numbering more than one. _The tri-county fair offers divers amusements for the whole family._  
+__doff__ _v_ /DAHF/ To doff a hat or other piece of clothing is to take it off. _They doffed their coats when they came inside the house._  
 __dreadnought__ _n_  
 __ecstatic__ _adj_ /ek-STAT-ik/ Someone described as ecstatic is very happy or excited; the person feels or shows ecstasy—that is, rapturous delight.  
 __edgeways__  
@@ -165,6 +174,7 @@ __flaunt__ _v_
 __fleck__ _n_  
 __fleet__ _n_ :two: The largest organized unit of naval ships grouped for tactical or other purposes.  
 __flexor__ _n_ A small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes. _Syn_ percussor, plessor  
+__flight__ _n_ __5__ A group, especially of birds or aircraft, flying together. _A single flight of TIE fighters._  
 __flighty__ _adj_ /ˈflaɪtɪ/  
 __flinch__ _vi_ :es: estremecerse; encogerse  
 __fling__ _v_ :two::hammer: (flung)  
@@ -215,7 +225,7 @@ __harass__ _v_
 __harbinger__ _n_  
 __hard-ass__ _n_ _vulgar slang_ (hardass) One who inflexibly follows or enforces rules.  
 __hard-of-hearing__ _adj_ Having a hearing loss. _Syn_ hearing-impaired  
-__hard-pressed__ _adj_ :two::hammer:  
+__hard-pressed__ _adj_ :three::hammer:  
 __hardened__ _adj_ __3__ (Military) (of a nuclear missile site) Constructed to withstand a nuclear attack. _A hardened missile site._  
 __hardwood__ _n_  
 __hare__ _v_  
@@ -225,13 +235,14 @@ __harpsichord__ _n_
 __harrumph__ _vi_ :dart: (harumph) /həˈrʌmf/ To clear or make the noise of clearing the throat.  
 __hassle__ _n_  
 __hassle-free__ _adj_ _informal_ Without problems or bother.  
+__hatbox__ _n_ A box or case for a hat.  
 __hatchet__ _n_  
 __hatching__ _n_ /HATCH-ing/ _Hatching_ refers to the drawing or engraving of lines close together as a method of shading, or to a pattern so created. _The artist uses hatching to breathe life into her comics._  
 __hatha yoga__ _n_ A form of yogic exercise that emphasizes specific postures in combination with controlled breathing. It is widely practiced in the West.  
 __haversack__ _n_  
 __havoc__ _n_  
 __hay fever__ _n_ :es: alergia al polen  
-__hazard__ _v_  
+__hazard__ _vt_ :two: __1__ To expose to danger or risk. _Syn_ endanger  
 __hazel__  
 __headroom__ _n_  
 __heady__ _adj_  
@@ -251,7 +262,8 @@ __hemianopia__ _n_ Blindness in one half of the visual field of one or both eyes
 __hemolysis__ _n_ The destruction or dissolution of red blood cells, with subsequent release of hemoglobin.  
 __hexenwolf__ _n_ [:scroll: _Hexen_ comes from the German word for “witches” (plural form of Hexe), often associated with magic, the occult, or witchcraft] A witch that transforms into a wolf or have wolf-like traits.  
 __hippocampus__  
-__hiss__ _v_  
+__hiss<sup>1</sup>__ _n_ :two::hammer:  
+__hiss<sup>2</sup>__ _v_  
 __hoarfrost__ _n_ A layer of white frost.  
 __hoarse__ _adj_ :mega: /hɔrs, hoʊrs/ /hɔːs/  
 __hobgoblin__ _n_ An object or a source of fear, dread, or harassment. _Syn_ bugbear  
@@ -263,6 +275,7 @@ __hubris__ _n_
 __humdrum__ _adj_ Lacking variety or excitement; dull. _Syn_ unglamorous, commonplace, prosaic  
 __hydrant__ _n_ :two::hammer:  
 __hypocrisy__ _n_ :pencil2:  
+__ignoramus__ _n_ /ig-nuh-RAY-mus/ An ignoramus is an utterly ignorant or stupid person. _I can’t believe they let an ignoramus like that run the company._  
 __impermanence__ _n_ The property of not existing for indefinitely long durations.  
 __imperviousness__ _n_  
 __impish__ _adj_ :es: pícaro, travieso  
@@ -282,6 +295,7 @@ __inexorable__ _adj_ :astonished: __1__ Impossible to stop, alter, or resist; in
 __infamous__ _n_ :two::hammer: _The Louisiana legal system is infamous for corruption._  
 __inferno__ _n_  
 __infirm__ _adj_  
+__infringement__ _n_ An encroachment, as of a right or privilege. _Syn_ violation  
 __ingratiate__ _v_  
 __inimitable__ _adj_ /in-IM-it-uh-bul/ _Inimitable_ describes someone or something that is impossible to copy or imitate.  
 __inkling__  
@@ -340,6 +354,7 @@ __jot<sup>2</sup>__ _vt_
 __Jovian__ _adj_  
 __jubilate__ _v_ To express great joy. _Syn_ exuberate, exult, rejoice, triumph  
 __jubilee__ _n_ :mega: /JOO-buh-lee/  
+__jumpsuit__ _n_ :astonished::camera: One-piece garment fashioned after a parachutist’s uniform.  
 __jumpy__ _adj_ __1__ Nervous or apprehensive. __2__ Moving jerkily or fitfully.  
 __just-in-time__ _adj_  
 __juvenile<sup>1</sup>__ _adj_  
@@ -353,6 +368,7 @@ __knockoff__ _n_ An unauthorized copy or imitation, as of designer clothing.
 __kraken__ _n_ (often cap.) A huge sea monster in Norwegian legend.  
 __lackey__ _n_ /ˈlækɪ/  
 __laden__ _adj_ /ˈleɪd n/ __1__ Weighed down with a load; loaded. __2__ Encumbered; burdened. :es: abrumado  
+__ladle__ _n, vt_ :camera: /ˈleɪd l/  
 __lair__ _n_  
 __lambent__ _adj_ :two::hammer:  
 __lament__ _n_ A song or hymn of mourning composed or performed as a memorial to a dead person. _Syn_ coronach, dirge, requiem, threnody  
@@ -425,6 +441,7 @@ __mantic__ _adj_ Of, relating to, or having the power of divination; prophetic. 
 __mantra yoga__ _n_ A meditation practice that focuses on chanting sacred syllables along with conscious breathing and a meditative focus to quiet the mind, cultivate spiritual energy, and create states of enlightenment.  
 __mar__ _vt_  
 __marauding__ _adj_  
+__Mardi Gras__ _n_ :mega: /ˈmɑr di ˌgrɑ, ˈgrɑ/  
 __marionette__ _n_ _Syn_ puppet  
 __marksman__ _n_  
 __marquee__ _adj_ :astonished: Exceptionally popular or skilled: _The team is hoping to sign a marquee player._ _Marquee moment._  
@@ -442,6 +459,7 @@ __mayhem__ _n_
 __meanly__ _adv_ In a miserly manner. _Syn_ humbly _They lived meanly and without ostentation._  
 __measly__ _adj_ :astonished:  
 __meatspace__ _n_ _slang_ :dart: /ˈmiːtˌspeɪs/ The real physical world, as contrasted with the world of cyberspace.  
+__medieval__ _adj_ :mega: /ˌmi diˈi vəl, ˌmɛd i-, ˌmɪd i-, mɪdˈi vəl/  
 __medlar__ _n_ :es: níspero  
 __medley relay__  
 __meliorism__ _n_ /MEE-lee-uh-riz-um/ _Meliorism_ refers to the belief that the world tends to improve and that humans can aid its betterment.  
@@ -580,11 +598,13 @@ __occasion__
 __oligopoly__  
 __one-stop__ _adj_  
 __onslaught__ _n_ :mega: /ˈɒnˌslɔt, ˈɔn-/  
+__overtones__ _n pl_ :dart: Suggestions; hints. _There were overtones of discontent in his speech._  
 __oxycodone__ _n_  
 __panacea__  
 __paramount__  
 __Pareto-efficient__ _adj_ (Pareto efficient) Describing a situation in which the profit of one party cannot be increased without reducing the profit of another.  
 __parlay__ _v_  
+__pavilion__ _n_ /pəˈvɪl yən/  
 __pecking order__  
 __pensive__ _adj_ Deeply or seriously thoughtful. _Syn_ contemplative, meditative, musing, pondering, reflective, ruminative, brooding, broody  
 __peppermint__ _n_ __1__ Herb with downy leaves and small purple or white flowers that yields a pungent oil used as a flavoring. :es: menta __2__ Red gum tree of Tasmania. __3__ a candy flavored with peppermint oil. _Syn_ peppermint candy  
@@ -670,6 +690,7 @@ __popeye__ _n_ /ˈpɒpˌaɪ/
 __populace__  
 __portentous__ _adj_ Marked by pompousness; pretentiously weighty. _Syn_ overblown, pompous, grandiloquent, pontifical  
 __portfolio__  
+__posit__ _vt_  
 __pot__ _n_ __12__ _billiards snooker_ A shot by which a ball is pocketed.  
 __pounce__ _v_  
 __prehensile__ _adj_ :astonished: Immoderately desirous of acquiring e.g. wealth. _Syn_ avaricious, covetous, grabby, grasping, greedy  
@@ -703,6 +724,7 @@ __putrefaction__ _n_ :astonished: Moral perversion; impairment of virtue and mor
 __quadriplegia__ _n_ Complete paralysis of the body from the neck down. Also called tetraplegia.  
 __quagmire__ _n_ An area of miry or boggy ground whose surface yields under the tread.  
 __quahog__ _n_  
+__quail__ _n_  
 __quail<sup>1</sup>__ _n_ :es: codorniz  
 __quail<sup>2</sup>__ _vi_  
 __Quaker__ _n_ /ˈkweɪkə/  
@@ -714,7 +736,8 @@ __queasy__ _adj_
 __Queen’s evidence__ _n_  
 __quiff__ _n_  
 __quince__ _n_ /kwɪns/ /kwins/ :es: membrillo  
-__quip__ _v_  
+__quip<sup>1</sup>__ _n_ /KWIP/ _Quip_ can refer to a clever, usually taunting remark, or to a witty or funny observation or response usually made on the spur of the moment. _They traded quips over a beer and laughed themselves silly._  
+__quip<sup>2</sup>__ _v_  
 __quirk__ _v_ Twist or curve abruptly. _She quirked her head in a peculiar way._  
 __quiver<sup>1</sup>__ _vi_  
 __quiver<sup>2</sup>__ _n_ __1__ A portable case for holding arrows.  
@@ -748,6 +771,7 @@ __raving<sup>1</sup>__ _n_
 __raving<sup>2</sup>__ _adj_ Delirious, irrational speech.  
 __ravish__ _v_  
 __reach out__ _v_  
+__readout__ _n_ The output of information from a computer in readable form.  
 __ready room__  
 __real estate developer__ _n_ :es: promotor immobiliario  
 __real__ _adv_ :dart: _informal_ [In American English it is usual to drop the _-ly_ adverb ending from _really_ when used as an intensifier] Very. _I’m real sorry about that._ _Real quiet._  
@@ -872,6 +896,8 @@ __skid__ _v_ _The car skidded to a halt._ → :es: _El coche patinó y paró._
 __skiff__ _n_ :two: A flatbottom open boat of shallow draft, having a pointed bow and a square stern and propelled by oars, sail, or motor.  
 __skirmish__  
 __skulk__ _vi_  
+__skulk<sup>1</sup>__ _vi_ :dart: __1__ To lie in hiding, as out of cowardice or bad conscience; lurk. __2__ :dart: To move about stealthily. __3__ To evade work or obligation; shirk.  
+__skulk<sup>2</sup>__ _n_ __1__ A person who skulks. __2__ (Zoology) _obsolete_ A pack of foxes or other animals that creep about stealthily.  
 __skulking__ _n_ :smiling_imp::two: Evading duty or work by pretending to be incapacitated.  
 __slaver__ _n_ __1__ Saliva drooling from the mouth. _Syn_ drivel, slabber, slobber, drool, dribble __2__ Senseless and effusive talk; drivel.  
 __sleep apnea__ _n_ (compare vs _apnea_) Apnea caused by upper airway obstruction during sleep, associated with frequent awakening and often with daytime sleepiness.  
@@ -899,8 +925,12 @@ __stowage__
 __stubborn__ _adj_ :pencil2::mega:  
 __suave__ _adj_ /swɑːv/  
 __substantive__ _adj_ __1__ Substantial; considerable. __4__ 4. Of or relating to the essence or substance; essential: _substantive information._  
+__superfluous__ _adj_ /soo-PER-floo-us/ Superfluous is a formal word used to describe things that exceed what is necessary or sufficient, or that are simply not needed.  
+__thunderclap__ _n_  
 __warhorse__ _n_ (war horse)  
 __waterboarding__ _n_ __1__ An interrogation technique, widely considered a form of torture, in which a person is restrained, usually by being strapped to a board with the feet higher than the head, and immersed in or doused with water to the point of drowning.  
+__whet__ _v_  
+__whey__ _n_ :dart::mega: /ʰweɪ, weɪ/ The watery part of milk that separates from the curds, as in the process of making cheese. :es: suero  
 __whimper__ _v_  
 __whirl__ _v_  
 __wince__ _v_ :three::hammer:  
