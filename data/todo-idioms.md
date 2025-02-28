@@ -221,56 +221,6 @@ __go berserk__
 __go for broke__ To give something one’s full effort. :es: y a por todas  
 __go missing__  
 __go postal__ :dart: _US informal_ [:scroll: This expression arose as a result of several recorded cases in the USA in which postal-service employees ran amok and shot colleagues] Go mad, especially from stress. Become extremely angry or start behaving in a violent and angry way. _According to one eye witness, the man ‘went postal, and started hitting his computer’_  
-__go sour__ :five: To become unpleasant or troubling. _Those two are bickering all the time now—I hope their relationship hasn’t gone sour._  
-__go south__  
-__go through hoops__ :astonished: To face or have to complete many challenges in pursuit of something that one wants, especially challenges that seem arbitrary or excessive. _The boss made me go through a lot of hoops to earn this corner office, believe me. I was doing everything from leading presentations to getting him coffee for months._  
-__go through the roof__  
-__goob__  
-__good for you__  
-__goon__  
-__grapple with (someone or something)__  
-__grasp (at straws)__ To search in desperation for a solution to a difficulty.  
-__green folding__ Paper money, especially in large amounts. _Boy, I bet you had to lay down some serious green folding for that new sports car, huh?_  
-__green light__  
-__grit (one’s) teeth__ :three: __1__ To clench one’s teeth, as from anger, pain, or displeasure. _The doctor didn’t have any anesthetic, so all I could do was grit my teeth while he stitched the wound in my leg._  
-__guardrail__ _n_ (figurative, by extension) Any barrier designed to prevent accidents or mistakes.  
-__gun for hire__  
-__haggle over (something)__  
-__hair-raising__ Frightening, chilling, or disturbing. _With so much traffic, cycling in this city can be a hair-raising experience._  
-__ham-handed__ In a clumsy manner; lacking care and skill.  
-__hang by a thread__  
-__happy-go-lucky__ :dart: Always happy or in a pleasant mood; carefree. _Arya is so happy-go-lucky that I doubt any negative thing you say would bother her._  
-__hard-pressed__ :two: Struggling to do or accomplish something, especially because it seems impossible. _You’ll be hard-pressed to find a better guy than Bill._  
-__have (got) a knack for (something)__  
-__have (something) in store (for one)__ To have something awaiting (one) or prepared (for one).  
-__have a lump in (one’s) throat__ To have difficulty speaking as a result of feeling that one is about to cry due to an intense emotional response to something.  
-__have someone’s number__ (have (got) (one’s) number)  
-__have the final word__  
-__head over heels__  
-__head-spinningly__ Unbelievably; incredibly. _Did you watch that head-spinningly spectacular play? I could hardly believe what I was seeing!_  
-__hear out__ (hear someone out)  
-__hear the end of (someone or something)__  
-__heart of gold__  
-__heart to heart__ Candidly, sincerely, as in _We need to talk heart to heart about her coming marriage._ This expression is nearly always applied to a conversation of some kind.  
-__heart-to-heart__  
-__heaven knows__  
-__hell no__  
-__hell on earth__  
-__hell-bent__ Very determined to do something, perhaps annoyingly or recklessly so.  
-__hell’s bells__ :three: An exclamation of frustration or surprise. A shortened form of the phrase “hell’s bells and buckets of blood.” _Oh, hell’s bells—the printer isn’t working, and my paper is due in five minutes!_  
-__helluva__  
-__hem and haw__  
-__here’s for the happy couple__  
-__high note__ The most successful, impressive, or climactic point (of something).  
-__high roller__ A big gambler who risks much money; anyone who takes risks.  
-__high-stakes game__  
-__hinge on__  
-__hit (one) when (one) is down__ To criticize, exploit, insult, or otherwise treat badly one who has already suffered a setback or is in a vulnerable position. _Can Jeff’s employee review wait until next week? His girlfriend just left him, and I don’t want to hit him while he’s down._  
-__hit a brick wall__ To come up against an immovable or insurmountable difficulty or obstacle. _Our project was going well, but we hit a brick wall when our funding was suddenly cut._  
-__hit a snag__  
-__hit and miss__ (hit or miss)  
-__hit home__ :dart:  
-__hit pay dirt__ [:scroll: This idiom refers to a miner’s finding gold or other precious metals while sifting soil] To discover or come upon something very, particularly, or abundantly valuable or useful, especially after a long or arduous search. :es: dar con el oro  
 __hit the ground running__  
 __hit the nail on the head__  
 __hit the sack__  
