@@ -225,56 +225,6 @@ __harass__ _v_
 __harbinger__ _n_  
 __hard-ass__ _n_ _vulgar slang_ (hardass) One who inflexibly follows or enforces rules.  
 __hard-of-hearing__ _adj_ Having a hearing loss. _Syn_ hearing-impaired  
-__hard-pressed__ _adj_ :three::hammer:  
-__hardened__ _adj_ __3__ (Military) (of a nuclear missile site) Constructed to withstand a nuclear attack. _A hardened missile site._  
-__hardwood__ _n_  
-__hare__ _v_  
-__harness<sup>1</sup>__ _n_ /ˈhɑr nɪs/  
-__harness<sup>2</sup>__ _vt_  
-__harpsichord__ _n_  
-__harrumph__ _vi_ :dart: (harumph) /həˈrʌmf/ To clear or make the noise of clearing the throat.  
-__hassle__ _n_  
-__hassle-free__ _adj_ _informal_ Without problems or bother.  
-__hatbox__ _n_ A box or case for a hat.  
-__hatchet__ _n_  
-__hatching__ _n_ /HATCH-ing/ _Hatching_ refers to the drawing or engraving of lines close together as a method of shading, or to a pattern so created. _The artist uses hatching to breathe life into her comics._  
-__hatha yoga__ _n_ A form of yogic exercise that emphasizes specific postures in combination with controlled breathing. It is widely practiced in the West.  
-__haversack__ _n_  
-__havoc__ _n_  
-__hay fever__ _n_ :es: alergia al polen  
-__hazard__ _vt_ :two: __1__ To expose to danger or risk. _Syn_ endanger  
-__hazel__  
-__headroom__ _n_  
-__heady__ _adj_  
-__hearken<sup>1</sup>__ _vi_ /ˈhɑr kən/ (harken) To give heed or attention to what is said; listen.  
-__hearken<sup>2</sup>__ _vt_ /ˈhɑr kən/ (harken) _Archaic_ To listen to; hear.  
-__hearth__ _n_ The floor of a fireplace, usually extending into a room and paved with brick, flagstone, or cement. _Syn_ fireside  
-__heartrending__ _adj_  
-__heat index__ _n_  
-__heath__ _n_  
-__heathen__ _n_  
-__heavenward<sup>1</sup>__ _adv_ (also heav′enwards) Toward heaven.  
-__heavenward<sup>2</sup>__ _adj_ Directed towards heaven or the sky.  
-__heinous__ _adj_ /HAY-nus/ _Heinous_ describes things—such as acts, deeds, or crimes—that are hatefully or shockingly evil, or in other words, deserving of hate or contempt.  
-__helm<sup>1</sup>__ _n_  
-__helm<sup>2</sup>__ _vt_ To take the helm of; steer or direct.  
-__hemianopia__ _n_ Blindness in one half of the visual field of one or both eyes.  
-__hemolysis__ _n_ The destruction or dissolution of red blood cells, with subsequent release of hemoglobin.  
-__hexenwolf__ _n_ [:scroll: _Hexen_ comes from the German word for “witches” (plural form of Hexe), often associated with magic, the occult, or witchcraft] A witch that transforms into a wolf or have wolf-like traits.  
-__hippocampus__  
-__hiss<sup>1</sup>__ _n_ :two::hammer:  
-__hiss<sup>2</sup>__ _v_  
-__hoarfrost__ _n_ A layer of white frost.  
-__hoarse__ _adj_ :mega: /hɔrs, hoʊrs/ /hɔːs/  
-__hobgoblin__ _n_ An object or a source of fear, dread, or harassment. _Syn_ bugbear  
-__homily__ _n_  
-__honorable discharge__ _n_ :two: Discharge from the armed forces with a commendable record.  
-__horsepower__ _n_  
-__hospital radio__ _n_ A form of audio broadcasting produced specifically for the in-patients of hospitals, primarily in the United Kingdom. Hospital radio has been found to be beneficial to patients, lifting their mood and aiding recovery.  
-__hubris__ _n_  
-__humdrum__ _adj_ Lacking variety or excitement; dull. _Syn_ unglamorous, commonplace, prosaic  
-__hydrant__ _n_ :two::hammer:  
-__hypocrisy__ _n_ :pencil2:  
 __ignoramus__ _n_ /ig-nuh-RAY-mus/ An ignoramus is an utterly ignorant or stupid person. _I can’t believe they let an ignoramus like that run the company._  
 __impermanence__ _n_ The property of not existing for indefinitely long durations.  
 __imperviousness__ _n_  

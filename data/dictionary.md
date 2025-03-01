@@ -9053,11 +9053,13 @@ __hard-hitting__ _adj_ Uncompromising; tough: _a hard-hitting report on urban de
 __hard-liner__ _n_  
 __hard-nose__  
 __hard-nosed__ _adj_ :four: Strict and/or unfeeling. _Hard-nosed approach._ _The hard-nosed day-to-dy world of work._  
+__hard-pressed__ _adj_ :three::hammer:  
 __hard-won__ _adj_ Acquired through effort or in spite of problems.  
 __hard-working__ _adj_ _Brookling remains a borough of hard-working immigrants._  
 __hardball__  
 __harden__ _v_  
 __hardened computer__ _n_ A hardened computer refers to a system that has undergone systems hardening, a process aimed at reducing vulnerabilities in technology applications, systems, infrastructure, firmware, and other areas.  
+__hardened__ _adj_ __3__ (Military) (of a nuclear missile site) Constructed to withstand a nuclear attack. _A hardened missile site._  
 __hardhat__ _n_  
 __hardier__  
 __hardihood__ _n_ The trait of being willing to undertake things that involve risk or danger. _Syn_ boldness, daring  
@@ -9069,10 +9071,10 @@ __hardship__ _n_ :seven: (hardships) Severe suffering or privation. _Intolerable
 __hardtack__ _n_ Very hard unsalted biscuit or bread; a former ship’s staple. _Syn_ pilot bread, sea biscuit _When we dock, the first thing I am going to do is toss the rest of my hardtack into the water and get myself a loaf of fresh, crusty bread at the nearest bakery._  
 __hardware__ _n_  
 __hardwired__ _adj_  
-__hardwood<sup>1</sup>__ _n_ :three::hammer:  
+__hardwood<sup>1</sup>__ _n_ :four::hammer:  
 __hardwood<sup>2</sup>__ _adj_ :two::hammer: _The hardwood floor._  
 __hardy__ _adj_ :eight::hammer: _Hardy plants._ _The hardy can climb the 627 steps to the dome for an unparalleled view over the city._ _There are hundreds of trails for hardy backpackers._  
-__hare__ _v_ To move hurriedly, as if hunting a swift quarry.  
+__hare__ _v_ :two: To move hurriedly, as if hunting a swift quarry.  
 __harebrained__ _adj_ :three::hammer: _A harebrained idea._  
 __harelip__ _n_ A congenital cleft in the middle of the upper lip. _Syn_ cheiloschisis, cleft lip _The insurance company argued that the surgery to correct her harelip was not medically necessary._  
 __hares__ _n_  
@@ -9081,14 +9083,16 @@ __hark__ _vi_ :three: (harking) To listen attentively.
 __harlot__ _n_ _old-fashioned, disparaging_ A woman prostitute.  
 __harmonium__ _n_ An organlike keyboard instrument that produces tones with free metal reeds actuated by air forced from a bellows. _Syn_ reed organ _She had played the harmonium for years, but her arthritic fingers could no longer master the keys._  
 __harmonize__ _v_  
-__harness<sup>1</sup>__ _n_  
-__harness<sup>2</sup>__ _vt_ :six::hammer: _Harnessing big data._ _Remove the barriers to harnessing HPC._  
+__harness<sup>1</sup>__ _n_ :two::hammer: /ˈhɑr nɪs/  
+__harness<sup>2</sup>__ _vt_ :seven::hammer: _Harnessing big data._ _Remove the barriers to harnessing HPC._  
 __harp on__ _phr v_ :three: (harping on) To talk or write about to an excessive and tedious degree. _She told her she was always harping on him._  
+__harpsichord__ _n_  
 __harpy__ _n_  
 __harridan__ _n_ A vicious and scolding woman, especially an older one. _Syn_ shrew, virago  
 __harrow__ _n_ :two::hammer: (harrows)  
 __Harrowing of Hell__ _n_  
 __harrowing__ _adj_ :three::hammer: _A harrowing oddyssey._  
+__harrumph__ _vi_ :dart: (harumph) /həˈrʌmf/ To clear or make the noise of clearing the throat.  
 __Harry__ _n_ :mega:  
 __harry__ _vt_ :nine::m: /HAIR-ee/ __1__ To make a destructive raid on (enemy territory). __2__ To force to move along by harassing. __3__ To torment by or as if by constant attack. To harry someone or something is to harass or torment them by or as if by constant attack. _The visiting team harried the home team relentlessly during the first quarter._ _The weather will continue to harry firefighters._ _A harried mom._ _Harried souls._  
 __harshest__  
@@ -9099,7 +9103,8 @@ __hash<sup>1</sup>__ _n_ _I’m gonna cook his hash, man._
 __hash<sup>2</sup>__ _v_  
 __hashish__ _n_ :three::hammer: (hasheesh)  
 __hasp__ _n_ :three::hammer: _The hasp and padlock had been splintered loose from the wood._  
-__hassle-free__ _adj_ _informal_ :two: Wthout problems or bother.  
+__hassle__ _n_  
+__hassle-free__ _adj_ _informal_ :three: Wthout problems or bother.  
 __hassle<sup>1</sup>__ _n_ :four::hammer: __2__ A great deal of trouble; difficulty; nuisance. _Advance seat assignment to avoid boarding hassles._  
 __hassle<sup>2</sup>__ _v_ :three::hammer: _Somewhere there are poeple hassling with memos, deadlines, and traffic._  
 __haste__ _n_  
@@ -9108,12 +9113,15 @@ __hastily__ _adv_ :two: In a hurried or hasty manner. _A hastily arranged news c
 __hasty__ _adj_ :four::hammer: _A hasty decision._  
 __hat off__ _n_ (hats off) _Hats off to Jane._  
 __hat tip__ _n_ (tipping hat) An act of tipping or doffing one’s hat as a cultural expression of recognition, respect, gratitude, greeting, or simple salutation and acknowledgement between two persons.  
+__hatbox__ _n_ A box or case for a hat.  
 __Hatch Act__  
 __hatch<sup>1</sup>__ _n_ _Hatch of insects._  
 __hatch<sup>2</sup>__ _vt_ :nine::m: (hatches, hatched) __3__ To contrive or devise (a scheme, plot, etc). To devise or originate, especially in secret: _hatch an assassination plot._ _I hatched a crazy passion project 6 months ago._ _A plan hatched during a road trip._ _Hatching tech secrets._ _The Play hatched plans at picnics._  
 __hatcheck girl__  
 __hatchery__ _n_ :three: A place for hatching eggs (as of poultry or fish). _A fish hatchery._ :es: criadero, vivero  
-__hatchet__ _n_ :two::hammer:  
+__hatchet__ _n_ :three::hammer:  
+__hatching__ _n_ /HATCH-ing/ _Hatching_ refers to the drawing or engraving of lines close together as a method of shading, or to a pattern so created. _The artist uses hatching to breathe life into her comics._  
+__hatha yoga__ _n_ A form of yogic exercise that emphasizes specific postures in combination with controlled breathing. It is widely practiced in the West.  
 __hatred__ _n_ :dart::three: /ˈheɪ trɪd/ The feeling of one who hates; intense dislike or extreme aversion or hostility. :es: odio  
 __hauberk__ _n_ (Arms & Armour (excluding Firearms)) A long coat of mail, often sleeveless.  
 __haughty__ _adj_ :five::hammer: _Oscar votters are as haughty as the critics._ _Haughty manners._  
@@ -9129,8 +9137,8 @@ __haunting__ _adj_
 __hauteur__ _n_ :two: Haughtiness in bearing and attitude. _Syn_ arrogance, haughtiness, lordliness  
 __have someone’s back__  
 __have-not__ _n_ A person with few or no possessions.  
-__haversack__ _n_ :three: A single-strapped big bag carried over one shoulder to transport supplies, as on a hike. _Syn_ backpack, knapsack  
-__havoc__ _n, v_ :two::hammer::mega: /ˈhæv ək/  
+__haversack__ _n_ :four: A single-strapped big bag carried over one shoulder to transport supplies, as on a hike. _Syn_ backpack, knapsack  
+__havoc__ _n, v_ :three::hammer::mega: /ˈhæv ək/  
 __Hawaiian<sup>1</sup>__ _adj_ :pencil2: Of or relating to or characteristic of the state or island of Hawaii or to the people or culture or language.  
 __Hawaiian<sup>2</sup>__ _n_ :pencil2: A native or resident of Hawaii.  
 __hawing__  
@@ -9141,15 +9149,15 @@ __hawks__ _n_ _Hawks dream of airstrikes on Pyongyang._
 __hawser__ _n_ :two: A cable or rope used in mooring or towing a ship.  
 __hawthorn__ _n_ :four::hammer:  
 __Hawthorne effect__ _n_ [:scroll: After Hawthorne Works, a factory complex of the Western Electric Company, where this effect was observed.] (Sociology) Improvement in the performance of employees, students, etc, brought about by making changes in working methods, resulting from research into means of improving performance.  
-__hay fever__ _n_ :four::hammer: (hayfever) _I suffer from hay fever congestions._  
+__hay fever__ _n_ :five::hammer: (hayfever) _I suffer from hay fever congestions._ :es: alergia al polen  
 __haymaker__ _n_ _slang_ :three: A powerful blow with the fist.  
 __hayride__ _n_ :two: A pleasure ride or outing, esp. at night, by a group in an open wagon or truck partly filled with hay.  
 __haywire__ _adj, adv_ :five: /HAY-wyre/ Haywire means “being out of order or having gone wrong” or “emotionally or mentally upset or out of control.” It is often used in the phrase “go haywire.” _The company’s emailing system went haywire and sent out multiple copies of the advertisement to its subscribers._  
 __hazard<sup>1</sup>__ _n_ :two::hammer: _A 465-yard par with a water hazard._  
-__hazard<sup>2</sup>__ _vt_ :two::hammer: (hazarded)  
+__hazard<sup>2</sup>__ _vt_ :four::hammer: __1__ To expose to danger or risk. _Syn_ endanger  
 __hazardous__ _adj_ :two::mega::hammer:  
 __haze__ _v_ (hazing) :two::hammer: _Allegations of hazing and telling._  
-__hazel__ _adj_ :two::hammer: _Gorgeous hazel eyes._  
+__hazel__ _adj_ :three::hammer: _Gorgeous hazel eyes._  
 __hazing__ _n_ :dart: (Education) _chiefly US and Canadian_ the bullying of a student in school. _The college hazing policy._  
 __hazmat suit__  
 __hazmat<sup>1</sup>__ _n_ /HAZ-mat/ [:scroll: A shortening of hazardous + material] Dangerous material, for example, something toxic, explosive, or inflammable.  
@@ -9174,7 +9182,7 @@ __headline<sup>1</sup>__ _n_
 __headline<sup>2</sup>__ _v_ _Prize-winning steaks headline the menu._  
 __headlong__ _adv_ /HED-LAWNG/ Headlong can be a synonym of headfirst, but it is most often used figuratively to describe something done either in a reckless manner or without pause or delay. _He’s impulsive and often rushes headlong into new endeavors, giving little thought to long-term viability._  
 __headquarters__ _n pl_ (used with a sing. or pl. verb)  
-__headroom__ _n_  
+__headroom__ _n_ :two::hammer:  
 __heads up__ _n_ :three: A tip-off or small amount of information given in advance. _I appreciate the heads up._  
 __heads-up<sup>1</sup>__ _n_ _informal_ Information or notification; a warning message: _sending a heads-up to the Pentagon about possible attacks._  
 __heads-up<sup>2</sup>__ _adj_ Showing an alert, competent style: _play heads-up basketball._  
@@ -9187,11 +9195,13 @@ __headway > make headway__ _v_ :hammer::three: _Secetary Kerry has made headway 
 __headway__ _n_ :two::dart: /ˈhɛdˌweɪ/ __2__ Progress or rate of progress: _he made no headway with the problem._ _Earl was making headway with the Mustang._  
 __headwind__ _n_ :nine: (headwinds) A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
 __headword__ _n_  
-__heady__ _adj_ :nine: __1a__ Intoxicating or stupefying: _heady liqueur._ __b__ Tending to upset the mind or the balance of senses: _standing on a heady outcrop of rock._ __c__ Serving to exhilarate: _the heady news of triumph._ __2a__ Impetuous and rash: _a heady outburst of anger._ __b__ Domineering; overbearing: _too heady to reason with._ _Heady events._ __3__ Swift and violent; headlong: _a heady current._ __4__ Showing intelligence and good judgment; prudent: _heady tactics._ _John was heady game._ __5__ Suffering from a headache: _a heady, throbbing feeling._  
+__heady__ _adj_ :nine::m: __1a__ Intoxicating or stupefying: _heady liqueur._ __b__ Tending to upset the mind or the balance of senses: _standing on a heady outcrop of rock._ __c__ Serving to exhilarate: _the heady news of triumph._ __2a__ Impetuous and rash: _a heady outburst of anger._ __b__ Domineering; overbearing: _too heady to reason with._ _Heady events._ __3__ Swift and violent; headlong: _a heady current._ __4__ Showing intelligence and good judgment; prudent: _heady tactics._ _John was heady game._ __5__ Suffering from a headache: _a heady, throbbing feeling._  
 __health condition__  
 __heap<sup>1</sup>__ _n_ __1__ _informal_ A large amount (of something). _We’ve had a heap of problems getting our product out to market._  
 __heap<sup>2</sup>__ _v_ (heaped)  
 __hearing__ _n_ :two::hammer: _law_ _Court hearing._  
+__hearken<sup>1</sup>__ _vi_ /ˈhɑr kən/ (harken) To give heed or attention to what is said; listen.  
+__hearken<sup>2</sup>__ _vt_ /ˈhɑr kən/ (harken) _Archaic_ To listen to; hear.  
 __hearkened__  
 __hearsay__ _n_ :nine: /ˈhɪəˌseɪ/ /ˈhɪərˌseɪ/ __1__ Unverified information heard or received from another; rumor. Something heard from another person, rumor. _Hearsay suggests that green apples can induce such a predicament._ __2__ (Law) A statement made out of court and not under oath which is offered as proof that what is stated is true.  
 __hearse__ _n_ :three: A vehicle for carrying a coffin to a church or a cemetery; formerly drawn by horses but now usually a motor vehicle. :es: coche fúnebre  
@@ -9202,9 +9212,10 @@ __heartedly__
 __hearten__ _v_  
 __heartening__ _adj_ :dart: Causing cheerfulness; encouraging. _A heartening supper._ :es: alentador  
 __heartfelt__ _adj_ :eight: /ˈhɑrtˌfɛlt/ Deeply or sincerely felt; earnest. _Heartfelt sympathy._  
-__hearth__ _n_ :nine::m: __1__ The floor of a fireplace in a house and the area around it. _A log fire roaring in the hearth._ _Hearth repair._ __2__ Home symbolized as a part of the fireplace. _The fishing port of Jonqueres had 354 taxable hearths._ _Hearth tax._  
+__hearth__ _n_ :nine::m: __1__ The floor of a fireplace in a house and the area around it. The floor of a fireplace, usually extending into a room and paved with brick, flagstone, or cement. _Syn_ fireside _A log fire roaring in the hearth._ _Hearth repair._ __2__ Home symbolized as a part of the fireplace. _The fishing port of Jonqueres had 354 taxable hearths._ _Hearth tax._  
 __heartily__ _adv_ _A sentiment which I heartily applaud._  
 __heartland__ _n_ :two: The central or most important part of a country, area, or field of activity. _The nation’s heartland._  
+__heartrending__ _adj_  
 __heartstring__ _n_ /HAHRT-string/ Heartstring is used, usually in the plural, to refer to someone’s deepest emotions or affections. _The movie’s emotional ending really pulls at your heartstrings._  
 __heartstrings__ _pl n_ _often facetious_ Deep emotions or feelings. _To tug at one’s heartstrings._  
 __heartthrob__ _n_ :six::hammer::pencil2: (heart-throb)  
@@ -9212,10 +9223,11 @@ __heartworm__
 __hearty<sup>1</sup>__ _adj_ :nine::m::astonished: __1__ Expressed warmly, exuberantly, and unrestrainedly: _a hearty welcome._ _Hearty fare._ __2__ Complete or thorough; unequivocal: _hearty support._ __3__ Vigorous; robust: _a hearty glow of health._ __4a__ Enjoying or requiring much food: _a hearty appetite._ __b__ Providing abundant nourishment; substantial: _a hearty meal._ _Hearty food._ _Hearty portions._ _A hearty steakhouse menu._  
 __hearty<sup>2</sup>__ _n_  
 __heat > to catch a lot of heat__  
+__heat index__ _n_  
 __heat pump__ _n_  
 __heatedly__ _adv_ _Clashed heatedly._  
-__heath__ _n_ :two::hammer: _Heath land._  
-__heathen<sup>1</sup>__ _n_ :eight: __1__ _Offensive_ __a__ An adherent of a religion that does not worship the God of Judaism, Christianity, or Islam. _Heathens like me._ __b__ Such persons considered as a group. _They were declared guilty of heathen practice._ :es: pagano  
+__heath__ _n_ :three::hammer: _Heath land._  
+__heathen<sup>1</sup>__ _n_ :nine: __1__ _Offensive_ __a__ An adherent of a religion that does not worship the God of Judaism, Christianity, or Islam. _Heathens like me._ __b__ Such persons considered as a group. _They were declared guilty of heathen practice._ :es: pagano  
 __heathen<sup>2</sup>__ _adj_  
 __heathenish__  
 __heathenism__  
@@ -9225,6 +9237,8 @@ __heathland__ _n_ :two::hammer:
 __heathy__  
 __heatwave__ _n_  
 __heave__ _v_ :six::hammer: _She felt her stomach heaving._ _She produced a school-record heave of 43’6.25 in taking the title._ _He walked over the heaving earth away from the hated sea._  
+__heavenward<sup>1</sup>__ _adv_ (also heav′enwards) Toward heaven.  
+__heavenward<sup>2</sup>__ _adj_ Directed towards heaven or the sky.  
 __heavily__ _adv_ _He was drinking heavily._  
 __heavy bag__ _n_ _boxing_  
 __heavy water__ _n_ Water containing a substantial proportion of deuterium atoms, used in nuclear reactors.  
@@ -9264,7 +9278,7 @@ __height__ _n_ :mute:[hei~~gh~~t]
 __heighten__ _v_  
 __heightened__ _adj_ :five::hammer: _A heightened awareness of problems._  
 __heightism__ _n_ :astonished: HY-tiz-uhm/ Discrimination based on height, especially the unfair treatment of people who are short.  
-__heinous__ _adj_ :six: __1__ Very shocking and immoral. _A heinous crime._ __2__ _spoken informal_ Extremely bad. _The food in the cafeteria is pretty heinous._  
+__heinous__ _adj_ :seven: /HAY-nus/ __1__ Very shocking and immoral. _Heinous_ describes things—such as acts, deeds, or crimes—that are hatefully or shockingly evil, or in other words, deserving of hate or contempt. _A heinous crime._ __2__ _spoken informal_ Extremely bad. _The food in the cafeteria is pretty heinous._  
 __heir__ _n_ :mute:[~~h~~eir]  
 __heirloom__ _n_ :five::hammer: _Family heirlooms._  
 __heisenbug__ _n_  
@@ -9288,7 +9302,8 @@ __hellion__ _n_ :two: A mischievous, troublesome, or unruly person. _Syn_ devil,
 __hellish__ _adj_  
 __hellscape__ _n_ An extremely unpleasant place or scene. _A war-torn hellscape._  
 __helluva__ _adj, adv_ _A helluva year._  
-__helm__ _n_ :two::hammer:  
+__helm<sup>1</sup>__ _n_ :three::hammer:  
+__helm<sup>2</sup>__ _vt_ To take the helm of; steer or direct.  
 __helo__ _n informal_ A helicopter.  
 __help out__  
 __helpdesk__ _n_ Alternative spelling of help desk.  
@@ -9299,6 +9314,7 @@ __hem<sup>1</sup>__ _n_ :five: __1__ An edge or border on a piece of cloth, espe
 __hem<sup>2</sup>__ _v_  
 __hemangioma__ _n_ Benign angioma consisting of a mass of blood vessels; some appear as birthmarks.  
 __hematology__ _n_ The branch of medicine that deals with the diagnosis and treatment of diseases of the blood and bone marrow.  
+__hemianopia__ _n_ Blindness in one half of the visual field of one or both eyes.  
 __hemicycle__ _n_  
 __hemidemisemiquaver__ _n_  
 __hemiparesis__ _n_ Paresis (paralysis) affecting one side of the body.  
@@ -9308,7 +9324,7 @@ __hemmed__ _v_ :three::hammer:
 __hemming__  
 __hemodynamic__ _adj_  
 __hemoglobin__ _n_ _Super hemoglobin extracted from marine arenicolous._  
-__hemolysis__ _n_ The destruction or dissolution of red blood cells, with subsequent release of hemoglobin.  
+__hemolysis__ _n_ :two: The destruction or dissolution of red blood cells, with subsequent release of hemoglobin.  
 __hemophilia__ _n_ (haemophilia) A tendency to uncontrolled bleeding.  
 __hemophiliac__ _n_ /ˌhi məˈfɪl iˌæk/ A person who has hemophilia.  
 __hemostasis__ _n_ (hemostasia, haemostasia) The stoppage of bleeding or cessation of the circulation of the blood; stagnation of the blood in a part of the body.  
@@ -9354,6 +9370,7 @@ __hex key__ _n_ Allen key. _Hex key set._
 __hex sign__ _n_ _She made the hex sign._  
 __hex<sup>1</sup>__ _n_ :dart::four: __1__ An evil spell; a curse. _Looking for a hex-breaking sign._ __2__ One that brings bad luck.  
 __hex<sup>2</sup>__ _vt_ :three: __1__ To put a hex on. __2__ To bring or wish bad luck to.  
+__hexenwolf__ _n_ [:scroll: _Hexen_ comes from the German word for “witches” (plural form of Hexe), often associated with magic, the occult, or witchcraft] A witch that transforms into a wolf or have wolf-like traits.  
 __hey__  
 __heyday__ _n_ :nine::m: (haydays) The period of one’s greatest popularity, vigor, or prosperity.  
 __hi-rail truck__ _n_ :camera:  
@@ -9427,7 +9444,7 @@ __hip__ _adj_ :four::hammer: _Hip restaurants._ _Gotta find a new place where th
 __hipper__ _adj_ :two::hammer: _Hipper Nancy Drew._  
 __hippie-dippie__ _adj_ Of, relating to, or reflecting the far-out styles and values of hippies.  
 __hippo__ _n_ A hippopotamus.  
-__hippocampus__ _n_ :pencil2:  
+__hippocampus__ _n_ :two::hammer::pencil2:  
 __hippocras__ _n_ (in the Middle Ages) A medicinal cordial of spiced wine.  
 __hipster__ _n_ /HIP-stuh/ One whose interests in clothing, music, etc., tend to be outside the mainstream, especially in a self-conscious way.  
 __hireling__ _n_ _derogatory_ A person who works only for pay, esp. in a menial or boring job, with little or no concern for the value of the work. _The hireling said he would be willing to clean out the cesspool-for the right price._  
@@ -9435,7 +9452,8 @@ __hires__ _n_
 __hirsute__ _adj_ :four: /ˈhɜr sut, hɜrˈsut/ /HER-soot/ Covered with hair; hairy. _Syn_ hairy _The hirsute man used to joke that he looked like a grizzly bear._ :es: velludo, peludo  
 __hirsutism__  
 __His Majesty the Sultan__  
-__hiss__ _v_ :seven::hammer:  
+__hiss<sup>1</sup>__ _n_ :nine::hammer:  
+__hiss<sup>2</sup>__ _v_ :three::hammer:  
 __hissing__ _n_ A fricative sound (especially as an expression of disapproval); _the performers could not be heard over the hissing of the audience._ _Syn_ fizzle, hiss, hushing, sibilation  
 __hissy__ _n_ _Hissy fit._  
 __histamine__ _n_  
@@ -9463,6 +9481,8 @@ __ho-hum__ _adj informal_ :four: So lacking in interest as to cause mental weari
 __hoagie__ _n_ :three: /ˈhəʊɡɪ/ (hoagy) A sandwich made with a long, narrow bread roll. _Syn_ submarine sandwich  
 __hoard__ _v_  
 __hoarding__ _n_ :two::hammer:  
+__hoarfrost__ _n_ A layer of white frost.  
+__hoarse__ _adj_ :mega: /hɔrs, hoʊrs/ /hɔːs/  
 __hoarsely__  
 __hoary__ _adj_ :three::hammer:  
 __hoax__ _n_  
@@ -9470,7 +9490,7 @@ __hobble<sup>1</sup>__ _v_ :nine::m: (hobbled, hobbling) __1__ To fetter by tyin
 __hobble<sup>2</sup>__ _n_  
 __hobbledehoy__ _n_ An awkward, gawky young man.  
 __hobbyhorse__ _n_ /HAH-bee-horss/ __3a__ A favorite hobby. __b__ A topic that one frequently brings up or dwells on; a fixation. Hobbyhorse usually refers to a topic that someone dwells on, returning to again and again, especially in conversation. _Don’t get him started on his hobbyhorse._  
-__hobgoblin__ _n_ :two::hammer:  
+__hobgoblin__ _n_ :three: An object or a source of fear, dread, or harassment. _Syn_ bugbear  
 __hobnailed__ _v_ :two::hammer: _Hobnailed boots._  
 __hobnails__  
 __hobnob__ _v_ :three::hammer: /HAHB-nahb/ _The entertainment columnist learns about the latest gossip by hobnobbing with celebrities._  
@@ -9562,7 +9582,7 @@ __homestretch__ _n_ :three::hammer: (In horse racing, the _homestretch_ is the s
 __hometown__ _n_ The town or city of one’s birth, rearing, or main residence.  
 __homicide__  
 __homie__ _n_ _slang_ _chiefly US_ Short for homeboy or homegirl. _Homies for life._  
-__homily__ _n_ /HAH-muh-lee/ A homily is a usually short talk on a religious or moral topic. Homily may also refer to an inspirational catchphrase, or to a trite or stale remark.  
+__homily__ _n_ :two: /HAH-muh-lee/ A homily is a usually short talk on a religious or moral topic. _Homily_ may also refer to an inspirational catchphrase, or to a trite or stale remark.  
 __homogenized milk__ _n_ Milk with the fat particles broken up and dispersed uniformly so the cream will not rise.  
 __homologate__ _v_ To approve, especially to confirm officially.  
 __homophily__  
@@ -9585,6 +9605,7 @@ __honky tonk__ _n_ :two::hammer:
 __honky-tonk__ _n_ :two: A cheap, noisy bar or dance hall. _Syn_ barrelhouse  
 __honor<sup>1</sup>__ _n_ _The magazine saw seven issues and then was interred with honors._  
 __honor<sup>2</sup>__ _v_ :three::hammer::mute:[~~h~~onor]  
+__honorable discharge__ _n_ :two: Discharge from the armed forces with a commendable record.  
 __honorary__ _adj_ _Honorary consul._  
 __honorees__  
 __honors__  
@@ -9638,7 +9659,7 @@ __horse__ _n_ (H-O-R-S-E) A game in which players take turns attempting to dupli
 __horsefly__ _n_ Any bloodsucking, usually large fly of the family Tabanidae, especially of the genus Tabanus, a serious pest of horses, cattle, etc. :es: tábano  
 __horselaugh__  
 __horseplay__ _n_  
-__horsepower__ _n_ :two::hammer: _Physical horsepower._  
+__horsepower__ _n_ :three::hammer: _Physical horsepower._  
 __horseradish__ _n_ :three::hammer:  
 __horseshit__ _n_ _That’s like horseshit squared!_  
 __horseshoe__ _n_ :four::hammer: (horseshoes) :es: herradura  
@@ -9653,6 +9674,7 @@ __hose clamp__ _n_
 __hose__ _n_ :dart: __1__ (Clothing & Fashion) Stockings, socks, and tights collectively.  
 __hospice care__ _n_  
 __hospice__ _n_ :two::hammer:  
+__hospital radio__ _n_ A form of audio broadcasting produced specifically for the in-patients of hospitals, primarily in the United Kingdom. Hospital radio has been found to be beneficial to patients, lifting their mood and aiding recovery.  
 __hoss__ _n_ (Animals) _dialect informal US_ A horse.  
 __host__ _n_ :dart::seven::astonished: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._ _A host of data._ _A host of techniques._ _A whole host of consequences._  
 __hostage__ _n_ :three::mega::hammer: /ˈhɒs tɪdʒ/ :es: rehén  
@@ -9757,7 +9779,7 @@ __humbug<sup>1</sup>__ _n_ :dart::five: __1__ Something intended to deceive; a h
 __humbug<sup>2</sup>__ _vt_ :dart::four: To deceive or trick. To cheat or deceive (someone).  
 __humbug<sup>3</sup>__ _vi_ To practice deception or trickery.  
 __humdinger__ _n_ _informal_ :two: A person or thing of remarkable excellence or effect.  
-__humdrum<sup>1</sup>__ _adj_ :dart::seven: Lacking variety or excitement. _Syn_ dull _A humdrum office building._  
+__humdrum<sup>1</sup>__ _adj_ :dart::eight: Lacking variety or excitement; dull _Syn_ unglamorous, commonplace, prosaic; dull _A humdrum office building._  
 __humdrum<sup>2</sup>__ _n_ :two: A monotonous routine, task, or person. _It will be a respite from the humdrum of life._  
 __humidor__ _n_ :two::hammer: _(cigars, pipes)_  
 __humiliating__ _adj_ Causing awareness of your shortcomings.  
@@ -9809,6 +9831,7 @@ __hut__ _n_ _Beach huts._ _Hire one of the multicolored huts that line the sandy
 __hutch__ _n_ :two::hammer: _The rabbit hutch._  
 __hyacinth__ _n_ :pencil2:  
 __Hydra__  
+__hydrant__ _n_ :two::hammer:  
 __hydrate__ _v_ :two::hammer: _Make sure you hydrate._  
 __hydrocephalus__ _n_ :two::hammer:  
 __hydrology__  
@@ -9839,7 +9862,7 @@ __hypnopedia__ _n_ (hypnopaedia) The art or process of learning while asleep by 
 __hypnotic__ _adj_ Attracting and holding interest as if by a spell. _Syn_ mesmeric, mesmerizing, spellbinding  
 __hypochondriac__  
 __hypocorism__ _n_ :two: A pet name, esp one using a diminutive affix. A name of endearment; a pet name. _Syn_ pet name _“Billy” is a hypocorism for “William.”_ _“Sally” is a hypocorism for “Sarah”._  
-__hypocrisy__ _n_ :two::hammer::pencil2:  
+__hypocrisy__ _n_ :three::hammer::pencil2:  
 __hypocrite__  
 __hypocritical__ _adj_ :two::hammer::pencil2:  
 __hypogeusia__ _n_ A reduced ability to taste things (to taste sweet, sour, bitter, or salty substances). The complete lack of taste is referred to as ageusia. Causes of hypogeusia include the chemotherapy drug bleomycin, an antitumor antibiotic, as well as zinc deficiency.  
