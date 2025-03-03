@@ -47,6 +47,7 @@ __a long row to hoe__ [:scroll: This metaphor comes from nineteenth-century Amer
 __a long shot__  
 __a losing game__ A failing or hopeless effort; a situation or activity that is ultimately futile or cannot be won. (Most often used in the phrase “play a losing game.”) _I’d give up trying to get your brother to agree to this deal if I were you. It looks like a losing game at this point._  
 __a matter of time__ An inevitability or eventuality; something that is or seems sure to happen at some point in the future. _With your reckless spending behavior, it’s just a matter of time before you go broke._  
+__a mile away__  
 __a new coat of paint__ The phrase “a new coat of paint” is an idiom that means giving something a fresh appearance or updating it, often to make it look more appealing or modern. It can refer to physically painting an object or structure, but it’s also used metaphorically to describe revitalizing or improving something, like a project, idea, or even a person’s style. It’s about making something look new again without necessarily changing its core essence.  
 __a stiff upper lip__ The ability to remain stoic during difficult situations.  
 __a whole new ball game__ (a different ball game)  
@@ -77,7 +78,9 @@ __at lightning speed__
 __at the end of the day__  
 __badass__  
 __balancing act__  
+__bang for the buck__  
 __battle-hardened__  
+__be game__ _Well, if that’s what you want, I’m game._  
 __be hell-bent on (something)__ To be very determined to do something, perhaps to an excessive degree. _She’s hell-bent on coming here for Thanksgiving, so we better clean the guest room._  
 __be larded with (something)__  
 __be made of sterner stuff__ To be very strong, determined, or of uncompromising character, especially in comparison to others. _Having to take care of both of us growing up, my brother George was made of sterner stuff as a kid than anyone else I knew._  
@@ -90,9 +93,12 @@ __bend the rules__
 __big player__ A “big player” typically refers to a person or entity that has significant influence, power, or importance in a particular field or industry. It can be used to describe someone with a lot of resources, experience, or market share, making them a key figure in a given situation or environment.  
 __bits and pieces__  
 __blah__ __1__ _mod._ Bland; dull. _After a blah day like this I need something really exciting like a hot bath._ __2__ _mod._ Depressed; worn out. _I’m really blah. Would you mind awfully if I just went home?_ __3__ _mod._ Alcohol intoxicated; very drunk. _We are going to get totally blah tonight._  
+__blow one’s own horn__ (blow (one’s) own horn) To boast or brag about one’s own abilities, skills, success, achievements, etc. _I don‘t mean to blow my own horn, but this pasta sauce I made is quite delicious!_  
+__blow one’s trumpet__ See _blow one’s own horn_.  
 __boo hiss__ _interjection, informal_ An expression of displeasure, disagreement, or disappointment. The comma is often omitted. _Aw, we’re not having pizza for dinner? Boo hiss._  
 __boon or bane__ Something that be may either good or bad, depending on context.  
 __break a sweat__ :dart:  
+__break ranks__  
 __breathing space__  
 __bring about__  
 __bring to mind__  
@@ -107,6 +113,7 @@ __case in point__
 __catch a break__  
 __catch up with (someone)__  
 __checks and balances__ :dart: Rules within a power structure that keep one person or section from becoming excessively powerful. _The founders created three separate branches of government to act as a system of checks and balances._  
+__chide (one) for (something)__ To reprimand or tease one about something.  
 __close to one’s chest__  
 __cold email__ An unsolicited email sent to someone with whom the sender has no prior relationship, usually for professional or business purposes.  
 __come to a head__ To reach a point of intensity at which action must be taken.  
@@ -209,6 +216,7 @@ __for the fun of it__ ((just) for the fun of it)
 __fumble the ball__ “Fumble the ball” and “drop the ball” are similar in meaning and can often be used interchangeably. Both idioms refer to making a mistake or failing to perform a task properly, especially when it’s important or when someone misses an opportunity. However, “fumble the ball” may sometimes carry a slightly more connotative idea of clumsiness or mishandling, while “drop the ball” is more commonly used to emphasize failing to follow through or neglecting responsibility. Despite these subtle differences, they are generally understood in the same way.  
 __Galentine’s Day__ _informal_ [:scroll: Blend of _gal_ + _Valentine’s Day_, originally the title and subject of the 16th episode of the second season of the American comedy television series _Parks and Recreation_, first broadcast in 2010.] A day on which women hold a party around the time of Saint Valentine’s Day, typically on February 13.  
 __galvanize (one) into action__ To induce or cause one to start doing something.  
+__gas station heroine__ Tianeptine.  
 __gee__ __2__ _exclam._ Wow! (An abbreviation of Jesus!, although not always recognized as such. Usually Gee!) _Golly gee, do I have to?_  
 __geek out__  
 __get a handle on (something)__ To have a firm, clear understanding or determination of something.  
@@ -416,6 +424,7 @@ __lucky for you__
 __lust for life__ Intense eagerness to experience all that life has to offer.  
 __lust for power__ Intense, insatiable desire to attain power and control.  
 __mad as a hornet__ (mad as hell, mad as hops, mad as a wet hen) Enraged; extremely or inconsolably angry. _My dad was mad as a hornet after I crashed his car._  
+__mad as a March hare__ ((as) mad as a March hare) Crazy.  
 __mad as a wet hen__ Extremely angry.  
 __make (one’s) own way__ To advance or progress, especially through life, according to one’s own efforts, inclinations, or designs. _This country prides itself on letting people make their own way, relying on no one else’s work but their own._  
 __make (oneself or something) ready (for someone or something)__ To become or make something prepared for something or someone. _I don’t think I’ll have enough time to make myself ready for the gala this evening!_  
@@ -427,6 +436,7 @@ __make a fuss__
 __make a hole in (something)__ To take, use up, or deplete a large amount of money available in something, such as a budget, one’s wallet, etc. _The cost of repairing the car is really going to make a hole in our savings._  
 __make a leg__ _obsolete_ To make a show of obeisance or fealty by bowing deeply (drawing one’s right leg back in the process).  
 __make a long arm for (something)__ To extend one’s arm fully toward something; to reach out for something. _Mary’s new boyfriend made a long arm for the bottle of wine at the end of the table, helping himself to another glass._  
+__make a mark__ To do something that makes one famous or successful; to do something that is very important or meaningful. _The actress first made a mark with her incredible performance as Lady Macbeth on Broadway._  
 __make a run for (someone or something)__ To run in order to escape something or to reach a destination quickly, perhaps before a certain time or before something happens. _Our taxi was late picking us up, so we’re going to have to make a run for the train when we get to the station!_  
 __make a wide stride__ To make great and rapid progress or advancement. _The one-time political advisor has been making a wide stride toward absolute control of the country._  
 __make advances at (one)__ To approach one in a flirtatious, amorous, or sexual manner; to try or begin to seduce one. _Terry was fired after he began making advances at his secretary._  
@@ -446,6 +456,8 @@ __make or break__ :two::hammer:
 __make some noise__ (informal, usually as a command) To cheer or holler loudly and enthusiastically. _Everybody make some noise for Jodeci!_  
 __make the best of a bad bargain__ To deal with and create the best possible outcome of a bad, unfortunate, or unpleasant situation or set of circumstances. _I know this data entry job isn’t what you wanted for a career, but for the time being, try and make the best of a bad bargain._  
 __make the most of it__  
+__make the welkin ring__ To make a very loud, reverberating sound or noise. (“Welkin” is an archaic or literary word for the skies or the heavens, only used in contemporary English as a part of this phrase.) _The candidate’s speech was drowned out as the crowd made the welkin ring with their cheers._  
+__make the world go round__ To be of critical or integral importance to the ordinary operation of life or the world at large. (Sometimes used hyperbolically.) _It’s an unavoidable truth that money and commerce make the world go round._ _I tell you, coffee made the world go round when I was in grad school!_  
 __make waves__ :three::hammer:  
 __meant to be__  
 __memento mori__  
@@ -453,6 +465,7 @@ __memento vivere fac vitam incredibilis__ A Latin phrase that translates to “R
 __mince words__  
 __mind (one’s) p’s and q’s__  
 __miss the boat__  
+__miss the cut__  
 __missing number on the dice__ The phrase “missing number on the dice” isn’t a common idiom in English. However, it could be interpreted metaphorically to mean something that is expected but absent, or an element that is crucial but missing in a situation.  
 __mix and match__  
 __mixed feelings__ :two::hammer:  
@@ -539,7 +552,7 @@ __off the hook__ :three::hammer:
 __off to the races__  
 __off-kilter__ :three::hammer:  
 __OG__ (original gangster) In contemporary usage, calling someone an OG can be a compliment that acknowledges their status as a pioneer or leader in a specific area, whether it be music, sports, or any other field. It reflects admiration for their contributions and the respect they command from others.  
-__oh boy__  
+__oh boy__ :two::hammer:  
 __oh dear__ :dart: An expression of concern, surprise, or disappointment. _This place is on the 10th floor, and there’s no elevator? Oh dear._ _A car accident? Oh dear, is she OK?_  
 __oh, my__ :dart::three::hammer: (oh my)  
 __old coot__ :two::hammer: (coot)  
@@ -574,7 +587,7 @@ __on the brink of (something)__ :two::hammer:
 __on the contrary__  
 __on the edge of (one’s) seat__  
 __on the fly__  
-__on the go__  
+__on the go__ :two::hammer:  
 __on the grounds of__ The phrase “on the grounds of” is primarily used in legal and formal contexts to mean “based on” or “justified by.”  
 __on the hook__ __1__ Held responsible (for something); obliged or committed (to something). _I would think very carefully signing your name to those documents. If something goes wrong in the company, it could be you on the hook._  
 __on the hunt__  
@@ -625,6 +638,7 @@ __potshot__ A sharp criticism; a wild shot of criticism. (Usually with _take_.) 
 __pour cold water on (something)__  
 __pour fuel on the fire__  
 __pour gas/gasoline on the fire__  
+__power dynamics__  
 __practice makes perfect__ :two::hammer:  
 __pray to the enamel god__  
 __pray to the porcelain god__  
@@ -646,6 +660,7 @@ __ring false__
 __ring true__  
 __rise to the occasion__ :two: To increase one’s effort in response to a challenging situation.  
 __road to recovery__  
+__rock solid__  
 __ROFL__ _slang_ An initialism of “rolling on the floor laughing,” used in text messages and online communications to indicate that one thinks that something is very funny or ridiculous. Often lower case. _I just saw a monkey riding on the back of a pig! rofl_  
 __roid rage__ _n_ /rɔɪd/ _informal_ [:scroll: From _steroid_, on the pattern of _road rage_] Angry and aggressive behavior caused by the use of anabolic steroids.  
 __ruffle a few feathers__ To do something which annoys, irritates, or upsets other people. _I know my presentation about the effects of climate change is going to ruffle a few feathers, but I have got to raise awareness about this issue!_  
@@ -658,6 +673,7 @@ __rush into (something)__
 __safe to say__ The idiom “safe to say” means that something can be confidently stated or assumed to be true without much doubt or risk. It’s often used to express certainty or a high degree of likelihood about a statement or situation. For example, “It’s safe to say that everyone enjoyed the party’ means that it’s very likely or certain that everyone had a good time. _It is safe to say that the goals of the meeting were successfully met._  
 __safeguard against (someone or something)__  
 __scat__ __4__ _v_ _slang_ To leave or depart very quickly; to hustle away. Often used as an imperative. _I think I hear the police coming. Let’s scat!_ _Go on, scat!_  
+__serve notice__  
 __shipmas__  
 __shipping and handling__ The costs associated with packaging and delivering a product to the person who bought it. _Our top line of vacuum cleaners is now only $250, plus shipping and handling._  
 __shipshape and Bristol fashion__  

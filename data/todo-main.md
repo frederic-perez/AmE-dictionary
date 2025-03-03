@@ -27,6 +27,8 @@ __assorted__ _adj_
 __astute__ _adj_ /uh-STOOT/ Someone or something described as astute has or shows an ability to notice and understand things clearly. In other words, they are mentally sharp or clever. _Astute_ can also describe someone who is crafty or wily.  
 __awash__ _adj, adv_  
 __bearing__ _n_  
+__beckon__ _v_  
+__bevel__ _vt_ To cut at an inclination that forms an angle other than a right angle: _beveled the edges of the table._  
 __bidding__ _n_  
 __billet-doux__ _n_ (_n pl_ billets-doux) A love letter.  
 __blueprint__ _n_ :two::hammer:  
@@ -63,6 +65,7 @@ __chided__ _v_
 __chilblain__ _n_ :mega: /ˈtʃɪl bleɪn/  
 __chimera__ _n_ :mega:  
 __chitinous__ _adj_ Of or resembling chitin.  
+__chocolatey__ _adj_ :two: /ˈtʃɑːkləti/ /ˈtʃɔːkləti/ (chocolaty) __1__ Made of or like chocolate. __2__ Having a rich chocolate flavor.  
 __choir__ _n_ :mega: /kwaɪər/ /kwahyuhr/  
 __choker__ _n_  
 __chortle<sup>1</sup>__ _n_ A snorting, joyful laugh or chuckle.  
@@ -76,6 +79,8 @@ __circuitous__ _adj_ /ser-KYOO-uh-tus/
 __citizen__ _n_ /ˈsɪt ə zən, -sən/  
 __claimant__ _n_ :dart: /ˈkleɪmənt/ __1__ A person who makes a claim. __2__ _(Law)_ A person who brings a civil action in a court of law. Formerly called: plaintiff  
 __clampdown__  
+__clang__ _n_  
+__clank__ _n_  
 __clatter__ _v_  
 __clemency__ _n_  
 __cling__ _v_  
@@ -90,6 +95,7 @@ __colorful__ _adj_ :astonished:
 __commutation__ _n_ :astonished: The reduction in severity of a punishment imposed by law. _Syn_ re-sentencing  
 __conducive__ _adj_  
 __conformal__ _adj_ [:scroll: from Late Latin _conformālis_ having the same shape, from Latin _com-_ same + _forma_ shape]  
+__conscript__ _n_ One compulsorily enrolled for service, especially in the armed forces; a draftee.  
 __consumer sentiment__ _n_ Another word for _consumer confidence_.  
 __corn__ _n_ :mega:  
 __counterfeit<sup>1</sup>__ _vt_  
@@ -101,7 +107,9 @@ __countless__
 __coup__ _n_  
 __coy__  
 __crawlway__ _n_ /ˈkrɔːlˌweɪ/ (Mining & Quarrying) A low passageway in a cave or mine that can only be negotiated by crawling.  
+__crewer__ _n_ _informal_ (informal) A member of a crew, as on a ship or spacecraft.  
 __crisis__ _n_ :mega: /ˈkraɪ sɪs/ (_n pl_ crises /ˈkraɪ siːz/)  
+__cup__ _vt_ __1__ To shape like a cup: _cup one’s hands._ _Cupping the hyperdrive levers in her hand._  
 __deliver__ _v_  
 __demagogue__ _n_ (demagog)  
 __demonstrator__  
@@ -116,11 +124,14 @@ __dissipation__ _n_ _Heat dissipation._
 __distil__ _v_  
 __divers__ _adj_ /DYE-verz/ Numbering more than one. _The tri-county fair offers divers amusements for the whole family._  
 __doff__ _v_ /DAHF/ To doff a hat or other piece of clothing is to take it off. _They doffed their coats when they came inside the house._  
+__draconian__ _adj_  
 __dreadnought__ _n_  
+__dreamlike__ _adj_ :es: de ensueño, como de sueño  
 __ecstatic__ _adj_ /ek-STAT-ik/ Someone described as ecstatic is very happy or excited; the person feels or shows ecstasy—that is, rapturous delight.  
 __edgeways__  
 __edify__ _v_ /ED-uh-fye/ To edify someone is to teach them in a way that improves their mind or character.  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
+__egoism__ _n_ Concern for your own interests and welfare. _Syn_ self-centeredness, self-concern, self-interest  
 __elusive__ _adj_ :mega: /ɪˈlu sɪv/  
 __emaciated__  
 __embolden__ _vt_ To foster boldness or courage in. _Syn_ encourage  
@@ -142,6 +153,7 @@ __fabless__ _n_
 __face__ _n_ :mega: /feɪs/ (_vs_ phase /feɪz/)  
 __face-lift__ _n, vt_  
 __facetious__ _adj_ /fuh-SEE-shuss/ _Facetious_ is used to describe something, such as a remark or behavior, that is meant to be humorous or funny but is sometimes instead annoying, silly, or improper. It can also be used to describe someone who is joking, often implying that they are doing so inappropriately.  
+__factoid__ _n_ /FAK-toyd/ A factoid is a brief and usually unimportant or trivial fact. _Factoid_ may also refer to an invented fact believed to be true because it appears in print.  
 __fang__ _n_  
 __fault line__ _n_  
 __feisty__ _adj_ :astonished: /FYE-stee/ _Feisty_ describes someone who has or shows a lively aggressiveness especially in being unafraid to fight or argue. In some regions of the US, _feisty_ may also be used as a synonym of _fidgety_, _quarrelsome_, or _frisky_. _Even her opponents admire her feisty spirit._  
@@ -179,8 +191,9 @@ __flighty__ _adj_ /ˈflaɪtɪ/
 __flinch__ _vi_ :es: estremecerse; encogerse  
 __fling__ _v_ :two::hammer: (flung)  
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
-__flit__ _vi_ :two: __1__ To move about rapidly and nimbly. __2__ To move quickly from one condition or location to another.  
+__flit__ _vi_ :three: __1__ To move about rapidly and nimbly. __2__ To move quickly from one condition or location to another.  
 __florid__ _adj_ :two: __1__ Flushed with rosy color; ruddy. _A florid face._  
+__galaxy__ _n_ :astonished: [:scroll: Middle English galaxie, _the Milky Way_, from Late Latin galaxiās, from Greek, from gala, galakt-, _milk_]  
 __gravitas__ _n_ Seriousness or sobriety, as of conduct or speech.  
 __greasepaint__ _n_ Theatrical makeup, especially a preparation of grease mixed with colorings. _Groucho applied greasepaint to enhance his comedic disguise for the show._  
 __Greenland__ _n_ /ˈgrin lənd, -ˌlænd/ :es: Groenlandia  
@@ -225,6 +238,7 @@ __harass__ _v_
 __harbinger__ _n_  
 __hard-ass__ _n_ _vulgar slang_ (hardass) One who inflexibly follows or enforces rules.  
 __hard-of-hearing__ _adj_ Having a hearing loss. _Syn_ hearing-impaired  
+__homing beacon__ _n_ :three: A radio beacon, either airborne or on the ground, toward which an aircraft can fly if equipped with a radio compass or homing adapter. _Syn_ radio homing beacon  
 __ignoramus__ _n_ /ig-nuh-RAY-mus/ An ignoramus is an utterly ignorant or stupid person. _I can’t believe they let an ignoramus like that run the company._  
 __impermanence__ _n_ The property of not existing for indefinitely long durations.  
 __imperviousness__ _n_  
@@ -250,6 +264,7 @@ __ingratiate__ _v_
 __inimitable__ _adj_ /in-IM-it-uh-bul/ _Inimitable_ describes someone or something that is impossible to copy or imitate.  
 __inkling__  
 __inner workings__  
+__inordinate__ _adj_  
 __insidious__  
 __interfere__ _v_  
 __interpenetrate__ _v_ Spread or diffuse through. _Syn_ imbue, permeate, pervade, diffuse, riddle, penetrate  
@@ -326,6 +341,7 @@ __landlocked country__ _n_ (landlocked state) A sovereign state that does not ha
 __largess__ _n_  
 __lariat__ _n_ :two::hammer:  
 __Latin cross__ _n_ A cross with a shorter horizontal bar intersecting a longer vertical bar above the midpoint.  
+__lax__ _adj_ Loose or slack; not firm; not strict; negligent: _lax in enforcing the rules._  
 __leap year__ _n_ /liːp jɪər/  
 __Leavenworth__ _n_ A city in NE Kansas: site of federal prison.  
 __ledger__ _n_  
@@ -483,6 +499,7 @@ __mothball__ _n_ Asmall sphere of camphor or naphthalene used to keep moths away
 __mother of pearl__ _n_  
 __motor__ _v_  
 __motormouth__ _n_ :two: _slang_ A garrulous person.  
+__mottling__ _n_ :three: __1__ A colored spot. __2a__ A surface having colored spots or blotches. __b__ The arrangement of such spots or blotches on a surface.  
 __mound__ _n_ A collection of objects laid on top of each other. _Syn_ cumulation, heap, pile, cumulus, agglomerate  
 __muffled__ _adj_  
 __mull<sup>1</sup>__ _vt_ /mŭl/ To think about extensively; ponder. __1__ __2__ To heat and spice (wine, for example).  
@@ -551,6 +568,7 @@ __onslaught__ _n_ :mega: /ˈɒnˌslɔt, ˈɔn-/
 __overtones__ _n pl_ :dart: Suggestions; hints. _There were overtones of discontent in his speech._  
 __oxycodone__ _n_  
 __panacea__  
+__Panama__ _n_ :mega: /ˈpæn əˌmɑ, -ˌmɔ/ /ˌpænəˈmɑː; ˈpænəˌmɑː/  
 __paramount__  
 __Pareto-efficient__ _adj_ (Pareto efficient) Describing a situation in which the profit of one party cannot be increased without reducing the profit of another.  
 __parlay__ _v_  
@@ -651,7 +669,7 @@ __probity__ _n_ :dart:
 __procedural__ _adj, n_  
 __profiteer__ _n_ :astonished: One who makes excessive profits on goods in short supply.  
 __profiteering__ _n_ :astonished: _Syn_ extortion, exploitation, racketeering _There has been a wave of profiteering and corruption._  
-__proper__  
+__proper__ _adj_ :two::hammer: __6__ In the strict sense (usu. used postpositively): _Shellfish do not belong to the fishes proper._ _The hangar bay proper._  
 __provender__ _n_ Dry food, as hay or oats, for livestock or other domestic animals.  
 __proximate__ _adj_  
 __pry__ _vi_ :two::hammer:  
@@ -722,7 +740,7 @@ __raving<sup>2</sup>__ _adj_ Delirious, irrational speech.
 __ravish__ _v_  
 __reach out__ _v_  
 __readout__ _n_ The output of information from a computer in readable form.  
-__ready room__  
+__ready room__ _n_ :two::hammer:  
 __real estate developer__ _n_ :es: promotor immobiliario  
 __real__ _adv_ :dart: _informal_ [In American English it is usual to drop the _-ly_ adverb ending from _really_ when used as an intensifier] Very. _I’m real sorry about that._ _Real quiet._  
 __ream__ _n_ __2__ (often _reams_) A very large amount: _reams of work to do._  
@@ -767,6 +785,7 @@ __reindeer__ _n_ /ˈreɪnˌdɪər/ Arctic deer with large antlers in both sexes.
 __rejuvenate__ _v_ /rih-JOO-vuh-nayt/ To rejuvenate a person, parts of the body, etc., is to make them feel young, healthy, or energetic again. To rejuvenate something abstract, such as an economy or career, is to give it new strength or energy.  
 __relate__ _v_ _I wish to relate the story in his own words._  
 __relay__ _n, vt_  
+__relent__ _v_ :dart: Give in, as to influence or pressure. _Syn_ soften, yield _At first she wouldn’t let them go to the cinema, but in the end she relented._  
 __remuneration__ _n_ :mega: /ri-myoo-nuh–rey-shuhn/  
 __render__ _vt_ __2__ To cause to become; make: _The news rendered her speechless._ _Grief had rendered him simple-minded._  
 __repent__ _v_ _He would repent and confess his sins._  
@@ -840,6 +859,9 @@ __shoulder__ _v_
 __shuffle__ _v_ __6__ (when _vi_, often foll by _into_ or _out of_) to move or cause to move clumsily: _he shuffled out of the door._ _He shuffled his way out of the room._  
 __sibylline__ _adj_ Resembling or characteristic of a prophet or prophecy. _Syn_ divinatory, mantic, vatic  
 __sic__ _vt_ :dart: __1__ To turn on or attack: used only in commands, as to a dog. __2__ To urge (a dog) to attack. To urge or incite to hostile action; set: _sicced the dogs on the intruders._  
+__sidle<sup>1</sup>__ _vi_  
+__sidle<sup>2</sup>__ _vt_  
+__sidle<sup>3</sup>__ _n_ __1__ An unobtrusive, furtive, or coy advance. __2__ A sideways movement.  
 __singe__ _vt_ __1__ To burn superficially or slightly; scorch. _To singe one’s clothes._ __2__ To burn the ends, nap, or the like, of (hair, cloth, etc.). __3__ To subject (a carcass) to flame in order to remove hair, bristles, feathers, etc.  
 __singeing__ _n_  
 __skid__ _v_ _The car skidded to a halt._ → :es: _El coche patinó y paró._  
@@ -877,13 +899,19 @@ __suave__ _adj_ /swɑːv/
 __substantive__ _adj_ __1__ Substantial; considerable. __4__ 4. Of or relating to the essence or substance; essential: _substantive information._  
 __superfluous__ _adj_ /soo-PER-floo-us/ Superfluous is a formal word used to describe things that exceed what is necessary or sufficient, or that are simply not needed.  
 __thunderclap__ _n_  
+__transmigrate__ _v_ Be born anew in another body after death. _Syn_ reincarnate  
+__transpire__ _v_ :astonished /tran-SPYRE/ _Transpire_ is a formal verb that means “to happen,” or in other words “to take place or occur.” It can also mean “to come to light” or “to become known,” as in “It transpired that they had met previously.” In botany, to transpire is to give off or exude watery vapor especially from the surfaces of leaves.  
+__unwieldy__ _adj_ :astonished: _The suddenly unwieldy craft._ :es: difícil de manejar; rígido  
+__war story__ _n_ A story of a memorable personal experience typically involving an element of danger, hardship, or adventure. _Politicians swapping war stories from past campaigns._  
 __warhorse__ _n_ (war horse)  
 __waterboarding__ _n_ __1__ An interrogation technique, widely considered a form of torture, in which a person is restrained, usually by being strapped to a board with the feet higher than the head, and immersed in or doused with water to the point of drowning.  
 __whet__ _v_  
 __whey__ _n_ :dart::mega: /ʰweɪ, weɪ/ The watery part of milk that separates from the curds, as in the process of making cheese. :es: suero  
 __whimper__ _v_  
 __whirl__ _v_  
+__wide-eyed__ _adj_ :dart: __2__ Innocent; credulous. _Luke was a wide-eyed kid._  
 __wince__ _v_ :three::hammer:  
+__winch__ _vt_ To pull (in a rope) or lift (a weight) using a winch.  
 __wingmate__ _n_  
 __wizardry__ _n_ /ˈwɪz ər dri/ The art, skill, or accomplishments of a wizard. :es: hechicería; brujería  
 __woe__ _n_  
