@@ -191,56 +191,6 @@ __flighty__ _adj_ /ˈflaɪtɪ/
 __flinch__ _vi_ :es: estremecerse; encogerse  
 __fling__ _v_ :two::hammer: (flung)  
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
-__flit__ _vi_ :three: __1__ To move about rapidly and nimbly. __2__ To move quickly from one condition or location to another.  
-__florid__ _adj_ :two: __1__ Flushed with rosy color; ruddy. _A florid face._  
-__galaxy__ _n_ :astonished: [:scroll: Middle English galaxie, _the Milky Way_, from Late Latin galaxiās, from Greek, from gala, galakt-, _milk_]  
-__gravitas__ _n_ Seriousness or sobriety, as of conduct or speech.  
-__greasepaint__ _n_ Theatrical makeup, especially a preparation of grease mixed with colorings. _Groucho applied greasepaint to enhance his comedic disguise for the show._  
-__Greenland__ _n_ /ˈgrin lənd, -ˌlænd/ :es: Groenlandia  
-__greenwashing__ _n_  
-__grill pan__ _n_ :camera: A type of frying pan with raised ridges or grooves on the cooking surface that simulate the char marks of an outdoor grill.  
-__gripping__ _adj_ :es: con gancho  
-__groan__ _n_  
-__ground effect__ _n_ Apparent increase in aerodynamic lift experienced by an aircraft flying close to the ground.  
-__groundwork__ _n_  
-__grovel__ _vi_  
-__grueling__ _adj_ /ˈgru ə lɪŋ, ˈgru lɪŋ/  
-__grunt__ _n_ :two::hammer: _Grunt work._  
-__guarded__ _adj_ /ˈgɑr dɪd/ __2__ Cautious; careful; prudent: _guarded comments._  
-__guardedly__ _adv_ In a conservative manner.  
-__guardrail__ _n_ :two: A protective railing, as on a staircase or along a highway.  
-__guffaw__ _n_  
-__gull__ _vt_ :smiling_imp: To deceive or cheat. :es: embaucar  
-__gullet__ _n_ /ˈgʌl ɪt/ __1__ A less formal name for the esophagus. __2__ The throat.  
-__gunpowder__ _n_ :two: /ˈgʌnˌpaʊ dər/ __2__ A fine variety of green China tea, each leaf of which is rolled into a little ball. _Syn_ gunpowder tea  
-__gurney__ _n_ /ˈɡɜːnɪ/ _Medicine_ _US_ A wheeled stretcher for transporting hospital patients.  
-__gustation__ _n_ The faculty of distinguishing sweet, sour, bitter, and salty properties in the mouth. _Syn_ taste _Her cold had muted all sense of gustation, and she had no appetite for food._  
-__guttural__ _adj_ /GUTT-uh-rul/ A guttural sound—such as speech, laughter, or a grunt—is formed or pronounced in the throat.  
-__gyrokinetics__ _n_ :astonished: The branch of physics concerned with the helical flow of particles in the magnetic field of a plasma.  
-__habeas corpus__  
-__hackneyed__ _adj_  
-__hacksaw__ _n_ :dart: A handsaw for cutting metal, with a hard-steel blade in a frame under tension.  
-__haft__ _n_ :dart: __1__ A handle, esp. of a knife, sword, or dagger.  
-__haggard__ _adj_  
-__haggle__ _v_  
-__hagiography__ _n_ /hag-ee-AH-gruh-fee/ _Hagiography_ is biography that idealizes or idolizes a person and their life.  
-__hallowed__ _adj_ :astonished: /HAL-oad/ Hallowed describes something, such as a memorial, considered holy or blessed, or something that is highly respected and revered. _The church stands on hallowed ground_  
-__hamstring<sup>1</sup>__ _n_ One of the tendons at the back of the knee.  
-__hamstring<sup>2</sup>__ _vt_ __1__ To cripple by cutting the hamstring of. __2__ To ruin or thwart.  
-__handicraft__ _n_ Skill or dexterity in working with the hands.  
-__handlebar mustache__ _n_ A long curved mustache resembling the curved ends of a handlebar.  
-__handyman__ _n_ :es: manitas  
-__hangnail__ _n_ :es: padrastro  
-__haphazard__ _adj, adv, n_ :two::hammer:  
-__haphazardly__ _adv_ In a random manner.  
-__hapless__  
-__harass__ _v_  
-__harbinger__ _n_  
-__hard-ass__ _n_ _vulgar slang_ (hardass) One who inflexibly follows or enforces rules.  
-__hard-of-hearing__ _adj_ Having a hearing loss. _Syn_ hearing-impaired  
-__homing beacon__ _n_ :three: A radio beacon, either airborne or on the ground, toward which an aircraft can fly if equipped with a radio compass or homing adapter. _Syn_ radio homing beacon  
-__ignoramus__ _n_ /ig-nuh-RAY-mus/ An ignoramus is an utterly ignorant or stupid person. _I can’t believe they let an ignoramus like that run the company._  
-__impermanence__ _n_ The property of not existing for indefinitely long durations.  
 __imperviousness__ _n_  
 __impish__ _adj_ :es: pícaro, travieso  
 __importunate__ _adj_ :astonished: Troublesomely urgent or persistent in requesting; pressingly entreating: _an importunate job seeker._  
