@@ -58,6 +58,7 @@ __DJ__ Dear John _(break up letter)_
 __DMV__ :two: Department of Motor Vehicles.  
 __DNF__ Did not finish.  
 __DNI__ Director of National Intelligence. _DNI nominee._  
+__DOGE__  
 __DOJ__ Department of Justice.  
 __DoS__ Denial of service. _We ended up DoS’ing our cafes._  
 __DOT__ Department of Transportation.  
@@ -104,6 +105,7 @@ __GWTW__ Gone With The Wind.
 __H/T__ :dart::two: (h/t) Hat Tip (blogs - information source) _Close Open Loops (H/T David Allen)._  
 __HAI__ Healthcare-associated infection. _Every year, more than 90,000 Americans die of an HAI._  
 __HDL-C__ High-density-lipoprotein cholesterol.  
+__HHS__  
 __HIIT__ High-intensity interval training.  
 __HIV__  
 __HMS__ Her (or His) Majesty’s Ship.  
@@ -137,6 +139,7 @@ __LDS__ (LDS Church) :two: Latter-day Saint, an adherent of The Church of Jesus 
 __LEGO__ _n_ [:scroll: From Danish leg godt _play well_]  
 __LGBTQ__ :three: (LGBT+, LGBTQ+) Lesbian, gay, bisexual, transgender, queer.  
 __LLM__ _Computers_ Large language model: a type of machine learning algorithm trained on extremely large data sets of existing language and designed to generate new, naturalistic responses to prompts.  
+__LNG__ Liquid Natural Gas.  
 __LZ__ Landing zone. _It belonged to a guy who flew a slick into a hot LZ when I was wounded._  
 __MAC__  
 __MC__  

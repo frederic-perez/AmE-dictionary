@@ -13,7 +13,8 @@ __accoutrement__ _n_
 __acerbic__ _adj_ Sharp or biting, as in character or expression. _Syn_ blistering, caustic, acid, vitriolic, acerb, acrid, sulfurous, virulent, bitter  
 __acquiesce__  
 __actor__ _n_ :two: __2__ One who takes part; a participant.  
-__ad-lib__ _v_ /AD-LIB/ To ad-lib something, such as a performance or part of a performance, is to improvise it—that is, to make up words or music instead of saying, singing, or playing something that has been planned. _The actor forgot his lines, so he ad-libbed._  
+__ad-lib<sup>3</sup>__ _n_  
+__ad-lib<sup>4</sup>__ _v_ :two: /AD-LIB/ To ad-lib something, such as a performance or part of a performance, is to improvise it—that is, to make up words or music instead of saying, singing, or playing something that has been planned. _The actor forgot his lines, so he ad-libbed._  
 __adamant__ _adj, n_  
 __addlepated__ _adj_ /AD-ul-pay-tud/ Someone described as addlepated is mixed-up or confused. _Addlepated_ can also be used as synonym of eccentric.  
 __adorbs__ _adj_ /ə-ˈdȯrbz/ _informal_ Extremely charming or appealing. _Syn_ adorable  
@@ -23,9 +24,12 @@ __affordable__ _adj_ :pencil2:
 __afoot__ _adj, adv_  
 __aft__  
 __apprehend__ _v_ :two::hammer:  
+__askew<sup>1</sup>__ _adj_ /uh-SKYOO/ Askew means “not straight” or “at an angle,” and can be used as both an adjective and an adverb. _The picture on the cabin wall was slightly askew._  
+__askew<sup>2</sup>__ _adv_ /uh-SKYOO/ _The picture was hung askew on the cabin wall._  
 __assorted__ _adj_  
 __astute__ _adj_ /uh-STOOT/ Someone or something described as astute has or shows an ability to notice and understand things clearly. In other words, they are mentally sharp or clever. _Astute_ can also describe someone who is crafty or wily.  
 __awash__ _adj, adv_  
+__barrage__ _n_  
 __bearing__ _n_  
 __beckon__ _v_  
 __bevel__ _vt_ To cut at an inclination that forms an angle other than a right angle: _beveled the edges of the table._  
@@ -39,7 +43,7 @@ __brushfire__ _n_
 __bulldozer__ _n_ __1__ A powerful tractor fitted with caterpillar tracks and a blade at the front, used for moving earth, rocks, etc. __2__ _informal_ A person who bulldozes. An overbearing person; a bully. _Syn_ browbeater, bully, hector, intimidator  
 __bunker__ _n_ /ˈbʌŋ kər/ __1__ A large bin or receptacle; a fixed chest or box: a coal bunker.  
 __buy out__  
-__buyout__ _n_ :two::hammer:  
+__buyout__ _n_ :three::hammer: _A buyout offer._  
 __caffeine__ _n_ :mega:  
 __call-up__ _n_ The act or an instance of summoning reserve military personnel to active service. _A new military call-up._  
 __calligraphy__ _n_  
@@ -155,8 +159,10 @@ __face-lift__ _n, vt_
 __facetious__ _adj_ /fuh-SEE-shuss/ _Facetious_ is used to describe something, such as a remark or behavior, that is meant to be humorous or funny but is sometimes instead annoying, silly, or improper. It can also be used to describe someone who is joking, often implying that they are doing so inappropriately.  
 __factoid__ _n_ /FAK-toyd/ A factoid is a brief and usually unimportant or trivial fact. _Factoid_ may also refer to an invented fact believed to be true because it appears in print.  
 __fang__ _n_  
+__fast-moving__ _adj_ _She died of a fast-moving cancer._  
 __fault line__ _n_  
 __feisty__ _adj_ :astonished: /FYE-stee/ _Feisty_ describes someone who has or shows a lively aggressiveness especially in being unafraid to fight or argue. In some regions of the US, _feisty_ may also be used as a synonym of _fidgety_, _quarrelsome_, or _frisky_. _Even her opponents admire her feisty spirit._  
+__fester__ _v_  
 __fetishist__ _n_ One who engages in fetishism (especially of a sexual nature).  
 __feud__ _n_ :mega:  
 __fiasco__ _n_ :dart: A complete failure, esp one that is ignominious or humiliating.  
@@ -191,6 +197,9 @@ __flighty__ _adj_ /ˈflaɪtɪ/
 __flinch__ _vi_ :es: estremecerse; encogerse  
 __fling__ _v_ :two::hammer: (flung)  
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
+__fragile__ _adj_ :mega:  
+__guesswork__ _n_  
+__hiss__ _vt_ To say something in a quiet angry way. _“Shut up, Tom!” She hissed._  
 __imperviousness__ _n_  
 __impish__ _adj_ :es: pícaro, travieso  
 __importunate__ _adj_ :astonished: Troublesomely urgent or persistent in requesting; pressingly entreating: _an importunate job seeker._  
@@ -269,6 +278,7 @@ __jot<sup>2</sup>__ _vt_
 __Jovian__ _adj_  
 __jubilate__ _v_ To express great joy. _Syn_ exuberate, exult, rejoice, triumph  
 __jubilee__ _n_ :mega: /JOO-buh-lee/  
+__judment__ _n_ :pencil2:  
 __jumpsuit__ _n_ :astonished::camera: One-piece garment fashioned after a parachutist’s uniform.  
 __jumpy__ _adj_ __1__ Nervous or apprehensive. __2__ Moving jerkily or fitfully.  
 __just-in-time__ _adj_  
@@ -291,6 +301,7 @@ __landlocked country__ _n_ (landlocked state) A sovereign state that does not ha
 __largess__ _n_  
 __lariat__ _n_ :two::hammer:  
 __Latin cross__ _n_ A cross with a shorter horizontal bar intersecting a longer vertical bar above the midpoint.  
+__laud__ _v_  
 __lax__ _adj_ Loose or slack; not firm; not strict; negligent: _lax in enforcing the rules._  
 __leap year__ _n_ /liːp jɪər/  
 __Leavenworth__ _n_ A city in NE Kansas: site of federal prison.  
@@ -303,6 +314,7 @@ __library__ _n_ :mega: /lahy-brer-ee/
 __lickspittle__ _n_ A contemptible, fawning person; a servile flatterer or toady.  
 __lidless__ _adj_ Watchful; vigilant. _Syn_ sleepless  
 __lifeline__  
+__lift__ _v_ _Lift the sanctions._  
 __lightsaber__ _n_  
 __likely<sup>1</sup>__ _adj_  
 __likely<sup>2</sup>__ _adv_ :dart: Probably: _They’ll likely buy a new car soon._  
@@ -332,6 +344,7 @@ __macabre__ _adj_
 __macaronic__ _adj_ :astonished: __1__ Characterized by Latin words mixed with non-Latin words often given Latin endings. __2__ Composed of a mixture of languages.  
 __machine learning__ _n_ :mega: /məˈʃiːn ˈlɜːrnɪŋ/  
 __machtpolitik__ _n_ /MAHKHT-pol-ee-teek/ Power politics: policies that advocate the use of power and physical force to attain their goals.  
+__Madagascar__ _n_ :mega:  
 __mage__ _n_  
 __maggot__ _n_ :two: __1__ The legless, soft-bodied, wormlike larva of any of various dipteran flies, often found in decaying matter. :es: gusano  
 __Magic Eye poster__ _n_  
@@ -373,6 +386,7 @@ __matte__ _n_
 __maw__ _n_  
 __mayhem__ _n_  
 __meanly__ _adv_ In a miserly manner. _Syn_ humbly _They lived meanly and without ostentation._  
+__measles__ _n_ :mega:  
 __measly__ _adj_ :astonished:  
 __meatspace__ _n_ _slang_ :dart: /ˈmiːtˌspeɪs/ The real physical world, as contrasted with the world of cyberspace.  
 __medieval__ _adj_ :mega: /ˌmi diˈi vəl, ˌmɛd i-, ˌmɪd i-, mɪdˈi vəl/  
@@ -471,6 +485,7 @@ __nerve-racking__ _adj_ (nerve-wracking)
 __neurovascular__ _adj_ :two: /ˌnʊərəʊˈvæskjʊlə/ Of, relating to, or affecting both the nerves and the blood vessels.  
 __New Orleans__ _n_ :mega:  
 __newsagent__ _n_ A shopkeeper who sells newspapers, stationery, etc. _Syn_ newsdealer  
+__nib__ _n_  
 __nibble__ _v_  
 __nifty__ _adj_  
 __nigh__ _adj, adv, prep_ /naɪ/ An archaic, poetic, or dialect word for near.  
@@ -675,6 +690,7 @@ __rampart__ _n_
 __ransack__ _vt_  
 __rapport__ _n_ /ræˈpɔr, -ˈpoʊr, rə-/  
 __rapture__ _n_ :es: éxtasis  
+__rare earth magnet__ _n_  
 __rasp<sup>1</sup>__ _n_ __1__ A coarse file with sharp, pointed projections. :es: raspador __2__ The act of filing with a rasp. __3__ A harsh grating sound. :es: chirrido; (of voice) tono áspero  
 __rasp<sup>2</sup>__ _v_ :two: Utter in a grating voice.  
 __raspy__ _adj_ __1__ Harsh or grating; rasping. _A raspy voice._ :es: ronco, áspero __2__ Easily annoyed; irritable.  
@@ -796,6 +812,7 @@ __scrap<sup>3</sup>__ _vi_ :smiling_imp: To fight, usually with the fists.
 __scruffy__ _adj_  
 __scuffling<sup>1</sup>__ _adj_ Of or relating to fighting in a disorderly manner. _Scuffling sounds._  
 __scuffling<sup>2</sup>__ _n_ The act of fighting in a disorderly manner.  
+__search warrant__ _n_  
 __secular__ _adj_ /SEK-yuh-ler/ _Secular_ describes things that are not spiritual; that is, they relate more to the physical world than the spiritual world. The word also carries the closely related meaning of “not religious.”  
 __sentient__ _adj_ :two::hammer:  
 __sepulchral__ _adj_ Gruesomely indicative of death or the dead. _Syn_ charnel, ghastly  
@@ -804,6 +821,7 @@ __severance pay__ _n_ :two::hammer:
 __shamble<sup>1</sup>__ _vi_ :dart: To walk or move along in an awkward or unsteady way.  
 __shamble<sup>2</sup>__ _n_ An awkward or unsteady walk.  
 __sharp__ _adj_ __6__ Vigilant; alert: _kept a sharp lookout for shoplifters._ _Stay sharp._  
+__shim__ _v_  
 __shopkeeper__ _n_  
 __shoulder__ _v_  
 __shuffle__ _v_ __6__ (when _vi_, often foll by _into_ or _out of_) to move or cause to move clumsily: _he shuffled out of the door._ _He shuffled his way out of the room._  
@@ -814,6 +832,7 @@ __sidle<sup>2</sup>__ _vt_
 __sidle<sup>3</sup>__ _n_ __1__ An unobtrusive, furtive, or coy advance. __2__ A sideways movement.  
 __singe__ _vt_ __1__ To burn superficially or slightly; scorch. _To singe one’s clothes._ __2__ To burn the ends, nap, or the like, of (hair, cloth, etc.). __3__ To subject (a carcass) to flame in order to remove hair, bristles, feathers, etc.  
 __singeing__ _n_  
+__Situation Room__ _n_  
 __skid__ _v_ _The car skidded to a halt._ → :es: _El coche patinó y paró._  
 __skiff__ _n_ :two: A flatbottom open boat of shallow draft, having a pointed bow and a square stern and propelled by oars, sail, or motor.  
 __skirmish__  
@@ -836,12 +855,14 @@ __sovereign<sup>2</sup>__ _adj_
 __soverreignty__ _n_ :two::hammer:  
 __spearhead__ _v_  
 __specious__ _adj_ :smiling_imp: Based on pretense; deceptively pleasing. _Syn_ gilded, meretricious  
+__spittle__ _n_ _Syn_ saliva  
 __splurge__  
 __staff<sup>1</sup>__ _n_  
 __staff<sup>2</sup>__ _vt_ __1__ To provide with a staff of workers or assistants. __2__ To serve on the staff of (an organization).  
 __stand-off__ _n_  
 __staple__ _n_  
 __star-crossed__ _adj_ Opposed by fate; ill-fated: _star-crossed lovers._  
+__stardom__ _n_  
 __statutory__  
 __stowage__  
 __stubborn__ _adj_ :pencil2::mega:  
@@ -852,10 +873,13 @@ __thunderclap__ _n_
 __transmigrate__ _v_ Be born anew in another body after death. _Syn_ reincarnate  
 __transpire__ _v_ :astonished /tran-SPYRE/ _Transpire_ is a formal verb that means “to happen,” or in other words “to take place or occur.” It can also mean “to come to light” or “to become known,” as in “It transpired that they had met previously.” In botany, to transpire is to give off or exude watery vapor especially from the surfaces of leaves.  
 __unwieldy__ _adj_ :astonished: _The suddenly unwieldy craft._ :es: difícil de manejar; rígido  
+__upfold__ _vt_ To fold up.  
+__vaunted__ _adj_ :dart: Praised more than deserved. _Vaunted Jedi Master Luke Skywalker._  
 __war story__ _n_ A story of a memorable personal experience typically involving an element of danger, hardship, or adventure. _Politicians swapping war stories from past campaigns._  
 __warhorse__ _n_ (war horse)  
 __waterboarding__ _n_ __1__ An interrogation technique, widely considered a form of torture, in which a person is restrained, usually by being strapped to a board with the feet higher than the head, and immersed in or doused with water to the point of drowning.  
 __whet__ _v_  
+__whetstone__ _n_  
 __whey__ _n_ :dart::mega: /ʰweɪ, weɪ/ The watery part of milk that separates from the curds, as in the process of making cheese. :es: suero  
 __whimper__ _v_  
 __whirl__ _v_  

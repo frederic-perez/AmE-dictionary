@@ -70,6 +70,7 @@ __and everything in between__ Including all the possibilities or varieties withi
 __anyone’s guess__  
 __anything goes__  
 __around the clock__ ((a)round the clock)  
+__as we speak__  
 __at (one’s) convenience__ _At your convenience, Captain._  
 __at any rate__  
 __at its core__ The idiom “at its core” refers to the essential or fundamental nature of something, the most basic or important part of it. When you say something is “at its core,” you’re highlighting the central aspect that defines its true nature, beyond any surface-level characteristics or additional details.  
@@ -80,6 +81,7 @@ __badass__
 __balancing act__  
 __bang for the buck__  
 __battle-hardened__  
+__be a nothingburger__ _informal_ (be a nothing burger) To seem or be presented as important but turn out to be utterly insignificant or unsubstantial. Used especially in reference to politics. Primarily heard in US. _Of course there’s no legitimacy to the rumor—it’s a complete nothingburger._  
 __be game__ _Well, if that’s what you want, I’m game._  
 __be hell-bent on (something)__ To be very determined to do something, perhaps to an excessive degree. _She’s hell-bent on coming here for Thanksgiving, so we better clean the guest room._  
 __be larded with (something)__  
@@ -89,6 +91,7 @@ __be up in the air__ To be uncertain or subject to change.
 __be up to (something)__  
 __bear hug__  
 __before (one) know it__ (before we know it)  
+__bells and whistles__  
 __bend the rules__  
 __big player__ A “big player” typically refers to a person or entity that has significant influence, power, or importance in a particular field or industry. It can be used to describe someone with a lot of resources, experience, or market share, making them a key figure in a given situation or environment.  
 __bits and pieces__  
@@ -97,8 +100,10 @@ __blow one’s own horn__ (blow (one’s) own horn) To boast or brag about one�
 __blow one’s trumpet__ See _blow one’s own horn_.  
 __boo hiss__ _interjection, informal_ An expression of displeasure, disagreement, or disappointment. The comma is often omitted. _Aw, we’re not having pizza for dinner? Boo hiss._  
 __boon or bane__ Something that be may either good or bad, depending on context.  
+__boy oh boy__ An expression said when one is excited, pleased, or pleasantly surprised.  
 __break a sweat__ :dart:  
 __break ranks__  
+__break the bank__  
 __breathing space__  
 __bring about__  
 __bring to mind__  
@@ -110,9 +115,11 @@ __by any means__
 __by force__  
 __Canadian tuxedo__ (US, fashion, derogatory) An outfit consisting of denimwear for tops and bottoms, such as a jean jacket and jeans (pants).  
 __case in point__  
+__catch (the) headlines__ To be featured on the headlines of news articles, as due to being particularly important, popular, fashionable, etc. _It may not be so tremendous as to catch the headlines, but this small change in immigration law could have a huge impact on foreign workers._  
 __catch a break__  
 __catch up with (someone)__  
 __checks and balances__ :dart: Rules within a power structure that keep one person or section from becoming excessively powerful. _The founders created three separate branches of government to act as a system of checks and balances._  
+__chew on this bone__  
 __chide (one) for (something)__ To reprimand or tease one about something.  
 __close to one’s chest__  
 __cold email__ An unsolicited email sent to someone with whom the sender has no prior relationship, usually for professional or business purposes.  
@@ -152,6 +159,7 @@ __doodad__ A name for a gadget or thing whose actual name is unknown or has been
 __dooge__ _n_ Internet slang for dog; a meme about a Shiba Inu; a cryptocurrency; a proposed ‘government efficiency’ task force.  
 __doom amd gloom__  
 __doom and gloom__  
+__doomscrolling__ :dart: __1__ (informal, neologism) The practice of continually reading Internet news about catastrophic events. __2__ (by extension) Continuously and aimlessly consuming any content on social media, particularly sites that utilize a scrolling format, such as Instagram, TikTok, and Twitter.  
 __double duty__  
 __double whammy__ A situation in which two negative things happen at the same time or in rapid succession. _Jack suffered a double whammy when his car broke down the same day he lost his job._  
 __down the line__ :two: In the future.  
@@ -213,6 +221,7 @@ __feel puny__ To feel sick. _I woke up feeling puny, so I just stayed in bed all
 __first off__  
 __flip the switch__ (flip a switch) __1__ To cause a sudden and complete change: This can refer to a change in behavior, attitude, or even a situation. _He flipped the switch and suddenly became very angry._ __2__ To make something happen quickly and easily: This meaning emphasizes the ease with which the change occurs. _We just need to flip the switch to activate the new system._ __3__ To turn something on or off: This is the most literal meaning, referring to the action of physically flipping a switch. However, it can also be used metaphorically to describe starting or stopping something. _The company flipped the switch on their new marketing campaign._  
 __for the fun of it__ ((just) for the fun of it)  
+__full stop__  
 __fumble the ball__ “Fumble the ball” and “drop the ball” are similar in meaning and can often be used interchangeably. Both idioms refer to making a mistake or failing to perform a task properly, especially when it’s important or when someone misses an opportunity. However, “fumble the ball” may sometimes carry a slightly more connotative idea of clumsiness or mishandling, while “drop the ball” is more commonly used to emphasize failing to follow through or neglecting responsibility. Despite these subtle differences, they are generally understood in the same way.  
 __Galentine’s Day__ _informal_ [:scroll: Blend of _gal_ + _Valentine’s Day_, originally the title and subject of the 16th episode of the second season of the American comedy television series _Parks and Recreation_, first broadcast in 2010.] A day on which women hold a party around the time of Saint Valentine’s Day, typically on February 13.  
 __galvanize (one) into action__ To induce or cause one to start doing something.  
@@ -266,6 +275,7 @@ __if it ain’t broke, don’t fix it__ :two::hammer: (if it isn’t broke, don�
 __in a moment’s notice__  
 __in any way, shape, or form__ :two::hammer:  
 __in brief__ In summary; to say it briefly. _The film was, in brief, dull._ _If you can, please explain it in brief._ _Medical news in brief: ..._  
+__in the hope of__  
 __in the works__  
 __Jack and Jill suite__ (Jack and Jill bedroom suite) A bedroom suite composed of two bedrooms of similar size and a bathroom, where the bathroom is accessed through both bedrooms, and both bedrooms access the rest of the establishment/house/hallway.  
 __just desserts__ :dart::astonished:  
@@ -380,6 +390,7 @@ __line in the sand__ A figurative boundary that someone or some group refuses to
 __lip to lip__ :two: The idiom “lip to lip” typically refers to a kiss that involves direct contact between the lips of two people. This expression is often associated with romantic or intimate contexts, emphasizing the closeness and emotional connection between the individuals involved.  
 __liquid courage__ _slang_ The decrease in timidity or inhibition that comes from imbibing alcoholic beverages.  
 __live on a shoestring__ To live within a very tight or limited financial budget.  
+__live up to__ (something)  
 __living impaired__ Dead. (Pseudo-politically correct slang used for humorous effect.) _The boss has ordered a hit on the stool pigeon, so make sure he’s living impaired by the end of the day._  
 __loaded word__ A word that carries additional emotional weight or significance—whether positive or negative—beyond its literal meaning. _If you want to get into politics, you should always avoid using loaded words that might offend someone unintentionally._  
 __loaf about__ To waste time idly; to spend time doing little or nothing. _Chris, quit loafing about and help me take out the trash!_  
@@ -530,6 +541,7 @@ __not turn a hair__
 __not worth the paper it’s written on__ Useless; unimportant; insignificant.  
 __note so self__  
 __nothing ventured, nothing gained__ _proverb_ Risks must be taken in order to achieve anything significant or meaningful.  
+__nothingburger__ _informal_ (nothing burger) That which is, seems, or is presented as being important but turns out to be utterly insignificant or unsubstantial. Used especially in reference to politics. Primarily heard in US. _There was so much buildup surrounding his big speech, but it ended up being just another nothingburger full of meaningless, self-aggrandizing fluff._ _AI researcher John Doe, who constantly criticizes the current AI hype train, called it a “nothing burger release.”_  
 __now and then__  
 __now that I think about it__  
 __now that you’re mentioning it__  
@@ -627,6 +639,7 @@ __pave the way (for someone or something)__
 __pay top dollar__  
 __pay tribute to (someone or something)__ To do something as a way of publicly showing respect or admiration for a particular person, group, or thing. _The movie pays tribute to an old adventure serial that ran on television in the mid-1930s._  
 __penguin tuxedo__ The term “penguin tuxedo“ is often used humorously or figuratively to describe a penguin’s natural appearance, as their black-and-white plumage resembles the look of a tuxedo—a formal suit with a black jacket and white shirt.  
+__period__ Used to emphasize the finality of one’s statement, indicating that one has nothing further to add or elaborate. _I’m not going to tell you again. There is no way I am getting on that airplane—period!_  
 __pin down__  
 __play (one’s) cards close to (one’s) chest__  
 __play tag__  
@@ -655,6 +668,8 @@ __read between the lines__
 __recipe for disaster__ The phrase “recipe for disaster” refers to a situation or combination of actions that is likely to result in failure, trouble, or a negative outcome.  
 __refrain from__  
 __repro__ :dart: __1__ _n_ (informal, computing) A method for reproducing a bug or problem. _Repro steps._ __2__ _v_ (informal, computing) To reproduce (a bug or problem).  
+__rib (one)__ To tease, fool, or joke with one. _I’m just ribbing you, Tom—I’m not upset at all!_ _Sandler began by playing oblivious before appearing to become increasingly angry as O’Brien ribbed him, saying “you’re dressed like a guy playing video poker at 2 a.m.”_  
+__right off the bat__ Immediately; at once; without delay.  
 __ring a bell__  
 __ring false__  
 __ring true__  
@@ -673,6 +688,7 @@ __rush into (something)__
 __safe to say__ The idiom “safe to say” means that something can be confidently stated or assumed to be true without much doubt or risk. It’s often used to express certainty or a high degree of likelihood about a statement or situation. For example, “It’s safe to say that everyone enjoyed the party’ means that it’s very likely or certain that everyone had a good time. _It is safe to say that the goals of the meeting were successfully met._  
 __safeguard against (someone or something)__  
 __scat__ __4__ _v_ _slang_ To leave or depart very quickly; to hustle away. Often used as an imperative. _I think I hear the police coming. Let’s scat!_ _Go on, scat!_  
+__see (one) for what (one) (really) is__ To recognize one’s true identity or nature.  
 __serve notice__  
 __shipmas__  
 __shipping and handling__ The costs associated with packaging and delivering a product to the person who bought it. _Our top line of vacuum cleaners is now only $250, plus shipping and handling._  
@@ -714,6 +730,7 @@ __size up__ To make an estimate, opinion, or judgment of someone or something. _
 __skive off__ _BrE_ To absent oneself or leave early from school or work when one would normally be required to be there; to play truant. Primarily heard in UK.  
 __slam-bang__  
 __slap in the face__ Words or actions that have offended or otherwise upset someone. _It was a real slap in the face when she got promoted over me, especially after the amount of work I did on that last project._  
+__slated to__ (do something)  
 __sleazo__ :two::smiling_imp: An unpleasant, detestable, repellent person, especially one who makes lecherous advances or lewd remarks; a sleazy person. _My last manager was a total sleazo, always implying that he and I should hook up sometime._  
 __sleep in__  
 __sleep like a rock__ To experience a very deep and restful sleep; to sleep soundly.  
@@ -735,6 +752,7 @@ __snaffle up__ :dart: __1__ To quickly snatch or steal something, especially fur
 __snatch (someone) from the jaws of death__ To rescue someone at the last moment from near or certain death.  
 __snazzy__ Particularly elegant, dazzling, classy, or fancy in appearance. _Wow, that’s a snazzy new suit you’ve got on! Big meeting today or something?_ _She runs one of the snazziest clubs in town._  
 __sneak peek__  
+__sneak up (on someone or something)__  
 __snort at (someone or something)__  
 __snowball effect__ A situation in which the results or consequences of an action grow at an increasingly faster rate over time.  
 __so be it__  
@@ -855,6 +873,7 @@ __take you up on something__ See _take (one) up on (something)._
 __takedown__ :dart: _slang_ A taking down: the arrest of a suspect by a police officer. _She shot and killed two drug dealers in a takedown that went bad._  
 __talk (one’s) way out of (something)__ To use charming or persuasive speech in order to avoid something, especially punishment. _I still can’t believe you were able to talk your way out of that drunk-driving ticket._  
 __talk the talk__  
+__tall order__  
 __tangle with (someone or something)__ To fight, argue, or engage in a dispute with someone or something.  
 __tap into__ :two::hammer:  
 __tap our__  
@@ -885,6 +904,9 @@ __tie in__
 __tighten the purse strings__ To become less liberal with or more controlling of one’s expenditures; to decrease the availability of money for spending purposes. _After losing my job, I’ve had to tighten the purse strings quite a bit._  
 __till the cows come home__ See _until the cows come home._  
 __time and time again__  
+__turn the page__  
+__turn the tables__ To change or reverse something dramatically.  
+__walk of shame__  
 __walk on eggs__  
 __walk on eggshells__  
 __walk the line__  
