@@ -64,56 +64,6 @@ __all the same__
 __all told__ In total. This phrase can be applied to numerical sums or to the collective aspects of something. _I made a lot in tips this week—$300 all told._ _Yeah, it rained a lot during our vacation, but all told we had a great time._  
 __all too easy__  
 __all too soon__ The idiom “all too soon” means that something happened much earlier than expected or desired, often with a sense of regret or disappointment. It conveys the idea that an event occurred prematurely or that a positive experience ended quickly. “The holidays were over all too soon,” implies that the speaker wished the holidays had lasted longer. “Graduation came all too soon,” suggests that the speaker felt unprepared for the end of their schooling.  
-__all well and good__ :three::hammer: ((all) well and good)  
-__an uphill battle__  
-__and everything in between__ Including all the possibilities or varieties within a range. _The store sells clothes for men, women, and children, and everything in between._ _Life has its ups and downs, and everything in between._  
-__anyone’s guess__  
-__anything goes__  
-__around the clock__ ((a)round the clock)  
-__as we speak__  
-__at (one’s) convenience__ _At your convenience, Captain._  
-__at any rate__  
-__at its core__ The idiom “at its core” refers to the essential or fundamental nature of something, the most basic or important part of it. When you say something is “at its core,” you’re highlighting the central aspect that defines its true nature, beyond any surface-level characteristics or additional details.  
-__at large__  
-__at lightning speed__  
-__at the end of the day__  
-__badass__  
-__balancing act__  
-__bang for the buck__  
-__battle-hardened__  
-__be a nothingburger__ _informal_ (be a nothing burger) To seem or be presented as important but turn out to be utterly insignificant or unsubstantial. Used especially in reference to politics. Primarily heard in US. _Of course there’s no legitimacy to the rumor—it’s a complete nothingburger._  
-__be game__ _Well, if that’s what you want, I’m game._  
-__be hell-bent on (something)__ To be very determined to do something, perhaps to an excessive degree. _She’s hell-bent on coming here for Thanksgiving, so we better clean the guest room._  
-__be larded with (something)__  
-__be made of sterner stuff__ To be very strong, determined, or of uncompromising character, especially in comparison to others. _Having to take care of both of us growing up, my brother George was made of sterner stuff as a kid than anyone else I knew._  
-__be on the lookout__ To be watching for something or someone. _Be on the lookout for my email! It will have all the instructions you need for the project._  
-__be up in the air__ To be uncertain or subject to change.  
-__be up to (something)__  
-__bear hug__  
-__before (one) know it__ (before we know it)  
-__bells and whistles__  
-__bend the rules__  
-__big player__ A “big player” typically refers to a person or entity that has significant influence, power, or importance in a particular field or industry. It can be used to describe someone with a lot of resources, experience, or market share, making them a key figure in a given situation or environment.  
-__bits and pieces__  
-__blah__ __1__ _mod._ Bland; dull. _After a blah day like this I need something really exciting like a hot bath._ __2__ _mod._ Depressed; worn out. _I’m really blah. Would you mind awfully if I just went home?_ __3__ _mod._ Alcohol intoxicated; very drunk. _We are going to get totally blah tonight._  
-__blow one’s own horn__ (blow (one’s) own horn) To boast or brag about one’s own abilities, skills, success, achievements, etc. _I don‘t mean to blow my own horn, but this pasta sauce I made is quite delicious!_  
-__blow one’s trumpet__ See _blow one’s own horn_.  
-__boo hiss__ _interjection, informal_ An expression of displeasure, disagreement, or disappointment. The comma is often omitted. _Aw, we’re not having pizza for dinner? Boo hiss._  
-__boon or bane__ Something that be may either good or bad, depending on context.  
-__boy oh boy__ An expression said when one is excited, pleased, or pleasantly surprised.  
-__break a sweat__ :dart:  
-__break ranks__  
-__break the bank__  
-__breathing space__  
-__bring about__  
-__bring to mind__  
-__brood over__ To worry anxiously or be despondent about something or someone, especially at great length and in isolation. _I know you’re upset about failing your exam, but don’t brood over it all weekend._  
-__bump in the road__ A problem that arises and interferes with forward progress (usually only temporarily).  
-__by agency of__ The phrase “by agency of” means “through the action or help of” or “by means of.” It’s used to indicate that something happens because of the intervention or work of a particular person, force, or process. For example, if you say, “The decision was made by agency of the manager,” it means that the manager’s actions or influence were responsible for the decision being made.  
-__by and large__  
-__by any means__  
-__by force__  
-__Canadian tuxedo__ (US, fashion, derogatory) An outfit consisting of denimwear for tops and bottoms, such as a jean jacket and jeans (pants).  
 __case in point__  
 __catch (the) headlines__ To be featured on the headlines of news articles, as due to being particularly important, popular, fashionable, etc. _It may not be so tremendous as to catch the headlines, but this small change in immigration law could have a huge impact on foreign workers._  
 __catch a break__  
