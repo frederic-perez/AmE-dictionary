@@ -2,6 +2,7 @@
 
 Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](https://en.wikipedia.org/wiki/List_of_comedians)):
 
+- [Amber Ruffin](https://www.youtube.com/results?gl=US&search_query=Amber+Ruffin)
 - [Amy Schumer](https://www.youtube.com/results?gl=US&search_query=Amy+Schumer)
 - [Andrew Dice Clay](https://www.youtube.com/results?gl=US&search_query=Andrew+Dice+Clay)
 - [Andy Daly](https://www.youtube.com/results?gl=US&search_query=Andy+Daly)

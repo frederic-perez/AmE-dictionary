@@ -49,8 +49,10 @@ __a losing game__ A failing or hopeless effort; a situation or activity that is 
 __a matter of time__ An inevitability or eventuality; something that is or seems sure to happen at some point in the future. _With your reckless spending behavior, it’s just a matter of time before you go broke._  
 __a mile away__  
 __a new coat of paint__ The phrase “a new coat of paint” is an idiom that means giving something a fresh appearance or updating it, often to make it look more appealing or modern. It can refer to physically painting an object or structure, but it’s also used metaphorically to describe revitalizing or improving something, like a project, idea, or even a person’s style. It’s about making something look new again without necessarily changing its core essence.  
+__a no-go__  
 __a stiff upper lip__ The ability to remain stoic during difficult situations.  
 __a whole new ball game__ (a different ball game)  
+__a woman of her word__ A woman who can be expected to keep or follow through with her promises or intentions; a truthful, trustworthy, or reliable person. (Masculine: “man of his word.”) _Bob, I’m a woman of my word. If I tell you I’ll be at your house tomorrow morning at 10, then that’s when I’ll be there._  
 __abandon ship__  
 __about time__ ((it’s) (a)bout time)  
 __ace__  
@@ -64,6 +66,7 @@ __all the same__
 __all told__ In total. This phrase can be applied to numerical sums or to the collective aspects of something. _I made a lot in tips this week—$300 all told._ _Yeah, it rained a lot during our vacation, but all told we had a great time._  
 __all too easy__  
 __all too soon__ The idiom “all too soon” means that something happened much earlier than expected or desired, often with a sense of regret or disappointment. It conveys the idea that an event occurred prematurely or that a positive experience ended quickly. “The holidays were over all too soon,” implies that the speaker wished the holidays had lasted longer. “Graduation came all too soon,” suggests that the speaker felt unprepared for the end of their schooling.  
+__as of yet__  
 __case in point__  
 __catch (the) headlines__ To be featured on the headlines of news articles, as due to being particularly important, popular, fashionable, etc. _It may not be so tremendous as to catch the headlines, but this small change in immigration law could have a huge impact on foreign workers._  
 __catch a break__  
@@ -92,13 +95,14 @@ __dis__ See _diss_.
 __disabuse (someone or oneself) of (something)__  
 __discretion is the better part of valor__ _proverb_  
 __dispose of (someone or something)__  
-__diss__ :dart: (dis(s) (on someone)) To belittle [someone]; to show disrespect [for someone].  
+__diss__ :dart::two: (dis(s) (on someone)) To belittle [someone]; to show disrespect [for someone].  
 __do an about-face__  
 __do double duty__  
 __do shit__ (don’t do shit) _The cops that worked the case didn’t do shit and sure as hell aren’t going to do shit now._  
 __do the right thing__  
 __do the trick__ :two: To do, accomplish, or fulfil exactly what is needed or sought after. _The recipe calls for pancetta, but I think this regular bacon should do the trick._  
 __do-rag__ A scarf, bandana, or similar item tied around the head as a covering. A headcap that covers and protects a hairdo. _Bob says he uses that do-rag to keep his hair out of his face while he mows the lawn._  
+__dog and pony show__  
 __dollars to doughnuts__ (dollars to donuts)  
 __don’t ask me__  
 __don’t get me started__  
@@ -153,6 +157,7 @@ __fall flat__ __1__ To fail or be ineffective. _Good luck—the last time manage
 __fall into place__  
 __fall into step__ :astonished: To begin walking at the same pace as someone else. _If you don’t fall into step with us, you’ll get left behind._  
 __fall off the perch__ _BrE_ _old-fashioned, informal_ (fall off your perch) If someone falls off the perch or falls off their perch, they die. Note: A perch is a pole, branch or other place where a bird sits to rest. _He fell off the perch years ago._ Note: Other verbs such as drop or topple can be used instead of fall. _He’ll topple off his perch one morning. You know how it is._ Note: This expression is used humorously.  
+__fall short__  
 __fall to pieces__ __3__ To deteriorate or go awry.  
 __famous last words__ A statement or claim that is promptly undone or disproved. This phrase is often humorously or preemptively. A reference to the final words one says before one dies. _A: “I can’t believe the ER has been so quiet today!” B: “Ugh, famous last words for sure.”_  
 __fan the flames__  
@@ -168,14 +173,19 @@ __feel like a million bucks__ :astonished: To feel exceptionally attractive or i
 __feel like doing something__  
 __feel out__  
 __feel puny__ To feel sick. _I woke up feeling puny, so I just stayed in bed all day._  
+__feel the heat__ To encounter an uncomfortable situation.  
 __first off__  
 __flip the switch__ (flip a switch) __1__ To cause a sudden and complete change: This can refer to a change in behavior, attitude, or even a situation. _He flipped the switch and suddenly became very angry._ __2__ To make something happen quickly and easily: This meaning emphasizes the ease with which the change occurs. _We just need to flip the switch to activate the new system._ __3__ To turn something on or off: This is the most literal meaning, referring to the action of physically flipping a switch. However, it can also be used metaphorically to describe starting or stopping something. _The company flipped the switch on their new marketing campaign._  
 __for the fun of it__ ((just) for the fun of it)  
+__fork in the road__  
+__foul play__ _No sign of foul play._  
+__French leave__ (See also _Irish goodbye_.)  
 __full stop__  
 __fumble the ball__ “Fumble the ball” and “drop the ball” are similar in meaning and can often be used interchangeably. Both idioms refer to making a mistake or failing to perform a task properly, especially when it’s important or when someone misses an opportunity. However, “fumble the ball” may sometimes carry a slightly more connotative idea of clumsiness or mishandling, while “drop the ball” is more commonly used to emphasize failing to follow through or neglecting responsibility. Despite these subtle differences, they are generally understood in the same way.  
 __Galentine’s Day__ _informal_ [:scroll: Blend of _gal_ + _Valentine’s Day_, originally the title and subject of the 16th episode of the second season of the American comedy television series _Parks and Recreation_, first broadcast in 2010.] A day on which women hold a party around the time of Saint Valentine’s Day, typically on February 13.  
 __galvanize (one) into action__ To induce or cause one to start doing something.  
 __gas station heroine__ Tianeptine.  
+__gaslight__  
 __gee__ __2__ _exclam._ Wow! (An abbreviation of Jesus!, although not always recognized as such. Usually Gee!) _Golly gee, do I have to?_  
 __geek out__  
 __get a handle on (something)__ To have a firm, clear understanding or determination of something.  
@@ -188,10 +198,12 @@ __go berserk__
 __go for broke__ To give something one’s full effort. :es: y a por todas  
 __go missing__  
 __go postal__ :dart: _US informal_ [:scroll: This expression arose as a result of several recorded cases in the USA in which postal-service employees ran amok and shot colleagues] Go mad, especially from stress. Become extremely angry or start behaving in a violent and angry way. _According to one eye witness, the man ‘went postal, and started hitting his computer’_  
+__good for you__  
+__guest of honor__  
 __hit the ground running__  
 __hit the nail on the head__  
 __hit the sack__  
-__hit-and-run__ :smiling_imp:  
+__hit-and-run__ :smiling_imp::two::hammer:  
 __hiya doin’__ A colloquial pronunciation and spelling of “How (are) you doing?” Used as a friendly and informal greeting. Primarily heard in US.  
 __hiya__ An informal term of greeting.  
 __hoity-toity__ Pretentiously arrogant, haughty, or self-important. _We don’t need some hoity-toity academic coming in and telling us how to run our business!_  
@@ -223,10 +235,15 @@ __if (one’s) life depended on it__ Under any circumstances; no matter what. (U
 __if anything__  
 __if it ain’t broke, don’t fix it__ :two::hammer: (if it isn’t broke, don’t fix it)  
 __in a moment’s notice__  
+__in a pinch__ When something ideal or preferred is not available; as a substitute.  
 __in any way, shape, or form__ :two::hammer:  
 __in brief__ In summary; to say it briefly. _The film was, in brief, dull._ _If you can, please explain it in brief._ _Medical news in brief: ..._  
+__in custody__ (of someone or something)  
+__in dribs and drabs__  
+__in one’s book__  
 __in the hope of__  
-__in the works__  
+__in the works__ :two::hammer:  
+__Irish goodbye__ (See also _French leave_.) A hasty exit made without saying farewells to anybody.  
 __Jack and Jill suite__ (Jack and Jill bedroom suite) A bedroom suite composed of two bedrooms of similar size and a bathroom, where the bathroom is accessed through both bedrooms, and both bedrooms access the rest of the establishment/house/hallway.  
 __just desserts__ :dart::astonished:  
 __just like that__ :three::hammer: ((just) like this/that)  
@@ -420,6 +437,8 @@ __make the most of it__
 __make the welkin ring__ To make a very loud, reverberating sound or noise. (“Welkin” is an archaic or literary word for the skies or the heavens, only used in contemporary English as a part of this phrase.) _The candidate’s speech was drowned out as the crowd made the welkin ring with their cheers._  
 __make the world go round__ To be of critical or integral importance to the ordinary operation of life or the world at large. (Sometimes used hyperbolically.) _It’s an unavoidable truth that money and commerce make the world go round._ _I tell you, coffee made the world go round when I was in grad school!_  
 __make waves__ :three::hammer:  
+__man the fort__ To mind or take charge of a location during the time in which it is unattended by another. _Don’t worry, honey, I’ll man the fort at home until you get back from the grocery store._  
+__man up__ To deal with something in a more brave, stoic, or masculine way than one has done so hitherto. (Usually used imperatively.) _It’s just a tiny scratch! You need to man up and quit crying about it._  
 __meant to be__  
 __memento mori__  
 __memento vivere fac vitam incredibilis__ A Latin phrase that translates to “Remember to live, make an incredible life.”  
@@ -526,6 +545,7 @@ __on (one’s) radar (screen)__
 __on (one’s) watch__ :two::hammer:  
 __on (someone’s) behalf__  
 __on a daily basis__ Once or more each day.  
+__on a dime__  
 __on a lark__ On a whim or fancy; for fun or as a joke.  
 __on a mission__ :three::hammer:  
 __on a roll__  
@@ -574,6 +594,7 @@ __on the whole__ Considering everything together; in general or for the most par
 __on top of that__  
 __on your radar__ See _on (one’s) radar (screen)._  
 __on-site__  
+__one way or the other__  
 __one-up (someone)__ To make a point of outdoing, outperforming, outclassing, etc., someone. _I hate telling stories around Jack because he always tries to one-up you with some fabulous anecdote of his own._  
 __open game__ Being vulnerable or exposed to attack, criticism, or other negative consequences. _If we break the truce first, we are open game._  
 __open the floodgates__ To allow for an expanding number of (typically negative) consequences as the result of another related action.  
@@ -609,8 +630,9 @@ __pull rank (on one)__
 __push (one’s) buttons__  
 __put the brakes on (someone or something)__  
 __put the jinx on (something or someone)__ To invoke a curse upon someone or something that brings bad luck or failure.  
+__put the screws on something__  
 __put to good use__ (put (something) to good use) To use something in a way that will be beneficial or have significant results. Employ to the best advantage, as in _I’m sure this dictionary will be put to good use._  
-__quid pro quo__ :three: [:scroll: This Latin phrase means “something for something.”] A favor done for someone in exchange for a favor in return. _You wash my car, and I”ll drop off your dry cleaning—quid pro quo._  
+__quid pro quo__ :four: [:scroll: This Latin phrase means “something for something.”] A favor done for someone in exchange for a favor in return. _You wash my car, and I”ll drop off your dry cleaning—quid pro quo._  
 __race against time__  
 __race to (someone or something)__ To move, run, drive, etc., in a very hurried or frantic manner to some person, thing, or destination. _I have to race to the bank so I can deposit this check before they close._  
 __raise the ante__  
@@ -705,6 +727,7 @@ __sneak peek__
 __sneak up (on someone or something)__  
 __snort at (someone or something)__  
 __snowball effect__ A situation in which the results or consequences of an action grow at an increasingly faster rate over time.  
+__so and so__  
 __so be it__  
 __so much so that__ :three::hammer:  
 __so the story goes__ It is being said or rumored that this is the case, whether or not it is true.  
@@ -717,6 +740,7 @@ __soft spot__
 __some people__ :dart: (some people!) Expresses disapproval at the actions of a person; a disapproving response to a person doing something. An expression of disgust over the way certain people act, behave, or function in society.  
 __something of sorts__ An inferior example of a kind of something.  
 __son of a gun__  
+__soon enough__  
 __sort of__ _informal_ Used with adjectives, adverbs and verbs when something is difficult to describe or when the word you use is not exactly what you mean. _My new dress is sort of green._  
 __sort out__  
 __sound the alarm__ :two::hammer:  

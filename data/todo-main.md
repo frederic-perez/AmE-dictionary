@@ -28,6 +28,7 @@ __askew<sup>1</sup>__ _adj_ /uh-SKYOO/ Askew means “not straight” or “at a
 __askew<sup>2</sup>__ _adv_ /uh-SKYOO/ _The picture was hung askew on the cabin wall._  
 __assorted__ _adj_  
 __astute__ _adj_ /uh-STOOT/ Someone or something described as astute has or shows an ability to notice and understand things clearly. In other words, they are mentally sharp or clever. _Astute_ can also describe someone who is crafty or wily.  
+__attention economy__ _n_ The attention economy refers to the incentives of advertising-driven companies, in particular, to maximize the time and attention their users give to their product.  
 __awash__ _adj, adv_  
 __barrage__ _n_  
 __bearing__ _n_  
@@ -35,6 +36,7 @@ __beckon__ _v_
 __bevel__ _vt_ To cut at an inclination that forms an angle other than a right angle: _beveled the edges of the table._  
 __bidding__ _n_  
 __billet-doux__ _n_ (_n pl_ billets-doux) A love letter.  
+__blow fly__ _n_ (blowfly) Large usually hairy metallic blue or green fly; lays eggs in carrion or dung or wounds.  
 __blueprint__ _n_ :two::hammer:  
 __bobbin__ _n_ A winder around which thread or tape or film or other flexible materials can be wound. _Syn_spool, reel  
 __bonsai__ _n_ :two::hammer::mega:  
@@ -49,6 +51,7 @@ __call-up__ _n_ The act or an instance of summoning reserve military personnel t
 __calligraphy__ _n_  
 __campout__ _n_ /ˈkæmpˌaʊt/ A camping trip.  
 __canard__ _n_ :smiling_imp: /kuh-NARD/ __1__ An unfounded or false, deliberately misleading story. _Canard_ refers to a false report or story, or to a belief or rumor that isn’t true. __2__ It can also refer to a kind of airplane as well as to a kind of small airfoil. _The book unfortunately repeats some of history’s oldest canards._  
+__career__ _v_ /kuh-REER/ To career is to go at top speed especially in a headlong manner. _The tourists gripped their seats and exchanged anxious looks as the bus careered along the narrow roads._  
 __caretaker__ _n_ _A school caretaker._  
 __cavalier__ _adj_ :dart::astonished: /ˌkæv əˈlɪər, ˈkæv əˌlɪər/ /kav-uh-LEER/ Someone described as _cavalier_ shows no concern for important or serious matters. Cavalier also describes attitudes, manners, etc., that show the same lack of concern. _The company provides regular training about the dangers of being cavalier in sharing privileged information._  
 __cavitate__ _vi_ /ˈkævɪteɪt/ To form cavities or bubbles.  
@@ -113,6 +116,7 @@ __coy__
 __crawlway__ _n_ /ˈkrɔːlˌweɪ/ (Mining & Quarrying) A low passageway in a cave or mine that can only be negotiated by crawling.  
 __crewer__ _n_ _informal_ (informal) A member of a crew, as on a ship or spacecraft.  
 __crisis__ _n_ :mega: /ˈkraɪ sɪs/ (_n pl_ crises /ˈkraɪ siːz/)  
+__cryptic__ _adj_ /KRIP-tik/ Something described as cryptic has or seems to have a hidden meaning, or is difficult to understand.  
 __cup__ _vt_ __1__ To shape like a cup: _cup one’s hands._ _Cupping the hyperdrive levers in her hand._  
 __deliver__ _v_  
 __demagogue__ _n_ (demagog)  
@@ -128,6 +132,7 @@ __dissipation__ _n_ _Heat dissipation._
 __distil__ _v_  
 __divers__ _adj_ /DYE-verz/ Numbering more than one. _The tri-county fair offers divers amusements for the whole family._  
 __doff__ _v_ /DAHF/ To doff a hat or other piece of clothing is to take it off. _They doffed their coats when they came inside the house._  
+__doggy dog__ _adj_ Eggcorn of dog eat dog.  
 __draconian__ _adj_  
 __dreadnought__ _n_  
 __dreamlike__ _adj_ :es: de ensueño, como de sueño  
@@ -140,6 +145,7 @@ __elusive__ _adj_ :mega: /ɪˈlu sɪv/
 __emaciated__  
 __embolden__ _vt_ To foster boldness or courage in. _Syn_ encourage  
 __emo__ _adj_ (often derogatory) Emotional; sensitive.  
+__emollient__ _n_ /ih-MAHL-yunt/ An emollient is something, such as a lotion, that softens or soothes.  
 __enamel__ _n_ :mega: /ɪˈnæm əl/  
 __encroach__ _v_ /in-KROHCH/ To encroach is to gradually move or go into an area that is beyond the usual or desired limits, or to gradually take or begin to use or affect something that belongs to, or is being used by, someone else. _Encroach_ is often followed by _on_ or _upon._ _Conflicts between people and bears increase as humans continue to encroach on bear territory._  
 __encroachment__ _n_ :es: intromisión  
@@ -164,6 +170,7 @@ __fault line__ _n_
 __feisty__ _adj_ :astonished: /FYE-stee/ _Feisty_ describes someone who has or shows a lively aggressiveness especially in being unafraid to fight or argue. In some regions of the US, _feisty_ may also be used as a synonym of _fidgety_, _quarrelsome_, or _frisky_. _Even her opponents admire her feisty spirit._  
 __fester__ _v_  
 __fetishist__ _n_ One who engages in fetishism (especially of a sexual nature).  
+__fetter__ _v_ Restrain with fetters. _Syn_ shackle _My foes fettered me hand and foot and imprisoned me in a dank dungeon._  
 __feud__ _n_ :mega:  
 __fiasco__ _n_ :dart: A complete failure, esp one that is ignominious or humiliating.  
 __finagling__ _n_ :smiling_imp: /fɪˈneɪɡlɪŋ/ The use of trickery or craftiness to achieve one’s aims.  
@@ -198,7 +205,9 @@ __flinch__ _vi_ :es: estremecerse; encogerse
 __fling__ _v_ :two::hammer: (flung)  
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
 __fragile__ _adj_ :mega:  
+__grift__ _n, v_ :smiling_imp:  
 __guesswork__ _n_  
+__handmaid__  
 __hiss__ _vt_ To say something in a quiet angry way. _“Shut up, Tom!” She hissed._  
 __imperviousness__ _n_  
 __impish__ _adj_ :es: pícaro, travieso  
@@ -345,6 +354,7 @@ __macaronic__ _adj_ :astonished: __1__ Characterized by Latin words mixed with n
 __machine learning__ _n_ :mega: /məˈʃiːn ˈlɜːrnɪŋ/  
 __machtpolitik__ _n_ /MAHKHT-pol-ee-teek/ Power politics: policies that advocate the use of power and physical force to attain their goals.  
 __Madagascar__ _n_ :mega:  
+__madcap__ _adj_ Characterized by undue haste and lack of thought or deliberation. _Syn_ brainish, impetuous, tearaway, hotheaded, impulsive  
 __mage__ _n_  
 __maggot__ _n_ :two: __1__ The legless, soft-bodied, wormlike larva of any of various dipteran flies, often found in decaying matter. :es: gusano  
 __Magic Eye poster__ _n_  
@@ -356,7 +366,7 @@ __make__ _n_ :astonished:
 __malapropism__ _n_ /MAL-uh-prah-piz-um/ A malapropism is an amusing error that occurs when a person mistakenly uses a word that sounds like another word but that has a very different meaning.  
 __malcontent__ _adj, n_  
 __malevolent__ _adj_ :smiling_imp: Wishing evil or harm to another or others.  
-__malfeasance__ _n_  
+__malfeasance__ _n_ :two::hammer:  
 __mammoth__ _n_  
 __man__ _v_ _Man your ships!_  
 __mana__ _n_ /MAH-nuh/ Power, energy, force, or prestige. _A leader of great mana and influence._  
@@ -370,6 +380,7 @@ __mantic__ _adj_ Of, relating to, or having the power of divination; prophetic. 
 __mantra yoga__ _n_ A meditation practice that focuses on chanting sacred syllables along with conscious breathing and a meditative focus to quiet the mind, cultivate spiritual energy, and create states of enlightenment.  
 __mar__ _vt_  
 __marauding__ _adj_  
+__March hare__ _n_ A hare during its breeding season in March, noted for its wild and excitable behaviour (esp in the phrase _mad as a March hare_).  
 __Mardi Gras__ _n_ :mega: /ˈmɑr di ˌgrɑ, ˈgrɑ/  
 __marionette__ _n_ _Syn_ puppet  
 __marksman__ _n_  
@@ -503,7 +514,7 @@ __nominal__ _adj_ :dart: __2__ :dart: Minimal in comparison with real worth or w
 __non sequitur__ _n_ /NAHN-SEK-wuh-ter/ _We were talking about the new restaurant when she threw in some non sequitur about her dog._  
 __non-negotiable__ _adj_ :two: Not open to negotiation or discussion: _the policy is non-negotiable._  
 __non-profit-making__ _adj_ Not yielding a profit, esp because organized or established for some other reason: _a non-profit-making organization._  
-__noncommittal__ _adj_ :dart:  
+__noncommittal__ _adj_ :dart::two::hammer:  
 __nondescript__  
 __nonplus__ _v_ /nahn-PLUS/ To _nonplus_ someone is to perplex them, or in other words, to cause them to be at a loss as to what to say, think, or do.  
 __nonplussed__ _adj_ :pencil2:  
@@ -629,6 +640,7 @@ __pounce__ _v_
 __prehensile__ _adj_ :astonished: Immoderately desirous of acquiring e.g. wealth. _Syn_ avaricious, covetous, grabby, grasping, greedy  
 __presage__ _v_ :mega: /PRESS-ij/ To presage something is to give or be a sign that it will happen in the future. Presage is a formal synonym of _foreshadow_, _foretell_, and _predict._ _// The sudden gloom and ominous dark clouds clearly presaged a nasty storm._  
 __prevalent__ _adj_  
+__primed__ _adj_ (usually followed by _to_ or _for_) Prepared for use or action. On the point of or strongly disposed. _Syn_ set, fit  
 __prissy__ _adj_  
 __probity__ _n_ :dart:  
 __procedural__ _adj, n_  
@@ -804,11 +816,13 @@ __saying__ _n_
 __scam__ _n_  
 __scamper__ _n_  
 __scant__ _adj_  
+__schadenfreude__ _n_ /SHAH-dun-froy-duh/ _Schadenfreude_ refers to a feeling of enjoyment that comes from seeing or hearing about the troubles of other people. _Schadenfreude was felt by many viewers when the arrogant contestant was voted off the show._  
 __Scotch-tape__ _vt_ To fasten or mend with Scotch tape.  
 __scowl__ _v_  
 __scrap<sup>1</sup>__ _n_ __5__ :smiling_imp: A fight or scuffle. _Syn_ brawl  
 __scrap<sup>2</sup>__ _vt_  
 __scrap<sup>3</sup>__ _vi_ :smiling_imp: To fight, usually with the fists.  
+__screwworm__ _n_ The larva of the screwworm fly. The larva of a blow fly, _Cochliomyiamacellaria_, that is a pest of livestock.  
 __scruffy__ _adj_  
 __scuffling<sup>1</sup>__ _adj_ Of or relating to fighting in a disorderly manner. _Scuffling sounds._  
 __scuffling<sup>2</sup>__ _n_ The act of fighting in a disorderly manner.  
@@ -818,6 +832,7 @@ __sentient__ _adj_ :two::hammer:
 __sepulchral__ _adj_ Gruesomely indicative of death or the dead. _Syn_ charnel, ghastly  
 __settle__ _v_ /ˈsɛtəl/ __12__ (Banking & Finance) (sometimes foll by _up_) To pay off or account for (a bill, debt, etc). _He settled the bill before leaving._  
 __severance pay__ _n_ :two::hammer:  
+__severance__ _n_  
 __shamble<sup>1</sup>__ _vi_ :dart: To walk or move along in an awkward or unsteady way.  
 __shamble<sup>2</sup>__ _n_ An awkward or unsteady walk.  
 __sharp__ _adj_ __6__ Vigilant; alert: _kept a sharp lookout for shoplifters._ _Stay sharp._  
@@ -827,6 +842,7 @@ __shoulder__ _v_
 __shuffle__ _v_ __6__ (when _vi_, often foll by _into_ or _out of_) to move or cause to move clumsily: _he shuffled out of the door._ _He shuffled his way out of the room._  
 __sibylline__ _adj_ Resembling or characteristic of a prophet or prophecy. _Syn_ divinatory, mantic, vatic  
 __sic__ _vt_ :dart: __1__ To turn on or attack: used only in commands, as to a dog. __2__ To urge (a dog) to attack. To urge or incite to hostile action; set: _sicced the dogs on the intruders._  
+__sideline__ _v_  
 __sidle<sup>1</sup>__ _vi_  
 __sidle<sup>2</sup>__ _vt_  
 __sidle<sup>3</sup>__ _n_ __1__ An unobtrusive, furtive, or coy advance. __2__ A sideways movement.  
@@ -872,11 +888,13 @@ __superfluous__ _adj_ /soo-PER-floo-us/ Superfluous is a formal word used to des
 __thunderclap__ _n_  
 __transmigrate__ _v_ Be born anew in another body after death. _Syn_ reincarnate  
 __transpire__ _v_ :astonished /tran-SPYRE/ _Transpire_ is a formal verb that means “to happen,” or in other words “to take place or occur.” It can also mean “to come to light” or “to become known,” as in “It transpired that they had met previously.” In botany, to transpire is to give off or exude watery vapor especially from the surfaces of leaves.  
+__trounce__ _v_ Come out better in a competition, race, or conflict. _Syn_ beat, vanquish, crush, shell _Australia trounced France by sixty points to four._  
 __unwieldy__ _adj_ :astonished: _The suddenly unwieldy craft._ :es: difícil de manejar; rígido  
 __upfold__ _vt_ To fold up.  
 __vaunted__ _adj_ :dart: Praised more than deserved. _Vaunted Jedi Master Luke Skywalker._  
 __war story__ _n_ A story of a memorable personal experience typically involving an element of danger, hardship, or adventure. _Politicians swapping war stories from past campaigns._  
 __warhorse__ _n_ (war horse)  
+__watchdog__ _n_ :mega:  
 __waterboarding__ _n_ __1__ An interrogation technique, widely considered a form of torture, in which a person is restrained, usually by being strapped to a board with the feet higher than the head, and immersed in or doused with water to the point of drowning.  
 __whet__ _v_  
 __whetstone__ _n_  
@@ -887,6 +905,7 @@ __wide-eyed__ _adj_ :dart: __2__ Innocent; credulous. _Luke was a wide-eyed kid.
 __wince__ _v_ :three::hammer:  
 __winch__ _vt_ To pull (in a rope) or lift (a weight) using a winch.  
 __wingmate__ _n_  
+__winter weather advisory__ _n_  
 __wizardry__ _n_ /ˈwɪz ər dri/ The art, skill, or accomplishments of a wizard. :es: hechicería; brujería  
 __woe__ _n_  
 __woke__ _adj_  
