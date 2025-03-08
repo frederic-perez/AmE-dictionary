@@ -2762,7 +2762,7 @@ __buy out__ _v_
 __buy__ _v_ __5__ _informal_ To accept the truth or feasibility of: _The officer didn’t buy my lame excuse for speeding._ _I didn’t buy his explanations._  
 __buy-in__ _n_ :three: Acceptance of and willingness to actively support and participate in something (such as a proposed new plan or policy). _Without buy-in from his troops, Gruden’s just another tuned-out coach._ _He has tried different tactics to accelerate the buy-in._  
 __buybacks__  
-__buyout__ _n_ :nine: The purchase of a controlling share in a company, especially by its own managers (also _management buyout_). _Offering buyouts in an effort to cut 750 civilian workers from its payroll._ _He worked until he took one of the early buyouts._  
+__buyout__ _n_ :nine::m: The purchase of a controlling share in a company, especially by its own managers (also _management buyout_). _Offering buyouts in an effort to cut 750 civilian workers from its payroll._ _He worked until he took one of the early buyouts._ _A buyout offer._  
 __buzz cut__ _n_ :dart: A closely cropped haircut.  
 __buzz<sup>1</sup>__ _n_ :three::hammer: _The buzz is really high now._  
 __buzz<sup>2</sup>__ _v_ :three::hammer: _Sending submarines to buzz Europe._ _For 12 years the spacecraft has been buzzing about Saturn._  
@@ -2841,7 +2841,7 @@ __caducous__ _adj_ :two: /kuh-DOO/DYOO-kuhs/ Tending to fall easily or before th
 __cafeteria__ _n_ :mega: /kăf′ĭ-tîr′ē-ə/  
 __caffè Americano__ _n_ (often just an Americano) A shot of espresso with two shots of water. It’s popularly said that it was named for the American GIs in Europe during World War II, who couldn’t handle the intensity of Italian espresso. They’d dilute it with water to make the taste more palatable.  
 __caffè macchiato__ _n_ The name macchiato comes from the Italian word _macchiare_, which means “to stain or spot.” So essentially, a caffè macchiato is a stained (or spotted) coffee.  
-__caffeine__ _n_ (caffein) _The command center houses very smart people with short attention spans who are low on sleep and high on caffeine._  
+__caffeine__ _n_ :two::hammer::mega: (caffein) _The command center houses very smart people with short attention spans who are low on sleep and high on caffeine._  
 __caftan__ _n_ :four::hammer: (caftans)  
 __cagey__ _adj_ :dart::five: __1__ Wary; careful: _a cagey avoidance of a definite answer._ _Pam tried to play it cagey._ __2__ Crafty; shrewd: _a cagey lawyer._ Showing self-interest and shrewdness in dealing with others. _Syn_ canny, clever _The jurors saw right through the cagey lawyer’s attempt to divert their attention away from the evidence._  
 __cagily__ _adv_  
@@ -2879,10 +2879,11 @@ __call out<sup>1</sup>__ _n_ :two::hammer:
 __call out<sup>2</sup>__ _v_ :nine: (call someone out) __1__ To order or request to assemble or arrive somewhere; summon: _call out the guard._ _The National Guard was called out when the governor declared a state of emergency._ __2__ Utter aloud; often with surprise, horror, or joy. _Spike Lee called out Hollywood for lacking diversity._ __3__ Challenge to a duel. _Aaron Burr called out Alexander Hamilton._ _It was real weird to have someone call you out._  
 __call the shots__  
 __call to action__  
+__call-up__ _n_ The act or an instance of summoning reserve military personnel to active service. _A new military call-up._  
 __call<sup>1</sup>__ _n_ :nine: __1__ A decision or judgement. _It’s your call._ _It would’ve been a difficult call to eject Landry._ _Adam made a deal with starter Anderson: Gain at least 4 yards, and he’d call another run play._ _It was a very questionable call._ __5__ Demand: _There isn’t much call for buggy whips today._  
 __call<sup>2</sup>__ _v_ :five::hammer: _Allen has called Oregon games for 29 years._ _The group calls on its members to consider the risks._ _Shi and Zhou call Dayton Flyers games in Mandarin Chinese._ _Union calls off strike in Brazil before Cup._  
 __callback__ _n_ :three: __1__ A recall of a recently sold product by the manufacturer to correct a defect. _Syn_ recall _The manufacturer was forced to issue a callback of the toy when it was declared a choking hazard._ __2__ A second or follow-up audition, especially as one of a set of such auditions for a role in a play. _That was a callback to a previous episode._  
-__calligraphy__ _n_ [:scroll: French calligraphie, from Greek kalligraphiā, beautiful writing]  
+__calligraphy__ _n_ :two::hammer: [:scroll: French calligraphie, from Greek kalligraphiā, beautiful writing]  
 __calling card__  
 __calling hours__  
 __calling__ _n_ :six: (callings) __1__ A strong inner urge to follow an occupation, etc; vocation. _She served in many callings._ _She did it in response to an inner calling._ __2__ An occupation, profession, or trade. _He served in many callings for the LDS Church._  
@@ -2921,13 +2922,14 @@ __camphor__ _n_ :two::hammer:
 __campier__ _adj_ _Campier presentations._  
 __campiest__ _adj_ _Birdcage was probably Nichol’s campiest comedy._  
 __campiness__ _n_ _Showbiz campiness._  
+__campout__ _n_ /ˈkæmpˌaʊt/ A camping trip.  
 __campsite__ _n_  
 __campy__ _adj_ _A campy biopic._  
 __can__ _v_ :two::hammer: _Butler canned a long 3-pointer._  
 __can-opener__  
 __Canadian Mounties__ _n_  
 __canapé__ _n_  
-__canard__ _n_ :two: An unfounded or false, deliberately misleading story.  
+__canard__ _n_ :smiling_imp::three: /kuh-NARD/ __1__ An unfounded or false, deliberately misleading story. _Canard_ refers to a false report or story, or to a belief or rumor that isn’t true. __2__ It can also refer to a kind of airplane as well as to a kind of small airfoil. _The book unfortunately repeats some of history’s oldest canards._  
 __canary__ _n_ :two: From French canari (canary), from Spanish canario (canary; of the Canary Islands), from Latin canis (dog). The Canary Islands are named after an animal, but it’s not canaries. It’s dogs. The island’s name is, literally, the Island of the Dogs, from Latin Canariae Insulae, supposedly named after large dogs found there. The canary birds are native to the area and are named after the islands. The yellow sense is after the birds, the singer sense is named after their singing, and finally, the informer sense developed because an informer sings or squeals. The canary has also given us the idiom “canary in the coal mine” to refer to something that gives an early warning of a danger or failure. Due to their small size, canaries are more susceptible to carbon monoxide and other dangerous gases and were carried by coal miners in the mine shafts. __1__ A small finch, native to the Canary Islands, having greenish to yellow color, and known for its melodious song. __2__ A bright yellow color. __3__ A singer. _He enjoyed a close friendship with the MGM canary Kathryn Grayson, with whom he starred in Show Boat._ __4__ An informer. _The two high-ranking mobsters were named in a 39-count indictment in Brooklyn federal court yesterday, which made use of wiretaps and the recordings of a canary who is working with the government._ _Syn_ stool pigeon, fink, snitch  
 __canasta__ _n_ :two: A card game similar to rummy and played using two packs, where the object is to meld groups of the same rank.  
 __Canberra__ _n_ :mega: /ˈkæn bɛr ə, -bər ə/  
@@ -3042,12 +3044,12 @@ __cardioplegia__ _n_ /ˌkɑːdɪəʊˈpliːdʒɪə/ Deliberate arrest of the act
 __careen__ _v_ :nine::m::camera: __1__ Move sideways or in an unsteady way. _Syn_ wobble, tilt, shift _The ship careened out of control in the storm._ __2__ _(nautical)_ To heave a ship down on one side so as to expose the other, in order to clean it of barnacles and weed, or to repair it below the water line. __3__ _(nautical)_ To tilt on one side. __4__ To lurch or sway violently from side to side. _An open-air tour bus careened wildly out of control._ __5__ To tilt or lean while in motion. __6__ To career, to move rapidly straight ahead.  
 __career ladder__ _n_  
 __career suicide__  
-__career__ _v_ :astonished: /kuh-REER/ To go at top speed in a headlong manner. _The tourists gripped their seats and exchanged anxious looks as the bus careered along the narrow roads._  
+__career__ _v_ :astonished::two: /kuh-REER/ To go at top speed in a headlong manner. _The tourists gripped their seats and exchanged anxious looks as the bus careered along the narrow roads._  
 __carefree__ _adj_ :two::hammer:  
 __carefully__ _adv_ _It pays to consider his words carefully._  
 __caregiver__ _n_  
 __caresses__ _v_  
-__caretaker__ _n_ :three::hammer: __2__ _(modifier)_ Holding office temporarily; interim: _a caretaker government._  
+__caretaker__ _n_ :four::hammer: __2__ _(modifier)_ Holding office temporarily; interim: _a caretaker government._ _A school caretaker._  
 __cargo pants__  
 __cargo-pocket__ _n_ (cargo pocket) _A nice cargo-pocket handbook._  
 __caribou__  
@@ -3211,13 +3213,15 @@ __cautionary tale__ _n_ :two::hammer:
 __cautious__ _adj_ :mega: /ˈkɔ ʃəs/  
 __cautiously__ _adv_ _Consume alcohol cautiously as it has more effect at ski area altitudes._  
 __cavalcade__ _n_ :three: /kav-ul-KAYD/ Cavalcade refers to a series or procession of usually related things. It can also be used specifically for a procession of riders or carriages, or vehicles or ships. _A cavalcade of bribes._  
-__cavalier<sup>1</sup>__ _adj_ :astonished: __1__ Showing arrogant or offhand disregard; dismissive: a cavalier attitude toward the suffering of others. __2__ Carefree and nonchalant; jaunty.  
+__cavalier<sup>1</sup>__ _adj_ :dart::astonished::three: /ˌkæv əˈlɪər, ˈkæv əˌlɪər/ /kav-uh-LEER/ __1__ Showing arrogant or offhand disregard; dismissive: a cavalier attitude toward the suffering of others. Someone described as _cavalier_ shows no concern for important or serious matters. _The company provides regular training about the dangers of being cavalier in sharing privileged information._ __2__ Carefree and nonchalant; jaunty. Cavalier also describes attitudes, manners, etc., that show the same lack of concern.  
 __cavalier<sup>2</sup>__ _n_ __1__ A gallant or chivalrous man, especially one serving as escort to a woman of high social position; a gentleman. __2__ A mounted soldier; a knight.  
 __cavalry__ _n_ :two: __1__ A highly mobile army unit using vehicular transport, such as light armor and helicopters. __2__ Troops trained to fight on horseback.  
 __cave__ _v_ :six: (caved) Short for cave in below. _The tunnel walls cave in._ _The FAA caved._ _Syn_ Collapse, fall in, give, give way, crumble  
 __caveat emptor__  
 __caveat__ _n_ :five: /KAV-ee-aht/ A _caveat_ is an explanation or warning that should be remembered when you are doing or thinking about something. In legal contexts, _caveat_ refers to a notice to a court or judicial officer to suspend a proceeding until the opposition can be heard.  
 __cavil__ _adj, n_  
+__cavitate__ _vi_ /ˈkævɪteɪt/ To form cavities or bubbles.  
+__cavitation__ _n_  
 __cavity__ _n_ :es: caries  
 __cavort__ _vi_ :eight::hammer: (cavorted, cavorting) _Animals cavorting._  
 __caw<sup>1</sup>__ _n_ :two: (caws) The hoarse raucous sound that is characteristic of a crow or similar bird. _A rattling caw._  
@@ -3261,7 +3265,7 @@ __cerebrate__ _v_ (usually facetious) To use the mind; think; ponder; consider.
 __cerebritis__ _n_ /ˌsɛrɪˈbraɪtɪs/ An infection or inflammation of the brain.  
 __Ceroc__ _n_ /səˈrɒk/ (Dancing) _trademark_ A form of dance combining elements of jive and salsa.  
 __certainly__ _adv_  
-__cerulean<sup>1</sup>__ _adj_ :five: /suh-ROO-lee-un/ /suh-ROO-lee-uhn/ Sky blue. Of a deep somewhat purplish blue color similar to that of a clear October sky. _Cerulean basins and Marco Polo blue lips and splash fights._ _The painting depicts autumnal trees bordering a cerulean lake._  
+__cerulean<sup>1</sup>__ _adj_ :six: /suh-ROO-lee-un/ /suh-ROO-lee-uhn/ Sky blue. Of a deep somewhat purplish blue color similar to that of a clear October sky. _Cerulean basins and Marco Polo blue lips and splash fights._ _The painting depicts autumnal trees bordering a cerulean lake._  
 __cerulean<sup>2</sup>__ _n_ :two: A light shade of blue.  
 __cerumen__ _n_ A soft yellow wax secreted by glands in the ear canal. _Syn_ earwax _A buildup of cerumen was irritating Billy’s ear, so his mother gently cleaned the area with a cotton swab._  
 __cesarean<sup>1</sup>__ _adj_  
@@ -3351,8 +3355,9 @@ __chasm__ _n_ :nine::m: __1__ A deep, steep-sided opening in the earth’s surfa
 __chassis__ _n_ :two::hammer:  
 __chasten__ _v_ :two: /CHAY-sun/ To chasten someone is to cause them to feel sad or embarrassed about something that has happened, or in other words, to make them feel more humble or restrained. Censure severely.  
 __chastened__ _adj_ :two: Subdued; humbled.  
-__chastening__ _n_ A rebuke for making a mistake.  
-__chastise__ _v_ :three: /chass-TYZE/ (chastize) Censure severely. _Syn_ castigate, chasten, objurgate, correct _She chastised him for his insensitive remarks about her weight until he was the one crying._  
+__chastening<sup>1</sup>__ _adj_ Humbling.  
+__chastening<sup>2</sup>__ _n_ A rebuke for making a mistake.  
+__chastise__ _v_ :four: /chass-TYZE/ (chastize) Censure severely. To chastise someone is to criticize them harshly for doing something wrong. _The waiter was chastised for forgetting the customer’s order._ _Syn_ castigate, chasten, objurgate, correct _She chastised him for his insensitive remarks about her weight until he was the one crying._  
 __chastisement__ _n_  
 __chastize__  
 __chasuble__ _n_ :two::hammer:  
@@ -3370,16 +3375,20 @@ __cheat code__ _n_ __2__ A ploy or technique that bypasses traditional methods o
 __cheat__ _n_  
 __check in__ _v_  
 __check something out__  
-__check__ _v_ :six::hammer: _Check your ego at the door._ _With a few extra bucks to check a bag, you can avoid stress._ _Point checked._ _With a few extra bucks (to check a bag) you can avoid stress._ _If you do decide to check a bag, never pack items like medicine or valuables._  
+__check<sup>1</sup>__ _n_  
+__check<sup>2</sup>__ _vt_ :dart::six::hammer: __2a__ To arrest or slow the motion or progress of: _checked the flow by shutting a valve._ __b__ To hold in restraint; curb: _check an impulse to laugh._ _Syn_ restrain _Check your ego at the door._ _With a few extra bucks to check a bag, you can avoid stress._ _Point checked._ _With a few extra bucks (to check a bag) you can avoid stress._ _If you do decide to check a bag, never pack items like medicine or valuables._  
+__check<sup>3</sup>__ _vi_  
 __checker<sup>1</sup>__ _v_ _Checkered history._  
 __checker<sup>2</sup>__ _n_ A cashier in a supermarket.  
 __checkers__ _n_ :es: damas  
-__checklist__ _n_ :pencil2:  
+__checklist__ _n, vt_ :two::hammer::pencil2: /ˈtʃɛkˌlɪst/  
 __checkmate__ _n_ _Checkmate comes from Arabic and Persian shat mat, or “the king is dead.”_  
+__checkout line__ _n_ A queue of people waiting to pay for purchases.  
 __checkup__ _n_ :two::hammer:  
 __cheek__ _n_ __2__ _informal_ Impudence; effrontery.  
 __cheekbone__ _n_  
 __cheekier__  
+‌__cheekily__  
 __cheeky__  
 __cheerfully__  
 __cheese corn__ _n_  
@@ -3393,6 +3402,7 @@ __cheeseparing<sup>2</sup>__ _adj_ __1__ Meanly economical. __2__ Insignificant;
 __cheesy__ _adj_ :four::hammer:  
 __chef__ _n_ A cook, especially the chief cook of a large kitchen staff. _Your dinner is cooked by your own chef in front of you._  
 __chemist__ _n_ __1__ A scientist specializing in chemistry. __2__ _Chiefly British_ A pharmacist.  
+__chemistry set__ _n_ An educational toy allowing the user (typically a teenager) to perform simple chemistry experiments.  
 __chemistry__ _n_ :two::mute:[c~~h~~emistry] __4__ Mutual attraction or sympathy; rapport: _The chemistry was good between the partners._  
 __chemoinformatics__  
 __chemtrail__ _n_ :camera:  
@@ -3403,7 +3413,7 @@ __cherry blossoms__ _n_
 __cherry bomb__ _n_ :camera: A red, ball-shaped firecracker that explodes with a loud bang.  
 __cherry pick__ _v_ (cherrypick)  
 __cherry picker__ _n_  
-__cherub__ _n_ /CHER-uhb/ [:scroll: From Latin cherubim, from Greek kheroubin, from Hebrew kerubim. Ultimately from the Semitic root krb (to praise).] A person, especially a child, with a sweet innocent appearance.  
+__cherub__ _n_ :two: /ˈtʃɛr əb/ /CHER-uhb/ [:scroll: From Latin cherubim, from Greek kheroubin, from Hebrew kerubim. Ultimately from the Semitic root krb (to praise).] A person, especially a child, with a sweet innocent appearance.  
 __cherubic__ _adj_ /chuh-ROO-bik/ Having a sweet, innocent appearance.  
 __chestnut__ _n_ :five::mute:[ches~~t~~nut]:hammer: _He uttered memorable chestnuts._  
 __chevachee__ _n_ /shuh-vuh-CHEE/SHAY/ [:scroll: From French chevauchée (ride), from cheval (horse), from Latin caballus (horse)] An expedition, raid, or campaign.  
@@ -3428,14 +3438,14 @@ __chicken run__
 __chicken wire__ _n_ :two::hammer:  
 __chickenpox__ _n_ Also called varicella. An acute contagious disease, primarily of children, that is caused by the varicella-zoster virus and characterized by skin eruptions, slight fever, and malaise. _She got a case of chickenpox._  
 __chickpea__ _n_ :three::hammer: (chickpeas) _A handful of chickpeas._ :es: garbanzo  
-__chide__ _v_ :nine: __1__ To rebuke or scold. __2__ (tr) To goad into action. _We chided the Pentagon._  
+__chide__ _v_ :dart::nine::m: __1__ To rebuke or scold. __2__ (tr) To goad into action. _We chided the Pentagon._  
 __chief<sup>1</sup>__ _adj_  
 __chief<sup>2</sup>__ _n_ :two::hammer: /tʃiːf/ /tʃif/ (chiefs)  
 __chieftain__ _n_  
 __chiffon__ _n_ :two::hammer: _Try the heavenly lemon chiffon cake._  
 __chiffonier__ _n_ A narrow high chest of drawers or bureau, often with a mirror attached. _Syn_ commode  
 __chignon__ _n_ A roll of hair worn at the nape of the neck. :es: moño  
-__chilblain__ _n_ :five::mega: /ˈtʃɪl bleɪn/ (usually childblains) An inflammatory swelling or sore caused by exposure (as of the feet or hands) to cold.  
+__chilblain__ _n_ :six::mega: /ˈtʃɪl bleɪn/ (usually childblains) An inflammatory swelling or sore caused by exposure (as of the feet or hands) to cold.  
 __child rearing__ _n_ The process of taking care of and raising children. _Her husband is actively involved in child-rearing._  
 __child’s play__ _n_ _informal_ :two: Something that is easy to do. _It’s a child’s play._  
 __childbirth__  
@@ -3445,7 +3455,7 @@ __chiliad__ _n_ /KIL-ee-ad/ __1__ A period of a thousand years. __2__ A group of
 __chillingly__ _adv_ _His prediction of mass murder of Tutsis proved chillingly accurate._  
 __chime in__ _phr v_ :four::hammer:  
 __chime__ _v_ :three::hammer: _Everybody chimes into a discussion._  
-__chimera__ _n_ :three::hammer: /kye-MEER-uh/  
+__chimera__ _n_ :four::hammer::mega: /kye-MEER-uh/  
 __chimeric__ _adj_ /KY/KI-mer-ik/ [:scroll: After Chimera, a fire-breathing female monster in Greek mythology who had a lion’s head, a goat’s body, and a serpent’s tail.] __1__ Made up of parts that are very different. __2__ Fanciful; imaginative; illusory.  
 __chimichanga__  
 __chin-up__ _n_ :two: (gimnastics; also known as a chin or chinup) The act or an instance of chinning oneself, practiced especially as a fitness exercise. Also called pull-up.  
@@ -3483,7 +3493,7 @@ __chit chat__
 __chit__ _n_  
 __chit-chat<sup>1</sup>__ _n_ :two: (chit chat) An informal conversation about things that are not important.  
 __chit-chat<sup>2</sup>__ _v_  
-__chitinous__ _adj_  
+__chitinous__ _adj_ :two: Of or resembling chitin.  
 __chitterlings__ _n_ The small intestines of pigs, especially when cooked and eaten as food. _Duck with roast chitterlings._  
 __Chiuaua__  
 __chivalry__ _n_ :five::hammer: /SHIV-ul-ree/  
@@ -3494,14 +3504,15 @@ __chlorophyll__ _n_ :four::pencil2::hammer:
 __chockablock__ _adj_ /CHAH-kuh-blahk/ Something described as chockablock is very full or tightly packed.  
 __chocolate bar__ _n_  
 __chocolate-box__ _adj_ Excessively decorative and sentimental, like the pictures on some boxes of chocolate candy.  
+__chocolatey__ _adj_ :two: /ˈtʃɑːkləti/ /ˈtʃɔːkləti/ (chocolaty) __1__ Made of or like chocolate. __2__ Having a rich chocolate flavor.  
 __choice__ _v_ _Pick your choice._  
-__choir__ _n_ :mega:  
+__choir__ _n_ :two::hammer::mega: /kwaɪər/ /kwahyuhr/  
 __choirboy__ _n_ :pencil2:  
 __choke hold__ _n_ A restraining hold; someone loops the arm around the neck of another person in a tight grip, usually from behind.  
 __choke<sup>1</sup>__ _n_ :two::hammer: _A team of choke artists._  
 __choke<sup>2</sup>__ _v_ _Why do we choke under pressure?_  
 __chokehold__ _n_ :two: __1__ The act of holding a person’s neck across the windpipe, esp from behind using one arm. A restraining move in which one person seizes another around the neck in a tight grip, typically from behind. _Right now, Big Tech has a chokehold on AI._ __2__ Complete power or control: _the chokehold the mob has had on the town._  
-__choker__ _n_ _A velvet choker._  
+__choker__ _n_ :two::hammer: _A velvet choker._  
 __cholecystectomy__ _n_  
 __choler__ _n_ __1__ An irritable petulant feeling. _Syn_ crossness, fretfulness, fussiness, peevishness _I felt quite amused at his unwarranted choler, and while he stumped indignantly up and down I fell to dwelling upon the romance of the fog._ __2__ A strong emotion; a feeling that is oriented toward some real or supposed grievance. _Syn_ anger, ire  
 __chomp__ _v_ :two::hammer: _He chomped his cigar._  
@@ -3515,8 +3526,8 @@ __chops__ _n informal_ :eight: A person’s or animal’s mouth or jaws. _Acting
 __chord__ _n, v_ :mute:[c~~h~~ord]  
 __chorea__ _n_  
 __choreography__ _n_ :mute:[c~~h~~oreography]  
-__chortle<sup>1</sup>__ _n_ A snorting, joyful laugh or chuckle.  
-__chortle<sup>2</sup>__ _v_ :seven: (chortled, chortles) To utter a chortle or express with a chortle.  
+__chortle<sup>1</sup>__ _n_ :two: A snorting, joyful laugh or chuckle.  
+__chortle<sup>2</sup>__ _v_ :eight: (chortled, chortles) To utter a chortle or express with a chortle.  
 __chorus__ _n, v_ :mute:[c~~h~~orus] /ˈkɔr əs, ˈkoʊr-/  
 __chouse<sup>1</sup>__ _n_ __1__ A person who deceives, defrauds, or tricks. __2__ A deception or trick.  
 __chouse<sup>2</sup>__ _v_ __1__ To deceive, defraud, or trick (a person). _Syn_ chicane, jockey, cheat, shaft, screw __2__ To worry or badger.  
@@ -3530,6 +3541,7 @@ __Christian__ _adj, n_ :mute:[C~~h~~ristian]
 __Christmas fly__  
 __Christmas stocking__ _n_ A stocking hung up by children on Christmas Eve for Santa Claus to fill with presents.  
 __Christmas__ _n_ :three::hammer::mute:[C~~h~~istmas] [:scroll: From the Old English Cristes mǣsse, meaning “Mass of Christ”]  
+__Christmastide__ _n_  
 __Christmastime__ _n_ :two: The Christmas season.  
 __chrome<sup>1</sup>__ _n_  
 __chrome<sup>2</sup>__ _v_ /kroʊm/  
@@ -3553,6 +3565,7 @@ __chum__ _n_ :five: (chums) __1__ An intimate friend or companion. _Two college 
 __chummy__ _adj_ _informal_ Associated on close terms. _Syn_ buddy-buddy, thick _The bartender is chummy with his regular customers._  
 __chump__ _n_ :three: A stupid person, especially a dupe; sucker.  
 __chunk__ _n_ _Nine chunks of cheese._  
+__chunky__ _adj_ Short and thick; stocky. _Syn_ low-set, squat, squatty, stumpy, dumpy  
 __churl__ _n_ :three: __1__ A rude, boorish person. _Syn_ boor, barbarian _He is a drunken, brawling, perilous churl, as you may find to your cost._ __2__ A miserly person. __3__ A peasant.  
 __churlish__ _adj_ :two: /CHUR-lish/ Churlish is a formal word that means “irritable and rude.”  
 __churn out__ _phr v_ To produce in an abundant and regular manner: _churns out four novels a year._  
@@ -3564,8 +3577,8 @@ __churrigueresque__ _adj_ Of or relating to a style of baroque architecture of S
 __churro__ _n_ /ˈtʃuːrəʊ/  
 __chute__ _n_ :four: __2__ (Individual Sports, other than specified) A steep slope, used as a slide as for toboggans.  
 __Chutes and Ladders__ _n_  
-__chutney__ _n_ :two: (chutneys) A cold food made from fruit, spices, and vinegar, eaten with meat or cheese.  
-__chutzpah__ _n_ :two: (chutzpa) Shameless boldness; brazen nerve; gall.  
+__chutney__ _n_ :three: (chutneys) A cold food made from fruit, spices, and vinegar, eaten with meat or cheese. :es: salsa picante de frutas y especias  
+__chutzpah__ _n_ :three: /KHOOTS-puh/ (chutzpa) _Chutzpah_ is shameless or disrespectful boldness often paired with reckless self-confidence. Someone with chutzpah dares to do or say things that seem shocking to others. Shameless boldness; brazen nerve; gall. _It took a lot of chutzpah to stand up to her boss the way she did._  
 __chyron__ _n_ :dart::two: A graphic that is digitally superimposed over the lower portion of a broadcast television image or a video frame, often in the form of a banner of scrolling text providing supplementary information or of an animated graphic designed to attract the viewer’s attention.  
 __cicatrix__ _n_ A scar left by the formation of new connective tissue over a healing sore or wound. _Syn_ scar  
 __Ciceronian__ _adj_  
@@ -3585,14 +3598,14 @@ __cinephile__ _n_ :mega:
 __cineplex__ _n_ _Sequels ruled the cineplex this weekend._  
 __cinnamon bun__ _n_ Rolled dough spread with cinnamon and sugar (and raisins) then sliced before baking.  
 __cinnamon roll__  
-__cipher<sup>1</sup>__ _n_ (cypher)  
+__cipher<sup>1</sup>__ _n_ :two: (cypher) __3__ One having no influence or value; a nonentity. A person of no influence. _Syn_ nobody, nonentity _He was a cipher in the estimation of the public, and nobody attached any importance to what he thought or did._  
 __cipher<sup>2</sup>__ _v_ (cypher) _They often cipher._  
 __ciphertext__ _n_ A message which has been transformed by a cipher so that it can be read only by those privy to the secrets of the cipher.  
 __circa__ _prep_ :two::hammer:  
 __circadian__ _adj_ :four::hammer:  
 __circlet__ _n_ :two::hammer: _A circlet of red-hot iron._ _A jeweled circlet._  
 __circuit__ _n_ :two::mute:[circ~~u~~it]:hammer: _Chester retains the full circuit of its ancient defensive walls._  
-__circuitous__ _adj_ :two: Being or taking a roundabout, lengthy course. _Syn_ roundabout _He prided himself on his sense of direction, so Jane refrained from mentioning that the route he had chosen was circuitous and unnecessarily long._  
+__circuitous__ _adj_ :three: /ser-KYOO-uh-tus/ Being or taking a roundabout, lengthy course. _Syn_ roundabout _He prided himself on his sense of direction, so Jane refrained from mentioning that the route he had chosen was circuitous and unnecessarily long._  
 __circuitry__ _n_ :two: __3__ The brain’s neural network.  
 __circumambulate__ _v_ :pencil2:  
 __circumcircle__  
@@ -3609,6 +3622,7 @@ __cisgender__ _n_
 __Cistercian__ _n_ :pencil2: A member of a contemplative monastic order founded by reformist Benedictines in France in 1098. _Cistercian monks._  
 __cistern__ _n_ :three::hammer: _More than a hundred households depend on cisterns and wells._  
 __citadel__ _n_ :three::hammer: _This glass citadel of capitalism._  
+__citizen__ _n_ /ˈsɪt ə zən, -sən/  
 __citizenry__  
 __citrine__ _adj, n_ /ˈsɪ trin, -traɪn, sɪˈtrin/  
 __City__ _n_ :two: Short for City of London.  
@@ -3620,7 +3634,7 @@ __clad__ _v_ _A scantily clad spider._
 __claddagh__ _n_  
 __cladding__ _n_ __1__ The act or process of bonding one metal to another, usu. to protect the inner metal from corrosion. __2__ Metal bonded to an inner core of another metal. :es: revestimiento  
 __claim__ _v_ _The White Sox claimed the 2005 title._  
-__claimant__ _n_ :three::hammer: :es: demandante; solicitante  
+__claimant__ _n_ :dart::four: /ˈkleɪmənt/ __1__ A person who makes a claim. __2__ _(Law)_ A person who brings a civil action in a court of law. Formerly called: plaintiff :es: demandante; solicitante  
 __clairvoyance__ _n_ :two: Apparent power to perceive things that are not present to the senses. _Syn_ ESP, extrasensory perception, second sight _The police officer doubted my clairvoyance until I was able to lead him to the missing woman’s remains._  
 __clairvoyant<sup>1</sup__ _adj_ :three: Having the supposed power to see objects or events that cannot be perceived by the senses. _Syn_ precognitive, second-sighted  
 __clairvoyant<sup>2</sup__ _n_ A person claiming to have the power to foretell future events.  
@@ -3632,14 +3646,15 @@ __clamber__ _v_ :nine::m: (clambered, clambering) To climb (something) awkwardly
 __clamming__ _adj_ _His clamming forehead._  
 __clammy__ _adj_ :six::hammer: _His skin was clammy._  
 __clamor__ _v_ :two: (clamoring) __1__ To make loud demands. _He clamored for justice and tolerance._ __2__ To utter or proclaim insistently and noisily. _The delegates clamored their disappointment._  
-__clampdown__ _n_ :six::hammer: _An immigration clampdown._  
+__clampdown__ _n_ :seven::hammer: _An immigration clampdown._  
 __clamped__ _v_  
 __clandestine__ _adj_ :four::mega: /klænˈdɛstɪn/ /klan-DESS-tun/ Kept or done in secret, often in order to conceal an illicit or improper purpose. _Syn_ hush-hush, cloak-and-dagger, undercover, underground, hole-and-corner, hugger-mugger, secret, surreptitious _The clandestine affairs of the congressman are being investigated by the ethics committee._  
-__clang<sup>1</sup>__ _n_ :five::hammer: (sound) _A sharp clang sounded._ _The shout and clang of battle._ __2__ The strident call of a crane or goose.  
+__clang<sup>1</sup>__ _n_ :six::hammer: (sound) _A sharp clang sounded._ _The shout and clang of battle._ __2__ The strident call of a crane or goose.  
 __clang<sup>2</sup>__ _v_ :two::hammer: _Bells clanging._  
 __clanging__ _adj_ :astonished::two::hammer:  
 __clangor__ _n, v_  
-__clank__ _v_ :three::hammer: (clanked, clanking)  
+__clank<sup>1</sup>__ _n_  
+__clank<sup>2</sup>__ _v_ :three::hammer: (clanked, clanking)  
 __clap__ _n_ :two::hammer: _Incurable clap._  
 __clapboard__ _n_ :three::hammer::mega: /KLAB-erd/  
 __clapper__ _n_ _He tried to turn somebody into a human bell clapper._  
@@ -3659,7 +3674,7 @@ __classic__ _adj_
 __classical__ _adj_  
 __classy__ _adj_ :two::hammer:  
 __clatter<sup>1</sup>__ _n_ :four::hammer: _The clatter of the Telex machines._  
-__clatter<sup>2</sup>__ _v_ (clattered)  
+__clatter<sup>2</sup>__ _v_ :two::hammer:  
 __clause__ _n_  
 __claw back__ _v_ :two::hammer:  
 __claw machine__ _n_ :two::camera: A claw crane game machine.  
@@ -3688,7 +3703,7 @@ __cleave__ _v_ :two: /KLEEV/ __1__ To divide by or as if by a cutting blow. _Hav
 __cleaver__ _n_ :four::hammer: _A butcher’s cleaver._ _Meat cleaver._  
 __cleft__  
 __clematis__ _n_ :two::hammer:  
-__clemency__ _n_ :two: A disposition to show mercy, especially toward an offender or enemy. _Syn_ mercy _He was willing to show clemency, promising not to report the theft if his property was returned._  
+__clemency__ _n_ :three: A disposition to show mercy, especially toward an offender or enemy. _Syn_ mercy _He was willing to show clemency, promising not to report the theft if his property was returned._  
 __clement__ _adj_  
 __clench__ _n_ :two::hammer:  
 __clenched__ _adj_ :three: Closed or squeezed together tightly. _A clenched fist._ _His clenched (or clinched) teeth._  
@@ -3714,6 +3729,7 @@ __climbing__ _n_ :mute:[clim~~b~~ing]
 __clinch__ _v_ :nine::m: (clinched) __1__ To secure (a driven nail) by bending the protruding point over. __2a__ To settle (an argument, bargain, etc.) definitely. _Only two places seem clinched._ __b__ To make sure of winning; win conclusively. _A 45-yarder clinched the game._ __3__ _US, boxing_ Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other  
 __clincher__ _n_ :six: An argument that is conclusive. _Syn_ determiner _My final point was the clincher and won me the debate._  
 __clinching__ _v_ _(Boxing)_ _A lot of people complain about it, along with his clingching._  
+__cling__ _v_  
 __clingy__ _adj_  
 __clinics__ _n_ :three::hammer: _Wang conducted hockey clinics through an initiativee called Project Horse._  
 __clip__ _n_ :three::hammer: _A better newspaper clip._ _Here is a clip from her most recent article._  
@@ -3725,7 +3741,7 @@ __clique__ _n_ :eight: (cliques) A narrow exclusive circle or group of persons (
 __cloackroom__  
 __cloak<sup>1</sup>__ _n_ :two::hammer: :es: capa, manto  
 __cloak<sup>2</sup>__ _v_ :two::hammer: _Syn_ disguise  
-__cloakroom__ _n_ :three::hammer: :es: guardaropa  
+__cloakroom__ _n_ :four::hammer: :es: guardaropa  
 __clobber__ _vt_ :four::hammer: (clobbered, clobbering) _Uber threatens to clobber the media._  
 __cloche__ _n_ :two: A low transparent cover put over young plants to protect them from cold.  
 __clock in__ _v_  
@@ -3745,7 +3761,9 @@ __close the loops__
 __close-knit__ _adj_ Held tightly together, as by social or cultural ties: _a close-knit family._  
 __closed shop__ _n_ A business establishment in which union membership is a condition of employment.  
 __closed-captioned__ _adj_ Broadcast with captions that are only visible if the viewer opts to enable them: _closed-captioned television for the hearing-impaired._  
+__closehanded__ _adj_ Covetous; penurious; stingy; closefisted.  
 __closely__ _adv_ :two::hammer: _Obama’s words are being watched closely by world leaders._ _Watch closely._  
+__closen__ _v_  
 __closeout__ _n_ :dart: A sale of goods at very low prices because a store wants to get rid of them.  
 __closeted__ _adj_ :two: Being in a state of secrecy or cautious privacy. _A closeted life._  
 __closing argument(s)__  
@@ -3764,6 +3782,7 @@ __clough__ _n_ :three::hammer:
 __clout<sup>1</sup>__ _n informal_ :nine::m: Influence; _esp_ effective political power. _Latino interests are increasing their political clout._ _The Cubs are unleashing their new clout._  
 __clout<sup>2</sup>__ _v_  
 __clove__ _n_ :astonished::dart::camera::two: (cloves) __1__ The dried flower bud of a tropical tree, _Syzygium aromaticum_, of the myrtle family, used whole or ground as a spice. :es: clavo __2__ One of the small sections of a separable bulb, as that of garlic. _4 cloves of garlic, peeled and coarsely chopped._  
+__clover__ _n_  
 __clowder__ _n_ /ˈklɑʊdə/ A collective term for a group of cats.  
 __cloy__ _v_ :two::hammer:  
 __cloying__ _adj_ :nine: /KLOY-ing/ Excessively sweet or sentimental. :es: empalagoso _She is cordial without being cloying._ _She finds most romantic comedies cloying and predictable._  

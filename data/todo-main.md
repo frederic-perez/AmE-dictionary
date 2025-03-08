@@ -45,56 +45,6 @@ __brushfire__ _n_
 __bulldozer__ _n_ __1__ A powerful tractor fitted with caterpillar tracks and a blade at the front, used for moving earth, rocks, etc. __2__ _informal_ A person who bulldozes. An overbearing person; a bully. _Syn_ browbeater, bully, hector, intimidator  
 __bunker__ _n_ /ˈbʌŋ kər/ __1__ A large bin or receptacle; a fixed chest or box: a coal bunker.  
 __buy out__  
-__buyout__ _n_ :three::hammer: _A buyout offer._  
-__caffeine__ _n_ :mega:  
-__call-up__ _n_ The act or an instance of summoning reserve military personnel to active service. _A new military call-up._  
-__calligraphy__ _n_  
-__campout__ _n_ /ˈkæmpˌaʊt/ A camping trip.  
-__canard__ _n_ :smiling_imp: /kuh-NARD/ __1__ An unfounded or false, deliberately misleading story. _Canard_ refers to a false report or story, or to a belief or rumor that isn’t true. __2__ It can also refer to a kind of airplane as well as to a kind of small airfoil. _The book unfortunately repeats some of history’s oldest canards._  
-__career__ _v_ /kuh-REER/ To career is to go at top speed especially in a headlong manner. _The tourists gripped their seats and exchanged anxious looks as the bus careered along the narrow roads._  
-__caretaker__ _n_ _A school caretaker._  
-__cavalier__ _adj_ :dart::astonished: /ˌkæv əˈlɪər, ˈkæv əˌlɪər/ /kav-uh-LEER/ Someone described as _cavalier_ shows no concern for important or serious matters. Cavalier also describes attitudes, manners, etc., that show the same lack of concern. _The company provides regular training about the dangers of being cavalier in sharing privileged information._  
-__cavitate__ _vi_ /ˈkævɪteɪt/ To form cavities or bubbles.  
-__cavitation__ _n_  
-__cerulean__ _adj_ /suh-ROO-lee-un/ Cerulean describes things whose blue color resembles the blue of a clear sky.  
-__chastening__ _adj_ Humbling.  
-__chastise__ _v_ /chass-TYZE/ To chastise someone is to criticize them harshly for doing something wrong. _The waiter was chastised for forgetting the customer’s order._  
-__check<sup>1</sup>__ _n_  
-__check<sup>2</sup>__ _vt_ :dart: __2a__ To arrest or slow the motion or progress of: _checked the flow by shutting a valve._ __b__ To hold in restraint; curb: _check an impulse to laugh._ _Syn_ restrain  
-__check<sup>3</sup>__ _vi_  
-__checklist__ _n, vt_ /ˈtʃɛkˌlɪst/  
-__checkout line__ _n_ A queue of people waiting to pay for purchases.  
-‌__cheekily__  
-__chemistry set__ _n_ An educational toy allowing the user (typically a teenager) to perform simple chemistry experiments.  
-__cherub__ _n_ /ˈtʃɛr əb/  
-__chide__ _v_ :two::hammer:  
-__chided__ _v_  
-__chilblain__ _n_ :mega: /ˈtʃɪl bleɪn/  
-__chimera__ _n_ :mega:  
-__chitinous__ _adj_ Of or resembling chitin.  
-__chocolatey__ _adj_ :two: /ˈtʃɑːkləti/ /ˈtʃɔːkləti/ (chocolaty) __1__ Made of or like chocolate. __2__ Having a rich chocolate flavor.  
-__choir__ _n_ :mega: /kwaɪər/ /kwahyuhr/  
-__choker__ _n_  
-__chortle<sup>1</sup>__ _n_ A snorting, joyful laugh or chuckle.  
-__chortle<sup>2</sup>__ _v_ To utter a chortle or express with a chortle.  
-__Christmastide__ _n_  
-__chunky__ _adj_ Short and thick; stocky. _Syn_ low-set, squat, squatty, stumpy, dumpy  
-__chutney__ _n_ :es: salsa picante de frutas y especias  
-__chutzpah__ _n_ /KHOOTS-puh/ _Chutzpah_ is shameless or disrespectful boldness often paired with reckless self-confidence. Someone with chutzpah dares to do or say things that seem shocking to others. _It took a lot of chutzpah to stand up to her boss the way she did._  
-__cipher__ _n_ __3__ One having no influence or value; a nonentity. A person of no influence. _Syn_ nobody, nonentity _He was a cipher in the estimation of the public, and nobody attached any importance to what he thought or did._  
-__circuitous__ _adj_ /ser-KYOO-uh-tus/  
-__citizen__ _n_ /ˈsɪt ə zən, -sən/  
-__claimant__ _n_ :dart: /ˈkleɪmənt/ __1__ A person who makes a claim. __2__ _(Law)_ A person who brings a civil action in a court of law. Formerly called: plaintiff  
-__clampdown__  
-__clang__ _n_  
-__clank__ _n_  
-__clatter__ _v_  
-__clemency__ _n_  
-__cling__ _v_  
-__cloakroom__ _n_  
-__closehanded__ _adj_ Covetous; penurious; stingy; closefisted.  
-__closen__ _v_  
-__clover__ _n_  
 __coalesce__ _v_  
 __code__ _n_ [Note: _Code_ is usually uncountable in programming contexts, but it can be countable when referring to different kinds of code (like various coding systems, encryption codes, or different pieces of code), like _The software uses multiple codes to encrypt data._]  
 __collected__ _adj_  
