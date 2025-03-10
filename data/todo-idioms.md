@@ -46,6 +46,7 @@ __a little from column A, a little from column B__ Having been formed from two d
 __a long row to hoe__ [:scroll: This metaphor comes from nineteenth-century America, when most people lived in rural areas and cultivated at least some land.] A difficult course to follow; hard work to accomplish. A particularly difficult or problematic task, situation, or set of circumstances to contend with or confront. _Immigration reform was one of the new president’s primary campaign promises, but it will likely prove a long row to hoe, given the deep divisions in Congress._  
 __a long shot__  
 __a losing game__ A failing or hopeless effort; a situation or activity that is ultimately futile or cannot be won. (Most often used in the phrase “play a losing game.”) _I’d give up trying to get your brother to agree to this deal if I were you. It looks like a losing game at this point._  
+__a man/woman on a mission__ A person who is fiercely determined to do or get what they want.  
 __a matter of time__ An inevitability or eventuality; something that is or seems sure to happen at some point in the future. _With your reckless spending behavior, it’s just a matter of time before you go broke._  
 __a mile away__  
 __a new coat of paint__ The phrase “a new coat of paint” is an idiom that means giving something a fresh appearance or updating it, often to make it look more appealing or modern. It can refer to physically painting an object or structure, but it’s also used metaphorically to describe revitalizing or improving something, like a project, idea, or even a person’s style. It’s about making something look new again without necessarily changing its core essence.  
@@ -67,6 +68,9 @@ __all told__ In total. This phrase can be applied to numerical sums or to the co
 __all too easy__  
 __all too soon__ The idiom “all too soon” means that something happened much earlier than expected or desired, often with a sense of regret or disappointment. It conveys the idea that an event occurred prematurely or that a positive experience ended quickly. “The holidays were over all too soon,” implies that the speaker wished the holidays had lasted longer. “Graduation came all too soon,” suggests that the speaker felt unprepared for the end of their schooling.  
 __as of yet__  
+__attaboy__  
+__boy oh boy__  
+__bury the hatchet__  
 __case in point__  
 __catch (the) headlines__ To be featured on the headlines of news articles, as due to being particularly important, popular, fashionable, etc. _It may not be so tremendous as to catch the headlines, but this small change in immigration law could have a huge impact on foreign workers._  
 __catch a break__  
@@ -76,6 +80,7 @@ __chew on this bone__
 __chide (one) for (something)__ To reprimand or tease one about something.  
 __close to one’s chest__  
 __cold email__ An unsolicited email sent to someone with whom the sender has no prior relationship, usually for professional or business purposes.  
+__come down to the wire__ To be unresolved or have an outcome that is in question until the last possible moment. _Negotiations came down to the wire, but we did in fact agree on a new contract by the deadline._  
 __come to a head__ To reach a point of intensity at which action must be taken.  
 __come to pass__  
 __come to terms__  
@@ -176,6 +181,7 @@ __feel puny__ To feel sick. _I woke up feeling puny, so I just stayed in bed all
 __feel the heat__ To encounter an uncomfortable situation.  
 __first off__  
 __flip the switch__ (flip a switch) __1__ To cause a sudden and complete change: This can refer to a change in behavior, attitude, or even a situation. _He flipped the switch and suddenly became very angry._ __2__ To make something happen quickly and easily: This meaning emphasizes the ease with which the change occurs. _We just need to flip the switch to activate the new system._ __3__ To turn something on or off: This is the most literal meaning, referring to the action of physically flipping a switch. However, it can also be used metaphorically to describe starting or stopping something. _The company flipped the switch on their new marketing campaign._  
+__flip through (something)__ To casually read through a document, magazine, or book without paying close attention to it. _I had just started flipping through a magazine when the receptionist called my name._ _I was flipping through the (television) channels._  
 __for the fun of it__ ((just) for the fun of it)  
 __fork in the road__  
 __foul play__ _No sign of foul play._  
@@ -240,6 +246,8 @@ __in any way, shape, or form__ :two::hammer:
 __in brief__ In summary; to say it briefly. _The film was, in brief, dull._ _If you can, please explain it in brief._ _Medical news in brief: ..._  
 __in custody__ (of someone or something)  
 __in dribs and drabs__  
+__in like a lion, out like a lamb__ _proverb_ Used to describe the weather in March in the northern hemisphere, where it tends to be very harsh and unpleasant in the beginning but milder and more palatable at the end. A shortening of the full phrase, “March comes in like a lion and goes out like a lamb.” _A: “I just wanted this awful cold weather to be over!” B: “It shouldn’t be much longer now. March always comes in like a lion, but it goes out like a lamb.”_  
+__in more ways than one__  
 __in one’s book__  
 __in the hope of__  
 __in the works__ :two::hammer:  
@@ -267,6 +275,7 @@ __keep a sharp lookout (for something or someone)__ To remain vigilant or carefu
 __keep an eye peeled (for something or someone)__ To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep an eye peeled._ _Keep an eye peeled for a Christmas present we could give your mother._  
 __keep body and soul together__  
 __keep faith__  
+__keep it real__  
 __keep pace__ :two::hammer:  
 __keep tabs on (someone or something)__  
 __keep the lid on (something)__  
@@ -439,6 +448,7 @@ __make the world go round__ To be of critical or integral importance to the ordi
 __make waves__ :three::hammer:  
 __man the fort__ To mind or take charge of a location during the time in which it is unattended by another. _Don’t worry, honey, I’ll man the fort at home until you get back from the grocery store._  
 __man up__ To deal with something in a more brave, stoic, or masculine way than one has done so hitherto. (Usually used imperatively.) _It’s just a tiny scratch! You need to man up and quit crying about it._  
+__many happy returns of the day__ I wish you a very happy birthday and many more like it in the future. _Hey Jack, many happy returns of the day! Are you going to do anything special to celebrate the occasion?_  
 __meant to be__  
 __memento mori__  
 __memento vivere fac vitam incredibilis__ A Latin phrase that translates to “Remember to live, make an incredible life.”  
@@ -575,7 +585,7 @@ __on the hook__ __1__ Held responsible (for something); obliged or committed (to
 __on the hunt__  
 __on the leading edge__ Having or knowledgeable of the most advanced technology in a given area, activity, or endeavor. _The local university’s laboratory is on the leading edge when it comes to cancer research._  
 __on the level__ Honest, truthful, or sincere. Given the corrupt environments Ellroy often writes about, this phrase could be used to emphasize a character’s rare honesty amidst widespread deception.  
-__on the line__ __1__ In a state of jeopardy or uncertainty.  
+__on the line__ :two: __1__ In a state of jeopardy or uncertainty.  
 __on the lookout__ :three: Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
 __on the move__  
 __on the pill__ _slang_ Currently and regularly using birth-control pills (oral contraceptives that inhibit ovulation to prevent conception).  
@@ -632,6 +642,7 @@ __put the brakes on (someone or something)__
 __put the jinx on (something or someone)__ To invoke a curse upon someone or something that brings bad luck or failure.  
 __put the screws on something__  
 __put to good use__ (put (something) to good use) To use something in a way that will be beneficial or have significant results. Employ to the best advantage, as in _I’m sure this dictionary will be put to good use._  
+__put to the test__ (put (someone or something) to the test)  
 __quid pro quo__ :four: [:scroll: This Latin phrase means “something for something.”] A favor done for someone in exchange for a favor in return. _You wash my car, and I”ll drop off your dry cleaning—quid pro quo._  
 __race against time__  
 __race to (someone or something)__ To move, run, drive, etc., in a very hurried or frantic manner to some person, thing, or destination. _I have to race to the bank so I can deposit this check before they close._  
@@ -640,6 +651,7 @@ __read between the lines__
 __recipe for disaster__ The phrase “recipe for disaster” refers to a situation or combination of actions that is likely to result in failure, trouble, or a negative outcome.  
 __refrain from__  
 __repro__ :dart: __1__ _n_ (informal, computing) A method for reproducing a bug or problem. _Repro steps._ __2__ _v_ (informal, computing) To reproduce (a bug or problem).  
+__revenge bedtime procrastination__ A term used to describe the act of staying up late, often engaging in unproductive activities, as a way of “getting back” at the demands of the day. It’s like trying to reclaim some personal time when you feel like you haven’t had enough throughout the day due to work, responsibilities, or other obligations.  
 __rib (one)__ To tease, fool, or joke with one. _I’m just ribbing you, Tom—I’m not upset at all!_ _Sandler began by playing oblivious before appearing to become increasingly angry as O’Brien ribbed him, saying “you’re dressed like a guy playing video poker at 2 a.m.”_  
 __right off the bat__ Immediately; at once; without delay.  
 __ring a bell__  
@@ -654,6 +666,7 @@ __ruffle a few feathers__ To do something which annoys, irritates, or upsets oth
 __ruffle feathers__ (ruffle (one’s) feathers) To annoy, irritate, or upset someone.  
 __rumor mill__  
 __run afoul of (someone or something)__  
+__run on fumes__  
 __run the gauntlet__ To be exposed to or forced to endure a series of threats, dangers, criticism, or other problems. Refers to an old military punishment in which one was forced to run between two lines of soldiers while being thrashed with rods or whips. _Medical students often feel that they have to run the gauntlet when they become residents in a hospital._  
 __run with it__ To take the initiative to do something independently. _I got this really good idea for an ad campaign. I think I’m going to just run with it and present it to the boss when it’s done._  
 __rush into (something)__  
@@ -701,7 +714,7 @@ __six in one, (and) half a dozen in the other__ The difference between these two
 __size up__ To make an estimate, opinion, or judgment of someone or something. _Vader and Kenobi were sizing each other up._ _She sized up her opponent._ _He sized the location up._  
 __skive off__ _BrE_ To absent oneself or leave early from school or work when one would normally be required to be there; to play truant. Primarily heard in UK.  
 __slam-bang__  
-__slap in the face__ Words or actions that have offended or otherwise upset someone. _It was a real slap in the face when she got promoted over me, especially after the amount of work I did on that last project._  
+__slap in the face__ :two: Words or actions that have offended or otherwise upset someone. An insult; an act that causes disappointment or discouragement. _It was a real slap in the face when she got promoted over me, especially after the amount of work I did on that last project._  
 __slated to__ (do something)  
 __sleazo__ :two::smiling_imp: An unpleasant, detestable, repellent person, especially one who makes lecherous advances or lewd remarks; a sleazy person. _My last manager was a total sleazo, always implying that he and I should hook up sometime._  
 __sleep in__  
@@ -775,9 +788,10 @@ __stands to reason__
 __start off on a high note__ To begin something (such as an event, project, or experience) in a positive, successful, or impressive way. It implies setting a strong, optimistic tone right from the beginning.  
 __start off__  
 __start the ball rolling__ To set something, often a process, in motion; to begin.  
+__stave off__  
 __stay clear of (someone)__ :dart:  
 __stay on top of (someone or something)__  
-__stay put__ To not move or leave; to remain in same location or position.  
+__stay put__ :two: To not move or leave; to remain in same location or position.  
 __stay strong__ :es: mantente fuerte  
 __staying power__  
 __steal the show__  
@@ -795,6 +809,7 @@ __stone dead__ Dead; unquestionably dead; long dead. _The cat was stone dead and
 __stonewall__ To be evasive, noncompliant, or uncooperative; to employ delaying or obstructive tactics. Can be used either transitively or intransitively.  
 __storm in__  
 __stranger things have happened__ _cliché_ Used to indicate that some outcome, however unlikely, is not impossible. _I doubt we’ll ever move back to the US, but you never know—stranger things have happened!_  
+__street smart__  
 __strike (one) dead__  
 __strike a (raw) nerve__  
 __strike a chord__  
@@ -826,6 +841,7 @@ __take a crack at (something)__ To attempt (to do) something; to take a turn try
 __take a deep breath__  
 __take a load off (one’s feet)__ To sit down and rest one’s feet; to relax. (Usually said as a suggestion.) _Why don’t you go take a load off for a while, and I’ll fix dinner for tonight?_  
 __take a shot (at someone or something)__  
+__take center stage__  
 __take exception to (something)__ To strongly disagree with or take offense at something.  
 __take heart (from something)__ To receive courage or comfort from some fact. _I hope that you will take heart from what we told you today. Even though you did not win the race, take heart from the fact that you did your best. I told her to take heart and try again next time._  
 __take heart__ To have one’s confidence, courage, or happiness bolstered (by something). _We may have lost the election, but we take heart in the fact that so many young people are now engaged and excited about politics._  
@@ -833,6 +849,7 @@ __take heed (of someone or something)__
 __take into one’s hands__ (take (something) into one’s hands)  
 __take inventory__  
 __take issue__ To strongly disagree with or take offense at something.  
+__take lightly__ (take (something) lightly)  
 __take matters into (one”s) own hands__  
 __take no notice of (something or someone)__  
 __take on trust__  
@@ -878,6 +895,8 @@ __tie in__
 __tighten the purse strings__ To become less liberal with or more controlling of one’s expenditures; to decrease the availability of money for spending purposes. _After losing my job, I’ve had to tighten the purse strings quite a bit._  
 __till the cows come home__ See _until the cows come home._  
 __time and time again__  
+__toe-to-toe__  
+__train on (someone or something)__ _The blaster was trained on the door._  
 __turn the page__  
 __turn the tables__ To change or reverse something dramatically.  
 __walk of shame__  
@@ -898,6 +917,7 @@ __well up__
 __what it takes__  
 __what’s done is done__ :dart: There’s no use worrying or stressing about something that has already happened or come to pass. _I know this isn’t the outcome we wanted, but what’s done is done, so let’s just try to make the most of a bad situation._  
 __what’s the occasion?__ The idiom “what’s the occasion?” is typically used to inquire about the reason for a special event, celebration, or unusual behavior that seems out of the ordinary. It’s a friendly way to express curiosity about something that appears more formal or festive than usual.  
+__whisper (something) around__ To spread gossip, rumors, or secrets around (some place or group of people) in a secretive, circumspect manner.  
 __whitewash__  
 __who’s who__ _A who’s who guide._  
 __whoops__ _informal_ An exclamation of surprise used in response to a mistake or moment of clumsiness.  

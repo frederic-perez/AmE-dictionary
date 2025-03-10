@@ -23,6 +23,7 @@ __affidavit__ _n_
 __affordable__ _adj_ :pencil2:  
 __afoot__ _adj, adv_  
 __aft__  
+__appease__ _v_  
 __apprehend__ _v_ :two::hammer:  
 __askew<sup>1</sup>__ _adj_ /uh-SKYOO/ Askew means “not straight” or “at an angle,” and can be used as both an adjective and an adverb. _The picture on the cabin wall was slightly askew._  
 __askew<sup>2</sup>__ _adv_ /uh-SKYOO/ _The picture was hung askew on the cabin wall._  
@@ -31,6 +32,7 @@ __astute__ _adj_ /uh-STOOT/ Someone or something described as astute has or show
 __attention economy__ _n_ The attention economy refers to the incentives of advertising-driven companies, in particular, to maximize the time and attention their users give to their product.  
 __awash__ _adj, adv_  
 __barrage__ _n_  
+__bash__ _n_ __2__ _slang_ A celebration; a party.  
 __bearing__ _n_  
 __beckon__ _v_  
 __bevel__ _vt_ To cut at an inclination that forms an angle other than a right angle: _beveled the edges of the table._  
@@ -45,6 +47,7 @@ __brushfire__ _n_
 __bulldozer__ _n_ __1__ A powerful tractor fitted with caterpillar tracks and a blade at the front, used for moving earth, rocks, etc. __2__ _informal_ A person who bulldozes. An overbearing person; a bully. _Syn_ browbeater, bully, hector, intimidator  
 __bunker__ _n_ /ˈbʌŋ kər/ __1__ A large bin or receptacle; a fixed chest or box: a coal bunker.  
 __buy out__  
+__chicory__ _n_ :astonished: /ˈtʃɪk ə ri/ __1__ _(Plants)_ Also called: _succory_. A blue-flowered plant cultivated for its leaves, which are used in salads, and for its roots. :es: escarola __2__ _(Cookery)_ The root of this plant, roasted, dried, and used as a coffee substitute. :es: achicoria  
 __coalesce__ _v_  
 __code__ _n_ [Note: _Code_ is usually uncountable in programming contexts, but it can be countable when referring to different kinds of code (like various coding systems, encryption codes, or different pieces of code), like _The software uses multiple codes to encrypt data._]  
 __collected__ _adj_  
@@ -54,6 +57,7 @@ __conducive__ _adj_
 __conformal__ _adj_ [:scroll: from Late Latin _conformālis_ having the same shape, from Latin _com-_ same + _forma_ shape]  
 __conscript__ _n_ One compulsorily enrolled for service, especially in the armed forces; a draftee.  
 __consumer sentiment__ _n_ Another word for _consumer confidence_.  
+__contractor__ _n_  
 __corn__ _n_ :mega:  
 __counterfeit<sup>1</sup>__ _vt_  
 __counterfeit<sup>2</sup>__ _vi_  
@@ -100,6 +104,7 @@ __enamel__ _n_ :mega: /ɪˈnæm əl/
 __encroach__ _v_ /in-KROHCH/ To encroach is to gradually move or go into an area that is beyond the usual or desired limits, or to gradually take or begin to use or affect something that belongs to, or is being used by, someone else. _Encroach_ is often followed by _on_ or _upon._ _Conflicts between people and bears increase as humans continue to encroach on bear territory._  
 __encroachment__ _n_ :es: intromisión  
 __entrenched__ _adj_ Established firmly and securely. _The entrenched power of the nobility._  
+__entresol__ _n_ The floor just above the ground floor of a building. _Syn_ mezzanine  
 __evergreen__ _adj_ /EV-er-green/ _Evergreen_ in its figurative uses describes something, such as a plot, that retains its freshness or interest over a long period of time, or something, such as an issue or concern, that is universally and continually relevant. In botany, _evergreen_ describes foliage that remains green and functional through more than one growing season.  
 __exacerbate__ _vt_  
 __excursion__ _n_ /ik-SKER-zhun/ _Excursion_ refers to a trip, and especially to a short one made for pleasure. _Excursion_ is also often used figuratively to refer to a deviation from a direct, definite, or proper course, and often in particular to a digression.  
@@ -122,6 +127,7 @@ __fester__ _v_
 __fetishist__ _n_ One who engages in fetishism (especially of a sexual nature).  
 __fetter__ _v_ Restrain with fetters. _Syn_ shackle _My foes fettered me hand and foot and imprisoned me in a dank dungeon._  
 __feud__ _n_ :mega:  
+__feud<sup>1</sup>__ _n_ :two::hammer: /fjuːd/ __1__ Long and bitter hostility between two families, clans, or individuals; vendetta. __2__ A quarrel or dispute. __3__ _(Law)_ Feudal law land held in return for service.  
 __fiasco__ _n_ :dart: A complete failure, esp one that is ignominious or humiliating.  
 __finagling__ _n_ :smiling_imp: /fɪˈneɪɡlɪŋ/ The use of trickery or craftiness to achieve one’s aims.  
 __finesse__ _v_ /fuh-NESS/ To finesse something is to bring it about, direct it, or manage it by skillful maneuvering. _We managed to finesse a favorable deal on some Beatles LPs at the flea market through subtle bargaining._  
@@ -155,10 +161,15 @@ __flinch__ _vi_ :es: estremecerse; encogerse
 __fling__ _v_ :two::hammer: (flung)  
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
 __fragile__ _adj_ :mega:  
+__fraught__  
+__gregarious__ _adj_ /grih-GAIR-ee-us/ _Gregarious_ is used to describe someone who enjoys the company of other people.  
 __grift__ _n, v_ :smiling_imp:  
+__groundless__ _adj_ _His fears proved groundless._  
 __guesswork__ _n_  
 __handmaid__  
 __hiss__ _vt_ To say something in a quiet angry way. _“Shut up, Tom!” She hissed._  
+__hmm__ _vi_ To make a thoughtful humming noise.  
+__imperturbable__ _adj_ /im-per-TER-buh-bul/ _Imperturbable_ describes someone or something marked by extreme calm; such a person or thing is very hard to disturb or upset.  
 __imperviousness__ _n_  
 __impish__ _adj_ :es: pícaro, travieso  
 __importunate__ _adj_ :astonished: Troublesomely urgent or persistent in requesting; pressingly entreating: _an importunate job seeker._  
@@ -218,6 +229,7 @@ __jangle<sup>3</sup>__ _n_
 __janitor__ _n_ [:scroll: from Latin: doorkeeper, from _jānua_ door, entrance, from _jānus_ covered way; related to Latin _īre_ to go]  
 __Janus word__ _n_ /ˈdʒeɪnəs wɜrd/ A word that has opposite or nearly opposite meanings, such as cleave and dust. (These are also called contronyms.) To cleave something can mean to adhere closely to that thing, but it can also mean its opposite: to split, divide, or cut off. As a verb, dust can refer to the removal of dust, or the addition of it. (Think dust the cookies with confectioners’ sugar.)  
 __jaundice__ _n_  
+__jaunt__ _n_  
 __jaunty__  
 __jaw-dropping__ _adj_  
 __jeer__ _v_ To speak or shout derisively; mock. _Syn_ scoff, flout, gibe, barrack _The crowd jeered at the speaker, and she ran offstage in tears._  
@@ -245,6 +257,7 @@ __juvenile<sup>1</sup>__ _adj_
 __juvenile<sup>2</sup>__ _n_  
 __karen__ _n_ (derogatory) Any person, especially female, exhibiting an exaggerated sense of entitlement.  
 __kickstand__ _n_ __1__ A swiveling metal bar for holding a bicycle, motorcycle, or other two-wheeled vehicle upright when it is not being ridden.  
+__king cake__ _n_ A sweet ring-shaped cake traditionally with a symbolic bean or figurine of the infant Jesus inside that is served from the Epiphany to Shrove Tuesday.  
 __kingpin__  
 __klaxon__ _n_ (claxon) [:scroll: From Klaxon, a trademark for a loud electric horn] A type of loud horn formerly used on motor vehicles.  
 __Knight Templar__ _n_  
@@ -286,7 +299,7 @@ __liminal__ _adj_ :two: /LIM-uh-nul/ _Liminal_ is a formal word most often used 
 __limpid__ _adj_ /LIM-pid/ _Limpid_ describes things that are perfectly transparent or clear, or that are simple in style.  
 __linchpin__ _n_ /LINCH-pin/  
 __linguine__ _n_ (linguini)  
-__listless__ _adj_ :mega: /ˈlɪst lɪs/  
+__listless__ _adj_ :two::hammer::mega: /ˈlɪst lɪs/  
 __livid__ _adj_ :astonished::two: /LIV-id/ Livid means “very angry, enraged, or furious.” It may also describe things having a dark purplish or reddish color.  
 __lock stepping__  
 __lock-in__  
@@ -387,6 +400,7 @@ __miscellany__ _n_ (_n pl_ miscellanies) __1__ A mixed assortment of items.
 __mischievous__ _adj_ :mega: /mis-chuh-vuhs/  
 __mise-en-scène__ _n_ /meez-ahn-SEN/ _Mise-en-scène_ can refer to the setting of a play, movie, etc., or it can refer to the physical or social setting in which something real occurs or develops.  
 __miserably__ _adv_  
+__mishap__ _n_  
 __mishmash__ _n_ :two: A collection or mixture of unrelated things; a hodgepodge.  
 __misnomer__  
 __misogynoir__ _n_ Hatred of, aversion to, or prejudice against Black women.  
@@ -490,9 +504,10 @@ __obtuse__ _adj_ /ahb-TOOSS/
 __occasion__  
 __oligopoly__  
 __one-stop__ _adj_  
-__onslaught__ _n_ :mega: /ˈɒnˌslɔt, ˈɔn-/  
+__onslaught__ _n_ :two::hammer::mega: /ˈɒnˌslɔt, ˈɔn-/  
 __overtones__ _n pl_ :dart: Suggestions; hints. _There were overtones of discontent in his speech._  
 __oxycodone__ _n_  
+__Palantír__ _n_ A crystal ball in J. R. R. Tolkien’s _Lord of the Rings_.  
 __panacea__  
 __Panama__ _n_ :mega: /ˈpæn əˌmɑ, -ˌmɔ/ /ˌpænəˈmɑː; ˈpænəˌmɑː/  
 __paramount__  
@@ -544,6 +559,7 @@ __pitch<sup>1</sup>__ _n_ :es: (esp. _British_) campo, cancha
 __pitch<sup>2</sup>__ _vt_  
 __pithy__ _adj_ :two: __1__ Precisely meaningful; forceful and brief: _a pithy comment._ __2__ Consisting of or resembling pith.  
 __pittance__ _n_ :two::hammer:  
+__plagiarize__ _v_ Take without referencing from someone else’s writing or speech; of intellectual property. _Syn_ lift  
 __plaintiff__ _n_  
 __plaintive__ _adj_ :dart: Expressing sorrow; mournful or melancholy.  
 __plaintively__ _adv_ :dart: :es: lastimeramente, con dolor  
@@ -683,6 +699,7 @@ __rebuttal__ _n_
 __recapitulation__ _n_ __2__ A summary or concise review.  
 __receptacle outlet__ _n_ An electrical outlet where one or more receptacles are installed.  
 __receptacle__ _n_ A device which is installed in an outlet box to receive a plug for the supply of electric current to an appliance or portable equipment.  
+__recession__ _n_  
 __recidivism__ _n_  
 __recipe__ _n_ :mega: /ˈrɛs ə pi/ /ˈrɛsɪpɪ/  
 __reck<sup>1</sup>__ _n_ /rek/ Care or concern.  
@@ -718,6 +735,7 @@ __remuneration__ _n_ :mega: /ri-myoo-nuh–rey-shuhn/
 __render__ _vt_ __2__ To cause to become; make: _The news rendered her speechless._ _Grief had rendered him simple-minded._  
 __repent__ _v_ _He would repent and confess his sins._  
 __reprieve__ _n_  
+__repulse__ _v_ Force or drive back. _Syn_ drive back, fight off, rebuff, repel _The soldiers are armed and prepared to repulse any attack._  
 __repute__ _n, v_ :astonished:  
 __reputed__ _adj_ /rɪˈpyu tɪd/ Reported or supposed to be such: _the reputed author of a book._  
 __reputedly__ _adv_ /rɪˈpjuːtɪdlɪ/ According to general belief or supposition: _the reputedly excellent food._  
@@ -767,6 +785,7 @@ __scam__ _n_
 __scamper__ _n_  
 __scant__ _adj_  
 __schadenfreude__ _n_ /SHAH-dun-froy-duh/ _Schadenfreude_ refers to a feeling of enjoyment that comes from seeing or hearing about the troubles of other people. _Schadenfreude was felt by many viewers when the arrogant contestant was voted off the show._  
+__schism__ _n_  
 __Scotch-tape__ _vt_ To fasten or mend with Scotch tape.  
 __scowl__ _v_  
 __scrap<sup>1</sup>__ _n_ __5__ :smiling_imp: A fight or scuffle. _Syn_ brawl  
@@ -789,6 +808,8 @@ __sharp__ _adj_ __6__ Vigilant; alert: _kept a sharp lookout for shoplifters._ _
 __shim__ _v_  
 __shopkeeper__ _n_  
 __shoulder__ _v_  
+__shrive__ _v_  
+__Shrove Tuesday__ _n_ The Tuesday before Ash Wednesday.  
 __shuffle__ _v_ __6__ (when _vi_, often foll by _into_ or _out of_) to move or cause to move clumsily: _he shuffled out of the door._ _He shuffled his way out of the room._  
 __sibylline__ _adj_ Resembling or characteristic of a prophet or prophecy. _Syn_ divinatory, mantic, vatic  
 __sic__ _vt_ :dart: __1__ To turn on or attack: used only in commands, as to a dog. __2__ To urge (a dog) to attack. To urge or incite to hostile action; set: _sicced the dogs on the intruders._  
@@ -796,6 +817,7 @@ __sideline__ _v_
 __sidle<sup>1</sup>__ _vi_  
 __sidle<sup>2</sup>__ _vt_  
 __sidle<sup>3</sup>__ _n_ __1__ An unobtrusive, furtive, or coy advance. __2__ A sideways movement.  
+__sinew__ _n_  
 __singe__ _vt_ __1__ To burn superficially or slightly; scorch. _To singe one’s clothes._ __2__ To burn the ends, nap, or the like, of (hair, cloth, etc.). __3__ To subject (a carcass) to flame in order to remove hair, bristles, feathers, etc.  
 __singeing__ _n_  
 __Situation Room__ _n_  
@@ -831,6 +853,7 @@ __star-crossed__ _adj_ Opposed by fate; ill-fated: _star-crossed lovers._
 __stardom__ _n_  
 __statutory__  
 __stowage__  
+__stray__ _vi_  
 __stubborn__ _adj_ :pencil2::mega:  
 __suave__ _adj_ /swɑːv/  
 __substantive__ _adj_ __1__ Substantial; considerable. __4__ 4. Of or relating to the essence or substance; essential: _substantive information._  
@@ -843,9 +866,11 @@ __unwieldy__ _adj_ :astonished: _The suddenly unwieldy craft._ :es: difícil de 
 __upfold__ _vt_ To fold up.  
 __vaunted__ _adj_ :dart: Praised more than deserved. _Vaunted Jedi Master Luke Skywalker._  
 __war story__ _n_ A story of a memorable personal experience typically involving an element of danger, hardship, or adventure. _Politicians swapping war stories from past campaigns._  
+__warble__ _v_  
 __warhorse__ _n_ (war horse)  
 __watchdog__ _n_ :mega:  
 __waterboarding__ _n_ __1__ An interrogation technique, widely considered a form of torture, in which a person is restrained, usually by being strapped to a board with the feet higher than the head, and immersed in or doused with water to the point of drowning.  
+__wend__ _v_ /WEND/ _Wend_ is a literary word that means “to move slowly from one place to another usually by a winding or indirect course”; wending is traveling or proceeding on one’s way in such a manner. _Hikers wend along the marked trails to the top of the mountain._  
 __whet__ _v_  
 __whetstone__ _n_  
 __whey__ _n_ :dart::mega: /ʰweɪ, weɪ/ The watery part of milk that separates from the curds, as in the process of making cheese. :es: suero  
