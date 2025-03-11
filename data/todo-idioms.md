@@ -643,56 +643,6 @@ __put the jinx on (something or someone)__ To invoke a curse upon someone or som
 __put the screws on something__  
 __put to good use__ (put (something) to good use) To use something in a way that will be beneficial or have significant results. Employ to the best advantage, as in _I’m sure this dictionary will be put to good use._  
 __put to the test__ (put (someone or something) to the test)  
-__quid pro quo__ :four: [:scroll: This Latin phrase means “something for something.”] A favor done for someone in exchange for a favor in return. _You wash my car, and I”ll drop off your dry cleaning—quid pro quo._  
-__race against time__  
-__race to (someone or something)__ To move, run, drive, etc., in a very hurried or frantic manner to some person, thing, or destination. _I have to race to the bank so I can deposit this check before they close._  
-__raise the ante__  
-__read between the lines__  
-__recipe for disaster__ The phrase “recipe for disaster” refers to a situation or combination of actions that is likely to result in failure, trouble, or a negative outcome.  
-__refrain from__  
-__repro__ :dart: __1__ _n_ (informal, computing) A method for reproducing a bug or problem. _Repro steps._ __2__ _v_ (informal, computing) To reproduce (a bug or problem).  
-__revenge bedtime procrastination__ A term used to describe the act of staying up late, often engaging in unproductive activities, as a way of “getting back” at the demands of the day. It’s like trying to reclaim some personal time when you feel like you haven’t had enough throughout the day due to work, responsibilities, or other obligations.  
-__rib (one)__ To tease, fool, or joke with one. _I’m just ribbing you, Tom—I’m not upset at all!_ _Sandler began by playing oblivious before appearing to become increasingly angry as O’Brien ribbed him, saying “you’re dressed like a guy playing video poker at 2 a.m.”_  
-__right off the bat__ Immediately; at once; without delay.  
-__ring a bell__  
-__ring false__  
-__ring true__  
-__rise to the occasion__ :two: To increase one’s effort in response to a challenging situation.  
-__road to recovery__  
-__rock solid__  
-__ROFL__ _slang_ An initialism of “rolling on the floor laughing,” used in text messages and online communications to indicate that one thinks that something is very funny or ridiculous. Often lower case. _I just saw a monkey riding on the back of a pig! rofl_  
-__roid rage__ _n_ /rɔɪd/ _informal_ [:scroll: From _steroid_, on the pattern of _road rage_] Angry and aggressive behavior caused by the use of anabolic steroids.  
-__ruffle a few feathers__ To do something which annoys, irritates, or upsets other people. _I know my presentation about the effects of climate change is going to ruffle a few feathers, but I have got to raise awareness about this issue!_  
-__ruffle feathers__ (ruffle (one’s) feathers) To annoy, irritate, or upset someone.  
-__rumor mill__  
-__run afoul of (someone or something)__  
-__run on fumes__  
-__run the gauntlet__ To be exposed to or forced to endure a series of threats, dangers, criticism, or other problems. Refers to an old military punishment in which one was forced to run between two lines of soldiers while being thrashed with rods or whips. _Medical students often feel that they have to run the gauntlet when they become residents in a hospital._  
-__run with it__ To take the initiative to do something independently. _I got this really good idea for an ad campaign. I think I’m going to just run with it and present it to the boss when it’s done._  
-__rush into (something)__  
-__safe to say__ The idiom “safe to say” means that something can be confidently stated or assumed to be true without much doubt or risk. It’s often used to express certainty or a high degree of likelihood about a statement or situation. For example, “It’s safe to say that everyone enjoyed the party’ means that it’s very likely or certain that everyone had a good time. _It is safe to say that the goals of the meeting were successfully met._  
-__safeguard against (someone or something)__  
-__scat__ __4__ _v_ _slang_ To leave or depart very quickly; to hustle away. Often used as an imperative. _I think I hear the police coming. Let’s scat!_ _Go on, scat!_  
-__see (one) for what (one) (really) is__ To recognize one’s true identity or nature.  
-__serve notice__  
-__shipmas__  
-__shipping and handling__ The costs associated with packaging and delivering a product to the person who bought it. _Our top line of vacuum cleaners is now only $250, plus shipping and handling._  
-__shipshape and Bristol fashion__  
-__shit (one’s) pants__ __2__ _rude slang_ By extension, to be very surprised. _When I saw that the magazine had published my letter to the editor, I practically shit my pants!_ _Shit-your-pants scared._  
-__shit__ __3__ _v_ _vulgar_ _slang_ To fool, deceive, or trick (someone). Usually used to express disbelief. _We have to come in and work on Saturday, too? You’ve got to be shitting me!_ _I promise I’m not shitting you—these figures are very real._  
-__shocker__ :dart: Something that is especially startling, shocking, or surprising. Often used sarcastically. _The ending was a shocker. I did not see that coming!_  
-__shoot (oneself) in the foot__  
-__shoot for the stars__ To set one’s goals or ambitions very high; to try to attain or achieve something particularly difficult.  
-__shoot from the hip__ :two: To speak or act without careful thought or preparation. Many of Ellroy’s characters, particularly his hard-edged protagonists, do this in their dealings, whether in dialogue or action.  
-__shoots of hope__ “Shoots of hope’ is a metaphorical phrase often used to describe early signs or small indications of improvement, progress, or positive change in a situation that was previously challenging or uncertain.  
-__shop around (for something)__ :dart::three: To browse different stores, vendors, or selections to find the best price or option for something one wants to buy.  
-__short call__  
-__short-handed__ :es: falto de personal  
-__shortlisted__ Placed on a final list (a shortlist) of people or things that are being considered for something, such as an award or a position of employment. _I was so shocked to hear that my story was shortlisted for the fiction award!_  
-__shot through with (something)__ Containing something; interwoven, intermixed, or filled with something. _The rose was a lovely pink shot through with streaks of white._ _John’s comments are often shot through with sarcasm._ :es: impregnado  
-__show (one’s) hand__  
-__show time__  
-__shrink from (someone or something)__ :dart: __1__ To recede or recoil from someone or something. _The way the gums are shrinking from your teeth is a clear sign of gingivitis._ _The child shrank from the men as they approached the house._ __2__ :dart: To avoid or neglect some action, duty, or responsibility. _You wanted to lead this branch, which means you can’t shrink from the thornier aspects of the job._  
 __shuffle off__  
 __shut out__  
 __shy away (from someone or something)__  
