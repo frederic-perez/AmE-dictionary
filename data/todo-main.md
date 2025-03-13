@@ -31,12 +31,14 @@ __assorted__ _adj_
 __astute__ _adj_ /uh-STOOT/ Someone or something described as astute has or shows an ability to notice and understand things clearly. In other words, they are mentally sharp or clever. _Astute_ can also describe someone who is crafty or wily.  
 __attention economy__ _n_ The attention economy refers to the incentives of advertising-driven companies, in particular, to maximize the time and attention their users give to their product.  
 __awash__ _adj, adv_  
+__backstop__ _n_  
 __barrage__ _n_  
 __bash__ _n_ __2__ _slang_ A celebration; a party.  
 __bearing__ _n_  
 __beckon__ _v_  
 __bevel__ _vt_ To cut at an inclination that forms an angle other than a right angle: _beveled the edges of the table._  
 __bidding__ _n_  
+__Big Mouth Billy Bass__ _n_ An animatronic singing prop, representing a largemouth bass, invented by Gemmy Industries on December 16, 1998; sold beginning January 1, 1999; and popular in the early 2000s.  
 __billet-doux__ _n_ (_n pl_ billets-doux) A love letter.  
 __blow fly__ _n_ (blowfly) Large usually hairy metallic blue or green fly; lays eggs in carrion or dung or wounds.  
 __blueprint__ _n_ :two::hammer:  
@@ -47,6 +49,7 @@ __brushfire__ _n_
 __bulldozer__ _n_ __1__ A powerful tractor fitted with caterpillar tracks and a blade at the front, used for moving earth, rocks, etc. __2__ _informal_ A person who bulldozes. An overbearing person; a bully. _Syn_ browbeater, bully, hector, intimidator  
 __bunker__ _n_ /ˈbʌŋ kər/ __1__ A large bin or receptacle; a fixed chest or box: a coal bunker.  
 __buy out__  
+__cannular__ _adj_ Constituting a tube; having hollow tubes (as for the passage of fluids). _Syn_ tubelike, tubular, vasiform  
 __chicory__ _n_ :astonished: /ˈtʃɪk ə ri/ __1__ _(Plants)_ Also called: _succory_. A blue-flowered plant cultivated for its leaves, which are used in salads, and for its roots. :es: escarola __2__ _(Cookery)_ The root of this plant, roasted, dried, and used as a coffee substitute. :es: achicoria  
 __coalesce__ _v_  
 __code__ _n_ [Note: _Code_ is usually uncountable in programming contexts, but it can be countable when referring to different kinds of code (like various coding systems, encryption codes, or different pieces of code), like _The software uses multiple codes to encrypt data._]  
@@ -72,6 +75,7 @@ __crewer__ _n_ _informal_ (informal) A member of a crew, as on a ship or spacecr
 __crisis__ _n_ :mega: /ˈkraɪ sɪs/ (_n pl_ crises /ˈkraɪ siːz/)  
 __cryptic__ _adj_ /KRIP-tik/ Something described as cryptic has or seems to have a hidden meaning, or is difficult to understand.  
 __cup__ _vt_ __1__ To shape like a cup: _cup one’s hands._ _Cupping the hyperdrive levers in her hand._  
+__curfew__ _n_ /KER-fyoo/  
 __deliver__ _v_  
 __demagogue__ _n_ (demagog)  
 __demonstrator__  
@@ -82,6 +86,7 @@ __diffident__
 __diorama__ _n_  
 __dismantle__ _vt_  
 __disputatious__ _adj_ /dis-pyuh-TAY-shus/ _Disputatious_ is a formal word used to describe someone who often disagrees and argues with other people (in other words, someone inclined to dispute). It can also describe something marked or characterized by arguments or controversies, or something that provokes debate or controversy. _The podcast is hosted by a disputatious pair whose sparring has drawn legions of listeners._  
+__disseminate__ _v_  
 __dissipation__ _n_ _Heat dissipation._  
 __distil__ _v_  
 __divers__ _adj_ /DYE-verz/ Numbering more than one. _The tri-county fair offers divers amusements for the whole family._  
@@ -101,6 +106,7 @@ __embolden__ _vt_ To foster boldness or courage in. _Syn_ encourage
 __emo__ _adj_ (often derogatory) Emotional; sensitive.  
 __emollient__ _n_ /ih-MAHL-yunt/ An emollient is something, such as a lotion, that softens or soothes.  
 __enamel__ _n_ :mega: /ɪˈnæm əl/  
+__enamor__ _v_ :astonished: To inspire with love. _Syn_ bewitch, captivate, charm, entrance, enchant, beguile, capture, fascinate, catch  
 __encroach__ _v_ /in-KROHCH/ To encroach is to gradually move or go into an area that is beyond the usual or desired limits, or to gradually take or begin to use or affect something that belongs to, or is being used by, someone else. _Encroach_ is often followed by _on_ or _upon._ _Conflicts between people and bears increase as humans continue to encroach on bear territory._  
 __encroachment__ _n_ :es: intromisión  
 __entrenched__ _adj_ Established firmly and securely. _The entrenched power of the nobility._  
@@ -122,11 +128,13 @@ __factoid__ _n_ /FAK-toyd/ A factoid is a brief and usually unimportant or trivi
 __fang__ _n_  
 __fast-moving__ _adj_ _She died of a fast-moving cancer._  
 __fault line__ _n_  
+__feint<sup>1</sup>__ _n_ /feɪnt/ __1__ A mock attack or movement designed to distract an adversary, as in a military manoeuvre or in boxing, fencing, etc. __2__ A misleading action or appearance. :es: finta  
+__feint<sup>2</sup>__ _vi_ To make a feint.  
 __feisty__ _adj_ :astonished: /FYE-stee/ _Feisty_ describes someone who has or shows a lively aggressiveness especially in being unafraid to fight or argue. In some regions of the US, _feisty_ may also be used as a synonym of _fidgety_, _quarrelsome_, or _frisky_. _Even her opponents admire her feisty spirit._  
 __fester__ _v_  
 __fetishist__ _n_ One who engages in fetishism (especially of a sexual nature).  
 __fetter__ _v_ Restrain with fetters. _Syn_ shackle _My foes fettered me hand and foot and imprisoned me in a dank dungeon._  
-__feud__ _n_ :mega:  
+__feud__ _n_ :two::hammer::mega:  
 __feud<sup>1</sup>__ _n_ :two::hammer: /fjuːd/ __1__ Long and bitter hostility between two families, clans, or individuals; vendetta. __2__ A quarrel or dispute. __3__ _(Law)_ Feudal law land held in return for service.  
 __fiasco__ _n_ :dart: A complete failure, esp one that is ignominious or humiliating.  
 __finagling__ _n_ :smiling_imp: /fɪˈneɪɡlɪŋ/ The use of trickery or craftiness to achieve one’s aims.  
@@ -160,8 +168,10 @@ __flighty__ _adj_ /ˈflaɪtɪ/
 __flinch__ _vi_ :es: estremecerse; encogerse  
 __fling__ _v_ :two::hammer: (flung)  
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
+__foolproof__ _adj_  
 __fragile__ _adj_ :mega:  
 __fraught__  
+__funnel__ _v_ :dart: __6__ :dart: To concentrate or focus or be concentrated or focused in a particular direction: _they funnelled their attention on the problem._  
 __gregarious__ _adj_ /grih-GAIR-ee-us/ _Gregarious_ is used to describe someone who enjoys the company of other people.  
 __grift__ _n, v_ :smiling_imp:  
 __groundless__ _adj_ _His fears proved groundless._  
@@ -210,6 +220,7 @@ __iota__ _n_ /eye-OH-tuh/ An _iota_ is an infinitesimal amount of something. The
 __Iran__ _n_ /ɪˈræn, ɪˈrɑn, aɪˈræn/  
 __irate__ _adj_ :dart::astonished:  
 __irretrievable__ _adj_ _Irretrievable breakdown of marriage._  
+__Islamophobia__ _n_  
 __island__ _n_ /ˈaɪ lənd/  
 __isthmus__ _n_ :mega: /is-muhs/  
 __itching__ _n_ An irritating cutaneous sensation that produces a desire to scratchitching - an irritating cutaneous sensation that produces a desire to scratch. _Syn_ itchiness, itch  
@@ -263,7 +274,7 @@ __klaxon__ _n_ (claxon) [:scroll: From Klaxon, a trademark for a loud electric h
 __Knight Templar__ _n_  
 __knockoff__ _n_ An unauthorized copy or imitation, as of designer clothing.  
 __kraken__ _n_ (often cap.) A huge sea monster in Norwegian legend.  
-__lackey__ _n_ /ˈlækɪ/  
+__lackey__ _n_ :two::hammer: /ˈlækɪ/  
 __laden__ _adj_ /ˈleɪd n/ __1__ Weighed down with a load; loaded. __2__ Encumbered; burdened. :es: abrumado  
 __ladle__ _n, vt_ :camera: /ˈleɪd l/  
 __lair__ _n_  
@@ -359,6 +370,7 @@ __matron__ _n_ :es: supervisora; enfermera jefe; matrona
 __matte__ _n_  
 __maw__ _n_  
 __mayhem__ _n_  
+__meager__ _adj_ Deficient in amount or quality or extent. _Syn_ scrimpy, stingy  
 __meanly__ _adv_ In a miserly manner. _Syn_ humbly _They lived meanly and without ostentation._  
 __measles__ _n_ :mega:  
 __measly__ _adj_ :astonished:  
@@ -392,7 +404,8 @@ __mince__ _v_
 __Mini-Me__ _n_ _chiefly humorous_ A person who is a miniature, but otherwise identical, version of a particular person.  
 __miniscule__ _adj_ :astonished:  
 __minuscule__ _adj_ /-uh-skyool/ __1__ Something described as minuscule is very small. _The number of bugs in the latest version of the video game is minuscule compared to the number that surfaced in the beta version._ __2__ _Minuscule_ can also mean “written in, or in the size or style of, lowercase letters,” in which case it can be contrasted with majuscular. _The ancient manuscripts on display are all in minuscule script._  
-__mirth__ _n_ :two: Gladness and merriment, especially when expressed by laughter.  
+__mirth__ _n_ :three: Gladness and merriment, especially when expressed by laughter.  
+__mirthless__ _adj_ Lacking mirth; devoid of joy; sad. _Han threw Luke a mirthless grin._  
 __miry__ _adj_ (Of soil) soft and watery. _Syn_ boggy, marshy, mucky, muddy, quaggy, sloppy, sloughy, soggy, squashy, swampy, waterlogged _Right across the lower part of the bog lay a miry path._  
 __misanthrope__ _n_ (misanthropist) A person who dislikes or distrusts other people or mankind in general.  
 __misbegotten__ _adj_ :two::smiling_imp: /ˌmɪs bɪˈgɒt n/ /miss-bih-GAH-tun/ (misbegot) _Misbegotten_ describes things that are badly planned or thought out. _They were sent on a misbegotten diplomatic mission that was sure to fail._  
@@ -445,6 +458,7 @@ __mull<sup>1</sup>__ _vt_ /mŭl/ To think about extensively; ponder. __1__ __2__
 __mull<sup>2</sup>__ _vi_ /mŭl/ To ruminate; ponder: _mull over a plan._  
 __mulled wine__ _n_ Wine heated with sugar and spices and often citrus fruit.  
 __mullet__ _n_ /ˈmʌlɪt/ __1__ An edible fish found in coastal waters. :es: salmonete __2__ A hairstyle in which the hair is short at the top and long at the back.  
+__multifarious__ _adj_ /mul-tuh-FAIR-ee-us/ Something described as multifarious has great diversity or variety, or is made up of many and various kinds of things. Multifarious is a formal word and a synonym of diverse. _He participated in multifarious activities throughout college._  
 __multilateralism__ _n_ The practice of promoting trade among several countries through agreements concerning quantity and price of commodities, as the Common Market, and, sometimes, restrictive tariffs on goods from outsiders.  
 __multimeter__ _n_ :two::camera::mega: /ˈmʌltɪˌmiːtə/ An instrument that combines an ammeter, an ohmmeter, a voltmeter, and occasionally other measurement or testing devices into one unit. :es: multímetro  
 __muttered__ _v_  
@@ -502,6 +516,7 @@ __nutmeg__ _n_
 __nutso__  
 __obtuse__ _adj_ /ahb-TOOSS/  
 __occasion__  
+__off-season__ _n_ The season when travel is least active and rates are lowest.  
 __oligopoly__  
 __one-stop__ _adj_  
 __onslaught__ _n_ :two::hammer::mega: /ˈɒnˌslɔt, ˈɔn-/  
@@ -514,6 +529,7 @@ __paramount__
 __Pareto-efficient__ _adj_ (Pareto efficient) Describing a situation in which the profit of one party cannot be increased without reducing the profit of another.  
 __parlay__ _v_  
 __pavilion__ _n_ /pəˈvɪl yən/  
+__peace treaty__ _n_ An agreement to end fighting or conflict.  
 __pecking order__  
 __pensive__ _adj_ Deeply or seriously thoughtful. _Syn_ contemplative, meditative, musing, pondering, reflective, ruminative, brooding, broody  
 __peppermint__ _n_ __1__ Herb with downy leaves and small purple or white flowers that yields a pungent oil used as a flavoring. :es: menta __2__ Red gum tree of Tasmania. __3__ a candy flavored with peppermint oil. _Syn_ peppermint candy  
@@ -608,6 +624,7 @@ __presage__ _v_ :mega: /PRESS-ij/ To presage something is to give or be a sign t
 __prevalent__ _adj_  
 __primed__ _adj_ (usually followed by _to_ or _for_) Prepared for use or action. On the point of or strongly disposed. _Syn_ set, fit  
 __prissy__ _adj_  
+__privilege__ _n_ :mega: /ˈprɪv ə lɪdʒ, ˈprɪv lɪdʒ/  
 __probity__ _n_ :dart:  
 __procedural__ _adj, n_  
 __profiteer__ _n_ :astonished: One who makes excessive profits on goods in short supply.  
@@ -640,6 +657,7 @@ __quail<sup>1</sup>__ _n_ :es: codorniz
 __quail<sup>2</sup>__ _vi_  
 __Quaker__ _n_ /ˈkweɪkə/  
 __quandary__ _n_  
+__quark__ _n_ /KWORK/ _Quark_ is a word used in physics to refer to any one of several types of very small particles that make up matter.  
 __quarry__ _n_ :two::hammer:  
 __quaternary__ _adj_ Coming next after the third and just before the fifth in position or time or degree or magnitude. _Syn_ fourth  
 __quaver__ _vi_ __1__ To quiver, as from weakness; tremble. _I took a quavering breath._  
@@ -685,6 +703,7 @@ __ravish__ _v_
 __reach out__ _v_  
 __readout__ _n_ The output of information from a computer in readable form.  
 __ready room__ _n_ :two::hammer:  
+__ready__ _vt_ To cause to be ready.  
 __real estate developer__ _n_ :es: promotor immobiliario  
 __real__ _adv_ :dart: _informal_ [In American English it is usual to drop the _-ly_ adverb ending from _really_ when used as an intensifier] Very. _I’m real sorry about that._ _Real quiet._  
 __ream__ _n_ __2__ (often _reams_) A very large amount: _reams of work to do._  
@@ -796,7 +815,10 @@ __scruffy__ _adj_
 __scuffling<sup>1</sup>__ _adj_ Of or relating to fighting in a disorderly manner. _Scuffling sounds._  
 __scuffling<sup>2</sup>__ _n_ The act of fighting in a disorderly manner.  
 __search warrant__ _n_  
+__second language__ _n_  
 __secular__ _adj_ /SEK-yuh-ler/ _Secular_ describes things that are not spiritual; that is, they relate more to the physical world than the spiritual world. The word also carries the closely related meaning of “not religious.”  
+__seed funding__ _n_ The early investment of capital in a startup company in exchange for an equity stake in the company.  
+__sell-off__ _n_ (selling-off) __1__ A sudden and marked decline in stock or bond prices resulting from widespread selling.  
 __sentient__ _adj_ :two::hammer:  
 __sepulchral__ _adj_ Gruesomely indicative of death or the dead. _Syn_ charnel, ghastly  
 __settle__ _v_ /ˈsɛtəl/ __12__ (Banking & Finance) (sometimes foll by _up_) To pay off or account for (a bill, debt, etc). _He settled the bill before leaving._  

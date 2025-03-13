@@ -10,6 +10,7 @@ __(it’s) (a)bout time__ :dart::two:
 __(it’s) just as well (that) (something happened)__ It is or turned out to be beneficial (that something happened). _It turned out we had a pop quiz on Monday. Just as well I was studying this weekend!_  
 __(it’s) little wonder__ It is not at all surprising (that something is the case). _I was always terrible at math in school, so it’s little wonder that I have such trouble filing my taxes._  
 __(just) for the fun of it__  
+__(one’s) days are numbered__ (its days are numbered)  
 __(one’s) heart bleeds for (someone)__ One feels sorrow or sadness for someone who is experiencing hardships. The phrase can also be said sarcastically to mean the opposite.  
 __(one’s) lucky day__ /ˈsʌb tərˌfyudʒ/ A particular day or moment in one’s life when one experiences extremely good luck, fortune, or favor. _Wow, that’s the third hand of poker I’ve won in a row—it must be my lucky day!_  
 __(out) on a limb__  
@@ -58,7 +59,7 @@ __abandon ship__
 __about time__ ((it’s) (a)bout time)  
 __ace__  
 __against all odds__  
-__ahead of the curve__  
+__ahead of the curve__ :two::hammer:  
 __all eyes are on (someone or something)__ Everyone is paying close attention to someone or something.  
 __all in all__  
 __all shapes and sizes__  
@@ -67,10 +68,16 @@ __all the same__
 __all told__ In total. This phrase can be applied to numerical sums or to the collective aspects of something. _I made a lot in tips this week—$300 all told._ _Yeah, it rained a lot during our vacation, but all told we had a great time._  
 __all too easy__  
 __all too soon__ The idiom “all too soon” means that something happened much earlier than expected or desired, often with a sense of regret or disappointment. It conveys the idea that an event occurred prematurely or that a positive experience ended quickly. “The holidays were over all too soon,” implies that the speaker wished the holidays had lasted longer. “Graduation came all too soon,” suggests that the speaker felt unprepared for the end of their schooling.  
+__and everything in between__ The idiom “and everything in between” refers to the entire range or spectrum of things, situations, or possibilities that fall between two extremes. It’s used to express inclusivity of a broad variety of elements within a certain category or context.  
 __as of yet__  
+__at one’s peril__ _somewhat formal_ Used to say that if one does something there could be bad consequences. _Restaurants that ignore the smoking ban do so at their peril._  
 __attaboy__  
+__be ripe for the picking__ To be in an ideal position or at the perfect stage to be utilized, benefited or profited from, taken advantage of, exploited, etc. (Alludes to fruit being at the right stage to be harvested.)  
 __boy oh boy__  
+__bring (someone) to tears__ The idiom “bring (someone) to tears” means to cause someone to cry, often due to strong emotions such as sadness, joy, or overwhelming feelings. It can refer to a situation, event, or piece of art (like a movie, song, or book) that evokes a deep emotional response, leading the person to shed tears.  
+__bubble up__  
 __bury the hatchet__  
+__by and large__  
 __case in point__  
 __catch (the) headlines__ To be featured on the headlines of news articles, as due to being particularly important, popular, fashionable, etc. _It may not be so tremendous as to catch the headlines, but this small change in immigration law could have a huge impact on foreign workers._  
 __catch a break__  
@@ -99,6 +106,7 @@ __dig and poke around__ The idiom “dig and poke around” generally means to s
 __dis__ See _diss_.  
 __disabuse (someone or oneself) of (something)__  
 __discretion is the better part of valor__ _proverb_  
+__dismiss (someone or something) out of hand__  
 __dispose of (someone or something)__  
 __diss__ :dart::two: (dis(s) (on someone)) To belittle [someone]; to show disrespect [for someone].  
 __do an about-face__  
@@ -178,7 +186,7 @@ __feel like a million bucks__ :astonished: To feel exceptionally attractive or i
 __feel like doing something__  
 __feel out__  
 __feel puny__ To feel sick. _I woke up feeling puny, so I just stayed in bed all day._  
-__feel the heat__ To encounter an uncomfortable situation.  
+__feel the heat__ :two: To deal with or come up against intense pressure or hostility. To encounter an uncomfortable situation.  
 __first off__  
 __flip the switch__ (flip a switch) __1__ To cause a sudden and complete change: This can refer to a change in behavior, attitude, or even a situation. _He flipped the switch and suddenly became very angry._ __2__ To make something happen quickly and easily: This meaning emphasizes the ease with which the change occurs. _We just need to flip the switch to activate the new system._ __3__ To turn something on or off: This is the most literal meaning, referring to the action of physically flipping a switch. However, it can also be used metaphorically to describe starting or stopping something. _The company flipped the switch on their new marketing campaign._  
 __flip through (something)__ To casually read through a document, magazine, or book without paying close attention to it. _I had just started flipping through a magazine when the receptionist called my name._ _I was flipping through the (television) channels._  
@@ -202,10 +210,12 @@ __give someone or something away__ To reveal a secret about someone or something
 __glower at (someone or something)__ :three: To look at someone or something with anger or disapproval.  
 __go berserk__  
 __go for broke__ To give something one’s full effort. :es: y a por todas  
+__go into a tailspin__  
 __go missing__  
 __go postal__ :dart: _US informal_ [:scroll: This expression arose as a result of several recorded cases in the USA in which postal-service employees ran amok and shot colleagues] Go mad, especially from stress. Become extremely angry or start behaving in a violent and angry way. _According to one eye witness, the man ‘went postal, and started hitting his computer’_  
 __good for you__  
 __guest of honor__  
+__half the battle__ A key part of a larger goal or task. _Digging the car out of the driveway will be half the battle of getting out to the store._  
 __hit the ground running__  
 __hit the nail on the head__  
 __hit the sack__  
@@ -242,14 +252,18 @@ __if anything__
 __if it ain’t broke, don’t fix it__ :two::hammer: (if it isn’t broke, don’t fix it)  
 __in a moment’s notice__  
 __in a pinch__ When something ideal or preferred is not available; as a substitute.  
+__in and of itself__  
 __in any way, shape, or form__ :two::hammer:  
 __in brief__ In summary; to say it briefly. _The film was, in brief, dull._ _If you can, please explain it in brief._ _Medical news in brief: ..._  
 __in custody__ (of someone or something)  
 __in dribs and drabs__  
+__in full swing__  
 __in like a lion, out like a lamb__ _proverb_ Used to describe the weather in March in the northern hemisphere, where it tends to be very harsh and unpleasant in the beginning but milder and more palatable at the end. A shortening of the full phrase, “March comes in like a lion and goes out like a lamb.” _A: “I just wanted this awful cold weather to be over!” B: “It shouldn’t be much longer now. March always comes in like a lion, but it goes out like a lamb.”_  
 __in more ways than one__  
 __in one’s book__  
+__in the cards__ _AmE_ (_BrE_ on the cards) [:scroll: This phrase probably refers to the practice of using playing cards or tarot cards to foretell the future] Very likely or certain to happen, occur, or take place.  
 __in the hope of__  
+__in the nick of time__  
 __in the works__ :two::hammer:  
 __Irish goodbye__ (See also _French leave_.) A hasty exit made without saying farewells to anybody.  
 __Jack and Jill suite__ (Jack and Jill bedroom suite) A bedroom suite composed of two bedrooms of similar size and a bathroom, where the bathroom is accessed through both bedrooms, and both bedrooms access the rest of the establishment/house/hallway.  
@@ -381,6 +395,7 @@ __long since__ Long ago; of the (relatively) distant past. _Though Sarah had lon
 __long time no see__  
 __long-run__ Involving, maturing after, or lasting for a long period of time. Used before a noun. _Our team has come up with a number of long-run solutions to our financial problems, but we’ll have to make some sacrifices for them to be effective._  
 __look (a little/bit) off__  
+__look (one) in the eye(s)__ To make eye contact with one, typically in a way that is confident or without shame.  
 __look askance upon (someone or something)__ To view or regard someone or something in a disapproving or distrustful manner. _Such is the state of politics these days that even the most patriotic citizens tend to look askance upon the manner in which congress conducts business._  
 __look for a dog to kick__ To seek out someone to blame or castigate, especially someone who is not at fault. (Usually said in the continuous tense.) _My dad had a famously short fuse when we were growing up, so we soon learned to get out of his way when he was looking for a dog to kick._  
 __look on the sunny side (of life/things)__ :dart: To view one’s life, situation, or circumstances with a generally optimistic and cheerful attitude; to focus on what is positive in life. _My mother always told me to look on the sunny side of life, and I have to admit, it helps when I’m having a rough day._  
@@ -449,6 +464,9 @@ __make waves__ :three::hammer:
 __man the fort__ To mind or take charge of a location during the time in which it is unattended by another. _Don’t worry, honey, I’ll man the fort at home until you get back from the grocery store._  
 __man up__ To deal with something in a more brave, stoic, or masculine way than one has done so hitherto. (Usually used imperatively.) _It’s just a tiny scratch! You need to man up and quit crying about it._  
 __many happy returns of the day__ I wish you a very happy birthday and many more like it in the future. _Hey Jack, many happy returns of the day! Are you going to do anything special to celebrate the occasion?_  
+__march to (the beat of) a different drum__ To do something, act, or behave in a manner that does not conform to the standard, prevalent, or popular societal norm. _My brother’s eschewed the idea of a full-time career and has had every oddball job you could think of, but then he’s always been happy marching to the beat of a different drum._  
+__marginal gains__ “Marginal gains” refers to small, incremental improvements in performance or efficiency that, when accumulated, can lead to significant overall gains.  
+__marry beneath (oneself)__ To marry someone who is of a lower social class or standing than oneself.  
 __meant to be__  
 __memento mori__  
 __memento vivere fac vitam incredibilis__ A Latin phrase that translates to “Remember to live, make an incredible life.”  
@@ -556,7 +574,9 @@ __on (one’s) watch__ :two::hammer:
 __on (someone’s) behalf__  
 __on a daily basis__ Once or more each day.  
 __on a dime__  
+__on a journey__  
 __on a lark__ On a whim or fancy; for fun or as a joke.  
+__on a limb__ ((out) on a limb) In a position that lacks evidence, certainty, or support. The image is that of being situated on a branch of a tree, away from the support of the trunk. _Her hypothesis is really out on a limb—the facts don’t support it at all._  
 __on a mission__ :three::hammer:  
 __on a roll__  
 __on a second thought__ An idiomatic expression that means to reconsider or reevaluate something after initial consideration. It implies that one has had a change of mind or a new perspective after giving more thought to a particular issue or decision.  
@@ -576,6 +596,7 @@ __on steroids__
 __on the back burner__ Of a low priority; given less or little thought or attention; postponed or suspended.  
 __on the blink__ __1__ _slang_ Not working correctly; acting strangely; malfunctioning. _Our washer is on the blink, so I’m on my way to the laundromat._ __2__ _slang_ Drunk. _Do you remember last night at the bar at all? You were really on the blink!_  
 __on the brink of (something)__ :two::hammer:  
+__on the cards__ _BrE_ (_AmE_ in the cards) Very likely or certain to happen, occur, or take place.  
 __on the contrary__  
 __on the edge of (one’s) seat__  
 __on the fly__  
@@ -710,6 +731,7 @@ __sound the alarm__ :two::hammer:
 __sounds familiar__  
 __sounds like__  
 __spaghetti bender__  
+__spaghetti code__  
 __spare the rod and spoil the child__  
 __speak (one’s) mind__ To voice one’s thoughts plainly or bluntly.  
 __speak volumes__  
@@ -775,6 +797,7 @@ __sure as hell__ ((as) sure as hell) _The cops that worked the case didn’t do 
 __sure enough__ As expected or anticipated.  
 __sure thing__  
 __surprise, surprise__  
+__swap out__ To replace or exchange someone or something with another person or thing. A noun or pronoun can be used between “swap” and “out.” _I think I just need to swap out the batteries for this to start working again._  
 __swat__ _slang_ To contact emergency services, such as the police, with a fraudulent report of an emergency so that they respond in large numbers to a certain location, often done as a prank. The name refers to SWAT (“Special Weapons and Tactics”) teams, specialized police units that respond to especially dangerous situations. _Kids keep swatting celebrities’ houses, and police are coming down hard when they catch the person who did it._  
 __swatting__ _slang_ The act of contacting emergency services, such as the police, with a fraudulent report of an emergency so that they respond in large numbers to a certain location, often done as a prank. The name refers to SWAT (“Special Weapons and Tactics”) teams, specialized police units that respond to especially dangerous situations. _Swatting is much more dangerous than a simple prank—it diverts first responders who may be needed elsewhere._  
 __sweep (something) under the carpet__ __(sweep (something) under the rug)__  
