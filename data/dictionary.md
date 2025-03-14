@@ -12387,25 +12387,26 @@ __mirage__ _n_ /mɪˈrɑʒ/
 __Miranda rights__ _n_  
 __mire<sup>1</sup>__ _n_ An area of wet, soggy, muddy ground; a bog. _Syn_ morass, quag, quagmire  
 __mire<sup>2</sup>__ _v_ :pencil2::nine::m: (mired) __1a__ To cause to sink or become stuck in mire. __b__ To hinder, entrap, or entangle. _Britain is now mired in crisis._ _He was mired in his fixed mindset._ __2__ To soil with mud or mire.  
-__mirth__ _n_ :seven: /mɜrθ/ Gladness and merriment, especially when expressed by laughter. _Syn_ glee, gleefulness, hilarity, mirthfulness  
+__mirth__ _n_ :nine::m: /mɜrθ/ Gladness and merriment, especially when expressed by laughter. _Syn_ glee, gleefulness, hilarity, mirthfulness  
 __mirthful__  
-__mirthless__  
+__mirthless__ _adj_ :two: Lacking mirth; devoid of joy; sad. _Han threw Luke a mirthless grin._  
+__miry__ _adj_ (Of soil) soft and watery. _Syn_ boggy, marshy, mucky, muddy, quaggy, sloppy, sloughy, soggy, squashy, swampy, waterlogged _Right across the lower part of the bog lay a miry path._  
 __misadventure__ _n_ :two: An instance of misfortune; a mishap.  
 __misaligned__ _adj_  
-__misanthrope__ _n_ /MISS-un-throhp/ Someone who hates people in general.  
+__misanthrope__ _n_ :two: /MISS-un-throhp/ (misanthropist) A person who dislikes or distrusts other people or mankind in general. Someone who hates people in general.  
 __misanthropic__ _adj_ :two: Characterized by a hatred or mistrustful scorn for humankind. _Syn_ cynical _Perhaps rendered more misanthropic by the infirmities that come with years upon a ship, she had made up her mind to kill all hands at once._  
 __misapprehension__  
-__misbegotten__ _adj_ :two::hammer: /miss-bih-GAH-tun/  
+__misbegotten__ _adj_ :four::smiling_imp: /ˌmɪs bɪˈgɒt n/ /miss-bih-GAH-tun/ (misbegot) _Misbegotten_ describes things that are badly planned or thought out. _They were sent on a misbegotten diplomatic mission that was sure to fail._  
 __miscalculation__ _n_ :three: A mistake in calculating. :es: error de cálculo  
 __miscarriage__ _n_ :two::hammer:  
 __miscarry__ _v_  
 __miscegenation__ _n_ :two::hammer:  
 __miscellanea__ _n_ Miscellaneous items or written works collected together. _Syn_ assortment, mixed bag, motley, potpourri, salmagundi, smorgasbord, variety, mixture _The office was littered with papers, files, and assorted miscellanea._  
 __miscellaneous__ _adj_ :mute:[mis~~c~~ellaneous]  
-__miscellany__ _n_ :mega::two: (mɪˈsɛlənɪ; US ˈmɪsəˌleɪnɪ) __1__ A mixed assortment of items.  
+__miscellany__ _n_ :three::mega: /mɪˈsɛlənɪ; US ˈmɪsəˌleɪnɪ/ (_n pl_ miscellanies) __1__ A mixed assortment of items.  
 __mischance__ _n_ :three: __1__ An unfortunate occurrence; a mishap. __2__ Bad luck.  
 __mischief__ _n_ :six::hammer:  
-__mischievous__ _adj_ :four::mega::hammer: /MISS-chuh-vuss/  
+__mischievous__ _adj_ :five::mega::hammer: /MISS-chuh-vuss/  
 __misclassification__ _n_ :pencil2:  
 __misconception__ _n_  
 __misconduct__ _n_ :three::hammer:  
@@ -12416,9 +12417,10 @@ __misdemeanor__ _n_ :two::hammer:
 __misdiagnose__ _vt_ :two::hammer: _A misdiagnosed patient._  
 __misdiagnosis__ _n_ An incorrect diagnosis.  
 __misdirection__ _n_ :three::hammer:  
+__mise-en-scène__ _n_ /meez-ahn-SEN/ _Mise-en-scène_ can refer to the setting of a play, movie, etc., or it can refer to the physical or social setting in which something real occurs or develops.  
 __miser__ _n_ :three::hammer: :es: avaro  
 __miserable__ _adj_ _We are miserable._  
-__miserably__ _adv_ _Failed miserably._  
+__miserably__ _adv_ :two::hammer: _Failed miserably._  
 __misericord__ _n_ :astonished: __1__ Compassion, pity, or mercy. __2__ Something to provide support to a standing person. __3__ A place where rules are relaxed. __4__ A dagger used to deliver the death stroke to a seriously wounded person.  
 __miserly__ _adj_ :three::astonished: /ˈmaɪzə(r)li/ Unwilling to spend any money. Of, relating to, or characteristic of a miser; avaricious or penurious.  
 __misfire__ _vi_ :three::hammer: /ˌmɪsˈfaɪə/ (misfiring) _One misfire in the 2000s._  
@@ -12429,8 +12431,8 @@ __misgiving__ _n_ :nine::m: (misgivings) _(Often plural)_ Uneasiness about the f
 __misguide__ _v_  
 __misguided__ _adj_ :two: Based or acting on error; misled: _well-intentioned but misguided efforts._  
 __mishandle__ _vt_  
-__mishap__ _n_ :mega::two::hammer:  
-__mishmash__ _n_ :two::hammer:  
+__mishap__ _n_ :three::hammer::mega:  
+__mishmash__ _n_ :four: A collection or mixture of unrelated things; a hodgepodge.  
 __misidentification__  
 __misinformation__ _n_ :four: False information that is spread, regardless of intent to mislead. Information that is incorrect.  
 __miskey__ _vt_ :dart::two: /ˌmɪsˈkiː/ (miskeyed) To key (something) incorrectly on a keyboard. _He mislaid his keys._  
@@ -12438,6 +12440,7 @@ __mismatch__ _n_ :four::pencil2::hammer:
 __misnomer__ _n_ :nine::m::pencil2: /miss-NOH-mer/ __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation _Peanut is one of the most famous misnomers, because peanuts are legumes, not true nuts._ __2__ The act of wrongly naming or designating, as in “calling complicated and varied climatic changes ‘global warming’ is something of a misnomer.” _To call this “neighborhood policing” would be a misnomer._  
 __miso__ _n_  
 __misogynist__ _adj_ :two: One who hates or mistrusts women.  
+__misogynoir__ _n_ Hatred of, aversion to, or prejudice against Black women.  
 __misogyny__ _n_ :pencil2: Hatred of, aversion to, or prejudice against women.  
 __misophonia__ _n_ /mi-soh-FOH-nee-uh/ [:scroll: From Greek miso- (hate) + -phonia (sound)] An intolerance of certain sounds, such as chewing, slurping, etc.  
 __misphrase__ _vt_  
@@ -12448,15 +12451,15 @@ __misquote__ _vt_ /mɪsˈkwoʊt/
 __misread__ _vt_ 2. To misinterpret or misunderstand: _misread our friendly concern as prying._  
 __misremember__ _v_ To remember incorrectly.  
 __miss__ _n_ _A memory cache miss._  
-__missal__ _n_ :two::hammer:  
+__missal__ _n_ :three: A book containing all that is said or sung at mass during the entire year.  
 __misspeak__ _v_ (misspoke) To speak or pronounce incorrectly: _The actor misspoke his lines._  
 __misspell__ _v_ :three::pencil2: To spell incorrectly.  
 __misspend__ _vt_ :two::hammer: To spend time more or money foolishly or wastefully.  
 __misstate__ _v_  
 __misstated__ _v_  
-__misstep<sup>1</sup>__ _n_ :seven::pencil2::hammer:  
-__misstep<sup>2</sup>__ _v_ :two::hammer:  
-__missus__ _n_ __1__ _informal_ Wife. __2__ The mistress of a household.  
+__misstep<sup>1</sup>__ _n_ :eight::pencil2::hammer:  
+__misstep<sup>2</sup>__ _vi_ :three: To make a mistake.  
+__missus__ _n_ :two: __1__ _informal_ Wife. __2__ The mistress of a household.  
 __misting fan__ _n_  
 __mistletoe__ _n_ :two::mute:[mis~~t~~letoe]:hammer:  
 __mistook__ _v_ _One 6-year-old girl in California mistook a discarded syringe for a thermometer._  
@@ -12465,8 +12468,10 @@ __mistrial__ _n_ :two::hammer:
 __mistruth__ _n_ :two::hammer: (mistruths)  
 __misuse<sup>1</sup>__ _n_ :two::hammer: _He had no history of alcohol misuse._  
 __misuse<sup>2</sup>__ _v_ :two::hammer: _It results in code that is easier to understand and harder to misuse._  
-__miter__ _n_  
+__misuser__ _n_ __1__ One that misuses: _a misuser of school property._  
+__miter__ _n_ :two: (mitre) A type of headdress worn by archbishops and bishops.  
 __mitigate__ _v_ /MIT-uh-gayt/ :five::hammer:  
+__mitochondrion__ _n_ :pencil2: (_npl_ mitochondria)  
 __mitt__ _n_  
 __Mitty__ _n_ /ˈmɪtɪ/ [:scroll: From Walter Mitty, a fictional character from a 1939 short story by James Thurber, _The Secret Life of Walter Mitty_] __a__ A fictional character given to grand and elaborate fantasies; daydreamer.  
 __mitzvah__ _n_ :two: /MITS-vuh/ [:scroll: From Hebrew mitzvah (commandment), from tziwwah (to command). Earliest documented use: 1723. Plural: mitzvahs or mitzvoth. The most familiar usage of the word may be in the terms bar mitzvah (of the age of commandment, for boys) and bat mitzvah (for girls). Jewish children are considered adults at the age of 13 (in some versions of Judaism, the age for girls is 12). This comes with rights and responsibilities. The bar and bat mitzvahs are observed with rituals, ceremonies, and celebrations.] __1__ A good deed. __2__ A duty, obligation, or commandment.  
@@ -12480,14 +12485,14 @@ __mixtape__ _n_
 __mnemonic<sup>1</sup>__ _adj_ /nih-MAH-nik/  
 __mnemonic<sup>2</sup>__ _n_ A device, such as a formula or rhyme, used as an aid in remembering. _Syn_ aide-memoire _The students came up with a mnemonic to help themselves remember the colors of the rainbow._  
 __mo__ _n_ :three: __1__ Month. (mo., mos.) __2__ A mo is a very short length of time. It is short for moment.  
-__moat__ _n_ :nine: __1__ A deep, wide trench, usu. filled with water, surrounding the rampart of a fortified place, as a town or a castle. _The castle’s moat._ __2__ Any similar trench, as one used for confining animals in a zoo.  
+__moat__ _n_ :nine::m: __1__ A deep, wide trench, usu. filled with water, surrounding the rampart of a fortified place, as a town or a castle. _The castle’s moat._ __2__ Any similar trench, as one used for confining animals in a zoo.  
 __moated__ _adj_ _The moated palace of King Edwin._  
 __mob__ _n_  
 __Mobile, Alabama__ _n_ :mega: [Common popular pronunciation: /moh-buhl/ Prevailing local pronunciation: /moh-beel/]  
 __mocassin__ _n_ :three: (moccasin, moccasins) Soft leather shoe; originally worn by Native Americans.  
 __mockie__ _n_ :two::hammer:  
 __mockingbird__ _n_ :es: sinsonte  
-__mocktail__ _n_ :two::astonished: A cocktail containing no alcohol.  
+__mocktail__ _n_ :three::astonished: A cocktail containing no alcohol.  
 __model home__ _n_ A house in a group of new houses that has been painted and filled with furniture, so that people who might want to buy one of the houses can see what they will be like.  
 __moderate__ _v_  
 __modesty__ _n_  
@@ -12495,15 +12500,18 @@ __modicum__ _n_ :nine::m: If you want to describe a small amount of something, t
 __modish__ _adj_  
 __Mogollon Rim__ _n_ A rugged escarpment of east-central Arizona forming the southern edge of the Colorado Plateau.  
 __mogrify__ _v_  
-__mogul__ _n_ :nine: /ˈməʊɡʌl; məʊˈɡʌl/ __1__ A very rich or powerful person; a magnate. _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
+__mogul__ _n_ :nine::m: /ˈməʊɡʌl; məʊˈɡʌl/ __1__ A very rich or powerful person; a magnate. _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
 __mohair__  
 __mohawk__ _n_ :two::hammer: /ˈməʊhɔːk/  
 __Mohs hardness__ _n_ _The Mohs scale of mineral hardness is qualitative and arbitrary._  
+__moil__ _vi_  
 __moiré pattern__  
 __moire__ _adj_ Having a wavy or rippled surface pattern. Used of fabric. _Syn_ watered _As the lady sat down, the folds of her moire silk dress rustled about her._  
+__moisten__ _v_  
 __mojo__ _n_ :three::hammer:  
 __molasses__ _n_ :seven::hammer: :es: melaza _Pomegranate molasses._  
-__mold__ _n_  
+__mold<sup>1</sup>__ _n_  
+__mold<sup>2</sup>__ _vt_  
 __molding__ _n_ :two::hammer: _Mahogany moldings._  
 __moldy__ _adj_ :two::hammer:  
 __mole grip__ _n_ :camera: Locking pliers.  
@@ -12535,9 +12543,12 @@ __money__ _n_ :two::mega::hammer: /ˈmʌnɪ/
 __moneyed__  
 __monger<sup>1</sup>__ _n_ __2__ _(in combination)_ A promoter of something unpleasant: _warmonger._  
 __monger<sup>2</sup>__ _v_ :seven: (mongering) To disseminate, promote, etc., often in a way that is regarded as deceptive or self-serving. _Hate-mongering._  
+__mongoose__ _n_  
 __monied__ _v_  
 __monies__ _n_ :pencil2: _Taxpayer monies._  
 __moniker__ _n informal_ :four::hammer:  
+__monition__ _n_ A warning or an intimation of something imminent, especially of impending danger. _Syn_ admonition, warning, word of advice  
+__monitory__ _adj_ Conveying an admonition or a warning. _Syn_ admonitory, cautionary, exemplary, warning _She shot him a monitory glance and he quickly changed the subject to one less controversial._  
 __monkey business__ _n_ _informal_ :two: Silly or dishonest behaviour.  
 __monkey mind__  
 __monkey suit__  
@@ -12561,37 +12572,40 @@ __monstera__ _n_ :mega: /ˈmɑnstərə/
 __monstrosity__ _n_ :pencil2::three::hammer:  
 __montage__ _n_ A single pictorial composition made by juxtaposing or superimposing many pictures or designs. _Syn_ collage _The children’s gift to their grandmother was a montage of family pictures._  
 __montero__ _n_ A hunter’s cap with side flaps.  
-__monumental__ _adj_  
+__Montserrat__ _n_ An island in the Leeward Islands, in the West Indies: British crown colony.  
+__monumental__ _adj_ :two::hammer:  
 __moocher__ _n_ :dart: (moochers) One who exploits the generosity of others. _A person who mooches off others._  
 __mood__ _n_ :two::hammer: _Mood story._  
 __moodiness__ _n_  
 __moody__ _adj_ :four::hammer:  
 __Moon bounce__ _n_ A radio communications technique that relies on the propagation of radio waves from an Earth-based transmitter directed via reflection from the surface of the Moon back to an Earth-based receiver.  
 __moon roof__  
+__moon shot__ _n_ (moonshot)  
 __moon__ _v_  
 __mooncalf__ _n_ A foolish or absentminded person.  
 __moonshine<sup>1</sup>__ _n_ :four::hammer: (spirit) _People suspected of brewing moonshine._  
 __moonshine<sup>2</sup>__ _v_  
-__moonshot__ _n_ :four: _technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google’s New Moonshot Project: the Human Body_ __1__ The launching of a spacecraft to the moon. __2__ Awesome, fantastic, almost impossible to achieve, the best, the reason for success, reaching the highest point, right on target. _A moonshot type of thing._  
+__moonshot__ _n_ :five: _technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google’s New Moonshot Project: the Human Body_ __1__ The launching of a spacecraft to the moon. __2__ Awesome, fantastic, almost impossible to achieve, the best, the reason for success, reaching the highest point, right on target. _A moonshot type of thing._  
 __moonsoon__  
 __moonstruck__ _adj_ :two: __1__ Mentally deranged, supposedly by the influence of the moon; crazed. __2__ Dreamily romantic or bemused.  
-__Moor__ _n_  
+__Moor__ _n_ :two::hammer:  
 __moor__ _n_ :four::hammer: _Heather-filled moors._  
 __mooring__ _n_ :two::hammer:  
 __Moorish__ _adj_ _Moorish architecture._  
-__moot<sup>1</sup>__ _adj_ :nine::m: [:scroll: _Moot_ derives from _gemōt_, an Old English name for a judicial court. Originally, _moot_ referred to either the court itself or an argument that might be debated by one.] __1__ Subject to debate, dispute, or uncertainty. Open to discussion: debatable. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ Having little or no practical relevance. Of little practical value, hence not worth considering. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
+__moot<sup>1</sup>__ _adj_ :nine::m: /MOOT/ [:scroll: _Moot_ derives from _gemōt_, an Old English name for a judicial court. Originally, _moot_ referred to either the court itself or an argument that might be debated by one.] __1__ Subject to debate, dispute, or uncertainty. Open to discussion: debatable. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ Having little or no practical relevance. Of little practical value, hence not worth considering. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
 __moot<sup>2</sup>__ _n_ :two: __1__ An assembly or court. __2__ A discussion or argument.  
-__moot<sup>3</sup>__ _vt_ :six: __1__ To bring up for discussion or debate. __2__ To make something irrelevant or insignificant as a result of the issue being resolved.  
+__moot<sup>3</sup>__ _vt_ :seven: __1__ To bring up for discussion or debate. __2__ To make something irrelevant or insignificant as a result of the issue being resolved.  
 __mop top hair__  
+__mop__ _v_ _I moped at my face with one hand._  
 __mop-up__ _n_  
 __mope__ _v_ :pencil2::two::hammer:  
-__moped__ _n_  
+__moped__ _n_ :two: _Brit_ A light motorcycle, not over 50cc.  
 __moppet__ _n_ A young child. _A lovable moppet._  
 __mopping up__  
 __moral__  
 __morale__ _n_ :five::hammer: _The sunken morale left by defeats._  
-__morass__ _n_ :seven: /muh-RASS/ (morasses) __1__ Morass is used literally to refer to an area of soft, wet ground, especially a marsh or swamp. A tract of swampy low-lying land. _I’m often late getting to work when mud season turns my dirt road into an all but impassable morass._ __2__ It is also often used figuratively to mean “a complicated or unpleasant situation that is difficult to get out of or to move through.” A disordered or muddled situation or circumstance, esp one that impedes progress. Something that hinders, engulfs, or overwhelms. _A morass of details._ _We slog through a morass of tangled brambles and hidden pitfalls._ _Social media can make it difficult to discern the truth of something amid the morass of misinformation._ __3__ A book of magical knowledge, especially one containing spells.  
-__moratorium__ _n_ :three::hammer:  
+__morass__ _n_ :eight: /muh-RASS/ (morasses) __1__ Morass is used literally to refer to an area of soft, wet ground, especially a marsh or swamp. A tract of swampy low-lying land. _I’m often late getting to work when mud season turns my dirt road into an all but impassable morass._ __2__ It is also often used figuratively to mean “a complicated or unpleasant situation that is difficult to get out of or to move through.” A disordered or muddled situation or circumstance, esp one that impedes progress. Something that hinders, engulfs, or overwhelms. _A morass of details._ _We slog through a morass of tangled brambles and hidden pitfalls._ _Social media can make it difficult to discern the truth of something amid the morass of misinformation._ __3__ A book of magical knowledge, especially one containing spells.  
+__moratorium__ _n_ :four::hammer:  
 __moray eel__ _n_  
 __morbid__ _adj_ :two: __2__ Gruesome.  
 __morbidity__ _n_ :four: The relative incidence of a particular disease. _COPD is responsible for considerable morbidity and mortality._ _Conditions such as back pain and arthritis are the biggest cause of morbidity in the UK._  
@@ -12608,7 +12622,7 @@ __morning glory__
 __morosely__ _adv_ :two::hammer:  
 __morphetic__ _adj_ /mor-FET-ik/ [:scroll: After Morpheus, the god of dreams in Greek mythology. He was the son of Hypnos, the god of sleep. The name of the drug morphine is also derived after Morpheus.] Relating to sleep or dreams.  
 __morris__ _n_ An English folk dance in which a story is enacted by costumed dancers. _Maypole and morris dancers._  
-__morrow__ _n_ __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
+__morrow__ _n_ :two: __1__ The following day: _resolved to set out on the morrow._ __2__ The time immediately subsequent to a particular event.  
 __morsel__ _n_ :five: (morsels) __1__ A small piece of food. A small amount of solid food; a mouthful. __2__ A tasty delicacy; a tidbit. __3__ A small amount; a piece: _a morsel of gossip._ _A morsel of information._ __4__ One that is delightful and extremely pleasing.  
 __mortar shell__  
 __mortar__ _n_ :three::hammer: _Militants fired mortar rounds._  
@@ -12627,11 +12641,12 @@ __mosh__ _vi_ :two: To knock against others intentionally while dancing at a roc
 __mosque__ _n_ :two::hammer: (mosques)  
 __Mossad__ _n_ /ˈmɒsæd/  
 __mot juste__ _n_ The appropriate word or expression.  
-__mote__ _n_ :four::hammer: (motes) _A dust mote._  
+__mote__ _n_ :five::hammer: (motes) _A dust mote._  
 __moth__ _n_ :two::hammer:  
-__mothball__ _v_ :six:hammer: (mothballed) _The reactor was shut down in 1976, and it was mothballed in 1978._  
+__mothball__ _n, v_ :seven: (mothballed) A small sphere of camphor or naphthalene used to keep moths away from stored clothing. _Syn_ camphor ball _The reactor was shut down in 1976, and it was mothballed in 1978._  
 __mother hen__  
 __Mother Hubbard__ _n_ [:scroll: After Mother Hubbard, a character in the nursery rhyme “Old Mother Hubbard”.] A loose shapeless dress for a woman.  
+__mother of pearl__  
 __mother-of-pearl__ _n_ :two::hammer: :es: nácar _Mother-of-pearl inlays._  
 __mothering__ _n_ The nurturing and raising of a child or children by a mother.  
 __motif__ _n_ :three::hammer:  
@@ -12642,18 +12657,20 @@ __motocyclist__ _n_
 __Motor City__ _n_ Detroit.  
 __motor coach__ _n_ :two: A coach (also motor coach, often simply called a bus) is a type of bus used for conveying passengers on excursions.  
 __motor court__  
+__motor__ _v_  
 __motorcade__ _n_ A procession of motor vehicles, as in a parade.  
 __motorcycle center (main) stand__ _n_ :es: caballete de la moto  
 __motorhome__ _n_ :two::camera::hammer:  
 __motoring__  
 __motorist__ _n_ :three: A person who drives or travels in a privately owned automobile.  
 __motorized scooter__ _n_ :dart: _Police said they know who stole a motorized scooter that belonged to a local woman with limited mobility._  
-__motormouth__ _n_ :two::hammer:  
+__motormouth__ _n_ :four: _slang_ A garrulous person.  
 __motorway__ _n_  
 __mottle__  
 __mottled__ _adj_ :three::hammer:  
+__mottling__ _n_ :three: __1__ A colored spot. __2a__ A surface having colored spots or blotches. __b__ The arrangement of such spots or blotches on a surface.  
 __mould__ _n_  
-__mound__ _v_ :two: __1__ (often foll by up) To gather into a mound; heap. __2__ To cover or surround with a mound: _to mound a grave._ _Jack was mounding butter pats on his fourth hard roll._ _He was mounding butter pats on his fourth hard roll._  
+__mound__ _v_ :three: __1__ (often foll by up) To gather into a mound; heap. A collection of objects laid on top of each other. _Syn_ cumulation, heap, pile, cumulus, agglomerate __2__ To cover or surround with a mound: _to mound a grave._ _Jack was mounding butter pats on his fourth hard roll._ _He was mounding butter pats on his fourth hard roll._  
 __mount<sup>1</sup>__ _vt_  
 __mount<sup>2</sup>__ _vi_ :two: __1__ To increase in amount or intensity (often fol. by up): _The costs mounted up._ __2__ To get up on the back of a horse or other animal for riding. __3__ To rise or go to a higher position, level, degree, etc.; ascend. _Anger mounting._ _Evidence is mounting for an ocean at Pluto._  
 __mount<sup>3</sup>__ _n_  
@@ -12703,6 +12720,7 @@ __muff__ _n_ :two::hammer: _She drew from her muff a pistol._ __2__ _Sports_ A f
 __muff-diver__ _n_ :two::hammer:  
 __muffed__ _v_ _The Ducks muffed a kickoff return._  
 __muffle__ _v_ :three: Deaden (a sound or noise), especially by wrapping. _Syn_ mute, tone down, dampen, dull :es: amortiguar (sonido) _I was up past my bedtime, so I tried to muffle my sneeze by holding my pillow over my face._  
+__muffled__ _adj_  
 __muffler__ _n_ :three: __1__ A heavy scarf worn around the neck for warmth. __2__ A device that absorbs noise, especially one used with an internal-combustion engine. _Syn_ silencer  
 __mug<sup>1</sup>__ _n_ _informal_ The human face.  
 __mug<sup>2</sup>__ _v_ :three::hammer: (mugged, mugging) _They were mugging passerby._  

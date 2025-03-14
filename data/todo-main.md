@@ -404,56 +404,6 @@ __mince__ _v_
 __Mini-Me__ _n_ _chiefly humorous_ A person who is a miniature, but otherwise identical, version of a particular person.  
 __miniscule__ _adj_ :astonished:  
 __minuscule__ _adj_ /-uh-skyool/ __1__ Something described as minuscule is very small. _The number of bugs in the latest version of the video game is minuscule compared to the number that surfaced in the beta version._ __2__ _Minuscule_ can also mean “written in, or in the size or style of, lowercase letters,” in which case it can be contrasted with majuscular. _The ancient manuscripts on display are all in minuscule script._  
-__mirth__ _n_ :three: Gladness and merriment, especially when expressed by laughter.  
-__mirthless__ _adj_ Lacking mirth; devoid of joy; sad. _Han threw Luke a mirthless grin._  
-__miry__ _adj_ (Of soil) soft and watery. _Syn_ boggy, marshy, mucky, muddy, quaggy, sloppy, sloughy, soggy, squashy, swampy, waterlogged _Right across the lower part of the bog lay a miry path._  
-__misanthrope__ _n_ (misanthropist) A person who dislikes or distrusts other people or mankind in general.  
-__misbegotten__ _adj_ :two::smiling_imp: /ˌmɪs bɪˈgɒt n/ /miss-bih-GAH-tun/ (misbegot) _Misbegotten_ describes things that are badly planned or thought out. _They were sent on a misbegotten diplomatic mission that was sure to fail._  
-__miscellany__ _n_ (_n pl_ miscellanies) __1__ A mixed assortment of items.  
-__mischievous__ _adj_ :mega: /mis-chuh-vuhs/  
-__mise-en-scène__ _n_ /meez-ahn-SEN/ _Mise-en-scène_ can refer to the setting of a play, movie, etc., or it can refer to the physical or social setting in which something real occurs or develops.  
-__miserably__ _adv_  
-__mishap__ _n_  
-__mishmash__ _n_ :two: A collection or mixture of unrelated things; a hodgepodge.  
-__misnomer__  
-__misogynoir__ _n_ Hatred of, aversion to, or prejudice against Black women.  
-__missal__ _n_ A book containing all that is said or sung at mass during the entire year.  
-__misstep<sup>1</sup>__ _n_  
-__misstep<sup>2</sup>__ _vi_ To make a mistake.  
-__missus__ _n_  
-__misuser__ _n_ __1__ One that misuses: _a misuser of school property._  
-__miter__ _n_ (mitre) A type of headdress worn by archbishops and bishops.  
-__mitochondrion__ _n_ :pencil2: (_npl_ mitochondria)  
-__moat__ _n_  
-__mocktail__ _n_  
-__mogul__  
-__moil__ _vi_  
-__moisten__ _v_  
-__mold__ _vt_  
-__mollify__ _v_  
-__mongoose__ _n_  
-__monition__ _n_ A warning or an intimation of something imminent, especially of impending danger. _Syn_ admonition, warning, word of advice  
-__monitory__ _adj_ Conveying an admonition or a warning. _Syn_ admonitory, cautionary, exemplary, warning _She shot him a monitory glance and he quickly changed the subject to one less controversial._  
-__Montserrat__ _n_ An island in the Leeward Islands, in the West Indies: British crown colony.  
-__monumental__ _adj_  
-__moon shot__ _n_ (moonshot)  
-__moonshot__  
-__Moor__  
-__moot<sup>1</sup>__ _adj_ /MOOT/ _Moot_ typically describes something that is no longer important or worth discussing. It can also describe something that is argued about but not possible for people to prove.  
-__moot<sup>2</sup>__ _vt_  
-__mop__ _v_ _I moped at my face with one hand._  
-__moped__ _n_ _Brit_ A light motorcycle, not over 50cc.  
-__morass__  
-__moratorium__ _n_  
-__morrow__ _n_  
-__mote__ _n_  
-__mothball__ _n_ Asmall sphere of camphor or naphthalene used to keep moths away from stored clothing. _Syn_ camphor ball  
-__mother of pearl__ _n_  
-__motor__ _v_  
-__motormouth__ _n_ :two: _slang_ A garrulous person.  
-__mottling__ _n_ :three: __1__ A colored spot. __2a__ A surface having colored spots or blotches. __b__ The arrangement of such spots or blotches on a surface.  
-__mound__ _n_ A collection of objects laid on top of each other. _Syn_ cumulation, heap, pile, cumulus, agglomerate  
-__muffled__ _adj_  
 __mull<sup>1</sup>__ _vt_ /mŭl/ To think about extensively; ponder. __1__ __2__ To heat and spice (wine, for example).  
 __mull<sup>2</sup>__ _vi_ /mŭl/ To ruminate; ponder: _mull over a plan._  
 __mulled wine__ _n_ Wine heated with sugar and spices and often citrus fruit.  
