@@ -190,11 +190,14 @@ __feel the heat__ :two: To deal with or come up against intense pressure or host
 __first off__  
 __flip the switch__ (flip a switch) __1__ To cause a sudden and complete change: This can refer to a change in behavior, attitude, or even a situation. _He flipped the switch and suddenly became very angry._ __2__ To make something happen quickly and easily: This meaning emphasizes the ease with which the change occurs. _We just need to flip the switch to activate the new system._ __3__ To turn something on or off: This is the most literal meaning, referring to the action of physically flipping a switch. However, it can also be used metaphorically to describe starting or stopping something. _The company flipped the switch on their new marketing campaign._  
 __flip through (something)__ To casually read through a document, magazine, or book without paying close attention to it. _I had just started flipping through a magazine when the receptionist called my name._ _I was flipping through the (television) channels._  
+__for one thing__  
 __for the fun of it__ ((just) for the fun of it)  
+__fore and aft__  
 __fork in the road__  
 __foul play__ _No sign of foul play._  
 __French leave__ (See also _Irish goodbye_.)  
 __full stop__  
+__fumble for (something)__  
 __fumble the ball__ “Fumble the ball” and “drop the ball” are similar in meaning and can often be used interchangeably. Both idioms refer to making a mistake or failing to perform a task properly, especially when it’s important or when someone misses an opportunity. However, “fumble the ball” may sometimes carry a slightly more connotative idea of clumsiness or mishandling, while “drop the ball” is more commonly used to emphasize failing to follow through or neglecting responsibility. Despite these subtle differences, they are generally understood in the same way.  
 __Galentine’s Day__ _informal_ [:scroll: Blend of _gal_ + _Valentine’s Day_, originally the title and subject of the 16th episode of the second season of the American comedy television series _Parks and Recreation_, first broadcast in 2010.] A day on which women hold a party around the time of Saint Valentine’s Day, typically on February 13.  
 __galvanize (one) into action__ To induce or cause one to start doing something.  
@@ -206,13 +209,17 @@ __get a handle on (something)__ To have a firm, clear understanding or determina
 __get hell__ To receive the brunt of another’s anger, often through scolding.  
 __get to know__  
 __ghost gun__ A gun without serial numbers that cannot be easily tracked, especially a home-made gun built with non-registered, partially finished or 3D printed components.  
+__give (one) a run for (one’s) money__ To challenge one’s ability, fortitude, or patience.  
+__give (one) a run for its money__  
 __give someone or something away__ To reveal a secret about someone or something. _I thought no one knew where I was, but my loud breathing gave me away._ _We know that Billy ate the cherry pie. The cherry juice on his shirt gave him away._  
 __glower at (someone or something)__ :three: To look at someone or something with anger or disapproval.  
 __go berserk__  
 __go for broke__ To give something one’s full effort. :es: y a por todas  
+__go for it__ To put forth the necessary effort or energy to do or pursue something, especially in the face of any doubt or trepidation. Often used as words of encouragement.  
 __go into a tailspin__  
 __go missing__  
 __go postal__ :dart: _US informal_ [:scroll: This expression arose as a result of several recorded cases in the USA in which postal-service employees ran amok and shot colleagues] Go mad, especially from stress. Become extremely angry or start behaving in a violent and angry way. _According to one eye witness, the man ‘went postal, and started hitting his computer’_  
+__good for nothing__ (good-for-nothing) Entirely without value; of no use whatsoever. Hyphenated if used as a modifier before a noun. _This junky old computer my dad gave me is good for nothing!_  
 __good for you__  
 __guest of honor__  
 __half the battle__ A key part of a larger goal or task. _Digging the car out of the driveway will be half the battle of getting out to the store._  
@@ -231,6 +238,7 @@ __holding pattern__
 __hoo boy__ An interjection usually used to express a negative emotion, such as dismay or displeasure. _Hoo boy, I’ve got 24 pages of legal jargon to get through—lucky me._  
 __hopeless at (something)__ Not skilled or adept at something. _Oh, I hired a maid because I know I’m hopeless at housework._  
 __horseshit__ :es: chorradas  
+__hot off the press(es)__  
 __hot potato__  
 __hot-button__ Highly politicized or emotionally charged. Often used in the phrase “a hot-button issue.” Primarily heard in US. _Wealth redistribution is a hot-button issue on both sides of the political aisle._  
 __hothead__ A person with an excitable, fiery, or impetuous temper or disposition; one who is quick to get angry or act rashly. _That lady in the car behind me is a real hothead, honking and shouting at me every time I slow down!_  
@@ -361,6 +369,7 @@ __lay (something) at the feet of (someone)__ To make or hold someone, especially
 __lay bare (something)__ :two: To divulge, explain, or reveal something not previously known publicly.  
 __lay down and die__ To quit; to give up hope or ambition. _We might have had an unexpected loss in the playoffs, but that doesn’t mean this team is ready to lay down and die!_  
 __let alone__  
+__level up__  
 __lightning speed__ An extremely high speed; great rapidity.  
 __like a fish out of water__ :two::hammer:  
 __like attracts like__ People tend to seek out or be attracted to those that are similar or like-minded. _I guess I shouldn’t be surprised that John wants to find other Americans to hang out with. Like attracts like, after all._  
@@ -466,7 +475,9 @@ __man up__ To deal with something in a more brave, stoic, or masculine way than 
 __many happy returns of the day__ I wish you a very happy birthday and many more like it in the future. _Hey Jack, many happy returns of the day! Are you going to do anything special to celebrate the occasion?_  
 __march to (the beat of) a different drum__ To do something, act, or behave in a manner that does not conform to the standard, prevalent, or popular societal norm. _My brother’s eschewed the idea of a full-time career and has had every oddball job you could think of, but then he’s always been happy marching to the beat of a different drum._  
 __marginal gains__ “Marginal gains” refers to small, incremental improvements in performance or efficiency that, when accumulated, can lead to significant overall gains.  
+__marry above (one’s) station__ To marry someone who is of a higher social class or standing than oneself.  
 __marry beneath (oneself)__ To marry someone who is of a lower social class or standing than oneself.  
+__marry into money__ To become wealthy or financially secure by marrying someone who is wealthy or has a wealthy family.  
 __meant to be__  
 __memento mori__  
 __memento vivere fac vitam incredibilis__ A Latin phrase that translates to “Remember to live, make an incredible life.”  
@@ -625,6 +636,7 @@ __on the whole__ Considering everything together; in general or for the most par
 __on top of that__  
 __on your radar__ See _on (one’s) radar (screen)._  
 __on-site__  
+__one thing is for sure__ (one thing is (for) sure) It is certain; certainly.  
 __one way or the other__  
 __one-up (someone)__ To make a point of outdoing, outperforming, outclassing, etc., someone. _I hate telling stories around Jack because he always tries to one-up you with some fabulous anecdote of his own._  
 __open game__ Being vulnerable or exposed to attack, criticism, or other negative consequences. _If we break the truce first, we are open game._  
@@ -657,6 +669,7 @@ __power dynamics__
 __practice makes perfect__ :two::hammer:  
 __pray to the enamel god__  
 __pray to the porcelain god__  
+__pressing matters__ Issues or concerns that require immediate attention or action. These are typically urgent situations that cannot be delayed and often involve important decisions or responses.  
 __pull rank (on one)__  
 __push (one’s) buttons__  
 __put the brakes on (someone or something)__  
@@ -664,6 +677,8 @@ __put the jinx on (something or someone)__ To invoke a curse upon someone or som
 __put the screws on something__  
 __put to good use__ (put (something) to good use) To use something in a way that will be beneficial or have significant results. Employ to the best advantage, as in _I’m sure this dictionary will be put to good use._  
 __put to the test__ (put (someone or something) to the test)  
+__scramble for (something)__  
+__set up shop__  
 __shuffle off__  
 __shut out__  
 __shy away (from someone or something)__  
@@ -836,6 +851,7 @@ __take umbrage__ :two::hammer:
 __take you up on something__ See _take (one) up on (something)._  
 __takedown__ :dart: _slang_ A taking down: the arrest of a suspect by a police officer. _She shot and killed two drug dealers in a takedown that went bad._  
 __talk (one’s) way out of (something)__ To use charming or persuasive speech in order to avoid something, especially punishment. _I still can’t believe you were able to talk your way out of that drunk-driving ticket._  
+__talk back (to one)__ To answer, respond, or interrupt in a rude or impertinent manner; to sass. To challenge verbally a parent, an older person, or one’s superior. Reply rudely or impertinently. _Please don’t talk back to me! I’ve told you before not to talk back!_ _The teacher won’t allow anyone to answer back to her._  
 __talk the talk__  
 __tall order__  
 __tangle with (someone or something)__ To fight, argue, or engage in a dispute with someone or something.  
@@ -853,6 +869,7 @@ __the final curtain__ The end or the final part, especially after a lengthy exis
 __the likes of (someone or something)__ :two: Anything comparable to someone or something. Typically used in a negative construction to indicate that something is unique or rare.  
 __the likes of__  
 __the lowdown__ Important information or facts about something. _He gave me the lowdown about the company’s vice president._ _Reporters are trying to get the lowdown on what caused the accident._  
+__the march of time__ The steady, unstoppable advancement of time.  
 __the story goes (that)__  
 __this hour__ The phrase “this hour” typically refers to the current hour in which we are presently. It can be used to describe the time frame of the hour that is currently happening or the events occurring within it.  
 __this time around__ A phrase often used to refer to the current occasion or situation in comparison to previous ones. It implies that there have been similar instances in the past, and it suggests a sense of awareness or reflection on how things might be different now.  
@@ -872,6 +889,7 @@ __toe-to-toe__
 __train on (someone or something)__ _The blaster was trained on the door._  
 __turn the page__  
 __turn the tables__ To change or reverse something dramatically.  
+__under the table__ :smiling-imp:  
 __walk of shame__  
 __walk on eggs__  
 __walk on eggshells__  
@@ -881,6 +899,7 @@ __walk through__
 __war chest__  
 __warhorse__ ((old) warhorse) __1__ A veteran of some activity or profession (not necessarily the military) who has a wealth of experience going through various trials and tribulations. _I know she’s a little eccentric, but Janet is a warhorse in this firm—she’s been through more trying court cases than anyone else here._  
 __water under the bridge__  
+__wean off (of) (something)__  
 __weasel__ :smiling_imp: __1__ _n_ Someone who is sneaky, devious, or deceitful.  
 __weather the storm__ To endure a period of hardship or disorder. To experience something and survive it. _That was the hardest year of my life, but in the end I was able to weather the storm with the support of my family._  
 __weirdo__ /ˈwɪrdo/ /ˈwɪər doʊ/ /ˈwɪədəʊ/ _slang_ slang A particularly odd, bizarre, awkward, or eccentric person. _I know a lot of kids at school think I’m a weirdo just because I like anime so much, but I don’t care._  
@@ -889,6 +908,7 @@ __well put__ The expression “well put” is used to praise someone’s way of 
 __well up__  
 __what it takes__  
 __what’s done is done__ :dart: There’s no use worrying or stressing about something that has already happened or come to pass. _I know this isn’t the outcome we wanted, but what’s done is done, so let’s just try to make the most of a bad situation._  
+__What’s the big deal?__ Why is this such a major or significant issue? Why are you having such an extreme reaction?  
 __what’s the occasion?__ The idiom “what’s the occasion?” is typically used to inquire about the reason for a special event, celebration, or unusual behavior that seems out of the ordinary. It’s a friendly way to express curiosity about something that appears more formal or festive than usual.  
 __whisper (something) around__ To spread gossip, rumors, or secrets around (some place or group of people) in a secretive, circumspect manner.  
 __whitewash__  
