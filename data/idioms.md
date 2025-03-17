@@ -2705,7 +2705,7 @@ __glitch__ _A phone glitch._
 __glom__ __1__ _vt_ To steal something. (Underworld.) _He gloms just about everything he needs._ __2__ _vt_ To take a look at someone or something. (Underworld.) _Come over here and glom the view of the bank from this window._ __3__ _vt_ To arrest someone. _The copper glommed Fred on Tuesday._  
 __glommed__ _slang_ Arrested. _Dude, I hear sirens—we’re gonna get glommed if we stay here any longer!_  
 __gloss over (something)__  
-__glower at (someone or something)__  
+__glower at (someone or something)__ :four: To look at someone or something with anger or disapproval.  
 __gnash one’s teeth over something__ _Why expend so much energy gnashing my teeth over work?_  
 __go (all) (a)round the houses__ To waste one’s time and energy saying unimportant things before getting to one’s point. _Doc, please stop going around the houses and just tell me—how serious are Johnny’s injuries?_  
 __go (off) on a tangent__ To begin addressing or discussing a topic or topics not relevant to the main discussion.  
@@ -2726,7 +2726,7 @@ __go back to the well__ :two: To return to some proven and reliable source of su
 __go ballistic__ :three: To become wildly or uncontrollably angry.  
 __go balls-out__ _I resolved to go balls-out on this retreat._  
 __go bananas__ :three::hammer:  
-__go berserk__ :five::hammer:  
+__go berserk__ :six::hammer:  
 __go between__ :three: One who serves as a messenger between two people or groups. In this usage, the words are usually hyphenated. _I’m sick of being a go-between for you and Dad—can you please just talk to him directly?_  
 __go big or go home__ _expression_ Either do something to its fullest extent or largest degree, or else don’t even bother. Often used facetiously. _A: “Do we really need to cook an entire pig for this barbecue? We’re only having a few people over.” B: “Hey, go big or go home!”_  
 __go big__ :two::hammer:  
@@ -2747,7 +2747,8 @@ __go figure__ :nine: A phrase used to highlight that what has been said is unexp
 __go for (something)__  
 __go for a run__  
 __go for a spin (to some place)__ To go for a brief, leisurely drive (to some place). _Hey Noah, fancy going for a spin to the grocery store with me?_ _Jenny just got a new car for her birthday, so I think we’re going to go for a spin after school._  
-__go for broke__ :dart: To give something one’s full effort. _We have to go for broke with this marketing campaign if we want our product launch to be successful._  
+__go for broke__ :dart::two: To give something one’s full effort. _We have to go for broke with this marketing campaign if we want our product launch to be successful._ :es: y a por todas  
+__go for it__ To put forth the necessary effort or energy to do or pursue something, especially in the face of any doubt or trepidation. Often used as words of encouragement.  
 __go for the jugular__ _Go straight for the jugular._  
 __go Galt__ :dart::two: To reduce, restrict, or cease one’s work or productivity as a means of social protest against increased marginal tax rates, limits on tax deductions, or the use of tax income for purposes one finds morally objectionable. Taken from the name John Galt, a character in Ayn Rand’s novel _Atlas Shrugged_. Primarily heard in US, South Africa. _Living abroad, I only have to pay U.S. taxes if my income exceeds $95,000 a year, so I’ll just go Galt if I ever come close to earning that amount._  
 __go granular__ To examine something in detail.  
@@ -2758,9 +2759,10 @@ __go hand in hand__ :three::hammer:
 __go haywire__ :three: __1__ To start malfunctioning or having problems. _Well, the coffee pot has gone haywire yet again. Maybe it’s time to get a new one._ __2__ :dart: To become irrational or crazy. _I’ll end up going haywire if I have to work in this cubicle for one more day!_  
 __go head to head__  
 __go into a nosedive__  
+__go into a tailspin__  
 __go into overdrive__ To start working very hard or quickly.  
 __go into the weeds__ :dart: To become totally immersed in or preoccupied with the minute details or complexities (of something). _Before we go into the weeds, let’s give a brief overview for any of our listeners who aren’t familiar with the issue._  
-__go missing__ To disappear. _My diamond earrings have gone missing, and I want the entire staff to be interrogated!_  
+__go missing__ :two: To disappear. _My diamond earrings have gone missing, and I want the entire staff to be interrogated!_  
 __go native__ :astonished: _You going native on me, Supercop?_  
 __go nowhere (fast)__ To ultimately yield or achieve no useful, beneficial, or successful result or outcome.  
 __go nuclear__  
@@ -2782,6 +2784,7 @@ __go over the top__ :two::hammer:
 __go overboard__ :dart::eight: To do too much; to be extravagant; show excessive enthusiasm, act in an excessive way; to act without restraint in some area. _Did I go overboard with the Christmas decorations? I’m worried I bought enough Christmas lights to light up Times Square._ :es: pasarse  
 __go pffft__ It’s basically James Ellroy-speak for something just…fizzling out or disappearing.  
 __go places__:five: To progress or find success in some area of one’s life. _Alice is definitely going to go places with that singing voice of hers._  
+__go postal__ :dart: _US informal_ [:scroll: This expression arose as a result of several recorded cases in the USA in which postal-service employees ran amok and shot colleagues] Go mad, especially from stress. Become extremely angry or start behaving in a violent and angry way. _According to one eye witness, the man ‘went postal, and started hitting his computer’_  
 __go potty__ _He has to go potty._  
 __go rogue__  
 __go soft on (someone)__ :two: To treat someone delicately, gently, or leniently; to not criticize, punish, or berate someone too harshly.  
@@ -2860,7 +2863,8 @@ __good call__ :dart::three: A good decision or idea. The phrase does not have to
 __good enough for jazz__ :dart::two: Sufficient to suit the purpose(s) at hand without needing to be perfect. _There are still a few kinks to work out in how users’ comments are displayed, but it’s good enough for jazz at the moment._  
 __good enough to eat__ To have an extremely beautiful or aesthetically pleasing appearance.  
 __good envy__ :dart: Term that refers to the positive emotions you may feel when you admire someone’s qualities, achievements, or possessions, and it motivates you to aspire to similar things.  
-__good for nothing__ Entirely without value; of no use whatsoever. (Hyphenated if used as a modifier before a noun.)  
+__good for nothing__ :two: (good-for-nothing) Entirely without value; of no use whatsoever. Hyphenated if used as a modifier before a noun. _This junky old computer my dad gave me is good for nothing!_  
+__good for you__  
 __good for you(!)__ :four: (good for you!) A complimentary expression of encouragement for something that someone has done or received.  
 __good for__ __4__ Equivalent in value; also, valid for. _These coupons are good for a 20 percent discount._ _He was good for many murders._  
 __good God!__ An oath expressing surprise, shock, frustration, anger, or annoyance.  
@@ -2956,6 +2960,7 @@ __guarded secret__ A piece of information that is known by only a few people and
 __guardrail__ _n_ :two: (figurative, by extension) Any barrier designed to prevent accidents or mistakes. A safety feature or measure put in place to prevent something from going too far or becoming too extreme. _Senate looks to set guardrails for AI patient safety._  
 __guess again__ A rhetorical imperative indicating that the person being spoken to is mistaken about, and thus should reconsider, something. _You’d better guess again if you think I’m going to lend you any more money._  
 __guess what__  
+__guest of honor__  
 __guilt complex__ :two: A very strong and persistent feeling of guilt regarding something or some event. _John developed a guilt complex after forcing his brother to move out._  
 __guilt money__  
 __guilty pleasure__ :five: Something that one enjoys or finds pleasurable but knows or feels to be bad, inferior, aberrant, or lowbrow, especially as might be perceived or judged by other people.  
@@ -2993,6 +2998,7 @@ __hairpin bend__ :two: A very sharp, approximately 180° bend in a road.
 __hale and hearty__ Healthy. _It’s true that she was in the hospital a few weeks ago, but she’s hale and hearty now._  
 __half a brain__ Common sense. _If he had half a brain, he would have left a long time ago._  
 __half bad__ _The decor didn’t look half bad._  
+__half the battle__ A key part of a larger goal or task. _Digging the car out of the driveway will be half the battle of getting out to the store._  
 __half-ass__ :dart::four: __1__ _v_ _rude slang_ To do something halfheartedly or without one’s full effort. _Did you half-ass these posters? There’s a bunch of misspellings, and the ink is all smudged._ __2__ _adj_ _rude slang_ Done halfheartedly or without one’s full effort. Also seen as “half-assed.” _It was just a half-ass attempt, so naturally it didn’t work._ _Look at these half-assed posters—there’s a bunch of misspellings, and the ink is all smudged._  
 __half-baked__  
 __half-pint__ Any small, weak, and/or insignificant person. Alludes to a pint, a unit of liquid measurement. _Don’t go picking a fight with me, half-pint, or I’ll knock you into next Tuesday!_  
@@ -3307,15 +3313,19 @@ __hit the bull’s-eye__
 __hit the ceiling__ To react with extreme anger. _Mom will hit the ceiling when she finds out we broke the vase by playing ball in the house again._  
 __hit the fan__ To become more of a problem or more widespread or publicized. _Once this scandal hits the fan, all of our investors are liable to pull out of the company._  
 __hit the gas__ :three: To move quickly; to accelerate or go faster. Used especially while riding in an automobile. _We’ll need to hit the gas if we want to make it to the movie on time._  
-__hit the ground running__ :four::hammer:  
+__hit the ground running__ :five::hammer:  
 __hit the jackpot__ :two::hammer:  
 __hit the lotto__  
+__hit the nail on the head__  
 __hit the road__ To leave a place or begin a journey.  
 __hit the rocks__ :two: To encounter an especially difficult, troubled, or low point, as in a relationship or some pursuit. _We’d been great friends for nearly 10 years, but our friendship has hit the rocks lately._  
-__hit the sack__  
+__hit the sack__ :two::hammer:  
 __hit the wall__ :two::hammer:  
 __hit up__ __1__ To go to a particular place. _Let’s hit up the mall—I’m sure we can find a present for her there._ _She thought about hitting up an amusement park._  
+__hit-and-run__ :smiling_imp::two::hammer:  
 __hither and thither__ :four::hammer::pencil2: _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._  
+__hiya doin’__ A colloquial pronunciation and spelling of “How (are) you doing?” Used as a friendly and informal greeting. Primarily heard in US.  
+__hiya__ An informal term of greeting.  
 __hobby-horse__ A subject, topic, or issue about which one frequently or incessantly talks, expounds, or complains. The term can also be spelled as a single word. _Ah, here we go again. Once grandpa gets on his hobby-horse about the government, there’s no stopping him!_  
 __Hobson’s choice__ A choice between what is available and nothing; a lack of an alternative.  
 __hog (something)__ :three: To take or use something all for oneself; to not allow others to have or use something. _Hey buddy, quit hogging the road!_ _My wife always hogs the covers at night._  
@@ -3323,6 +3333,7 @@ __hogwash__ :three::hammer:
 __hoist by (one’s) own petard__ To be injured, ruined, or defeated by one’s own action, device, or plot that was intended to harm another; to have fallen victim to one’s own trap or schemes. (Note: “hoist” in this instance is the simple past-tense of the archaic form of the verb, “hoise.”)  
 __hoist by/with (one’s) own petard__  
 __hoist the white flag__ :dart:  
+__hoity-toity__ Pretentiously arrogant, haughty, or self-important. _We don’t need some hoity-toity academic coming in and telling us how to run our business!_  
 __hold (down) the fort__  
 __hold (one’s) breath__ :four::hammer:  
 __hold (one’s) feet to the fire__ To put pressure on one to do, say, or consent to something._Someone holds everyone’s feet to the fire._  
@@ -3344,7 +3355,7 @@ __hold back__ :two::hammer:
 __hold court__  
 __hold fast to something__ _A pair of friends holding fast to their dreams._  
 __hold fast__  
-__hold my beer__ A phrase indicating that one is about to do something stupid or dangerous. The image is that of a person at a party who asks a friend to hold their beer so that they can attempt some kind of ill-advised stunt. It is often used humorously to describe how something bad was followed by something even worse. _A: “There’s no way it’s possible to jump from the roof into the pool. It’s 20 feet away!” B: “Hold my beer, amateur.”_  
+__hold my beer__ :three: A phrase indicating that one is about to do something stupid or dangerous. The image is that of a person at a party who asks a friend to hold their beer so that they can attempt some kind of ill-advised stunt. It is often used humorously to describe how something bad was followed by something even worse. _A: “There’s no way it’s possible to jump from the roof into the pool. It’s 20 feet away!” B: “Hold my beer, amateur.”_  
 __hold on tight__  
 __hold on to your hat__ :two: Get ready for what’s coming or about to happen! _Hold on to your hats, everybody—we’re about to see what these fireworks can do!_  
 __hold on__ :two::hammer:  
@@ -3355,10 +3366,14 @@ __hold promise__ To have potential or be likely to achieve success. _Our new rec
 __hold someone back__  
 __hold that thought__ :two: An expression used to interrupt someone mid-speech and indicate that one’s attention is being or about to be diverted. _Sorry, Janet, hold that thought—I’m getting a call on the other line._  
 __hold the fort__ To take care of a place while someone who is usually there is gone, such as a store or one’s home. (From western movies.) _I’m going next door to visit Mrs. Jones. You stay here and hold the fort. You should open the store at eight o’clock and hold the fort until I get there at ten._  
+__hold the line__  
 __hold the reins__ To have or be in control, especially of a group, project, or situation.  
+__hold tight__ __2__ To wait patiently without taking any immediate action.  
 __hold up__  
 __hold your horses__ :two: Slow down, wait.  
+__hold__ _You got to know when to hold ’em, know when to fold ’em..._ Here, “hold” means to keep your cards and not play them yet, indicating the importance of patience and knowing when to continue a certain action or strategy. It implies waiting for the right moment to act or make a decision. In a broader sense, this advice applies to life — knowing when to stay committed to a situation and when to let go or change course.  
 __hold(ing) the bag, to/be left__  
+__holding pattern__  
 __Hollyweird__ The term _Hollyweird_ is a play on words, combining the names _Hollywood_ and _weird_, and is often used to describe the American film industry in a negative or satirical manner.  
 __holy cow__  
 __holy crickets__ :two: An exclamation of surprise, shock, or astonishment. _Holy crickets, the bill for that dinner was nearly $200!_  
@@ -3384,6 +3399,7 @@ __honey-mouthed__ :two: Smooth, soothing, and sweet in voice, especially in a pe
 __honeymoon phase__ The short amount of time at the beginning of a new relationship, activity, or pursuit when everything goes well and seems to be free of problems.  
 __honor (someone) for (something)__ To praise or celebrate someone for a particular act or thing.  
 __honorable mention__ A recognition or citation of merit given to a contestant, exhibition, entry, etc., in a competition despite that person or thing not being awarded a prize or top honor.  
+__hoo boy__ An interjection usually used to express a negative emotion, such as dismay or displeasure. _Hoo boy, I’ve got 24 pages of legal jargon to get through—lucky me._  
 __hoo-ha__  
 __hoof it__ _informal_ To walk. _If nobody gives us a ride, we’ll have to hoof it._ _She hoofed it home from the dance in her high-heeled shoes._  
 __hoofing__ Walking.  
@@ -3397,22 +3413,25 @@ __hoover__ :two: _slang_ [:scroll: An allusion to the Hoover brand of vacuums, t
 __hop on the bandwagon__  
 __hope against (all) hope__ :five: (hoping against hope) To continue to hope for something even though it seems unlikely to happen. _I know she said that she wasn’t going to come home for Christmas, but I’m hoping against hope she’ll change her mind._  
 __hope for the best__ :two: To be hopeful that a positive occurrence will happen. This can be an expression of hope or insight after something has gone awry or when circumstances seem bleak. _Now that our house is on the market, there’s not much we can do but hope for the best._  
+__hopeless at (something)__ Not skilled or adept at something. _Oh, I hired a maid because I know I’m hopeless at housework._  
 __hophead__ :two::hammer: _Tom hates hopheads and jailbait jumpers._  
 __horse and rabbit stew__ :two: A situation comprised of both crude or unpleasant things as well as those which are pleasing or beneficial, usually with the former in greater proportion to the latter. Used especially in reference to economics or business.  
 __horse around__  
 __horse-trade__ :two: To negotiate, trade, or bargain in a shrewd, judicious manner. Primarily heard in US.  
-__horseshit__  
+__horseshit__ :two::hammer: :es: chorradas  
 __hot air__ :three: Lies, exaggerations, or nonsense. _Oh, you can’t believe a word that guy says—he’s full of hot air._ _Reports of AI stealing our jobs are still a load of hot air._ _We’re not just blowing hot air when we tell you that conflate can actually be traced back to the same roots as the English verb blow._  
 __hot desking__ :two: The act or practice of sharing desks or workstations between employees in an office so as to cut down on the amount of office space required.  
-__hot potato__ Something that is difficult or dangerous to deal with. _Gun control is a political hot potato._  
+__hot off the press(es)__  
+__hot potato__ :two: Something that is difficult or dangerous to deal with. _Gun control is a political hot potato._  
 __hot take__ :two: An opinion or analysis published, broadcast, or otherwise issued very soon after the topic in question has occurred or become timely, often produced without much research and with the primary intention of being provocative in order to generate attention. _Twitter is a gold mine for garbage hot takes._ _Last Friday, we gave a hot take: the iPhone is not the future._  
 __hot tip__ :two: A piece of advice or information that is timely and helpful, especially if acted upon quickly.  
 __hot to trot__ __1__ Eager or impatient to do something. _Let’s get going—the kids are hot to trot._ __2__ Sexually arousing or aroused. _If you think he’s so hot to trot, why don’t you ask him out?_  
 __hot wire__ To start a vehicle without a key by connecting wires that power the ignition. _The thief stole the car by hot wiring it._  
 __hot__ _slang_ __3__ Especially popular and desirable. _He’s one of the hottest directors in Hollywood right now._  
-__hot-button__ _Hot-button social issues._  
+__hot-button__ :two: Highly politicized or emotionally charged. Often used in the phrase “a hot-button issue.” Primarily heard in US. _Wealth redistribution is a hot-button issue on both sides of the political aisle._  
 __hotfoot__ :dart::two: To travel as fast as one can, usually by walking or running. _We need to hotfoot it out of here before Mom catches us going through her things!_  
-__hothead__ :two: A person with an excitable, fiery, or impetuous temper or disposition; one who is quick to get angry or act rashly. _That lady in the car behind me is a real hothead, honking and shouting at me every time I slow down!_  
+__hothead__ :three: A person with an excitable, fiery, or impetuous temper or disposition; one who is quick to get angry or act rashly. _That lady in the car behind me is a real hothead, honking and shouting at me every time I slow down!_  
+__hotshot__ :two::hammer:  
 __hour after hour__ :dart: For many hours without stopping. _I sat by her bedside for hour after hour._  
 __house cooling party__ :two: A party thrown to commemorate when someone leaves an apartment, flat, or house.  
 __house of cards__  
@@ -3426,22 +3445,25 @@ __how time flies__
 __how’s life (treating you)?__ How are you? How is everything in your life? (Said as an informal greeting.)  
 __however much__ :two: No matter how much.  
 __howl at (someone or something)__  
-__hubby__ :seven: _A shortening and alteration of “husband.”_  
-__huff and puff__  
+__hubby__ :eight: A shortening and alteration of “husband.”  
+__hue and cry__ :two: /HYOO-und-KRYE/ [:scroll: The term comes from the Anglo-Norman French “huer,” which means to shout, and the Old French “cri,” which means to cry out. This redundant expression (_hue_ and _cry_ both mean “an outcry”), dating from the 1200s, originally meant “an outcry calling for the pursuit of a criminal.”] __1__ A large public protest. _Hue and cry_ refers to a clamor of alarm or protest in response to something. A public clamor, as of protest or demand. For example, _The reformers raised a hue and cry about political corruption._ __2__ It can also be used as a synonym of hubbub to refer to general noise or uproar.  
+__huff and puff__ :three: Make noisy, empty threats; bluster. For example, _You can huff and puff about storm warnings all you like, but we’ll believe it when we see it._ This expression uses two words of 16th-century origin, _huff_, meaning “to emit puffs of breath in anger,” and _puff_, meaning “to blow in short gusts,” and figuratively, “to inflate” or “make conceited.” They were combined in the familiar nursery tale, _“The Three Little Pigs,”_ where the wicked wolf warns, _“I’ll huff and I’ll puff and I’ll blow your house down”_; rhyme has helped these idioms survive.  
 __hulk out__  
 __hullabaloo__ :two::hammer:  
 __human touch__ __2__ The ability to treat other people with warmth and empathy. _In my experience, it’s rare to have a psychiatrist who treats her clients with a human touch and sees them as more than a diagnosis._  
 __humblebrag__ :two::hammer:  
 __Humpty Dumptyism__ The act or practice of misusing or misinterpreting a word, phrase, or article of text to suit one’s own meaning or purpose. Taken from the character Humpty Dumpty in Lewis Carroll’s _Through the Looking-Glass_, who states, “When I use a word it means just what I choose it to mean.”  
+__hung jury__ :dart: A jury that cannot agree on a verdict.  
 __hunker down__ :two: __1__ Literally, to squat. _The magician hunkered down to the eye level of the children._ __2__ To seek refuge in a particular place or area. _We hunkered down at home with some movies while the blizzard raged all weekend._ __3__ To work or begin to work on something in a determined matter. _I can’t believe I didn’t get an A on my project after I’d hunkered down all weekend to do it!_ __4__ To stubbornly maintain some belief. _It seems he’s hunkered down and will never see me as anything but the villain in his life._  
-__hunky-dory__  
+__hunky-dory__ :two::hammer:  
 __hunt where the ducks are__ To pursue or look for one’s objectives, results, or goals in the place where one is most likely to find them.  
-__hush money__ :three::hammer:  
+__hush money__ :six: _n informal_ A bribe paid to keep something secret. _A hush money case._  
 __hush-hush__  
 __hustle (one’s) bustle__ :two: To increase one’s pace or sense of urgency; to hurry up; to get moving quickly. _We’d better hustle our bustle if we want to get to the movie theater on time!_  
-__hustle and bustle__ :two: Busy and frenetic activity or excitement. _I love living among the hustle and bustle of the city._ _I avoid the hustle and bustle of malls and shopping centers whenever I can._  
+__hustle and bustle__ :three: Busy and frenetic activity or excitement. _I love living among the hustle and bustle of the city._ _I avoid the hustle and bustle of malls and shopping centers whenever I can._  
 __hygge__ The state of happiness and contentment that one feels in a cozy, relaxing environment. This Danish word, approximately pronounced “HUE-guh,” describes the penchant in Denmark for appreciating life’s simple pleasures. _For me, hygge is sitting by the fireplace and listening to classical music with my husband._  
 __hyped (up)__  
+__I beg your pardon__ :dart: __1__ :dart: I apologize for what I just did or said. _Oh, I beg your pardon. I wasn’t looking where I was going._ __2__ What did you just say? _Could you please repeat that? I beg your pardon, I couldn’t quite hear you._ __3__ An expression or exclamation of indignation or incredulous disbelief. _A: “I’m afraid we’re going to have to cut your funding, effective immediately.” B: “I beg your pardon? Who on earth decided that?”_ __4__ Could you please give me your attention. _I beg your pardon, everyone, but I’d like to get tonight’s proceedings underway._ __5__ :dart: I believe you are mistaken or incorrect; I beg to differ; I don’t agree with you on that. _I beg your pardon, but I believe you’ll find that our school is actually one of the best in the state._  
 __I can imagine__ :three::hammer:  
 __I can’t thank you enough__ Said when one is very appreciative of another’s words or actions.  
 __I don’t belong here__ The idiom “I don’t belong here” is a common phrase used to express a feeling of not fitting in or not being in the right place or situation. It conveys a sense of discomfort, alienation, or a lack of connection with one’s surroundings or the people around them.  
@@ -3453,7 +3475,9 @@ __I kid you not__ :three::hammer:
 __I know the feeling__  
 __I know, I know__ A conversational phrase used to express that the speaker is aware of what the other person is saying or feeling, often to express empathy or understanding.  
 __I rest my case__  
+__I say__  
 __I see what you did there__ :four: (I saw what you did there) An expression used to acknowledge that one understands a joke made by someone else, and to either show appreciation or a lack thereof for the wit employed.  
+__I see you__  
 __I shit you not__  
 __I shudder to think__ It is too worrying or unpleasant for me to think about something that might happen or might have happened. _I shudder to think what my boss will say when I tell him I lost our biggest client._  
 __I suppose (so)__ An expression of vague affirmation or assent.  
@@ -3461,9 +3485,10 @@ __I take it__ :two: I imagine this is the case; I presume it to be true (that); 
 __I think not__  
 __I wasn’t born yesterday__ Used to indicate that you are not foolish or gullible.  
 __I wish__  
+__I wouldn’t recommend it__ The idiom “I wouldn’t recommend it” means that the speaker does not think something is a good idea or that it would be a positive experience. It’s a way of politely discouraging someone from doing something, suggesting that it might be unpleasant, risky, or simply not worth the effort.  
 __I’d say__ :two: In my opinion; it is my estimation that. _I’d say we have about a 50-50 chance of winning this game today._  
 __I’ll be hanged if I (do something)__ :three: I am determined not to do something. _I’ll be hanged if I let some young upstart like you take control of my company!_  
-__I’ll believe it when I see it__  
+__I’ll believe it when I see it__ :two: I highly doubt that could happen or is the case. The phrase implies that one would need to witness or see proof of such a thing to believe it. _The kids said they’re finished cleaning the garage, but I’ll believe it when I see it._  
 __I’m all ears__ :three::hammer:  
 __I’m with you__ I agree with you. _A: “Ugh, why did we have to get up so darn early?” B: “Hey, I’m with you—I’d rather sleep in. This early wake-up call was all Mom’s idea.”_  
 __I(’ll) give you that__ I concede that what you just said is true or likely.  
@@ -3472,8 +3497,9 @@ __icing on the cake__ :three::hammer:
 __icky__  
 __idiom__ _n_ __1__ A speech form or an expression of a given language that is peculiar to itself grammatically or cannot be understood from the individual meanings of its elements, as in _keep tabs on_. :es: modismo  
 __idiot mittens__ :two: Mittens or gloves that are attached to one’s sleeves by a length of yarn or string so as to prevent their being lost.  
-__if (one’s) life depended on it__ Under any circumstances; no matter what. (Used almost exclusively with a negative statement regarding something that one couldn’t or wouldn’t do.) _No way am I going to karaoke night. I couldn’t sing if my life depended on it!_  
-__if it ain’t broke, don’t fix it__  
+__if (one’s) life depended on it__ :two: Under any circumstances; no matter what. (Used almost exclusively with a negative statement regarding something that one couldn’t or wouldn’t do.) _No way am I going to karaoke night. I couldn’t sing if my life depended on it!_  
+__if anything__  
+__if it ain’t broke, don’t fix it__ :three::hammer: (if it isn’t broke, don’t fix it)  
 __if my memory serves me well, correctly, etc.__  
 __if nothing else__ :dart::five: A phrase used to indicate that something is a priority or the most important thing. _I know you’re busy today, so if nothing else, please make sure you respond to these messages._ _If nothing else, we’ll at least get our money back._ _And if nothing else, Selig will be watching._  
 __if only__ :two::hammer:  
@@ -3519,10 +3545,11 @@ __in a lifetime__
 __in a manner of speaking__ :dart: In a way; in a sense; so to speak. _He was a fixer, in a manner of speaking. A man who could get things done._  
 __in a measure__ :two: To a certain degree or extent; somewhat.  
 __in a million years__  
+__in a moment’s notice__  
 __in a month’s time__ The idiom “in a month’s time” refers to a period of one month from the present moment. It is used to indicate when something will happen or be completed. Essentially, it means “one month from now.”  
 __in a new light__  
 __in a nutshell__ :two::hammer:  
-__in a pinch__ When something ideal or preferred is not available; as a substitute. _I don’t have any cooking oil. Is there anything else I can add to the recipe in a pinch?_  
+__in a pinch__ :two: When something ideal or preferred is not available; as a substitute. _I don’t have any cooking oil. Is there anything else I can add to the recipe in a pinch?_  
 __in a rut__  
 __in a similar vein__ :two::hammer:  
 __in a sorry state__ :two: In a pitiful, dysfunctional, or abject condition. _My business was in a sorry state after I left it under the control of my brother._ _John’s been in a sorry state lately—I think he’s taken up drinking again._  
@@ -3536,9 +3563,9 @@ __in all likelihood__ :two::hammer:
 __in all seriousness__ :dart::three: In one’s sincere opinion; without any disingenuousness. _In all seriousness, I think this project plan is severely flawed._  
 __in all truthfulness__ In one’s sincere opinion; without any disingenuousness.  
 __in all__ :two::hammer: _I need five sailors in all._  
-__in and of itself__ :dart::five: By itself, without considering any other factors. Considering it alone. _Yes, in and of itself, your statement isn’t a problem. But you have to understand how it sounded in the context of the conversation._ _Reading is wonderful in and of itself._  
+__in and of itself__ :dart::seven: By itself, without considering any other factors. Considering it alone. _Yes, in and of itself, your statement isn’t a problem. But you have to understand how it sounded in the context of the conversation._ _Reading is wonderful in and of itself._  
 __in any event__ :six: In any case. :es: en cualquier caso, en todo caso _In any event, the audience seemed pleased with your performance._  
-__in any way, shape, or form__  
+__in any way, shape, or form__ :three::hammer:  
 __in arrears__ :five: Behind or overdue, often because one has not made a payment as scheduled.  
 __in awe (of someone or something)__  
 __in behalf of (someone)__  

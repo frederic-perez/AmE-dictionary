@@ -212,56 +212,6 @@ __ghost gun__ A gun without serial numbers that cannot be easily tracked, especi
 __give (one) a run for (one’s) money__ To challenge one’s ability, fortitude, or patience.  
 __give (one) a run for its money__  
 __give someone or something away__ To reveal a secret about someone or something. _I thought no one knew where I was, but my loud breathing gave me away._ _We know that Billy ate the cherry pie. The cherry juice on his shirt gave him away._  
-__glower at (someone or something)__ :three: To look at someone or something with anger or disapproval.  
-__go berserk__  
-__go for broke__ To give something one’s full effort. :es: y a por todas  
-__go for it__ To put forth the necessary effort or energy to do or pursue something, especially in the face of any doubt or trepidation. Often used as words of encouragement.  
-__go into a tailspin__  
-__go missing__  
-__go postal__ :dart: _US informal_ [:scroll: This expression arose as a result of several recorded cases in the USA in which postal-service employees ran amok and shot colleagues] Go mad, especially from stress. Become extremely angry or start behaving in a violent and angry way. _According to one eye witness, the man ‘went postal, and started hitting his computer’_  
-__good for nothing__ (good-for-nothing) Entirely without value; of no use whatsoever. Hyphenated if used as a modifier before a noun. _This junky old computer my dad gave me is good for nothing!_  
-__good for you__  
-__guest of honor__  
-__half the battle__ A key part of a larger goal or task. _Digging the car out of the driveway will be half the battle of getting out to the store._  
-__hit the ground running__  
-__hit the nail on the head__  
-__hit the sack__  
-__hit-and-run__ :smiling_imp::two::hammer:  
-__hiya doin’__ A colloquial pronunciation and spelling of “How (are) you doing?” Used as a friendly and informal greeting. Primarily heard in US.  
-__hiya__ An informal term of greeting.  
-__hoity-toity__ Pretentiously arrogant, haughty, or self-important. _We don’t need some hoity-toity academic coming in and telling us how to run our business!_  
-__hold my beer__ :two::hammer:  
-__hold the line__  
-__hold tight__ __2__ To wait patiently without taking any immediate action.  
-__hold__ _You got to know when to hold ’em, know when to fold ’em..._ Here, “hold” means to keep your cards and not play them yet, indicating the importance of patience and knowing when to continue a certain action or strategy. It implies waiting for the right moment to act or make a decision. In a broader sense, this advice applies to life — knowing when to stay committed to a situation and when to let go or change course.  
-__holding pattern__  
-__hoo boy__ An interjection usually used to express a negative emotion, such as dismay or displeasure. _Hoo boy, I’ve got 24 pages of legal jargon to get through—lucky me._  
-__hopeless at (something)__ Not skilled or adept at something. _Oh, I hired a maid because I know I’m hopeless at housework._  
-__horseshit__ :es: chorradas  
-__hot off the press(es)__  
-__hot potato__  
-__hot-button__ Highly politicized or emotionally charged. Often used in the phrase “a hot-button issue.” Primarily heard in US. _Wealth redistribution is a hot-button issue on both sides of the political aisle._  
-__hothead__ A person with an excitable, fiery, or impetuous temper or disposition; one who is quick to get angry or act rashly. _That lady in the car behind me is a real hothead, honking and shouting at me every time I slow down!_  
-__hotshot__ :two::hammer:  
-__hubby__  
-__hue and cry__ :two: /HYOO-und-KRYE/ [:scroll: The term comes from the Anglo-Norman French “huer,” which means to shout, and the Old French “cri,” which means to cry out. This redundant expression (_hue_ and _cry_ both mean “an outcry”), dating from the 1200s, originally meant “an outcry calling for the pursuit of a criminal.”] __1__ A large public protest. _Hue and cry_ refers to a clamor of alarm or protest in response to something. A public clamor, as of protest or demand. For example, _The reformers raised a hue and cry about political corruption._ __2__ It can also be used as a synonym of hubbub to refer to general noise or uproar.  
-__huff and puff__ :two: Make noisy, empty threats; bluster. For example, _You can huff and puff about storm warnings all you like, but we’ll believe it when we see it._ This expression uses two words of 16th-century origin, _huff_, meaning “to emit puffs of breath in anger,” and _puff_, meaning “to blow in short gusts,” and figuratively, “to inflate” or “make conceited.” They were combined in the familiar nursery tale, _“The Three Little Pigs,”_ where the wicked wolf warns, _“I’ll huff and I’ll puff and I’ll blow your house down”_; rhyme has helped these idioms survive.  
-__hung jury__ :dart: A jury that cannot agree on a verdict.  
-__hunky-dory__  
-__hush money__ :three: _n informal_ A bribe paid to keep something secret. _A hush money case._  
-__hustle and bustle__  
-__I beg your pardon__ :dart: __1__ :dart: I apologize for what I just did or said. _Oh, I beg your pardon. I wasn’t looking where I was going._ __2__ What did you just say? _Could you please repeat that? I beg your pardon, I couldn’t quite hear you._ __3__ An expression or exclamation of indignation or incredulous disbelief. _A: “I’m afraid we’re going to have to cut your funding, effective immediately.” B: “I beg your pardon? Who on earth decided that?”_ __4__ Could you please give me your attention. _I beg your pardon, everyone, but I’d like to get tonight’s proceedings underway._ __5__ :dart: I believe you are mistaken or incorrect; I beg to differ; I don’t agree with you on that. _I beg your pardon, but I believe you’ll find that our school is actually one of the best in the state._  
-__I say__  
-__I see you__  
-__I wouldn’t recommend it__ The idiom “I wouldn’t recommend it” means that the speaker does not think something is a good idea or that it would be a positive experience. It’s a way of politely discouraging someone from doing something, suggesting that it might be unpleasant, risky, or simply not worth the effort.  
-__I’ll believe it when I see it__ I highly doubt that could happen or is the case. The phrase implies that one would need to witness or see proof of such a thing to believe it. _The kids said they’re finished cleaning the garage, but I’ll believe it when I see it._  
-__if (one’s) life depended on it__ Under any circumstances; no matter what. (Used almost exclusively with a negative statement regarding something that one couldn’t or wouldn’t do.) _No way am I going to karaoke night. I couldn’t sing if my life depended on it!_  
-__if anything__  
-__if it ain’t broke, don’t fix it__ :two::hammer: (if it isn’t broke, don’t fix it)  
-__in a moment’s notice__  
-__in a pinch__ When something ideal or preferred is not available; as a substitute.  
-__in and of itself__  
-__in any way, shape, or form__ :two::hammer:  
 __in brief__ In summary; to say it briefly. _The film was, in brief, dull._ _If you can, please explain it in brief._ _Medical news in brief: ..._  
 __in custody__ (of someone or something)  
 __in dribs and drabs__  
