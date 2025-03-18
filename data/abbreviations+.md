@@ -94,6 +94,7 @@ __GDR__ German Democratic Republic.
 __GED__ :two: (GED exam) The General Educational Development Test is designed for people who, for various reasons, did not graduate from high school but want a certificate equivalent to the traditional high school diploma. _GED exam._  
 __GIGO__ Garbage in, garbage out.  
 __GMO__ :three: Genetically modified organism. _Reserve your non-GMO turkey now._ _ngmoproject.org_ _Raised humanely on healthful non-GMO feed._  
+__GMX__ __1__ Global Message Exchange. __2__ Global Mail Exchange.  
 __GOAT__ :two: Greatest of all time.  
 __GOP__  
 __GPA__ Grade point average.  
@@ -142,6 +143,7 @@ __LLM__ _Computers_ Large language model: a type of machine learning algorithm t
 __LNG__ Liquid Natural Gas.  
 __LZ__ Landing zone. _It belonged to a guy who flew a slick into a hot LZ when I was wounded._  
 __MAC__  
+__MAGA__ /ˈmæɡə/ Make America great again.  
 __MC__  
 __MDMA__ Methylene dioxymethamphetamine: an amphetamine derivative, that was used in psychotherapy until it was banned in the U.S. in 1985: now used illicitly as a hallucinogen and mood-enhancer. Also called (informal): ecstasy.  
 __ME__ _n_ :three: Medical Examiner. _The ME said there was a look frozen in their eyes._ _The ME dug him out of the ashes and opened him up._  

@@ -17,6 +17,7 @@ __ad-lib<sup>3</sup>__ _n_
 __ad-lib<sup>4</sup>__ _v_ :two: /AD-LIB/ To ad-lib something, such as a performance or part of a performance, is to improvise it—that is, to make up words or music instead of saying, singing, or playing something that has been planned. _The actor forgot his lines, so he ad-libbed._  
 __adamant__ _adj, n_  
 __addlepated__ _adj_ /AD-ul-pay-tud/ Someone described as addlepated is mixed-up or confused. _Addlepated_ can also be used as synonym of eccentric.  
+__admonish__ _v_ /ad-MAH-nish/ To admonish someone is to express warning or disapproval towards them, or to urge them to do something.  
 __adorbs__ _adj_ /ə-ˈdȯrbz/ _informal_ Extremely charming or appealing. _Syn_ adorable  
 __adversary__ _n_ :mega: /ˈæd vərˌsɛr i/ /ˈædvəsərɪ/ /AD-ver-sair-ee/ _Adversary_ is an enemy or opponent.  
 __affidavit__ _n_  
@@ -36,6 +37,7 @@ __barrage__ _n_
 __bash__ _n_ __2__ _slang_ A celebration; a party.  
 __bearing__ _n_  
 __beckon__ _v_  
+__begrime__ _vt_ Make soiled, filthy, or dirty. _Syn_ bemire, colly, dirty, soil _Mother warned me not to begrime my clothes while playing outside._  
 __bevel__ _vt_ To cut at an inclination that forms an angle other than a right angle: _beveled the edges of the table._  
 __bidding__ _n_  
 __Big Mouth Billy Bass__ _n_ An animatronic singing prop, representing a largemouth bass, invented by Gemmy Industries on December 16, 1998; sold beginning January 1, 1999; and popular in the early 2000s.  
@@ -52,6 +54,7 @@ __buy out__
 __cannular__ _adj_ Constituting a tube; having hollow tubes (as for the passage of fluids). _Syn_ tubelike, tubular, vasiform  
 __chicory__ _n_ :astonished: /ˈtʃɪk ə ri/ __1__ _(Plants)_ Also called: _succory_. A blue-flowered plant cultivated for its leaves, which are used in salads, and for its roots. :es: escarola __2__ _(Cookery)_ The root of this plant, roasted, dried, and used as a coffee substitute. :es: achicoria  
 __coalesce__ _v_  
+__cobweb__ _n_  
 __code__ _n_ [Note: _Code_ is usually uncountable in programming contexts, but it can be countable when referring to different kinds of code (like various coding systems, encryption codes, or different pieces of code), like _The software uses multiple codes to encrypt data._]  
 __collected__ _adj_  
 __colorful__ _adj_ :astonished:  
@@ -61,6 +64,7 @@ __conformal__ _adj_ [:scroll: from Late Latin _conformālis_ having the same sha
 __conscript__ _n_ One compulsorily enrolled for service, especially in the armed forces; a draftee.  
 __consumer sentiment__ _n_ Another word for _consumer confidence_.  
 __contractor__ _n_  
+__cordon__ _n_ __1__ A line of people, military posts, or ships stationed around an area to enclose or guard it: _a police cordon._ _The landing field cordon won’t stop a Jedi._  
 __corn__ _n_ :mega:  
 __counterfeit<sup>1</sup>__ _vt_  
 __counterfeit<sup>2</sup>__ _vi_  
@@ -76,6 +80,8 @@ __crisis__ _n_ :mega: /ˈkraɪ sɪs/ (_n pl_ crises /ˈkraɪ siːz/)
 __cryptic__ _adj_ /KRIP-tik/ Something described as cryptic has or seems to have a hidden meaning, or is difficult to understand.  
 __cup__ _vt_ __1__ To shape like a cup: _cup one’s hands._ _Cupping the hyperdrive levers in her hand._  
 __curfew__ _n_ /KER-fyoo/  
+__cut-off date__ _n_ The last date on which it is possible to do something. _The cut-off date for registering is yet to be announced._  
+__dab__ _n_ __1__ A tiny amount. A small amount: _a dab of jelly._ _Syn_ bit, crumb, dash, dot, dram, drop, fragment, grain, iota, jot, minim, mite, modicum, molecule, ort, ounce, particle, scrap, scruple, shred, smidgen, speck, tittle, trifle, whit  
 __deliver__ _v_  
 __demagogue__ _n_ (demagog)  
 __demonstrator__  
@@ -169,6 +175,7 @@ __flinch__ _vi_ :es: estremecerse; encogerse
 __fling__ _v_ :two::hammer: (flung)  
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
 __foolproof__ _adj_  
+__forego__ _v_  
 __fragile__ _adj_ :mega:  
 __fraught__  
 __funnel__ _v_ :dart: __6__ :dart: To concentrate or focus or be concentrated or focused in a particular direction: _they funnelled their attention on the problem._  
@@ -305,6 +312,7 @@ __lilt__ _n_
 __lily-handed__ _adj_ /LIL-ee-han-did/ __1__ Having delicate, pale hands, unaccustomed to manual labor. __2__ Dandy; foppish; overly refined.  
 __lime__ _n_ :es: cal  
 __limerence__ _n_ The state of being obsessively infatuated with someone, usually accompanied by delusions of or a desire for an intense romantic relationship with that person.  
+__limerick__ _n_ /LIM-uh-rik/  
 __limestone__  
 __liminal__ _adj_ :two: /LIM-uh-nul/ _Liminal_ is a formal word most often used to describe an intermediate state, phase, or condition. It can also describe something that is barely perceptible or barely capable of eliciting a response.  
 __limpid__ _adj_ /LIM-pid/ _Limpid_ describes things that are perfectly transparent or clear, or that are simple in style.  
@@ -723,6 +731,7 @@ __rhetoric__ _n_ :pencil2:
 __rheumy__ _adj_ :mega: /ˈru mi/  
 __Richter scale__ _n_ :mega: /ˈrɪk.tər skeɪl/ /rĭk′tər/ A logarithmic scale used to express the amount of energy released by an earthquake. Its values typically fall between 0 and 9, with each increase of 1 representing a 10-fold increase in energy.  
 __ridealong__ _n_ __1__ The act of accompanying, or volunteering with, a police, paramedic, or firefighting group, usually by a student seeking hands-on experience. __2__ One who participates in this.  
+__rife__ _adj_ /RYFE/ _Rife_ usually describes things that are very common and often—though not always—bad or unpleasant. _Rife_ is also commonly used in the phrase “rife with” to mean “copiously supplied” or “having a large amount of; full of.” Unlike most adjectives, rife is not used before a noun. _Speculation about who would be sent to the new office had been rife for weeks._  
 __ringfenced surgery__ _n_ A set of procedures or surgeries that are prioritized and protected within a healthcare system, often to ensure that they are not delayed or cut due to budget constraints or competing demand.  
 __riposte__ _n_ A quick reply to a question or remark (especially a witty or critical one). _Syn_ comeback, counter, rejoinder, replication, retort, return  
 __ripple__ _v_ :two::hammer:  
@@ -731,6 +740,7 @@ __ristretto__ _n_ A “short shot” of a more highly concentrated espresso coff
 __rive__ _v_ Tear or be torn violently. _Syn_ pull, rend, rip  
 __riven__ _adj_ Torn apart; damaged. _The party was riven with factional fighting._ _Syn_ torn apart, split, rent, ruptured, ripped apart, torn asunder  
 __rod__ _n_  
+__rollback__ _n_ _Much attention has been focused on the Trump administration’s rollback of women’s health and rights._  
 __roster__ _n_  
 __row__ _n_ :astonished: __1__ A noisy or quarrel or disturbance.  
 __rudder__ _n_  
@@ -774,6 +784,7 @@ __sepulchral__ _adj_ Gruesomely indicative of death or the dead. _Syn_ charnel, 
 __settle__ _v_ /ˈsɛtəl/ __12__ (Banking & Finance) (sometimes foll by _up_) To pay off or account for (a bill, debt, etc). _He settled the bill before leaving._  
 __severance pay__ _n_ :two::hammer:  
 __severance__ _n_  
+__shadower__ _n_ A spy employed to follow someone and report their movements. _Syn_ tail, shadow  
 __shamble<sup>1</sup>__ _vi_ :dart: To walk or move along in an awkward or unsteady way.  
 __shamble<sup>2</sup>__ _n_ An awkward or unsteady walk.  
 __sharp__ _adj_ __6__ Vigilant; alert: _kept a sharp lookout for shoplifters._ _Stay sharp._  
@@ -815,6 +826,7 @@ __sovereign<sup>2</sup>__ _adj_
 __soverreignty__ _n_ :two::hammer:  
 __spearhead__ _v_  
 __specious__ _adj_ :smiling_imp: Based on pretense; deceptively pleasing. _Syn_ gilded, meretricious  
+__spellbound__ _adj_ Having your attention fixated as though by a spell. _Syn_ fascinated, hypnotized, mesmerized, transfixed  
 __spittle__ _n_ _Syn_ saliva  
 __splurge__  
 __staff<sup>1</sup>__ _n_  
@@ -830,6 +842,8 @@ __stubborn__ _adj_ :pencil2::mega:
 __suave__ _adj_ /swɑːv/  
 __substantive__ _adj_ __1__ Substantial; considerable. __4__ 4. Of or relating to the essence or substance; essential: _substantive information._  
 __superfluous__ _adj_ /soo-PER-floo-us/ Superfluous is a formal word used to describe things that exceed what is necessary or sufficient, or that are simply not needed.  
+__tadpole__ _n_ [:scroll: C15 _taddepol_, from _tadde_ toad + _pol_ head, poll]  
+__tenuous__ _adj_  
 __thunderclap__ _n_  
 __transmigrate__ _v_ Be born anew in another body after death. _Syn_ reincarnate  
 __transpire__ _v_ :astonished /tran-SPYRE/ _Transpire_ is a formal verb that means “to happen,” or in other words “to take place or occur.” It can also mean “to come to light” or “to become known,” as in “It transpired that they had met previously.” In botany, to transpire is to give off or exude watery vapor especially from the surfaces of leaves.  
@@ -837,6 +851,7 @@ __trounce__ _v_ Come out better in a competition, race, or conflict. _Syn_ beat,
 __unwieldy__ _adj_ :astonished: _The suddenly unwieldy craft._ :es: difícil de manejar; rígido  
 __upfold__ _vt_ To fold up.  
 __vaunted__ _adj_ :dart: Praised more than deserved. _Vaunted Jedi Master Luke Skywalker._  
+__verdant__ _adj_ Green with vegetation; covered with green growth. _Syn_ green, lush  
 __war story__ _n_ A story of a memorable personal experience typically involving an element of danger, hardship, or adventure. _Politicians swapping war stories from past campaigns._  
 __warble__ _v_  
 __warhorse__ _n_ (war horse)  

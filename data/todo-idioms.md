@@ -5,6 +5,7 @@ __(as) good as dead__
 __(as) mad as a wet hen__ Enraged; extremely or inconsolably angry. _My dad was mad as a wet hen after I crashed his car._  
 __(as) mad as hops__ Enraged; extremely or inconsolably angry. _My dad was mad as hops after I crashed his car._  
 __(as) quick as a bunny__ Incredibly quickly or speedily. _Quick as a bunny, Mary finished her exam and raced out of the classroom._  
+__(at) full throttle__ As fast as something or someone can go. _Once Tom caught the ball, he took off at full throttle toward the end zone._  
 __(be) on hand__  
 __(it’s) (a)bout time__ :dart::two:  
 __(it’s) just as well (that) (something happened)__ It is or turned out to be beneficial (that something happened). _It turned out we had a pop quiz on Monday. Just as well I was studying this weekend!_  
@@ -48,6 +49,7 @@ __a long row to hoe__ [:scroll: This metaphor comes from nineteenth-century Amer
 __a long shot__  
 __a losing game__ A failing or hopeless effort; a situation or activity that is ultimately futile or cannot be won. (Most often used in the phrase “play a losing game.”) _I’d give up trying to get your brother to agree to this deal if I were you. It looks like a losing game at this point._  
 __a man/woman on a mission__ A person who is fiercely determined to do or get what they want.  
+__a match made in hell__ An extremely ill-suited pairing of people or things; a match that will result in a particularly negative or disastrous outcome. (A play on the more common phrase “a match made in heaven,” meaning the opposite.) _I can’t understand how John and Samantha are still together—they seem like a match made in hell to me!_  
 __a matter of time__ An inevitability or eventuality; something that is or seems sure to happen at some point in the future. _With your reckless spending behavior, it’s just a matter of time before you go broke._  
 __a mile away__  
 __a new coat of paint__ The phrase “a new coat of paint” is an idiom that means giving something a fresh appearance or updating it, often to make it look more appealing or modern. It can refer to physically painting an object or structure, but it’s also used metaphorically to describe revitalizing or improving something, like a project, idea, or even a person’s style. It’s about making something look new again without necessarily changing its core essence.  
@@ -72,16 +74,21 @@ __and everything in between__ The idiom “and everything in between” refers t
 __as of yet__  
 __at one’s peril__ _somewhat formal_ Used to say that if one does something there could be bad consequences. _Restaurants that ignore the smoking ban do so at their peril._  
 __attaboy__  
+__Backhanded compliment__ A remark that appears to be a compliment but also contains an insult or a negative implication. It often undermines the praise given, making it ambiguous and potentially hurtful.  
+__be hard on (one)__  
 __be ripe for the picking__ To be in an ideal position or at the perfect stage to be utilized, benefited or profited from, taken advantage of, exploited, etc. (Alludes to fruit being at the right stage to be harvested.)  
 __boy oh boy__  
 __bring (someone) to tears__ The idiom “bring (someone) to tears” means to cause someone to cry, often due to strong emotions such as sadness, joy, or overwhelming feelings. It can refer to a situation, event, or piece of art (like a movie, song, or book) that evokes a deep emotional response, leading the person to shed tears.  
 __bubble up__  
 __bury the hatchet__  
 __by and large__  
+__by the day__ Per day; at a daily rate.  
+__call (one) names__ (call someone names)  
 __case in point__  
 __catch (the) headlines__ To be featured on the headlines of news articles, as due to being particularly important, popular, fashionable, etc. _It may not be so tremendous as to catch the headlines, but this small change in immigration law could have a huge impact on foreign workers._  
 __catch a break__  
 __catch up with (someone)__  
+__change tack__ To employ a different method or approach in addressing a particular situation. _They have not been receptive to our offers thus far, so we need to change tack._  
 __checks and balances__ :dart: Rules within a power structure that keep one person or section from becoming excessively powerful. _The founders created three separate branches of government to act as a system of checks and balances._  
 __chew on this bone__  
 __chide (one) for (something)__ To reprimand or tease one about something.  
@@ -187,11 +194,14 @@ __feel like doing something__
 __feel out__  
 __feel puny__ To feel sick. _I woke up feeling puny, so I just stayed in bed all day._  
 __feel the heat__ :two: To deal with or come up against intense pressure or hostility. To encounter an uncomfortable situation.  
+__few and far between__  
 __first off__  
 __flip the switch__ (flip a switch) __1__ To cause a sudden and complete change: This can refer to a change in behavior, attitude, or even a situation. _He flipped the switch and suddenly became very angry._ __2__ To make something happen quickly and easily: This meaning emphasizes the ease with which the change occurs. _We just need to flip the switch to activate the new system._ __3__ To turn something on or off: This is the most literal meaning, referring to the action of physically flipping a switch. However, it can also be used metaphorically to describe starting or stopping something. _The company flipped the switch on their new marketing campaign._  
 __flip through (something)__ To casually read through a document, magazine, or book without paying close attention to it. _I had just started flipping through a magazine when the receptionist called my name._ _I was flipping through the (television) channels._  
+__fly__ _slang_ __2__ Fashionable; cool. Stylish; very attractive. _Those sunglasses are really fly._ _Check out my fly new sneakers!_  
 __for one thing__  
 __for the fun of it__ ((just) for the fun of it)  
+__forage for (something)__ To hunt around for something; to look through something in search of something else, typically food.  
 __fore and aft__  
 __fork in the road__  
 __foul play__ _No sign of foul play._  
@@ -207,11 +217,14 @@ __gee__ __2__ _exclam._ Wow! (An abbreviation of Jesus!, although not always rec
 __geek out__  
 __get a handle on (something)__ To have a firm, clear understanding or determination of something.  
 __get hell__ To receive the brunt of another’s anger, often through scolding.  
+__get into it__ __2__ To engage in a verbal or physical altercation with someone. _I can’t believe you got into it with the biggest kid in your class._ _I was on a flight recently when the woman next to me got into it with the flight attendant._  
 __get to know__  
 __ghost gun__ A gun without serial numbers that cannot be easily tracked, especially a home-made gun built with non-registered, partially finished or 3D printed components.  
 __give (one) a run for (one’s) money__ To challenge one’s ability, fortitude, or patience.  
 __give (one) a run for its money__  
 __give someone or something away__ To reveal a secret about someone or something. _I thought no one knew where I was, but my loud breathing gave me away._ _We know that Billy ate the cherry pie. The cherry juice on his shirt gave him away._  
+__grit__  
+__in all honesty__ In one’s sincere opinion; without any disingenuousness. _In all honesty, I think this project plan is severely flawed._  
 __in brief__ In summary; to say it briefly. _The film was, in brief, dull._ _If you can, please explain it in brief._ _Medical news in brief: ..._  
 __in custody__ (of someone or something)  
 __in dribs and drabs__  
@@ -221,7 +234,9 @@ __in more ways than one__
 __in one’s book__  
 __in the cards__ _AmE_ (_BrE_ on the cards) [:scroll: This phrase probably refers to the practice of using playing cards or tarot cards to foretell the future] Very likely or certain to happen, occur, or take place.  
 __in the hope of__  
+__in the house__  
 __in the nick of time__  
+__in the thick of it__  
 __in the works__ :two::hammer:  
 __Irish goodbye__ (See also _French leave_.) A hasty exit made without saying farewells to anybody.  
 __Jack and Jill suite__ (Jack and Jill bedroom suite) A bedroom suite composed of two bedrooms of similar size and a bathroom, where the bathroom is accessed through both bedrooms, and both bedrooms access the rest of the establishment/house/hallway.  
@@ -236,7 +251,7 @@ __keep (one’s) cards close to (one’s) chest__ (See _play (one’s) cards clo
 __keep (one’s) slate clean__ To maintain an impeccable record; to refrain from committing any mistakes or wrongdoings.  
 __keep (one’s) socks on__ :dart: To remain patient and calm, especially when beginning to become angry or upset with impatience. Usually said as an imperative. _Yeah, yeah, keep your socks on! I’ll have the report finished by the end of the day!_  
 __keep (one’s)/an eye on (someone or something)__ :two::hammer:  
-__keep (someone or something) in check__  
+__keep (someone or something) in check__ :two: To limit or restrain someone or something.  
 __keep (someone) in the loop__ To keep someone informed about and/or involved in something, such as a plan or project, especially that which involves or pertains to a specific group.  
 __keep (something) straight (in one’s mind/head)__ To be able to understand something clearly and comprehensively; to keep the details of something clear in one’s mind.  
 __keep (up) (one’s) end of the bargain__ :two::hammer:  
@@ -295,7 +310,7 @@ __larger than life__
 __laser focus__  
 __laser focused__  
 __lash around__  
-__lash out__  
+__lash out__ :dart::two: __1__ To physically swing or strike out at someone or something, usually unexpectedly. _That ornery old cat will lash out at you if you get too close._ __2__ :dart: To react with sudden, intense anger. _Hey, don’t lash out at me, I’m just the messenger!_  
 __last (one) heard__ ((the) last (one) heard) According to the most recent knowledge one has about someone or something. _Last we heard, she had moved up to Calgary to be closer to her family._  
 __last burst of fire__ A final effort or attempt, especially as before failure or defeat. _The home team has unleashed one last burst of fire in the final seconds of the game to try and force an overtime showdown._  
 __last chance (for/at/to do something)__ The last or final opportunity to get, have, do, or achieve something. _Hurry and book your flights today—this is your last chance for the cheapest tickets in town!_  
@@ -360,6 +375,7 @@ __look for a dog to kick__ To seek out someone to blame or castigate, especially
 __look on the sunny side (of life/things)__ :dart: To view one’s life, situation, or circumstances with a generally optimistic and cheerful attitude; to focus on what is positive in life. _My mother always told me to look on the sunny side of life, and I have to admit, it helps when I’m having a rough day._  
 __look out for number one__ To put one’s own needs, concerns, or responsibilities before those of anyone else. _The only way you’re going to get ahead in this business is if you look out for number one._  
 __loom large__  
+__loose cannon__ Someone who has the propensity to act unpredictably or to lose their temper very quickly.  
 __loose change__ A small, usually insignificant amount of money, typically consisting of coins.  
 __loose ends__ (loose end)  
 __loose lip(s)__ The practice, habit, or manner of speaking too frequently and/or without discretion, especially as might unintentionally lead to revealing private or sensitive information to others. _You’ve got a very loose lip, son. You’d do well to learn to keep it shut!_  
@@ -425,6 +441,8 @@ __man up__ To deal with something in a more brave, stoic, or masculine way than 
 __many happy returns of the day__ I wish you a very happy birthday and many more like it in the future. _Hey Jack, many happy returns of the day! Are you going to do anything special to celebrate the occasion?_  
 __march to (the beat of) a different drum__ To do something, act, or behave in a manner that does not conform to the standard, prevalent, or popular societal norm. _My brother’s eschewed the idea of a full-time career and has had every oddball job you could think of, but then he’s always been happy marching to the beat of a different drum._  
 __marginal gains__ “Marginal gains” refers to small, incremental improvements in performance or efficiency that, when accumulated, can lead to significant overall gains.  
+__Marie Celeste__ A place, location, or high-occupancy vehicle (especially a ship) that is inexplicably deserted or abandoned. An allusion to the Mary Celeste, an American merchant brigantine that was discovered floating off the Azores Islands in 1872 with no one on board and still in seaworthy condition. (Note: The variant spelling of “Marie” is the more common usage for the idiomatic reference, likely due to its use in a story by Arthur Conan Doyle.) _We came upon a house in the woods, empty as the Marie Celeste, but left otherwise untouched._  
+__marry (someone) for (his or her) money__ To marry someone solely or primarily to have access to their personal wealth.  
 __marry above (one’s) station__ To marry someone who is of a higher social class or standing than oneself.  
 __marry beneath (oneself)__ To marry someone who is of a lower social class or standing than oneself.  
 __marry into money__ To become wealthy or financially secure by marrying someone who is wealthy or has a wealthy family.  
@@ -435,6 +453,7 @@ __mince words__
 __mind (one’s) p’s and q’s__  
 __miss the boat__  
 __miss the cut__  
+__miss the mark__ To be slightly or somewhat mistaken, incorrect, or inaccurate.  
 __missing number on the dice__ The phrase “missing number on the dice” isn’t a common idiom in English. However, it could be interpreted metaphorically to mean something that is expected but absent, or an element that is crucial but missing in a situation.  
 __mix and match__  
 __mixed feelings__ :two::hammer:  
@@ -487,6 +506,7 @@ __no hard feelings__ :es: sin rencores
 __no question about it__  
 __normie__ (slang, usually derogatory, sometimes Internet) A normal person; one with commonly held, normative beliefs, tastes or interests.  
 __north star__ Something or someone that serves as a guiding principle, source of direction, or inspiration in one’s life.  
+__not a chance__ (There is) no possibility (that that will happen).  
 __not a snowball’s chance in hell__ Not any possibility, chance, or likelihood whatsoever. _There isn’t a snowball’s chance in hell that he would win an election in this part of the state._  
 __not be lost on (someone)__ To have a significant or noticeable impact or effect on someone; to be valued, appreciated, or understood by someone. _I assure you, Senator, the implications and possible consequences of the proposed law have not been lost on me._ _I hope all our efforts to help your career have not been lost on you, John._  
 __not by a long shot__  
@@ -535,10 +555,10 @@ __on (one’s) watch__ :two::hammer:
 __on (someone’s) behalf__  
 __on a daily basis__ Once or more each day.  
 __on a dime__  
-__on a journey__  
+__on a journey__ :two::hammer:  
 __on a lark__ On a whim or fancy; for fun or as a joke.  
 __on a limb__ ((out) on a limb) In a position that lacks evidence, certainty, or support. The image is that of being situated on a branch of a tree, away from the support of the trunk. _Her hypothesis is really out on a limb—the facts don’t support it at all._  
-__on a mission__ :three::hammer:  
+__on a mission__ :four::hammer:  
 __on a roll__  
 __on a second thought__ An idiomatic expression that means to reconsider or reevaluate something after initial consideration. It implies that one has had a change of mind or a new perspective after giving more thought to a particular issue or decision.  
 __on a string__  
@@ -616,6 +636,7 @@ __pour cold water on (something)__
 __pour fuel on the fire__  
 __pour gas/gasoline on the fire__  
 __power dynamics__  
+__power move__ A strategic action or decision made by an individual or group to assert dominance, control, or influence in a situation. It often implies a calculated maneuver intended to demonstrate strength, authority, or superiority, particularly in competitive environments such as business, politics, or social interactions.  
 __practice makes perfect__ :two::hammer:  
 __pray to the enamel god__  
 __pray to the porcelain god__  
@@ -627,6 +648,8 @@ __put the jinx on (something or someone)__ To invoke a curse upon someone or som
 __put the screws on something__  
 __put to good use__ (put (something) to good use) To use something in a way that will be beneficial or have significant results. Employ to the best advantage, as in _I’m sure this dictionary will be put to good use._  
 __put to the test__ (put (someone or something) to the test)  
+__rise to (something)__ :dart: To increase one’s effort in response to a challenging situation. _If you’re going to lead this team, you’ve got to rise to the challenge and start motivating them._  
+__ruckus__ A large, uproarious commotion. _There was a ruckus out in the streets, so I went out to investigate._  
 __scramble for (something)__  
 __set up shop__  
 __shuffle off__  
@@ -703,6 +726,7 @@ __speak volumes__
 __speed__ _slang_ Any illicit stimulant drug, especially amphetamine or methamphetamine. _We all used to take speed during college to help us study._  
 __spend a penny__ _euphemism_ To go to the toilet. Primarily heard in UK.  
 __spending spree__  
+__spill over__ __2__ To go beyond the borders or parameters of something and into something else, especially due to growing in size or scope. _It’s hard to contain violence to just one neighborhood, you know. It’s only a matter of time until it spills over into our part of town too._  
 __spill the beans__  
 __spill your guts__ To confess or reveal all, often under pressure or coercion. Ellroy often has characters facing moral dilemmas, and this idiom fits the theme of characters who must decide whether to reveal their secrets or keep them buried.  
 __spin doctor__ :smiling_imp: Someone who gives a twisted or deviously deceptive version of an event. (Usually in the context of manipulating the news for political reasons.) _Things were going bad for the candidate, so he got himself a new spin doctor._ _A good spin doctor could have made the incident appear far less damaging._  
@@ -773,6 +797,7 @@ __sword of Damocles__ Any imminent, impending, or eventual trouble, danger, or d
 __sworn enemy__ A person, group, or organization for whom one holds a particularly intense, deep-seated hatred. _Our environmentalist lobby group is heading out to protest against Big Oil, our sworn enemy._  
 __tacky__ Cheap, crude, and unrefined; indicating or characteristic of a lack of class, elegance, or sophistication. _He showed up in a really tacky suit._ _The office looked tacky._ _Tacky birthday present._ :es: cutre  
 __taco bender__  
+__tad__ (a tad; a tad bit) A bit; a small bit. _That’s a little more than a tad, but it’s all right._  
 __take (one’s) pick__  
 __take (one) up on (something)__ To agree to an offer one has made, especially one made at an earlier point in time. _I’m coming to town this weekend, so can I take you up on that spare bedroom you’ve offered me in the past?_  
 __take a crack at (something)__ To attempt (to do) something; to take a turn trying (to do) something. _Well, I haven’t fixed a motor in nearly 10 years, but I’ll certainly take a crack at it._  
@@ -805,6 +830,7 @@ __talk back (to one)__ To answer, respond, or interrupt in a rude or impertinent
 __talk the talk__  
 __tall order__  
 __tangle with (someone or something)__ To fight, argue, or engage in a dispute with someone or something.  
+__tap into (something)__ To access some large, abundant, or powerful resource.  
 __tap into__ :two::hammer:  
 __tap our__  
 __tape out__  
@@ -824,6 +850,7 @@ __the story goes (that)__
 __this hour__ The phrase “this hour” typically refers to the current hour in which we are presently. It can be used to describe the time frame of the hour that is currently happening or the events occurring within it.  
 __this time around__ A phrase often used to refer to the current occasion or situation in comparison to previous ones. It implies that there have been similar instances in the past, and it suggests a sense of awareness or reflection on how things might be different now.  
 __thread the needle__  
+__through gritted teeth__ Through clenched teeth, as owing to anger, pain, or displeasure.  
 __throw a tantrum__ (throw a (temper) tantrum) To have an outburst of childish or unreasonable anger, frustration, or ill temper. _I was so embarrassed when Danny started throwing a tantrum in the grocery store._  
 __throw a wrench into the works__ (throw a (monkey) wrench in(to) the works) To disrupt, foil, or cause problems to a plan, activity, or project. _We had everything in line for the party, but having the caterer cancel on us at the last minute really threw a wrench in the works!_  
 __throw in__ _He is going to throw in every dirty trick he can think of._  
@@ -840,6 +867,7 @@ __train on (someone or something)__ _The blaster was trained on the door._
 __turn the page__  
 __turn the tables__ To change or reverse something dramatically.  
 __under the table__ :smiling-imp:  
+__up one’s game__ The idiom “up one’s game” means to improve one’s performance, skills, or efforts in a particular area, often in response to competition or the need to meet higher standards.  
 __walk of shame__  
 __walk on eggs__  
 __walk on eggshells__  
@@ -873,6 +901,7 @@ __with flying colors__
 __with heavy asterisk__ (with a heavy asterisk) The phrase “with (a) heavy asterisk” is typically used in conversation, writing, or discourse to imply that there’s a major caveat, condition, or important exception that should be noted. The asterisk metaphorically represents the idea that there’s a footnote or clarification to consider, but it’s emphasized as significant or notable—hence “heavy.”  
 __wonky__  
 __word has it (that)__ According to rumor or gossip (something is the case).  
+__wordplay__ The use of words in a clever or amusing way, as seen in puns or double entendres.  
 __work (one0146s) butt off__ To work really hard (on or at something). _I know you thought it was just a silly New Year’s resolution, but I’4ve been working my butt off at the gym!_  
 __worry (something) out of (someone or something)__  
 __worst-case scenario__ The worst possible thing that could happen.  
