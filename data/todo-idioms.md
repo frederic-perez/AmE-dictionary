@@ -558,36 +558,6 @@ __on a dime__
 __on a journey__ :two::hammer:  
 __on a lark__ On a whim or fancy; for fun or as a joke.  
 __on a limb__ ((out) on a limb) In a position that lacks evidence, certainty, or support. The image is that of being situated on a branch of a tree, away from the support of the trunk. _Her hypothesis is really out on a limb—the facts don’t support it at all._  
-__on a mission__ :four::hammer:  
-__on a roll__  
-__on a second thought__ An idiomatic expression that means to reconsider or reevaluate something after initial consideration. It implies that one has had a change of mind or a new perspective after giving more thought to a particular issue or decision.  
-__on a string__  
-__on a tear__  
-__on a whim__  
-__on and off__  
-__on another subject__  
-__on autopilot__ (Functioning) automatically, without thinking about one’s actions, generally because one has done something many times in the past. _By the second week of data entry, I could fill in the spreadsheets on autopilot._  
-__on edge__ Anxious and tense.  
-__on occasion__ :two::pencil2: Once in a while; occasionally.  
-__on one’s feet__  
-__on paper__ __2__ Hypothetically or in theory.\_ It’s a good idea on paper, but I don’t think it would work in a real-world environment.\_  
-__on par (with someone or something)__  
-__on speaking terms__  
-__on steroids__  
-__on the back burner__ Of a low priority; given less or little thought or attention; postponed or suspended.  
-__on the blink__ __1__ _slang_ Not working correctly; acting strangely; malfunctioning. _Our washer is on the blink, so I’m on my way to the laundromat._ __2__ _slang_ Drunk. _Do you remember last night at the bar at all? You were really on the blink!_  
-__on the brink of (something)__ :two::hammer:  
-__on the cards__ _BrE_ (_AmE_ in the cards) Very likely or certain to happen, occur, or take place.  
-__on the contrary__  
-__on the edge of (one’s) seat__  
-__on the fly__  
-__on the go__ :two::hammer:  
-__on the grounds of__ The phrase “on the grounds of” is primarily used in legal and formal contexts to mean “based on” or “justified by.”  
-__on the hook__ __1__ Held responsible (for something); obliged or committed (to something). _I would think very carefully signing your name to those documents. If something goes wrong in the company, it could be you on the hook._  
-__on the hunt__  
-__on the leading edge__ Having or knowledgeable of the most advanced technology in a given area, activity, or endeavor. _The local university’s laboratory is on the leading edge when it comes to cancer research._  
-__on the level__ Honest, truthful, or sincere. Given the corrupt environments Ellroy often writes about, this phrase could be used to emphasize a character’s rare honesty amidst widespread deception.  
-__on the line__ :two: __1__ In a state of jeopardy or uncertainty.  
 __on the lookout__ :three: Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
 __on the move__  
 __on the pill__ _slang_ Currently and regularly using birth-control pills (oral contraceptives that inhibit ovulation to prevent conception).  

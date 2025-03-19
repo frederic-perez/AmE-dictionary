@@ -4792,20 +4792,25 @@ __on a dime__
 __on a high horse__ To act as if you are better than other people.  
 __on a lark__ :three: On a whim or fancy; for fun or as a joke. _On a lark, I skipped school and drove to the beach._  
 __on a lighter note__ Used as a means of segueing to some topic of discussion that is less serious or more positive.  
-__on a mission__ :two::hammer: _On a mission to close the skills gap by unlocking work-based learning opportunities for all._  
+__on a mission__ :six::hammer: _On a mission to close the skills gap by unlocking work-based learning opportunities for all._  
 __on a pedestal__  
-__on a roll__ :four::hammer: _I’m on a roll._  
+__on a roll__ :five::hammer: _I’m on a roll._  
+__on a second thought__ An idiomatic expression that means to reconsider or reevaluate something after initial consideration. It implies that one has had a change of mind or a new perspective after giving more thought to a particular issue or decision.  
 __on a side note__ :two: Parenthetically or incidentally; by the way; in addition to but less important than what was just being discussed.  
-__on a tear__ :three: __1__ _slang_ A spree, binge, or indulgence of intense or prolonged alcohol consumption. _A: I didn’t expect Pete to be drunk already! B: Oh, he’s been on a tear all day._ __2__ _slang_ A sudden showing or burst of intense energy or activity. _The team looked a little sluggish in the first half, but they have been on an absolute tear in the second._ _The stock has been on a tear._ _The U.K. labor market is on a tear._  
+__on a string__  
+__on a tear__ :four: __1__ _slang_ A spree, binge, or indulgence of intense or prolonged alcohol consumption. _A: I didn’t expect Pete to be drunk already! B: Oh, he’s been on a tear all day._ __2__ _slang_ A sudden showing or burst of intense energy or activity. _The team looked a little sluggish in the first half, but they have been on an absolute tear in the second._ _The stock has been on a tear._ _The U.K. labor market is on a tear._  
+__on a whim__  
 __on all fours__ _adj_ :dart: (down on all fours) In conformity with; corresponding exactly with.  
+__on and off__  
 __on and on__ :two::hammer: _The list goes on and on._  
-__on autopilot__ (Functioning) automatically, without thinking about one’s actions, generally because one has done something many times in the past. _By the second week of data entry, I could fill in the spreadsheets on autopilot._  
+__on another subject__  
+__on autopilot__ :two: (Functioning) automatically, without thinking about one’s actions, generally because one has done something many times in the past. _By the second week of data entry, I could fill in the spreadsheets on autopilot._  
 __on board__  
 __on brand__  
 __on call__ Ready or available when and if needed. _We have a team of engineers on call if you experience any issues._  
 __on cloud nine__ :three: To be in a state of extreme happiness. _Ever since Mary got her promotion at work, she’s been on cloud nine. I don’t think I’ve ever seen her happier!_  
 __on demand__ _Requested on demand._  
-__on edge__ :five: Highly tense or nervous; irritable. Anxious and tense. _Our youngster is just feeling on edge about the start of school._ _Tonight she felt on edge._  
+__on edge__ :dart::six: Highly tense or nervous; irritable. Anxious and tense. _Our youngster is just feeling on edge about the start of school._ _Tonight she felt on edge._  
 __on end__ :two: Continuously and without stopping. Used after a unit of time, such as “hours” or “days.” _I could talk for hours on end about trains._  
 __on every level__ _That was a bad idea on every level._  
 __on fire__ :four: __1__ Something is going really well or someone is doing a fantastic job. Performing very enthusiastically, adeptly, or successfully. _The team has been on fire lately, winning 11 of its last 12 games._ __2__ Extremely sexy or attractive. _Wow babe, you are looking on fire tonight!_ __3__ Having an intense burning sensation. _My throat’s on fire from this infection—I can’t eat or drink a thing!_  
@@ -4819,10 +4824,12 @@ __on life support__ Struggling to remain viable or continue to exist. _Our depar
 __on loan__ Given to someone on a temporary basis.  
 __on location__ _Filmed on location._  
 __on my end__  
-__on occasion__ :three: Once in a while; occasionally. _I don’t really drink, but I do enjoy a nice glass of wine with a meal on occasion._  
+__on occasion__ :five::pencil2: Once in a while; occasionally. _I don’t really drink, but I do enjoy a nice glass of wine with a meal on occasion._  
+__on one’s feet__  
 __on one’s terms__  
 __on opposite sides of the barricade(s)__ Occupying conflicting, opposing, and/or contrary positions on some issue or in some situation. _Unfortunately, it seems more and more to be the case that those who would see the economy recover and those who strive for social equality find themselves on opposite sides of the barricade._  
-__on par (with someone or something)__  
+__on paper__ __2__ Hypothetically or in theory.\_ It’s a good idea on paper, but I don’t think it would work in a real-world environment.\_  
+__on par (with someone or something)__ :two::hammer:  
 __on pins and needles__ :two: Worried or excited about something. _I’ve been waiting on pins and needles for this moment, because I have something extraordinary to share with you!_  
 __on point__ :two: __1__ Focused on or related to the crux or essence of a particular topic. _Nothing that you’re saying is on point! You’re just wasting time with mindless rambling._ __2__ _informal_ Outstanding or perfect. _Ooh, your eyebrows are on point today! Did you use a brow filler?_ __3__ In slang, the expression often describes someone as “on their game” or “looking sharp.”  
 __on probation__  
@@ -4830,41 +4837,48 @@ __on record__
 __on short notice__ :two::hammer:  
 __on solid ground__  
 __on someone’s dime__ _I was living on my mother’s dime._  
-__on steroids__ :five::mega: In a very large, enhanced, or exaggerated form.  
+__on speaking terms__  
+__on steroids__ :six::mega: In a very large, enhanced, or exaggerated form.  
 __on tap__ :two: __1__ Ready to be drawn; in a tapped cask: _beer on tap._ Having to do with beer served from a barrel or keg. _Do you have any imported beers on tap here? I like beer on tap. The canned stuff tastes funny to me._ __2__ Available for immediate use; ready: _extra personnel on tap._ __3__ Scheduled or expected: _What’s on tap for the weekend?_ The Magic Flute _and_ The Barber of Seville _are just a few of the classics on tap this season._  
 __on tenterhooks__ In a state of suspense or anxiety about something; from the idea of cloth being suspended on a tenter (frame for stretching cloth while it is drying).  
 __on that note__ :three::hammer:  
 __on the attack__ _He couldn’t stand being criticized any longer and went on the attack._ :es: entrar al trapo  
-__on the back burner__ :two::hammer:  
+__on the back burner__ :three: Of a low priority; given less or little thought or attention; postponed or suspended.  
 __on the back foot__ In a position of disadvantage, retreat, or defeat.  
 __on the bleeding edge__  
+__on the blink__ __1__ _slang_ Not working correctly; acting strangely; malfunctioning. _Our washer is on the blink, so I’m on my way to the laundromat._ __2__ _slang_ Drunk. _Do you remember last night at the bar at all? You were really on the blink!_  
 __on the block__  
 __on the books__ Recorded for future reference. _We had the coldest winter on record last year._ _This is the fastest race on record._  
 __on the bright side__  
-__on the brink of (something)__ :four::hammer:  
+__on the brink of (something)__ :six::hammer:  
 __on the button__ Exactly right; in exactly the right place; at exactly the right time.  
-__on the cards__ :two: Very likely or certain to happen, occur, or take place. _They’ve played very well, but it doesn’t look like a championship title is on the cards for this team today._ _She wants to get a promotion but it doesn’t seem to be on the cards right now._  
+__on the cards__ :three: _BrE_ (_AmE_ in the cards) Very likely or certain to happen, occur, or take place. _They’ve played very well, but it doesn’t look like a championship title is on the cards for this team today._ _She wants to get a promotion but it doesn’t seem to be on the cards right now._  
 __on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
-__on the contrary__ :dart::three::hammer:  
+__on the contrary__ :dart::four::hammer:  
 __on the cusp__ :two:::hammer:  
 __on the defensive__ :two: Prepared to withstand or counter aggression or attack.  
 __on the down low__ __1__ In a state of secrecy or minimal public knowledge; being known only by a select few people. _Keep this on the down low, but Janet is planning to break up with Kevin next week._ __2__ In a state of secrecy or minimal public knowledge pertaining to the activities of a man who has sex with other men but considers himself to be heterosexual. _I never thought he was gay, but then I started to hear rumors that he’s on the down low._  
+__on the edge of (one’s) seat__  
 __on the face of it__ :two::hammer: _That seems totally bizarre on the face of it._  
 __on the fast track__ :two: On an accelerated path to success or achievement. _Jacob was doing so well in all of his classes that his school put him on the fast track so he could graduate early._  
 __on the fence (about something)__  
 __on the fence__ :two: Unable to make a decision.  
 __on the fiddle__ Engaged in deceitful, fraudulent, or dishonest means of obtaining money. _My career will be over if anyone ever finds out I was on the fiddle during my time as the company treasurer._  
 __on the flip side__ :four: Looking at a different or opposite aspect, possibility, or result (associated with something).  
-__on the fly__  
+__on the fly__ :two::hammer:  
 __on the fritz__ :dart: Not working correctly; acting strangely; malfunctioning. _Our washer is on the fritz, so I’m on my way to the laundromat._  
-__on the go__ :two::hammer:  
+__on the go__ :four::hammer:  
 __on the grapevine__ :three::hammer: _Al must have heard something on the grapevine._  
 __on the gravy train__ In a state, position, or job where one makes an excessive amount of money without expending much or any effort. _I’ll be on the gravy train once I get paid from the settlement of the lawsuit!_  
+__on the grounds of__ The phrase “on the grounds of” is primarily used in legal and formal contexts to mean “based on” or “justified by.”  
+__on the hook__ __1__ Held responsible (for something); obliged or committed (to something). _I would think very carefully signing your name to those documents. If something goes wrong in the company, it could be you on the hook._  
 __on the horizon__  
+__on the hunt__  
 __on the hush-hush__ In a state of secrecy or minimal public knowledge; being known only by a select few people. _I need to tell you some important news, but you have to keep it on the hush-hush, OK?_  
 __on the lam__ :two: Attempting to avoid capture, typically as a fugitive from law enforcement; on the run. _The escaped convicts have been on the lam for a week, with no leads as to their whereabouts._  
-__on the leading edge__ Having or knowledgeable of the most advanced technology in a given area, activity, or endeavor. _The local university’s laboratory is on the leading edge when it comes to cancer research._  
-__on the line__ _Everything was on the line._  
+__on the leading edge__ :two: Having or knowledgeable of the most advanced technology in a given area, activity, or endeavor. _The local university’s laboratory is on the leading edge when it comes to cancer research._  
+__on the level__ Honest, truthful, or sincere. Given the corrupt environments Ellroy often writes about, this phrase could be used to emphasize a character’s rare honesty amidst widespread deception.  
+__on the line__ :three: __1__ In a state of jeopardy or uncertainty.  
 __on the lookout__ :three::hammer:  
 __on the make__  
 __on the mat__ __1__ In a position to face a reprimand from someone. _When my team lost that big client, the boss called me on the mat._ __2__ Under discussion or consideration. _We don’t have time to discuss those issues, but don’t worry, they’ll be on the mat the next time we meet._  
