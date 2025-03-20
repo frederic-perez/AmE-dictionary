@@ -22236,8 +22236,8 @@ __wimpiness__
 __wimpling__ _v_  
 __wimpy__ _adj_ :four::hammer:  
 __win back__ _phr v_ To get back something that you have lost.  
-__wince__ _vi_ :nine::m: To shrink or start involuntarily, as in pain or distress; flinch. _He was wincing in pain._  
-__winch<sup>1</sup>__ _v_ :two::hammer: _He winched his boat onto his trailer._  
+__wince__ _vi_ :dart::nine::m: To shrink or start involuntarily, as in pain or distress; flinch. _He was wincing in pain._  
+__winch<sup>1</sup>__ _vt_ :three: To pull (in a rope) or lift (a weight) using a winch. _He winched his boat onto his trailer._  
 __winch<sup>2</sup>__ _n_ :five::hammer:  
 __wind chimes__ _n pl_ :two::hammer:  
 __wind down__ _phr v_ :three: To diminish gradually in force or power; relax.  
@@ -22267,12 +22267,14 @@ __wing__ _v_ :two::hammer: _I wing my way across the continents._
 __winger__ _n_ (soccer) :two::hammer:  
 __winging__ _v_  
 __wingman__ _n_  
+__wingmate__ _n_  
 __wingspan__ _n_  
 __wingtips__  
 __winking__ _v_  
 __winningest__ _adj informal_ /ˈwɪn ɪŋ ɪst/ __1__ Winning most often: _the winningest coach in college basketball._ __2__ Most winning or charming: _the winningest smile in town._  
 __winnow__ _v_ :six::hammer: (winnowed, winnowing) /WIN-oh/ [:scroll: Beginning as _windwian_ in Old English, winnow first referred to the removal of chaff from grain by a current of air.] _That is why we have the school, to winnow the chaff from the wheat._ _Nominations are winnowed down to 10 finalists._  
 __winsome__ _adj_ :three: /WIN-sum/ Pleasing or cheerful. Sweetly or innocently charming; winning; engaging: _a winsome smile._ _The interviewers all remarked on the candidate’s winsome personality, which made her stand out among the other qualified job applicants._  
+__winter weather advisory__ _n_  
 __winter__ _v_ :three::hammer: (wintering) _Explorers wintered in the neighborhood in 1805._  
 __winterfest__ _n_ Any of various winter festivals.  
 __winterize__ _v_ To prepare or equip (an automobile or house, for example) for winter weather.  
@@ -22333,17 +22335,17 @@ __Witness protection__ _n_
 __witness tampering__ _n_ The act of attempting to improperly influence, alter or prevent the testimony of witnesses within criminal or civil proceedings.  
 __witty__ _adj_ :two::hammer: _A witty cast of characters that serve and entertain._  
 __wizardess__ _n_ A female wizard, sorceress, witch.  
-__wizardry__ _n_  
+__wizardry__ _n_ :two: /ˈwɪz ər dri/ The art, skill, or accomplishments of a wizard. :es: hechicería; brujería  
 __wizen__ _v_  
 __wizened__ _adj_ :five: “You’re looking quite wizened today,” is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness. _Syn_ shrunken, withered, shriveled _The wizened face of the man of law was twisted into a wrinkled smile._  
 __woad__ _n_ :two: __1__ A European herb (_Isatis tinctoria_) of the mustard family formerly grown for the blue dyestuff yielded by its leaves. __2__ The blue dye obtained from the dried, fermented leaves of such plants. :es: pastel  
 __wobble__ _v_ :three::hammer: __3__ To waver or vacillate in one’s opinions or feelings.  
 __wobbly__ _adj_ :three::hammer: _Wobbly dome of yolk._  
-__woe__ _n_ :five: Misfortune; calamity: _economic and political woes._ _Born to woe._ :es: Nacido para el infortunio.  
+__woe__ _n_ :six: Misfortune; calamity: _economic and political woes._ _Born to woe._ :es: Nacido para el infortunio.  
 __woeful__ _adj_ :four::hammer: _Our woeful train system._  
 __woefully__ _adv_ :seven::hammer: _Her hand landed woefully on her forehead._ _Most of them are woefully unproductive, and tyrannize our offices._  
 __wogs__ _n_  
-__woke__ _adj_ :four: _slang_ Aware of the injustice of the social system in which one lives.  
+__woke__ _adj_ :dart::seven: _slang_ Aware of the injustice of the social system in which one lives.  
 __wolf__ _v_ To eat greedily or voraciously.  
 __wolfe range__  
 __woman__ _n_ /ˈwʊmən/ :mega:  
@@ -22429,6 +22431,7 @@ __workstation__ _n_ :two::hammer:
 __worktop__ _n_ :three: A surface in a kitchen, often of heat-resistant laminated plastic, that is used for food preparation. :es: encimera _The marble effect Formica worktops were burned and scarred._  
 __World Heritage sites__ _n_ :three: Designated natural and cultural sites internationally recognized as of outstanding importance.  
 __world powers__ _n_ :astonished:  
+__world-class__ _adj_ :two: Being among the best or foremost in the world; of an international standard of excellence: _a world-class figure skater._  
 __worldliness__ _n_ _The worldliness of friars._  
 __wormed__ _v_  
 __wormhole__ _n_ :three: /WERM-hohl/ A hypothetical structure of space-time that is envisioned as a long thin tunnel connecting points that are separated in (well) space and time. _Some science fiction writers speculate that wormholes are the intergalactic highways of the future._  
@@ -22476,7 +22479,7 @@ __wrethes__
 __wriggle__ _v_ :two::hammer:  
 __wriggling__ _adj_ :two: Moving in a twisting or snake-like or wormlike fashion. _A snake pit of wriggling fragments._  
 __wring out__ _v_ _She finished wringing out the jeans and shut off the water._  
-__wring__ _vt_ :eight::hammer: (wringing) _The Feds just keeps wringing its hands._ _It pays to wring your hands at least a little bit._  
+__wring__ _vt_ :nine: To clasp and twist or squeeze (one’s hands), as in distress. _Syn_ wrench _The Feds just keeps wringing its hands._ _It pays to wring your hands at least a little bit._  
 __wringer__ _n_ :four: __1__ A person or thing that wrings. __2__ An apparatus for squeezing out liquid, as two rollers through which an article of wet clothing may be squeezed. _Run through the wringer._  
 __wrinkle__ _v_ :five::mute:[~~w~~rinkle]:hammer: (wrinkled, wrinkling) _His brow wrinkled in thought._  
 __wrist__ _n_ :mute:[~~w~~rist]  
@@ -22502,8 +22505,8 @@ __wrought iron__ _n_ :two::hammer:
 __wrought<sup>1</sup>__ _v_ :four: A past tense and a past participle of work. _Syn_ worked  
 __wrought<sup>2</sup>__ _adj_ :three: __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
 __wrung__ _v_ _They have wrung their hands._  
-__wry__ _adj_ :six: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He has a wry ear and a knack for poignance._ _Wry moments._ :es: humor seco y burlesco:  
-__wryly__ _adv_ :four::pencil2::hammer: :es: irónicamente, con ironía _A few people laughed wryly._  
+__wry__ _adj_ :seven: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He has a wry ear and a knack for poignance._ _Wry moments._ :es: humor seco y burlesco:  
+__wryly__ _adv_ :dart::seven::pencil2: In a wry manner. :es: irónicamente, con ironía _A few people laughed wryly._  
 __Wu’s castle__ _n_ A two-dimensional role playing game that teaches loops and arrays in an interactive, visual way.  
 __wunderkind__ _n_ :two: A German word meaning wonder child, used to mean someone who accomplishes great things while still young.  
 __wussification__  
@@ -22518,14 +22521,19 @@ __xenophile__ _n_ A person attracted to that which is foreign, especially to for
 __xenotransplantation__ _n_ The surgical transfer of cells, tissues, or especially whole organs from an organism of one species to an organism of a different species. _Syn_ xenotransplant  
 __xeriscape__ _n_  
 __xeriscaping__ _n_  
+__Xmas__ _n_  
 __xylophilous__ _adj_ /zy-LOF-uh-luhs/ [:scroll: From Greek xylo- (wood) + -philous (liking).] Growing on or living in wood.  
 __xyst__ _n_ /zɪst/  
 __yacht__ _n_ /yɒt/  
+__yacht<sup>1</sup>__ _n_  
+__yacht<sup>2</sup>__ _vi_ To sail, cruise, or race in a yacht.  
 __yahoo<sup>1</sup>__ _n_ A person who is boorish, loud, disruptive, etc. Etiology: After Yahoos, a race of brutish creatures in Jonathan Swift’s _Gulliver’s Travels._  
+__Yahtzee__ _n_  
 __yakety-yak__ _n_ Noisy talk.  
 __yakisoba__ _n_ :two::hammer:  
 __yakuza__ _n_ :two::hammer:  
 __yam__ _n_ :three: In North America, a yam is the same thing as a sweet potato, although in most parts of the world these words refer to two completely different vegetables. Yams have flesh that ranges in color from white to deep orange and tastes slightly sweet. The word yam started as igname, from the Portuguese inhame, from a West African source. :es: boniato  
+__yammer__ _v_ :dart: To complain peevishly or whimperingly. _Syn_ grizzle, yawp, whine  
 __yammering__  
 __yank__ _v_ :two::hammer: _Investors have yanked $39.1 billion from traditional domestic stock mutual funds this year._  
 __Yankee__ _n_ /YANG-kee/ Yankee can refer broadly to anyone born or living in the U.S., or it can refer more narrowly only to those in the northern U.S., or even more narrowly, only to those in the states of New England. The broadest use is especially common outside the U.S. _It took the children some time to adjust to being the only Southerners in a classroom full of Yankees._  
@@ -22537,6 +22545,7 @@ __yardstick__ _n_ :four: __1__ A ruler or tape that is three feet long. __2__ A 
 __yarmulke__ _n_ (yarmelke) A skullcap worn by Jewish men and boys, especially those adhering to Orthodox or Conservative Judaism. Also called kippah.  
 __yarn du jour__  
 __yarn__ _n_ :nine::m: __1__ A continuous twisted strand of natural or synthetic fibres, used in weaving, knitting, etc. _Nylon yarn._ __2__ _informal_ A long and often involved story or account, usually telling of incredible or fantastic events. _Political yarns._  
+__yarrow__ _n_ :es: milenrama  
 __yatch__ _n_ :mega:  
 __yaw__ _v_ :three: (yawing) __1__ _Nautical_ To swerve off course momentarily or temporarily: _The ship yawed as the heavy wave struck abeam._  
 __yawn__ _n_ :two::hammer: _The sound of yawns and crickets._  
@@ -22545,6 +22554,7 @@ __yawning<sup>1</sup>__ _n_ :three: Yawning is what happens when you reflexively
 __yawning<sup>2</sup>__ _adj_ :six: With the mouth wide open indicating boredom or sleepiness. _He felt a yawning loneliness._ _Yawning pit._  
 __yawp__ _n_ /jɔːp/ _A pure yawp of joy._  
 __yay__ _adv_ So; by this amount: _“The fish was yay big” he said, spreading his arms three feet apart._  
+__ye__ _pron_ Obsolete form of _you._  
 __yea__ _n_ __1__ An affirmative statement or vote. __2__ One who votes affirmatively.  
 __year > year-old, year old, years old__ _n_ :three: (-year-old) In the sentence “He’s a fifty-year-old man,” _fifty-year-old_ is a compound adjective. In the sentence “He’s fifty years old,” the term _fifty years_ is a quantifying phrase used as an adverb to modify the adjective _old_—it is a compound adverb. _A 56-year-old retiree._ _A two-year-old toddler._ _Malone started playing guitar at 5 years old. (He got his first drum set at age 10.)_  
 __year in, year out__  
@@ -22557,8 +22567,8 @@ __yell out__ _phr v_ To shout loudly.
 __yellow jacket__ _n_ __1__ _slang_ A barbiturate (trade name Nembutal) used as a sedative and hypnotic and anti-spasmodic. __2__ Any of several social wasps of the genus Vespa, having yellow markings on the body.  
 __yellow wine__  
 __yellow__ _adj_ _slang_ A coward.  
-__yelp<sup>1</sup>__ _v_ :eight::hammer: (yelps, yelped) :es: gañir  
-__yelp<sup>2</sup>__ _n_  
+__yelp<sup>1</sup>__ _n_ :five::hammer:  
+__yelp<sup>2</sup>__ _v_ :nine::hammer: :es: gañir  
 __yen__ _n_ A strong desire, urge, or craving for something. _After dinner, the family went out for ice cream to satisfy their yen for something sweet._ _Students with a yen to travel should consider studying abroad._  
 __yeoman__ _n_ :six::hammer: (yeomen)  
 __yestereve<sup>1</sup>__ _n_ /YES-tuh-reev/ [:scroll: From yester- (a time one period before the present one), from Old English giestran (previous day) + eve/even (evening).] Yesterday evening.  
@@ -22573,20 +22583,21 @@ __yew__ _n_ :five::hammer: (yews) _Yew hedges._ _A restful yew square._
 __Yggdrasil__ _n_  
 __Yiddish__ _n_ :two::hammer:  
 __yield<sup>1</sup>__ _v_ :five::hammer: (yielded) _Failing to yield to pedestrians._  
-__yield<sup>2</sup>__ _n_ :three::hammer: _The yield of crops._ _Helping farmers to increase yields._  
+__yield<sup>2</sup>__ _n_ :four::hammer: _The yield of crops._ _Helping farmers to increase yields._  
 __yin and yang__ _n_ :two::hammer:  
 __yipped__ _v_  
 __yipping__ _v_  
 __yips__ _n_ :three: /YIPS/ (the yips) Yips is a plural noun that refers to a state of nervousness that affects an athlete (such as a golfer) when they’re about to make an important move or play. It is almost always used in the phrase “the yips.” _To avoid the yips he changed his style of putting._ Nervous tension that causes an athlete to fail (especially causes golfers to miss short putts). _To avoid the yips he changed his style of putting._  
 __ylem__ _n_ noun: (cosmology) The original matter that (according to the big bang theory) existed before the formation of the chemical elements.  
-__yo-yo<sup>1</sup>__ _n_ :five::pencil2: _slang_ A stupid or crazy person.  
+__yo-yo<sup>1</sup>__ _n_ :six::pencil2: _slang_ A stupid or crazy person.  
 __yo-yo<sup>2</sup>__ _v_ :two::hammer: (yo-yoing)  
 __yo-yo<sup>3</sup>__ _adj_  
+__yoga__ _n_ [:scroll: From Hindi yoga, from Sanskrit yoga-s, literally “union, yoking” (with the Supreme Spirit)] _Hatha/Mantra/Karma/Bhakti/Raja/Jnana/Kundalini yoga._  
 __yogi__ _n_ (_n pl_ yogis, yogin) /ˈjəʊgɪ/  
 __yogurt__ _n_ :two::hammer: (yoghourt)  
 __yoke<sup>1</sup>__ _n_ :four::hammer: (yokes) _Egg yoke._ _The yoke of taxes._  
 __yoke<sup>2</sup>__ _v_  
-__yokel__ _n_ :three: (yokels) Someone who is not very intelligent or who does not know a lot about the world, usually because they come from a small town or village.  
+__yokel__ _n_ :four: Someone who is not very intelligent or who does not know a lot about the world, usually because they come from a small town or village.  
 __yolk__ _n_ :mute:[yo~~l~~k]  
 __Yom Kippur__ _n_ (Judaism) A holy day observed on the tenth day of Tishri and marked by fasting and prayer for the atonement of sins. Also called _Day of Atonement._  
 __yonder__  
@@ -22598,13 +22609,13 @@ __yowl<sup>2</sup>__ _v_ :two::hammer:
 __yowza__  
 __yuan__ _n_  
 __yucca__ _n_  
-__yule log__ _n_  
+__yule log__ _n_ :two::hammer:  
 __Yule__ _n_ :two::hammer: (yule)  
 __Yuletide__ _n_ :two: (archaic) Christmas.  
 __yummy__ _adj_ :two::hammer: _Yummy food._  
 __yurt__ _n_ :four: (yurts) A circular, domed, portable tent used by nomadic peoples of central Asia. _Custom yurt excursions._  
 __yuzu__ _n_ (A Japanese citrus fruit.)  
-__zaftig__ _adj_ _slang_ (zoftig) (of a woman) Having a pleasantly plump figure. _Portraits of zaftig models are exhibited in the artist’s collection._  
+__zaftig__ _adj_ :two: _slang_ /ZAHF-tig/ (zoftig) (of a woman) Having a pleasantly plump figure. Someone described as zaftig has a full, rounded figure, or in other words is pleasingly plump. _Portraits of zaftig models are exhibited in the artist’s collection._  
 __zaniness__ _n_ :two::hammer:  
 __zany__ _adj_ :nine::m: /ZAY-nee/ Amusingly unconventional and idiosyncratic. _His zany humour._ _Syn_ eccentric, bizarre, weird, peculiar, odd, quirky _A zany zebra._ _Zany fruitcakes._ :es: estrafalario, surrealista  
 __zarf__ _n_  
@@ -22613,7 +22624,7 @@ __zealot__ _n_ An immoderate, fanatical, or extremely zealous adherent to a caus
 __zealotry__  
 __zealous__  
 __zeightgeist__  
-__zeitgeist__ _n_ :seven: /TSYTE-gyste/ Zeitgeist refers to the general intellectual, moral, and cultural climate of an era. A German word meaning time spirit, used to mean the spirit of the age. _Although set in the 1980s, the movie reflects the feelings and zeitgeist of today._ _When Jack Nicholson shouted “Here’s Johnny” as he burst through a bathroom door with a fireman’s axe, he was tapping into the American zeitgeist of the time._  
+__zeitgeist__ _n_ :eight: /TSYTE-gyste/ Zeitgeist refers to the general intellectual, moral, cultural climate, beliefs, ideas, and spirit of a time and place. A German word meaning time spirit, used to mean the spirit of the age. _Although set in the 1980s, the movie reflects the feelings and zeitgeist of today._ _When Jack Nicholson shouted “Here’s Johnny” as he burst through a bathroom door with a fireman’s axe, he was tapping into the American zeitgeist of the time._  
 __Zen<sup>1</sup>__ _n_ :two: (zen) (After Zen, a school of Mahayana Buddhism. From Japanese zen (meditation), from Chinese chan (meditation), from Pali jhanam (jhanam), from Sanskrit dhyana (meditation).) An activity, approach, state of mind, etc., emphasizing intuition and insights, instead of fixation on goals. _You found your Zen in LA._  
 __Zen<sup>2</sup>__ _adj_ (zen) Calm, peaceful, unruffled.  
 __zenith__ _n_ :three::mega: /ˈzɛnɪθ; _US_ ˈziːnɪθ/ /ZEE-nith/ Zenith refers to the strongest or most successful period of time for a person or thing.  
@@ -22624,9 +22635,10 @@ __zero in on__ _phr v_ :three: To direct or focus attention on something. _Senso
 __zero in__ _v_ :two::hammer:  
 __zero point__ _n_  
 __zero-sum__ _adj_ :three::hammer: _A zero-sum game._ _A zero-sum relationship._  
-__zest__ _n_ :five::hammer: _The zest of one orange._ _Stir in orange zest and orange juice._  
+__zest__ _n_ :six: /ZEST/ _Zest_ refers to an enjoyably exciting quality, or to keen enjoyment itself. In culinary use, _zest_ refers to small pieces of the peel of a lemon, lime, orange, or other citrus fruit used as flavoring. _The zest of one orange._ _Stir in orange zest and orange juice._  
 __zesty__ _adj_ :six::hammer: _Fruits with zesty peel._ _Zesty appetizers._  
 __zetetic__  
+__zettabyte__ _n_ (ZB)  
 __zhuzh__ _v_ :two: /ZHUZH (the U is as in PUSH)/ To _zhuzh_ something up is to improve its flavor or appearance by way of a small improvement, adjustment, or addition. _He likes to zhuzh up his outfits with brightly-colored ties._  
 __zig__ _v_ _They tend to zig when markets zag._  
 __zilch__  

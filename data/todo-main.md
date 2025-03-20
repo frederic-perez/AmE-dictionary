@@ -864,35 +864,5 @@ __whey__ _n_ :dart::mega: /ʰweɪ, weɪ/ The watery part of milk that separates 
 __whimper__ _v_  
 __whirl__ _v_  
 __wide-eyed__ _adj_ :dart: __2__ Innocent; credulous. _Luke was a wide-eyed kid._  
-__wince__ _v_ :three::hammer:  
-__winch__ _vt_ To pull (in a rope) or lift (a weight) using a winch.  
-__wingmate__ _n_  
-__winter weather advisory__ _n_  
-__wizardry__ _n_ /ˈwɪz ər dri/ The art, skill, or accomplishments of a wizard. :es: hechicería; brujería  
-__woe__ _n_  
-__woke__ _adj_  
-__world-class__ _adj_ Being among the best or foremost in the world; of an international standard of excellence: _a world-class figure skater._  
-__wring__ _v_ To clasp and twist or squeeze (one’s hands), as in distress. _Syn_ wrench  
-__wry__  
-__wryly__ _adv_ :dart::three: In a wry manner. :es: irónicamente  
-__Xmas__ _n_  
-__yacht<sup>1</sup>__ _n_  
-__yacht<sup>2</sup>__ _vi_ To sail, cruise, or race in a yacht.  
-__Yahtzee__ _n_  
-__yammer__ _v_ :dart: To complain peevishly or whimperingly. _Syn_ grizzle, yawp, whine  
-__yarrow__ _n_ :es: milenrama  
-__ye__ _pron_ Obsolete form of _you._  
-__yelp__ _n_ :two::hammer:  
-__yelp<sup>1</sup>__ _n_ :two::hammer:  
-__yelp<sup>2</sup>__ _v_  
-__yield__ _n_  
-__yo-yo__ _n_  
-__yoga__ _n_ [:scroll: From Hindi yoga, from Sanskrit yoga-s, literally “union, yoking” (with the Supreme Spirit)] _Hatha/Mantra/Karma/Bhakti/Raja/Jnana/Kundalini yoga._  
-__yokel__ _n_  
-__yule log__ _n_  
-__zaftig__ _adj_ /ZAHF-tig/ Someone described as zaftig has a full, rounded figure, or in other words is pleasingly plump.  
-__zeitgeist__ _n_ /TSYTE-gyste/ Zeitgeist refers to the general beliefs, ideas, and spirit of a time and place. _The artist’s songs perfectly captured the zeitgeist of 1990s America._  
-__zest__ _n_ /ZEST/ _Zest_ refers to an enjoyably exciting quality, or to keen enjoyment itself. In culinary use, _zest_ refers to small pieces of the peel of a lemon, lime, orange, or other citrus fruit used as flavoring.  
-__zettabyte__ _n_ (ZB)  
 __zing__ _n_  
 __zloty__ _n_ The basic monetary unit of Poland.  
