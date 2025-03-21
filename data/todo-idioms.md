@@ -54,6 +54,7 @@ __a matter of time__ An inevitability or eventuality; something that is or seems
 __a mile away__  
 __a new coat of paint__ The phrase “a new coat of paint” is an idiom that means giving something a fresh appearance or updating it, often to make it look more appealing or modern. It can refer to physically painting an object or structure, but it’s also used metaphorically to describe revitalizing or improving something, like a project, idea, or even a person’s style. It’s about making something look new again without necessarily changing its core essence.  
 __a no-go__  
+__a slew of (something)__ A very large number or amount of something; a lot of something.  
 __a stiff upper lip__ The ability to remain stoic during difficult situations.  
 __a whole new ball game__ (a different ball game)  
 __a woman of her word__ A woman who can be expected to keep or follow through with her promises or intentions; a truthful, trustworthy, or reliable person. (Masculine: “man of his word.”) _Bob, I’m a woman of my word. If I tell you I’ll be at your house tomorrow morning at 10, then that’s when I’ll be there._  
@@ -184,7 +185,7 @@ __fan the flames__
 __fancy that__ Used to comment on something that is hard to imagine. _The baby she brought home was the wrong one. Fancy that!_  
 __fancy__ _informal_ __2__ To have a desire for (something).  
 __fantabulous__  
-__fast and furious__ :two::hammer:  
+__fast and furious__ :three::hammer:  
 __fast-forward__  
 __fat chance__ Said of something that is unlikely to happen. :es: vaga posibilidad  
 __fawn (all) over (one)__ To flatter and fuss over one to an excessive degree, especially in a sycophantic or obsequious manner.  
@@ -206,6 +207,7 @@ __fore and aft__
 __fork in the road__  
 __foul play__ _No sign of foul play._  
 __French leave__ (See also _Irish goodbye_.)  
+__from bad to worse__  
 __full stop__  
 __fumble for (something)__  
 __fumble the ball__ “Fumble the ball” and “drop the ball” are similar in meaning and can often be used interchangeably. Both idioms refer to making a mistake or failing to perform a task properly, especially when it’s important or when someone misses an opportunity. However, “fumble the ball” may sometimes carry a slightly more connotative idea of clumsiness or mishandling, while “drop the ball” is more commonly used to emphasize failing to follow through or neglecting responsibility. Despite these subtle differences, they are generally understood in the same way.  
@@ -224,6 +226,7 @@ __give (one) a run for (one’s) money__ To challenge one’s ability, fortitude
 __give (one) a run for its money__  
 __give someone or something away__ To reveal a secret about someone or something. _I thought no one knew where I was, but my loud breathing gave me away._ _We know that Billy ate the cherry pie. The cherry juice on his shirt gave him away._  
 __grit__  
+__if nothing else__ :two::hammer:  
 __in all honesty__ In one’s sincere opinion; without any disingenuousness. _In all honesty, I think this project plan is severely flawed._  
 __in brief__ In summary; to say it briefly. _The film was, in brief, dull._ _If you can, please explain it in brief._ _Medical news in brief: ..._  
 __in custody__ (of someone or something)  
@@ -314,6 +317,7 @@ __lash out__ :dart::two: __1__ To physically swing or strike out at someone or s
 __last (one) heard__ ((the) last (one) heard) According to the most recent knowledge one has about someone or something. _Last we heard, she had moved up to Calgary to be closer to her family._  
 __last burst of fire__ A final effort or attempt, especially as before failure or defeat. _The home team has unleashed one last burst of fire in the final seconds of the game to try and force an overtime showdown._  
 __last chance (for/at/to do something)__ The last or final opportunity to get, have, do, or achieve something. _Hurry and book your flights today—this is your last chance for the cheapest tickets in town!_  
+__last I heard__ ((the) last (one) heard) According to the most recent knowledge one has about someone or something.  
 __last out__  
 __last-ditch attempt__ A final effort or attempt to solve a problem or avoid failure or defeat, especially after a series of failures or setbacks.  
 __last-ditch__  
@@ -354,7 +358,7 @@ __line in the sand__ A figurative boundary that someone or some group refuses to
 __lip to lip__ :two: The idiom “lip to lip” typically refers to a kiss that involves direct contact between the lips of two people. This expression is often associated with romantic or intimate contexts, emphasizing the closeness and emotional connection between the individuals involved.  
 __liquid courage__ _slang_ The decrease in timidity or inhibition that comes from imbibing alcoholic beverages.  
 __live on a shoestring__ To live within a very tight or limited financial budget.  
-__live up to__ (something)  
+__live up to (something)__ :two::hammer:  
 __living impaired__ Dead. (Pseudo-politically correct slang used for humorous effect.) _The boss has ordered a hit on the stool pigeon, so make sure he’s living impaired by the end of the day._  
 __loaded word__ A word that carries additional emotional weight or significance—whether positive or negative—beyond its literal meaning. _If you want to get into politics, you should always avoid using loaded words that might offend someone unintentionally._  
 __loaf about__ To waste time idly; to spend time doing little or nothing. _Chris, quit loafing about and help me take out the trash!_  
@@ -539,7 +543,7 @@ __of late__ :three::hammer:
 __of note__  
 __off again, on again__  
 __off the hook__ :three::hammer:  
-__off to the races__  
+__off to the races__ :two::hammer:  
 __off-kilter__ :three::hammer:  
 __OG__ (original gangster) In contemporary usage, calling someone an OG can be a compliment that acknowledges their status as a pioneer or leader in a specific area, whether it be music, sports, or any other field. It reflects admiration for their contributions and the respect they command from others.  
 __oh boy__ :two::hammer:  
@@ -613,12 +617,14 @@ __pray to the porcelain god__
 __pressing matters__ Issues or concerns that require immediate attention or action. These are typically urgent situations that cannot be delayed and often involve important decisions or responses.  
 __pull rank (on one)__  
 __push (one’s) buttons__  
+__put (one’s) money where (one’s) mouth is__ To do, live up to, or follow through on something one talks about, threatens, or promises, especially (but not always) when it involves spending money.  
 __put the brakes on (someone or something)__  
 __put the jinx on (something or someone)__ To invoke a curse upon someone or something that brings bad luck or failure.  
 __put the screws on something__  
 __put to good use__ (put (something) to good use) To use something in a way that will be beneficial or have significant results. Employ to the best advantage, as in _I’m sure this dictionary will be put to good use._  
 __put to the test__ (put (someone or something) to the test)  
 __rise to (something)__ :dart: To increase one’s effort in response to a challenging situation. _If you’re going to lead this team, you’ve got to rise to the challenge and start motivating them._  
+__roll out of bed__ The phrase “roll out of bed” typically means to get out of bed in a casual or lazy manner, often implying that the person is not fully awake or is in a hurry. It can also suggest a relaxed or informal approach to starting the day.  
 __ruckus__ A large, uproarious commotion. _There was a ruckus out in the streets, so I went out to investigate._  
 __scramble for (something)__  
 __set up shop__  
@@ -679,6 +685,7 @@ __sock__ :two: _informal_ __2__ _v_ To deliver a sharp, forceful blow.
 __soft power__ The ability of a nation or other political entity to reach a desired outcome by non-violent methods (such as diplomacy, negotiation, foreign aid, etc.) and without the use or threat of force (i.e. military action). (The opposite of hard power.)  
 __soft shoulder__ :astonished: An unpaved lane or area on the side of a road, often a highway, where drivers can stop their vehicles in emergency situations. _I think you’ve got a flat tire. You’d better pull over on to the soft shoulder._  
 __soft spot__  
+__solid as a rock__ ((as) solid as a rock) Exceptionally stable, sturdy, and reliable. _They’ve been married for 50 years, so their relationship has to be solid as a rock._  
 __some people__ :dart: (some people!) Expresses disapproval at the actions of a person; a disapproving response to a person doing something. An expression of disgust over the way certain people act, behave, or function in society.  
 __something of sorts__ An inferior example of a kind of something.  
 __son of a gun__  
@@ -792,6 +799,7 @@ __take sides__ :two: To choose a person or party whom one supports, defends, or 
 __take something with a grain of salt__ (_BrE_ take something with a pinch of salt)  
 __take stock (of something)__  
 __take the fall (for someone or something)__  
+__take the stage__  
 __take umbrage__ :two::hammer:  
 __take you up on something__ See _take (one) up on (something)._  
 __takedown__ :dart: _slang_ A taking down: the arrest of a suspect by a police officer. _She shot and killed two drug dealers in a takedown that went bad._  
@@ -816,6 +824,7 @@ __the likes of (someone or something)__ :two: Anything comparable to someone or 
 __the likes of__  
 __the lowdown__ Important information or facts about something. _He gave me the lowdown about the company’s vice president._ _Reporters are trying to get the lowdown on what caused the accident._  
 __the march of time__ The steady, unstoppable advancement of time.  
+__the meat of the matter__ The most important, basic, or fundamental essence or element(s) of an issue, problem, or matter at hand. _Thank you all for attending this staff meeting. Before we get to the meat of the matter, I’d like to assure each of you that your job is secure._  
 __the story goes (that)__  
 __this hour__ The phrase “this hour” typically refers to the current hour in which we are presently. It can be used to describe the time frame of the hour that is currently happening or the events occurring within it.  
 __this time around__ A phrase often used to refer to the current occasion or situation in comparison to previous ones. It implies that there have been similar instances in the past, and it suggests a sense of awareness or reflection on how things might be different now.  
@@ -834,10 +843,12 @@ __till the cows come home__ See _until the cows come home._
 __time and time again__  
 __toe-to-toe__  
 __train on (someone or something)__ _The blaster was trained on the door._  
+__try and help__ The phrase “try and help” means to make an effort to assist someone or to offer support in a particular situation. It implies a willingness to provide aid, even if the outcome is uncertain. The phrase can suggest that the person is not only willing to help but is also actively attempting to do so, regardless of whether they are guaranteed to succeed. It is often used in informal contexts.  
 __turn the page__  
 __turn the tables__ To change or reverse something dramatically.  
 __under the table__ :smiling-imp:  
 __up one’s game__ The idiom “up one’s game” means to improve one’s performance, skills, or efforts in a particular area, often in response to competition or the need to meet higher standards.  
+__up the ante__ (raise the ante)  
 __walk of shame__  
 __walk on eggs__  
 __walk on eggshells__  

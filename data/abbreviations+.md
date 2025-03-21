@@ -257,7 +257,7 @@ __TFG__ Abbreviation of “The Former Guy.” The use of “The Former Guy” as
 __TFW__ That feeling when.  
 __TLA__ Three letter acronym. _Digital clinical safety (DCS—yes, another TLA) refers to the systems set up to prevent patients and staff from being harmed as a result of digital technologies used in healthcare._  
 __TM__ :three: Trascendental meditation.  
-__TMI__ Too much information.  
+__TMI__ :two: Too much information.  
 __tn__ Trillion. _US $2.4tn._  
 __TOEFL__ (ToEFL) Test of English as a Foreign Language, is a standardized test to measure the English language ability of non-native speakers wishing to enroll in English-speaking universities.  
 __UNESCO__ United Nations Educational, Scientific and Cultural Organization.  

@@ -23,7 +23,8 @@ __adversary__ _n_ :mega: /ˈæd vərˌsɛr i/ /ˈædvəsərɪ/ /AD-ver-sair-ee/ 
 __affidavit__ _n_  
 __affordable__ _adj_ :pencil2:  
 __afoot__ _adj, adv_  
-__aft__  
+__aft__ _adj, adv_ :three::hammer:  
+__ante__ _n_ /ˈæn ti/  
 __appease__ _v_  
 __apprehend__ _v_ :two::hammer:  
 __askew<sup>1</sup>__ _adj_ /uh-SKYOO/ Askew means “not straight” or “at an angle,” and can be used as both an adjective and an adverb. _The picture on the cabin wall was slightly askew._  
@@ -55,16 +56,19 @@ __cannular__ _adj_ Constituting a tube; having hollow tubes (as for the passage 
 __chicory__ _n_ :astonished: /ˈtʃɪk ə ri/ __1__ _(Plants)_ Also called: _succory_. A blue-flowered plant cultivated for its leaves, which are used in salads, and for its roots. :es: escarola __2__ _(Cookery)_ The root of this plant, roasted, dried, and used as a coffee substitute. :es: achicoria  
 __coalesce__ _v_  
 __cobweb__ _n_  
+__cockpit alcove__ _n_ The term “cockpit alcove” typically refers to a small, recessed area or compartment within a cockpit, which is the area of an aircraft or a vehicle where the pilot and co-pilot operate the controls. An alcove in this context might be designed to house specific instruments, controls, or seating arrangements that are integral to the operation of the vehicle.  
 __code__ _n_ [Note: _Code_ is usually uncountable in programming contexts, but it can be countable when referring to different kinds of code (like various coding systems, encryption codes, or different pieces of code), like _The software uses multiple codes to encrypt data._]  
 __collected__ _adj_  
 __colorful__ _adj_ :astonished:  
 __commutation__ _n_ :astonished: The reduction in severity of a punishment imposed by law. _Syn_ re-sentencing  
 __conducive__ _adj_  
 __conformal__ _adj_ [:scroll: from Late Latin _conformālis_ having the same shape, from Latin _com-_ same + _forma_ shape]  
+__connive__ _vi_  
 __conscript__ _n_ One compulsorily enrolled for service, especially in the armed forces; a draftee.  
 __consumer sentiment__ _n_ Another word for _consumer confidence_.  
 __contractor__ _n_  
 __cordon__ _n_ __1__ A line of people, military posts, or ships stationed around an area to enclose or guard it: _a police cordon._ _The landing field cordon won’t stop a Jedi._  
+__coriander__ _n_  
 __corn__ _n_ :mega:  
 __counterfeit<sup>1</sup>__ _vt_  
 __counterfeit<sup>2</sup>__ _vi_  
@@ -117,6 +121,7 @@ __encroach__ _v_ /in-KROHCH/ To encroach is to gradually move or go into an area
 __encroachment__ _n_ :es: intromisión  
 __entrenched__ _adj_ Established firmly and securely. _The entrenched power of the nobility._  
 __entresol__ _n_ The floor just above the ground floor of a building. _Syn_ mezzanine  
+__eponymous__ _adj_  
 __evergreen__ _adj_ /EV-er-green/ _Evergreen_ in its figurative uses describes something, such as a plot, that retains its freshness or interest over a long period of time, or something, such as an issue or concern, that is universally and continually relevant. In botany, _evergreen_ describes foliage that remains green and functional through more than one growing season.  
 __exacerbate__ _vt_  
 __excursion__ _n_ /ik-SKER-zhun/ _Excursion_ refers to a trip, and especially to a short one made for pleasure. _Excursion_ is also often used figuratively to refer to a deviation from a direct, definite, or proper course, and often in particular to a digression.  
@@ -165,6 +170,7 @@ __flash flood__ _n_ (flashflood) A sudden flood of great volume, usually caused 
 __flashy__ _adj_  
 __flat__ _adv_ :dart::two: __3a__ Directly; completely: _went flat against the rules; flat broke._ __b__ Exactly; precisely: _arrived in six minutes flat._  
 __flat-footed__ _adj_  
+__flatfooted__ _adj_  
 __flaunt__ _v_  
 __fleck__ _n_  
 __fleet__ _n_ :two: The largest organized unit of naval ships grouped for tactical or other purposes.  
@@ -178,11 +184,15 @@ __foolproof__ _adj_
 __forego__ _v_  
 __fragile__ _adj_ :mega:  
 __fraught__  
+__freighter__ _n_  
+__fruitless__ _adj_ :two::hammer:  
 __funnel__ _v_ :dart: __6__ :dart: To concentrate or focus or be concentrated or focused in a particular direction: _they funnelled their attention on the problem._  
+__glint__ _n_ __1__ A momentary flash of light; a sparkle: _a glint of sunlight through the clouds._ __2__ A faint or fleeting indication; a trace: _a glint of suspicion on his face._  
 __gregarious__ _adj_ /grih-GAIR-ee-us/ _Gregarious_ is used to describe someone who enjoys the company of other people.  
 __grift__ _n, v_ :smiling_imp:  
 __groundless__ _adj_ _His fears proved groundless._  
 __guesswork__ _n_  
+__gurgle__ _v_  
 __handmaid__  
 __hiss__ _vt_ To say something in a quiet angry way. _“Shut up, Tom!” She hissed._  
 __hmm__ _vi_ To make a thoughtful humming noise.  
@@ -268,6 +278,7 @@ __Jovian__ _adj_
 __jubilate__ _v_ To express great joy. _Syn_ exuberate, exult, rejoice, triumph  
 __jubilee__ _n_ :mega: /JOO-buh-lee/  
 __judment__ _n_ :pencil2:  
+__juggernaut__ _n_ /JUG-er-nawt/ A juggernaut is something (such as a force, campaign, or movement) that is extremely large and powerful and cannot be stopped.  
 __jumpsuit__ _n_ :astonished::camera: One-piece garment fashioned after a parachutist’s uniform.  
 __jumpy__ _adj_ __1__ Nervous or apprehensive. __2__ Moving jerkily or fitfully.  
 __just-in-time__ _adj_  
@@ -299,6 +310,7 @@ __ledger__ _n_
 __legion<sup>1</sup>__ _n_  
 __legion<sup>2</sup>__ _adj_ :dart: Constituting a large number; multitudinous: _Her admirers were legion._ _His mistakes were legion._  
 __leitmotif__ _n_ :mega: /ˈlaɪt moʊˌtif/ /LYTE-moh-teef/ A leitmotif is a dominant recurring theme—something (such as a melody, an idea, or a phrase) repeated many times throughout a book, story, opera, etc. _The overcoming of obstacles and a love of theater are the two leitmotifs of her autobiography._  
+__leprechaun__ _n_ :smiling_imp::mega: /ˈlɛp rəˌkɔn, -ˌkɒn/ _Irish folklore_ One of a race of elves that can reveal hidden treasure to those who catch them. :es: duende  
 __lexical__ _adj_ /LEK-sih-kul/ To describe something as _lexical_ is to say that it is related to words or vocabulary.  
 __library__ _n_ :mega: /lahy-brer-ee/  
 __lickspittle__ _n_ A contemptible, fawning person; a servile flatterer or toady.  
@@ -412,6 +424,7 @@ __mince__ _v_
 __Mini-Me__ _n_ _chiefly humorous_ A person who is a miniature, but otherwise identical, version of a particular person.  
 __miniscule__ _adj_ :astonished:  
 __minuscule__ _adj_ /-uh-skyool/ __1__ Something described as minuscule is very small. _The number of bugs in the latest version of the video game is minuscule compared to the number that surfaced in the beta version._ __2__ _Minuscule_ can also mean “written in, or in the size or style of, lowercase letters,” in which case it can be contrasted with majuscular. _The ancient manuscripts on display are all in minuscule script._  
+__misbehave__ _v_ Behave badly. _Syn_ misconduct, misdemean  
 __mull<sup>1</sup>__ _vt_ /mŭl/ To think about extensively; ponder. __1__ __2__ To heat and spice (wine, for example).  
 __mull<sup>2</sup>__ _vi_ /mŭl/ To ruminate; ponder: _mull over a plan._  
 __mulled wine__ _n_ Wine heated with sugar and spices and often citrus fruit.  
@@ -499,6 +512,7 @@ __peremptory__
 __perfunctory__  
 __periodontal__ _adj_ Of, denoting, or affecting the gums and other tissues surrounding the teeth: periodontal disease.  
 __perjury__ _n_  
+__permeate__ _v_ /PER-mee-ayt/ To permeate is to pass or spread through something.  
 __pernicious__ _adj_  
 __Perseid__ _n_ /ˈpɜːsɪɪd/ (Celestial Objects) Any member of a meteor shower occurring annually around August 12th and appearing to radiate from a point in the constellation Perseus.  
 __persimon__ _n_ /pərˈsɪm ən/ :es: caqui  
@@ -834,6 +848,9 @@ __staff<sup>2</sup>__ _vt_ __1__ To provide with a staff of workers or assistant
 __stand-off__ _n_  
 __staple__ _n_  
 __star-crossed__ _adj_ Opposed by fate; ill-fated: _star-crossed lovers._  
+__starboard<sup>1</sup>__ _n_ :two: The right-hand side of a ship or aircraft as one faces forward.  
+__starboard<sup>2</sup>__ _adj_ :two: On the right-hand side as one faces forward.  
+__starboard<sup>3</sup>__ _adv_ :two: To or toward the right-hand side as one faces forward.  
 __stardom__ _n_  
 __statutory__  
 __stowage__  
@@ -842,6 +859,7 @@ __stubborn__ _adj_ :pencil2::mega:
 __suave__ _adj_ /swɑːv/  
 __substantive__ _adj_ __1__ Substantial; considerable. __4__ 4. Of or relating to the essence or substance; essential: _substantive information._  
 __superfluous__ _adj_ /soo-PER-floo-us/ Superfluous is a formal word used to describe things that exceed what is necessary or sufficient, or that are simply not needed.  
+__tackle__ _vt_ __2__ _Sports_ __a__ To stop (an opponent carrying the ball), especially by forcing the opponent to the ground. __b__ To obstruct (a player with the ball) in order to cause loss of possession of the ball. __3__ To engage or deal with: tackle a perplexing problem.  
 __tadpole__ _n_ [:scroll: C15 _taddepol_, from _tadde_ toad + _pol_ head, poll]  
 __tenuous__ _adj_  
 __thunderclap__ _n_  
@@ -852,6 +870,7 @@ __unwieldy__ _adj_ :astonished: _The suddenly unwieldy craft._ :es: difícil de 
 __upfold__ _vt_ To fold up.  
 __vaunted__ _adj_ :dart: Praised more than deserved. _Vaunted Jedi Master Luke Skywalker._  
 __verdant__ _adj_ Green with vegetation; covered with green growth. _Syn_ green, lush  
+__vet__ _v_  
 __war story__ _n_ A story of a memorable personal experience typically involving an element of danger, hardship, or adventure. _Politicians swapping war stories from past campaigns._  
 __warble__ _v_  
 __warhorse__ _n_ (war horse)  
