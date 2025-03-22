@@ -185,36 +185,6 @@ __fan the flames__
 __fancy that__ Used to comment on something that is hard to imagine. _The baby she brought home was the wrong one. Fancy that!_  
 __fancy__ _informal_ __2__ To have a desire for (something).  
 __fantabulous__  
-__fast and furious__ :three::hammer:  
-__fast-forward__  
-__fat chance__ Said of something that is unlikely to happen. :es: vaga posibilidad  
-__fawn (all) over (one)__ To flatter and fuss over one to an excessive degree, especially in a sycophantic or obsequious manner.  
-__feel for someone__ To feel the emotional pain that someone else is feeling; to empathize or sympathize with someone.  
-__feel like a million bucks__ :astonished: To feel exceptionally attractive or in very robust health. _Wow, I feel like a million bucks in this new suit!_  
-__feel like doing something__  
-__feel out__  
-__feel puny__ To feel sick. _I woke up feeling puny, so I just stayed in bed all day._  
-__feel the heat__ :two: To deal with or come up against intense pressure or hostility. To encounter an uncomfortable situation.  
-__few and far between__  
-__first off__  
-__flip the switch__ (flip a switch) __1__ To cause a sudden and complete change: This can refer to a change in behavior, attitude, or even a situation. _He flipped the switch and suddenly became very angry._ __2__ To make something happen quickly and easily: This meaning emphasizes the ease with which the change occurs. _We just need to flip the switch to activate the new system._ __3__ To turn something on or off: This is the most literal meaning, referring to the action of physically flipping a switch. However, it can also be used metaphorically to describe starting or stopping something. _The company flipped the switch on their new marketing campaign._  
-__flip through (something)__ To casually read through a document, magazine, or book without paying close attention to it. _I had just started flipping through a magazine when the receptionist called my name._ _I was flipping through the (television) channels._  
-__fly__ _slang_ __2__ Fashionable; cool. Stylish; very attractive. _Those sunglasses are really fly._ _Check out my fly new sneakers!_  
-__for one thing__  
-__for the fun of it__ ((just) for the fun of it)  
-__forage for (something)__ To hunt around for something; to look through something in search of something else, typically food.  
-__fore and aft__  
-__fork in the road__  
-__foul play__ _No sign of foul play._  
-__French leave__ (See also _Irish goodbye_.)  
-__from bad to worse__  
-__full stop__  
-__fumble for (something)__  
-__fumble the ball__ “Fumble the ball” and “drop the ball” are similar in meaning and can often be used interchangeably. Both idioms refer to making a mistake or failing to perform a task properly, especially when it’s important or when someone misses an opportunity. However, “fumble the ball” may sometimes carry a slightly more connotative idea of clumsiness or mishandling, while “drop the ball” is more commonly used to emphasize failing to follow through or neglecting responsibility. Despite these subtle differences, they are generally understood in the same way.  
-__Galentine’s Day__ _informal_ [:scroll: Blend of _gal_ + _Valentine’s Day_, originally the title and subject of the 16th episode of the second season of the American comedy television series _Parks and Recreation_, first broadcast in 2010.] A day on which women hold a party around the time of Saint Valentine’s Day, typically on February 13.  
-__galvanize (one) into action__ To induce or cause one to start doing something.  
-__gas station heroine__ Tianeptine.  
-__gaslight__  
 __gee__ __2__ _exclam._ Wow! (An abbreviation of Jesus!, although not always recognized as such. Usually Gee!) _Golly gee, do I have to?_  
 __geek out__  
 __get a handle on (something)__ To have a firm, clear understanding or determination of something.  

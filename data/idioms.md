@@ -2177,13 +2177,15 @@ __far cry (from something)__ :nine::m: [:sound: far cry from] A thing that is ve
 __far from over__ The idiom “far from over” generally means that a situation or event is not yet finished, resolved or settled. It suggests that there is still more to come and that the outcome is uncertain.  
 __farmer’s tan__ :dart: A tan or sunburn on the neck and lower arms that results from wearing a T-shirt during prolonged sun exposure and that is clearly demarcated from the pale skin of the chest and upper arms that remained covered. :es: moreno paleta _It was so warm that I only wore a T-shirt on the four-hour hike, but I had a pretty gnarly farmer’s tan by the end of the day._  
 __Fart, Barf, and Itch__ :two: Jocular interpretation of the acronym FBI.  
-__fast and furious__  
+__fast and furious__ :four::hammer:  
 __fast track__ :two: An accelerated path to success or achievement.  
-__fast-forward__ :two::hammer:  
+__fast-forward__ :three::hammer:  
 __fast-track__ :two: __2__ _v_ To expedite or speed up some process. _The government announced plans to fast-track citizenship applications for illegal immigrants brought to the country as children._  
 __faster than you can say Jack Robinson__ :dart::two: Extremely quickly; almost immediately; suddenly or in a very short space of time. _Once I’m finished with high school, I’ll be outta this two-bit town faster than you can say Jack Robinson!_  
+__fat chance__ Said of something that is unlikely to happen. :es: vaga posibilidad  
 __Faustian bargain__ :two: An agreement, bargain, or deal in which a person sacrifices or abandons their moral, ethical, or spiritual values in favor of wealth, power, or other benefits. A reference to the legend of Faust, who sold his soul to the devil for unlimited knowledge and power.  
 __faux pas__ :two::hammer:  
+__fawn (all) over (one)__ To flatter and fuss over one to an excessive degree, especially in a sycophantic or obsequious manner.  
 __fear not__ :two: Used in speech to say that there is no reason to be afraid or worried. _Fear not—I’ll protect you._  
 __fear of missing out__  
 __feast (up)on (something)__ :two: To eat large quantities of something, usually with pleasure. _The kids feasted on birthday cake and returned to us with frosting-stained faces._  
@@ -2193,10 +2195,14 @@ __feed (someone) to the wolves__ :two: To sacrifice someone to ruin, destruction
 __feel (some emotion) about (someone or something)__ To feel a particular emotion in response to or about someone or something.  
 __feel (something) in (one’s) bones__ To sense something strongly and intuitively. _We all felt the truth of the situation in our bones._ _Something bad is going to happen tonight—I can feel it in my bones._  
 __feel all the feels__ To experience a range of strong emotions. _Oh man, that video for the animal shelter made me feel all the feels. I want to adopt 10 puppies now!_  
-__feel like a million bucks__ To feel exceptionally attractive or in very robust health. _Wow, I feel like a million bucks in this new suit!_  
+__feel for someone__ To feel the emotional pain that someone else is feeling; to empathize or sympathize with someone.  
+__feel like a million bucks__ :astonished::two: To feel exceptionally attractive or in very robust health. _Wow, I feel like a million bucks in this new suit!_  
 __feel like a new man/woman__ To feel completely refreshed and in good health and spirits, especially after an exhausting or debilitating experience. _After he had some time to recover from the surgery, he felt like a new man._  
+__feel like doing something__  
 __feel like__ :two: __1__ To desire to do something: _We all got bored and felt like leaving._ _I feel like ordering a cup of coffee._ _I don’t feel like it._ __2__ To desire to have something: _I feel like a cup of coffee._  
-__feel the heat__ __2__ To deal with or come up against intense pressure or hostility.  
+__feel out__  
+__feel puny__ To feel sick. _I woke up feeling puny, so I just stayed in bed all day._  
+__feel the heat__ :three: __2__ To deal with or come up against intense pressure or hostility. To encounter an uncomfortable situation.  
 __feel-good__ Creating, promoting, or relating to an often superficial or specious sense of happiness, well-being, or satisfaction.  
 __feeling blah__ __2__ Depressed; worn out. _I’m really blah. Would you mind awfully if I just went home?_  
 __feeling on edge__ :two::hammer:  
@@ -2205,7 +2211,7 @@ __fend off__ :two: __2__ To try to prevent something. A noun or pronoun can be u
 __fender bender__ :three: A little car accident. _Stranded by a fender bender._  
 __ferret out__ To discover or retrieve something, usually with careful effort. A noun or pronoun can be used between “ferret” and “out.” _Now that I’m a successful actress, I’m worried about what the media will ferret out about my tawdry past._  
 __fever pitch__ A state of great excitement or turmoil.  
-__few and far between__ :eight: Rare or seldom-seen. _Warm days have been few and far between this winter._ _Strangely enough, the Hugo awards for_ Galaxy _were relatively few and far between._  
+__few and far between__ :nine: Rare or seldom-seen. _Warm days have been few and far between this winter._ _Strangely enough, the Hugo awards for_ Galaxy _were relatively few and far between._  
 __fiddle with (something)__ :dart::two: To play or tinker with something. _Hey, don’t fiddle with the thermostat—it needs to stay at 68 degrees._ _A growing number of enterprises are looking for new ways to fiddle with industrial thermostats._  
 __fifth column__ :astonished: A clandestine group of people who work subversively within a group, organization, or country in order to betray it to an allied outside force. _In the US during the Cold War, there was constant fear and suspicion of people supposedly working in a fifth column to spread the influence of communism from within._ _A fifth column preparing to rise up and join the security forces._  
 __fight a losing battle__  
@@ -2253,7 +2259,7 @@ __first dibs on__ :three: (dibs on something) (first dibs on something) Choice o
 __first dibs__ _It is something we want first dibs on._  
 __first hand__ :two: Direct(ly) (as opposed to second hand, or from a source other than oneself). Often hyphenated if used as a modifier before a noun. _As a teacher, I’ve seen first hand how reading can change children’s lives._ _We were finally about to hear some first-hand accounts of what happened._  
 __first impression__ The initial, introductory evaluation upon meeting a person, encountering something, or experiencing a situation for the first time. _I had a bad first impression of the job when, on my very first day, the boss humiliated me in front of everyone in the office._  
-__first off__ :dart::four::hammer:  
+__first off__ :dart::five::hammer:  
 __first port of call__ :two: The first place where one stops to visit, accomplish something, or begin a process. Taken from nautical terminology, referring to the first port that a seafaring vessel calls in to at the beginning of a voyage. _The president’s first port of call on his re-election campaign will be his hometown._  
 __first thing__  
 __first things first__ :three::hammer:  
@@ -2290,6 +2296,8 @@ __flimflam__ :smiling_imp:
 __flip (one) the bird__ To raise the middle finger (a rude gesture of anger or displeasure) at one.  
 __flip on__ :dart: To turn something on, typically a switch. A noun or pronoun can be used between “flip” and “on.” _As soon as I flipped on the light, I could see that the house had been robbed._ _He flipped on the radio._  
 ‌__flip the script__ :two: To change or reverse something dramatically.  
+__flip the switch__ (flip a switch) __1__ To cause a sudden and complete change: This can refer to a change in behavior, attitude, or even a situation. _He flipped the switch and suddenly became very angry._ __2__ To make something happen quickly and easily: This meaning emphasizes the ease with which the change occurs. _We just need to flip the switch to activate the new system._ __3__ To turn something on or off: This is the most literal meaning, referring to the action of physically flipping a switch. However, it can also be used metaphorically to describe starting or stopping something. _The company flipped the switch on their new marketing campaign._  
+__flip through (something)__ To casually read through a document, magazine, or book without paying close attention to it. _I had just started flipping through a magazine when the receptionist called my name._ _I was flipping through the (television) channels._  
 __flip-flop__ __1__ _v_ To completely change one’s opinion or stance. Primarily heard in US.  
 __flit about__ :two: To move in a quick, deft manner. _The kids are outside, trying to catch the lightning bugs that are flitting about._  
 __float (one’s) boat__ To make someone happy. Often used in the phrase “whatever floats (one’s) boat.” _A: “What do you want for dinner?” B: “Whatever floats your boat, I’m not even hungry.”_ _I think this new job in the lab will really float Isabel’s boat._  
@@ -2310,6 +2318,7 @@ __fly off the handle__ To lose self control, to get very angry.
 __fly on the wall__ :four::hammer:  
 __fly the coop__  
 __fly under (the/someone’s) radar__ :three: To go without being noticed, detected, or addressed. _A: “Have you heard this band’s latest album?” B: “I didn’t even know it was out, it must have flown under my radar.”_  
+__fly__ _slang_ __2__ Fashionable; cool. Stylish; very attractive. _Those sunglasses are really fly._ _Check out my fly new sneakers!_  
 __flyboy__ _slang_ A pilot or other member of an air force.  
 __flying squad__ _n_ A small group of police, soldiers, etc, ready to move into action quickly.  
 __foam at the mouth__ :two: To be extraordinarily angry. _She was almost foaming at the mouth when she heard about the cost of the car repairs._  
@@ -2358,6 +2367,7 @@ __for keeps__ :three: __1__ For a very long period of time, possibly forever. _I
 __for kicks__ :four: (just for kicks) Only for the sake of fun, excitement, or distraction.  
 __for lack of a better word__  
 __for no good reason__ With no acceptable explanation. _She left for no good reason._  
+__for one thing__  
 __for one__ :four: As one example or reason (out of several potential ones). Often used after a name or personal pronoun to count someone or oneself as an example of something. _Why don’t I like musicals? Well, for one, I just can’t take a story seriously when it’s set to music._ _Rhode Island, for one, is well on the way to meeting the goals._  
 __for peanuts__ For a very paltry or minuscule amount of money; for nearly no money or the absolute minimum amount. _I managed to get tickets! Suzy’s brother has a connection in the stadium, so we got them for peanuts!_  
 __for Pete’s sake__  
@@ -2369,6 +2379,7 @@ __for that matter__ :three: Besides; in addition. _If you’re hungry, take one 
 __for the ages__ :four: That will stand the test of time; that will be remembered or regarded for years to come. _A comeback for the ages._ _A year for the ages._ _He put together a run for the ages._  
 __for the better__ _My luck did not change for the better upon arrival at the bank._  
 __for the birds__ :three::hammer:  
+__for the fun of it__ ((just) for the fun of it)  
 __for the greater good__  
 __for the hell of it__ Simply to satisfy a whim; for no reason other than one’s desire to do it. _Oh, let’s just go on a drive for the hell of it. Why do we need to have a destination in mind?_  
 __for the life of (one)__ :two: (for the life of me) Despite one’s best efforts; to any degree whatsoever. Often used in negative constructions. _For the life of me, I can’t remember where I left my keys!_  
@@ -2384,15 +2395,18 @@ __for want of a better word__ Lacking a more precise term. _If you want to maint
 __for what it’s worth__ :four: For whatever value or merit it seems to have (to you). This expression, which normally precedes the expression of one’s opinion on a controversial topic, implies that the listener may not think much of it, but there it is, anyway. _I’m sorry to hear you lost your job. For what it’s worth, I think you made the right choice confronting your boss._  
 __for which read__ :dart: _Readjustment, scaling back, for which read — redundancies._ :es: léase  
 __for years/weeks/days to come__ :dart: Used to emphasize that something will continue for a long time into the future. _This is a moment that will be remembered and celebrated for years to come._ _It was a highlight that would be looped on SportsCenter for days to come._  
+__forage for (something)__ To hunt around for something; to look through something in search of something else, typically food.  
+__fore and aft__  
 __foregone conclusion__  
 __forever and a day__ :two: __1__ Eternally; always; ceaselessly. __2__ An exceptionally long period of time.  
 __forge ahead__  
+__fork in the road__  
 __fork over the dough__ :two: To pay, generally unwillingly, a certain amount of money. _If you want the most cutting edge technology, you’d better be prepared to fork over the dough for it._  
 __fork over__  
 __fortunes of war__ (the fortunes of war)  
 __forty winks__ :three: A short sleep during the day. A short nap.  
 __fotostat__ “Fotostat” is a term that James Ellroy uses in his novels to refer to a type of photocopying machine that was popular in the mid-20th century. It’s short for “photo-stat,” which is a combination of the words “photo” and “stat,” short for “statistical.”  
-__foul play__ :dart::three: Unspecified criminal or unscrupulous actions, especially violence when stated as the potential cause of a death or disappearance. _That actor actually died of a heart attack—there was no foul play after all._  
+__foul play__ :dart::four: Unspecified criminal or unscrupulous actions, especially violence when stated as the potential cause of a death or disappearance. _That actor actually died of a heart attack—there was no foul play after all._ _No sign of foul play._  
 __fountain of youth__ Anything reputed or promising to restore one’s youth, vitality, or health, or at least the appearance thereof. _At the age of 60, your grandmother looks fantastic! She must have discovered the fountain of youth._  
 __four-letter word__  
 __fourth wall__ :three: The imaginary barrier separating performers in a TV show, film, or play from the audience. _I hate those shows that break the fourth wall—I don’t want to feel like the characters are having a conversation with me!_  
@@ -2414,6 +2428,7 @@ __free pass__
 __free spirit__  
 __free-wheeling__ :two: Lacking restraint; flamboyant and uncontrolled. _His free-wheeling life-style was prohibitely expensive._  
 __freebooter__ _n_ A person who pillages and plunders, especially a pirate.  
+__French leave__ (See also _Irish goodbye_.)  
 __French letter__  
 __frenemy__  
 __fresh legs__ In sports, one or more substitute players who have not yet participated in a given game or match, thus having more energy than the players they are replacing. _Their offense is completely wearing out our defense—it’s time to get some fresh legs on the field!_  
@@ -2431,7 +2446,7 @@ __frigging__ :dart::four: _rude slang_ (friggin’) An intensifier used as a mil
 __from a mile away__ :three: Well or far in advance; exceptionally easily. _That movie was so corny, you could tell what was going to happen from a mile away!_  
 __from A to Z__  
 __from afar__ From a (sometimes great) distance.  
-__from bad to worse__ :four::hammer: _Everything you’re telling me goes from bad to worse._  
+__from bad to worse__ :five::hammer: _Everything you’re telling me goes from bad to worse._  
 __from here on out__ From this moment and continuing into the future. _We need to follow the directions from here on out—otherwise, we’re liable to get lost._  
 __from jump street__  
 __from rags to riches__ From being poor to being wealthy.  
@@ -2455,8 +2470,10 @@ __full of beans__ :two: To have a lot of energy.
 __full of hot air__ :dart: Full of lies, exaggerations, or nonsense. _Oh, you can’t believe a word that guy says—he’s full of hot air._  
 __full of shit__ :two: _slang_ _rude_ Unreliable or ridiculous; saying unfounded, incorrect, or nonsensical things. _You can’t listen to Sean, he’s full of shit! He doesn’t know any more about robotics than we do. All these new touchy-feely parenting books are full of shit, if you ask me._  
 __full package__  
-__full stop__ :six::hammer:  
+__full stop__ :seven::hammer:  
 __full-fledged__  
+__fumble for (something)__  
+__fumble the ball__ “Fumble the ball” and “drop the ball” are similar in meaning and can often be used interchangeably. Both idioms refer to making a mistake or failing to perform a task properly, especially when it’s important or when someone misses an opportunity. However, “fumble the ball” may sometimes carry a slightly more connotative idea of clumsiness or mishandling, while “drop the ball” is more commonly used to emphasize failing to follow through or neglecting responsibility. Despite these subtle differences, they are generally understood in the same way.  
 __fun and games__  
 __fun fact__ An interesting but trifling or irrelevant piece of miscellaneous information; a factoid. Often used as an interjection to introduce such a piece of information. _Fun fact: we love anything with Hawaiian flair except pizza…_  
 __funky__ :two::hammer: _With that mix, things get funky._  
@@ -2475,7 +2492,9 @@ __gag order__ :two: A court order prohibiting those involved in a case from publ
 __gaga__  
 __gain ground__  
 __gain momentum__ (gather momentum) To move faster. _The wagon gathered/gained momentum as it rolled down the hill._  
+__Galentine’s Day__ _informal_ [:scroll: Blend of _gal_ + _Valentine’s Day_, originally the title and subject of the 16th episode of the second season of the American comedy television series _Parks and Recreation_, first broadcast in 2010.] A day on which women hold a party around the time of Saint Valentine’s Day, typically on February 13.  
 __gallows humor__ :dart: Humorous treatment of a grave or dire situation. :es: humor negro  
+__galvanize (one) into action__ To induce or cause one to start doing something.  
 __game changer__ :three::hammer:  
 __game face__ __2__ An expression of stoicism intended to mask one’s emotions or intentions. _John put his game face on as soon as I started to break up with him, so I can’t really tell how he took the new._  
 __game of chicken__  
@@ -2487,8 +2506,9 @@ __gangbusters__ __1__ Successful. _Oh, presenting the case to the students was g
 __gantry officer__ In the Star Wars universe, a _Gantry Officer_ is a specific Imperial military role, typically associated with the Death Star. These officers wear distinctive black uniforms and are part of the ship’s crew.  
 __garbage in, garbage out__ :two::hammer:  
 __gargle__ :two: __1__ _v slang_ To drink alcohol. _I lit a cigarette and gargled Old Crow._ __2__ _n slang_ An alcoholic drink. _It’s been a long week—want to get a gargle with me?_  
+__gas station heroine__ Tianeptine.  
 __gas__ :three: __4__ _vi_ To have a good time. _We gassed all evening._ _We’re here to gas on the show._  
-__gaslight__ :nine::m: (gaslighting) To manipulate someone psychologically so that they begin to doubt their experience of reality. The phrase comes from the 1938 play _Gas Light_, in which the protagonist attempts to induce insanity in his wife by constantly questioning or doubting her reports of strange events, such as the dimming of the house’s gas lights (which has in fact occurred and is related to the husband’s nefarious activities). _Her husband must be gaslighting her because she suddenly doubts all the evidence that she’s found of his indiscretions._ _The administration has been accused of gaslighting with its repeated attempts to spread disinformation._  
+__gaslight__ :dart::nine::m: (gaslighting) To manipulate someone psychologically so that they begin to doubt their experience of reality. The phrase comes from the 1938 play _Gas Light_, in which the protagonist attempts to induce insanity in his wife by constantly questioning or doubting her reports of strange events, such as the dimming of the house’s gas lights (which has in fact occurred and is related to the husband’s nefarious activities). _Her husband must be gaslighting her because she suddenly doubts all the evidence that she’s found of his indiscretions._ _The administration has been accused of gaslighting with its repeated attempts to spread disinformation._  
 __gasp for air__ To gasp or pant heavily due to having difficulty breathing, as after strenuous activity or holding one’s breath.  
 __gassed__ In James Ellroy’s novels, the term “gassed” is often used to describe someone who is intoxicated or under the influence of drugs or alcohol.  
 __gather steam__  
