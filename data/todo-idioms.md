@@ -37,6 +37,7 @@ __a different ball game__ See _a whole new ball game._
 __a different kettle of fish__ :dart: Any issue or matter that is entirely different in scope, description, or nature from that which was just being discussed.  
 __a far cry from (something)__  
 __a great deal__ _adv_ Very much; to a great extent; a lot; lots.  
+__a head start (on something)__  
 __a hell of a__ _informal_ (one hell of a) Used to emphasize something very bad or great. _You’re one hell of a package!_  
 __a joy to behold__ A thing, event, or experience that creates a profound sense of joy or elation in the spectator. _The spring flowers in this part of the country are truly a joy to behold._  
 __a kindred spirit__ (kindred spirit)  
@@ -62,7 +63,7 @@ __abandon ship__
 __about time__ ((it’s) (a)bout time)  
 __ace__  
 __against all odds__  
-__ahead of the curve__ :two::hammer:  
+__ahead of the curve__ :three::hammer:  
 __all eyes are on (someone or something)__ Everyone is paying close attention to someone or something.  
 __all in all__  
 __all shapes and sizes__  
@@ -73,15 +74,23 @@ __all too easy__
 __all too soon__ The idiom “all too soon” means that something happened much earlier than expected or desired, often with a sense of regret or disappointment. It conveys the idea that an event occurred prematurely or that a positive experience ended quickly. “The holidays were over all too soon,” implies that the speaker wished the holidays had lasted longer. “Graduation came all too soon,” suggests that the speaker felt unprepared for the end of their schooling.  
 __and everything in between__ The idiom “and everything in between” refers to the entire range or spectrum of things, situations, or possibilities that fall between two extremes. It’s used to express inclusivity of a broad variety of elements within a certain category or context.  
 __as of yet__  
+__at bay__  
 __at one’s peril__ _somewhat formal_ Used to say that if one does something there could be bad consequences. _Restaurants that ignore the smoking ban do so at their peril._  
+__at the helm__  
 __attaboy__  
 __Backhanded compliment__ A remark that appears to be a compliment but also contains an insult or a negative implication. It often undermines the praise given, making it ambiguous and potentially hurtful.  
 __be hard on (one)__  
 __be ripe for the picking__ To be in an ideal position or at the perfect stage to be utilized, benefited or profited from, taken advantage of, exploited, etc. (Alludes to fruit being at the right stage to be harvested.)  
+__belly up__ Dad.  
+__big ass (something)__ A slang term for referring to something large. _Yo bernie, are you plannin’ a big ass party?_  
+__booger__  
+__bootlicker__ _Syn_ ass-kisser, crawler, sycophant, toady, lackey  
 __boy oh boy__  
 __bring (someone) to tears__ The idiom “bring (someone) to tears” means to cause someone to cry, often due to strong emotions such as sadness, joy, or overwhelming feelings. It can refer to a situation, event, or piece of art (like a movie, song, or book) that evokes a deep emotional response, leading the person to shed tears.  
 __bubble up__  
+__bump-drafting__  
 __bury the hatchet__  
+__Busman’s holidays__ _informal_ A vacation during which one engages in activity that is similar to one’s usual work.  
 __by and large__  
 __by the day__ Per day; at a daily rate.  
 __call (one) names__ (call someone names)  
@@ -93,17 +102,22 @@ __change tack__ To employ a different method or approach in addressing a particu
 __checks and balances__ :dart: Rules within a power structure that keep one person or section from becoming excessively powerful. _The founders created three separate branches of government to act as a system of checks and balances._  
 __chew on this bone__  
 __chide (one) for (something)__ To reprimand or tease one about something.  
+__cleanup hitter__ In baseball, the cleanup hitter is the hitter who bats fourth in the lineup. Although the third man up is generally the hitter with the highest batting average, cleanup hitters often have the most power on the team and are typically the team’s best power hitter; their job is to “clean up the bases,” hence the name.  
 __close to one’s chest__  
 __cold email__ An unsolicited email sent to someone with whom the sender has no prior relationship, usually for professional or business purposes.  
 __come down to the wire__ To be unresolved or have an outcome that is in question until the last possible moment. _Negotiations came down to the wire, but we did in fact agree on a new contract by the deadline._  
 __come to a head__ To reach a point of intensity at which action must be taken.  
+__come to grips__  
 __come to pass__  
 __come to terms__  
 __come to think of it__ :dart: _set phrase_ Used when one has had a sudden realization. _Yeah, come to think of it, Dave was at the party, too._  
 __comes with the job__  
 __conspiracy theory__ _n_ The belief that the government or a covert organization is responsible for an event that is unusual or unexplained, esp when any such involvement is denied.  
 __cook up__  
+__cop a feel__ To feel on a woman’s breasts or buttox; usually when she is not expecting it. Often followed up by a slap in the face.  
 __corny__ :two::hammer:  
+__crow’s nest__ A platform at or near the top of a mast of a ship used as a lookout.  
+__cut (someone) some slack__ To make an allowance for (someone), as in allowing more time to finish something.  
 __cut ties with (someone)__ :dart::two: To end or discontinue a relationship—romantic or otherwise—with someone or some group. _Mary cut all ties with her family when she moved to New York City._  
 __dang__  
 __deadpan__  
@@ -185,17 +199,23 @@ __fan the flames__
 __fancy that__ Used to comment on something that is hard to imagine. _The baby she brought home was the wrong one. Fancy that!_  
 __fancy__ _informal_ __2__ To have a desire for (something).  
 __fantabulous__  
+__fart jokes__ An extremely crude and low-class type of “comedy,” only appreciated by distasteful individuals, who normally are average high-school jocks, or an extremely stupid person.  
+__French tickler__ :camera:  
 __gee__ __2__ _exclam._ Wow! (An abbreviation of Jesus!, although not always recognized as such. Usually Gee!) _Golly gee, do I have to?_  
 __geek out__  
 __get a handle on (something)__ To have a firm, clear understanding or determination of something.  
 __get hell__ To receive the brunt of another’s anger, often through scolding.  
 __get into it__ __2__ To engage in a verbal or physical altercation with someone. _I can’t believe you got into it with the biggest kid in your class._ _I was on a flight recently when the woman next to me got into it with the flight attendant._  
-__get to know__  
+__get to know__ :two::hammer:  
 __ghost gun__ A gun without serial numbers that cannot be easily tracked, especially a home-made gun built with non-registered, partially finished or 3D printed components.  
 __give (one) a run for (one’s) money__ To challenge one’s ability, fortitude, or patience.  
 __give (one) a run for its money__  
+__give (someone) some slack__ To make an allowance for (someone), as in allowing more time to finish something.  
+__give (someone) the cold shoulder__  
 __give someone or something away__ To reveal a secret about someone or something. _I thought no one knew where I was, but my loud breathing gave me away._ _We know that Billy ate the cherry pie. The cherry juice on his shirt gave him away._  
 __grit__  
+__gut check__  
+__hope springs eternal__  
 __if nothing else__ :two::hammer:  
 __in all honesty__ In one’s sincere opinion; without any disingenuousness. _In all honesty, I think this project plan is severely flawed._  
 __in brief__ In summary; to say it briefly. _The film was, in brief, dull._ _If you can, please explain it in brief._ _Medical news in brief: ..._  
@@ -307,6 +327,7 @@ __lay (someone) to rest__
 __lay (something) at the feet of (someone)__ To make or hold someone, especially a group of people, responsible for something. _With every other department losing money each year, the managers have laid the company’s success at the feet of our team._  
 __lay bare (something)__ :two: To divulge, explain, or reveal something not previously known publicly.  
 __lay down and die__ To quit; to give up hope or ambition. _We might have had an unexpected loss in the playoffs, but that doesn’t mean this team is ready to lay down and die!_  
+__leer at__  
 __let alone__  
 __level up__  
 __lightning speed__ An extremely high speed; great rapidity.  
@@ -388,6 +409,8 @@ __make a hole in (something)__ To take, use up, or deplete a large amount of mon
 __make a leg__ _obsolete_ To make a show of obeisance or fealty by bowing deeply (drawing one’s right leg back in the process).  
 __make a long arm for (something)__ To extend one’s arm fully toward something; to reach out for something. _Mary’s new boyfriend made a long arm for the bottle of wine at the end of the table, helping himself to another glass._  
 __make a mark__ To do something that makes one famous or successful; to do something that is very important or meaningful. _The actress first made a mark with her incredible performance as Lady Macbeth on Broadway._  
+__make a mountain of a molehill__  
+__make a mountain out of a molehill__ To exaggerate or put too much focus on a minor issue and make it seem like a major one.  
 __make a run for (someone or something)__ To run in order to escape something or to reach a destination quickly, perhaps before a certain time or before something happens. _Our taxi was late picking us up, so we’re going to have to make a run for the train when we get to the station!_  
 __make a wide stride__ To make great and rapid progress or advancement. _The one-time political advisor has been making a wide stride toward absolute control of the country._  
 __make advances at (one)__ To approach one in a flirtatious, amorous, or sexual manner; to try or begin to seduce one. _Terry was fired after he began making advances at his secretary._  
@@ -471,6 +494,7 @@ __needless to say__ Obviously implied, no explanation needed.
 __nepo friend__ _n_ /nep-oh frend/ (nepo-friend) The slang term nepo friend refers to a person who is thought to benefit from having a famous or influential friend. The term nepo friend is often used to imply that someone is only famous or successful because of their association with a famous person. The term may be used playfully, but it is often at least mildly negative.  
 __nerve-racking__  
 __Nervous Nellie__ /nuhr-vuhs NEL-ee/(nervous Nellie/Nelly) Any nervous person, male or female. Someone who is more timid, nervous, or anxious than is normal or reasonable.  
+__nest egg__ A cache of money saved for a specific purpose (such as an emergency).  
 __next thing you know__ :two::hammer: ((the) next thing (one) knows)  
 __nice and (something)__ :two::hammer:  
 __nice to hav__  
@@ -532,6 +556,8 @@ __on a dime__
 __on a journey__ :two::hammer:  
 __on a lark__ On a whim or fancy; for fun or as a joke.  
 __on a limb__ ((out) on a limb) In a position that lacks evidence, certainty, or support. The image is that of being situated on a branch of a tree, away from the support of the trunk. _Her hypothesis is really out on a limb—the facts don’t support it at all._  
+__on a roll__  
+__on a shoestring__  
 __on the lookout__ :three: Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
 __on the move__  
 __on the pill__ _slang_ Currently and regularly using birth-control pills (oral contraceptives that inhibit ovulation to prevent conception).  
@@ -561,6 +587,7 @@ __out of curiosity__ A phrase used to express that someone is asking a question 
 __out of line__  
 __over the finish line__ :three: To a state of completion or fulfillment, as at the end of some process, development, endeavor, etc. _We’ve been working 80-hour weeks to get this project over the finish line before December._  
 __owing to__ Because of; as a result of; due to _Owing to construction on the highway, please anticipate higher levels of traffic than usual._  
+__paper tiger__  
 __pat on the back__ (pat (one) on the back) Praise given to a person for an achievement or a job well done. _Treating his daughter to ice cream was Joe’s way of giving patting her on the back after she won first place in the science fair._  
 __patch up__  
 __pave the way (for someone or something)__  
@@ -593,10 +620,14 @@ __put the jinx on (something or someone)__ To invoke a curse upon someone or som
 __put the screws on something__  
 __put to good use__ (put (something) to good use) To use something in a way that will be beneficial or have significant results. Employ to the best advantage, as in _I’m sure this dictionary will be put to good use._  
 __put to the test__ (put (someone or something) to the test)  
+__rack up__  
+__red light camera__  
+__revel in (something)__ To be extremely happy or celebratory about something; to relish something.  
 __rise to (something)__ :dart: To increase one’s effort in response to a challenging situation. _If you’re going to lead this team, you’ve got to rise to the challenge and start motivating them._  
 __roll out of bed__ The phrase “roll out of bed” typically means to get out of bed in a casual or lazy manner, often implying that the person is not fully awake or is in a hurry. It can also suggest a relaxed or informal approach to starting the day.  
 __ruckus__ A large, uproarious commotion. _There was a ruckus out in the streets, so I went out to investigate._  
 __scramble for (something)__  
+__seethe with something__ [for someone] To be agitated with anger, hatred, scorn, disgust, etc. _Laura was seething with rage as she entered the tax office._  
 __set up shop__  
 __shuffle off__  
 __shut out__  
@@ -618,6 +649,7 @@ __situation__
 __six in one, (and) half a dozen in the other__ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
 __size up__ To make an estimate, opinion, or judgment of someone or something. _Vader and Kenobi were sizing each other up._ _She sized up her opponent._ _He sized the location up._  
 __skive off__ _BrE_ To absent oneself or leave early from school or work when one would normally be required to be there; to play truant. Primarily heard in UK.  
+__slack-jawed__  
 __slam-bang__  
 __slap in the face__ :two: Words or actions that have offended or otherwise upset someone. An insult; an act that causes disappointment or discouragement. _It was a real slap in the face when she got promoted over me, especially after the amount of work I did on that last project._  
 __slated to__ (do something)  
@@ -631,18 +663,21 @@ __slippery path__ A situation or course of action that is fraught with difficult
 __slow on the uptake__ Stupid or dimwitted; slow or unable to understand something. _Jim’s a little slow on the uptake, so you might want to check that he’s following your instructions._  
 __slowly and surely__  
 __slowly but surely__  
+__slugfest__  
 __small print__ (fine print) An important part of a document that is not easily noticed because of the smallness of the printing. _You should have read the small print before signing the contract._  
 __smarty-pants__  
 __smell a rat__ To suspect an instance of betrayal, deception, or corruption.  
 __smoldering intensity__ “Smoldering intensity” refers to a charismatic and intense gaze or expression, often associated with romantic or dramatic scenes in movies or literature. It is not a factual term or power in the real world. When Dwayne “The Rock” Johnson raises his right eyebrow in concern, curiosity or just to flex. Sometime done by Dwayne in the event of something serious or catastrophical about to happen.  
 __smoldering look__ [Note: In the context of The Smoldering Dr. Bravestone from the _Jumanji_ movie franchise, “smoldering” refers to the character Dr. Bravestone (played by Dwayne “The Rock” Johnson) having a strong, intense, and often brooding expression that conveys both charm and a kind of silent, smoldering intensity. It’s a playful reference to a facial expression where someone looks serious, cool, and maybe a little mysterious or attractive, as if they are “smoldering” with inner heat or passion.] :es: mirada ardiente, con mirada intensa, con una expresión intensa  
 __smoldering__ The act of accessing your deep, inner, and molten sexuality and shooting it through your eyes into an undeniably sexy stare. Smoldering bridges both gender and orientation, so anyone can fall victim to it’s arousing and lustful nature. One may be able to command the masses with one glance if mastered.  
+__smooch__  
 __smooth over__  
 __snaffle up__ :dart: __1__ To quickly snatch or steal something, especially furtively or surreptitiously. (In each usage, a noun or pronoun can be used between “snaffle” and “up.”) _He snaffled up the note that fell out of her school bag and slipped it into his papers as inconspicuously as possible._ __2__ By extension, to take possession of something for oneself very eagerly or greedily. _The antique dealer snaffled up the rare vintage car that had been sitting in the farmer’s barn for three decades._ __3__ To devour something greedily or ravenously; to gobble something up. _I threw a piece of bread to the birds on the grass, and they snaffled it up in the blink of an eye._ __4__ By extension, to consume some form of media very eagerly or avidly. _I was obsessed with science fiction as a kid, and I snaffled up anything and everything to do with it that I could find._  
 __snatch (someone) from the jaws of death__ To rescue someone at the last moment from near or certain death.  
 __snazzy__ Particularly elegant, dazzling, classy, or fancy in appearance. _Wow, that’s a snazzy new suit you’ve got on! Big meeting today or something?_ _She runs one of the snazziest clubs in town._  
 __sneak peek__  
 __sneak up (on someone or something)__  
+__snooch to the nooch__ An expression deemed only to those situations worthy of a stoner’s complete gratification. Similar to when people say “Hell ya” or “Shitzchea” all terms used extensively to show great pleasure in a certain action or on hearing an idea. A term even when yelled, is said in a very calm and layed back manner. _A: “Yo, I just found your dimebag behind the couch.” B: “Snooch to the Nooch...”_  
 __snort at (someone or something)__  
 __snowball effect__ A situation in which the results or consequences of an action grow at an increasingly faster rate over time.  
 __so and so__  
@@ -665,6 +700,7 @@ __sort out__
 __sound the alarm__ :two::hammer:  
 __sounds familiar__  
 __sounds like__  
+__space out__  
 __spaghetti bender__  
 __spaghetti code__  
 __spare the rod and spoil the child__  
@@ -677,6 +713,7 @@ __spill over__ __2__ To go beyond the borders or parameters of something and int
 __spill the beans__  
 __spill your guts__ To confess or reveal all, often under pressure or coercion. Ellroy often has characters facing moral dilemmas, and this idiom fits the theme of characters who must decide whether to reveal their secrets or keep them buried.  
 __spin doctor__ :smiling_imp: Someone who gives a twisted or deviously deceptive version of an event. (Usually in the context of manipulating the news for political reasons.) _Things were going bad for the candidate, so he got himself a new spin doctor._ _A good spin doctor could have made the incident appear far less damaging._  
+__spinning plates__  
 __spite coefficient__ It tries to quantify how much someone is willing to harm themselves (or incur a cost) to inflict harm on another. A high “Spite Coefficient” implies a greater willingness to self-sacrifice for the sake of harming someone else. It’s often used in discussions about online behavior, particularly in situations involving trolling, flaming, or other forms of antagonistic interaction.  
 __split hairs__  
 __splurge (on someone or something)__ To spend a lot of money (on someone or something) in an indulgent or self-gratifying manner.  
@@ -742,6 +779,7 @@ __swept the board__
 __switch gears__  
 __sword of Damocles__ Any imminent, impending, or eventual trouble, danger, or disaster.  
 __sworn enemy__ A person, group, or organization for whom one holds a particularly intense, deep-seated hatred. _Our environmentalist lobby group is heading out to protest against Big Oil, our sworn enemy._  
+__T-boned__ When a car hits another in the side forming a letter “T.” _I ran a red light and I tboned this other car!_  
 __tacky__ Cheap, crude, and unrefined; indicating or characteristic of a lack of class, elegance, or sophistication. _He showed up in a really tacky suit._ _The office looked tacky._ _Tacky birthday present._ :es: cutre  
 __taco bender__  
 __tad__ (a tad; a tad bit) A bit; a small bit. _That’s a little more than a tad, but it’s all right._  
@@ -813,7 +851,9 @@ __till the cows come home__ See _until the cows come home._
 __time and time again__  
 __toe-to-toe__  
 __train on (someone or something)__ _The blaster was trained on the door._  
+__trap__ __1__ _slang_ One’s mouth. _Keep your trap shut._  
 __try and help__ The phrase “try and help” means to make an effort to assist someone or to offer support in a particular situation. It implies a willingness to provide aid, even if the outcome is uncertain. The phrase can suggest that the person is not only willing to help but is also actively attempting to do so, regardless of whether they are guaranteed to succeed. It is often used in informal contexts.  
+__turn on a dime__  
 __turn the page__  
 __turn the tables__ To change or reverse something dramatically.  
 __under the table__ :smiling-imp:  
@@ -827,6 +867,7 @@ __walk the wak__
 __walk through__  
 __war chest__  
 __warhorse__ ((old) warhorse) __1__ A veteran of some activity or profession (not necessarily the military) who has a wealth of experience going through various trials and tribulations. _I know she’s a little eccentric, but Janet is a warhorse in this firm—she’s been through more trying court cases than anyone else here._  
+__warts and all__ _slang_ All defects and imperfections notwithstanding: _They love each other, warts and all._  
 __water under the bridge__  
 __wean off (of) (something)__  
 __weasel__ :smiling_imp: __1__ _n_ Someone who is sneaky, devious, or deceitful.  
@@ -863,6 +904,7 @@ __you have to be cruel to be kind__
 __young at heart__ Behaving or thinking in a way that is more youthful than what traditionally accompanies one’s actual age.  
 __your mileage may vary__  
 __yup__  
+__yuppie__ :mega:  
 __zap__ __1__ To give someone or something an electrical shock. _Zapping injured brains can improve cognition and memory._  
 __zero hour__  
 __zero in__ :three::hammer:  
