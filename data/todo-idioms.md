@@ -36,6 +36,7 @@ __a dab hand__ Someone who is skilled in a particular area. Primarily heard in U
 __a different ball game__ See _a whole new ball game._  
 __a different kettle of fish__ :dart: Any issue or matter that is entirely different in scope, description, or nature from that which was just being discussed.  
 __a far cry from (something)__  
+__a free bit of advice__  
 __a great deal__ _adv_ Very much; to a great extent; a lot; lots.  
 __a head start (on something)__  
 __a hell of a__ _informal_ (one hell of a) Used to emphasize something very bad or great. _You’re one hell of a package!_  
@@ -55,6 +56,7 @@ __a matter of time__ An inevitability or eventuality; something that is or seems
 __a mile away__  
 __a new coat of paint__ The phrase “a new coat of paint” is an idiom that means giving something a fresh appearance or updating it, often to make it look more appealing or modern. It can refer to physically painting an object or structure, but it’s also used metaphorically to describe revitalizing or improving something, like a project, idea, or even a person’s style. It’s about making something look new again without necessarily changing its core essence.  
 __a no-go__  
+__a piece of advice__  
 __a slew of (something)__ A very large number or amount of something; a lot of something.  
 __a stiff upper lip__ The ability to remain stoic during difficult situations.  
 __a whole new ball game__ (a different ball game)  
@@ -81,6 +83,7 @@ __attaboy__
 __Backhanded compliment__ A remark that appears to be a compliment but also contains an insult or a negative implication. It often undermines the praise given, making it ambiguous and potentially hurtful.  
 __be hard on (one)__  
 __be ripe for the picking__ To be in an ideal position or at the perfect stage to be utilized, benefited or profited from, taken advantage of, exploited, etc. (Alludes to fruit being at the right stage to be harvested.)  
+__be the shit__ _rude slang_ To be very good, excellent, cool, etc.  
 __belly up__ Dad.  
 __big ass (something)__ A slang term for referring to something large. _Yo bernie, are you plannin’ a big ass party?_  
 __booger__  
@@ -93,6 +96,7 @@ __bury the hatchet__
 __Busman’s holidays__ _informal_ A vacation during which one engages in activity that is similar to one’s usual work.  
 __by and large__  
 __by the day__ Per day; at a daily rate.  
+__by the truckload__  
 __call (one) names__ (call someone names)  
 __case in point__  
 __catch (the) headlines__ To be featured on the headlines of news articles, as due to being particularly important, popular, fashionable, etc. _It may not be so tremendous as to catch the headlines, but this small change in immigration law could have a huge impact on foreign workers._  
@@ -105,6 +109,7 @@ __chide (one) for (something)__ To reprimand or tease one about something.
 __cleanup hitter__ In baseball, the cleanup hitter is the hitter who bats fourth in the lineup. Although the third man up is generally the hitter with the highest batting average, cleanup hitters often have the most power on the team and are typically the team’s best power hitter; their job is to “clean up the bases,” hence the name.  
 __close to one’s chest__  
 __cold email__ An unsolicited email sent to someone with whom the sender has no prior relationship, usually for professional or business purposes.  
+__come a long way__  
 __come down to the wire__ To be unresolved or have an outcome that is in question until the last possible moment. _Negotiations came down to the wire, but we did in fact agree on a new contract by the deadline._  
 __come to a head__ To reach a point of intensity at which action must be taken.  
 __come to grips__  
@@ -163,6 +168,7 @@ __draw on__
 __draw to a close__  
 __draw water__  
 __dreamboat__ A very attractive or appealing person.  
+__dress like a peacock__  
 __dribs and drabs__  
 __drop a bombshell__ To reveal something that is very surprising or unexpected.  
 __drop dead__  
@@ -200,6 +206,7 @@ __fancy that__ Used to comment on something that is hard to imagine. _The baby s
 __fancy__ _informal_ __2__ To have a desire for (something).  
 __fantabulous__  
 __fart jokes__ An extremely crude and low-class type of “comedy,” only appreciated by distasteful individuals, who normally are average high-school jocks, or an extremely stupid person.  
+__for good__  
 __French tickler__ :camera:  
 __gee__ __2__ _exclam._ Wow! (An abbreviation of Jesus!, although not always recognized as such. Usually Gee!) _Golly gee, do I have to?_  
 __geek out__  
@@ -208,13 +215,20 @@ __get hell__ To receive the brunt of another’s anger, often through scolding.
 __get into it__ __2__ To engage in a verbal or physical altercation with someone. _I can’t believe you got into it with the biggest kid in your class._ _I was on a flight recently when the woman next to me got into it with the flight attendant._  
 __get to know__ :two::hammer:  
 __ghost gun__ A gun without serial numbers that cannot be easily tracked, especially a home-made gun built with non-registered, partially finished or 3D printed components.  
+__gild the lily__  
 __give (one) a run for (one’s) money__ To challenge one’s ability, fortitude, or patience.  
 __give (one) a run for its money__  
 __give (someone) some slack__ To make an allowance for (someone), as in allowing more time to finish something.  
 __give (someone) the cold shoulder__  
 __give someone or something away__ To reveal a secret about someone or something. _I thought no one knew where I was, but my loud breathing gave me away._ _We know that Billy ate the cherry pie. The cherry juice on his shirt gave him away._  
+__go ballistic__  
+__go postal__  
+__go to the dogs__  
 __grit__  
 __gut check__  
+__hands off__  
+__HMU__ Hit me up.  
+__hoopla__  
 __hope springs eternal__  
 __if nothing else__ :two::hammer:  
 __in all honesty__ In one’s sincere opinion; without any disingenuousness. _In all honesty, I think this project plan is severely flawed._  
@@ -254,6 +268,7 @@ __keep a lookout (for somebody/something)__
 __keep a sharp lookout (for something or someone)__ To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep a sharp lookout._  
 __keep an eye peeled (for something or someone)__ To remain vigilant or carefully watchful (for something or someone). _They should be arriving any minute, so keep an eye peeled._ _Keep an eye peeled for a Christmas present we could give your mother._  
 __keep body and soul together__  
+__keep company__  
 __keep faith__  
 __keep it real__  
 __keep pace__ :two::hammer:  
@@ -332,6 +347,7 @@ __let alone__
 __level up__  
 __lightning speed__ An extremely high speed; great rapidity.  
 __like a fish out of water__ :two::hammer:  
+__like a ramrod__ (straight as a ramrod)  
 __like attracts like__ People tend to seek out or be attracted to those that are similar or like-minded. _I guess I shouldn’t be surprised that John wants to find other Americans to hang out with. Like attracts like, after all._  
 __like babes in the tall grass__ The idiom “like babes in the tall grass” means being inexperienced or naive, often unaware of the potential dangers or challenges in a situation. The imagery suggests that, like young children lost or playing in tall grass, someone may be in over their head without realizing it, vulnerable to unseen risks or complications. _They entered the business world like babes in the tall grass, unaware of the pitfalls and challenges ahead._  
 __like cheese at four pence__ _BrE_ In an idle, awkward, and/or out-of-place state; being ignored, abandoned, or left to wait awkwardly. Primarily heard in UK. _Well, don’t just sit there like cheese at four pence—speak up and say what’s on your mind!_  
@@ -502,6 +518,7 @@ __no accident__ Something done deliberately. _It is no accident that the assista
 __no big deal__ :two::hammer:  
 __no hard feelings__ :es: sin rencores  
 __no question about it__  
+__nom nom nom__ (om nom nom nom)  
 __normie__ (slang, usually derogatory, sometimes Internet) A normal person; one with commonly held, normative beliefs, tastes or interests.  
 __north star__ Something or someone that serves as a guiding principle, source of direction, or inspiration in one’s life.  
 __not a chance__ (There is) no possibility (that that will happen).  
@@ -538,12 +555,13 @@ __of note__
 __off again, on again__  
 __off the hook__ :three::hammer:  
 __off to the races__ :two::hammer:  
-__off-kilter__ :three::hammer:  
+__off-kilter__ :four::hammer: (out of kilter)  
 __OG__ (original gangster) In contemporary usage, calling someone an OG can be a compliment that acknowledges their status as a pioneer or leader in a specific area, whether it be music, sports, or any other field. It reflects admiration for their contributions and the respect they command from others.  
 __oh boy__ :two::hammer:  
 __oh dear__ :dart: An expression of concern, surprise, or disappointment. _This place is on the 10th floor, and there’s no elevator? Oh dear._ _A car accident? Oh dear, is she OK?_  
 __oh, my__ :dart::three::hammer: (oh my)  
 __old coot__ :two::hammer: (coot)  
+__old fart__  
 __old flame__ (an/(one’s) old flame) One’s former lover. _How am I supposed to forget about my old flame if I keep seeing her around town?_  
 __old school__  
 __on (one’s) (own) terms__ In the manner or timeframe that one prefers.  
@@ -584,9 +602,11 @@ __open the floodgates__ To allow for an expanding number of (typically negative)
 __out and about__ :dart: __1__ Away from one’s home or normal environment, especially to socialize, run errands, visit various places, etc. _I’m just out and about with Mary if you would like to come join us._ __2__ Well enough to come and go, especially after an illness. For example, _I’m glad to see you’re out and about again._  
 __out of aces__ Figuratively, it’s often used to describe someone who has exhausted all their resources, tricks, or ways to handle a problem.  
 __out of curiosity__ A phrase used to express that someone is asking a question or seeking information simply because they are interested or want to know more, without any specific agenda or need.  
+__out of kilter__ (off-kilter)  
 __out of line__  
 __over the finish line__ :three: To a state of completion or fulfillment, as at the end of some process, development, endeavor, etc. _We’ve been working 80-hour weeks to get this project over the finish line before December._  
 __owing to__ Because of; as a result of; due to _Owing to construction on the highway, please anticipate higher levels of traffic than usual._  
+__paint the town__  
 __paper tiger__  
 __pat on the back__ (pat (one) on the back) Praise given to a person for an achievement or a job well done. _Treating his daughter to ice cream was Joe’s way of giving patting her on the back after she won first place in the science fair._  
 __patch up__  
@@ -595,6 +615,7 @@ __pay top dollar__
 __pay tribute to (someone or something)__ To do something as a way of publicly showing respect or admiration for a particular person, group, or thing. _The movie pays tribute to an old adventure serial that ran on television in the mid-1930s._  
 __penguin tuxedo__ The term “penguin tuxedo“ is often used humorously or figuratively to describe a penguin’s natural appearance, as their black-and-white plumage resembles the look of a tuxedo—a formal suit with a black jacket and white shirt.  
 __period__ Used to emphasize the finality of one’s statement, indicating that one has nothing further to add or elaborate. _I’m not going to tell you again. There is no way I am getting on that airplane—period!_  
+__peter out__  
 __pin down__  
 __play (one’s) cards close to (one’s) chest__  
 __play tag__  
@@ -615,20 +636,25 @@ __pressing matters__ Issues or concerns that require immediate attention or acti
 __pull rank (on one)__  
 __push (one’s) buttons__  
 __put (one’s) money where (one’s) mouth is__ To do, live up to, or follow through on something one talks about, threatens, or promises, especially (but not always) when it involves spending money.  
+__put (someone) through the wringer__  
 __put the brakes on (someone or something)__  
 __put the jinx on (something or someone)__ To invoke a curse upon someone or something that brings bad luck or failure.  
 __put the screws on something__  
 __put to good use__ (put (something) to good use) To use something in a way that will be beneficial or have significant results. Employ to the best advantage, as in _I’m sure this dictionary will be put to good use._  
 __put to the test__ (put (someone or something) to the test)  
 __rack up__  
+__rec room__ _US and Canadian_ A room in a house used by the family for relaxation and entertainment In full recreation room.  
 __red light camera__  
+__red-handed__  
 __revel in (something)__ To be extremely happy or celebratory about something; to relish something.  
 __rise to (something)__ :dart: To increase one’s effort in response to a challenging situation. _If you’re going to lead this team, you’ve got to rise to the challenge and start motivating them._  
 __roll out of bed__ The phrase “roll out of bed” typically means to get out of bed in a casual or lazy manner, often implying that the person is not fully awake or is in a hurry. It can also suggest a relaxed or informal approach to starting the day.  
 __ruckus__ A large, uproarious commotion. _There was a ruckus out in the streets, so I went out to investigate._  
 __scramble for (something)__  
 __seethe with something__ [for someone] To be agitated with anger, hatred, scorn, disgust, etc. _Laura was seething with rage as she entered the tax office._  
+__sell like hot cakes__  
 __set up shop__  
+__shoot the breeze__ To engage in idle conversation.  
 __shuffle off__  
 __shut out__  
 __shy away (from someone or something)__  
@@ -667,6 +693,7 @@ __slugfest__
 __small print__ (fine print) An important part of a document that is not easily noticed because of the smallness of the printing. _You should have read the small print before signing the contract._  
 __smarty-pants__  
 __smell a rat__ To suspect an instance of betrayal, deception, or corruption.  
+__smoking gun__  
 __smoldering intensity__ “Smoldering intensity” refers to a charismatic and intense gaze or expression, often associated with romantic or dramatic scenes in movies or literature. It is not a factual term or power in the real world. When Dwayne “The Rock” Johnson raises his right eyebrow in concern, curiosity or just to flex. Sometime done by Dwayne in the event of something serious or catastrophical about to happen.  
 __smoldering look__ [Note: In the context of The Smoldering Dr. Bravestone from the _Jumanji_ movie franchise, “smoldering” refers to the character Dr. Bravestone (played by Dwayne “The Rock” Johnson) having a strong, intense, and often brooding expression that conveys both charm and a kind of silent, smoldering intensity. It’s a playful reference to a facial expression where someone looks serious, cool, and maybe a little mysterious or attractive, as if they are “smoldering” with inner heat or passion.] :es: mirada ardiente, con mirada intensa, con una expresión intensa  
 __smoldering__ The act of accessing your deep, inner, and molten sexuality and shooting it through your eyes into an undeniably sexy stare. Smoldering bridges both gender and orientation, so anyone can fall victim to it’s arousing and lustful nature. One may be able to command the masses with one glance if mastered.  
@@ -677,8 +704,10 @@ __snatch (someone) from the jaws of death__ To rescue someone at the last moment
 __snazzy__ Particularly elegant, dazzling, classy, or fancy in appearance. _Wow, that’s a snazzy new suit you’ve got on! Big meeting today or something?_ _She runs one of the snazziest clubs in town._  
 __sneak peek__  
 __sneak up (on someone or something)__  
+__snitch__  
 __snooch to the nooch__ An expression deemed only to those situations worthy of a stoner’s complete gratification. Similar to when people say “Hell ya” or “Shitzchea” all terms used extensively to show great pleasure in a certain action or on hearing an idea. A term even when yelled, is said in a very calm and layed back manner. _A: “Yo, I just found your dimebag behind the couch.” B: “Snooch to the Nooch...”_  
 __snort at (someone or something)__  
+__snot__  
 __snowball effect__ A situation in which the results or consequences of an action grow at an increasingly faster rate over time.  
 __so and so__  
 __so be it__  
@@ -690,6 +719,7 @@ __sock__ :two: _informal_ __2__ _v_ To deliver a sharp, forceful blow.
 __soft power__ The ability of a nation or other political entity to reach a desired outcome by non-violent methods (such as diplomacy, negotiation, foreign aid, etc.) and without the use or threat of force (i.e. military action). (The opposite of hard power.)  
 __soft shoulder__ :astonished: An unpaved lane or area on the side of a road, often a highway, where drivers can stop their vehicles in emergency situations. _I think you’ve got a flat tire. You’d better pull over on to the soft shoulder._  
 __soft spot__  
+__SOL__  
 __solid as a rock__ ((as) solid as a rock) Exceptionally stable, sturdy, and reliable. _They’ve been married for 50 years, so their relationship has to be solid as a rock._  
 __some people__ :dart: (some people!) Expresses disapproval at the actions of a person; a disapproving response to a person doing something. An expression of disgust over the way certain people act, behave, or function in society.  
 __something of sorts__ An inferior example of a kind of something.  
@@ -713,9 +743,10 @@ __spill over__ __2__ To go beyond the borders or parameters of something and int
 __spill the beans__  
 __spill your guts__ To confess or reveal all, often under pressure or coercion. Ellroy often has characters facing moral dilemmas, and this idiom fits the theme of characters who must decide whether to reveal their secrets or keep them buried.  
 __spin doctor__ :smiling_imp: Someone who gives a twisted or deviously deceptive version of an event. (Usually in the context of manipulating the news for political reasons.) _Things were going bad for the candidate, so he got himself a new spin doctor._ _A good spin doctor could have made the incident appear far less damaging._  
+__spin the wheel__  
 __spinning plates__  
 __spite coefficient__ It tries to quantify how much someone is willing to harm themselves (or incur a cost) to inflict harm on another. A high “Spite Coefficient” implies a greater willingness to self-sacrifice for the sake of harming someone else. It’s often used in discussions about online behavior, particularly in situations involving trolling, flaming, or other forms of antagonistic interaction.  
-__split hairs__  
+__split hairs__ :two::hammer:  
 __splurge (on someone or something)__ To spend a lot of money (on someone or something) in an indulgent or self-gratifying manner.  
 __spoil for something__ _You are spoiling for a fight._ :es: te estás buscando pelea  
 __spoofing__ :two::smiling_imp: The practice of stealing, or attempting to steal, personal information over the phone or on the internet by pretending to be someone or something that legitimately requires such details.  
@@ -872,6 +903,7 @@ __water under the bridge__
 __wean off (of) (something)__  
 __weasel__ :smiling_imp: __1__ _n_ Someone who is sneaky, devious, or deceitful.  
 __weather the storm__ To endure a period of hardship or disorder. To experience something and survive it. _That was the hardest year of my life, but in the end I was able to weather the storm with the support of my family._  
+__wee hours__  
 __weirdo__ /ˈwɪrdo/ /ˈwɪər doʊ/ /ˈwɪədəʊ/ _slang_ slang A particularly odd, bizarre, awkward, or eccentric person. _I know a lot of kids at school think I’m a weirdo just because I like anime so much, but I don’t care._  
 __welcome to the jungle__ “Welcome to the jungle” is not an idiom in the traditional sense. However, in a figurative sense, it can be used to describe a chaotic or wild environment, often in a new or unfamiliar situation—something like a “tough” or “dangerous” place where one has to adapt quickly. In that context, people may use it in a more idiomatic way, but the phrase itself originated as a title and lyrics for the song by Guns N’ Roses.  
 __well put__ The expression “well put” is used to praise someone’s way of expressing something. It means that what the person said was clear, well-articulated, or expressed in a thoughtful or effective manner. It’s a compliment acknowledging that their words were well-chosen or accurately conveyed the intended message.  
