@@ -29,7 +29,7 @@ __bn__ Billion. _US $30bn._
 __BO__ :two: Body odor.  
 __BPA__ Bisphenol A. _BPA free 100% recyclable plastic bottle._  
 __BRICS__ /brɪks/ Brazil, Russia, India, and China: seen collectively as the most important emerging economies with large potential markets.  
-__BS__ :three::hammer: (BSing) _One of our core values is: Open company, no BS._  
+__BS__ :four::hammer: (BSing) _One of our core values is: Open company, no BS._  
 __BYOD__ :two: Bring your own device.  
 __c/o__ :three: Care of.  
 __CBT__  
@@ -209,7 +209,7 @@ __PPE__ :two: Personal protective equipment: clothing and equipment used to ensu
 __PPG__ (ppg) Points per game. _Sanders is averaging 13.3 ppg._  
 __ppl__ _informal_ People.  
 __pppn__ Per person per night.  
-__PR__ :three: Public relations. _The best-kept secret in PR._ _The PR version of my life._  
+__PR__ :four: Public relations. _The best-kept secret in PR._ _The PR version of my life._  
 __PSA__ __1__ Prostate-specific antigen. __2__ Public service announcement.  
 __pt__ Patient.  
 __PTA__ Parent Teacher Association.  

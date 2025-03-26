@@ -10,6 +10,7 @@ __bah__ Used to express impatient rejection or contempt.
 __bam__ :two: __1__ Representing a loud noise or heavy impact. Used to indicate the sound of a blow or a collision. __2__ Representing a sudden or abrupt occurrence. Used to indicate a sudden or unexpected occurrence. _BAM!_  
 __bejesus__ (bejeezus) Used to express exasperation, annoyance, or surprise.  
 __big deal<sup>2</sup>__ :dart::five: Used ironically to indicate that something is unimportant or unimpressive. _Big deal._  
+__blammo__ Synonym of whammo.  
 __blech__ _slang_ An imitation of the sound of gagging, used to express disgust or disdain. _Blech! Look at all those maggots!_  
 __boo-hoo__ A word used in comic books or children’s stories to show that someone is crying.  
 __boo<sup>2</sup>__  

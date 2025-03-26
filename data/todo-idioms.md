@@ -81,13 +81,18 @@ __at one’s peril__ _somewhat formal_ Used to say that if one does something th
 __at the helm__  
 __attaboy__  
 __Backhanded compliment__ A remark that appears to be a compliment but also contains an insult or a negative implication. It often undermines the praise given, making it ambiguous and potentially hurtful.  
+__be a cakewalk__  
 __be hard on (one)__  
 __be ripe for the picking__ To be in an ideal position or at the perfect stage to be utilized, benefited or profited from, taken advantage of, exploited, etc. (Alludes to fruit being at the right stage to be harvested.)  
 __be the shit__ _rude slang_ To be very good, excellent, cool, etc.  
+__beer goggles__  
 __belly up__ Dad.  
 __big ass (something)__ A slang term for referring to something large. _Yo bernie, are you plannin’ a big ass party?_  
+__black eye__  
+__bomb(shell)__ A stunning piece of news that is dropped without warning.  
 __booger__  
 __bootlicker__ _Syn_ ass-kisser, crawler, sycophant, toady, lackey  
+__bored to death__  
 __boy oh boy__  
 __bring (someone) to tears__ The idiom “bring (someone) to tears” means to cause someone to cry, often due to strong emotions such as sadness, joy, or overwhelming feelings. It can refer to a situation, event, or piece of art (like a movie, song, or book) that evokes a deep emotional response, leading the person to shed tears.  
 __bubble up__  
@@ -97,6 +102,7 @@ __Busman’s holidays__ _informal_ A vacation during which one engages in activi
 __by and large__  
 __by the day__ Per day; at a daily rate.  
 __by the truckload__  
+__cakewalk__  
 __call (one) names__ (call someone names)  
 __case in point__  
 __catch (the) headlines__ To be featured on the headlines of news articles, as due to being particularly important, popular, fashionable, etc. _It may not be so tremendous as to catch the headlines, but this small change in immigration law could have a huge impact on foreign workers._  
@@ -109,6 +115,7 @@ __chide (one) for (something)__ To reprimand or tease one about something.
 __cleanup hitter__ In baseball, the cleanup hitter is the hitter who bats fourth in the lineup. Although the third man up is generally the hitter with the highest batting average, cleanup hitters often have the most power on the team and are typically the team’s best power hitter; their job is to “clean up the bases,” hence the name.  
 __close to one’s chest__  
 __cold email__ An unsolicited email sent to someone with whom the sender has no prior relationship, usually for professional or business purposes.  
+__cold feed__  
 __come a long way__  
 __come down to the wire__ To be unresolved or have an outcome that is in question until the last possible moment. _Negotiations came down to the wire, but we did in fact agree on a new contract by the deadline._  
 __come to a head__ To reach a point of intensity at which action must be taken.  
@@ -170,11 +177,10 @@ __draw water__
 __dreamboat__ A very attractive or appealing person.  
 __dress like a peacock__  
 __dribs and drabs__  
-__drop a bombshell__ To reveal something that is very surprising or unexpected.  
+__drop a bombshell__ :two: To reveal something that is very surprising or unexpected.  
 __drop dead__  
 __drop the ball__ (See also _fumble the ball_)  
-__drum into (one)__ To teach someone something through intense and frequent repetition. A noun or pronoun can be used between “drum” and “into.”  
-__drum into__ :es: hacer aprender a la fuerza; machacar  
+__drum into (one)__ :two: To teach someone something through intense and frequent repetition. A noun or pronoun can be used between “drum” and “into.” :es: hacer aprender a la fuerza; machacar  
 __drum up__  
 __dry as a bone__  
 __duke it out__  
@@ -210,6 +216,7 @@ __for good__
 __French tickler__ :camera:  
 __gee__ __2__ _exclam._ Wow! (An abbreviation of Jesus!, although not always recognized as such. Usually Gee!) _Golly gee, do I have to?_  
 __geek out__  
+__get a grip (on yourself)__ :dart: To make an effort to control your emotions and behave more calmly. _Come on, get a grip, we’ve got an important meeting in five minutes._  
 __get a handle on (something)__ To have a firm, clear understanding or determination of something.  
 __get hell__ To receive the brunt of another’s anger, often through scolding.  
 __get into it__ __2__ To engage in a verbal or physical altercation with someone. _I can’t believe you got into it with the biggest kid in your class._ _I was on a flight recently when the woman next to me got into it with the flight attendant._  
@@ -227,6 +234,7 @@ __go to the dogs__
 __grit__  
 __gut check__  
 __hands off__  
+__highways and byways__  
 __HMU__ Hit me up.  
 __hoopla__  
 __hope springs eternal__  
@@ -247,6 +255,7 @@ __in the thick of it__
 __in the works__ :two::hammer:  
 __Irish goodbye__ (See also _French leave_.) A hasty exit made without saying farewells to anybody.  
 __Jack and Jill suite__ (Jack and Jill bedroom suite) A bedroom suite composed of two bedrooms of similar size and a bathroom, where the bathroom is accessed through both bedrooms, and both bedrooms access the rest of the establishment/house/hallway.  
+__jump the sharp__  
 __just desserts__ :dart::astonished:  
 __just like that__ :three::hammer: ((just) like this/that)  
 __just saying__ :two::hammer:  
@@ -342,6 +351,7 @@ __lay (someone) to rest__
 __lay (something) at the feet of (someone)__ To make or hold someone, especially a group of people, responsible for something. _With every other department losing money each year, the managers have laid the company’s success at the feet of our team._  
 __lay bare (something)__ :two: To divulge, explain, or reveal something not previously known publicly.  
 __lay down and die__ To quit; to give up hope or ambition. _We might have had an unexpected loss in the playoffs, but that doesn’t mean this team is ready to lay down and die!_  
+__lead foot__  
 __leer at__  
 __let alone__  
 __level up__  
@@ -356,6 +366,7 @@ __like crazy__ With great intensity or speed. _Ugh, these mosquito bites are itc
 __like hell__ :two::hammer:  
 __like I have a choice__ The idiom “like I have a choice” is typically used to express a sense of resignation or frustration about a situation where the speaker feels they have no real options or alternatives. It often conveys sarcasm, suggesting that the speaker is being forced into a decision or action without any genuine freedom to choose differently.  
 __like no other__ Like nothing or no one else, as to highlight someone’s or something’s unique and important qualities. _Performing in front of an audience gives me an adrenaline rush like no other, man._  
+__like peas and carrots__  
 __like rats abandoning a sinking ship__ With great haste and having only personal well-being in mind. (Typically said of people who begin abandoning something or someone that is failing or about to fail.) _I knew the business was doomed when employees started quitting en masse, like rats abandoning a sinking ship._  
 __like the back of (one’s) hand__ A common English expression used to describe something that a person knows extremely well or is very familiar with.  
 __like there were no tomorrow__ Very rapidly and eagerly; without restraint or thought (i.e., as if there won’t be another opportunity, so one must do something as much or as quickly as possible). _He must have been starving, because Jonathan started wolfing down his food like there were no tomorrow!_  
@@ -364,6 +375,7 @@ __liminal__ _adj_ /ˈlɪmɪnəl/
 __line in the sand__ A figurative boundary that someone or some group refuses to cross or beyond which no further advance or compromise is accepted. (Used especially in the phrase “draw a line in the sand.”) _The allocation of this new tax to pay for building schools has become a line in the sand for the governor’s administration._  
 __lip to lip__ :two: The idiom “lip to lip” typically refers to a kiss that involves direct contact between the lips of two people. This expression is often associated with romantic or intimate contexts, emphasizing the closeness and emotional connection between the individuals involved.  
 __liquid courage__ _slang_ The decrease in timidity or inhibition that comes from imbibing alcoholic beverages.  
+__litmus test__ __2__ A test that uses a single indicator to prompt a decision.  
 __live on a shoestring__ To live within a very tight or limited financial budget.  
 __live up to (something)__ :two::hammer:  
 __living impaired__ Dead. (Pseudo-politically correct slang used for humorous effect.) _The boss has ordered a hit on the stool pigeon, so make sure he’s living impaired by the end of the day._  
@@ -435,6 +447,7 @@ __make as though__ To behave as if; to pretend or make it appear that. _Mark’s
 __make fast work of (someone or something)__ __1__ To deal with, finish, or dispose of someone or something very quickly or handily. _We’ll make fast work of this project now that you’ve joined the team._ __2__ To consume something quickly. _I was so hungry that I made fast work of that steak._  
 __make game of (someone or something)__ To ridicule, mock, or tease someone or something; to make fun of someone or something. _I really don’t appreciate you making game of my disability like that._  
 __make good on (something)__ :two: To fulfill an obligation, such as keeping a promise or paying a debt. _Tom made good on his pledge to donate $1,000. Bill refused to make good on his promise._  
+__make great strides__ To make significant progress or advances.  
 __make ground__ To become more successful, popular, important, or accepted. _The opposition to vaccinating children, while still a definite minority, has been making ground in recent years._  
 __make heavy going of (something)__ To make something harder or more laborious to do, especially more than is usual or necessary. _The bill was passed two years ago, but the government has made heavy going of implementing the law at a local level._  
 __make inroads__ :two::hammer:  
@@ -503,6 +516,7 @@ __narrative__ The way in which a particular person or situation is being portray
 __narrow the gap__  
 __near and dear to (one)__  
 __neat and tidy__ (neat and clean)  
+__neat__  
 __neck and neck__  
 __need (something) (about) as much as (one) needs a hole in the head__ To have absolutely no need or use for something. _I’m perfectly happy having a cell phone that just makes phone calls—I need a fancy new smartphone about as much as I need a hole in the head._  
 __need to be done__ To be required to be completed or acted upon.  
@@ -516,6 +530,7 @@ __nice and (something)__ :two::hammer:
 __nice to hav__  
 __no accident__ Something done deliberately. _It is no accident that the assistant he hired is so good-looking._  
 __no big deal__ :two::hammer:  
+__no frills__  
 __no hard feelings__ :es: sin rencores  
 __no question about it__  
 __nom nom nom__ (om nom nom nom)  
@@ -540,6 +555,7 @@ __now that I think about it__
 __now that you’re mentioning it__  
 __nowhere to be found__ Unable to be discovered; completely gone or vanished.  
 __nowhere to be sound__  
+__nuke the fridge__  
 __numb out__  
 __number cruncher__  
 __nurse (one’s) drink__ To consume one’s beverage, especially alcohol, rather slowly, either as a means of conserving it or to avoid getting drunk.  
@@ -623,6 +639,7 @@ __point being__
 __point the finger at (one)__  
 __pomp and circumstance__ Celebration accompanied by traditional formalities and ceremony. _Please, there’s no need for all this pomp and circumstance. I’m just an ordinary guest who has come to enjoy the performance like everyone else._  
 __pot shot__  
+__potayto, potahto__ A negligible, trivial, or unimportant difference, distinction, or correction.  
 __potshot__ A sharp criticism; a wild shot of criticism. (Usually with _take_.) _Please stop taking potshots at me!_  
 __pour cold water on (something)__  
 __pour fuel on the fire__  
@@ -634,6 +651,7 @@ __pray to the enamel god__
 __pray to the porcelain god__  
 __pressing matters__ Issues or concerns that require immediate attention or action. These are typically urgent situations that cannot be delayed and often involve important decisions or responses.  
 __pull rank (on one)__  
+__pun intended__ Used to acknowledge that what one has just said, or what one is about to say, could be viewed as a pun.  
 __push (one’s) buttons__  
 __put (one’s) money where (one’s) mouth is__ To do, live up to, or follow through on something one talks about, threatens, or promises, especially (but not always) when it involves spending money.  
 __put (someone) through the wringer__  
@@ -647,6 +665,8 @@ __rec room__ _US and Canadian_ A room in a house used by the family for relaxati
 __red light camera__  
 __red-handed__  
 __revel in (something)__ To be extremely happy or celebratory about something; to relish something.  
+__rip off__  
+__rip-off__ :smiling-imp:  
 __rise to (something)__ :dart: To increase one’s effort in response to a challenging situation. _If you’re going to lead this team, you’ve got to rise to the challenge and start motivating them._  
 __roll out of bed__ The phrase “roll out of bed” typically means to get out of bed in a casual or lazy manner, often implying that the person is not fully awake or is in a hurry. It can also suggest a relaxed or informal approach to starting the day.  
 __ruckus__ A large, uproarious commotion. _There was a ruckus out in the streets, so I went out to investigate._  
@@ -684,6 +704,7 @@ __sleep in__
 __sleep like a rock__ To experience a very deep and restful sleep; to sleep soundly.  
 __sleeper hit__ Something, especially a film, that achieves sudden and unexpected acclaim or success after an initial period of relative obscurity or middling results. _Thanks to a brilliantly subtle social media marketing strategy, coupled with highly relevant current events, the film has recently surged in popularity and become something of a sleeper hit._  
 __slice of the pie__  
+__sliders__ Slang term for White Castle hamburgers. Sliders are small and the actual hamburger patties have holes in them.  
 __slip up__ __1__ _v_ To blunder; to make a mistake or an error. _I think I slipped up and sent the check to the wrong address._  
 __slippery path__ A situation or course of action that is fraught with difficulties, risks, or potential negative consequences.  
 __slow on the uptake__ Stupid or dimwitted; slow or unable to understand something. _Jim’s a little slow on the uptake, so you might want to check that he’s following your instructions._  
@@ -700,6 +721,7 @@ __smoldering__ The act of accessing your deep, inner, and molten sexuality and s
 __smooch__  
 __smooth over__  
 __snaffle up__ :dart: __1__ To quickly snatch or steal something, especially furtively or surreptitiously. (In each usage, a noun or pronoun can be used between “snaffle” and “up.”) _He snaffled up the note that fell out of her school bag and slipped it into his papers as inconspicuously as possible._ __2__ By extension, to take possession of something for oneself very eagerly or greedily. _The antique dealer snaffled up the rare vintage car that had been sitting in the farmer’s barn for three decades._ __3__ To devour something greedily or ravenously; to gobble something up. _I threw a piece of bread to the birds on the grass, and they snaffled it up in the blink of an eye._ __4__ By extension, to consume some form of media very eagerly or avidly. _I was obsessed with science fiction as a kid, and I snaffled up anything and everything to do with it that I could find._  
+__snake eyes__ The roll of two.  
 __snatch (someone) from the jaws of death__ To rescue someone at the last moment from near or certain death.  
 __snazzy__ Particularly elegant, dazzling, classy, or fancy in appearance. _Wow, that’s a snazzy new suit you’ve got on! Big meeting today or something?_ _She runs one of the snazziest clubs in town._  
 __sneak peek__  
@@ -752,6 +774,7 @@ __spoil for something__ _You are spoiling for a fight._ :es: te estás buscando 
 __spoofing__ :two::smiling_imp: The practice of stealing, or attempting to steal, personal information over the phone or on the internet by pretending to be someone or something that legitimately requires such details.  
 __spur of the moment__  
 __square off__  
+__squeal on (one)__ To inform a figure of authority about someone else’s crime, wrongdoing, or transgression.  
 __squiggle__ :dart: Any writing that is sloppy to the point of illegibility. _I’d share my notes with you, but I don’t think you’d understand my squiggles._  
 __stakeout__  
 __stalk out__ To leave (some place) in a haughty, stiff, or threatening manner.  
@@ -881,6 +904,7 @@ __tighten the purse strings__ To become less liberal with or more controlling of
 __till the cows come home__ See _until the cows come home._  
 __time and time again__  
 __toe-to-toe__  
+__top notch__ The absolute best. (Hyphenated before a nominal.)  
 __train on (someone or something)__ _The blaster was trained on the door._  
 __trap__ __1__ _slang_ One’s mouth. _Keep your trap shut._  
 __try and help__ The phrase “try and help” means to make an effort to assist someone or to offer support in a particular situation. It implies a willingness to provide aid, even if the outcome is uncertain. The phrase can suggest that the person is not only willing to help but is also actively attempting to do so, regardless of whether they are guaranteed to succeed. It is often used in informal contexts.  
@@ -913,10 +937,12 @@ __what’s done is done__ :dart: There’s no use worrying or stressing about so
 __What’s the big deal?__ Why is this such a major or significant issue? Why are you having such an extreme reaction?  
 __what’s the occasion?__ The idiom “what’s the occasion?” is typically used to inquire about the reason for a special event, celebration, or unusual behavior that seems out of the ordinary. It’s a friendly way to express curiosity about something that appears more formal or festive than usual.  
 __whisper (something) around__ To spread gossip, rumors, or secrets around (some place or group of people) in a secretive, circumspect manner.  
+__white knuckle something__ To survive something threatening through strained endurance, that is to say, holding on tight. _The flight from New York was terrible. We had to white knuckle the entire flight._  
 __whitewash__  
 __who’s who__ _A who’s who guide._  
 __whoops__ _informal_ An exclamation of surprise used in response to a mistake or moment of clumsiness.  
 __why on earth__  
+__wildcat strike__ A strike begun by workers spontaneously or without union approval.  
 __wind up__ __1__ To come or bring to a finish; end: _when the meeting wound up; wind up a project._  
 __winner take all__ A competition in which the victor is granted all possible benefits, accolades, prizes, etc. Hyphenated if used before a noun as a modifier. _How about one last round of darts, winner take all?_  
 __winnow out__  
