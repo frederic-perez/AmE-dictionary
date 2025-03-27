@@ -310,7 +310,7 @@ __afoul__ _adj_ :two::hammer:
 __afresh__ _adv_ Once more; anew; again: _They had to start afresh._  
 __African American__ _n_ _As many as one third of the cowboys on the great cattle drives were African American._  
 __Afrikaans__ _n_ A language that developed from 17th-century Dutch and is an official language of South Africa.  
-__aft__ _adj, adv_ :nine: At, in, toward, or close to the stern of a vessel or the rear of an aircraft or spacecraft. _Syn_ abaft, astern _He ended up in the aft gun turret._ _Aft compartment._ :es: en popa  
+__aft__ _adj, adv_ :nine::m: At, in, toward, or close to the stern of a vessel or the rear of an aircraft or spacecraft. _Syn_ abaft, astern _He ended up in the aft gun turret._ _Aft compartment._ :es: en popa  
 __after-dark__ _adj_ Occurring in the hours after nightfall—always used before a noun after-dark activities. _An after-dark stroll._ _After-dark entertainment._  
 __afterburner__ _n_  
 __aftereffect__ _n_ :two::hammer: (aftereffects)  
@@ -461,7 +461,7 @@ __alleged__ _adj_ /əˈlɛdʒd, əˈlɛdʒ ɪd/
 __allegedly__ _adv_ :five: /əˈlɛdʒɪdlɪ/ __1__ Reportedly; supposedly: _payments allegedly made to a former colleague._ __2__ _sentence modifier_ It is alleged that.  
 __allegory__ _n_ A visible symbol representing an abstract idea. _Syn_ emblem _The blindfolded figure with scales is an allegory of justice._  
 __allergens__  
-__alleviate__ _vt_ :four::hammer: /uh-LEE-vee-ayt/  
+__alleviate__ _vt_ :five: /uh-LEE-vee-ayt/ To ease a pain or a burden.  
 __alleviative__ _adj_ Moderating pain or sorrow by making it easier to bear. _Syn_ lenitive, mitigative, palliative _After the blacksmith burned his hand, he applied an alleviative salve to lessen the searing pain._  
 __alley-oop__ _n_  
 __alleyway__ _n_ A narrow passage between buildings.  
@@ -535,7 +535,7 @@ __ambisinister__ _adj_ Clumsy or unskillful with both hands.
 __ambit__ _n_ __1__ Sphere or scope, as of influence. _Syn_ range  
 __ambitious__ _adj_ :two::hammer:  
 __ambivalence__  
-__ambivalent__ _adj_ :four: /am-BIV-uh-lunt/ Someone described as _ambivalent_ has or displays very different feelings (such as love and hate) about someone or something at the same time. Having mixed feelings or contradictory ideas about something or someone.  
+__ambivalent__ _adj_ :five: /am-BIV-uh-lunt/ Someone described as _ambivalent_ has or displays very different feelings (such as love and hate) about someone or something at the same time. Having mixed feelings or contradictory ideas about something or someone.  
 __ambivert__ _adj_ A person who is intermediate between an extrovert and an introvert.  
 __amble__ _v_ :seven::hammer: (ambled, ambling) _Giraffes amble along the savannah._  
 __ambulate__ _v_ :two: To walk from place to place; move about.  
@@ -690,8 +690,8 @@ __ant hill__ _n_
 __antacid__ _n_ :pencil2:  
 __antagonize__ _v_  
 __antanaclasis__ _n_ :two::hammer:  
-__ante__ _n_ :seven::hammer: _It just ups the ante in the game._ _He upped the ante._ _The new Hero4 Black ups the ante in a big way._ _Burt amps up the ante._  
-__antebellum__ _adj_ :two: Of or during the period before a war, esp the American Civil War: _the antebellum South._  
+__ante__ _n_ :eight::hammer: /ˈæn ti/ _It just ups the ante in the game._ _He upped the ante._ _The new Hero4 Black ups the ante in a big way._ _Burt amps up the ante._  
+__antebellum__ _adj_ :three: Of or during the period before a war, esp the American Civil War: _the antebellum South._ _Antebellum house._  
 __antecede__ _v_ Be earlier in time; go back further. _Syn_ antedate, forego, precede, predate _Even though it was found in a higher stratum, the stone tool antecedes the bronze one unearthed nearby._  
 __antecedent__ _n_ Anything that precedes something similar in time. _Syn_ forerunner _This era is one of heedless consumption, but perhaps you can blame that on its antecedent._  
 __antedate<sup>1</sup>__ _n_  
@@ -745,7 +745,7 @@ __apanthropy__ _n_ /ap-UHN-thruh-pee/ A desire to be away from people; a love of
 __Apart from that,__  
 __apartheid__ _n_ :mega:  
 __apartment__ _n_  
-__apathetic__ _adj_ :three::hammer:  
+__apathetic__ _adj_ :four: Feeling or showing little emotion.  
 __ape__ _v_ :two::hammer: (aped)  
 __Apennines__ _n pl_ :pencil2:  
 __apex__ _n_ The highest point. _Syn_ acme, vertex, peak  
@@ -788,7 +788,7 @@ __apparatus__ _n_ :two::hammer: _Campaign apparatus._
 __appeal<sup>1</sup>__ _v_ __1__ To make an earnest or urgent request, as for help.  
 __appeal<sup>2</sup>__ _n_ :two::hammer: _His case is unresolved on appeal._ _Vilma is appealing his suspension._  
 __appealing__  
-__appease__ _v_ :four: __1__ Pacify or placate (someone) by acceding to their demands. _Amendments have been added to appease local pressure groups._ _Syn_ conciliate, placate, pacify __2__ Assuage or satisfy (a demand or a feeling). _We give to charity because it appeases our guilt._ _Syn_ satisfy, fulfil, gratify  
+__appease__ _v_ :five: __1__ Pacify or placate (someone) by acceding to their demands. _Amendments have been added to appease local pressure groups._ _Syn_ conciliate, placate, pacify __2__ Assuage or satisfy (a demand or a feeling). _We give to charity because it appeases our guilt._ _Syn_ satisfy, fulfil, gratify  
 __appeasement__  
 __appeases__ _v_  
 __appellate__ _adj_ :three::hammer:  
@@ -809,7 +809,7 @@ __appraiser__ _n_ :es: tasador
 __appraisingly__  
 __appreciable__ _adj_ :two: /uh-PREE-shuh-bul/ _Appreciable_ describes things that can be perceived or measured.  
 __appreciate__ _v_ :pencil2: _I appreciate it._  
-__apprehend__ _v_ :pencil2::two::hammer:  
+__apprehend__ _v_ :pencil2::four::hammer:  
 __apprehension__ _n_ :six::pencil2: /ap-rih-HEN-shun/ _Apprehension_ most often refers to the fear that something bad or unpleasant is going to happen; it’s a feeling of being worried about the future. The word can also refer to seizure by legal process. _There is growing apprehension that next quarter’s profits will be lower than expected._  
 __apprehensive__ _adj_ :two::dart: Very nervous.  
 __apprentice<sup>1</sup>__ _n_ :three::hammer:  
@@ -924,7 +924,7 @@ __arresting__ _adj_ :two::hammer: _The arresting Gothic mansion of Mount Stuart.
 __arrive__ _v_ _He arrived in England in April 1376._  
 __arrogate__ _v_ /AIR-uh-gayt/ To take or claim (something, such as a right or a privilege) in a way that is not fair or legal. _The city council has accused the mayor of arrogating to himself decision-making authority that rightly belongs with the council._  
 __arrowroot__  
-__arson__ _n_  
+__arson__ _n_ :two: The crime of maliciously, voluntarily, and willfully setting fire to the building, buildings, or other property of another or of burning one’s own property for an improper purpose, as to collect insurance.  
 __artefact__  
 __Artemis__ _n_ :mega:  
 __artery__ _n_ :mega:  
@@ -976,7 +976,8 @@ __ask for__ _phr v_ :dart: To provoke a negative reaction.
 __ask out__ _phr v_ :two: To invite (someone) to a social engagement.  
 __ask over__ _phr v_ To invite people to your house.  
 __askance__ _adv_ :four::astonished: /uh-SKANSS/ __1__ With disapproval or distrust. _The children looked askance at their mother when she suggested they turn off their electronic devices and go play outside in the nice weather._ __2__ With a side-glance. _I glanced askance at this strange creature, and found him watching me with his queer, restless eyes._  
-__askew__ _adj_ /uh-SKYOO/ Askew means “out of line” or “not straight.” _Sam noticed the picture hanging on the wall was askew so she straightened it._  
+__askew<sup>1</sup>__ _adj_ /uh-SKYOO/ :two: Askew means “not straight” or “at an angle,” and can be used as both an adjective and an adverb. _The picture on the cabin wall was slightly askew._ _Sam noticed the picture hanging on the wall was askew so she straightened it._  
+__askew<sup>2</sup>__ _adv_ /uh-SKYOO/ _The picture was hung askew on the cabin wall._  
 __asp__ _n_  
 __asparagus spears__ _n_ _BrE_ /əˈspærəɡəs spɪəz/ The succulent young shoots _of Asparagus officinalis_, which may be cooked and eaten.  
 __aspect__ _n_ __5__ A side or surface facing in a particular direction: _the ventral aspect of the body._  
@@ -1010,7 +1011,7 @@ __assistance animal__ _n_
 __assizes__ _n_  
 __associate with__ _phr v_ To spend time with someone.  
 __assonance__ _n_ :two: Assonance is the repetition of the same vowel sound with different consonants. Example: She and Lee see the bees in the tree.  
-__assorted__ _adj_ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
+__assorted__ _adj_ :two::hammer: _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __assuage__ _v_ :eight: /uh-SWAYJ/ Assuage is a formal word most often used when the intensity of something painful or distressing, such as guilt or fear, is being lessened, as in “efforts to assuage their concerns.” Assuage can also mean “satisfy” or “alleviate.” To make (something burdensome or painful) less intense or severe. _Syn_ alleviate, relieve, palliate _Food, however, became scarce, and I often spent the whole day searching in vain for a few acorns to assuage the pangs of hunger._  
 __assurance__ _n_ :two::hammer:  
 __assuredness__ _n_  
@@ -1029,7 +1030,7 @@ __astride__ _adj, adv, prep_ :four::hammer:
 __astringent__  
 __astronomical unit__ _n_ A unit of length used in measuring astronomical distances within the solar system or other planetary system equal to the mean distance from Earth to the sun, approximately 150 million kilometers (93 million miles).  
 __Astroturfing__ _n_ /as-truh-turf-ing/ __1__ The act or process of installing Astroturf on a surface. __2__ (usually lowercase) A deception tactic in which an organized effort is used to create the illusion of widespread, spontaneous support for something. The goal of astroturfing is to give the false impression that something has wide support from a passionate grassroots campaign when in reality the effort is (secretly) motivated by a person or group’s personal interest.  
-__astute__ _adj_ :two::hammer: /uh-STOOT/  
+__astute__ _adj_ :three: /uh-STOOT/ Someone or something described as astute has or shows an ability to notice and understand things clearly. In other words, they are mentally sharp or clever. _Astute_ can also describe someone who is crafty or wily.  
 __asunder__ _adj, adv_ :seven: /uh-SUN-der/ Asunder is most often used as an adverb—often with a verb such as _tear_ or _pull_—to mean “apart” or “into pieces.” It is more rarely used as an adjective meaning “apart from each other,” as in “he stood with his legs wide asunder.” _A world torn asunder by evil and hate._  
 __asymptote__ _n_ /AS-im-toht/  
 __asyndeton__ _n_ The removal of conjunctions from a sentence. Example: Get in, cause a distraction, get out.  
@@ -1079,6 +1080,7 @@ __attainment__ _n_ :two::hammer: _Scientific attainments._
 __attend to__ _phr v_ To deal with something or someone.  
 __attend__ _v_ _Brenda attends her monthly appointment at the NIH Clinical Center._  
 __attendee__ _n_ :three::mega::hammer:  
+__attention economy__ _n_ The attention economy refers to the incentives of advertising-driven companies, in particular, to maximize the time and attention their users give to their product.  
 __attention span__ _n_ The length of time during which a person can concentrate on a subject or idea.  
 __attentive__ _adj_ :two::hammer:  
 __attenuate__ _adj_ :astonished: Reduced or weakened, as in strength, value, or virulence. _Syn_ faded, weakened _She placed a record in the player, and the attenuate tones of the old recording swept through the house._  
@@ -1126,7 +1128,7 @@ __aura__ _n_ /ˈɔr ə/
 __aurora__ _n_ An atmospheric phenomenon consisting of bands of light caused by charged solar particles following the earth’s magnetic lines of force.  
 __auscultation__ _n_  
 __auspices__  
-__auspicious__ _adj_ /aw-SPISH-us/  
+__auspicious__ _adj_ :two: /aw-SPISH-us/ Favorable; promising.  
 __Aussie__ _n_ _informal_  
 __austere__ _adj_ :two::hammer::mega:  
 __austerity__ _n_ /ɔˈstɛr ɪ ti/  
@@ -1185,7 +1187,7 @@ __awestruck__ _adj_
 __awfully__ _adv_ :mega::two::hammer: _That’s awfully nice, thanks._  
 __awhile__ _adv_ For a short time; for an interval of time: _Please stay awhile._ Not to be confused with: “a while” (a period of time): _He had to wait a while for the bus. It has been a while since they’ve seen each other._  
 __awl__ _n_ A pointed instrument for piercing small holes in leather, wood, etc.  
-__awry__ _adj, adv_ :nine::mega: /əˈraɪ/ /uh-RYE/ __1__ Away from the correct course; amiss: _The last minute changes caused our plans to go awry._ __2__ In a position that is turned or twisted toward one side; askew.  
+__awry__ _adj, adv_ :nine::m::mega: /əˈraɪ/ /uh-RYE/ __1__ Away from the correct course; amiss: _The last minute changes caused our plans to go awry._ __2__ In a position that is turned or twisted toward one side; askew.  
 __ax__  
 __axle__ _n_  
 __ayahuasca__ _n_ :five: A psychedelic brew made out of Banisteriopsis caapi vine alone or in combination with various plants.  
@@ -1202,6 +1204,7 @@ __Babar the elephant__
 __babblermouth__ _n informal_ A person who talks too much, often telling secrets to other people.  
 __baboon__ _n_ :two::hammer:  
 __babushka__ _n_ :two: __1__ A headscarf, folded triangularly and tied under the chin, traditionally worn by women in eastern Europe. __2__ An elderly Russian or Polish woman, especially one who is a grandmother.  
+__baby back ribs__ _n pl_ Pork ribs surrounded by lean meat taken from the back section of the rib cage.  
 __baby blue__ _n_ :camera:  
 __baby bump__ _n_ :astonished: The enlarged abdomen of a pregnant woman. _Dressing your baby bump._  
 __baby formula__ _n_ :three: (instant formula, formula) A manufactured food designed and marketed for feeding to babies and infants under 12 months of age. _Baby formula should be “ready-to-feed” or prepared using only filtered water or bottled water._  
@@ -1254,7 +1257,7 @@ __backslid__ _v_
 __backslide__ _v_ :two: To relapse into bad habits, sinful behavior, or undesirable activities.  
 __backsplash__ _n_ An upright surface or border, as of tile, that protects the wall behind a sink or stove. _A new tile backsplash._  
 __backstab__ _vt_ :smiling_imp:  
-__backstop__ _n_ (baseball)  
+__backstop__ _n_ :two::hammer: (baseball)  
 __backstory__ _n_  
 __backstreet__ _adj_  
 __backtrack__ _n_ :two::hammer:  
@@ -1305,6 +1308,7 @@ __baked__ _adj_ _Kevin is baked._
 __baker’s dozen__  
 __bakeware__ _n_ (Cookery) Dishes and other cooking utensils used for baking.  
 __baking soda__ _n_ Sodium bicarbonate.  
+__balaclava__ _n_  
 __bald-faced__ _adj_  
 __balderdash__  
 __baldric__ _n_ :camera: A belt, usually of ornamented leather, worn crossbody to support a sword or bugle. _Baldrics were very important to Wookiee culture; a Wookiee earned the right to wear a baldric after completing a hrrtayyk ceremony._  
@@ -1321,6 +1325,7 @@ __ball bearings__ _n_ :two::hammer:
 __ball boy__ _n_ (ball girl) _(in sport, esp tennis)_ A person who retrieves balls that go out of play.  
 __ball gag__ _n_ A bondage item that consists of a ball on a rope that is shoved into the victim’s mouth and tied tight. Supposedly it’s more effective at muffling yells.  
 __ball game__ _n_ _Take me out to the ball game._  
+__ball peen hammer__ _n_  
 __ball player__  
 __ball valve__ _n_  
 __balladeer__  
@@ -1330,6 +1335,7 @@ __ballerina flats__ _n_ _Syn_ ballet flats
 __ballet__ _n_ :mute:[balle~~t~~]  
 __ballistic__  
 __balloon__ _n_ :two::hammer: _The dog balloon is a fundamental sculpture in the art of balloon animals._ _Balloon-lined car dealership._  
+__ballot box__  
 __ballot stuffing__  
 __ballot__ _n_ :three: /ˈbæl ət/ [:scroll: from _ballotta_, the Italian word for “little ball”: when voting was done by the people of Venice during the Renaissance, secrecy was assured by the use of little colored or marked balls] A slip of paper on which a voter marks his or her choice; voting in general. _A lot of guys who did steroids are on the ballot._ _Over half of general practices in England would quit primary care networks, indicative ballot shows._  
 __ballpark<sup>1</sup>__ _n_ :three::hammer: _He got a job as a ballpark vendor._  
@@ -1426,7 +1432,7 @@ __baron__
 __baronial__ _adj_ Impressive in appearance. _Syn_ imposing, noble, stately  
 __barrack__ _n_ :two::astonished: _(often barracks)_ __1__ A building or group of buildings used to house military personnel. :es: cuartel __2__ A large, unadorned building used for temporary occupancy.  
 __barracks__ _n pl_ :two: /ˈbærəks/ __1__ A building or group of buildings used to accommodate military personnel.  
-__barrage<sup>1</sup>__ _n_ :eight::mega: __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
+__barrage<sup>1</sup>__ _n_ :nine::mega: __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
 __barrage<sup>2</sup>__ _v_  
 __barranca__ _n_ (barranco)  
 __barre__  
@@ -1449,13 +1455,14 @@ __basal state__ _n_ A resting metabolic state early in the morning after a minim
 __base__ _adj_ __1__ Having or showing a lack of decency; contemptible, mean-spirited, or selfish. _This film is base, moronic, insulting, and vulgar._ __2a__ Being a metal that is of little value. __b__ Containing such metals: _base coins._  
 __baseline__ _n_ :two::hammer: _We can permanently raise our happiness baseline._  
 __basement__  
-__bash<sup>1</sup>__ _n_ :two::hammer: _A company anniversary bash._ _A pre-movie bash of magical proportions._  
+__bash<sup>1</sup>__ _n_ :three::hammer: __2__ _slang_ A celebration; a party. _A company anniversary bash._ _A pre-movie bash of magical proportions._  
 __bash<sup>2</sup>__ _v_ :two::hammer:  
 __bashful__ _adj_ :two::hammer:  
 __basically__ _adj_ :mega: /ˈbeɪsɪklɪ/  
 __basil__ _n_ :es: albahaca  
-__basin__ _n_ :two::hammer:  
+__basin__ _n_ :three::hammer::camera:  
 __basing__  
+__bask__ _v_  
 __basket case__  
 __basketful__ _n_ __1__ A sufficient quantity to fill a basket; the amount contained in a basket. __2__ Any considerable quantity. _Teachers once received apples by the basketful._ _Ed scored great goals by the basketful._  
 __basketry__ _n_  
@@ -1507,6 +1514,7 @@ __beachhead__ _n_ :five::pencil2::hammer: __2__ A first achievement that opens t
 __bead__ _n_ __4__ :astonished: (Firearms, Gunnery, Ordnance & Artillery) A small metallic knob acting as the sight of a firearm.  
 __beadledom__ _n_ A gratuitous or officious display or exercise of authority, as by petty officials.  
 __beady__ _adj_ :two::hammer:  
+__beagle__ _n_  
 __beaker__ _n_ _A beaker of coffee._  
 __beam<sup>1</sup>__ _n_ _A wooden beam._  
 __beam<sup>2</sup>__ _v_ To smile radiantly or happily.  
@@ -1520,7 +1528,7 @@ __beanstalk__ _n_ :two::hammer: (beanstalks) _Jack and the Beanstalk._
 __bear down__ _v_  
 __bear hug__  
 __bear__ _v_ :four::hammer: _Second Amendment: The right of the people to keep and bear arms._ _A well-beloved lady who had died at the age of 27 after bearing seven children._  
-__bearing<sup>1</sup>__ _n_ :nine: __1__ The manner in which one conducts or carries oneself, including posture and gestures: _a person of dignified bearing._ _His casual bearing._ __2__ The act, capability, or period of producing or bringing forth. __3__ Something that is produced; a crop. __4__ The act of enduring or the capacity to endure. __5__ :dart: Reference or relation (usu. fol. by _on_): _It has no bearing on the problem._ _Those issues have no bearing on our situation._ _It does not have a bearing on whether or not he will be our coach next year._ _The video game should have had absolutely no bearing on his behavior in the real world._ _Those numbers do not have much bearing on performance over time._ __6a__ A supporting part of a structure. __b__ The area of contact between a bearing member, as a beam, and a pier, wall, or other underlying support. __7__ The support and guide for a rotating, oscillating, or sliding shaft, pivot, or wheel. __8__ (Often, bearings) Direction: _The pilot radioed the plane’s bearings._ __9__ A horizontal direction expressed in degrees east or west of a true or magnetic north or south direction. __10__ A device on a heraldic field.  
+__bearing<sup>1</sup>__ _n_ :nine::m: __1__ The manner in which one conducts or carries oneself, including posture and gestures: _a person of dignified bearing._ _His casual bearing._ __2__ The act, capability, or period of producing or bringing forth. __3__ Something that is produced; a crop. __4__ The act of enduring or the capacity to endure. __5__ :dart: Reference or relation (usu. fol. by _on_): _It has no bearing on the problem._ _Those issues have no bearing on our situation._ _It does not have a bearing on whether or not he will be our coach next year._ _The video game should have had absolutely no bearing on his behavior in the real world._ _Those numbers do not have much bearing on performance over time._ __6a__ A supporting part of a structure. __b__ The area of contact between a bearing member, as a beam, and a pier, wall, or other underlying support. __7__ The support and guide for a rotating, oscillating, or sliding shaft, pivot, or wheel. __8__ (Often, bearings) Direction: _The pilot radioed the plane’s bearings._ __9__ A horizontal direction expressed in degrees east or west of a true or magnetic north or south direction. __10__ A device on a heraldic field.  
 __bearing<sup>2</sup>__ _adj_  
 __beastie__ _n_ _informal_ An animal, especially one regarded with jocular affection.  
 __beastly<sup>1</sup>__ _adj_ :dart: __1__ _informal_ Unpleasant; disagreeable; nasty: _beastly weather._  
@@ -1535,7 +1543,7 @@ __beaver__ _n_
 __bebop__ _v_  
 __because__  
 __beck__ _n_ A gesture of beckoning or summons.  
-__beckon__ _v_ :five: (beckons, beckoning) /ˈbɛk(ə)n/ (West Germanic origin; related to beacon.) __1__ Make a gesture with the hand, arm, or head to encourage or instruct someone to approach or follow. _Syn_ gesture, signal, wave _Miranda beckoned to Adam._ __2__ Appear attractive or inviting. _Syn_ entice, invite, tempt, coax, lure _The moorland and miles of coastal path beckon many walkers._  
+__beckon__ _v_ :six: /ˈbɛk(ə)n/ (West Germanic origin; related to beacon.) __1__ Make a gesture with the hand, arm, or head to encourage or instruct someone to approach or follow. _Syn_ gesture, signal, wave _Miranda beckoned to Adam._ __2__ Appear attractive or inviting. _Syn_ entice, invite, tempt, coax, lure _The moorland and miles of coastal path beckon many walkers._  
 __becquerels__  
 __bedaub__ _v_ To smear all over with something thick, sticky, or dirty. _Syn_ besmear _The hunter bedaubed himself with mud as a form of camouflage._  
 __bedazzled__  
@@ -1565,6 +1573,7 @@ __beef__ _n_ :two: __2__ _informal_ Human muscle; brawn. _He is trying to build 
 __beefcake__ _n_ _slang_ (vs cheesecake) Men displayed for their muscular bodies, esp in photographs.  
 __beefy__ _adj_ :four: __1__ Of or like beef. __2__ _informal_ Muscular; brawny; thickset; heavy. __3__ Obese.  
 __Beehive State__ _n_ :four: Utah.  
+__beehive__  
 __beeline__  
 __Beelzebub__ _n_  
 __beep-de-beep__  

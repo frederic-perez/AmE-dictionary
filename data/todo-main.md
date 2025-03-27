@@ -25,36 +25,6 @@ __aesthetic__ _adj_ Having to do with the appreciation of beauty.
 __affidavit__ _n_  
 __affordable__ _adj_ :pencil2:  
 __afoot__ _adj, adv_  
-__aft__ _adj, adv_ :three::hammer:  
-__alleviate__ _v_ To ease a pain or a burden.  
-__ambivalent__ _adj_ Simultaneously feeling opposing feelings; uncertain.  
-__ante__ _n_ /ˈæn ti/  
-__antebellum house__  
-__apathetic__ _adj_ Feeling or showing little emotion.  
-__appease__ _v_  
-__apprehend__ _v_ :two::hammer:  
-__arson__ _n_ The crime of maliciously, voluntarily, and willfully setting fire to the building, buildings, or other property of another or of burning one’s own property for an improper purpose, as to collect insurance.  
-__askew<sup>1</sup>__ _adj_ /uh-SKYOO/ Askew means “not straight” or “at an angle,” and can be used as both an adjective and an adverb. _The picture on the cabin wall was slightly askew._  
-__askew<sup>2</sup>__ _adv_ /uh-SKYOO/ _The picture was hung askew on the cabin wall._  
-__assorted__ _adj_  
-__astute__ _adj_ /uh-STOOT/ Someone or something described as astute has or shows an ability to notice and understand things clearly. In other words, they are mentally sharp or clever. _Astute_ can also describe someone who is crafty or wily.  
-__attention economy__ _n_ The attention economy refers to the incentives of advertising-driven companies, in particular, to maximize the time and attention their users give to their product.  
-__auspicious__ _adj_ Favorable; promising.  
-__awash__ _adj, adv_  
-__awry__ _adj, adv_  
-__baby back ribs__ _n pl_ Pork ribs surrounded by lean meat taken from the back section of the rib cage.  
-__backstop__ _n_  
-__balaclava__ _n_  
-__ball peen hammer__ _n_  
-__ballot box__  
-__barrage__ _n_  
-__bash__ _n_ __2__ _slang_ A celebration; a party.  
-__basin__ _n_ :camera:  
-__bask__ _v_  
-__beagle__ _n_  
-__bearing__ _n_ :two::hammer: (ball-bearing)  
-__beckon__ _v_  
-__beehive__  
 __begrime__ _vt_ Make soiled, filthy, or dirty. _Syn_ bemire, colly, dirty, soil _Mother warned me not to begrime my clothes while playing outside._  
 __bellower__ _n_  
 __benevolent__ _adj_ Well-meaning; generous.  
