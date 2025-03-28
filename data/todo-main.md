@@ -1,35 +1,5 @@
 __A pager__ _n_ A simple wireless communications device that receives text messages or alerts.  
 __ab ovo__ _adv_ From the beginning.  
-__abhor__ _vt_ :two::hammer:  
-__abhorrent__ _adj_  
-__ablutions__ _n pl_  
-__abode__ _n_ :two: __1__ A dwelling place; a home. __2__ The act of abiding; a sojourn.  
-__abound__ _vi_  
-__abstract__ _n_ Tot concrete.  
-__abstruse__ _adj_ Difficult to understand. _Syn_ deep, recondite  
-__abut__ _v_  
-__abutting__ _v_ :two::hammer:  
-__accessory__ _adj, n_ :mega: /ækˈsɛs ə ri/ /ak-ses–uh-ree/  
-__accoutrement__ _n_  
-__acerbic__ _adj_ Sharp or biting, as in character or expression. _Syn_ blistering, caustic, acid, vitriolic, acerb, acrid, sulfurous, virulent, bitter  
-__acquiesce__  
-__actor__ _n_ :two: __2__ One who takes part; a participant.  
-__ad-lib<sup>3</sup>__ _n_  
-__ad-lib<sup>4</sup>__ _v_ :two: /AD-LIB/ To ad-lib something, such as a performance or part of a performance, is to improvise it—that is, to make up words or music instead of saying, singing, or playing something that has been planned. _The actor forgot his lines, so he ad-libbed._  
-__adamant__ _adj, n_  
-__addlepated__ _adj_ /AD-ul-pay-tud/ Someone described as addlepated is mixed-up or confused. _Addlepated_ can also be used as synonym of eccentric.  
-__admonish__ _v_ /ad-MAH-nish/ To admonish someone is to express warning or disapproval towards them, or to urge them to do something.  
-__adorbs__ _adj_ /ə-ˈdȯrbz/ _informal_ Extremely charming or appealing. _Syn_ adorable  
-__adversary__ _n_ :mega: /ˈæd vərˌsɛr i/ /ˈædvəsərɪ/ /AD-ver-sair-ee/ _Adversary_ is an enemy or opponent.  
-__aesthetic__ _adj_ Having to do with the appreciation of beauty.  
-__affidavit__ _n_  
-__affordable__ _adj_ :pencil2:  
-__afoot__ _adj, adv_  
-__begrime__ _vt_ Make soiled, filthy, or dirty. _Syn_ bemire, colly, dirty, soil _Mother warned me not to begrime my clothes while playing outside._  
-__bellower__ _n_  
-__benevolent__ _adj_ Well-meaning; generous.  
-__bevel__ _vt_ To cut at an inclination that forms an angle other than a right angle: _beveled the edges of the table._  
-__bidding__ _n_  
 __Big Mouth Billy Bass__ _n_ An animatronic singing prop, representing a largemouth bass, invented by Gemmy Industries on December 16, 1998; sold beginning January 1, 1999; and popular in the early 2000s.  
 __billet-doux__ _n_ (_n pl_ billets-doux) A love letter.  
 __black eyed peas__ _n pl_ (Notice that black eyed peas aren’t peas!)  
