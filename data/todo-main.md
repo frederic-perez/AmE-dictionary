@@ -1,5 +1,9 @@
 __A pager__ _n_ A simple wireless communications device that receives text messages or alerts.  
 __ab ovo__ _adv_ From the beginning.  
+__abduct__ _vt_  
+__accursed__ _adj_ Under a curse. _Syn_ maledict  
+__archetype__ _n_ /AHR-kih-type/ _Archetype_ refers to someone or something that is seen to be a perfect example. It is also a word for the original pattern or model of which all things of the same type are representations or copies.  
+__atherectomy__ _n_ Surgical removal of atherosclerotic plaque from an artery using a catheter fitted with a cutting device.  
 __Big Mouth Billy Bass__ _n_ An animatronic singing prop, representing a largemouth bass, invented by Gemmy Industries on December 16, 1998; sold beginning January 1, 1999; and popular in the early 2000s.  
 __billet-doux__ _n_ (_n pl_ billets-doux) A love letter.  
 __black eyed peas__ _n pl_ (Notice that black eyed peas aren’t peas!)  
@@ -90,6 +94,7 @@ __dearth__ _n_
 __deliver__ _v_  
 __demagogue__ _n_ (demagog)  
 __demonstrator__  
+__derelict__ _adj_ /DAIR-uh-likt/ _Derelict_ is a formal word that describes something that is no longer cared for or used by anyone. It can also describe someone who is negligent or who fails to do what needs to be done.  
 __detail__ _n_ __7a__ A group of military personnel assigned to a particular duty, usually a fatigue duty. __b__ The duty assigned: _garbage detail._  
 __detainment__  
 __didactics__ _n_ The activities of educating or instructing; activities that impart knowledge or skill. _Syn_ education, instruction, pedagogy, teaching  
@@ -126,6 +131,7 @@ __eggplant__ _n_
 __egoism__ _n_ Concern for your own interests and welfare. _Syn_ self-centeredness, self-concern, self-interest  
 __egregious__ _adj_ Conspicuously bad or offensive.  
 __elated__ _adj_  
+__elucidate__ _v_ /ih-LOO-suh-dayt/ To elucidate something is to make it clear or easy to understand.  
 __elusive__ _adj_ :mega: /ɪˈlu sɪv/  
 __emaciated__  
 __embolden__ _vt_ To foster boldness or courage in. _Syn_ encourage  
@@ -177,6 +183,7 @@ __fire grate__ _n_ (firegrate, fire-grate) A grate used to hold the fuel in dome
 __firebomb<sup>1</sup>__ _n_ A bomb used to start a fire; an incendiary bomb.  
 __firebomb<sup>2</sup>__ _v_ To attack with firebombs.  
 __firebrand__  
+__first-in-class__  
 __firsthand__  
 __fish__ _v_ __3__ To seek something in a sly or indirect way: _fish for compliments._  
 __fishwife__ _n_ :es: verdulera  
@@ -545,6 +552,7 @@ __nappy__ _n_ _Chiefly British_ A diaper.
 __nascent__  
 __nefarious__  
 __nematode__ _n_ (nematode worm, roundworm) A type of worm belonging to the phylum Nematoda. Several nematodes are parasites on animals and humans and cause disease.  
+__neologism__ _n_ :dart: /nee-AH-luh-jiz-um/ _Neologism_ can refer either to a new word or expression or to a new meaning of an existing word. _I love seeing all the slangy neologisms that pop up on social media every year._  
 __nerve-racking__ _adj_ (nerve-wracking)  
 __netherworld__  
 __neurovascular__ _adj_ :two: /ˌnʊərəʊˈvæskjʊlə/ Of, relating to, or affecting both the nerves and the blood vessels.  
@@ -602,6 +610,7 @@ __occasion__
 __off-ramp__ _n_ :camera:  
 __off-season__ _n_ The season when travel is least active and rates are lowest.  
 __ogle__  
+__oligarchy__ _n_  
 __oligopoly__  
 __one-stop__ _adj_  
 __onslaught__ _n_ :two::hammer::mega: /ˈɒnˌslɔt, ˈɔn-/  
@@ -768,6 +777,7 @@ __quail<sup>1</sup>__ _n_ :es: codorniz
 __quail<sup>2</sup>__ _vi_  
 __Quaker__ _n_ /ˈkweɪkə/  
 __quandary__ _n_ :two: A state of uncertainty or perplexity.  
+__quango__ _n_ An organization or agency that is financed by a government but that acts independently of it.  
 __quark__ _n_ /KWORK/ _Quark_ is a word used in physics to refer to any one of several types of very small particles that make up matter.  
 __quarry__ _n_ :two::hammer:  
 __quaternary__ _adj_ Coming next after the third and just before the fifth in position or time or degree or magnitude. _Syn_ fourth  
@@ -781,6 +791,7 @@ __quip<sup>2</sup>__ _v_
 __quirk__ _v_ Twist or curve abruptly. _She quirked her head in a peculiar way._  
 __quiver<sup>1</sup>__ _vi_  
 __quiver<sup>2</sup>__ _n_ __1__ A portable case for holding arrows.  
+__rabid__ _adj_ :astonished: Marked by excessive enthusiasm for and intense devotion to a cause or idea. _Syn_ fanatical, overzealous  
 __rabies__ _n_ /ˈreɪ biz/ _Rabies is normally fatal if untreated and it’s a horrible death._  
 __racket__ _n_ :two: __1__ A loud distressing noise.  
 __racketeer__ _n_ :smiling_imp::two: One who obtains money by an illegal enterprise usually involving intimidation.  
@@ -830,6 +841,8 @@ __rear<sup>3</sup>__ _vt_
 __rear<sup>4</sup>__ _vi_ __1__ To rise on the hind legs, as a horse. __2__ To rise high in the air; tower.  
 __rebate__ _n_ A refund of a fraction of the amount payable or paid, as for goods purchased in quantity; discount. :es: reembolso  
 __rebuff__ _v_  
+__rebuke<sup>1</sup>__ _vt_  
+__rebuke<sup>2</sup>__ _n_ :dart: A reprimand or scolding.  
 __rebuttal__ _n_  
 __recapitulation__ _n_ __2__ A summary or concise review.  
 __receptacle outlet__ _n_ An electrical outlet where one or more receptacles are installed.  
@@ -1065,12 +1078,14 @@ __tier__ _n_
 __timorous__ _adj_ Timid; fearful.  
 __tin foil__  
 __tinker__ _v_  
+__tornado__ _n_ [Although tornados and hurricanes may have winds that are hundreds of miles an hour, a tornado is restricted to land, and comparatively small (usually traveling 10 or 20 miles); a hurricane forms over water in tropical oceans, and can be as much as a thousand times larger than a tornado.] A violent destructive whirling wind accompanied by a funnel-shaped cloud that progresses in a narrow path over the land.  
 __tortoise__ _n_ (_vs_ turtle)  
 __transfixed__  
 __transitory__ _adj_ Short-lived; temporary.  
 __transmigrate__ _v_ Be born anew in another body after death. _Syn_ reincarnate  
 __transpire__ _v_ :astonished /tran-SPYRE/ _Transpire_ is a formal verb that means “to happen,” or in other words “to take place or occur.” It can also mean “to come to light” or “to become known,” as in “It transpired that they had met previously.” In botany, to transpire is to give off or exude watery vapor especially from the surfaces of leaves.  
 __tricked-out__ _adj_ _Tricked-out car._  
+__triviality__ _n_ Something of small importance. _Syn_ small beer, trivia, trifle  
 __trounce__ _v_ Come out better in a competition, race, or conflict. _Syn_ beat, vanquish, crush, shell _Australia trounced France by sixty points to four._  
 __truckload__  
 __truncheon__ _n_  
@@ -1079,14 +1094,18 @@ __turtle__ _n_ (_vs_ tortoise)
 __turtleneck__ _n_  
 __tweed__ _n_ _Tweed jacket._  
 __tweezers__ _n pl_ _Flat tip conventional tweezers._  
+__unalienable__ _adj_ (inalienable) Impossible to take away or give up.  
 __unwarranted__ _adj_ Having no justification; groundless: _unwarranted interference._ _Syn_ baseless  
 __unwieldy__ _adj_ :astonished: _The suddenly unwieldy craft._ :es: difícil de manejar; rígido  
+__up to__ _prep_ As far, or as much, as. _He counted up to 100._ _Up to now, the work has been easy._  
 __upbeat__ _adj_  
 __upfold__ _vt_ To fold up.  
 __upkeep__ _n_ :dart:  
 __uvet__ _n_  
 __vaunted__ _adj_ :dart: Praised more than deserved. _Vaunted Jedi Master Luke Skywalker._  
 __verdant__ _adj_ Green with vegetation; covered with green growth. _Syn_ green, lush  
+__verisimilar__ _adj_ :astonished::pencil2:  
+__verisimilitude__ _n_  
 __vet__ _v_  
 __videophile__ _n_ :mega: One with an avid interest in watching television or videos or in making video recordings.  
 __vie__ _v_  
@@ -1110,6 +1129,7 @@ __whetstone__ _n_
 __whey__ _n_ :dart::mega: /ʰweɪ, weɪ/ The watery part of milk that separates from the curds, as in the process of making cheese. :es: suero  
 __whim__ _n_  
 __whimper__ _v_  
+__whimsical__ _adj_ Determined by chance or impulse or whim rather than by necessity or reason. _Syn_ capricious, impulsive  
 __whirl__ _v_  
 __wicker__ _n_ _Wicker baskets._  
 __wide-eyed__ _adj_ :dart: __2__ Innocent; credulous. _Luke was a wide-eyed kid._  

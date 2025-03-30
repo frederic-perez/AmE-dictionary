@@ -70,6 +70,7 @@
 - __Tod__ The name Tod is derived from the Old English word “todde,” which means “fox.” This animal association has contributed to the name’s popularity, as foxes are often associated with cleverness, agility, and adaptability.
 - __Tom__ Mostly used as a diminutive of Thomas.
 - __Uma__ A given name in various cultures. In India, it is the name of the Hindu goddess, who is more commonly known as Parvati. In Sanskrit the word _umā_ can further mean “tranquillity,” “splendour,” “fame” and “night.”
+- __Wes__ A given name, often a short form of the name Wesley but can also be used as a standalone name. Wes is typically used for males, though it can be used for anyone.  
 - __Zac__ Zack (and variant spellings Zach, Zac, Zak, Zakk) is sometimes a given name, but more often it is a hypocorism or short form of another given name, usually Zachary in the English speaking world, which derives from Zechariah.
 - __Zev__ Ze’ev (Hebrew: זְאֵב / זאב zeév; alternative spelling: Zeev, Zev, Zeeb, Zeb, Seff), is a name of Hebrew origin which means wolf. The given name is a masculine form used among Ashkenazi Jews. It is a Biblical name, adapted from a reference to Benjamin in Genesis as a “wolf that raveneth.”
 - __Zig__

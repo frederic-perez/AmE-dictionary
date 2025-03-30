@@ -54,6 +54,7 @@ __a man/woman on a mission__ A person who is fiercely determined to do or get wh
 __a match made in hell__ An extremely ill-suited pairing of people or things; a match that will result in a particularly negative or disastrous outcome. (A play on the more common phrase “a match made in heaven,” meaning the opposite.) _I can’t understand how John and Samantha are still together—they seem like a match made in hell to me!_  
 __a matter of time__ An inevitability or eventuality; something that is or seems sure to happen at some point in the future. _With your reckless spending behavior, it’s just a matter of time before you go broke._  
 __a mile away__  
+__a morning person__ Someone who is more active and alert in the early hours of the morning than later in the day; an early riser. _I tried dating a morning person once, but since I like to sleep in late, it didn’t really work out._  
 __a new coat of paint__ The phrase “a new coat of paint” is an idiom that means giving something a fresh appearance or updating it, often to make it look more appealing or modern. It can refer to physically painting an object or structure, but it’s also used metaphorically to describe revitalizing or improving something, like a project, idea, or even a person’s style. It’s about making something look new again without necessarily changing its core essence.  
 __a no-go__  
 __a piece of advice__  
@@ -83,6 +84,7 @@ __attaboy__
 __Backhanded compliment__ A remark that appears to be a compliment but also contains an insult or a negative implication. It often undermines the praise given, making it ambiguous and potentially hurtful.  
 __be a cakewalk__  
 __be hard on (one)__  
+__be more trouble than it’s worth__ To not be important, useful, or beneficial enough to justify the effort or difficulty that something requires. _With all the repairs this car will need to be road-worthy, it’s going to be more trouble than it’s worth!_  
 __be ripe for the picking__ To be in an ideal position or at the perfect stage to be utilized, benefited or profited from, taken advantage of, exploited, etc. (Alludes to fruit being at the right stage to be harvested.)  
 __be the shit__ _rude slang_ To be very good, excellent, cool, etc.  
 __beer goggles__  
@@ -137,6 +139,7 @@ __Debbie Downer__
 __diddly__ _n_ :dart: __1__ Nothing; anything at all (when used in negative statements). _I have to admit that I know diddly when it comes to computers._ __2__ A small or worthless amount: _His advice wasn’t worth diddly to me._  
 __dig (something)__ _slang_ To understand, approve of, or enjoy something. _I really dig this music, man!_  
 __dig and poke around__ The idiom “dig and poke around” generally means to search or investigate something thoroughly by looking through various items or areas, often in a somewhat casual or unstructured manner.  
+__dig deep__ __1__ To exert oneself mentally or physically. _I was so exhausted when overtime started that I really had to dig deep to keep playing._ __2__ To spend a lot of money on something. _We had to dig deep after our construction budget ballooned beyond what we had planned._  
 __dis__ See _diss_.  
 __disabuse (someone or oneself) of (something)__  
 __discretion is the better part of valor__ _proverb_  
@@ -212,6 +215,7 @@ __fancy that__ Used to comment on something that is hard to imagine. _The baby s
 __fancy__ _informal_ __2__ To have a desire for (something).  
 __fantabulous__  
 __fart jokes__ An extremely crude and low-class type of “comedy,” only appreciated by distasteful individuals, who normally are average high-school jocks, or an extremely stupid person.  
+__feel the heat__  
 __for good__  
 __French tickler__ :camera:  
 __gee__ __2__ _exclam._ Wow! (An abbreviation of Jesus!, although not always recognized as such. Usually Gee!) _Golly gee, do I have to?_  
@@ -234,6 +238,7 @@ __go to the dogs__
 __grit__  
 __gut check__  
 __hands off__  
+__have more than one string to (one’s) bow__ To have multiple viable options or alternatives available in the event that the current course of action, circumstance, opportunity, etc., does not work out. _With all this varied job experience under my belt, I have more than one string to my bow if this particular career path isn’t to my liking._  
 __highways and byways__  
 __HMU__ Hit me up.  
 __hoopla__  
@@ -646,6 +651,7 @@ __pour fuel on the fire__
 __pour gas/gasoline on the fire__  
 __power dynamics__  
 __power move__ A strategic action or decision made by an individual or group to assert dominance, control, or influence in a situation. It often implies a calculated maneuver intended to demonstrate strength, authority, or superiority, particularly in competitive environments such as business, politics, or social interactions.  
+__power play__  
 __practice makes perfect__ :two::hammer:  
 __pray to the enamel god__  
 __pray to the porcelain god__  
@@ -661,6 +667,7 @@ __put the screws on something__
 __put to good use__ (put (something) to good use) To use something in a way that will be beneficial or have significant results. Employ to the best advantage, as in _I’m sure this dictionary will be put to good use._  
 __put to the test__ (put (someone or something) to the test)  
 __rack up__  
+__ramp up__  
 __rec room__ _US and Canadian_ A room in a house used by the family for relaxation and entertainment In full recreation room.  
 __red light camera__  
 __red-handed__  
@@ -711,6 +718,7 @@ __slow on the uptake__ Stupid or dimwitted; slow or unable to understand somethi
 __slowly and surely__  
 __slowly but surely__  
 __slugfest__  
+__small beer__ :dart: In modern usage, “small beer” is a common idiomatic expression that means something that is considered insignificant, unimportant, or of little consequence.  
 __small print__ (fine print) An important part of a document that is not easily noticed because of the smallness of the printing. _You should have read the small print before signing the contract._  
 __smarty-pants__  
 __smell a rat__ To suspect an instance of betrayal, deception, or corruption.  
@@ -724,7 +732,7 @@ __snaffle up__ :dart: __1__ To quickly snatch or steal something, especially fur
 __snake eyes__ The roll of two.  
 __snatch (someone) from the jaws of death__ To rescue someone at the last moment from near or certain death.  
 __snazzy__ Particularly elegant, dazzling, classy, or fancy in appearance. _Wow, that’s a snazzy new suit you’ve got on! Big meeting today or something?_ _She runs one of the snazziest clubs in town._  
-__sneak peek__  
+__sneak peek__ :two::hammer:  
 __sneak up (on someone or something)__  
 __snitch__  
 __snooch to the nooch__ An expression deemed only to those situations worthy of a stoner’s complete gratification. Similar to when people say “Hell ya” or “Shitzchea” all terms used extensively to show great pleasure in a certain action or on hearing an idea. A term even when yelled, is said in a very calm and layed back manner. _A: “Yo, I just found your dimebag behind the couch.” B: “Snooch to the Nooch...”_  
@@ -888,6 +896,7 @@ __the lowdown__ Important information or facts about something. _He gave me the 
 __the march of time__ The steady, unstoppable advancement of time.  
 __the meat of the matter__ The most important, basic, or fundamental essence or element(s) of an issue, problem, or matter at hand. _Thank you all for attending this staff meeting. Before we get to the meat of the matter, I’d like to assure each of you that your job is secure._  
 __the story goes (that)__  
+__there is (a) method to (one’s) madness__ There is a specific, rational purpose in what one is doing or planning, even though it may seem crazy or absurd to another person. _I know you don’t understand my motivation for this decision, but after the dust settles, you’ll see that there is a method to my madness._  
 __this hour__ The phrase “this hour” typically refers to the current hour in which we are presently. It can be used to describe the time frame of the hour that is currently happening or the events occurring within it.  
 __this time around__ A phrase often used to refer to the current occasion or situation in comparison to previous ones. It implies that there have been similar instances in the past, and it suggests a sense of awareness or reflection on how things might be different now.  
 __thread the needle__  
