@@ -2,6 +2,8 @@ __A pager__ _n_ A simple wireless communications device that receives text messa
 __ab ovo__ _adv_ From the beginning.  
 __abduct__ _vt_  
 __accursed__ _adj_ Under a curse. _Syn_ maledict  
+__adduct<sup>1</sup>__ _vt_ _A hyper-adducted right radial artery approach._  
+__adduct<sup>2</sup>__ _n_  
 __archetype__ _n_ /AHR-kih-type/ _Archetype_ refers to someone or something that is seen to be a perfect example. It is also a word for the original pattern or model of which all things of the same type are representations or copies.  
 __atherectomy__ _n_ Surgical removal of atherosclerotic plaque from an artery using a catheter fitted with a cutting device.  
 __Big Mouth Billy Bass__ _n_ An animatronic singing prop, representing a largemouth bass, invented by Gemmy Industries on December 16, 1998; sold beginning January 1, 1999; and popular in the early 2000s.  
@@ -53,6 +55,8 @@ __connive__ _vi_
 __conscript__ _n_ One compulsorily enrolled for service, especially in the armed forces; a draftee.  
 __consumer sentiment__ _n_ Another word for _consumer confidence_.  
 __contemporary__ _adj_ Current, modern; from the same time.  
+__contingent<sup>1</sup>__ _adj_ :astonished:  
+__contingent<sup>2</sup>__ _n_  
 __contractor__ _n_  
 __conundrum__ _n_  
 __conviction__ _adj_ A fixed or strong belief.  
@@ -223,10 +227,14 @@ __forklift__ _n_ :camera:
 __form factor__ _n_  
 __fragile__ _adj_ :mega:  
 __fraught__  
+__freemium<sup>1</sup>__ _n_ :dart: /ˈfriːmiəm/ A way of doing business, especially on the internet, in which basic services are provided free of charge while more advanced features must be paid for.  
+__freemium<sup>2</sup>__ _adj_ Relating to a business model that offers basic services free, but charges a premium for advanced or special features. _It’s a freemium model: Attract users with free services, then charge them a premium for special features._  
 __freighter__ _n_  
 __frond__ _n_  
+__frontline__ _adj, n_  
 __fruitless__ _adj_ :two::hammer:  
 __funnel__ _v_ :dart: __6__ :dart: To concentrate or focus or be concentrated or focused in a particular direction: _they funnelled their attention on the problem._  
+__futile__ _adj_ /ˈfyut l, ˈfyu taɪl/  
 __galoshes__  
 __galvanize__ _vt_  
 __gape__  
@@ -358,6 +366,7 @@ __jiggle__ _v_ :dart: To move or rock lightly up and down or to and fro in an un
 __jinx__ _vt_  
 __jitterbug__  
 __jobless claims__  
+__jodhpurs__ _n_ Wide-hipped riding pants of heavy cloth, fitting tightly from knee to ankle. _Syn_ riding breeches  
 __Jolt Cola__ _n_ Jolt Cola was a carbonated soft drink targeted towards students and young professionals, stressing its use as a stimulant in a similar manner as energy drinks. Its slogan reads “All the sugar and twice the caffeine!’  
 __jostle__ _v_  
 __jot<sup>1</sup>__ _n_ :dart: /dʒɒt/ The smallest bit; iota. _(used with a negative)_ A little bit (in phrases such as _not to care (or give) a jot_).  
@@ -379,6 +388,7 @@ __kickstand__ _n_ __1__ A swiveling metal bar for holding a bicycle, motorcycle,
 __kindle__  
 __king cake__ _n_ A sweet ring-shaped cake traditionally with a symbolic bean or figurine of the infant Jesus inside that is served from the Epiphany to Shrove Tuesday.  
 __kingpin__  
+__kip__ _n_ __5__ (kip-up) A maneuver in gymnastics, martial arts, and similar sports in which a person moves from lying on the back directly to a standing position by thrusting the legs upward and pushing off with hands placed palms-down near the ears.  
 __klaxon__ _n_ (claxon) [:scroll: From Klaxon, a trademark for a loud electric horn] A type of loud horn formerly used on motor vehicles.  
 __knack__ _n_  
 __Knight Templar__ _n_  
@@ -426,6 +436,7 @@ __liminal__ _adj_ :two: /LIM-uh-nul/ _Liminal_ is a formal word most often used 
 __limpid__ _adj_ /LIM-pid/ _Limpid_ describes things that are perfectly transparent or clear, or that are simple in style.  
 __linchpin__ _n_ /LINCH-pin/  
 __linguine__ _n_ (linguini)  
+__lissom__ _adj_ Moving and bending with ease. _Syn_ lithe, lithesome, supple, sylphlike, svelte, slender  
 __listless__ _adj_ :two::hammer::mega: /ˈlɪst lɪs/  
 __lithe__ _adj_  
 __livid__ _adj_ :astonished::two: /LIV-id/ Livid means “very angry, enraged, or furious.” It may also describe things having a dark purplish or reddish color.  
@@ -484,6 +495,7 @@ __marquee__ _adj_ :astonished: Exceptionally popular or skilled: _The team is ho
 __marshal__ _v_  
 __marshmallow__ _n_ :pencil2:  
 __mascara__ _n_ _A residue of mascara was sticky on her eyelashes._  
+__mash-up__ _n_ :dart: (mashup) An audio or video recording that is a composite of samples from other recordings.  
 __masquerade__ _n_  
 __masseuse__  
 __master class__ _n_  
@@ -613,9 +625,11 @@ __ogle__
 __oligarchy__ _n_  
 __oligopoly__  
 __one-stop__ _adj_  
+__onerous__ _adj_ :dart: __1__ Troublesome or oppressive; burdensome.  
 __onslaught__ _n_ :two::hammer::mega: /ˈɒnˌslɔt, ˈɔn-/  
 __ornate__ _adj_ Elaborately decorated.  
 __ostentatious__ _adj_ Describing a pretentious display.  
+__otter__ _n_ :es: nutria  
 __overhaul__  
 __overtones__ _n pl_ :dart: Suggestions; hints. _There were overtones of discontent in his speech._  
 __oxycodone__ _n_  
@@ -630,6 +644,7 @@ __parlay__ _v_
 __pavilion__ _n_ /pəˈvɪl yən/  
 __peace treaty__ _n_ An agreement to end fighting or conflict.  
 __pecking order__  
+__penchant__ _n_ /PEN-chunt/ _Penchant_ refers to a strong liking for something, or a strong tendency to behave in a certain way. It is usually used with for. _My penchant for mathematics helped me become an engineer._  
 __penitent__ _adj_ Expressing remorse for one’s misdeeds.  
 __pensive__ _adj_ Deeply or seriously thoughtful. _Syn_ contemplative, meditative, musing, pondering, reflective, ruminative, brooding, broody  
 __peppermint__ _n_ __1__ Herb with downy leaves and small purple or white flowers that yields a pungent oil used as a flavoring. :es: menta __2__ Red gum tree of Tasmania. __3__ a candy flavored with peppermint oil. _Syn_ peppermint candy  
@@ -1013,6 +1028,8 @@ __slipcovers__ _n_
 __slop__ _n_  
 __slug__  
 __slugger__ _n_  
+__slushy<sup>1</sup>__ _n_ A brain freeze inducing, tongue staining frozen drink popular with children. They’re often sold at theme parks and games arcades.  
+__slushy<sup>2</sup>__ _adj_ __1__ Being or resembling melting snow.  
 __smitten__ _adj_  
 __smote__ _v_ Past tense and a past participle of smite.  
 __snappy__ _adj_  
@@ -1049,6 +1066,7 @@ __starboard<sup>2</sup>__ _adj_ :two: On the right-hand side as one faces forwar
 __starboard<sup>3</sup>__ _adv_ :two: To or toward the right-hand side as one faces forward.  
 __stardom__ _n_  
 __stash__ _n, vt_  
+__stasis__ _n_  
 __statutory__  
 __stirrup pants__ _n_  
 __stoic__ _adj_ Indifferent to pleasure or pain; impassive.  
@@ -1060,6 +1078,8 @@ __stretcher__ _n_
 __stride__ _n_  
 __stubborn__ _adj_ :pencil2::mega:  
 __stud__ _n_ _Stud with nuts._  
+__stymie<sup>1</sup>>__ _vt_  
+__stymie<sup>2</sup>>__ _n_  
 __suave__ _adj_ /swɑːv/  
 __subsidize__ _v_  
 __subsidy__ _n_  
@@ -1095,6 +1115,8 @@ __turtleneck__ _n_
 __tweed__ _n_ _Tweed jacket._  
 __tweezers__ _n pl_ _Flat tip conventional tweezers._  
 __unalienable__ _adj_ (inalienable) Impossible to take away or give up.  
+__uncomely__ _adj_ Not good-looking or attractive.  
+__untoward__ _adj_ /un-TOH-erd/ _Untoward_ is a formal word that describes something that is improper or inappropriate, or that is adverse or unfavorable. _The medication is safe and effective, with no known untoward side effects._  
 __unwarranted__ _adj_ Having no justification; groundless: _unwarranted interference._ _Syn_ baseless  
 __unwieldy__ _adj_ :astonished: _The suddenly unwieldy craft._ :es: difícil de manejar; rígido  
 __up to__ _prep_ As far, or as much, as. _He counted up to 100._ _Up to now, the work has been easy._  
@@ -1130,6 +1152,7 @@ __whey__ _n_ :dart::mega: /ʰweɪ, weɪ/ The watery part of milk that separates 
 __whim__ _n_  
 __whimper__ _v_  
 __whimsical__ _adj_ Determined by chance or impulse or whim rather than by necessity or reason. _Syn_ capricious, impulsive  
+__whimsy__ _n_ (whimsey)  
 __whirl__ _v_  
 __wicker__ _n_ _Wicker baskets._  
 __wide-eyed__ _adj_ :dart: __2__ Innocent; credulous. _Luke was a wide-eyed kid._  

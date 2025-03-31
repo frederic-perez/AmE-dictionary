@@ -55,6 +55,8 @@ __a match made in hell__ An extremely ill-suited pairing of people or things; a 
 __a matter of time__ An inevitability or eventuality; something that is or seems sure to happen at some point in the future. _With your reckless spending behavior, it’s just a matter of time before you go broke._  
 __a mile away__  
 __a morning person__ Someone who is more active and alert in the early hours of the morning than later in the day; an early riser. _I tried dating a morning person once, but since I like to sleep in late, it didn’t really work out._  
+__a mother hen__ A person who looks out for the welfare of others, especially to a fussy, intrusive, or overprotective degree. _Jenny can be a bit of a mother hen when we’re out at the bars. I wish she would just relax a little and let us have a good time!_  
+__a motor mouth__ A person who talks incessantly or irrepressibly. _Jake is such a motor mouth that I find it exhausting talking to him!_  
 __a new coat of paint__ The phrase “a new coat of paint” is an idiom that means giving something a fresh appearance or updating it, often to make it look more appealing or modern. It can refer to physically painting an object or structure, but it’s also used metaphorically to describe revitalizing or improving something, like a project, idea, or even a person’s style. It’s about making something look new again without necessarily changing its core essence.  
 __a no-go__  
 __a piece of advice__  
@@ -90,6 +92,7 @@ __be the shit__ _rude slang_ To be very good, excellent, cool, etc.
 __beer goggles__  
 __belly up__ Dad.  
 __big ass (something)__ A slang term for referring to something large. _Yo bernie, are you plannin’ a big ass party?_  
+__big name__  
 __black eye__  
 __bomb(shell)__ A stunning piece of news that is dropped without warning.  
 __booger__  
@@ -126,6 +129,7 @@ __come to pass__
 __come to terms__  
 __come to think of it__ :dart: _set phrase_ Used when one has had a sudden realization. _Yeah, come to think of it, Dave was at the party, too._  
 __comes with the job__  
+__comparison is the thief of joy__ [:scroll: The phrase is often attributed to Theodore Roosevelt, although the exact wording may vary] An expression that suggests that comparing oneself to others can lead to feelings of inadequacy and dissatisfaction. The idea behind it is that when people focus on what others have or achieve, they may overlook their own accomplishments and happiness.  
 __conspiracy theory__ _n_ The belief that the government or a covert organization is responsible for an event that is unusual or unexplained, esp when any such involvement is denied.  
 __cook up__  
 __cop a feel__ To feel on a woman’s breasts or buttox; usually when she is not expecting it. Often followed up by a slap in the face.  
@@ -134,6 +138,7 @@ __crow’s nest__ A platform at or near the top of a mast of a ship used as a lo
 __cut (someone) some slack__ To make an allowance for (someone), as in allowing more time to finish something.  
 __cut ties with (someone)__ :dart::two: To end or discontinue a relationship—romantic or otherwise—with someone or some group. _Mary cut all ties with her family when she moved to New York City._  
 __dang__  
+__dawn on__ (dawn upon)  
 __deadpan__  
 __Debbie Downer__  
 __diddly__ _n_ :dart: __1__ Nothing; anything at all (when used in negative statements). _I have to admit that I know diddly when it comes to computers._ __2__ A small or worthless amount: _His advice wasn’t worth diddly to me._  
@@ -216,6 +221,7 @@ __fancy__ _informal_ __2__ To have a desire for (something).
 __fantabulous__  
 __fart jokes__ An extremely crude and low-class type of “comedy,” only appreciated by distasteful individuals, who normally are average high-school jocks, or an extremely stupid person.  
 __feel the heat__  
+__flame out__ __1__ To be very unsuccessful or fail. _That guy flamed out really quickly—his NBA career lasted only a few months._  
 __for good__  
 __French tickler__ :camera:  
 __gee__ __2__ _exclam._ Wow! (An abbreviation of Jesus!, although not always recognized as such. Usually Gee!) _Golly gee, do I have to?_  
@@ -597,6 +603,7 @@ __on a lark__ On a whim or fancy; for fun or as a joke.
 __on a limb__ ((out) on a limb) In a position that lacks evidence, certainty, or support. The image is that of being situated on a branch of a tree, away from the support of the trunk. _Her hypothesis is really out on a limb—the facts don’t support it at all._  
 __on a roll__  
 __on a shoestring__  
+__on the lookout for__ Looking or searching for (something or someone). _An avid shopper, she was always on the lookout for sales._ _The police are on the lookout for two men who escaped from custody yesterday._  
 __on the lookout__ :three: Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
 __on the move__  
 __on the pill__ _slang_ Currently and regularly using birth-control pills (oral contraceptives that inhibit ovulation to prevent conception).  
@@ -668,6 +675,7 @@ __put to good use__ (put (something) to good use) To use something in a way that
 __put to the test__ (put (someone or something) to the test)  
 __rack up__  
 __ramp up__  
+__rat race__ Fierce competition to maintain or improve one’s position in the workplace or social life.  
 __rec room__ _US and Canadian_ A room in a house used by the family for relaxation and entertainment In full recreation room.  
 __red light camera__  
 __red-handed__  
@@ -867,7 +875,7 @@ __take pot luck__ (take potluck)
 __take potshots at (someone)__ A sharp criticism; a wild shot of criticism. _Please stop taking potshots at me!_  
 __take sides__ :two: To choose a person or party whom one supports, defends, or agrees with in an argument.  
 __take something with a grain of salt__ (_BrE_ take something with a pinch of salt)  
-__take stock (of something)__  
+__take stock (of something)__ :two::hammer:  
 __take the fall (for someone or something)__  
 __take the stage__  
 __take umbrage__ :two::hammer:  
@@ -921,6 +929,7 @@ __turn on a dime__
 __turn the page__  
 __turn the tables__ To change or reverse something dramatically.  
 __under the table__ :smiling-imp:  
+__unvarnished truth__ The total, unadulterated truth; frank honesty not diluted or softened in any way by omission or embellishment.  
 __up one’s game__ The idiom “up one’s game” means to improve one’s performance, skills, or efforts in a particular area, often in response to competition or the need to meet higher standards.  
 __up the ante__ (raise the ante)  
 __walk of shame__  
