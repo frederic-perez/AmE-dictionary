@@ -14,6 +14,7 @@ __ACT__ _n_ A trademark for a standardized college entrance examination. A colle
 __ADD__ Attention deficit disorder.  
 __ADHD__ :four: Attention deficit hyperactivity disorder. _College students hopped up on ADHD drugs._  
 __AED__ Automated external defibrillator.  
+__AF__ As f***. _This is where it gets WILD AF._  
 __AG__ Attorney general.  
 __ASMR__ Autonomous sensory meridian response. This term refers to a tingling sensation often accompanied by a calming, pleasurable feeling.  
 __assoc.__ __1__ Associate. __2__ Associated. __3__ Association. _Housing assoc._  

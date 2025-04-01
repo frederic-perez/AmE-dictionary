@@ -9,6 +9,7 @@ __atherectomy__ _n_ Surgical removal of atherosclerotic plaque from an artery us
 __Big Mouth Billy Bass__ _n_ An animatronic singing prop, representing a largemouth bass, invented by Gemmy Industries on December 16, 1998; sold beginning January 1, 1999; and popular in the early 2000s.  
 __billet-doux__ _n_ (_n pl_ billets-doux) A love letter.  
 __black eyed peas__ _n pl_ (Notice that black eyed peas aren’t peas!)  
+__blasé__ _adj_ /ˈblɑːzeɪ/  
 __bleachers__  
 __blitz__ _n_ (blitzkrieg)  
 __blow fly__ _n_ (blowfly) Large usually hairy metallic blue or green fly; lays eggs in carrion or dung or wounds.  
@@ -89,12 +90,17 @@ __curator__ _n_ One who manages or oversees, as the administrative director of a
 __curfew__ _n_ /KER-fyoo/  
 __curtain call__ _n_ The appearance of performers or a performer at the end of a performance to receive applause from the audience.  
 __cut-off date__ _n_ The last date on which it is possible to do something. _The cut-off date for registering is yet to be announced._  
+__cynosure__ _n_ /ˈsaɪ nəˌʃʊər, ˈsɪn ə-/ /SYE-nuh-shur/ A cynosure is a person or thing that attracts a lot of attention or interest. As a proper noun, Cynosure may refer to the North Star or its constellation Ursa Minor. _He was the cynosure of all eyes as he walked into the room._  
 __dab__ _n_ __1__ A tiny amount. A small amount: _a dab of jelly._ _Syn_ bit, crumb, dash, dot, dram, drop, fragment, grain, iota, jot, minim, mite, modicum, molecule, ort, ounce, particle, scrap, scruple, shred, smidgen, speck, tittle, trifle, whit  
 __dabble__ _v_  
 __dacha__ _n_ A Russian country house or villa.  
+__damning__ _adj_ /ˈdæmɪŋ/ (of evidence or a report) Suggesting very strongly that someone is guilty of a crime or has made a serious mistake.  
 __daunting__ _adj_ Causing fear or discouragement; intimidating.  
+__de rigueur__ _adj_ /duh-ree-GUR/ _De rigueur_ is a formal adjective that describes things that are necessary if you want to be fashionable, popular, socially acceptable, etc.—in other words, things required by fashion, etiquette, or custom.  
 __deadpanned__ _adj_  
 __dearth__ _n_  
+__debt__ _n_ :mega: /dɛt/  
+__decrypter__ _n_ A person or a thing, such as an algorithm, program, or device, that decrypts.  
 __deliver__ _v_  
 __demagogue__ _n_ (demagog)  
 __demonstrator__  
@@ -114,7 +120,7 @@ __distil__ _v_
 __divers__ _adj_ /DYE-verz/ Numbering more than one. _The tri-county fair offers divers amusements for the whole family._  
 __doff__ _v_ /DAHF/ To doff a hat or other piece of clothing is to take it off. _They doffed their coats when they came inside the house._  
 __doggy dog__ _adj_ Eggcorn of dog eat dog.  
-__dollop__ _n_  
+__dollop__ _n_ :two::hammer:  
 __doubleheader__ _n_ __1__ _Sports_ Two games or events held in succession on the same program, especially in baseball.  
 __draconian__ _adj_  
 __dreadlocks__  
@@ -138,6 +144,7 @@ __elated__ _adj_
 __elucidate__ _v_ /ih-LOO-suh-dayt/ To elucidate something is to make it clear or easy to understand.  
 __elusive__ _adj_ :mega: /ɪˈlu sɪv/  
 __emaciated__  
+__embezzle__ _v_ To take (money, for example) for one’s own use in violation of a trust. _Syn_ defalcate, malversate, misappropriate, peculate  
 __embolden__ _vt_ To foster boldness or courage in. _Syn_ encourage  
 __emo__ _adj_ (often derogatory) Emotional; sensitive.  
 __emollient__ _n_ /ih-MAHL-yunt/ An emollient is something, such as a lotion, that softens or soothes.  
@@ -149,6 +156,7 @@ __entrenched__ _adj_ Established firmly and securely. _The entrenched power of t
 __entresol__ _n_ The floor just above the ground floor of a building. _Syn_ mezzanine  
 __eponymous__ _adj_  
 __escalator__ _n_ :camera:  
+__especially__ _adv_ _I’m not especially happy about it, no._  
 __evergreen__ _adj_ /EV-er-green/ _Evergreen_ in its figurative uses describes something, such as a plot, that retains its freshness or interest over a long period of time, or something, such as an issue or concern, that is universally and continually relevant. In botany, _evergreen_ describes foliage that remains green and functional through more than one growing season.  
 __exacerbate__ _vt_  
 __exculpate__ _v_ To free from guilt or blame.  
@@ -170,6 +178,7 @@ __fang__ _n_
 __fast-moving__ _adj_ _She died of a fast-moving cancer._  
 __faucet__ _n_ :camera:  
 __fault line__ _n_  
+__fave__ _adj, n_ /feɪv/ _informal_ Short for favorite.  
 __feint<sup>1</sup>__ _n_ /feɪnt/ __1__ A mock attack or movement designed to distract an adversary, as in a military manoeuvre or in boxing, fencing, etc. __2__ A misleading action or appearance. :es: finta  
 __feint<sup>2</sup>__ _vi_ To make a feint.  
 __feisty__ _adj_ :astonished: /FYE-stee/ _Feisty_ describes someone who has or shows a lively aggressiveness especially in being unafraid to fight or argue. In some regions of the US, _feisty_ may also be used as a synonym of _fidgety_, _quarrelsome_, or _frisky_. _Even her opponents admire her feisty spirit._  
@@ -217,6 +226,7 @@ __flinch__ _vi_ :es: estremecerse; encogerse
 __fling__ _v_ :two::hammer: (flung)  
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
 __flip-flops__ _n_  
+__flippant__ _adj_ /FLIP-unt/ Something described as flippant, such as behavior or a comment, is lacking in proper respect or seriousness.  
 __florid__ _adj_ Flowery or elaborate in style.  
 __flyer__ _n_ (flier)  
 __folk__ _n_  
@@ -230,6 +240,7 @@ __fraught__
 __freemium<sup>1</sup>__ _n_ :dart: /ˈfriːmiəm/ A way of doing business, especially on the internet, in which basic services are provided free of charge while more advanced features must be paid for.  
 __freemium<sup>2</sup>__ _adj_ Relating to a business model that offers basic services free, but charges a premium for advanced or special features. _It’s a freemium model: Attract users with free services, then charge them a premium for special features._  
 __freighter__ _n_  
+__frieze__ _n_  
 __frond__ _n_  
 __frontline__ _adj, n_  
 __fruitless__ _adj_ :two::hammer:  
@@ -238,8 +249,10 @@ __futile__ _adj_ /ˈfyut l, ˈfyu taɪl/
 __galoshes__  
 __galvanize__ _vt_  
 __gape__  
+__garble__ _v_ /GAR-bul/ To garble something, such as a word, name, message, etc., is to cause it to be unclear or distorted. This type of garbling can be the result of an accident, ignorance, or a transmission error. Garble can also mean “to so alter or distort as to create a wrong impression or change the meaning.”  
 __gawk__  
 __gawker__  
+__gentlefolk__ _n pl_  
 __giggle<sup>1</sup>__ _n_ A short, spasmodic laugh.  
 __giggle<sup>2</sup>__ _vi_ To laugh with repeated short, spasmodic sounds.  
 __giggle<sup>3</sup>__ _vt_ To utter while giggling.  
@@ -276,6 +289,7 @@ __haul__ _vt_
 __havoc__  
 __hiss__ _vt_ To say something in a quiet angry way. _“Shut up, Tom!” She hissed._  
 __hmm__ _vi_ To make a thoughtful humming noise.  
+__hobbit__ _n_ /HAH-bit/ A hobbit is a member of a fictitious peaceful and friendly race of small humanlike creatures that dwell underground.  
 __hobble<sup>1</sup>__ _n_  
 __hobble<sup>2</sup>__ _vi_  
 __hobble<sup>3</sup>__ _vt_  
@@ -283,6 +297,7 @@ __hot links__ _n_
 __huckster__ _n_  
 __hustler__ _n_  
 __hydrogen__ _n_ :mega:  
+__ibid__ _adv_ Ibidem.  
 __idealize__ _v_ To consider perfect.  
 __impartial__ _adj_ Not in favor of one side or the other; unbiased.  
 __imperious__ _adj_ Arrogantly domineering or overbearing.  
@@ -299,6 +314,7 @@ __inchoate__ _adj_ :two: /in-KOH-ut/ _Inchoate_ is a formal adjective and synony
 __incognito__ _n_ :mega:  
 __incumbent__  
 __indefatigable__ _adj_ /in-di-FAT-i-guh-buhl/ __1__ Incapable of being tired out. __2__ Persistently energetic or tireless, even in the face of challenges.  
+__indentured__ _adj_ :astonished: Required by contract to work for another for a certain period of time.  
 __indict__ _v_  
 __indigenous__ _adj_ /ɪnˈdɪdʒ ə nəs/ __1__ Originating in and characteristic of a particular region or country; native (often fol. by to): _plants indigenous to Canada; indigenous peoples of southern Africa._  
 __induction__ _n_ :es: incorporación  
@@ -404,6 +420,7 @@ __landlocked country__ _n_ (landlocked state) A sovereign state that does not ha
 __lard__  
 __largess__ _n_  
 __lariat__ _n_ :two::hammer:  
+__latecomer__ _n_  
 __Latin cross__ _n_ A cross with a shorter horizontal bar intersecting a longer vertical bar above the midpoint.  
 __laud__ _v_  
 __laudatory__ _adj_ Giving praise.  
@@ -556,6 +573,7 @@ __multilateralism__ _n_ The practice of promoting trade among several countries 
 __multimeter__ _n_ :two::camera::mega: /ˈmʌltɪˌmiːtə/ An instrument that combines an ammeter, an ohmmeter, a voltmeter, and occasionally other measurement or testing devices into one unit. :es: multímetro  
 __muttered__ _v_  
 __mythbuster__ _n_ A person who debunks misconceptions.  
+__nab__ _vt_  
 __nail clipper__ _n_ :two::camera: (also called nail clippers, a nail trimmer, a nail cutter or nipper type) A hand tool used to trim fingernails, toenails and hangnails. A lever-type nail clipper with a file.  
 __nail file__ _n_ A small flat file used for shaping and smoothing the fingernails and toenails.  
 __nameplate__ _n_ __1__ A plate or plaque, as on an office door, inscribed with a name.  
@@ -630,6 +648,7 @@ __onslaught__ _n_ :two::hammer::mega: /ˈɒnˌslɔt, ˈɔn-/
 __ornate__ _adj_ Elaborately decorated.  
 __ostentatious__ _adj_ Describing a pretentious display.  
 __otter__ _n_ :es: nutria  
+__outstrip__ _v_ Be or do something to a greater degree. _Syn_ outdo, outgo, outmatch, outperform, surpass, exceed, surmount _When the demand for concert tickets outstrips supply, scalpers can make a significant profit._  
 __overhaul__  
 __overtones__ _n pl_ :dart: Suggestions; hints. _There were overtones of discontent in his speech._  
 __oxycodone__ _n_  

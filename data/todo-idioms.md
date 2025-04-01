@@ -62,10 +62,11 @@ __a no-go__
 __a piece of advice__  
 __a slew of (something)__ A very large number or amount of something; a lot of something.  
 __a stiff upper lip__ The ability to remain stoic during difficult situations.  
+__a surefire way__  
 __a whole new ball game__ (a different ball game)  
 __a woman of her word__ A woman who can be expected to keep or follow through with her promises or intentions; a truthful, trustworthy, or reliable person. (Masculine: “man of his word.”) _Bob, I’m a woman of my word. If I tell you I’ll be at your house tomorrow morning at 10, then that’s when I’ll be there._  
 __abandon ship__  
-__about time__ ((it’s) (a)bout time)  
+__about time__ :two::hammer: ((it’s) (a)bout time)  
 __ace__  
 __against all odds__  
 __ahead of the curve__ :three::hammer:  
@@ -74,15 +75,18 @@ __all in all__
 __all shapes and sizes__  
 __all the more reason for (doing something)__ (all the more reason to (do something)) What has just been stated is an added reason or motivation to do something. With even better reason or cause for doing something. _If your crush likes basketball, that’s all the more reason for coming with me to the game tonight!_  
 __all the same__  
+__all things being equal__ :two: (other things being equal) In the event that all aspects of a situation remain the same.  
 __all told__ In total. This phrase can be applied to numerical sums or to the collective aspects of something. _I made a lot in tips this week—$300 all told._ _Yeah, it rained a lot during our vacation, but all told we had a great time._  
 __all too easy__  
 __all too soon__ The idiom “all too soon” means that something happened much earlier than expected or desired, often with a sense of regret or disappointment. It conveys the idea that an event occurred prematurely or that a positive experience ended quickly. “The holidays were over all too soon,” implies that the speaker wished the holidays had lasted longer. “Graduation came all too soon,” suggests that the speaker felt unprepared for the end of their schooling.  
 __and everything in between__ The idiom “and everything in between” refers to the entire range or spectrum of things, situations, or possibilities that fall between two extremes. It’s used to express inclusivity of a broad variety of elements within a certain category or context.  
 __as of yet__  
+__as we know it__ As it is now or has been for a long time; as we currently experience it.  
 __at bay__  
 __at one’s peril__ _somewhat formal_ Used to say that if one does something there could be bad consequences. _Restaurants that ignore the smoking ban do so at their peril._  
 __at the helm__  
 __attaboy__  
+__back to the salt mines__ :dart:  
 __Backhanded compliment__ A remark that appears to be a compliment but also contains an insult or a negative implication. It often undermines the praise given, making it ambiguous and potentially hurtful.  
 __be a cakewalk__  
 __be hard on (one)__  
@@ -118,6 +122,7 @@ __checks and balances__ :dart: Rules within a power structure that keep one pers
 __chew on this bone__  
 __chide (one) for (something)__ To reprimand or tease one about something.  
 __cleanup hitter__ In baseball, the cleanup hitter is the hitter who bats fourth in the lineup. Although the third man up is generally the hitter with the highest batting average, cleanup hitters often have the most power on the team and are typically the team’s best power hitter; their job is to “clean up the bases,” hence the name.  
+__clear the air__  
 __close to one’s chest__  
 __cold email__ An unsolicited email sent to someone with whom the sender has no prior relationship, usually for professional or business purposes.  
 __cold feed__  
@@ -223,7 +228,9 @@ __fart jokes__ An extremely crude and low-class type of “comedy,” only appre
 __feel the heat__  
 __flame out__ __1__ To be very unsuccessful or fail. _That guy flamed out really quickly—his NBA career lasted only a few months._  
 __for good__  
+__fortunes of war__ (the fortunes of war)  
 __French tickler__ :camera:  
+__from the ground up__ From the first step through to completion; entirely.  
 __gee__ __2__ _exclam._ Wow! (An abbreviation of Jesus!, although not always recognized as such. Usually Gee!) _Golly gee, do I have to?_  
 __geek out__  
 __get a grip (on yourself)__ :dart: To make an effort to control your emotions and behave more calmly. _Come on, get a grip, we’ve got an important meeting in five minutes._  
@@ -238,6 +245,7 @@ __give (one) a run for its money__
 __give (someone) some slack__ To make an allowance for (someone), as in allowing more time to finish something.  
 __give (someone) the cold shoulder__  
 __give someone or something away__ To reveal a secret about someone or something. _I thought no one knew where I was, but my loud breathing gave me away._ _We know that Billy ate the cherry pie. The cherry juice on his shirt gave him away._  
+__gloat over (something)__ :smiling_imp: To feel self-righteously pleased about something (often something unpleasant that has happened to someone else).  
 __go ballistic__  
 __go postal__  
 __go to the dogs__  
@@ -246,7 +254,10 @@ __gut check__
 __hands off__  
 __have more than one string to (one’s) bow__ To have multiple viable options or alternatives available in the event that the current course of action, circumstance, opportunity, etc., does not work out. _With all this varied job experience under my belt, I have more than one string to my bow if this particular career path isn’t to my liking._  
 __highways and byways__  
+__hit and fade__  
 __HMU__ Hit me up.  
+__hogwash__  
+__hold the phone__ __2__ Wait; stop. Wait just a minute.; Don’t rush into something. _Hold the phone! Let’s think about it a little longer._ _Hold the phone. I just had another idea._ _Whoa, hold the phone—Jack and Jamie are dating now?_  
 __hoopla__  
 __hope springs eternal__  
 __if nothing else__ :two::hammer:  
@@ -262,10 +273,13 @@ __in the cards__ _AmE_ (_BrE_ on the cards) [:scroll: This phrase probably refer
 __in the hope of__  
 __in the house__  
 __in the nick of time__  
-__in the thick of it__  
+__in the thick of it__ :two::hammer:  
 __in the works__ :two::hammer:  
 __Irish goodbye__ (See also _French leave_.) A hasty exit made without saying farewells to anybody.  
+__it wouldn’t hurt to (have or do something)__  
 __Jack and Jill suite__ (Jack and Jill bedroom suite) A bedroom suite composed of two bedrooms of similar size and a bathroom, where the bathroom is accessed through both bedrooms, and both bedrooms access the rest of the establishment/house/hallway.  
+__juicy detail__ A racy, titillating, or provocatively interesting detail. _Come on, tell me about your date with Ben last night. I want to hear all the juicy details!_  
+__jump at shadows__ Reacting with excessive fear or anxiety to things that aren’t actually dangerous. It’s often used to describe someone who is overly cautious, paranoid, or quick to assume something bad is going to happen, even when there’s no real threat.  
 __jump the sharp__  
 __just desserts__ :dart::astonished:  
 __just like that__ :three::hammer: ((just) like this/that)  
@@ -290,7 +304,7 @@ __keep an eye peeled (for something or someone)__ To remain vigilant or carefull
 __keep body and soul together__  
 __keep company__  
 __keep faith__  
-__keep it real__  
+__keep it real__ :two::hammer:  
 __keep pace__ :two::hammer:  
 __keep tabs on (someone or something)__  
 __keep the lid on (something)__  
@@ -342,7 +356,7 @@ __lash out__ :dart::two: __1__ To physically swing or strike out at someone or s
 __last (one) heard__ ((the) last (one) heard) According to the most recent knowledge one has about someone or something. _Last we heard, she had moved up to Calgary to be closer to her family._  
 __last burst of fire__ A final effort or attempt, especially as before failure or defeat. _The home team has unleashed one last burst of fire in the final seconds of the game to try and force an overtime showdown._  
 __last chance (for/at/to do something)__ The last or final opportunity to get, have, do, or achieve something. _Hurry and book your flights today—this is your last chance for the cheapest tickets in town!_  
-__last I heard__ ((the) last (one) heard) According to the most recent knowledge one has about someone or something.  
+__last I heard__ :two: ((the) last (one) heard) According to the most recent knowledge one has about someone or something.  
 __last out__  
 __last-ditch attempt__ A final effort or attempt to solve a problem or avoid failure or defeat, especially after a series of failures or setbacks.  
 __last-ditch__  
@@ -467,6 +481,7 @@ __make like a banana and split__ _humorous_ To depart or leave, especially at on
 __make matters worse__ To make an already bad, unpleasant, or difficult situation even more so. (Sometimes used as an independent clause in the infinitive form: “to make matters worse.”) _I heard that Julie is being let go from her job, and to make matters worse, she hasn’t been there long enough to qualify for severance pay!_  
 __make no mistake__ :three::hammer:  
 __make or break__ :two::hammer:  
+__make scarce__ (make (oneself) scarce)  
 __make some noise__ (informal, usually as a command) To cheer or holler loudly and enthusiastically. _Everybody make some noise for Jodeci!_  
 __make the best of a bad bargain__ To deal with and create the best possible outcome of a bad, unfortunate, or unpleasant situation or set of circumstances. _I know this data entry job isn’t what you wanted for a career, but for the time being, try and make the best of a bad bargain._  
 __make the most of it__  
