@@ -37,6 +37,7 @@ __chicory__ _n_ :astonished: /ˈtʃɪk ə ri/ __1__ _(Plants)_ Also called: _suc
 __chuckle__ _n, vi_  
 __chute__ _n_ :camera: _Construction chute._  
 __clapperboard__ _n_  
+__clump__ _n_ __2__ A thick grouping, as of trees or bushes.  
 __coalesce__ _v_  
 __cobweb__ _n_  
 __cockpit alcove__ _n_ The term “cockpit alcove” typically refers to a small, recessed area or compartment within a cockpit, which is the area of an aircraft or a vehicle where the pilot and co-pilot operate the controls. An alcove in this context might be designed to house specific instruments, controls, or seating arrangements that are integral to the operation of the vehicle.  
@@ -136,6 +137,7 @@ __edgeways__
 __edify__ _v_ /ED-uh-fye/ To edify someone is to teach them in a way that improves their mind or character.  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
 __efficiency apartment__ _n_ A small, usually furnished apartment with a private bathroom and kitchenette.  
+__effusive__ _adj_ /ih-FYOO-siv/ Someone or something described as effusive is expressing or showing a lot of emotion or enthusiasm.  
 __Eggo waffles__ _n_  
 __eggplant__ _n_  
 __egoism__ _n_ Concern for your own interests and welfare. _Syn_ self-centeredness, self-concern, self-interest  
@@ -219,6 +221,7 @@ __flaunt__ _v_
 __fleck__ _n_  
 __fleet__ _n_ :two: The largest organized unit of naval ships grouped for tactical or other purposes.  
 __flexor__ _n_ A small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes. _Syn_ percussor, plessor  
+__flick__ _v_ _A new group of ships flicked into the center of the cluster._  
 __flier__ _n_ (flyer)  
 __flight__ _n_ __5__ A group, especially of birds or aircraft, flying together. _A single flight of TIE fighters._  
 __flighty__ _adj_ /ˈflaɪtɪ/  
@@ -267,6 +270,7 @@ __gratuitous__ _adj_ Given freely; unearned; unwarranted.
 __gregarious__ _adj_ /grih-GAIR-ee-us/ _Gregarious_ is used to describe someone who enjoys the company of other people.  
 __griffin__ _n_  
 __grift__ _n, v_ :smiling_imp:  
+__grimly__ _adv_ :two::hammer:  
 __gritty__ _adj_  
 __groundless__ _adj_ _His fears proved groundless._  
 __grove__ _n_  
@@ -278,6 +282,7 @@ __gurney__ _n_
 __guy wire__ _n_ :camera:  
 __haberdasher__ _n_  
 __hackneyed__ _adj_ Worn out through overuse; trite.  
+__half-boot__ _n_ A boot reaching to the midcalf.  
 __hamper__ _n_ :hammer: _Laundry hamper._  
 __hand truck__ _n_ (handtruck)  
 __handlebar mustache__  
@@ -650,6 +655,7 @@ __ostentatious__ _adj_ Describing a pretentious display.
 __otter__ _n_ :es: nutria  
 __outstrip__ _v_ Be or do something to a greater degree. _Syn_ outdo, outgo, outmatch, outperform, surpass, exceed, surmount _When the demand for concert tickets outstrips supply, scalpers can make a significant profit._  
 __overhaul__  
+__overstep__ _v_ To go beyond (a limit); exceed. _Syn_ transgress, trespass  
 __overtones__ _n pl_ :dart: Suggestions; hints. _There were overtones of discontent in his speech._  
 __oxycodone__ _n_  
 __paisley__  
@@ -693,6 +699,7 @@ __pet parent__ _n_ A person who looks after a pet animal.
 __pet peeve__  
 __petrichor__ _n_ :dart::astonished::two: /ˈpɛtrɪˌkɔː/ [:scroll: from Greek _petra_ stone + Greek myth _ichor_, the fluid said to flow in the veins of the gods]  
 __petrol station__ _n_ _Syn_ filling station, gas station, gasoline station  
+__petulance__ _n_  
 __petulant__ _adj_ :two::hammer:  
 __phantasmagorical__ _adj_ /fan-taz-muh-GOR-i-kuhl/ Illusory; strange; deceptive; imaginary; surreal; hallucinatory.  
 __phase__ _n_ :mega: /feɪz/ (_vs_ face /feɪs/)  
@@ -714,6 +721,7 @@ __pimple__ _n_ :es: espinilla
 __pimply__ _adj_ /ˈpɪm pli/ Having many pimples.  
 __pinafore__ _n_  
 __pip__ _n_ __1__ (Veterinary Science) A contagious disease of poultry characterized by the secretion of thick mucus in the mouth and throat. __2__ _facetious slang_ A minor human ailment.  
+__pit__ _vt_ __2__ To set in direct opposition or competition: _a war that pitted brother against brother._  
 __pitch<sup>1</sup>__ _n_ :es: (esp. _British_) campo, cancha  
 __pitch<sup>2</sup>__ _vt_  
 __pithy__ _adj_ :two: __1__ Precisely meaningful; forceful and brief: _a pithy comment._ __2__ Consisting of or resembling pith.  
@@ -727,6 +735,7 @@ __plaster of Paris__ _n_ :two::hammer::camera:
 __plastic wrap__  
 __plausible__ _adj_ Seemingly valid or acceptable; credible.  
 __plead__ _v_  
+__pleasantry__ _n_  
 __plebiscite__ _n_  
 __plenitude__ _n_ A full supply. _Syn_ plenteousness _They lived in a region blessed with a plenitude of natural resources._  
 __plod__ _v_ To walk heavily or move laboriously; trudge.  
@@ -756,6 +765,7 @@ __polytechnic__ _adj, n_
 __pommel__ _n_  
 __ponderous__ _adj_ :two::hammer:  
 __pontoon__ _n_  
+__pooh-pooh__ _v_ Reject with contempt. _Syn_ freeze off, spurn, disdain, scorn, turn down _Rose was troubled with nausea, but Martin pooh-poohed, as childish, the notion of dropping some of her responsibilities._  
 __pool__ _n_ __1a__ A game of chance, resembling a lottery, in which the contestants put staked money into a common fund that is later paid to the winner. __b__ A fund containing all the money bet in a game of chance or on the outcome of an event.  
 __pool<sup>1</sup>>__ _n_  
 __pool<sup>2</sup>>__ _vi_  
@@ -949,7 +959,7 @@ __riveting__ _adj_
 __rod__ _n_  
 __rollback__ _n_ _Much attention has been focused on the Trump administration’s rollback of women’s health and rights._  
 __roster__ _n_  
-__rout__ _n_  
+__rout__ _n_ :two::hammer:  
 __row__ _n_ :astonished: __1__ A noisy or quarrel or disturbance.  
 __rudder__ _n_  
 __ruefully__ _adv_  
@@ -964,6 +974,7 @@ __sacrilege__ _n_ Desecration, profanation, misuse, or theft of something sacred
 __sacrilegious__ _adj_ Grossly irreverent toward what is or is held to be sacred. _Syn_ blasphemous, profane  
 __salad bar__ _n_  
 __saltation__ _n_ A light, self-propelled movement upwards or forwards. _Syn_ leaping, bounce, bound, spring _The kangaroo’s effortless saltation was balletic and graceful._  
+__sanctuary__ _n_ :mega: /ˈsæŋk tʃuˌɛr i/ /ˈsæŋktjʊərɪ/  
 __sanctum__ _n_ __2__ A room or place of total privacy or inviolability.  
 __sanguine__ _adj_  
 __sanguineous__ _adj_ Relating to or involving blood or bloodshed. _Syn_ butcherly, gory, slaughterous  
@@ -1000,6 +1011,7 @@ __seed funding__ _n_ The early investment of capital in a startup company in exc
 __sell-off__ _n_ (selling-off) __1__ A sudden and marked decline in stock or bond prices resulting from widespread selling.  
 __sentient__ _adj_ :two::hammer:  
 __sepulchral__ _adj_ Gruesomely indicative of death or the dead. _Syn_ charnel, ghastly  
+__servitude__ _n_  
 __settle__ _v_ /ˈsɛtəl/ __12__ (Banking & Finance) (sometimes foll by _up_) To pay off or account for (a bill, debt, etc). _He settled the bill before leaving._  
 __severance pay__ _n_ :two::hammer:  
 __severance__ _n_  
@@ -1011,6 +1023,7 @@ __sharp__ _adj_ __6__ Vigilant; alert: _kept a sharp lookout for shoplifters._ _
 __shenanigan__  
 __shim__ _v_  
 __shish kebab__ _n_ A dish consisting of pieces of seasoned meat and sometimes vegetables roasted on skewers and served with condiments.  
+__shoo__ _vt_  
 __shopkeeper__ _n_  
 __shoulder__ _v_  
 __shrive__ _v_  
@@ -1018,6 +1031,7 @@ __Shrove Tuesday__ _n_ The Tuesday before Ash Wednesday.
 __shuffle__ _v_ __6__ (when _vi_, often foll by _into_ or _out of_) to move or cause to move clumsily: _he shuffled out of the door._ _He shuffled his way out of the room._  
 __sibylline__ _adj_ Resembling or characteristic of a prophet or prophecy. _Syn_ divinatory, mantic, vatic  
 __sic__ _vt_ :dart: __1__ To turn on or attack: used only in commands, as to a dog. __2__ To urge (a dog) to attack. To urge or incite to hostile action; set: _sicced the dogs on the intruders._  
+__sick bay__ _n_ A hospital or dispensary, esp. aboard ship.  
 __sideline__ _v_  
 __sidle<sup>1</sup>__ _vi_  
 __sidle<sup>2</sup>__ _vt_  
@@ -1027,7 +1041,7 @@ __sinew__ _n_
 __singe__ _vt_ __1__ To burn superficially or slightly; scorch. _To singe one’s clothes._ __2__ To burn the ends, nap, or the like, of (hair, cloth, etc.). __3__ To subject (a carcass) to flame in order to remove hair, bristles, feathers, etc.  
 __singeing__ _n_  
 __Situation Room__ _n_  
-__skid__ _v_ _The car skidded to a halt._ → :es: _El coche patinó y paró._  
+__skid__ _v_ :two::hammer: _The car skidded to a halt._ → :es: _El coche patinó y paró._  
 __skiff__ _n_ :two: A flatbottom open boat of shallow draft, having a pointed bow and a square stern and propelled by oars, sail, or motor.  
 __skirmish__  
 __skittish__ _adj_  
@@ -1073,6 +1087,7 @@ __splurge__
 __spool table__ _n_  
 __spur__ _v_  
 __spurious__ _adj_ Not genuine; false; counterfeit.  
+__squabble__ _n_ A noisy quarrel, often about a trivial matter. _I have no time for personal squabbles._  
 __squirm__ _v_  
 __staff<sup>1</sup>__ _n_  
 __staff<sup>2</sup>__ _vt_ __1__ To provide with a staff of workers or assistants. __2__ To serve on the staff of (an organization).  
@@ -1100,15 +1115,18 @@ __stud__ _n_ _Stud with nuts._
 __stymie<sup>1</sup>>__ _vt_  
 __stymie<sup>2</sup>>__ _n_  
 __suave__ _adj_ /swɑːv/  
+__subservient__ _adj_  
 __subsidize__ _v_  
 __subsidy__ _n_  
 __substantive__ _adj_ __1__ Substantial; considerable. __4__ 4. Of or relating to the essence or substance; essential: _substantive information._  
 __Sun Belt__ _n_ The southern and southwest United States.  
 __superfluous__ _adj_ :two: /soo-PER-floo-us/ Superfluous is a formal word used to describe things that exceed what is necessary or sufficient, or that are simply not needed. Extra; unnecessary.  
+__sure-fire__ _adj_ Guaranteed to work or happen.  
 __T-bone__  
 __tackle__ _vt_ __2__ _Sports_ __a__ To stop (an opponent carrying the ball), especially by forcing the opponent to the ground. __b__ To obstruct (a player with the ball) in order to cause loss of possession of the ball. __3__ To engage or deal with: tackle a perplexing problem.  
 __tadpole__ _n_ [:scroll: C15 _taddepol_, from _tadde_ toad + _pol_ head, poll]  
 __tantrum__ _n_  
+__templet__ _n_ A model or standard for making comparisons. _Syn_ guide, template  
 __tenuous__ _adj_ :two:Having little substance or strength; unsure; weak.  
 __thirty-odd__ _n_ (30-odd) Being in excess of the indicated or approximate number, extent, or degree. Often used in combination: _invited 30-odd guests._  
 __thirtysomething__ _adj, n_  

@@ -60,6 +60,7 @@ __a motor mouth__ A person who talks incessantly or irrepressibly. _Jake is such
 __a new coat of paint__ The phrase “a new coat of paint” is an idiom that means giving something a fresh appearance or updating it, often to make it look more appealing or modern. It can refer to physically painting an object or structure, but it’s also used metaphorically to describe revitalizing or improving something, like a project, idea, or even a person’s style. It’s about making something look new again without necessarily changing its core essence.  
 __a no-go__  
 __a piece of advice__  
+__a sinking feeling__ (sinking feeling)  
 __a slew of (something)__ A very large number or amount of something; a lot of something.  
 __a stiff upper lip__ The ability to remain stoic during difficult situations.  
 __a surefire way__  
@@ -197,6 +198,7 @@ __drum into (one)__ :two: To teach someone something through intense and frequen
 __drum up__  
 __dry as a bone__  
 __duke it out__  
+__duty station__ The specific location or place where a person is assigned to perform their work or military service. It could be a base, facility, office, or any designated area where the individual is expected to carry out their duties.  
 __easier said than done__  
 __easier than falling off a log__ Extremely easy; very intuitive; requiring little or no skill or effort. _After so many years as an accountant, doing taxes is easier than falling off a log for me._  
 __easy as one-two-three__ ((as) easy as one-two-three; easy as one, two, three) Extremely easy, simple, or straightforward.  
@@ -499,26 +501,32 @@ __marry above (one’s) station__ To marry someone who is of a higher social cla
 __marry beneath (oneself)__ To marry someone who is of a lower social class or standing than oneself.  
 __marry into money__ To become wealthy or financially secure by marrying someone who is wealthy or has a wealthy family.  
 __meant to be__  
+__measure the drapes__ To begin planning or preparing to replace someone in a job or position before one has actually secured the role, especially during a political election.  
 __memento mori__  
 __memento vivere fac vitam incredibilis__ A Latin phrase that translates to “Remember to live, make an incredible life.”  
 __mince words__  
 __mind (one’s) p’s and q’s__  
+__mint money__ To earn a very large amount of money, especially by doing something very successfully. _We’ll be minting money if we can manage to secure a trading partner in China._  
 __miss the boat__  
 __miss the cut__  
 __miss the mark__ To be slightly or somewhat mistaken, incorrect, or inaccurate.  
 __missing number on the dice__ The phrase “missing number on the dice” isn’t a common idiom in English. However, it could be interpreted metaphorically to mean something that is expected but absent, or an element that is crucial but missing in a situation.  
 __mix and match__  
+__mixed emotions__ Positive and negative emotions that are experienced simultaneously and are often in conflict with one another.  
 __mixed feelings__ :two::hammer:  
 __mixed message__  
 __mm-hmm__ _informal_ Yes; yeah. A verbal expression used to express agreement or acknowledgement. Formed by intoning “uh-huh” with a closed mouth.  
 __modus operandi__ :two::mega: A unique and habitual method of doing something. From Latin, literally “mode of operation.” Used especially in reference to criminal behavior.  
+__mojo__  
 __monkey__ :dart: __1__ _slang_ A drug addiction. _Did you hear? Pete checked himself into rehab to deal with the monkey on his back._  
 __mooch off (of) (someone or something)__ To ask for or obtain (something) through the charity of someone or something; to sponge off someone or something else. _My brother has been mooching off me and my wife ever since he lost his job._  
 __more haste, less speed__ :es: vísteme despacio que tengo prisa  
 __more often than not__ :two: Much of the time.  
+__more sinned against than sinner__ Less guilty or worthy of blame than others, especially those who have injured or laid such blame or guilt upon one. _I may be exploiting a loophole in how much I receive in social welfare payments, but given that my retirement fund was stolen from me by fraudulent investors, I’d say I’m more sinned against than sinner._  
 __more than anything__ :two: Very much; very badly. _I wanted to believe her more than anything, but I couldn’t._  
 __more than happy to__  
 __Mother of God__ ((Holy) Mother of God) An exclamation of alarm, amazement, or exasperation. (Could be considered blasphemous to some.)  
+__mouth-breathing__ (used before a noun) Dimwitted, foolish, or stupid; of low or stunted intelligence. _Maybe you wouldn’t have failed the exam if you weren’t such a mouth-breathing nincompoop!_  
 __move mountains__ :dart: To do or achieve something that is incredibly difficult.  
 __move on__  
 __move the dial__  
@@ -551,13 +559,15 @@ __nepo friend__ _n_ /nep-oh frend/ (nepo-friend) The slang term nepo friend refe
 __nerve-racking__  
 __Nervous Nellie__ /nuhr-vuhs NEL-ee/(nervous Nellie/Nelly) Any nervous person, male or female. Someone who is more timid, nervous, or anxious than is normal or reasonable.  
 __nest egg__ A cache of money saved for a specific purpose (such as an emergency).  
+__new kid on the block__ (the new kid on the block)  
 __next thing you know__ :two::hammer: ((the) next thing (one) knows)  
-__nice and (something)__ :two::hammer:  
+__nice and (something)__ :five::hammer: (nice and some quality) _Nice and easy._ _Nice and quiet._ _Nice and cold._  
 __nice to hav__  
 __no accident__ Something done deliberately. _It is no accident that the assistant he hired is so good-looking._  
 __no big deal__ :two::hammer:  
 __no frills__  
 __no hard feelings__ :es: sin rencores  
+__no picnic__ Not an easy task; unenjoyable or challenging.  
 __no question about it__  
 __nom nom nom__ (om nom nom nom)  
 __normie__ (slang, usually derogatory, sometimes Internet) A normal person; one with commonly held, normative beliefs, tastes or interests.  
@@ -637,11 +647,13 @@ __on the whole__ Considering everything together; in general or for the most par
 __on top of that__  
 __on your radar__ See _on (one’s) radar (screen)._  
 __on-site__  
+__one step at a time__ Slowly, carefully, and deliberately; without being careless or in a rush.  
 __one thing is for sure__ (one thing is (for) sure) It is certain; certainly.  
 __one way or the other__  
 __one-up (someone)__ To make a point of outdoing, outperforming, outclassing, etc., someone. _I hate telling stories around Jack because he always tries to one-up you with some fabulous anecdote of his own._  
 __open game__ Being vulnerable or exposed to attack, criticism, or other negative consequences. _If we break the truce first, we are open game._  
 __open the floodgates__ To allow for an expanding number of (typically negative) consequences as the result of another related action.  
+__other things being equal__ In the event that all aspects of a situation remain the same.  
 __out and about__ :dart: __1__ Away from one’s home or normal environment, especially to socialize, run errands, visit various places, etc. _I’m just out and about with Mary if you would like to come join us._ __2__ Well enough to come and go, especially after an illness. For example, _I’m glad to see you’re out and about again._  
 __out of aces__ Figuratively, it’s often used to describe someone who has exhausted all their resources, tricks, or ways to handle a problem.  
 __out of curiosity__ A phrase used to express that someone is asking a question or seeking information simply because they are interested or want to know more, without any specific agenda or need.  
@@ -652,11 +664,12 @@ __owing to__ Because of; as a result of; due to _Owing to construction on the hi
 __paint the town__  
 __paper tiger__  
 __pat on the back__ (pat (one) on the back) Praise given to a person for an achievement or a job well done. _Treating his daughter to ice cream was Joe’s way of giving patting her on the back after she won first place in the science fair._  
-__patch up__  
+__patch up__ :two::hammer:  
 __pave the way (for someone or something)__  
 __pay top dollar__  
 __pay tribute to (someone or something)__ To do something as a way of publicly showing respect or admiration for a particular person, group, or thing. _The movie pays tribute to an old adventure serial that ran on television in the mid-1930s._  
 __penguin tuxedo__ The term “penguin tuxedo“ is often used humorously or figuratively to describe a penguin’s natural appearance, as their black-and-white plumage resembles the look of a tuxedo—a formal suit with a black jacket and white shirt.  
+__perfect storm__  
 __period__ Used to emphasize the finality of one’s statement, indicating that one has nothing further to add or elaborate. _I’m not going to tell you again. There is no way I am getting on that airplane—period!_  
 __peter out__  
 __pin down__  
@@ -680,17 +693,22 @@ __pray to the porcelain god__
 __pressing matters__ Issues or concerns that require immediate attention or action. These are typically urgent situations that cannot be delayed and often involve important decisions or responses.  
 __pull rank (on one)__  
 __pun intended__ Used to acknowledge that what one has just said, or what one is about to say, could be viewed as a pun.  
+__pure and simple__ Essentially or fundamentally so, without exaggeration or elaboration. _We are businessmen, pure and simple._  
 __push (one’s) buttons__  
 __put (one’s) money where (one’s) mouth is__ To do, live up to, or follow through on something one talks about, threatens, or promises, especially (but not always) when it involves spending money.  
 __put (someone) through the wringer__  
+__put on the brakes__  
 __put the brakes on (someone or something)__  
 __put the jinx on (something or someone)__ To invoke a curse upon someone or something that brings bad luck or failure.  
 __put the screws on something__  
 __put to good use__ (put (something) to good use) To use something in a way that will be beneficial or have significant results. Employ to the best advantage, as in _I’m sure this dictionary will be put to good use._  
 __put to the test__ (put (someone or something) to the test)  
+__qualms (about someone or something)__  
 __rack up__  
 __ramp up__  
+__ranging shots__ Test shots or preliminary shots fired to determine the correct range or distance to a target. _They fired ranging shots._  
 __rat race__ Fierce competition to maintain or improve one’s position in the workplace or social life.  
+__rattled__ __1__ Shocked, bewildered, flustered, or unnerved. _The whole incident left me feeling pretty rattled._  
 __rec room__ _US and Canadian_ A room in a house used by the family for relaxation and entertainment In full recreation room.  
 __red light camera__  
 __red-handed__  
