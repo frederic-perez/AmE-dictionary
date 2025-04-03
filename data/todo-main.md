@@ -14,36 +14,6 @@ __bleachers__
 __blitz__ _n_ (blitzkrieg)  
 __blow fly__ _n_ (blowfly) Large usually hairy metallic blue or green fly; lays eggs in carrion or dung or wounds.  
 __blow-dryer__ _n_  
-__blueprint__ _n_ :two::hammer:  
-__bobbin__ _n_ A winder around which thread or tape or film or other flexible materials can be wound. _Syn_spool, reel  
-__bonsai__ _n_ :two::hammer::mega:  
-__brachiate__ _vi_ To progress by swinging from hold to hold by the arms. _A brachiating gibbon._  
-__Breathalyzer__ _n_  
-__brouhaha__ _n_ A loud confused noise; commotion; uproar.  
-__brushfire__ _n_  
-__bulldozer__ _n_ __1__ A powerful tractor fitted with caterpillar tracks and a blade at the front, used for moving earth, rocks, etc. __2__ _informal_ A person who bulldozes. An overbearing person; a bully. _Syn_ browbeater, bully, hector, intimidator  
-__bullpen__ _n_ __3__ An open area in an office with workspace for a number of employees.  
-__bunker__ _n_ /ˈbʌŋ kər/ __1__ A large bin or receptacle; a fixed chest or box: a coal bunker.  
-__buy out__  
-__buzzer__ _n_ _Door buzzer._  
-__calliope__ _n_ A musical instrument fitted with steam whistles, played from a keyboard.  
-__candor__ _adj_ Sincerity; openness.  
-__canker sore__ _n_ A small, painful ulcer or sore, usually of the mouth.  
-__cannular__ _adj_ Constituting a tube; having hollow tubes (as for the passage of fluids). _Syn_ tubelike, tubular, vasiform  
-__cantankerous__ _adj_ :two::hammer:  
-__carabiner__ _n_  
-__cassette__ _n_ (bicicle)  
-__chicory__ _n_ :astonished: /ˈtʃɪk ə ri/ __1__ _(Plants)_ Also called: _succory_. A blue-flowered plant cultivated for its leaves, which are used in salads, and for its roots. :es: escarola __2__ _(Cookery)_ The root of this plant, roasted, dried, and used as a coffee substitute. :es: achicoria  
-__chuckle__ _n, vi_  
-__chute__ _n_ :camera: _Construction chute._  
-__clapperboard__ _n_  
-__clump__ _n_ __2__ A thick grouping, as of trees or bushes.  
-__coalesce__ _v_  
-__cobweb__ _n_  
-__cockpit alcove__ _n_ The term “cockpit alcove” typically refers to a small, recessed area or compartment within a cockpit, which is the area of an aircraft or a vehicle where the pilot and co-pilot operate the controls. An alcove in this context might be designed to house specific instruments, controls, or seating arrangements that are integral to the operation of the vehicle.  
-__code__ _n_ [Note: _Code_ is usually uncountable in programming contexts, but it can be countable when referring to different kinds of code (like various coding systems, encryption codes, or different pieces of code), like _The software uses multiple codes to encrypt data._]  
-__coed<sup>1</sup__ _adj_ (co-ed)  
-__coed<sup>2</sup__ _n_ (co-ed)  
 __cogent__ _adj_ Convincing; reasonable.  
 __coleslaw__ _n_  
 __collected__ _adj_  

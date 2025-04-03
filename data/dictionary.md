@@ -2056,7 +2056,7 @@ __bluebird__ _n_
 __bluegill__  
 __bluegrass__  
 __bluejacket__ _n_ An enlisted person in the US or British Navy. _Syn_ sailor  
-__blueprint__ _n_ :nine: __1__ A photographic print made by a process that produces white lines on a blue background, used chiefly in copying architectural and mechanical drawings. __2__ A detailed outline or plan of action. __3__ A model; prototype.  
+__blueprint__ _n_ :nine::m: __1__ A photographic print made by a process that produces white lines on a blue background, used chiefly in copying architectural and mechanical drawings. __2__ A detailed outline or plan of action. __3__ A model; prototype.  
 __bluff<sup>1</sup>__ _v_ :six::hammer: (bluffing)  
 __bluff<sup>2</sup>__ _n_ :five::hammer: __1__ Deliberate deception intended to create the impression of a stronger position or greater resources than one actually has. __2__ A steep headland, promontory, riverbank, or cliff.  
 __bluff<sup>3</sup>__ _adj_ __1__ Good-naturedly frank and hearty. __2__ (Physical Geography) (of a bank, cliff, etc) Presenting a steep broad face.  
@@ -2086,7 +2086,7 @@ __bob<sup>1</sup>__ _vt_ :nine::m::astonished: __1__ To strike with a quick ligh
 __bob<sup>2</sup>__ _vi_ :two: __1a__ To move up and down briefly or repeatedly. __b__ To emerge, arise, or appear suddenly or unexpectedly. __2__ To nod or curtsy briefly. __3__ To try to seize a suspended or floating object with the teeth.  
 __boba__ _n_  
 __bobber__ _n_ :two::hammer:  
-__bobbin__ _n_ A cylinder or cone for holding thread; a spool or reel.  
+__bobbin__ _n_ :two: A cylinder or cone for holding thread; a spool or reel. A winder around which thread or tape or film or other flexible materials can be wound. _Syn_spool, reel  
 __bobbled__ _v_ _The flowers bobbled and swayed._  
 __bobby pin__  
 __bobby socks__  
@@ -2169,6 +2169,7 @@ __bonkers__ _adj_ _informal_ :six: Crazy. _That’s bonkers!_
 __bonnet__ _n_ :three::hammer:  
 __bonnie blue flag__  
 __bonobo__  
+__bonsai__ _n_ :two::hammer::mega:  
 __bonus__ _n_ :mega: /bō′nəs/  
 __boo__ _v_ :two::hammer:  
 __boo-hoo__ _v_ Used to describe a kind of childish or exaggerated crying. In other words, when someone is “boo-hooing,” they’re not just shedding a couple tears, they’re wailing and bemoaning their fate in a pretty over-the-top way. It’s often used as a joke or a way to make light of a situation that’s not really that serious.  
@@ -2313,6 +2314,7 @@ __bozo__ _n_ _slang_ :two: (bozos) A man, esp a stupid one.
 __brabble__ _v_ Argue over petty things. _Syn_ bicker, pettifog, squabble, quibble, niggle  
 __brace<sup>1</sup>__ _n_ _To define Python dictionaries, we use braces._  
 __brace<sup>2</sup>__ _v_ :nine::m::astonished: (braces, braced, bracing) A brace is a support that helps to steady or strengthen, and to brace is to prepare for something hard. _So brace yourself for that impromptu meeting with your boss if you haven’t been performing well._ _Online media companies are bracing for change._ _Residents brace themselves for more rain._  
+__brachiate__ _vi_ To progress by swinging from hold to hold by the arms. _A brachiating gibbon._  
 __brachistochrone__ _n_ The curve between two points through which a body moves under the force of gravity in a shorter time than for any other curve; the path of quickest descent.  
 __bracing swim__  
 __bracken__ _n_ :two: A cluster of ferns or shrubs.  
@@ -2401,6 +2403,7 @@ __breakwater__ _n_ :three::hammer: :es: rompeolas
 __bream__ _n_ :seven: A greenish-bronze deep-bodied freshwater fish native to Europe. _Fishing for bream._  
 __breaststroke__ _n_ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __breastwork__ _n_ :two::hammer:  
+__Breathalyzer__ _n_  
 __breather__ _n_ :four::hammer:  
 __breathing room__  
 __breech birth__ _n_ The delivery of a fetus (unborn baby) hind end first.  
@@ -2501,7 +2504,7 @@ __broomstick__ _n_
 __broth__  
 __brother-in-arms__ _n_ :two: (brothers in arms) A fellow soldier or comrade in a shared struggle. _I serve Rome, my officers, and my brothers-in-arms._  
 __Brothers Grimm__ _n_  
-__brouhaha__ _n_ :five: /BROO-hah-hah/ Brouhaha is a synonym of both uproar and hubbub, and can mean “a noisy confusion of sound” or “state of commotion.” _A brouhaha erupted over the bill, even though the opposing party stood to gain just as much from its passage._  
+__brouhaha__ _n_ :six::mega: /BROO-hah-hah/ Brouhaha is a synonym of both uproar and hubbub, and can mean “a noisy confusion of sound” or “state of commotion.” A loud confused noise; commotion; uproar. _A brouhaha erupted over the bill, even though the opposing party stood to gain just as much from its passage._  
 __brow__ _n_ :two: The projecting upper edge of a steep place. _Syn_ top, summit, peak, edge, tip, crown, verge, brink, rim, crest, brim _On the brow of a sloping hill._  
 __browbeat__ _vt_ :two: Discourage or frighten with threats or a domineering manner; intimidate. _Syn_ bully, swagger _The police attempted to browbeat me into revealing my accomplices, but I would never squeal on my friends._  
 __browbeaten__ _adj_  
@@ -2522,6 +2525,7 @@ __bruncher__ _n_ _Sunday brunchers._
 __bruschetta__ _n_ :three::hammer: /broo-SHET-uh, broo-SKET-uh/ _Ostrich bruschetta._  
 __brush fire__ _n_ _Brush fires in California._  
 __brush__ _n_ _The goats cleared brush._  
+__brushfire__ _n_  
 __brushwood__ _n_  
 __brusque__ _adj_ __1__ Markedly short and abrupt. __2__ Blunt in manner or speech often to the point of ungracious harshness.  
 __brusquerie__ _n_ Curtness or bluntness of manner.  
@@ -2603,6 +2607,7 @@ __bulk<sup>3</sup>__ _adj_ _Bulk items._
 __bulkhead__ _n_ :six::hammer: _The bulkhead door._  
 __Bull__ _n_  
 __bull__ _n_ :four: __1a__ An adult male bovine mammal. __b__ The uncastrated adult male of domestic cattle. __c__ The adult male of certain other large animals, such as alligators, elephants, moose, or whales. __6__ (Bull) An official document issued by the pope and sealed with a bulla. :es: bula _Papal Bull._ _No Pope ever issued a Bull to approve of something._ __20__ The center of a target. _Syn_ bull’s eye _My next two shots were bulls._  
+__bulldozer__ _n_ __1__ A powerful tractor fitted with caterpillar tracks and a blade at the front, used for moving earth, rocks, etc. __2__ _informal_ A person who bulldozes. An overbearing person; a bully. _Syn_ browbeater, bully, hector, intimidator  
 __bulldozing__ _v_ _Henry was bulldozing for 201 yards._  
 __bullet point__ _n_ :three::hammer: _Give me the bullet points._  
 __bullet<sup>1</sup>__ _n_ :two::hammer::mega: /ˈbʊl ɪt/  
@@ -2615,7 +2620,7 @@ __bullion__ _n_ :two::hammer:
 __bullock__ _n_ __1__ A castrated bull; a steer. __2__ A young bull.  
 __bullous__  
 __Bullpen Bulletins__ _n_ “Bullpen Bulletins” (originally titled “Marvel Bullpen Bulletins”) was the news and information page that appeared in most regular monthly comic books from Marvel Comics.  
-__bullpen__ _n_  
+__bullpen__ _n_ :two::hammer: __3__ An open area in an office with workspace for a number of employees.  
 __bullshitter__ _n_ :dart: _Come to think of it, I haven’t seen too many bullshitters since the war started._  
 __bullwhip__  
 __bully__ _n_ :two::hammer:  
@@ -2663,7 +2668,7 @@ __bunk bed__ _n_ (bunk beds) Either of a pair of narrow beds stacked one on top 
 __bunk<sup>1</sup>__ _n_ :two: A narrow shelf-like bed, typically one of two or more arranged one on top of the other. _Syn_ berth, cot, bunk bed :es: litera  
 __bunk<sup>2</sup>__ _v_ :two: (bunked) __1a__ To sleep in a bunk or bed. __b__ To stay the night; sleep: _bunk over at a friend’s house._ __2__ To go to bed: _bunked down early._  
 __bunker oil__  
-__bunker__ _n_ [:scroll: Scots bonker, _chest_] __1__ A large bin or receptacle; a fixed chest or box: _a coal bunker._ __2__ A partially underground chamber, often of reinforced concrete, built as a bomb shelter or as part of a fortification.  
+__bunker__ _n_ :two: /ˈbʌŋ kər/ [:scroll: Scots bonker, _chest_] __1__ A large bin or receptacle; a fixed chest or box: _a coal bunker._ __2__ A partially underground chamber, often of reinforced concrete, built as a bomb shelter or as part of a fortification.  
 __bunkmates__  
 __bunkum__ _n_ /ˈbʌŋkəm/ :three: (buncombe) __1__ Empty talk; nonsense. __2__ _chiefly US_ Empty or insincere speechmaking by a politician to please voters or gain publicity.  
 __bunny__ _n_ __2__ _Professions_ A night-club hostess whose costume includes a rabbit-like tail and ears. _Syn_ bunny girl _Hugh Hefner and his bunnies._  
@@ -2778,7 +2783,7 @@ __buttwipes__ _n_
 __butyraceous__ _adj_ Of, containing, or resembling butter.  
 __buxom__  
 __buy in__ _v_  
-__buy out__ _v_  
+__buy out__ _v_ :two::hammer:  
 __buy__ _v_ __5__ _informal_ To accept the truth or feasibility of: _The officer didn’t buy my lame excuse for speeding._ _I didn’t buy his explanations._  
 __buy-in__ _n_ :three: Acceptance of and willingness to actively support and participate in something (such as a proposed new plan or policy). _Without buy-in from his troops, Gruden’s just another tuned-out coach._ _He has tried different tactics to accelerate the buy-in._  
 __buybacks__  
@@ -2788,6 +2793,7 @@ __buzz<sup>1</sup>__ _n_ :three::hammer: _The buzz is really high now._
 __buzz<sup>2</sup>__ _v_ :three::hammer: _Sending submarines to buzz Europe._ _For 12 years the spacecraft has been buzzing about Saturn._  
 __buzzard__ _n_ :camera::five::hammer: (buzzards)  
 __buzzcut__ _n_ :two: /ˈbʌzˌkʌt/ (buzz cut) A very short haircut.  
+__buzzer__ _n_ _Door buzzer._  
 __buzzing__ _adj_ Noisy like the sound of a bee. _Buzzing space._  
 __buzzkill__ _n_ _slang_ :four: (buzz kill) Someone or something that ruins enjoyment or pleasure.  
 __buzzkiller__ _n_ :two::hammer:  
@@ -2907,7 +2913,7 @@ __calligraphy__ _n_ :two::hammer: [:scroll: French calligraphie, from Greek kall
 __calling card__  
 __calling hours__  
 __calling__ _n_ :six: (callings) __1__ A strong inner urge to follow an occupation, etc; vocation. _She served in many callings._ _She did it in response to an inner calling._ __2__ An occupation, profession, or trade. _He served in many callings for the LDS Church._  
-__calliope__ _n_ :two::mega: (calliopes) A musical instrument fitted with steam whistles, played from a keyboard.  
+__calliope__ _n_ :three::mega: A musical instrument fitted with steam whistles, played from a keyboard.  
 __callous__ _adj_ :two: /KAL-us/ Emotionally hardened; unfeeling. _Syn_ indurate, pachydermatous  
 __callous<sup>1</sup>__ _adj_ :nine::m::dart: /ˈkæl əs/ __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ _A callous remark._ :es: insensible, cruel  
 __callous<sup>2</sup>__ _v_ To make or become callous.  
@@ -2957,7 +2963,7 @@ __candelabra__ _n_ :astonished: A branched candlestick or lamp with several ligh
 __candelabrum__ _n_  
 __candidate__ _n_ :mega: (kăn′dĭ-dāt′, -dĭt)  
 __candlestick__ _n_ (candleholder) A holder, usually ornamental, with a spike or socket for a candle.  
-__candor__ _n_ :three: /KAN-der/ Unreserved, honest, or sincere expression. The quality of being honest and straightforward in attitude and speech. _Syn_ forthrightness, frankness, directness _While I appreciate candor, sometimes a little white lie is necessary to protect a person’s feelings._ _During the interview, the comedian spoke with candor about the nervousness she feels every time she takes the stage._  
+__candor__ _n_ :four: /KAN-der/ Sincerity; openness. Unreserved, honest, or sincere expression. The quality of being honest and straightforward in attitude and speech. _Syn_ forthrightness, frankness, directness _While I appreciate candor, sometimes a little white lie is necessary to protect a person’s feelings._ _During the interview, the comedian spoke with candor about the nervousness she feels every time she takes the stage._  
 __candy cane__ _n_ :two: (candy canes) A stick of red and white candy with a curve at one end. _Candy canes on the Christmas tree._  
 __candy corn__ _n_  
 __Candy Land__ _n_ (game?)  
@@ -2966,6 +2972,7 @@ __cane brakes__
 __canebrake__ _n_  
 __canine tooth__ _n_ One of the four pointed conical teeth (two in each jaw) located between the incisors and the premolars. _Syn_ canine, cuspid, eye tooth, eyetooth, dogtooth  
 __canister__ _n_ :five::hammer: _Organic coffee canisters._ _A film canister._  
+__canker sore__ _n_ A small, painful ulcer or sore, usually of the mouth.  
 __cannabidiol__ _n_ (CBD) A cannabinoid found in cannabis. _It calms us like a CBD gummy before bed._  
 __cannibalization__ _n_  
 __cannibalize__ _v_ :two::hammer:  
@@ -2973,6 +2980,7 @@ __cannikin__ _n_
 __cannoli__ _n_ :two::hammer:  
 __cannonball__ _n_ __3__ A dive made in a curled-up position with the arms pressing the knees against the chest. _Do a cannonball!_  
 __cannoneer__ _n_ A serviceman in the artillery. _Syn_ gunner, artilleryman  
+__cannular__ _adj_ Constituting a tube; having hollow tubes (as for the passage of fluids). _Syn_ tubelike, tubular, vasiform  
 __canny__ _adj_ :two: Astute; shrewd, knowing; sagacious.  
 __canoe__ _n_ :mega:  
 __canoeing__  
@@ -2983,7 +2991,7 @@ __canorous__ _adj_ Richly melodious. _Syn_ songful _When I sing in the shower, m
 __cant<sup>1</sup>__ _n_ __1__ Insincere talk, esp concerning religion or morals; pious platitudes. __2__ Stock phrases that have become meaningless through repetition. __3__ Specialized vocabulary of a particular group, such as thieves, journalists, or lawyers; jargon. __4__ Singsong whining speech, as used by beggars.  
 __cant<sup>2</sup>__ _vi_ To speak in or use cant.  
 __cantabile__ _adj_ In a smooth, lyrical, flowing style. _Syn_ singing _The last part of the movement, a sweet, cantabile passage, resonated with the young audience._  
-__cantankerous__ _adj_ :nine: /kan-TANK-uh-rus/ Always complaining or arguing and easily annoyed. Ill-tempered and quarrelsome; disagreeable. _Syn_ bloody-minded  
+__cantankerous__ _adj_ :nine::m: /kan-TANK-uh-rus/ Always complaining or arguing and easily annoyed. Ill-tempered and quarrelsome; disagreeable. _Syn_ bloody-minded  
 __cantata__ _n_ :three: A musical composition for voices and orchestra based on a religious text. _Batch cantatas._  
 __canté__ _n_  
 __canted__ _v_ :three::hammer:  
@@ -3037,7 +3045,7 @@ __captcha__ _n_ /ˈkæptʃə/
 __captious__ _adj_ :two: /KAP-shuss/ Marked by a disposition to find and point out trivial faults. _Syn_ faultfinding _She found the new professor to be captious, marking all the grammatical errors in her essays while ignoring the points she had tried to make._  
 __capuchin monkey__ _n_ :mega:  
 __car sickness__  
-__carabiner__ _n_ :camera::five::hammer: _Syn_ karabiner, snap ring :es: mosquetón  
+__carabiner__ _n_ :camera::six::hammer: _Syn_ karabiner, snap ring :es: mosquetón  
 __carafe__ _n_ :two: The word carafe comes from the Arabic word “gharrafah” meaning “dipper” or “drinking vessel.”  
 __caramel apple__ _n_ :two::hammer:  
 __caramel corn__ _n_ Popcorn that has been mixed with a caramel topping.  
@@ -3144,6 +3152,7 @@ __Cassandra__ _n_ A prophet of misfortune or disaster. _Syn_ doomsayer, pessimis
 __cassava__ _n_  
 __casserole<sup>1</sup>__ _n_ :two: Casserole comes from the Middle French cassa meaning “melting pan.”  
 __casserole<sup>2</sup>__ _v_  
+__cassette__ _n_ (bicicle)  
 __cassock__ _n_ :two::hammer:  
 __cassoulet__ _n_  
 __cast a pall__  
@@ -3458,6 +3467,7 @@ __chicken run__
 __chicken wire__ _n_ :two::hammer:  
 __chickenpox__ _n_ Also called varicella. An acute contagious disease, primarily of children, that is caused by the varicella-zoster virus and characterized by skin eruptions, slight fever, and malaise. _She got a case of chickenpox._  
 __chickpea__ _n_ :three::hammer: (chickpeas) _A handful of chickpeas._ :es: garbanzo  
+__chicory__ _n_ :astonished: /ˈtʃɪk ə ri/ __1__ _(Plants)_ Also called: _succory_. A blue-flowered plant cultivated for its leaves, which are used in salads, and for its roots. :es: escarola __2__ _(Cookery)_ The root of this plant, roasted, dried, and used as a coffee substitute. :es: achicoria  
 __chide__ _v_ :dart::nine::m: __1__ To rebuke or scold. __2__ (tr) To goad into action. _We chided the Pentagon._  
 __chief<sup>1</sup>__ _adj_  
 __chief<sup>2</sup>__ _n_ :two::hammer: /tʃiːf/ /tʃif/ (chiefs)  
@@ -3572,8 +3582,8 @@ __chuck out__ _v_ :two::hammer:
 __chuck__ _v_ :nine: (chucked, chucking) __1__ To pat or squeeze fondly or playfully, especially under the chin. __2a__ To throw or toss: _chucked stones into the water._ _When the quarterback chucks a pass with the game on the line._ _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._ __b__ _informal_ To throw out; discard: _chucked my old sweater._ _In “Network,” viewers were persuaded to chuck their TVs out the window._ __c__ _informal_ To force out; eject: _chucking out the troublemakers._ _We couldn’t be domesticated, so they chucked us out._ __3__ _informal_ To give up; quit: _chucked her job._  
 __chuck-wagon__ _n_ :three::hammer: _Chuck-wagon supper._ _A chuck-wagon barbecue._  
 __chuckholes__ _n_  
-__chuckle<sup>1</sup>__ _n_  
-__chuckle<sup>2</sup>__ _vi_ :four: __1__ To laugh quietly or to oneself.  
+__chuckle<sup>1</sup>__ _n_ :two::hammer:  
+__chuckle<sup>2</sup>__ _vi_ :five: __1__ To laugh quietly or to oneself.  
 __chucklers__  
 __chuff__ _v_ :two: To produce or move with noisy puffing or explosive sounds. _Trains chuffing._  
 __chug<sup>1</sup>__ _n_ __1__ A large swig of liquid: _a chug of beer._ __2__ A short dull sound, esp one that is rapidly repeated, such as that made by an engine: _the chug of an engine._  
@@ -3595,9 +3605,9 @@ __churn<sup>2</sup>__ _v_ :nine::m: (churned, churning) __1__ If your stomach ch
 __churrascaria__ _n_ A restaurant serving churrasco, often featuring all-you-can-eat service and having waiters who carry skewered meat to the diners’ tables and cut slices upon request.  
 __churrigueresque__ _adj_ Of or relating to a style of baroque architecture of Spain and its Latin-American colonies, characterized by elaborate and extravagant decoration. The name is a reference to José Churriguera, a baroque architect and sculptor. The Cathedral Basilica of Zacatecas in Mexico is just one example of a churrigueresque building.  
 __churro__ _n_ /ˈtʃuːrəʊ/  
-__chute__ _n_ :four: __2__ (Individual Sports, other than specified) A steep slope, used as a slide as for toboggans.  
+__chute__ _n_ :five:::hammer::camera: _Construction chute._ __2__ (Individual Sports, other than specified) A steep slope, used as a slide as for toboggans.  
 __Chutes and Ladders__ _n_  
-__chutney__ _n_ :three: (chutneys) A cold food made from fruit, spices, and vinegar, eaten with meat or cheese. :es: salsa picante de frutas y especias  
+__chutney__ _n_ :three: A cold food made from fruit, spices, and vinegar, eaten with meat or cheese. :es: salsa picante de frutas y especias  
 __chutzpah__ _n_ :three: /KHOOTS-puh/ (chutzpa) _Chutzpah_ is shameless or disrespectful boldness often paired with reckless self-confidence. Someone with chutzpah dares to do or say things that seem shocking to others. Shameless boldness; brazen nerve; gall. _It took a lot of chutzpah to stand up to her boss the way she did._  
 __chyron__ _n_ :dart::two: A graphic that is digitally superimposed over the lower portion of a broadcast television image or a video frame, often in the form of a banner of scrolling text providing supplementary information or of an animated graphic designed to attract the viewer’s attention.  
 __cicatrix__ _n_ A scar left by the formation of new connective tissue over a healing sore or wound. _Syn_ scar  
@@ -3678,6 +3688,7 @@ __clank<sup>2</sup>__ _v_ :three::hammer: (clanked, clanking)
 __clap__ _n_ :two::hammer: _Incurable clap._  
 __clapboard__ _n_ :three::hammer::mega: /KLAB-erd/  
 __clapper__ _n_ _He tried to turn somebody into a human bell clapper._  
+__clapperboard__ _n_  
 __claptrap__ _n_  
 __claret jug__ _n_ :two: _The champion returning the claret jug used to be a mere formality._  
 __claret__  
@@ -3813,7 +3824,7 @@ __cluck<sup>1</sup>__ _n_
 __cluck<sup>2</sup>__ _v_ :two::hammer: _Clucking chickens._ :es: cacarear  
 __clue__ _n, v_ :dart:  
 __clued up__ _adj_ _BrE_ _informal_ Knowledgeable about a topic or situation; possessing the facts. :es: al tanto (de), al corriente (de)  
-__clump__ _n_ :three::hammer: _The clump of footsteps._  
+__clump__ _n_ :four::hammer: _The clump of footsteps._ __2__ A thick grouping, as of trees or bushes.  
 __clunker__ _n informal_ :five: (clunkers) __1__ An old, run-down vehicle or machine. _Syn_ jalopy, lemon, rustbucket, bucket of bolts, hooptie, crate _He’s got loads of money, but he still drives an old clunker._ __2__ A thing that is totally unsuccessful. _Novel after novel and not a clunker among them._ _Syn_ failure, flop, bust  
 __clunking__  
 __clunky__ _adj_ :three::hammer:  
@@ -3830,7 +3841,7 @@ __coach__ _n_ :five: __1a__ A bus, especially one designed for long-distance pas
 __coachee__ _n_ /ˌkəʊtʃˈiː/ A person who receives training from a coach, esp in business or office practice.  
 __coagulate__ _v_ To cause transformation of (a liquid or sol, for example) into or as if into a soft, semisolid, or solid mass. _Syn_ clot _The medical students watched blood coagulate as part of their lesson in clotting reactions._  
 __coagulum__ _n_ A lump of material formed from the content of a liquid. _Syn_ clot  
-__coalesce__ _v_ :pencil2::nine: /koh-uh-LESS/ __1__ To come together to form one group or mass. _The ice masses coalesced into a glacier over time._ :es: fundirse __2__ To join forces. _The club’s community service projects provide students with a common goal to coalesce around._  
+__coalesce__ _v_ :pencil2::nine::m: /koh-uh-LESS/ __1__ To come together to form one group or mass. _The ice masses coalesced into a glacier over time._ :es: fundirse __2__ To join forces. _The club’s community service projects provide students with a common goal to coalesce around._  
 __coast__ _vi_ :four: __2__ To act or move aimlessly or with little effort: _coasted for a few weeks before applying for a job._ _If the players were coasting during practice, he turned out the lights and left._  
 __coasteering__ _n_  
 __coaster brakes__  
@@ -3844,9 +3855,9 @@ __cob__ _n_ :two::hammer: _Savor corn on the cob._
 __cobalt blue__ _n_ __2__ A moderate to deep vivid blue or greenish blue.  
 __cobble together__ _v_ Put together hastily. _I cobbled together a simple driver program that listened to the keyboard._  
 __cobble up__ _phr v_  
-__cobble__ _vt_ :three::hammer: (cobbled)  
+__cobble__ _vt_ :three::hammer:  
 __cobbler__ _n_ :two::hammer:  
-__cobweb__ _n_ :six::hammer: (cobwebs)  
+__cobweb__ _n_ :seven::hammer:  
 __Coca-Cola pork loin__ _n_ (recipe)  
 __cochineal__ _n_  
 __cock__ _vt_ :dart::six: __3__ :dart: To tilt or turn up or to one side, usually in a jaunty or alert manner: _cocked an eyebrow in response to a silly question._  
@@ -3857,6 +3868,7 @@ __cockerel__
 __cockeyed__ _adj_ _informal_ :five: Turned or twisted toward one side. _Syn_ askew, awry, lopsided, skew-whiff, wonky _He noticed that his tie was cockeyed and made sure to straighten it before meeting with the company executives._ _Cockeyed optimism._ _Cockeyed predictions._  
 __cockle__ _n_ :es: berberecho  
 __cockney__ _n_  
+__cockpit alcove__ _n_ The term “cockpit alcove” typically refers to a small, recessed area or compartment within a cockpit, which is the area of an aircraft or a vehicle where the pilot and co-pilot operate the controls. An alcove in this context might be designed to house specific instruments, controls, or seating arrangements that are integral to the operation of the vehicle.  
 __cockpit__ _n_ _The charged particles can enter the cabin or cockpit._  
 __cockscomb__ _n_ __1__ The comb of a rooster. :es: cresta de gallo  
 __cocksure__ _adj_ :astonished: Marked by excessive confidence. _Syn_ overconfident, positive  
@@ -3870,11 +3882,14 @@ __coddle__ _vt_ :eight: __1__ To cook in water just below the boiling point: _co
 __code of conduct__ _n_ :two::hammer:  
 __code of ethics__  
 __code word__ _n_  
+__code__ _n_ [Note: _Code_ is usually uncountable in programming contexts, but it can be countable when referring to different kinds of code (like various coding systems, encryption codes, or different pieces of code), like _The software uses multiple codes to encrypt data._]  
 __codebase__ _n_  
 __codeine__  
 __codicil__ _n_ :two::hammer: _A codicil to a previous will._  
 __codify__ _v_ _Such a freeze would codify the advantage extreme forces have gained._  
 __codpiece__ _n_  
+__coed<sup>1</sup__ _adj_ (co-ed)  
+__coed<sup>2</sup__ _n_ (co-ed)  
 __coequality__ _n_ The state of being equal with one another, as in rank, power, value, etc. _Agatha Christie’s _The Secret Adversary_ firmly establishes the coequality of investigative duo Tommy and Tuppence._  
 __coerce__ _v_ :two::hammer:  
 __coerced__  
