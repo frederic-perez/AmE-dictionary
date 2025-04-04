@@ -4,8 +4,13 @@ __abduct__ _vt_
 __accursed__ _adj_ Under a curse. _Syn_ maledict  
 __adduct<sup>1</sup>__ _vt_ _A hyper-adducted right radial artery approach._  
 __adduct<sup>2</sup>__ _n_  
+__Agatha__ _n_ :mega: /ˈæɡəθə/  
+__aloof__ _adj_  
+__ancillary__ _adj, n pl_  
 __archetype__ _n_ /AHR-kih-type/ _Archetype_ refers to someone or something that is seen to be a perfect example. It is also a word for the original pattern or model of which all things of the same type are representations or copies.  
 __atherectomy__ _n_ Surgical removal of atherosclerotic plaque from an artery using a catheter fitted with a cutting device.  
+__baleen whale__ _n_ Another name for whalebone whale.  
+__bastion__ _n_ _Be a bastion of truth in a time of lies._  
 __Big Mouth Billy Bass__ _n_ An animatronic singing prop, representing a largemouth bass, invented by Gemmy Industries on December 16, 1998; sold beginning January 1, 1999; and popular in the early 2000s.  
 __billet-doux__ _n_ (_n pl_ billets-doux) A love letter.  
 __black eyed peas__ _n pl_ (Notice that black eyed peas aren’t peas!)  
@@ -14,6 +19,9 @@ __bleachers__
 __blitz__ _n_ (blitzkrieg)  
 __blow fly__ _n_ (blowfly) Large usually hairy metallic blue or green fly; lays eggs in carrion or dung or wounds.  
 __blow-dryer__ _n_  
+__bristle__ _v_ _Laia bristled._  
+__carcass__ _n_  
+__cavort__ _v_ Play boisterously. _Syn_ frisk, frolic, gambol, lark, rollick, romp, run around, skylark, sport, disport _The children cavorted in the water, splashing and ducking each other._  
 __cogent__ _adj_ Convincing; reasonable.  
 __coleslaw__ _n_  
 __collected__ _adj_  
@@ -21,6 +29,7 @@ __colorful__ _adj_ :astonished:
 __combine harvester__ _n_ A machine that simultaneously cuts, threshes, and cleans a standing crop of grain.  
 __commutation__ _n_ :astonished: The reduction in severity of a punishment imposed by law. _Syn_ re-sentencing  
 __comprehensive__ _adj_ Broad or complete in scope or content.  
+__concussion grenade__ _n_ A grenade that produces its effect by the blast of its detonation rather than from the fragmentation of its casing.  
 __conducive__ _adj_  
 __conformal__ _adj_ [:scroll: from Late Latin _conformālis_ having the same shape, from Latin _com-_ same + _forma_ shape]  
 __connive__ _vi_  
@@ -54,6 +63,7 @@ __crease__ _n_ __1__ A line made by pressing, folding, or wrinkling. __2a__ _Spo
 __crewer__ _n_ _informal_ (informal) A member of a crew, as on a ship or spacecraft.  
 __crisis__ _n_ :mega: /ˈkraɪ sɪs/ (_n pl_ crises /ˈkraɪ siːz/)  
 __critter__ _n_  
+__crouch__ _v_  
 __cryptic__ _adj_ /KRIP-tik/ Something described as cryptic has or seems to have a hidden meaning, or is difficult to understand.  
 __cuddle__  
 __cup__ _vt_ __1__ To shape like a cup: _cup one’s hands._ _Cupping the hyperdrive levers in her hand._  
@@ -67,6 +77,7 @@ __dabble__ _v_
 __dacha__ _n_ A Russian country house or villa.  
 __damning__ _adj_ /ˈdæmɪŋ/ (of evidence or a report) Suggesting very strongly that someone is guilty of a crime or has made a serious mistake.  
 __daunting__ _adj_ Causing fear or discouragement; intimidating.  
+__dawdle__ _v_  
 __de rigueur__ _adj_ /duh-ree-GUR/ _De rigueur_ is a formal adjective that describes things that are necessary if you want to be fashionable, popular, socially acceptable, etc.—in other words, things required by fashion, etiquette, or custom.  
 __deadpanned__ _adj_  
 __dearth__ _n_  
@@ -100,6 +111,9 @@ __dreamlike__ _adj_ :es: de ensueño, como de sueño
 __dribble__ _v_ __2a__ To move (a ball or puck) by repeated light bounces or kicks, as in basketball or soccer.  
 __drizzle__  
 __dubious__ _adj_ Doubtful; of unlikely authenticity.  
+__duck<sup>1</sup>__ _n_  
+__duck<sup>2</sup>__ _vt_ __3__ To push (a person, for example) suddenly under water.  
+__duck<sup>3</sup>__ _vi_  
 __duckboard__ _n_ :camera:  
 __eclectic__ _adj_ Made up of a variety of sources or styles.  
 __ecstatic__ _adj_ /ek-STAT-ik/ Someone described as ecstatic is very happy or excited; the person feels or shows ecstasy—that is, rapturous delight.  
@@ -164,10 +178,14 @@ __fib__ _n, vi_
 __fiendish__ _adj_  
 __finagling__ _n_ :smiling_imp: /fɪˈneɪɡlɪŋ/ The use of trickery or craftiness to achieve one’s aims.  
 __finesse__ _v_ /fuh-NESS/ To finesse something is to bring it about, direct it, or manage it by skillful maneuvering. _We managed to finesse a favorable deal on some Beatles LPs at the flea market through subtle bargaining._  
+__finger<sup>1</sup>__ _n_  
+__finger<sup>2</sup>__ _vt_ :two: __1__ To touch with the fingers; handle. _Luke fingered his lightsaber._  
+__finger<sup>3</sup>__ _vi_  
 __fire grate__ _n_ (firegrate, fire-grate) A grate used to hold the fuel in domestic fireplaces and in many forms of heaters and furnaces. _She prepared the fire grates._  
 __firebomb<sup>1</sup>__ _n_ A bomb used to start a fire; an incendiary bomb.  
 __firebomb<sup>2</sup>__ _v_ To attack with firebombs.  
 __firebrand__  
+__firefight__ _n_ :two: An exchange of gunfire between two opposing forces, esp. a skirmish between military forces.  
 __first-in-class__  
 __firsthand__  
 __fish__ _v_ __3__ To seek something in a sly or indirect way: _fish for compliments._  
@@ -200,6 +218,7 @@ __fling__ _v_ :two::hammer: (flung)
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
 __flip-flops__ _n_  
 __flippant__ _adj_ /FLIP-unt/ Something described as flippant, such as behavior or a comment, is lacking in proper respect or seriousness.  
+__flock__ _n_  
 __florid__ _adj_ Flowery or elaborate in style.  
 __flyer__ _n_ (flier)  
 __folk__ _n_  
@@ -208,6 +227,7 @@ __forego__ _v_
 __forerunner__ _n_  
 __forklift__ _n_ :camera:  
 __form factor__ _n_  
+__fractionally__ _adv_ _Luke shrugged fractionally all-around._ :es: mínimamente  
 __fragile__ _adj_ :mega:  
 __fraught__  
 __freemium<sup>1</sup>__ _n_ :dart: /ˈfriːmiəm/ A way of doing business, especially on the internet, in which basic services are provided free of charge while more advanced features must be paid for.  
@@ -257,11 +277,13 @@ __hamper__ _n_ :hammer: _Laundry hamper._
 __hand truck__ _n_ (handtruck)  
 __handlebar mustache__  
 __handmaid__  
+__handsomely__ _adv_ :two::hammer: _They had profited quite handsomely._  
 __handwringing__ _n_ (hand wringing)  
 __hard-hit__ _adj_  
 __harrowing__ _adj_  
 __haul__ _vt_  
 __havoc__  
+__hew__ _v_ /HYOO/ _Hew_ is commonly used with to to mean “to conform to or adhere to (something).” _Hew_ on its own has several meanings having to do with cutting or shaping with a sharp tool, such as an ax.  
 __hiss__ _vt_ To say something in a quiet angry way. _“Shut up, Tom!” She hissed._  
 __hmm__ _vi_ To make a thoughtful humming noise.  
 __hobbit__ _n_ /HAH-bit/ A hobbit is a member of a fictitious peaceful and friendly race of small humanlike creatures that dwell underground.  
@@ -270,6 +292,7 @@ __hobble<sup>2</sup>__ _vi_
 __hobble<sup>3</sup>__ _vt_  
 __hot links__ _n_  
 __huckster__ _n_  
+__huffy__ _adj_  
 __hustler__ _n_  
 __hydrogen__ _n_ :mega:  
 __ibid__ _adv_ Ibidem.  
@@ -469,6 +492,7 @@ __malfeasance__ _n_ :two::hammer:
 __mammoth__ _n_  
 __man__ _v_ _Man your ships!_  
 __mana__ _n_ /MAH-nuh/ Power, energy, force, or prestige. _A leader of great mana and influence._  
+__manacle__ _vt_  
 __mandatory__ _n_ :mega: /ˈmæn dəˌtɔr i, -ˌtoʊr i/  
 __mangle__ _v_ __2__ To ruin or spoil through ineptitude or ignorance: _mangle a speech._  
 __mangy__ _adj_  
@@ -539,6 +563,7 @@ __mishap__
 __mite__ _n_ :hammer: _Dust mites._ :es: ácaro  
 __mold__ _n_  
 __mollify__ _v_ To calm or soothe.  
+__morose__ _adj_  
 __mull<sup>1</sup>__ _vt_ /mŭl/ To think about extensively; ponder. __1__ __2__ To heat and spice (wine, for example).  
 __mull<sup>2</sup>__ _vi_ /mŭl/ To ruminate; ponder: _mull over a plan._  
 __mulled wine__ _n_ Wine heated with sugar and spices and often citrus fruit.  
@@ -559,6 +584,7 @@ __nefarious__
 __nematode__ _n_ (nematode worm, roundworm) A type of worm belonging to the phylum Nematoda. Several nematodes are parasites on animals and humans and cause disease.  
 __neologism__ _n_ :dart: /nee-AH-luh-jiz-um/ _Neologism_ can refer either to a new word or expression or to a new meaning of an existing word. _I love seeing all the slangy neologisms that pop up on social media every year._  
 __nerve-racking__ _adj_ (nerve-wracking)  
+__nestled__ _adj_ Drawn or pressed close to someone or something for or as if for affection or protection.  
 __netherworld__  
 __neurovascular__ _adj_ :two: /ˌnʊərəʊˈvæskjʊlə/ Of, relating to, or affecting both the nerves and the blood vessels.  
 __New Orleans__ _n_ :mega:  
@@ -669,6 +695,7 @@ __pet parent__ _n_ A person who looks after a pet animal.
 __pet peeve__  
 __petrichor__ _n_ :dart::astonished::two: /ˈpɛtrɪˌkɔː/ [:scroll: from Greek _petra_ stone + Greek myth _ichor_, the fluid said to flow in the veins of the gods]  
 __petrol station__ _n_ _Syn_ filling station, gas station, gasoline station  
+__pettiness__ _n_  
 __petulance__ _n_  
 __petulant__ _adj_ :two::hammer:  
 __phantasmagorical__ _adj_ /fan-taz-muh-GOR-i-kuhl/ Illusory; strange; deceptive; imaginary; surreal; hallucinatory.  
@@ -691,6 +718,7 @@ __pimple__ _n_ :es: espinilla
 __pimply__ _adj_ /ˈpɪm pli/ Having many pimples.  
 __pinafore__ _n_  
 __pip__ _n_ __1__ (Veterinary Science) A contagious disease of poultry characterized by the secretion of thick mucus in the mouth and throat. __2__ _facetious slang_ A minor human ailment.  
+__pique__ _n_ :two: [:scroll: C16: from French, from _piquer_ to prick, sting] _You can’t let people die out there just because of personal pique._  
 __pit__ _vt_ __2__ To set in direct opposition or competition: _a war that pitted brother against brother._  
 __pitch<sup>1</sup>__ _n_ :es: (esp. _British_) campo, cancha  
 __pitch<sup>2</sup>__ _vt_  
@@ -751,7 +779,7 @@ __prehensile__ _adj_ :astonished: Immoderately desirous of acquiring e.g. wealth
 __presage__ _v_ :mega: /PRESS-ij/ To presage something is to give or be a sign that it will happen in the future. Presage is a formal synonym of _foreshadow_, _foretell_, and _predict._ _// The sudden gloom and ominous dark clouds clearly presaged a nasty storm._  
 __presentation__ _n_ /prez-uhn-tey-shuhn, pree-zen-tey-shuhn/  
 __prevalent__ _adj_  
-__primed__ _adj_ (usually followed by _to_ or _for_) Prepared for use or action. On the point of or strongly disposed. _Syn_ set, fit  
+__primed__ _adj_ :two: (usually followed by _to_ or _for_) Prepared for use or action. On the point of or strongly disposed. _Syn_ set, fit  
 __prissy__ _adj_  
 __privilege__ _n_ :mega: /ˈprɪv ə lɪdʒ, ˈprɪv lɪdʒ/  
 __prix__ _n_ :mega:  
@@ -773,6 +801,7 @@ __pucker<sup>2</sup>__ _n_ A wrinkle, crease, or irregular fold.
 __puckering__ _n_ Corrugations in metal parts resulting from pressing or drawing.  
 __pudgy__ _adj_  
 __puff__ _v_  
+__pulsation__ _n_ The rhythmic contraction and expansion of the arteries with each beat of the heart. _Syn_ heartbeat  
 __pulse__ _n_ __1__ The edible seeds of certain pod-bearing plants, such as lentils and chickpeas. :es: legumbres __2__ A plant yielding these seeds.  
 __pummel__ _v_ _A pummeled penny on the train track._  
 __pumpkin spice__ _n_ A mixture of usually cinnamon, nutmeg, ginger, cloves, and often allspice that is commonly used in pumpkin pie.  
@@ -932,7 +961,7 @@ __roster__ _n_
 __rout__ _n_ :two::hammer:  
 __row__ _n_ :astonished: __1__ A noisy or quarrel or disturbance.  
 __rudder__ _n_  
-__ruefully__ _adv_  
+__ruefully__ _adv_ :two::hammer: _Syn_ contritely, remorsefully  
 __ruminate__ _v_ /ROO-muh-nayt/ To ruminate is to think carefully and deeply about something.  
 __runes__ _n_ __1__ Symbols of an ancient alphabet, used for divination.  
 __runnel__ _n_  
@@ -968,6 +997,7 @@ __scrap<sup>1</sup>__ _n_ __5__ :smiling_imp: A fight or scuffle. _Syn_ brawl
 __scrap<sup>2</sup>__ _vt_  
 __scrap<sup>3</sup>__ _vi_ :smiling_imp: To fight, usually with the fists.  
 __screwworm__ _n_ The larva of the screwworm fly. The larva of a blow fly, _Cochliomyiamacellaria_, that is a pest of livestock.  
+__scrimshaw__ _n_  
 __scrollwork__  
 __scruffy__ _adj_  
 __scuffed shoes__  
