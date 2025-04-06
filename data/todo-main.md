@@ -2,15 +2,17 @@ __A pager__ _n_ A simple wireless communications device that receives text messa
 __ab ovo__ _adv_ From the beginning.  
 __abduct__ _vt_  
 __accursed__ _adj_ Under a curse. _Syn_ maledict  
+__ad lib__  
 __adduct<sup>1</sup>__ _vt_ _A hyper-adducted right radial artery approach._  
 __adduct<sup>2</sup>__ _n_  
 __Agatha__ _n_ :mega: /ˈæɡəθə/  
 __aloof__ _adj_  
-__ancillary__ _adj, n pl_  
+__ancillary__ _adj, n_  
 __archetype__ _n_ /AHR-kih-type/ _Archetype_ refers to someone or something that is seen to be a perfect example. It is also a word for the original pattern or model of which all things of the same type are representations or copies.  
 __atherectomy__ _n_ Surgical removal of atherosclerotic plaque from an artery using a catheter fitted with a cutting device.  
 __baleen whale__ _n_ Another name for whalebone whale.  
 __bastion__ _n_ _Be a bastion of truth in a time of lies._  
+__benign__ _adj_ /bih-NYNE/  
 __Big Mouth Billy Bass__ _n_ An animatronic singing prop, representing a largemouth bass, invented by Gemmy Industries on December 16, 1998; sold beginning January 1, 1999; and popular in the early 2000s.  
 __billet-doux__ _n_ (_n pl_ billets-doux) A love letter.  
 __black eyed peas__ _n pl_ (Notice that black eyed peas aren’t peas!)  
@@ -19,7 +21,9 @@ __bleachers__
 __blitz__ _n_ (blitzkrieg)  
 __blow fly__ _n_ (blowfly) Large usually hairy metallic blue or green fly; lays eggs in carrion or dung or wounds.  
 __blow-dryer__ _n_  
+__bode__ _v_ :two:hammr:  
 __bristle__ _v_ _Laia bristled._  
+__canister__ _n_ _Oxygen canister._  
 __carcass__ _n_  
 __cavort__ _v_ Play boisterously. _Syn_ frisk, frolic, gambol, lark, rollick, romp, run around, skylark, sport, disport _The children cavorted in the water, splashing and ducking each other._  
 __cogent__ _adj_ Convincing; reasonable.  
@@ -165,6 +169,8 @@ __fast-moving__ _adj_ _She died of a fast-moving cancer._
 __faucet__ _n_ :camera:  
 __fault line__ _n_  
 __fave__ _adj, n_ /feɪv/ _informal_ Short for favorite.  
+__fazed__ _adj_ Disconcerted; worried; disturbed.  
+__Fed__ _n informal_ __1__ The Federal Reserve. __2__ (often _fed_) A federal agent or official.  
 __feint<sup>1</sup>__ _n_ /feɪnt/ __1__ A mock attack or movement designed to distract an adversary, as in a military manoeuvre or in boxing, fencing, etc. __2__ A misleading action or appearance. :es: finta  
 __feint<sup>2</sup>__ _vi_ To make a feint.  
 __feisty__ _adj_ :astonished: /FYE-stee/ _Feisty_ describes someone who has or shows a lively aggressiveness especially in being unafraid to fight or argue. In some regions of the US, _feisty_ may also be used as a synonym of _fidgety_, _quarrelsome_, or _frisky_. _Even her opponents admire her feisty spirit._  
@@ -236,7 +242,9 @@ __freighter__ _n_
 __frieze__ _n_  
 __frond__ _n_  
 __frontline__ _adj, n_  
+__frontrunner__ _n_  
 __fruitless__ _adj_ :two::hammer:  
+__fungicide__ _n_ A chemical substance that destroys or inhibits the growth of fungi. _Syn_ antifungal, antimycotic  
 __funnel__ _v_ :dart: __6__ :dart: To concentrate or focus or be concentrated or focused in a particular direction: _they funnelled their attention on the problem._  
 __futile__ _adj_ /ˈfyut l, ˈfyu taɪl/  
 __galoshes__  
@@ -290,6 +298,7 @@ __hobbit__ _n_ /HAH-bit/ A hobbit is a member of a fictitious peaceful and frien
 __hobble<sup>1</sup>__ _n_  
 __hobble<sup>2</sup>__ _vi_  
 __hobble<sup>3</sup>__ _vt_  
+__holdout__ _n_  
 __hot links__ _n_  
 __huckster__ _n_  
 __huffy__ _adj_  
@@ -297,6 +306,7 @@ __hustler__ _n_
 __hydrogen__ _n_ :mega:  
 __ibid__ _adv_ Ibidem.  
 __idealize__ _v_ To consider perfect.  
+__idol__ _n_ :mega:  
 __impartial__ _adj_ Not in favor of one side or the other; unbiased.  
 __imperious__ _adj_ Arrogantly domineering or overbearing.  
 __imperturbable__ _adj_ /im-per-TER-buh-bul/ _Imperturbable_ describes someone or something marked by extreme calm; such a person or thing is very hard to disturb or upset.  
@@ -331,6 +341,7 @@ __inordinate__ _adj_
 __insidious__  
 __interfere__ _v_  
 __interpenetrate__ _v_ Spread or diffuse through. _Syn_ imbue, permeate, pervade, diffuse, riddle, penetrate  
+__interreign__ _n_ An interregnum.  
 __intersperse__ _v_  
 __interstice__ _n_ /ɪnˈtɜr stɪs/ __1__ A small or narrow space or interval between things or parts: _the interstices between the slats of a fence._ __2__ An interval of time.  
 __intonation__ _n_ /ˌɪntəʊˈneɪʃən/ /ˌɪn toʊˈneɪ ʃən, -tə-/  
@@ -435,7 +446,7 @@ __lexical__ _adj_ /LEK-sih-kul/ To describe something as _lexical_ is to say tha
 __library__ _n_ :mega: /lahy-brer-ee/  
 __lickspittle__ _n_ A contemptible, fawning person; a servile flatterer or toady.  
 __lidless__ _adj_ Watchful; vigilant. _Syn_ sleepless  
-__lifeline__  
+__lifeline__ _n_ :two::hammer:  
 __lift__ _v_ _Lift the sanctions._  
 __lightsaber__ _n_  
 __likely<sup>1</sup>__ _adj_  
@@ -576,6 +587,7 @@ __mythbuster__ _n_ A person who debunks misconceptions.
 __nab__ _vt_  
 __nail clipper__ _n_ :two::camera: (also called nail clippers, a nail trimmer, a nail cutter or nipper type) A hand tool used to trim fingernails, toenails and hangnails. A lever-type nail clipper with a file.  
 __nail file__ _n_ A small flat file used for shaping and smoothing the fingernails and toenails.  
+__namely__  
 __nameplate__ _n_ __1__ A plate or plaque, as on an office door, inscribed with a name.  
 __nape__ _n_  
 __nappy__ _n_ _Chiefly British_ A diaper.  
@@ -870,7 +882,7 @@ __raving<sup>1</sup>__ _n_
 __raving<sup>2</sup>__ _adj_ Delirious, irrational speech.  
 __ravish__ _v_  
 __reach out__ _v_  
-__readout__ _n_ The output of information from a computer in readable form.  
+__readout__ _n_ :three: The output of information from a computer in readable form.  
 __ready meal__ _n_  
 __ready room__ _n_ :two::hammer:  
 __ready__ _vt_ To cause to be ready.  
@@ -1003,12 +1015,15 @@ __scruffy__ _adj_
 __scuffed shoes__  
 __scuffling<sup>1</sup>__ _adj_ Of or relating to fighting in a disorderly manner. _Scuffling sounds._  
 __scuffling<sup>2</sup>__ _n_ The act of fighting in a disorderly manner.  
+__scupper__ _v_  
 __seamstress__ _n_ :dart:  
 __search warrant__ _n_  
 __second language__ _n_  
+__secret__ _n_ :mega:  
 __secular__ _adj_ /SEK-yuh-ler/ _Secular_ describes things that are not spiritual; that is, they relate more to the physical world than the spiritual world. The word also carries the closely related meaning of “not religious.”  
 __seed funding__ _n_ The early investment of capital in a startup company in exchange for an equity stake in the company.  
 __sell-off__ _n_ (selling-off) __1__ A sudden and marked decline in stock or bond prices resulting from widespread selling.  
+__sensor dish__ _n_ _At least the sensor dish is still there._  
 __sentient__ _adj_ :two::hammer:  
 __sepulchral__ _adj_ Gruesomely indicative of death or the dead. _Syn_ charnel, ghastly  
 __servitude__ _n_  
@@ -1025,7 +1040,9 @@ __shim__ _v_
 __shish kebab__ _n_ A dish consisting of pieces of seasoned meat and sometimes vegetables roasted on skewers and served with condiments.  
 __shoo__ _vt_  
 __shopkeeper__ _n_  
+__shortage__ _n_ :mega:  
 __shoulder__ _v_  
+__show time__ _n_ __2__ _slang_ The time at which an activity is to begin.  
 __shrive__ _v_  
 __Shrove Tuesday__ _n_ The Tuesday before Ash Wednesday.  
 __shuffle__ _v_ __6__ (when _vi_, often foll by _into_ or _out of_) to move or cause to move clumsily: _he shuffled out of the door._ _He shuffled his way out of the room._  
@@ -1067,8 +1084,10 @@ __smitten__ _adj_
 __smote__ _v_ Past tense and a past participle of smite.  
 __snappy__ _adj_  
 __snare drum__ _n_ _Syn_ side drum, snare  
+__snark__ _n_ /SNAHRK/ _Snark_ is an informal word that refers to an attitude or expression of mocking irreverence and sarcasm.  
 __sneer__  
 __snicker__ _v_  
+__snide__ _adj_ _Snide comments._  
 __snort<sup>1</sup>__ _n_  
 __snort<sup>2</sup>__ _vi_  
 __snort<sup>3</sup>__ _vt_  
@@ -1099,9 +1118,11 @@ __starboard<sup>1</sup>__ _n_ :two: The right-hand side of a ship or aircraft as
 __starboard<sup>2</sup>__ _adj_ :two: On the right-hand side as one faces forward.  
 __starboard<sup>3</sup>__ _adv_ :two: To or toward the right-hand side as one faces forward.  
 __stardom__ _n_  
+__start__ _v_ _Han started down the Falcon’s entry ramp._  
 __stash__ _n, vt_  
 __stasis__ _n_  
 __statutory__  
+__steroids__ _n_ :mega:  
 __stirrup pants__ _n_  
 __stoic__ _adj_ Indifferent to pleasure or pain; impassive.  
 __stoops__  
@@ -1126,6 +1147,7 @@ __T-bone__
 __tackle__ _vt_ __2__ _Sports_ __a__ To stop (an opponent carrying the ball), especially by forcing the opponent to the ground. __b__ To obstruct (a player with the ball) in order to cause loss of possession of the ball. __3__ To engage or deal with: tackle a perplexing problem.  
 __tadpole__ _n_ [:scroll: C15 _taddepol_, from _tadde_ toad + _pol_ head, poll]  
 __tantrum__ _n_  
+__tartly__ _adv_  
 __templet__ _n_ A model or standard for making comparisons. _Syn_ guide, template  
 __tenuous__ _adj_ :two:Having little substance or strength; unsure; weak.  
 __thirty-odd__ _n_ (30-odd) Being in excess of the indicated or approximate number, extent, or degree. Often used in combination: _invited 30-odd guests._  
@@ -1134,7 +1156,9 @@ __thunderclap__ _n_
 __tier__ _n_  
 __timorous__ _adj_ Timid; fearful.  
 __tin foil__  
+__tinder__ _n_ Readily combustible material, such as dry twigs, used to kindle fires. _Syn_ kindling, spunk, touchwood, punk  
 __tinker__ _v_  
+__token__ _adj_ _Token return fire._  
 __tornado__ _n_ [Although tornados and hurricanes may have winds that are hundreds of miles an hour, a tornado is restricted to land, and comparatively small (usually traveling 10 or 20 miles); a hurricane forms over water in tropical oceans, and can be as much as a thousand times larger than a tornado.] A violent destructive whirling wind accompanied by a funnel-shaped cloud that progresses in a narrow path over the land.  
 __tortoise__ _n_ (_vs_ turtle)  
 __transfixed__  
@@ -1143,9 +1167,11 @@ __transmigrate__ _v_ Be born anew in another body after death. _Syn_ reincarnate
 __transpire__ _v_ :astonished /tran-SPYRE/ _Transpire_ is a formal verb that means “to happen,” or in other words “to take place or occur.” It can also mean “to come to light” or “to become known,” as in “It transpired that they had met previously.” In botany, to transpire is to give off or exude watery vapor especially from the surfaces of leaves.  
 __tricked-out__ _adj_ _Tricked-out car._  
 __triviality__ _n_ Something of small importance. _Syn_ small beer, trivia, trifle  
+__troop__ _n_  
 __trounce__ _v_ Come out better in a competition, race, or conflict. _Syn_ beat, vanquish, crush, shell _Australia trounced France by sixty points to four._  
 __truckload__  
 __truncheon__ _n_  
+__tuft__ _n_ _Tail tuft._  
 __turd__ _n_  
 __turtle__ _n_ (_vs_ tortoise)  
 __turtleneck__ _n_  
@@ -1153,6 +1179,8 @@ __tweed__ _n_ _Tweed jacket._
 __tweezers__ _n pl_ _Flat tip conventional tweezers._  
 __unalienable__ _adj_ (inalienable) Impossible to take away or give up.  
 __uncomely__ _adj_ Not good-looking or attractive.  
+__undertow__ _n_ The seaward undercurrent created after waves have broken on the shore. _Syn_ sea purse, sea puss, sea-poose _The beachgoer was caught in the undertow and dragged out to sea._  
+__unseat__ _vt_  
 __untoward__ _adj_ /un-TOH-erd/ _Untoward_ is a formal word that describes something that is improper or inappropriate, or that is adverse or unfavorable. _The medication is safe and effective, with no known untoward side effects._  
 __unwarranted__ _adj_ Having no justification; groundless: _unwarranted interference._ _Syn_ baseless  
 __unwieldy__ _adj_ :astonished: _The suddenly unwieldy craft._ :es: difícil de manejar; rígido  

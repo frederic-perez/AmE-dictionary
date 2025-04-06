@@ -116,7 +116,9 @@ __HSIA__ High speed Internet access.
 __HTN__ Hypertension.  
 __HVAC__  
 __hx__ Medical history. _The only relevant hx is WPW ablation 20 years prior._  
+__i.e.__ :mega: /ai ˈiː/ _Latin_ id est (that is).  
 __ICE__ Immigration and Customs Enforcement.  
+__ICS__ Internet calendar and scheduling.  
 __ICU__ Intensive care unit.  
 __ICYMI__ An abbreviation for “in case you missed it,” alerting someone to something that they might not have seen or heard about. _ICYMI, these are the five biggest fashion trends for summer._  
 __IDF__ Israel Defense Forces.  
