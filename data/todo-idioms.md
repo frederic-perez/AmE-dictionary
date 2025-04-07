@@ -26,6 +26,7 @@ __a (good) run for your money__ (a run for your money, a run for one’s money)
 __a (whole) host of (something)__  
 __a bad egg__ :smiling_imp:  
 __a balancing act__ :dart::two::hammer:  
+__a big deal__  
 __a big if__  
 __a bit dicey__ :two: Carrying a certain degree of risk or danger; uncertain of a favorable outcome.  
 __a blast from the past__ Someone or something that evokes a sense of nostalgia. _Bumping into my old high school sweetheart in the grocery store was a real blast from the past._  
@@ -58,7 +59,7 @@ __a morning person__ Someone who is more active and alert in the early hours of 
 __a mother hen__ A person who looks out for the welfare of others, especially to a fussy, intrusive, or overprotective degree. _Jenny can be a bit of a mother hen when we’re out at the bars. I wish she would just relax a little and let us have a good time!_  
 __a motor mouth__ A person who talks incessantly or irrepressibly. _Jake is such a motor mouth that I find it exhausting talking to him!_  
 __a new coat of paint__ The phrase “a new coat of paint” is an idiom that means giving something a fresh appearance or updating it, often to make it look more appealing or modern. It can refer to physically painting an object or structure, but it’s also used metaphorically to describe revitalizing or improving something, like a project, idea, or even a person’s style. It’s about making something look new again without necessarily changing its core essence.  
-__a no-go__  
+__a no-go__ :two::hammer:  
 __a piece of advice__  
 __a sinking feeling__ (sinking feeling)  
 __a slew of (something)__ A very large number or amount of something; a lot of something.  
@@ -73,7 +74,9 @@ __against all odds__
 __ahead of the curve__ :three::hammer:  
 __all eyes are on (someone or something)__ Everyone is paying close attention to someone or something.  
 __all in all__  
+__all in__  
 __all shapes and sizes__  
+__all the better__ Even better.  
 __all the more reason for (doing something)__ (all the more reason to (do something)) What has just been stated is an added reason or motivation to do something. With even better reason or cause for doing something. _If your crush likes basketball, that’s all the more reason for coming with me to the game tonight!_  
 __all the same__  
 __all things being equal__ :two: (other things being equal) In the event that all aspects of a situation remain the same.  
@@ -81,6 +84,7 @@ __all told__ In total. This phrase can be applied to numerical sums or to the co
 __all too easy__  
 __all too soon__ The idiom “all too soon” means that something happened much earlier than expected or desired, often with a sense of regret or disappointment. It conveys the idea that an event occurred prematurely or that a positive experience ended quickly. “The holidays were over all too soon,” implies that the speaker wished the holidays had lasted longer. “Graduation came all too soon,” suggests that the speaker felt unprepared for the end of their schooling.  
 __and everything in between__ The idiom “and everything in between” refers to the entire range or spectrum of things, situations, or possibilities that fall between two extremes. It’s used to express inclusivity of a broad variety of elements within a certain category or context.  
+__as of now__  
 __as of yet__  
 __as we know it__ As it is now or has been for a long time; as we currently experience it.  
 __at bay__  
@@ -90,10 +94,12 @@ __attaboy__
 __back to the salt mines__ :dart:  
 __Backhanded compliment__ A remark that appears to be a compliment but also contains an insult or a negative implication. It often undermines the praise given, making it ambiguous and potentially hurtful.  
 __be a cakewalk__  
+__be a good sport__  
 __be hard on (one)__  
 __be more trouble than it’s worth__ To not be important, useful, or beneficial enough to justify the effort or difficulty that something requires. _With all the repairs this car will need to be road-worthy, it’s going to be more trouble than it’s worth!_  
 __be ripe for the picking__ To be in an ideal position or at the perfect stage to be utilized, benefited or profited from, taken advantage of, exploited, etc. (Alludes to fruit being at the right stage to be harvested.)  
 __be the shit__ _rude slang_ To be very good, excellent, cool, etc.  
+__beats me__ :two: ((it) beats me) _slang_ A response when one does not know the answer to a question.  
 __beer goggles__  
 __belly up__ Dad.  
 __big ass (something)__ A slang term for referring to something large. _Yo bernie, are you plannin’ a big ass party?_  
@@ -103,12 +109,15 @@ __bomb(shell)__ A stunning piece of news that is dropped without warning.
 __booger__  
 __bootlicker__ _Syn_ ass-kisser, crawler, sycophant, toady, lackey  
 __bored to death__  
+__bottle__  
 __boy oh boy__  
+__brain fade__ :dart:  
 __bring (someone) to tears__ The idiom “bring (someone) to tears” means to cause someone to cry, often due to strong emotions such as sadness, joy, or overwhelming feelings. It can refer to a situation, event, or piece of art (like a movie, song, or book) that evokes a deep emotional response, leading the person to shed tears.  
 __bubble up__  
 __bump-drafting__  
 __bury the hatchet__  
 __Busman’s holidays__ _informal_ A vacation during which one engages in activity that is similar to one’s usual work.  
+__by all accounts__  
 __by and large__  
 __by the day__ Per day; at a daily rate.  
 __by the truckload__  
@@ -123,7 +132,7 @@ __checks and balances__ :dart: Rules within a power structure that keep one pers
 __chew on this bone__  
 __chide (one) for (something)__ To reprimand or tease one about something.  
 __cleanup hitter__ In baseball, the cleanup hitter is the hitter who bats fourth in the lineup. Although the third man up is generally the hitter with the highest batting average, cleanup hitters often have the most power on the team and are typically the team’s best power hitter; their job is to “clean up the bases,” hence the name.  
-__clear the air__  
+__clear the air__ :two::hammer:  
 __close to one’s chest__  
 __cold email__ An unsolicited email sent to someone with whom the sender has no prior relationship, usually for professional or business purposes.  
 __cold feed__  
@@ -172,8 +181,7 @@ __don’t mention it__
 __done and dusted__ Successfully finished. Primarily heard in UK.  
 __doodad__ A name for a gadget or thing whose actual name is unknown or has been forgotten. _Where’s that doodad? I need it to finish this repair._  
 __dooge__ _n_ Internet slang for dog; a meme about a Shiba Inu; a cryptocurrency; a proposed ‘government efficiency’ task force.  
-__doom amd gloom__  
-__doom and gloom__  
+__doom amd gloom__ :three::hammer:  
 __doomscrolling__ :dart: __1__ (informal, neologism) The practice of continually reading Internet news about catastrophic events. __2__ (by extension) Continuously and aimlessly consuming any content on social media, particularly sites that utilize a scrolling format, such as Instagram, TikTok, and Twitter.  
 __double duty__  
 __double whammy__ A situation in which two negative things happen at the same time or in rapid succession. _Jack suffered a double whammy when his car broke down the same day he lost his job._  
@@ -213,6 +221,7 @@ __entreat (one’s) to (do something)__
 __ethnic cleansing__ The elimination of a particular ethnic group from a population, as through forced emigration or genocide. The expulsion, imprisonment, or killing of an ethnic minority by a dominant majority in order to achieve ethnic homogeneity. It is considered a war crime.  
 __every now and then__  
 __every so often__ Sometimes; occasionally.  
+__eyeball__  
 __factor in__ :two::hammer:  
 __fair and square__ :two::hammer:  
 __fall flat__ __1__ To fail or be ineffective. _Good luck—the last time management tried to implement a new dress code, that measure fell flat._ __2__ To fail to be humorous, as of a joke. _A: “Unfortunately, my first stand-up routine really fell flat.” B: “Well, maybe you just had the wrong audience.”_  
@@ -227,18 +236,25 @@ __fancy that__ Used to comment on something that is hard to imagine. _The baby s
 __fancy__ _informal_ __2__ To have a desire for (something).  
 __fantabulous__  
 __fart jokes__ An extremely crude and low-class type of “comedy,” only appreciated by distasteful individuals, who normally are average high-school jocks, or an extremely stupid person.  
+__fear of the needle__  
 __feel the heat__  
 __flame out__ __1__ To be very unsuccessful or fail. _That guy flamed out really quickly—his NBA career lasted only a few months._  
+__for a change__ _Threepo was keeping his mouth shut for a change._  
+__for good measure__ As extra or in addition, to ensure that something is good or successful. _You should put your report into a protective cover for good measure._  
 __for good__  
+__for the foreseeable future__  
 __fortunes of war__ (the fortunes of war)  
 __French tickler__ :camera:  
 __from the ground up__ From the first step through to completion; entirely.  
+__front row seat__  
+__gear up__ To ready oneself, someone, or something for something.  
 __gee__ __2__ _exclam._ Wow! (An abbreviation of Jesus!, although not always recognized as such. Usually Gee!) _Golly gee, do I have to?_  
 __geek out__  
 __get a grip (on yourself)__ :dart: To make an effort to control your emotions and behave more calmly. _Come on, get a grip, we’ve got an important meeting in five minutes._  
 __get a handle on (something)__ To have a firm, clear understanding or determination of something.  
 __get hell__ To receive the brunt of another’s anger, often through scolding.  
 __get into it__ __2__ To engage in a verbal or physical altercation with someone. _I can’t believe you got into it with the biggest kid in your class._ _I was on a flight recently when the woman next to me got into it with the flight attendant._  
+__get the job done__  
 __get to know__ :two::hammer:  
 __ghost gun__ A gun without serial numbers that cannot be easily tracked, especially a home-made gun built with non-registered, partially finished or 3D printed components.  
 __gild the lily__  
@@ -255,21 +271,31 @@ __grit__
 __gut check__  
 __hands off__  
 __have more than one string to (one’s) bow__ To have multiple viable options or alternatives available in the event that the current course of action, circumstance, opportunity, etc., does not work out. _With all this varied job experience under my belt, I have more than one string to my bow if this particular career path isn’t to my liking._  
+__have the mouth of a sailor__ To have a tendency to use profanities or vulgar language very freely or frequently. (An allusion to the rough language presumed to be used by navy personnel.)  
+__have the nerve (to do something)__  
+__heres the hitch__  
+__high muckety muck__ _slang_ An especially important, influential, and authoritative person, especially someone who is overbearingly or arrogantly so. _Were just waiting for the high muckety muck to give us the green light before we get the project started._  
 __highways and byways__  
 __hit and fade__  
+__hit the road__  
 __HMU__ Hit me up.  
 __hogwash__  
+__hold (one’s) breath__  
 __hold the phone__ __2__ Wait; stop. Wait just a minute.; Don’t rush into something. _Hold the phone! Let’s think about it a little longer._ _Hold the phone. I just had another idea._ _Whoa, hold the phone—Jack and Jamie are dating now?_  
 __hoopla__  
 __hope springs eternal__  
 __if nothing else__ :two::hammer:  
+__in a pickle__ In a troublesome or difficult situation. The adjectives “pretty” and “right” are commonly used before “pickle.” _He was really in a pickle when he dropped his sandwich in the actual pickle jar!_  
 __in all honesty__ In one’s sincere opinion; without any disingenuousness. _In all honesty, I think this project plan is severely flawed._  
+__in any way, shape or form__ :two::hammer:  
 __in brief__ In summary; to say it briefly. _The film was, in brief, dull._ _If you can, please explain it in brief._ _Medical news in brief: ..._  
+__in cahoots__ _Those two cats were definitely in cahoots; they were planning something fishy!_  
 __in custody__ (of someone or something)  
 __in dribs and drabs__  
 __in full swing__  
 __in like a lion, out like a lamb__ _proverb_ Used to describe the weather in March in the northern hemisphere, where it tends to be very harsh and unpleasant in the beginning but milder and more palatable at the end. A shortening of the full phrase, “March comes in like a lion and goes out like a lamb.” _A: “I just wanted this awful cold weather to be over!” B: “It shouldn’t be much longer now. March always comes in like a lion, but it goes out like a lamb.”_  
 __in more ways than one__  
+__in no way, shape, or form__  
 __in one’s book__  
 __in the cards__ _AmE_ (_BrE_ on the cards) [:scroll: This phrase probably refers to the practice of using playing cards or tarot cards to foretell the future] Very likely or certain to happen, occur, or take place.  
 __in the hope of__  
