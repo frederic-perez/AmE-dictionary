@@ -17,6 +17,7 @@
 - __Ada__ A feminine given name. One origin is the Germanic element “adel-” meaning “nobility.” for example as part of the names Adelaide and Adeline. The name can also trace to a Hebrew origin, sometimes spelt Adah עָדָה, meaning “adornment.”
 - __Alf__ The male name Alf or Alv is derived from álf, the Old Norse for “elf.” It is also the shortened form of various Germanic names with álf as their first part, notably Alfred, Álvaro, or more directly from Ataulf (English: Adolph).
 - __Ann__ Variant of Anne, Ann is a form of the Latin female given name Anna. This in turn is a representation of the Hebrew Hannah, which means ‘favour’ or ‘grace.’ Related names include Annie.  
+- __Ava__ The name Ava is primarily a feminine given name used in English and other languages. It has various origins and meanings. In English, it can be a variant of Eve or Eva, and it is also an ancient Germanic name, a diminutive of names with the element avi, with an uncertain meaning.
 - __Bea__ A feminine given name, often short for Beatrice.
 - __Ben__ Ben is frequently used as a shortened version of the given names Benjamin, Benedict, or Benson, and is also a very common given name in its own right.
 - __Bob__ A hypocorism, usually of Robert, and sometimes a diminutive of Bobby.
@@ -25,10 +26,12 @@
 - __Deb__ A given name, usually feminine and often a shortened version (hypocorism) of Deborah or Debra.
 - __Dee__ A female given name, short for names beginning with “d.”
 - __Edd__ A short form or nickname for names like Edward or Edmund.
+- __Eli__ The given name Eli is primarily a male name of Hebrew origin, meaning “height” or “elevated.” It can also be interpreted as “my God.”
 - __Emy__ Emy’s language of origin is Germanic,Gothic, Germanic, Latin, and Latin. Emy is a derivative of the Dutch and English Emmy. Emy is a short form of Emilie and Emma. Emy means “universal”, “whole” and “eager”, “industrious” or “ambitious”.
 - __Eve__ Derived from the Latin name Eva.
 - __Hal__ A masculine given name, often a diminutive form (hypocorism) of Harold or Henry or Harvey, and a nickname.
 - __Han__ A Dutch masculine given name. It can be a short form of Johannes or of Hendrik/Henricus.
+- __Ian__ The name Ian is of Scottish Gaelic origin, derived from the Hebrew name Yohanan, and means “God is gracious” or “the Lord is gracious.” It is the Scottish version of the name John and can also be spelled Iain.
 - __Ike__ Diminutive of Isaac. This was the nickname of the American president Dwight D. Eisenhower (1890-1969), based on the initial sound of his surname.
 - __Jay__ A common given name and nickname. It may be a nickname for Japhet, Jaymond, Jane, James, Javonne, Jamie, Jacob, Jared, Joaquin, Javad, Jeremy, Jeffrey, John, Jules, Jonathan, Joseph, Jason, Jamin, Jaylin, Jordan, Justin, Joel, Jayakumar, etc.
 - __Jeb__ A masculine given name or nickname. It can be derived from the initials “J.E.B.,” or from “Jebediah,” a variant of the biblical name “Jedediah.”
@@ -42,12 +45,14 @@
 - __Kay__ In English-speaking countries, it is usually a feminine name, often a short form of Katherine or one of its variants; but it is also used as a first name in its own right, and also as a masculine name (for example in India, the Netherlands, and Sweden).
 - __Ken__ A masculine given name of Scottish / Scottish Gaelic origin. It is used either as a given name or as a short form of names with the letters “Ken” (like Kenneth, Kenan, Kendrick, Kendall, Kennedy, Mackenzie or Kenson). Ken is also a Japanese name which can have many different meanings depending on the kanji used.
 - __Kev__ A diminutive of the male given name Kevin.
+- __Kim__ Kim is a unisex given name. It is also used as a diminutive or nickname for names such as Kimber, Kimberly, Kimberley, Kimball and Kimiko. In Kenya, it is short for various male names such as Kimutai and Kimani. In Vietnam, it is also a unisex name.
 - __Lea__ The name Lea is a feminine given name with rich historical and cultural significance, primarily derived from the Hebrew name Leah.
 - __Lee__ Lee is a given name derived from the English surname Lee. Lee is also a hypocoristic form of the given names Ashley, Beverly, Kimberley, Leona, and Leslie.
 - __Len__ Len is a masculine given name, usually a short form (hypocorism) of Leonard.
 - __Leo__ Leo is a Latin given name. It is usually a masculine given name and it comes from the Latin word leo which in turns comes from the Greek word λέων meaning “lion.” It can also refer to the name Leonard or Leopold.
 - __Lex__ Lex is Greek in origin and is originally a diminutive of Alexander or Alexandra, which means “defender of men.” These days, Lex is a given name in its own right. It is a short and quippy name that not many on the playground will also have.
 - __Liz__ A women’s name of Hebrew origin, meaning “God’s Promise”. It is also a short form of Elizabeth, Elisabeth, Lisbeth, Lizanne, Liszbeth, Lizbeth, Lizabeth, Lyzbeth, Lisa, Lizette, and Alyssa.
+- __Max__ Max is a given name. For males, it is often short for Maximilian, Maxim, Maxwell, Maxfield, or Maximus in English; Maximos in Greek; or Maxime or Maxence in French. For females, it usually stands for Maxine.
 - __Meg__ Often a short form of Margaret, Megan, Megumi (Japanese), etc.
 - __Mel__ Abbreviated version of the given names Melvyn, Melvin, Melanie, Melika, Melhem, Melina, Melinda, Melody, Melissa, Melitta, Melchior, Melindro.
 - __Mia__ Mia is a female given name, originating as a hypocoristic of various unrelated names. It is usually derived from the name Maria and its variants (Miriam, Maryam, Mary), but it is reportedly also used as a hypocoristic of names such as Amalia, Amelia, Emilia, Emily or Maya.
@@ -70,6 +75,7 @@
 - __Tod__ The name Tod is derived from the Old English word “todde,” which means “fox.” This animal association has contributed to the name’s popularity, as foxes are often associated with cleverness, agility, and adaptability.
 - __Tom__ Mostly used as a diminutive of Thomas.
 - __Uma__ A given name in various cultures. In India, it is the name of the Hindu goddess, who is more commonly known as Parvati. In Sanskrit the word _umā_ can further mean “tranquillity,” “splendour,” “fame” and “night.”
+- __Val__ Val is a variant of the feminine given names Valerie, Valeria, Valmai, Valentina or the masculine given names Valeri, Valene, Valentine, Valen, Valentino, or Valens. Val is also a variant of the Old Norse names Vald and Valdr.  
 - __Wes__ A given name, often a short form of the name Wesley but can also be used as a standalone name. Wes is typically used for males, though it can be used for anyone.  
 - __Zac__ Zack (and variant spellings Zach, Zac, Zak, Zakk) is sometimes a given name, but more often it is a hypocorism or short form of another given name, usually Zachary in the English speaking world, which derives from Zechariah.
 - __Zev__ Ze’ev (Hebrew: זְאֵב / זאב zeév; alternative spelling: Zeev, Zev, Zeeb, Zeb, Seff), is a name of Hebrew origin which means wolf. The given name is a masculine form used among Ashkenazi Jews. It is a Biblical name, adapted from a reference to Benjamin in Genesis as a “wolf that raveneth.”
