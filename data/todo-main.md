@@ -8,8 +8,11 @@ __adduct<sup>2</sup>__ _n_
 __Agatha__ _n_ :mega: /ˈæɡəθə/  
 __aloof__ _adj_  
 __ancillary__ _adj, n_  
+__apparatchik__ _n_ /ah-puh-RAH-chik/ :dart: _Apparatchik_ is used disapprovingly to refer to a blindly devoted official, follower, or member of an organization, such as a corporation or political party.  
+__apprehension__ _n_ :dart::pencil2:  
 __archetype__ _n_ /AHR-kih-type/ _Archetype_ refers to someone or something that is seen to be a perfect example. It is also a word for the original pattern or model of which all things of the same type are representations or copies.  
 __atherectomy__ _n_ Surgical removal of atherosclerotic plaque from an artery using a catheter fitted with a cutting device.  
+__bald-faced__ _adj_ Brash; undisguised. _Syn_ brazen, insolent, audacious, barefaced, bodacious, brassy _John’s excuse for missing work was such a bald-faced lie that his boss immediately fired him._  
 __baleen whale__ _n_ Another name for whalebone whale.  
 __bastion__ _n_ _Be a bastion of truth in a time of lies._  
 __benign__ _adj_ /bih-NYNE/  
@@ -19,6 +22,7 @@ __black eyed peas__ _n pl_ (Notice that black eyed peas aren’t peas!)
 __blasé__ _adj_ /ˈblɑːzeɪ/  
 __bleachers__  
 __blitz__ _n_ (blitzkrieg)  
+__bloody__ _adj_ :es: cruento  
 __blow fly__ _n_ (blowfly) Large usually hairy metallic blue or green fly; lays eggs in carrion or dung or wounds.  
 __blow-dryer__ _n_  
 __bode__ _v_ :two:hammr:  
@@ -97,6 +101,7 @@ __didactics__ _n_ The activities of educating or instructing; activities that im
 __diffident__  
 __diligent__ _adj_ Marked by painstaking effort; hard-working.  
 __diorama__ _n_  
+__dirt road__ _n_ :dart: An unsealed country road.  
 __dish towel__ _n_ (tea towel)  
 __dismantle__ _vt_  
 __disputatious__ _adj_ /dis-pyuh-TAY-shus/ _Disputatious_ is a formal word used to describe someone who often disagrees and argues with other people (in other words, someone inclined to dispute). It can also describe something marked or characterized by arguments or controversies, or something that provokes debate or controversy. _The podcast is hosted by a disputatious pair whose sparring has drawn legions of listeners._  
@@ -104,6 +109,7 @@ __disseminate__ _v_
 __dissipation__ _n_ _Heat dissipation._  
 __distil__ _v_  
 __divers__ _adj_ /DYE-verz/ Numbering more than one. _The tri-county fair offers divers amusements for the whole family._  
+__Dobermann__ _n_ [:scroll: Dobermanns were first bred in the 1880s by Karl Friedrich Louis Dobermann]  
 __doff__ _v_ /DAHF/ To doff a hat or other piece of clothing is to take it off. _They doffed their coats when they came inside the house._  
 __doggy dog__ _adj_ Eggcorn of dog eat dog.  
 __dollop__ _n_ :two::hammer:  
@@ -142,6 +148,8 @@ __enamel__ _n_ :mega: /ɪˈnæm əl/
 __enamor__ _v_ :astonished: To inspire with love. _Syn_ bewitch, captivate, charm, entrance, enchant, beguile, capture, fascinate, catch  
 __encroach__ _v_ /in-KROHCH/ To encroach is to gradually move or go into an area that is beyond the usual or desired limits, or to gradually take or begin to use or affect something that belongs to, or is being used by, someone else. _Encroach_ is often followed by _on_ or _upon._ _Conflicts between people and bears increase as humans continue to encroach on bear territory._  
 __encroachment__ _n_ :es: intromisión  
+__enslave__ _vt_  
+__enslaver__ _n_  
 __entrenched__ _adj_ Established firmly and securely. _The entrenched power of the nobility._  
 __entresol__ _n_ The floor just above the ground floor of a building. _Syn_ mezzanine  
 __eponymous__ _adj_  
@@ -182,6 +190,7 @@ __feud<sup>1</sup>__ _n_ :two::hammer: /fjuːd/ __1__ Long and bitter hostility 
 __fiasco__ _n_ :dart: A complete failure, esp one that is ignominious or humiliating.  
 __fib__ _n, vi_  
 __fiendish__ _adj_  
+__filibuster__ _n_  
 __finagling__ _n_ :smiling_imp: /fɪˈneɪɡlɪŋ/ The use of trickery or craftiness to achieve one’s aims.  
 __finesse__ _v_ /fuh-NESS/ To finesse something is to bring it about, direct it, or manage it by skillful maneuvering. _We managed to finesse a favorable deal on some Beatles LPs at the flea market through subtle bargaining._  
 __finger<sup>1</sup>__ _n_  
@@ -254,11 +263,12 @@ __garble__ _v_ /GAR-bul/ To garble something, such as a word, name, message, etc
 __gawk__  
 __gawker__  
 __gentlefolk__ _n pl_  
+__get-go__ _n_ The time at which something is supposed to begin. _Syn_ commencement, offset, outset, showtime, start, beginning, kickoff, first _She knew from the get-go that he was the man for her._  
 __giggle<sup>1</sup>__ _n_ A short, spasmodic laugh.  
 __giggle<sup>2</sup>__ _vi_ To laugh with repeated short, spasmodic sounds.  
 __giggle<sup>3</sup>__ _vt_ To utter while giggling.  
 __glazed__ _adj_ __3__ Having a shiny surface or coating. _Glazed fabrics._ _Glazed doughnuts._ _Ceramic color glazed flower pots._  
-__glint__ _n_ __1__ A momentary flash of light; a sparkle: _a glint of sunlight through the clouds._ __2__ A faint or fleeting indication; a trace: _a glint of suspicion on his face._  
+__glint__ _n_ :two: __1__ A momentary flash of light; a sparkle: _a glint of sunlight through the clouds._ __2__ A faint or fleeting indication; a trace: _a glint of suspicion on his face._  
 __goggle<sup>1</sup>__ _vi_ __1__ To stare with wide and bulging eyes. __2__ To roll or bulge. Used of the eyes.  
 __goggle<sup>2</sup>__ _n_ __1__ A stare or leer. __2__ _goggles_ A pair of tight-fitting eyeglasses, often tinted or having side shields, worn to protect the eyes from hazards such as wind, glare, water, or flying debris.  
 __goldfish__ _n_  
@@ -299,6 +309,7 @@ __hobble<sup>1</sup>__ _n_
 __hobble<sup>2</sup>__ _vi_  
 __hobble<sup>3</sup>__ _vt_  
 __holdout__ _n_  
+__hoot__ _v_ _The alarms were hooting._  
 __hot links__ _n_  
 __huckster__ _n_  
 __huffy__ _adj_  
@@ -313,6 +324,7 @@ __imperturbable__ _adj_ /im-per-TER-buh-bul/ _Imperturbable_ describes someone o
 __imperviousness__ _n_  
 __impish__ _adj_ :es: pícaro, travieso  
 __importunate__ _adj_ :astonished: Troublesomely urgent or persistent in requesting; pressingly entreating: _an importunate job seeker._  
+__impresario__ _n_ /im-pruh-SAHR-ee-oh/ An impresario is a person who manages, puts on, or sponsors a performance or other entertainment, such as a concert, play, or sporting event.  
 __imprimatur__ _n_ Formal and explicit approval. _Syn_ countenance, endorsement, sanction, warrant  
 __in-house__  
 __inane__  
@@ -500,6 +512,7 @@ __malapropism__ _n_ /MAL-uh-prah-piz-um/ A malapropism is an amusing error that 
 __malcontent__ _adj, n_  
 __malevolent__ _adj_ :smiling_imp: Wishing evil or harm to another or others.  
 __malfeasance__ _n_ :two::hammer:  
+__malleable__ _adj_ /MAL-ee-uh-bul/ Something described as malleable is capable of being stretched or bent into different shapes, or capable of being easily changed or influenced.  
 __mammoth__ _n_  
 __man__ _v_ _Man your ships!_  
 __mana__ _n_ /MAH-nuh/ Power, energy, force, or prestige. _A leader of great mana and influence._  
@@ -555,6 +568,7 @@ __mesh__ _v_ _The orbits of ship and satellite meshed for a second time._
 __mesmerize__ _vt_ [:scroll: After Franz Mesmer]  
 __mess tin__ _n_ A portable container for cooking or serving food, originally for military use, and generally of a rounded rectangular form.  
 __messenger bag__ _n_  
+__mew__ _v_ :two::hammer:  
 __mewl__ _vi_ To cry, as a baby, young child, or the like; whimper.  
 __miasma__ _n_  
 __microfiche__ _n_ /ˈmaɪ krəˌfiʃ/ A flat sheet of microfilm, containing reproductions of printed or graphic matter.  
@@ -572,8 +586,11 @@ __minuscule__ _adj_ /-uh-skyool/ __1__ Something described as minuscule is very 
 __misbehave__ _v_ Behave badly. _Syn_ misconduct, misdemean  
 __mishap__  
 __mite__ _n_ :hammer: _Dust mites._ :es: ácaro  
+__mix tape__  
 __mold__ _n_  
 __mollify__ _v_ To calm or soothe.  
+__mope__ _v_  
+__moped__ _n_ :two::hammer:  
 __morose__ _adj_  
 __mull<sup>1</sup>__ _vt_ /mŭl/ To think about extensively; ponder. __1__ __2__ To heat and spice (wine, for example).  
 __mull<sup>2</sup>__ _vi_ /mŭl/ To ruminate; ponder: _mull over a plan._  
@@ -669,6 +686,7 @@ __oxycodone__ _n_
 __paisley__  
 __Palantír__ _n_ A crystal ball in J. R. R. Tolkien’s _Lord of the Rings_.  
 __pallet__ _n_ __5__ A portable platform used for storing or moving cargo or freight.  
+__palpate__ _v_ To examine or explore by touching (an organ or area of the body), usually as a diagnostic aid. _Syn_ feel _The nurse palpated the patient’s stomach but felt nothing out of the ordinary._  
 __panacea__  
 __Panama__ _n_ :mega: /ˈpæn əˌmɑ, -ˌmɔ/ /ˌpænəˈmɑː; ˈpænəˌmɑː/  
 __paramount__ _adj_ :two: Of chief concern or importance.  
@@ -792,7 +810,7 @@ __presage__ _v_ :mega: /PRESS-ij/ To presage something is to give or be a sign t
 __presentation__ _n_ /prez-uhn-tey-shuhn, pree-zen-tey-shuhn/  
 __prevalent__ _adj_  
 __primed__ _adj_ :two: (usually followed by _to_ or _for_) Prepared for use or action. On the point of or strongly disposed. _Syn_ set, fit  
-__prissy__ _adj_  
+__prissy__ _adj_ :two::hammer:  
 __privilege__ _n_ :mega: /ˈprɪv ə lɪdʒ, ˈprɪv lɪdʒ/  
 __prix__ _n_ :mega:  
 __probity__ _n_ :dart:  
@@ -1057,15 +1075,17 @@ __silverfish__ _n_ :astonished::camera:
 __sinew__ _n_  
 __singe__ _vt_ __1__ To burn superficially or slightly; scorch. _To singe one’s clothes._ __2__ To burn the ends, nap, or the like, of (hair, cloth, etc.). __3__ To subject (a carcass) to flame in order to remove hair, bristles, feathers, etc.  
 __singeing__ _n_  
+__single-panel cartoon__ _n_ :dart: (single-panel comic strip) Single-panel cartoons are standalone illustrations that convey humor in a single image, often featuring a witty caption. The Far Side _is a popular one-panel syndicated comic strip created by Gary Larson._  
 __Situation Room__ _n_  
 __skid__ _v_ :two::hammer: _The car skidded to a halt._ → :es: _El coche patinó y paró._  
 __skiff__ _n_ :two: A flatbottom open boat of shallow draft, having a pointed bow and a square stern and propelled by oars, sail, or motor.  
 __skirmish__  
 __skittish__ _adj_  
-__skulk__ _vi_  
+__skulk__ _vi_ :two::hammer:  
 __skulk<sup>1</sup>__ _vi_ :dart: __1__ To lie in hiding, as out of cowardice or bad conscience; lurk. __2__ :dart: To move about stealthily. __3__ To evade work or obligation; shirk.  
 __skulk<sup>2</sup>__ _n_ __1__ A person who skulks. __2__ (Zoology) _obsolete_ A pack of foxes or other animals that creep about stealthily.  
 __skulking__ _n_ :smiling_imp::two: Evading duty or work by pretending to be incapacitated.  
+__sky blue__ _n_ :es: celeste  
 __slander<sup>1</sup>__ _n_ __1__ _Law_ Oral communication of false statements injurious to a person’s reputation. __2__ A false and malicious statement or report about someone.  
 __slander<sup>2</sup>__ _vt_ To utter a slander about. _Syn_ malign  
 __slander<sup>3</sup>__ _vi_ To utter or spread slander.  
@@ -1095,6 +1115,7 @@ __soft skills__ _n pl_ (Industrial Relations & HR Terms) Desirable qualities for
 __soggy__ _adj_ __1__ Saturated or sodden with moisture; soaked: _soggy clothes._ __2__ Lacking spirit; dull: _a soggy bit of dialogue._ __3__ Humid; sultry: _a soggy afternoon in August._  
 __solace__ _v_ To give comfort or cheer to (a person) in time of sorrow or distress. _Syn_ comfort, console, soothe  
 __soprano__ _n_ :mega:  
+__sortie__ _n_  
 __sovereign<sup>1</sup>__ _n_  
 __sovereign<sup>2</sup>__ _adj_  
 __soverreignty__ _n_ :two::hammer:  
@@ -1143,11 +1164,13 @@ __substantive__ _adj_ __1__ Substantial; considerable. __4__ 4. Of or relating t
 __Sun Belt__ _n_ The southern and southwest United States.  
 __superfluous__ _adj_ :two: /soo-PER-floo-us/ Superfluous is a formal word used to describe things that exceed what is necessary or sufficient, or that are simply not needed. Extra; unnecessary.  
 __sure-fire__ _adj_ Guaranteed to work or happen.  
+__sustenance__ _n_  
 __T-bone__  
 __tackle__ _vt_ __2__ _Sports_ __a__ To stop (an opponent carrying the ball), especially by forcing the opponent to the ground. __b__ To obstruct (a player with the ball) in order to cause loss of possession of the ball. __3__ To engage or deal with: tackle a perplexing problem.  
 __tadpole__ _n_ [:scroll: C15 _taddepol_, from _tadde_ toad + _pol_ head, poll]  
 __tantrum__ _n_  
 __tartly__ _adv_  
+__temper__ _v_  
 __templet__ _n_ A model or standard for making comparisons. _Syn_ guide, template  
 __tenuous__ _adj_ :two:Having little substance or strength; unsure; weak.  
 __thirty-odd__ _n_ (30-odd) Being in excess of the indicated or approximate number, extent, or degree. Often used in combination: _invited 30-odd guests._  
@@ -1161,6 +1184,8 @@ __tinker__ _v_
 __token__ _adj_ _Token return fire._  
 __tornado__ _n_ [Although tornados and hurricanes may have winds that are hundreds of miles an hour, a tornado is restricted to land, and comparatively small (usually traveling 10 or 20 miles); a hurricane forms over water in tropical oceans, and can be as much as a thousand times larger than a tornado.] A violent destructive whirling wind accompanied by a funnel-shaped cloud that progresses in a narrow path over the land.  
 __tortoise__ _n_ (_vs_ turtle)  
+__traipse<sup>1</sup>__ _v_  
+__traipse<sup>2</sup>__ _n_  
 __transfixed__  
 __transitory__ _adj_ Short-lived; temporary.  
 __transmigrate__ _v_ Be born anew in another body after death. _Syn_ reincarnate  
@@ -1181,11 +1206,13 @@ __unalienable__ _adj_ (inalienable) Impossible to take away or give up.
 __uncomely__ _adj_ Not good-looking or attractive.  
 __undertow__ _n_ The seaward undercurrent created after waves have broken on the shore. _Syn_ sea purse, sea puss, sea-poose _The beachgoer was caught in the undertow and dragged out to sea._  
 __unseat__ _vt_  
+__unsporting__ _adj_ Not relating or conforming to sportsmanship; unfair.  
 __untoward__ _adj_ /un-TOH-erd/ _Untoward_ is a formal word that describes something that is improper or inappropriate, or that is adverse or unfavorable. _The medication is safe and effective, with no known untoward side effects._  
 __unwarranted__ _adj_ Having no justification; groundless: _unwarranted interference._ _Syn_ baseless  
 __unwieldy__ _adj_ :astonished: _The suddenly unwieldy craft._ :es: difícil de manejar; rígido  
 __up to__ _prep_ As far, or as much, as. _He counted up to 100._ _Up to now, the work has been easy._  
 __upbeat__ _adj_  
+__upend__ _v_  
 __upfold__ _vt_ To fold up.  
 __upkeep__ _n_ :dart:  
 __uvet__ _n_  
