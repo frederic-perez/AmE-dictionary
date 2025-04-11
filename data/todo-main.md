@@ -1,6 +1,7 @@
 __A pager__ _n_ A simple wireless communications device that receives text messages or alerts.  
 __ab ovo__ _adv_ From the beginning.  
 __abduct__ _vt_  
+__academic question__ _n_ A question that is primarily of interest to scholars or researchers and often lacks practical importance or utility in everyday life. These questions are typically theoretical or exploratory in nature, focusing on concepts, ideas, or phenomena that may not have immediate real-world applications.  
 __accursed__ _adj_ Under a curse. _Syn_ maledict  
 __ad lib__  
 __adduct<sup>1</sup>__ _vt_ _A hyper-adducted right radial artery approach._  
@@ -26,10 +27,13 @@ __bloody__ _adj_ :es: cruento
 __blow fly__ _n_ (blowfly) Large usually hairy metallic blue or green fly; lays eggs in carrion or dung or wounds.  
 __blow-dryer__ _n_  
 __bode__ _v_ :two:hammr:  
+__brash__ _adj_  
 __bristle__ _v_ _Laia bristled._  
+__cabal__ _n_  
 __canister__ _n_ _Oxygen canister._  
 __carcass__ _n_  
 __cavort__ _v_ Play boisterously. _Syn_ frisk, frolic, gambol, lark, rollick, romp, run around, skylark, sport, disport _The children cavorted in the water, splashing and ducking each other._  
+__chary__ _adj_ /CHAIR-ee/ _Chary_ is usually used with about or of to describe someone who is cautious about doing something. _The director is chary about spending money._ _I’ve always been chary of travelling alone._  
 __cogent__ _adj_ Convincing; reasonable.  
 __coleslaw__ _n_  
 __collected__ _adj_  
@@ -68,6 +72,8 @@ __cranny__ _n_ A small opening or crevice (especially in a rock face or wall).
 __crate__ _n_  
 __crawlway__ _n_ /ˈkrɔːlˌweɪ/ (Mining & Quarrying) A low passageway in a cave or mine that can only be negotiated by crawling.  
 __crease__ _n_ __1__ A line made by pressing, folding, or wrinkling. __2a__ _Sports_ A rectangular area marked off in front of the goal in hockey and lacrosse.  
+__crescent<sup>1</sup>__ _n_ /ˈkrɛs ənt/  
+__crescent<sup>2</sup>__ _adj_  
 __crewer__ _n_ _informal_ (informal) A member of a crew, as on a ship or spacecraft.  
 __crisis__ _n_ :mega: /ˈkraɪ sɪs/ (_n pl_ crises /ˈkraɪ siːz/)  
 __critter__ _n_  
@@ -114,11 +120,15 @@ __doff__ _v_ /DAHF/ To doff a hat or other piece of clothing is to take it off. 
 __doggy dog__ _adj_ Eggcorn of dog eat dog.  
 __dollop__ _n_ :two::hammer:  
 __doubleheader__ _n_ __1__ _Sports_ Two games or events held in succession on the same program, especially in baseball.  
+__drab__ _adj_ _Drab colors._  
 __draconian__ _adj_  
+__drawl__ _n_ /drɔːl/ The way of speech of someone who drawls.  
 __dreadlocks__  
 __dreadnought__ _n_  
 __dreamlike__ _adj_ :es: de ensueño, como de sueño  
 __dribble__ _v_ __2a__ To move (a ball or puck) by repeated light bounces or kicks, as in basketball or soccer.  
+__drive-by<sup>1</sup>__ _adj_ /ˈdraɪvˌbaɪ/  
+__drive-by<sup>2</sup>__ _n_  
 __drizzle__  
 __dubious__ _adj_ Doubtful; of unlikely authenticity.  
 __duck<sup>1</sup>__ _n_  
@@ -264,6 +274,7 @@ __gawk__
 __gawker__  
 __gentlefolk__ _n pl_  
 __get-go__ _n_ The time at which something is supposed to begin. _Syn_ commencement, offset, outset, showtime, start, beginning, kickoff, first _She knew from the get-go that he was the man for her._  
+__gibber__ _v_ _Artoo gibbered indignantly._  
 __giggle<sup>1</sup>__ _n_ A short, spasmodic laugh.  
 __giggle<sup>2</sup>__ _vi_ To laugh with repeated short, spasmodic sounds.  
 __giggle<sup>3</sup>__ _vt_ To utter while giggling.  
@@ -426,6 +437,7 @@ __kindle__
 __king cake__ _n_ A sweet ring-shaped cake traditionally with a symbolic bean or figurine of the infant Jesus inside that is served from the Epiphany to Shrove Tuesday.  
 __kingpin__  
 __kip__ _n_ __5__ (kip-up) A maneuver in gymnastics, martial arts, and similar sports in which a person moves from lying on the back directly to a standing position by thrusting the legs upward and pushing off with hands placed palms-down near the ears.  
+__kitsch__ _n_ /KITCH/ _Kitsch_ refers to something that appeals to popular or lowbrow taste and is often cheap or tacky. _Kitsch_ also refers to a tacky or lowbrow quality or condition.  
 __klaxon__ _n_ (claxon) [:scroll: From Klaxon, a trademark for a loud electric horn] A type of loud horn formerly used on motor vehicles.  
 __knack__ _n_  
 __Knight Templar__ _n_  
@@ -592,6 +604,7 @@ __mollify__ _v_ To calm or soothe.
 __mope__ _v_  
 __moped__ _n_ :two::hammer:  
 __morose__ _adj_  
+__Mounties__ _n_ _informal_ The federal police force of Canada. the formal term would be “Royal Canadian Mounted Police” or simply “RCMP.”  
 __mull<sup>1</sup>__ _vt_ /mŭl/ To think about extensively; ponder. __1__ __2__ To heat and spice (wine, for example).  
 __mull<sup>2</sup>__ _vi_ /mŭl/ To ruminate; ponder: _mull over a plan._  
 __mulled wine__ _n_ Wine heated with sugar and spices and often citrus fruit.  
@@ -667,6 +680,7 @@ __objectivity__ _n_ Judgment uninfluenced by emotion.
 __obstinate__ _adj_ Stubbornly adhering to an opinion.  
 __obtuse__ _adj_ /ahb-TOOSS/  
 __occasion__  
+__off-licence__ _n_ A store that sells alcoholic beverages for consumption elsewhere. _Syn_ liquor store, package store _He went into an off-licence to buy a bottle of cider._  
 __off-ramp__ _n_ :camera:  
 __off-season__ _n_ The season when travel is least active and rates are lowest.  
 __ogle__  
@@ -727,7 +741,7 @@ __petrichor__ _n_ :dart::astonished::two: /ˈpɛtrɪˌkɔː/ [:scroll: from Gree
 __petrol station__ _n_ _Syn_ filling station, gas station, gasoline station  
 __pettiness__ _n_  
 __petulance__ _n_  
-__petulant__ _adj_ :two::hammer:  
+__petulant__ _adj_ :three: Someone who is childishly sulky or bad-tempered. It often refers to a person who is irritable or prone to sudden, unreasoned outbursts of anger or annoyance, especially when they don’t get what they want. This term conveys a sense of immaturity in behavior and is often used to highlight a lack of patience or emotional control. _The petulant child threw a tantrum when he was told he could not have dessert before dinner._  
 __phantasmagorical__ _adj_ /fan-taz-muh-GOR-i-kuhl/ Illusory; strange; deceptive; imaginary; surreal; hallucinatory.  
 __phase__ _n_ :mega: /feɪz/ (_vs_ face /feɪs/)  
 __Phillips screw head__ _n_ :camera:  
@@ -805,6 +819,7 @@ __portfolio__
 __posit__ _vt_  
 __pot__ _n_ __12__ _billiards snooker_ A shot by which a ball is pocketed.  
 __pounce__ _v_  
+__poutine__ _n_ /puːˈtiːn/ /puˈtin/ _Canadian_ A dish of chipped potatoes topped with curd cheese and a tomato-based sauce.  
 __prehensile__ _adj_ :astonished: Immoderately desirous of acquiring e.g. wealth. _Syn_ avaricious, covetous, grabby, grasping, greedy  
 __presage__ _v_ :mega: /PRESS-ij/ To presage something is to give or be a sign that it will happen in the future. Presage is a formal synonym of _foreshadow_, _foretell_, and _predict._ _// The sudden gloom and ominous dark clouds clearly presaged a nasty storm._  
 __presentation__ _n_ /prez-uhn-tey-shuhn, pree-zen-tey-shuhn/  
@@ -873,6 +888,7 @@ __Radio Flyer__ _n_ :dart: Radio Flyer is an American toy company best known for
 __ragbag__ _n_  
 __ragweed__ _n_  
 __railing__ _n_ __1__ (Building) (often plural) A fence, balustrade, or barrier that consists of rails supported by posts. _Balcony railing._  
+__raillery__ _n_ Light teasing repartee. _Syn_ backchat, banter, give-and-take  
 __rain slicker__ _n_ A type of waterproof coat designed to protect the wearer from rain and wet conditions.  
 __ram__ _vt_  
 __ramification__  
@@ -1067,6 +1083,9 @@ __shuffle__ _v_ __6__ (when _vi_, often foll by _into_ or _out of_) to move or c
 __sibylline__ _adj_ Resembling or characteristic of a prophet or prophecy. _Syn_ divinatory, mantic, vatic  
 __sic__ _vt_ :dart: __1__ To turn on or attack: used only in commands, as to a dog. __2__ To urge (a dog) to attack. To urge or incite to hostile action; set: _sicced the dogs on the intruders._  
 __sick bay__ _n_ A hospital or dispensary, esp. aboard ship.  
+__sidearm<sup>1</sup>__ _n_ A weapon, as a pistol or sword, carried at the side or in the belt.  
+__sidearm<sup>2</sup>__ _adj_  
+__sidearm<sup>3</sup>__ _adv_  
 __sideline__ _v_  
 __sidle<sup>1</sup>__ _vi_  
 __sidle<sup>2</sup>__ _vt_  
@@ -1152,6 +1171,7 @@ __straw boater__ _n_ :camera:
 __stray__ _vi_  
 __stretcher__ _n_  
 __stride__ _n_  
+__strut__ _n_ A strong rod or structural component, usually made of metal, that is used to support or reinforce a structure.  
 __stubborn__ _adj_ :pencil2::mega:  
 __stud__ _n_ _Stud with nuts._  
 __stymie<sup>1</sup>>__ _vt_  
@@ -1182,6 +1202,7 @@ __tin foil__
 __tinder__ _n_ Readily combustible material, such as dry twigs, used to kindle fires. _Syn_ kindling, spunk, touchwood, punk  
 __tinker__ _v_  
 __token__ _adj_ _Token return fire._  
+__toque__ _n_  
 __tornado__ _n_ [Although tornados and hurricanes may have winds that are hundreds of miles an hour, a tornado is restricted to land, and comparatively small (usually traveling 10 or 20 miles); a hurricane forms over water in tropical oceans, and can be as much as a thousand times larger than a tornado.] A violent destructive whirling wind accompanied by a funnel-shaped cloud that progresses in a narrow path over the land.  
 __tortoise__ _n_ (_vs_ turtle)  
 __traipse<sup>1</sup>__ _v_  
@@ -1215,24 +1236,32 @@ __upbeat__ _adj_
 __upend__ _v_  
 __upfold__ _vt_ To fold up.  
 __upkeep__ _n_ :dart:  
+__uptake__ _n_  
 __uvet__ _n_  
+__vagary__ _n_ _The vagaries of the market._  
 __vaunted__ _adj_ :dart: Praised more than deserved. _Vaunted Jedi Master Luke Skywalker._  
 __verdant__ _adj_ Green with vegetation; covered with green growth. _Syn_ green, lush  
 __verisimilar__ _adj_ :astonished::pencil2:  
 __verisimilitude__ _n_  
+__vermin__ _n pl_ :two::hammer::smiling_imp:  
+__vernal__ _adj_ /VER-nul/  
 __vet__ _v_  
 __videophile__ _n_ :mega: One with an avid interest in watching television or videos or in making video recordings.  
 __vie__ _v_  
 __vindicated__ _adj_ Freed from blame.  
 __vise__ _n_ :camera:  
+__vocal__ _adj_  
+__vouchsafe__ _v_ /vowch-SAYF/  
 __wager<sup>1</sup>__ _n_ __1a__ An agreement under which each bettor pledges a certain amount to the other depending on the outcome of an unsettled matter. __b__ A matter bet on; a gamble. __2__ Something staked on an uncertain outcome; a bet.  
 __wager<sup>2</sup>__ _vt_ To risk or stake (an amount or a possession) on an uncertain outcome; bet.  
 __wager<sup>3</sup>__ _vi_ To make a bet.  
 __waiver__ _n_  
 __wan__  
+__war room__ _n_  
 __war story__ _n_ A story of a memorable personal experience typically involving an element of danger, hardship, or adventure. _Politicians swapping war stories from past campaigns._  
 __warble__ _v_  
 __warhorse__ _n_ (war horse)  
+__warlord__ _n_ _Warlord Grand Admiral Thrawn._  
 __washload__ _n_ A collection of laundry to be washed.  
 __watch cap__ _n_ :camera:  
 __watchdog__ _n_ :mega:  
@@ -1248,7 +1277,10 @@ __whimsy__ _n_ (whimsey)
 __whirl__ _v_  
 __wicker__ _n_ _Wicker baskets._  
 __wide-eyed__ _adj_ :dart: __2__ Innocent; credulous. _Luke was a wide-eyed kid._  
+__woodchips__ _n pl_ _Olive tree woodchips._  
 __wrangle__ _v_  
+__xenotransplantation__ _n_  
+__yak__ _vi_ To talk persistently and meaninglessly; chatter.  
 __yarn__ _n_ :camera:  
 __yellowcake__ _n_ The concentrated oxide of uranium formed in the milling of uranium ore.  
 __zing__ _n_  

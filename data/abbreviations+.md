@@ -98,6 +98,7 @@ __GMO__ :three: Genetically modified organism. _Reserve your non-GMO turkey now.
 __GMX__ __1__ Global Message Exchange. __2__ Global Mail Exchange.  
 __GOAT__ :two: Greatest of all time.  
 __GOP__  
+__govt.__ Government.  
 __GPA__ Grade point average.  
 __GPGPU__ General purpose graphics processing unit.  
 __GPT__ Generative pre-trained transformer.  
