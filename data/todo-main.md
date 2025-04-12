@@ -741,37 +741,6 @@ __petrichor__ _n_ :dart::astonished::two: /ˈpɛtrɪˌkɔː/ [:scroll: from Gree
 __petrol station__ _n_ _Syn_ filling station, gas station, gasoline station  
 __pettiness__ _n_  
 __petulance__ _n_  
-__petulant__ _adj_ :three: Someone who is childishly sulky or bad-tempered. It often refers to a person who is irritable or prone to sudden, unreasoned outbursts of anger or annoyance, especially when they don’t get what they want. This term conveys a sense of immaturity in behavior and is often used to highlight a lack of patience or emotional control. _The petulant child threw a tantrum when he was told he could not have dessert before dinner._  
-__phantasmagorical__ _adj_ /fan-taz-muh-GOR-i-kuhl/ Illusory; strange; deceptive; imaginary; surreal; hallucinatory.  
-__phase__ _n_ :mega: /feɪz/ (_vs_ face /feɪs/)  
-__Phillips screw head__ _n_ :camera:  
-__phlegmatic__ _adj_ :dart:  
-__phony__ _adj_  
-__pickaxe__ _n_  
-__pickeball__ _n_  
-__picket fence__ _n_  
-__picky__ _adj_ _informal_ :two: (pickier, pickiest) Excessively meticulous; fussy. _Picky eater._ _Excuse me for being picky, but when have we ever cared what the people think?_  
-__pig Latin__ _n_  
-__pilfer__ _v_  
-__pillbox__  
-__pillion passenger__ _n_ _Brit_ A person who travels in a seat or place behind the rider of a motorcycle, scooter, horse, etc. _As a learner rider you must not carry a pillion passenger._  
-__pillion__ _n_ A seat or place behind the rider of a motorcycle, scooter, horse, etc.  
-__pillory__  
-__pillowcase__ _n_ A removable covering for a pillow. Also called pillowslip. :es: funda de almohada  
-__pimple__ _n_ :es: espinilla  
-__pimply__ _adj_ /ˈpɪm pli/ Having many pimples.  
-__pinafore__ _n_  
-__pip__ _n_ __1__ (Veterinary Science) A contagious disease of poultry characterized by the secretion of thick mucus in the mouth and throat. __2__ _facetious slang_ A minor human ailment.  
-__pique__ _n_ :two: [:scroll: C16: from French, from _piquer_ to prick, sting] _You can’t let people die out there just because of personal pique._  
-__pit__ _vt_ __2__ To set in direct opposition or competition: _a war that pitted brother against brother._  
-__pitch<sup>1</sup>__ _n_ :es: (esp. _British_) campo, cancha  
-__pitch<sup>2</sup>__ _vt_  
-__pithy__ _adj_ :two: __1__ Precisely meaningful; forceful and brief: _a pithy comment._ __2__ Consisting of or resembling pith.  
-__pittance__ _n_ :two::hammer:  
-__plagiarize__ _v_ Take without referencing from someone else’s writing or speech; of intellectual property. _Syn_ lift  
-__plaintiff__ _n_  
-__plaintive__ _adj_ :dart: Expressing sorrow; mournful or melancholy.  
-__plaintively__ _adv_ :dart: :es: lastimeramente, con dolor  
 __planter__ _n_  
 __plaster of Paris__ _n_ :two::hammer::camera:  
 __plastic wrap__  

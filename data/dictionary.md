@@ -14474,17 +14474,19 @@ __petty cash__ _n_ :two: A small cash fund kept on a firm’s premises for the p
 __petty officer__ _n_ :three::hammer:  
 __petty__ _adj_ :dart::three: Not important and not worth giving attention to. _A petty argument resulted in her son’s murder._ __2__ Complaining too much about things that are not important. _Don’t be so petty._  
 __petulance__  
-__petulant__ _adj_ :nine::m:::mega: /ˈpɛtʃ ə lənt/ Unreasonably irritable or ill-tempered. _Syn_ peevish, testy, cranky, fractious _After their fight, her friend came to make amends, but she was feeling petulant and sulky and ignored him._  
+__petulant__ _adj_ :dart::nine::m:::mega: /ˈpɛtʃ ə lənt/ Unreasonably irritable or ill-tempered. Someone who is childishly sulky or bad-tempered. It often refers to a person who is irritable or prone to sudden, unreasoned outbursts of anger or annoyance, especially when they don’t get what they want. This term conveys a sense of immaturity in behavior and is often used to highlight a lack of patience or emotional control. _Syn_ peevish, testy, cranky, fractious _The petulant child threw a tantrum when he was told he could not have dessert before dinner._ _After their fight, her friend came to make amends, but she was feeling petulant and sulky and ignored him._  
 __petulantly__  
 __pew__ _n_ _Church pews._  
 __pewter__ _n_ :four::hammer:  
 __phagocytosis__ _n_ Process in which phagocytes engulf and digest microorganisms and cellular debris; an important defense against infection.  
 __phalanx__ _n_ :three: A compact or close-knit body of people. _Syn_ crowd, unit _The party members disagreed on many topics, but when it came to social issues, they formed a solid phalanx._  
 __phantasmagoric__ _adj_ :two::hammer:  
+__phantasmagorical__ _adj_ /fan-taz-muh-GOR-i-kuhl/ Illusory; strange; deceptive; imaginary; surreal; hallucinatory.  
 __Pharaoh__  
 __pharmaceutical__ _adj_ :two::dart::mega: /ˌfɑr məˈsu tɪ kəl/ /fär′mə-so͞o′tĭ-kəl/  
 __pharmacophores__ _n_  
 __phase out__  
+__phase__ _n_ :mega: /feɪz/ (_vs_ face /feɪs/)  
 __phenom__ _n_ :four: _slang_ A phenomenon, especially a remarkable or outstanding person.  
 __phenomena__ _pl n_  
 __phenomenological__ _adj_ Of, relating to, or based on observed or observable facts.  
@@ -14497,6 +14499,7 @@ __philippic__ _n_ A verbal denunciation characterized by harsh, often insulting 
 __Philippine__ _adj_ Of or pertaining to the Philippines or their inhabitants. _The Philippine archipelago._  
 __philistine__ _n_ A smug, ignorant, especially middle-class person who is regarded as being indifferent or antagonistic to artistic and cultural values. _Syn_ anti-intellectual _He may have an advanced degree in mathematics, but the man is a total philistine when it comes to the arts._  
 __philistinism__ _n_ A desire for wealth and material possessions with little interest in ethical or spiritual matters. _Syn_ materialism  
+__Phillips screw head__ _n_ :camera:  
 __Philly__ _n_ :four: Philadelphia. _The small-time Philly boxer Rocky Balboa._  
 __philosopher__ _n_ _These people we call philosophers. The word comes from two Greek words, philos loving, sophos wise, and means loving wisdom._  
 __philosophy__ _n_ /fɪˈlɒs ə fi/  
@@ -14506,14 +14509,14 @@ __phimosis__ _n_ :mega:
 __phlebotomist__ _n_ A nurse or other health worker trained in drawing venous blood for testing or donation.  
 __phlebotomy__ _n_ :two: (venesection) __1__ The removal of blood from a vein, usually with a needle and syringe or other container, for diagnostic or therapeutic purposes, as in the treatment of hemochomatosis. __2__ The removal of blood from a vein with a cutting instrument, formerly done to reduce blood volume as a treatment of disease.  
 __phlegm__ _n_ :five::hammer:  
-__phlegmatic__ _adj_ Having or suggesting a calm, sluggish temperament; unemotional. _Syn_ indifferent, cold, heavy, dull, stoical, bovine, apathetic, frigid, lymphatic, listless, impassive, stolid, unfeeling, undemonstrative  
+__phlegmatic__ _adj_ :dart::two: Having or suggesting a calm, sluggish temperament; unemotional. _Syn_ indifferent, cold, heavy, dull, stoical, bovine, apathetic, frigid, lymphatic, listless, impassive, stolid, unfeeling, undemonstrative  
 __phlegmy__ _adj_ :three: Charged with phlegm.  
 __phlox__ _n_ :three::hammer:  
 __phobia__ _n_ /ˈfəʊbɪə/  
 __phoenix__ _n_  
 __phonophobia__ _n_ /foh-nuh/noh-FOH-bee-uh/ __1__ A fear of or intolerance of loud sounds. __2__ A hypersensitivity to sound. __3__ An aversion to the sound of one’s own voice.  
 __phonotaxis__ _n_ _Cricket phonotaxis._  
-__phony__ _adj_  
+__phony__ _adj_ :two::hammer:  
 __phoropter__ _n_  
 __photo-op__  
 __photochromic__ _adj_  
@@ -14548,8 +14551,10 @@ __pick-six__ _n_ _Football_
 __pick-up game__ _n_ A game, usually in basketball, that starts spontaneously by a group of random people or with friends. There aren’t any refs or officiating, and the calls are all on the players, which can get a little unfair and annoying depending on who you play with. The players pick the teams and rules.  
 __pick-up__ _n_ __6__ _informal_ A casual acquaintance, usually one made with sexual intentions. _The restaurant was little more than a pick-up joint._  
 __pickax__ _n_ :two::hammer: (pickaxe)  
+__pickaxe__ _n_  
+__pickeball__ _n_  
 __picker-upper__ _n_ A person who picks things up. _Tom was a quick picker-upper._  
-__picket fence__ _n_ :two::hammer:  
+__picket fence__ _n_ :three::hammer:  
 __picket line__ _n_ :two:hammer:  
 __picket__ _v_ _Government must negotiate now to avoid junior doctors picketing._  
 __pickets__ _n_  
@@ -14558,7 +14563,7 @@ __picklock__ _v_
 __picknicking__ _v_  
 __pickoff__ _n_ __1__ _Baseball_ A play in which a runner is caught off base and is put out by a quick throw, as from the pitcher or catcher. _A pickoff throw to first base._  
 __pickup__ _adj_ :two::hammer: _A pickup team._  
-__picky__ _adj_ :five::hammer:  
+__picky__ _adj_ _informal_ :seven: (pickier, pickiest) Excessively meticulous; fussy. _Picky eater._ _Excuse me for being picky, but when have we ever cared what the people think?_  
 __picnicware__ _n_ Disposable plates, cups, etc. intended for use on picnics.  
 __pico de gallo__ _n_ :two::hammer:  
 __pictogram__  
@@ -14578,7 +14583,7 @@ __pier glass__ _n_ A tall mirror, especially one placed between windows.
 __pietist__  
 __pig emoji__ _n_ Since there is no piggy bank emoji, the pig has become a representation of it and money as well.  
 __pig iron__ _n_ :four::hammer: _Pigs of iron._ _Edgerton is a pig-iron and power station historian._  
-__pig Latin__  
+__pig Latin__ _n_ :two::hammer:  
 __pigboat__ _n_  
 __pigeonhole<sup>1</sup>__ _n_ /PIJ-uhn-hohl/ __1__ A hole or recess for a pigeon to nest or rest. __2__ One of a series of small compartments for filing papers, etc. __3__ A stereotypical category, not reflecting the complexities.  
 __pigeonhole<sup>2</sup>__ _vt_ :two: /PIJ-uhn-hohl/ __1__ To place in, or as if, in a pigeonhole. __2__ To lay aside for future consideration. __3__ To stereotype, to put into a preconceived, rigid category.  
@@ -14599,29 +14604,31 @@ __pilcrow__ _n_ :two: [:scroll: Apparently an alteration of the word paragraph, 
 __pile bridge__ _n_ :two::hammer:  
 __pile__ _v_ (piling) _There’s a lot of investors piling in._  
 __pileup__  
-__pilfer__ _v_ :five::hammer: (pilfering)  
-__pilfered__ _v_  
+__pilfer__ _v_ :seven::hammer:  
 ‌__pilgrim__ _n_ /ˈpɪl grɪm, -grəm/  
 __piling__ _n_ _A deserted cabin built on pilings._  
 __pill caddy__ _n_  
 __pillbox hat__ _n_ :two::hammer:  
-__pillbox__ _n_ :two: [:scroll: From pill, from Latin pilula (little ball), from pila (ball) + box, from Old English, from Latin buxis, from pyxis (boxwood box), from Greek pyxis, from pyxos (box tree).] __1__ A small container for pills. __2__ A small fortified enclosure, used for firing weapons, observing, etc. __3__ A small brimless hat with a flat top and straight sides. _A plum-colored pillbox hat._ __4__ Something small or ineffectual.  
+__pillbox__ _n_ :three: [:scroll: From pill, from Latin pilula (little ball), from pila (ball) + box, from Old English, from Latin buxis, from pyxis (boxwood box), from Greek pyxis, from pyxos (box tree).] __1__ A small container for pills. __2__ A small fortified enclosure, used for firing weapons, observing, etc. __3__ A small brimless hat with a flat top and straight sides. _A plum-colored pillbox hat._ __4__ Something small or ineffectual.  
+__pillion passenger__ _n_ _Brit_ A person who travels in a seat or place behind the rider of a motorcycle, scooter, horse, etc. _As a learner rider you must not carry a pillion passenger._  
+__pillion__ _n_ A seat or place behind the rider of a motorcycle, scooter, horse, etc.  
 __pilloried__ _v_ :two::hammer:  
-__pillory<sup>1</sup>__ _n_  
-__pillory<sup>2</sup>__ _vt_ (pilloried)  
-__pillowcase__ _n_ :three: (pillow case) A cloth cover for a pillow.  
+__pillory<sup>1</sup>__ _n_ :two::hammer:  
+__pillory<sup>2</sup>__ _vt_ :two::hammer:  
+__pillowcase__ _n_ :four: (pillow case) A cloth cover for a pillow. A removable covering for a pillow. Also called pillowslip. :es: funda de almohada  
 __pilot house__ _n_ (pilothouse)  
 __pilot light__ _n_ :astonished:  
 __pilot__ _vt_ __2__ To steer or control the course of: _piloted the visitors around the city._  
 __pilothouse__ _n_ An enclosed compartment from which a vessel can be navigated.  
 __Piltdown man__ _n_ A hypothetical early modern human whose existence was inferred from bone fragments allegedly found at Piltdown, England, in 1912 but identified as a hoax in 1953.  
-__pimple__ _n_ :three::hammer: _Pop the pimples._  
+__pimple__ _n_ :four::hammer: _Pop the pimples._ :es: espinilla  
+__pimply__ _adj_ /ˈpɪm pli/ Having many pimples.  
 __pin__ _v_ _Pinned it against the wall._  
 __pin-curled__  
 __pin-drop silence__  
 __pin<sup>1</sup>__ _n_ :camera: _McCloud needed a pin placed in his wrist this offseason._  
 __pin<sup>2</sup>__ _v_ :two: (pinned) _Evans pinned a 32-18 loss to the New York Giants._ _Pin the blame on its inability to develop an economy independent of the United States._  
-__pinafore__ _n_ :three: A sleeveless garment similar to an apron, worn especially by small girls as a dress or an overdress. _Syn_ jumper, pinny :es: pichi  
+__pinafore__ _n_ :four::camera: A sleeveless garment similar to an apron, worn especially by small girls as a dress or an overdress. _Syn_ jumper, pinny :es: pichi  
 __pinback__ _n_ :two::hammer:  
 __pincer__ _n_ :three: __1__ A grasping structure on the limb of a crustacean or other arthropods. _Syn_ chela, nipper, claw __3__ A military maneuver in which an enemy force is attacked from two flanks and the front. _A pincer movement._  
 __pinch > in a pinch__  
@@ -14665,7 +14672,7 @@ __pinstripes__ _n_
 __pinwheel<sup>1</sup>__ _n_  
 __pinwheel<sup>2</sup>__ _vi_ :two: To revolve rapidly like a pinwheel.  
 __pions__ _n_  
-__pip__ _n_ __1__ A disease of birds, characterized by a thick mucous discharge that forms a crust in the mouth and throat. __2__ _slang_ A minor unspecified human ailment.  
+__pip__ _n_ :two: __1__ A contagious disease of poultry characterized by the secretion of thick mucus in the mouth and throat. A disease of birds, characterized by a thick mucous discharge that forms a crust in the mouth and throat. __2__ _facetious slang_ A minor unspecified human ailment.  
 __pipe dream__ _n_ :dart::three::hammer:  
 __pipe tape__  
 __pipehead__  
@@ -14675,7 +14682,7 @@ __piping__ _n_ :two::camera: A narrow strip of cloth used to decorate the edges 
 __pippin__  
 __piquancy__  
 __piquant__ _adj_ Having an agreeably pungent taste. _Syn_ spicy, zesty _When I feel like spicing things up at dinner, I pour a little of this piquant dressing over my salad._  
-__pique<sup>1</sup>__ _n_ :four: An annoyed feeling that you show when you think someone has insulted you or been rude to you.  
+__pique<sup>1</sup>__ _n_ :six: [:scroll: C16: from French, from _piquer_ to prick, sting] An annoyed feeling that you show when you think someone has insulted you or been rude to you. _You can’t let people die out there just because of personal pique._  
 __pique<sup>2</sup>__ _v_ :nine::m::pencil2: (piques, piqued) __1__ To cause to feel resentment or indignation. __2__ To provoke; arouse: The portrait piqued her curiosity. _A great story had not only to pique the imagination, it had to touch the heart._ _Focusing his energy on whatever piques his curiosity._ __3__ To pride (oneself): _He piqued himself on his stylish attire._  
 __pirogue__ _n_ :three: A canoe made from a hollowed tree trunk. _Syn_ dugout canoe, dugout  
 __pirouette<sup>1</sup>__ _n_ :astonished: A full turn of the body on the point of the toe or the ball of the foot in ballet.  
@@ -14691,27 +14698,26 @@ __pit pony__ _n_ A _pit pony_, otherwise known as a _mining horse_, was a horse,
 __pit toilet__ _n_  
 __pit wagon__  
 __pit<sup>1</sup>__ _n_ :four::hammer: _The pit of his stomach._ _Money pit._ _A pit of snakes._  
-__pit<sup>2</sup>__ _vt_ :five::hammer: __2__ To set in direct opposition or competition: _a war that pitted brother against brother._ _The culture of complaints pits providers against patients._ _The special election pits Ed Marley against Gabriel Gomez._ _1/2 mango, peeled and pitted._ _You don’t pit amateurs against pros._ _They pit two neural networks against each other._  
-__pit<sup>3</sup>__ _vi_  
+__pit<sup>2</sup>__ _vt_ :nine::m::hammer: __2__ To set in direct opposition or competition: _a war that pitted brother against brother._ _The culture of complaints pits providers against patients._ _The special election pits Ed Marley against Gabriel Gomez._ _1/2 mango, peeled and pitted._ _You don’t pit amateurs against pros._ _They pit two neural networks against each other._  
+__pit<sup>3</sup>__ _vi_ :four::hammer:  
 __pita__ _n_ A round flat bread of Middle Eastern origin that can be opened to form a pocket for filling. Also called _pocket bread_.  
 __pitch in__ _v_  
 __pitch__ _v_ _They hadn’t rolled or pitched too much 9n the storm they hit just outside of San Francisco._  
 __pitch-faced__ _adj_ :two::hammer:  
 __pitch-perfect__ _adj_ :dart::two: /pich-PUHR-fikt/ [:scroll: From pitch, from Old English pic + perficere (to finish), from per- (across) + facere (to do)] __1__ Perfect in every way, especially in being sensitive to a particular situation. __2__ Right tone, pitch, mood, etc.  
-__pitch<sup>1</sup>__ _n_ :eight: __1__ A black or dark viscous substance obtained as a residue in the distillation of organic materials and especially tars. __2__ Resin obtained from various conifers and often used medicinally. _There was a jar of hot pitch [in case it was required for the amputation]._ :es: brea __3__ _sports_ A playing field. Also called _wicket._ _We recovered the ball in their side of the pitch after pressing well._ :es: campo, cancha  
-__pitch<sup>2</sup>__ _v_ :camera::three::hammer: (pitched) _Pitching bowling balls._ _To pitch a tent._ _If not from pitched battles, where do we find victory?_  
+__pitch<sup>1</sup>__ _n_ :nine: __1__ A black or dark viscous substance obtained as a residue in the distillation of organic materials and especially tars. __2__ Resin obtained from various conifers and often used medicinally. _There was a jar of hot pitch [in case it was required for the amputation]._ :es: brea __3__ _sports_ A playing field. Also called _wicket._ _We recovered the ball in their side of the pitch after pressing well._ :es: (esp. _British_) campo, cancha  
+__pitch<sup>2</sup>__ _vt_ :camera::four::hammer: (pitched) _Pitching bowling balls._ _To pitch a tent._ _If not from pitched battles, where do we find victory?_  
 __pitched battle__ _n_ :two: __1__ An intense battle fought in close contact by troops arranged in a predetermined formation. _He feared to seek pitched battle._ __2__ A fiercely waged battle or struggle between opposing forces.  
 __pitched__ _adj_ :two::hammer: _A pitched battle._ :es: batalla campal  
 __pitchfork__  
 __pitfall__ _n_ :four: __1__ An unsuspected difficulty or danger.  
 __pith helmet__ _n_ :two: The pith helmet is a lightweight cloth-covered helmet made of cork or pith. Designed to shade the wearer’s head and face from the sun, pith helmets were often worn by European travelers and explorers, in the varying climates found in Africa, southeast Asia, as well as the tropics, but have also been used in many other contexts. _Syn_ safari helmet, sun helmet, topee, sola topee, salacot, topi, cork sun helmet  
 __pith-helmeted__  
-__pithy__ _adj_ :five: __1__ Precisely meaningful; forceful and brief: _a pithy comment._ Terse and full of meaning or substance. A pithy phrase or statement is brief but full of substance and meaning. Proverbs and sayings are pithy; newspaper columnists give pithy advice. :es: conciso, expresivo  
+__pithy__ _adj_ :seven: __1__ Precisely meaningful; forceful and brief: _a pithy comment._ Terse and full of meaning or substance. A pithy phrase or statement is brief but full of substance and meaning. Proverbs and sayings are pithy; newspaper columnists give pithy advice. :es: conciso, expresivo __2__ Consisting of or resembling pith.  
 __pitiful__ _adj_ :two::hammer:  
 __pitmaster__  
 __Pitot tube__ _n_ A device, essentially a tube set parallel to the direction of fluid-stream movement and attached to a manometer, used to measure the total pressure of the fluid stream.  
-__pittance__ _n_ :three::hammer:  
-__pitted__ _v_ :four::hammer: (pitting) _Pitted cherries._  
+__pittance__ _n_ :five::hammer:  
 __pituitary__  
 __pivot<sup>1</sup>__ _n_ :three: __1__ A shaft or pin on which something turns. __2a__ A person, thing, or factor having a major or central role, function, or effect. __b__ A key player or position; specifically: an offensive position of a basketball player standing usually with back to the basket to relay passes, shoot, or provide a screen for teammates.  
 __pivot<sup>2</sup>__ _v_  
@@ -14731,13 +14737,14 @@ __placeman__ _n_ One who has a political appointment in the government. _Syn_ pl
 __placemat__ _n_ :two: (place mat, placemats) A mat serving as table linen for an individual place setting.  
 __placid__  
 __placket__  
+__plagiarize__ _v_ Take without referencing from someone else’s writing or speech; of intellectual property. _Syn_ lift  
 __plague<sup>1</sup__ _n_  
 __plague<sup>2</sup__ _v_  
 __plaid__ _n_ :two::hammer: _Plaid number._ _Plaid shirt._  
 __plaint__ _n_ A cry of sorrow and grief. _Syn_ lament, lamentation, wail _The plaints of the bereaved widow and her young children haunt me in my sleep._  
-__plaintiff__ _n_ (plaintiffs) :three::hammer:  
-__plaintive__ _adj_ :eight: /PLAYN-tiv/ Plaintive is an adjective for describing someone or something with a pleading, sorrowful, desperate tone. If you have ever heard the plaintive howl of a wolf, then you know what we are getting at here. Expressing sorrow; melancholy. Something (usually a sound) that is described as plaintive is expressive of sorrow or suffering. _Syn_ mournful _She uttered a plaintive sob, closed her fine eyes, and fled, trying in vain to still the beating of her heart._  
-__plaintively__ _adv_ :three:  
+__plaintiff__ _n_ :four::hammer:  
+__plaintive__ _adj_ :dart::nine: /PLAYN-tiv/ Plaintive is an adjective for describing someone or something with a pleading, sorrowful, desperate tone. If you have ever heard the plaintive howl of a wolf, then you know what we are getting at here. Expressing sorrow; melancholy. Something (usually a sound) that is described as plaintive is expressive of sorrow or suffering. _Syn_ mournful _She uttered a plaintive sob, closed her fine eyes, and fled, trying in vain to still the beating of her heart._  
+__plaintively__ _adv_ :dart::four::hammer: :es: lastimeramente, con dolor  
 __plaiting__ _n_ _Tshanyi earns money plaiting hair._  
 __plan B__ _n_ (capital B) An alternative strategy. _It’s time I put plan B into action._  
 __Plan B__ _n_ A brand name of levonorgestrel, an emergency contraception drug.  
