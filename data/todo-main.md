@@ -7,6 +7,7 @@ __ad lib__
 __adduct<sup>1</sup>__ _vt_ _A hyper-adducted right radial artery approach._  
 __adduct<sup>2</sup>__ _n_  
 __Agatha__ _n_ :mega: /ˈæɡəθə/  
+__agency__ _n_  
 __aloof__ _adj_  
 __ancillary__ _adj, n_  
 __apparatchik__ _n_ /ah-puh-RAH-chik/ :dart: _Apparatchik_ is used disapprovingly to refer to a blindly devoted official, follower, or member of an organization, such as a corporation or political party.  
@@ -16,6 +17,8 @@ __atherectomy__ _n_ Surgical removal of atherosclerotic plaque from an artery us
 __bald-faced__ _adj_ Brash; undisguised. _Syn_ brazen, insolent, audacious, barefaced, bodacious, brassy _John’s excuse for missing work was such a bald-faced lie that his boss immediately fired him._  
 __baleen whale__ _n_ Another name for whalebone whale.  
 __bastion__ _n_ _Be a bastion of truth in a time of lies._  
+__bear market__ _n_  
+__behest__ _n_ __1__ An authoritative command. __2__ An urgent request: _I called the office at the behest of my assistant._  
 __benign__ _adj_ /bih-NYNE/  
 __Big Mouth Billy Bass__ _n_ An animatronic singing prop, representing a largemouth bass, invented by Gemmy Industries on December 16, 1998; sold beginning January 1, 1999; and popular in the early 2000s.  
 __billet-doux__ _n_ (_n pl_ billets-doux) A love letter.  
@@ -40,6 +43,7 @@ __collected__ _adj_
 __colorful__ _adj_ :astonished:  
 __combine harvester__ _n_ A machine that simultaneously cuts, threshes, and cleans a standing crop of grain.  
 __commutation__ _n_ :astonished: The reduction in severity of a punishment imposed by law. _Syn_ re-sentencing  
+__compliance__ _n_  
 __comprehensive__ _adj_ Broad or complete in scope or content.  
 __concussion grenade__ _n_ A grenade that produces its effect by the blast of its detonation rather than from the fragmentation of its casing.  
 __conducive__ _adj_  
@@ -298,8 +302,10 @@ __guesswork__ _n_
 __gum tree__ _n_ (eucalyptus tree)  
 __gurgle__ _v_  
 __gurney__ _n_  
+__gustatory__ _adj_ /GUSS-tuh-tor-ee/ _Gustatory_ describes things that are related to or associated with eating or the sense of taste.  
 __guy wire__ _n_ :camera:  
 __haberdasher__ _n_  
+__habit-forming__ _adj_ Capable of leading to physiological or psychological dependence. _Syn_ addictive _Cocaine is a habit-forming drug._  
 __hackneyed__ _adj_ Worn out through overuse; trite.  
 __half-boot__ _n_ A boot reaching to the midcalf.  
 __hamper__ _n_ :hammer: _Laundry hamper._  
@@ -312,6 +318,7 @@ __hard-hit__ _adj_
 __harrowing__ _adj_  
 __haul__ _vt_  
 __havoc__  
+__hefty__ _adj_  
 __hew__ _v_ /HYOO/ _Hew_ is commonly used with to to mean “to conform to or adhere to (something).” _Hew_ on its own has several meanings having to do with cutting or shaping with a sharp tool, such as an ax.  
 __hiss__ _vt_ To say something in a quiet angry way. _“Shut up, Tom!” She hissed._  
 __hmm__ _vi_ To make a thoughtful humming noise.  
@@ -431,6 +438,7 @@ __jumpy__ _adj_ __1__ Nervous or apprehensive. __2__ Moving jerkily or fitfully.
 __just-in-time__ _adj_  
 __juvenile<sup>1</sup>__ _adj_  
 __juvenile<sup>2</sup>__ _n_  
+__kafkaesque__ _adj_ Of, relating to, or suggestive of Franz Kafka or his writings. Especially: having a nightmarishly complex, bizarre, or illogical quality. _The government acknowledged the “administrative error”—an Orwellian euphemism for a Kafkaesque nightmare._  
 __karen__ _n_ (derogatory) Any person, especially female, exhibiting an exaggerated sense of entitlement.  
 __kickstand__ _n_ __1__ A swiveling metal bar for holding a bicycle, motorcycle, or other two-wheeled vehicle upright when it is not being ridden.  
 __kindle__  
@@ -937,6 +945,7 @@ __rejuvenate__ _v_ /rih-JOO-vuh-nayt/ To rejuvenate a person, parts of the body,
 __relate__ _v_ _I wish to relate the story in his own words._  
 __relay__ _n, vt_  
 __relent__ _v_ :dart: Give in, as to influence or pressure. _Syn_ soften, yield _At first she wouldn’t let them go to the cinema, but in the end she relented._  
+__reminisce__ _v_ /rem-uh-NISS/ To reminisce is to talk, think, or write about things that happened in the past.  
 __remuneration__ _n_ :mega: /ri-myoo-nuh–rey-shuhn/  
 __render__ _vt_ __2__ To cause to become; make: _The news rendered her speechless._ _Grief had rendered him simple-minded._  
 __repent__ _v_ _He would repent and confess his sins._  
@@ -1096,6 +1105,8 @@ __snark__ _n_ /SNAHRK/ _Snark_ is an informal word that refers to an attitude or
 __sneer__  
 __snicker__ _v_  
 __snide__ _adj_ _Snide comments._  
+__snigger<sup>1</sup>__ _n_ A sly or disrespectful laugh, esp one partly stifled.  
+__snigger<sup>2><sup>__ _vi_  
 __snort<sup>1</sup>__ _n_  
 __snort<sup>2</sup>__ _vi_  
 __snort<sup>3</sup>__ _vt_  
@@ -1155,6 +1166,7 @@ __superfluous__ _adj_ :two: /soo-PER-floo-us/ Superfluous is a formal word used 
 __sure-fire__ _adj_ Guaranteed to work or happen.  
 __sustenance__ _n_  
 __T-bone__  
+__tabbouleh__ _n_ :mega: /təˈbu lə, -li/  
 __tackle__ _vt_ __2__ _Sports_ __a__ To stop (an opponent carrying the ball), especially by forcing the opponent to the ground. __b__ To obstruct (a player with the ball) in order to cause loss of possession of the ball. __3__ To engage or deal with: tackle a perplexing problem.  
 __tadpole__ _n_ [:scroll: C15 _taddepol_, from _tadde_ toad + _pol_ head, poll]  
 __tantrum__ _n_  
@@ -1162,6 +1174,7 @@ __tartly__ _adv_
 __temper__ _v_  
 __templet__ _n_ A model or standard for making comparisons. _Syn_ guide, template  
 __tenuous__ _adj_ :two:Having little substance or strength; unsure; weak.  
+__thalweg__ _n_  
 __thirty-odd__ _n_ (30-odd) Being in excess of the indicated or approximate number, extent, or degree. Often used in combination: _invited 30-odd guests._  
 __thirtysomething__ _adj, n_  
 __thunderclap__ _n_  

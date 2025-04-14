@@ -14,9 +14,11 @@ __(it’s) showtime__
 __(just) for the fun of it__  
 __(one’s) days are numbered__ (its days are numbered)  
 __(one’s) door is always open__ __1__ One is always available to be of guidance, support, aid, or assistance whenever needed. Said especially by an employer or teacher to an employee or pupil. _I know you’ve been going through some tough times lately, so if you ever need someone to talk to, I want you to know that my door is always open._ __2__ One’s home is always available as a place where someone can visit, rest, recuperate, etc. _It was so nice to see you, Janice! If you’re ever in town again, please remember that our door is always open!_  
+__(one’s) hands are full__ Someone is too busy or has too much going on to be able to do or become involved with anything else. _I really wish that I could babysit for you tonight, but I’m afraid my hands are full at the moment._  
 __(one’s) heart bleeds for (someone)__ One feels sorrow or sadness for someone who is experiencing hardships. The phrase can also be said sarcastically to mean the opposite.  
 __(one’s) lucky day__ /ˈsʌb tərˌfyudʒ/ A particular day or moment in one’s life when one experiences extremely good luck, fortune, or favor. _Wow, that’s the third hand of poker I’ve won in a row—it must be my lucky day!_  
 __(out) on a limb__  
+__(someone’s) native soil__ The country or geographical area in which someone was born or raised. _Though I’ve spent most of my adult life in London, it’s always nice to return to my native soil of Shanghai, if even for just a few days._ _I can’t quite place your accent, sir. Where is your native soil?_  
 __(someone’s) take on (something)__  
 __(someone) ain’t seen nothing yet__  
 __(stuck) in a rut__  
@@ -249,6 +251,7 @@ __fart jokes__ An extremely crude and low-class type of “comedy,” only appre
 __fear of the needle__  
 __feel the heat__  
 __flame out__ __1__ To be very unsuccessful or fail. _That guy flamed out really quickly—his NBA career lasted only a few months._  
+__flip the script__ :dart: __1__ _vt_ To lie; to change one’s story. _The guy flips the script depending on whose listening._ __2__ :dart: _vt_ To reverse positions in a situation; to turn the tables on someone. To change or reverse something dramatically. _Now he’s the one who’s in trouble! That’s really flipping the script!_ _Wow, they really flipped the script on their opponents after the intermission. The score went from 0-3 to 5-3!_  
 __for a change__ _Threepo was keeping his mouth shut for a change._  
 __for good measure__ As extra or in addition, to ensure that something is good or successful. _You should put your report into a protective cover for good measure._  
 __for good__  
@@ -289,6 +292,7 @@ __have the nerve (to do something)__
 __heres the hitch__  
 __high muckety muck__ _slang_ An especially important, influential, and authoritative person, especially someone who is overbearingly or arrogantly so. _Were just waiting for the high muckety muck to give us the green light before we get the project started._  
 __highways and byways__  
+__history repeats itself__ _prov_ The same kinds of events seem to happen over and over. Said when something that has happened in the past recurs in the present. Can be used in the negative to mean the opposite. _It seems that history is about to repeat itself for that poor country; it is about to be invaded again._  
 __hit and fade__  
 __hit the road__  
 __HMU__ Hit me up.  
@@ -349,6 +353,7 @@ __keep an eye peeled (for something or someone)__ To remain vigilant or carefull
 __keep body and soul together__  
 __keep company__  
 __keep faith__  
+__keep in reserve__ :dart: (keep (something) in reserve) To save something or set it aside for future use. _Most people would be shocked if they knew how much money the government keeps in reserve._  
 __keep it real__ :two::hammer:  
 __keep pace__ :two::hammer:  
 __keep tabs on (someone or something)__  
@@ -444,6 +449,7 @@ __like there were no tomorrow__ Very rapidly and eagerly; without restraint or t
 __likely story__ ((that’s a) likely story) An exclamation of distrust or disbelief in someone’s explanation or story. _Albert: “Sorry I’m late. My car broke down half way here!” Sarah: “Yeah, likely story! I bet you just wanted to finish watching the football game on TV.”_  
 __liminal__ _adj_ /ˈlɪmɪnəl/  
 __line in the sand__ A figurative boundary that someone or some group refuses to cross or beyond which no further advance or compromise is accepted. (Used especially in the phrase “draw a line in the sand.”) _The allocation of this new tax to pay for building schools has become a line in the sand for the governor’s administration._  
+__lip service__ :smiling_imp:  
 __lip to lip__ :two: The idiom “lip to lip” typically refers to a kiss that involves direct contact between the lips of two people. This expression is often associated with romantic or intimate contexts, emphasizing the closeness and emotional connection between the individuals involved.  
 __liquid courage__ _slang_ The decrease in timidity or inhibition that comes from imbibing alcoholic beverages.  
 __litmus test__ __2__ A test that uses a single indicator to prompt a decision.  
@@ -489,6 +495,7 @@ __loud and clear__ :two::hammer:
 __love handles__ ((love) handles, spare tyres, Dunlops disease, Dunlop Syndrome) _euphemism_ [So called because supposed to be grabbed by a partner in sexual intercourse.]  
 __low man on the ladder__ The person (not necessarily male) with the least amount of experience, authority, and/or influence in a social or corporate hierarchy. _It can be a little daunting going from being a senior in high school to low man on the ladder again as a college freshman._  
 __low-hanging fruit__ :dart::smiling_imp:  
+__lowbrow__  
 __lower the bar__  
 __lubrication payment__ :smiling_imp: A small sum of money or other gifts or services to be paid or given to government officials to expedite business operations in countries that do not prohibit such activity. _Whenever I start up a new factory overseas, I make sure to bring along enough cash on hand for any lubrication payments I may need to make._  
 __luck in__ To be very lucky or fortunate; to experience particularly good luck. (A nonstandard variant of “luck out.”) _I really lucked in with my graduate school program. I have the most amazing group of professors and peers!_  
@@ -579,7 +586,7 @@ __mouth-watering__ Delicious; particularly appetizing in appearance, aroma, or d
 __move mountains__ :dart: To do or achieve something that is incredibly difficult.  
 __move on__  
 __move the dial__  
-__move the needle__ _I am concentrating on what moves the needle most._  
+__move the needle__ :two::hammer: _I am concentrating on what moves the needle most._  
 __move through the gears__ To steadily increase one’s momentum, as of speed, intensity, progress, or success. Likened to increasing the speed of a geared vehicle, such as a bicycle or car. _The home team has been training for weeks for this showdown, but they’ve barely had to move through the gears against such a poor performance by their opponents._  
 __moxie__ :dart: Bravery, determination, energy, or resolve.  
 __much obliged__ :dart: __1__ Indebted to someone for their generosity, kindness, or favor. _We are much obliged for all you have done on behalf of our father._ __2__ Thank you very much. _A: “Here’s your jacket, sir.” B: “Much obliged, son.”_  
@@ -757,6 +764,7 @@ __push (one’s) buttons__
 __push the envelope__ To expand on, exceed, or test the limits of the established norm or standard. _The company is renowned for pushing the envelope whenever they develop a new piece of technology._  
 __put (one’s) money where (one’s) mouth is__ To do, live up to, or follow through on something one talks about, threatens, or promises, especially (but not always) when it involves spending money.  
 __put (someone) through the wringer__  
+__put in the grind__ The idiom “put in the grind” refers to the act of working hard and consistently, often over a long period, to achieve a goal or complete a task. It emphasizes dedication, effort, and perseverance, especially in challenging or tedious situations. This phrase is commonly used in contexts such as studying, training, or working on a project where sustained effort is required to see results.  
 __put on the brakes__  
 __put the brakes on (someone or something)__  
 __put the jinx on (something or someone)__ To invoke a curse upon someone or something that brings bad luck or failure.  
@@ -777,6 +785,7 @@ __ride the wave__ (ride (on) the wave (of something))
 __rip off__  
 __rip-off__ :smiling-imp:  
 __rise to (something)__ :dart: To increase one’s effort in response to a challenging situation. _If you’re going to lead this team, you’ve got to rise to the challenge and start motivating them._  
+__rn__ An abbreviation of “right now” that is typically used in text messages and written in lower case. _I need coffee rn._ _Google is giving away Gemini for free rn._  
 __roll out of bed__ The phrase “roll out of bed” typically means to get out of bed in a casual or lazy manner, often implying that the person is not fully awake or is in a hurry. It can also suggest a relaxed or informal approach to starting the day.  
 __ruckus__ A large, uproarious commotion. _There was a ruckus out in the streets, so I went out to investigate._  
 __run with it__  
@@ -785,6 +794,7 @@ __scramble for (something)__
 __see (something) through__ To continue working on or engaging in something until it is completed or concluded.  
 __seethe with something__ [for someone] To be agitated with anger, hatred, scorn, disgust, etc. _Laura was seething with rage as she entered the tax office._  
 __sell like hot cakes__  
+__set the stage for (something)__ __2__ To be the catalyst for something that happens later. _Their squabbling at Thanksgiving set the stage for a total screaming match on Christmas._  
 __set up shop__ :two::hammer:  
 __shoot the breeze__ To engage in idle conversation.  
 __shuffle off__  
@@ -878,6 +888,7 @@ __spend a penny__ _euphemism_ To go to the toilet. Primarily heard in UK.
 __spending spree__  
 __spill over__ __2__ To go beyond the borders or parameters of something and into something else, especially due to growing in size or scope. _It’s hard to contain violence to just one neighborhood, you know. It’s only a matter of time until it spills over into our part of town too._  
 __spill the beans__  
+__spill the tea__  
 __spill your guts__ To confess or reveal all, often under pressure or coercion. Ellroy often has characters facing moral dilemmas, and this idiom fits the theme of characters who must decide whether to reveal their secrets or keep them buried.  
 __spin doctor__ :smiling_imp: Someone who gives a twisted or deviously deceptive version of an event. (Usually in the context of manipulating the news for political reasons.) _Things were going bad for the candidate, so he got himself a new spin doctor._ _A good spin doctor could have made the incident appear far less damaging._  
 __spin the wheel__  
@@ -963,7 +974,7 @@ __take a crack at (something)__ To attempt (to do) something; to take a turn try
 __take a deep breath__  
 __take a load off (one’s feet)__ To sit down and rest one’s feet; to relax. (Usually said as a suggestion.) _Why don’t you go take a load off for a while, and I’ll fix dinner for tonight?_  
 __take a shot (at someone or something)__  
-__take center stage__  
+__take center stage__ :two::hammer:  
 __take exception to (something)__ To strongly disagree with or take offense at something.  
 __take heart (from something)__ To receive courage or comfort from some fact. _I hope that you will take heart from what we told you today. Even though you did not win the race, take heart from the fact that you did your best. I told her to take heart and try again next time._  
 __take heart__ To have one’s confidence, courage, or happiness bolstered (by something). _We may have lost the election, but we take heart in the fact that so many young people are now engaged and excited about politics._  
@@ -1072,6 +1083,7 @@ __whisper (something) around__ To spread gossip, rumors, or secrets around (some
 __white knuckle something__ To survive something threatening through strained endurance, that is to say, holding on tight. _The flight from New York was terrible. We had to white knuckle the entire flight._  
 __whitewash__  
 __who cares__  
+__who will blink first?__ _cliché_ Who in a confrontation will be the first to yield or submit?  
 __who’s who__ _A who’s who guide._  
 __whoops__ _informal_ An exclamation of surprise used in response to a mistake or moment of clumsiness.  
 __why on earth__  
@@ -1082,6 +1094,7 @@ __winnow out__
 __wipe the slate clean__ (wipe (one’s) slate clean)  
 __with flying colors__  
 __with heavy asterisk__ (with a heavy asterisk) The phrase “with (a) heavy asterisk” is typically used in conversation, writing, or discourse to imply that there’s a major caveat, condition, or important exception that should be noted. The asterisk metaphorically represents the idea that there’s a footnote or clarification to consider, but it’s emphasized as significant or notable—hence “heavy.”  
+__within spitting distance (of someone or something)__ In close proximity to or a short distance away from some desired thing, person, goal, or objective.  
 __wonky__  
 __word has it (that)__ According to rumor or gossip (something is the case).  
 __wordplay__ The use of words in a clever or amusing way, as seen in puns or double entendres.  
