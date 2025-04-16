@@ -6,6 +6,7 @@ __accursed__ _adj_ Under a curse. _Syn_ maledict
 __ad lib__  
 __adduct<sup>1</sup>__ _vt_ _A hyper-adducted right radial artery approach._  
 __adduct<sup>2</sup>__ _n_  
+__adversity__ _n_ /ad-VER-suh-tee/  
 __Agatha__ _n_ :mega: /ˈæɡəθə/  
 __agency__ _n_  
 __aloof__ _adj_  
@@ -14,15 +15,17 @@ __apparatchik__ _n_ /ah-puh-RAH-chik/ :dart: _Apparatchik_ is used disapprovingl
 __apprehension__ _n_ :dart::pencil2:  
 __archetype__ _n_ /AHR-kih-type/ _Archetype_ refers to someone or something that is seen to be a perfect example. It is also a word for the original pattern or model of which all things of the same type are representations or copies.  
 __atherectomy__ _n_ Surgical removal of atherosclerotic plaque from an artery using a catheter fitted with a cutting device.  
+__atoll__ _n_ :es: atolón  
 __bald-faced__ _adj_ Brash; undisguised. _Syn_ brazen, insolent, audacious, barefaced, bodacious, brassy _John’s excuse for missing work was such a bald-faced lie that his boss immediately fired him._  
 __baleen whale__ _n_ Another name for whalebone whale.  
 __bastion__ _n_ _Be a bastion of truth in a time of lies._  
-__bear market__ _n_  
+__bear market__ _n_ :two: [An easy way to remember the meaning of a bear market is to think about how a bear attacks: it swipes its paws downward. Bear swipes down → market going down = bear market]  
 __behest__ _n_ __1__ An authoritative command. __2__ An urgent request: _I called the office at the behest of my assistant._  
 __benign__ _adj_ /bih-NYNE/  
 __Big Mouth Billy Bass__ _n_ An animatronic singing prop, representing a largemouth bass, invented by Gemmy Industries on December 16, 1998; sold beginning January 1, 1999; and popular in the early 2000s.  
 __billet-doux__ _n_ (_n pl_ billets-doux) A love letter.  
 __black eyed peas__ _n pl_ (Notice that black eyed peas aren’t peas!)  
+__blackjack__ _n_ A leather-covered bludgeon with a short, flexible shaft or strap, used as a hand weapon. _Syn_ cosh, sap  
 __blasé__ _adj_ /ˈblɑːzeɪ/  
 __bleachers__  
 __blitz__ _n_ (blitzkrieg)  
@@ -32,11 +35,14 @@ __blow-dryer__ _n_
 __bode__ _v_ :two:hammr:  
 __brash__ _adj_  
 __bristle__ _v_ _Laia bristled._  
+__bull market__ _n_ [A bull market is when prices are rising—remember that bulls attack upward with their horns. Bull charges up → market going up = bull market]  
+__buoyancy__ _n_  
 __cabal__ _n_  
 __canister__ _n_ _Oxygen canister._  
 __carcass__ _n_  
 __cavort__ _v_ Play boisterously. _Syn_ frisk, frolic, gambol, lark, rollick, romp, run around, skylark, sport, disport _The children cavorted in the water, splashing and ducking each other._  
 __chary__ _adj_ /CHAIR-ee/ _Chary_ is usually used with about or of to describe someone who is cautious about doing something. _The director is chary about spending money._ _I’ve always been chary of travelling alone._  
+__chlorophyl__ _n_ (chlorophyll) Any of a group of green pigments found in photosynthetic organisms; there are four naturally occurring forms.  
 __cogent__ _adj_ Convincing; reasonable.  
 __coleslaw__ _n_  
 __collected__ _adj_  
@@ -61,6 +67,7 @@ __cooking pot__ _n_ Any vessel (such as a saucepan), with or without a lid, used
 __cordon__ _n_ __1__ A line of people, military posts, or ships stationed around an area to enclose or guard it: _a police cordon._ _The landing field cordon won’t stop a Jedi._  
 __coriander__ _n_  
 __corn__ _n_ :mega:  
+__cosplay__ _v_ /ˈkɒsˌpleɪ; ˈkɒz-/  
 __counterfeit<sup>1</sup>__ _vt_  
 __counterfeit<sup>2</sup>__ _vi_  
 __counterfeit<sup>3</sup>__ _adj_  
@@ -109,6 +116,7 @@ __detail__ _n_ __7a__ A group of military personnel assigned to a particular dut
 __detainment__  
 __didactics__ _n_ The activities of educating or instructing; activities that impart knowledge or skill. _Syn_ education, instruction, pedagogy, teaching  
 __diffident__  
+__digital twin__ _n_  
 __diligent__ _adj_ Marked by painstaking effort; hard-working.  
 __diorama__ _n_  
 __dirt road__ _n_ :dart: An unsealed country road.  
@@ -124,6 +132,7 @@ __doff__ _v_ /DAHF/ To doff a hat or other piece of clothing is to take it off. 
 __doggy dog__ _adj_ Eggcorn of dog eat dog.  
 __dollop__ _n_ :two::hammer:  
 __doubleheader__ _n_ __1__ _Sports_ Two games or events held in succession on the same program, especially in baseball.  
+__downdraft__ _n_ __1__ A strong downward current of air. __2__ A downward trend; downturn: _The business hit a downdraft._  
 __drab__ _adj_ _Drab colors._  
 __draconian__ _adj_  
 __drawl__ _n_ /drɔːl/ The way of speech of someone who drawls.  
@@ -134,6 +143,7 @@ __dribble__ _v_ __2a__ To move (a ball or puck) by repeated light bounces or kic
 __drive-by<sup>1</sup>__ _adj_ /ˈdraɪvˌbaɪ/  
 __drive-by<sup>2</sup>__ _n_  
 __drizzle__  
+__druthers__ _n pl_ /DRUH-therz/ _Druthers_ is an informal word that refers to the power or opportunity to choose—in other words, free choice. It is used especially in the phrase if one had one’s druthers. _If I had my druthers, I would travel all the time._  
 __dubious__ _adj_ Doubtful; of unlikely authenticity.  
 __duck<sup>1</sup>__ _n_  
 __duck<sup>2</sup>__ _vt_ __3__ To push (a person, for example) suddenly under water.  
@@ -151,6 +161,8 @@ __eggplant__ _n_
 __egoism__ _n_ Concern for your own interests and welfare. _Syn_ self-centeredness, self-concern, self-interest  
 __egregious__ _adj_ Conspicuously bad or offensive.  
 __elated__ _adj_  
+__elephant seal__ _n_ (sea elephant)  
+__elk__ _n_ :es: alce  
 __elucidate__ _v_ /ih-LOO-suh-dayt/ To elucidate something is to make it clear or easy to understand.  
 __elusive__ _adj_ :mega: /ɪˈlu sɪv/  
 __emaciated__  
@@ -164,6 +176,7 @@ __encroach__ _v_ /in-KROHCH/ To encroach is to gradually move or go into an area
 __encroachment__ _n_ :es: intromisión  
 __enslave__ _vt_  
 __enslaver__ _n_  
+__enthuse__ _v_  
 __entrenched__ _adj_ Established firmly and securely. _The entrenched power of the nobility._  
 __entresol__ _n_ The floor just above the ground floor of a building. _Syn_ mezzanine  
 __eponymous__ _adj_  
@@ -175,6 +188,7 @@ __exculpate__ _v_ To free from guilt or blame.
 __excursion__ _n_ /ik-SKER-zhun/ _Excursion_ refers to a trip, and especially to a short one made for pleasure. _Excursion_ is also often used figuratively to refer to a deviation from a direct, definite, or proper course, and often in particular to a digression.  
 __expiration date__ _n_ _A sad song about a relationship that probably has reached its expiration date._  
 __expletive__ _n_  
+__extant__ _adj_ Still in existence; not destroyed, lost, or extinct: _extant manuscripts._  
 __extempore__ _adj_ Spoken, carried out, or composed with little or no preparation or forethought. _Syn_ ad-lib, extemporaneous, impromptu, off-the-cuff, offhand, offhanded, unrehearsed  
 __extravaganza__ _n_ /ɪkˌstræv əˈgæn zə/  
 __eye-watering__ _adj_ :dart::astonished: Painful or extremely unpleasant: _eye-watering electricity bills._ So expensive that (figuratively) it would make one’s eyes water.  
@@ -214,7 +228,7 @@ __fire grate__ _n_ (firegrate, fire-grate) A grate used to hold the fuel in dome
 __firebomb<sup>1</sup>__ _n_ A bomb used to start a fire; an incendiary bomb.  
 __firebomb<sup>2</sup>__ _v_ To attack with firebombs.  
 __firebrand__  
-__firefight__ _n_ :two: An exchange of gunfire between two opposing forces, esp. a skirmish between military forces.  
+__firefight__ _n_ :three: An exchange of gunfire between two opposing forces, esp. a skirmish between military forces.  
 __first-in-class__  
 __firsthand__  
 __fish__ _v_ __3__ To seek something in a sly or indirect way: _fish for compliments._  
@@ -249,6 +263,7 @@ __flip-flops__ _n_
 __flippant__ _adj_ /FLIP-unt/ Something described as flippant, such as behavior or a comment, is lacking in proper respect or seriousness.  
 __flock__ _n_  
 __florid__ _adj_ Flowery or elaborate in style.  
+__flounder__ _vi_  
 __flyer__ _n_ (flier)  
 __folk__ _n_  
 __foolproof__ _adj_  
@@ -256,13 +271,14 @@ __forego__ _v_
 __forerunner__ _n_  
 __forklift__ _n_ :camera:  
 __form factor__ _n_  
-__fractionally__ _adv_ _Luke shrugged fractionally all-around._ :es: mínimamente  
+__fractionally__ _adv_ :astonished::two::hammer: _Luke shrugged fractionally all-around._ :es: mínimamente  
 __fragile__ _adj_ :mega:  
 __fraught__  
 __freemium<sup>1</sup>__ _n_ :dart: /ˈfriːmiəm/ A way of doing business, especially on the internet, in which basic services are provided free of charge while more advanced features must be paid for.  
 __freemium<sup>2</sup>__ _adj_ Relating to a business model that offers basic services free, but charges a premium for advanced or special features. _It’s a freemium model: Attract users with free services, then charge them a premium for special features._  
 __freighter__ _n_  
 __frieze__ _n_  
+__frigatebird__ _n_ (frigate bird, man-o’-war bird)  
 __frond__ _n_  
 __frontline__ _adj, n_  
 __frontrunner__ _n_  
@@ -294,6 +310,7 @@ __gregarious__ _adj_ /grih-GAIR-ee-us/ _Gregarious_ is used to describe someone 
 __griffin__ _n_  
 __grift__ _n, v_ :smiling_imp:  
 __grimly__ _adv_ :two::hammer:  
+__grisly__ _adj_  
 __gritty__ _adj_  
 __groundless__ _adj_ _His fears proved groundless._  
 __grove__ _n_  
@@ -361,6 +378,7 @@ __infamous__ _n_ :two::hammer: _The Louisiana legal system is infamous for corru
 __inferno__ _n_  
 __infirm__ _adj_  
 __infringement__ _n_ An encroachment, as of a right or privilege. _Syn_ violation  
+__ingloriously__ _adv_ In a dishonorable manner or to a dishonorable degree.  
 __ingratiate__ _v_  
 __inherent__ _adj_ Inborn; built-in.  
 __inimitable__ _adj_ /in-IM-it-uh-bul/ _Inimitable_ describes someone or something that is impossible to copy or imitate.  
@@ -368,6 +386,7 @@ __inkling__
 __inner workings__  
 __innovative__ _adj_ Introducing something new.  
 __inordinate__ _adj_  
+__inscrutable__ _adj_ :dart::astonished:  
 __insidious__  
 __interfere__ _v_  
 __interpenetrate__ _v_ Spread or diffuse through. _Syn_ imbue, permeate, pervade, diffuse, riddle, penetrate  
@@ -421,6 +440,7 @@ __jiggle__ _v_ :dart: To move or rock lightly up and down or to and fro in an un
 __jinx__ _vt_  
 __jitterbug__  
 __jobless claims__  
+__jockey__ _v_ _The fleets were beginning to jockey for battle position._  
 __jodhpurs__ _n_ Wide-hipped riding pants of heavy cloth, fitting tightly from knee to ankle. _Syn_ riding breeches  
 __Jolt Cola__ _n_ Jolt Cola was a carbonated soft drink targeted towards students and young professionals, stressing its use as a stimulant in a similar manner as energy drinks. Its slogan reads “All the sugar and twice the caffeine!’  
 __jostle__ _v_  
@@ -475,6 +495,7 @@ __leitmotif__ _n_ :mega: /ˈlaɪt moʊˌtif/ /LYTE-moh-teef/ A leitmotif is a do
 __leprechaun__ _n_ :smiling_imp::mega: /ˈlɛp rəˌkɔn, -ˌkɒn/ _Irish folklore_ One of a race of elves that can reveal hidden treasure to those who catch them. :es: duende  
 __leviathan__ _n_  
 __lexical__ _adj_ /LEK-sih-kul/ To describe something as _lexical_ is to say that it is related to words or vocabulary.  
+__liaise__ _v_  
 __library__ _n_ :mega: /lahy-brer-ee/  
 __lickspittle__ _n_ A contemptible, fawning person; a servile flatterer or toady.  
 __lidless__ _adj_ Watchful; vigilant. _Syn_ sleepless  
@@ -523,6 +544,7 @@ __madcap__ _adj_ Characterized by undue haste and lack of thought or deliberatio
 __mage__ _n_  
 __maggot__ _n_ :two: __1__ The legless, soft-bodied, wormlike larva of any of various dipteran flies, often found in decaying matter. :es: gusano  
 __Magic Eye poster__ _n_  
+__magnetron__ _n_  
 __magpie__ _n_ :es: urraca  
 __mahogany__ _n_ :es: caoba  
 __maiden__ _adj_ _The _Titanic_ maiden voyage._  
@@ -588,6 +610,7 @@ __mesh__ _v_ _The orbits of ship and satellite meshed for a second time._
 __mesmerize__ _vt_ [:scroll: After Franz Mesmer]  
 __mess tin__ _n_ A portable container for cooking or serving food, originally for military use, and generally of a rounded rectangular form.  
 __messenger bag__ _n_  
+__met__ _n_ __3__ Meteorological; meteorology.  
 __mew__ _v_ :two::hammer:  
 __mewl__ _vi_ To cry, as a baby, young child, or the like; whimper.  
 __miasma__ _n_  
@@ -657,7 +680,7 @@ __nominal price__ _n_
 __nominal wages__ _n_ (money wages) Wages measured in terms of money and not by their actual purchasing ability.  
 __nominal__ _adj_ :dart: __2__ :dart: Minimal in comparison with real worth or what is expected; token: _a nominal fee._  
 __non sequitur__ _n_ /NAHN-SEK-wuh-ter/ _We were talking about the new restaurant when she threw in some non sequitur about her dog._  
-__non-negotiable__ _adj_ :two: Not open to negotiation or discussion: _the policy is non-negotiable._  
+__non-negotiable__ _adj_ :dart::three: Not open to negotiation or discussion: _the policy is non-negotiable._  
 __non-profit-making__ _adj_ Not yielding a profit, esp because organized or established for some other reason: _a non-profit-making organization._  
 __noncommittal__ _adj_ :dart::two::hammer:  
 __nondescript__  
@@ -701,6 +724,7 @@ __ornate__ _adj_ Elaborately decorated.
 __ostentatious__ _adj_ Describing a pretentious display.  
 __otter__ _n_ :es: nutria  
 __outstrip__ _v_ Be or do something to a greater degree. _Syn_ outdo, outgo, outmatch, outperform, surpass, exceed, surmount _When the demand for concert tickets outstrips supply, scalpers can make a significant profit._  
+__overbearing__ _adj_  
 __overhaul__  
 __overstep__ _v_ To go beyond (a limit); exceed. _Syn_ transgress, trespass  
 __overtones__ _n pl_ :dart: Suggestions; hints. _There were overtones of discontent in his speech._  
@@ -749,6 +773,7 @@ __petrichor__ _n_ :dart::astonished::two: /ˈpɛtrɪˌkɔː/ [:scroll: from Gree
 __petrol station__ _n_ _Syn_ filling station, gas station, gasoline station  
 __pettiness__ _n_  
 __petulance__ _n_  
+__petulant__ _adj_  
 __planter__ _n_  
 __plaster of Paris__ _n_ :two::hammer::camera:  
 __plastic wrap__  
@@ -796,7 +821,7 @@ __portfolio__
 __posit__ _vt_  
 __pot__ _n_ __12__ _billiards snooker_ A shot by which a ball is pocketed.  
 __pounce__ _v_  
-__poutine__ _n_ /puːˈtiːn/ /puˈtin/ _Canadian_ A dish of chipped potatoes topped with curd cheese and a tomato-based sauce.  
+__poutine__ _n_ :two: /puːˈtiːn/ /puˈtin/ _Canadian_ A dish of chipped potatoes topped with curd cheese and a tomato-based sauce.  
 __prehensile__ _adj_ :astonished: Immoderately desirous of acquiring e.g. wealth. _Syn_ avaricious, covetous, grabby, grasping, greedy  
 __presage__ _v_ :mega: /PRESS-ij/ To presage something is to give or be a sign that it will happen in the future. Presage is a formal synonym of _foreshadow_, _foretell_, and _predict._ _// The sudden gloom and ominous dark clouds clearly presaged a nasty storm._  
 __presentation__ _n_ /prez-uhn-tey-shuhn, pree-zen-tey-shuhn/  
