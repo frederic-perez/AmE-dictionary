@@ -34,7 +34,8 @@ __blow fly__ _n_ (blowfly) Large usually hairy metallic blue or green fly; lays 
 __blow-dryer__ _n_  
 __bode__ _v_ :two:hammr:  
 __brash__ _adj_  
-__bristle__ _v_ _Laia bristled._  
+__bristle__ _v_ :two: Rise up as in fear. _Syn_ uprise, stand up _The creaking of the house at night makes the hair on the nape of my neck bristle._  
+__budgetary__ _adj_  
 __bull market__ _n_ [A bull market is when prices are rising—remember that bulls attack upward with their horns. Bull charges up → market going up = bull market]  
 __buoyancy__ _n_  
 __cabal__ _n_  
@@ -43,8 +44,10 @@ __carcass__ _n_
 __cavort__ _v_ Play boisterously. _Syn_ frisk, frolic, gambol, lark, rollick, romp, run around, skylark, sport, disport _The children cavorted in the water, splashing and ducking each other._  
 __chary__ _adj_ /CHAIR-ee/ _Chary_ is usually used with about or of to describe someone who is cautious about doing something. _The director is chary about spending money._ _I’ve always been chary of travelling alone._  
 __chlorophyl__ _n_ (chlorophyll) Any of a group of green pigments found in photosynthetic organisms; there are four naturally occurring forms.  
+__cloud seeding__ _n_  
 __cogent__ _adj_ Convincing; reasonable.  
 __coleslaw__ _n_  
+__collate__ _vt_ :astonished: __1__ To examine and compare carefully in order to note points of disagreement.  
 __collected__ _adj_  
 __colorful__ _adj_ :astonished:  
 __combine harvester__ _n_ A machine that simultaneously cuts, threshes, and cleans a standing crop of grain.  
@@ -62,6 +65,7 @@ __contingent<sup>1</sup>__ _adj_ :astonished:
 __contingent<sup>2</sup>__ _n_  
 __contractor__ _n_  
 __conundrum__ _n_  
+__convene__ _v_  
 __conviction__ _adj_ A fixed or strong belief.  
 __cooking pot__ _n_ Any vessel (such as a saucepan), with or without a lid, used to cook food.  
 __cordon__ _n_ __1__ A line of people, military posts, or ships stationed around an area to enclose or guard it: _a police cordon._ _The landing field cordon won’t stop a Jedi._  
@@ -202,6 +206,8 @@ __factoid__ _n_ /FAK-toyd/ A factoid is a brief and usually unimportant or trivi
 __fairground attraction__  
 __fang__ _n_  
 __fast-moving__ _adj_ _She died of a fast-moving cancer._  
+__fast-track<sup>1</sup>__ _adj_ Denoting the quickest or most direct route or system.  
+__fast-track<sup>2</sup>__ _vt_ To speed up the progress of (a project or person).  
 __faucet__ _n_ :camera:  
 __fault line__ _n_  
 __fave__ _adj, n_ /feɪv/ _informal_ Short for favorite.  
@@ -324,6 +330,7 @@ __guy wire__ _n_ :camera:
 __haberdasher__ _n_  
 __habit-forming__ _adj_ Capable of leading to physiological or psychological dependence. _Syn_ addictive _Cocaine is a habit-forming drug._  
 __hackneyed__ _adj_ Worn out through overuse; trite.  
+__hailstone__ _n_ A pellet of hail.  
 __half-boot__ _n_ A boot reaching to the midcalf.  
 __hamper__ _n_ :hammer: _Laundry hamper._  
 __hand truck__ _n_ (handtruck)  
@@ -337,6 +344,7 @@ __haul__ _vt_
 __havoc__  
 __hefty__ _adj_  
 __hew__ _v_ /HYOO/ _Hew_ is commonly used with to to mean “to conform to or adhere to (something).” _Hew_ on its own has several meanings having to do with cutting or shaping with a sharp tool, such as an ax.  
+__hinder__ _v_  
 __hiss__ _vt_ To say something in a quiet angry way. _“Shut up, Tom!” She hissed._  
 __hmm__ _vi_ To make a thoughtful humming noise.  
 __hobbit__ _n_ /HAH-bit/ A hobbit is a member of a fictitious peaceful and friendly race of small humanlike creatures that dwell underground.  
@@ -487,6 +495,7 @@ __laud__ _v_
 __laudatory__ _adj_ Giving praise.  
 __lax__ _adj_ Loose or slack; not firm; not strict; negligent: _lax in enforcing the rules._  
 __leap year__ _n_ /liːp jɪər/  
+__least developed countries__ _n_ (LDCs)  
 __Leavenworth__ _n_ A city in NE Kansas: site of federal prison.  
 __ledger__ _n_ :two::hammer:  
 __legion<sup>1</sup>__ _n_  
@@ -518,6 +527,7 @@ __linguine__ _n_ (linguini)
 __lissom__ _adj_ Moving and bending with ease. _Syn_ lithe, lithesome, supple, sylphlike, svelte, slender  
 __listless__ _adj_ :two::hammer::mega: /ˈlɪst lɪs/  
 __lithe__ _adj_  
+__livelihood__ _n_  
 __livid__ _adj_ :astonished::two: /LIV-id/ Livid means “very angry, enraged, or furious.” It may also describe things having a dark purplish or reddish color.  
 __lock stepping__  
 __lock-in__  
@@ -572,6 +582,7 @@ __marauding__ _adj_
 __March hare__ _n_ A hare during its breeding season in March, noted for its wild and excitable behaviour (esp in the phrase _mad as a March hare_).  
 __Mardi Gras__ _n_ :mega: /ˈmɑr di ˌgrɑ, ˈgrɑ/  
 __marionette__ _n_ _Syn_ puppet  
+__maritime__ _adj_ /ˈmær ɪˌtaɪm/  
 __marksman__ _n_  
 __marquee__ _adj_ :astonished: Exceptionally popular or skilled: _The team is hoping to sign a marquee player._ _Marquee moment._  
 __marshal__ _v_  
@@ -611,6 +622,7 @@ __mesmerize__ _vt_ [:scroll: After Franz Mesmer]
 __mess tin__ _n_ A portable container for cooking or serving food, originally for military use, and generally of a rounded rectangular form.  
 __messenger bag__ _n_  
 __met__ _n_ __3__ Meteorological; meteorology.  
+__metazoan__ _n_ A multicellular animal, especially one having a body made up of many cells arranged in tissues and organs.  
 __mew__ _v_ :two::hammer:  
 __mewl__ _vi_ To cry, as a baby, young child, or the like; whimper.  
 __miasma__ _n_  
@@ -646,11 +658,13 @@ __multimeter__ _n_ :two::camera::mega: /ˈmʌltɪˌmiːtə/ An instrument that c
 __muttered__ _v_  
 __mythbuster__ _n_ A person who debunks misconceptions.  
 __nab__ _vt_  
+__nacelle__ _n_ /nəˈsɛl/  
+__nadir__ _n_ :two::hammer:  
 __nail clipper__ _n_ :two::camera: (also called nail clippers, a nail trimmer, a nail cutter or nipper type) A hand tool used to trim fingernails, toenails and hangnails. A lever-type nail clipper with a file.  
 __nail file__ _n_ A small flat file used for shaping and smoothing the fingernails and toenails.  
 __namely__  
 __nameplate__ _n_ __1__ A plate or plaque, as on an office door, inscribed with a name.  
-__nape__ _n_  
+__nape__ _n_ :two::hammer: _The nape of my neck._  
 __nappy__ _n_ _Chiefly British_ A diaper.  
 __nascent__  
 __nefarious__  
@@ -741,6 +755,7 @@ __parlay__ _v_
 __pavilion__ _n_ /pəˈvɪl yən/  
 __peace treaty__ _n_ An agreement to end fighting or conflict.  
 __pecking order__  
+__pedestal__ _n_  
 __penchant__ _n_ /PEN-chunt/ _Penchant_ refers to a strong liking for something, or a strong tendency to behave in a certain way. It is usually used with for. _My penchant for mathematics helped me become an engineer._  
 __penitent__ _adj_ Expressing remorse for one’s misdeeds.  
 __pensive__ _adj_ Deeply or seriously thoughtful. _Syn_ contemplative, meditative, musing, pondering, reflective, ruminative, brooding, broody  
@@ -848,6 +863,7 @@ __pucker<sup>2</sup>__ _n_ A wrinkle, crease, or irregular fold.
 __puckering__ _n_ Corrugations in metal parts resulting from pressing or drawing.  
 __pudgy__ _adj_  
 __puff__ _v_  
+__pugnacious__ _adj_ /pug-NAY-shus/ Someone described as pugnacious shows a readiness or desire to fight or argue. _There’s one pugnacious member on the committee who won’t agree to anything._  
 __pulsation__ _n_ The rhythmic contraction and expansion of the arteries with each beat of the heart. _Syn_ heartbeat  
 __pulse__ _n_ __1__ The edible seeds of certain pod-bearing plants, such as lentils and chickpeas. :es: legumbres __2__ A plant yielding these seeds.  
 __pummel__ _v_ _A pummeled penny on the train track._  
@@ -868,6 +884,7 @@ __quail<sup>2</sup>__ _vi_
 __Quaker__ _n_ /ˈkweɪkə/  
 __quandary__ _n_ :two: A state of uncertainty or perplexity.  
 __quango__ _n_ An organization or agency that is financed by a government but that acts independently of it.  
+__quantile__ _n_  
 __quark__ _n_ /KWORK/ _Quark_ is a word used in physics to refer to any one of several types of very small particles that make up matter.  
 __quarry__ _n_ :two::hammer:  
 __quaternary__ _adj_ Coming next after the third and just before the fifth in position or time or degree or magnitude. _Syn_ fourth  
@@ -1041,6 +1058,9 @@ __schadenfreude__ _n_ /SHAH-dun-froy-duh/ _Schadenfreude_ refers to a feeling of
 __schism__ _n_  
 __scoop__ _n_  
 __Scotch-tape__ _vt_ To fasten or mend with Scotch tape.  
+__scour<sup>1</sup>__ _vt_  
+__scour<sup>2</sup>__ _vi_  
+__scour<sup>3</sup>__ _n_  
 __scowl__ _v_  
 __scrap<sup>1</sup>__ _n_ __5__ :smiling_imp: A fight or scuffle. _Syn_ brawl  
 __scrap<sup>2</sup>__ _vt_  
@@ -1053,6 +1073,7 @@ __scuffed shoes__
 __scuffling<sup>1</sup>__ _adj_ Of or relating to fighting in a disorderly manner. _Scuffling sounds._  
 __scuffling<sup>2</sup>__ _n_ The act of fighting in a disorderly manner.  
 __scupper__ _v_  
+__seagrass__ _n_ Any of various submersed marine grasslike plants that grow in shallow coastal waters.  
 __seamstress__ _n_ :dart:  
 __search warrant__ _n_  
 __second language__ _n_  
@@ -1080,6 +1101,7 @@ __shopkeeper__ _n_
 __shortage__ _n_ :mega:  
 __shoulder__ _v_  
 __show time__ _n_ __2__ _slang_ The time at which an activity is to begin.  
+__showcase__ _v_  
 __shrive__ _v_  
 __Shrove Tuesday__ _n_ The Tuesday before Ash Wednesday.  
 __shuffle__ _v_ __6__ (when _vi_, often foll by _into_ or _out of_) to move or cause to move clumsily: _he shuffled out of the door._ _He shuffled his way out of the room._  
@@ -1103,8 +1125,8 @@ __skid__ _v_ :two::hammer: _The car skidded to a halt._ → :es: _El coche patin
 __skiff__ _n_ :two: A flatbottom open boat of shallow draft, having a pointed bow and a square stern and propelled by oars, sail, or motor.  
 __skirmish__  
 __skittish__ _adj_  
-__skulk__ _vi_ :two::hammer:  
-__skulk<sup>1</sup>__ _vi_ :dart: __1__ To lie in hiding, as out of cowardice or bad conscience; lurk. __2__ :dart: To move about stealthily. __3__ To evade work or obligation; shirk.  
+__skulk__ _vi_  
+__skulk<sup>1</sup>__ _vi_ :dart::four: __1__ To lie in hiding, as out of cowardice or bad conscience; lurk. __2__ :dart: To move about stealthily. __3__ To evade work or obligation; shirk.  
 __skulk<sup>2</sup>__ _n_ __1__ A person who skulks. __2__ (Zoology) _obsolete_ A pack of foxes or other animals that creep about stealthily.  
 __skulking__ _n_ :smiling_imp::two: Evading duty or work by pretending to be incapacitated.  
 __sky blue__ _n_ :es: celeste  
@@ -1122,6 +1144,7 @@ __slug__
 __slugger__ _n_  
 __slushy<sup>1</sup>__ _n_ A brain freeze inducing, tongue staining frozen drink popular with children. They’re often sold at theme parks and games arcades.  
 __slushy<sup>2</sup>__ _adj_ __1__ Being or resembling melting snow.  
+__smack__ _adv_  
 __smitten__ _adj_  
 __smote__ _v_ Past tense and a past participle of smite.  
 __snappy__ _adj_  
@@ -1140,12 +1163,14 @@ __soggy__ _adj_ __1__ Saturated or sodden with moisture; soaked: _soggy clothes.
 __solace__ _v_ To give comfort or cheer to (a person) in time of sorrow or distress. _Syn_ comfort, console, soothe  
 __soprano__ _n_ :mega:  
 __sortie__ _n_  
+__sounding__ _n_ :two: __2__ A probe of the environment for scientific observation.  
 __sovereign<sup>1</sup>__ _n_  
 __sovereign<sup>2</sup>__ _adj_  
 __soverreignty__ _n_ :two::hammer:  
 __spearhead__ _v_  
 __specious__ _adj_ :smiling_imp: Based on pretense; deceptively pleasing. _Syn_ gilded, meretricious  
 __spellbound__ _adj_ Having your attention fixated as though by a spell. _Syn_ fascinated, hypnotized, mesmerized, transfixed  
+__spillway__ _n_ A channel for an overflow of water, as from a reservoir.  
 __spittle__ _n_ _Syn_ saliva  
 __splurge__  
 __spool table__ _n_  
@@ -1168,6 +1193,7 @@ __stash__ _n, vt_
 __stasis__ _n_  
 __statutory__  
 __steroids__ _n_ :mega:  
+__stewardship__ _n_  
 __stirrup pants__ _n_  
 __stoic__ _adj_ Indifferent to pleasure or pain; impassive.  
 __stoops__  
@@ -1176,7 +1202,7 @@ __straw boater__ _n_ :camera:
 __stray__ _vi_  
 __stretcher__ _n_  
 __stride__ _n_  
-__strut__ _n_ A strong rod or structural component, usually made of metal, that is used to support or reinforce a structure.  
+__strut__ _n_ :two: A strong rod or structural component, usually made of metal, that is used to support or reinforce a structure.  
 __stubborn__ _adj_ :pencil2::mega:  
 __stud__ _n_ _Stud with nuts._  
 __stymie<sup>1</sup>>__ _vt_  
