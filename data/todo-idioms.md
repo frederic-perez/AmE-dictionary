@@ -90,6 +90,9 @@ __all told__ In total. This phrase can be applied to numerical sums or to the co
 __all too easy__  
 __all too soon__ The idiom “all too soon” means that something happened much earlier than expected or desired, often with a sense of regret or disappointment. It conveys the idea that an event occurred prematurely or that a positive experience ended quickly. “The holidays were over all too soon,” implies that the speaker wished the holidays had lasted longer. “Graduation came all too soon,” suggests that the speaker felt unprepared for the end of their schooling.  
 __and everything in between__ The idiom “and everything in between” refers to the entire range or spectrum of things, situations, or possibilities that fall between two extremes. It’s used to express inclusivity of a broad variety of elements within a certain category or context.  
+__and then some__  
+__apples to apples__ A fair or valid comparison between two like people or things. Usually used in negative constructions; hyphenated if used before a noun.  
+__arrow in the quiver__ One of several options or alternatives available.  
 __as of now__  
 __as of yet__  
 __as we know it__ As it is now or has been for a long time; as we currently experience it.  
@@ -103,6 +106,7 @@ __be a cakewalk__
 __be a good sport__  
 __be hard on (one)__  
 __be more trouble than it’s worth__ To not be important, useful, or beneficial enough to justify the effort or difficulty that something requires. _With all the repairs this car will need to be road-worthy, it’s going to be more trouble than it’s worth!_  
+__be my guest__  
 __be ripe for the picking__ To be in an ideal position or at the perfect stage to be utilized, benefited or profited from, taken advantage of, exploited, etc. (Alludes to fruit being at the right stage to be harvested.)  
 __be the shit__ _rude slang_ To be very good, excellent, cool, etc.  
 __beat the bushes__  
@@ -121,6 +125,7 @@ __bottle__
 __boy oh boy__  
 __brain fade__ :dart:  
 __Break out of a funk__ To overcome a period of feeling down, depressed, or unmotivated. When someone is in a “funk,” they may feel stuck in a negative mindset or emotional state.  
+__breakneck speed__  
 __bring (someone) to tears__ The idiom “bring (someone) to tears” means to cause someone to cry, often due to strong emotions such as sadness, joy, or overwhelming feelings. It can refer to a situation, event, or piece of art (like a movie, song, or book) that evokes a deep emotional response, leading the person to shed tears.  
 __Bronx cheer__ (US, idiomatic) Synonym of raspberry (“a sound intended to resemble flatulence made by blowing air out of the mouth while the tongue is protruding from and pressed against the lips, used humorously or to express disdain or scorn”).  
 __bubble up__  
@@ -131,6 +136,7 @@ __by all accounts__
 __by and large__  
 __by the day__ Per day; at a daily rate.  
 __by the truckload__  
+__by training__ “By training” implies that the individual has undergone a systematic process to develop their abilities or understanding in a specific area. _I’m a field biologist by training._  
 __cakewalk__  
 __call (one) names__ (call someone names)  
 __case in point__  
@@ -147,7 +153,7 @@ __clear the air__ :two::hammer:
 __close to one’s chest__  
 __cold email__ An unsolicited email sent to someone with whom the sender has no prior relationship, usually for professional or business purposes.  
 __cold feed__  
-__come a long way__  
+__come a long way__ :two::hammer:  
 __come down to the wire__ To be unresolved or have an outcome that is in question until the last possible moment. _Negotiations came down to the wire, but we did in fact agree on a new contract by the deadline._  
 __come to a head__ To reach a point of intensity at which action must be taken.  
 __come to grips__  
@@ -195,6 +201,7 @@ __doodad__ A name for a gadget or thing whose actual name is unknown or has been
 __dooge__ _n_ Internet slang for dog; a meme about a Shiba Inu; a cryptocurrency; a proposed ‘government efficiency’ task force.  
 __doom amd gloom__ :three::hammer:  
 __doomscrolling__ :dart: __1__ (informal, neologism) The practice of continually reading Internet news about catastrophic events. __2__ (by extension) Continuously and aimlessly consuming any content on social media, particularly sites that utilize a scrolling format, such as Instagram, TikTok, and Twitter.  
+__double down__ :three::hammer:  
 __double duty__  
 __double whammy__ A situation in which two negative things happen at the same time or in rapid succession. _Jack suffered a double whammy when his car broke down the same day he lost his job._  
 __down the line__ :two: In the future.  
@@ -205,7 +212,7 @@ __doze off__
 __drape (something or oneself) over (someone or something)__ __1__ To lay on a piece of furniture, usually with one’s limbs splayed. In this usage, a reflexive pronoun is used between “drape” and “over.” _John came in and draped himself over the sofa while moaning about his ex-girlfriend._ __2__ To loosely place something over someone or something. In this usage, a noun or pronoun is used between “drape” and “over.” _It wasn’t as cold out when I left the theater, so I just draped my coat over my shoulders._  
 __drape over (something)__ [for cloth] To cover something and hang down. _The robe draped over her knees, but she was still cold._ _The tablecloth draped over and reached down to the floor._  
 __draw a bead on (someone or something)__  
-__draw on__  
+__draw on__ :dart::two: __1__ :dart: To access and use a helpful resource. _Drawing on my experience speaking in front of my class definitely helped when I had to give a speech to the whole school._  
 __draw to a close__  
 __draw water__  
 __dreamboat__ A very attractive or appealing person.  
@@ -224,6 +231,7 @@ __easier than falling off a log__ Extremely easy; very intuitive; requiring litt
 __easy as one-two-three__ ((as) easy as one-two-three; easy as one, two, three) Extremely easy, simple, or straightforward.  
 __easy does it__ :dart:  
 __eat (one’s) gun__ To commit suicide by shooting oneself in the head through the roof of one’s mouth.  
+__eat that frog__ :dart: A popular time management concept that suggests tackling your most challenging or unpleasant task first thing in the day. The phrase is often attributed to motivational speaker Brian Tracy, who uses it as a metaphor for prioritizing and completing difficult tasks to enhance productivity.  
 __eat your heart out__ (eat (one’s) heart out)  
 __ebb and flow__  
 __elephant in the room__  
@@ -234,6 +242,7 @@ __ethnic cleansing__ The elimination of a particular ethnic group from a populat
 __every now and then__  
 __every so often__ Sometimes; occasionally.  
 __eyeball__  
+__face value__  
 __factor in__ :two::hammer:  
 __fair and square__ :two::hammer:  
 __fall flat__ __1__ To fail or be ineffective. _Good luck—the last time management tried to implement a new dress code, that measure fell flat._ __2__ To fail to be humorous, as of a joke. _A: “Unfortunately, my first stand-up routine really fell flat.” B: “Well, maybe you just had the wrong audience.”_  
@@ -242,6 +251,7 @@ __fall into step__ :astonished: To begin walking at the same pace as someone els
 __fall off the perch__ _BrE_ _old-fashioned, informal_ (fall off your perch) If someone falls off the perch or falls off their perch, they die. Note: A perch is a pole, branch or other place where a bird sits to rest. _He fell off the perch years ago._ Note: Other verbs such as drop or topple can be used instead of fall. _He’ll topple off his perch one morning. You know how it is._ Note: This expression is used humorously.  
 __fall short__  
 __fall to pieces__ __3__ To deteriorate or go awry.  
+__fam__ An abbreviation for “family” that can be used to refer to one’s blood relatives or close friends. Despite the plural connotation of “family,” it can also be applied to an individual. _I’d love to go out tonight, but I’m having dinner with the fam—my mom’s making her famous meatballs!_  
 __famous last words__ A statement or claim that is promptly undone or disproved. This phrase is often humorously or preemptively. A reference to the final words one says before one dies. _A: “I can’t believe the ER has been so quiet today!” B: “Ugh, famous last words for sure.”_  
 __fan the flames__  
 __fancy that__ Used to comment on something that is hard to imagine. _The baby she brought home was the wrong one. Fancy that!_  
@@ -253,18 +263,23 @@ __feel the heat__
 __flame out__ __1__ To be very unsuccessful or fail. _That guy flamed out really quickly—his NBA career lasted only a few months._  
 __flip the script__ :dart: __1__ _vt_ To lie; to change one’s story. _The guy flips the script depending on whose listening._ __2__ :dart: _vt_ To reverse positions in a situation; to turn the tables on someone. To change or reverse something dramatically. _Now he’s the one who’s in trouble! That’s really flipping the script!_ _Wow, they really flipped the script on their opponents after the intermission. The score went from 0-3 to 5-3!_  
 __for a change__ _Threepo was keeping his mouth shut for a change._  
+__for all practical purposes__ (for (all) practical purposes)  
 __for good measure__ As extra or in addition, to ensure that something is good or successful. _You should put your report into a protective cover for good measure._  
 __for good__  
 __for the foreseeable future__  
 __fortunes of war__ (the fortunes of war)  
 __French tickler__ :camera:  
+__from strength to strength__ Increasingly successful or improved. _I was nervous when I initially invested in that company, but it has gone from strength to strength, thank goodness._  
 __from the ground up__ From the first step through to completion; entirely.  
 __front row seat__  
+__gain ground__  
+__gain traction__ Gain ground.  
 __gear up__ To ready oneself, someone, or something for something.  
 __gee__ __2__ _exclam._ Wow! (An abbreviation of Jesus!, although not always recognized as such. Usually Gee!) _Golly gee, do I have to?_  
 __geek out__  
 __get a grip (on yourself)__ :dart: To make an effort to control your emotions and behave more calmly. _Come on, get a grip, we’ve got an important meeting in five minutes._  
 __get a handle on (something)__ To have a firm, clear understanding or determination of something.  
+__get busy__  
 __get hell__ To receive the brunt of another’s anger, often through scolding.  
 __get into it__ __2__ To engage in a verbal or physical altercation with someone. _I can’t believe you got into it with the biggest kid in your class._ _I was on a flight recently when the woman next to me got into it with the flight attendant._  
 __get it together__ To take action to become well-organized, prepared, or in a better state of life. To be well-prepared and organized for something, especially mentally. _You need to get it together and finish packing so that we can leave for the airport on time tomorrow morning._ _Did I forget to pick up the kids again? Geez, I really need to get it together!_  
@@ -279,13 +294,19 @@ __give (someone) the cold shoulder__
 __give someone or something away__ To reveal a secret about someone or something. _I thought no one knew where I was, but my loud breathing gave me away._ _We know that Billy ate the cherry pie. The cherry juice on his shirt gave him away._  
 __gloat over (something)__ :smiling_imp: To feel self-righteously pleased about something (often something unpleasant that has happened to someone else).  
 __go ballistic__  
+__go berserk__  
 __go out in a blaze of glory__  
 __go postal__  
 __go to the dogs__  
 __God’s country__ (God’s (own) country)  
+__gold star__  
 __grit__  
+__guardrail__  
 __gut check__  
 __hands off__  
+__have (one’s) druthers__ To have one’s choice or preference; to have things the way one would like them to be; to have one’s way. Usually formulated as “if I had my druthers….” Primarily heard in US. _I tell you, if I had my druthers, I’d spend the rest of my life living in Paris._  
+__have more arrows in the/(one’s) quiver__ To have several available options or alternatives at one’s disposal.  
+__have more arrows left in the quiver__ To have several available options or alternatives remaining at one’s disposal, particularly if an earlier action did not yield the desired results. _This is just the first step in trying to bring her fever down. Don’t worry, I have more arrows left in the quiver if the ibuprofen doesn’t help._  
 __have more than one string to (one’s) bow__ To have multiple viable options or alternatives available in the event that the current course of action, circumstance, opportunity, etc., does not work out. _With all this varied job experience under my belt, I have more than one string to my bow if this particular career path isn’t to my liking._  
 __have the mouth of a sailor__ To have a tendency to use profanities or vulgar language very freely or frequently. (An allusion to the rough language presumed to be used by navy personnel.)  
 __have the nerve (to do something)__  
@@ -301,6 +322,7 @@ __hold (one’s) breath__
 __hold the phone__ __2__ Wait; stop. Wait just a minute.; Don’t rush into something. _Hold the phone! Let’s think about it a little longer._ _Hold the phone. I just had another idea._ _Whoa, hold the phone—Jack and Jamie are dating now?_  
 __hoopla__  
 __hope springs eternal__  
+__if I had (some monetary unit) for every (something)__ (if I had a dime)  
 __if nothing else__ :two::hammer:  
 __in a funk__ :dart: _slang_ Feeling sad or unhappy for a lengthy period of time. _Ever since I got rejected from my first-choice college, I’ve been in a funk._  
 __in a pickle__ In a troublesome or difficult situation. The adjectives “pretty” and “right” are commonly used before “pickle.” _He was really in a pickle when he dropped his sandwich in the actual pickle jar!_  
@@ -309,6 +331,7 @@ __in any way, shape or form__ :two::hammer:
 __in brief__ In summary; to say it briefly. _The film was, in brief, dull._ _If you can, please explain it in brief._ _Medical news in brief: ..._  
 __in cahoots__ _Those two cats were definitely in cahoots; they were planning something fishy!_  
 __in custody__ (of someone or something)  
+__in disarray__ The phrase “in disarray” refers to a state of disorder, confusion, or lack of organization. It describes a situation where things are chaotic, untidy, or not functioning properly. This can apply to physical spaces, such as a messy room, or to more abstract concepts, such as a disorganized plan or a group experiencing internal conflict.  
 __in dribs and drabs__  
 __in full swing__  
 __in like a lion, out like a lamb__ _proverb_ Used to describe the weather in March in the northern hemisphere, where it tends to be very harsh and unpleasant in the beginning but milder and more palatable at the end. A shortening of the full phrase, “March comes in like a lion and goes out like a lamb.” _A: “I just wanted this awful cold weather to be over!” B: “It shouldn’t be much longer now. March always comes in like a lion, but it goes out like a lamb.”_  
@@ -363,8 +386,10 @@ __keep to (something)__ __1__ To adhere to something, such as a plan or a rule; 
 __keep track__  
 __keep up with (someone or something)__  
 __keep up__  
+__keep watch__ (keep (close) watch)  
 __keep your eyes peeled__ _Keep your eyes peeled for imperial fighters!_  
 __keester__ _slang_ The buttocks or anus. Often used figuratively. _OK, kids, get off your keesters and go play outside!_  
+__key driver__ (business driver) A significant factor that influences the success or performance of an organization.  
 __key up__  
 __kick (someone or something) to the curb__  
 __kick in__  
@@ -388,6 +413,7 @@ __knock it off__
 __knock on doors__ To speak to the people who live in an area by walking up to their houses, apartments, etc., especially to provide information or solicit votes, support, contributions, etc.  
 __knock-off__  
 __knock, knock__  
+__know (something) like the back of (one’s) hand__  
 __know best__ :two: (knows best) To have more knowledge and experience about something than anyone else. _You should listen to her advice—after all, Mother knows best._  
 __know better (than to do something)__ :three::hammer: _The woman is dirty, maybe mentally ill, and Nic knows better than to tangle with that type._  
 __know by heart__  
@@ -538,6 +564,7 @@ __make no mistake__ :three::hammer:
 __make or break__ :two::hammer:  
 __make scarce__ (make (oneself) scarce)  
 __make some noise__ (informal, usually as a command) To cheer or holler loudly and enthusiastically. _Everybody make some noise for Jodeci!_  
+__make strides__  
 __make the best of a bad bargain__ To deal with and create the best possible outcome of a bad, unfortunate, or unpleasant situation or set of circumstances. _I know this data entry job isn’t what you wanted for a career, but for the time being, try and make the best of a bad bargain._  
 __make the most of it__  
 __make the welkin ring__ To make a very loud, reverberating sound or noise. (“Welkin” is an archaic or literary word for the skies or the heavens, only used in contemporary English as a part of this phrase.) _The candidate’s speech was drowned out as the crowd made the welkin ring with their cheers._  
@@ -574,7 +601,7 @@ __modus operandi__ :two::mega: A unique and habitual method of doing something. 
 __mojo__  
 __monkey__ :dart: __1__ _slang_ A drug addiction. _Did you hear? Pete checked himself into rehab to deal with the monkey on his back._  
 __mooch off (of) (someone or something)__ To ask for or obtain (something) through the charity of someone or something; to sponge off someone or something else. _My brother has been mooching off me and my wife ever since he lost his job._  
-__mopping-up operation__ A clean-up operation; the final stages in a project where the loose ends are taken care of.  
+__mopping-up operation__ :two: A clean-up operation; the final stages in a project where the loose ends are taken care of.  
 __more haste, less speed__ :es: vísteme despacio que tengo prisa  
 __more often than not__ :two: Much of the time.  
 __more sinned against than sinner__ Less guilty or worthy of blame than others, especially those who have injured or laid such blame or guilt upon one. _I may be exploiting a loophole in how much I receive in social welfare payments, but given that my retirement fund was stolen from me by fraudulent investors, I’d say I’m more sinned against than sinner._  
