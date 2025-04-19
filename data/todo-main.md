@@ -1,21 +1,28 @@
 __A pager__ _n_ A simple wireless communications device that receives text messages or alerts.  
 __ab ovo__ _adv_ From the beginning.  
 __abduct__ _vt_  
+__absenteeism__ _n_  
 __academic question__ _n_ A question that is primarily of interest to scholars or researchers and often lacks practical importance or utility in everyday life. These questions are typically theoretical or exploratory in nature, focusing on concepts, ideas, or phenomena that may not have immediate real-world applications.  
 __accursed__ _adj_ Under a curse. _Syn_ maledict  
 __ad lib__  
 __adduct<sup>1</sup>__ _vt_ _A hyper-adducted right radial artery approach._  
 __adduct<sup>2</sup>__ _n_  
 __adversity__ _n_ /ad-VER-suh-tee/  
+__advisory__ _adj, n_  
 __Agatha__ _n_ :mega: /ˈæɡəθə/  
 __agency__ _n_  
 __aloof__ _adj_  
-__ancillary__ _adj, n_  
+__altostratus__ _n_  
+__ancillary__ _adj, n_ :two::hammer:  
+__antihistamine__ _n_  
 __apparatchik__ _n_ /ah-puh-RAH-chik/ :dart: _Apparatchik_ is used disapprovingly to refer to a blindly devoted official, follower, or member of an organization, such as a corporation or political party.  
 __apprehension__ _n_ :dart::pencil2:  
+__aquaculture__ _n_  
 __archetype__ _n_ /AHR-kih-type/ _Archetype_ refers to someone or something that is seen to be a perfect example. It is also a word for the original pattern or model of which all things of the same type are representations or copies.  
 __atherectomy__ _n_ Surgical removal of atherosclerotic plaque from an artery using a catheter fitted with a cutting device.  
 __atoll__ _n_ :es: atolón  
+__backbone__ _n_  
+__badly__ _adv_ __2__ Very much; greatly. _Badly needed._  
 __bald-faced__ _adj_ Brash; undisguised. _Syn_ brazen, insolent, audacious, barefaced, bodacious, brassy _John’s excuse for missing work was such a bald-faced lie that his boss immediately fired him._  
 __baleen whale__ _n_ Another name for whalebone whale.  
 __bastion__ _n_ _Be a bastion of truth in a time of lies._  
@@ -32,6 +39,7 @@ __blitz__ _n_ (blitzkrieg)
 __bloody__ _adj_ :es: cruento  
 __blow fly__ _n_ (blowfly) Large usually hairy metallic blue or green fly; lays eggs in carrion or dung or wounds.  
 __blow-dryer__ _n_  
+__boast__ _v_ :three::hammer:  
 __bode__ _v_ :two:hammr:  
 __brash__ _adj_  
 __bristle__ _v_ :two: Rise up as in fear. _Syn_ uprise, stand up _The creaking of the house at night makes the hair on the nape of my neck bristle._  
@@ -42,11 +50,13 @@ __cabal__ _n_
 __canister__ _n_ _Oxygen canister._  
 __carcass__ _n_  
 __cavort__ _v_ Play boisterously. _Syn_ frisk, frolic, gambol, lark, rollick, romp, run around, skylark, sport, disport _The children cavorted in the water, splashing and ducking each other._  
+__ceilometer__ _n_ A photoelectric instrument for ascertaining cloud heights.  
 __chary__ _adj_ /CHAIR-ee/ _Chary_ is usually used with about or of to describe someone who is cautious about doing something. _The director is chary about spending money._ _I’ve always been chary of travelling alone._  
 __chlorophyl__ _n_ (chlorophyll) Any of a group of green pigments found in photosynthetic organisms; there are four naturally occurring forms.  
 __cloud seeding__ _n_  
 __cogent__ _adj_ Convincing; reasonable.  
 __coleslaw__ _n_  
+__collaborate__ _v_ /kuh-LAB-uh-rayt/  
 __collate__ _vt_ :astonished: __1__ To examine and compare carefully in order to note points of disagreement.  
 __collected__ _adj_  
 __colorful__ _adj_ :astonished:  
@@ -71,6 +81,7 @@ __cooking pot__ _n_ Any vessel (such as a saucepan), with or without a lid, used
 __cordon__ _n_ __1__ A line of people, military posts, or ships stationed around an area to enclose or guard it: _a police cordon._ _The landing field cordon won’t stop a Jedi._  
 __coriander__ _n_  
 __corn__ _n_ :mega:  
+__corrugated__ _adj_  
 __cosplay__ _v_ /ˈkɒsˌpleɪ; ˈkɒz-/  
 __counterfeit<sup>1</sup>__ _vt_  
 __counterfeit<sup>2</sup>__ _vi_  
@@ -288,6 +299,7 @@ __frigatebird__ _n_ (frigate bird, man-o’-war bird)
 __frond__ _n_  
 __frontline__ _adj, n_  
 __frontrunner__ _n_  
+__frost-bitten__ _adj_  
 __fruitless__ _adj_ :two::hammer:  
 __fungicide__ _n_ A chemical substance that destroys or inhibits the growth of fungi. _Syn_ antifungal, antimycotic  
 __funnel__ _v_ :dart: __6__ :dart: To concentrate or focus or be concentrated or focused in a particular direction: _they funnelled their attention on the problem._  
@@ -342,6 +354,7 @@ __hard-hit__ _adj_
 __harrowing__ _adj_  
 __haul__ _vt_  
 __havoc__  
+__hay fever__ _n_ :es: alergia al polen  
 __hefty__ _adj_  
 __hew__ _v_ /HYOO/ _Hew_ is commonly used with to to mean “to conform to or adhere to (something).” _Hew_ on its own has several meanings having to do with cutting or shaping with a sharp tool, such as an ax.  
 __hinder__ _v_  
@@ -443,6 +456,7 @@ __jerk__ _v_
 __jerkwater__ _adj_ /JERK-waw-ter/  
 __Jerry__ _n slang_ _Chiefly British_ A German, especially a German soldier.  
 __jest__ _n_ :two: __2__ A playful remark; a witticism or joke.  
+__jet stream__ _n_  
 __jibe__ _v_  
 __jiggle__ _v_ :dart: To move or rock lightly up and down or to and fro in an unsteady, jerky manner. _Syn_ joggle, wiggle _He jiggled the worn key in the lock and finally got the door open._  
 __jinx__ _vt_  
@@ -489,6 +503,7 @@ __landlocked country__ _n_ (landlocked state) A sovereign state that does not ha
 __lard__  
 __largess__ _n_  
 __lariat__ _n_ :two::hammer:  
+__last mile__ _n_  
 __latecomer__ _n_  
 __Latin cross__ _n_ A cross with a shorter horizontal bar intersecting a longer vertical bar above the midpoint.  
 __laud__ _v_  
@@ -717,7 +732,8 @@ __nuclear__ _adj_ :mega: /noo-klee-er/nyoo-klee-er/
 __nudge__ _vt_  
 __nullifier__ _n_  
 __nursing__ _n_ __1__ The profession of a nurse. __2__ The tasks or care of a nurse.  
-__nurture__ _n, vt_  
+__nurture<sup>1</sup>__ _n_  
+__nurture<sup>2</sup>__ _vt_ :two::hammer:  
 __nutmeg__ _n_  
 __nutso__  
 __obdurate__ _adj_ Stubborn; inflexible.  
@@ -729,6 +745,7 @@ __off-licence__ _n_ A store that sells alcoholic beverages for consumption elsew
 __off-ramp__ _n_ :camera:  
 __off-season__ _n_ The season when travel is least active and rates are lowest.  
 __ogle__  
+__okta__ _n_ (octa) A unit used in meteorology to measure cloud cover, equivalent to a cloud cover of one eighth of the sky.  
 __oligarchy__ _n_  
 __oligopoly__  
 __one-stop__ _adj_  
@@ -740,6 +757,8 @@ __otter__ _n_ :es: nutria
 __outstrip__ _v_ Be or do something to a greater degree. _Syn_ outdo, outgo, outmatch, outperform, surpass, exceed, surmount _When the demand for concert tickets outstrips supply, scalpers can make a significant profit._  
 __overbearing__ _adj_  
 __overhaul__  
+__overhead costs__ _n pl_ Another name for _overheads._  
+__overheads__ _n pl_ _Syn_ running costs, expenses, outgoings, operating costs, oncosts _We have to cut costs in order to reduce overheads._  
 __overstep__ _v_ To go beyond (a limit); exceed. _Syn_ transgress, trespass  
 __overtones__ _n pl_ :dart: Suggestions; hints. _There were overtones of discontent in his speech._  
 __oxycodone__ _n_  
@@ -875,6 +894,8 @@ __pup__ _n_
 __pussycat__ _n_ __1__ _informal_ An informal or child’s name for a cat. _Tweety Bird’s most famous catchphrase is, “I tawt I taw a puddy tat!” (often pronounced with a lisp)._ __2__ _informal_ A person who is regarded as easygoing and agreeable.  
 __pustulate__ _adj_ Blemished by imperfections of the skin. _Syn_ acned, pimpled  
 __putrefaction__ _n_ :astonished: Moral perversion; impairment of virtue and moral principles. _Syn_ depravation, depravity, degeneracy, corruption  
+__pyranometer__ _n_ Another name for _solarimeter._  
+__pyrgeometer__ _n_ An instrument for measuring the loss of heat by radiation from the earth’s surface.  
 __quadriplegia__ _n_ Complete paralysis of the body from the neck down. Also called tetraplegia.  
 __quagmire__ _n_ An area of miry or boggy ground whose surface yields under the tread.  
 __quahog__ _n_  
@@ -904,6 +925,7 @@ __racket__ _n_ :two: __1__ A loud distressing noise.
 __racketeer__ _n_ :smiling_imp::two: One who obtains money by an illegal enterprise usually involving intimidation.  
 __raddled__ _adj_ :dart: /RAD-uld/ Someone described as raddled is in a confused or befuddled state (as from drinking). _Raddled_ can also describe things that are broken-down or worn.  
 __Radio Flyer__ _n_ :dart: Radio Flyer is an American toy company best known for their popular red toy wagon.  
+__radome__ _n_ A protective housing for a radar antenna made from a material that is transparent to radio waves.  
 __ragbag__ _n_  
 __ragweed__ _n_  
 __railing__ _n_ __1__ (Building) (often plural) A fence, balustrade, or barrier that consists of rails supported by posts. _Balcony railing._  
@@ -1094,6 +1116,7 @@ __shamble<sup>2</sup>__ _n_ An awkward or unsteady walk.
 __shard__ _n_ _Shards on a doughnut._  
 __sharp__ _adj_ __6__ Vigilant; alert: _kept a sharp lookout for shoplifters._ _Stay sharp._  
 __shenanigan__  
+__Sherpa__ _n_ /ˈʃɛr pə, ˈʃɜr-/  
 __shim__ _v_  
 __shish kebab__ _n_ A dish consisting of pieces of seasoned meat and sometimes vegetables roasted on skewers and served with condiments.  
 __shoo__ _vt_  
@@ -1161,6 +1184,7 @@ __snort<sup>3</sup>__ _vt_
 __soft skills__ _n pl_ (Industrial Relations & HR Terms) Desirable qualities for certain forms of employment that do not depend on acquired knowledge: they include common sense, the ability to deal with people, and a positive flexible attitude.  
 __soggy__ _adj_ __1__ Saturated or sodden with moisture; soaked: _soggy clothes._ __2__ Lacking spirit; dull: _a soggy bit of dialogue._ __3__ Humid; sultry: _a soggy afternoon in August._  
 __solace__ _v_ To give comfort or cheer to (a person) in time of sorrow or distress. _Syn_ comfort, console, soothe  
+__solarimeter__ _n_ Any of various instruments for measuring solar radiation, as by use of a bolometer or thermopile. _Syn_ pyranometer  
 __soprano__ _n_ :mega:  
 __sortie__ _n_  
 __sounding__ _n_ :two: __2__ A probe of the environment for scientific observation.  
@@ -1200,6 +1224,7 @@ __stoops__
 __stowage__  
 __straw boater__ _n_ :camera:  
 __stray__ _vi_  
+__streamline__ _vt_ :dart::two::hammer:  
 __stretcher__ _n_  
 __stride__ _n_  
 __strut__ _n_ :two: A strong rod or structural component, usually made of metal, that is used to support or reinforce a structure.  
@@ -1212,6 +1237,8 @@ __subservient__ _adj_
 __subsidize__ _v_  
 __subsidy__ _n_  
 __substantive__ _adj_ __1__ Substantial; considerable. __4__ 4. Of or relating to the essence or substance; essential: _substantive information._  
+__success story__ _n_  
+__sullen__ _adj_  
 __Sun Belt__ _n_ The southern and southwest United States.  
 __superfluous__ _adj_ :two: /soo-PER-floo-us/ Superfluous is a formal word used to describe things that exceed what is necessary or sufficient, or that are simply not needed. Extra; unnecessary.  
 __sure-fire__ _adj_ Guaranteed to work or happen.  
@@ -1224,6 +1251,7 @@ __tantrum__ _n_
 __tartly__ _adv_  
 __temper__ _v_  
 __templet__ _n_ A model or standard for making comparisons. _Syn_ guide, template  
+__tender__ _v_  
 __tenuous__ _adj_ :two:Having little substance or strength; unsure; weak.  
 __thalweg__ _n_  
 __thirty-odd__ _n_ (30-odd) Being in excess of the indicated or approximate number, extent, or degree. Often used in combination: _invited 30-odd guests._  
@@ -1270,6 +1298,7 @@ __upend__ _v_
 __upfold__ _vt_ To fold up.  
 __upkeep__ _n_ :dart:  
 __uptake__ _n_  
+__uptime__ _n_  
 __uvet__ _n_  
 __vagary__ _n_ _The vagaries of the market._  
 __vaunted__ _adj_ :dart: Praised more than deserved. _Vaunted Jedi Master Luke Skywalker._  
