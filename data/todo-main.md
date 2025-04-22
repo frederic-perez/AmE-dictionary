@@ -29,6 +29,7 @@ __bastion__ _n_ _Be a bastion of truth in a time of lies._
 __bear market__ _n_ :two: [An easy way to remember the meaning of a bear market is to think about how a bear attacks: it swipes its paws downward. Bear swipes down → market going down = bear market]  
 __behest__ _n_ __1__ An authoritative command. __2__ An urgent request: _I called the office at the behest of my assistant._  
 __benign__ _adj_ /bih-NYNE/  
+__beseech__ _vt_  
 __Big Mouth Billy Bass__ _n_ An animatronic singing prop, representing a largemouth bass, invented by Gemmy Industries on December 16, 1998; sold beginning January 1, 1999; and popular in the early 2000s.  
 __billet-doux__ _n_ (_n pl_ billets-doux) A love letter.  
 __black eyed peas__ _n pl_ (Notice that black eyed peas aren’t peas!)  
@@ -40,12 +41,15 @@ __bloody__ _adj_ :es: cruento
 __blow fly__ _n_ (blowfly) Large usually hairy metallic blue or green fly; lays eggs in carrion or dung or wounds.  
 __blow-dryer__ _n_  
 __boast__ _v_ :three::hammer:  
+__bodacious__ _adj_ /boh-DAY-shuss/ _Bodacious_ is used as an informal synonym of remarkable and noteworthy, as well as sexy and voluptuous. In some dialects of the Southern and Midland US, bodacious is used by its oldest meaning: “outright, unmistakable.” _The bodacious decor of the boutique hotel is intended to appeal to the young and the hip._  
 __bode__ _v_ :two:hammr:  
 __brash__ _adj_  
+__brazen__ _adj_  
 __bristle__ _v_ :two: Rise up as in fear. _Syn_ uprise, stand up _The creaking of the house at night makes the hair on the nape of my neck bristle._  
 __budgetary__ _adj_  
 __bull market__ _n_ [A bull market is when prices are rising—remember that bulls attack upward with their horns. Bull charges up → market going up = bull market]  
 __buoyancy__ _n_  
+__busybody__ _n_  
 __cabal__ _n_  
 __canister__ _n_ _Oxygen canister._  
 __carcass__ _n_  
@@ -55,6 +59,7 @@ __chary__ _adj_ /CHAIR-ee/ _Chary_ is usually used with about or of to describe 
 __chlorophyl__ _n_ (chlorophyll) Any of a group of green pigments found in photosynthetic organisms; there are four naturally occurring forms.  
 __cloud seeding__ _n_  
 __cogent__ _adj_ Convincing; reasonable.  
+__cold-blooded__ _adj_ Without compunction or human feeling. _Syn_ inhuman, insensate, cold  
 __coleslaw__ _n_  
 __collaborate__ _v_ /kuh-LAB-uh-rayt/  
 __collate__ _vt_ :astonished: __1__ To examine and compare carefully in order to note points of disagreement.  
@@ -67,10 +72,12 @@ __comprehensive__ _adj_ Broad or complete in scope or content.
 __concussion grenade__ _n_ A grenade that produces its effect by the blast of its detonation rather than from the fragmentation of its casing.  
 __conducive__ _adj_  
 __conformal__ _adj_ [:scroll: from Late Latin _conformālis_ having the same shape, from Latin _com-_ same + _forma_ shape]  
+__confounded__ _adj_  
 __connive__ _vi_  
 __conscript__ _n_ One compulsorily enrolled for service, especially in the armed forces; a draftee.  
 __consumer sentiment__ _n_ Another word for _consumer confidence_.  
 __contemporary__ _adj_ Current, modern; from the same time.  
+__contempt__ _n_ :dart: __3__ :dart: Willful disobedience to or open disrespect of a court, judge, or legislative body.  
 __contingent<sup>1</sup>__ _adj_ :astonished:  
 __contingent<sup>2</sup>__ _n_  
 __contractor__ _n_  
@@ -124,6 +131,7 @@ __dearth__ _n_
 __debt__ _n_ :mega: /dɛt/  
 __decrypter__ _n_ A person or a thing, such as an algorithm, program, or device, that decrypts.  
 __deliver__ _v_  
+__deluge__ _n_ :es: diluvio  
 __demagogue__ _n_ (demagog)  
 __demonstrator__  
 __derelict__ _adj_ /DAIR-uh-likt/ _Derelict_ is a formal word that describes something that is no longer cared for or used by anyone. It can also describe someone who is negligent or who fails to do what needs to be done.  
@@ -168,14 +176,18 @@ __eclectic__ _adj_ Made up of a variety of sources or styles.
 __ecstatic__ _adj_ /ek-STAT-ik/ Someone described as ecstatic is very happy or excited; the person feels or shows ecstasy—that is, rapturous delight.  
 __edgeways__  
 __edify__ _v_ /ED-uh-fye/ To edify someone is to teach them in a way that improves their mind or character.  
+__effete__ _adj_ :dart:  
 __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to describe something—often a treatment, medicine, or remedy—that has the power to produce a desired result or effect.  
 __efficiency apartment__ _n_ A small, usually furnished apartment with a private bathroom and kitchenette.  
+__effrontery__ _n_  
 __effusive__ _adj_ /ih-FYOO-siv/ Someone or something described as effusive is expressing or showing a lot of emotion or enthusiasm.  
 __Eggo waffles__ _n_  
 __eggplant__ _n_  
 __egoism__ _n_ Concern for your own interests and welfare. _Syn_ self-centeredness, self-concern, self-interest  
 __egregious__ _adj_ Conspicuously bad or offensive.  
 __elated__ _adj_  
+__elemental__ _adj_  
+__elementary__ _adj_ /ˌɛlɪˈmɛn.təri/ /ˌɛlɪˈmɛntərɪ; -trɪ/ /ˌɛl əˈmɛn tə ri, -tri/ _Elementary, my dear Watson._  
 __elephant seal__ _n_ (sea elephant)  
 __elk__ _n_ :es: alce  
 __elucidate__ _v_ /ih-LOO-suh-dayt/ To elucidate something is to make it clear or easy to understand.  
@@ -192,11 +204,13 @@ __encroachment__ _n_ :es: intromisión
 __enslave__ _vt_  
 __enslaver__ _n_  
 __enthuse__ _v_  
+__enthused__ _adj_ /ɪnˈθjuːzd/ Having been filled with enthusiasm.  
 __entrenched__ _adj_ Established firmly and securely. _The entrenched power of the nobility._  
 __entresol__ _n_ The floor just above the ground floor of a building. _Syn_ mezzanine  
 __eponymous__ _adj_  
 __escalator__ _n_ :camera:  
 __especially__ _adv_ _I’m not especially happy about it, no._  
+__ethnic__ _adj_ Denoting or deriving from or distinctive of the ways of living built up by a group of people. _Syn_ cultural  
 __evergreen__ _adj_ /EV-er-green/ _Evergreen_ in its figurative uses describes something, such as a plot, that retains its freshness or interest over a long period of time, or something, such as an issue or concern, that is universally and continually relevant. In botany, _evergreen_ describes foliage that remains green and functional through more than one growing season.  
 __exacerbate__ _vt_  
 __exculpate__ _v_ To free from guilt or blame.  
@@ -219,6 +233,7 @@ __fang__ _n_
 __fast-moving__ _adj_ _She died of a fast-moving cancer._  
 __fast-track<sup>1</sup>__ _adj_ Denoting the quickest or most direct route or system.  
 __fast-track<sup>2</sup>__ _vt_ To speed up the progress of (a project or person).  
+__fastidious__ _adj_ /fass-TID-ee-us/ Someone described as fastidious is extremely or overly careful about how they do something. _Fastidious_ may also describe someone who is difficult to please, or someone who always wants to be clean, neat, etc.  
 __faucet__ _n_ :camera:  
 __fault line__ _n_  
 __fave__ _adj, n_ /feɪv/ _informal_ Short for favorite.  
@@ -277,10 +292,12 @@ __flinch__ _vi_ :es: estremecerse; encogerse
 __fling__ _v_ :two::hammer: (flung)  
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
 __flip-flops__ _n_  
-__flippant__ _adj_ /FLIP-unt/ Something described as flippant, such as behavior or a comment, is lacking in proper respect or seriousness.  
+__flippant__ _adj_ :two: /ˈflɪp ənt/ /FLIP-unt/ __1__ Frivolously disrespectful, shallow, or lacking in seriousness. Not serious enough about important matters. Something described as flippant, such as behavior or a comment, is lacking in proper respect or seriousness. _A flippant reply._  
 __flock__ _n_  
 __florid__ _adj_ Flowery or elaborate in style.  
 __flounder__ _vi_  
+__flout__ _v_ /flaʊt/  
+__flower power__ _n_  
 __flyer__ _n_ (flier)  
 __folk__ _n_  
 __foolproof__ _adj_  
@@ -310,6 +327,7 @@ __gape__
 __garble__ _v_ /GAR-bul/ To garble something, such as a word, name, message, etc., is to cause it to be unclear or distorted. This type of garbling can be the result of an accident, ignorance, or a transmission error. Garble can also mean “to so alter or distort as to create a wrong impression or change the meaning.”  
 __gawk__  
 __gawker__  
+__gentility__ _n_ Elegance by virtue of fineness of manner and expression. _Syn_ breeding, genteelness  
 __gentlefolk__ _n pl_  
 __get-go__ _n_ The time at which something is supposed to begin. _Syn_ commencement, offset, outset, showtime, start, beginning, kickoff, first _She knew from the get-go that he was the man for her._  
 __gibber__ _v_ _Artoo gibbered indignantly._  
@@ -351,6 +369,7 @@ __handmaid__
 __handsomely__ _adv_ :two::hammer: _They had profited quite handsomely._  
 __handwringing__ _n_ (hand wringing)  
 __hard-hit__ _adj_  
+__harlot__ _n_ A prostitute; whore.  
 __harrowing__ _adj_  
 __haul__ _vt_  
 __havoc__  
@@ -369,6 +388,7 @@ __hoot__ _v_ _The alarms were hooting._
 __hot links__ _n_  
 __huckster__ _n_  
 __huffy__ _adj_  
+__hurtle__ _v_  
 __hustler__ _n_  
 __hydrogen__ _n_ :mega:  
 __ibid__ _adv_ Ibidem.  
@@ -435,6 +455,7 @@ __ixnay<sup>1</sup>__ _vt_ :dart: _informal_ To reject or put a stop to (somethi
 __ixnay<sup>2</sup>__ _adv_ :dart: _informal_ Used to express disagreement or the withholding of permission. _Syn_ no, nix _He said ixnay on talking about the surprise party._  
 __jabberwocky__ _n_ /JAB-er-wah-kee/ _Jabberwocky_ refers to meaningless speech or writing.  
 __jack-in-the-box__ _n_ A toy consisting of a clownlike doll or other figure that is attached to the inside of a box and springs up when the lid is opened.  
+__jack-in-the-pulpit__ _n_  
 __jackal__ _n_ /ˈdʒæk əl, -ɔl/  
 __jackfruit__ _n_ :two: East Indian tree cultivated for its immense edible fruit and seeds.  
 __jaded__ _adj_ :dart::two: Dulled or satiated by overindulgence.  
@@ -520,6 +541,7 @@ __leprechaun__ _n_ :smiling_imp::mega: /ˈlɛp rəˌkɔn, -ˌkɒn/ _Irish folklo
 __leviathan__ _n_  
 __lexical__ _adj_ /LEK-sih-kul/ To describe something as _lexical_ is to say that it is related to words or vocabulary.  
 __liaise__ _v_  
+__liaison__ _n_ /lee-AY-zahn/ _Liaison_ refers to a person who helps organizations or groups work together and provide information to each other, or to a relationship that allows such interactions. _Liaison_ can also refer to an illicit sexual relationship.  
 __library__ _n_ :mega: /lahy-brer-ee/  
 __lickspittle__ _n_ A contemptible, fawning person; a servile flatterer or toady.  
 __lidless__ _adj_ Watchful; vigilant. _Syn_ sleepless  
@@ -654,6 +676,7 @@ __Mini-Me__ _n_ _chiefly humorous_ A person who is a miniature, but otherwise id
 __miniscule__ _adj_ :astonished:  
 __minuscule__ _adj_ /-uh-skyool/ __1__ Something described as minuscule is very small. _The number of bugs in the latest version of the video game is minuscule compared to the number that surfaced in the beta version._ __2__ _Minuscule_ can also mean “written in, or in the size or style of, lowercase letters,” in which case it can be contrasted with majuscular. _The ancient manuscripts on display are all in minuscule script._  
 __misbehave__ _v_ Behave badly. _Syn_ misconduct, misdemean  
+__miserly__ _adj_ (Used of persons or behavior) Characterized by or indicative of lack of generosity. _Syn_ mingy, tight, mean  
 __mishap__  
 __mite__ _n_ :hammer: _Dust mites._ :es: ácaro  
 __mix tape__  
@@ -753,8 +776,10 @@ __onerous__ _adj_ :dart: __1__ Troublesome or oppressive; burdensome.
 __onslaught__ _n_ :two::hammer::mega: /ˈɒnˌslɔt, ˈɔn-/  
 __ornate__ _adj_ Elaborately decorated.  
 __ostentatious__ _adj_ Describing a pretentious display.  
+__osteoarthritis__ _n_ _Syn_ degenerative joint disease  
 __otter__ _n_ :es: nutria  
 __outstrip__ _v_ Be or do something to a greater degree. _Syn_ outdo, outgo, outmatch, outperform, surpass, exceed, surmount _When the demand for concert tickets outstrips supply, scalpers can make a significant profit._  
+__outwit__ _v_ To get the better of by cunning or ingenuity. _Syn_ outsmart, overreach, circumvent, outfox, beat _She managed to outwit the police and escape to the safe house with the loot._  
 __overbearing__ _adj_  
 __overhaul__  
 __overhead costs__ _n pl_ Another name for _overheads._  
@@ -771,6 +796,7 @@ __Panama__ _n_ :mega: /ˈpæn əˌmɑ, -ˌmɔ/ /ˌpænəˈmɑː; ˈpænəˌmɑː
 __paramount__ _adj_ :two: Of chief concern or importance.  
 __Pareto-efficient__ _adj_ (Pareto efficient) Describing a situation in which the profit of one party cannot be increased without reducing the profit of another.  
 __parlay__ _v_  
+__partridge__ _n_ :es: perdiz  
 __pavilion__ _n_ /pəˈvɪl yən/  
 __peace treaty__ _n_ An agreement to end fighting or conflict.  
 __pecking order__  
@@ -874,6 +900,7 @@ __proper__ _adj_ :two::hammer: __6__ In the strict sense (usu. used postpositive
 __prosaic__ _adj_ Unimaginative; dull; ordinary.  
 __provender__ _n_ Dry food, as hay or oats, for livestock or other domestic animals.  
 __proximate__ _adj_  
+__prudish__ _adj_  
 __pry__ _vi_ :two::hammer:  
 __public house__ _n_ _BrE_ Pub.  
 __publican__ _n_ _BrE_ :astonished:  
@@ -919,6 +946,7 @@ __quip<sup>2</sup>__ _v_
 __quirk__ _v_ Twist or curve abruptly. _She quirked her head in a peculiar way._  
 __quiver<sup>1</sup>__ _vi_  
 __quiver<sup>2</sup>__ _n_ __1__ A portable case for holding arrows.  
+__quixotry__ _n_ A wild, visionary idea, an eccentric notion or act; a quixotism.  
 __rabid__ _adj_ :astonished: Marked by excessive enthusiasm for and intense devotion to a cause or idea. _Syn_ fanatical, overzealous  
 __rabies__ _n_ /ˈreɪ biz/ _Rabies is normally fatal if untreated and it’s a horrible death._  
 __racket__ _n_ :two: __1__ A loud distressing noise.  
@@ -974,6 +1002,7 @@ __rebuff__ _v_
 __rebuke<sup>1</sup>__ _vt_  
 __rebuke<sup>2</sup>__ _n_ :dart: A reprimand or scolding.  
 __rebuttal__ _n_  
+__recalcitrant__ _adj_  
 __recapitulation__ _n_ __2__ A summary or concise review.  
 __receptacle outlet__ _n_ An electrical outlet where one or more receptacles are installed.  
 __receptacle__ _n_ A device which is installed in an outlet box to receive a plug for the supply of electric current to an appliance or portable equipment.  
