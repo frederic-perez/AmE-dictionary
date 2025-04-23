@@ -19,6 +19,7 @@ __apparatchik__ _n_ /ah-puh-RAH-chik/ :dart: _Apparatchik_ is used disapprovingl
 __apprehension__ _n_ :dart::pencil2:  
 __aquaculture__ _n_  
 __archetype__ _n_ /AHR-kih-type/ _Archetype_ refers to someone or something that is seen to be a perfect example. It is also a word for the original pattern or model of which all things of the same type are representations or copies.  
+__ascendancy__ _n_ (ascendence)  
 __atherectomy__ _n_ Surgical removal of atherosclerotic plaque from an artery using a catheter fitted with a cutting device.  
 __atoll__ _n_ :es: atolón  
 __backbone__ _n_  
@@ -292,6 +293,7 @@ __flinch__ _vi_ :es: estremecerse; encogerse
 __fling__ _v_ :two::hammer: (flung)  
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
 __flip-flops__ _n_  
+__flippancy__ _n_  
 __flippant__ _adj_ :two: /ˈflɪp ənt/ /FLIP-unt/ __1__ Frivolously disrespectful, shallow, or lacking in seriousness. Not serious enough about important matters. Something described as flippant, such as behavior or a comment, is lacking in proper respect or seriousness. _A flippant reply._  
 __flock__ _n_  
 __florid__ _adj_ Flowery or elaborate in style.  
@@ -486,6 +488,7 @@ __jobless claims__
 __jockey__ _v_ _The fleets were beginning to jockey for battle position._  
 __jodhpurs__ _n_ Wide-hipped riding pants of heavy cloth, fitting tightly from knee to ankle. _Syn_ riding breeches  
 __Jolt Cola__ _n_ Jolt Cola was a carbonated soft drink targeted towards students and young professionals, stressing its use as a stimulant in a similar manner as energy drinks. Its slogan reads “All the sugar and twice the caffeine!’  
+__josh__ _v_  
 __jostle__ _v_  
 __jot<sup>1</sup>__ _n_ :dart: /dʒɒt/ The smallest bit; iota. _(used with a negative)_ A little bit (in phrases such as _not to care (or give) a jot_).  
 __jot<sup>2</sup>__ _vt_  
@@ -963,6 +966,7 @@ __ram__ _vt_
 __ramification__  
 __rampage<sup>1</sup>__ _n_ Violently angry and destructive behavior. _Syn_ violent disorder  
 __rampage<sup>2</sup>__ _v_ Act violently, recklessly, or destructively.  
+__rampant__ _adj_  
 __rampart__ _n_  
 __rancorous__ _adj_ Hateful; marked by deep-seated ill will.  
 __ransack__ _vt_  
@@ -1034,6 +1038,7 @@ __regurgitate__ _v_ Repeat after memorization. _Syn_ reproduce
 __reify__ _v_ /ˈri əˌfaɪ, ˈreɪ-/ /RAY-uh-fye/ Reifying is about considering or representing something abstract as a material or concrete thing. If you reify a concept or idea you somehow give it definite content and form.  
 __reignite__ _v_  
 __reindeer__ _n_ /ˈreɪnˌdɪər/ Arctic deer with large antlers in both sexes.  
+__reinsurance__ _n_  
 __rejuvenate__ _v_ /rih-JOO-vuh-nayt/ To rejuvenate a person, parts of the body, etc., is to make them feel young, healthy, or energetic again. To rejuvenate something abstract, such as an economy or career, is to give it new strength or energy.  
 __relate__ _v_ _I wish to relate the story in his own words._  
 __relay__ _n, vt_  
@@ -1042,6 +1047,7 @@ __reminisce__ _v_ /rem-uh-NISS/ To reminisce is to talk, think, or write about t
 __remuneration__ _n_ :mega: /ri-myoo-nuh–rey-shuhn/  
 __render__ _vt_ __2__ To cause to become; make: _The news rendered her speechless._ _Grief had rendered him simple-minded._  
 __repent__ _v_ _He would repent and confess his sins._  
+__repletion__ _n_ The state of being satisfactorily full and unable to take on more. _Syn_ satiation, satiety _Then Tarzan and Sheeta feasted to repletion._  
 __reprieve__ _n_  
 __repulse__ _v_ Force or drive back. _Syn_ drive back, fight off, rebuff, repel _The soldiers are armed and prepared to repulse any attack._  
 __repute__ _n, v_ :astonished:  
@@ -1053,6 +1059,7 @@ __resounding__ _adj_
 __restrain__ _v_  
 __restraint__ _n_  
 __resume__ _v_ :mega: /rɪˈzum/  
+__resurrection__ _n_ /rez-uh-REK-shun/  
 __retch<sup>1</sup>__ _vi_ To try to vomit.  
 __retch<sup>2</sup>__ _vt_ To vomit.  
 __retching__ _n_ /ˈrɛtʃɪŋ/ A series of spasms; heaving. :es: esfuerzo por vomitar  
@@ -1078,6 +1085,7 @@ __roster__ _n_
 __rout__ _n_ :two::hammer:  
 __row__ _n_ :astonished: __1__ A noisy or quarrel or disturbance.  
 __rudder__ _n_  
+__rue__ _v_  
 __ruefully__ _adv_ :two::hammer: _Syn_ contritely, remorsefully  
 __ruminate__ _v_ /ROO-muh-nayt/ To ruminate is to think carefully and deeply about something.  
 __runes__ _n_ __1__ Symbols of an ancient alphabet, used for divination.  
@@ -1097,7 +1105,7 @@ __sanguineous__ _adj_ Relating to or involving blood or bloodshed. _Syn_ butcher
 __Santa Ana__ _n_ __2__ A strong dry hot wind blowing from the desert regions of southern California toward the Pacific coast, usually in winter.  
 __sarcophagus__ _n_ /sahr-KAH-fuh-gus/ Sarcophagus refers to a coffin, and specifically a stone coffin.  
 __satire__ _n_ :mega:  
-__saunter__  
+__saunter__ _vi_ :two: To walk at a leisurely pace; stroll.  
 __saying__ _n_  
 __scab__ _n_ :camera:  
 __scaffolding__  
@@ -1116,9 +1124,14 @@ __scowl__ _v_
 __scrap<sup>1</sup>__ _n_ __5__ :smiling_imp: A fight or scuffle. _Syn_ brawl  
 __scrap<sup>2</sup>__ _vt_  
 __scrap<sup>3</sup>__ _vi_ :smiling_imp: To fight, usually with the fists.  
+__scrape<sup>1</sup>__ _vt_  
+__scrape<sup>2</sup>__ _vi_  
+__scrape<sup>3</sup>__ _n_ _The scrape of chairs._  
+__scrapheap__ _n_  
 __screwworm__ _n_ The larva of the screwworm fly. The larva of a blow fly, _Cochliomyiamacellaria_, that is a pest of livestock.  
 __scrimshaw__ _n_  
 __scrollwork__  
+__scrub__ _n_  
 __scruffy__ _adj_  
 __scuffed shoes__  
 __scuffling<sup>1</sup>__ _adj_ Of or relating to fighting in a disorderly manner. _Scuffling sounds._  
@@ -1131,6 +1144,7 @@ __second language__ _n_
 __secret__ _n_ :mega:  
 __secular__ _adj_ /SEK-yuh-ler/ _Secular_ describes things that are not spiritual; that is, they relate more to the physical world than the spiritual world. The word also carries the closely related meaning of “not religious.”  
 __seed funding__ _n_ The early investment of capital in a startup company in exchange for an equity stake in the company.  
+__select__ _adj_  
 __sell-off__ _n_ (selling-off) __1__ A sudden and marked decline in stock or bond prices resulting from widespread selling.  
 __sensor dish__ _n_ _At least the sensor dish is still there._  
 __sentient__ _adj_ :two::hammer:  
@@ -1181,6 +1195,7 @@ __skulk__ _vi_
 __skulk<sup>1</sup>__ _vi_ :dart::four: __1__ To lie in hiding, as out of cowardice or bad conscience; lurk. __2__ :dart: To move about stealthily. __3__ To evade work or obligation; shirk.  
 __skulk<sup>2</sup>__ _n_ __1__ A person who skulks. __2__ (Zoology) _obsolete_ A pack of foxes or other animals that creep about stealthily.  
 __skulking__ _n_ :smiling_imp::two: Evading duty or work by pretending to be incapacitated.  
+__skunk__ _n_ __2__ _slang_ A person regarded as obnoxious or despicable.  
 __sky blue__ _n_ :es: celeste  
 __slander<sup>1</sup>__ _n_ __1__ _Law_ Oral communication of false statements injurious to a person’s reputation. __2__ A false and malicious statement or report about someone.  
 __slander<sup>2</sup>__ _vt_ To utter a slander about. _Syn_ malign  
@@ -1210,6 +1225,7 @@ __snigger<sup>2><sup>__ _vi_
 __snort<sup>1</sup>__ _n_  
 __snort<sup>2</sup>__ _vi_  
 __snort<sup>3</sup>__ _vt_  
+__snowproof__ _adj_ Resistant to snow.  
 __soft skills__ _n pl_ (Industrial Relations & HR Terms) Desirable qualities for certain forms of employment that do not depend on acquired knowledge: they include common sense, the ability to deal with people, and a positive flexible attitude.  
 __soggy__ _adj_ __1__ Saturated or sodden with moisture; soaked: _soggy clothes._ __2__ Lacking spirit; dull: _a soggy bit of dialogue._ __3__ Humid; sultry: _a soggy afternoon in August._  
 __solace__ _v_ To give comfort or cheer to (a person) in time of sorrow or distress. _Syn_ comfort, console, soothe  
@@ -1226,7 +1242,9 @@ __spellbound__ _adj_ Having your attention fixated as though by a spell. _Syn_ f
 __spillway__ _n_ A channel for an overflow of water, as from a reservoir.  
 __spittle__ _n_ _Syn_ saliva  
 __splurge__  
+__splutter__ _v_ /ˈsplʌt ər/  
 __spool table__ _n_  
+__spruceness__ _n_ The state of being neat and smart and trim. _Syn_ neatness  
 __spur__ _v_  
 __spurious__ _adj_ Not genuine; false; counterfeit.  
 __squabble__ _n_ A noisy quarrel, often about a trivial matter. _I have no time for personal squabbles._  
@@ -1268,10 +1286,13 @@ __subsidy__ _n_
 __substantive__ _adj_ __1__ Substantial; considerable. __4__ 4. Of or relating to the essence or substance; essential: _substantive information._  
 __success story__ _n_  
 __sullen__ _adj_  
+__sultry__ _adj_ __1__ Oppressively hot and close or humid; sweltering: _a sultry day._ __2__ Oppressively hot; emitting great heat: _the sultry sun._ __3__ Characterized by or arousing passion: _sultry eyes._  
 __Sun Belt__ _n_ The southern and southwest United States.  
 __superfluous__ _adj_ :two: /soo-PER-floo-us/ Superfluous is a formal word used to describe things that exceed what is necessary or sufficient, or that are simply not needed. Extra; unnecessary.  
 __sure-fire__ _adj_ Guaranteed to work or happen.  
 __sustenance__ _n_  
+__Swahili__ _adj, n_  
+__synoptic__ _adj_ __3__ (Meteorology) Of or relating to data obtained nearly simultaneously over a large area of the atmosphere.  
 __T-bone__  
 __tabbouleh__ _n_ :mega: /təˈbu lə, -li/  
 __tackle__ _vt_ __2__ _Sports_ __a__ To stop (an opponent carrying the ball), especially by forcing the opponent to the ground. __b__ To obstruct (a player with the ball) in order to cause loss of possession of the ball. __3__ To engage or deal with: tackle a perplexing problem.  
@@ -1283,24 +1304,32 @@ __templet__ _n_ A model or standard for making comparisons. _Syn_ guide, templat
 __tender__ _v_  
 __tenuous__ _adj_ :two:Having little substance or strength; unsure; weak.  
 __thalweg__ _n_  
+__that much__ _adj_ To a certain degree. _I know that much._  
 __thirty-odd__ _n_ (30-odd) Being in excess of the indicated or approximate number, extent, or degree. Often used in combination: _invited 30-odd guests._  
 __thirtysomething__ _adj, n_  
 __thunderclap__ _n_  
 __tier__ _n_  
+__tiger shark__ _n_  
+__timely__  
 __timorous__ _adj_ Timid; fearful.  
 __tin foil__  
 __tinder__ _n_ Readily combustible material, such as dry twigs, used to kindle fires. _Syn_ kindling, spunk, touchwood, punk  
 __tinker__ _v_  
+__to this day__  
 __token__ _adj_ _Token return fire._  
+__toolchain__ _n_  
+__top-notch__ _adj_ Of the highest quality. _Syn_ A-one, ace, crack, first-rate, super, tiptop, tops _Everyone wants a top-notch specialist when it comes to laser eye surgery._  
 __toque__ _n_  
 __tornado__ _n_ [Although tornados and hurricanes may have winds that are hundreds of miles an hour, a tornado is restricted to land, and comparatively small (usually traveling 10 or 20 miles); a hurricane forms over water in tropical oceans, and can be as much as a thousand times larger than a tornado.] A violent destructive whirling wind accompanied by a funnel-shaped cloud that progresses in a narrow path over the land.  
 __tortoise__ _n_ (_vs_ turtle)  
+__totally__ _adv_ :dart: [In contemporary American English, the word “toto” itself is not commonly used as an idiom or phrase. However, the term “totally” is a derivative that is frequently used in casual conversation to mean “completely” or “entirely.” For example, someone might say, “I’m totally on board with that idea,” meaning they completely agree.]  
 __traipse<sup>1</sup>__ _v_  
 __traipse<sup>2</sup>__ _n_  
 __transfixed__  
 __transitory__ _adj_ Short-lived; temporary.  
 __transmigrate__ _v_ Be born anew in another body after death. _Syn_ reincarnate  
 __transpire__ _v_ :astonished /tran-SPYRE/ _Transpire_ is a formal verb that means “to happen,” or in other words “to take place or occur.” It can also mean “to come to light” or “to become known,” as in “It transpired that they had met previously.” In botany, to transpire is to give off or exude watery vapor especially from the surfaces of leaves.  
+__trebling__ _n_ /ˈtrɛblɪŋ/ The act or an instance of making or becoming three times as much.  
 __tricked-out__ _adj_ _Tricked-out car._  
 __triviality__ _n_ Something of small importance. _Syn_ small beer, trivia, trifle  
 __troop__ _n_  
