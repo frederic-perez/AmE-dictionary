@@ -11,8 +11,10 @@ __adversity__ _n_ /ad-VER-suh-tee/
 __advisory__ _adj, n_  
 __Agatha__ _n_ :mega: /ˈæɡəθə/  
 __agency__ _n_  
+__aisle__ _n_ :mega:mute:[~~a~~isle]  
 __aloof__ _adj_  
 __altostratus__ _n_  
+__aluminum__ _n_ /əˈlu mə nəm/ (BrE aluminium)  
 __ancillary__ _adj, n_ :two::hammer:  
 __antihistamine__ _n_  
 __apparatchik__ _n_ /ah-puh-RAH-chik/ :dart: _Apparatchik_ is used disapprovingly to refer to a blindly devoted official, follower, or member of an organization, such as a corporation or political party.  
@@ -29,10 +31,12 @@ __baleen whale__ _n_ Another name for whalebone whale.
 __bastion__ _n_ _Be a bastion of truth in a time of lies._  
 __bear market__ _n_ :two: [An easy way to remember the meaning of a bear market is to think about how a bear attacks: it swipes its paws downward. Bear swipes down → market going down = bear market]  
 __behest__ _n_ __1__ An authoritative command. __2__ An urgent request: _I called the office at the behest of my assistant._  
+__behoove__ _v_  
 __benign__ _adj_ /bih-NYNE/  
 __beseech__ _vt_  
 __Big Mouth Billy Bass__ _n_ An animatronic singing prop, representing a largemouth bass, invented by Gemmy Industries on December 16, 1998; sold beginning January 1, 1999; and popular in the early 2000s.  
 __billet-doux__ _n_ (_n pl_ billets-doux) A love letter.  
+__biscuit__ _n_  
 __black eyed peas__ _n pl_ (Notice that black eyed peas aren’t peas!)  
 __blackjack__ _n_ A leather-covered bludgeon with a short, flexible shaft or strap, used as a hand weapon. _Syn_ cosh, sap  
 __blasé__ _adj_ /ˈblɑːzeɪ/  
@@ -44,15 +48,18 @@ __blow-dryer__ _n_
 __boast__ _v_ :three::hammer:  
 __bodacious__ _adj_ /boh-DAY-shuss/ _Bodacious_ is used as an informal synonym of remarkable and noteworthy, as well as sexy and voluptuous. In some dialects of the Southern and Midland US, bodacious is used by its oldest meaning: “outright, unmistakable.” _The bodacious decor of the boutique hotel is intended to appeal to the young and the hip._  
 __bode__ _v_ :two:hammr:  
+__bomb__ _n, v_  
 __brash__ _adj_  
 __brazen__ _adj_  
 __bristle__ _v_ :two: Rise up as in fear. _Syn_ uprise, stand up _The creaking of the house at night makes the hair on the nape of my neck bristle._  
+__broach__ _vt_  
 __budgetary__ _adj_  
 __bull market__ _n_ [A bull market is when prices are rising—remember that bulls attack upward with their horns. Bull charges up → market going up = bull market]  
 __buoyancy__ _n_  
 __busybody__ _n_  
 __cabal__ _n_  
 __canister__ _n_ _Oxygen canister._  
+__canonicals__ _n pl_ The vestments worn by clergy when officiating. _A bishop in canonicals._  
 __carcass__ _n_  
 __cavort__ _v_ Play boisterously. _Syn_ frisk, frolic, gambol, lark, rollick, romp, run around, skylark, sport, disport _The children cavorted in the water, splashing and ducking each other._  
 __ceilometer__ _n_ A photoelectric instrument for ascertaining cloud heights.  
@@ -66,6 +73,7 @@ __collaborate__ _v_ /kuh-LAB-uh-rayt/
 __collate__ _vt_ :astonished: __1__ To examine and compare carefully in order to note points of disagreement.  
 __collected__ _adj_  
 __colorful__ _adj_ :astonished:  
+__colossal squid__ _n_  
 __combine harvester__ _n_ A machine that simultaneously cuts, threshes, and cleans a standing crop of grain.  
 __commutation__ _n_ :astonished: The reduction in severity of a punishment imposed by law. _Syn_ re-sentencing  
 __compliance__ _n_  
@@ -123,13 +131,14 @@ __cynosure__ _n_ /ˈsaɪ nəˌʃʊər, ˈsɪn ə-/ /SYE-nuh-shur/ A cynosure is 
 __dab__ _n_ __1__ A tiny amount. A small amount: _a dab of jelly._ _Syn_ bit, crumb, dash, dot, dram, drop, fragment, grain, iota, jot, minim, mite, modicum, molecule, ort, ounce, particle, scrap, scruple, shred, smidgen, speck, tittle, trifle, whit  
 __dabble__ _v_  
 __dacha__ _n_ A Russian country house or villa.  
+__damage__ _n_ /ˈdæm ɪdʒ/  
 __damning__ _adj_ /ˈdæmɪŋ/ (of evidence or a report) Suggesting very strongly that someone is guilty of a crime or has made a serious mistake.  
 __daunting__ _adj_ Causing fear or discouragement; intimidating.  
 __dawdle__ _v_  
 __de rigueur__ _adj_ /duh-ree-GUR/ _De rigueur_ is a formal adjective that describes things that are necessary if you want to be fashionable, popular, socially acceptable, etc.—in other words, things required by fashion, etiquette, or custom.  
 __deadpanned__ _adj_  
 __dearth__ _n_  
-__debt__ _n_ :mega: /dɛt/  
+__debt__ _n_ :two::hammer::mega: /dɛt/  
 __decrypter__ _n_ A person or a thing, such as an algorithm, program, or device, that decrypts.  
 __deliver__ _v_  
 __deluge__ _n_ :es: diluvio  
@@ -234,6 +243,7 @@ __fang__ _n_
 __fast-moving__ _adj_ _She died of a fast-moving cancer._  
 __fast-track<sup>1</sup>__ _adj_ Denoting the quickest or most direct route or system.  
 __fast-track<sup>2</sup>__ _vt_ To speed up the progress of (a project or person).  
+__fasten__ _v_  
 __fastidious__ _adj_ /fass-TID-ee-us/ Someone described as fastidious is extremely or overly careful about how they do something. _Fastidious_ may also describe someone who is difficult to please, or someone who always wants to be clean, neat, etc.  
 __faucet__ _n_ :camera:  
 __fault line__ _n_  
@@ -338,6 +348,7 @@ __giggle<sup>2</sup>__ _vi_ To laugh with repeated short, spasmodic sounds.
 __giggle<sup>3</sup>__ _vt_ To utter while giggling.  
 __glazed__ _adj_ __3__ Having a shiny surface or coating. _Glazed fabrics._ _Glazed doughnuts._ _Ceramic color glazed flower pots._  
 __glint__ _n_ :two: __1__ A momentary flash of light; a sparkle: _a glint of sunlight through the clouds._ __2__ A faint or fleeting indication; a trace: _a glint of suspicion on his face._  
+__gnome__ _n_  
 __goggle<sup>1</sup>__ _vi_ __1__ To stare with wide and bulging eyes. __2__ To roll or bulge. Used of the eyes.  
 __goggle<sup>2</sup>__ _n_ __1__ A stare or leer. __2__ _goggles_ A pair of tight-fitting eyeglasses, often tinted or having side shields, worn to protect the eyes from hazards such as wind, glare, water, or flying debris.  
 __goldfish__ _n_  
@@ -377,6 +388,7 @@ __haul__ _vt_
 __havoc__  
 __hay fever__ _n_ :es: alergia al polen  
 __hefty__ _adj_  
+__heir__ _n_  
 __hew__ _v_ /HYOO/ _Hew_ is commonly used with to to mean “to conform to or adhere to (something).” _Hew_ on its own has several meanings having to do with cutting or shaping with a sharp tool, such as an ax.  
 __hinder__ _v_  
 __hiss__ _vt_ To say something in a quiet angry way. _“Shut up, Tom!” She hissed._  
@@ -386,8 +398,11 @@ __hobble<sup>1</sup>__ _n_
 __hobble<sup>2</sup>__ _vi_  
 __hobble<sup>3</sup>__ _vt_  
 __holdout__ _n_  
+__honest__ _adj_  
 __hoot__ _v_ _The alarms were hooting._  
+__hosiery__ _n_  
 __hot links__ _n_  
+__hour__ _n_  
 __huckster__ _n_  
 __huffy__ _adj_  
 __hurtle__ _v_  
@@ -506,6 +521,7 @@ __juvenile<sup>1</sup>__ _adj_
 __juvenile<sup>2</sup>__ _n_  
 __kafkaesque__ _adj_ Of, relating to, or suggestive of Franz Kafka or his writings. Especially: having a nightmarishly complex, bizarre, or illogical quality. _The government acknowledged the “administrative error”—an Orwellian euphemism for a Kafkaesque nightmare._  
 __karen__ _n_ (derogatory) Any person, especially female, exhibiting an exaggerated sense of entitlement.  
+__kebab__ _n_ :mega: /kəˈbæb/ /kəˈbɒb/  
 __kickstand__ _n_ __1__ A swiveling metal bar for holding a bicycle, motorcycle, or other two-wheeled vehicle upright when it is not being ridden.  
 __kindle__  
 __king cake__ _n_ A sweet ring-shaped cake traditionally with a symbolic bean or figurine of the infant Jesus inside that is served from the Epiphany to Shrove Tuesday.  
@@ -514,6 +530,8 @@ __kip__ _n_ __5__ (kip-up) A maneuver in gymnastics, martial arts, and similar s
 __kitsch__ _n_ /KITCH/ _Kitsch_ refers to something that appeals to popular or lowbrow taste and is often cheap or tacky. _Kitsch_ also refers to a tacky or lowbrow quality or condition.  
 __klaxon__ _n_ (claxon) [:scroll: From Klaxon, a trademark for a loud electric horn] A type of loud horn formerly used on motor vehicles.  
 __knack__ _n_  
+__knee__ _n_  
+__knife__ _n, v_  
 __Knight Templar__ _n_  
 __knockoff__ _n_ An unauthorized copy or imitation, as of designer clothing.  
 __kraken__ _n_ (often cap.) A huge sea monster in Norwegian legend.  
@@ -555,13 +573,14 @@ __likely<sup>1</sup>__ _adj_
 __likely<sup>2</sup>__ _adv_ :dart: Probably: _They’ll likely buy a new car soon._  
 __lilt__ _n_  
 __lily-handed__ _adj_ /LIL-ee-han-did/ __1__ Having delicate, pale hands, unaccustomed to manual labor. __2__ Dandy; foppish; overly refined.  
+__limb__ _n_  
 __lime__ _n_ :es: cal  
 __limelight__  
 __limerence__ _n_ The state of being obsessively infatuated with someone, usually accompanied by delusions of or a desire for an intense romantic relationship with that person.  
 __limerick__ _n_ /LIM-uh-rik/  
 __limestone__  
 __liminal__ _adj_ :two: /LIM-uh-nul/ _Liminal_ is a formal word most often used to describe an intermediate state, phase, or condition. It can also describe something that is barely perceptible or barely capable of eliciting a response.  
-__limpid__ _adj_ /LIM-pid/ _Limpid_ describes things that are perfectly transparent or clear, or that are simple in style.  
+__limpid__ _adj_ :two: /LIM-pid/ _Limpid_ describes things that are perfectly transparent or clear, or that are simple in style.  
 __linchpin__ _n_ /LINCH-pin/  
 __linguine__ _n_ (linguini)  
 __lissom__ _adj_ Moving and bending with ease. _Syn_ lithe, lithesome, supple, sylphlike, svelte, slender  
@@ -613,6 +632,7 @@ __mandatory__ _n_ :mega: /ˈmæn dəˌtɔr i, -ˌtoʊr i/
 __mangle__ _v_ __2__ To ruin or spoil through ineptitude or ignorance: _mangle a speech._  
 __mangy__ _adj_  
 __manifesto__ _n_ A written statement declaring publicly the intentions, motives, or views of its issuer.  
+__manna__ _n_ /ˈmæn ə/  
 __mannequin__ _n_ :astonished: A woman who wears clothes to display fashions. _Syn_ model  
 __mantel__ _n_ The protruding shelf over a fireplace. _Syn_ chimneypiece, mantelpiece  
 __mantic__ _adj_ Of, relating to, or having the power of divination; prophetic. _Syn_ divinatory, sibyllic, sibylline, vatic  
@@ -683,11 +703,13 @@ __miserly__ _adj_ (Used of persons or behavior) Characterized by or indicative o
 __mishap__  
 __mite__ _n_ :hammer: _Dust mites._ :es: ácaro  
 __mix tape__  
+__moka pot__ _n_  
 __mold__ _n_  
 __mollify__ _v_ To calm or soothe.  
 __mope__ _v_  
 __moped__ _n_ :two::hammer:  
 __morose__ _adj_  
+__motley__ _adj, n_ /ˈmɒt li/  
 __Mounties__ _n_ _informal_ The federal police force of Canada. the formal term would be “Royal Canadian Mounted Police” or simply “RCMP.”  
 __mull<sup>1</sup>__ _vt_ /mŭl/ To think about extensively; ponder. __1__ __2__ To heat and spice (wine, for example).  
 __mull<sup>2</sup>__ _vi_ /mŭl/ To ruminate; ponder: _mull over a plan._  
@@ -696,6 +718,7 @@ __mullet__ _n_ /ˈmʌlɪt/ __1__ An edible fish found in coastal waters. :es: sa
 __multifarious__ _adj_ /mul-tuh-FAIR-ee-us/ Something described as multifarious has great diversity or variety, or is made up of many and various kinds of things. Multifarious is a formal word and a synonym of diverse. _He participated in multifarious activities throughout college._  
 __multilateralism__ _n_ The practice of promoting trade among several countries through agreements concerning quantity and price of commodities, as the Common Market, and, sometimes, restrictive tariffs on goods from outsiders.  
 __multimeter__ _n_ :two::camera::mega: /ˈmʌltɪˌmiːtə/ An instrument that combines an ammeter, an ohmmeter, a voltmeter, and occasionally other measurement or testing devices into one unit. :es: multímetro  
+__muscle__ _n_ :mega:mute:[mus~~c~~le] /ˈmʌsəl/  
 __muttered__ _v_  
 __mythbuster__ _n_ A person who debunks misconceptions.  
 __nab__ _vt_  
@@ -778,6 +801,7 @@ __one-stop__ _adj_
 __onerous__ _adj_ :dart: __1__ Troublesome or oppressive; burdensome.  
 __onslaught__ _n_ :two::hammer::mega: /ˈɒnˌslɔt, ˈɔn-/  
 __ornate__ _adj_ Elaborately decorated.  
+__ostensible__ _adj_ :astonished: /ah-STEN-suh-bul/ _Ostensible_ is used to describe something that seems or is said to be true or real, but is possibly not true or real. In other words, it is plausible rather than demonstrably true or real.  
 __ostentatious__ _adj_ Describing a pretentious display.  
 __osteoarthritis__ _n_ _Syn_ degenerative joint disease  
 __otter__ _n_ :es: nutria  
@@ -837,6 +861,7 @@ __petrol station__ _n_ _Syn_ filling station, gas station, gasoline station
 __pettiness__ _n_  
 __petulance__ _n_  
 __petulant__ _adj_  
+__pizza__ _n_ :mega: /ˈpit sə/  
 __planter__ _n_  
 __plaster of Paris__ _n_ :two::hammer::camera:  
 __plastic wrap__  
@@ -851,6 +876,7 @@ __pluck__ _v_ :two::hammer:
 __plucking__  
 __plug__ _n_ __6a__ A flat cake of pressed or twisted tobacco. __b__ A piece of chewing tobacco.  
 __plumb__ _adj, adv, n_ _Bruises and plumb lines._  
+__plumber__ _n_  
 __plush<sup>1</sup>__ _n_  
 __plush<sup>2</sup>__ _adj_  
 __poach__ _v_ :two::hammer::smiling_imp:  
@@ -1050,6 +1076,7 @@ __repent__ _v_ _He would repent and confess his sins._
 __repletion__ _n_ The state of being satisfactorily full and unable to take on more. _Syn_ satiation, satiety _Then Tarzan and Sheeta feasted to repletion._  
 __reprieve__ _n_  
 __repulse__ _v_ Force or drive back. _Syn_ drive back, fight off, rebuff, repel _The soldiers are armed and prepared to repulse any attack._  
+__reputable__ _adj_ __1__ Having a good reputation; honoured, trustworthy, or respectable.  
 __repute__ _n, v_ :astonished:  
 __reputed__ _adj_ /rɪˈpyu tɪd/ Reported or supposed to be such: _the reputed author of a book._  
 __reputedly__ _adv_ /rɪˈpjuːtɪdlɪ/ According to general belief or supposition: _the reputedly excellent food._  
@@ -1128,6 +1155,7 @@ __scrape<sup>1</sup>__ _vt_
 __scrape<sup>2</sup>__ _vi_  
 __scrape<sup>3</sup>__ _n_ _The scrape of chairs._  
 __scrapheap__ _n_  
+__screed__ _n_ /skriːd/  
 __screwworm__ _n_ The larva of the screwworm fly. The larva of a blow fly, _Cochliomyiamacellaria_, that is a pest of livestock.  
 __scrimshaw__ _n_  
 __scrollwork__  
