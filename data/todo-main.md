@@ -46,9 +46,11 @@ __bloody__ _adj_ :es: cruento
 __blow fly__ _n_ (blowfly) Large usually hairy metallic blue or green fly; lays eggs in carrion or dung or wounds.  
 __blow-dryer__ _n_  
 __boast__ _v_ :three::hammer:  
+__bobwhite__ _n_ A popular North American game bird; named for its call. _Syn_ bobwhite quail, partridge  
 __bodacious__ _adj_ /boh-DAY-shuss/ _Bodacious_ is used as an informal synonym of remarkable and noteworthy, as well as sexy and voluptuous. In some dialects of the Southern and Midland US, bodacious is used by its oldest meaning: “outright, unmistakable.” _The bodacious decor of the boutique hotel is intended to appeal to the young and the hip._  
 __bode__ _v_ :two:hammr:  
 __bomb__ _n, v_  
+__boom-and-bust__ _adj, n_  
 __brash__ _adj_  
 __brazen__ _adj_  
 __bristle__ _v_ :two: Rise up as in fear. _Syn_ uprise, stand up _The creaking of the house at night makes the hair on the nape of my neck bristle._  
@@ -58,11 +60,14 @@ __bull market__ _n_ [A bull market is when prices are rising—remember that bul
 __buoyancy__ _n_  
 __busybody__ _n_  
 __cabal__ _n_  
+__camerlengo__ _n_ A cardinal who is appointed by the pope and charged with specific duties (such as certifying the pope’s death and preparing a conclave) during a papal interregnum.  
 __canister__ _n_ _Oxygen canister._  
 __canonicals__ _n pl_ The vestments worn by clergy when officiating. _A bishop in canonicals._  
 __carcass__ _n_  
 __cavort__ _v_ Play boisterously. _Syn_ frisk, frolic, gambol, lark, rollick, romp, run around, skylark, sport, disport _The children cavorted in the water, splashing and ducking each other._  
 __ceilometer__ _n_ A photoelectric instrument for ascertaining cloud heights.  
+__chaff__ _v_  
+__chandler__ _n_ :two::hammer:  
 __chary__ _adj_ /CHAIR-ee/ _Chary_ is usually used with about or of to describe someone who is cautious about doing something. _The director is chary about spending money._ _I’ve always been chary of travelling alone._  
 __chlorophyl__ _n_ (chlorophyll) Any of a group of green pigments found in photosynthetic organisms; there are four naturally occurring forms.  
 __cloud seeding__ _n_  
@@ -123,6 +128,7 @@ __crouch__ _v_
 __cryptic__ _adj_ /KRIP-tik/ Something described as cryptic has or seems to have a hidden meaning, or is difficult to understand.  
 __cuddle__  
 __cup__ _vt_ __1__ To shape like a cup: _cup one’s hands._ _Cupping the hyperdrive levers in her hand._  
+__cupboard__ _n_ :mega: /ˈkʌb ərd/ A closet with shelves for dishes, cups, food, etc.  
 __curator__ _n_ One who manages or oversees, as the administrative director of a museum collection or a library.  
 __curfew__ _n_ /KER-fyoo/  
 __curtain call__ _n_ The appearance of performers or a performer at the end of a performance to receive applause from the audience.  
@@ -147,10 +153,13 @@ __demonstrator__
 __derelict__ _adj_ /DAIR-uh-likt/ _Derelict_ is a formal word that describes something that is no longer cared for or used by anyone. It can also describe someone who is negligent or who fails to do what needs to be done.  
 __detail__ _n_ __7a__ A group of military personnel assigned to a particular duty, usually a fatigue duty. __b__ The duty assigned: _garbage detail._  
 __detainment__  
+__diaper<sup>1</sup>__ _n_  
+__diaper<sup>2</sup>__ _vt_ __1__ To put a diaper on. __2__ To weave or decorate in a diaper pattern. _Diapered the monotony of life._  
 __didactics__ _n_ The activities of educating or instructing; activities that impart knowledge or skill. _Syn_ education, instruction, pedagogy, teaching  
 __diffident__  
 __digital twin__ _n_  
 __diligent__ _adj_ Marked by painstaking effort; hard-working.  
+__dingy__ _adj_  
 __diorama__ _n_  
 __dirt road__ _n_ :dart: An unsealed country road.  
 __dish towel__ _n_ (tea towel)  
@@ -225,6 +234,7 @@ __evergreen__ _adj_ /EV-er-green/ _Evergreen_ in its figurative uses describes s
 __exacerbate__ _vt_  
 __exculpate__ _v_ To free from guilt or blame.  
 __excursion__ _n_ /ik-SKER-zhun/ _Excursion_ refers to a trip, and especially to a short one made for pleasure. _Excursion_ is also often used figuratively to refer to a deviation from a direct, definite, or proper course, and often in particular to a digression.  
+__exoplanet__ _n_  
 __expiration date__ _n_ _A sad song about a relationship that probably has reached its expiration date._  
 __expletive__ _n_  
 __extant__ _adj_ Still in existence; not destroyed, lost, or extinct: _extant manuscripts._  
@@ -422,6 +432,7 @@ __imprimatur__ _n_ Formal and explicit approval. _Syn_ countenance, endorsement,
 __in-house__  
 __inane__  
 __inanely__  
+__inarguably__  
 __incentivize__ _vt_  
 __inchoate__ _adj_ :two: /in-KOH-ut/ _Inchoate_ is a formal adjective and synonym of _vague_ that describes something that is not completely formed or developed yet.  
 __incognito__ _n_ :mega:  
@@ -446,6 +457,7 @@ __innovative__ _adj_ Introducing something new.
 __inordinate__ _adj_  
 __inscrutable__ _adj_ :dart::astonished:  
 __insidious__  
+__insouciance__ _n_ :dart: Blithe lack of concern; nonchalance. The quality of being insouciant; lack of care or concern. :es: despreocupación  
 __interfere__ _v_  
 __interpenetrate__ _v_ Spread or diffuse through. _Syn_ imbue, permeate, pervade, diffuse, riddle, penetrate  
 __interreign__ _n_ An interregnum.  
@@ -603,6 +615,7 @@ __lug__ _v_
 __lump__ _vt_ __1__ To put together in a single group without discrimination.  
 __lunacy__ _n_  
 __lunge__ _v_  
+__lurid__ _adj_ __1__ Gruesome; horrible; revolting: _the lurid details of an accident._ __2__ Wildly dramatic or sensational; shocking: _the lurid tales of pulp magazines._ __3__ Shining with an unnatural, fiery glow; garishly red: _a lurid sunset._ __4__ Wan, pallid, or ghastly in hue; livid.  
 __lycanthrope__ _n_  
 __macabre__ _adj_  
 __macaronic__ _adj_ :astonished: __1__ Characterized by Latin words mixed with non-Latin words often given Latin endings. __2__ Composed of a mixture of languages.  
@@ -709,6 +722,7 @@ __mollify__ _v_ To calm or soothe.
 __mope__ _v_  
 __moped__ _n_ :two::hammer:  
 __morose__ _adj_  
+__Mother Hubbard__ _n_ :two: A woman’s loose unbelted dress.  
 __motley__ _adj, n_ /ˈmɒt li/  
 __Mounties__ _n_ _informal_ The federal police force of Canada. the formal term would be “Royal Canadian Mounted Police” or simply “RCMP.”  
 __mull<sup>1</sup>__ _vt_ /mŭl/ To think about extensively; ponder. __1__ __2__ To heat and spice (wine, for example).  
@@ -760,6 +774,7 @@ __nominal__ _adj_ :dart: __2__ :dart: Minimal in comparison with real worth or w
 __non sequitur__ _n_ /NAHN-SEK-wuh-ter/ _We were talking about the new restaurant when she threw in some non sequitur about her dog._  
 __non-negotiable__ _adj_ :dart::three: Not open to negotiation or discussion: _the policy is non-negotiable._  
 __non-profit-making__ _adj_ Not yielding a profit, esp because organized or established for some other reason: _a non-profit-making organization._  
+__nonchalant__ _adj_ :mega: /nahn-shuh-LAHNT/ Someone described as nonchalant is relaxed and calm, either because they do not care about something or because they are not worried about something. _Nonchalant_ can also be used to describe something, such as demeanor or behavior, that expresses such relaxed, calm unconcern.  
 __noncommittal__ _adj_ :dart::two::hammer:  
 __nondescript__  
 __nonplus__ _v_ /nahn-PLUS/ To _nonplus_ someone is to perplex them, or in other words, to cause them to be at a loss as to what to say, think, or do.  
@@ -909,12 +924,14 @@ __portentous__ _adj_ Marked by pompousness; pretentiously weighty. _Syn_ overblo
 __portfolio__  
 __posit__ _vt_  
 __pot__ _n_ __12__ _billiards snooker_ A shot by which a ball is pocketed.  
+__potentate__ _n_ /ˈpəʊtənˌteɪt/  
 __pounce__ _v_  
 __poutine__ _n_ :two: /puːˈtiːn/ /puˈtin/ _Canadian_ A dish of chipped potatoes topped with curd cheese and a tomato-based sauce.  
 __prehensile__ _adj_ :astonished: Immoderately desirous of acquiring e.g. wealth. _Syn_ avaricious, covetous, grabby, grasping, greedy  
 __presage__ _v_ :mega: /PRESS-ij/ To presage something is to give or be a sign that it will happen in the future. Presage is a formal synonym of _foreshadow_, _foretell_, and _predict._ _// The sudden gloom and ominous dark clouds clearly presaged a nasty storm._  
 __presentation__ _n_ /prez-uhn-tey-shuhn, pree-zen-tey-shuhn/  
 __prevalent__ _adj_  
+__prim__ _adj_ :es: formal, estirado; remilgado, cursi; mojigato  
 __primed__ _adj_ :two: (usually followed by _to_ or _for_) Prepared for use or action. On the point of or strongly disposed. _Syn_ set, fit  
 __prissy__ _adj_ :two::hammer:  
 __privilege__ _n_ :mega: /ˈprɪv ə lɪdʒ, ˈprɪv lɪdʒ/  
@@ -931,6 +948,7 @@ __provender__ _n_ Dry food, as hay or oats, for livestock or other domestic anim
 __proximate__ _adj_  
 __prudish__ _adj_  
 __pry__ _vi_ :two::hammer:  
+__psychology__ _n_  
 __public house__ _n_ _BrE_ Pub.  
 __publican__ _n_ _BrE_ :astonished:  
 __pucker<sup>1</sup>__ _v_ To draw or gather into wrinkles or irregular folds; constrict.  
@@ -1065,6 +1083,7 @@ __reify__ _v_ /ˈri əˌfaɪ, ˈreɪ-/ /RAY-uh-fye/ Reifying is about considerin
 __reignite__ _v_  
 __reindeer__ _n_ /ˈreɪnˌdɪər/ Arctic deer with large antlers in both sexes.  
 __reinsurance__ _n_  
+__rejoice__ _v_  
 __rejuvenate__ _v_ /rih-JOO-vuh-nayt/ To rejuvenate a person, parts of the body, etc., is to make them feel young, healthy, or energetic again. To rejuvenate something abstract, such as an economy or career, is to give it new strength or energy.  
 __relate__ _v_ _I wish to relate the story in his own words._  
 __relay__ _n, vt_  
@@ -1072,6 +1091,7 @@ __relent__ _v_ :dart: Give in, as to influence or pressure. _Syn_ soften, yield 
 __reminisce__ _v_ /rem-uh-NISS/ To reminisce is to talk, think, or write about things that happened in the past.  
 __remuneration__ _n_ :mega: /ri-myoo-nuh–rey-shuhn/  
 __render__ _vt_ __2__ To cause to become; make: _The news rendered her speechless._ _Grief had rendered him simple-minded._  
+__rendezvous__ _n, v_ :mega:mute:[rende~~z~~vou~~s~~] /ˈrɑn dəˌvu, -deɪ-/ (_n pl_ [rende~~z~~vous] /-ˌvuz/)  
 __repent__ _v_ _He would repent and confess his sins._  
 __repletion__ _n_ The state of being satisfactorily full and unable to take on more. _Syn_ satiation, satiety _Then Tarzan and Sheeta feasted to repletion._  
 __reprieve__ _n_  
@@ -1095,6 +1115,7 @@ __reveler__ _n_
 __rhetoric__ _n_ :pencil2:  
 __rheumy__ _adj_ :mega: /ˈru mi/  
 __Richter scale__ _n_ :mega: /ˈrɪk.tər skeɪl/ /rĭk′tər/ A logarithmic scale used to express the amount of energy released by an earthquake. Its values typically fall between 0 and 9, with each increase of 1 representing a 10-fold increase in energy.  
+__ricochet__ _v_  
 __ridealong__ _n_ __1__ The act of accompanying, or volunteering with, a police, paramedic, or firefighting group, usually by a student seeking hands-on experience. __2__ One who participates in this.  
 __rife__ _adj_ /RYFE/ _Rife_ usually describes things that are very common and often—though not always—bad or unpleasant. _Rife_ is also commonly used in the phrase “rife with” to mean “copiously supplied” or “having a large amount of; full of.” Unlike most adjectives, rife is not used before a noun. _Speculation about who would be sent to the new office had been rife for weeks._  
 __rik__  
@@ -1140,6 +1161,7 @@ __scam__ _n_
 __scamper__ _n_  
 __scant__ _adj_  
 __scantily clad__ _adj_  
+__scenery__ _n_ :mega:mute:[~~s~~cenery] /ˈsi nə ri/  
 __schadenfreude__ _n_ /SHAH-dun-froy-duh/ _Schadenfreude_ refers to a feeling of enjoyment that comes from seeing or hearing about the troubles of other people. _Schadenfreude was felt by many viewers when the arrogant contestant was voted off the show._  
 __schism__ _n_  
 __scoop__ _n_  
@@ -1235,6 +1257,7 @@ __sleepover__
 __Slim Jimn__ _n_  
 __slipcovers__ _n_  
 __slop__ _n_  
+__slough__ _v_ /SLUFF/ _Slough_ is a formal verb used for the action of getting rid of something unwanted. It is usually used with _off._ _Slough_ can also mean “to lose a dead layer of (skin)” or “to become shed or cast off.”  
 __slug__  
 __slugger__ _n_  
 __slushy<sup>1</sup>__ _n_ A brain freeze inducing, tongue staining frozen drink popular with children. They’re often sold at theme parks and games arcades.  
@@ -1258,6 +1281,7 @@ __soft skills__ _n pl_ (Industrial Relations & HR Terms) Desirable qualities for
 __soggy__ _adj_ __1__ Saturated or sodden with moisture; soaked: _soggy clothes._ __2__ Lacking spirit; dull: _a soggy bit of dialogue._ __3__ Humid; sultry: _a soggy afternoon in August._  
 __solace__ _v_ To give comfort or cheer to (a person) in time of sorrow or distress. _Syn_ comfort, console, soothe  
 __solarimeter__ _n_ Any of various instruments for measuring solar radiation, as by use of a bolometer or thermopile. _Syn_ pyranometer  
+__somber__ _adj_ Grave or even gloomy in character. _Syn_ melancholy  
 __soprano__ _n_ :mega:  
 __sortie__ _n_  
 __sounding__ _n_ :two: __2__ A probe of the environment for scientific observation.  
@@ -1305,27 +1329,31 @@ __stride__ _n_
 __strut__ _n_ :two: A strong rod or structural component, usually made of metal, that is used to support or reinforce a structure.  
 __stubborn__ _adj_ :pencil2::mega:  
 __stud__ _n_ _Stud with nuts._  
-__stymie<sup>1</sup>>__ _vt_  
+__stymie<sup>1</sup>>__ _vt_ :two::hammer:  
 __stymie<sup>2</sup>>__ _n_  
 __suave__ _adj_ /swɑːv/  
 __subservient__ _adj_  
 __subsidize__ _v_  
 __subsidy__ _n_  
 __substantive__ _adj_ __1__ Substantial; considerable. __4__ 4. Of or relating to the essence or substance; essential: _substantive information._  
+__subtle__ _adj_  
 __success story__ _n_  
 __sullen__ _adj_  
 __sultry__ _adj_ __1__ Oppressively hot and close or humid; sweltering: _a sultry day._ __2__ Oppressively hot; emitting great heat: _the sultry sun._ __3__ Characterized by or arousing passion: _sultry eyes._  
 __Sun Belt__ _n_ The southern and southwest United States.  
 __superfluous__ _adj_ :two: /soo-PER-floo-us/ Superfluous is a formal word used to describe things that exceed what is necessary or sufficient, or that are simply not needed. Extra; unnecessary.  
 __sure-fire__ _adj_ Guaranteed to work or happen.  
+__surf__ _n_ The waves of the sea as they break upon a shore or reef.  
 __sustenance__ _n_  
 __Swahili__ _adj, n_  
+__sword__ _n_ /sɔːd/ /sɔrd, soʊrd/  
 __synoptic__ _adj_ __3__ (Meteorology) Of or relating to data obtained nearly simultaneously over a large area of the atmosphere.  
 __T-bone__  
 __tabbouleh__ _n_ :mega: /təˈbu lə, -li/  
 __tackle__ _vt_ __2__ _Sports_ __a__ To stop (an opponent carrying the ball), especially by forcing the opponent to the ground. __b__ To obstruct (a player with the ball) in order to cause loss of possession of the ball. __3__ To engage or deal with: tackle a perplexing problem.  
 __tadpole__ _n_ [:scroll: C15 _taddepol_, from _tadde_ toad + _pol_ head, poll]  
 __tantrum__ _n_  
+__tarpaulin__ _n_  
 __tartly__ _adv_  
 __temper__ _v_  
 __templet__ _n_ A model or standard for making comparisons. _Syn_ guide, template  
@@ -1333,6 +1361,7 @@ __tender__ _v_
 __tenuous__ _adj_ :two:Having little substance or strength; unsure; weak.  
 __thalweg__ _n_  
 __that much__ _adj_ To a certain degree. _I know that much._  
+__thicket__ _n_ :es: matorral  
 __thirty-odd__ _n_ (30-odd) Being in excess of the indicated or approximate number, extent, or degree. Often used in combination: _invited 30-odd guests._  
 __thirtysomething__ _adj, n_  
 __thunderclap__ _n_  
