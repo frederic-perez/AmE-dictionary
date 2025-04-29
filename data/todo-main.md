@@ -1,5 +1,6 @@
 __A pager__ _n_ A simple wireless communications device that receives text messages or alerts.  
 __ab ovo__ _adv_ From the beginning.  
+__abandon__ _n_ :dart: Freedom from inhibitions, restraint, concern, or worry: _she danced with abandon._  
 __abduct__ _vt_  
 __absenteeism__ _n_  
 __academic question__ _n_ A question that is primarily of interest to scholars or researchers and often lacks practical importance or utility in everyday life. These questions are typically theoretical or exploratory in nature, focusing on concepts, ideas, or phenomena that may not have immediate real-world applications.  
@@ -12,6 +13,7 @@ __advisory__ _adj, n_
 __Agatha__ _n_ :mega: /ˈæɡəθə/  
 __agency__ _n_  
 __aisle__ _n_ :mega:mute:[~~a~~isle]  
+__alacrity__ _n_ dart::mega: /uh-LAK-ruh-tee/ _Alacrity_ refers to a quick and cheerful readiness to do something.  
 __aloof__ _adj_  
 __altostratus__ _n_  
 __aluminum__ _n_ /əˈlu mə nəm/ (BrE aluminium)  
@@ -24,18 +26,21 @@ __archetype__ _n_ /AHR-kih-type/ _Archetype_ refers to someone or something that
 __ascendancy__ _n_ (ascendence)  
 __atherectomy__ _n_ Surgical removal of atherosclerotic plaque from an artery using a catheter fitted with a cutting device.  
 __atoll__ _n_ :es: atolón  
+__attack__ _n_ :mega:  
 __backbone__ _n_  
 __badly__ _adv_ __2__ Very much; greatly. _Badly needed._  
 __bald-faced__ _adj_ Brash; undisguised. _Syn_ brazen, insolent, audacious, barefaced, bodacious, brassy _John’s excuse for missing work was such a bald-faced lie that his boss immediately fired him._  
 __baleen whale__ _n_ Another name for whalebone whale.  
 __bastion__ _n_ _Be a bastion of truth in a time of lies._  
 __bear market__ _n_ :two: [An easy way to remember the meaning of a bear market is to think about how a bear attacks: it swipes its paws downward. Bear swipes down → market going down = bear market]  
+__bedraggled__ _adj_  
 __behest__ _n_ __1__ An authoritative command. __2__ An urgent request: _I called the office at the behest of my assistant._  
 __behoove__ _v_  
 __benign__ _adj_ /bih-NYNE/  
 __beseech__ _vt_  
 __Big Mouth Billy Bass__ _n_ An animatronic singing prop, representing a largemouth bass, invented by Gemmy Industries on December 16, 1998; sold beginning January 1, 1999; and popular in the early 2000s.  
 __billet-doux__ _n_ (_n pl_ billets-doux) A love letter.  
+__birch treee__  
 __biscuit__ _n_  
 __black eyed peas__ _n pl_ (Notice that black eyed peas aren’t peas!)  
 __blackjack__ _n_ A leather-covered bludgeon with a short, flexible shaft or strap, used as a hand weapon. _Syn_ cosh, sap  
@@ -53,6 +58,7 @@ __bomb__ _n, v_
 __boom-and-bust__ _adj, n_  
 __brash__ _adj_  
 __brazen__ _adj_  
+__briar pipe__ _n_ A pipe made from the root (briarroot) of the tree heath.  
 __bristle__ _v_ :two: Rise up as in fear. _Syn_ uprise, stand up _The creaking of the house at night makes the hair on the nape of my neck bristle._  
 __broach__ _vt_  
 __budgetary__ _adj_  
@@ -60,13 +66,15 @@ __bull market__ _n_ [A bull market is when prices are rising—remember that bul
 __buoyancy__ _n_  
 __busybody__ _n_  
 __cabal__ _n_  
+__calabash__ _n_ :two::hammer:  
 __camerlengo__ _n_ A cardinal who is appointed by the pope and charged with specific duties (such as certifying the pope’s death and preparing a conclave) during a papal interregnum.  
 __canister__ _n_ _Oxygen canister._  
 __canonicals__ _n pl_ The vestments worn by clergy when officiating. _A bishop in canonicals._  
 __carcass__ _n_  
 __cavort__ _v_ Play boisterously. _Syn_ frisk, frolic, gambol, lark, rollick, romp, run around, skylark, sport, disport _The children cavorted in the water, splashing and ducking each other._  
 __ceilometer__ _n_ A photoelectric instrument for ascertaining cloud heights.  
-__chaff__ _v_  
+__chaff<sup>1</sup>__ _v_ :two::hammer:  
+__chaff<sup>2</sup>__ _n_ Good-natured teasing; banter.  
 __chandler__ _n_ :two::hammer:  
 __chary__ _adj_ /CHAIR-ee/ _Chary_ is usually used with about or of to describe someone who is cautious about doing something. _The director is chary about spending money._ _I’ve always been chary of travelling alone._  
 __chlorophyl__ _n_ (chlorophyll) Any of a group of green pigments found in photosynthetic organisms; there are four naturally occurring forms.  
@@ -83,6 +91,7 @@ __combine harvester__ _n_ A machine that simultaneously cuts, threshes, and clea
 __commutation__ _n_ :astonished: The reduction in severity of a punishment imposed by law. _Syn_ re-sentencing  
 __compliance__ _n_  
 __comprehensive__ _adj_ Broad or complete in scope or content.  
+__concertina__ _n_  
 __concussion grenade__ _n_ A grenade that produces its effect by the blast of its detonation rather than from the fragmentation of its casing.  
 __conducive__ _adj_  
 __conformal__ _adj_ [:scroll: from Late Latin _conformālis_ having the same shape, from Latin _com-_ same + _forma_ shape]  
@@ -137,6 +146,7 @@ __cynosure__ _n_ /ˈsaɪ nəˌʃʊər, ˈsɪn ə-/ /SYE-nuh-shur/ A cynosure is 
 __dab__ _n_ __1__ A tiny amount. A small amount: _a dab of jelly._ _Syn_ bit, crumb, dash, dot, dram, drop, fragment, grain, iota, jot, minim, mite, modicum, molecule, ort, ounce, particle, scrap, scruple, shred, smidgen, speck, tittle, trifle, whit  
 __dabble__ _v_  
 __dacha__ _n_ A Russian country house or villa.  
+__dainty__ _adj, n_ :two::hammer:  
 __damage__ _n_ /ˈdæm ɪdʒ/  
 __damning__ _adj_ /ˈdæmɪŋ/ (of evidence or a report) Suggesting very strongly that someone is guilty of a crime or has made a serious mistake.  
 __daunting__ _adj_ Causing fear or discouragement; intimidating.  
@@ -145,6 +155,7 @@ __de rigueur__ _adj_ /duh-ree-GUR/ _De rigueur_ is a formal adjective that descr
 __deadpanned__ _adj_  
 __dearth__ _n_  
 __debt__ _n_ :two::hammer::mega: /dɛt/  
+__decimate__ _v_ :mega: /DESS-uh-mayt /_Decimate_ can mean both “to destroy a large number of (plants, animals, people, etc.)” or “to severely damage or destroy a large part of (something).”  
 __decrypter__ _n_ A person or a thing, such as an algorithm, program, or device, that decrypts.  
 __deliver__ _v_  
 __deluge__ _n_ :es: diluvio  
@@ -237,6 +248,7 @@ __excursion__ _n_ /ik-SKER-zhun/ _Excursion_ refers to a trip, and especially to
 __exoplanet__ _n_  
 __expiration date__ _n_ _A sad song about a relationship that probably has reached its expiration date._  
 __expletive__ _n_  
+__expostulation__ _n_ :two::hammer:  
 __extant__ _adj_ Still in existence; not destroyed, lost, or extinct: _extant manuscripts._  
 __extempore__ _adj_ Spoken, carried out, or composed with little or no preparation or forethought. _Syn_ ad-lib, extemporaneous, impromptu, off-the-cuff, offhand, offhanded, unrehearsed  
 __extravaganza__ _n_ /ɪkˌstræv əˈgæn zə/  
@@ -250,6 +262,7 @@ __facetious__ _adj_ /fuh-SEE-shuss/ _Facetious_ is used to describe something, s
 __factoid__ _n_ /FAK-toyd/ A factoid is a brief and usually unimportant or trivial fact. _Factoid_ may also refer to an invented fact believed to be true because it appears in print.  
 __fairground attraction__  
 __fang__ _n_  
+__fangled__  
 __fast-moving__ _adj_ _She died of a fast-moving cancer._  
 __fast-track<sup>1</sup>__ _adj_ Denoting the quickest or most direct route or system.  
 __fast-track<sup>2</sup>__ _vt_ To speed up the progress of (a project or person).  
@@ -327,6 +340,7 @@ __forego__ _v_
 __forerunner__ _n_  
 __forklift__ _n_ :camera:  
 __form factor__ _n_  
+__fortnight__ _n_ :two::hammer:  
 __fractionally__ _adv_ :astonished::two::hammer: _Luke shrugged fractionally all-around._ :es: mínimamente  
 __fragile__ _adj_ :mega:  
 __fraught__  
@@ -342,6 +356,7 @@ __frost-bitten__ _adj_
 __fruitless__ _adj_ :two::hammer:  
 __fungicide__ _n_ A chemical substance that destroys or inhibits the growth of fungi. _Syn_ antifungal, antimycotic  
 __funnel__ _v_ :dart: __6__ :dart: To concentrate or focus or be concentrated or focused in a particular direction: _they funnelled their attention on the problem._  
+__furtive__ _adj_ /FER-tiv/  
 __futile__ _adj_ /ˈfyut l, ˈfyu taɪl/  
 __galoshes__  
 __galvanize__ _vt_  
@@ -397,6 +412,7 @@ __harrowing__ _adj_
 __haul__ _vt_  
 __havoc__  
 __hay fever__ _n_ :es: alergia al polen  
+__heather__ _n_  
 __hefty__ _adj_  
 __heir__ _n_  
 __hew__ _v_ /HYOO/ _Hew_ is commonly used with to to mean “to conform to or adhere to (something).” _Hew_ on its own has several meanings having to do with cutting or shaping with a sharp tool, such as an ax.  
@@ -554,14 +570,17 @@ __lair__ _n_
 __lambent__ _adj_ :two::hammer:  
 __lament__ _n_ A song or hymn of mourning composed or performed as a memorial to a dead person. _Syn_ coronach, dirge, requiem, threnody  
 __landlocked country__ _n_ (landlocked state) A sovereign state that does not have territory connected to an ocean or whose coastlines lie on endorheic basins.  
+__languor__ _n_  
 __lard__  
 __largess__ _n_  
 __lariat__ _n_ :two::hammer:  
+__lassitude__ _n_  
 __last mile__ _n_  
 __latecomer__ _n_  
 __Latin cross__ _n_ A cross with a shorter horizontal bar intersecting a longer vertical bar above the midpoint.  
 __laud__ _v_  
 __laudatory__ _adj_ Giving praise.  
+__lavalava__ _n_ (lava-lava) The principal garment for both sexes in Polynesia, esp. in Samoa, consisting of a piece of printed cloth worn as a loincloth or skirt.  
 __lax__ _adj_ Loose or slack; not firm; not strict; negligent: _lax in enforcing the rules._  
 __leap year__ _n_ /liːp jɪər/  
 __least developed countries__ _n_ (LDCs)  
@@ -570,6 +589,7 @@ __ledger__ _n_ :two::hammer:
 __legion<sup>1</sup>__ _n_  
 __legion<sup>2</sup>__ _adj_ :dart: Constituting a large number; multitudinous: _Her admirers were legion._ _His mistakes were legion._  
 __leitmotif__ _n_ :mega: /ˈlaɪt moʊˌtif/ /LYTE-moh-teef/ A leitmotif is a dominant recurring theme—something (such as a melody, an idea, or a phrase) repeated many times throughout a book, story, opera, etc. _The overcoming of obstacles and a love of theater are the two leitmotifs of her autobiography._  
+__lenity__ _n_ Mercifulness as a consequence of being lenient or tolerant. _Syn_ lenience, mildness  
 __leprechaun__ _n_ :smiling_imp::mega: /ˈlɛp rəˌkɔn, -ˌkɒn/ _Irish folklore_ One of a race of elves that can reveal hidden treasure to those who catch them. :es: duende  
 __leviathan__ _n_  
 __lexical__ _adj_ /LEK-sih-kul/ To describe something as _lexical_ is to say that it is related to words or vocabulary.  
@@ -596,8 +616,8 @@ __limpid__ _adj_ :two: /LIM-pid/ _Limpid_ describes things that are perfectly tr
 __linchpin__ _n_ /LINCH-pin/  
 __linguine__ _n_ (linguini)  
 __lissom__ _adj_ Moving and bending with ease. _Syn_ lithe, lithesome, supple, sylphlike, svelte, slender  
-__listless__ _adj_ :two::hammer::mega: /ˈlɪst lɪs/  
-__lithe__ _adj_  
+__listless__ _adj_ :three::hammer::mega: /ˈlɪst lɪs/  
+__lithe__ _adj_ :two::hammer:  
 __livelihood__ _n_  
 __livid__ _adj_ :astonished::two: /LIV-id/ Livid means “very angry, enraged, or furious.” It may also describe things having a dark purplish or reddish color.  
 __lock stepping__  
@@ -636,6 +656,7 @@ __malapropism__ _n_ /MAL-uh-prah-piz-um/ A malapropism is an amusing error that 
 __malcontent__ _adj, n_  
 __malevolent__ _adj_ :smiling_imp: Wishing evil or harm to another or others.  
 __malfeasance__ _n_ :two::hammer:  
+__malign__ _vt_ :astonished: To make evil, harmful, and often untrue statements about (someone). Speak unfavorably about. _Syn_ badmouth, drag through the mud, traduce _He is always maligning his wife when she is not around, telling people what a bad spouse and mother she is._  
 __malleable__ _adj_ /MAL-ee-uh-bul/ Something described as malleable is capable of being stretched or bent into different shapes, or capable of being easily changed or influenced.  
 __mammoth__ _n_  
 __man__ _v_ _Man your ships!_  
@@ -722,7 +743,7 @@ __mollify__ _v_ To calm or soothe.
 __mope__ _v_  
 __moped__ _n_ :two::hammer:  
 __morose__ _adj_  
-__Mother Hubbard__ _n_ :two: A woman’s loose unbelted dress.  
+__Mother Hubbard__ _n_ :three: A woman’s loose unbelted dress. _Like all the natives she bathed in a Mother Hubbard._  
 __motley__ _adj, n_ /ˈmɒt li/  
 __Mounties__ _n_ _informal_ The federal police force of Canada. the formal term would be “Royal Canadian Mounted Police” or simply “RCMP.”  
 __mull<sup>1</sup>__ _vt_ /mŭl/ To think about extensively; ponder. __1__ __2__ To heat and spice (wine, for example).  
@@ -1111,6 +1132,7 @@ __retch<sup>1</sup>__ _vi_ To try to vomit.
 __retch<sup>2</sup>__ _vt_ To vomit.  
 __retching__ _n_ /ˈrɛtʃɪŋ/ A series of spasms; heaving. :es: esfuerzo por vomitar  
 __retention__ _n_  
+__retina__ _n_ /ˈrɛtɪnə/  
 __reveler__ _n_  
 __rhetoric__ _n_ :pencil2:  
 __rheumy__ _adj_ :mega: /ˈru mi/  
@@ -1145,6 +1167,7 @@ __ruthless__
 __sacrilege__ _n_ Desecration, profanation, misuse, or theft of something sacred. _Syn_ blasphemy, desecration, profanation  
 __sacrilegious__ _adj_ Grossly irreverent toward what is or is held to be sacred. _Syn_ blasphemous, profane  
 __salad bar__ _n_  
+__sallow__ _adj_ :four::hammer:  
 __saltation__ _n_ A light, self-propelled movement upwards or forwards. _Syn_ leaping, bounce, bound, spring _The kangaroo’s effortless saltation was balletic and graceful._  
 __sanctuary__ _n_ :mega: /ˈsæŋk tʃuˌɛr i/ /ˈsæŋktjʊərɪ/  
 __sanctum__ _n_ __2__ A room or place of total privacy or inviolability.  
@@ -1153,7 +1176,7 @@ __sanguineous__ _adj_ Relating to or involving blood or bloodshed. _Syn_ butcher
 __Santa Ana__ _n_ __2__ A strong dry hot wind blowing from the desert regions of southern California toward the Pacific coast, usually in winter.  
 __sarcophagus__ _n_ /sahr-KAH-fuh-gus/ Sarcophagus refers to a coffin, and specifically a stone coffin.  
 __satire__ _n_ :mega:  
-__saunter__ _vi_ :two: To walk at a leisurely pace; stroll.  
+__saunter__ _vi_ :dart::four: To walk at a leisurely pace; stroll.  
 __saying__ _n_  
 __scab__ _n_ :camera:  
 __scaffolding__  
@@ -1166,6 +1189,7 @@ __schadenfreude__ _n_ /SHAH-dun-froy-duh/ _Schadenfreude_ refers to a feeling of
 __schism__ _n_  
 __scoop__ _n_  
 __Scotch-tape__ _vt_ To fasten or mend with Scotch tape.  
+__scoundrel__ _n_  
 __scour<sup>1</sup>__ _vt_  
 __scour<sup>2</sup>__ _vi_  
 __scour<sup>3</sup>__ _n_  
@@ -1258,6 +1282,7 @@ __Slim Jimn__ _n_
 __slipcovers__ _n_  
 __slop__ _n_  
 __slough__ _v_ /SLUFF/ _Slough_ is a formal verb used for the action of getting rid of something unwanted. It is usually used with _off._ _Slough_ can also mean “to lose a dead layer of (skin)” or “to become shed or cast off.”  
+__slovenly__ _adj_  
 __slug__  
 __slugger__ _n_  
 __slushy<sup>1</sup>__ _n_ A brain freeze inducing, tongue staining frozen drink popular with children. They’re often sold at theme parks and games arcades.  
