@@ -1344,6 +1344,7 @@ __steroids__ _n_ :mega:
 __stewardship__ _n_  
 __stirrup pants__ _n_  
 __stoic__ _adj_ Indifferent to pleasure or pain; impassive.  
+__stone__ _n_ _She weighs twenty-one stones._  
 __stoops__  
 __stowage__  
 __straw boater__ _n_ :camera:  
@@ -1365,6 +1366,7 @@ __subtle__ _adj_
 __success story__ _n_  
 __sullen__ _adj_  
 __sultry__ _adj_ __1__ Oppressively hot and close or humid; sweltering: _a sultry day._ __2__ Oppressively hot; emitting great heat: _the sultry sun._ __3__ Characterized by or arousing passion: _sultry eyes._  
+__summerhouse__ _n_ :dart: A small, roofed structure in a park or garden affording shade and rest. :dart: _Syn_ gazebo  
 __Sun Belt__ _n_ The southern and southwest United States.  
 __superfluous__ _adj_ :two: /soo-PER-floo-us/ Superfluous is a formal word used to describe things that exceed what is necessary or sufficient, or that are simply not needed. Extra; unnecessary.  
 __sure-fire__ _adj_ Guaranteed to work or happen.  
@@ -1389,6 +1391,7 @@ __that much__ _adj_ To a certain degree. _I know that much._
 __thicket__ _n_ :es: matorral  
 __thirty-odd__ _n_ (30-odd) Being in excess of the indicated or approximate number, extent, or degree. Often used in combination: _invited 30-odd guests._  
 __thirtysomething__ _adj, n_  
+__thrift__ _n_  
 __thunderclap__ _n_  
 __tier__ _n_  
 __tiger shark__ _n_  
@@ -1397,6 +1400,8 @@ __timorous__ _adj_ Timid; fearful.
 __tin foil__  
 __tinder__ _n_ Readily combustible material, such as dry twigs, used to kindle fires. _Syn_ kindling, spunk, touchwood, punk  
 __tinker__ _v_  
+__tipsy__ _adj_  
+__titivate__ _v_ :astonished: To make decorative additions to; spruce up.  
 __to this day__  
 __token__ _adj_ _Token return fire._  
 __toolchain__ _n_  
@@ -1411,22 +1416,35 @@ __transfixed__
 __transitory__ _adj_ Short-lived; temporary.  
 __transmigrate__ _v_ Be born anew in another body after death. _Syn_ reincarnate  
 __transpire__ _v_ :astonished /tran-SPYRE/ _Transpire_ is a formal verb that means “to happen,” or in other words “to take place or occur.” It can also mean “to come to light” or “to become known,” as in “It transpired that they had met previously.” In botany, to transpire is to give off or exude watery vapor especially from the surfaces of leaves.  
+__travail__ _n_ /truh-VAIL/ Travail is a formal word, usually used in plural, that refers to a difficult experience or situation. _The book describes the political travails of the governor during her first year in office._  
 __trebling__ _n_ /ˈtrɛblɪŋ/ The act or an instance of making or becoming three times as much.  
+__triage__ _n_ /ˈtriːˌɑːʒ; ˌtriːˈɑːʒ; ˈtraɪ-/ __3__ A process in which things are ranked in terms of importance or priority.  
 __tricked-out__ _adj_ _Tricked-out car._  
+__trifle<sup>1</sup>__ _n_  
+__trifle<sup>2</sup>__ _v_  
 __triviality__ _n_ Something of small importance. _Syn_ small beer, trivia, trifle  
 __troop__ _n_  
+__troubled__ _adj_ _Troubled eyes._  
 __trounce__ _v_ Come out better in a competition, race, or conflict. _Syn_ beat, vanquish, crush, shell _Australia trounced France by sixty points to four._  
 __truckload__  
+__truculence__  
+__truculent__  
 __truncheon__ _n_  
+__tsunami__ _n_ :mute:[~~t~~sunami]  
 __tuft__ _n_ _Tail tuft._  
 __turd__ _n_  
 __turtle__ _n_ (_vs_ tortoise)  
 __turtleneck__ _n_  
 __tweed__ _n_ _Tweed jacket._  
 __tweezers__ _n pl_ _Flat tip conventional tweezers._  
+__Tyrol__ _n_ (Tirol)  
 __unalienable__ _adj_ (inalienable) Impossible to take away or give up.  
 __uncomely__ _adj_ Not good-looking or attractive.  
+__uncouth__ _adj_ /un-KOOTH/ _Uncouth_ describes things, such as language or behavior, that are impolite or socially unacceptable. A person may also be described as uncouth if they are behaving in a rude way.  
+__uncrewed__ _adj_ /ʌnˈkruːd/ Not having a crew; crewless: _an uncrewed missile launch._  
+__undertone__ _n_ __1__ A low or subdued tone: _to speak in undertones._  
 __undertow__ _n_ The seaward undercurrent created after waves have broken on the shore. _Syn_ sea purse, sea puss, sea-poose _The beachgoer was caught in the undertow and dragged out to sea._  
+__unfulfilled__ _adj_ __1__ Not completed or achieved: unfulfilled ambitions. __2__ Not having achieved one’s potential or desires.  
 __unseat__ _vt_  
 __unsporting__ _adj_ Not relating or conforming to sportsmanship; unfair.  
 __untoward__ _adj_ /un-TOH-erd/ _Untoward_ is a formal word that describes something that is improper or inappropriate, or that is adverse or unfavorable. _The medication is safe and effective, with no known untoward side effects._  
@@ -1442,12 +1460,13 @@ __uptime__ _n_
 __uvet__ _n_  
 __vagary__ _n_ _The vagaries of the market._  
 __vaunted__ _adj_ :dart: Praised more than deserved. _Vaunted Jedi Master Luke Skywalker._  
+__veranda__ _n_ :three::hammer:  
 __verdant__ _adj_ Green with vegetation; covered with green growth. _Syn_ green, lush  
 __verisimilar__ _adj_ :astonished::pencil2:  
 __verisimilitude__ _n_  
 __vermin__ _n pl_ :two::hammer::smiling_imp:  
 __vernal__ _adj_ /VER-nul/  
-__vet__ _v_  
+__vet__ _v_ :two::hammer:  
 __videophile__ _n_ :mega: One with an avid interest in watching television or videos or in making video recordings.  
 __vie__ _v_  
 __vindicated__ _adj_ Freed from blame.  
@@ -1458,7 +1477,7 @@ __wager<sup>1</sup>__ _n_ __1a__ An agreement under which each bettor pledges a 
 __wager<sup>2</sup>__ _vt_ To risk or stake (an amount or a possession) on an uncertain outcome; bet.  
 __wager<sup>3</sup>__ _vi_ To make a bet.  
 __waiver__ _n_  
-__wan__  
+__wan__ _adj_ :two::hammer:  
 __war room__ _n_  
 __war story__ _n_ A story of a memorable personal experience typically involving an element of danger, hardship, or adventure. _Politicians swapping war stories from past campaigns._  
 __warble__ _v_  
@@ -1467,7 +1486,7 @@ __warlord__ _n_ _Warlord Grand Admiral Thrawn._
 __washload__ _n_ A collection of laundry to be washed.  
 __watch cap__ _n_ :camera:  
 __watchdog__ _n_ :mega:  
-__waterboarding__ _n_ __1__ An interrogation technique, widely considered a form of torture, in which a person is restrained, usually by being strapped to a board with the feet higher than the head, and immersed in or doused with water to the point of drowning.  
+__waterboarding__ _n_ :two: __1__ An interrogation technique, widely considered a form of torture, in which a person is restrained, usually by being strapped to a board with the feet higher than the head, and immersed in or doused with water to the point of drowning.  
 __wend__ _v_ /WEND/ _Wend_ is a literary word that means “to move slowly from one place to another usually by a winding or indirect course”; wending is traveling or proceeding on one’s way in such a manner. _Hikers wend along the marked trails to the top of the mountain._  
 __whet__ _v_  
 __whetstone__ _n_  
@@ -1477,10 +1496,18 @@ __whimper__ _v_
 __whimsical__ _adj_ Determined by chance or impulse or whim rather than by necessity or reason. _Syn_ capricious, impulsive  
 __whimsy__ _n_ (whimsey)  
 __whirl__ _v_  
+__whitewash__ _vt_  
+__whole__ _adj, adv, n_  
 __wicker__ _n_ _Wicker baskets._  
 __wide-eyed__ _adj_ :dart: __2__ Innocent; credulous. _Luke was a wide-eyed kid._  
+__wind vane__ _n_ Mechanical device attached to an elevated structure; rotates freely to show the direction of the wind. _Syn_ vane, weather vane, weathervane  
+__windshear__ _n_  
+__wistful__ _adj_  
+__wizened__ _adj_  
 __woodchips__ _n pl_ _Olive tree woodchips._  
+__world-class__ _adj_  
 __wrangle__ _v_  
+__wrinkle__ _n, v_  
 __xenotransplantation__ _n_  
 __yak__ _vi_ To talk persistently and meaninglessly; chatter.  
 __yarn__ _n_ :camera:  
