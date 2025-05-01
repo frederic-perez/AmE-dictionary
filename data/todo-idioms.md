@@ -26,6 +26,7 @@ __(stuck) in a rut__
 __(the good) Lord willing and the creek don’t rise__ _rural_ If all goes as it should; if everything goes well. _We’ve had a lot of delays, but Lord willing and the creek don’t rise, we should have the house finished before winter._  
 __(the) next thing (one) knows__ :two: (next thing you know)  
 __(the) top of the line__ The absolute best of a certain thing, often referring to a product that is of the utmost quality (and usually the most expensive). When used as a noun, it is preceded by “the.” _That store only sells top of the line gear. You may want to consider some lower-priced options._  
+__(there’s) no comparison__ This person or thing is clearly and inarguably better than any other. _This place serves the best pizza in town—no comparison!_  
 __(with) kind regards__ A common, semi-formal valediction used at the end of a letter or other written message to express well wishes to the recipient. _Please send a financial report for your company for the previous year at your earliest convenience. With kind regards, Alex Goodman._  
 __a (good) run for your money__ (a run for your money, a run for one’s money)  
 __a (whole) host of (something)__  
@@ -80,6 +81,7 @@ __ace__
 __act of faith__  
 __against all odds__  
 __ahead of the curve__ :three::hammer:  
+__all and sundry__ :two::hammer:  
 __all eyes are on (someone or something)__ Everyone is paying close attention to someone or something.  
 __all in all__  
 __all in__  
@@ -88,7 +90,7 @@ __all the better__ Even better.
 __all the more reason for (doing something)__ (all the more reason to (do something)) What has just been stated is an added reason or motivation to do something. With even better reason or cause for doing something. _If your crush likes basketball, that’s all the more reason for coming with me to the game tonight!_  
 __all the same__  
 __all things being equal__ :two: (other things being equal) In the event that all aspects of a situation remain the same.  
-__all told__ In total. This phrase can be applied to numerical sums or to the collective aspects of something. _I made a lot in tips this week—$300 all told._ _Yeah, it rained a lot during our vacation, but all told we had a great time._  
+__all told__ :two: In total. This phrase can be applied to numerical sums or to the collective aspects of something. _I made a lot in tips this week—$300 all told._ _Yeah, it rained a lot during our vacation, but all told we had a great time._  
 __all too easy__  
 __all too soon__ The idiom “all too soon” means that something happened much earlier than expected or desired, often with a sense of regret or disappointment. It conveys the idea that an event occurred prematurely or that a positive experience ended quickly. “The holidays were over all too soon,” implies that the speaker wished the holidays had lasted longer. “Graduation came all too soon,” suggests that the speaker felt unprepared for the end of their schooling.  
 __and everything in between__ The idiom “and everything in between” refers to the entire range or spectrum of things, situations, or possibilities that fall between two extremes. It’s used to express inclusivity of a broad variety of elements within a certain category or context.  
@@ -100,6 +102,7 @@ __as of yet__
 __as we know it__ As it is now or has been for a long time; as we currently experience it.  
 __at bay__  
 __at one’s peril__ _somewhat formal_ Used to say that if one does something there could be bad consequences. _Restaurants that ignore the smoking ban do so at their peril._  
+__at peace__ _Feel at peace._  
 __at the helm__  
 __attaboy__  
 __back to the salt mines__ :dart:  
@@ -107,6 +110,7 @@ __Backhanded compliment__ A remark that appears to be a compliment but also cont
 __be a cakewalk__  
 __be a good sport__  
 __be hard on (one)__  
+__be little love lost between (two people)__ Of two people, to dislike one another very much. _There’s little love lost between Sarah and my roommate, so it’ll be a little awkward now that Sarah and I are dating._  
 __be more trouble than it’s worth__ To not be important, useful, or beneficial enough to justify the effort or difficulty that something requires. _With all the repairs this car will need to be road-worthy, it’s going to be more trouble than it’s worth!_  
 __be my guest__  
 __be ripe for the picking__ To be in an ideal position or at the perfect stage to be utilized, benefited or profited from, taken advantage of, exploited, etc. (Alludes to fruit being at the right stage to be harvested.)  
@@ -119,6 +123,7 @@ __belly up__ Dad.
 __big ass (something)__ A slang term for referring to something large. _Yo bernie, are you plannin’ a big ass party?_  
 __big name__  
 __black eye__  
+__blind drunk__ _slang_ Very drunk.  
 __blow smoke__ :smiling_imp: __3__ To intentionally mislead.  
 __bomb(shell)__ A stunning piece of news that is dropped without warning.  
 __booger__  
@@ -134,7 +139,7 @@ __bring about__
 __Bronx cheer__ (US, idiomatic) Synonym of raspberry (“a sound intended to resemble flatulence made by blowing air out of the mouth while the tongue is protruding from and pressed against the lips, used humorously or to express disdain or scorn”).  
 __bubble up__  
 __bump-drafting__  
-__bunkum__ (buncombe) Nonsense or foolishness. _His explanation is total bunkum and doesn’t answer the question at all._  
+__bunkum__ :two: (buncombe) Nonsense or foolishness. _His explanation is total bunkum and doesn’t answer the question at all._  
 __bury the hatchet__  
 __Busman’s holidays__ _informal_ A vacation during which one engages in activity that is similar to one’s usual work.  
 __by all accounts__  
@@ -148,7 +153,7 @@ __case in point__
 __catch (the) headlines__ To be featured on the headlines of news articles, as due to being particularly important, popular, fashionable, etc. _It may not be so tremendous as to catch the headlines, but this small change in immigration law could have a huge impact on foreign workers._  
 __catch a break__  
 __catch up with (someone)__  
-__change of heart__  
+__change of heart__ :three: A reversal of one’s opinion, attitude, or feelings.  
 __change tack__ To employ a different method or approach in addressing a particular situation. _They have not been receptive to our offers thus far, so we need to change tack._  
 __checks and balances__ :dart: Rules within a power structure that keep one person or section from becoming excessively powerful. _The founders created three separate branches of government to act as a system of checks and balances._  
 __chew on this bone__  
@@ -210,7 +215,7 @@ __double down__ :three::hammer:
 __double duty__  
 __double whammy__ A situation in which two negative things happen at the same time or in rapid succession. _Jack suffered a double whammy when his car broke down the same day he lost his job._  
 __down the line__ :two: In the future.  
-__down the road__  
+__down the road__ :two::hammer:  
 __down the toilet__  
 __downer__ :es: tranquilizante  
 __doze off__  
@@ -222,6 +227,7 @@ __draw to a close__
 __draw water__  
 __dreamboat__ A very attractive or appealing person.  
 __dress like a peacock__  
+__dressed to the nines__ (dress to the nines)  
 __dribs and drabs__  
 __drop a bombshell__ :two: To reveal something that is very surprising or unexpected.  
 __drop dead__  
@@ -298,6 +304,7 @@ __give (one) a run for its money__
 __give (someone) some slack__ To make an allowance for (someone), as in allowing more time to finish something.  
 __give (someone) the cold shoulder__  
 __give someone or something away__ To reveal a secret about someone or something. _I thought no one knew where I was, but my loud breathing gave me away._ _We know that Billy ate the cherry pie. The cherry juice on his shirt gave him away._  
+__give the glad eye__ To look at someone in a way that conveys one’s sexual interest. A noun or pronoun can be used between “give” and “the.” Primarily heard in UK, Australia. _That cute guy is definitely giving you the glad eye—you should go talk to him!_  
 __gloat over (something)__ :smiling_imp: To feel self-righteously pleased about something (often something unpleasant that has happened to someone else).  
 __go ballistic__  
 __go berserk__  
@@ -315,6 +322,7 @@ __have (one’s) druthers__ To have one’s choice or preference; to have things
 __have more arrows in the/(one’s) quiver__ To have several available options or alternatives at one’s disposal.  
 __have more arrows left in the quiver__ To have several available options or alternatives remaining at one’s disposal, particularly if an earlier action did not yield the desired results. _This is just the first step in trying to bring her fever down. Don’t worry, I have more arrows left in the quiver if the ibuprofen doesn’t help._  
 __have more than one string to (one’s) bow__ To have multiple viable options or alternatives available in the event that the current course of action, circumstance, opportunity, etc., does not work out. _With all this varied job experience under my belt, I have more than one string to my bow if this particular career path isn’t to my liking._  
+__have nine lives__ To endure, continue, or survive despite a near encounter with death or disaster. From the common myth that cats have nine lives. _I can’t believe he survived after his bungee cord snapped! He must have nine lives or something._  
 __have the mouth of a sailor__ To have a tendency to use profanities or vulgar language very freely or frequently. (An allusion to the rough language presumed to be used by navy personnel.)  
 __have the nerve (to do something)__  
 __heavyweight__ __4__ _adj, slang_ Very important.  
@@ -663,9 +671,11 @@ __nice guy__ A teenaged or adult male who is dependably friendly and compassiona
 __nice to hav__  
 __no accident__ Something done deliberately. _It is no accident that the assistant he hired is so good-looking._  
 __no big deal__ :two::hammer:  
+__no cover__ No additional cost for entry or entertainment (called a cover charge), as at a bar, club, or restaurant.  
 __no frills__  
 __no hard feelings__ :es: sin rencores  
 __no picnic__ Not an easy task; unenjoyable or challenging.  
+__no pressure__ Said ironically to emphasize that what is being discussed carries a large amount of importance or makes one feel that one must try very hard to succeed.  
 __no question about it__  
 __no-show__  
 __nom nom nom__ (om nom nom nom)  
@@ -673,6 +683,7 @@ __normie__ (slang, usually derogatory, sometimes Internet) A normal person; one 
 __north star__ Something or someone that serves as a guiding principle, source of direction, or inspiration in one’s life.  
 __not a chance__ (There is) no possibility (that that will happen).  
 __not a snowball’s chance in hell__ Not any possibility, chance, or likelihood whatsoever. _There isn’t a snowball’s chance in hell that he would win an election in this part of the state._  
+__not any hard feelings__ No ill will; no resentment or anger. _I’m sorry that things ended this way, but I hope there aren’t any hard feelings._  
 __not be lost on (someone)__ To have a significant or noticeable impact or effect on someone; to be valued, appreciated, or understood by someone. _I assure you, Senator, the implications and possible consequences of the proposed law have not been lost on me._ _I hope all our efforts to help your career have not been lost on you, John._  
 __not by a long shot__  
 __not in a million years__ :two: Not at any point; under absolutely no circumstances.  
@@ -732,6 +743,7 @@ __on a shoestring__
 __on cloud nine__  
 __on the face of it__  
 __on the fence__  
+__on the gravy train__  
 __on the lookout for__ :two: Looking or searching for (something or someone). _An avid shopper, she was always on the lookout for sales._ _The police are on the lookout for two men who escaped from custody yesterday._  
 __on the lookout__ :three: Watching for something or someone. _We need someone on the lookout for the police while we work on the lock._  
 __on the move__  
@@ -768,6 +780,7 @@ __over the finish line__ :three: To a state of completion or fulfillment, as at 
 __owing to__ Because of; as a result of; due to _Owing to construction on the highway, please anticipate higher levels of traffic than usual._  
 __paint the town__  
 __pan out__ :dart: __1__ To conclude in a successful or pleasing manner; to work out. _I’m delighted with how that all panned out!_ __2__ To rest or fall asleep, especially in a sprawling or prostrate position. _Tom is panned out on the sofa, if you’re looking for him._  
+__panic attack__  
 __paper tiger__  
 __parting words__  
 __pat on the back__ (pat (one) on the back) Praise given to a person for an achievement or a job well done. _Treating his daughter to ice cream was Joe’s way of giving patting her on the back after she won first place in the science fair._  
@@ -795,6 +808,7 @@ __potshot__ A sharp criticism; a wild shot of criticism. (Usually with _take_.) 
 __pour cold water on (something)__  
 __pour fuel on the fire__  
 __pour gas/gasoline on the fire__  
+__power couple__ A couple both of whom have high-powered careers or are politically influential.  
 __power dynamics__  
 __power move__ A strategic action or decision made by an individual or group to assert dominance, control, or influence in a situation. It often implies a calculated maneuver intended to demonstrate strength, authority, or superiority, particularly in competitive environments such as business, politics, or social interactions.  
 __power play__  
@@ -810,6 +824,7 @@ __push the envelope__ To expand on, exceed, or test the limits of the establishe
 __put (one’s) money where (one’s) mouth is__ To do, live up to, or follow through on something one talks about, threatens, or promises, especially (but not always) when it involves spending money.  
 __put (someone) through the wringer__  
 __put in the grind__ The idiom “put in the grind” refers to the act of working hard and consistently, often over a long period, to achieve a goal or complete a task. It emphasizes dedication, effort, and perseverance, especially in challenging or tedious situations. This phrase is commonly used in contexts such as studying, training, or working on a project where sustained effort is required to see results.  
+__put on airs__ To think or behave as though one is superior to others or better than one really is; to have or assume a pretentious or self-aggrandizing attitude.  
 __put on the brakes__  
 __put the brakes on (someone or something)__  
 __put the jinx on (something or someone)__ To invoke a curse upon someone or something that brings bad luck or failure.  
@@ -839,6 +854,7 @@ __salt mines__ (back to the salt mines)
 __says who__  
 __scramble for (something)__  
 __scratch the surface (of something)__ To do, engage with, or understand something to only a minimal or superficial degree.  
+__second thoughts__ Doubts, reconsiderations, or hesitations about a previous decision or commitment.  
 __see (something) through__ To continue working on or engaging in something until it is completed or concluded.  
 __see eye to eye__ To agree (with someone); to share the same position or opinion (as someone else). _His mother and I don’t see eye to eye about his decision to drop out of college._  
 __seethe with something__ [for someone] To be agitated with anger, hatred, scorn, disgust, etc. _Laura was seething with rage as she entered the tax office._  
@@ -1010,6 +1026,7 @@ __swap out__ To replace or exchange someone or something with another person or 
 __swashbuckle__ _vi_  
 __swat__ _slang_ To contact emergency services, such as the police, with a fraudulent report of an emergency so that they respond in large numbers to a certain location, often done as a prank. The name refers to SWAT (“Special Weapons and Tactics”) teams, specialized police units that respond to especially dangerous situations. _Kids keep swatting celebrities’ houses, and police are coming down hard when they catch the person who did it._  
 __swatting__ _slang_ The act of contacting emergency services, such as the police, with a fraudulent report of an emergency so that they respond in large numbers to a certain location, often done as a prank. The name refers to SWAT (“Special Weapons and Tactics”) teams, specialized police units that respond to especially dangerous situations. _Swatting is much more dangerous than a simple prank—it diverts first responders who may be needed elsewhere._  
+__swear by (someone or something)__  
 __sweep (something) under the carpet__ __(sweep (something) under the rug)__  
 __sweet sixteen__  
 __swept the board__  
@@ -1024,6 +1041,7 @@ __take (one’s) pick__
 __take (one) up on (something)__ To agree to an offer one has made, especially one made at an earlier point in time. _I’m coming to town this weekend, so can I take you up on that spare bedroom you’ve offered me in the past?_  
 __take a crack at (something)__ To attempt (to do) something; to take a turn trying (to do) something. _Well, I haven’t fixed a motor in nearly 10 years, but I’ll certainly take a crack at it._  
 __take a deep breath__  
+__take a hand in the matter__  
 __take a load off (one’s feet)__ To sit down and rest one’s feet; to relax. (Usually said as a suggestion.) _Why don’t you go take a load off for a while, and I’ll fix dinner for tonight?_  
 __take a shot (at someone or something)__  
 __take center stage__ :two::hammer:  
@@ -1037,6 +1055,7 @@ __take issue__ To strongly disagree with or take offense at something.
 __take lightly__ (take (something) lightly)  
 __take matters into (one”s) own hands__  
 __take no notice of (something or someone)__  
+__take office__  
 __take on trust__  
 __take pot luck__ (take potluck)  
 __take potshots at (someone)__ A sharp criticism; a wild shot of criticism. _Please stop taking potshots at me!_  
@@ -1073,6 +1092,8 @@ __the likes of__
 __the lowdown__ Important information or facts about something. _He gave me the lowdown about the company’s vice president._ _Reporters are trying to get the lowdown on what caused the accident._  
 __the march of time__ The steady, unstoppable advancement of time.  
 __the meat of the matter__ The most important, basic, or fundamental essence or element(s) of an issue, problem, or matter at hand. _Thank you all for attending this staff meeting. Before we get to the meat of the matter, I’d like to assure each of you that your job is secure._  
+__the night is young__ Said when one believes that there is still a lot of time (to do something) because it is not very late at night.  
+__the Nikon choir__ The paparazzi or a large group of photojournalists, especially when actively engaged in photographing someone or something of great interest. (Refers to the Nikon brand of camera.) _As soon as the starlet walked out onto the red carpet, the Nikon choir swelled to a nearly deafening volume._  
 __the short end of the stick__  
 __the story goes (that)__  
 __there is (a) method to (one’s) madness__ There is a specific, rational purpose in what one is doing or planning, even though it may seem crazy or absurd to another person. _I know you don’t understand my motivation for this decision, but after the dust settles, you’ll see that there is a method to my madness._  
@@ -1098,10 +1119,12 @@ __toe-to-toe__
 __top notch__ The absolute best. (Hyphenated before a nominal.)  
 __train on (someone or something)__ _The blaster was trained on the door._  
 __trap__ __1__ _slang_ One’s mouth. _Keep your trap shut._  
+__triple down__ An augmentation of _double down._  
 __try and help__ The phrase “try and help” means to make an effort to assist someone or to offer support in a particular situation. It implies a willingness to provide aid, even if the outcome is uncertain. The phrase can suggest that the person is not only willing to help but is also actively attempting to do so, regardless of whether they are guaranteed to succeed. It is often used in informal contexts.  
 __turn on a dime__  
 __turn the page__  
 __turn the tables__ To change or reverse something dramatically.  
+__two birds with one stone__  
 __uncharted territory__  
 __under the table__ :smiling-imp:  
 __unvarnished truth__ The total, unadulterated truth; frank honesty not diluted or softened in any way by omission or embellishment.  
@@ -1118,7 +1141,9 @@ __war chest__
 __warhorse__ ((old) warhorse) __1__ A veteran of some activity or profession (not necessarily the military) who has a wealth of experience going through various trials and tribulations. _I know she’s a little eccentric, but Janet is a warhorse in this firm—she’s been through more trying court cases than anyone else here._  
 __warts and all__ _slang_ All defects and imperfections notwithstanding: _They love each other, warts and all._  
 __water under the bridge__  
+__wax and wane__ :two: To alternatingly increase (wax) and decrease (wane). _Willy DeVille’s commercial success waxed and waned over the years._  
 __wean off (of) (something)__  
+__wear and tear__ Normal deterioration and minor damage from frequent use.  
 __weasel__ :smiling_imp: __1__ _n_ Someone who is sneaky, devious, or deceitful.  
 __weather the storm__ To endure a period of hardship or disorder. To experience something and survive it. _That was the hardest year of my life, but in the end I was able to weather the storm with the support of my family._  
 __wee hours__  
@@ -1154,6 +1179,7 @@ __work (one0146s) butt off__ To work really hard (on or at something). _I know y
 __worry (something) out of (someone or something)__  
 __worst-case scenario__ The worst possible thing that could happen.  
 __worth (one’s) while__ Beneficial and not a waste of one’s time.  
+__wrap up__ __2__ To complete something, such as a task; to put the finishing touches on something.  
 __yada, yada__ _Don’t yadda, yadda the Lord. It’s disrespectful._  
 __yellow__  
 __you have to be cruel to be kind__  
