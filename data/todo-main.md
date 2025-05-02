@@ -20,6 +20,7 @@ __aluminum__ _n_ /əˈlu mə nəm/ (BrE aluminium)
 __ancillary__ _adj, n_ :two::hammer:  
 __antihistamine__ _n_  
 __apparatchik__ _n_ /ah-puh-RAH-chik/ :dart: _Apparatchik_ is used disapprovingly to refer to a blindly devoted official, follower, or member of an organization, such as a corporation or political party.  
+__appositeness__ _n_ Appropriateness for the occasion. _Syn_ aptness  
 __apprehension__ _n_ :dart::pencil2:  
 __aquaculture__ _n_  
 __archetype__ _n_ /AHR-kih-type/ _Archetype_ refers to someone or something that is seen to be a perfect example. It is also a word for the original pattern or model of which all things of the same type are representations or copies.  
@@ -73,6 +74,7 @@ __canonicals__ _n pl_ The vestments worn by clergy when officiating. _A bishop i
 __carcass__ _n_  
 __cavort__ _v_ Play boisterously. _Syn_ frisk, frolic, gambol, lark, rollick, romp, run around, skylark, sport, disport _The children cavorted in the water, splashing and ducking each other._  
 __ceilometer__ _n_ A photoelectric instrument for ascertaining cloud heights.  
+__chaff__ _n_ :two::hammer:  
 __chaff<sup>1</sup>__ _v_ :two::hammer:  
 __chaff<sup>2</sup>__ _n_ Good-natured teasing; banter.  
 __chandler__ _n_ :two::hammer:  
@@ -85,6 +87,7 @@ __coleslaw__ _n_
 __collaborate__ _v_ /kuh-LAB-uh-rayt/  
 __collate__ _vt_ :astonished: __1__ To examine and compare carefully in order to note points of disagreement.  
 __collected__ _adj_  
+__collier__ _n_ __1__ A ship for carrying coal. __2__ A coal miner.  
 __colorful__ _adj_ :astonished:  
 __colossal squid__ _n_  
 __combine harvester__ _n_ A machine that simultaneously cuts, threshes, and cleans a standing crop of grain.  
@@ -107,7 +110,9 @@ __contractor__ _n_
 __conundrum__ _n_  
 __convene__ _v_  
 __conviction__ _adj_ A fixed or strong belief.  
+__convoluted__ _adj_ /KAHN-vuh-loo-tud/ Something described as convoluted is very complicated and difficult to understand, or has many curves and turns.  
 __cooking pot__ _n_ Any vessel (such as a saucepan), with or without a lid, used to cook food.  
+__copra__ _n_ :two: The dried white flesh of the coconut from which coconut oil is extracted.  
 __cordon__ _n_ __1__ A line of people, military posts, or ships stationed around an area to enclose or guard it: _a police cordon._ _The landing field cordon won’t stop a Jedi._  
 __coriander__ _n_  
 __corn__ _n_ :mega:  
@@ -149,6 +154,7 @@ __dacha__ _n_ A Russian country house or villa.
 __dainty__ _adj, n_ :two::hammer:  
 __damage__ _n_ /ˈdæm ɪdʒ/  
 __damning__ _adj_ /ˈdæmɪŋ/ (of evidence or a report) Suggesting very strongly that someone is guilty of a crime or has made a serious mistake.  
+__dander__ _n informal_ Temper or anger: _What got their dander up?_  
 __daunting__ _adj_ Causing fear or discouragement; intimidating.  
 __dawdle__ _v_  
 __de rigueur__ _adj_ /duh-ree-GUR/ _De rigueur_ is a formal adjective that describes things that are necessary if you want to be fashionable, popular, socially acceptable, etc.—in other words, things required by fashion, etiquette, or custom.  
@@ -169,6 +175,8 @@ __diaper<sup>2</sup>__ _vt_ __1__ To put a diaper on. __2__ To weave or decorate
 __didactics__ _n_ The activities of educating or instructing; activities that impart knowledge or skill. _Syn_ education, instruction, pedagogy, teaching  
 __diffident__  
 __digital twin__ _n_  
+__dilatoriness__ _n_  
+__dilatory__ _adj_  
 __diligent__ _adj_ Marked by painstaking effort; hard-working.  
 __dingy__ _adj_  
 __diorama__ _n_  
@@ -193,6 +201,7 @@ __dreadlocks__
 __dreadnought__ _n_  
 __dreamlike__ _adj_ :es: de ensueño, como de sueño  
 __dribble__ _v_ __2a__ To move (a ball or puck) by repeated light bounces or kicks, as in basketball or soccer.  
+__drip__ _n_ __5__ _Medicine_ __a__ The usually intravenous drop-by-drop administration of a therapeutic solution, as of salt or sugar. _The IV drips._ __b__ The solution administered. __c__ The equipment used to administer a solution in this way.  
 __drive-by<sup>1</sup>__ _adj_ /ˈdraɪvˌbaɪ/  
 __drive-by<sup>2</sup>__ _n_  
 __drizzle__  
@@ -202,6 +211,8 @@ __duck<sup>1</sup>__ _n_
 __duck<sup>2</sup>__ _vt_ __3__ To push (a person, for example) suddenly under water.  
 __duck<sup>3</sup>__ _vi_  
 __duckboard__ _n_ :camera:  
+__ducks__ _n pl_ clothing made of duck (a durable, closely woven heavy cotton or linen fabric), esp white trousers for sports.  
+__due process__ _n_ _Syn_ equity, justice  
 __eclectic__ _adj_ Made up of a variety of sources or styles.  
 __ecstatic__ _adj_ /ek-STAT-ik/ Someone described as ecstatic is very happy or excited; the person feels or shows ecstasy—that is, rapturous delight.  
 __edgeways__  
@@ -284,6 +295,7 @@ __feud<sup>1</sup>__ _n_ :two::hammer: /fjuːd/ __1__ Long and bitter hostility 
 __fiasco__ _n_ :dart: A complete failure, esp one that is ignominious or humiliating.  
 __fib__ _n, vi_  
 __fiendish__ _adj_  
+__fiery__ _adj_ /ˈfaɪərɪ/ __4a__ Easily excited or emotionally volatile; tempestuous: _a fiery temper._ __b__ Charged with emotion; spirited: a fiery denunciation.  
 __filibuster__ _n_  
 __finagling__ _n_ :smiling_imp: /fɪˈneɪɡlɪŋ/ The use of trickery or craftiness to achieve one’s aims.  
 __finesse__ _v_ /fuh-NESS/ To finesse something is to bring it about, direct it, or manage it by skillful maneuvering. _We managed to finesse a favorable deal on some Beatles LPs at the flea market through subtle bargaining._  
@@ -359,7 +371,7 @@ __funnel__ _v_ :dart: __6__ :dart: To concentrate or focus or be concentrated or
 __furtive__ _adj_ /FER-tiv/  
 __futile__ _adj_ /ˈfyut l, ˈfyu taɪl/  
 __galoshes__  
-__galvanize__ _vt_  
+__galvanize__ _vt_ :dart::two: To stimulate to action. :dart: _Syn_ startle _The appeal has galvanized them into taking positive action._  
 __gape__  
 __garble__ _v_ /GAR-bul/ To garble something, such as a word, name, message, etc., is to cause it to be unclear or distorted. This type of garbling can be the result of an accident, ignorance, or a transmission error. Garble can also mean “to so alter or distort as to create a wrong impression or change the meaning.”  
 __gawk__  
@@ -388,6 +400,7 @@ __grisly__ _adj_
 __gritty__ _adj_  
 __groundless__ _adj_ _His fears proved groundless._  
 __grove__ _n_  
+__gruff__ _adj_ /grʌf/ __1__ (of a voice, bark, etc) Low and throaty. Low and harsh; hoarse: _a gruff voice._ :es: (voz) ronca __2__ Rough, brusque, or surly: _a gruff manner._  
 __grunt__ _v_ _Quiet, please. The (tennis) players are about to begin grunting._ _That’s my grunting tennis coach [a pig]._  
 __guesswork__ _n_  
 __gum tree__ _n_ (eucalyptus tree)  
@@ -445,6 +458,7 @@ __impish__ _adj_ :es: pícaro, travieso
 __importunate__ _adj_ :astonished: Troublesomely urgent or persistent in requesting; pressingly entreating: _an importunate job seeker._  
 __impresario__ _n_ /im-pruh-SAHR-ee-oh/ An impresario is a person who manages, puts on, or sponsors a performance or other entertainment, such as a concert, play, or sporting event.  
 __imprimatur__ _n_ Formal and explicit approval. _Syn_ countenance, endorsement, sanction, warrant  
+__impudent__ _adj_ :es: insolente, descarado  
 __in-house__  
 __inane__  
 __inanely__  
@@ -473,7 +487,7 @@ __innovative__ _adj_ Introducing something new.
 __inordinate__ _adj_  
 __inscrutable__ _adj_ :dart::astonished:  
 __insidious__  
-__insouciance__ _n_ :dart: Blithe lack of concern; nonchalance. The quality of being insouciant; lack of care or concern. :es: despreocupación  
+__insouciance__ _n_ :dart::two: Blithe lack of concern; nonchalance. The quality of being insouciant; lack of care or concern. _Insouciance_ is a formal word that refers to a feeling of carefree unconcern. It can also be understood as a word for the relaxed and calm state of a person who is not worried about anything. _The young actor charmed interviewers with his easy smile and devil-may-care insouciance._ :es: despreocupación  
 __interfere__ _v_  
 __interpenetrate__ _v_ Spread or diffuse through. _Syn_ imbue, permeate, pervade, diffuse, riddle, penetrate  
 __interreign__ _n_ An interregnum.  
@@ -570,7 +584,7 @@ __lair__ _n_
 __lambent__ _adj_ :two::hammer:  
 __lament__ _n_ A song or hymn of mourning composed or performed as a memorial to a dead person. _Syn_ coronach, dirge, requiem, threnody  
 __landlocked country__ _n_ (landlocked state) A sovereign state that does not have territory connected to an ocean or whose coastlines lie on endorheic basins.  
-__languor__ _n_  
+__languor__ _n_ :three::hammer: :es: languidez  
 __lard__  
 __largess__ _n_  
 __lariat__ _n_ :two::hammer:  
@@ -583,6 +597,7 @@ __laudatory__ _adj_ Giving praise.
 __lavalava__ _n_ (lava-lava) The principal garment for both sexes in Polynesia, esp. in Samoa, consisting of a piece of printed cloth worn as a loincloth or skirt.  
 __lax__ _adj_ Loose or slack; not firm; not strict; negligent: _lax in enforcing the rules._  
 __leap year__ _n_ /liːp jɪər/  
+__leapfrog__ _v_  
 __least developed countries__ _n_ (LDCs)  
 __Leavenworth__ _n_ A city in NE Kansas: site of federal prison.  
 __ledger__ _n_ :two::hammer:  
@@ -732,6 +747,7 @@ __mince__ _v_
 __Mini-Me__ _n_ _chiefly humorous_ A person who is a miniature, but otherwise identical, version of a particular person.  
 __miniscule__ _adj_ :astonished:  
 __minuscule__ _adj_ /-uh-skyool/ __1__ Something described as minuscule is very small. _The number of bugs in the latest version of the video game is minuscule compared to the number that surfaced in the beta version._ __2__ _Minuscule_ can also mean “written in, or in the size or style of, lowercase letters,” in which case it can be contrasted with majuscular. _The ancient manuscripts on display are all in minuscule script._  
+__mirth__ _n_ :dart: Gladness and merriment, especially when expressed by laughter. :es: alegría, júbilo; risas  
 __misbehave__ _v_ Behave badly. _Syn_ misconduct, misdemean  
 __miserly__ _adj_ (Used of persons or behavior) Characterized by or indicative of lack of generosity. _Syn_ mingy, tight, mean  
 __mishap__  
@@ -740,12 +756,14 @@ __mix tape__
 __moka pot__ _n_  
 __mold__ _n_  
 __mollify__ _v_ To calm or soothe.  
+__moonshine__ _n_ Whiskey illegally distilled from a corn mash. _Syn_ bootleg, corn liquor _I drank too much moonshine last night, and now I have a terrible hangover._  
 __mope__ _v_  
 __moped__ _n_ :two::hammer:  
 __morose__ _adj_  
 __Mother Hubbard__ _n_ :three: A woman’s loose unbelted dress. _Like all the natives she bathed in a Mother Hubbard._  
 __motley__ _adj, n_ /ˈmɒt li/  
 __Mounties__ _n_ _informal_ The federal police force of Canada. the formal term would be “Royal Canadian Mounted Police” or simply “RCMP.”  
+__muck__ _n_ :three: __5__ _slang chiefly Brit_ Rubbish.  
 __mull<sup>1</sup>__ _vt_ /mŭl/ To think about extensively; ponder. __1__ __2__ To heat and spice (wine, for example).  
 __mull<sup>2</sup>__ _vi_ /mŭl/ To ruminate; ponder: _mull over a plan._  
 __mulled wine__ _n_ Wine heated with sugar and spices and often citrus fruit.  
@@ -866,7 +884,9 @@ __pecking order__
 __pedestal__ _n_  
 __penchant__ _n_ /PEN-chunt/ _Penchant_ refers to a strong liking for something, or a strong tendency to behave in a certain way. It is usually used with for. _My penchant for mathematics helped me become an engineer._  
 __penitent__ _adj_ Expressing remorse for one’s misdeeds.  
+__penny-wise__ _adj_ Careful in dealing with small sums of money or small matters.  
 __pensive__ _adj_ Deeply or seriously thoughtful. _Syn_ contemplative, meditative, musing, pondering, reflective, ruminative, brooding, broody  
+__pentagon__ _n_ :mega: /ˈpɛn təˌgɒn/  
 __peppermint__ _n_ __1__ Herb with downy leaves and small purple or white flowers that yields a pungent oil used as a flavoring. :es: menta __2__ Red gum tree of Tasmania. __3__ a candy flavored with peppermint oil. _Syn_ peppermint candy  
 __peptic ulcer__ _n_ An erosion of the mucous membrane of the lower esophagus, stomach, or duodenum, caused in part by the corrosive action of the gastric juice.  
 __peradventure__ _n_ Chance, doubt, or uncertainty.  
@@ -1168,6 +1188,7 @@ __sacrilege__ _n_ Desecration, profanation, misuse, or theft of something sacred
 __sacrilegious__ _adj_ Grossly irreverent toward what is or is held to be sacred. _Syn_ blasphemous, profane  
 __salad bar__ _n_  
 __sallow__ _adj_ :four::hammer:  
+__sally__ _n_ __4__ A sudden quick witticism; a quip. _They were laughing at his sallies._  
 __saltation__ _n_ A light, self-propelled movement upwards or forwards. _Syn_ leaping, bounce, bound, spring _The kangaroo’s effortless saltation was balletic and graceful._  
 __sanctuary__ _n_ :mega: /ˈsæŋk tʃuˌɛr i/ /ˈsæŋktjʊərɪ/  
 __sanctum__ _n_ __2__ A room or place of total privacy or inviolability.  
@@ -1347,6 +1368,7 @@ __stoic__ _adj_ Indifferent to pleasure or pain; impassive.
 __stone__ _n_ _She weighs twenty-one stones._  
 __stoops__  
 __stowage__  
+__stranglehold__ _n_ __1__ An illegal wrestling hold by which an opponent’s breath is choked off. __2__ Any force or influence that restricts free actions or development.  
 __straw boater__ _n_ :camera:  
 __stray__ _vi_  
 __streamline__ _vt_ :dart::two::hammer:  
@@ -1457,6 +1479,7 @@ __upfold__ _vt_ To fold up.
 __upkeep__ _n_ :dart:  
 __uptake__ _n_  
 __uptime__ _n_  
+__use-by date__ _n_ :dart: __1__ _Commerce_ The date by which perishable goods should be used.  
 __uvet__ _n_  
 __vagary__ _n_ _The vagaries of the market._  
 __vaunted__ _adj_ :dart: Praised more than deserved. _Vaunted Jedi Master Luke Skywalker._  
@@ -1470,6 +1493,7 @@ __vet__ _v_ :two::hammer:
 __videophile__ _n_ :mega: One with an avid interest in watching television or videos or in making video recordings.  
 __vie__ _v_  
 __vindicated__ _adj_ Freed from blame.  
+__virago__ _n_ __1__ A loud, violent, and ill-tempered woman; scold; shrew. __2__ _archaic_ A strong, brave, or warlike woman; amazon.  
 __vise__ _n_ :camera:  
 __vocal__ _adj_  
 __vouchsafe__ _v_ /vowch-SAYF/  
@@ -1504,13 +1528,16 @@ __wind vane__ _n_ Mechanical device attached to an elevated structure; rotates f
 __windshear__ _n_  
 __wistful__ _adj_  
 __wizened__ _adj_  
+__wonderkid__ _n informal_ A young person whose excellence in his or her discipline is appropriate to someone older and more experienced.  
 __woodchips__ _n pl_ _Olive tree woodchips._  
 __world-class__ _adj_  
 __wrangle__ _v_  
 __wrinkle__ _n, v_  
+__wry__ _adj_  
 __xenotransplantation__ _n_  
 __yak__ _vi_ To talk persistently and meaninglessly; chatter.  
 __yarn__ _n_ :camera:  
 __yellowcake__ _n_ The concentrated oxide of uranium formed in the milling of uranium ore.  
+__Zimbabwe__ _n_  
 __zing__ _n_  
 __zloty__ _n_ The basic monetary unit of Poland.  
