@@ -1187,40 +1187,6 @@ __ruthless__
 __sacrilege__ _n_ Desecration, profanation, misuse, or theft of something sacred. _Syn_ blasphemy, desecration, profanation  
 __sacrilegious__ _adj_ Grossly irreverent toward what is or is held to be sacred. _Syn_ blasphemous, profane  
 __salad bar__ _n_  
-__sallow__ _adj_ :four::hammer:  
-__sally__ _n_ __4__ A sudden quick witticism; a quip. _They were laughing at his sallies._  
-__saltation__ _n_ A light, self-propelled movement upwards or forwards. _Syn_ leaping, bounce, bound, spring _The kangaroo’s effortless saltation was balletic and graceful._  
-__sanctuary__ _n_ :mega: /ˈsæŋk tʃuˌɛr i/ /ˈsæŋktjʊərɪ/  
-__sanctum__ _n_ __2__ A room or place of total privacy or inviolability.  
-__sanguine__ _adj_  
-__sanguineous__ _adj_ Relating to or involving blood or bloodshed. _Syn_ butcherly, gory, slaughterous  
-__Santa Ana__ _n_ __2__ A strong dry hot wind blowing from the desert regions of southern California toward the Pacific coast, usually in winter.  
-__sarcophagus__ _n_ /sahr-KAH-fuh-gus/ Sarcophagus refers to a coffin, and specifically a stone coffin.  
-__satire__ _n_ :mega:  
-__saunter__ _vi_ :dart::four: To walk at a leisurely pace; stroll.  
-__saying__ _n_  
-__scab__ _n_ :camera:  
-__scaffolding__  
-__scam__ _n_  
-__scamper__ _n_  
-__scant__ _adj_  
-__scantily clad__ _adj_  
-__scenery__ _n_ :mega:mute:[~~s~~cenery] /ˈsi nə ri/  
-__schadenfreude__ _n_ /SHAH-dun-froy-duh/ _Schadenfreude_ refers to a feeling of enjoyment that comes from seeing or hearing about the troubles of other people. _Schadenfreude was felt by many viewers when the arrogant contestant was voted off the show._  
-__schism__ _n_  
-__scoop__ _n_  
-__Scotch-tape__ _vt_ To fasten or mend with Scotch tape.  
-__scoundrel__ _n_  
-__scour<sup>1</sup>__ _vt_  
-__scour<sup>2</sup>__ _vi_  
-__scour<sup>3</sup>__ _n_  
-__scowl__ _v_  
-__scrap<sup>1</sup>__ _n_ __5__ :smiling_imp: A fight or scuffle. _Syn_ brawl  
-__scrap<sup>2</sup>__ _vt_  
-__scrap<sup>3</sup>__ _vi_ :smiling_imp: To fight, usually with the fists.  
-__scrape<sup>1</sup>__ _vt_  
-__scrape<sup>2</sup>__ _vi_  
-__scrape<sup>3</sup>__ _n_ _The scrape of chairs._  
 __scrapheap__ _n_  
 __screed__ _n_ /skriːd/  
 __screwworm__ _n_ The larva of the screwworm fly. The larva of a blow fly, _Cochliomyiamacellaria_, that is a pest of livestock.  

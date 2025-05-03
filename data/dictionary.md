@@ -16897,11 +16897,13 @@ __sales force__
 __salesperson__ _n_ :two::hammer:  
 __salient__ _adj_ :eight: /SAIL-yunt/ Strikingly conspicuous. _Syn_ prominent, outstanding, striking, spectacular _That is a salient fact._  
 __salivating__ _v_  
-__sallow__ _adj_ :nine: /SAL-oh/ Sallow means “of a grayish greenish yellow color,” and often suggests sickliness. Of a sickly yellowish hue or complexion. Sallow skin is a pale yellow color and does not look healthy. (esp of human skin) Of an unhealthy pale or yellowish color. :es: amarillento _Sallow skin._ _A sallow face._ _A sallow complexion._ _She returned from her sick leave still looking a bit sallow._  
+__sallow__ _adj_ :dart::nine::m: /SAL-oh/ Sallow means “of a grayish greenish yellow color,” and often suggests sickliness. Of a sickly yellowish hue or complexion. Sallow skin is a pale yellow color and does not look healthy. (esp of human skin) Of an unhealthy pale or yellowish color. :es: amarillento _Sallow skin._ _A sallow face._ _A sallow complexion._ _She returned from her sick leave still looking a bit sallow._  
 __sally out__ _v_  
+__sally__ _n_ __4__ A sudden quick witticism; a quip. _They were laughing at his sallies._  
 __salmon__ _n_ :mega::mute:[sa~~l~~mon]:astonished::six:  
 __salt away__  
 __salt junk__ _n_ /SAWLT-JUNK/ Dried salted beef. _In the past, sailors survived long voyages eating salt junk._  
+__saltation__ _n_ A light, self-propelled movement upwards or forwards. _Syn_ leaping, bounce, bound, spring _The kangaroo’s effortless saltation was balletic and graceful._  
 __saltigrade__ _adj_ Having the feet or legs adapted to leaping—usually used of spiders (such as members of the family Salticidae).  
 __saltimbanco__ _n_ A mountebank; a person who sells quack medicines from a platform.  
 __saltines__ _n_  
@@ -16932,8 +16934,9 @@ __San Diegans__ _n_
 __sanctimonious__ _adj_ :four: /sank-tuh-MOH-nee-us/ Someone described as sanctimonious behaves as though they are morally superior to others. Language or behavior that suggests the same kind of moral superiority can also be described as sanctimonious. Feigning piety or righteousness. Pretending to be morally better than other people. _Syn_ holier-than-thou, pharisaic, pietistic, self-righteous  
 __sanction<sup>1</sup>__ _n_ An economic or military coercive measure adopted usually by several nations in concert for forcing a nation violating international law to desist or yield to adjudication.  
 __sanction<sup>2</sup>__ _v_ /SANK-shun/ __1__ To give effective or authoritative approval or consent to. _Because he was using equipment that was not sanctioned by league officials, Jared was disqualified from the competition._ __2__ To impose a penalty or economically or militarily coercive measures.  
-__sanctuary<sup>1</sup>__ _n_  
+__sanctuary<sup>1</sup>__ _n_ :two::hammer::mega: /ˈsæŋk tʃuˌɛr i/ /ˈsæŋktjʊərɪ/  
 __sanctuary<sup>2</sup>__ _adj_ :two: Relating to or being a locality that provides limited cooperation to federal officials in the enforcement of immigration laws or policies. _Mayor Rahm Emanuel of Chicago has declared that it “will always be a sanctuary city.”_  
+__sanctum__ _n_ __2__ A room or place of total privacy or inviolability.  
 __sand spits__  
 __sand<sup>1</sup>__ _n_ _You got sand._  
 __sand<sup>2</sup>__ _v_ :two::hammer: (sanded, sanding) _Sanding the wood._  
@@ -16954,10 +16957,12 @@ __sang-froid__ _n_ :four: /SAHNG-FRWAH/ (sangfroid) Coolness and composure, espe
 __sangria__ _n_  
 __sanguinary__ _adj_ Accompanied by bloodshed. _Syn_ butcherly, gory, slaughterous  
 __sanguine__ _adj_ :dart::nine::m::astonished: /SANG-gwin/ /ˈsæŋ gwɪn/ __1__ Confidently optimistic. _The young CEO is sanguine about the struggling company’s future._ __2__ Of a healthy reddish color. _Syn_ rubicund, ruddy _He had a sanguine complexion that was matched by his cheerful outlook._  
+__sanguineous__ _adj_ Relating to or involving blood or bloodshed. _Syn_ butcherly, gory, slaughterous  
 __sanguinolency__ _n_ Addiction to bloodshed.  
 __sanitation__ _n_ :two: __2__ The disposal of sewage and waste. _Sanitation systems._  
 __sanitize__ _v_  
 __sanity check__ _n_ :two::hammer:  
+__Santa Ana__ _n_ __2__ A strong dry hot wind blowing from the desert regions of southern California toward the Pacific coast, usually in winter.  
 __Santeria__ _n_ (Santería)  
 __sap<sup>1</sup>__ _vt_ :nine::m: (saps, sapped, sapping, sappy) __2__ To deplete or weaken gradually. Gradually weaken or destroy (a person’s strength or power). _Weak demand sapping trade._ _His energy was sapping._ _Worry never robs tomorrow of its sorrow, it only saps today of its joy._  
 __sap<sup>2</sup>__ _n_ :four::hammer: _A flat-sided sap stuck out of his back pocket._ _What a sap!_  
@@ -16974,7 +16979,7 @@ __Saratoga__ _n_
 __sarcasm__ _n_ /SAHR-kaz-um/ :two: Sarcasm refers to the use of words that mean one thing to communicate the exact opposite of that thing, especially to insult someone, to show irritation, or to be funny. Sarcasm is using irony to mock something or to show contempt. Example: Oh, yeah, he is a great guy. A great guy who took the last slice of pizza.  
 __sarcopenia__  
 __sarcophagi__ _n_  
-__sarcophagus__ _n_ :two: A stone coffin, often inscribed or decorated with sculpture.  
+__sarcophagus__ _n_ :three::mega: /sahr-KAH-fuh-gus/ A stone coffin, often inscribed or decorated with sculpture.  
 __sardonic__ _adj_ :two: Scornfully or cynically mocking. Characterized by bitter or scornful derision; mocking; sneering; cynical. _Syn_ wry _He continued to grin with a sardonic humor, with a cynical mockery and defiance._  
 __sari__ _n_ /ˈsɑːrɪ/ (saree) An Indian or Pakistani women’s garment consisting of a length of cloth wrapped around the waist like a skirt then draped over the shoulder and sometimes the head.  
 __sarsaparilla__ _n_  
@@ -16988,7 +16993,7 @@ __satays__ _n_
 __satchel__ _n_ :three::hammer:  
 __sate__ _vt_ :three::hammer: (sated) _Sate your appetite._  
 __satiate__ _v_ /SAY-shee-ayt/ Satiate is a formal word that means “to satisfy (something, such as a need or desire) fully.”  
-__satire__ _n_ :two: Satire is using humor to criticize public figures. Example: When Senator Jackson said “numbers don’t lie,” he forgot that his first name wasn’t “Numbers.”  
+__satire__ _n_ :three::mega: _Satire_ is using humor to criticize public figures. Example: When Senator Jackson said “numbers don’t lie,” he forgot that his first name wasn’t “Numbers.”  
 __satirist__ _n_ A humorist who uses ridicule and irony and sarcasm. _Syn_ ironist, ridiculer _The satirist got into trouble with the network after he ridiculed a number of prominent donors on his live television show._  
 __satisfice__ _v_  
 __satori__ _n_ _Zen Buddhism_ The state of sudden indescribable intuitive enlightenment.  
@@ -17004,7 +17009,7 @@ __saucy__
 __saudade__  
 __sauerkraut__ _n_  
 __sauna__ _n_ :mega: /ˈsɔːnə/  
-__saunter<sup>1</sup>__ _vi_ :nine::m: /ˈsɔn tər, ˈsɑn-/ To walk in a casual manner; stroll. To walk or stroll about without much purpose or hurry. _Lynn sauntered to the edge of the stage._  
+__saunter<sup>1</sup>__ _vi_ :dart::nine::m: /ˈsɔn tər, ˈsɑn-/ To walk in a casual manner; stroll. To walk or stroll about without much purpose or hurry. _Lynn sauntered to the edge of the stage._  
 __saunter<sup>2</sup>__ _n_  
 __sausage dog__ _n_ An informal name for dachshund. _Syn_ sausage hound  
 __sausage party__ _n_ :two: (slang, derogatory) A gathering with many more men than women.  
@@ -17034,16 +17039,16 @@ __sawhorse__ _n_ :six: A frame with legs, used to support pieces of wood being s
 __sawmill__ _n_ :es: aserradero  
 __sawyer__ _n_ :astonished:  
 __say the world__  
-__saying__ _n_ :two::hammer:  
+__saying__ _n_ :three::hammer:  
 __sboutout__ _n_ _informal_ A public greeting, esp one broadcast via television or radio. _A belated shoutout to Dave for his recent contribution to the museum._  
-__scab__ _n_ :three::hammer: :es: costra __3a__ A contemptible person. __b__ A worker who refuses to join a labor union; a union member who refuses to strike or returns to work before a strike has ended; a worker who accepts employment or replaces a union worker during a strike; one who works for less than union wages or on nonunion terms.  
+__scab__ _n_ :four::hammer::camera: :es: costra __3a__ A contemptible person. __b__ A worker who refuses to join a labor union; a union member who refuses to strike or returns to work before a strike has ended; a worker who accepts employment or replaces a union worker during a strike; one who works for less than union wages or on nonunion terms.  
 __scabbard__ _n_ :eight: /ˈskæb ərd/ A sheath for a sword, dagger, or bayonet. :es: vaina  
 __scabby__ _adj_ :two: __1__ Having scabs. __2__ Mean or contemptible.  
 __scabies__  
 __scabs__ _n_ :two::hammer:  
 __scads__ _n_ :two: A large number of quantity. _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
 __scaffold__ _n_ :mega::two::hammer:  
-__scaffolding__ _n_  
+__scaffolding__ _n_ :two::hammer:  
 __scale up__ _v_ _That’s the challenge of scaling up._  
 __scallion__ _n_ :four::hammer: :es: cebolleta  
 __scallop<sup>1</sup>__ _n_ :four::hammer: _A scallop-shell logo._ :es: vieira  
@@ -17054,13 +17059,15 @@ __scalp<sup>1</sup>__ _n_ __3__ A trophy or token signifying conquest.
 __scalp<sup>2</sup>__ _v_ :three::astonished: __2__ _informal_ Punish severely. __2a__ To resell at inflated prices: to scalp tickets. __b__ To buy and sell (stocks) for quick profit. __3__ To cut or tear the scalp from.  
 __scalpel__  
 __scalper__ _n_ :four::hammer:  
-__scam__ _v_ :four::hammer::smiling_imp: (scammed)  
+__scam<sup>1</sup>__ _n_  
+__scam<sup>2</sup>__ _v_ :four::hammer::smiling_imp: (scammed)  
 __scammer__ _n_ :smiling_imp:  
 __scamp__ _n_  
-__scamper__ _vi_ :five::hammer: (scampered, scampering) _Scampered into the van._  
+__scamper<sup>1</sup>__ _n_  
+__scamper<sup>2</sup>__ _vi_ :five::hammer: _Scampered into the van._  
 __scamster__ _n_ :smiling_imp: _informal_ One who perpetrates a scam or fraud; a windler.  
-__scant__ _adj_ :nine::m: Scant is an adjective that means “a tiny amount,” like your scant attendance at practice this week that results in being benched from the big game. _Details were scant._  
-__scantily__ _adv_ :two::hammer: _A scantily clad spider._  
+__scant__ _adj_ :dart::nine::m: Scant is an adjective that means “a tiny amount,” like your scant attendance at practice this week that results in being benched from the big game. _Details were scant._  
+__scantily__ _adv_ :three::hammer: _A scantily clad spider._  
 __scanty__ _adj_  
 __scape__ _n_ _Moon and Mars scapes._  
 __scapegoat<sup>1</sup>__ _n_ :three::hammer: /SKAYP-goat/  
@@ -17090,17 +17097,18 @@ __scenario__ _n_ :mega::mute:[s~~c~~enario] /sɪˈnɛər iˌoʊ, -ˈnɑr-/
 __scend<sup>1</sup>__ _vi_ (send) To rise or lift by, or as if by, a wave.  
 __scend<sup>2</sup>__ _n_ (send) The rising movement of a wave or a ship on a wave.  
 __scene__ _n_ :mute:[s~~c~~ene]  
+__scenery__ _n_ :mega:mute:[~~s~~cenery] /ˈsi nə ri/  
 __scenic<sup>1</sup>__ _adj_  
 __scenic<sup>2</sup>__ _n_ :two::hammer:  
 __scent<sup>1</sup>__ _n_ :mute:[s~~c~~ent]  
 __scent<sup>2</sup>__ _v_ :mute:[s~~c~~ent]  
 __scented__ _adj_  
-__schadenfreude__ _n_ :seven::astonished::mega: /shahd-n-froi-duh/ /SHAH-dun-froy-duh/ (Schadenfreude) Pleasure derived from the misfortunes of others. _Schadenfreude was felt by many viewers when the arrogant contestant was voted off the show._  
+__schadenfreude__ _n_ :eight::astonished::mega: /shahd-n-froi-duh/ /SHAH-dun-froy-duh/ (Schadenfreude) Pleasure derived from the misfortunes of others. _Schadenfreude was felt by many viewers when the arrogant contestant was voted off the show._  
 __schedule__ _n_ _A schedule was set._  
 __schema__  
 __scheme__  
 __schemer__ _n_ A planner who draws up a personal scheme of action.  
-__schism__ _n_ :four: A separation or division into factions. _Syn_ discord, split :es: cisma _Heretics were burned for attempting to create a schism in the Catholic Church._  
+__schism__ _n_ :five: A separation or division into factions. _Syn_ discord, split :es: cisma _Heretics were burned for attempting to create a schism in the Catholic Church._  
 __schizoid__ _adj_ _She had a schizoid personality._  
 __schizophrenic__ _adj, n_  
 __schlep__ _v_ :four::hammer: (schlepping)  
@@ -17147,6 +17155,7 @@ __scold__ _n_ A person who habitually scolds, in particular a troublesome and an
 __sconce<sup>1</sup>__ _n_ :three: __1__ A small defensive earthwork or fort. __2__ A decorative wall bracket for holding candles or lights. _Wall sconces._ __3__ A flattened candlestick that has a handle.  
 __sconce<sup>2</sup>__ _v_  
 __scone__ _n_ :seven::hammer: (scones) _Cookery_ _Like strawberry jam slathered on a scone._ :es: bollo  
+__scoop__ _n_  
 __scoot__ _vi_ :eight: (scooted) To move or go suddenly and speedily; hurry. _The New Frontiers scoots out of the Solar System at a speed just under that of light._  
 __scooter__ _n_ :three::hammer: _Motorized scooter._ :es: patinete  
 __scope out__ _v_  
@@ -17160,26 +17169,30 @@ __scores__ _n pl_ :two: A large number of something. _Syn_ a great many, a lot, 
 __scorn<sup>1</sup>__ _n_ :three::hammer:  
 __scorn<sup>2</sup>__ _v_ (scorned)  
 __scotch__ _n_ :astonished: __2__ (Games, other than specified) A line marked down, as for hopscotch.  
+__Scotch-tape__ _vt_ To fasten or mend with Scotch tape.  
 __Scotland Yard__ _n_  
 __Scots__ _adj, n_ :three::hammer::pencil2: _Scots accent._  
-__scoundrel__ _n_ :four::hammer: _Those scoundrel disks._  
-__scour__ _v_ :nine::m: /skour, skaʊər, ˈskaʊ ər/ /SKOW-er/ __1a__ To clean, polish, or wash by scrubbing vigorously: _scour a dirty oven._ __b__ To remove by scrubbing: _scour grease from a pan._ __2__ To remove dirt or grease from (cloth or fibers) by means of a detergent. __3__ To clean (wheat) before the milling process. __4__ To clear (an area) by freeing of weeds or other vegetation. __5__ To clear (a channel or pipe) by flushing. __6__ :dart: Search thoroughly. Scour means “to search (something) carefully and thoroughly.” Scouring is usually associated with moving quickly. _We retraced our steps and scoured the hiking trail for the missing wedding ring._ _He invests hours scouring film._ __7__ To range over (an area) quickly and energetically.  
+__scoundrel__ _n_ :five::hammer: _Those scoundrel disks._  
+__scour<sup>1</sup>__ _v_ _v_ :nine::m: /skour, skaʊər, ˈskaʊ ər/ /SKOW-er/ __1a__ To clean, polish, or wash by scrubbing vigorously: _scour a dirty oven._ __b__ To remove by scrubbing: _scour grease from a pan._ __2__ To remove dirt or grease from (cloth or fibers) by means of a detergent. __3__ To clean (wheat) before the milling process. __4__ To clear (an area) by freeing of weeds or other vegetation. __5__ To clear (a channel or pipe) by flushing. __6__ :dart: Search thoroughly. Scour means “to search (something) carefully and thoroughly.” Scouring is usually associated with moving quickly. _We retraced our steps and scoured the hiking trail for the missing wedding ring._ _He invests hours scouring film._ __7__ To range over (an area) quickly and energetically.  
+__scour<sup>2</sup>__ _n_  
 __scourer__ _n_ :es: estropajo  
 __scourge__ _n_ :nine::m: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
 __Scouser__ _n_ A native or resident of Liverpool, England. _Syn_ Liverpudlian  
 __scout out__ _v_ To examine a place or area in order to get information about it.  
 __scowl<sup>1</sup>__ _n_  
-__scowl<sup>2</sup>__ _v_ :eight::hammer: (scowled, scowling)  
+__scowl<sup>2</sup>__ _v_ :nine::hammer:  
 __scrabble__ _n_ /ˈskræbəl/  
 __scraggly__ _adj_ _A scraggly beard._  
 __scram__ _vi_ :two::hammer: _We better scram._  
 __scramble<sup>1</sup>__ _vi_ :five: __2__ To struggle or contend frantically in order to get something: _scrambled for the best seats._ _Google scrambles to integrate AI into Search._ _We were scrambling financially._ _They scrambled for personal power._  
 __scramble<sup>2</sup>__ _vt_ :eight: (scrambles, scrambled, scrambling) __1__ Make one’s way quickly or awkwardly up a steep slope or over rough ground by using one’s hands as well as one’s feet. _We scrambled over the wet boulders._ _Syn_ clamber, climb __2__ Make (something) jumbled or muddled. _Maybe the alcohol has scrambled his brains._ _Syn_ muddle, confuse, mix up, disarrange, disorganize, mess up _The alcohol has scrambled his brains._  
-__scrap<sup>1</sup>__ _n_ :three: (scraps) __1__ A small piece or bit; a fragment. __2__ (scraps) Leftover bits of food. __3__ Discarded waste material, especially metal suitable for reprocessing. _Scrap iron._ __4__ (scraps) Crisp pieces of rendered animal fat; cracklings. __5__ A fight or scuffle. _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
-__scrap<sup>2</sup>__ _vt_ :dart::nine::m: (scraps, scrapped, scrapping) __1__ To break down into parts for disposal or salvage: _scrap an old stove._ __2__ :dart: To discard or abandon as useless; cancel: _scrap a plan._ _It forced oil companies to scrap planned investments._ _Ship to be scrapped had reactor built on board in 1960s._ _Scrapping the legislation._  
-__scrap<sup>3</sup>__ _vi_ :nine::m: (scrapping) To fight, usually with the fists. _A boy spends the next four decades scrapping._ _A lifestyle of snorting and scrapping._  
+__scrap<sup>1</sup>__ _n_ :four: __1__ A small piece or bit; a fragment. __2__ (scraps) Leftover bits of food. __3__ Discarded waste material, especially metal suitable for reprocessing. _Scrap iron._ __4__ (scraps) Crisp pieces of rendered animal fat; cracklings. __5__ :smiling_imp: A fight or scuffle. _Syn_ brawl _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
+__scrap<sup>2</sup>__ _vt_ :dart::nine::m: __1__ To break down into parts for disposal or salvage: _scrap an old stove._ __2__ :dart: To discard or abandon as useless; cancel: _scrap a plan._ _It forced oil companies to scrap planned investments._ _Ship to be scrapped had reactor built on board in 1960s._ _Scrapping the legislation._  
+__scrap<sup>3</sup>__ _vi_ :nine::m::smiling_imp: To fight, usually with the fists. _A boy spends the next four decades scrapping._ _A lifestyle of snorting and scrapping._  
 __scrapbook__ _n_  
-__scrape__ _v_  
+__scrape<sup>1</sup>__ _vt_ :two::hammer:  
+__scrape<sup>2</sup>__ _vi_ :two::hammer:  
+__scrape<sup>3</sup>__ _n_ _The scrape of chairs._  
 __scrapper__  
 __scrapping__  
 __scrappy__ _adj_ :dart::six: __1__ Composed of scraps; fragmentary: _scrappy evidence._ __2__ Quarrelsome; contentious. _Syn_ argumentative _The scrappy journalist inside me fuels my fire in the marketing world._ _A scrappy industrial city._ __3__ :dart: Full of fighting spirit. _They are young, scrapoyband hungry._  
