@@ -1252,42 +1252,6 @@ __skid__ _v_ :two::hammer: _The car skidded to a halt._ → :es: _El coche patin
 __skiff__ _n_ :two: A flatbottom open boat of shallow draft, having a pointed bow and a square stern and propelled by oars, sail, or motor.  
 __skirmish__  
 __skittish__ _adj_  
-__skulk__ _vi_  
-__skulk<sup>1</sup>__ _vi_ :dart::four: __1__ To lie in hiding, as out of cowardice or bad conscience; lurk. __2__ :dart: To move about stealthily. __3__ To evade work or obligation; shirk.  
-__skulk<sup>2</sup>__ _n_ __1__ A person who skulks. __2__ (Zoology) _obsolete_ A pack of foxes or other animals that creep about stealthily.  
-__skulking__ _n_ :smiling_imp::two: Evading duty or work by pretending to be incapacitated.  
-__skunk__ _n_ __2__ _slang_ A person regarded as obnoxious or despicable.  
-__sky blue__ _n_ :es: celeste  
-__slander<sup>1</sup>__ _n_ __1__ _Law_ Oral communication of false statements injurious to a person’s reputation. __2__ A false and malicious statement or report about someone.  
-__slander<sup>2</sup>__ _vt_ To utter a slander about. _Syn_ malign  
-__slander<sup>3</sup>__ _vi_ To utter or spread slander.  
-__slate__ _n_  
-__slaver__ _n_ __1__ Saliva drooling from the mouth. _Syn_ drivel, slabber, slobber, drool, dribble __2__ Senseless and effusive talk; drivel.  
-__sleep apnea__ _n_ (compare vs _apnea_) Apnea caused by upper airway obstruction during sleep, associated with frequent awakening and often with daytime sleepiness.  
-__sleepover__  
-__Slim Jimn__ _n_  
-__slipcovers__ _n_  
-__slop__ _n_  
-__slough__ _v_ /SLUFF/ _Slough_ is a formal verb used for the action of getting rid of something unwanted. It is usually used with _off._ _Slough_ can also mean “to lose a dead layer of (skin)” or “to become shed or cast off.”  
-__slovenly__ _adj_  
-__slug__  
-__slugger__ _n_  
-__slushy<sup>1</sup>__ _n_ A brain freeze inducing, tongue staining frozen drink popular with children. They’re often sold at theme parks and games arcades.  
-__slushy<sup>2</sup>__ _adj_ __1__ Being or resembling melting snow.  
-__smack__ _adv_  
-__smitten__ _adj_  
-__smote__ _v_ Past tense and a past participle of smite.  
-__snappy__ _adj_  
-__snare drum__ _n_ _Syn_ side drum, snare  
-__snark__ _n_ /SNAHRK/ _Snark_ is an informal word that refers to an attitude or expression of mocking irreverence and sarcasm.  
-__sneer__  
-__snicker__ _v_  
-__snide__ _adj_ _Snide comments._  
-__snigger<sup>1</sup>__ _n_ A sly or disrespectful laugh, esp one partly stifled.  
-__snigger<sup>2><sup>__ _vi_  
-__snort<sup>1</sup>__ _n_  
-__snort<sup>2</sup>__ _vi_  
-__snort<sup>3</sup>__ _vt_  
 __snowproof__ _adj_ Resistant to snow.  
 __soft skills__ _n pl_ (Industrial Relations & HR Terms) Desirable qualities for certain forms of employment that do not depend on acquired knowledge: they include common sense, the ability to deal with people, and a positive flexible attitude.  
 __soggy__ _adj_ __1__ Saturated or sodden with moisture; soaked: _soggy clothes._ __2__ Lacking spirit; dull: _a soggy bit of dialogue._ __3__ Humid; sultry: _a soggy afternoon in August._  
