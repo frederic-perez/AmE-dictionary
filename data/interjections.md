@@ -79,6 +79,7 @@ __oy__ :three: Used especially to express irritation, dismay, sorrow, or self-pi
 __pfft__ (phfft) Used to express or indicate a dying or fizzling out. Used to express or indicate a usually sudden disappearance or ending.  
 __phew__ :two: Used to express relief, fatigue, surprise, or disgust.  
 __poof__ :five: Used to indicate a sudden vanishing: _The magician waved a wand, and poof! The birds disappeared!_  
+__pooh__ Used to express disdain or disbelief.  
 __psst__ (pst) Used to attract someone’s attention in an unobtrusive manner.  
 __roger__ __1__ _informal_ All right; OK.  
 __Semper fi__ :two: Used as a shortened form of the Latin phrase _semper fidelis_, “always faithful,” motto of the U.S. Marine Corps.  
