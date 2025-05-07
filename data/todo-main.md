@@ -29,13 +29,18 @@ __atherectomy__ _n_ Surgical removal of atherosclerotic plaque from an artery us
 __atoll__ _n_ :es: atolón  
 __attack__ _n_ :mega:  
 __august__ _adj_  
+__avocation__ _n_  
+__baccarat__ _n_ (baccara) A card game in which two or more punters gamble against the banker. _A big game of baccara._  
 __backbone__ _n_  
 __badly__ _adv_ __2__ Very much; greatly. _Badly needed._  
+__baize__ _n_ /beɪz/ A soft feltlike fabric, usu. dyed green, commonly used for the tops of game tables. :es: _green baize_: tapete verde  
 __bald-faced__ _adj_ Brash; undisguised. _Syn_ brazen, insolent, audacious, barefaced, bodacious, brassy _John’s excuse for missing work was such a bald-faced lie that his boss immediately fired him._  
 __baleen whale__ _n_ Another name for whalebone whale.  
+__bally__ _adj, adv_ :dart::two: /ˈbælɪ/ _slang Brit_ A euphemism for bloody. _It’s a bally fake!_  
 __bastion__ _n_ _Be a bastion of truth in a time of lies._  
 __bawdy__ _adj_ (of language, plays, etc) Containing references to sex, esp to be humorous. _Bawdy lips._  
 __bear market__ _n_ :two: [An easy way to remember the meaning of a bear market is to think about how a bear attacks: it swipes its paws downward. Bear swipes down → market going down = bear market]  
+__beastly__ _adj, adv_  
 __bedraggled__ _adj_  
 __behest__ _n_ __1__ An authoritative command. __2__ An urgent request: _I called the office at the behest of my assistant._  
 __behoove__ _v_  
@@ -65,7 +70,10 @@ __briar pipe__ _n_ A pipe made from the root (briarroot) of the tree heath.
 __bristle__ _v_ :two: Rise up as in fear. _Syn_ uprise, stand up _The creaking of the house at night makes the hair on the nape of my neck bristle._  
 __broach__ _vt_  
 __budgetary__ _adj_  
+__bugle__ _n_ :mega: /ˈbjuːɡəl/  
 __bull market__ _n_ [A bull market is when prices are rising—remember that bulls attack upward with their horns. Bull charges up → market going up = bull market]  
+__bullfrog__ _n_ :camera: Largest North American frog; highly aquatic with a deep-pitched voice.  
+__bumptious__ _adj_ /BUMP-shus/ _Bumptious_ describes people who are rudely and often noisily confident or over-assertive. It can also be applied to actions or behaviors that show this same attitude. _Our host apologized for the bumptious party guest who caused a scene before being asked to leave._  
 __buoyancy__ _n_  
 __busybody__ _n_  
 __cabal__ _n_  
@@ -74,6 +82,7 @@ __camerlengo__ _n_ A cardinal who is appointed by the pope and charged with spec
 __canister__ _n_ _Oxygen canister._  
 __canonicals__ _n pl_ The vestments worn by clergy when officiating. _A bishop in canonicals._  
 __carcass__ _n_  
+__cartridge__ _n_  
 __cavort__ _v_ Play boisterously. _Syn_ frisk, frolic, gambol, lark, rollick, romp, run around, skylark, sport, disport _The children cavorted in the water, splashing and ducking each other._  
 __ceilometer__ _n_ A photoelectric instrument for ascertaining cloud heights.  
 __chaff<sup>1</sup>__ _v_ :three::hammer:  
@@ -81,7 +90,9 @@ __chaff<sup>2</sup>__ _n_ :three: Good-natured teasing; banter.
 __chandler__ _n_ :two::hammer:  
 __chary__ _adj_ /CHAIR-ee/ _Chary_ is usually used with about or of to describe someone who is cautious about doing something. _The director is chary about spending money._ _I’ve always been chary of travelling alone._  
 __chinchilla__ _n_  
+__Chink__ _n_ :three: _Offensive Slang_ Used as a disparaging term for a person of Chinese birth or descent.  
 __chlorophyl__ _n_ (chlorophyll) Any of a group of green pigments found in photosynthetic organisms; there are four naturally occurring forms.  
+__cineraria__ _n_  
 __cloud seeding__ _n_  
 __cogent__ _adj_ Convincing; reasonable.  
 __cold-blooded__ _adj_ Without compunction or human feeling. _Syn_ inhuman, insensate, cold  
@@ -230,6 +241,7 @@ __efficacious__ _adj_ /ef-uh-KAY-shus/ _Efficacious_ is a formal word used to de
 __efficiency apartment__ _n_ A small, usually furnished apartment with a private bathroom and kitchenette.  
 __effrontery__ _n_  
 __effusive__ _adj_ /ih-FYOO-siv/ Someone or something described as effusive is expressing or showing a lot of emotion or enthusiasm.  
+__eft__ _n_ A newt, esp. in an immature terrestrial stage.  
 __Eggo waffles__ _n_  
 __eggplant__ _n_  
 __egoism__ _n_ Concern for your own interests and welfare. _Syn_ self-centeredness, self-concern, self-interest  
@@ -258,11 +270,12 @@ __entrenched__ _adj_ Established firmly and securely. _The entrenched power of t
 __entresol__ _n_ The floor just above the ground floor of a building. _Syn_ mezzanine  
 __eponymous__ _adj_  
 __escalator__ _n_ :camera:  
+__espadrille__ _n_ :es: alpargata  
 __especially__ _adv_ _I’m not especially happy about it, no._  
 __ethnic__ _adj_ Denoting or deriving from or distinctive of the ways of living built up by a group of people. _Syn_ cultural  
 __evergreen__ _adj_ /EV-er-green/ _Evergreen_ in its figurative uses describes something, such as a plot, that retains its freshness or interest over a long period of time, or something, such as an issue or concern, that is universally and continually relevant. In botany, _evergreen_ describes foliage that remains green and functional through more than one growing season.  
 __exacerbate__ _vt_  
-__exculpate__ _v_ To free from guilt or blame.  
+__exculpate__ _v_ :two: /EK-skull-payt/ To free from guilt or blame. To exculpate someone is to prove that they are not guilty of doing something wrong.  
 __excursion__ _n_ /ik-SKER-zhun/ _Excursion_ refers to a trip, and especially to a short one made for pleasure. _Excursion_ is also often used figuratively to refer to a deviation from a direct, definite, or proper course, and often in particular to a digression.  
 __exoplanet__ _n_  
 __expiration date__ _n_ _A sad song about a relationship that probably has reached its expiration date._  
@@ -393,6 +406,7 @@ __giggle<sup>2</sup>__ _vi_ To laugh with repeated short, spasmodic sounds.
 __giggle<sup>3</sup>__ _vt_ To utter while giggling.  
 __glazed__ _adj_ __3__ Having a shiny surface or coating. _Glazed fabrics._ _Glazed doughnuts._ _Ceramic color glazed flower pots._  
 __glint__ _n_ :two: __1__ A momentary flash of light; a sparkle: _a glint of sunlight through the clouds._ __2__ A faint or fleeting indication; a trace: _a glint of suspicion on his face._  
+__glower__ _vi_  
 __gnome__ _n_  
 __goggle<sup>1</sup>__ _vi_ __1__ To stare with wide and bulging eyes. __2__ To roll or bulge. Used of the eyes.  
 __goggle<sup>2</sup>__ _n_ __1__ A stare or leer. __2__ _goggles_ A pair of tight-fitting eyeglasses, often tinted or having side shields, worn to protect the eyes from hazards such as wind, glare, water, or flying debris.  
@@ -501,6 +515,7 @@ __inordinate__ _adj_
 __inscrutable__ _adj_ :dart::astonished:  
 __insidious__  
 __insouciance__ _n_ :dart::two: Blithe lack of concern; nonchalance. The quality of being insouciant; lack of care or concern. _Insouciance_ is a formal word that refers to a feeling of carefree unconcern. It can also be understood as a word for the relaxed and calm state of a person who is not worried about anything. _The young actor charmed interviewers with his easy smile and devil-may-care insouciance._ :es: despreocupación  
+__insufferable__ _adj_ Difficult or impossible to endure; intolerable.  
 __interfere__ _v_  
 __interpenetrate__ _v_ Spread or diffuse through. _Syn_ imbue, permeate, pervade, diffuse, riddle, penetrate  
 __interreign__ _n_ An interregnum.  
@@ -676,6 +691,7 @@ __mage__ _n_
 __maggot__ _n_ :two: __1__ The legless, soft-bodied, wormlike larva of any of various dipteran flies, often found in decaying matter. :es: gusano  
 __Magic Eye poster__ _n_  
 __magnetron__ _n_  
+__magnum__ _adj, n_  
 __magpie__ _n_ :es: urraca  
 __mahogany__ _n_ :es: caoba  
 __maiden__ _adj_ _The _Titanic_ maiden voyage._  
@@ -767,6 +783,7 @@ __miserly__ _adj_ (Used of persons or behavior) Characterized by or indicative o
 __mishap__  
 __mite__ _n_ :hammer: _Dust mites._ :es: ácaro  
 __mix tape__  
+__mix-up__ _n_ A mistake that results from taking one thing to be another. _Syn_ confusion  
 __moka pot__ _n_  
 __mold__ _n_  
 __mollify__ _v_ To calm or soothe.  
@@ -778,6 +795,7 @@ __Mother Hubbard__ _n_ :three: A woman’s loose unbelted dress. _Like all the n
 __motley__ _adj, n_ /ˈmɒt li/  
 __Mounties__ _n_ _informal_ The federal police force of Canada. the formal term would be “Royal Canadian Mounted Police” or simply “RCMP.”  
 __muck__ _n_ :three: __5__ _slang chiefly Brit_ Rubbish.  
+__muddled__ _adj_  
 __mull<sup>1</sup>__ _vt_ /mŭl/ To think about extensively; ponder. __1__ __2__ To heat and spice (wine, for example).  
 __mull<sup>2</sup>__ _vi_ /mŭl/ To ruminate; ponder: _mull over a plan._  
 __mulled wine__ _n_ Wine heated with sugar and spices and often citrus fruit.  
@@ -804,6 +822,7 @@ __neologism__ _n_ :dart: /nee-AH-luh-jiz-um/ _Neologism_ can refer either to a n
 __nerve-racking__ _adj_ (nerve-wracking)  
 __nestled__ _adj_ Drawn or pressed close to someone or something for or as if for affection or protection.  
 __netherworld__  
+__netizen__ _n_  
 __neurovascular__ _adj_ :two: /ˌnʊərəʊˈvæskjʊlə/ Of, relating to, or affecting both the nerves and the blood vessels.  
 __New Orleans__ _n_ :mega:  
 __newsagent__ _n_ A shopkeeper who sells newspapers, stationery, etc. _Syn_ newsdealer  
@@ -931,8 +950,9 @@ __petrol station__ _n_ _Syn_ filling station, gas station, gasoline station
 __pettiness__ _n_  
 __petulance__ _n_  
 __petulant__ _adj_  
+__piquet__ _n_ A card game for two people playing with a reduced pack and scoring points for card combinations and tricks won.  
 __pizza__ _n_ :mega: /ˈpit sə/  
-__plaintively__ _adv_  
+__plaintively__ _adv_ :two::hammer:  
 __planter__ _n_  
 __plaster of Paris__ _n_ :two::hammer::camera:  
 __plastic wrap__  
@@ -984,6 +1004,7 @@ __pot__ _n_ __12__ _billiards snooker_ A shot by which a ball is pocketed.
 __potentate__ _n_ /ˈpəʊtənˌteɪt/  
 __pounce__ _v_  
 __poutine__ _n_ :two: /puːˈtiːn/ /puˈtin/ _Canadian_ A dish of chipped potatoes topped with curd cheese and a tomato-based sauce.  
+__precipice__ _n_ :astonished: __2__ The brink of a dangerous or disastrous situation: on the precipice of defeat.  
 __prehensile__ _adj_ :astonished: Immoderately desirous of acquiring e.g. wealth. _Syn_ avaricious, covetous, grabby, grasping, greedy  
 __presage__ _v_ :mega: /PRESS-ij/ To presage something is to give or be a sign that it will happen in the future. Presage is a formal synonym of _foreshadow_, _foretell_, and _predict._ _// The sudden gloom and ominous dark clouds clearly presaged a nasty storm._  
 __presentation__ _n_ /prez-uhn-tey-shuhn, pree-zen-tey-shuhn/  
@@ -1193,6 +1214,7 @@ __rout__ _n_ :two::hammer:
 __row__ _n_ :astonished: __1__ A noisy or quarrel or disturbance.  
 __rudder__ _n_  
 __rue__ _v_  
+__rueful__ _adj_  
 __ruefully__ _adv_ :two::hammer: _Syn_ contritely, remorsefully  
 __ruminate__ _v_ /ROO-muh-nayt/ To ruminate is to think carefully and deeply about something.  
 __runes__ _n_ __1__ Symbols of an ancient alphabet, used for divination.  
@@ -1272,6 +1294,10 @@ __skiff__ _n_ :two: A flatbottom open boat of shallow draft, having a pointed bo
 __skirmish__  
 __skittish__ _adj_  
 __sleuth__ _v_ /SLOOTH/ To sleuth is to carefully or methodically search for information, or to act as a detective. _We spent hours at the flea market sleuthing for 19th century paintings._  
+__slink<sup>1</sup>__ _vi_ To move in a quiet furtive manner; sneak: _slunk away ashamed; a cat slinking through the grass toward its prey._  
+__slink<sup>2</sup>__ _vt_ To give birth to prematurely: _The cow slinked its calf._  
+__slink<sup>3</sup>__ _adj_ Born prematurely.  
+__slumber__ _n, vi, vt_  
 __snowproof__ _adj_ Resistant to snow.  
 __soft skills__ _n pl_ (Industrial Relations & HR Terms) Desirable qualities for certain forms of employment that do not depend on acquired knowledge: they include common sense, the ability to deal with people, and a positive flexible attitude.  
 __soggy__ _adj_ __1__ Saturated or sodden with moisture; soaked: _soggy clothes._ __2__ Lacking spirit; dull: _a soggy bit of dialogue._ __3__ Humid; sultry: _a soggy afternoon in August._  
@@ -1297,6 +1323,7 @@ __spruceness__ _n_ The state of being neat and smart and trim. _Syn_ neatness
 __spur__ _v_  
 __spurious__ _adj_ Not genuine; false; counterfeit.  
 __squabble__ _n_ A noisy quarrel, often about a trivial matter. _I have no time for personal squabbles._  
+__squashy__ _adj_ (Of soil) soft and watery. _Syn_ boggy, marshy, miry, mucky, muddy, quaggy, sloughy, soggy, swampy, waterlogged, sloppy _The grass began to get squashy, and Kala Nag’s feet sucked and squelched as he put them down._  
 __squirm__ _v_  
 __staff<sup>1</sup>__ _n_  
 __staff<sup>2</sup>__ _vt_ __1__ To provide with a staff of workers or assistants. __2__ To serve on the staff of (an organization).  
@@ -1348,6 +1375,7 @@ __sure-fire__ _adj_ Guaranteed to work or happen.
 __surf__ _n_ The waves of the sea as they break upon a shore or reef.  
 __sustenance__ _n_  
 __Swahili__ _adj, n_  
+__swallow__ _n_ :es: golondrina  
 __sway__ _v_  
 __sword__ _n_ /sɔːd/ /sɔrd, soʊrd/  
 __synoptic__ _adj_ __3__ (Meteorology) Of or relating to data obtained nearly simultaneously over a large area of the atmosphere.  

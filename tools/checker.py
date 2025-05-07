@@ -236,6 +236,7 @@ VALID_PARTS_OF_SPEECH: Final[tuple[str, ...]] = (
     '_n, prep_',
     '_n, v_',
     '_n, vi_',
+    '_n, vi, vt_',
     '_n, vt_',
     '_phr informal_',
     '_phr v_',
