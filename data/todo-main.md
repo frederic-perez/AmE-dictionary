@@ -13,7 +13,7 @@ __advisory__ _adj, n_
 __Agatha__ _n_ :mega: /ˈæɡəθə/  
 __agency__ _n_  
 __aisle__ _n_ :mega:mute:[~~a~~isle]  
-__alacrity__ _n_ dart::mega: /uh-LAK-ruh-tee/ _Alacrity_ refers to a quick and cheerful readiness to do something.  
+__alacrity__ _n_ :dart::two::mega: /uh-LAK-ruh-tee/ _Alacrity_ refers to a quick and cheerful readiness to do something.  
 __aloof__ _adj_  
 __altostratus__ _n_  
 __aluminum__ _n_ /əˈlu mə nəm/ (BrE aluminium)  
@@ -64,6 +64,7 @@ __bodacious__ _adj_ /boh-DAY-shuss/ _Bodacious_ is used as an informal synonym o
 __bode__ _v_ :two:hammr:  
 __bomb__ _n, v_  
 __boom-and-bust__ _adj, n_  
+__boundary__ _n_ :mega: /ˈbaʊn də ri, -dri/  
 __brash__ _adj_  
 __brazen__ _adj_  
 __briar pipe__ _n_ A pipe made from the root (briarroot) of the tree heath.  
@@ -73,6 +74,7 @@ __budgetary__ _adj_
 __bugle__ _n_ :mega: /ˈbjuːɡəl/  
 __bull market__ _n_ [A bull market is when prices are rising—remember that bulls attack upward with their horns. Bull charges up → market going up = bull market]  
 __bullfrog__ _n_ :camera: Largest North American frog; highly aquatic with a deep-pitched voice.  
+__bullhorn__ _n_ A portable device consisting of a microphone attached to a loudspeaker, used especially to amplify the voice. a directional, high-powered, electrical loudspeaker or megaphone.  
 __bumptious__ _adj_ /BUMP-shus/ _Bumptious_ describes people who are rudely and often noisily confident or over-assertive. It can also be applied to actions or behaviors that show this same attitude. _Our host apologized for the bumptious party guest who caused a scene before being asked to leave._  
 __buoyancy__ _n_  
 __busybody__ _n_  
@@ -82,6 +84,8 @@ __camerlengo__ _n_ A cardinal who is appointed by the pope and charged with spec
 __canister__ _n_ _Oxygen canister._  
 __canonicals__ _n pl_ The vestments worn by clergy when officiating. _A bishop in canonicals._  
 __carcass__ _n_  
+__cardinal__ _n_ :mega:  
+__caries__ _n_ Soft decayed area in a tooth; progressive decay can lead to the death of a tooth. _Syn_ tooth decay, cavity  
 __cartridge__ _n_  
 __cavort__ _v_ Play boisterously. _Syn_ frisk, frolic, gambol, lark, rollick, romp, run around, skylark, sport, disport _The children cavorted in the water, splashing and ducking each other._  
 __ceilometer__ _n_ A photoelectric instrument for ascertaining cloud heights.  
@@ -150,10 +154,12 @@ __crawlway__ _n_ /ˈkrɔːlˌweɪ/ (Mining & Quarrying) A low passageway in a ca
 __crease__ _n_ __1__ A line made by pressing, folding, or wrinkling. __2a__ _Sports_ A rectangular area marked off in front of the goal in hockey and lacrosse.  
 __crescent<sup>1</sup>__ _n_ /ˈkrɛs ənt/  
 __crescent<sup>2</sup>__ _adj_  
+__crestfallen__ _adj_ Dispirited and depressed; dejected.  
 __crewer__ _n_ _informal_ (informal) A member of a crew, as on a ship or spacecraft.  
 __crisis__ _n_ :mega: /ˈkraɪ sɪs/ (_n pl_ crises /ˈkraɪ siːz/)  
 __critter__ _n_  
 __crouch__ _v_  
+__crow__ _vi_ :dart: __1__ To utter the shrill cry characteristic of a rooster. __2__ To exult over an accomplishment or piece of good fortune; boast. See Synonyms at boast1. __3__ :dart: To make a sound expressive of pleasure or well-being, characteristic of an infant. _The baby crowed gleefuly._  
 __cryptic__ _adj_ /KRIP-tik/ Something described as cryptic has or seems to have a hidden meaning, or is difficult to understand.  
 __cuddle__  
 __cup__ _vt_ __1__ To shape like a cup: _cup one’s hands._ _Cupping the hyperdrive levers in her hand._  
@@ -170,6 +176,13 @@ __dainty__ _adj, n_ :two::hammer:
 __damage__ _n_ /ˈdæm ɪdʒ/  
 __damning__ _adj_ /ˈdæmɪŋ/ (of evidence or a report) Suggesting very strongly that someone is guilty of a crime or has made a serious mistake.  
 __dander__ _n informal_ Temper or anger: _What got their dander up?_  
+__dandyism__ _n_ /ˈdan-dē-ˌi-zəm / __1__ The style or conduct of a dandy. __2__ A literary and artistic style of the latter part of the 19th century marked by artificiality and excessive refinement.  
+__darling__ _n_ /DAHR-ling/ _Darling_ can refer to a dearly loved person or to someone who is liked very much by a person or group. It can also mean “a kind and helpful person” as in, “Be a darling and carry this inside for me, would you?”  
+__darn<sup>1</sup>__ _interj_ Used to express dissatisfaction or annoyance.  
+__darn<sup>2</sup>__ _adj, adv_ Damn.  
+__darn<sup>3</sup>__ _vt_ :astonished: __1__ To mend (a garment, for example) by weaving thread or yarn across a gap or hole. _Tom was darning the holes of his sockets._ __2__ To damn.  
+__darn<sup>4</sup>__ _vi_ :astonished: To repair a hole, as in a garment, by weaving thread or yarn across it.  
+__darn<sup>5</sup>__ _n_ :astonished::camera: A hole repaired by weaving thread or yarn across it: a sock full of darns.  
 __dashboard__ _n_ __2__ (Automotive Engineering) _obsolete_ A board at the side of a carriage or boat to protect against splashing.  
 __daunting__ _adj_ Causing fear or discouragement; intimidating.  
 __dawdle__ _v_  
@@ -180,6 +193,7 @@ __debonair__ _adj_
 __debt__ _n_ :two::hammer::mega: /dɛt/  
 __decimate__ _v_ :mega: /DESS-uh-mayt /_Decimate_ can mean both “to destroy a large number of (plants, animals, people, etc.)” or “to severely damage or destroy a large part of (something).”  
 __decrypter__ _n_ A person or a thing, such as an algorithm, program, or device, that decrypts.  
+__dejected__ _adj_ dɪˈdʒɛk tɪd/ Being in low spirits; depressed. Miserable; despondent; downhearted.  
 __deliver__ _v_  
 __deluge__ _n_ :es: diluvio  
 __demagogue__ _n_ (demagog)  
@@ -190,6 +204,7 @@ __detainment__
 __diaper<sup>1</sup>__ _n_  
 __diaper<sup>2</sup>__ _vt_ __1__ To put a diaper on. __2__ To weave or decorate in a diaper pattern. _Diapered the monotony of life._  
 __didactics__ _n_ The activities of educating or instructing; activities that impart knowledge or skill. _Syn_ education, instruction, pedagogy, teaching  
+__diffidence__ _n_ Lack of self-confidence. _Syn_ self-distrust, self-doubt  
 __diffident__  
 __digital twin__ _n_  
 __dilatoriness__ _n_  
@@ -232,6 +247,7 @@ __duck<sup>3</sup>__ _vi_
 __duckboard__ _n_ :camera:  
 __ducks__ _n pl_ clothing made of duck (a durable, closely woven heavy cotton or linen fabric), esp white trousers for sports.  
 __due process__ _n_ _Syn_ equity, justice  
+__duress__ _n_ _Syn_ pressure, threat, constraint, compulsion, coercion _Her confession had been made under duress._  
 __eclectic__ _adj_ Made up of a variety of sources or styles.  
 __ecstatic__ _adj_ /ek-STAT-ik/ Someone described as ecstatic is very happy or excited; the person feels or shows ecstasy—that is, rapturous delight.  
 __edgeways__  
@@ -292,6 +308,7 @@ __face__ _n_ :mega: /feɪs/ (_vs_ phase /feɪz/)
 __face-lift__ _n, vt_  
 __facetious__ _adj_ /fuh-SEE-shuss/ _Facetious_ is used to describe something, such as a remark or behavior, that is meant to be humorous or funny but is sometimes instead annoying, silly, or improper. It can also be used to describe someone who is joking, often implying that they are doing so inappropriately.  
 __factoid__ _n_ /FAK-toyd/ A factoid is a brief and usually unimportant or trivial fact. _Factoid_ may also refer to an invented fact believed to be true because it appears in print.  
+__faint-hearted__ _adj_ Lacking conviction or boldness or courage. _Syn_ timid  
 __fairground attraction__  
 __fang__ _n_  
 __fangled__  
@@ -308,7 +325,7 @@ __Fed__ _n informal_ __1__ The Federal Reserve. __2__ (often _fed_) A federal ag
 __feint<sup>1</sup>__ _n_ /feɪnt/ __1__ A mock attack or movement designed to distract an adversary, as in a military manoeuvre or in boxing, fencing, etc. __2__ A misleading action or appearance. :es: finta  
 __feint<sup>2</sup>__ _vi_ To make a feint.  
 __feisty__ _adj_ :astonished: /FYE-stee/ _Feisty_ describes someone who has or shows a lively aggressiveness especially in being unafraid to fight or argue. In some regions of the US, _feisty_ may also be used as a synonym of _fidgety_, _quarrelsome_, or _frisky_. _Even her opponents admire her feisty spirit._  
-__fester__ _v_  
+__fester__ _v_ :two: /FESS-ter/ Something that festers becomes worse as time passes. _Fester_ can also mean, in the context of wounds, sores, etc., “to become painful and infected.” _We should deal with these problems now instead of allowing them to fester._  
 __fetishist__ _n_ One who engages in fetishism (especially of a sexual nature).  
 __fetter__ _v_ Restrain with fetters. _Syn_ shackle _My foes fettered me hand and foot and imprisoned me in a dank dungeon._  
 __feud__ _n_ :two::hammer::mega:  
@@ -382,6 +399,7 @@ __freemium<sup>2</sup>__ _adj_ Relating to a business model that offers basic se
 __freighter__ _n_  
 __frieze__ _n_  
 __frigatebird__ _n_ (frigate bird, man-o’-war bird)  
+__froc__ _n_ :three: __1__ A girl’s or woman’s dress.  
 __frond__ _n_  
 __frontline__ _adj, n_  
 __frontrunner__ _n_  
@@ -406,6 +424,7 @@ __giggle<sup>2</sup>__ _vi_ To laugh with repeated short, spasmodic sounds.
 __giggle<sup>3</sup>__ _vt_ To utter while giggling.  
 __glazed__ _adj_ __3__ Having a shiny surface or coating. _Glazed fabrics._ _Glazed doughnuts._ _Ceramic color glazed flower pots._  
 __glint__ _n_ :two: __1__ A momentary flash of light; a sparkle: _a glint of sunlight through the clouds._ __2__ A faint or fleeting indication; a trace: _a glint of suspicion on his face._  
+__gloss__ _v_ :astonished: /GLAHSS/ To gloss a word or phrase is to provide its meaning, or in other words, to explain or define it. _Many unfamiliar terms are glossed in the book’s introduction._  
 __glower__ _vi_  
 __gnome__ _n_  
 __goggle<sup>1</sup>__ _vi_ __1__ To stare with wide and bulging eyes. __2__ To roll or bulge. Used of the eyes.  
@@ -435,6 +454,7 @@ __guy wire__ _n_ :camera:
 __haberdasher__ _n_  
 __habit-forming__ _adj_ Capable of leading to physiological or psychological dependence. _Syn_ addictive _Cocaine is a habit-forming drug._  
 __hackneyed__ _adj_ Worn out through overuse; trite.  
+__haggard__ _adj, n_  
 __hailstone__ _n_ A pellet of hail.  
 __half-boot__ _n_ A boot reaching to the midcalf.  
 __hamper__ _n_ :hammer: _Laundry hamper._  
@@ -443,6 +463,7 @@ __handlebar mustache__
 __handmaid__  
 __handsomely__ _adv_ :two::hammer: _They had profited quite handsomely._  
 __handwringing__ _n_ (hand wringing)  
+__hard-boiled__ _adj_ :dart: __1__ (of an egg) Boiled in the shell long enough for the yolk and white to solidify. __2__ :dart: Unsentimental or realistic; tough: _a hard-boiled detective._  
 __hard-hit__ _adj_  
 __harlot__ _n_ A prostitute; whore.  
 __harrowing__ _adj_  
@@ -477,6 +498,7 @@ __hydrogen__ _n_ :mega:
 __ibid__ _adv_ Ibidem.  
 __idealize__ _v_ To consider perfect.  
 __idol__ _n_ :mega:  
+__ill-fated__ _adj_ Marked by or promising bad fortune. _Syn_ ill-omened, ill-starred, unlucky, doomed  
 __impartial__ _adj_ Not in favor of one side or the other; unbiased.  
 __imperious__ _adj_ Arrogantly domineering or overbearing.  
 __imperturbable__ _adj_ /im-per-TER-buh-bul/ _Imperturbable_ describes someone or something marked by extreme calm; such a person or thing is very hard to disturb or upset.  
@@ -679,7 +701,7 @@ __lug__ _v_
 __lump__ _vt_ __1__ To put together in a single group without discrimination.  
 __lunacy__ _n_  
 __lunge__ _v_  
-__lurid__ _adj_ __1__ Gruesome; horrible; revolting: _the lurid details of an accident._ __2__ Wildly dramatic or sensational; shocking: _the lurid tales of pulp magazines._ __3__ Shining with an unnatural, fiery glow; garishly red: _a lurid sunset._ __4__ Wan, pallid, or ghastly in hue; livid.  
+__lurid__ _adj_ :two: __1__ Gruesome; horrible; revolting: _the lurid details of an accident._ __2__ Wildly dramatic or sensational; shocking: _the lurid tales of pulp magazines._ __3__ Shining with an unnatural, fiery glow; garishly red: _a lurid sunset._ __4__ Wan, pallid, or ghastly in hue; livid.  
 __lycanthrope__ _n_  
 __macabre__ _adj_  
 __macaronic__ _adj_ :astonished: __1__ Characterized by Latin words mixed with non-Latin words often given Latin endings. __2__ Composed of a mixture of languages.  
@@ -697,6 +719,7 @@ __mahogany__ _n_ :es: caoba
 __maiden__ _adj_ _The _Titanic_ maiden voyage._  
 __mains tester__ _n_ An insulated screwdriver with a light in the handle.  
 __make__ _n_ :astonished:  
+__malaise__ _n_  
 __malapropism__ _n_ /MAL-uh-prah-piz-um/ A malapropism is an amusing error that occurs when a person mistakenly uses a word that sounds like another word but that has a very different meaning.  
 __malcontent__ _adj, n_  
 __malevolent__ _adj_ :smiling_imp: Wishing evil or harm to another or others.  
@@ -784,6 +807,7 @@ __mishap__
 __mite__ _n_ :hammer: _Dust mites._ :es: ácaro  
 __mix tape__  
 __mix-up__ _n_ A mistake that results from taking one thing to be another. _Syn_ confusion  
+__modicum__ _n_ /MAH-dih-kum/ _Modicum_ is a formal word that means “a small amount.” It is almost always used with _of._ _The band enjoyed a modicum of success in the early 2010s before becoming an international sensation._  
 __moka pot__ _n_  
 __mold__ _n_  
 __mollify__ _v_ To calm or soothe.  
@@ -887,6 +911,7 @@ __oligopoly__
 __one-stop__ _adj_  
 __onerous__ _adj_ :dart: __1__ Troublesome or oppressive; burdensome.  
 __onslaught__ _n_ :two::hammer::mega: /ˈɒnˌslɔt, ˈɔn-/  
+__ordinal__ _n_ :mega:  
 __ornate__ _adj_ Elaborately decorated.  
 __ostensible__ _adj_ :astonished: /ah-STEN-suh-bul/ _Ostensible_ is used to describe something that seems or is said to be true or real, but is possibly not true or real. In other words, it is plausible rather than demonstrably true or real.  
 __ostentatious__ _adj_ Describing a pretentious display.  
@@ -962,6 +987,7 @@ __pleasantry__ _n_
 __plebiscite__ _n_  
 __plenitude__ _n_ A full supply. _Syn_ plenteousness _They lived in a region blessed with a plenitude of natural resources._  
 __plethora__ _n_ /PLETH-uh-ruh/ _Plethora_ refers to a very large amount or number of something. Plethora is most often used in the phrase “a plethora of.”  
+__plethoric__ _adj_ :dart::astonished: Excessively abundant. _Syn_ overabundant, rife  
 __plod__ _v_ To walk heavily or move laboriously; trudge.  
 __plover__ _n_ :es: chorlito  
 __pluck__ _v_ :two::hammer:  
@@ -1228,6 +1254,7 @@ __sacrilege__ _n_ Desecration, profanation, misuse, or theft of something sacred
 __sacrilegious__ _adj_ Grossly irreverent toward what is or is held to be sacred. _Syn_ blasphemous, profane  
 __salad bar__ _n_  
 __sanguine__ _adj_  
+__sardonic__ _adj_  
 __scrapheap__ _n_  
 __screed__ _n_ /skriːd/  
 __screwworm__ _n_ The larva of the screwworm fly. The larva of a blow fly, _Cochliomyiamacellaria_, that is a pest of livestock.  

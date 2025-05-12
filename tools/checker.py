@@ -226,6 +226,7 @@ VALID_PARTS_OF_SPEECH: Final[tuple[str, ...]] = (
     '_determiner_',
     '_fig_',
     '_gramo_',
+    '_interj_',
     '_n informal_',
     '_n phr_',
     '_n pl_',
