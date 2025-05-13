@@ -31,7 +31,8 @@ __(with) kind regards__ A common, semi-formal valediction used at the end of a l
 __a (good) run for your money__ (a run for your money, a run for one’s money)  
 __a (whole) host of (something)__  
 __a bad egg__ :smiling_imp:  
-__a balancing act__ :dart::two::hammer:  
+__a bad lot__ _old-fashioned, British English_ A person who is dishonest: _I’m not surprised. I always said he was a bad lot, didn’t I?_  
+__a balancing act__ :dart::three: A situation in which one must accomplish a number of tasks at the same time. _Mary quickly discovered that working full-time while going to school was going to be quite the balancing act._  
 __a big deal__  
 __a big if__  
 __a bit dicey__ :two: Carrying a certain degree of risk or danger; uncertain of a favorable outcome.  
@@ -73,6 +74,7 @@ __a sinking feeling__ (sinking feeling)
 __a slew of (something)__ A very large number or amount of something; a lot of something.  
 __a stiff upper lip__ The ability to remain stoic during difficult situations.  
 __a surefire way__  
+__a trifle__ :dart::five: A little. _I’m feeling a trifle hungry, but I don’t want a big, heavy meal right now._ _She was a trifle prudish._  
 __a whole new ball game__ (a different ball game)  
 __a woman of her word__ A woman who can be expected to keep or follow through with her promises or intentions; a truthful, trustworthy, or reliable person. (Masculine: “man of his word.”) _Bob, I’m a woman of my word. If I tell you I’ll be at your house tomorrow morning at 10, then that’s when I’ll be there._  
 __abandon ship__  
@@ -101,6 +103,7 @@ __arrow in the quiver__ One of several options or alternatives available.
 __as of now__  
 __as of yet__  
 __as we know it__ As it is now or has been for a long time; as we currently experience it.  
+__at a crossroads__ At a point when a choice must be made; at a point of change.  
 __at bay__  
 __at one’s peril__ _somewhat formal_ Used to say that if one does something there could be bad consequences. _Restaurants that ignore the smoking ban do so at their peril._  
 __at peace__ _Feel at peace._  
@@ -111,23 +114,27 @@ __Backhanded compliment__ A remark that appears to be a compliment but also cont
 __be (of) no use to man or beast__ To be completely useless; to serve no purpose; to be unsuitable to anyone or anything. _I admire the intelligence with which you argue your points, friend, but unless you’re willing to put your words into action, I’m afraid your philosophizing is of no use to man or beast._  
 __be a cakewalk__  
 __be a good sport__  
+__be a riot__ :three: _slang_ To be uproariously funny. _Stop, stop, my sides hurt from laughing! Liz, you’re a riot!_  
 __be given no quarter__ To be offered no mercy, concession, or indulgence.  
 __be hard on (one)__  
 __be little love lost between (two people)__ Of two people, to dislike one another very much. _There’s little love lost between Sarah and my roommate, so it’ll be a little awkward now that Sarah and I are dating._  
 __be more trouble than it’s worth__ To not be important, useful, or beneficial enough to justify the effort or difficulty that something requires. _With all the repairs this car will need to be road-worthy, it’s going to be more trouble than it’s worth!_  
 __be my guest__  
 __be no slouch__ :dart: To be very hardworking, enthusiastic, or skillful. _Tom might not be the friendliest coworker in the world, but he’s no slouch when it comes to running the company’s IT systems._  
+__be on the rocks__ __2__ To be in jeopardy and likely to end or fail. Typically used in reference to romantic relationships. _Did you hear that Bill and Maria are on the rocks?_  
 __be ripe for the picking__ To be in an ideal position or at the perfect stage to be utilized, benefited or profited from, taken advantage of, exploited, etc. (Alludes to fruit being at the right stage to be harvested.)  
 __be the shit__ _rude slang_ To be very good, excellent, cool, etc.  
 __beat it__ _I just did my part and then I beat it._  
 __beat the bushes__  
 __beats me__ :two: ((it) beats me) _slang_ A response when one does not know the answer to a question.  
+__beauty is in the eye of the beholder__  
 __beer goggles__  
 __belly up__ Dad.  
 __big ass (something)__ A slang term for referring to something large. _Yo bernie, are you plannin’ a big ass party?_  
 __big name__  
 __black eye__  
 __blind drunk__ _slang_ Very drunk.  
+__blip__  
 __blow smoke__ :smiling_imp: __3__ To intentionally mislead.  
 __bomb(shell)__ A stunning piece of news that is dropped without warning.  
 __booger__  
@@ -145,7 +152,7 @@ __browbeat (one) into (something)__ To thoroughly and continually dominate, inti
 __bubble up__  
 __bump in the road__ A problem that arises and interferes with forward progress (usually only temporarily).  
 __bump-drafting__  
-__bunkum__ :two: (buncombe) Nonsense or foolishness. _His explanation is total bunkum and doesn’t answer the question at all._  
+__bunkum__ :three: (buncombe) Nonsense or foolishness. _His explanation is total bunkum and doesn’t answer the question at all._  
 __bury the hatchet__  
 __Busman’s holidays__ _informal_ A vacation during which one engages in activity that is similar to one’s usual work.  
 __by all accounts__  
@@ -165,6 +172,7 @@ __change tack__ To employ a different method or approach in addressing a particu
 __checks and balances__ :dart: Rules within a power structure that keep one person or section from becoming excessively powerful. _The founders created three separate branches of government to act as a system of checks and balances._  
 __chew on this bone__  
 __chide (one) for (something)__ To reprimand or tease one about something.  
+__chuck__ :two::hammer:  
 __cleanup hitter__ In baseball, the cleanup hitter is the hitter who bats fourth in the lineup. Although the third man up is generally the hitter with the highest batting average, cleanup hitters often have the most power on the team and are typically the team’s best power hitter; their job is to “clean up the bases,” hence the name.  
 __clear the air__ :two::hammer:  
 __close to one’s chest__  
@@ -175,7 +183,7 @@ __come down to the wire__ To be unresolved or have an outcome that is in questio
 __come to a head__ To reach a point of intensity at which action must be taken.  
 __come to grips__  
 __come to pass__  
-__come to terms__  
+__come to terms__ :two: __1__ To agree to or do something, especially a set of demands or conditions. _The government came to terms after the rebels’ unflinching siege of the king’s palace._  
 __come to think of it__ :dart: _set phrase_ Used when one has had a sudden realization. _Yeah, come to think of it, Dave was at the party, too._  
 __comes with the job__  
 __comparison is the thief of joy__ [:scroll: The phrase is often attributed to Theodore Roosevelt, although the exact wording may vary] An expression that suggests that comparing oneself to others can lead to feelings of inadequacy and dissatisfaction. The idea behind it is that when people focus on what others have or achieve, they may overlook their own accomplishments and happiness.  
@@ -191,6 +199,7 @@ __dang__
 __dawn on__ (dawn upon)  
 __deadpan__  
 __Debbie Downer__  
+__defect from (something)__ To leave some place, often under repressive conditions and when it is prohibited. _I defected from my homeland after witnessing the atrocities carried out by the government._  
 __devil-may-care__ :dart: (devil-may-care attitude, devil-may-care manner) Nonchalant, especially toward risks or consequences. _I can’t believe he went out on his motorcycle in this rain. His devil-may-care attitude is going to get him killed._  
 __diddly__ _n_ :dart: __1__ Nothing; anything at all (when used in negative statements). _I have to admit that I know diddly when it comes to computers._ __2__ A small or worthless amount: _His advice wasn’t worth diddly to me._  
 __dig (something)__ _slang_ To understand, approve of, or enjoy something. _I really dig this music, man!_  
@@ -231,6 +240,7 @@ __drape (something or oneself) over (someone or something)__ __1__ To lay on a p
 __drape over (something)__ [for cloth] To cover something and hang down. _The robe draped over her knees, but she was still cold._ _The tablecloth draped over and reached down to the floor._  
 __draw a bead on (someone or something)__  
 __draw on__ :dart::two: __1__ :dart: To access and use a helpful resource. _Drawing on my experience speaking in front of my class definitely helped when I had to give a speech to the whole school._  
+__draw the longbow__ To exaggerate or overstate. _Boy, she’s really drawing the longbow—I wouldn’t believe a word she says._  
 __draw to a close__  
 __draw water__  
 __dreamboat__ A very attractive or appealing person.  
@@ -282,6 +292,7 @@ __feel like a new man/woman__ To feel completely refreshed and in good health an
 __feel the heat__  
 __flame out__ __1__ To be very unsuccessful or fail. _That guy flamed out really quickly—his NBA career lasted only a few months._  
 __flip the script__ :dart: __1__ _vt_ To lie; to change one’s story. _The guy flips the script depending on whose listening._ __2__ :dart: _vt_ To reverse positions in a situation; to turn the tables on someone. To change or reverse something dramatically. _Now he’s the one who’s in trouble! That’s really flipping the script!_ _Wow, they really flipped the script on their opponents after the intermission. The score went from 0-3 to 5-3!_  
+__fly into a passion__ _literary_ To suddenly become very angry.  
 __for a change__ _Threepo was keeping his mouth shut for a change._  
 __for all practical purposes__ (for (all) practical purposes)  
 __for good measure__ As extra or in addition, to ensure that something is good or successful. _You should put your report into a protective cover for good measure._  
@@ -342,16 +353,21 @@ __high muckety muck__ _slang_ An especially important, influential, and authorit
 __highways and byways__  
 __history repeats itself__ _prov_ The same kinds of events seem to happen over and over. Said when something that has happened in the past recurs in the present. Can be used in the negative to mean the opposite. _It seems that history is about to repeat itself for that poor country; it is about to be invaded again._  
 __hit and fade__  
+__hit the ground running__ To begin something energetically and successfully.  
 __hit the road__  
 __HMU__ Hit me up.  
+__hobnob with (someone)__ To interact with someone, typically someone who has more power, fame, or success than oneself.  
 __hogwash__  
 __hold (one’s) breath__  
+__hold (one’s) tongue__ :dart: To stay quiet despite wanting to say something.  
 __hold the phone__ __2__ Wait; stop. Wait just a minute.; Don’t rush into something. _Hold the phone! Let’s think about it a little longer._ _Hold the phone. I just had another idea._ _Whoa, hold the phone—Jack and Jamie are dating now?_  
 __homie__  
+__honor (someone) for (something)__ To praise or celebrate someone for a particular act or thing. _Tonight, the school is honoring Eric for his accomplishments as a scholar-athlete._  
 __hoopla__  
 __hope springs eternal__  
 __if I had (some monetary unit) for every (something)__ (if I had a dime)  
 __if nothing else__ :two::hammer:  
+__ill at ease__ :dart: Nervous or anxious. _My sister loves performing, but I’m ill at ease on stage._  
 __in a funk__ :dart: _slang_ Feeling sad or unhappy for a lengthy period of time. _Ever since I got rejected from my first-choice college, I’ve been in a funk._  
 __in a pickle__ In a troublesome or difficult situation. The adjectives “pretty” and “right” are commonly used before “pickle.” _He was really in a pickle when he dropped his sandwich in the actual pickle jar!_  
 __in all honesty__ In one’s sincere opinion; without any disingenuousness. _In all honesty, I think this project plan is severely flawed._  
@@ -456,6 +472,7 @@ __lag behind__
 __land of plenty__ A fictional or imagined utopian place where there is an abundance of everything needed to survive and flourish.  
 __languish in__  
 __larger than life__  
+__lark__  
 __laser focus__  
 __laser focused__  
 __lash around__  
@@ -488,6 +505,7 @@ __leer at__
 __leg up__ (a leg up; give a leg up)  
 __let alone__  
 __level up__  
+__lewk__ __1__ _slang_ One’s personal style, typically when it is very closely and uniquely associated with them. The term is a slang spelling of “look.” _Bedazzled cat’s eye glasses are just part of her lewk._ __2__ _slang_ An outfit that has been deliberately and carefully chosen to showcase one’s unique personal style, perhaps for a specific event. _I’m not surprised she went with a glitzy Old Hollywood lewk tonight—it really suited her perfectly._  
 __lightning speed__ An extremely high speed; great rapidity.  
 __like a fish out of water__ :two::hammer:  
 __like a ramrod__ (straight as a ramrod)  
@@ -598,6 +616,7 @@ __make scarce__ (make (oneself) scarce)
 __make some noise__ (informal, usually as a command) To cheer or holler loudly and enthusiastically. _Everybody make some noise for Jodeci!_  
 __make strides__  
 __make the best of a bad bargain__ To deal with and create the best possible outcome of a bad, unfortunate, or unpleasant situation or set of circumstances. _I know this data entry job isn’t what you wanted for a career, but for the time being, try and make the best of a bad bargain._  
+__make the best of a bad job__ :dart: _prov_ To try to salvage something from a ruined situation. To deal with and create the best possible outcome of a bad, unfortunate, or unpleasant situation or set of circumstances. _When the dry cleaners ruined Mrs. Anderson’s coat, they made the best of a bad job by offering to buy her another one._ _I know this data entry job isn’t what you wanted for a career, but for the time being try and make the best of a bad job._  
 __make the most of it__  
 __make the welkin ring__ To make a very loud, reverberating sound or noise. (“Welkin” is an archaic or literary word for the skies or the heavens, only used in contemporary English as a part of this phrase.) _The candidate’s speech was drowned out as the crowd made the welkin ring with their cheers._  
 __make the world go round__ To be of critical or integral importance to the ordinary operation of life or the world at large. (Sometimes used hyperbolically.) _It’s an unavoidable truth that money and commerce make the world go round._ _I tell you, coffee made the world go round when I was in grad school!_  
@@ -703,6 +722,7 @@ __not a snowball’s chance in hell__ Not any possibility, chance, or likelihood
 __not any hard feelings__ No ill will; no resentment or anger. _I’m sorry that things ended this way, but I hope there aren’t any hard feelings._  
 __not be lost on (someone)__ To have a significant or noticeable impact or effect on someone; to be valued, appreciated, or understood by someone. _I assure you, Senator, the implications and possible consequences of the proposed law have not been lost on me._ _I hope all our efforts to help your career have not been lost on you, John._  
 __not by a long shot__  
+__not have much between the ears__ To be rather stupid, dull, or dimwitted; to not have much common sense or basic intelligence.  
 __not have two nickels to rub together__ To be extremely poor; to have very little or no money to spend. Primarily heard in US. _During college, when I didn’t have two nickels to rub together, I survived off of ramen noodles for months at a time._  
 __not in a million years__ :two: Not at any point; under absolutely no circumstances.  
 __not in a month of Sundays__ Not at any point; under absolutely no circumstances. _Not in a month of Sundays did I think that I would actually win the lottery!_  
@@ -725,6 +745,8 @@ __nuke the fridge__
 __numb out__  
 __number cruncher__  
 __nurse (one’s) drink__ To consume one’s beverage, especially alcohol, rather slowly, either as a means of conserving it or to avoid getting drunk.  
+__nut out__  
+__oat opera__ A film or theatrical production about the American West (i.e., a western), especially one that is clichéd or formulaic. _My grandfather and I had a tradition of watching old oat operas every Sunday on TV._  
 __occur to (one)__ To be (suddenly) realized by one; to come into one’s mind.  
 __odd couple__ A particularly unlikely or mismatched pair of people.  
 __odd duck__  
@@ -853,19 +875,23 @@ __put the jinx on (something or someone)__ To invoke a curse upon someone or som
 __put the screws on something__  
 __put to good use__ (put (something) to good use) To use something in a way that will be beneficial or have significant results. Employ to the best advantage, as in _I’m sure this dictionary will be put to good use._  
 __put to the test__ (put (someone or something) to the test)  
+__put up with (someone or something)__  
 __qualms (about someone or something)__  
 __queer fish__ _informal Brit_ An eccentric or odd person.  
+__quote unquote__ __1__ Used to report something said verbatim. Used almost exclusively in speech, as the word represents a set of quotation marks. _The president said that he, quote unquote, would support the initiative fully._  
 __rack up__  
 __ramp up__  
 __ranging shots__ Test shots or preliminary shots fired to determine the correct range or distance to a target. _They fired ranging shots._  
 __rat race__ Fierce competition to maintain or improve one’s position in the workplace or social life.  
 __rattled__ __1__ Shocked, bewildered, flustered, or unnerved. _The whole incident left me feeling pretty rattled._  
+__reach for the sky__  
 __rec room__ _US and Canadian_ A room in a house used by the family for relaxation and entertainment In full recreation room.  
 __red light camera__  
 __red-handed__  
 __rest one’s case__  
 __revel in (something)__ To be extremely happy or celebratory about something; to relish something.  
 __ride the wave__ (ride (on) the wave (of something))  
+__right as rain__ ((as) right as rain) In good health or order; feeling or working just as someone or something should. In excellent health or condition. _After a few days of rest, you’ll be right as rain again._ _I have a broken foot, but once I get my cast off, the doctor says I’ll be as right as rain._  
 __rip off__  
 __rip-off__ :smiling-imp:  
 __rise to (something)__ :dart: To increase one’s effort in response to a challenging situation. _If you’re going to lead this team, you’ve got to rise to the challenge and start motivating them._  
@@ -886,6 +912,7 @@ __sell like hot cakes__
 __set the scene__  
 __set the stage for (something)__ __2__ To be the catalyst for something that happens later. _Their squabbling at Thanksgiving set the stage for a total screaming match on Christmas._  
 __set up shop__ :two::hammer:  
+__shine a spotlight on (someone or something)__ To focus on or bring attention to someone or something.  
 __shoot the breeze__ To engage in idle conversation.  
 __shtick__ _slang_ A particular gimmick, routine, or characteristic that distinguishes one or sets one apart from others. Originally from Yiddish.  
 __shuffle off__  
