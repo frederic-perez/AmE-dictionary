@@ -19,11 +19,13 @@ __altostratus__ _n_
 __aluminum__ _n_ /əˈlu mə nəm/ (BrE aluminium)  
 __ancillary__ _adj, n_ :two::hammer:  
 __antihistamine__ _n_  
+__apotropaic__ _adj_ /ap-uh-troh-PAY-ik/ Something described as apotropaic is designed or intended to avert evil. _The etchings are believed to be associated with ancient apotropaic rituals._  
 __apparatchik__ _n_ /ah-puh-RAH-chik/ :dart: _Apparatchik_ is used disapprovingly to refer to a blindly devoted official, follower, or member of an organization, such as a corporation or political party.  
 __appositeness__ _n_ Appropriateness for the occasion. _Syn_ aptness  
 __apprehension__ _n_ :dart::pencil2:  
 __aquaculture__ _n_  
 __archetype__ _n_ /AHR-kih-type/ _Archetype_ refers to someone or something that is seen to be a perfect example. It is also a word for the original pattern or model of which all things of the same type are representations or copies.  
+__argus-eyed__ _adj_ :astonished: Carefully observant or attentive; on the lookout for possible danger. _Syn_ open-eyed, vigilant, wakeful  
 __ascendancy__ _n_ (ascendence)  
 __atherectomy__ _n_ Surgical removal of atherosclerotic plaque from an artery using a catheter fitted with a cutting device.  
 __atoll__ _n_ :es: atolón  
@@ -37,6 +39,8 @@ __baize__ _n_ /beɪz/ A soft feltlike fabric, usu. dyed green, commonly used for
 __bald-faced__ _adj_ Brash; undisguised. _Syn_ brazen, insolent, audacious, barefaced, bodacious, brassy _John’s excuse for missing work was such a bald-faced lie that his boss immediately fired him._  
 __baleen whale__ _n_ Another name for whalebone whale.  
 __bally__ _adj, adv_ :dart::two: /ˈbælɪ/ _slang Brit_ A euphemism for bloody. _It’s a bally fake!_  
+__baronetcy__ _n_ :two: The rank or dignity of a baronet or baronetess.  
+__bart__ _n_ :astonished: Aa member of the British order of honor; ranks below a baron but above a knight. _Syn_ baronet _Since he was a baronet he had to be addressed as Sir Henry Jones, Bart._  
 __bastion__ _n_ _Be a bastion of truth in a time of lies._  
 __bawdy__ _adj_ (of language, plays, etc) Containing references to sex, esp to be humorous. _Bawdy lips._  
 __bear market__ _n_ :two: [An easy way to remember the meaning of a bear market is to think about how a bear attacks: it swipes its paws downward. Bear swipes down → market going down = bear market]  
@@ -71,6 +75,7 @@ __briar pipe__ _n_ A pipe made from the root (briarroot) of the tree heath.
 __bristle__ _v_ :two: Rise up as in fear. _Syn_ uprise, stand up _The creaking of the house at night makes the hair on the nape of my neck bristle._  
 __broach__ _vt_  
 __budgetary__ _adj_  
+__buffer__ _n_ /ˈbʌfə/ _n_ _informal_ _offensive Brit_ A stupid or bumbling man (esp in the phrase _old buffer_).  
 __bugle__ _n_ :mega: /ˈbjuːɡəl/  
 __bull market__ _n_ [A bull market is when prices are rising—remember that bulls attack upward with their horns. Bull charges up → market going up = bull market]  
 __bullfrog__ _n_ :camera: Largest North American frog; highly aquatic with a deep-pitched voice.  
@@ -83,6 +88,7 @@ __calabash__ _n_ :two::hammer:
 __camerlengo__ _n_ A cardinal who is appointed by the pope and charged with specific duties (such as certifying the pope’s death and preparing a conclave) during a papal interregnum.  
 __canister__ _n_ _Oxygen canister._  
 __canonicals__ _n pl_ The vestments worn by clergy when officiating. _A bishop in canonicals._  
+__carbuncle__ _n_  
 __carcass__ _n_  
 __cardinal__ _n_ :mega:  
 __caries__ _n_ Soft decayed area in a tooth; progressive decay can lead to the death of a tooth. _Syn_ tooth decay, cavity  
@@ -95,6 +101,7 @@ __chandler__ _n_ :two::hammer:
 __chary__ _adj_ /CHAIR-ee/ _Chary_ is usually used with about or of to describe someone who is cautious about doing something. _The director is chary about spending money._ _I’ve always been chary of travelling alone._  
 __chinchilla__ _n_  
 __Chink__ _n_ :three: _Offensive Slang_ Used as a disparaging term for a person of Chinese birth or descent.  
+__chirpy__ _adj_ Characterized by liveliness and lightheartedness. _Syn_ perky, buoyant  
 __chlorophyl__ _n_ (chlorophyll) Any of a group of green pigments found in photosynthetic organisms; there are four naturally occurring forms.  
 __cineraria__ _n_  
 __cloud seeding__ _n_  
@@ -213,6 +220,7 @@ __diligent__ _adj_ Marked by painstaking effort; hard-working.
 __dingy__ _adj_  
 __diorama__ _n_  
 __dirt road__ _n_ :dart: An unsealed country road.  
+__discomfited__ _adj_ /dɪsˈkʌmfɪtɪd/ __1__ Disappointingly unsuccessful. _Syn_ disappointed, foiled, frustrated, thwarted, defeated __2__ Uncomfortable.  
 __dish towel__ _n_ (tea towel)  
 __dismantle__ _vt_  
 __disputatious__ _adj_ /dis-pyuh-TAY-shus/ _Disputatious_ is a formal word used to describe someone who often disagrees and argues with other people (in other words, someone inclined to dispute). It can also describe something marked or characterized by arguments or controversies, or something that provokes debate or controversy. _The podcast is hosted by a disputatious pair whose sparring has drawn legions of listeners._  
@@ -399,6 +407,7 @@ __freemium<sup>2</sup>__ _adj_ Relating to a business model that offers basic se
 __freighter__ _n_  
 __frieze__ _n_  
 __frigatebird__ _n_ (frigate bird, man-o’-war bird)  
+__frightful__ _adj_  
 __froc__ _n_ :three: __1__ A girl’s or woman’s dress.  
 __frond__ _n_  
 __frontline__ _adj, n_  
@@ -411,6 +420,7 @@ __furtive__ _adj_ /FER-tiv/
 __futile__ _adj_ /ˈfyut l, ˈfyu taɪl/  
 __galoshes__  
 __galvanize__ _vt_ :dart::two: To stimulate to action. :dart: _Syn_ startle _The appeal has galvanized them into taking positive action._  
+__gaol__ _n_ :dart::astonished::two::mega: /dʒeɪl/ _Brit_ A variant spelling of _jail._  
 __gape__  
 __garble__ _v_ /GAR-bul/ To garble something, such as a word, name, message, etc., is to cause it to be unclear or distorted. This type of garbling can be the result of an accident, ignorance, or a transmission error. Garble can also mean “to so alter or distort as to create a wrong impression or change the meaning.”  
 __gawk__  
@@ -445,6 +455,7 @@ __grove__ _n_
 __gruff__ _adj_ /grʌf/ __1__ (of a voice, bark, etc) Low and throaty. Low and harsh; hoarse: _a gruff voice._ :es: (voz) ronca __2__ Rough, brusque, or surly: _a gruff manner._  
 __grunt__ _v_ _Quiet, please. The (tennis) players are about to begin grunting._ _That’s my grunting tennis coach [a pig]._  
 __guesswork__ _n_ :two::hammer:  
+__guffaw__ _n_ _He broke into a guffaw._  
 __gum tree__ _n_ (eucalyptus tree)  
 __gun dog__ _n_ A dog trained or bred to assist hunters, as in flushing or retrieving game.  
 __gurgle__ _v_  
@@ -454,7 +465,7 @@ __guy wire__ _n_ :camera:
 __haberdasher__ _n_  
 __habit-forming__ _adj_ Capable of leading to physiological or psychological dependence. _Syn_ addictive _Cocaine is a habit-forming drug._  
 __hackneyed__ _adj_ Worn out through overuse; trite.  
-__haggard__ _adj, n_  
+__haggard__ _adj, n_ :two::hammer:  
 __hailstone__ _n_ A pellet of hail.  
 __half-boot__ _n_ A boot reaching to the midcalf.  
 __hamper__ _n_ :hammer: _Laundry hamper._  
@@ -471,6 +482,7 @@ __haul__ _vt_
 __haunch__ _n_  
 __havoc__  
 __hay fever__ _n_ :es: alergia al polen  
+__heady__ _adj_ _Her heady perfume._  
 __heather__ _n_  
 __hefty__ _adj_  
 __heinous__ _adj_ Grossly wicked or reprehensible; abominable. _Syn_ flagitious _Abusing an animal is a heinous act._  
@@ -483,6 +495,7 @@ __hobbit__ _n_ /HAH-bit/ A hobbit is a member of a fictitious peaceful and frien
 __hobble<sup>1</sup>__ _n_  
 __hobble<sup>2</sup>__ _vi_  
 __hobble<sup>3</sup>__ _vt_  
+__hobnob__ _vi_ To associate on very friendly terms: _to hobnob with royalty._  
 __holdout__ _n_  
 __honest__ _adj_  
 __hoot__ _v_ _The alarms were hooting._  
@@ -741,6 +754,7 @@ __mantic__ _adj_ Of, relating to, or having the power of divination; prophetic. 
 __mantra yoga__ _n_ A meditation practice that focuses on chanting sacred syllables along with conscious breathing and a meditative focus to quiet the mind, cultivate spiritual energy, and create states of enlightenment.  
 __mar__ _vt_  
 __marauding__ _adj_  
+__marcel__ _n, v_  
 __March hare__ _n_ A hare during its breeding season in March, noted for its wild and excitable behaviour (esp in the phrase _mad as a March hare_).  
 __Mardi Gras__ _n_ :mega: /ˈmɑr di ˌgrɑ, ˈgrɑ/  
 __marionette__ _n_ _Syn_ puppet  
@@ -1103,6 +1117,7 @@ __rabid__ _adj_ :astonished: Marked by excessive enthusiasm for and intense devo
 __rabies__ _n_ /ˈreɪ biz/ _Rabies is normally fatal if untreated and it’s a horrible death._  
 __racket__ _n_ :two: __1__ A loud distressing noise.  
 __racketeer__ _n_ :smiling_imp::two: One who obtains money by an illegal enterprise usually involving intimidation.  
+__racketeering__ _adj_  
 __raddled__ _adj_ :dart: /RAD-uld/ Someone described as raddled is in a confused or befuddled state (as from drinking). _Raddled_ can also describe things that are broken-down or worn.  
 __Radio Flyer__ _n_ :dart: Radio Flyer is an American toy company best known for their popular red toy wagon.  
 __radome__ _n_ A protective housing for a radar antenna made from a material that is transparent to radio waves.  
@@ -1252,6 +1267,7 @@ __rut__ _n_
 __ruthless__  
 __sacrilege__ _n_ Desecration, profanation, misuse, or theft of something sacred. _Syn_ blasphemy, desecration, profanation  
 __sacrilegious__ _adj_ Grossly irreverent toward what is or is held to be sacred. _Syn_ blasphemous, profane  
+__sadism__ _n_ :mega: ˈseɪdɪzəm; ˈsæ-/  
 __salad bar__ _n_  
 __sanguine__ _adj_  
 __sardonic__ _adj_  
@@ -1266,6 +1282,9 @@ __scuffed shoes__
 __scuffling<sup>1</sup>__ _adj_ Of or relating to fighting in a disorderly manner. _Scuffling sounds._  
 __scuffling<sup>2</sup>__ _n_ The act of fighting in a disorderly manner.  
 __scupper__ _v_  
+__scurf__ _n_  
+__scurfy__ _adj_  
+__scuttlebutt__ _n_ /SKUTT-ul-butt/ _Scuttlebutt_ refers to rumor or gossip—in other words, talk or stories about someone or something that may not be true. _According to the scuttlebutt in the financial markets, the company will be downsizing soon._  
 __seagrass__ _n_ Any of various submersed marine grasslike plants that grow in shallow coastal waters.  
 __seamstress__ _n_ :dart:  
 __search warrant__ _n_  
@@ -1287,6 +1306,7 @@ __shamble<sup>1</sup>__ _vi_ :dart: To walk or move along in an awkward or unste
 __shamble<sup>2</sup>__ _n_ An awkward or unsteady walk.  
 __shard__ _n_ _Shards on a doughnut._  
 __sharp__ _adj_ __6__ Vigilant; alert: _kept a sharp lookout for shoplifters._ _Stay sharp._  
+__sheer__ _n_ :dart::two: (Textiles) Any transparent fabric used for making garments.  
 __shenanigan__  
 __Sherpa__ _n_ /ˈʃɛr pə, ˈʃɜr-/  
 __shim__ _v_  
@@ -1315,6 +1335,7 @@ __sinew__ _n_
 __singe__ _vt_ __1__ To burn superficially or slightly; scorch. _To singe one’s clothes._ __2__ To burn the ends, nap, or the like, of (hair, cloth, etc.). __3__ To subject (a carcass) to flame in order to remove hair, bristles, feathers, etc.  
 __singeing__ _n_  
 __single-panel cartoon__ _n_ :dart: (single-panel comic strip) Single-panel cartoons are standalone illustrations that convey humor in a single image, often featuring a witty caption. The Far Side _is a popular one-panel syndicated comic strip created by Gary Larson._  
+__singsong__ _adj_ Uttered in a monotonous cadence or rhythm as in chanting. _Syn_ chantlike, intoned  
 __Situation Room__ _n_  
 __skid__ _v_ :two::hammer: _The car skidded to a halt._ → :es: _El coche patinó y paró._  
 __skiff__ _n_ :two: A flatbottom open boat of shallow draft, having a pointed bow and a square stern and propelled by oars, sail, or motor.  
@@ -1336,7 +1357,7 @@ __sortie__ _n_
 __sounding__ _n_ :two: __2__ A probe of the environment for scientific observation.  
 __sovereign<sup>1</sup>__ _n_  
 __sovereign<sup>2</sup>__ _adj_  
-__soverreignty__ _n_ :two::hammer:  
+__sovereignty__ _n_ :three::hammer:  
 __spearhead__ _v_  
 __specious__ _adj_ :smiling_imp: Based on pretense; deceptively pleasing. _Syn_ gilded, meretricious  
 __spellbound__ _adj_ Having your attention fixated as though by a spell. _Syn_ fascinated, hypnotized, mesmerized, transfixed  
@@ -1365,9 +1386,11 @@ __stardom__ _n_
 __start__ _v_ _Han started down the Falcon’s entry ramp._  
 __stash__ _n, vt_  
 __stasis__ _n_  
+__stateroom__ _n_ [Note: _Staterooms_ usually imply a higher level of comfort and luxury compared to standard _cabins_] A private cabin or compartment with sleeping accommodations on a ship or train. _The “Stateroom Scene” from _A Night at the Opera_ is one of the most iconic comedic sequences in film history._  
 __statutory__  
 __steroids__ _n_ :mega:  
 __stevedore__ _n_ One who is employed in the loading or unloading of ships. _Syn_ dock worker, docker, dockhand, dock-walloper, dockworker, loader, longshoreman, lumper  
+__stevia__ _n_  
 __stewardship__ _n_  
 __stiff__ _adj_ :three::hammer:  
 __stirrup pants__ _n_  
@@ -1380,7 +1403,9 @@ __straw boater__ _n_ :camera:
 __stray__ _vi_  
 __streamline__ _vt_ :dart::two::hammer:  
 __stretcher__ _n_  
+__stricture__ _n_ A restriction; an adverse criticism: _The critic made a stricture regarding the script._  
 __stride__ _n_  
+__stringboard__ _n_ :camera: A board that runs along the side of a staircase to support or cover the ends of the steps.  
 __strut__ _n_ :two: A strong rod or structural component, usually made of metal, that is used to support or reinforce a structure.  
 __stubborn__ _adj_ :pencil2::mega:  
 __stud__ _n_ _Stud with nuts._  
@@ -1404,6 +1429,7 @@ __sustenance__ _n_
 __Swahili__ _adj, n_  
 __swallow__ _n_ :es: golondrina  
 __sway__ _v_  
+__swine__ _n_ :two: __2__ A person regarded as contemptible or disgusting. _He’s a drunken swine._  
 __sword__ _n_ /sɔːd/ /sɔrd, soʊrd/  
 __synoptic__ _adj_ __3__ (Meteorology) Of or relating to data obtained nearly simultaneously over a large area of the atmosphere.  
 __T-bone__  
@@ -1413,6 +1439,7 @@ __tadpole__ _n_ [:scroll: C15 _taddepol_, from _tadde_ toad + _pol_ head, poll]
 __tantrum__ _n_  
 __tarpaulin__ _n_  
 __tartly__ _adv_  
+__team sport__ _n_  
 __temper__ _v_  
 __templet__ _n_ A model or standard for making comparisons. _Syn_ guide, template  
 __tender__ _v_  
@@ -1443,6 +1470,7 @@ __tortoise__ _n_ (_vs_ turtle)
 __totally__ _adv_ :dart: [In contemporary American English, the word “toto” itself is not commonly used as an idiom or phrase. However, the term “totally” is a derivative that is frequently used in casual conversation to mean “completely” or “entirely.” For example, someone might say, “I’m totally on board with that idea,” meaning they completely agree.]  
 __traipse<sup>1</sup>__ _v_  
 __traipse<sup>2</sup>__ _n_  
+__tramp__ _v_ :dart:  
 __transfixed__  
 __transitory__ _adj_ Short-lived; temporary.  
 __transmigrate__ _v_ Be born anew in another body after death. _Syn_ reincarnate  
