@@ -2078,7 +2078,7 @@ __boarding ladder__ _n_
 __boarding school__ _n_ :dart: A school that provides meals and lodging.  
 __boardroom__ _n_ :three::hammer: _Private boardrooms available._  
 __boardwalk__ _n_ :two::hammer: _Boot heels clap on the boardwalk._  
-__boast__ _v_ :nine: (boasted) __1__ To say (something about oneself) in a proud or self-admiring way. _I can boast about it for eternity._ _Abe boasted of his wine expertise._ __2__ To have or possess (a desirable feature): _a mall that boasts 80 shops._ _Our beautifully renovated hotel boasts 123 rooms._  
+__boast__ _v_ :dart::nine::m: __1__ To say (something about oneself) in a proud or self-admiring way. _I can boast about it for eternity._ _Abe boasted of his wine expertise._ __2__ :dart: To have or possess (a desirable feature): _a mall that boasts 80 shops._ _Our beautifully renovated hotel boasts 123 rooms._  
 __boaters__  
 __boatload__ _n_ :two: The number of passengers or the amount of cargo that a boat can hold.  
 __boatswain__ _n_ :two::hammer::mega: /BOH-sun/  
@@ -2093,11 +2093,12 @@ __bobby socks__
 __bobtail<sup>1</sup>__ _n_ __1__ A short or docked tail. __2__ An animal with such a tail.  
 __bobtail<sup>2</sup>__ _adj_ __1__ Having a bobtail. __2__ Cut short; abbreviated.  
 __bobtail<sup>3</sup>__ _vt_ To cut short the tail of; dock.  
+__bobwhite__ _n_ A popular North American game bird; named for its call. _Syn_ bobwhite quail, partridge  
 __bocce ball__ _n_  
 __bocce__ _n_ A game of Italian origin similar to lawn bowling that is played with wooden balls on a long narrow court covered with fine gravel.  
 __bod__ _n_ :two::hammer:  
-__bodacious__  
-__bode__ _v_ :nine::m: (bodes, boding) Be a portent of a particular outcome. Indicate by signs. _These signs bode bad news._ _Syn_ augur, presage, portend, foretell _St-Pierre’s return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._ _Her hesitation at his proposal boded trouble in their future._  
+__bodacious__ _adj_ :two: /boh-DAY-shuss/ _Bodacious_ is used as an informal synonym of remarkable and noteworthy, as well as sexy and voluptuous. In some dialects of the Southern and Midland US, bodacious is used by its oldest meaning: “outright, unmistakable.” _The bodacious decor of the boutique hotel is intended to appeal to the young and the hip._  
+__bode__ _v_ :nine::m: Be a portent of a particular outcome. Indicate by signs. _These signs bode bad news._ _Syn_ augur, presage, portend, foretell _St-Pierre’s return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._ _Her hesitation at his proposal boded trouble in their future._  
 __bodega__ _n_ __1__ (esp. among Spanish-speaking Americans) A grocery store. __2__ A wineshop. __3__ A warehouse for storing or aging wine.  
 __bodhi tree__  
 __boding__ _n_ An omen or foreboding, especially of evil. _Syn_ premonition, presentiment, foreboding  
@@ -2140,7 +2141,7 @@ __bolster<sup>1</sup>__ _n_ A long, thick pillow that is placed under other pill
 __bolster<sup>2</sup>__ _v_ :nine::m: __1__ Support or strengthen. _Syn_ strengthen, support, reinforce :es: reforzar __2__ To buoy up or hearten. _Syn_ boost _Visitors bolstered the patient’s morale._ _The fall in interest rates is starting to bolster confidence._  
 __bolt__ _v_ :three::hammer: (bolted) _The windows were closed and bolted._ _Bolted onto the ISS._  
 __bomb cyclone__  
-__bomb__ _n, v_ :five::mega::mute:[bom~~b~~]:hammer: (bombing)  
+__bomb__ _n, v_ :six::mega::mute:[bom~~b~~]:hammer: (bombing)  
 __bombast__ _n_ :eight: /BAHM-bast/ __1__ Bombast refers to speech or writing that is meant to sound important or impressive but that is not sincere or meaningful. Grandiloquent, pompous speech or writing. _Syn_ claptrap, fustian _He found that he could look back upon the brass and bombast of his earlier gospels and see them truly._ _The other world leaders at the international conference had little interest in being subjected to the host president’s bombast._ __2__ _Obsolete_ Material used for padding. _Let’s drop the bombast and look at the evidence._  
 __bombastic__ _adj_ :six: To be bombastic is to be full of hot air, like a politician who makes grand promises and doesn’t deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you’ll understand how the meaning came about.  
 __bombinate__ _vi_ :two: /BOM-buh-nayt/ /BAHM-buh-nayt/ [:scroll: From Latin bombinare, from bombilare (to hum, buzz), from Latin bombus (humming), from Greek bombos (booming, humming)] To bombinate is to make a sustained, murmuring sound similar to a buzz or drone. To buzz or hum. _Syn_ bombilate _When the bees all bombinate like that, it makes me nervous!_ _The only sounds Jared could hear in the office that night were those of his own typing and the air conditioner bombinating._  
@@ -2207,6 +2208,7 @@ __boolean__ _n_ :mega:
 __boom and bust__  
 __boom box__  
 __boom__ _n_ :seven::hammer: _Cargo booms._ _Log boom._ __1__ _nautical_ A spar to which a sail is fastened to control its position relative to the wind.  
+__boom-and-bust__ _adj, n_  
 __boomer chains__  
 __boomerang effect__  
 __boomtown__ _n_ :two: A town experiencing an economic or a population boom.  
@@ -2281,6 +2283,7 @@ __bounce castle__ _n_
 __Bouncing Betty__  
 __bouncy house__ _n_  
 __bouncy__  
+__boundary__ _n_ :mega: /ˈbaʊn də ri, -dri/  
 __bounteous__ _adj_ Existing in, characterized by, or producing abundance: _bounteous harvests; bounteous land._  
 __bountiful__ _adj_ :six: __1__ Plentiful; ample (esp in the phrase _a bountiful supply_). _Bountiful buffets._ __2__ Giving freely; generous.  
 __bounty hunter__  
@@ -2348,7 +2351,7 @@ __brander__
 __branding iron__ _n_ :camera:  
 __brandish__ _v_ :four: /BRAN-dish/ To wave or flourish (a weapon, for example) menacingly. _Syn_ flourish, wave  
 __branzino__  
-__brash<sup>1</sup>__ _adj_ :four: Behaving and talking in a loud and confident way that annoys other people. _Brash talk._ _It sounded brash._ _Brash confidence._  
+__brash<sup>1</sup>__ _adj_ :five: Behaving and talking in a loud and confident way that annoys other people. _Brash talk._ _It sounded brash._ _Brash confidence._  
 __brash<sup>2</sup>__ _n_ A mass of loose fragments, as of ice.  
 __brass__ _n_ _informal_ :six: Important and powerful people. _The ceremony was attended by a stunning array of military brass._ _The top brass of the Bureau._ _She’ll be manipulated by the police brass._ _The military brass._ _The top brass of the executive tem._ _The brass guild._  
 __brasserie__ _n_ :three: /ˌbræs əˈri/ An unpretentious restaurant or tavern that serves drinks, esp. beer, and simple food.  
@@ -2364,7 +2367,7 @@ __bravura__
 __brawn__ _n_ :two: Physical strength in contrast to intelligence. _Commando work required as much brain as brawn._ _Syn_ physical strength, muscle  
 __brawny__ _adj_ Strong and muscular. _Syn_ hefty, sinewy, muscular, powerful  
 __bray__ _v_ :four::hammer: (brayed, braying) _Donkey’s braying._  
-__brazen__ _adj_ :five: With brazen disregard for the sign that said “no cellphones please” the woman took a long call in the doctor’s office waiting room. Brazen refers to something shocking, done shamelessly. _Brazen lyrics._  
+__brazen__ _adj_ :six: With brazen disregard for the sign that said “no cellphones please” the woman took a long call in the doctor’s office waiting room. Brazen refers to something shocking, done shamelessly. _Brazen lyrics._  
 __brazenly__ _adv_ :three::hammer:  
 __brazenness__ _n_ The state or quality of being impudent or arrogantly self-confident.  
 __brazer__  
@@ -2418,6 +2421,7 @@ __brethren__ _n pl_ :dart::six: __1__ A plural of brother. _Political brethren._
 __breviary__ _n_ A book containing the hymns, offices, and prayers for the canonical hours.  
 __brew__ _n_ :two: __1__ Coffee; occasionally, tea. _This is my kind of brew, hot, black, and arA book containing the hymns, offices, and prayers for the canonical hours.omatic._ __2__ Beer; a can, bottle, or glass of beer. _Hey, give me a cold brew, will ya?_ _They stop in after work for one or more brews._  
 __brewpub__ _n_  
+__briar pipe__ _n_ A pipe made from the root (briarroot) of the tree heath.  
 __briar__ _n_ :three::hammer: _Briar patch._  
 __bribe__ _n_ :smiling_imp:  
 __bric-a-brac__ _n_ :four: Small, usually ornamental objects valued for their antiquity, rarity, originality, or sentimental associations. _Bric-a-brac stores._ _Syn_ knickknackery, whatnot  
@@ -2455,7 +2459,7 @@ __brisker__
 __brisket__ _n_ :five::hammer: _BBQ beef brisket._  
 __briskly__ _adv_ :two::hammer: _Briskly walking._  
 __bristle<sup>1</sup>__ _n_ :four::mute:[bris~~t~~le]:hammer: (bristles)  
-__bristle<sup>2</sup>__ _v_ :eight::mute:[bris~~t~~le] To behave in a way that shows you are very angry or annoyed: _bristle with rage._  
+__bristle<sup>2</sup>__ _v_ :nine::m::mute:[bris~~t~~le] Rise up as in fear. _Syn_ uprise, stand up To behave in a way that shows you are very angry or annoyed: _bristle with rage._ _The creaking of the house at night makes the hair on the nape of my neck bristle._  
 __Bristolian__  
 __britches__ _pl n_ :six: /ˈbrɪtʃɪz/ _(Clothing & Fashion)_ A variant spelling of _breeches_ (trousers extending to the knee or just below, worn for riding, mountaineering, etc.). _We think that you’re a little too big for your britches._ _He got too big for his own britches._  
 __Britons__  
@@ -2463,7 +2467,7 @@ __Britpop__ _n_ /ˈbrɪtˌpɒp/ The characteristic pop music performed by some B
 __Brittany__ _n_ (not to be confused with _Britannia_; French name: _Bretagne_) A historical region and former province of northwest France on a peninsula between the English Channel and the Bay of Biscay. It was settled c. 500 by Britons driven out of their homeland by the Anglo-Saxons. The region was formally incorporated into France in 1532.  
 __brittle<sup>1</sup>__ _adj_ :nine::m: Something brittle is easily broken. _Do you have brittle bones? Then no football or rugby for you._ :es: frágil  
 __brittle<sup>2</sup>__ _n_ Caramelized sugar cooled in thin sheets. _Clean the peanut brittle out of your mouth._  
-__broach__ _v_ :nine::m: (broached) To bring up (a subject) for discussion or debate. _Syn_ initiate _To broach a conversation._ _He broached the subject._ _The King does not wish the marriage to be broached on his part._  
+__broach__ _vt_ :nine::m: (broached) To bring up (a subject) for discussion or debate. _Syn_ initiate _To broach a conversation._ _He broached the subject._ _The King does not wish the marriage to be broached on his part._  
 __broad-spectrum__ _adj_ /BRAWD-SPEK-truhm/ Effective in a wide variety of uses.  
 __broad<sup>1</sup>__ _n_ :two: __2__ _offensive_ _slang_ A woman or girl.  
 __broad<sup>2</sup>__ _adj_ :three: __2__ Extending far and wide. _The nine S&P 500 stocks with the greatest exposure to Europe didn’t fall apart but still did worse than the broad market._ (vs abroad) Full; open. _In broad daylight._  
@@ -2571,12 +2575,14 @@ __buddy__
 __budge__ _v_ :three::hammer: (budged)  
 __budget line__ _n_ _I had already sent my editor a budget line on the story._  
 __budget__ _n_ :two::hammer: _The surface energy budget._  
-__budgetary__ _n_ _All positions are subject to final budgetary approval._  
+__budgetary<sup>1</sup>__ _adj_  
+__budgetary<sup>2</sup>__ _n_ _All positions are subject to final budgetary approval._  
 __buff<sup>1</sup>__ _n informal_ :nine::m: /bʌf/ (buffs) One who is enthusiastic and knowledgeable about a subject. _A Civil War buff._ _Some folks are movie buffs._ _He appears buff._ _Culture buffs._ _A history buff._ :es: entusiasta  
 __buff<sup>2</sup>__ _adj informal_ :three: _(of a person or their body)_ In good physical shape with well-developed muscles. _The driver was a buff blond named March._ _Images of buff biceps._ _The buff athletes who strutted._  
 __buff<sup>3</sup>__ _v_ :three::hammer: (buffed) _Joel placed the award on his piano and buffed it._  
 __buffalo__ _n_ :two::hammer: (_n pl_ buffalo or buffaloes or buffalos)  
-__buffer__ _vt_ :two::hammer:  
+__buffer<sup>1</sup>__ _n_ /ˈbʌfə/ _n_ _informal_ _offensive Brit_ A stupid or bumbling man (esp in the phrase _old buffer_).  
+__buffer<sup>2</sup>__ _vt_ :two::hammer:  
 __buffet<sup>1</sup>__ _n_ :two::hammer: _A ten-dollar buffet._  
 __buffet<sup>2</sup>__ _v_ :five::hammer: (buffeted) _The country has been buffeted by civil unrest._  
 __buffoon__ _n_ :dart::three: A person given to clowning and joking. _Syn_ merry andrew, clown, goof, goofball  
@@ -2587,7 +2593,7 @@ __bugaboo__ _n_ __1__ An object of often obsessive fear, anxiety, or irritation.
 __bugbear__ _n_ :four: /BUG-bair/ __1__ Any source, real or imaginary, of needless fright or fear. __2__ A persistent problem or source of annoyance.  
 __bugger__ _n_ :two::hammer: (buggers)  
 __buggy__ _n_ :two::mega::hammer: _In the early 1900s, guests arrived by horse and buggy._  
-__bugle<sup>1</sup>__ _n_ :three::hammer: _The echo of Chinese bugles._  
+__bugle<sup>1</sup>__ _n_ :four::hammer::mega: /ˈbjuːɡəl/ _The echo of Chinese bugles._  
 __bugle<sup>2</sup>__ _v_ _Bugling elk._  
 __bugout__  
 __build a future__ _phr_ :es: labrarse un futuro  
@@ -2605,6 +2611,7 @@ __bulk<sup>1</sup>__ _n_ :three::hammer: _For the bulk of eight years._
 __bulk<sup>2</sup>__ _v_  
 __bulk<sup>3</sup>__ _adj_ _Bulk items._  
 __bulkhead__ _n_ :six::hammer: _The bulkhead door._  
+__bull market__ _n_ [A bull market is when prices are rising—remember that bulls attack upward with their horns. Bull charges up → market going up = bull market]  
 __Bull__ _n_  
 __bull__ _n_ :four: __1a__ An adult male bovine mammal. __b__ The uncastrated adult male of domestic cattle. __c__ The adult male of certain other large animals, such as alligators, elephants, moose, or whales. __6__ (Bull) An official document issued by the pope and sealed with a bulla. :es: bula _Papal Bull._ _No Pope ever issued a Bull to approve of something._ __20__ The center of a target. _Syn_ bull’s eye _My next two shots were bulls._  
 __bulldozer__ _n_ __1__ A powerful tractor fitted with caterpillar tracks and a blade at the front, used for moving earth, rocks, etc. __2__ _informal_ A person who bulldozes. An overbearing person; a bully. _Syn_ browbeater, bully, hector, intimidator  
@@ -2614,8 +2621,8 @@ __bullet<sup>1</sup>__ _n_ :two::hammer::mega: /ˈbʊl ɪt/
 __bullet<sup>2</sup>__ _v_ _Watch the pros bullet down the icy bobsled track._  
 __bulletin__ _n_ :two::hammer:  
 __bulletproof__ _adj_ _A bulletproof relationship._  
-__bullfrog__ _n_ Largest North American frog; highly aquatic with a deep-pitched voice.  
-__bullhorn__ _n_ :dart::two: A portable device consisting of a microphone attached to a loudspeaker, used especially to amplify the voice.  
+__bullfrog__ _n_ :two::camera: Largest North American frog; highly aquatic with a deep-pitched voice.  
+__bullhorn__ _n_ :dart::three: A portable device consisting of a microphone attached to a loudspeaker, used especially to amplify the voice. A directional, high-powered, electrical loudspeaker or megaphone.  
 __bullion__ _n_ :two::hammer:  
 __bullock__ _n_ __1__ A castrated bull; a steer. __2__ A young bull.  
 __bullous__  
@@ -2644,7 +2651,7 @@ __bumper<sup>1</sup>__ _adj_
 __bumper<sup>2</sup>__ _n_ :two::hammer: _The bumpers of vehicles._  
 __bumpkin__  
 __bumps in the road__  
-__bumptious__ _adj_ Crudely or loudly assertive. _Syn_ cocky, forward, arrogant, brash, swaggering, vaunting, pushy _I could hardly believe that the bumptious young suitor I had once turned away had grown into the polite, refined gentleman standing before me._  
+__bumptious__ _adj_ :two: /BUMP-shus/ _Bumptious_ describes people who are rudely and often noisily confident or over-assertive. It can also be applied to actions or behaviors that show this same attitude. Crudely or loudly assertive. _Syn_ cocky, forward, arrogant, brash, swaggering, vaunting, pushy _I could hardly believe that the bumptious young suitor I had once turned away had grown into the polite, refined gentleman standing before me._ _Our host apologized for the bumptious party guest who caused a scene before being asked to leave._  
 __bumpy__ _adj_ :two::hammer: _A bumpy ride._  
 __bun__ _n_ :two::hammer: _All that on a a sesame seed bun._  
 __bunch<sup>1</sup>__ _n_ _Bunches of grapes._  
@@ -2678,7 +2685,7 @@ __bunting__ _n_ :three::hammer: __3__ A snug-fitting, hooded sleeping bag or one
 __Bunyanesque__ _adj_  
 __buoy<sup>1</sup>__ _n_ :three: A floating signal; a life preserver.  
 __buoy<sup>2</sup>__ _v_ :four: (buoyed) __1__ Keep (someone or something) afloat. __2__ Sustain.  
-__buoyancy__ _n_ :dart::two: __2__ Ability to recover quickly from setbacks; resilience. __3__ Lightness of spirit; cheerfulness. Irrepressible liveliness and good spirit. _Syn_ irrepressibility _With his natural buoyancy of spirits, he began to hope again._  
+__buoyancy__ _n_ :dart::three: __2__ Ability to recover quickly from setbacks; resilience. __3__ Lightness of spirit; cheerfulness. Irrepressible liveliness and good spirit. _Syn_ irrepressibility _With his natural buoyancy of spirits, he began to hope again._  
 __buoyant__ _adj_ :five: __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _Buoyant energy._ _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
 __buoyed__  
 __burb__ _n informal_  
@@ -2745,7 +2752,7 @@ __bustle<sup>2</sup>__ _n_ :eight::mute:[bus~~t~~le]:hammer: _The bustle of dail
 __bustling__ _adj_ :nine::m::dart: __1__ Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._ __2__ Very crowded. _The sidewalks are bustling with people._  
 __busy bee__ _n_ An alert and energetic person.  
 __busy__ _adj_ :mega: /ˈbɪzɪ/  
-__busybody__ _n_ :four: A person who meddles or pries into the affairs of others. :es: entrometido  
+__busybody__ _n_ :five: A person who meddles or pries into the affairs of others. :es: entrometido  
 __busyness__ _n_ :two::hammer:  
 __but then again__ _adv_ Alternative form of _then again_.  
 __butcher paper__  
@@ -2824,7 +2831,7 @@ __C-suite__ _n_ The executive suite in an organization. It refers to all the “
 __c-word__ _n_ (sometimes capital) A euphemistic way of referring to the word cunt.  
 __c/o__  
 __cab__ _n_ _The cab of his truck._  
-__cabal__ _n_ :five: __1__ A conspiratorial group of plotters or intriguers. __2__ A secret scheme or plot.  
+__cabal__ _n_ :six: __1__ A conspiratorial group of plotters or intriguers. __2__ A secret scheme or plot.  
 __cabana__ _n_ :two::hammer: (cabanas)  
 __cabbage__ _n_ :six::hammer: (cabbages) _A head of cabbage was bubbling in a copper pot of water._  
 __cabin__ _n_ _Uncle-s Tom Cabin._  
@@ -2881,6 +2888,7 @@ __cajolery__ _n_ :smiling_imp: Flattery intended to persuade. _Syn_ blandishment
 __cake__ _n_ :two::dart: __1__ Money. (From bread, dough.) _I can’t scrape together enough cake to do the job._ _They cost a lot of cake._  
 __cakeage__ _n_ /ˈkeɪkɪdʒ/ A charge levied in a restaurant for serving cake (such as a birthday cake) brought in from outside the premises.  
 __cakewalk__  
+__calabash__ _n_ :two::hammer:  
 __calamari__ _n_ :astonished: Squid prepared as food. _Syn_ squid _Lisa ordered calamari at the Italian restaurant._  
 __calamitous__ _adj_ :two::mega: Causing or involving calamity; disastrous. Having extremely unfortunate or dire consequences; bringing ruin. _Syn_ disastrous, fatal, fateful, black _Sire, I ask your majesty’s pardon for the calamitous news which I bring._  
 __calamity__ _n_ :two::mega::hammer:  
@@ -2934,6 +2942,7 @@ __Cambodia__
 __cameleer__  
 __camellia__  
 __cameo__ _n_ __1__ A small sculpture carved in relief on a background of another color. __2__ A short description, literary sketch, etc., that effectively presents the subject. __3__ A very brief appearance by a well-known actor or celebrity in a film, typically in a non-speaking role. __4__ A brief appearance or a minor role.  
+__camerlengo__ _n_ A cardinal who is appointed by the pope and charged with specific duties (such as certifying the pope’s death and preparing a conclave) during a papal interregnum.  
 __camo__  
 __camouflage__  
 __camp<sup>1</sup>__ _n_ :five::hammer: _The Pacquiao camp did not object._ _Available May-August for groups, camps, and conferences._  
@@ -2971,7 +2980,7 @@ __candy stripper__ _n_
 __cane brakes__  
 __canebrake__ _n_  
 __canine tooth__ _n_ One of the four pointed conical teeth (two in each jaw) located between the incisors and the premolars. _Syn_ canine, cuspid, eye tooth, eyetooth, dogtooth  
-__canister__ _n_ :five::hammer: _Organic coffee canisters._ _A film canister._  
+__canister__ _n_ :six::hammer: _Organic coffee canisters._ _A film canister._ _Oxygen canister._  
 __canker sore__ _n_ A small, painful ulcer or sore, usually of the mouth.  
 __cannabidiol__ _n_ (CBD) A cannabinoid found in cannabis. _It calms us like a CBD gummy before bed._  
 __cannibalization__ _n_  
@@ -2985,6 +2994,7 @@ __canny__ _adj_ :two: Astute; shrewd, knowing; sagacious.
 __canoe__ _n_ :mega:  
 __canoeing__  
 __canon__ _n_  
+__canonicals__ _n pl_ The vestments worn by clergy when officiating. _A bishop in canonicals._  
 __canonization__ _n_ _The canonization of the King._  
 __canopy__ _n_ :two::hammer: _A dense canopy of snow._  
 __canorous__ _adj_ Richly melodious. _Syn_ songful _When I sing in the shower, my off-key caterwauling takes on a surprisingly canorous tone._  
@@ -3057,16 +3067,17 @@ __carbine__ _n_
 __carbon footprint__ _n_ :two::hammer: _Pills have a lesser carbon footprint than equivalent liquid medications._  
 __carbon paper__ _n_  
 __carboy__ _n_ :camera: A large glass bottle encased in a basket or box, used esp. for holding corrosive liquids. :es: garrafón  
-__carbuncle__ _n_  
+__carbuncle__ _n_ :two::hammer:  
 __carburettor__ _n_ :two: (carburetter, carburetor)  
-__carcass__ _n_ :three: (carcase) Remains from which the substance or character is gone. _Syn_ remains, remnants _At one end of the camp lies the carcass of an aircraft which crashed in the mountains._ _A whale carcass._  
+__carcass__ _n_ :four: (carcase) Remains from which the substance or character is gone. _Syn_ remains, remnants _At one end of the camp lies the carcass of an aircraft which crashed in the mountains._ _A whale carcass._  
 __carceral__ _adj_ /KAHR-suh-rul/ Of, relating to, or suggesting a jail or prison. _The room was eerily quiet and had a carceral aesthetic._ _Her article stressed the importance of rehabilitative measures in carceral institutions, such as career preparation and mental health support._  
 __card reader__ _n_  
 __card__ _v_  
 __Cardan__ _n_ A universal joint that transmits motion unchanged. _Optional Cardan mount._  
 __cardiac arrest__ _n_ :two::hammer:  
 __cardigan__ _n_ A usually collarless sweater or jacket that opens the full length of the center front.  
-__cardinal__ _adj_ :four::mega: /KAHRD-nul/ __1__ Of foremost importance; paramount: _a cardinal rule; cardinal sins._ _Syn_ fundamental, central, primal _The cardinal rule of membership in the secret society was never to reveal its existence to outsiders._ __2__ Dark to deep or vivid red.  
+__cardinal<sup>1</sup>__ _adj_ :four::mega: /KAHRD-nul/ __1__ Of foremost importance; paramount: _a cardinal rule; cardinal sins._ _Syn_ fundamental, central, primal _The cardinal rule of membership in the secret society was never to reveal its existence to outsiders._ __2__ Dark to deep or vivid red.  
+__cardinal<sup>2</sup>__ _n_ :mega:  
 __cardioembolic__ _adj_  
 __cardioplegia__ _n_ /ˌkɑːdɪəʊˈpliːdʒɪə/ Deliberate arrest of the action of the heart, as by hypothermia or the injection of chemicals, to enable complex heart surgery to be carried out.  
 __careen__ _v_ :nine::m::camera: __1__ Move sideways or in an unsteady way. _Syn_ wobble, tilt, shift _The ship careened out of control in the storm._ __2__ _(nautical)_ To heave a ship down on one side so as to expose the other, in order to clean it of barnacles and weed, or to repair it below the water line. __3__ _(nautical)_ To tilt on one side. __4__ To lurch or sway violently from side to side. _An open-air tour bus careened wildly out of control._ __5__ To tilt or lean while in motion. __6__ To career, to move rapidly straight ahead.  
@@ -3081,6 +3092,7 @@ __caretaker__ _n_ :four::hammer: __2__ _(modifier)_ Holding office temporarily; 
 __cargo pants__  
 __cargo-pocket__ _n_ (cargo pocket) _A nice cargo-pocket handbook._  
 __caribou__  
+__caries__ _n_ Soft decayed area in a tooth; progressive decay can lead to the death of a tooth. _Syn_ tooth decay, cavity  
 __carillon__ _n_ _Sounds of bubbling founyains and carillons._  
 __Carioca__  
 __carjack__ _v_ :two: To commit forcible theft of (a vehicle) from its users.  

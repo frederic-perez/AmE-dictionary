@@ -62,36 +62,6 @@ __blitz__ _n_ (blitzkrieg)
 __bloody__ _adj_ :es: cruento  
 __blow fly__ _n_ (blowfly) Large usually hairy metallic blue or green fly; lays eggs in carrion or dung or wounds.  
 __blow-dryer__ _n_  
-__boast__ _v_ :three::hammer:  
-__bobwhite__ _n_ A popular North American game bird; named for its call. _Syn_ bobwhite quail, partridge  
-__bodacious__ _adj_ /boh-DAY-shuss/ _Bodacious_ is used as an informal synonym of remarkable and noteworthy, as well as sexy and voluptuous. In some dialects of the Southern and Midland US, bodacious is used by its oldest meaning: “outright, unmistakable.” _The bodacious decor of the boutique hotel is intended to appeal to the young and the hip._  
-__bode__ _v_ :two:hammr:  
-__bomb__ _n, v_  
-__boom-and-bust__ _adj, n_  
-__boundary__ _n_ :mega: /ˈbaʊn də ri, -dri/  
-__brash__ _adj_  
-__brazen__ _adj_  
-__briar pipe__ _n_ A pipe made from the root (briarroot) of the tree heath.  
-__bristle__ _v_ :two: Rise up as in fear. _Syn_ uprise, stand up _The creaking of the house at night makes the hair on the nape of my neck bristle._  
-__broach__ _vt_  
-__budgetary__ _adj_  
-__buffer__ _n_ /ˈbʌfə/ _n_ _informal_ _offensive Brit_ A stupid or bumbling man (esp in the phrase _old buffer_).  
-__bugle__ _n_ :mega: /ˈbjuːɡəl/  
-__bull market__ _n_ [A bull market is when prices are rising—remember that bulls attack upward with their horns. Bull charges up → market going up = bull market]  
-__bullfrog__ _n_ :camera: Largest North American frog; highly aquatic with a deep-pitched voice.  
-__bullhorn__ _n_ A portable device consisting of a microphone attached to a loudspeaker, used especially to amplify the voice. a directional, high-powered, electrical loudspeaker or megaphone.  
-__bumptious__ _adj_ /BUMP-shus/ _Bumptious_ describes people who are rudely and often noisily confident or over-assertive. It can also be applied to actions or behaviors that show this same attitude. _Our host apologized for the bumptious party guest who caused a scene before being asked to leave._  
-__buoyancy__ _n_  
-__busybody__ _n_  
-__cabal__ _n_  
-__calabash__ _n_ :two::hammer:  
-__camerlengo__ _n_ A cardinal who is appointed by the pope and charged with specific duties (such as certifying the pope’s death and preparing a conclave) during a papal interregnum.  
-__canister__ _n_ _Oxygen canister._  
-__canonicals__ _n pl_ The vestments worn by clergy when officiating. _A bishop in canonicals._  
-__carbuncle__ _n_  
-__carcass__ _n_  
-__cardinal__ _n_ :mega:  
-__caries__ _n_ Soft decayed area in a tooth; progressive decay can lead to the death of a tooth. _Syn_ tooth decay, cavity  
 __cartridge__ _n_  
 __cavort__ _v_ Play boisterously. _Syn_ frisk, frolic, gambol, lark, rollick, romp, run around, skylark, sport, disport _The children cavorted in the water, splashing and ducking each other._  
 __ceilometer__ _n_ A photoelectric instrument for ascertaining cloud heights.  
