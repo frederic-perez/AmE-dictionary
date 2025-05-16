@@ -65,36 +65,6 @@ __blow-dryer__ _n_
 __cartridge__ _n_  
 __cavort__ _v_ Play boisterously. _Syn_ frisk, frolic, gambol, lark, rollick, romp, run around, skylark, sport, disport _The children cavorted in the water, splashing and ducking each other._  
 __ceilometer__ _n_ A photoelectric instrument for ascertaining cloud heights.  
-__chaff<sup>1</sup>__ _v_ :three::hammer:  
-__chaff<sup>2</sup>__ _n_ :three: Good-natured teasing; banter.  
-__chandler__ _n_ :two::hammer:  
-__chary__ _adj_ /CHAIR-ee/ _Chary_ is usually used with about or of to describe someone who is cautious about doing something. _The director is chary about spending money._ _I’ve always been chary of travelling alone._  
-__chinchilla__ _n_  
-__Chink__ _n_ :three: _Offensive Slang_ Used as a disparaging term for a person of Chinese birth or descent.  
-__chirpy__ _adj_ Characterized by liveliness and lightheartedness. _Syn_ perky, buoyant  
-__chlorophyl__ _n_ (chlorophyll) Any of a group of green pigments found in photosynthetic organisms; there are four naturally occurring forms.  
-__cineraria__ _n_  
-__cloud seeding__ _n_  
-__cogent__ _adj_ Convincing; reasonable.  
-__cold-blooded__ _adj_ Without compunction or human feeling. _Syn_ inhuman, insensate, cold  
-__coleslaw__ _n_  
-__collaborate__ _v_ /kuh-LAB-uh-rayt/  
-__collate__ _vt_ :astonished: __1__ To examine and compare carefully in order to note points of disagreement.  
-__collected__ _adj_  
-__collier__ _n_ __1__ A ship for carrying coal. __2__ A coal miner.  
-__colorful__ _adj_ :astonished:  
-__colossal squid__ _n_  
-__combine harvester__ _n_ A machine that simultaneously cuts, threshes, and cleans a standing crop of grain.  
-__commutation__ _n_ :astonished: The reduction in severity of a punishment imposed by law. _Syn_ re-sentencing  
-__compliance__ _n_  
-__comprehensive__ _adj_ Broad or complete in scope or content.  
-__concertina__ _n_  
-__concussion grenade__ _n_ A grenade that produces its effect by the blast of its detonation rather than from the fragmentation of its casing.  
-__conducive__ _adj_  
-__conformal__ _adj_ [:scroll: from Late Latin _conformālis_ having the same shape, from Latin _com-_ same + _forma_ shape]  
-__confounded__ _adj_  
-__connive__ _vi_  
-__conscript__ _n_ One compulsorily enrolled for service, especially in the armed forces; a draftee.  
 __consumer sentiment__ _n_ Another word for _consumer confidence_.  
 __contemporary__ _adj_ Current, modern; from the same time.  
 __contempt__ _n_ :dart: __3__ :dart: Willful disobedience to or open disrespect of a court, judge, or legislative body.  

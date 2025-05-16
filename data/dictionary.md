@@ -3319,7 +3319,8 @@ __chads__ _n_
 __chafe<sup>1</sup>__ _v_ :nine::m: (chafes, chafed, chafing) __4__ To cause friction; rub. If a part of your body chafes or if something chafes it, it becomes sore because of something rubbing against it. _Her bare ankles chafing against the tops of her tennis shoes._ _Chafing dishes._  
 __chafe<sup>2</sup>__ _n_  
 __chafer__ _n_  
-__chaff__ _n_  
+__chaff<sup>1</sup>__ _v_ :four::hammer:  
+__chaff<sup>2</sup>__ _n_ :four: Good-natured teasing; banter.  
 __chagrin<sup>1</sup>__ _n_ :nine::m: /ʃəˈgrɪn/ /shuh-GRIN/ A distress of mind caused by humiliation, disappointment, or failure. A feeling of vexation, marked by disappointment or humiliation. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._ _She later rooted for the Universiity of Texas, much to the chagrin of her husband and son, both alumni of rival schools._ _To the chef’s chagrin, the sauce was too sweet._  
 __chagrin<sup>2</sup>__ _v_ :five: (chagrined) Cause to feel shame; hurt the pride of.  
 __chain letter__ _n_  
@@ -3346,7 +3347,7 @@ __champurrado__ _n_
 __chance__ _v_ _A: No, I couldn’t let you do that—you might get killed or badly hurt. B: I’ll chance it._  
 __Chancellor__  
 __chances are__  
-__chandler__  
+__chandler__ _n_ :three::hammer:  
 __change of heart__ _n_ A reversal of one’s opinion, attitude, or feelings.  
 __change__ _n_ _There is change in the shower._  
 __changeover__ _n_ :two::hammer:  
@@ -3391,6 +3392,7 @@ __charter<sup>2</sup>__ _v_
 __chartered__ _adj_ :five: A chartered professional person has passed examinations in their profession. _Chartered accountants._  
 __chartreuse__ _n_ :two: A strong to brilliant greenish yellow to moderate or strong yellow green. The color takes its name from the trademarked liqueur _Chartreuse_, which comes in green and yellow varieties and has been made since 1737 by Carthusian monks, whose monastery is located in the Chartreuse Mountains in the Grenoble region of France.  
 __charwoman__ _n_ A woman hired to do cleaning or similar work, usually in a large building. _Syn_ cleaning lady  
+__chary__ _adj_ /CHAIR-ee/ _Chary_ is usually used with about or of to describe someone who is cautious about doing something. _The director is chary about spending money._ _I’ve always been chary of travelling alone._  
 __chase__ _v_ :two: __3__ To decorate (metal) by engraving or embossing. _The infant received six bowls, gilded and chased._ _A beautiful chased golden bowl._  
 __chasm__ _n_ :nine::m: __1__ A deep, steep-sided opening in the earth’s surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
 __chassis__ _n_ :two::hammer:  
@@ -3504,7 +3506,8 @@ __chin-up__ _n_ :two: (gimnastics; also known as a chin or chinup) The act or an
 __china clay__  
 __China virus__ _n_  
 __china__ _n_ _Delicate, translucent china._  
-__chinchilla__ _n_  
+__chinchilla__ _n_ :two::hammer:  
+__Chink__ _n_ :three: _Offensive Slang_ Used as a disparaging term for a person of Chinese birth or descent.  
 __chinos__ _n_ :pencil2::three::hammer: _Brown chinos._ _The starch crackled gently in his chinos._  
 __chintzy__ _adj_ Embarrassingly stingy. _Syn_ cheap  
 __chip apart__  
@@ -3529,6 +3532,7 @@ __chiropody__ _n_
 __chiropractor__ _n_  
 __chirp away__ _v_  
 __chirping__ _n_ High pitched, repeated noises. _There’s a lot of chirping in hockey, and it can be pretty nasty at times._  
+__chirpy__ _adj_ Characterized by liveliness and lightheartedness. _Syn_ perky, buoyant  
 __chisel__ _n_  
 __chiseled__ _adj_ :two: Made or shaped with or as if with a chisel: _a finely chiseled nose._  
 __chit chat__  
@@ -3542,7 +3546,7 @@ __chivalry__ _n_ :five::hammer: /SHIV-ul-ree/
 __chive__ _n_ :three::hammer: _Chive sauce._ :es: cebollino, cebolleta  
 __chivvy__ _v_ :three: (chivy) Annoy continually or chronically. _Syn_ beset, harass, harry, hassle, molest, plague, provoke _The senator is very demanding and is reputed to endlessly chivvy her staff to work harder._  
 __chlamydia__ _n_ :pencil2:  
-__chlorophyll__ _n_ :four::pencil2::hammer:  
+__chlorophyl__ _n_ :five::pencil2: (chlorophyll) Any of a group of green pigments found in photosynthetic organisms; there are four naturally occurring forms.  
 __chockablock__ _adj_ /CHAH-kuh-blahk/ Something described as chockablock is very full or tightly packed.  
 __chocolate bar__ _n_  
 __chocolate-box__ _adj_ Excessively decorative and sentimental, like the pictures on some boxes of chocolate candy.  
@@ -3638,6 +3642,7 @@ __cine__ _n_ :mega:
 __cinematographer__ _n_ A movie photographer, especially one who is in charge of the camera and lighting crews on a production.  
 __cinephile__ _n_ :mega:  
 __cineplex__ _n_ _Sequels ruled the cineplex this weekend._  
+__cineraria__ _n_  
 __cinnamon bun__ _n_ Rolled dough spread with cinnamon and sugar (and raisins) then sliced before baking.  
 __cinnamon roll__  
 __cipher<sup>1</sup>__ _n_ :two: (cypher) __3__ One having no influence or value; a nonentity. A person of no influence. _Syn_ nobody, nonentity _He was a cipher in the estimation of the public, and nobody attached any importance to what he thought or did._  
@@ -3818,7 +3823,7 @@ __clothespin__ _n_ :dart::three::camera: A device used for hanging wet clothes o
 __clothiers__ _n_  
 __cloture__  
 __Cloud Gate__ _n_ (Chicago)  
-__cloud seeding__ _n_ :two::hammer:  
+__cloud seeding__ _n_ :three::hammer:  
 __cloud__ _v_ :three::hammer: _Distance clouds perspective._ _To cloud my judgement._  
 __cloudscape__ _n_  
 __clough__ _n_ :three::hammer:  
@@ -3920,7 +3925,7 @@ __cog railroad__
 __cog railway__  
 __cog__ _n_ :nine: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ _A bland cog in the wheel._ :es: diente de rueda  
 __cogency__  
-__cogent__ _adj_ :six: /KOH-junt/ Cogent is a formal word that describes something that is very clear and easy for the mind to accept and believe, in other words “convincing.” Appealing to the intellect or powers of reasoning; convincing. _Syn_ weighty _Having put forth an indisputably cogent argument, Sally won the debate._  
+__cogent__ _adj_ :seven: /KOH-junt/ Cogent is a formal word that describes something that is very clear and easy for the mind to accept and believe, in other words “convincing.” Appealing to the intellect or powers of reasoning; convincing. Convincing; reasonable. _Syn_ weighty _Having put forth an indisputably cogent argument, Sally won the debate._  
 __cogitate__ _v_ :two: /KOJ-i/uh-tayt/ To think, reflect, meditate, etc. To take careful thought or think carefully about; ponder. _Syn_ cerebrate _You must earnestly cogitate before making this decision, and not simply flip a coin._  
 __cogitation__ _n_ Thoughtful consideration; meditation. _Syn_ study  
 __cognate__  
@@ -3950,26 +3955,31 @@ __colander__ _n_ :four: /KUH/KAH-luhn-duhr/ (cullender) A utensil with perforati
 __cold duck__  
 __cold shoulder__  
 __cold turkey__ _n_ :four: __1__ Complete and abrupt withdrawal of all addictive drugs or anything else on which you have become dependent. _He quit smoking cold turkey._ _She quit her job cold turkey._ __2__ A blunt expression of views. _I told him cold turkey._  
+__cold-blooded__ _adj_ Without compunction or human feeling. _Syn_ inhuman, insensate, cold  
 __cold-calling__ _n_ Calling potential new customers in the hope of selling stocks, bonds or other financial products and receiving commissions. _He started cold-calling people in New York._  
 __cold-pressed__ _adj_  
 __coleopteran__ _n_ (coleopteron) Any of numerous insects of the order Coleoptera; a beetle.  
-__coleslaw__ _n_ :five::hammer:  
+__coleslaw__ _n_ :six::hammer:  
 __Colgate__ _n_ William Colgate (January 25, 1783 – March 25, 1857) was an English manufacturer who founded in 1806 what became the Colgate toothpaste company.  
 __colic__ _n_ :astonished::two: __2__ A condition of unknown cause seen in infants less than three months old, marked by periods of inconsolable crying lasting for hours at a time for at least three weeks.  
 __colicky__ _adj_ :two: Relating to or suffering from colic.  
+__collaborate__ _v_ /kuh-LAB-uh-rayt/  
 __collage__ _v_  
 __collapse__ _v_ :two::hammer::pencil2::mega: /kəˈlæps/  
 __collapsible__ _adj_ :dart: Able to be folded into a more compact shape. :es: plegable _Collapsible shutters._  
 __collar__ _n_ _Accessories include collars, scarves, gloves and more._  
 __collarbone__ _n_ :five: The clavicle.  
 __collard greens__ _n_ _dialect_ :three: A cabbage of a variety that does not develop a heart. _Take the collard greens out of your mouth._ :es: berzas  
+__collate__ _vt_ :astonished: __1__ To examine and compare carefully in order to note points of disagreement.  
 __collateral damage__  
 __collateralize__ _vt_  
 __colleague__ _n_ :three::mega::mute:[colleag~~u~~e] /KAH-leeg/  
 __collect__ _v_ _Click and collect._  
+__collected__ _adj_  
 __collectible__ _n_  
 __collector__ _n_  
 __college__ _n_ :mega:  
+__collier__ _n_ __1__ A ship for carrying coal. __2__ A coal miner.  
 __collimate__ _v_ __1__ To make parallel; line up. __2__ To adjust the line of sight of (an optical device).  
 __collinear__ _adj_ :pencil2:  
 __Collins glass__  
@@ -3991,7 +4001,8 @@ __color scheme__ _n_ :three: A particular combination of colors. _They chose an 
 __color wheel__  
 __color__ _n_ :mega: /ˈkʌl ər/  
 __coloratura__ _n_ :two::hammer:  
-__colorful__ _adj_ _The colorful lawyer is up for the challenges of the task._  
+__colorful__ _adj_ :astonished::two::hammer: _The colorful lawyer is up for the challenges of the task._  
+__colossal squid__ _n_  
 __colossal__ _adj_ :two::hammer:  
 __colossus__  
 __colostomy bag__  
@@ -4006,6 +4017,7 @@ __comb<sup>2</sup>__ _v_ :two::mute:[com~~b~~]:hammer:
 __combat<sup>1</sup>__ _n_  
 __combat<sup>2</sup>__ _v_ :two::hammer::mega: (combated, combating, or combatted or combatting)  
 __combatant__ _n_ A person or group engaged in or prepared for a fight, struggle, or dispute. _Syn_ battler, belligerent, fighter, scrapper _Here the two combatants drew their swords and threw off their doublets, for neither had any defensive armor._  
+__combine harvester__ _n_ A machine that simultaneously cuts, threshes, and cleans a standing crop of grain.  
 __combine__ _n_ __3__ An association of business corporations, political parties, sporting clubs, etc, for a common purpose.  
 __come around__  
 __come down with__ _phr v_ To start to suffer from an illness, especially one that is not serious.  
@@ -4075,6 +4087,7 @@ __communicant__ _n_ _Even the Eucharist might be withheld unless the communicant
 __communication trench__  
 __communion wafers__  
 __communiqué__ _n_ :two: (communiqués) An official statement.  
+__commutation__ _n_ :astonished: The reduction in severity of a punishment imposed by law. _Syn_ re-sentencing  
 __commute<sup>1</sup>__ _vi_ :two::hammer::mega: /kəˈmyut/  
 __commute<sup>2</sup>__ _vt_ :two: __1__ To substitute (one thing for another); exchange. __2__ To change (a penalty, debt, or payment) to a less severe one.  
 __commute<sup>3</sup>__ _n_ :two::hammer:  
@@ -4102,7 +4115,7 @@ __complaisance__ _n_ A disposition or tendency to yield to the will of others. _
 __complaisant__ _adj_ /kum-PLAY-sunt/ Someone described as complaisant is willing or eager to please other people, or is easily convinced to do what other people want.  
 __completion__ _n_  
 __complex__ _adj, n, v_ :mega:  
-__compliance__ _n_ :four::hammer: _Compliance guy._  
+__compliance__ _n_ :five::hammer: _Compliance guy._  
 __compliant__  
 __complicit__  
 __complicitious__  
@@ -4119,6 +4132,7 @@ __compound<sup>2</sup>__ _v_ :six::hammer: _The pandemic has compounded this sca
 __compounding__ _n_ __2__ The combining of elements or substances to make something, esp a drug. _Custom medication compounding._  
 __comprehend__ _v_  
 __comprehensible__ _adj_ _Syn_ clear, intelligible, understandable, apprehensible  
+__comprehensive__ _adj_ Broad or complete in scope or content.  
 __comprise__ _v_ :two::hammer: /kum-PRYZE/  
 __Comptometer__ _n_ _trademark_ (comptometer) A desktop calculating machine used before World War II.  
 __comptroller__ _n_ :five: Variant of controller, used _esp_ as a title of any of various financial executives. :es: interventor  
@@ -4148,7 +4162,7 @@ __conceivably__
 __concern__ _v_ :two::hammer: (concerned)  
 __concerted__ _adj_ :four::hammer: _A concerted effort._  
 __concertina wire__  
-__concertina__  
+__concertina__ _n_ :two::hammer:  
 __concertmaster__  
 __concertmistress__ _n_ A woman who is the first violinist in a symphony orchestra. _The orchestra concertmistress._  
 __concession stand__ _n_ A place where patrons can purchase snacks or food at a cinema, amusement park, zoo, aquarium, circus, fair, stadium, beach, swimming pool, concert, sporting event, or other entertainment venue. _A new concession stand with a real popcorn machine._  
@@ -4170,6 +4184,7 @@ __concordat__ _n_ A signed written agreement between two or more parties (nation
 __concourse__ _n_ :nine::m: __1__ A great crowd; a throng. __2__ The act of coming, moving, or flowing together. A coming together; confluence: _a concourse of events._ __3__ :dart: A large open space for the gathering or passage of crowds, as in an airport. :es: explanada _Enjoy casual fare in the lower level dining concourse._ _Main concourse._ _Art works on display in the concourses and terminal._ __4__ A ground for sports, racing, athletics, etc. __5__ A broad thoroughfare.  
 __concrete__ _n_ :two::hammer: _A concrete wall._  
 __concur__ _v_  
+__concussion grenade__ _n_ A grenade that produces its effect by the blast of its detonation rather than from the fragmentation of its casing.  
 __concussion__ _n_ :two: _He recovers from the concussion he sustained on June 15._  
 __concussive__  
 __condemn__ _v_ :mute:[condem~~n~~]  
@@ -4181,7 +4196,7 @@ __conditional discharge__ _n_ _An Urbana man has been sentenced to 30 months of 
 __condo__ _n_ :four::hammer: (condos) _Luxury condos._  
 __condominium__ _n_ :two::hammer: _First-floor condominium._  
 __condone__ _v_ :four: /kun-DOHN/ To condone something that is considered wrong is to forgive or approve it, or to allow it to continue. _We cannot condone that kind of behavior._  
-__conducive__ _adj_ :eight::hammer: _The vehicle doesn’t seem conducive to passing._  
+__conducive__ _adj_ :nine::hammer: _The vehicle doesn’t seem conducive to passing._  
 __conduct__ _n_ _Suspended two games for violating the league’s personal conduct policy._  
 __conduit__ _n_ :seven::hammer::mega:  
 __coneys__  
@@ -4208,12 +4223,12 @@ __conflation__
 __confluence__ _n_ :two: A gathering, flowing, or meeting together at one juncture or point. _Syn_ meeting _He had long noted that the greatest disasters were rarely the result of one misfortune but were the result of a confluence of several of them._  
 __conflux__ _n_ A flowing together. _Syn_ merging, confluence _There was a conflux of emotions and thoughts in him._  
 __conform__ _v_  
-__conformal__ _adj_ _Math_ Of or designating a map or transformation in which angles and scale are preserved.  
+__conformal__ _adj_ :two: [:scroll: from Late Latin _conformālis_ having the same shape, from Latin _com-_ same + _forma_ shape] _Math_ Of or designating a map or transformation in which angles and scale are preserved.  
 __conformance__ _n_ /kənˈfɔr məns/ Conformity.  
 __conforming__ _adj_  
 __confort food__ _n_ Food that you enjoy very much and often eat when you are feeling sad.  
 __confound__ _v_ :nine::m: /kən-found′, kŏn-/ (confounded, confounding) __1__ To astound or perplex; bewilder. __2__ To mix up; confuse. __3__ To treat mistakenly as similar to or identical with (one or more other things). __4__ To curse or damn (usually as an expletive in the phrase confound it!). __5__ To contradict or refute (an argument, etc). __6__ To rout or defeat (an enemy).  
-__confounded__ _adj_ :three::hammer:  
+__confounded__ _adj_ :four::hammer:  
 __confounding__ _adj_ :three: That confounds or contradicts or confuses _Syn_ contradictory _Confounding factors._  
 __confrerie__ _n_ :two::pencil2::hammer: (confreries)  
 __confusion__ _n_ :pencil2:  
@@ -4249,7 +4264,7 @@ __connective tissue__ _n_
 __connectome__ _n_ The complete mapping of the structural links in an organism’s neural circuitry.  
 __conniption__ _n_ A fit of violent emotion, such as anger or panic. _Syn_ fit, tantrum, scene  
 __connivance__ _n_ :four: Agreement on a secret plot.  
-__connive__ _v_ /kuh-NYVE/ :eight: To connive is to secretly help someone do something dishonest or illegal.  
+__connive__ _vi_ /kuh-NYVE/ :nine: To connive is to secretly help someone do something dishonest or illegal.  
 __connoisseur__ _n_ :three::pencil2::mega: /ˌkɒn əˈsɜr, -ˈsʊər/ A person with expert knowledge or training, especially in the fine arts. _Syn_ cognoscente  
 __connotation__ _n_ :two: Connotation is using words to suggest a social or emotional meaning rather than a literal one. Example: This is a house, but I want a home.  
 __connubial__ _adj_ :two: Relating to marriage or the married state; conjugal. _An active connubial career._  
@@ -4259,7 +4274,7 @@ __conscientious objector__ _n_ (CO) One who on the basis of religious or moral p
 __conscientious__ _adj_ :dart::four: /kahn-shee-EN-shus/ Conscientious often describes those who are concerned with doing things correctly. It can be used as a synonym for both meticulous and careful. :es: concienzudo _Although Marvin was brilliant, he was not a very conscientious student, and he frequently lost points for forgetting to turn in his homework._  
 __conscious__ _adj_ /kon-shuhs/  
 __consciousness__ _n_  
-__conscript<sup>1</sup>__ _n_ :three: One compulsorily enrolled for service, especially in the armed forces; a draftee. A conscripted person (such as a military recruit).  
+__conscript<sup>1</sup>__ _n_ :four: One compulsorily enrolled for service, especially in the armed forces; a draftee. A conscripted person (such as a military recruit).  
 __conscript<sup>2</sup>__ _v_ :five::hammer: (conscripted) _I was conscripted into the army._  
 __conscription__ _n_ :dart::nine: __1__ Compulsory enrollment, especially for the armed forces; draft.  
 __consecrate__ _v_ :two::hammer: _The current church building was consecrated in 1909._  
