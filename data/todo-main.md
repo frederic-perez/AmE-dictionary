@@ -292,36 +292,6 @@ __fire grate__ _n_ (firegrate, fire-grate) A grate used to hold the fuel in dome
 __firebomb<sup>1</sup>__ _n_ A bomb used to start a fire; an incendiary bomb.  
 __firebomb<sup>2</sup>__ _v_ To attack with firebombs.  
 __firebrand__  
-__firefight__ _n_ :three: An exchange of gunfire between two opposing forces, esp. a skirmish between military forces.  
-__first-in-class__  
-__firsthand__  
-__fish__ _v_ __3__ To seek something in a sly or indirect way: _fish for compliments._  
-__fishwife__ _n_ :es: verdulera  
-__fit__ _n_ _Fits of frustration._  
-__fitful__ _adj_ :astonished: Characterized by or occurring in irregular spells: _fitful sleep._ :es: irregular  
-__fixity__ _n_ The quality of being incapable of mutation. _Syn_ immutability _Darwin challenged the fixity of species with his theory of evolution._  
-__flabby__ _adj_ __1__ Lacking firmness; loose or yielding: _flabby muscles._ __2__ Having flabby flesh, esp through being overweight. __3__ Lacking vitality; weak; ineffectual.  
-__flag<sup>1</sup>__ _n_  
-__flag<sup>2</sup>__ _vt_  
-__flag<sup>3</sup>__ _vi_ :astonished: To lose vigor or strength; weaken or diminish: _The conversation flagged._ :es: decaer  
-__flagship__ _n_ :two: __3__ The most important one of a group or system.  
-__flak vest__ _n_ A jacket containing metal plates for protection against flak. _Syn_ bulletproof vest  
-__flapper__ _n_  
-__flash flood__ _n_ (flashflood) A sudden flood of great volume, usually caused by heavy rain.  
-__flashy__ _adj_  
-__flat__ _adv_ :dart::two: __3a__ Directly; completely: _went flat against the rules; flat broke._ __b__ Exactly; precisely: _arrived in six minutes flat._  
-__flat-footed__ _adj_  
-__flatfooted__ _adj_  
-__flaunt__ _v_  
-__fleck__ _n_  
-__fleet__ _n_ :two: The largest organized unit of naval ships grouped for tactical or other purposes.  
-__flexor__ _n_ A small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes. _Syn_ percussor, plessor  
-__flick__ _v_ _A new group of ships flicked into the center of the cluster._  
-__flier__ _n_ (flyer)  
-__flight__ _n_ __5__ A group, especially of birds or aircraft, flying together. _A single flight of TIE fighters._  
-__flighty__ _adj_ /ˈflaɪtɪ/  
-__flinch__ _vi_ :es: estremecerse; encogerse  
-__fling__ _v_ :two::hammer: (flung)  
 __flinty__ _adj_ :astonished: __1__ Of, relating to, or resembling flint. __2__ :astonished: Hard or cruel; obdurate; unyielding. _A flinty manner._  
 __flip-flops__ _n_  
 __flippancy__ _n_  

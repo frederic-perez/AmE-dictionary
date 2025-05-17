@@ -2467,7 +2467,7 @@ __Britpop__ _n_ /ˈbrɪtˌpɒp/ The characteristic pop music performed by some B
 __Brittany__ _n_ (not to be confused with _Britannia_; French name: _Bretagne_) A historical region and former province of northwest France on a peninsula between the English Channel and the Bay of Biscay. It was settled c. 500 by Britons driven out of their homeland by the Anglo-Saxons. The region was formally incorporated into France in 1532.  
 __brittle<sup>1</sup>__ _adj_ :nine::m: Something brittle is easily broken. _Do you have brittle bones? Then no football or rugby for you._ :es: frágil  
 __brittle<sup>2</sup>__ _n_ Caramelized sugar cooled in thin sheets. _Clean the peanut brittle out of your mouth._  
-__broach__ _vt_ :nine::m: (broached) To bring up (a subject) for discussion or debate. _Syn_ initiate _To broach a conversation._ _He broached the subject._ _The King does not wish the marriage to be broached on his part._  
+__broach__ _vt_ :nine::m: To bring up (a subject) for discussion or debate. _Syn_ initiate _To broach a conversation._ _He broached the subject._ _The King does not wish the marriage to be broached on his part._  
 __broad-spectrum__ _adj_ /BRAWD-SPEK-truhm/ Effective in a wide variety of uses.  
 __broad<sup>1</sup>__ _n_ :two: __2__ _offensive_ _slang_ A woman or girl.  
 __broad<sup>2</sup>__ _adj_ :three: __2__ Extending far and wide. _The nine S&P 500 stocks with the greatest exposure to Europe didn’t fall apart but still did worse than the broad market._ (vs abroad) Full; open. _In broad daylight._  
@@ -7431,6 +7431,7 @@ __firebrand__ _n_ :two::hammer:
 __firebrick__ _n_  
 __firebug__ _n_  
 __firedrake__ _n_ A fire-breathing dragon of Germanic mythology. _Syn_ dragon  
+__firefight__ _n_ :three: An exchange of gunfire between two opposing forces, esp. a skirmish between military forces.  
 __firefly__ _n_ :two::hammer: :es: luciérnaga  
 __firehosing__ _n_ A propaganda tactic that involves releasing a large amount of false information in a very short amount of time. Due to the resources often needed to pull off such an expansive disinformation strategy, the term firehosing is most often used to refer to the alleged actions of large organizations or governments.  
 __firehouse__ _n_ :two::hammer:  
@@ -7448,20 +7449,21 @@ __first leg__ _n_
 __first mate__ _n_ :two::hammer:  
 __first responder__ _n_ :two: A person, such as a police officer, firefighter, or EMT, trained in urgent medical care and other emergency procedures and prepared to move quickly to the scene of an accident or disaster.  
 __first-hand__ _adj, adv_  
-__first-in-class<sup>1</sup>__ _adj_ :two: (first in class) First-in-class drugs are ones that use a new and unique mechanism of action for treating a medical condition. These products are often referred to as innovative and cited as offering new treatment options for patients.  
-__first-in-class<sup>2</sup>__ _n_ Drugs that use a new and unique mechanism of action for treating a medical condition according to FDA 2011 Novel New Drugs.  
+__first-in-class<sup>1</sup>__ _adj_ :three: (first in class) First-in-class drugs are ones that use a new and unique mechanism of action for treating a medical condition. These products are often referred to as innovative and cited as offering new treatment options for patients.  
+__first-in-class<sup>2</sup>__ _n_ :two: Drugs that use a new and unique mechanism of action for treating a medical condition according to FDA 2011 Novel New Drugs.  
 __first-of-its-kind__  
 __firstborn__ _adj, n_ :two::hammer: :es: primogénito  
-__firsthand__ _adj, adv_ :three::hammer:  
+__firsthand__ _adj, adv_ :four::hammer:  
 __firth__ _n_ (frith) [:scroll: C15: from Old Norse fjörthr fiord] _Physical Geography_ A relatively narrow inlet of the sea, esp in Scotland.  
 __fiscal__ _adj_ __1__ Of or relating to taxation, public revenues, or public debt. __2__ Of or relating to financial matters.  
 __fish ladder__ _n_ :two: A series of ascending pools constructed to enable salmon or other fish to swim upstream around or over a dam.  
-__fish__ _n_ :four: (_n pl_ fish or fishes)  
+__fish<sup>1</sup>__ _n_ :four: (_n pl_ fish or fishes)  
+__fish<sup>2</sup>__ _v_ __3__ To seek something in a sly or indirect way: _fish for compliments._  
 __fishing line__ _n_ (Angling) A line of nylon or silk, attached to a hook, used for catching fish. :es: sedal  
 __fishing tackle__  
 __fishmonger__ _n_ :two::hammer: _Chiefly British_ (fishwife)  
 __fishpond__ _n_ :two::hammer: _A rainwater fishpond on the roof._  
-__fishwife__ _n_ __2__ A person, traditionally a woman, who persistently nags or criticizes. _Syn_ fury, harpy, scold, shrew, termagant, virago, vixen  
+__fishwife__ _n_ :two: __2__ A person, traditionally a woman, who persistently nags or criticizes. _Syn_ fury, harpy, scold, shrew, termagant, virago, vixen :es: verdulera  
 __fissile__ _adj_ _Fissile material._  
 __fission__ _n_ :pencil2: (_vs_ fusion)  
 __fissure vent__ _n_ :three::hammer:  
@@ -7471,8 +7473,8 @@ __fisticuffs__ _n_ Fighting with the fists. _Syn_ boxing, pugilism
 __fists bumping__  
 __fistula__ _n_  
 __fit<sup>1</sup>__ _v_ :two::hammer:  
-__fit<sup>2</sup>__ _n_ :two::hammer: (fits) _The cathedral has been built in fits._  
-__fitful__ _adj_ :three: Occurring in or characterized by intermittent bursts, as of activity; irregular. _“My sleep, when it came, was fitful” (Kelly Braffet)._  
+__fit<sup>2</sup>__ _n_ :three::hammer: _The cathedral has been built in fits._ _Fits of frustration._  
+__fitful__ _adj_ :astonished::four: Occurring in or characterized by intermittent bursts, as of activity; irregular. Characterized by or occurring in irregular spells: _fitful sleep._ :es: irregular _“My sleep, when it came, was fitful” (Kelly Braffet)._  
 __fitfully__ _adv_ :two: In a fitful manner. _He slept fitfully on the king-sized bed._  
 __fittingly__ _adv_ :two::hammer:  
 __fivesomes__  
@@ -7480,6 +7482,7 @@ __fix__ _n_ :two::hammer: _A quick fix of French fries._ __6__ _slang_ An amount
 __fixable__ _adj_ _A lot of that is fixable._  
 __fixer__ _n_ _Political fixers._  
 __fixer-upper__ _n_ A house or other dwelling that is badly in need of repair, usually for sale at a low price. _Don’t be afraid to take on a fixer-upper._  
+__fixity__ _n_ The quality of being incapable of mutation. _Syn_ immutability _Darwin challenged the fixity of species with his theory of evolution._  
 __fixture__ _n_ :five::hammer: _A Premier League fixture._ _He had been a fixture and a legend._ _The bar is a neighborhood fixture since 1972._  
 __fizz<sup>1</sup>__ _n_ :four::hammer: _Pepsi Strong 5.0 GV has extra fizz._  
 __fizz<sup>2</sup>__ _v_ (fizzing)  
@@ -7490,14 +7493,16 @@ __fizzy__ _adj_ _A fizzy mix of generational drama and dystopian fantasy._
 __flab__ _n_ :dart::two: Body fat, soft loose flesh on a person’s body.  
 __flabbergast__ _v_ _informal_ :four::hammer: (flabbergasted)  
 __flabbergasted__ _adj_ :two::hammer:  
+__flabby__ _adj_ __1__ Lacking firmness; loose or yielding: _flabby muscles._ __2__ Having flabby flesh, esp through being overweight. __3__ Lacking vitality; weak; ineffectual.  
 __flaccid__ _adj_ :two::hammer::mega:  
 __Flag Day__ _n_ June 14, observed in the United States in commemoration of the adoption in 1777 of the official US flag.  
 __flag officer__ _n_ :four::hammer:  
 __flag plot__ _n_ :three: The admiral’s tactical and navigational control room aboard a flagship.  
 __flag-stop service__  
 __flag-waving__ _adj_ Fanatically patriotic. _Syn_ jingoistic, ultranationalistic, chauvinistic  
-__flag<sup>1</sup>__ _v_ :two::hammer:  
-__flag<sup>2</sup>__ _n_ _They collected marshy sweet flag to fight deterioration of memory._  
+__flag<sup>1</sup>__ _n_ :two::hammer: _They collected marshy sweet flag to fight deterioration of memory._  
+__flag<sup>2</sup>__ _vt_ :two::hammer:  
+__flag<sup>3</sup>__ _vi_ :astonished::two: To lose vigor or strength; weaken or diminish: _The conversation flagged._ :es: decaer  
 __flagellant__ _n_  
 __flagellate<sup>1</sup>__ _vt_ /FLAJ-uh-layt/ [:scroll: From Latin flagellare (to whip), from flagellum (whip), diminutive of flagrum (whip).] To punish, especially by whipping.  
 __flagellate<sup>2</sup>__ _n_ An organism having a whip-like appendage that’s used for locomotion, such as swimming.  
@@ -7507,15 +7512,15 @@ __flageolet__ _n_ A small flutelike instrument with a cylindrical mouthpiece, fo
 __flagged__ _v_ :two::hammer: _His appetite had flagged._  
 __flagon__ _n_ :three::hammer: (flagons) _A flagon of ale._ _A flagon of wine._  
 __flagrant__ _adj_ :four::hammer: _A flagrant foul._  
-__flagship__ _n_ :seven: __1__ A ship that carries the fleet commander and flies the commander’s flag. __2__ The best or the most important of a group of things. _The flagship store._ _It has become another flagship event._  
+__flagship__ _n_ :nine: __1__ A ship that carries the fleet commander and flies the commander’s flag. __2__ The best or the most important of a group of things. The most important one of a group or system. _The flagship store._ _It has become another flagship event._  
 __flagstaff__  
 __flagstone__ _n_ :two::hammer: _Flagstone terraces._  
 __flah point__  
 __flail__ _v_ :eight: __1__ _tr_ To beat or thrash with or as if with a flail. __2__ To move or be moved like a flail; thresh about: _with arms flailing._  
 __flair__ _n_ :nine::m: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._  
 __flak jacket__ _n_ A bulletproof jacket or vest. _Syn_ flak vest  
-__flak vest__  
-__flak__ _n_ :nine: /flak/ [:scroll: An acronym of German Flugzeugabwehrkanone (anti-aircraft gun), from Flieger (flyer) + Abwehr (defense) + Kanone (gun)] If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots at airplanes. Artillery designed to shoot upward at airplanes. __1__ Severe criticism. __2__ Anti-aircraft fire. _Flak juice._ _Lynch took flak for staying on the bench._ _You’re going to get so much (flak)._  
+__flak vest__ _n_ :two: A jacket containing metal plates for protection against flak. _Syn_ bulletproof vest  
+__flak__ _n_ :nine::m: /flak/ [:scroll: An acronym of German Flugzeugabwehrkanone (anti-aircraft gun), from Flieger (flyer) + Abwehr (defense) + Kanone (gun)] If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots at airplanes. Artillery designed to shoot upward at airplanes. __1__ Severe criticism. __2__ Anti-aircraft fire. _Flak juice._ _Lynch took flak for staying on the bench._ _You’re going to get so much (flak)._  
 __flake__ _n slang_ An eccentric person; screwball.  
 __flaky__  
 __flambeau__ _n_  
@@ -7532,11 +7537,13 @@ __flanker__ _n_ (football/rubgy/soccer position)
 __flap T__  
 __flap__ _n_ :four::hammer: _A flap of skin._ _There have been flaps over allowing scouts in press boxes._ _The sound of paper flaps on bicycle spokes._  
 __flapjack__ _n_  
+__flapper__ _n_  
 __flapping__ _n_ :three: The motion made by flapping up and down. _Syn_ fluttering, flap, flutter  
 __flare__ _n_ __2__ A device that produces a bright light for signaling, illumination, or identification. :es: bengala  
 __flare-up__ _v_ :four::hammer: (flare up, flare-ups)  
 __flare<sup>1</sup>__ _n_ :three::hammer: __2__ A device that produces a bright light for signaling, illumination, or identification. :es: bengala _He took an emergency flare from the glove box._ _Flares fitted to aircraft._  
 __flare<sup>2</sup>__ _v_ :four::hammer: _The injury flared._ _The rising quickly flared and was soon suppressed._ _Alarms flaring._  
+__flash flood__ _n_ (flashflood) A sudden flood of great volume, usually caused by heavy rain.  
 __flash mob__ _n_ A large group of people who gather in a predetermined place to perform some brief action and then disperse.  
 __flash point__ _n_ :three: The point at which eruption into significant action, creation, or violence occurs. _The latest flaash point is over the president’s push to reduce caaarbon pollution._  
 __flash rust__ _n_ The very rapid onset of rust on a metal substrate.  
@@ -7547,18 +7554,19 @@ __flashback__
 __flashcard__ _n_ (flash card)  
 __flashlight__ _n_  
 __flashpoint__ _n_ /FLASH-point/ __1__ The point at which a situation turns critical, for example, resulting in violence. __2__ A location or situation where conflict, violence, etc., flare up. __3__ The lowest temperature at which a substance’s vapors ignite in the presence of an ignition source.  
-__flashy__  
+__flashy__ _adj_ :two::hammer:  
 __flat file__  
 __flat fishing__ _n_  
 __flat out__ _adv_ :two::hammer: _informal_ _She flat out told me about it._  
 __flat white__ _n_ (Cookery) A drink prepared by pouring steamed milk over espresso coffee. _The flat white, prepared by pouring bubbly steamed milk over a shot of espresso, has become synonymous with breakfast culture in Australia._  
-__flat__ _adv_  
+__flat__ _adv_ :dart::three: __3a__ Directly; completely: _went flat against the rules; flat broke._ __b__ Exactly; precisely: _arrived in six minutes flat._  
 __flat-chested__ _adj_ _Flat-chested bodies._  
-__flat-footed__ _adj_ :five::hammer: _I have never been caught flat-footed by any situation._  
+__flat-footed__ _adj_ :six::hammer: _I have never been caught flat-footed by any situation._  
 __flat-out__ _adj_ :four::hammer: _They flat-out tell us what is happening._ _We were all working flat-out._  
 __flat<sup>1</sup>__ _adj_ _Kaufusi’s jump to BYU football proves critics flat wrong._  
 __flat<sup>2</sup>__ _adv_ _We are holding the room at zero flat._  
 __flatbread__ _n_ :two::hammer: _Flatbread sandwiches._  
+__flatfooted__ _adj_  
 __flatiron__ _n_ :dart: /ˈflætˌaɪ ərn/ An iron for pressing clothes, especially one that is heated externally, as on a hearth or stove.  
 __flats__ _n_  
 __flatshare__ _n_ An arrangement in which two or more people share a flat (apartment building).  
@@ -7567,13 +7575,13 @@ __flatter__ _v_ (flattered)
 __flattop__ _n_ A large warship that carries planes and has a long flat deck for take-offs and landings. _Syn_ aircraft carrier  
 __flatware coins__  
 __flatware__ _n_  
-__flaunt__ _v_ :six::hammer: (flaunting)  
+__flaunt__ _v_ :seven::hammer:  
 __flavedo__ _n_ /fluh-VEE-doh/ Flavedo refers to the colored outer layer of the rind of a citrus fruit.  
 __flawless__ _adj_ :hammer::two: _It is not flawless._  
 __flaxen__ _adj_ _Flaxen cord._ :es: muy rubio  
 __flay__ _v_ :three::hammer: (flayed)  
 __flea market__ _n_  
-__fleck__ _n_  
+__fleck__ _n_ :two::hammer:  
 __flecked__ _v_ _Floor flecked with blood._  
 __fledging__ _n_ :two::hammer:  
 __fledgling__ _adj_ :nine::m::pencil2: __1__ A young bird that has just fledged. :es: pichón __2__ A person or organization that is immature, inexperienced, or underdeveloped. _Fledgling entrepreneurs._  
@@ -7581,6 +7589,7 @@ __flee__ _v_ :four::hammer: _He was forced to flee Ukraine._ _Fleeing New York._
 __fleece<sup>1</sup>__ _n_ :two::hammer:  
 __fleece<sup>2</sup>__ _v_ :nine::dart::smiling_imp: (fleeced) __1__ To defraud of money or property; swindle. _Those swindlers hoped to fleece Jack’s bank contacts._  
 __fleecy__  
+__fleet__ _n_ :two: The largest organized unit of naval ships grouped for tactical or other purposes.  
 __fleeting__  
 __fleetingly__  
 __flehmen__ _n_ :camera: /ˈfleɪmən/ A curling of the upper lip and raising of the head in certain mammals in response to olfactory stimuli, which behaviour allows the scents better to reach an olfactory organ deep within the animal’s nose.  
@@ -7590,21 +7599,24 @@ __flex<sup>1</sup>__ _adj_ _Flex time and equal pay are important._
 __flex<sup>2</sup>__ _v_ :pencil2::four::hammer: _Broncos flex muscle to win._ __1__ _slang_ To do or say something in a conspicuously ostentatious or showy manner in order to gain the attention of others. _Google flexes in the chip game._  
 __flexitarian<sup>1</sup>__ _n_ :two: /flek-suh-TAYR-ee-uhn/ One who follows a primarily vegetarian diet but occasionally consumes animal products.  
 __flexitarian<sup>2</sup>__ _adj_ /flek-suh-TAYR-ee-uhn/ Primarily but not completely vegetarian.  
+__flexor__ _n_ A small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes. _Syn_ percussor, plessor  
 __flick knife__ _n_  
 __flick<sup>1</sup>__ _n_ _slang_ As slang for “film,” it is first attested 1926, a back-formation from flicker (v.), from their flickering appearance.  
-__flick<sup>2</sup>__ _v_ :two::hammer: _One room has burn marks on the floor where Ruth flicked cigar ashes._ _It flicks charged particles into Earth’s magnetic field._  
+__flick<sup>2</sup>__ _v_ :three::hammer: _One room has burn marks on the floor where Ruth flicked cigar ashes._ _It flicks charged particles into Earth’s magnetic field._ _A new group of ships flicked into the center of the cluster._  
 __flickered__ _v_ _The man flickered the reins._  
 __fliddle__ _v_  
+__flier__ _n_ (flyer)  
 __Flight into Egypt__ _n_  
-__flight__ _n_ :dart::four::mute:[fli~~gh~~t] __9__ A series of stairs rising from one landing to another. _A flight of steps._ _He climbed four flights of stairs._ __11__ A selection of alcoholic drinks (such as wines, beers, or whiskeys) for tasting as a group. _Guests can choose three for a $9.50 flight._  
+__flight__ _n_ :dart::five::mute:[fli~~gh~~t] __5__ A group, especially of birds or aircraft, flying together. _A single flight of TIE fighters._ __9__ A series of stairs rising from one landing to another. _A flight of steps._ _He climbed four flights of stairs._ __11__ A selection of alcoholic drinks (such as wines, beers, or whiskeys) for tasting as a group. _Guests can choose three for a $9.50 flight._  
+__flighty__ _adj_ /ˈflaɪtɪ/  
 __flimflam<sup>1</sup>__ _n_ :dart::two::hammer::smiling_imp:  
 __flimflam<sup>2</sup>__ _v_ :smiling_imp: To deceive, mislead, or trick someone. The word is thought to be of Scandinavian origin. _I wish I’d realized that guy was flimflamming me before I gave him the last of my money._  
 __flimsy__ _adj_ :two::hammer:  
-__flinch<sup>1</sup>__ _v_ :eight: (flinching) __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
+__flinch<sup>1</sup>__ _vi_ :eight: __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ :es: estremecerse; encogerse __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
 __flinch<sup>2</sup>__ _n_  
 __flinders__ _n_ Bits, fragments, or splinters. _Syn_ slivers, splinters _The bullet blew the glass bottle into flinders._  
 __fling<sup>1</sup>__ _n_ __4__ A brief, casual sexual or romantic relationship.  
-__fling<sup>2/sup>__ _v_ :nine: (flinging, flung) __1__ To throw something carelessly or with a lot of force. Fling something over/across/onto etc.: _She flung a book across the room at me._ _His coat had been flung over the back of a chair._ _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._ __2__ To move your body or part of your body quickly, and with a lot of force. Fling something around/up/back etc.: _I flung my arms around him._ Fling yourself down/into/onto/to something: _Martin flung himself to the ground to stop the ball._ __3__ :dart: To quickly open a door, window, or curtain. Fling something open/back/off: _She flung open the curtains to let in the sunlight._ __4__ To say something to someone that is intended to hurt them. _Don’t start flinging accusations just because you’re upset._ __5__ To place or send suddenly and unceremoniously: _He was arrested and flung into prison._ __6__ To give unrestrainedly: _flung himself into music._  
+__fling<sup>2/sup>__ _v_ :nine::m: (flung) __1__ To throw something carelessly or with a lot of force. Fling something over/across/onto etc.: _She flung a book across the room at me._ _His coat had been flung over the back of a chair._ _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._ __2__ To move your body or part of your body quickly, and with a lot of force. Fling something around/up/back etc.: _I flung my arms around him._ Fling yourself down/into/onto/to something: _Martin flung himself to the ground to stop the ball._ __3__ :dart: To quickly open a door, window, or curtain. Fling something open/back/off: _She flung open the curtains to let in the sunlight._ __4__ To say something to someone that is intended to hurt them. _Don’t start flinging accusations just because you’re upset._ __5__ To place or send suddenly and unceremoniously: _He was arrested and flung into prison._ __6__ To give unrestrainedly: _flung himself into music._  
 __flint__ _n_ :four::hammer: __2b__ A small solid cylinder of a spark-producing alloy, used in lighters to ignite the fuel. _You’ll discover ancient villages of brick and flint._ :es: sílex; piedra de encendedor  
 __flintily__  
 __flintlock__ _n_ :two::hammer: (flintlocks)  
