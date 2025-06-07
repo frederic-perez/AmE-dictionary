@@ -33,6 +33,7 @@ __BRICS__ /brɪks/ Brazil, Russia, India, and China: seen collectively as the mo
 __BS__ :four::hammer: (BSing) _One of our core values is: Open company, no BS._  
 __BYOD__ :two: Bring your own device.  
 __c/o__ :three: Care of.  
+__CBSA__ Canada Border Services Agency, a federal law enforcement agency that is responsible for border control.  
 __CBT__  
 __CCP__ Chinese Communist Party, the ruling political party of China.  
 __CDC__ :three: Center for Disease Control. _A CDC van._  
@@ -84,6 +85,7 @@ __exe__ :mega: /eksˈee/ or /eekˈsee/ or /E-X-E/
 __F1__ Formula One.  
 __FCC__ Federal communications commission (USA) _I must abide by FCC decency standards._  
 __FDR__ Franklin Delano Roosevelt  
+__FEMA__ Federal Emergency Management Agency.  
 __FFP__ Filtering face piece (a filtering half mask).  
 __FOMO__  
 __Fr__ Freshman (Fr) vs Sophomore (So) vs Junior (Jr) vs Senior (Sr)  
