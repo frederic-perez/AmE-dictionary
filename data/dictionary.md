@@ -156,6 +156,7 @@ __accrue__ _v_ :seven: (accrued) To increase in value or amount gradually as tim
 __acculturation__ _n_  
 __accuse__  
 __acerbic__ _adj_ :six: Sharp or biting, as in character or expression. _Syn_ blistering, caustic, acid, vitriolic, acerb, acrid, sulfurous, virulent, bitter  
+__acerbity__ _n_ :two: __1__ Vitriolic or embittered speech, temper, etc. :es: mordacidad __2__ Sourness or bitterness of taste. :es: acritud,aspereza  
 __acetate__ _n_  
 __achalasia__ _n_  
 __achieve__ _v_ :mega:  
@@ -4271,7 +4272,7 @@ __connubial__ _adj_ :two: Relating to marriage or the married state; conjugal. _
 __consanguinity__ _n_  
 __conscience__ _n_ :pencil2:  
 __conscientious objector__ _n_ (CO) One who on the basis of religious or moral principles refuses to bear arms or participate in military service.  
-__conscientious__ _adj_ :dart::four: /kahn-shee-EN-shus/ Conscientious often describes those who are concerned with doing things correctly. It can be used as a synonym for both meticulous and careful. :es: concienzudo _Although Marvin was brilliant, he was not a very conscientious student, and he frequently lost points for forgetting to turn in his homework._  
+__conscientious__ _adj_ :dart::five: /kahn-shee-EN-shus/ _Conscientious_ often describes those who are concerned with doing things correctly. It can be used as a synonym for both meticulous and careful. :es: concienzudo _Although Marvin was brilliant, he was not a very conscientious student, and he frequently lost points for forgetting to turn in his homework._  
 __conscious__ _adj_ /kon-shuhs/  
 __consciousness__ _n_  
 __conscript<sup>1</sup>__ _n_ :four: One compulsorily enrolled for service, especially in the armed forces; a draftee. A conscripted person (such as a military recruit).  
@@ -4425,7 +4426,7 @@ __copperas__ _n_ /ˈkɒpərəs/ A less common name for ferrous sulphate.
 __coppice__ _n_  
 __copping__ _v_ :two::hammer: _You’re copping to a murder beef._  
 __cops and robbers__ _n_ (game)  
-__copse__ _n_ :three::hammer: _A brushy copse._  
+__copse__ _n_ :four::hammer: _A brushy copse._  
 __copter__ _n_ :three::hammer: _Navy copter._  
 __Coptic__  
 __copy__ _n_ __2a__ Material, such as a manuscript, that is to be set in type. __b__ :astonished: The words to be printed or spoken in an advertisement.  
@@ -5026,7 +5027,7 @@ __dank__ _adj_ :five: Unpleasantly damp and cold. _Huge dank caverns._ _Syn_ dam
 __dankness__ _n_ :two::hammer:  
 __danse macabre__ _n_ (Art Terms) Another name for dance of death.  
 __danseuse__ _n_ A woman who is a ballet dancer.  
-__dapper__ _adj_ :six: (of a man) Neat and trim in dress and appearance. Marked by up-to-dateness in dress and manners. _Syn_ jaunty, natty, raffish, rakish, spiffy, spruce, dashing, snappy _He smiled pleasantly upon her, looking very dapper in evening dress and a silk hat._ _The dapper lead singer._  
+__dapper__ _adj_ :seven: (of a man) Neat and trim in dress and appearance. Marked by up-to-dateness in dress and manners. _Syn_ jaunty, natty, raffish, rakish, spiffy, spruce, dashing, snappy _He smiled pleasantly upon her, looking very dapper in evening dress and a silk hat._ _The dapper lead singer._ _Dapper in his dress._  
 __dappled__ _adj_ :nine: Marked with spots of colour, light, or shade. Having spots or patches of color. _Syn_ mottled _A dappled horse._ _Trees cast their dappled shade._  
 __dare<sup>1</sup>__ _n_ :two: An act of daring; a challenge. _I applied to Harvard on a dare._  
 __dare<sup>2</sup>__ _v_  
@@ -5330,6 +5331,7 @@ __denouement__ _n_ :nine::m::mega: /deɪˈnuːmɒn/ __1__ The final resolution o
 __dent__ _v_ (denting) :four: __1__ Mark with a dent. _The drawer was dented by a kick._ _He hit a concrete bollard, denting the wing._ _Syn_ make a dent in, make an indentation in, dint, indent, mark _He grumbled that Jamie had dented his bike._ __2__ Have an adverse effect on; diminish. _This neither deterred him nor dented his enthusiasm._ _Syn_ diminish, reduce, lessen, shrink, weaken  
 __dentifrice__ _n_  
 __dentures__ _n pl_ :dart::four: /ˈdentʃəz/ A set of artificial teeth. _Do you wear dentures?_ :es: dentadura postiza  
+__denude__ _vt_ __1__ To divest of covering; make bare; uncover; strip.  
 __deontology__ _n_  
 __depart__ _v_ :two::hammer: _Buses depart every 30 minutes._  
 __departed__  
@@ -5840,7 +5842,7 @@ __dog<sup>2</sup>__ _v_ :five::hammer::astonished: _Injury concerns still dog Cl
 __dogfight<sup>1</sup>__ _n_ :two: __2__ _An aerial battle between fighter planes._  
 __dogfight<sup>2</sup>__ _vi_  
 __dogfight<sup>3</sup>__ _vt_  
-__dogged__ _adj_ :five::dart: Obstinately determined; wilful or tenacious. Marked by stubborn determination: _a dogged competitor; dogged devotion._ _Dogged persistence._  
+__dogged__ _adj_ :dart::six: Obstinately determined; wilful or tenacious. Marked by stubborn determination: _a dogged competitor; dogged devotion._ _Dogged persistence._  
 __doggedly__ _adv_ :two::hammer:  
 __doggerel__ _n_ :three: Crudely or irregularly fashioned verse, often of a humorous or burlesque nature. _Syn_ jingle _I want the man I love and honor to be something finer and higher than a perpetrator of jokes and doggerel._  
 __dogging__ _adj_ _He swung the dogging lever._  
@@ -5951,7 +5953,7 @@ __douche__ _n_ __4__ _vulgar_ _slang_ A foolish or contemptible person.
 __douchebag__ _n phr_ _informal_ :three: (douche bag) An obnoxious or contemptible person, typically a man. :es: gilipollas  
 __dough__ _n_ :two::mute:[dou~~gh~~] __2__ _slang_ Money.  
 __doughty__ _adj_ :two: /DOW-tee/ Brave, strong, and determined. Marked by stouthearted courage; brave. _The family sent gifts to the doughty firefighters for saving their cat._  
-__dour__ _adj_ :eight: Relentlessly severe, stern, or gloomy in manner or appearance. _A hard, dour, humourless fanatic._ _Hong Kong in dour mood as Chinese leader makes return visit._ _Syn_ stern, unsmiling, unfriendly, frowning, poker-faced  
+__dour__ _adj_ :nine: Relentlessly severe, stern, or gloomy in manner or appearance. _A hard, dour, humourless fanatic._ _Hong Kong in dour mood as Chinese leader makes return visit._ _Syn_ stern, unsmiling, unfriendly, frowning, poker-faced  
 __dourly__  
 __douse__ _v_ :four::hammer: _The Nationals are dousing the District of Columbia with new hope._ _They were dousing fire after fire._  
 __dove__ _v_  
@@ -7378,7 +7380,7 @@ __figure<sup>2</sup>__ _v_ _informal_ :two::hammer:
 __figurehead__ _n_ :seven: __1__ A person nominally having a prominent position, but no real authority.  
 __figurine__ _n_ A small molded or sculptured figure; a statuette. _Syn_ statuette  
 __filbert__ _n_ :es: avellana  
-__filch__ _v_ :four: To filch something is to secretly or casually steal it. The word _filch_ also usually, though not always, implies that what has been stolen is small or of little monetary value.  
+__filch__ _v_ :five: To filch something is to secretly or casually steal it. The word _filch_ also usually, though not always, implies that what has been stolen is small or of little monetary value.  
 __file a case__ _v_  
 __file suit__ _v_  
 __file<sup>1</sup>__ _n_  
@@ -7612,7 +7614,7 @@ __flighty__ _adj_ /ˈflaɪtɪ/
 __flimflam<sup>1</sup>__ _n_ :dart::two::hammer::smiling_imp:  
 __flimflam<sup>2</sup>__ _v_ :smiling_imp: To deceive, mislead, or trick someone. The word is thought to be of Scandinavian origin. _I wish I’d realized that guy was flimflamming me before I gave him the last of my money._  
 __flimsy__ _adj_ :two::hammer:  
-__flinch<sup>1</sup>__ _vi_ :eight: __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ :es: estremecerse; encogerse __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
+__flinch<sup>1</sup>__ _vi_ :nine: __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ :es: estremecerse; encogerse __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
 __flinch<sup>2</sup>__ _n_  
 __flinders__ _n_ Bits, fragments, or splinters. _Syn_ slivers, splinters _The bullet blew the glass bottle into flinders._  
 __fling<sup>1</sup>__ _n_ __4__ A brief, casual sexual or romantic relationship.  
@@ -9865,7 +9867,7 @@ __Hoyle__ _n_ [:scroll: After Edmond Hoyle, British writer on games.] A referenc
 __hub__ _n_ _The wagon’s wheels sank to the hubs._  
 __hubbly__ _adj_ Having an uneven surface; rough; bumpy; choppy.  
 __hubbub__ _n_ :seven::hammer:  
-__hubcap__ _n_ :two::hammer: (hubcaps) :es: tapacubos  
+__hubcap__ _n_ :three::hammer: :es: tapacubos  
 __hubhub__  
 __hubris__ _n_ :dart::nine::m: Excessive pride or self-confidence; arrogance. _Syn_ pride, vanity, arrogance, conceit, self-importance, haughtiness, conceitedness _Intellectual hubris._  
 __huckster__ _n_ :seven: /HUCK-ster/A huckster is someone who tries to sell you something that’s not very well made, or isn’t worth the price. If someone tries to sell you a bottle of Love Potion \#9, call him a huckster. A person who is aggressive or dishonest in selling. _The jewelry that the huckster was peddling was obviously imitation._  
@@ -9972,7 +9974,7 @@ __hypertrichosis__ _n_ A condition of excessive hairiness either all over the bo
 __hyphen__ _n_  
 __hypnopedia__ _n_ (hypnopaedia) The art or process of learning while asleep by means of lessons recorded on disk or tapes.  
 __hypnotic__ _adj_ Attracting and holding interest as if by a spell. _Syn_ mesmeric, mesmerizing, spellbinding  
-__hypochondriac__  
+__hypochondriac__ _adj, n_ :two::hammer:  
 __hypocorism__ _n_ :two: A pet name, esp one using a diminutive affix. A name of endearment; a pet name. _Syn_ pet name _“Billy” is a hypocorism for “William.”_ _“Sally” is a hypocorism for “Sarah”._  
 __hypocrisy__ _n_ :three::hammer::pencil2:  
 __hypocrite__  
@@ -14127,7 +14129,7 @@ __parchment__ _n_ :eight::astonished: __1__ The skin of a sheep or goat prepared
 __pard__  
 __pardon<sup>1</sup>__ _vt_ :three::hammer: _Pardon my ignorance._  
 __pardon<sup>2</sup>__ _n_  
-__pare__ _v_ :three::hammer: (pares, pared)  
+__pare__ _v_ :four::hammer:  
 __pareidolia__ _n_ :two: The perception of a recognizable image or meaningful pattern where none exists or is intended, as the perception of a face in the surface features of the moon.  
 __parenthesis__ _n_ In rhetoric, parenthesis is an interruption used for clarity. Example: The audience, or at least the paying members of the audience, enjoyed the show.  
 __paresthesia__ _n_  
@@ -14215,7 +14217,7 @@ __pat<sup>2</sup>__ _n_ A light touch or stroke.
 __pat<sup>3</sup>__ _adj_ Exactly suited to the occasion. _A pat reply._  
 __pat<sup>4</sup>__ _adj_ Having only superficial plausibility.  
 __pate__ _n_ :five::hammer: _The pate of a monk with a wet red tonsure._ _His grizzled pate shone like tan wax._ _A balding pate._ _His bald pate._  
-__patent leather__ _n_ :three::astonished: Leather with a glossy varnished surface, used chiefly for shoes, belts, and handbags. _Don’t step on my patent leather shoes._ :es: charol  
+__patent leather__ _n_ :five::astonished: Leather with a glossy varnished surface, used chiefly for shoes, belts, and handbags. _Don’t step on my patent leather shoes._ :es: charol  
 __patently__ _adv_ :two: Obviously. _Patently absurd._ _This is patently false._  
 __paterfamilias__ _n_ :astonished: The male head of a household or family, usu. the father.  
 __paternoster__ _n_ _Beads for telling paternosters._  
@@ -15852,7 +15854,7 @@ __radish__
 __radium dial__ _n_ _He checked the radium dial on his watch: 0517._  
 __radius__ _n_ :mega:  
 __radome__ _n_ :two::hammer:  
-__raffish__ _adj_ :two: [:scroll: From raff (rubbish), also the source of riffraff.] __1__ Vulgar or tawdry. __2__ Unconventional; carefree; rakish. __3__ Marked by smartness in dress and manners. _Syn_ jaunty, natty, rakish, dapper, spiffy, spruce, dashing, snappy, smart _His raffish costume befits his confident personality._  
+__raffish__ _adj_ :three: [:scroll: From raff (rubbish), also the source of riffraff.] __1__ Vulgar or tawdry. __2__ Unconventional; carefree; rakish. __3__ Marked by smartness in dress and manners. _Syn_ jaunty, natty, rakish, dapper, spiffy, spruce, dashing, snappy, smart _His raffish costume befits his confident personality._  
 __raffle<sup>1</sup>__ _n_ :five::hammer:  
 __raffle<sup>2</sup>__ _v_ (raffling)  
 __raft__ _n_ :five: __1a__ A collection of logs or timber fastened together for conveyance by water. __b__ A flat structure for support or transportation on water. __2__ A floating cohesive mass. __3__ A large collection or quantity. _A raft of reforms._  
@@ -16393,7 +16395,7 @@ __restaurateur__ _n_ :three: /res-tuh-ruh-TER/ A restaurateur is a person who ow
 __restenosis__ _n_  
 __resting state__ _n_ The physiologic condition achieved by complete bed rest for at least 1 hour.  
 __restitution__ _n_ _Pierucci must pay $928 in restitution._  
-__restive__ _adj_ :four: Unwilling to be controlled or be patient.  
+__restive__ _adj_ :astonished::five: /RES-tiv/ Unwilling to be controlled or be patient. _Restive_ can describe a person or group feeling impatience or uneasiness, or it can describe someone who is stubbornly resistant to control.  
 __restless__ _adj_  
 __restlessness__  
 __restorative__  
@@ -16905,7 +16907,7 @@ __safekeeping__ _n_ :two: The act of keeping safe or the state of being kept saf
 __safety net__  
 __safety pin__ _n_ :two::hammer: :es: imperdible  
 __safety__ _n_ In the context of snooker, a “safety” is a shot that is intentionally played to make it difficult for the opponent to score points.  
-__saffron__ _n_ :four::hammer: :es: azafrán  
+__saffron__ _n_ :five::hammer: :es: azafrán  
 __sag<sup>1</sup>__ _v_ :eight: (sagged, sagging) __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._  
 __sag<sup>2</sup>__ _n_ A decline, especially a temporary one.  
 __saga__ _n_ :two::mega: /SAH-guh/ A long and complicated story or series of events. Saga first referred to ancient Icelandic narratives that tell of legendary figures and events of the heroic age of Norway and Iceland. _What was supposed to be an easy return from the airport turned into quite a saga._  
@@ -20021,7 +20023,7 @@ __tarred__
 __tarry__ _v_ :three::hammer: (tarried)  
 __tart__ _adj_ :six: __1__ (of a flavour, food, etc) Sour, acid, or astringent. _She’d bitten into something overly tart._ __2__ Cutting, sharp, or caustic: _a tart remark._ _A tart comment._  
 __tartan__ _n_ :five::hammer: _Tartan trousers._ _Tartan upholstery._ _Trinket and tartan shops._  
-__tartar__ _n_  
+__tartar__ _n_ :two: An incrustation that forms on the teeth and gums. _Syn_ calculus, tophus  
 __tartare__ _adj_ (of food) Served raw: _salmon tartare._  
 __tartly__ _adv_ :two: In a tart manner. :es: ásperamente _The teacher replied tartly._  
 __tarts__ _n_ (whore)  
@@ -21798,7 +21800,7 @@ __viscus__ _n_ :astonished: Singular of viscera. A main organ that is situated i
 __vise__ _n_ :two::hammer:  
 __visitation__ _n_ :five::hammer:  
 __visitor__  
-__vista__ _n_ :three::hammer: (vistas)  
+__vista__ _n_ :four::hammer: __2__ A comprehensive mental view of a distant time or a lengthy series of events: _the vista of the future._ _That opened up a vista for Olga._  
 __vital__ _adj_  
 __vitiate__ _v_ :dart::three: /VISH-ee-ayt/ To _vitiate_ something is to ruin it or render it ineffective. To corrupt morally; debase. _Syn_ debauch, deprave, pervert _Ten minutes with these ruffians would vitiate the most honorable gentlemen._ _It vitiated the siege._ _A single inaccuracy in the spreadsheet that supported the data vitiated the entire proposal._  
 __viticulture__ _n_  
@@ -22611,8 +22613,8 @@ __wrought iron__ _n_ :two::hammer:
 __wrought<sup>1</sup>__ _v_ :four: A past tense and a past participle of work. _Syn_ worked  
 __wrought<sup>2</sup>__ _adj_ :three: __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
 __wrung__ _v_ _They have wrung their hands._  
-__wry__ _adj_ :seven: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He has a wry ear and a knack for poignance._ _Wry moments._ :es: humor seco y burlesco:  
-__wryly__ _adv_ :dart::seven::pencil2: In a wry manner. :es: irónicamente, con ironía _A few people laughed wryly._  
+__wry__ _adj_ :eight: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He has a wry ear and a knack for poignance._ _Wry moments._ :es: humor seco y burlesco:  
+__wryly__ _adv_ :dart::eight::pencil2: In a wry manner. :es: irónicamente, con ironía _A few people laughed wryly._  
 __Wu’s castle__ _n_ A two-dimensional role playing game that teaches loops and arrays in an interactive, visual way.  
 __wunderkind__ _n_ :two: A German word meaning wonder child, used to mean someone who accomplishes great things while still young.  
 __wussification__  
@@ -22722,7 +22724,7 @@ __yummy__ _adj_ :two::hammer: _Yummy food._
 __yurt__ _n_ :four: (yurts) A circular, domed, portable tent used by nomadic peoples of central Asia. _Custom yurt excursions._  
 __yuzu__ _n_ (A Japanese citrus fruit.)  
 __zaftig__ _adj_ :two: _slang_ /ZAHF-tig/ (zoftig) (of a woman) Having a pleasantly plump figure. Someone described as zaftig has a full, rounded figure, or in other words is pleasingly plump. _Portraits of zaftig models are exhibited in the artist’s collection._  
-__zaniness__ _n_ :two::hammer:  
+__zaniness__ _n_ :three::hammer:  
 __zany__ _adj_ :nine::m: /ZAY-nee/ Amusingly unconventional and idiosyncratic. _His zany humour._ _Syn_ eccentric, bizarre, weird, peculiar, odd, quirky _A zany zebra._ _Zany fruitcakes._ :es: estrafalario, surrealista  
 __zarf__ _n_  
 __zeal__ _n_  

@@ -16,7 +16,7 @@
 - __Abe__ Commonly used in English-speaking countries as a diminutive of the masculine name Abraham, or as a personal name in its own right.
 - __Ada__ A feminine given name. One origin is the Germanic element “adel-” meaning “nobility.” for example as part of the names Adelaide and Adeline. The name can also trace to a Hebrew origin, sometimes spelt Adah עָדָה, meaning “adornment.”
 - __Alf__ The male name Alf or Alv is derived from álf, the Old Norse for “elf.” It is also the shortened form of various Germanic names with álf as their first part, notably Alfred, Álvaro, or more directly from Ataulf (English: Adolph).
-- __Ann__ Variant of Anne, Ann is a form of the Latin female given name Anna. This in turn is a representation of the Hebrew Hannah, which means ‘favour’ or ‘grace.’ Related names include Annie.  
+- __Ann__ Variant of Anne, Ann is a form of the Latin female given name Anna. This in turn is a representation of the Hebrew Hannah, which means ‘favour’ or ‘grace.’ Related names include Annie.
 - __Ava__ The name Ava is primarily a feminine given name used in English and other languages. It has various origins and meanings. In English, it can be a variant of Eve or Eva, and it is also an ancient Germanic name, a diminutive of names with the element avi, with an uncertain meaning.
 - __Bea__ A feminine given name, often short for Beatrice.
 - __Ben__ Ben is frequently used as a shortened version of the given names Benjamin, Benedict, or Benson, and is also a very common given name in its own right.
@@ -50,6 +50,7 @@
 - __Lee__ Lee is a given name derived from the English surname Lee. Lee is also a hypocoristic form of the given names Ashley, Beverly, Kimberley, Leona, and Leslie.
 - __Len__ Len is a masculine given name, usually a short form (hypocorism) of Leonard.
 - __Leo__ Leo is a Latin given name. It is usually a masculine given name and it comes from the Latin word leo which in turns comes from the Greek word λέων meaning “lion.” It can also refer to the name Leonard or Leopold.
+- __Les__ Short form of Leslie, and Lester.
 - __Lex__ Lex is Greek in origin and is originally a diminutive of Alexander or Alexandra, which means “defender of men.” These days, Lex is a given name in its own right. It is a short and quippy name that not many on the playground will also have.
 - __Liz__ A women’s name of Hebrew origin, meaning “God’s Promise”. It is also a short form of Elizabeth, Elisabeth, Lisbeth, Lizanne, Liszbeth, Lizbeth, Lizabeth, Lyzbeth, Lisa, Lizette, and Alyssa.
 - __Max__ Max is a given name. For males, it is often short for Maximilian, Maxim, Maxwell, Maxfield, or Maximus in English; Maximos in Greek; or Maxime or Maxence in French. For females, it usually stands for Maxine.
@@ -75,8 +76,8 @@
 - __Tod__ The name Tod is derived from the Old English word “todde,” which means “fox.” This animal association has contributed to the name’s popularity, as foxes are often associated with cleverness, agility, and adaptability.
 - __Tom__ Mostly used as a diminutive of Thomas.
 - __Uma__ A given name in various cultures. In India, it is the name of the Hindu goddess, who is more commonly known as Parvati. In Sanskrit the word _umā_ can further mean “tranquillity,” “splendour,” “fame” and “night.”
-- __Val__ Val is a variant of the feminine given names Valerie, Valeria, Valmai, Valentina or the masculine given names Valeri, Valene, Valentine, Valen, Valentino, or Valens. Val is also a variant of the Old Norse names Vald and Valdr.  
-- __Wes__ A given name, often a short form of the name Wesley but can also be used as a standalone name. Wes is typically used for males, though it can be used for anyone.  
+- __Val__ Val is a variant of the feminine given names Valerie, Valeria, Valmai, Valentina or the masculine given names Valeri, Valene, Valentine, Valen, Valentino, or Valens. Val is also a variant of the Old Norse names Vald and Valdr.
+- __Wes__ A given name, often a short form of the name Wesley but can also be used as a standalone name. Wes is typically used for males, though it can be used for anyone.
 - __Zac__ Zack (and variant spellings Zach, Zac, Zak, Zakk) is sometimes a given name, but more often it is a hypocorism or short form of another given name, usually Zachary in the English speaking world, which derives from Zechariah.
 - __Zev__ Ze’ev (Hebrew: זְאֵב / זאב zeév; alternative spelling: Zeev, Zev, Zeeb, Zeb, Seff), is a name of Hebrew origin which means wolf. The given name is a masculine form used among Ashkenazi Jews. It is a Biblical name, adapted from a reference to Benjamin in Genesis as a “wolf that raveneth.”
 - __Zig__
