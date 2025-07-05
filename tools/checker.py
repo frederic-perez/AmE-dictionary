@@ -652,7 +652,7 @@ class Checker(object):
         size: Final[int] = len(undefined)
         if size > 0:
             undefined_sorted: Final[list[str]] = sorted(undefined)
-            max_high_frequency_headwords_shown: Final[int] = 10
+            max_high_frequency_headwords_shown: Final[int] = 2  # 10
             print(f'{DARK_ORANGE}Found {FAIL}{size} undefined high frequency headwords{DARK_ORANGE}, the very first being:')
             i: int = 0
             for headword in undefined_sorted:
@@ -731,8 +731,8 @@ def main(prog_name: str, argv: list[str]) -> None:
     if spy:
         print(OK_CYAN + 'ℹ️ #arguments: ' + str(num_arguments) + ' ' + str(argv) + END_C)
     valid_arguments: Final[list[str]] = [
-        "abbreviations+", "dictionary", "Ellroy's-lingo", "idioms", "interjections", "todo-idioms", "todo-main",
-        "top-dictionary", "top-idioms", "wip", "_wip"]
+        "abbreviations+", "dictionary", "Ellroy's-lingo", "idioms", "interjections",
+        "top-dictionary", "top-idioms", "_wip"]
     if num_arguments > len(valid_arguments):
         print(RED + "Too many arguments. Aborting..." + END_C)
         usage_and_abort(prog_name, valid_arguments)
@@ -748,8 +748,8 @@ def main(prog_name: str, argv: list[str]) -> None:
     for arg in argv:
         do_check_parts_of_speech: bool = (
             arg != "abbreviations+" and arg != 'Ellroy\'s-lingo' and arg != 'idioms'
-            and arg != 'interjections' and arg != 'todo-idioms' and arg != 'top-idioms'
-            and arg != 'wip' and arg != "_wip")
+            and arg != 'interjections' and arg != 'top-idioms'
+            and arg != "_wip")
         check(arg, do_check_parts_of_speech)
 
 
