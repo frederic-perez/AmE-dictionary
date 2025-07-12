@@ -92,7 +92,7 @@ __shush<sup>1</sup>__ :two::hammer:
 __tee-hee__ An exclamation of laughter, esp when mocking.  
 __That-a-boy!__ That is the way to do it! (Said to a boy or man.) _Come on, Chuck. That-a-boy!_  
 __there is no question__ It is indisputable. _There is no question that higher ocean temperatures have resulted in less offshore ice._  
-__tsk__ Used to express disappointment or sympathy. Used, often in quick repetition, as an exclamation of contempt, disdain, impatience, etc.  
+__tsk__ :two: Used to express disappointment or sympathy. Used, often in quick repetition, as an exclamation of contempt, disdain, impatience, etc.  
 __uff da__ :dart::two: (oof-da, oofda, oof-dah, oofdah, huffda, uff-da, uffda, uff-dah, ufda, ufdah, uf daa) [:scroll: You may have heard the interjection _uff da_ in the classic Coen brothers film _Fargo_ (1996), which is set in North Dakota. In fact, actor Kirsten Dunst described it to the Hollywood Reporter as “one of [her] favorite phrases” in Upper Midwestern English.] An exclamation or interjection used to express dismay, often when hearing about bad things or when something bad happens. _Uff da_ frequently translates to: “I am overwhelmed.”  
 __ugh__ :four: Used to express disgust, aversion, horror, or other related emotions.  
 __uh__ A representation of a common sound made when hesitating in speech.  

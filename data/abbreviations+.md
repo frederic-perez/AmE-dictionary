@@ -32,7 +32,7 @@ __BPA__ Bisphenol A. _BPA free 100% recyclable plastic bottle._
 __BRICS__ /brɪks/ Brazil, Russia, India, and China: seen collectively as the most important emerging economies with large potential markets.  
 __BS__ :four::hammer: (BSing) _One of our core values is: Open company, no BS._  
 __BYOD__ :two: Bring your own device.  
-__c/o__ :three: Care of.  
+__c/o__ :four: Care of.  
 __CBSA__ Canada Border Services Agency, a federal law enforcement agency that is responsible for border control.  
 __CBT__  
 __CCP__ Chinese Communist Party, the ruling political party of China.  
